@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1954, 354
 
 Zuletzt geändert durch
-:   Art. 332 V v. 31.10.2006 I 2407
+:   Art. 3 G v. 23.2.2017 I 298
 
 
 ## Eingangsformel
@@ -28,10 +28,10 @@ beschlossen:
 ## § 1
 
 (1) Als Bundesoberbehörde für Aufgaben der Zivilluftfahrt wird das
-Luftfahrt-Bundesamt errichtet, das dem Bundesministerium für Verkehr,
-Bau und Stadtentwicklung untersteht.
+Luftfahrt-Bundesamt errichtet, das dem Bundesministerium für Verkehr
+und digitale Infrastruktur untersteht.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt den Sitz des Luftfahrt-Bundesamts.
 
 
@@ -61,8 +61,10 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
     Luftfahrtpersonal an diese Personen,
 
 
-6.  die Anerkennung fliegerärztlicher Untersuchungsstellen für die
-    fliegerärztliche Untersuchung der in Nummer 5 genannten Luftfahrer,
+6.  die Anerkennung von flugmedizinischen Sachverständigen und Zentren
+    sowie die Entgegennahme von Meldungen von Ärzten für Arbeitsmedizin
+    für die Durchführung von flugmedizinischen Beurteilungen von
+    Flugbegleitern,
 
 
 7.  die Erteilung der Erlaubnis für die Ausbildung der in Nummer 5
@@ -85,9 +87,22 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
     Luftfahrtpersonal,
 
 
+12. das Führen der Flugbegleiterdatei und Bekanntgabe der Liste der
+    Organisationen, die Flugbegleiterschulungen durchführen,
 
-12\.
-13\.
+
+13. Genehmigungsbehörde im Sinne des Anhangs IV der Verordnung (EU) Nr.
+    1178/2011 der Kommission vom 3. November 2011 zur Festlegung
+    technischer Vorschriften und von Verwaltungsverfahren in Bezug auf das
+    fliegende Personal in der Zivilluftfahrt gemäß der Verordnung (EG) Nr.
+    216/2008 des Europäischen Parlaments und des Rates (ABl. L 311 vom
+    25\.11.2011, S. 1), die durch die Verordnung (EU) Nr. 290/2012 (ABl. L
+    100 vom 5.4.2012, S. 1) geändert worden ist, und als zuständige
+    Behörde im Sinne der Anhänge V und VI der Verordnung (EU) Nr.
+    1178/2011, soweit Flugbegleiterbescheinigungen betroffen sind,
+
+
+
 
 14. die Sammlung von Nachrichten über Luftfahrtpersonal und Luftfahrtgerät
     sowie die Auskunftserteilung über diese Nachrichten,
@@ -102,7 +117,7 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
 16. die Prüfung des technischen und betrieblichen Zustandes und der
     finanziellen Leistungsfähigkeit der Luftfahrtunternehmen und
     Luftfahrerschulen, für deren Genehmigung das Bundesministerium für
-    Verkehr, Bau und Stadtentwicklung oder das Luftfahrt-Bundesamt
+    Verkehr und digitale Infrastruktur oder das Luftfahrt-Bundesamt
     zuständig sind,
 
 
@@ -113,23 +128,41 @@ bestimmt den Sitz des Luftfahrt-Bundesamts.
 
 
 18. die stichprobenweise Kontrolle des technischen und betrieblichen
-    Zustandes von Luftfahrzeugen als Maßnahme der Luftaufsicht nach § 29
-    Luftverkehrsgesetz. Soweit das Luftfahrt-Bundesamt diese Kontrolle im
-    Einzelfall ausführt, tritt die luftaufsichtliche Kontrolle durch die
-    Länder zurück.
+    Zustandes von Luftfahrzeugen sowie der Dienstfähigkeit von
+    Luftfahrzeugführern nach Maßgabe von § 4a Absatz 1 des
+    Luftverkehrsgesetzes als Maßnahme der Luftaufsicht nach § 29 des
+    Luftverkehrsgesetzes. Soweit das Luftfahrt-Bundesamt diese Kontrollen
+    im Einzelfall ausführt, tritt die luftaufsichtliche Kontrolle durch
+    die Länder zurück. Das Luftfahrt-Bundesamt kann die vorstehenden
+    Aufgaben durch Verwaltungsakt oder öffentlich-rechtlichen Vertrag
+    (Beleihung) auch auf andere Stellen übertragen oder sich anderer
+    geeigneter Personen als Hilfsorgane bei der Wahrnehmung dieser
+    Aufgaben bedienen. Kontrollen der Dienstfähigkeit von
+    Luftfahrzeugführern dürfen jedoch nur unter ärztlicher Aufsicht
+    durchgeführt werden,
+
+
+19. die Abwehr von Angriffen auf die Sicherheit des Luftverkehrs nach § 2
+    Satz 1 des Luftsicherheitsgesetzes, soweit es nach § 16 des
+    Luftsicherheitsgesetzes hierfür zuständig ist.
 
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 dem Luftfahrt-Bundesamt weitere Aufgaben des Bundes auf dem Gebiet der
 Luftfahrt zuweisen.
+
+(3) Das Luftfahrt-Bundesamt kann die Aufgabe der Erteilung von
+Flugbegleiterbescheinigungen nach Absatz 1 Nummer 13 auf gewerbliche
+Luftverkehrsbetreiber oder auf zugelassene Ausbildungsorganisationen
+im Sinne der Verordnung (EU) Nr. 1178/2011 übertragen.
 
 
 ## § 3
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt
-die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
+erläßt die für das Luftfahrt-Bundesamt zur Durchführung des Gesetzes
 erforderlichen allgemeinen Verwaltungsvorschriften.
 
 (2)

@@ -2,7 +2,7 @@
 Title: Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland
 jurabk: BAföGZustV 2004
 layout: default
-origslug: baf_gzustv_2004
+origslug: bafoegzustv_2004
 slug: bafoegzustv_2004
 
 ---

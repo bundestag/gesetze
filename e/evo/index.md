@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 20.4.1999 I 782;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 26.5.2009 I 1146
+:   Art. 19 G v. 19.2.2016 I 254
 
 Evo neu erlassen aufgrund d. § 458 abs. 1 hgb 4100-1 durch
 :   die am 1.10.1938 in Kraft getretene V über die Einführung einer neuen Eisenbahn-Verkehrsordnung v. 8.9.1938 II 663
@@ -231,7 +231,7 @@ c)  einer Verpflichtung nach § 9 Abs. 3 Buchstabe a, b oder d nicht
 
 (2) Der erhöhte Fahrpreis nach Absatz 1 beträgt das Doppelte des
 gewöhnlichen Fahrpreises für die vom Reisenden zurückgelegte Strecke,
-mindestens 40 Euro. Der erhöhte Fahrpreis kann für die ganze vom Zug
+mindestens 60 Euro. Der erhöhte Fahrpreis kann für die ganze vom Zug
 zurückgelegte Strecke berechnet werden, wenn der Reisende nicht
 glaubhaft macht, daß er eine kürzere Strecke durchfahren hat.
 
@@ -599,7 +599,7 @@ Die Eisenbahn hat den Reisenden, wenn sich sein Aufenthalt ermitteln
 läßt, vom bevorstehenden Verkauf des Gepäcks zu benachrichtigen.
 
 
-## V. bis VIII. mit den §§ 37 bis 96
+## V. bis VIII. mit den §§ 37 bis 96 - 
 
 (weggefallen)
 
@@ -612,85 +612,39 @@ läßt, vom bevorstehenden Verkauf des Gepäcks zu benachrichtigen.
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung durch
 Eisenbahnverkehrsunternehmen kann der Reisende eine geeignete
-Schlichtungsstelle anrufen.
+Verbraucherschlichtungsstelle anrufen.
 
-(2) Eine Schlichtungsstelle ist insbesondere geeignet im Sinne von
-Absatz 1, wenn sie die Voraussetzungen der Empfehlung der Kommission
-98/257/EG vom 30. März 1998 betreffend die Grundsätze für
-Einrichtungen, die für die außergerichtliche Beilegung von
-Verbraucherstreitigkeiten zuständig sind (ABl. EG Nr. L 115 S. 31),
-erfüllt und die folgenden Grundsätze befolgt:
+(2) Die Verbraucherschlichtungsstelle nach Absatz 1 bedarf der
+Anerkennung nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar
+2016 (BGBl. I S. 254) durch das Bundesministerium für Verkehr und
+digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der
+Justiz und für Verbraucherschutz. Die Verbraucherschlichtungsstelle
+kann auch eine verkehrsträgerübergreifende Schlichtungsstelle sein.
+Die Anerkennung und der Widerruf oder die Rücknahme der Anerkennung
+sind im Bundesanzeiger bekannt zu machen und der Zentralen
+Anlaufstelle für Verbraucherschlichtung nach § 32 Absatz 2 und 5 des
+Verbraucherstreitbeilegungsgesetzes mitzuteilen.
 
-1.  Die Schlichtungsstelle muss unabhängig sein und hierdurch
-    unparteiisches Handeln sicherstellen; bei Kollegialentscheidungen kann
-    die Unabhängigkeit durch eine paritätische Mitwirkung der Vertreter
-    von Verbrauchern und Unternehmen gewährleistet werden;
+(3) Das Eisenbahnverkehrsunternehmen hat bei der Beantwortung einer
+Beschwerde wegen der Nichtbeachtung von Fahrgastrechten auf die
+Möglichkeit der Schlichtung hinzuweisen und die Adressen geeigneter
+Verbraucherschlichtungsstellen mitzuteilen.
 
-
-2.  die Beteiligten müssen Tatsachen und Bewertungen vorbringen können und
-    rechtliches Gehör erhalten;
-
-
-3.  die Schlichter und ihre Hilfspersonen müssen die Vertraulichkeit der
-    Informationen gewährleisten, von denen sie im Schlichtungsverfahren
-    Kenntnis erhalten;
-
-
-4.  das Schlichtungsverfahren muss zügig durchgeführt werden;
-
-
-5.  die Verfahrensregeln müssen für Interessierte zugänglich sein.
-
-
-
-Eine Schlichtungsstelle im Sinne von Absatz 1 kann auch eine
-verkehrsträgerübergreifende Schlichtungsstelle sein.
-
-(3) Das Eisenbahnverkehrsunternehmen soll bei der Beantwortung einer
-Beschwerde auf die Möglichkeit der Schlichtung hinweisen und die
-Adressen geeigneter Schlichtungsstellen mitteilen.
+(4) Soweit keine Verbraucherschlichtungsstelle nach Absatz 2 anerkannt
+wurde, kann das Bundesministerium für Verkehr und digitale
+Infrastruktur im Einvernehmen mit dem Bundesministerium der Justiz und
+für Verbraucherschutz die Aufgabe der Schlichtungsstelle durch
+Rechtsverordnung ohne Zustimmung des Bundesrates einer
+Bundesoberbehörde oder Bundesanstalt zuweisen und deren Verfahren
+sowie die Erhebung von Gebühren und Auslagen regeln. § 31 des
+Verbraucherstreitbeilegungsgesetzes ist auf die Regelung der Gebühren
+entsprechend anzuwenden. Die Schlichtungsstelle ist
+Verbraucherschlichtungsstelle nach dem
+Verbraucherstreitbeilegungsgesetz und muss die Anforderungen nach dem
+Verbraucherstreitbeilegungsgesetz erfüllen.
 
 
 ### Anlage
 
 (weggefallen)
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-4.  Eisenbahn-Verkehrsordnung in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 934-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Verordnung vom 30. Juni 1989 (BGBl. I S. 1273), mit den
-    für das Netz der Deutschen Reichsbahn nach § 5 Abs. 2 genehmigten
-    abweichenden Beförderungsbedingungen
-
-    mit folgender Maßgabe:
-
-    Im Verkehr zwischen den deutschen Eisenbahnen, der bis zum
-    Wirksamwerden des Beitritts auf der Grundlage des Übereinkommens vom
-    9\. Mai 1980 über den internationalen Eisenbahnverkehr (COTIF) (BGBl.
-    1985 II S. 130) durchgeführt wurde, sind Sonderabmachungen abweichend
-    von § 7 in dem Umfang zulässig, wie es Artikel 6 § 4 der Einheitlichen
-    Rechtsvorschriften für den Vertrag über die internationale
-    Eisenbahnbeförderung von Gütern (ER/CIM - Anhang B zum COTIF)
-    vorsieht.
-
-
-
-...
-
-11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten
-    Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten
-    nicht oder nicht unmittelbar Anwendung finden können, gelten sie für
-    die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze
-    und Rechtsverordnungen des Bundes, die besondere Regelungen für die
-    Deutsche Bundesbahn vorsehen.
-
-
-
 

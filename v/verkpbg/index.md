@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1991, 2174
 
 Zuletzt geändert durch
-:   Art. 13 G v. 9.12.2006 I 2833 (2007, 691)
+:   Art. 464 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -58,7 +58,7 @@ gelten die besonderen Vorschriften dieses Gesetzes bis zum Ablauf des
 16\. Dezember 2006. Zu den Verkehrswegen gehören auch die für den
 Betrieb von Verkehrswegen notwendigen Anlagen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Fernverkehrswege zwischen den in Absatz 1 Satz 1 genannten Ländern und
 den nächsten Knotenpunkten des Hauptfernverkehrsnetzes des übrigen
@@ -67,7 +67,7 @@ Bundesgebietes im einzelnen.
 
 ## § 2 Linienbestimmung
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt die Linienführung der Verkehrswege mit Ausnahme der
 Eisenbahnen des Bundes und der Straßenbahnen, § 16 Abs. 1 Satz 2 des
 Bundesfernstraßengesetzes bleibt unberührt. Die Bestimmung erfolgt im
@@ -215,7 +215,7 @@ Vorschriften dieses Gesetzes zu Ende zu führen. Die Planung gilt als
 begonnen
 
 1.  bei Linienbestimmungen mit dem Antrag auf Linienbestimmung an das
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung,
+    Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
 2.  bei Planfeststellungsverfahren mit dem Antrag auf Einleitung der

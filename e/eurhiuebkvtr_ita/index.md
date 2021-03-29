@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Italienischen Rep
   in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkVtr ITA
 layout: default
-origslug: eurhi_bkvtr_ita
+origslug: eurhiuebkvtr_ita
 slug: eurhiuebkvtr_ita
 
 ---

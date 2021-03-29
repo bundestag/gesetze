@@ -4,7 +4,7 @@ Title: Gesetz über die Bildung von Rückstellungen in der Umstellungsrechnung d
   Altbanken
 jurabk: UmstRückstG
 layout: default
-origslug: umstr_ckstg
+origslug: umstrueckstg
 slug: umstrueckstg
 
 ---

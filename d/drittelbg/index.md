@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 974
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 114 G v. 22.12.2011 I 3044
+:   Art. 8 G v. 24.4.2015 I 642
 
 
 ## Teil 1 - Geltungsbereich
@@ -55,7 +55,7 @@ nach Maßgabe dieses Gesetzes in
 
 
 5.  einer Genossenschaft mit in der Regel mehr als 500 Arbeitnehmern. § 96
-    Abs. 2 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
+    Absatz 4 und die §§ 97 bis 99 des Aktiengesetzes sind entsprechend
     anzuwenden. Die Satzung kann nur eine durch drei teilbare Zahl von
     Aufsichtsratsmitgliedern festsetzen. Der Aufsichtsrat muss zwei
     Sitzungen im Kalenderhalbjahr abhalten.
@@ -321,14 +321,4 @@ Soweit in anderen Gesetzen auf Vorschriften verwiesen wird, die durch
 Artikel 6 Abs. 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der
 Arbeitnehmervertreter in den Aufsichtsrat aufgehoben werden, treten an
 ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
-
-
-### § 15 Übergangsregelung
-
-Auf Wahlen oder Abberufungen, die vor dem 1. Juli 2004 eingeleitet
-worden sind, ist das Betriebsverfassungsgesetz 1952 in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1, veröffentlichten
-bereinigten Fassung, zuletzt geändert durch Artikel 9 des Gesetzes vom
-23\. Juli 2001 (BGBl. I S. 1852), auch nach seinem Außerkrafttreten
-anzuwenden.
 

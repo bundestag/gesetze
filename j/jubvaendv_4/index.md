@@ -3,7 +3,7 @@ Title: Vierte Verordnung zur Änderung der Verordnung über die Gewährung von J
   an Beamte und Richter des Bundes
 jurabk: JubVÄndV 4
 layout: default
-origslug: jubv_ndv_4
+origslug: jubvaendv_4
 slug: jubvaendv_4
 
 ---

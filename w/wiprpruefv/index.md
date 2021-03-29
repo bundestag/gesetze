@@ -2,7 +2,7 @@
 Title: Prüfungsverordnung für Wirtschaftsprüfer nach §§ 14 und 131l der Wirtschaftsprüferordnung
 jurabk: WiPrPrüfV
 layout: default
-origslug: wiprpr_fv
+origslug: wiprpruefv
 slug: wiprpruefv
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1707
 
 Zuletzt geändert durch
-:   Art. 3 G v. 3.9.2007 I 2178
+:   Art. 2 V v. 6.7.2016 I 1615
 
 
 ## Eingangsformel
@@ -71,10 +71,7 @@ beizufügen
 
 
 8.  gegebenenfalls eine Erklärung darüber, ob die Prüfung in verkürzter
-    Form (§ 6) abgelegt werden soll;
-
-
-9.  (weggefallen)
+    Form (§ 6) abgelegt werden soll.
 
 
 
@@ -166,8 +163,8 @@ Kalenderjahr angeboten werden.
 
 (1) Die Mitglieder der Prüfungskommission werden auf Vorschlag des
 Vorstandes der Wirtschaftsprüferkammer, welcher der Zustimmung des
-Bundesministeriums für Wirtschaft und Technologie bedarf, vom Beirat
-der Wirtschaftsprüferkammer in der Regel für die Dauer von fünf Jahren
+Bundesministeriums für Wirtschaft und Energie bedarf, vom Beirat der
+Wirtschaftsprüferkammer in der Regel für die Dauer von fünf Jahren
 berufen; die oberste Landesbehörden vertretenden Personen sind vom
 Beirat nach Benennung durch die obersten Landesbehörden, die
 untereinander abstimmen können, welche Personen welchen Landes jeweils
@@ -189,173 +186,262 @@ Vorschläge nicht gebunden.
 
 ### § 4 Prüfungsgebiete
 
-Prüfungsgebiete sind
+(1) Prüfungsgebiete sind
 
-A.  Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht
+1.  Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht,
 
-    1.  Rechnungslegung
 
-        a)  Buchführung, Jahresabschluss und Lagebericht,
+2.  Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre,
 
 
-        b)  Konzernabschluss und Konzernlagebericht, Bericht über die Beziehungen
-            zu verbundenen Unternehmen,
+3.  Wirtschaftsrecht und
 
 
-        c)  international anerkannte Rechnungslegungsgrundsätze,
+4.  Steuerrecht.
 
 
-        d)  Rechnungslegung in besonderen Fällen,
 
 
-        e)  Jahresabschlussanalyse;
+(2) Das Prüfungsgebiet Wirtschaftliches Prüfungswesen,
+Unternehmensbewertung und Berufsrecht umfasst:
 
+1.  Rechnungslegung
 
+    a)  Buchführung, Jahresabschluss und Lagebericht,
 
 
+    b)  Konzernabschluss und Konzernlagebericht, Bericht über die Beziehungen
+        zu verbundenen Unternehmen,
 
-    2.  Prüfung
 
-        a)  Prüfung der Rechnungslegung: rechtliche Vorschriften und
-            Prüfungsstandards, insbesondere Prüfungsgegenstand und
-            Prüfungsauftrag, Prüfungsansatz und Prüfungsdurchführung,
-            Bestätigungsvermerk, Prüfungsbericht und Bescheinigungen, andere
-            Reporting-Aufträge,
+    c)  international anerkannte Rechnungslegungsgrundsätze,
 
 
-        b)  sonstige gesetzlich vorgeschriebene Prüfungen, insbesondere
-            aktienrechtliche Sonderprüfungen, Prüfung von
-            Risikofrüherkennungssystemen, Geschäftsführungsprüfungen,
+    d)  Rechnungslegung in besonderen Fällen,
 
 
-        c)  andere betriebswirtschaftliche Prüfungen, insbesondere Due-Diligence-
-            Prüfungen, Kreditwürdigkeitsprüfungen, Unterschlagungsprüfungen,
-            Wirtschaftlichkeitsprüfungen, Prüfung von Sanierungskonzepten;
+    e)  Jahresabschlussanalyse;
 
 
 
 
 
-    3.  Grundzüge und Prüfung der Informationstechnologie;
+2.  Prüfung
 
+    a)  Prüfung der Rechnungslegung: rechtliche Vorschriften und
+        Prüfungsstandards, insbesondere Prüfungsgegenstand und
+        Prüfungsauftrag, Prüfungsansatz und Prüfungsdurchführung,
+        Bestätigungsvermerk, Prüfungsbericht und Bescheinigungen, andere
+        Reporting-Aufträge,
 
-    4.  Bewertung von Unternehmen und Unternehmensanteilen;
 
+    b)  sonstige gesetzlich vorgeschriebene Prüfungen, insbesondere
+        aktienrechtliche Sonderprüfungen, Prüfung von
+        Risikofrüherkennungssystemen, Geschäftsführungsprüfungen,
 
-    5.  Berufsrecht, insbesondere Organisation des Berufs, Berufsaufsicht,
-        Berufsgrundsätze und Unabhängigkeit.
 
+    c)  andere betriebswirtschaftliche Prüfungen, insbesondere Due-Diligence-
+        Prüfungen, Kreditwürdigkeitsprüfungen, Unterschlagungsprüfungen,
+        Wirtschaftlichkeitsprüfungen, Prüfung von Sanierungskonzepten;
 
 
 
 
 
+3.  Grundzüge und Prüfung der Informationstechnologie;
 
 
-B.  Angewandte Betriebswirtschaftslehre, Volkswirtschaftslehre
+4.  Bewertung von Unternehmen und Unternehmensanteilen;
 
-    1.  Angewandte Betriebswirtschaftslehre
 
-        a)  Kosten- und Leistungsrechnung,
+5.  Berufsrecht, insbesondere Organisation des Berufs, Berufsaufsicht,
+    Berufsgrundsätze und Unabhängigkeit.
 
 
-        b)  Planungs- und Kontrollinstrumente,
 
 
-        c)  Unternehmensführung und Unternehmensorganisation,
+(3) Das Prüfungsgebiet Angewandte Betriebswirtschaftslehre,
+Volkswirtschaftslehre umfasst:
 
+1.  Angewandte Betriebswirtschaftslehre
 
-        d)  Unternehmensfinanzierung sowie Investitionsrechnung,
+    a)  Kosten- und Leistungsrechnung,
 
 
+    b)  Planungs- und Kontrollinstrumente,
 
 
-        einschließlich methodischer Problemstellungen der externen
-        Rechnungslegung, der Corporate Governance und der
-        Unternehmensbewertung;
+    c)  Unternehmensführung und Unternehmensorganisation,
 
 
-    2.  Volkswirtschaftslehre
+    d)  Unternehmensfinanzierung sowie Investitionsrechnung,
 
-        a)  Grundzüge der Volkswirtschaftslehre und Volkswirtschaftspolitik,
 
 
-        b)  Grundzüge der Finanzwissenschaft;
+    einschließlich methodischer Problemstellungen der externen
+    Rechnungslegung, der Corporate Governance und der
+    Unternehmensbewertung;
 
 
+2.  Volkswirtschaftslehre
 
+    a)  Grundzüge der Volkswirtschaftslehre und Volkswirtschaftspolitik,
 
 
+    b)  Grundzüge der Finanzwissenschaft;
 
 
 
-3.  Die Nummern 1 uns 2 umfassen Grundkenntnisse anwendungsorientierter
-    Mathematik und Statistik.
 
 
 
+die Nummern 1 und 2 umfassen Grundkenntnisse anwendungsorientierter
+Mathematik und Statistik.
 
+(4) Das Prüfungsgebiet Wirtschaftsrecht umfasst:
 
-C.  Wirtschaftsrecht
+1.  Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des
+    Arbeitsrechts und Grundzüge des internationalen Privatrechts,
+    insbesondere Recht der Schuldverhältnisse und Sachenrecht;
 
-    1.  Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des
-        Arbeitsrechts und Grundzüge des internationalen Privatrechts,
-        insbesondere Recht der Schuldverhältnisse und Sachenrecht;
 
+2.  Handelsrecht, insbesondere Handelsstand und -geschäfte einschließlich
+    internationalem Kaufrecht;
 
-    2.  Handelsrecht, insbesondere Handelsstand und -geschäfte einschließlich
-        internationalem Kaufrecht;
 
+3.  Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften,
+    Recht der verbundenen Unternehmen), Corporate Governance und Grundzüge
+    des Kapitalmarktrechts;
 
-    3.  Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften,
-        Recht der verbundenen Unternehmen), Corporate Governance und Grundzüge
-        des Kapitalmarktrechts;
 
+4.  Umwandlungsrecht;
 
-    4.  Umwandlungsrecht;
 
+5.  Grundzüge des Insolvenzrechts;
 
-    5.  Grundzüge des Insolvenzrechts;
 
+6.  Grundzüge des Europarechts.
 
-    6.  Grundzüge des Europarechts.
 
 
 
+(5) Das Prüfungsgebiet Steuerrecht umfasst:
 
+1.  Abgabenordnung und Nebengesetze, Finanzgerichtsordnung;
 
 
+2.  Recht der Steuerarten, insbesondere
 
+    a)  Einkommen-, Körperschaft- und Gewerbesteuer,
 
-D.  Steuerrecht
 
-    1.  Abgabenordnung und Nebengesetze, Finanzgerichtsordnung;
+    b)  Bewertungsgesetz, Erbschaftsteuer, Grundsteuer,
 
 
-    2.  Recht der Steuerarten, insbesondere
+    c)  Umsatzsteuer, Grunderwerbsteuer,
 
-        a)  Einkommen-, Körperschaft- und Gewerbesteuer,
 
+    d)  Umwandlungssteuerrecht;
 
-        b)  Bewertungsgesetz, Erbschaftsteuer, Grundsteuer,
 
 
-        c)  Umsatzsteuer, Grunderwerbsteuer,
 
 
-        d)  Umwandlungssteuerrecht;
+3.  Grundzüge des Internationalen Steuerrechts.
 
 
 
 
 
-    3.  Grundzüge des Internationalen Steuerrechts.
+### § 4a Prüfungsgebiete der verkürzten Prüfung nach § 13a der Wirtschaftsprüferordnung
 
+(1) Prüfungsgebiete der verkürzten Prüfung nach § 13a der
+Wirtschaftsprüferordnung sind
 
+1.  Wirtschaftliches Prüfungswesen und Unternehmensbewertung,
 
 
+2.  Wirtschaftsrecht und
 
 
+3.  Steuerrecht.
+
+
+
+
+(2) Das Prüfungsgebiet Wirtschaftliches Prüfungswesen und
+Unternehmensbewertung umfasst:
+
+1.  Rechnungslegung
+
+    a)  Konzernabschluss und Konzernlagebericht, Bericht über die Beziehungen
+        zu verbundenen Unternehmen,
+
+
+    b)  international anerkannte Rechnungslegungsgrundsätze,
+
+
+    c)  Rechnungslegung in besonderen Fällen;
+
+
+
+
+
+2.  Prüfung
+
+    a)  Prüfung der Rechnungslegung, soweit von der Pflichtprüfung des
+        Jahresabschlusses und des Lageberichts von Gesellschaften mit
+        beschränkter Haftung abweichend: rechtliche Vorschriften und
+        Prüfungsstandards, insbesondere Prüfungsgegenstand und
+        Prüfungsauftrag, Prüfungsansatz und Prüfungsdurchführung,
+        Bestätigungsvermerk, Prüfungsbericht und Bescheinigungen, andere
+        Reporting-Aufträge,
+
+
+    b)  sonstige gesetzlich vorgeschriebene Prüfungen, insbesondere
+        aktienrechtliche Sonderprüfungen, Prüfung von
+        Risikofrüherkennungssystemen, Geschäftsführungsprüfungen,
+
+
+    c)  andere betriebswirtschaftliche Prüfungen, insbesondere Due-Diligence-
+        Prüfungen, Kreditwürdigkeitsprüfungen, Unterschlagungsprüfungen,
+        Wirtschaftlichkeitsprüfungen, Prüfung von Sanierungskonzepten;
+
+
+
+
+
+3.  Bewertung von Unternehmen und Unternehmensanteilen.
+
+
+
+
+(3) Das Prüfungsgebiet Wirtschaftsrecht umfasst:
+
+1.  Grundzüge des internationalen Privatrechts, insbesondere Recht der
+    Schuldverhältnisse;
+
+
+2.  Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften
+    ohne Gesellschaften mit beschränkter Haftung, Recht der verbundenen
+    Unternehmen), Corporate Governance und Grundzüge des
+    Kapitalmarktrechts;
+
+
+3.  Umwandlungsrecht;
+
+
+4.  Grundzüge des Europarechts.
+
+
+
+
+(4) Das Prüfungsgebiet Steuerrecht umfasst die Inhalte nach § 4 Absatz
+5\.
+
+(5) Bei der Auswahl und der Gewichtung der Prüfungsaufgaben ist die
+praktische Berufsarbeit der vereidigten Buchprüfer besonders zu
+berücksichtigen.
 
 
 ### § 5 Gliederung der Prüfung
@@ -383,21 +469,43 @@ die besonderen Verhältnisse behinderter Menschen berücksichtigen,
 sollen von der Prüfungsstelle zugelassen werden. Es sind zu bearbeiten
 
 1.  zwei Aufgaben aus dem Gebiet Wirtschaftliches Prüfungswesen,
-    Unternehmensbewertung und Berufsrecht (§ 4 Buchstabe A),
+    Unternehmensbewertung und Berufsrecht (§ 4 Absatz 2),
 
 
 2.  zwei Aufgaben aus dem Gebiet Angewandte Betriebswirtschaftslehre,
-    Volkswirtschaftslehre (§ 4 Buchstabe B),
+    Volkswirtschaftslehre (§ 4 Absatz 3),
 
 
-3.  eine Aufgabe aus dem Gebiet Wirtschaftsrecht (§ 4 Buchstabe C),
+3.  eine Aufgabe aus dem Gebiet Wirtschaftsrecht (§ 4 Absatz 4),
 
 
-4.  zwei Aufgaben aus dem Gebiet Steuerrecht (§ 4 Buchstabe D).
+4.  zwei Aufgaben aus dem Gebiet Steuerrecht (§ 4 Absatz 5).
 
 
 
 Es ist jeweils eine Aufgabe an je einem Tag zu bearbeiten.
+
+(3) Abweichend von Absatz 2 Satz 3 und § 5 Satz 2 sind bei der
+verkürzten Prüfung nach § 13a der Wirtschaftsprüferordnung zu
+bearbeiten
+
+1.  eine Aufgabe aus dem Gebiet Wirtschaftliches Prüfungswesen und
+    Unternehmensbewertung (§ 4a Absatz 2 Nummer 1),
+
+
+2.  eine Aufgabe aus dem Gebiet Wirtschaftliches Prüfungswesen und
+    Unternehmensbewertung (§ 4a Absatz 2 Nummer 2 und 3),
+
+
+3.  eine Aufgabe aus dem Gebiet Wirtschaftsrecht (§ 4a Absatz 3),
+
+
+4.  zwei Aufgaben aus dem Gebiet Steuerrecht (§ 4a Absatz 4).
+
+
+
+Abweichend von Absatz 2 Satz 1 stehen für jede Aufsichtsarbeit nach
+Nummer 1 bis 3 zwei Stunden zur Verfügung.
 
 
 ### § 8 Aufgabenkommission
@@ -517,7 +625,8 @@ Die Bewertung mit halben Zwischennoten ist zulässig.
 
 
 Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt
-durch deren Zahl.
+durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen ohne
+Rundung zu berechnen.
 
 
 ### § 12 Bewertung der Aufsichtsarbeiten
@@ -545,7 +654,11 @@ Prüfung ist nicht bestanden.
 (3) Absatz 2 gilt entsprechend, wenn die Aufsichtsarbeiten aus dem
 Gebiet Wirtschaftliches Prüfungswesen, Unternehmensbewertung und
 Berufsrecht im Durchschnitt nicht mindestens mit der Note 5,00
-bewertet sind.
+bewertet sind. Abweichend davon gilt bei der verkürzten Prüfung nach §
+13a der Wirtschaftsprüferordnung Absatz 2 entsprechend, wenn die
+Aufsichtsarbeiten aus dem Gebiet Wirtschaftliches Prüfungswesen und
+Unternehmensbewertung im Durchschnitt nicht mindestens mit der Note
+5,00 bewertet sind.
 
 
 ### § 14 Vorberatung der Prüfungskommission
@@ -563,20 +676,29 @@ Wirtschaftliches Prüfungswesen, Unternehmensbewertung und Berufsrecht,
 einem Prüfungsabschnitt aus dem Gebiet Angewandte
 Betriebswirtschaftslehre, Volkswirtschaftslehre, einem
 Prüfungsabschnitt aus dem Gebiet Wirtschaftsrecht und einem
+Prüfungsabschnitt aus dem Gebiet Steuerrecht. Abweichend davon besteht
+die mündliche Prüfung bei der verkürzten Prüfung nach § 13a der
+Wirtschaftsprüferordnung aus einem kurzen Vortrag und vier
+Prüfungsabschnitten, und zwar zwei Prüfungsabschnitten aus dem Gebiet
+Wirtschaftliches Prüfungswesen und Unternehmensbewertung, einem
+Prüfungsabschnitt aus dem Gebiet Wirtschaftsrecht und einem
 Prüfungsabschnitt aus dem Gebiet Steuerrecht.
 
 (2) Die mündliche Prüfung beginnt mit einem kurzen Vortrag der zu
 prüfenden Person über einen Gegenstand aus der Berufsarbeit der
 Wirtschaftsprüfer und Wirtschaftsprüferinnen, für den ihr eine halbe
 Stunde vorher aus jedem der in § 4 genannten Prüfungsgebiete ein Thema
-zur Wahl gestellt wird. Bei verkürzten Prüfungen (§ 6) werden drei
-Themen zur Wahl gestellt; umfasst die Prüfung weniger als drei
-Prüfungsgebiete, erhöht sich die Zahl der Themen aus dem
-Prüfungsgebiet nach § 4 Buchstabe A entsprechend. Die Dauer des
-Vortrags soll zehn Minuten nicht überschreiten. Im Anschluss daran
-sind aus den in § 4 genannten Prüfungsgebieten Fragen zu stellen, die
-mit der Berufsarbeit der Wirtschaftsprüfer und Wirtschaftsprüferinnen
-zusammenhängen.
+zur Wahl gestellt wird. Bei verkürzten Prüfungen nach den §§ 8a, 13
+und 13b der Wirtschaftsprüferordnung werden drei Themen zur Wahl
+gestellt; umfasst die Prüfung weniger als drei Prüfungsgebiete, erhöht
+sich die Zahl der Themen aus dem Prüfungsgebiet nach § 4 Absatz 2
+entsprechend. Die Dauer des Vortrags soll zehn Minuten nicht
+überschreiten. Im Anschluss daran sind aus den in § 4 genannten
+Prüfungsgebieten Fragen zu stellen, die mit der Berufsarbeit der
+Wirtschaftsprüfer und Wirtschaftsprüferinnen zusammenhängen. Bei der
+verkürzten Prüfung nach § 13a der Wirtschaftsprüferordnung gelten die
+Sätze 1 bis 4 mit der Maßgabe, dass sich die Prüfungsgebiete jeweils
+aus § 4a, im Fall des Satzes 2 aus § 4a Absatz 2 ergeben.
 
 (3) Die Dauer der Prüfung soll für die einzelne zu prüfende Person
 zwei Stunden nicht überschreiten. Für Personen, die nach § 13a der
@@ -601,8 +723,8 @@ werden, einmal bei der mündlichen Prüfung zuzuhören.
 
 ### § 16 Bewertung der mündlichen Prüfung
 
-(1) In der mündlichen Prüfung werden der kurze Vortrag und die fünf
-Prüfungsabschnitte jeweils gesondert bewertet.
+(1) In der mündlichen Prüfung werden der kurze Vortrag und die
+einzelnen Prüfungsabschnitte jeweils gesondert bewertet.
 
 (2) Die Noten werden auf Vorschlag der jeweils prüfenden Person von
 der Prüfungskommission festgesetzt.
@@ -629,7 +751,10 @@ Anwendung des § 17 Satz 2 mindestens mit der Note 4,00 bewertete
 Leistung erbracht wurde. Dabei ist bei der Ermittlung des Ergebnisses
 der mündlichen Prüfung auf den einzelnen Prüfungsgebieten der kurze
 Vortrag (§ 15 Abs. 1) unter entsprechender Anwendung des § 16 Abs. 3
-dem Prüfungsgebiet zuzurechnen, dem er entnommen ist.
+dem Prüfungsgebiet zuzurechnen, dem er entnommen ist. Abweichend von
+Absatz 1 Satz 2 ist die verkürzte Prüfung nach § 13a der
+Wirtschaftsprüferordnung bestanden, wenn die geprüfte Person eine
+Prüfungsgesamtnote von mindestens 4,00 erzielt hat.
 
 (2) Die Entscheidung der Prüfungskommission ist der geprüften Person
 im Anschluss an die mündliche Prüfung bekannt zu geben. Sie erhält bei
@@ -670,7 +795,7 @@ Ergänzungsprüfung abzulegen hat, eine mindestens mit 4,00 zu
 bewertende Leistung zu erbringen; andernfalls hat sie die gesamte
 Prüfung nicht bestanden.
 
-(5) Umfasst die Prüfung nur das Prüfungsgebiet nach § 4 Buchstabe A,
+(5) Umfasst die Prüfung nur das Prüfungsgebiet nach § 4 Absatz 2,
 finden die Absätze 1 und 2 keine Anwendung.
 
 
@@ -714,22 +839,23 @@ meldet.
 Aufsichtsarbeit nicht teilnimmt oder sich der mündlichen Prüfung oder
 Teilen derselben nicht unterzieht und hierfür ein triftiger Grund
 vorliegt. Der Grund muss der Prüfungsstelle unverzüglich schriftlich
-mitgeteilt und nachgewiesen werden. Die Prüfungsstelle entscheidet, ob
-ein Grund als triftig anzusehen ist und ob der Nachweis rechtzeitig
-erbracht ist. Bei behaupteter Krankheit kann die Vorlage eines
-amtsärztlichen Zeugnisses verlangt werden.
+oder elektronisch mitgeteilt und nachgewiesen werden. Die
+Prüfungsstelle entscheidet, ob ein Grund als triftig anzusehen ist und
+ob der Nachweis rechtzeitig erbracht ist. Bei behaupteter Krankheit
+kann die Vorlage eines amtsärztlichen Zeugnisses verlangt werden.
 
 (3) Im Falle des Absatzes 2 ist die zu prüfende Person zu einem
 späteren Prüfungstermin zur Ablegung der noch nicht erledigten Teile
 der schriftlichen Prüfung oder der noch nicht erledigten mündlichen
-Prüfung erneut zu laden; § 13a Abs. 2 der Wirtschaftsprüferordnung
-bleibt unberührt.
+Prüfung erneut zu laden.
 
 
 ### § 22 Wiederholung der Prüfung
 
-(1) Die Prüfung kann zweimal wiederholt werden; § 13a Abs. 2 der
-Wirtschaftsprüferordnung bleibt unberührt. Für die Wiederholung der
+(1) Die Prüfung kann zweimal wiederholt werden; nicht bestandene
+Prüfungsversuche einer bis zum 31. Dezember 2009 abgelegten verkürzten
+Prüfung nach § 13a der Wirtschaftsprüferordnung in der Fassung vom 27.
+Dezember 2004 bleiben unberücksichtigt. Für die Wiederholung der
 Prüfung ist eine erneute Zulassung erforderlich.
 
 (2) Wird der Antrag auf erneute Zulassung gestellt, sind nur die in §
@@ -769,6 +895,12 @@ nicht bestanden ist. Der Widerruf ist ausgeschlossen, wenn seit der
 Beendigung der Prüfung mehr als drei Jahre vergangen sind.
 
 
+### § 24a Einsicht in Prüfungsakten
+
+Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung
+die Prüfungsakten persönlich einsehen.
+
+
 ## Zweiter Teil - Prüfungsverfahren nach § 131l der Wirtschaftsprüferordnung
 
 
@@ -786,25 +918,11 @@ Wirtschaftsprüferkammer" (Prüfungsstelle) zu richten.
 
 
 2.  eine Bescheinigung der zuständigen Behörde eines Staates gemäß § 131g
-    Abs. 1 der Wirtschaftsprüferordnung nach Artikel 8 Abs. 1 der
-    Richtlinie 89/48/EWG des Rates vom 21. Dezember 1988 über eine
-    allgemeine Regelung zur Anerkennung der Hochschuldiplome, die eine
-    mindestens dreijährige Berufsausbildung abschließen (ABl. EG 1989 Nr.
-    L 19 S. 16), durch die nachgewiesen wird, dass die zu prüfende Person
-    ein Diplom erlangt hat, aus dem hervorgeht, dass sie über die
-    beruflichen Voraussetzungen verfügt, die für die unmittelbare
-    Zulassung zur Pflichtprüfung von Jahresabschlüssen und anderer
-    Rechnungsunterlagen im Sinne des Artikels 1 Abs. 1 der Richtlinie
-    84/253/EWG des Rates vom 10. April 1984 über die Zulassung der mit der
-    Pflichtprüfung der Rechnungsunterlagen beauftragten Personen (ABl. EG
-    Nr. L 126 S. 20) oder im Sinne einer entsprechenden neu gefassten
-    europäischen Regelung in diesem Staat erforderlich sind;
+    Absatz 1 der Wirtschaftsprüferordnung, durch die nachgewiesen wird,
+    dass die zu prüfende Person Abschlussprüfer ist;
 
 
-3.  ein Nachweis, dass die zu prüfende Person den überwiegenden Teil der
-    Mindestausbildungszeit in Staaten gemäß § 131g Abs. 1 der
-    Wirtschaftsprüferordnung abgeleistet hat, oder eine Bescheinigung
-    gemäß § 131g Abs. 2 Satz 2 der Wirtschaftsprüferordnung;
+3.  (weggefallen)
 
 
 4.  eine Erklärung über das Wahlfach für die mündliche Prüfung;
@@ -823,10 +941,7 @@ Wirtschaftsprüferkammer" (Prüfungsstelle) zu richten.
 
 
 8.  gegebenenfalls ein Antrag auf Erlass von Prüfungsleistungen nach § 28
-    Abs. 2 und 3;
-
-
-9.  (weggefallen).
+    Abs. 2 und 3.
 
 
 
@@ -844,13 +959,13 @@ Prüfungssprache ist Deutsch. § 1 Abs. 3 gilt entsprechend.
 
 (1) Der Prüfungskommission gehören als Mitglieder an eine eine oberste
 Landesbehörde vertretende Person als vorsitzendes Mitglied, eine die
-Finanzverwaltung vertretende Person und zwei Wirtschaftsprüfer oder
+Finanzverwaltung vertretende Person, eine weitere Person mit der
+Befähigung zum Richteramt und zwei Wirtschaftsprüfer oder
 Wirtschaftsprüferinnen. An der verkürzten Prüfung (§ 28 Abs. 1), bei
 der die Prüfung im Steuerrecht entfällt, nimmt die die
-Finanzverwaltung vertretende Person nicht teil. Ein Mitglied der
-Kommission muss die Befähigung zum Richteramt haben.
+Finanzverwaltung vertretende Person nicht teil.
 
-(2) § 2 Abs. 3 bis 7 und § 3 Abs. 1, 2 und 4 gelten entsprechend.
+(2) § 2 Absatz 2 bis 7 und § 3 Abs. 1, 2 und 4 gelten entsprechend.
 
 
 ### § 27 Prüfungsgebiete
@@ -858,45 +973,42 @@ Kommission muss die Befähigung zum Richteramt haben.
 (1) In der Eignungsprüfung sind Prüfungsgebiete der schriftlichen
 Prüfung
 
-A.  Wirtschaftsrecht
+1.  Wirtschaftsrecht
 
-    1.  Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des
+    a)  Grundzüge des Bürgerlichen Rechts einschließlich Grundzüge des
         Arbeitsrechts, soweit es für die praktische Berufsarbeit des
         Wirtschaftsprüfers von Bedeutung ist, mit Ausnahme des Familienrechts
-        und des Erbrechts;
+        und des Erbrechts,
 
 
-    2.  Grundzüge des Handelsrechts, insbesondere Handelsstand und -geschäfte;
+    b)  Grundzüge des Handelsrechts, insbesondere Handelsstand und -geschäfte,
 
 
-    3.  Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften,
-        Recht der verbundenen Unternehmen) und Corporate Governance;
+    c)  Gesellschaftsrecht (Personengesellschaften und Kapitalgesellschaften,
+        Recht der verbundenen Unternehmen) und Corporate Governance,
 
 
-    4.  Umwandlungsrecht;
-
-
-    5.  Grundzüge des Europarechts;
+    d)  Umwandlungsrecht;
 
 
 
 
 
-B.  Steuerrecht I
+2.  Steuerrecht I
 
-    1.  Abgabenordnung und Nebengesetze, Finanzgerichtsordnung;
-
-
-    2.  Einkommen- und Körperschaftsteuer;
+    a)  Abgabenordnung und Nebengesetze, Finanzgerichtsordnung,
 
 
-    3.  Bewertungsgesetz;
+    b)  Einkommen- und Körperschaftsteuer,
 
 
-    4.  Grundzüge des Internationalen Steuerrechts;
+    c)  Bewertungsgesetz,
 
 
-    5.  Umwandlungssteuerrecht.
+    d)  Grundzüge des Internationalen Steuerrechts,
+
+
+    e)  Umwandlungssteuerrecht.
 
 
 
@@ -906,13 +1018,13 @@ B.  Steuerrecht I
 
 (2) In der Eignungsprüfung sind Prüfungsgebiete der mündlichen Prüfung
 
-A.  Wirtschaftliches Prüfungswesen
+1.  Wirtschaftliches Prüfungswesen
 
-    1.  rechtliche Vorschriften über Rechnungslegung: Buchführung,
-        Jahresabschluss und Lagebericht;
+    a)  rechtliche Vorschriften über Rechnungslegung: Buchführung,
+        Jahresabschluss und Lagebericht,
 
 
-    2.  rechtliche Vorschriften über die Pflichtprüfung des Jahresabschlusses
+    b)  rechtliche Vorschriften über die Pflichtprüfung des Jahresabschlusses
         und des Lageberichts von Kapitalgesellschaften und
         Personenhandelsgesellschaften im Sinne des § 264a des
         Handelsgesetzbuchs einschließlich des Konzernabschlusses und des
@@ -922,20 +1034,20 @@ A.  Wirtschaftliches Prüfungswesen
 
 
 
-B.  Berufsrecht der Wirtschaftsprüfer, insbesondere Organisation des
+2.  Berufsrecht der Wirtschaftsprüfer, insbesondere Organisation des
     Berufs, Berufsaufsicht, Berufsgrundsätze und Unabhängigkeit;
 
 
-C.  ein vom Bewerber zu bestimmendes Wahlfach; als Wahlfach können gewählt
+3.  ein vom Bewerber zu bestimmendes Wahlfach; als Wahlfach können gewählt
     werden die Prüfungsgebiete
 
-    1.  Steuerrecht II (Erbschaftsteuer, Gewerbesteuer, Grundsteuer);
+    a)  Steuerrecht II (Erbschaftsteuer, Gewerbesteuer, Grundsteuer),
 
 
-    2.  Insolvenzrecht;
+    b)  Insolvenzrecht,
 
 
-    3.  Grundzüge des Kapitalmarktrechts.
+    c)  Grundzüge des Kapitalmarktrechts.
 
 
 
@@ -946,11 +1058,11 @@ Genügt eine Aufsichtsarbeit nicht den Anforderungen, so ist zusätzlich
 das Prüfungsgebiet, aus dem diese Arbeit entnommen wurde, Gegenstand
 der mündlichen Prüfung.
 
-(3) Die Prüfungsgebiete nach Absatz 1 Buchstabe A Nr. 3 sowie Absatz 2
-Satz 1 Buchstabe A Nr. 1 und 2 sind nur insoweit Prüfungsgegenstand,
-als sie nicht durch Richtlinien des Rates angeglichen worden sind oder
-das Recht der Bundesrepublik Deutschland, insbesondere auf Grund von
-in den Richtlinien eingeräumten Wahlmöglichkeiten, Besonderheiten
+(3) Die Prüfungsgebiete nach Absatz 1 Nummer 1 Buchstabe c sowie
+Absatz 2 Satz 1 Nummer 1 sind nur insoweit Prüfungsgegenstand, als sie
+nicht durch Richtlinien des Rates angeglichen worden sind oder das
+Recht der Bundesrepublik Deutschland, insbesondere auf Grund von in
+den Richtlinien eingeräumten Wahlmöglichkeiten, Besonderheiten
 enthält.
 
 
@@ -989,10 +1101,10 @@ Verfügung. Behinderten Menschen kann die Frist verlängert werden;
 Hilfsmittel und die Inanspruchnahme von Hilfeleistungen Dritter, die
 die besonderen Verhältnisse behinderter Menschen berücksichtigen,
 sollen von der Prüfungsstelle zugelassen werden. Es sind zu bearbeiten
-je eine Aufgabe aus dem Gebiet des Wirtschaftsrechts (§ 27 Abs. 1
-Buchstabe A) und des Steuerrechts I (§ 27 Abs. 1 Buchstabe B), und
-zwar jeweils eine Aufgabe an je einem Tag. Für die Aufgaben können
-zwei Themen zur Wahl gestellt werden. § 10 gilt entsprechend.
+je eine Aufgabe aus dem Gebiet des Wirtschaftsrechts (§ 27 Absatz 1
+Nummer 1) und des Steuerrechts I (§ 27 Absatz 1 Nummer 2), und zwar
+jeweils eine Aufgabe an je einem Tag. Für die Aufgaben können zwei
+Themen zur Wahl gestellt werden. § 10 gilt entsprechend.
 
 (3) Jede Aufsichtsarbeit ist von zwei nach § 26 Abs. 2 berufenen
 Mitgliedern der Prüfungskommission, die nicht an der mündlichen
@@ -1054,8 +1166,7 @@ aufzunehmen, in der festgestellt werden
 3.  die Bewertung der mündlichen Prüfung;
 
 
-4.  die Entscheidung des Prüfungsausschusses über das Ergebnis der
-    Prüfung.
+4.  die Entscheidung der Prüfungskommission über das Ergebnis der Prüfung.
 
 
 
@@ -1084,15 +1195,12 @@ entsprechend.
 
 ### § 33 Wiederholung der Prüfung
 
-(1) Die Prüfung kann zweimal wiederholt werden; § 13a Abs. 2 der
-Wirtschaftsprüferordnung bleibt unberührt. Für die Wiederholung der
-Prüfung ist eine erneute Zulassung erforderlich.
+(1) Die Prüfung kann zweimal wiederholt werden. Für die Wiederholung
+der Prüfung ist eine erneute Zulassung erforderlich.
 
 (2) Wird der Antrag auf erneute Zulassung gestellt, sind nur die in §
-25 Abs. 2 Nr. 1, 4, 5, 7 bis 9 genannten Unterlagen und Erklärungen
-beizufügen; dies gilt nicht für Anträge nach dem 31. Dezember 2003,
-wenn die Zulassung zur vorhergehenden Prüfung bereits vor dem 1.
-Januar 2004 erfolgte.
+25 Absatz 2 Nummer 1, 4, 5, 7 und 8 genannten Unterlagen und
+Erklärungen beizufügen.
 
 
 ### § 34 Täuschungsversuch, Ordnungsverstöße
@@ -1105,20 +1213,8 @@ den Bewerber von der Prüfung ausschließen. Satz 1 gilt entsprechend
 für die mündliche Prüfung. § 24 Abs. 2 bis 4 gilt entsprechend.
 
 
-## Dritter Teil - Schlussvorschriften
+### § 35 Einsicht in Prüfungsakten
 
-
-
-### § 35 Übergangsregelung
-
-Vor dem 24. Juli 2004 begonnene und an diesem Tag noch laufende
-mündliche und schriftliche Prüfungen werden nach dem bis zum 23. Juli
-2004 geltenden Recht beendet; dies gilt nicht für nachfolgende
-Ergänzungs- und Wiederholungsprüfungen sowie für die Fortsetzung der
-Prüfung im Fall des § 21 Abs. 3 oder § 32 Satz 3.
-
-
-### § 36 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
+Die geprüfte Person kann nach Bekanntgabe des Ergebnisses der Prüfung
+die Prüfungsakten persönlich einsehen.
 

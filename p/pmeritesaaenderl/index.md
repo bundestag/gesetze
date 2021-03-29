@@ -3,7 +3,7 @@ Title: Erlaß über die Genehmigung von Änderungen der Satzung des Ordens Pour 
   für Wissenschaften und Künste
 jurabk: PMeriteSaÄndErl
 layout: default
-origslug: pmeritesa_nderl
+origslug: pmeritesaaenderl
 slug: pmeritesaaenderl
 
 ---

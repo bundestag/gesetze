@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2120
 
 Geändert durch
-:   Art. 2 V v. 9.5.2011 I 818
+:   Art. 1 V v. 11.9.2015 I 1572
 
 
 ## Eingangsformel
@@ -63,10 +63,10 @@ dieser Verordnung wird die monatliche Sonderzahlung am ersten Tag des
 übernächsten auf die Verkündung folgenden Monats fällig.
 
 
-## § 1a Monatliche Sonderzahlungen für die Jahre 2008 bis 2011
+## § 2 Monatliche Sonderzahlungen für August 2008 bis September 2013
 
 Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
-Dienstbezügen erhalten für die Zeit von August 2008 bis Dezember 2011
+Dienstbezügen erhalten für die Zeit von August 2008 bis September 2013
 eine monatliche Sonderzahlung in der Höhe, die ihnen im Monat Dezember
 2007 nach § 1 Absatz 2
 
@@ -81,7 +81,13 @@ eine monatliche Sonderzahlung in der Höhe, die ihnen im Monat Dezember
 § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
 
 
-## § 2 Inkrafttreten
+## § 3 Monatliche Sonderzahlungen für Oktober 2013 bis Januar 2018
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
+Die bei der Deutschen Post AG beschäftigten Beamtinnen und Beamten mit
+Dienstbezügen erhalten für die Zeit von Oktober 2013 bis Januar 2018
+eine monatliche Sonderzahlung in Höhe von 4 Prozent der Dienstbezüge
+nach § 78 Absatz 1 des Bundesbesoldungsgesetzes. Beamtinnen und Beamte
+der Besoldungsgruppe A 2 bis A 8 erhalten zusätzlich eine monatliche
+Sonderzahlung in Höhe von 10,42 Euro. § 6 Absatz 1 und § 72a Absatz 1
+des Bundesbesoldungsgesetzes gelten entsprechend.
 

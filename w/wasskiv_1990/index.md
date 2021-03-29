@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 107
 
-Zuletzt geändert durch
-:   Art. 9 V v. 20.1.2006 I 220
-
+Stand: Zuletzt geändert Art. 36 V v. 2.6.2016 I 1257
 
 ## Eingangsformel
 
@@ -51,7 +49,7 @@ betrieben werden
     festgesetzt sind,
 
 
-3.  bei Wetter mit einer Sicht von mehr als 1.000 m,
+3.  bei Wetter mit einer Sicht von mehr als 1 000 m,
 
 
 4.  wenn der Wasserskiläufer eine verkehrssicherheitstechnisch geeignete
@@ -86,8 +84,9 @@ erforderlich, die Breite der freigegebenen Strecken oder Wasserflächen
 an.
 
 (3) Eine Übersicht über die freigegebenen Strecken und Wasserflächen
-wird im Verkehrsblatt - Amtsblatt des Bundesministers für Verkehr, Bau
-und Stadtentwicklung der Bundesrepublik Deutschland - veröffentlicht.
+wird im Verkehrsblatt - Amtsblatt des Bundesministers für Verkehr und
+digitale Infrastruktur der Bundesrepublik Deutschland -
+veröffentlicht.
 
 
 ## § 2
@@ -160,7 +159,7 @@ vom 18. Dezember 2002 (BGBl. I S. 4580) geändert worden ist, in der
 jeweils geltenden Fassung) darf als ziehendes Fahrzeug nur eingesetzt
 werden, wenn es zusätzlich zu den Anforderungen nach Satz 1 über
 ausreichende Kippstabilität verfügt und sein Typ in einer amtlichen
-Liste des Bundesministeriums für Verkehr, Bau und Stadtentwicklung,
+Liste des Bundesministeriums für Verkehr und digitale Infrastruktur,
 die im Verkehrsblatt bekannt gemacht wird, aufgeführt ist. Die
 Aufnahme in die Liste erfolgt, wenn der Typ die Anforderungen nach den
 Sätzen 1 und 2 erfüllt.
@@ -169,7 +168,7 @@ Sätzen 1 und 2 erfüllt.
 ## § 4
 
 (1) Unbeschadet des § 1 Abs. 1 Satz 1 Nr. 1 dürfen nur mit Erlaubnis
-der Wasser- und Schiffahrtsdirektion betrieben werden:
+der Generaldirektion Wasserstraßen und Schifffahrt betrieben werden:
 
 1.  das Wasserskilaufen von mehreren Personen an einer oder mehreren
     seitlich am Fahrzeug fest angebrachten Stangen oder sonstigen
@@ -183,20 +182,21 @@ der Wasser- und Schiffahrtsdirektion betrieben werden:
 Die Erlaubnis kann auch nachträglich befristet und mit Auflagen
 verbunden werden.
 
-(2) Die Wasser- und Schiffahrtsdirektion kann bei der Erlaubnis von
-Veranstaltungen, die zu Ansammlungen von Fahrzeugen führen oder die
-Schiffahrt beeinträchtigen können, sowie bei der Erlaubnis nach Absatz
-1 von den Bestimmungen des § 1 Abs. 1 Nr. 1 und 2 abweichen.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt kann bei der
+Erlaubnis von Veranstaltungen, die zu Ansammlungen von Fahrzeugen
+führen oder die Schiffahrt beeinträchtigen können, sowie bei der
+Erlaubnis nach Absatz 1 von den Bestimmungen des § 1 Abs. 1 Nr. 1 und
+2 abweichen.
 
-(3) Die Wasser- und Schiffahrtsdirektionen können die Befugnis zur
-Erteilung der Erlaubnis nach Absatz 1 oder 2 ihren nachgeordneten
-Wasser- und Schiffahrtsämtern übertragen.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann die
+Befugnis zur Erteilung der Erlaubnis nach Absatz 1 oder 2 ihren
+nachgeordneten Wasserstraßen- und Schifffahrtsämtern übertragen.
 
 
 ## § 5
 
-Die Wasser- und Schiffahrtsdirektionen werden ermächtigt, durch
-Rechtsverordnung für einzelne zum Wasserskilaufen freigegebene
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
+durch Rechtsverordnung für einzelne zum Wasserskilaufen freigegebene
 Strecken oder Wasserflächen von dieser Verordnung abweichende
 Regelungen zu treffen, soweit es die örtlichen Verhältnisse gebieten
 oder zulassen.

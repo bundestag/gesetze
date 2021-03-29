@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Kölner Dom)
 jurabk: Münz5DMBek 1980-08
 layout: default
-origslug: m_nz5dmbek_1980-08
+origslug: muenz5dmbek_1980-08
 slug: muenz5dmbek_1980-08
 
 ---

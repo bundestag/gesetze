@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3031
 
-Geändert durch
-:   Art. 8 G v. 17.7.2009 I 1990
+Zuletzt geändert durch
+:   Art. 10 G v. 20.12.2016 I 3048
 
 Diese Verordnung dient der Umsetzung der
 

@@ -3,7 +3,7 @@ Title: Übereinkommen zur Errichtung einer internationalen Organisation für das
   Meßwesen
 jurabk: IntMeßwOrgÜbk
 layout: default
-origslug: intme_worg_bk
+origslug: intmessworguebk
 slug: intmessworguebk
 
 ---

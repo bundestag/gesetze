@@ -16,75 +16,79 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 834
 
+V aufgeh. durch
+:   Art. 4 Abs. 26 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 1 V v. 22.8.2013 I 3299
+
+V aufgeh. durch
+:   Art. 4 Abs. 27 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 27 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
-## Eingangsformel
 
-Auf Grund des § 35 Abs. 2 Satz 1 des Umweltschutzprotokoll-
-Ausführungsgesetzes vom 22. September 1994 (BGBl. I S. 2593), der
-durch Artikel 14 der Verordnung vom 21. September 1997 (BGBl. I S.
-2390) geändert worden ist, in Verbindung mit dem 2. Abschnitt des
-Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821), sowie in
-Verbindung mit § 56 des Zuständigkeitsanpassungs-Gesetzes vom 18. März
-1975 (BGBl. I S. 705) und dem Organisationserlass vom 27. Oktober 1998
-(BGBl. I S. 3288) verordnet das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie, dem
-Bundesministerium für Verkehr, Bau- und Wohnungswesen und dem
-Bundesministerium für Bildung und Forschung:
+## § 1 Gebühren und Auslagen
+
+(1) Das Umweltbundesamt erhebt für individuell zurechenbare
+öffentliche Leistungen nach dem Umweltschutzprotokoll-
+Ausführungsgesetz Gebühren und Auslagen nach dieser Verordnung.
+
+(2) Für die Erhebung von Auslagen gilt § 23 Absatz 6 des
+Bundesgebührengesetzes. Im Übrigen sind die §§ 4 bis 6, 8, 13 bis 21
+und 23 Absatz 5 Satz 1 und 2 des Bundesgebührengesetzes auch
+anwendbar, soweit diese Verordnung keine besonderen Regelungen
+enthält.
 
 
-## § 1 Kosten
+## § 2 Gebührenverzeichnis
 
-(1) Das Umweltbundesamt erhebt für Amtshandlungen nach dem
-Umweltschutzprotokoll-Ausführungsgesetz Kosten (Gebühren und Auslagen)
-nach dieser Verordnung.
+(1) Die Gebühren für individuell zurechenbare öffentliche Leistungen
+nach dem Umweltschutzprotokoll-Ausführungsgesetz betragen:
 
-(2) Für die Erhebung von Auslagen gilt § 10 des
-Verwaltungskostengesetzes. Im Übrigen sind die Regelungen des 3.
-Abschnitts des Verwaltungskostengesetzes auch anwendbar, soweit diese
-Verordnung keine besonderen Regelungen enthält.
-
-
-## § 2 Gebühren
-
-(1) Die Gebühren für Amtshandlungen nach dem Umweltschutzprotokoll-
-Ausführungsgesetz betragen:
-
-1.  für die Genehmigung nach § 3 Abs. 1 Satz 1 des Umweltschutzprotokoll-
-    Ausführungsgesetzes in Verbindung mit
+1.  für die Genehmigung nach § 3 Absatz 1 Satz 1 des
+    Umweltschutzprotokoll-Ausführungsgesetzes in Verbindung mit
 
 
 
 
 *    *   a)
 
-    *   § 4 Abs. 4 des Umweltschutzprotokoll-Ausführungsgesetzes
+    *   § 4 Absatz 4 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
 
-    *   600 bis 850 Euro
+    *   700 bis  1 000 Euro
 
 
 *    *   b)
 
-    *   § 7 Abs. 2 des Umweltschutzprotokoll-Ausführungsgesetzes
+    *   § 7 Absatz 2 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
 
-    *   3.150 bis 3.850 Euro
+    *   3 700 bis  4 500 Euro
 
 
 *    *   c)
 
-    *   § 12 Abs. 2 des Umweltschutzprotokoll-Ausführungsgesetzes ohne
-        vorherige Umwelterheblichkeitsprüfung
+    *   § 12 Absatz 2 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
+        ohne vorherige Umwelt-
+        erheblichkeitsprüfung
 
-    *   8.500 bis 10.000 Euro
+    *   9 800 bis 11 200 Euro
 
 
 *    *   d)
 
-    *   § 12 Abs. 2 des Umweltschutzprotokoll-Ausführungsgesetzes mit
-        vorheriger Umwelterheblichkeitsprüfung
+    *   § 12 Absatz 2 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
+        mit vorheriger Umwelt-
+        erheblichkeitsprüfung
 
-    *   9.250 bis 10.500 Euro;
+    *   10 600 bis 12 200 Euro;
 
 
 
@@ -96,28 +100,34 @@ Ausführungsgesetz betragen:
 
 *    *   a)
 
-    *   § 17 Abs. 2 des Umweltschutzprotokoll-Ausführungsgesetzes
+    *   § 17 Absatz 2 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
 
-    *   100 bis 210 Euro
+    *   250 bis    400 Euro
 
 
 *    *   b)
 
-    *   § 18 Abs. 2 des Umweltschutzprotokoll-Ausführungsgesetzes
+    *   § 18 Absatz 2 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
 
-    *   100 bis 210 Euro
+    *   250 bis    400 Euro
 
 
 *    *   c)
 
-    *   § 30 Abs. 1 des Umweltschutzprotokoll-Ausführungsgesetzes
+    *   § 30 Absatz 1 des
+        Umweltschutzprotokoll-
+        Ausführungsgesetzes
 
-    *   100 bis 210 Euro
+    *   250 bis    400 Euro
 
 
 
 
-*   auch, soweit sie mit einer Genehmigung nach § 3 Abs. 1 Satz 1
+*   auch, soweit sie mit einer Genehmigung nach § 3 Absatz 1 Satz 1
     verbunden sind;
 
 
@@ -125,50 +135,57 @@ Ausführungsgesetz betragen:
 
 
 
-§ 24 Abs. 3 des Umwelt-
-schutzprotokoll-
-Ausführungsgesetzes                     100 bis    210 Euro.
 
-(2) Erfordert eine Amtshandlung im Einzelfall einen außergewöhnlich
-hohen Aufwand, so können die Gebühren des Absatzes 1 Nr. 1 Buchstabe b
-bis d dem Aufwand entsprechend bis zum Zweifachen erhöht werden.
+*    *   § 24 Absatz 3 des Umwelt-
+        schutzprotokoll-Ausführungs-
+        gesetzes
 
-(3) Erfordert eine Amtshandlung im Einzelfall einen außergewöhnlich
-niedrigen Aufwand, so kann die Gebühr dem Aufwand entsprechend bis auf
-50 Euro reduziert werden.
+    *   250 bis    400 Euro.
+
+
+
+
+(2) Erfordert eine individuell zurechenbare öffentliche Leistung im
+Einzelfall einen außergewöhnlich hohen Aufwand, so können die Gebühren
+des Absatzes 1 Nummer 1 Buchstabe b bis d dem Aufwand entsprechend bis
+zum Zweifachen erhöht werden.
+
+(3) Erfordert eine individuell zurechenbare öffentliche Leistung im
+Einzelfall einen außergewöhnlich niedrigen Aufwand, so kann die Gebühr
+dem Aufwand entsprechend bis auf 100 Euro reduziert werden.
 
 
 ## § 3 Gebühren in besonderen Fällen
 
 (1) In den Fällen des Widerrufs oder der Rücknahme einer Genehmigung,
 der Ablehnung oder Zurücknahme eines Antrags auf Erteilung einer
-Genehmigung werden Kosten nach Maßgabe des § 15 des
-Verwaltungskostengesetzes erhoben.
+Genehmigung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und
+2 des Bundesgebührengesetzes erhoben.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines gegen die
 Sachentscheidung gerichteten Widerspruchs wird eine Gebühr bis zur
-Höhe der für die angegriffene Amtshandlung vorgesehenen Gebühr
-erhoben. Dies gilt nicht, wenn der Widerspruch nur deshalb keinen
-Erfolg hat, weil die Verletzung einer Verfahrens- oder Formvorschrift
-nach § 45 des Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird ein
-Widerspruch nach Beginn der sachlichen Bearbeitung, jedoch vor deren
-Beendigung zurückgenommen, kann die Gebühr bis zu einem Viertel der
-vorgesehenen Gebühr ermäßigt werden. Für die Zurückweisung eines
-ausschließlich gegen eine Kostenentscheidung gerichteten Widerspruchs
-kann eine Gebühr bis zu 10 vom Hundert des streitigen Betrags erhoben
-werden.
+Höhe der für die angegriffene individuell zurechenbare öffentliche
+Leistung vorgesehenen Gebühr erhoben. Dies gilt nicht, wenn der
+Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer
+Verfahrens- oder Formvorschrift nach § 45 des
+Verwaltungsverfahrensgesetzes unbeachtlich ist. Wird ein Widerspruch
+nach Beginn der sachlichen Bearbeitung, jedoch vor deren Beendigung
+zurückgenommen, kann die Gebühr bis zu einem Viertel der vorgesehenen
+Gebühr ermäßigt werden. Für die Zurückweisung eines ausschließlich
+gegen eine Gebührenfestsetzung gerichteten Widerspruchs kann eine
+Gebühr bis zu 10 vom Hundert des streitigen Betrags erhoben werden.
 
 (3) Für die nachträgliche Anordnung einer Auflage, zu der der
 Antragsteller Anlass gegeben hat, beträgt die Gebühr höchstens ein
 Viertel der für die Genehmigung festgesetzten Gebühr.
 
 
-## § 4 Kostenbefreiung
+## § 4 Gebühren- und Auslagenbefreiung
 
-Bei Amtshandlungen nach dem Umweltschutzprotokoll-Ausführungsgesetz,
-die Vorhaben der öffentlich geförderten wissenschaftlichen Forschung
-betreffen, soll von der Erhebung von Gebühren und Auslagen abgesehen
-werden.
+Bei individuell zurechenbaren öffentlichen Leistungen nach dem
+Umweltschutzprotokoll-Ausführungsgesetz, die Vorhaben der öffentlich
+geförderten wissenschaftlichen Forschung betreffen, wird von der
+Erhebung von Gebühren und Auslagen abgesehen.
 
 
 ## § 5 Inkrafttreten

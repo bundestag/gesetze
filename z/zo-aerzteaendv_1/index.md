@@ -2,7 +2,7 @@
 Title: Erste Verordnung zur Änderung der Zulassungsordnung für Kassenärzte
 jurabk: ZO-ÄrzteÄndV 1
 layout: default
-origslug: zo-_rzte_ndv_1
+origslug: zo-aerzteaendv_1
 slug: zo-aerzteaendv_1
 
 ---

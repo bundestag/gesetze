@@ -2,7 +2,7 @@
 Title: Verordnung über den Übergang der Rechte und Pflichten des Bundes auf die Eisenbahn-Unfallkasse
 jurabk: EBUnfkÜV
 layout: default
-origslug: ebunfk_v
+origslug: ebunfkuev
 slug: ebunfkuev
 
 ---

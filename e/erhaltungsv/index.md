@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2107
 
-Geändert durch
-:   Art. 2 V v. 17.12.2010 I 2128
+Zuletzt geändert durch
+:   Art. 3 V v. 6.1.2014 I 26
 
 [^F1_772396_BJNR210710009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2008/62/EG der
     Kommission vom 20. Juni 2008 mit Ausnahmeregelungen für die Zulassung
@@ -66,16 +66,15 @@ Zierpflanzenarten und Obstarten.
 
 
         bb) Artikel 15 Absatz 2 der Richtlinie
-            2002/53/EG                                des Rates vom 13. Juni 2002
-            über einen gemeinsamen Sortenkatalog für landwirtschaftliche
-            Pflanzenarten (ABl. L 193 vom 20.7.2002, S. 1) in der jeweils
-            geltenden Fassung oder
+            2002/53/EG des Rates vom 13. Juni 2002 über einen gemeinsamen
+            Sortenkatalog für landwirtschaftliche Pflanzenarten (ABl. L 193 vom
+            20\.7.2002, S. 1) in der jeweils geltenden Fassung oder
 
 
         cc) Artikel 15 Absatz 2 der Richtlinie
-            2002/55/EG                                des Rates vom 13. Juni 2002
-            über den Verkehr mit Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33)
-            in der jeweils geltenden Fassung
+            2002/55/EG des Rates vom 13. Juni 2002 über den Verkehr mit
+            Gemüsesaatgut (ABl. L 193 vom 20.7.2002, S. 33) in der jeweils
+            geltenden Fassung
 
 
 
@@ -204,11 +203,11 @@ ausreichend sind.
 statt der Angabe nach § 47 Absatz 1 Nummer 7 des
 Saatgutverkehrsgesetzes der Hinweis „Erhaltungssorte, deren Saatgut
 gemäß Artikel 11 der Richtlinie
-2009/145/EG              der Kommission kontrolliert wird“
-eingetragen. Handelt es sich um eine Amateursorte, wird abweichend von
-Satz 1 der Hinweis „für den Anbau unter bestimmten Bedingungen
-gezüchtete Sorte, deren Saatgut gemäß Artikel 26 der Richtlinie
-2009/145/EG der Kommission kontrolliert wird“ eingetragen.
+2009/145/EG der Kommission kontrolliert wird“ eingetragen. Handelt es
+sich um eine Amateursorte, wird abweichend von Satz 1 der Hinweis „für
+den Anbau unter bestimmten Bedingungen gezüchtete Sorte, deren Saatgut
+gemäß Artikel 26 der Richtlinie 2009/145/EG der Kommission
+kontrolliert wird“ eingetragen.
 
 
 ## § 3 Feststellung des landeskulturellen Wertes
@@ -280,10 +279,11 @@ werden, wenn es
     Erhaltungszüchtung gewonnen worden ist,
 
 
-2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer vor der
-    Aussaat der für die Ursprungsregion, oder im Falle eines
-    Vermehrungsbestandes in einer Region nach Absatz 3, der für diese
-    Region zuständigen Behörde mitgeteilt hat,
+2.  aus Vermehrungsbeständen stammt, deren Standort der Vermehrer bis zu
+    dem in Anlage 1 der Saatgutverordnung jeweils genannten Termin der für
+    die Ursprungsregion, oder im Falle eines Vermehrungsbestandes in einer
+    Region nach Absatz 3, der für diese Region zuständigen Behörde
+    mitgeteilt hat,
 
 
 3.  mindestens die Voraussetzungen für
@@ -470,7 +470,7 @@ dass die Erhaltung der Sorte im Ursprungsgebiet sichergestellt ist.
 
 (1) Für Packungen mit Saatgut von Amateursorten gelten die in Anhang
 II der Richtlinie
-2009/145/EG              in der jeweils geltenden Fassung genannten
+2009/145/EG in der jeweils geltenden Fassung genannten
 Nettohöchstgewichte entsprechend.
 
 (2) Packungen oder Behältnisse von Saatgut von Erhaltungssorten sind
@@ -506,7 +506,7 @@ oder ein Stempel mit folgenden Angaben befindet:
 4.  Pflanzenart,
 
 
-5.  Sortenbezeichnung der Erhaltungssorte,
+5.  Sortenbezeichnung der Erhaltungssorte oder Amateursorte,
 
 
 6.  die Angabe „Erhaltungssorte“, bei Erhaltungssorten von Gemüse die

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 26
 
+Geändert durch
+:   Art. 1 V v. 21.12.2017 I 4030
+
 
 ## Eingangsformel
 
@@ -29,12 +32,21 @@ ist, verordnet das Bundesministerium der Justiz:
 
 ## § 1 Elektronische Aktenführung
 
-Das Bundesamt für Justiz kann die Verfahrensakten im
+(1) Das Bundesamt für Justiz hat die Verfahrensakten im
 Ordnungsgeldverfahren nach den §§ 335, 340o und 341o des
 Handelsgesetzbuchs, nach § 21 des Publizitätsgesetzes sowie nach
 anderen Bestimmungen, die wegen des Ordnungsgeldverfahrens auf § 335
 des Handelsgesetzbuchs verweisen, einschließlich der Verfahrensakten
-in der Zwangsvollstreckung elektronisch führen.
+in der Zwangsvollstreckung ab dem 1. Januar 2018 elektronisch zu
+führen.
+
+(2) Die Verfahrensakten können bis zum 31. Dezember 2025 in der bis
+zum 31. Dezember 2017 verwendeten elektronischen Form weitergeführt
+werden.
+
+(3) Verfahrensakten, die vor dem 1. Januar 2018 in Papierform geführt
+worden sind, können in dieser Form bis zum 31. Dezember 2025
+weitergeführt werden.
 
 
 ## § 2 Fachverfahren nach dem Stand der Technik

@@ -476,8 +476,9 @@ Arbeitsförderung vom 15. April 1999 (BGBl. I S. 739), die durch
 Artikel 55 des Gesetzes vom 24. Dezember 2003 (BGBl. I S. 2954)
 geändert worden ist, außer Kraft.
 
+(zu § 3 Absatz 1 Satz 1)
 
-## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
 
 (Fundstelle: BGBl. I 2012, 1209 - 1212)
 
@@ -1107,8 +1108,9 @@ Fähigkeiten**
 
 
 
+(zu § 3 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Fachangestellten für Arbeitsmarktdienstleistungen und zur Fachangestellten für Arbeitsmarktdienstleistungen
 
 (Fundstelle: BGBl. I 2012, 1213 - 1215)
 

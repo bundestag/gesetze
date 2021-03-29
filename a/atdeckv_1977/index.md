@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 220
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 12 G v. 23.11.2007 I 2631
+:   Art. 20 G v. 27.6.2017 I 1966
 
 
 ## Eingangsformel
@@ -56,7 +56,7 @@ erbracht werden, wenn sie bei einem im Inland zum Betrieb der
 Haftpflichtversicherung befugten Versicherungsunternehmen genommen
 wird. Für eine grenzüberschreitende Beförderung nach § 4a des
 Atomgesetzes kann sie auch bei einem Versicherungsunternehmen eines
-Drittstaates im Sinne des § 105 Abs. 1 des
+Drittstaates im Sinne des § 7 Nummer 34 des
 Versicherungsaufsichtsgesetzes, das in seinem Sitzland zum Betrieb der
 Haftpflichtversicherung befugt ist, genommen werden, wenn neben ihm
 ein nach Satz 1 befugtes Versicherungsunternehmen oder ein Verband
@@ -529,28 +529,12 @@ nach oben abzurunden.
 
 
 
-### § 20 Übergangsvorschrift
-
-Entspricht die Deckungsvorsorge für eine vor Inkrafttreten dieser
-Verordnung genehmigte Tätigkeit nicht mehr den Anforderungen dieser
-Verordnung, so ist die Deckungsvorsorge bei der nächsten
-Neufestsetzung nach § 13 Abs. 1 Satz 2 des Atomgesetzes, spätestens
-jedoch bei Anlagen im Sinne des § 7 des Atomgesetzes innerhalb von
-sechs Monaten, in den sonstigen Fällen innerhalb eines Jahres nach
-Inkrafttreten dieser Verordnung neu festzusetzen. Für den Umgang mit
-hochradioaktiven Strahlenquellen, die am 31. Dezember 2007 noch die
-Voraussetzungen des § 3 Abs. 2 Nr. 29 Buchstabe b Doppelbuchstabe bb
-der Strahlenschutzverordnung erfüllen, der vor dem 19. August 2005
-genehmigt wurde und für die ab diesem Zeitpunkt erstmals
-Deckungsvorsorge geleistet werden muss, erfolgt die Festsetzung der
-Deckungsvorsorge spätestens bis zum 31. Dezember 2007.
+### § 20 (weggefallen)
 
 
-### § 21 Berlin-Klausel
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
-4\. Januar 1952 (BGBl. I S. 1) in Verbindung mit § 58 Satz 2 des
-Atomgesetzes auch im Land Berlin.
+### § 21 (weggefallen)
+
 
 
 ### § 22 Inkrafttreten

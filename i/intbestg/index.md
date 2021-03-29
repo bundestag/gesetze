@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2327
 
+Geändert durch
+:   Art. 5 G v. 20.11.2015 I 2025
+
 Stand: G in Kraft gem. Bek. v. 4.2.1999 II 87 mWv 15.2.1999
 
 
@@ -32,57 +35,7 @@ deutschen Übersetzung veröffentlicht.
 
 
 
-## § 1 Gleichstellung von ausländischen mit inländischen Amtsträgern bei Bestechungshandlungen
-
-Für die Anwendung des § 334 des Strafgesetzbuches, auch in Verbindung
-mit dessen §§ 335, 336, 338 Abs. 2, auf eine Bestechung, die sich auf
-eine künftige richterliche Handlung oder Diensthandlung bezieht und
-die begangen wird, um sich oder einem Dritten einen Auftrag oder einen
-unbilligen Vorteil im internationalen geschäftlichen Verkehr zu
-verschaffen oder zu sichern, stehen gleich:
-
-1.  einem Richter:
-
-    a)  ein Richter eines ausländischen Staates,
-
-
-    b)  ein Richter eines internationalen Gerichts;
-
-
-
-
-
-2.  einem sonstigen Amtsträger:
-
-    a)  ein Amtsträger eines ausländischen Staates,
-
-
-    b)  eine Person, die beauftragt ist, bei einer oder für eine Behörde eines
-        ausländischen Staates, für ein öffentliches Unternehmen mit Sitz im
-        Ausland oder sonst öffentliche Aufgaben für einen ausländischen Staat
-        wahrzunehmen,
-
-
-    c)  ein Amtsträger und ein sonstiger Bediensteter einer internationalen
-        Organisation und eine mit der Wahrnehmung ihrer Aufgaben beauftragte
-        Person;
-
-
-
-
-
-3.  einem Soldaten der Bundeswehr:
-
-    a)  ein Soldat eines ausländischen Staates,
-
-
-    b)  ein Soldat, der beauftragt ist, Aufgaben einer internationalen
-        Organisation wahrzunehmen.
-
-
-
-
-
+## § 1 (weggefallen)
 
 
 
@@ -105,25 +58,13 @@ Geldstrafe bestraft.
 ## § 3 Auslandstaten
 
 Das deutsche Strafrecht gilt, unabhängig vom Recht des Tatorts, für
-folgende Taten, die von einem Deutschen im Ausland begangen werden:
-
-1.  Bestechung ausländischer Amtsträger im Zusammenhang mit
-    internationalem geschäftlichen Verkehr (§§ 334 bis 336 des
-    Strafgesetzbuches in Verbindung mit § 1);
+die Bestechung ausländischer Abgeordneter im Zusammenhang mit
+internationalem geschäftlichen Verkehr (§ 2), wenn die Tat von einem
+Deutschen im Ausland begangen wird.
 
 
-2.  Bestechung ausländischer Abgeordneter im Zusammenhang mit
-    internationalem geschäftlichen Verkehr (§ 2).
+## § 4 (weggefallen)
 
-
-
-
-
-## § 4 Anwendung des § 261 des Strafgesetzbuches
-
-In den Fällen des § 261 Abs. 1 Satz 2 Nr. 2 Buchstabe a des
-Strafgesetzbuches ist § 334 des Strafgesetzbuches auch in Verbindung
-mit § 1 anzuwenden.
 
 
 ## Art 3 - Inkrafttreten

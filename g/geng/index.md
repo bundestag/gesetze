@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.10.2006 I 2230;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 25.5.2009 I 1102
+:   Art. 8 G v. 17.7.2017 I 2541
 
 
 ## Abschnitt 1 - Errichtung der Genossenschaft
@@ -95,16 +95,18 @@ Die Satzung muss enthalten:
 4.  Bestimmungen über die Form für die Einberufung der Generalversammlung
     der Mitglieder sowie für die Beurkundung ihrer Beschlüsse und über den
     Vorsitz in der Versammlung; die Einberufung der Generalversammlung
-    muss durch unmittelbare Benachrichtigung sämtlicher Mitglieder oder
-    durch Bekanntmachung in einem öffentlichen Blatt erfolgen; das Gericht
-    kann hiervon Ausnahmen zulassen; die Bekanntmachung im Bundesanzeiger
-    genügt nicht;
+    muss durch unmittelbare Benachrichtigung sämtlicher Mitglieder in
+    Textform oder durch Bekanntmachung in einem öffentlichen Blatt
+    erfolgen; das Gericht kann hiervon Ausnahmen zulassen; die
+    Bekanntmachung im Bundesanzeiger oder in einem anderen öffentlich
+    zugänglichen elektronischen Informationsmedium genügt nicht;
 
 
 5.  Bestimmungen über die Form der Bekanntmachungen der Genossenschaft
     sowie Bestimmung der öffentlichen Blätter für Bekanntmachungen, deren
     Veröffentlichung in öffentlichen Blättern durch Gesetz oder Satzung
-    vorgeschrieben ist.
+    vorgeschrieben ist; als öffentliches Blatt kann die Satzung öffentlich
+    zugängliche elektronische Informationsmedien bezeichnen.
 
 
 
@@ -184,12 +186,13 @@ sicherstellen, dass investierende Mitglieder die anderen Mitglieder in
 keinem Fall überstimmen können und dass Beschlüsse der
 Generalversammlung, für die nach Gesetz oder Satzung eine Mehrheit von
 mindestens drei Vierteln der abgegebenen Stimmen vorgeschrieben ist,
-durch investierende Mitglieder nicht verhindert werden können. Die
-Zulassung eines investierenden Mitglieds bedarf der Zustimmung der
-Generalversammlung; abweichend hiervon kann die Satzung die Zustimmung
-des Aufsichtrats vorschreiben. Die Zahl der investierenden Mitglieder
-im Aufsichtsrat darf ein Viertel der Aufsichtsratsmitglieder nicht
-überschreiten.
+durch investierende Mitglieder nicht verhindert werden können; zu
+diesem Zweck kann die Satzung das Stimmrecht investierender Mitglieder
+auch ganz ausschließen. Die Zulassung eines investierenden Mitglieds
+bedarf der Zustimmung der Generalversammlung; abweichend hiervon kann
+die Satzung die Zustimmung des Aufsichtrats vorschreiben. Die Zahl der
+investierenden Mitglieder im Aufsichtsrat darf ein Viertel der
+Aufsichtsratsmitglieder nicht überschreiten.
 
 
 ### § 8a Mindestkapital
@@ -223,6 +226,22 @@ der Genossenschaft andere juristische Personen oder
 Personengesellschaften an, gilt dies für deren zur Vertretung befugte
 Personen.
 
+(3) Der Vorstand einer Genossenschaft, die der Mitbestimmung
+unterliegt, legt für den Frauenanteil in den beiden Führungsebenen
+unterhalb des Vorstands Zielgrößen fest. Liegt der Frauenanteil bei
+Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen
+den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig
+sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen
+dürfen jeweils nicht länger als fünf Jahre sein.
+
+(4) Ist bei einer Genossenschaft, die der Mitbestimmung unterliegt,
+ein Aufsichtsrat bestellt, legt dieser für den Frauenanteil im
+Aufsichtsrat und im Vorstand Zielgrößen fest. Liegt der Frauenanteil
+bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die
+Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten.
+Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen.
+Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
+
 
 ### § 10 Genossenschaftsregister
 
@@ -242,7 +261,8 @@ in das Genossenschaftsregister anzumelden.
 
 (2) Der Anmeldung sind beizufügen:
 
-1.  die Satzung, die von den Mitgliedern unterzeichnet sein muss;
+1.  die Satzung, die von mindestens drei Mitgliedern unterzeichnet sein
+    muss;
 
 
 2.  eine Abschrift der Urkunden über die Bestellung des Vorstands und des
@@ -360,12 +380,16 @@ einer Zweigniederlassung.
 
 ### § 15 Beitrittserklärung
 
-(1) Nach der Anmeldung der Satzung zum Genossenschaftsregister wird
-die Mitgliedschaft durch eine schriftliche, unbedingte
+(1) Die Mitgliedschaft wird durch eine schriftliche, unbedingte
 Beitrittserklärung und die Zulassung des Beitritts durch die
 Genossenschaft erworben. Dem Antragsteller ist vor Abgabe seiner
 Beitrittserklärung eine Abschrift der Satzung in der jeweils geltenden
-Fassung zur Verfügung zu stellen.
+Fassung zur Verfügung zu stellen; es reicht aus, wenn die Satzung im
+Internet unter der Adresse der Genossenschaft abrufbar ist und dem
+Antragsteller ein Ausdruck der Satzung angeboten wird. Eine Vollmacht
+zur Abgabe der Beitrittserklärung bedarf der Schriftform. Bei
+Gründungsmitgliedern kann die Mitgliedschaft statt durch
+Beitrittserklärung durch Unterzeichnung der Satzung erworben werden.
 
 (2) Das Mitglied ist unverzüglich in die Mitgliederliste einzutragen
 und hiervon unverzüglich zu benachrichtigen. Lehnt die Genossenschaft
@@ -382,7 +406,10 @@ dass die Mitglieder unbeschränkt oder beschränkt auf eine Haftsumme
 Nachschüsse zu leisten haben, so muss die Beitrittserklärung ferner
 die ausdrückliche Verpflichtung enthalten, die zur Befriedigung der
 Gläubiger erforderlichen Nachschüsse unbeschränkt oder bis zu der in
-der Satzung bestimmten Haftsumme zu zahlen.
+der Satzung bestimmten Haftsumme zu zahlen. Bestimmt die Satzung
+weitere Zahlungspflichten oder eine Kündigungsfrist von mehr als einem
+Jahr, so muss dies in der Beitrittserklärung ausdrücklich zur Kenntnis
+genommen werden.
 
 
 ### § 15b Beteiligung mit weiteren Geschäftsanteilen
@@ -569,6 +596,72 @@ gedeckten Betrags Zinsen für dieses Geschäftsjahr nicht gezahlt
 werden.
 
 
+### § 21b Mitgliederdarlehen
+
+(1) Zum Zweck der Finanzierung oder Modernisierung von zu ihrem
+Anlagevermögen gehörenden Gegenständen kann eine Genossenschaft, auch
+wenn sie über keine Erlaubnis zum Betreiben des Einlagengeschäfts nach
+dem Kreditwesengesetz verfügt, Darlehen ihrer Mitglieder
+entgegennehmen, wenn
+
+1.  im Darlehensvertrag vereinbart ist, dass das Darlehen zweckgebunden
+    nur zugunsten eines konkreten Investitionsvorhabens der Genossenschaft
+    in ihr Anlagevermögen verwendet werden darf,
+
+
+2.  die Darlehenssumme beim jeweiligen Mitglied, sofern es kein
+    Unternehmer ist, 25 000 Euro nicht übersteigt,
+
+
+3.  der Gesamtbetrag sämtlicher von Genossenschaftsmitgliedern zu dem in
+    Nummer 1 genannten Zweck gewährten Darlehen 2,5 Millionen Euro nicht
+    übersteigt und
+
+
+4.  der vereinbarte jährliche Sollzinssatz den höheren der folgenden
+    beiden Werte nicht übersteigt:
+
+    a)  1,5 Prozent,
+
+
+    b)  die marktübliche Emissionsrendite für Anlagen am Kapitalmarkt in
+        Hypothekenpfandbriefen mit gleicher Laufzeit.
+
+
+
+
+
+
+
+(2) Der Vorstand der Genossenschaft hat dafür zu sorgen, dass den
+Mitgliedern der Genossenschaft vor Vertragsschluss die wesentlichen
+Informationen über das Investitionsvorhaben sowie mögliche Risiken aus
+der Darlehensgewährung zur Verfügung gestellt werden.
+
+(3) Der Vorstand hat während der gesamten Laufzeit des Darlehens die
+Einhaltung der Zweckbindung sicherzustellen. Eine Änderung der
+Zweckbindung zugunsten eines anderen zulässigen Investitionsvorhabens
+der Genossenschaft ist nur gestattet, wenn das jeweilige Mitglied der
+Änderung schriftlich zustimmt, nachdem es die wesentlichen
+Informationen über das andere Investitionsvorhaben erhalten hat.
+
+(4) Das Mitglied ist an seine Willenserklärung, die auf den Abschluss
+des Darlehensvertrags gerichtet ist, nicht mehr gebunden, wenn es sie
+fristgerecht in Textform gegenüber der Genossenschaft widerrufen hat.
+Der Widerruf muss keine Begründung enthalten. Die Widerrufsfrist
+beträgt 14 Tage. Sie beginnt mit Vertragsschluss, wenn der Vertrag
+einen deutlichen Hinweis auf das Widerrufsrecht enthält, sonst zu dem
+Zeitpunkt, zu dem das Mitglied einen solchen Hinweis in Textform
+erhält. Ist der Beginn der Widerrufsfrist streitig, so trifft die
+Beweislast die Genossenschaft. Das Widerrufsrecht erlischt spätestens
+zwölf Monate nach dem Vertragsschluss. Zur Fristwahrung genügt die
+rechtzeitige Absendung des Widerrufs. Im Fall des Widerrufs ist der
+empfangene Darlehensbetrag unverzüglich zurückzugewähren. Für den
+Zeitraum zwischen der Auszahlung des Darlehensbetrages des Mitglieds
+an die Genossenschaft und der Rückzahlung an das Mitglied hat die
+Genossenschaft den vereinbarten Sollzinssatz zu zahlen.
+
+
 ### § 22 Herabsetzung des Geschäftsanteils; Verbot der Auszahlung des Geschäftsguthabens
 
 (1) Werden der Geschäftsanteil oder die auf ihn zu leistenden
@@ -580,7 +673,11 @@ Eintragung in das Genossenschaftsregister anzugeben.
 (2) Den Gläubigern der Genossenschaft ist, wenn sie sich binnen sechs
 Monaten nach der Bekanntmachung bei der Genossenschaft zu diesem Zweck
 melden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen
-können. In der Bekanntmachung ist darauf hinzuweisen.
+können. In der Bekanntmachung ist darauf hinzuweisen. Das Recht,
+Sicherheitsleistung zu verlangen, steht Gläubigern nicht zu, die im
+Fall der Insolvenz ein Recht auf vorzugsweise Befriedigung aus einer
+Deckungsmasse haben, die nach gesetzlicher Vorschrift zu ihrem Schutz
+errichtet und staatlich überwacht ist.
 
 (3) Mitglieder, die zur Zeit der Eintragung des Beschlusses der
 Genossenschaft angehörten, können sich auf die Änderung erst berufen,
@@ -728,7 +825,9 @@ eingetragen sind.
 
 (1) Der Vorstand hat die Genossenschaft unter eigener Verantwortung zu
 leiten. Er hat dabei die Beschränkungen zu beachten, die durch die
-Satzung festgesetzt worden sind.
+Satzung festgesetzt worden sind. Bei Genossenschaften mit nicht mehr
+als 20 Mitgliedern kann die Satzung vorsehen, dass der Vorstand an
+Weisungen der Generalversammlung gebunden ist.
 
 (2) Gegen dritte Personen hat eine Beschränkung der Befugnis des
 Vorstands, die Genossenschaft zu vertreten, keine rechtliche Wirkung.
@@ -790,14 +889,18 @@ folgenden Angaben einzutragen:
 
 
 
-Der Zeitpunkt, zu dem die eingetragene Angabe wirksam wird oder
-geworden ist, sowie die die Eintragung begründenden Tatsachen sind
-anzugeben.
+Die Satzung kann regeln, mit welchen weiteren erforderlichen Angaben
+jedes Mitglied eingetragen wird. Der Zeitpunkt, zu dem der Beitritt,
+eine Veränderung der Zahl weiterer Geschäftsanteile oder das
+Ausscheiden wirksam wird oder geworden ist, ist anzugeben.
 
-(3) Die Unterlagen, aufgrund deren die Eintragung in die
-Mitgliederliste erfolgt, sind drei Jahre aufzubewahren. Die Frist
-beginnt mit dem Schluss des Kalenderjahres, in dem das Mitglied aus
-der Genossenschaft ausgeschieden ist.
+(3) Die Unterlagen, aufgrund deren die Eintragung des Beitritts, der
+Veränderung der Zahl weiterer Geschäftsanteile oder des Ausscheidens
+in die Mitgliederliste erfolgt, sind drei Jahre aufzubewahren. Die
+Frist beginnt mit dem Schluss des Kalenderjahres, in dem das Mitglied
+aus der Genossenschaft ausgeschieden ist. Im Übrigen gelten für die
+Aufbewahrung der Unterlagen die Regelungen für Handelsbriefe in § 257
+des Handelsgesetzbuchs.
 
 
 ### § 31 Einsicht in die Mitgliederliste
@@ -809,13 +912,12 @@ sind dem Mitglied hinsichtlich der ihn betreffenden Eintragungen auf
 Verlangen zu erteilen.
 
 (2) Der Dritte darf die übermittelten Daten nur für den Zweck
-verarbeiten und nutzen, zu dessen Erfüllung sie ihm übermittelt
-werden; eine Verarbeitung und Nutzung für andere Zwecke ist nur
-zulässig, soweit die Daten auch dafür hätten übermittelt werden
-dürfen. Ist der Empfänger eine nicht öffentliche Stelle, hat die
-Genossenschaft ihn darauf hinzuweisen; eine Verarbeitung und Nutzung
-für andere Zwecke bedarf in diesem Fall der Zustimmung der
-Genossenschaft.
+speichern und nutzen, zu dessen Erfüllung sie ihm übermittelt werden;
+eine Speicherung und Nutzung für andere Zwecke ist nur zulässig,
+soweit die Daten auch dafür hätten übermittelt werden dürfen. Ist der
+Empfänger eine nicht öffentliche Stelle, hat die Genossenschaft ihn
+darauf hinzuweisen; eine Speicherung und Nutzung für andere Zwecke
+bedarf in diesem Fall der Zustimmung der Genossenschaft.
 
 
 ### § 32 Vorlage der Mitgliederliste beim Gericht
@@ -853,16 +955,21 @@ anzuzeigen.
 
 (1) Die Vorstandsmitglieder haben bei ihrer Geschäftsführung die
 Sorgfalt eines ordentlichen und gewissenhaften Geschäftsleiters einer
-Genossenschaft anzuwenden. Über vertrauliche Angaben und Geheimnisse
-der Genossenschaft, namentlich Betriebs- oder Geschäftsgeheimnisse,
-die ihnen durch die Tätigkeit im Vorstand bekannt geworden sind, haben
-sie Stillschweigen zu bewahren.
+Genossenschaft anzuwenden. Eine Pflichtverletzung liegt nicht vor,
+wenn das Vorstandsmitglied bei einer unternehmerischen Entscheidung
+vernünftigerweise annehmen durfte, auf Grundlage angemessener
+Informationen zum Wohle der Genossenschaft zu handeln. Über
+vertrauliche Angaben und Geheimnisse der Genossenschaft, namentlich
+Betriebs- oder Geschäftsgeheimnisse, die ihnen durch die Tätigkeit im
+Vorstand bekannt geworden sind, haben sie Stillschweigen zu bewahren.
 
 (2) Vorstandsmitglieder, die ihre Pflichten verletzen, sind der
 Genossenschaft zum Ersatz des daraus entstehenden Schadens als
 Gesamtschuldner verpflichtet. Ist streitig, ob sie die Sorgfalt eines
 ordentlichen und gewissenhaften Geschäftsleiters einer Genossenschaft
-angewandt haben, tragen sie die Beweislast.
+angewandt haben, tragen sie die Beweislast. Wenn ein Vorstandsmitglied
+im Wesentlichen unentgeltlich tätig ist, muss dies bei der Beurteilung
+seiner Sorgfalt zu seinen Gunsten berücksichtigt werden.
 
 (3) Die Mitglieder des Vorstands sind namentlich zum Ersatz
 verpflichtet, wenn entgegen diesem Gesetz oder der Satzung
@@ -926,10 +1033,20 @@ des Zeitraums, für welchen es gewählt ist, durch die
 Generalversammlung widerrufen werden. Der Beschluss bedarf einer
 Mehrheit, die mindestens drei Viertel der abgegebenen Stimmen umfasst.
 
-(4) Bei einer Genossenschaft, die kapitalmarktorientiert im Sinn des §
-264d des Handelsgesetzbuchs ist, muss mindestens ein unabhängiges
-Mitglied des Aufsichtsrats über Sachverstand in Rechnungslegung oder
+(4) Bei einer Genossenschaft, die kapitalmarktorientiert im Sinne des
+§ 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des
+§ 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist, müssen die
+Mitglieder des Aufsichtsrats in ihrer Gesamtheit mit dem Sektor, in
+dem die Genossenschaft tätig ist, vertraut sein; mindestens ein
+Mitglied muss über Sachverstand auf den Gebieten Rechnungslegung oder
 Abschlussprüfung verfügen.
+
+(5) Abweichend von Absatz 1 Satz 1 kann die Satzung vorsehen, dass für
+bestimmte Mitglieder das Recht besteht, Mitglieder in den Aufsichtsrat
+zu entsenden. Die Zahl der nach Satz 1 in den Aufsichtsrat entsandten
+Personen darf zusammen mit der Zahl der investierenden Mitglieder im
+Aufsichtsrat ein Drittel der Aufsichtsratsmitglieder nicht
+überschreiten.
 
 
 ### § 37 Unvereinbarkeit von Ämtern
@@ -967,11 +1084,27 @@ Feststellung des Jahresabschlusses zu berichten.
 (1a) Der Aufsichtsrat kann einen Prüfungsausschuss bestellen, der sich
 mit der Überwachung des Rechnungslegungsprozesses sowie der
 Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems
-und des internen Revisionssystems befasst. Richtet der Aufsichtsrat
-einer Genossenschaft, die kapitalmarktorientiert im Sinn des § 264d
-des Handelsgesetzbuchs ist, einen Prüfungsausschuss ein, so muss
-diesem mindestens ein Mitglied angehören, welches die Voraussetzungen
-des § 36 Abs. 4 erfüllt.
+und des internen Revisionssystems sowie der Abschlussprüfung befasst.
+Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur
+Gewährleistung der Integrität des Rechnungslegungsprozesses
+unterbreiten. Richtet der Aufsichtsrat einer Genossenschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes ist, einen Prüfungsausschuss ein, so muss dieser
+die Voraussetzungen des § 36 Absatz 4 erfüllen. Artikel 6 Absatz 2
+Buchstabe a der Verordnung (EU) Nr. 537/2014 des Europäischen
+Parlaments und des Rates vom 16. April 2014 über spezifische
+Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem
+Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
+(ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) findet
+mit der Maßgabe Anwendung, dass die Erklärung bezogen auf die
+gesetzlichen Vertreter des Verbandes und die vom Verband beschäftigten
+Personen, die das Ergebnis der Prüfung beeinflussen können, abzugeben
+ist.
+
+(1b) Der Aufsichtsrat hat auch den gesonderten nichtfinanziellen
+Bericht (§ 289b des Handelsgesetzbuchs) zu prüfen, sofern er erstellt
+wurde.
 
 (2) Der Aufsichtsrat hat eine Generalversammlung einzuberufen, wenn
 dies im Interesse der Genossenschaft erforderlich ist. Ist nach der
@@ -1121,8 +1254,8 @@ vorausgegangenen Geschäftsjahres.
 Person, die Mitglied der Genossenschaft ist und nicht dem Vorstand
 oder Aufsichtsrat angehört, gewählt werden. Ist ein Mitglied der
 Genossenschaft eine juristische Person oder eine Personengesellschaft,
-können natürliche Personen, die zu deren gesetzlicher Vertretung
-befugt sind, als Vertreter gewählt werden.
+kann jeweils eine natürliche Person, die zu deren Vertretung befugt
+ist, als Vertreter gewählt werden.
 
 (3) Die Vertreterversammlung besteht aus mindestens 50 Vertretern, die
 von den Mitgliedern der Genossenschaft gewählt werden. Die Vertreter
@@ -1159,11 +1292,14 @@ spätestens mit Ablauf der Amtszeit des weggefallenen Vertreters. Auf
 die Wahl des Ersatzvertreters sind die für den Vertreter geltenden
 Vorschriften anzuwenden.
 
-(6) Eine Liste mit den Namen und Anschriften der gewählten Vertreter
-und Ersatzvertreter ist mindestes zwei Wochen lang in den
-Geschäftsräumen der Genossenschaft und ihren Niederlassungen zur
-Einsichtnahme für die Mitglieder auszulegen. Die Auslegung ist in
-einem öffentlichen Blatt bekannt zu machen. Die Auslegungsfrist
+(6) Eine Liste mit den Namen sowie den Anschriften, Telefonnummern
+oder E-Mail-Adressen der gewählten Vertreter und Ersatzvertreter ist
+zur Einsichtnahme für die Mitglieder mindestens zwei Wochen lang in
+den Geschäftsräumen der Genossenschaft und ihren Niederlassungen
+auszulegen oder bis zum Ende der Amtszeit der Vertreter auf der
+Internetseite der Genossenschaft zugänglich zu machen. Die Auslegung
+oder die Zugänglichkeit im Internet ist in einem öffentlichen Blatt
+bekannt zu machen. Die Frist für die Auslegung oder Zugänglichmachung
 beginnt mit der Bekanntmachung. Jedes Mitglied kann jederzeit eine
 Abschrift der Liste der Vertreter und Ersatzvertreter verlangen;
 hierauf ist in der Bekanntmachung nach Satz 2 hinzuweisen.
@@ -1220,8 +1356,8 @@ Weise mit einer Frist von mindestens zwei Wochen einberufen werden.
 Bei der Einberufung ist die Tagesordnung bekannt zu machen. Die
 Tagesordnung einer Vertreterversammlung ist allen Mitgliedern durch
 Veröffentlichung in den Genossenschaftsblättern oder im Internet unter
-der Adresse der Genossenschaft oder durch unmittelbare schriftliche
-Benachrichtigung bekannt zu machen.
+der Adresse der Genossenschaft oder durch unmittelbare
+Benachrichtigung in Textform bekannt zu machen.
 
 (2) Über Gegenstände, deren Verhandlung nicht in der durch die Satzung
 oder nach § 45 Abs. 3 vorgesehenen Weise mindestens eine Woche vor der
@@ -1242,9 +1378,9 @@ anzufertigen. Sie soll den Ort und den Tag der Versammlung, den Namen
 des Vorsitzenden sowie Art und Ergebnis der Abstimmung und die
 Feststellung des Vorsitzenden über die Beschlussfassung enthalten.
 
-(2) Die Niederschrift ist vom Vorsitzenden und den anwesenden
-Mitgliedern des Vorstands zu unterschreiben. Ihr sind die Belege über
-die Einberufung als Anlagen beizufügen.
+(2) Die Niederschrift ist vom Vorsitzenden und mindestens einem
+anwesenden Mitglied des Vorstands zu unterschreiben. Ihr sind die
+Belege über die Einberufung als Anlagen beizufügen.
 
 (3) Sieht die Satzung die Zulassung investierender Mitglieder oder die
 Gewährung von Mehrstimmrechten vor oder wird eine Änderung der Satzung
@@ -1283,7 +1419,8 @@ Bestätigungsvermerk erteilt worden ist.
 Aufsichtsrats sollen mindestens eine Woche vor der Versammlung in dem
 Geschäftsraum der Genossenschaft oder an einer anderen durch den
 Vorstand bekannt zu machenden geeigneten Stelle zur Einsichtnahme der
-Mitglieder ausgelegt oder ihnen sonst zur Kenntnis gebracht werden.
+Mitglieder ausgelegt, auf der Internetseite der Genossenschaft
+zugänglich gemacht oder ihnen sonst zur Kenntnis gebracht werden.
 Jedes Mitglied ist berechtigt, auf seine Kosten eine Abschrift des
 Jahresabschlusses, des Lageberichts und des Berichts des Aufsichtsrats
 zu verlangen.
@@ -1366,30 +1503,103 @@ nur, wenn der eingetragene Beschluss veröffentlicht worden war.
 
 (1) Zwecks Feststellung der wirtschaftlichen Verhältnisse und der
 Ordnungsmäßigkeit der Geschäftsführung sind die Einrichtungen, die
-Vermögenslage sowie die Geschäftsführung der Genossenschaft
-einschließlich der Führung der Mitgliederliste mindestens in jedem
-zweiten Geschäftsjahr zu prüfen. Bei Genossenschaften, deren
+Vermögenslage sowie die Geschäftsführung der Genossenschaft mindestens
+in jedem zweiten Geschäftsjahr zu prüfen. Bei Genossenschaften, deren
 Bilanzsumme 2 Millionen Euro übersteigt, muss die Prüfung in jedem
 Geschäftsjahr stattfinden.
 
 (2) Im Rahmen der Prüfung nach Absatz 1 ist bei Genossenschaften,
-deren Bilanzsumme eine Million Euro und deren Umsatzerlöse 2 Millionen
-Euro übersteigen, der Jahresabschluss unter Einbeziehung der
+deren Bilanzsumme 1,5 Millionen Euro und deren Umsatzerlöse 3
+Millionen Euro übersteigen, der Jahresabschluss unter Einbeziehung der
 Buchführung und des Lageberichts zu prüfen. § 316 Abs. 3, § 317 Abs. 1
 Satz 2 und 3, Abs. 2 des Handelsgesetzbuchs sind entsprechend
-anzuwenden. Bei der Prüfung großer Genossenschaften im Sinn des § 58
+anzuwenden; Artikel 17 der Verordnung (EU) Nr. 537/2014 findet keine
+Anwendung. Bei der Prüfung großer Genossenschaften im Sinn des § 58
 Abs. 2 ist § 317 Abs. 5 und 6 des Handelsgesetzbuchs entsprechend
 anzuwenden.
 
 (3) Für Genossenschaften, die kapitalmarktorientiert im Sinn des §
-264d des Handelsgesetzbuchs sind und keinen Aufsichtsrat haben, gilt §
-324 des Handelsgesetzbuchs entsprechend.
+264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des §
+1 Absatz 3d Satz 1 des Kreditwesengesetzes sind und keinen
+Aufsichtsrat haben, gilt § 324 des Handelsgesetzbuchs entsprechend.
+
+
+### § 53a Vereinfachte Prüfung; Verordnungsermächtigung
+
+(1) Bei Kleinstgenossenschaften (§ 336 Absatz 2 Satz 3 des
+Handelsgesetzbuchs), deren Satzung keine Nachschusspflicht der
+Mitglieder vorsieht und die im maßgeblichen Prüfungszeitraum von ihren
+Mitgliedern keine Darlehen nach § 21b Absatz 1 entgegengenommen haben,
+beschränkt sich jede zweite Prüfung nach § 53 Absatz 1 Satz 1 auf eine
+vereinfachte Prüfung. Eine vereinfachte Prüfung umfasst die Durchsicht
+der in Absatz 2 Satz 1 genannten Unterlagen und die Feststellung, ob
+es Anhaltspunkte dafür gibt, an einer geordneten Vermögenslage oder
+der Ordnungsmäßigkeit der Geschäftsführung zu zweifeln. § 57 Absatz 2
+und 4 findet keine Anwendung.
+
+(2) Bei der vereinfachten Prüfung sind folgende Unterlagen
+einzureichen:
+
+1.  eine Abschrift der Satzung in der geltenden Fassung oder eine
+    Erklärung des Vorstands, dass gegenüber der zuletzt eingereichten
+    Fassung keine Änderung erfolgt ist;
+
+
+2.  die im Prüfungszeitraum festgestellten Jahresabschlüsse;
+
+
+3.  ein Nachweis über die im Prüfungszeitraum erfolgte Offenlegung des
+    Jahresabschlusses im Bundesanzeiger oder darüber, dass ein
+    entsprechender Bekanntmachungs- oder Hinterlegungsauftrag erteilt
+    wurde;
+
+
+4.  eine Abschrift der Mitgliederliste;
+
+
+5.  eine Abschrift der im Prüfungszeitraum erstellten Niederschriften der
+    Beschlüsse der Generalversammlung, des Vorstands und des
+    Aufsichtsrats, wenn es einen solchen gibt;
+
+
+6.  sofern die Genossenschaft im Prüfungszeitraum ihren Mitgliedern
+    Vermögensanlagen nach § 2 Absatz 1 Nummer 1a des
+    Vermögensanlagengesetzes vom 6. Dezember 2011 (BGBl. I S. 2481), das
+    zuletzt durch Artikel 4 Absatz 54 des Gesetzes vom 18. Juli 2016
+    (BGBl. I S. 1666) geändert worden ist, in der jeweils geltenden
+    Fassung angeboten hat, eine Erklärung des Vorstands, dass und auf
+    welche Weise den Mitgliedern die nach § 2 Absatz 2 Satz 2 des
+    Vermögensanlagengesetzes erforderlichen Informationen zur Verfügung
+    gestellt wurden.
+
+
+
+Die Unterlagen sind innerhalb von zwei Monaten nach Aufforderung durch
+den Prüfungsverband in Textform einzureichen. In der Aufforderung hat
+der Prüfungsverband den maßgeblichen Prüfungszeitraum zu bezeichnen.
+
+(3) Werden die erforderlichen Unterlagen nicht oder nicht vollständig
+eingereicht, hat der Prüfungsverband das Recht, eine vollständige
+Prüfung nach § 53 Absatz 1 Satz 1 vorzunehmen. Die Generalversammlung
+kann jederzeit eine solche vollständige Prüfung beschließen. Die
+erstmalige Pflichtprüfung einer Genossenschaft ist stets eine
+vollständige Prüfung.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie, durch Rechtsverordnung mit Zustimmung des Bundesrates für
+die vereinfachte Prüfung zu bestimmen, dass abweichend von Absatz 2
+dem Prüfungsverband von der Genossenschaft weitere Unterlagen
+einzureichen sind. Dabei kann nach der Branchenzugehörigkeit der
+Genossenschaft unterschieden werden.
 
 
 ### § 54 Pflichtmitgliedschaft im Prüfungsverband
 
 Die Genossenschaft muss einem Verband angehören, dem das Prüfungsrecht
-verliehen ist (Prüfungsverband).
+verliehen ist (Prüfungsverband). Die Genossenschaft hat den Namen und
+den Sitz dieses Prüfungsverbandes auf ihrer Internetseite oder in
+Ermangelung einer solchen auf den Geschäftsbriefen anzugeben.
 
 
 ### § 54a Wechsel des Prüfungsverbandes
@@ -1398,6 +1608,8 @@ verliehen ist (Prüfungsverband).
 Verband das Registergericht unverzüglich zu benachrichtigen. Das
 Registergericht hat eine Frist zu bestimmen, innerhalb derer die
 Genossenschaft die Mitgliedschaft bei einem Verband zu erwerben hat.
+Die Artikel 16 und 19 der Verordnung (EU) Nr. 537/2014 finden keine
+Anwendung.
 
 (2) Weist die Genossenschaft nicht innerhalb der gesetzten Frist dem
 Registergericht nach, dass sie die Mitgliedschaft erworben hat, so hat
@@ -1424,7 +1636,7 @@ Person
 1.  Mitglied der zu prüfenden Genossenschaft ist;
 
 
-2.  Mitglied des Vorstands oder Aufsichtsrats oder Arbeitnehmer der
+2.  Mitglied des Vorstands oder Aufsichtsrats oder Arbeitnehmer der zu
     prüfenden Genossenschaft ist;
 
 
@@ -1465,12 +1677,23 @@ Satz 2 Nr. 2 ist auf Mitglieder des Aufsichtsorgans des Verbandes
 nicht anzuwenden, sofern sichergestellt ist, dass der Prüfer die
 Prüfung unabhängig von den Weisungen durch das Aufsichtsorgan
 durchführen kann. Die Sätze 2 und 3 gelten auch, wenn der Ehegatte
-oder der Lebenspartner einen Ausschlussgrund erfüllt. Nimmt die zu
-prüfende Genossenschaft einen organisierten Markt im Sinne des § 2
-Abs. 5 des Wertpapierhandelsgesetzes in Anspruch, ist über die in den
-Sätzen 1 bis 4 genannten Gründe hinaus § 319a Abs. 1 des
-Handelsgesetzbuchs auf die in Satz 1 genannten Vertreter und Personen
-des Verbandes entsprechend anzuwenden.
+oder der Lebenspartner einen Ausschlussgrund erfüllt. Ist die zu
+prüfende Genossenschaft kapitalmarktorientiert im Sinne des § 264d des
+Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne des §
+1 Absatz 3d Satz 1 des Kreditwesengesetzes, sind über die in den
+Sätzen 1 bis 4 genannten Gründe hinaus § 319a Absatz 1 und 3 des
+Handelsgesetzbuchs sowie Artikel 5 Absatz 1, 4 Unterabsatz 1 und
+Absatz 5 der Verordnung (EU) Nr. 537/2014 auf die in Satz 1 genannten
+Vertreter und Personen des Verbandes entsprechend anzuwenden; auf den
+Verband findet Artikel 5 der Verordnung (EU) Nr. 537/2014 keine
+Anwendung.
+
+(2a) Artikel 4 Absatz 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014
+findet auf alle in Absatz 2 Satz 1 genannten Vertreter und Personen
+des Verbandes entsprechende Anwendung; auf den Verband findet Artikel
+4 Absatz 2 und 3 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 keine
+Anwendung. Artikel 4 Absatz 3 Unterabsatz 2 der Verordnung (EU) Nr.
+537/2014 findet keine Anwendung.
 
 (3) Der Verband kann sich eines von ihm nicht angestellten Prüfers
 bedienen, wenn dies im Einzelfall notwendig ist, um eine gesetzmäßige
@@ -1478,19 +1701,26 @@ sowie sach- und termingerechte Prüfung zu gewährleisten. Der Verband
 darf jedoch nur einen anderen Prüfungsverband, einen Wirtschaftsprüfer
 oder eine Wirtschaftsprüfungsgesellschaft mit der Prüfung beauftragen.
 
-(4) Führt ein Prüfungsverband die gesetzlich vorgeschriebene
-Abschlussprüfung bei einem Unternehmen durch, das
-kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist,
-hat er einen Transparenzbericht zu veröffentlichen. § 55c der
-Wirtschaftsprüferordnung gilt entsprechend.
+(4) Gehört die Genossenschaft mehreren Verbänden an, wird die Prüfung
+durch denjenigen Verband durchgeführt, bei dem die Genossenschaft die
+Mitgliedschaft zuerst erworben hat, es sei denn, dieser Verband, die
+Genossenschaft und der andere Verband, der künftig die Prüfung
+durchführen soll, einigen sich darauf, dass der andere Verband die
+Prüfung durchführt.
 
 
 ### § 56 Ruhen des Prüfungsrechts des Verbandes
 
-(1) Das Prüfungsrecht des Verbandes ruht, wenn der Verband über keine
-wirksame Bescheinigung über die Teilnahme an der nach § 63e Abs. 1
-erforderlichen Qualitätskontrolle verfügt, es sei denn, dass eine
-Ausnahmegenehmigung nach § 63e Abs. 3 erteilt worden ist.
+(1) Die Aufsichtsbehörde kann das Ruhen des Prüfungsrechts des
+Verbandes anordnen, wenn dieser sich einer angeordneten Untersuchung
+nach § 64 Absatz 2 Satz 2 Nummer 4 entzieht oder wenn nach den
+Ergebnissen einer solchen Untersuchung ein Ruhen des Prüfungsrechts
+erforderlich erscheint, um weitere Feststellungen dazu treffen zu
+können, ob der Verband seine Aufgaben ordnungsgemäß erfüllt. Das
+Prüfungsrecht eines Verbandes, der sich nach § 63e Absatz 1 einer
+Qualitätskontrolle zu unterziehen hat, ruht, wenn der Verband nicht
+mehr gemäß § 40a Absatz 1 Satz 1 der Wirtschaftsprüferordnung im
+Register eingetragen ist.
 
 (2) Ruht das Prüfungsrecht des Verbandes, so hat der Spitzenverband,
 dem der Verband angehört, auf Antrag des Vorstands der Genossenschaft
@@ -1538,10 +1768,35 @@ der Vorsitzende des Aufsichtsrats zu einer solchen Sitzung einladen;
 wird seinem Verlangen nicht entsprochen, so kann er selbst Vorstand
 und Aufsichtsrat unter Mitteilung des Sachverhalts berufen.
 
-(5) Ist nach der Satzung kein Aufsichtsrat zu bilden, werden die
+(5) Ist eine Genossenschaft kapitalmarktorientiert im Sinne des § 264d
+des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im Sinne
+des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, so hat der Prüfer an
+einer gemeinsamen Sitzung des Vorstands und des Aufsichtsrats der
+Genossenschaft über das voraussichtliche Ergebnis der Prüfung
+teilzunehmen und über die wesentlichen Ergebnisse seiner Prüfung,
+insbesondere über wesentliche Schwächen des internen Kontroll- und des
+Risikomanagementsystems bezogen auf den Rechnungslegungsprozess, zu
+berichten. Er informiert über Umstände, die seine Befangenheit
+besorgen lassen, und über Leistungen, die er zusätzlich zu den
+Prüfungsleistungen erbracht hat.
+
+(6) Ist nach der Satzung kein Aufsichtsrat zu bilden, werden die
 Rechte und Pflichten des Aufsichtsratsvorsitzenden nach den Absätzen 2
 bis 4 durch einen von der Generalversammlung aus ihrer Mitte gewählten
 Bevollmächtigten wahrgenommen.
+
+
+### § 57a Prüfungsbegleitende Qualitätssicherung
+
+Ist die zu prüfende Genossenschaft kapitalmarktorientiert im Sinne des
+§ 264d des Handelsgesetzbuchs oder ist sie ein CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes mit einer
+Bilanzsumme von mehr als 3 Milliarden Euro, hat in entsprechender
+Anwendung des Artikels 8 der Verordnung (EU) Nr. 537/2014 eine
+prüfungsbegleitende Qualitätssicherung stattzufinden. Die
+prüfungsbegleitende Qualitätssicherung darf nur von solchen fachlich
+und persönlich geeigneten Personen wahrgenommen werden, die an der
+Durchführung der Prüfung nicht beteiligt sind.
 
 
 ### § 58 Prüfungsbericht
@@ -1549,34 +1804,45 @@ Bevollmächtigten wahrgenommen.
 (1) Der Verband hat über das Ergebnis der Prüfung schriftlich zu
 berichten. Auf den Prüfungsbericht ist, soweit er den Jahresabschluss
 und den Lagebericht betrifft, § 321 Abs. 1 bis 3 sowie 4a des
-Handelsgesetzbuchs entsprechend anzuwenden.
+Handelsgesetzbuchs entsprechend anzuwenden. Im Prüfungsbericht ist
+Stellung dazu zu nehmen, ob und auf welche Weise die Genossenschaft im
+Prüfungszeitraum einen zulässigen Förderzweck verfolgt hat.
 
 (2) Auf die Prüfung von Genossenschaften, die die Größenmerkmale des §
 267 Abs. 3 des Handelsgesetzbuchs erfüllen, ist § 322 des
 Handelsgesetzbuchs über den Bestätigungsvermerk entsprechend
-anzuwenden.
+anzuwenden. Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr.
+537/2014 findet auf alle in § 55 Absatz 2 Satz 1 genannten Vertreter
+und Personen des Verbandes entsprechende Anwendung; auf den Verband
+findet Artikel 10 Absatz 2 Buchstabe g der Verordnung (EU) Nr.
+537/2014 keine Anwendung.
 
 (3) Der Verband hat den Prüfungsbericht zu unterzeichnen und dem
 Vorstand der Genossenschaft sowie dem Vorsitzenden des Aufsichtsrats
-vorzulegen; § 57 Abs. 5 ist entsprechend anzuwenden. Jedes Mitglied
-des Aufsichtsrats hat den Inhalt des Prüfungsberichts zur Kenntnis zu
-nehmen.
+vorzulegen; § 57 Absatz 6 ist entsprechend anzuwenden, Artikel 11
+Absatz 1, 2 Satz 1 und Absatz 4 der Verordnung (EU) Nr. 537/2014 ist
+nicht anzuwenden. Jedes Mitglied des Aufsichtsrats hat den Inhalt des
+Prüfungsberichts zur Kenntnis zu nehmen.
 
 (4) Über das Ergebnis der Prüfung haben Vorstand und Aufsichtsrat der
 Genossenschaft in gemeinsamer Sitzung unverzüglich nach Eingang des
-Prüfungsberichts zu beraten. Verband und Prüfer sind berechtigt, an
-der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den Verband
-von der Sitzung in Kenntnis zu setzen.
+Prüfungsberichts zu beraten; ist die Genossenschaft
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+ist sie CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, so hat der Aufsichtsrat darzulegen, wie die
+Prüfung sowie die Befassung des Aufsichtsrats oder Prüfungsausschusses
+mit der Abschlussprüfung dazu beigetragen hat, dass die
+Rechnungslegung ordnungsgemäß ist. Verband und Prüfer sind berechtigt,
+an der Sitzung teilzunehmen; der Vorstand ist verpflichtet, den
+Verband von der Sitzung in Kenntnis zu setzen.
 
 
-### § 59 Prüfungsbescheinigung; Befassung der Generalversammlung
+### § 59 Befassung der Generalversammlung
 
-(1) Der Vorstand hat eine Bescheinigung des Verbandes, dass die
-Prüfung stattgefunden hat, zum Genossenschaftsregister einzureichen
-und den Prüfungsbericht bei der Einberufung der nächsten
-Generalversammlung als Gegenstand der Beschlussfassung anzukündigen.
-Jedes Mitglied hat das Recht, Einsicht in das zusammengefasste
-Ergebnis des Prüfungsberichts zu nehmen.
+(1) Der Vorstand hat den Prüfungsbericht bei der Einberufung der
+nächsten Generalversammlung als Gegenstand der Beratung und möglichen
+Beschlussfassung anzukündigen. Jedes Mitglied hat das Recht, Einsicht
+in das zusammengefasste Ergebnis des Prüfungsberichts zu nehmen.
 
 (2) In der Generalversammlung hat sich der Aufsichtsrat über
 wesentliche Feststellungen oder Beanstandungen der Prüfung zu
@@ -1590,14 +1856,15 @@ verlesen.
 
 ### § 60 Einberufungsrecht des Prüfungsverbandes
 
-(1) Gewinnt der Verband die Überzeugung, dass die Beschlussfassung
-über den Prüfungsbericht ungebührlich verzögert wird oder dass die
-Generalversammlung bei der Beschlussfassung unzulänglich über
-wesentliche Feststellungen oder Beanstandungen des Prüfungsberichts
-unterrichtet war, so ist er berechtigt, eine außerordentliche
-Generalversammlung der Genossenschaft auf deren Kosten zu berufen und
-zu bestimmen, über welche Gegenstände zwecks Beseitigung
-festgestellter Mängel verhandelt und beschlossen werden soll.
+(1) Gewinnt der Verband die Überzeugung, dass die Beratung und
+mögliche Beschlussfassung über den Prüfungsbericht ungebührlich
+verzögert wird oder dass die Generalversammlung bei der Beratung und
+möglichen Beschlussfassung unzulänglich über wesentliche
+Feststellungen oder Beanstandungen des Prüfungsberichts unterrichtet
+war, so ist er berechtigt, eine außerordentliche Generalversammlung
+der Genossenschaft auf deren Kosten zu berufen und zu bestimmen, über
+welche Gegenstände zwecks Beseitigung festgestellter Mängel verhandelt
+und beschlossen werden soll.
 
 (2) In der von dem Verband einberufenen Generalversammlung führt eine
 vom Verband bestimmte Person den Vorsitz.
@@ -1629,7 +1896,14 @@ haben.
 (3) Der Verband kann einem Spitzenverband, dem er angehört,
 Abschriften der Prüfungsberichte mitteilen; der Spitzenverband darf
 sie so verwerten, wie es die Erfüllung der ihm obliegenden Pflichten
-erfordert.
+erfordert. Der Verband ist berechtigt, der Bundesanstalt für
+Finanzdienstleistungsaufsicht eine Abschrift eines Prüfungsberichts
+ganz oder auszugsweise zur Verfügung zu stellen, wenn sich aus diesem
+Anhaltspunkte dafür ergeben, dass die geprüfte Genossenschaft keinen
+zulässigen Förderzweck verfolgt, sondern ihr Vermögen gemäß einer
+festgelegten Anlagestrategie investiert, so dass ein
+Investmentvermögen im Sinne des § 1 Absatz 1 des
+Kapitalanlagegesetzbuchs vorliegen könnte.
 
 (4) Die Verpflichtung zur Verschwiegenheit nach Absatz 1 Satz 1
 besteht, wenn eine Prüfungsgesellschaft die Prüfung vornimmt, auch
@@ -1673,6 +1947,8 @@ führt, dass eine andere ausreichende Sicherstellung erfolgt ist.
 ### § 63b Rechtsform, Mitglieder und Zweck des Prüfungsverbandes
 
 (1) Der Verband soll die Rechtsform des eingetragenen Vereins haben.
+Eine andere Rechtsform ist nur zulässig, wenn sichergestellt ist, dass
+der Verband ohne Gewinnerzielungsabsicht handelt.
 
 (2) Mitglieder des Verbandes können nur eingetragene Genossenschaften
 und ohne Rücksicht auf ihre Rechtsform solche Unternehmen oder andere
@@ -1731,15 +2007,15 @@ Verbandsbezirkes abgehalten werden.
 
 (2) Die Satzung soll ferner Bestimmungen enthalten über Auswahl und
 Befähigungsnachweis der anzustellenden Prüfer, über Art und Umfang der
-Prüfungen sowie, soweit der Prüfungsverband Abschlussprüfungen von
-Genossenschaften im Sinn des § 58 Abs. 2, im Sinn des § 340k Abs. 2
-Satz 1 des Handelsgesetzbuchs, im Sinn des Artikels 25 Abs. 1 Satz 1
-des Einführungsgesetzes zum Handelsgesetzbuch durchführt oder den
-Konzernabschluss einer Genossenschaft nach § 14 Abs. 1 des
-Publizitätsgesetzes prüft, über die Registrierung als Abschlussprüfer,
-über die Bindung an die Berufsgrundsätze und die Beachtung der
-Prüfungsstandards entsprechend den für
-Wirtschaftsprüfungsgesellschaften geltenden Bestimmungen, über
+Prüfungen sowie, soweit der Prüfungsverband gesetzlich vorgeschriebene
+Abschlussprüfungen von Genossenschaften im Sinne des § 53 Absatz 2, im
+Sinn des § 340k Abs. 2 Satz 1 des Handelsgesetzbuchs, im Sinn des
+Artikels 25 Abs. 1 Satz 1 des Einführungsgesetzes zum
+Handelsgesetzbuch durchführt oder den Konzernabschluss einer
+Genossenschaft nach § 14 Abs. 1 des Publizitätsgesetzes prüft, über
+die Registrierung als Abschlussprüfer, über die Bindung an die
+Berufsgrundsätze und die Beachtung der Prüfungsstandards entsprechend
+den für Wirtschaftsprüfungsgesellschaften geltenden Bestimmungen, über
 Berufung, Sitz, Aufgaben und Befugnisse des Vorstands und über die
 sonstigen Organe des Verbandes.
 
@@ -1754,7 +2030,13 @@ Der Verband hat den Registergerichten, in deren Bezirk die ihm
 angehörenden Genossenschaften ihren Sitz haben, die Satzung mit einer
 beglaubigten Abschrift der Verleihungsurkunde sowie jährlich im Monat
 Januar ein Verzeichnis der ihm angehörenden Genossenschaften
-einzureichen.
+einzureichen. Wurde bei einer dieser Genossenschaften im letzten sich
+aus § 53 Absatz 1 ergebenden Prüfungszeitraum keine Pflichtprüfung
+durchgeführt, ist dies in einer Anlage zum Verzeichnis unter Angabe
+der Gründe für die ausstehende Prüfung anzugeben. Liegt der Grund
+darin, dass die betreffende Genossenschaft auch Mitglied bei einem
+anderen Prüfungsverband ist und dieser andere Verband die Prüfung
+durchführt, ist der Name dieses anderen Verbandes anzugeben.
 
 
 ### § 63e Qualitätskontrolle für Prüfungsverbände
@@ -1765,12 +2047,12 @@ und 63g zu unterziehen. Prüft ein Prüfungsverband auch eine
 Genossenschaft, eine in Artikel 25 Abs. 1 Satz 1 Nr. 1 des
 Einführungsgesetzes zum Handelsgesetzbuch genannte Gesellschaft oder
 ein in Artikel 25 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum
-Handelsgesetzbuch genanntes Unternehmen, die einen organisierten Markt
-im Sinne des § 2 Abs. 5 des Wertpapierhandelsgesetzes in Anspruch
-nehmen, verringert sich der Abstand auf drei Jahre. Ein
-Prüfungsverband, der keine in § 53 Abs. 2 Satz 1 bezeichneten
-Genossenschaften prüft, ist nicht verpflichtet, sich einer
-Qualitätskontrolle zu unterziehen.
+Handelsgesetzbuch genanntes Unternehmen, die kapitalmarktorientiert im
+Sinne des § 264d des Handelsgesetzbuchs oder ein CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes sind,
+verringert sich der Abstand auf drei Jahre. Ein Prüfungsverband, der
+keine gesetzlich vorgeschriebene Abschlussprüfung durchführt, ist
+nicht verpflichtet, sich einer Qualitätskontrolle zu unterziehen.
 
 (2) Die Qualitätskontrolle dient der Überwachung, ob die Grundsätze
 und Maßnahmen zur Qualitätssicherung nach Maßgabe der gesetzlichen
@@ -1779,20 +2061,16 @@ eingehalten werden. Sie erstreckt sich auf die Prüfungen nach § 53
 Abs. 1 und 2 bei den in § 53 Abs. 2 Satz 1 bezeichneten
 Genossenschaften und die Prüfungen bei den in Artikel 25 Abs. 1 Satz 1
 des Einführungsgesetzes zum Handelsgesetzbuche genannten
-Gesellschaften und Unternehmen.
+Gesellschaften und Unternehmen, die keine kleinen
+Kapitalgesellschaften im Sinne des § 267 Absatz 1 des
+Handelsgesetzbuchs sind.
 
-(3) Zur Vermeidung von Härtefällen kann die Wirtschaftsprüferkammer
-auf Antrag befristete Ausnahmen von der Verpflichtung nach Absatz 1
-genehmigen. Die Ausnahmegenehmigung kann wiederholt erteilt werden.
-Die Wirtschaftsprüferkammer kann vor ihrer Entscheidung eine
-Stellungnahme der nach § 63 Aufsichtsbehörde einholen.
+(3) Der Prüfungsverband hat der zuständigen Aufsichtsbehörde die
+erfolgte Durchführung einer Qualitätskontrolle mitzuteilen.
 
-(4) Ein Prüfungsverband, der erstmalig eine der Qualitätskontrolle
-unterfallende Prüfung durchführt, muss spätestens bei Beginn der
-Prüfung über eine wirksame Bescheinigung über die Teilnahme an der
-Qualitätskontrolle oder über eine Ausnahmegenehmigung verfügen; im
-Falle einer Ausnahmegenehmigung ist die Qualitätskontrolle spätestens
-drei Jahre nach Beginn der ersten Prüfung durchzuführen.
+(4) Ein Prüfungsverband, der erstmalig eine gesetzlich vorgeschriebene
+Abschlussprüfung durchführt, hat sich spätestens drei Jahre nach deren
+Beginn einer Qualitätskontrolle zu unterziehen.
 
 
 ### § 63f Prüfer für Qualitätskontrolle
@@ -1815,8 +2093,8 @@ als Prüfer für Qualitätskontrolle zu registrieren, wenn
     57a Abs. 3 der Wirtschaftsprüferordnung registriert ist;
 
 
-3.  der Prüfungsverband über eine wirksame Bescheinigung über die
-    Teilnahme an der Qualitätskontrolle verfügt.
+3.  der Prüfungsverband nach § 40a Absatz 1 Satz 1 der
+    Wirtschaftsprüferordnung eingetragen ist.
 
 
 
@@ -1825,8 +2103,8 @@ Qualitätskontrolle erteilt, so muss der für die Qualitätskontrolle
 verantwortliche Wirtschaftsprüfer die Voraussetzungen des Satzes 1 Nr.
 2 erfüllen.
 
-(3) § 57a Abs. 4 der Wirtschaftsprüferordnung ist entsprechend
-anzuwenden.
+(3) § 57a Absatz 3a Satz 1 und Absatz 4 der Wirtschaftsprüferordnung
+ist entsprechend anzuwenden.
 
 
 ### § 63g Durchführung der Qualitätskontrolle
@@ -1838,40 +2116,34 @@ Durchführung der Qualitätskontrolle. § 57a Abs. 7 der
 Wirtschaftsprüferordnung über die Kündigung des Auftrags ist
 entsprechend anzuwenden.
 
-(2) Auf das Prüfungsverfahren sind § 57a Abs. 5, Abs. 6 Satz 1 bis 4
-und 6 bis 9 sowie Abs. 8, §§ 57b bis 57e Abs. 1, Abs. 2 Satz 1 bis 7
-und Abs. 3, § 66a Abs. 1 Satz 1, Abs. 3 Satz 1 bis 3, Abs. 5 Satz 1,
-Abs. 6 Satz 5 und § 66b der Wirtschaftsprüferordnung entsprechend
-anzuwenden. Soweit dies zur Durchführung der Qualitätskontrolle
-erforderlich ist, ist die Pflicht zur Verschwiegenheit nach § 62 Abs.
-1 eingeschränkt.
+(2) Auf das Prüfungsverfahren sind § 57a Absatz 5, 5b, 6, 6a Satz 1
+sowie Absatz 8, die §§ 57b bis 57e Absatz 1, 2 Satz 1, 2 und 4 und
+Absatz 3 Satz 1, § 66a Absatz 1 Satz 1, Absatz 3 Satz 1 bis 3, Absatz
+5 Satz 1 und § 66b der Wirtschaftsprüferordnung entsprechend
+anzuwenden. Die Ergebnisse einer Inspektion nach § 63h sind im Rahmen
+der Qualitätskontrolle zu berücksichtigen. Soweit dies zur
+Durchführung der Qualitätskontrolle erforderlich ist, ist die Pflicht
+zur Verschwiegenheit nach § 62 Abs. 1 eingeschränkt.
 
-(3) Erkennt die Wirtschaftsprüferkammer, dass eine
-Teilnahmebescheinigung nach § 57a Abs. 6 Satz 7 der
-Wirtschaftsprüferordnung widerrufen oder eine Teilnahmebescheinigung
-nach § 57a Abs. 6 Satz 9 der Wirtschaftsprüferordnung nicht erteilt
-werden soll, so ist der Vorgang der Aufsichtsbehörde vor der
-Entscheidung vorzulegen. Die Kommission für Qualitätskontrolle nach §
-57e Abs. 1 der Wirtschaftsprüferordnung hat die zuständige Behörde
-unverzüglich zu unterrichten, wenn die Erteilung der Bescheinigung
-nach § 57a Abs. 6 Satz 9 der Wirtschaftsprüferordnung versagt oder
-nach § 57e Abs. 2 Satz 3, 4 und 6 oder Abs. 3 Satz 2 der
-Wirtschaftsprüferordnung widerrufen worden ist.
+(3) Die Kommission für Qualitätskontrolle nach § 57e Absatz 1 der
+Wirtschaftsprüferordnung hat die zuständige Aufsichtsbehörde
+unverzüglich zu unterrichten, wenn ein Prüfungsverband wegen fehlender
+Durchführung der Qualitätskontrolle aus dem Register nach § 40a der
+Wirtschaftsprüferordnung gelöscht werden soll.
 
 
-### § 63h Sonderuntersuchungen
+### § 63h Inspektionen
 
 Führt ein Prüfungsverband die gesetzlich vorgeschriebene
 Abschlussprüfung bei einem Unternehmen durch, das
-kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist,
-können bei diesem Prüfungsverband Sonderuntersuchungen in
-entsprechender Anwendung des § 61a Satz 2 Nr. 2, § 62b der
-Wirtschaftsprüferordnung stichprobenartig ohne besonderen Anlass
-durchgeführt werden. § 57e Abs. 6 Satz 2, § 62 Abs. 4, § 66a Abs. 1
-Satz 1, Abs. 3, 5 Satz 1, Abs. 6 Satz 5, Abs. 8, 9, 10 und 11 und §
-66b der Wirtschaftsprüferordnung gelten entsprechend. Die
-Wirtschaftsprüferkammer hat der Aufsichtsbehörde das Ergebnis der
-Sonderuntersuchung mitzuteilen.
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist,
+können bei diesem Prüfungsverband Inspektionen in entsprechender
+Anwendung des § 62b der Wirtschaftsprüferordnung stichprobenartig ohne
+besonderen Anlass durchgeführt werden. § 57e Absatz 6 Satz 2, § 62
+Absatz 4 und 5 sowie die §§ 66a und 66b der Wirtschaftsprüferordnung
+gelten entsprechend. Die Wirtschaftsprüferkammer hat der
+Aufsichtsbehörde das Ergebnis der Inspektion mitzuteilen. Im Übrigen
+findet Artikel 26 der Verordnung (EU) Nr. 537/2014 keine Anwendung.
 
 
 ### § 64 Staatsaufsicht
@@ -1906,14 +2178,23 @@ Die mit der Durchführung von Aufsichtsmaßnahmen betrauten Personen und
 die mit Untersuchungen beauftragten Dritten sind berechtigt, die
 Geschäftsräume des Verbandes während der Geschäfts- und Arbeitszeiten
 zu betreten, um Untersuchungen vorzunehmen oder sonst Feststellungen
-zu treffen, die zur Ausübung der Aufsicht erforderlich sind.
+zu treffen, die zur Ausübung der Aufsicht erforderlich sind. Bei einem
+Verband, der nur solche Genossenschaften prüft, die nicht unter § 53
+Absatz 2 Satz 1 fallen, hat die Aufsichtsbehörde mindestens alle zehn
+Jahre eine Untersuchung nach Satz 2 Nummer 4 durchzuführen, es sei
+denn, der Verband weist die freiwillige Durchführung einer
+Qualitätskontrolle oder einer anderen geeigneten
+Organisationsuntersuchung nach.
 
 (3) Für Amtshandlungen nach dieser Vorschrift kann die zuständige
 Behörde zur Deckung des Verwaltungsaufwands Kosten (Gebühren und
 Auslagen) erheben. Die Landesregierungen werden ermächtigt, durch
 Verordnung die Gebührentatbestände sowie die Gebührenhöhe festzulegen.
 Sie können die Ermächtigung auf die zuständigen obersten
-Landesbehörden übertragen.
+Landesbehörden übertragen. Die Kosten, die der Aufsichtsbehörde durch
+eine nach Absatz 2 Satz 2 Nummer 4 vorgenommene Untersuchung
+entstehen, sind ihr von dem betroffenen Verband gesondert zu erstatten
+und auf Verlangen vorzuschießen.
 
 
 ### § 64a Entziehung des Prüfungsrechts
@@ -1952,11 +2233,11 @@ zu beenden.
 (2) Die Kündigung kann nur zum Schluss eines Geschäftsjahres und
 mindestens drei Monate vor dessen Ablauf in schriftlicher Form erklärt
 werden. In der Satzung kann eine längere, höchstens fünfjährige
-Kündigungsfrist bestimmt werden. Bei Genossenschaften, bei denen alle
-Mitglieder als Unternehmer im Sinne des § 14 des Bürgerlichen
-Gesetzbuchs Mitglied sind, kann die Satzung zum Zweck der Sicherung
-der Finanzierung des Anlagevermögens eine Kündigungsfrist bis zu zehn
-Jahre bestimmen.
+Kündigungsfrist bestimmt werden. Bei Genossenschaften, bei denen mehr
+als drei Viertel der Mitglieder als Unternehmer im Sinne des § 14 des
+Bürgerlichen Gesetzbuchs Mitglied sind, kann die Satzung zum Zweck der
+Sicherung der Finanzierung des Anlagevermögens für die Unternehmer
+eine Kündigungsfrist bis zu zehn Jahre bestimmen.
 
 (3) Entgegen einer in der Satzung bestimmten Kündigungsfrist von mehr
 als zwei Jahren kann jedes Mitglied, das der Genossenschaft mindestens
@@ -1997,6 +2278,13 @@ ist.
 Ausfertigung des Titels und der Bescheinigungen über den fruchtlosen
 Verlauf der Zwangsvollstreckung in das Vermögen des Schuldners
 beigefügt werden.
+
+
+### § 66a Kündigung im Insolvenzverfahren
+
+Wird das Insolvenzverfahren über das Vermögen eines Mitglieds eröffnet
+und ein Insolvenzverwalter bestellt, so kann der Insolvenzverwalter
+das Kündigungsrecht des Mitglieds an dessen Stelle ausüben.
 
 
 ### § 67 Beendigung der Mitgliedschaft wegen Aufgabe des Wohnsitzes
@@ -2054,6 +2342,31 @@ Geschäftsanteilen Voraussetzung für eine von dem Mitglied in Anspruch
 genommene Leistung der Genossenschaft ist.
 
 (2) § 65 Abs. 2 bis 5 gilt sinngemäß.
+
+
+### § 67c Kündigungsausschluss bei Wohnungsgenossenschaften
+
+(1) Die Kündigung der Mitgliedschaft in einer Wohnungsgenossenschaft
+durch den Gläubiger (§ 66) oder den Insolvenzverwalter (§ 66a) ist
+ausgeschlossen, wenn
+
+1.  die Mitgliedschaft Voraussetzung für die Nutzung der Wohnung des
+    Mitglieds ist und
+
+
+2.  das Geschäftsguthaben des Mitglieds höchstens das Vierfache des auf
+    einen Monat entfallenden Nutzungsentgelts ohne die als Pauschale oder
+    Vorauszahlung ausgewiesenen Betriebskosten oder höchstens 2 000 Euro
+    beträgt.
+
+
+
+
+(2) Übersteigt das Geschäftsguthaben des Mitglieds den Betrag nach
+Absatz 1 Nummer 2, ist die Kündigung der Mitgliedschaft nach Absatz 1
+auch dann ausgeschlossen, wenn es durch Kündigung einzelner
+Geschäftsanteile nach § 67b auf einen nach Absatz 1 Nummer 2
+zulässigen Betrag vermindert werden kann.
 
 
 ### § 68 Ausschluss eines Mitglieds
@@ -2588,9 +2901,7 @@ geheilt werden.
 
 (3) Die Einberufung der Generalversammlung erfolgt, wenn sich der
 Mangel auf die Bestimmungen über die Form der Einberufung bezieht,
-durch Einrückung in diejenigen öffentlichen Blätter, welche für die
-Bekanntmachung der Eintragungen in das Genossenschaftsregister des
-Sitzes der Genossenschaft bestimmt sind.
+durch Bekanntmachung im Bundesanzeiger.
 
 (4) Betrifft bei einer Genossenschaft, bei der die Mitglieder
 beschränkt auf eine Haftsumme Nachschüsse zur Insolvenzmasse zu
@@ -3115,7 +3426,21 @@ festgesetzt werden.
 
 ### § 120 Herabsetzung der Haftsumme
 
-Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3 sinngemäß.
+(1) Für die Herabsetzung der Haftsumme gilt § 22 Abs. 1 bis 3
+sinngemäß. Das Recht nach § 22 Absatz 2 Satz 1 steht den Gläubigern
+jedoch nur zu, wenn sie glaubhaft machen, dass durch die Herabsetzung
+der Haftsumme die Erfüllung ihrer Forderung gefährdet wird.
+
+(2) Wird über das Vermögen der Genossenschaft mit herabgesetzter
+Haftsumme binnen zwei Jahren nach dem Tag, an dem die Eintragung der
+Haftsummenherabsetzung in das Genossenschaftsregister bekannt gemacht
+worden ist, das Insolvenzverfahren eröffnet, so ist jedes Mitglied,
+dessen Nachschusspflicht durch die Herabsetzung der Haftsumme
+reduziert wurde, in der Höhe zu Nachschüssen verpflichtet, wie es vor
+Herabsetzung der Haftsumme zu leisten verpflichtet war. Die §§ 105 bis
+115b sind mit der Maßgabe entsprechend anzuwenden, dass nur solche
+Verbindlichkeiten zu berücksichtigen sind, die bereits im Zeitpunkt
+der Herabsetzung der Haftsumme begründet waren.
 
 
 ### § 121 Haftsumme bei mehreren Geschäftsanteilen
@@ -3230,6 +3555,24 @@ der Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen,
 so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
 
+### § 151a Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines
+Prüfungsausschusses einer Genossenschaft, die kapitalmarktorientiert
+im Sinne des § 264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut
+im Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes ist,
+
+1.  eine in § 152 Absatz 1a bezeichnete Handlung begeht und dafür einen
+    Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 152 Absatz 1a bezeichnete Handlung beharrlich wiederholt.
+
+
+
+
+
 ### § 152 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer
@@ -3248,11 +3591,47 @@ so sind der Vorstand oder die Liquidatoren antragsberechtigt.
 
 
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
-Euro geahndet werden.
+(1a) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder
+als Mitglied eines Prüfungsausschusses einer Genossenschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes ist, die Unabhängigkeit der in § 55 Absatz 2 Satz
+1 genannten Vertreter und Personen nicht nach Maßgabe des Artikels 5
+Absatz 4 Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 537/2014 des
+Europäischen Parlaments und des Rates vom 16. April 2014 über
+spezifische Anforderungen an die Abschlussprüfung bei Unternehmen von
+öffentlichem Interesse und zur Aufhebung des Beschlusses 2005/909/EG
+der Kommission (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014,
+S. 66) in Verbindung mit § 55 Absatz 2 Satz 5 oder nach Maßgabe des
+Artikels 6 Absatz 2 der Verordnung (EU) Nr. 537/2014 in Verbindung mit
+§ 38 Absatz 1a Satz 4 überwacht.
+
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1a mit
+einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen mit
+einer Geldbuße bis zu zehntausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1a
+bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes die Bundesanstalt für
+Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 
-### (XXXX) §§ 153 und 154 (weggefallen)
+### § 153 Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 152 Absatz 3 zuständige Verwaltungsbehörde übermittelt
+der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
+Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 152 Absatz 1a.
+
+(2) In Strafverfahren, die eine Straftat nach § 151a zum Gegenstand
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
+öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
+Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
+das eingelegte Rechtsmittel zu übermitteln.
+
+
+### § 154 (weggefallen)
 
 
 
@@ -3276,10 +3655,10 @@ I S. 2182) am 25. Dezember 1993 von der Verwaltungsbehörde vorgenommen
 worden sind.
 
 
-### § 156 Bekanntmachung von Eintragungen
+### § 156 Anwendbarkeit von Vorschriften über das Handelsregister; Bekanntmachung von Eintragungen
 
-(1) § 8 Abs. 1 sowie die §§ 8a, 9 und 11 des Handelsgesetzbuchs finden
-auf das Genossenschaftsregister Anwendung. Eine gerichtliche
+(1) § 8 Abs. 1 sowie die §§ 8a, 9, 10a und 11 des Handelsgesetzbuchs
+finden auf das Genossenschaftsregister Anwendung. Eine gerichtliche
 Bekanntmachung von Eintragungen findet nur gemäß den §§ 12, 16 Abs. 5,
 § 28 Satz 3, § 42 Abs. 1 Satz 3, § 51 Abs. 5 sowie in den Fällen des §
 22 Abs. 1, des § 22a Abs. 1, des § 82 Abs. 1 und des § 97 statt. § 10
@@ -3298,23 +3677,12 @@ Liquidatoren elektronisch in öffentlich beglaubigter Form
 einzureichen.
 
 
-### § 158 Nichterscheinen eines Bekanntmachungsblattes
+### § 158 Ersatzweise Bekanntmachung
 
-(1) Ist für die Bekanntmachungen einer Genossenschaft in deren Satzung
-ein öffentliches Blatt bestimmt, das vorübergehend oder dauerhaft
-nicht erscheint, müssen bis zum Wiedererscheinen des Blattes oder
-einer anderweitigen Regelung durch die Satzung die Bekanntmachungen
-statt in dem nicht erscheinenden Blatt in einem der Blätter erfolgen,
-in denen die Eintragungen in das Genossenschaftsregister bekannt
-gemacht werden.
-
-(2) Macht das Registergericht die Eintragungen in das
-Genossenschaftsregister nur im Bundesanzeiger bekannt, hat es für die
-Bekanntmachung der Einberufung der Generalversammlung, in der im Sinne
-des Absatzes 1 die Satzung geändert werden soll, auf Antrag des
-Vorstands oder einer anderen nach der Satzung oder diesem Gesetz zur
-Einberufung befugten Person mindestens ein öffentliches Blatt zu
-bestimmen.
+Bestimmt die Satzung einer Genossenschaft für deren Bekanntmachungen
+ein öffentliches Blatt, das nicht mehr zur Verfügung steht, müssen bis
+zu einer anderweitigen Regelung in der Satzung die Bekanntmachungen im
+Bundesanzeiger erfolgen.
 
 
 ### § 159 (weggefallen)
@@ -3325,49 +3693,27 @@ bestimmen.
 ### § 160 Zwangsgeldverfahren
 
 (1) Die Mitglieder des Vorstands sind von dem Registergericht zur
-Befolgung der in §§ 14, 25a, 28, 30, 32, 57 Abs. 1, § 59 Abs. 1, § 78
-Abs. 2, § 79 Abs. 2 enthaltenen Vorschriften durch Festsetzung von
-Zwangsgeld anzuhalten. In gleicher Weise sind die Mitglieder des
-Vorstands und die Liquidatoren zur Befolgung der in § 33 Abs. 1 Satz
-2, § 42 Abs. 1 in Verbindung mit § 53 des Handelsgesetzbuchs, §§ 47,
-48 Abs. 3 und 4 Satz 4, § 51 Abs. 4 und 5, § 56 Abs. 2, §§ 84, 85 Abs.
-2, § 89 dieses Gesetzes enthaltenen Vorschriften sowie die Mitglieder
-des Vorstands und des Aufsichtsrats und die Liquidatoren dazu
-anzuhalten, dafür zu sorgen, dass die Genossenschaft vorbehaltlich des
-§ 9 Abs. 1 Satz 2 nicht länger als drei Monate ohne oder ohne
-beschlussfähigen Aufsichtsrat ist. Das einzelne Zwangsgeld darf den
-Betrag von fünftausend Euro nicht übersteigen.
+Befolgung der in den §§ 14, 25a, 28, 30, 32, 54 Satz 2, § 57 Absatz 1,
+§ 59 Abs. 1, § 78 Abs. 2, § 79 Abs. 2 enthaltenen Vorschriften durch
+Festsetzung von Zwangsgeld anzuhalten. In gleicher Weise sind die
+Mitglieder des Vorstands und die Liquidatoren zur Befolgung der in §
+33 Abs. 1 Satz 2, § 42 Abs. 1 in Verbindung mit § 53 des
+Handelsgesetzbuchs, §§ 47, 48 Abs. 3 und 4 Satz 4, § 51 Abs. 4 und 5,
+§ 56 Abs. 2, §§ 84, 85 Abs. 2, § 89 dieses Gesetzes enthaltenen
+Vorschriften sowie die Mitglieder des Vorstands und des Aufsichtsrats
+und die Liquidatoren dazu anzuhalten, dafür zu sorgen, dass die
+Genossenschaft vorbehaltlich des § 9 Abs. 1 Satz 2 nicht länger als
+drei Monate ohne oder ohne beschlussfähigen Aufsichtsrat ist. Das
+einzelne Zwangsgeld darf den Betrag von fünftausend Euro nicht
+übersteigen.
 
 (2) Für das Verfahren sind die Vorschriften maßgebend, welche zur
 Erzwingung der im Handelsgesetzbuch angeordneten Anmeldungen zum
 Handelsregister gelten.
 
 
-### § 161 Verordnungsermächtigung
+### § 161 (weggefallen)
 
-(1) Die Landesregierungen können durch Rechtsverordnung bestimmen,
-dass Anmeldungen und alle oder einzelne Dokumente bis zum 31. Dezember
-2009 auch in Papierform zum Genossenschaftsregister eingereicht werden
-können. Soweit eine Rechtsverordnung nach Satz 1 erlassen wird, gelten
-die Vorschriften über die Anmeldung und die Einreichung von Dokumenten
-zum Genossenschaftsregister in ihrer bis zum Inkrafttreten des
-Gesetzes über elektronische Handelsregister und
-Genossenschaftsregister sowie das Unternehmensregister vom 10.
-November 2006 (BGBl. I S. 2553) am 1. Januar 2007 geltenden Fassung.
-Die Landesregierungen können durch Rechtsverordnung die Ermächtigung
-nach Satz 1 auf die Landesjustizverwaltungen übertragen.
-
-(2) Die auf Grundlage der §§ 14 und 14a in der bis zum Inkrafttreten
-des Gesetzes über elektronische Handelsregister und
-Genossenschaftsregister sowie das Unternehmensregister am 1. Januar
-2007 geltenden Fassung beim Gericht der Zweigniederlassung für die
-Zweigniederlassung der Genossenschaft geführten Registerblätter werden
-zum 1. Januar 2007 geschlossen; zugleich ist von Amts wegen folgender
-Vermerk auf dem Registerblatt einzutragen: "Die Eintragungen zu dieser
-Zweigniederlassung werden ab dem 1. Januar 2007 nur noch bei dem
-Gericht des Sitzes geführt." Auf dem Registerblatt beim Gericht des
-Sitzes wird zum 1. Januar 2007 von Amts wegen der Verweis auf die
-Eintragung beim Gericht am Ort der Zweigniederlassung gelöscht.
 
 
 ### § 162 Übergangsvorschrift für Wohnungsunternehmen
@@ -3385,22 +3731,13 @@ Prüfungsverbandes, dem sie zu diesem Zeitpunkt angehören.
 
 ### § 164 Übergangsregelung zur Beschränkung der Jahresabschlussprüfung
 
-§ 53 Abs. 2 Satz 1 in der vom 18. August 2006 an geltenden Fassung ist
+§ 53 Abs. 2 Satz 1 in der vom 22. Juli 2017 an geltenden Fassung ist
 erstmals auf die Prüfung des Jahresabschlusses für ein frühestens am
-31\. Dezember 2006 endendes Geschäftsjahr anzuwenden.
+31\. Dezember 2017 endendes Geschäftsjahr anzuwenden.
 
 
-### § 165 Übergangsvorschrift zum Euro-Bilanzgesetz
+### § 165 (weggefallen)
 
-(1) § 63e Abs. 1 gilt mit der Maßgabe, dass die erste
-Qualitätskontrolle eines Prüfungsverbandes spätestens bis zum Ablauf
-des 31. Dezember 2005 durchgeführt worden sein muss.
-
-(2) Abweichend von § 63f Abs. 2 Satz 1 Nr. 3 kann bis zum Ablauf des
-31\. Dezember 2002 ein Prüfungsverband auch dann registriert werden,
-wenn noch keine Qualitätskontrolle durchgeführt wurde; die
-Registrierung ist in diesem Falle bis zum 31. Dezember 2005 zu
-befristen.
 
 
 ### § 166 Übergangsregelung zum Berufsaufsichtsreformgesetz
@@ -3416,9 +3753,9 @@ hat ein Prüfungsverband, der bei einer Genossenschaft, einer in
 Artikel 25 Abs. 1 Satz 1 Nr. 1 des Einführungsgesetzes zum
 Handelsgesetzbuch genannten Gesellschaft oder einem in Artikel 25 Abs.
 1 Satz 1 Nr. 2 des Einführungsgesetzes zum Handelsgesetzbuch genannten
-Unternehmen, die einen organisierten Markt im Sinne des § 2 Abs. 5 des
-Wertpapierhandelsgesetzes in Anspruch nehmen, mehr als drei Jahre nach
-Ausstellen der Teilnahmebescheinigung eine der Qualitätskontrolle
+Unternehmen, die einen organisierten Markt im Sinne des § 2 Absatz 11
+des Wertpapierhandelsgesetzes in Anspruch nehmen, mehr als drei Jahre
+nach Ausstellen der Teilnahmebescheinigung eine der Qualitätskontrolle
 unterfallende Prüfung durchführt, innerhalb von sechs Monaten nach
 Annahme des Prüfungsauftrages eine Qualitätskontrolle durchführen zu
 lassen.
@@ -3434,4 +3771,39 @@ des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 (2) § 53 Abs. 3 in der Fassung des Bilanzrechtsmodernisierungsgesetzes
 vom 25. Mai 2009 (BGBl. I S. 1102) ist erstmals ab dem 1. Januar 2010
 anzuwenden.
+
+
+### § 168 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+Die Festlegungen nach § 9 Absatz 3 Satz 1 und 3 sowie Absatz 4 Satz 1
+und 3 haben erstmals bis spätestens 30. September 2015 zu erfolgen.
+Die nach § 9 Absatz 3 Satz 3 und Absatz 4 Satz 3 erstmals
+festzulegende Frist darf nicht länger als bis zum 30. Juni 2017
+dauern.
+
+
+### § 169 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 36 Absatz 4 und § 38 Absatz 1a Satz 3 jeweils in der Fassung des
+Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+müssen so lange nicht angewandt werden, wie alle Mitglieder des
+Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016
+bestellt worden sind.
+
+
+### § 170 Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+
+§ 38 in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11.
+April 2017 (BGBl. I S. 802) ist erstmals auf Lageberichte und
+Konzernlageberichte anzuwenden, die sich auf ein nach dem 31. Dezember
+2016 beginnendes Geschäftsjahr beziehen. Auf Lage- und
+Konzernlageberichte, die sich auf vor dem 1. Januar 2017 beginnende
+Geschäftsjahre beziehen, bleibt § 38 in der bis zum 18. April 2017
+geltenden Fassung anwendbar.
+
+
+### § 171 Übergangsvorschrift zur Einführung der vereinfachten Prüfung
+
+§ 53a ist erstmals auf die Prüfung für ein frühestens am 31. Dezember
+2017 endendes Geschäftsjahr anzuwenden.
 

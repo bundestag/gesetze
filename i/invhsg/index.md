@@ -64,11 +64,11 @@ Einkommensteuergesetzes in der Fassung vom 15. September 1953
 (Bundesgesetzbl. I S. 1355) erfüllt sind. Die Kapitalertragsteuer
 beträgt dreißig vom Hundert der Zinsen. Durch den Steuerabzug sind die
 Einkommensteuer (Körperschaftsteuer),
-die Abgabe "Notopfer Berlin"              und die Gewerbeertragsteuer
-abgegolten, wenn die Haftung des Steuerpflichtigen erloschen ist. § 44
-Abs. 3 bis 5 und § 46a Satz 2 und 3 des Einkommensteuergesetzes und §
-20 Satz 2 des Körperschaftsteuergesetzes in der Fassung vom 13. April
-1954 (Bundesgesetzbl. I S. 97) sind entsprechend anzuwenden.
+die Abgabe "Notopfer Berlin" und die Gewerbeertragsteuer abgegolten,
+wenn die Haftung des Steuerpflichtigen erloschen ist. § 44 Abs. 3 bis
+5 und § 46a Satz 2 und 3 des Einkommensteuergesetzes und § 20 Satz 2
+des Körperschaftsteuergesetzes in der Fassung vom 13. April 1954
+(Bundesgesetzbl. I S. 97) sind entsprechend anzuwenden.
 
 
 ## Vierter Abschnitt - Erlöschen des Sondervermögens

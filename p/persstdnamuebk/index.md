@@ -3,7 +3,7 @@ Title: Übereinkommen über die Erteilung gewisser für das Ausland bestimmter A
   aus Personenstandsbüchern
 jurabk: PersStdNamÜbk
 layout: default
-origslug: persstdnam_bk
+origslug: persstdnamuebk
 slug: persstdnamuebk
 
 ---

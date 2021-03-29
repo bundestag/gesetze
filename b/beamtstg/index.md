@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1010
 
-Geändert durch
-:   Art. 15 Abs. 16 G v. 5.2.2009 I 160
+Zuletzt geändert durch
+:   Art. 2 G v. 8.6.2017 I 1570
 
 
 ## Eingangsformel
@@ -862,7 +862,10 @@ ihres Amtes ergibt.
 Beamtinnen und Beamte haben sich mit vollem persönlichem Einsatz ihrem
 Beruf zu widmen. Sie haben die übertragenen Aufgaben uneigennützig
 nach bestem Gewissen wahrzunehmen. Ihr Verhalten muss der Achtung und
-dem Vertrauen gerecht werden, die ihr Beruf erfordert.
+dem Vertrauen gerecht werden, die ihr Beruf erfordert. Sie dürfen ihr
+Gesicht bei Ausübung des Dienstes oder bei einer Tätigkeit mit
+unmittelbarem Dienstbezug nicht verhüllen, es sei denn, dienstliche
+oder gesundheitliche Gründe erfordern dies.
 
 
 ### § 35 Weisungsgebundenheit
@@ -1020,8 +1023,9 @@ Zustimmung ihres gegenwärtigen oder letzten Dienstherrn.
 
 (2) Wer gegen das in Absatz 1 genannte Verbot verstößt, hat das
 aufgrund des pflichtwidrigen Verhaltens Erlangte auf Verlangen dem
-Dienstherrn herauszugeben, soweit nicht der Verfall angeordnet worden
-oder es auf andere Weise auf den Staat übergegangen ist.
+Dienstherrn herauszugeben, soweit nicht die Einziehung von Taterträgen
+angeordnet worden oder es auf andere Weise auf den Staat übergegangen
+ist.
 
 
 ### § 43 Teilzeitbeschäftigung
@@ -1046,7 +1050,7 @@ Stellung.
 
 ### § 46 Mutterschutz und Elternzeit
 
-Mutterschutz und Elternzeit sind zu gewährleisten.
+Effektiver Mutterschutz und Elternzeit sind zu gewährleisten.
 
 
 ### § 47 Nichterfüllung von Pflichten

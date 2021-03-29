@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 562
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 3 V v. 24.4.1992 I 965
+:   Art. 3 V v. 26.7.2013 I 2803
 
 
 ## Eingangsformel
@@ -33,27 +33,42 @@ verordnet:
 
 ## § 1
 
-(1) Abweichend von § 32 Abs. 1 Nr. 1 Buchstabe a der Straßenverkehrs-
-Zulassungs-Ordnung darf die Breite über alles von land- oder
-forstwirtschaftlichen Zugmaschinen und ihren Anhängern dann mehr als
-2,50 m sein, wenn sich die größere Breite allein aus der wahlweisen
-Ausrüstung dieser Fahrzeuge mit Breitreifen, die einen Innendruck von
-nicht mehr als 1,5 bar haben, oder mit Doppelbereifung
-(Zwillingsbereifung) ergibt. Die Breite über alles darf nicht mehr als
-3,00 m betragen.
+(1) Abweichend von § 32 Absatz 1 Nummer 1 der Straßenverkehrs-
+Zulassungs-Ordnung darf bei land- oder forstwirtschaftlichen
+Zugmaschinen und ihren Anhängern die Breite über alles bis zu 3,00 m
+betragen, wenn sich die größere Breite allein aus der Ausrüstung
+dieser Fahrzeuge ergibt
+
+1.  mit Doppelbereifung oder
+
+
+2.  mit Gleisketten, die die Anforderungen der §§ 34b und 36 Absatz 5 der
+    Straßenverkehrs-Zulassungs-Ordnung erfüllen oder
+
+
+3.  mit Breitreifen, die bei einer Referenzgeschwindigkeit von 10 km/h die
+    für das Erreichen der jeweils zulässigen Achslast erforderliche
+    Reifentragfähigkeit bei einem Innendruck von nicht mehr als 1,5 bar
+    besitzen;
+
+
+
+dabei muss eine sichere Straßenfahrt durch die Einstellung des hierzu
+erforderlichen Reifeninnendruckes gewährleistet sein.
 
 (2) Die größere Breite ist wie folgt kenntlich zu machen:
 
-1.  Bei einer Breite von nicht mehr als 2,75 m ist eine besondere
-    Kenntlichmachung nicht erforderlich.
+1.  bei einer Breite von nicht mehr als 2,75 m ist eine besondere
+    Kenntlichmachung nicht erforderlich,
 
 
-2.  Bei einer Breite von mehr als 2,75 m ist eine Kenntlichmachung nach
+2.  bei einer Breite von mehr als 2,75 m ist eine Kenntlichmachung nach
     vorn und nach hinten auf jeder Seite durch Park-Warntafeln nach § 51c
-    der Straßenverkehrs-Zulassungs-Ordnung erforderlich. Diese müssen mit
-    dem seitlichen Umriß des Fahrzeugs abschließen. Abweichungen bis zu
-    100 mm nach innen sind zulässig. Die Streifen auf den Park-Warntafeln
-    müssen nach außen und unten weisen.
+    der Straßenverkehrs-Zulassungs-Ordnung oder Warntafeln nach DIN 11
+    030, Ausgabe September 1994, erforderlich; diese müssen mit dem
+    seitlichen Umriss des Fahrzeugs abschließen; Abweichungen bis zu 100
+    mm nach innen sind zulässig; die Streifen auf den Tafeln müssen nach
+    außen und unten weisen.
 
 
 
@@ -67,11 +82,11 @@ angebracht sein.
 (3) Ragen die Reifen seitlich mehr als 400 mm über den äußersten Punkt
 der leuchtenden Fläche der Begrenzungsleuchten oder Schlußleuchten
 hinaus, so sind in den Fällen des § 17 Abs. 1 der Straßenverkehrs-
-Ordnung zusätzliche Begrenzungsleuchten und/oder Schlußleuchten
-erforderlich, deren äußerste Punkte der leuchtenden Flächen nicht mehr
-als 400 mm von der breitesten Stelle des Fahrzeugumrisses entfernt
-sein dürfen. Diese Beleuchtungseinrichtungen dürfen klappbar oder
-abnehmbar sein.
+Ordnung zusätzliche Begrenzungsleuchten und/oder Schlußleuchten sowie
+jeweils Rückstrahler erforderlich, deren äußerste Punkte der
+leuchtenden Flächen nicht mehr als 400 mm von der breitesten Stelle
+des Fahrzeugumrisses entfernt sein dürfen. Diese
+Beleuchtungseinrichtungen dürfen klappbar oder abnehmbar sein.
 
 (4) Abweichend von § 36a Abs. 1 der Straßenverkehrs-Zulassungs-Ordnung
 brauchen in den Fällen des Absatzes 1 keine zusätzlichen
@@ -84,11 +99,9 @@ mit einer Geschwindigkeit von nicht mehr als 25 km/h gefahren wird.
 -
 
 
-## § 3
+## § 3 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 3 des Gesetzes vom 28. Dezember 1982 (BGBl. I
-S. 2090) auch im Land Berlin.
+-
 
 
 ## § 4

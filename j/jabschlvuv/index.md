@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1968, 193
 
 Geändert durch
-:   Art. 1 V v. 13.7.1988 I 1057
+:   Art. 8 Abs. 11 G v. 17.7.2015 I 1245
 
 
 ## Eingangsformel
@@ -87,10 +87,7 @@ anderes bestimmt ist.
 
 
 Die Posten § 266 Abs. 2 Aktivseite A. II. Nr. 3 und 4 des
-Handelsgesetzbuchs werden Posten Nummern 5 und 6. Der Bilanzausweis
-nach Satz 1 kann unterbleiben, wenn der dort vorgeschriebene Vermerk
-und die dort vorgeschriebenen Posten im Anhang gesondert ausgewiesen
-werden.
+Handelsgesetzbuchs werden Posten Nummern 5 und 6.
 
 (2) § 327 Nr. 1 des Handelsgesetzbuchs ist von Gesellschaften nach § 1
 Nr. 1 und 2 mit der Maßgabe anzuwenden, daß bei dem zusätzlich
@@ -119,18 +116,13 @@ Aufsichtsrats einer Gesellschaft nach § 1 Nr. 1 oder 2
 
 ## § 3
 
-Die Vorschriften dieser Verordnung in der Fassung der Ersten
-Verordnung zur Änderung der Verordnung über die Gliederung des
-Jahresabschlusses von Verkehrsunternehmen vom 13. Juli 1988 (BGBl. I
-S. 1057) sind erstmals auf den Jahresabschluß für das nach dem 31.
-Dezember 1986 beginnende Geschäftsjahr anzuwenden. Sie sind auf den
-Jahresabschluß für ein früheres Geschäftsjahr anzuwenden, wenn auf
-dieses die Vorschriften über den Jahresabschluß in der vom
-Inkrafttreten des Bilanzrichtlinien-Gesetzes an geltenden Fassung
-angewandt werden. Sind die neuen Vorschriften nicht nach Satz 2 auf
-ein früheres Geschäftsjahr anzuwenden, so ist für das Geschäftsjahr
-die am 31. Dezember 1985 geltende Fassung dieser Verordnung
-anzuwenden.
+Das Wahlrecht, auf den Bilanzausweis nach § 2 Absatz 1 Satz 1 gemäß §
+2 Absatz 1 Satz 3 in der bis zum 22. Juli 2015 geltenden Fassung zu
+Gunsten eines Ausweises im Anhang zu verzichten, darf erstmals im
+Jahresabschluss für ein nach dem 31. Dezember 2015 beginnendes
+Geschäftsjahr nicht mehr ausgeübt werden. Auf Jahresabschlüsse für vor
+dem 1. Januar 2016 beginnende Geschäftsjahre bleibt § 2 Absatz 1 Satz
+3 in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
 
 
 ## § 4

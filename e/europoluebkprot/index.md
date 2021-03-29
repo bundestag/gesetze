@@ -1,14 +1,14 @@
 ---
-Title: Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die Errichtung
-  eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung dieses Übereinkommens
+Title: Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die  Errichtung
+  eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung  dieses Übereinkommens
 jurabk: EuropolÜbkProt
 layout: default
-origslug: europol_bkprot
+origslug: europoluebkprot
 slug: europoluebkprot
 
 ---
 
-# Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die Errichtung eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung dieses Übereinkommens (EuropolÜbkProt)
+# Protokoll aufgrund von Artikel 43 Absatz 1 des Übereinkommens über die  Errichtung eines Europäischen Polizeiamts (Europol-Übereinkommen) zur Änderung  dieses Übereinkommens (EuropolÜbkProt)
 
 Ausfertigungsdatum
 :   2003-11-27

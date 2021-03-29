@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Martin Luther)
 jurabk: Münz5DMBek 1983-09
 layout: default
-origslug: m_nz5dmbek_1983-09
+origslug: muenz5dmbek_1983-09
 slug: muenz5dmbek_1983-09
 
 ---

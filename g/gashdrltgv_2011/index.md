@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 928
 
+Zuletzt geändert durch
+:   Art. 100 G v. 29.3.2017 I 626
+
 Die §§ 11 bis 14, 16 und 18 dienen der Umsetzung der Richtlinie
 2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
 2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
@@ -211,7 +214,7 @@ ist.
 [^F775309_01_BJNR092800011BJNE000500000]:     Amtlicher Hinweis: Zu beziehen bei Wirtschafts- und
     Verlagsgesellschaft Gas und Wasser mit beschränkter Haftung, Bonn,
     archivmäßig niedergelegt beim Deutschen Verein des Gas- und
-    Wasserfaches                             e. V.
+    Wasserfaches e. V.
 
 
 ## § 5 Verfahren zur Prüfung von Leitungsvorhaben
@@ -240,8 +243,8 @@ Unterlagen und die gutachterliche Äußerung der zuständigen Behörde
 vorliegen. Die Frist kann einmal um vier Wochen verlängert werden,
 wenn dies zur Prüfung des Vorhabens zwingend erforderlich ist. Die
 Fristen, die für ein Planfeststellungs- oder Plangenehmigungsverfahren
-nach § 43 Satz 1 Nummer 2 oder § 43b Satz 1 Nummer 2 des
-Energiewirtschaftsgesetzes gelten, bleiben hiervon unberührt.
+nach § 43 Satz 1 Nummer 2 des Energiewirtschaftsgesetzes gelten,
+bleiben hiervon unberührt.
 
 (4) Mit der Errichtung der Gashochdruckleitung darf erst nach Ablauf
 der Frist nach Absatz 2 oder nach Eingang der Mitteilung, dass keine
@@ -406,8 +409,8 @@ beeinträchtigt wird.
 
 (1) Sachverständige im Sinne dieser Verordnung sind Personen, die von
 der zuständigen Behörde für die Überprüfung der technischen Sicherheit
-von Gashochdruckleitungen auf Grund eines schriftlichen Antrags nach
-dieser Verordnung anerkannt worden sind.
+von Gashochdruckleitungen auf Grund eines schriftlichen oder
+elektronischen Antrags nach dieser Verordnung anerkannt worden sind.
 
 (2) Für das Anerkennungsverfahren gilt § 42a des
 Verwaltungsverfahrensgesetzes. Das Anerkennungsverfahren kann über
@@ -420,7 +423,7 @@ Verwaltungsverfahrensgesetzes abgewickelt werden.
     30\.9.2005, S. 22) und der Richtlinie 2006/123/EG des Europäischen
     Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen
     im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36).
-[^F775309_02_BJNR092800011BJNE001200000]: 
+[^F775309_02_BJNR092800011BJNE001201118]: 
 
 ## § 12 Voraussetzungen für die Anerkennung von Sachverständigen
 
@@ -684,7 +687,7 @@ Entzug oder das Erlöschen der von ihnen erteilten Zertifizierungen im
 Sinne des § 13 Absatz 1 Nummer 2 mit.
 
 (3) Die zuständige Behörde meldet dem Bundesministerium für Wirtschaft
-und Technologie und den zuständigen Behörden der anderen Bundesländer
+und Energie und den zuständigen Behörden der anderen Bundesländer
 einmal jährlich zum 15. Januar die anerkannten Sachverständigen.
 
 
@@ -696,8 +699,8 @@ Wirtschaftsraum als Sachverständiger für die Überprüfung der
 technischen Sicherheit von Gashochdruckleitungen in einem dieser
 Staaten rechtmäßig niedergelassen ist und in Deutschland nur
 vorübergehend tätig werden will, hat dies der zuständigen Behörde vor
-der erstmaligen Tätigkeit schriftlich anzuzeigen. Dabei sind folgende
-Unterlagen vorzulegen:
+der erstmaligen Tätigkeit schriftlich oder elektronisch anzuzeigen.
+Dabei sind folgende Unterlagen vorzulegen:
 
 1.  ein Nachweis der Staatsangehörigkeit,
 

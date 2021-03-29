@@ -4,7 +4,7 @@ Title: Verordnung zu dem Internationalen Übereinkommen vom 14. Juni 1983 über 
   vom 24. Juni 1986
 jurabk: IntWarenBezÜbkV
 layout: default
-origslug: intwarenbez_bkv
+origslug: intwarenbezuebkv
 slug: intwarenbezuebkv
 
 ---

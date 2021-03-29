@@ -1,7 +1,7 @@
 ---
 Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
   Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen
-  und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf
+  und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf
   Monate alten Rindern
 jurabk: RiFlEtikettG
 layout: default
@@ -10,7 +10,7 @@ slug: rifletikettg
 
 ---
 
-# Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern (RiFlEtikettG)
+# Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union über die besondere Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern (RiFlEtikettG)
 
 Ausfertigungsdatum
 :   1998-02-26
@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1998, 380
 
 Zuletzt geändert durch
-:   Art. 27 G v. 9.12.2010 I 1934
+:   Art. 4 Abs. 91 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -33,8 +33,8 @@ beschlossen:
 (1) Dieses Gesetz dient der Durchführung der Rechtsakte der
 Europäischen Gemeinschaft oder der Europäischen Union über die
 Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie über
-die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf
-Monate alten Rindern.
+die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als
+zwölf Monate alten Rindern.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes und den auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen bleiben die Vorschriften
@@ -42,45 +42,8 @@ des Lebensmittel- und Futtermittelrechts, des Handelsklassenrechts,
 des Lebensmittelspezialitätenrechts und des Markenrechts.
 
 
-## § 2 Genehmigungsverfahren
+## § 2 (weggefallen)
 
-(1) Zuständig für die Durchführung des in den Rechtsakten der
-Europäischen Gemeinschaft oder der Europäischen Union über die
-Etikettierung von Rindfleisch und Rindfleischerzeugnissen und über die
-Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu zwölf
-Monate alten Rindern vorgesehenen Verfahrens über
-
-1.  die Genehmigung einer Spezifikation (Etikettierungssystem)
-    einschließlich der Anerkennung unabhängiger Stellen (private
-    Kontrollstellen), die die Kontrollen im Rahmen eines
-    Etikettierungssystems durchführen,
-
-
-2.  die Rücknahme, den Widerruf oder die Aussetzung der Genehmigung eines
-    Etikettierungssystems oder der Anerkennung einer privaten
-    Kontrollstelle
-
-
-
-ist die Bundesanstalt für Landwirtschaft und Ernährung.
-
-(1a) Die Genehmigung eines Etikettierungssystems kann mit Auflagen
-oder Bedingungen und die Anerkennung einer privaten Kontrollstelle
-kann mit Nebenbestimmungen versehen werden, soweit es zur
-ordnungsgemäßen Durchführung der Bestimmungen über die
-Rindfleischetikettierung sowie über die Verkehrsbezeichnung und
-Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern
-erforderlich ist. Unter denselben Voraussetzungen ist auch die
-nachträgliche Aufnahme oder Änderung von Auflagen zulässig.
-
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
-Voraussetzungen und das Verfahren für die Maßnahmen nach Absatz 1 zu
-regeln, soweit dies zur Durchführung von Rechtsakten der Europäischen
-Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1
-Abs. 1 erforderlich ist.
 
 
 ## § 3 (weggefallen)
@@ -92,9 +55,9 @@ Abs. 1 erforderlich ist.
 
 (1) Soweit es für die Etikettierung von Rindfleisch und
 Rindfleischerzeugnissen sowie für die Verkehrsbezeichnung und
-Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern und
-die damit im Zusammenhang stehende Rückverfolgung der Herkunft eines
-Rindes erforderlich ist, ist jeder Marktbeteiligte, ausgenommen
+Kennzeichnung von Fleisch von weniger als zwölf Monate alten Rindern
+und die damit im Zusammenhang stehende Rückverfolgung der Herkunft
+eines Rindes erforderlich ist, ist jeder Marktbeteiligte, ausgenommen
 Verbraucherinnen oder Verbraucher im Sinne des § 3 Nr. 4 des
 Lebensmittel- und Futtermittelgesetzbuches, berechtigt, Daten
 
@@ -117,46 +80,28 @@ Lebensmittel- und Futtermittelgesetzbuches, berechtigt, Daten
 
 zu erheben, zu verarbeiten und zu nutzen.
 
-(2) Auf Verlangen der Bundesanstalt für Landwirtschaft und Ernährung,
-der für das jeweilige Etikettierungssystem zuständigen privaten
-Kontrollstelle, des Inhabers eines Etikettierungssystems oder eines an
-dem jeweiligen Etikettierungssystem beteiligten Unternehmens
-übermitteln
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung kann im Rahmen
+ihrer Überwachungsaufgaben verlangen, dass die zuständigen
+Landesstellen ihr Daten zu den in Satz 2 genannten Zwecken
+übermitteln. Die Verpflichtung zur Übermittlung von Daten besteht,
+soweit diese
 
-1.  die zuständigen Landesstellen und
-
-
-2.  die Unternehmen, die im Rahmen eines Etikettierungssystems Rinder
-    schlachten,
-
-
-
-Daten zu den in Satz 2 genannten Zwecken. Die Verpflichtung zur
-Übermittlung von Daten besteht, soweit diese
-
-1.  für das Aufbringen oder zur Prüfung der auf einem Etikett nach den
-    Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
-    im Anwendungsbereich des § 1 Abs. 1 aufgeführten Angaben oder
+1.  zur Prüfung der auf einem Etikett nach den Rechtsakten der
+    Europäischen Gemeinschaft oder der Europäischen Union im
+    Anwendungsbereich des § 1 Absatz 1 aufgeführten Angaben oder
 
 
 2.  zur Feststellung der Herkunft eines Rindes, des Rindfleisches oder
-    eines Rindfleischerzeugnisses sowie von Fleisch von bis zu zwölf
+    eines Rindfleischerzeugnisses sowie von Fleisch von weniger als zwölf
     Monate alten Rindern
 
 
 
-erforderlich sind. Der Inhaber eines Etikettierungssystems erteilt den
-an diesem Etikettierungssystem beteiligten Unternehmen Auskunft über
-die in Absatz 1 genannten Daten, soweit diese für die Feststellung der
-Herkunft eines Rindes oder zum Schutz des Verbrauchers vor Täuschung
-erforderlich ist. Soweit es dieser Zweck erfordert, erteilen der
-Inhaber eines Etikettierungssystems und ein an dem jeweiligen
-Etikettierungssystem beteiligtes Unternehmen auch einem Verbraucher
-oder einer Organisation von Verbrauchern Auskünfte über Daten nach
-Absatz 1.
+erforderlich sind.
 
-(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
-Bundesministerien des Innern und für Wirtschaft und Technologie durch
+(3) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, im Einvernehmen mit den
+Bundesministerien des Innern und für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates, soweit erforderlich
 das Verfahren zur Datenverarbeitung und -nutzung nach Absatz 1 oder 2
 zu regeln.
@@ -164,88 +109,36 @@ zu regeln.
 
 ## § 4 Zuständigkeit für die Überwachung
 
-(1) Die Überwachung der Einhaltung der nach § 2 genehmigten
-Etikettierungssysteme einschließlich Kontrolle der anerkannten
-unabhängigen Stellen obliegt der Bundesanstalt für Landwirtschaft und
-Ernährung. Darüber hinaus überwacht die Bundesanstalt für
-Landwirtschaft und Ernährung die nach dem Gemeinschaftssystem zur
-obligatorischen Etikettierung von Rindfleisch und von Fleisch von bis
-zu zwölf Monate alten Rindern zu machenden Angaben
-
-1.  bei den Marktbeteiligten, die einem nach § 2 genehmigten
-    Etikettierungssystem angehören, und
-
-
-2.  bei den Schlachtbetrieben, Zerlegungsbetrieben sowie
-    Herstellungsbetrieben für Hackfleisch, die in der von der Europäische
-    Kommission geführten Liste der zugelassenen Lebensmittelunternehmen im
-    Sinne des Artikels 31 Abs. 2 Buchstabe f der Verordnung (EG) Nr.
-    882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
-    über amtliche Kontrollen zur Überprüfung der Einhaltung des
-    Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über
-    Tiergesundheit und Tierschutz (ABl. EU Nr. L 165 S. 1) in der jeweils
-    geltenden Fassung für die Bundesrepublik Deutschland aufgeführt sind.
-
-
-
-
-(2) Den nach Landesrecht zuständigen Stellen (zuständige Stellen)
-obliegt die Überwachung der Einhaltung der Rechtsakte der Europäischen
-Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1
-Abs. 1 dieses Gesetzes oder der auf Grund dieses Gesetzes erlassenen
-Rechtsverordnungen bei den Marktbeteiligten, die nicht der Überwachung
-nach Absatz 1 unterliegen. Stellt eine zuständige Stelle im Rahmen
-einer betriebsübergreifenden Prüfung der Rückverfolgbarkeit oder aus
-Anlass einer betriebsbezogenen Prüfung fest, dass die Prüfung bei
-einem Marktbeteiligten nach Absatz 1 oder in einem anderen Land
-fortzuführen ist, so geht für die Prüfung dieser Vermarktung von
-Rindfleisch und Rindfleischerzeugnissen sowie von Fleisch von bis zu
-zwölf Monate alten Rindern in dem betreffenden Betrieb und in den
-Betrieben aller vorgelagerten Vermarktungsstufen die Zuständigkeit für
-die Überwachung auf die Bundesanstalt für Landwirtschaft und Ernährung
-über.
-
-(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Durchführung der Überwachung nach den
-Absätzen 1 und 2 Satz 2 privaten Kontrollstellen ganz oder teilweise
-zu übertragen sowie die Voraussetzungen und das Verfahren für die
-Übertragung zu regeln. Die Landesregierungen werden ermächtigt, durch
-Rechtsverordnung die Durchführung der Überwachung nach Absatz 2 Satz 1
-privaten Kontrollstellen ganz oder teilweise zu übertragen sowie die
-Voraussetzungen und das Verfahren für die Übertragung zu regeln. Die
-Landesregierungen sind befugt, die Ermächtigung nach Satz 2 durch
-Rechtsverordnung ganz oder teilweise auf andere Behörden zu
-übertragen.
-
-(4) Die Länder können vorsehen, dass der Umfang der Überwachung
-hinsichtlich der Marktbeteiligten verringert werden kann, die sich
-außerhalb eines nach § 2 genehmigten Etikettierungssystems zu einem
-freiwilligen Etikettierungs- und Kontrollsystem zusammengeschlossen
-haben.
+Die Bundesanstalt für Landwirtschaft und Ernährung überwacht die
+Einhaltung der im Rahmen der Rechtsakte der Europäischen Gemeinschaft
+oder der Europäischen Union im Anwendungsbereich des § 1 Absatz 1
+dieses Gesetzes zu machenden obligatorischen Angaben. Dabei prüft sie
+auch die Rückverfolgbarkeit dieser Angaben sowie die Einhaltung von
+weiteren Pflichten der Marktbeteiligten nach diesem Gesetz und nach
+auf Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
 ## § 4a Befugnisse
 
-(1) Die für die Überwachung nach § 4 Abs. 1 und 2 jeweils zuständigen
-Behörden ordnen für den Fall, dass die Rindfleischetikettierung sowie
-die Verkehrsbezeichnung oder Kennzeichnung von Fleisch von bis zu
-zwölf Monate alten Rindern den Vorgaben der Rechtsakte der
-Europäischen Gemeinschaft oder der Europäischen Union im
-Anwendungsbereich des § 1 Abs. 1 dieses Gesetzes oder den auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen nicht entspricht, die
-Maßnahmen an, die erforderlich sind, um Verstößen zu begegnen.
-Insbesondere kann angeordnet werden, dass nicht oder fehlerhaft
-etikettiertes Rindfleisch oder Rindfleischerzeugnisse oder nicht oder
-fehlerhaft gekennzeichnetes Fleisch von bis zu zwölf Monate alten
-Rindern nicht in den Verkehr gebracht werden dürfen, bis ordnungsgemäß
-neu etikettiert oder gekennzeichnet worden ist.
+(1) Die Bundesanstalt für Landwirtschaft und Ernährung ordnet für den
+Fall, dass die Rindfleischetikettierung sowie die Verkehrsbezeichnung
+oder Kennzeichnung von Fleisch von weniger als zwölf Monate alten
+Rindern den Vorgaben der Rechtsakte der Europäischen Gemeinschaft oder
+der Europäischen Union im Anwendungsbereich des § 1 Abs. 1 dieses
+Gesetzes oder den auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen nicht entspricht, die Maßnahmen an, die
+erforderlich sind, um Verstößen zu begegnen. Insbesondere kann
+angeordnet werden, dass nicht oder fehlerhaft etikettiertes
+Rindfleisch oder Rindfleischerzeugnisse oder nicht oder fehlerhaft
+gekennzeichnetes Fleisch von weniger als zwölf Monate alten Rindern
+nicht in den Verkehr gebracht werden dürfen, bis ordnungsgemäß neu
+etikettiert oder gekennzeichnet worden ist.
 
-(2) Soweit es zur Überwachung nach § 4 Abs. 1 und 2 erforderlich ist,
-dürfen die Bundesanstalt für Landwirtschaft und Ernährung und die
-zuständigen Stellen bei Betrieben, die Fleisch, genießbare
-Schlachtnebenerzeugnisse, Zubereitungen von Fleisch oder Zubereitungen
-von genießbaren Schlachtnebenerzeugnissen in den Verkehr bringen, und
-bei privaten Kontrollstellen während der Geschäfts- und Betriebszeit
+(2) Soweit es zur Überwachung nach § 4 erforderlich ist, darf die
+Bundesanstalt für Landwirtschaft und Ernährung bei Betrieben, die
+Fleisch, genießbare Schlachtnebenerzeugnisse, Zubereitungen von
+Fleisch oder Zubereitungen von genießbaren Schlachtnebenerzeugnissen
+in den Verkehr bringen, während der Geschäfts- und Betriebszeit
 
 1.  Geschäftsräume und Grundstücke, Verkaufseinrichtungen und
     Transportmittel betreten und dort Besichtigungen vornehmen,
@@ -268,16 +161,11 @@ Diese Befugnisse erstrecken sich auch auf Betriebe, die Fleisch,
 genießbare Schlachtnebenerzeugnisse, Zubereitungen von Fleisch oder
 Zubereitungen von genießbaren Schlachtnebenerzeugnissen an
 öffentlichen Orten, insbesondere auf Märkten, Plätzen, Straßen oder im
-Umherziehen in den Verkehr bringen. Soweit es zur Überwachung des
-genehmigten Etikettierungssystems oder der nach § 2 anerkannten
-privaten Kontrollstelle erforderlich ist, erstrecken sich diese
-Befugnisse auch auf Angehörige des genehmigten Etikettierungssystems
-oder diesem als Lieferanten vertraglich verbundene Betriebe. Für die
-Probenahme gilt § 43 Abs. 1 Satz 2 und Abs. 2 bis 4 des Lebensmittel-
-und Futtermittelgesetzbuches entsprechend.
+Umherziehen in den Verkehr bringen. Für die Probenahme gilt § 43 Abs.
+1 Satz 2 und Abs. 2 bis 4 des Lebensmittel- und
+Futtermittelgesetzbuches entsprechend.
 
-(3) Inhaber und Leiter der Betriebe nach Absatz 2 und der privaten
-Kontrollstellen sind verpflichtet,
+(3) Inhaber und Leiter der Betriebe nach Absatz 2 sind verpflichtet,
 
 1.  das Betreten der Geschäftsräume und Grundstücke, Verkaufseinrichtungen
     und Transportmittel sowie die dort vorzunehmenden Besichtigungen nach
@@ -320,78 +208,51 @@ Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (6) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie und der Finanzen
-durch Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen, die
+Bundesministerien für Wirtschaft und Energie und der Finanzen durch
+Rechtsverordnung mit Zustimmung des Bundesrates Maßnahmen, die
 erforderlich sind, um Verstößen gegen Rechtsakte der Europäischen
 Gemeinschaft oder der Europäischen Union im Anwendungsbereich des § 1
-Abs. 1 zu begegnen, sowie das Verfahren der Überwachung privater
-Kontrollstellen und von Fleisch, genießbaren
-Schlachtnebenerzeugnissen, Zubereitungen von Fleisch oder
+Abs. 1 zu begegnen, sowie das Verfahren der Überwachung von Fleisch,
+genießbaren Schlachtnebenerzeugnissen, Zubereitungen von Fleisch oder
 Zubereitungen von genießbaren Schlachtnebenerzeugnissen beim
 innerstaatlichen Handel, innergemeinschaftlichen Verbringen oder bei
 der Einfuhr zu regeln.
 
 
-## § 4b Zusammenarbeit
-
-Zur Zusammenarbeit der in § 4 Abs. 2 genannten Behörden bei der
-Überwachung der Rindfleischetikettierung und der Verkehrsbezeichnung
-und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern
-können Regelungen über Prüfungspläne einschließlich Risikoanalysen
-durch Allgemeine Verwaltungsvorschriften erstellt werden. Diese werden
-von der Bundesanstalt für Landwirtschaft und Ernährung im Benehmen mit
-einem Ausschuss aus Vertretern der Länder vorbereitet. Die Mitglieder
-des Ausschusses werden vom Bundesministerium auf Vorschlag der Länder
-berufen.
-
-
 ## § 5 Gebühren
 
-(1) Die Bundesanstalt für Landwirtschaft und Ernährung erhebt für die
-Amtshandlungen nach § 2 Abs. 1 und § 4 Abs. 1 Satz 1 Kosten (Gebühren
-und Auslagen) entsprechend dem Aufwand, der für die Amtshandlungen
-erforderlich ist. Das Bundesministerium wird ermächtigt, im
-Einvernehmen mit den Bundesministerien für Wirtschaft und Technologie
-und der Finanzen durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die gebührenpflichtigen Tatbestände und die Gebührenhöhe
-zu bestimmen.
-
-(2) Für Amtshandlungen, die nach diesem Gesetz und den zur
-Durchführung dieses Gesetzes erlassenen Verordnungen von den
-zuständigen Stellen vorzunehmen sind, werden kostendeckende Gebühren
-und Auslagen erhoben.
+Für individuell zurechenbare öffentliche Leistungen, die nach diesem
+Gesetz und den zur Durchführung dieses Gesetzes erlassenen
+Verordnungen von den zuständigen Stellen vorzunehmen sind, werden
+kostendeckende Gebühren und Auslagen erhoben.
 
 
 ## § 6 Auskunftserteilung
 
-(1) Die zuständigen Behörden nach § 4 Abs. 1 und 2 und die anerkannten
-privaten Kontrollstellen
+(1) Die Bundesanstalt für Landwirtschaft und Ernährung
 
-1.  erteilen der zuständigen Behörde oder anerkannten privaten
-    Kontrollstelle eines anderen Mitgliedstaates auf begründetes Ersuchen
-    Auskünfte und übermitteln die erforderlichen Schriftstücke, soweit
-    dies für die Überwachung oder Kontrolle der Einhaltung der
-    Vorschriften auf dem Gebiet der besonderen Etikettierung von
-    Rindfleisch und Rindfleischerzeugnissen sowie der Verkehrsbezeichnung
-    und Kennzeichnung von Fleisch von bis zu zwölf Monate alten Rindern
-    erforderlich ist,
+1.  erteilt der zuständigen Behörde eines anderen Mitgliedstaates auf
+    begründetes Ersuchen Auskünfte und übermittelt die erforderlichen
+    Schriftstücke, soweit dies für die Überwachung oder Kontrolle der
+    Einhaltung der Vorschriften auf dem Gebiet der besonderen
+    Etikettierung von Rindfleisch und Rindfleischerzeugnissen sowie der
+    Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger als
+    zwölf Monate alten Rindern erforderlich ist,
 
 
-2.  überprüfen die von einer ersuchenden Behörde oder privaten
-    Kontrollstelle mitgeteilten Sachverhalte und teilen ihr das Ergebnis
-    der Prüfung mit.
+2.  überprüft die von einer ersuchenden Behörde mitgeteilten Sachverhalte
+    und teilt ihr das Ergebnis der Prüfung mit.
 
 
 
 
-(2) Die zuständigen Behörden nach § 4 Abs. 1 und 2 oder privaten
-Kontrollstellen haben, soweit dies zur Überwachung oder Kontrolle
-erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder
-der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen
-der Überwachung oder Kontrolle gewonnen haben, den zuständigen
-Behörden anderer Länder und anderer Mitgliedstaaten, dem
-Bundesministerium, der Bundesanstalt für Landwirtschaft und Ernährung
-und der Europäischen Kommission mitzuteilen.
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung hat, soweit
+dies zur Überwachung oder Kontrolle erforderlich oder durch Rechtsakte
+der Europäischen Gemeinschaft oder der Europäischen Union
+vorgeschrieben ist, Daten, die sie im Rahmen der Überwachung oder
+Kontrolle gewonnen hat, den zuständigen Behörden anderer
+Mitgliedstaaten, dem Bundesministerium und der Europäischen Kommission
+mitzuteilen.
 
 
 ## § 7 Außenverkehr
@@ -399,29 +260,26 @@ und der Europäischen Kommission mitzuteilen.
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Europäischen Kommission obliegt dem Bundesministerium. Es kann
 diese Befugnis auf die Bundesanstalt für Landwirtschaft und Ernährung
-übertragen. Es kann diese Befugnis durch Rechtsverordnung mit
-Zustimmung des Bundesrates auf die zuständigen obersten Landesbehörden
-übertragen. Die obersten Landesbehörden können diese Befugnis nach
-Satz 3 auf andere Behörden übertragen.
+übertragen.
 
 
 ## § 8 Rechtsverordnungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit den
-Bundesministerien der Finanzen und für Wirtschaft und Technologie
-durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur
+Bundesministerien der Finanzen und für Wirtschaft und Energie durch
+Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies zur
 Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
 Europäischen Union im Anwendungsbereich des § 1 Abs. 1 erforderlich
 ist, Vorschriften zu erlassen
 
-1.  über die Rückverfolgbarkeit von Rindfleisch sowie von Fleisch von bis
-    zu zwölf Monate alten Rindern auf eine Gruppe von Tieren und
+1.  über die Rückverfolgbarkeit von Rindfleisch sowie von Fleisch von
+    weniger als zwölf Monate alten Rindern auf eine Gruppe von Tieren und
 
 
 2.  über die Durchführung, einschließlich der Überwachung, von
     Informationskampagnen über die Kennzeichnung von Rindfleisch sowie
-    über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von bis zu
-    zwölf Monate alten Rindern und dabei die Zuständigkeit auf die
+    über die Verkehrsbezeichnung und Kennzeichnung von Fleisch von weniger
+    als zwölf Monate alten Rindern und dabei die Zuständigkeit auf die
     Bundesanstalt für Landwirtschaft und Ernährung zu übertragen.
 
 
@@ -484,8 +342,7 @@ Handlungen fahrlässig begeht.
 
 (2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 3a Abs. 2 Satz 1 Nr. 2 Daten nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig übermittelt,
+1.  (weggefallen)
 
 
 2.  entgegen § 4a Abs. 3 Nr. 1 oder 2, jeweils auch in Verbindung mit Abs.

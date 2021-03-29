@@ -4,7 +4,7 @@ Title: Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die V
   die Gewährung von Bundesergänzungszuweisungen
 jurabk: MaßstG
 layout: default
-origslug: ma_stg
+origslug: massstg
 slug: massstg
 
 ---
@@ -17,9 +17,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2302
 
-Stand: Das G tritt gem. § 15 mit Ablauf des 31.12.2019 außer Kraft
+Stand: Zukünftige amtliche Langüberschrift: Gesetz über verfassungskonkretisierende allgemeine Maßstäbe für die Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich sowie für die Gewährung von Bundesergänzungszuweisungen (ab 1.1.2020; 2017 I 3122)
 Zuletzt geändert durch
-:   Art. 8 G v. 29.5.2009 I 1170
+:   Art. 1 G v. 14.8.2017 I 3122
+
+Das g tritt gem. § 15 mit ablauf des 31.12.2019 außer kraft; § 15 aufgeh. durch
+:   Art. 1 Nr. 17 G v. 14.8.2017 I 3122 mWv 1.1.2020
+
+[^f230200_01_BJNR230200001]:     Nichtamtlicher Hinweis: Die amtliche Langüberschrift wurde gem. Art. 1
+    Nr. 1 G v. 14.8.2017 I 3122 mWv 1.1.2020 wie folgt gefasst:  **Gesetz
+    über verfassungskonkretisierende allgemeine Maßstäbe für die
+    Verteilung des Umsatzsteueraufkommens, für den Finanzkraftausgleich
+    sowie für die Gewährung von Bundesergänzungszuweisungen**
 
 
 ## Eingangsformel

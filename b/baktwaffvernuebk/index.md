@@ -3,7 +3,7 @@ Title: Übereinkommen über das Verbot der Entwicklung, Herstellung und Lagerung
   (biologischer) Waffen und von Toxinwaffen sowie über die Vernichtung solcher Waffen
 jurabk: BaktWaffVernÜbk
 layout: default
-origslug: baktwaffvern_bk
+origslug: baktwaffvernuebk
 slug: baktwaffvernuebk
 
 ---

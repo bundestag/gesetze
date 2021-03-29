@@ -125,10 +125,9 @@ Sozialgesetzbuch, abweichend von Absatz 1 mindestens in der Höhe
 erbracht, in der ein Anspruch auf Dienstbeschädigungsteilrente nach
 dem Anspruchs- und Anwartschaftsüberführungsgesetz bestanden hätte;
 dem Bezug einer Rente wegen Alters steht der Bezug einer ähnlichen
-Leistung öffentlich-rechtlicher Art gleich.              Dies gilt
-nicht für die Dauer des Bezugs einer Rente wegen Minderung der
-Erwerbsfähigkeit oder einer ähnlichen Leistung öffentlich-rechtlicher
-Art.
+Leistung öffentlich-rechtlicher Art gleich. Dies gilt nicht für die
+Dauer des Bezugs einer Rente wegen Minderung der Erwerbsfähigkeit oder
+einer ähnlichen Leistung öffentlich-rechtlicher Art.
 
 (3) Ein Dienstbeschädigungsausgleich nach diesem Gesetz bleibt als
 Einkommen unberücksichtigt, wenn bei Sozialleistungen aufgrund von

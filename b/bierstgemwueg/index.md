@@ -2,7 +2,7 @@
 Title: Gesetz über den Eintritt des Freistaats Württemberg in die Biersteuergemeinschaft
 jurabk: BierStGemWÜG
 layout: default
-origslug: bierstgemw_g
+origslug: bierstgemwueg
 slug: bierstgemwueg
 
 ---

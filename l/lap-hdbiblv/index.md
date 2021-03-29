@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2779
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 18 V v. 12.2.2009 I 320
+:   Art. 17 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -275,8 +275,8 @@ weitere Unterlagen beizubringen:
     Nachweis der Staatsangehörigkeit,
 
 
-3.  gegebenenfalls Ausfertigungen der Eheurkunde und der Geburtsurkunden
-    der Kinder,
+3.  gegebenenfalls Ausfertigungen der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und der Geburtsurkunden der Kinder,
 
 
 4.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
@@ -520,12 +520,12 @@ Ausbildungsstand.
 
 (1) Jede Ausbildungsbibliothek gibt über die Leistungen und den
 Befähigungsstand der Referendarinnen und Referendare unter
-Berücksichtigung von Arbeiten nach § 15 Abs. 4 eine schriftliche
-Bewertung ab. Die Bewertung soll Auskunft über die fachlichen
-Kenntnisse, die Allgemeinbildung, die berufliche Eignung und über das
-Persönlichkeitsbild geben; auf besondere Fähigkeiten oder Mängel ist
-hinzuweisen. Die Leistungen der Referendarinnen und Referendare sind
-mit folgenden Noten zu bewerten:
+Berücksichtigung von Arbeiten nach § 15 Abs. 4 eine schriftliche oder
+elektronische Bewertung ab. Die Bewertung soll Auskunft über die
+fachlichen Kenntnisse, die Allgemeinbildung, die berufliche Eignung
+und über das Persönlichkeitsbild geben; auf besondere Fähigkeiten oder
+Mängel ist hinzuweisen. Die Leistungen der Referendarinnen und
+Referendare sind mit folgenden Noten zu bewerten:
 
 *    *   sehr gut (1)
         15 bis 14 Punkte
@@ -573,8 +573,8 @@ mit folgenden Noten zu bewerten:
 (2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Referendarinnen und Referendaren besprochen. Sie ist ihnen zu
 eröffnen. Die Referendarinnen und Referendare erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 
 ### § 18 Durchführung der theoretischen Ausbildung

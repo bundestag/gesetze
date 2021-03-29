@@ -19,6 +19,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1509
 
+Zuletzt geändert durch
+:   Art. 7 G v. 18.7.2017 I 2745
+
 [^f777502_01_BJNR150900012]:     ABl. L 216 vom 20.8.2009, S. 76.
 
 
@@ -39,41 +42,26 @@ Bundesregierung:
 
 ### § 1 Anwendungsbereich
 
-(1) Diese Verordnung gilt für die Vergabe von verteidigungs- und
-sicherheitsrelevanten Aufträgen im Sinne des § 99 Absatz 7 des
-Gesetzes gegen Wettbewerbsbeschränkungen durch öffentliche
-Auftraggeber im Sinne des § 98 des Gesetzes gegen
-Wettbewerbsbeschränkungen, soweit diese Aufträge nicht gemäß § 100
-Absatz 3 bis 6 oder § 100c des Gesetzes gegen
-Wettbewerbsbeschränkungen dem Anwendungsbereich des Vierten Teils des
-Gesetzes gegen Wettbewerbsbeschränkungen entzogen sind.
-
-(2) Erfasst sind Aufträge, deren geschätzter Auftragswert ohne
-Umsatzsteuer die Schwellenwerte erreicht oder überschreitet, die in
-Artikel 8 der Richtlinie 2009/81/EG des Europäischen Parlaments und
-des Rates vom 13. Juli 2009 über die Koordinierung der Verfahren zur
-Vergabe bestimmter Bau-, Liefer- und Dienstleistungsaufträge in den
-Bereichen Verteidigung und Sicherheit und zur Änderung der Richtlinien
-2004/17/EG              und 2004/18/EG (ABl. L 216 vom 20.8.2009, S.
-76) in der jeweils geltenden Fassung festgelegt werden (EU-
-Schwellenwerte). Das Bundesministerium für Wirtschaft und Technologie
-gibt die geltenden Schwellenwerte unverzüglich nach der
-Veröffentlichung im Amtsblatt der Europäischen Union im Bundesanzeiger
-bekannt.
+Diese Verordnung gilt für die Vergabe von verteidigungs- oder
+sicherheitsspezifischen öffentlichen Aufträgen im Sinne des § 104
+Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen, die dem Teil 4
+des Gesetzes gegen Wettbewerbsbeschränkungen unterfallen und durch
+öffentliche Auftraggeber im Sinne des § 99 und Sektorenauftraggeber im
+Sinne des § 100 des Gesetzes gegen Wettbewerbsbeschränkungen vergeben
+werden.
 
 
 ### § 2 Anzuwendende Vorschriften für Liefer-, Dienstleistungs- und Bauaufträge
 
-(1) Für die Vergabe von sicherheits- und verteidigungsrelevanten
+(1) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
 Liefer- und Dienstleistungsaufträgen sind die Vorschriften dieser
 Verordnung anzuwenden.
 
-(2) Für die Vergabe von sicherheits- und verteidigungsrelevanten
-Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 bis
-46 anzuwenden. Im Übrigen ist Abschnitt 3 der Vergabe- und
+(2) Für die Vergabe von verteidigungs- oder sicherheitsspezifischen
+Bauaufträgen sind die §§ 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 und
+45 anzuwenden. Im Übrigen ist Abschnitt 3 der Vergabe- und
 Vertragsordnung für Bauleistungen (VOB/A) in der Fassung der
-Bekanntmachung vom 24. Oktober 2011 (BAnz. Nr. 182a vom 2. Dezember
-2011; BAnz AT 07.05.2012 B1) anzuwenden.
+Bekanntmachung vom 19. Januar 2016 (BAnz AT 19.01.2016 B3) anzuwenden.
 
 
 ### § 3 Schätzung des Auftragswertes
@@ -133,14 +121,11 @@ deren Laufzeit geplant sind.
 (7) Besteht die beabsichtigte Beschaffung aus mehreren Losen, für die
 jeweils ein gesonderter Auftrag vergeben wird, ist bei der Schätzung
 der Wert aller Lose zugrunde zu legen. Bei Lieferaufträgen gilt dies
-nur für Lose über gleichartige Lieferungen. Soweit eine freiberufliche
-Leistung im Sinne des § 5 der Vergabeverordnung beschafft werden soll
-und in mehrere Teilaufträge derselben freiberuflichen Leistung
-aufgeteilt wird, müssen die Werte der Teilaufträge zur Berechnung des
-geschätzten Auftragswertes addiert werden. Erreicht oder überschreitet
-der Gesamtwert den maßgeblichen EU-Schwellenwert, gilt diese
-Verordnung für die Vergabe jedes Loses. Dies gilt nicht bis zu einer
-Summe der Werte dieser Lose von 20 Prozent des Gesamtwertes ohne
+nur für Lose über gleichartige Lieferungen. Bei Planungsleistungen
+gilt dies nur für Lose über gleichartige Leistungen. Erreicht oder
+überschreitet der Gesamtwert den maßgeblichen EU-Schwellenwert, gilt
+diese Verordnung für die Vergabe jedes Loses. Dies gilt nicht bis zu
+einer Summe der Werte dieser Lose von 20 Prozent des Gesamtwertes ohne
 Umsatzsteuer für
 
 1.  Liefer- oder Dienstleistungsaufträge mit einem Wert unter 80 000 Euro
@@ -181,39 +166,11 @@ Eine Krise liegt auch vor, wenn konkrete Umstände dafür vorliegen,
 dass ein solches Schadensereignis unmittelbar bevorsteht. Bewaffnete
 Konflikte und Kriege sind Krisen im Sinne dieser Verordnung.
 
-(2) Rahmenvereinbarung ist eine Vereinbarung zwischen einem oder
-mehreren Auftraggebern und einem oder mehreren Unternehmen, welche die
-Bedingungen für Einzelaufträge festlegt, die im Laufe eines bestimmten
-Zeitraums vergeben werden sollen. Dies umfasst insbesondere Angaben
-zum Preis und gegebenenfalls Angaben zur voraussichtlichen
-Abnahmemenge.
-
-(3) Unterauftrag ist ein zwischen einem erfolgreichen Bieter und einem
+(2) Unterauftrag ist ein zwischen einem erfolgreichen Bieter und einem
 oder mehreren Unternehmen geschlossener entgeltlicher Vertrag über die
 Ausführung des betreffenden Auftrags oder von Teilen des Auftrags.
 
-(4) Verbundenes Unternehmen ist ein Unternehmen,
-
-1.  auf das der Auftragnehmer unmittelbar oder mittelbar einen
-    beherrschenden Einfluss ausüben kann und das seinerseits einen
-    beherrschenden Einfluss auf den erfolgreichen Bieter ausüben kann oder
-
-
-2.  das ebenso wie der erfolgreiche Bieter dem beherrschenden Einfluss
-    eines dritten Unternehmens unterliegt, sei es durch Eigentum,
-    finanzielle Beteiligung oder sonstige Bestimmungen, die die Tätigkeit
-    des Unternehmens regeln.
-
-
-
-Ein beherrschender Einfluss wird vermutet, wenn ein Unternehmen
-unmittelbar oder mittelbar die Mehrheit des gezeichneten Kapitals
-eines anderen Unternehmens besitzt, über die Mehrheit der mit den
-Anteilen eines anderen Unternehmens verbundenen Stimmrechte verfügt
-oder mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs-
-oder Aufsichtsorgans eines anderen Unternehmens bestellen kann.
-
-(5) Forschung und Entwicklung sind alle Tätigkeiten, die
+(3) Forschung und Entwicklung sind alle Tätigkeiten, die
 Grundlagenforschung, angewandte Forschung und experimentelle
 Entwicklung umfassen, wobei letztere die Herstellung von
 technologischen Demonstrationssystemen einschließen kann.
@@ -267,8 +224,8 @@ gerechtfertigt sind.
 
 ### § 7 Anforderungen an den Schutz von Verschlusssachen durch Unternehmen
 
-(1) Im Falle eines Verschlusssachenauftrags im Sinne des § 99 Absatz 9
-des Gesetzes gegen Wettbewerbsbeschränkungen müssen Auftraggeber in
+(1) Im Falle eines Verschlusssachenauftrags im Sinne des § 104 Absatz
+3 des Gesetzes gegen Wettbewerbsbeschränkungen müssen Auftraggeber in
 der Bekanntmachung oder den Vergabeunterlagen die erforderlichen
 Maßnahmen, Anforderungen und Auflagen benennen, die ein Unternehmen
 als Bewerber, Bieter oder Auftragnehmer sicherstellen oder erfüllen
@@ -289,7 +246,7 @@ Teilnahmeantrag oder das Angebot folgende Angaben enthält:
     Bieters und der bereits in Aussicht genommenen Unterauftragnehmer,
 
     a)  ob und in welchem Umfang für diese Sicherheitsbescheide des
-        Bundesministeriums für Wirtschaft und Technologie oder entsprechender
+        Bundesministeriums für Wirtschaft und Energie oder entsprechender
         Landesbehörden bestehen oder
 
 
@@ -330,12 +287,12 @@ Unterauftragnehmern für den Teilnahmeantrag oder das Erstellen eines
 Angebots der Zugang zu Verschlusssachen des Geheimhaltungsgrades „VS-
 VERTRAULICH“ oder höher gewährt werden, verlangen Auftraggeber bereits
 vor Gewährung dieses Zugangs einen Sicherheitsbescheid vom
-Bundesministerium für Wirtschaft und Technologie oder von
-entsprechenden Landesbehörden und die Verpflichtungserklärungen nach
-Absatz 2 Nummer 2 und 3. Kann zu diesem Zeitpunkt noch kein
-Sicherheitsbescheid durch das Bundesministerium für Wirtschaft und
-Technologie oder durch entsprechende Landesbehörden ausgestellt werden
-und machen Auftraggeber von der Möglichkeit Gebrauch, Zugang zu diesen
+Bundesministerium für Wirtschaft und Energie oder von entsprechenden
+Landesbehörden und die Verpflichtungserklärungen nach Absatz 2 Nummer
+2 und 3. Kann zu diesem Zeitpunkt noch kein Sicherheitsbescheid durch
+das Bundesministerium für Wirtschaft und Energie oder durch
+entsprechende Landesbehörden ausgestellt werden und machen
+Auftraggeber von der Möglichkeit Gebrauch, Zugang zu diesen
 Verschlusssachen zu gewähren, müssen Auftraggeber die zum Einsatz
 kommenden Mitarbeiter des Unternehmens überprüfen und ermächtigen,
 bevor diesen Zugang gewährt wird.
@@ -350,23 +307,21 @@ nach Absatz 2 Nummer 2 und 3.
 (5) Kommt der Bewerber oder Bieter dem Verlangen des Auftraggebers
 nach den Absätzen 3 und 4 nicht nach, die Verpflichtungserklärungen
 vorzulegen, oder können auch im weiteren Verfahren weder ein
-Sicherheitsbescheid vom Bundesministerium für Wirtschaft und
-Technologie oder von entsprechenden Landesbehörden ausgestellt noch
-Mitarbeiter zum Zugang ermächtigt werden, müssen Auftraggeber den
-Bewerber oder Bieter von der Teilnahme am Vergabeverfahren
-ausschließen.
+Sicherheitsbescheid vom Bundesministerium für Wirtschaft und Energie
+oder von entsprechenden Landesbehörden ausgestellt noch Mitarbeiter
+zum Zugang ermächtigt werden, müssen Auftraggeber den Bewerber oder
+Bieter von der Teilnahme am Vergabeverfahren ausschließen.
 
 (6) Auftraggeber können Bewerbern, Bietern oder bereits in Aussicht
 genommenen Unterauftragnehmern, die noch nicht in der
 Geheimschutzbetreuung des Bundesministeriums für Wirtschaft und
-Technologie oder entsprechender Landesbehörden sind oder deren
-Personal noch nicht überprüft und ermächtigt ist, zusätzliche Zeit
-gewähren, um diese Anforderungen zu erfüllen. In diesem Fall müssen
-Auftraggeber diese Möglichkeit und die Frist in der Bekanntmachung
-mitteilen.
+Energie oder entsprechender Landesbehörden sind oder deren Personal
+noch nicht überprüft und ermächtigt ist, zusätzliche Zeit gewähren, um
+diese Anforderungen zu erfüllen. In diesem Fall müssen Auftraggeber
+diese Möglichkeit und die Frist in der Bekanntmachung mitteilen.
 
-[^f777502_02_BJNR150900012BJNE000800000]
-(7) Das Bundesministerium für Wirtschaft und Technologie erkennt
+[^f777502_02_BJNR150900012BJNE000802118]
+(7) Das Bundesministerium für Wirtschaft und Energie erkennt
 Sicherheitsbescheide und Ermächtigungen anderer Mitgliedstaaten an,
 wenn diese den nach den Bestimmungen des
 Sicherheitsüberprüfungsgesetzes und des § 21 Absatz 4 und 6 der
@@ -374,14 +329,14 @@ Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern
 zum materiellen und organisatorischen Schutz von Verschlusssachen
 erforderlichen Sicherheitsbescheiden und Ermächtigungen gleichwertig
 sind. Auf begründetes Ersuchen der auftraggebenden Behörde hat das
-Bundesministerium für Wirtschaft und Technologie weitere
-Untersuchungen zur Sicherstellung des Schutzes von Verschlusssachen zu
-veranlassen und deren Ergebnisse zu berücksichtigen. Das
-Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen
-mit der Nationalen Sicherheitsbehörde für den Geheimschutz von
-weiteren Ermittlungen absehen.
+Bundesministerium für Wirtschaft und Energie weitere Untersuchungen
+zur Sicherstellung des Schutzes von Verschlusssachen zu veranlassen
+und deren Ergebnisse zu berücksichtigen. Das Bundesministerium für
+Wirtschaft und Energie kann im Einvernehmen mit der Nationalen
+Sicherheitsbehörde für den Geheimschutz von weiteren Ermittlungen
+absehen.
 
-(8) Das Bundesministerium für Wirtschaft und Technologie kann die
+(8) Das Bundesministerium für Wirtschaft und Energie kann die
 Nationale Sicherheitsbehörde des Landes, in dem der Bewerber oder
 Bieter oder bereits in Aussicht genommene Unterauftragnehmer ansässig
 ist, oder die Designierte Sicherheitsbehörde dieses Landes ersuchen,
@@ -393,7 +348,7 @@ den einzuhaltenden Sicherheitsvorschriften entsprechen.
 
     VS-Anweisung – VSA vom 31. März 2006 in der Fassung vom 26. April 2010
     (GMBl 2010 S. 846).
-[^f777502_02_BJNR150900012BJNE000800000]: 
+[^f777502_02_BJNR150900012BJNE000802118]: 
 
 ### § 8 Versorgungssicherheit
 
@@ -524,9 +479,10 @@ ausgewählten Unterauftragnehmer nur auf Grundlage der Kriterien
 ablehnen, die für den Hauptauftrag gelten und in der Bekanntmachung
 oder den Vergabeunterlagen angegeben wurden. Lehnen Auftraggeber einen
 Unterauftragnehmer ab, müssen sie dies gegenüber dem betroffenen
-Bieter oder dem Auftragnehmer schriftlich begründen und darlegen,
-warum der Unterauftragnehmer ihres Erachtens die für den Hauptauftrag
-vorgegebenen Kriterien nicht erfüllt.
+Bieter oder dem Auftragnehmer in Textform nach § 126b des Bürgerlichen
+Gesetzbuchs begründen und darlegen, warum der Unterauftragnehmer ihres
+Erachtens die für den Hauptauftrag vorgegebenen Kriterien nicht
+erfüllt.
 
 (6) Die Haftung des Auftragnehmers gegenüber dem Auftraggeber bleibt
 von den Vorschriften dieser Verordnung zur Unterauftragsvergabe
@@ -539,8 +495,8 @@ unberührt.
 ### § 10 Grundsätze des Vergabeverfahrens
 
 (1) Für die Berücksichtigung mittelständischer Interessen gilt § 97
-Absatz 3 des Gesetzes gegen Wettbewerbsbeschränkungen. Mehrere Teil-
-oder Fachlose dürfen gemäß § 97 Absatz 3 Satz 3 des Gesetzes gegen
+Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen. Mehrere Teil-
+oder Fachlose dürfen gemäß § 97 Absatz 4 Satz 3 des Gesetzes gegen
 Wettbewerbsbeschränkungen zusammen vergeben werden, wenn
 wirtschaftliche oder technische Gründe dies erfordern, insbesondere
 weil die Leistungsbeschreibung die Systemfähigkeit der Leistung
@@ -710,12 +666,13 @@ ist.
         Verfahrens bereits beim Aufruf zum Wettbewerb für das erste Vorhaben
         angeben; der für die Fortführung der Dienstleistungen in Aussicht
         genommene Gesamtauftragswert wird vom Auftraggeber bei der Anwendung
-        des § 1 Absatz 2 berücksichtigt. Dieses Verfahren darf nur binnen fünf
-        Jahren nach Abschluss des ursprünglichen Auftrags angewandt werden,
-        abgesehen von Ausnahmefällen, die durch die Berücksichtigung der zu
-        erwartenden Nutzungsdauer gelieferter Güter, Anlagen oder Systeme und
-        den durch einen Wechsel des Unternehmens entstehenden technischen
-        Schwierigkeiten bestimmt werden;
+        des § 106 Absatz 2 Nummer 3 des Gesetzes gegen
+        Wettbewerbsbeschränkungen berücksichtigt. Dieses Verfahren darf nur
+        binnen fünf Jahren nach Abschluss des ursprünglichen Auftrags
+        angewandt werden, abgesehen von Ausnahmefällen, die durch die
+        Berücksichtigung der zu erwartenden Nutzungsdauer gelieferter Güter,
+        Anlagen oder Systeme und den durch einen Wechsel des Unternehmens
+        entstehenden technischen Schwierigkeiten bestimmt werden;
 
 
 
@@ -740,9 +697,8 @@ ohne Teilnahmewettbewerb in der Bekanntmachung gemäß § 35 begründen.
 
 ### § 13 Wettbewerblicher Dialog
 
-(1) Auftraggeber im Sinne des § 98 Nummer 1 bis 3 des Gesetzes gegen
-Wettbewerbsbeschränkungen können einen wettbewerblichen Dialog gemäß §
-101 Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen zur
+(1) Auftraggeber können einen wettbewerblichen Dialog gemäß § 119
+Absatz 6 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen zur
 Vergabe besonders komplexer Aufträge durchführen, sofern sie objektiv
 nicht in der Lage sind,
 
@@ -755,11 +711,11 @@ nicht in der Lage sind,
 
 
 
-(2) Im wettbewerblichen Dialog erfolgen gemäß § 101 Absatz 4 Satz 2
-des Gesetzes gegen Wettbewerbsbeschränkungen eine Aufforderung zur
-Teilnahme und anschließende Verhandlungen mit ausgewählten Unternehmen
-über alle Einzelheiten des Auftrags. Im Einzelnen gehen die
-Auftraggeber wie folgt vor:
+(2) Im wettbewerblichen Dialog eröffnen Auftraggeber gemäß § 119
+Absatz 6 Satz 2 des Gesetzes gegen Wettbewerbsbeschränkungen nach
+einem Teilnahmewettbewerb mit den ausgewählten Unternehmen einen
+Dialog zur Erörterung aller Aspekte der Angebotsabgabe. Im Einzelnen
+gehen die Auftraggeber wie folgt vor:
 
 1.  Die Auftraggeber müssen ihre Bedürfnisse und Anforderungen bekannt
     machen und erläutern. Die Erläuterung erfolgt in der Bekanntmachung
@@ -831,14 +787,13 @@ Auftraggeber wie folgt vor:
 
 ### § 14 Rahmenvereinbarungen
 
-(1) Für den Abschluss einer Rahmenvereinbarung im Sinne des § 4 Absatz
-2 befolgen die Auftraggeber die Verfahrensvorschriften dieser
-Verordnung. Für die Auswahl des Auftragnehmers gelten die
-Zuschlagskriterien gemäß § 34. Auftraggeber dürfen das Instrument
-einer Rahmenvereinbarung nicht missbräuchlich oder in einer Weise
-anwenden, durch die der Wettbewerb behindert, eingeschränkt oder
-verfälscht wird. Auftraggeber dürfen für dieselbe Leistung nicht
-mehrere Rahmenvereinbarungen abschließen.
+(1) Für den Abschluss einer Rahmenvereinbarung im Sinne des § 103
+Absatz 5 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen befolgen
+die Auftraggeber die Verfahrensvorschriften dieser Verordnung. Für die
+Auswahl des Auftragnehmers gelten die Zuschlagskriterien gemäß § 34.
+Auftraggeber dürfen das Instrument einer Rahmenvereinbarung nicht
+missbräuchlich oder in einer Weise anwenden, durch die der Wettbewerb
+behindert, eingeschränkt oder verfälscht wird.
 
 (2) Auftraggeber vergeben Einzelaufträge nach dem in den Absätzen 3
 bis 5 vorgesehenen Verfahren. Die Vergabe darf nur erfolgen durch
@@ -854,9 +809,9 @@ einzigen Unternehmen geschlossen wurde.
 geschlossen, so werden die auf dieser Rahmenvereinbarung beruhenden
 Einzelaufträge entsprechend den Bedingungen der Rahmenvereinbarung
 vergeben. Vor der Vergabe der Einzelaufträge können die Auftraggeber
-das an der Rahmenvereinbarung beteiligte Unternehmen schriftlich
-befragen und dabei auffordern, sein Angebot erforderlichenfalls zu
-vervollständigen.
+das an der Rahmenvereinbarung beteiligte Unternehmen in Textform nach
+§ 126b des Bürgerlichen Gesetzbuchs befragen und dabei auffordern,
+sein Angebot erforderlichenfalls zu vervollständigen.
 
 (4) Wird eine Rahmenvereinbarung mit mehreren Unternehmen geschlossen,
 so müssen mindestens drei Unternehmen beteiligt sein, sofern eine
@@ -877,9 +832,8 @@ Unternehmen geschlossenen Rahmenvereinbarung beruhen, erfolgt, sofern
     Vergabeunterlagen zur Rahmenvereinbarung genannten Bedingungen. Dabei
     ist folgendes Verfahren einzuhalten:
 
-    a)  Vor Vergabe jedes Einzelauftrags befragen die Auftraggeber schriftlich
-        die Unternehmen, ob sie in der Lage sind, den Einzelauftrag
-        auszuführen.
+    a)  Vor Vergabe jedes Einzelauftrags konsultieren die Auftraggeber die
+        Unternehmen, die in der Lage sind, den Einzelauftrag auszuführen.
 
 
     b)  Auftraggeber setzen eine angemessene Frist für die Abgabe der Angebote
@@ -984,17 +938,16 @@ folgt festzulegen:
 
     a)  entweder in Form von Leistungs- oder Funktionsanforderungen gemäß
         Nummer 2 unter Bezugnahme auf die in Anhang III der Richtlinie
-        2009/81/EG                          definierten technischen
-        Anforderungen gemäß Nummer 1 als Mittel zur Vermutung der Konformität
-        mit diesen Leistungs- und Funktionsanforderungen oder
+        2009/81/EG definierten technischen Anforderungen gemäß Nummer 1 als
+        Mittel zur Vermutung der Konformität mit diesen Leistungs- und
+        Funktionsanforderungen oder
 
 
     b)  hinsichtlich bestimmter Merkmale unter Bezugnahme auf die in Anhang
         III der Richtlinie
-        2009/81/EG                          definierten technischen
-        Anforderungen gemäß Nummer 1 und hinsichtlich anderer Merkmale unter
-        Bezugnahme auf die Leistungs- und Funktionsanforderungen gemäß Nummer
-        2\.
+        2009/81/EG definierten technischen Anforderungen gemäß Nummer 1 und
+        hinsichtlich anderer Merkmale unter Bezugnahme auf die Leistungs- und
+        Funktionsanforderungen gemäß Nummer 2.
 
 
 
@@ -1030,10 +983,9 @@ oder ein Prüfbericht einer anerkannten Stelle gelten.
 
 (6) Schreiben die Auftraggeber Umwelteigenschaften in Form von
 Leistungs- oder Funktionsanforderungen gemäß Absatz 3 Nummer 2 vor, so
-können sie
-ganz-              oder teilweise die Spezifikationen verwenden, die
-in europäischen, multinationalen, nationalen oder anderen
-Umweltzeichen definiert sind, wenn
+können sie ganz oder teilweise die Spezifikationen verwenden, die in
+europäischen, multinationalen, nationalen oder anderen Umweltzeichen
+definiert sind, wenn
 
 1.  diese sich zur Definition der Merkmale der Güter oder Dienstleistungen
     eignen, die Gegenstand des Auftrags sind,
@@ -1058,11 +1010,11 @@ festgelegten technischen Anforderungen genügen. Die Auftraggeber
 müssen jedes andere geeignete Beweismittel wie technische Unterlagen
 des Herstellers oder Prüfberichte anerkannter Stellen zulassen.
 
-(7) Anerkannte Stellen sind die Prüf- und Eichlaboratorien im Sinne
-des Eichgesetzes sowie die Inspektions- und Zertifizierungsstellen,
-die den Anforderungen der jeweils anwendbaren europäischen Normen
-entsprechen. Die Auftraggeber erkennen Bescheinigungen von in anderen
-Mitgliedstaaten ansässigen anerkannten Stellen an.
+(7) Anerkannte Stellen sind die Prüf- und Kalibrierlaboratorien sowie
+die Inspektions- und Zertifizierungsstellen, die den Anforderungen der
+jeweils anwendbaren europäischen Normen entsprechen. Die Auftraggeber
+erkennen Bescheinigungen von in anderen Mitgliedstaaten ansässigen
+anerkannten Stellen an.
 
 (8) Soweit es nicht durch den Auftragsgegenstand gerechtfertigt ist,
 darf in der Leistungsbeschreibung nicht auf eine bestimmte Produktion
@@ -1122,9 +1074,9 @@ zu vergeben oder abzuschließen beabsichtigen.
     Parlaments und des Rates über das Gemeinsame Vokabular für öffentliche
     Aufträge (CPV) und der Vergaberichtlinien des Europäischen Parlaments
     und des Rates
-    2004/17/EG                    und 2004/18/EG im Hinblick auf die
-    Überarbeitung des Vokabulars (ABl. L 74 vom 15.3.2008, S. 1) in der
-    jeweils geltenden Fassung,
+    2004/17/EG und 2004/18/EG im Hinblick auf die Überarbeitung des
+    Vokabulars (ABl. L 74 vom 15.3.2008, S. 1) in der jeweils geltenden
+    Fassung,
 
 
 2.  Dienstleistungsaufträge sind nach den in Anhang I der Richtlinie
@@ -1138,15 +1090,21 @@ aufzuschlüsseln.
 Entscheidung über die Genehmigung des Projekts, für das die
 Auftraggeber beabsichtigen, Aufträge zu erteilen oder
 Rahmenvereinbarungen abzuschließen, an die Europäische Kommission
-übermittelt oder im Beschafferprofil veröffentlicht. Veröffentlicht
-ein Auftraggeber eine Vorinformation in seinem Beschafferprofil, so
-meldet er dies der Europäischen Kommission unter Beachtung der Muster
-und Modalitäten für die elektronische Übermittlung von
-Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG.
-Die Vorinformationen dürfen nicht in einem Beschafferprofil
-veröffentlicht werden, bevor die Ankündigung dieser Veröffentlichung
-an die Europäische Kommission abgesendet wurde. Das Datum der
-Absendung muss im Beschafferprofil angegeben werden.
+übermittelt oder im Beschafferprofil veröffentlicht. Die
+Bekanntmachung der Vorinformation wird nach dem Muster gemäß Anhang
+XIII der Durchführungsverordnung (EU) 2015/1986 der Kommission vom 11.
+November 2015 zur Einführung von Standardformularen für die
+Veröffentlichung von Vergabebekanntmachungen für öffentliche Aufträge
+und zur Aufhebung der Durchführungsverordnung (EU) Nr. 842/2011 (ABl.
+L 296 vom 12.11.2015, S. 1) in der jeweils geltenden Fassung erstellt.
+Veröffentlicht ein Auftraggeber eine Vorinformation in seinem
+Beschafferprofil, so meldet er dies dem Amt für Veröffentlichungen der
+Europäischen Union unter Verwendung des Musters gemäß Anhang VIII der
+Durchführungsverordnung (EU) 2015/1986. Die Vorinformationen dürfen
+nicht in einem Beschafferprofil veröffentlicht werden, bevor die
+Ankündigung dieser Veröffentlichung an die Europäische Kommission
+abgesendet wurde. Das Datum der Absendung muss im Beschafferprofil
+angegeben werden.
 
 (3) Auftraggeber sind zur Veröffentlichung verpflichtet, wenn sie
 beabsichtigen, von der Möglichkeit einer Verkürzung der Fristen für
@@ -1165,13 +1123,8 @@ Teilnahmewettbewerb oder eines wettbewerblichen Dialogs zu vergeben
 beabsichtigen, müssen dies durch eine Bekanntmachung mitteilen.
 
 (2) Die Bekanntmachung muss zumindest die in Anhang IV der Richtlinie
-2009/81/EG aufgeführten Informationen enthalten. Sie wird nach dem in
-Anhang XV bis XVIII der Durchführungsverordnung (EU) Nr. 842/2011 der
-Europäischen Kommission vom 19. August 2011 zur Einführung von
-Standardformularen für die Veröffentlichung von
-Vergabebekanntmachungen auf dem Gebiet der öffentlichen Aufträge und
-zur Aufhebung der Verordnung (EG) Nr. 1564/2005 (ABl. L 222 vom
-27\.8.2011, S. 1) enthaltenen Muster in der jeweils geltenden Fassung
+2009/81/EG aufgeführten Informationen enthalten. Sie wird nach dem
+Muster gemäß Anhang XIV der Durchführungsverordnung (EU) 2015/1986
 erstellt.
 
 (3) Auftraggeber müssen in der Bekanntmachung insbesondere angeben:
@@ -1260,18 +1213,31 @@ Teilnahmeanträge den Anforderungen des Anhangs VIII der Richtlinie
 (5) Neben den Hinweisen nach Absatz 1 geben die Auftraggeber in der
 Bekanntmachung an, in welcher Form Anträge auf Teilnahme am
 Vergabeverfahren oder Angebote einzureichen sind. Insbesondere können
-sie festlegen, welche elektronische Signatur nach § 2 des
-Signaturgesetzes für die Teilnahmeanträge im Falle der elektronischen
-Übermittlung zu verwenden ist. Anträge auf Teilnahme am
-Vergabeverfahren können schriftlich oder telefonisch gestellt werden.
-Wird ein solcher Antrag telefonisch gestellt, ist dieser vor Ablauf
-der Frist für den Eingang der Anträge in Schriftform zu bestätigen.
-Die Auftraggeber können verlangen, dass per Telefax gestellte Anträge
-in Schriftform oder elektronischer Form bestätigt werden, sofern dies
-für das Vorliegen eines gesetzlich gültigen Nachweises erforderlich
-ist. In diesem Fall geben die Auftraggeber in der Bekanntmachung diese
-Anforderung zusammen mit der Frist für die Übermittlung der
-Bestätigung an.
+sie festlegen, dass die Teilnahmeanträge im Falle der elektronischen
+Übermittlung zu versehen sind mit
+
+1.  einer fortgeschrittenen elektronischen Signatur,
+
+
+2.  einer qualifizierten elektronischen Signatur,
+
+
+3.  einem fortgeschrittenen elektronischen Siegel oder
+
+
+4.  einem qualifizierten elektronischen Siegel.
+
+
+
+Anträge auf Teilnahme am Vergabeverfahren können schriftlich oder
+telefonisch gestellt werden. Wird ein solcher Antrag telefonisch
+gestellt, ist dieser vor Ablauf der Frist für den Eingang der Anträge
+in Schriftform zu bestätigen. Die Auftraggeber können verlangen, dass
+per Telefax gestellte Anträge in Schriftform oder elektronischer Form
+bestätigt werden, sofern dies für das Vorliegen eines gesetzlich
+gültigen Nachweises erforderlich ist. In diesem Fall geben die
+Auftraggeber in der Bekanntmachung diese Anforderung zusammen mit der
+Frist für die Übermittlung der Bestätigung an.
 
 
 ### § 20 Fristen für den Eingang von Anträgen auf Teilnahme und Eingang der Angebote
@@ -1341,14 +1307,14 @@ maßgeblichen Formerfordernisse zu beachten.
 
 [^f777502_03_BJNR150900012BJNE002100000]:     *Das Muster und die Modalitäten für die elektronische Übermittlung der
     Bekanntmachungen   sind   unter   der   Internetadresse
-    http://simap.europa.eu*              abrufbar, vergleiche Anhang VI
-    Nummer 3 der Richtlinie 2009/81/EG.
+    http://simap.europa.eu* abrufbar, vergleiche Anhang VI Nummer 3 der
+    Richtlinie 2009/81/EG.
 
 
 ### § 21 Eignung und Auswahl der Bewerber
 
-(1) Aufträge werden unter Wahrung der Eignungsanforderungen des § 97
-Absatz 4 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen vergeben.
+(1) Aufträge werden unter Wahrung der Eignungsanforderungen des § 122
+Absatz 1 des Gesetzes gegen Wettbewerbsbeschränkungen vergeben.
 
 (2) Auftraggeber können Mindestanforderungen an die Eignung stellen,
 denen die Bewerber genügen müssen. Diese Mindestanforderungen müssen
@@ -1405,23 +1371,23 @@ Bietergemeinschaft eine bestimmte Rechtsform annimmt, sofern dies für
 die ordnungsgemäße Durchführung des Auftrags notwendig ist.
 
 
-### § 22 Allgemeine Vorgaben zum Nachweis der Eignung
+### § 22 Allgemeine Vorgaben zum Nachweis der Eignung und des Nichtvorliegens von Ausschlussgründen
 
 (1) Auftraggeber müssen in der Bekanntmachung oder im
 Verhandlungsverfahren ohne Teilnahmewettbewerb in den
 Vergabeunterlagen angeben, mit welchen Nachweisen gemäß den §§ 6, 7, 8
-und 23 bis 28 Unternehmen ihre Eignung nachzuweisen haben.
-Auftraggeber dürfen von den Bewerbern oder Bietern zum Nachweis ihrer
-Eignung nur Unterlagen und Angaben fordern, die durch den Gegenstand
-des Auftrags gerechtfertigt sind.
+und 23 bis 28 Unternehmen ihre Eignung und das Nichtvorliegen von
+Ausschlussgründen nachzuweisen haben. Auftraggeber dürfen von den
+Bewerbern oder Bietern zum Nachweis ihrer Eignung und für das
+Nichtvorliegen von Ausschlussgründen nur Unterlagen und Angaben
+fordern, die durch den Gegenstand des Auftrags gerechtfertigt sind.
 
 (2) Soweit mit den vom Auftragsgegenstand betroffenen Verteidigungs-
 und Sicherheitsinteressen vereinbar, können Auftraggeber zulassen,
 dass Bewerber oder Bieter ihre Eignung durch die Vorlage einer
 Erklärung belegen, dass sie die vom Auftraggeber verlangten
 Eignungskriterien erfüllen und die festgelegten Nachweise auf
-Aufforderung unverzüglich beibringen können (Eigenerklärung). § 24
-Absatz 1 Nummer 7 findet Anwendung.
+Aufforderung unverzüglich beibringen können (Eigenerklärung).
 
 (3) Erbringen Bewerber oder Bieter den Nachweis für die an die Eignung
 gestellten Mindestanforderungen nicht, werden sie im Rahmen eines
@@ -1468,96 +1434,49 @@ Unterlagen nicht innerhalb der Nachfrist vorgelegt, ist der Bewerber
 oder Bieter auszuschließen.
 
 
-### § 23 Zwingender Ausschluss mangels Eignung
+### § 23 Zwingender Ausschluss
 
-(1) Ein Bewerber oder Bieter ist wegen Unzuverlässigkeit von der
-Teilnahme an einem Vergabeverfahren auszuschließen, wenn der
-Auftraggeber Kenntnis davon hat, dass eine Person, deren Verhalten dem
-Unternehmen zuzurechnen ist, rechtskräftig verurteilt worden ist
-wegen:
+(1) Der Auftraggeber schließt ein Unternehmen zu jedem Zeitpunkt des
+Vergabeverfahrens von der Teilnahme aus, wenn ein zwingender
+Ausschlussgrund nach § 147 in Verbindung mit § 123 des Gesetzes gegen
+Wettbewerbsbeschränkungen vorliegt. § 147 in Verbindung mit § 125 des
+Gesetzes gegen Wettbewerbsbeschränkungen bleibt unberührt.
 
-1.  § 129 des Strafgesetzbuchs (Bildung krimineller Vereinigungen), § 129a
-    des Strafgesetzbuchs (Bildung terroristischer Vereinigungen), § 129b
-    des Strafgesetzbuchs (kriminelle und terroristische Vereinigungen im
-    Ausland);
-
-
-2.  § 261 des Strafgesetzbuchs (Geldwäsche; Verschleierung unrechtmäßig
-    erlangter Vermögenswerte);
-
-
-3.  § 263 des Strafgesetzbuchs (Betrug), soweit sich die Straftat gegen
-    den Haushalt der Europäischen Union oder gegen Haushalte richtet, die
-    von der Europäischen Union oder in ihrem Auftrag verwaltet werden;
-
-
-4.  § 264 des Strafgesetzbuchs (Subventionsbetrug), soweit sich die
-    Straftat gegen den Haushalt der Europäischen Union oder gegen
-    Haushalte richtet, die von der Europäischen Union oder in ihrem
-    Auftrag verwaltet werden;
-
-
-5.  § 299 des Strafgesetzbuchs (Bestechlichkeit und Bestechung im
-    geschäftlichen Verkehr);
-
-
-6.  § 334 des Strafgesetzbuchs (Bestechung), auch in Verbindung mit
-    Artikel 2 des EU-Bestechungsgesetzes, Artikel 2 §§ 1 und 2 des
-    Gesetzes zur Bekämpfung internationaler Bestechung, § 1 Absatz 1
-    Ziffer 7 Nummer 10 des NATO-Truppen-Schutzgesetzes und § 2 des
-    Gesetzes über das Ruhen der Verfolgungsverjährung und die
-    Gleichstellung der Richter und Bediensteten des Internationalen
-    Strafgerichtshofes.
-
-
-
-
-(2) Einem Verstoß gegen die in Absatz 1 genannten Vorschriften
-gleichgesetzt sind Verstöße gegen entsprechende Strafnormen anderer
-Mitgliedstaaten.
-
-(3) § 21 des Arbeitnehmerentsendegesetzes, § 16 des
-Mindestarbeitsbedingungsgesetzes und § 98c des Aufenthaltsgesetzes
-bleiben unberührt.
-
-(4) Das Verhalten einer rechtskräftig verurteilten Person ist einem
-Unternehmen zuzurechnen, wenn sie für dieses Unternehmen als
-vertretungsberechtigtes Organ oder als Mitglied eines solchen Organs
-gehandelt hat oder ein Aufsichts- oder Organisationsverschulden gemäß
-§ 130 des Gesetzes über Ordnungswidrigkeiten einer Person im Hinblick
-auf das Verhalten einer anderen für das Unternehmen handelnden,
-rechtskräftig verurteilten Person vorliegt.
-
-(5) Von einem Ausschluss nach Absatz 1 kann nur abgesehen werden, wenn
-zwingende Gründe des Allgemeininteresses vorliegen und andere
-Unternehmen die Leistung nicht angemessen erbringen können oder
-aufgrund besonderer Umstände des Einzelfalls die Zuverlässigkeit des
-Unternehmens durch den Verstoß nicht in Frage gestellt wird.
-
-(6) Zur Anwendung des Absatzes 1 kann der öffentliche Auftraggeber die
+(2) Zur Anwendung des Absatzes 1 kann der öffentliche Auftraggeber die
 erforderlichen Informationen über die persönliche Lage der Bewerber
 oder Bieter bei den zuständigen Behörden einholen, wenn er Bedenken in
-Bezug auf deren persönliche Eignung hat. Betreffen die Informationen
-einen Bewerber oder Bieter, der in einem anderen Mitgliedstaat als der
-Auftraggeber ansässig ist, so kann dieser die zuständigen Behörden um
-Mitarbeit ersuchen. Nach Maßgabe des nationalen Rechts des
-Mitgliedstaats, in dem der Bewerber oder Bieter ansässig ist,
-betreffen diese Ersuchen juristische und natürliche Personen,
-gegebenenfalls auch die jeweiligen Unternehmensleiter oder jede andere
-Person, die befugt ist, den Bewerber oder Bieter zu vertreten, in
-seinem Namen Entscheidungen zu treffen oder ihn zu kontrollieren.
+Bezug auf das Nichtvorliegen von Ausschlussgründen hat. Betreffen die
+Informationen einen Bewerber oder Bieter, der in einem anderen
+Mitgliedstaat als der Auftraggeber ansässig ist, so kann dieser die
+zuständigen Behörden um Mitarbeit ersuchen. Nach Maßgabe des
+nationalen Rechts des Mitgliedstaats, in dem der Bewerber oder Bieter
+ansässig ist, betreffen diese Ersuchen juristische und natürliche
+Personen, gegebenenfalls auch die jeweiligen Unternehmensleiter oder
+jede andere Person, die befugt ist, den Bewerber oder Bieter zu
+vertreten, in seinem Namen Entscheidungen zu treffen oder ihn zu
+kontrollieren.
 
-(7) Als ausreichenden Nachweis dafür, dass die in Absatz 1 genannten
-Fälle auf das Unternehmen nicht zutreffen, erkennt der Auftraggeber
-einen Auszug aus dem Strafregister oder – in Ermangelung eines solchen
-– eine gleichwertige Urkunde einer zuständigen Gerichts- oder
-Verwaltungsbehörde des Herkunftslands an, aus der hervorgeht, dass die
-Anforderungen an die Zuverlässigkeit des Unternehmens erfüllt sind.
+(3) Als ausreichenden Nachweis dafür, dass die in § 147 in Verbindung
+mit § 123 Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen
+genannten Ausschlussgründe auf den Bewerber oder Bieter nicht
+zutreffen, erkennt der Auftraggeber einen Auszug aus einem
+einschlägigen Register, insbesondere ein Führungszeugnis aus dem
+Bundeszentralregister oder, in Ermangelung eines solchen, eine
+gleichwertige Bescheinigung einer zuständigen Gerichts- oder
+Verwaltungsbehörde des Herkunftslandes oder des Niederlassungsstaates
+des Bewerbers oder Bieters an.
 
-(8) Wird eine Urkunde oder Bescheinigung von dem Herkunftsland des
+(4) Als ausreichenden Nachweis dafür, dass die in § 147 in Verbindung
+mit § 123 Absatz 4 des Gesetzes gegen Wettbewerbsbeschränkungen
+genannten Ausschlussgründe auf den Bewerber oder Bieter nicht
+zutreffen, erkennt der öffentliche Auftraggeber eine von der
+zuständigen Behörde des Herkunftslandes oder des Niederlassungsstaates
+des Bewerbers oder Bieters ausgestellte Bescheinigung an.
+
+(5) Wird eine Urkunde oder Bescheinigung von dem Herkunftsland des
 Bewerbers oder Bieters nicht ausgestellt oder werden darin nicht alle
 vorgesehenen Fälle erwähnt, so kann sie durch eine Versicherung an
-Eides statt ersetzt werden. In den Mitgliedstaaten, in denen es keine
+Eides statt ersetzt werden. In den Staaten, in denen es keine
 Versicherung an Eides statt gibt, darf die Versicherung an Eides statt
 durch eine förmliche Erklärung ersetzt werden, die ein Vertreter des
 betreffenden Unternehmens vor einer zuständigen Gerichts- oder
@@ -1565,76 +1484,30 @@ Verwaltungsbehörde, einem Notar oder einer dafür qualifizierten
 Berufsorganisation des Herkunftslands abgibt.
 
 
-### § 24 Fakultativer Ausschluss mangels Eignung
+### § 24 Fakultativer Ausschluss
 
-(1) Von der Teilnahme am Vergabeverfahren können Bewerber oder Bieter
-ausgeschlossen werden,
+(1) Der Auftraggeber kann unter Berücksichtigung des Grundsatzes der
+Verhältnismäßigkeit ein Unternehmen zu jedem Zeitpunkt des
+Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren
+ausschließen, wenn ein fakultativer Ausschlussgrund nach § 147 in
+Verbindung mit § 124 des Gesetzes gegen Wettbewerbsbeschränkungen
+vorliegt. § 147 in Verbindung mit § 125 des Gesetzes gegen
+Wettbewerbsbeschränkungen bleibt unberührt.
 
-1.  über deren Vermögen die Eröffnung eines Insolvenzverfahrens oder eines
-    vergleichbaren Verfahrens beantragt oder ein solches Verfahren bereits
-    eröffnet worden oder wenn die Eröffnung eines solchen Verfahrens
-    mangels Masse abgelehnt worden ist;
+(2) Als ausreichenden Nachweis dafür, dass die in § 147 in Verbindung
+mit § 124 Absatz 1 Nummer 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen genannten Fälle auf das Unternehmen nicht
+zutreffen, erkennt der öffentliche Auftraggeber eine von der
+zuständigen Behörde des Herkunftslandes oder des Niederlassungsstaates
+des Bewerbers oder Bieters ausgestellte Bescheinigung an.
 
-
-2.  die sich im Verfahren der Liquidation befinden;
-
-
-3.  die aufgrund eines rechtskräftigen Urteils wegen eines Deliktes
-    bestraft worden sind, das ihre berufliche Zuverlässigkeit in Frage
-    stellt, insbesondere wegen eines Verstoßes gegen Rechtsvorschriften
-    über die Ausfuhr von Verteidigungs- oder Sicherheitsgütern;
-
-
-4.  die im Rahmen ihrer beruflichen Tätigkeit eine schwere Verfehlung
-    begangen haben, die vom Auftraggeber nachweislich festgestellt wurde,
-    insbesondere eine Verletzung der Pflicht zur Gewährleistung der
-    Informations- oder Versorgungssicherheit im Rahmen eines früheren
-    Auftrags;
-
-
-5.  die nicht die erforderliche Vertrauenswürdigkeit aufweisen, um Risiken
-    für die nationale Sicherheit auszuschließen; der Nachweis, dass
-    Risiken für die nationale Sicherheit nicht auszuschließen sind, kann
-    auch mithilfe geschützter Datenquellen erfolgen;
-
-
-6.  die ihre Verpflichtung zur Zahlung von Sozialbeiträgen, Steuern und
-    Abgaben nachweislich nicht erfüllt haben, § 23 Absatz 3 gilt
-    entsprechend;
-
-
-7.  die sich bei der Erteilung von Auskünften, die gemäß der Nummern 1 bis
-    6 sowie der §§ 7, 8, 25 bis 28 zum Nachweis der Eignung eingeholt
-    werden können, in erheblichem Ausmaß falscher Erklärungen schuldig
-    gemacht oder diese Auskünfte nicht erteilt haben.
-
-
-
-
-(2) Als ausreichenden Nachweis dafür, dass die in Absatz 1 Nummer 1,
-2, 3 und 6 genannten Fälle auf das Unternehmen nicht zutreffen,
-erkennt der Auftraggeber an
-
-1.  im Falle von Absatz 1 Nummer 1, 2 und 3 den Auszug eines Registers
-    gemäß der unverbindlichen Liste in Anhang VII Teil B und C der
-    Richtlinie 2009/81/EG oder eines Strafregisters oder – in Ermangelung
-    eines solchen – eine gleichwertige Urkunde einer zuständigen Gerichts-
-    oder Verwaltungsbehörde des Herkunftslands, aus der hervorgeht, dass
-    diese Anforderungen erfüllt sind;
-
-
-2.  im Falle von Absatz 1 Nummer 6 eine von der zuständigen Behörde des
-    betreffenden Mitgliedstaats ausgestellte Bescheinigung.
-
-
-
-
-(3) Wird eine in Absatz 2 Nummer 1 genannte Urkunde oder Bescheinigung
-im Herkunftsland des Unternehmens nicht ausgestellt oder werden darin
-nicht alle in Absatz 1 Nummer 1 bis 3 vorgesehenen Fälle erwähnt, so
-kann sie durch eine Versicherung an Eides statt ersetzt werden. In den
+(3) Wird eine in Absatz 2 genannte Bescheinigung im Herkunftsland des
+Unternehmens nicht ausgestellt oder werden darin nicht alle in § 147
+in Verbindung mit § 124 Absatz 1 Nummer 2 des Gesetzes gegen
+Wettbewerbsbeschränkungen vorgesehenen Fälle erwähnt, so kann sie
+durch eine Versicherung an Eides statt ersetzt werden. In den
 Mitgliedstaaten, in denen es keine Versicherung an Eides statt gibt,
-gilt § 23 Absatz 8 Satz 2 entsprechend.
+gilt § 23 Absatz 5 Satz 2 entsprechend.
 
 
 ### § 25 Nachweis der Erlaubnis zur Berufsausübung
@@ -1700,11 +1573,11 @@ nachweisen, dass ihnen dadurch die erforderlichen Mittel zur Verfügung
 stehen. Dies gilt auch für Bewerber- oder Bietergemeinschaften.
 
 
-### § 27 Nachweis der fachlichen und technischen Leistungsfähigkeit
+### § 27 Nachweis der technischen und beruflichen Leistungsfähigkeit
 
 (1) Auftraggeber können je nach Art, Verwendungszweck und Menge der zu
 liefernden Güter oder dem Umfang der zu erbringenden Dienstleistungen
-angemessene Nachweise der fachlichen und technischen
+angemessene Nachweise der technischen und beruflichen
 Leistungsfähigkeit verlangen. Insbesondere können die Auftraggeber
 verlangen:
 
@@ -1880,11 +1753,11 @@ Bewerber- oder Bietergemeinschaften. Der Nachweis kann auch durch
 Zusage der Unternehmen erfolgen, die dem Bewerber oder Bieter die für
 die Auftragsausführung erforderlichen Mittel zur Verfügung stellen.
 Die Zusage muss in Schriftform oder elektronisch mindestens mittels
-einer fortgeschrittenen elektronischen Signatur im Sinne des
-Signaturgesetzes erfolgen.
+einer fortgeschrittenen elektronischen Signatur oder mindestens
+mittels eines fortgeschrittenen elektronischen Siegels erfolgen.
 
 (5) Können Bewerber oder Bieter aus einem berechtigten Grund die
-geforderten Nachweise ihrer fachlichen und technischen
+geforderten Nachweise ihrer technischen und beruflichen
 Leistungsfähigkeit nicht beibringen, so kann der Auftraggeber die
 Vorlage jedes anderen geeigneten Nachweises zulassen.
 
@@ -1937,8 +1810,8 @@ Bietern vorgelegt werden.
 
 (1) Beim nicht offenen Verfahren, Verhandlungsverfahren mit
 Teilnahmewettbewerb und wettbewerblichen Dialog fordern Auftraggeber
-die Bewerber mit der Benachrichtigung über die Auswahl schriftlich
-auf, ihre Angebote einzureichen oder zu verhandeln oder – im Falle des
+die Bewerber mit der Benachrichtigung über die Auswahl auf, ihre
+Angebote einzureichen oder zu verhandeln oder – im Falle des
 wettbewerblichen Dialogs – am Dialog teilzunehmen.
 
 (2) Die Aufforderung enthält die Vergabeunterlagen und alle
@@ -2040,9 +1913,9 @@ rechnerische Richtigkeit zu prüfen.
     und Nachweise enthalten;
 
 
-2.  Angebote, die nicht unterschrieben oder nicht mindestens durch
-    fortgeschrittene elektronische Signatur im Sinne des Signaturgesetzes
-    signiert sind;
+2.  Angebote, die nicht unterschrieben sind oder nicht mindestens versehen
+    sind mit einer fortgeschrittenen elektronischen Signatur oder mit
+    einem fortgeschrittenen elektronischen Siegel;
 
 
 3.  Angebote, in denen Änderungen des Bieters an seinen Eintragungen nicht
@@ -2094,8 +1967,8 @@ eines Dienstleistungsauftrags führen würde.
 
 (1) Erscheint ein Angebot im Verhältnis zu der zu erbringenden
 Leistung ungewöhnlich niedrig, verlangen die Auftraggeber vor
-Ablehnung dieses Angebots vom Bieter schriftlich Aufklärung über
-dessen Einzelpositionen. Auf Angebote, deren Preise in offenbarem
+Ablehnung dieses Angebots vom Bieter Aufklärung über dessen
+Einzelpositionen. Auf Angebote, deren Preise in offenbarem
 Missverhältnis zur Leistung stehen, darf der Zuschlag nicht erteilt
 werden.
 
@@ -2113,16 +1986,15 @@ Auftraggeber, die unter diesen Umständen ein Angebot ablehnen, müssen
 dies der Europäischen Kommission mitteilen.
 
 
-### § 34 Wertung der Angebote und Zuschlag
+### § 34 Zuschlag
 
 (1) Die Annahme eines Angebots (Zuschlag) erfolgt in Schriftform oder
 elektronisch mindestens mittels einer fortgeschrittenen elektronischen
-Signatur im Sinne des Signaturgesetzes. Bei Übermittlung durch Telefax
-genügt die Unterschrift auf der Telefaxvorlage.
+Signatur oder mindestens mittels eines fortgeschrittenen
+elektronischen Siegels. Bei Übermittlung durch Telefax genügt die
+Unterschrift auf der Telefaxvorlage.
 
-(2) Der Zuschlag wird erteilt auf das wirtschaftlichste Angebot.
-
-(3) Zur Ermittlung des wirtschaftlichsten Angebots wendet der
+(2) Zur Ermittlung des wirtschaftlichsten Angebots wendet der
 Auftraggeber die in der Bekanntmachung oder den Vergabeunterlagen
 angegebenen Zuschlagskriterien in der festgelegten Gewichtung oder in
 der absteigenden Reihenfolge der ihnen zuerkannten Bedeutung an. Diese
@@ -2164,15 +2036,10 @@ sein:
 
 (1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags
 oder den Abschluss einer Rahmenvereinbarung innerhalb von 48 Tagen
-durch Mitteilung nach dem Standardformular in Anhang XVII der
-Durchführungsverordnung (EU) Nr. 842/2011 der Europäischen Kommission
-vom 19. August 2011 zur Einführung von Standardformularen für die
-Veröffentlichung von Vergabebekanntmachungen auf dem Gebiet der
-öffentlichen Aufträge und zur Aufhebung der Verordnung (EG) Nr.
-1564/2005 (ABl. L 222 vom 27.8.2011, S. 1) in der jeweils geltenden
-Fassung an das Amt für amtliche Veröffentlichungen der Europäischen
-Union bekannt zu machen. Diese Pflicht besteht nicht für die Vergabe
-von Einzelaufträgen, die aufgrund einer Rahmenvereinbarung erfolgen.
+bekanntzumachen. Die Bekanntmachung über die Auftragserteilung wird
+nach dem Muster gemäß Anhang XV der Durchführungsverordnung (EU)
+2015/1986 erstellt. Diese Pflicht besteht nicht für die Vergabe von
+Einzelaufträgen, die aufgrund einer Rahmenvereinbarung erfolgen.
 
 (2) Die Auftraggeber müssen eine Auftragsvergabe oder den Abschluss
 einer Rahmenvereinbarung nicht bekannt geben, soweit deren Offenlegung
@@ -2183,13 +2050,21 @@ Unternehmen schädigen oder den lauteren Wettbewerb zwischen ihnen
 beeinträchtigen könnte.
 
 
-### § 36 Unterrichtung der Bewerber und Bieter
+### § 36 Unterrichtung der Bewerber oder Bieter
 
-(1) Unbeschadet der Verpflichtung nach § 101a des Gesetzes gegen
+(1) Unbeschadet des § 147 in Verbindung mit § 134 des Gesetzes gegen
+Wettbewerbsbeschränkungen unterrichten die Auftraggeber alle Bewerber
+oder Bieter unverzüglich über die Gründe für die Entscheidung, einen
+Auftrag oder eine Rahmenvereinbarung, für die eine Bekanntmachung
+veröffentlicht wurde, nicht zu vergeben oder das Verfahren neu
+einzuleiten. Diese Information wird auf Verlangen der Bewerber oder
+Bieter schriftlich erteilt.
+
+(2) Unbeschadet des § 147 in Verbindung mit § 134 des Gesetzes gegen
 Wettbewerbsbeschränkungen unterrichten die Auftraggeber auf Verlangen
-des Betroffenen und vorbehaltlich des Absatzes 2 unverzüglich,
-spätestens 15 Tage nach Eingang eines entsprechenden schriftlichen
-Antrags,
+des Betroffenen unverzüglich, spätestens 15 Tage nach Eingang eines
+entsprechenden Antrags in Textform nach § 126b des Bürgerlichen
+Gesetzbuchs,
 
 1.  jeden nicht erfolgreichen Bewerber über die Gründe für die Ablehnung
     der Bewerbung;
@@ -2212,11 +2087,6 @@ Antrags,
 
 
 
-
-(2) Der Auftraggeber darf darauf verzichten, Informationen über die
-Auftragserteilung oder den Abschluss von Rahmenvereinbarungen
-mitzuteilen, wenn auch gemäß § 35 Absatz 2 auf eine Bekanntmachung
-verzichtet werden könnte.
 
 
 ### § 37 Aufhebung und Einstellung des Vergabeverfahrens
@@ -2252,13 +2122,14 @@ oder das Vergabeverfahren erneut einzuleiten.
 ### § 38 Allgemeine Vorgaben zur Unterauftragsvergabe
 
 (1) In den Fällen des § 9 Absatz 3 Nummer 1 und 2 vergeben
-Auftragnehmer, die keine öffentlichen Auftraggeber im Sinne des § 98
-des Gesetzes gegen Wettbewerbsbeschränkungen oder vergleichbarer
-Normen anderer Mitgliedstaaten der Europäischen Union sind,
-Unteraufträge an Dritte nach den Vorschriften dieses Teils. Die
-Auftragnehmer vergeben Unteraufträge im Wege transparenter Verfahren
-und behandeln sämtliche potenzielle Unterauftragnehmer gleich und in
-nicht diskriminierender Weise.
+Auftragnehmer, die keine öffentlichen Auftraggeber im Sinne des § 99
+oder Sektorenauftraggeber im Sinne des § 100 des Gesetzes gegen
+Wettbewerbsbeschränkungen oder vergleichbarer Normen anderer
+Mitgliedstaaten der Europäischen Union sind, Unteraufträge an Dritte
+nach den Vorschriften dieses Teils. Die Auftragnehmer vergeben
+Unteraufträge im Wege transparenter Verfahren und behandeln sämtliche
+potenzielle Unterauftragnehmer gleich und in nicht diskriminierender
+Weise.
 
 (2) Für die Zwecke von Absatz 1 gelten Bietergemeinschaften oder mit
 dem Auftragnehmer verbundene Unternehmen nicht als Unterauftragnehmer
@@ -2279,12 +2150,12 @@ entsprechend.
 
 (1) Der Auftragnehmer veröffentlicht seine Absicht, einen Unterauftrag
 zu vergeben, in Form einer Bekanntmachung. Die Bekanntmachung enthält
-zumindest die in Anhang IV der Richtlinie 2009/81/EG aufgeführten
+zumindest die in Anhang V der Richtlinie 2009/81/EG aufgeführten
 Informationen sowie die Auswahlkriterien des § 40 Absatz 1. Für die
 Bekanntmachung ist die Einwilligung des Auftraggebers einzuholen. Die
-Bekanntmachung ist gemäß den Mustern der Europäischen Kommission für
-Standardformulare abzufassen und wird gemäß § 18 Absatz 4 und 5
-veröffentlicht.
+Bekanntmachung wird nach dem Muster gemäß Anhang XVI der
+Durchführungsverordnung (EU) 2015/1986 erstellt und wird gemäß § 18
+Absatz 4 und 5 veröffentlicht.
 
 (2) Eine Bekanntmachung über Unteraufträge ist nicht erforderlich,
 wenn in entsprechender Anwendung des § 12 eine Bekanntmachung
@@ -2446,60 +2317,10 @@ den Vermerk in Kopie übermitteln oder dessen wesentlichen Inhalt
 mitteilen.
 
 
-### § 44 Melde- und Berichtspflichten
-
-(1) Die Auftraggeber sind verpflichtet, dem Bundesministerium für
-Wirtschaft und Technologie bis zum 31. August jedes Jahres eine
-Aufstellung der im vorangegangenen Kalenderjahr vergebenen Aufträge zu
-übermitteln. Die Aufstellung erfolgt getrennt nach öffentlichen
-Liefer-, Dienstleistungs- und Bauaufträgen.
-
-(2) Für jeden Auftraggeber enthält die Aufstellung mindestens die
-Anzahl und den Wert der vergebenen Aufträge. Die Daten werden wie
-folgt aufgeschlüsselt:
-
-1.  nach den jeweiligen Vergabeverfahren,
-
-
-2.  nach Waren, Dienstleistungen und Bauarbeiten gemäß den Kategorien der
-    CPV-Nomenklatur gemäß der Verordnung (EG) Nr. 213/2008 der
-    Europäischen Kommission vom 28. November 2007 zur Änderung der
-    Verordnung (EG) Nr. 2195/2002 des Europäischen Parlaments und des
-    Rates über das Gemeinsame Vokabular für öffentliche Aufträge (CPV) und
-    der Vergaberichtlinien des Europäischen Parlaments und des Rates
-    2004/17/EG und 2004/18/EG im Hinblick auf die Überarbeitung des
-    Vokabulars (ABl. L 74 vom 15.3.2008, S. 1) in der jeweils geltenden
-    Fassung und
-
-
-3.  nach der Staatsangehörigkeit oder dem Sitz des Bieters, an den der
-    Auftrag vergeben wurde.
-
-
-
-
-(3) Werden die Aufträge im Verhandlungsverfahren ohne
-Teilnahmewettbewerb vergeben, so sind die Daten auch entsprechend der
-in § 12 Absatz 1 genannten Fallgruppen aufzuschlüsseln.
-
-(4) Die statistischen Aufstellungen für oberste und obere
-Bundesbehörden und vergleichbare Bundeseinrichtungen enthalten auch
-Anzahl und Gesamtwert der Aufträge, die aufgrund der
-Ausnahmeregelungen zum im Rahmen der Welthandelsorganisation
-geschlossenen Beschaffungsübereinkommen vergeben wurden.
-
-(5) Im Verhältnis zu Auftraggebern im Sinne des § 98 Nummer 1 bis 4
-des Gesetzes gegen Wettbewerbsbeschränkungen setzt das
-Bundesministerium für Wirtschaft und Technologie durch
-Allgemeinverfügung fest, in welcher Form die statistischen Angaben
-vorzunehmen sind. Die Allgemeinverfügung wird im Bundesanzeiger
-bekannt gemacht.
-
-
 ## Teil 5 - Übergangs- und Schlussbestimmungen
 
 
-### § 45 Übergangsbestimmung
+### § 44 Übergangsbestimmung
 
 Vergabeverfahren, die vor dem Inkrafttreten der Verordnung begonnen
 haben, werden einschließlich der sich an diese anschließenden
@@ -2507,7 +2328,7 @@ Nachprüfungsverfahren nach dem Recht zu Ende geführt, das zum
 Zeitpunkt der Einleitung des Verfahrens galt.
 
 
-### § 46 Inkrafttreten
+### § 45 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 

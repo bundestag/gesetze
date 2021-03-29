@@ -2,7 +2,7 @@
 Title: Europäisches Übereinkommen zur Bekämpfung des Terrorismus
 jurabk: EuTerrorÜbk
 layout: default
-origslug: euterror_bk
+origslug: euterroruebk
 slug: euterroruebk
 
 ---

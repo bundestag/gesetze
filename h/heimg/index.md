@@ -908,8 +908,9 @@ Inkrafttreten dieses Gesetzes geltenden Fassung können gegen den
 Träger nur innerhalb von drei Jahren nach Inkrafttreten dieses
 Gesetzes geltend gemacht werden.
 
+Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
+## Anhang EV (BGBl. II 1990, 889, 1096)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1477
 
+Zuletzt geändert durch
+:   Art. 2 V v. 1.7.2015 I 1101
+
 
 ## Eingangsformel
 
@@ -38,10 +41,10 @@ zu erheben:
 
 
 
-(2) Für die Ausstellung eines vorläufigen Personalausweises ist eine
-Gebühr von 10 Euro zu erheben. Wird neben dem Personalausweis auch ein
-vorläufiger Personalausweis beantragt, ist zusätzlich eine Gebühr nach
-Satz 1 zu erheben.
+(2) Für die Ausstellung eines vorläufigen Personalausweises oder eines
+Ersatz-Personalausweises ist eine Gebühr von 10 Euro zu erheben. Wird
+neben dem Personalausweis auch ein vorläufiger Personalausweis
+beantragt, ist zusätzlich eine Gebühr nach Satz 1 zu erheben.
 
 (3) Die Gebühren nach Absatz 1 und Absatz 2 Satz 1 sind um 13 Euro
 anzuheben, wenn die Amtshandlung vorgenommen wird auf Veranlassung der
@@ -54,6 +57,10 @@ antragstellenden Person
 
 
 
+Die Gebühr nach Absatz 1 ist um 30 Euro anzuheben, wenn die
+Amtshandlung von einer nicht zuständigen Behörde auf Veranlassung
+einer Person, die ihren gewöhnlichen Aufenthaltsort im Ausland hat,
+vorgenommen wird.
 
 (4) Die Gebühr nach Absatz 1 ist ferner um 30 Euro anzuheben, wenn die
 Amtshandlung von einer konsularischen oder diplomatischen Vertretung
@@ -64,6 +71,13 @@ Personalausweis nach § 19 Absatz 1 der Personalausweisverordnung.
 
 (6) Die Gebühr kann ermäßigt oder von ihrer Erhebung abgesehen werden,
 wenn die Person, die die Gebühr schuldet, bedürftig ist.
+
+
+## § 1a Auslagen
+
+Die Personalausweisbehörden können sich die Auslagen für den Versand
+des Briefes ins Ausland nach § 17 Absatz 4 Satz 2 der
+Personalausweisverordnung erstatten lassen.
 
 
 ## § 2 Gebühren für den elektronischen Identitätsnachweis
@@ -84,7 +98,7 @@ gebührenpflichtigen Amtshandlung nach Absatz 1 zusammenfällt.
 erheben.
 
 (4) Für die Gebühren nach Absatz 1 Satz 1 und Absatz 2 Satz 1 gilt § 1
-Absatz 3 entsprechend.
+Absatz 3 Satz 1 entsprechend.
 
 (5) Die Gebühren nach Absatz 1 Satz 1, Absatz 2 Satz 1 und Absatz 3
 sind ferner um 6 Euro anzuheben, wenn die Amtshandlung von einer

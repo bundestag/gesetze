@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1978, 1210
 
 Zuletzt geändert durch
-:   Art. 489 V v. 31.10.2006 I 2407
+:   Art. 18 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -172,11 +172,11 @@ Seeschiffe vorübergehend nicht benutzbar werden, bedürfen der
 Erlaubnis der Seeverkehrsbehörde. Soweit ein Aufliegen in Seehäfen
 vorgesehen ist, ist im Erlaubnisverfahren die Hafenbehörde zu hören.
 Einer Erlaubnis bedarf auch die Veräußerung oder sonstige
-rechtsgeschäftliche Überlassung von Seeschiffen an Gebietsfremde im
-Sinne des § 4 Abs. 1 Nr. 4 des Außenwirtschaftsgesetzes. Die Erlaubnis
-ist zu versagen, wenn durch den Umbau, das Aufliegen, die Veräußerung
-oder sonstige rechtsgeschäftliche Überlassung die Sicherstellung der
-für Zwecke der Verteidigung erforderlichen lebenswichtigen
+rechtsgeschäftliche Überlassung von Seeschiffen an Ausländer im Sinne
+des § 2 Absatz 5 des Außenwirtschaftsgesetzes. Die Erlaubnis ist zu
+versagen, wenn durch den Umbau, das Aufliegen, die Veräußerung oder
+sonstige rechtsgeschäftliche Überlassung die Sicherstellung der für
+Zwecke der Verteidigung erforderlichen lebenswichtigen
 Verkehrsleistungen gefährdet wird.
 
 
@@ -195,26 +195,8 @@ Bundeswasserstraßen befindet.
 
 ## § 11
 
-Seeverkehrsbehörden im Sinne dieser Verordnung sind das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und die
-Wasser- und Schiffahrtsdirektionen. Zuständig sind
-
-1.  für die Verpflichtung der Reeder, Ausrüster und Führer von Seeschiffen
-    sowie der Ablader, Ladungsempfänger und deren Beauftragten, die
-    Wasser- und Schiffahrtsdirektion, in deren Bezirk sich das Seeschiff
-    aufhält,
-
-
-2.  für die Erlaubnis zum Umbauen oder Aufliegen von Seeschiffen die
-    Wasser- und Schiffahrtsdirektion, in deren Bezirk das Schiff umgebaut
-    oder aufgelegt werden soll,
-
-
-3.  im übrigen das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung.
-
-
-
+Seeverkehrsbehörde im Sinne dieser Verordnung ist die Generaldirektion
+Wasserstraßen und Schifffahrt.
 
 
 ## § 12
@@ -311,9 +293,8 @@ Verkehrssicherstellungsgesetzes ist
     Erteilung der Erlaubnis zuständig wäre,
 
 
-2.  in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe a die Wasser- und
-    Schiffahrtsdirektion, in deren Bezirk das Schiff seinen Heimathafen
-    hat oder registriert ist,
+2.  in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe a die
+    Generaldirektion Wasserstraßen und Schifffahrt,
 
 
 3.  in allen übrigen Fällen die Behörde, die die Verpflichtung erlassen
@@ -329,6 +310,6 @@ Verkehrssicherstellungsgesetzes ist
 
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
-angewandt werden, wenn dies das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung durch Rechtsverordnung bestimmt.
+angewandt werden, wenn dies das Bundesministerium für Verkehr und
+digitale Infrastruktur durch Rechtsverordnung bestimmt.
 

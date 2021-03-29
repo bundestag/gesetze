@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 1 
   Mark
 jurabk: Münz1DMBek
 layout: default
-origslug: m_nz1dmbek
+origslug: muenz1dmbek
 slug: muenz1dmbek
 
 ---

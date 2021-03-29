@@ -3,7 +3,7 @@ Title: Gesetz über Begleitregelungen zur Einführung des digitalen Kontrollger�
   Kontrolle der Lenk- und Ruhezeiten
 jurabk: KontrGerätBeglG
 layout: default
-origslug: kontrger_tbeglg
+origslug: kontrgeraetbeglg
 slug: kontrgeraetbeglg
 
 ---

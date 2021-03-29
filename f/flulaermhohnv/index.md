@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Hohn
 jurabk: FluLärmHohnV
 layout: default
-origslug: flul_rmhohnv
+origslug: flulaermhohnv
 slug: flulaermhohnv
 
 ---

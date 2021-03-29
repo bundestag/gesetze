@@ -155,7 +155,8 @@ verbreitet.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1 Nr. 1)
 
-## Anlage (zu § 1 Nr. 1) Erscheinungsbild des Euro-Zeichens
+## Anlage Erscheinungsbild des Euro-Zeichens
 
 ![bgbl1_2005_j3118_0010.jpg](bgbl1_2005_j3118_0010.jpg)

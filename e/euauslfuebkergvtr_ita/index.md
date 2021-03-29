@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der italienischen Rep
   1957 und die Erleichterung seiner Anwendung
 jurabk: EuAuslfÜbkErgVtr ITA
 layout: default
-origslug: euauslf_bkergvtr_ita
+origslug: euauslfuebkergvtr_ita
 slug: euauslfuebkergvtr_ita
 
 ---

@@ -427,8 +427,9 @@ die Molkereifachmann-Ausbildungsverordnung vom 28. Februar 1991 (BGBl.
 I S. 513), die durch Artikel 74 des Gesetzes vom 13. April 2006 (BGBl.
 I S. 855) geändert worden ist, außer Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Milchtechnologen/zur Milchtechnologin
 
 (Fundstelle: BGBl. I 2010, 424 - 426)
 

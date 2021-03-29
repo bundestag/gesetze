@@ -132,8 +132,7 @@ Qualifikationen zu berücksichtigen:
 
 12. Konstruktionen und Untergründe zur Aufnahme von Fliesen-, Platten- und
     Mosaikbekleidungen und
-    -belägen                    prüfen, beurteilen, vorbereiten und
-    herstellen,
+    -belägen prüfen, beurteilen, vorbereiten und herstellen,
 
 
 13. Unteraufträge vergeben und kontrollieren,

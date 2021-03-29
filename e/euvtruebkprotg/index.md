@@ -6,7 +6,7 @@ Title: Gesetz zu den Protokollen vom 19. Dezember 1988 betreffend die Auslegung 
   der Europäischen Gemeinschaften
 jurabk: EuVtrÜbkProtG
 layout: default
-origslug: euvtr_bkprotg
+origslug: euvtruebkprotg
 slug: euvtruebkprotg
 
 ---
@@ -18,6 +18,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1995, 914
+
+Geändert durch
+:   Art. 25 V v. 31.8.2015 I 1474
 
 
 
@@ -68,8 +71,8 @@ ist der Sach- und Streitstand in gedrängter Form darzustellen.
 
 ## Art 3
 
-Das Bundesministerium der Justiz bestimmt die zuständige Stelle im
-Sinne des Artikels 3 des Ersten Protokolls.
+Das Bundesministerium der Justiz und für Verbraucherschutz bestimmt
+die zuständige Stelle im Sinne des Artikels 3 des Ersten Protokolls.
 
 
 ## Art 4

@@ -2,7 +2,7 @@
 Title: Verordnung über die Gewährung einer Denaturierungsprämie für Zucker
 jurabk: ZuckDenatPräV
 layout: default
-origslug: zuckdenatpr_v
+origslug: zuckdenatpraev
 slug: zuckdenatpraev
 
 ---
@@ -60,8 +60,8 @@ Verordnung
     14 der Durchführungsbestimmungen zum Zuckersteuergesetz vom 19. August
     1959 (Bundesgesetzbl. I S. 647), zuletzt geändert durch
     die Siebente Verordnung zur Änderung der Durchführungsbestimmungen zum
-    Zuckersteuergesetz vom 13. Juli 1971 (Bundesgesetzbl. I S. 1009)
-    - in der jeweils geltenden Fassung zugelassen sind,
+    Zuckersteuergesetz vom 13. Juli 1971 (Bundesgesetzbl. I S. 1009) - in
+    der jeweils geltenden Fassung zugelassen sind,
 
 
 
@@ -145,8 +145,7 @@ einen Bescheid über die Zahlung der Prämie.
 (1) Für die Überwachung der Denaturierung und der Verwendung des
 denaturierten Zuckers gelten
 § 9 Abs. 4 Satz 1 und 3, § 2 Abs. 3, Abs. 5 Satz 4, Abs. 6 Satz 1, 3
-und 4 sowie § 11              der Zuckersteuerbefreiungsordnung
-sinngemäß.
+und 4 sowie § 11 der Zuckersteuerbefreiungsordnung sinngemäß.
 
 (2) Wer denaturierten Zucker abgibt, hat auf der Rechnung und auf dem
 Lieferschein zu vermerken: "Denaturierter Zucker"; außerdem sind Art

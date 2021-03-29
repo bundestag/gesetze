@@ -16,18 +16,21 @@ Fundstelle
 :   BGBl I: 2004, 82
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 91 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 4.8.2016 I 1966
 
 
 ## § 1 Geltungsbereich
 
-Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 1774/2002
-des Europäischen Parlaments und des Rates vom 3. Oktober 2002 mit
+Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 1069/2009
+des Europäischen Parlaments und des Rates vom 21. Oktober 2009 mit
 Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte
-tierische Nebenprodukte (ABl. EG Nr. L 273 S. 1), zuletzt geändert
-durch die Verordnung (EG) Nr. 777/2008 vom 4. August 2008 (ABl. L 207
-vom 5.8.2008, S. 9), und der zu ihrer Durchführung ergangenen
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
+tierische Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr.
+1774/2002 (Verordnung über tierische Nebenprodukte) (ABl. L 300 vom
+14\.11.2009, S. 1, L 348 vom 4.12.2014, S. 31), die zuletzt durch die
+Verordnung (EU) Nr. 1385/2013 (ABl. L 354 vom 28.12.2013, S. 86)
+geändert worden ist, und der in ihrem Rahmen oder zu ihrer
+Durchführung erlassenen unmittelbar geltenden Rechtsakte der
+Europäischen Gemeinschaft oder der Europäischen Union.
 
 
 ## § 2 Zuständigkeit
@@ -35,141 +38,175 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
 Die Durchführung der in § 1 genannten unmittelbar geltenden Rechtsakte
 der Europäischen Gemeinschaft oder der Europäischen Union, der
 Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes
-erlassenen Rechtsvorschriften obliegt den zuständigen Landesbehörden,
-im Bereich der Bundeswehr den zuständigen Dienststellen der
-Bundeswehr, soweit gesetzlich nichts anderes bestimmt ist.
+erlassenen Rechtsvorschriften obliegt der nach Landesrecht zuständigen
+Behörde (zuständige Behörde), im Bereich der Bundeswehr den
+zuständigen Dienststellen der Bundeswehr, soweit gesetzlich nichts
+anderes bestimmt ist.
 
 
-## § 3 Verpflichtung zur Verarbeitung und Beseitigung
+## § 2a Grundsatz für den Umgang mit tierischen Nebenprodukten und Folgeprodukten
 
-(1) Die nach Landesrecht zuständigen Körperschaften des öffentlichen
-Rechts (Beseitigungspflichtige) haben, soweit nach der Verordnung (EG)
-Nr. 1774/2002 tierische Nebenprodukte
+Es ist verboten,
 
-1.  der Kategorie 1 im Sinne des Artikels 4 Abs. 1 der Verordnung (EG) Nr.
-    1774/2002 oder
+1.  tierische Nebenprodukte der Kategorie 1 im Sinne des Artikels 8 der
+    Verordnung (EG) Nr. 1069/2009,
 
 
-2.  der Kategorie 2 im Sinne des Artikels 5 Abs. 1 der Verordnung (EG) Nr.
-    1774/2002 - ausgenommen Milch, Kolostrum, Gülle sowie Magen- und
-    Darminhalt -
+2.  tierische Nebenprodukte der Kategorie 2 im Sinne des Artikels 9 der
+    Verordnung (EG) Nr. 1069/2009 oder
 
 
-
-
-abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu
-verarbeiten oder zu beseitigen sind, die Voraussetzungen für die
-Abholung, Sammlung, Beförderung, Lagerung, Behandlung, Verarbeitung
-und Beseitigung zu schaffen. Sie sind vorbehaltlich des § 4 und
-unbeschadet des Artikels 24 der Verordnung (EG) Nr. 1774/2002
-verpflichtet, das in ihrem Gebiet anfallende
-
-1.  Material der Kategorie 1 gemäß Artikel 4 Abs. 2 und 3 der Verordnung
-    (EG) Nr. 1774/2002,
-
-
-2.  Material der Kategorie 2 - ausgenommen Milch, Kolostrum, Gülle sowie
-    Magen- und Darminhalt - gemäß Artikel 5 Abs. 2 und 3 der Verordnung
-    (EG) Nr. 1774/2002,
+3.  Folgeprodukte tierischer Nebenprodukte im Sinne der Nummer 1 oder 2
 
 
 
-abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu
-verarbeiten und zu beseitigen. Sie können sich zur Erfüllung dieser
-Pflicht Dritter bedienen. Satz 2 gilt auch für verendete wild lebende
-Tiere, sofern die zuständige Behörde eine Verarbeitung und Beseitigung
-anordnet.
+so abzuholen, zu sammeln, zu kennzeichnen, zu befördern, zu lagern, zu
+behandeln, zu verarbeiten, zu verwenden oder zu beseitigen, dass
+dadurch Leben oder Gesundheit eines anderen oder Tiere oder fremde
+Sachen von bedeutendem Wert gefährdet werden.
 
-(2) Die zuständige Behörde kann nach Anhörung der
-Beseitigungspflichtigen einer natürlichen oder juristischen Person des
-Privatrechts, die einen Verarbeitungsbetrieb, eine Verbrennungsanlage
-oder eine Mitverbrennungsanlage betreibt, für das in Absatz 1 Satz 1
-bezeichnete Material die Pflicht zur Abholung, Sammlung, Beförderung,
-Lagerung, Behandlung, Verarbeitung oder Beseitigung von tierischen
-Nebenprodukten übertragen, soweit
+
+## § 3 Beseitigungspflicht
+
+(1) Soweit nach den in § 1 genannten Vorschriften
+
+1.  tierische Nebenprodukte der Kategorie 1 im Sinne des Artikels 8 der
+    Verordnung (EG) Nr. 1069/2009,
+
+
+2.  tierische Nebenprodukte der Kategorie 2 im Sinne des Artikels 9 der
+    Verordnung (EG) Nr. 1069/2009, ausgenommen Gülle, Guano, Magen- und
+    Darminhalt, Milch, Milcherzeugnisse, Kolostrum, Eier sowie Eiprodukte,
+    oder
+
+
+3.  Folgeprodukte aus den in den Nummern 1 oder 2 genannten tierischen
+    Nebenprodukten
+
+
+
+abzuholen, zu sammeln, zu kennzeichnen, zu befördern, zu lagern, zu
+behandeln, zu verarbeiten, zu verwenden oder zu beseitigen sind, hat
+die zuständige Behörde die Voraussetzungen für die Abholung, Sammlung,
+Kennzeichnung, Beförderung, Lagerung, Behandlung, Verarbeitung,
+Verwendung und Beseitigung zu schaffen. Die zuständige Behörde ist
+verpflichtet,
+
+1.  tierische Nebenprodukte der Kategorie 1,
+
+
+2.  tierische Nebenprodukte der Kategorie 2, ausgenommen Gülle, Guano,
+    Magen- und Darminhalt, Milch, Milcherzeugnisse, Kolostrum sowie Eier
+    und Eiprodukte, und
+
+
+3.  Folgeprodukte aus den in den Nummern 1 oder 2 genannten tierischen
+    Nebenprodukten,
+
+
+
+die in ihrem Gebiet anfallen, nach Maßgabe der in § 1 genannten
+unmittelbar geltenden Rechtsakte, dieses Gesetzes und der auf Grund
+dieses Gesetzes erlassenen Rechtsvorschriften abzuholen, zu sammeln,
+zu kennzeichnen, zu befördern, zu lagern, zu behandeln, zu
+verarbeiten, zu verwenden oder zu beseitigen. Bis zur Abholung durch
+die zuständige Behörde bleiben die Pflichten der Besitzer zur
+Kennzeichnung, Beförderung und Lagerung der bei ihnen angefallenen
+tierischen Nebenprodukte und Folgeprodukte nach den Vorschriften der
+in § 1 genannten unmittelbar geltenden Rechtsakte unberührt. Die
+zuständige Behörde kann sich zur Erfüllung ihrer Pflichten nach Satz 2
+Dritter bedienen. Satz 2 gilt auch für verendete wild lebende Tiere,
+soweit die zuständige Behörde eine Verwendung, Verarbeitung oder
+Beseitigung aus Gründen der Tierseuchenbekämpfung angeordnet hat.
+
+(2) Absatz 1 Satz 2 ist nicht anzuwenden, soweit tierische
+Nebenprodukte und Folgeprodukte zur Herstellung von Futtermitteln und
+Folgeprodukten nach den Artikeln 33 und 36 der Verordnung (EG) Nr.
+1069/2009 bestimmt sind und die tierischen Nebenprodukte und
+Folgeprodukte von im Sinne des Artikels 23 der Verordnung (EG) Nr.
+1069/2009 registrierten oder im Sinne des Artikels 24 der Verordnung
+(EG) Nr. 1069/2009 zugelassenen Unternehmen, Anlagen oder Betrieben
+gesammelt, gekennzeichnet, befördert, gelagert, behandelt, verarbeitet
+oder verwendet worden sind.
+
+(3) Die zuständige Behörde kann einer natürlichen oder juristischen
+Person des Privatrechts, die einen Verarbeitungsbetrieb, eine
+Verbrennungsanlage oder eine Mitverbrennungsanlage betreibt, für die
+in Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte und
+Folgeprodukte mit deren Zustimmung die Pflicht ganz oder teilweise
+übertragen, tierische Nebenprodukte oder Folgeprodukte abzuholen, zu
+sammeln, zu kennzeichnen, zu befördern, zu lagern, zu behandeln, zu
+verarbeiten, zu verwenden oder zu beseitigen, soweit
 
 1.  keine überwiegenden öffentlichen Interessen entgegenstehen,
 
 
 2.  der Verarbeitungsbetrieb, die Verbrennungsanlage oder die
-    Mitverbrennungsanlage die in Artikel 12 bis 14 der Verordnung (EG) Nr.
-    1774/2002 genannten Bedingungen für die jeweilige Art der Verarbeitung
-    erfüllt und
+    Mitverbrennungsanlage die in den Artikeln 6, 8 und 9 der Verordnung
+    (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung
+    der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des
+    Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr
+    bestimmte tierische Nebenprodukte sowie zur Durchführung der
+    Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäß der
+    genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter
+    Proben und Waren (ABl. L 54 vom 26.2.2011, S. 1) in der jeweils
+    geltenden Fassung genannten Anforderungen an die jeweilige Art der
+    Verarbeitung erfüllt und
 
 
 3.  gewährleistet ist, dass die übrigen Vorschriften der Verordnung (EG)
-    Nr. 1774/2002, dieses Gesetzes sowie der auf Grund dieses Gesetzes
-    erlassenen Rechtsvorschriften beachtet werden.
+    Nr. 1069/2009, der zu ihrer Durchführung erlassenen Rechtsakte, dieses
+    Gesetzes und der auf Grund dieses Gesetzes erlassenen
+    Rechtsvorschriften beachtet werden.
 
 
 
-Die Übertragung kann ganz oder teilweise erfolgen. Bei Teilübertragung
-kann sie mit der Auflage verbunden werden, dass der
-Verarbeitungsbetrieb, die Verbrennungsanlage oder die
-Mitverbrennungsanlage das in einem Gebiet anfallende Material
-abzuholen, zu sammeln, zu befördern, zu lagern, zu behandeln, zu
-verarbeiten oder zu beseitigen hat, sofern das öffentliche Interesse
-dies erfordert. Ein Rechtsanspruch auf Übertragung besteht nicht.
+Im Falle einer teilweisen Übertragung kann diese mit der Auflage
+verbunden werden, dass der Verarbeitungsbetrieb, die
+Verbrennungsanlage oder die Mitverbrennungsanlage die in einem Gebiet
+anfallenden tierischen Nebenprodukte und Folgeprodukte abzuholen, zu
+sammeln, zu kennzeichnen, zu befördern, zu lagern, zu behandeln, zu
+verarbeiten, zu verwenden oder zu beseitigen hat, soweit das
+öffentliche Interesse dies erfordert.
 
-(3) Die zuständige Behörde kann den Verarbeitungsbetrieb, die
-Verbrennungsanlage oder die Mitverbrennungsanlage verpflichten, gegen
+(4) Die zuständige Behörde kann einen Verarbeitungsbetrieb, eine
+Verbrennungsanlage oder eine Mitverbrennungsanlage verpflichten, gegen
 angemessenes Entgelt, bei dem Aufwand und Ertrag zu berücksichtigen
-sind, einer anderen Beseitigungspflichtigen vorübergehend die
-Mitbenutzung des Betriebs zur Verarbeitung oder Beseitigung des in
-Absatz 1 Satz 1 bezeichneten Materials, das außerhalb des
+sind, vorübergehend die Mitbenutzung des Betriebs oder der Anlage zur
+Verarbeitung oder Beseitigung der in Absatz 1 Satz 1 bezeichneten
+tierischen Nebenprodukte oder Folgeprodukte, die außerhalb des
 Einzugsbereichs des Verarbeitungsbetriebs, der Verbrennungsanlage oder
-der Mitverbrennungsanlage anfällt, zu gestatten, soweit dies zumutbar
-ist und die Beseitigungspflichtige das Material anders nicht
-zweckmäßig oder nur mit erheblichen Mehrkosten verarbeiten oder
-beseitigen kann. Kommt eine Einigung über das Entgelt nicht zustande,
-so wird es durch die zuständige Behörde festgesetzt.
-
-(4) Soweit und solange dem Verarbeitungsbetrieb, der
-Verbrennungsanlage oder der Mitverbrennungsanlage Tätigkeiten nach
-Absatz 2 übertragen worden sind, ist dieser Betrieb oder diese Anlage
-Beseitigungspflichtige im Sinne dieses Gesetzes, soweit im Folgenden
-nichts anderes bestimmt ist. Im gleichen Umfange ist die
-Beseitigungspflichtige nach Absatz 1 Satz 1 von ihrer Verpflichtung
-entbunden.
+der Mitverbrennungsanlage anfallen, zu gestatten, soweit dies zumutbar
+ist und die tierischen Nebenprodukte oder Folgeprodukte anders nicht
+zweckmäßig oder nur mit erheblichen Mehrkosten verarbeitet oder
+beseitigt werden können. Kommt eine Einigung über das Entgelt nicht
+zustande, so wird das Entgelt durch die zuständige Behörde
+festgesetzt.
 
 
 ## § 4 Ausnahmen
 
-Die zuständige Behörde kann Ausnahmen von § 3 Abs. 1 Satz 1 und 2
-genehmigen
+(1) § 3 Absatz 1 Satz 1 bis 3 gilt nicht für Heimtiere im Sinne des
+Artikels 3 Nummer 8 der Verordnung (EG) Nr. 1069/2009, soweit diese in
+einer Verbrennungsanlage, die die Voraussetzungen des Artikels 6
+Nummer 1 der Verordnung (EU) Nr. 142/2011 erfüllt, verbrannt werden.
+Bis zur Abholung oder Ablieferung zur Verbrennung sind die Heimtiere
+geschützt vor Witterungseinflüssen so aufzubewahren, dass Menschen
+nicht unbefugt und Tiere nicht mit ihnen in Berührung kommen können.
 
-1.  für tierische Nebenprodukte, die
+(2) Die zuständige Behörde kann Ausnahmen von § 3 Absatz 1 Satz 1 bis
+3 genehmigen für Equiden im Sinne des Artikels 3 Nummer 6 Buchstabe b
+der Verordnung (EG) Nr. 1069/2009, soweit diese in einer
+Verbrennungsanlage, die die Voraussetzungen des Artikels 6 Nummer 1
+der Verordnung (EU) Nr. 142/2011 erfüllt, verbrannt werden. Werden
+Equiden nicht unverzüglich zur Verbrennung abgeholt, sind sie in einem
+Zwischenbehandlungsbetrieb für Material der Kategorie 1 oder 2, in der
+tierärztlichen Praxis oder in der tierärztlichen Bildungsstätte so
+aufzubewahren, dass sie vor Witterungseinflüssen geschützt sind sowie
+Menschen nicht unbefugt und Tiere nicht mit ihnen in Berührung kommen
+können.
 
-    a)  zu Diagnose-, Lehr- und Forschungszwecken oder
-
-
-    b)  zum Zwecke der Präparation von Tierkörpern und Tierkörperteilen in
-        nach Artikel 18 der Verordnung (EG) Nr. 1774/2002 zugelassenen Anlagen
-
-
-
-
-    verwendet werden,
-
-
-2.  für die Verfütterung von Material der Kategorie 2 im Sinne des
-    Artikels 5 Abs. 1 der Verordnung (EG) Nr. 1774/2002, sofern es von
-    Tieren stammt, die nicht auf Grund einer auf Mensch oder Tier
-    übertragbaren Krankheit verendet sind oder getötet wurden, an in
-    Artikel 23 Abs. 2 Buchstabe c der Verordnung (EG) Nr. 1774/2002
-    genannte Tiere.
-
-
-
-
-Ferner kann die zuständige Behörde Ausnahmen von Artikel 6 Abs. 2 und
-3 der Verordnung (EG) Nr. 1774/2002 genehmigen für Material der
-Kategorie 3 im Sinne des Artikels 6 Abs. 1 Buchstabe a bis j der
-Verordnung (EG) Nr. 1774/2002 und - vorbehaltlich des Artikels 22 der
-Verordnung (EG) Nr. 1774/2002 - des Artikels 6 Abs. 1 Buchstabe l der
-Verordnung (EG) Nr. 1774/2002, das an in Artikel 23 Abs. 2 Buchstabe c
-der Verordnung (EG) Nr. 1774/2002 genannte Tiere verfüttert werden
-oder zu den in Satz 1 Nr. 1 genannten Zwecken verwendet werden soll.
+(3) Artikel 16 der Verordnung (EG) Nr. 1069/2009 bleibt unberührt.
 
 
 ## § 5 Probenahme
@@ -177,10 +214,10 @@ oder zu den in Satz 1 Nr. 1 genannten Zwecken verwendet werden soll.
 (1) Soweit es zur Durchführung der in § 1 genannten unmittelbar
 geltenden Rechtsakte, der Vorschriften dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsvorschriften erforderlich ist,
-sind die nach Landesrecht zuständigen Behörden befugt, gegen
-Empfangsbescheinigung Proben des Materials zum Zwecke der Untersuchung
-bei der Beseitigungspflichtigen zu entnehmen oder von dieser
-anzufordern.
+ist die zuständige Behörde befugt, gegen Empfangsbescheinigung Proben
+des Materials zum Zwecke der Untersuchung bei derjenigen Person, der
+die Pflichten nach § 3 Absatz 3 übertragen worden sind, zu entnehmen
+oder von dieser anzufordern.
 
 (2) Für Proben, die im Rahmen der amtlichen Überwachung nach diesem
 Gesetz entnommen werden, wird keine Entschädigung geleistet.
@@ -189,40 +226,48 @@ Gesetz entnommen werden, wird keine Entschädigung geleistet.
 ## § 6 Einzugsbereiche
 
 (1) Die Länder bestimmen die Einzugsbereiche, innerhalb derer die
-Beseitigungspflichtigen das in § 3 Abs. 1 Satz 1 bezeichnete Material
-nach den Vorgaben der Verordnung (EG) Nr. 1774/2002 abzuholen, zu
-sammeln, zu befördern, zu lagern, zu behandeln, zu verarbeiten oder zu
-beseitigen haben.
+zuständige Behörde oder diejenige Person, der die Pflichten nach § 3
+Absatz 3 übertragen worden sind, die in § 3 Absatz 1 Satz 1
+bezeichneten tierischen Nebenprodukte oder Folgeprodukte nach den
+Vorgaben der in § 1 genannten Vorschriften abzuholen, zu sammeln, zu
+kennzeichnen, zu befördern, zu lagern, zu behandeln, zu verarbeiten,
+zu verwenden oder zu beseitigen hat.
 
-(2) Die Länder können ferner bestimmen, dass das in § 3 Abs. 1 Satz 1
-bezeichnete Material auch in Verarbeitungsbetrieben,
-Verbrennungsanlagen oder Mitverbrennungsanlagen außerhalb des
-Einzugsbereichs nach Absatz 1 behandelt, verarbeitet oder beseitigt
-werden darf.
+(2) Die Länder können ferner bestimmen, dass die in § 3 Absatz 1 Satz
+1 bezeichneten tierischen Nebenprodukte oder Folgeprodukte auch in
+Verarbeitungsbetrieben, Verbrennungsanlagen oder
+Mitverbrennungsanlagen außerhalb des Einzugsbereichs nach Absatz 1
+behandelt, verarbeitet, verwendet oder beseitigt werden darf.
 
 
 ## § 7 Meldepflicht
 
-(1) Der Besitzer hat der Beseitigungspflichtigen, in deren
-Einzugsbereich das in § 3 Abs. 1 Satz 1 bezeichnete Material anfällt,
-unverzüglich zu melden, wenn das Material angefallen ist.
+(1) Der Besitzer hat der zuständigen Behörde, in deren Einzugsbereich
+die in § 3 Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
+Folgeprodukte anfallen, unverzüglich zu melden, wenn diese angefallen
+sind. In den Fällen des § 3 Absatz 3 ist die Meldung derjenigen Person
+gegenüber vorzunehmen, der die Pflichten nach § 3 Absatz 3 übertragen
+worden sind, soweit die Übertragung ortsüblich bekannt gemacht worden
+ist.
 
 (2) Der Meldung bedarf es nicht, wenn
 
-1.  das in § 3 Abs. 1 Satz 1 bezeichnete Material regelmäßig abgeholt
-    wird,
+1.  die in § 3 Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte und
+    Folgeprodukte regelmäßig abgeholt werden,
 
 
 2.  Tiere auf behördliche Anordnung getötet worden sind oder ihre
     Beseitigung behördlich angeordnet worden ist,
 
 
-3.  es sich um Material im Sinne des § 3 Abs. 1 Satz 1 Nr. 2 handelt, das
-    an in Artikel 23 Abs. 2 Buchstabe c der Verordnung (EG) Nr. 1774/2002
-    genannte Tiere verfüttert werden soll,
+3.  es sich um tierische Nebenprodukte oder Folgeprodukte handelt, die
+    nach Artikel 16 Buchstabe f oder h, Artikel 17 Absatz 1, Artikel 18
+    Absatz 1 oder 2 oder Artikel 19 Absatz 1 der Verordnung (EG) Nr.
+    1069/2009 gesammelt, verwendet, verfüttert oder beseitigt werden
+    sollen,
 
 
-4.  verendete Tiere von dem Besitzer bei der Beseitigungspflichtigen
+4.  verendete Tiere von dem Besitzer bei der zuständigen Behörde
     abgeliefert werden,
 
 
@@ -235,9 +280,10 @@ unverzüglich zu melden, wenn das Material angefallen ist.
 
 
 
+Absatz 1 Satz 2 gilt für die Ablieferung nach Satz 1 Nummer 4
+entsprechend.
 
-(3) Fremde oder herrenlose Körper von Vieh, Wild, Hunden oder Katzen
-sind,
+(3) Fremde oder herrenlose Körper von Vieh, Hunden oder Katzen sind,
 
 1.  wenn sie auf einem Grundstück anfallen, von dem Grundstücksbesitzer,
 
@@ -251,95 +297,129 @@ sind,
 
 
 
+unverzüglich zu melden. Satz 1 gilt entsprechend für Körper
 
-unverzüglich zu melden.
+1.  von Wild, soweit der Verdacht besteht, dass das Wild an einer
+    Tierseuche erkrankt ist, oder
 
-(4) Der Besitzer des in § 3 Abs. 1 Satz 1 bezeichneten Materials hat
-dieses der Beseitigungspflichtigen zu überlassen.
+
+2.  verendeter wild lebender Tiere, soweit die zuständige Behörde eine
+    Allgemeinverfügung nach § 3 Absatz 1 Satz 5 getroffen hat.
+
+
+
+
+(4) Der Besitzer oder der nach Absatz 3 Meldepflichtige hat die in § 3
+Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
+Folgeprodukte der zuständigen Behörde zu überlassen. Absatz 1 Satz 2
+gilt für die Überlassung entsprechend.
 
 
 ## § 8 Abholungspflicht
 
-(1) Die Beseitigungspflichtige hat das in § 3 Abs. 1 Satz 1
-bezeichnete Material nach Maßgabe des Artikels 7 Abs. 1, 2 und 5 der
-Verordnung (EG) Nr. 1774/2002 unverzüglich abzuholen, zu sammeln, zu
-befördern und zu lagern. Satz 1 gilt nicht für die in § 7 Abs. 2 Nr. 4
-bezeichneten Tiere sowie für kleine Heimtiere aus privaten
-Haushaltungen, mit Ausnahme von Hunden und Katzen.
+(1) Die zuständige Behörde oder diejenige Person, der die Pflichten
+nach § 3 Absatz 3 übertragen worden sind, hat die in § 3 Absatz 1 Satz
+1 bezeichneten tierischen Nebenprodukte und Folgeprodukte sowie die in
+§ 3 Absatz 1 Satz 5 bezeichneten verendeten Tiere nach Maßgabe des
+Artikels 21 Absatz 1 bis 3 der Verordnung (EG) Nr. 1069/2009
+unverzüglich abzuholen, zu sammeln, zu kennzeichnen, zu befördern und
+zu lagern. Satz 1 gilt nicht für die in § 7 Abs. 2 Nr. 4 bezeichneten
+Tiere sowie für kleine Heimtiere aus privaten Haushaltungen, mit
+Ausnahme von Hunden und Katzen.
 
-(2) Die Beseitigungspflichtige hat ferner das in § 3 Abs. 1 Satz 1
-bezeichnete Material, sofern es in zugelassenen
-Zwischenbehandlungsbetrieben gelagert wird, zeitlich in solchen
-Abständen abzuholen, dass eine ordnungsgemäße Verarbeitung und
-Beseitigung gesichert ist.
+(2) Die zuständige Behörde oder diejenige Person, der die Pflichten
+nach § 3 Absatz 3 übertragen worden sind, hat ferner die in § 3 Absatz
+1 Satz 1 bezeichneten tierischen Nebenprodukte oder Folgeprodukte
+sowie die in § 3 Absatz 1 Satz 5 bezeichneten verendeten Tiere, soweit
+sie in zugelassenen Zwischenbehandlungsbetrieben gelagert werden,
+zeitlich in solchen Abständen abzuholen, dass eine ordnungsgemäße
+Verarbeitung, Verwendung oder Beseitigung gesichert ist.
 
-(3) Bei der Abholung hat der Besitzer das in § 3 Abs. 1 Satz 1
-bezeichnete Material herauszugeben. Er hat die Beseitigungspflichtige
-darüber hinaus unentgeltlich zu unterstützen, insbesondere bei der
-Heranschaffung der tierischen Nebenprodukte aus besonders
-verkehrsungünstig gelegenem Gelände bis zur nächsten befahrbaren
-Straße.
+(3) Bei der Abholung hat der Besitzer die in § 3 Absatz 1 Satz 1
+bezeichneten tierischen Nebenprodukte und Folgeprodukte sowie die in §
+3 Absatz 1 Satz 5 bezeichneten verendeten Tiere herauszugeben. Er hat
+die zuständige Behörde oder diejenige Person, der die Pflichten nach §
+3 Absatz 3 übertragen worden sind, darüber hinaus unentgeltlich zu
+unterstützen, insbesondere bei der Heranschaffung der tierischen
+Nebenprodukte aus besonders verkehrsungünstig gelegenem Gelände bis
+zur nächsten befahrbaren Straße.
 
 
 ## § 9 Ablieferungspflicht
 
-(1) Soweit eine Verarbeitung und Beseitigung des in § 3 Abs. 1 Satz 1
-bezeichneten Materials vorgeschrieben ist und eine Abholungspflicht
-nach § 8 nicht besteht, ist der Besitzer von tierischen Nebenprodukten
-verpflichtet, diese bei einem von der Beseitigungspflichtigen
-bestimmten Verarbeitungsbetrieb, zugelassenen
-Zwischenbehandlungsbetrieb oder einer von dieser bestimmten
-Verbrennungsanlage oder Mitverbrennungsanlage unverzüglich
-abzuliefern.
+(1) Soweit eine Verarbeitung, Verwendung oder Beseitigung der in § 3
+Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
+Folgeprodukte vorgeschrieben ist und eine Abholungspflicht nach § 8
+nicht besteht, ist der Besitzer von tierischen Nebenprodukten oder
+Folgeprodukten oder der nach § 7 Absatz 3 Meldepflichtige
+verpflichtet, diese bei einem von der zuständigen Behörde bestimmten
+Verarbeitungsbetrieb, zugelassenen Zwischenbehandlungsbetrieb oder
+einer von dieser bestimmten Verbrennungsanlage oder
+Mitverbrennungsanlage unverzüglich abzuliefern.
 
 (2) Die Pflicht nach Absatz 1 besteht nicht, wenn der Besitzer
-sichergestellt hat, dass die Beseitigungspflichtige die tierischen
-Nebenprodukte abholt.
+sichergestellt hat, dass die zuständige Behörde oder diejenige Person,
+der die Pflichten nach § 3 Absatz 3 übertragen worden sind, die
+tierischen Nebenprodukte oder Folgeprodukte abholt.
 
 
 ## § 10 Aufbewahrungspflicht
 
-Bis zur Abholung durch die Beseitigungspflichtige oder bis zur
-Ablieferung hat der Besitzer das in § 3 Abs. 1 Satz 1 bezeichnete
-Material jeweils getrennt nach den in der Verordnung (EG) Nr.
-1774/2002 bestimmten Kategorien und getrennt von anderen Abfällen
+(1) Bis zur Abholung oder Ablieferung hat der Besitzer die in § 3
+Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte und
+Folgeprodukte jeweils getrennt nach den in der Verordnung (EG) Nr.
+1069/2009 bestimmten Kategorien und getrennt von anderen Abfällen
 sowie geschützt vor Witterungseinflüssen so aufzubewahren, dass
 Menschen nicht unbefugt und Tiere nicht mit diesem Material in
-Berührung kommen können. Verendete oder getötete Tiere dürfen während
-dieser Zeit nicht abgehäutet, geöffnet oder zerlegt werden. Nach der
-Abholung hat der Besitzer die Behältnisse oder Örtlichkeiten, in denen
-das in § 3 Abs. 1 Satz 1 bezeichnete Material aufbewahrt worden ist,
-unverzüglich zu reinigen und zu desinfizieren. Das Verbot nach Satz 2
-gilt nicht für Zerlegungen durch den beamteten Tierarzt oder die
-beamtete Tierärztin oder - im Falle seiner oder ihrer Verhinderung -
-durch einen beauftragten anderen Tierarzt oder eine beauftragte andere
-Tierärztin.
+Berührung kommen können. Verendete oder getötete Tiere dürfen,
+vorbehaltlich des Absatzes 2, während dieser Zeit nicht abgehäutet,
+geöffnet oder zerlegt werden. Nach der Abholung oder Ablieferung hat
+der Besitzer die Behältnisse oder Örtlichkeiten, in denen die in § 3
+Absatz 1 Satz 1 bezeichneten tierischen Nebenprodukte oder
+Folgeprodukte aufbewahrt worden sind, unverzüglich zu reinigen und zu
+desinfizieren.
+
+(2) Absatz 1 Satz 2 gilt nicht, soweit
+
+1.  die zuständige Behörde oder
 
 
-## § 11 Gebührenerhebung
+2.  Tierärztinnen und Tierärzte, denen die zuständige Behörde eine
+    Genehmigung hierfür erteilt hat,
 
-(1) Für Amtshandlungen nach den in § 1 genannten unmittelbar geltenden
-Rechtsakten, diesem Gesetz und den zur Durchführung dieses Gesetzes
-erlassenen Rechtsvorschriften werden von den Ländern Gebühren und
-Auslagen erhoben.
 
-(2) Die nach Absatz 1 kostenpflichtigen Tatbestände sowie die
-Gebührenhöhe werden nach Landesrecht bestimmt. Soweit von der
-Europäischen Gemeinschaft oder der Europäischen Union Rechtsakte über
-die Finanzierung der veterinär- und hygienerechtlichen Kontrollen
-erlassen sind, sind diese bei der Bemessung der Gebühren zu
-berücksichtigen. Für Amtshandlungen, die auf besonderen Antrag
-außerhalb der normalen Dienstzeiten vorgenommen werden, kann das
-Landesrecht eine Vergütung vorsehen.
 
-(3) Die Länder regeln, inwieweit und in welchem Umfange für tierische
-Nebenprodukte, die nach diesem Gesetz an Beseitigungspflichtige
-abzugeben sind, ein Entgelt zu gewähren oder zu entrichten ist oder
-Kosten (Gebühren und Auslagen) zu erheben sind.
+die dort genannten Handlungen vornehmen. Eine Genehmigung nach Satz 1
+Nummer 2 darf nur erteilt werden, soweit
 
-(4) Bei umhüllten oder verpackten tierischen Nebenprodukten trägt
-derjenige, bei dem die tierischen Nebenprodukte angefallen sind, die
-Kosten der Öffnung und der Entfernung der Umhüllung oder Verpackung.
+1.  die Tierärztinnen und Tierärzte die erforderliche Sachkunde zur
+    Vornahme einer der in Absatz 1 Satz 2 genannten Handlungen aufweisen,
+
+
+2.  die in Absatz 1 Satz 2 genannten Handlungen in dafür geeigneten
+    Räumlichkeiten stattfinden und
+
+
+3.  sichergestellt ist, dass
+
+    a)  die Ergebnisse der Öffnung und Zerlegung sowie durchgeführter
+        labordiagnostischer Untersuchungen entnommener Proben aufgezeichnet
+        werden und
+
+
+    b)  die Aufbewahrung der anfallenden, in § 3 Absatz 1 Satz 1 bezeichneten
+        tierischen Nebenprodukte und Folgeprodukte den Anforderungen nach
+        Absatz 1 Satz 1 genügt.
+
+
+
+
+
+
+
+
+## § 11 (weggefallen)
+
 
 
 ## § 12 Überwachung
@@ -350,19 +430,17 @@ und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen sowie
 der nach den in § 1 genannten unmittelbar geltenden Rechtsakten,
 diesem Gesetz oder nach einer auf Grund dieses Gesetzes erlassenen
 Rechtsverordnung getroffenen vollziehbaren Anordnungen werden durch
-die nach Landesrecht zuständigen Behörden, im Bereich der Bundeswehr
-durch die vom Bundesministerium der Verteidigung bestimmten
-Dienststellen, überwacht.
+die zuständige Behörde, im Bereich der Bundeswehr durch die vom
+Bundesministerium der Verteidigung bestimmten Dienststellen,
+überwacht.
 
-(2) Die nach Landesrecht zuständige Behörde kann im Einzelfall die
-Anordnungen treffen, die zur Einhaltung der Vorschriften der in § 1
-genannten unmittelbar geltenden Rechtsakte, dieses Gesetzes sowie der
-auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich
-sind. Dies gilt auch nach Erteilung der Zulassung eines
-Verarbeitungsbetriebs, einer Verbrennungsanlage oder
-Mitverbrennungsanlage, eines Zwischenbehandlungsbetriebs,
-Lagerbetriebs, Fettverarbeitungsbetriebs, Heimtierfutterbetriebs,
-technischen Betriebs oder einer Biogas- oder Kompostieranlage.
+(2) Die zuständige Behörde kann im Einzelfall die Anordnungen treffen,
+die zur Einhaltung der Vorschriften der in § 1 genannten unmittelbar
+geltenden Rechtsakte, dieses Gesetzes sowie der auf Grund dieses
+Gesetzes erlassenen Rechtsverordnungen erforderlich sind. Dies gilt
+auch nach erfolgter Registrierung nach Artikel 23 der Verordnung (EG)
+Nr. 1069/2009 oder der Erteilung einer Zulassung nach Artikel 24 der
+Verordnung (EG) Nr. 1069/2009.
 
 (3) Natürliche und juristische Personen und nicht rechtsfähige
 Personenvereinigungen haben den zuständigen Behörden auf Verlangen die
@@ -375,20 +453,20 @@ Angehörigen der Gefahr strafgerichtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
 (4) Personen, die von der zuständigen Behörde beauftragt sind, sowie
-in ihrer Begleitung befindliche Sachverständige der Mitgliedstaaten
-und der Europäischen Kommission dürfen im Rahmen der Absätze 1 und 2
-Grundstücke, Wirtschaftsgebäude, Geschäfts-, Betriebs- und Lagerräume
-sowie Transportmittel während der Geschäfts- und Betriebszeiten
-betreten, dort Besichtigungen vornehmen und geschäftliche Unterlagen
-einsehen und prüfen.
+in ihrer Begleitung befindliche Sachverständige des Bundes, der
+Mitgliedstaaten und der Europäischen Kommission dürfen im Rahmen der
+Absätze 1 und 2 Grundstücke, Wirtschaftsgebäude, Geschäfts-, Betriebs-
+und Lagerräume sowie Transportmittel während der Geschäfts- und
+Betriebszeiten betreten, dort Besichtigungen vornehmen und
+geschäftliche Unterlagen einsehen und prüfen.
 
 (5) Die von der zuständigen Behörde mit der Durchführung der
 Überwachung beauftragten Personen dürfen im Rahmen ihres Auftrages
 während der Geschäfts- und Betriebszeiten Grundstücke,
 Wirtschaftsgebäude, Geschäfts-, Betriebs- und Lagerräume sowie
 Transportmittel betreten und dort Untersuchungen durchführen. Auf
-Anforderung sind den beauftragten Personen tierische Nebenprodukte zur
-Untersuchung zu überlassen.
+Anforderung sind den beauftragten Personen tierische Nebenprodukte und
+Folgeprodukte zur Untersuchung zu überlassen.
 
 (6) Zur Verhütung dringender Gefahren für die öffentliche Sicherheit
 und Ordnung dürfen die in den Absätzen 4 und 5 genannten Personen
@@ -403,79 +481,135 @@ Maßnahmen beauftragten Personen zu unterstützen und auf deren
 Verlangen die geschäftlichen Unterlagen vorzulegen.
 
 
+## § 12a Amtshilfe, gegenseitige Unterrichtung
+
+(1) Die zuständigen Behörden
+
+1.  erteilen der zuständigen Behörde eines anderen Mitgliedstaates auf
+    begründetes Ersuchen die zur Einhaltung der Vorschriften des tierische
+    Nebenprodukte-Beseitigungsrechts in diesem Mitgliedstaat
+    erforderlichen Auskünfte und übermitteln die dafür notwendigen
+    Schriftstücke,
+
+
+2.  überprüfen die von der ersuchenden Behörde mitgeteilten Sachverhalte
+    und teilen ihr das Ergebnis der Prüfung mit.
+
+
+
+
+(2) Die zuständigen Behörden erteilen der zuständigen Behörde eines
+anderen Mitgliedstaates unter Beifügung der erforderlichen
+Schriftstücke Auskünfte, die für die Einhaltung der Vorschriften des
+tierische Nebenprodukte-Beseitigungsrechts in diesem Mitgliedstaat
+erforderlich sind, insbesondere bei Verstößen oder Verdacht auf
+Verstöße gegen Vorschriften des tierische Nebenprodukte-
+Beseitigungsrechts.
+
+(3) Die zuständigen Behörden können, soweit dies zur Einhaltung der
+Vorschriften des tierische Nebenprodukte-Beseitigungsrechts
+erforderlich oder durch Rechtsakte der Europäischen Gemeinschaft oder
+der Europäischen Union vorgeschrieben ist, Daten, die sie im Rahmen
+der Überwachung der Einhaltung der Vorschriften des tierische
+Nebenprodukte-Beseitigungsrechts gewonnen haben, den anderen
+zuständigen Behörden, den anderen Mitgliedstaaten, dem
+Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium)
+und der Europäischen Kommission mitteilen.
+
+(4) Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten
+und der Europäischen Kommission obliegt dem Bundesministerium, soweit
+in diesem Gesetz nichts anderes bestimmt ist. Es kann diese Befugnis
+durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übertragen.
+Es kann diese Befugnis durch Rechtsverordnung mit Zustimmung des
+Bundesrates auf die zuständigen obersten Landesbehörden übertragen.
+Ferner kann es im Einzelfall im Benehmen mit der zuständigen obersten
+Landesbehörde dieser die Befugnis übertragen. Die obersten
+Landesbehörden können die Befugnisse nach den Sätzen 3 und 4 auf
+andere Behörden übertragen.
+
+(5) Die Absätze 1 bis 4 gelten entsprechend für Drittländer, die
+Vertragspartei des Abkommens über den Europäischen Wirtschaftsraum
+sind.
+
+
 ## § 13 Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
-Bundesrates, soweit dies für die Umsetzung oder Durchführung der in §
-1 genannten Rechtsakte oder dieses Gesetzes erforderlich ist oder die
-in § 1 genannten Rechtsakte dies ermöglichen und Belange der
-Seuchenbekämpfung nicht entgegenstehen,
+(1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies für
+die Umsetzung oder Durchführung der in § 1 genannten Rechtsakte oder
+dieses Gesetzes erforderlich ist oder die in § 1 genannten Rechtsakte
+dies ermöglichen und Belange der Seuchenbekämpfung nicht
+entgegenstehen,
 
 1.  Vorschriften zu erlassen über
 
-    a)  die Einrichtung, den Betrieb und die Zulassung von
-        Verarbeitungsbetrieben, Verbrennungsanlagen, Mitverbrennungsanlagen,
-        Zwischenbehandlungsbetrieben, Lagerbetrieben,
-        Fettverarbeitungsbetrieben, Heimtierfutterbetrieben, technischen
-        Betrieben, Biogas- oder Kompostieranlagen, die in ihnen anzuwendenden
-        Verfahren sowie die Herstellung der Produkte und die Abgabe der
-        erzeugten Produkte,
+    a)  die Einrichtung, den Betrieb, die Registrierung nach Artikel 23 der
+        Verordnung (EG) Nr. 1069/2009 oder die Zulassung nach Artikel 24 der
+        Verordnung (EG) Nr. 1069/2009 von Unternehmen, Anlagen oder Betrieben,
+        die in ihnen anzuwendenden Verfahren sowie die Herstellung der
+        Folgeprodukte und deren Inverkehrbringen,
 
 
-    b)  die Führung, Vorlage und Aufbewahrung von Nachweisen über Meldung,
-        Herkunft, Art und Menge des angelieferten Materials sowie über Art und
-        Menge der erzeugten Produkte,
+    b)  die Anzeige, Führung, Vorlage und Aufbewahrung von Nachweisen über
+        Meldung, Herkunft, Art und Menge der angelieferten tierischen
+        Nebenprodukte sowie über Art und Menge der hergestellten
+        Folgeprodukte,
 
 
-    c)  die Verfütterung von tierischen Nebenprodukten,
+    c)  die Verfütterung von tierischen Nebenprodukten und Folgeprodukten,
 
 
     d)  die Abholung, Sammlung, Kennzeichnung, Beförderung, Lagerung,
-        Behandlung, Verarbeitung und Beseitigung tierischer Nebenprodukte,
+        Behandlung, Verarbeitung, Verwendung und Beseitigung tierischer
+        Nebenprodukte und Folgeprodukte,
 
 
     e)  die näheren Anforderungen an das Vergraben tierischer Nebenprodukte,
         insbesondere im Hinblick auf den Schutz des Naturhaushalts,
 
 
+    f)  die Mitteilung über angefallene und abgeholte tierische Nebenprodukte,
 
 
 
-2.  vorzuschreiben, dass die erzeugten Produkte nur zu bestimmten Zwecken
-    verwendet werden dürfen,
 
 
-3.  eine Genehmigungspflicht für die in Verarbeitungsbetrieben,
-    Fettverarbeitungsbetrieben, Heimtierfutterbetrieben, technischen
-    Betrieben, Biogas oder Kompostieranlagen anzuwendenden Verfahren und
-    den Nachweis der ausreichenden Wirksamkeit und Zuverlässigkeit solcher
-    Verfahren vorzuschreiben,
+2.  vorzuschreiben, dass die hergestellten Folgeprodukte nur zu bestimmten
+    Zwecken verwendet werden dürfen,
 
 
-4.  eine Genehmigungspflicht für die Verwendung von Material der Kategorie
-    1 oder 2 für Lehr- und Forschungszwecke vorzuschreiben,
+3.  eine Genehmigungspflicht für die in nach Artikel 24 der Verordnung
+    (EG) Nr. 1069/2009 zugelassenen Anlagen oder Betrieben anzuwendenden
+    Verfahren und den Nachweis der ausreichenden Wirksamkeit und
+    Zuverlässigkeit solcher Verfahren vorzuschreiben,
+
+
+4.  eine Genehmigungspflicht für die Verwendung der in § 3 Absatz 1 Satz 1
+    bezeichneten tierischen Nebenprodukte oder Folgeprodukte
+    vorzuschreiben,
 
 
 5.  das Inverkehrbringen, das innergemeinschaftliche Verbringen, die
-    Einfuhr und die Ausfuhr tierischer Nebenprodukte zu verbieten oder zu
-    beschränken, insbesondere von
+    Einfuhr und die Ausfuhr tierischer Nebenprodukte oder Folgeprodukte zu
+    verbieten oder zu beschränken, insbesondere von
 
     a)  einer Anmeldung, einer Genehmigung, vom Gestellen bei der zuständigen
         Behörde oder von einer Untersuchung,
 
 
-    b)  Anforderungen, unter denen die erzeugten Produkte hergestellt,
-        gelagert, behandelt, abgegeben oder verbracht werden,
+    b)  Anforderungen, unter denen die tierischen Nebenprodukte oder
+        Folgeprodukte hergestellt, gelagert, behandelt, abgegeben oder
+        verbracht werden,
 
 
     c)  der Einhaltung von Anforderungen an Transportmittel, mit denen die
-        erzeugten Produkte befördert werden,
+        tierischen Nebenprodukte oder Folgeprodukte befördert werden,
 
 
-    d)  der Vorlage oder Begleitung bestimmter Bescheinigungen oder
+    d)  der Vorlage oder Begleitung bestimmter Bescheinigungen oder sonstiger
+        Dokumente oder
 
 
     e)  einer bestimmten Kennzeichnung
@@ -490,13 +624,17 @@ Seuchenbekämpfung nicht entgegenstehen,
     regeln,
 
 
-7.  das Verfahren, einschließlich der Zuständigkeit, insbesondere der
-    Untersuchung, zu regeln und die hierfür notwendigen Einrichtungen und
-    ihren Betrieb vorzuschreiben,
+7.  das Verfahren der Beseitigung, die Entnahme von Proben und deren
+    Untersuchung zu regeln und die hierfür notwendigen Einrichtungen
+    vorzuschreiben,
 
 
-8.  für bestimmte tierische Nebenprodukte Ausnahmen von § 3 Abs. 1 Satz 1
-    und 2 vorzusehen.
+8.  für bestimmte tierische Nebenprodukte oder Folgeprodukte Ausnahmen von
+    § 3 Abs. 1 Satz 1 und 2 vorzusehen,
+
+
+9.  in den Fällen der Nummern 1 bis 8 das Verwaltungsverfahren
+    einschließlich der Zuständigkeiten zu regeln.
 
 
 
@@ -517,12 +655,36 @@ und ihre Geltungsdauer auf einen Zeitraum von höchstens sechs Monaten
 begrenzt wird. Ihre Geltungsdauer kann nur mit Zustimmung des
 Bundesrates verlängert werden.
 
-(3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
+(3) Das Bundesministerium wird ermächtigt, soweit es zur Vorbeugung
+vor Tierseuchen erforderlich ist, durch Rechtsverordnung mit
+Zustimmung des Bundesrates Vorschriften zu erlassen über
+
+1.  die Sachkunde nach § 10 Absatz 2 Satz 2 Nummer 1,
+
+
+2.  die Einrichtung und Ausstattung der Räumlichkeiten nach § 10 Absatz 2
+    Satz 2 Nummer 2,
+
+
+3.  das Führen und Aufbewahren von Aufzeichnungen über
+
+    a)  die Vornahme der in § 10 Absatz 1 Satz 2 genannten Handlungen und
+
+
+    b)  die in § 10 Absatz 2 Satz 2 Nummer 3 Buchstabe a genannten Ergebnisse.
+
+
+
+
+
+
+
+(4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates
 
-1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 1774/2002 in
-    diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser
-    Vorschriften erforderlich ist,
+1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 1069/2009 und
+    der Verordnung (EU) Nr. 142/2011 in diesem Gesetz zu ändern, soweit es
+    zur Anpassung an Änderungen dieser Vorschriften erforderlich ist,
 
 
 2.  Vorschriften dieses Gesetzes zu streichen oder in ihrem Wortlaut einem
@@ -535,43 +697,53 @@ Zustimmung des Bundesrates
 
 
 
+## § 13a Strafvorschriften
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer entgegen § 2a ein dort bezeichnetes tierisches
+Nebenprodukt oder Folgeprodukt abholt, sammelt, kennzeichnet,
+befördert, lagert, behandelt, verarbeitet, verwendet oder beseitigt.
+
+
 ## § 14 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer vollziehbaren Anordnung nach § 3 Abs. 3 Satz 1 oder § 12 Abs. 2
-    Satz 1 zuwiderhandelt,
+1.  einer vollziehbaren Anordnung nach § 3 Absatz 4 Satz 1 oder § 12 Abs.
+    2 Satz 1 zuwiderhandelt,
 
 
 2.  einer mit einer Genehmigung nach § 4 verbundenen vollziehbaren Auflage
     zuwiderhandelt,
 
 
-3.  entgegen § 8 Abs. 3 Satz 1 ein dort genanntes Material nicht, nicht
-    richtig oder nicht rechtzeitig herausgibt,
+3.  entgegen § 8 Abs. 3 Satz 1 ein dort genanntes tierisches Nebenprodukt
+    oder Folgeprodukt nicht, nicht richtig oder nicht rechtzeitig
+    herausgibt,
 
 
-4.  entgegen § 9 Abs. 1 ein tierisches Nebenprodukt nicht, nicht richtig
-    oder nicht rechtzeitig abliefert,
+4.  entgegen § 9 Abs. 1 ein tierisches Nebenprodukt oder Folgeprodukt
+    nicht, nicht richtig oder nicht rechtzeitig abliefert,
 
 
-5.  entgegen § 10 Satz 1 ein Material nicht, nicht richtig oder nicht für
-    die vorgeschriebene Dauer aufbewahrt,
+5.  entgegen § 10 Absatz 1 Satz 1 ein tierisches Nebenprodukt oder
+    Folgeprodukt nicht, nicht richtig oder nicht für die vorgeschriebene
+    Dauer aufbewahrt,
 
 
-6.  entgegen § 10 Satz 2 ein Tier häutet, öffnet oder zerlegt,
+6.  entgegen § 10 Absatz 1 Satz 2 ein Tier häutet, öffnet oder zerlegt,
 
 
-7.  entgegen § 10 Satz 3 ein Behältnis oder eine Örtlichkeit nicht, nicht
-    richtig oder nicht rechtzeitig reinigt oder nicht, nicht richtig oder
-    nicht rechtzeitig desinfiziert,
+7.  entgegen § 10 Absatz 1 Satz 3 ein Behältnis oder eine Örtlichkeit
+    nicht, nicht richtig oder nicht rechtzeitig reinigt oder nicht, nicht
+    richtig oder nicht rechtzeitig desinfiziert,
 
 
 8.  einer nach § 13 Abs. 1 Nr. 1 Buchstabe a, c oder d oder Nr. 2 bis 4
-    oder 5 Buchstabe a, b oder c oder Nr. 7 erlassenen Rechtsverordnung
-    oder einer vollziehbaren Anordnung auf Grund einer solchen
-    Rechtsverordnung zuwiderhandelt, soweit diese für einen bestimmten
-    Tatbestand auf diese Bußgeldvorschrift verweist, oder
+    oder 5 Buchstabe a, b oder c oder Nr. 7 oder Absatz 3 Nummer 1 oder 2
+    erlassenen Rechtsverordnung oder einer vollziehbaren Anordnung auf
+    Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit diese für
+    einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
 
 
 9.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
@@ -601,10 +773,10 @@ Zustimmung des Bundesrates
 
 
 5.  einer nach § 13 Abs. 1 Nr. 1 Buchstabe b oder e oder Nr. 5 Buchstabe d
-    oder e erlassenen Rechtsverordnung oder einer vollziehbaren Anordnung
-    auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit diese
-    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
-    oder
+    oder e oder Absatz 3 Nummer 3 erlassenen Rechtsverordnung oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit diese für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist, oder
 
 
 6.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
@@ -617,8 +789,8 @@ Zustimmung des Bundesrates
 
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer
-Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 2
-mit einer Geldbuße bis zu zwanzigtausend Euro geahndet werden.
+Geldbuße bis zu hunderttausend Euro und in den Fällen des Absatzes 2
+mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
 (4) Das Bundesministerium wird ermächtigt, soweit dies zur
 Durchsetzung der Rechtsakte der Europäischen Gemeinschaft oder der
@@ -635,111 +807,28 @@ Absätzen 1 und 2 bezieht, können eingezogen werden. § 23 des Gesetzes
 ## § 15 Begriffsbestimmungen
 
 Für die in diesem Gesetz verwendeten Begriffe gelten die
-Begriffsbestimmungen des Artikels 2 Abs. 1 und des Anhangs I der
-Verordnung (EG) Nr. 1774/2002.
+Begriffsbestimmungen des Artikels 3 der Verordnung (EG) Nr. 1069/2009
+und des Anhangs I der Verordnung (EU) Nr. 142/2011. Abweichend von
+Satz 1 wird anstelle des Begriffs Unternehmer im Sinne des Artikels 3
+Nummer 11 der Verordnung (EG) Nr. 1069/2009 der Begriff Besitzer
+verwendet.
 
 
 ## § 16 Übergangsvorschriften
 
-(1) Tierkörperbeseitigungsanstalten nach § 4 in Verbindung mit § 1
-Abs. 1 Nr. 4 des Tierkörperbeseitigungsgesetzes in der Fassung der
-Bekanntmachung vom 11. April 2001 (BGBl. I S. 523), die zum Zeitpunkt
-des Inkrafttretens dieses Gesetzes rechtmäßig betrieben werden, gelten
-als vorläufig zugelassen im Sinne des Artikels 13 der Verordnung (EG)
-Nr. 1774/2002.
+(1) Bis zum Erlass landesrechtlicher Vorschriften zur Ausführung des §
+3 Absatz 1, längstens drei Jahre nach dem 12. Februar 2017, gelten die
+nach § 3 Absatz 1 Satz 1 dieses Gesetzes in der bis zum 11. August
+2016 geltenden Fassung nach Landesrecht zuständigen Körperschaften als
+zuständige Behörde im Sinne des § 3 Absatz 1 Satz 2.
 
-(2) Die
+(2) Eine Übertragung der Beseitigungspflicht nach § 3 Absatz 2 dieses
+Gesetzes in der bis zum 11. August 2016 geltenden Fassung gilt als
+Übertragung nach § 3 Absatz 3 dieses Gesetzes fort.
 
-1.  in § 6 Abs. 2 Nr. 2 des Tierkörperbeseitigungsgesetzes in der Fassung
-    der Bekanntmachung vom 11. April 2001 (BGBl. I S. 523) genannten
-    Betriebe,
-
-
-2.  in § 8 Abs. 2 Nr. 2 des Tierkörperbeseitigungsgesetzes in der Fassung
-    der Bekanntmachung vom 11. April 2001 (BGBl. I S. 523) genannten
-    Anlagen,
-
-
-3.  nach der Futtermittelherstellungs-Verordnung vom 27. Mai 1993 (BGBl. I
-    S. 737), zuletzt geändert durch Artikel 366 der Verordnung vom 29.
-    Oktober 2001 (BGBl. I S. 2785), zugelassenen Betriebe,
-
-
-
-die zum Zeitpunkt des Inkrafttretens dieses Gesetzes rechtmäßig
-betrieben werden, gelten als vorläufig zugelassen im Sinne der Artikel
-14, 17 und 18 der Verordnung (EG) Nr. 1774/2002.
-
-(3) Die vorläufige Zulassung der in den Absätzen 1 und 2 genannten
-Betriebe und Anlagen erlischt, wenn nicht sechs Monate nach
-Inkrafttreten dieses Gesetzes die Erteilung der endgültigen Zulassung
-nach der Verordnung (EG) Nr. 1774/2002 beantragt wird oder, im Falle
-rechtzeitiger Antragstellung, mit Eintritt der Unanfechtbarkeit der
-Entscheidung über den Antrag.
-
-(4) Kompostieranlagen nach Nummer 8.5 und Biogasanlagen nach Nummer
-8\.6 des Anhangs der Verordnung über genehmigungsbedürftige Anlagen in
-der Fassung der Bekanntmachung vom 14. März 1997 (BGBl. I S. 504), die
-zuletzt durch Artikel 3 der Verordnung vom 14. August 2003 (BGBl. I S.
-1614) geändert worden ist, oder Kompostieranlagen und Biogasanlagen
-mit Genehmigung nach Baurecht, die zum Zeitpunkt des Inkrafttretens
-dieses Gesetzes rechtmäßig betrieben werden, gelten als vorläufig
-zugelassen im Sinne des Artikels 15 der Verordnung (EG) Nr. 1774/2002.
-Die vorläufige Zulassung erlischt, wenn nicht sechs Monate nach
-Inkrafttreten dieses Gesetzes
-
-1.  die Erteilung der endgültigen Zulassung nach Artikel 15 der Verordnung
-    (EG) Nr. 1774/2002 oder
-
-
-2.  die Erteilung der befristeten Zulassung bis zum 31. Dezember 2004 nach
-    Artikel 15 der Verordnung (EG) Nr. 1774/2002 in Verbindung mit der
-    Verordnung (EG) Nr. 809/2003 der Kommission vom 12. Mai 2003
-    betreffend Übergangsmaßnahmen gemäß der Verordnung (EG) Nr. 1774/2002
-    des Europäischen Parlaments und des Rates hinsichtlich der
-    Verarbeitungsstandards für Material der Kategorie 3 und Gülle,die in
-    Kompostieranlagen verwendet werden (ABl. EU Nr. L 117 S. 10), oder der
-    Verordnung (EG) Nr. 810/2003 der Kommission vom 12. Mai 2003
-    betreffend Übergangsmaßnahmen gemäß der Verordnung (EG) Nr. 1774/2002
-    des Europäischen Parlaments und des Rates hinsichtlich der
-    Verarbeitungsstandards für Material der Kategorie 3 und Gülle, die in
-    Biogasanlagen verwendet werden (ABl. EU Nr. L 117 S. 12),
-
-
-
-
-beantragt wird oder, im Falle rechtzeitiger Antragstellung, mit
-Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag. Für
-Kompostieranlagen und Biogasanlagen, die über eine befristete
-Zulassung nach Satz 2 Nr. 2 verfügen, erlischt diese Zulassung am 1.
-Januar 2005, wenn nicht bis zum 1. Oktober 2004 die Erteilung der
-endgültigen Zulassung nach Artikel 15 der Verordnung (EG) Nr.
-1774/2002 beantragt wird, oder, im Falle rechtzeitiger Antragstellung,
-mit Eintritt der Unanfechtbarkeit der Entscheidung über den Antrag.
-
-(5) Bis zum Erlass landesrechtlicher Vorschriften zur Ausführung des §
-3 Abs. 1, längstens bis zum 1. Januar 2005, gelten die nach § 4 Abs. 1
-des Tierkörperbeseitigungsgesetzes in der bis zum 28. Januar 2004
-geltenden Fassung nach Landesrecht bestimmten Körperschaften als
-Beseitigungspflichtige.
-
-(6) Bis zum Erlass landesrechtlicher Vorschriften nach § 6, längstens
-bis zum 1. Januar 2005, gelten die nach § 15 Abs. 1 des
-Tierkörperbeseitigungsgesetzes in der bis zum 28. Januar 2004
-geltenden Fassung nach Landesrecht bestimmten Einzugsbereiche als
-Einzugsbereiche im Sinne dieses Gesetzes.
-
-(7) Eine Übertragung der Beseitigungspflicht nach § 4 Abs. 2 des
-Tierkörperbeseitigungsgesetzes in der bis zum 28. Januar 2004
-geltenden Fassung gilt als Übertragung nach § 3 Abs. 2 dieses Gesetzes
-fort.
-
-(8) Bis zum Erlass landesrechtlicher Vorschriften nach § 11 Abs. 1 bis
-3, längstens bis zum 1. Januar 2005, gelten für Entgelte und Kosten
-(Gebühren und Auslagen) die nach § 16 Abs. 1 des
-Tierkörperbeseitigungsgesetzes in der bis zum 28. Januar 2004
-geltenden Fassung erlassenen landesrechtlichen Vorschriften über
-Entgelte und Kosten fort.
+(3) Ein nach § 6 dieses Gesetzes in der bis zum 11. August 2016
+geltenden Fassung nach landesrechtlichen Vorschriften bestimmter
+Einzugsbereich gilt als Einzugsbereich im Sinne dieses Gesetzes.
 
 
 ## § 17 Bekanntmachungen

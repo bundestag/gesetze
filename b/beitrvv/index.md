@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1138
 
 Zuletzt geändert durch
-:   Art. 9 G v. 5.12.2012 I 2474
+:   Art. 2 V v. 7.12.2017 I 3906
 
 
 ## Eingangsformel
@@ -143,15 +143,18 @@ entsprechenden Sachbuchkonto der Pflegekasse zu buchen.
 ### § 4 Reihenfolge der Tilgung
 
 Schuldet der Arbeitgeber oder ein sonstiger Zahlungspflichtiger
-Auslagen der Einzugsstelle, Gebühren,
-Gesamtsozialversicherungsbeiträge, Säumniszuschläge, Zinsen, Geldbußen
-oder Zwangsgelder, kann er bei der Zahlung bestimmen, welche Schuld
-getilgt werden soll; der Arbeitgeber kann hinsichtlich der Beiträge
-bestimmen, dass vorrangig die Arbeitnehmeranteile getilgt werden
-sollen. Trifft der Arbeitgeber keine Bestimmung, werden die Schulden
-in der genannten Reihenfolge getilgt. Innerhalb der gleichen
-Schuldenart werden die einzelnen Schulden nach ihrer Fälligkeit, bei
-gleichzeitiger Fälligkeit anteilmäßig getilgt.
+Auslagen der Einzugsstelle, Gebühren, insbesondere Mahn- und
+Vollstreckungsgebühren sowie wie Gebühren zu behandelnde Entgelte für
+Rücklastschriften, Gesamtsozialversicherungsbeiträge zuzüglich der
+Zusatzbeiträge nach § 242 des Fünften Buches Sozialgesetzbuch,
+Säumniszuschläge, Zinsen, Geldbußen oder Zwangsgelder, kann er bei der
+Zahlung bestimmen, welche Schuld getilgt werden soll; der Arbeitgeber
+kann hinsichtlich der Beiträge bestimmen, dass vorrangig die
+Arbeitnehmeranteile getilgt werden sollen. Trifft der Arbeitgeber
+keine Bestimmung, werden die Schulden in der genannten Reihenfolge
+getilgt. Innerhalb der gleichen Schuldenart werden die einzelnen
+Schulden nach ihrer Fälligkeit, bei gleichzeitiger Fälligkeit
+anteilmäßig getilgt.
 
 
 ## Dritter Abschnitt - Weiterleitung und Abrechnung durch die Einzugsstelle
@@ -264,18 +267,21 @@ Prüfung entstehen, werden nicht erstattet.
 
 (3) (weggefallen)
 
-(4) Das Ergebnis der Prüfung ist dem Arbeitgeber schriftlich
-mitzuteilen; die Mitteilung soll innerhalb von zwei Monaten nach
-Abschluss der Prüfung dem Arbeitgeber zugehen. Die Mitteilung ist vom
-Arbeitgeber bis zur nächsten Prüfung aufzubewahren. In den Fällen des
-§ 28p Abs. 1a Satz 4 des Vierten Buches Sozialgesetzbuch sind der
-Künstlersozialkasse die Prüfberichte und Prüfbescheide zu übersenden.
-Für das Ergebnis der Prüfung nach § 166 Abs. 2 des Siebten Buches
-gelten die Sätze 1 und 2 entsprechend. Die Feststellungen zu den
-Arbeitsentgelten, die bei der Berechnung der Beiträge nach dem Siebten
-Buch Sozialgesetzbuch zu berücksichtigen sind, und deren Zuordnung zu
-den Gefahrtarifstellen sind den zuständigen Unfallversicherungsträgern
-zu übersenden.
+(4) Das Ergebnis der Prüfung ist dem Arbeitgeber innerhalb von zwei
+Monaten nach Abschluss der Prüfung mitzuteilen; auf Wunsch des
+Arbeitgebers kann dies durch Datenübertragung erfolgen. Der
+Arbeitgeber soll durch den Prüfbescheid oder das Abschlussgespräch zur
+Prüfung Hinweise zu den festgestellten Sachverhalten erhalten, um in
+den weiteren Verfahren fehlerhafte Angaben zu vermeiden. Die
+Mitteilung ist vom Arbeitgeber bis zur nächsten Prüfung aufzubewahren.
+In den Fällen des § 28p Abs. 1a Satz 6 des Vierten Buches
+Sozialgesetzbuch sind der Künstlersozialkasse die Prüfberichte und
+Prüfbescheide zu übersenden. Für das Ergebnis der Prüfung nach § 166
+Abs. 2 des Siebten Buches gelten die Sätze 1 bis 3 entsprechend. Die
+Feststellungen zu den Arbeitsentgelten, die bei der Berechnung der
+Beiträge nach dem Siebten Buch Sozialgesetzbuch zu berücksichtigen
+sind, und deren Zuordnung zu den Gefahrtarifstellen sind den
+zuständigen Unfallversicherungsträgern zu übersenden.
 
 
 ### § 8 Entgeltunterlagen
@@ -328,6 +334,10 @@ den Beschäftigten aufzunehmen:
     der Rentenversicherung, seine Zusammensetzung und zeitliche Zuordnung,
 
 
+11a. das in der Unfallversicherung beitragspflichtige Arbeitsentgelt, die
+    anzuwendende Gefahrtarifstelle und die jeweilige zeitliche Zuordnung,
+
+
 12. den Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des
     Altersteilzeitgesetzes,
 
@@ -350,7 +360,12 @@ den Beschäftigten aufzunehmen:
 
 
 18. gezahltes Kurzarbeitergeld und die hierauf entfallenden
-    beitragspflichtigen Einnahmen.
+    beitragspflichtigen Einnahmen,
+
+
+19. Wertguthaben aus flexibler Arbeitszeit bis zum 31. Dezember 2009, für
+    die noch Beiträge zur gesetzlichen Unfallversicherung zu entrichten
+    sind.
 
 
 
@@ -401,7 +416,8 @@ werden.
     Sozialgesetzbuch Anwendung finden soll,
 
 
-6.  die Niederschrift nach § 2 des Nachweisgesetzes,
+6.  die Niederschrift nach § 2 des Nachweisgesetzes sowie für
+    Seefahrtbetriebe der Heuervertrag nach § 28 des Seearbeitsgesetzes,
 
 
 7.  die Erklärung des kurzfristig geringfügigen Beschäftigten über weitere
@@ -436,7 +452,36 @@ werden.
 
 
 13. die Aufzeichnungen nach § 19 Absatz 1 des Arbeitnehmer-
-    Entsendegesetzes.
+    Entsendegesetzes und nach § 17 Absatz 1 des Mindestlohngesetzes,
+
+
+14. die Bescheinigung nach § 44a Absatz 5 des Elften Buches
+    Sozialgesetzbuch, wenn die Beschäftigung wegen Bezugs von
+    Pflegeunterstützungsgeld unterbrochen wird,
+
+
+15. die Erklärung des oder der Beschäftigten zur Inanspruchnahme einer
+    Pflegezeit im Sinne des § 3 des Pflegezeitgesetzes,
+
+
+16. für Seefahrtbetriebe die Besatzungslisten sowie Seetagebücher nach §
+    22 des Seearbeitsgesetzes, für Binnenschiffe die Schiffsatteste und
+    für Schiffe der Rheinschifffahrt die
+    Rheinschifffahrtszugehörigkeitsurkunde,
+
+
+17. Veranlagungs-, Änderungs- und Nachtragsbescheide der Träger der
+    gesetzlichen Unfallversicherung,
+
+
+18. die Daten der übermittelten Bescheinigungen nach § 106 des Vierten
+    Buches Sozialgesetzbuch,
+
+
+19. die schriftliche Erklärung des Verzichts auf die Versicherungsfreiheit
+    nach § 5 Absatz 4 Satz 2 oder § 230 Absatz 9 Satz 2 des Sechsten
+    Buches Sozialgesetzbuch, auf der der Tag des Eingangs beim Arbeitgeber
+    dokumentiert ist.
 
 
 
@@ -456,6 +501,10 @@ lesbar zur Verfügung zu stellen:
 
 2.  dem beitragspflichtigen Arbeitsentgelt bis zur
     Beitragsbemessungsgrenze der Rentenversicherung,
+
+
+2a. das in der gesetzlichen Unfallversicherung beitragspflichtige
+    Arbeitsentgelt,
 
 
 3.  dem Betrag nach § 3 Abs. 1 Nr. 1 Buchstabe b des
@@ -514,7 +563,13 @@ aufzunehmen.
 geführt werden. § 8 gilt entsprechend. Werden Entgeltunterlagen auf
 Datenträgern geführt, sind die Daten in der Aufbewahrungsfrist
 jederzeit verfügbar und unverzüglich lesbar vorzuhalten. § 147 Abs. 5
-und 6 der Abgabenordnung gilt entsprechend.
+und 6 der Abgabenordnung gilt entsprechend. Überführt der Arbeitgeber
+schriftliche Entgeltunterlagen mit Unterschriftserfordernis in
+elektronische Form, hat er diese mit einer fortgeschrittenen Signatur
+des Arbeitgebers zu versehen. Das ihm im Meldeverfahren nach dem
+Vierten Buch Sozialgesetzbuch ausgestellte Zertifikat kann dafür
+verwendet werden. Nach vollständiger Übernahme in elektronischer Form
+können die schriftlichen Entgeltunterlagen vernichtet werden.
 
 
 ### § 10 Mitwirkung
@@ -566,20 +621,7 @@ Abrechnungsverfahrens vollständig ersichtlich sein, insbesondere
 vermerken, dass die zeitliche Abgrenzung einzelner Verfahrensversionen
 ersichtlich ist.
 
-(5) Bei der Prüfung von Programmen hat der Arbeitgeber die
-erforderlichen Testaufgaben auszuführen und das Testergebnis den
-Prüfern zu übergeben. Bei der Prüfung durch Testaufgaben sind nur
-gemeinsame Testaufgaben zu verwenden. Der Arbeitgeber kann eine
-Änderung der Testaufgaben verlangen, soweit dies durch betriebliche
-Gegebenheiten begründet ist. Eine Dokumentation der Programmprüfung
-ist bis zur nächsten Prüfung aufzubewahren und zur Prüfung vorzulegen.
-Verfahren oder Verfahrensteile, die bereits geprüft, nicht beanstandet
-und später nicht geändert worden sind, sind nicht erneut zu prüfen.
-Bei bereits geprüften Verfahren oder Verfahrensteilen, die später
-geändert worden sind, kann die Prüfung auf Änderungen beschränkt
-werden. Weist der Arbeitgeber nach, dass die Testaufgaben im Rahmen
-einer Systemprüfung bereits erfolgreich geprüft wurden, ist auf eine
-Prüfung beim Arbeitgeber zu verzichten.
+(5) (weggefallen)
 
 (6) Der Arbeitgeber hat unverzüglich die bei der Prüfung
 festgestellten Mängel zu beheben und Vorkehrungen zu treffen, dass die
@@ -611,11 +653,10 @@ Sozialgesetzbuch genannten Stellen gelten die §§ 7 bis 11, soweit sie
 solche Aufgaben vom Arbeitgeber übernommen haben, entsprechend.
 Beendet der Arbeitgeber die Beauftragung einer Stelle nach Satz 1
 während der Prüfung, bleibt das Recht auf Prüfung für den zu prüfenden
-Zeitraum bestehen. Das Ergebnis der Prüfung ist auch dem Arbeitgeber
-schriftlich mitzuteilen; die Mitteilung soll innerhalb von zwei
-Monaten nach Abschluss der Prüfung dem Arbeitgeber zugehen. Das Recht
-auf Prüfung beim Arbeitgeber oder in den Räumen des
-Versicherungsträgers bleibt unberührt.
+Zeitraum bestehen. Für die Übermittlung des Prüfberichtes an eine in
+Satz 1 genannte Stelle und an den Arbeitgeber gilt § 7 Absatz 4 Satz 1
+bis 3 entsprechend. Das Recht auf Prüfung beim Arbeitgeber oder in den
+Räumen des Versicherungsträgers bleibt unberührt.
 
 
 ### § 13 Prüfung in den Räumen des Versicherungsträgers
@@ -638,21 +679,21 @@ Künstlersozialversicherungsgesetzes gelten ergänzend. Den Zeitpunkt
 der Prüfung bestimmt der Versicherungsträger.
 
 
-## Fünfter Abschnitt - Datei der Arbeitgeber
+## Fünfter Abschnitt - Dateisystem der Arbeitgeber
 
 
 
-### § 14 Inhalt der Datei
+### § 14 Inhalt des Dateisystems
 
-(1) Die bei der Deutschen Rentenversicherung Bund maschinell geführte
-Datei (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch)
+(1) Das bei der Deutschen Rentenversicherung Bund maschinell geführte
+Dateisystem (§ 28p Abs. 8 Satz 1 des Vierten Buches Sozialgesetzbuch)
 enthält über jeden der Beitragsüberwachung unterliegenden Arbeitgeber
 die für die Übersichten nach § 28p Abs. 7 des Vierten Buches
 Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
 
 1.  die Betriebsnummern und Gemeindeschlüssel der zu prüfenden Stellen
-    (Betriebsstätten des Arbeitgebers sowie andere Stellen, auf die sich
-    die Prüfung nach § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch
+    (Beschäftigungsbetriebe des Arbeitgebers sowie andere Stellen, auf die
+    sich die Prüfung nach § 28p Abs. 6 des Vierten Buches Sozialgesetzbuch
     erstreckt),
 
 
@@ -713,7 +754,7 @@ Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
     Prüfzeitraum abzuführen waren,
 
 
-14. den Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 und Abs. 1a Satz 3
+14. den Inhalt der Bescheide nach § 28p Abs. 1 Satz 5 und Absatz 1a Satz 5
     des Vierten Buches Sozialgesetzbuch und der Mitteilung an den
     Unfallversicherungsträger über die Prüfung nach § 166 Abs. 2 des
     Siebten Buches Sozialgesetzbuch,
@@ -763,21 +804,31 @@ Sozialgesetzbuch erforderlichen Daten sowie folgende Angaben:
 
 20. die Angabe, ob der Arbeitgeber hinsichtlich der Melde- und
     Abgabepflicht nach dem Künstlersozialversicherungsgesetz zu prüfen
-    ist, sowie die Kennzeichnung des Verfahrensstandes.
+    ist, sowie Informationen zum Verfahrensstand hinsichtlich der Melde-
+    und Abgabepflicht nach dem Künstlersozialversicherungsgesetz,
+
+
+21. die Angabe, dass der Arbeitgeber die Bestätigung nach § 28p Absatz 1b
+    Satz 5 des Vierten Buches Sozialgesetzbuch abgegeben hat,
+
+
+22. die Bußgeldbescheide, die nach § 111 Absatz 1 Nummer 2, 3 bis 3b und
+    8, nach § 111 Absatz 2 des Vierten Buches Sozialgesetzbuch und nach §
+    98 Absatz 5 des Zehnten Buches Sozialgesetzbuch erlassen wurden.
 
 
 
 
 (2) Die Angaben nach Absatz 1 dürfen nur von dem zuständigen Träger
-der Rentenversicherung und der Datenstelle der Träger der
-Rentenversicherung und für Abfragen nach § 28q Abs. 5 Satz 2 des
-Vierten Buches Sozialgesetzbuch verarbeitet und genutzt werden.
+der Rentenversicherung und der Datenstelle der Rentenversicherung und
+für Abfragen nach § 28q Abs. 5 Satz 2 des Vierten Buches
+Sozialgesetzbuch verarbeitet werden.
 
 (3) Die Angaben nach Absatz 1 Nr. 1 und 2 und der Inhalt der Bescheide
 nach § 28p Abs. 1 Satz 5 des Vierten Buches Sozialgesetzbuch, soweit
 dieser nach Einzugsstellen gegliedert ist, dürfen für die Prüfungen
 nach § 28q Abs. 1 Satz 1 und 2 des Vierten Buches Sozialgesetzbuch
-verarbeitet und genutzt werden.
+verarbeitet werden.
 
 
 ## Sechster Abschnitt - Schlussvorschriften

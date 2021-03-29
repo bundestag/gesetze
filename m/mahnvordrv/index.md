@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 693
 
-Stand: Zuletzt geändert Art. 8 Abs. 4 G v. 29.7.2009 I 2355
+Stand: Zuletzt geändert Art. 4 G v. 11.3.2016 I 396
 
 ## Eingangsformel
 
@@ -157,16 +157,16 @@ behoben ist.
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
-Forderungen aus einem Vertrag gemäß den §§ 491 bis 509 des
+Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
 Bürgerlichen Gesetzbuchs geltend, so hat der Unternehmer oder der
 Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in
 Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§
 690 Abs. 1 Nr. 3 der Zivilprozessordnung):
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs vom .... Effektiver Jahreszins ... %".
 In den Fällen des § 504 des Bürgerlichen Gesetzbuchs genügt die
 Angabe:
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs".
 
 (2) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar

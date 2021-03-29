@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 705
 
 Zuletzt geändert durch
-:   Art. 14 G v. 22.12.2011 I 3057
+:   Art. 153 G v. 29.3.2017 I 626
 
 
 ## Erster Teil - Sozialversicherung der selbständigen Künstler und Publizisten
@@ -120,8 +120,13 @@ versicherungsfrei, wer
     Landwirte ist,
 
 
-5.  eine Vollrente wegen Alters aus der gesetzlichen Rentenversicherung
-    bezieht,
+5.  nach Ablauf des Monats, in dem die Regelaltersgrenze erreicht wurde,
+    eine Vollrente wegen Alters aus der gesetzlichen Rentenversicherung
+    bezieht; das gilt nicht, wenn durch schriftliche Erklärung gegenüber
+    der Künstlersozialkasse auf die Versicherungsfreiheit verzichtet wird;
+    der Verzicht kann nur mit Wirkung für die Zukunft erklärt werden und
+    ist für die Dauer der selbständigen künstlerischen oder
+    publizistischen Tätigkeit bindend,
 
 
 6.  als ehemaliger Landwirt eine Altersrente oder nach Vollendung des 60.
@@ -331,13 +336,12 @@ Versicherungspflicht befreit und freiwillig in der gesetzlichen
 Krankenversicherung versichert sind, erhalten auf Antrag von der
 Künstlersozialkasse als vorläufigen Beitragszuschuß die Hälfte des
 Beitrages, der im Falle der Versicherungspflicht für einen Künstler
-oder Publizisten bei Anwendung des um 0,9 Beitragssatzpunkte
-verminderten allgemeinen Beitragssatzes der gesetzlichen
-Krankenversicherung, zu zahlen wäre, höchstens jedoch die Hälfte des
-Betrages, den sie tatsächlich zu zahlen haben. Für Künstler und
-Publizisten, die im Falle einer Versicherungspflicht keinen Anspruch
-auf Krankengeld hätten, ist bei der Berechnung des Zuschusses nach
-Satz 1 anstelle des allgemeinen Beitragssatzes der ermäßigte
+oder Publizisten bei Anwendung des allgemeinen Beitragssatzes der
+gesetzlichen Krankenversicherung, zu zahlen wäre, höchstens jedoch die
+Hälfte des Betrages, den sie tatsächlich zu zahlen haben. Für Künstler
+und Publizisten, die im Falle einer Versicherungspflicht keinen
+Anspruch auf Krankengeld hätten, ist bei der Berechnung des Zuschusses
+nach Satz 1 anstelle des allgemeinen Beitragssatzes der ermäßigte
 Beitragssatz der gesetzlichen Krankenversicherung (§ 243 des Fünften
 Buches Sozialgesetzbuch) zugrunde zu legen. Der Anspruch beginnt mit
 dem auf den Antrag folgenden Kalendermonat. Bei Zuschussberechtigten,
@@ -362,23 +366,22 @@ gesetzlichen Krankenversicherung versichert wären, Vertragsleistungen
 beanspruchen können, die der Art nach den Leistungen der gesetzlichen
 Krankenversicherung bei Krankheit entsprechen. Der Zuschuss beträgt
 die Hälfte des Beitrages, den die Künstlersozialkasse bei
-Versicherungspflicht unter Zugrundelegung des um 0,9
-Beitragssatzpunkte verminderten allgemeinen Beitragssatzes der
-gesetzlichen Krankenversicherung zu zahlen hätte, höchstens jedoch die
-Hälfte des Betrages, den der Künstler oder Publizist für seine private
-Krankenversicherung zu zahlen hat; für Zeiten, für die bei
-Versicherungspflicht Arbeitseinkommen nicht zugrunde gelegt wird (§
-234 Abs. 1 Satz 3 des Fünften Buches Sozialgesetzbuch), wird ein
-Beitragszuschuss nicht gezahlt. Für Künstler und Publizisten, die bei
-Mitgliedschaft in einer Krankenkasse keinen Anspruch auf Krankengeld
-hätten, ist bei der Berechnung des Zuschusses anstelle des allgemeinen
-Beitragssatzes der ermäßigte Beitragssatz der gesetzlichen
-Krankenversicherung (§ 243 des Fünften Buches Sozialgesetzbuch)
-zugrunde zu legen. Bei einer Befreiung nach § 6 beginnt der Anspruch
-mit dem Kalendermonat, in dem die Meldung nach § 11 Abs. 1 eingeht.
-Bei einer Befreiung nach § 7 gilt Absatz 1 Satz 2. Absatz 1 Satz 3 und
-4 gilt. § 257 Abs. 2a des Fünften Buches Sozialgesetzbuch gilt
-entsprechend.
+Versicherungspflicht unter Zugrundelegung des allgemeinen
+Beitragssatzes der gesetzlichen Krankenversicherung zu zahlen hätte,
+höchstens jedoch die Hälfte des Betrages, den der Künstler oder
+Publizist für seine private Krankenversicherung zu zahlen hat; für
+Zeiten, für die bei Versicherungspflicht Arbeitseinkommen nicht
+zugrunde gelegt wird (§ 234 Abs. 1 Satz 3 des Fünften Buches
+Sozialgesetzbuch), wird ein Beitragszuschuss nicht gezahlt. Für
+Künstler und Publizisten, die bei Mitgliedschaft in einer Krankenkasse
+keinen Anspruch auf Krankengeld hätten, ist bei der Berechnung des
+Zuschusses anstelle des allgemeinen Beitragssatzes der ermäßigte
+Beitragssatz der gesetzlichen Krankenversicherung (§ 243 des Fünften
+Buches Sozialgesetzbuch) zugrunde zu legen. Bei einer Befreiung nach §
+6 beginnt der Anspruch mit dem Kalendermonat, in dem die Meldung nach
+§ 11 Abs. 1 eingeht. Bei einer Befreiung nach § 7 gilt Absatz 1 Satz
+2\. Absatz 1 Satz 4 und 5 gilt. § 257 Abs. 2a des Fünften Buches
+Sozialgesetzbuch gilt entsprechend.
 
 
 #### § 10a
@@ -445,10 +448,10 @@ Künstlersozialkasse nach diesem Gesetz erforderlich sind.
 
 (4) Der nach Absatz 1 Meldepflichtige hat in dem Anmeldevordruck der
 Künstlersozialkasse die ihm von einem Träger der Rentenversicherung
-oder der Datenstelle der Träger der Rentenversicherung zugeteilte
+oder der Datenstelle der Rentenversicherung zugeteilte
 Versicherungsnummer einzutragen. Ist eine Versicherungsnummer nicht
-zugeteilt worden, ist sie von der Datenstelle der Träger der
-Rentenversicherung über die Künstlersozialkasse zu vergeben.
+zugeteilt worden, ist sie von der Datenstelle der Rentenversicherung
+über die Künstlersozialkasse zu vergeben.
 
 
 #### § 12
@@ -503,6 +506,10 @@ verlangen. Die Erhebung dieser Angaben erfolgt durch eine wechselnde
 jährliche Stichprobe.
 
 
+### Viertes Kapitel - Aufbringung der Mittel
+
+
+
 #### Erster Abschnitt - Grundsatz
 
 
@@ -538,17 +545,17 @@ folgenden Monats fällig.
 (1) Der Versicherte hat an die Künstlersozialkasse als Beitragsanteil
 zur gesetzlichen Krankenversicherung die Hälfte des Beitrages gemäß
 dem allgemeinen Beitragssatz der gesetzlichen Krankenversicherung
-zuzüglich 0,45 Beitragssatzpunkte zu zahlen; die §§ 223, 234 Absatz 1,
-die §§ 241, 242 Absatz 6 und § 242b Absatz 1 bis 3, 7 und 8 des
-Fünften Buches Sozialgesetzbuch finden Anwendung. Hat der Versicherte
-keinen Anspruch auf Krankengeld, ist bei der Berechnung des Beitrages
-anstelle des allgemeinen Beitragssatzes der ermäßigte Beitragssatz der
-gesetzlichen Krankenversicherung (§ 243 des Fünften Buches
-Sozialgesetzbuch) zugrunde zu legen. Der Beitragsanteil für einen
-Kalendermonat wird am Fünften des folgenden Monats fällig. Hat der
-Versicherte einen Tarif nach § 53 des Fünften Buches Sozialgesetzbuch
-gewählt, so hat er daraus resultierende Prämienzahlungen an die
-Krankenkasse zu leisten.
+zuzüglich des Zusatzbeitrages nach § 242 Absatz 1 des Fünftes Buch
+Sozialgesetzbuch zu zahlen; die § 220 Absatz 1 Satz 1, die §§ 223, 234
+Absatz 1, die §§ 241 und 242 des Fünften Buches Sozialgesetzbuch
+finden Anwendung. Hat der Versicherte keinen Anspruch auf Krankengeld,
+ist bei der Berechnung des Beitrages anstelle des allgemeinen
+Beitragssatzes der ermäßigte Beitragssatz der gesetzlichen
+Krankenversicherung (§ 243 des Fünften Buches Sozialgesetzbuch)
+zugrunde zu legen. Der Beitragsanteil für einen Kalendermonat wird am
+Fünften des folgenden Monats fällig. Hat der Versicherte einen Tarif
+nach § 53 des Fünften Buches Sozialgesetzbuch gewählt, so hat er
+daraus resultierende Prämienzahlungen an die Krankenkasse zu leisten.
 
 (2) Ist der Versicherte mit einem Betrag in Höhe von Beitragsanteilen
 für zwei Monate im Rückstand, hat ihn die Künstlersozialkasse zu
@@ -573,7 +580,7 @@ Ende des Ruhens zu unterrichten.
 zur sozialen Pflegeversicherung für den Kalendermonat die Hälfte des
 sich aus § 55 Abs. 1 und 2 und § 57 Abs. 1 des Elften Buches
 Sozialgesetzbuch ergebenden Beitrages zu zahlen. Der Beitragsanteil
-erhöht sich um den Beitragszuschlag, der sich aus § 57 Abs. 3 des
+erhöht sich um den Beitragszuschlag, der sich aus § 55 Abs. 3 des
 Elften Buches Sozialgesetzbuch ergibt. Der Beitragsanteil für einen
 Kalendermonat wird am Fünften des Folgemonats fällig.
 
@@ -739,7 +746,11 @@ werden, liegt eine nur gelegentliche Erteilung von Aufträgen im Sinne
 des Satzes 1 vor. Satz 1 gilt nicht für Musikvereine, soweit für sie
 Chorleiter oder Dirigenten regelmäßig tätig sind.
 
-(3) (weggefallen)
+(3) Aufträge werden nur gelegentlich an selbständige Künstler oder
+Publizisten im Sinne von Absatz 1 Satz 2 oder Absatz 2 Satz 1 erteilt,
+wenn die Summe der Entgelte nach § 25 aus den in einem Kalenderjahr
+nach Absatz 1 Satz 2 oder Absatz 2 Satz 1 erteilten Aufträgen 450 Euro
+nicht übersteigt. Absatz 2 Satz 2 bleibt unberührt.
 
 
 ##### Zweiter Unterabschnitt - Bestimmungsgrößen
@@ -871,8 +882,8 @@ sind.
 
 (1a) Die Künstlersozialkasse teilt dem zur Abgabe Verpflichteten den
 von ihm zu zahlenden Betrag der Künstlersozialabgabe und die zu
-leistende Vorauszahlung schriftlich mit, es sei denn, diese
-Verwaltungsakte werden von den Trägern der Deutschen
+leistende Vorauszahlung schriftlich oder elektronisch mit, es sei
+denn, diese Verwaltungsakte werden von den Trägern der Deutschen
 Rentenversicherung im Rahmen ihrer Prüfung bei den Arbeitgebern nach §
 28p des Vierten Buches Sozialgesetzbuch erlassen. Der Abgabebescheid
 wird mit Wirkung für die Vergangenheit zu Ungunsten des zur Abgabe
@@ -963,27 +974,36 @@ des Vierten Buches Sozialgesetzbuch entsprechend.
 
 ###### § 32
 
-(1) Mit Zustimmung der Künstlersozialkasse können nach § 24 zur Abgabe
-Verpflichtete eine Ausgleichsvereinigung bilden, die ihre der
-Künstlersozialkasse gegenüber obliegenden Pflichten erfüllt,
-insbesondere mit befreiender Wirkung die Künstlersozialabgabe und die
-Vorauszahlungen entrichten kann. Die Künstlersozialkasse kann
-vertraglich mit einer Ausgleichsvereinigung abweichend von diesem
-Gesetz die Ermittlung der Entgelte im Sinne des § 25 unter
-Zugrundelegung von anderen für ihre Höhe maßgebenden Berechnungsgrößen
-und die Berücksichtigung von Verwaltungskosten der
-Ausgleichsvereinigung regeln. Der Vertrag bedarf der Zustimmung des
-Bundesversicherungsamtes.
+(1) Die Künstlersozialkasse kann vertraglich mit einem Vertreter
+mehrerer Unternehmer die Bildung einer Ausgleichsvereinigung
+vereinbaren. Die Ausgleichsvereinigung erfüllt der Künstlersozialkasse
+gegenüber die den Unternehmern obliegenden Pflichten, insbesondere
+entrichtet sie mit befreiender Wirkung die Künstlersozialabgabe und
+die Vorauszahlungen. Die Künstlersozialkasse regelt mit einer
+Ausgleichsvereinigung abweichend von diesem Gesetz die Ermittlung der
+Entgelte im Sinne des § 25 unter Zugrundelegung von anderen für ihre
+Höhe maßgebenden Berechnungsgrößen. In der Vereinbarung kann das
+Melde- und Abgabeverfahren abweichend von § 27 geregelt werden; die
+Pflicht zu Vorauszahlungen bleibt davon unberührt. Die
+Künstlersozialkasse kann die Berücksichtigung von Verwaltungskosten
+der Ausgleichsvereinigung vertraglich regeln. Die Verträge bedürfen
+der Zustimmung des Bundesversicherungsamtes.
 
-(2) Die Aufzeichnungspflicht nach § 28 und Prüfungen aufgrund des § 35
-entfallen für die Jahre, für die Pflichten des zur Abgabe
-Verpflichteten durch die Ausgleichsvereinigung erfüllt werden. Im
-Übrigen bleiben die Rechte und Pflichten des zur Abgabe Verpflichteten
-gegenüber der Künstlersozialkasse unberührt.
+(2) Die Künstlersozialkasse überprüft regelmäßig die abweichenden
+Berechnungsgrößen nach Absatz 1 Satz 3. Im Rahmen der Überprüfung kann
+die Künstlersozialkasse von den in der Ausgleichsvereinigung
+zusammengeschlossenen Unternehmern Aufzeichnungen über die Entgelte im
+Sinne des § 25 verlangen und Prüfungen durchführen. Im Übrigen
+entfallen die Aufzeichnungspflichten nach § 28 und Prüfungen bei
+Unternehmern nach § 35 des Künstlersozialversicherungsgesetzes und §
+28p Absatz 1a des Vierten Buches Sozialgesetzbuch für die Jahre, für
+die Pflichten des Unternehmers durch die Ausgleichsvereinigung erfüllt
+werden. Die weiteren Rechte und Pflichten des zur Abgabe
+Verpflichteten gegenüber der Künstlersozialkasse bleiben unberührt.
 
 (3) Die Künstlersozialkasse hat einer Ausgleichsvereinigung mit
-Einwilligung des zur Abgabe Verpflichteten die Angaben zu machen, die
-die Ausgleichsvereinigung zur Erfüllung ihrer Aufgaben benötigt.
+Einwilligung des Mitglieds die Angaben zu machen, die die
+Ausgleichsvereinigung zur Erfüllung ihrer Aufgaben benötigt.
 
 
 ##### Vierter Unterabschnitt - Erstattungen
@@ -1010,9 +1030,7 @@ gilt § 27 des Vierten Buches Sozialgesetzbuch entsprechend.
 ##### § 34
 
 (1) Der Zuschuß des Bundes beträgt für das Kalenderjahr 20 vom Hundert
-der Ausgaben der Künstlersozialkasse. Bei der Bestimmung der Ausgaben
-im Sinne des Satzes 1 gilt ein Sozialausgleich nach § 242b des Fünften
-Buches Sozialgesetzbuch als nicht erfolgt. Überzahlungen sind mit dem
+der Ausgaben der Künstlersozialkasse. Überzahlungen sind mit dem
 Bundeszuschuß des übernächsten Jahres zu verrechnen.
 
 (2) Der Bund trägt die Verwaltungskosten der Künstlersozialkasse.
@@ -1035,15 +1053,68 @@ entsprechend dem jeweiligen Ausgabebedarf in Anspruch genommen werden.
 (1) Die Künstlersozialkasse überwacht die rechtzeitige und
 vollständige Entrichtung der Beitragsanteile der Versicherten und der
 Künstlersozialabgabe bei den Unternehmern ohne Beschäftigte und den
-Ausgleichsvereinigungen. Die Träger der Rentenversicherung überwachen
-im Rahmen ihrer Prüfung bei den Arbeitgebern nach § 28p des Vierten
-Buches Sozialgesetzbuch die rechtzeitige und vollständige Entrichtung
-der Künstlersozialabgabe durch diese Unternehmer. Entstehen durch die
-Überwachung der Künstlersozialabgabe Barauslagen, so können sie dem
-zur Abgabe Verpflichteten auferlegt werden, wenn er sie durch
-Pflichtversäumnis verursacht hat.
+Ausgleichsvereinigungen.
 
-(2) Das Bundesministerium für Arbeit und Soziales erläßt durch
+(2) Abweichend von § 28p Absatz 1a des Vierten Buches Sozialgesetzbuch
+kann die Künstlersozialkasse selbst prüfen, ob Arbeitgeber ihre
+Meldepflichten nach dem Künstlersozialversicherungsgesetz
+ordnungsgemäß erfüllen und die Künstlersozialabgabe rechtzeitig und
+vollständig entrichten. Die Künstlersozialkasse erlässt insoweit die
+erforderlichen Verwaltungsakte zur Künstlersozialabgabepflicht, zur
+Höhe der Künstlersozialabgabe und zur Höhe der Vorauszahlungen nach
+dem Künstlersozialversicherungsgesetz einschließlich der
+Widerspruchsbescheide. Der für die Prüfung zuständige
+Rentenversicherungsträger ist möglichst frühzeitig über die
+beabsichtigte Durchführung einer Prüfung und ihren Beginn zu
+informieren. Die Information erfolgt in der Regel mindestens zehn
+Wochen vor Beginn der Prüfung.
+
+(3) Bei der Künstlersozialkasse wird eine Prüfgruppe eingerichtet, die
+branchenspezifische Schwerpunktprüfungen und anlassbezogene Prüfungen
+durchführt. Sie unterstützt die Prüfung bei den Arbeitgebern, indem
+sie insbesondere
+
+1.  die Prüferinnen und Prüfer der Träger der Rentenversicherung in Fragen
+    der Künstlersozialabgabe berät und an ihrer Fort- und Weiterbildung im
+    Hinblick auf die Künstlersozialabgabe mitwirkt;
+
+
+2.  Informationen aus den Arbeitgeberprüfungen zusammenführt und sie für
+    die Prüferinnen und Prüfer der Träger der Rentenversicherung
+    aufbereitet, einschließlich der Erarbeitung von Beispielen für die
+    Prüfpraxis;
+
+
+3.  spezifische Hinweise zum Prüfverfahren in einzelnen Branchen oder für
+    typische Gruppen von Unternehmen erarbeitet;
+
+
+4.  gemeinsam mit den Trägern der Rentenversicherung sicherstellt, dass
+    den Prüferinnen und Prüfern spätestens am Tag der Prüfung alle
+    zweckdienlichen Hinweise für die Durchführung der Prüfung zur
+    Verfügung stehen (Prüfhilfe) und
+
+
+5.  gemeinsam mit den Trägern der Rentenversicherung die Kriterien für die
+    Auswahl des Prüfkontingentes nach § 28p Absatz 1b des Vierten Buches
+    Sozialgesetzbuch weiterentwickelt.
+
+
+
+
+(4) Die Träger der Rentenversicherung und die Künstlersozialkasse
+arbeiten bei der Prüfung der Melde- und Abgabepflicht nach dem
+Künstlersozialversicherungsgesetz bei den Arbeitgebern eng zusammen
+und stimmen sich laufend ab. Dazu wird eine gemeinsame Arbeitsgruppe
+eingerichtet, die mindestens halbjährlich tagt. Das Bundesministerium
+für Arbeit und Soziales gehört der Arbeitsgruppe als beratendes
+Mitglied an.
+
+(5) Entstehen durch die Überwachung der Künstlersozialabgabe
+Barauslagen, so können sie dem zur Abgabe Verpflichteten auferlegt
+werden, wenn er sie durch Pflichtversäumnis verursacht hat.
+
+(6) Das Bundesministerium für Arbeit und Soziales erlässt durch
 Rechtsverordnung Überwachungsvorschriften.
 
 
@@ -1087,11 +1158,9 @@ vorsätzlich oder fahrlässig
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nr. 2 mit
-einer Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes
-2 Nr. 1 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro und in
-den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
-werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 mit einer
+Geldbuße bis zu fünfzigtausend Euro und in den Fällen des Absatzes 1
+mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist
@@ -1127,27 +1196,28 @@ Sozialgesetzbuch entsprechende Anwendung.
 
 ### § 37
 
-(1) Die Unfallkasse des Bundes führt dieses Gesetz im Auftrag des
-Bundes als Künstlersozialkasse durch.
+(1) Die Unfallversicherung Bund und Bahn führt dieses Gesetz im
+Auftrag des Bundes als Künstlersozialkasse durch.
 
 (2) In Angelegenheiten der Künstlersozialversicherung führt der
-Geschäftsführer der Unfallkasse des Bundes die Verwaltungsgeschäfte
-und vertritt die Künstlersozialkasse gerichtlich und außergerichtlich.
-Stellvertreter des Geschäftsführers in Angelegenheiten der
-Künstlersozialversicherung ist der für die Künstlersozialkasse
-zuständige Abteilungsleiter; dieser wird auf Vorschlag des
-Geschäftsführers nach Anhörung des Beirats bei der Künstlersozialkasse
-vom Bundesministerium für Arbeit und Soziales bestellt.
+Geschäftsführer der Unfallversicherung Bund und Bahn die
+Verwaltungsgeschäfte und vertritt die Künstlersozialkasse gerichtlich
+und außergerichtlich. Stellvertreter des Geschäftsführers in
+Angelegenheiten der Künstlersozialversicherung ist der für die
+Künstlersozialkasse zuständige Abteilungsleiter; dieser wird auf
+Vorschlag des Geschäftsführers nach Anhörung des Beirats bei der
+Künstlersozialkasse vom Bundesministerium für Arbeit und Soziales
+bestellt.
 
 (3) Das Bundesministerium für Arbeit und Soziales ernennt und entlässt
 die Beamtinnen und Beamten der Künstlersozialkasse. Es kann seine
 Befugnisse auf die Geschäftsführerin oder den Geschäftsführer der
-Unfallkasse des Bundes übertragen.
+Unfallversicherung Bund und Bahn übertragen.
 
 (4) Oberste Dienstbehörde für den in Absatz 2 Satz 2 genannten
 Stellvertreter ist das Bundesministerium für Arbeit und Soziales, für
 die übrigen Beamten der Künstlersozialkasse der Geschäftsführer der
-Unfallkasse des Bundes.
+Unfallversicherung Bund und Bahn.
 
 
 ### § 37a
@@ -1223,22 +1293,23 @@ Verfahren des Beirats (§ 38) und der Ausschüsse (§ 39).
 
 Die Einnahmen aus Beitragsanteilen, der Künstlersozialabgabe und dem
 Bundeszuschuss sind als abgesondertes Vermögen zu verwalten. Dieses
-haftet nicht für Verbindlichkeiten der Unfallkasse des Bundes als
-Träger der gesetzlichen Unfallversicherung. Die Haftung der
-Unfallkasse des Bundes für Verbindlichkeiten der Künstlersozialkasse
-nach dem Ersten und Vierten Teil ist auf das abgesonderte Vermögen der
-Künstlersozialkasse beschränkt.
+haftet nicht für Verbindlichkeiten der Unfallversicherung Bund und
+Bahn als Träger der gesetzlichen Unfallversicherung. Die Haftung der
+Unfallversicherung Bund und Bahn für Verbindlichkeiten der
+Künstlersozialkasse nach dem Ersten und Vierten Teil ist auf das
+abgesonderte Vermögen der Künstlersozialkasse beschränkt.
 
 
 ### § 43
 
-(1) Die Unfallkasse des Bundes weist alle zu erwartenden Einnahmen,
-voraussichtlich zu leistenden Ausgaben und voraussichtlich benötigten
-Verpflichtungsermächtigungen der Künstlersozialkasse in einem
-gesonderten Haushaltsplan aus. Auf die Aufstellung und Ausführung des
-Haushaltsplans, die Zahlungen, die Buchführung und die Rechnungslegung
-sind die für die Träger der Rentenversicherung jeweils geltenden
-Bestimmungen, mit Ausnahme des Kontenrahmens, entsprechend anzuwenden.
+(1) Die Unfallversicherung Bund und Bahn weist alle zu erwartenden
+Einnahmen, voraussichtlich zu leistenden Ausgaben und voraussichtlich
+benötigten Verpflichtungsermächtigungen der Künstlersozialkasse in
+einem gesonderten Haushaltsplan aus. Auf die Aufstellung und
+Ausführung des Haushaltsplans, die Zahlungen, die Buchführung und die
+Rechnungslegung sind die für die Träger der Rentenversicherung jeweils
+geltenden Bestimmungen, mit Ausnahme des Kontenrahmens, entsprechend
+anzuwenden.
 
 (2) Die Künstlersozialkasse erstellt einen eigenen Kontenrahmen. Er
 bedarf der Genehmigung des Bundesversicherungsamts. Die Veranschlagung
@@ -1269,7 +1340,13 @@ Höhe veranschlagt sind, kann die Künstlersozialkasse mit Einwilligung
 des Bundesversicherungsamtes, die mit Zustimmung des
 Bundesministeriums für Arbeit und Soziales und des Bundesministeriums
 der Finanzen erteilt wird, überplanmäßige und außerplanmäßige Ausgaben
-leisten.
+leisten. Bei Beitragsabführungen erforderliche überplanmäßige Ausgaben
+können abweichend von Satz 1 vom Geschäftsführer der
+Unfallversicherung Bund und Bahn bewilligt werden. Die Bewilligung ist
+unverzüglich von der Unfallversicherung Bund und Bahn dem
+Bundesversicherungsamt anzuzeigen. Das Bundesversicherungsamt setzt
+das Bundesministerium für Arbeit und Soziales und das
+Bundesministerium der Finanzen über die Bewilligung in Kenntnis.
 
 (7) Nach Ende des Haushaltsjahres hat die Künstlersozialkasse eine
 Rechnung aufzustellen. Die Rechnung umfaßt auch den Bestand, die
@@ -1329,7 +1406,22 @@ aufzuklären und zu beraten.
 
 
 
-### (XXXX) §§ 52 bis 54 (weggefallen)
+### § 52
+
+(1) Selbständige Künstler und Publizisten, die am 31. Dezember 2016
+wegen des Bezugs einer Vollrente wegen Alters vor Erreichen der
+Regelaltersgrenze in einer Beschäftigung oder selbständigen Tätigkeit
+versicherungsfrei waren, bleiben in dieser selbständigen Tätigkeit
+versicherungsfrei.
+
+(2) Selbständige Künstler und Publizisten können durch schriftliche
+Erklärung gegenüber der Künstlersozialkasse auf die
+Versicherungsfreiheit verzichten; der Verzicht kann nur mit Wirkung
+für die Zukunft erklärt werden und ist für die Dauer der
+künstlerischen oder publizistischen Tätigkeit bindend.
+
+
+### (XXXX) §§ 52a bis 54 (weggefallen)
 
 
 
@@ -1357,18 +1449,13 @@ sind, bleiben versicherungsfrei.
 Dezember 1991 im Beitrittsgebiet liegt und die von der
 Krankenversicherungspflicht befreit sind, bleiben versicherungsfrei,
 wenn sie ihren Wohnsitz vor dem 3. Oktober 1990 in diesem Gebiet
-hatten. Sie können gegenüber der Künstlersozialkasse schriftlich bis
-zum 30. Juni 1992 erklären, daß sie versicherungspflichtig werden
-wollen. Die Versicherung beginnt mit dem Ersten des Kalendermonats,
-der auf den Monat folgt, in dem die Erklärung bei der
-Künstlersozialkasse eingegangen ist. Unbeschadet der Sätze 2 und 3
-gilt § 6 Abs. 2 entsprechend.
+hatten. Für die Beendigung der Befreiung von der
+Krankenversicherungspflicht gilt § 6 Absatz 2 entsprechend.
 
 (3) Die Vorschriften des § 10 über einen Zuschuß zum
 Krankenversicherungsbeitrag finden Anwendung. Im Fall des Absatzes 2
 Satz 1 beginnt der Anspruch mit dem auf den Antrag folgenden
-Kalendermonat; geht der Antrag bis zum 31. März 1992 bei der
-Künstlersozialkasse ein, beginnt der Anspruch mit dem 1. Januar 1992.
+Kalendermonat.
 
 
 ### § 56b

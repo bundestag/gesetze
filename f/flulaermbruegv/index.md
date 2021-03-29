@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Brüggen
 jurabk: FluLärmBrügV
 layout: default
-origslug: flul_rmbr_gv
+origslug: flulaermbruegv
 slug: flulaermbruegv
 
 ---

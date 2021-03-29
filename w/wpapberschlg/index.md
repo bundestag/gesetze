@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1964, 45
 
 Zuletzt geändert durch
-:   Art. 104 V v. 31.10.2006 I 2407
+:   Art. 202 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -162,9 +162,9 @@ gezahlten Geldbeträge fließen an den Bund.
 Bundesausgleichsamts auf die Lage an den Wertpapiermärkten Rücksicht
 nehmen und hierzu einen Sachverständigenausschuß hören. Der Ausschuß
 besteht aus fünf Mitgliedern, die das Bundesministerium der Finanzen
-im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie aus Kreisen des Bankgewerbes und der Aussteller bestellt.
-Die Veräußerung der Wertpapiere führt der Präsident des
+im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+aus Kreisen des Bankgewerbes und der Aussteller bestellt. Die
+Veräußerung der Wertpapiere führt der Präsident des
 Bundesausgleichsamts im Benehmen mit der Deutschen Bundesbank durch.
 
 (3) Der Präsident des Bundesausgleichsamts gilt für die Veräußerung
@@ -715,8 +715,8 @@ ist darunter je nach dem Geltungsbereich das Gesetz zur Bereinigung
 des Wertpapierwesens vom 19. August 1949 (WiGBl. S. 295),
 geändert durch Artikel X § 15 des Gesetzes zur Änderung und Ergänzung
 kostenrechtlicher Vorschriften vom 26. Juli 1957 (Bundesgesetzbl. I S.
-861),              oder das entsprechende Gesetz des Landes Berlin vom
-26\. September 1949 (Verordnungsblatt für Groß-Berlin Teil I S. 346) zu
+861), oder das entsprechende Gesetz des Landes Berlin vom 26.
+September 1949 (Verordnungsblatt für Groß-Berlin Teil I S. 346) zu
 verstehen.
 
 

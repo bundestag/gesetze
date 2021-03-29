@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 8.4.2009 I 809
 
+Zuletzt geändert durch
+:   Art. 1 V v. 1.11.2015 I 1923
+
 
 ## § 1 Anspruchsvoraussetzungen bei besonderen Verwendungen im Ausland
 
@@ -35,46 +38,46 @@ Als materielle Mehraufwendungen und immaterielle Belastungen im
 Verwendungsgebiet und am Ort der besonderen Verwendung werden
 berücksichtigt:
 
-1.  Allgemeine physische und psychische Belastungen, insbesondere
+1.  Allgemeine physische und psychische Belastungen, insbesondere durch
 
-    1.1 Art und Dauer der Verwendung,
-
-
-    1.2 Einschränkung der persönlichen Bewegungsfreiheit, der Privatsphäre und
-        der Freizeitmöglichkeiten,
+    a)  Art und Dauer der Verwendung,
 
 
-    1.3 Unterbringung in Zelten, Containern oder Massenunterkünften,
+    b)  Einschränkung der persönlichen Bewegungsfreiheit, der Privatsphäre
+        oder der Freizeitmöglichkeiten,
 
 
-    1.4 erhebliche und damit potentiell gesundheitsgefährdende Mängel in den
-        Sanitär- und Hygieneeinrichtungen,
+    c)  Unterbringung in Zelten, Containern oder Massenunterkünften,
 
 
-    1.5 besondere zeitliche Beanspruchung während der gesamten Dauer der
+    d)  erhebliche, potentiell gesundheitsgefährdende Mängel der Sanitär- und
+        Hygieneeinrichtungen,
+
+
+    e)  besondere zeitliche Beanspruchung während der gesamten Dauer der
         Verwendung, hohe Bereitschaftsstufen,
 
 
-    1.6 extreme Klimabelastungen;
+    f)  extreme Klimabelastungen;
 
 
 
 
 
-2.  Gefahr für Leib und Leben, insbesondere
+2.  Gefahr für Leib und Leben, insbesondere durch
 
-    2.1 Seuchen, Epidemien, Tropenkrankheiten, gefährliche Strahlen und
+    a)  Seuchen, Epidemien, Tropenkrankheiten, gefährliche Strahlen oder
         Chemikalien,
 
 
-    2.2 minenverseuchtes Gebiet,
+    b)  minenverseuchtes Gebiet,
 
 
-    2.3 Terrorakte, organisierte Kriminalität, hohe Gewaltbereitschaft,
+    c)  Terrorakte, organisierte Kriminalität, hohe Gewaltbereitschaft,
         Piraterie, Geiselnahme,
 
 
-    2.4 bürgerkriegsähnliche und kriegerische Auseinandersetzungen,
+    d)  bürgerkriegsähnliche und kriegerische Auseinandersetzungen,
         Bürgerkrieg;
 
 
@@ -96,91 +99,129 @@ berücksichtigt:
 sechs Stufen des Auslandsverwendungszuschlags wie folgt
 berücksichtigt:
 
-1.  Stufe 1:
+*    *
+    *   Stufe
 
-    Allgemeine, typischerweise mit der besonderen Verwendung im Rahmen von
-    humanitären und unterstützenden Maßnahmen verbundene Mehraufwendungen
-    und Belastungen,
+    *   Mehraufwendungen oder Belastungen
 
-    bis zu 30 Euro;
-
-
-2.  Stufe 2:
-
-    Stärker ausgeprägte Mehraufwendungen und Belastungen, insbesondere
-    durch
-
-    a)  besondere zeitliche Beanspruchung während der gesamten Dauer der
-        Verwendung, die im Inland einen Dienstzeitausgleich oder eine
-        finanzielle Abgeltung zur Folge hätte,
+    *   Zuschlag
 
 
-    b)  Unterbringung in Zelten, Massenunterkünften oder Containern,
+*    *
+    *   1
+
+    *   2
+
+    *   3
 
 
+*    *   1
+
+    *   1
+
+    *   Allgemeine, mit der besonderen Verwendung im Rahmen humanitärer oder
+        unterstützender Maßnahmen typischerweise verbundene Mehraufwendungen
+        und Belastungen
+
+    *   30 Euro
 
 
-    oder
+*    *   2
 
-    c)  hohe Kosten zur Beschaffung von qualitativ angemessenen Gütern des
-        täglichen Bedarfs und für Zwecke der Kommunikation mit dem Heimatland,
-        sofern nur eine unzureichende militärische oder vergleichbare
-        Infrastruktur vorhanden ist,
+    *   2
 
+    *   Stärker ausgeprägte Mehraufwendungen und Belastungen, insbesondere
+        durch
 
-
-
-    46 Euro;
-
-
-3.  Stufe 3:
-
-    Über die Stufe 2 hinausgehende Belastungen, insbesondere durch
-
-    a)  besondere gesundheitliche Risiken, die im Heimatland üblicherweise
-        nicht bestehen,
+        a)  besondere zeitliche Beanspruchung während der gesamten Dauer der
+            Verwendung, die im Inland einen Dienstzeitausgleich oder eine
+            finanzielle Abgeltung zur Folge hätte,
 
 
+        b)  Unterbringung in Zelten, Massenunterkünften oder Containern oder
 
 
-    oder
+        c)  hohe Kosten
 
-    b)  hohes Potential an Waffen in der Zivilbevölkerung und davon ausgehende
-        Gefährdung, insbesondere bei eingeschränkter Gebietsgewalt des
-        Staates,
+            aa) qualitativ angemessener Güter des täglichen Bedarfs und
+
+
+            bb) der Kommunikation mit dem Heimatland, sofern nur eine unzureichende
+                militärische oder vergleichbare Infrastruktur vorhanden ist
 
 
 
 
-    62 Euro;
 
 
-4.  Stufe 4:
 
-    Hohe Belastungen, insbesondere bei bürgerkriegsähnlichen
-    Auseinandersetzungen, terroristischen Handlungen, außerordentlicher
-    Gewaltkriminalität, Piraterie, Minen oder vergleichbaren
-    gesundheitlichen Gefährdungen,
-
-    78 Euro;
+    *   46 Euro
 
 
-5.  Stufe 5:
+*    *   3
 
-    Sehr hohe Belastungen, insbesondere bei einer Verwendung unter
-    Bürgerkriegsbedingungen durch organisierte bewaffnete Aktionen,
-    Terrorakte oder bei vergleichbaren gesundheitlichen Gefährdungen,
+    *   3
 
-    94 Euro;
+    *   Über die Stufe 2 hinausgehende Belastungen, insbesondere durch
+
+        a)  besondere gesundheitliche Risiken, die im Heimatland üblicherweise
+            nicht bestehen, oder
 
 
-6.  Stufe 6:
+        b)  hohes Potential an Waffen in der Zivilbevölkerung und davon ausgehende
+            Gefährdung, insbesondere bei eingeschränkter Gebietsgewalt des Staates
 
-    Extreme Belastungen bei Verwendung zwischen den Konfliktparteien unter
-    kriegsähnlichen Bedingungen, konkrete Gefährdung durch
-    Kampfhandlungen, Beschuss oder Luftangriffe,
 
-    110 Euro.
+
+
+    *   62 Euro
+
+
+*    *   4
+
+    *   4
+
+    *   Hohe Belastungen, insbesondere durch bürgerkriegsähnliche
+        Auseinandersetzungen, terroristische Handlungen, außerordentliche
+        Gewaltkriminalität, Piraterie, Minen oder vergleichbare
+        gesundheitliche Gefährdungen
+
+    *   78 Euro
+
+
+*    *   5
+
+    *   5
+
+    *   Sehr hohe Belastungen, insbesondere durch Verwendung unter
+        Bürgerkriegsbedingungen, durch organisierte bewaffnete Aktionen,
+        Terrorakte oder bei vergleichbaren gesundheitlichen Gefährdungen
+
+    *   94 Euro
+
+
+*    *   6
+
+    *   6
+
+    *   Extreme Belastungen durch
+
+        a)  Verwendung zwischen den Konfliktparteien unter kriegsähnlichen
+            Bedingungen, konkrete Gefährdung durch Kampfhandlungen, Beschuss oder
+            Luftangriffe oder
+
+
+        b)  vergleichbare gesundheitliche konkrete Gefährdungen; diese liegen nur
+            vor, wenn der Zweck des Einsatzes auf den direkten Kontakt mit
+            infizierten Personen gerichtet ist und dadurch ein hohes Risiko der
+            Infektion mit einer potentiell tödlich verlaufenden Krankheit besteht
+            und weder eine Prophylaxe noch eine kausale Behandlungsmethode zur
+            Verfügung steht
+
+
+
+
+    *   110 Euro
 
 
 
@@ -231,27 +272,30 @@ die beim Auslandsverwendungszuschlag berücksichtigt worden sind.
 weitergezahlte Auslandszuschlag wird auf den
 Auslandsverwendungszuschlag wie folgt angerechnet:
 
-1.  Wird der Hausstand des Berechtigten am bisherigen Dienstort im Ausland
-    fortgeführt und halten sich mit dem Berechtigten in häuslicher
-    Gemeinschaft lebende Personen (§ 53 Absatz 4 des
-    Bundesbesoldungsgesetzes) weiterhin dort auf, beträgt der
-    Anrechnungsbetrag 15 vom Hundert des gezahlten Auslandszuschlags.
+1.  zu 15 Prozent, wenn der Hausstand des Berechtigten am bisherigen
+    Dienstort im Ausland fortgeführt wird und sich mit dem Berechtigten in
+    häuslicher Gemeinschaft lebende Personen (§ 53 Absatz 4 des
+    Bundesbesoldungsgesetzes) weiterhin dort aufhalten;
 
 
-2.  Wird der Hausstand eines alleinstehenden Berechtigten am bisherigen
-    Dienstort im Ausland beibehalten, so beträgt der Anrechnungsbetrag 70
-    vom Hundert des gezahlten Auslandszuschlags. Eine
-    Gemeinschaftsunterkunft gilt nicht als Hausstand im Sinne der
-    vorstehenden Regelung.
+2.  zu 70 Prozent, wenn der Hausstand eines alleinstehenden Berechtigten
+    am bisherigen Dienstort im Ausland beibehalten wird; eine
+    Gemeinschaftsunterkunft gilt nicht als Hausstand;
 
 
-3.  Wird der Hausstand des Berechtigten oder eine Gemeinschaftsunterkunft
-    am bisherigen Dienstort im Ausland aufgegeben, so beträgt der
-    Anrechnungsbetrag 90 vom Hundert des gezahlten Auslandszuschlags.
+3.  zu 80 Prozent, wenn eine Gemeinschaftsunterkunft gegen Bezahlung am
+    bisherigen Dienstort im Ausland beibehalten wird; handelt es sich um
+    eine unentgeltlich bereitgestellte Gemeinschaftsunterkunft, erhöht
+    sich der Anrechnungsbetrag auf 90 Prozent;
+
+
+4.  zu 90 Prozent, wenn der Hausstand des Berechtigten oder eine
+    Gemeinschaftsunterkunft am bisherigen Dienstort im Ausland aufgegeben
+    wird.
 
 
 
-Mindestens sind jedoch 30 vom Hundert des zustehenden
+Mindestens sind jedoch 30 Prozent des zustehenden
 Auslandsverwendungszuschlags zu belassen.
 
 (3) Die rückwirkende Anrechnung ist zulässig. Zahlungen in einer

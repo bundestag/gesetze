@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1816, 1817
 
-Zuletzt geändert durch
-:   Art. 1 V v. 14.7.2010 I 929
+Neugefasst durch
+:   Bek. v. 21.6.2016 I 1469;
+
+Geändert durch
+:   Art. 2 V v. 3.1.2018 I 99
 
 
 
@@ -57,15 +60,21 @@ Union auf dem Gebiet der Lebensmittelhygiene.
 
 (2) Im Übrigen gelten die Begriffsbestimmungen des
 
-1.  Artikels 2 Abs. 1 der Verordnung (EG) Nr. 852/2004 des Europäischen
+1.  Artikels 2 Absatz 1 der Verordnung (EG) Nr. 852/2004 des Europäischen
     Parlaments und des Rates vom 29. April 2004 über Lebensmittelhygiene
-    (ABl. EU Nr. L 139 S. 1, Nr. L 226 S. 3) und
+    (ABl. L 139 vom 30.4.2004, S. 1; L 226 vom 25.6.2004, S. 3; L 204 vom
+    4\.8.2007, S. 26; L 46 vom 21.2.2008, S. 51; L 58 vom 3.3.2009, S. 3),
+    die zuletzt durch die Verordnung (EG) Nr. 219/2009 (ABl. L 87 vom
+    31\.3.2009, S. 109) geändert worden ist, und
 
 
 2.  Anhangs I der Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments
     und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften
-    für Lebensmittel tierischen Ursprungs (ABl. EU Nr. L 139 S. 55, Nr. L
-    226 S. 22)
+    für Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S.
+    55; L 226 vom 25.6.2004, S. 22; L 204 vom 4.8.2007, S. 26; L 46 vom
+    21\.2.2008, S. 50; L 119 vom 13.5.2010, S. 26; L 160 vom 12.6.2013, S.
+    15; L 66 vom 11.3.2015, S. 22), die zuletzt durch die Verordnung (EU)
+    2016/355 (ABl. L 67 vom 12.3.2016, S. 22) geändert worden ist,
 
 
 
@@ -77,26 +86,38 @@ entsprechend.
 Lebensmittel dürfen nur so hergestellt, behandelt oder in den Verkehr
 gebracht werden, dass sie bei Beachtung der im Verkehr erforderlichen
 Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt
-sind. Mit lebenden Tieren nach § 4 Abs. 1 Nr. 1 des Lebensmittel- und
-Futtermittelgesetzbuches darf nur so umgegangen werden, dass von ihnen
-zu gewinnende Lebensmittel bei Beachtung der im Verkehr erforderlichen
-Sorgfalt der Gefahr einer nachteiligen Beeinflussung nicht ausgesetzt
-sind.
+sind. Mit lebenden Tieren nach § 4 Absatz 1 Nummer 1 des Lebensmittel-
+und Futtermittelgesetzbuches darf nur so umgegangen werden, dass von
+ihnen zu gewinnende Lebensmittel bei Beachtung der im Verkehr
+erforderlichen Sorgfalt der Gefahr einer nachteiligen Beeinflussung
+nicht ausgesetzt sind.
+
+
+## § 3a Verwendung von Trinkwasser
+
+Soweit die Vorschriften der Verordnung (EG) Nr. 852/2004 oder der
+Verordnung (EG) Nr. 853/2004 die Verwendung von Trinkwasser oder von
+Wasser, das den Trinkwassernormen entspricht, vorsehen, werden die
+Mindestanforderungen der Richtlinie 98/83/EG des Rates vom 3. November
+1998 über die Qualität von Wasser für den menschlichen Gebrauch (ABl.
+L 330 vom 5.12.1998, S. 32), die zuletzt durch die Richtlinie (EU)
+2015/1787 (ABl. L 260 vom 7.10.2015, S. 6) geändert worden ist, durch
+die Trinkwasserverordnung bestimmt.
 
 
 ## § 4 Schulung
 
 (1) Leicht verderbliche Lebensmittel dürfen nur von Personen
 hergestellt, behandelt oder in den Verkehr gebracht werden, die auf
-Grund einer Schulung nach Anhang II Kapitel XII Nr. 1 der Verordnung
-(EG) Nr. 852/2004 über ihrer jeweiligen Tätigkeit entsprechende
-Fachkenntnisse auf den in Anlage 1 genannten Sachgebieten verfügen.
-Die Fachkenntnisse nach Satz 1 sind auf Verlangen der zuständigen
-Behörde nachzuweisen. Satz 1 gilt nicht, soweit ausschließlich
-verpackte Lebensmittel gewogen, gemessen, gestempelt, bedruckt oder in
-den Verkehr gebracht werden. Satz 1 gilt nicht für die
-Primärproduktion und die Abgabe kleiner Mengen von Primärerzeugnissen
-nach § 5.
+Grund einer Schulung nach Anhang II Kapitel XII Nummer 1 der
+Verordnung (EG) Nr. 852/2004 über ihrer jeweiligen Tätigkeit
+entsprechende Fachkenntnisse auf den in Anlage 1 genannten
+Sachgebieten verfügen. Die Fachkenntnisse nach Satz 1 sind auf
+Verlangen der zuständigen Behörde nachzuweisen. Satz 1 gilt nicht,
+soweit ausschließlich verpackte Lebensmittel gewogen, gemessen,
+gestempelt, bedruckt oder in den Verkehr gebracht werden. Satz 1 gilt
+nicht für die Primärproduktion und die Abgabe kleiner Mengen von
+Primärerzeugnissen nach § 5.
 
 (2) Bei Personen, die eine wissenschaftliche Ausbildung oder eine
 Berufsausbildung abgeschlossen haben, in der Kenntnisse und
@@ -105,8 +126,8 @@ einschließlich der Lebensmittelhygiene vermittelt werden, wird
 vermutet, dass sie für eine der jeweiligen Ausbildung entsprechende
 Tätigkeit
 
-1.  nach Anhang II Kapitel XII Nr. 1 der Verordnung (EG) Nr. 852/2004 in
-    Fragen der Lebensmittelhygiene geschult sind und
+1.  nach Anhang II Kapitel XII Nummer 1 der Verordnung (EG) Nr. 852/2004
+    in Fragen der Lebensmittelhygiene geschult sind und
 
 
 2.  über nach Absatz 1 erforderliche Fachkenntnisse verfügen.
@@ -123,7 +144,7 @@ unmittelbaren Abgabe an Verbraucher abgibt, hat bei deren Herstellung
 und Behandlung unbeschadet der Anforderungen der Tierische
 Lebensmittel-Hygieneverordnung die Anforderungen der Anlage 2
 einzuhalten. Örtliche Betriebe des Einzelhandels sind im Falle von
-Absatz 2 Nr. 2 Betriebe des Einzelhandels, die im Umkreis von nicht
+Absatz 2 Nummer 2 Betriebe des Einzelhandels, die im Umkreis von nicht
 mehr als 100 Kilometern vom Wohnort des Jägers oder dem Erlegeort des
 Wildes gelegen sind.
 
@@ -173,35 +194,13 @@ nicht, soweit die in Anlage 3a Spalte 3 jeweils bezeichneten
 Anforderungen erfüllt werden.
 
 
-## § 7 Hygienische Anforderungen an die Beförderung von flüssigen Ölen und Fetten in Seeschiffen
-
-(1) Flüssige Öle und Fette, die als Lebensmittel zu dienen bestimmt
-sind, dürfen abweichend von Anhang II Kapitel IV Nr. 4 der Verordnung
-(EG) Nr. 852/2004 als Massengut in Seeschiffen in nicht ausschließlich
-für die Beförderung von Lebensmitteln oder Erzeugnissen im Sinne des
-Weingesetzes bestimmten Behältern befördert werden, wenn die
-Vorschriften der Anlage 4 eingehalten werden.
-
-(2) Die für das jeweilige Schiff verantwortliche Person hat Nachweise
-über die drei letzten zuvor in diesen Behältern beförderten Ladungen
-sowie über die Wirksamkeit des zwischen den Ladungen angewandten
-Reinigungsverfahrens mit sich zu führen.
-
-(3) Im Falle einer Umladung hat die für das Empfängerschiff
-verantwortliche Person zusätzlich zu den in Absatz 2 verlangten
-Dokumenten Nachweise über das zwischen den Ladungen auf dem anderen
-Schiff angewandte Reinigungsverfahren sowie darüber, dass die
-vorherige Beförderung des flüssigen Öls oder Fettes den Bestimmungen
-der Anlage 4 entsprach, mit sich zu führen.
-
-(4) Die in den Absätzen 2 und 3 vorgeschriebenen Nachweise sind der
-zuständigen Behörde auf Verlangen vorzulegen.
+## § 7 (weggefallen)
 
 
 ## § 8 Hygienische Anforderungen an die Beförderung von Rohzucker in Seeschiffen
 
 (1) Rohzucker, der nach Raffination als Lebensmittel verwendet werden
-soll, darf abweichend von Anhang II Kapitel IV Nr. 4 der Verordnung
+soll, darf abweichend von Anhang II Kapitel IV Nummer 4 der Verordnung
 (EG) Nr. 852/2004 als Massengut in Seeschiffen in nicht ausschließlich
 für die Beförderung von Lebensmitteln bestimmten Behältern befördert
 werden, wenn hinsichtlich der Behälter folgende Anforderungen
@@ -223,12 +222,12 @@ eingehalten werden:
 (2) Die für das jeweilige Schiff verantwortliche Person hat Nachweise
 mit Angaben über die in dem jeweiligen Behälter, in dem sich der
 Rohzucker befindet, unmittelbar zuvor beförderte Ladung sowie über Art
-und Umfang der Reinigung nach Absatz 1 Nr. 1 für die Dauer der
+und Umfang der Reinigung nach Absatz 1 Nummer 1 für die Dauer der
 Beförderung zur Raffinerie mit sich zu führen. Auf den Unterlagen für
 die Beförderung des Rohzuckers hat die für das jeweilige Schiff
 verantwortliche Person vor Beginn der Beförderung gut sichtbar und
-dauerhaft die Angabe "Dieses Erzeugnis ist erst nach Raffination für
-den menschlichen Verzehr geeignet" anzubringen.
+dauerhaft die Angabe „Dieses Erzeugnis ist erst nach Raffination für
+den menschlichen Verzehr geeignet“ anzubringen.
 
 (3) Im Falle einer Umladung der Behälter hat die für das abgebende
 Schiff verantwortliche Person die Nachweise nach Absatz 2 Satz 1 der
@@ -251,9 +250,9 @@ zuständigen Behörde auf Verlangen vorzulegen.
 
 (1) Soweit ein Drittland die Einfuhr von Lebensmitteln von einer
 besonderen Zulassung abhängig macht, erteilt die zuständige Behörde im
-Rahmen der Durchführung des Artikels 12 Abs. 1 der Verordnung (EG) Nr.
-178/2002 des Europäischen Parlaments und des Rates vom 28. Januar 2002
-zur Festlegung der allgemeinen Grundsätze und Anforderungen des
+Rahmen der Durchführung des Artikels 12 Absatz 1 der Verordnung (EG)
+Nr. 178/2002 des Europäischen Parlaments und des Rates vom 28. Januar
+2002 zur Festlegung der allgemeinen Grundsätze und Anforderungen des
 Lebensmittelrechts, zur Errichtung der Europäischen Behörde für
 Lebensmittelsicherheit und zur Festlegung von Verfahren zur
 Lebensmittelsicherheit (ABl. EG Nr. L 31 S. 1) auf Antrag Betrieben,
@@ -278,7 +277,7 @@ Widerruf unberührt.
 
 ## § 10 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
+Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
 oder fahrlässig
 
@@ -289,43 +288,44 @@ oder fahrlässig
 2.  entgegen § 3 Satz 2 mit einem lebenden Tier umgeht,
 
 
-3.  entgegen § 4 Abs. 1 Satz 1 ein leicht verderbliches Lebensmittel
+3.  entgegen § 4 Absatz 1 Satz 1 ein leicht verderbliches Lebensmittel
     herstellt, behandelt oder in den Verkehr bringt,
 
 
-4.  entgegen § 5 Abs. 1 Satz 1 in Verbindung mit Anlage 2 Nr. 2 Buchstabe
-    g Umhüllungen oder Verpackungen nicht richtig lagert,
+4.  entgegen § 5 Absatz 1 Satz 1 in Verbindung mit Anlage 2 Nummer 2
+    Buchstabe g Umhüllungen oder Verpackungen nicht richtig lagert,
 
 
-5.  entgegen § 5 Abs. 1 Satz 1 in Verbindung mit Anlage 2 Nr. 3 Buchstabe
-    c nicht sicherstellt, dass dort genannte Personen nicht mit
+5.  entgegen § 5 Absatz 1 Satz 1 in Verbindung mit Anlage 2 Nummer 3
+    Buchstabe c nicht sicherstellt, dass dort genannte Personen nicht mit
     Primärerzeugnissen umgehen,
 
 
-6.  entgegen § 7 Abs. 2 oder 3 oder § 8 Abs. 2 Satz 1 oder Abs. 3 einen
-    dort genannten Nachweis nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig übergibt oder nicht, nicht richtig oder nicht
-    vollständig mit sich führt,
+6.  entgegen § 8 Absatz 2 Satz 1 oder Absatz 3 einen dort genannten
+    Nachweis nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig übergibt oder nicht, nicht richtig oder nicht vollständig
+    mit sich führt,
 
 
-7.  entgegen § 7 Abs. 4 oder § 8 Abs. 5 einen dort genannten Nachweis
-    nicht, nicht vollständig oder nicht rechtzeitig vorlegt,
+7.  entgegen § 8 Absatz 2 Satz 2 die dort bezeichnete Angabe nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig anbringt,
 
 
-8.  entgegen § 8 Abs. 2 Satz 2 die dort bezeichnete Angabe nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig anbringt oder
+8.  entgegen § 8 Absatz 4 Satz 1 oder 3 einen dort genannten Nachweis
+    nicht oder nicht mindestens ein Jahr aufbewahrt oder
 
 
-9.  entgegen § 8 Abs. 4 Satz 1 oder 3 einen dort genannten Nachweis nicht
-    oder nicht mindestens ein Jahr aufbewahrt.
+9.  entgegen § 8 Absatz 5 einen dort genannten Nachweis nicht, nicht
+    vollständig oder nicht rechtzeitig vorlegt.
 
 
 
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage 1 (zu § 4 Abs. 1 Satz 1) Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
+## Anlage 1 Anforderungen an Fachkenntnisse in der Lebensmittelhygiene
 
-( Fundstelle: BGBl. I 2008, 107 )
+(Fundstelle: BGBl. I 2016, 1473)
 
 1.  Eigenschaften und Zusammensetzung des jeweiligen Lebensmittels
 
@@ -362,10 +362,11 @@ oder fahrlässig
 
 
 
+(zu § 5 Absatz 1 Satz 1)
 
-## Anlage 2 (zu § 5 Abs. 1 Satz 1) Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
+## Anlage 2 Anforderungen an die Abgabe kleiner Mengen von Primärerzeugnissen
 
-( Fundstelle: BGBl. I 2007, 1821 )
+(Fundstelle: BGBl. I 2016, 1474)
 
 1.  Zur Vermeidung einer nachteiligen Beeinflussung von Primärerzeugnissen
     sind die jeweils angemessenen Maßnahmen zu treffen, um
@@ -458,10 +459,12 @@ oder fahrlässig
 
 
 
+(zu § 6)
 
-## Anlage 3 (zu § 6) Traditionelle Lebensmittel
+## Anlage 3 Traditionelle Lebensmittel
 
-( Fundstelle: BGBl. I 2007, 1822 - 1823 )
+(Fundstelle: BGBl. I 2016, 1475 — 1476)
+
 
 *    *   Lebensmittel
 
@@ -475,73 +478,78 @@ oder fahrlässig
 
 *    *   Milcherzeugnisse
 
-    *   Kapitel II Nr. 1
+    *   Kapitel II Nummer 1
 
     *   Räume mit
 
-        a)  gemauerten Bodenflächen,
-            Wandflächen oder Decken,
+
+*    *   a)
+
+    *   gemauerten Bodenflächen, Wandflächen oder Decken,
 
 
-        b)  mit Bodenflächen, Wandflächen
-            oder Decken aus offenporigem
-            Naturstein,
+*    *   b)
+
+    *   mit Bodenflächen, Wandflächen oder Decken aus offenporigem Naturstein,
 
 
-        c)  mit Bodenflächen aus anderen
-            natürlichen Materialien,
+*    *   c)
+
+    *   mit Bodenflächen aus anderen natürlichen Materialien,
 
 
-
-        in denen die Lebensmittel
-        reifen oder geräuchert werden,
-        Höhlen oder Felsenkeller, in
-        denen die Lebensmittel reifen
+*    *   in denen die Lebensmittel reifen oder geräuchert werden, Höhlen oder
+        Felsenkeller, in denen die Lebensmittel reifen
 
 
-*    *   Kapitel V Nr. 1
+*    *   Kapitel V Nummer 1
 
-    *
-        a)  Kessel aus Kupfer,
+    *   a)
 
-
-        b)  Arbeitsgeräte aus Holz,
+    *   Kessel aus Kupfer,
 
 
-        c)  Gewebe aus Naturfasern
-            oder sonstigen Materialien
-            pflanzlicher Herkunft,
+*    *   b)
+
+    *   Arbeitsgeräte aus Holz,
 
 
+*    *   c)
 
-        die zur Herstellung, Lagerung
-        oder Verpackung der Erzeugnisse verwendet werden
+    *   Gewebe aus Naturfasern oder sonstigen Materialien pflanzlicher
+        Herkunft,
+
+
+*    *   die zur Herstellung, Lagerung oder Verpackung der Erzeugnisse
+        verwendet werden
 
 
 *    *   Im Naturreifeverfahren hergestellte Rohwürste
 
-    *   Kapitel II Nr. 1
+    *   Kapitel II Nummer 1
 
     *   Räume mit
 
-        a)  gemauerten Bodenflächen,
-            Wandflächen oder Decken,
+
+*    *   a)
+
+    *   gemauerten Bodenflächen, Wandflächen oder Decken,
 
 
-        b)  mit Bodenflächen, Wandflächen
-            oder Decken aus offenporigem
-            Naturstein,
+*    *   b)
+
+    *   mit Bodenflächen, Wandflächen oder Decken aus offenporigem Naturstein,
 
 
-        c)  mit Bodenflächen aus anderen
-            natürlichen Materialien,
+*    *   c)
+
+    *   mit Bodenflächen aus anderen natürlichen Materialien,
 
 
+*    *   in denen die Erzeugnisse reifen oder geräuchert werden
 
-        in denen die Erzeugnisse reifen oder geräuchert werden
 
-
-*    *   Kapitel II Nr. 1 Buchstabe f und Kapitel V Nr. 1
+*    *   Kapitel II Nummer 1 Buchstabe f und Kapitel V Nummer 1
 
     *   Spieße und Stellagen aus Holz, an denen die Erzeugnisse während der
         Reifung oder Räucherung aufgehängt werden
@@ -549,27 +557,30 @@ oder fahrlässig
 
 *    *   Rohe Pökelfleischerzeugnisse
 
-    *   Kapitel II Nr. 1
+    *   Kapitel II Nummer 1
 
     *   Räume, Kammern oder Türme mit
 
-        a)  gemauerten Bodenflächen,
-            Wandflächen oder Decken,
+
+*    *   a)
+
+    *   gemauerten Bodenflächen, Wandflächen oder Decken,
 
 
-        b)  mit Bodenflächen oder
-            Wandflächen aus offenporigem
-            Naturstein,
+*    *   b)
+
+    *   mit Bodenflächen oder Wandflächen aus offenporigem Naturstein,
 
 
-        c)  mit Decken aus Naturstein oder anderen natürlichen Materialien,
+*    *   c)
+
+    *   mit Decken aus Naturstein oder anderen natürlichen Materialien,
 
 
+*    *   in denen die Erzeugnisse reifen oder geräuchert werden
 
-        in denen die Erzeugnisse reifen oder geräuchert werden
 
-
-*    *   Kapitel II Nr. 1 Buchstabe f und Kapitel V Nr. 1
+*    *   Kapitel II Nummer 1 Buchstabe f und Kapitel V Nummer 1
 
     *   Spieße und Stellagen aus Holz, an denen die Erzeugnisse während der
         Reifung oder Räucherung aufgehängt werden
@@ -577,7 +588,7 @@ oder fahrlässig
 
 *    *   Latwerge und Süßwaren
 
-    *   Kapitel V Nr. 1
+    *   Kapitel V Nummer 1
 
     *   Kessel aus Kupfer, die zur Herstellung der Erzeugnisse verwendet
         werden
@@ -585,7 +596,7 @@ oder fahrlässig
 
 *    *   Fruchtaufstriche, Süßwaren, Suppen und Eintöpfe
 
-    *   Kapitel V Nr. 1
+    *   Kapitel V Nummer 1
 
     *   Geräte aus Holz, die zur Herstellung der Erzeugnisse verwendet werden
 
@@ -593,7 +604,7 @@ oder fahrlässig
 *    *   Obst und Gemüse in Essig- oder Essig-Zuckerlösung, Gemüse in
         milchsaurer Gärung, Essig
 
-    *   Kapitel V Nr. 1
+    *   Kapitel V Nummer 1
 
     *   Fässer und Töpfe aus Holz oder Steingut, die zur Herstellung der
         Erzeugnisse verwendet werden
@@ -601,17 +612,19 @@ oder fahrlässig
 
 *    *   Brot und Backwaren
 
-    *   Kapitel V Nr. 1
+    *   Kapitel V Nummer 1
 
     *   Geräte und Ausrüstungen aus Holz, Eisen oder offenporigem Stein, die
         zur Herstellung der Erzeugnisse verwendet werden
 
 
 
+(zu § 6a)
 
-## Anlage 3a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft (zu § 6a)
+## Anlage 3a Ausnahmen für die Herstellung von Hart- und Schnittkäse in Betrieben der Alm- oder Alpwirtschaft
 
-(Fundstelle : BGBl. I 2010, 612 - 613)
+(Fundstelle: BGBl. I 2016, 1477)
+
 
 *    *   1
 
@@ -620,8 +633,7 @@ oder fahrlässig
     *   3
 
 
-*    *   Lfd.
-        Nr.
+*    *   Lfd. Nr.
 
     *   Anforderungen nach Artikel 4 Absatz 2 in Verbindung
         mit Anhang II der Verordnung (EG) Nr. 852/2004
@@ -668,620 +680,3 @@ oder fahrlässig
 
 
 
-
-## Anlage 4 (zu § 7 Abs. 1 und 3) Hygienische Anforderungen an die Beförderung von Ölen und Fetten in Seeschiffen
-
-( Fundstelle: BGBl. I 2007, 1824 - 1827 )
-Bei der Beförderung von Ölen und Fetten in Seeschiffen sind folgende
-Anforderungen einzuhalten:
-
-1.  Öle oder Fette müssen in Behältern aus rostfreiem Stahl oder in Tanks
-    mit einer Epoxidharzbeschichtung oder einer technisch gleichwertigen
-    Beschichtung befördert werden. Bei der unmittelbar zuvor in dem
-    betreffenden Tank beförderten Ladung muss es sich um ein Lebensmittel
-    oder um eine Ladung handeln, die in der Liste der zulässigen
-    vorherigen Ladungen in Nummer 4 dieser Anlage aufgeführt ist.
-
-
-2.  Werden Öle oder Fette in Behältern aus anderen als in Nummer 1 Satz 1
-    genannten Materialien befördert, muss es sich bei den drei zuvor in
-    diesen Behältern beförderten Ladungen um Lebensmittel oder um Ladungen
-    handeln, die in der Liste der zulässigen vorherigen Ladungen in Nummer
-    4 dieser Anlage aufgeführt sind.
-
-
-3.  Flüssige Öle oder Fette, die nicht weiter verarbeitet werden und für
-    den menschlichen Verzehr bestimmt sind oder in Frage kommen, dürfen
-    auf dem Seeweg in Behältern befördert werden, die nicht ausschließlich
-    für die Beförderungen von Lebensmitteln bestimmt sind, vorausgesetzt,
-    die folgenden Bedingungen werden erfüllt:
-
-    a)  Der Behälter muss aus rostfreiem Stahl hergestellt oder mit einer
-        Epoxidharzbeschichtung oder einer technisch gleichwertigen
-        Beschichtung versehen sein und
-
-
-    b)  bei den drei zuvor im Behälter beförderten Ladungen muss es sich um
-        ein Lebensmittel handeln.
-
-
-
-
-
-4.  Liste der zulässigen vorherigen Ladungen
-
-    *        *   Substanz (Synonyme)
-
-        *[^f758238_02_BJNR181700007BJNE001400000]
-   CAS-Nr.)
-
-
-    *        *   Essigsäure
-
-        *   64-19-7
-
-
-    *        *   Essigsäureanhydrid (Ethananhydrid)
-
-        *   108-24-7
-
-
-    *        *   Aceton (Dimetylketon; 2-Propanon)
-
-        *   67-64-1
-
-
-    *        *   Saueröle und Fettsäuredestillate – aus Pflanzenölen und -fetten u./o.
-            Gemischen daraus und Fetten und Ölen tierischer und mariner Herkunft
-
-
-    *        *   Ammoniumhydroxid (Ammoniumhydrat; Ammoniaklösung; Aqua ammonia)
-
-        *   1336-21-6
-
-
-    *        *   Ammoniumpolyphosphat
-
-        *   68333-79-9
-            10124-31-9
-
-
-    *        *   Öle und Fette tierischer, mariner und pflanzlicher Herkunft (außer
-            Cashewnuss- und rohes Tallöl)
-
-
-    *        *   Bienenwachs (weiß und gelb)
-
-        *   8006-40-4
-            8012-89-3
-
-
-    *        *   Benzylalkohol (nur NF und Reagenzien)
-
-        *   100-51-6
-
-
-    *        *   Butylacetat (n-; sec-; tert-)
-
-        *   123-86-4
-            105-46-4
-            540-88-5
-
-
-    *        *   Calciumchloridlösung, sofern die unmittelbar zuvor beförderte Ladung
-            in dieser Liste aufgeführt ist und nicht ähnlichen Beschränkungen
-            unterliegt
-
-        *   10043-52-4
-
-
-    *        *   Calciumlignosulfonat
-
-        *   8061-52-7
-
-
-    *        *   Candelillawachs
-
-        *   8006-44-8
-
-
-    *        *   Carnaubawachs (Brasilwachs)
-
-        *   8015-86-9
-
-
-    *        *   Cyclohexan (Hexamethylen; Naphthen; Hexahydrobenzol)
-
-        *   110-82-7
-
-
-    *        *   Sojabohnenöl, epoxidiert (mit mindestens 7 % – höchstens 8 %
-            Oxiransauerstoffgehalt)
-
-        *   8013-07-8
-
-
-    *        *   Ethanol (Ethylalkohol)
-
-        *   64-17-5
-
-
-    *        *   Ethylacetat (Acetic ether, Acetoessigester, Vinegar naphtha)
-
-        *   141-78-6
-
-
-    *        *   2-Ethylhexanol (2-Ethylhexylalkohol)
-
-        *   104-76-7
-
-
-    *        *   Fettsäuren:
-
-
-    *        *
-        *   Arachinsäure (Eicosansäure)
-
-        *   506-30-9
-
-
-    *        *
-        *   Behensäure (Docosansäure)
-
-        *   112-85-6
-
-
-    *        *
-        *   Buttersäure (n-Buttersäure; Butansäure; Ethylessigsäure;
-            Propylameisensäure)
-
-        *   107-92-6
-
-
-    *        *
-        *   Caprinsäure (n-Decansäure)
-
-        *   334-48-5
-
-
-    *        *
-        *   Capronsäure (n-Hexansäure)
-
-        *   142-62-1
-
-
-    *        *
-        *   Caprylsäure (n-Octansäure)
-
-        *   124-07-2
-
-
-    *        *
-        *   Erucasäure (Z-13-Docosensäure)
-
-        *   112-86-7
-
-
-    *        *
-        *   Enanthsäure (n-Heptansäure)
-
-        *   111-14-8
-
-
-    *        *
-        *   Laurinsäure (n-Dodecansäure)
-
-        *   143-07-7
-
-
-    *        *
-        *   Lauroleinsäure (Dodecensäure)
-
-        *   4998-71-4
-
-
-    *        *
-        *   Linolsäure (9,12-Octadecadiensäure)
-
-        *   60-33-3
-
-
-    *        *
-        *   Linolensäure (9,12,15-Octadecatriensäure)
-
-        *   463-40-1
-
-
-    *        *
-        *   Myristinsäure (n-Tetradecansäure)
-
-        *   544-63-8
-
-
-    *        *
-        *   Myristoleinsäure (n-Tetradecensäure)
-
-        *   544-64-9
-
-
-    *        *
-        *   Ölsäure (n-Octadecensäure)
-
-        *   112-80-1
-
-
-    *        *
-        *   Palmitinsäure (n-Hexadecansäure)
-
-        *   57-10-3
-
-
-    *        *
-        *   Palmitoleinsäure (Z-9-Hexadecensäure)
-
-        *   373-49-9
-
-
-    *        *
-        *   Pelargonsäure (n-Nonansäure)
-
-        *   112-05-0
-
-
-    *        *
-        *   Rizinolsäure (cis-12-Hydroxyoctadec-9-ensäure; Rizinusölsäure)
-
-        *   141-22-0
-
-
-    *        *
-        *   Stearinsäure (n-Octadecansäure)
-
-        *   57-11-4
-
-
-    *        *
-        *   Valeriansäure (n-Pentansäure)
-
-        *   109-52-4
-
-
-    *        *   Fettalkohole:
-
-
-    *        *
-        *   Butylalkohol (Butan-1-ol)
-
-        *   71-36-3
-
-
-    *        *
-        *   Caproylalkohol (Hexan-1-ol; Hexylalkohol)
-
-        *   111-27-3
-
-
-    *        *
-        *   Caprylalkohol (1-n-Octanol; Heptylcarbinol)
-
-        *   111-87-5
-
-
-    *        *
-        *   Cetylalkohol (Alkohol C-16; Hexadecan-1-ol; Palmitylalkohol, n-Primär-
-            Hexadecylalkohol)
-
-        *   36653-82-4
-
-
-    *        *
-        *   Decylalkohol (Decan-1-ol)
-
-        *   112-30-1
-
-
-    *        *
-        *   Oenanthylalkohol (1-Heptanol; Heptylalkohol)
-
-        *   111-70-6
-
-
-    *        *
-        *   Laurylalkohol (Dodecan-1-ol, Dodecylalkohol)
-
-        *   112-53-8
-
-
-    *        *
-        *   Myristylalkohol (1-Tetradecanol; Tetradecanol)
-
-        *   112-72-1
-
-
-    *        *
-        *   Nonylalkohol (Nonan-1-ol; Pelargonalkohol; Octylcarbinol)
-
-        *   143-08-8
-
-
-    *        *
-        *   Oleylalkohol (9-Octadecenol-1-ol)
-
-        *   143-28-2
-
-
-    *        *
-        *   Stearylalkohol (Octadecan-1-ol)
-
-        *   112-92-5
-
-
-    *        *
-        *   Tridecylalkohol (1-Tridecanol)
-
-        *   27458-92-0
-            112-70-9
-
-
-    *        *   Fettalkoholmischungen:
-
-
-    *        *
-        *   Lauryl-Myristylalkohol (C12-C14)
-
-        *
-
-    *        *
-        *   Cetyl-Stearylalkohol (C16-C18)
-
-        *
-
-    *        *   Fettsäureester – alle Ester, die in Kombination einer der oben
-            angeführten Fettsäuren und einer der oben angeführten Fettalkohole
-            entstanden sind
-
-
-    *        *   Fettsäuremethylester:
-
-
-    *        *
-        *   Methyllaurat (Methyldodecanoat)
-
-        *   111-82-0
-
-
-    *        *
-        *   Methylpalmitat (Methylhexadecanoat)
-
-        *   112-39-0
-
-
-    *        *
-        *   Methylstearat (Methyloctadecanoat)
-
-        *   112-61-8
-
-
-    *        *
-        *   Methyloleat (Methyloctadecenoat)
-
-        *   112-62-9
-
-
-    *        *
-        *   Ameisensäure (Methansäure; Wasserstoffcarbonsäure)
-
-        *   64-18-6
-
-
-    *        *
-        *   Glycerin (Glycerol)
-
-        *   56-81-5
-
-
-    *        *   Glykole:
-
-
-    *        *
-        *   Butandiol:
-
-
-    *        *
-        *   1,3-Butandiol (1,3-Butylenglykol)
-
-        *   107-88-0
-
-
-    *        *
-        *   1,4-Butandiol (1,4-Butylenglykol)
-
-        *   110-63-4
-
-
-    *        *
-        *   Polypropylenglykol (Molekulargewicht größer als 400)
-
-        *   25322-69-4
-
-
-    *        *
-        *   Propylenglykol (1,2-Propylenglykol; 1,2-Propandiol;
-            1,2-Dihydroxypropan;
-            Monopropylenglykol (MPG); Methylglykol)
-
-        *   57-55-6
-
-
-    *        *
-        *   1,3-Propylenglykol (Trimethylenglykol; 1,3-Propandiol)
-
-        *   504-63-2
-
-
-    *        *   n-Heptan
-
-        *   142-82-5
-
-
-    *        *   n-Hexan (technische Qualität)
-
-        *   110-54-3
-            64742-49-0
-
-
-    *        *   iso-Butylacetat
-
-        *   110-19-0
-
-
-    *        *   iso-Decanol (Isodecylalkohol)
-
-        *   25339-17-7
-
-
-    *        *   iso-Nonanol (Isononylalkohol)
-
-        *   27458-94-2
-
-
-    *        *   iso-Octanol (Isooctylalkohol)
-
-        *   26952-21-6
-
-
-    *        *   iso-Propanol (Isopropylalkohol; IPA)
-
-        *   67-63-0
-
-
-    *        *   Limonen (Dipenten)
-
-        *   138-86-3
-
-
-    *        *   Magnesiumchloridlösung
-
-        *   7786-30-3
-
-
-    *        *   Methanol (Methylalkohol)
-
-        *   67-56-1
-
-
-    *        *   Methylethylketon (2-Butanon)
-
-        *   78-93-3
-
-
-    *        *   Methylisobutylketon (4-Methyl-2-Pentanon)
-
-        *   108-10-1
-
-
-    *        *   (tert-Butyl)Methylether – (TBME)
-
-        *   1634-04-4
-
-
-    *        *   Melasse
-
-        *   57-50-1
-
-
-    *        *   Montanwachs
-
-        *   8002-53-7
-
-
-    *        *   Paraffinwachs
-
-        *   8002-74-2
-            63231-60-7
-
-
-    *        *   Pentan
-
-        *   109-66-0
-
-
-    *        *   Phosphorsäure (Orthophosphorsäure)
-
-        *   7664-38-2
-
-
-    *        *   Trinkwasser, sofern die unmittelbar zuvor beförderte Ladung in dieser
-            Liste aufgeführt ist und nicht ähnlichen Beschränkungen unterliegt
-
-
-    *        *   Kaliumhydroxid (Ätzkali), sofern die unmittelbar zuvor beförderte
-            Ladung in dieser Liste aufgeführt ist und nicht ähnlichen
-            Beschränkungen unterliegt
-
-        *   1310-58-3
-
-
-    *        *   n-Propylacetat
-
-        *   109-60-4
-
-
-    *        *   Propylentetramer
-
-        *   6842-15-5
-
-
-    *        *   Propylalkohol (Propan-1-ol; 1-Propanol)
-
-        *   71-23-8
-
-
-    *        *   Natriumhydroxid (Ätznatron), sofern die unmittelbar zuvor beförderte
-            Ladung in dieser Liste aufgeführt ist und nicht ähnlichen
-            Beschränkungen unterliegt
-
-        *   1310-73-2
-
-
-    *        *   Kieselgur (Diatomeenerde)
-
-        *   7631-86-9
-
-
-    *        *   Natriumsilicat (Wasserglas)
-
-        *   1344-09-8
-
-
-    *        *   Sorbitol (D-sorbitol; 6-wertiger Alkohol; D-Sorbit)
-
-        *   50-70-4
-
-
-    *        *   Schwefelsäure
-
-        *   7664-93-9
-
-
-    *        *   Harnstoffammoniaknitratlösung
-
-
-    *        *   Weingeläger (Bodensatz, Trub, Drusen, Rohweinstein, Weinstein; rohes
-            Kaliumbitartrat, rohes Kaliumbiturat, Kaliumhydrogentartrat)
-
-        *   868-14-4
-
-
-    *        *   Weißöle
-
-        *   8042-47-5
-
-
-
-
-
-
-
-    CAS = Chemical Abstracts Service Registry Number
-[^f758238_02_BJNR181700007BJNE001400000]: 

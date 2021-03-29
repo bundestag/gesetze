@@ -2,7 +2,7 @@
 Title: Gesetz zur Durchführung der einheitlichen Betriebsprämie
 jurabk: BetrPrämDurchfG
 layout: default
-origslug: betrpr_mdurchfg
+origslug: betrpraemdurchfg
 slug: betrpraemdurchfg
 
 ---
@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. V v. 26.11.2010 I 1720;
 
-Geändert durch
-:   Art. 2 Abs. 102 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 406 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -179,11 +179,11 @@ Artikel 64 in Verbindung mit Anhang XII der Verordnung (EG) Nr.
 stehen (sechster Erhöhungsbetrag), nach der Anlage 1a zur Erhöhung der
 Zahlungsansprüche auf die Regionen aufgeteilt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der
-zuständigen obersten Landesbehörden jeweils die Aufteilung nach den
-Absätzen 2, 3, 3a, 3b und 3c durchzuführen.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates nach Anhörung der zuständigen obersten
+Landesbehörden jeweils die Aufteilung nach den Absätzen 2, 3, 3a, 3b
+und 3c durchzuführen.
 
 
 ## § 5 Bestimmung des Referenzbetrages der einheitlichen Betriebsprämie
@@ -579,8 +579,9 @@ Betriebsinhabers in anonymisierter Form, dem Bundesministerium bis zum
 31\. August 2008 die Summe der für jede Region ermittelten gesonderten
 Beträge nach § 5 Absatz 4b.
 
+(zu § 4 Abs. 1)
 
-## Anlage 1 (zu § 4 Abs. 1) Aufteilung der angepassten nationalen Obergrenze auf die Regionen
+## Anlage 1 Aufteilung der angepassten nationalen Obergrenze auf die Regionen
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -657,8 +658,9 @@ Beträge nach § 5 Absatz 4b.
 
 
 
+(zu § 4 Absatz 3d)
 
-## Anlage 1a (zu § 4 Absatz 3d) Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
+## Anlage 1a Aufteilung des sechsten Erhöhungsbetrages auf die Regionen
 
 (Fundstelle: BGBl. I 2010, 1726)
 
@@ -734,8 +736,9 @@ Beträge nach § 5 Absatz 4b.
 
 
 
+(zu § 5 Abs. 3 Nr. 2)
 
-## Anlage 2 (zu § 5 Abs. 3 Nr. 2) Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
+## Anlage 2 Verhältnis des Wertes des flächenbezogenen Betrages je Hektar förderfähige Fläche, die am 15. Mai 2003 als Dauergrünland genutzt wurde, bezogen auf den Wert des flächenbezogenen Betrages je Hektar für die sonstigen förderfähigen Flächen
 
 (Fundstelle: BGBl. I 2010, 1727)
 
@@ -842,13 +845,15 @@ Beträge nach § 5 Absatz 4b.
 
 
 
+(zu § 6 Abs. 1)
+Berechnungsverfahren
 
-## Anlage 3 (zu § 6 Abs. 1) Berechnungsverfahren zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
+## Anlage 3 zur Bestimmung des Wertes der Zahlungsansprüche im Zeitablauf
 
 (Fundstelle: BGBl. I 2010, 1727)
 Berechnungsformel: Y
-t              = Z + [x
-### t              \* (S - Z)]
+t = Z + [x
+### t \* (S - Z)]
 
 wobei:
 
@@ -870,7 +875,7 @@ t:  Angleichungsfaktor für das jeweilige Anpassungsjahr
 
 
 Der Faktor x
-t              hat folgende Werte:
+t hat folgende Werte:
 
 für das Jahr 2009: 1,00
 

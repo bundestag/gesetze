@@ -129,7 +129,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 3.  entgegen § 4
-    oder § 8                    eine Anlage so betreibt, daß die zulässige
+    oder § 8 eine Anlage so betreibt, daß die zulässige
     Massenkonzentration an Staub in der Abluft überschritten wird.
 
 

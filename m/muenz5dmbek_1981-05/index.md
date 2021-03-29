@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Gotthold Ephraim Lessing)
 jurabk: Münz5DMBek 1981-05
 layout: default
-origslug: m_nz5dmbek_1981-05
+origslug: muenz5dmbek_1981-05
 slug: muenz5dmbek_1981-05
 
 ---

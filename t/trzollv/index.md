@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2947
 
+Geändert durch
+:   Art. 9 Abs. 11 G v. 3.12.2015 I 2178
+
 
 ## Eingangsformel
 
@@ -285,8 +288,8 @@ neuen zollrechtlichen Bestimmung zur Beendigung der Truppenverwendung
 gelten die Vorschriften der Zollkodex-Durchführungsverordnung (Teil I
 Titel VII und IX). Für die Codierung der Truppenverwendung als
 vorangegangenes Zollverfahren in
-Feld 37,              erstes Unterfeld, des Einheitspapiers ist als
-Grundelement der Verfahrenscode 99 zu verwenden.
+Feld 37, erstes Unterfeld, des Einheitspapiers ist als Grundelement
+der Verfahrenscode 99 zu verwenden.
 
 
 ### § 5 Der Zollanmeldung beizufügende Unterlagen
@@ -712,8 +715,8 @@ Verordnung sind,
 
 
 
-(2) Das Bundesministerium der Finanzen kann auf Ersuchen der
-ausländischen Streitkräfte in besonderen Fällen weitere Personen oder
+(2) Die Generalzolldirektion kann auf Ersuchen der ausländischen
+Streitkräfte in besonderen Fällen weitere Personen oder
 Personengruppen den versorgungsberechtigten Personen nach Absatz 1
 gleichstellen.
 
@@ -741,9 +744,9 @@ gekauft worden sind. Dabei sind die Kaufbelege im Original vorzulegen.
 Die zuständige Zollstelle kann die Frist im Einzelfall verlängern.
 
 (4) Für Waren mit einem Wert von weniger als
-50 Euro              je einzelner Ware sind die Einfuhrabgaben mit dem
-Satz zu erheben, der nach § 29 Absatz 2 Nummer 6 der Zollverordnung
-für andere als präferenzberechtigte Waren gilt.
+50 Euro je einzelner Ware sind die Einfuhrabgaben mit dem Satz zu
+erheben, der nach § 29 Absatz 2 Nummer 6 der Zollverordnung für andere
+als präferenzberechtigte Waren gilt.
 
 
 ##### § 17 Zulassung als versorgungsberechtigte Person
@@ -1039,18 +1042,18 @@ Truppenverwendung übergeführt werden sollen und die zuerst mit dem
 Antrag befasst war.
 
 (4) Zuständig für die Genehmigung der Abgabe von Einfuhrwaren aus
-dienstlichen Gründen nach § 9 ist die Bundesfinanzdirektion Nord.
+dienstlichen Gründen nach § 9 ist die Generalzolldirektion.
 
 (5) Zuständig für die Genehmigung eines Volksfestes nach § 11 oder für
 Genehmigungen nach § 12 ist die Zollstelle, in deren Bezirk die
 Veranstaltung stattfindet.
 
 (6) Zuständig für die Genehmigung anderer öffentlicher Veranstaltungen
-nach § 11 ist die Bundesfinanzdirektion Nord.
+nach § 11 ist die Generalzolldirektion.
 
 (7) Zuständige Zollstelle für die Mitteilung der Erlaubnis und für die
 Genehmigung der Abgabe von Einfuhrwaren nach § 14 ist die
-Bundesfinanzdirektion Nord.
+Generalzolldirektion.
 
 (8) Zuständige Zollstelle für die versorgungsberechtigte oder
 gleichgestellte Person ist grundsätzlich die Zollstelle, in deren

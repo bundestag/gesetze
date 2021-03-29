@@ -17,24 +17,25 @@ Fundstelle
 :   BGBl I: 1998, 74, 80
 
 Zuletzt geändert durch
-:   Art. 2 V v. 20.7.2012 I 1639
+:   Art. 2 V v. 2.7.2018 I 1078
 
 
 ## § 1 Grundsätze
 
 (1) Die in Anlage III des Betäubungsmittelgesetzes bezeichneten
-Betäubungsmittel dürfen nur als Zubereitungen verschrieben werden. Die
-Vorschriften dieser Verordnung gelten auch für Salze und
-Molekülverbindungen der Betäubungsmittel, die nach den Erkenntnissen
-der medizinischen Wissenschaft ärztlich, zahnärztlich oder
-tierärztlich angewendet werden. Sofern im Einzelfall nichts anderes
-bestimmt ist, gilt die für ein Betäubungsmittel festgesetzte
-Höchstmenge auch für dessen Salze und Molekülverbindungen.
+Betäubungsmittel dürfen nur als Zubereitungen, Cannabis auch in Form
+von getrockneten Blüten, verschrieben werden. Die Vorschriften dieser
+Verordnung gelten auch für Salze und Molekülverbindungen der
+Betäubungsmittel, die nach den Erkenntnissen der medizinischen
+Wissenschaft ärztlich, zahnärztlich oder tierärztlich angewendet
+werden. Sofern im Einzelfall nichts anderes bestimmt ist, gilt die für
+ein Betäubungsmittel festgesetzte Höchstmenge auch für dessen Salze
+und Molekülverbindungen.
 
 (2) Betäubungsmittel für einen Patienten oder ein Tier und für den
 Praxisbedarf eines Arztes, Zahnarztes oder Tierarztes dürfen nur nach
 Vorlage eines ausgefertigten Betäubungsmittelrezeptes (Verschreibung),
-für den Stationsbedarf, den Notfallbedarf nach § 5c und den
+für den Stationsbedarf, den Notfallbedarf nach § 5d und den
 Rettungsdienstbedarf nach § 6 Absatz 1 nur nach Vorlage eines
 ausgefertigten Betäubungsmittelanforderungsscheines (Verschreibung für
 den Stationsbedarf, den Notfallbedarf und den Rettungsdienstbedarf),
@@ -52,14 +53,14 @@ nachzuweisen:
 3.  auf Stationen der Krankenhäuser und der Tierkliniken,
 
 
-4.  in Alten- und Pflegeheimen, in Hospizen und Einrichtungen der
-    spezialisierten ambulanten Palliativversorgung,
+4.  in Alten- und Pflegeheimen sowie in Hospizen,
 
 
 5.  in Einrichtungen der Rettungsdienste,
 
 
-6.  in Einrichtungen nach § 5 Absatz 9b sowie
+6.  in Einrichtungen nach § 5 Absatz 10 Satz 1 Nummer 3 Buchstabe a, b und
+    e, Satz 2 Nummer 1 Buchstabe b und Nummer 4 und § 5a Absatz 2 sowie
 
 
 7.  auf Kauffahrteischiffen, die die Bundesflagge führen.
@@ -95,8 +96,15 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
 *    *   2a.
 
+    *   Cannabis in Form von getrockneten Blüten
+
+    *   100 000 mg,
+
+
+*    *   2b.
+
     *   Cannabisextrakt (bezogen auf den*
-        9                       -Tetrahydrocannabinol-Gehalt)
+        9-Tetrahydrocannabinol-Gehalt)
 
     *   1 000 mg,
 
@@ -173,23 +181,29 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
 *    *   10.
 
-    *   Levacetylmethadol
+    *   (weggefallen)
 
-    *   2 000 mg,
-
+    *
 
 *    *   11.
 
     *   Levomethadon
 
-    *   1 500 mg,
+    *   1 800 mg,
+
+
+*    *   11a.
+
+    *   Lisdexamfetamindimesilat
+
+    *   2 100 mg,
 
 
 *    *   12.
 
     *   Methadon
 
-    *   3 000 mg,
+    *   3 600 mg,
 
 
 *    *   13.
@@ -209,7 +223,7 @@ a)  bis zu zwei der folgenden Betäubungsmittel unter Einhaltung der
 
     *   Morphin
 
-    *   20 000 mg,
+    *   24 000 mg,
 
 
 *    *   16.
@@ -428,8 +442,8 @@ a)  eines der folgenden Betäubungsmittel unter Einhaltung der nachstehend
 
 
 b)  eines der weiteren in Anlage III des Betäubungsmittelgesetzes
-    bezeichneten Betäubungsmittel außer Alfentanil, Amfetamin, Cocain,
-    Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl,
+    bezeichneten Betäubungsmittel außer Alfentanil, Amfetamin, Cannabis,
+    Cocain, Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl,
     Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Normethadon,
     Opium, Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital
     und Sufentanil.
@@ -564,10 +578,11 @@ a)  eines der folgenden Betäubungsmittel unter Einhaltung der nachstehend
 
 
 b)  eines der weiteren in Anlage III des Betäubungsmittelgesetzes
-    bezeichneten Betäubungsmittel außer Alfentanil, Cocain, Diamorphin,
-    Dronabinol, Etorphin, Fenetyllin, Fentanyl, Levacetylmethadol,
-    Methadon, Methaqualon, Methylphenidat, Nabilon, Oxycodon, Papaver
-    somniferum, Pentobarbital, Remifentanil, Secobarbital und Sufentanil.
+    bezeichneten Betäubungsmittel außer Alfentanil, Cannabis, Cocain,
+    Diamorphin, Dronabinol, Etorphin, Fenetyllin, Fentanyl,
+    Levacetylmethadol, Methadon, Methylphenidat, Nabilon, Oxycodon,
+    Papaver somniferum, Pentobarbital, Remifentanil, Secobarbital und
+    Sufentanil.
 
 
 
@@ -594,10 +609,11 @@ von 20 vom Hundert oder als Salbe bis zu einem Gehalt von 2 vom
 Hundert, Etorphin nur zur Immobilisierung von Tieren, die im Zoo, im
 Zirkus oder in Wildgehegen gehalten werden, durch eigenhändige oder in
 Gegenwart des Verschreibenden erfolgende Verabreichung, Fentanyl,
-Pentobarbital, Remifentanil und Sufentanil bis zur Menge seines
-durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die kleinste
-Packungseinheit, verschreiben. Die Vorratshaltung soll für jedes
-Betäubungsmittel den Monatsbedarf des Tierarztes nicht übersteigen.
+Methadon, Pentobarbital, Remifentanil und Sufentanil bis zur Menge
+seines durchschnittlichen Zweiwochenbedarfs, mindestens jedoch die
+kleinste Packungseinheit, verschreiben. Die Vorratshaltung soll für
+jedes Betäubungsmittel den Monatsbedarf des Tierarztes nicht
+übersteigen.
 
 (4) Für den Stationsbedarf darf nur der Tierarzt verschreiben, der
 eine Tierklinik oder eine Teileinheit einer Tierklinik leitet oder in
@@ -607,302 +623,386 @@ der dort festgelegten Beschränkungen über Bestimmungszweck, Gehalt und
 Darreichungsform verschreiben.
 
 
-## § 5 Verschreiben zur Substitution
+## § 5 Substitution, Verschreiben von Substitutionsmitteln
 
 (1) Substitution im Sinne dieser Verordnung ist die Anwendung eines
-ärztlich verschriebenen Betäubungsmittels bei einem opiatabhängigen
-Patienten (Substitutionsmittel) zur
+Substitutionsmittels. Substitutionsmittel im Sinne dieser Verordnung
+sind ärztlich verschriebene Betäubungsmittel, die bei einem
+opioidabhängigen Patienten im Rahmen eines Therapiekonzeptes zur
+medizinischen Behandlung einer Abhängigkeit, die durch den Missbrauch
+von erlaubt erworbenen oder durch den Missbrauch von unerlaubt
+erworbenen oder erlangten Opioiden begründet ist, angewendet werden.
 
-1.  Behandlung der Opiatabhängigkeit mit dem Ziel der schrittweisen
-    Wiederherstellung der Betäubungsmittelabstinenz einschließlich der
-    Besserung und Stabilisierung des Gesundheitszustandes,
+(2) Im Rahmen der ärztlichen Therapie soll eine Opioidabstinenz des
+Patienten angestrebt werden. Wesentliche Ziele der Substitution sind
+dabei insbesondere
 
+1.  die Sicherstellung des Überlebens,
 
-2.  Unterstützung der Behandlung einer neben der Opiatabhängigkeit
-    bestehenden schweren Erkrankung oder
 
+2.  die Besserung und Stabilisierung des Gesundheitszustandes,
 
-3.  Verringerung der Risiken einer Opiatabhängigkeit während einer
-    Schwangerschaft und nach der Geburt.
 
+3.  die Abstinenz von unerlaubt erworbenen oder erlangten Opioiden,
 
 
+4.  die Unterstützung der Behandlung von Begleiterkrankungen oder
 
-(2) Für einen Patienten darf der Arzt ein Substitutionsmittel unter
-den Voraussetzungen des § 13 Abs. 1 des Betäubungsmittelgesetzes
-verschreiben, wenn und solange
 
-1.  der Substitution keine medizinisch allgemein anerkannten
-    Ausschlussgründe entgegenstehen,
+5.  die Verringerung der durch die Opioidabhängigkeit bedingten Risiken
+    während einer Schwangerschaft sowie während und nach der Geburt.
 
 
-2.  die Behandlung erforderliche psychiatrische, psychotherapeutische oder
-    psychosoziale Behandlungs- und Betreuungsmaßnahmen einbezieht,
 
 
-3.  der Arzt die Meldeverpflichtungen nach § 5a Abs. 2 erfüllt hat,
+(3) Ein Arzt darf einem Patienten Substitutionsmittel unter den
+Voraussetzungen des § 13 Absatz 1 des Betäubungsmittelgesetzes
+verschreiben, wenn er die Mindestanforderungen an eine
+suchtmedizinische Qualifikation erfüllt, die von den Ärztekammern nach
+dem allgemein anerkannten Stand der medizinischen Wissenschaft
+festgelegt werden (suchtmedizinisch qualifizierter Arzt). Zudem muss
+er die Meldeverpflichtungen nach § 5b Absatz 2 erfüllen.
 
+(4) Erfüllt der Arzt nicht die Mindestanforderungen an eine
+suchtmedizinische Qualifikation nach Absatz 3 Satz 1 (suchtmedizinisch
+nicht qualifizierter Arzt), muss er zusätzlich zu der Voraussetzung
+nach Absatz 3 Satz 2
 
-4.  die Untersuchungen und Erhebungen des Arztes keine Erkenntnisse
-    ergeben haben, dass der Patient
+1.  sich zu Beginn der Behandlung mit einem suchtmedizinisch
+    qualifizierten Arzt abstimmen sowie
 
-    a)  von einem anderen Arzt verschriebene Substitutionsmittel erhält,
 
+2.  sicherstellen, dass sich sein Patient zu Beginn der Behandlung und
+    mindestens einmal in jedem Quartal dem suchtmedizinisch qualifizierten
+    Arzt nach Nummer 1 im Rahmen einer Konsiliarbehandlung vorstellt.
 
-    b)  nach Nummer 2 erforderliche Behandlungs- und Betreuungsmaßnahmen
-        dauerhaft nicht in Anspruch nimmt,
 
 
-    c)  Stoffe gebraucht, deren Konsum nach Art und Menge den Zweck der
-        Substitution gefährdet oder
+Ein suchtmedizinisch nicht qualifizierter Arzt darf gleichzeitig
+höchstens zehn Patienten mit Substitutionsmitteln behandeln. Er darf
+keine Behandlung nach § 5a durchführen.
 
+(5) Im Vertretungsfall soll der substituierende Arzt von einem
+suchtmedizinisch qualifizierten Arzt vertreten werden. Gelingt es dem
+substituierenden Arzt nicht, einen Vertreter nach Satz 1 zu bestellen,
+so kann er von einem suchtmedizinisch nicht qualifizierten Arzt
+vertreten werden. In diesem Fall darf die Vertretung einen
+zusammenhängenden Zeitraum von bis zu vier Wochen und höchstens
+insgesamt zwölf Wochen im Jahr umfassen. Der Vertreter hat sich mit
+dem zu vertretenden Arzt grundsätzlich vor Beginn des
+Vertretungsfalles abzustimmen. Notfallentscheidungen bleiben in allen
+Vertretungsfällen unberührt. Der Vertreter fügt den Schriftwechsel
+sowie die sonstigen Aufzeichnungen zwischen den an der Vertretung
+beteiligten Ärzten der Dokumentation nach Absatz 11 bei. Der Vertreter
+nach Satz 2 darf im Rahmen seiner Vertretung keine Behandlung nach §
+5a durchführen.
 
-    d)  das ihm verschriebene Substitutionsmittel nicht bestimmungsgemäß
-        verwendet,
+(6) Als Substitutionsmittel im Sinne von Absatz 1 darf der
+substituierende Arzt nur Folgendes verschreiben:
 
+1.  ein zur Substitution zugelassenes Arzneimittel, das nicht den Stoff
+    Diamorphin enthält,
 
 
+2.  eine Zubereitung von Levomethadon, von Methadon oder von Buprenorphin
+    oder
 
 
-5.  der Patient im erforderlichen Umfang, in der Regel wöchentlich, den
-    behandelnden Arzt konsultiert und
+3.  in begründeten Ausnahmefällen eine Zubereitung von Codein oder
+    Dihydrocodein.
 
 
-6.  der Arzt Mindestanforderungen an eine suchttherapeutische
-    Qualifikation erfüllt, die von den Ärztekammern nach dem allgemein
-    anerkannten Stand der medizinischen Wissenschaft festgelegt werden.
 
+Die in Satz 1 genannten Substitutionsmittel dürfen nicht zur
+intravenösen Anwendung bestimmt sein. Die Verschreibung eines in Satz
+1 genannten Substitutionsmittels ist mit dem Buchstaben „S“ zu
+kennzeichnen. Für die zur Substitution zugelassenen Arzneimittel mit
+dem Stoff Diamorphin gilt § 5a.
 
+(7) Dem Patienten ist das vom Arzt verschriebene Substitutionsmittel
+zum unmittelbaren Verbrauch von den in Absatz 10 Satz 1 und 2
+bezeichneten Personen oder dem dort bezeichneten Personal in den in
+Absatz 10 Satz 1 und 2 genannten Einrichtungen zu überlassen. Im Fall
+des Verschreibens von Codein oder Dihydrocodein kann dem Patienten
+nach der Überlassung jeweils einer Dosis zum unmittelbaren Verbrauch
+die für einen Tag zusätzlich benötigte Menge des Substitutionsmittels
+in abgeteilten Einzeldosen ausgehändigt und ihm die
+eigenverantwortliche Einnahme gestattet werden, sofern dem Arzt keine
+Anhaltspunkte für eine nicht bestimmungsgemäße Einnahme des
+Substitutionsmittels vorliegen.
 
-Für die Erfüllung der Zulässigkeitsvoraussetzungen nach den Nummern 1,
-2 und 4 Buchstabe c ist der allgemein anerkannte Stand der
-medizinischen Wissenschaft maßgebend.
+(8) Abweichend von Absatz 7 Satz 1 darf der substituierende Arzt dem
+Patienten das Substitutionsmittel zur eigenverantwortlichen Einnahme
+gemäß den Feststellungen der Bundesärztekammer nach Absatz 12 Satz 1
+Nummer 3 Buchstabe b ausnahmsweise dann verschreiben, wenn
 
-(3) Ein Arzt, der die Voraussetzungen nach Absatz 2 Satz 1 Nr. 6 nicht
-erfüllt, darf für höchstens drei Patienten gleichzeitig ein
-Substitutionsmittel verschreiben, wenn
+1.  die Kontinuität der Substitutionsbehandlung des Patienten nicht
+    anderweitig gewährleistet werden kann,
 
-1.  die Voraussetzungen nach Absatz 2 Satz 1 Nr. 1 bis 5 für die Dauer der
-    Behandlung erfüllt sind,
 
+2.  der Verlauf der Behandlung dies zulässt,
 
-2.  dieser zu Beginn der Behandlung diese mit einem Arzt, der die
-    Mindestanforderungen nach Absatz 2 Satz 1 Nummer 6 erfüllt
-    (Konsiliarius), abstimmt und
 
+3.  Risiken der Selbst- oder Fremdgefährdung so weit wie möglich
+    ausgeschlossen sind und
 
-3.  sichergestellt hat, dass sein Patient zu Beginn der Behandlung und
-    mindestens einmal im Quartal dem Konsiliarius vorgestellt wird.
 
+4.  die Sicherheit und Kontrolle des Betäubungsmittelverkehrs nicht
+    beeinträchtigt werden.
 
 
-Wird der Arzt nach Satz 1 durch einen Arzt vertreten, der die
-Voraussetzungen nach Absatz 2 Satz 1 Nummer 6 ebenfalls nicht erfüllt,
-so gelten Satz 1 Nummer 1 und 2 für den Vertreter entsprechend. Ein
-substituierender Arzt gemäß Absatz 2 soll grundsätzlich von einem
-anderen Arzt, der die Voraussetzungen nach Absatz 2 Satz 1 Nummer 6
-erfüllt, vertreten werden. Gelingt es dem substituierenden Arzt nicht,
-einen Vertreter nach Satz 3 zu bestellen, so kann er von einem Arzt,
-der die Voraussetzungen nach Absatz 2 Satz 1 Nummer 6 nicht erfüllt,
-für einen Zeitraum von bis zu vier Wochen und längstens insgesamt 12
-Wochen im Jahr vertreten werden. Der vertretende Arzt gemäß Satz 4
-stimmt die Substitutionsbehandlung vor Vertretungsbeginn mit dem
-vertretenen Arzt ab. Wird während der Vertretung eine unvorhergesehene
-Änderung der Substitutionstherapie erforderlich, stimmt sich der
-Vertreter gemäß Satz 4 erneut mit dem vertretenen Arzt ab. Ist eine
-rechtzeitige Abstimmung nicht möglich, bezieht der vertretende Arzt
-gemäß Satz 4 einen anderen Arzt, der die Voraussetzungen gemäß Absatz
-2 Satz 1 Nummer 6 erfüllt, konsiliarisch ein. Notfallentscheidungen
-bleiben in allen Vertretungsfällen unberührt. Über die vorstehend
-genannte Zusammenarbeit zwischen dem behandelnden Arzt und dem
-Konsiliarius sowie dem vertretenen und dem vertretenden Arzt gemäß den
-Sätzen 2 und 4 ist der Dokumentation nach Absatz 10 der diesbezügliche
-Schriftwechsel beizufügen. Die Sätze 1 bis 9 gelten nicht für die
-Behandlung nach den Absätzen 9a bis 9d.
-
-(4) Die Verschreibung über ein Substitutionsmittel ist mit dem
-Buchstaben "S" zu kennzeichnen. Als Substitutionsmittel darf der Arzt
-nur
-
-1.  Zubereitungen von Levomethadon, Methadon und Buprenorphin,
-
-
-2.  in begründeten Ausnahmefällen Codein oder Dihydrocodein,
-
-
-3.  Diamorphin als zur Substitution zugelassenes Arzneimittel oder
-
-
-4.  ein anderes zur Substitution zugelassenes Arzneimittel
-
-
-
-verschreiben. Die in Satz 2 Nummer 1, 2 und 4 genannten
-Substitutionsmittel dürfen nicht zur parenteralen Anwendung bestimmt
-sein. Für die Auswahl des Substitutionsmittels ist neben den
-Vorschriften dieser Verordnung der allgemein anerkannte Stand der
-medizinischen Wissenschaft maßgebend. Für die Verschreibung von
-Diamorphin nach Satz 2 Nummer 3 gelten die Absätze 6 bis 8 nicht.
-
-(5) Der Arzt, der ein Substitutionsmittel für einen Patienten
-verschreibt, darf die Verschreibung außer in den in Absatz 8 genannten
-Fällen nicht dem Patienten aushändigen. Die Verschreibung darf nur von
-ihm selbst, seinem ärztlichen Vertreter oder durch das in Absatz 6
-Satz 1 bezeichnete Personal der Apotheke vorgelegt werden. Der Arzt,
-der Diamorphin verschreibt, darf die Verschreibung nur einem
-pharmazeutischen Unternehmer vorlegen.
-
-(6) Das Substitutionsmittel ist dem Patienten vom behandelnden Arzt,
-seinem ärztlichen Vertreter in der Praxis oder von dem von ihm
-angewiesenen oder beauftragten und kontrollierten medizinischen,
-pharmazeutischen oder in staatlich anerkannten Einrichtungen der
-Suchtkrankenhilfe tätigen und dafür ausgebildeten Personal zum
-unmittelbaren Verbrauch zu überlassen. Der behandelnde Arzt hat
-sicherzustellen, dass das Personal nach Satz 1 fachgerecht in das
-Überlassen eines Substitutionsmittels zum unmittelbaren Verbrauch
-eingewiesen wird. Im Falle des Verschreibens von Codein oder
-Dihydrocodein kann dem Patienten nach der Überlassung jeweils einer
-Dosis zum unmittelbaren Verbrauch die für einen Tag zusätzlich
-benötigte Menge des Substitutionsmittels in abgeteilten Einzeldosen
-ausgehändigt und ihm dessen eigenverantwortliche Einnahme gestattet
-werden, wenn dem Arzt keine Anhaltspunkte für eine nicht
-bestimmungsgemäße Verwendung des Substitutionsmittels durch den
-Patienten vorliegen.
 
-(7) Das Substitutionsmittel ist dem Patienten in der Praxis eines
-Arztes, in einem Krankenhaus oder in einer Apotheke oder in einer
-hierfür von der zuständigen Landesbehörde anerkannten anderen
-geeigneten Einrichtung oder, im Falle einer ärztlich bescheinigten
-Pflegebedürftigkeit, bei einem Hausbesuch zum unmittelbaren Verbrauch
-zu überlassen. Der Arzt darf die benötigten Substitutionsmittel in
-einer der in Satz 1 genannten Einrichtungen unter seiner Verantwortung
-lagern; die Einwilligung des über die jeweiligen Räumlichkeiten
-Verfügungsberechtigten bleibt unberührt. Für den Nachweis über den
-Verbleib und Bestand gelten die §§ 13 und 14 entsprechend.
+In diesem Fall darf das Substitutionsmittel nur in folgenden Mengen
+verschrieben werden:
 
-(8) Der Arzt oder sein ärztlicher Vertreter in der Praxis darf
-abweichend von den Absätzen 5 bis 7 dem Patienten, dem ein
-Substitutionsmittel nach Absatz 6 zum unmittelbaren Verbrauch
-überlassen wird, in Fällen, in denen die Kontinuität der
-Substitutionsbehandlung nicht anderweitig gewährleistet werden kann,
-ein Substitutionsmittel in der bis zu zwei Tagen benötigten Menge
-verschreiben und ihm dessen eigenverantwortliche Einnahme gestatten,
-sobald der Verlauf der Behandlung dies zulässt, Risiken der Selbst-
-oder Fremdgefährdung soweit wie möglich ausgeschlossen sind sowie die
-Sicherheit und Kontrolle des Betäubungsmittelverkehrs nicht
-beeinträchtigt werden. Innerhalb einer Woche darf der Arzt dem
-Patienten nicht mehr als eine Verschreibung nach Satz 1 aushändigen.
-Diese Verschreibung ist, unbeschadet des Absatzes 4 Satz 1, von dem
-Arzt zusätzlich mit dem Buchstaben „Z“ zu kennzeichnen.
-
-Sobald und solange sich der Zustand des Patienten stabilisiert hat und
-eine Überlassung des Substitutionsmittels zum unmittelbaren Verbrauch
-nicht mehr erforderlich ist, darf der Arzt dem Patienten eine
-Verschreibung über die für bis zu sieben Tage benötigte Menge des
-Substitutionsmittels aushändigen und ihm dessen eigenverantwortliche
-Einnahme erlauben. Die Aushändigung einer Verschreibung nach Satz 4
-ist insbesondere dann nicht zulässig, wenn die Untersuchungen und
-Erhebungen des Arztes Erkenntnisse ergeben haben, dass der Patient
-
-1.  Stoffe konsumiert, die ihn zusammen mit der Einnahme des
-    Substitutionsmittels gefährden,
-
-
-2.  unter Berücksichtigung der Toleranzentwicklung noch nicht auf eine
-    stabile Dosis eingestellt worden ist oder
-
-
-3.  Stoffe missbräuchlich konsumiert.
-
-
-
-Für die Bewertung des Verlaufes der Behandlung durch den
-substituierenden Arzt ist im Übrigen der allgemein anerkannte Stand
-der medizinischen Wissenschaft maßgebend. Im Falle eines
-Auslandsaufenthaltes des Patienten, dem bereits Substitutionsmittel
-nach Satz 4 verschrieben werden, kann der Arzt unter Berücksichtigung
-aller in diesem Absatz genannten Voraussetzungen zur Sicherstellung
-der Versorgung diesem Verschreibungen über eine Menge des
-Substitutionsmittels für einen längeren als in Satz 4 genannten
-Zeitraum aushändigen und ihm dessen eigenverantwortliche Einnahme
-erlauben. Diese Verschreibungen dürfen in einem Jahr insgesamt die für
-bis zu 30 Tage benötigte Menge des Substitutionsmittels nicht
-überschreiten. Sie sind der zuständigen Landesbehörde unverzüglich
-anzuzeigen. Jede Verschreibung nach den Sätzen 1, 4 oder 8 ist dem
-Patienten im Rahmen einer persönlichen ärztlichen Konsultation
-auszuhändigen.
-
-(9) Patienten, die die Praxis des behandelnden Arztes zeitweilig oder
-auf Dauer wechseln, hat der behandelnde Arzt vor der Fortsetzung der
-Substitution auf einem Betäubungsmittelrezept eine
-Substitutionsbescheinigung auszustellen. Auf der
-Substitutionsbescheinigung sind anzugeben:
-
-1.  Name, Vorname und Anschrift des Patienten, für den die
-    Substitutionsbescheinigung bestimmt ist,
-
-
-2.  Ausstellungsdatum,
-
-
-3.  das verschriebene Substitutionsmittel und die Tagesdosis,
-
-
-4.  Beginn des Verschreibens und der Abgabe nach den Absätzen 1 bis 7 und
-    gegebenenfalls Beginn des Verschreibens nach Absatz 8,
-
-
-5.  Gültigkeit: von/bis,
-
-
-6.  Name des ausstellenden Arztes, seine Berufsbezeichnung und Anschrift
-    einschließlich Telefonnummer,
-
-
-7.  Unterschrift des ausstellenden Arztes.
-
-
-
-Die Substitutionsbescheinigung ist mit dem Vermerk "Nur zur Vorlage
-beim Arzt" zu kennzeichnen. Teil I der Substitutionsbescheinigung
-erhält der Patient, Teil II und III verbleibt bei dem ausstellenden
-Arzt. Nach Vorlage des Teils I der Substitutionsbescheinigung durch
-den Patienten und Überprüfung der Angaben zur Person durch Vergleich
-mit dem Personalausweis oder Reisepass des Patienten kann ein anderer
-Arzt das Verschreiben des Substitutionsmittels fortsetzen; erfolgt
-dies nur zeitweilig, hat der andere Arzt den behandelnden Arzt
-unverzüglich nach Abschluss seines Verschreibens schriftlich über die
-durchgeführten Maßnahmen zu unterrichten.
-
-(9a) Zur Behandlung einer schweren Opiatabhängigkeit kann das
-Substitutionsmittel Diamorphin zur parenteralen Anwendung verschrieben
-werden. Der Arzt darf Diamorphin nur verschreiben, wenn
-
-1.  er selbst eine suchttherapeutische Qualifikation im Sinne des Absatz 2
-    Satz 1 Nummer 6 erworben hat, die sich auf die Behandlung mit
-    Diamorphin erstreckt, oder er im Rahmen des Modellprojektes
-    „Heroingestützte Behandlung Opiatabhängiger" mindestens sechs Monate
-    ärztlich tätig war,
+1.  in der für bis zu zwei aufeinanderfolgende Tage benötigten Menge oder
+
+
+2.  in der Menge, die benötigt wird für die Wochenendtage Samstag und
+    Sonntag und für dem Wochenende vorangehende oder folgende Feiertage,
+    auch einschließlich eines dazwischen liegenden Werktages, höchstens
+    jedoch in der für fünf Tage benötigten Menge.
+
+
+
+Der substituierende Arzt darf dem Patienten innerhalb einer
+Kalenderwoche nicht mehr als eine Verschreibung aushändigen. Er darf
+die Verschreibung nur im Rahmen einer persönlichen Konsultation
+aushändigen. Die Verschreibung ist nach dem Buchstaben „S“ zusätzlich
+mit dem Buchstaben „Z“ zu kennzeichnen.
+
+(9) Sobald und solange der substituierende Arzt zu dem Ergebnis kommt,
+dass eine Überlassung des Substitutionsmittels zum unmittelbaren
+Verbrauch nach Absatz 7 nicht mehr erforderlich ist, darf er dem
+Patienten Substitutionsmittel zur eigenverantwortlichen Einnahme gemäß
+den Feststellungen der Bundesärztekammer nach Absatz 12 Satz 1 Nummer
+3 Buchstabe b in folgenden Mengen verschreiben:
+
+1.  grundsätzlich in der für bis zu sieben Tage benötigten Menge oder
+
+
+2.  in begründeten Einzelfällen in der für bis zu 30 Tage benötigten
+    Menge.
+
+
+
+Ein Einzelfall nach Satz 1 Nummer 2 kann durch einen medizinischen
+oder einen anderen Sachverhalt begründet sein. Ein durch einen anderen
+Sachverhalt begründeter Einzelfall liegt vor, wenn der Patient aus
+wichtigen Gründen, die seine Teilhabe am gesellschaftlichen Leben oder
+seine Erwerbstätigkeit betreffen, darauf angewiesen ist, eine
+Verschreibung des Substitutionsmittels zur eigenverantwortlichen
+Einnahme für bis zu 30 Tage zu erhalten. Der Patient hat dem
+Substitutionsarzt diese Sachverhalte glaubhaft zu machen. Medizinische
+Sachverhalte, die einen Einzelfall begründen, werden im Rahmen von
+Absatz 12 Satz 1 Nummer 3 Buchstabe b durch die Bundesärztekammer
+festgestellt. Der substituierende Arzt darf die Verschreibung nach
+Satz 1 Nummer 1 und 2 nur im Rahmen einer persönlichen Konsultation an
+den Patienten aushändigen. Die Verschreibung ist nach dem Buchstaben
+„S“ zusätzlich mit dem Buchstaben „T“ zu kennzeichnen. Der
+substituierende Arzt kann patientenindividuelle Zeitpunkte festlegen,
+an denen Teilmengen des verschriebenen Substitutionsmittels in der
+Apotheke an den Patienten oder an die Praxis des substituierenden
+Arztes abgegeben oder zum unmittelbaren Verbrauch überlassen werden
+sollen.
+
+(10) Substitutionsmittel nach Absatz 6 Satz 1 dürfen dem Patienten zum
+unmittelbaren Verbrauch nur überlassen werden von
+
+1.  dem substituierenden Arzt in der Einrichtung, in der er ärztlich tätig
+    ist,
+
+
+2.  dem vom substituierenden Arzt in der Einrichtung nach Nummer 1
+    eingesetzten medizinischen Personal oder
+
+
+3.  dem medizinischen, pharmazeutischen oder pflegerischen Personal in
+
+    a)  einer stationären Einrichtung der medizinischen Rehabilitation,
+
+
+    b)  einem Gesundheitsamt,
+
+
+    c)  einem Alten- oder Pflegeheim,
+
+
+    d)  einem Hospiz oder
+
+
+    e)  einer anderen geeigneten Einrichtung, die zu diesem Zweck von der
+        zuständigen Landesbehörde anerkannt sein muss,
+
+
+
+    sofern der substituierende Arzt nicht selber in der jeweiligen
+    Einrichtung tätig ist und er mit der jeweiligen Einrichtung eine
+    Vereinbarung getroffen hat.
+
+
+
+Außerdem darf ein Substitutionsmittel nach Absatz 6 Satz 1 dem
+Patienten zum unmittelbaren Verbrauch überlassen werden
+
+1.  bei einem Hausbesuch
+
+    a)  vom substituierenden Arzt oder dem von ihm eingesetzten medizinischen
+        Personal oder
+
+
+    b)  vom medizinischen oder pflegerischen Personal, das von einem
+        ambulanten Pflegedienst oder von einer Einrichtung der spezialisierten
+        ambulanten Palliativversorgung eingesetzt wird, sofern der
+        substituierende Arzt für diesen Pflegedienst oder diese Einrichtung
+        nicht selber tätig ist und er mit diesem Pflegedienst oder dieser
+        Einrichtung eine Vereinbarung getroffen hat,
+
+
+
+
+
+2.  in einer Apotheke von dem Apotheker oder von dem dort eingesetzten
+    pharmazeutischen Personal, sofern der substituierende Arzt mit dem
+    Apotheker eine Vereinbarung getroffen hat,
+
+
+3.  in einem Krankenhaus von dem dort eingesetzten medizinischen oder
+    pflegerischen Personal, sofern der substituierende Arzt für dieses
+    Krankenhaus nicht selber tätig ist und er mit dem Krankenhaus eine
+    Vereinbarung getroffen hat, oder
+
+
+4.  in einer staatlich anerkannten Einrichtung der Suchtkrankenhilfe von
+    dem dort eingesetzten und dafür ausgebildeten Personal, sofern der
+    substituierende Arzt für diese Einrichtung nicht selber tätig ist und
+    er mit der Einrichtung eine Vereinbarung getroffen hat.
+
+
+
+Der substituierende Arzt hat sicherzustellen, dass das Personal nach
+den Sätzen 1 und 2 fachgerecht in das Überlassen des
+Substitutionsmittels zum unmittelbaren Verbrauch eingewiesen wird. Die
+Vereinbarung nach den Sätzen 1 und 2 hat schriftlich oder elektronisch
+zu erfolgen und muss bestimmen, wie das eingesetzte Personal einer
+Einrichtung nach den Sätzen 1 und 2 fachlich eingewiesen wird und muss
+daneben mindestens eine verantwortliche Person in der jeweiligen
+Einrichtung benennen sowie Regelungen über die Kontrollmöglichkeiten
+durch den substituierenden Arzt enthalten. Der substituierende Arzt
+darf die benötigten Substitutionsmittel in den in den Sätzen 1 und 2
+genannten Einrichtungen unter seiner Verantwortung lagern. Die
+Einwilligung des über die jeweiligen Räumlichkeiten
+Verfügungsberechtigten bleibt unberührt.
+
+(11) Der substituierende Arzt hat die Erfüllung seiner Verpflichtungen
+nach den Absätzen 1 bis 10 sowie nach § 5a Absatz 1 bis 4 und § 5b
+Absatz 2 und 4 gemäß den von der Bundesärztekammer nach Absatz 12 Satz
+3 bestimmten Anforderungen zu dokumentieren. Die Dokumentation ist auf
+Verlangen der zuständigen Landesbehörde zur Einsicht und Auswertung
+vorzulegen oder einzusenden.
+
+(12) Die Bundesärztekammer stellt den allgemein anerkannten Stand der
+Erkenntnisse der medizinischen Wissenschaft für die Substitution in
+einer Richtlinie fest, insbesondere für
+
+1.  die Ziele der Substitution nach Absatz 2,
+
+
+2.  die allgemeinen Voraussetzungen für die Einleitung und Fortführung
+    einer Substitution nach Absatz 1 Satz 1,
+
+
+3.  die Erstellung eines Therapiekonzeptes nach Absatz 1 Satz 2,
+    insbesondere
+
+    a)  die Auswahl des Substitutionsmittels nach Absatz 1 Satz 2 und Absatz
+        6,
+
+
+    b)  die Voraussetzungen für das Verschreiben des Substitutionsmittels zur
+        eigenverantwortlichen Einnahme nach den Absätzen 8 und 9,
+
+
+    c)  die Entscheidung über die Erforderlichkeit einer Einbeziehung
+        psychosozialer Betreuungsmaßnahmen sowie
+
+
+    d)  die Bewertung und Kontrolle des Therapieverlaufs.
+
+
+
+
+
+
+Daneben kann die Bundesärztekammer nach dem allgemein anerkannten
+Stand der Erkenntnisse der medizinischen Wissenschaft weitere als die
+in Absatz 2 Satz 2 bezeichneten wesentliche Ziele der Substitution in
+dieser Richtlinie feststellen. Sie bestimmt auch die Anforderungen an
+die Dokumentation der Substitution nach Absatz 11 Satz 1 in dieser
+Richtlinie. Die Einhaltung des allgemein anerkannten Standes der
+Erkenntnisse der medizinischen Wissenschaft wird vermutet, wenn und
+soweit die Feststellungen nach den Sätzen 1 und 2 beachtet worden
+sind.
+
+(13) Vor der Entscheidung der Bundesärztekammer über die Richtlinie
+nach Absatz 12 Satz 1 bis 3 ist dem Gemeinsamen Bundesausschuss nach §
+91 des Fünften Buches Sozialgesetzbuch Gelegenheit zur Stellungnahme
+zu dem allgemein anerkannten Stand der Erkenntnisse der medizinischen
+Wissenschaft für die Substitution zu geben. Die Stellungnahme ist von
+der Bundesärztekammer in ihre Entscheidung über die Richtlinie nach
+Absatz 12 Satz 1 bis 3 einzubeziehen.
+
+(14) Die Bundesärztekammer hat dem Bundesministerium für Gesundheit
+die Richtlinie nach Absatz 12 Satz 1 bis 3 zur Genehmigung vorzulegen.
+Änderungen der vom Bundesministerium für Gesundheit genehmigten
+Richtlinie sind dem Bundesministerium für Gesundheit von der
+Bundesärztekammer ebenfalls zur Genehmigung vorzulegen. Das
+Bundesministerium für Gesundheit kann von der Bundesärztekammer im
+Rahmen des Genehmigungsverfahrens zusätzliche Informationen und
+ergänzende Stellungnahmen anfordern. Das Bundesministerium für
+Gesundheit macht die genehmigte Richtlinie und genehmigte Änderungen
+der Richtlinie im Bundesanzeiger bekannt.
+
+(15) Die Absätze 3 bis 11 sind entsprechend anzuwenden, wenn das
+Substitutionsmittel aus dem Bestand des Praxis- oder Stationsbedarfs
+zum unmittelbaren Verbrauch überlassen oder nach Absatz 7 Satz 2
+ausgehändigt wird.
+
+
+## § 5a Verschreiben von Substitutionsmitteln mit dem Stoff Diamorphin
+
+(1) Zur Behandlung einer schweren Opioidabhängigkeit können zur
+Substitution zugelassene Arzneimittel mit dem Stoff Diamorphin
+verschrieben werden. Der substituierende Arzt darf diese Arzneimittel
+nur verschreiben, wenn
+
+1.  er ein suchtmedizinisch qualifizierter Arzt ist und sich seine
+    suchtmedizinische Qualifikation auf die Behandlung mit Diamorphin
+    erstreckt oder er im Rahmen des Modellprojektes „Heroingestützte
+    Behandlung Opiatabhängiger“ mindestens sechs Monate ärztlich tätig
+    war,
 
 
 2.  bei dem Patienten eine seit mindestens fünf Jahren bestehende
-    Opiatabhängigkeit, verbunden mit schwerwiegenden somatischen und
+    Opioidabhängigkeit verbunden mit schwerwiegenden somatischen und
     psychischen Störungen bei derzeit überwiegend intravenösem Konsum
     vorliegt,
 
 
 3.  ein Nachweis über zwei erfolglos beendete Behandlungen der
-    Opiatabhängigkeit, davon eine mindestens sechsmonatige Behandlung
-    gemäß den Absätzen 2, 6 und 7 einschließlich psychosozialer
-    Betreuungsmaßnahmen, vorliegt und
+    Opioidabhängigkeit vorliegt, von denen mindestens eine eine
+    sechsmonatige Behandlung nach § 5 sein muss, und
 
 
 4.  der Patient das 23. Lebensjahr vollendet hat.
 
 
 
+§ 5 Absatz 1, 2, 3 Satz 2, Absatz 6 Satz 3 und Absatz 12 gilt
+entsprechend. Die Verschreibung darf der Arzt nur einem
+pharmazeutischen Unternehmer vorlegen.
 
-(9b) Die Behandlung mit Diamorphin darf nur in Einrichtungen
+(2) Die Behandlung mit Diamorphin darf nur in Einrichtungen
 durchgeführt werden, denen eine Erlaubnis durch die zuständige
 Landesbehörde erteilt wurde. Die Erlaubnis wird erteilt, wenn
 
@@ -911,69 +1011,40 @@ Landesbehörde erteilt wurde. Die Erlaubnis wird erteilt, wenn
 
 
 2.  gewährleistet ist, dass die Einrichtung über eine zweckdienliche
-    personelle und sachliche Ausstattung verfügt,
+    personelle und sachliche Ausstattung verfügt und
 
 
-3.  eine sachkundige Person, die für die Einhaltung der in Nummer 2
-    genannten Anforderungen, der Auflagen der Erlaubnisbehörde sowie der
-    Anordnungen der Überwachungsbehörde verantwortlich ist
-    (Verantwortlicher), benannt worden ist.
+3.  eine sachkundige Person benannt worden ist, die für die Einhaltung der
+    in Nummer 2 genannten Anforderungen, der Auflagen der Erlaubnisbehörde
+    sowie der Anordnungen der Überwachungsbehörde verantwortlich ist
+    (Verantwortlicher).
 
 
 
 
-(9c) Diamorphin darf nur innerhalb der Einrichtung nach Absatz 9b
-verschrieben, verabreicht und zum unmittelbaren Verbrauch überlassen
-werden. Diamorphin darf nur unter Aufsicht des Arztes oder des
-sachkundigen Personals innerhalb dieser Einrichtung verbraucht werden.
-In den ersten sechs Monaten der Behandlung müssen Maßnahmen der
-psychosozialen Betreuung stattfinden.
+(3) Diamorphin darf nur innerhalb der Einrichtung nach Absatz 2
+verschrieben, verabreicht oder unter Aufsicht des substituierenden
+Arztes oder des sachkundigen Personals nach Absatz 2 Satz 2 Nummer 2
+zum unmittelbaren Verbrauch überlassen werden. In den ersten sechs
+Monaten der Behandlung müssen Maßnahmen der psychosozialen Betreuung
+stattfinden.
 
-(9d) Die Behandlung mit Diamorphin ist nach jeweils spätestens zwei
+(4) Die Behandlung mit Diamorphin ist nach jeweils spätestens zwei
 Jahren Behandlungsdauer daraufhin zu überprüfen, ob die
 Voraussetzungen für die Behandlung noch gegeben sind und ob die
-Behandlung fortzusetzen ist. Die Überprüfung erfolgt durch Einholung
-einer Zweitmeinung durch einen Arzt, der die Qualifikation gemäß
-Absatz 2 Satz 1 Nummer 6 besitzt und der nicht der Einrichtung
-angehört. Ergibt diese Überprüfung, dass die Voraussetzungen für die
-Behandlung nicht mehr gegeben sind, ist die diamorphingestützte
-Behandlung zu beenden.
+Behandlung fortzusetzen ist. Die Überprüfung erfolgt, indem eine
+Zweitmeinung eines suchtmedizinisch qualifizierten Arztes, der nicht
+der Einrichtung angehört, eingeholt wird. Ergibt diese Überprüfung,
+dass die Voraussetzungen für die Behandlung nicht mehr gegeben sind,
+ist die diamorphingestützte Behandlung zu beenden.
 
-(10) Der Arzt hat die Erfüllung seiner Verpflichtungen nach den
-vorstehenden Absätzen sowie nach § 5a Abs. 2 und 4 im erforderlichen
-Umfang und nach dem allgemein anerkannten Stand der medizinischen
-Wissenschaft zu dokumentieren. Die Dokumentation ist auf Verlangen der
-zuständigen Landesbehörde zur Einsicht und Auswertung vorzulegen oder
-einzusenden.
-
-(11) Die Bundesärztekammer kann in Richtlinien den allgemein
-anerkannten Stand der medizinischen Wissenschaft für
-
-1.  die Erfüllung der Zulässigkeitsvoraussetzungen nach Absatz 2 Satz 1
-    Nr. 1, 2 und 4 Buchstabe c,
+(5) Die Absätze 1 bis 4 und § 5 Absatz 11 sind entsprechend
+anzuwenden, wenn Diamorphin aus dem Bestand des Praxis- oder
+Stationsbedarfs nach Absatz 3 Satz 1 verabreicht oder zum
+unmittelbaren Verbrauch überlassen wird.
 
 
-2.  die Auswahl des Substitutionsmittels nach Absatz 4 Satz 4 und
-
-
-3.  die Bewertung des bisherigen Erfolges der Behandlung nach Absatz 8
-    Satz 1 und 4
-
-
-
-feststellen sowie Richtlinien zur Dokumentation nach Absatz 10
-erlassen. Die Einhaltung des allgemein anerkannten Standes der
-medizinischen Wissenschaft wird vermutet, wenn und soweit die
-Richtlinien der Bundesärztekammer nach den Nummern 1 bis 3 beachtet
-worden sind.
-
-(12) Die Absätze 2 bis 10 sind entsprechend anzuwenden, wenn das
-Substitutionsmittel aus dem Bestand des Praxisbedarfs oder
-Stationsbedarfs zum unmittelbaren Verbrauch überlassen oder nach
-Absatz 6 Satz 3 ausgehändigt wird.
-
-
-## § 5a Substitutionsregister
+## § 5b Substitutionsregister
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte
 (Bundesinstitut) führt für die Länder als vom Bund entliehenes Organ
@@ -983,12 +1054,12 @@ nur verwendet werden, um
 
 1.  das Verschreiben eines Substitutionsmittels durch mehrere Ärzte für
     denselben Patienten und denselben Zeitraum frühestmöglich zu
-    verhindern,
+    unterbinden,
 
 
-2.  die Erfüllung der Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6
-    und der Anforderungen nach § 5 Abs. 3 Satz 1 Nr. 2 und 3 zu überprüfen
-    sowie
+2.  zu überprüfen, ob die ein Substitutionsmittel verschreibenden Ärzte
+    die Mindestanforderungen nach § 5 Absatz 3 Satz 1 oder die
+    Anforderungen nach § 5 Absatz 4 Satz 1 erfüllen sowie
 
 
 3.  das Verschreiben von Substitutionsmitteln entsprechend den Vorgaben
@@ -1007,20 +1078,23 @@ kryptiert auf elektronischem Wege folgende Angaben zu melden:
 1.  den Patientencode,
 
 
-2.  das Datum der ersten Verschreibung,
+2.  das Datum der ersten Anwendung eines Substitutionsmittels,
 
 
 3.  das verschriebene Substitutionsmittel,
 
 
-4.  das Datum der letzten Verschreibung,
+4.  das Datum der letzten Anwendung eines Substitutionsmittels,
 
 
-5.  Name und Adresse des verschreibenden Arztes sowie
+5.  Name, Vorname, Geburtsdatum, dienstliche Anschrift und Telefonnummer
+    des verschreibenden Arztes sowie
 
 
-6.  im Falle des Verschreibens nach § 5 Abs. 3 Name und Anschrift des
-    Konsiliarius.
+6.  im Falle des Behandelns nach § 5 Absatz 4 Satz 1 Nummer 1 Name,
+    Vorname, dienstliche Anschrift und Telefonnummer des suchtmedizinisch
+    qualifizierten Arztes, bei dem sich der jeweilige Patient nach § 5
+    Absatz 4 Satz 1 Nummer 2 vorzustellen hat.
 
 
 
@@ -1051,7 +1125,7 @@ Der Patientencode setzt sich wie folgt zusammen:
 
     *   sechste bis achte Stelle:
 
-    *   jeweils letzte Ziffer von Geburtstag, -monat und -jahr. und -jahr.
+    *   jeweils letzte Ziffer von Geburtstag, -monat und -jahr.
 
 
 
@@ -1074,59 +1148,70 @@ schützen.
 (4) Das Bundesinstitut vergleicht jedes neu gespeicherte Kryptogramm
 mit den bereits vorhandenen. Ergibt sich keine Übereinstimmung, ist
 der Patientencode unverzüglich zu löschen. Liegen Übereinstimmungen
-vor, teilt dies das Bundesinstitut jedem beteiligten Arzt unter Angabe
-des Patientencodes, des Datums der ersten Verschreibung und der
-Adressen der anderen beteiligten Ärzte unverzüglich mit. Die Ärzte
-haben zu erklären, ob der Patientencode demselben Patienten zuzuordnen
-ist. Wenn dies zutrifft, haben sie sich darüber abzustimmen, wer
-künftig für den Patienten Substitutionsmittel verschreibt, und über
-das Ergebnis das Bundesinstitut unter Angabe des Patientencodes zu
-unterrichten. Wenn dies nicht zutrifft, haben die Ärzte darüber
-ebenfalls das Bundesinstitut unter Angabe des Patientencodes zu
-unterrichten. Das Substitutionsregister ist unverzüglich entsprechend
-zu bereinigen. Erforderlichenfalls unterrichtet das Bundesinstitut die
-zuständigen Überwachungsbehörden der beteiligten Ärzte, um das
-Verschreiben von Substitutionsmitteln von mehreren Ärzten für einen
-Patienten zu unterbinden.
+vor, teilt das Bundesinstitut dies jedem beteiligten Arzt unter Angabe
+des Patientencodes, des Datums der ersten Anwendung eines
+Substitutionsmittels und der Namen und Vornamen, dienstlichen
+Anschriften und Telefonnummern der anderen beteiligten Ärzte
+unverzüglich mit. Die Ärzte haben zu erklären, ob der Patientencode
+demselben Patienten zuzuordnen ist. Wenn dies zutrifft, haben sie sich
+darüber abzustimmen, wer künftig für den Patienten Substitutionsmittel
+verschreibt, und über das Ergebnis das Bundesinstitut unter Angabe des
+Patientencodes zu unterrichten. Wenn dies nicht zutrifft, haben die
+Ärzte darüber ebenfalls das Bundesinstitut unter Angabe des
+Patientencodes zu unterrichten. Das Substitutionsregister ist
+unverzüglich entsprechend zu bereinigen. Erforderlichenfalls
+unterrichtet das Bundesinstitut die zuständigen Überwachungsbehörden
+der beteiligten Ärzte, um das Verschreiben von Substitutionsmitteln
+von mehreren Ärzten für denselben Patienten und denselben Zeitraum
+unverzüglich zu unterbinden.
 
-(5) Die Ärztekammern haben dem Bundesinstitut zum 31. März und 30.
-September die Namen und Adressen der Ärzte zu melden, die die
-Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 erfüllen. Das
-Bundesinstitut unterrichtet unverzüglich die zuständigen
-Überwachungsbehörden der Länder über Name und Adresse
+(5) Die Ärztekammern haben dem Bundesinstitut auf dessen Anforderung,
+unter Angabe von Vorname, Name, dienstlicher Anschrift und
+Geburtsdatum eines nach Absatz 2 Satz 1 Nummer 5 oder Nummer 6
+gemeldeten Arztes, unverzüglich zu melden, ob der Arzt die
+Mindestanforderungen nach § 5 Absatz 3 Satz 1 erfüllt. Die
+Ärztekammern haben dem Bundesinstitut unverzüglich nach Bekanntwerden
+die Angabe „Hinweis: Suchttherapeutische Qualifikation liegt nicht
+mehr vor.“ zu denjenigen Ärzten, welche zuvor von den Ärztekammern dem
+Bundesinstitut gemeldet wurden, zu übermitteln, die die
+Mindestanforderungen nach § 5 Absatz 3 Satz 1 bisher erfüllt haben,
+aktuell aber nicht mehr erfüllen. Das Bundesinstitut unterrichtet aus
+dem Datenbestand des Substitutionsregisters unverzüglich die
+zuständigen Überwachungsbehörden der Länder über Name, Vorname,
+Anschrift und Telefonnummer
 
-1.  der Ärzte, die ein Substitutionsmittel nach § 5 Abs. 2 verschrieben
-    haben und
+1.  der Ärzte, die ein Substitutionsmittel nach § 5 Absatz 3 Satz 1
+    verschrieben haben, und
 
 
-2.  der nach Absatz 2 Nr. 6 gemeldeten Konsiliarien,
+2.  der nach Absatz 2 Satz 1 Nummer 6 gemeldeten suchtmedizinisch
+    qualifizierten Ärzte,
 
 
 
-wenn diese die Mindestanforderungen nach § 5 Abs. 2 Satz 1 Nr. 6 nicht
-erfüllen.
+wenn die in Nummer 1 und 2 genannten Ärzte die Mindestanforderungen
+nach § 5 Absatz 3 Satz 1 in Verbindung mit den nach den Sätzen 1 bis 3
+übermittelten Daten nicht erfüllen.
 
 (6) Das Bundesinstitut teilt den zuständigen Überwachungsbehörden zum
-30\. Juni und 31. Dezember folgende Angaben mit:
+30\. Juni und 31. Dezember eines jeden Jahres folgende Angaben aus dem
+Datenbestand des Substitutionsregisters mit:
 
-1.  Namen und Adressen der Ärzte, die nach § 5 Abs. 2 Substitutionsmittel
-    verschrieben haben,
-
-
-2.  Namen und Adressen der Ärzte, die nach § 5 Abs. 3 Substitutionsmittel
-    verschrieben haben,
+1.  Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach §
+    5 Absatz 3 Satz 1 Substitutionsmittel verschrieben haben,
 
 
-3.  Namen und Adressen der Ärzte, die die Mindestanforderungen nach § 5
-    Abs. 2 Satz 1 Nr. 6 erfüllen,
+2.  Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach §
+    5 Absatz 4 Substitutionsmittel verschrieben haben,
 
 
-4.  Namen und Adressen der Ärzte, die nach Absatz 2 Nr. 6 als Konsiliarius
+3.  Namen, Vornamen, Anschriften und Telefonnummern der Ärzte, die nach
+    Absatz 2 Satz 1 Nummer 6 als suchtmedizinisch qualifizierter Arzt
     gemeldet worden sind, sowie
 
 
-5.  Anzahl der Patienten, für die ein unter Nummer 1 oder 2 genannter Arzt
-    ein Substitutionsmittel verschrieben hat.
+4.  Anzahl der Patienten, für die ein unter Nummer 1 oder Nummer 2
+    genannter Arzt ein Substitutionsmittel verschrieben hat.
 
 
 
@@ -1134,57 +1219,54 @@ Die zuständigen Überwachungsbehörden können auch jederzeit im
 Einzelfall vom Bundesinstitut entsprechende Auskunft verlangen.
 
 (7) Das Bundesinstitut teilt den obersten Landesgesundheitsbehörden
-für das jeweilige Land zum 31. Dezember folgende Angaben mit:
+für das jeweilige Land zum 31. Dezember eines jeden Jahres folgende
+Angaben aus dem Datenbestand des Substitutionsregisters mit:
 
 1.  die Anzahl der Patienten, denen ein Substitutionsmittel verschrieben
     wurde,
 
 
-2.  die Anzahl der Ärzte, die nach § 5 Abs. 2 Substitutionsmittel
+2.  die Anzahl der Ärzte, die nach § 5 Absatz 3 Satz 1 Substitutionsmittel
     verschrieben haben,
 
 
-3.  die Anzahl der Ärzte, die nach § 5 Abs. 3 Substitutionsmittel
+3.  die Anzahl der Ärzte, die nach § 5 Absatz 4 Substitutionsmittel
     verschrieben haben,
 
 
-4.  die Anzahl der Ärzte, die die Mindestanforderungen nach § 5 Abs. 2
-    Satz 1 Nr. 6 erfüllen,
+4.  die Anzahl der Ärzte, die nach Absatz 2 Satz 1 Nummer 6 als
+    suchtmedizinisch qualifizierter Arzt gemeldet worden sind, sowie
 
 
-5.  die Anzahl der Ärzte, die nach Absatz 2 Nr. 6 als Konsiliarius
-    gemeldet worden sind, sowie
-
-
-6.  Art und Anteil der verschriebenen Substitutionsmittel.
+5.  Art und Anteil der verschriebenen Substitutionsmittel.
 
 
 
 Auf Verlangen erhalten die obersten Landesgesundheitsbehörden die
-unter Nummer 1 bis 6 aufgeführten Angaben auch aufgeschlüsselt nach
-Überwachungsbereichen.
+unter den Nummern 1 bis 5 aufgeführten Angaben auch aufgeschlüsselt
+nach Überwachungsbereichen.
 
 
-## § 5b Verschreiben für Patienten in Alten- und Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
+## § 5c Verschreiben für Patienten in Alten- oder Pflegeheimen, Hospizen und in der spezialisierten ambulanten Palliativversorgung
 
 (1) Der Arzt, der ein Betäubungsmittel für einen Patienten in einem
-Alten- und Pflegeheim, einem Hospiz oder in der spezialisierten
+Alten- oder Pflegeheim, einem Hospiz oder in der spezialisierten
 ambulanten Palliativversorgung verschreibt, kann bestimmen, dass die
 Verschreibung nicht dem Patienten ausgehändigt wird. In diesem Falle
 darf die Verschreibung nur von ihm selbst oder durch von ihm
-angewiesenes oder beauftragtes Personal seiner Praxis, des Alten- und
+angewiesenes oder beauftragtes Personal seiner Praxis, des Alten- oder
 Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten
 ambulanten Palliativversorgung in der Apotheke vorgelegt werden.
 
 (2) Das Betäubungsmittel ist im Falle des Absatzes 1 Satz 1 dem
 Patienten vom behandelnden Arzt oder dem von ihm beauftragten,
-eingewiesenen und kontrollierten Personal des Alten- und Pflegeheimes,
-des Hospizes oder der Einrichtung der spezialisierten ambulanten
-Palliativversorgung zu verabreichen oder zum unmittelbaren Verbrauch
-zu überlassen.
+eingewiesenen und kontrollierten Personal des Alten- oder
+Pflegeheimes, des Hospizes oder der Einrichtung der spezialisierten
+ambulanten Palliativversorgung zu verabreichen oder zum unmittelbaren
+Verbrauch zu überlassen.
 
 (3) Der Arzt darf im Falle des Absatzes 1 Satz 1 die Betäubungsmittel
-des Patienten in dem Alten- und Pflegeheim, dem Hospiz oder der
+des Patienten in dem Alten- oder Pflegeheim, dem Hospiz oder der
 Einrichtung der spezialisierten ambulanten Palliativversorgung unter
 seiner Verantwortung lagern; die Einwilligung des über die jeweiligen
 Räumlichkeiten Verfügungsberechtigten bleibt unberührt. Für den
@@ -1194,23 +1276,23 @@ entsprechend.
 (4) Betäubungsmittel, die nach Absatz 3 gelagert wurden und nicht mehr
 benötigt werden, können von dem Arzt
 
-1.  einem anderen Patienten dieses Alten- und Pflegeheimes, dieses
-    Hospizes oder dieser Einrichtung der ambulanten spezialisierten
+1.  einem anderen Patienten dieses Alten- oder Pflegeheimes, dieses
+    Hospizes oder dieser Einrichtung der spezialisierten ambulanten
     Palliativversorgung verschrieben werden,
 
 
-2.  an eine versorgende Apotheke zur Weiterverwendung in einem Alten- und
+2.  an eine versorgende Apotheke zur Weiterverwendung in einem Alten- oder
     Pflegeheim, einem Hospiz oder einer Einrichtung der spezialisierten
     ambulanten Palliativversorgung zurückgegeben werden oder
 
 
-3.  in den Notfallvorrat nach § 5c Absatz 1 Satz 1 überführt werden.
+3.  in den Notfallvorrat nach § 5d Absatz 1 Satz 1 überführt werden.
 
 
 
 
 
-## § 5c Verschreiben für den Notfallbedarf in Hospizen und in der spezialisierten ambulanten Palliativversorgung
+## § 5d Verschreiben für den Notfallbedarf in Hospizen und in der spezialisierten ambulanten Palliativversorgung
 
 (1) Hospize und Einrichtungen der spezialisierten ambulanten
 Palliativversorgung dürfen in ihren Räumlichkeiten einen Vorrat an
@@ -1230,11 +1312,13 @@ verpflichtet,
     Betäubungsmitteln beteiligt sind, sicherzustellen und
 
 
-3.  mit einer Apotheke die Belieferung für den Notfallvorrat schriftlich
-    zu vereinbaren und diese Apotheke zu verpflichten, den Notfallvorrat
-    mindestens halbjährlich zu überprüfen, insbesondere auf einwandfreie
-    Beschaffenheit sowie ordnungsgemäße und sichere Aufbewahrung; § 6
-    Absatz 3 Satz 2 bis 5 gilt entsprechend.
+3.  mit einer Apotheke die Belieferung für den Notfallvorrat sowie eine
+    mindestens halbjährliche Überprüfung der Notfallvorräte insbesondere
+    auf deren einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere
+    Aufbewahrung schriftlich zu vereinbaren; der unterzeichnende Apotheker
+    zeigt die Vereinbarung der zuständigen Landesbehörde vor der ersten
+    Belieferung schriftlich oder elektronisch an; § 6 Absatz 3 Satz 2 bis
+    4 gilt entsprechend.
 
 
 
@@ -1267,8 +1351,7 @@ Rettungsdienstbedarf sowie eines mindestens halbjährliche Überprüfung
 der Betäubungsmittelvorräte in den Einrichtungen oder Teileinheiten
 der Einrichtungen des Rettungsdienstes insbesondere auf deren
 einwandfreie Beschaffenheit sowie ordnungsgemäße und sichere
-Aufbewahrung schriftlich zu vereinbaren. Der unterzeichnende Apotheker
-zeigt dies der zuständigen Landesbehörde an. Mit der Überprüfung der
+Aufbewahrung schriftlich zu vereinbaren. Mit der Überprüfung der
 Betäubungsmittelvorräte ist ein Apotheker der jeweiligen Apotheke zu
 beauftragen. Es ist ein Protokoll anzufertigen. Zur Beseitigung
 festgestellter Mängel hat der mit der Überprüfung beauftragte
@@ -1320,8 +1403,9 @@ abgegeben werden, wenn
 
     c)  außerhalb des Geltungsbereichs des Betäubungsmittelgesetzes von
         Schiffen, die die Bundesflagge führen, beschaffter und entsprechend
-        der Verordnung über die Krankenfürsorge auf Kauffahrteischiffen
-        auszutauschender
+        dem vom Bundesministerium für Verkehr und digitale Infrastruktur nach
+        § 108 Absatz 2 Satz 1 des Seearbeitsgesetzes bekanntgemachten Stand
+        der medizinischen Erkenntnisse auszutauschender
 
 
 
@@ -1334,7 +1418,8 @@ abgegeben werden, wenn
 
 
 4.  der Abgebende sich den Empfang von dem für die ordnungsgemäße
-    Durchführung der Krankenfürsorge Verantwortlichen bescheinigen läßt.
+    Durchführung der medizinischen Betreuung nach den
+    seearbeitsrechtlichen Vorschriften Verantwortlichen bescheinigen läßt.
 
 
 
@@ -1360,7 +1445,8 @@ enthalten:
 6.  Heimathafen des Schiffes und
 
 
-7.  Unterschrift des für die Krankenfürsorge Verantwortlichen.
+7.  Unterschrift des für die medizinische Betreuung nach den
+    seearbeitsrechtlichen Vorschriften Verantwortlichen.
 
 
 
@@ -1390,10 +1476,10 @@ nur auf einem dreiteiligen amtlichen Formblatt
 Betäubungsmittelrezept darf für das Verschreiben anderer Arzneimittel
 nur verwendet werden, wenn dies neben der eines Betäubungsmittels
 erfolgt. Die Teile I und II der Verschreibung sind zur Vorlage in
-einer Apotheke, im Falle des Verschreibens von Diamorphin nach § 5
-Absatz 9a zur Vorlage bei einem pharmazeutischen Unternehmer,
-bestimmt, Teil III verbleibt bei dem Arzt, Zahnarzt oder Tierarzt, an
-den das Betäubungsmittelrezept ausgegeben wurde.
+einer Apotheke, im Falle des Verschreibens von Diamorphin nach § 5a
+Absatz 1 zur Vorlage bei einem pharmazeutischen Unternehmer, bestimmt,
+Teil III verbleibt bei dem Arzt, Zahnarzt oder Tierarzt, an den das
+Betäubungsmittelrezept ausgegeben wurde.
 
 (2) Betäubungsmittelrezepte werden vom Bundesinstitut für Arzneimittel
 und Medizinprodukte auf Anforderung an den einzelnen Arzt, Zahnarzt
@@ -1462,16 +1548,22 @@ der nachgereichten Verschreibung zu verbinden.
 
 
 5.  Gebrauchsanweisung mit Einzel- und Tagesgabe oder im Falle, daß dem
-    Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, der
-    Vermerk "Gemäß schriftlicher Anweisung"; im Falle des § 5 Abs. 8
-    zusätzlich die Reichdauer des Substitutionsmittels in Tagen,
+    Patienten eine schriftliche Gebrauchsanweisung übergeben wurde, ein
+    Hinweis auf diese schriftliche Gebrauchsanweisung; im Fall des § 5
+    Absatz 8 und 9 zusätzlich die Reichdauer des Substitutionsmittels in
+    Tagen und im Fall des § 5 Absatz 9 Satz 8 Vorgaben zur Abgabe des
+    Substitutionsmittels oder, im Fall, dass dem Patienten schriftliche
+    Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch
+    des Substitutionsmittels übergeben wurden, ein Hinweis auf diese
+    schriftlichen Vorgaben,
 
 
 6.  in den Fällen des § 2 Abs. 2 Satz 2 und des § 4 Abs. 2 Satz 2 der
-    Buchstabe "A", in den Fällen des § 5 Abs. 4 Satz 1 der Buchstabe "S",
-    in den Fällen des § 5 Absatz 8 Satz 1 zusätzlich der Buchstabe „Z“, in
-    den Fällen des § 7 Abs. 5 Satz 3 der Buchstabe "K", in den Fällen des
-    § 8 Abs. 6 Satz 5 der Buchstabe "N",
+    Buchstabe "A", in den Fällen des § 5 Absatz 6 Satz 3 und § 5a Absatz 1
+    Satz 1 der Buchstabe "S", in den Fällen des § 5 Absatz 8 Satz 5
+    zusätzlich der Buchstabe „Z“, in den Fällen des § 5 Absatz 9 Satz 7
+    zusätzlich der Buchstabe „T“, in den Fällen des § 7 Abs. 5 Satz 3 der
+    Buchstabe "K", in den Fällen des § 8 Abs. 6 Satz 5 der Buchstabe "N",
 
 
 7.  Name des verschreibenden Arztes, Zahnarztes oder Tierarztes, seine
@@ -1500,7 +1592,7 @@ Unterschrift zu bestätigen.
 ## § 10 Betäubungsmittelanforderungsschein
 
 (1) Betäubungsmittel für den Stationsbedarf nach § 2 Abs. 4, § 3 Abs.
-3 und § 4 Abs. 4, den Notfallbedarf nach § 5c und den
+3 und § 4 Abs. 4, den Notfallbedarf nach § 5d und den
 Rettungsdienstbedarf nach § 6 Absatz 1 dürfen nur auf einem
 dreiteiligen amtlichen Formblatt (Betäubungsmittelanforderungsschein)
 verschrieben werden. Die Teile I und II der Verschreibung für den
@@ -1518,7 +1610,7 @@ Arzneimittel und Medizinprodukte auf Anforderung ausgegeben an:
 2.  den Tierarzt, der eine Tierklinik leitet,
 
 
-3.  einen beauftragten Arzt nach § 5c Absatz 1 Satz 2 Nummer 1,
+3.  einen beauftragten Arzt nach § 5d Absatz 1 Satz 2 Nummer 1,
 
 
 4.  den nach § 6 Absatz 2 beauftragten Arzt des Rettungsdienstes oder
@@ -1533,7 +1625,7 @@ Arzneimittel und Medizinprodukte auf Anforderung ausgegeben an:
 Verwendung in der Einrichtung bestimmt, für die sie angefordert
 wurden. Sie dürfen vom anfordernden Arzt, Zahnarzt oder Tierarzt an
 Leiter von Teileinheiten oder an einen weiteren beauftragten Arzt nach
-§ 5c Absatz 1 Satz 2 Nummer 1 weitergegeben werden. Über die
+§ 5d Absatz 1 Satz 2 Nummer 1 weitergegeben werden. Über die
 Weitergabe ist ein Nachweis zu führen.
 
 (4) Teil III der Verschreibung für den Stationsbedarf, den
@@ -1599,8 +1691,7 @@ abgegeben werden:
         Abs. 1 Satz 1 und 2 oder des § 9 nicht beachtet wurde,
 
 
-    c)  die vor mehr als sieben Tagen ausgefertigt wurde, ausgenommen bei
-        Einfuhr eines Arzneimittels nach § 73 Abs. 3 Arzneimittelgesetz, oder
+    c)  die bei Vorlage vor mehr als sieben Tagen ausgefertigt wurde oder
 
 
     d)  die mit dem Buchstaben "K" oder "N" gekennzeichnet ist;
@@ -1634,8 +1725,9 @@ abgegeben werden:
 
 
 
-4.  auf eine Verschreibung nach § 5 Abs. 8, wenn sie nicht in Einzeldosen
-    und in kindergesicherter Verpackung konfektioniert sind.
+4.  auf eine Verschreibung nach § 5 Absatz 8 oder Absatz 9, wenn sie nicht
+    in Einzeldosen und in kindergesicherter Verpackung konfektioniert
+    sind.
 
 
 
@@ -1712,9 +1804,9 @@ Seiten verwendet werden. Die Aufzeichnung kann auch mittels
 elektronischer Datenverarbeitung erfolgen, sofern jederzeit der
 Ausdruck der gespeicherten Angaben in der Reihenfolge des amtlichen
 Formblattes gewährleistet ist. Im Falle des Überlassens eines
-Substitutionsmittels zum unmittelbaren Verbrauch nach § 5 Abs. 6 Satz
-1 oder eines Betäubungsmittels nach § 5b Abs. 2 ist der Verbleib
-patientenbezogen nachzuweisen.
+Substitutionsmittels zum unmittelbaren Verbrauch nach § 5 Absatz 7
+Satz 1 oder eines Betäubungsmittels nach § 5c Absatz 2 ist der
+Verbleib patientenbezogen nachzuweisen.
 
 (2) Die Eintragungen über Zugänge, Abgänge und Bestände der
 Betäubungsmittel sowie die Übereinstimmung der Bestände mit den
@@ -1731,20 +1823,22 @@ geführten Nachweisen sind
     Arzt, Zahnarzt oder Tierarzt für den Praxis- oder Stationsbedarf,
 
 
-4.  von einem nach § 5c Absatz 1 Satz 2 Nummer 1 beauftragten Arzt für
+4.  von einem nach § 5d Absatz 1 Satz 2 Nummer 1 beauftragten Arzt für
     Hospize und Einrichtungen der spezialisierten ambulanten
     Palliativversorgung sowie von dem nach § 6 Absatz 2 beauftragten Arzt
     für Einrichtungen des Rettungsdienstes,
 
 
-5.  vom für die Durchführung der Krankenfürsorge Verantwortlichen für das
-    jeweilige Kauffahrteischiff, das die Bundesflagge führt,
+5.  vom für die Durchführung der medizinischen Betreuung nach den
+    seearbeitsrechtlichen Vorschriften Verantwortlichen für das jeweilige
+    Kauffahrteischiff, das die Bundesflagge führt,
 
 
-6.  vom behandelnden Arzt im Falle des Nachweises nach Absatz 1 Satz 4,
+6.  im Falle des Nachweises nach Absatz 1 Satz 4 von den in § 5 Absatz 10
+    Satz 1 und 2 oder den in § 5c Absatz 2 benannten Personen,
 
 
-7.  vom Verantwortlichen im Sinne des § 5 Absatz 9b Nummer 3
+7.  vom Verantwortlichen im Sinne des § 5a Absatz 2 Satz 2 Nummer 3
 
 
 
@@ -1752,7 +1846,12 @@ am Ende eines jeden Kalendermonats zu prüfen und, sofern sich der
 Bestand geändert hat, durch Namenszeichen und Prüfdatum zu bestätigen.
 Für den Fall, daß die Nachweisführung mittels elektronischer
 Datenverarbeitung erfolgt, ist die Prüfung auf der Grundlage zum
-Monatsende angefertigter Ausdrucke durchzuführen.
+Monatsende angefertigter Ausdrucke durchzuführen. Sobald und solange
+der Arzt die Nachweisführung und Prüfung nach Satz 1 Nummer 6 nicht
+selbst vornimmt, hat er sicherzustellen, dass er durch eine Person
+nach § 5 Absatz 10 Satz 1 und 2 oder § 5c Absatz 2 am Ende eines jeden
+Kalendermonats über die erfolgte Prüfung und Nachweisführung
+schriftlich oder elektronisch unterrichtet wird.
 
 (3) Die Karteikarten, Betäubungsmittelbücher oder EDV-Ausdrucke nach
 Absatz 2 Satz 2 sind in den in § 1 Abs. 3 genannten Einrichtungen drei
@@ -1845,8 +1944,8 @@ bestraft, wer
 
 
 2.
-    a)  entgegen § 2 Abs. 1 oder 2 Satz 1, § 3 Abs. 1 oder § 5 Abs. 1 oder
-        Abs. 4 Satz 2 für einen Patienten,
+    a)  entgegen § 2 Abs. 1 oder 2 Satz 1, § 3 Abs. 1 oder § 5 Absatz 6 Satz 1
+        für einen Patienten,
 
 
     b)  entgegen § 2 Abs. 3 Satz 1, § 3 Abs. 2 Satz 1 oder § 4 Abs. 3 Satz 1
@@ -1883,7 +1982,7 @@ bestraft, wer
     Kauffahrteischiffen verschreibt,
 
 
-5.  entgegen § 5 Absatz 9c Satz 1 Diamorphin verschreibt, verabreicht oder
+5.  entgegen § 5a Absatz 3 Satz 1 Diamorphin verschreibt, verabreicht oder
     überlässt.
 
 
@@ -1895,15 +1994,14 @@ bestraft, wer
 Ordnungswidrig im Sinne des § 32 Abs. 1 Nr. 6 des
 Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
 
-1.  entgegen § 5 Abs. 9 Satz 2 und 3, auch in Verbindung mit § 5 Abs. 12,
-    § 5a Abs. 2 Satz 1 bis 4, § 7 Abs. 1 Satz 2 oder Abs. 4, § 8 Abs. 6
-    Satz 2, § 9 Abs. 1, auch in Verbindung mit § 2 Abs. 2 Satz 2, § 4 Abs.
-    2 Satz 2, § 5 Abs. 4 Satz 1, § 7 Abs. 5 Satz 3 oder § 8 Abs. 6 Satz 5,
+1.  entgegen § 5b Absatz 2, § 7 Abs. 1 Satz 2 oder Abs. 4, § 8 Abs. 6 Satz
+    2, § 9 Abs. 1, auch in Verbindung mit § 2 Abs. 2 Satz 2, § 4 Abs. 2
+    Satz 2, § 5 Absatz 6 Satz 3, § 7 Abs. 5 Satz 3 oder § 8 Abs. 6 Satz 5,
     § 11 Abs. 1 oder § 12 Abs. 3, eine Angabe nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Form macht,
 
 
-2.  entgegen § 5 Abs. 10 die erforderlichen Maßnahmen nicht oder nicht
+2.  entgegen § 5 Absatz 11 die erforderlichen Maßnahmen nicht oder nicht
     vollständig dokumentiert oder der zuständigen Landesbehörde die
     Dokumentation nicht zur Einsicht und Auswertung vorlegt oder
     einsendet,
@@ -1943,28 +2041,28 @@ Betäubungsmittelgesetzes handelt, wer vorsätzlich oder leichtfertig
     zuwiderhandelt oder
 
 
-10. entgegen § 5 Absatz 2 Satz 1 Nummer 6 oder Absatz 3 Satz 1 Nummer 2
-    und 3, Satz 2 und 7 oder Satz 5 und 6 oder Absatz 9a Satz 2 Nummer 1
-    ein Substitutionsmittel verschreibt, ohne die Mindestanforderungen an
-    die Qualifikation zu erfüllen oder ohne einen Konsiliarius in die
-    Behandlung einzubeziehen oder ohne sich als Vertreter, der die
-    Mindestanforderungen an die Qualifikation nicht erfüllt, abzustimmen
-    oder ohne die diamorphinspezifischen Anforderungen an die
-    Qualifikation nach Absatz 9a Satz 2 Nummer 1 zu erfüllen.
+10. entgegen § 5 Absatz 3 Satz 1 oder Absatz 4 oder Absatz 5 oder § 5a
+    Absatz 1 Satz 2 Nummer 1 ein Substitutionsmittel verschreibt, ohne die
+    Mindestanforderungen an die Qualifikation zu erfüllen oder ohne einen
+    Konsiliarius in die Behandlung einzubeziehen oder ohne sich als
+    Vertreter, der die Mindestanforderungen an die Qualifikation nicht
+    erfüllt, abzustimmen oder ohne die diamorphinspezifischen
+    Anforderungen an die Qualifikation nach § 5a Absatz 1 Satz 2 Nummer 1
+    zu erfüllen.
 
 
 
 
 
-## § 18 Übergangsvorschriften
+## § 18 Übergangsvorschrift
 
-(1) § 5 Abs. 3 Satz 2 findet auf das Verschreiben eines
-Substitutionsmittels für Betäubungsmittelabhängige, denen vor
-Inkrafttreten dieser Verordnung Codein oder Dihydrocodein zur
-Substitution verschrieben wurde, ab dem 1. Januar 2000 Anwendung.
+(1) Die Bundesärztekammer hat die Richtlinie nach § 5 Absatz 12 Satz 1
+bis 3 und Absatz 14 Satz 3 dem Bundesministerium für Gesundheit
+spätestens bis zum 31. August 2017 zur Genehmigung vorzulegen. Das
+Bundesministerium für Gesundheit macht die genehmigte Richtlinie
+unverzüglich im Bundesanzeiger bekannt.
 
-(2) § 5 Abs. 7 Nr. 1 gilt auch als erfüllt, wenn zum Zeitpunkt des
-Inkrafttretens dieser Verordnung in derselben Praxis mindestens sechs
-Monate Codein oder Dihydrocodein zum Zweck der Substitution für einen
-Patienten verschrieben wurde.
+(2) Bis zur Bekanntmachung der Richtlinie gemäß Absatz 1 Satz 2 findet
+die Verordnung in ihrer bis zum 29. Mai 2017 geltenden Fassung weiter
+Anwendung.
 

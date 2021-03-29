@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2010, 140
 
 Zuletzt geändert durch
-:   Art. 12 G v. 19.10.2012 I 2192
+:   Art. 4 V v. 2.7.2018 I 1080
 
 [^F772944_01_BJNR014000010]:     § 3 Absatz 2 dient der Umsetzung von Artikel 40 Absatz 4 und Artikel
     111 Absatz 6 und 7 der Richtlinie 2001/83/EG des Europäischen
@@ -275,9 +275,22 @@ Informationssystem
 Im Fall des Satzes 2 Nummer 2 erfasst bei Arzneimitteln, die
 ausschließlich für Geflügel zugelassen sind, die Bereitstellung zum
 Abruf nicht die Aufschlüsselung nach den Ziffern der Postleitzahl der
-Anschrift des jeweiligen Tierarztes. Der Abruf durch die genannten
-Stellen ist zulässig, soweit dies zur Wahrnehmung ihrer Aufgaben
-erforderlich ist.
+Anschrift des jeweiligen Tierarztes. Abweichend von Satz 3 kann die
+Bereitstellung zum Abruf auch die Aufschlüsselung nach den Ziffern der
+Postleitzahl der Anschrift des jeweiligen Tierarztes erfassen, sofern
+jederzeit sichergestellt ist, dass die Daten
+
+1.  ausschließlich zum Zweck des in § 67a Absatz 3a des
+    Arzneimittelgesetzes genannten Tierarzneimittel-Monitoring verwendet
+    und
+
+
+2.  nicht für Überwachungszwecke genutzt
+
+
+
+werden. Der Abruf durch die genannten Stellen ist zulässig, soweit
+dies zur Wahrnehmung ihrer Aufgaben erforderlich ist.
 
 (2) Das Deutsche Institut für Medizinische Dokumentation und
 Information übermittelt der Europäischen Arzneimittel-Agentur die
@@ -294,11 +307,11 @@ Aufgaben zur zentralen Bereitstellung von Daten für oder zur zentralen
 zugewiesen werden. Die Entscheidung hierüber trifft das
 Bundesministerium für Gesundheit oder, soweit Arzneimittel betroffen
 sind, die zur Anwendung bei Tieren bestimmt sind, das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-im Einvernehmen mit dem Bundesministerium für Gesundheit. Sofern es
-sich um Mitteilungs- und Unterrichtungspflichten von Stellen der
-Länder handelt, werden die Aufgaben im Einvernehmen mit den
-zuständigen obersten Landesbehörden zugewiesen.
+Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit
+dem Bundesministerium für Gesundheit. Sofern es sich um Mitteilungs-
+und Unterrichtungspflichten von Stellen der Länder handelt, werden die
+Aufgaben im Einvernehmen mit den zuständigen obersten Landesbehörden
+zugewiesen.
 
 (4) Eine Übermittlung der in § 1 Absatz 1 Nummer 1 und 2 genannten
 Daten durch das Deutsche Institut für Medizinische Dokumentation und
@@ -328,8 +341,12 @@ löschen.
 
 ## § 5 Auskunftsrecht
 
-§ 19 des Bundesdatenschutzgesetzes ist auf juristische Personen
-entsprechend anzuwenden.
+Artikel 15 der Verordnung (EU) 2016/679 des Europäischen Parlaments
+und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei
+der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und
+zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung)
+(ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) ist auf
+juristische Personen entsprechend anzuwenden.
 
 
 ## § 6 Inkrafttreten

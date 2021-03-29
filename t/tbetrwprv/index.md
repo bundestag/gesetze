@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2907
 
+Geändert durch
+:   Art. 5 V v. 16.10.2016 I 2390
+
 
 
 ## Eingangsformel
@@ -852,12 +855,59 @@ Prüfungsleistungen in der schriftlichen Projektarbeit und in dem
 Fachgespräch mit Präsentation zu bilden, dabei wird die Bewertung der
 Projektarbeit doppelt gewichtet.
 
-(6) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen, aus dem die in den
-Prüfungsteilen erzielten Noten und die in den Prüfungsleistungen
-erzielten Punkte hervorgehen müssen. Im Fall der Freistellung gemäß §
-7 sind Ort und Datum sowie die Bezeichnung des Prüfungsgremiums der
-anderweitig abgelegten Prüfung anzugeben.
+(6) „Aus den nach den Absätzen 2 bis 5 ermittelten Punktebewertungen
+der Prüfungsteile ist eine Gesamtpunktzahl zu bilden unter
+Berücksichtigung folgender Gewichtungen:
+
+*    *   „Wirtschaftliches Handeln und betrieblicher Leistungsprozess“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Management und Führung“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Fachübergreifender technikbezogener Prüfungsteil“
+
+    *   mit 40 Prozent.
+
+
+
+
+Aus der gewichteten Gesamtpunktzahl ist eine Gesamtnote zu bilden.
+
+(7) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. In dem einen Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis wird darüber hinaus mindestens angegeben:
+
+1.  die Benennung und Bewertung der Prüfungsteile, der Prüfungs- und
+    Handlungsbereiche sowie des Situationsbezogenen Fachgesprächs nach § 3
+    Absatz 1, § 4 Absatz 1 und § 5 Absatz 1 und 6 in Verbindung mit den
+    vorstehenden Absätzen 2 bis 5,
+
+
+2.  die Gesamtnote nach Absatz 6,
+
+
+3.  die Befreiungen nach § 7; jede Befreiung ist mit Ort, Datum und der
+    Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+    anzugeben.
+
+
+
 
 
 ## § 9 Wiederholung der Prüfung
@@ -894,104 +944,4 @@ der bisherigen Vorschriften beantragt werden.
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. Dezember 2004 in Kraft.
-
-
-## Anlage 1 (zu § 8 Abs. 6)
-
-(Fundstelle: BGBl. I 2004, 2913)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-Herr/Frau.............................................................
-........
-geboren am.................
-in................................................
-hat am......................die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-vom 22. November 2004 (BGBl. I S. 2907)
-bestanden.
-Datum.................................................................
-........
-Unterschrift(en)......................................................
-........
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 8 Abs. 6)
-
-(Fundstelle: BGBl. I 2004, 2914 - 2915)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss Geprüfter Technischer
-Betriebswirt/Geprüfte Technische Betriebswirtin
-Herr/Frau
-....................................................................
-geboren am .............................. in
-.................................
-hat am  ................................. die Prüfung zum anerkannten
-Abschuss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter Technischer Betriebswirt/Geprüfte Technische Betriebswirtin
-vom 22. November 2004 (BGBl. I S. 2907) bestanden:
-Note
-I.  Wirtschaftliches Handeln und betrieblicher Leistungsprozess
-.......
-Prüfungsbereiche:                                             Punkte
-1)
-Aspekte der allgemeinen Volks- und Betriebswirtschaftslehre .........
-Rechnungswesen
-.........
-Finanzierung und Investition
-.........
-Material-, Produktions- und Absatzwirtschaft                .........
-(Im Fall des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß § 7 im Hinblick auf die am ....... in .... vor
-.........................
-abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
-........................
-freigestellt.")
-Note
-.......
-II. Management und Führung
-1\.  Integrative, schriftliche Situationsaufgaben              Punkte
-1)
-Handlungsbereich Organisation und Unternehmensführung     .........
-Handlungsbereich Personalmanagement                       .........
-Handlungsbereich Informations- und
-Kommunikationstechniken                                   .........
-2\.  Situationsbezogenes Fachgespräch im Handlungsbereich
-.........
-(Im Fall des § 7: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß § 7 im Hinblick auf die am .... in .... vor .... abgelegte
-Prüfung in der
-Situationsaufgabe aus dem Handlungsbereich ....... freigestellt.")
-Note
-III. Fachübergreifender technikbezogener Prüfungsteil
-.......
-Prüfungsbereich:                                              Punkte
-1)
-Projektarbeit/Thema
-.........
-......................................................
-......................................................
-......................................................
-......................................................
-......................................................
-Projektarbeitsbezogenes Fachgespräch
-.........
-Datum ................................................
-Unterschrift(en) .....................................
-(Siegel der zuständigen Stelle)
 

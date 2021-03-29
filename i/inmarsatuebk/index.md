@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Internationale Seefunksatelliten-Organisation
 jurabk: INMARSATÜbk
 layout: default
-origslug: inmarsat_bk
+origslug: inmarsatuebk
 slug: inmarsatuebk
 
 ---

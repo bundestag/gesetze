@@ -3,7 +3,7 @@ Title: Protokoll zum Madrider Abkommen über die internationale Registrierung vo
   angenommen in Madrid am 27. Juni 1989
 jurabk: MAbkMadridProtÄnd
 layout: default
-origslug: mabkmadridprot_nd
+origslug: mabkmadridprotaend
 slug: mabkmadridprotaend
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 774
 
 Zuletzt geändert durch
-:   Art. 1 V v. 18.6.2012 I 1300
+:   Art. 2 V v. 6.10.2017 I 3549
 
 
 ## Eingangsformel
@@ -31,11 +31,13 @@ Bundesrates verordnet:
 ## § 1
 
 (1) Lastkraftwagen mit einer zulässigen Gesamtmasse über 7,5 Tonnen
-sowie Lastkraftwagen mit Anhänger dürfen auf den in Absatz 2 genannten
-Autobahnen (Zeichen 330 der Straßenverkehrs-Ordnung) und den in Absatz
-3 genannten Bundesstraßen an allen Samstagen vom 1. Juli bis
-einschließlich 31. August eines Jahres jeweils in der Zeit von 7.00
-Uhr bis 20.00 Uhr nicht verkehren.
+sowie Lastkraftwagen mit Anhänger dürfen zur geschäftsmäßigen oder
+entgeltlichen Beförderung von Gütern einschließlich damit verbundener
+Leerfahrten auf den in Absatz 2 genannten Autobahnen (Zeichen 330.1
+der Straßenverkehrs-Ordnung) und den in Absatz 3 genannten
+Bundesstraßen an allen Samstagen vom 1. Juli bis einschließlich 31.
+August eines Jahres jeweils in der Zeit von 7.00 Uhr bis 20.00 Uhr
+nicht geführt werden.
 
 (2) Das Verbot des Absatzes 1 gilt für folgende Autobahnstrecken in
 beiden Fahrtrichtungen:
@@ -52,8 +54,7 @@ beiden Fahrtrichtungen:
     *   A 1
 
     *   von Autobahnkreuz Köln-West über Autobahnkreuz Leverkusen-West,
-        Wuppertal, Kamener Kreuz, Münster bis Anschlussstelle Cloppenburg und
-        von Anschlussstelle Oyten bis Horster Dreieck
+        Wuppertal, Kamener Kreuz, Münster bis Anschlussstelle Lohne/Dinklage
 
 
 *    *   2
@@ -73,20 +74,13 @@ beiden Fahrtrichtungen:
 
 *    *   4
 
-    *   A 4/E 40
+    *   A 5
 
-    *   von der Anschlussstelle Erfurt-Vieselbach bis zur Anschlussstelle
-        Hermsdorf-Ost
+    *   von Darmstädter Kreuz bis Anschlussstelle Karlsruhe-Süd und von der
+        Anschlussstelle Offenburg bis zum Autobahndreieck Neuenburg
 
 
 *    *   5
-
-    *   A 5
-
-    *   von Darmstädter Kreuz über Karlsruhe bis Autobahndreieck Neuenburg
-
-
-*    *   6
 
     *   A 6
 
@@ -94,18 +88,18 @@ beiden Fahrtrichtungen:
         Nürnberg-Süd
 
 
-*    *   7
+*    *   6
 
     *   A 7
 
     *   von Anschlussstelle Schleswig/Jagel bis Anschlussstelle Hamburg-
-        Schnelsen-Nord, von Anschlussstelle Soltau-Ost bis Anschlussstelle
+        Schnelsen-Nord, von Anschlussstelle Soltau-Süd bis Anschlussstelle
         Göttingen-Nord, von Autobahndreieck Schweinfurt/Werneck über
         Autobahnkreuz Biebelried, Autobahnkreuz Ulm/Elchingen und
         Autobahndreieck Allgäu bis zum Autobahnende Bundesgrenze Füssen
 
 
-*    *   8
+*    *   7
 
     *   A 8
 
@@ -114,7 +108,7 @@ beiden Fahrtrichtungen:
         Reichenhall
 
 
-*    *   9
+*    *   8
 
     *   A 9/E 51
 
@@ -122,7 +116,7 @@ beiden Fahrtrichtungen:
         Anschlussstelle München-Schwabing
 
 
-*    *   10
+*    *   9
 
     *   A 10
 
@@ -132,7 +126,7 @@ beiden Fahrtrichtungen:
         Autobahndreieck Werder
 
 
-*    *   11
+*    *   10
 
     *   A 45
 
@@ -140,7 +134,7 @@ beiden Fahrtrichtungen:
         Kreuz bis Seligenstädter Dreieck
 
 
-*    *   12
+*    *   11
 
     *   A 61
 
@@ -148,14 +142,15 @@ beiden Fahrtrichtungen:
         Autobahndreieck Hockenheim
 
 
-*    *   13
+*    *   12
 
     *   A 81
 
-    *   von Autobahnkreuz Weinsberg bis Anschlussstelle Gärtringen
+    *   von der Anschlussstelle Stuttgart-Zuffenhausen bis Anschlussstelle
+        Gärtringen
 
 
-*    *   14
+*    *   13
 
     *   A 92
 
@@ -164,14 +159,14 @@ beiden Fahrtrichtungen:
         Erding
 
 
-*    *   15
+*    *   14
 
     *   A 93
 
     *   von Autobahndreieck Inntal bis Anschlussstelle Reischenhart
 
 
-*    *   16
+*    *   15
 
     *   A 99
 
@@ -181,28 +176,28 @@ beiden Fahrtrichtungen:
         München-Süd sowie Autobahndreieck München/Eschenried
 
 
-*    *   17
+*    *   16
 
     *   A 215
 
     *   von Autobahndreieck Bordesholm bis Anschlussstelle Blumenthal
 
 
-*    *   18
+*    *   17
 
     *   A 831
 
     *   von Anschlussstelle Stuttgart-Vaihingen bis Autobahnkreuz Stuttgart
 
 
-*    *   19
+*    *   18
 
     *   A 980
 
     *   von Autobahnkreuz Allgäu bis Anschlussstelle Waltenhofen
 
 
-*    *   20
+*    *   19
 
     *   A 995
 
@@ -321,7 +316,25 @@ genommen werden.
 
 
 
-3.  Leerfahrten, die im Zusammenhang mit Fahrten nach Nummer 2 stehen.
+3.  die Beförderung von Material der Kategorie 1 nach Artikel 8 und
+    Material der Kategorie 2 nach Artikel 9 Buchstabe f Ziffer i der
+    Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des
+    Rates vom 21. Oktober 2009 mit Hygienevorschriften für nicht für den
+    menschlichen Verzehr bestimmte tierische Nebenprodukte und zur
+    Aufhebung der Verordnung (EG) Nr. 1774/2002 (Verordnung über tierische
+    Nebenprodukte) (ABl. L 300 vom 14.11.2009, S. 1; L 348 vom 4.12.2014,
+    S. 31),
+
+
+4.  den dringlichen Einsatz von Bergungs-, Abschlepp- und
+    Pannenhilfsfahrzeugen,
+
+
+5.  den Transport von lebenden Bienen,
+
+
+6.  Leerfahrten, die im Zusammenhang mit Fahrten nach den Nummern 2 bis 5
+    stehen.
 
 
 
@@ -351,8 +364,8 @@ bestimmten Stellen können von allen Vorschriften dieser Verordnung
 Ausnahmen für bestimmte Einzelfälle oder allgemein für bestimmte
 Antragsteller genehmigen. Erstrecken sich die Auswirkungen der
 Ausnahme über ein Land hinaus und ist eine einheitliche Entscheidung
-notwendig, so ist das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zuständig.
+notwendig, so ist das Bundesministerium für Verkehr und digitale
+Infrastruktur zuständig.
 
 (4) Die Ausnahmegenehmigung ist schriftlich zu erteilen. Der Bescheid
 über die Erteilung der Ausnahmegenehmigung ist mitzuführen und auf
@@ -378,12 +391,8 @@ wer vorsätzlich oder fahrlässig
 
 
 
-## § 6
+## § 6 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 33 Abs. 2 des Kostenermächtigungs-
-Änderungsgesetzes vom 23. Juni 1970 (BGBl. I S. 805) auch im Land
-Berlin.
 
 
 ## § 7

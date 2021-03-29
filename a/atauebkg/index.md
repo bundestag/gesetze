@@ -3,7 +3,7 @@ Title: Gesetz zu dem Zollübereinkommen von Brüssel vom 6. Dezember 1961 über 
   A.T.A. für die vorübergehende Einfuhr von Waren
 jurabk: ATAÜbkG
 layout: default
-origslug: ata_bkg
+origslug: atauebkg
 slug: atauebkg
 
 ---

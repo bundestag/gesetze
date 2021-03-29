@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.11.1975 I 2735;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 6.12.2011 I 2515
+:   Art. 8 G v. 30.10.2017 I 3618
 
 
 ## Erster Teil - Vorschriften über die Hilfeleistung in Steuersachen
@@ -39,10 +39,10 @@ Zuletzt geändert durch
 (1) Dieses Gesetz ist anzuwenden auf die Hilfeleistung
 
 1.  in Angelegenheiten, die durch Bundesrecht, Recht der Europäischen
-    Gemeinschaften oder der Vertragsstaaten des Abkommens über den
-    Europäischen Wirtschaftsraum geregelte Steuern und Vergütungen
-    betreffen, soweit diese durch Bundesfinanzbehörden oder durch
-    Landesfinanzbehörden verwaltet werden,
+    Union oder der Vertragsstaaten des Abkommens über den Europäischen
+    Wirtschaftsraum geregelte Steuern und Vergütungen betreffen, soweit
+    diese durch Bundesfinanzbehörden oder durch Landesfinanzbehörden
+    verwaltet werden,
 
 
 2.  in Angelegenheiten, die die Realsteuern oder die Grunderwerbsteuer
@@ -109,7 +109,7 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind befugt:
 
 
 2.  Partnerschaftsgesellschaften, deren Partner ausschließlich die in
-    Nummer 1 und 4 genannten Personen sind,
+    Nummer 1 genannten Personen sind,
 
 
 3.  Steuerberatungsgesellschaften, Rechtsanwaltsgesellschaften,
@@ -130,23 +130,26 @@ Europäischen Wirtschaftsraum oder in der Schweiz beruflich
 niedergelassen sind und dort befugt geschäftsmäßig Hilfe in
 Steuersachen nach dem Recht des Niederlassungsstaates leisten, sind
 zur vorübergehenden und gelegentlichen geschäftsmäßigen Hilfeleistung
-in Steuersachen auf dem Gebiet der Bundesrepublik Deutschland befugt.
-Der Umfang der Befugnis zur Hilfeleistung in Steuersachen im Inland
-richtet sich nach dem Umfang dieser Befugnis im Niederlassungsstaat.
-Bei ihrer Tätigkeit im Inland unterliegen sie denselben Berufsregeln
-wie die in § 3 genannten Personen. Wenn weder der Beruf noch die
-Ausbildung zu diesem Beruf im Staat der Niederlassung reglementiert
-ist, gilt die Befugnis zur geschäftsmäßigen Hilfeleistung in
-Steuersachen im Inland nur, wenn die Person den Beruf dort während der
-vorhergehenden zehn Jahre mindestens zwei Jahre ausgeübt hat. Ob die
-geschäftsmäßige Hilfeleistung in Steuersachen vorübergehend und
+in Steuersachen im Anwendungsbereich dieses Gesetzes befugt. Die
+vorübergehende und gelegentliche geschäftsmäßige Hilfeleistung in
+Steuersachen kann vom Staat der Niederlassung aus erfolgen. Der Umfang
+der Befugnis zur Hilfeleistung in Steuersachen im Inland richtet sich
+nach dem Umfang dieser Befugnis im Niederlassungsstaat. Bei ihrer
+Tätigkeit im Inland unterliegen sie denselben Berufsregeln wie die in
+§ 3 genannten Personen. Wenn weder der Beruf noch die Ausbildung zu
+diesem Beruf im Staat der Niederlassung reglementiert ist, gilt die
+Befugnis zur geschäftsmäßigen Hilfeleistung in Steuersachen im Inland
+nur, wenn die Person den Beruf in einem oder in mehreren
+Mitgliedstaaten oder Vertragsstaaten oder der Schweiz während der
+vorhergehenden zehn Jahre mindestens ein Jahr lang ausgeübt hat. Ob
+die geschäftsmäßige Hilfeleistung in Steuersachen vorübergehend und
 gelegentlich erfolgt, ist insbesondere anhand ihrer Dauer, Häufigkeit,
 regelmäßiger Wiederkehr und Kontinuität zu beurteilen.
 
 (2) Die geschäftsmäßige Hilfeleistung in Steuersachen nach Absatz 1
 ist nur zulässig, wenn die Person vor der ersten Erbringung im Inland
-der zuständigen Stelle schriftlich Meldung erstattet. Zuständige
-Stelle ist für Personen aus:
+der zuständigen Stelle schriftlich oder elektronisch Meldung
+erstattet. Zuständige Stelle ist für Personen aus:
 
 1.  Finnland die Steuerberaterkammer Berlin,
 
@@ -173,7 +176,7 @@ Stelle ist für Personen aus:
     Vorpommern,
 
 
-9.  Italien und Österreich die Steuerberaterkammer München,
+9.  Italien, Kroatien und Österreich die Steuerberaterkammer München,
 
 
 10. dem Vereinigten Königreich die Steuerberaterkammer Niedersachsen,
@@ -241,10 +244,11 @@ Die Meldung der Person muss enthalten:
 6.  einen Nachweis über die Berufsqualifikation,
 
 
-7.  einen Nachweis darüber, dass die Person den Beruf im Staat der
-    Niederlassung während der vorhergehenden zehn Jahre mindestens zwei
-    Jahre ausgeübt hat, wenn weder der Beruf noch die Ausbildung zu diesem
-    Beruf im Staat der Niederlassung reglementiert ist,
+7.  einen Nachweis darüber, dass die Person den Beruf in einem oder in
+    mehreren Mitgliedstaaten oder Vertragsstaaten oder der Schweiz während
+    der vorhergehenden zehn Jahre mindestens ein Jahr lang ausgeübt hat,
+    wenn weder der Beruf noch die Ausbildung zu diesem Beruf im Staat der
+    Niederlassung reglementiert ist,
 
 
 8.  eine Information über Einzelheiten zur Berufshaftpflichtversicherung
@@ -257,7 +261,9 @@ Die Meldung ist jährlich zu wiederholen, wenn die Person nach Ablauf
 eines Kalenderjahres erneut nach Absatz 1 geschäftsmäßig Hilfeleistung
 in Steuersachen im Inland erbringen will. In diesem Fall sind die
 Bescheinigung nach Satz 3 Nr. 5 und die Information nach Satz 3 Nr. 8
-erneut vorzulegen.
+erneut vorzulegen. Die Meldung berechtigt die Person zur
+geschäftsmäßigen Hilfeleistung in Steuersachen nach Absatz 1 im
+gesamten Hoheitsgebiet der Bundesrepublik Deutschland.
 
 (3) Sobald die Meldung nach Absatz 2 vollständig vorliegt, veranlasst
 die zuständige Stelle eine vorübergehende Eintragung der Angaben nach
@@ -289,7 +295,9 @@ Niederlassung nicht mehr rechtmäßig niedergelassen ist oder ihr die
 Ausübung der Tätigkeit dort untersagt wird, wenn sie nicht über die
 für die Ausübung der Berufstätigkeit im Inland erforderlichen
 deutschen Sprachkenntnisse verfügt oder wenn sie wiederholt eine
-unrichtige Berufsbezeichnung führt.
+unrichtige Berufsbezeichnung führt. Die vorübergehende Eintragung im
+Berufsregister gemäß Absatz 3 Satz 1 wird gelöscht, wenn die
+Untersagungsverfügung nach Satz 1 unanfechtbar geworden ist.
 
 (7) Die zuständigen Stellen arbeiten mit den zuständigen Stellen in
 den anderen Mitgliedstaaten der Europäischen Union, in den anderen
@@ -310,8 +318,59 @@ und in der Schweiz zusammen und übermitteln auf Anfrage:
 
 
 
-§ 83 dieses Gesetzes und § 30 der Abgabenordnung stehen dem nicht
-entgegen.
+Die zuständigen Stellen können bei berechtigten Zweifeln an der
+Rechtmäßigkeit der Niederlassung des Dienstleisters in einem anderen
+Staat, an seiner guten Führung oder daran, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, alle aus
+ihrer Sicht zur Beurteilung des Sachverhalts erforderlichen
+Informationen bei den zuständigen Stellen des anderen Staates
+anfordern. § 83 dieses Gesetzes und § 30 der Abgabenordnung stehen den
+Sätzen 1 und 2 nicht entgegen.
+
+
+##### § 3b Verzeichnis der nach § 3a zur vorübergehenden und gelegentlichen Hilfeleistung in Steuersachen befugten Personen
+
+(1) Die Bundessteuerberaterkammer führt ein elektronisches Verzeichnis
+aller Personen, die gemäß § 3a Absatz 3 Satz 1 als zur vorübergehenden
+und gelegentlichen Hilfeleistung in Steuersachen befugt vorübergehend
+im Berufsregister der zuständigen Steuerberaterkammer eingetragen
+sind. Das Verzeichnis dient der Information der Behörden und Gerichte,
+der Rechtsuchenden sowie anderer am Rechtsverkehr Beteiligter. Die
+Steuerberaterkammern geben die im Berufsregister gemäß § 3a Absatz 3
+Satz 1 vorübergehend gespeicherten Daten im automatisierten Verfahren
+in das von der Bundessteuerberaterkammer geführte Verzeichnis ein. Die
+zuständige Steuerberaterkammer trägt die datenschutzrechtliche
+Verantwortung für die von ihr in das Verzeichnis eingegebenen Daten,
+insbesondere für die Rechtmäßigkeit der Erhebung, die Vollständigkeit
+und die Richtigkeit der Daten. Der Abruf einzelner Daten aus dem
+Gesamtverzeichnis steht jedem unentgeltlich zu.
+
+(2) In das Verzeichnis sind einzutragen:
+
+1.  bei natürlichen Personen der Familienname und die Vornamen, das
+    Geburtsjahr, die Geschäftsanschrift einschließlich der Anschriften
+    aller Zweigstellen, die Berufsbezeichnung, unter der die Tätigkeit
+    nach § 3a Absatz 5 im Inland zu erbringen ist, sowie der Name und die
+    Anschrift der nach § 3a Absatz 2 Satz 2 zuständigen
+    Steuerberaterkammer;
+
+
+2.  bei juristischen Personen und Personengesellschaften der Name oder die
+    Firma, das Gründungsjahr, die Geschäftsanschrift einschließlich der
+    Anschriften aller Zweigstellen, der Familienname und die Vornamen der
+    gesetzlichen Vertreter, die Berufsbezeichnung, unter der die Tätigkeit
+    nach § 3a Absatz 5 im Inland zu erbringen ist, der Name und die
+    Anschrift der nach § 3a Absatz 2 Satz 2 zuständigen
+    Steuerberaterkammer.
+
+
+
+
+
+##### § 3c Befugnis juristischer Personen und Vereinigungen zu vorübergehender und gelegentlicher Hilfeleistung in Steuersachen
+
+Die §§ 3a und 3b gelten entsprechend für juristische Personen und
+Vereinigungen.
 
 
 ##### § 4 Befugnis zu beschränkter Hilfeleistung in Steuersachen
@@ -426,8 +485,8 @@ Zur geschäftsmäßigen Hilfeleistung in Steuersachen sind ferner befugt:
     Einkommensteuer und ihren Zuschlagsteuern. Soweit zulässig, berechtigt
     sie auch zur Hilfeleistung bei der Eigenheimzulage und der
     Investitionszulage nach den §§ 3 bis 4 des Investitionszulagengesetzes
-    1999, bei mit Kinderbetreuungskosten im Sinne von § 9 Abs. 5, § 9c
-    Abs. 2 und 3 des Einkommensteuergesetzes sowie bei mit haushaltsnahen
+    1999, bei mit Kinderbetreuungskosten im Sinne von § 10 Absatz 1 Nummer
+    5 des Einkommensteuergesetzes sowie bei mit haushaltsnahen
     Beschäftigungsverhältnissen im Sinne des § 35a des
     Einkommensteuergesetzes zusammenhängenden Arbeitgeberaufgaben sowie
     zur Hilfe bei Sachverhalten des Familienleistungsausgleichs im Sinne
@@ -503,21 +562,33 @@ entgegen Absatz 1 geschäftsmäßig Hilfe in Steuersachen leistet, so
 haben sie diese Tatsachen der für das Bußgeldverfahren zuständigen
 Stelle mitteilen.
 
-(3) Werden den Finanzbehörden oder den Steuerberaterkammern Tatsachen
-bekannt, die den Verdacht begründen, dass Personen, die geschäftsmäßig
-Hilfe in Steuersachen leisten, entgegen § 132a Abs. 1 Nr. 2 des
-Strafgesetzbuches die Berufsbezeichnungen „Steuerberater“,
-„Steuerbevollmächtigter“, „Rechtsanwalt“, „Wirtschaftsprüfer“ oder
-„vereidigter Buchprüfer“ oder Vereinigungen, die geschäftsmäßig Hilfe
-in Steuersachen leisten, entgegen § 161 dieses Gesetzes die
-Bezeichnungen „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“
-oder „Landwirtschaftliche Buchstelle“ oder entgegen § 133 der
-Wirtschaftsprüferordnung die Bezeichnungen
-„Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“
-unbefugt führen, haben sie diese Tatsachen der für das Strafverfahren,
-das Bußgeldverfahren oder ein berufsaufsichtliches Verfahren
-zuständigen Stelle mitzuteilen; § 83 dieses Gesetzes und § 30 der
-Abgabenordnung stehen dem nicht entgegen.
+(3) Die Finanzbehörden oder die Steuerberaterkammern haben der für das
+Strafverfahren, das Bußgeldverfahren oder ein berufsaufsichtliches
+Verfahren zuständigen Stelle ihnen bekannte Tatsachen mitzuteilen, die
+den Verdacht begründen, dass
+
+1.  Personen, die geschäftsmäßig Hilfe in Steuersachen leisten, entgegen §
+    132a Absatz 1 Nummer 2 des Strafgesetzbuches die Berufsbezeichnungen
+    „Steuerberater“, „Steuerbevollmächtigter“, „Rechtsanwalt“,
+    „Wirtschaftsprüfer“ oder „vereidigter Buchprüfer“ führen,
+
+
+2.  Vereinigungen, die geschäftsmäßig Hilfe in Steuersachen leisten,
+    entgegen § 161 dieses Gesetzes unbefugt die Bezeichnungen
+    „Steuerberatungsgesellschaft“, „Lohnsteuerhilfeverein“,
+    „Landwirtschaftliche Buchstelle“ oder unbefugt den Zusatz „und
+    Partner“, „Partnerschaft“ (§ 2 Absatz 1 Satz 1 des
+    Partnerschaftsgesellschaftsgesetzes), „mit beschränkter Berufshaftung“
+    oder jeweilige Abkürzungen (§ 8 Absatz 4 des
+    Partnerschaftsgesellschaftsgesetzes) oder entgegen § 133 der
+    Wirtschaftsprüferordnung die Bezeichnungen
+    „Wirtschaftsprüfungsgesellschaft“ oder „Buchprüfungsgesellschaft“
+    führen.
+
+
+
+§ 83 dieses Gesetzes und § 30 der Abgabenordnung stehen den
+Mitteilungen nicht entgegen.
 
 
 ##### § 6 Ausnahmen vom Verbot der unbefugten Hilfeleistung in Steuersachen
@@ -577,7 +648,9 @@ leitet.
 (3) Örtlich zuständig ist die Finanzbehörde, in deren Bezirk die
 Person oder Vereinigung, deren Tätigkeit untersagt werden soll, ihre
 Geschäftsleitung hat, hilfsweise in deren Bezirk die Tätigkeit
-vorwiegend ausgeübt wird.
+vorwiegend ausgeübt wird. Ergibt sich die örtliche Zuständigkeit nicht
+aus Satz 1, ist die Finanzbehörde zuständig, in deren Bezirk der
+Anlass für die Amtshandlung besteht.
 
 
 #### Vierter Unterabschnitt - Sonstige Vorschriften
@@ -717,6 +790,60 @@ Maßgabe dieser Vorschrift auch an andere zuständige Stellen
 Stelle für die Verwirklichung der Rechtsfolgen erforderlich ist.
 
 
+##### § 10a Mitteilung über den Ausgang eines Bußgeldverfahrens wegen unbefugter Hilfeleistung in Steuersachen
+
+(1) Liegen tatsächliche Anhaltspunkte dafür vor, das die unbefugte
+Hilfeleistung in Steuersachen fortgesetzt wird, sind die
+Finanzbehörden verpflichtet, die Steuerberaterkammer, in deren Bezirk
+die Person Hilfe in Steuersachen geleistet hat, über den Ausgang eines
+nach § 160 eingeleiteten Bußgeldverfahrens zu unterrichten und ihr die
+Tatsachen mitzuteilen, die für die Geltendmachung von Ansprüchen nach
+den Vorschriften des Gesetzes gegen den unlauteren Wettbewerb
+erforderlich sind. § 30 der Abgabenordnung steht dem nicht entgegen.
+
+(2) Wird die Hilfe in Steuersachen in verschiedenen Kammerbezirken
+geleistet, ist die Mitteilung an die Steuerberaterkammer zu richten,
+in deren Bezirk die Person ihre Geschäftsleitung unterhält, hilfsweise
+in deren Bezirk die Tätigkeit vorwiegend ausgeübt wird. Ergibt sich
+die örtliche Zuständigkeit einer Steuerberaterkammer nicht aus Absatz
+1 Satz 1 oder Absatz 2 Satz 1, ist die Steuerberaterkammer zuständig,
+in deren Kammerbezirk die Finanzbehörde, die das Bußgeldverfahren nach
+§ 160 eingeleitet hat, ihren Sitz hat.
+
+
+##### § 10b Vorwarnmechanismus
+
+(1) Wird bei einer Person, die die Anerkennung einer
+Berufsqualifikation nach der Richtlinie 2005/36/EG des Europäischen
+Parlaments und des Rates vom 7. September 2005 über die Anerkennung
+von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22) in der
+jeweils geltenden Fassung beantragt hat, gerichtlich festgestellt,
+dass sie dabei gefälschte Berufsqualifikationsnachweise verwendet hat,
+unterrichtet die zuständige Steuerberaterkammer, soweit die
+Unterrichtung nicht bereits durch das zuständige Gericht erfolgt ist,
+die zuständigen Behörden der anderen Mitgliedstaaten der Europäischen
+Union, der anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz über die Identität dieser Person,
+insbesondere über Name, Vorname, Geburtsdatum und Geburtsort, und den
+Umstand, dass diese Person gefälschte Berufsqualifikationsnachweise
+verwendet hat (Warnmitteilung). Die Warnmitteilung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung. Sie ist über das durch die Verordnung (EU) Nr. 1024/2012
+des Europäischen Parlaments und des Rates vom 25. Oktober 2012 über
+die Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem zu übermitteln.
+
+(2) Zeitgleich mit der Warnmitteilung nach Absatz 1 Satz 1
+unterrichtet die zuständige Stelle, die die Warnmitteilung getätigt
+hat, die betroffene Person über die Warnmitteilung und ihren Inhalt
+schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird ein
+Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die Stelle,
+die die Warnmitteilung getätigt hat, die Warnmitteilung um einen
+entsprechenden Hinweis.
+
+
 ##### § 11 Erhebung und Verwendung personenbezogener Daten
 
 Soweit es zur Erfüllung der Aufgaben nach diesem Gesetz erforderlich
@@ -782,8 +909,9 @@ werden, wenn nach der Satzung
     wird;
 
 
-6.  die Anwendung der Vorschriften des § 27 Abs. 1 und 3 sowie der §§ 32
-    und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen ist;
+6.  die Anwendung der Vorschriften des § 27 Absatz 1 und 3 Satz 1 sowie
+    der §§ 32 und 33 des Bürgerlichen Gesetzbuches nicht ausgeschlossen
+    ist;
 
 
 7.  Verträge des Vereins mit Mitgliedern des Vorstands oder deren
@@ -898,9 +1026,9 @@ nach der Anerkennung ergibt, daß sie hätte versagt werden müssen.
     b)  der Lohnsteuerhilfeverein in Vermögensverfall geraten ist; ein
         Vermögensverfall wird vermutet, wenn ein Insolvenzverfahren über das
         Vermögen des Lohnsteuerhilfevereins eröffnet oder der
-        Lohnsteuerhilfeverein in das vom Insolvenzgericht oder vom
-        Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs. 2
-        der Insolvenzordnung; § 915 der Zivilprozessordnung) eingetragen ist.
+        Lohnsteuerhilfeverein in das vom Vollstreckungsgericht zu führende
+        Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung; § 882b der
+        Zivilprozessordnung) eingetragen ist.
 
 
 
@@ -1424,7 +1552,7 @@ bundeseinheitlich bestimmt werden.
 
 5.  Handelsrecht sowie Grundzüge des Bürgerlichen Rechts, des
     Gesellschaftsrechts, des Insolvenzrechts und des Rechts der
-    Europäischen Gemeinschaft,
+    Europäischen Union,
 
 
 6.  Betriebswirtschaft und Rechnungswesen,
@@ -1456,56 +1584,56 @@ einem anderen Mitgliedstaat der Europäischen Union oder Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum oder in der
 Schweiz zur selbständigen Hilfe in Steuersachen berechtigt, können auf
 Antrag eine Eignungsprüfung im Sinne des Artikels 14 Absatz 1 in
-Verbindung mit Absatz 3 der Richtlinie 2005/36/EG des Europäischen
-Parlaments und des Rates vom 7. September 2005 über die Anerkennung
-von Berufsqualifikationen (ABl. L 255 vom 30.09.2005, S. 22, ABl. L
-271 vom 16.10.2007, S. 18), geändert durch die Richtlinie 2006/100/EG
-des Rates vom 20. November 2006 (ABl. L 363 vom 20.12.2006, S. 141)
-ablegen. Mit der erfolgreich abgelegten Eignungsprüfung werden
-dieselben Rechte erworben wie durch die erfolgreich abgelegte
-Steuerberaterprüfung.
+Verbindung mit Absatz 3 der Richtlinie 2005/36/EG ablegen. Mit der
+erfolgreich abgelegten Eignungsprüfung werden dieselben Rechte
+erworben wie durch die erfolgreich abgelegte Steuerberaterprüfung.
 
 (3) Die Befähigungs- und Ausbildungsnachweise im Sinne von Absatz 2
 müssen in einem Mitgliedstaat oder Vertragsstaat oder der Schweiz von
-einer entsprechend dessen Rechts- und Verwaltungsvorschriften
-benannten zuständigen Behörde ausgestellt worden sein. Sie müssen
-bescheinigen, dass das Berufsqualifikationsniveau des Inhabers
-zumindest unmittelbar unter dem Niveau nach Artikel 11 Buchstabe d
-oder Buchstabe e der Richtlinie 2005/36/EG liegt und der Inhaber damit
-in diesem anderen Mitgliedstaat oder Vertragsstaat oder der Schweiz
-zur Hilfe in Steuersachen berechtigt ist. Satz 2 gilt auch für
-Ausbildungsnachweise, die von einer zuständigen Behörde in einem
-anderen Mitgliedstaat oder Vertragsstaat oder der Schweiz ausgestellt
-wurden, sofern sie in der Gemeinschaft erworbene abgeschlossene
-Ausbildungen bescheinigen, von diesen als gleichwertig anerkannt
-wurden und in Bezug auf die Aufnahme und Ausübung des Berufs des
-Steuerberaters dieselben Rechte verleihen oder auf die Ausübung des
-Berufs des Steuerberaters vorbereiten. Satz 2 gilt ferner für
-Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts-
-und Verwaltungsvorschriften des Herkunftsmitgliedstaates für die
-Aufnahme und Ausübung des Berufs des Steuerberaters entsprechen, ihrem
-Inhaber jedoch nach dem Recht des Herkunftsmitgliedstaates erworbene
-Rechte nach den dort maßgeblichen Vorschriften verleihen. Bewerber aus
-Staaten, in denen der Beruf des Steuerberaters nicht reglementiert
-ist, müssen diesen Beruf zusätzlich in den vorhergehenden zehn Jahren
-mindestens drei Jahre in einem Umfang von mindestens 16 Wochenstunden
-in einem Mitgliedstaat oder Vertragsstaat oder der Schweiz ausgeübt
-haben. Die zuständige Behörde nach Satz 1 muss bescheinigen, dass der
-Inhaber auf die Ausübung des Berufs vorbereitet wurde. Die Pflicht zum
-Nachweis dieser dreijährigen Berufserfahrung entfällt, wenn der
-Ausbildungsnachweis den Abschluss einer reglementierten Ausbildung im
-Sinne des Artikels 13 Abs. 2 Unterabs. 3 der Richtlinie 2005/36/EG
-bestätigt.
+einer nach den dortigen Rechts- und Verwaltungsvorschriften
+zuständigen Behörde ausgestellt worden sein. Sie müssen bescheinigen,
+dass der Inhaber in dem Staat, in dem er die Berufsqualifikation
+erworben hat, zur Hilfe in Steuersachen berechtigt ist. Nachweisen
+nach Satz 2 gleichgestellt sind Ausbildungsnachweise, die
 
-(3a) Die zuständige Behörde hat dem Antragsteller den Empfang der
-Unterlagen innerhalb eines Monats zu bestätigen und ggf. mitzuteilen,
-welche Unterlagen fehlen. Das Berufsanerkennungsverfahren ist
-innerhalb kürzester Frist, spätestens jedoch drei Monate nach
-Einreichung der vollständigen Unterlagen abzuschließen. Die Frist kann
-um einen Monat verlängert werden. Die Eignungsprüfung ist innerhalb
-der Frist für die Durchführung des Berufsanerkennungsverfahrens
-anzusetzen. Der Antragsteller kann gegen nicht fristgerecht getroffene
-Entscheidungen Einspruch einlegen.
+1.  den erfolgreichen Abschluss einer in einem anderen Mitgliedstaat oder
+    Vertragsstaat oder der Schweiz auf Voll- oder Teilzeitbasis im Rahmen
+    formaler oder nicht formaler Ausbildungsprogramme absolvierten
+    Ausbildung bescheinigen,
+
+
+2.  von dem sie ausstellenden anderen Mitgliedstaat oder Vertragsstaat
+    oder der Schweiz als den Nachweisen nach Satz 2 gleichwertig anerkannt
+    wurden und
+
+
+3.  in Bezug auf die Aufnahme oder Ausübung des Berufs des Steuerberaters
+    dieselben Rechte verleihen oder auf die Ausübung des Berufs des
+    Steuerberaters vorbereiten.
+
+
+
+Nachweisen nach Satz 2 gleichgestellt sind ferner solche, die
+Berufsqualifikationen bescheinigen, die zwar nicht den Erfordernissen
+der Rechts- und Verwaltungsvorschriften des Herkunftsmitgliedstaates
+für die Aufnahme und Ausübung des Berufs des Steuerberaters
+entsprechen, ihrem Inhaber jedoch nach dem Recht des
+Herkunftsmitgliedstaates erworbene Rechte nach den dort maßgeblichen
+Vorschriften verleihen. Bewerber aus Staaten, in denen der Beruf des
+Steuerberaters nicht reglementiert ist, müssen diesen Beruf zusätzlich
+in den vorhergehenden zehn Jahren mindestens ein Jahr in einem Umfang
+von mindestens 16 Wochenstunden in einem Mitgliedstaat oder
+Vertragsstaat oder der Schweiz ausgeübt haben. Die zuständige Behörde
+nach Satz 1 muss bescheinigen, dass der Inhaber auf die Ausübung des
+Berufs vorbereitet wurde. Die Pflicht zum Nachweis der einjährigen
+Berufserfahrung entfällt, wenn durch den Ausbildungsnachweis ein
+reglementierter Ausbildungsgang bestätigt wird.
+
+(3a) Die zuständige Behörde hat dem Bewerber den Empfang der
+Unterlagen innerhalb eines Monats zu bestätigen und gegebenenfalls
+mitzuteilen, welche Unterlagen fehlen. Die Eignungsprüfung ist
+spätestens sechs Monate nach der Entscheidung über die Zulassung zur
+Eignungsprüfung anzusetzen.
 
 (4) Bewerber mit den in Absatz 2 genannten Voraussetzungen sollen mit
 der Eignungsprüfung ihre Befähigung nachweisen, den Beruf eines
@@ -1514,20 +1642,32 @@ Eignungsprüfung umfasst die zur Berufsausübung notwendigen Kenntnisse
 aus den in § 37 Abs. 3 genannten Gebieten. Die Eignungsprüfung
 gliedert sich in einen schriftlichen Teil aus höchstens zwei
 Aufsichtsarbeiten aus unterschiedlichen Prüfungsgebieten und eine
-mündliche Prüfung. Die Prüfung in einem der in § 37 Abs. 3 genannten
-Prüfungsgebiete entfällt, wenn der Bewerber nachweist, dass er im
-Rahmen seiner bisherigen Ausbildung oder im Rahmen seiner bisherigen
-Berufstätigkeit einen wesentlichen Teil der Kenntnisse erlangt hat,
-die in dem entfallenden Prüfungsgebiet gefordert werden. Der Nachweis
-der im Rahmen der bisherigen Ausbildung erworbenen Kenntnisse ist
-durch Diplome oder gleichwertige Prüfungszeugnisse einer staatlichen
-oder staatlich anerkannten Universität oder einer Hochschule oder
-einer anderen Ausbildungseinrichtung zu führen. Zum Nachweis der im
-Rahmen der bisherigen beruflichen Tätigkeit erworbenen Kenntnisse sind
+mündliche Prüfung. Die Prüfung entfällt insgesamt oder in einem der in
+§ 37 Absatz 3 genannten Prüfungsgebiete, soweit der Bewerber
+nachweist, dass er im Rahmen seiner bisherigen Ausbildung, durch
+Fortbildung oder im Rahmen seiner bisherigen Berufstätigkeit einen
+wesentlichen Teil der Kenntnisse, Fähigkeiten und Kompetenzen erlangt
+hat, die in der Prüfung insgesamt oder in einem der in § 37 Absatz 3
+genannten Prüfungsgebiete gefordert werden und die von einer
+zuständigen Stelle formell anerkannt wurden. Der Nachweis der im
+Rahmen der bisherigen Ausbildung erworbenen Kenntnisse ist durch
+Diplome oder gleichwertige Prüfungszeugnisse einer staatlichen oder
+staatlich anerkannten Universität oder einer Hochschule oder einer
+anderen Ausbildungseinrichtung zu führen. Zum Nachweis der im Rahmen
+der bisherigen beruflichen Tätigkeit erworbenen Kenntnisse sind
 Falllisten vorzulegen, die regelmäßig folgende Angaben enthalten
 müssen: Akten- oder Geschäftszeichen, Gegenstand, Zeitraum, Art und
 Umfang der Tätigkeit, Sachstand. Ferner sind auf Verlangen der für die
 Prüfung zuständigen Stelle anonymisierte Arbeitsproben vorzulegen.
+Soweit die zuständige Behörde das Entfallen der Prüfung insgesamt oder
+das Entfallen bestimmter Prüfungsgebiete nach Satz 1 ablehnt, hat sie
+die Entscheidung zu begründen. Hinsichtlich der nicht entfallenen
+Prüfung oder der nicht entfallenden Prüfungsgebiete sind die
+wesentlichen Unterschiede zwischen der bisherigen Ausbildung des
+Bewerbers und der im Inland geforderten Ausbildung sowie die Gründe,
+aus denen diese Unterschiede nicht durch bereits beim Bewerber
+erworbene Kenntnisse, Fähigkeiten und Kompetenzen ausgeglichen werden
+können, mitzuteilen.
 
 (4a) Die zuständigen Behörden im Sinne von Absatz 3 arbeiten mit den
 zuständigen Behörden in anderen Mitgliedstaaten der Europäischen
@@ -1977,9 +2117,9 @@ Steuerbevollmächtigte
     Interessen der Auftraggeber nicht gefährdet sind; ein Vermögensverfall
     wird vermutet, wenn ein Insolvenzverfahren über das Vermögen des
     Steuerberaters oder Steuerbevollmächtigten eröffnet oder der
-    Steuerberater oder Steuerbevollmächtigte in das vom Insolvenzgericht
-    oder vom Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2
-    der Insolvenzordnung; § 915 der Zivilprozeßordnung) eingetragen ist;
+    Steuerberater oder Steuerbevollmächtigte in das vom
+    Vollstreckungsgericht zu führende Verzeichnis (§ 26 Abs. 2 der
+    Insolvenzordnung; § 882b der Zivilprozeßordnung) eingetragen ist;
 
 
 5.  seine berufliche Niederlassung in das Ausland verlegt, ohne daß ein
@@ -2302,10 +2442,9 @@ mindestens fünf Jahre.
 (2a) Die Anerkennung ist ferner zu widerrufen, wenn die Gesellschaft
 in Vermögensverfall geraten ist, es sei denn, dass dadurch die
 Interessen der Auftraggeber nicht gefährdet sind; der Vermögensverfall
-wird vermutet, wenn die Gesellschaft in das vom Insolvenzgericht oder
-vom Vollstreckungsgericht zu führende Schuldnerverzeichnis (§ 26 Abs.
-2 der Insolvenzordnung, § 915 der Zivilprozessordnung) eingetragen
-ist.
+wird vermutet, wenn die Gesellschaft in das vom Vollstreckungsgericht
+zu führende Schuldnerverzeichnis (§ 26 Abs. 2 der Insolvenzordnung, §
+882b der Zivilprozessordnung) eingetragen ist.
 
 (3) Vor der Rücknahme oder dem Widerruf ist die
 Steuerberatungsgesellschaft zu hören.
@@ -2511,7 +2650,12 @@ ausüben. Sie dürfen ferner tätig werden
 7.  als Geschäftsführer oder als Angestellte einer europäischen
     wirtschaftlichen Interessenvereinigung, wenn alle Geschäftsführer und
     alle Mitglieder Angehörige europäischer steuerberatender,
-    wirtschaftsprüfender oder rechtsberatender Berufe sind.
+    wirtschaftsprüfender oder rechtsberatender Berufe sind,
+
+
+8.  als Angestellte des Bundesamts für Wirtschaft und Ausfuhrkontrolle,
+    soweit es sich um eine Tätigkeit bei der
+    Abschlussprüferaufsichtsstelle handelt. § 59 steht dem nicht entgegen.
 
 
 
@@ -2562,11 +2706,89 @@ Steuerangelegenheiten sie innerhalb der letzten drei Jahre vor dem
 Ausscheiden materiell befaßt waren.
 
 
-#### § 62 Verschwiegenheitspflicht der Gehilfen
+#### § 62 Verschwiegenheitspflicht beschäftigter Personen
 
-Steuerberater und Steuerbevollmächtigte haben ihre Gehilfen, die nicht
-selbst Steuerberater oder Steuerbevollmächtigte sind, zur
-Verschwiegenheit zu verpflichten.
+Steuerberater und Steuerbevollmächtigte haben die von ihnen
+beschäftigten Personen in schriftlicher Form zur Verschwiegenheit zu
+verpflichten und sie dabei über die strafrechtlichen Folgen einer
+Pflichtverletzung zu belehren. Zudem haben sie bei ihnen in geeigneter
+Weise auf die Einhaltung der Verschwiegenheitspflicht hinzuwirken. Den
+von dem Steuerberater oder Steuerbevollmächtigten beschäftigten
+Personen stehen die Personen gleich, die im Rahmen einer
+berufsvorbereitenden Tätigkeit oder einer sonstigen Hilfstätigkeit an
+seiner beruflichen Tätigkeit mitwirken. Satz 1 gilt nicht für
+angestellte Personen, die im Hinblick auf die Verschwiegenheitspflicht
+den gleichen Anforderungen wie der Steuerberater oder
+Steuerbevollmächtigte unterliegen. Hat sich ein Steuerberater oder
+Steuerbevollmächtigter mit anderen Personen, die im Hinblick auf die
+Verschwiegenheitspflicht den gleichen Anforderungen unterliegen wie
+er, zur gemeinschaftlichen Berufsausübung zusammengeschlossen und
+besteht zu den beschäftigten Personen ein einheitliches
+Beschäftigungsverhältnis, so genügt auch der Nachweis, dass eine
+andere dieser Personen die Verpflichtung nach Satz 1 vorgenommen hat.
+
+
+#### § 62a Inanspruchnahme von Dienstleistungen
+
+(1) Steuerberater und Steuerbevollmächtigte dürfen Dienstleistern den
+Zugang zu Tatsachen eröffnen, auf die sich die Verpflichtung zur
+Verschwiegenheit gemäß § 57 Absatz 1 bezieht, soweit dies für die
+Inanspruchnahme der Dienstleistung erforderlich ist. Dienstleister ist
+eine andere Person oder Stelle, die vom Steuerberater oder vom
+Steuerbevollmächtigten im Rahmen seiner Berufsausübung mit
+Dienstleistungen beauftragt wird.
+
+(2) Steuerberater und Steuerbevollmächtigte sind verpflichtet, den
+Dienstleister sorgfältig auszuwählen. Die Zusammenarbeit muss
+unverzüglich beendet werden, wenn die Einhaltung der dem Dienstleister
+gemäß Absatz 3 zu machenden Vorgaben nicht gewährleistet ist.
+
+(3) Der Vertrag mit dem Dienstleister bedarf der Textform. In ihm ist
+
+1.  der Dienstleister unter Belehrung über die strafrechtlichen Folgen
+    einer Pflichtverletzung zur Verschwiegenheit zu verpflichten,
+
+
+2.  der Dienstleister zu verpflichten, sich nur insoweit Kenntnis von
+    fremden Geheimnissen zu verschaffen, als dies zur Vertragserfüllung
+    erforderlich ist, und
+
+
+3.  festzulegen, ob der Dienstleister befugt ist, weitere Personen zur
+    Erfüllung des Vertrags heranzuziehen; für diesen Fall ist dem
+    Dienstleister aufzuerlegen, diese Personen in Textform zur
+    Verschwiegenheit zu verpflichten.
+
+
+
+
+(4) Bei der Inanspruchnahme von Dienstleistungen, die im Ausland
+erbracht werden, darf der Steuerberater und der Steuerbevollmächtigte
+dem Dienstleister den Zugang zu fremden Geheimnissen unbeschadet der
+übrigen Voraussetzungen dieser Vorschrift nur dann eröffnen, wenn der
+dort bestehende Schutz der Geheimnisse dem Schutz im Inland
+vergleichbar ist, es sei denn, dass der Schutz der Geheimnisse dies
+nicht gebietet.
+
+(5) Bei der Inanspruchnahme von Dienstleistungen, die unmittelbar
+einem einzelnen Mandat dienen, darf der Steuerberater und der
+Steuerbevollmächtigte dem Dienstleister den Zugang zu fremden
+Geheimnissen nur dann eröffnen, wenn der Mandant darin eingewilligt
+hat.
+
+(6) Die Absätze 2 und 3 gelten auch im Fall der Inanspruchnahme von
+Dienstleistungen, in die der Mandant eingewilligt hat, sofern der
+Mandant nicht ausdrücklich auf die Einhaltung der in den Absätzen 2
+und 3 genannten Anforderungen verzichtet hat.
+
+(7) Die Absätze 1 bis 6 gelten nicht, soweit Dienstleistungen auf
+Grund besonderer gesetzlicher Vorschriften in Anspruch genommen
+werden. Absatz 3 Satz 2 gilt nicht, soweit der Dienstleister
+hinsichtlich der zu erbringenden Dienstleistung gesetzlich zur
+Verschwiegenheit verpflichtet ist.
+
+(8) Die Vorschriften zum Schutz personenbezogener Daten bleiben
+unberührt.
 
 
 #### § 63 Mitteilung der Ablehnung eines Auftrags
@@ -2623,6 +2845,13 @@ Steuerberater kann beantragen, die Beiordnung aufzuheben, wenn hierfür
 wichtige Gründe vorliegen.
 
 
+#### § 65a Pflicht zur Übernahme der Beratungshilfe
+
+Steuerberater und Steuerbevollmächtigte sind verpflichtet, die in dem
+Beratungshilfegesetz vorgesehene Beratungshilfe zu übernehmen. Sie
+können die Beratungshilfe im Einzelfall aus wichtigem Grund ablehnen.
+
+
 #### § 66 Handakten
 
 (1) Der Steuerberater oder Steuerbevollmächtigte hat die Handakten für
@@ -2656,16 +2885,35 @@ Geschäftsunterlagen bleiben unberührt.
 
 #### § 67 Berufshaftpflichtversicherung
 
-Selbständige Steuerberater und Steuerbevollmächtigte müssen gegen die
-aus ihrer Berufstätigkeit sich ergebenden Haftpflichtgefahren
-angemessen versichert sein. Zuständige Stelle im Sinne des § 117 Abs.
-2 des Versicherungsvertragsgesetzes ist die Steuerberaterkammer. Die
-Steuerberaterkammer erteilt Dritten zur Geltendmachung von
+(1) Selbstständige Steuerberater, Steuerbevollmächtigte und
+Partnerschaftsgesellschaften, auch solche mit beschränkter
+Berufshaftung nach § 8 Absatz 4 des
+Partnerschaftsgesellschaftsgesetzes, müssen gegen die aus ihrer
+Berufstätigkeit sich ergebenden Haftpflichtgefahren angemessen
+versichert sein.
+
+(2) Partnerschaftsgesellschaften mit beschränkter Berufshaftung
+erfüllen die Voraussetzungen nach § 8 Absatz 4 Satz 1 des
+Partnerschaftsgesellschaftsgesetzes, wenn sie eine
+Berufshaftpflichtversicherung unterhalten, deren
+Mindestversicherungssumme eine Million Euro beträgt. Die Leistungen
+des Versicherers für alle innerhalb eines Versicherungsjahres
+verursachten Schäden können auf den Betrag der
+Mindestversicherungssumme, vervielfacht mit der Zahl der Partner,
+begrenzt werden. Die Jahreshöchstleistung für alle in einem
+Versicherungsjahr verursachten Schäden muss jedoch mindestens vier
+Millionen Euro betragen.
+
+(3) Zuständige Stelle im Sinne des § 117 Absatz 2 des
+Versicherungsvertragsgesetzes ist die Steuerberaterkammer.
+
+(4) Die Steuerberaterkammer erteilt Dritten zur Geltendmachung von
 Schadensersatzansprüchen auf Antrag Auskunft über den Namen, die
 Adresse und die Versicherungsnummer der Berufshaftpflichtversicherung
-des Steuerberaters, Steuerbevollmächtigten oder der
-Steuerberatungsgesellschaft, soweit der Steuerberater,
-Steuerbevollmächtigte oder die Steuerberatungsgesellschaft kein
+des Steuerberaters, des Steuerbevollmächtigten, der
+Steuerberatungsgesellschaft oder der Partnerschaftsgesellschaft,
+soweit der Steuerberater, der Steuerbevollmächtigte, die
+Steuerberatungsgesellschaft oder die Partnerschaftsgesellschaft kein
 überwiegendes schutzwürdiges Interesse an der Nichterteilung der
 Auskunft hat.
 
@@ -2686,6 +2934,7 @@ kann beschränkt werden:
 
 
 
+Für Berufsausübungsgesellschaften gilt Satz 1 entsprechend.
 
 (2) Die persönliche Haftung auf Schadensersatz kann durch
 vorformulierte Vertragsbedingungen beschränkt werden auf die
@@ -2870,6 +3119,9 @@ bleiben die bisher gebildeten Kammern bestehen. Der vormalige
 Geschäftsbereich einer aufgelösten Oberfinanzdirektion gilt als
 Kammerbezirk fort, soweit die Landesregierung nichts anderes bestimmt.
 
+(4) Die Tätigkeit als Mitglied eines Organs oder eines Ausschusses der
+Steuerberaterkammer wird ehrenamtlich ausgeübt.
+
 
 #### § 74 Mitgliedschaft
 
@@ -2944,7 +3196,11 @@ beruflichen Pflichten zu überwachen.
 
 
 10. die Wahrnehmung der den Steuerberaterkammern zugewiesenen Aufgaben des
-    Zweiten und Sechsten Abschnitts des Zweiten Teils dieses Gesetzes.
+    Zweiten und Sechsten Abschnitts des Zweiten Teils dieses Gesetzes;
+
+
+11. die Erfüllung der den Steuerberaterkammern nach § 80a Absatz 2 der
+    Abgabenordnung zugewiesenen Pflichten.
 
 
 
@@ -2989,6 +3245,12 @@ Absatz 2 des Gesetzes über Ordnungswidrigkeiten die notwendigen
 Auslagen. Sie ist auch ersatzpflichtig im Sinne des § 110 Absatz 4 des
 Gesetzes über Ordnungswidrigkeiten.
 
+(11) Die Steuerberaterkammer hat die Aufgabe, in den Fällen des § 160
+Absatz 1 Ansprüche nach den Vorschriften des Gesetzes gegen den
+unlauteren Wettbewerb geltend zu machen, wenn Anhaltspunkte dafür
+vorliegen, dass die unbefugte Hilfeleistung in Steuersachen
+fortgesetzt wird.
+
 
 #### § 77 Vorstand
 
@@ -3024,6 +3286,13 @@ angemessen hält oder wenn die Abteilung oder ihr Vorsitzender es
 beantragt.
 
 
+#### § 77b Ehrenamtliche Tätigkeit des Vorstandes
+
+Die Mitglieder des Vorstandes üben ihre Tätigkeit unentgeltlich aus.
+Sie erhalten jedoch eine angemessene Entschädigung für den mit ihrer
+Tätigkeit verbundenen Aufwand sowie eine Reisekostenvergütung.
+
+
 #### § 78 Satzung
 
 Jede Steuerberaterkammer gibt sich ihre Satzung selbst. Die Satzung
@@ -3048,8 +3317,9 @@ Gebühren entstehen mit Inanspruchnahme der besonderen Einrichtung oder
 Tätigkeit, bei Amtshandlungen, die einen Antrag voraussetzen, mit
 dessen Eingang bei der Steuerberaterkammer, bei anderen Amtshandlungen
 mit der Beendigung der Amtshandlung. Der 2. Abschnitt des
-Verwaltungskostengesetzes ist entsprechend anzuwenden. Im Übrigen gilt
-das jeweilige Verwaltungsgebührenrecht des Landes.
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung ist entsprechend anzuwenden. Im Übrigen gilt das jeweilige
+Verwaltungsgebührenrecht des Landes.
 
 (3) (weggefallen)
 
@@ -3252,6 +3522,9 @@ Genehmigung der Aufsichtsbehörde.
 
 (4) Die Vorschrift des § 83 ist sinngemäß anzuwenden.
 
+(5) Die Tätigkeit als Mitglied eines Organs oder eines Ausschusses der
+Bundessteuerberaterkammer wird ehrenamtlich ausgeübt.
+
 
 #### § 86 Aufgaben der Bundessteuerberaterkammer
 
@@ -3288,7 +3561,13 @@ zugewiesenen Aufgaben zu erfüllen.
 
 7.  die berufliche Fortbildung in den steuerberatenden Berufen zu fördern;
     sie kann den Berufsangehörigen unverbindliche Fortbildungsempfehlungen
-    erteilen.
+    erteilen;
+
+
+8.  das Verzeichnis nach § 3b zu führen;
+
+
+9.  das Verzeichnis nach § 86b zu führen.
 
 
 
@@ -3342,7 +3621,7 @@ nähere Regelungen enthalten, insbesondere hinsichtlich
     und Auslagen;
 
 
-10. der Pflichten in Prozeßkostenhilfesachen;
+10. der Pflichten in Prozeßkostenhilfe- und Beratungshilfesachen;
 
 
 11. der Voraussetzung des Führens von Bezeichnungen, die auf besondere
@@ -3422,6 +3701,46 @@ Bundessteuerberaterkammer zu verwahren ist.
 
 (8) Die Satzungsversammlung kann weitere Einzelheiten des Verfahrens
 in einer Geschäftsordnung regeln.
+
+
+#### § 86b Steuerberaterverzeichnis
+
+(1) Die Bundessteuerberaterkammer führt ein elektronisches
+Gesamtverzeichnis aller Mitglieder der Steuerberaterkammern nach § 74
+Absatz 1. Das Verzeichnis dient der Information der Behörden und
+Gerichte, der Rechtsuchenden sowie anderer am Rechtsverkehr
+Beteiligter. Die Steuerberaterkammern geben die im Berufsregister
+gespeicherten Daten im automatisierten Verfahren in das von der
+Bundessteuerberaterkammer geführte Gesamtverzeichnis ein. Die
+zuständige Steuerberaterkammer trägt die datenschutzrechtliche
+Verantwortung für die von ihr in das Gesamtverzeichnis eingegebenen
+Daten, insbesondere für die Rechtmäßigkeit der Erhebung, die
+Vollständigkeit und die Richtigkeit der Daten. Der Abruf einzelner
+Daten aus dem Gesamtverzeichnis steht jedem unentgeltlich zu.
+
+(2) In das Gesamtverzeichnis sind einzutragen:
+
+1.  bei Steuerberatern und Steuerbevollmächtigten der Name und die
+    Vornamen, der Zeitpunkt der Bestellung, der Name und die Anschrift der
+    zuständigen Steuerberaterkammer, die Anschrift der beruflichen
+    Niederlassung, die der Steuerberaterkammer mitgeteilten
+    Kommunikationsdaten, die Berufsbezeichnung, bestehende Berufs- und
+    Vertretungsverbote sowie, sofern ein Vertreter bestellt ist, die
+    Vertreterbestellung unter Angabe von Familiennamen und Vornamen des
+    Vertreters;
+
+
+2.  bei Steuerberatungsgesellschaften der Name und die Rechtsform der
+    Gesellschaft, der Zeitpunkt der Anerkennung als
+    Steuerberatungsgesellschaft, der Name und die Anschrift der
+    zuständigen Steuerberaterkammer, der Sitz und die Anschrift der
+    Steuerberatungsgesellschaft, die der Steuerberaterkammer mitgeteilten
+    Kommunikationsdaten, die Familiennamen und Vornamen der Mitglieder des
+    zur gesetzlichen Vertretung berufenen Organs sowie der
+    vertretungsberechtigten Gesellschafter und Partner.
+
+
+
 
 
 #### § 87 Beiträge zur Bundessteuerberaterkammer
@@ -3674,10 +3993,14 @@ entsprechend.
 Senats für Steuerberater- und Steuerbevollmächtigtensachen beim
 Bundesgerichtshof mit der Maßgabe Anwendung, daß an Stelle der
 Steuerberaterkammern die Bundessteuerberaterkammer und an Stelle der
-Landesjustizverwaltung das Bundesministerium der Justiz treten.
+Landesjustizverwaltung das Bundesministerium der Justiz und für
+Verbraucherschutz treten.
 
-(7) Die Landesjustizverwaltung kann die Befugnisse, die ihr nach den
-Absätzen 2 und 3 zustehen, auf nachgeordnete Behörden übertragen.
+(7) Die Landesregierungen werden ermächtigt, die Aufgaben und
+Befugnisse, die den Landesjustizverwaltungen nach den Absätzen 2 und 3
+zustehen, durch Rechtsverordnung auf diesen nachgeordnete Behörden zu
+übertragen. Die Landesregierungen können diese Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ##### § 100 Voraussetzungen für die Berufung zum Beisitzer und Recht zur Ablehnung
@@ -3713,8 +4036,8 @@ Nebenberuf tätig sein.
 
 (1) Ein Steuerberater oder Steuerbevollmächtigter ist in den Fällen
 der §§ 95 und 96 auf Antrag der für die Ernennung zuständigen Behörde,
-im Falle des § 97 auf Antrag des Bundesministeriums der Justiz seines
-Amtes als Beisitzer zu entheben,
+im Falle des § 97 auf Antrag des Bundesministeriums der Justiz und für
+Verbraucherschutz seines Amtes als Beisitzer zu entheben,
 
 1.  wenn nachträglich bekannt wird, daß er nicht hätte zum Beisitzer
     berufen werden dürfen;
@@ -3797,8 +4120,9 @@ Landgericht und vor dem Oberlandesgericht können außer den in § 138
 Abs. 1 der Strafprozeßordnung genannten Personen auch Steuerberater
 oder Steuerbevollmächtigte gewählt werden.
 
-(2) § 140 Abs. 1 Nr. 1 bis 3, 6 und 7 der Strafprozeßordnung ist auf
-die Verteidigung im berufsgerichtlichen Verfahren nicht anzuwenden.
+(2) § 140 Abs. 1 Nr. 1 bis 3, 6, 7 und 9 der Strafprozeßordnung ist
+auf die Verteidigung im berufsgerichtlichen Verfahren nicht
+anzuwenden.
 
 
 ###### § 108 Akteneinsicht des Steuerberaters oder Steuerbevollmächtigten
@@ -4152,8 +4476,8 @@ worden, so beginnt für diesen die Frist mit der Zustellung.
 Strafprozeßordnung über die Berufung die §§ 121 bis 125 dieses
 Gesetzes sinngemäß anzuwenden. Hat der Steuerberater oder
 Steuerbevollmächtigte die Berufung eingelegt, so ist bei seiner
-Abwesenheit in der Hauptverhandlung § 329 Abs. 1 Satz 1 und 2 und Abs.
-3 der Strafprozessordnung entsprechend anzuwenden, falls der
+Abwesenheit in der Hauptverhandlung § 329 Absatz 1 Satz 1 und 4 sowie
+Absatz 7 der Strafprozessordnung entsprechend anzuwenden, falls der
 Steuerberater oder Steuerbevollmächtigte ordnungsgemäß geladen und in
 der Ladung ausdrücklich auf die sich aus seiner Abwesenheit ergebende
 Rechtsfolge hingewiesen wurde.
@@ -4986,6 +5310,24 @@ vorsieht, sind diese bei der Antragstellung zu entrichten.
 Gebühr zur Hälfte zu erstatten.
 
 
+### § 164c Laufbahngruppenregelungen der Länder
+
+Soweit in diesem Gesetz die Bezeichnung gehobener und höherer Dienst
+verwendet wird, richtet sich die Zuordnung der Beamten zu einer dieser
+Laufbahngruppen in den Ländern, die durch landesrechtliche Regelungen
+die zuvor bezeichneten Laufbahngruppen zusammengefasst oder abweichend
+bezeichnet haben, nach den Zugangsvoraussetzungen für die Einstellung
+als Inspektor oder Regierungsrat. Beamte, die durch eine
+Qualifizierungsmaßnahme die Voraussetzungen für die Verleihung des
+Amtes eines Oberinspektors erfüllen oder denen auf Grund einer
+Qualifizierungsmaßnahme ein Amt verliehen worden ist, das vor
+Verleihung des Amtes eines Oberinspektors durchlaufen werden muss,
+sind dem gehobenen Dienst, Beamte, die durch eine
+Qualifizierungsmaßnahme die Voraussetzungen für die Verleihung des
+Amtes eines Oberregierungsrates erfüllen, sind dem höheren Dienst
+zuzuordnen.
+
+
 ### § 165 Ermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
@@ -5023,10 +5365,12 @@ Kraft.
 (2) § 166 Abs. 2 tritt am Tage nach der Verkündung des Gesetzes in
 Kraft.
 
+(zu § 146 Satz 1)
 
-### Anlage (zu § 146 Satz 1) Gebührenverzeichnis
+### Anlage Gebührenverzeichnis
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 3434 u. 3435)
+(Fundstelle: BGBl. I 2006, 3434 u. 3435; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   **Gliederung**
 
@@ -5146,9 +5490,20 @@ Kraft.
 
     *   Verfahren mit Urteil bei Verhängung einer oder mehrerer der folgenden
         Maßnahmen:
-        1\. einer Warnung,
-        2\. eines Verweises,
-        3\. einer Geldbuße
+
+        1.  einer Warnung,
+
+
+        2.  eines Verweises,
+
+
+        3.  einer Geldbuße,
+
+
+        4.  eines befristeten Berufsverbots
+
+
+
 
     *   240,00 EUR
 

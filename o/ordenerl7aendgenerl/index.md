@@ -3,7 +3,7 @@ Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stift
   Einsatzmedaille der Bundeswehr
 jurabk: OrdenErl7ÄndGenErl
 layout: default
-origslug: ordenerl7_ndgenerl
+origslug: ordenerl7aendgenerl
 slug: ordenerl7aendgenerl
 
 ---

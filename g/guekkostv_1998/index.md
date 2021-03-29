@@ -2,7 +2,7 @@
 Title: Kostenverordnung für den Güterkraftverkehr
 jurabk: GüKKostV 1998
 layout: default
-origslug: g_kkostv_1998
+origslug: guekkostv_1998
 slug: guekkostv_1998
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3982
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.6.2012 I 1454
+:   Art. 3a V v. 8.10.2013 I 3772
 
 
 ## Eingangsformel
@@ -61,8 +61,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 1)
 
-## Anlage (zu § 1 Abs. 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2004, 2709 - 2710;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -97,8 +98,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.3
 
-    *   Berichtigung/Ersatzausstellung der Erlaubnis/Gemeinschaftslizenz oder
-        einer Ausfertigung/beglaubigten Kopie
+    *   Berichtigung/Ersatzausstellung/Änderung der
+        Erlaubnis/Gemeinschaftslizenz oder einer Ausfertigung/beglaubigten
+        Kopie
 
     *   40 - 100
 
@@ -129,8 +131,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.7
 
-    *   Berichtigung/Ersatzausstellung der Fahrerbescheinigung oder der
-        beglaubigten Kopie
+    *   Berichtigung/Ersatzausstellung/Änderung der Fahrerbescheinigung oder
+        der beglaubigten Kopie
 
     *   30 - 60
 
@@ -189,7 +191,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.2
 
-    *   Berichtigung/Ersatzausstellung einer CEMT-Jahresgenehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer CEMT-Jahresgenehmigung
         einschließlich Fahrtenberichtheft
 
     *   30 - 60
@@ -218,7 +220,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.2
 
-    *   Berichtigung/Ersatzausstellung einer CEMT-Umzugsgenehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer CEMT-Umzugsgenehmigung
 
     *   20 - 30
 
@@ -278,7 +280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4.4
 
-    *   Berichtigung/Ersatzausstellung einer befristeten Genehmigung
+    *   Berichtigung/Ersatzausstellung/Änderung einer befristeten Genehmigung
 
     *   10 - 20
 
@@ -299,28 +301,27 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **7**
 
-    *   **Ablehnung eines Antrags**                        auf Vornahme einer
-        Amtshandlung nach den Nummern 1 bis 6 aus anderen Gründen als wegen
-        Unzuständigkeit der Behörde sowie **Rücknahme eines Antrags**
-        auf Vornahme einer Amtshandlung nach den Nummern 1 bis 6 nach Beginn
-        der sachlichen Bearbeitung, jedoch vor deren Beendigung
+    *   **Ablehnung eines Antrags** auf Vornahme einer Amtshandlung nach den
+        Nummern 1 bis 6 aus anderen Gründen als wegen Unzuständigkeit der
+        Behörde sowie **Rücknahme eines Antrags** auf Vornahme einer
+        Amtshandlung nach den Nummern 1 bis 6 nach Beginn der sachlichen
+        Bearbeitung, jedoch vor deren Beendigung
 
     *   bis zu 75% der Gebühr für die Vornahme der Amtshandlung
 
 
 *    *   **8**
 
-    *   **Widerruf**                        oder **Rücknahme einer
-        Amtshandlung**                        nach den Nummern 1 bis 6, soweit
-        der Betroffene dazu Anlass gegeben hat
+    *   **Widerruf** oder **Rücknahme einer Amtshandlung** nach den Nummern 1
+        bis 6, soweit der Betroffene dazu Anlass gegeben hat
 
     *   bis zur Höhe der für die Amtshandlung vorgesehenen Gebühr
 
 
 *    *   **9**
 
-    *   Teilweise oder vollständige **Zurückweisung eines Widerspruchs**
-        , soweit der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die
+    *   Teilweise oder vollständige **Zurückweisung eines Widerspruchs**,
+        soweit der Widerspruch nicht nur deshalb keinen Erfolg hat, weil die
         Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des
         Verwaltungsverfahrensgesetzes unbeachtlich ist
 
@@ -329,16 +330,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **10**
 
-    *   **Rücknahme eines Widerspruchs**                        nach Beginn
-        der sachlichen Bearbeitung, jedoch vor deren Beendigung
+    *   **Rücknahme eines Widerspruchs** nach Beginn der sachlichen
+        Bearbeitung, jedoch vor deren Beendigung
 
     *   bis zu 75% der Gebühr nach Nummer 9
 
 
 *    *   **11**
 
-    *   **Erfolgloser Widerspruch**                       , der sich
-        ausschließlich gegen eine Kostenentscheidung richtet
+    *   **Erfolgloser Widerspruch**, der sich ausschließlich gegen eine
+        Kostenentscheidung richtet
 
     *   bis zu 30% des streitigen Betrages
 

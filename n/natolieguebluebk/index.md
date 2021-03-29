@@ -5,7 +5,7 @@ Title: Übereinkommen über die Überlassung von Liegenschaften an international
   von Amerika
 jurabk: NATOLiegÜblÜbk
 layout: default
-origslug: natolieg_bl_bk
+origslug: natolieguebluebk
 slug: natolieguebluebk
 
 ---

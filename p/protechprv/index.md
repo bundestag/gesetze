@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1052
 
+Geändert durch
+:   Art. 10 V v. 30.11.2017 I 3827
+
 
 ## Eingangsformel
 
@@ -136,7 +139,7 @@ zu den Aufgaben eines Geprüften Prozessmanagers –
 Produktionstechnologie/einer Geprüften Prozessmanagerin –
 Produktionstechnologie im Sinne des § 1 Abs. 2 und 3 haben und eine
 Qualifikation eines der Spezialisten in der Produktionstechnologie
-nach der Anlage 1 oder eine fachlich und nach Breite und Tiefe
+nach der Anlage oder eine fachlich und nach Breite und Tiefe
 entsprechende Qualifikation beinhalten.
 
 (3) Abweichend von den in den Absätzen 1 und 2 genannten
@@ -196,8 +199,8 @@ Befähigungen nachgewiesen werden:
 7.  Leiten der Umsetzung von Projekten, Organisieren effizienter
     Arbeitsabläufe, Koordinieren des Einsatzes von Mitarbeitern, Einsetzen
     von Controlling-
-    Instrumenten,                    insbesondere zur Überwachung von
-    Budgets, Terminen und Qualitätszielen,
+    Instrumenten, insbesondere zur Überwachung von Budgets, Terminen und
+    Qualitätszielen,
 
 
 8.  Dokumentieren von Lösungen, Abläufen, technischen Prüfungen,
@@ -469,19 +472,73 @@ Situationsaufgabe und das situationsbezogene Fachgespräch im
 Prüfungsteil „Mitarbeiterführung und Personalmanagement“ sind
 gesondert zu bewerten.
 
-(2) Aus den Situationsaufgaben in dem Prüfungsteil „Prozessmanagement“
-sowie aus der Situationsaufgabe und dem situativen Fachgespräch in dem
-Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist jeweils
-eine Gesamtnote aus dem arithmetischen Mittel der Punktebewertungen
-der einzelnen Prüfungsleistungen zu bilden.
+(2) Im Prüfungsteil „Prozessmanagement“ ist das arithmetische Mittel
+aus den Punktebewertungen der Situationsaufgaben zu bilden. Im
+Prüfungsteil „Mitarbeiterführung und Personalmanagement“ ist das
+arithmetische Mittel aus den Punktebewertungen der Situationsaufgabe
+und des situativen Fachgesprächs zu bilden.
 
 (3) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen nach
 Absatz 1 mindestens ausreichende Leistungen erbracht wurden.
 
-(4) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 2
-und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
-Freistellung nach § 8 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(4) Die Gesamtnote ergibt sich aus dem arithmetischen Mittel aus
+
+1.  der Bewertung des Prüfungsteils „Produktionsprozesse“,
+
+
+2.  dem nach Absatz 2 Satz 1 errechneten arithmetischen Mittel im
+    Prüfungsteil „Prozessmanagement“ und
+
+
+3.  dem nach Absatz 2 Satz 2 errechneten arithmetischen Mittel im
+    Prüfungsteil „Mitarbeiterführung und Personalmanagement“.
+
+
+
+
+(5) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 4 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung, die Punktebewertung und die Note des Prüfungsteils
+    „Produktionsprozesse“ sowie die Angabe, dass dieser Prüfungsteil
+    Dokumentation, Präsentation und Fachgespräch beinhaltet,
+
+
+2.  die Benennung, das nach Absatz 2 Satz 1 errechnete arithmetische
+    Mittel und die Note des Prüfungsteils „Prozessmanagement“ sowie die
+    Benennung und die jeweilige Punktebewertung der beiden
+    Situationsaufgaben dieses Prüfungsteils,
+
+
+3.  die Benennung, das nach Absatz 2 Satz 2 errechnete arithmetische
+    Mittel und die Note des Prüfungsteils „Mitarbeiterführung und
+    Personalmanagement“ sowie die Benennung und die jeweilige
+    Punktebewertung der Situationsaufgabe und des situationsbezogenen
+    Fachgesprächs,
+
+
+4.  die Gesamtnote nach Absatz 4 und
+
+
+5.  gegebenenfalls die Freistellungen nach § 8.
+
+
+
+Jede Freistellung nach Satz 3 Nummer 5 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 8 Anrechnung anderer Prüfungsleistungen
@@ -517,10 +574,13 @@ gilt das Ergebnis der letzten Prüfung.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 2 Abs. 2)
 
-## Anlage 1 (zu § 2 Abs. 2) Spezialistenprofile in der Produktionstechnologie
+## Anlage Spezialistenprofile in der Produktionstechnologie
 
-( Fundstelle: BGBl. I 2008, 1056 - 1057 )
+(Fundstelle: BGBl. I 2008, 1056 - 1057; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
 Die Spezialistenprofile beschreiben die inhaltlichen Standards, die
 für eine Zulassung zur Prüfung zum Geprüften Prozessmanager –
 Produktionstechnologie/zur Geprüften Prozessmanagerin –
@@ -731,440 +791,4 @@ zu geben und darüber ein Fachgespräch zu führen.
 
 
 
-
-
-## Anlage 2 (zu § 7 Abs. 4) Muster
-
-( Fundstelle: BGBl. I 2008, 1058 )
-
-*    *   ......................................................................
-        ......... ............................................................
-        ................... ..................................................
-        ............................. .................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   ## Zeugnis
-
-        über die Prüfung zum anerkannten Abschluss
-        Geprüfter Prozessmanager – Produktionstechnologie/
-        ## Geprüfte Prozessmanagerin – Produktionstechnologie
-
-
-
-*    *
-
-*    *
-
-*    *   Herr/Frau
-        ..................................................................... 
-        ......................................................................
-        .......
-
-
-*    *   geboren am
-        ..................................................................
-
-    *   in ...................................................................
-        .......
-
-
-*    *   hat am ...............................................................
-        .........
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   Geprüfter Prozessmanager – Produktionstechnologie/
-        ## Geprüfte Prozessmanagerin – Produktionstechnologie
-
-
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   nach der Verordnung über die Prüfung zum anerkannten Abschluss
-        Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte
-        Prozessmanagerin – Produktionstechnologie vom 17. Juni 2008 (BGBl. I
-        S. 1052)
-
-
-*    *   bestanden.
-
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   Datum ................................................................
-        .......
-
-    *
-
-*    *   Unterschrift(en)
-        ............................................................
-
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *
-    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-    *
-
-
-
-## Anlage 3 (zu § 7 Abs. 4) Muster
-
-   ( Fundstelle: BGBl. I 2008, 1059 )
-
-*    *   ......................................................................
-        ........ .............................................................
-        .................. .............................................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   ## Zeugnis
-
-        über die Prüfung zum anerkannten Abschluss
-        Geprüfter Prozessmanager – Produktionstechnologie/
-        ## Geprüfte Prozessmanagerin – Produktionstechnologie
-
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   Herr/Frau
-        ..................................................................... 
-        ......................................................................
-        ......... ............
-
-
-*    *   geboren am
-        ..............................................................
-
-    *   in ...............................................................
-
-
-*    *   hat am
-        .................................................................
-
-    *   die Prüfung zum anerkannten Abschluss
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   Geprüfter Prozessmanager – Produktionstechnologie/
-        ## Geprüfte Prozessmanagerin – Produktionstechnologie
-
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   nach der Verordnung über die Prüfung zum anerkannten Abschluss
-        Geprüfter Prozessmanager – Produktionstechnologie/Geprüfte
-        Prozessmanagerin – Produktionstechnologie vom 17. Juni 2008 (BGBl. I
-        S. 1052) mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *[^f771167_01_BJNR105200008BJNE001500000]
-   Punkte
-
-    *
-    *   Note
-
-
-*    *   I.
-
-    *   Produktionsprozesse
-        Dokumentation, Präsentation und Fachgespräch
-
-    *
-    *   ...........
-
-    *
-    *   ...........
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   II.
-
-    *   Produktionsmanagement
-
-    *
-    *   ...........
-
-    *
-    *   ...........
-
-
-*    *
-    *   Situationsaufgabe 1
-
-    *
-    *   ...........
-
-    *
-    *
-
-*    *
-    *   Situationsaufgabe 2
-
-    *
-    *   ...........
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   III.
-
-    *   Mitarbeiterführung und Personalmanagement
-
-    *
-    *   ...........
-
-    *
-    *   ...........
-
-
-*    *
-    *   Situationsaufgabe
-
-    *
-    *   ...........
-
-    *
-    *
-
-*    *
-    *   Situationsbezogenes Fachgespräch
-
-    *
-    *   ...........
-
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   (Im Fall des § 8: „Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-        wurde nach § 8 im Hinblick auf die am ......................
-        in ......................
-        vor ......................
-        abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
-        ......................
-        freigestellt.“)
-
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   Datum ................................................................
-        ......... .....
-
-    *
-    *
-    *
-    *
-
-*    *   Unterschrift(en)
-        .............................................................. ...
-
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-    *
-    *
-    *
-    *
-
-
-[^f771167_01_BJNR105200008BJNE001500000]:    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:.............
-    ......................................................... ......
 

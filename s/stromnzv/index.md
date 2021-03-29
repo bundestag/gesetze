@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2243
 
 Zuletzt geändert durch
-:   Art. 3 V v. 30.4.2012 I 1002
+:   Art. 1 V v. 19.12.2017 I 3988
 
 
 ## Eingangsformel
@@ -113,6 +113,12 @@ Im Sinne dieser Verordnung bedeutet
     gleichzeitiger, integraler Stützung der Frequenz;
 
 
+10a. Stromgebotszone
+
+    das größte geografische Gebiet, in dem Marktteilnehmer ohne
+    Kapazitätsvergabe Energie austauschen können;
+
+
 11. Unterbilanzkreis
 
     ein Bilanzkreis, der nicht für den Ausgleich der Abweichungen
@@ -125,7 +131,12 @@ Im Sinne dieser Verordnung bedeutet
     Energie;
 
 
-13. Zählpunkt
+13. Zählerstandsgang
+
+    eine Reihe viertelstündlich ermittelter Zählerstände;
+
+
+14. Zählpunkt
 
     der Netzpunkt, an dem der Energiefluss zähltechnisch erfasst wird.
 
@@ -147,6 +158,22 @@ unberührt.
 (2) Die Netznutzung durch die Letztverbraucher und Lieferanten setzt
 voraus, dass der Bilanzkreis in ein nach § 26 vertraglich begründetes
 Bilanzkreissystem einbezogen ist.
+
+
+### § 3a Gewährleistung des Netzzugangs in der einheitlichen Stromgebotszone
+
+Die Betreiber von Übertragungsnetzen sind verpflichtet,
+Handelstransaktionen innerhalb des Gebiets der Bundesrepublik
+Deutschland ohne Kapazitätsvergabe in der Weise zu ermöglichen, dass
+das Gebiet der Bundesrepublik Deutschland eine einheitliche
+Stromgebotszone bildet. Sie dürfen insbesondere nicht einseitig eine
+Kapazitätsvergabe einführen, die zu einer einseitigen Aufteilung der
+einheitlichen deutschen Stromgebotszone führen würde. Sobald für einen
+Betreiber von Übertragungsnetzen erkennbar wird, dass die Erfüllung
+der Pflicht nach Satz 1 und die Einhaltung des Verbots nach Satz 2
+unmöglich zu werden droht, hat er dies der Bundesnetzagentur
+unverzüglich in Textform anzuzeigen. § 20 Absatz 2 des
+Energiewirtschaftsgesetzes bleibt unberührt.
 
 
 ## Teil 2 - Zugang zu Übertragungsnetzen
@@ -308,28 +335,39 @@ werden können.
 
 #### § 8 Abrechnung von Regelenergie
 
-(1) Betreiber von Übertragungsnetzen haben die Kosten für
+(1) Betreiber von Übertragungsnetzen müssen die Kosten für
 Primärregelleistung und -arbeit, für die Vorhaltung von
 Sekundärregelleistung und Minutenreserveleistung sowie weiterer
 beschaffter und eingesetzter Regelenergieprodukte als eigenständige
 Systemdienstleistungen den Nutzern der Übertragungsnetze in Rechnung
-zu stellen. Für jedes Angebot, das zum Zuge kommt, bemisst sich die zu
-zahlende Vergütung nach dem im jeweiligen Angebot geforderten Preis.
+stellen, soweit nicht die Regulierungsbehörde durch Festlegung nach §
+27 Absatz 1 Nummer 21a die Kosten für denjenigen Teil der Vorhaltung
+von Regelenergie aus Sekundärregelleistung und Minutenreserveleistung,
+der durch das Verhalten der Bilanzkreisverantwortlichen in ihrer
+Gesamtheit verursacht wird, zur Abrechnung über die Ausgleichsenergie
+bestimmt. Bei der Ermittlung der Kosten kann eine pauschalisierende
+Betrachtung zu Grunde gelegt werden. Für jedes Angebot, das zum Zuge
+kommt, bemisst sich die zu zahlende Vergütung nach dem im jeweiligen
+Angebot geforderten Preis, soweit nicht die Regulierungsbehörde durch
+Festlegung nach § 27 Absatz 1 Nummer 3b das Verfahren zur Vergütung
+der Regelenergie durch ein Einheitspreisverfahren regelt.
 
 (2) Die einzelnen Betreiber von Übertragungsnetzen sind verpflichtet,
 innerhalb ihrer jeweiligen Regelzone auf 15-Minutenbasis die Mehr- und
 Mindereinspeisungen aller Bilanzkreise zu saldieren. Sie haben die
-Kosten der Beschaffung von positiver Sekundärregelarbeit und positiver
-Minutenreservearbeit als Ausgleichsenergie den
+Kosten und Erlöse für den Abruf von Sekundärregelarbeit und
+Minutenreservearbeit sowie im Fall einer nach § 27 Absatz 1 Nummer 21a
+getroffenen Festlegung auch die Kosten für die Vorhaltung von
+Regelenergie aus Sekundärregelleistung und Minutenreserveleistung im
+festgelegten Umfang als Ausgleichsenergie den
 Bilanzkreisverantwortlichen auf Grundlage einer viertelstündlichen
-Abrechnung in Rechnung zu stellen. Sofern negative Sekundärregelarbeit
-und negative Minutenreservearbeit beschafft wird, erfolgt die
-Abrechnung der Ausgleichsenergie auf Grundlage der erzielten Preise.
-Die Preise, die je Viertelstunde ermittelt werden, müssen für
-Bilanzkreisüberspeisungen und Bilanzkreisunterspeisungen identisch
-sein. Die Abrechnung des Betreibers von Übertragungsnetzen gegenüber
-den Bilanzkreisverantwortlichen hat spätestens zwei Monate nach dem
-jeweiligen Abrechnungsmonat zu erfolgen. Diese Frist kann auf Antrag
+Abrechnung in Rechnung zu stellen. Die Preise, die je Viertelstunde
+ermittelt werden, müssen für Bilanzkreisüberspeisungen und
+Bilanzkreisunterspeisungen identisch sein. Die Abrechnung des
+Betreibers von Übertragungsnetzen gegenüber den
+Bilanzkreisverantwortlichen soll den gesamten Abrechnungszeitraum
+vollständig umfassen. Die Abrechnung hat spätestens zwei Monate nach
+dem jeweiligen Abrechnungsmonat zu erfolgen. Die Frist kann auf Antrag
 des Betreibers von Übertragungsnetzen von der Regulierungsbehörde
 verlängert werden.
 
@@ -374,29 +412,26 @@ Ausgleich von Verlustenergie umfasst. Von der Verpflichtung nach Satz
 
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
 einen Bilanzkreis zu führen, der ausschließlich Energien, die nach dem
-Erneuerbare-Energien-Gesetz vergütet und nicht nach § 33a des
-Erneuerbare-Energien-Gesetzes direkt vermarktet werden, von
-Einspeisern im Netzgebiet zur Durchleitung an den Bilanzkreis für
-Energien nach dem Erneuerbare-Energien-Gesetz der Betreiber von
-Übertragungsnetzen aufweist. Von der Verpflichtung nach Satz 1 sind
-Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100 000
-Kunden unmittelbar oder mittelbar angeschlossen sind.
+Erneuerbare-Energien-Gesetz mit einer Einspeisevergütung vergütet
+werden, von Einspeisern im Netzgebiet zur Durchleitung an den
+Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz der
+Betreiber von Übertragungsnetzen aufweist. Von der Verpflichtung nach
+Satz 1 sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger
+als 100 000 Kunden unmittelbar oder mittelbar angeschlossen sind.
 
 
 ## Teil 3 - Zugang zu Elektrizitätsverteilernetzen
 
 
 
-### § 12 Standardisierte Lastprofile
+### § 12 Standardisierte Lastprofile; Zählerstandsgangmessung
 
 (1) Die Betreiber von Elektrizitätsverteilernetzen haben im
 Niederspannungsnetz für die Abwicklung der Stromlieferung an
 Letztverbraucher mit einer jährlichen Entnahme von bis zu 100 000
 Kilowattstunden vereinfachte Methoden (standardisierte Lastprofile)
-anzuwenden, die eine registrierende Lastgangmessung nicht erfordern.
-Die Betreiber von Elektrizitätsverteilernetzen können in begründeten
-Fällen Lastprofile auch für Verbrauchsgruppen mit einer jährlichen
-Entnahme festlegen, die über den in Satz 1 genannten Wert hinausgeht.
+anzuwenden, soweit nicht nach Maßgabe des Messstellenbetriebsgesetzes
+eine Übermittlung von Last- oder Zählerstandsgängen erfolgt.
 
 (2) Standardisierte Lastprofile müssen sich am typischen Abnahmeprofil
 jeweils folgender Gruppen von Letztverbrauchern orientieren:
@@ -420,26 +455,32 @@ jeweils folgender Gruppen von Letztverbrauchern orientieren:
 
 
 
-Die Grenzen für die Anwendung von standardisierten Lastprofilen sind
-auf alle Letztverbraucher einer Lastprofilgruppe gleichermaßen
-anzuwenden. Der Netznutzer ist berechtigt, soweit nicht durch eine
-Bestimmung nach § 10 Abs. 3 Satz 1 der Messzugangsverordnung vom 17.
-Oktober 2008 (BGBl. I S. 2006) etwas anderes verlangt wird, mit dem
+Die Verbrauchsgrenzen für die Anwendung von standardisierten
+Lastprofilen sind auf alle Letztverbraucher einer Lastprofilgruppe
+gleichermaßen anzuwenden. Der Netznutzer ist berechtigt, mit dem
 Betreiber von Elektrizitätsverteilernetzen im Einzelfall eine
-niedrigere Grenze zu vereinbaren.
+niedrigere Grenze zu vereinbaren, soweit dem nicht eine Bestimmung des
+Messstellenbetriebsgesetzes entgegensteht.
 
-(3) Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
+(3) Die Betreiber von Elektrizitätsverteilernetzen sind verpflichtet,
 einen Differenzbilanzkreis zu führen, der ausschließlich die
-Abweichungen der Gesamtheit der Letztverbraucher mit einer jährlichen
-Entnahme von bis zu 100 000 Kilowattstunden oder einer individuell
-festgelegten anderen Grenze nach den Absätzen 1 und 2 von dem
-prognostizierten Verbrauch dieser Letztverbraucher erfasst. In dem
+Abweichungen der Gesamtheit der Letztverbraucher erfasst, die mit
+standardisierten Lastprofilen bilanziert werden. In dem
 Differenzbilanzkreis dürfen keine Letztverbraucher bilanziert werden.
 Die Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
 die Ergebnisse der Differenzbilanzierung jährlich auf ihrer
 Internetseite zu veröffentlichen. Von der Verpflichtung nach Satz 1
-sind Netzbetreiber ausgenommen, an deren Verteilernetz weniger als 100
-000 Kunden unmittelbar oder mittelbar angeschlossen sind.
+sind Betreiber von Elektrizitätsverteilernetzen ausgenommen, an deren
+Verteilernetz weniger als 100 000 Kunden unmittelbar oder mittelbar
+angeschlossen sind.
+
+(4) Soweit es für die Umsetzung eines variablen Tarifs im Sinne von §
+40 Absatz 5 Satz 1 des Energiewirtschaftsgesetzes erforderlich ist,
+haben Netzbetreiber Netznutzern eine Bilanzierung und Abrechnung auf
+Basis von Zählerstandsgängen für diejenigen Einspeise- und
+Entnahmestellen zu ermöglichen, deren Einspeise- und Entnahmeverhalten
+mit intelligenten Messsystemen im Sinne des
+Messstellenbetriebsgesetzes ermittelt wird.
 
 
 ### § 13 Jahresmehr- und Jahresmindermengen
@@ -458,11 +499,10 @@ Elektrizitätsverteilernetzen gemeinsam auch unterjährig angepasst
 werden.
 
 (2) Jahresmehr- und Jahresmindermengen zwischen der bei
-Entnahmestellen ohne registrierende Viertelstunden-Lastgangzählung
-(Standard-Lastprofilkunde) gemessenen oder auf sonstige Weise
-ermittelten elektrischen Arbeit und der sich aus den prognostizierten
-Lastprofilen ergebenden elektrischen Arbeit gelten als vom
-Netzbetreiber geliefert oder abgenommen.
+Entnahmestellen mit Standard-Lastprofilen gemessenen oder auf sonstige
+Weise ermittelten elektrischen Arbeit und der sich aus den
+prognostizierten Lastprofilen ergebenden elektrischen Arbeit sind als
+vom Netzbetreiber geliefert oder abgenommen zu behandeln.
 
 (3) Unterschreitet die Summe der in einem Zeitraum ermittelten
 elektrischen Arbeit die Summe der Arbeit, die den bilanzierten
@@ -682,90 +722,33 @@ zumindest im Internet, zu veröffentlichen:
 
 ### § 18 Messung
 
-(1) Die Messung erfolgt nach § 10 der Messzugangsverordnung. Handelt
-es sich nicht um Kunden im Sinne des § 12, erfolgt die Messung durch
-eine viertelstündige registrierende Leistungsmessung. Bei öffentlichen
-Verbrauchseinrichtungen kann die abgenommene Elektrizität auch
-rechnerisch ermittelt oder geschätzt werden, wenn die Kosten der
-Messung außer Verhältnis zur Höhe des Verbrauchs stehen.
-
-(2) Sofern der Netzbetreiber der Messstellenbetreiber ist, stehen die
-Messeinrichtungen in seinem Eigentum.
+Die Messung erfolgt nach den Bestimmungen des
+Messstellenbetriebsgesetzes vom 29. August 2016 (BGBl. I S. 2034) in
+der jeweils geltenden Fassung.
 
 
-### § 18a Messung der von Haushaltskunden entnommenen Elektrizität
-
-(1) Bei der Messung der von grundversorgten Haushaltskunden
-entnommenen Elektrizität werden die Messeinrichtungen nach den
-Vorgaben des Grundversorgers möglichst in gleichen Zeitabständen, die
-zwölf Monate nicht wesentlich überschreiten dürfen, abgelesen.
-
-(2) Im Falle eines Lieferantenwechsels nach § 14 ist für die
-Ermittlung des Verbrauchswertes im Zeitpunkt des Lieferantenwechsels
-ein einheitliches Verfahren zugrunde zu legen. Die Abrechnung kann auf
-Grundlage einer Messung nach § 18 Abs. 1 oder, sofern kein
-Ableseergebnis vorliegt, durch Schätzung des Netzbetreibers erfolgen.
-Im Falle einer Schätzung ist der Verbrauch zeitanteilig zu berechnen;
-jahreszeitliche Verbrauchsschwankungen sind auf der Grundlage der für
-Haushaltskunden maßgeblichen Erfahrungswerte angemessen zu
-berücksichtigen.
+### § 18a (weggefallen)
 
 
-### § 18b Messung auf Vorgabe des Netznutzers
 
-Liegt eine Vereinbarung nach § 40 Absatz 3 Satz 2 des
-Energiewirtschaftsgesetzes vor, sind die hieraus folgenden Vorgaben
-des Netznutzers zu den Zeitabständen der Messung zu beachten.
+### § 18b (weggefallen)
 
 
-### § 19 Betrieb von Mess- und Steuereinrichtungen
 
-(1) Für den Betrieb der Mess- und Steuereinrichtungen gelten § 8 Abs.
-1 und § 9 Abs. 3 der Messzugangsverordnung.
-
-(2) Der Kunde haftet für das Abhandenkommen und die Beschädigung von
-Mess- und Steuereinrichtungen, soweit ihn daran ein Verschulden
-trifft. Er hat den Verlust, Beschädigungen und Störungen dieser
-Einrichtungen dem Messstellenbetreiber unverzüglich mitzuteilen.
+### § 19 (weggefallen)
 
 
-### § 20 Nachprüfung von Messeinrichtungen
 
-(1) Der Netznutzer kann jederzeit die Nachprüfung der
-Messeinrichtungen durch eine Eichbehörde oder eine staatlich
-anerkannte Prüfstelle im Sinne des § 2 Abs. 4 des Eichgesetzes
-verlangen. Stellt der Netznutzer den Antrag auf Nachprüfung nicht bei
-dem Messstellenbetreiber, so hat er diesen zugleich mit der
-Antragstellung zu benachrichtigen.
-
-(2) Die Kosten der Nachprüfung fallen dem Messstellenbetreiber zur
-Last, falls die Nachprüfung ergibt, dass die Messeinrichtung nicht
-verwendet werden darf, sonst dem Netznutzer.
+### § 20 (weggefallen)
 
 
-### § 21 Vorgehen bei Messfehlern
 
-Ergibt eine Prüfung der Messeinrichtungen eine Überschreitung der
-eichrechtlichen Verkehrsfehlergrenzen und ist die Größe des Fehlers
-nicht einwandfrei festzustellen oder zeigt eine Messeinrichtung nicht
-an, so ermittelt der Netzbetreiber die Daten für die Zeit seit der
-letzten fehlerfreien Ablesung aus dem Durchschnittsverbrauch des ihr
-vorhergehenden und des der Beseitigung des Fehlers nachfolgenden
-Ablesezeitraumes oder auf Grund des Vorjahreswertes durch Schätzung,
-soweit aus Parallelmessungen vorhandene Messwerte keine ausreichende
-Verlässlichkeit bieten.
+### § 21 (weggefallen)
 
 
-### § 22 Datenaustausch
 
-Der Datenaustausch zur Anbahnung und zur Abwicklung der Netznutzung
-zwischen Betreibern von Elektrizitätsversorgungsnetzen,
-Messstellenbetreibern, Messdienstleistern und Netznutzern erfolgt
-elektronisch. Der Datentransfer hat unverzüglich in dem von der
-Regulierungsbehörde vorgegebenen, bundesweit einheitlichen Format zu
-erfolgen. Die Betreiber von Elektrizitätsversorgungsnetzen stellen
-sicher, dass der Datenaustausch in einheitlichen Prozessen erfolgt,
-die eine größtmögliche Automatisierung ermöglichen.
+### § 22 (weggefallen)
+
 
 
 ## Teil 5 - Vertragsbeziehungen
@@ -807,7 +790,7 @@ zu folgenden Gegenständen enthalten:
 2.  Voraussetzungen der Netznutzung;
 
 
-3.  Leistungsmessung und Lastprofilverfahren;
+3.  Leistungsmessung, Zählerstandsgangmessung und Lastprofilverfahren;
 
 
 4.  Zuordnung von Einspeise- oder Entnahmestellen zu Bilanzkreisen;
@@ -921,11 +904,31 @@ zu folgenden Gegenständen enthalten:
 
 
 
-(3) In den Bilanzkreisverträgen ist sicherzustellen, dass die
-Bilanzkreisverantwortlichen gegen angemessenes Entgelt ihren
-Bilanzkreis für Fahrplangeschäfte öffnen, die der Bereitstellung von
-Minutenreserve dienen, die ein Bereitsteller des eigenen Bilanzkreises
-über einen anderen Bilanzkreis abwickeln will.
+(3) (weggefallen)
+
+
+### § 26a Erbringung von Regelleistung durch Letztverbraucher
+
+(1) Lieferanten, Bilanzkreisverantwortliche und Betreiber von
+Übertragungsnetzen stellen sicher, dass einem Letztverbraucher mit
+Zählerstandsgangmessung oder viertelstündiger registrierender
+Lastgangmessung auf sein Verlangen hin die Erbringung von
+Minutenreserve oder Sekundärregelung über einen anderen Bilanzkreis
+gegen angemessenes Entgelt ermöglicht wird. Hierzu sind Regelungen
+über den Austausch der erforderlichen Informationen zwischen den
+Beteiligten sowie die Bilanzierung der Energiemengen zu treffen. Der
+Lieferant kann die Erbringung von Minutenreserve und Sekundärregelung
+über einen anderen Bilanzkreis nach Satz 1 mit ausdrücklicher
+Zustimmung des Letztverbrauchers vertraglich ausschließen.
+
+(2) Das Entgelt nach Absatz 1 ist angemessen, wenn es den Lieferanten
+und den Bilanzkreisverantwortlichen, dessen Bilanzkreis der
+Letztverbraucher zugeordnet ist, wirtschaftlich so stellt, wie sie
+ohne die Erbringung von Regelleistung durch den Letztverbraucher
+stünden.
+
+(3) Die Anforderungen nach Absatz 1 gelten bei Neuverträgen ab dem 30.
+Juli 2016, im Übrigen ab dem 1. Januar 2018.
 
 
 ## Teil 6 - Befugnisse der Regulierungsbehörde
@@ -958,14 +961,21 @@ Energiewirtschaftsgesetzes treffen
 3a. zur Bildung einer einheitlichen Regelzone;
 
 
+3b. zum Verfahren der Vergütung für Angebote von Regelenergieprodukten
+    nach § 8 Absatz 1 Satz 3; dabei kann sie insbesondere festlegen, dass
+    Regelarbeitspreise und Regelleistungspreise in einem
+    Einheitspreisverfahren bestimmt werden;
+
+
 4.  zu Kriterien für missbräuchliche Über- oder Unterspeisung von
     Bilanzkreisen und deren Abrechnung;
 
 
-5.  zum Bilanzkreis für Energien nach dem Erneuerbare-Energien-Gesetz und
-    zu den bilanziellen Maßnahmen, die erforderlich sind, um
-    sicherzustellen, dass Energien nach dem Erneuerbare-Energien-Gesetz
-    separiert werden von sonstigen Energiearten;
+5.  zum Bilanzkreis und zu den erforderlichen Verfahren zur Messung und
+    Bilanzierung für Energien nach dem Erneuerbare-Energien-Gesetz und zu
+    den bilanziellen Maßnahmen, die erforderlich sind, um sicherzustellen,
+    dass Energien nach dem Erneuerbare-Energien-Gesetz separiert werden
+    von sonstigen Energiearten;
 
 
 6.  zum Ausschreibungsverfahren für Verlustenergie nach § 10 und zum
@@ -989,20 +999,16 @@ Energiewirtschaftsgesetzes treffen
     Veröffentlichung nach § 15 Abs. 4;
 
 
-11. zu bundeseinheitlichen Regelungen zum Datenaustausch zwischen den
-    betroffenen Marktteilnehmern, insbesondere hinsichtlich Fristen,
-    Formaten sowie Prozessen, die eine größtmögliche Automatisierung
-    ermöglichen;
+11. (weggefallen)
 
 
-12. über die Veröffentlichung weiterer Daten;
+12. (weggefallen)
 
 
-13. zu den Anforderungen an den Betrieb von Mess- und Steuereinrichtungen
-    nach § 19 Abs. 1;
+13. (weggefallen)
 
 
-14. zum Vorgehen bei Messfehlern nach § 21;
+14. (weggefallen)
 
 
 15. zu den Inhalten der Verträge nach den §§ 24 bis 26, sofern nicht ein
@@ -1035,7 +1041,78 @@ Energiewirtschaftsgesetzes treffen
     Absatz 2; dabei kann sie insbesondere von den Grundsätzen der
     Kostenverrechnung, von der Symmetrie der Ausgleichsenergiepreise für
     Bilanzkreisunterspeisung und Bilanzkreisüberspeisung sowie von den
-    Fristen für die Bilanzkreisabrechnung abweichen.
+    Fristen für die Bilanzkreisabrechnung abweichen;
+
+
+21a. zu den Kriterien, nach denen die Ausgleichsenergie nach § 8 Absatz 1
+    und 2 durch die Betreiber der Übertragungsnetze abzurechnen ist; dabei
+    kann sie insbesondere festlegen, wie derjenige Teil der Vorhaltung von
+    Regelenergie aus Sekundärregelleistung und Minutenreserveleistung, der
+    dem Verhalten der Bilanzkreisverantwortlichen in ihrer Gesamtheit
+    zuzurechnen ist, von den Betreibern der Übertragungsnetze zu bestimmen
+    und im Rahmen der Bilanzkreisabrechnung abzurechnen ist;
+
+
+22. zu Verfahren und zur Handhabung und Abwicklung der Bilanzierung,
+    Messung und Abrechnung auf Basis von Zählerstandsgängen,
+
+
+23. zu den Regelungen bei der Erbringung von Regelleistung durch einen
+    Letztverbraucher nach § 26a; dabei kann sie insbesondere Festlegungen
+    treffen
+
+    a)  zum Austausch der erforderlichen Informationen zwischen den
+        Beteiligten,
+
+
+    b)  zur Bilanzierung der Energiemengen,
+
+
+    c)  zum angemessenen Entgelt für Lieferanten, wobei sie auch pauschale
+        Entgelte festlegen kann; sie kann insbesondere festlegen, dass das
+        Entgelt angemessen ist, wenn
+
+        1.  der durch die Erbringung von Regelleistung zum Zeitpunkt der
+            Erbringung durch den Letztverbraucher nicht verbrauchte Strom so
+            abgerechnet wird, als ob er geliefert worden wäre, und
+
+
+        2.  der durch die Erbringung von Regelleistung zum Zeitpunkt der
+            Erbringung durch den Letztverbraucher mehr verbrauchte Strom so
+            abgerechnet wird, als ob er nicht geliefert worden wäre, und
+
+
+        3.  das Entgelt einen erhöhten administrativen Aufwand des Lieferanten
+            berücksichtigt,
+
+
+
+
+
+    d)  zum angemessenen Entgelt für Bilanzkreisverantwortliche, wobei sie
+        insbesondere für den Fall, dass die zum Zeitpunkt der Erbringung von
+        Regelleistung verursachten Bilanzkreisabweichungen dem
+        Bilanzkreisverantwortlichen bilanziell ausgeglichen werden, festlegen
+        kann, dass pauschale Entgelte angemessen sind; sie kann insbesondere
+        festlegen, dass das Entgelt angemessen ist, wenn nur ein erhöhter
+        administrativer Aufwand des Bilanzkreisverantwortlichen berücksichtigt
+        wird,
+
+
+    e)  zu zusätzlichen Entgelten für Lieferanten und
+        Bilanzkreisverantwortliche für Abweichungen im Verbrauchsverhalten der
+        Letztverbraucher nach der Regelleistungserbringung, wenn diese
+        Abweichungen durch die Regelleistungserbringung verursacht sind;
+        hierbei kann sie insbesondere festlegen, dass diese Entgelte null
+        sind; resultiert aus der Festlegung zu zusätzlichen Entgelten eine
+        unbillige Härte für den Lieferanten oder Bilanzkreisverantwortlichen,
+        haben sie ein Sonderkündigungsrecht,
+
+
+    f)  zu Übergangsbestimmungen.
+
+
+
 
 
 

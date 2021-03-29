@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477, 2485
 
 Zuletzt geändert durch
-:   Art. 3 V v. 3.9.2010 I 1261
+:   Art. 8 G v. 29.8.2016 I 2034
 
 
 
@@ -431,14 +431,13 @@ durchgeführt werden; im Interesse des Anschlussnehmers darf der
 Netzbetreiber eine Eintragung in das Installateurverzeichnis nur von
 dem Nachweis einer ausreichenden fachlichen Qualifikation für die
 Durchführung der jeweiligen Arbeiten abhängig machen. Es dürfen nur
-Materialien und Gasgeräte verwendet werden, die entsprechend § 49 des
-Energiewirtschaftsgesetzes unter Beachtung der allgemein anerkannten
-Regeln der Technik hergestellt wurden. Die Einhaltung der
-Voraussetzungen des Satzes 4 wird vermutet, wenn die vorgeschriebene
-CE-Kennzeichnung vorhanden ist. Sofern die CE-Kennzeichnung nicht
-vorgeschrieben ist, wird dies auch vermutet, wenn die Materialien oder
-Gasgeräte das Zeichen einer akkreditierten Stelle tragen, insbesondere
-das DVGW-Zeichen. Materialien und Gasgeräte, die
+Materialien und Gasgeräte verwendet werden, die unter Beachtung der
+allgemein anerkannten Regeln der Technik hergestellt wurden. Die
+Einhaltung der Voraussetzungen des Satzes 4 wird vermutet, wenn die
+vorgeschriebene CE-Kennzeichnung vorhanden ist. Sofern die CE-
+Kennzeichnung nicht vorgeschrieben ist, wird dies auch vermutet, wenn
+die Materialien oder Gasgeräte das Zeichen einer akkreditierten Stelle
+tragen. Materialien und Gasgeräte, die
 
 1.  in einem anderen Mitgliedstaat der Europäischen Union oder der Türkei
     rechtmäßig hergestellt oder in den Verkehr gebracht worden sind oder
@@ -540,8 +539,9 @@ Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
 drohenden Netzzusammenbruchs erforderlich ist. Der Netzbetreiber hat
 jede Unterbrechung oder Unregelmäßigkeit unverzüglich zu beheben. Eine
 notwendige Unterbrechung wegen eines vom Anschlussnutzer veranlassten
-Austauschs der Messeinrichtung durch einen Dritten nach § 21b des
-Energiewirtschaftsgesetzes hat der Netzbetreiber nicht zu vertreten.
+Austauschs der Messeinrichtung durch einen Messstellenbetreiber nach
+den Vorschriften des Messstellenbetriebsgesetzes hat der Netzbetreiber
+nicht zu vertreten.
 
 (2) Der Netzbetreiber hat die Anschlussnutzer bei einer beabsichtigten
 Unterbrechung der Anschlussnutzung rechtzeitig in geeigneter Weise zu

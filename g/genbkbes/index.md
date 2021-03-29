@@ -271,8 +271,9 @@ Prüfungsverbänden zu übertragen.
 Nahrungsgüterwirtschaft der DDR gilt bis zur Einführung des
 Dienstsiegels der Genossenschaftsbank Berlin weiter.
 
+Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel IV Abschnitt III (BGBl. II 1990, 889, 1199)
+### Anhang EV (BGBl. II 1990, 889, 1199)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

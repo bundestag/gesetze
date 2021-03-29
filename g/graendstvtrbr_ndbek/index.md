@@ -4,7 +4,7 @@ Title: 'Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertr
   der gemeinsamen Landesgrenze (siehe: GrÄndStVtr BR/ND)'
 jurabk: GrÄndStVtrBR/NDBek
 layout: default
-origslug: gr_ndstvtrbr_ndbek
+origslug: graendstvtrbr_ndbek
 slug: graendstvtrbr_ndbek
 
 ---

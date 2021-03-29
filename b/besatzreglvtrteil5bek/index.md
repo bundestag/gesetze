@@ -54,9 +54,9 @@ b)  entsprechend den Bestimmungen des Artikels 4 des Fünften Teils des
 
 Das Bundesamt gehört zum Geschäftsbereich des Bundesministers der
 Finanzen. Es hat seinen Sitz in
-Bad Homburg v.d.H., Louisenstraße 63.              Für das Verfahren
-für die Anmeldung und Bearbeitung von Ansprüchen auf Grund der Artikel
-1, 2, 4 und 5 des Fünften Teils des Überleitungsvertrags und für die
+Bad Homburg v.d.H., Louisenstraße 63. Für das Verfahren für die
+Anmeldung und Bearbeitung von Ansprüchen auf Grund der Artikel 1, 2, 4
+und 5 des Fünften Teils des Überleitungsvertrags und für die
 Befriedigung von auf solchen Ansprüchen beruhenden Entscheidungen
 gelten die Bestimmungen des Anhangs zum Fünften Teil dieses Vertrags.
 Der Bundesminister des Auswärtigen

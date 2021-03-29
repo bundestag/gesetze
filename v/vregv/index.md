@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 318
 
 Zuletzt geändert durch
-:   Art. 10 G v. 6.7.2009 I 1696
+:   Art. 3 G v. 17.7.2017 I 2426
 
 
 ## Eingangsformel
@@ -92,11 +92,12 @@ personenbezogener Daten im Zentralen Vorsorgeregister sicher:
 
 
     b)  Angelegenheiten der Gesundheitssorge und ob ausdrücklich Maßnahmen
-        nach § 1904 Abs. 1 Satz 1 des Bürgerlichen Gesetzbuchs umfasst sind,
+        nach § 1904 Abs. 1 Satz 1 und § 1906a Absatz 1 und 4 des Bürgerlichen
+        Gesetzbuchs umfasst sind,
 
 
     c)  Angelegenheiten der Aufenthaltsbestimmung und ob ausdrücklich
-        Maßnahmen nach § 1906 Abs. 1 und 4 des Bürgerlichen Gesetzbuchs
+        Maßnahmen nach § 1906 Absatz 1 und 4 des Bürgerlichen Gesetzbuchs
         umfasst sind,
 
 
@@ -242,9 +243,10 @@ schützen.
 
 (3) Die Protokolle werden nach Ablauf des auf ihre Erstellung
 folgenden Kalenderjahres gelöscht. Das Bundesministerium der Justiz
-löscht Protokolle, die ihm nach Absatz 1 Satz 4 zur Verfügung gestellt
-worden sind, ein Jahr nach ihrem Eingang, sofern sie nicht für
-weitere, bereits eingeleitete Prüfungen benötigt werden.
+und für Verbraucherschutz löscht Protokolle, die ihm nach Absatz 1
+Satz 4 zur Verfügung gestellt worden sind, ein Jahr nach ihrem
+Eingang, sofern sie nicht für weitere, bereits eingeleitete Prüfungen
+benötigt werden.
 
 
 ## § 8 Sicherung der Daten

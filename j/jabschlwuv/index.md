@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 1334
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 5 G v. 25.5.2009 I 1102
+:   Art. 8 Abs. 12 G v. 17.7.2015 I 1245
 
 
 ## Eingangsformel
@@ -87,17 +87,16 @@ Posten 2 und 5 zu ersetzen:
 Handelsgesetzbuchs) ist § 266 Abs. 1 Satz 3 des Handelsgesetzbuchs
 entsprechend anzuwenden.
 
-(3)
-
-(4) Eine Aktiengesellschaft, Kommanditgesellschaft auf Aktien,
+(3) Eine Aktiengesellschaft, Kommanditgesellschaft auf Aktien,
 Gesellschaft mit beschränkter Haftung oder eingetragene Genossenschaft
 ist ein Wohnungsunternehmen im Sinne dieser Vorschriften, wenn sie
 nach dem in ihrer Satzung (Statut) festgesetzten Gegenstand des
 Unternehmens sich mit dem Bau von Wohnungen im eigenen Namen befaßt,
 Wohnungsbauten betreut oder Eigenheime, Kleinsiedlungen und
 Eigentumswohnungen im Sinne des Ersten Teils des
-Wohnungseigentumsgesetzes vom 15. März 1951 (Bundesgesetzbl. I S. 175,
-209) errichtet und veräußert.
+Wohnungseigentumsgesetzes in der im Bundesgesetzblatt Teil III,
+Gliederungsnummer 403-1, veröffentlichten bereinigten Fassung
+errichtet und veräußert.
 
 
 ## § 2
@@ -109,10 +108,14 @@ Bilanz auf der Aktivseite unter dem Posten "B.I.5. unfertige
 Leistungen" auszuweisen. Unter diesem Posten sind auch noch nicht
 abgerechnete Betriebskosten auszuweisen; der Betrag dieser Kosten ist
 gesondert auszuweisen oder im Anhang anzugeben, wenn sie einen nicht
-unerheblichen Umfang haben. Forderungen aus fertigen Bauleistungen auf
-fremdem Grund und Boden sind in der Bilanz auf der Aktivseite unter
-dem Posten "B.II.4. Forderungen aus anderen Lieferungen und
-Leistungen" auszuweisen.
+unerheblichen Umfang haben. Wohnungsunternehmen, die kleine
+Kapitalgesellschaften im Sinne des § 267 Absatz 1 des
+Handelsgesetzbuchs sind, haben diese Kosten gesondert in der Bilanz
+auszuweisen, wenn sie von dem Wahlrecht nach § 1 Absatz 2 keinen
+Gebrauch machen. Forderungen aus fertigen Bauleistungen auf fremdem
+Grund und Boden sind in der Bilanz auf der Aktivseite unter dem Posten
+"B.II.4. Forderungen aus anderen Lieferungen und Leistungen"
+auszuweisen.
 
 (3) Wohnungsunternehmen mit Spareinrichtung haben in der Bilanz auf
 der Passivseite unter "C. Verbindlichkeiten" nach dem Posten 3 die
@@ -124,7 +127,9 @@ gesondert auszuweisen. Die nachfolgenden Posten 4 bis 9 werden Posten
 Umsatzerlöse zusammengefaßt ausgewiesen werden; in diesem Falle
 müssen, soweit nicht § 276 des Handelsgesetzbuchs angewendet wird, die
 Unterposten Nummer 1 Buchstabe a bis d im Anhang gesondert ausgewiesen
-werden.
+werden. Wohnungsunternehmen, die kleine Kapitalgesellschaften im Sinne
+des § 267 Absatz 1 des Handelsgesetzbuchs sind, brauchen Satz 1
+zweiter Halbsatz nicht anzuwenden.
 
 
 ## § 2a
@@ -132,10 +137,10 @@ werden.
 Abweichend von § 327 Nr. 1 des Handelsgesetzbuchs ist § 325 Abs. 1 des
 Handelsgesetzbuchs auf mittelgroße Wohnungsunternehmen mit der Maßgabe
 anzuwenden, daß die gesetzlichen Vertreter die Bilanz nur in der für
-kleine Wohnungsunternehmen nach § 1 Abs. 2 vorgeschriebenen Form zum
-Handelsregister einreichen müssen. In der Bilanz oder im Anhang sind
-jedoch die folgenden Posten des Formblatts zusätzlich gesondert
-anzugeben:
+kleine Wohnungsunternehmen nach § 1 Abs. 2 vorgeschriebenen Form
+elektronisch beim Betreiber des Bundesanzeigers einreichen müssen. In
+der Bilanz oder im Anhang sind jedoch die folgenden Posten des
+Formblatts zusätzlich gesondert anzugeben:
 Auf der Aktivseite
 
 *
@@ -243,39 +248,12 @@ machende Angaben zuwiderhandelt.
 
 ## § 3
 
-(1) Diese Verordnung gilt für Wohnungsunternehmen in der Rechtsform
-der Aktiengesellschaft und Kommanditgesellschaft auf Aktien erstmals
-für den Jahresabschluß für das nach dem 31. Dezember 1970 beginnende
-Geschäftsjahr, für Wohnungsunternehmen in der Rechtsform der
-eingetragenen Genossenschaft erstmals für den Jahresabschluß für das
-nach dem 31. Dezember 1972 beginnende Geschäftsjahr. Von dem in Satz 1
-genannten Zeitpunkt an sind Richtlinien des Spitzenverbands über die
-Gliederung des Jahresabschlusses nicht mehr anzuwenden.
-
-(2) Diese Verordnung kann auf den Jahresabschluß für ein früheres
-Geschäftsjahr angewandt werden. Auf solche Jahresabschlüsse sind
-Richtlinien des Spitzenverbands über die Gliederung des
-Jahresabschlusses nicht anzuwenden.
-
-(3) Die Vorschriften dieser Verordnung in der Fassung der Ersten
-Verordnung zur Änderung der Verordnung über Formblätter für die
-Gliederung des Jahresabschlusses von Wohnungsunternehmen vom 6. März
-1987 (BGBl. I S. 770) sind erstmals auf den Jahresabschluß für das
-nach dem 31. Dezember 1986 beginnende Geschäftsjahr anzuwenden. Sie
-sind auf den Jahresabschluß für ein früheres Geschäftsjahr anzuwenden,
-wenn auf dieses die Vorschriften über den Jahresabschluß in der vom
-Inkrafttreten des Bilanzrichtlinien-Gesetzes an geltenden Fassung
-angewandt werden. Sind die neuen Vorschriften nicht nach Satz 2 auf
-ein früheres Geschäftsjahr anzuwenden, so ist für das Geschäftsjahr
-die am 31. Dezember 1985 geltende Fassung dieser Verordnung
-anzuwenden.
-
-(4) Das Formblatt gemäß Anlage in der Fassung des
-Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
-ist erstmals auf den Jahresabschluss für das nach dem 31. Dezember
-2009 beginnende Geschäftsjahr anzuwenden. § 2a Satz 2 in der bis zum
-28\. Mai 2009 geltenden Fassung ist letztmals auf den Jahresabschluss
-für das vor dem 1. Januar 2010 beginnende Geschäftsjahr anzuwenden.
+§ 2 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17.
+Juli 2015 (BGBl. I S. 1245) ist erstmals auf Jahresabschlüsse für ein
+Geschäftsjahr anzuwenden, das nach dem 31. Dezember 2015 beginnt. Auf
+Jahresabschlüsse für Geschäftsjahre, die vor dem 1. Januar 2016
+beginnen, bleibt § 2 in der bis zum 22. Juli 2015 geltenden Fassung
+anwendbar.
 
 
 ## § 4
@@ -297,8 +275,9 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister der Justiz
 
+Formblatt
 
-## Anlage Formblatt (Muster)
+## Anlage (Muster)
 
 (Fundstelle: BGBl. I 1987, 772;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1965, 1477
 
 Neugefasst durch
-:   Bek. v. 28. 3.2001 I 442, 2262; 2002 I 679;
+:   Bek. v. 28.3.2001 I 442, 2262; 2002 I 679;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.7.2012 I 1577
+:   Art. 8 G v. 12.7.2018 I 1151
 
 
 ## Erster Teil - Gerichtsverfassung
@@ -587,6 +587,14 @@ der Kläger im Bezirk der obersten Finanzbehörde keinen Wohnsitz, keine
 Geschäftsleitung und keinen gewöhnlichen Aufenthalt, so findet Absatz
 1 Anwendung.
 
+(2a) In Angelegenheiten des Familienleistungsausgleichs nach Maßgabe
+der §§ 62 bis 78 des Einkommensteuergesetzes ist das Finanzgericht
+zuständig, in dessen Bezirk der Kläger seinen Wohnsitz oder seinen
+gewöhnlichen Aufenthalt hat. Hat der Kläger im Inland keinen Wohnsitz
+und keinen gewöhnlichen Aufenthalt, ist das Finanzgericht zuständig,
+in dessen Bezirk die Behörde, gegen welche die Klage gerichtet ist,
+ihren Sitz hat.
+
 (3) Befindet sich der Sitz einer Finanzbehörde außerhalb ihres
 Bezirks, so richtet sich die örtliche Zuständigkeit abweichend von
 Absatz 1 nach der Lage des Bezirks.
@@ -755,9 +763,9 @@ Verwaltungsakts abgelehnt worden ist.
 Klage bei der Behörde, die den angefochtenen Verwaltungsakt oder die
 angefochtene Entscheidung erlassen oder den Beteiligten bekannt
 gegeben hat oder die nachträglich für den Steuerfall zuständig
-geworden ist, innerhalb der Frist angebracht oder zur Niederschrift
-gegeben wird. Die Behörde hat die Klageschrift in diesem Fall
-unverzüglich dem Gericht zu übermitteln.
+geworden ist, innerhalb der Frist angebracht oder zu Protokoll gegeben
+wird. Die Behörde hat die Klageschrift in diesem Fall unverzüglich dem
+Gericht zu übermitteln.
 
 (3) Absatz 2 gilt sinngemäß bei einer Klage, die sich gegen die
 Feststellung von Besteuerungsgrundlagen oder gegen die Festsetzung
@@ -836,7 +844,7 @@ Klage insoweit verzichtet werden. Die Besteuerungsgrundlage, auf die
 sich der Verzicht beziehen soll, ist genau zu bezeichnen.
 
 (2) Der Verzicht ist gegenüber der zuständigen Behörde schriftlich
-oder zur Niederschrift zu erklären; er darf keine weiteren Erklärungen
+oder zu Protokoll zu erklären; er darf keine weiteren Erklärungen
 enthalten. Wird nachträglich die Unwirksamkeit des Verzichts geltend
 gemacht, so gilt § 56 Abs. 3 sinngemäß.
 
@@ -880,40 +888,75 @@ Vorsitzende ihre Anwesenheit gestattet.
 
 #### § 52a
 
-(1) Die Beteiligten können dem Gericht elektronische Dokumente
-übermitteln, soweit dies für den jeweiligen Zuständigkeitsbereich
-durch Rechtsverordnung der Bundesregierung oder der Landesregierungen
-zugelassen worden ist. Die Rechtsverordnung bestimmt den Zeitpunkt,
-von dem an Dokumente an ein Gericht elektronisch übermittelt werden
-können, sowie die Art und Weise, in der elektronische Dokumente
-einzureichen sind. Für Dokumente, die einem schriftlich zu
-unterzeichnenden Schriftstück gleichstehen, ist eine qualifizierte
-elektronische Signatur nach § 2 Nr. 3 des Signaturgesetzes
-vorzuschreiben. Neben der qualifizierten elektronischen Signatur kann
-auch ein anderes sicheres Verfahren zugelassen werden, das die
-Authentizität und die Integrität des übermittelten elektronischen
-Dokuments sicherstellt. Die Landesregierungen können die Ermächtigung
-auf die für die Finanzgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Zulassung der elektronischen
-Übermittlung kann auf einzelne Gerichte oder Verfahren beschränkt
-werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Beteiligten sowie
+schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
+Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze
+2 bis 6 als elektronisches Dokument bei Gericht eingereicht werden.
 
-(2) Ein elektronisches Dokument ist dem Gericht zugegangen, wenn es in
-der nach Absatz 1 Satz 1 bestimmten Art und Weise übermittelt worden
-ist und wenn die für den Empfang bestimmte Einrichtung es
-aufgezeichnet hat. Die Vorschriften dieses Gesetzes über die Beifügung
-von Abschriften für die übrigen Beteiligten finden keine Anwendung.
-Genügt das Dokument nicht den Anforderungen, ist dies dem Absender
-unter Angabe der für das Gericht geltenden technischen
-Rahmenbedingungen unverzüglich mitzuteilen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates die für die
+Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
 
-(3) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
+    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+
+
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
+    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
+    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
+    Postfach und der elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts; das Nähere regelt die
+    Verordnung nach Absatz 2 Satz 2,
+
+
+4.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen. Die Vorschriften dieses Gesetzes über die
+Beifügung von Abschriften für die übrigen Beteiligten finden keine
+Anwendung.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs und die geltenden technischen
+Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum
+Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es
+unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form
+nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten
+Dokument inhaltlich übereinstimmt.
+
+(7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
 den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt
 dieser Form die Aufzeichnung als elektronisches Dokument, wenn die
 verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen
-und das Dokument mit einer qualifizierten elektronischen Signatur nach
-§ 2 Nr. 3 des Signaturgesetzes versehen.
+und das Dokument mit einer qualifizierten elektronischen Signatur
+versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches
+Dokument, in welches das handschriftlich unterzeichnete Schriftstück
+gemäß § 52b Absatz 6 Satz 4 übertragen worden ist.
 
 
 #### § 52b
@@ -927,29 +970,88 @@ Führung und Verwahrung der elektronischen Akten festzulegen. Die
 Landesregierungen können die Ermächtigung auf die für die
 Finanzgerichtsbarkeit zuständigen obersten Landesbehörden übertragen.
 Die Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
-Verfahren beschränkt werden. Die Rechtsverordnung der Bundesregierung
-bedarf nicht der Zustimmung des Bundesrates.
+Verfahren beschränkt werden; wird von dieser Möglichkeit Gebrauch
+gemacht, kann in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren die Prozessakten elektronisch zu führen
+sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
+Zustimmung des Bundesrates.
 
-(2) Dokumente, die nicht der Form entsprechen, in der die Akte geführt
-wird, sind in die entsprechende Form zu übertragen und in dieser Form
-zur Akte zu nehmen, soweit die Rechtsverordnung nach Absatz 1 nichts
-anderes bestimmt.
+(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Verwahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+auf die für die Finanzgerichtsbarkeit zuständigen obersten
+Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
+bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Die Originaldokumente sind mindestens bis zum rechtskräftigen
-Abschluss des Verfahrens aufzubewahren.
+(2) Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
+dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
+unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
+unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern;
+der Speicherort ist aktenkundig zu machen.
 
-(4) Ist ein in Papierform eingereichtes Dokument in ein elektronisches
-Dokument übertragen worden, muss dieses den Vermerk enthalten, wann
-und durch wen die Übertragung vorgenommen worden ist. Ist ein
-elektronisches Dokument in die Papierform überführt worden, muss der
-Ausdruck den Vermerk enthalten, welches Ergebnis die
-Integritätsprüfung des Dokuments ausweist, wen die Signaturprüfung als
-Inhaber der Signatur ausweist und welchen Zeitpunkt die
-Signaturprüfung für die Anbringung der Signatur ausweist.
+(3) Ist das elektronische Dokument auf einem sicheren Übermittlungsweg
+eingereicht, so ist dies aktenkundig zu machen.
 
-(5) Dokumente, die nach Absatz 2 hergestellt sind, sind für das
-Verfahren zugrunde zu legen, soweit kein Anlass besteht, an der
-Übereinstimmung mit dem eingereichten Dokument zu zweifeln.
+(4) Wird das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist.
+
+
+
+
+(5) Ein eingereichtes elektronisches Dokument kann im Falle von Absatz
+2 nach Ablauf von sechs Monaten gelöscht werden.
+
+(6) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
+
+
+#### § 52c Formulare; Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 52a Absatz 3 auch durch Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes
+erfolgen kann.
 
 
 #### § 53
@@ -1278,10 +1380,10 @@ zuständig geworden, so ist die Klage zu richten
 
 
 2.  wenn
-    über den Einspruch                    ohne Mitteilung eines
-    zureichenden Grundes in angemessener Frist sachlich nicht entschieden
-    worden ist (§ 46), gegen die Behörde, die im Zeitpunkt der
-    Klageerhebung für den Steuerfall örtlich zuständig ist.
+    über den Einspruch ohne Mitteilung eines zureichenden Grundes in
+    angemessener Frist sachlich nicht entschieden worden ist (§ 46), gegen
+    die Behörde, die im Zeitpunkt der Klageerhebung für den Steuerfall
+    örtlich zuständig ist.
 
 
 
@@ -1295,8 +1397,8 @@ zuständige Behörde zu richten.
 
 #### § 64
 
-(1) Die Klage ist bei dem Gericht schriftlich oder zur Niederschrift
-des Urkundsbeamten der Geschäftsstelle zu erheben.
+(1) Die Klage ist bei dem Gericht schriftlich oder zu Protokoll des
+Urkundsbeamten der Geschäftsstelle zu erheben.
 
 (2) Der Klage sollen Abschriften für die übrigen Beteiligten beigefügt
 werden; § 77 Abs. 2 gilt sinngemäß.
@@ -1308,9 +1410,9 @@ werden; § 77 Abs. 2 gilt sinngemäß.
 Klagebegehrens, bei Anfechtungsklagen auch den Verwaltungsakt und die
 Entscheidung über den außergerichtlichen Rechtsbehelf bezeichnen. Sie
 soll einen bestimmten Antrag enthalten. Die zur Begründung dienenden
-Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll die
-Urschrift oder eine Abschrift des angefochtenen Verwaltungsakts und
-der Einspruchsentscheidung beigefügt werden.
+Tatsachen und Beweismittel sollen angegeben werden. Der Klage soll
+eine Abschrift des angefochtenen Verwaltungsakts und der
+Einspruchsentscheidung beigefügt werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der
 Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes
@@ -1324,7 +1426,10 @@ vorigen Stand wegen Versäumung der Frist gilt § 56 entsprechend.
 
 #### § 66
 
-Durch Erhebung der Klage wird die Streitsache rechtshängig.
+Durch Erhebung der Klage wird die Streitsache rechtshängig. In
+Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
+wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst
+mit Zustellung der Klage rechtshängig.
 
 
 #### § 67
@@ -1445,7 +1550,7 @@ des Gerichtsverfassungsgesetzes entsprechend. Beschlüsse entsprechend
 
 (1) Die Klageschrift ist dem Beklagten von Amts wegen zuzustellen.
 Zugleich mit der Zustellung der Klage ist der Beklagte aufzufordern,
-sich schriftlich oder zur Niederschrift des Urkundsbeamten der
+sich schriftlich oder zu Protokoll des Urkundsbeamten der
 Geschäftsstelle zu äußern. Hierfür kann eine Frist gesetzt werden.
 
 (2) Die beteiligte Finanzbehörde hat die den Streitfall betreffenden
@@ -1514,9 +1619,9 @@ Beteiligten sind dabei heranzuziehen. Sie haben ihre Erklärungen über
 tatsächliche Umstände vollständig und der Wahrheit gemäß abzugeben und
 sich auf Anforderung des Gerichts zu den von den anderen Beteiligten
 vorgebrachten Tatsachen zu erklären. § 90 Abs. 2, § 93 Abs. 3 Satz 2,
-§ 97 Abs. 1 und 3, §§ 99, 100 der Abgabenordnung gelten sinngemäß. Das
-Gericht ist an das Vorbringen und an die Beweisanträge der Beteiligten
-nicht gebunden.
+§ 97, §§ 99, 100 der Abgabenordnung gelten sinngemäß. Das Gericht ist
+an das Vorbringen und an die Beweisanträge der Beteiligten nicht
+gebunden.
 
 (2) Der Vorsitzende hat darauf hinzuwirken, dass Formfehler beseitigt,
 sachdienliche Anträge gestellt, unklare Anträge erläutert, ungenügende
@@ -1543,11 +1648,11 @@ Fristsetzung auffordern. Den Schriftsätzen sollen Abschriften für die
 übrigen Beteiligten beigefügt werden. Die Schriftsätze sind den
 Beteiligten von Amts wegen zu übermitteln.
 
-(2) Den Schriftsätzen sind die Urkunden, auf die Bezug genommen wird,
-in Urschrift oder in Abschrift ganz oder im Auszug beizufügen. Sind
-die Urkunden dem Gegner bereits bekannt oder sehr umfangreich, so
-genügt die genaue Bezeichnung mit dem Anerbieten, Einsicht bei Gericht
-zu gewähren.
+(2) Den Schriftsätzen sind die Urkunden oder elektronischen Dokumente,
+auf die Bezug genommen wird, in Abschrift ganz oder im Auszug
+beizufügen. Sind die Urkunden dem Gegner bereits bekannt oder sehr
+umfangreich, so genügt die genaue Bezeichnung mit dem Anerbieten,
+Einsicht bei Gericht zu gewähren.
 
 
 #### § 77a
@@ -1558,23 +1663,28 @@ zu gewähren.
 #### § 78
 
 (1) Die Beteiligten können die Gerichtsakte und die dem Gericht
-vorgelegten Akten einsehen.
+vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten
+durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und
+Abschriften erteilen lassen.
 
-(2) Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle
-Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
-Nach dem Ermessen des Vorsitzenden kann Bevollmächtigten, die zu den
-in § 3 Nr. 1 und § 4 Nr. 1 und 2 des Steuerberatungsgesetzes
-bezeichneten natürlichen Personen gehören, der elektronische Zugriff
-auf den Inhalt der Akten gestattet oder der Inhalt der Akten
-elektronisch übermittelt werden. § 79a Abs. 4 gilt entsprechend. Bei
-einem elektronischen Zugriff auf den Inhalt der Akten ist
-sicherzustellen, dass der Zugriff nur durch den Bevollmächtigten
-erfolgt. Für die Übermittlung von elektronischen Dokumenten ist die
-Gesamtheit der Dokumente mit einer qualifizierten elektronischen
-Signatur nach § 2 Nr. 3 des Signaturgesetzes zu versehen und gegen
-unbefugte Kenntnisnahme zu schützen.
+(2) Werden die Prozessakten elektronisch geführt, wird Akteneinsicht
+durch Bereitstellung des Inhalts der Akten zum Abruf gewährt. Auf
+besonderen Antrag wird Akteneinsicht durch Einsichtnahme in die Akten
+in Diensträumen gewährt. Ein Aktenausdruck oder ein Datenträger mit
+dem Inhalt der Akten wird auf besonders zu begründenden Antrag nur
+übermittelt, wenn der Antragsteller hieran ein berechtigtes Interesse
+darlegt. Stehen der Akteneinsicht in der nach Satz 1 vorgesehenen Form
+wichtige Gründe entgegen, kann die Akteneinsicht in der nach den
+Sätzen 2 und 3 vorgesehenen Form auch ohne Antrag gewährt werden. Über
+einen Antrag nach Satz 3 entscheidet der Vorsitzende; die Entscheidung
+ist unanfechtbar. § 79a Absatz 4 gilt entsprechend.
 
-(3) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die
+(3) Werden die Prozessakten in Papierform geführt, wird Akteneinsicht
+durch Einsichtnahme in die Akten in Diensträumen gewährt. Die
+Akteneinsicht kann, soweit nicht wichtige Gründe entgegenstehen, auch
+durch Bereitstellung des Inhalts der Akten zum Abruf gewährt werden.
+
+(4) Die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die
 Arbeiten zu ihrer Vorbereitung, ferner die Dokumente, die Abstimmungen
 oder Ordnungsstrafen des Gerichts betreffen, werden weder vorgelegt
 noch abschriftlich mitgeteilt.
@@ -1767,8 +1877,7 @@ ist, kann die Ableistung des Eides verweigern.
 Zeugen, die nicht aus dem Gedächtnis aussagen können, haben Dokumente
 und Geschäftsbücher, die ihnen zur Verfügung stehen, einzusehen und,
 soweit nötig, Aufzeichnungen daraus zu entnehmen. Die Vorschriften der
-§ 97 Abs. 1 und 3, §§ 99, 100, 104 der Abgabenordnung gelten
-sinngemäß.
+§ 97, §§ 99, 100, 104 der Abgabenordnung gelten sinngemäß.
 
 
 #### § 86
@@ -1785,6 +1894,8 @@ Gründen als nach Absatz 1 nach einem Gesetz oder ihrem Wesen nach
 geheimgehalten werden müssen, kann die zuständige oberste
 Aufsichtsbehörde die Vorlage von Urkunden oder Akten, die Übermittlung
 elektronischer Dokumente und die Erteilung der Auskünfte verweigern.
+Satz 1 gilt in den Fällen des § 88 Absatz 3 Satz 3 und Absatz 5 Satz 4
+sowie des § 156 Absatz 2 Satz 3 der Abgabenordnung entsprechend.
 
 (3) Auf Antrag eines Beteiligten stellt der Bundesfinanzhof in den
 Fällen der Absätze 1 und 2 ohne mündliche Verhandlung durch Beschluss
@@ -1884,16 +1995,25 @@ abhalten, wenn dies zur sachdienlichen Erledigung notwendig ist.
 
 #### § 91a
 
-(1) Den am Verfahren Beteiligten sowie ihren Bevollmächtigten und
-Beiständen kann auf Antrag gestattet werden, sich während einer
-mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
-Verfahrenshandlungen vorzunehmen. Die mündliche Verhandlung wird
-zeitgleich in Bild und Ton an den Ort, an dem sich die Beteiligten,
-Bevollmächtigten und Beistände aufhalten und in das Sitzungszimmer
-übertragen. Eine Aufzeichnung findet nicht statt.
+(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und
+Beiständen auf Antrag oder von Amts wegen gestatten, sich während
+einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
+Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
+Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
 
-(2) Absatz 1 gilt entsprechend für Erörterungstermine (§ 79 Abs. 1
-Satz 2 Nr. 1).
+(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein
+Sachverständiger oder ein Beteiligter während einer Vernehmung an
+einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und
+Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist
+Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1
+gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die
+Vernehmung auch an diesen Ort übertragen.
+
+(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
+Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+
+(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
+79 Absatz 1 Satz 2 Nummer 1).
 
 
 #### § 92
@@ -1921,33 +2041,14 @@ mündliche Verhandlung für geschlossen. Das Gericht kann die
 Wiedereröffnung beschließen.
 
 
-#### § 93a
+#### § 93a (weggefallen)
 
-(1) Im Einverständnis mit den am Verfahren Beteiligten kann das
-Gericht anordnen, dass sich ein Zeuge oder ein Sachverständiger
-während der Vernehmung an einem anderen Ort aufhält. Die Aussage wird
-zeitgleich in Bild und Ton in das Sitzungszimmer übertragen. Ist
-Beteiligten, Bevollmächtigten und Beiständen nach § 91a gestattet
-worden, sich an einem anderen Ort aufzuhalten, so wird die Aussage
-zeitgleich in Bild und Ton auch an diesen Ort übertragen. Die Aussage
-soll aufgezeichnet werden, wenn zu besorgen ist, dass der Zeuge oder
-Sachverständige in einer weiteren mündlichen Verhandlung nicht
-vernommen werden kann und die Aufzeichnung zur Erforschung des
-Sachverhalts erforderlich ist.
-
-(2) Die Aufzeichnung darf nur innerhalb des Verfahrens verwendet
-werden, für das sie gefertigt worden ist. Das Recht zur Verweigerung
-des Zeugnisses nach § 84 ist hierbei zu wahren. § 78 Abs. 1 findet mit
-der Maßgabe entsprechende Anwendung, dass die Einsicht ausschließlich
-bei der Geschäftsstelle erfolgt; Kopien werden nicht erteilt. Sobald
-die Aufzeichnung nicht mehr benötigt wird, spätestens nach
-rechtskräftigem Abschluss des Verfahrens, ist sie zu löschen.
 
 
 #### § 94
 
-Für die Niederschrift gelten die §§ 159 bis 165 der
-Zivilprozessordnung entsprechend.
+Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozessordnung
+entsprechend.
 
 
 #### § 94a
@@ -2336,7 +2437,8 @@ werden.
 vollständigen Urteils bei dem Bundesfinanzhof einzulegen. Sie muss das
 angefochtene Urteil bezeichnen. Der Beschwerdeschrift soll eine
 Ausfertigung oder Abschrift des Urteils, gegen das Revision eingelegt
-werden soll, beigefügt werden.
+werden soll, beigefügt werden. Satz 3 gilt nicht im Falle der
+elektronischen Beschwerdeeinlegung.
 
 (3) Die Beschwerde ist innerhalb von zwei Monaten nach der Zustellung
 des vollständigen Urteils zu begründen. Die Begründung ist bei dem
@@ -2619,9 +2721,9 @@ Revision.
 
 ##### § 129
 
-(1) Die Beschwerde ist beim Finanzgericht schriftlich oder zur
-Niederschrift des Urkundsbeamten der Geschäftsstelle innerhalb von
-zwei Wochen nach Bekanntgabe der Entscheidung einzulegen.
+(1) Die Beschwerde ist beim Finanzgericht schriftlich oder zu
+Protokoll des Urkundsbeamten der Geschäftsstelle innerhalb von zwei
+Wochen nach Bekanntgabe der Entscheidung einzulegen.
 
 (2) Die Beschwerdefrist ist auch gewahrt, wenn die Beschwerde
 innerhalb der Frist beim Bundesfinanzhof eingeht.
@@ -2661,7 +2763,7 @@ unberührt.
 (1) Gegen die Entscheidung des beauftragten oder ersuchten Richters
 oder des Urkundsbeamten kann innerhalb von zwei Wochen nach
 Bekanntgabe die Entscheidung des Finanzgerichts beantragt werden. Der
-Antrag ist schriftlich oder zur Niederschrift des Urkundsbeamten der
+Antrag ist schriftlich oder zu Protokoll des Urkundsbeamten der
 Geschäftsstelle des Gerichts zu stellen. Die §§ 129 bis 131 gelten
 sinngemäß.
 
@@ -2693,11 +2795,10 @@ Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
 dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
-schriftlich oder zur Niederschrift des Urkundsbeamten der
-Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung
-angegriffen wird. Die Rüge muss die angegriffene Entscheidung
-bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten
-Voraussetzungen darlegen.
+schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
+bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. Die
+Rüge muss die angegriffene Entscheidung bezeichnen und das Vorliegen
+der in Absatz 1 Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur
 Stellungnahme zu geben.
@@ -2847,7 +2948,47 @@ unterliegenden Partei oder der Staatskasse auferlegt.
 Prozesskostenhilfe gelten sinngemäß.
 
 (2) Einem Beteiligten, dem Prozesskostenhilfe bewilligt worden ist,
-kann auch ein Steuerberater beigeordnet werden.
+kann auch ein Steuerberater, Steuerbevollmächtigter, Wirtschaftsprüfer
+oder vereidigter Buchprüfer beigeordnet werden. Die Vergütung richtet
+sich nach den für den beigeordneten Rechtsanwalt geltenden
+Vorschriften des Rechtsanwaltsvergütungsgesetzes.
+
+(3) Die Prüfung der persönlichen und wirtschaftlichen Verhältnisse
+nach den §§ 114 bis 116 der Zivilprozessordnung einschließlich der in
+§ 118 Absatz 2 der Zivilprozessordnung bezeichneten Maßnahmen und der
+Entscheidungen nach § 118 Absatz 2 Satz 4 der Zivilprozessordnung
+obliegt dem Urkundsbeamten der Geschäftsstelle des jeweiligen
+Rechtszugs, wenn der Vorsitzende ihm das Verfahren insoweit überträgt.
+Liegen die Voraussetzungen für die Bewilligung der Prozesskostenhilfe
+hiernach nicht vor, erlässt der Urkundsbeamte die den Antrag
+ablehnende Entscheidung; anderenfalls vermerkt der Urkundsbeamte in
+den Prozessakten, dass dem Antragsteller nach seinen persönlichen und
+wirtschaftlichen Verhältnissen Prozesskostenhilfe gewährt werden kann
+und in welcher Höhe gegebenenfalls Monatsraten oder Beträge aus dem
+Vermögen zu zahlen sind.
+
+(4) Dem Urkundsbeamten obliegen im Verfahren über die
+Prozesskostenhilfe ferner die Bestimmung des Zeitpunkts für die
+Einstellung und eine Wiederaufnahme der Zahlungen nach § 120 Absatz 3
+der Zivilprozessordnung sowie die Änderung und die Aufhebung der
+Bewilligung der Prozesskostenhilfe nach den §§ 120a und 124 Absatz 1
+Nummer 2 bis 5 der Zivilprozessordnung.
+
+(5) Der Vorsitzende kann Aufgaben nach den Absätzen 3 und 4 zu jedem
+Zeitpunkt an sich ziehen. § 5 Absatz 1 Nummer 1, die §§ 6, 7, 8 Absatz
+1 bis 4 und § 9 des Rechtspflegergesetzes gelten entsprechend mit der
+Maßgabe, dass an die Stelle des Rechtspflegers der Urkundsbeamte der
+Geschäftsstelle tritt.
+
+(6) § 79a Absatz 4 gilt entsprechend.
+
+(7) Gegen Entscheidungen des Urkundsbeamten nach den Absätzen 3 und 4
+ist die Erinnerung an das Gericht gegeben. Die Frist für die Einlegung
+der Erinnerung beträgt zwei Wochen. Über die Erinnerung entscheidet
+das Gericht durch Beschluss.
+
+(8) Durch Landesgesetz kann bestimmt werden, dass die Absätze 3 bis 7
+für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 #### § 143
@@ -2997,12 +3138,13 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und, soweit die grundsätzlichen
 Unterschiede der beiden Verfahrensarten es nicht ausschließen, die
 Zivilprozessordnung einschließlich § 278 Absatz 5 und § 278a sinngemäß
-anzuwenden. Die Vorschriften des Siebzehnten Titels des
-Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
-anzuwenden, dass an die Stelle des Oberlandesgerichts und des
-Bundesgerichtshofs der Bundesfinanzhof und an die Stelle der
-Zivilprozessordnung die Finanzgerichtsordnung tritt; die Vorschriften
-über das Verfahren im ersten Rechtszug sind entsprechend anzuwenden.
+anzuwenden; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
+Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
+sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
+Oberlandesgerichts und des Bundesgerichtshofs der Bundesfinanzhof und
+an die Stelle der Zivilprozessordnung die Finanzgerichtsordnung tritt;
+die Vorschriften über das Verfahren im ersten Rechtszug sind
+entsprechend anzuwenden.
 
 
 ### § 156
@@ -3035,7 +3177,8 @@ oder der Eidesleistung entscheidet das Finanzgericht durch Beschluss.
 
 ### § 159
 
-(weggefallen)
+§ 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
+entsprechend.
 
 
 ### § 160

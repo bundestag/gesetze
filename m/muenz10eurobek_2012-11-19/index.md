@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „150. Geburtstag Gerhart Hauptmann“)
 jurabk: Münz10EuroBek 2012-11-19
 layout: default
-origslug: m_nz10eurobek_2012-11-19
+origslug: muenz10eurobek_2012-11-19
 slug: muenz10eurobek_2012-11-19
 
 ---
@@ -49,8 +49,8 @@ Angabe „SILBER 625“ aufgeprägt.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„*              A JEDER MENSCH
-HAT HALT `NE SEHNSUCHT*             “.
+„* A JEDER MENSCH
+HAT HALT `NE SEHNSUCHT*“.
 
 Der Entwurf stammt von dem Künstler Jordi Truxa aus Berlin.
 

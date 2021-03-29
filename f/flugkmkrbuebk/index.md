@@ -7,7 +7,7 @@ Title: Übereinkommen zwischen den Vereinigten Staaten von Amerika und dem Köni
   mittlerer und kürzerer Reichweite
 jurabk: FlugkmkRBÜbk
 layout: default
-origslug: flugkmkrb_bk
+origslug: flugkmkrbuebk
 slug: flugkmkrbuebk
 
 ---

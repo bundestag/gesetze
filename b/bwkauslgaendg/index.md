@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes zur Wiedergutmachung nat
   Unrechts in der Kriegsopferversorgung für Berechtigte im Ausland
 jurabk: BWKAuslGÄndG
 layout: default
-origslug: bwkauslg_ndg
+origslug: bwkauslgaendg
 slug: bwkauslgaendg
 
 ---
@@ -34,7 +34,7 @@ Fundstelle
 2.  Soweit vor Inkrafttreten dieses Gesetzes Ansprüche durch Bescheid oder
     rechtskräftige gerichtliche Entscheidung festgesetzt worden sind,
     behält es hierbei zugunsten des Berechtigten sein Bewenden. §§ 41,
-    42                    des Gesetzes über das Verwaltungsverfahren der
+    42 des Gesetzes über das Verwaltungsverfahren der
     Kriegsopferversorgung vom 2. Mai 1955 (Bundesgesetzbl. I S. 202) und §
     62 des Bundesversorgungsgesetzes bleiben unberührt.
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.1.1999 I 18;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 12.4.2007 I 506
+:   Art. 6 Abs. 2 G v. 23.5.2017 I 1228
 
 
 ## § 1 Anwendungsbereich
@@ -305,14 +305,13 @@ die der Genehmigung der nach Landesrecht zuständigen Stelle bedürfen.
 Prüfungsanforderung und -verfahren sind so zu gestalten, daß die
 Abschlußprüfung innerhalb der Regelstudienzeit vollständig abgelegt
 werden kann. Prüfungsordnungen müssen die Inanspruchnahme der
-Schutzfristen des § 3 Abs. 2 und des § 6 Abs. 1 des
-Mutterschutzgesetzes sowie der Fristen der landesrechtlichen
-Regelungen über die Elternzeit ermöglichen. Prüfungsordnungen müssen
-die besonderen Belange behinderter Studierender zur Wahrung ihrer
-Chancengleichheit berücksichtigen. Die Genehmigung einer
-Prüfungsordnung ist zu versagen, wenn sie eine mit § 11 oder § 19
-unvereinbare Regelstudienzeit vorsieht. Die Genehmigung kann
-insbesondere versagt werden, wenn die Prüfungsordnung anderen
+Schutzfristen des § 3 des Mutterschutzgesetzes sowie der Fristen der
+landesrechtlichen Regelungen über die Elternzeit ermöglichen.
+Prüfungsordnungen müssen die besonderen Belange behinderter
+Studierender zur Wahrung ihrer Chancengleichheit berücksichtigen. Die
+Genehmigung einer Prüfungsordnung ist zu versagen, wenn sie eine mit §
+11 oder § 19 unvereinbare Regelstudienzeit vorsieht. Die Genehmigung
+kann insbesondere versagt werden, wenn die Prüfungsordnung anderen
 Vorschriften über die Regelstudienzeit nicht entspricht. Die nach
 Landesrecht zuständige Stelle kann die Änderung einer geltenden
 Prüfungsordnung insbesondere verlangen, wenn diese den Anforderungen
@@ -1292,11 +1291,6 @@ Landesrecht von den Vorschriften dieses Gesetzes abweichende
 Regelungen getroffen werden, soweit die besondere Struktur und
 Aufgabenstellung dieser Hochschulen es erfordern. Die Anforderungen
 des § 70 Abs. 1 Nr. 1 bis 3 und 5 müssen erfüllt sein.
-
-
-### § 74
-
-(weggefallen)
 
 
 ### § 74 Bisherige Dienstverhältnisse und Berufungsvereinbarungen

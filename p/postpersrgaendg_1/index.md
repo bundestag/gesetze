@@ -2,7 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Postpersonalrechtsgesetzes
 jurabk: PostPersRGÄndG 1
 layout: default
-origslug: postpersrg_ndg_1
+origslug: postpersrgaendg_1
 slug: postpersrgaendg_1
 
 ---

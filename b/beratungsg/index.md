@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1398
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 2 G v. 22.12.2011 I 2975
+:   Art. 14 Nr. 1 G v. 20.10.2015 I 1722
 
 
 ## Abschnitt 1 - Aufklärung, Verhütung, Familienplanung und Beratung
@@ -56,6 +56,23 @@ Frauenärztinnen und Frauenärzte, Ärztinnen und Ärzte sowie
 medizinische Einrichtungen, die pränataldiagnostische Maßnahmen
 durchführen, Humangenetikerinnen und Humangenetiker, Hebammen sowie an
 alle Institutionen der Jugend- und Bildungsarbeit abgegeben.
+
+(4) Der Bund macht die Hilfen für Schwangere und Mütter bekannt; dazu
+gehört auch der Anspruch auf anonyme Beratung nach § 2 Absatz 1 und
+auf die vertrauliche Geburt. Die Informationen über die vertrauliche
+Geburt beinhalten auch die Erklärung, wie eine Frau ihre Rechte
+gegenüber ihrem Kind nach einer vertraulichen Geburt unter Aufgabe
+ihrer Anonymität und wie sie schutzwürdige Belange gegen die spätere
+Offenlegung ihrer Personenstandsdaten geltend machen kann. Der Bund
+fördert durch geeignete Maßnahmen das Verständnis für Eltern, die ihr
+Kind zur Adoption freigeben.
+
+(5) Der Bund stellt durch einen bundesweiten zentralen Notruf sicher,
+dass Schwangere in Konfliktlagen, die ihre Schwangerschaft
+verheimlichen, jederzeit und unverzüglich an eine Beratungsstelle nach
+den §§ 3 und 8 vermittelt werden. Er macht den Notruf bundesweit
+bekannt und betreibt kontinuierlich Öffentlichkeitsarbeit für den
+Notruf.
 
 
 ### § 2 Beratung
@@ -111,6 +128,21 @@ Beratung hinzuzuziehen.
 
 (3) Zum Anspruch auf Beratung gehört auch die Nachbetreuung nach einem
 Schwangerschaftsabbruch oder nach der Geburt des Kindes.
+
+(4) Einer Schwangeren, die ihre Identität nicht preisgeben und die ihr
+Kind nach der Geburt abgeben möchte, ist ein ausführliches
+ergebnisoffenes Beratungsgespräch zur Bewältigung der psychosozialen
+Konfliktlage anzubieten. Inhalt des Beratungsgesprächs sind:
+
+1.  geeignete Hilfsangebote zur Bewältigung der Situation und zur
+    Entscheidungsfindung sowie
+
+
+2.  Wege, die der Schwangeren die Aufgabe der Anonymität oder ein Leben
+    mit dem Kind ermöglichen.
+
+
+
 
 
 ### § 2a Aufklärung und Beratung in besonderen Fällen
@@ -490,7 +522,7 @@ ihr die Aufbringung der Mittel für den Abbruch einer Schwangerschaft
 nicht zuzumuten ist und sie ihren Wohnsitz oder gewöhnlichen
 Aufenthalt im Geltungsbereich dieses Gesetzes hat. Für Frauen, die
 Anspruch auf Leistungen nach dem Asylbewerberleistungsgesetz haben,
-gilt § 10a Absatz 3 Satz 4 des Asylbewerberleistungsgesetzes
+gilt § 10a Absatz 3 Satz 4 und 5 des Asylbewerberleistungsgesetzes
 entsprechend.
 
 (2) Einer Frau ist die Aufbringung der Mittel im Sinne des Absatzes 1
@@ -597,22 +629,339 @@ Familie, Senioren, Frauen und Jugend macht die veränderten Beträge im
 Bundesanzeiger bekannt.
 
 
-### § 25 Übergangsvorschriften
+## Abschnitt 6 - Vertrauliche Geburt
 
-(1) Abweichend von § 19 Absatz 2 Satz 1 gilt für Frauen, die in dem in
-Artikel 3 des Einigungsvertrages genannten Gebiet ihren Wohnsitz oder
-gewöhnlichen Aufenthalt haben, eine Einkommensgrenze in Höhe von 990
-Euro; der Zuschlag für Kinder nach § 19 Absatz 2 Satz 2 beträgt 237
-Euro; bei den Kosten der Unterkunft nach § 19 Absatz 2 Satz 3 wird ein
-264 Euro übersteigender Mehrbetrag bis zur Höhe von 294 Euro
-berücksichtigt.
 
-(2) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
-setzt für das in Artikel 3 des Einigungsvertrages genannte Gebiet im
-Einvernehmen mit dem Bundesministerium für Gesundheit und dem
-Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
-des Bundesrates die Beträge nach Absatz 1 unter Berücksichtigung der
-Einkommensentwicklung in dem bezeichneten Gebiet jährlich zum 1. Juli
-neu fest, bis Übereinstimmung mit den im übrigen Geltungsbereich des
-Gesetzes geltenden Beträgen besteht.
+
+### § 25 Beratung zur vertraulichen Geburt
+
+(1) Eine nach § 2 Absatz 4 beratene Schwangere, die ihre Identität
+nicht preisgeben möchte, ist darüber zu informieren, dass eine
+vertrauliche Geburt möglich ist. Vertrauliche Geburt ist eine
+Entbindung, bei der die Schwangere ihre Identität nicht offenlegt und
+stattdessen die Angaben nach § 26 Absatz 2 Satz 2 macht.
+
+(2) Vorrangiges Ziel der Beratung ist es, der Schwangeren eine
+medizinisch betreute Entbindung zu ermöglichen und Hilfestellung
+anzubieten, so dass sie sich für ein Leben mit dem Kind entscheiden
+kann. Die Beratung umfasst insbesondere:
+
+1.  die Information über den Ablauf des Verfahrens und die Rechtsfolgen
+    einer vertraulichen Geburt,
+
+
+2.  die Information über die Rechte des Kindes; dabei ist die Bedeutung
+    der Kenntnis der Herkunft von Mutter und Vater für die Entwicklung des
+    Kindes hervorzuheben,
+
+
+3.  die Information über die Rechte des Vaters,
+
+
+4.  die Darstellung des üblichen Verlaufs und Abschlusses eines
+    Adoptionsverfahrens,
+
+
+5.  die Information, wie eine Frau ihre Rechte gegenüber ihrem Kind nach
+    einer vertraulichen Geburt unter Aufgabe ihrer Anonymität geltend
+    machen kann, sowie
+
+
+6.  die Information über das Verfahren nach den §§ 31 und 32.
+
+
+
+
+(3) Durch die Information nach Absatz 2 Satz 2 Nummer 2 und 3 soll die
+Bereitschaft der Schwangeren gefördert werden, dem Kind möglichst
+umfassend Informationen über seine Herkunft und die Hintergründe
+seiner Abgabe mitzuteilen.
+
+(4) Die Beratung und Begleitung soll in Kooperation mit der
+Adoptionsvermittlungsstelle erfolgen.
+
+(5) Lehnt die Frau eine vertrauliche Geburt ab, so ist sie darüber zu
+informieren, dass ihr das Angebot der anonymen Beratung und Hilfen
+jederzeit weiter zur Verfügung steht.
+
+
+### § 26 Das Verfahren der vertraulichen Geburt
+
+(1) Wünscht die Schwangere eine vertrauliche Geburt, wählt sie
+
+1.  einen Vor- und einen Familiennamen, unter dem sie im Verfahren der
+    vertraulichen Geburt handelt (Pseudonym), und
+
+
+2.  je einen oder mehrere weibliche und einen oder mehrere männliche
+    Vornamen für das Kind.
+
+
+
+
+(2) Die Beratungsstelle hat einen Nachweis für die Herkunft des Kindes
+zu erstellen. Dafür nimmt sie die Vornamen und den Familiennamen der
+Schwangeren, ihr Geburtsdatum und ihre Anschrift auf und überprüft
+diese Angaben anhand eines gültigen zur Identitätsfeststellung der
+Schwangeren geeigneten Ausweises.
+
+(3) Der Herkunftsnachweis ist in einem Umschlag so zu verschließen,
+dass ein unbemerktes Öffnen verhindert wird. Auf dem Umschlag sind zu
+vermerken:
+
+1.  die Tatsache, dass er einen Herkunftsnachweis enthält,
+
+
+2.  das Pseudonym,
+
+
+3.  der Geburtsort und das Geburtsdatum des Kindes,
+
+
+4.  der Name und die Anschrift der geburtshilflichen Einrichtung oder der
+    zur Leistung von Geburtshilfe berechtigten Person, bei der die
+    Anmeldung nach Absatz 4 erfolgt ist, und
+
+
+5.  die Anschrift der Beratungsstelle.
+
+
+
+
+(4) Mit dem Hinweis, dass es sich um eine vertrauliche Geburt handelt,
+meldet die Beratungsstelle die Schwangere unter deren Pseudonym in
+einer geburtshilflichen Einrichtung oder bei einer zur Leistung von
+Geburtshilfe berechtigten Person zur Entbindung an. Diese Einrichtung
+oder Person kann die Schwangere frei wählen. Die Beratungsstelle teilt
+bei der Anmeldung die nach Absatz 1 Nummer 2 gewählten Vornamen für
+das Kind mit.
+
+(5) Die Beratungsstelle teilt dem am Geburtsort zuständigen Jugendamt
+folgende Angaben mit:
+
+1.  das Pseudonym der Schwangeren,
+
+
+2.  den voraussichtlichen Geburtstermin und
+
+
+3.  die Einrichtung oder die zur Leistung von Geburtshilfe berechtigte
+    Person, bei der die Anmeldung nach Absatz 4 erfolgt ist.
+
+
+
+
+(6) Der Leiter oder die Leiterin der Einrichtung der Geburtshilfe, in
+der die Schwangere geboren hat, teilt der Beratungsstelle nach Absatz
+4 Satz 1 unverzüglich das Geburtsdatum und den Geburtsort des Kindes
+mit. Das Gleiche gilt bei einer Hausgeburt für die zur Leistung von
+Geburtshilfe berechtigte Person.
+
+(7) Das Standesamt teilt dem Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben den beurkundeten Namen des Kindes
+zusammen mit dem Pseudonym der Mutter mit.
+
+(8) Nachrichten der Frau an das Kind werden von der Beratungsstelle an
+die Adoptionsvermittlungsstelle weitergeleitet und dort in die
+entsprechende Vermittlungsakte aufgenommen; bei nicht adoptierten
+Kindern werden sie an das Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben weitergeleitet.
+
+
+### § 27 Umgang mit dem Herkunftsnachweis
+
+(1) Die Beratungsstelle übersendet den Umschlag mit dem
+Herkunftsnachweis an das Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben zur sicheren Verwahrung, sobald sie
+Kenntnis von der Geburt des Kindes erlangt hat.
+
+(2) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben
+vermerkt den vom Standesamt nach § 26 Absatz 7 mitgeteilten Namen des
+Kindes auf dem Umschlag, der seinen Herkunftsnachweis enthält.
+
+
+### § 28 Beratungsstellen zur Betreuung der vertraulichen Geburt
+
+(1) Beratungsstellen nach den §§ 3 und 8 können die Beratung zur
+vertraulichen Geburt durchführen, wenn sie die Gewähr für eine
+ordnungsgemäße Durchführung des Verfahrens der vertraulichen Geburt
+nach den Bestimmungen dieses Abschnitts bieten sowie über hinreichend
+persönlich und fachlich qualifizierte Beratungsfachkräfte verfügen.
+
+(2) Um die Beratung zur vertraulichen Geburt wohnortnah durchzuführen,
+können die Beratungsstellen nach den §§ 3 und 8 eine
+Beratungsfachkraft nach Absatz 1 hinzuziehen.
+
+
+### § 29 Beratung in Einrichtungen der Geburtshilfe oder bei Hausgeburten
+
+(1) Der Leiter oder die Leiterin einer Einrichtung der Geburtshilfe,
+die eine Schwangere ohne Feststellung ihrer Identität zur Entbindung
+aufnimmt, hat unverzüglich eine Beratungsstelle nach den §§ 3 und 8 im
+örtlichen Einzugsbereich über die Aufnahme zu informieren. Das Gleiche
+gilt für eine zur Leistung von Geburtshilfe berechtigte Person bei
+einer Hausgeburt.
+
+(2) Die unterrichtete Beratungsstelle sorgt dafür, dass der
+Schwangeren die Beratung zur vertraulichen Geburt und deren
+Durchführung nach Maßgabe dieses Abschnitts unverzüglich von einer
+Beratungsfachkraft nach § 28 persönlich angeboten wird. Die Schwangere
+darf nicht zur Annahme der Beratung gedrängt werden.
+
+(3) Die Verpflichtung nach Absatz 2 besteht auch, wenn die Frau ihr
+Kind bereits geboren hat.
+
+
+### § 30 Beratung nach der Geburt des Kindes
+
+(1) Der Mutter ist auch nach der Geburt des Kindes Beratung nach § 2
+Absatz 4 und § 25 Absatz 2 und 3 anzubieten. Dies gilt auch dann, wenn
+kein Herkunftsnachweis erstellt worden ist.
+
+(2) Betrifft die Beratung die Rücknahme des Kindes, soll die
+Beratungsstelle die Mutter über die Leistungsangebote für Eltern im
+örtlichen Einzugsbereich informieren. Will die Mutter ihr Kind
+zurückerhalten, soll die Beratungsstelle darauf hinwirken, dass sie
+Hilfe in Anspruch nimmt. Die Beratungsstelle bietet der Schwangeren
+kontinuierlich Hilfestellung zur Lösung ihrer psychosozialen
+Konfliktlage an.
+
+
+### § 31 Einsichtsrecht des Kindes in den Herkunftsnachweis
+
+(1) Mit Vollendung des 16. Lebensjahres hat das vertraulich geborene
+Kind das Recht, den beim Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben verwahrten Herkunftsnachweis
+einzusehen oder Kopien zu verlangen (Einsichtsrecht).
+
+(2) Die Mutter kann Belange, die dem Einsichtsrecht entgegenstehen, ab
+der Vollendung des 15. Lebensjahres des Kindes unter ihrem Pseudonym
+nach § 26 Absatz 1 Nummer 1 bei einer Beratungsstelle nach den §§ 3
+und 8 erklären. Sie hat dabei die Angabe nach § 26 Absatz 3 Satz 2
+Nummer 3 zu machen. Die Beratungsstelle zeigt der Mutter Hilfsangebote
+auf und erörtert mit ihr mögliche Maßnahmen zur Abwehr der
+befürchteten Gefahren. Sie hat die Mutter darüber zu informieren, dass
+das Kind sein Einsichtsrecht gerichtlich geltend machen kann.
+
+(3) Bleibt die Mutter bei ihrer Erklärung nach Absatz 2, so hat sie
+gegenüber der Beratungsstelle eine Person oder Stelle zu benennen, die
+für den Fall eines familiengerichtlichen Verfahrens die Rechte der
+Mutter im eigenen Namen geltend macht (Verfahrensstandschafter). Der
+Verfahrensstandschafter darf die Identität der Mutter nicht ohne deren
+Einwilligung offenbaren. Die Mutter ist von der Beratungsstelle
+darüber zu informieren, dass sie dafür zu sorgen hat, dass diese
+Person oder Stelle zur Übernahme der Verfahrensstandschaft bereit und
+für das Familiengericht erreichbar ist. Die Beratungsstelle
+unterrichtet das Bundesamt für Familie und zivilgesellschaftliche
+Aufgaben unverzüglich über die Erklärung der Mutter und ihre Angaben
+zur Person oder Stelle.
+
+(4) Das Bundesamt für Familie und zivilgesellschaftliche Aufgaben darf
+dem Kind bis zum rechtskräftigen Abschluss eines familiengerichtlichen
+Verfahrens nach § 32 keine Einsicht gewähren, wenn die Mutter eine
+Erklärung nach Absatz 2 Satz 1 abgegeben und eine Person oder Stelle
+nach Absatz 3 Satz 1 benannt hat.
+
+
+### § 32 Familiengerichtliches Verfahren
+
+(1) Verweigert das Bundesamt für Familie und zivilgesellschaftliche
+Aufgaben dem Kind die Einsicht in seinen Herkunftsnachweis nach § 31
+Absatz 4, entscheidet das Familiengericht auf Antrag des Kindes über
+dessen Einsichtsrecht. Das Familiengericht hat zu prüfen, ob das
+Interesse der leiblichen Mutter an der weiteren Geheimhaltung ihrer
+Identität aufgrund der durch die Einsicht befürchteten Gefahren für
+Leib, Leben, Gesundheit, persönliche Freiheit oder ähnliche
+schutzwürdige Belange gegenüber dem Interesse des Kindes auf Kenntnis
+seiner Abstammung überwiegt. Ausschließlich zuständig ist das
+Familiengericht, in dessen Bezirk das Kind seinen gewöhnlichen
+Aufenthalt hat. Ist eine Zuständigkeit eines deutschen Gerichts nach
+Satz 3 nicht gegeben, ist das Amtsgericht Schöneberg in Berlin
+ausschließlich zuständig.
+
+(2) In diesem Verfahren gelten die Vorschriften des Ersten Buches des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend, soweit
+nachfolgend nichts anderes geregelt ist.
+
+(3) Beteiligte des Verfahrens sind:
+
+1.  das Kind,
+
+
+2.  das Bundesamt für Familie und zivilgesellschaftliche Aufgaben,
+
+
+3.  der nach § 31 Absatz 3 Satz 1 benannte Verfahrensstandschafter.
+
+
+
+Das Gericht kann die Mutter persönlich anhören. Hört es die Mutter an,
+so hat die Anhörung in Abwesenheit der übrigen Beteiligten zu
+erfolgen. Diese sind unter Wahrung der Anonymität der Mutter über das
+Ergebnis der Anhörung zu unterrichten. Der Beschluss des
+Familiengerichts wird erst mit Rechtskraft wirksam. Die Entscheidung
+wirkt auch für und gegen die Mutter. In dem Verfahren werden keine
+Kosten erhoben. § 174 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit ist entsprechend anzuwenden.
+
+(4) Erklären sich der Verfahrensstandschafter und die Mutter in dem
+Verfahren binnen einer vom Gericht zu bestimmenden Frist nicht, wird
+vermutet, dass schutzwürdige Belange der Mutter nach Absatz 1 Satz 2
+nicht vorliegen.
+
+(5) Wird der Antrag des Kindes zurückgewiesen, kann das Kind
+frühestens drei Jahre nach Rechtskraft des Beschlusses erneut einen
+Antrag beim Familiengericht stellen.
+
+
+### § 33 Dokumentations- und Berichtspflicht
+
+(1) Die Beratungsstelle fertigt über jedes Beratungsgespräch unter dem
+Pseudonym der Schwangeren eine Aufzeichnung an, die insbesondere
+Folgendes dokumentiert:
+
+1.  die Unterrichtungen nach § 26 Absatz 4 und 5,
+
+
+2.  die ordnungsgemäße Datenaufnahme nach § 26 Absatz 2 sowie die
+    Versendung des Herkunftsnachweises nach § 27 Absatz 1 und
+
+
+3.  die Fertigung und Versendung einer Nachricht nach § 26 Absatz 8.
+
+
+
+Die Anonymität der Schwangeren ist zu wahren.
+
+(2) Die Beratungsstellen sind verpflichtet, auf der Grundlage der
+Dokumentation die mit der vertraulichen Geburt gesammelten Erfahrungen
+jährlich in einem schriftlichen Bericht niederzulegen, der über die
+zuständige Landesbehörde dem Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben übermittelt wird.
+
+
+### § 34 Kostenübernahme
+
+(1) Der Bund übernimmt die Kosten, die im Zusammenhang mit der Geburt
+sowie der Vor- und Nachsorge entstehen. Die Kostenübernahme erfolgt
+entsprechend der Vergütung für Leistungen der gesetzlichen
+Krankenversicherung bei Schwangerschaft und Mutterschaft.
+
+(2) Der Träger der Einrichtung, in der die Geburtshilfe stattgefunden
+hat, die zur Leistung von Geburtshilfe berechtigte Person, die
+Geburtshilfe geleistet hat, sowie andere beteiligte Leistungserbringer
+können diese Kosten unmittelbar gegenüber dem Bund geltend machen.
+
+(3) Macht die Mutter nach der Geburt die für den Geburtseintrag
+erforderlichen Angaben, kann der Bund die nach Absatz 1 übernommenen
+Kosten von der Krankenversicherung zurückfordern.
+
+(4) Die Aufgaben nach den Absätzen 2 und 3 werden dem Bundesamt für
+Familie und zivilgesellschaftliche Aufgaben übertragen.
+
+(5) Das Standesamt teilt dem Bundesamt für Familie und
+zivilgesellschaftliche Aufgaben im Fall des Absatzes 3 Namen und
+Anschrift der Mutter sowie ihr Pseudonym mit.
 

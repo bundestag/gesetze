@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1897
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 66 G v. 5.2.2009 I 160
+:   Art. 8 G v. 3.4.2013 I 610
 
 
 ## Abschnitt 1 - Allgemeiner Teil
@@ -546,19 +546,14 @@ wenn die unterschiedliche Behandlung
 
 
 
-(2) Eine unterschiedliche Behandlung wegen des Geschlechts ist im
-Falle des § 19 Abs. 1 Nr. 2 bei den Prämien oder Leistungen nur
-zulässig, wenn dessen Berücksichtigung bei einer auf relevanten und
-genauen versicherungsmathematischen und statistischen Daten beruhenden
-Risikobewertung ein bestimmender Faktor ist. Kosten im Zusammenhang
-mit Schwangerschaft und Mutterschaft dürfen auf keinen Fall zu
-unterschiedlichen Prämien oder Leistungen führen. Eine
-unterschiedliche Behandlung wegen der Religion, einer Behinderung, des
-Alters oder der sexuellen Identität ist im Falle des § 19 Abs. 1 Nr. 2
-nur zulässig, wenn diese auf anerkannten Prinzipien risikoadäquater
-Kalkulation beruht, insbesondere auf einer versicherungsmathematisch
-ermittelten Risikobewertung unter Heranziehung statistischer
-Erhebungen.
+(2) Kosten im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen
+auf keinen Fall zu unterschiedlichen Prämien oder Leistungen führen.
+Eine unterschiedliche Behandlung wegen der Religion, einer
+Behinderung, des Alters oder der sexuellen Identität ist im Falle des
+§ 19 Abs. 1 Nr. 2 nur zulässig, wenn diese auf anerkannten Prinzipien
+risikoadäquater Kalkulation beruht, insbesondere auf einer
+versicherungsmathematisch ermittelten Risikobewertung unter
+Heranziehung statistischer Erhebungen.
 
 
 ### § 21 Ansprüche
@@ -870,4 +865,13 @@ Dezember 2006 begründet worden sind. Satz 1 gilt nicht für spätere
 Gegenstand haben, ist § 19 Abs. 1 nicht anzuwenden, wenn diese vor dem
 22\. Dezember 2007 begründet worden sind. Satz 1 gilt nicht für spätere
 Änderungen solcher Schuldverhältnisse.
+
+(5) Bei Versicherungsverhältnissen, die vor dem 21. Dezember 2012
+begründet werden, ist eine unterschiedliche Behandlung wegen des
+Geschlechts im Falle des § 19 Absatz 1 Nummer 2 bei den Prämien oder
+Leistungen nur zulässig, wenn dessen Berücksichtigung bei einer auf
+relevanten und genauen versicherungsmathematischen und statistischen
+Daten beruhenden Risikobewertung ein bestimmender Faktor ist. Kosten
+im Zusammenhang mit Schwangerschaft und Mutterschaft dürfen auf keinen
+Fall zu unterschiedlichen Prämien oder Leistungen führen.
 

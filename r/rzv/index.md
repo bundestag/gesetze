@@ -60,9 +60,9 @@ beschriebenen Aufgaben wahr.
 Das Max Rubner–Institut nimmt die Funktion eines nationalen
 Referenzlaboratoriums mit den in Artikel 33 Absatz 1 der Verordnung
 (EG) Nr.
-882/2004              des Europäischen Parlaments und des Rates vom
-29\. April 2004 über amtliche Kontrollen zur Überprüfung der Einhaltung
-des Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über
+882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
+über amtliche Kontrollen zur Überprüfung der Einhaltung des
+Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über
 Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191
 vom 28.5.2004, S. 1) in der jeweils geltenden Fassung beschriebenen
 Aufgaben für die beschriebenen Bereiche nach Anhang VII Teil I Nummer

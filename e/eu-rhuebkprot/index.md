@@ -4,7 +4,7 @@ Title: Protokoll - vom Rat gemäß Artikel 34 des Vertrags über die Europäisch
   Mitgliedstaaten der Europäischen Union
 jurabk: EU-RhÜbkProt
 layout: default
-origslug: eu-rh_bkprot
+origslug: eu-rhuebkprot
 slug: eu-rhuebkprot
 
 ---

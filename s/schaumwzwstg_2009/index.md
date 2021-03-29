@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1896
 
 Zuletzt geändert durch
-:   Art. 4 G v. 16.6.2011 I 1090
-
-Mittelbare änderung durch
-:   Art. 5 G v. 16.6.2011 I 1090 ist berücksichtigt
+:   Art. 6 G v. 27.8.2017 I 3299 mWv 1.1.2018
 
 
 ## Teil 1 - Schaumwein
@@ -737,8 +734,7 @@ nachzuweisen.
 
 
 Wird Schaumwein aus einem Steuerlager an Personen abgegeben, die nicht
-im Besitz einer gültigen Erlaubnis nach § 23 Absatz 2 in Verbindung
-mit § 153 Absatz 1 des Branntweinmonopolgesetzes sind, entsteht die
+im Besitz einer gültigen Erlaubnis nach § 23a sind, entsteht die
 Steuer nach Absatz 1. Steuerschuldner werden neben dem
 Steuerlagerinhaber mit Inbesitznahme des Schaumweins die Personen nach
 Satz 2.
@@ -1076,8 +1072,8 @@ Vorschriften zu den Absätzen 1 und 3 zu erlassen.
 (1) Schaumwein ist von der Steuer befreit, wenn er gewerblich
 verwendet wird
 
-1.  zur Herstellung von Arzneimitteln mit Ausnahme reiner Alkohol-Wasser-
-    Mischungen, durch dazu nach Arzneimittelrecht Befugte,
+1.  zur Herstellung von Arzneimitteln durch dazu nach Arzneimittelrecht
+    Befugte,
 
 
 2.  zur Herstellung von Essig,
@@ -1423,17 +1419,32 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-4.  zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+4.  im Benehmen mit dem Bundesministerium des Innern alternativ zur
+    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren
+    zuzulassen, das den Datenübermittler authentifiziert und die
+    Vertraulichkeit und Integrität des elektronisch übermittelten
+    Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung
+    gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von
+    der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens
+    vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung
+    auch durch Verweis auf Veröffentlichungen sachverständiger Stellen
+    geregelt werden;
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+5.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -1442,43 +1453,35 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist;
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
 
-5.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
+6.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
     ergeben;
 
 
-6.  zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in
+7.  zur Sicherung des Steueraufkommens anzuordnen, dass Schaumwein, der in
     Fertigpackungen in den freien Verkehr des Steuergebiets gelangt, zu
     diesem Zeitpunkt durch Steuerzeichen gekennzeichnet sein muss, und
     Schaumwein, der im freien Verkehr zu gewerblichen Zwecken in
@@ -1553,9 +1556,9 @@ Zwischenerzeugnisse
 Die Vorschrift des § 14 Absatz 2 Nummer 2 in Verbindung mit Absatz 1
 über die Steuerentstehung bei der Herstellung ohne Erlaubnis nach § 5
 findet auf Zwischenerzeugnisse keine Anwendung, sofern die für die
-Bestandteile (Branntwein, alkoholische Getränke) entrichtete
-Verbrauchsteuer insgesamt nicht niedriger ist als die Steuer für das
-Zwischenerzeugnis.
+Bestandteile (Alkohol im Sinne des Alkoholsteuergesetzes, alkoholische
+Getränke) entrichtete Verbrauchsteuer insgesamt nicht niedriger ist
+als die Steuer für das Zwischenerzeugnis.
 
 
 ## Teil 3 - Wein

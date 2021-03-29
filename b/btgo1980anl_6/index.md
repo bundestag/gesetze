@@ -18,8 +18,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 1237, 1261
 
-Zuletzt geändert durch
-:   Nr. 2 Bek. v. 15. 7.2002 I 3012
+Geändert durch
+:   Nr. 2 d. Ausschusses für Wahlprüfung, Immunität und Geschäftsordnung d. Bundestages v. 27.6.2002 gem. Bek. v. 15.7.2002 I 3012
 
 
 ## A. - Grundsätze in Immunitätsangelegenheiten

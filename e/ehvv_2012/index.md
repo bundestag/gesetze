@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2048
 
-Geändert durch
-:   Art. 5 G v. 21.7.2011 I 1475
+Zuletzt geändert durch
+:   Art. 111 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -84,12 +84,12 @@ durch Gebühreneinnahmen gedeckten Kosten der Deutschen
 Emissionshandelsstelle beim Umweltbundesamt für das jeweilige
 Haushaltsjahr erforderlich sind; diese Kosten ergeben sich aus dem
 Bundeshaushaltsplan, Einzelplan des Bundesministeriums für Umwelt,
-Naturschutz und Reaktorsicherheit, Kapitel 1605 „Umweltbundesamt“.
-Überdeckungen und Unterdeckungen sind auf den zukünftigen
-Refinanzierungsbedarf anzurechnen. Im Jahr 2012 erhöht sich die Menge
-an Berechtigungen nach Absatz 1 Nummer 2 insgesamt um eine Anzahl an
-Berechtigungen, deren Nettoerlöse aus der Versteigerung die
-Gesamtausgaben des Umweltbundesamtes im Zusammenhang mit der
+Naturschutz, Bau und Reaktorsicherheit, Kapitel 1605
+„Umweltbundesamt“. Überdeckungen und Unterdeckungen sind auf den
+zukünftigen Refinanzierungsbedarf anzurechnen. Im Jahr 2012 erhöht
+sich die Menge an Berechtigungen nach Absatz 1 Nummer 2 insgesamt um
+eine Anzahl an Berechtigungen, deren Nettoerlöse aus der Versteigerung
+die Gesamtausgaben des Umweltbundesamtes im Zusammenhang mit der
 Rückerstattung der Allgemeinen Emissionshandelsgebühr nach der
 Emissionshandels-Kostenverordnung 2007 decken. Der
 Refinanzierungsbedarf nach den Sätzen 1 und 3 wird anteilig aus den

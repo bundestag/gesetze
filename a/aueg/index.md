@@ -2,7 +2,7 @@
 Title: Gesetz zur Regelung der Arbeitnehmerüberlassung
 jurabk: AÜG
 layout: default
-origslug: a_g
+origslug: aueg
 slug: aueg
 
 ---
@@ -19,38 +19,80 @@ Neugefasst durch
 :   Bek. v. 3. 2.1995 I 158;
 
 Zuletzt geändert durch
-:   Art. 26 G v. 20.12.2011 I 2854
+:   Art. 1 G v. 21.2.2017 I 258
 
 
-## § 1 Erlaubnispflicht
+## § 1 Arbeitnehmerüberlassung, Erlaubnispflicht
 
 (1) Arbeitgeber, die als Verleiher Dritten (Entleihern) Arbeitnehmer
 (Leiharbeitnehmer) im Rahmen ihrer wirtschaftlichen Tätigkeit zur
-Arbeitsleistung überlassen wollen, bedürfen der Erlaubnis. Die
-Überlassung von Arbeitnehmern an Entleiher erfolgt vorübergehend. Die
-Abordnung von Arbeitnehmern zu einer zur Herstellung eines Werkes
-gebildeten Arbeitsgemeinschaft ist keine Arbeitnehmerüberlassung, wenn
-der Arbeitgeber Mitglied der Arbeitsgemeinschaft ist, für alle
-Mitglieder der Arbeitsgemeinschaft Tarifverträge desselben
-Wirtschaftszweiges gelten und alle Mitglieder auf Grund des
-Arbeitsgemeinschaftsvertrages zur selbständigen Erbringung von
-Vertragsleistungen verpflichtet sind. Für einen Arbeitgeber mit
-Geschäftssitz in einem anderen Mitgliedstaat des Europäischen
-Wirtschaftsraumes ist die Abordnung von Arbeitnehmern zu einer zur
-Herstellung eines Werkes gebildeten Arbeitsgemeinschaft auch dann
-keine Arbeitnehmerüberlassung, wenn für ihn deutsche Tarifverträge
-desselben Wirtschaftszweiges wie für die anderen Mitglieder der
-Arbeitsgemeinschaft nicht gelten, er aber die übrigen Voraussetzungen
-des Satzes 2 erfüllt.
+Arbeitsleistung überlassen (Arbeitnehmerüberlassung) wollen, bedürfen
+der Erlaubnis. Arbeitnehmer werden zur Arbeitsleistung überlassen,
+wenn sie in die Arbeitsorganisation des Entleihers eingegliedert sind
+und seinen Weisungen unterliegen. Die Überlassung und das
+Tätigwerdenlassen von Arbeitnehmern als Leiharbeitnehmer ist nur
+zulässig, soweit zwischen dem Verleiher und dem Leiharbeitnehmer ein
+Arbeitsverhältnis besteht. Die Überlassung von Arbeitnehmern ist
+vorübergehend bis zu einer Überlassungshöchstdauer nach Absatz 1b
+zulässig. Verleiher und Entleiher haben die Überlassung von
+Leiharbeitnehmern in ihrem Vertrag ausdrücklich als
+Arbeitnehmerüberlassung zu bezeichnen, bevor sie den Leiharbeitnehmer
+überlassen oder tätig werden lassen. Vor der Überlassung haben sie die
+Person des Leiharbeitnehmers unter Bezugnahme auf diesen Vertrag zu
+konkretisieren.
+
+(1a) Die Abordnung von Arbeitnehmern zu einer zur Herstellung eines
+Werkes gebildeten Arbeitsgemeinschaft ist keine
+Arbeitnehmerüberlassung, wenn der Arbeitgeber Mitglied der
+Arbeitsgemeinschaft ist, für alle Mitglieder der Arbeitsgemeinschaft
+Tarifverträge desselben Wirtschaftszweiges gelten und alle Mitglieder
+auf Grund des Arbeitsgemeinschaftsvertrages zur selbständigen
+Erbringung von Vertragsleistungen verpflichtet sind. Für einen
+Arbeitgeber mit Geschäftssitz in einem anderen Mitgliedstaat des
+Europäischen Wirtschaftsraumes ist die Abordnung von Arbeitnehmern zu
+einer zur Herstellung eines Werkes gebildeten Arbeitsgemeinschaft auch
+dann keine Arbeitnehmerüberlassung, wenn für ihn deutsche
+Tarifverträge desselben Wirtschaftszweiges wie für die anderen
+Mitglieder der Arbeitsgemeinschaft nicht gelten, er aber die übrigen
+Voraussetzungen des Satzes 1 erfüllt.
+
+(1b) Der Verleiher darf denselben Leiharbeitnehmer nicht länger als 18
+aufeinander folgende Monate demselben Entleiher überlassen; der
+Entleiher darf denselben Leiharbeitnehmer nicht länger als 18
+aufeinander folgende Monate tätig werden lassen. Der Zeitraum
+vorheriger Überlassungen durch denselben oder einen anderen Verleiher
+an denselben Entleiher ist vollständig anzurechnen, wenn zwischen den
+Einsätzen jeweils nicht mehr als drei Monate liegen. In einem
+Tarifvertrag von Tarifvertragsparteien der Einsatzbranche kann eine
+von Satz 1 abweichende Überlassungshöchstdauer festgelegt werden. Im
+Geltungsbereich eines Tarifvertrages nach Satz 3 können abweichende
+tarifvertragliche Regelungen im Betrieb eines nicht tarifgebundenen
+Entleihers durch Betriebs- oder Dienstvereinbarung übernommen werden.
+In einer auf Grund eines Tarifvertrages von Tarifvertragsparteien der
+Einsatzbranche getroffenen Betriebs- oder Dienstvereinbarung kann eine
+von Satz 1 abweichende Überlassungshöchstdauer festgelegt werden.
+Können auf Grund eines Tarifvertrages nach Satz 5 abweichende
+Regelungen in einer Betriebs- oder Dienstvereinbarung getroffen
+werden, kann auch in Betrieben eines nicht tarifgebundenen Entleihers
+bis zu einer Überlassungshöchstdauer von 24 Monaten davon Gebrauch
+gemacht werden, soweit nicht durch diesen Tarifvertrag eine von Satz 1
+abweichende Überlassungshöchstdauer für Betriebs- oder
+Dienstvereinbarungen festgelegt ist. Unterfällt der Betrieb des nicht
+tarifgebundenen Entleihers bei Abschluss einer Betriebs- oder
+Dienstvereinbarung nach Satz 4 oder Satz 6 den Geltungsbereichen
+mehrerer Tarifverträge, ist auf den für die Branche des Entleihers
+repräsentativen Tarifvertrag abzustellen. Die Kirchen und die
+öffentlich-rechtlichen Religionsgesellschaften können von Satz 1
+abweichende Überlassungshöchstdauern in ihren Regelungen vorsehen.
 
 (2) Werden Arbeitnehmer Dritten zur Arbeitsleistung überlassen und
 übernimmt der Überlassende nicht die üblichen Arbeitgeberpflichten
 oder das Arbeitgeberrisiko (§ 3 Abs. 1 Nr. 1 bis 3), so wird vermutet,
 daß der Überlassende Arbeitsvermittlung betreibt.
 
-(3) Dieses Gesetz ist mit Ausnahme des § 1b Satz 1, des § 16 Abs. 1
-Nr. 1b und Abs. 2 bis 5 sowie der §§ 17 und 18 nicht anzuwenden auf
-die Arbeitnehmerüberlassung
+(3) Dieses Gesetz ist mit Ausnahme des § 1b Satz 1, des § 16 Absatz 1
+Nummer 1f und Absatz 2 bis 5 sowie der §§ 17 und 18 nicht anzuwenden
+auf die Arbeitnehmerüberlassung
 
 1.  zwischen Arbeitgebern desselben Wirtschaftszweiges zur Vermeidung von
     Kurzarbeit oder Entlassungen, wenn ein für den Entleiher und Verleiher
@@ -64,7 +106,28 @@ die Arbeitnehmerüberlassung
 
 2a. zwischen Arbeitgebern, wenn die Überlassung nur gelegentlich erfolgt
     und der Arbeitnehmer nicht zum Zweck der Überlassung eingestellt und
-    beschäftigt wird, oder
+    beschäftigt wird,
+
+
+2b. zwischen Arbeitgebern, wenn Aufgaben eines Arbeitnehmers von dem
+    bisherigen zu dem anderen Arbeitgeber verlagert werden und auf Grund
+    eines Tarifvertrages des öffentlichen Dienstes
+
+    a)  das Arbeitsverhältnis mit dem bisherigen Arbeitgeber weiter besteht
+        und
+
+
+    b)  die Arbeitsleistung zukünftig bei dem anderen Arbeitgeber erbracht
+        wird,
+
+
+
+
+
+2c. zwischen Arbeitgebern, wenn diese juristische Personen des
+    öffentlichen Rechts sind und Tarifverträge des öffentlichen Dienstes
+    oder Regelungen der öffentlich-rechtlichen Religionsgesellschaften
+    anwenden, oder
 
 
 3.  in das Ausland, wenn der Leiharbeitnehmer in ein auf der Grundlage
@@ -161,14 +224,12 @@ erlischt, wenn der Verleiher von der Erlaubnis drei Jahre lang keinen
 Gebrauch gemacht hat.
 
 
-## § 2a Kosten
+## § 2a Gebühren und Auslagen
 
 (1) Für die Bearbeitung von Anträgen auf Erteilung und Verlängerung
-der Erlaubnis werden vom Antragsteller Kosten (Gebühren und Auslagen)
-erhoben.
+der Erlaubnis werden vom Antragsteller Gebühren und Auslagen erhoben.
 
-(2) Die Vorschriften des Verwaltungskostengesetzes sind anzuwenden.
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung die
 gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste
 Sätze und Rahmensätze vorzusehen. Die Gebühr darf im Einzelfall 2.500
 Euro nicht überschreiten.
@@ -183,29 +244,17 @@ Tatsachen die Annahme rechtfertigen, daß der Antragsteller
     Zuverlässigkeit nicht besitzt, insbesondere weil er die Vorschriften
     des Sozialversicherungsrechts, über die Einbehaltung und Abführung der
     Lohnsteuer, über die Arbeitsvermittlung, über die Anwerbung im Ausland
-    oder über die Ausländerbeschäftigung, die Vorschriften des
-    Arbeitsschutzrechts oder die arbeitsrechtlichen Pflichten nicht
-    einhält;
+    oder über die Ausländerbeschäftigung, über die Überlassungshöchstdauer
+    nach § 1 Absatz 1b, die Vorschriften des Arbeitsschutzrechts oder die
+    arbeitsrechtlichen Pflichten nicht einhält;
 
 
 2.  nach der Gestaltung seiner Betriebsorganisation nicht in der Lage ist,
     die üblichen Arbeitgeberpflichten ordnungsgemäß zu erfüllen;
 
 
-3.  dem Leiharbeitnehmer für die Zeit der Überlassung an einen Entleiher
-    die im Betrieb dieses Entleihers für einen vergleichbaren Arbeitnehmer
-    des Entleihers geltenden wesentlichen Arbeitsbedingungen
-    einschließlich des Arbeitsentgelts nicht gewährt. Ein Tarifvertrag
-    kann abweichende Regelungen zulassen, soweit er nicht die in einer
-    Rechtsverordnung nach § 3a Absatz 2 festgesetzten
-    Mindeststundenentgelte unterschreitet. Im Geltungsbereich eines
-    solchen Tarifvertrages können nicht tarifgebundene Arbeitgeber und
-    Arbeitnehmer die Anwendung der tariflichen Regelungen vereinbaren.
-    Eine abweichende tarifliche Regelung gilt nicht für Leiharbeitnehmer,
-    die in den letzten sechs Monaten vor der Überlassung an den Entleiher
-    aus einem Arbeitsverhältnis bei diesem oder einem Arbeitgeber, der mit
-    dem Entleiher einen Konzern im Sinne des § 18 des Aktiengesetzes
-    bildet, ausgeschieden sind.
+3.  dem Leiharbeitnehmer die ihm nach § 8 zustehenden Arbeitsbedingungen
+    einschließlich des Arbeitsentgelts nicht gewährt.
 
 
 
@@ -258,25 +307,26 @@ Mindeststundenentgelte im Bereich der Arbeitnehmerüberlassung
 miteinander vereinbart haben, können dem Bundesministerium für Arbeit
 und Soziales gemeinsam vorschlagen, diese als Lohnuntergrenze in einer
 Rechtsverordnung verbindlich festzusetzen; die Mindeststundenentgelte
-können nach dem jeweiligen Beschäftigungsort differenzieren. Der
+können nach dem jeweiligen Beschäftigungsort differenzieren und auch
+Regelungen zur Fälligkeit entsprechender Ansprüche einschließlich
+hierzu vereinbarter Ausnahmen und deren Voraussetzungen umfassen. Der
 Vorschlag muss für Verleihzeiten und verleihfreie Zeiten einheitliche
 Mindeststundenentgelte sowie eine Laufzeit enthalten. Der Vorschlag
 ist schriftlich zu begründen.
 
-(2) Das Bundesministerium für Arbeit und Soziales kann in einer
-Rechtsverordnung ohne Zustimmung des Bundesrates bestimmen, dass die
-vorgeschlagenen tariflichen Mindeststundenentgelte nach Absatz 1 als
-verbindliche Lohnuntergrenze auf alle in den Geltungsbereich der
-Verordnung fallenden Arbeitgeber sowie Leiharbeitnehmer Anwendung
-findet. Der Verordnungsgeber kann den Vorschlag nur inhaltlich
-unverändert in die Rechtsverordnung übernehmen.
+(2) Das Bundesministerium für Arbeit und Soziales kann, wenn dies im
+öffentlichen Interesse geboten erscheint, in einer Rechtsverordnung
+ohne Zustimmung des Bundesrates bestimmen, dass die vorgeschlagenen
+tariflichen Mindeststundenentgelte nach Absatz 1 als verbindliche
+Lohnuntergrenze auf alle in den Geltungsbereich der Verordnung
+fallenden Arbeitgeber sowie Leiharbeitnehmer Anwendung findet. Der
+Verordnungsgeber kann den Vorschlag nur inhaltlich unverändert in die
+Rechtsverordnung übernehmen.
 
-(3) Bei der Entscheidung nach Absatz 2 findet § 5 Absatz 1 Satz 1
-Nummer 2 des Tarifvertragsgesetzes entsprechend Anwendung. Der
-Verordnungsgeber hat bei seiner Entscheidung nach Absatz 2 im Rahmen
-einer Gesamtabwägung neben den Zielen dieses Gesetzes zu prüfen, ob
-eine Rechtsverordnung nach Absatz 2 insbesondere geeignet ist, die
-finanzielle Stabilität der sozialen Sicherungssysteme zu
+(3) Der Verordnungsgeber hat bei seiner Entscheidung nach Absatz 2 im
+Rahmen einer Gesamtabwägung neben den Zielen dieses Gesetzes zu
+prüfen, ob eine Rechtsverordnung nach Absatz 2 insbesondere geeignet
+ist, die finanzielle Stabilität der sozialen Sicherungssysteme zu
 gewährleisten. Der Verordnungsgeber hat zu berücksichtigen
 
 1.  die bestehenden bundesweiten Tarifverträge in der
@@ -446,83 +496,107 @@ strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz
 über Ordnungswidrigkeiten aussetzen würde.
 
 
-## § 8 Statistische Meldungen
+## § 8 Grundsatz der Gleichstellung
 
-(1) Der Verleiher hat der Erlaubnisbehörde halbjährlich statistische
-Meldungen über
+(1) Der Verleiher ist verpflichtet, dem Leiharbeitnehmer für die Zeit
+der Überlassung an den Entleiher die im Betrieb des Entleihers für
+einen vergleichbaren Arbeitnehmer des Entleihers geltenden
+wesentlichen Arbeitsbedingungen einschließlich des Arbeitsentgelts zu
+gewähren (Gleichstellungsgrundsatz). Erhält der Leiharbeitnehmer das
+für einen vergleichbaren Arbeitnehmer des Entleihers im Entleihbetrieb
+geschuldete tarifvertragliche Arbeitsentgelt oder in Ermangelung eines
+solchen ein für vergleichbare Arbeitnehmer in der Einsatzbranche
+geltendes tarifvertragliches Arbeitsentgelt, wird vermutet, dass der
+Leiharbeitnehmer hinsichtlich des Arbeitsentgelts im Sinne von Satz 1
+gleichgestellt ist. Werden im Betrieb des Entleihers Sachbezüge
+gewährt, kann ein Wertausgleich in Euro erfolgen.
 
-1.  die Zahl der überlassenen Leiharbeitnehmer getrennt nach Geschlecht,
-    nach der Staatsangehörigkeit, nach Berufsgruppen und nach der Art der
-    vor der Begründung des Vertragsverhältnisses zum Verleiher ausgeübten
-    Beschäftigung,
+(2) Ein Tarifvertrag kann vom Gleichstellungsgrundsatz abweichen,
+soweit er nicht die in einer Rechtsverordnung nach § 3a Absatz 2
+festgesetzten Mindeststundenentgelte unterschreitet. Soweit ein
+solcher Tarifvertrag vom Gleichstellungsgrundsatz abweicht, hat der
+Verleiher dem Leiharbeitnehmer die nach diesem Tarifvertrag
+geschuldeten Arbeitsbedingungen zu gewähren. Im Geltungsbereich eines
+solchen Tarifvertrages können nicht tarifgebundene Arbeitgeber und
+Arbeitnehmer die Anwendung des Tarifvertrages vereinbaren. Soweit ein
+solcher Tarifvertrag die in einer Rechtsverordnung nach § 3a Absatz 2
+festgesetzten Mindeststundenentgelte unterschreitet, hat der Verleiher
+dem Leiharbeitnehmer für jede Arbeitsstunde das im Betrieb des
+Entleihers für einen vergleichbaren Arbeitnehmer des Entleihers für
+eine Arbeitsstunde zu zahlende Arbeitsentgelt zu gewähren.
+
+(3) Eine abweichende tarifliche Regelung im Sinne von Absatz 2 gilt
+nicht für Leiharbeitnehmer, die in den letzten sechs Monaten vor der
+Überlassung an den Entleiher aus einem Arbeitsverhältnis bei diesem
+oder einem Arbeitgeber, der mit dem Entleiher einen Konzern im Sinne
+des § 18 des Aktiengesetzes bildet, ausgeschieden sind.
+
+(4) Ein Tarifvertrag im Sinne des Absatzes 2 kann hinsichtlich des
+Arbeitsentgelts vom Gleichstellungsgrundsatz für die ersten neun
+Monate einer Überlassung an einen Entleiher abweichen. Eine längere
+Abweichung durch Tarifvertrag ist nur zulässig, wenn
+
+1.  nach spätestens 15 Monaten einer Überlassung an einen Entleiher
+    mindestens ein Arbeitsentgelt erreicht wird, das in dem Tarifvertrag
+    als gleichwertig mit dem tarifvertraglichen Arbeitsentgelt
+    vergleichbarer Arbeitnehmer in der Einsatzbranche festgelegt ist, und
 
 
-2.  die Zahl der Überlassungsfälle, gegliedert nach Wirtschaftsgruppen,
-
-
-3.  die Zahl der Entleiher, denen er Leiharbeitnehmer überlassen hat,
-    gegliedert nach Wirtschaftsgruppen,
-
-
-4.  die Zahl und die Dauer der Arbeitsverhältnisse, die er mit jedem
-    überlassenen Leiharbeitnehmer eingegangen ist,
-
-
-5.  die Zahl der Beschäftigungstage jedes überlassenen Leiharbeitnehmers,
-    gegliedert nach Überlassungsfällen,
+2.  nach einer Einarbeitungszeit von längstens sechs Wochen eine
+    stufenweise Heranführung an dieses Arbeitsentgelt erfolgt.
 
 
 
-zu erstatten. Die Erlaubnisbehörde kann die Meldepflicht nach Satz 1
-einschränken.
+Im Geltungsbereich eines solchen Tarifvertrages können nicht
+tarifgebundene Arbeitgeber und Arbeitnehmer die Anwendung der
+tariflichen Regelungen vereinbaren. Der Zeitraum vorheriger
+Überlassungen durch denselben oder einen anderen Verleiher an
+denselben Entleiher ist vollständig anzurechnen, wenn zwischen den
+Einsätzen jeweils nicht mehr als drei Monate liegen.
 
-(2) Die Meldungen sind für das erste Kalenderhalbjahr bis zum 1.
-September des laufenden Jahres, für das zweite Kalenderhalbjahr bis
-zum 1. März des folgenden Jahres zu erstatten.
-
-(3) Die Erlaubnisbehörde gibt zur Durchführung des Absatzes 1
-Erhebungsvordrucke aus. Die Meldungen sind auf diesen Vordrucken zu
-erstatten. Die Richtigkeit der Angaben ist durch Unterschrift zu
-bestätigen.
-
-(4) Einzelangaben nach Absatz 1 sind von der Erlaubnisbehörde
-geheimzuhalten. Die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung
-mit § 105 Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht.
-Dies gilt nicht, soweit die Finanzbehörden die Kenntnisse für die
-Durchführung eines Verfahrens wegen einer Steuerstraftat sowie eines
-damit zusammenhängenden Besteuerungsverfahrens benötigen, an deren
-Verfolgung ein zwingendes öffentliches Interesse besteht, oder soweit
-es sich um vorsätzlich falsche Angaben des Auskunftspflichtigen oder
-der für ihn tätigen Personen handelt. Veröffentlichungen von
-Ergebnissen auf Grund von Meldungen nach Absatz 1 dürfen keine
-Einzelangaben enthalten. Eine Zusammenfassung von Angaben mehrerer
-Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
+(5) Der Verleiher ist verpflichtet, dem Leiharbeitnehmer mindestens
+das in einer Rechtsverordnung nach § 3a Absatz 2 für die Zeit der
+Überlassung und für Zeiten ohne Überlassung festgesetzte
+Mindeststundenentgelt zu zahlen.
 
 
 ## § 9 Unwirksamkeit
 
-Unwirksam sind:
+(1) Unwirksam sind:
 
 1.  Verträge zwischen Verleihern und Entleihern sowie zwischen Verleihern
     und Leiharbeitnehmern, wenn der Verleiher nicht die nach § 1
-    erforderliche Erlaubnis hat,
+    erforderliche Erlaubnis hat; der Vertrag zwischen Verleiher und
+    Leiharbeitnehmer wird nicht unwirksam, wenn der Leiharbeitnehmer
+    schriftlich bis zum Ablauf eines Monats nach dem zwischen Verleiher
+    und Entleiher für den Beginn der Überlassung vorgesehenen Zeitpunkt
+    gegenüber dem Verleiher oder dem Entleiher erklärt, dass er an dem
+    Arbeitsvertrag mit dem Verleiher festhält; tritt die Unwirksamkeit
+    erst nach Aufnahme der Tätigkeit beim Entleiher ein, so beginnt die
+    Frist mit Eintritt der Unwirksamkeit,
 
 
-2.  Vereinbarungen, die für den Leiharbeitnehmer für die Zeit der
-    Überlassung an einen Entleiher schlechtere als die im Betrieb des
-    Entleihers für einen vergleichbaren Arbeitnehmer des Entleihers
-    geltenden wesentlichen Arbeitsbedingungen einschließlich des
-    Arbeitsentgelts vorsehen; ein Tarifvertrag kann abweichende Regelungen
-    zulassen, soweit er nicht die in einer Rechtsverordnung nach § 3a
-    Absatz 2 festgesetzten Mindeststundenentgelte unterschreitet; im
-    Geltungsbereich eines solchen Tarifvertrages können nicht
-    tarifgebundene Arbeitgeber und Arbeitnehmer die Anwendung der
-    tariflichen Regelungen vereinbaren; eine abweichende tarifliche
-    Regelung gilt nicht für Leiharbeitnehmer, die in den letzten sechs
-    Monaten vor der Überlassung an den Entleiher aus einem
-    Arbeitsverhältnis bei diesem oder einem Arbeitgeber, der mit dem
-    Entleiher einen Konzern im Sinne des § 18 des Aktiengesetzes bildet,
-    ausgeschieden sind,
+1a. Arbeitsverträge zwischen Verleihern und Leiharbeitnehmern, wenn
+    entgegen § 1 Absatz 1 Satz 5 und 6 die Arbeitnehmerüberlassung nicht
+    ausdrücklich als solche bezeichnet und die Person des
+    Leiharbeitnehmers nicht konkretisiert worden ist, es sei denn, der
+    Leiharbeitnehmer erklärt schriftlich bis zum Ablauf eines Monats nach
+    dem zwischen Verleiher und Entleiher für den Beginn der Überlassung
+    vorgesehenen Zeitpunkt gegenüber dem Verleiher oder dem Entleiher,
+    dass er an dem Arbeitsvertrag mit dem Verleiher festhält,
+
+
+1b. Arbeitsverträge zwischen Verleihern und Leiharbeitnehmern mit dem
+    Überschreiten der zulässigen Überlassungshöchstdauer nach § 1 Absatz
+    1b, es sei denn, der Leiharbeitnehmer erklärt schriftlich bis zum
+    Ablauf eines Monats nach Überschreiten der zulässigen
+    Überlassungshöchstdauer gegenüber dem Verleiher oder dem Entleiher,
+    dass er an dem Arbeitsvertrag mit dem Verleiher festhält,
+
+
+2.  Vereinbarungen, die für den Leiharbeitnehmer schlechtere als die ihm
+    nach § 8 zustehenden Arbeitsbedingungen einschließlich des
+    Arbeitsentgelts vorsehen,
 
 
 2a. Vereinbarungen, die den Zugang des Leiharbeitnehmers zu den
@@ -550,67 +624,77 @@ Unwirksam sind:
 
 
 
+(2) Die Erklärung nach Absatz 1 Nummer 1, 1a oder 1b
+(Festhaltenserklärung) ist nur wirksam, wenn
 
-## § 10 Rechtsfolgen bei Unwirksamkeit, Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
+1.  der Leiharbeitnehmer diese vor ihrer Abgabe persönlich in einer
+    Agentur für Arbeit vorlegt,
+
+
+2.  die Agentur für Arbeit die abzugebende Erklärung mit dem Datum des
+    Tages der Vorlage und dem Hinweis versieht, dass sie die Identität des
+    Leiharbeitnehmers festgestellt hat, und
+
+
+3.  die Erklärung spätestens am dritten Tag nach der Vorlage in der
+    Agentur für Arbeit dem Ver- oder Entleiher zugeht.
+
+
+
+
+(3) Eine vor Beginn einer Frist nach Absatz 1 Nummer 1 bis 1b
+abgegebene Festhaltenserklärung ist unwirksam. Wird die Überlassung
+nach der Festhaltenserklärung fortgeführt, gilt Absatz 1 Nummer 1 bis
+1b. Eine erneute Festhaltenserklärung ist unwirksam. § 28e Absatz 2
+Satz 4 des Vierten Buches Sozialgesetzbuch gilt unbeschadet der
+Festhaltenserklärung.
+
+
+## § 10 Rechtsfolgen bei Unwirksamkeit
 
 (1) Ist der Vertrag zwischen einem Verleiher und einem
-Leiharbeitnehmer nach § 9 Nr. 1 unwirksam, so gilt ein
-Arbeitsverhältnis zwischen Entleiher und Leiharbeitnehmer zu dem
-zwischen dem Entleiher und dem Verleiher für den Beginn der Tätigkeit
-vorgesehenen Zeitpunkt als zustande gekommen; tritt die Unwirksamkeit
-erst nach Aufnahme der Tätigkeit beim Entleiher ein, so gilt das
-Arbeitsverhältnis zwischen Entleiher und Leiharbeitnehmer mit dem
-Eintritt der Unwirksamkeit als zustande gekommen. Das
-Arbeitsverhältnis nach Satz 1 gilt als befristet, wenn die Tätigkeit
-des Leiharbeitnehmers bei dem Entleiher nur befristet vorgesehen war
-und ein die Befristung des Arbeitsverhältnisses sachlich
-rechtfertigender Grund vorliegt. Für das Arbeitsverhältnis nach Satz 1
-gilt die zwischen dem Verleiher und dem Entleiher vorgesehene
-Arbeitszeit als vereinbart. Im übrigen bestimmen sich Inhalt und Dauer
-dieses Arbeitsverhältnisses nach den für den Betrieb des Entleihers
-geltenden Vorschriften und sonstigen Regelungen; sind solche nicht
-vorhanden, gelten diejenigen vergleichbarer Betriebe. Der
-Leiharbeitnehmer hat gegen den Entleiher mindestens Anspruch auf das
-mit dem Verleiher vereinbarte Arbeitsentgelt.
+Leiharbeitnehmer nach § 9 unwirksam, so gilt ein Arbeitsverhältnis
+zwischen Entleiher und Leiharbeitnehmer zu dem zwischen dem Entleiher
+und dem Verleiher für den Beginn der Tätigkeit vorgesehenen Zeitpunkt
+als zustande gekommen; tritt die Unwirksamkeit erst nach Aufnahme der
+Tätigkeit beim Entleiher ein, so gilt das Arbeitsverhältnis zwischen
+Entleiher und Leiharbeitnehmer mit dem Eintritt der Unwirksamkeit als
+zustande gekommen. Das Arbeitsverhältnis nach Satz 1 gilt als
+befristet, wenn die Tätigkeit des Leiharbeitnehmers bei dem Entleiher
+nur befristet vorgesehen war und ein die Befristung des
+Arbeitsverhältnisses sachlich rechtfertigender Grund vorliegt. Für das
+Arbeitsverhältnis nach Satz 1 gilt die zwischen dem Verleiher und dem
+Entleiher vorgesehene Arbeitszeit als vereinbart. Im übrigen bestimmen
+sich Inhalt und Dauer dieses Arbeitsverhältnisses nach den für den
+Betrieb des Entleihers geltenden Vorschriften und sonstigen
+Regelungen; sind solche nicht vorhanden, gelten diejenigen
+vergleichbarer Betriebe. Der Leiharbeitnehmer hat gegen den Entleiher
+mindestens Anspruch auf das mit dem Verleiher vereinbarte
+Arbeitsentgelt.
 
 (2) Der Leiharbeitnehmer kann im Fall der Unwirksamkeit seines
-Vertrags mit dem Verleiher nach § 9 Nr. 1 von diesem Ersatz des
-Schadens verlangen, den er dadurch erleidet, daß er auf die Gültigkeit
-des Vertrags vertraut. Die Ersatzpflicht tritt nicht ein, wenn der
+Vertrags mit dem Verleiher nach § 9 von diesem Ersatz des Schadens
+verlangen, den er dadurch erleidet, daß er auf die Gültigkeit des
+Vertrags vertraut. Die Ersatzpflicht tritt nicht ein, wenn der
 Leiharbeitnehmer den Grund der Unwirksamkeit kannte.
 
 (3) Zahlt der Verleiher das vereinbarte Arbeitsentgelt oder Teile des
 Arbeitsentgelts an den Leiharbeitnehmer, obwohl der Vertrag nach § 9
-Nr. 1 unwirksam ist, so hat er auch sonstige Teile des
-Arbeitsentgelts, die bei einem wirksamen Arbeitsvertrag für den
-Leiharbeitnehmer an einen anderen zu zahlen wären, an den anderen zu
-zahlen. Hinsichtlich dieser Zahlungspflicht gilt der Verleiher neben
-dem Entleiher als Arbeitgeber; beide haften insoweit als
-Gesamtschuldner.
+unwirksam ist, so hat er auch sonstige Teile des Arbeitsentgelts, die
+bei einem wirksamen Arbeitsvertrag für den Leiharbeitnehmer an einen
+anderen zu zahlen wären, an den anderen zu zahlen. Hinsichtlich dieser
+Zahlungspflicht gilt der Verleiher neben dem Entleiher als
+Arbeitgeber; beide haften insoweit als Gesamtschuldner.
 
-(4) Der Verleiher ist verpflichtet, dem Leiharbeitnehmer für die Zeit
-der Überlassung an den Entleiher die im Betrieb des Entleihers für
-einen vergleichbaren Arbeitnehmer des Entleihers geltenden
-wesentlichen Arbeitsbedingungen einschließlich des Arbeitsentgelts zu
-gewähren. Soweit ein auf das Arbeitsverhältnis anzuwendender
-Tarifvertrag abweichende Regelungen trifft (§ 3 Absatz 1 Nummer 3, § 9
-Nummer 2), hat der Verleiher dem Leiharbeitnehmer die nach diesem
-Tarifvertrag geschuldeten Arbeitsbedingungen zu gewähren. Soweit ein
-solcher Tarifvertrag die in einer Rechtsverordnung nach § 3a Absatz 2
-festgesetzten Mindeststundenentgelte unterschreitet, hat der Verleiher
-dem Leiharbeitnehmer für jede Arbeitsstunde das im Betrieb des
-Entleihers für einen vergleichbaren Arbeitnehmer des Entleihers für
-eine Arbeitsstunde zu zahlende Arbeitsentgelt zu gewähren. Im Falle
-der Unwirksamkeit der Vereinbarung zwischen Verleiher und
-Leiharbeitnehmer nach § 9 Nummer 2 hat der Verleiher dem
-Leiharbeitnehmer die im Betrieb des Entleihers für einen
-vergleichbaren Arbeitnehmer des Entleihers geltenden wesentlichen
-Arbeitsbedingungen einschließlich des Arbeitsentgelts zu gewähren.
+(4) und (5) weggefallen
 
-(5) Der Verleiher ist verpflichtet, dem Leiharbeitnehmer mindestens
-das in einer Rechtsverordnung nach § 3a Absatz 2 für die Zeit der
-Überlassung und für Zeiten ohne Überlassung festgesetzte
-Mindeststundenentgelt zu zahlen.
+
+## § 10a Rechtsfolgen bei Überlassung durch eine andere Person als den Arbeitgeber
+
+Werden Arbeitnehmer entgegen § 1 Absatz 1 Satz 3 von einer anderen
+Person überlassen und verstößt diese Person hierbei gegen § 1 Absatz 1
+Satz 1, 5 und 6 oder Absatz 1b, gelten für das Arbeitsverhältnis des
+Leiharbeitnehmers § 9 Absatz 1 Nummer 1 bis 1b und § 10 entsprechend.
 
 
 ## § 11 Sonstige Vorschriften über das Leiharbeitsverhältnis
@@ -635,7 +719,9 @@ Vertragsschluß ein Merkblatt der Erlaubnisbehörde über den
 wesentlichen Inhalt dieses Gesetzes auszuhändigen. Nichtdeutsche
 Leiharbeitnehmer erhalten das Merkblatt und den Nachweis nach Absatz 1
 auf Verlangen in ihrer Muttersprache. Die Kosten des Merkblatts trägt
-der Verleiher.
+der Verleiher. Der Verleiher hat den Leiharbeitnehmer vor jeder
+Überlassung darüber zu informieren, dass er als Leiharbeitnehmer tätig
+wird.
 
 (3) Der Verleiher hat den Leiharbeitnehmer unverzüglich über den
 Zeitpunkt des Wegfalls der Erlaubnis zu unterrichten. In den Fällen
@@ -657,11 +743,25 @@ Sozialgesetzbuch gezahlt wird; eine solche Vereinbarung kann das Recht
 des Leiharbeitnehmers auf Vergütung bis längstens zum 31. Dezember
 2011 ausschließen.
 
-(5) Der Leiharbeitnehmer ist nicht verpflichtet, bei einem Entleiher
-tätig zu sein, soweit dieser durch einen Arbeitskampf unmittelbar
-betroffen ist. In den Fällen eines Arbeitskampfs nach Satz 1 hat der
-Verleiher den Leiharbeitnehmer auf das Recht, die Arbeitsleistung zu
-verweigern, hinzuweisen.
+(5) Der Entleiher darf Leiharbeitnehmer nicht tätig werden lassen,
+wenn sein Betrieb unmittelbar durch einen Arbeitskampf betroffen ist.
+Satz 1 gilt nicht, wenn der Entleiher sicherstellt, dass
+Leiharbeitnehmer keine Tätigkeiten übernehmen, die bisher von
+Arbeitnehmern erledigt wurden, die
+
+1.  sich im Arbeitskampf befinden oder
+
+
+2.  ihrerseits Tätigkeiten von Arbeitnehmern, die sich im Arbeitskampf
+    befinden, übernommen haben.
+
+
+
+Der Leiharbeitnehmer ist nicht verpflichtet, bei einem Entleiher tätig
+zu sein, soweit dieser durch einen Arbeitskampf unmittelbar betroffen
+ist. In den Fällen eines Arbeitskampfes hat der Verleiher den
+Leiharbeitnehmer auf das Recht, die Arbeitsleistung zu verweigern,
+hinzuweisen.
 
 (6) Die Tätigkeit des Leiharbeitnehmers bei dem Entleiher unterliegt
 den für den Betrieb des Entleihers geltenden öffentlich-rechtlichen
@@ -686,15 +786,18 @@ gemacht, so gilt der Entleiher als Arbeitgeber im Sinne des Gesetzes
 ## § 12 Rechtsbeziehungen zwischen Verleiher und Entleiher
 
 (1) Der Vertrag zwischen dem Verleiher und dem Entleiher bedarf der
-Schriftform. In der Urkunde hat der Verleiher zu erklären, ob er die
-Erlaubnis nach § 1 besitzt. Der Entleiher hat in der Urkunde
-anzugeben, welche besonderen Merkmale die für den Leiharbeitnehmer
-vorgesehene Tätigkeit hat und welche berufliche Qualifikation dafür
-erforderlich ist sowie welche im Betrieb des Entleihers für einen
-vergleichbaren Arbeitnehmer des Entleihers wesentlichen
-Arbeitsbedingungen einschließlich des Arbeitsentgelts gelten;
-Letzteres gilt nicht, soweit die Voraussetzungen der in § 3 Abs. 1 Nr.
-3 und § 9 Nr. 2 genannten Ausnahme vorliegen.
+Schriftform. Wenn der Vertrag und seine tatsächliche Durchführung
+einander widersprechen, ist für die rechtliche Einordnung des
+Vertrages die tatsächliche Durchführung maßgebend. In der Urkunde hat
+der Verleiher zu erklären, ob er die Erlaubnis nach § 1 besitzt. Der
+Entleiher hat in der Urkunde anzugeben, welche besonderen Merkmale die
+für den Leiharbeitnehmer vorgesehene Tätigkeit hat und welche
+berufliche Qualifikation dafür erforderlich ist sowie welche im
+Betrieb des Entleihers für einen vergleichbaren Arbeitnehmer des
+Entleihers wesentlichen Arbeitsbedingungen einschließlich des
+Arbeitsentgelts gelten; Letzteres gilt nicht, soweit die
+Voraussetzungen der in § 8 Absatz 2 und 4 Satz 2 genannten Ausnahme
+vorliegen.
 
 (2) Der Verleiher hat den Entleiher unverzüglich über den Zeitpunkt
 des Wegfalls der Erlaubnis zu unterrichten. In den Fällen der
@@ -712,8 +815,8 @@ Der Leiharbeitnehmer kann im Falle der Überlassung von seinem
 Entleiher Auskunft über die im Betrieb des Entleihers für einen
 vergleichbaren Arbeitnehmer des Entleihers geltenden wesentlichen
 Arbeitsbedingungen einschließlich des Arbeitsentgelts verlangen; dies
-gilt nicht, soweit die Voraussetzungen der in § 3 Abs. 1 Nr. 3 und § 9
-Nr. 2 genannten Ausnahme vorliegen.
+gilt nicht, soweit die Voraussetzungen der in § 8 Absatz 2 und 4 Satz
+2 genannten Ausnahme vorliegen.
 
 
 ## § 13a Informationspflicht des Entleihers über freie Arbeitsplätze
@@ -752,6 +855,23 @@ dieser Arbeitnehmervertretungen aufzusuchen und an den Betriebs- und
 Jugendversammlungen im Entleiherbetrieb teilzunehmen. Die §§ 81, 82
 Abs. 1 und die §§ 84 bis 86 des Betriebsverfassungsgesetzes gelten im
 Entleiherbetrieb auch in bezug auf die dort tätigen Leiharbeitnehmer.
+Soweit Bestimmungen des Betriebsverfassungsgesetzes mit Ausnahme des §
+112a, des Europäische Betriebsräte-Gesetzes oder der auf Grund der
+jeweiligen Gesetze erlassenen Wahlordnungen eine bestimmte Anzahl oder
+einen bestimmten Anteil von Arbeitnehmern voraussetzen, sind
+Leiharbeitnehmer auch im Entleiherbetrieb zu berücksichtigen. Soweit
+Bestimmungen des Mitbestimmungsgesetzes, des Montan-
+Mitbestimmungsgesetzes, des Mitbestimmungsergänzungsgesetzes, des
+Drittelbeteiligungsgesetzes, des Gesetzes über die Mitbestimmung der
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung, des SE-
+und des SCE-Beteiligungsgesetzes oder der auf Grund der jeweiligen
+Gesetze erlassenen Wahlordnungen eine bestimmte Anzahl oder einen
+bestimmten Anteil von Arbeitnehmern voraussetzen, sind
+Leiharbeitnehmer auch im Entleiherunternehmen zu berücksichtigen.
+Soweit die Anwendung der in Satz 5 genannten Gesetze eine bestimmte
+Anzahl oder einen bestimmten Anteil von Arbeitnehmern erfordert, sind
+Leiharbeitnehmer im Entleiherunternehmen nur zu berücksichtigen, wenn
+die Einsatzdauer sechs Monate übersteigt.
 
 (3) Vor der Übernahme eines Leiharbeitnehmers zur Arbeitsleistung ist
 der Betriebsrat des Entleiherbetriebs nach § 99 des
@@ -828,7 +948,22 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
     Leiharbeitnehmer tätig werden läßt,
 
 
-1b. entgegen § 1b Satz 1 Arbeitnehmer überläßt oder tätig werden läßt,
+1b. entgegen § 1 Absatz 1 Satz 3 einen Arbeitnehmer überlässt oder tätig
+    werden lässt,
+
+
+1c. entgegen § 1 Absatz 1 Satz 5 eine dort genannte Überlassung nicht,
+    nicht richtig oder nicht rechtzeitig bezeichnet,
+
+
+1d. entgegen § 1 Absatz 1 Satz 6 die Person nicht, nicht richtig oder
+    nicht rechtzeitig konkretisiert,
+
+
+1e. entgegen § 1 Absatz 1b Satz 1 einen Leiharbeitnehmer überlässt,
+
+
+1f. entgegen § 1b Satz 1 Arbeitnehmer überläßt oder tätig werden läßt,
 
 
 2.  einen ihm überlassenen ausländischen Leiharbeitnehmer, der einen
@@ -861,19 +996,23 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 6a. entgegen § 7 Abs. 3 Satz 2 eine dort genannte Maßnahme nicht duldet,
 
 
-7.  eine statistische Meldung nach § 8 Abs. 1 nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erteilt,
+7.  (weggefallen)
 
 
-7a. entgegen § 10 Absatz 4 eine Arbeitsbedingung nicht gewährt,
+7a. entgegen § 8 Absatz 1 Satz 1 oder Absatz 2 Satz 2 oder 4 eine
+    Arbeitsbedingung nicht gewährt,
 
 
-7b. entgegen § 10 Absatz 5 in Verbindung mit einer Rechtsverordnung nach §
-    3a Absatz 2 Satz 1 das dort genannte Mindeststundenentgelt nicht
-    zahlt,
+7b. entgegen § 8 Absatz 5 in Verbindung mit einer Rechtsverordnung nach §
+    3a Absatz 2 Satz 1 das dort genannte Mindeststundenentgelt nicht oder
+    nicht rechtzeitig zahlt,
 
 
 8.  einer Pflicht nach § 11 Abs. 1 oder Abs. 2 nicht nachkommt,
+
+
+8a. entgegen § 11 Absatz 5 Satz 1 einen Leiharbeitnehmer tätig werden
+    lässt,
 
 
 9.  entgegen § 13a Satz 1 den Leiharbeitnehmer nicht, nicht richtig oder
@@ -912,9 +1051,9 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 16. entgegen § 17b Absatz 2 eine Versicherung nicht beifügt,
 
 
-17. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig oder
-    nicht vollständig erstellt oder nicht mindestens zwei Jahre aufbewahrt
-    oder
+17. entgegen § 17c Absatz 1 eine Aufzeichnung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erstellt oder nicht oder nicht
+    mindestens zwei Jahre aufbewahrt oder
 
 
 18. entgegen § 17c Absatz 2 eine Unterlage nicht, nicht richtig, nicht
@@ -923,20 +1062,21 @@ Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1b, 6 und 11 bis
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 bis 1f, 6 und 11 bis
 18 kann mit einer Geldbuße bis zu dreißigtausend Euro, die
-Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a und 7b mit einer
+Ordnungswidrigkeit nach Absatz 1 Nummer 2, 7a, 7b und 8a mit einer
 Geldbuße bis zu fünfhunderttausend Euro, die Ordnungswidrigkeit nach
 Absatz 1 Nummer 2a, 3, 9 und 10 mit einer Geldbuße bis zu
 zweitausendfünfhundert Euro, die Ordnungswidrigkeit nach Absatz 1
-Nummer 4, 5, 6a, 7 und 8 mit einer Geldbuße bis zu tausend Euro
-geahndet werden.
+Nummer 4, 5, 6a und 8 mit einer Geldbuße bis zu tausend Euro geahndet
+werden.
 
-(3) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten sind für die Ordnungswidrigkeiten nach
-Absatz 1 Nummer 1 bis 2a, 7b sowie 11 bis 18 die Behörden der
-Zollverwaltung, für die Ordnungswidrigkeiten nach Absatz 1 Nummer 3
-bis 7a sowie 8 bis 10 die Bundesagentur für Arbeit.
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten sind in den Fällen des Absatzes 1
+Nummer 1, 1a, 1c, 1d, 1f, 2, 2a und 7b sowie 11 bis 18 die Behörden
+der Zollverwaltung jeweils für ihren Geschäftsbereich, in den Fällen
+des Absatzes 1 Nummer 1b, 1e, 3 bis 7a sowie 8 bis 10 die
+Bundesagentur für Arbeit.
 
 (4) §§ 66 des Zehnten Buches Sozialgesetzbuch gilt entsprechend.
 
@@ -953,8 +1093,8 @@ Ordnungswidrigkeiten.
 Weisungen des Bundesministeriums für Arbeit und Soziales durch.
 Verwaltungskosten werden nicht erstattet.
 
-(2) Die Prüfung der Arbeitsbedingungen nach § 10 Absatz 5 obliegt
-zudem den Behörden der Zollverwaltung nach Maßgabe der §§ 17a bis 18a.
+(2) Die Prüfung der Arbeitsbedingungen nach § 8 Absatz 5 obliegt zudem
+den Behörden der Zollverwaltung nach Maßgabe der §§ 17a bis 18a.
 
 
 ## § 17a Befugnisse der Behörden der Zollverwaltung
@@ -965,7 +1105,7 @@ Maßgabe, dass die dort genannten Behörden auch Einsicht in
 Arbeitsverträge, Niederschriften nach § 2 des Nachweisgesetzes und
 andere Geschäftsunterlagen nehmen können, die mittelbar oder
 unmittelbar Auskunft über die Einhaltung der Arbeitsbedingungen nach §
-10 Absatz 5 geben.
+8 Absatz 5 geben.
 
 
 ## § 17b Meldepflicht
@@ -1006,7 +1146,7 @@ folgenden Angaben zuzuleiten:
 melden.
 
 (2) Der Entleiher hat der Anmeldung eine Versicherung des Verleihers
-beizufügen, dass dieser seine Verpflichtungen nach § 10 Absatz 5
+beizufügen, dass dieser seine Verpflichtungen nach § 8 Absatz 5
 einhält.
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im
@@ -1037,8 +1177,11 @@ Satz 1 bestimmen.
 
 (1) Sofern eine Rechtsverordnung nach § 3a auf ein Arbeitsverhältnis
 Anwendung findet, ist der Entleiher verpflichtet, Beginn, Ende und
-Dauer der täglichen Arbeitszeit des Leiharbeitnehmers aufzuzeichnen
-und diese Aufzeichnungen mindestens zwei Jahre aufzubewahren.
+Dauer der täglichen Arbeitszeit des Leiharbeitnehmers spätestens bis
+zum Ablauf des siebten auf den Tag der Arbeitsleistung folgenden
+Kalendertages aufzuzeichnen und diese Aufzeichnungen mindestens zwei
+Jahre beginnend ab dem für die Aufzeichnung maßgeblichen Zeitpunkt
+aufzubewahren.
 
 (2) Jeder Verleiher ist verpflichtet, die für die Kontrolle der
 Einhaltung einer Rechtsverordnung nach § 3a erforderlichen Unterlagen
@@ -1158,17 +1301,11 @@ oder die Strafverfolgungsbehörde. Eine Verwendung
 
 ist zulässig.
 
-(4) Gerichte, Strafverfolgungs- oder Strafvollstreckungsbehörden
-sollen den Behörden der Zollverwaltung Erkenntnisse aus sonstigen
-Verfahren, die aus ihrer Sicht zur Verfolgung von Ordnungswidrigkeiten
-nach § 16 Abs. 1 Nr. 1 bis 2 erforderlich sind, übermitteln, soweit
-nicht für die übermittelnde Stelle erkennbar ist, daß schutzwürdige
-Interessen des Betroffenen oder anderer Verfahrensbeteiligter an dem
-Ausschluß der Übermittlung überwiegen. Dabei ist zu berücksichtigen,
-wie gesichert die zu übermittelnden Erkenntnisse sind.
+(4) (weggefallen)
 
 (5) Die Behörden der Zollverwaltung unterrichten die zuständigen
-Finanzämter über den Inhalt von Meldungen nach § 17b.
+örtlichen Landesfinanzbehörden über den Inhalt von Meldungen nach §
+17b.
 
 (6) Die Behörden der Zollverwaltung und die übrigen in § 2 des
 Schwarzarbeitsbekämpfungsgesetzes genannten Behörden dürfen nach
@@ -1177,29 +1314,22 @@ auch mit Behörden anderer Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum zusammenarbeiten, die dem § 17 Absatz 2
 entsprechende Aufgaben durchführen oder für die Bekämpfung illegaler
 Beschäftigung zuständig sind oder Auskünfte geben können, ob ein
-Arbeitgeber seine Verpflichtungen nach § 10 Absatz 5 erfüllt. Die
+Arbeitgeber seine Verpflichtungen nach § 8 Absatz 5 erfüllt. Die
 Regelungen über die internationale Rechtshilfe in Strafsachen bleiben
 hiervon unberührt.
 
 
-## § 18a Ersatzzustellung an den Verleiher
-
-Für die Ersatzzustellung an den Verleiher auf Grund von Maßnahmen nach
-diesem Gesetz gilt der im Inland gelegene Ort der konkreten
-Beschäftigung des Leiharbeitnehmers sowie das vom Verleiher
-eingesetzte Fahrzeug als Geschäftsraum im Sinne des § 5 Absatz 2 Satz
-2 Nummer 1 des Verwaltungszustellungsgesetzes in Verbindung mit § 178
-Absatz 1 Nummer 2 der Zivilprozessordnung.
-
-
 ## § 19 Übergangsvorschrift
 
-§ 3 Absatz 1 Nummer 3 Satz 4 und § 9 Nummer 2 letzter Halbsatz finden
-keine Anwendung auf Leiharbeitsverhältnisse, die vor dem 15. Dezember
-2010 begründet worden sind.
+(1) § 8 Absatz 3 findet keine Anwendung auf Leiharbeitsverhältnisse,
+die vor dem 15. Dezember 2010 begründet worden sind.
+
+(2) Überlassungszeiten vor dem 1. April 2017 werden bei der Berechnung
+der Überlassungshöchstdauer nach § 1 Absatz 1b und der Berechnung der
+Überlassungszeiten nach § 8 Absatz 4 Satz 1 nicht berücksichtigt.
 
 
-## § 20
+## § 20 Evaluation
 
-(weggefallen)
+Die Anwendung dieses Gesetzes ist im Jahr 2020 zu evaluieren.
 

@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Friedrich-Ebert-Gedenkmünze)
 jurabk: Münz5DMBek 1975-01-22
 layout: default
-origslug: m_nz5dmbek_1975-01-22
+origslug: muenz5dmbek_1975-01-22
 slug: muenz5dmbek_1975-01-22
 
 ---

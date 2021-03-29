@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1968, 776
 
-Neugefaßt durch
+Neugefasst durch
 :   Bek. v. 14.2.1990 I 229;
 
 Zuletzt geändert durch

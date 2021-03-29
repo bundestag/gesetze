@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 278
 
+Geändert durch
+:   Art. 1 G v. 7.11.2012
+
 [^F771806.01_BJNR027800009]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2007/2/EG des
     Europäischen Parlaments und des Rates vom 14. März 2007 zur Schaffung
     einer Geodateninfrastruktur in der Europäischen Gemeinschaft (INSPIRE-
@@ -211,9 +214,9 @@ die folgenden Bedingungen erfüllen:
         gegebenenfalls gemäß den Definitionen der Richtlinie 2000/60/EG des
         Europäischen Parlaments und des Rates vom 23. Oktober 2000 zur
         Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im
-        Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), geändert
-        durch die Entscheidung Nr. 2455/2001/EG (ABl. L 331 vom 15.12.2001, S.
-        1), und in Form von Netzen),
+        Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000, S. 1), die
+        zuletzt durch die Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S.
+        114) geändert worden ist, und in Form von Netzen),
 
 
     i)  Schutzgebiete (Gebiete, die im Rahmen des internationalen und des
@@ -288,13 +291,12 @@ die folgenden Bedingungen erfüllen:
 
 
     u)  Produktions- und Industrieanlagen (Standorte für industrielle
-        Produktion, einschließlich durch die Richtlinie 96/61/EG des Rates vom
-        24\. September 1996 über die integrierte Vermeidung und Verminderung
-        der Umweltverschmutzung (ABl. L 257 vom 10.10.1996, S. 6), zuletzt
-        geändert durch die Verordnung (EG) Nr. 166/2006 des Europäischen
-        Parlaments und des Rates (ABl. L 33 vom 4.2.2006, S. 1), erfasste
-        Anlagen und Einrichtungen zur Wasserentnahme sowie Bergbau- und
-        Lagerstandorte),
+        Produktion, einschließlich durch die Richtlinie 2010/75/EU des
+        Europäischen Parlaments und des Rates vom 24. November 2010 über
+        Industrieemissionen (integrierte Vermeidung und Verminderung der
+        Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17)
+        erfasste Anlagen und Einrichtungen zur Wasserentnahme sowie Bergbau-
+        und Lagerstandorte),
 
 
     v)  landwirtschaftliche Anlagen und Aquakulturanlagen (landwirtschaftliche
@@ -579,12 +581,22 @@ Verwaltungsvereinbarung.
 
 ### § 11 Allgemeine Nutzung
 
-Geodaten und Geodatendienste sind vorbehaltlich der Vorschrift des §
-12 Absatz 1 und 2 öffentlich verfügbar bereitzustellen. Werden
-Geodaten über Darstellungsdienste bereitgestellt, kann dies in einer
-Form geschehen, welche eine Weiterverwendung im Sinne von § 2 Nummer 3
-des Informationsweiterverwendungsgesetzes vom 13. Dezember 2006 (BGBl.
-I S. 2913) ausschließt.
+(1) Geodaten und Geodatendienste, einschließlich zugehöriger
+Metadaten, sind vorbehaltlich der Vorschrift des § 12 Absatz 1 und 2
+öffentlich zur Verfügung zu stellen.
+
+(2) Geodaten und Metadaten sind über Geodatendienste für die
+kommerzielle und nicht kommerzielle Nutzung geldleistungsfrei zur
+Verfügung zu stellen, soweit durch besondere Rechtsvorschrift nichts
+anderes bestimmt ist oder vertragliche oder gesetzliche Rechte Dritter
+dem nicht entgegenstehen. Geodatenhaltende Stellen des Bundes stellen
+einander ihre Geodaten und Geodatendienste, einschließlich zugehöriger
+Metadaten, geldleistungsfrei zur Verfügung, soweit deren Nutzung zur
+Wahrnehmung öffentlicher Aufgaben erfolgt.
+
+(3) Die Einzelheiten zur Nutzung von Geodaten und Geodatendiensten,
+einschließlich zugehöriger Metadaten, werden in einer Rechtsverordnung
+nach § 14 geregelt.
 
 
 ### § 12 Schutz öffentlicher und sonstiger Belange
@@ -637,78 +649,8 @@ beschränkt werden, wenn hierdurch
 gefährdet werden können.
 
 
-### § 13 Geldleistungen und Lizenzen
+### § 13 (weggefallen)
 
-(1) Geodatenhaltende Stellen, die Geodaten nach § 4 Absatz 1 Nummer 4
-oder Geodatendienste nach § 6 Absatz 1 anbieten, können für deren
-Nutzung Lizenzen erteilen und Geldleistungen fordern, soweit durch
-besondere Rechtsvorschrift nichts anderes bestimmt ist.
-
-(2) Such- und Darstellungsdienste nach § 6 Absatz 1 stehen der
-Öffentlichkeit kostenlos zur Verfügung, soweit die Darstellungsdienste
-nicht über eine netzgebundene Bildschirmdarstellung hinausgehen; die
-geodatenhaltende Stelle kann die Weiterverwendung von Geodaten, die
-über Darstellungsdienste bereitgestellt werden, für einen
-kommerziellen Zweck sowie die Möglichkeit des Ausdruckens unterbinden.
-Soweit dem keine anderweitigen Rechtsvorschriften entgegenstehen,
-können abweichend von Satz 1 für die Nutzung von Darstellungsdiensten
-Geldleistungen gefordert werden, wenn die Geldleistung die Pflege der
-Geodaten und der entsprechenden Geodatendienste sichert, insbesondere
-in Fällen, in denen große Datenmengen mehrfach monatlich aktualisiert
-werden.
-
-(3) Soweit für die Nutzung von Geodaten oder Geodatendiensten
-Geldleistungen gefordert werden, sind für deren Abwicklung
-Dienstleistungen des elektronischen Geschäftsverkehrs nach § 6 Absatz
-1 Nummer 5 zu nutzen. Für solche Dienste können Haftungsausschlüsse,
-elektronische Lizenzvereinbarungen oder Lizenzen in sonstiger Form
-vorgesehen werden.
-
-(4) Für Geodaten und Geodatendienste, die geodatenhaltende Stellen des
-Bundes zur Verfügung stellen, werden keine Geldleistungen von anderen
-geodatenhaltenden Stellen des Bundes gefordert, soweit deren Nutzung
-zur Wahrnehmung öffentlicher Aufgaben nichtwirtschaftlicher Art
-erfolgt. Geodatenhaltende Stellen können Geodaten und Geodatendienste
-anderer geodatenhaltender Stellen mit deren Einverständnis in eigene
-Anwendungen einbinden; in diesem Fall muss gesichert sein, dass die
-Bedingungen für Lizenzen und Geldleistungen, die die das
-Einverständnis erklärende Stelle fordert, bei der Bereitstellung
-dieser Geodaten und Geodatendienste für weitere Stellen und Dritte
-eingehalten werden.
-
-(5) Geodatenhaltende Stellen eröffnen den Organen und Einrichtungen
-der Europäischen Gemeinschaft zur Wahrnehmung öffentlicher Aufgaben
-oder zur Erfüllung ihrer aus dem Gemeinschaftsrecht erwachsenden
-Berichtspflichten Zugang zu Geodaten und Geodatendiensten. Soweit
-hierfür nach den Absätzen 1 und 2 Lizenzen erteilt oder Geldleistungen
-gefordert werden, müssen sie mit dem allgemeinen Ziel des Austauschs
-von Geodaten und Geodatendiensten zwischen geodatenhaltenden Stellen
-vereinbar sein. Die von Organen oder Einrichtungen der Europäischen
-Gemeinschaft geforderten Geldleistungen dürfen das zur Gewährleistung
-der nötigen Qualität und des Angebots von Geodaten und
-Geodatendiensten notwendige Minimum zuzüglich einer angemessenen
-Rendite nicht übersteigen. Dabei sind die
-Selbstfinanzierungserfordernisse der geodatenhaltenden Stellen, die
-Geodaten und Geodatendienste anbieten, sowie der Aufwand der
-Datenerhebung und der öffentliche Zweck des Datenzugangs der Organe
-und Einrichtungen der Europäischen Gemeinschaft angemessen zu
-berücksichtigen. Werden Geodaten oder Geodatendienste Organen oder
-Einrichtungen der Europäischen Gemeinschaft zur Erfüllung von aus dem
-Gemeinschaftsumweltrecht erwachsenden Berichtspflichten zur Verfügung
-gestellt, werden keine Geldleistungen gefordert.
-
-(6) Soweit geodatenhaltende Stellen anderer Mitgliedstaaten der
-Europäischen Gemeinschaft öffentliche Aufgaben wahrnehmen, die
-Auswirkungen auf die Umwelt haben können, finden die Regelungen des
-Absatzes 5 auch auf diese Anwendung. Absatz 5 gilt auf der Grundlage
-von Gegenseitigkeit und Gleichwertigkeit auch für die Lizenzerteilung
-an und die Geldleistungsforderung von Einrichtungen, die durch
-internationale Übereinkünfte geschaffen wurden, soweit die Europäische
-Gemeinschaft und ihre Mitgliedstaaten zu deren Vertragsparteien
-gehören.
-
-(7) Die Bedingungen für den Zugang zu den Geodaten und ihre Nutzung
-werden in einer Verordnung nach § 14 geregelt.
 
 
 ## Abschnitt 6 - Schlussbestimmungen
@@ -716,12 +658,21 @@ werden in einer Verordnung nach § 14 geregelt.
 
 ### § 14 Verordnungsermächtigung
 
-Die Bundesregierung wird ermächtigt, zur Erfüllung der Verpflichtungen
-aus den Durchführungsbestimmungen nach Artikel 5 Absatz 4, Artikel 7
-Absatz 1, Artikel 16, Artikel 17 Absatz 8 sowie Artikel 21 Absatz 4
-der Richtlinie 2007/2/EG, soweit diese den Anwendungsbereich dieses
-Gesetzes betreffen, Rechtsverordnungen ohne Zustimmung des Bundesrates
-zu erlassen.
+Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf,
+
+1.  die Verpflichtungen aus den Durchführungsbestimmungen nach Artikel 5
+    Absatz 4, Artikel 7 Absatz 1, Artikel 16, 17 Absatz 8 sowie Artikel 21
+    Absatz 4 der Richtlinie 2007/2/EG zu erfüllen, soweit diese den
+    Anwendungsbereich dieses Gesetzes betreffen, und
+
+
+2.  die Nutzungsbedingungen nach § 11 Absatz 3, insbesondere zu den
+    Nutzungsrechten, zur Gewährleistung und zum Haftungsausschluss,
+    festzulegen.
+
+
+
 
 
 ### § 15 Inkrafttreten

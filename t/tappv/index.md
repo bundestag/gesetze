@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1827
 
 Zuletzt geändert durch
-:   Art. 24 G v. 6.12.2011 I 2515
+:   Art. 1 V v. 20.12.2016 I 3341
 
 
 ## Eingangsformel
@@ -68,8 +68,9 @@ Qualitätssicherung auszuüben.
     Wahlpflichtveranstaltungen, die nicht überschritten werden dürfen, an
     einer Universität oder an einer gleichgestellten Hochschule
     (Universität), in der die im Hinblick auf die spätere Anwendung im
-    veterinärmedizinischen Bereich notwendigen Grundkenntnisse vermittelt
-    werden;
+    veterinärmedizinischen Bereich notwendigen Grundkenntnisse
+    einschließlich der erforderlichen Bezüge zum innerstaatlichen und
+    europäischen Recht vermittelt werden;
 
 
 2.  einen praktischen Studienteil von 1.170 Stunden mit
@@ -114,6 +115,12 @@ Qualitätssicherung auszuüben.
 Die Regelstudienzeit im Sinne des § 10 Abs. 2 des
 Hochschulrahmengesetzes beträgt für die gesamte Ausbildung fünf Jahre
 und sechs Monate.
+
+(3) Die tierärztliche Ausbildung stellt ferner sicher, dass die
+Kenntnisse und Fähigkeiten nach Artikel 38 Absatz 3 der Richtlinie
+2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
+2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
+30\.9.2005, S. 22) in der jeweils geltenden Fassung erworben werden.
 
 
 ### § 2 Unterrichtsveranstaltungen
@@ -178,10 +185,8 @@ aufgeführten Fächer ausgenommen.
     nach § 4 Abs. 1 der Bundes-Tierärzteordnung nicht gefährdet werden,
 
 
-2.  sichergestellt ist, dass den Anforderungen von Artikel 38 der
-    Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7.
-    September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU
-    Nr. L 178 S. 1) Genüge getan wird,
+2.  sichergestellt ist, dass den Anforderungen des Artikels 38 der
+    Richtlinie 2005/36/EG Genüge getan wird,
 
 
 3.  die Voraussetzungen, unter denen die Universität die Abweichungen
@@ -205,8 +210,8 @@ zuständigen Behörde einen Bericht über die gewonnenen Erfahrungen vor.
 (1) Zur Erprobung neuer Modelle der tierärztlichen Ausbildung kann die
 zuständige Behörde auf Antrag einer Universität einen von dem
 Regelstudiengang abweichenden Modellstudiengang einführen und die
-jeweiligen Inhalte festlegen. Dabei müssen die in § 1 Abs. 1 genannten
-Ausbildungsziele gewahrt bleiben.
+jeweiligen Inhalte festlegen. Dabei müssen die in § 1 Absatz 1 und 3
+genannten Ausbildungsziele gewahrt bleiben.
 
 (2) Die Zulassung als Modellstudiengang setzt voraus, dass
 
@@ -294,9 +299,9 @@ Die Studierenden legen die Abschnitte der Tierärztlichen Vorprüfung
 und die Tierärztliche Prüfung vor dem zuständigen Prüfungsausschuss an
 der Universität ab, an der sie im Zeitpunkt der Meldung zur Prüfung im
 Studienfach Veterinärmedizin immatrikuliert sind oder zuletzt
-immatrikuliert waren. Wiederholungsprüfungen sind bei dem
-Prüfungsausschuss abzulegen, bei dem die Prüfung nicht bestanden
-wurde.
+immatrikuliert waren. Wiederholungsprüfungen sollen bei dem
+Prüfungsausschuss abgelegt werden, bei dem die Prüfung nicht bestanden
+worden ist.
 
 
 #### § 7 Meldung zur Prüfung
@@ -367,9 +372,9 @@ Prüfenden widerspricht.
 
 #### § 10 Form der Prüfung
 
-(1) Die Prüfung kann schriftlich, mündlich, durch Lösung schriftlich
-gestellter Aufgaben, bei denen anzugeben ist, welche der mit den
-Aufgaben vorgelegten Antworten für zutreffend gehalten werden
+(1) Die Prüfung kann schriftlich, elektronisch, mündlich, durch Lösung
+schriftlich gestellter Aufgaben, bei denen anzugeben ist, welche der
+mit den Aufgaben vorgelegten Antworten für zutreffend gehalten werden
 (Multiple Choice) oder in einer Kombination dieser Prüfungsformen
 durchgeführt werden. Die Universität kann die Prüfungsnote auch durch
 studienbegleitende Leistungskontrollen ermitteln; die Erbringung der
@@ -377,8 +382,8 @@ Nachweise über die regelmäßige und erfolgreiche Teilnahme an den
 Seminaren und Übungen bleibt unberührt. In einzelnen Prüfungsfächern
 kann die Prüfung in mehreren Teilprüfungen abgelegt werden.
 
-(2) In der mündlichen Prüfung sollen nicht mehr als fünf Studierende
-gemeinsam geprüft werden.
+(2) In der mündlichen Prüfung sollen mindestens zwei, jedoch nicht
+mehr als fünf Studierende gemeinsam geprüft werden.
 
 (3) Machen Studierende durch ein ärztliches Zeugnis glaubhaft, dass
 sie wegen einer körperlichen Behinderung die Prüfung ganz oder
@@ -483,13 +488,13 @@ mit folgenden Prüfungsnoten bewertet:
 
 Die Prüfungsnote "nicht ausreichend" darf vorbehaltlich des § 15 bei
 einer mündlichen Prüfung nur erteilt werden, wenn die Studierenden
-mindestens 20 Minuten geprüft worden sind; sie ist in der
-Niederschrift kurz zu begründen.
+mindestens 20 Minuten geprüft worden sind. Sie ist in der
+Niederschrift nachvollziehbar zu begründen.
 
 (2) Die Universität legt für Prüfungen, die durch Lösung schriftlich
-gestellter Aufgaben, bei denen anzugeben ist, welche der mit den
-Aufgaben vorgelegten Antworten für zutreffend gehalten werden
-(Multiple Choice), durchgeführt werden, vor der Prüfung einen
+oder elektronisch gestellter Aufgaben, bei denen anzugeben ist, welche
+der mit den Aufgaben vorgelegten Antworten für zutreffend gehalten
+werden (Multiple Choice), durchgeführt werden, vor der Prüfung einen
 verbindlichen Bewertungsrahmen fest.
 
 (3) Das Prüfungsergebnis in einem Prüfungsfach ist den Studierenden
@@ -504,7 +509,9 @@ Prüferin die Prüfung dieser Studierenden abbrechen. Der oder die
 Vorsitzende kann im Benehmen mit den beteiligten Prüfern oder
 Prüferinnen die Leistungen dieser Studierenden in der betreffenden
 Prüfung für "nicht ausreichend" oder in besonders schwerwiegenden
-Fällen den Prüfungsabschnitt für "nicht bestanden" erklären.
+Fällen den Prüfungsabschnitt für "nicht bestanden" erklären. Für die
+Entscheidung über den Abbruch einer Prüfung nach Satz 1 oder die
+Erklärung nach Satz 2 gilt § 14 Absatz 1 Satz 4 entsprechend.
 
 
 #### § 16 Prüfungsergebnis
@@ -570,17 +577,17 @@ Anrechnung von Studienleistungen zuständigen Stellen.
 (2) Eine Wiederholungsprüfung darf frühestens drei Wochen nach
 erfolglos abgelegter Prüfung durchgeführt werden.
 
-(3) Bei mündlichen Prüfungen hat bei der zweiten Wiederholungsprüfung
-außer dem Prüfer oder der Prüferin der Vorsitzende oder die
-Vorsitzende oder ein von diesem oder von dieser bestimmtes
-Ausschussmitglied anwesend zu sein; diese können dabei auch
-Prüfungsfragen stellen. Bei schriftlichen Prüfungen ist die Arbeit der
-zweiten Wiederholungsprüfung außer vom Prüfer oder von der Prüferin
-durch den Vorsitzenden oder die Vorsitzende oder ein von ihm oder von
-ihr bestimmtes Ausschussmitglied zu bewerten. Auf Verlangen des oder
-der Studierenden nach Maßgabe der ergänzenden Prüfungsordnung finden
-die Sätze 1 und 2 auch bei der ersten Wiederholungsprüfung
-entsprechend Anwendung.
+(3) Bei mündlichen Prüfungen hat bei der ersten und zweiten
+Wiederholungsprüfung außer dem Prüfer oder der Prüferin der
+Vorsitzende oder die Vorsitzende oder ein von diesem oder von dieser
+bestimmtes Ausschussmitglied anwesend zu sein; diese können dabei auch
+Prüfungsfragen stellen. Bei schriftlichen oder elektronischen
+Prüfungen ist die Arbeit der zweiten Wiederholungsprüfung außer vom
+Prüfer oder von der Prüferin durch den Vorsitzenden oder die
+Vorsitzende oder ein von ihm oder von ihr bestimmtes Ausschussmitglied
+zu bewerten. Auf Verlangen des oder der Studierenden nach Maßgabe der
+ergänzenden Prüfungsordnung findet Satz 2 auch bei der ersten
+Wiederholungsprüfung entsprechend Anwendung.
 
 
 #### § 18 Mitteilung des Prüfungsergebnisses
@@ -934,9 +941,11 @@ Nachweise erforderlich:
 Die Prüfung in dem Fach Tierhaltung und Tierhygiene erstreckt sich auf
 die Haltung und Pflege der Haus- und Nutztiere und die Bedeutung der
 Umwelteinflüsse für die Gesundheit und Leistung der Tiere sowie auf
-die Auswirkungen der Tierhaltung auf die Umwelt. Bei Tieren, die der
-Gewinnung von Lebensmitteln dienen, ist die Auswirkung der Haltung auf
-die Qualität der gewonnenen Lebensmittel zu berücksichtigen.
+die Auswirkungen der Tierhaltung einschließlich der Gabe von
+Arzneimitteln auf die Umwelt. Bei Tieren, die der Gewinnung von
+Lebensmitteln dienen, ist die Auswirkung der Haltung einschließlich
+der Gabe von Arzneimitteln auf die Qualität der gewonnenen
+Lebensmittel zu berücksichtigen.
 
 
 #### § 33 Tierschutz und Ethologie
@@ -1010,8 +1019,9 @@ In dem Prüfungsfach Tierseuchenbekämpfung und Infektionsepidemiologie
 haben die Studierenden ihre Kenntnisse über die allgemeinen Grundsätze
 der Ursachen, der Verbreitung, der Bekämpfung und der wirtschaftlichen
 Auswirkungen von Tierseuchen einschließlich deren Prophylaxe,
-Grundlagen der Infektionsepidemiologie, des Tierseuchenrechts sowie
-der Vorschriften zur Verarbeitung tierischer Nebenprodukte
+Grundlagen der Infektionsepidemiologie sowie der Vorschriften des
+innerstaatlichen und des europäischen Tiergesundheitsrechts
+einschließlich des Rechts der Beseitigung tierischer Nebenprodukte
 nachzuweisen.
 
 
@@ -1022,8 +1032,9 @@ erstreckt sich vor allem auf die Wirkungen und Wechselwirkungen von
 Arzneimitteln und anderen Wirkstoffen im gesunden und kranken
 Organismus, die grundlegenden Kenntnisse über den therapeutischen
 Einsatz solcher Stoffe und die damit verbundenen Risiken für Tier und
-Mensch sowie auf die Pharmakokinetik unter besonderer Berücksichtigung
-der speziesspezifischen Biotransformation und die Ausscheidung solcher
+Mensch einschließlich der Risiken möglicher Resistenzentwicklungen
+sowie auf die Pharmakokinetik unter besonderer Berücksichtigung der
+speziesspezifischen Biotransformation und die Ausscheidung solcher
 Stoffe durch den Tierkörper. Die entsprechenden Wirkungen und
 Eigenschaften von Giften und Umweltkontaminanten im gesunden oder
 kranken Organismus sowie die Therapie von akuten und chronischen
@@ -1243,10 +1254,10 @@ tierärztlichen Kaufuntersuchung nachzuweisen und Kenntnisse zu den
 tierärztlichen Sorgfaltspflichten und dem Haftpflichtrecht darzulegen.
 Darüber hinaus haben sie ihre Kenntnisse über die für die Ausübung des
 tierärztlichen Berufes wichtigen Vorschriften des Haftpflichtrechts
-und des Strafrechts sowie über die Organisation und Geschichte des
-tierärztlichen Berufsstandes und über das tierärztliche Berufs- und
-Standesrecht einschließlich der rechtlichen Gegebenheiten der
-Praxisführung darzulegen.
+und des Strafrechts sowie über die Organisation des tierärztlichen
+Berufsstandes und über das tierärztliche Berufs- und Standesrecht
+einschließlich der rechtlichen Gegebenheiten der Praxisführung
+darzulegen.
 
 
 #### § 52 Tierartkliniken
@@ -1272,7 +1283,8 @@ Beteiligung der pathologischen Anatomie, der klinischen Pharmakologie,
 der Tierernährung, der Tierzucht, der Tierhaltung, des tierärztlichen
 Berufsrechts, des Tierschutzes und der Ethologie, der topographischen
 Anatomie, der Epidemiologie, der Infektionskrankheiten und der
-Tierseuchenbekämpfung fächerübergreifend darzustellen. Die
+Tierseuchenbekämpfung einschließlich der vorbeugenden Möglichkeiten
+zur Verhütung von Tierseuchen fächerübergreifend darzustellen. Die
 Studierenden sollen dabei Gelegenheit erhalten, Entstehung, Diagnose
 und Therapie von Krankheiten an konkreten Einzelfällen zu erkennen und
 zu bearbeiten. Dabei sind die Lehrinhalte der klinischen
@@ -1285,7 +1297,8 @@ der von Tieren gewonnenen Lebensmittel auf allen Stufen der
 Lebensmittelproduktion fächerübergreifend darzustellen. Auch die
 möglichen Auswirkungen der Krankheiten von Tieren und die Folgen ihrer
 Therapie auf die Gesundheit des Menschen und auf die Umwelt sind zu
-berücksichtigen.
+berücksichtigen. Den Studierenden sollen auch Kenntnisse über die
+Möglichkeiten zur schmerzlosen Tötung von Tieren vermittelt werden.
 
 
 ## Abschnitt 3 - Der praktische Studienteil
@@ -1301,7 +1314,7 @@ Einrichtungen abgeleistet. Der Zeitpunkt der Ableistung wird von der
 Universität festgelegt.
 
 
-### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten, -methoden und -techniken für den Lebensmittelbereich einschließlich der Überprüfung von Frischfleisch
+### Unterabschnitt 1 - Die Ausbildung in Kontrolltätigkeiten,  -methoden und -techniken für den Lebensmittelbereich einschließlich der  Überprüfung von Frischfleisch
 
 
 
@@ -1320,17 +1333,25 @@ einschlägigen Universitätseinrichtungen.
 
 (2) Die praktische Ausbildung in der Schlachttier- und
 Fleischuntersuchung bei einer für die Schlachttier- und
-Fleischuntersuchung in einem Schlachthof zuständigen Behörde dauert
-100 Stunden innerhalb von mindestens drei Wochen, die aufeinander
-folgen sollen.
+Fleischuntersuchung von Rind oder Schwein in einem Schlachthof
+zuständigen Behörde dauert 100 Stunden. Sie ist innerhalb von
+mindestens drei aufeinanderfolgenden Wochen abzuleisten. Abweichend
+von Satz 2 kann die Ausbildung in zwei jeweils zeitlich
+aufeinanderfolgenden Zeiträumen abgeleistet werden. Eine praktische
+Ausbildung in der Schlachttier- und Fleischuntersuchung bei einer für
+die Schlachttier- und Fleischuntersuchung von Geflügel in einem
+Schlachthof zuständigen Behörde kann auf die Ausbildung nach Satz 1
+für höchstens 30 Stunden angerechnet werden.
 
 (3) Der Einsatz im Rahmen der Ausbildung nach Absatz 2 darf nur in
 Betrieben erfolgen, die über eine Zulassung verfügen und in denen
 hauptamtlich amtliche Tierärztinnen oder Tierärzte für die
-Kontrolltätigkeit verantwortlich tätig sind. Werden in einem Betrieb
-nur Rinder oder nur Schweine geschlachtet, so sind von der
-Ausbildungszeit nach Absatz 2 mindestens 30 Stunden in einem
-Schlachthof mit der jeweils anderen Tierart abzuleisten.
+Kontrolltätigkeit verantwortlich tätig sind. Die Ausbildung kann auch
+an mehr als einem Schlachthof abgeleistet werden. Wird in einem
+Schlachthof nur Geflügel geschlachtet, sind von der Ausbildungszeit
+nach Absatz 2 Satz 1 mindestens 70 Stunden in einem Schlachthof mit
+der Tierart Rind oder Schwein abzuleisten. In diesem Fall findet
+Absatz 2 Satz 2 und 3 keine Anwendung.
 
 
 #### § 56 Inhalt der Ausbildung
@@ -1358,15 +1379,15 @@ berücksichtigt werden.
 Studierenden nach näherer Weisung von hauptamtlich bei der für die
 Schlachttier- und Fleischuntersuchung zuständigen Behörde tätigen
 Tierärztinnen oder Tierärzten in der Untersuchung und Beurteilung der
-Schlachttiere und des Fleisches verschiedener Tierarten zu üben.
-Darüber hinaus haben sich die Studierenden über die tierschutzgerechte
-Behandlung der Schlachttiere zu informieren.
+Schlachttiere und deren Fleisch zu üben. Darüber hinaus haben sich die
+Studierenden über die tierschutzgerechte Behandlung der Schlachttiere
+zu informieren.
 
 (3) Die Studierenden erhalten über die Ausbildung nach § 55 Abs. 1 und
 2 Bescheinigungen nach den Anlagen 6 und 7.
 
 
-### Unterabschnitt 2 - Die Ausbildung in der kurativen tierärztlichen Praxis oder in einer Tierklinik
+### Unterabschnitt 2 - Die Ausbildung in der kurativen  tierärztlichen Praxis oder in einer Tierklinik
 
 
 
@@ -1375,16 +1396,15 @@ Behandlung der Schlachttiere zu informieren.
 (1) Der erste Abschnitt der Ausbildung, die in der kurativen
 tierärztlichen Praxis oder in einer Tierklinik oder je zur Hälfte in
 beiden Einrichtungen abgeleistet werden kann, dauert 150 Stunden
-innerhalb von mindestens vier Wochen, die aufeinander folgen sollen.
-Er darf nicht vor Bestehen der Tierärztlichen Vorprüfung abgeleistet
-werden.
+innerhalb von mindestens vier Wochen. Er darf nicht vor Bestehen der
+Tierärztlichen Vorprüfung abgeleistet werden.
 
 (2) Der zweite Abschnitt der Ausbildung, die in der kurativen
 tierärztlichen Praxis oder in einer Tierklinik oder in einer
 Kombination aus nicht mehr als vier dieser Einrichtungen abgeleistet
 werden kann, dauert 700 Stunden unbeschadet des § 60 und ist nach den
 Vorgaben der Studienordnung der Universität innerhalb von mindestens
-16 Wochen, die aufeinander folgen sollen, abzuleisten.
+16 Wochen abzuleisten.
 
 (3) Der Erwerb der Bescheinigung über eine regelmäßige und
 erfolgreiche Teilnahme an den für das Prüfungsfach Radiologie
@@ -1479,7 +1499,7 @@ Die Studierenden erhalten über die Ausbildung eine Bescheinigung nach
 Anlage 11.
 
 
-### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen Veterinärwesen
+### Unterabschnitt 4 - Die praktische Ausbildung im öffentlichen  Veterinärwesen
 
 
 
@@ -1530,9 +1550,7 @@ Antrag sind beizufügen:
     Berufs ungeeignet ist,
 
 
-4.  die Geburtsurkunde oder ein Auszug aus dem Familienbuch der Eltern,
-    bei Verheirateten auch die Heiratsurkunde oder ein Auszug aus dem für
-    die Ehe geführten Familienbuch und
+4.  (weggefallen)
 
 
 5.  ein amtliches Führungszeugnis, das nicht früher als einen Monat vor
@@ -1560,12 +1578,20 @@ Ermittlungsverfahren anhängig ist oder ob ihm oder ihr dort auf Grund
 von Disziplinar- oder Verwaltungsmaßnahmen die Ausübung des
 tierärztlichen Berufs untersagt worden ist.
 
+(1a) Bestehen begründete Zweifel an der Identität des Antragstellers,
+insbesondere auf Grund unterschiedlicher Namensbezeichnungen in den
+eingereichten Unterlagen, hat der Antragsteller seine Identität zudem
+durch die Vorlage einer beglaubigten Kopie der Geburtsurkunde oder
+eines Auszugs aus dem Familienbuch der Eltern, bei Verheirateten auch
+der Heiratsurkunde oder eines Auszugs aus dem für die Ehe geführten
+Familienbuch nachzuweisen.
+
 (2) Soll eine Approbation nach § 4 Abs. 1, 1a, 2 oder 3 oder nach §
 15a, auch in Verbindung mit § 16, der Bundes-Tierärzteordnung erteilt
 werden, so ist der Antrag an die zuständige Behörde des Landes zu
 richten, in dem der tierärztliche Beruf ausgeübt werden soll. Es sind,
 sofern die Ausbildung nicht nach den Vorschriften dieser Verordnung
-erfolgt ist, anstelle des Zeugnisses nach Absatz 1 Satz 1 Nr. 6 die
+erfolgt ist, anstelle des Zeugnisses nach Absatz 1 Satz 2 Nummer 6 die
 Nachweise nach § 4 Abs. 6 Satz 1 Nr. 2, 5 und 7 der Bundes-
 Tierärzteordnung vorzulegen. Die zuständige Behörde bestätigt dem
 Antragsteller oder der Antragstellerin binnen eines Monats den Empfang
@@ -1577,11 +1603,7 @@ bisherige berufliche Tätigkeit, verlangen. Über die nach § 4 Absatz 1a
 Satz 1 der Bundes-Tierärzteordnung vorzulegenden Nachweise hinaus
 können weitere Nachweise, insbesondere ein Tätigkeitsnachweis, nur
 verlangt werden, wenn die Bundes-Tierärzteordnung dies vorsieht oder
-besondere Gründe dies erfordern. In den Fällen nach Satz 2 können von
-dem Antragsteller oder der Antragstellerin die in Absatz 1 Nr. 4
-geforderten Nachweise nicht verlangt werden, es sei denn, sein in
-einem Drittland ausgestellter Ausbildungsnachweis ist noch in keinem
-anderen Mitgliedstaat anerkannt worden.
+besondere Gründe dies erfordern.
 
 (3) Für den Fall, dass ein in Absatz 1 Satz 2 Nummer 5 genanntes
 Zeugnis nicht vorgelegt werden kann, können an dessen Stelle
@@ -1589,24 +1611,23 @@ Unterlagen nach § 4 Absatz 6 Nummer 3 der Bundes-Tierärzteordnung
 vorgelegt werden. Hat der Antragsteller oder die Antragstellerin den
 tierärztlichen Beruf im Herkunftsmitgliedstaat bereits ausgeübt, so
 kann die für die Erteilung der Approbation zuständige Behörde über das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-bei der zuständigen Behörde des Herkunftsmitgliedstaats Auskünfte über
-etwa gegen den Antragsteller oder die Antragstellerin verhängte
-Strafen oder sonstige berufs- oder strafrechtliche Maßnahmen wegen
-schwerwiegenden und genau bestimmten standeswidrigen Verhaltens oder
-strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsmitgliedstaat betreffen, einholen. Hat die für die Erteilung
-der Approbation zuständige Behörde in den Fällen des Satzes 1 oder 2
-von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs der
-Bundes-Tierärzteordnung eingetreten sind und im Hinblick auf die
-Voraussetzungen des § 4 Abs. 1 Nr. 2 der Bundes-Tierärzteordnung von
-Bedeutung sein können, so hat sie die zuständige Stelle des
-Herkunftsmitgliedstaats über das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz zu unterrichten und ihr das
-Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
-ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
-Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen
-sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
+Bundesministerium für Ernährung und Landwirtschaft bei der zuständigen
+Behörde des Herkunftsmitgliedstaats Auskünfte über etwa gegen den
+Antragsteller oder die Antragstellerin verhängte Strafen oder sonstige
+berufs- oder strafrechtliche Maßnahmen wegen schwerwiegenden und genau
+bestimmten standeswidrigen Verhaltens oder strafbarer Handlungen, die
+die Ausübung des Berufs im Herkunftsmitgliedstaat betreffen, einholen.
+Hat die für die Erteilung der Approbation zuständige Behörde in den
+Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis, die außerhalb
+des Geltungsbereichs der Bundes-Tierärzteordnung eingetreten sind und
+im Hinblick auf die Voraussetzungen des § 4 Abs. 1 Nr. 2 der Bundes-
+Tierärzteordnung von Bedeutung sein können, so hat sie die zuständige
+Stelle des Herkunftsmitgliedstaats über das Bundesministerium für
+Ernährung und Landwirtschaft zu unterrichten und ihr das Ergebnis und
+die Folgerungen, die sie hinsichtlich der von ihr ausgestellten
+Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den
+Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind
+vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
 gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
 drei Monate zurückliegt.
 
@@ -1622,6 +1643,11 @@ vorzulegenden Unterlagen zu entscheiden. Soweit es um die Anerkennung
 eines Ausbildungsnachweises nach § 4 Abs. 1a Satz 3 oder § 4 Abs. 2
 Satz 2 Nr. 3 der Bundes-Tierärzteordnung geht, stehen für Fälle nach
 Satz 1 vier statt drei Monate zur Verfügung.
+
+(6) Die nach den Absätzen 1 bis 4 vorzulegenden Unterlagen können
+elektronisch übermittelt werden. Im Falle begründeter Zweifel an der
+Richtigkeit der elektronisch eingereichten Unterlagen kann die
+Übermittlung beglaubigter Kopien verlangt werden.
 
 
 ### § 64 Approbationsurkunde
@@ -1719,18 +1745,13 @@ Nachweis auch für die Zulassung zu den nachfolgenden Prüfungen.
 
 ### § 68 Übergangsvorschriften
 
-(1) Studierende, die sich vor dem 1. Oktober 2006 zur Tierärztlichen
-Vorprüfung gemeldet haben, legen die Tierärztliche Vorprüfung nach der
-Approbationsordnung für Tierärztinnen und Tierärzte vom 10. November
-1999 (BGBl. I S. 2162), zuletzt geändert durch Artikel 3 der
-Verordnung vom 4. Dezember 2002 (BGBl. I S. 4456), ab. Für das weitere
-Studium nach Bestehen der Tierärztlichen Vorprüfung ist diese
-Verordnung anzuwenden.
+(1) § 10 Absatz 2 und § 17 Absatz 3 Satz 1 sind bis zum 29. Dezember
+2017 in der am Tage der Verkündung dieser Verordnung geltenden Fassung
+anzuwenden.
 
-(2) Studierende, die nach dem 1. Oktober 2006 die Tierärztliche
-Vorprüfung bestanden haben, aber noch nicht zur Tierärztlichen Prüfung
-zugelassen worden sind, werden nach dieser Verordnung ausgebildet und
-geprüft.
+(2) Bescheinigungen nach Anlage 7 in der bis zum 30. Dezember 2016
+geltenden Fassung, die vor diesem Zeitpunkt erteilt worden sind,
+bleiben gültig.
 
 (3) Für Studierende, die vor dem 1. Oktober 2006 einen Abschnitt der
 Tierärztlichen Prüfung nach der Approbationsordnung für Tierärztinnen
@@ -1741,10 +1762,7 @@ Tierärztinnen und Tierärzte vom 10. November 1999 (BGBl. I S. 2162),
 zuletzt geändert durch Artikel 3 der Verordnung vom 4. Dezember 2002
 (BGBl. I S. 4456), auch für das weitere Studium anzuwenden.
 
-(4) Für Studierende an Universitäten, die ihre Studien- und
-Prüfungsordnungen bis zum 1. Oktober 2006 nicht an diese Verordnung
-angepasst haben, gelten die Absätze 1 bis 3 mit der Maßgabe, dass an
-die Stelle des 1. Oktober 2006 der 1. Oktober 2007 tritt.
+(4) (weggefallen)
 
 
 ### § 69 Inkrafttreten, Außerkrafttreten
@@ -1756,8 +1774,9 @@ die Stelle des 1. Oktober 2006 der 1. Oktober 2007 tritt.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Abs. 1, 2 und 3)
 
-### Anlage 1 (zu § 2 Abs. 1, 2 und 3) Fachgebiete und Gesamtstundenzahlen
+### Anlage 1 Fachgebiete und Gesamtstundenzahlen \*)
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1841 - 1842)
 
@@ -2397,38 +2416,140 @@ Tierärztin/Tierarztes)
 
 ### Anlage 7 (zu § 56 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2006, 1850
-......................................................................
-........
-(Bezeichnung der zuständigen Behörde)
-Bescheinigung
-über die praktische Ausbildung
-**in der Schlachttier- und Fleischuntersuchung**
-Der/Die Studierende der Veterinärmedizin
-......................................................................
-........
-(Vor- und Zuname)
-hat in der Zeit vom .................... bis
-.................................
-in dem Schlachthof/den Schlachthöfen in
-......................................
-die praktische Ausbildung in der Schlachttier- und Fleischuntersuchung
-abgeleistet.
-Er/Sie hat sich während dieser Zeit ........... Stunden unter meiner
-Aufsicht
-und Leitung in der Beurteilung der Schlachttiere und des Fleisches der
-verschiedenen Tierarten geübt. Er/Sie hatte ferner Gelegenheit, sich
-mit dem
-technischen Ablauf eines Schlachthofes vertraut zu machen.
-Der Schlachthof/die Schlachthöfe entspricht/entsprechen den
-Voraussetzungen
-des § 55 Abs. 3 Satz 1 der Verordnung zur Approbation von
-Tierärztinnen und
-Tierärzten.
-...................., den ........................
-(Siegel oder Stempel)
-.........................................................
-(Unterschrift der/des ausbildenden Tierärztin/Tierarztes)
+(Fundstelle des Originaltextes: BGBl. I 2016, 3343;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   (Bezeichnung der zuständigen Behörde)
+
+
+*    *   Bescheinigung
+        über die praktische Ausbildung
+        **in der Schlachttier- und Fleischuntersuchung**
+
+
+*    *   Der/Die Studierende der Veterinärmedizin
+        (Vor- und Zuname)
+
+
+*    *   hat
+
+
+*    *   1.
+
+    *   in der Zeit vom
+
+    *   bis
+
+
+*    *
+    *   in dem Schlachthof in
+        ,
+
+    *   Tierart:
+        ,
+
+
+*    *   2.
+
+    *   in der Zeit vom
+
+    *   bis
+
+
+*    *
+    *   in dem Schlachthof in
+        ,
+
+    *   Tierart:
+        ,
+
+
+*    *   3.
+
+    *   in der Zeit vom
+
+    *   bis
+
+
+*    *
+    *   in dem Schlachthof in
+        ,
+
+    *   Tierart:
+        ,
+
+
+*    *   die praktische Ausbildung in der Schlachttier- und Fleischuntersuchung
+        abgeleistet.
+
+
+*    *   Zu oben Nummer 1.:
+        Er/Sie hat sich während dieser Zeit
+        Stunden unter meiner Aufsicht und Leitung in der Beurteilung der
+        Schlachttiere und deren Fleisch geübt. Er/Sie hatte ferner
+        Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes
+        vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des
+        § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen
+        und Tierärzten.
+
+
+*    *
+    *
+    *   ,
+
+    *   den
+
+
+*    *   (Siegel oder Stempel)
+
+    *   (Unterschrift der/des ausbildenden Tierärztin/Tierarztes)
+
+
+*    *   Zu oben Nummer 2.:
+        Er/Sie hat sich während dieser Zeit
+        Stunden unter meiner Aufsicht und Leitung in der Beurteilung der
+        Schlachttiere und deren Fleisch geübt. Er/Sie hatte ferner
+        Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes
+        vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des
+        § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen
+        und Tierärzten.
+
+
+*    *
+    *
+    *   ,
+
+    *   den
+
+
+*    *   (Siegel oder Stempel)
+
+    *   (Unterschrift der/des ausbildenden Tierärztin/Tierarztes)
+
+
+*    *   Zu oben Nummer 3.:
+        Er/Sie hat sich während dieser Zeit
+        Stunden unter meiner Aufsicht und Leitung in der Beurteilung der
+        Schlachttiere und deren Fleisch geübt. Er/Sie hatte ferner
+        Gelegenheit, sich mit dem technischen Ablauf eines Schlachthofes
+        vertraut zu machen. Der Schlachthof entspricht den Voraussetzungen des
+        § 55 Absatz 3 Satz 1 der Verordnung zur Approbation von Tierärztinnen
+        und Tierärzten.
+
+
+*    *
+    *
+    *   ,
+
+    *   den
+
+
+*    *   (Siegel oder Stempel)
+
+    *   (Unterschrift der/des ausbildenden Tierärztin/Tierarztes)
+
+
+
 
 
 ### Anlage 8 (zu § 58 Abs. 3)

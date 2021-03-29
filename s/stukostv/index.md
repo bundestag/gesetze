@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 1241
 
-Geändert durch
-:   Art. 1 V v. 8.5.1995 I 625
+V aufgeh. durch
+:   Art. 4 Abs. 38 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 58 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 41 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 41 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -30,25 +36,26 @@ der Bundesminister des Innern:
 
 ## § 1 Geltungsbereich
 
-Für Amtshandlungen des Bundesbeauftragten für die Unterlagen des
-Staatssicherheitsdienstes der ehemaligen Deutschen Demokratischen
-Republik (Bundesbeauftragter) nach den §§ 13 bis 17 sowie gegenüber
-nicht-öffentlichen Stellen nach den §§ 20, 21, 32 und 34 des Stasi-
-Unterlagen-Gesetzes werden Kosten (Gebühren und Auslagen) nur nach den
-Vorschriften dieser Verordnung erhoben.
+Für individuell zurechenbare öffentliche Leistungen des
+Bundesbeauftragten für die Unterlagen des Staatssicherheitsdienstes
+der ehemaligen Deutschen Demokratischen Republik (Bundesbeauftragter)
+nach den §§ 13 bis 17 sowie gegenüber nicht-öffentlichen Stellen nach
+den §§ 20, 21, 32 und 34 des Stasi-Unterlagen-Gesetzes werden Gebühren
+und Auslagen nur nach den Vorschriften dieser Verordnung erhoben.
 
 
-## § 2 Kosten
+## § 2 Gebühren und Auslagen
 
-(1) Die Kosten bestimmen sich nach dem anliegenden Kostenverzeichnis.
+(1) Die Gebühren und Auslagen bestimmen sich nach dem anliegenden
+Gebühren- und Auslagenverzeichnis.
 
 (2) Auslagen werden zusätzlich zu den Gebühren erhoben. Erreichen die
 Auslagen nicht die Höhe von fünf Deutsche Mark, werden sie nicht
 erhoben.
 
 (3) Auslagen sind auch dann zu erheben, wenn eine Gebühr für die
-Amtshandlung nicht erhoben wird. § 42 Abs. 1 Satz 3 des Stasi-
-Unterlagen-Gesetzes bleibt unberührt.
+individuell zurechenbare öffentliche Leistung nicht erhoben wird. § 42
+Abs. 1 Satz 3 des Stasi-Unterlagen-Gesetzes bleibt unberührt.
 
 
 ## § 3 Mindestbetrag einer Gebühr, Abrundung
@@ -57,9 +64,9 @@ Der Mindestbetrag einer Gebühr ist zehn Deutsche Mark. Pfennigbeträge
 sind auf volle Markbeträge abzurunden.
 
 
-## § 4 Kostenbefreiung
+## § 4 Gebühren- und Auslagenbefreiung
 
-Von der Zahlung der Kosten sind befreit:
+Von der Zahlung der Gebühren und Auslagen sind befreit:
 
 1.  Betroffene im Sinne des § 6 Abs. 3, Dritte im Sinne des § 6 Abs. 7 und
     nahe Angehörige im Sinne des § 15 Abs. 3 des Stasi-Unterlagen-
@@ -74,57 +81,59 @@ Von der Zahlung der Kosten sind befreit:
 
 
 
-## § 5 Kostenschuldner
+## § 5 Gebührenschuldner
 
-(1) Zur Zahlung der Kosten ist verpflichtet,
+(1) Zur Zahlung der Gebühren ist verpflichtet,
 
-1.  wer die Amtshandlung veranlaßt oder zu wessen Gunsten sie vorgenommen
-    wird;
-
-
-2.  wer die Kosten durch eine gegenüber dem Bundesbeauftragten abgegebene
-    oder dem Bundesbeauftragten mitgeteilte Erklärung übernommen hat;
+1.  wer die individuell zurechenbare öffentliche Leistung veranlaßt oder
+    zu wessen Gunsten sie vorgenommen wird;
 
 
-3.  wer für die Kostenschuld eines anderen kraft Gesetzes haftet.
+2.  wer die Gebühren durch eine gegenüber dem Bundesbeauftragten
+    abgegebene oder dem Bundesbeauftragten mitgeteilte Erklärung
+    übernommen hat;
+
+
+3.  wer für die Gebührenschuld eines anderen kraft Gesetzes haftet.
 
 
 
 
-(2) Mehrere Kostenschuldner haften als Gesamtschuldner.
+(2) Mehrere Gebührenschuldner haften als Gesamtschuldner.
 
 
 ## § 6 Vorauszahlung, Rücknahme von Anträgen, erfolglose Widerspruchsverfahren
 
-(1) Der Bundesbeauftragte kann die Zahlung eines Kostenvorschusses
-verlangen. Er kann die Vornahme der Amtshandlung von der Zahlung oder
-Sicherstellung des Vorschusses abhängig machen.
+(1) Der Bundesbeauftragte kann die Zahlung eines Vorschusses
+verlangen. Er kann die Vornahme der individuell zurechenbaren
+öffentlichen Leistung von der Zahlung oder Sicherstellung des
+Vorschusses abhängig machen.
 
-(2) Wird ein Antrag auf Vornahme einer Amtshandlung zurückgenommen,
-nachdem mit der sachlichen Bearbeitung begonnen, die Amtshandlung aber
-noch nicht beendet ist, oder wird ein Antrag aus anderen Gründen als
-wegen Unzuständigkeit abgelehnt, oder wird eine Amtshandlung
-zurückgenommen oder widerrufen, ermäßigt sich die vorgesehene Gebühr
-um ein Viertel; sie kann bis zu einem Viertel der vorgesehenen Gebühr
-ermäßigt oder es kann von ihrer Erhebung abgesehen werden, wenn dies
-der Billigkeit entspricht. Bei einem erfolglosen Widerspruch wird eine
-Gebühr bis zur Höhe der für die angefochtene Amtshandlung
-festgesetzten Gebühr erhoben.
+(2) Wird ein Antrag auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung zurückgenommen, nachdem mit der sachlichen
+Bearbeitung begonnen, diese Leistung aber noch nicht beendet ist, oder
+wird ein Antrag aus anderen Gründen als wegen Unzuständigkeit
+abgelehnt oder wird ein Verwaltungsakt zurückgenommen oder widerrufen,
+ermäßigt sich die vorgesehene Gebühr um ein Viertel; sie kann bis zu
+einem Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer
+Erhebung abgesehen werden, wenn dies der Billigkeit entspricht. Bei
+einem erfolglosen Widerspruch wird eine Gebühr bis zur Höhe der für
+die angefochtene Leistung festgesetzten Gebühr erhoben.
 
 
-## § 7 Unrichtige Sachbehandlung, Kostenermäßigung
+## § 7 Unrichtige Sachbehandlung, Gebühren- und Auslagenermäßigung
 
-(1) Kosten, die bei richtiger Behandlung der Sache durch den
-Bundesbeauftragten nicht entstanden wären, werden nicht erhoben. Das
-gleiche gilt für Auslagen, die durch eine von Amts wegen veranlaßte
-Verlegung oder Vertagung eines Termins entstanden sind.
+(1) Gebühren und Auslagen, die bei richtiger Behandlung der Sache
+durch den Bundesbeauftragten nicht entstanden wären, werden nicht
+erhoben. Das gleiche gilt für Auslagen, die durch eine von Amts wegen
+veranlaßte Verlegung oder Vertagung eines Termins entstanden sind.
 
 (2) Der Bundesbeauftragte kann ausnahmsweise, wenn dies mit Rücksicht
 auf die wirtschaftlichen Verhältnisse des Zahlungspflichtigen oder
-sonst aus Billigkeitsgründen geboten erscheint, die Kosten für
-Amtshandlungen nach den §§ 13 bis 17, 20, 21, 32 und 34 des Stasi-
-Unterlagen-Gesetzes unter die Sätze des Kostenverzeichnisses
-ermäßigen. § 3 bleibt unberührt.
+sonst aus Billigkeitsgründen geboten erscheint, die Gebühren für
+individuell zurechenbare öffentliche Leistungen nach den §§ 13 bis 17,
+20, 21, 32 und 34 des Stasi-Unterlagen-Gesetzes unter die Sätze des
+Gebühren- und Auslagenverzeichnisses ermäßigen. § 3 bleibt unberührt.
 
 
 ## § 8 Inkrafttreten
@@ -137,9 +146,10 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage Kostenverzeichnis
+## Anlage Gebühren- und Auslagenverzeichnis
 
-(Fundstelle des Originaltextes: BGBl. I 1995, 626 - 627)
+(Fundstelle: BGBl. I 1995, 626 - 627)
+bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 *    *   A. Gebühren

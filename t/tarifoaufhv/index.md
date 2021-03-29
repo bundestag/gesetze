@@ -34,8 +34,8 @@ Die Tarifordnungen und die auf Grund der Verordnung über die
 Lohngestaltung vom 25. Juni 1938 (Reichsgesetzbl. I S. 691) und der
 Verordnung zur Durchführung der Verordnung über die Lohngestaltung vom
 23\. April 1941 (Reichsgesetzbl. I S. 222) erlassenen Anordnungen
-werden, soweit sie noch bestehen, aufgehoben.              Von der
-Aufhebung werden ausgenommen:
+werden, soweit sie noch bestehen, aufgehoben. Von der Aufhebung werden
+ausgenommen:
 
 1.  Die Tarifordnung für die deutschen Theater vom 27. Oktober 1937
     (Reichsarbeitsblatt S. VI 1080) und

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 328
 
+Zuletzt geändert durch
+:   Art. 6 V v. 30.11.2017 I 3827
+
 
 
 ## Eingangsformel
@@ -105,27 +108,15 @@ durchgeführt werden.
 
 ## § 3 Zulassungsvoraussetzungen
 
-(1) Zur Prüfung im Prüfungsteil "Kraftwerkstechnologie" ist
+(1) Zur Prüfung im Prüfungsteil „Kraftwerkstechnologie“ ist
 zuzulassen, wer Folgendes nachweist:
 
 1.  eine mit Erfolg abgelegte Abschlussprüfung in einem anerkannten
-    Ausbildungsberuf, der den Metall- oder Elektroberufen zugeordnet
-    werden kann, oder zum Wärmestellengehilfen und danach eine mindestens
-    zweijährige Berufspraxis im Fahrbetrieb eines Kraftwerks oder
+    Ausbildungsberuf, der den Metall- oder Elektroberufen oder den
+    Produktionsberufen der Chemie zugeordnet werden kann oder
 
 
-2.  eine mit Erfolg abgelegte Abschlussprüfung zum Maschinist für
-    Wärmekraftwerke und danach eine mindestens zweijährige Berufspraxis im
-    Fahrbetrieb eines Kraftwerks oder
-
-
-3.  eine mit Erfolg abgelegte Abschlussprüfung in einem der unter Nummer 1
-    genannten Ausbildungsberufe und eine erfolgreich abgeschlossene
-    Maschinistenausbildung bei der Bundes- oder Handelsmarine sowie eine
-    eineinhalbjährige Berufspraxis im Fahrbetrieb eines Kraftwerks oder
-
-
-4.  eine mindestens sechsjährige Berufspraxis im Fahrbetrieb und in der
+2.  eine mindestens vierjährige Berufspraxis im Fahrbetrieb und in der
     Instandhaltung eines Kraftwerks.
 
 
@@ -138,8 +129,8 @@ wer
     nachweist, der nicht länger als zwei Jahre zurückliegt,
 
 
-2.  zu den in Absatz 1 Nr. 1 bis 4 genannten Praxiszeiten mindestens ein
-    weiteres Jahr Berufspraxis im Fahrbetrieb nachweist und
+2.  zu den in Absatz 1 Nummer 1 und 2 genannten Praxiszeiten mindestens
+    ein weiteres Jahr Berufspraxis im Fahrbetrieb nachweist und
 
 
 3.  eine Dokumentation nach Absatz 4 vorlegt.
@@ -147,22 +138,22 @@ wer
 
 
 
-(3) Bestandteil der Berufspraxis nach Absatz 2 Nr. 2 ist eine davon
-insgesamt mindestens 27-monatige gelenkte praktische Fortbildung, in
-der der Prüfungsteilnehmer die Befähigung zur Erfassung, Analyse und
+(3) Bestandteil der Berufspraxis nach Absatz 2 Nummer 2 ist eine
+mindestens 12-monatige strukturierte praktische Fortbildung, in der
+der Prüfungsteilnehmer die Befähigung zur Erfassung, Analyse und
 Lösung betrieblicher Aufgaben und Problemfälle in den folgenden
-Kraftwerksbereichen erwerben soll:
+Kraftwerksbereichen erworben hat:
 
--   Dampferzeuger,
-
-
--   Turbosatz,
+1.  Dampferzeuger,
 
 
--   Kraftwerkshilfs- und Nebenanlagen einschließlich Wasseraufbereitung,
+2.  Turbosatz,
 
 
--   elektrotechnische Anlagen und Leittechnik.
+3.  Kraftwerkshilfs- und Nebenanlagen einschließlich Wasseraufbereitung,
+
+
+4.  elektrotechnische Anlagen und Leittechnik.
 
 
 
@@ -221,10 +212,11 @@ Monate gekürzt werden, wenn entsprechende Inhalte während einer
 Berufsausbildung in einem Kraftwerk vermittelt wurden.
 
 (4) Die Dokumentation soll sich auf das Kraftwerk beziehen, in dem der
-Prüfungsteilnehmer seine gelenkte praktische Fortbildung nach Absatz 3
-abgeleistet hat. Die Dokumentation soll folgende Teile umfassen:
+Prüfungsteilnehmer seine strukturierte praktische Fortbildung nach
+Absatz 3 abgeleistet hat. Die Dokumentation soll folgende Teile
+umfassen:
 
-1.  Tätigkeitsnachweis über die gelenkte praktische Fortbildung;
+1.  Tätigkeitsnachweis über die strukturierte praktische Fortbildung;
 
 
 2.  Unterlagen über den Aufbau des Kraftwerks, insbesondere Schemata;
@@ -545,9 +537,7 @@ nicht zulässig.
 ## § 7 Bestehen der Prüfung
 
 (1) Die Prüfungsleistungen in den Prüfungsbereichen gemäß § 4 und dem
-Prüfungsteil "Kraftwerksbetrieb" sind gesondert zu bewerten. Bei der
-Bewertung ist die in der Anlage 2 aufgeführte Punktebewertungsskala
-zugrunde zu legen.
+Prüfungsteil "Kraftwerksbetrieb" sind gesondert zu bewerten.
 
 (2) Für den Prüfungsteil "Kraftwerkstechnologie" ist eine Note aus dem
 arithmetischen Mittel der Punktebewertungen der Leistungen in den
@@ -560,10 +550,53 @@ Prüfungsbereichen des Prüfungsteils "Kraftwerkstechnologie" und im
 Prüfungsteil "Kraftwerksbetrieb" mindestens ausreichende
 Prüfungsleistungen erbracht hat.
 
-(4) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
-Freistellung gemäß § 6 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(4) Ist die Prüfung bestanden, wird eine Gesamtnote ermittelt. Die
+Gesamtnote ergibt sich aus dem arithmetischen Mittel aus
+
+1.  dem nach Absatz 2 errechneten arithmetischen Mittel im Prüfungsteil
+    „Kraftwerkstechnologie“ und
+
+
+2.  der Punktebewertung der Leistung im situationsbezogenen Fachgespräch
+    im Prüfungsteil „Kraftwerksbetrieb“.
+
+
+
+
+(5) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 4 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung und die Note des Prüfungsteils „Kraftwerkstechnologie“
+    sowie die Benennung und die jeweilige Punktebewertung für die vier
+    Prüfungsbereiche dieses Prüfungsteils,
+
+
+2.  die Benennung und die Note des Prüfungsteils „Kraftwerksbetrieb“ und
+    die Punktebewertung für das situationsbezogene Fachgespräch,
+
+
+3.  die Gesamtnote nach Absatz 4 und
+
+
+4.  gegebenenfalls die Freistellungen nach § 6.
+
+
+
+Jede Freistellung nach Satz 3 Nummer 4 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 8 Wiederholung der Prüfung
@@ -595,89 +628,4 @@ bisherigen Vorschriften noch bis zum 9. März 2002 beantragt werden.
 ## § 10 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-
-## Anlage 1 (zu § 7 Abs. 4)
-
-(Fundstelle: BGBl. I 2001, 332)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
-Herr/Frau
-.....................................................................
-geboren am ............................ in
-....................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
-gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Kraftwerker/Geprüfte Kraftwerkerin" vom 19. Februar 2001 (BGBl. I S.
-328)
-bestanden.
-Datum ........................................
-Unterschrift .................................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 7 Abs. 4)
-
-(Fundstelle: BGBl. I 2001, 333)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
-Herr/Frau
-.....................................................................
-geboren am ............................ in
-....................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Kraftwerker/Geprüfte Kraftwerkerin
-gemäß der "Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Kraftwerker/Geprüfte Kraftwerkerin" vom 19. Februar 2001 (BGBl. I S.
-328)
-mit folgenden Ergebnissen bestanden:
-Note
-I.  Kraftwerkstechnologie                              ...........
-Prüfungsbereiche:                 Punkte \*)
-1\. Dampferzeugung                 ............
-2\. Turbinen, Kraftwerkshilfs-
-und Nebenanlagen               ............
-3\. Elektrische Anlagen
-und Leittechnik                ............
-4\. Aufbau und Betrieb
-von Kraftwerken                ............
-(Im Fall des § 6: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß § 6 im Hinblick auf die am
-....................................... in
-..... vor ..... abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
-.....
-freigestellt.")
-Note
-II. Kraftwerksbetrieb                                  ...........
-Punkte
-Situationsbezogenes Fachgespräch  ............
-Datum ........................................
-Unterschrift .................................
-(Siegel der zuständigen Stelle)
------
-\*) Die Punktebewertungsskala ist wie folgt gegliedert: 100-92 Punkte
-= Note 1
-= sehr gut, unter 92-81 Punkte = Note 2 = gut, unter 81-67 Punkte =
-Note 3
-=befriedigend, unter 67-50 Punkte = Note 4 = ausreichend, unter 50-30
-Punkte
-= Note 5 = mangelhaft, unter 30-0 Punkte = Note 6 = ungenügend.
 

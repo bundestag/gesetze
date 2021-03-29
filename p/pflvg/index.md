@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1965, 213
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.12.2011 I 2628
+:   Art. 1 V v. 6.2.2017 I 147
 
 Mittelbare änderung durch
-:   Art. 8 G v. 19.10.2012 I 2182 ist berücksichtigt
+:   Art. 8 G v. 19.10.2012 I 2182, und durch Art. 5 G v. 24.4.2013 I 932 ist berücksichtigt
 
 Neufassung durch
 :   Art. 1 G v. 5.4.1965 I 213 udB "Gesetz über die Pflichtversicherung für Kraftfahrzeughalter (Pflichtversicherungsgesetz)"
@@ -63,7 +63,7 @@ Plätzen (§ 1 des Straßenverkehrsgesetzes) verwendet wird.
     Körperschaften des öffentlichen Rechts angehören,
 
 
-5.  juristische Personen, die von einem nach § 1 Abs. 3 Nr. 3 des
+5.  juristische Personen, die von einem nach § 3 Absatz 1 Nummer 4 des
     Versicherungsaufsichtsgesetzes von der Versicherungsaufsicht
     freigestellten Haftpflichtschadenausgleich Deckung erhalten,
 
@@ -173,24 +173,24 @@ Versicherungsverhältnisses als gekündigt.
 ### § 4
 
 (1) Um einen dem Zweck dieses Gesetzes gerecht werdenden Schutz
-sicherzustellen, bestimmt das Bundesministerium der Justiz unter
-Beachtung gemeinschaftsrechtlicher Verpflichtungen sowie des
-Europäischen Übereinkommens vom 20. April 1959 über die obligatorische
-Haftpflichtversicherung für Kraftfahrzeuge (BGBl. 1965 II S. 281) im
-Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung durch
-Rechtsverordnung ohne Zustimmung des Bundesrates den Umfang des
-notwendigen Versicherungsschutzes, den der Versicherungsvertrag zu
-gewähren hat. Das gilt auch für den Fall, daß durch Gesetz oder
-gemeinschaftsrechtliche Verpflichtung eine Versicherungspflicht zur
-Deckung der beim Transport gefährlicher Güter durch Kraftfahrzeuge
-verursachten Schäden begründet wird.
+sicherzustellen, bestimmt das Bundesministerium der Justiz und für
+Verbraucherschutz unter Beachtung gemeinschaftsrechtlicher
+Verpflichtungen sowie des Europäischen Übereinkommens vom 20. April
+1959 über die obligatorische Haftpflichtversicherung für
+Kraftfahrzeuge (BGBl. 1965 II S. 281) im Einvernehmen mit dem
+Bundesministerium der Finanzen und dem Bundesministerium für Verkehr
+und digitale Infrastruktur durch Rechtsverordnung ohne Zustimmung des
+Bundesrates den Umfang des notwendigen Versicherungsschutzes, den der
+Versicherungsvertrag zu gewähren hat. Das gilt auch für den Fall, daß
+durch Gesetz oder gemeinschaftsrechtliche Verpflichtung eine
+Versicherungspflicht zur Deckung der beim Transport gefährlicher Güter
+durch Kraftfahrzeuge verursachten Schäden begründet wird.
 
 (2) Die Mindesthöhen der Versicherungssummen ergeben sich aus der
-Anlage. Das Bundesministerium der Justiz wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung und dem Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Anlage. Das Bundesministerium der Justiz und für Verbraucherschutz
+wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr
+und digitale Infrastruktur und dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 in der Anlage getroffenen Regelungen zu ändern, wenn dies erforderlich
 ist, um
 
@@ -199,11 +199,11 @@ ist, um
     Geschädigten sicherzustellen oder
 
 
-2.  die Mindesthöhen der Versicherungssummen an die nach Artikel 1 Abs. 3
-    der Richtlinie 84/5/EWG des Rates vom 30. Dezember 1983 betreffend die
-    Angleichung der Rechtsvorschriften der Mitgliedstaaten bezüglich der
-    Kraftfahrzeug-Haftpflichtversicherung (ABl. EG 1984 Nr. L 8 S. 17)
-    erhöhten Beträge anzupassen.
+2.  die Mindesthöhen der Versicherungssummen an die nach Artikel 9 Absatz
+    2 der Richtlinie 2009/103/EG des Europäischen Parlaments und des Rates
+    vom 16. September 2009 über die Kraftfahrzeug-Haftpflichtversicherung
+    und die Kontrolle der entsprechenden Versicherungspflicht (ABl. L 263
+    vom 7.10.2009, S. 11) erhöhten Beträge anzupassen.
 
 
 
@@ -225,9 +225,9 @@ Versicherungsunternehmen genommen werden.
 Haftpflichtversicherung befugten Versicherungsunternehmen sind
 verpflichtet, den in § 1 genannten Personen nach den gesetzlichen
 Vorschriften Versicherung gegen Haftpflicht zu gewähren. Diese
-Verpflichtung besteht auch, wenn das zu versichernde Risiko nach § 13a
-Abs. 2 Satz 2 Nr. 2 Halbsatz 2 des Versicherungsaufsichtsgesetzes im
-Inland belegen ist.
+Verpflichtung besteht auch, wenn das zu versichernde Risiko nach § 57
+Absatz 3 Satz 2 Nummer 2 Halbsatz 2 des Versicherungsaufsichtsgesetzes
+im Inland belegen ist.
 
 (3) Der Antrag auf Abschluß eines Haftpflichtversicherungsvertrages
 für Zweiräder, Personen- und Kombinationskraftwagen bis zu 1 t
@@ -327,11 +327,11 @@ Entscheidung gehört.
 
 ### § 7
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, zur Durchführung des Ersten Abschnitts dieses Gesetzes im
-Einvernehmen mit dem Bundesministerium der Justiz und dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz und dem Bundesministerium für Wirtschaft und Energie
+durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
 erlassen über
 
 1.  die Form des Versicherungsnachweises;
@@ -341,8 +341,8 @@ erlassen über
 
 
 3.  die Erstattung der Anzeige des Versicherungsunternehmens gegenüber der
-    zuständigen Zulassungsbehörde zur Beendigung seiner Haftung nach § 3
-    Nr. 5;
+    zuständigen Zulassungsbehörde zur Beendigung seiner Haftung nach § 117
+    Absatz 2 des Versicherungsvertragsgesetzes;
 
 
 4.  Maßnahmen der Verkehrsbehörden, durch welche der Gebrauch nicht oder
@@ -378,7 +378,7 @@ oder die Anzahl der versicherten Risiken mit.
 Kraftfahrzeug-Haftpflichtversicherung für Kraftfahrzeuge und Anhänger
 mit regelmäßigem Standort im Inland betreiben, sind verpflichtet,
 einen im Inland ansässigen oder niedergelassenen Vertreter zu
-bestellen, der den Anforderungen nach § 13c des
+bestellen, der den Anforderungen nach § 59 des
 Versicherungsaufsichtsgesetzes zu genügen hat. Ansprüche aus
 Kraftfahrzeug-Haftpflichtfällen gegen das Versicherungsunternehmen
 können auch gegen den nach Satz 1 bestellten Vertreter gerichtlich und
@@ -409,12 +409,8 @@ Straßenverkehr erforderlich ist:
     Versicherungsschutzes, sofern dieser abgelaufen ist,
 
 
-3.  bei Fahrzeugen, die nach Artikel 4 Buchstabe a der Richtlinie
-    72/166/EWG des Rates vom 24. April 1972 betreffend die Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten bezüglich der Kraftfahrzeug-
-    Haftpflichtversicherung und der Kontrolle der entsprechenden
-    Versicherungspflicht (ABl. EG Nr. L 103 S. 1) von der
-    Versicherungspflicht befreit sind, den Namen der Stelle oder
+3.  bei Fahrzeugen, die nach Artikel 5 Absatz 1 der Richtlinie 2009/103/EG
+    von der Versicherungspflicht befreit sind, den Namen der Stelle oder
     Einrichtung, die dem Geschädigten nach geltendem Recht ersatzpflichtig
     ist,
 
@@ -435,43 +431,40 @@ sich der Unfall in der Bundesrepublik Deutschland ereignet hat.
 (2) Die Auskunftsstelle ersucht die Zulassungsbehörden oder das
 Kraftfahrt-Bundesamt sowie die in den anderen Mitgliedstaaten der
 Europäischen Union und in den anderen Vertragsstaaten des Abkommens
-über den Europäischen Wirtschaftsraum nach Artikel 5 Abs. 1 der
-Richtlinie 2000/26/EG des Europäischen Parlaments und des Rates vom
-16\. Mai 2000 zur Angleichung der Rechtsvorschriften der
-Mitgliedstaaten über die Kraftfahrzeug-Haftpflichtversicherung und zur
-Änderung der Richtlinien 73/239/EWG und 88/357/EWG des Rates (ABl. EG
-Nr. L 181 S. 65) errichteten oder anerkannten Auskunftsstellen im
-Einzelfall um Übermittlung der Informationen nach Absatz 1 Satz 1. Sie
-übermittelt den in diesen Staaten nach Artikel 5 Abs. 1 der Richtlinie
-2000/26/EG errichteten oder anerkannten Auskunftsstellen auf Ersuchen
-die Informationen nach Absatz 1 Satz 1, soweit dies zur Erteilung von
-Auskünften an Geschädigte erforderlich ist.
+über den Europäischen Wirtschaftsraum nach Artikel 23 Absatz 1 der
+Richtlinie 2009/103/EG errichteten oder anerkannten Auskunftsstellen
+im Einzelfall um Übermittlung der Informationen nach Absatz 1 Satz 1.
+Sie übermittelt den in diesen Staaten nach Artikel 23 Absatz 1 der
+Richtlinie 2009/103/EG errichteten oder anerkannten Auskunftsstellen
+auf Ersuchen die Informationen nach Absatz 1 Satz 1, soweit dies zur
+Erteilung von Auskünften an Geschädigte erforderlich ist.
 
 (3) Die Aufgaben und Befugnisse der Auskunftsstelle nach den Absätzen
 1 und 2 werden von der GDV Dienstleistungs-GmbH & Co. KG - "Zentralruf
 der Autoversicherer" - in Hamburg wahrgenommen, sobald und soweit
-diese schriftlich gegenüber dem Bundesministerium der Justiz ihre
-Bereitschaft dazu erklärt hat. Das Bundesministerium der Justiz gibt
-die Erklärung und den Zeitpunkt, ab dem die betroffenen Aufgaben von
-dem Zentralruf der Autoversicherer wahrgenommen werden, im
-Bundesanzeiger bekannt. Der Zentralruf der Autoversicherer untersteht,
-soweit er die übertragenen Aufgaben wahrnimmt, der Aufsicht des
-Bundesministeriums der Justiz. Das Bundesministerium der Justiz wird
-ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Aufgaben und Befugnisse der Auskunftsstelle nach den Absätzen 1 und 2
-der in § 13 genannten Anstalt zu übertragen, soweit die Wahrnehmung
-der Aufgaben durch den Zentralruf der Autoversicherer nicht
-gewährleistet ist oder dieser nicht mehr zur Wahrnehmung der Aufgaben
-bereit ist.
+diese schriftlich gegenüber dem Bundesministerium der Justiz und für
+Verbraucherschutz ihre Bereitschaft dazu erklärt hat. Das
+Bundesministerium der Justiz und für Verbraucherschutz gibt die
+Erklärung und den Zeitpunkt, ab dem die betroffenen Aufgaben von dem
+Zentralruf der Autoversicherer wahrgenommen werden, im Bundesanzeiger
+bekannt. Der Zentralruf der Autoversicherer untersteht, soweit er die
+übertragenen Aufgaben wahrnimmt, der Aufsicht des Bundesministeriums
+der Justiz und für Verbraucherschutz. Das Bundesministerium der Justiz
+und für Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die Aufgaben und Befugnisse der
+Auskunftsstelle nach den Absätzen 1 und 2 der in § 13 genannten
+Anstalt zu übertragen, soweit die Wahrnehmung der Aufgaben durch den
+Zentralruf der Autoversicherer nicht gewährleistet ist oder dieser
+nicht mehr zur Wahrnehmung der Aufgaben bereit ist.
 
 (4) Versicherungsunternehmen, denen im Inland die Erlaubnis zum
 Betrieb der Kraftfahrzeug-Haftpflichtversicherung für Kraftfahrzeuge
 und Anhänger erteilt ist, haben der Auskunftsstelle nach Absatz 3
 sowie den in den anderen Mitgliedstaaten der Europäischen Union und
 den Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum nach Artikel 5 Abs. 1 der Richtlinie 2000/26/EG
+Wirtschaftsraum nach Artikel 23 Absatz 1 der Richtlinie 2009/103/EG
 errichteten oder anerkannten Auskunftsstellen die Namen und
-Anschriften der nach § 7b des Versicherungsaufsichtsgesetzes
+Anschriften der nach § 163 des Versicherungsaufsichtsgesetzes
 bestellten Schadenregulierungsbeauftragten sowie jede Änderung dieser
 Angaben mitzuteilen.
 
@@ -487,11 +480,11 @@ Schadendurchschnitt und den Schadenbedarf.
 
 (2) Sofern die Träger der Kraftfahrzeug-Haftpflichtversicherung und
 ihre Verbände keine den Anforderungen des Absatzes 1 genügende
-Gemeinschaftsstatistik zur Verfügung stellen, wird die Statistik vom
-Bundesaufsichtsamt für das Versicherungswesen geführt.
+Gemeinschaftsstatistik zur Verfügung stellen, wird die Statistik von
+der Bundesanstalt für Finanzdienstleistungsaufsicht geführt.
 
-(3) Die Ergebnisse der Statistik sind vom Bundesaufsichtsamt für das
-Versicherungswesen jährlich zu veröffentlichen.
+(3) Die Ergebnisse der Statistik sind von der Bundesanstalt für
+Finanzdienstleistungsaufsicht jährlich zu veröffentlichen.
 
 
 ### § 10
@@ -513,12 +506,13 @@ mitzuteilen.
 ### § 11
 
 Das Bundesministerium der Finanzen wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium der Justiz und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung Vorschriften zu
-erlassen über den Inhalt, die Form und die Gliederung der nach § 9 zu
-führenden Kraftfahrzeug-Haftpflichtversicherungsstatistik sowie über
-die Fristen, den Inhalt, die Form und die Stückzahl der von den
-Versicherungsunternehmen einzureichenden Mitteilungen.
+mit dem Bundesministerium der Justiz und für Verbraucherschutz und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+Vorschriften zu erlassen über den Inhalt, die Form und die Gliederung
+der nach § 9 zu führenden Kraftfahrzeug-
+Haftpflichtversicherungsstatistik sowie über die Fristen, den Inhalt,
+die Form und die Stückzahl der von den Versicherungsunternehmen
+einzureichenden Mitteilungen.
 
 
 ## Dritter Abschnitt - Entschädigungsfonds für Schäden aus Kraftfahrzeugunfällen und Entschädigungsstelle für Auslandsunfälle
@@ -545,7 +539,7 @@ Fahrzeugs zustehen, diese Ersatzansprüche auch gegen den
 
 
 2a. wenn der Halter des Fahrzeugs nach § 2 Abs. 1 Nr. 6 oder nach einer in
-    Umsetzung des Artikels 4 Buchstabe b der Richtlinie 72/166/EWG
+    Umsetzung des Artikels 5 Absatz 2 der Richtlinie 2009/103/EG
     erlassenen Bestimmung eines anderen Mitgliedstaats der Europäischen
     Union von der Versicherungspflicht befreit ist,
 
@@ -625,11 +619,14 @@ Vorschriften, die bei Bestehen einer auf Grund dieses Gesetzes
 abgeschlossenen Haftpflichtversicherung für das Verhältnis zwischen
 dem Versicherer und dem Dritten in dem Falle gelten, daß der
 Versicherer dem Versicherungsnehmer gegenüber von der Verpflichtung
-zur Leistung frei ist. In den Fällen des Absatzes 1 Nr. 2 und 3 haben
-der Halter, der Eigentümer und der Fahrer des Fahrzeugs gegenüber dem
-Entschädigungsfonds die einen Versicherungsnehmer nach Eintritt des
-Versicherungsfalls gegenüber dem Versicherer treffenden
-Verpflichtungen zu erfüllen.
+zur Leistung frei ist. In den Fällen des Absatzes 1 Satz 1 Nummer 4
+bestimmt sich die Leistungspflicht des Entschädigungsfonds nach der
+vereinbarten Versicherungssumme; sie beträgt maximal das Dreifache der
+gesetzlichen Mindestversicherungssumme. In den Fällen des Absatzes 1
+Nr. 2 und 3 haben der Halter, der Eigentümer und der Fahrer des
+Fahrzeugs gegenüber dem Entschädigungsfonds die einen
+Versicherungsnehmer nach Eintritt des Versicherungsfalls gegenüber dem
+Versicherer treffenden Verpflichtungen zu erfüllen.
 
 (5) Der Entschädigungsfonds kann von den Personen, für deren
 Schadensersatzverpflichtungen er nach Absatz 1 einzutreten hat, wie
@@ -648,18 +645,25 @@ insoweit, als er aus dem Anspruch oder dem Recht hätte Ersatz erlangen
 können. Soweit der Entschädigungsfonds Ersatzansprüche nach Absatz 1
 Nr. 4 befriedigt, sind dessen Ersatzansprüche gegenüber dem
 Versicherungsnehmer und mitversicherten Personen auf je 2.500 Euro
-beschränkt.
+beschränkt. Die Beschränkung der Ersatzansprüche gilt in den Fällen
+des Absatzes 1 Satz 1 Nummer 4 auch für diejenigen Ansprüche gegen den
+Versicherungsnehmer und die mitversicherte Person, soweit eine
+Leistungspflicht des Entschädigungsfonds nach Absatz 1 Satz 2 und 3
+entfällt. Machen mehrere Berechtigte Ersatzansprüche geltend, sind
+diese Ersatzansprüche gegenüber dem Versicherungsnehmer auf insgesamt
+2 500 Euro und gegenüber mitversicherten Personen ebenfalls auf
+insgesamt 2 500 Euro beschränkt; die Auszahlung erfolgt nach dem
+Verhältnis der Beträge.
 
 (7) Im Fall des Absatzes 1 Satz 1 Nr. 4 sind der Versicherer und sein
 nach § 8 Abs. 2 Satz 1 bestellter Vertreter, der vorläufige
 Insolvenzverwalter ebenso wie der Insolvenzverwalter (§ 22 Abs. 1 Satz
 1, § 56 der Insolvenzordnung), der von der Aufsichtsbehörde bestellte
-Sonderbeauftragte (§ 81 Abs. 2a des Versicherungsaufsichtsgesetzes)
-sowie alle Personen, die mit der Verwaltung der Kraftfahrzeug-
-Haftpflichtversicherungsverträge einschließlich der Regulierung der
-diesen Verträgen zuzurechnenden Schadensfälle betraut sind,
-verpflichtet, dem Entschädigungsfonds die für die Erfüllung seiner
-Aufgaben erforderlichen Auskünfte zu erteilen, die benötigten
+Sonderbeauftragte sowie alle Personen, die mit der Verwaltung der
+Kraftfahrzeug-Haftpflichtversicherungsverträge einschließlich der
+Regulierung der diesen Verträgen zuzurechnenden Schadensfälle betraut
+sind, verpflichtet, dem Entschädigungsfonds die für die Erfüllung
+seiner Aufgaben erforderlichen Auskünfte zu erteilen, die benötigten
 Unterlagen zu überlassen und ihn bei der Abwicklung zu unterstützen.
 
 
@@ -683,8 +687,8 @@ Fahrzeugs zustehen, diese vorbehaltlich des Absatzes 4 gegen die
     enthaltenen Darlegungen erteilt hat oder
 
 
-2.  wenn das Versicherungsunternehmen entgegen Artikel 4 Abs. 1 der
-    Richtlinie 2000/26/EG in der Bundesrepublik Deutschland keinen
+2.  wenn das Versicherungsunternehmen entgegen Artikel 21 Absatz 1 der
+    Richtlinie 2009/103/EG in der Bundesrepublik Deutschland keinen
     Schadenregulierungsbeauftragten bestellt hat, es sei denn, dass der
     Geschädigte einen Antrag auf Erstattung direkt beim
     Versicherungsunternehmen eingereicht hat und von diesem innerhalb von
@@ -715,15 +719,9 @@ eingeleitet hat.
     Versicherungsunternehmens ihren Sitz hat, die die Versicherungspolice
     ausgestellt hat,
 
-    *
-        3.  die Person, die den Unfall verursacht haben soll, sofern sie bekannt
-            ist,
 
-
-
-
-
-
+3.  die Person, die den Unfall verursacht haben soll, sofern sie bekannt
+    ist,
 
 
 4.  das deutsche Büro des Systems der Grünen Internationalen
@@ -733,7 +731,7 @@ eingeleitet hat.
 
 
 5.  in den Fällen des Absatzes 1 Nr. 3 den Garantiefonds im Sinne von
-    Artikel 1 Abs. 4 der Richtlinie 84/5/EWG des Staates, in dem das
+    Artikel 10 Absatz 1 der Richtlinie 2009/103/EG des Staates, in dem das
     Fahrzeug seinen gewöhnlichen Standort hat, sofern das
     Versicherungsunternehmen nicht ermittelt werden kann, oder, wenn das
     Fahrzeug nicht ermittelt werden kann, den Garantiefonds des Staates,
@@ -755,8 +753,8 @@ nach Maßgabe des anzuwendenden Rechts. Sie kann sich hierzu anderer
 Personen oder Einrichtungen, insbesondere eines zur Übernahme der
 Regulierung bereiten Versicherungsunternehmens oder
 Schadenabwicklungsunternehmens, bedienen. Im Übrigen bestimmt sich das
-Verfahren nach dem Abkommen der Entschädigungsstellen nach Artikel 6
-Abs. 3 der Richtlinie 2000/26/EG.
+Verfahren nach dem Abkommen der Entschädigungsstellen nach Artikel 24
+Absatz 3 der Richtlinie 2009/103/EG.
 
 (4) Hat sich der Unfall in einem Staat ereignet, der nicht
 Mitgliedstaat der Europäischen Union oder Vertragsstaat des Abkommens
@@ -767,8 +765,9 @@ eines Fahrzeugs verursacht wurde, das in einem Mitgliedstaat der
 Europäischen Union oder Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum versichert ist und dort seinen
 gewöhnlichen Standort hat und wenn das nationale Versicherungsbüro
-(Artikel 1 Abs. 3 der Richtlinie 72/166/EWG) des Staates, in dem sich
-der Unfall ereignet hat, dem System der Grünen Karte beigetreten ist.
+(Artikel 1 Nummer 3 der Richtlinie 2009/103/EG) des Staates, in dem
+sich der Unfall ereignet hat, dem System der Grünen Karte beigetreten
+ist.
 
 
 ### § 12b
@@ -778,8 +777,8 @@ Schaden ersetzt, geht der Anspruch des Ersatzberechtigten gegen den
 Halter, den Eigentümer, den Fahrer und einen sonstigen
 Ersatzpflichtigen auf die Entschädigungsstelle über. Der Übergang kann
 nicht zum Nachteil des Ersatzberechtigten geltend gemacht werden.
-Soweit eine Entschädigungsstelle im Sinne des Artikels 6 der
-Richtlinie 2000/26/EG einer anderen Entschädigungsstelle einen als
+Soweit eine Entschädigungsstelle im Sinne des Artikels 24 der
+Richtlinie 2009/103/EG einer anderen Entschädigungsstelle einen als
 Entschädigung gezahlten Betrag erstattet, gehen die auf die zuletzt
 genannte Entschädigungsstelle übergegangenen Ansprüche des
 Geschädigten gegen den Halter, den Eigentümer, den Fahrer und einen
@@ -790,8 +789,8 @@ Entschädigungsstelle über.
 ### § 12c
 
 (1) Der Entschädigungsfonds nach § 12 ist verpflichtet, einem
-Entschädigungsfonds im Sinne des Artikels 1 Abs. 4 der Richtlinie
-84/5/EWG eines anderen Mitgliedstaats der Europäischen Union den
+Entschädigungsfonds im Sinne des Artikels 10 Absatz 1 der Richtlinie
+2009/103/EG eines anderen Mitgliedstaats der Europäischen Union den
 Betrag zu erstatten, den dieser als Entschädigung wegen eines
 Personen- oder Sachschadens zahlt, der auf dem Gebiet dieses
 Mitgliedstaats durch ein Fahrzeug verursacht wurde, dessen Halter nach
@@ -811,49 +810,50 @@ sonstigen Ersatzpflichtigen auf den Entschädigungsfonds nach § 12
 rechtsfähige Anstalt des öffentlichen Rechts errichtet, die mit dem
 Inkrafttreten dieses Gesetzes als entstanden gilt. Organe der Anstalt
 sind der Vorstand und der Verwaltungsrat. Die Anstalt untersteht der
-Aufsicht des Bundesministeriums der Justiz. Das Nähere über die
-Anstalt bestimmt die Satzung, die von der Bundesregierung durch
-Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird. Die
-im Geltungsbereich dieses Gesetzes zum Betrieb der Kraftfahrzeug-
-Haftpflichtversicherung befugten Versicherungsunternehmen und die
-Haftpflichtschadenausgleiche im Sinne von § 1 Abs. 3 Nr. 3 des
-Versicherungsaufsichtsgesetzes sowie die nach § 2 Nrn. 1 bis 4 von der
-Versicherungspflicht befreiten Halter nichtversicherter Fahrzeuge sind
-verpflichtet, unter Berücksichtigung ihres Anteils am Gesamtbestand
-der Fahrzeuge und der Art dieser Fahrzeuge an die Anstalt Beiträge zur
-Deckung der Entschädigungsleistungen und der Verwaltungskosten zu
-leisten. Das Nähere über die Beitragspflicht bestimmt das
-Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung, dem Bundesministerium für
-Wirtschaft und Technologie und dem Bundesministerium der Finanzen
-durch Rechtsverordnung mit Zustimmung des Bundesrates.
+Aufsicht des Bundesministeriums der Justiz und für Verbraucherschutz.
+Das Nähere über die Anstalt bestimmt die Satzung, die von der
+Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates
+aufgestellt wird. Die im Geltungsbereich dieses Gesetzes zum Betrieb
+der Kraftfahrzeug-Haftpflichtversicherung befugten
+Versicherungsunternehmen und die Haftpflichtschadenausgleiche im Sinne
+von § 3 Absatz 1 Nummer 4 des Versicherungsaufsichtsgesetzes sowie die
+nach § 2 Nrn. 1 bis 4 von der Versicherungspflicht befreiten Halter
+nichtversicherter Fahrzeuge sind verpflichtet, unter Berücksichtigung
+ihres Anteils am Gesamtbestand der Fahrzeuge und der Art dieser
+Fahrzeuge an die Anstalt Beiträge zur Deckung der
+Entschädigungsleistungen und der Verwaltungskosten zu leisten. Das
+Nähere über die Beitragspflicht bestimmt das Bundesministerium der
+Justiz und für Verbraucherschutz im Einvernehmen mit dem
+Bundesministerium für Verkehr und digitale Infrastruktur, dem
+Bundesministerium für Wirtschaft und Energie und dem Bundesministerium
+der Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Verkehr, Bau und Stadtentwicklung, dem
-Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates die Stellung des Entschädigungsfonds einer anderen
-bestehenden juristischen Person zuzuweisen, wenn diese bereit ist, die
-Aufgaben des Entschädigungsfonds zu übernehmen, und wenn sie
-hinreichende Gewähr für die Erfüllung der Ansprüche der
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und
+digitale Infrastruktur, dem Bundesministerium für Wirtschaft und
+Energie und dem Bundesministerium der Finanzen durch Rechtsverordnung
+ohne Zustimmung des Bundesrates die Stellung des Entschädigungsfonds
+einer anderen bestehenden juristischen Person zuzuweisen, wenn diese
+bereit ist, die Aufgaben des Entschädigungsfonds zu übernehmen, und
+wenn sie hinreichende Gewähr für die Erfüllung der Ansprüche der
 Ersatzberechtigten bietet. Durch die Rechtsverordnung kann sich das
-Bundesministerium der Justiz die Genehmigung der Satzung dieser
-juristischen Person vorbehalten und die Aufsicht über die juristische
-Person regeln.
+Bundesministerium der Justiz und für Verbraucherschutz die Genehmigung
+der Satzung dieser juristischen Person vorbehalten und die Aufsicht
+über die juristische Person regeln.
 
-(3) Das Bundesministerium der Justiz wird ferner ermächtigt, im
-Einvernehmen mit den in Absatz 2 genannten Bundesministerien durch
-Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, von
-welchem Zeitpunkt ab die Anstalt (Absatz 1) oder die durch
-Rechtsverordnung (Absatz 2) bezeichnete juristische Person von
-Ersatzberechtigten in Anspruch genommen werden kann, und zu bestimmen,
-daß eine Leistungspflicht nur besteht, wenn das schädigende Ereignis
-nach einem in der Verordnung festzusetzenden Zeitpunkt eingetreten
-ist. Die Anstalt kann jedoch spätestens zwei Jahre nach dem
-Inkrafttreten dieses Gesetzes wegen der Schäden, die sich nach diesem
-Zeitpunkt ereignen, in Anspruch genommen werden, sofern nicht bis zu
-diesem Zeitpunkt den Ersatzberechtigten durch Rechtsverordnung die
-Möglichkeit gegeben worden ist, eine andere juristische Person in
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ferner ermächtigt, im Einvernehmen mit den in Absatz 2 genannten
+Bundesministerien durch Rechtsverordnung ohne Zustimmung des
+Bundesrates zu bestimmen, von welchem Zeitpunkt ab die Anstalt (Absatz
+1) oder die durch Rechtsverordnung (Absatz 2) bezeichnete juristische
+Person von Ersatzberechtigten in Anspruch genommen werden kann, und zu
+bestimmen, daß eine Leistungspflicht nur besteht, wenn das schädigende
+Ereignis nach einem in der Verordnung festzusetzenden Zeitpunkt
+eingetreten ist. Die Anstalt kann jedoch spätestens zwei Jahre nach
+dem Inkrafttreten dieses Gesetzes wegen der Schäden, die sich nach
+diesem Zeitpunkt ereignen, in Anspruch genommen werden, sofern nicht
+bis zu diesem Zeitpunkt den Ersatzberechtigten durch Rechtsverordnung
+die Möglichkeit gegeben worden ist, eine andere juristische Person in
 Anspruch zu nehmen.
 
 (4) Der Entschädigungsfonds ist von der Körperschaftsteuer, der
@@ -872,15 +872,17 @@ Kalenderjahres begrenzt.
 werden von dem rechtsfähigen Verein "Verkehrsopferhilfe eingetragener
 Verein" in Hamburg (Verkehrsopferhilfe) wahrgenommen, sobald und
 soweit dieser schriftlich gegenüber dem Bundesministerium der Justiz
-seine Bereitschaft dazu erklärt hat. Das Bundesministerium der Justiz
-gibt die Erklärung und den Zeitpunkt, ab dem die betroffenen Aufgaben
-von der Verkehrsopferhilfe wahrgenommen werden, im Bundesanzeiger
-bekannt. Die Verkehrsopferhilfe untersteht, soweit sie die
-übertragenen Aufgaben wahrnimmt, der Aufsicht des Bundesministeriums
-der Justiz. Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die Aufgaben und
-Befugnisse der Entschädigungsstelle nach § 12a der in § 13 genannten
-Anstalt zu übertragen, soweit die Wahrnehmung der Aufgaben durch die
+und für Verbraucherschutz seine Bereitschaft dazu erklärt hat. Das
+Bundesministerium der Justiz und für Verbraucherschutz gibt die
+Erklärung und den Zeitpunkt, ab dem die betroffenen Aufgaben von der
+Verkehrsopferhilfe wahrgenommen werden, im Bundesanzeiger bekannt. Die
+Verkehrsopferhilfe untersteht, soweit sie die übertragenen Aufgaben
+wahrnimmt, der Aufsicht des Bundesministeriums der Justiz und für
+Verbraucherschutz. Das Bundesministerium der Justiz und für
+Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die Aufgaben und Befugnisse der
+Entschädigungsstelle nach § 12a der in § 13 genannten Anstalt zu
+übertragen, soweit die Wahrnehmung der Aufgaben durch die
 Verkehrsopferhilfe nicht gewährleistet ist oder diese nicht mehr zur
 Wahrnehmung der Aufgaben bereit ist.
 
@@ -890,11 +892,11 @@ Gewerbesteuer und der Vermögensteuer befreit.
 
 ### § 14
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Verkehr, Bau und Stadtentwicklung, dem
-Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Verkehr und
+digitale Infrastruktur, dem Bundesministerium für Wirtschaft und
+Energie und dem Bundesministerium der Finanzen durch Rechtsverordnung
+ohne Zustimmung des Bundesrates
 
 1.  zu bestimmen, daß der Entschädigungsfonds in den Fällen des § 12 Abs.
     1 Nr. 1 auch für Schäden einzutreten hat, die einem Deutschen
@@ -959,7 +961,8 @@ schriftlich über sein Kündigungsrecht belehrt.
 
 ### § 16
 
--
+§ 12 Absatz 4 Satz 2 und Absatz 6 Satz 5 und 6 gilt nicht für
+Ansprüche, die vor dem 1. Mai 2013 entstanden sind.
 
 
 ### Anlage zu § 4 Abs. 2
@@ -975,7 +978,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     a)  für Personenschäden siebeneinhalb Millionen Euro,
 
 
-    b)  für Sachschäden 1 120 000 Euro,
+    b)  für Sachschäden 1 220 000 Euro,
 
 
     c)  für die weder mittelbar noch unmittelbar mit einem Personen- oder

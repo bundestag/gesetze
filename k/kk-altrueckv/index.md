@@ -3,7 +3,7 @@ Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen K
   und ihre Verbände
 jurabk: KK-AltRückV
 layout: default
-origslug: kk-altr_ckv
+origslug: kk-altrueckv
 slug: kk-altrueckv
 
 ---
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1396
 
-Geändert durch
-:   Art. 13 Abs. 22 G v. 12.4.2012 I 579
+Zuletzt geändert durch
+:   Art. 19 G v. 11.11.2016 I 2500
 
 
 ## Eingangsformel
@@ -147,10 +147,7 @@ Die jährlichen Zuweisungsbeträge sind dem Deckungskapital bis zum 31.
 Dezember des für die Zuführung maßgeblichen Kalenderjahres zuzuführen.
 
 
-## § 6 Anlage der Mittel
-
-Das Deckungskapital zur Finanzierung der Altersrückstellungen ist nach
-§ 80 des Vierten Buches Sozialgesetzbuch anzulegen.
+## § 6 (weggefallen)
 
 
 ## § 7 Inkrafttreten

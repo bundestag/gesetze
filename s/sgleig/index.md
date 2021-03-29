@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 3822
 
 Zuletzt geändert durch
-:   Art. 11 G v. 21.7.2012 I 1583
+:   Art. 88 G v. 29.3.2017 I 626
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -30,9 +30,9 @@ Soldaten der Bundeswehr sowie der Beseitigung bestehender und der
 Verhinderung künftiger Diskriminierungen wegen des Geschlechts. Nach
 Maßgabe dieses Gesetzes werden Soldatinnen gefördert, um bestehende
 Benachteiligungen abzubauen. Ziel des Gesetzes ist es auch, die
-Vereinbarkeit von Familie und Dienst in den Streitkräften für
-Soldatinnen und Soldaten zu verbessern. Die Funktionsfähigkeit der
-Streitkräfte wird dadurch nicht beeinträchtigt.
+Vereinbarkeit von Familie und Dienst für Soldatinnen und Soldaten zu
+verbessern. Die Auftragserfüllung der Streitkräfte wird dadurch nicht
+beeinträchtigt.
 
 (2) Rechts- und Verwaltungsvorschriften für Soldatinnen und Soldaten
 sollen die Gleichstellung von Frauen und Männern auch sprachlich zum
@@ -59,7 +59,7 @@ Zusammenarbeit zu berücksichtigen.
 
 ### § 3 Geltungsbereich
 
-(1) Dieses Gesetz gilt für alle Soldatinnen und Soldaten.
+(1) (weggefallen)
 
 (2) Bei der Ausgliederung von Aufgaben des Geschäftsbereichs des
 Bundesministeriums der Verteidigung in die Rechtsform eines
@@ -90,25 +90,28 @@ Soldatin oder ein Soldat mindestens ein Kind unter 18 Jahren oder eine
 Angehörige oder einen Angehörigen, die oder der nach ärztlichem
 Gutachten pflegebedürftig ist, tatsächlich betreut oder pflegt.
 
-(2) Bereiche im Sinne dieses Gesetzes unter Berücksichtigung
-struktureller Vorgaben sind
+(2) Bereiche im Sinne dieses Gesetzes sind:
 
 1.  die einzelnen Laufbahngruppen und Laufbahnen sowie Besoldungsgruppen,
 
 
 2.  die Statusgruppen der Berufssoldatinnen und Berufssoldaten sowie der
-    Soldatinnen auf Zeit und Soldaten auf Zeit,
+    Soldatinnen auf Zeit und Soldaten auf Zeit, der freiwilligen
+    Wehrdienst Leistenden sowie der Reservistinnen und Reservisten, die
+    einen aktiven Reservistendienst leisten,
 
 
-3.  die militärischen Organisationsbereiche Heer, Luftwaffe, Marine und
-    Sanitätsdienst.
+3.  die militärischen Organisationsbereiche,
+
+
+4.  die zivilen Organisationsbereiche.
 
 
 
 
 (3) Dienststellen im Sinne dieses Gesetzes sind das Bundesministerium
-der Verteidigung sowie alle militärischen Dienststellen und
-Truppenteile ab der Einheitsebene.
+der Verteidigung, die militärischen und zivilen Dienststellen der
+Bundeswehr sowie die Truppenteile.
 
 (4) Qualifikation im Sinne dieses Gesetzes sind Eignung, Befähigung
 und Leistung.
@@ -116,25 +119,18 @@ und Leistung.
 (5) Soldatinnen sind dann als unterrepräsentiert anzusehen, wenn ihr
 Anteil in den einzelnen Bereichen nach Absatz 2 in allen Laufbahnen
 mit Ausnahme der Laufbahn des Sanitätsdienstes unter 15 Prozent, in
-der Laufbahn des Sanitätsdienstes unter 50 Prozent liegt. Das
-Bundesministerium der Verteidigung erstattet dem Deutschen Bundestag
-spätestens nach zwei Jahren Bericht, ob die in Satz 1 festgesetzten
-Quoten dem Ziel der Förderung der Gleichstellung von Soldatinnen und
-Soldaten angemessen Rechnung tragen; der Bericht nach § 24 bleibt
-hierdurch unberührt. Spätestens nach fünf Jahren entscheidet der
-Deutsche Bundestag, ob zur Förderung der Gleichstellung eine Änderung
-der in Satz 1 festgesetzten Quoten notwendig ist.
+der Laufbahn des Sanitätsdienstes unter 50 Prozent liegt.
 
 (6) Eine unmittelbare Diskriminierung von Soldatinnen ist gegeben,
 wenn diese auf Grund ihres Geschlechts in einer vergleichbaren
-Situation eine weniger günstige Behandlung erfahren als Soldaten
-erfahren, erfahren haben oder erfahren würden. Eine mittelbare
-Diskriminierung von Soldatinnen liegt vor, wenn dem Anschein nach
-neutrale Vorschriften, Kriterien oder Verfahren die Soldatinnen in
-besonderer Weise gegenüber den Soldaten benachteiligen können, es sei
-denn, die betreffenden Vorschriften, Kriterien oder Verfahren sind
-durch ein rechtmäßiges Ziel gerechtfertigt und die Mittel sind zur
-Erreichung dieses Ziels angemessen und erforderlich.
+Situation eine weniger günstige Behandlung als Soldaten erfahren,
+erfahren haben oder erfahren würden. Eine mittelbare Diskriminierung
+von Soldatinnen liegt vor, wenn dem Anschein nach neutrale
+Vorschriften, Kriterien oder Verfahren die Soldatinnen in besonderer
+Weise gegenüber den Soldaten benachteiligen können, es sei denn, die
+betreffenden Vorschriften, Kriterien oder Verfahren sind durch ein
+rechtmäßiges Ziel gerechtfertigt und die Mittel sind zur Erreichung
+dieses Ziels angemessen und erforderlich.
 
 (7) (weggefallen)
 
@@ -161,9 +157,9 @@ Anwendung.
 die Streitkräfte müssen sowohl Frauen als auch Männer ansprechen. Der
 gesamte Anzeigentext darf nicht nur auf Personen eines Geschlechts
 zugeschnitten sein. In Anzeigen für Bereiche, in denen Soldatinnen
-nach Maßgabe des § 4 Abs. 2 und 5 unterrepräsentiert sind, ist
-hervorzuheben, dass Bewerbungen von Frauen erwünscht sind und dass
-Frauen bei gleicher Qualifikation bevorzugt eingestellt werden.
+nach Maßgabe des § 4 Abs. 5 unterrepräsentiert sind, ist
+hervorzuheben, dass Bewerbungen von Frauen erwünscht sind und Frauen
+bei gleicher Qualifikation bevorzugt eingestellt werden.
 
 (2) Anzeigen zur Personalwerbung müssen im Hinblick auf mögliche
 künftige Funktionen der Bewerberinnen und Bewerber das vorausgesetzte
@@ -256,16 +252,14 @@ Soldatinnen und Soldaten mit Familienpflichten entsprechen.
 Möglichkeiten der Kinderbetreuung sollen im Bedarfsfall angeboten
 werden. Im Einzelfall können auf Antrag für die Dauer der Teilnahme an
 dienstlichen Maßnahmen der Aus-, Fort- und Weiterbildung zusätzlich
-anfallende unabwendbare Kinderbetreuungskosten erstattet werden. Das
-Nähere regelt das Bundesministerium der Verteidigung durch
-Rechtsverordnung ohne Zustimmung des Bundesrates.
+anfallende unabwendbare Kinderbetreuungskosten erstattet werden.
 
 (3) Dem mit der Personalführung und Personalbearbeitung beauftragten
 Personal sowie dem Personal in Funktionen mit Vorgesetzten- und
 Führungsaufgaben soll Fortbildung über Maßnahmen zur Gleichstellung
 von Soldatinnen und Soldaten sowie zur Vereinbarkeit von Familie und
-Dienst in den Streitkräften angeboten werden. Entsprechende
-Fortbildungsangebote der Dienststelle sollen wahrgenommen werden.
+Dienst angeboten werden. Entsprechende Fortbildungsangebote der
+Dienststelle sollen wahrgenommen werden.
 
 (4) Soldatinnen sind verstärkt als Leiterinnen und Referentinnen von
 Fortbildungsveranstaltungen einzusetzen.
@@ -280,11 +274,11 @@ der militärischen Personalführung sowie der Disziplinarvorgesetzten.
 
 (2) Der Gleichstellungsplan muss die Situation der Soldatinnen im
 Vergleich zur Situation der Soldaten beschreiben und die bisherige
-Förderung der Soldatinnen in den einzelnen Bereichen (§ 4 Abs. 2 und
-5) auswerten. Insbesondere sind zur Erhöhung des Anteils der
-Soldatinnen in den einzelnen Bereichen Maßnahmen zur Durchsetzung
-notwendiger personeller und organisatorischer Verbesserungen im Rahmen
-konkreter Zielvorgaben vorzusehen. In jedem Gleichstellungsplan ist in
+Förderung der Soldatinnen in den einzelnen Bereichen (§ 4 Abs. 2)
+auswerten. Insbesondere sind zur Erhöhung des Anteils der Soldatinnen
+in den einzelnen Bereichen Maßnahmen zur Durchsetzung notwendiger
+personeller und organisatorischer Verbesserungen im Rahmen konkreter
+Zielvorgaben vorzusehen. In jedem Gleichstellungsplan ist in
 Bereichen, in denen Soldatinnen unterrepräsentiert sind, für die
 Besetzung von Dienstposten die Anzahl von Soldatinnen festzulegen, die
 der in § 4 Abs. 5 genannten Quote entspricht. Personenbezogene Daten
@@ -327,7 +321,7 @@ entgegenstehen.
 
 (1) Für Soldatinnen und Soldaten ist nach Maßgabe des § 30a des
 Soldatengesetzes Teilzeitbeschäftigung sowie nach Maßgabe des § 28
-Abs. 5 des Soldatengesetzes familienbedingte Beurlaubung zu
+Abs. 5 und 7 des Soldatengesetzes familienbedingte Beurlaubung zu
 ermöglichen.
 
 (2) Soldatinnen und Soldaten, die eine Teilzeitbeschäftigung oder eine
@@ -389,113 +383,139 @@ vor der Beurlaubung nachgewiesen wurde und die übrigen
 laufbahnrechtlichen Voraussetzungen erfüllt sind.
 
 
-## Abschnitt 4 - Gleichstellungsbeauftragte
+## Abschnitt 4 - Gleichstellungsbeauftragte, Gleichstellungsvertrauensfrau
 
 
 
-### § 16 Wahl der Gleichstellungsbeauftragten und der Stellvertreterin
+### § 16 Grundsätze
 
-(1) Für die Divisionsebene und für die Dienststellen vergleichbarer
-Ebene wählen die Soldatinnen eine der jeweiligen Dienststelle
-zuzuordnende Gleichstellungsbeauftragte. Wahlberechtigt sind alle
-Soldatinnen in den der Division zugehörenden Dienststellen. Für die
-Wahl der den Dienststellen vergleichbarer Ebene zugeordneten
-Gleichstellungsbeauftragten gilt Entsprechendes.
+(1) Die Gleichstellungsbeauftragte wird in geheimer Wahl gewählt.
+Wiederwahl ist zulässig.
 
-(2) Für die der Divisionsebene und den Dienststellen vergleichbarer
-Ebene übergeordneten Dienststellen werden ebenfalls der jeweiligen
-Dienststelle zuzuordnende Gleichstellungsbeauftragte gewählt.
-Wahlberechtigt sind alle Soldatinnen dieser Dienststellen sowie der
-nachgeordneten Dienststellen, soweit sie nicht bereits nach Absatz 1
-Satz 2 und 3 wahlberechtigt sind.
+(2) Die gewählte Kandidatin wird von der Dienststelle für vier Jahre
+zur Gleichstellungsbeauftragten bestellt. Findet sich keine
+Kandidatin, bestellt die Dienststelle eine Gleichstellungsbeauftragte
+aus dem Kreis der wahlberechtigten Soldatinnen bis zur Bestellung
+einer gewählten Kandidatin. Die Bestellung bedarf der Zustimmung der
+Soldatin.
 
-(3) Für die zentralen personalbearbeitenden Dienststellen
-einschließlich des Bundesministeriums der Verteidigung werden
-ebenfalls Gleichstellungsbeauftragte gewählt. Wahlberechtigt sind alle
-Soldatinnen, für die in der jeweiligen zentralen personalbearbeitenden
-Dienststelle Personalentscheidungen getroffen werden, sowie die
-Soldatinnen der jeweiligen Dienststellen einschließlich der
-zugehörenden Dienststellen. Für die Gleichstellungsbeauftragte im
-Bundesministerium der Verteidigung sind die Soldatinnen dieser
-Dienststelle sowie die Soldatinnen wahlberechtigt, für die in dieser
+(3) Für die Gleichstellungsbeauftragte wird eine Stellvertreterin
+gewählt und bestellt. Bei großen Zuständigkeits- oder komplexen
+Aufgabenbereichen werden zwei Stellvertreterinnen gewählt und
+bestellt.
+
+(4) Für die Wahl und die Bestellung der Stellvertreterin gelten die
+Absätze 1 und 2 mit der Maßgabe entsprechend, dass im Fall des
+Absatzes 2 Satz 2 die Gleichstellungsbeauftragte ein Vorschlagsrecht
+hat; ihrem Vorschlag soll gefolgt werden.
+
+(5) Die Gleichstellungsbeauftragte und ihre Stellvertreterin dürfen
+während ihrer Amtszeit weder einer Personalvertretung noch einer
+Schwerbehindertenvertretung angehören und nur in ihrer Eigenschaft als
+Gleichstellungsbeauftragte mit Personalangelegenheiten befasst sein.
+Sie dürfen auch nicht zugleich Vertrauensperson nach dem
+Soldatenbeteiligungsgesetz sein.
+
+
+### § 16a Wahl und Wahlberechtigung in militärischen Organisationsbereichen
+
+(1) In den militärischen Organisationsbereichen wird für jede
+Dienststelle der Divisionsebene eine Gleichstellungsbeauftragte
+gewählt. Wahlberechtigt und wählbar sind alle Soldatinnen der Division
+sowie die Soldatinnen der der Division nachgeordneten Dienststellen.
+Für Dienststellen vergleichbarer Ebene gelten die Sätze 1 und 2
+entsprechend.
+
+(2) In Dienststellen, die der Divisionsebene oder den Dienststellen
+vergleichbarer Ebene übergeordnet sind, wird ebenfalls eine
+Gleichstellungsbeauftragte gewählt. Wahlberechtigt und wählbar sind
+alle Soldatinnen der übergeordneten Dienststelle sowie der ihr
+nachgeordneten Dienststellen, soweit die Soldatinnen nicht bereits
+nach Absatz 1 wahlberechtigt sind.
+
+
+### § 16b Wahl und Wahlberechtigung in zivilen Organisationsbereichen
+
+(1) In den zivilen Organisationsbereichen kann ab der Ebene der
+Bundesoberbehörde eine Gleichstellungsbeauftragte gewählt werden.
+Wahlberechtigt und wählbar sind alle Soldatinnen der Bundesoberbehörde
+sowie der nachgeordneten Dienststellen.
+
+(2) In den zentralen personalbearbeitenden Dienststellen wird
+ebenfalls eine Gleichstellungsbeauftragte gewählt. Wahlberechtigt und
+wählbar sind die Soldatinnen der zentralen personalbearbeitenden
+Dienststelle und der ihr nachgeordneten Dienststellen sowie die
+Soldatinnen, für die in der zentralen personalbearbeitenden
 Dienststelle Personalentscheidungen getroffen werden.
 
-(4) Die gemäß den Absätzen 1 bis 3 wahlberechtigten Soldatinnen wählen
-die jeweilige Gleichstellungsbeauftragte aus ihrem Kreis in geheimer
-Wahl. Wiederwahl ist möglich.
 
-(5) Die gemäß den Absätzen 1 bis 4 gewählte Gleichstellungsbeauftragte
-wird von der Dienststelle, der sie zuzuordnen ist, für vier Jahre
-bestellt. Findet sich keine Kandidatin oder ist nach der Wahl keine
-Kandidatin gewählt, ist die Gleichstellungsbeauftragte von der
-Dienststelle, der sie zuzuordnen ist, aus dem Kreis der
-wahlberechtigten Soldatinnen von Amts wegen zu bestellen; hierzu
-bedarf es der Zustimmung der zu bestellenden Soldatin.
+### § 16c Wahl und Wahlberechtigung im Bundesministerium der Verteidigung und in weiteren Dienststellen
 
-(6) Für Dienststellen ohne eigene Gleichstellungsbeauftragte ist
-zusätzlich ab der Regimentsebene als Ansprechpartnerin für die
-Soldatinnen und Soldaten und für die zuständige
-Gleichstellungsbeauftragte eine Gleichstellungsvertrauensfrau zu
-bestellen, wenn dies tatsächlich möglich ist. Deren Aufgabe besteht in
-der Vermittlung von Informationen zwischen den Soldatinnen und
-Soldaten und der zuständigen Gleichstellungsbeauftragten. Die
-Gleichstellungsvertrauensfrau berät die zuständige
-Gleichstellungsbeauftragte in allen Fragen, welche die vertretenen
-Dienststellen betreffen. Die Gleichstellungsbeauftragte kann der
-Gleichstellungsvertrauensfrau mit deren Einverständnis Aufgaben zur
-eigenständigen Erledigung bei den vertretenen Dienststellen
-übertragen.
+(1) Im Bundesministerium der Verteidigung wird eine
+Gleichstellungsbeauftragte gewählt. Wahlberechtigt und wählbar sind
+die Soldatinnen der Dienststelle sowie die Soldatinnen, für die im
+Bundesministerium der Verteidigung Personalentscheidungen getroffen
+werden.
 
-(7) Für jede Gleichstellungsbeauftragte ist eine Stellvertreterin
-gemäß den Absätzen 1 bis 4 zu wählen und zu bestellen. Findet sich für
-die Wahl der Stellvertreterin keine Kandidatin oder ist nach der Wahl
-keine Kandidatin gewählt, ist eine Stellvertreterin auf Vorschlag der
-Gleichstellungsbeauftragten aus dem Kreis der Soldatinnen zu
-bestellen, die den Dienststellen angehören, für die gemäß den Absätzen
-1 bis 3 eine Gleichstellungsbeauftragte zu wählen ist. Zur Bestellung
-bedarf es der Zustimmung der zu bestellenden Soldatin.
+(2) Das Bundesministerium der Verteidigung kann anordnen, dass in
+weiteren Dienststellen seines Geschäftsbereiches eine
+Gleichstellungsbeauftragte zu wählen ist. Wahlberechtigt und wählbar
+sind die Soldatinnen der Dienststelle.
 
-(8) Die Gleichstellungsbeauftragte und ihre Stellvertreterin dürfen
-keiner Personalvertretung angehören und nur in ihrer Eigenschaft als
-Gleichstellungsbeauftragte mit Personalangelegenheiten befasst sein.
-Sie dürfen nicht zugleich Vertrauensperson nach dem
-Soldatenbeteiligungsgesetz sein oder einer Schwerbehindertenvertretung
-angehören.
 
-(9) Bei vorzeitigem Ausscheiden der Gleichstellungsbeauftragten oder
-bei ihrer nicht nur vorübergehenden Verhinderung ist eine
-Gleichstellungsbeauftragte für die restliche Amtszeit durch die
-Dienststelle, der sie zuzuordnen ist, neu zu bestellen. Entsprechendes
-gilt für die Stellvertreterin der Gleichstellungsbeauftragten und die
-Gleichstellungsvertrauensfrau.
+### § 16d Gleichstellungsvertrauensfrau
 
-(10) Mindestens drei Wahlberechtigte oder die Leitung der
-Dienststelle, der die Gleichstellungsbeauftragte zuzuordnen ist,
-können binnen einer Frist von zwei Wochen, vom Tage der Bekanntgabe
-des Wahlergebnisses an gerechnet, die Wahl beim Truppendienstgericht
-anfechten, wenn gegen wesentliche Vorschriften über das Wahlrecht, die
-Wählbarkeit oder das Wahlverfahren verstoßen worden und eine
-Berichtigung nicht erfolgt ist, es sei denn, dass durch den Verstoß
-das Wahlergebnis nicht geändert oder beeinflusst werden konnte. Für
+(1) In Dienststellen der militärischen Organisationsbereiche ohne
+eigene Gleichstellungsbeauftragte hat die Dienststellenleitung
+oberhalb der Einheitsebene eine Gleichstellungsvertrauensfrau zu
+bestellen. Die Bestellung erfolgt für vier Jahre und bedarf der
+Zustimmung der Soldatin.
+
+(2) In Dienststellen der zivilen Organisationsbereiche gilt Absatz 1
+entsprechend mit der Maßgabe, dass die Bestellung der
+Gleichstellungsvertrauensfrau ab Ortsebene erfolgen kann.
+
+
+### § 16e Vorzeitiges Ausscheiden
+
+Scheidet die Gleichstellungsbeauftragte vorzeitig aus oder ist sie
+nicht nur vorübergehend an der Wahrnehmung ihres Amtes gehindert,
+bestellt die Dienststelle für die restliche Amtszeit eine
+Gleichstellungsbeauftragte. Satz 1 gilt entsprechend für die
+Stellvertreterin und die Gleichstellungsvertrauensfrau.
+
+
+### § 16f Wahlanfechtung
+
+(1) Mindestens drei Wahlberechtigte oder die Leitung der Dienststelle
+können die Wahl anfechten, wenn gegen wesentliche Vorschriften des
+Wahlrechts oder gegen das Wahlverfahren verstoßen worden ist.
+
+(2) Die Wahl kann innerhalb von zwei Wochen nach Bekanntgabe des
+Wahlergebnisses beim zuständigen Truppendienstgericht angefochten
+werden. Die Wahl der Gleichstellungsbeauftragten des
+Bundesministeriums der Verteidigung kann unmittelbar beim
+Bundesverwaltungsgericht (Wehrdienstsenate) angefochten werden. Für
 das Verfahren gelten die Vorschriften der Wehrbeschwerdeordnung über
-das gerichtliche Antragsverfahren entsprechend. Die
-Truppendienstkammer soll mit mindestens einer Soldatin als
-ehrenamtlicher Richterin besetzt sein, wobei eine ehrenamtliche
+das gerichtliche Antragsverfahren entsprechend.
+
+(3) Die Anfechtung ist ausgeschlossen, wenn durch den Verstoß das
+Wahlergebnis nicht geändert oder beeinflusst werden konnte.
+
+(4) Die Truppendienstkammer soll mit mindestens einer Soldatin als
+ehrenamtliche Richterin besetzt sein, wobei eine ehrenamtliche
 Richterin oder ein ehrenamtlicher Richter Unteroffizier, die andere
 ehrenamtliche Richterin oder der andere ehrenamtliche Richter
-Stabsoffizier sein muss. Die Reihenfolge der Heranziehung richtet sich
-nach der einheitlichen Liste der ehrenamtlichen Richterinnen und
-Richter für Verfahren nach diesem Gesetz, in der die verschiedenen
-Teilstreitkräfte angemessen zu berücksichtigen sind; § 74 Abs. 8 der
-Wehrdisziplinarordnung gilt entsprechend.
+Stabsoffizier sein muss; § 74 Absatz 8 der Wehrdisziplinarordnung gilt
+entsprechend.
 
-(11) Das Wahlergebnis im Bundesministerium der Verteidigung kann
-unmittelbar beim Bundesverwaltungsgericht (Wehrdienstsenate)
-angefochten werden. Absatz 10 gilt entsprechend.
 
-(12) Das Bundesministerium der Verteidigung regelt das Verfahren für
-die Durchführung der Wahl nach den Grundsätzen der Absätze 1 bis 5 und
-7 bis 11 durch Rechtsverordnung.
+### § 16g Verordnungsermächtigung
+
+Das Bundesministerium der Verteidigung wird ermächtigt, das Verfahren
+für die Durchführung der Wahl der Gleichstellungsbeauftragten und von
+deren Stellvertreterinnen durch Rechtsverordnung ohne Zustimmung des
+Bundesrates zu regeln.
 
 
 ### § 17 Koordination, Stufenbeteiligung
@@ -508,9 +528,9 @@ Bundesministeriums der Verteidigung verantwortlich.
 
 (2) Soweit Entscheidungen mit Wirkung für nachgeordnete Dienststellen
 getroffen werden, können deren Gleichstellungsbeauftragte im Rahmen
-der §§ 19 und 20 eine schriftliche Stellungnahme abgeben. Diese
-Stellungnahme ist der vorgesetzten Dienststelle und deren
-Gleichstellungsbeauftragter vorzulegen.
+der §§ 19 und 20 eine schriftliche oder elektronische Stellungnahme
+abgeben. Diese Stellungnahme ist der vorgesetzten Dienststelle und
+deren Gleichstellungsbeauftragter vorzulegen.
 
 (3) Werden in zentralen personalbearbeitenden Dienststellen
 einschließlich des Bundesministeriums der Verteidigung
@@ -524,42 +544,56 @@ Gleichstellungsbeauftragte dieser Dienststelle zu beteiligen.
 Dienststellenleitung zugeordnet. Sie ist in der Ausübung ihrer
 Tätigkeit weisungsfrei.
 
-(2) Die Gleichstellungsbeauftragte ist von ihrer dienstlichen
-Tätigkeit grundsätzlich für die volle regelmäßige Arbeitszeit unter
-Belassung der Geld- und Sachbezüge zu entlasten; ihr wird die
+(2) Die Stellvertreterin hat, wenn sie die Gleichstellungsbeauftragte
+vertritt oder soweit sie eigene Aufgaben wahrnimmt (Absatz 2b Satz 2),
+dieselben Rechte und Pflichten wie die Gleichstellungsbeauftragte. Die
+Stellvertreterin richtet ihre Tätigkeit an den Zielen der
+Gleichstellungsbeauftragten aus.
+
+(2a) Die Gleichstellungsbeauftragte ist von anderen dienstlichen
+Tätigkeiten grundsätzlich für die volle regelmäßige Arbeitszeit unter
+Belassung der Geld- und Sachbezüge zu entlasten. Ihr ist die
 notwendige personelle, räumliche und sachliche Ausstattung zur
-Verfügung gestellt. Näheres regelt das Bundesministerium der
-Verteidigung in Ausführungsbestimmungen.
+Verfügung zu stellen.
+
+(2b) Die Stellvertreterin ist im Vertretungsfall von anderen
+dienstlichen Tätigkeiten unter Belassung der Geld- und Sachbezüge
+grundsätzlich für die volle regelmäßige Arbeitszeit zu entlasten. Im
+Einzelfall kann eine Stellvertreterin dauerhaft mit eigenen Aufgaben
+betraut werden. In diesem Fall ist sie unter Belassung der Geld- und
+Sachbezüge in dem zur Wahrnehmung ihrer Aufgaben zwingend
+erforderlichen Umfang von anderweitigen dienstlichen Tätigkeiten zu
+entlasten. Ihr ist die notwendige personelle, räumliche und sachliche
+Ausstattung zur Verfügung zu stellen.
 
 (3) Der Gleichstellungsbeauftragten und ihrer Stellvertreterin ist
 Gelegenheit zur Fortbildung insbesondere im Gleichstellungsrecht und
 in Fragen des Soldaten-, Soldatenbeteiligungs-, Personalvertretungs-
 sowie Organisations- und Haushaltsrechts zu geben. Entsprechende
-Fortbildungsangebote der Dienststelle hat die
-Gleichstellungsbeauftragte wahrzunehmen.
+Fortbildungsangebote der Dienststelle haben die
+Gleichstellungsbeauftragte und ihre Stellvertreterin wahrzunehmen.
 
 (4) Die Gleichstellungsbeauftragte erhält einen monatlichen
-Verfügungsfonds. Die Verordnung über die Höhe der
-Aufwandsentschädigung für vom Dienst freigestellte
-Personalvertretungsmitglieder gilt entsprechend.
+Verfügungsfonds. Das Gleiche gilt für die Stellvertreterin, wenn sie
+dauerhaft mit eigenen Aufgaben betraut worden ist.
 
-(5) Die Gleichstellungsbeauftragte darf bei der Erfüllung ihrer
-Pflichten nicht behindert und wegen ihrer Tätigkeit in ihrer
-beruflichen Entwicklung nicht benachteiligt oder begünstigt werden.
-Die fiktive Nachzeichnung ihres beruflichen Werdegangs ist im Hinblick
-auf die Einbeziehung in Personalauswahlentscheidungen zu
-gewährleisten. Die Gleichstellungsbeauftragte darf gegen ihren Willen
-nur versetzt oder kommandiert werden, wenn dies aus wichtigen
-dienstlichen Gründen unvermeidbar ist.
+(5) Die Gleichstellungsbeauftragte und ihre Stellvertreterin dürfen
+bei der Erfüllung ihrer Aufgaben nicht behindert und wegen ihrer
+Tätigkeit in ihrer beruflichen Entwicklung nicht benachteiligt oder
+begünstigt werden. Sie dürfen gegen ihren Willen nur versetzt oder
+kommandiert werden, wenn dies aus wichtigen dienstlichen Gründen
+unvermeidbar ist. Die fiktive Nachzeichnung des beruflichen Werdegangs
+der Gleichstellungsbeauftragten ist im Hinblick auf die Einbeziehung
+in die Personalauswahlentscheidung zu gewährleisten. Satz 3 gilt
+entsprechend für die Stellvertreterin, wenn sie dauerhaft mit eigenen
+Aufgaben betraut ist.
 
 (6) Die Dienststelle hat der Gleichstellungsbeauftragten auf deren
 Antrag hin eine Aufgabenbeschreibung als Nachweis über ihre Tätigkeit
-zu erteilen.
+zu erteilen. Satz 1 gilt entsprechend für die Stellvertreterin, wenn
+sie dauerhaft mit eigenen Aufgaben betraut worden ist.
 
-(7) Die Stellvertreterin hat im Vertretungsfall dieselben Rechte und
-Pflichten wie die Gleichstellungsbeauftragte.
-
-(8) Die Gleichstellungsbeauftragte und ihre Stellvertreterin, ihre
+(7) Die Gleichstellungsbeauftragte und ihre Stellvertreterin, ihre
 Mitarbeiterinnen und Mitarbeiter sowie die
 Gleichstellungsvertrauensfrauen unterliegen in allen Angelegenheiten,
 insbesondere hinsichtlich der persönlichen Verhältnisse von
@@ -577,10 +611,9 @@ Verbot von Benachteiligungen auf Grund des Geschlechts in Form von
 Belästigungen und sexuellen Belästigungen. Im Übrigen wirkt sie bei
 allen personellen, organisatorischen und sozialen Maßnahmen ihrer
 Dienststelle mit, welche die Gleichstellung von Soldatinnen und
-Soldaten, die Vereinbarkeit von Familie und Dienst in den
-Streitkräften sowie den Schutz vor sexueller Belästigung am
-Arbeitsplatz betreffen. Sie ist frühzeitig zu beteiligen, insbesondere
-bei
+Soldaten, die Vereinbarkeit von Familie und Dienst sowie den Schutz
+vor sexueller Belästigung am Arbeitsplatz betreffen. Sie ist
+frühzeitig zu beteiligen, insbesondere bei
 
 1.  Personalangelegenheiten wie der Einstellung, Maßnahmen des beruflichen
     Aufstiegs und der vorzeitigen Entlassung aus dem Dienstverhältnis,
@@ -600,13 +633,25 @@ Beförderungen hat sie auf ihren Antrag hin das Recht auf Beteiligung.
 Zu den Aufgaben der Gleichstellungsbeauftragten gehören auch die
 Beratung und Unterstützung in Einzelfällen bei beruflicher Förderung,
 Beseitigung von Benachteiligung und Fragen der Vereinbarkeit von
-Familie und Dienst in den Streitkräften.
+Familie und Dienst.
 
 (2) Die Dienststelle hat die Gleichstellungsbeauftragte in Verfahren
 zur Besetzung von Gremien nach Maßgabe des
 Bundesgremienbesetzungsgesetzes zu beteiligen, sofern in der
 Dienststelle keine besondere Organisationseinheit zur Gleichstellung
 von Soldatinnen und Soldaten eingerichtet ist.
+
+(3) Die Gleichstellungsvertrauensfrau ist Ansprechpartnerin für die
+Soldatinnen und Soldaten der Dienststelle sowie der zuständigen
+Gleichstellungsbeauftragten. Die Aufgabe der
+Gleichstellungsvertrauensfrau besteht in der Vermittlung von
+Informationen zwischen den Soldatinnen und Soldaten einerseits und der
+zuständigen Gleichstellungsbeauftragten andererseits. Die
+Gleichstellungsvertrauensfrau berät die zuständige
+Gleichstellungsbeauftragte in allen Fragen, die die vertretenen
+Dienststellen betreffen. Die Gleichstellungsbeauftragte kann der
+Gleichstellungsvertrauensfrau mit deren Einverständnis eigene Aufgaben
+übertragen.
 
 
 ### § 20 Information und Mitwirkung
@@ -642,9 +687,9 @@ Dienststelle ist.
 
 (4) Zur Klärung von Fragen grundsätzlicher Bedeutung, insbesondere zur
 Auslegung dieses Gesetzes, kann sich die Gleichstellungsbeauftragte
-unmittelbar an die Gleichstellungsbeauftragte für Soldatinnen und
-Soldaten im Bundesministerium der Verteidigung wenden. Soweit dabei
-die Übermittlung personenbezogener Daten von Soldatinnen und Soldaten
+unmittelbar an die militärische Gleichstellungsbeauftragte des
+Bundesministeriums der Verteidigung wenden. Soweit dabei die
+Übermittlung personenbezogener Daten von Soldatinnen und Soldaten
 erforderlich ist, bedarf dies deren Einwilligung gemäß § 4a des
 Bundesdatenschutzgesetzes. Soweit eine Angelegenheit behandelt werden
 soll, die als Verschlusssache eingestuft ist, bedarf die
@@ -674,33 +719,29 @@ vergleichbaren Fällen zu berücksichtigen.
 sie diesen der nächsthöheren Dienststellenleitung unverzüglich vor.
 Absatz 2 gilt entsprechend.
 
-(4) Hat die Gleichstellungsbeauftragte für Soldatinnen und Soldaten im
-Bundesministerium der Verteidigung einen Einspruch eingelegt, der
-nicht zur Abhilfe geführt hat, kann sie unmittelbar das gerichtliche
-Verfahren einleiten.
+(4) (weggefallen)
 
 
 ### § 22 Gerichtliches Verfahren
 
 (1) Bleibt der Einspruch erfolglos, kann die
-Gleichstellungsbeauftragte das Truppendienstgericht, die
-Gleichstellungsbeauftragte für Soldatinnen und Soldaten im
-Bundesministerium der Verteidigung das Bundesverwaltungsgericht
-(Wehrdienstsenate) anrufen. Sie kann das Gericht auch anrufen, wenn
-über den Einspruch ohne zureichenden Grund in angemessener Frist
-sachlich nicht entschieden worden ist. Die Anrufung kann nicht vor
-Ablauf von drei Monaten seit Einlegung des Einspruchs erfolgen, außer
-wenn wegen besonderer Umstände des Falles eine kürzere Frist geboten
-ist. Liegt ein zureichender Grund dafür vor, dass über den Einspruch
-noch nicht entschieden ist, setzt das Gericht das Verfahren bis zum
-Ablauf einer von ihm bestimmten Frist, die verlängert werden kann,
-aus. Wird dem Einspruch innerhalb der vom Gericht gesetzten Frist
-stattgegeben, ist die Hauptsache für erledigt zu erklären. In keinem
-Fall hat die Anrufung des Gerichts aufschiebende Wirkung. Für das
-Verfahren gelten die Vorschriften der Wehrbeschwerdeordnung über das
-gerichtliche Antragsverfahren entsprechend. Für die Auswahl der
-ehrenamtlichen Richterinnen und Richter gilt § 16 Abs. 10 Satz 3 und 4
-entsprechend.
+Gleichstellungsbeauftragte das zuständige Truppendienstgericht, die
+militärische Gleichstellungsbeauftragte des Bundesministeriums der
+Verteidigung das Bundesverwaltungsgericht (Wehrdienstsenate) anrufen.
+Sie kann das Gericht auch anrufen, wenn über den Einspruch ohne
+zureichenden Grund in angemessener Frist sachlich nicht entschieden
+worden ist. Die Anrufung kann nicht vor Ablauf von drei Monaten seit
+Einlegung des Einspruchs erfolgen, außer wenn wegen besonderer
+Umstände des Falles eine kürzere Frist geboten ist. Liegt ein
+zureichender Grund dafür vor, dass über den Einspruch noch nicht
+entschieden ist, setzt das Gericht das Verfahren bis zum Ablauf einer
+von ihm bestimmten Frist, die verlängert werden kann, aus. Wird dem
+Einspruch innerhalb der vom Gericht gesetzten Frist stattgegeben, ist
+die Hauptsache für erledigt zu erklären. In keinem Fall hat die
+Anrufung des Gerichts aufschiebende Wirkung. Für das Verfahren gelten
+die Vorschriften der Wehrbeschwerdeordnung über das gerichtliche
+Antragsverfahren entsprechend. Für die Auswahl der ehrenamtlichen
+Richterinnen und Richter gilt § 16f Absatz 4 entsprechend.
 
 (2) Die Anrufung des Gerichts kann nur darauf gestützt werden, dass
 
@@ -751,12 +792,12 @@ einzelnen Bereiche
 
 ### § 24 Bericht
 
-Die Bundesregierung legt dem Deutschen Bundestag alle zwei Jahre einen
+Die Bundesregierung legt dem Deutschen Bundestag alle vier Jahre einen
 Bericht über die Situation der Soldatinnen im Vergleich zu der
 Situation der Soldaten in dem in § 3 genannten Geltungsbereich und
 über die Anwendung dieses Gesetzes nach Auswertung der statistischen
 Angaben vor. Der Bericht kann mit dem durch die Bundesregierung gemäß
-§ 25 des Bundesgleichstellungsgesetzes vorzulegenden Bericht verbunden
+§ 39 des Bundesgleichstellungsgesetzes vorzulegenden Bericht verbunden
 werden und vorbildhafte Gleichstellungsmaßnahmen besonders
 hervorheben. Er darf keine personenbezogenen Daten enthalten.
 

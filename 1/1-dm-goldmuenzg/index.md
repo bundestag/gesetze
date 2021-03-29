@@ -3,7 +3,7 @@ Title: Gesetz über die Ausprägung einer 1-DM-Goldmünze und die Errichtung der
   "Geld und Währung"
 jurabk: 1-DM-GoldmünzG
 layout: default
-origslug: 1-dm-goldm_nzg
+origslug: 1-dm-goldmuenzg
 slug: 1-dm-goldmuenzg
 
 ---

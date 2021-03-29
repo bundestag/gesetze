@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1913, 583
 
-Zuletzt geändert durch
-:   Art. 2 G v. 1.6.2012 I 1224
-
+Stand: Zuletzt geändert Art. 3 G v. 11.10.2016 I 2218
 
 ## § 1
 
@@ -81,7 +79,9 @@ Anerkennungserklärung muß abgegeben oder das Feststellungsverfahren
 muß eingeleitet sein, bevor das Kind das 23. Lebensjahr vollendet hat.
 
 (2) Ein Kind, das im Inland aufgefunden wird (Findelkind), gilt bis
-zum Beweis des Gegenteils als Kind eines Deutschen.
+zum Beweis des Gegenteils als Kind eines Deutschen. Satz 1 ist auf ein
+vertraulich geborenes Kind nach § 25 Absatz 1 des
+Schwangerschaftskonfliktgesetzes entsprechend anzuwenden.
 
 (3) Durch die Geburt im Inland erwirbt ein Kind ausländischer Eltern
 die deutsche Staatsangehörigkeit, wenn ein Elternteil
@@ -162,8 +162,8 @@ deutsche Staatsangehörigkeit.
 (1) Ein Ausländer, der rechtmäßig seinen gewöhnlichen Aufenthalt im
 Inland hat, kann auf seinen Antrag eingebürgert werden, wenn er
 
-1.  handlungsfähig nach Maßgabe von § 80 Abs. 1 des Aufenthaltsgesetzes
-    oder gesetzlich vertreten ist,
+1.  handlungsfähig nach § 37 Absatz 1 Satz 1 oder gesetzlich vertreten
+    ist,
 
 
 2.  weder wegen einer rechtswidrigen Tat zu einer Strafe verurteilt noch
@@ -215,9 +215,8 @@ zusteht, das bereits die deutsche Staatsangehörigkeit besitzt.
 ## § 10
 
 (1) Ein Ausländer, der seit acht Jahren rechtmäßig seinen gewöhnlichen
-Aufenthalt im Inland hat und handlungsfähig nach Maßgabe des § 80 des
-Aufenthaltsgesetzes oder gesetzlich vertreten ist, ist auf Antrag
-einzubürgern, wenn er
+Aufenthalt im Inland hat und handlungsfähig nach § 37 Absatz 1 Satz 1
+oder gesetzlich vertreten ist, ist auf Antrag einzubürgern, wenn er
 
 1.  sich zur freiheitlichen demokratischen Grundordnung des Grundgesetzes
     für die Bundesrepublik Deutschland bekennt und erklärt, dass er keine
@@ -250,8 +249,8 @@ einzubürgern, wenn er
     Gemeinschaft und ihren Mitgliedstaaten einerseits und der
     Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit,
     eine Blaue Karte EU oder eine Aufenthaltserlaubnis für andere als die
-    in den §§ 16, 17, 20, 22, 23 Abs. 1, §§ 23a, 24 und 25 Abs. 3 bis 5
-    des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
+    in den §§ 16, 17, 17a, 20, 22, 23 Absatz 1, §§ 23a, 24 und 25 Abs. 3
+    bis 5 des Aufenthaltsgesetzes aufgeführten Aufenthaltszwecke besitzt,
 
 
 3.  den Lebensunterhalt für sich und seine unterhaltsberechtigten
@@ -277,8 +276,7 @@ einzubürgern, wenn er
 
 
 Die Voraussetzungen nach Satz 1 Nr. 1 und 7 müssen Ausländer nicht
-erfüllen, die nicht handlungsfähig nach Maßgabe des § 80 Abs. 1 des
-Aufenthaltsgesetzes sind.
+erfüllen, die nicht handlungsfähig nach § 37 Absatz 1 Satz 1 sind.
 
 (2) Der Ehegatte und die minderjährigen Kinder des Ausländers können
 nach Maßgabe des Absatzes 1 mit eingebürgert werden, auch wenn sie
@@ -335,8 +333,8 @@ Die Einbürgerung ist ausgeschlossen, wenn
     oder Unterstützung derartiger Bestrebungen abgewandt hat, oder
 
 
-2.  ein Ausweisungsgrund nach § 54 Nr. 5 und 5a des Aufenthaltsgesetzes
-    vorliegt.
+2.  nach § 54 Absatz 1 Nummer 2 oder 4 des Aufenthaltsgesetzes ein
+    besonders schwerwiegendes Ausweisungsinteresse vorliegt.
 
 
 
@@ -675,45 +673,89 @@ zwischenstaatlichen Vertrages dazu berechtigt ist.
 
 ## § 29
 
-(1) Ein Deutscher, der nach dem 31. Dezember 1999 die
-Staatsangehörigkeit nach § 4 Abs. 3 oder durch Einbürgerung nach § 40b
-erworben hat und eine ausländische Staatsangehörigkeit besitzt, hat
-nach Erreichen der Volljährigkeit und nach Hinweis gemäß Absatz 5 zu
+(1) Optionspflichtig ist, wer
+
+1.  die deutsche Staatsangehörigkeit nach § 4 Absatz 3 oder § 40b erworben
+    hat,
+
+
+2.  nicht nach Absatz 1a im Inland aufgewachsen ist,
+
+
+3.  eine andere ausländische Staatsangehörigkeit als die eines anderen
+    Mitgliedstaates der Europäischen Union oder der Schweiz besitzt und
+
+
+4.  innerhalb eines Jahres nach Vollendung seines 21. Lebensjahres einen
+    Hinweis nach Absatz 5 Satz 5 über seine Erklärungspflicht erhalten
+    hat.
+
+
+
+Der Optionspflichtige hat nach Vollendung des 21. Lebensjahres zu
 erklären, ob er die deutsche oder die ausländische Staatsangehörigkeit
 behalten will. Die Erklärung bedarf der Schriftform.
 
-(2) Erklärt der nach Absatz 1 Erklärungspflichtige, daß er die
-ausländische Staatsangehörigkeit behalten will, so geht die deutsche
-Staatsangehörigkeit mit dem Zugang der Erklärung bei der zuständigen
-Behörde verloren. Sie geht ferner verloren, wenn bis zur Vollendung
-des 23. Lebensjahres keine Erklärung abgegeben wird.
+(1a) Ein Deutscher nach Absatz 1 ist im Inland aufgewachsen, wenn er
+bis zur Vollendung seines 21. Lebensjahres
 
-(3) Erklärt der nach Absatz 1 Erklärungspflichtige, daß er die
-deutsche Staatsangehörigkeit behalten will, so ist er verpflichtet,
-die Aufgabe oder den Verlust der ausländischen Staatsangehörigkeit
-nachzuweisen. Wird dieser Nachweis nicht bis zur Vollendung des 23.
-Lebensjahres geführt, so geht die deutsche Staatsangehörigkeit
-verloren, es sei denn, daß der Deutsche vorher auf Antrag die
-schriftliche Genehmigung der zuständigen Behörde zur Beibehaltung der
-deutschen Staatsangehörigkeit (Beibehaltungsgenehmigung) erhalten hat.
-Der Antrag auf Erteilung der Beibehaltungsgenehmigung kann, auch
-vorsorglich, nur bis zur Vollendung des 21. Lebensjahres gestellt
-werden (Ausschlußfrist). Der Verlust der deutschen Staatsangehörigkeit
-tritt erst ein, wenn der Antrag bestandskräftig abgelehnt wird.
-Einstweiliger Rechtsschutz nach § 123 der Verwaltungsgerichtsordnung
-bleibt unberührt.
+1.  sich acht Jahre gewöhnlich im Inland aufgehalten hat,
+
+
+2.  sechs Jahre im Inland eine Schule besucht hat oder
+
+
+3.  über einen im Inland erworbenen Schulabschluss oder eine im Inland
+    abgeschlossene Berufsausbildung verfügt.
+
+
+
+Als im Inland aufgewachsen nach Satz 1 gilt auch, wer im Einzelfall
+einen vergleichbar engen Bezug zu Deutschland hat und für den die
+Optionspflicht nach den Umständen des Falles eine besondere Härte
+bedeuten würde.
+
+(2) Erklärt der Deutsche nach Absatz 1, dass er die ausländische
+Staatsangehörigkeit behalten will, so geht die deutsche
+Staatsangehörigkeit mit dem Zugang der Erklärung bei der zuständigen
+Behörde verloren.
+
+(3) Will der Deutsche nach Absatz 1 die deutsche Staatsangehörigkeit
+behalten, so ist er verpflichtet, die Aufgabe oder den Verlust der
+ausländischen Staatsangehörigkeit nachzuweisen. Tritt dieser Verlust
+nicht bis zwei Jahre nach Zustellung des Hinweises auf die
+Erklärungspflicht nach Absatz 5 ein, so geht die deutsche
+Staatsangehörigkeit verloren, es sei denn, dass dem Deutschen nach
+Absatz 1 vorher die schriftliche Genehmigung der zuständigen Behörde
+zur Beibehaltung der deutschen Staatsangehörigkeit
+(Beibehaltungsgenehmigung) erteilt wurde. Ein Antrag auf Erteilung der
+Beibehaltungsgenehmigung kann, auch vorsorglich, nur bis ein Jahr nach
+Zustellung des Hinweises auf die Erklärungspflicht nach Absatz 5
+gestellt werden (Ausschlussfrist). Der Verlust der deutschen
+Staatsangehörigkeit tritt erst ein, wenn der Antrag bestandskräftig
+abgelehnt wird. Einstweiliger Rechtsschutz nach § 123 der
+Verwaltungsgerichtsordnung bleibt unberührt.
 
 (4) Die Beibehaltungsgenehmigung nach Absatz 3 ist zu erteilen, wenn
 die Aufgabe oder der Verlust der ausländischen Staatsangehörigkeit
 nicht möglich oder nicht zumutbar ist oder bei einer Einbürgerung nach
 Maßgabe von § 12 Mehrstaatigkeit hinzunehmen wäre.
 
-(5) Die zuständige Behörde hat den nach Absatz 1 Erklärungspflichtigen
-auf seine Verpflichtungen und die nach den Absätzen 2 bis 4 möglichen
-Rechtsfolgen hinzuweisen. Der Hinweis ist zuzustellen. Die Zustellung
-hat unverzüglich nach Vollendung des 18. Lebensjahres des nach Absatz
-1 Erklärungspflichtigen zu erfolgen. Die Vorschriften des
-Verwaltungszustellungsgesetzes finden Anwendung.
+(5) Auf Antrag eines Deutschen, der die Staatsangehörigkeit nach § 4
+Absatz 3 oder § 40b erworben hat, stellt die zuständige Behörde bei
+Vorliegen der Voraussetzungen den Fortbestand der deutschen
+Staatsangehörigkeit nach Absatz 6 fest. Ist eine solche Feststellung
+nicht bis zur Vollendung seines 21. Lebensjahres erfolgt, prüft die
+zuständige Behörde anhand der Meldedaten, ob die Voraussetzungen nach
+Absatz 1a Satz 1 Nummer 1 vorliegen. Ist dies danach nicht
+feststellbar, weist sie den Betroffenen auf die Möglichkeit hin, die
+Erfüllung der Voraussetzungen des Absatzes 1a nachzuweisen. Wird ein
+solcher Nachweis erbracht, stellt die zuständige Behörde den
+Fortbestand der deutschen Staatsangehörigkeit nach Absatz 6 fest.
+Liegt kein Nachweis vor, hat sie den Betroffenen auf seine
+Verpflichtungen und die nach den Absätzen 2 bis 4 möglichen
+Rechtsfolgen hinzuweisen. Der Hinweis ist zuzustellen. Die
+Vorschriften des Verwaltungszustellungsgesetzes finden Anwendung.
 
 (6) Der Fortbestand oder Verlust der deutschen Staatsangehörigkeit
 nach dieser Vorschrift wird von Amts wegen festgestellt. Das
@@ -793,7 +835,7 @@ werden eingetragen:
 1.  Entscheidungen zu Staatsangehörigkeitsurkunden,
 
 
-2.  Entscheidungen zum gesetzlichen Verlust der deutschen
+2.  Entscheidungen zum Bestand und gesetzlichen Verlust der deutschen
     Staatsangehörigkeit,
 
 
@@ -807,13 +849,15 @@ werden eingetragen:
 (2) Im Einzelnen dürfen in dem Register gespeichert werden:
 
 1.  die Grundpersonalien des Betroffenen (Familienname, Geburtsname,
-    frühere Namen, Vornamen, Tag und Ort der Geburt, Geschlecht, die
-    Tatsache, dass nach § 29 ein Verlust der deutschen Staatsangehörigkeit
-    eintreten kann sowie die Anschrift im Zeitpunkt der Entscheidung),
+    frühere Namen, Vornamen, Tag und Ort der Geburt, Geschlecht sowie die
+    Anschrift im Zeitpunkt der Entscheidung) und Auskunftssperren nach §
+    51 des Bundesmeldegesetzes,
 
 
-2.  Art der Wirksamkeit und Tag des Wirksamwerdens der Entscheidung oder
-    Urkunde oder des Verlustes der Staatsangehörigkeit,
+2.  Rechtsgrund und Datum der Urkunde oder der Entscheidung sowie
+    Rechtsgrund und der Tag des Erwerbs oder Verlusts der
+    Staatsangehörigkeit, im Fall des § 3 Absatz 2 auch der Zeitpunkt, auf
+    den der Erwerb zurückwirkt,
 
 
 3.  Bezeichnung, Anschrift und Aktenzeichen der Behörde, die die
@@ -844,51 +888,55 @@ in Absatz 2 genannten Daten unverzüglich mit.
 
 ## § 34
 
-(1) Für die Durchführung des Optionsverfahrens nach § 29 hat die
-Meldebehörde bis zum zehnten Tag jedes Kalendermonats der zuständigen
-Staatsangehörigkeitsbehörde für Personen, die im darauf folgenden
-Monat das 18. Lebensjahr vollenden werden und bei denen nach § 29 ein
-Verlust der deutschen Staatsangehörigkeit eintreten kann, folgende
-personenbezogenen Daten zu übermitteln:
+(1) Für die Durchführung des Optionsverfahrens hat die Meldebehörde in
+Fällen des Erwerbs der deutschen Staatsangehörigkeit nach § 4 Absatz 3
+oder § 40b, in denen nach § 29 ein Verlust der deutschen
+Staatsangehörigkeit eintreten kann, bis zum zehnten Tag jedes
+Kalendermonats der zuständigen Staatsangehörigkeitsbehörde für
+Personen, die im darauf folgenden Monat das 21. Lebensjahr vollenden
+werden, folgende personenbezogenen Daten zu übermitteln:
 
-1.  Geburtsname,
-
-
-2.  Familienname,
+1.  Familienname,
 
 
-3.  frühere Namen,
+2.  frühere Namen,
 
 
-4.  Vornamen,
+3.  Vornamen,
 
 
-5.  Geschlecht,
+4.  derzeitige und frühere Anschriften und bei Zuzug aus dem Ausland auch
+    die letzte frühere Anschrift im Inland,
 
 
-6.  Tag und Ort der Geburt,
+5.  Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer
+    Wohnung im Inland sowie Datum des letzten Zuzugs aus dem Ausland,
 
 
-7.  gegenwärtige Anschriften,
+6.  Geburtsdatum und Geburtsort,
 
 
-8.  die Tatsache, dass nach § 29 ein Verlust der deutschen
-    Staatsangehörigkeit eintreten kann.
+7.  Geschlecht,
+
+
+8.  derzeitige Staatsangehörigkeiten,
+
+
+9.  die Tatsache, dass nach § 29 ein Verlust der deutschen
+    Staatsangehörigkeit eintreten kann,
+
+
+10. Auskunftssperren nach § 51 des Bundesmeldegesetzes.
 
 
 
 
 (2) Ist eine Person nach Absatz 1 ins Ausland verzogen, hat die
 zuständige Meldebehörde dem Bundesverwaltungsamt innerhalb der in
-Absatz 1 genannten Frist die dort genannten Daten, den Tag des
-Wegzuges ins Ausland und, soweit bekannt, die neue Anschrift im
-Ausland zu übermitteln. Für den Fall des Zuzuges aus dem Ausland gilt
-Satz 1 entsprechend.
-
-
-## § 35
-
-(weggefallen)
+Absatz 1 genannten Frist die dort genannten Daten, das Datum des
+Wegzugs ins Ausland und, soweit bekannt, die neue Anschrift im Ausland
+zu übermitteln. Für den Fall des Zuzugs aus dem Ausland gilt Satz 1
+entsprechend.
 
 
 ## § 35
@@ -982,8 +1030,12 @@ auch soweit Tabellenfelder nur einen einzigen Fall ausweisen.
 
 ## § 37
 
-(1) § 80 Abs. 1 und 3 sowie § 82 des Aufenthaltsgesetzes gelten
-entsprechend.
+(1) Fähig zur Vornahme von Verfahrenshandlungen nach diesem Gesetz
+ist, wer das 16. Lebensjahr vollendet hat, sofern er nicht nach
+Maßgabe des Bürgerlichen Gesetzbuchs geschäftsunfähig oder im Falle
+seiner Volljährigkeit in dieser Angelegenheit zu betreuen und einem
+Einwilligungsvorbehalt zu unterstellen wäre. § 80 Absatz 3 und § 82
+des Aufenthaltsgesetzes gelten entsprechend.
 
 (2) Die Einbürgerungsbehörden übermitteln den
 Verfassungsschutzbehörden zur Ermittlung von Ausschlussgründen nach §
@@ -1063,9 +1115,9 @@ günstigere Bestimmungen enthalten.
 
 ## § 41
 
-Von den in diesem Gesetz in den §§ 30 bis 34 und § 37 Abs. 2
-getroffenen Regelungen des Verwaltungsverfahrens der Länder kann nicht
-durch Landesrecht abgewichen werden.
+Von den in diesem Gesetz in den §§ 32, 33 und 37 Absatz 2 getroffenen
+Regelungen des Verwaltungsverfahrens der Länder kann nicht durch
+Landesrecht abgewichen werden.
 
 
 ## § 42

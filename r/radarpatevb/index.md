@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1018
 
-Geändert durch
-:   Art. 14 V v. 16.12.2011 II 1300
+Zuletzt geändert durch
+:   Art. 2 § 5 V v. 30.5.2014 I 610
 
 
 ## Eingangsformel
@@ -43,10 +43,10 @@ auf Grund
 
 ## Art 1 Anwendungsbereich
 
-(1) Artikel 3 Absatz 15 bis 17, Artikel 5 Absatz 1 Nummer 3, Artikel 6
-Absatz 2 Nummer 2 und Absatz 6 und Artikel 7 der
-Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011 (BGBl.
-2011 II S. 1300) sowie § 6.03 und Kapitel 8 der
+(1) Artikel 3 Absatz 15 bis 17, Artikel 5 Absatz 3 Nummer 2 und Absatz
+5 Nummer 2, Artikel 6 Absatz 2, 3 Nummer 11 und Absatz 6 und Artikel 7
+der Rheinschiffspersonaleinführungsverordnung vom 16. Dezember 2011
+(BGBl. 2011 II S. 1300) sowie § 6.03 und Kapitel 8 der
 Schiffspersonalverordnung-Rhein vom 2. Juni 2010 (BGBl. 2011 II S.
 1300, Anlageband) gelten auch auf den übrigen Bundeswasserstraßen nach
 § 1 Abs. 1 Nr. 2 des Binnenschifffahrtsaufgabengesetzes mit Ausnahme

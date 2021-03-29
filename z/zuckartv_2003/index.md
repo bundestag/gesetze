@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2098
 
-Geändert durch
-:   Art. 7 V v. 22.2.2006 I 444
+Zuletzt geändert durch
+:   Art. 8 V v. 5.7.2017 I 2272
 
 Mit dieser Verordnung werden Bestimmungen der Richtlinie 2001/111/EG
 des Rates vom 20. Dezember 2001 über bestimmte Zuckerarten für die
@@ -60,8 +60,18 @@ Erzeugnisse in Form von Staubzucker, Kandiszucker und Zuckerhüten.
 ## § 2 Kennzeichnung
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort
-genannten Bezeichnungen Verkehrsbezeichnungen im Sinne der
-Lebensmittel-Kennzeichnungsverordnung.
+genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der
+Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung.
 
 (2) Die in Anlage 1 genannten Bezeichnungen sind den dort aufgeführten
 Erzeugnissen vorbehalten. Für das Erzeugnis nach Anlage 1 Nr. 3 dürfen
@@ -91,20 +101,20 @@ Glukose-Sirup" zu bezeichnen, abhängig davon, ob der Glukose- oder
 Fruktoseanteil überwiegt.
 
 (5) Die in Anlage 1 aufgeführten Erzeugnisse können zusätzlich zu den
-nach den Absätzen 1 und 4 vorgeschriebenen Verkehrsbezeichnungen
-andere übliche Bezeichnungen tragen, sofern der Verbraucher dadurch
-nicht irregeführt wird.
+nach den Absätzen 1 und 4 vorgeschriebenen Bezeichnungen der
+Lebensmittel andere übliche Bezeichnungen tragen, sofern der
+Verbraucher dadurch nicht irregeführt wird.
 
-(6) Die nach den Absätzen 1 und 4 vorgeschriebenen
-Verkehrsbezeichnungen können zusätzlich in zusammengesetzten
-Verkehrsbezeichnungen verwendet werden, mit denen üblicherweise andere
+(6) Die nach den Absätzen 1 und 4 vorgeschriebenen Bezeichnungen der
+Lebensmittel können zusätzlich in zusammengesetzten Bezeichnungen der
+Lebensmittel verwendet werden, mit denen üblicherweise andere
 Erzeugnisse bezeichnet werden, sofern der Verbraucher dadurch nicht
 irregeführt wird.
 
 (7) In Anlage 1 aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in den
-Verkehr gebracht werden, wenn zusätzlich zu den nach der Lebensmittel-
-Kennzeichnungsverordnung vorgeschriebenen Angaben nach Maßgabe des
-Absatzes 8 angegeben sind:
+Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung
+(EU) Nr. 1169/2011 vorgeschriebenen Angaben nach Maßgabe des Absatzes
+8 angegeben sind:
 
 1.  die Gehalte an Trockenmasse und Invertzucker bei den in Anlage 1 Nr.
     4, 5 oder 6 aufgeführten Erzeugnissen,
@@ -116,16 +126,10 @@ Absatzes 8 angegeben sind:
 
 
 
-(8) Für die Art und Weise der Kennzeichnung nach Absatz 7 gilt
-
-1.  § 3 Abs. 3 Satz 1, 2 und 3 erster Halbsatz und
-
-
-2.  § 3 Abs. 4
-
-
-
-der Lebensmittel-Kennzeichnungsverordnung entsprechend.
+(8) Für die Art und Weise der Kennzeichnung nach Absatz 7 gelten
+Artikel 8 Absatz 7, Artikel 12 Absatz 1 und 2, Artikel 13 Absatz 1 bis
+3 der Verordnung (EU) Nr. 1169/2011 und § 2 der
+Lebensmittelinformations-Durchführungsverordnung entsprechend.
 
 
 ## § 3 Verkehrsverbote
@@ -176,12 +180,7 @@ Nach Satz 1 hergestellte und gekennzeichnete Erzeugnisse dürfen bis
 zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 
-## § 7
-
--
-
-
-## § 8 Inkrafttreten, Außerkrafttreten
+## § 7 Inkrafttreten, Außerkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
@@ -192,8 +191,9 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
+(zu den §§ 1 bis 4)
 
-## Anlage 1 (zu den §§ 1 bis 4) Bezeichnungen und Begriffsbestimmungen
+## Anlage 1 Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
@@ -352,7 +352,7 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
     *   Gehalt an Invertzucker (Verhältnis von D-Fruktose zu D-Glukose: 1,0 +-
         0,1)
 
-    *   über 3%, jedoch höchstens 5% in Gewicht in der Trockenmasse,
+    *   über 3%, jedoch höchstens 50% in Gewicht in der Trockenmasse,
 
 
 *    *   c)
@@ -481,8 +481,9 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2100 - 2101
 
 
 
+(zu § 2 Abs. 3 und § 4)
 
-## Anlage 2 (zu § 2 Abs. 3 und § 4) Analysemethoden
+## Anlage 2 Analysemethoden
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2102
 

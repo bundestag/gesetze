@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 150. Geburtstag von Robert Koch)
 jurabk: Münz10DMBek 1993-09
 layout: default
-origslug: m_nz10dmbek_1993-09
+origslug: muenz10dmbek_1993-09
 slug: muenz10dmbek_1993-09
 
 ---

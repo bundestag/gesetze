@@ -332,10 +332,6 @@ und Fortbildungsmaßnahmen des Bundes bauen auf der Ausbildung der
 Länder im Bereich des Katastrophenschutzes auf und ergänzen diese.
 
 
-## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
-
-
-
 ### § 15 Aufgaben der Katastrophenschutzbehörde
 
 Die für den Katastrophenschutz zuständige Behörde leitet und
@@ -438,10 +434,6 @@ auch bei Naturkatastrophen und besonders schweren Unglücksfällen
 erforderlich sind.
 
 
-## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
-
-
-
 ### § 19 Schutzkommission
 
 (1) Beim Bundesministerium des Innern besteht eine Kommission zum
@@ -454,14 +446,14 @@ und technischen Fragen des Zivilschutzes und der Katastrophenhilfe.
 Bundesamt für Bevölkerungsschutz und Katastrophenhilfe.
 
 
-## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
-
-
-
 ### § 20 Unterstützung des Ehrenamtes
 
 Der Bund unterstützt das Ehrenamt als Grundlage des Zivil- und
 Katastrophenschutzes.
+
+
+## Siebter Abschnitt - Maßnahmen zum Schutz der Gesundheit
+
 
 
 ### § 21 Planung der gesundheitlichen Versorgung
@@ -548,10 +540,6 @@ Bundesrat es verlangen. Satz 2 gilt entsprechend für die Anordnungen
 nach Absatz 1.
 
 
-## Zehnter Abschnitt - Kosten des Zivilschutzes
-
-
-
 ### § 23 Sanitätsmaterialbevorratung
 
 (1) Der Bund stellt den Ländern für die gesundheitliche Versorgung der
@@ -571,10 +559,6 @@ Wirtschaftssicherstellungsgesetzes in der Fassung vom 31. Oktober 2006
 sind entsprechend anzuwenden.
 
 
-## Elfter Abschnitt - Bußgeldvorschriften
-
-
-
 ### § 24 Erste-Hilfe-Ausbildung und Ausbildung von Pflegehilfskräften
 
 Der Bund fördert die Ausbildung der Bevölkerung durch die nach § 26
@@ -589,7 +573,7 @@ Abs. 1 mitwirkenden privaten Organisationen
 
 
 
-## Zwölfter Abschnitt - Schlußbestimmungen
+## Achter Abschnitt - Maßnahmen zum Schutz von Kulturgut
 
 
 
@@ -599,6 +583,10 @@ Die Maßnahmen zum Schutz von Kulturgut richten sich nach dem Gesetz zu
 der Konvention vom 14. Mai 1954 zum Schutz von Kulturgut bei
 bewaffneten Konflikten (BGBl. 1967 II S. 1233), geändert durch Artikel
 1 des Gesetzes vom 10. August 1971 (BGBl. II S. 1025).
+
+
+## Neunter Abschnitt - Organisationen, Helferinnen und Helfer
+
 
 
 ### § 26 Mitwirkung der Organisationen
@@ -665,6 +653,10 @@ Gründe gegen ihren Einsatz in der Organisation sprechen.
 Vierteljahr nicht überschreiten.
 
 
+## Zehnter Abschnitt - Kosten des Zivilschutzes
+
+
+
 ### § 29 Kosten
 
 (1) Der Bund trägt die Kosten, die den Ländern, Gemeinden und
@@ -719,6 +711,10 @@ zivilschutzbezogenen Ausbildungszwecken.
 Pflichtigen zu ersetzen.
 
 
+## Elfter Abschnitt - Bußgeldvorschriften
+
+
+
 ### § 30 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
@@ -759,6 +755,10 @@ einer Geldbuße bis zu tausend Euro geahndet werden.
     Nr. 3 die für den Katastrophenschutz zuständige Behörde.
 
 
+
+
+
+## Zwölfter Abschnitt - Schlußbestimmungen
 
 
 

@@ -16,7 +16,10 @@ Fundstelle
 :   BAnz: 1951, Nr 152
 
 Neugefasst durch
-:   Bek. v. 24.1.1995 I 134
+:   Bek. v. 24.1.1995 I 134;
+
+Geändert durch
+:   Art. 3 G v. 1.10.2013 I 3719
 
 
 ## § 1
@@ -136,24 +139,14 @@ dem Grundbuchblatt von der Abschreibung nicht betroffene Grundstücke
 eingetragen sind.
 
 
-## § 7
+## § 7 (weggefallen)
 
-Wird von der Anlegung besonderer Grundbuchblätter gemäß § 7 Abs. 2 des
-Wohnungseigentumsgesetzes abgesehen, so sind in der Aufschrift unter
-die Blattnummer in Klammern die Worte "Gemeinschaftliches
-Wohnungsgrundbuch" oder "Gemeinschaftliches Teileigentumsgrundbuch"
-(im Falle des § 2 Satz 2 dieser Verfügung "Gemeinschaftliches
-Wohnungs- und Teileigentumsgrundbuch") zu setzen; die Angaben über die
-Einräumung von Sondereigentum sowie über den Gegenstand und Inhalt des
-Sondereigentums sind als Bezeichnung des Gemeinschaftsverhältnisses im
-Sinne des § 47 der Grundbuchordnung gemäß § 9 Buchstabe b der
-Grundbuchverfügung in den Spalten 2 und 4 der ersten Abteilung
-einzutragen.
+-
 
 
 ## § 8
 
-Die Vorschriften der §§ 2 bis 7 gelten für Wohnungs- und
+Die Vorschriften der §§ 2 bis 6 gelten für Wohnungs- und
 Teilerbbaugrundbücher entsprechend.
 
 
@@ -161,7 +154,7 @@ Teilerbbaugrundbücher entsprechend.
 
 Die nähere Einrichtung der Wohnungs- und Teileigentumsgrundbücher
 sowie der Wohnungs- und Teilerbbaugrundbücher ergibt sich aus den als
-Anlagen 1 bis 3 beigefügten Mustern. Für den Inhalt eines
+Anlagen 1 und 3 beigefügten Mustern. Für den Inhalt eines
 Hypothekenbriefs bei der Aufteilung des Eigentums am belasteten
 Grundstück in Wohnungseigentumsrechte nach § 8 des
 Wohnungseigentumsgesetzes dient die Anlage 4 als Muster. Die in den
@@ -188,34 +181,40 @@ Bestand einzutragen.
 2 erwähnte Bezeichnung an vergleichbarer Stelle im Kopf der ersten
 Seite des Grundbuchblatts anzubringen.
 
+(4) Wurde von der Anlegung besonderer Grundbuchblätter abgesehen,
+sollen diese bei der nächsten Eintragung, die das Wohnungseigentum
+betrifft, spätestens jedoch bei der Anlegung des Datenbankgrundbuchs
+angelegt werden.
+
 
 ## § 11
 
 (Inkrafttreten)
 
+(zu § 9)
 
-## Anlage 1 (zu § 9) (Wohnungs- und Teileigentumsgrundbuch)
+## Anlage 1 (Wohnungs- und Teileigentumsgrundbuch)
 
 (Inhalt: nicht darstellbares Muster eines Wohnungs- und
 Teileigentumsgrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 70 - 76)
 
 
-## Anlage 2 (zu § 9) (Erste Abteilung eines gemeinschaftlichen Wohnungsgrundbuchs)
+## Anlage 2 (weggefallen)
 
-(Inhalt: nicht darstellbares Muster der Ersten Abteilung eines
-gemeinschaftlichen Wohnungsgrundbuchs
-Fundstelle: Anlageband zum BGBl. I 1995, Nr. 6, S. 77)
+-
 
+(zu § 9)
 
-## Anlage 3 (zu § 9) (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
+## Anlage 3 (Aufschrift und Bestandsverzeichnis eines Wohnungserbbaugrundbuchs)
 
 (Inhalt: nicht darstellbares Muster einer Aufschrift und
 Bestandsverzeichnis eines Wohnungserbbaugrundbuchs
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 78 - 80)
 
+(zu § 9)
 
-## Anlage 4 (zu § 9) (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
+## Anlage 4 (Probeeintragungen in einen Hypothekenbrief bei Aufteilung des Eigentums am belasteten Grundstück in Wohnungseigentumsrechte nach § 8 des Wohnungseigentumsgesetzes)
 
 (Inhalt: nicht darstellbares Muster eines Hypothekenbriefes,
 Fundstelle: Anlageband zum BGBl. I 1995 Nr. 6, S. 81)

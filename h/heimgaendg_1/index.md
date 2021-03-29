@@ -2,7 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Heimgesetzes
 jurabk: HeimGÄndG 1
 layout: default
-origslug: heimg_ndg_1
+origslug: heimgaendg_1
 slug: heimgaendg_1
 
 ---

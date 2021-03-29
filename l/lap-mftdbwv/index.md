@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1031
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 24 V v. 12.2.2009 I 320
+:   Art. 21 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -576,12 +576,13 @@ durchzuführen.
 
 (4) Jeder Leistungsnachweis wird mindestens eine Woche vor der
 Ausführung angekündigt. Der Leistungsnachweis wird von der oder dem
-jeweiligen Lehrenden nach § 32 bewertet und schriftlich bestätigt; Art
-des Nachweises, Rangpunkt und Note werden angegeben. Die Anwärterinnen
-und Anwärter erhalten eine Ausfertigung der Bestätigung. Die
-schriftlichen Arbeiten sind in allen Lehrgangsklassen zum gleichen
-Zeitpunkt und mit einheitlicher Themenstellung zu fertigen. Für die
-Arbeiten ist ein einheitlicher Bewertungsmaßstab festzulegen.
+jeweiligen Lehrenden nach § 32 bewertet und schriftlich oder
+elektronisch bestätigt; Art des Nachweises, Rangpunkt und Note werden
+angegeben. Die Anwärterinnen und Anwärter erhalten eine Ausfertigung
+der Bestätigung. Die schriftlichen Arbeiten sind in allen
+Lehrgangsklassen zum gleichen Zeitpunkt und mit einheitlicher
+Themenstellung zu fertigen. Für die Arbeiten ist ein einheitlicher
+Bewertungsmaßstab festzulegen.
 
 (5) Für die Arbeitsproben und praktischen Übungen gilt Absatz 4
 entsprechend.
@@ -617,13 +618,13 @@ Leistungsnachweises bestimmt hat.
 Anwärter während der praktischen Ausbildung wird für jedes
 Ausbildungsgebiet, dem die Anwärterinnen und Anwärter nach dem
 Ausbildungsrahmenplan mindestens drei Wochen zugewiesen werden, eine
-schriftliche Bewertung nach § 32 abgegeben.
+schriftliche oder elektronische Bewertung nach § 32 abgegeben.
 
 (2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 (3) Zum Abschluss der praktischen Ausbildung erstellt die
 Ausbildungsleitung ein zusammenfassendes Zeugnis, das die Bewertungen
@@ -823,8 +824,9 @@ die Durchführung von Erste-Hilfe-Maßnahmen.
 (3) Die Prüfungskommission bewertet die Leistungen nach § 32; die oder
 der Fachprüfende schlägt jeweils die Bewertung vor.
 
-(4) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+(4) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 26 Zulassung zur schriftlichen Prüfung
@@ -879,10 +881,10 @@ nicht vor der endgültigen Bewertung der Prüfungsarbeiten bekannt
 gegeben werden.
 
 (6) Die schriftlichen Prüfungsarbeiten werden unter Aufsicht
-gefertigt. Die Aufsichtführenden fertigen eine Niederschrift und
-vermerken darin die Zeitpunkte des Beginns, der Unterbrechung und der
-Abgabe der Arbeit sowie etwaige besondere Vorkommnisse und
-unterschreiben die Niederschrift.
+gefertigt. Die Aufsichtführenden fertigen ein schriftliches oder
+elektronisches Protokoll und vermerken darin die Zeitpunkte des
+Beginns, der Unterbrechung und der Abgabe der Arbeit sowie etwaige
+besondere Vorkommnisse.
 
 (7) Jede Aufsichtsarbeit wird von zwei Prüfenden unabhängig
 voneinander nach § 32 bewertet. Die oder der Zweitprüfende kann
@@ -935,8 +937,9 @@ mündlichen Prüfung ist in einer Durchschnittsrangpunktzahl
 auszudrücken, die sich aus der Summe der Rangpunkte, geteilt durch die
 Anzahl der Einzelbewertungen, ergibt.
 
-(5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+(5) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 30 Verhinderung, Rücktritt, Säumnis
@@ -1267,8 +1270,8 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-(4) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
-zu fertigen.
+(4) Über das Gesamtergebnis der Laufbahnprüfung ist ein schriftliches
+oder elektronisches Protokoll zu fertigen.
 
 
 ### § 34 Zeugnis

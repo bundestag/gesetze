@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1966, 1542
 
 Zuletzt geändert durch
-:   Art. 510 V v. 31.10.2006 I 2407
+:   Art. 542 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -33,7 +33,7 @@ wird verordnet:
 das Schiffahrtsgeschäft beziehen, an Behörden oder sonstige Stellen
 des Auslands oder einem Dritten zur Weiterleitung an solche Stellen
 übermitteln will, bedarf der Genehmigung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung. Zu den Unterlagen nach Satz 1
+Verkehr und digitale Infrastruktur. Zu den Unterlagen nach Satz 1
 gehören insbesondere Verträge von Unternehmen der Seeschiffahrt,
 Beschlüsse und Empfehlungen von Vereinigungen dieser Unternehmen, alle
 Unterlagen, welche die Mitgliedschaft in Konferenzen, den
@@ -90,8 +90,9 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister für Verkehr
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1110)
+## Anhang EV (BGBl. II 1990, 889, 1110)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -1,6 +1,6 @@
 ---
-Title: Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer
-  Energie
+Title: Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung  von
+  elektrischer Energie
 jurabk: KraftNAV
 layout: default
 origslug: kraftnav
@@ -8,7 +8,7 @@ slug: kraftnav
 
 ---
 
-# Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung von elektrischer Energie (KraftNAV)
+# Verordnung zur Regelung des Netzanschlusses von Anlagen zur Erzeugung  von elektrischer Energie (KraftNAV)
 
 Ausfertigungsdatum
 :   2007-06-26

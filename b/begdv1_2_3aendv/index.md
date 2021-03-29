@@ -3,7 +3,7 @@ Title: Verordnung zur Änderung der Ersten, Zweiten und Dritten Verordnung zur D
   des Bundesentschädigungsgesetzes
 jurabk: BEGDV1/2/3ÄndV
 layout: default
-origslug: begdv1_2_3_ndv
+origslug: begdv1_2_3aendv
 slug: begdv1_2_3aendv
 
 ---

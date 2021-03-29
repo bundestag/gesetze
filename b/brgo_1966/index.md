@@ -26,14 +26,14 @@ Zuletzt geändert durch
 
 
 
-### - - *Ku Artikel 50 GG *KE
+### - - \*Ku Artikel 50 GG \*KE
 
 Durch den Bundesrat wirken die Länder bei der Gesetzgebung und
 Verwaltung des Bundes und in Angelegenheiten der Europäischen Union
 mit.
 
 
-### - - *Ku Artikel 51 GG *KE
+### - - \*Ku Artikel 51 GG \*KE
 
 Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die
 sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer
@@ -83,7 +83,7 @@ Mitgliedschaft zurückzugeben.
 
 
 
-### - - *Ku Artikel 52 Abs. 1 GG *KE
+### - - \*Ku Artikel 52 Abs. 1 GG \*KE
 
 Der Bundesrat wählt seinen Präsidenten auf ein Jahr.
 
@@ -201,7 +201,7 @@ so bestellt der Präsident ein anderes Mitglied des Bundesrates für
 diese Sitzung zum Schriftführer.
 
 
-### - - *Ku Artikel 52 Abs. 4 GG *KE
+### - - \*Ku Artikel 52 Abs. 4 GG \*KE
 
 Den Ausschüssen des Bundesrates können andere Mitglieder oder
 Beauftragte der Regierungen der Länder angehören.
@@ -268,7 +268,7 @@ Amtsgeschäfte.
 
 
 
-#### - - *Ku Artikel 52 Abs. 2 GG *KE
+#### - - \*Ku Artikel 52 Abs. 2 GG \*KE
 
 Der Präsident beruft den Bundesrat ein. Er hat ihn einzuberufen, wenn
 die Vertreter von mindestens zwei Ländern oder die Bundesregierung es
@@ -309,7 +309,7 @@ ausgelegt, in die sich die Teilnehmer der Sitzung eintragen.
 
 
 
-#### - - *Ku Artikel 52 Abs. 3 Satz 3 und 4 GG *KE
+#### - - \*Ku Artikel 52 Abs. 3 Satz 3 und 4 GG \*KE
 
 Er (der Bundesrat) verhandelt öffentlich. Die Öffentlichkeit kann
 ausgeschlossen werden.
@@ -326,7 +326,7 @@ bekanntzugeben.
 soweit der Bundesrat nichts anderes beschließt.
 
 
-#### - - *Ku Artikel 53 Satz 1 und 2 GG *KE
+#### - - \*Ku Artikel 53 Satz 1 und 2 GG \*KE
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
 die Pflicht, an den Verhandlungen des Bundesrates und seiner
@@ -345,7 +345,7 @@ Bundesregierung sowie der anderen Teilnehmer an den Verhandlungen
 können Beauftragte der Länder und des Bundes zugezogen werden.
 
 
-#### - - *Ku Artikel 53 Satz 3 GG *KE
+#### - - \*Ku Artikel 53 Satz 3 GG \*KE
 
 Der Bundesrat ist von der Bundesregierung über die Führung der
 Geschäfte auf dem laufenden zu halten.
@@ -475,7 +475,7 @@ Bundesrat die Änderung oder Ablehnung einer Vorlage, so hat er eine
 Begründung mit vorzulegen.
 
 
-#### - - *Ku Artikel 51 Abs. 2 GG *KE
+#### - - \*Ku Artikel 51 Abs. 2 GG \*KE
 
 (2) Jedes Land hat mindestens drei Stimmen, Länder mit mehr als zwei
 Millionen Einwohner haben vier, Länder mit mehr als sechs Millionen
@@ -491,7 +491,7 @@ Bevölkerungsfortschreibung, sofern nicht die Ergebnisse einer
 amtlichen Volkszählung vorliegen.
 
 
-#### - - *Ku Artikel 52 Abs. 3 Satz 1 GG *KE
+#### - - \*Ku Artikel 52 Abs. 3 Satz 1 GG \*KE
 
 Der Bundesrat faßt seine Beschlüsse mit mindestens der Mehrheit seiner
 Stimmen.
@@ -510,7 +510,7 @@ und den Zeitpunkt der nächsten Sitzung bekanntzugeben.
 betroffene Land stimmberechtigt.
 
 
-#### - - *Ku Artikel 51 Abs. 3 Satz 2 GG *KE
+#### - - \*Ku Artikel 51 Abs. 3 Satz 2 GG \*KE
 
 Die Stimmen eines Landes können nur einheitlich und nur durch
 anwesende Mitglieder oder deren Vertreter abgegeben werden.
@@ -593,7 +593,7 @@ nicht erneut beraten und abgestimmt werden, wenn ein Land
 widerspricht.
 
 
-#### - - *Ku Artikel 43 Abs. 2 GG *KE
+#### - - \*Ku Artikel 43 Abs. 2 GG \*KE
 
 Die Mitglieder des Bundesrates und der Bundesregierung sowie ihre
 Beauftragten haben zu allen Sitzungen des Bundestages und seiner
@@ -697,7 +697,7 @@ anordnen.
 nächsten Sitzung des Bundesrates abgeschlossen haben.
 
 
-### - - *Ku Artikel 53 Satz 1 und 2 GG *KE
+### - - \*Ku Artikel 53 Satz 1 und 2 GG \*KE
 
 Die Mitglieder der Bundesregierung haben das Recht und auf Verlangen
 die Pflicht, an den Verhandlungen des Bundesrates und seiner
@@ -777,7 +777,7 @@ Vertretungen der Länder zu.
 
 
 
-### - - *Ku Artikel 23 Abs. 2, 4 bis 6 GG *KE
+### - - \*Ku Artikel 23 Abs. 2, 4 bis 6 GG \*KE
 
 (2) In Angelegenheiten der Europäischen Union wirken der Bundestag und
 durch den Bundesrat die Länder mit. Die Bundesregierung hat den
@@ -810,7 +810,7 @@ Beteiligung und in Abstimmung mit der Bundesregierung; dabei ist die
 gesamtstaatliche Verantwortung des Bundes zu wahren.
 
 
-### - - *Ku § 2 EUZBLG *KE
+### - - \*Ku § 2 EUZBLG \*KE
 
 (1) Die Bundesregierung unterrichtet den Bundesrat unbeschadet des
 Artikels 2 des Gesetzes zu den Verträgen vom 25. März 1957 zur
@@ -847,7 +847,7 @@ Stellungnahmen des Bundesrates die Erfolgskontrolle durchzuführen und
 dem Bundesrat etwa notwendige Folgebeschlüsse vorzuschlagen.
 
 
-### - - *Ku Artikel 52 Abs. 3a GG *KE
+### - - \*Ku Artikel 52 Abs. 3a GG \*KE
 
 Für Angelegenheiten der Europäischen Union kann der Bundesrat eine
 Europakammer bilden, deren Beschlüsse als Beschlüsse des Bundesrates
@@ -880,7 +880,7 @@ Vorsitzenden vorzeitig, so soll für den Rest seiner Amtszeit ein
 Nachfolger gewählt werden.
 
 
-### - - *Ku § 3 EUZBLG *KE
+### - - \*Ku § 3 EUZBLG \*KE
 
 Vor der Festlegung der Verhandlungsposition zu einem Vorhaben der
 Europäischen Union gibt die Bundesregierung dem Bundesrat rechtzeitig
@@ -888,7 +888,7 @@ Gelegenheit zur Stellungnahme binnen angemessener Frist, soweit
 Interessen der Länder berührt sind.
 
 
-### - - *Ku § 4 Abs. 1 EUZBLG *KE
+### - - \*Ku § 4 Abs. 1 EUZBLG \*KE
 
 Soweit der Bundesrat an einer entsprechenden innerstaatlichen Maßnahme
 mitzuwirken hätte, oder soweit die Länder innerstaatlich zuständig
@@ -897,7 +897,7 @@ der Länder an Beratungen zur Festlegung der Verhandlungsposition zu
 dem Vorhaben.
 
 
-### - - *Ku § 5 EUZBLG *KE
+### - - \*Ku § 5 EUZBLG \*KE
 
 (1) Soweit in einem Bereich ausschließlicher Zuständigkeit des Bundes
 Interessen der Länder berührt sind oder soweit im übrigen der Bund das
@@ -930,7 +930,7 @@ Bundesrat her, soweit dessen Zustimmung nach innerstaatlichem Recht
 erforderlich wäre oder soweit die Länder zuständig wären.
 
 
-### - - *Ku § 6 Abs 1 S 1 und Abs 2 S 1 und 2 EUZBLG *KE
+### - - \*Ku § 6 Abs 1 S 1 und Abs 2 S 1 und 2 EUZBLG \*KE
 
 (1) Bei einem Vorhaben, bei dem der Bundesrat an einer entsprechenden
 innerstaatlichen Maßnahme mitzuwirken hätte oder bei dem die Länder
@@ -948,7 +948,7 @@ Bundesrat nur ein Mitglied einer Landesregierung im Ministerrang
 benannt werden.
 
 
-### - - *Ku § 7 EUZBLG *KE
+### - - \*Ku § 7 EUZBLG \*KE
 
 (1) Die Bundesregierung macht auf Verlangen des Bundesrates
 unbeschadet eigener Klagerechte der Länder von dem im Vertrag über die
@@ -1006,33 +1006,10 @@ damit beauftragen, im Einvernehmen mit dem Vorsitzenden des
 Ausschusses für Fragen der Europäischen Union Beratungsgegenstände der
 Europakammer zuzuweisen.
 
-*
-    *
-        *
-            *
-                *
-                    *   (5) Die Zuweisung eines Beratungsgegenstandes an die Europakammer
-                        steht bis zu deren Beschlußfassung der Beratung in den Ausschüssen und
-                        der Verhandlung und Beschlußfassung durch den Bundesrat nicht
-                        entgegen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(5) Die Zuweisung eines Beratungsgegenstandes an die Europakammer
+steht bis zu deren Beschlußfassung der Beratung in den Ausschüssen und
+der Verhandlung und Beschlußfassung durch den Bundesrat nicht
+entgegen.
 
 
 #### § 45e Vorbereitung der Sitzungen der Europakammer
@@ -1132,14 +1109,14 @@ wenn ein Land oder ein beteiligter Ausschuß dies verlangen.
 
 
 
-### - - *Ku Artikel 51 Abs. 1 GG *KE
+### - - \*Ku Artikel 51 Abs. 1 GG \*KE
 
 Der Bundesrat besteht aus Mitgliedern der Regierungen der Länder, die
 sie bestellen und abberufen. Sie können durch andere Mitglieder ihrer
 Regierungen vertreten werden.
 
 
-### - - *Ku Artikel 52 Abs. 4 GG *KE
+### - - \*Ku Artikel 52 Abs. 4 GG \*KE
 
 Den Ausschüssen des Bundesrates können andere Mitglieder oder
 Beauftragte der Regierungen der Länder angehören.
@@ -1167,7 +1144,7 @@ Will der Bundesrat im einzelnen Fall von der Geschäftsordnung
 abweichen, so bedarf es eines einstimmigen Beschlusses.
 
 
-#### § 49 Inkrafttreten
+#### § 49 Inkrafttreten \*)
 
 Diese Geschäftsordnung tritt am 1. Oktober 1966 in Kraft. Gleichzeitig
 tritt die Geschäftsordnung des Bundesrates vom 31. Juli 1953

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1968, 787
 
 Zuletzt geändert durch
-:   Art. 5 G v. 29.7.2009 I 2424
+:   Art. 2 G v. 4.4.2017 I 772
 
 
 ## Eingangsformel
@@ -90,6 +90,11 @@ Sicherstellung von Arbeitsleistungen
 
 4.  in Betrieben der Wasser- und Energieversorgung sowie der Abwasser- und
     Abfallbeseitigung,
+
+
+4a. in Ernährungsunternehmen nach § 2 Nummer 6 des
+    Ernährungssicherstellungs- und
+    -vorsorgegesetzes,
 
 
 5.  in Krankenanstalten und anderen Einrichtungen, in denen
@@ -434,8 +439,10 @@ Unfallversicherung, das Kurzarbeitergeld und das Schlechtwettergeld.
 #### § 17 Zahlung von Unterschiedsbeträgen und Ersatz für Vertreterkosten und laufende Betriebsausgaben
 
 (1) Ein in ein Arbeitsverhältnis Verpflichteter, der nicht unter § 16
-fällt, erhält, soweit sich sein Nettoeinkommen im Sinne des § 10 des
-Unterhaltssicherungsgesetzes durch die Verpflichtung vermindert, den
+fällt, erhält, soweit sich sein Arbeitsentgelt, gemindert um die
+hierauf zu entrichtende Einkommensteuer, den Solidaritätszuschlag, die
+Arbeitnehmeranteile zur gesetzlichen Sozialversicherung und die
+Kirchensteuer durch die Verpflichtung vermindert, den
 Unterschiedsbetrag von der zuständigen Unterhaltssicherungsbehörde zu
 Lasten des Bundes; dieser ist auch nach dem Ende der Verpflichtung
 weiterzuzahlen, solange Krankengeld aus der gesetzlichen
@@ -443,13 +450,10 @@ Krankenversicherung oder entsprechende Leistungen aus der gesetzlichen
 Unfallversicherung gewährt werden; § 16 Abs. 2 Satz 2 zweiter Halbsatz
 gilt entsprechend. Der Unterschiedsbetrag darf zusammen mit den
 laufenden Nettogeldbezügen aus dem neuen Arbeitsverhältnis je
-Kalendertag der Verpflichtung für Verpflichtete mit
-unterhaltsberechtigten Familienangehörigen den in § 13 Abs. 4
-Buchstabe a des Unterhaltssicherungsgesetzes bestimmten Höchstbetrag
-und für die übrigen Verpflichteten den in § 13 Abs. 4 Buchstabe b des
+Kalendertag der Verpflichtung den in § 6 Absatz 3 des
 Unterhaltssicherungsgesetzes bestimmten Höchstbetrag jeweils nicht
-mehr als um 135 vom Hundert übersteigen. Der Unterschiedsbetrag
-unterliegt nicht den Steuern vom Einkommen und Ertrag.
+mehr als um 135 Prozent übersteigen. Der Unterschiedsbetrag unterliegt
+nicht den Steuern vom Einkommen und Ertrag.
 
 (2) Ein in ein Arbeitsverhältnis Verpflichteter, dessen
 Gewerbebetrieb, Betrieb der Land- und Forstwirtschaft oder dessen
@@ -470,12 +474,10 @@ entsprechende laufende Zahlungsverpflichtungen für die Dauer der
 Verpflichtung nachweist.
 
 (4) Die Leistungen nach den Absätzen 1 bis 3 werden auf Antrag
-gewährt. Für die Zuständigkeit und das Verfahren gilt der Dritte
-Abschnitt des Unterhaltssicherungsgesetzes entsprechend.
+gewährt. Für die Zuständigkeit und das Verfahren gelten die §§ 24, 26
+und 28 des Unterhaltssicherungsgesetzes entsprechend.
 
-(5) § 23 des Unterhaltssicherungsgesetzes wird mit der Maßgabe
-angewandt, daß an die Stelle des Bundesministeriums der Verteidigung
-das Bundesministerium für Arbeit und Soziales tritt.
+(5) § 3 des Unterhaltssicherungsgesetzes gilt entsprechend.
 
 
 ### 3. Unterabschnitt - Sozialversicherung, Arbeitslosenversicherung, Pflegeversicherung
@@ -612,8 +614,8 @@ werden die Leistungen nach den §§ 16 und 17 nicht berücksichtigt.
 (3) Wird ein Arbeitnehmer in ein Arbeitsverhältnis verpflichtet, so
 darf ihm daraus im Falle der Arbeitslosigkeit hinsichtlich der Höhe
 des Arbeitslosengelds kein Nachteil entstehen. Das Nähere bestimmt die
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-mit Zustimmung des Bundesministeriums für Arbeit und Soziales.
+Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung mit
+Zustimmung des Bundesministeriums für Arbeit und Soziales.
 Mehraufwendungen, die der Bundesagentur in Auswirkung des Satzes 1
 entstehen, trägt der Bund.
 
@@ -705,8 +707,8 @@ in Heimarbeit Beschäftigten, soweit sie nicht durch § 25 Abs. 4 erfaßt
 werden, sowie Selbständigen den Verdienstausfall; die Vorschriften des
 Justizvergütungs- und -entschädigungsgesetzes finden sinngemäß
 Anwendung. Diese Aufwendungen werden der
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-vom Bund erstattet.
+Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung vom
+Bund erstattet.
 
 
 ### § 27 Rechtsweg
@@ -918,8 +920,8 @@ zu dienen bestimmt ist, merkbar zu beeinträchtigen.
 
 Die Bundesregierung erläßt durch Rechtsverordnung Vorschriften über
 die Zusammenarbeit der
-Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung
-mit den fachlich zuständigen Bundes- und Landesbehörden bei der
+Bundesagentur für Arbeitsvermittlung und Arbeitslosenversicherung mit
+den fachlich zuständigen Bundes- und Landesbehörden bei der
 Feststellung und Deckung des Arbeitskräftebedarfs. Sie regelt hierbei,
 wie die zur Verfügung stehenden Arbeitskräfte zu verteilen sind, wenn
 diese nicht ausreichen, den Bedarf zu decken.

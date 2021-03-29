@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.2001 I 2404;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.11.2012 I 2291
+:   Art. 126 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -404,7 +404,7 @@ diesem Gesetz zulässigen Entgelts verpflichtet, so kann der Vermieter
 dem Mieter gegenüber schriftlich erklären, dass das Entgelt um einen
 bestimmten Betrag, bei Umlagen um einen bestimmbaren Betrag, bis zur
 Höhe des zulässigen Entgelts erhöht werden soll. Die Erklärung ist nur
-wirksam, wenn in ihr die Erhöhung berechnet und erläutert ist. Die
+wirksam, wenn in ihr die Erhöhung berechnet und erläutert ist. Der
 Berechnung der Kostenmiete ist eine Wirtschaftlichkeitsberechnung oder
 ein Auszug daraus, der die Höhe der laufenden Aufwendungen erkennen
 lässt, beizufügen. An Stelle einer Wirtschaftlichkeitsberechnung kann
@@ -824,12 +824,12 @@ Die Vorschriften der §§ 18a bis 18d gelten entsprechend für
 Gesetz zur Förderung des Bergarbeiterwohnungsbaus im Kohlenbergbau aus
 Mitteln des Treuhandvermögens des Bundes bewilligt worden sind. Die in
 § 18b Abs. 1 bezeichneten Aufgaben obliegen dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung im Benehmen mit den für das
-Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, die Bestimmungen nach § 18a Abs. 1 bis 3 und 5 sowie nach
-§ 18d durch Rechtsverordnung mit Zustimmung des Bundesrates zu
-treffen.
+Umwelt, Naturschutz, Bau und Reaktorsicherheit im Benehmen mit den für
+das Wohnungs- und Siedlungswesen zuständigen obersten Landesbehörden.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, die Bestimmungen nach § 18a Abs. 1
+bis 3 und 5 sowie nach § 18d durch Rechtsverordnung mit Zustimmung des
+Bundesrates zu treffen.
 
 
 ### § 18f Mieterhöhung

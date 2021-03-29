@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1089
 
 Zuletzt geändert durch
-:   Art. 3 G v. 20.12.2012 I 2751
+:   Art. 9 G v. 17.7.2017 I 2446
 
 
 ## Eingangsformel
@@ -122,11 +122,42 @@ dürfen Aktien nicht ausgegeben werden (geringster Ausgabebetrag).
 
 #### § 10 Aktien und Zwischenscheine
 
-(1) Die Aktien können auf den Inhaber oder auf Namen lauten.
+(1) Die Aktien lauten auf Namen. Sie können auf den Inhaber lauten,
+wenn
 
-(2) Sie müssen auf Namen lauten, wenn sie vor der vollen Leistung des
-Ausgabebetrags ausgegeben werden. Der Betrag der Teilleistungen ist in
-der Aktie anzugeben.
+1.  die Gesellschaft börsennotiert ist oder
+
+
+2.  der Anspruch auf Einzelverbriefung ausgeschlossen ist und die
+    Sammelurkunde bei einer der folgenden Stellen hinterlegt wird:
+
+    a)  einer Wertpapiersammelbank im Sinne des § 1 Absatz 3 Satz 1 des
+        Depotgesetzes,
+
+
+    b)  einem zugelassenen Zentralverwahrer oder einem anerkannten Drittland-
+        Zentralverwahrer gemäß der Verordnung (EU) Nr. 909/2014 des
+        Europäischen Parlaments und des Rates vom 23. Juli 2014 zur
+        Verbesserung der Wertpapierlieferungen und -abrechnungen in der
+        Europäischen Union und über Zentralverwahrer sowie zur Änderung der
+        Richtlinien 98/26/EG und 2014/65/EU und der Verordnung (EU) Nr.
+        236/2012 (ABl. L 257 vom 28.8.2014, S. 1) oder
+
+
+    c)  einem sonstigen ausländischen Verwahrer, der die Voraussetzungen des §
+        5 Absatz 4 Satz 1 des Depotgesetzes erfüllt.
+
+
+
+
+
+
+Solange im Fall des Satzes 2 Nummer 2 die Sammelurkunde nicht
+hinterlegt ist, ist § 67 entsprechend anzuwenden.
+
+(2) Die Aktien müssen auf Namen lauten, wenn sie vor der vollen
+Leistung des Ausgabebetrags ausgegeben werden. Der Betrag der
+Teilleistungen ist in der Aktie anzugeben.
 
 (3) Zwischenscheine müssen auf Namen lauten.
 
@@ -317,7 +348,7 @@ abhängigen Unternehmens handelt. Dies gilt nicht für Ansprüche nach §
 wurde und nachgeholt worden ist.
 
 (8) Die Absätze 1 bis 7 gelten nicht für Aktien eines Emittenten im
-Sinne des § 21 Abs. 2 des Wertpapierhandelsgesetzes.
+Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 
 #### § 21 Mitteilungspflichten der Gesellschaft
@@ -344,7 +375,7 @@ Zeit, für die sie die Mitteilungspflicht nicht erfüllt. § 20 Abs. 7
 Satz 2 gilt entsprechend.
 
 (5) Die Absätze 1 bis 4 gelten nicht für Aktien eines Emittenten im
-Sinne des § 21 Abs. 2 des Wertpapierhandelsgesetzes.
+Sinne des § 33 Absatz 4 des Wertpapierhandelsgesetzes.
 
 
 #### § 22 Nachweis mitgeteilter Beteiligungen
@@ -416,20 +447,15 @@ Bestimmungen der Satzung sind zulässig, es sei denn, daß dieses Gesetz
 eine abschließende Regelung enthält.
 
 
-#### § 24 Umwandlung von Aktien
+#### § 24 (weggefallen)
 
-Die Satzung kann bestimmen, daß auf Verlangen eines Aktionärs seine
-Inhaberaktie in eine Namensaktie oder seine Namensaktie in eine
-Inhaberaktie umzuwandeln ist.
 
 
 #### § 25 Bekanntmachungen der Gesellschaft
 
 Bestimmt das Gesetz oder die Satzung, daß eine Bekanntmachung der
 Gesellschaft durch die Gesellschaftsblätter erfolgen soll, so ist sie
-in den Bundesanzeiger einzurücken. Daneben kann die Satzung andere
-Blätter oder elektronische Informationsmedien als Gesellschaftsblätter
-bezeichnen.
+in den Bundesanzeiger einzurücken.
 
 
 #### § 26 Sondervorteile. Gründungsaufwand
@@ -664,10 +690,10 @@ mit Sacheinlagen oder Sachübernahmen (§ 33 Abs. 2 Nr. 4) abgesehen
 werden, soweit eingebracht werden sollen:
 
 1.  übertragbare Wertpapiere oder Geldmarktinstrumente im Sinne des § 2
-    Abs. 1 Satz 1 und Abs. 1a des Wertpapierhandelsgesetzes, wenn sie mit
-    dem gewichteten Durchschnittspreis bewertet werden, zu dem sie während
-    der letzten drei Monate vor dem Tag ihrer tatsächlichen Einbringung
-    auf einem oder mehreren organisierten Märkten im Sinne von § 2 Abs. 5
+    Absatz 1 und 2 des Wertpapierhandelsgesetzes, wenn sie mit dem
+    gewichteten Durchschnittspreis bewertet werden, zu dem sie während der
+    letzten drei Monate vor dem Tag ihrer tatsächlichen Einbringung auf
+    einem oder mehreren organisierten Märkten im Sinne von § 2 Absatz 11
     des Wertpapierhandelsgesetzes gehandelt worden sind,
 
 
@@ -1318,11 +1344,9 @@ sie nach der Einstellung die Hälfte übersteigen würden. Absatz 1 Satz
 
 (2a) Unbeschadet der Absätze 1 und 2 können Vorstand und Aufsichtsrat
 den Eigenkapitalanteil von Wertaufholungen bei Vermögensgegenständen
-des Anlage- und Umlaufvermögens und von bei der steuerrechtlichen
-Gewinnermittlung gebildeten Passivposten, die nicht im Sonderposten
-mit Rücklageanteil ausgewiesen werden dürfen, in andere
-Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist entweder
-in der Bilanz gesondert auszuweisen oder im Anhang anzugeben.
+des Anlage- und Umlaufvermögens in andere Gewinnrücklagen einstellen.
+Der Betrag dieser Rücklagen ist in der Bilanz gesondert auszuweisen;
+er kann auch im Anhang angegeben werden.
 
 (3) Die Hauptversammlung kann im Beschluß über die Verwendung des
 Bilanzgewinns weitere Beträge in Gewinnrücklagen einstellen oder als
@@ -1334,7 +1358,10 @@ Verteilung unter die Aktionäre beschließen.
 nach Gesetz oder Satzung, durch Hauptversammlungsbeschluß nach Absatz
 3 oder als zusätzlicher Aufwand auf Grund des
 Gewinnverwendungsbeschlusses von der Verteilung unter die Aktionäre
-ausgeschlossen ist.
+ausgeschlossen ist. Der Anspruch ist am dritten auf den
+Hauptversammlungsbeschluss folgenden Geschäftstag fällig. In dem
+Hauptversammlungsbeschluss oder in der Satzung kann eine spätere
+Fälligkeit festgelegt werden.
 
 (5) Sofern die Satzung dies vorsieht, kann die Hauptversammlung auch
 eine Sachausschüttung beschließen.
@@ -1500,20 +1527,22 @@ Betrags, um den das Grundkapital herabgesetzt worden ist.
 
 #### § 67 Eintragung im Aktienregister
 
-(1) Namensaktien sind unter Angabe des Namens, Geburtsdatums und der
-Adresse des Inhabers sowie der Stückzahl oder der Aktiennummer und bei
-Nennbetragsaktien des Betrags in das Aktienregister der Gesellschaft
-einzutragen. Der Inhaber ist verpflichtet, der Gesellschaft die
-Angaben nach Satz 1 mitzuteilen. Die Satzung kann Näheres dazu
-bestimmen, unter welchen Voraussetzungen Eintragungen im eigenen Namen
-für Aktien, die einem anderen gehören, zulässig sind. Aktien, die zu
-einem in- oder ausländischen Investmentvermögen nach dem
-Investmentgesetz gehören, dessen Anteile nicht ausschließlich von
-Anlegern, die nicht natürliche Personen sind, gehalten werden, gelten
-als Aktien des in- oder ausländischen Investmentvermögens, auch wenn
-sie im Miteigentum der Anleger stehen; verfügt das Investmentvermögen
-über keine eigene Rechtspersönlichkeit, gelten sie als Aktien der
-Verwaltungsgesellschaft des Investmentvermögens.
+(1) Namensaktien sind unabhängig von einer Verbriefung unter Angabe
+des Namens, Geburtsdatums und der Adresse des Aktionärs sowie der
+Stückzahl oder der Aktiennummer und bei Nennbetragsaktien des Betrags
+in das Aktienregister der Gesellschaft einzutragen. Der Aktionär ist
+verpflichtet, der Gesellschaft die Angaben nach Satz 1 mitzuteilen.
+Die Satzung kann Näheres dazu bestimmen, unter welchen Voraussetzungen
+Eintragungen im eigenen Namen für Aktien, die einem anderen gehören,
+zulässig sind. Aktien, die zu einem inländischen, EU- oder
+ausländischen Investmentvermögen nach dem Kapitalanlagegesetzbuch
+gehören, dessen Anteile oder Aktien nicht ausschließlich von
+professionellen und semiprofessionellen Anlegern gehalten werden,
+gelten als Aktien des inländischen, EU- oder ausländischen
+Investmentvermögens, auch wenn sie im Miteigentum der Anleger stehen;
+verfügt das Investmentvermögen über keine eigene Rechtspersönlichkeit,
+gelten sie als Aktien der Verwaltungsgesellschaft des
+Investmentvermögens.
 
 (2) Im Verhältnis zur Gesellschaft gilt als Aktionär nur, wer als
 solcher im Aktienregister eingetragen ist. Jedoch bestehen Stimmrechte
@@ -1617,7 +1646,7 @@ Kreditwesen tätiges Unternehmen gleich. Die Eigentumszeit eines
 Rechtsvorgängers wird dem Aktionär zugerechnet, wenn er die Aktie
 unentgeltlich, von seinem Treuhänder, als Gesamtrechtsnachfolger, bei
 Auseinandersetzung einer Gemeinschaft oder bei einer
-Bestandsübertragung nach § 14 des Versicherungsaufsichtsgesetzes oder
+Bestandsübertragung nach § 13 des Versicherungsaufsichtsgesetzes oder
 § 14 des Gesetzes über Bausparkassen erworben hat.
 
 
@@ -1921,6 +1950,15 @@ Satz 2 Nr. 3 gilt entsprechend bei einer Verurteilung im Ausland wegen
 einer Tat, die mit den in Satz 2 Nr. 3 genannten Taten vergleichbar
 ist.
 
+(4) Der Vorstand von Gesellschaften, die börsennotiert sind oder der
+Mitbestimmung unterliegen, legt für den Frauenanteil in den beiden
+Führungsebenen unterhalb des Vorstands Zielgrößen fest. Liegt der
+Frauenanteil bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen
+die Zielgrößen den jeweils erreichten Anteil nicht mehr
+unterschreiten. Gleichzeitig sind Fristen zur Erreichung der
+Zielgrößen festzulegen. Die Fristen dürfen jeweils nicht länger als
+fünf Jahre sein.
+
 
 ##### § 77 Geschäftsführung
 
@@ -2088,10 +2126,11 @@ die allgemeinen Vorschriften.
 
 (4) Die Vorschriften des Gesetzes über die Mitbestimmung der
 Arbeitnehmer in den Aufsichtsräten und Vorständen der Unternehmen des
-Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 21. Mai
-1951 (Bundesgesetzbl. I S. 347) - Montan-Mitbestimmungsgesetz - über
-die besonderen Mehrheitserfordernisse für einen Aufsichtsratsbeschluß
-über die Bestellung eines Arbeitsdirektors oder den Widerruf seiner
+Bergbaus und der Eisen und Stahl erzeugenden Industrie in der im
+Bundesgesetzblatt Teil III, Gliederungsnummer 801-2, veröffentlichten
+bereinigten Fassung - Montan-Mitbestimmungsgesetz - über die
+besonderen Mehrheitserfordernisse für einen Aufsichtsratsbeschluß über
+die Bestellung eines Arbeitsdirektors oder den Widerruf seiner
 Bestellung bleiben unberührt.
 
 
@@ -2310,7 +2349,7 @@ Kenntnis zu nehmen. Soweit die Berichte in Textform erstattet worden
 sind, sind sie auch jedem Aufsichtsratsmitglied auf Verlangen zu
 übermitteln, soweit der Aufsichtsrat nichts anderes beschlossen hat.
 Der Vorsitzende des Aufsichtsrats hat die Aufsichtsratsmitglieder über
-die Berichte nach Absatz 1 Satz 2 spätestens in der nächsten
+die Berichte nach Absatz 1 Satz 3 spätestens in der nächsten
 Aufsichtsratssitzung zu unterrichten.
 
 
@@ -2449,32 +2488,33 @@ Stellvertreter.
 
 Der Aufsichtsrat besteht aus drei Mitgliedern. Die Satzung kann eine
 bestimmte höhere Zahl festsetzen. Die Zahl muß durch drei teilbar
-sein. Die Höchstzahl der Aufsichtsratsmitglieder beträgt bei
-Gesellschaften mit einem Grundkapital
+sein, wenn dies zur Erfüllung mitbestimmungsrechtlicher Vorgaben
+erforderlich ist. Die Höchstzahl der Aufsichtsratsmitglieder beträgt
+bei Gesellschaften mit einem Grundkapital
 
 *    *   bis zu
 
-    *   1.500.000 Euro neun,
+    *   1 500 000 Euro neun,
 
 
 *    *   von mehr als
 
-    *   1.500.000 Euro fünfzehn,
+    *   1 500 000 Euro fünfzehn,
 
 
 *    *   von mehr als
 
-    *   10.000.000 Euro einundzwanzig.
+    *   10 000 000 Euro einundzwanzig.
 
 
 
 Durch die vorstehenden Vorschriften werden hiervon abweichende
-Vorschriften des Gesetzes über die Mitbestimmung der Arbeitnehmer vom
-4\. Mai 1976 (Bundesgesetzbl. I S. 1153), des Montan-
-Mitbestimmungsgesetzes und des Gesetzes zur Ergänzung des Gesetzes
-über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten und
-Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl
-erzeugenden Industrie vom 7. August 1956 (Bundesgesetzbl. I S. 707) -
+Vorschriften des Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I S.
+1153), des Montan-Mitbestimmungsgesetzes und des Gesetzes zur
+Ergänzung des Gesetzes über die Mitbestimmung der Arbeitnehmer in den
+Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der
+Eisen und Stahl erzeugenden Industrie in der im Bundesgesetzblatt Teil
+III, Gliederungsnummer 801-3, veröffentlichten bereinigten Fassung -
 Mitbestimmungsergänzungsgesetz - nicht berührt.
 
 
@@ -2492,12 +2532,45 @@ der Aktionäre und der Arbeitnehmer und aus einem weiteren Mitglied,
 bei Gesellschaften, für die das Drittelbeteiligungsgesetz gilt, aus
 Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,
 bei Gesellschaften für die das Gesetz über die Mitbestimmung der
-Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung gilt, aus
-Aufsichtsratsmitgliedern der Aktionäre und der Arbeitnehmer,
+Arbeitnehmer bei einer grenzüberschreitenden Verschmelzung vom 21.
+Dezember 2006 (BGBl. I S. 3332) gilt, aus Aufsichtsratsmitgliedern der
+Aktionäre und der Arbeitnehmer,
 bei den übrigen Gesellschaften nur aus Aufsichtsratsmitgliedern der
 Aktionäre.
 
-(2) Nach anderen als den zuletzt angewandten gesetzlichen Vorschriften
+(2) Bei börsennotierten Gesellschaften, für die das
+Mitbestimmungsgesetz, das Montan-Mitbestimmungsgesetz oder das
+Mitbestimmungsergänzungsgesetz gilt, setzt sich der Aufsichtsrat zu
+mindestens 30 Prozent aus Frauen und zu mindestens 30 Prozent aus
+Männern zusammen. Der Mindestanteil ist vom Aufsichtsrat insgesamt zu
+erfüllen. Widerspricht die Seite der Anteilseigner- oder
+Arbeitnehmervertreter auf Grund eines mit Mehrheit gefassten
+Beschlusses vor der Wahl der Gesamterfüllung gegenüber dem
+Aufsichtsratsvorsitzenden, so ist der Mindestanteil für diese Wahl von
+der Seite der Anteilseigner und der Seite der Arbeitnehmer getrennt zu
+erfüllen. Es ist in allen Fällen auf volle Personenzahlen mathematisch
+auf- beziehungsweise abzurunden. Verringert sich bei Gesamterfüllung
+der höhere Frauenanteil einer Seite nachträglich und widerspricht sie
+nun der Gesamterfüllung, so wird dadurch die Besetzung auf der anderen
+Seite nicht unwirksam. Eine Wahl der Mitglieder des Aufsichtsrats
+durch die Hauptversammlung und eine Entsendung in den Aufsichtsrat
+unter Verstoß gegen das Mindestanteilsgebot ist nichtig. Ist eine Wahl
+aus anderen Gründen für nichtig erklärt, so verstoßen zwischenzeitlich
+erfolgte Wahlen insoweit nicht gegen das Mindestanteilsgebot. Auf die
+Wahl der Aufsichtsratsmitglieder der Arbeitnehmer sind die in Satz 1
+genannten Gesetze zur Mitbestimmung anzuwenden.
+
+(3) Bei börsennotierten Gesellschaften, die aus einer
+grenzüberschreitenden Verschmelzung hervorgegangen sind und bei denen
+nach dem Gesetz über die Mitbestimmung der Arbeitnehmer bei einer
+grenzüberschreitenden Verschmelzung das Aufsichts- oder
+Verwaltungsorgan aus derselben Zahl von Anteilseigner- und
+Arbeitnehmervertretern besteht, müssen in dem Aufsichts- oder
+Verwaltungsorgan Frauen und Männer jeweils mit einem Anteil von
+mindestens 30 Prozent vertreten sein. Absatz 2 Satz 2, 4, 6 und 7 gilt
+entsprechend.
+
+(4) Nach anderen als den zuletzt angewandten gesetzlichen Vorschriften
 kann der Aufsichtsrat nur zusammengesetzt werden, wenn nach § 97 oder
 nach § 98 die in der Bekanntmachung des Vorstands oder in der
 gerichtlichen Entscheidung angegebenen gesetzlichen Vorschriften
@@ -2656,18 +2729,9 @@ Entscheidung.
 für und gegen alle. Der Vorstand hat die rechtskräftige Entscheidung
 unverzüglich zum Handelsregister einzureichen.
 
-(6) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das
-Verfahren des ersten Rechtszugs wird das Vierfache der vollen Gebühr
-erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche
-Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat.
-Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu
-einer Entscheidung kommt, so ermäßigt sich die Gebühr auf die Hälfte.
-Der Geschäftswert ist von Amts wegen festzusetzen. Er bestimmt sich
-nach § 30 Abs. 2 der Kostenordnung mit der Maßgabe, daß der Wert
-regelmäßig auf 50 000 Euro anzunehmen ist. Schuldner der Kosten ist
-die Gesellschaft. Die Kosten können jedoch ganz oder zum Teil dem
-Antragsteller auferlegt werden, wenn dies der Billigkeit entspricht.
-Kosten der Beteiligten werden nicht erstattet.
+(6) Die Kosten können ganz oder zum Teil dem Antragsteller auferlegt
+werden, wenn dies der Billigkeit entspricht. Kosten der Beteiligten
+werden nicht erstattet.
 
 
 ##### § 100 Persönliche Voraussetzungen für Aufsichtsratsmitglieder
@@ -2720,10 +2784,19 @@ Aufsichtsratsmitglieder fordern, die von der Hauptversammlung ohne
 Bindung an Wahlvorschläge gewählt oder auf Grund der Satzung in den
 Aufsichtsrat entsandt werden.
 
-(5) Bei Gesellschaften im Sinn des § 264d des Handelsgesetzbuchs muss
-mindestens ein unabhängiges Mitglied des Aufsichtsrats über
-Sachverstand auf den Gebieten Rechnungslegung oder Abschlussprüfung
-verfügen.
+(5) Bei Gesellschaften, die kapitalmarktorientiert im Sinne des § 264d
+des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des § 1
+Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2
+Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den
+Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist, sind, muss mindestens ein Mitglied des
+Aufsichtsrats über Sachverstand auf den Gebieten Rechnungslegung oder
+Abschlussprüfung verfügen; die Mitglieder müssen in ihrer Gesamtheit
+mit dem Sektor, in dem die Gesellschaft tätig ist, vertraut sein.
 
 
 ##### § 101 Bestellung der Aufsichtsratsmitglieder
@@ -2911,10 +2984,15 @@ Aufsichtsratsmitglied durch Delegierte zu wählen wäre, für gemeinsame
 Vorschläge der Betriebsräte der Unternehmen, in denen Delegierte zu
 wählen sind.
 
-(5) Das Amt des gerichtlich bestellten Aufsichtsratsmitglieds erlischt
+(5) Die Ergänzung durch das Gericht ist bei börsennotierten
+Gesellschaften, für die das Mitbestimmungsgesetz, das Montan-
+Mitbestimmungsgesetz oder das Mitbestimmungsergänzungsgesetz gilt,
+nach Maßgabe des § 96 Absatz 2 Satz 1 bis 5 vorzunehmen.
+
+(6) Das Amt des gerichtlich bestellten Aufsichtsratsmitglieds erlischt
 in jedem Fall, sobald der Mangel behoben ist.
 
-(6) Das gerichtlich bestellte Aufsichtsratsmitglied hat Anspruch auf
+(7) Das gerichtlich bestellte Aufsichtsratsmitglied hat Anspruch auf
 Ersatz angemessener barer Auslagen und, wenn den
 Aufsichtsratsmitgliedern der Gesellschaft eine Vergütung gewährt wird,
 auf Vergütung für seine Tätigkeit. Auf Antrag des
@@ -2978,21 +3056,28 @@ Beschlüsse vorzubereiten oder die Ausführung seiner Beschlüsse zu
 der sich mit der Überwachung des Rechnungslegungsprozesses, der
 Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems
 und des internen Revisionssystems sowie der Abschlussprüfung, hier
-insbesondere der Unabhängigkeit des Abschlussprüfers und der vom
-Abschlussprüfer zusätzlich erbrachten Leistungen, befasst. Die
-Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77 Abs. 2 Satz 1, § 84
-Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, § 87 Abs. 1 und Abs. 2
-Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2 und 3 sowie Beschlüsse,
-daß bestimmte Arten von Geschäften nur mit Zustimmung des
-Aufsichtsrats vorgenommen werden dürfen, können einem Ausschuß nicht
-an Stelle des Aufsichtsrats zur Beschlußfassung überwiesen werden. Dem
-Aufsichtsrat ist regelmäßig über die Arbeit der Ausschüsse zu
-berichten.
+insbesondere der Auswahl und der Unabhängigkeit des Abschlussprüfers
+und der vom Abschlussprüfer zusätzlich erbrachten Leistungen, befasst.
+Der Prüfungsausschuss kann Empfehlungen oder Vorschläge zur
+Gewährleistung der Integrität des Rechnungslegungsprozesses
+unterbreiten. Die Aufgaben nach Absatz 1 Satz 1, § 59 Abs. 3, § 77
+Abs. 2 Satz 1, § 84 Abs. 1 Satz 1 und 3, Abs. 2 und Abs. 3 Satz 1, §
+87 Abs. 1 und Abs. 2 Satz 1 und 2, § 111 Abs. 3, §§ 171, 314 Abs. 2
+und 3 sowie Beschlüsse, daß bestimmte Arten von Geschäften nur mit
+Zustimmung des Aufsichtsrats vorgenommen werden dürfen, können einem
+Ausschuß nicht an Stelle des Aufsichtsrats zur Beschlußfassung
+überwiesen werden. Dem Aufsichtsrat ist regelmäßig über die Arbeit der
+Ausschüsse zu berichten.
 
-(4) Richtet der Aufsichtsrat einer Gesellschaft im Sinn des § 264d des
-Handelsgesetzbuchs einen Prüfungsausschuss im Sinn des Absatzes 3 Satz
-2 ein, so muss mindestens ein Mitglied die Voraussetzungen des § 100
-Abs. 5 erfüllen.
+(4) Richtet der Aufsichtsrat einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die
+CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, oder die
+Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG ist, einen Prüfungsausschuss im Sinn des
+Absatzes 3 Satz 2 ein, so müssen die Voraussetzungen des § 100 Absatz
+5 erfüllt sein.
 
 
 ##### § 108 Beschlußfassung des Aufsichtsrats
@@ -3072,7 +3157,12 @@ die Bestände an Wertpapieren und Waren, einsehen und prüfen. Er kann
 damit auch einzelne Mitglieder oder für bestimmte Aufgaben besondere
 Sachverständige beauftragen. Er erteilt dem Abschlußprüfer den
 Prüfungsauftrag für den Jahres- und den Konzernabschluß gemäß § 290
-des Handelsgesetzbuchs.
+des Handelsgesetzbuchs. Er kann darüber hinaus eine externe
+inhaltliche Überprüfung der nichtfinanziellen Erklärung oder des
+gesonderten nichtfinanziellen Berichts (§ 289b des
+Handelsgesetzbuchs), der nichtfinanziellen Konzernerklärung oder des
+gesonderten nichtfinanziellen Konzernberichts (§ 315b des
+Handelsgesetzbuchs) beauftragen.
 
 (3) Der Aufsichtsrat hat eine Hauptversammlung einzuberufen, wenn das
 Wohl der Gesellschaft es fordert. Für den Beschluß genügt die einfache
@@ -3088,7 +3178,17 @@ den die Hauptversammlung zustimmt, bedarf einer Mehrheit, die
 mindestens drei Viertel der abgegebenen Stimmen umfaßt. Die Satzung
 kann weder eine andere Mehrheit noch weitere Erfordernisse bestimmen.
 
-(5) Die Aufsichtsratsmitglieder können ihre Aufgaben nicht durch
+(5) Der Aufsichtsrat von Gesellschaften, die börsennotiert sind oder
+der Mitbestimmung unterliegen, legt für den Frauenanteil im
+Aufsichtsrat und im Vorstand Zielgrößen fest. Liegt der Frauenanteil
+bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die
+Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten.
+Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen.
+Die Fristen dürfen jeweils nicht länger als fünf Jahre sein. Soweit
+für den Aufsichtsrat bereits eine Quote nach § 96 Absatz 2 gilt, sind
+die Festlegungen nur für den Vorstand vorzunehmen.
+
+(6) Die Aufsichtsratsmitglieder können ihre Aufgaben nicht durch
 andere wahrnehmen lassen.
 
 
@@ -3380,7 +3480,7 @@ Aufsichtsrat in der Einberufung ferner anzugeben:
 
 1.  die Voraussetzungen für die Teilnahme an der Versammlung und die
     Ausübung des Stimmrechts sowie gegebenenfalls den Nachweisstichtag
-    nach § 123 Abs. 3 Satz 3 und dessen Bedeutung;
+    nach § 123 Absatz 4 Satz 2 und dessen Bedeutung;
 
 
 2.  das Verfahren für die Stimmabgabe
@@ -3417,15 +3517,14 @@ Aufsichtsrat in der Einberufung ferner anzugeben:
 machen. Sind die Aktionäre der Gesellschaft namentlich bekannt, so
 kann die Hauptversammlung mit eingeschriebenem Brief einberufen
 werden, wenn die Satzung nichts anderes bestimmt; der Tag der
-Absendung gilt als Tag der Bekanntmachung. Die §§ 125 bis 127 gelten
-sinngemäß.
+Absendung gilt als Tag der Bekanntmachung.
 
 (4a) Bei börsennotierten Gesellschaften, die nicht ausschließlich
-Namensaktien ausgegeben haben und die Einberufung den Aktionären nicht
-unmittelbar nach Absatz 4 Satz 2 und 3 übersenden, ist die Einberufung
-spätestens zum Zeitpunkt der Bekanntmachung solchen Medien zur
-Veröffentlichung zuzuleiten, bei denen davon ausgegangen werden kann,
-dass sie die Information in der gesamten Europäischen Union
+Namensaktien ausgegeben haben oder welche die Einberufung den
+Aktionären nicht unmittelbar nach Absatz 4 Satz 2 übersenden, ist die
+Einberufung spätestens zum Zeitpunkt der Bekanntmachung solchen Medien
+zur Veröffentlichung zuzuleiten, bei denen davon ausgegangen werden
+kann, dass sie die Information in der gesamten Europäischen Union
 verbreiten.
 
 (5) Wenn die Satzung nichts anderes bestimmt, soll die
@@ -3456,7 +3555,11 @@ Einberufung schriftlich unter Angabe des Zwecks und der Gründe
 verlangen; das Verlangen ist an den Vorstand zu richten. Die Satzung
 kann das Recht, die Einberufung der Hauptversammlung zu verlangen, an
 eine andere Form und an den Besitz eines geringeren Anteils am
-Grundkapital knüpfen. § 142 Abs. 2 Satz 2 gilt entsprechend.
+Grundkapital knüpfen. Die Antragsteller haben nachzuweisen, dass sie
+seit mindestens 90 Tagen vor dem Tag des Zugangs des Verlangens
+Inhaber der Aktien sind und dass sie die Aktien bis zur Entscheidung
+des Vorstands über den Antrag halten. § 121 Absatz 7 ist entsprechend
+anzuwenden.
 
 (2) In gleicher Weise können Aktionäre, deren Anteile zusammen den
 zwanzigsten Teil des Grundkapitals oder den anteiligen Betrag von 500
@@ -3473,7 +3576,8 @@ Hauptversammlung einzuberufen oder den Gegenstand bekanntzumachen.
 Zugleich kann das Gericht den Vorsitzenden der Versammlung bestimmen.
 Auf die Ermächtigung muß bei der Einberufung oder Bekanntmachung
 hingewiesen werden. Gegen die Entscheidung ist die Beschwerde
-zulässig.
+zulässig. Die Antragsteller haben nachzuweisen, dass sie die Aktien
+bis zur Entscheidung des Gerichts halten.
 
 (4) Die Gesellschaft trägt die Kosten der Hauptversammlung und im Fall
 des Absatzes 3 auch die Gerichtskosten, wenn das Gericht dem Antrag
@@ -3494,23 +3598,29 @@ sechs Tage vor der Versammlung zugehen. In der Satzung oder in der
 Einberufung auf Grund einer Ermächtigung durch die Satzung kann eine
 kürzere, in Tagen zu bemessende Frist vorgesehen werden. Der Tag des
 Zugangs ist nicht mitzurechnen. Die Mindestfrist des Absatzes 1
-verlängert sich um die Tage der Anmeldefrist des Satzes 2.
+verlängert sich um die Tage der Anmeldefrist.
 
-(3) Bei Inhaberaktien kann die Satzung bestimmen, wie die Berechtigung
-zur Teilnahme an der Versammlung oder zur Ausübung des Stimmrechts
-nachzuweisen ist; Absatz 2 Satz 5 gilt in diesem Fall entsprechend.
-Bei börsennotierten Gesellschaften reicht ein in Textform erstellter
-besonderer Nachweis des Anteilsbesitzes durch das depotführende
-Institut aus. Der Nachweis hat sich bei börsennotierten Gesellschaften
-auf den Beginn des 21. Tages vor der Versammlung zu beziehen und muss
-der Gesellschaft unter der in der Einberufung hierfür mitgeteilten
-Adresse mindestens sechs Tage vor der Versammlung zugehen. In der
-Satzung oder in der Einberufung auf Grund einer Ermächtigung durch die
-Satzung kann eine kürzere, in Tagen zu bemessende Frist vorgesehen
-werden. Der Tag des Zugangs ist nicht mitzurechnen. Im Verhältnis zur
-Gesellschaft gilt für die Teilnahme an der Versammlung oder die
-Ausübung des Stimmrechts als Aktionär nur, wer den Nachweis erbracht
-hat.
+(3) Die Satzung kann bestimmen, wie die Berechtigung zur Teilnahme an
+der Versammlung oder zur Ausübung des Stimmrechts nachzuweisen ist;
+Absatz 2 Satz 5 gilt in diesem Fall entsprechend.
+
+(4) Bei Inhaberaktien börsennotierter Gesellschaften reicht ein durch
+das depotführende Institut in Textform erstellter besonderer Nachweis
+des Anteilsbesitzes aus. Der Nachweis hat sich bei börsennotierten
+Gesellschaften auf den Beginn des 21. Tages vor der Versammlung zu
+beziehen und muss der Gesellschaft unter der in der Einberufung
+hierfür mitgeteilten Adresse mindestens sechs Tage vor der Versammlung
+zugehen. In der Satzung oder in der Einberufung auf Grund einer
+Ermächtigung durch die Satzung kann eine kürzere, in Tagen zu
+bemessende Frist vorgesehen werden. Der Tag des Zugangs ist nicht
+mitzurechnen. Im Verhältnis zur Gesellschaft gilt für die Teilnahme an
+der Versammlung oder für die Ausübung des Stimmrechts als Aktionär
+nur, wer den Nachweis erbracht hat.
+
+(5) Bei Namensaktien börsennotierter Gesellschaften folgt die
+Berechtigung zur Teilnahme an der Versammlung oder zur Ausübung des
+Stimmrechts gemäß § 67 Absatz 2 Satz 1 aus der Eintragung im
+Aktienregister.
 
 
 ###### § 124 Bekanntmachung von Ergänzungsverlangen; Vorschläge zur Beschlussfassung
@@ -3525,22 +3635,42 @@ Einberufung zu erfolgen.
 
 (2) Steht die Wahl von Aufsichtsratsmitgliedern auf der Tagesordnung,
 so ist in der Bekanntmachung anzugeben, nach welchen gesetzlichen
-Vorschriften sich der Aufsichtsrat zusammensetzt, und ob die
-Hauptversammlung an Wahlvorschläge gebunden ist. Soll die
-Hauptversammlung über eine Satzungsänderung oder über einen Vertrag
-beschließen, der nur mit Zustimmung der Hauptversammlung wirksam wird,
-so ist auch der Wortlaut der vorgeschlagenen Satzungsänderung oder der
-wesentliche Inhalt des Vertrags bekanntzumachen.
+Vorschriften sich der Aufsichtsrat zusammensetzt; ist die
+Hauptversammlung an Wahlvorschläge gebunden, so ist auch dies
+anzugeben. Die Bekanntmachung muss bei einer Wahl von
+Aufsichtsratsmitgliedern börsennotierter Gesellschaften, für die das
+Mitbestimmungsgesetz, das Montan-Mitbestimmungsgesetz oder das
+Mitbestimmungsergänzungsgesetz gilt, ferner enthalten:
+
+1.  Angabe, ob der Gesamterfüllung nach § 96 Absatz 2 Satz 3 widersprochen
+    wurde, und
+
+
+2.  Angabe, wie viele der Sitze im Aufsichtsrat mindestens jeweils von
+    Frauen und Männern besetzt sein müssen, um das Mindestanteilsgebot
+    nach § 96 Absatz 2 Satz 1 zu erfüllen.
+
+
+
+Soll die Hauptversammlung über eine Satzungsänderung oder über einen
+Vertrag beschließen, der nur mit Zustimmung der Hauptversammlung
+wirksam wird, so ist auch der Wortlaut der vorgeschlagenen
+Satzungsänderung oder der wesentliche Inhalt des Vertrags
+bekanntzumachen.
 
 (3) Zu jedem Gegenstand der Tagesordnung, über den die
 Hauptversammlung beschließen soll, haben der Vorstand und der
 Aufsichtsrat, zur Wahl von Aufsichtsratsmitgliedern und Prüfern nur
 der Aufsichtsrat, in der Bekanntmachung Vorschläge zur Beschlußfassung
-zu machen. Bei Gesellschaften im Sinn des § 264d des
-Handelsgesetzbuchs ist der Vorschlag des Aufsichtsrats zur Wahl des
-Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu
-stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung bei
-der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-
+zu machen. Bei Gesellschaften, die kapitalmarktorientiert im Sinne des
+§ 264d des Handelsgesetzbuchs, die CRR-Kreditinstitute im Sinne des §
+1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2
+Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+oder die Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG sind, ist der Vorschlag des Aufsichtsrats zur
+Wahl des Abschlussprüfers auf die Empfehlung des Prüfungsausschusses
+zu stützen. Satz 1 findet keine Anwendung, wenn die Hauptversammlung
+bei der Wahl von Aufsichtsratsmitgliedern nach § 6 des Montan-
 Mitbestimmungsgesetzes an Wahlvorschläge gebunden ist, oder wenn der
 Gegenstand der Beschlußfassung auf Verlangen einer Minderheit auf die
 Tagesordnung gesetzt worden ist. Der Vorschlag zur Wahl von
@@ -3693,8 +3823,26 @@ Für den Vorschlag eines Aktionärs zur Wahl von
 Aufsichtsratsmitgliedern oder von Abschlußprüfern gilt § 126
 sinngemäß. Der Wahlvorschlag braucht nicht begründet zu werden. Der
 Vorstand braucht den Wahlvorschlag auch dann nicht zugänglich zu
-machen, wenn der Vorschlag nicht die Angaben nach § 124 Abs. 3 Satz 3
-und § 125 Abs. 1 Satz 5 enthält.
+machen, wenn der Vorschlag nicht die Angaben nach § 124 Absatz 3 Satz
+4 und § 125 Abs. 1 Satz 5 enthält. Der Vorstand hat den Vorschlag
+eines Aktionärs zur Wahl von Aufsichtsratsmitgliedern börsennotierter
+Gesellschaften, für die das Mitbestimmungsgesetz, das Montan-
+Mitbestimmungsgesetz oder das Mitbestimmungsergänzungsgesetz gilt, mit
+folgenden Inhalten zu versehen:
+
+1.  Hinweis auf die Anforderungen des § 96 Absatz 2,
+
+
+2.  Angabe, ob der Gesamterfüllung nach § 96 Absatz 2 Satz 3 widersprochen
+    wurde und
+
+
+3.  Angabe, wie viele der Sitze im Aufsichtsrat mindestens jeweils von
+    Frauen und Männern besetzt sein müssen, um das Mindestanteilsgebot
+    nach § 96 Absatz 2 Satz 1 zu erfüllen.
+
+
+
 
 
 ###### § 127a Aktionärsforum
@@ -3728,11 +3876,12 @@ des Auffordernden und dessen elektronische Adresse hinweisen.
 (4) Die Gesellschaft kann im Bundesanzeiger auf eine Stellungnahme zu
 der Aufforderung auf ihrer Internetseite hinweisen.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung die äußere Gestaltung des Aktionärsforums und weitere
-Einzelheiten insbesondere zu der Aufforderung, dem Hinweis, den
-Entgelten, zu Löschungsfristen, Löschungsanspruch, zu
-Missbrauchsfällen und zur Einsichtnahme zu regeln.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung die äußere Gestaltung des
+Aktionärsforums und weitere Einzelheiten insbesondere zu der
+Aufforderung, dem Hinweis, den Entgelten, zu Löschungsfristen,
+Löschungsanspruch, zu Missbrauchsfällen und zur Einsichtnahme zu
+regeln.
 
 
 ###### § 128 Übermittlung der Mitteilungen
@@ -3750,10 +3899,11 @@ mehr verpflichtet.
 Verletzung des Absatzes 1 entstehenden Schadens kann im voraus weder
 ausgeschlossen noch beschränkt werden.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium der Finanzen durch Rechtsverordnung vorzuschreiben,
-dass die Gesellschaft den Kreditinstituten die Aufwendungen für
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie und dem Bundesministerium der Finanzen durch
+Rechtsverordnung vorzuschreiben, dass die Gesellschaft den
+Kreditinstituten die Aufwendungen für
 
 1.  die Übermittlung der Angaben gemäß § 67 Abs. 4 und
 
@@ -3827,7 +3977,8 @@ Beschlussfassung für jeden Beschluss auch
 1.  die Zahl der Aktien, für die gültige Stimmen abgegeben wurden,
 
 
-2.  den Anteil des durch die gültigen Stimmen vertretenen Grundkapitals,
+2.  den Anteil des durch die gültigen Stimmen vertretenen Grundkapitals am
+    eingetragenen Grundkapital,
 
 
 3.  die Zahl der für einen Beschluss abgegebenen Stimmen, Gegenstimmen und
@@ -3866,15 +4017,15 @@ soweit sie zur sachgemäßen Beurteilung des Gegenstands der
 Tagesordnung erforderlich ist. Die Auskunftspflicht erstreckt sich
 auch auf die rechtlichen und geschäftlichen Beziehungen der
 Gesellschaft zu einem verbundenen Unternehmen. Macht eine Gesellschaft
-von den Erleichterungen nach § 266 Abs. 1 Satz 2, § 276 oder § 288 des
-Handelsgesetzbuchs Gebrauch, so kann jeder Aktionär verlangen, daß ihm
-in der Hauptversammlung über den Jahresabschluß der Jahresabschluß in
-der Form vorgelegt wird, die er ohne Anwendung dieser Vorschriften
-hätte. Die Auskunftspflicht des Vorstands eines Mutterunternehmens (§
-290 Abs. 1, 2 des Handelsgesetzbuchs) in der Hauptversammlung, der der
-Konzernabschluss und der Konzernlagebericht vorgelegt werden,
-erstreckt sich auch auf die Lage des Konzerns und der in den
-Konzernabschluss einbezogenen Unternehmen.
+von den Erleichterungen nach § 266 Absatz 1 Satz 3, § 276 oder § 288
+des Handelsgesetzbuchs Gebrauch, so kann jeder Aktionär verlangen,
+dass ihm in der Hauptversammlung über den Jahresabschluss der
+Jahresabschluss in der Form vorgelegt wird, die er ohne diese
+Erleichterungen hätte. Die Auskunftspflicht des Vorstands eines
+Mutterunternehmens (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) in der
+Hauptversammlung, der der Konzernabschluss und der Konzernlagebericht
+vorgelegt werden, erstreckt sich auch auf die Lage des Konzerns und
+der in den Konzernabschluss einbezogenen Unternehmen.
 
 (2) Die Auskunft hat den Grundsätzen einer gewissenhaften und getreuen
 Rechenschaft zu entsprechen. Die Satzung oder die Geschäftsordnung
@@ -3972,18 +4123,9 @@ der Hauptversammlung zu geben. Aus der Entscheidung findet die
 Zwangsvollstreckung nach den Vorschriften der Zivilprozeßordnung
 statt.
 
-(5) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das
-Verfahren des ersten Rechtszugs wird das Doppelte der vollen Gebühr
-erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche
-Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat.
-Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu
-einer Entscheidung oder einer vom Gericht vermittelten Einigung kommt,
-so ermäßigt sich die Gebühr auf die Hälfte. Der Geschäftswert ist von
-Amts wegen festzusetzen. Er bestimmt sich nach § 30 Abs. 2 der
-Kostenordnung mit der Maßgabe, daß der Wert regelmäßig auf 5 000 Euro
-anzunehmen ist. Das mit dem Verfahren befaßte Gericht bestimmt nach
-billigem Ermessen, welchem Beteiligten die Kosten des Verfahrens
-aufzuerlegen sind.
+(5) Das mit dem Verfahren befaßte Gericht bestimmt nach billigem
+Ermessen, welchem Beteiligten die Kosten des Verfahrens aufzuerlegen
+sind.
 
 
 ##### Vierter Unterabschnitt - Stimmrecht
@@ -4107,7 +4249,7 @@ dem Aufsichtsrat der Gesellschaft oder ein Vorstandsmitglied oder ein
 Mitarbeiter der Gesellschaft dem Aufsichtsrat des Kreditinstituts an,
 so hat das Kreditinstitut hierauf hinzuweisen. Gleiches gilt, wenn das
 Kreditinstitut an der Gesellschaft eine Beteiligung hält, die nach §
-21 des Wertpapierhandelsgesetzes meldepflichtig ist, oder einem
+33 des Wertpapierhandelsgesetzes meldepflichtig ist, oder einem
 Konsortium angehörte, das die innerhalb von fünf Jahren zeitlich
 letzte Emission von Wertpapieren der Gesellschaft übernommen hat.
 
@@ -4125,7 +4267,10 @@ darf das bevollmächtigte Kreditinstitut das Stimmrecht auf Grund der
 Vollmacht nur ausüben, soweit der Aktionär eine ausdrückliche Weisung
 zu den einzelnen Gegenständen der Tagesordnung erteilt hat. Gleiches
 gilt in der Versammlung einer Gesellschaft, an der es mit mehr als 20
-Prozent des Grundkapitals unmittelbar oder mittelbar beteiligt ist.
+Prozent des Grundkapitals unmittelbar oder mittelbar beteiligt ist;
+für die Berechnung der Beteiligungsschwelle bleiben mittelbare
+Beteiligungen im Sinne des § 35 Absatz 3 bis 6 des
+Wertpapierhandelsgesetzes außer Betracht.
 
 (4) Ein Kreditinstitut, das in der Hauptversammlung das Stimmrecht auf
 Grund einer Vollmacht nach Absatz 1 Satz 4 Nr. 2 ausüben will, hat den
@@ -4223,9 +4368,12 @@ den Sonderbeschluß das Stimmrecht ausgeübt werden kann.
 
 ###### § 139 Wesen
 
-(1) Für Aktien, die mit einem nachzuzahlenden Vorzug bei der
-Verteilung des Gewinns ausgestattet sind, kann das Stimmrecht
-ausgeschlossen werden (Vorzugsaktien ohne Stimmrecht).
+(1) Für Aktien, die mit einem Vorzug bei der Verteilung des Gewinns
+ausgestattet sind, kann das Stimmrecht ausgeschlossen werden
+(Vorzugsaktien ohne Stimmrecht). Der Vorzug kann insbesondere in einem
+auf die Aktie vorweg entfallenden Gewinnanteil (Vorabdividende) oder
+einem erhöhten Gewinnanteil (Mehrdividende) bestehen. Wenn die Satzung
+nichts anderes bestimmt, ist eine Vorabdividende nachzuzahlen.
 
 (2) Vorzugsaktien ohne Stimmrecht dürfen nur bis zur Hälfte des
 Grundkapitals ausgegeben werden.
@@ -4236,17 +4384,22 @@ Grundkapitals ausgegeben werden.
 (1) Die Vorzugsaktien ohne Stimmrecht gewähren mit Ausnahme des
 Stimmrechts die jedem Aktionär aus der Aktie zustehenden Rechte.
 
-(2) Wird der Vorzugsbetrag in einem Jahr nicht oder nicht vollständig
-gezahlt und der Rückstand im nächsten Jahr nicht neben dem vollen
-Vorzug dieses Jahres nachgezahlt, so haben die Vorzugsaktionäre das
-Stimmrecht, bis die Rückstände nachgezahlt sind. In diesem Fall sind
-die Vorzugsaktien auch bei der Berechnung einer nach Gesetz oder
-Satzung erforderlichen Kapitalmehrheit zu berücksichtigen.
+(2) Ist der Vorzug nachzuzahlen und wird der Vorzugsbetrag in einem
+Jahr nicht oder nicht vollständig gezahlt und im nächsten Jahr nicht
+neben dem vollen Vorzug für dieses Jahr nachgezahlt, so haben die
+Aktionäre das Stimmrecht, bis die Rückstände gezahlt sind. Ist der
+Vorzug nicht nachzuzahlen und wird der Vorzugsbetrag in einem Jahr
+nicht oder nicht vollständig gezahlt, so haben die Vorzugsaktionäre
+das Stimmrecht, bis der Vorzug in einem Jahr vollständig gezahlt ist.
+Solange das Stimmrecht besteht, sind die Vorzugsaktien auch bei der
+Berechnung einer nach Gesetz oder Satzung erforderlichen
+Kapitalmehrheit zu berücksichtigen.
 
-(3) Soweit die Satzung nichts anderes bestimmt, entsteht dadurch, daß
-der Vorzugsbetrag in einem Jahr nicht oder nicht vollständig gezahlt
-wird, noch kein durch spätere Beschlüsse über die Gewinnverteilung
-bedingter Anspruch auf den rückständigen Vorzugsbetrag.
+(3) Soweit die Satzung nichts anderes bestimmt, entsteht dadurch, dass
+der nachzuzahlende Vorzugsbetrag in einem Jahr nicht oder nicht
+vollständig gezahlt wird, noch kein durch spätere Beschlüsse über die
+Gewinnverteilung bedingter Anspruch auf den rückständigen
+Vorzugsbetrag.
 
 
 ###### § 141 Aufhebung oder Beschränkung des Vorzugs
@@ -4342,11 +4495,11 @@ Entscheidung ist die Beschwerde zulässig; die Rechtsbeschwerde ist
 ausgeschlossen. Aus der rechtskräftigen Entscheidung findet die
 Zwangsvollstreckung nach der Zivilprozeßordnung statt.
 
-(7) Hat die Gesellschaft Wertpapiere im Sinne des § 2 Abs. 1 Satz 1
-des Wertpapierhandelsgesetzes ausgegeben, die an einer inländischen
-Börse zum Handel im regulierten Markt zugelassen sind, so hat im Falle
-des Absatzes 1 Satz 1 der Vorstand und im Falle des Absatzes 2 Satz 1
-das Gericht der Bundesanstalt für Finanzdienstleistungsaufsicht die
+(7) Hat die Gesellschaft Wertpapiere im Sinne des § 2 Absatz 1 des
+Wertpapierhandelsgesetzes ausgegeben, die an einer inländischen Börse
+zum Handel im regulierten Markt zugelassen sind, so hat im Falle des
+Absatzes 1 Satz 1 der Vorstand und im Falle des Absatzes 2 Satz 1 das
+Gericht der Bundesanstalt für Finanzdienstleistungsaufsicht die
 Bestellung des Sonderprüfers und dessen Prüfungsbericht mitzuteilen;
 darüber hinaus hat das Gericht den Eingang eines Antrags auf
 Bestellung eines Sonderprüfers mitzuteilen.
@@ -4644,14 +4797,12 @@ Die Verwendung nach den Nummern 1 und 2 ist nicht zulässig, wenn
 gleichzeitig Gewinnrücklagen zur Gewinnausschüttung aufgelöst werden.
 
 
-##### § 150a
-
--
+##### § 150a (weggefallen)
 
 
-##### § 151
 
--
+##### § 151 (weggefallen)
+
 
 
 ##### § 152 Vorschriften zur Bilanz
@@ -4693,10 +4844,13 @@ oder im Anhang jeweils gesondert anzugeben
 (4) Die Absätze 1 bis 3 sind nicht anzuwenden auf
 Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
 267a des Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach
-§ 266 Absatz 1 Satz 4 des Handelsgesetzbuchs Gebrauch machen.
+§ 266 Absatz 1 Satz 4 des Handelsgesetzbuchs Gebrauch machen. Kleine
+Aktiengesellschaften im Sinne des § 267 Absatz 1 des
+Handelsgesetzbuchs haben die Absätze 2 und 3 mit der Maßgabe
+anzuwenden, dass die Angaben in der Bilanz zu machen sind.
 
 
-##### (XXXX) §§ 43 und 44
+##### (XXXX) §§ 153 bis 157 (weggefallen)
 
 
 
@@ -4802,9 +4956,10 @@ Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
     sowie über die Verwendung des Erlöses zu berichten;
 
 
-3.  die Zahl und bei Nennbetragsaktien den Nennbetrag der Aktien jeder
-    Gattung, sofern sich diese Angaben nicht aus der Bilanz ergeben; davon
-    sind Aktien, die bei einer bedingten Kapitalerhöhung oder einem
+3.  die Zahl der Aktien jeder Gattung, wobei zu Nennbetragsaktien der
+    Nennbetrag und zu Stückaktien der rechnerische Wert für jede von ihnen
+    anzugeben ist, sofern sich diese Angaben nicht aus der Bilanz ergeben;
+    davon sind Aktien, die bei einer bedingten Kapitalerhöhung oder einem
     genehmigten Kapital im Geschäftsjahr gezeichnet wurden, jeweils
     gesondert anzugeben;
 
@@ -4812,14 +4967,10 @@ Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
 4.  das genehmigte Kapital;
 
 
-5.  die Zahl der Bezugsrechte gemäß § 192 Abs. 2 Nr. 3, der
-    Wandelschuldverschreibungen und vergleichbaren Wertpapiere unter
-    Angabe der Rechte, die sie verbriefen;
+5.  die Zahl der Bezugsrechte gemäß § 192 Absatz 2 Nummer 3;
 
 
-6.  Genußrechte, Rechte aus Besserungsscheinen und ähnliche Rechte unter
-    Angabe der Art und Zahl der jeweiligen Rechte sowie der im
-    Geschäftsjahr neu entstandenen Rechte;
+6.  (weggefallen)
 
 
 7.  das Bestehen einer wechselseitigen Beteiligung unter Angabe des
@@ -4827,9 +4978,9 @@ Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
 
 
 8.  das Bestehen einer Beteiligung, die nach § 20 Abs. 1 oder Abs. 4
-    dieses Gesetzes oder nach § 21 Abs. 1 oder Abs. 1a des
+    dieses Gesetzes oder nach § 33 Absatz 1 oder Absatz 2 des
     Wertpapierhandelsgesetzes mitgeteilt worden ist; dabei ist der nach §
-    20 Abs. 6 dieses Gesetzes oder der nach § 26 Abs. 1 des
+    20 Abs. 6 dieses Gesetzes oder der nach § 40 Absatz 1 des
     Wertpapierhandelsgesetzes veröffentlichte Inhalt der Mitteilung
     anzugeben.
 
@@ -4840,40 +4991,44 @@ Aktiengesellschaften, die Kleinstkapitalgesellschaften im Sinne des §
 Wohl der Bundesrepublik Deutschland oder eines ihrer Länder
 erforderlich ist.
 
-(3) Absatz 1 ist nicht anzuwenden auf Aktiengesellschaften, die
-Kleinstkapitalgesellschaften im Sinne des § 267a des
-Handelsgesetzbuchs sind, wenn sie von der Erleichterung nach § 264
-Absatz 1 Satz 5 des Handelsgesetzbuchs Gebrauch machen.
+(3) Absatz 1 Nummer 1 und 3 bis 8 ist nicht anzuwenden auf
+Aktiengesellschaften, die kleine Kapitalgesellschaften im Sinne des §
+267 Absatz 1 des Handelsgesetzbuchs sind. Absatz 1 Nummer 2 ist auf
+diese Aktiengesellschaften mit der Maßgabe anzuwenden, dass die
+Gesellschaft nur Angaben zu von ihr selbst oder durch eine andere
+Person für Rechnung der Gesellschaft erworbenen und gehaltenen eigenen
+Aktien machen muss und über die Verwendung des Erlöses aus der
+Veräußerung eigener Aktien nicht zu berichten braucht.
 
 
 ##### § 161 Erklärung zum Corporate Governance Kodex
 
 (1) Vorstand und Aufsichtsrat der börsennotierten Gesellschaft
-erklären jährlich, dass den vom Bundesministerium der Justiz im
-amtlichen Teil des Bundesanzeigers bekannt gemachten Empfehlungen der
-„Regierungskommission Deutscher Corporate Governance Kodex“
-entsprochen wurde und wird oder welche Empfehlungen nicht angewendet
-wurden oder werden und warum nicht. Gleiches gilt für Vorstand und
-Aufsichtsrat einer Gesellschaft, die ausschließlich andere Wertpapiere
-als Aktien zum Handel an einem organisierten Markt im Sinn des § 2
-Abs. 5 des Wertpapierhandelsgesetzes ausgegeben hat und deren
-ausgegebene Aktien auf eigene Veranlassung über ein multilaterales
-Handelssystem im Sinn des § 2 Abs. 3 Satz 1 Nr. 8 des
-Wertpapierhandelsgesetzes gehandelt werden.
+erklären jährlich, dass den vom Bundesministerium der Justiz und für
+Verbraucherschutz im amtlichen Teil des Bundesanzeigers bekannt
+gemachten Empfehlungen der „Regierungskommission Deutscher Corporate
+Governance Kodex“ entsprochen wurde und wird oder welche Empfehlungen
+nicht angewendet wurden oder werden und warum nicht. Gleiches gilt für
+Vorstand und Aufsichtsrat einer Gesellschaft, die ausschließlich
+andere Wertpapiere als Aktien zum Handel an einem organisierten Markt
+im Sinn des § 2 Absatz 11 des Wertpapierhandelsgesetzes ausgegeben hat
+und deren ausgegebene Aktien auf eigene Veranlassung über ein
+multilaterales Handelssystem im Sinn des § 2 Absatz 8 Satz 1 Nummer 8
+des Wertpapierhandelsgesetzes gehandelt werden.
 
 (2) Die Erklärung ist auf der Internetseite der Gesellschaft dauerhaft
 öffentlich zugänglich zu machen.
-
-
-##### Erster Unterabschnitt - Prüfung durch Abschlußprüfer
-
 
 
 #### Zweiter Abschnitt - Prüfung des Jahresabschlusses
 
 
 
-##### (XXXX) §§ 162 bis 169
+##### Erster Unterabschnitt - Prüfung durch Abschlußprüfer
+
+
+
+###### (XXXX) §§ 162 bis 169
 
 
 
@@ -4888,7 +5043,10 @@ unverzüglich nach ihrer Aufstellung dem Aufsichtsrat vorzulegen. Satz
 1 gilt entsprechend für einen Einzelabschluss nach § 325 Abs. 2a des
 Handelsgesetzbuchs sowie bei Mutterunternehmen (§ 290 Abs. 1, 2 des
 Handelsgesetzbuchs) für den Konzernabschluss und den
-Konzernlagebericht.
+Konzernlagebericht. Nach Satz 1 vorzulegen sind auch der gesonderte
+nichtfinanzielle Bericht (§ 289b des Handelsgesetzbuchs) und der
+gesonderte nichtfinanzielle Konzernbericht (§ 315b des
+Handelsgesetzbuchs), sofern sie erstellt wurden.
 
 (2) Zugleich hat der Vorstand dem Aufsichtsrat den Vorschlag
 vorzulegen, den er der Hauptversammlung für die Verwendung des
@@ -4946,7 +5104,10 @@ Schwächen des internen Kontroll- und des Risikomanagementsystems
 bezogen auf den Rechnungslegungsprozess, zu berichten. Er informiert
 über Umstände, die seine Befangenheit besorgen lassen und über
 Leistungen, die er zusätzlich zu den Abschlussprüfungsleistungen
-erbracht hat.
+erbracht hat. Der Aufsichtsrat hat auch den gesonderten
+nichtfinanziellen Bericht (§ 289b des Handelsgesetzbuchs) und den
+gesonderten nichtfinanziellen Konzernbericht (§ 315b des
+Handelsgesetzbuchs) zu prüfen, sofern sie erstellt wurden.
 
 (2) Der Aufsichtsrat hat über das Ergebnis der Prüfung schriftlich an
 die Hauptversammlung zu berichten. In dem Bericht hat der Aufsichtsrat
@@ -5076,21 +5237,19 @@ gebilligten Konzernabschlusses und des Konzernlageberichts,
 einzuberufen. Die Hauptversammlung hat in den ersten acht Monaten des
 Geschäftsjahrs stattzufinden.
 
-(2) Der Jahresabschluß, ein vom Aufsichtsrat gebilligter
-Einzelabschluss nach § 325 Abs. 2a des Handelsgesetzbuchs, der
-Lagebericht, der Bericht des Aufsichtsrats, der Vorschlag des
-Vorstands für die Verwendung des Bilanzgewinns
-und bei börsennotierten Aktiengesellschaften ein erläuternder Bericht
-zu den Angaben nach § 289 Abs. 4 Nr. 1 bis 5 und Abs. 5 sowie § 315
-Abs. 4 des Handelsgesetzbuchs              sind von der Einberufung an
-in dem Geschäftsraum der Gesellschaft zur Einsicht der Aktionäre
-auszulegen. Auf Verlangen ist jedem Aktionär unverzüglich eine
-Abschrift der Vorlagen zu erteilen. Bei einem Mutterunternehmen (§ 290
-Abs. 1, 2 des Handelsgesetzbuchs) gelten die Sätze 1 und 2 auch für
-den Konzernabschluss, den Konzernlagebericht und den Bericht des
-Aufsichtsrats hierüber. Die Verpflichtungen nach den Sätzen 1 bis 3
-entfallen, wenn die dort bezeichneten Dokumente für denselben Zeitraum
-über die Internetseite der Gesellschaft zugänglich sind.
+(2) Der Jahresabschluss, ein vom Aufsichtsrat gebilligter
+Einzelabschluss nach § 325 Absatz 2a des Handelsgesetzbuchs, der
+Lagebericht, der Bericht des Aufsichtsrats und der Vorschlag des
+Vorstands für die Verwendung des Bilanzgewinns sind von der
+Einberufung an in dem Geschäftsraum der Gesellschaft zur Einsicht
+durch die Aktionäre auszulegen. Auf Verlangen ist jedem Aktionär
+unverzüglich eine Abschrift der Vorlagen zu erteilen. Bei einem
+Mutterunternehmen (§ 290 Abs. 1, 2 des Handelsgesetzbuchs) gelten die
+Sätze 1 und 2 auch für den Konzernabschluss, den Konzernlagebericht
+und den Bericht des Aufsichtsrats hierüber. Die Verpflichtungen nach
+den Sätzen 1 bis 3 entfallen, wenn die dort bezeichneten Dokumente für
+denselben Zeitraum über die Internetseite der Gesellschaft zugänglich
+sind.
 
 (3) Hat die Hauptversammlung den Jahresabschluss festzustellen oder
 hat sie über die Billigung des Konzernabschlusses zu entscheiden, so
@@ -5116,13 +5275,13 @@ Konzernabschlusses entsprechend.
 
 (1) Der Vorstand hat der Hauptversammlung die in § 175 Abs. 2
 genannten Vorlagen sowie bei börsennotierten Gesellschaften einen
-erläuternden Bericht zu den Angaben nach § 289 Abs. 4, § 315 Abs. 4
-des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der Verhandlung
-soll der Vorstand seine Vorlagen, der Vorsitzende des Aufsichtsrats
-den Bericht des Aufsichtsrats erläutern. Der Vorstand soll dabei auch
-zu einem Jahresfehlbetrag oder einem Verlust Stellung nehmen, der das
-Jahresergebnis wesentlich beeinträchtigt hat. Satz 3 ist auf
-Kreditinstitute nicht anzuwenden.
+erläuternden Bericht zu den Angaben nach § 289a Absatz 1 und § 315a
+Absatz 1 des Handelsgesetzbuchs zugänglich zu machen. Zu Beginn der
+Verhandlung soll der Vorstand seine Vorlagen, der Vorsitzende des
+Aufsichtsrats den Bericht des Aufsichtsrats erläutern. Der Vorstand
+soll dabei auch zu einem Jahresfehlbetrag oder einem Verlust Stellung
+nehmen, der das Jahresergebnis wesentlich beeinträchtigt hat. Satz 3
+ist auf Kreditinstitute nicht anzuwenden.
 
 (2) Ist der Jahresabschluß von einem Abschlußprüfer zu prüfen, so hat
 der Abschlußprüfer an den Verhandlungen über die Feststellung des
@@ -5495,13 +5654,13 @@ verantwortlich.
 (1) Die Hauptversammlung kann eine Erhöhung des Grundkapitals
 beschließen, die nur so weit durchgeführt werden soll, wie von einem
 Umtausch- oder Bezugsrecht Gebrauch gemacht wird, das die Gesellschaft
-auf die neuen Aktien (Bezugsaktien) einräumt (bedingte
+hat oder auf die neuen Aktien (Bezugsaktien) einräumt (bedingte
 Kapitalerhöhung).
 
 (2) Die bedingte Kapitalerhöhung soll nur zu folgenden Zwecken
 beschlossen werden:
 
-1.  zur Gewährung von Umtausch- oder Bezugsrechten an Gläubiger von
+1.  zur Gewährung von Umtausch- oder Bezugsrechten auf Grund von
     Wandelschuldverschreibungen;
 
 
@@ -5519,7 +5678,19 @@ beschlossen werden:
 Nennbetrag des nach Absatz 2 Nr. 3 beschlossenen Kapitals den zehnten
 Teil des Grundkapitals, das zur Zeit der Beschlußfassung über die
 bedingte Kapitalerhöhung vorhanden ist, nicht übersteigen. § 182 Abs.
-1 Satz 5 gilt sinngemäß.
+1 Satz 5 gilt sinngemäß. Satz 1 gilt nicht für eine bedingte
+Kapitalerhöhung nach Absatz 2 Nummer 1, die nur zu dem Zweck
+beschlossen wird, der Gesellschaft einen Umtausch zu ermöglichen, zu
+dem sie für den Fall ihrer drohenden Zahlungsunfähigkeit oder zum
+Zweck der Abwendung einer Überschuldung berechtigt ist. Ist die
+Gesellschaft ein Institut im Sinne des § 1 Absatz 1b des
+Kreditwesengesetzes, gilt Satz 1 ferner nicht für eine bedingte
+Kapitalerhöhung nach Absatz 2 Nummer 1, die zu dem Zweck beschlossen
+wird, der Gesellschaft einen Umtausch zur Erfüllung
+bankaufsichtsrechtlicher oder zum Zweck der Restrukturierung oder
+Abwicklung erlassener Anforderungen zu ermöglichen. Eine Anrechnung
+von bedingtem Kapital, auf das Satz 3 oder Satz 4 Anwendung findet,
+auf sonstiges bedingtes Kapital erfolgt nicht.
 
 (4) Ein Beschluß der Hauptversammlung, der dem Beschluß über die
 bedingte Kapitalerhöhung entgegensteht, ist nichtig.
@@ -5567,10 +5738,10 @@ Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2 und
 Person, von der die Gesellschaft den Gegenstand erwirbt, und der
 Nennbetrag, bei Stückaktien die Zahl der bei der Sacheinlage zu
 gewährenden Aktien im Beschluß über die bedingte Kapitalerhöhung
-festgesetzt werden. Als Sacheinlage gilt nicht die Hingabe von
-Schuldverschreibungen im Umtausch gegen Bezugsaktien. Der Beschluß
-darf nur gefaßt werden, wenn die Einbringung von Sacheinlagen
-ausdrücklich und ordnungsgemäß bekanntgemacht worden ist.
+festgesetzt werden. Als Sacheinlage gilt nicht der Umtausch von
+Schuldverschreibungen gegen Bezugsaktien. Der Beschluß darf nur gefaßt
+werden, wenn die Einbringung von Sacheinlagen ausdrücklich und
+ordnungsgemäß bekanntgemacht worden ist.
 
 (2) § 27 Abs. 3 und 4 gilt entsprechend; an die Stelle des Zeitpunkts
 der Anmeldung nach § 27 Abs. 3 Satz 3 und der Eintragung nach § 27
@@ -5592,7 +5763,7 @@ einen oder mehrere Prüfer stattzufinden. § 33 Abs. 3 bis 5, die §§ 34,
 
 (1) Der Vorstand und der Vorsitzende des Aufsichtsrats haben den
 Beschluß über die bedingte Kapitalerhöhung zur Eintragung in das
-Handelsregister anzumelden. § 184 Abs. 1 Satz 2 gilt entsprechend.
+Handelsregister anzumelden. § 184 Abs. 1 Satz 3 gilt entsprechend.
 
 (2) Der Anmeldung sind beizufügen
 
@@ -5684,10 +5855,9 @@ Mit der Ausgabe der Bezugsaktien ist das Grundkapital erhöht.
 
 ###### § 201 Anmeldung der Ausgabe von Bezugsaktien
 
-(1) Der Vorstand hat innerhalb eines Monats nach Ablauf des
-Geschäftsjahrs zur Eintragung in das Handelsregister anzumelden, in
-welchem Umfang im abgelaufenen Geschäftsjahr Bezugsaktien ausgegeben
-worden sind.
+(1) Der Vorstand meldet ausgegebene Bezugsaktien zur Eintragung in das
+Handelsregister mindestens einmal jährlich bis spätestens zum Ende des
+auf den Ablauf des Geschäftsjahrs folgenden Kalendermonats an.
 
 (2) Der Anmeldung sind die Zweitschriften der Bezugserklärungen und
 ein vom Vorstand unterschriebenes Verzeichnis der Personen, die das
@@ -5885,13 +6055,13 @@ ist und wenn ihr Stichtag höchstens acht Monate vor der Anmeldung des
 Beschlusses zur Eintragung in das Handelsregister liegt.
 
 (2) Wird dem Beschluß nicht die letzte Jahresbilanz zugrunde gelegt,
-so muß die Bilanz den §§ 150, 152 dieses Gesetzes, §§ 242 bis 256, 264
-bis 274 des Handelsgesetzbuchs entsprechen. Der Stichtag der Bilanz
-darf höchstens acht Monate vor der Anmeldung des Beschlusses zur
-Eintragung in das Handelsregister liegen.
+so muß die Bilanz den §§ 150, 152 dieses Gesetzes, §§ 242 bis 256a,
+264 bis 274a des Handelsgesetzbuchs entsprechen. Der Stichtag der
+Bilanz darf höchstens acht Monate vor der Anmeldung des Beschlusses
+zur Eintragung in das Handelsregister liegen.
 
 (3) Die Bilanz muß durch einen Abschlußprüfer darauf geprüft werden,
-ob sie den §§ 150, 152 dieses Gesetzes, §§ 242 bis 256, 264 bis 274
+ob sie den §§ 150, 152 dieses Gesetzes, §§ 242 bis 256a, 264 bis 274a
 des Handelsgesetzbuchs entspricht. Sie muß mit einem uneingeschränkten
 Bestätigungsvermerk versehen sein.
 
@@ -5943,7 +6113,7 @@ eine Kapitalerhöhung aus Gesellschaftsmitteln handelt.
 (1) Mit der Eintragung des Beschlusses über die Erhöhung des
 Grundkapitals ist das Grundkapital erhöht.
 
-(2)
+(2) (weggefallen)
 
 
 ###### § 212 Aus der Kapitalerhöhung Berechtigte
@@ -6106,16 +6276,16 @@ Aktien ist nicht als Zugang auszuweisen.
 
 ###### § 221
 
-(1) Schuldverschreibungen, bei denen den Gläubigern ein Umtausch- oder
-Bezugsrecht auf Aktien eingeräumt wird (Wandelschuldverschreibungen),
-und Schuldverschreibungen, bei denen die Rechte der Gläubiger mit
-Gewinnanteilen von Aktionären in Verbindung gebracht werden
-(Gewinnschuldverschreibungen), dürfen nur auf Grund eines Beschlusses
-der Hauptversammlung ausgegeben werden. Der Beschluß bedarf einer
-Mehrheit, die mindestens drei Viertel des bei der Beschlußfassung
-vertretenen Grundkapitals umfaßt. Die Satzung kann eine andere
-Kapitalmehrheit und weitere Erfordernisse bestimmen. § 182 Abs. 2
-gilt.
+(1) Schuldverschreibungen, bei denen den Gläubigern oder der
+Gesellschaft ein Umtausch- oder Bezugsrecht auf Aktien eingeräumt wird
+(Wandelschuldverschreibungen), und Schuldverschreibungen, bei denen
+die Rechte der Gläubiger mit Gewinnanteilen von Aktionären in
+Verbindung gebracht werden (Gewinnschuldverschreibungen), dürfen nur
+auf Grund eines Beschlusses der Hauptversammlung ausgegeben werden.
+Der Beschluß bedarf einer Mehrheit, die mindestens drei Viertel des
+bei der Beschlußfassung vertretenen Grundkapitals umfaßt. Die Satzung
+kann eine andere Kapitalmehrheit und weitere Erfordernisse bestimmen.
+§ 182 Abs. 2 gilt.
 
 (2) Eine Ermächtigung des Vorstands zur Ausgabe von
 Wandelschuldverschreibungen kann höchstens für fünf Jahre erteilt
@@ -6434,8 +6604,9 @@ geleistet ist,
 1.  der Gesellschaft unentgeltlich zur Verfügung gestellt oder
 
 
-2.  zu Lasten des Bilanzgewinns oder einer anderen Gewinnrücklage, soweit
-    sie zu diesem Zweck verwandt werden können, eingezogen werden oder
+2.  zu Lasten des Bilanzgewinns oder einer frei verfügbaren Rücklage,
+    soweit sie zu diesem Zweck verwandt werden können, eingezogen werden
+    oder
 
 
 3.  Stückaktien sind und der Beschluss der Hauptversammlung bestimmt, dass
@@ -6517,7 +6688,9 @@ gewonnenen Beträge
 
 
 
-verwandt werden.
+verwandt werden. Ist die Gesellschaft eine kleine Kapitalgesellschaft
+(§ 267 Absatz 1 des Handelsgesetzbuchs), braucht sie Satz 3 nicht
+anzuwenden.
 
 
 ### Siebenter Teil - Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung
@@ -6642,7 +6815,7 @@ nicht gestützt werden, wenn das Gesetz für Bewertungsrügen ein
 Spruchverfahren vorsieht.
 
 
-###### § 244 Bestätigung anfechtbarer Hauptversammlungsbeschlüsse*.
+###### § 244 Bestätigung anfechtbarer Hauptversammlungsbeschlüsse\*.
 
 Die Anfechtung kann nicht mehr geltend gemacht werden, wenn die
 Hauptversammlung den anfechtbaren Beschluß durch einen neuen Beschluß
@@ -6707,11 +6880,10 @@ Zustellung einsehen und sich von der Geschäftsstelle Auszüge und
 Abschriften erteilen lassen. Mehrere Anfechtungsprozesse sind zur
 gleichzeitigen Verhandlung und Entscheidung zu verbinden.
 
-(4) Der Vorstand hat die Erhebung der Klage und den Termin zur
-mündlichen Verhandlung unverzüglich in den Gesellschaftsblättern
-bekanntzumachen. Ein Aktionär kann sich als Nebenintervenient nur
-innerhalb eines Monats nach der Bekanntmachung an der Klage
-beteiligen.
+(4) Der Vorstand hat die Erhebung der Klage unverzüglich in den
+Gesellschaftsblättern bekanntzumachen. Ein Aktionär kann sich als
+Nebenintervenient nur innerhalb eines Monats nach der Bekanntmachung
+an der Klage beteiligen.
 
 
 ###### § 246a Freigabeverfahren
@@ -6853,7 +7025,7 @@ können verbunden werden.
 (1) Die Wahl eines Aufsichtsratsmitglieds durch die Hauptversammlung
 ist außer im Falle des § 241 Nr. 1, 2 und 5 nur dann nichtig, wenn
 
-1.  der Aufsichtsrat unter Verstoß gegen § 96 Abs. 2, § 97 Abs. 2 Satz 1
+1.  der Aufsichtsrat unter Verstoß gegen § 96 Absatz 4, § 97 Abs. 2 Satz 1
     oder § 98 Abs. 4 zusammengesetzt wird;
 
 
@@ -6867,7 +7039,10 @@ ist außer im Falle des § 241 Nr. 1, 2 und 5 nur dann nichtig, wenn
 
 
 4.  die gewählte Person nach § 100 Abs. 1 und 2 bei Beginn ihrer Amtszeit
-    nicht Aufsichtsratsmitglied sein kann.
+    nicht Aufsichtsratsmitglied sein kann;
+
+
+5.  die Wahl gegen § 96 Absatz 2 verstößt.
 
 
 
@@ -7037,11 +7212,28 @@ sollen, sie den Aktionären zum Bezug anzubieten.
 
 
 3.  er im Falle einer gesetzlichen Prüfungspflicht von Personen geprüft
-    worden ist, die nach § 319 Abs. 1 des Handelsgesetzbuchs oder nach
+    worden ist, die nach § 319 Absatz 1 des Handelsgesetzbuchs oder nach
     Artikel 25 des Einführungsgesetzes zum Handelsgesetzbuch nicht
-    Abschlussprüfer sind oder aus anderen Gründen als einem Verstoß gegen
-    § 319 Abs. 2, 3 oder Abs. 4, § 319a Abs. 1 oder § 319b Abs. 1 des
-    Handelsgesetzbuchs nicht zum Abschlussprüfer bestellt sind,
+    Abschlussprüfer sind oder aus anderen Gründen als den folgenden nicht
+    zum Abschlussprüfer bestellt sind:
+
+    a)  Verstoß gegen § 319 Absatz 2, 3 oder 4 des Handelsgesetzbuchs,
+
+
+    b)  Verstoß gegen § 319a Absatz 1 oder 3 des Handelsgesetzbuchs,
+
+
+    c)  Verstoß gegen § 319b Absatz 1 des Handelsgesetzbuchs,
+
+
+    d)  Verstoß gegen die Verordnung (EU) Nr. 537/2014 des Europäischen
+        Parlaments und des Rates vom 16. April 2014 über spezifische
+        Anforderungen an die Abschlussprüfung bei Unternehmen von öffentlichem
+        Interesse und zur Aufhebung des Beschlusses 2005/909/EG der Kommission
+        (ABl. L 158 vom 27.5.2014, S. 77, L 170 vom 11.6.2014, S. 66),
+
+
+
 
 
 4.  bei seiner Feststellung die Bestimmungen des Gesetzes oder der Satzung
@@ -7093,15 +7285,15 @@ Jahresabschluß nur nichtig, wenn
 
 Überbewertet sind Aktivposten, wenn sie mit einem höheren Wert,
 Passivposten, wenn sie mit einem niedrigeren Betrag angesetzt sind,
-als nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist.
+als nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist.
 Unterbewertet sind Aktivposten, wenn sie mit einem niedrigeren Wert,
 Passivposten, wenn sie mit einem höheren Betrag angesetzt sind, als
-nach §§ 253 bis 256 des Handelsgesetzbuchs zulässig ist. Bei
+nach §§ 253 bis 256a des Handelsgesetzbuchs zulässig ist. Bei
 Kreditinstituten oder Finanzdienstleistungsinstituten sowie bei
-Kapitalanlagegesellschaften im Sinn des § 2 Abs. 6 des
-Investmentgesetzes liegt ein Verstoß gegen die Bewertungsvorschriften
-nicht vor, soweit die Abweichung nach den für sie geltenden
-Vorschriften, insbesondere den §§ 340e bis 340g des
+Kapitalverwaltungsgesellschaften im Sinn des § 17 des
+Kapitalanlagegesetzbuchs liegt ein Verstoß gegen die
+Bewertungsvorschriften nicht vor, soweit die Abweichung nach den für
+sie geltenden Vorschriften, insbesondere den §§ 340e bis 340g des
 Handelsgesetzbuchs, zulässig ist; dies gilt entsprechend für
 Versicherungsunternehmen nach Maßgabe der für sie geltenden
 Vorschriften, insbesondere der §§ 341b bis 341h des
@@ -7119,9 +7311,9 @@ sich auf andere Weise endgültig erledigt hat.
 
 (7) Für die Klage auf Feststellung der Nichtigkeit gegen die
 Gesellschaft gilt § 249 sinngemäß. Hat die Gesellschaft Wertpapiere im
-Sinne des § 2 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes ausgegeben,
-die an einer inländischen Börse zum Handel im regulierten Markt
-zugelassen sind, so hat das Gericht der Bundesanstalt für
+Sinne des § 2 Absatz 1 des Wertpapierhandelsgesetzes ausgegeben, die
+an einer inländischen Börse zum Handel im regulierten Markt zugelassen
+sind, so hat das Gericht der Bundesanstalt für
 Finanzdienstleistungsaufsicht den Eingang einer Klage auf Feststellung
 der Nichtigkeit sowie jede rechtskräftige Entscheidung über diese
 Klage mitzuteilen.
@@ -7169,10 +7361,10 @@ hat und die Aufnahme der Frage in die Niederschrift verlangt worden
 ist.
 
 (1a) Bei Kreditinstituten oder Finanzdienstleistungsinstituten sowie
-bei Kapitalanlagegesellschaften im Sinn des § 2 Abs. 6 des
-Investmentgesetzes kann ein Sonderprüfer nach Absatz 1 nicht bestellt
-werden, soweit die Unterbewertung oder die fehlenden Angaben im Anhang
-auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
+bei Kapitalverwaltungsgesellschaften im Sinn des § 17 des
+Kapitalanlagegesetzbuchs kann ein Sonderprüfer nach Absatz 1 nicht
+bestellt werden, soweit die Unterbewertung oder die fehlenden Angaben
+im Anhang auf der Anwendung des § 340f des Handelsgesetzbuchs beruhen.
 
 (2) Der Antrag muß innerhalb eines Monats nach der Hauptversammlung
 über den Jahresabschluß gestellt werden. Dies gilt auch, wenn der
@@ -7300,15 +7492,9 @@ Bekanntmachung der Entscheidung im Bundesanzeiger, jedoch für die
 Gesellschaft und, wenn Aktionäre den Antrag nach Absatz 1 gestellt
 haben, auch für diese nicht vor der Zustellung der Entscheidung.
 
-(4) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das
-Verfahren des ersten Rechtszugs wird das Doppelte der vollen Gebühr
-erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche
-Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat.
-Wird der Antrag oder das Rechtsmittel zurückgenommen, bevor es zu
-einer Entscheidung kommt, so ermäßigt sich die Gebühr auf die Hälfte.
-Der Geschäftswert ist von Amts wegen festzusetzen. Die Kosten sind,
-wenn dem Antrag stattgegeben wird, der Gesellschaft, sonst dem
-Antragsteller aufzuerlegen. § 247 gilt sinngemäß.
+(4) Die Kosten sind, wenn dem Antrag stattgegeben wird, der
+Gesellschaft, sonst dem Antragsteller aufzuerlegen. § 247 gilt
+sinngemäß.
 
 
 ##### § 261 Entscheidung über den Ertrag auf Grund höherer Bewertung
@@ -7321,7 +7507,7 @@ Posten in dem ersten Jahresabschluß, der nach Ablauf dieser Frist
 aufgestellt wird, mit den von den Sonderprüfern festgestellten Werten
 oder Beträgen anzusetzen. Dies gilt nicht, soweit auf Grund
 veränderter Verhältnisse, namentlich bei Gegenständen, die der
-Abnutzung unterliegen, auf Grund der Abnutzung, nach §§ 253 bis 256
+Abnutzung unterliegen, auf Grund der Abnutzung, nach §§ 253 bis 256a
 des Handelsgesetzbuchs oder nach den Grundsätzen ordnungsmäßiger
 Buchführung für Aktivposten ein niedrigerer Wert oder für Passivposten
 ein höherer Betrag anzusetzen ist. In diesem Fall sind im Anhang die
@@ -7336,7 +7522,11 @@ höheren Wert oder Passivposten mit einem niedrigeren Betrag angesetzt
 worden sind. Die Summe der Unterschiedsbeträge ist auf der Passivseite
 der Bilanz und in der Gewinn- und Verlustrechnung als "Ertrag auf
 Grund höherer Bewertung gemäß dem Ergebnis der Sonderprüfung"
-gesondert auszuweisen.
+gesondert auszuweisen. Ist die Gesellschaft eine kleine
+Kapitalgesellschaft (§ 267 Absatz 1 des Handelsgesetzbuchs), hat sie
+die Sätze 3 und 4 nur anzuwenden, wenn die Voraussetzungen des § 264
+Absatz 2 Satz 2 des Handelsgesetzbuchs unter Berücksichtigung der nach
+diesem Abschnitt durchgeführten Sonderprüfung vorliegen.
 
 (2) Hat das gemäß § 260 angerufene Gericht festgestellt, daß Posten
 unterbewertet sind, so gilt für den Ansatz der Posten in dem ersten
@@ -7360,8 +7550,8 @@ den Eingang eines Antrags auf Bestellung eines Sonderprüfers, jede
 rechtskräftige Entscheidung über die Bestellung von Sonderprüfern, den
 Prüfungsbericht sowie eine rechtskräftige gerichtliche Entscheidung
 über abschließende Feststellungen der Sonderprüfer nach § 260
-mitzuteilen, wenn die Gesellschaft Wertpapiere im Sinne des § 2 Abs. 1
-Satz 1 des Wertpapierhandelsgesetzes ausgegeben hat, die an einer
+mitzuteilen, wenn die Gesellschaft Wertpapiere im Sinne des § 2 Absatz
+1 des Wertpapierhandelsgesetzes ausgegeben hat, die an einer
 inländischen Börse zum Handel im regulierten Markt zugelassen sind.
 
 
@@ -7863,8 +8053,10 @@ den Vorstand der Aktiengesellschaft geltenden Vorschriften über
     Vorschlags für die Verwendung des Bilanzgewinns;
 
 
-10. die Vorlegung und Prüfung des Lageberichts sowie eines
-    Konzernabschlusses und eines Konzernlageberichts;
+10. die Vorlage und Prüfung des Lageberichts, eines gesonderten
+    nichtfinanziellen Berichts sowie eines Konzernabschlusses, eines
+    Konzernlageberichts und eines gesonderten nichtfinanziellen
+    Konzernberichts;
 
 
 11. die Vorlegung, Prüfung und Offenlegung eines Einzelabschlusses nach §
@@ -8195,7 +8387,7 @@ sinngemäß.
 
 (3) Der Vertrag bedarf der schriftlichen Form.
 
-(4)
+(4) (weggefallen)
 
 
 ##### § 293a Bericht über den Unternehmensvertrag
@@ -9218,7 +9410,7 @@ hierauf gestützte Anfechtungsklage innerhalb der Anfechtungsfrist
 nicht erhoben oder zurückgenommen oder rechtskräftig abgewiesen worden
 ist.
 
-(weggefallen)
+(3) (weggefallen)
 
 
 #### § 321 Gläubigerschutz
@@ -9556,7 +9748,9 @@ Gebietskörperschaft zu erstatten haben, keiner
 Verschwiegenheitspflicht. Für vertrauliche Angaben und Geheimnisse der
 Gesellschaft, namentlich Betriebs- oder Geschäftsgeheimnisse, gilt
 dies nicht, wenn ihre Kenntnis für die Zwecke der Berichte nicht von
-Bedeutung ist.
+Bedeutung ist. Die Berichtspflicht nach Satz 1 kann auf Gesetz, auf
+Satzung oder auf dem Aufsichtsrat in Textform mitgeteiltem
+Rechtsgeschäft beruhen.
 
 
 #### § 395 Verschwiegenheitspflicht
@@ -9621,11 +9815,12 @@ betreffen, in das Handelsregister ein.
 bestraft, wer
 
 1.  als Gründer oder als Mitglied des Vorstands oder des Aufsichtsrats zum
-    Zweck der Eintragung der Gesellschaft über die Übernahme der Aktien,
-    die Einzahlung auf Aktien, die Verwendung eingezahlter Beträge, den
-    Ausgabebetrag der Aktien, über Sondervorteile, Gründungsaufwand,
-    Sacheinlagen und Sachübernahmen oder in der nach § 37a Abs. 2
-    abzugebenden Versicherung,
+    Zweck der Eintragung der Gesellschaft oder eines Vertrags nach § 52
+    Absatz 1 Satz 1 über die Übernahme der Aktien, die Einzahlung auf
+    Aktien, die Verwendung eingezahlter Beträge, den Ausgabebetrag der
+    Aktien, über Sondervorteile, Gründungsaufwand, Sacheinlagen und
+    Sachübernahmen oder in der nach § 37a Absatz 2, auch in Verbindung mit
+    § 52 Absatz 6 Satz 3, abzugebenden Versicherung,
 
 
 2.  als Gründer oder als Mitglied des Vorstands oder des Aufsichtsrats im
@@ -9765,6 +9960,48 @@ Aufsichtsrat, hat ein Mitglied des Aufsichtsrats die Tat begangen, so
 sind der Vorstand oder die Abwickler antragsberechtigt.
 
 
+#### § 404a Verletzung der Pflichten bei Abschlussprüfungen
+
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer als Mitglied des Aufsichtsrats oder als Mitglied eines
+Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im
+Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme
+der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten
+Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels
+2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991
+über den Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist,
+
+1.  eine in § 405 Absatz 3b bezeichnete Handlung begeht und dafür einen
+    Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 405 Absatz 3b bezeichnete Handlung beharrlich wiederholt.
+
+
+
+
+(2) Ebenso wird bestraft, wer als Mitglied des Aufsichtsrats oder als
+Mitglied eines Prüfungsausschusses einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute,
+
+1.  eine in § 405 Absatz 3c oder 3d bezeichnete Handlung begeht und dafür
+    einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 405 Absatz 3c oder 3d bezeichnete Handlung beharrlich
+    wiederholt.
+
+
+
+
+
 #### § 405 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer als Mitglied des Vorstands oder des
@@ -9874,8 +10111,78 @@ Verbindung mit Satz 3, eine Mitteilung nicht oder nicht richtig macht.
 
 
 
-(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfundzwanzigtausend Euro geahndet werden.
+(3b) Ordnungswidrig handelt, wer als Mitglied des Aufsichtsrats oder
+als Mitglied eines Prüfungsausschusses einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die
+CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, oder die
+Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den
+Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist,
+
+1.  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
+    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
+    5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der
+    Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über spezifische Anforderungen an die
+    Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
+    Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
+    27\.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+
+2.  eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer
+    Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der
+    Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 des
+    Versicherungsaufsichtsgesetzes beruht und
+
+    a)  die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3
+        der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
+
+
+    b)  der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der
+        Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
+
+
+
+
+
+
+
+(3c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, der Hauptversammlung
+einen Vorschlag für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
+Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
+entspricht.
+
+(3d) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss bestellt hat, einer in Absatz 3c genannten
+Gesellschaft der Hauptversammlung einen Vorschlag für die Bestellung
+eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der
+den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder
+Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014
+nicht entspricht.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen der Absätze 3b bis 3d
+mit einer Geldbuße bis zu fünfzigtausend Euro, in den übrigen Fällen
+mit einer Geldbuße bis zu fünfundzwanzigtausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen der Absätze 3b
+bis 3d bei CRR-Kreditinstituten im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, und bei
+Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG die Bundesanstalt für
+Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
 
 
 #### § 406 (weggefallen)
@@ -9898,6 +10205,21 @@ Zwangsgeld darf den Betrag von fünftausend Euro nicht übersteigen.
 (2) Die Anmeldungen zum Handelsregister nach den §§ 36, 45, 52, 181
 Abs. 1, §§ 184, 188, 195, 210, 223, 237 Abs. 4, §§ 274, 294 Abs. 1, §
 319 Abs. 3 werden durch Festsetzung von Zwangsgeld nicht erzwungen.
+
+
+#### § 407a Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 405 Absatz 5 zuständige Verwaltungsbehörde übermittelt
+der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
+Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 405 Absatz 3b bis
+3d.
+
+(2) In Strafverfahren, die eine Straftat nach § 404a zum Gegenstand
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
+öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
+Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
+das eingelegte Rechtsmittel zu übermitteln.
 
 
 #### § 408 Strafbarkeit persönlich haftender Gesellschafter einer Kommanditgesellschaft auf Aktien

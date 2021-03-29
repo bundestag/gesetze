@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Nürnberg
 jurabk: FluLärmNürnbV
 layout: default
-origslug: flul_rmn_rnbv
+origslug: flulaermnuernbv
 slug: flulaermnuernbv
 
 ---

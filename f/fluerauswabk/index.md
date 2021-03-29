@@ -4,7 +4,7 @@ Title: Abkommen betreffend die Ausstellung eines Reiseausweises an Flüchtlinge,
   fallen
 jurabk: FlüRAuswAbk
 layout: default
-origslug: fl_rauswabk
+origslug: fluerauswabk
 slug: fluerauswabk
 
 ---

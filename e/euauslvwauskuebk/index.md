@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen über die Erlangung von Auskünften und Bewe
   Verwaltungssachen im Ausland
 jurabk: EuAuslVwAuskÜbk
 layout: default
-origslug: euauslvwausk_bk
+origslug: euauslvwauskuebk
 slug: euauslvwauskuebk
 
 ---

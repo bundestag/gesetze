@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1965, 1185
 
-Stand: Zuletzt geändert Art. 4 G v. 20.12.2012 I 2751
+Zuletzt geändert durch
+:   Art. 9 G v. 11.4.2017 I 802
+
 
 ## Übersicht
 
@@ -26,7 +28,7 @@ Stand: Zuletzt geändert Art. 4 G v. 20.12.2012 I 2751
 
     *   Übergangsvorschriften
 
-    *   §§ 1-26d
+    *   §§ 1-26i
 
 
 *    *   2.
@@ -36,7 +38,7 @@ Stand: Zuletzt geändert Art. 4 G v. 20.12.2012 I 2751
     *   Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer
         Rechtsform
 
-    *   §§ 27-28
+    *   §§ 27-28a
 
 
 *    *   3.
@@ -381,6 +383,12 @@ des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S.
 Aufsichtsrats und des Prüfungsausschusses vor dem 29. Mai 2009
 bestellt worden sind.
 
+(5) § 100 Absatz 5 und § 107 Absatz 4 des Aktiengesetzes jeweils in
+der Fassung des Abschlussprüfungsreformgesetzes vom 10. Mai 2016
+(BGBl. I S. 1142) müssen so lange nicht angewandt werden, wie alle
+Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17.
+Juni 2016 bestellt worden sind.
+
 
 ### § 13 Übergangsvorschrift zu § 175 und § 337 Abs. 2 und 3 des Aktiengesetzes
 
@@ -614,8 +622,26 @@ geltenden Fassung ist auch auf die vor dem 15. Dezember 2010
 entstandenen und noch nicht verjährten Ansprüche anzuwenden.
 
 
-### § 25 (weggefallen)
+### § 25 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
 
+(1) Die Festlegungen nach § 76 Absatz 4 Satz 1 und 3 sowie nach § 111
+Absatz 5 Satz 1 und 3 des Aktiengesetzes haben erstmals bis spätestens
+30\. September 2015 zu erfolgen. Die nach § 76 Absatz 4 Satz 3 und die
+nach § 111 Absatz 5 Satz 3 des Aktiengesetzes erstmals festzulegende
+Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+
+(2) Der Mindestanteil von jeweils 30 Prozent an Frauen und Männern im
+Aufsichtsrat nach § 96 Absatz 2 des Aktiengesetzes ist bei
+erforderlich werdenden Neuwahlen und Entsendungen ab dem 1. Januar
+2016 zur Besetzung einzelner oder mehrerer Aufsichtsratssitze zu
+beachten. Reicht die Anzahl der neu zu besetzenden Aufsichtsratssitze
+nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
+
+(3) Für die Fälle des § 96 Absatz 3 des Aktiengesetzes gilt Absatz 2
+entsprechend.
 
 
 ### § 26 Kommanditgesellschaften auf Aktien
@@ -700,13 +726,66 @@ des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis
 zum 27. Dezember 2012 geltenden Fassung anwendbar.
 
 
+### § 26g Übergangsregelungen zum Bilanzrichtlinie-Umsetzungsgesetz
+
+Die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der
+Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015
+(BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschlüsse
+anzuwenden, die sich auf ein nach dem 31. Dezember 2015 beginnendes
+Geschäftsjahr beziehen. Auf Jahres- und Konzernabschlüsse, die sich
+auf ein vor dem 1. Januar 2016 beginnendes Geschäftsjahr beziehen,
+bleiben die §§ 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes
+in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.
+
+
+### § 26h Übergangsvorschrift zur Aktienrechtsnovelle 2016
+
+(1) § 10 Absatz 1 des Aktiengesetzes in der seit dem 31. Dezember 2015
+geltenden Fassung ist nicht auf Gesellschaften anzuwenden, deren
+Satzung vor dem 31. Dezember 2015 durch notarielle Beurkundung
+festgestellt wurde und deren Aktien auf Inhaber lauten. Für diese
+Gesellschaften ist § 10 Absatz 1 des Aktiengesetzes in der am 30.
+Dezember 2015 geltenden Fassung weiter anzuwenden.
+
+(2) Sieht die Satzung einer Gesellschaft einen Umwandlungsanspruch
+gemäß § 24 des Aktiengesetzes in der bis zum 30. Dezember 2015
+geltenden Fassung vor, so bleibt diese Satzungsbestimmung wirksam.
+
+(3) Bezeichnet die Satzung gemäß § 25 Satz 2 des Aktiengesetzes in der
+bis zum 30. Dezember 2015 geltenden Fassung neben dem Bundesanzeiger
+andere Informationsmedien als Gesellschaftsblätter, so bleibt diese
+Satzungsbestimmung auch ab dem 31. Dezember 2015 wirksam. Für einen
+Fristbeginn oder das sonstige Eintreten von Rechtsfolgen ist ab dem 1.
+Februar 2016 ausschließlich die Bekanntmachung im Bundesanzeiger
+maßgeblich.
+
+(4) § 122 des Aktiengesetzes in der Fassung der Aktienrechtsnovelle
+2016 vom 22. Dezember 2015 (BGBl. I S. 2565) ist erstmals auf
+Einberufungs- und Ergänzungsverlangen anzuwenden, die der Gesellschaft
+am 1. Juni 2016 zugehen. Auf Ergänzungsverlangen, die der Gesellschaft
+vor dem 1. Juni 2016 zugehen, ist § 122 in der bis zum 30. Dezember
+2015 geltenden Fassung weiter anzuwenden.
+
+
+### § 26i Übergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz
+
+Die §§ 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der
+Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017
+(BGBl. I S. 802) sind erstmals auf Lage- und Konzernlageberichte
+anzuwenden, die sich auf ein nach dem 31. Dezember 2016 beginnendes
+Geschäftsjahr beziehen. Auf Lage- und Konzernlageberichte, die sich
+auf vor dem 1. Januar 2017 beginnende Geschäftsjahre beziehen, bleiben
+die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017
+geltenden Fassung anwendbar.
+
+
 ## Zweiter Abschnitt - Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform
 
 
 
 ### § 27 Entscheidung über die Zusammensetzung des Aufsichtsrats
 
-§ 96 Abs. 2, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für
+§ 96 Absatz 4, §§ 97 bis 99 des Aktiengesetzes gelten sinngemäß für
 Gesellschaften mit beschränkter Haftung und bergrechtliche
 Gewerkschaften.
 
@@ -738,7 +817,7 @@ Aufsichtsrat eines von der Treuhandanstalt verwalteten Unternehmens.
 
 ### § 33 Gesetz über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn- und Verlustrechnung
 
-(1)
+(1) (gegenstandslos)
 
 (2) Haben Kreditinstitute auf Grund einer Aufforderung nach § 11 Abs.
 1 des Gesetzes über die Kapitalerhöhung aus Gesellschaftsmitteln und
@@ -761,7 +840,7 @@ seit der letzten Bekanntmachung der Androhung beim Inkrafttreten des
 Aktiengesetzes bereits abgelaufen, so tritt an ihre Stelle eine Frist
 von drei Monaten seit dem Inkrafttreten des Aktiengesetzes.
 
-(3)
+(3) (Änderungsvorschrift)
 
 (4) Sind Aktien einer Gesellschaft an einer deutschen Börse zum
 amtlichen Handel zugelassen, so gilt die Zulassung auch für die neuen
@@ -788,8 +867,9 @@ im Land Berlin.
 
 Dieses Gesetz tritt am 1. Januar 1966 in Kraft.
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
+### Anhang EV (BGBl. II 1990, 889, 960)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

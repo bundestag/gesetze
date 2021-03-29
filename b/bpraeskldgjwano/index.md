@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Justizwachtmeister im Bundesdienst
 jurabk: BPräsKldgJWAnO
 layout: default
-origslug: bpr_skldgjwano
+origslug: bpraeskldgjwano
 slug: bpraeskldgjwano
 
 ---

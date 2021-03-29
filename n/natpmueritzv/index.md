@@ -2,7 +2,7 @@
 Title: Verordnung über die Festsetzung des Nationalparkes "Müritz-Nationalpark"
 jurabk: NatPMüritzV
 layout: default
-origslug: natpm_ritzv
+origslug: natpmueritzv
 slug: natpmueritzv
 
 ---
@@ -52,22 +52,22 @@ nur in einigen Randgebieten landwirtschaftlich genutzt.
 (2) Der Müritz-Nationalpark besteht aus den zwei Teilflächen Müritz
 und Serrahn.
 
-1.  Die **Grenze des Teils Müritz**                    verläuft wie folgt:
+1.  Die **Grenze des Teils Müritz** verläuft wie folgt:
 
-    a)  **Forstrevier Waren-Tannen:**                          SW- und NW-
-        Grenze der Abt. 25 Richtung N; SW-Grenze der Abt. 16 Richtung NW; NW-
-        Grenze der Abt. 16 Richtung N; W-Grenze der Abt. 17 Richtung N; NO-
-        Grenze der Abt. 17 Richtung SO; W-Grenze der Abt. 22 Richtung N;
-        O-Grenze der Abt. 22 Richtung S; W-Grenze der Abt. 30 Richtung S;
-        S-Grenze der Abt. 30 Richtung O bis zur Abt. 33; W-Grenze der Abt. 33
-        Richtung N bis zur Abt. 32; N-Grenze der Abt. 33 Richtung SO; O-Grenze
-        der Abt. 32 Richtung N; NO-Grenze der landwirtschaftlichen Nutzfläche
-        der LPG (P) Waren Teilschlagnummer 721 901 Richtung NW; O-Grenzen der
-        Grundstücke W und N des Feisneckufers Richtung N und O bis zur
-        W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Waren
-        Schlagnummer 123; S-Grenze der landwirtschaftlichen Nutzfläche der LPG
-        (P) Waren Teilschlagnummer 123 126, 123 125 und 124 131 Richtung SO
-        bis zum Teilschlag der LPG (P) Waren Nummer 124 132; SO-Grenze der
+    a)  **Forstrevier Waren-Tannen:** SW- und NW-Grenze der Abt. 25 Richtung
+        N; SW-Grenze der Abt. 16 Richtung NW; NW-Grenze der Abt. 16 Richtung
+        N; W-Grenze der Abt. 17 Richtung N; NO-Grenze der Abt. 17 Richtung SO;
+        W-Grenze der Abt. 22 Richtung N; O-Grenze der Abt. 22 Richtung S;
+        W-Grenze der Abt. 30 Richtung S; S-Grenze der Abt. 30 Richtung O bis
+        zur Abt. 33; W-Grenze der Abt. 33 Richtung N bis zur Abt. 32; N-Grenze
+        der Abt. 33 Richtung SO; O-Grenze der Abt. 32 Richtung N; NO-Grenze
+        der landwirtschaftlichen Nutzfläche der LPG (P) Waren Teilschlagnummer
+        721 901 Richtung NW; O-Grenzen der Grundstücke W und N des
+        Feisneckufers Richtung N und O bis zur W-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Waren Schlagnummer 123;
+        S-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Waren
+        Teilschlagnummer 123 126, 123 125 und 124 131 Richtung SO bis zum
+        Teilschlag der LPG (P) Waren Nummer 124 132; SO-Grenze der
         landwirtschaftlichen Nutzfläche der LPG (P) Waren Teilschlagnummer 124
         132 Richtung NO bis zur S-Grenze der Abt. 65; NO-Grenze der Abt. 54
         und 53 Richtung SO bis zur W-Grenze der landwirtschaftlichen
@@ -75,18 +75,18 @@ und Serrahn.
         Nutzfläche der LPG (P) Waren Teilschlagnummer 225 243 Richtung S;
 
 
-    b)  **Forstrevier Müritzhof:**                          N-Grenze der Abt.
-        531 Richtung O; O-Grenze der Abt. 531 Richtung S; N-Grenze der Abt.
-        526 Richtung O; O-Begrenzung der unbefestigten Straße Richtung Federow
-        bis zur befestigten Straße Federow - Schwarzenhof;
+    b)  **Forstrevier Müritzhof:** N-Grenze der Abt. 531 Richtung O; O-Grenze
+        der Abt. 531 Richtung S; N-Grenze der Abt. 526 Richtung O;
+        O-Begrenzung der unbefestigten Straße Richtung Federow bis zur
+        befestigten Straße Federow - Schwarzenhof;
 
 
-    c)  **Forstrevier Federow:**                          S-Begrenzung der
-        befestigten Straße Federow - Schwarzenhof Richtung O bis zur N-Grenze
-        der Abt. 507; N-Grenze der Abt. 507 Richtung O bis zur W-Grenze der
-        Abt. 508; W-Grenze der Abt. 508 Richtung N bis zur S-Grenze der Abt.
-        509; S-Grenze der Abt. 509 Richtung W der Wald-Wiesen-Grenze folgend;
-        W- und N-Grenze der Teilflächen
+    c)  **Forstrevier Federow:** S-Begrenzung der befestigten Straße Federow -
+        Schwarzenhof Richtung O bis zur N-Grenze der Abt. 507; N-Grenze der
+        Abt. 507 Richtung O bis zur W-Grenze der Abt. 508; W-Grenze der Abt.
+        508 Richtung N bis zur S-Grenze der Abt. 509; S-Grenze der Abt. 509
+        Richtung W der Wald-Wiesen-Grenze folgend; W- und N-Grenze der
+        Teilflächen
         509b(hoch)1 und 2; Westgrenze der Abt. 509c Richtung N und NO bis zur
         Abt. 491; W-Grenze der Abt. 491 und 478 Richtung N; N-Grenze der Abt.
         478 Richtung O; W-Grenze der Abt. 537 bis zur Bahnlinie Waren -
@@ -99,13 +99,13 @@ und Serrahn.
         663 nördlich der Straße;
 
 
-    d)  **Forstrevier Klockow:**                          W-Grenze der
-        landwirtschaftlichen Nutzfläche der LPG (P) Waren Teilschlagnummer 807
-        663 Richtung N; N-Grenze der landwirtschaftlichen Nutzfläche der LPG
-        (P) Waren Teilschlagnummer 222 229 Richtung W; O-Grenze der
-        landwirtschaftlichen Nutzfläche der LPG (P) Waren Teilschlagnummer 217
-        219 Richtung N bis zur Abt. 569 (Peeneholz); W- und N-Grenze der Abt.
-        569 Richtung O bis zur N-Spitze der Teilfläche
+    d)  **Forstrevier Klockow:** W-Grenze der landwirtschaftlichen Nutzfläche
+        der LPG (P) Waren Teilschlagnummer 807 663 Richtung N; N-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Waren Teilschlagnummer 222
+        229 Richtung W; O-Grenze der landwirtschaftlichen Nutzfläche der LPG
+        (P) Waren Teilschlagnummer 217 219 Richtung N bis zur Abt. 569
+        (Peeneholz); W- und N-Grenze der Abt. 569 Richtung O bis zur N-Spitze
+        der Teilfläche
         a(hoch)3; S-Begrenzung der unbefestigten Straße zur Verbindungsstraße
         Schwastorf - Charlottenhof Richtung O bis zur Verbindungsstraße
         Schwastorf - Charlottenhof; W-Begrenzung der unbefestigten Straße
@@ -125,16 +125,16 @@ und Serrahn.
         der Abt. 186 des Forstrevieres Ankershagen;
 
 
-    e)  **Forstrevier Ankershagen:**                          N-Grenze der
-        Abt. 186, 187, 178, 179, 180 und 170 Richtung O bis zur W-Grenze der
-        Abt. 182; W-Grenze der Abt. 182 und 183 Richtung N; N-Grenze der Abt.
-        183 bis zur S-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
-        Ankershagen Schlagnummer 412; O-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Ankershagen Schlagnummer 412 Richtung N bis
-        Bornhof; O-Grenze der Grundstücke in Bornhof Richtung N bis zur
-        landwirtschaftlichen Nutzfläche des VEG Saatzucht Bornhof; O- und
-        N-Grenze der landwirtschaftlichen Nutzfläche des VEG Saatzucht Bornhof
-        Schlagnummer 2 Richtung N und W bis zum Schlag 1; O- und S-Grenze der
+    e)  **Forstrevier Ankershagen:** N-Grenze der Abt. 186, 187, 178, 179, 180
+        und 170 Richtung O bis zur W-Grenze der Abt. 182; W-Grenze der Abt.
+        182 und 183 Richtung N; N-Grenze der Abt. 183 bis zur S-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Ankershagen Schlagnummer
+        412; O-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Ankershagen Schlagnummer 412 Richtung N bis Bornhof; O-Grenze der
+        Grundstücke in Bornhof Richtung N bis zur landwirtschaftlichen
+        Nutzfläche des VEG Saatzucht Bornhof; O- und N-Grenze der
+        landwirtschaftlichen Nutzfläche des VEG Saatzucht Bornhof Schlagnummer
+        2 Richtung N und W bis zum Schlag 1; O- und S-Grenze der
         landwirtschaftlichen Nutzfläche des VEG Saatzucht Bornhof Schlagnummer
         1 Richtung O; S-Grenze der unbezeichneten landwirtschaftlichen
         Nutzfläche des VEG Saatzucht Bornhof Richtung O und N bis zur W-Grenze
@@ -154,66 +154,64 @@ und Serrahn.
         N-Grenze der Abt. 3347 des Forstrevieres Adamsdorf;
 
 
-    f)  **Forstrevier Adamsdorf:**                          N-Grenze der Abt.
-        3347 und 3342 in Richtung O bis zur W-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Hohenzieritz Teilschlagnummer 1203; W-Grenze
+    f)  **Forstrevier Adamsdorf:** N-Grenze der Abt. 3347 und 3342 in Richtung
+        O bis zur W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Hohenzieritz Teilschlagnummer 1203; W-Grenze der landwirtschaftlichen
+        Nutzfläche der LPG (P) Hohenzieritz Teilschlagnummer 1203 Richtung S;
+        S-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz
+        Teilschlagnummer 1203 Richtung O bis zum Teilschlag Nr. 2802; W-Grenze
         der landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz
-        Teilschlagnummer 1203 Richtung S; S-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Hohenzieritz Teilschlagnummer 1203 Richtung O
-        bis zum Teilschlag Nr. 2802; W-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Hohenzieritz Teilschlagnummer 2802 Richtung S
-        bis zur Schlagfläche 11; O-Grenze der landwirtschaftlichen Nutzfläche
-        der LPG (P) Hohenzieritz Schlagfläche 11 Richtung S bis zur
-        unbefestigten Straße Liepen - Adamsdorf; W-Begrenzung der Straße
-        Liepen - Adamsdorf bis zur N-Spitze der Unterabt. 3323a; W-Begrenzung
-        derselben Straße entlang der SW-Grenze der Unterabt. 3323a bis zur
-        Straße Kratzeburg - Adamsdorf; O-Grenze der Abt. 3322 Richtung S bis
-        zur Bahnlinie Waren - Neustrelitz; S-Begrenzung der Bahnlinie Waren -
-        Neustrelitz in Richtung SO bis zur Fernverkehrsstraße F 193;
+        Teilschlagnummer 2802 Richtung S bis zur Schlagfläche 11; O-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz Schlagfläche
+        11 Richtung S bis zur unbefestigten Straße Liepen - Adamsdorf;
+        W-Begrenzung der Straße Liepen - Adamsdorf bis zur N-Spitze der
+        Unterabt. 3323a; W-Begrenzung derselben Straße entlang der SW-Grenze
+        der Unterabt. 3323a bis zur Straße Kratzeburg - Adamsdorf; O-Grenze
+        der Abt. 3322 Richtung S bis zur Bahnlinie Waren - Neustrelitz;
+        S-Begrenzung der Bahnlinie Waren - Neustrelitz in Richtung SO bis zur
+        Fernverkehrsstraße F 193;
 
 
-    g)  **Forstrevier Langhagen:**                          W-Begrenzung der
-        Fernverkehrsstraße F 193 Richtung S bis zur Grenze des Forstrevieres
-        Hohenzieritz; W-Grenze der Abt. 3411 des Forstrevieres Hohenzieritz
-        bis zur unbefestigten Straße (ehemaliger Bahndamm) Neustrelitz -
-        Kratzeburg; N-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
-        Stendlitz Schlagnummer 1 Richtung W bis zur NO-Grenze der Abt. 3211;
-        NO-Grenze der Abt. 3211, 3208 und 3205 Richtung S bis zum Wohnplatz
-        Kiebitzbruch; W- und S-Grenze des Grundstückes Kiebitzbruch in
-        Richtung S und O bis zur landwirtschaftlichen Nutzfläche der LPG (P)
-        Stendlitz Teilschlagnummer 3424; W-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Stendlitz Teilschlagnummer 3424 in Richtung S
-        bis zur unbefestigten Straße Torwitz - Prälank; N-Begrenzung der
-        unbefestigten Straße Torwitz - Prälank in Richtung W und S bis
-        Prälank; W-Grenze der Grundstücke in Prälank bis zur O-Grenze der Abt.
-        3203; O-Grenze der Abt. 3203 Richtung S; S-Grenze der Abt. 3203
-        Richtung W bis zur O-Grenze der Abt. 3124 des Forstrevieres
-        Blankenförde;
+    g)  **Forstrevier Langhagen:** W-Begrenzung der Fernverkehrsstraße F 193
+        Richtung S bis zur Grenze des Forstrevieres Hohenzieritz; W-Grenze der
+        Abt. 3411 des Forstrevieres Hohenzieritz bis zur unbefestigten Straße
+        (ehemaliger Bahndamm) Neustrelitz - Kratzeburg; N-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Stendlitz Schlagnummer 1
+        Richtung W bis zur NO-Grenze der Abt. 3211; NO-Grenze der Abt. 3211,
+        3208 und 3205 Richtung S bis zum Wohnplatz Kiebitzbruch; W- und
+        S-Grenze des Grundstückes Kiebitzbruch in Richtung S und O bis zur
+        landwirtschaftlichen Nutzfläche der LPG (P) Stendlitz Teilschlagnummer
+        3424; W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Stendlitz Teilschlagnummer 3424 in Richtung S bis zur unbefestigten
+        Straße Torwitz - Prälank; N-Begrenzung der unbefestigten Straße
+        Torwitz - Prälank in Richtung W und S bis Prälank; W-Grenze der
+        Grundstücke in Prälank bis zur O-Grenze der Abt. 3203; O-Grenze der
+        Abt. 3203 Richtung S; S-Grenze der Abt. 3203 Richtung W bis zur
+        O-Grenze der Abt. 3124 des Forstrevieres Blankenförde;
 
 
-    h)  **Forstrevier Blankenförde:**                          O-Grenze der
-        Abt. 3124 Richtung S; NO-Grenze der Abt. 3123 Richtung S; S-Grenze der
-        Abt. 3123 Richtung W bis zur landwirtschaftlichen Nutzfläche der LPG
-        (P) Roggentin Schlagnummer 270; N- und W-Grenze der
-        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer 270
-        bis zur Ortslage Userin; W-Grenze der Grundstücke der Ortslage Userin
-        in Richtung S bis zur landwirtschaftlichen Nutzfläche der LPG (P)
-        Roggentin Schlagnummer 293; W-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Roggentin Schlagnummer 293, 289, 286, 288 und
-        285 bis zur Useriner Mühle; N- und W-Grenze des Grundstücks der
-        Useriner Mühle und der landwirtschaftlichen Nutzfläche LPG Roggentin
-        Schlagnummer 284 Richtung W bis zur Havel; W-Begrenzung der Havel
-        Richtung S bis zur befestigten Straße Userin - Zwenzow; N-Begrenzung
-        der befestigten Straße Userin - Zwenzow Richtung W bis zur O-Grenze
-        der Abt. 1345 des Forstrevieres Zwenzow (ausschließlich Ortslage
-        Zwenzow);
+    h)  **Forstrevier Blankenförde:** O-Grenze der Abt. 3124 Richtung S; NO-
+        Grenze der Abt. 3123 Richtung S; S-Grenze der Abt. 3123 Richtung W bis
+        zur landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
+        270; N- und W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin Schlagnummer 270 bis zur Ortslage Userin; W-Grenze der
+        Grundstücke der Ortslage Userin in Richtung S bis zur
+        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
+        293; W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin Schlagnummer 293, 289, 286, 288 und 285 bis zur Useriner
+        Mühle; N- und W-Grenze des Grundstücks der Useriner Mühle und der
+        landwirtschaftlichen Nutzfläche LPG Roggentin Schlagnummer 284
+        Richtung W bis zur Havel; W-Begrenzung der Havel Richtung S bis zur
+        befestigten Straße Userin - Zwenzow; N-Begrenzung der befestigten
+        Straße Userin - Zwenzow Richtung W bis zur O-Grenze der Abt. 1345 des
+        Forstrevieres Zwenzow (ausschließlich Ortslage Zwenzow);
 
 
-    i)  **Forstrevier Zwenzow:**                          O-Grenze der Abt.
-        1345 Richtung S bis zur Abt. 1340; N-Grenze der Abt. 1340 Richtung O;
-        O-Grenze der Abt. 1340 Richtung S; O-Grenze der Abt. 1341, 1328 und
-        1327 bis zur unbefestigten Straße Zwenzow - Wesenberg; W-Begrenzung
-        der unbefestigten Straße Zwenzow - Wesenberg Richtung S bis zur
+    i)  **Forstrevier Zwenzow:** O-Grenze der Abt. 1345 Richtung S bis zur
+        Abt. 1340; N-Grenze der Abt. 1340 Richtung O; O-Grenze der Abt. 1340
+        Richtung S; O-Grenze der Abt. 1341, 1328 und 1327 bis zur
+        unbefestigten Straße Zwenzow - Wesenberg; W-Begrenzung der
+        unbefestigten Straße Zwenzow - Wesenberg Richtung S bis zur
         unbefestigten Straße Richtung S (entlang der Energiefreileitung);
         W-Begrenzung der unbefestigten Straße (entlang der Energiefreileitung)
         Richtung S bis zur unbefestigten Straße Wesenberg - Leussow-See;
@@ -223,90 +221,88 @@ und Serrahn.
         zur N-Grenze der Abt. 1216 des Forstrevieres Leussow;
 
 
-    k)  **Forstrevier Leussow:**                          O-Grenze der Abt.
-        1216 Richtung S bis zur landwirtschaftlichen Nutzfläche der LPG (P)
-        Roggentin Schlagnummer 3148; S- und W-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Roggentin Schlagnummer 3148 Richtung W und N
-        bis zur unbefestigten Straße Wesenberg - Roggentin; NO-Begrenzung der
-        unbefestigten Straße Wesenberg - Roggentin in Richtung NW bis zur
+    k)  **Forstrevier Leussow:** O-Grenze der Abt. 1216 Richtung S bis zur
         landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
-        3137; O-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
-        Roggentin Schlagfläche 3137 Richtung N bis zum Schlag Nr. 3138; S- und
-        O-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Roggentin
-        Schlagnummer 3138 Richtung O und N bis zur W-Grenze der Abt. 1334 des
-        Forstreviers Zwenzow;
-
-
-    l)  **Forstrevier Zwenzow:**                          N-Grenze der Abt.
-        1334 Richtung O; Grenzen der Abt. 1350 bis 1354 zur
-        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin hin bis zur
-        befestigten Straße Zwenzow - Kakeldütt; O-Begrenzung der befestigten
-        Straße Zwenzow - Kakeldütt Richtung N bis zur Ortslage Kakeldütt; S-
-        und O-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Roggentin
-        Schlagnummer 3122 Richtung O und N bis zum Schlag Nr. 3123;
-
-
-    m)  **Forstrevier Blankenförde:**                          O-, N- und
-        W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Roggentin
-        Schlagnummer 3123 Richtung N, W und S; W-Grenze der
-        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer 153
-        Richtung S bis zur unbefestigten Straße Blankenförde - Henningsfelde;
-        W-Begrenzung der unbefestigten Straße Richtung S bis zur Ortslage
-        Blankenförde; W-Begrenzung der Grundstücke der Ortslage Blankenförde
-        Richtung S bis zur Havel; S-Ufer der Havel Richtung W bis zur
-        Unterabt. e der Abt. 1367 des Forstrevieres Zwenzow;
-
-
-    n)  **Forstrevier Zwenzow:**                          O-Grenze der
-        Unterabt. e der Abt. 1367 Richtung S bis zur landwirtschaftlichen
-        Nutzfläche der LPG (P) Roggentin Schlagnummer 3142;
-
-
-    o)  **Forstrevier Leussow:**                          N-Grenze der
+        3148; S- und W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin Schlagnummer 3148 Richtung W und N bis zur unbefestigten
+        Straße Wesenberg - Roggentin; NO-Begrenzung der unbefestigten Straße
+        Wesenberg - Roggentin in Richtung NW bis zur landwirtschaftlichen
+        Nutzfläche der LPG (P) Roggentin Schlagnummer 3137; O-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagfläche
+        3137 Richtung N bis zum Schlag Nr. 3138; S- und O-Grenze der
         landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
-        3142, 3141, 3140, 130 und 3136 und 3134 Richtung W und N bis zum
-        Pumpwerk westlich des Jäthensees; O-Begrenzung der unbefestigten
-        Straße Pumpwerk - Babke Richtung N bis zur S-Grenze der Abt. 761 des
-        Forstrevieres Babke;
+        3138 Richtung O und N bis zur W-Grenze der Abt. 1334 des Forstreviers
+        Zwenzow;
 
 
-    p)  **Forstrevier Babke:**                          S-Grenze der Abt. 761,
-        762, 763, 764 bis zur landwirtschaftlichen Nutzfläche der LPG (P)
-        Roggentin Schlagnummer 3133; S-Grenze der landwirtschaftlichen
-        Nutzfläche der LPG (P) Roggentin Schlagnummer 3133 bis S-Grenze der
-        Unterabt. b der Abt. 764; SW-Grenze der Abt. 764 Richtung W bis zur
-        O-Grenze der Abt. 1162 des Forstrevieres Mirowdorf;
+    l)  **Forstrevier Zwenzow:** N-Grenze der Abt. 1334 Richtung O; Grenzen
+        der Abt. 1350 bis 1354 zur landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin hin bis zur befestigten Straße Zwenzow - Kakeldütt;
+        O-Begrenzung der befestigten Straße Zwenzow - Kakeldütt Richtung N bis
+        zur Ortslage Kakeldütt; S- und O-Grenze der landwirtschaftlichen
+        Nutzfläche der LPG (P) Roggentin Schlagnummer 3122 Richtung O und N
+        bis zum Schlag Nr. 3123;
 
 
-    q)  **Forstrevier Mirowdorf:**                          SO-Grenze der Abt.
-        1162; S-Grenze der Abt. 1162 bis zur Abt. 1163; S-Grenze der Unterabt.
-        1163a Richtung W; W-Grenze der Unterabt. 1163a und c Richtung N bis
-        zur Betriebsgrenze der Uckermärkischen Fischerei GmbH; O- und
-        N-Begrenzung des Produktionsgeländes der Uckermärkischen Fischerei
-        GmbH Richtung N bis zur Unterabt. 604b des Forstrevieres Boek;
+    m)  **Forstrevier Blankenförde:** O-, N- und W-Grenze der
+        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
+        3123 Richtung N, W und S; W-Grenze der landwirtschaftlichen Nutzfläche
+        der LPG (P) Roggentin Schlagnummer 153 Richtung S bis zur
+        unbefestigten Straße Blankenförde - Henningsfelde; W-Begrenzung der
+        unbefestigten Straße Richtung S bis zur Ortslage Blankenförde;
+        W-Begrenzung der Grundstücke der Ortslage Blankenförde Richtung S bis
+        zur Havel; S-Ufer der Havel Richtung W bis zur Unterabt. e der Abt.
+        1367 des Forstrevieres Zwenzow;
 
 
-    r)  **Forstrevier Boek:**                          W-Grenze der Unterabt.
-        604b Richtung N bis zur S-Grenze der Abt. 609; W-Grenze der Abt. 609,
-        611 und 618 nach N bis zur Abt. 628; S-Grenze der Abt. 628 Richtung W
-        bis zur Abt. 640; W-Grenze der Abt. 640 und 651 Richtung N bis zur
-        Abt. 661; S-Grenze der Abt. 661, 662 und 663 Richtung W bis zur
-        S-Grenze der wasserseitigen Begrenzung des NSG Ostufer der Müritz;
+    n)  **Forstrevier Zwenzow:** O-Grenze der Unterabt. e der Abt. 1367
+        Richtung S bis zur landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin Schlagnummer 3142;
 
 
-    s)  **Müritz:**                          wasserseitige Begrenzung der NSG
-        Ostufer der Müritz (verläuft 500 m von der Uferlinie der Müritz bei
-        Normalpegel von 62,0 m über NN entfernt parallel zum Ufer, beginnend
-        bei der S-Grenze der Abt. 663 des Forstreviers Boek bis zur S-Spitze
-        der Abt. 25 des Forstreviers Waren-Tannen).
+    o)  **Forstrevier Leussow:** N-Grenze der landwirtschaftlichen Nutzfläche
+        der LPG (P) Roggentin Schlagnummer 3142, 3141, 3140, 130 und 3136 und
+        3134 Richtung W und N bis zum Pumpwerk westlich des Jäthensees;
+        O-Begrenzung der unbefestigten Straße Pumpwerk - Babke Richtung N bis
+        zur S-Grenze der Abt. 761 des Forstrevieres Babke;
+
+
+    p)  **Forstrevier Babke:** S-Grenze der Abt. 761, 762, 763, 764 bis zur
+        landwirtschaftlichen Nutzfläche der LPG (P) Roggentin Schlagnummer
+        3133; S-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
+        Roggentin Schlagnummer 3133 bis S-Grenze der Unterabt. b der Abt. 764;
+        SW-Grenze der Abt. 764 Richtung W bis zur O-Grenze der Abt. 1162 des
+        Forstrevieres Mirowdorf;
+
+
+    q)  **Forstrevier Mirowdorf:** SO-Grenze der Abt. 1162; S-Grenze der Abt.
+        1162 bis zur Abt. 1163; S-Grenze der Unterabt. 1163a Richtung W;
+        W-Grenze der Unterabt. 1163a und c Richtung N bis zur Betriebsgrenze
+        der Uckermärkischen Fischerei GmbH; O- und N-Begrenzung des
+        Produktionsgeländes der Uckermärkischen Fischerei GmbH Richtung N bis
+        zur Unterabt. 604b des Forstrevieres Boek;
+
+
+    r)  **Forstrevier Boek:** W-Grenze der Unterabt. 604b Richtung N bis zur
+        S-Grenze der Abt. 609; W-Grenze der Abt. 609, 611 und 618 nach N bis
+        zur Abt. 628; S-Grenze der Abt. 628 Richtung W bis zur Abt. 640;
+        W-Grenze der Abt. 640 und 651 Richtung N bis zur Abt. 661; S-Grenze
+        der Abt. 661, 662 und 663 Richtung W bis zur S-Grenze der
+        wasserseitigen Begrenzung des NSG Ostufer der Müritz;
+
+
+    s)  **Müritz:** wasserseitige Begrenzung der NSG Ostufer der Müritz
+        (verläuft 500 m von der Uferlinie der Müritz bei Normalpegel von 62,0
+        m über NN entfernt parallel zum Ufer, beginnend bei der S-Grenze der
+        Abt. 663 des Forstreviers Boek bis zur S-Spitze der Abt. 25 des
+        Forstreviers Waren-Tannen).
 
 
 
 
 
-2.  Die **Grenze des Teils Serrahn**                    verläuft entlang
-    der äußeren Grenze der Fläche, die folgende Abteilungen der
-    Forstreviere einschließt:
+2.  Die **Grenze des Teils Serrahn** verläuft entlang der äußeren Grenze
+    der Fläche, die folgende Abteilungen der Forstreviere einschließt:
 
     a)  Forstrevier Zinow: Abt. 5343 bis 5354 und 5362 bis 5370;
 
@@ -337,22 +333,21 @@ Grenzen liegen, gehören nicht zum Nationalpark:
 
 1.  Raum Kratzeburg - Dalmsdorf mit folgender Umgrenzung:
 
-    a)  **Forstrevier Adamsdorf:**                          N-Begrenzung der
-        befestigten Straße Adamsdorf - Kratzeburg von der NO-Grenze der Abt.
-        3338 Richtung W bis zur Ortslage Kratzeburg; N-Begrenzung der Ortslage
-        Kratzeburg bis zur SO-Grenze der landwirtschaftlichen Nutzfläche der
-        LPG (P) Hohenzieritz Teilschlagnummer 3308; N-Grenze der
-        landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz
-        Teilschlagnummer 3308 Richtung W bis zum Schlag Nr. 31; N- und
-        W-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz
-        Schlagnummer 31 und Teilschlagnummer 3305 bis zum Schlag Nr. 32; S-
-        und O-Grenze der landwirtschaftlichen Nutzfläche der LPG (P)
-        Hohenzieritz Schlagnummer 32 bis zur Ortslage Dalmsdorf; O-Grenze der
-        Grundstücke von Dalmsdorf Richtung N bis zur Straße Dalmsdorf -
-        Kratzeburg; S-Begrenzung der befestigten Straße Dalmsdorf - Kratzeburg
-        bis zur Bahnlinie Waren - Neustrelitz; S-Begrenzung der Bahnlinie
-        Waren - Neustrelitz Richtung SO bis zur teilbefestigten Straße
-        Kratzeburg - Campingplatz am Käbelicksee; W-Grenze der
+    a)  **Forstrevier Adamsdorf:** N-Begrenzung der befestigten Straße
+        Adamsdorf - Kratzeburg von der NO-Grenze der Abt. 3338 Richtung W bis
+        zur Ortslage Kratzeburg; N-Begrenzung der Ortslage Kratzeburg bis zur
+        SO-Grenze der landwirtschaftlichen Nutzfläche der LPG (P) Hohenzieritz
+        Teilschlagnummer 3308; N-Grenze der landwirtschaftlichen Nutzfläche
+        der LPG (P) Hohenzieritz Teilschlagnummer 3308 Richtung W bis zum
+        Schlag Nr. 31; N- und W-Grenze der landwirtschaftlichen Nutzfläche der
+        LPG (P) Hohenzieritz Schlagnummer 31 und Teilschlagnummer 3305 bis zum
+        Schlag Nr. 32; S- und O-Grenze der landwirtschaftlichen Nutzfläche der
+        LPG (P) Hohenzieritz Schlagnummer 32 bis zur Ortslage Dalmsdorf;
+        O-Grenze der Grundstücke von Dalmsdorf Richtung N bis zur Straße
+        Dalmsdorf - Kratzeburg; S-Begrenzung der befestigten Straße Dalmsdorf
+        - Kratzeburg bis zur Bahnlinie Waren - Neustrelitz; S-Begrenzung der
+        Bahnlinie Waren - Neustrelitz Richtung SO bis zur teilbefestigten
+        Straße Kratzeburg - Campingplatz am Käbelicksee; W-Grenze der
         Erholungsobjekte und des Campingplatzes bis zur N-Grenze der Abt.
         3335; N-Grenze der Abt. 3335 Richtung O; N-Grenze der Abt. 3334
         Richtung O bis zur alten Bahnlinie; W-Grenze der Abt. 3337 und 3338
@@ -455,8 +450,7 @@ derzeitig noch von der Sowjetischen Armee als Truppenübungsplätze
 genutzt werden. Die Flächen der Schutzzone I werden wie folgt
 beschrieben:
 
-1.  **Fittensee**                    einschließlich der Unterabt. b, c und
-    Teilflächen
+1.  **Fittensee** einschließlich der Unterabt. b, c und Teilflächen
     d(hoch)4 bis
     d(hoch)6 der Abt. 540 des Forstreviers Klockow, begrenzt von
     landwirtschaftlicher Nutzfläche der LPG (P) Waren, Teilschlagnummer
@@ -464,17 +458,15 @@ beschrieben:
     422\.
 
 
-2.  **Moorsee**                    einschließlich der Bruchflächen der
-    Unterabt. 42b und 43d; begrenzt von landwirtschaftlicher Nutzfläche
-    der LPG (P) Waren, Teilschlagnummer 701 501 bis 701 503 und 702 511
-    bis 702 513.
+2.  **Moorsee** einschließlich der Bruchflächen der Unterabt. 42b und 43d;
+    begrenzt von landwirtschaftlicher Nutzfläche der LPG (P) Waren,
+    Teilschlagnummer 701 501 bis 701 503 und 702 511 bis 702 513.
 
 
-3.  **Rederangsee und Großes Bruch**                    begrenzt von
-    landwirtschaftlicher Nutzfläche der LPG (P) Waren, Teilschlagnummer
-    703 524, 704 532, 722 911, 722 912, 802 611 bis 802 614, 825 981 bis
-    825 983; einschließlich der Unterabt. d, e und f der Abt. 510 des
-    Forstreviers Müritzhof.
+3.  **Rederangsee und Großes Bruch** begrenzt von landwirtschaftlicher
+    Nutzfläche der LPG (P) Waren, Teilschlagnummer 703 524, 704 532, 722
+    911, 722 912, 802 611 bis 802 614, 825 981 bis 825 983; einschließlich
+    der Unterabt. d, e und f der Abt. 510 des Forstreviers Müritzhof.
 
 
 4.  **Röbelsche Wold, Specker Wold, Boeker Wold und Binnenmüritz**
@@ -485,27 +477,26 @@ beschrieben:
     der nicht eingerichteten Fläche Nr. 7 des Forstreviers Boek.
 
 
-5.  **Fauler See**                    einschließlich der Abt. 655 und 656
-    des Forstreviers Boek.
+5.  **Fauler See** einschließlich der Abt. 655 und 656 des Forstreviers
+    Boek.
 
 
-6.  **Priesterbäker See**                    im Norden begrenzt von
-    landwirtschaftlicher Nutzfläche der LPG (P) Waren Teilschlagnummer 805
-    643 und 805 644; einschließlich der Abt. 81 und den Unterabt.
+6.  **Priesterbäker See** im Norden begrenzt von landwirtschaftlicher
+    Nutzfläche der LPG (P) Waren Teilschlagnummer 805 643 und 805 644;
+    einschließlich der Abt. 81 und den Unterabt.
     b(hoch)1 bis
     b(hoch)3 der Abt. 87 des Forstreviers Speck und der Abt. 648 bis 650,
     657, 658, 664 und 667 des Forstreviers Boek.
 
 
-7.  **Wälder und Forsten östlich Speck:**                    Abt. 82 bis
-    86, 88 bis 92, 101, 105, 279, 317 und 324 des Forstreviers Speck, Abt.
-    93 bis 97, 99 und 102 des Forstreviers Klockow; nicht eingerichtete
-    Forstflächen begrenzt von den Abt. 3356 bis 3358 des Forstreviers
-    Adamsdorf sowie von der unbefestigten Straße Klockow - Granzin
-    beginnend an der Abt. 3356 des Forstreviers Adamsdorf bis zur
-    Ortschaft Granzin und von den umfriedeten Grundstücken der Ortslage
-    Granzin; Abt. 736 bis 741, 751, 752 und 765 und 766 des Forstreviers
-    Babke.
+7.  **Wälder und Forsten östlich Speck:** Abt. 82 bis 86, 88 bis 92, 101,
+    105, 279, 317 und 324 des Forstreviers Speck, Abt. 93 bis 97, 99 und
+    102 des Forstreviers Klockow; nicht eingerichtete Forstflächen
+    begrenzt von den Abt. 3356 bis 3358 des Forstreviers Adamsdorf sowie
+    von der unbefestigten Straße Klockow - Granzin beginnend an der Abt.
+    3356 des Forstreviers Adamsdorf bis zur Ortschaft Granzin und von den
+    umfriedeten Grundstücken der Ortslage Granzin; Abt. 736 bis 741, 751,
+    752 und 765 und 766 des Forstreviers Babke.
 
 
 8.  **Freiflächen südöstlich Granzin und Nordteil Langhäger See**
@@ -521,21 +512,21 @@ beschrieben:
 
 
 9.  **Wälder und Forsten nordwestlich Neustrelitz mit Babker See und
-    Bodenseen**                    einschließlich der Abt. 3324 bis 3326,
-    3329 bis 3333 und Unterabt. a der Abt. 3334 des Forstreviers
-    Adamsdorf; im Norden begrenzt von den Abt. 3301, 3315 und 3319 des
-    Forstreviers Adamsdorf; im Osten begrenzt von der F 193 und der Abt.
-    3411 des Forstreviers Hohenzieritz; im Süden begrenzt von
-    landwirtschaftlicher Nutzfläche der LPG (P) Stendlitz
-    Teilschlagnummern 111, 115, 117, 118, 120, 126 und dem Weg von der
-    Nordwestspitze des Teilschlages Nr. 120 dieser LPG bis zur
-    Südostspitze der Abt. 3248 des Forstreviers Langhagen; weiterhin
-    einschließlich der Abt. 3248 bis 3256 des Forstreviers Langhagen.
+    Bodenseen** einschließlich der Abt. 3324 bis 3326, 3329 bis 3333 und
+    Unterabt. a der Abt. 3334 des Forstreviers Adamsdorf; im Norden
+    begrenzt von den Abt. 3301, 3315 und 3319 des Forstreviers Adamsdorf;
+    im Osten begrenzt von der F 193 und der Abt. 3411 des Forstreviers
+    Hohenzieritz; im Süden begrenzt von landwirtschaftlicher Nutzfläche
+    der LPG (P) Stendlitz Teilschlagnummern 111, 115, 117, 118, 120, 126
+    und dem Weg von der Nordwestspitze des Teilschlages Nr. 120 dieser LPG
+    bis zur Südostspitze der Abt. 3248 des Forstreviers Langhagen;
+    weiterhin einschließlich der Abt. 3248 bis 3256 des Forstreviers
+    Langhagen.
 
 
-10. **Krummer See, Lieper See und Vaucksee**                    im Westen
-    begrenzt von dem Weg am Westufer des Krummen Sees und Wegen westlich
-    und nördlich des Moorsees (einschließlich Unterabt.
+10. **Krummer See, Lieper See und Vaucksee** im Westen begrenzt von dem
+    Weg am Westufer des Krummen Sees und Wegen westlich und nördlich des
+    Moorsees (einschließlich Unterabt.
     a(hoch)1 bis
     a(hoch)3 der Abt. 3346 des Forstreviers Adamsdorf); einschließlich
     Abt. 3341 des Forstreviers Adamsdorf; im Nordosten begrenzt von der
@@ -550,44 +541,43 @@ beschrieben:
     a(hoch)3 des Forstreviers Adamsdorf.
 
 
-11. **Trinnensee**                    einschließlich der Abt. 181 und 191
-    des Forstreviers Ankershagen.
+11. **Trinnensee** einschließlich der Abt. 181 und 191 des Forstreviers
+    Ankershagen.
 
 
-12. **Mewenbruch**                    einschließlich der Abt. 623 bis 625
-    des Forstreviers Boek.
+12. **Mewenbruch** einschließlich der Abt. 623 bis 625 des Forstreviers
+    Boek.
 
 
-13. **Caarpsee und umgebende Erlenbruchwälder**
-    einschließlich der Abt. 604 des Forstreviers Boek und der Unterabt.
-    1162f des Forstreviers Mirowdorf; westlich und nördlich begrenzt durch
-    die Produktionsanlagen der Uckermärkischen Fischerei GmbH.
+13. **Caarpsee und umgebende Erlenbruchwälder** einschließlich der Abt.
+    604 des Forstreviers Boek und der Unterabt. 1162f des Forstreviers
+    Mirowdorf; westlich und nördlich begrenzt durch die Produktionsanlagen
+    der Uckermärkischen Fischerei GmbH.
 
 
-14. **Säfkowsee**                    einschließlich der Unterabt. und
-    Teilflächen 3151b, 3152a,
+14. **Säfkowsee** einschließlich der Unterabt. und Teilflächen 3151b,
+    3152a,
     3153a(hoch)1,
     3134a(hoch)14 bis a(hoch)19, 3141a(hoch)4,
     a(hoch)6 bis a(hoch)8 und 3140b des Forstreviers Blankenförde.
 
 
-15. **Zotzensee**                    begrenzt von landwirtschaftlicher
-    Nutzfläche der LPG (P) Hohenzieritz Teilschlagnummern 17.01 bis 17.03
-    und landwirtschaftlicher Nutzfläche der LPG (P) Roggentin,
+15. **Zotzensee** begrenzt von landwirtschaftlicher Nutzfläche der LPG (P)
+    Hohenzieritz Teilschlagnummern 17.01 bis 17.03 und
+    landwirtschaftlicher Nutzfläche der LPG (P) Roggentin,
     Teilschlagnummer 3127 und 3128.
 
 
-16. **Jäthensee mit Schulzenwerder**                    begrenzt von den
-    landwirtschaftlichen Nutzflächen der LPG (P) Roggentin
-    Teilschlagnummern 130, 3131, 3124, 3134, 3136, 3140, 3141 und 3142;
-    einschließlich der Unterabt.
+16. **Jäthensee mit Schulzenwerder** begrenzt von den landwirtschaftlichen
+    Nutzflächen der LPG (P) Roggentin Teilschlagnummern 130, 3131, 3124,
+    3134, 3136, 3140, 3141 und 3142; einschließlich der Unterabt.
     3135a(hoch)4 und 3136a des Forstreviers Blankenförde; begrenzt von der
     unbefestigten Straße am Ostufer des Jäthensees bis zur Nordspitze des
     Teilschlages Nr. 3142 der LPG (P) Roggentin.
 
 
-17. **Kramssee bis Krummer See**                    einschließlich der
-    Abt. 3127 bis 3130, 3146, den Unterabt. 3147b, d und den Teilflächen
+17. **Kramssee bis Krummer See** einschließlich der Abt. 3127 bis 3130,
+    3146, den Unterabt. 3147b, d und den Teilflächen
     3125c(hoch)3 und c(hoch)4 des Forstreviers Blankenförde; im Nordteil
     einschließlich der Abt. und Unterabt. 3204, 3207b und c, 3210, 3213
     bis 3215 und 3216a und b des Forstreviers Langhagen und begrenzt von
@@ -605,15 +595,15 @@ beschrieben:
     a(hoch)2, a(hoch)4, a(hoch)6, a(hoch)7 des Forstreviers Zwenzow)
 
 
-18. **Bullowsee, Leussowsee bis Gründlingsmoor**
-    einschließlich der Abt. 1321 bis 1326, 1333 und 1337 des Forstreviers
-    Zwenzow und Unterabt. 1231b des Forstreviers Zwenzow; im Norden und
-    Westen begrenzt von landwirtschaftlicher Nutzfläche der LPG (P)
-    Roggentin Teilschlagnummern 3137, 3138, 3143 und 3148.
+18. **Bullowsee, Leussowsee bis Gründlingsmoor** einschließlich der Abt.
+    1321 bis 1326, 1333 und 1337 des Forstreviers Zwenzow und Unterabt.
+    1231b des Forstreviers Zwenzow; im Norden und Westen begrenzt von
+    landwirtschaftlicher Nutzfläche der LPG (P) Roggentin
+    Teilschlagnummern 3137, 3138, 3143 und 3148.
 
 
-19. **Degensmoor**                    begrenzt von den Abt. 1311, 1312,
-    1317, 1319 des Forstreviers Zwenzow.
+19. **Degensmoor** begrenzt von den Abt. 1311, 1312, 1317, 1319 des
+    Forstreviers Zwenzow.
 
 
 20. **Buchenwaldtotalreservate, Schweingartensee und Großer Serrahnsee**
@@ -627,8 +617,8 @@ beschrieben:
     Forstreviers Serrahn.
 
 
-21. **Zwirnsee**                    begrenzt von den Abt. 5518 und 5520
-    bis 5523 des Forstreviers Herzwolde.
+21. **Zwirnsee** begrenzt von den Abt. 5518 und 5520 bis 5523 des
+    Forstreviers Herzwolde.
 
 
 
@@ -969,8 +959,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1468)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

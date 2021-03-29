@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1035
 
+Geändert durch
+:   Art. 12 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -152,7 +155,7 @@ gleichgewichtig daraus abgeleiteten Aufgabenstellungen durchgeführt,
 wobei insgesamt alle sieben Handlungsbereiche thematisiert werden. Die
 gesamte Bearbeitungsdauer soll 600 Minuten nicht unterschreiten und
 630 Minuten nicht überschreiten. Die Punktebewertung für das Ergebnis
-der schriftlichen              Prüfungsleistung ist aus den beiden
+der schriftlichen Prüfungsleistung ist aus den beiden
 gleichgewichtigen schriftlichen Teilergebnissen zu bilden.
 
 (4) Nach bestandener schriftlicher Prüfung wird die mündliche Prüfung
@@ -465,10 +468,12 @@ Berufsbildungsgesetzes nachgewiesen wurde.
 
 Diese Verordnung tritt am 1. Januar 2011 in Kraft.
 
+(zu § 6 Absatz 3)
 
-## Anlage 1 (zu § 6 Absatz 3) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2010, 1039)
+(Fundstelle: BGBl. I 2010, 1039;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ............................................................
@@ -506,9 +511,14 @@ Geprüfter Personaldienstleistungsfachwirt
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Personaldienstleistungsfachwirt und
 Geprüfte Personaldienstleistungsfachwirtin vom 23. Juli 2010 (BGBl. I
-S. 1035)
+S. 1035), die durch Artikel 12 der Verordnung vom 26. März 2014 (BGBl.
+I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ............................................................
@@ -522,10 +532,12 @@ bestanden.
 
 
 
+(zu § 6 Absatz 3)
 
-## Anlage 2 (zu § 6 Absatz 3) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2010, 1040)
+(Fundstelle: BGBl. I 2010, 1040;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ............................................................
@@ -563,12 +575,13 @@ Geprüfter Personaldienstleistungsfachwirt
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Personaldienstleistungsfachwirt und
 Geprüfte Personaldienstleistungsfachwirtin vom 23. Juli 2010 (BGBl. I
-S. 1035) mit folgenden Ergebnissen bestanden:
+S. 1035), die durch Artikel 12 der Verordnung vom 26. März 2014 (BGBl.
+I S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f1_774342_BJNR103500010BJNE001200000]
+    *[^f1_774342_BJNR103500010BJNE001201377]
    Punkte
 
     *
@@ -667,7 +680,11 @@ Prüfungsteilnehmerin“ wurde nach § 5 im Hinblick auf die am
 ................
 in ................ vor ................ abgelegte Prüfung in
 ................
-freigestellt. “)
+freigestellt.“)
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................
@@ -682,4 +699,4 @@ freigestellt. “)
 
     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     .................
-[^f1_774342_BJNR103500010BJNE001200000]: 
+[^f1_774342_BJNR103500010BJNE001201377]: 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3853
 
 Zuletzt geändert durch
-:   Art. 4a G v. 11.12.2008 I 2426
+:   Art. 20 Abs. 7 G v. 16.7.2015 I 1211
 
 
 ## Eingangsformel
@@ -34,76 +34,7 @@ beschlossen:
 -
 
 
-## Art 8 Förderung der Weiterbildung in der Allgemeinmedizin
-
-(1) Die Krankenkassen fördern zur Sicherung der hausärztlichen
-Versorgung nach § 73 Fünftes Buch Sozialgesetzbuch die
-allgemeinmedizinische Weiterbildung in den Praxen niedergelassener
-Vertragsärzte, in zugelassenen Krankenhäusern und in Vorsorge- und
-Rehabilitationseinrichtungen, für die ein Versorgungsvertrag nach §
-111 des Fünften Buches Sozialgesetzbuch besteht. Die Krankenkassen
-beteiligen sich vom 1. Januar 1999 bis zum 31. Dezember 2000 an den
-Kosten der in diesem Zeitraum besetzten eigenständigen
-Weiterbildungsstellen für die Weiterbildung in der Allgemeinmedizin
-durch einen Zuschuß je Stelle im ambulanten Bereich von bis zu 2.000
-Deutsche Mark monatlich und im stationären Bereich in Höhe von 2.000
-Deutsche Mark monatlich. Dies gilt für die Förderung der
-allgemeinmedizinischen Weiterbildung in den Praxen niedergelassener
-Vertragsärzte nur insoweit, als die jeweilige Kassenärztliche
-Vereinigung einen mindestens gleich hohen Zuschuß gewährt. In
-Krankenhäusern können nur bisher bestehende und in eigenständige
-Weiterbildungsstellen für die Weiterbildung in der Allgemeinmedizin
-umgewandelte Stellen bezuschußt werden. Die Anzahl der zu fördernden
-Weiterbildungsstellen darf im Jahre 1999 insgesamt 3.000 und im Jahre
-2000 insgesamt 6.000 Stellen nicht überschreiten. Die Zuschüsse der
-Krankenkassen werden außerhalb der Gesamtvergütung für die
-vertragsärztliche Versorgung und außerhalb der mit den Krankenhäusern
-vereinbarten Budgets gewährt.
-
-(2) Der Spitzenverband Bund der Krankenkassen vereinbart mit der
-Kassenärztlichen Bundesvereinigung und der Deutschen
-Krankenhausgesellschaft das Nähere über den Umfang und die
-Durchführung der finanziellen Beteiligung der Krankenkassen. Dabei ist
-das Benehmen mit der Bundesärztekammer herzustellen.
-
-(3) Die Höhe der finanziellen Beteiligung der Krankenkassen an den
-Kosten der Förderung der allgemeinmedizinischen Weiterbildung
-vermindert sich um den von den privaten
-Krankenversicherungsunternehmen gezahlten Betrag. Über die Verträge
-nach Absatz 2 ist das Einvernehmen mit dem Verband der privaten
-Krankenversicherung anzustreben.
-
-(4) Die Höhe der finanziellen Beteiligung der Krankenkassen an den
-Kosten der Förderung der allgemeinmedizinischen Weiterbildung und die
-Anzahl der zu fördernden Weiterbildungsstellen ab dem 1. Januar 2001
-wird in den Verträgen nach Absatz 2 geregelt. Die Höhe der
-finanziellen Beteiligung ist so zu bemessen, dass die
-Weiterzubildenden in allen Weiterbildungseinrichtungen nach Absatz 1
-Satz 1 eine angemessene Vergütung erhalten. In Gebieten, für die der
-Landesausschuss der Ärzte und Krankenkassen für den Bereich der
-hausärztlichen Versorgung eine Feststellung nach § 100 Abs. 1 Satz 1
-des Fünften Buches Sozialgesetzbuch getroffen hat, soll eine höhere
-finanzielle Förderung vorgesehen werden. Die Anzahl der zu fördernden
-Weiterbildungsstellen soll insgesamt mindestens 5 000 Stellen
-betragen.
-
-(5) In den Verträgen nach Absatz 2 kann auch vereinbart werden, dass
-
-1.  die Fördermittel durch eine zentrale Stelle auf Landes- oder
-    Bundesebene verwaltet werden,
-
-
-2.  auch eine finanzielle Beteiligung an regionalen Projekten zur
-    Förderung der Allgemeinmedizin erfolgt,
-
-
-3.  in einem Förderungszeitraum nicht abgerufene Fördermittel in den
-    darauffolgenden Förderzeitraum übertragen sowie überregional und
-    unabhängig von der Art der Weiterbildungseinrichtung bereitgestellt
-    werden.
-
-
-
+## Art 8 (weggefallen)
 
 
 ## (XXXX) Art 9 bis 11

@@ -3,7 +3,7 @@ Title: Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldung
   sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 jurabk: BBesG/BesÜGBek 2012
 layout: default
-origslug: bbesg_bes_gbek_2012
+origslug: bbesg_besuegbek_2012
 slug: bbesg_besuegbek_2012
 
 ---
@@ -6390,8 +6390,7 @@ Gültig ab 1. August 2013 für Postnachfolgeunternehmen
     Dezember 1975 (BGBl. I S. 3091).
 [^f777573_11_BJNR177100012BJNE000400000]: [^f777573_41_BJNR177100012BJNE000400000]:     Gemäß Artikel 1 Nummer 23 Buchstabe a in Verbindung mit Artikel 11
     Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird
-    die Nummer 5a ab 22. März 2012 wie folgt gefasst:
-    „ Nummer 5a
+    die Nummer 5a ab 22. März 2012 wie folgt gefasst:„ Nummer 5a
 
 
 
@@ -6416,9 +6415,8 @@ Buchstabe a
 
 
 
-Beamte des mittleren Dienstes                         und
-Unteroffiziere der Besoldungs-                        gruppen A 5 bis
-A 9
+Beamte des mittleren Dienstes  und Unteroffiziere der Besoldungs-
+gruppen A 5 bis A 9
 
 234,16
 
@@ -6471,8 +6469,8 @@ Buchstabe c
 
 Beamte des gehobenen und des höheren Dienstes und Offiziere der
 Besoldungsgruppen A 9 bis A 12 sowie Offiziere des militärfachlichen
-Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppen-
-dienstes ab Besoldungsgruppe A 13
+Dienstes der Besoldungsgruppe A 13 und Offiziere des Truppen- dienstes
+ab Besoldungsgruppe A 13
 
 258,55
 
@@ -6590,14 +6588,13 @@ Besoldungsgruppe A 13
 Beamte des höheren Dienstes und Offiziere des Truppendienstes ab
 Besoldungsgruppe A 13
 
-224,39”                       .
+224,39”.
 
 
 
 [^f777573_42_BJNR177100012BJNE000400000]: Gemäß Artikel 1 Nummer 23 Buchstabe b in Verbindung mit Artikel 11
 Absatz 1 des Gesetzes vom 15. März 2012 (BGBl. I S. 462, 1489) wird
-die Nummer 6 ab 22. März 2012 wie folgt gefasst:
-„ Nummer 6
+die Nummer 6 ab 22. März 2012 wie folgt gefasst:„ Nummer 6
 
 
 
@@ -6651,7 +6648,7 @@ Absatz 1 Satz 2
 
 
 
-585,38”                       .
+585,38”.
 
 
 

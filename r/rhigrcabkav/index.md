@@ -17,7 +17,7 @@ Fundstelle
 :   RGBl II: 1939, 847
 
 Zuletzt geändert durch
-:   Art. 102 G v. 19.4.2006 I 866
+:   Art. 160 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -74,12 +74,12 @@ befindet oder die Vollstreckungshandlung vorzunehmen ist.
 
 Ist der Antrag auf Vollstreckbarerklärung auf diplomatischem Wege
 gestellt, so hat das Amtsgericht eine von Amts wegen zu erteilende
-Ausfertigung seines Beschlusses dem Bundesministerium der Justiz
-einzureichen; die Ausfertigung ist, falls dem Antrag stattgegeben
-wird, mit der Vollstreckungsklausel zu versehen. Ist der Antrag auf
-Vollstreckbarerklärung durch die beteiligte Partei unmittelbar
-gestellt worden, so ist der Beschluß beiden Teilen von Amts wegen
-zuzustellen.
+Ausfertigung seines Beschlusses dem Bundesministerium der Justiz und
+für Verbraucherschutz einzureichen; die Ausfertigung ist, falls dem
+Antrag stattgegeben wird, mit der Vollstreckungsklausel zu versehen.
+Ist der Antrag auf Vollstreckbarerklärung durch die beteiligte Partei
+unmittelbar gestellt worden, so ist der Beschluß beiden Teilen von
+Amts wegen zuzustellen.
 
 
 ### § 6

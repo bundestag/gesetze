@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2254
 
+Geändert durch
+:   Art. 1 G v. 22.12.2016 I 3150
+
 
 
 ## Teil 1 - Allgemeine Regelungen
@@ -24,21 +27,23 @@ Fundstelle
 ### § 1 Anwendungsbereich
 
 Dieses Gesetz gilt für alle in ihm bezeichneten Straftaten gegen das
-Völkerrecht, für die in ihm bezeichneten Verbrechen auch dann, wenn
-die Tat im Ausland begangen wurde und keinen Bezug zum Inland
-aufweist.
+Völkerrecht, für Taten nach den §§ 6 bis 12 auch dann, wenn die Tat im
+Ausland begangen wurde und keinen Bezug zum Inland aufweist. Für Taten
+nach § 13, die im Ausland begangen wurden, gilt dieses Gesetz
+unabhängig vom Recht des Tatorts, wenn der Täter Deutscher ist oder
+die Tat sich gegen die Bundesrepublik Deutschland richtet.
 
 
 ### § 2 Anwendung des allgemeinen Rechts
 
 Auf Taten nach diesem Gesetz findet das allgemeine Strafrecht
-Anwendung, soweit dieses Gesetz nicht in den §§ 1 und 3 bis 5
-besondere Bestimmungen trifft.
+Anwendung, soweit dieses Gesetz nicht in den §§ 1, 3 bis 5 und 13
+Absatz 4 besondere Bestimmungen trifft.
 
 
 ### § 3 Handeln auf Befehl oder Anordnung
 
-Ohne Schuld handelt, wer eine Tat nach den §§ 8 bis 14 in Ausführung
+Ohne Schuld handelt, wer eine Tat nach den §§ 8 bis 15 in Ausführung
 eines militärischen Befehls oder einer Anordnung von vergleichbarer
 tatsächlicher Bindungswirkung begeht, sofern der Täter nicht erkennt,
 dass der Befehl oder die Anordnung rechtswidrig ist und deren
@@ -173,7 +178,7 @@ gegen eine Zivilbevölkerung
     beraubt oder
 
 
-10  eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr
+10. eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr
     aus politischen, rassischen, nationalen, ethnischen, kulturellen oder
     religiösen Gründen, aus Gründen des Geschlechts oder aus anderen nach
     den allgemeinen Regeln des Völkerrechts als unzulässig anerkannten
@@ -267,11 +272,11 @@ nichtinternationalen bewaffneten Konflikt
     Gefahr des Todes oder einer schweren Gesundheitsschädigung bringt,
     indem er
 
+    a)  an einer solchen Person Versuche vornimmt, in die sie nicht zuvor
+        freiwillig und ausdrücklich eingewilligt hat oder die weder
+        medizinisch notwendig sind noch in ihrem Interesse durchgeführt
+        werden,
 
-a)  an einer solchen Person Versuche vornimmt, in die sie nicht zuvor
-    freiwillig und ausdrücklich eingewilligt hat oder die weder
-    medizinisch notwendig sind noch in ihrem Interesse durchgeführt
-    werden,
 
     b)  einer solchen Person Gewebe oder Organe für Übertragungszwecke
         entnimmt, sofern es sich nicht um die Entnahme von Blut oder Haut zu
@@ -516,11 +521,50 @@ der Täter den Tod vorsätzlich herbei, ist die Strafe lebenslange
 Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.
 
 
-### Abschnitt 3 - Sonstige Straftaten
+### Abschnitt 3 - Verbrechen der Aggression
+
+
+#### § 13 Verbrechen der Aggression
+
+(1) Wer einen Angriffskrieg führt oder eine sonstige Angriffshandlung
+begeht, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine
+offenkundige Verletzung der Charta der Vereinten Nationen darstellt,
+wird mit lebenslanger Freiheitsstrafe bestraft.
+
+(2) Wer einen Angriffskrieg oder eine sonstige Angriffshandlung im
+Sinne des Absatzes 1 plant, vorbereitet oder einleitet, wird mit
+lebenslanger Freiheitsstrafe oder mit Freiheitsstrafe nicht unter zehn
+Jahren bestraft. Die Tat nach Satz 1 ist nur dann strafbar, wenn
+
+1.  der Angriffskrieg geführt oder die sonstige Angriffshandlung begangen
+    worden ist oder
+
+
+2.  durch sie die Gefahr eines Angriffskrieges oder einer sonstigen
+    Angriffshandlung für die Bundesrepublik Deutschland herbeigeführt
+    wird.
 
 
 
-#### § 13 Verletzung der Aufsichtspflicht
+
+(3) Eine Angriffshandlung ist die gegen die Souveränität, die
+territoriale Unversehrtheit oder die politische Unabhängigkeit eines
+Staates gerichtete oder sonst mit der Charta der Vereinten Nationen
+unvereinbare Anwendung von Waffengewalt durch einen Staat.
+
+(4) Beteiligter einer Tat nach den Absätzen 1 und 2 kann nur sein, wer
+tatsächlich in der Lage ist, das politische oder militärische Handeln
+eines Staates zu kontrollieren oder zu lenken.
+
+(5) In minder schweren Fällen des Absatzes 2 ist die Strafe
+Freiheitsstrafe nicht unter fünf Jahren.
+
+
+### Abschnitt 4 - Sonstige Straftaten
+
+
+
+#### § 14 Verletzung der Aufsichtspflicht
 
 (1) Ein militärischer Befehlshaber, der es vorsätzlich oder fahrlässig
 unterlässt, einen Untergebenen, der seiner Befehlsgewalt oder seiner
@@ -544,7 +588,7 @@ Freiheitsstrafe bis zu fünf Jahren, die fahrlässige Verletzung der
 Aufsichtspflicht wird mit Freiheitsstrafe bis zu drei Jahren bestraft.
 
 
-#### § 14 Unterlassen der Meldung einer Straftat
+#### § 15 Unterlassen der Meldung einer Straftat
 
 (1) Ein militärischer Befehlshaber oder ein ziviler Vorgesetzter, der
 es unterlässt, eine Tat nach diesem Gesetz, die ein Untergebener

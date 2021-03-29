@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Erteilung europäischer Patente
 jurabk: EuPatÜbk
 layout: default
-origslug: eupat_bk
+origslug: eupatuebk
 slug: eupatuebk
 
 ---

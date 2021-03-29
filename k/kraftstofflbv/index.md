@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 520
 
 Zuletzt geändert durch
-:   Art. 12 G v. 25.4.2007 I 594
+:   Art. 325 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -337,11 +337,11 @@ Energiesicherungsgesetzes 1975 bestimmten Stellen.
 
 (2) Bundesbehörden, die obersten Bundesbehörden nachgeordnet sind,
 erhalten Bezugscheine von den obersten Bundesbehörden, die obersten
-Bundesbehörden vom Bundesministerium für Wirtschaft und Technologie
-oder einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen
-dieser Bedarfsträger können jedoch von den nach Absatz 1 zuständigen
-Stellen auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender,
-anders nicht rechtzeitig zu deckender Bedarf besteht.
+Bundesbehörden vom Bundesministerium für Wirtschaft und Energie oder
+einer von ihm bestimmten Stelle. Einzelnen Verwaltungsstellen dieser
+Bedarfsträger können jedoch von den nach Absatz 1 zuständigen Stellen
+auf Antrag Bezugscheine zugeteilt werden, wenn ein dringender, anders
+nicht rechtzeitig zu deckender Bedarf besteht.
 
 (3) Der Berechtigte kann sich die Bezugscheine über eine auf Grund
 eines Antrags nach den §§ 7 bis 9 bewilligte Kraftstoffmenge oder über
@@ -349,13 +349,13 @@ die Grundmenge bei jeder nach Absatz 1 zuständigen Ausgabestelle gegen
 Empfangsbestätigung aushändigen lassen.
 
 (4) Die Eisenbahnen des Bundes erhalten Bezugscheine vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bundesministerium für Verkehr und digitale Infrastruktur.
 
 (5) Die Unternehmen gemäß § 2 des Post- und
 Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer
 Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet
 sind, erhalten Bezugsscheine vom Bundesministerium für Wirtschaft und
-Technologie. Absatz 2 Satz 2 gilt entsprechend.
+Energie. Absatz 2 Satz 2 gilt entsprechend.
 
 
 ## 6. Abschnitt - Zuteilung von Kraftstoff für auswärtige Kraftfahrzeuge sowie in sonstigen besonderen Fällen
@@ -643,15 +643,15 @@ fahrlässig
 
 
     *        *
-        *   *                              Abschn. 1
+        *   * Abschn. 1
 
-        *   *                              Abschn. 2
+        *   * Abschn. 2
 
-        *   *                              Abschn. 3
+        *   * Abschn. 3
 
-        *   *                              Abschn. 4
+        *   * Abschn. 4
 
-        *   *                              Abschn. 5
+        *   * Abschn. 5
 
         *   ◄
 
@@ -740,9 +740,9 @@ fahrlässig
 
         *   * **Sonstige**
 
-        *   *                              Benzin
+        *   * Benzin
 
-        *   *                              Diesel
+        *   * Diesel
 
         *
 
@@ -880,7 +880,7 @@ fahrlässig
 
 (6)
     *        *
-        *   **Kürzeste Wegstrecke**                              zwischen
+        *   **Kürzeste Wegstrecke** zwischen
 
         *
         *
@@ -891,8 +891,8 @@ fahrlässig
         *
         *
         *
-        *   **Fahrzeit**                              zwischen Wohnung und
-            Arbeits- bzw. Ausbildungsstelle bei kürzester Wegstrecke
+        *   **Fahrzeit** zwischen Wohnung und Arbeits- bzw. Ausbildungsstelle bei
+            kürzester Wegstrecke
 
         *
         *
@@ -1162,23 +1162,20 @@ fahrlässig
         *
         *
         *   **Bitte beachten!**
-            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
-            kann grundsätzlich **nicht**                              anerkannt
-            werden.
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf** kann
+            grundsätzlich **nicht** anerkannt werden.
             ▲
-            Angabe der **zukünftig**                              zu fahrenden
-            Kilometer, wenn **geringerer Bedarf**
-            beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
+            Angabe der **zukünftig** zu fahrenden Kilometer, wenn **geringerer
+            Bedarf** beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
             Vergangenheit keine Angaben möglich sind:
 
         *
 
     *        *
         *
-        *   Wenn die Tätigkeiten erst **innerhalb**
-            des genannten Zeitraumes (12 Monate) begonnen wurden, bitte den
-            Zeitpunkt (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
-            abgestimmt eintragen:
+        *   Wenn die Tätigkeiten erst **innerhalb** des genannten Zeitraumes (12
+            Monate) begonnen wurden, bitte den Zeitpunkt (Monat) zusätzlich nennen
+            und die Kilometer pro Monat darauf abgestimmt eintragen:
 
 
     *        *
@@ -1311,8 +1308,7 @@ fahrlässig
         *   ◄
 
         *   Erfolgen die Fahrten gleichzeitig in Ausübung einer nichtselbständigen
-            Tätigkeit, so ist **nur**                              Abschnitt 2
-            auszufüllen.
+            Tätigkeit, so ist **nur** Abschnitt 2 auszufüllen.
 
         *
 
@@ -1382,23 +1378,20 @@ fahrlässig
         *
         *
         *   **Bitte beachten!**
-            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
-            kann grundsätzlich **nicht**                              anerkannt
-            werden.
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf** kann
+            grundsätzlich **nicht** anerkannt werden.
             ▲
-            Angabe der **zukünftig**                              zu fahrenden
-            Kilometer, wenn **geringerer Bedarf**
-            beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
+            Angabe der **zukünftig** zu fahrenden Kilometer, wenn **geringerer
+            Bedarf** beseht, oder soweit wegen Neuaufnahme der Tätigkeiten für die
             Vergangenheit keine Angaben möglich sind:
 
         *
 
     *        *
         *
-        *   Wenn die Tätigkeiten erst **innerhalb**
-            des genannten Zeitraumes (12 Monate) begonnen wurden, bitte den
-            Zeitpunkt (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
-            abgestimmt eintragen:
+        *   Wenn die Tätigkeiten erst **innerhalb** des genannten Zeitraumes (12
+            Monate) begonnen wurden, bitte den Zeitpunkt (Monat) zusätzlich nennen
+            und die Kilometer pro Monat darauf abgestimmt eintragen:
 
 
     *        *
@@ -1537,7 +1530,7 @@ fahrlässig
 
 
     *        *
-        *   *                              Antragsteller
+        *   * Antragsteller
 
         *   *
 
@@ -1687,23 +1680,20 @@ fahrlässig
         *
         *
         *   **Bitte beachten!**
-            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf**
-            kann grundsätzlich **nicht**                              anerkannt
-            werden.
+            Ein gegenüber dem bisherigen Bedarf **erhöhter Bedarf** kann
+            grundsätzlich **nicht** anerkannt werden.
             ▲
-            Angabe der **zukünftig**                              zu fahrenden
-            Kilometer, wenn **geringerer Bedarf**
-            beseht, oder soweit wegen Neuaufnahme der Fahrten für die
+            Angabe der **zukünftig** zu fahrenden Kilometer, wenn **geringerer
+            Bedarf** beseht, oder soweit wegen Neuaufnahme der Fahrten für die
             Vergangenheit keine Angaben möglich sind:
 
         *
 
     *        *
         *
-        *   Wenn die Fahrten erst **innerhalb**                              des
-            genannten Zeitraumes (12 Monate) begonnen wurden, bitte den Zeitpunkt
-            (Monat) zusätzlich nennen und die Kilometer pro Monat darauf
-            abgestimmt eintragen:
+        *   Wenn die Fahrten erst **innerhalb** des genannten Zeitraumes (12
+            Monate) begonnen wurden, bitte den Zeitpunkt (Monat) zusätzlich nennen
+            und die Kilometer pro Monat darauf abgestimmt eintragen:
 
 
     *        *
@@ -1758,12 +1748,10 @@ fahrlässig
         *
 
     *        *
-        *   Bei Antragstellung für **eine**
-            Versorgungsperiode
+        *   Bei Antragstellung für **eine** Versorgungsperiode
 
         *
-        *   Bei Antragstellung für **mehrere**
-            Versorgungsperioden:
+        *   Bei Antragstellung für **mehrere** Versorgungsperioden:
 
         *
         *
@@ -2265,12 +2253,11 @@ fahrlässig
 (7)
     *        *
         *
-        *   **Bitte beachten!**                              Nur zulässig, wenn
-            Antragsteller den Kraftstoffbedarf für die weiteren
-            Versorgungsperioden bei der Antragstellung bereits absehen kann und
-            nicht mit Veränderungen rechnet. Dennoch nach Antragstellung
-            eintretende Veränderungen, die den geltendgemachten Bedarf vermindern,
-            sind unverzüglich anzuzeigen.
+        *   **Bitte beachten!** Nur zulässig, wenn Antragsteller den
+            Kraftstoffbedarf für die weiteren Versorgungsperioden bei der
+            Antragstellung bereits absehen kann und nicht mit Veränderungen
+            rechnet. Dennoch nach Antragstellung eintretende Veränderungen, die
+            den geltendgemachten Bedarf vermindern, sind unverzüglich anzuzeigen.
 
 
     *        *
@@ -2332,12 +2319,10 @@ fahrlässig
         *
 
     *        *
-        *   *                              gewerbliche, landwirtschaftliche oder
-            berufliche Zwecke
+        *   * gewerbliche, landwirtschaftliche oder berufliche Zwecke
 
-        *   *                              Fahrten zwischen Wohnung und
-            Betriebsstätte (dazu **nur**                              Anlage **C**
-            ausfüllen)!
+        *   * Fahrten zwischen Wohnung und Betriebsstätte (dazu **nur** Anlage
+            **C** ausfüllen)!
 
         *
         *
@@ -2414,9 +2399,8 @@ fahrlässig
 
         *   ◄
 
-        *   Inwieweit **Grundmengen**                              anzurechnen
-            sind, wird vor Beginn der Versorgungsperiode durch Verordnung
-            bestimmt.
+        *   Inwieweit **Grundmengen** anzurechnen sind, wird vor Beginn der
+            Versorgungsperiode durch Verordnung bestimmt.
 
         *   |
 
@@ -2508,9 +2492,8 @@ fahrlässig
         *
         *   ◄
 
-        *   Nur ausfüllen, wenn Bezugscheine **vorab**
-            ausgegeben werden und Abholung nicht durch Antragsteller selbst
-            erfolgt.
+        *   Nur ausfüllen, wenn Bezugscheine **vorab** ausgegeben werden und
+            Abholung nicht durch Antragsteller selbst erfolgt.
 
         *   |
 
@@ -2909,10 +2892,10 @@ fahrlässig
         *
 
     *        *
-        *   **Bitte beachten!**                              Ein Bedarf pro Monat
-            (bei monatlichen Änderungen Durchschnittsbedarf), der höher ist als
-            der bisherige Verbrauch pro Monat (bei monatlichen Änderungen
-            Durchschnittsverbrauch), wird grundsätzlich **nicht anerkannt.**
+        *   **Bitte beachten!** Ein Bedarf pro Monat (bei monatlichen Änderungen
+            Durchschnittsbedarf), der höher ist als der bisherige Verbrauch pro
+            Monat (bei monatlichen Änderungen Durchschnittsverbrauch), wird
+            grundsätzlich **nicht anerkannt.**
             Ein anderer Bedarf kann jedoch anerkannt werden, soweit diesem wegen
             Neuaufnahme der gewerblichen, landwirtschaftlichen oder beruflichen
             Tätigkeit ein Verbrauch im Vergleichszeitraum des Vorjahres nicht
@@ -3237,8 +3220,7 @@ fahrlässig
     *
     *
     *
-    *   Anlage **A**                        zum Antrag auf Zuteilung von
-        Kraftstoff-Bezugscheinen
+    *   Anlage **A** zum Antrag auf Zuteilung von Kraftstoff-Bezugscheinen
 
     *
 
@@ -3610,8 +3592,7 @@ fahrlässig
             *
             *
             *
-            *   Anlage **B**                                  zum Antrag auf Zuteilung
-                von Kraftsoff-Bezugscheinen
+            *   Anlage **B** zum Antrag auf Zuteilung von Kraftsoff-Bezugscheinen
 
             *
 
@@ -3928,9 +3909,9 @@ fahrlässig
     *
 
 *    *
-    *   *                       PKW
+    *   *  PKW
 
-    *   *                       Motorrad
+    *   *  Motorrad
 
     *   *
 
@@ -4023,7 +4004,7 @@ fahrlässig
     *
 
 *    *
-    *   *                      Benzin
+    *   * Benzin
 
     *   *
 
@@ -4520,9 +4501,9 @@ fahrlässig
         *   **Bitte beachten!**
             Nur zulässig, wenn Antragsteller den Kraftstoffbedarf für die weiteren
             Versorgungsperioden bei der Antragstellung bereits absehen kann und
-            nicht mit Veränderungen rechnet. **Dennoch**
-            nach Antragstellung eintretende Veränderungen, die den
-            geltendgemachten Bedarf vermindern, sind unverzüglich anzuzeigen.
+            nicht mit Veränderungen rechnet. **Dennoch** nach Antragstellung
+            eintretende Veränderungen, die den geltendgemachten Bedarf vermindern,
+            sind unverzüglich anzuzeigen.
 
         *   Wenn dieser Antrag einen früheren für die gleichen Zwecke und
             Zeiträume gestellten Antrag ergänzt, bitte Datum des früheren Antrages
@@ -4620,9 +4601,8 @@ fahrlässig
 
         *   ◄
 
-        *   Inwieweit **Grundmengen**                              anzurechnen
-            sind, wird vor Beginn der Versorgungsperiode durch Verordnung
-            bestimmt.
+        *   Inwieweit **Grundmengen** anzurechnen sind, wird vor Beginn der
+            Versorgungsperiode durch Verordnung bestimmt.
 
         *   |
 
@@ -4714,8 +4694,7 @@ fahrlässig
         *
         *   ◄
 
-        *   Nur ausfüllen, wenn Bezugscheine **vorab**
-            ausgegeben werden.
+        *   Nur ausfüllen, wenn Bezugscheine **vorab** ausgegeben werden.
 
         *   |
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1189
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 47 G v. 22.12.2011 I 3044
+:   Art. 7 G v. 11.4.2017 I 802
 
 
 ## Erster Abschnitt - Rechnungslegung von Unternehmen
@@ -161,14 +161,10 @@ Rechtsform
     Gemeindeverbands oder eines Zweckverbands,
 
 
-2.  Verwertungsgesellschaften nach dem Gesetz über die Wahrnehmung von
-    Urheberrechten und verwandten Schutzrechten vom 9. September 1965
-    (BGBl. I S. 1294), zuletzt geändert durch
-    Artikel 2 des Gesetzes vom 24. Juni 1985 (BGBl. I S. 1137).
+2.  Verwertungsgesellschaften nach dem Verwertungsgesellschaftengesetz.
 
 
 
-3\.
 Dieser Abschnitt ist ferner auf Kreditinstitute im Sinne des § 340 des
 Handelsgesetzbuchs und auf die in § 2 Abs. 1 Nr. 1, 2 und 4 des
 Gesetzes über das Kreditwesen genannten Personen sowie auf
@@ -214,9 +210,9 @@ Hauptniederlassung) des Unternehmens.
 Jahresabschluß (§ 242 des Handelsgesetzbuchs) in den ersten drei
 Monaten des Geschäftsjahrs für das vergangene Geschäftsjahr
 aufzustellen. Für den Inhalt des Jahresabschlusses, seine Gliederung
-und für die einzelnen Posten des Jahresabschlusses gelten die §§ 265,
-266, 268 bis 275, 277 und 278 des Handelsgesetzbuchs sinngemäß.
-Sonstige Vorschriften, die durch die Rechtsform oder den
+und für die einzelnen Posten des Jahresabschlusses gelten § 264 Absatz
+1a sowie die §§ 265, 266, 268 bis 275 und 277 des Handelsgesetzbuchs
+sinngemäß. Sonstige Vorschriften, die durch die Rechtsform oder den
 Geschäftszweig bedingt sind, bleiben unberührt.
 
 (2) Die gesetzlichen Vertreter eines Unternehmens, das nicht in der
@@ -224,14 +220,14 @@ Rechtsform einer Personenhandelsgesellschaft oder des Einzelkaufmanns
 geführt wird, haben den Jahresabschluß um einen Anhang zu erweitern,
 der mit der Bilanz und der Gewinn- und Verlustrechnung eine Einheit
 bildet, sowie einen Lagebericht aufzustellen. Für den Anhang gelten
-die §§ 284, 285 Nr. 1 bis 4, 7 bis 13, 17 bis 29, § 286 des
+die §§ 284, 285 Nummer 1 bis 4, 7 bis 13, 15a, 17 bis 34, § 286 des
 Handelsgesetzbuchs und für den Lagebericht § 289 des
 Handelsgesetzbuchs sinngemäß.
 
-(2a) Unternehmen im Sinn des § 264d des Handelsgesetzbuchs haben
-unabhängig von ihrer Rechtsform den Jahresabschluss um einen Anhang
-nach Absatz 2 zu ergänzen. § 264 Abs. 1 Satz 2 des Handelsgesetzbuchs
-ist sinngemäß anzuwenden.
+(2a) Unternehmen, die in sinngemäßer Anwendung des § 264d des
+Handelsgesetzbuchs kapitalmarktorientiert sind, haben den
+Jahresabschluss um einen Anhang nach Absatz 2 zu ergänzen. § 264 Abs.
+1 Satz 2 des Handelsgesetzbuchs ist sinngemäß anzuwenden.
 
 (3) § 330 des Handelsgesetzbuchs über den Erlaß von Rechtsverordnungen
 gilt auch für Unternehmen, auf die dieser Abschnitt nach § 3 Abs. 1
@@ -268,7 +264,8 @@ Angaben zu machen:
     Änderungen,
 
 
-5.  die Zahl der Beschäftigten.
+5.  die durchschnittliche Zahl der in den letzten zwölf Monaten vor dem
+    Abschlussstichtag beschäftigten Arbeitnehmer.
 
 
 
@@ -285,10 +282,13 @@ Handelsgesetzbuchs erfüllen.
 
 (1) Der Jahresabschluß und der Lagebericht sind durch einen
 Abschlußprüfer zu prüfen. Soweit in den Absätzen 2 bis 4 nichts
-anderes bestimmt ist, gelten § 316 Abs. 3, § 317 Abs. 1, 2, 5 und 6, §
-318 Abs. 1, 3 bis 8, § 319 Abs. 1 bis 4, § 319a Abs. 1, § 319b Abs. 1,
-§ 320 Abs. 1, 2 und 4 sowie die §§ 321 bis 324 des Handelsgesetzbuchs
-über die Prüfung des Jahresabschlusses sinngemäß.
+anderes bestimmt ist, gelten § 316 Abs. 3, § 317 Abs. 1, 2, 4a, 5 und
+6, § 318 Abs. 1 bis 1b, 3 bis 8, § 319 Abs. 1 bis 4, § 319a Abs. 1, 1a
+und 3, § 319b Abs. 1, § 320 Abs. 1, 2 und 4 sowie die §§ 321 bis 324
+des Handelsgesetzbuchs über die Prüfung des Jahresabschlusses
+sinngemäß, bei einem Unternehmen, das kapitalmarktorientiert im Sinne
+des § 264d des Handelsgesetzbuchs ist, jedoch nur insoweit, als nicht
+die Verordnung (EU) Nr. 537/2014 anzuwenden ist.
 
 (2) Handelt es sich um das Unternehmen einer
 Personenhandelsgesellschaft oder eines Einzelkaufmanns, so hat sich
@@ -302,7 +302,11 @@ das Unternehmen eines Einzelkaufmanns, so bestellt dieser den
 Abschlußprüfer. Bei anderen Unternehmen wird der Abschlußprüfer,
 sofern über seine Bestellung nichts anderes bestimmt ist, vom
 Aufsichtsrat gewählt; hat das Unternehmen keinen Aufsichtsrat, so
-bestellen die gesetzlichen Vertreter den Abschlußprüfer.
+bestellen die gesetzlichen Vertreter den Abschlußprüfer. Bei einem
+Unternehmen, das kapitalmarktorientiert im Sinne des § 264d des
+Handelsgesetzbuchs ist, ist der Vorschlag zur Wahl des
+Abschlussprüfers auf die Empfehlung des Prüfungsausschusses zu
+stützen.
 
 
 ### § 7 Prüfung durch den Aufsichtsrat
@@ -313,12 +317,17 @@ Abschlußprüfer den Jahresabschluß, den Lagebericht und den
 Prüfungsbericht der Abschlußprüfer dem Aufsichtsrat vorzulegen. Der
 Aufsichtsrat hat den Jahresabschluß und den Lagebericht zu prüfen; er
 hat über das Ergebnis seiner Prüfung schriftlich zu berichten. § 170
-Abs. 3, § 171 Abs. 1 Satz 2 und 3, Abs. 2 Satz 2 bis 4, Abs. 3 des
+Abs. 3, § 171 Abs. 1 Satz 2 und 3, Abs. 2 Satz 2 bis 5, Abs. 3 des
 Aktiengesetzes gelten sinngemäß. Die Sätze 1 bis 3 gelten auch für
 einen Einzelabschluss nach § 9 Abs. 1 Satz 1 dieses Gesetzes in
 Verbindung mit § 325 Abs. 2a des Handelsgesetzbuchs; für einen solchen
 Abschluss gilt ferner § 171 Abs. 4 Satz 1 des Aktiengesetzes
-sinngemäß.
+sinngemäß. Hat das Unternehmen, das kapitalmarktorientiert im Sinne
+des § 264d des Handelsgesetzbuchs ist, einen Aufsichtsrat, gelten auch
+§ 100 Absatz 5 und § 107 Absatz 3 Satz 1 und 2 des Aktiengesetzes
+entsprechend. Richtet der Aufsichtsrat einen Prüfungsausschuss ein, so
+gelten für diesen § 100 Absatz 5 und § 107 Absatz 3 Satz 2 und 3 des
+Aktiengesetzes entsprechend.
 
 
 ### § 8 Feststellung des Jahresabschlusses
@@ -355,13 +364,14 @@ erteilt wird.
 (4) Der festgestellte Jahresabschluß ist der Jahresabschluß im Sinne
 der für die Rechtsform des Unternehmens geltenden Vorschriften.
 
+Offenlegung des Jahresabschlusses und des Lageberichts
 
-### § 9 Offenlegung des Jahresabschlusses und des Lageberichts Prüfung durch den Betreiber des Bundesanzeigers
+### § 9 Prüfung durch den Betreiber des Bundesanzeigers
 
 (1) Die gesetzlichen Vertreter des Unternehmens haben für dieses den
 Jahresabschluß und die sonst in § 325 Abs. 1 des Handelsgesetzbuchs
 bezeichneten Unterlagen, soweit sie aufzustellen sind, in sinngemäßer
-Anwendung des § 325 Abs. 1, 2, 2a, 2b, 4 bis 6, § 328 des
+Anwendung des § 325 Absatz 1 bis 2b, 4 bis 6, § 328 des
 Handelsgesetzbuchs offenzulegen. § 329 Abs. 1 und 4 des
 Handelsgesetzbuchs gilt sinngemäß.
 
@@ -453,7 +463,7 @@ Gesellschaft mit beschränkter Haftung, ein Kreditinstitut im Sinne des
 § 340 des Handelsgesetzbuchs oder eine in § 2 Abs. 1 Nr. 1, 2 und 4
 des Gesetzes über das Kreditwesen genannte Person oder ein
 Versicherungsunternehmen im Sinne des § 341 des Handelsgesetzbuchs ist
-oder als Personenhandelsgesellschaft nach Abs. 1 Satz 1 Nr. 1 den
+oder als Personenhandelsgesellschaft nach § 3 Abs. 1 Satz 1 Nr. 1 den
 ersten Abschnitt nicht anzuwenden hat. Weiterhin sind
 Personenhandelsgesellschaften und Einzelkaufleute zur Aufstellung
 eines Konzernabschlusses nach diesem Abschnitt nicht verpflichtet,
@@ -462,11 +472,11 @@ und sie nicht die Aufgaben der Konzernleitung wahrnehmen.
 
 (6) Folgende Bestimmungen des Handelsgesetzbuchs gelten sinngemäß:
 
-1.  § 290 Abs. 2 bis 5 über die Pflicht zur Aufstellung sowie § 291 über
-    befreiende Konzernabschlüsse und Konzernlageberichte;
+1.  § 290 Abs. 2 bis 5 über die Pflicht zur Aufstellung sowie die §§ 291
+    und 292 über befreiende Konzernabschlüsse und Konzernlageberichte;
 
 
-2.  § 315a über den Konzernabschluss nach internationalen
+2.  § 315e über den Konzernabschluss nach internationalen
     Rechnungslegungsstandards, Absatz 2 der Vorschrift jedoch nur, wenn
     das Mutterunternehmen seiner Rechtsform nach in den Anwendungsbereich
     der Verordnung (EG) Nr. 1606/2002 des Europäischen Parlaments und des
@@ -476,7 +486,7 @@ und sie nicht die Aufgaben der Konzernleitung wahrnehmen.
 
 
 
-Sind die Voraussetzungen des § 315a des Handelsgesetzbuchs erfüllt, so
+Sind die Voraussetzungen des § 315e des Handelsgesetzbuchs erfüllt, so
 gilt § 13 Abs. 2 Satz 1 und 2, Abs. 3 Satz 1 und 2 in Verbindung mit §
 5 Abs. 5 dieses Gesetzes nicht.
 
@@ -519,13 +529,13 @@ der Konzernabschluss sowie der Konzernlagebericht in den ersten vier
 Monaten des Konzerngeschäftsjahrs für das vergangene
 Konzerngeschäftsjahr aufzustellen; dies gilt nicht, wenn es
 ausschließlich zum Handel an einem organisierten Markt zugelassene
-Schuldtitel im Sinn des § 2 Abs. 1 Satz 1 Nr. 3 des
-Wertpapierhandelsgesetzes mit einer Mindeststückelung von 50 000 Euro
+Schuldtitel im Sinn des § 2 Absatz 1 Nummer 3 des
+Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000 Euro
 oder dem am Ausgabetag entsprechenden Gegenwert einer anderen Währung
 begibt.
 
 (2) Für den Konzernabschluß oder Teilkonzernabschluß gelten die §§ 294
-bis 314 des Handelsgesetzbuchs sinngemäß, soweit eine abweichende
+bis 314 des Handelsgesetzbuchs sinngemäß; soweit eine abweichende
 Gliederung zulässig ist, kann diese auch für den Konzernabschluß oder
 den Teilkonzernabschluß verwendet werden. Sonstige Vorschriften, die
 durch die Rechtsform oder den Geschäftszweig bedingt sind, bleiben
@@ -540,15 +550,14 @@ sinngemäß; dieser braucht Kapitalflussrechnung und Eigenkapitalspiegel
 nicht zu umfassen, soweit das Mutterunternehmen nicht
 kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist.
 Bei Anwendung des Satzes 1 oder des § 5 Abs. 5 haben der
-Konzernabschluß oder der Teilkonzernabschluß befreiende Wirkung nach §
-291 des Handelsgesetzbuchs oder einer nach Absatz 4 in Verbindung mit
-§ 292 des Handelsgesetzbuchs erlassenen Rechtsverordnung nur, wenn das
-befreite Tochterunternehmen, das gleichzeitig Mutterunternehmen ist,
-diese Erleichterungen für seinen Konzernabschluß oder
-Teilkonzernabschluß hätte in Anspruch nehmen können.
+Konzernabschluß oder der Teilkonzernabschluß befreiende Wirkung nach
+den §§ 291 und 292 des Handelsgesetzbuchs nur, wenn das befreite
+Tochterunternehmen, das gleichzeitig Mutterunternehmen ist, diese
+Erleichterungen für seinen Konzernabschluß oder Teilkonzernabschluß
+hätte in Anspruch nehmen können.
 
-(4) Die §§ 292, 330 des Handelsgesetzbuchs über den Erlaß von
-Rechtsverordnungen gelten auch für Konzernabschlüsse,
+(4) § 330 des Handelsgesetzbuchs über den Erlass von
+Rechtsverordnungen gilt auch für Konzernabschlüsse,
 Teilkonzernabschlüsse, Konzernlageberichte und Teilkonzernlageberichte
 nach diesem Abschnitt.
 
@@ -564,12 +573,11 @@ Gesetzes gelten sinngemäß.
 (2) Ist das Mutterunternehmen eine Genossenschaft, so ist der
 Prüfungsverband, dem die Genossenschaft angehört, auch Abschlußprüfer
 des Konzernabschlusses. Der von einem Prüfungsverband geprüfte
-Konzernabschluß oder Teilkonzernabschluß hat befreiende Wirkung nach §
-291 des Handelsgesetzbuchs oder einer nach § 13 Abs. 4 dieses Gesetzes
-in Verbindung mit § 292 des Handelsgesetzbuchs erlassenen
-Rechtsverordnung nur, wenn das befreite Tochterunternehmen, das
-gleichzeitig Mutterunternehmen ist, seinen Konzernabschluß oder
-Teilkonzernabschluß von dieser Person hätte prüfen lassen können.
+Konzernabschluß oder Teilkonzernabschluß hat befreiende Wirkung nach
+nach den §§ 291 und 292 des Handelsgesetzbuchs nur, wenn das befreite
+Tochterunternehmen, das gleichzeitig Mutterunternehmen ist, seinen
+Konzernabschluß oder Teilkonzernabschluß von dieser Person hätte
+prüfen lassen können.
 
 (3) Hat das Mutterunternehmen einen Aufsichtsrat, so haben die
 gesetzlichen Vertreter den Konzernabschluß oder den
@@ -619,7 +627,7 @@ Inhaber oder dessen gesetzlicher Vertreter,
 
 1a. zum Zwecke der Befreiung nach § 9 Abs. 1 Satz 1 in Verbindung mit §
     325 Abs. 2a Satz 1, Abs. 2b des Handelsgesetzbuchs einen
-    Einzelabschluss nach den in § 315a Abs. 1 des Handelsgesetzbuchs
+    Einzelabschluss nach den in § 315e Absatz 1 des Handelsgesetzbuchs
     genannten internationalen Rechnungslegungsstandards, in dem die
     Verhältnisse des Unternehmens unrichtig wiedergegeben oder
     verschleiert worden sind, vorsätzlich oder leichtfertig offen legt,
@@ -631,13 +639,11 @@ Inhaber oder dessen gesetzlicher Vertreter,
 
 
 3.  zum Zwecke der Befreiung nach § 11 Abs. 6 Satz 1 Nr. 1 in Verbindung
-    mit § 291 des Handelsgesetzbuchs oder auf Grund einer nach § 13 Abs. 4
-    in Verbindung mit § 292 des Handelsgesetzbuchs erlassenen
-    Rechtsverordnung einen Konzernabschluß, Konzernlagebericht,
-    Teilkonzernabschluß oder Teilkonzernlagebericht, in dem die
-    Verhältnisse des Konzerns oder Teilkonzerns unrichtig wiedergegeben
-    oder verschleiert worden sind, vorsätzlich oder leichtfertig offenlegt
-    oder
+    mit den §§ 291 und 292 des Handelsgesetzbuchs einen Konzernabschluß,
+    Konzernlagebericht, Teilkonzernabschluß oder Teilkonzernlagebericht,
+    in dem die Verhältnisse des Konzerns oder Teilkonzerns unrichtig
+    wiedergegeben oder verschleiert worden sind, vorsätzlich oder
+    leichtfertig offenlegt oder
 
 
 4.  in Aufklärungen oder Nachweisen, die nach § 2 Abs. 3 Satz 4 in
@@ -687,6 +693,27 @@ verwertet.
 Teilkonzernleitung) verfolgt.
 
 
+### § 19a Verletzung der Pflichten bei Abschlussprüfungen
+
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer als Mitglied eines Aufsichtsrats nach § 7 Satz 5 oder
+als Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324
+Absatz 1 Satz 1 des Handelsgesetzbuchs oder nach § 7 Satz 6
+eingerichteten Prüfungsausschusses eines Unternehmens, das
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist,
+
+1.  eine in § 20 Absatz 2a, 2b oder Absatz 2c bezeichnete Handlung begeht
+    und dafür einen Vermögensvorteil erhält oder sich versprechen lässt
+    oder
+
+
+2.  eine in § 20 Absatz 2a, 2b oder Absatz 2c bezeichnete Handlung
+    beharrlich wiederholt.
+
+
+
+
+
 ### § 20 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer als gesetzlicher Vertreter (§ 4 Abs. 1
@@ -702,22 +729,22 @@ Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
 
 
     b)  des § 253 Abs. 1 Satz 1, 2, 3 oder Satz 4, Abs. 2 Satz 1, auch in
-        Verbindung mit Satz 2, Abs. 3 Satz 1, 2 oder 3, Abs. 4 oder Abs. 5 des
-        Handelsgesetzbuchs über die Bewertung;
+        Verbindung mit Satz 2, Absatz 3 Satz 1, 2, 3, 4 oder Satz 5, Abs. 4
+        oder Abs. 5 des Handelsgesetzbuchs über die Bewertung;
 
 
     c)  (weggefallen)
 
 
-    d)  des § 5 Abs. 1 Satz 2 in Verbindung mit einer Vorschrift des § 265
-        Abs. 2, 3, 4 oder 6, der §§ 266, 268 Abs. 2, 3, 4, 5, 6 oder 7, der §§
-        272, 274 oder des § 275 oder des § 277 des Handelsgesetzbuchs über die
-        Gliederung oder
+    d)  des § 5 Abs. 1 Satz 2 in Verbindung mit einer Vorschrift des § 264
+        Absatz 1a, des § 265 Abs. 2, 3, 4 oder 6, der §§ 266, 268 Absatz 3, 4,
+        5, 6 oder Absatz 7, der §§ 272, 274 oder des § 275 oder des § 277 des
+        Handelsgesetzbuchs über die Gliederung oder
 
 
-    e)  des § 5 Abs. 2 Satz 2 in Verbindung mit § 284 oder des § 285 Nr. 1 bis
-        5, 7 bis 13, 17 bis 29 des Handelsgesetzbuchs über die im Anhang zu
-        machenden Angaben,
+    e)  des § 5 Abs. 2 Satz 2 in Verbindung mit § 284 oder des § 285 Nummer 1
+        bis 4, 7 bis 13, 15a, 17 bis 33 oder Nummer 34 des Handelsgesetzbuchs
+        über die im Anhang zu machenden Angaben,
 
 
 
@@ -730,10 +757,10 @@ Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
     a)  des § 294 Abs. 1 des Handelsgesetzbuchs über den Konsolidierungskreis,
 
 
-    b)  des § 297 Abs. 2 oder 3 oder des § 298 Abs. 1 in Verbindung mit den §§
-        244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, des § 250 Abs.
-        1 oder Abs. 2 oder dem § 251 des Handelsgesetzbuchs über Inhalt oder
-        Form des Konzernabschlusses,
+    b)  des § 297 Absatz 1a, 2 oder 3 oder des § 298 Abs. 1 in Verbindung mit
+        den §§ 244, 245, 246, 247, 248, 249 Abs. 1 Satz 1 oder Abs. 2, des §
+        250 Abs. 1 oder Abs. 2 oder dem § 251 des Handelsgesetzbuchs über
+        Inhalt oder Form des Konzernabschlusses,
 
 
     c)  des § 300 des Handelsgesetzbuchs über die Konsolidierungsgrundsätze
@@ -750,7 +777,7 @@ Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
 
 
     f)  des § 308 Abs. 1 Satz 3, des § 313 oder des § 314 des
-        Handelsgesetzbuchs über die im Anhang zu machenden Angaben,
+        Handelsgesetzbuchs über die im Konzernanhang zu machenden Angaben,
 
 
 
@@ -763,8 +790,8 @@ Einzelkaufmann als Inhaber oder dessen gesetzlicher Vertreter,
 
 4.  bei der Aufstellung des Konzernlageberichts oder des
     Teilkonzernlageberichts der Vorschrift des § 13 Abs. 2 Satz 3 in
-    Verbindung mit § 315 Abs. 1 des Handelsgesetzbuchs über den Inhalt des
-    Konzernlageberichts,
+    Verbindung mit § 315 Absatz 1, auch in Verbindung mit Absatz 3, des
+    Handelsgesetzbuchs über den Inhalt des Konzernlageberichts,
 
 
 5.  bei der Offenlegung, Veröffentlichung oder Vervielfältigung einer
@@ -786,12 +813,57 @@ Abs. 2 die dort vorgeschriebene Erklärung beim Betreiber des
 Bundesanzeigers oder der Aufsichtsbehörde nicht oder nicht rechtzeitig
 einreicht.
 
+(2a) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach
+§ 7 Satz 5 oder als Mitglied eines nach § 6 Absatz 1 Satz 2 in
+Verbindung mit § 324 Absatz 1 Satz 1 des Handelsgesetzbuchs oder nach
+§ 7 Satz 6 eingerichteten Prüfungsausschusses eines Unternehmens, das
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs ist,
+
+1.  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
+    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
+    5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der
+    Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über spezifische Anforderungen an die
+    Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
+    Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
+    27\.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+
+2.  eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer
+    Prüfungsgesellschaft vorlegt, die den Anforderungen nach Artikel 16
+    Absatz 2 Unterabsatz 2 oder 3 der Verordnung (EU) Nr. 537/2014 nicht
+    entspricht oder der ein Auswahlverfahren nach Artikel 16 Absatz 3
+    Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht vorangegangen
+    ist.
+
+
+
+
+(2b) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach
+§ 7 Satz 5, der keinen Prüfungsausschuss eingerichtet hat, oder als
+Mitglied eines nach § 6 Absatz 1 Satz 2 in Verbindung mit § 324 Absatz
+1 Satz 1 des Handelsgesetzbuchs eingerichteten Prüfungsausschusses
+eines in Absatz 2a genannten Unternehmens den Gesellschaftern oder der
+sonst für die Bestellung des Abschlussprüfers zuständigen Stelle einen
+Vorschlag für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
+Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
+entspricht.
+
+(2c) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats nach
+§ 7 Satz 5, der einen Prüfungsausschuss eingerichtet hat, eines in
+Absatz 2a genannten Unternehmens den Gesellschaftern oder der sonst
+für die Bestellung des Abschlussprüfers zuständigen Stelle einen
+Vorschlag für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
+Absatz 5 Unterabsatz 1 oder Unterabsatz 2 Satz 1 oder Satz 2 der
+Verordnung (EU) Nr. 537/2014 nicht entspricht.
+
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
-(4) Verwaltungsbehörde im Sinn des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten ist in den Fällen der Absätze 1 und 2 das
-Bundesamt für Justiz.
+(4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
+über Ordnungswidrigkeiten ist das Bundesamt für Justiz.
 
 
 ### § 21 Festsetzung von Ordnungsgeld
@@ -804,8 +876,23 @@ des Lageberichts, des Konzernabschlusses, des Konzernlageberichts, des
 Teilkonzernabschlusses oder des Teilkonzernlageberichts im
 Bundesanzeiger nicht befolgen, ist wegen des pflichtwidrigen
 Unterlassens der Offenlegung vom Bundesamt für Justiz ein Ordnungsgeld
-nach § 335 des Handelsgesetzbuchs festzusetzen. § 335 Abs. 1 Satz 2
-des Handelsgesetzbuchs ist entsprechend anzuwenden.
+festzusetzen. Die §§ 335 bis 335b des Handelsgesetzbuchs sind
+entsprechend anzuwenden.
+
+
+### § 21a Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Das Bundesamt für Justiz übermittelt der
+Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
+Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 20 Absatz 2a bis
+2c.
+
+(2) In Strafverfahren, die eine Straftat nach § 19a zum Gegenstand
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
+öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
+Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
+das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### § 22 Erstmalige Anwendung geänderter Vorschriften
@@ -859,6 +946,32 @@ Handelsgesetzbuchs bezogenen Übergangsregelungen des Artikels 66 Abs.
 3 und 5 des Einführungsgesetzes zum Handelsgesetzbuch entsprechend
 anzuwenden. Das Gleiche gilt für Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch.
+
+(4) Für § 21 in der durch das Gesetz zur Änderung des
+Handelsgesetzbuchs vom 4. Oktober 2013 (BGBl. I S. 3746) geänderten
+Fassung gilt Artikel 70 Absatz 3 des Einführungsgesetzes zum
+Handelsgesetzbuch entsprechend.
+
+(5) Die §§ 5, 9, 11, 13 Absatz 3 und 4 sowie die §§ 14, 17 und 20 in
+der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015
+(BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschlüsse für
+Geschäftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen.
+Auf vor dem 1. Januar 2016 beginnende Geschäftsjahre bleiben die §§ 5,
+9, 11, 13, 14, 17 und 20 in der bis zum 22. Juli 2015 geltenden
+Fassung anwendbar.
+
+(6) § 7 Satz 5 und 6 muss so lange nicht angewandt werden, wie alle
+Mitglieder des Aufsichtsrats und des Prüfungsausschusses vor dem 17.
+Juni 2016 bestellt worden sind.
+
+(7) Die §§ 11, 13, 17 und 20 in der Fassung des CSR-Richtlinie-
+Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals
+auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für
+das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden.
+Die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017
+geltenden Fassung sind letztmals anzuwenden auf Lage- und
+Konzernlageberichte für das vor dem 1. Januar 2017 beginnende
+Geschäftsjahr.
 
 
 ### § 23 Inkrafttreten

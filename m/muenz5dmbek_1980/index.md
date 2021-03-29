@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Otto Hahn-Gedenkmünze)
 jurabk: Münz5DMBek 1980
 layout: default
-origslug: m_nz5dmbek_1980
+origslug: muenz5dmbek_1980
 slug: muenz5dmbek_1980
 
 ---

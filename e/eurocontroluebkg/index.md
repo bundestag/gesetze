@@ -3,7 +3,7 @@ Title: Gesetz zu dem Internationalen Übereinkommen vom 13. Dezember 1960 über 
   zur Sicherung der Luftfahrt "EUROCONTROL"
 jurabk: EUROCONTROLÜbkG
 layout: default
-origslug: eurocontrol_bkg
+origslug: eurocontroluebkg
 slug: eurocontroluebkg
 
 ---

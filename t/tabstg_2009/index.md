@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 57 G v. 22.12.2011 I 3044
+:   Art. 5 G v. 27.8.2017 I 3299 mWv 1.1.2018
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -31,30 +31,23 @@ eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
 (2) Tabakwaren sind
 
-1.  Zigarren oder Zigarillos: als solche zum Rauchen geeignete, mit einem
-    Deckblatt oder mit einem Deckblatt und einem Umblatt umhüllte
-    Tabakstränge
+1.  Zigarren oder Zigarillos: als solche zum Rauchen geeignete und auf
+    Grund ihrer Eigenschaften und der normalen Verbrauchererwartungen
+    ausschließlich dafür bestimmte, mit einem Deckblatt oder mit einem
+    Deckblatt und einem Umblatt umhüllte Tabakstränge
 
     a)  ganz aus natürlichem Tabak,
 
 
-    b)  mit einem Deckblatt aus natürlichem Tabak,
+    b)  mit einem äußeren Deckblatt aus natürlichem Tabak,
 
 
-    c)  gefüllt mit entripptem Mischtabak, mit einem zigarrenfarbenen
-        Deckblatt und einem Umblatt, beide aus rekonstituiertem Tabak, wobei
-        das äußere Deckblatt das Erzeugnis vollständig umhüllt, gegebenenfalls
-        auch den Filter, nicht aber das Mundstück, wenn ihr Stückgewicht 1,2
-        Gramm oder mehr beträgt und das Deckblatt spiralenförmig mit einem
-        spitzen Winkel zur Längsachse des Tabakstrangs von mindestens 30 Grad
-        aufgelegt ist, oder
-
-
-    d)  gefüllt mit entripptem Mischtabak, mit einem äußeren zigarrenfarbenen
-        Deckblatt aus rekonstituiertem Tabak, das das Erzeugnis vollständig
-        umhüllt, gegebenenfalls auch den Filter, nicht aber das Mundstück,
-        wenn ihr Stückgewicht 2,3 Gramm oder mehr und ihr Umfang auf
-        mindestens einem Drittel ihrer Länge 34 Millimeter oder mehr beträgt;
+    c)  gefüllt mit gerissenem Mischtabak, mit einem äußeren Deckblatt von
+        normaler Zigarrenfarbe aus rekonstituiertem Tabak, das das Erzeugnis
+        vollständig umhüllt, gegebenenfalls auch den Filter, nicht aber das
+        Mundstück, wenn ihr Stückgewicht mindestens 2,3 Gramm und höchstens 10
+        Gramm und ihr Umfang auf mindestens einem Drittel ihrer Länge 34
+        Millimeter oder mehr beträgt;
 
 
 
@@ -86,7 +79,7 @@ eine Verbrauchsteuer im Sinn der Abgabenordnung.
 
 (3) Stückgewicht nach Absatz 2 Nummer 1 Buchstabe c und d ist das
 Durchschnittsgewicht von
-1 000 Stück              ohne Filter und Mundstück im Zeitpunkt der
+1 000 Stück ohne Filter und Mundstück im Zeitpunkt der
 Steuerentstehung.
 
 (4) Tabakabfälle sind Rauchtabak, wenn sie zum Rauchen geeignet und
@@ -103,11 +96,9 @@ der Tabakteile weniger als 1,5 Millimeter lang oder breit sind.
 (6) Pfeifentabak gilt als Feinschnitt, wenn er dazu bestimmt ist, zur
 Selbstfertigung von Zigaretten verwendet zu werden.
 
-(7) Als Zigarren oder Zigarillos gelten Erzeugnisse mit einem
-Deckblatt aus natürlichem oder rekonstituiertem Tabak oder mit einem
-Deckblatt und einem Umblatt aus rekonstituiertem Tabak, die im Übrigen
-statt aus Tabak ganz oder teilweise aus anderen Stoffen bestehen und
-die sonstigen Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
+(7) Als Zigarren oder Zigarillos gelten Erzeugnisse, die statt aus
+Tabak teilweise aus anderen Stoffen bestehen und die die sonstigen
+Voraussetzungen nach Absatz 2 Nummer 1 erfüllen.
 
 (8) Als Zigaretten oder Rauchtabak gelten Erzeugnisse, die statt aus
 Tabak ganz oder teilweise aus anderen Stoffen bestehen und die
@@ -199,9 +190,8 @@ festzulegen.
 3.  für Feinschnitt
 
     a)  vorbehaltlich der Buchstaben b bis g
-        48,49 Euro                          je Kilogramm und 14,76 Prozent des
-        Kleinverkaufspreises, mindestens den Betrag, der sich aus Absatz 3
-        ergibt;
+        48,49 Euro je Kilogramm und 14,76 Prozent des Kleinverkaufspreises,
+        mindestens den Betrag, der sich aus Absatz 3 ergibt;
 
 
     b)  bis 30. April 2011 34,06 Euro je Kilogramm und 18,57 Prozent des
@@ -367,8 +357,8 @@ Kleinverkaufswert für Zigaretten oder Feinschnitt, geteilt durch die
 dort angegebene Menge an Zigaretten oder Feinschnitt, berechnet und
 unter Durchschnittspreise ausgewiesen wird. Der Abschnitt 1.3 ist der
 vom Statistischen Bundesamt unter
-www-ec.destatis.de              veröffentlichten Fachserie 14, Reihe
-9\.1.1 zu entnehmen.
+www-ec.destatis.de veröffentlichten Fachserie 14, Reihe 9.1.1 zu
+entnehmen.
 
 (8) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Erleichterung der
@@ -1327,19 +1317,19 @@ berücksichtigen:
 
 
 
-(3) Ab 1. Januar 2014 sind Zigaretten, die Privatpersonen in den
-Republiken Bulgarien, Estland, Griechenland, Lettland, Litauen,
-Ungarn, Polen oder Rumänien im steuerrechtlich freien Verkehr für
-ihren Eigenbedarf erwerben und selbst in das Steuergebiet befördern,
-vorbehaltlich des vorzeitigen Erreichens der globalen Verbrauchsteuer
-im Sinn des Artikels 2 der Richtlinie 92/79/EWG durch einen der
-genannten Mitgliedstaaten nur bis zu einer Menge von 300 Stück
-steuerfrei. Werden die Mengenbegrenzungen des Satzes 1 überschritten,
-gelten die darüber hinaus verbrachten Mengen als zu gewerblichen
-Zwecken verbracht. Das vorzeitige Erreichen der globalen
-Verbrauchsteuer nach Satz 1 durch einen der in Satz 1 genannten
-Mitgliedstaaten macht das Bundesministerium der Finanzen durch
-gesondertes Schreiben im Bundesanzeiger bekannt.
+(3) Bis zum 31. Dezember 2017 sind Zigaretten, die Privatpersonen in
+den Republiken Bulgarien, Kroatien, Lettland, Litauen, Ungarn oder
+Rumänien im steuerrechtlich freien Verkehr für ihren Eigenbedarf
+erwerben und selbst in das Steuergebiet befördern, vorbehaltlich des
+vorzeitigen Erreichens der globalen Verbrauchsteuer im Sinne des
+Artikels 10 der Richtlinie 2011/64/EU durch einen der genannten
+Mitgliedstaaten, nur bis zu einer Menge von 300 Stück steuerfrei.
+Werden die Mengenbegrenzungen des Satzes 1 überschritten, gelten die
+darüber hinaus verbrachten Mengen als zu gewerblichen Zwecken
+verbracht. Das vorzeitige Erreichen der globalen Verbrauchsteuer nach
+Satz 1 durch einen der in Satz 1 genannten Mitgliedstaaten macht das
+Bundesministerium der Finanzen durch gesondertes Schreiben im
+Bundesanzeiger bekannt.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
@@ -1422,9 +1412,7 @@ nur zulässig, wenn der Preis für die abgegebene Menge, der sich aus
 dem Kleinverkaufspreis ergibt, nicht auf Bruchteile eines Cents
 lautet. Ein Stückverkauf von Zigaretten ist unzulässig.
 
-(2) Bei Abgabe zum Verbrauch im Steuergebiet darf der Inhalt einer
-Kleinverkaufspackung für Zigaretten 19 Stück und der Inhalt einer
-Kleinverkaufspackung für Feinschnitt 30 Gramm nicht unterschreiten.
+(2) (weggefallen)
 
 
 ### § 26 Verbot der Abgabe unter Kleinverkaufspreis
@@ -1798,17 +1786,32 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-4.  zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+4.  im Benehmen mit dem Bundesministerium des Innern alternativ zur
+    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren
+    zuzulassen, das den Datenübermittler authentifiziert und die
+    Vertraulichkeit und Integrität des elektronisch übermittelten
+    Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung
+    gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von
+    der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens
+    vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung
+    auch durch Verweis auf Veröffentlichungen sachverständiger Stellen
+    geregelt werden;
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+5.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -1817,41 +1820,33 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist;
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
 
-5.  Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
+6.  Vorschriften über die Gestaltung der Steuerzeichen zu erlassen;
 
 
-6.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
+7.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
     ergeben.
 
@@ -1902,9 +1897,8 @@ Abgabenordnung handelt, wer vorsätzlich oder leichtfertig
     andere Gegenstände beipackt,
 
 
-3.  einer Vorschrift des § 25 Absatz 1 Satz 1, Satz 2 oder Satz 4 bis 6
-    oder Absatz 2 über Packungen im Handel oder den Stückverkauf
-    zuwiderhandelt,
+3.  einer Vorschrift des § 25 Satz 1, Satz 2 oder Satz 4 bis 6 über
+    Packungen im Handel oder den Stückverkauf zuwiderhandelt,
 
 
 4.  entgegen § 26 Absatz 1 den Packungspreis oder den Kleinverkaufspreis

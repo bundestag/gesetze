@@ -2,7 +2,7 @@
 Title: Bundesärzteordnung
 jurabk: BÄO
 layout: default
-origslug: b_o
+origslug: baeo
 slug: baeo
 
 ---
@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 1857
 
 Neugefasst durch
-:   Bek. v. 16.4.1987 I 1218
+:   Bek. v. 16.4.1987 I 1218;
 
 Zuletzt geändert durch
-:   Art. 29 G v. 6.12.2011 I 2515
+:   Art. 5 G v. 23.12.2016 I 3191
 
 
 ## I. - Der ärztliche Beruf
@@ -94,11 +94,11 @@ Antragsteller
 
 
 4.  nach einem Studium der Medizin an einer wissenschaftlichen Hochschule
-    von mindestens sechs Jahren, von denen mindestens acht, höchstens
-    zwölf Monate auf eine praktische Ausbildung in Krankenhäusern oder
-    geeigneten Einrichtungen der ärztlichen Krankenversorgung entfallen
-    müssen, die ärztliche Prüfung im Geltungsbereich dieses Gesetzes
-    bestanden hat,
+    von mindestens 5 500 Stunden und einer Dauer von mindestens sechs
+    Jahren, von denen mindestens acht, höchstens zwölf Monate auf eine
+    praktische Ausbildung in Krankenhäusern oder geeigneten Einrichtungen
+    der ärztlichen Krankenversorgung entfallen müssen, die ärztliche
+    Prüfung im Geltungsbereich dieses Gesetzes bestanden hat,
 
 
 5.  über die für die Ausübung der Berufstätigkeit erforderlichen
@@ -109,52 +109,53 @@ Antragsteller
 Eine in einem der übrigen Mitgliedstaaten der Europäischen Union oder
 in einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum abgeschlossene ärztliche Ausbildung gilt als
-Ausbildung im Sinne der Nummer 4, wenn sie durch Vorlage eines nach
-dem 20. Dezember 1976 ausgestellten, in der Anlage zu diesem Gesetz
-aufgeführten ärztlichen Ausbildungsnachweises eines der übrigen
-Mitgliedstaaten der Europäischen Union oder eines in der Anlage zu
-diesem Gesetz aufgeführten, nach dem 31. Dezember 1992 ausgestellten
-ärztlichen Ausbildungsnachweises eines anderen Vertragsstaates des
-Abkommens über den Europäischen Wirtschaftsraum nachgewiesen wird. Bei
-ärztlichen Ausbildungsnachweisen von nach dem 20. Dezember 1976 der
-Europäischen Union beigetretenen Mitgliedstaaten wird auf eine
-Ausbildung abgestellt, die nach dem entsprechenden Datum begonnen
-wurde; hierfür gilt das Datum des Beitritts oder, bei abweichender
-Vereinbarung, das hiernach maßgebende Datum, bei ärztlichen
-Ausbildungsnachweisen eines anderen Vertragsstaates des Abkommens über
-den Europäischen Wirtschaftsraum, mit dem eine besondere Vereinbarung
-zum Zeitpunkt der Geltung der Verpflichtungen aus den Richtlinien
-75/362/EWG und 75/363/EWG des Rates vom 16. Juni 1975 (ABl. EG Nr. L
-167 S. 1 und S. 14) getroffen worden ist, das hiernach maßgebende
-Datum. Sätze 2 und 3 gelten entsprechend für Ausbildungsnachweise von
-Vertragsstaaten, denen Deutschland und die Europäische Gemeinschaft
+Ausbildung im Sinne der Nummer 4, wenn sie durch Vorlage eines
+Europäischen Berufsausweises, eines nach dem 20. Dezember 1976
+ausgestellten, in der Anlage zu diesem Gesetz aufgeführten ärztlichen
+Ausbildungsnachweises eines der übrigen Mitgliedstaaten der
+Europäischen Union oder eines in der Anlage zu diesem Gesetz
+aufgeführten, nach dem 31. Dezember 1992 ausgestellten ärztlichen
+Ausbildungsnachweises eines anderen Vertragsstaates des Abkommens über
+den Europäischen Wirtschaftsraum nachgewiesen wird. Bei ärztlichen
+Ausbildungsnachweisen von nach dem 20. Dezember 1976 der Europäischen
+Union beigetretenen Mitgliedstaaten wird auf eine Ausbildung
+abgestellt, die nach dem entsprechenden Datum begonnen wurde; hierfür
+gilt das Datum des Beitritts oder, bei abweichender Vereinbarung, das
+hiernach maßgebende Datum, bei ärztlichen Ausbildungsnachweisen eines
+anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum, mit dem eine besondere Vereinbarung zum Zeitpunkt der
+Geltung der Verpflichtungen aus den Richtlinien 75/362/EWG und
+75/363/EWG des Rates vom 16. Juni 1975 (ABl. EG Nr. L 167 S. 1 und S.
+14) getroffen worden ist, das hiernach maßgebende Datum. Sätze 2 und 3
+gelten entsprechend für Ausbildungsnachweise von Vertragsstaaten,
+denen Deutschland und die Europäische Gemeinschaft oder Deutschland
+und die Europäische Union vertraglich einen entsprechenden
+Rechtsanspruch eingeräumt haben, ab dem hierfür maßgebenden Zeitpunkt.
+Das Bundesministerium für Gesundheit wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+Anlage zu diesem Gesetz späteren Änderungen von Anhang V Nummer 5.1.1
+der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
+vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
+(ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) anzupassen.
+Gleichwertig den in Satz 2 genannten ärztlichen Ausbildungsnachweisen
+sind nach dem in Satz 2, 3 oder 4 genannten Zeitpunkt von einem der
+übrigen Mitgliedstaaten der Europäischen Union oder einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+einem Vertragsstaat, dem Deutschland und die Europäische Gemeinschaft
 oder Deutschland und die Europäische Union vertraglich einen
-entsprechenden Rechtsanspruch eingeräumt haben, ab dem hierfür
-maßgebenden Zeitpunkt. Das Bundesministerium für Gesundheit wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die Anlage zu diesem Gesetz späteren Änderungen
-von Anhang V Nummer 5.1.1 der Richtlinie 2005/36/EG des Europäischen
-Parlaments und des Rates vom 7. September 2005 über die Anerkennung
-von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S.
-18) anzupassen. Gleichwertig den in Satz 2 genannten ärztlichen
-Ausbildungsnachweisen sind nach dem in Satz 2, 3 oder 4 genannten
-Zeitpunkt von einem der übrigen Mitgliedstaaten der Europäischen Union
-oder einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum oder einem Vertragsstaat, dem Deutschland und die
-Europäische Gemeinschaft oder Deutschland und die Europäische Union
-vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
-ausgestellte ärztliche Ausbildungsnachweise, die den in der Anlage zu
-Satz 2 für den betreffenden Staat aufgeführten Bezeichnungen nicht
-entsprechen, aber mit einer Bescheinigung der zuständigen Behörde oder
-Stelle des Staates darüber vorgelegt werden, daß sie eine Ausbildung
-abschließen, die den Mindestanforderungen des Artikels 24 der
-Richtlinie 2005/36/EG entspricht, und daß sie den für diesen Staat in
-der Anlage zu Satz 2 aufgeführten Nachweisen gleichstehen. Eine
-Approbation wird nicht erteilt, wenn eine ärztliche Prüfung oder ein
-Abschnitt der ärztlichen Prüfung nach der Rechtsverordnung gemäß § 4
-Abs. 1 endgültig nicht bestanden wurde. Satz 7 findet keine Anwendung,
-wenn der Antragsteller einen nach der Richtlinie 2005/36/EG
-anzuerkennenden Ausbildungsnachweis besitzt.
+entsprechenden Rechtsanspruch eingeräumt haben, ausgestellte ärztliche
+Ausbildungsnachweise, die den in der Anlage zu Satz 2 für den
+betreffenden Staat aufgeführten Bezeichnungen nicht entsprechen, aber
+mit einer Bescheinigung der zuständigen Behörde oder Stelle des
+Staates darüber vorgelegt werden, daß sie eine Ausbildung abschließen,
+die den Mindestanforderungen des Artikels 24 der Richtlinie 2005/36/EG
+entspricht, und daß sie den für diesen Staat in der Anlage zu Satz 2
+aufgeführten Nachweisen gleichstehen. Eine Approbation wird nicht
+erteilt, wenn eine ärztliche Prüfung oder ein Abschnitt der ärztlichen
+Prüfung nach der Rechtsverordnung gemäß § 4 Abs. 1 endgültig nicht
+bestanden wurde. Satz 7 findet keine Anwendung, wenn der Antragsteller
+einen nach der Richtlinie 2005/36/EG anzuerkennenden
+Ausbildungsnachweis besitzt.
 
 (1a) Die zuständigen Behörden des Landes, in dem der ärztliche Beruf
 ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die
@@ -196,46 +197,47 @@ Ausbildungsstandes gegeben ist. Der Ausbildungsstand ist als
 gleichwertig anzusehen, wenn die Ausbildung des Antragstellers keine
 wesentlichen Unterschiede gegenüber der Ausbildung aufweist, die in
 diesem Gesetz und in der Rechtsverordnung nach § 4 Absatz 1 geregelt
-ist. Wesentliche Unterschiede nach Satz 1 liegen vor, wenn
+ist. Wesentliche Unterschiede nach Satz 2 liegen vor, wenn
 
-1.  die von den Antragstellern nachgewiesene Ausbildungsdauer mindestens
-    ein Jahr unter der in diesem Gesetz geregelten Ausbildungsdauer liegt,
-
-
-2.  die Ausbildung der Antragsteller sich auf Fächer bezieht, die sich
-    wesentlich von der deutschen Ausbildung unterscheiden, oder
+1.  die Ausbildung der Antragsteller sich hinsichtlich der beruflichen
+    Tätigkeit auf Fächer bezieht, die sich wesentlich von der deutschen
+    Ausbildung unterscheiden, oder
 
 
-3.  der Beruf des Arztes eine oder mehrere reglementierte Tätigkeiten
+2.  der Beruf des Arztes eine oder mehrere reglementierte Tätigkeiten
     umfasst, die in dem Staat, der den Ausbildungsnachweis ausgestellt
-    hat, nicht Bestandteil dieses Berufs sind, und dieser Unterschied in
-    einer besonderen Ausbildung besteht, die nach der deutschen Ausbildung
-    gefordert wird und sich auf Fächer bezieht, die sich wesentlich von
-    denen unterscheiden, die von dem Ausbildungsnachweis abgedeckt werden,
-    den die Antragsteller vorlegen.
+    hat, nicht Bestandteil des Berufs des Arztes sind, und sich die
+    deutsche Ausbildung auf Fächer bezieht, die sich wesentlich von denen
+    unterscheiden, die von dem Ausbildungsnachweis der Antragsteller
+    abgedeckt werden.
 
 
 
-Fächer unterscheiden sich wesentlich, wenn deren Kenntnis eine
-wesentliche Voraussetzung für die Ausübung des Berufs ist und die
-Ausbildung der Antragsteller gegenüber der deutschen Ausbildung
-bedeutende Abweichungen hinsichtlich Dauer oder Inhalt aufweist.
-Wesentliche Unterschiede können ganz oder teilweise durch Kenntnisse
-ausgeglichen werden, die die Antragsteller im Rahmen ihrer ärztlichen
-Berufspraxis erworben haben; dabei ist es nicht entscheidend, in
-welchem Staat die Antragsteller berufstätig waren. Liegen wesentliche
+Fächer unterscheiden sich wesentlich, bei denen Kenntnis und
+Fähigkeiten eine wesentliche Voraussetzung für die Ausübung des Berufs
+sind und bei denen die Ausbildung der Antragsteller gegenüber der
+deutschen Ausbildung wesentliche Abweichungen hinsichtlich des Inhalts
+aufweist. Wesentliche Unterschiede können ganz oder teilweise durch
+Kenntnisse und Fähigkeiten ausgeglichen werden, die die Antragsteller
+im Rahmen ihrer ärztlichen Berufspraxis in Voll- oder Teilzeit oder
+durch lebenslanges Lernen erworben haben, sofern die durch
+lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von einer
+dafür in dem jeweiligen Staat zuständigen Stelle formell als gültig
+anerkannt wurden; dabei ist nicht entscheidend, in welchem Staat diese
+Kenntnisse und Fähigkeiten erworben worden sind. Liegen wesentliche
 Unterschiede nach den Sätzen 3 bis 5 vor, müssen die Antragsteller
 nachweisen, dass sie über die Kenntnisse und Fähigkeiten verfügen, die
 zur Ausübung des Berufs des Arztes erforderlich sind. Dieser Nachweis
 ist durch eine Eignungsprüfung zu erbringen, die sich auf die
 festgestellten wesentlichen Unterschiede bezieht. Über die
-Feststellung der wesentlichen Unterschiede ist den Antragstellern
-spätestens vier Monate, nachdem der zuständigen Behörde alle
-erforderlichen Unterlagen vorliegen, ein rechtsmittelfähiger Bescheid
-zu erteilen. Die Sätze 2 bis 8 gelten auch für Antragsteller, die über
-einen Ausbildungsnachweis als Arzt verfügen, der in einem anderen als
-den in Satz 1 genannten Staaten (Drittstaat) ausgestellt ist und den
-ein anderer der in Satz 1 genannten Staaten anerkannt hat.
+Feststellung der wesentlichen Unterschiede, die zur Auferlegung einer
+Eignungsprüfung führt, ist den Antragstellern spätestens vier Monate,
+nachdem der zuständigen Behörde alle erforderlichen Unterlagen
+vorliegen, ein rechtsmittelfähiger Bescheid zu erteilen. Die Sätze 2
+bis 8 gelten auch für Antragsteller, die über einen
+Ausbildungsnachweis als Arzt verfügen, der in einem anderen als den in
+Satz 1 genannten Staaten (Drittstaat) ausgestellt ist und den ein
+anderer der in Satz 1 genannten Staaten anerkannt hat.
 
 (3) Ist die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 nicht
 erfüllt, so ist Antragstellern, die über einen Ausbildungsnachweis als
@@ -252,6 +254,15 @@ zeitlichen oder sachlichen Aufwand möglich ist, weil die
 erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der
 Person der Antragsteller liegen, von diesen nicht vorgelegt werden
 können.
+
+(3a) Wird die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, sollen die Voraussetzungen der
+Gleichwertigkeit der Berufsqualifikation nach den Absätzen 2 oder 3
+vor den Voraussetzungen nach Absatz 1 Satz 1 Nummer 2, 3 und 5 geprüft
+werden. Auf Antrag ist dem Antragsteller ein gesonderter Bescheid über
+die Feststellung der Gleichwertigkeit seiner Berufsqualifikation zu
+erteilen.
 
 (4) Soll die Erteilung der Approbation wegen Fehlens einer der
 Voraussetzungen nach Absatz 1 Satz 1 Nr. 2 und 3 abgelehnt werden, so
@@ -359,6 +370,13 @@ und Bescheinigungen vorzulegen:
 
 
 
+Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung
+des Antragstellers zur Ausübung des ärztlichen Berufs, können sie von
+den zuständigen Behörden eines Mitgliedstaates eine Bestätigung
+verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung
+des ärztlichen Berufs nicht aufgrund eines schwerwiegenden
+standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer
+Handlungen dauerhaft oder vorübergehend untersagt worden ist.
 
 (7) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -425,8 +443,9 @@ worden ist.
 Voraussetzungen des § 3 Absatz 1 Satz 1 Nummer 2 und 3, insbesondere
 für die vom Antragsteller vorzulegenden Nachweise und die Ermittlung
 durch die zuständigen Behörden, entsprechend den Artikeln 8, 50, 51,
-und 56 der Richtlinie 2005/36/EG, sowie die Fristen für die Erteilung
-der Approbation als Arzt zu regeln.
+und 56 der Richtlinie 2005/36/EG, die Fristen für die Erteilung der
+Approbation als Arzt und das Verfahren zur Ausstellung eines
+Europäischen Berufsausweises zu regeln.
 
 (6a) In der Rechtsverordnung sind Regelungen zu Durchführung und
 Inhalt der Eignungsprüfung nach § 3 Absatz 2 und der Kenntnisprüfung
@@ -487,12 +506,18 @@ Satz 1 Nr. 3 weggefallen ist.
 3.  Zweifel bestehen, ob die Voraussetzung des § 3 Abs. 1 Satz 1 Nr. 3
     noch erfüllt ist und der Arzt sich weigert, sich einer von der
     zuständigen Behörde angeordneten amts- oder fachärztlichen
-    Untersuchung zu unterziehen oder
+    Untersuchung zu unterziehen,
 
 
 4.  sich ergibt, dass der Arzt nicht über die Kenntnisse der deutschen
     Sprache verfügt, die für die Ausübung der Berufstätigkeit in
-    Deutschland erforderlich sind.
+    Deutschland erforderlich sind oder
+
+
+5.  sich ergibt, dass der Arzt nicht ausreichend gegen die sich aus seiner
+    Berufsausübung ergebenden Haftpflichtgefahren versichert ist, sofern
+    kraft Landesrechts oder kraft Standesrechts eine Pflicht zur
+    Versicherung besteht.
 
 
 
@@ -535,6 +560,108 @@ werden. Personen, denen die Erlaubnis erteilt worden ist, haben im
 Auf die Approbation kann durch schriftliche Erklärung gegenüber der
 zuständigen Behörde verzichtet werden. Ein Verzicht, der unter einer
 Bedingung erklärt wird, ist unwirksam.
+
+
+### § 9a
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf, die Rücknahme oder das Ruhen der Approbation oder der
+    Erlaubnis, die sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  die sofort vollziehbare oder unanfechtbare Einschränkung der Ausübung
+    des ärztlichen Berufs,
+
+
+3.  den Verzicht auf die Approbation oder die Erlaubnis,
+
+
+4.  das Verbot der Ausübung des ärztlichen Berufs durch unanfechtbare
+    gerichtliche Entscheidung oder
+
+
+5.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1, 2 oder Nummer 4, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 5 oder nach einem Verzicht nach Absatz 1 Nummer 3. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Approbation oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## III. - Die Erlaubnis
@@ -711,12 +838,17 @@ folgende Dokumente vorzulegen:
 
 
 2.  eine Bescheinigung darüber, dass er in einem Mitgliedstaat rechtmäßig
-    als Arzt niedergelassen ist und dass ihm die Ausübung dieses Berufs
-    zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
-    vorübergehend, untersagt ist, und
+    als Arzt niedergelassen ist, ihm die Ausübung dieses Berufs zum
+    Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
+    vorübergehend, untersagt ist, und keine Vorstrafen vorliegen,
 
 
-3.  seinen Berufsqualifikationsnachweis.
+3.  seinen Berufsqualifikationsnachweis und
+
+
+4.  eine Erklärung des Dienstleistungserbringers, dass er über die zur
+    Erbringung der Dienstleistung erforderlichen Kenntnisse der deutschen
+    Sprache verfügt.
 
 
 
@@ -735,33 +867,33 @@ Disziplinarbestimmungen unterworfen werden; zu diesen Bestimmungen
 gehören etwa Regelungen für die Definition des Berufs, das Führen von
 Titeln und schwerwiegende berufliche Fehler in unmittelbarem und
 speziellem Zusammenhang mit dem Schutz und der Sicherheit der
-Verbraucher. Die zuständigen Behörden können von den zuständigen
-Behörden des Niederlassungsmitgliedstaats für jede Erbringung einer
-Dienstleistung alle Informationen über die Rechtmäßigkeit der
-Niederlassung und die gute Führung des Dienstleisters anfordern sowie
-Informationen über das Nichtvorliegen strafrechtlicher Sanktionen,
-einer Rücknahme, eines Widerrufs und einer Anordnung des Ruhens der
-Approbation oder Erlaubnis, über die nicht vorliegende Untersagung der
-Ausübung der Tätigkeit und über das Fehlen von Tatsachen, die eine
-dieser Sanktionen oder Maßnahmen rechtfertigen würden. Die
-Informationen sind nach Artikel 56 der Richtlinie 2005/36/EG zu
-übermitteln. Die zuständige Behörde unterrichtet unverzüglich die
-zuständige Behörde des Herkunftsmitgliedstaats über das Vorliegen der
-in Satz 3 genannten Sanktionen oder Maßnahmen, die sich auf die
-Ausübung der von der Richtlinie 2005/36/EG erfassten Tätigkeiten
-auswirken könnten. Dabei sind die Vorschriften zum Schutz
-personenbezogener Daten einzuhalten. Auf Anforderung der zuständigen
-Behörden eines anderen Mitgliedstaats der Europäischen Union oder
-eines anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die
-Europäische Gemeinschaft oder Deutschland und die Europäische Union
-vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
-haben die zuständigen Behörden in Deutschland nach Artikel 56 der
-Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über
-die Rechtmäßigkeit der Niederlassung und die gute Führung des
-Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
-übermitteln.
+Verbraucher. Die zuständigen Behörden können bei berechtigten Zweifeln
+von den zuständigen Behörden des Niederlassungsmitgliedstaats für jede
+Erbringung einer Dienstleistung alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters anfordern sowie Informationen über das Nichtvorliegen
+strafrechtlicher Sanktionen, einer Rücknahme, eines Widerrufs und
+einer Anordnung des Ruhens der Approbation oder Erlaubnis, über die
+nicht vorliegende Untersagung der Ausübung der Tätigkeit und über das
+Fehlen von Tatsachen, die eine dieser Sanktionen oder Maßnahmen
+rechtfertigen würden. Die Informationen sind nach Artikel 56 der
+Richtlinie 2005/36/EG zu übermitteln. Die zuständige Behörde
+unterrichtet unverzüglich die zuständige Behörde des
+Herkunftsmitgliedstaats über das Vorliegen der in Satz 3 genannten
+Sanktionen oder Maßnahmen, die sich auf die Ausübung der von der
+Richtlinie 2005/36/EG erfassten Tätigkeiten auswirken könnten. Dabei
+sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten.
+Auf Anforderung der zuständigen Behörden eines anderen Mitgliedstaats
+der Europäischen Union oder eines anderen Vertragsstaates des
+Abkommens über den Europäischen Wirtschaftsraum oder eines
+Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder
+Deutschland und die Europäische Union vertraglich einen entsprechenden
+Rechtsanspruch eingeräumt haben, haben die zuständigen Behörden in
+Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
+Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
+und die gute Führung des Dienstleisters sowie Informationen darüber,
+dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
+Sanktionen vorliegen, zu übermitteln.
 
 (4) Einem Staatsangehörigen eines Mitgliedstaates der Europäischen
 Union oder eines anderen Vertragsstaates des Abkommens über den
@@ -829,10 +961,13 @@ Antragsteller seine Ausbildung abgeschlossen hat.
 (3) Die Entscheidungen nach § 3 Absatz 1 bis 3, Absatz 6 Satz 3, § 10
 Absatz 1 bis 3 und 5, § 10a Absatz 1 und 2, § 14 Absatz 2 Satz 2 und
 Absatz 4 Satz 6 sowie nach § 14b trifft die zuständige Behörde des
-Landes, in dem der ärztliche Beruf ausgeübt werden soll. Die Länder
-können vereinbaren, dass die ihnen durch Satz 1 übertragenen Aufgaben
-von einem anderen Land oder von einer gemeinsamen Einrichtung
-wahrgenommen werden. § 10 Absatz 3 Satz 2 bleibt unberührt.
+Landes, in dem der ärztliche Beruf ausgeübt werden soll. Für das
+Verfahren zur Ausstellung eines Europäischen Berufsausweises ist die
+zuständige Behörde des Landes zuständig, in dem der ärztliche Beruf
+ausgeübt wird oder ausgeübt werden soll. Die Länder können
+vereinbaren, dass die ihnen durch Satz 1 übertragenen Aufgaben von
+einem anderen Land oder von einer gemeinsamen Einrichtung wahrgenommen
+werden. § 10 Absatz 3 Satz 2 bleibt unberührt.
 
 (4) Die Entscheidungen nach § 3 Abs. 1a Satz 2, §§ 5 und 6 trifft die
 zuständige Behörde des Landes, in dem der ärztliche Beruf ausgeübt
@@ -1101,7 +1236,8 @@ entsprechend.
 
 ### Anlage (zu § 3 Abs. 1 Satz 2)
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 2947 - 2950 )
+(Fundstelle: BGBl. I 2007, 2947 - 2950; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Land
 
@@ -1115,11 +1251,11 @@ entsprechend.
     *   Stichtag
 
 
-*    *   *                     /
+*    *   */
         Belgique/
         Belgien
 
-    *   Diploma van arts/*                      de docteur en médecine
+    *   Diploma van arts/* de docteur en médecine
 
     *
         –   Les universités/
@@ -1157,11 +1293,9 @@ entsprechend.
 *    *   *
         republika
 
-    *   Diplom o*                      studia ve*
-        programu*                      (doktor medicíny, MUDr.)
+    *   Diplom o* studia ve* programu* (doktor medicíny, MUDr.)
 
-    *   *                      fakulta univerzity v*
-        republice
+    *   * fakulta univerzity v* republice
 
     *
         –   *
@@ -1184,15 +1318,15 @@ entsprechend.
         *
 
     *
-        –   Autorisation som*                           ,
+        –   Autorisation som*,
             udstedt af
             Sundhedsstyrelsen og
 
 
         –   Tilladelse til
             selvstændigt virke som
-            *                            (doku-
-            mentation for*                            praktisk
+            * (doku-
+            mentation for* praktisk
             uddannelse), udstedt af
             Sundhedsstyrelsen
 
@@ -1204,7 +1338,7 @@ entsprechend.
 
 *    *   Eesti
 
-    *   Diplom arstiteaduse*                      läbimise kohta
+    *   Diplom arstiteaduse* läbimise kohta
 
     *   Tartu Ülikool
 
@@ -1254,13 +1388,24 @@ entsprechend.
 
 *    *   France
 
-    *   *                      d'Etat de docteur
+    *   * d'Etat de docteur
         en médecine
 
     *   Universités
 
     *
     *   20. Dezember 1976
+
+
+*    *   Hrvatska
+
+    *   Diploma „doktor medicine/doktorica medicine“
+
+    *   Medicinski fakulteti sveu*ilišta u
+        Republici Hrvatskoj
+
+    *
+    *   1. Juli 2013
 
 
 *    *   Ireland
@@ -1301,9 +1446,9 @@ entsprechend.
 
 *    *   Latvija
 
-    *   *                      diploms
+    *   * diploms
 
-    *   *                      tipa
+    *   * tipa
         augstskola
 
     *
@@ -1312,14 +1457,14 @@ entsprechend.
 
 *    *   Lietuva
 
-    *   *                      mokslo diplomas,
+    *   * mokslo diplomas,
         *
         *
 
     *   Universitetas
 
     *   *
-        *                     , nurodantis
+        *, nurodantis
         *
         *
         *
@@ -1329,7 +1474,7 @@ entsprechend.
 
 *    *   Luxembourg
 
-    *   *                      d'Etat de docteur
+    *   * d'Etat de docteur
         en médecine, chirurgie et
         accouchements,
 
@@ -1342,7 +1487,7 @@ entsprechend.
 
 *    *   Magyarország
 
-    *   *                      orvos oklevél
+    *   * orvos oklevél
         (doctor medicinae univer-
         sae, röv.: dr. med. univ.)
 
@@ -1355,12 +1500,12 @@ entsprechend.
 *    *   Malta
 
     *   Lawrja ta' Tabib tal-Medi-
-        *                      u*
+        * u*
 
-    *   *                      ta' Malta
+    *   * ta' Malta
 
     *   *
-        *                      mill-Kunsill Mediku
+        * mill-Kunsill Mediku
 
     *   1. Mai 2004
 
@@ -1413,7 +1558,7 @@ entsprechend.
 
 *    *   Polska
 
-    *   Dyplom*                      na kierunku
+    *   Dyplom* na kierunku
         lekarskim z*
 
     *
@@ -1454,7 +1599,7 @@ entsprechend.
 
 *    *   *
 
-    *   *                      de*                      de doctor medic
+    *   * de* de doctor medic
 
     *   *
 
@@ -1475,9 +1620,8 @@ entsprechend.
 
 *    *   Slovensko
 
-    *   *                      diplom o
-        *                      akademického titulu „doktor*
-        “ („MUDr.“)
+    *   * diplom o
+        * akademického titulu „doktor*“ („MUDr.“)
 
     *   Vysoká*
 

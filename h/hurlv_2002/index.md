@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1784
 
 Zuletzt geändert durch
-:   Art. 1 Nr. 1 bis 4 V v. 15.6.2010 I 792
+:   Art. 85 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -189,12 +189,13 @@ dienstlichen Gründen nicht zurückzukehren brauchen.
 
 ## § 6 Abschlagszahlung und Abrechnung der Fahrkosten
 
-Der Fahrkostenzuschuss ist rechtzeitig schriftlich vor Antritt der
-Reise bei der zuständigen inländischen Dienststelle zu beantragen. Auf
-Antrag ist vor Antritt eines Urlaubs eine Abschlagszahlung bis zur
-Höhe des nach § 4 Abs. 2 voraussichtlich zustehenden Betrages zu
-gewähren. Der Fahrkostenzuschuss ist innerhalb einer Ausschlussfrist
-von sechs Monaten nach Beendigung der Urlaubsreise abzurechnen.
+Der Fahrkostenzuschuss ist rechtzeitig schriftlich oder elektronisch
+vor Antritt der Reise bei der zuständigen inländischen Dienststelle zu
+beantragen. Auf Antrag ist vor Antritt eines Urlaubs eine
+Abschlagszahlung bis zur Höhe des nach § 4 Abs. 2 voraussichtlich
+zustehenden Betrages zu gewähren. Der Fahrkostenzuschuss ist innerhalb
+einer Ausschlussfrist von sechs Monaten nach Beendigung der
+Urlaubsreise abzurechnen.
 
 
 ## § 7

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1981, 795
 
 Zuletzt geändert durch
-:   Art. 23 V v. 13.12.2011 I 2720
+:   Art. 2 Abs. 21 G v. 6.6.2013 I 1482
 
 
 ## Eingangsformel
@@ -380,8 +380,8 @@ die nach den Bestimmungen dieser Verordnung hergestellt worden sind,
 oder Magermilchpulver, auch mit Vitaminen angereichert, nach einem
 dritten Land ausgeführt werden, sind sie der Zollstelle, in deren
 Bezirk das Lager, bei Verarbeitung oder Anreicherung mit Vitaminen der
-Verarbeitungsbetrieb, gelegen ist, zur Ausfuhrabfertigung nach § 9 der
-Außenwirtschaftsverordnung in der jeweils geltenden Fassung zu
+Verarbeitungsbetrieb, gelegen ist, zur Ausfuhrabfertigung nach § 12
+der Außenwirtschaftsverordnung in der jeweils geltenden Fassung zu
 gestellen oder anzumelden. Dabei ist ein Kontrollexemplar in zwei
 Stücken mit den nach den in § 1 Abs. 2 genannten Rechtsakten
 vorgeschriebenen Eintragungen vorzulegen, in dem anzugeben ist

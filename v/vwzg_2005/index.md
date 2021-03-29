@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2354
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 22.12.2011 I 3044
+:   Art. 11 Abs. 3 G v. 18.7.2017 I 2745
 
 
 
@@ -139,8 +139,8 @@ hierfür einen Zugang eröffnet. Es ist elektronisch zuzustellen, wenn
 auf Grund einer Rechtsvorschrift ein Verfahren auf Verlangen des
 Empfängers in elektronischer Form abgewickelt wird. Für die
 Übermittlung ist das Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen und gegen unbefugte
-Kenntnisnahme Dritter zu schützen.
+Signatur zu versehen und gegen unbefugte Kenntnisnahme Dritter zu
+schützen.
 
 (6) Bei der elektronischen Zustellung ist die Übermittlung mit dem
 Hinweis „Zustellung gegen Empfangsbekenntnis“ einzuleiten. Die
@@ -182,7 +182,7 @@ Behörde zu übermitteln.
 
 (3) Zum Nachweis der elektronischen Zustellung genügt die
 Abholbestätigung nach § 5 Absatz 9 des De-Mail-Gesetzes. Für diese
-gelten § 371 Absatz 1 Satz 2 und § 371a Absatz 2 der
+gelten § 371 Absatz 1 Satz 2 und § 371a Absatz 3 der
 Zivilprozessordnung.
 
 (4) Ein elektronisches Dokument gilt in den Fällen des § 5 Absatz 5

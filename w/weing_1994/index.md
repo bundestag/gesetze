@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 1467
 
 Neugefasst durch
-:   Bek. v. 18.1.2011 I 66
+:   Bek. v. 18.1.2011 I 66;
 
-Geändert durch
-:   Art. 2 Abs. 13 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 9 G v. 27.6.2017 I 1966
 
 
 ## 1. Abschnitt - Allgemeine Bestimmungen
@@ -69,11 +69,21 @@ Verarbeiten und das Inverkehrbringen von
 ### § 2 Begriffsbestimmungen
 
 
-1.  Erzeugnisse: die in den Rechtsakten der Europäischen Gemeinschaft oder
-    der Europäischen Union genannten Erzeugnisse des Weinbaus ohne
-    Rücksicht auf ihren Ursprung, aromatisierter Wein, aromatisierte
-    weinhaltige Getränke, aromatisierte weinhaltige Cocktails sowie
-    weinhaltige Getränke,
+1.  Erzeugnisse:
+
+    a)  die in den Rechtsakten der Europäischen Gemeinschaft oder der
+        Europäischen Union genannten Erzeugnisse des Weinbaus ohne Rücksicht
+        auf ihren Ursprung,
+
+
+    b)  aromatisierter Wein, aromatisierte weinhaltige Getränke, aromatisierte
+        weinhaltige Cocktails (aromatisierte Weinerzeugnisse) und
+
+
+    c)  weinhaltige Getränke,
+
+
+
 
 
 2.  Weinhaltige Getränke: unter Verwendung von Erzeugnissen des Weinbaus
@@ -185,21 +195,17 @@ Verarbeiten und das Inverkehrbringen von
     Anbaugebietes belegen sind,
 
 
-24. Qualitätswein: Wein mit der Bezeichnung Qualitätswein oder,
-    vorbehaltlich abweichender Regelung, Prädikatswein mit Ursprung in
-    einem der bestimmten Anbaugebiete (b. A.), dessen Name nach Artikel
-    118s Absatz 1 der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-    Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-    Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-    (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-    1), die zuletzt durch die Verordnung (EG) Nr. 491/2009 (ABl. L 154 vom
-    17\.6.2009, S. 1) geändert worden ist, als Ursprungsbezeichnung
-    geschützt ist,
+24. Qualitätswein: Wein aus einem in § 3 Absatz 1 genannten abgegrenzten
+    geografischen Gebiet, der einer analytischen und organoleptischen
+    Qualitätsprüfung (amtliche Qualitätsprüfung) unterzogen worden ist und
+    durch Rechtsvorschrift festgelegte Mindestanforderungen hinsichtlich
+    der Erzeugungsmethode und des Reifegrades der Trauben erfüllt,
 
 
-25. Landwein: Wein aus einem Landweingebiet, dessen Name nach Artikel 118s
-    Absatz 1 der Verordnung (EG) Nr. 1234/2007 als geografische Angabe
-    geschützt ist,
+25. Landwein: Wein aus einem in Rechtsverordnungen nach § 3 Absatz 2
+    festgelegten abgegrenzten geografischen Gebiet, der durch
+    Rechtsvorschrift festgelegte Mindestanforderungen hinsichtlich der
+    Erzeugungsmethode und des Reifegrades der Trauben erfüllt,
 
 
 26. Grundwein
@@ -217,10 +223,42 @@ Verarbeiten und das Inverkehrbringen von
         weinhaltigen Getränken, aromatisierten weinhaltigen Cocktails,
         weinhaltigen Getränken, alkoholfreiem oder alkoholreduziertem Wein
         oder daraus hergestellten schäumenden Getränken, Weinessig oder
-        anderen Lebensmitteln, die keine Erzeugnisse sind, bestimmt ist.
+        anderen Lebensmitteln, die keine Erzeugnisse sind, bestimmt ist,
 
 
 
+
+
+27. Prädikatswein: Wein aus einem in § 3 Absatz 1 genannten abgegrenzten
+    geografischen Gebiet, der einer amtlichen Qualitätsprüfung unterzogen
+    worden ist und der durch Rechtsvorschrift festgelegte, die
+    Anforderungen für Qualitätswein übersteigende Mindestanforderungen
+    hinsichtlich der Erzeugungsmethode und des Reifegrades der Trauben
+    erfüllt,
+
+
+28. Qualitätslikörwein b.A.: Likörwein aus einem in § 3 Absatz 1 genannten
+    abgegrenzten geografischen Gebiet, der aus Qualitätswein oder für die
+    Gewinnung von Qualitätswein geeigneten Erzeugnissen aus diesem Gebiet
+    hergestellt sowie einer amtlichen Qualitätsprüfung unterzogen worden
+    ist und der durch Rechtsvorschrift festgelegte zusätzliche
+    Anforderungen hinsichtlich der Herstellung erfüllt,
+
+
+29. Qualitätsperlwein b.A.: Perlwein aus einem in § 3 Absatz 1 genannten
+    abgegrenzten geografischen Gebiet, der aus Qualitätswein oder für die
+    Gewinnung von Qualitätswein geeigneten Erzeugnissen aus diesem Gebiet
+    hergestellt sowie einer amtlichen Qualitätsprüfung unterzogen worden
+    ist und der durch Rechtsvorschrift festgelegte zusätzliche
+    Anforderungen hinsichtlich der Herstellung erfüllt,
+
+
+30. Sekt b.A.: Qualitätsschaumwein aus einem in § 3 Absatz 1 genannten
+    abgegrenzten geografischen Gebiet, der aus Qualitätswein oder für die
+    Gewinnung von Qualitätswein geeigneten Erzeugnissen aus diesem Gebiet
+    hergestellt sowie einer amtlichen Qualitätsprüfung unterzogen worden
+    ist und der durch Rechtsvorschrift festgelegte zusätzliche
+    Anforderungen hinsichtlich der Herstellung erfüllt.
 
 
 
@@ -228,8 +266,9 @@ Verarbeiten und das Inverkehrbringen von
 
 ### § 3 Weinanbaugebiet
 
-(1) Für Qualitätswein bestimmter Anbaugebiete (Qualitätswein b. A.)
-werden folgende bestimmte Anbaugebiete festgelegt:
+(1) Für Qualitätsweine, Prädikatsweine, Qualitätslikörweine b.A.,
+Qualitätsperlweine b.A. und Sekte b.A. werden folgende bestimmte
+Anbaugebiete festgelegt:
 
 1.  Ahr,
 
@@ -272,30 +311,47 @@ werden folgende bestimmte Anbaugebiete festgelegt:
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates die Bezeichnungen für Landweine
-festzulegen. Die Gebiete sind in Anlehnung an herkömmliche
-geografische Begriffe für solche geografische Räume festzulegen, in
-denen traditionell Weinbau betrieben wird.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Bezeichnungen für Landweine festzulegen. Die Gebiete sind in Anlehnung
+an herkömmliche geografische Begriffe für solche geografische Räume
+festzulegen, in denen traditionell Weinbau betrieben wird.
 
-(3) Die bestimmten Anbaugebiete nach Absatz 1 und die in
-Rechtsverordnungen nach Absatz 2 in Verbindung mit Absatz 4
-festgelegten Landweingebiete bilden das deutsche Weinanbaugebiet.
+(3) Das deutsche Weinbaugebiet besteht aus
+
+1.  den Flächen der in Absatz 1 bezeichneten Anbaugebiete,
+
+
+2.  den Flächen der in Rechtsverordnungen nach Absatz 2 in Verbindung mit
+    Absatz 4 festgelegten Landweingebiete und
+
+
+3.  den außerhalb der in Nummer 1 und 2 bezeichneten Gebiete liegenden
+    Flächen, für die eine Genehmigung zur Anpflanzung von Reben erteilt
+    worden ist.
+
+
+
 
 (4) Die Landesregierungen grenzen durch Rechtsverordnung die in Absatz
 1 genannten und die in Rechtsverordnungen nach Absatz 2 festgelegten
 Gebiete ab.
 
 (5) Soweit die in Absatz 1 genannten Bezeichnungen der bestimmten
-Anbaugebiete nach Artikel 118s Absatz 1 der Verordnung (EG) Nr.
-1234/2007 geschützt sind, gelten für die Qualitätsweine dieser
-Anbaugebiete die Rechtsakte der Europäischen Gemeinschaft oder der
-Europäischen Union über Weine mit geschützter Ursprungsbezeichnung,
-sofern dieses Gesetz nichts anderes bestimmt.
+Anbaugebiete nach Artikel 107 Absatz 1 der Verordnung (EU) Nr.
+1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember
+2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
+Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG)
+Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
+20\.12.2013, S. 671) in der jeweils geltenden Fassung, geschützt sind,
+gelten für die Qualitätsweine, Prädikatsweine, Qualitätslikörweine
+b.A., Qualitätsperlweine b.A. und Sekte b.A. dieser Anbaugebiete die
+Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+über Weine mit geschützter Ursprungsbezeichnung, sofern dieses Gesetz
+nichts anderes bestimmt.
 
 (6) Soweit die Bezeichnungen der Gebiete für die Bezeichnung von
-Landwein nach Artikel 118s Absatz 1 der Verordnung (EG) Nr. 1234/2007
+Landwein nach Artikel 107 Absatz 1 der Verordnung (EU) Nr. 1308/2013
 in das von der Europäischen Kommission geführte Register der
 geschützten geografischen Angaben eingetragen sind, gelten für die
 Landweine dieser Gebiete die Rechtsakte der Europäischen Gemeinschaft
@@ -305,82 +361,71 @@ Angabe, sofern dieses Gesetz nichts anderes bestimmt.
 
 ### § 3a Elektronische Kommunikation
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften über den Ausschluss der
-elektronischen Kommunikation und elektronischen Form bei der
-Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
-Europäischen Union über Weine, des Weingesetzes und der auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen zu erlassen.
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Vorschriften über den Ausschluss der elektronischen Kommunikation und
+elektronischen Form bei der Durchführung der Rechtsakte der
+Europäischen Gemeinschaft oder der Europäischen Union über Weine, des
+Weingesetzes und der auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen zu erlassen.
 
 
 ### § 3b Stützungsprogramm
 
-(1) Das Stützungsprogramm im Sinne des Titels II Kapitel I der
-Verordnung (EG) Nr. 479/2008 des Rates vom 29. April 2008 über die
-gemeinsame Marktorganisation für Wein, zur Änderung der Verordnungen
-(EG) Nr. 1493/1999, (EG) Nr. 1782/2003, (EG) Nr. 1290/2005, (EG) Nr.
-3/2008 und zur Aufhebung der Verordnungen (EWG) Nr. 2392/86 und (EG)
-Nr. 1493/1999 (ABl. EU Nr. L 148 S. 1) in der jeweils geltenden
-Fassung umfasst für die erste Laufzeit von fünf Jahren, gerechnet ab
-dem 1. August 2008, selbständige Einzelmaßnahmen des Bundes und der
-Länder nach Maßgabe der folgenden Absätze.
+(1) Das Stützungsprogramm im Sinne des Teils II Titel I Teil II Titel
+I Kapitel II Abschnitt 4 der Verordnung (EU) Nr. 1308/2013 umfasst
+selbständige Einzelmaßnahmen des Bundes und der Länder nach Maßgabe
+der folgenden Absätze.
 
-(2) Von der Bundesanstalt für Landwirtschaft und Ernährung werden
-durchgeführt:
+(2) Die Bundesanstalt für Landwirtschaft und Ernährung unterstützt
+Maßnahmen zur Absatzförderung in Mitgliedstaaten nach Artikel 45
+Absatz 1 Buchstabe a und in Drittländern nach Artikel 45 Absatz 1
+Buchstabe b der Verordnung (EU) Nr. 1308/2013, soweit sich die
+Maßnahmen ausschließlich auf eine einheitliche Absatzförderung der
+Erzeugnisse aus den deutschen Anbaugebieten beziehen. Dafür stehen aus
+dem verfügbaren Gemeinschaftsrahmen jährlich 1 Million 500 Tausend
+Euro zur Verfügung. Soweit kein jährlicher Bedarf in Höhe der zur
+Verfügung stehenden 1 Million 500 Tausend Euro besteht, können diese
+Mittel für Maßnahmen der Länder ausgegeben werden. Von dem in Satz 2
+genannten Betrag sind 500 Tausend Euro ausschließlich für Maßnahmen
+der Absatzförderung in Mitgliedstaaten zu verwenden. Die Sätze 1 und
+2, Satz 2 auch in Verbindung mit Satz 4, sind ein Gesetz im Sinne des
+§ 1 Absatz 2 Nummer 4 des Marktorganisationsgesetzes.
 
-1.  die Unterstützung von Maßnahmen zur Absatzförderung auf
-    Drittlandsmärkten nach Artikel 10 der Verordnung (EG) Nr. 479/2008,
-    soweit die Maßnahmen sich ausschließlich auf eine einheitliche
-    Absatzförderung der Erzeugnisse aus den deutschen Anbaugebieten
-    beziehen,
-
-
-2.  die Unterstützung für die Verwendung von rektifiziertem
-    Traubenmostkonzentrat nach Artikel 19 der Verordnung (EG) Nr. 479/2008
-    im Weinwirtschaftsjahr 2008/2009.
-
-
-
-Aus den verfügbaren Gemeinschaftsmitteln stehen für die Maßnahmen nach
-Satz 1 Nr. 1 jährlich 1 Million Euro und für die Maßnahme nach Satz 1
-Nr. 2 im Weinwirtschaftsjahr 2008/2009 4 Millionen Euro zur Verfügung.
-Soweit für Maßnahmen nach Satz 1 Nummer 1 kein jährlicher Bedarf in
-Höhe der zur Verfügung stehenden 1 Million Euro besteht, können diese
-Mittel für Maßnahmen der Länder ausgegeben werden. Die Sätze 1 und 2
-sind ein Gesetz im Sinne des § 1 Abs. 2 Nr. 4 des Gesetzes zur
-Durchführung der gemeinsamen Marktorganisationen und der
-Direktzahlungen.
-
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Regelungen über die Voraussetzungen und das
-Verfahren für die Umstrukturierung und Umstellung von Rebflächen nach
-Artikel 11 der Verordnung (EG) Nr. 479/2008 zu erlassen, soweit die
-Regelungen zur Durchführung der genannten gemeinschaftsrechtlichen
-Vorschrift und der zu seiner Durchführung ergangenen Rechtsakte der
-Europäischen Gemeinschaft oder der Europäischen Union erforderlich
-sind und nach diesen Vorschriften bestimmt, bestimmbar oder begrenzt
-sind. Satz 1 ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des
-Gesetzes zur Durchführung der Gemeinsamen Marktorganisationen und der
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Regelungen über die Voraussetzungen und das Verfahren für die
+Umstrukturierung und Umstellung von Rebflächen nach Artikel 46 der
+Verordnung (EU) Nr. 1308/2013 zu erlassen, soweit die Regelungen zur
+Durchführung der genannten gemeinschaftsrechtlichen Vorschrift und der
+zu seiner Durchführung ergangenen Rechtsakte der Europäischen
+Gemeinschaft oder der Europäischen Union erforderlich sind und nach
+diesen Vorschriften bestimmt, bestimmbar oder begrenzt sind. Satz 1
+ist ein Gesetz im Sinne des § 1 Absatz 2 Nummer 4 des Gesetzes zur
+Durchführung der Gemeinsamen Marktorganisationen und der
 Direktzahlungen.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 für
 
-1.  die Unterstützung von Maßnahmen zur Absatzförderung auf
-    Drittlandsmärkten nach Artikel 10 der Verordnung (EG) Nr. 479/2008,
-    soweit sich die Maßnahmen ausschließlich auf eine Absatzförderung der
-    Erzeugnisse aus den im jeweiligen Land belegenen bestimmten
-    Anbaugebieten beziehen,
+1.  die Unterstützung von Maßnahmen zur Absatzförderung in Mitgliedstaaten
+    der Europäischen Union nach Artikel 45 Absatz 1 Buchstabe a sowie in
+    Drittländern nach Artikel 45 Absatz 1 Buchstabe b der Verordnung (EU)
+    Nr. 1308/2013, soweit sich die Maßnahmen ausschließlich auf eine
+    Absatzförderung der Erzeugnisse aus den im jeweiligen Land belegenen
+    bestimmten Anbaugebieten beziehen,
 
 
-2.  die Unterstützung für Ernteversicherungen nach Artikel 14 der
-    Verordnung (EG) Nr. 479/2008,
+2.  die Unterstützung für Ernteversicherungen nach Artikel 49 der
+    Verordnung (EU) Nr. 1308/2013,
 
 
-3.  die Unterstützung für Investitionen nach Artikel 15 der Verordnung
-    (EG) Nr. 479/2008
+3.  die Unterstützung für Investitionen nach Artikel 50 der Verordnung
+    (EU) Nr. 1308/2013,
+
+
+4.  die Unterstützung für Innovationen nach Artikel 51 der Verordnung (EU)
+    Nr. 1308/2013
 
 
 
@@ -401,44 +446,78 @@ der Direktzahlungen mit der Maßgabe anzuwenden, dass für den Erlass
 von Rechtsverordnungen auf Grund der vorstehend genannten Vorschriften
 die Landesregierungen zuständig sind. § 54 Absatz 2 gilt entsprechend.
 
-(5) Bei Maßnahmen nach Artikel 10 der Verordnung (EG) Nr. 479/2008
-unterrichten sich die Bundesanstalt für Landwirtschaft und Ernährung
-und die nach Landesrecht zuständigen Stellen gegenseitig über die
-Anträge sowie den Abschluss von Verträgen. Die Bundesanstalt und die
-Landesstellen berücksichtigen bei ihren Entscheidungen über
-Vertragsabschlüsse die nach Satz 1 mitgeteilten Vertragsabschlüsse.
+(5) Bei Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung
+(EU) Nr. 1308/2013 stellen die Antragsteller sicher, dass die im
+Zusammenhang mit der Absatzförderung in Mitgliedstaaten zu
+verbreitenden Informationen über den verantwortungsvollen Weinkonsum
+von der für die öffentliche Gesundheit zuständigen Stelle des
+Mitgliedstaats, in dem die Maßnahme durchgeführt werden soll,
+genehmigt worden ist. Die in Satz 1 genannte Genehmigung ist dem
+Antrag beizufügen.
 
-(6) Ab dem 1. August 2009 sind die Absätze 1 bis 5 mit der Maßgabe
-anzuwenden, dass an die Stelle des
+(6) Die Bundesanstalt für Landwirtschaft und Ernährung ist bei
+Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung (EU) Nr.
+1308/2013, soweit sie Informations- oder Absatzförderungsmaßnahmen aus
+Deutschland oder aus anderen Mitgliedstaaten der Europäischen Union,
+die in Deutschland durchgeführt werden sollen, die für die öffentliche
+Gesundheit zuständige Stelle. Sie entscheidet dabei im Einvernehmen
+mit dem Sachverständigenausschuss nach § 3c.
 
-1.  in Absatz 1 genannten Titels II Kapitel I der Verordnung (EG) Nr.
-    479/2008 der Teil II Titel I Kapitel IV Abschnitt IVb Unterabschnitt I
-    bis III der Verordnung (EG) Nr. 1234/2007,
-
-
-2.  in Absatz 2 Nummer 1, Absatz 4 Nummer 1 und Absatz 5 genannten
-    Artikels 10 der Verordnung (EG) Nr. 479/2008 der Artikel 103p der
-    Verordnung (EG) Nr. 1234/2007,
-
-
-3.  in Absatz 2 Nummer 2 genannten Artikels 19 der Verordnung (EG) Nr.
-    479/2008 der Artikel 103y der Verordnung (EG) Nr. 1234/2007,
-
-
-4.  in Absatz 3 genannten Artikels 11 der Verordnung (EG) Nr. 479/2008 der
-    Artikel 103q der Verordnung (EG) Nr. 1234/2007,
+(7) Bei Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a und b der
+Verordnung (EU) Nr. 1308/2013 unterrichten sich die Bundesanstalt für
+Landwirtschaft und Ernährung und die nach Landesrecht zuständigen
+Stellen gegenseitig über die Anträge sowie den Abschluss von
+Verträgen. Die Bundesanstalt und die Landesstellen berücksichtigen bei
+ihren Entscheidungen über Vertragsabschlüsse die nach Satz 1
+mitgeteilten Vertragsabschlüsse.
 
 
-5.  in Absatz 4 Nummer 2 genannten Artikels 14 der Verordnung (EG) Nr.
-    479/2008 der Artikel 103t der Verordnung (EG) Nr. 1234/2007 und
+### § 3c Sachverständigenausschuss
+
+(1) Bei der Bundesanstalt für Landwirtschaft und Ernährung wird ein
+Sachverständigenausschuss zur Bewertung der im Zusammenhang mit
+Maßnahmen nach Artikel 45 Absatz 1 Buchstabe a der Verordnung (EU) Nr.
+1308/2013 beabsichtigten Informationen über die Auswirkungen des
+Weinkonsums auf die Gesundheit und das Verhalten nach Maßgabe einer
+Rechtsverordnung nach Absatz 2 errichtet.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
+durch Rechtsverordnung ohne Zustimmung des Bundesrates das Nähere über
+die Zusammensetzung, die Berufung und die Amtsdauer der Mitglieder,
+das Verfahren und die Geschäftsordnung des Sachverständigenausschusses
+zu regeln. Dem Sachverständigenausschuss müssen mindestens angehören
+ein Vertreter oder eine Vertreterin
+
+1.  des Bundesinstituts für Risikobewertung,
 
 
-6.  in Absatz 4 Nummer 3 genannten Artikels 15 der Verordnung (EG) Nr.
-    479/2008 der Artikel 103u der Verordnung (EG) Nr. 1234/2007
+2.  des oder der Drogenbeauftragten der Bundesregierung,
+
+
+3.  der Bundeszentrale für gesundheitliche Aufklärung,
+
+
+4.  aus dem Bereich der Medizin,
+
+
+5.  aus dem Bereich der Weinwissenschaft,
+
+
+6.  aus dem Bereich des Verbraucherschutzes und
+
+
+7.  der Weinüberwachungsbehörden der Länder.
 
 
 
-tritt.
+
+(3) Der Sachverständigenausschuss tagt unter dem Vorsitz eines
+Vertreters oder einer Vertreterin der Bundesanstalt für Ernährung und
+Landwirtschaft, der oder die kein Stimmrecht hat.
+
+(4) Die Bundesanstalt für Landwirtschaft und Ernährung führt die
+Geschäfte des Sachverständigenausschusses.
 
 
 ## 2. Abschnitt - Anbauregeln
@@ -453,11 +532,10 @@ nur solche Weintrauben verwendet werden, die vorbehaltlich des
 Absatzes 3 auf Rebflächen im Inland erzeugt wurden, die
 zulässigerweise mit Reben bepflanzt sind.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zur Sicherung einer
-ausreichenden Überwachung oder zur Durchführung der Anbauregeln
-erforderlich ist,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies zur Sicherung einer ausreichenden Überwachung oder zur
+Durchführung der Anbauregeln erforderlich ist,
 
 1.  vorzuschreiben, dass Erzeugnisse aus Weintrauben von Rebpflanzungen,
     die entgegen den Vorschriften dieses Gesetzes oder den auf Grund
@@ -499,244 +577,254 @@ befristet werden; sie kann aus wichtigem Grund widerrufen sowie unter
 dem Vorbehalt des Widerrufs erteilt werden.
 
 
-### § 5 Anerkennung der für Qualitätswein b.A. geeigneten Rebflächen
+### § 5 Anerkennung der für Qualitätswein, Prädikatswein, Qualitätslikörwein b. A., Qualitätsperlwein b.A. und Sekt b.A. geeigneten Rebflächen
 
 Rebflächen in den in § 3 Abs. 1 genannten bestimmten Anbaugebieten,
 die zulässigerweise mit Reben zur Erzeugung von Wein bepflanzt sind
-oder bepflanzt werden, gelten als zur Erzeugung von Qualitätswein b.A.
-geeignet.
+oder bepflanzt werden, gelten als zur Erzeugung von Qualitätswein,
+Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. und
+Sekt b.A. geeignet.
 
 
 ### § 6 Wiederbepflanzungen
 
-(1) Ein Wiederbepflanzungsrecht gilt als gewährt, wenn eine
-zulässigerweise bestockte Rebfläche gerodet worden ist.
+(1) Die zuständige Landesbehörde erteilt einem Erzeuger, der eine
+Rebfläche gerodet hat, auf Antrag eine Genehmigung zur
+Wiederbepflanzung. Anträge nach Satz 1 können bis zum Ende des zweiten
+auf die Rodung folgenden Weinwirtschaftsjahres gestellt werden.
 
-(2) Die Übertragung eines Wiederbepflanzungsrechts
+(2) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
+Erzeugern, die sich verpflichtet haben, eine Rebfläche zu roden,
+genehmigt werden kann, die Wiederbepflanzung auf einer anderen als der
+zu rodenden Fläche vorzunehmen, soweit die Rodung spätestens bis zum
+Ablauf des vierten Jahres, gerechnet ab dem Zeitpunkt der Anpflanzung
+der neuen Reben, vorgenommen wird. In der Rechtsverordnung nach Satz 1
+können nähere Einzelheiten sowie das Verfahren geregelt werden.
 
-1.  von einer Fläche mit einer Hangneigung von mehr als 30 vom Hundert
-    (Steillage) auf eine Fläche mit einer Hangneigung von weniger als 30
-    vom Hundert (Flachlage) oder
+(3) Die Landesregierungen können auf Empfehlung einer
+berufsständischen Organisation im Sinne des Artikels 65 Unterabsatz 1
+der Verordnung (EU) Nr. 1308/2013 durch Rechtsverordnung
+Wiederbepflanzungen in einem Gebiet, das für die Erzeugung von Wein
+mit einer geschützten Ursprungsbezeichnung oder mit einer geschützten
+geografischen Angabe in Betracht kommt, auf Reben beschränken, die
+derselben Spezifikation der geschützten Ursprungsbezeichnung oder
+geografischen Angabe entsprechen wie die gerodeten Reben. Eine
+berufsständische Organisation ist als repräsentativ anzusehen, wenn
+ihre Mitglieder über 50 Prozent der in Satz 1 genannten Flächen
+verfügen.
 
+(4) Sofern keine Rechtsverordnung nach Absatz 3 Satz 1 erlassen wurde
+und der Antragsteller nicht der Verpflichtung nach § 7b Absatz 2
+unterliegt, kann dem Antragsteller genehmigt werden, eine
+Wiederbepflanzungsgenehmigung auf einer im Antrag nicht bezeichneten
+Fläche auszuüben, soweit diese Fläche im Betrieb des Antragstellers
+belegen ist.
 
-2.  aus einem bestimmten Anbaugebiet in ein anderes bestimmtes Anbaugebiet
+(5) Die zuständigen obersten Landesbehörden unterrichten die
+Bundesanstalt für Landwirtschaft und Ernährung jährlich zum 1. Februar
+über die in ihrem Land vorhandenen berufsständischen Organisationen im
+Sinne des Absatzes 3 Satz 2.
 
+(6) Im Zusammenhang mit der Bearbeitung von Anträgen im Sinne des
+Absatzes 1 Satz 1, die Flächen betreffen, die zuvor vom Antragsteller
+gerodet wurden, können die Landesregierungen durch Rechtsverordnung
+das in Artikel 8 Absatz 2 der Durchführungsverordnung (EU) 2015/561
+der Kommission vom 7. April 2015 mit Durchführungsbestimmungen zur
+Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+Rates hinsichtlich des Genehmigungssystems für Rebpflanzungen (ABl. L
+93 vom 9.4.2015, S.12) genannte vereinfachte Verfahren zulassen.
 
-
-ist nicht zulässig.
-
-(3) Abweichend von Absatz 2 können die Landesregierungen durch
-Rechtsverordnung zur Erhaltung des Produktionspotentials in ihrem
-Gebiet die Übertragung eines Wiederbepflanzungsrechts aus einem
-bestimmten Anbaugebiet in ein anderes bestimmtes Anbaugebiet zulassen.
-
-(4) Ferner kann die zuständige Behörde abweichend von Absatz 2 – auch
-soweit eine Rechtsverordnung nach Absatz 3 ergangen ist – zur
-Sicherung der Qualität oder zur Erhaltung der Weinbaustruktur in
-Einzelfällen zur Vermeidung unbilliger Härten die Übertragung eines
-Wiederbepflanzungsrechts von Steillagen auf Flachlagen oder aus einem
-bestimmten Anbaugebiet in ein anderes bestimmtes Anbaugebiet
-genehmigen.
-
-(5) Die Landesregierungen können durch Rechtsverordnung ferner
-
-1.  vorschreiben, dass
-
-    a)  Wiederbepflanzungen nur auf den gerodeten Flächen vorgenommen werden
-        dürfen,
-
-
-    b)  ein Wiederbepflanzungsrecht nur in dem Betrieb ausgeübt werden darf,
-        dem es gewährt wurde,
-
-
-
-
-
-2.  die Voraussetzungen und das Verfahren für die
-
-    a)  Übertragung eines Wiederbepflanzungsrechts auf einen anderen Betrieb,
-
-
-    b)  Ausübung eines Wiederbepflanzungsrechts in dem Betrieb, in dem es
-        gewährt wurde,
-
-
-    c)  Gewährung eines Wiederbepflanzungsrechts an einen Betrieb, der sich
-        zur Rodung einer Rebfläche vor Ablauf des dritten Jahres nach der
-        Anpflanzung der neuen Reben verpflichtet,
+(7) Die Landesregierungen können durch Rechtsverordnung die in § 7c
+Absatz 1 in Verbindung mit Artikel 8 Absatz 1 Unterabsatz 3 Satz 2 der
+Durchführungsverordnung (EU) 2015/561 vorgeschriebenen Fristen auch
+für die Übermittlung von Anträgen und die Gewährung von Genehmigungen
+nach Absatz 1 und 2 vorsehen.
 
 
+### § 6a Umwandlung bestehender Pflanzungsrechte
+
+(1) Anträge auf Umwandlung von Pflanzungsrechten nach Artikel 68
+Absatz 1 der Verordnung (EU) Nr. 1308/2013 können ab dem 15. September
+2015 und bis zum 31. Dezember 2020 gestellt werden.
+
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen,
+dass Antragstellern genehmigt werden kann, ein umgewandeltes
+Pflanzrecht auf einer im Antrag nicht bezeichneten Fläche auszuüben,
+soweit diese Fläche im Betrieb des Antragstellers belegen ist.
+
+(3) Die zuständigen Landesbehörden unterrichten die Bundesanstalt für
+Landwirtschaft und Ernährung jährlich zum 1. Oktober desselben Jahres
+über Anzahl und Fläche der nach Absatz 1 genehmigten Anträge des
+Vorjahres.
 
 
-    festlegen.
+### § 7 Festsetzung eines Prozentsatzes für Neuanpflanzungen
+
+(1) Abweichend von dem in Artikel 63 Absatz 1 der Verordnung (EU) Nr.
+1308/2013 bestimmten Prozentsatz wird für Genehmigungen für
+Neuanpflanzungen in den Jahren 2016, 2017, 2018, 2019 und 2020 ein
+Prozentsatz von 0,3 der tatsächlich am 31. Juli des jeweils
+vorangegangenen Jahres in Deutschland mit Reben bepflanzten
+Gesamtfläche festgelegt.
+
+(2) Von der sich nach Anwendung des in Absatz 1 genannten
+Prozentsatzes ergebenden Gesamtfläche wird vorab für die Länder Baden-
+Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen,
+Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-
+Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und
+Thüringen jeweils ein Anteil von 5 Hektar für die Genehmigung von
+Anträgen auf Neuanpflanzung auf dem Gebiet dieser Länder abgezogen,
+sofern Anträge in dieser Höhe gestellt werden.
+
+(3) Die Landesregierungen können auf der Grundlage des Artikels 63
+Absatz 2 Buchstabe b der Verordnung (EU) Nr. 1308/2013 durch
+Rechtsverordnung bestimmen, dass Genehmigungen für Neuanpflanzungen,
+die in Anwendung des Absatzes 1 erteilt worden sind und sich auf
+Gebiete beziehen, die für die Erzeugung von Weinen mit einer
+geschützten Ursprungsbezeichnung oder geschützten geografischen Angabe
+oder ohne geografische Angabe in Betracht kommen, nur bis zu einer in
+der Rechtsverordnung für ein bestimmtes Anbaugebiet oder
+Landweingebiet oder Gebiet ohne geografische Angabe festgesetzten
+Gesamtfläche in Anspruch genommen werden dürfen. Eine Rechtsverordnung
+nach Satz 1 ist nur zulässig, soweit nachweislich eine Voraussetzung
+des Artikels 63 Absatz 3 der Verordnung (EU) Nr. 1308/2013 erfüllt
+ist. Die Festsetzung darf nur in dem Umfang erfolgen, der erforderlich
+ist, um den wirtschaftlichen Schwierigkeiten im Sinne des Artikels 63
+Absatz 3 Buchstabe a oder der drohenden Wertminderung im Sinne des
+Artikels 63 Absatz 3 Buchstabe b der Verordnung (EU) Nr. 1308/2013
+wirksam begegnen zu können. In der Rechtsverordnung ist das
+erforderliche Verfahren zu regeln.
+
+(4) Die zuständigen obersten Landesbehörden unterrichten die
+Bundesanstalt für Landwirtschaft und Ernährung unverzüglich nach
+Erlass einer Rechtsverordnung nach Absatz 3. Flächen, für die erteilte
+Genehmigungen auf Grund einer Rechtsverordnung nach Absatz 3 nicht in
+Anspruch genommen werden durften, sind, soweit im Rahmen der
+allgemeinen Vorschriften nicht alle Genehmigungsanträge bewilligt oder
+nur teilweise bewilligt worden sind, für bisher ganz oder teilweise
+unberücksichtigte Genehmigungsanträge nach dem allgemeinen
+Verteilungsverfahren zu verwenden.
 
 
+### § 7a Genehmigungsfähigkeit
 
-In Rechtsverordnungen nach Satz 1 kann bestimmt werden, dass die
-zuständige Behörde im Einzelfall Anordnungen nach Nummer 1 treffen
-kann.
+Ein Antrag auf Genehmigung einer Neuanpflanzung von Reben darf nur
+genehmigt werden, wenn der Antragsteller glaubhaft macht, dass er die
+Neuanpflanzung auf einer landwirtschaftlichen Fläche vornehmen will,
+über die er zum Zeitpunkt der Neuanpflanzung verfügen wird und die
+nicht kleiner ist als die Fläche, für die er die Genehmigung
+beantragt.
 
-(6) (weggefallen)
+
+### § 7b Festlegung von Prioritätskriterien
+
+(1) Für die Genehmigung von Neuanpflanzungen wird vorbehaltlich des §
+7 Absatz 2 im Falle des Artikels 64 Absatz 2 der Verordnung (EU) Nr.
+1308/2013 im Rahmen des unionsrechtlich bestimmten
+Verteilungsverfahrens als Prioritätskriterium zu Grunde gelegt, dass
+die für die Neuanpflanzung vorgesehene Fläche in einem Gebiet mit
+steilen Hanglagen (Artikel 64 Absatz 2 Satz 2 Buchstabe d der
+Verordnung (EU) Nr. 1308/2013 in Verbindung mit Anhang II Buchstabe D
+Unterabsatz 1 Absatz 4 der Delegierten Verordnung (EU) 2015/560 der
+Kommission vom 15. Dezember 2014 zur Ergänzung der Verordnung (EU) Nr.
+1308/2013 des Europäischen Parlaments und des Rates hinsichtlich des
+Genehmigungssystems für Rebpflanzungen (ABl. L 93 vom 9.4.2015, S.1))
+liegt. Für die Zwecke des Verteilungsverfahrens wird jeder Fläche, die
+das in Satz 1 genannte Kriterium erfüllt, ein Punkt vergeben.
+Abweichend von Satz 2 werden bei einer Hangneigung zwischen 15 und 30
+Prozent 0,5 Punkte vergeben.
+
+(2) Antragsteller, die das Prioritätskriterium nach Absatz 1 Satz 1
+geltend machen, müssen sich mit dem Antrag auf die Bescheinigung nach
+§ 7c Absatz 1 Satz 1 verpflichten, die betroffene
+Neuanpflanzungsfläche während eines Zeitraums von sieben Jahren nicht
+zu roden. Die Verpflichtung nach Satz 1 besteht jedoch nicht über den
+31\. Dezember 2030 hinaus.
 
 
-### § 7 Neuanpflanzungen, Anbaueignung
+### § 7c Zuständigkeit und Verfahren
 
-(1) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der
+(1) Der Antrag auf Genehmigung einer Neuanpflanzung von Reben ist vom
+Erzeuger bis zum Ablauf des letzten Tages des Monats Februar eines
+jeden Jahres bei der Bundesanstalt für Landwirtschaft und Ernährung zu
+stellen. Der Antragsteller hat im Antrag nach Maßgabe einer
+Rechtsverordnung nach Absatz 2 die Angaben zu machen, die erforderlich
+sind, um das Erfüllen der Anforderungen des § 7a glaubhaft zu machen.
+Macht der Antragsteller das Vorliegen von Prioritätskriterien im Sinne
+des § 7b geltend, hat er nach Maßgabe einer Rechtsverordnung nach
+Absatz 2 geeignete Unterlagen zu deren Nachweis beizufügen. Über den
+Antrag ist bis zum 31. Juli des Jahres der Antragstellung zu
+entscheiden. Die Bundesanstalt für Landwirtschaft und Ernährung
+übermittelt den für die im Antrag betroffenen Flächen zuständigen
+Behörden eine Kopie der Genehmigung.
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Einzelheiten zu dem Verfahren nach Absatz 1 zu regeln,
+insbesondere hinsichtlich der im Antrag erforderlichen Angaben und der
+im Zusammenhang mit dem Nachweis des Vorliegens geltend gemachter
+Prioritätskriterien vorzulegenden Unterlagen.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft kann durch
+Rechtsverordnung zur Vermeidung unbilliger Härten bestimmen, dass es
+unter näher bestimmten Voraussetzungen, Antragstellern auf Antrag
+erlaubt wird, nach Erhalt einer Genehmigung nach Absatz 1 Satz 1, eine
+Neuanpflanzung auf einer anderen Fläche des Betriebes als der, für die
+die jeweilige Genehmigung erteilt wurde, durchzuführen.
+
+
+### § 7d Inanspruchnahme von Genehmigungen
+
+(1) Die nach § 6 Absatz 1, § 6a Absatz 1 oder § 7c Absatz 1 Satz 1
+erteilten Genehmigungen sind innerhalb der in Artikel 62 Absatz 3 Satz
+1 der Verordnung (EU) Nr. 1308/2013 genannten Gültigkeitsdauer in
+Anspruch zu nehmen, soweit nicht auf Grund einer Rechtsverordnung nach
+§ 7 Absatz 3 etwas anderes gilt.
+
+(2) Die zuständigen Landesbehörden überprüfen auf der Grundlage der
+nach § 7c Absatz 1 Satz 5 übermittelten Bescheide, ob Anpflanzungen
+wie beschieden innerhalb der vorgesehenen Fristen durchgeführt werden.
+
+
+### § 7e Vom Genehmigungssystem ausgenommene Flächen
+
+(1) Die in Artikel 1 Absatz 2 der Delegierten Verordnung (EU) 2015/560
+genannte Mitteilung über die Anpflanzung von Reben auf Flächen, die zu
+Versuchsflächen oder zur Anlegung eines Bestandes für die Erzeugung
+von Edelreisern bestimmt sind, ist vor der Anpflanzung der nach
+Landesrecht zuständigen Behörde zu übermitteln.
+
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen,
+dass die Anpflanzung oder Wiederbepflanzung von Flächen, deren Weine
+oder Weinbauerzeugnisse ausschließlich zum Gebrauch im Haushalt des
+Weinerzeugers bestimmt sind, den zuständigen Landesstellen mitgeteilt
+werden.
+
+(3) Die zuständigen obersten Landesbehörden unterrichten die
+Bundesanstalt für Landwirtschaft und Ernährung über den Umfang der
+gemäß Absatz 1 angezeigten Flächen.
+
+
+### § 8 Klassifizierung von Rebsorten
+
+(1) Die Landesregierungen legen durch Rechtsverordnung die zur
+Herstellung von Wein zugelassenen Rebsorten fest.
+
+(2) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der
 Europäischen Union oder in auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen keine abweichenden Regelungen getroffen sind,
-dürfen Erzeugern Genehmigungen für Neuanpflanzungen nur für Flächen
-erteilt werden, die zur Erzeugung von Qualitätswein b. A. oder
-Landwein geeignet sind und
-
-1.  zur Erzeugung von Qualitätswein b. A. oder Landwein bestimmt sind und
-    die
-
-    a)  in unmittelbarem räumlichen Zusammenhang mit zulässigerweise mit Reben
-        bepflanzten oder vorübergehend nicht bepflanzten Rebflächen stehen
-        oder
-
-
-    b)  in Verfahren nach dem Flurbereinigungsgesetz oder in Verfahren zur
-        Festlegung und Neuordnung der Eigentumsverhältnisse nach dem
-        Landwirtschaftsanpassungsgesetz als Rebflächen ausgewiesen werden,
-        soweit dies zur wertgleichen Abfindung nach § 44 des
-        Flurbereinigungsgesetzes oder § 58 des
-        Landwirtschaftsanpassungsgesetzes erforderlich ist,
-
-
-
-
-
-2.  für die Durchführung von Weinbauversuchen bestimmt sind oder
-
-
-3.  zur Erzeugung von
-
-    a)  Qualitätswein b. A. oder Landwein und gleichzeitig zur Erzeugung von
-        Edelreisern oder
-
-
-    b)  Edelreisern
-
-
-
-
-    bestimmt sind und die in unmittelbarem räumlichen Zusammenhang mit
-    zulässigerweise mit Reben bepflanzten oder vorübergehend nicht
-    bepflanzten Rebflächen stehen.
-
-
-
-
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
-
-1.  die Voraussetzungen für die Genehmigung nach Absatz 1 zu regeln und
-    dabei insbesondere die Anforderungen an die Flächen hinsichtlich ihrer
-    Eignung zur Erzeugung von Qualitätswein b. A. oder Landwein und die
-    Vermarktungsmöglichkeiten des erzeugten Weines festzulegen,
-
-
-2.  die Voraussetzungen für die Eignung einer Fläche zur Erzeugung von
-    Qualitätswein b. A. oder Landwein zu regeln und dabei insbesondere
-    vorzusehen, dass der Traubenmost der auf der Fläche geernteten
-    Weintrauben bestimmter Rebsorten einen festgesetzten Mindestgehalt an
-    natürlichem Alkohol erwarten lassen muss,
-
-
-3.  Ausnahmen von den Anforderungen des Absatzes 1 zuzulassen,
-
-
-4.  das Verfahren zur Feststellung, dass die Voraussetzungen nach Nummer 1
-    oder 2 vorliegen, sowie das Verfahren für die Erteilung der
-    Genehmigung zu regeln.
-
-
-
-
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung der Qualität die
-Voraussetzungen und das Verfahren für die Prüfung der Anbaueignung von
-Rebsorten zu regeln.
-
-(4) Die Landesregierungen können durch Rechtsverordnung
-
-1.  zur
-
-    a)  Steigerung der Qualität,
-
-
-    b)  Erhaltung des Gebietscharakters der Qualitätsweine b. A.,
-
-
-    c)  Verbesserung der Vermarktung oder
-
-
-    d)  Sicherung der Versorgung mit Rebenpflanzgut
-
-
-
-
-    über die durch Rechtsverordnungen nach Absatz 2 Nr. 2 vorgeschriebenen
-    Voraussetzungen hinaus weitere Voraussetzungen für die Anbaueignung
-    einer Fläche festlegen,
-
-
-2.  vorschreiben, dass Flächen, die zur Erzeugung von als Unterlagsreben
-    dienenden Mutterreben bestimmt sind, in räumlichem oder unmittelbarem
-    räumlichen Zusammenhang mit zulässigerweise mit Reben bepflanzten oder
-    vorübergehend nicht bepflanzten Rebflächen stehen müssen,
-
-
-3.  die Voraussetzungen für die Eignung einer Fläche zur Erzeugung von als
-    Unterlagsreben dienenden Mutterreben regeln.
-
-
-
-
-
-### § 8 Unzulässige Anpflanzungen
-
-(1) Eine Erteilung von Pflanzungsrechten für vor dem 1. September 1998
-ohne entsprechende Pflanzungsrechte bepflanzte Rebflächen zur
-Regularisierung dieser Flächen nach Artikel 85b Absatz 1 der
-Verordnung (EG) Nr. 1234/2007 ist durch den Eigentümer oder
-Nutzungsberechtigten der Fläche bei der nach Landesrecht zuständigen
-Stelle zu beantragen.
-
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-die nach den Rechtsakten der Europäischen Gemeinschaft oder der
-Europäischen Union über widerrechtliche Anpflanzungen erforderlichen
-Bestimmungen
-
-1.  über das Verfahren der Regularisierung und
-
-
-2.  die Höhe des Entgelts, das für ein nach Absatz 1 erteiltes
-    Pflanzungsrecht zu zahlen ist,
-
-
-
-festzulegen.
+werden die Landesregierungen ermächtigt, durch Rechtsverordnung die
+Voraussetzungen und das Verfahren für die Festlegung der Rebsorten
+nach Absatz 1 zu regeln.
 
 
 ### § 8a Bewirtschaftung des Produktionspotenzials
 
-(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-eine oder mehrere regionale Reserven von Pflanzungsrechten zu
-schaffen.
+(1) (weggefallen)
 
 (2) (weggefallen)
 
-(3) Soweit die Landesregierungen durch Rechtsverordnung eine oder
-mehrere regionale Reserven von Pflanzungsrechten schaffen, können sie
-in der Rechtsverordnung die Verwaltung der Reserve oder der Reserven
-regeln und dabei insbesondere die Voraussetzungen und das Verfahren
-für die Gewährung von Rechten aus der Reserve und die Zuführung von
-Rechten zur Reserve festlegen.
+(3) (weggefallen)
 
 (4) Soweit die Landesregierungen durch Rechtsverordnung
 
@@ -764,19 +852,6 @@ Laufzeit der Anbauregelung nach Artikel 85f der Verordnung (EG) Nr.
 ### § 8b (weggefallen)
 
 -
-
-
-### § 8c Klassifizierung von Rebsorten
-
-(1) Die Landesregierungen legen durch Rechtsverordnung die zur
-Herstellung von Wein zugelassenen Rebsorten fest.
-
-(2) Soweit in den Rechtsakten der Europäischen Gemeinschaft oder der
-Europäischen Union oder in auf Grund dieses Gesetzes erlassenen
-Rechtsverordnungen keine abweichenden Regelungen getroffen sind,
-werden die Landesregierungen ermächtigt, durch Rechtsverordnung die
-Voraussetzungen und das Verfahren für die Festlegung der Rebsorten
-nach Absatz 1 zu regeln.
 
 
 ### § 9 Hektarertrag
@@ -824,22 +899,41 @@ Erhöhung der einzelnen Gesamthektarerträge zur Folge.
 (2) Die Landesregierungen setzen durch Rechtsverordnung einen
 Hektarertrag für Weintrauben, Traubenmost oder Wein für die in § 3
 Absatz 1 und für die nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4
-festgelegten Gebiete fest. Wird der Hektarertrag nach Satz 1 für
+festgelegten Gebiete fest. Die Landesregierungen können ferner durch
+Rechtsverordnung einen Hektarertrag für Weintrauben, Traubenmost oder
+Wein
+
+1.  für Gebiete außerhalb der in Satz 1 genannten Gebiete oder
+
+
+2.  für in Satz 1 genannten Gebiete
+
+
+
+festsetzen, sofern ein Wein erzeugt werden soll, der nicht mit einer
+für diese Gebiete geschützten Herkunftsbezeichnungen gekennzeichnet
+werden soll. Wird der Hektarertrag nach Satz 1 oder Satz 2 für
 Traubenmost oder Wein festgesetzt, so ist er auf die zu ihrer
 Herstellung verwendeten Erzeugnisse entsprechend anzuwenden.
 
 (3) Wird der Hektarertrag für Qualitätsgruppen unterschiedlich
 festgesetzt, so darf dieser für anderen Wein als Prädikatswein und
 Qualitätswein 150 Hektoliter/Hektar und für Grundwein 200
-Hektoliter/Hektar nicht übersteigen.
+Hektoliter/Hektar nicht übersteigen. Im Falle einer Rechtsverordnung
+nach Absatz 2 Satz 2 darf der Hektarertrag 200 Hektoliter/Hektar nicht
+übersteigen. Soweit in einem Land ein Hektarertrag für ein Gebiet im
+Sinne des Absatzes 2 Satz 2 Nummer 1 nicht durch Rechtsverordnung
+festgesetzt ist, gilt ein Hektarertrag für Wein für die dort genannten
+Gebiete auf 200 Hektoliter/Hektar als festgesetzt.
 
 (4) Bei der Berechnung des Gesamthektarertrages nach Absatz 1 sind die
 Erträge von den Rebflächen nicht zu berücksichtigen, die als
 geografisches Gebiet für eine geschützte Ursprungsbezeichnung oder
-geschützte geografische Angabe abgegrenzt sind, über deren Schutz im
-Verfahren nach Artikel 118i der Verordnung (EG) Nr. 1234/2007
-entschieden worden ist, und die unter der geschützten
-Ursprungsbezeichnung oder geografischen Angabe vermarktet werden.
+geschützte geografische Angabe abgegrenzt sind, für deren Bezeichnung
+eine Ursprungsbezeichnung oder geografische Angabe nach dem Verfahren
+des Artikels 99 der Verordnung (EU) Nr. 1308/2013 geschützt worden
+ist, und die unter der geschützten Ursprungsbezeichnung oder
+geografischen Angabe vermarktet werden.
 
 (5) Ist der Hektarertrag nach Absatz 1 Satz 2 Nummer 1 in Verbindung
 mit einer Rechtsverordnung nach Absatz 2 Satz 1 für Flachlagen und
@@ -851,27 +945,28 @@ berechneten Gesamthektarerträgen zulassen.
 (6) Die Vorschriften über Grundwein gelten auch für Traubensaft.
 
 
-### § 9a Abgabe, Verwendung oder Verwertung von Wein oder Traubenmost aus nicht selbst erzeugten Weintrauben oder nicht selbst erzeugtem Traubenmost
+### § 9a Abgabe, Verwendung oder Verwertung von Wein, Jungwein oder Traubenmost aus nicht selbst erzeugten Weintrauben, nicht selbst erzeugtem Jungwein oder nicht selbst erzeugtem Traubenmost
 
 (1) Übernimmt ein Betrieb von einem Weinbaubetrieb oder einem anderen
-Betrieb Weintrauben, Traubenmost oder teilweise gegorenen Traubenmost,
-darf der übernehmende Betrieb den hieraus von ihm erzeugten
-Traubenmost, teilweise gegorenen Traubenmost oder Wein nur in einer
-Menge an andere abgeben, verwenden oder verwerten, die sich aus der
-Umrechnung der gesamten aus einer Ernte und einem bestimmten
-Anbaugebiet übernommenen Weintraubenmenge oder Traubenmostmenge in
-eine Weinmenge ergibt. Für die Umrechnung ist die auf Grund des § 12
-Absatz 1 Nummer 2 erlassene Regelung anzuwenden.
+Betrieb Weintrauben, Traubenmost, teilweise gegorenen Traubenmost oder
+Jungwein, darf der übernehmende Betrieb den hieraus von ihm erzeugten
+Traubenmost, teilweise gegorenen Traubenmost, Jungwein oder Wein nur
+in einer Menge an andere abgeben, verwenden oder verwerten, die sich
+aus der Umrechnung der gesamten aus einer Ernte und einem der in § 3
+Absatz 1 genannten Anbaugebiete übernommenen Weintraubenmenge,
+Traubenmostmenge oder Jungweinmenge in eine Weinmenge ergibt. Für die
+Umrechnung ist die auf Grund des § 12 Absatz 1 Nummer 2 erlassene
+Regelung anzuwenden.
 
-(2) Soweit die Weintrauben, der Traubenmost oder der teilweise
-gegorene Traubenmost in einem bestimmten Anbaugebiet erzeugt worden
-sind, für das Hektarerträge für die in § 9 Absatz 1 Satz 2 Nummer 2
-bezeichneten Qualitätsgruppen gesondert festgesetzt sind, darf der in
-Absatz 1 genannte Betrieb den hieraus von ihm erzeugten Wein bis zum
-15\. Januar des auf die Ernte folgenden Jahres herabstufen und in einer
-Menge an andere abgeben, verwenden oder verwerten, die dem für die
-Qualitätsgruppe, in die der Wein herabgestuft worden ist,
-festgesetzten Hektarertrag entspricht.
+(2) Soweit die Weintrauben, der Traubenmost, der teilweise gegorene
+Traubenmost oder der Jungwein in einem der in § 3 Absatz 1 genannten
+Anbaugebiete erzeugt worden sind, für das Hektarerträge für die in § 9
+Absatz 1 Satz 2 Nummer 2 bezeichneten Qualitätsgruppen gesondert
+festgesetzt sind, darf der in Absatz 1 genannte Betrieb den hieraus
+von ihm erzeugten Wein bis zum 15. Januar des auf die Ernte folgenden
+Jahres herabstufen und in einer Menge an andere abgeben, verwenden
+oder verwerten, die dem für die Qualitätsgruppe, in die der Wein
+herabgestuft worden ist, festgesetzten Hektarertrag entspricht.
 
 
 ### § 10 Übermenge
@@ -884,7 +979,7 @@ als 20 vom Hundert, so darf die übersteigende Menge (Übermenge) nur
     hinaus gelagert,
 
 
-2.  im eigenen Betrieb zur Herstellung von Sekt b. A. verwendet und über
+2.  im eigenen Betrieb zur Herstellung von Sekt b.A. verwendet und über
     das Erntejahr hinaus gelagert,
 
 
@@ -900,7 +995,7 @@ als 20 vom Hundert, so darf die übersteigende Menge (Übermenge) nur
 werden. Für Mitglieder einer Winzergenossenschaft oder einer
 Erzeugergemeinschaft anderer Rechtsform können die Weinerzeugung und
 die Lagerung nach Satz 1 Nr. 1, die Herstellung und die Lagerung von
-Sekt b. A. nach Satz 1 Nr. 2, die Destillation nach Satz 1 Nr. 3 oder
+Sekt b.A. nach Satz 1 Nr. 2, die Destillation nach Satz 1 Nr. 3 oder
 die Herstellung und die Abgabe nach Satz 1 Nr. 4 durch den
 Erzeugerzusammenschluss vorgenommen werden, soweit die Mitglieder zur
 Ablieferung der gesamten Ernte einer Rebfläche an den
@@ -926,14 +1021,14 @@ Sinne des § 9 Absatz 1 Satz 1 oder 2 übersteigt, nach § 11 zu
 destillieren.
 
 (5) Übersteigt in einem Betrieb der erzeugte Traubenmost, teilweise
-gegorene Traubenmost oder Wein die Menge, die nach § 9a Absatz 1, auch
-in Verbindung mit Absatz 2, an andere abgegeben, verwendet oder
-verwertet werden darf, um nicht mehr als 20 vom Hundert, darf die
-übersteigende Menge (Übermenge) über das Jahr der Erzeugung hinaus
+gegorene Traubenmost, Jungwein oder Wein die Menge, die nach § 9a
+Absatz 1, auch in Verbindung mit Absatz 2, an andere abgegeben,
+verwendet oder verwertet werden darf, um nicht mehr als 20 vom
+Hundert, darf die Übermenge über das Jahr der Erzeugung hinaus
 gelagert werden. Absatz 2 gilt entsprechend. Soweit die Weintrauben,
-der Traubenmost oder der teilweise gegorene Traubenmost in einem
-Anbaugebiet erzeugt worden sind, für das nach § 9 Absatz 1 Satz 2
-Nummer 2 Buchstabe e ein Hektarertrag für Grundwein gesondert
+der Traubenmost, der teilweise gegorene Traubenmost oder der Jungwein
+in einem Anbaugebiet erzeugt worden sind, für das nach § 9 Absatz 1
+Satz 2 Nummer 2 Buchstabe e ein Hektarertrag für Grundwein gesondert
 festgesetzt worden ist, ist die Übermenge zu destillieren.
 
 
@@ -974,21 +1069,20 @@ abgegeben, verwendet oder verwertet werden darf. Die Genehmigung nach
 Satz 1 kann, auch nachträglich, mit Auflagen verbunden werden.
 
 (4) Übersteigt in einem Betrieb der erzeugte Traubenmost, teilweise
-gegorene Traubenmost oder Wein die Menge, die nach § 9a Absatz 1, auch
-in Verbindung mit Absatz 2, an andere abgegeben, verwendet oder
-verwertet werden darf, um mehr als 20 vom Hundert, ist die Menge, die
-diesen Wert überschreitet, bis zum 15. Dezember des auf die Erzeugung
-folgenden Jahres zu destillieren. Absatz 1 Satz 3 bis 7 und § 10
-Absatz 5 Satz 3 gelten entsprechend.
+gegorene Traubenmost, Jungwein oder Wein die Menge, die nach § 9a
+Absatz 1, auch in Verbindung mit Absatz 2, an andere abgegeben,
+verwendet oder verwertet werden darf, um mehr als 20 vom Hundert, ist
+die Menge, die diesen Wert überschreitet, bis zum 15. Dezember des auf
+die Erzeugung folgenden Jahres zu destillieren. Absatz 1 Satz 3 bis 7
+und § 10 Absatz 5 Satz 3 gelten entsprechend.
 
 
 ### § 12 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung Vorschriften zu erlassen über die Voraussetzungen und das
-Verfahren für
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung Vorschriften zu erlassen
+über die Voraussetzungen und das Verfahren für
 
 1.  die gesonderte Berechnung der Gesamthektarerträge im Sinne des § 9
     Abs. 1 Satz 2,
@@ -997,10 +1091,10 @@ Verfahren für
 2.  die Umrechnung von
 
     a)  Weintraubenmengen in Mengen von Traubenmost oder teilweise gegorenem
-        Traubenmost (Traubenmostmengen) oder Weinmengen und
+        Traubenmost (Traubenmostmengen), Jungweinmengen oder Weinmengen und
 
 
-    b)  Traubenmostmengen in Weinmengen,
+    b)  Traubenmostmengen oder Jungweinmengen in Weinmengen,
 
 
 
@@ -1025,12 +1119,12 @@ Verfahren für
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, abweichend von § 9 Abs. 2 Satz 1 in
-Verbindung mit § 2 Nr. 8, soweit ein wirtschaftliches Bedürfnis
-besteht, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vorschriften über die Berechnung der für den Gesamthektarertrag
-maßgeblichen Fläche im Falle von Flurbereinigungen zu erlassen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, abweichend von § 9 Abs. 2 Satz 1 in Verbindung mit § 2 Nr.
+8, soweit ein wirtschaftliches Bedürfnis besteht, durch
+Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
+Berechnung der für den Gesamthektarertrag maßgeblichen Fläche im Falle
+von Flurbereinigungen zu erlassen.
 
 (3) Die Landesregierungen können durch Rechtsverordnung
 
@@ -1047,9 +1141,9 @@ maßgeblichen Fläche im Falle von Flurbereinigungen zu erlassen.
 
     b)  der auf Grund der gemeinschaftsrechtlich vorgeschriebenen
         Weinerzeugungs- und Bestandsmeldungen berechnete Bestand an
-        Erzeugnissen eines bestimmten Anbaugebietes oder von Teilen eines
-        bestimmten Anbaugebietes die Summe der Gesamthektarerträge des
-        betreffenden Gebietes unterschreitet,
+        Erzeugnissen eines der in § 3 Absatz 1 genannten Anbaugebiete oder von
+        Teilen eines der in § 3 Absatz 1 genannten Anbaugebiete die Summe der
+        Gesamthektarerträge des betreffenden Gebietes unterschreitet,
 
 
 
@@ -1084,13 +1178,16 @@ maßgeblichen Fläche im Falle von Flurbereinigungen zu erlassen.
 
 
 In Rechtsverordnungen nach Satz 1 Nr. 5 kann für die Fälle, in denen
-Weinbaubetriebe bis zu 1 000 Liter Wein zu destillieren haben,
-vorgesehen werden, dass an Stelle der Destillation der Wein gegen
-Erteilung eines Nachweises in einer Abwasseranlage als Energieträger
-verwertet oder unter Aufsicht der zuständigen Behörde nachweisbar als
-Wirtschaftsdünger auf landwirtschaftliche Böden aufgebracht werden
-kann; § 11 Abs. 1 Satz 4 und, soweit der Betrieb seinen
-Verpflichtungen nicht nachkommt, § 11 Abs. 1 Satz 5 gilt entsprechend.
+Weinbaubetriebe oder Betriebe, die von einem Weinbaubetrieb oder einem
+anderen Betrieb Weintrauben, Traubenmost, teilweise gegorenen
+Traubenmost oder Jungwein übernehmen, bis zu 1 000 Liter Wein zu
+destillieren haben, vorgesehen werden, dass an Stelle der Destillation
+der Wein gegen Erteilung eines Nachweises in einer Abwasseranlage als
+Energieträger verwertet oder unter Aufsicht der zuständigen Behörde
+nachweisbar als Wirtschaftsdünger auf landwirtschaftliche Böden
+aufgebracht werden kann; § 11 Abs. 1 Satz 4 und, soweit der Betrieb
+seinen Verpflichtungen nicht nachkommt, § 11 Abs. 1 Satz 5 gilt
+entsprechend.
 
 (4) Soweit die Landesregierungen von der Ermächtigung des Absatzes 3
 Nr. 4 Gebrauch machen, können sie in der Rechtsverordnung zulassen,
@@ -1124,10 +1221,9 @@ Verschließen oder Lagern dienenden Gegenständen auf Erzeugnisse ist
 kein Zusetzen, soweit es sich um gesundheitlich, geschmacklich und
 geruchlich unbedenklich geringe Anteile handelt.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zum Schutz der Gesundheit oder zur
-Erhaltung der Eigenart der Erzeugnisse
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum
+Schutz der Gesundheit oder zur Erhaltung der Eigenart der Erzeugnisse
 
 1.  das Anwenden von Behandlungsverfahren oder das Zusetzen von Stoffen
     zuzulassen oder einzuschränken,
@@ -1196,14 +1292,20 @@ Rechtsverordnungen anzuwenden.
 
 anzuwenden.
 
+(6) Die zuständige Behörde kann für ihren Zuständigkeitsbereich durch
+Allgemeinverfügung in einem Jahr mit außergewöhnlichen
+Witterungsverhältnissen die Säuerung von frischen Trauben,
+Traubenmost, teilweise gegorenem Traubenmost, Jungwein und Wein nach
+den in Anhang VIII Teil I Abschnitt C Nummer 6 der Verordnung (EU) Nr.
+1308/2013 genannten Bedingungen zulassen.
+
 
 ### § 14 Beschaffenheit von Behältnissen und Räumen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zum Schutz der Gesundheit oder
-zur Erhaltung der Qualität der Erzeugnisse erforderlich ist,
-vorzuschreiben, dass
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies zum Schutz der Gesundheit oder zur Erhaltung der Qualität
+der Erzeugnisse erforderlich ist, vorzuschreiben, dass
 
 1.  Behältnisse und sonstige Gegenstände, die für das Verarbeiten, Lagern
     oder Befördern von Erzeugnissen benutzt werden,
@@ -1236,19 +1338,20 @@ vorzuschreiben, dass
 
 ### § 15 Erhöhung des Alkoholgehaltes, Süßung
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zur Steigerung der Qualität
-der Erzeugnisse erforderlich ist,
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies zur Steigerung der Qualität der Erzeugnisse erforderlich
+ist,
 
-1.  das Erhöhen des vorhandenen oder potenziellen natürlichen
-    Alkoholgehaltes der Erzeugnisse zuzulassen,
+1.  das Erhöhen des natürlichen Alkoholgehaltes der Erzeugnisse
+    zuzulassen,
 
 
-2.  das Süßen der Qualitätsweine zuzulassen und dabei den
-    Gesamtalkoholgehalt der zum Süßen verwendeten Erzeugnisse zu begrenzen
-    und vorzuschreiben, um wie viel Volumenprozent der Gesamtalkoholgehalt
-    des gesüßten Erzeugnisses durch das Süßen erhöht werden darf,
+2.  das Süßen der Qualitätsweine oder Prädikatsweine zuzulassen und dabei
+    den Gesamtalkoholgehalt der zum Süßen verwendeten Erzeugnisse zu
+    begrenzen und vorzuschreiben, um wie viel Volumenprozent der
+    Gesamtalkoholgehalt des gesüßten Erzeugnisses durch das Süßen erhöht
+    werden darf,
 
 
 3.  vorbehaltlich der Nummern 4 und 5 die Voraussetzungen und
@@ -1280,10 +1383,9 @@ der Erzeugnisse erforderlich ist,
 (1) Erzeugnisse dürfen nur in den Verkehr gebracht werden, wenn sie
 von handelsüblicher Beschaffenheit sind.
 
-(1a) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zum Schutz der Gesundheit
-erforderlich ist,
+(1a) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies zum Schutz der Gesundheit erforderlich ist,
 
 1.  das Verarbeiten oder das Inverkehrbringen von Erzeugnissen
 
@@ -1310,14 +1412,13 @@ erforderlich ist,
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit ein wirtschaftliches Bedürfnis
-besteht und Interessen des Verbrauchers nicht entgegenstehen oder es
-zur Erhaltung der Eigenart der Erzeugnisse erforderlich ist,
-Vorschriften über das Verarbeiten und das Inverkehrbringen von
-Erzeugnissen zu erlassen. Es kann dabei insbesondere vorschreiben,
-dass
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit ein wirtschaftliches Bedürfnis besteht und Interessen des
+Verbrauchers nicht entgegenstehen oder es zur Erhaltung der Eigenart
+der Erzeugnisse erforderlich ist, Vorschriften über das Verarbeiten
+und das Inverkehrbringen von Erzeugnissen zu erlassen. Es kann dabei
+insbesondere vorschreiben, dass
 
 1.  für das Verarbeiten nur bestimmte Erzeugnisse verwendet werden dürfen,
 
@@ -1337,9 +1438,8 @@ dass
 
 
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates,
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
 
 1.  soweit es erforderlich ist, um der Gefahr einer nachteiligen
     Beeinflussung von Erzeugnissen vorzubeugen, Vorschriften zu erlassen,
@@ -1382,60 +1482,53 @@ Zustimmung des Bundesrates,
 
 
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zur Durchführung von für den
-Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
-Europäischen Gemeinschaft oder der Europäischen Union erforderlich
-ist,
-
-1.  das Verfahren zur Anerkennung von Branchenorganisationen nach Artikel
-    125o der Verordnung (EG) Nr. 1234/2007 zu regeln,
-
-
-2.  Vermarktungsregeln zur Steuerung des Angebots im Sinne des Artikels
-    113c der Verordnung (EG) Nr. 1234/2007 festzusetzen.
-
-
-
-Vor dem Erlass von Rechtsverordnungen nach Satz 1 Nummer 2 sind die
-anerkannten Branchenorganisationen anzuhören.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Durchführung von für den Weinbau und die Weinwirtschaft anwendbaren
+Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+Vermarktungsregeln zur Steuerung des Angebots im Sinne des Artikels
+167 der Verordnung (EU) Nr. 1308/2013 festzusetzen. Vor dem Erlass von
+Rechtsverordnungen nach Satz 1 sind die anerkannten Branchenverbände
+anzuhören.
 
 (5) (weggefallen)
 
 
-## 4. Abschnitt - Qualitätswein b. A. und Landwein
+## 4. Abschnitt - Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A., Sekt b.A. und Landwein
 
 
 
 ### § 16a Produktspezifikationen
 
-Die in diesem Abschnitt geregelten Bestimmungen über Anforderungen und
-Eigenschaften von Qualitätsweinen und Landweinen sind Teil der
-Produktspezifikationen im Sinne des Artikels 118c Absatz 2 der
-Verordnung (EG) Nr. 1234/2007 zur Beschreibung der Weine aus den
-bestimmten Anbaugebieten sowie den Landweingebieten und Gegenstand der
-Kontrollen der Einhaltung der Spezifikationen nach Artikel 118p der
-Verordnung (EG) Nr. 1234/2007.
+Die in diesem Abschnitt geregelten Bestimmungen über die Anforderungen
+und Eigenschaften von Qualitätsweinen, Prädikatsweinen,
+Qualitätslikörweinen b.A., Qualitätsperlweinen b.A., Sekten b.A. und
+Landweinen sind Teil der Produktspezifikationen im Sinne des Artikels
+94 Absatz 2 der Verordnung (EU) Nr. 1308/2013 zur Beschreibung der
+Weine aus den bestimmten Anbaugebieten sowie aus den Landweingebieten.
+Sie sind Gegenstand der Kontrollen der Einhaltung der
+Produktspezifikationen.
 
 
-### § 17 Qualitätswein b. A.
+### § 17 Qualitätswein, Prädikatswein, Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.
 
 (1) Qualitätswein und die Prädikatsweine Kabinett, Spätlese oder
 Auslese müssen mindestens 7 Volumenprozent vorhandenen Alkohol, die
 Prädikatsweine Beerenauslese, Trockenbeerenauslese und Eiswein müssen
 mindestens 5,5 Volumenprozent vorhandenen Alkohol aufweisen.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates festzulegen, unter welchen Voraussetzungen
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+festzulegen, unter welchen Voraussetzungen
 
-1.  das Herstellen eines Qualitätsweines b. A. außerhalb des bestimmten
+1.  das Herstellen eines Qualitätsweines, eines Prädikatsweines, eines
+    Qualitätslikörweines b.A., eines Qualitätsperlweines b.A. oder eines
+    Sektes b.A. außerhalb eines der in § 3 Absatz 1 genannten
     Anbaugebietes zulässig ist,
 
 
-2.  das Herabstufen eines Qualitätsweines b. A. auf der Erzeugerstufe
-    vorgenommen werden darf.
+2.  das Herabstufen eines Qualitätsweines oder eines Prädikatsweines auf
+    der Erzeugerstufe vorgenommen werden darf.
 
 
 
@@ -1446,30 +1539,34 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 erforderlich ist,
 
 1.  die Anbau-, Ernte- und Keltermethoden, die notwendig sind, um eine
-    optimale Qualität von Qualitätswein b. A. zu gewährleisten,
+    optimale Qualität von Qualitätswein, Prädikatswein, Qualitätslikörwein
+    b.A., Qualitätsperlwein b.A. oder Sekt b.A. zu gewährleisten,
     insbesondere Erziehungsart, Anschnitt, Ausdünnung, Rebschutz und
     Düngung; dabei können sie Vorschriften über die Bewässerung von
     Rebflächen erlassen,
 
 
 2.  unter Berücksichtigung von Klima, Bodenbeschaffenheit und Rebsorte die
-    natürlichen Mindestalkoholgehalte für Qualitätswein b. A. und
-    Prädikatswein; die natürlichen Mindestalkoholgehalte
+    natürlichen Mindestalkoholgehalte für Qualitätswein, Prädikatswein,
+    Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.; die
+    natürlichen Mindestalkoholgehalte
 
-    a)  können für einzelne bestimmte Anbaugebiete oder Teile davon
-        unterschiedlich festgesetzt werden,
+    a)  können für einzelne der in § 3 Absatz 1 genannten Anbaugebiete oder
+        Teile davon unterschiedlich festgesetzt werden,
 
 
-    b)  dürfen in der Weinbauzone A bei Qualitätswein b. A. nicht unter 7,0
+    b)  dürfen in der Weinbauzone A bei Qualitätswein, Qualitätslikörwein
+        b.A., Qualitätsperlwein b.A. und Sekt b.A. nicht unter 7,0
         Volumenprozent, bei Prädikatswein nicht unter 9,5 Volumenprozent
-        liegen; für die bestimmten Anbaugebiete Ahr, Mittelrhein, Mosel und
-        Saale-Unstrut darf für bestimmte Rebsorten und für bestimmte
-        Rebflächen der natürliche Mindestalkoholgehalt bei Qualitätswein b. A.
-        bis auf 6,0 Volumenprozent, bei Prädikatswein bis auf 9,0
-        Volumenprozent herabgesetzt werden,
+        liegen; für die Anbaugebiete Ahr, Mittelrhein, Mosel und Saale-Unstrut
+        darf für bestimmte Rebsorten und für bestimmte Rebflächen der
+        natürliche Mindestalkoholgehalt bei Qualitätswein, Qualitätslikörwein
+        b.A., Qualitätsperlwein b.A. und Sekt b.A. bis auf 6,0 Volumenprozent,
+        bei Prädikatswein bis auf 9,0 Volumenprozent herabgesetzt werden,
 
 
-    c)  dürfen in der Weinbauzone B bei Qualitätswein b. A. nicht unter 8,0
+    c)  dürfen in der Weinbauzone B bei Qualitätswein, Qualitätslikörwein
+        b.A., Qualitätsperlwein b.A. und Sekt b.A. nicht unter 8,0
         Volumenprozent, bei Prädikatswein nicht unter 10,0 Volumenprozent
         liegen,
 
@@ -1487,8 +1584,9 @@ erforderlich ist,
 
 
 (4) Die Landesregierungen stellen durch Rechtsverordnung die
-Verzeichnisse der zur Herstellung von Qualitätswein b. A. geeigneten
-Rebsorten der Art Vitis vinifera auf.
+Verzeichnisse der zur Herstellung von Qualitätswein, Prädikatswein,
+Qualitätslikörwein b.A., Qualitätsperlwein b.A. und Sekt b.A.
+geeigneten Rebsorten der Art Vitis vinifera auf.
 
 
 ### § 18 (weggefallen)
@@ -1496,14 +1594,14 @@ Rebsorten der Art Vitis vinifera auf.
 -
 
 
-### § 19 Qualitätsprüfung der Qualitätsweine b.A. und bestimmter Qualitätsschaumweine
+### § 19 Qualitätsprüfung der Qualitätsweine, Prädikatsweine, Qualitätslikörweine b.A., Qualitätsperlweine b.A., Sekte b.A. und bestimmter Qualitätsschaumweine
 
-(1) Abgefüllter inländischer Wein darf als Qualitätswein b. A. oder
-Qualitätswein, im Inland hergestellter Schaumwein darf als Sekt b. A.,
-im Inland hergestellter Likörwein darf als Qualitätslikörwein b. A.,
-im Inland hergestellter Perlwein darf als Qualitätsperlwein b. A. nur
-bezeichnet werden, wenn für ihn auf Antrag eine amtliche
-Prüfungsnummer zugeteilt worden ist.
+(1) Abgefüllter inländischer Wein darf als Qualitätswein, im Inland
+hergestellter Qualitätsschaumwein darf als Sekt b.A., im Inland
+hergestellter Likörwein darf als Qualitätslikörwein b.A., im Inland
+hergestellter Perlwein darf als Qualitätsperlwein b.A. nur bezeichnet
+werden, wenn für ihn auf Antrag eine amtliche Prüfungsnummer zugeteilt
+worden ist.
 
 (2) Einem im Inland hergestellten Qualitätsschaumwein oder Sekt, der
 mit einer Rebsortenangabe versehen werden soll, kann auf Antrag eine
@@ -1589,11 +1687,11 @@ Eiswein das Erntegut von Hand gelesen worden sein muss.
 
 ### § 21 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung und Steigerung der Qualität
-für Qualitätsschaumwein, Qualitätswein b. A., Sekt b. A.,
-Qualitätslikörwein b. A., Qualitätsperlwein b. A. und Prädikatswein
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung und Steigerung der Qualität für Qualitätsschaumwein,
+Qualitätswein, Sekt b.A., Qualitätslikörwein b.A., Qualitätsperlwein
+b.A. und Prädikatswein
 
 1.  vorzuschreiben, unter welchen weiteren Voraussetzungen die amtliche
     Prüfungsnummer zuzuteilen ist; dabei sind insbesondere die
@@ -1617,22 +1715,23 @@ Qualitätslikörwein b. A., Qualitätsperlwein b. A. und Prädikatswein
     Prüfungsnummer zurückzunehmen ist,
 
 
-6.  vorzuschreiben, unter welchen Voraussetzungen ein Qualitätswein b. A.
-    bei der amtlichen Qualitätsweinprüfung zu einem anderen Erzeugnis,
-    insbesondere zu Wein, herabgestuft werden kann.
+6.  vorzuschreiben, unter welchen Voraussetzungen ein Qualitätswein oder
+    Prädikatswein bei der amtlichen Qualitätsweinprüfung zu einem anderen
+    Erzeugnis, insbesondere zu Wein, herabgestuft werden kann.
 
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies den Interessen des
-Verbrauchers dient oder ein wirtschaftliches Bedürfnis besteht und
-Interessen des Verbrauchers nicht entgegenstehen, Ausnahmen von § 19
-Abs. 1 und § 20 Abs. 1 zuzulassen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies den Interessen des Verbrauchers dient oder ein
+wirtschaftliches Bedürfnis besteht und Interessen des Verbrauchers
+nicht entgegenstehen, Ausnahmen von § 19 Abs. 1 und § 20 Abs. 1
+zuzulassen.
 
-(3) Die Landesregierungen bestimmen für die einzelnen Qualitätsweine
-b. A. durch Rechtsverordnung über die in auf Grund des Absatzes 1
+(3) Die Landesregierungen bestimmen für die einzelnen Qualitätsweine,
+Prädikatsweine, Qualitätslikörweine b.A., Qualitätsperlweine b.A. und
+Sekte b.A. durch Rechtsverordnung über die in auf Grund des Absatzes 1
 erlassenen Rechtsverordnungen enthaltenen Voraussetzungen hinaus
 weitere Grenzwerte für charakteristische Faktoren, soweit dies zur
 Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
@@ -1645,7 +1744,9 @@ Europäischen Union erforderlich ist.
 
 1.  die zur Weinherstellung verwendeten Trauben zu mindestens 85 vom
     Hundert aus dem Landweingebiet stammen, dessen Bezeichnung der Wein
-    trägt,
+    trägt; die restlichen Anteile, einschließlich der zur Süßung
+    verwendeten Erzeugnisse, dürfen nur aus Trauben hergestellt sein, die
+    aus anderen Landweingebieten stammen,
 
 
 2.  eine Konzentrierung durch Kälte nicht vorgenommen worden ist,
@@ -1658,18 +1759,15 @@ Europäischen Union erforderlich ist.
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Vorschriften über das Süßen und den Restzuckergehalt von Landwein zu
     erlassen,
 
 
-2.  vorzuschreiben, dass bestimmte Maßnahmen bei der jährlichen Kontrolle
-    der Einhaltung der Spezifikation durchzuführen sind, insbesondere zu
-    bestimmen, dass analytische Untersuchungen der Weine in systematischer
-    Weise oder stichprobenweise durchgeführt werden.
+2.  festzulegen, unter welchen Voraussetzungen das Herstellen eines
+    Landweines außerhalb des Landweingebietes zulässig ist.
 
 
 
@@ -1687,27 +1785,26 @@ Zustimmung des Bundesrates
 
 
 3.  das Verfahren der jährlichen Kontrolle der Produktspezifikationen der
-    Landweine; sie können dabei vorsehen, dass bei der jährlichen
-    Kontrolle der Produktspezifikationen organoleptische Untersuchungen
-    der Weine in systematischer Weise oder stichprobenweise durchgeführt
-    werden.
+    Landweine.
 
 
 
 
 
-### § 22a Jährliche Kontrollen der Spezifikationen
+### § 22a Jährliche Kontrollen der Produktspezifikationen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften über die Kontrollen,
-insbesondere durch analytische oder organoleptische Prüfungen, zur
-Einhaltung von Produktspezifikationen von Weinen mit
-Ursprungsbezeichnungen oder geografischen Angaben zu erlassen, soweit
-dies zur Durchführung von für den Weinbau und die Weinwirtschaft
-anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der
-Europäischen Union hinsichtlich der Vorschriften über
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Vorschriften über die Kontrollen zur Einhaltung von
+Produktspezifikationen von Weinen mit geschützter Ursprungsbezeichnung
+oder geschützter geografischer Angabe oder aromatisierten
+Weinerzeugnissen mit einer geschützten geografischen Angabe zu
+erlassen, soweit dies zur Durchführung von für den Weinbau und die
+Weinwirtschaft anwendbaren Rechtsakten der Europäischen Gemeinschaft
+oder der Europäischen Union hinsichtlich der Vorschriften über
 Ursprungsbezeichnungen und geografische Angaben erforderlich ist.
+Kontrollen im Sinne des Satzes 1 sind insbesondere analytische oder
+organoleptische Prüfungen.
 
 (2) Die Durchführung der Kontrolle obliegt den nach Landesrecht
 zuständigen Stellen. Die Landesregierungen werden ermächtigt, durch
@@ -1734,12 +1831,24 @@ Rechtsverordnung
 (1) Geografische Bezeichnungen im Sinne dieses Gesetzes sind
 
 1.  die Ursprungsbezeichnungen und die geografischen Angaben im Sinne des
-    Artikels 118b Absatz 1 Buchstabe a und b der Verordnung (EG) Nr.
-    1234/2007,
+    Artikels 93 Absatz 1 Buchstabe a und b der Verordnung (EU) Nr.
+    1308/2013,
+
+
+1a. die geografische Angabe im Sinne des Artikels 2 Nummer 3 der
+    Verordnung (EU) Nr. 251/2014 des Europäischen Parlaments und des Rates
+    vom 26. Februar 2014 über die Begriffsbestimmung, Beschreibung,
+    Aufmachung und Etikettierung von aromatisierten Weinerzeugnissen sowie
+    den Schutz geografischer Angaben für aromatisierte Weinerzeugnisse und
+    zur Aufhebung der Verordnung (EWG) Nr. 1601/91 des Rates (ABl. L 84
+    vom 20.3.2014, S. 14) in der jeweils geltenden Fassung,
 
 
 2.  die Namen von in die Weinbergsrolle eingetragenen Lagen und Bereichen
-    sowie
+    und Namen kleinerer geografischer Einheiten, die in der
+    Liegenschaftskarte abgegrenzt sind, soweit diese Namen in einem in der
+    Rechtsverordnung nach § 23 Absatz 4 geregelten Verfahren in die
+    Weinbergrolle eingetragen sind, sowie
 
 
 3.  die Namen von Gemeinden und Ortsteilen, die im geschäftlichen Verkehr
@@ -1769,22 +1878,28 @@ Irreführung über die geografische Herkunft besteht.
 (3) § 128 Absatz 1 und 2 des Markengesetzes gilt entsprechend.
 
 
-### § 22c Antrag auf Schutz einer geografischen Bezeichnung nach EG-Recht
+### § 22c Antrag auf Schutz einer geografischen Bezeichnung nach der Verordnung (EU) Nr. 1308/2013
 
 (1) Anträge auf Eintragung einer geografischen Angabe oder
 Ursprungsbezeichnung in das Verzeichnis der geschützten
 Ursprungsbezeichnungen und geografischen Angaben, das von der
-Europäische Kommission nach Artikel 118n der Verordnung (EG) Nr.
-1234/2007 geführt wird, sind bei der Bundesanstalt für Landwirtschaft
-und Ernährung (Bundesanstalt) zu stellen.
+Europäische Kommission nach Artikel 104 Satz 1 der Verordnung (EU) Nr.
+1308/2013 unterhalten wird, sind bei der Bundesanstalt für
+Landwirtschaft und Ernährung (Bundesanstalt) zu stellen. Sofern
+Anträge das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1
+oder eines oder mehrere nach § 3 Absatz 2 in Verbindung mit § 3 Absatz
+4 festgelegte Gebiete betreffen, ist ihnen, sofern für das Gebiet eine
+Organisation zur Verwaltung herkunftsgeschützter Weinnamen nach § 22g
+Absatz 1 anerkannt wurde, eine begründete Stellungnahme dieser
+Organisation beizufügen.
 
 (2) Die Bundesanstalt veröffentlicht den Antrag im Bundesanzeiger.
-Gegen den Antrag kann innerhalb von vier Monaten ab seiner
+Gegen den Antrag kann innerhalb von zwei Monaten ab seiner
 Veröffentlichung von jeder Person mit einem berechtigten Interesse,
 die im Gebiet der Bundesrepublik Deutschland niedergelassen oder
 ansässig ist, bei der Bundesanstalt Einspruch eingelegt werden.
 
-(3) Die Bundesanstalt holt zu dem Antrag innerhalb der vier Monate
+(3) Die Bundesanstalt holt zu dem Antrag innerhalb der zwei Monate
 eine Stellungnahme der für den Weinbau zuständigen obersten
 Landesbehörde des Landes oder der Länder ein, in dessen oder deren
 örtlicher Zuständigkeit die Rebflächen belegen sind, die im Rahmen der
@@ -1796,12 +1911,11 @@ Entscheidung über das Vorliegen der Eintragungsvoraussetzungen unter
 Berücksichtigung der eingeholten Stellungnahmen nach Absatz 3 und nach
 Anhörung eines Fachausschusses, der von der Bundesanstalt einberufen
 wird und sich zusammensetzt aus Vertretern des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz, der für den Weinbau
-zuständigen obersten Landesbehörden und den Verbänden der
-Weinwirtschaft.
+Ernährung und Landwirtschaft, der für den Weinbau zuständigen obersten
+Landesbehörden und den Verbänden der Weinwirtschaft.
 
 (5) Entspricht der Antrag den Voraussetzungen eines Schutzes nach der
-Verordnung (EG) Nr. 1234/2007 und der zu seiner Durchführung
+Verordnung (EU) Nr. 1308/2013 und der zu seiner Durchführung
 erlassenen Vorschriften, stellt die Bundesanstalt dieses fest.
 Andernfalls wird der Antrag zurückgewiesen. Die Bundesanstalt
 veröffentlicht den stattgebenden Bescheid im Bundesanzeiger. Kommt es
@@ -1814,17 +1928,16 @@ Einspruch eingelegt haben.
 (6) Sobald der Bescheid nach Absatz 5 Satz 1 bestandskräftig geworden
 ist, unterrichtet die Bundesanstalt den Antragsteller hierüber und
 übermittelt den Antrag mit den erforderlichen Unterlagen dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz übermittelt den Antrag an die Europäische
-Kommission.
+Bundesministerium für Ernährung und Landwirtschaft. Das
+Bundesministerium für Ernährung und Landwirtschaft übermittelt den
+Antrag an die Europäische Kommission.
 
 (7) Die Bundesanstalt veröffentlicht die Fassung der Spezifikation,
 auf die sich die positive Entscheidung bezieht, im Bundesanzeiger.
 
-(8) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
+(8) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Bestimmungen zu erlassen über
 
 1.  das Antragsverfahren nach Absatz 1 und das Einspruchsverfahren nach
     Absatz 2,
@@ -1833,11 +1946,11 @@ Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
 2.  den in Absatz 4 genannten Fachausschuss,
 
 
-3.  das Einspruchsverfahren im Sinne des Artikels 118h der Verordnung (EG)
-    Nr. 1234/2007 und das Verfahren zur Änderung einer
-    Produktspezifikation im Sinne des Artikels 118q der Verordnung (EG)
-    Nr. 1234/2007, soweit sich das Erfordernis hierfür aus den Rechtsakten
-    der Europäischen Gemeinschaft oder der Europäischen Union ergibt.
+3.  das Einspruchsverfahren im Sinne des Artikels 98 der Verordnung (EU)
+    Nr. 1308/2013 und das Verfahren zur Änderung einer
+    Produktspezifikation im Sinne des Artikels 105 der Verordnung (EU) Nr.
+    1308/2013, soweit sich das Erfordernis hierfür aus den Rechtsakten der
+    Europäischen Gemeinschaft oder der Europäischen Union ergibt.
 
 
 
@@ -1845,13 +1958,13 @@ Zustimmung des Bundesrates nähere Bestimmungen zu erlassen über
 
 ### § 22d Merkmale von Weinen mit geschützter Ursprungsbezeichnung oder geschützter geografischer Angabe
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Anforderungen hinsichtlich der
-Hektarerträge, Mindestalkoholgehalte und charakteristischen Merkmale
-festzulegen, die von den Weinen zu erfüllen sind, für die ein Antrag
-auf den Schutz einer Ursprungsbezeichnung oder geografischen Angabe
-gestellt wird, soweit dies
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Anforderungen hinsichtlich der Hektarerträge, Mindestalkoholgehalte
+und charakteristischen Merkmale festzulegen, die von den Weinen zu
+erfüllen sind, für die ein Antrag auf den Schutz einer
+Ursprungsbezeichnung oder geografischen Angabe gestellt wird, soweit
+dies
 
 1.  der Durchführung von für den Weinbau und die Weinwirtschaft
     anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der
@@ -1866,31 +1979,128 @@ gestellt wird, soweit dies
 dient.
 
 
+### § 22e Antrag auf Schutz einer geografischen Angabe nach der Verordnung (EU) Nr. 251/2014
+
+(1) Anträge auf Eintragung einer geografischen Angabe in das Register
+der geschützten geografischen Angaben für aromatisierte
+Weinerzeugnisse, das von der Europäischen Kommission nach Artikel 21
+Unterabsatz 1 der Verordnung (EU) Nr. 251/2014 unterhalten wird, sind
+bei der Bundesanstalt zu stellen.
+
+(2) § 22c Absatz 2 und 5 bis 7 ist auf Anträge nach Absatz 1
+entsprechend anzuwenden. Dies gilt auch für das in Artikel 15 der
+Verordnung (EU) Nr. 251/2014 genannte Einspruchsverfahren sowie das
+Verfahren zur Änderung einer Produktspezifikation gemäß Artikel 24
+Absatz 1 der Verordnung (EU) Nr. 251/2014.
+
+(3) § 22c Absatz 3 ist auf Anträge nach Absatz 1 mit der Maßgabe
+entsprechend anzuwenden, dass für die dort genannte Stellungnahme auf
+den Ort der Herstellung des zu schützenden aromatisierten
+Weinerzeugnisses abzustellen ist.
+
+(4) § 22c Absatz 4 ist auf Anträge nach Absatz 1 mit der Maßgabe
+entsprechend anzuwenden, dass bei der Zusammensetzung des
+Fachausschusses als Vertreter der Weinwirtschaft Verbände
+berücksichtigt werden sollen, deren Mitglieder sich mit der
+Herstellung und dem Handel aromatisierter Weinerzeugnisse befassen.
+
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Bestimmungen zu erlassen über
+
+1.  das Antragsverfahren nach Absatz 1 und das Einspruchsverfahren nach
+    Absatz 2,
+
+
+2.  den in Absatz 4 genannten Fachausschuss,
+
+
+3.  das Einspruchsverfahren im Sinne des Artikels 15 der Verordnung (EU)
+    Nr. 251/2014 und das Verfahren zur Änderung einer Produktspezifikation
+    im Sinne des Artikels 24 Absatz 1 der Verordnung (EU) Nr. 251/2014,
+    soweit sich das Erfordernis hierfür aus den Rechtsakten der
+    Europäischen Union ergibt.
+
+
+
+
+
+### § 22f Strengere Vorschriften zu aromatisierten Weinerzeugnissen mit geschützter geografischer Angabe
+
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, zur Verbesserung der Qualität der aromatisierten
+Weinerzeugnisse mit geschützter geografischer Angabe durch
+Rechtsverordnung mit Zustimmung des Bundesrates strengere Vorschriften
+als die Vorschriften des Artikels 4 Absatz 1 und der Anhänge I und II
+der Verordnung (EU) Nr. 251/2014 für die Erzeugung und Beschreibung
+der aromatisierten Weinerzeugnisse zu erlassen.
+
+
+### § 22g Organisationen zur Verwaltung herkunftsgeschützter Weinnamen
+
+(1) Die Landesregierungen können durch Rechtsverordnung vorsehen, dass
+für das Gebiet eines oder mehrerer Anbaugebiete nach § 3 Absatz 1 oder
+eines oder mehrerer nach § 3 Absatz 2 in Verbindung mit § 3 Absatz 4
+festgelegter Gebiete Organisationen zur Verwaltung
+herkunftsgeschützter Weinnamen anerkannt werden. Sofern sich ein
+Gebiet nach Satz 1 über das Gebiet mehrerer Länder erstreckt, ist die
+Anerkennung durch die zuständige Behörde des Landes zu erteilen, in
+dem der überwiegende Teil des Gebietes belegen ist; die Anerkennung
+bedarf des Einvernehmens des jeweiligen betroffenen Landes.
+
+(2) Organisationen im Sinne des Absatzes 1 können Anträge für eine
+Änderung der Produktspezifikation einer geschützten
+Ursprungsbezeichnung oder einer geschützten geografischen Angabe nach
+Artikel 105 der Verordnung (EU) Nr. 1308/2013 vorbereiten und Anträge
+nach § 22c Absatz 1 stellen.
+
+(3) In einer Rechtsverordnung nach Absatz 1 ist festzulegen, dass eine
+Organisation nur anerkannt werden kann, wenn sie eine Gruppe von
+Erzeugern vertritt, die für das bestimmte Anbaugebiet oder
+Landweingebiet hinreichend repräsentativ ist. Dies ist der Fall, wenn
+die Mitglieder der Organisation in dem Gebiet über mindestens zwei
+Drittel der Weinbergflächen verfügen und auf sie zusätzlich zwei
+Drittel der Weinerzeugung entfallen. Die Weinerzeugung bezieht sich
+insoweit bei Qualitätsweinen auf die geprüfte Qualitätsweinmenge und
+bei Landweinen auf die in Verkehr gebrachte Landweinmenge. Die
+Mitgliedschaft in der Organisation kann durch Vereinigungen
+repräsentativ für deren Mitglieder wahrgenommen werden. Nach ihrer
+Satzung soll eine Organisation Regelungen vorsehen, nach der
+Traubenerzeuger ebenso wie Weinerzeuger entsprechend der im jeweiligen
+Gebiet vorhandenen Struktur vertreten sind. In der Rechtsverordnung
+nach Absatz 1 können zudem weitere Anerkennungsvoraussetzungen
+festgelegt werden, insbesondere im Hinblick auf die zur Erfüllung der
+Aufgaben der Organisation notwendigen Mittel und Strukturen.
+
+
 ### § 23 Angabe kleinerer geografischer Einheiten
 
-(1) Für Erzeugnisse, die mit dem Namen eines bestimmten Anbaugebietes,
-der als Ursprungsbezeichnung geschützt ist, gekennzeichnet sind,
-dürfen zusätzlich zu dem auf Grund der für den Weinbau und die
-Weinwirtschaft anwendbaren Rechtsakte der Europäischen Gemeinschaft
-oder der Europäischen Union vorgesehenen Namen des bestimmten
-Anbaugebietes nach Artikel 118z Absatz 1 Buchstabe g der Verordnung
-(EG) Nr. 1234/2007 nur angegeben werden:
+(1) Für Erzeugnisse, die mit dem Namen eines der in § 3 Absatz 1
+genannten Anbaugebiete, der als Ursprungsbezeichnung geschützt ist,
+gekennzeichnet sind, dürfen zusätzlich zu dem auf Grund der für den
+Weinbau und die Weinwirtschaft anwendbaren Rechtsakte der Europäischen
+Gemeinschaft oder der Europäischen Union vorgesehenen Namen des in § 3
+Absatz 3 genannten Anbaugebietes nach Artikel 120 Absatz 1 Buchstabe g
+der Verordnung (EU) Nr. 1308/2013 nur angegeben werden:
 
 1.  die Namen von in die Weinbergsrolle eingetragenen Lagen und Bereichen,
 
 
-2.  die Namen von Gemeinden und Ortsteilen.
+2.  die Namen kleinerer geografischer Einheiten, die in der
+    Liegenschaftskarte abgegrenzt sind, soweit diese Namen in einem in der
+    Rechtsverordnung nach Absatz 4 geregelten Verfahren in die
+    Weinbergrolle eingetragen sind,
+
+
+3.  die Namen von Gemeinden und Ortsteilen.
 
 
 
-(2) Sofern der Name einer Lage, eines Bereiches, einer Gemeinde oder
-eines Ortsteils in das Register der geschützten Ursprungsbezeichnungen
-oder geografischen Angaben für Wein eingetragen ist, ist dessen
-Verwendung nach Absatz 1 nicht zulässig.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+(2) (weggefallen)
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Voraussetzungen für die Eintragung und Bezeichnung von Lagen und
     Bereichen in die Weinbergsrolle festzulegen,
@@ -1917,7 +2127,7 @@ Zustimmung des Bundesrates
 
 (4) Die Landesregierungen regeln durch Rechtsverordnung die
 Einrichtung und Führung der Weinbergsrolle; dabei sind für die in
-Absatz 1 Nr. 1 Buchstabe a genannten geographischen Einheiten
+Absatz 1 Nr. 1 genannten geographischen Einheiten
 
 1.  die Abgrenzung,
 
@@ -1948,42 +2158,14 @@ Lage oder eines Bereiches eine Stellungnahme nach § 22c Absatz 3
 abzugeben ist.
 
 
-### § 23a Verwendung mehrerer Bezeichnungen
-
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zu regeln, unter welchen Voraussetzungen
-eine im Verfahren nach Artikel 118i der Verordnung (EG) Nr. 1234/2007
-eingetragene Ursprungsbezeichnung oder geografische Angabe zusammen
-mit
-
-1.  einer nach Artikel 118s Absatz 1 der Verordnung (EG) Nr. 1234/2007
-    geschützten Ursprungsbezeichnung oder geografischen Angabe oder
-
-
-2.  einem anerkannten traditionellen Begriff im Sinne des Artikels 118u
-    Absatz 1 der Verordnung (EG) Nr. 1234/2007 oder
-
-
-3.  dem Namen einer Gemeinde oder eines Ortsteils
-
-
-
-in der Kennzeichnung verwendet werden darf.
-
-
 ### § 24 Bezeichnungen und sonstige Angaben
 
-(1) Erzeugnisse mit Weinnamen, die nach Artikel 118s Absatz 1 der
-Verordnung (EG) Nr. 1234/2007 geschützt sind, dürfen bis zum 31.
-Dezember 2011 nicht mit der Angabe „Geschützte Ursprungsbezeichnung“
-oder „Geschützte geografische Angabe“ gekennzeichnet werden.
+(1) (weggefallen)
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit ein wirtschaftliches Bedürfnis
-besteht und Interessen des Verbrauchers nicht entgegenstehen,
-Vorschriften zu erlassen über
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit ein wirtschaftliches Bedürfnis besteht und Interessen des
+Verbrauchers nicht entgegenstehen, Vorschriften zu erlassen über
 
 1.  die Bezeichnung, die Aufmachung und sonstige Angaben für Erzeugnisse,
     insbesondere über die Art des Erzeugnisses, die Weinart,
@@ -2006,9 +2188,9 @@ Vorschriften zu erlassen über
 
 
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zum Schutz des Verbrauchers zu regeln,
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum
+Schutz des Verbrauchers zu regeln,
 
 1.  welche Angaben bei Hinweis auf eine diätetische Eignung erlaubt oder
     erforderlich sind,
@@ -2038,10 +2220,9 @@ Zustimmung des Bundesrates zum Schutz des Verbrauchers zu regeln,
 
 
 
-(4) Soweit das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz von seiner Ermächtigung nach Absatz 2 keinen
-Gebrauch macht, werden die Landesregierungen ermächtigt, durch
-Rechtsverordnung
+(4) Soweit das Bundesministerium für Ernährung und Landwirtschaft von
+seiner Ermächtigung nach Absatz 2 keinen Gebrauch macht, werden die
+Landesregierungen ermächtigt, durch Rechtsverordnung
 
 1.  Auszeichnungen anzuerkennen,
 
@@ -2055,8 +2236,8 @@ Rechtsverordnung
 (5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
 
 1.  die Bestimmungen für Weine mit der Angabe einer oder mehrerer
-    Rebsorten oder der Angabe des Erntejahres nach Artikel 118z Absatz 2
-    Buchstabe a der Verordnung (EG) Nr. 1234/2007 zu regeln, die
+    Rebsorten oder der Angabe des Erntejahres nach Artikel 120 Absatz 2
+    Buchstabe a der Verordnung (EU) Nr. 1308/2013 zu regeln, die
     sicherstellen, dass Zertifizierungs-, Genehmigungs- und
     Kontrollverfahren zur Gewährleistung der Richtigkeit der betreffenden
     Angaben bestehen,
@@ -2073,8 +2254,76 @@ Rechtsverordnung
 
 
 
+(6) Die Landesregierungen werden ferner ermächtigt, soweit ein
+wirtschaftliches Bedürfnis besteht und Interessen des Verbrauchers
+nicht entgegenstehen, durch Rechtsverordnung die Verwendung einer oder
+mehrerer der in § 23 Absatz 1 genannten Bezeichnungen an strengere
+Regelungen zu knüpfen, als sie für das in § 3 Absatz 1 genannte
+Anbaugebiet, innerhalb dessen sich die betroffene geografische Einheit
+befindet, allgemein festgelegt sind, insbesondere hinsichtlich
 
-### § 25 Verbot zum Schutz vor Täuschung
+1.  einer Beschränkung der zugelassenen Rebsorten,
+
+
+2.  des zulässigen Hektarertrages,
+
+
+3.  des natürlichen Mindestalkoholgehalts oder
+
+
+4.  des Restzuckergehalts.
+
+
+
+In der Rechtsverordnung nach Satz 1 können die Landesregierungen
+darüber hinaus strengere Regelungen hinsichtlich der in der amtlichen
+Qualitätsprüfung erreichten Qualitätszahl, besondere Voraussetzungen
+für die sensorische Prüfung oder besondere Aufzeichnungs- oder
+Nachweispflichten festlegen. Die Regelungen nach Satz 1, auch in
+Verbindung mit Satz 2, können für einzelne in § 3 Absatz 1 genannte
+Anbaugebiete oder Teile davon unter Berücksichtigung der für das
+jeweilige kleinere geografische Gebiet typischen (regionaltypischen)
+Besonderheiten unterschiedlich festgelegt werden.
+
+(7) Soweit durch Rechtsverordnung des Bundes zugelassen ist, dass die
+Angaben „Steillage“, „Steillagenwein“, „Terrassenlage“ oder
+„Terrassenlagenwein“ verwendet werden dürfen, können die
+Landesregierungen, soweit ein wirtschaftliches Bedürfnis besteht,
+Interessen des Verbrauchers nicht entgegenstehen und regionaltypische
+Besonderheiten dies rechtfertigen, durch Rechtsverordnung strengere
+Regelungen treffen, als sie für das in § 3 Absatz 1 genannte
+Anbaugebiet, innerhalb dessen sich die betroffene geografische Einheit
+befindet, allgemein festgelegt sind, insbesondere hinsichtlich
+
+1.  einer Beschränkung der zugelassenen Rebsorten,
+
+
+2.  des zulässigen Hektarertrages,
+
+
+3.  des natürlichen Mindestalkoholgehalts oder
+
+
+4.  des Restzuckergehalts.
+
+
+
+In der Rechtsverordnung nach Satz 1 können sie darüber hinaus
+strengere Regelungen hinsichtlich der in der amtlichen
+Qualitätsprüfung erreichten Qualitätszahl, besondere Voraussetzungen
+für die sensorische Prüfung oder besondere Aufzeichnungs- oder
+Nachweispflichten festlegen. In der Rechtsverordnung nach Satz 1
+dürfen keine Regelungen im Hinblick auf den in § 6 Absatz 2 Nummer 1
+genannten Hangneigungswinkel getroffen werden.
+
+
+### § 24a Besondere Bezeichnungen für Qualitätsschaumwein
+
+Der Name eines Landweingebietes darf auch für einen
+Qualitätsschaumwein verwendet werden.
+
+
+### § 25 Verbote zum Schutz vor Täuschung
 
 (1) Erzeugnisse dürfen nicht mit irreführenden Bezeichnungen,
 Hinweisen, sonstigen Angaben oder Aufmachungen in den Verkehr
@@ -2141,11 +2390,10 @@ Regelung dies ausdrücklich vorsieht.
 Erzeugnisse zu sein, oder Vormischungen für solche Getränke dürfen
 nicht verarbeitet, in den Verkehr gebracht oder eingeführt werden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit hierfür ein wirtschaftliches
-Bedürfnis besteht und Interessen des Verbrauchers nicht
-entgegenstehen,
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit hierfür ein wirtschaftliches Bedürfnis besteht und Interessen
+des Verbrauchers nicht entgegenstehen,
 
 1.  Ausnahmen von den Verboten der Absätze 1 oder 2 zuzulassen, und dabei
 
@@ -2159,6 +2407,12 @@ In einer Rechtsverordnung nach Satz 1 Nr. 1 kann vorgesehen werden,
 dass zur Sicherung einer ausreichenden Überwachung das
 Inverkehrbringen von einer Anzeige, Genehmigung oder von anderen
 Voraussetzungen abhängig gemacht werden kann.
+
+
+### § 26a Regelungen zum Schutz vor ionisierender Strahlung
+
+Die Regelungen des Abschnitts 9a des Lebensmittel- und
+Futtermittelgesetzbuches gelten entsprechend.
 
 
 ## 6. Abschnitt - Überwachung
@@ -2177,14 +2431,14 @@ ihre Vorschriftswidrigkeit ausschließlich auf der Verletzung von
 Vorschriften über Bezeichnungen, sonstige Angaben und Aufmachungen
 beruht.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, sofern ein wirtschaftliches Bedürfnis
-besteht und schwerwiegende Interessen des Verbrauchers nicht
-entgegenstehen, Ausnahmen von Absatz 1 zuzulassen, und dabei
-insbesondere die Voraussetzungen zu regeln und Vorschriften über die
-Verarbeitung, Verwendung, Verwertung, Bezeichnung, Aufmachung und das
-Inverkehrbringen sowie das Verfahren zu erlassen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+sofern ein wirtschaftliches Bedürfnis besteht und schwerwiegende
+Interessen des Verbrauchers nicht entgegenstehen, Ausnahmen von Absatz
+1 zuzulassen, und dabei insbesondere die Voraussetzungen zu regeln und
+Vorschriften über die Verarbeitung, Verwendung, Verwertung,
+Bezeichnung, Aufmachung und das Inverkehrbringen sowie das Verfahren
+zu erlassen.
 
 
 ### § 28 Besondere Verkehrsverbote
@@ -2198,10 +2452,9 @@ Gegenstand der Werbung gemacht werden.
 darf nur nach ausreichender Vergällung in den Verkehr gebracht oder
 bezogen werden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung vorzuschreiben
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung vorzuschreiben
 
 1.  was als ausreichendes Vergällen im Sinne des Absatzes 2 anzusehen,
 
@@ -2225,10 +2478,9 @@ Zustimmung des Bundesrates zur Sicherung einer ausreichenden
 
 ### § 29 Weinbuchführung
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung vorzuschreiben, dass
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung vorzuschreiben, dass
 
 1.  über das Verarbeiten, das Inverkehrbringen, die Einfuhr und die
     Ausfuhr Buch zu führen ist und die zugehörigen Unterlagen
@@ -2301,10 +2553,9 @@ Eintragungen vorgeschrieben werden über
 
 ### § 30 Begleitpapiere
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung
 
 1.  vorzuschreiben, dass Erzeugnisse nur mit einem Begleitpapier in den
     Verkehr gebracht, eingeführt oder ausgeführt werden dürfen sowie
@@ -2417,10 +2668,10 @@ Erzeugnisse erfahren ist, das Verfahren ihrer Verarbeitung zu
 beurteilen vermag und mit den einschlägigen Rechtsvorschriften
 vertraut ist.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden oder
-gleichmäßigen Überwachung Vorschriften zu erlassen über
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden oder gleichmäßigen Überwachung
+Vorschriften zu erlassen über
 
 1.  die Ausgabe und die Verwendung von Kontrollzeichen oder die Anwendung
     anderer Kontrollverfahren für Erzeugnisse,
@@ -2457,8 +2708,8 @@ ihnen Auskünfte nach Absatz 1 Nr. 5 zu erteilen.
 bis 8, § 39 Abs. 1, 2 Satz 1 und 2 Nr. 1 bis 5, 7 und 8, soweit dieser
 sich auf Anordnungen zur Durchsetzung der Pflicht des
 Lebensmittelunternehmers bezieht, und Nr. 9, Abs. 3 Nr. 1 und Abs. 7,
-§§ 40, 42 Abs. 5, § 43 Abs. 1 bis 4 sowie § 49 Abs. 1 bis 3 des
-Lebensmittel- und Futtermittelgesetzbuches entsprechend.
+§§ 40, 42 Abs. 5, § 43 Abs. 1 bis 4, § 44 Absatz 6 sowie § 49 Abs. 1
+bis 3 des Lebensmittel- und Futtermittelgesetzbuches entsprechend.
 
 
 ### § 32 Rückstandsbeobachtung bei geernteten Weintrauben
@@ -2471,15 +2722,21 @@ Weintrauben Anwendung.
 
 ### § 33 Meldungen, Übermittlung von Informationen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung vorzuschreiben, dass und in welcher Weise
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung vorzuschreiben, dass und in
+welcher Weise
 
 1.  Vorhaben, Rebflächen zu roden oder aufzugeben, wiederzubepflanzen oder
     Reben neu anzupflanzen, sowie erfolgte Rodungen, Aufgaben,
     Wiederbepflanzungen oder Neuanpflanzungen den zuständigen Behörden zu
     melden sind,
+
+
+1a. Flächen, die ohne Genehmigung mit Reben bepflanzt oder die
+    entsprechend Artikel 71 Absatz 1 oder Absatz 2 Satz 1 der Verordnung
+    (EU) Nr. 1308/2013 gerodet worden sind, und deren Umfang den
+    zuständigen Behörden zu melden sind,
 
 
 2.  die Rebflächen des Betriebes, die Ertragsrebfläche, die Erntemenge
@@ -2507,23 +2764,23 @@ Zustimmung des Bundesrates zur Sicherung einer ausreichenden
     melden sind,
 
 
-7.  das Herabstufen eines Qualitätsweines b. A. auf der Erzeugerstufe zu
-    melden ist.
+7.  das Herabstufen eines Qualitätsweines oder eines Prädikatsweines auf
+    der Erzeugerstufe zu melden ist.
 
 
 
 
-(1a) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit es zum Schutz der Gesundheit der
-Verbraucherin oder des Verbrauchers erforderlich ist, vorzuschreiben,
-dass, zu welchem Zeitpunkt und in welcher Weise derjenige, der Grund
-zu der Annahme hat, dass ein von ihm hergestelltes, behandeltes,
-eingeführtes oder in den Verkehr gebrachtes Erzeugnis den unmittelbar
-geltenden Rechtsakten der Europäischen Gemeinschaft oder der
-Europäischen Union im Anwendungsbereich dieses Gesetzes, diesem Gesetz
-oder den auf Grund dieses Gesetzes erlassenen Rechtsverordnungen nicht
-entspricht, die für die Überwachung zuständige Behörde
+(1a) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ferner ermächtigt, durch Rechtsverordnung mit Zustimmung des
+Bundesrates, soweit es zum Schutz der Gesundheit der Verbraucherin
+oder des Verbrauchers erforderlich ist, vorzuschreiben, dass, zu
+welchem Zeitpunkt und in welcher Weise derjenige, der Grund zu der
+Annahme hat, dass ein von ihm hergestelltes, behandeltes, eingeführtes
+oder in den Verkehr gebrachtes Erzeugnis den unmittelbar geltenden
+Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+im Anwendungsbereich dieses Gesetzes, diesem Gesetz oder den auf Grund
+dieses Gesetzes erlassenen Rechtsverordnungen nicht entspricht, die
+für die Überwachung zuständige Behörde
 
 1.  darüber und über die Maßnahmen zu unterrichten hat, die getroffen
     worden sind, um eine Gefahr für die menschliche Gesundheit zu
@@ -2553,31 +2810,31 @@ darf nicht zur strafrechtlichen Verfolgung des Unterrichtenden oder
 für ein Verfahren nach dem Gesetz über Ordnungswidrigkeiten gegen den
 Unterrichtenden verwendet werden.
 
-(1b) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird weiter ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit es zum Schutz der Verbraucherin
-oder des Verbrauchers erforderlich ist, vorzuschreiben, dass, zu
-welchem Zeitpunkt und in welcher Weise ein Lebensmittelunternehmer,
-der Grund zu der Annahme hat, dass ein von einem anderen
-Lebensmittelunternehmer in den Verkehr gebrachtes Erzeugnis, das für
-ihn bestimmt ist und über das er die tatsächliche unmittelbare
-Sachherrschaft erlangt hat oder das ihm angeliefert worden ist, einem
-Verkehrsverbot nach Artikel 14 Abs. 1 der Verordnung (EG) Nr. 178/2002
-unterliegt, die für die Überwachung zuständige Behörde darüber und
-über hinsichtlich des Erzeugnisses getroffene oder beabsichtigte
-Maßnahmen zu unterrichten hat.
+(1b) Das Bundesministerium für Ernährung und Landwirtschaft wird
+weiter ermächtigt, durch Rechtsverordnung mit Zustimmung des
+Bundesrates, soweit es zum Schutz der Verbraucherin oder des
+Verbrauchers erforderlich ist, vorzuschreiben, dass, zu welchem
+Zeitpunkt und in welcher Weise ein Lebensmittelunternehmer, der Grund
+zu der Annahme hat, dass ein von einem anderen Lebensmittelunternehmer
+in den Verkehr gebrachtes Erzeugnis, das für ihn bestimmt ist und über
+das er die tatsächliche unmittelbare Sachherrschaft erlangt hat oder
+das ihm angeliefert worden ist, einem Verkehrsverbot nach Artikel 14
+Abs. 1 der Verordnung (EG) Nr. 178/2002 unterliegt, die für die
+Überwachung zuständige Behörde darüber und über hinsichtlich des
+Erzeugnisses getroffene oder beabsichtigte Maßnahmen zu unterrichten
+hat.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, soweit dies
-zur Durchführung von für den Weinbau und die Weinwirtschaft
-anwendbaren Rechtsakten der Europäischen Gemeinschaft oder der
-Europäischen Union erforderlich ist, Vorschriften über die
-Übermittlung von anonymisierten Informationen durch die zuständigen
-obersten Landesbehörden an das Bundesministerium für Ernährung,
-Landwirtschaft und Forsten oder die Bundesanstalt für Landwirtschaft
-und Ernährung zu erlassen. Es kann dabei insbesondere vorschreiben,
-dass und in welcher Weise zur Aufstellung über das
-Produktionspotential erforderliche Angaben zu übermitteln sind.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung, soweit dies zur Durchführung von
+für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
+Europäischen Gemeinschaft oder der Europäischen Union erforderlich
+ist, Vorschriften über die Übermittlung von anonymisierten
+Informationen durch die zuständigen obersten Landesbehörden an das
+Bundesministerium für Ernährung, Landwirtschaft und Forsten oder die
+Bundesanstalt für Landwirtschaft und Ernährung zu erlassen. Es kann
+dabei insbesondere vorschreiben, dass und in welcher Weise zur
+Aufstellung über das Produktionspotential erforderliche Angaben zu
+übermitteln sind.
 
 
 ### § 34 Verwendung von Einzelangaben; Weitergabe von Daten aus der Weinbaukartei
@@ -2640,11 +2897,11 @@ Interesse an dem Ausschluss der Auskunft hat.
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zum Schutz der Gesundheit oder des
-Verbrauchers vor Täuschung Voraussetzungen für die Einfuhr von
-Erzeugnissen festzulegen und dabei insbesondere vorzusehen, dass
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zum
+Schutz der Gesundheit oder des Verbrauchers vor Täuschung
+Voraussetzungen für die Einfuhr von Erzeugnissen festzulegen und dabei
+insbesondere vorzusehen, dass
 
 1.  ihre gesamte Herstellung in demselben Staat vorgenommen worden sein
     muss,
@@ -2659,13 +2916,13 @@ Erzeugnissen festzulegen und dabei insbesondere vorzusehen, dass
 
 ### § 36 Überwachung bei der Einfuhr
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Sicherung einer ausreichenden
-Überwachung die Einfuhr von Drittlandserzeugnissen von einer Zulassung
-abhängig zu machen und das Zulassungsverfahren zu regeln sowie
-Vorschriften über die Kosten (Gebühren und Auslagen) zu erlassen. In
-Rechtsverordnungen nach Satz 1 kann insbesondere
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Sicherung einer ausreichenden Überwachung die Einfuhr von
+Drittlandserzeugnissen von einer Zulassung abhängig zu machen und das
+Zulassungsverfahren zu regeln sowie Vorschriften über die Kosten
+(Gebühren und Auslagen) zu erlassen. In Rechtsverordnungen nach Satz 1
+kann insbesondere
 
 1.  vorgeschrieben werden, dass die Zulassung nur erteilt wird, nachdem
     durch eine amtliche Untersuchung und Prüfung im Inland festgestellt
@@ -2740,9 +2997,9 @@ Rechtsverordnungen nach Satz 1 kann insbesondere
     wenn
 
     a)  im Herstellungsland eine amtliche Untersuchung stattgefunden und das
-        Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-        eine Untersuchung durch diese Stelle als Ersatz für amtliche
-        Untersuchung und Prüfung im Inland anerkannt hat,
+        Bundesministerium für Ernährung und Landwirtschaft eine Untersuchung
+        durch diese Stelle als Ersatz für amtliche Untersuchung und Prüfung im
+        Inland anerkannt hat,
 
 
     b)  die Untersuchung durch ein Zeugnis nachgewiesen wird und
@@ -2836,27 +3093,26 @@ Vorschriften finden Anwendung.
 
 ### § 39 Aufsichtsrat
 
-(1) Der Aufsichtsrat besteht aus neun Mitgliedern. Die Mitglieder des
+(1) Der Aufsichtsrat besteht aus zehn Mitgliedern. Die Mitglieder des
 Aufsichtsrates üben ihre Tätigkeit ehrenamtlich aus.
 
 (2) Vorsitzender des Aufsichtsrates ist der jeweilige Vorsitzende des
 Verwaltungsrates. Sein Stellvertreter wird vom Aufsichtsrat aus dessen
-Mitte gewählt. In den Aufsichtsrat werden gewählt
+Mitte gewählt. In den Aufsichtsrat werden gewählt:
 
-1.  zwei Mitglieder von den dem Verwaltungsrat angehörenden Vertretern des
+1.  vier Mitglieder von den dem Verwaltungsrat angehörenden Vertretern des
     Weinbaus aus ihrer Mitte,
 
 
-2.  ein Mitglied von den dem Verwaltungsrat angehörenden Vertretern der
+2.  zwei Mitglieder von den dem Verwaltungsrat angehörenden Vertretern der
     Winzergenossenschaften aus ihrer Mitte,
 
 
-3.  je ein Mitglied für den Bereich Weinhandel und den Bereich
-    Ausfuhrhandel von den dem Verwaltungsrat angehörenden Vertretern des
-    Weinhandels und des Ausfuhrhandels aus ihrer Mitte und
+3.  zwei Mitglieder von den dem Verwaltungsrat angehörenden Vertretern des
+    Weinhandels aus ihrer Mitte und
 
 
-4.  drei Mitglieder vom Verwaltungsrat aus seiner Mitte.
+4.  ein Mitglied vom Verwaltungsrat aus seiner Mitte.
 
 
 
@@ -2914,9 +3170,9 @@ dessen Tagesordnung fest.
 
 
 (2) Die Mitglieder des Verwaltungsrates werden vom Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz berufen und
-abberufen. Vor der Berufung und Abberufung sind bei den in Absatz 1
-Nr. 1 bis 11 genannten Mitgliedern die Organisationen der beteiligten
+für Ernährung und Landwirtschaft berufen und abberufen. Vor der
+Berufung und Abberufung sind bei den in Absatz 1 Nr. 1 bis 11
+genannten Mitgliedern die Organisationen der beteiligten
 Wirtschaftskreise, bei den in Absatz 1 Nr. 12 genannten Mitgliedern
 die Landesregierungen anzuhören. Die Berufung erfolgt grundsätzlich
 für die Dauer von drei Jahren. Zum 1. April eines jeden Jahres
@@ -2931,7 +3187,7 @@ Fragen, die zum Aufgabengebiet des Deutschen Weinfonds gehören.
 
 (5) Der Verwaltungsrat gibt sich und dem Aufsichtsrat eine
 Geschäftsordnung, die der Genehmigung des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz bedarf.
+Ernährung und Landwirtschaft bedarf.
 
 (6) Der Verwaltungsrat beschließt ferner in den ersten sechs Monaten
 jedes Geschäftsjahres über die Entlastung des Vorstandes und des
@@ -2942,21 +3198,21 @@ Aufsichtsrates.
 
 Der Verwaltungsrat beschließt über die Satzung des Deutschen
 Weinfonds. Die Satzung bedarf der Genehmigung des Bundesministeriums
-für Ernährung, Landwirtschaft und Verbraucherschutz.
+für Ernährung und Landwirtschaft.
 
 
 ### § 42 Aufsicht
 
 (1) Der Deutsche Weinfonds untersteht der Aufsicht des
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-Maßnahmen des Deutschen Weinfonds sind auf Verlangen des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-aufzuheben, wenn sie gegen gesetzliche Vorschriften oder die Satzung
-verstoßen oder das öffentliche Wohl verletzen.
+Bundesministerium für Ernährung und Landwirtschaft. Maßnahmen des
+Deutschen Weinfonds sind auf Verlangen des Bundesministeriums für
+Ernährung und Landwirtschaft aufzuheben, wenn sie gegen gesetzliche
+Vorschriften oder die Satzung verstoßen oder das öffentliche Wohl
+verletzen.
 
 (2) Der Deutsche Weinfonds ist verpflichtet, dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz und seinen
-Beauftragten jederzeit Auskunft über seine Tätigkeit zu erteilen.
+Ernährung und Landwirtschaft und seinen Beauftragten jederzeit
+Auskunft über seine Tätigkeit zu erteilen.
 
 (3) Beauftragte der Bundesregierung und der für die Weinwirtschaft
 zuständigen obersten Landesbehörden der Weinbau treibenden
@@ -2976,7 +3232,7 @@ Deutschen Weinfonds erforderlichen Mittel sind vorbehaltlich des
 Absatzes 2 zu entrichten:
 
 1.  von den Eigentümern oder Nutzungsberechtigten eine jährliche Abgabe
-    von 0,67 Euro je Ar der Weinbergsfläche, sofern diese mehr als fünf Ar
+    von 0,67 Euro je Ar der Weinbergsfläche, sofern diese mehr als zehn Ar
     umfasst, und
 
 
@@ -3041,37 +3297,36 @@ gebracht.
 ### § 44 Erhebung der Abgabe
 
 (1) Berechnungsgrundlage für die Erhebung der Abgabe nach § 43 Abs. 1
-Satz 1 Nr. 1 ist die zur Weinbaukartei gemeldete Fläche. Im Übrigen
-erlassen die Landesregierungen durch Rechtsverordnung die
-erforderlichen Vorschriften über die Entstehung und die Fälligkeit der
-Abgabe nach § 43 Abs. 1 Satz 1 Nr. 1 sowie über das Verfahren bei
-ihrer Erhebung, die Überwachung ihrer Entrichtung und ihre Beitreibung
-einschließlich der erforderlichen Auskunfts-, Duldungs- und
-Mitwirkungspflichten. In Rechtsverordnungen nach Satz 1 können
-insbesondere Mitteilungspflichten hinsichtlich der
+Satz 1 Nr. 1 ist die in der Weinbaukartei als bestockt gekennzeichnete
+Fläche. Im Übrigen erlassen die Landesregierungen durch
+Rechtsverordnung die erforderlichen Vorschriften über die Entstehung
+und die Fälligkeit der Abgabe nach § 43 Abs. 1 Satz 1 Nr. 1 sowie über
+das Verfahren bei ihrer Erhebung, die Überwachung ihrer Entrichtung
+und ihre Beitreibung einschließlich der erforderlichen Auskunfts-,
+Duldungs- und Mitwirkungspflichten. In Rechtsverordnungen nach Satz 1
+können insbesondere Mitteilungspflichten hinsichtlich der
 Bemessungsgrundlagen für die Abgabe und hinsichtlich der Abgabeschuld
 begründet und die Erhebung von Säumniszuschlägen vorgesehen werden.
 
 (2) Die Erhebung, Festsetzung und Beitreibung der Abgabe nach § 43
 Abs. 1 Satz 1 Nr. 2 und Satz 2 ist Aufgabe des Deutschen Weinfonds.
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz erlässt durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die erforderlichen Vorschriften
-über die Entstehung und die Fälligkeit dieser Abgabe sowie über das
-Verfahren bei ihrer Erhebung, die Überwachung ihrer Entrichtung und
-ihre Beitreibung einschließlich der erforderlichen Auskunfts-,
-Duldungs- und Mitwirkungspflichten. In Rechtsverordnungen nach Satz 2
-können insbesondere Mitteilungspflichten hinsichtlich der
-Bemessungsgrundlagen für die Abgabe und hinsichtlich der Abgabeschuld
-begründet und die Erhebung von Säumniszuschlägen vorgesehen werden.
+Das Bundesministerium für Ernährung und Landwirtschaft erlässt durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+erforderlichen Vorschriften über die Entstehung und die Fälligkeit
+dieser Abgabe sowie über das Verfahren bei ihrer Erhebung, die
+Überwachung ihrer Entrichtung und ihre Beitreibung einschließlich der
+erforderlichen Auskunfts-, Duldungs- und Mitwirkungspflichten. In
+Rechtsverordnungen nach Satz 2 können insbesondere
+Mitteilungspflichten hinsichtlich der Bemessungsgrundlagen für die
+Abgabe und hinsichtlich der Abgabeschuld begründet und die Erhebung
+von Säumniszuschlägen vorgesehen werden.
 
 
 ### § 45 Wirtschaftsplan
 
 Der Deutsche Weinfonds hat für die Bewirtschaftung seiner Mittel einen
 Wirtschaftsplan aufzustellen. Dieser bedarf der Genehmigung des
-Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz.
+Bundesministeriums für Ernährung und Landwirtschaft.
 
 
 ### § 46 Abgabe für die gebietliche Absatzförderung
@@ -3079,8 +3334,8 @@ Verbraucherschutz.
 Die Länder können zur besonderen Förderung des in ihrem Gebiet
 erzeugten Weines von den nach § 43 Abs. 1 Satz 1 Nr. 1
 Abgabepflichtigen eine Abgabe erheben. Die Abgabe kann für die
-einzelnen bestimmten Anbaugebiete eines Landes in unterschiedlicher
-Höhe festgesetzt werden.
+einzelnen in § 3 Absatz 1 genannten Anbaugebiete eines Landes in
+unterschiedlicher Höhe festgesetzt werden.
 
 
 ### § 47 Unterrichtung und Abstimmung
@@ -3092,7 +3347,7 @@ mit dem Deutschen Weinfonds abzustimmen. Die näheren Einzelheiten
 regelt eine gemeinsame Geschäftsordnung, die die gebietlichen
 Absatzförderungseinrichtungen und der Deutsche Weinfonds erlassen. Die
 Geschäftsordnung bedarf der Zustimmung des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz.
+Ernährung und Landwirtschaft.
 
 
 ## 9. Abschnitt - Straf- und Bußgeldvorschriften
@@ -3104,12 +3359,13 @@ Ernährung, Landwirtschaft und Verbraucherschutz.
 (1) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
 
-1.  in anderen als den in § 49 Nummer 1, 2, 4, 5 oder Nummer 6 oder § 50
-    Abs. 2 Nr. 1 oder 6 bis 10 bezeichneten Fällen entgegen einer
-    Vorschrift dieses Gesetzes ein Erzeugnis oder ein Getränk, das mit
-    einem Erzeugnis verwechselt werden kann, verarbeitet, in den Verkehr
-    bringt, mit anderen Getränken vermischt in den Verkehr bringt,
-    einführt, ausführt, verwendet, verwertet, lagert oder transportiert,
+1.  in anderen als den in § 49 Satz 1 Nummer 1, 2, 4, 5 oder Nummer 6 oder
+    § 50 Absatz 2 Satz 1 Nummer 1 oder Nummer 6 bis 10 bezeichneten Fällen
+    entgegen einer Vorschrift dieses Gesetzes ein Erzeugnis oder ein
+    Getränk, das mit einem Erzeugnis verwechselt werden kann, verarbeitet,
+    in den Verkehr bringt, mit anderen Getränken vermischt in den Verkehr
+    bringt, einführt, ausführt, verwendet, verwertet, lagert oder
+    transportiert,
 
 
 2.  einer Rechtsverordnung nach § 13 Abs. 3, § 14 Nr. 1 oder 3, § 15 Nr.
@@ -3119,12 +3375,12 @@ bestraft, wer
     Strafvorschrift verweist,
 
 
-3.  in anderen als den in Nummer 4, § 49 Nr. 6 oder 7 bezeichneten Fällen
-    entgegen einer unmittelbar geltenden Vorschrift in Rechtsakten der
-    Europäischen Gemeinschaft oder der Europäischen Union eine der in
-    Nummer 1 bezeichneten Handlungen begeht, soweit eine Rechtsverordnung
-    nach § 51 für einen bestimmten Tatbestand auf diese Strafvorschrift
-    verweist oder
+3.  in anderen als den in Nummer 4, § 49 Satz 1 Nummer 6 oder Nummer 7
+    bezeichneten Fällen entgegen einer unmittelbar geltenden Vorschrift in
+    Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+    eine der in Nummer 1 bezeichneten Handlungen begeht, soweit eine
+    Rechtsverordnung nach § 51 für einen bestimmten Tatbestand auf diese
+    Strafvorschrift verweist oder
 
 
 4.  einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
@@ -3156,9 +3412,9 @@ bestraft, wer
 1.  entgegen § 9 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung
     nach § 12 Absatz 1 Nummer 1 oder entgegen § 9a Absatz 1 Satz 1 in
     Verbindung mit einer Rechtsverordnung nach § 12 Absatz 1 Nummer 2
-    Weintrauben, Traubenmost, teilweise gegorenen Traubenmost oder Wein in
-    einer anderen als der dort genannten Menge an andere abgibt, verwendet
-    oder verwertet,
+    Weintrauben, Traubenmost, teilweise gegorenen Traubenmost, Jungwein
+    oder Wein in einer anderen als der dort genannten Menge an andere
+    abgibt, verwendet oder verwertet,
 
 
 1a. entgegen § 9 Abs. 1 Satz 4 eine gesonderte Berechnung nicht, nicht
@@ -3207,12 +3463,23 @@ bestraft, wer
 
 
 
+§ 59 Absatz 2 Nummer 1 Buchstabe c und Nummer 8, 9 und 10 des
+Lebensmittel- und Futtermittelgesetzbuches gilt für Erzeugnisse nach §
+2 Nummer 1 entsprechend.
 
 
 ### § 50 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer fahrlässig eine der in § 49
-bezeichneten Handlungen begeht.
+(1) Ordnungswidrig handelt, wer eine der in
+
+1.  § 49 Satz 1 oder
+
+
+2.  § 49 Satz 2
+
+
+
+bezeichneten Handlungen fahrlässig begeht.
 
 (1a) (weggefallen)
 
@@ -3225,31 +3492,28 @@ bezeichneten Handlungen begeht.
 2.  der Nachweispflicht nach § 11 Abs. 1 Satz 3 zuwiderhandelt,
 
 
-3.  entgegen § 6 Abs. 2 ein Wiederbepflanzungsrecht überträgt,
+3.  (weggefallen)
 
 
-4.  einer Rechtsverordnung nach § 3b Absatz 3 Satz 1, § 4 Absatz 2, § 6
-    Absatz 5 Satz 1, § 12 Abs. 3 Nr. 5 oder Abs. 5, § 14 Nr. 2, § 16 Abs.
-    2 Satz 1, auch in Verbindung mit Satz 2 Nr. 4, § 16 Abs. 3, 4 oder 5,
-    § 21 Abs. 1 Nr. 4, § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Abs. 3 Satz 1 Nr.
-    1, auch in Verbindung mit Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30,
-    § 31 Abs. 4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b, § 36 Abs. 1
-    Satz 1 in Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 oder § 44
-    Abs. 1 oder 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten
+4.  einer Rechtsverordnung nach § 3b Absatz 3 Satz 1, § 4 Absatz 2, § 12
+    Abs. 3 Nr. 5 oder Abs. 5, § 14 Nr. 2, § 16 Abs. 2 Satz 1, auch in
+    Verbindung mit Satz 2 Nr. 4, § 16 Abs. 3, 4 oder 5, § 21 Abs. 1 Nr. 4,
+    § 24 Abs. 2, 3 oder 4 Nr. 2, § 26 Abs. 3 Satz 1 Nr. 1, auch in
+    Verbindung mit Satz 2, § 28 Abs. 3 Nr. 2 bis 4, § 29, § 30, § 31 Abs.
+    4 Nr. 1, § 33 Abs. 1, 1a Satz 1 oder Abs. 1b, § 36 Abs. 1 Satz 1 in
+    Verbindung mit Satz 2 Nr. 3 Buchstabe c oder Nr. 4 oder § 44 Abs. 1
+    oder 2 Satz 2 zuwiderhandelt, soweit sie für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
-5.  einer vollziehbaren Anordnung auf Grund einer Rechtsverordnung nach §
-    6 Abs. 5 Satz 2 zuwiderhandelt, soweit die Rechtsverordnung für einen
-    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+5.  entgegen § 7d Absatz 1 eine Genehmigung nicht oder nicht richtig in
+    Anspruch nimmt,
 
 
 6.  (weggefallen)
 
 
-7.  entgegen § 24 Abs. 1 ein Erzeugnis mit nicht zugelassenen Angaben in
-    den Verkehr bringt, einführt, ausführt oder zum Gegenstand der Werbung
-    macht,
+7.  (weggefallen)
 
 
 8.  entgegen § 26 Abs. 1 für ein Getränk, das kein Erzeugnis ist, eine
@@ -3275,30 +3539,49 @@ bezeichneten Handlungen begeht.
 
 12. einer unmittelbar geltenden Vorschrift in Rechtsakten der Europäischen
     Gemeinschaft oder der Europäischen Union zuwiderhandelt, die nicht
-    nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Nr. 6 oder 7 als Straftat
-    geahndet werden kann, soweit eine Rechtsverordnung nach § 51 für einen
-    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+    nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Satz 1 Nummer 6 oder Nummer 7
+    als Straftat geahndet werden kann, soweit eine Rechtsverordnung nach §
+    51 für einen bestimmten Tatbestand auf diese Bußgeldvorschrift
+    verweist.
+
+
+
+Für Erzeugnisse nach § 2 Nummer 1 gelten folgende Bußgeldvorschriften
+des Lebensmittel- und Futtermittelgesetzbuches entsprechend:
+
+1.  § 60 Absatz 3 Nummer 1 Buchstabe d und e,
+
+
+2.  § 60 Absatz 3 Nummer 1 Buchstabe f, soweit er sich auf Artikel 19
+    Absatz 3 Satz 1 der Verordnung (EG) Nr. 178/2002 bezieht, und
+
+
+3.  § 60 Absatz 3 Nummer 1 Buchstabe g, soweit er sich auf Artikel 19
+    Absatz 3 Satz 2 der Verordnung (EG) Nr. 178/2002 bezieht.
 
 
 
 
-(3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfundzwanzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2
+und des Absatzes 2 Satz 2 mit einer Geldbuße bis zu fünfzigtausend
+Euro, in den übrigen Fällen mit einer Geldbuße bis zu zwanzigtausend
+Euro geahndet werden.
 
 
 ### § 51 Ermächtigungen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates, soweit dies zur Durchsetzung der
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-erforderlich ist, die Tatbestände zu bezeichnen, die
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
+soweit dies zur Durchsetzung der Rechtsakte der Europäischen
+Gemeinschaft oder der Europäischen Union erforderlich ist, die
+Tatbestände zu bezeichnen, die
 
-1.  als Straftat nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Nr. 6 oder 7 zu
-    ahnden sind oder
+1.  als Straftat nach § 48 Abs. 1 Nr. 3 oder 4 oder § 49 Satz 1 Nummer 6
+    oder Nummer 7 zu ahnden sind oder
 
 
-2.  als Ordnungswidrigkeit nach § 50 Abs. 2 Nr. 12 geahndet werden können.
+2.  als Ordnungswidrigkeit nach § 50 Absatz 2 Satz 1 Nummer 12 geahndet
+    werden können.
 
 
 
@@ -3314,7 +3597,7 @@ gewesen sind, eingezogen werden. § 74a des Strafgesetzbuches und § 23
 des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 
-## 10. Abschnitt - Verbraucherinformation
+## 10. Abschnitt - Verbraucherinformation und Destillation in Krisenfällen
 
 
 
@@ -3322,6 +3605,77 @@ des Gesetzes über Ordnungswidrigkeiten sind anzuwenden.
 
 Für die Verbraucherinformation gilt das Verbraucherinformationsgesetz
 entsprechend.
+
+
+### § 52b Destillation in Krisenfällen
+
+(1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei
+der Europäischen Kommission nach Artikel 216 Absatz 2 der Verordnung
+(EU) Nr. 1308/2013 beantragen, dass Vergünstigungen für die
+Destillation von Wein aus Finanzmitteln des Bundes oder der Länder
+gewährt werden können, um
+
+1.  erheblichen Preissteigerungen oder Preisrückgängen auf dem Binnenmarkt
+    oder Märkten in Drittländern,
+
+
+2.  erheblichen Marktstörungen, die auf einen Vertrauensverlust der
+    Verbraucher infolge von Risiken für die menschliche Gesundheit durch
+    Erzeugnisse im Sinne des § 2 Nummer 1 oder
+
+
+3.  einer erheblichen Verschlechterung der Erzeugungs- und
+    Marktbedingungen durch außergewöhnliche Witterungsverhältnisse,
+    Pflanzenseuchen oder erheblichen Schädlingsbefall,
+
+
+
+die zu einer drohenden Störung des deutschen Weinmarktes insgesamt
+oder von Teilen davon führen oder zu einer bereits eingetretenen
+Störung des deutschen Weinmarktes insgesamt oder von Teilen davon
+geführt haben (Krisenfall), Rechnung tragen zu können. Der Antrag nach
+Satz 1 ist nur zulässig, wenn
+
+1.  die Einwilligung des Bundesministeriums der Finanzen zur
+    Bereitstellung der Finanzmittel des Bundes vorliegt oder
+
+
+2.  sichergestellt ist, dass die Finanzmittel durch die zuständigen Länder
+    aufgebracht werden.
+
+
+
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
+bestimmen, dass Weinbaubetriebe verpflichtet sind, Wein zu
+destillieren, soweit nur dadurch wirksam ein Krisenfall in
+angemessener Frist bewältigt werden kann.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Voraussetzungen und das Verfahren für die Durchführung einer
+verpflichtenden oder freiwilligen Destillation zu regeln.
+
+(4) Rechtsverordnungen nach den Absätzen 2 und 3 bedürfen der
+Zustimmung des Bundesrates, soweit
+
+1.  die Länder Finanzmittel zur Durchführung zur Verfügung stellen oder
+
+
+2.  die Länder die Maßnahmen durchführen oder an der Durchführung dieser
+    Maßnahmen mitwirken.
+
+
+
+Rechtsverordnungen nach den Absätzen 2 und 3 können im Falle des
+Satzes 1 Nummer 2 auch ohne Zustimmung des Bundesrates erlassen
+werden, wenn ihr unverzügliches Inkrafttreten zur unmittelbaren Abwehr
+eines Krisenfalles erforderlich ist und ihre Geltungsdauer auf einen
+bestimmten Zeitraum von höchstens sechs Monaten begrenzt wird.
+
+(5) Die Absätze 1 bis 4 sind ein Gesetz im Sinne des § 1 Absatz 2
+Nummer 4 des Marktorganisationsgesetzes.
 
 
 ## 11. Abschnitt - Schlussbestimmungen
@@ -3334,13 +3688,12 @@ entsprechend.
 von für den Weinbau und die Weinwirtschaft anwendbaren Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union erlassen werden.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates in den von ihm auf Grund dieses Gesetzes
-erlassenen Rechtsverordnungen Verweisungen auf Vorschriften in
-Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
-zu ändern, soweit es zur Anpassung an Änderungen dieser Vorschriften
-erforderlich ist.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in
+den von ihm auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
+Verweisungen auf Vorschriften in Rechtsakten der Europäischen
+Gemeinschaft oder der Europäischen Union zu ändern, soweit es zur
+Anpassung an Änderungen dieser Vorschriften erforderlich ist.
 
 (3) Rechtsverordnungen nach diesem Gesetz, die der Zustimmung des
 Bundesrates bedürfen, können ohne Zustimmung des Bundesrates erlassen
@@ -3350,11 +3703,11 @@ Europäischen Gemeinschaft oder der Europäischen Union erforderlich ist
 und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens
 sechs Monaten begrenzt wird.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann Rechtsverordnungen nach diesem Gesetz, die
-ausschließlich der Umsetzung verbindlicher technischer Vorschriften
-aus Richtlinien, Entscheidungen oder Beschlüssen der Europäischen
-Union dienen, ohne Zustimmung des Bundesrates erlassen.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft kann
+Rechtsverordnungen nach diesem Gesetz, die ausschließlich der
+Umsetzung verbindlicher technischer Vorschriften aus Richtlinien,
+Entscheidungen oder Beschlüssen der Europäischen Union dienen, ohne
+Zustimmung des Bundesrates erlassen.
 
 
 ### § 54 Übertragung von Ermächtigungen
@@ -3442,27 +3795,7 @@ zugeteilt worden ist.
 Vorschriften hergestellt und gekennzeichnet worden sind, dürfen auch
 weiterhin in den Verkehr gebracht werden.
 
-(8) Die Allgemeine Verwaltungsvorschrift für die Untersuchung von Wein
-und ähnlichen alkoholischen Erzeugnissen sowie von Fruchtsäften vom
-26\. April 1960 (Beilage zum BAnz. Nr. 86 vom 5. Mai 1960), zuletzt
-geändert am 8. September 1969 (Beilage zum BAnz. Nr. 171 vom 16.
-September 1969), gilt
-
-1.  soweit sie Erzeugnisse mit Ausnahme von Brennwein, der zur Herstellung
-    von Branntwein aus Wein bestimmt ist und unter Angabe dieser
-    Bestimmung in die Weinbuchführung oder die Begleitpapiere eingetragen
-    ist, betrifft, als Allgemeine Verwaltungsvorschrift im Sinne des § 55,
-
-
-2.  für Weinbrand, Weinbrandverschnitt, Weindestillat, Brennwein, der zur
-    Herstellung von Branntwein aus Wein bestimmt ist, weinähnliche und
-    schaumweinähnliche Getränke und Fruchtsäfte als Allgemeine
-    Verwaltungsvorschrift im Sinne des § 45 des Lebensmittel- und
-    Bedarfsgegenständegesetzes in der bis zum 6. September 2005 geltenden
-    Fassung.
-
-
-
+(8) (weggefallen)
 
 (9) Das Weingesetz vom 25. Juli 1930 und seine Ausführungsverordnung
 gelten für die in seinem § 10 Abs. 1 bezeichneten Getränke und die
@@ -3475,15 +3808,7 @@ Erzeugnisse, die vor dem 1. August 2009 gekennzeichnet oder in den
 Verkehr gebracht worden sind, dürfen weiterhin in den Verkehr gebracht
 werden.
 
-(11) Werden Erzeugnisse erstmals an andere abgegeben, die aus
-Weintrauben, Traubenmaische, Traubenmost oder Wein hergestellt sind,
-für deren Übernahme eine Abgabe nach § 43 Nr. 2 in der bis zum Tag des
-Inkrafttretens des Artikels 3 des Dritten Gesetzes zur Änderung des
-Weingesetzes geltenden Fassung entrichtet worden ist, ist für die
-betreffende Menge keine Abgabe nach § 43 Abs. 1 Satz 1 Nr. 2 oder Satz
-2 zu entrichten. Das Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz gibt den Tag nach Satz 1 im Bundesgesetzblatt
-bekannt.
+(11) (weggefallen)
 
 (12) Erzeugnisse, die vor dem 3. August 2009 abweichend von § 24
 Absatz 1 gekennzeichnet oder in den Verkehr gebracht worden sind,
@@ -3494,11 +3819,15 @@ gebracht werden.
 März 2010 geerntete Weintrauben verwendet worden sind, ist das Gesetz
 in der bis zum 13. August 2010 geltenden Fassung anzuwenden.
 
-(14) Abweichend von § 10 der Weinverordnung sowie von § 29 der Wein-
-Überwachungsverordnung entsprechen bis zu einer Neuregelung auf Grund
-des § 12 Absatz 1 Nummer 2 sowie des § 33 Absatz 1 Nummer 1 bis 3
-dieses Gesetzes 100 Liter Traubenmost oder 100 Liter teilweise
-gegorener Traubenmost jeweils 97 Litern Wein.
+(14) (weggefallen)
+
+(15) Bis zum Ablauf des 31. Mai 2013 ist § 39 in der am 19. Dezember
+2012 geltenden Fassung weiter anzuwenden.
+
+(16) § 22b Absatz 1 Nummer 1a und die §§ 22e und 22f sind erst ab dem
+28\. März 2015 anzuwenden. Bis zu dem in Satz 1 genannten Tag ist § 2
+Nummer 1 in der am 14. Oktober 2014 geltenden Fassung weiter
+anzuwenden.
 
 
 ### § 57 Fortbestehen anderer Vorschriften
@@ -3542,11 +3871,11 @@ sind die Vorschriften der in Absatz 1 genannten Gesetze hinsichtlich
 der Verfolgung von Straftaten und Ordnungswidrigkeiten weiter
 anzuwenden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit die Ermächtigungen dieses Gesetzes
-nicht ausreichen, auf Grund der in Absatz 1 genannten Gesetze
-erlassene bundesrechtliche Vorschriften aufzuheben.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit die Ermächtigungen dieses Gesetzes nicht ausreichen, auf Grund
+der in Absatz 1 genannten Gesetze erlassene bundesrechtliche
+Vorschriften aufzuheben.
 
 (4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung,
 soweit die Ermächtigungen dieses Gesetzes nicht ausreichen, auf Grund
@@ -3559,9 +3888,8 @@ Vorschriften aufzuheben.
 (1) Soweit durch Änderungen dieses Gesetzes Ermächtigungen zum Erlass
 von Rechtsverordnungen des Bundes fortgefallen sind, können
 Vorschriften, die auf solche Ermächtigungen gestützt sind, durch
-Rechtsverordnung des Bundesministeriums für Ernährung, Landwirtschaft
-und Verbraucherschutz mit Zustimmung des Bundesrates aufgehoben
-werden.
+Rechtsverordnung des Bundesministeriums für Ernährung und
+Landwirtschaft mit Zustimmung des Bundesrates aufgehoben werden.
 
 (2) Soweit durch Änderungen dieses Gesetzes oder Änderungen von auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen Ermächtigungen zum

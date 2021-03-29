@@ -20,7 +20,7 @@ Geändert durch
 :   Art. 127 G v. 19.4.2006 I 866
 
 
-## Art 1 bis 7 -
+## Art 1 bis 7 - 
 
 
 
@@ -113,7 +113,7 @@ Geändert durch
 
 ## II. Schlußvorschriften
 
-1\. u. 2.
+1\. u. 2. (Aufhebungsvorschriften)
 
 3.  (1) Wo auf die Vorschriften verwiesen wird, die durch dieses Gesetz
     aufgehoben oder geändert werden, erhält die Verweisung ihren Inhalt

@@ -3,7 +3,7 @@ Title: Gesetz zu dem Abkommen vom 16. Juni 1995 zur Erhaltung der afrikanisch-eu
   wandernden Wasservögel
 jurabk: WVögelAbkG
 layout: default
-origslug: wv_gelabkg
+origslug: wvoegelabkg
 slug: wvoegelabkg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1998, 2498
 
 Zuletzt geändert durch
-:   Art. 22 V v. 31.10.2006 I 2407
+:   Art. 29 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -37,15 +37,14 @@ veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, Änderungen der Anlagen 1 bis 3 des Abkommens nach
-dessen Artikel X, die sich im Rahmen der Ziele des Abkommens halten,
-durch Rechtsverordnung in bezug auf Änderungen der Anlage 3 mit, im
-übrigen ohne Zustimmung des Bundesrates in Kraft zu setzen.
-Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
-soweit sie sich auf Tierarten, die dem Jagdrecht unterliegen,
-beziehen.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, Änderungen der Anlagen 1 bis 3 des
+Abkommens nach dessen Artikel X, die sich im Rahmen der Ziele des
+Abkommens halten, durch Rechtsverordnung in bezug auf Änderungen der
+Anlage 3 mit, im übrigen ohne Zustimmung des Bundesrates in Kraft zu
+setzen. Rechtsverordnungen nach Satz 1 bedürfen des Einvernehmens mit
+dem Bundesministerium für Ernährung und Landwirtschaft, soweit sie
+sich auf Tierarten, die dem Jagdrecht unterliegen, beziehen.
 
 
 ## Art 3

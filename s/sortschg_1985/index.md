@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.12.1997 I 3164;
 
 Zuletzt geändert durch
-:   Art. 13 G v. 9.12.2010 I 1934
+:   Art. 6 Abs. 37 G v. 13.4.2017 I 872
 
 
 ## Abschnitt 1 - Voraussetzungen und Inhalt des Sortenschutzes
@@ -410,11 +410,11 @@ sowie von ihnen beauftragte Aufbereiter sind gegenüber den Inhabern
 des Sortenschutzes zur Auskunft über den Umfang des Nachbaus
 verpflichtet.
 
-(7) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung das
-Verzeichnis der in der Anlage aufgeführten Arten zu ändern, soweit
-dies im Interesse einer Anpassung an das Verzeichnis des
-gemeinschaftlichen Sortenschutzes erforderlich ist.
+(7) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung das Verzeichnis der in der Anlage
+aufgeführten Arten zu ändern, soweit dies im Interesse einer Anpassung
+an das Verzeichnis des gemeinschaftlichen Sortenschutzes erforderlich
+ist.
 
 
 ### § 10b Erschöpfung des Sortenschutzes
@@ -583,10 +583,10 @@ werden.
 3.  anderen natürlichen und juristischen Personen und
     Personenhandelsgesellschaften, soweit in dem Staat, dem sie angehören
     oder in dem sie ihren Wohnsitz oder eine Niederlassung haben, nach
-    einer Bekanntmachung des Bundesministeriums für Ernährung,
-    Landwirtschaft und Verbraucherschutz im Bundesgesetzblatt deutschen
-    Staatsangehörigen oder Personen mit Wohnsitz oder Niederlassung im
-    Inland ein entsprechender Schutz gewährt wird.
+    einer Bekanntmachung des Bundesministeriums für Ernährung und
+    Landwirtschaft im Bundesgesetzblatt deutschen Staatsangehörigen oder
+    Personen mit Wohnsitz oder Niederlassung im Inland ein entsprechender
+    Schutz gewährt wird.
 
 
 
@@ -605,8 +605,8 @@ mit Wohnsitz oder Geschäftsräumen in einem Vertragsstaat
 ### § 16 Stellung und Aufgaben
 
 (1) Das Bundessortenamt ist eine selbständige Bundesoberbehörde im
-Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft
-und Verbraucherschutz.
+Geschäftsbereich des Bundesministeriums für Ernährung und
+Landwirtschaft.
 
 (2) Das Bundessortenamt ist zuständig für die Erteilung des
 Sortenschutzes und die hiermit zusammenhängenden Angelegenheiten. Es
@@ -620,9 +620,9 @@ Sorten nach.
 Mitgliedern. Sie müssen besondere Fachkunde auf dem Gebiet des
 Sortenwesens (fachkundige Mitglieder) oder die Befähigung zum
 Richteramt nach dem Deutschen Richtergesetz (rechtskundige Mitglieder)
-haben. Sie werden vom Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz für die Dauer ihrer Tätigkeit beim
-Bundessortenamt berufen.
+haben. Sie werden vom Bundesministerium für Ernährung und
+Landwirtschaft für die Dauer ihrer Tätigkeit beim Bundessortenamt
+berufen.
 
 (2) Als fachkundiges Mitglied soll in der Regel nur berufen werden,
 wer nach einem für die Tätigkeit beim Bundessortenamt förderlichen
@@ -701,14 +701,14 @@ Beisitzern. Von den Mitgliedern des Bundessortenamtes müssen zwei
 fachkundig und eines rechtskundig sein.
 
 (2) Die ehrenamtlichen Beisitzer werden vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz für sechs Jahre
-berufen; Wiederberufung ist zulässig. Scheidet ein ehrenamtlicher
-Beisitzer vorzeitig aus, so wird sein Nachfolger für den Rest der
-Amtszeit berufen. Die ehrenamtlichen Beisitzer sollen besondere
-Fachkunde auf dem Gebiet des Sortenwesens haben. Inhaber oder
-Angestellte von Zuchtbetrieben oder Angestellte von Züchterverbänden
-sollen nicht berufen werden. Für jeden ehrenamtlichen Beisitzer wird
-ein Stellvertreter berufen; die Sätze 1 bis 4 gelten entsprechend.
+Ernährung und Landwirtschaft für sechs Jahre berufen; Wiederberufung
+ist zulässig. Scheidet ein ehrenamtlicher Beisitzer vorzeitig aus, so
+wird sein Nachfolger für den Rest der Amtszeit berufen. Die
+ehrenamtlichen Beisitzer sollen besondere Fachkunde auf dem Gebiet des
+Sortenwesens haben. Inhaber oder Angestellte von Zuchtbetrieben oder
+Angestellte von Züchterverbänden sollen nicht berufen werden. Für
+jeden ehrenamtlichen Beisitzer wird ein Stellvertreter berufen; die
+Sätze 1 bis 4 gelten entsprechend.
 
 (3) Die Widerspruchsausschüsse sind bei Anwesenheit des Vorsitzenden
 und eines Beisitzers, von denen einer rechtskundig sein muß, sowie
@@ -1091,8 +1091,8 @@ werden, wenn der Sortenschutzinhaber
 
 ### § 32 Ermächtigung zum Erlaß von Verfahrensvorschriften
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung
 
 1.  die Einzelheiten des Verfahrens vor dem Bundessortenamt einschließlich
     der Auswahl der für die Unterscheidbarkeit maßgebenden Merkmale, der
@@ -1106,31 +1106,36 @@ Verbraucherschutz wird ermächtigt, durch Rechtsverordnung
 
 
 
-### § 33 Kosten
+### § 33 Gebühren und Auslagen
 
-(1) Das Bundessortenamt erhebt für seine Amtshandlungen nach diesem
-Gesetz und für die Prüfung von Sorten auf Antrag ausländischer oder
-supranationaler Stellen Kosten (Gebühren und Auslagen) und für jedes
-angefangene Jahr der Dauer des Sortenschutzes (Schutzjahr) eine
-Jahresgebühr.
+(1) Das Bundessortenamt erhebt für seine individuell zurechenbaren
+öffentlichen Leistungen nach diesem Gesetz und für die Prüfung von
+Sorten auf Antrag ausländischer oder supranationaler Stellen Gebühren
+und Auslagen und für jedes angefangene Jahr der Dauer des
+Sortenschutzes (Schutzjahr) eine Jahresgebühr.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien der Finanzen und für Wirtschaft und Technologie
-durch Rechtsverordnung die gebührenpflichtigen Tatbestände und die
-Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen sowie den Zeitpunkt des Entstehens und der Erhebung der
-Gebühren zu regeln. Die Bedeutung, der wirtschaftliche Wert oder der
-sonstige Nutzen der Amtshandlung, auch für das Züchtungswesen und die
-Allgemeinheit, sind angemessen zu berücksichtigen. Die zu erstattenden
-Auslagen können abweichend vom Verwaltungskostengesetz geregelt
-werden.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und
+für Wirtschaft und Energie durch Rechtsverordnung die
+gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und
+dabei feste Sätze oder Rahmensätze vorzusehen sowie den Zeitpunkt des
+Entstehens und der Erhebung der Gebühren zu regeln. Die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen der individuell
+zurechenbaren öffentlichen Leistung, auch für das Züchtungswesen und
+die Allgemeinheit, sind angemessen zu berücksichtigen. Die zu
+erstattenden Auslagen können abweichend vom Bundesgebührengesetz
+geregelt werden.
 
-(3) (weggefallen)
+(3) Durch Besondere Gebührenverordnung des Bundesministeriums für
+Ernährung und Landwirtschaft nach § 22 Absatz 4 des
+Bundesgebührengesetzes kann für den Bereich der Bundesverwaltung der
+Zeitpunkt des Entstehens und der Erhebung der Gebühr abweichend von
+den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 (4) Bei Gebühren für die Prüfung einer Sorte sowie für die ablehnende
 Entscheidung über einen Sortenschutzantrag wird keine Ermäßigung nach
-§ 15 Abs. 2 des Verwaltungskostengesetzes gewährt.
+§ 15 Abs. 2 des Verwaltungskostengesetzes in der bis zum 14. August
+2013 geltenden Fassung gewährt.
 
 (5) Hat ein Widerspruch Erfolg, so ist die Widerspruchsgebühr zu
 erstatten. Hat eine Beschwerde an das Patentgericht oder eine
@@ -1495,8 +1500,8 @@ Amts wegen für geboten hält.
 werden. § 74a des Strafgesetzbuches ist anzuwenden. Soweit den in §
 37a bezeichneten Ansprüchen im Verfahren nach den Vorschriften der
 Strafprozeßordnung über die Entschädigung des Verletzten (§§ 403 bis
-406c) stattgegeben wird, sind die Vorschriften über die Einziehung
-nicht anzuwenden.
+406c) stattgegeben wird, sind die Vorschriften über die Einziehung (§§
+74 bis 74f des Strafgesetzbuches) nicht anzuwenden.
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt
 und ein berechtigtes Interesse daran dartut, anzuordnen, daß die
@@ -1546,16 +1551,16 @@ anzuwenden.
 der Verordnung (EG) Nr. 2100/94 des Rates vom 27. Juli 1994 über den
 gemeinschaftlichen Sortenschutz (ABl. EG Nr. L 227 S. 1) in der
 jeweils geltenden Fassung erteilten Sortenschutzes ist, unterliegt,
-soweit nicht die Verordnung (EG) Nr. 1383/2003 des Rates vom 22. Juli
-2003 über das Vorgehen der Zollbehörden gegen Waren, die im Verdacht
-stehen, bestimmte Rechte geistigen Eigentums zu verletzen, und die
-Maßnahmen gegenüber Waren, die erkanntermaßen derartige Rechte
-verletzen (ABl. EU Nr. L 196 S. 7), in ihrer jeweils geltenden Fassung
-anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des
-Sortenschutzinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme
-durch die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist.
-Dies gilt für den Verkehr mit anderen Vertragsstaaten nur, soweit
-Kontrollen durch die Zollbehörden stattfinden.
+soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
+Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
+geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
+Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
+15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und
+gegen Sicherheitsleistung des Sortenschutzinhabers bei seiner Einfuhr
+oder Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die
+Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
+anderen Vertragsstaaten nur, soweit Kontrollen durch die Zollbehörden
+stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie
 unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem
@@ -1602,7 +1607,7 @@ erklärt (Absatz 4 Satz 2), so ist er verpflichtet, den dem
 Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu
 ersetzen.
 
-(6) Der Antrag nach Absatz 1 ist bei der Bundesfinanzdirektion zu
+(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
 Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit
 dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten
@@ -1616,49 +1621,11 @@ die Entscheidung des Amtsgerichts ist die sofortige Beschwerde
 zulässig; über sie entscheidet das Oberlandesgericht.
 
 
-### § 40b Verfahren nach der Verordnung (EG) Nr. 1383/2003
+### § 40b Verfahren nach der Verordnung (EU) Nr. 608/2013
 
-(1) Setzt die zuständige Zollbehörde nach Artikel 9 der Verordnung
-(EG) Nr. 1383/2003 die Überlassung der Waren aus oder hält diese
-zurück, unterrichtet sie davon unverzüglich den Rechtsinhaber sowie
-den Anmelder oder den Besitzer oder den Eigentümer der Waren.
-
-(2) Im Fall des Absatzes 1 kann der Rechtsinhaber beantragen, die
-Waren in dem nachstehend beschriebenen vereinfachten Verfahren im Sinn
-des Artikels 11 der Verordnung (EG) Nr. 1383/2003 vernichten zu
-lassen.
-
-(3) Der Antrag muss bei der Zollbehörde innerhalb von zehn
-Arbeitstagen oder im Fall leicht verderblicher Waren innerhalb von
-drei Arbeitstagen nach Zugang der Unterrichtung nach Absatz 1
-schriftlich gestellt werden. Er muss die Mitteilung enthalten, dass
-die Waren, die Gegenstand des Verfahrens sind, ein nach diesem Gesetz
-geschütztes Recht verletzen. Die schriftliche Zustimmung des
-Anmelders, des Besitzers oder des Eigentümers der Waren zu ihrer
-Vernichtung ist beizufügen. Abweichend von Satz 3 kann der Anmelder,
-der Besitzer oder der Eigentümer die schriftliche Erklärung, ob er
-einer Vernichtung zustimmt oder nicht, unmittelbar gegenüber der
-Zollbehörde abgeben. Die in Satz 1 genannte Frist kann vor Ablauf auf
-Antrag des Rechtsinhabers um zehn Arbeitstage verlängert werden.
-
-(4) Die Zustimmung zur Vernichtung gilt als erteilt, wenn der
-Anmelder, der Besitzer oder der Eigentümer der Waren einer Vernichtung
-nicht innerhalb von zehn Arbeitstagen oder im Fall leicht
-verderblicher Waren innerhalb von drei Arbeitstagen nach Zugang der
-Unterrichtung nach Absatz 1 widerspricht. Auf diesen Umstand ist in
-der Unterrichtung nach Absatz 1 hinzuweisen.
-
-(5) Die Vernichtung der Waren erfolgt auf Kosten und Verantwortung des
-Rechtsinhabers.
-
-(6) Die Zollstelle kann die organisatorische Abwicklung der
-Vernichtung übernehmen. Absatz 5 bleibt unberührt.
-
-(7) Die Aufbewahrungsfrist nach Artikel 11 Abs. 1 zweiter
-Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
-
-(8) Im Übrigen gilt § 40a entsprechend, soweit nicht die Verordnung
-(EG) Nr. 1383/2003 Bestimmungen enthält, die dem entgegenstehen.
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 40a
+Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
+enthält, die dem entgegenstehen.
 
 
 ## Abschnitt 6 - Schlußvorschriften
@@ -1925,197 +1892,4 @@ Fundstelle des Originaltextes: BGBl. I 1997, 3176
 
 
 
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1011)
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-1\. - 4. ...
-
-5.  Sortenschutzgesetz vom 11. Dezember 1985 (BGBl. I S. 2170), geändert
-    durch Artikel 7 des Gesetzes vom 7. März 1990 (BGBl. I S. 422),
-
-    mit folgenden Maßgaben:
-
-    a)  Überleitung der Sortenschutzrechte
-
-        (1) Die nach dem Sortenschutzgesetz und die nach der
-        Sortenschutzverordnung vom 22. März 1972 (GBl. II Nr. 18 S. 213)
-        erteilten und am Tag des Wirksamwerdens des Beitritts noch bestehenden
-        Sortenschutzrechte haben im gesamten Geltungsbereich des
-        Sortenschutzgesetzes Wirkung.
-
-        (2) Die Dauer des Sortenschutzes bestimmt sich nach § 13 des
-        Sortenschutzgesetzes.
-
-        (3) Ist ein Sortenschutz für eine Sorte sowohl nach dem
-        Sortenschutzgesetz als auch nach der Sortenschutzverordnung erteilt
-        worden, so ist die Dauer des Sortenschutzes vom Tage der ersten
-        Erteilung an zu rechnen.
-
-        (4) Ist der Sortenschutz für eine Sorte nach dem Sortenschutzgesetz
-        einer anderen Person erteilt worden als nach der
-        Sortenschutzverordnung, so gilt als Sortenschutzinhaber der
-        Ursprungszüchter oder Entdecker der Sorte oder sein erster
-        Rechtsnachfolger. Der andere bisherige Sortenschutzinhaber hat für den
-        Bereich, für den ihm bisher das Recht aus dem Sortenschutz zugestanden
-        hat, gegenüber dem verbleibenden Sortenschutzinhaber einen Anspruch
-        auf Erteilung eines ausschließlichen Nutzungsrechts. Solange dem
-        Bundessortenamt nicht nachgewiesen ist, wem der Sortenschutz künftig
-        zusteht, steht er den bisherigen Sortenschutzinhabern gemeinschaftlich
-        zu.
-
-        (5) Die nach der Sortenschutzverordnung erteilten und fortbestehenden
-        Sortenschutzrechte werden in die Sortenschutzrolle nach § 28 des
-        Sortenschutzgesetzes eingetragen; § 28 Abs. 2 Satz 2 des
-        Sortenschutzgesetzes ist anzuwenden.
-
-        (6) Stimmen für eine nach dem Sortenschutzgesetz geschützte und für
-        eine andere, nach der Sortenschutzverordnung geschützte Sorte die
-        Sortenbezeichnungen überein, so ist hinsichtlich der Sorte, für die
-        der Sortenschutz später erteilt worden ist, § 30 des
-        Sortenschutzgesetzes anzuwenden. Diese Vorschrift ist auch auf
-        Sortenbezeichnungen für Sorten anzuwenden, für die Sortenschutz nach
-        der Sortenschutzverordnung erteilt worden ist, wenn ein
-        Ausschließungsgrund nach § 7 Abs. 2 oder 3 des Sortenschutzgesetzes
-        vorliegt.
-
-        (7) Ein Sortenschutz, der nach der Sortenschutzverordnung einem
-        anderen Inhaber als einer natürlichen oder juristischen Person oder
-        einer Personenhandelsgesellschaft erteilt worden ist, ist innerhalb
-        von drei Monaten nach dem Tag des Wirksamwerdens des Beitritts oder
-        innerhalb einer vom Bundessortenamt etwa gesetzten Nachfrist auf einen
-        derartigen Berechtigten zu übertragen; bei Versäumung der Frist wird
-        er widerrufen. Ein Sortenschutz wird nicht allein deshalb widerrufen,
-        weil er einem Inhaber erteilt worden ist, der nicht Angehöriger eines
-        der in § 15 des Sortenschutzgesetzes bezeichneten Staaten ist oder
-        nicht in einem solchen Staat seinen Wohnsitz oder Sitz hat.
-
-        (8) Soweit für eine nach der Sortenschutzverordnung geschützte Sorte
-        eine natürliche Person als Verfahrensvertreter nach § 15 Abs. 2 des
-        Sortenschutzgesetzes zu bestellen, aber nicht bestellt ist, ist er
-        innerhalb von drei Monaten nach dem Tag des Wirksamwerdens des
-        Beitritts oder innerhalb einer vom Bundessortenamt etwa gesetzten
-        Nachfrist zu bestellen; bei Versäumung der Frist wird der Sortenschutz
-        widerrufen.
-
-
-    b)  Umwandlung von Wirtschaftssortenschutz
-
-        (1) Soweit für Sorten nach der Sortenschutzverordnung ein
-        Wirtschaftssortenschutz erteilt worden ist und am Tag des
-        Wirksamwerdens des Beitritts noch besteht, gilt dieser als
-        Sortenschutz nach dem Sortenschutzgesetz.
-
-        (2) Innerhalb von drei Monaten nach dem Tag des Wirksamwerdens des
-        Beitritts hat der bisherige Inhaber des Wirtschaftssortenschutzes dem
-        Bundessortenamt mitzuteilen, welche Person in Anwendung des § 8 des
-        Sortenschutzgesetzes als Sortenschutzinhaber in die Sortenschutzrolle
-        eingetragen werden soll. Geht diese Mitteilung nicht innerhalb der
-        genannten Frist oder innerhalb einer vom Bundessortenamt etwa
-        gesetzten Nachfrist dort ein, so kann der Sortenschutz widerrufen
-        werden.
-
-        (3) Soweit am Tag des Wirksamwerdens des Beitritts Dritte auf Grund
-        der für den Wirtschaftssortenschutz maßgebenden Bestimmungen
-        zulässigerweise vegetatives Vermehrungsmaterial verwendet haben und
-        den Aufwuchs zu wirtschaftlichen Zwecken nutzen, ohne hierfür zur
-        Zahlung einer Vergütung an den Inhaber des Wirtschaftssortenschutzes
-        verpflichtet worden zu sein, können sie diese Benutzung bis zum 30.
-        Juni 1993 fortsetzen, ohne zur Zahlung einer Vergütung an den
-        Sortenschutzinhaber verpflichtet zu sein.
-
-
-    c)  Überleitung von Anträgen auf Erteilung des Sortenschutzes
-
-        (1) Anträge auf Erteilung des Sortenschutzes, die bis zum Tag des
-        Wirksamwerdens des Beitritts nach der Sortenschutzverordnung gestellt
-        worden sind, gelten als Anträge auf Erteilung des Sortenschutzes nach
-        dem Sortenschutzgesetz. Der Tag des Eingangs bei der Zentralstelle für
-        Sortenwesen gilt als Antragstag. Die weitere Behandlung des Antrags
-        richtet sich nach den Vorschriften des Sortenschutzgesetzes, soweit
-        nachfolgend nichts anderes bestimmt ist. Buchstabe a Abs. 7 Satz 1
-        gilt entsprechend; bei Versäumung der Frist wird der Antrag
-        zurückgewiesen.
-
-        (2) Für den Antragsteller eines als Wirtschaftssortenschutz
-        angemeldeten Sortenschutzes gilt Buchstabe b Abs. 2 entsprechend; bei
-        Versäumung der Frist kann der Antrag zurückgewiesen werden.
-
-        (3) Das Bundessortenamt macht die Anträge nach Absatz 1 sowie die
-        dafür angegebenen Sortenbezeichnungen bekannt.
-
-
-    d)  Überleitung von Rechtsbehelfen
-
-        Beschwerdeverfahren nach § 16 der Sortenschutzverordnung, die am Tag
-        des Wirksamwerdens des Beitritts anhängig sind, werden als
-        Widersprüche im Sinne des Sortenschutzgesetzes weiterbehandelt.
-
-
-    e)  Übergangsvorschriften
-
-        (1) Abweichend von § 6 Abs. 1 Nr. 1 des Sortenschutzgesetzes ist eine
-        Sorte auch dann neu, wenn
-
-        1.  für sie bis zum Tag des Wirksamwerdens des Beitritts die Erteilung des
-            Sortenschutzes bei der Zentralstelle für Sortenwesen beantragt worden
-            ist und Vermehrungsmaterial oder Erntegut der Sorte mit Zustimmung des
-            Berechtigten oder seines Rechtsvorgängers innerhalb von drei Jahren
-            vor dem Antragstag auf dem Gebiet der Deutschen Demokratischen
-            Republik oder im Geltungsbereich des Sortenschutzgesetzes gewerbsmäßig
-            in den Verkehr gebracht worden ist oder
-
-
-        2.  sie in dem in Artikel 3 des Vertrages genannten Gebiet gezüchtet
-            worden ist und in diesem Gebiet Vermehrungsmaterial oder Erntegut der
-            Sorte mit Zustimmung des Berechtigten oder seines Rechtsvorgängers
-            innerhalb von weniger als drei Jahren vor dem Tag des Wirksamwerdens
-            des Beitritts gewerbsmäßig in den Verkehr gebracht worden ist und der
-            Antragstag innerhalb von drei Jahren nach dem erstmaligen
-            Inverkehrbringen liegt.
-
-
-
-
-        (2)
-
-
-    f)  Rechtsverletzungen
-
-        (1)
-
-        (2) § 37 Abs. 3 des Sortenschutzgesetzes ist nicht auf Sorten
-        anzuwenden, für die am Tag des Wirksamwerdens des Beitritts
-        Sortenschutz bei der Zentralstelle für Sortenwesen beantragt war.
-
-        (3) Vorschriften anderer Gesetze, die nach den Vorschriften des
-        Abschnitts 5 des Sortenschutzgesetzes im Falle von Rechtsverletzungen
-        anzuwenden sind, sind auch dann heranzuziehen, wenn die anderen
-        Vorschriften als solche für das in Artikel 3 des Vertrages genannte
-        Gebiet noch nicht allgemein in Kraft getreten sind.
-
-
-    g)  Zuständige Stelle
-
-        Zuständige Stelle für die Durchführung der in § 16 Abs. 2 des
-        Sortenschutzgesetzes genannten Aufgaben einschließlich der in dieser
-        Nummer aufgeführten Überleitungsmaßnahmen ist das Bundessortenamt.
-
-
-    h)  Gebühren
-
-        Gebühren, die im Jahr des Wirksamwerdens des Beitritts für Sorten
-        entstehen, für die nach der Sortenschutzverordnung der Sortenschutz
-        erteilt oder beantragt worden ist, werden nach Vorschriften erhoben,
-        die in dem in Artikel 3 des Vertrages genannten Gebiet am Tag vor dem
-        Wirksamwerden des Beitritts gegolten haben.
-
-
-
-
-
-
-...
 

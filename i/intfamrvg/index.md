@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 162
 
 Zuletzt geändert durch
-:   Art. 7 G v. 23.5.2011 I 898
+:   Art. 4 G v. 11.6.2017 I 1607
 
 
 ## Abschnitt 1 - Anwendungsbereich; Begriffsbestimmungen
@@ -152,19 +152,37 @@ einschließlich der Einschaltung von Polizeivollzugsbehörden, um den
 Aufenthaltsort des Kindes zu ermitteln, wenn dieser unbekannt ist und
 Anhaltspunkte dafür vorliegen, dass sich das Kind im Inland befindet.
 
-(2) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
+(2) Soweit zur Ermittlung des Aufenthalts des Kindes oder zur
+Feststellung eines früheren oder des gegenwärtigen gewöhnlichen
+Aufenthalts des Kindes erforderlich, darf die Zentrale Behörde im
+automatisierten Abrufverfahren nach § 38 des Bundesmeldegesetzes über
+die in § 38 Absatz 1 des Bundesmeldegesetzes aufgeführten Daten hinaus
+folgende Daten abrufen:
+
+1.  derzeitige Staatsangehörigkeiten,
+
+
+2.  frühere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung und
+
+
+3.  Einzugsdatum und Auszugsdatum.
+
+
+
+
+(3) Soweit zur Ermittlung des Aufenthalts des Kindes erforderlich,
 darf die Zentrale Behörde bei dem Kraftfahrt-Bundesamt erforderliche
 Halterdaten nach § 33 Abs. 1 Satz 1 Nr. 2 des Straßenverkehrsgesetzes
 erheben und die Leistungsträger im Sinne der §§ 18 bis 29 des Ersten
 Buches Sozialgesetzbuch um Mitteilung des derzeitigen Aufenthalts
 einer Person ersuchen.
 
-(3) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
+(4) Unter den Voraussetzungen des Absatzes 1 kann die Zentrale Behörde
 die Ausschreibung zur Aufenthaltsermittlung durch das
 Bundeskriminalamt veranlassen. Sie kann auch die Speicherung eines
 Suchvermerks im Zentralregister veranlassen.
 
-(4) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
+(5) Soweit andere Stellen eingeschaltet werden, übermittelt sie ihnen
 die zur Durchführung der Maßnahmen erforderlichen personenbezogenen
 Daten; diese dürfen nur für den Zweck verwendet werden, für den sie
 übermittelt worden sind.
@@ -592,8 +610,16 @@ untergebracht werden soll.
 
 #### § 22 Wirksamwerden der Entscheidung
 
-Der Beschluss nach § 20 wird erst mit seiner Rechtskraft wirksam.
-Hierauf ist in dem Beschluss hinzuweisen.
+(1) Der Beschluss nach § 20 wird erst mit Rechtskraft wirksam. Hierauf
+ist in dem Beschluss hinzuweisen.
+
+(2) Absatz 1 gilt nicht für den Beschluss, mit dem eine Entscheidung
+über die freiheitsentziehende Unterbringung eines Kindes nach Artikel
+56 der Verordnung (EG) Nr. 2201/2003 für vollstreckbar erklärt wird.
+In diesem Fall hat das Gericht die sofortige Wirksamkeit des
+Beschlusses anzuordnen. § 324 Absatz 2 Satz 2 Nummer 3 und Satz 3 des
+Gesetzes über das Verfahren in Familiensachen und in Angelegenheiten
+der freiwilligen Gerichtsbarkeit gilt entsprechend.
 
 
 #### § 23 Vollstreckungsklausel
@@ -664,6 +690,10 @@ einzulegen
 
 (5) Die Beschwerde ist dem Beschwerdegegner von Amts wegen
 zuzustellen.
+
+(6) Im Fall des § 22 Absatz 2 kann das Beschwerdegericht durch
+Beschluss die Vollstreckung des angefochtenen Beschlusses einstweilen
+einstellen.
 
 
 #### § 25 Einwendungen gegen den zu vollstreckenden Anspruch
@@ -846,11 +876,11 @@ ausschließlich zuständig, das im ersten Rechtszug über den Antrag, den
 Titel mit der Vollstreckungsklausel zu versehen, entschieden hat.
 
 
-### Unterabschnitt 7 - Vollstreckungsgegenklage
+### Unterabschnitt 7 - Vollstreckungsabwehrklage
 
 
 
-#### § 36 Vollstreckungsgegenklage bei Titeln über Verfahrenskosten
+#### § 36 Vollstreckungsabwehrklage bei Titeln über Verfahrenskosten
 
 (1) Ist die Zwangsvollstreckung aus einem Titel über die Erstattung
 von Verfahrenskosten zugelassen, so kann die verpflichtete Person

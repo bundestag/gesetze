@@ -3,7 +3,7 @@ Title: Erstes Gesetz zur Änderung des Gesetzes über die Errichtung von Rundfun
   des Bundesrechts
 jurabk: RdFunkGÄndG 1
 layout: default
-origslug: rdfunkg_ndg_1
+origslug: rdfunkgaendg_1
 slug: rdfunkgaendg_1
 
 ---

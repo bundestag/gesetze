@@ -15,6 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1984, 341
 
+Stand: V aufgeh.durch Art. 32 Abs. 3 Nr. 1 G v. 27.6.2017 I 1966 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -1285,8 +1286,9 @@ für jedes dieser anderen Organe ein Wichtungsfaktor von 0,06 zu
 verwenden ist. Der Beitrag der dabei nicht berücksichtigten übrigen
 Organe zur effektiven Äquivalentdosis entfällt.
 
+Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1226)
+### Anhang EV (BGBl. II 1990, 889, 1226)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

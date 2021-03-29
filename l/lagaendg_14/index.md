@@ -2,7 +2,7 @@
 Title: Vierzehntes Gesetz zur Änderung des Lastenausgleichsgesetzes
 jurabk: LAGÄndG 14
 layout: default
-origslug: lag_ndg_14
+origslug: lagaendg_14
 slug: lagaendg_14
 
 ---
@@ -273,19 +273,18 @@ Rechnungsjahr 1961 ab je nach Baufortschritt auszuzahlen.
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates eine Regelung zu treffen, durch die
 sichergestellt wird, daß Ehegatten, die nach
-§ 38              des Lastenausgleichsgesetzes zusammen veranlagt
-worden sind, in den Fällen der
-§§ 55a              und
-55b              des Lastenausgleichsgesetzes nicht benachteiligt
-werden. Dabei können insbesondere Bestimmungen darüber getroffen
-werden, was als abgabepflichtiges Vermögen des einzelnen Ehegatten
-gilt. Außerdem kann zur Vereinfachung bestimmt werden, daß als
-abgabepflichtiges Vermögen der Ehegatten die Hälfte ihres veranlagten
-abgabepflichtigen Vermögens gilt, wobei es genügt, wenn die
-Voraussetzungen der
-§§ 55a              und
-55b              des Lastenausgleichsgesetzes teils in der Person des
-einen und teils in der Person des anderen Ehegatten erfüllt sind.
+§ 38 des Lastenausgleichsgesetzes zusammen veranlagt worden sind, in
+den Fällen der
+§§ 55a und
+55b des Lastenausgleichsgesetzes nicht benachteiligt werden. Dabei
+können insbesondere Bestimmungen darüber getroffen werden, was als
+abgabepflichtiges Vermögen des einzelnen Ehegatten gilt. Außerdem kann
+zur Vereinfachung bestimmt werden, daß als abgabepflichtiges Vermögen
+der Ehegatten die Hälfte ihres veranlagten abgabepflichtigen Vermögens
+gilt, wobei es genügt, wenn die Voraussetzungen der
+§§ 55a und
+55b des Lastenausgleichsgesetzes teils in der Person des einen und
+teils in der Person des anderen Ehegatten erfüllt sind.
 
 
 ### § 13 Anwendungszeitpunkt

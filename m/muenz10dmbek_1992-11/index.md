@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Wissenschaften und Künste)
 jurabk: Münz10DMBek 1992-11
 layout: default
-origslug: m_nz10dmbek_1992-11
+origslug: muenz10dmbek_1992-11
 slug: muenz10dmbek_1992-11
 
 ---

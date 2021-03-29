@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2009-08-10
 
 Fundstelle
-:   BGBl I: 2009, 2705
+:   BGBl I: 2009, 2702, 2705
 
 
 ## § 1 Konsolidierungshilfen

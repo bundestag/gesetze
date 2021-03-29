@@ -43,15 +43,15 @@ entrichtet, die Empfänger der Abgabe sind. Das Recht der Gemeinden am
 Wegeeigentum bleibt unberührt.
 
 (2) Den Gemeindeverbänden stehen die
-Reichsgaue als Selbstverwaltungskörperschaften              und die
-Länder, den Zweckverbänden die Zusammenschlüsse des öffentlichen und
-privaten Rechts gleich, an denen ausschließlich Länder,
-Reichsgaue,              Gemeindeverbände, Gemeinden, Zweckverbände
-oder sonstige Zusammenschlüsse von Körperschaften oder Vereinigungen
-der genannten Art beteiligt sind. Ausgenommen sind die Zweckverbände
-und Zusammenschlüsse, die Energieversorgungsunternehmen im Sinne des §
-2 des Energiewirtschaftsgesetzes vom 13. Dezember 1935
-(Reichsgesetzbl. I S. 1451) sind oder andere mit Wasser versorgen.
+Reichsgaue als Selbstverwaltungskörperschaften und die Länder, den
+Zweckverbänden die Zusammenschlüsse des öffentlichen und privaten
+Rechts gleich, an denen ausschließlich Länder,
+Reichsgaue, Gemeindeverbände, Gemeinden, Zweckverbände oder sonstige
+Zusammenschlüsse von Körperschaften oder Vereinigungen der genannten
+Art beteiligt sind. Ausgenommen sind die Zweckverbände und
+Zusammenschlüsse, die Energieversorgungsunternehmen im Sinne des § 2
+des Energiewirtschaftsgesetzes vom 13. Dezember 1935 (Reichsgesetzbl.
+I S. 1451) sind oder andere mit Wasser versorgen.
 
 
 ## § 2
@@ -60,8 +60,8 @@ und Zusammenschlüsse, die Energieversorgungsunternehmen im Sinne des §
 Konzessionsabgaben. Sie dürfen aber nicht erhöht, in
 Konzessionsabgaben umgewandelt oder neu eingeführt werden, es sei
 denn, daß
-der Generalinspektor für Wasser und Energie              einer
-Neueinführung zustimmt.
+der Generalinspektor für Wasser und Energie einer Neueinführung
+zustimmt.
 
 (2) Diese Entgelte dürfen 1,5 vom Hundert der Roheinnahmen aus
 Großabnehmerlieferungen nicht überschreiten (§ 2 Abs. 1 Buchstabe a
@@ -106,7 +106,7 @@ c)  alle Lieferungen an Einzelabnehmer, die in Gemeinden von
 
 
 
-*    *   3.001                        bis 25.000 Einwohnern
+*    *   3.001 bis 25.000 Einwohnern
 
 
 *    *
@@ -132,9 +132,9 @@ c)  alle Lieferungen an Einzelabnehmer, die in Gemeinden von
 (2) Für Wasserlieferungen wird der Durchschnittspreis je Kubikmeter,
 der nicht mit einer Konzessionsabgabe belastet werden darf (§ 2 Abs. 1
 Buchstabe a KAE), auf Antrag eines Vertragsteils durch den
-Reichskommissar für die Preisbildung              festgesetzt, es sei
-denn, daß sich die Parteien darüber einigen, welche Lieferungen
-abgabenfrei bleiben.
+Reichskommissar für die Preisbildung festgesetzt, es sei denn, daß
+sich die Parteien darüber einigen, welche Lieferungen abgabenfrei
+bleiben.
 
 
 ## § 6
@@ -270,9 +270,9 @@ längstens bis zum Schluß des Rechnungsjahrs, in dem der Krieg beendet
 wird, vereinbaren.
 
 (2) Straßenbeleuchtungskosten werden bis zur
-reichseinheitlichen              Neuregelung der Vergütung von
-Leistungen der Versorgungsunternehmen zur Beleuchtung der öffentlichen
-Verkehrsräume nach den geltenden Vereinbarungen für die Zeit der
+reichseinheitlichen Neuregelung der Vergütung von Leistungen der
+Versorgungsunternehmen zur Beleuchtung der öffentlichen Verkehrsräume
+nach den geltenden Vereinbarungen für die Zeit der
 Verdunklungsmaßnahmen nach der Anordnung über die Einwirkung der
 Verdunklungsmaßnahmen auf die Entgelte für Straßenbeleuchtung vom 17.
 Juli 1940 (Reichsanzeiger Nr. 167 vom 19. Juli 1940) und den zu ihrer

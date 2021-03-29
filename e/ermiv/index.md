@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2641
 
-Geändert durch
-:   Art. 5 V v. 25.10.2012 I 2270
+Zuletzt geändert durch
+:   Art. 3 V v. 9.6.2017 I 1614
 
 
 ## § 1 Anwendungsbereich
@@ -72,9 +72,9 @@ Im Sinne dieser Verordnung sind
     ein Gebiet,
 
     a)  das nach Artikel 4 Absatz 4 der Richtlinie
-        92/43/EWG                          des Rates vom 21. Mai 1992 zur
-        Erhaltung der natürlichen Lebensräume sowie der wildlebenden Tiere und
-        Pflanzen (ABl. L 206 vom 22.7.1992, S. 7) ausgewiesen ist oder
+        92/43/EWG des Rates vom 21. Mai 1992 zur Erhaltung der natürlichen
+        Lebensräume sowie der wildlebenden Tiere und Pflanzen (ABl. L 206 vom
+        22\.7.1992, S. 7) ausgewiesen ist oder
 
 
     b)  das zum Erhalt pflanzengenetischer Ressourcen beiträgt und nach
@@ -82,9 +82,9 @@ Im Sinne dieser Verordnung sind
         in Verbindung mit Artikel 1 Buchstabe k und l der Richtlinie 92/43/EWG
         vergleichbar sind und das auf eine den Artikeln 6 und 11 der
         Richtlinie
-        92/43/EWG                          entsprechende Weise verwaltet,
-        geschützt und überwacht wird; hierzu zählen auch gesetzlich geschützte
-        Biotope im Sinne des § 30 des Bundesnaturschutzgesetzes;
+        92/43/EWG entsprechende Weise verwaltet, geschützt und überwacht wird;
+        hierzu zählen auch gesetzlich geschützte Biotope im Sinne des § 30 des
+        Bundesnaturschutzgesetzes;
 
 
 
@@ -197,7 +197,16 @@ Entnahmeort der Erhaltungsmischung befindet, wenn
     erzeugt worden ist,
 
 
-3.  eine direkt geerntete Mischung
+3.  die Erhaltungsmischung kein Saatgut von Ambrosia artemisiifolia, Avena
+    fatua, Avena sterilis, Bunias orientalis, Heracleum mantegazzianum,
+    Senecio jacobaea, Senecio aquaticus, Senecio alpinus, Senecio
+    inaequidens, Senecio vernalis und von Cuscuta spp., außer von in
+    Deutschland natürlich vorkommenden Cuscuta-Arten und nicht mehr als
+    0,05 Gewichtsprozent an Saatgut von Rumex spp., außer Rumex acetosa
+    und Rumex acetosella, enthält,
+
+
+4.  eine direkt geerntete Mischung
 
     a)  hinsichtlich der prozentualen Zusammensetzung (Gewichtsprozent) und
         der Keimfähigkeit ihrer einzelnen Bestandteile geeignet ist, die Art
@@ -207,20 +216,16 @@ Entnahmeort der Erhaltungsmischung befindet, wenn
 
     b)  nicht mehr als 1 Gewichtsprozent an Arten oder Unterarten enthält, die
         nicht die Anforderungen hinsichtlich der prozentualen Zusammensetzung
-        nach Buchstabe a erfüllen und
+        nach Buchstabe a erfüllen,
 
 
-    c)  kein Saatgut von Ambrosia artemisiifolia, Avena fatua, Avena sterilis,
-        Bunias orientalis, Heracleum mantegazzianum und von Cuscuta spp.,
-        außer von in Deutschland natürlich vorkommenden Cuscuta-Arten und
-        nicht mehr als 0,05 Gewichtsprozent an Saatgut von Rumex spp., außer
-        Rumex acetosa und Rumex acetosella, enthält,
+    c)  (weggefallen)
 
 
 
 
 
-4.  bei einer angebauten Mischung sichergestellt ist, dass
+5.  bei einer angebauten Mischung sichergestellt ist, dass
 
     a)  sie Arten oder Unterarten enthält, die typisch für die Art des
         Lebensraumes am Entnahmeort und von Bedeutung für die Bewahrung der
@@ -235,14 +240,19 @@ Entnahmeort der Erhaltungsmischung befindet, wenn
 
 
     c)  die Vermehrung der jeweiligen Bestandteile der Mischung nicht über
-        mehr als fünf Generationen erfolgt ist.
+        mehr als fünf Generationen erfolgt ist,
 
 
 
 
 
+6.  das Bundessortenamt demjenigen, der das Saatgut auf der ersten
+    Handelsstufe in den Verkehr bringt, eine Saatgutmenge nach § 6
+    zugewiesen hat.
 
-Im Falle des Satzes 1 Nummer 4 Buchstaben c ist die Vermehrung auch
+
+
+Im Falle des Satzes 1 Nummer 5 Buchstabe c ist die Vermehrung auch
 dann zulässig, wenn sich eine Vermehrungsfläche unmittelbar an der
 Grenze zweier benachbarter Produktionsräume befindet und in den
 benachbarten Produktionsraum hinein erstreckt.
@@ -259,21 +269,31 @@ Ursprungsgebieten nicht als Ersatz in Frage kommt.
 
 ## § 5 Überwachung durch Sichtkontrollen und Prüfungen
 
-Die zuständige Behörde überwacht die Einhaltung der Anforderungen nach
+(1) Die zuständige Behörde überwacht die Einhaltung der Anforderungen
+nach
 
-1.  § 4 Nummer 3 durch Sichtkontrollen am Entnahmeort,
-
-
-2.  § 4 Nummer 4 Buchstabe a und b durch Untersuchung von Saatgutproben,
-    die den zum Inverkehrbringen aufbereiteten Bestandteilen von
-    Saatgutmischungen oder den zum Inverkehrbringen aufbereiteten und
-    verpackten Saatgutmischungen entnommen worden sind.
+1.  § 4 Absatz 1 Satz 1 Nummer 3 durch Sichtkontrollen am Entnahmeort oder
+    durch Untersuchung von Saatgutproben,
 
 
+2.  § 4 Absatz 1 Satz 1 Nummer 4 durch Sichtkontrollen am Entnahmeort,
 
-Für die Probenahme gelten die Vorschriften nach Artikel 7 Absatz 2 in
-Verbindung mit Anlage 3 der Richtlinie 66/401/EWG. Die zuständige
-Behörde hat die Durchführung der Überwachung aufzuzeichnen.
+
+3.  § 4 Absatz 1 Satz 1 Nummer 5 Buchstabe a und b durch Untersuchung von
+    Saatgutproben.
+
+
+
+
+(2) Die nach Absatz 1 zu untersuchenden Saatgutproben müssen den zum
+Inverkehrbringen aufbereiteten Bestandteilen von Saatgutmischungen
+oder den zum Inverkehrbringen aufbereiteten und verpackten
+Saatgutmischungen entnommen worden sein. Für die Probenahme gelten die
+Vorschriften nach Artikel 7 Absatz 2 in Verbindung mit Anlage 3 der
+Richtlinie 66/401/EWG.
+
+(3) Die zuständige Behörde hat die Durchführung der Überwachung
+aufzuzeichnen.
 
 
 ## § 5a Gestattung des Inverkehrbringens
@@ -320,7 +340,69 @@ verwaltungsverfahrensrechtlichen Bestimmungen über Rücknahme und
 Widerruf unberührt.
 
 
-## § 6 Verschließung
+## § 6 Beschränkung des Inverkehrbringens
+
+(1) Das Bundessortenamt setzt die Höchstmenge des in
+Erhaltungsmischungen in den Verkehr gebrachten Saatgutes von Arten,
+die unter die Richtlinie 66/401/EWG in der jeweils geltenden Fassung
+fallen, derart fest, dass die festgesetzte Höchstmenge 5 vom Hundert
+des Gesamtgewichtes
+aller Saatgutmischungen, die im Rahmen der Richtlinie 66/401/EWG in
+der jeweils geltenden Fassung im Inland jährlich in den Verkehr
+gebracht werden, nicht übersteigt.
+
+(2) Die Anträge auf Zuweisung der Saatgutmenge sind unter Verwendung
+der Vordrucke des Bundessortenamtes bis zu dem im Blatt für
+Sortenwesen bekannt gemachten Termin beim Bundessortenamt zu stellen.
+Eine Durchschrift des Antrages hat der Antragsteller der zuständigen
+Behörde zuzuleiten.
+
+(3) Der Antragsteller hat im Antrag anzugeben:
+
+1.  Name und Anschrift des Herstellers der Mischung,
+
+
+2.  Information, ob es sich um eine direkt geerntete oder um eine
+    angebaute Mischung handelt,
+
+
+3.  bei direkt geernteten Mischungen
+
+    a)  für die Pflanzenarten, die unter die Richtlinie 66/401/EWG in der
+        jeweils geltenden Fassung fallen, die insgesamt beantragte
+        Saatgutmenge,
+
+
+    b)  die Größe und Lage der Fläche am Entnahmeort, von der die Mischung
+        entnommen werden soll,
+
+
+    c)  die Erhaltungsmischungsnummer,
+
+
+
+
+
+4.  bei angebauten Mischungen für jede Pflanzenart, die unter die
+    Richtlinie 66/401/EWG in der jeweils geltenden Fassung fällt, die
+    beantragte Saatgutmenge.
+
+
+
+
+(4) Das Bundessortenamt weist den Antragstellern die Saatgutmengen zu.
+Übersteigt die Summe der von den Antragstellern beantragten
+Saatgutmengen die vom Bundessortenamt festgelegte Höchstmenge, weist
+das Bundessortenamt den Antragstellern die Saatgutmengen anteilmäßig
+gekürzt zu.
+
+(5) Wer Saatgut von Erhaltungsmischungen in den Verkehr bringt, hat am
+Ende eines jeden Kalenderjahres dem Bundessortenamt die Menge des in
+den Verkehr gebrachten Saatgutes je Erhaltungsmischung schriftlich
+mitzuteilen.
+
+
+## § 7 Verschließung
 
 (1) Packungen oder Behältnisse von Saatgut von Erhaltungsmischungen
 sind von demjenigen zu schließen und mit einer Sicherung zu versehen,
@@ -338,7 +420,7 @@ Behältnissen und ohne Verschlusssicherung in den Verkehr gebracht
 werden.
 
 
-## § 7 Kennzeichnung
+## § 8 Kennzeichnung
 
 (1) Saatgut einer Erhaltungsmischung darf nur in Packungen in den
 Verkehr gebracht werden, auf denen sich ein Herstelleretikett, ein
@@ -413,8 +495,9 @@ Erklärung auf dem Lieferschein verpflichtet, die entfallenen Angaben
 dem Käufer der Erhaltungsmischung auf Verlangen schriftlich oder auf
 elektronischem Wege unverzüglich mitzuteilen.
 
+(zu § 2 Nummer 6 und 7)
 
-## Anlage (zu § 2 Nummer 6 und 7) Ursprungsgebiete und Produktionsräume
+## Anlage Ursprungsgebiete und Produktionsräume
 
 (Fundstelle: BGBl. I 2011, 2644 - 2645)
 

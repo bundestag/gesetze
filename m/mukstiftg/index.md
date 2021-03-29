@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 19. 3.1993 I 406
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 6 G v. 7.7.2009 I 1707
+:   Art. 46 G v. 8.7.2016 I 1594
 
 
 ## § 1 Errichtung und Sitz
@@ -29,7 +29,7 @@ Zuletzt geändert durch
 und Kind - Schutz des ungeborenen Lebens" errichtet. Die Stiftung
 entsteht mit dem Inkrafttreten dieses Gesetzes.
 
-(2) Der Sitz der Stiftung ist Bonn.
+(2) Der Sitz der Stiftung ist Berlin.
 
 
 ## § 2 Stiftungszweck
@@ -103,16 +103,15 @@ von anderem Einkommen abhängig ist.
 ## § 6 Stiftungsvermögen
 
 (1) Der Bund stellt der Stiftung jährlich Mittel in Höhe der für
-diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens 180
-Millionen Deutsche Mark, für die Erfüllung des Stiftungszweckes zur
-Verfügung.
+diesen Zweck im Haushaltsplan veranschlagten Mittel, mindestens 92 033
+000 Euro, für die Erfüllung des Stiftungszweckes zur Verfügung.
 
 (2) Von den ab 1985 der Stiftung zufließenden Bundesmitteln können
-jährlich bis zu 1 Million Deutsche Mark zum Aufbau eines
-Stiftungsvermögens verwendet werden. Bundesmittel, die von der
-Stiftung bis zum Abschluß eines Haushaltsjahres nicht für die
-Erfüllung des Stiftungszweckes ausgegeben worden sind, sind zusätzlich
-für den Aufbau des Stiftungsvermögens zu verwenden.
+jährlich bis zu 511 000 Euro zum Aufbau eines Stiftungsvermögens
+verwendet werden. Bundesmittel, die von der Stiftung bis zum Abschluß
+eines Haushaltsjahres nicht für die Erfüllung des Stiftungszweckes
+ausgegeben worden sind, sind zusätzlich für den Aufbau des
+Stiftungsvermögens zu verwenden.
 
 (3) Die Stiftung ist berechtigt, Zuwendungen von dritter Seite
 anzunehmen.
@@ -134,18 +133,14 @@ Kuratorium.
 
 (1) Der Stiftungsrat besteht aus
 
-1.  drei Vertretern des Bundesministeriums für Familie, Senioren, Frauen
+1.  vier Vertretern des Bundesministeriums für Familie, Senioren, Frauen
     und Jugend,
 
 
-2.  einem Vertreter des Bundesministeriums für Familie, Senioren, Frauen
-    und Jugend,
+2.  einem Vertreter des Bundesministeriums der Finanzen,
 
 
-3.  einem Vertreter des Bundesministeriums der Finanzen,
-
-
-4.  vier Mitgliedern, die vom Bundesministerium für Familie, Senioren,
+3.  vier Mitgliedern, die vom Bundesministerium für Familie, Senioren,
     Frauen und Jugend auf Vorschlag der in § 3 genannten
     Zuwendungsempfänger berufen werden.
 

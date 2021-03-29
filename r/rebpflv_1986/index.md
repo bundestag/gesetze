@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 204
 
 Zuletzt geändert durch
-:   Art. 4 V v. 25.10.2012 I 2270
+:   Art. 1 V v. 1.10.2018 I 1571
 
 
 ## Eingangsformel
@@ -151,6 +151,12 @@ Im Sinne dieser Verordnung sind
 
 
 
+### § 2a Gestattung des Inverkehrbringens von Standardpflanzgut
+
+Standardpflanzgut, außer Standardpflanzgut von Unterlagsreben, darf zu
+gewerblichen Zwecken in den Verkehr gebracht werden.
+
+
 ## Abschnitt 2 - Anerkennung von Pflanzgut
 
 
@@ -230,7 +236,11 @@ stellen.
     angegebenen Klons erwächst, bei dem die in Anlage 1 Nr. 2.4 für
     Mutterrebenbestände zur Erzeugung von Zertifiziertem Pflanzgut
     vorgeschriebene Prüfung durchgeführt worden ist und der Rebenbestand
-    die dort genannten Anforderungen erfüllt.
+    die dort genannten Anforderungen erfüllt;
+
+
+4.  bei Standardpflanzgut, dass der Rebenbestand die in Anlage 1 Nummer
+    2\.5 genannten Anforderungen erfüllt.
 
 
 
@@ -247,6 +257,13 @@ Bescheinigung dieser Stelle über das Ergebnis der mit Erfolg
 vorgenommenen Prüfung des Rebenbestandes und ein Nachweis der
 Genehmigung der Pflanzguteinfuhr nach § 18 Abs. 2 Nr. 4 des
 Saatgutverkehrsgesetzes beizufügen.
+
+(6) Im Fall von Standardpflanzgut, das aus einem Klon erwächst, sind
+im Antrag die Kategorie, die Rebsorte und der Klon des jeweiligen
+Mutterrebenbestandes anzugeben. Soweit der Mutterrebenbestand aus
+einem erhaltungszüchterisch bearbeiteten Klon erwächst, kann der
+Antrag nur durch den eingetragenen Züchter oder mit seiner Zustimmung
+gestellt werden.
 
 
 ### § 5 Anforderungen an die Vermehrungsfläche
@@ -751,8 +768,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
+(zu § 4 Abs. 3, § 6 Satz 1)
 
-### Anlage 1 (zu § 4 Abs. 3, § 6 Satz 1) Anforderungen an den Rebenbestand
+### Anlage 1 Anforderungen an den Rebenbestand
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1440 - 1441)
 
@@ -893,8 +911,9 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 
 
+(zu § 6 Satz 2)
 
-### Anlage 2 (zu § 6 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
+### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
 
 Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
@@ -1040,8 +1059,9 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
 
 
+(zu § 11 Abs. 1, § 16, § 21 Abs. 1)
 
-### Anlage 3 (zu § 11 Abs. 1, § 16, § 21 Abs. 1) Verpackung
+### Anlage 3 Verpackung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1442)
 
@@ -1134,8 +1154,9 @@ Fundstelle des Originaltextes: BGBl. I 2006, 1441 - 1442
 
 
 
+(zu § 17 Abs. 2, § 19 Abs. 4)
 
-### Anlage 4 (zu § 17 Abs. 2, § 19 Abs. 4) Angaben auf dem Etikett
+### Anlage 4 Angaben auf dem Etikett
 
 Fundstelle des Originaltextes: BGBl. I 1986, 213;
 bzgl. der einzelnen Änderungen vgl. Fußnote

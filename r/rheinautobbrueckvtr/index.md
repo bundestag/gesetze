@@ -3,7 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Re
   über den Bau einer Autobahnbrücke über den Rhein zwischen Steinenstadt und Ottmarsheim
 jurabk: RheinAutobBrückVtr
 layout: default
-origslug: rheinautobbr_ckvtr
+origslug: rheinautobbrueckvtr
 slug: rheinautobbrueckvtr
 
 ---

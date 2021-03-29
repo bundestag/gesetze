@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1284
 
 Zuletzt geändert durch
-:   Art. 10 G v. 9.12.2010 I 1885
+:   Art. 11 G v. 14.8.2017 I 3122
 
 
 ## Teil I - Allgemeine Vorschriften zum Haushaltsplan
@@ -632,17 +632,19 @@ stellt den Entwurf des Haushaltsplans auf. Es kann die Voranschläge
 nach Benehmen mit den beteiligten Stellen ändern.
 
 (2) Über Angelegenheiten von grundsätzlicher oder erheblicher
-finanzieller Bedeutung kann der zuständige Bundesminister die
-Entscheidung der Bundesregierung einholen. Entscheidet die
-Bundesregierung gegen oder ohne die Stimme des Bundesministers der
-Finanzen, so steht ihm ein Widerspruchsrecht zu. Das Nähere regelt die
+finanzieller Bedeutung kann die zuständige Bundesministerin oder der
+zuständige Bundesminister die Entscheidung der Bundesregierung
+einholen. Entscheidet die Bundesregierung gegen oder ohne die Stimme
+der Bundesministerin oder des Bundesministers der Finanzen, so steht
+ihr oder ihm ein Widerspruchsrecht zu. Das Nähere regelt die
 Geschäftsordnung der Bundesregierung.
 
-(3) Abweichungen von den Voranschlägen des Bundespräsidenten und der
-Präsidenten des Bundestages, des Bundesrates, des
-Bundesverfassungsgerichts und des Bundesrechnungshofes sind vom
-Bundesministerium der Finanzen der Bundesregierung mitzuteilen, soweit
-den Änderungen nicht zugestimmt worden ist.
+(3) Abweichungen von den Voranschlägen der Bundespräsidentin oder des
+Bundespräsidenten, des Deutschen Bundestages, des Bundesrates, des
+Bundesverfassungsgerichts, des Bundesrechnungshofes oder der oder des
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+sind vom Bundesministerium der Finanzen der Bundesregierung
+mitzuteilen, soweit den Änderungen nicht zugestimmt worden ist.
 
 
 ### § 29 Beschluß über den Entwurf des Haushaltsplans
@@ -660,12 +662,14 @@ Entwurfs des Haushaltsgesetzes. Auf die Beschlußfassung der
 Bundesregierung ist § 28 Abs. 2 Satz 2 entsprechend anzuwenden. Das
 Nähere regelt die Geschäftsordnung der Bundesregierung.
 
-(3) Weicht der Entwurf des Haushaltsplans von den Voranschlägen des
-Bundespräsidenten und der Präsidenten des Bundestages, des
-Bundesrates, des Bundesverfassungsgerichts und des
-Bundesrechnungshofes ab und ist der Änderung nicht zugestimmt worden,
-so sind die Teile, über die kein Einvernehmen erzielt worden ist,
-unverändert dem Entwurf des Haushaltsplans beizufügen.
+(3) Weicht der Entwurf des Haushaltsplans von den Voranschlägen der
+Bundespräsidentin oder des Bundespräsidenten, des Deutschen
+Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des
+Bundesrechnungshofes oder der oder des Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit ab und ist der Änderung nicht
+zugestimmt worden, so sind die Teile, über die kein Einvernehmen
+erzielt worden ist, unverändert dem Entwurf des Haushaltsplans
+beizufügen.
 
 
 ### § 30 Vorlagefrist
@@ -908,11 +912,14 @@ dem Gebiet der Zuwendungen im eigenen Namen und in den Handlungsformen
 des öffentlichen Rechts wahrzunehmen, wenn sie die Gewähr für eine
 sachgerechte Erfüllung der ihnen übertragenen Aufgaben bieten und die
 Beleihung im öffentlichen Interesse liegt. Die Verleihung und die
-Entziehung der Befugnis obliegen dem zuständigen Bundesministerium;
-die Verleihung bedarf der Einwilligung des Bundesministeriums der
-Finanzen. Die Beliehene unterliegt der Aufsicht des zuständigen
+Entziehung der Befugnis obliegen dem zuständigen Bundesministerium; im
+Falle der Verleihung ist das Bundesministerium der Finanzen zu
+unterrichten. Die Beliehene unterliegt der Aufsicht des zuständigen
 Bundesministeriums; dieses kann die Aufsicht auf nachgeordnete
-Behörden übertragen.
+Behörden übertragen. Im Falle der Staatshaftung wegen Ansprüchen
+Dritter kann der Bund gegenüber einer beliehenen juristischen Person
+des Privatrechts bei Vorliegen von Vorsatz oder grober Fahrlässigkeit
+Rückgriff nehmen.
 
 
 ### § 44a
@@ -980,12 +987,60 @@ umgewandelt, die in dem Umwandlungsvermerk angegeben ist.
 Arbeiter entsprechend.
 
 
-### § 48 Einstellung und Versetzung von Beamten
+### § 48 Höchstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverhältnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst
 
-Einstellung und Versetzung von Beamten in den Bundesdienst bedürfen
-der Einwilligung des Bundesministeriums der Finanzen, wenn der
-Bewerber ein vom Bundesministerium der Finanzen allgemein
-festzusetzendes Lebensalter überschritten hat.
+(1) Berufungen in ein Beamtenverhältnis oder Versetzungen in den
+Bundesdienst dürfen nur erfolgen, wenn
+
+1.  die Bewerberin oder der Bewerber das 50. Lebensjahr noch nicht
+    vollendet hat oder
+
+
+2.  ein außerordentlicher Mangel an gleich geeigneten jüngeren
+    Bewerberinnen und Bewerbern besteht und die Berufung oder Versetzung
+    einen erheblichen Vorteil für den Bund bedeutet.
+
+
+
+An die Stelle des 50. Lebensjahres tritt
+
+1.  das 55. Lebensjahr, wenn die zukünftigen Versorgungslasten nach dem
+    Versorgungslastenteilungs-Staatsvertrag, nach § 107b des
+    Beamtenversorgungsgesetzes, nach § 92b des Soldatenversorgungsgesetzes
+    oder dem Militärseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II
+    S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder
+
+
+2.  das 62. Lebensjahr, wenn bereits Ansprüche auf Versorgung nach
+    beamten- oder soldatenrechtlichen Vorschriften oder Grundsätzen zu
+    Lasten des Bundes erworben wurden und das vorgesehene Amt höchstens
+    der Besoldungsgruppe zugeordnet ist, aus der zuletzt Dienstbezüge
+    gezahlt wurden.
+
+
+
+
+(2) Für die Berufung oder Versetzung in den Polizeivollzugsdienst des
+Bundes gilt Absatz 1 Satz 1 mit der Maßgabe, dass bei einer Verwendung
+im Bundesministerium des Innern, im Bundeskriminalamt oder im
+Polizeivollzugsdienst beim Deutschen Bundestag an die Stelle des 50.
+Lebensjahres das 45. Lebensjahr und bei einer Verwendung in anderen
+Bereichen an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt.
+Außerdem gilt in diesen Fällen Absatz 1 Satz 2 Nummer 2 mit der
+Maßgabe, dass an die Stelle des 62. Lebensjahres das 52. Lebensjahr
+tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.
+
+(3) Für die Berufung in ein Soldatenverhältnis oder die Umwandlung des
+Dienstverhältnisses eines Soldaten auf Zeit in das Dienstverhältnis
+eines Berufssoldaten gilt Absatz 1 Satz 1 mit der Maßgabe, dass an die
+Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Außerdem gilt in
+diesen Fällen Absatz 1 Satz 2 Nummer 2 mit der Maßgabe, dass an die
+Stelle des 62. Lebensjahres eine Diensterwartung von mehr als drei
+Jahren tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.
+
+(4) Die Entscheidung über Berufungen in ein Beamtenverhältnis oder
+über Versetzungen in den Bundesdienst trifft die jeweils zuständige
+oberste Bundesbehörde für ihren Geschäftsbereich.
 
 
 ### § 49 Einweisung in eine Planstelle
@@ -1074,9 +1129,15 @@ entsprechend.
 
 ### § 55 Öffentliche Ausschreibung
 
-(1) Dem Abschluß von Verträgen über Lieferungen und Leistungen muß
-eine öffentliche Ausschreibung vorausgehen, sofern nicht die Natur des
-Geschäfts oder besondere Umstände eine Ausnahme rechtfertigen.
+(1) Dem Abschluss von Verträgen über Lieferungen und Leistungen muss
+eine Öffentliche Ausschreibung oder eine Beschränkte Ausschreibung mit
+Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Geschäfts
+oder besondere Umstände eine Ausnahme rechtfertigen.
+Teilnahmewettbewerb ist ein Verfahren, bei dem der öffentliche
+Auftraggeber nach vorheriger öffentlicher Aufforderung zur Teilnahme
+eine beschränkte Anzahl von geeigneten Unternehmen nach objektiven,
+transparenten und nichtdiskriminierenden Kriterien auswählt und zur
+Abgabe von Angeboten auffordert.
 
 (2) Beim Abschluß von Verträgen ist nach einheitlichen Richtlinien zu
 verfahren.
@@ -1569,8 +1630,7 @@ Landesfinanzbehörden verwaltet werden.
 Bundesministerium der Finanzen kann bestimmen, dass die Zentralkasse
 bei einer Bundesbehörde seines Geschäftsbereichs eingerichtet wird.
 
-(3) Die Bundeskassen sind bei den Bundesfinanzdirektionen zu
-errichten.
+(3) Die Bundeskassen sind bei der Generalzolldirektion zu errichten.
 
 (4) Das Bundesministerium der Finanzen regelt das Nähere
 
@@ -1918,7 +1978,7 @@ prüfen, wenn sie
 2.  Bundesmittel oder Vermögensgegenstände des Bundes verwalten,
 
 
-3.  vom Bund Zuwendungen erhalten oder
+3.  vom Bund Zuwendungen erhalten,
 
 
 4.  als juristische Personen des privaten Rechts, an denen der Bund
@@ -1926,7 +1986,11 @@ prüfen, wenn sie
     Mehrheit beteiligt ist, nicht im Wettbewerb stehen, bestimmungsgemäß
     ganz oder überwiegend öffentliche Aufgaben erfüllen oder diesem Zweck
     dienen und hierfür Haushaltsmittel oder Gewährleistungen des Bundes
-    oder eines seiner Sondervermögen erhalten.
+    oder eines seiner Sondervermögen erhalten oder
+
+
+5.  Finanzierungsmittel bewirtschaften, die der Bund den Ländern
+    zweckgebunden zur Erfüllung von Länderaufgaben zugewiesen hat.
 
 
 
@@ -1975,6 +2039,10 @@ Vereinbarung Prüfungsaufgaben auf die Landesrechnungshöfe übertragen.
 Der Bundesrechnungshof kann durch Vereinbarung auch Prüfungsaufgaben
 von den Landesrechnungshöfen übernehmen.
 
+(1a) In den in § 91 Absatz 1 Satz 1 Nummer 5 genannten Fällen hat der
+Bundesrechnungshof seine Prüfungen im Benehmen mit den jeweils
+zuständigen Landesrechnungshöfen durchzuführen.
+
 (2) Der Bundesrechnungshof kann durch Vereinbarung mit ausländischen
 oder über- oder zwischenstaatlichen Prüfungsbehörden die Durchführung
 einzelner Prüfungen übertragen oder übernehmen, sowie Prüfungsaufgaben
@@ -2003,6 +2071,13 @@ bestimmten Frist zu übersenden oder seinen Beauftragten vorzulegen.
 Auskünfte zu erteilen.
 
 
+### § 95a Prüfungsanordnung und Entfall der aufschiebenden Wirkung
+
+Erlässt der Bundesrechnungshof zur Durchsetzung seiner Rechte nach §
+94 Absatz 1 und § 95 Anordnungen, so hat die Anfechtungsklage
+hiergegen keine aufschiebende Wirkung.
+
+
 ### § 96 Prüfungsergebnis
 
 (1) Der Bundesrechnungshof teilt das Prüfungsergebnis den zuständigen
@@ -2018,6 +2093,14 @@ Bundesministerium der Finanzen mit.
 (3) Der Bundesrechnungshof ist zu hören, wenn die Verwaltung Ansprüche
 des Bundes, die in Prüfungsmitteilungen erörtert worden sind, nicht
 verfolgen will. Er kann auf die Anhörung verzichten.
+
+(4) Der Bundesrechnungshof kann Dritten durch Auskunft, Akteneinsicht
+oder in sonstiger Weise Zugang zu dem Prüfungsergebnis gewähren, wenn
+dieses abschließend festgestellt wurde. Gleiches gilt für Berichte,
+wenn diese abschließend vom Parlament beraten wurden. Zum Schutz des
+Prüfungs- und Beratungsverfahrens wird Zugang zu den zur Prüfungs- und
+Beratungstätigkeit geführten Akten nicht gewährt. Satz 3 gilt auch für
+die entsprechenden Akten bei den geprüften Stellen.
 
 
 ### § 97 Bemerkungen
@@ -2056,6 +2139,9 @@ frühere Haushaltsjahre aufgenommen werden.
 Präsidenten des Bundestages und des Bundesrates sowie dem
 Bundeskanzler und dem Bundesministerium der Finanzen mitgeteilt.
 
+(5) Der Bundesrechnungshof veröffentlicht seine Bemerkungen außer in
+den Fällen des Absatzes 4 unverzüglich nach Zuleitung im Internet.
+
 
 ### § 98 Aufforderung zum Schadenausgleich
 
@@ -2070,6 +2156,9 @@ geltend zu machen ist.
 Bundesrechnungshof den Bundestag, den Bundesrat und die
 Bundesregierung jederzeit unterrichten. Berichtet er dem Bundestag und
 dem Bundesrat, so unterrichtet er gleichzeitig die Bundesregierung.
+Der Bundesrechnungshof veröffentlicht seine Berichte zu
+Angelegenheiten von besonderer Bedeutung unverzüglich nach Zuleitung
+im Internet.
 
 
 ### § 100 Prüfungsämter

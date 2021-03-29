@@ -13,12 +13,13 @@ Ausfertigungsdatum
 :   2006-07-15
 
 Fundstelle
-:   BGBl I: 2006, 1534; 2008, 660, 1007
+:   BGBl I: 2006, 1534 (2008 I 660, 1007)
 
-Zuletzt geändert durch
-:   Art. 1 G v. 5.12.2012 I 2436, 2725
+Stand: Zuletzt geändert Art. 2 G v. 27.8.2017 I 3299; 2018 I 126, 1094
+Änderung durch
+:   Art. 1 V v. 26.6.2018 I 888 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
-Stand: § 66 ist am 20.7.2006 in Kraft getreten
+Stand: § 66 ist gem. Art. 3 Abs. 2 G v. 15.7.2006 I 1534 am 20.7.2006 in Kraft getreten
 Stand: § 3a ist gem. Art. 3 Abs. 4 Satz 1 G v. 15.7.2006 I 1534 iVm Bek. v. 7.4.2008 I 660 am 1.4.2008 in Kraft getreten
 § 58 ist gem. art. 3 abs. 3 satz 1 g v. 15.7.2006 i 1534 ivm bek. v. 8.5.2008 i 838, diese ersetzt durch
 :   Bek. v. 12.6.2008 I 1007, nach Maßgabe der Bek. v. 12.6.2008 I 1007 am 1.8.2006 in Kraft getreten
@@ -57,8 +58,22 @@ der Abgabenordnung.
 5.  Waren der Positionen 3403, 3811 und 3817 der Kombinierten Nomenklatur,
 
 
-6.  Waren der Unterposition 3824 90 99 der Kombinierten Nomenklatur, die
-    dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
+6.  Waren der Unterpositionen
+
+    a)  3824 99 86, 3824 99 93,
+
+
+    b)  3824 99 92 und 3824 99 96 (jeweils ausgenommen zubereitete
+        Rostschutzmittel, Amine als wirksame Bestandteile enthaltend, sowie
+        zusammengesetzte anorganische Löse- und Verdünnungsmittel für Lacke
+        und ähnliche Erzeugnisse),
+
+
+    c)  3826 00 10 und 3826 00 90 der Kombinierten Nomenklatur,
+
+
+
+    die dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
 
 
 
@@ -80,11 +95,8 @@ Kombinierten Nomenklatur auch:
 
 
 Satz 1 gilt nicht für Waren, die sich in einem
-Steueraussetzungsverfahren nach den Vorschriften des Gesetzes über das
-Branntweinmonopol in der im Bundesgesetzblatt Teil III,
-Gliederungsnummer 612-7, veröffentlichten bereinigten Fassung, zuletzt
-geändert durch Artikel 5 des Gesetzes vom 21. Juli 2004 (BGBl. I S.
-1753), in der jeweils geltenden Fassung befinden.
+Steueraussetzungsverfahren nach den Vorschriften des
+Alkoholsteuergesetzes befinden.
 
 (4) bis (11) (weggefallen)
 
@@ -102,10 +114,10 @@ Im Sinn dieses Gesetzes ist oder sind:
 2.  Kombinierte Nomenklatur: die Warennomenklatur nach Artikel 1 der
     Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
     zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
-    Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38,
-    L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42), die zuletzt
-    durch die Verordnung (EG) Nr. 1031/2008 (ABl. L 291 vom 31.10.2008, S.
-    1) geändert worden ist, in der am 1. Januar 2002 geltenden Fassung;
+    Zolltarif (ABl. L 256 vom 7.9.1987, S. 1; L 341 vom 3.12.1987, S. 38;
+    L 378 vom 31.12.1987, S. 120; L 130 vom 26.5.1988, S. 42) in der durch
+    die Durchführungsverordnung (EU) 2017/1925 (ABl. L 282 vom 31.10.2017,
+    S. 1) geänderten, am 1. Januar 2018 geltenden Fassung;
 
 
 3.  Zollkodex: die Verordnung (EWG) Nr. 2913/92 des Rates vom 12. Oktober
@@ -169,46 +181,47 @@ Im Sinn dieses Gesetzes ist oder sind:
     Nomenklatur;
 
 
-13a. Biokraft- und Bioheizstoffe: Unbeschadet der Sätze 2 bis 5 sind
-    Biokraft- und Bioheizstoffe Energieerzeugnisse ausschließlich aus
-    Biomasse im Sinne der Biomasseverordnung vom 21. Juni 2001 (BGBl. I S.
-    1234), die durch die Verordnung vom 9. August 2005 (BGBl. I S. 2419)
-    geändert worden ist, in der jeweils geltenden Fassung.
-    Energieerzeugnisse, die anteilig aus Biomasse hergestellt werden,
-    gelten in Höhe dieses Anteils als Biokraft- oder Bioheizstoffe.
-    Fettsäuremethylester gelten in vollem Umfang als Biokraft- oder
-    Bioheizstoffe, wenn sie durch Veresterung von pflanzlichen oder
-    tierischen Ölen oder Fetten gewonnen werden, die selbst Biomasse im
-    Sinne der Biomasseverordnung sind, und wenn ihre Eigenschaften
-    mindestens den Anforderungen für Biodiesel nach der Verordnung über
-    die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
-    Brennstoffen in der jeweils geltenden Fassung entsprechen. Bioethanol
-    gilt nur dann als Biokraftstoff, wenn es sich um Ethylalkohol ex
-    Unterposition 2207 10 00 der Kombinierten Nomenklatur handelt und
-    seine Eigenschaften im Fall von Bioethanol, das dem Ottokraftstoff
-    beigemischt wird, mindestens den Anforderungen der DIN EN 15376,
-    Ausgabe März 2008 oder Ausgabe November 2009, entsprechen und im Fall
-    von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, die
-    Eigenschaften des Ethanolkraftstoffs (E85) mindestens den
-    Anforderungen für Ethanolkraftstoff (E85) nach der Verordnung über die
-    Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
-    Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus
-    Bioethanol bestehen, gilt für den Bioethanolanteil Satz 4 sinngemäß.
-    Pflanzenöl gilt nur dann als Biokraftstoff, wenn seine Eigenschaften
-    mindestens den Anforderungen für Pflanzenölkraftstoff nach der
+13a. Biokraft- und Bioheizstoffe: Energieerzeugnisse ausschließlich aus
+    Biomasse im Sinn der Biomasseverordnung. Energieerzeugnisse, die
+    anteilig aus Biomasse hergestellt werden, gelten in Höhe dieses
+    Anteils als Biokraft- oder Bioheizstoff. Fettsäuremethylester
+    (Biodiesel) sind abweichend von den Sätzen 1 und 2 nur dann
+    Biokraftstoff, wenn sie aus biogenen Ölen oder Fetten gewonnen werden,
+    die selbst Biomasse im Sinn der Biomasseverordnung sind und wenn ihre
+    Eigenschaften mindestens den Anforderungen an Biodiesel nach § 5 der
     Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten
-    von Kraft- und Brennstoffen entsprechen. Den Energieerzeugnissen nach
-    den Sätzen 1 bis 6 sind solche Energieerzeugnisse gleichgestellt, die
-    einer anderen Norm oder technischen Spezifikation entsprechen, die in
-    einem anderen Mitgliedstaat der Europäischen Union oder in einem
-    anderen Vertragsstaat des Abkommens über den Europäischen
-    Wirtschaftsraum (EWR-Abkommen) vom 3. Januar 1994 (ABl. L 1 vom
-    3\.1.1994, S. 3), das zuletzt durch den Beschluss Nr. 54/2009 (ABl. L
-    162 vom 25.6.2009, S. 36) geändert worden ist, in der jeweils
-    geltenden Fassung in Kraft ist, soweit diese Norm oder technische
-    Spezifikation mit den in den Sätzen 1 bis 6 genannten Normen
-    übereinstimmt und ein gleichwertiges Niveau der Beschaffenheit für die
-    gleichen klimatischen Anforderungen sicherstellt;
+    von Kraft- und Brennstoffen vom 8. Dezember 2010 (BGBl. I S. 1849),
+    die durch Artikel 1 der Verordnung vom 1. Dezember 2014 (BGBl. I S.
+    1890) geändert worden ist, in der jeweils geltenden Fassung
+    entsprechen. Biodiesel ist unter diesen Voraussetzungen in vollem
+    Umfang als Biokraftstoff zu behandeln. Bioethanol ist abweichend von
+    den Sätzen 1 und 2 nur dann Biokraftstoff, wenn es sich um
+    Ethylalkohol ex Unterposition 2207 10 00 der Kombinierten Nomenklatur
+    handelt. Im Fall von Bioethanol, das fossilem Ottokraftstoff
+    beigemischt wird, müssen die Eigenschaften des Bioethanols außerdem
+    mindestens den Anforderungen der DIN EN 15376, Ausgabe März 2008,
+    Ausgabe November 2009 oder Ausgabe April 2011, entsprechen. Im Fall
+    von Bioethanol, das im Ethanolkraftstoff (E85) enthalten ist, müssen
+    die Eigenschaften des Ethanolkraftstoffs (E85) außerdem mindestens den
+    Anforderungen an Ethanolkraftstoff (E85) nach § 6 der Verordnung über
+    die Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
+    Brennstoffen entsprechen. Für Energieerzeugnisse, die anteilig aus
+    Bioethanol hergestellt werden, gelten für den Bioethanol-Anteil die
+    Sätze 5 und 6 entsprechend. Pflanzenöl ist abweichend von den Sätzen 1
+    und 2 nur dann Biokraftstoff, wenn seine Eigenschaften mindestens den
+    Anforderungen an Pflanzenölkraftstoff nach § 9 der Verordnung über die
+    Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
+    Brennstoffen entsprechen. Hydrierte biogene Öle sind abweichend von
+    den Sätzen 1 und 2 nur dann Biokraftstoff, wenn sie aus biogenen Ölen
+    oder Fetten gewonnen werden, die selbst Biomasse im Sinn der
+    Biomasseverordnung sind, und wenn die Hydrierung nicht in einem
+    raffinerietechnischen Verfahren gemeinsam mit mineralölstämmigen Ölen
+    erfolgt ist. Biomethan ist abweichend von Satz 1 nur dann
+    Biokraftstoff, wenn es den Anforderungen an Erdgas nach § 8 der
+    Verordnung über die Beschaffenheit und die Auszeichnung der Qualitäten
+    von Kraft- und Brennstoffen entspricht. Für Biokraftstoffe gilt § 11
+    der Verordnung über die Beschaffenheit und die Auszeichnung der
+    Qualitäten von Kraft- und Brennstoffen entsprechend.
 
 
 14. Erdgas: Waren der Unterpositionen 2711 11 (verflüssigtes Erdgas) und
@@ -231,14 +244,14 @@ Im Sinn dieses Gesetzes ist oder sind:
 
 18. Megawattstunde (MWh): die Messeinheit der Energie der Gase, ermittelt
     aus dem Normvolumen (V
-    n                   ) und dem Brennwert (H
-    s,n                   );
+    n) und dem Brennwert (H
+    s,n);
 
 
 19. Gigajoule (GJ): die Messeinheit der Energie der Energieerzeugnisse
     nach § 2 Absatz 1 Nummer 9 und 10 und Absatz 4a, ermittelt aus dem
     Wägewert und dem Heizwert (H
-    i                   );
+    i);
 
 
 20. Kilogramm (kg): der Wägewert (Gewicht in Luft); das Gewicht der
@@ -258,8 +271,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 *    *   1.
 
-    *   für 1 000 l Benzin der Unterpositionen 2710 11 41 bis 2710 11 49 der
-        Kombinierten Nomenklatur
+    *   für 1 000 l Benzin der Unterpositionen 2710 12 41, 2710 12 45 und 2710
+        12 49 der Kombinierten Nomenklatur
 
     *
 
@@ -285,8 +298,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 *    *   2.
 
-    *   für 1 000 l Benzin der Unterpositionen 2710 11 31, 2710 11 51 und 2710
-        11 59 der Kombinierten Nomenklatur
+    *   für 1 000 l Benzin der Unterpositionen 2710 12 31, 2710 12 51 und 2710
+        12 59 der Kombinierten Nomenklatur
 
     *   721,00 EUR,
 
@@ -301,8 +314,9 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 *    *   4.
 
-    *   für 1 000 l Gasöle der Unterpositionen 2710 19 41 bis 2710 19 49 der
-        Kombinierten Nomenklatur
+    *   für 1 000 l Gasöle der Unterpositionen 2710 19 43 bis 2710 19 48 und
+        der Unterpositionen 2710 20 11 bis 2710 20 19 der Kombinierten
+        Nomenklatur
 
     *
 
@@ -328,8 +342,9 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 *    *   5.
 
-    *   für 1 000 kg Heizöle der Unterpositionen 2710 19 61 bis 2710 19 69 der
-        Kombinierten Nomenklatur
+    *   für 1 000 kg Heizöle der Unterpositionen 2710 19 62 bis 2710 19 68 und
+        der Unterpositionen 2710 20 31 bis 2710 20 39 der Kombinierten
+        Nomenklatur
 
     *   130,00 EUR,
 
@@ -337,7 +352,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 *    *   6.
 
     *   für 1 000 l Schmieröle und andere Öle der Unterpositionen 2710 19 81
-        bis 2710 19 99 der Kombinierten Nomenklatur
+        bis 2710 19 99 und 2710 20 90 der Kombinierten Nomenklatur
 
     *   485,70 EUR,
 
@@ -393,20 +408,103 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 (2) Abweichend von Absatz 1 beträgt die Steuer
 
-*    *   1.
+1.  für 1 Megawattstunde Erdgas und 1 Megawattstunde gasförmige
+    Kohlenwasserstoffe
 
-    *   für 1 MWh Erdgas und 1 MWh gasförmige Kohlenwasserstoffe bis zum 31.
-        Dezember 2018
+    a)
+        *            *   bis zum 31. Dezember 2023
 
-    *   13,90 EUR,
+            *   13,90 EUR,
 
 
-*    *   2.
 
-    *   für 1 000 kg Flüssiggase unvermischt mit anderen Energieerzeugnissen
-        bis zum 31. Dezember 2018
 
-    *   180,32 EUR.
+
+    b)
+        *            *   vom 1. Januar 2024 bis
+                zum 31. Dezember 2024
+
+            *   18,38 EUR,
+
+
+
+
+
+    c)
+        *            *   vom 1. Januar 2025 bis
+                zum 31. Dezember 2025
+
+            *   22,85 EUR,
+
+
+
+
+
+    d)
+        *            *   vom 1. Januar 2026 bis
+                zum 31. Dezember 2026
+
+            *   27,33 EUR;
+
+
+
+
+
+
+
+
+2.  für 1 000 kg Flüssiggase unvermischt mit anderen Energieerzeugnissen
+
+    a)
+        *            *   bis zum 31. Dezember 2018
+
+            *   180,32 EUR,
+
+
+
+
+
+    b)
+        *            *   vom 1. Januar 2019 bis
+                zum 31. Dezember 2019
+
+            *   226,06 EUR,
+
+
+
+
+
+    c)
+        *            *   vom 1. Januar 2020 bis
+                zum 31. Dezember 2020
+
+            *   271,79 EUR,
+
+
+
+
+
+    d)
+        *            *   vom 1. Januar 2021 bis
+                zum 31. Dezember 2021
+
+            *   317,53 EUR,
+
+
+
+
+
+    e)
+        *            *   vom 1. Januar 2022 bis
+                zum 31. Dezember 2022
+
+            *   363,94 EUR.
+
+
+
+
+
+
 
 
 
@@ -416,7 +514,8 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 *    *   1.
 
     *   für 1 000 l ordnungsgemäß gekennzeichnete Gasöle der Unterpositionen
-        2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur
+        2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710
+        20 19 der Kombinierten Nomenklatur
 
     *
 
@@ -442,8 +541,9 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 
 *    *   2.
 
-    *   für 1 000 kg Heizöle der Unterpositionen 2710 19 61 bis 2710 19 69 der
-        Kombinierten Nomenklatur
+    *   für 1 000 kg Heizöle der Unterpositionen 2710 19 62 bis 2710 19 68 und
+        der Unterpositionen 2710 20 31 bis 2710 20 39 der Kombinierten
+        Nomenklatur
 
     *   25,00 EUR,
 
@@ -451,7 +551,7 @@ Markenamt in München archivmäßig gesichert niedergelegt.
 *    *   3.
 
     *   für 1 000 l Schmieröle und andere Öle der Unterpositionen 2710 19 81
-        bis 2710 19 99 der Kombinierten Nomenklatur
+        bis 2710 19 99 und 2710 20 90 der Kombinierten Nomenklatur
 
     *   61,35 EUR,
 
@@ -484,19 +584,29 @@ oder verwendet werden.
 
 (4) Andere als die in den Absätzen 1 bis 3 genannten
 Energieerzeugnisse unterliegen der gleichen Steuer wie die
-Energieerzeugnisse, denen sie nach ihrer Beschaffenheit und ihrem
-Verwendungszweck am nächsten stehen. Werden Ölabfälle der
-Unterpositionen 2710 91 und 2710 99 der Kombinierten Nomenklatur oder
-andere vergleichbare Abfälle zu den in Absatz 3 genannten Zwecken
-verwendet oder abgegeben, sind abweichend von Satz 1 für den Vergleich
-mit der Beschaffenheit ausschließlich die in Absatz 1 Nummer 9 und 10
-und Absatz 3 Satz 1 genannten Energieerzeugnisse heranzuziehen. Der
-Steuersatz nach Absatz 3 Satz 1 Nummer 1 kommt nur bei einer
-ordnungsgemäßen Kennzeichnung der Energieerzeugnisse zur Anwendung.
-Satz 3 gilt nicht für Biokraft- und Bioheizstoffe sowie Abfälle im
-Sinn des Satzes 2.
+Energieerzeugnisse, denen sie nach ihrem Verwendungszweck und ihrer
+Beschaffenheit am nächsten stehen. Zunächst ist der Verwendungszweck
+als Kraftstoff oder als Heizstoff zu bestimmen. Kann das
+Energieerzeugnis für diese Verwendung als Kraftstoff oder als
+Heizstoff durch eines der in den Absätzen 1 bis 3 genannten
+Energieerzeugnisse ersetzt werden, unterliegt es der gleichen Steuer
+wie das genannte Energieerzeugnis bei gleicher Verwendung. Kann das
+Energieerzeugnis für die festgestellte Verwendung nicht durch eines
+der in den Absätzen 1 bis 3 genannten Energieerzeugnisse ersetzt
+werden, unterliegt es der gleichen Steuer, wie dasjenige der genannten
+Energieerzeugnisse, dem es nach seinem Verwendungszweck und seiner
+Beschaffenheit am nächsten steht. Werden Ölabfälle der Unterpositionen
+2710 91 und 2710 99 der Kombinierten Nomenklatur oder andere
+vergleichbare Abfälle zu den in Absatz 3 genannten Zwecken verwendet
+oder abgegeben, sind abweichend von den Sätzen 1 bis 4 für den
+Vergleich mit der Beschaffenheit ausschließlich die in Absatz 1 Nummer
+9 und 10 und Absatz 3 Satz 1 genannten Energieerzeugnisse
+heranzuziehen. Der Steuersatz nach Absatz 3 Satz 1 Nummer 1 kommt nur
+bei einer ordnungsgemäßen Kennzeichnung der Energieerzeugnisse zur
+Anwendung. Satz 6 gilt nicht für Biokraft- und Bioheizstoffe sowie
+Abfälle im Sinn des Satzes 5.
 
-(4a) Abweichend von Absatz 4 Satz 1 und 2 beträgt die Steuer für 1
+(4a) Abweichend von Absatz 4 Satz 1 bis 4 beträgt die Steuer für 1
 Gigajoule feste Energieerzeugnisse 0,33 Euro, soweit diese auf Grund
 ihrer Beschaffenheit keinem der in Absatz 1 genannten
 Energieerzeugnisse sinnvoll zugeordnet werden können.
@@ -544,12 +654,13 @@ bestimmter Punkt.
 (3) Jahresnutzungsgrad im Sinn dieses Gesetzes ist der Quotient aus
 der Summe der genutzten erzeugten mechanischen und thermischen Energie
 in einem Kalenderjahr und der Summe der zugeführten Energie aus
-Energieerzeugnissen in derselben Berichtszeitspanne. Für die
-Berechnung des Monatsnutzungsgrads gilt Satz 1 sinngemäß. Zur
-Berechnung der Nutzungsgrade ist die als Brennstoffwärme verwendete
-Energie aus Energieerzeugnissen heranzuziehen, die vor der Erzeugung
-mechanischer Energie zugeführt wird. Dabei ist auf den Heizwert (H
-i             ) abzustellen.
+Energieerzeugnissen und der Hilfsenergie in derselben
+Berichtszeitspanne. Für die Berechnung des Monatsnutzungsgrads gilt
+Satz 1 sinngemäß. Zur Berechnung der Nutzungsgrade ist die als
+Brennstoffwärme verwendete Energie aus Energieerzeugnissen
+heranzuziehen, die vor der Erzeugung mechanischer Energie zugeführt
+wird. Dabei ist auf den Heizwert (H
+i) abzustellen.
 
 (4) Der Berechnung des Nutzungsgrads von Anlagen zur gekoppelten
 Erzeugung von Kraft und Wärme wird der Kraft-Wärme-Kopplungsprozess
@@ -590,19 +701,22 @@ Rauchgasentstickungsanlagen sowie Kombinationen davon.
 
 (5) Wer Anlagen nach Absatz 1 Satz 1 Nummer 2 betreiben will, hat sie
 vor der erstmaligen Inbetriebnahme dem zuständigen Hauptzollamt
-anzumelden.
+anzumelden. Verwender von Energieerzeugnissen nach § 2 Absatz 3 Satz 1
+ist diejenige Person, die die Energieerzeugnisse in der begünstigten
+Anlage einsetzt.
 
 (6) Die gemäß § 2 Absatz 3 Satz 1 festgelegten Steuersätze für die
 Verwendung von Energieerzeugnissen als Kraftstoff in begünstigten
 Anlagen werden angewendet nach Maßgabe und bis zum Auslaufen der
-hierfür erforderlichen Freistellungsanzeige bei der Europäischen
-Kommission nach der Verordnung (EG) Nr. 800/2008 der Kommission vom 6.
-August 2008 zur Erklärung der Vereinbarkeit bestimmter Gruppen von
-Beihilfen mit dem Gemeinsamen Markt in Anwendung der Artikel 87 und 88
-EG-Vertrag (allgemeine Gruppenfreistellungsverordnung; ABl. L 214 vom
-9\.8.2008, S. 3) in der jeweils geltenden Fassung. Das Auslaufen der
-Freistellungsanzeige wird vom Bundesministerium der Finanzen im
-Bundesgesetzblatt gesondert bekannt gegeben.
+erforderlichen Freistellungsanzeige bei der Europäischen Kommission
+nach der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014
+zur Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen
+mit dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags
+über die Arbeitsweise der Europäischen Union (Allgemeine
+Gruppenfreistellungsverordnung; ABl. L 187 vom 26.6.2014, S. 1; L 283
+vom 27.9.2014, S. 65) in der jeweils geltenden Fassung. Das Auslaufen
+der Freistellungsanzeige ist vom Bundesministerium der Finanzen im
+Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 3a Sonstige begünstigte Anlagen
@@ -614,6 +728,63 @@ die ausschließlich dem Güterumschlag in Seehäfen dienen.
 ausschließlich solche, die bestimmungsgemäß abseits von öffentlichen
 Straßen eingesetzt werden oder über keine Genehmigung für die
 überwiegende Verwendung auf öffentlichen Straßen verfügen.
+
+(3) Die gemäß § 2 Absatz 3 Satz 1 festgelegten Steuersätze für die
+Verwendung von Energieerzeugnissen als Kraftstoff in sonstigen
+begünstigten Anlagen werden angewendet nach Maßgabe und bis zum
+Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der
+Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das
+Auslaufen der Freistellungsanzeige ist vom Bundesministerium der
+Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
+
+
+### § 3b Staatliche Beihilfen
+
+(1) Die Inanspruchnahme oder Beantragung einer Steuerbefreiung,
+Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als
+staatliche Beihilfe anzusehen ist, ist nicht zulässig, solange
+derjenige, der die Energieerzeugnisse verwendet, zu einer Rückzahlung
+von Beihilfen auf Grund eines früheren Beschlusses der Kommission zur
+Feststellung der Unzulässigkeit einer Beihilfe und ihrer
+Unvereinbarkeit mit dem Binnenmarkt verpflichtet worden und dieser
+Rückzahlungsanforderung nicht nachgekommen ist. Im Falle einer
+Steuerbefreiung oder der Inanspruchnahme einer Steuerermäßigung hat
+der Verwender dem zuständigen Hauptzollamt unverzüglich mitzuteilen,
+wenn er einer Forderung zur Rückzahlung gewährter Beihilfen im Sinn
+des Satzes 1 nicht nachkommt. Im Falle eines Antrages auf
+Steuerentlastung ist bei Antragstellung zu versichern, dass keine
+offenen Ansprüche nach Satz 1 bestehen.
+
+(2) Die Inanspruchnahme oder Beantragung einer Steuerbefreiung,
+Steuerermäßigung oder Steuerentlastung, die nach Absatz 3 als
+staatliche Beihilfe anzusehen ist, ist nicht zulässig für Unternehmen
+in Schwierigkeiten
+
+1.  im Sinn des Artikels 1 Absatz 4 Buchstabe c, des Artikels 2 Nummer 18
+    der Allgemeinen Gruppenfreistellungsverordnung in der jeweils
+    geltenden Fassung, soweit diese Anwendung findet, oder
+
+
+2.  im Sinn der Leitlinien für staatliche Beihilfen zur Rettung und
+    Umstrukturierung nichtfinanzieller Unternehmen in Schwierigkeiten
+    (2014/C 249/01) (ABl. C 249 vom 31.7.2014, S. 1 ff.) in der jeweils
+    geltenden Fassung, soweit die Allgemeine
+    Gruppenfreistellungsverordnung keine Anwendung findet.
+
+
+
+Im Falle einer Steuerbefreiung oder Inanspruchnahme einer
+Steuerermäßigung hat das betreffende Unternehmen dem zuständigen
+Hauptzollamt unverzüglich mitzuteilen, wenn es sich im Sinn des Satzes
+1 in wirtschaftlichen Schwierigkeiten befindet. Im Falle eines
+Antrages auf Steuerentlastung ist bei Antragstellung zu versichern,
+dass kein Fall von Satz 1 vorliegt.
+
+(3) Staatliche Beihilfen im Sinn des Artikels 107 des Vertrags über
+die Arbeitsweise der Europäischen Union, die der Kommission anzuzeigen
+oder von ihr zu genehmigen sind, sind in diesem Gesetz die §§ 3, 3a,
+28 Absatz 1 Satz 1 Nummer 1 und 2 sowie die §§ 47a, 53a, 54, 55, 56
+und 57.
 
 
 ## Kapitel 2 - Bestimmungen für Energieerzeugnisse außer Kohle und Erdgas
@@ -637,11 +808,13 @@ Steueraussetzungsverfahren (§ 5):
     Kombinierten Nomenklatur,
 
 
-3.  Waren der Unterpositionen 2710 11 bis 2710 19 69 der Kombinierten
-    Nomenklatur; für die Beförderung unter Steueraussetzung gilt dies für
-    Waren der Unterpositionen 2710 11 21, 2710 11 25 und 2710 19 29 der
-    Kombinierten Nomenklatur nur dann, wenn sie als lose Ware befördert
-    werden,
+3.  Waren der Unterpositionen 2710 12 bis 2710 19 68 und der
+    Unterpositionen 2710 20 bis 2710 20 39 und mittelschwere Öle der
+    Unterposition 2710 20 90 der Kombinierten Nomenklatur; für die
+    Beförderung unter Steueraussetzung gilt dies für Waren der
+    Unterpositionen 2710 12 21, 2710 12 25, 2710 19 29 und mittelschwere
+    Öle der Unterposition 2710 20 90 der Kombinierten Nomenklatur nur
+    dann, wenn sie als lose Ware befördert werden,
 
 
 4.  Waren der Position 2711 der Kombinierten Nomenklatur mit Ausnahme der
@@ -665,8 +838,23 @@ Steueraussetzungsverfahren (§ 5):
     90 00 der Kombinierten Nomenklatur,
 
 
-9.  Waren der Unterposition 3824 90 99 der Kombinierten Nomenklatur, die
-    dazu bestimmt sind, als Kraft- oder Heizstoff verwendet zu werden.
+9.  Waren der Unterpositionen
+
+    a)  3824 99 86, 3824 99 93,
+
+
+    b)  3824 99 92 und 3824 99 96 (jeweils ausgenommen zubereitete
+        Rostschutzmittel, Amine als wirksame Bestandteile enthaltend, sowie
+        zusammengesetzte anorganische Löse- und Verdünnungsmittel für Lacke
+        und ähnliche Erzeugnisse),
+
+
+    c)  3826 00 10 und 3826 00 90
+
+
+
+    der Kombinierten Nomenklatur, die dazu bestimmt sind, als Kraft- oder
+    Heizstoff verwendet zu werden.
 
 
 
@@ -752,7 +940,10 @@ Energieerzeugnissen
 
 
 6.  das Gewinnen und Bearbeiten von Energieerzeugnissen, die zuvor
-    steuerfrei verwendet worden sind, in dem Betrieb des Verwenders.
+    steuerfrei verwendet worden sind, in dem Betrieb des Verwenders,
+
+
+7.  das Auffangen und Verflüssigen von kohlenwasserstoffhaltigen Dämpfen.
 
 
 
@@ -762,11 +953,12 @@ bedarf der Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt
 Personen erteilt, gegen deren steuerliche Zuverlässigkeit keine
 Bedenken bestehen und die − soweit nach dem Handelsgesetzbuch oder der
 Abgabenordnung dazu verpflichtet − ordnungsmäßig kaufmännische Bücher
-führen und rechtzeitig Jahresabschlüsse aufstellen. Vor der Erteilung
-ist Sicherheit für die Steuer zu leisten, die voraussichtlich während
-zweier Monate für aus dem Herstellungsbetrieb in den freien Verkehr
-entnommene Energieerzeugnisse entsteht (§ 8), wenn Anzeichen für eine
-Gefährdung der Steuer erkennbar sind.
+führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für
+eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer
+Sicherheit bis zur Höhe des Steuerwerts der voraussichtlich im
+Jahresdurchschnitt in zwei Monaten aus dem Herstellungsbetrieb in den
+steuerrechtlich freien Verkehr überführten Energieerzeugnisse
+abhängig.
 
 (4) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen
 nach Absatz 3 Satz 2 nicht mehr erfüllt ist oder eine angeforderte
@@ -783,20 +975,18 @@ Großhandel, dem Großhandelsvertrieb durch Hersteller, dem Mischen von
 Energieerzeugnissen, der Versorgung von Verwendern mit steuerfreien
 Energieerzeugnissen oder der Abgabe von Energieerzeugnissen nach § 2
 Abs. 1 Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 dienen.
-Energieerzeugnisse dürfen im Lager miteinander oder mit anderen
-Stoffen gemischt werden, wenn das Gemisch ein Energieerzeugnis im Sinn
-des § 4 ist.
 
 (2) Wer Energieerzeugnisse unter Steueraussetzung lagern will, bedarf
 der Erlaubnis. Sie wird auf Antrag unter Widerrufsvorbehalt Personen
 erteilt, gegen deren steuerliche Zuverlässigkeit keine Bedenken
 bestehen und die − soweit nach dem Handelsgesetzbuch oder der
 Abgabenordnung dazu verpflichtet − ordnungsmäßig kaufmännische Bücher
-führen und rechtzeitig Jahresabschlüsse aufstellen. Vor der Erteilung
-ist Sicherheit für die Steuer zu leisten, die voraussichtlich während
-zweier Monate für aus dem Lager in den freien Verkehr entnommene
-Energieerzeugnisse in Person des Antragstellers entsteht (§ 8), wenn
-Anzeichen für eine Gefährdung der Steuer erkennbar sind.
+führen und rechtzeitig Jahresabschlüsse aufstellen. Sind Anzeichen für
+eine Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer
+Sicherheit bis zur Höhe des Steuerwerts der voraussichtlich im
+Jahresdurchschnitt in zwei Monaten aus dem Lager in den
+steuerrechtlich freien Verkehr überführten Energieerzeugnisse
+abhängig.
 
 (3) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen
 nach Absatz 2 Satz 2 nicht mehr erfüllt ist oder eine angeforderte
@@ -817,16 +1007,45 @@ sollen. Absatz 2 Satz 2 und 3 und Absatz 3 gelten entsprechend.
 
 (5) Abweichend von den Absätzen 1 und 2 kann das Hauptzollamt auf
 Antrag für Flüssiggase, ordnungsgemäß gekennzeichnete Gasöle der
-Unterpositionen 2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur
-und Heizöle der Unterpositionen 2710 19 61 bis 2710 19 69 der
-Kombinierten Nomenklatur, die nach § 2 Abs. 1 Nr. 8 Buchstabe a, Abs.
-2 Nr. 2 oder Abs. 3 versteuert oder zu steuerfreien Zwecken nach den
-§§ 25, 26 oder § 27 Abs. 1 abgegeben werden sollen oder die unter
-Steueraussetzung in ein anderes Steuerlager im Steuergebiet verbracht
-werden sollen, auch dann eine Erlaubnis nach Absatz 2 erteilen, wenn
-das Lager keine Lagerstätten besitzt.
+Unterpositionen 2710 19 43 bis 2710 19 48 und der Unterpositionen 2710
+20 11 bis 2710 20 19 der Kombinierten Nomenklatur und Heizöle der
+Unterpositionen 2710 19 62 bis 2710 19 68 und der Unterpositionen 2710
+20 31 bis 2710 20 39 der Kombinierten Nomenklatur, die nach § 2 Abs. 1
+Nr. 8 Buchstabe a, Abs. 2 Nr. 2 oder Abs. 3 versteuert oder zu
+steuerfreien Zwecken nach den §§ 25, 26 oder § 27 Abs. 1 abgegeben
+werden sollen oder die unter Steueraussetzung in ein anderes
+Steuerlager im Steuergebiet verbracht werden sollen, auch dann eine
+Erlaubnis nach Absatz 2 erteilen, wenn das Lager keine Lagerstätten
+besitzt.
 
-(6) Auf Antrag des Erdölbevorratungsverbandes nach § 2 Abs. 1 des
+(6) Abweichend von den Absätzen 1 und 2 erteilt das Hauptzollamt auf
+Antrag eine Erlaubnis nach Absatz 2 für Flugbenzin der Unterposition
+2710 12 31 der Kombinierten Nomenklatur und Flugturbinenkraftstoff der
+Unterposition 2710 19 21 der Kombinierten Nomenklatur, die
+
+1.  nach § 2 Absatz 1 Nummer 2 oder Nummer 3 versteuert werden sollen,
+
+
+2.  zu steuerfreien Zwecken nach § 27 Absatz 2 und 3 abgegeben werden
+    sollen oder
+
+
+3.  an ein anderes Steuerlager im Steuergebiet abgegeben werden sollen,
+    ohne nach den §§ 10 bis 13 befördert zu werden,
+
+
+
+sofern die dafür eingesetzten Fahrzeuge oder Anhänger nicht über eine
+Zulassung zum Straßenverkehr nach § 3 Absatz 1 der Fahrzeug-
+Zulassungsverordnung verfügen und deshalb nicht auf öffentlichen
+Straßen eingesetzt werden dürfen. Dabei ist es unerheblich, ob die
+Fahrzeuge oder Anhänger über eine Möglichkeit der Lagerung verfügen.
+Fahrzeuge und Anhänger nach den Sätzen 1 und 2, die von einem Inhaber
+einer Erlaubnis nach den Absätzen 1 und 2 betrieben werden, gelten als
+Bestandteile des Lagers des Erlaubnisinhabers und sind in die
+Erlaubnis des Steuerlagers mit aufzunehmen.
+
+(7) Auf Antrag des Erdölbevorratungsverbandes nach § 2 Abs. 1 des
 Erdölbevorratungsgesetzes in der Fassung der Bekanntmachung vom 6.
 April 1998 (BGBl. I S. 679), zuletzt geändert durch Artikel 129 der
 Verordnung vom 25. November 2003 (BGBl. I S. 2304), in der jeweils
@@ -1371,7 +1590,10 @@ Mehrere Steuerschuldner sind Gesamtschuldner.
 (7) Der Steuerschuldner hat für die Energieerzeugnisse, für die die
 Steuer entstanden ist, unverzüglich eine Steuererklärung abzugeben und
 darin die Steuer selbst zu berechnen (Steueranmeldung). Die Steuer ist
-sofort fällig.
+sofort fällig. Das Hauptzollamt kann auf Antrag eines Steuerschuldners
+nach Absatz 6 Nummer 1 bis 3 eine § 8 Absatz 3 bis 6 entsprechende
+Regelung treffen. § 6 Absatz 3 Satz 2 und 3 und § 8 Absatz 7 gelten
+sinngemäß.
 
 (8) Wird in den Fällen der Absätze 3 bis 5 vor Ablauf einer Frist von
 drei Jahren ab dem Tag, an dem die Beförderung begonnen hat,
@@ -1821,9 +2043,16 @@ dadurch, dass sie
 
 
 
-Nachweisliche Vorversteuerungen sind anzurechnen. Die Steuer entsteht
+Eine erstmalige Abgabe als Heizstoff liegt bei Energieerzeugnissen
+nach § 1 Absatz 3 Satz 1 Nummer 2 dann nicht vor, wenn die
+Energieerzeugnisse zur Abfallentsorgung ausgesondert oder geliefert
+werden und nicht ausdrücklich eine Bestimmung als Heizstoff
+vorgenommen wird.
+
+(1a) Bei der Steuerentstehung nach Absatz 1 sind nachweisliche
+Vorversteuerungen anzurechnen. Die Steuer nach Absatz 1 entsteht
 nicht, wenn die Voraussetzungen eines Verfahrens der Steuerbefreiung
-(§ 24 Abs. 1) vorliegen.
+(§ 24 Absatz 1) vorliegen.
 
 (2) Absatz 1 gilt nicht
 
@@ -1898,10 +2127,17 @@ der Steuerbefreiung des Empfängers.
 das Verbringen von Energieerzeugnissen aus dem Steuergebiet erlaubt
 werden, sofern Steuerbelange nicht beeinträchtigt sind.
 
-(5) Die Erlaubnis nach Absatz 2 und 4 wird auf Antrag unter
+(5) Die Erlaubnis nach den Absätzen 2 und 4 wird auf Antrag unter
 Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche
-Zuverlässigkeit keine Bedenken bestehen. Sie ist zu widerrufen, wenn
-die Voraussetzung nach Satz 1 nicht mehr erfüllt ist.
+Zuverlässigkeit keine Bedenken bestehen. Sind Anzeichen für eine
+Gefährdung der Steuer erkennbar, ist die Erlaubnis von einer
+Sicherheit bis zur Höhe des Steuerwerts der voraussichtlich im
+Jahresdurchschnitt während zwei Monaten verwendeten oder verteilten
+Energieerzeugnisse abhängig. Die Erlaubnis ist zu widerrufen, wenn die
+Voraussetzung nach Satz 1 nicht mehr erfüllt ist oder eine
+angeforderte Sicherheit nicht geleistet wird. Die Erlaubnis kann
+widerrufen werden, wenn eine geleistete Sicherheit nicht mehr
+ausreicht.
 
 (6) Der Erlaubnisinhaber hat die Energieerzeugnisse, soweit er sie in
 seinem Betrieb verwenden will, unverzüglich aufzunehmen. Die
@@ -1932,48 +2168,39 @@ nicht unter Steueraussetzung befördert werden können.
 Untersuchungszwecken.
 
 
-#### § 26 Steuerbefreiung, Eigenverbrauch
+#### § 26 Steuerbefreiung für den Eigenverbrauch
 
-(1) Auf dem Betriebsgelände eines Herstellungsbetriebes (§ 6) und
-eines Gasgewinnungsbetriebes (§ 44 Abs. 3) dürfen Energieerzeugnisse
-vom Inhaber des Betriebes steuerfrei zur Aufrechterhaltung des
-Betriebes verwendet werden.
+(1) Der Inhaber eines Betriebs, der andere Energieerzeugnisse als
+Kohle und Erdgas herstellt, darf Energieerzeugnisse innerhalb des
+Betriebsgeländes steuerfrei verwenden, wenn sie
 
-(2) Auf dem Betriebsgelände eines Betriebes, der Energieerzeugnisse
-herstellt und nicht von Absatz 1 erfasst wird, dürfen auf dem
-Betriebsgelände hergestellte Energieerzeugnisse vom Inhaber des
-Betriebes steuerfrei zur Aufrechterhaltung des Betriebes verwendet
-werden. § 1 Abs. 3 Satz 2 gilt nicht.
-
-(3) Auf dem Betriebsgelände eines Betriebes, der Energieerzeugnisse
-herstellt und nicht von Absatz 1 erfasst wird, dürfen auch nicht auf
-dem Betriebsgelände hergestellte Energieerzeugnisse vom Inhaber des
-Betriebes steuerfrei zur Aufrechterhaltung des Betriebes verwendet
-werden, soweit die im Betrieb hergestellten Energieerzeugnisse als
-Kraft- oder Heizstoff oder als Zusatz oder Verlängerungsmittel von
-Kraft- oder Heizstoffen abgegeben oder verwendet werden. § 1 Abs. 3
-Satz 2 gilt nicht. Satz 1 gilt nicht für Kohlebetriebe (§ 31 Abs. 1
-Satz 1).
-
-(4) Die Absätze 1 bis 3 gelten nicht für
-
-1.  Kohle und Erdgas,
+1.  innerhalb des Betriebsgeländes selbst hergestellt worden sind und
 
 
-2.  andere Energieerzeugnisse, soweit diese zum Antrieb von Fahrzeugen
+2.  im Zusammenhang mit der Herstellung von Energieerzeugnissen verwendet
+    werden; sie dürfen insbesondere nicht für den Antrieb von Fahrzeugen
     verwendet werden.
 
 
 
-Nicht erfasst werden von den Absätzen 2 und 3 die in § 6 Abs. 2
-genannten Vorgänge.
+
+(2) § 1 Absatz 3 Satz 2 ist nicht anzuwenden.
+
+(3) Das Mischen von fremdbezogenen Energieerzeugnissen mit innerhalb
+des Betriebsgeländes selbst hergestellten Energieerzeugnissen gilt
+nicht als Herstellung im Sinn des Absatzes 1 Nummer 2 erster Halbsatz.
+
+(4) Absatz 1 gilt nicht für die in § 6 Absatz 2 genannten Vorgänge, es
+sei denn, diese Vorgänge finden in einem Herstellungsbetrieb (§ 6)
+oder in einem Gasgewinnungsbetrieb (§ 44 Absatz 3) statt.
 
 
 #### § 27 Steuerbefreiung, Schiff- und Luftfahrt
 
-(1) Energieerzeugnisse der Unterpositionen 2710 19 41 bis 2710 19 99
-der Kombinierten Nomenklatur dürfen steuerfrei verwendet werden in
-Wasserfahrzeugen
+(1) Energieerzeugnisse der Unterpositionen 2707 99 99, 2710 19 43 bis
+2710 19 99, 2710 20 11 bis 2710 20 39 und andere Schweröle der
+Unterposition 2710 20 90 der Kombinierten Nomenklatur dürfen
+steuerfrei verwendet werden in Wasserfahrzeugen
 
 1.  für die Schifffahrt mit Ausnahme der privaten nichtgewerblichen
     Schifffahrt,
@@ -1986,11 +2213,12 @@ Wasserfahrzeugen
 
 
 
-Dies gilt für Energieerzeugnisse der Unterpositionen 2710 19 41 bis
-2710 19 49 der Kombinierten Nomenklatur nur, wenn sie ordnungsgemäß
-gekennzeichnet sind.
+Dies gilt für Energieerzeugnisse der Unterpositionen 2710 19 43 bis
+2710 19 48 und der Unterpositionen 2710 20 11 bis 2710 20 19 der
+Kombinierten Nomenklatur nur, wenn sie ordnungsgemäß gekennzeichnet
+sind.
 
-(2) Flugbenzin der Unterposition 2710 11 31 der Kombinierten
+(2) Flugbenzin der Unterposition 2710 12 31 der Kombinierten
 Nomenklatur, dessen Researchoktanzahl den Wert von 100 nicht
 unterschreitet, und Flugturbinenkraftstoff der Unterposition 2710 19
 21 der Kombinierten Nomenklatur dürfen steuerfrei verwendet werden in
@@ -2015,32 +2243,39 @@ Motoren bei deren Entwicklung und Herstellung.
 
 #### § 28 Steuerbefreiung für gasförmige Energieerzeugnisse
 
-Zu den in § 2 Abs. 3 Satz 1 genannten Zwecken dürfen steuerfrei
+(1) Zu den in § 2 Absatz 3 Satz 1 genannten Zwecken dürfen steuerfrei
 verwendet werden:
 
-1.  gasförmige Kohlenwasserstoffe, die aus dem biologisch abbaubaren
-    Anteil von Erzeugnissen der Land- und Forstwirtschaft oder von
-    Abfällen gewonnen werden, die bei der Tierhaltung, bei der Lagerung
-    von Abfällen oder bei der Abwasserreinigung anfallen oder die aus
-    Gründen der Luftreinhaltung und aus Sicherheitsgründen bei der
-    Lagerung oder Verladung von Energieerzeugnissen, beim Betanken von
-    Fahrzeugen, bei der Entgasung von Transportmitteln, bei Verfahren der
-    chemischen Industrie, ausgenommen bei der Herstellung von
-    Energieerzeugnissen, und beim Kohleabbau aufgefangen werden,
+1.  gasförmige Biokraft- und Bioheizstoffe, unvermischt mit anderen
+    Energieerzeugnissen, wenn diese zum Verheizen oder in begünstigten
+    Anlagen nach § 3 Absatz 1 Satz 1 Nummer 1 oder Nummer 2 verwendet
+    werden,
 
 
-2.  Energieerzeugnisse der Position 2705 der Kombinierten Nomenklatur.
+2.  gasförmige Kohlenwasserstoffe, die aus dem biologisch abbaubaren
+    Anteil von Abfällen gewonnen werden und bei der Lagerung von Abfällen
+    oder bei der Abwasserreinigung anfallen, wenn diese in begünstigten
+    Anlagen nach § 3 Absatz 1 Satz 1 Nummer 1 verwendet werden,
+
+
+3.  Energieerzeugnisse der Position 2705 der Kombinierten Nomenklatur.
 
 
 
 Ein Mischen mit anderen Energieerzeugnissen im Betrieb des Verwenders
 unmittelbar vor der Verwendung schließt für den eingesetzten Anteil an
-Energieerzeugnissen nach Satz 1 die Steuerbefreiung nicht aus. Satz 1
-Nr. 2 gilt nicht für Energieerzeugnisse der Position 2705 der
+Energieerzeugnissen nach Satz 1 eine Steuerbefreiung nicht aus. Satz 1
+Nummer 3 gilt nicht für Energieerzeugnisse der Position 2705 der
 Kombinierten Nomenklatur, soweit diese Waren der Position 2710 oder
 2711 der Kombinierten Nomenklatur, die nicht nach Satz 1 steuerfrei
 sind, durch Beimischung enthalten oder aus diesen Waren erzeugt worden
 sind.
+
+(2) Die Steuerbefreiung nach Absatz 1 Satz 1 Nummer 1 und 2 wird
+gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen
+beihilferechtlichen Genehmigung der Europäischen Kommission. Das
+Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im
+Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 #### § 29 (weggefallen)
@@ -2069,7 +2304,11 @@ Nichtberechtigte Steuerschuldner. Mehrere Steuerschuldner sind
 Gesamtschuldner. Der Steuerschuldner hat für Energieerzeugnisse, für
 die die Steuer entstanden ist, unverzüglich eine Steuererklärung
 abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung).
-Die Steuer ist sofort fällig.
+Die Steuer ist sofort fällig. Das Hauptzollamt kann für
+Energieerzeugnisse, die entsprechend der in der Erlaubnis genannten
+Zweckbestimmung verwendet worden sind, ohne dabei verbraucht zu
+werden, auf Antrag eine § 8 Absatz 3 bis 6 entsprechende Regelung
+treffen; § 6 Absatz 3 Satz 2 und 3 und § 8 Absatz 7 gelten sinngemäß.
 
 
 ## Kapitel 3 - Bestimmungen für Kohle
@@ -2095,9 +2334,12 @@ unter Widerrufsvorbehalt Personen erteilt, gegen deren steuerliche
 Zuverlässigkeit keine Bedenken bestehen und die − soweit nach dem
 Handelsgesetzbuch oder der Abgabenordnung dazu verpflichtet −
 ordnungsmäßig kaufmännische Bücher führen und rechtzeitig
-Jahresabschlüsse aufstellen. Vor der Erteilung ist Sicherheit für die
-Steuer zu leisten, die voraussichtlich während zweier Monate entsteht
-(§ 32), wenn Anzeichen für eine Gefährdung der Steuer erkennbar sind.
+Jahresabschlüsse aufstellen. Sind Anzeichen für eine Gefährdung der
+Steuer erkennbar, ist die Erlaubnis von einer Sicherheit bis zur Höhe
+des Steuerwerts der Kohle abhängig, die voraussichtlich im
+Jahresdurchschnitt in zwei Monaten vom Kohlebetrieb oder vom
+Kohlelieferer an Personen, die nicht im Besitz einer Erlaubnis nach §
+31 Absatz 4 oder § 37 Absatz 1 sind, geliefert wird.
 
 (5) Die Erlaubnis ist zu widerrufen, wenn eine der Voraussetzungen
 nach Absatz 4 Satz 2 nicht mehr erfüllt ist oder eine angeforderte
@@ -2225,11 +2467,18 @@ Voraussetzung nach Satz 2 nicht mehr erfüllt ist.
 
 
 5.  als Probe zu betrieblich erforderlichen Untersuchungen und Prüfungen
-    oder zu Zwecken der Steuer- oder Gewerbeaufsicht,
+    oder zu Zwecken der Steuer- oder Gewerbeaufsicht.
 
 
-6.  bis zum 31. Dezember 2010 von privaten Haushalten als Heizstoff zur
-    Deckung des eigenen Wärmebedarfs.
+
+Satz 1 Nummer 2 gilt für die Verwendung anderer Energieerzeugnisse
+entsprechend, wenn sie
+
+1.  innerhalb des Betriebs selbst hergestellt worden sind und
+
+
+2.  zur Aufrechterhaltung des Kohlebetriebs verwendet werden; sie dürfen
+    insbesondere nicht für den Antrieb von Fahrzeugen verwendet werden.
 
 
 
@@ -2248,12 +2497,15 @@ und die Fälligkeit gilt § 33 Abs. 1 entsprechend.
 (3) Die Kohle darf nur zu den in der Erlaubnis genannten Zwecken
 verwendet werden. Die Steuer entsteht für Kohle, die entgegen der in
 der Erlaubnis genannten Zweckbestimmung verwendet wird oder deren
-Verbleib nicht festgestellt werden kann. Die Steuer entsteht nicht für
-Kohle, die untergegangen ist. Schwund steht dem Untergang gleich.
-Steuerschuldner ist der Erlaubnisinhaber. Der Steuerschuldner hat für
-Energieerzeugnisse, für die die Steuer entstanden ist, unverzüglich
-eine Steuererklärung abzugeben und darin die Steuer selbst zu
-berechnen (Steueranmeldung). Die Steuer ist sofort fällig.
+Verbleib nicht festgestellt werden kann. Die Steuer entsteht nicht,
+wenn die Kohle untergegangen ist oder an Personen abgegeben worden
+ist, die zum Bezug unversteuerter Kohle gemäß § 31 Absatz 4 oder zur
+steuerfreien Verwendung von Kohle gemäß § 37 Absatz 1 berechtigt sind.
+Schwund steht dem Untergang gleich. Steuerschuldner ist der
+Erlaubnisinhaber. Der Steuerschuldner hat für Energieerzeugnisse, für
+die die Steuer entstanden ist, unverzüglich eine Steuererklärung
+abzugeben und darin die Steuer selbst zu berechnen (Steueranmeldung).
+Die Steuer ist sofort fällig.
 
 (4) Kohle gilt als entgegen der in der Erlaubnis genannten
 Zweckbestimmung verwendet (Absatz 3), soweit die Erlaubnis zur
@@ -2304,6 +2556,21 @@ liefert, nicht als anderer Lieferer (Absatz 2 Nr. 1) gilt. An den
 Inhaber der Zulassung geliefertes Erdgas gilt dann mit der Lieferung
 an ihn als aus dem Leitungsnetz entnommen. § 42 bleibt dadurch
 unberührt.
+
+(4a) Lieferer von Erdgas gelten nicht als andere Lieferer (Absatz 2
+Nummer 1), soweit
+
+1.  sie Erdgas zum Selbstverbrauch entnehmen,
+
+
+2.  ihnen dieses Erdgas versteuert von einem im Steuergebiet ansässigen
+    Lieferer geliefert wird und
+
+
+3.  die Menge dieses Erdgases vom letztgenannten Lieferer ermittelt wird.
+
+
+
 
 (5) Erdgas gilt mit der Lieferung an einen Lieferer, der entgegen
 Absatz 3 nicht angemeldet ist, als im Steuergebiet zum Verbrauch aus
@@ -2475,10 +2742,19 @@ Satz 4 nicht mehr erfüllt ist.
 das Verbringen von verflüssigtem Erdgas aus dem Steuergebiet erlaubt
 werden, sofern Steuerbelange nicht beeinträchtigt werden.
 
-(2) Auf dem Betriebsgelände eines Gasgewinnungsbetriebes (Absatz 3)
-darf Erdgas vom Inhaber des Betriebes steuerfrei zur Aufrechterhaltung
-des Betriebes verwendet werden, jedoch nicht zum Antrieb von
-Fahrzeugen.
+(2) Der Inhaber eines Gasgewinnungsbetriebs (Absatz 3) darf
+Energieerzeugnisse innerhalb des Betriebsgeländes steuerfrei
+verwenden, wenn sie
+
+1.  innerhalb des Betriebsgeländes selbst hergestellt worden sind und
+
+
+2.  im Zusammenhang mit dem Gewinnen oder Bearbeiten (Herstellen) von
+    Erdgas verwendet werden; sie dürfen insbesondere nicht für den Antrieb
+    von Fahrzeugen verwendet werden.
+
+
+
 
 (2a) Erdgas, das beim Kohleabbau aufgefangen wird, darf steuerfrei zum
 Antrieb von Gasturbinen und Verbrennungsmotoren in begünstigten
@@ -2541,30 +2817,15 @@ Klimaanlagen, für Kraftstoffe in Reservebehältern von Fahrzeugen und
 für Heizstoffe im Vorratsbehälter der Standheizung von Fahrzeugen.
 
 (2) Die Steuerentlastung wird im Fall des Absatzes 1 Satz 1 Nummer 1
-nur gewährt, wenn
+nur gewährt, wenn der Entlastungsberechtigte
 
-1.  der Entlastungsberechtigte den Nachweis erbringt, dass die Steuer für
-    die Energieerzeugnisse in dem anderen Mitgliedstaat entrichtet worden
-    ist, oder
-
-
-2.  der Entlastungsberechtigte
-
-    a)  den Antrag auf Steuerentlastung vor dem Verbringen der
-        Energieerzeugnisse beim Hauptzollamt stellt und die Energieerzeugnisse
-        auf Verlangen vorführt,
+1.  die Energieerzeugnisse mit den Begleitpapieren nach Artikel 34 der
+    Systemrichtlinie befördert hat und
 
 
-    b)  die Energieerzeugnisse mit den Begleitpapieren nach Artikel 34 der
-        Systemrichtlinie befördert und
-
-
-    c)  eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche
-        Bestätigung des anderen Mitgliedstaats darüber vorlegt, dass die
-        Energieerzeugnisse dort ordnungsgemäß steuerlich erfasst worden sind.
-
-
-
+2.  eine ordnungsgemäße Empfangsbestätigung sowie eine amtliche
+    Bestätigung des anderen Mitgliedstaats darüber vorlegt, dass die
+    Energieerzeugnisse dort ordnungsgemäß steuerlich erfasst worden sind.
 
 
 
@@ -2610,10 +2871,7 @@ aus dem Steuergebiet verbracht oder ausgeführt hat.
     Zwecken verwendet worden sind,
 
 
-4.  für nachweislich versteuerte Schweröle, Erdgase, Flüssiggase und
-    gasförmige Kohlenwasserstoffe sowie ihnen nach § 2 Absatz 4 und 4a
-    gleichgestellte Energieerzeugnisse, die unter den Voraussetzungen des
-    § 26 zu den dort genannten Zwecken verwendet worden sind,
+4.  (weggefallen)
 
 
 5.  für nachweislich versteuerte Kohle, die
@@ -2621,8 +2879,8 @@ aus dem Steuergebiet verbracht oder ausgeführt hat.
     a)  in einen Kohlebetrieb aufgenommen worden ist oder
 
 
-    b)  unter den Voraussetzungen des § 37 Abs. 2 Satz 1 Nr. 1 und 2 zu den
-        dort genannten Zwecken verwendet worden ist,
+    b)  unter den Voraussetzungen des § 37 Absatz 2 Satz 1 Nummer 1 und 2
+        sowie Satz 2 zu den dort genannten Zwecken verwendet worden ist,
 
 
 
@@ -2658,6 +2916,90 @@ dem Hauptzollamt schriftlich seinen Verzicht auf den
 Steuerentlastungsanspruch erklärt.
 
 
+### § 47a Steuerentlastung für den Eigenverbrauch
+
+(1) Eine teilweise Entlastung wird auf Antrag für nachweislich
+versteuerte Energieerzeugnisse gewährt, die unter den Voraussetzungen
+der §§ 26, 37 Absatz 2 Satz 1 Nummer 2, Satz 2 oder § 44 Absatz 2 zu
+den dort genannten Zwecken verwendet worden sind.
+
+(2) Die Steuerentlastung für nach Absatz 1 verwendete
+Energieerzeugnisse beträgt
+
+1.
+    *        *   für 1 000 Liter nach § 2 Absatz 3
+            Satz 1 Nummer 1 oder Nummer 3
+            versteuerte Energieerzeugnisse
+
+        *   40,35 EUR,
+
+
+
+
+
+2.
+    *        *   für 1 000 Kilogramm nach § 2
+            Absatz 3 Satz 1 Nummer 2
+            versteuerte Energieerzeugnisse
+
+        *   10,00 EUR,
+
+
+
+
+
+3.
+    *        *   für 1 Megawattstunde nach § 2
+            Absatz 3 Satz 1 Nummer 4
+            versteuerte Energieerzeugnisse
+
+        *   4,96 EUR,
+
+
+
+
+
+4.
+    *        *   für 1 000 Kilogramm nach Absatz 3
+            Satz 1 Nummer 5 versteuerte
+            Energieerzeugnisse
+
+        *   60,60 EUR,
+
+
+
+
+
+5.
+    *        *   für 1 Gigajoule nach § 2 Absatz 1
+            Nummer 9, 10 oder Absatz 4a
+            versteuerte Energieerzeugnisse
+
+        *   0,16 EUR.
+
+
+
+
+
+
+Eine weitere Steuerentlastung kann für diese Energieerzeugnisse nicht
+gewährt werden.
+
+(3) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
+verwendet hat.
+
+(4) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum
+Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der
+Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014 der
+Kommission vom 17. Juni 2014 zur Feststellung der Vereinbarkeit
+bestimmter Gruppen von Beihilfen mit dem Binnenmarkt in Anwendung der
+Artikel 107 und 108 des Vertrags über die Arbeitsweise der
+Europäischen Union (Allgemeine Gruppenfreistellungsverordnung; ABl. L
+187 vom 26.6.2014, S. 1) in der jeweils geltenden Fassung. Das
+Auslaufen der Freistellungsanzeige wird vom Bundesministerium der
+Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
+
+
 ### § 48 Steuerentlastung bei Vermischungen von gekennzeichnetem mit anderem Gasöl
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
@@ -2687,18 +3029,32 @@ Gemische der Verfügungsberechtigte.
 ### § 49 Steuerentlastung für zum Verheizen oder in begünstigten Anlagen verwendete Energieerzeugnisse
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
-nach § 2 Abs. 1 Nr. 4 versteuerte Gasöle bis auf den Betrag nach dem
-Steuersatz des § 2 Abs. 3 Satz 1 Nr. 1, soweit sie nachweislich
-verheizt worden sind und ein besonderes wirtschaftliches Bedürfnis für
-die Verwendung von nicht gekennzeichnetem Gasöl zum Verheizen
-vorliegt.
+nach § 2 Absatz 1 Nummer 4 versteuerte Gasöle bis zum Steuersatz des §
+2 Absatz 3 Satz 1 Nummer 1, soweit diese
+
+1.  nachweislich verheizt worden sind und ein besonderes wirtschaftliches
+    Bedürfnis für die Verwendung von nicht gekennzeichnetem Gasöl zum
+    Verheizen vorliegt oder
+
+
+2.  in Prüfständen zum Antrieb von Motoren verwendet worden sind, deren
+    mechanische Energie ausschließlich der Stromerzeugung dient, und es
+    aus Gründen der öffentlichen Gesundheit, der Sicherheit oder aus
+    technischen Gründen nicht möglich ist, ordnungsgemäß gekennzeichnete
+    Gasöle zu verwenden.
+
+
+
+Die Steuerentlastung nach Satz 1 Nummer 2 wird nur gewährt, wenn die
+Steuerbelange nicht beeinträchtigt werden und der Entlastungsbetrag
+mindestens 50 Euro im Kalenderjahr beträgt.
 
 (2) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 2 Abs. 2 Nr. 2 versteuerte Flüssiggase bis auf den Betrag nach
 dem Steuersatz des § 2 Abs. 3 Satz 1 Nr. 5, soweit sie nachweislich zu
 den in § 2 Abs. 3 Satz 1 genannten Zwecken abgegeben worden sind.
 
-(2a) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
+(3) Eine Steuerentlastung wird auf Antrag gewährt für nachweislich
 nach § 2 Absatz 1 Nummer 1 bis 3 versteuerte Energieerzeugnisse bis
 auf den Betrag nach dem Steuersatz des § 2 Absatz 3 Satz 1 Nummer 1
 Buchstabe b, soweit sie zu gewerblichen Zwecken nachweislich verheizt
@@ -2707,234 +3063,13 @@ begünstigten Anlagen nach § 3 verwendet worden sind. Die
 Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag
 mindestens 50 Euro im Kalenderjahr beträgt.
 
-(3) Entlastungsberechtigt ist, wer die Energieerzeugnisse nach Absatz
-1 oder Absatz 2a verwendet oder die Flüssiggase nach Absatz 2
-abgegeben hat.
+(4) Entlastungsberechtigt ist, wer die Energieerzeugnisse nach Absatz
+1 oder Absatz 3 verwendet oder die Flüssiggase nach Absatz 2 abgegeben
+hat.
 
 
-### § 50 Steuerentlastung für Biokraftstoffe
+### § 50 (weggefallen)
 
-(1) Auf Antrag wird dem Steuerschuldner eine Steuerentlastung gewährt
-
-1.  für nachweislich nach den Steuersätzen des § 2 Abs. 1 versteuerte
-    Biokraftstoffe, unvermischt mit anderen Energieerzeugnissen,
-    ausgenommen Biokraftstoffen oder Additiven der Position 3811 der
-    Kombinierten Nomenklatur,
-
-
-2.  für nachweislich nach den Steuersätzen des § 2 Abs. 1 versteuerte
-    Energieerzeugnisse, die besonders förderungswürdige Biokraftstoffe
-    nach Absatz 4 Nr. 3 sind,
-
-
-3.  für nachweislich nach den Steuersätzen des § 2 Abs. 1 versteuerte
-    Energieerzeugnisse, die besonders förderungswürdige Biokraftstoffe
-    nach Absatz 4 Nr. 1 oder Nr. 2 sind oder enthalten,
-
-
-4.  für nachweislich nach den Steuersätzen des § 2 Abs. 2 versteuerte
-    Energieerzeugnisse, die durch Vergärung oder synthetisch aus Biomasse
-    erzeugtes und auf Erdgasqualität aufbereitetes Biogas (Biomethan) sind
-    oder enthalten, vorausgesetzt, das so erzeugte Biomethan entspricht
-    den Anforderungen für Erdgas nach der Verordnung über die
-    Beschaffenheit und die Auszeichnung der Qualitäten von Kraft- und
-    Brennstoffen in der jeweils geltenden Fassung.
-
-
-
-Die Steuerentlastung wird vorbehaltlich der Absätze 2 und 3 bis zum
-31\. Dezember 2009 gewährt. Der Steuerentlastungsanspruch entsteht in
-dem Zeitpunkt, in dem für die Energieerzeugnisse die Steuer nach den
-Steuersätzen des § 2 in Person des Entlastungsberechtigten entsteht.
-In den Fällen des Satzes 1 Nr. 1, 2 und 4 wird eine Steuerentlastung
-nur gewährt, soweit die Energieerzeugnisse nicht dazu dienen,
-Verpflichtungen nach § 37a Abs. 1 Satz 1 und 2 in Verbindung mit § 37a
-Abs. 3 und 3a des Bundes-Immissionsschutzgesetzes zu erfüllen. Eine
-Steuerentlastung wird nicht gewährt, sofern der Biokraftstoff bereits
-zuvor eine anderweitige direkte staatliche Förderung im In- oder
-Ausland erhalten hat und keine Ausgleichs- oder Antidumpingzölle
-erhoben wurden. Das Bundesministerium der Finanzen gibt die konkreten
-staatlichen Förderungen im Sinne des Satzes 5, die zu einem Ausschluss
-der Steuerentlastung führen, im Bundesanzeiger bekannt. Satz 5 gilt
-nicht für diejenigen Mengen von dort genannten Energieerzeugnissen aus
-Bezugsverträgen, die Hersteller von Biodiesel sowie Steuerschuldner
-vor dem 25. September 2008 abgeschlossen hatten und deren Nichtabnahme
-zudem zu vertraglich festgelegten finanziellen Belastungen für die
-Unternehmen führt. Im Fall von Satz 1 Nummer 1 und 2 wird eine
-Steuerentlastung nur gewährt, soweit der in § 37a Absatz 3 Satz 3 des
-Bundes-Immissionsschutzgesetzes genannte Mindestanteil an
-Biokraftstoff überschritten wird.
-
-(2) Abweichend von Absatz 1 Satz 2 wird die Steuerentlastung nach
-Absatz 1 Satz 1 Nr. 2 bis 4 auch über den 31. Dezember 2009 hinaus bis
-zum 31. Dezember 2015 gewährt.
-
-(3) Die Steuerentlastung nach Absatz 1 Satz 1 Nummer 1 und 4 wird in
-Höhe der Steuer gewährt, die auf den Biokraftstoffanteil entfällt. Die
-Steuerentlastung nach Absatz 1 Satz 1 Nummer 2 und 3 wird in Höhe der
-Steuer gewährt, die auf den Anteil an besonders förderungswürdigen
-Biokraftstoffen entfällt. Abweichend von Satz 1 wird für
-Fettsäuremethylester und Pflanzenöl, die nach den Steuersätzen des § 2
-Abs. 1 Nr. 4 versteuert worden sind, nur eine teilweise
-Steuerentlastung gewährt. Diese beträgt
-
-*    *   1.
-
-    *   für 1 000 l Fettsäuremethylester
-
-    *
-
-*    *
-    *   bis 31. Dezember 2007
-
-    *   399,40 EUR,
-
-
-*    *
-    *   vom 1. Januar 2008
-
-    *
-
-*    *
-    *   bis 31. Dezember 2008
-
-    *   336,40 EUR,
-
-
-*    *
-    *   vom 1. Januar 2009
-
-    *
-
-*    *
-    *   bis 31. Dezember 2012
-
-    *   303,40 EUR,
-
-
-*    *
-    *   ab 1. Januar 2013
-
-    *   21,40 EUR,
-
-
-*    *
-    *
-    *
-
-*    *   2.
-
-    *   für 1 000 l Pflanzenöl
-
-    *
-
-*    *
-    *   bis 31. Dezember 2007
-
-    *   470,40 EUR,
-
-
-*    *
-    *   vom 1. Januar 2008
-
-    *
-
-*    *
-    *   bis 31. Dezember 2008
-
-    *   388,90 EUR,
-
-
-*    *
-    *   vom 1. Januar 2009
-
-    *
-
-*    *
-    *   bis 31. Dezember 2012
-
-    *   304,90 EUR,
-
-
-*    *
-    *   ab 1. Januar 2013
-
-    *   21,40 EUR.
-
-
-
-Für andere als die in Satz 2 genannten Biokraftstoffe, die nach den
-Steuersätzen des § 2 Abs. 1 Nr. 4 versteuert worden sind, gelten die
-Sätze 1 und 3 Nr. 1 entsprechend, soweit es sich dabei nicht um
-besonders förderungswürdige Biokraftstoffe nach Absatz 4 Nummer 1 oder
-Nummer 2 handelt.
-
-(4) Besonders förderungswürdige Biokraftstoffe sind
-
-1.  synthetische Kohlenwasserstoffe oder synthetische
-    Kohlenwasserstoffgemische, die durch thermochemische Umwandlung von
-    Biomasse gewonnen werden,
-
-
-2.  Alkohole, die durch biotechnologische Verfahren zum Aufschluss von
-    Zellulose gewonnen werden, oder
-
-
-3.  Energieerzeugnisse, die einen Bioethanolanteil von mindestens 70
-    Volumenprozent enthalten, hinsichtlich des Bioethanolanteils.
-
-
-
-
-(5) Die Steuerentlastung darf nicht zu einer Überkompensation der
-Mehrkosten im Zusammenhang mit der Erzeugung der in Absatz 1 Satz 1
-Nummer 1 bis 4 genannten Biokraftstoffe führen; zu diesem Zweck hat
-das Bundesministerium der Finanzen unter Beteiligung des
-Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz, des Bundesministeriums für Wirtschaft und
-Technologie und des Bundesministeriums für Umwelt, Naturschutz und
-Reaktorsicherheit dem Bundestag jährlich bis zum 1. September einen
-Bericht über die Markteinführung der Biokraftstoffe und die
-Entwicklung der Preise für Biomasse und Rohöl sowie die Kraft- und
-Heizstoffpreise vorzulegen und darin – im Falle einer Überkompensation
-– eine Anpassung der Steuerbegünstigung für Biokraftstoffe
-entsprechend der Entwicklung der Rohstoffpreise an die Marktlage
-vorzuschlagen. Hierbei sind die Effekte für den Klima- und
-Umweltschutz, der Schutz natürlicher Ressourcen, die externen Kosten
-der verschiedenen Kraftstoffe, die Versorgungssicherheit und die
-Realisierung eines Mindestanteils an Biokraftstoffen und anderen
-erneuerbaren Kraftstoffen gemäß der Richtlinie 2003/30/EG des
-Europäischen Parlaments und des Rates vom 8. Mai 2003 zur Förderung
-der Verwendung von Biokraftstoffen oder anderen erneuerbaren
-Kraftstoffen im Verkehrssektor (ABl. EU Nr. L 123 S. 42) zu
-berücksichtigen. Für besonders förderungswürdige Biokraftstoffe nach
-Absatz 4 Nummer 1 und 2 ist zur Feststellung einer Überkompensation
-ein Vergleich dieser Biokraftstoffe mit vergleichbaren, nicht
-besonders förderungswürdigen Biokraftstoffen vorzunehmen. Werden
-Biokraftstoffe neu in den Markt eingeführt, hat das Bundesministerium
-der Finanzen unter Beteiligung der in Satz 1 genannten obersten
-Bundesbehörden eine erste Analyse der Mehrkosten in Relation zu der
-Steuerbegünstigung vorzunehmen.
-
-(6) Unternehmen, die Biokraftstoffe herstellen, sind verpflichtet, die
-für den Bericht nach Absatz 5 Satz 1 erforderlichen Daten für eine
-zollamtliche Überprüfung bereitzuhalten und auf Anforderung dem
-Hauptzollamt vorzulegen. Sie sind, wenn sie über eine jährliche
-Produktionskapazität von mindestens 1 000 Tonnen verfügen, ferner
-verpflichtet, der zuständigen Stelle im Sinne des § 37d Abs. 1 des
-Bundes-Immissionsschutzgesetzes bis zum 31. März jeden Jahres ihre
-Produktionskapazität und die produzierte Menge an Biokraftstoffen des
-Vorjahres zu melden. Das Hauptzollamt ist befugt, zu diesen Zwecken
-die Vorlage von Beweismitteln zu verlangen und jede Art von
-Überprüfung der Buchführung des Unternehmens oder sonstige von ihm für
-zweckdienlich erachtete Kontrollen durchzuführen. Die §§ 193 bis 203
-der Abgabenordnung gelten entsprechend.
-
-(7) Im Falle von Störungen des deutschen Biokraftstoffmarktes oder des
-Biokraftstoffmarktes in der Europäischen Union, die durch Einfuhren
-aus Drittländern hervorgerufen werden, wird die Bundesregierung bei
-der Kommission der Europäischen Union die Einleitung geeigneter
-Schutzmaßnahmen beantragen.
 
 
 ### § 51 Steuerentlastung für bestimmte Prozesse und Verfahren
@@ -2952,11 +3087,13 @@ Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
         keramischen Wand- und Bodenfliesen und -platten, Ziegeln und sonstiger
         Baukeramik, Zement, Kalk und gebranntem Gips, Erzeugnissen aus Beton,
         Zement und Gips, keramisch gebundenen Schleifkörpern, mineralischen
-        Isoliermaterialien, Asphalt, Waren aus Graphit oder anderen
-        Kohlenstoffen, Erzeugnissen aus Porenbetonerzeugnissen und
-        mineralischen Düngemitteln zum Trocknen, Brennen, Schmelzen, Erwärmen,
-        Warmhalten, Entspannen, Tempern oder Sintern der vorgenannten
-        Erzeugnisse oder der zu ihrer Herstellung verwendeten Vorprodukte,
+        Isoliermaterialien und Erzeugnissen aus mineralischen
+        Isoliermaterialien, Katalysatorenträgern aus mineralischen Stoffen,
+        Waren aus Asphalt und bituminösen Erzeugnissen, Waren aus Graphit oder
+        anderen Kohlenstoffen, Erzeugnissen aus Porenbetonerzeugnissen zum
+        Trocknen, Kalzinieren, Brennen, Schmelzen, Erwärmen, Warmhalten,
+        Entspannen, Tempern oder Sintern der vorgenannten Erzeugnisse oder der
+        zu ihrer Herstellung verwendeten Vorprodukte,
 
 
     b)  für die Metallerzeugung und -bearbeitung sowie im Rahmen der
@@ -2980,7 +3117,7 @@ Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
 
 
 
-verwendet worden sind.
+verheizt worden sind.
 
 (1a) Abweichend von Absatz 1 beträgt die Steuerentlastung ab dem 1.
 Januar 2009 für nachweislich nach § 2 Abs. 3 Satz 1 Nr. 1 Buchstabe a
@@ -2998,21 +3135,32 @@ verwendet hat.
 versteuerte Energieerzeugnisse, die zu den in § 27 genannten Zwecken
 verwendet worden sind. In den Fällen des § 27 Abs. 1 Satz 1 Nr. 1 und
 2 wird die Steuerentlastung für Energieerzeugnisse der Unterpositionen
-2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur nur gewährt,
-wenn diese ordnungsgemäß gekennzeichnet sind.
+2710 19 43 bis 2710 19 48 und der Unterpositionen 2710 20 11 bis 2710
+20 19 der Kombinierten Nomenklatur nur gewährt, wenn diese
+ordnungsgemäß gekennzeichnet sind.
 
 (2) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
 verwendet hat.
 
 
-### § 53 Steuerentlastung für die Stromerzeugung in Anlagen mit einer elektrischen Nennleistung von mehr als zwei Megawatt
+### § 53 Steuerentlastung für die Stromerzeugung
 
 (1) Eine Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
 10, Absatz 3 Satz 1 oder Absatz 4a versteuert worden sind und die zur
-Stromerzeugung in ortsfesten Anlagen mit einer elektrischen
-Nennleistung von mehr als zwei Megawatt verwendet worden sind. Wenn
-die in der Anlage erzeugte mechanische Energie neben der
+Stromerzeugung in ortsfesten Anlagen
+
+1.  mit einer elektrischen Nennleistung von mehr als 2 Megawatt verwendet
+    worden sind oder
+
+
+2.  mit einer elektrischen Nennleistung von bis zu 2 Megawatt verwendet
+    worden sind, soweit der erzeugte Strom nicht nach § 9 Absatz 1 Nummer
+    1 und 3 des Stromsteuergesetzes von der Stromsteuer befreit ist.
+
+
+
+Wenn die in der Anlage erzeugte mechanische Energie neben der
 Stromerzeugung auch anderen Zwecken dient, wird nur für den auf die
 Stromerzeugung entfallenden Anteil an Energieerzeugnissen eine
 Steuerentlastung gewährt.
@@ -3050,38 +3198,64 @@ Steuerentlastung kann für diese Energieerzeugnisse nicht gewährt
 werden.
 
 (4) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
-zur Stromerzeugung verwendet hat.
+zur Stromerzeugung verwendet hat. Verwender im Sinn des Satzes 1 ist
+nur diejenige Person, die die Energieerzeugnisse zum Betrieb einer
+Stromerzeugungsanlage in ihr einsetzt.
 
 
-### § 53a (zukünftig in Kraft)
-
-
-
-### § 53b Teilweise Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
+### § 53a Steuerentlastung für die gekoppelte Erzeugung von Kraft und Wärme
 
 (1) Eine teilweise Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
 10, Absatz 3 Satz 1 oder Absatz 4a versteuert worden sind und die zur
 gekoppelten Erzeugung von Kraft und Wärme in ortsfesten Anlagen mit
-einem Monats-oder Jahresnutzungsgrad von mindestens 70 Prozent
+einem Monats- oder Jahresnutzungsgrad von mindestens 70 Prozent
 verheizt worden sind.
 
 (2) Die Steuerentlastung nach Absatz 1 beträgt
 
-1.  für 1 000 l nach § 2 Absatz 3 Satz 1 Nummer 1 oder Nummer 3
-    versteuerte Energieerzeugnisse 40,35 EUR,
+1.
+    *        *   für 1 000 Liter nach § 2 Absatz 3
+            Satz 1 Nummer 1 oder Nummer 3
+            versteuerte Energieerzeugnisse
+
+        *   40,35 EUR,
 
 
-2.  für 1 000 kg nach § 2 Absatz 3 Satz 1 Nummer 2 versteuerte
-    Energieerzeugnisse 10,00 EUR,
 
 
-3.  für 1 MWh nach § 2 Absatz 3 Satz 1 Nummer 4 versteuerte
-    Energieerzeugnisse 4,42 EUR,
+
+2.
+    *        *   für 1 000 Kilogramm nach § 2
+            Absatz 3 Satz 1 Nummer 2
+            versteuerte Energieerzeugnisse
+
+        *   10,00 EUR,
 
 
-4.  für 1 000 kg nach § 2 Absatz 3 Satz 1 Nummer 5 versteuerte
-    Energieerzeugnisse 60,60 EUR.
+
+
+
+3.
+    *        *   für 1 Megawattstunde nach § 2
+            Absatz 3 Satz 1 Nummer 4
+            versteuerte Energieerzeugnisse
+
+        *   4,42 EUR,
+
+
+
+
+
+4.
+    *        *   für 1 000 Kilogramm nach § 2
+            Absatz 3 Satz 1 Nummer 5
+            versteuerte Energieerzeugnisse
+
+        *   60,60 EUR.
+
+
+
 
 
 
@@ -3095,16 +3269,15 @@ Forstwirtschaft im Sinn des § 2 Nummer 5 des Stromsteuergesetzes zu
 betrieblichen Zwecken verheizt, gilt Absatz 2 mit der Maßgabe, dass
 die Steuerentlastung
 
-1.  für 1 GJ nach § 2 Absatz 1 Nummer 9, 10 oder Absatz 4a versteuerte
-    Energieerzeugnisse 0,16 EUR,
+1.  für 1 Gigajoule nach § 2 Absatz 1 Nummer 9 und 10 oder Absatz 4a
+    versteuerte Energieerzeugnisse 0,16 EUR beträgt,
 
 
-2.  für 1 MWh nach § 2 Absatz 3 Satz 1 Nummer 4 versteuerte
-    Energieerzeugnisse 4,96 EUR,
+2.  für 1 Megawattstunde nach § 2 Absatz 3 Satz 1 Nummer 4 versteuerte
+    Energieerzeugnisse 4,96 EUR beträgt.
 
 
 
-beträgt.
 
 (4) Eine teilweise Steuerentlastung wird auf Antrag gewährt für
 Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
@@ -3116,43 +3289,141 @@ verwendet worden sind.
 
 (5) Die Steuerentlastung nach Absatz 4 beträgt
 
-1.  für 1 000 l nach § 2 Absatz 3 Satz 1 Nummer 1 oder Nummer 3
-    versteuerte Energieerzeugnisse 40,35 EUR,
+1.
+    *        *   für 1 000 Liter nach § 2 Absatz 3
+            Satz 1 Nummer 1 oder Nummer 3
+            versteuerte Energieerzeugnisse
+
+        *   40,35 EUR,
 
 
-2.  für 1 000 kg nach § 2 Absatz 3 Satz 1 Nummer 2 versteuerte
-    Energieerzeugnisse 10,00 EUR,
 
 
-3.  für 1 MWh nach § 2 Absatz 3 Satz 1 Nummer 4 versteuerte
-    Energieerzeugnisse 4,42 EUR,
+
+2.
+    *        *   für 1 000 Kilogramm nach § 2
+            Absatz 3 Satz 1 Nummer 2
+            versteuerte Energieerzeugnisse
+
+        *   4,00 EUR,
 
 
-4.  für 1 000 kg nach § 2 Absatz 3 Satz 1 Nummer 5 versteuerte
-    Energieerzeugnisse 19,60 EUR,
 
 
-5.  für 1 GJ nach § 2 Absatz 1 Nummer 9, 10 oder Absatz 4a versteuerte
-    Energieerzeugnisse 0,16 EUR.
+
+3.
+    *        *   für 1 Megawattstunde nach § 2
+            Absatz 3 Satz 1 Nummer 4
+            versteuerte Energieerzeugnisse
+
+        *   4,42 EUR,
+
+
+
+
+
+4.
+    *        *   für 1 000 Kilogramm nach § 2
+            Absatz 3 Satz 1 Nummer 5
+            versteuerte Energieerzeugnisse
+
+        *   19,60 EUR,
+
+
+
+
+
+5.
+    *        *   für 1 Gigajoule nach § 2 Absatz 1
+            Nummer 9 und 10 oder Absatz 4a
+            versteuerte Energieerzeugnisse
+
+        *   0,16 EUR.
+
+
+
 
 
 
 Eine weitere Steuerentlastung kann für diese Energieerzeugnisse nicht
 gewährt werden.
 
-(6) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
-zur gekoppelten Erzeugung von Kraft und Wärme verwendet hat.
+(6) Eine vollständige Steuerentlastung wird auf Antrag gewährt für
+Energieerzeugnisse, die nachweislich nach § 2 Absatz 1 Nummer 9 und
+10, Absatz 3 Satz 1 oder Absatz 4a versteuert worden sind und die zur
+gekoppelten Erzeugung von Kraft und Wärme in ortsfesten Anlagen
+verwendet worden sind. Abweichend von Satz 1 beträgt die
+Steuerentlastung für nachweislich nach § 2 Absatz 3 Satz 1 Nummer 1
+Buchstabe a versteuerte Energieerzeugnisse 61,35 Euro für 1 000 Liter.
+Eine weitere Steuerentlastung kann für die in Satz 2 genannten
+Energieerzeugnisse nicht gewährt werden. Die Steuerentlastung nach den
+Sätzen 1 und 2 wird nur gewährt, wenn diese Anlagen
 
-(7) Die Steuerentlastung nach den Absätzen 1 und 4 wird nur für den
-Monat oder das Jahr gewährt, in dem der dort genannte Nutzungsgrad
-nachweislich erreicht wurde.
+1.  einen Monats- oder Jahresnutzungsgrad von mindestens 70 Prozent
+    erreichen und
 
-(8) Die Steuerentlastung nach den Absätzen 1 und 4 wird gewährt nach
-Maßgabe und bis zum Auslaufen der hierfür erforderlichen
+
+2.  hocheffizient sind.
+
+
+
+Eine Anlage zur Kraft-Wärme-Kopplung ist hocheffizient, wenn sie die
+Kriterien des Anhangs II der Richtlinie 2012/27/EU des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz,
+zur Änderung der Richtlinien 2009/125/EG und 2010/30/EU und zur
+Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom
+14\.11.2012, S. 1; L 113 vom 25.4.2013, S. 24), die durch die
+Richtlinie 2013/12/EU (ABl. L 141 vom 28.5.2013, S. 28) geändert
+worden ist, in der jeweils geltenden Fassung erfüllt.
+
+(7) Die vollständige Steuerentlastung nach Absatz 6 wird nur gewährt
+bis zur vollständigen Absetzung für die Abnutzung der
+Hauptbestandteile der Anlage entsprechend den Vorgaben des § 7 des
+Einkommensteuergesetzes. Hauptbestandteile der Anlage sind Gasturbine,
+Motor, Dampferzeuger, Dampfturbine, Generator und Steuerung. Werden
+Hauptbestandteile der Anlage durch neue Hauptbestandteile ersetzt,
+wird die Steuerentlastung bis zur vollständigen Absetzung für
+Abnutzung der neu eingefügten Hauptbestandteile gewährt, sofern die
+Kosten für die Erneuerung mindestens 50 Prozent der Kosten für die
+Neuerrichtung der Anlage betragen.
+
+(8) Die vollständige Steuerentlastung nach Absatz 6 erfolgt abzüglich
+der erhaltenen Investitionsbeihilfen. Solange die
+Investitionsbeihilfen den Steuerentlastungsbetrag nach § 53a erreichen
+oder übersteigen, wird die Steuerentlastung nicht gewährt. Der
+Entlastungsberechtigte nach Absatz 10 Satz 1 ist verpflichtet, dem
+zuständigen Hauptzollamt Angaben zu sämtlichen Investitionsbeihilfen
+zu machen, die ihm gewährt werden.
+
+(9) Die teilweise Steuerentlastung nach den Absätzen 1 und 3 wird nur
+für den Monat oder das Jahr gewährt, in dem der Nutzungsgrad von
+mindestens 70 Prozent nachweislich erreicht wurde. Die vollständige
+Steuerentlastung nach Absatz 6 wird nur für den Monat oder das Jahr
+gewährt, in dem die in den Absätzen 6 und 7 genannten Voraussetzungen
+nachweislich erfüllt wurden.
+
+(10) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
+zur gekoppelten Erzeugung von Kraft und Wärme verwendet hat. Verwender
+im Sinn des Satzes 1 ist nur diejenige Person, die die
+Energieerzeugnisse in einer KWK-Anlage zum Betrieb der Anlage
+einsetzt.
+
+(11) Die teilweise Steuerentlastung nach den Absätzen 1, 3 und 4 wird
+gewährt nach Maßgabe und bis zum Auslaufen der hierfür erforderlichen
 Freistellungsanzeige bei der Europäischen Kommission nach der
-Verordnung (EG) Nr. 800/2008. Das Auslaufen der Freistellungsanzeige
-wird vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert
-bekannt gegeben.
+Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige
+ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert
+bekannt zu geben.
+
+(12) Die vollständige Steuerentlastung nach Absatz 6 wird gewährt nach
+Maßgabe und bis zum Auslaufen der hierfür erforderlichen
+beihilferechtlichen Genehmigung der Europäischen Kommission. Das
+Auslaufen der Genehmigung ist vom Bundesministerium der Finanzen im
+Bundesgesetzblatt gesondert bekannt zu geben.
+
+
+### § 53b (weggefallen)
+
 
 
 ### § 54 Steuerentlastung für Unternehmen
@@ -3203,6 +3474,12 @@ Euro übersteigt.
 
 (4) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
 verwendet hat.
+
+(5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum
+Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der
+Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das
+Auslaufen der Freistellungsanzeige ist vom Bundesministerium der
+Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 55 Steuerentlastung für Unternehmen in Sonderfällen
@@ -3285,9 +3562,11 @@ vermindert um 750 Euro.
         1221/2009 des Europäischen Parlaments und des Rates vom 25. November
         2009 über die freiwillige Teilnahme von Organisationen an einem
         Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und
-        zur Aufhebung der Verordnung (EG) Nr. 61/2001, sowie der Beschlüsse
-        der Kommission 2001/691/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009,
-        S. 1) ist, und
+        zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse
+        der Kommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009,
+        S. 1), die durch die Verordnung (EG) Nr. 517/2013 (ABl. L 158 vom
+        10\.6.2013, S. 1) geändert worden sind, in der jeweils geltenden
+        Fassung, ist, und
 
 
 
@@ -3410,15 +3689,10 @@ den Unternehmen zu erbringen durch
 
 (9) Die Steuerentlastung nach den Absätzen 1 und 2 wird gewährt nach
 Maßgabe und bis zum Auslaufen der hierfür erforderlichen
-beihilferechtlichen Genehmigung der Europäischen Kommission oder der
-hierfür erforderlichen Freistellungsanzeige bei der Europäischen
-Kommission nach der Verordnung (EG) Nr. 800/2008 der Kommission vom 6.
-August 2008 zur Erklärung der Vereinbarkeit bestimmter Gruppen von
-Beihilfen mit dem Gemeinsamen Markt in Anwendung der Artikel 87 und 88
-EG-Vertrag (allgemeine Gruppenfreistellungsverordnung; ABl. L 214 vom
-9\.8.2008, S. 3) in der jeweils geltenden Fassung. Das Auslaufen der
-Genehmigung oder der Freistellungsanzeige wird vom Bundesministerium
-der Finanzen im Bundesgesetzblatt gesondert bekannt gegeben.
+Freistellungsanzeige bei der Europäischen Kommission nach der
+Verordnung (EU) Nr. 651/2014. Das Auslaufen der Freistellungsanzeige
+ist vom Bundesministerium der Finanzen im Bundesgesetzblatt gesondert
+bekannt zu geben.
 
 (10) Entlastungsberechtigt ist das Unternehmen des Produzierenden
 Gewerbes, das die Energieerzeugnisse verwendet hat.
@@ -3453,46 +3727,160 @@ Nr. 1, 4 oder Abs. 2 versteuert worden sind und die
 verwendet worden sind, wenn in der Mehrzahl der Beförderungsfälle
 eines Verkehrsmittels die gesamte Reiseweite 50 Kilometer oder die
 gesamte Reisezeit eine Stunde nicht übersteigt. Satz 1 gilt nicht für
-die Steuer nach § 21. Satz 1 gilt nicht, soweit für die
-Energieerzeugnisse eine vollständige Steuerentlastung nach § 50
-gewährt wird. Die Steuerentlastung wird nur für Energieerzeugnisse
-oder den Anteil der Energieerzeugnisse nach Satz 1 gewährt, die im
-Steuergebiet nach § 1 Absatz 1 Satz 2 verwendet worden sind.
+die Steuer nach § 21. Die Steuerentlastung wird nur für
+Energieerzeugnisse oder den Anteil der Energieerzeugnisse nach Satz 1
+gewährt, die im Steuergebiet nach § 1 Absatz 1 Satz 2 verwendet worden
+sind.
 
 (2) Die Steuerentlastung beträgt
 
-*    *   1.
+1.
+    *        *   für 1 000 Liter Benzine nach § 2
+            Absatz 1 Nummer 1 oder für
+            1 000 Liter Gasöle nach § 2
+            Absatz 1 Nummer 4
 
-    *   für 1 000 l Benzine nach § 2 Abs. 1 Nr. 1 oder 1 000 l Gasöle nach § 2
-        Abs. 1 Nr. 4
-
-    *   54,02 EUR,
-
-
-*    *   2.
-
-    *   für 1 000 kg Flüssiggase nach § 2 Abs. 2 Nr. 2 bis zum 31. Dezember
-        2018
-
-    *   13,37 EUR,
-
-
-*    *   3.
-
-    *   für 1 MWh Erdgas oder 1 MWh gasförmige Kohlenwasserstoffe nach § 2
-        Abs. 2 Nr. 1 bis zum 31. Dezember 2018
-
-    *   1,00 EUR.
+        *   54,02 EUR,
 
 
 
-Satz 1 gilt für Energieerzeugnisse nach § 2 Abs. 4 sinngemäß.
+
+
+2.  für 1 000 kg Flüssiggase nach
+    § 2 Absatz 2 Nummer 2
+
+    a)
+        *            *   bis zum 31. Dezember 2018
+
+            *   13,37 EUR,
+
+
+
+
+
+    b)
+        *            *   vom 1. Januar 2019 bis zum
+                31\. Dezember 2019
+
+            *   16,77 EUR,
+
+
+
+
+
+    c)
+        *            *   vom 1. Januar 2020 bis zum
+                31\. Dezember 2020
+
+            *   20,17 EUR,
+
+
+
+
+
+    d)
+        *            *   vom 1. Januar 2021 bis zum
+                31\. Dezember 2021
+
+            *   23,56 EUR,
+
+
+
+
+
+    e)
+        *            *   vom 1. Januar 2022 bis zum
+                31\. Dezember 2022
+
+            *   27,00 EUR,
+
+
+
+
+
+
+    für 1 000 kg Flüssiggase nach § 2 Absatz 1 Nummer 8 Buchstabe a
+
+    f)
+        *            *   ab dem 1. Januar 2023
+
+            *   30,33 EUR,
+
+
+
+
+
+
+
+
+3.  für 1 Megawattstunde Erdgas oder 1 Megawattstunde gasförmige
+    Kohlenwasserstoffe nach § 2 Absatz 2 Nummer 1
+
+    a)
+        *            *   bis zum 31. Dezember 2023
+
+            *   1,00 EUR,
+
+
+
+
+
+    b)
+        *            *   vom 1. Januar 2024 bis zum
+                31\. Dezember 2024
+
+            *   1,32 EUR,
+
+
+
+
+
+    c)
+        *            *   vom 1. Januar 2025 bis zum
+                31\. Dezember 2025
+
+            *   1,64 EUR,
+
+
+
+
+
+    d)
+        *            *   vom 1. Januar 2026 bis zum
+                31\. Dezember 2026
+
+            *   1,97 EUR,
+
+
+
+
+
+    e)
+        *            *   ab dem 1. Januar 2027
+
+            *   2,36 EUR.
+
+
+
+
+
+
+    Satz 1 gilt für Energieerzeugnisse nach § 2 Absatz 4 sinngemäß.
+
+
+
 
 (3) Ein Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag
 nach Absatz 2 mindestens 50 Euro im Kalenderjahr beträgt.
 
 (4) Entlastungsberechtigt ist derjenige, der die Energieerzeugnisse
 verwendet hat.
+
+(5) Die Steuerentlastung wird gewährt nach Maßgabe und bis zum
+Auslaufen der hierfür erforderlichen Freistellungsanzeige bei der
+Europäischen Kommission nach der Verordnung (EU) Nr. 651/2014. Das
+Auslaufen der Freistellungsanzeige ist vom Bundesministerium der
+Finanzen im Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 57 Steuerentlastung für Betriebe der Land- und Forstwirtschaft
@@ -3514,16 +3902,11 @@ der Land- und Forstwirtschaft zum Betrieb von
 bei der Ausführung von Arbeiten zur Gewinnung pflanzlicher oder
 tierischer Erzeugnisse durch Bodenbewirtschaftung oder durch mit
 Bodenbewirtschaftung verbundene Tierhaltung verwendet worden sind.
-Soweit die Energieerzeugnisse für die Ausführung forstwirtschaftlicher
-Arbeiten verwendet worden sind, wird eine Steuerentlastung gewährt,
-wenn und soweit sie unter den Voraussetzungen der Verordnung (EG) Nr.
-1998/2006 der Kommission vom 15. Dezember 2006 über die Anwendung der
-Artikel 87 und 88 EG-Vertrag auf „De-minimis“-Beihilfen (ABl. L 379
-vom 28.12.2006, S. 5) zulässig ist. Eine Steuerentlastung wird
-abweichend von Satz 1 ebenfalls gewährt, wenn Gasöle in Betrieben der
-Imkerei zum Betrieb auch anderer als der dort aufgeführten Fahrzeuge
-verwendet worden sind. Eine Steuerentlastung wird jährlich für
-höchstens 15 Liter Gasöl je Bienenvolk gewährt.
+Eine Steuerentlastung wird abweichend von Satz 1 ebenfalls gewährt,
+wenn Gasöle in Betrieben der Imkerei zum Betrieb auch anderer als der
+dort aufgeführten Fahrzeuge verwendet worden sind. Eine
+Steuerentlastung wird jährlich für höchstens 15 Liter Gasöl je
+Bienenvolk gewährt.
 
 (2) Betriebe der Land- und Forstwirtschaft im Sinne des Absatzes 1
 sind
@@ -3632,7 +4015,10 @@ Bodenbewirtschaftung verbundene Tierhaltung gelten auch
 *    *
     *   a)
 
-    *   nach § 50 Absatz 3 Satz 3 Nummer 1
+    *   nach § 50 Absatz 3 Satz 4 Nummer 1 des Energiesteuergesetzes in der
+        Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das
+        zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S.
+        420) geändert worden ist
 
     *
 
@@ -3692,7 +4078,10 @@ Bodenbewirtschaftung verbundene Tierhaltung gelten auch
 *    *
     *   b)
 
-    *   nach § 50 Absatz 3 Satz 3 Nummer 2
+    *   nach § 50 Absatz 3 Satz 4 Nummer 2 des Energiesteuergesetzes in der
+        Fassung vom 15. Juli 2006 (BGBl. I S. 1534; 2008 I S. 660, 1007), das
+        zuletzt durch Artikel 9 des Gesetzes vom 10. März 2017 (BGBl. I S.
+        420) geändert worden ist
 
     *
 
@@ -3757,7 +4146,7 @@ Nomenklatur.
 (6) (weggefallen)
 
 (7) Eine Steuerentlastung wird nur gewährt, wenn der Entlastungsbetrag
-nach den Absätzen 5 und 6 mindestens 50 Euro im Kalenderjahr beträgt.
+nach den Absatz 5 mindestens 50 Euro im Kalenderjahr beträgt.
 
 (8) Entlastungsberechtigt ist
 
@@ -3775,6 +4164,13 @@ nach den Absätzen 5 und 6 mindestens 50 Euro im Kalenderjahr beträgt.
 
 
 
+
+(9) Die festgelegte Steuerentlastung nach Absatz 5 Nummer 1 wird
+angewendet nach Maßgabe und bis zum Auslaufen der hierfür
+erforderlichen Freistellungsanzeige bei der Europäischen Kommission
+nach der Verordnung (EU) Nr. 651/2014. Das Auslaufen der
+Freistellungsanzeige ist vom Bundesministerium der Finanzen im
+Bundesgesetzblatt gesondert bekannt zu geben.
 
 
 ### § 58 (weggefallen)
@@ -3799,9 +4195,10 @@ haben.
     Mitglieder, Konsularbeamte, Mitglieder ihres Verwaltungs- und
     technischen Personals und ihr dienstliches Hauspersonal sowie die
     Familienmitglieder dieser Personen. Familienmitglieder im Sinne dieser
-    Bestimmung sind der Ehegatte, die unverheirateten Kinder und die
-    Eltern, wenn sie von diesen Personen wirtschaftlich abhängig sind und
-    in ihrem Haushalt leben.
+    Bestimmung sind der Ehegatte oder der Lebenspartner, die
+    unverheirateten oder die nicht in einer Lebenspartnerschaft lebenden
+    Kinder und die Eltern, wenn sie von diesen Personen wirtschaftlich
+    abhängig sind und in ihrem Haushalt leben.
 
 
 
@@ -4023,8 +4420,8 @@ des Bundesrates
     nicht ergeben,
 
 
-2.  im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-    Reaktorsicherheit zu regeln, dass die Hauptzollämter im
+2.  im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+    und Reaktorsicherheit zu regeln, dass die Hauptzollämter im
     Verwaltungswege eine Steuerbegünstigung oder eine Steuerentlastung für
     Energieerzeugnisse gewähren können, die bei Pilotprojekten zur
     technologischen Entwicklung umweltverträglicherer Produkte oder in
@@ -4034,7 +4431,7 @@ des Bundesrates
 3.  zur Verfahrensvereinfachung, zur Vermeidung unangemessener
     wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit
     der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 1 bis
-    3a zu erlassen und dabei insbesondere
+    3b zu erlassen und dabei insbesondere
 
     a)  die Begriffe der §§ 1 bis 2 näher zu bestimmen sowie Bestimmungen zu
         den in § 1a genannten Bemessungsgrundlagen zu erlassen,
@@ -4057,6 +4454,13 @@ des Bundesrates
         genannten Voraussetzungen aufzuerlegen,
 
 
+    e)  die Begriffe des § 3b näher zu bestimmen und für die
+        Mitteilungspflichten die Form, den Inhalt, den Umfang und die Art und
+        Weise der Übermittlung festzulegen sowie besondere Bestimmungen,
+        einschließlich der Fristen, innerhalb derer die Angaben zu machen
+        sind, zu erlassen,
+
+
 
 
 
@@ -4065,7 +4469,11 @@ des Bundesrates
     der Besteuerung und des Steueraufkommens Bestimmungen zu den §§ 4 bis
     9 zu erlassen und dabei insbesondere
 
-    a)  das Erlaubnis- und das Steuerlagerverfahren näher zu regeln,
+    a)  das Erlaubnis- und das Steuerlagerverfahren näher zu regeln, eine
+        Mindestumschlagsmenge und eine Mindestlagerdauer vorzusehen und bei
+        Gefährdung der Steuerbelange eine Sicherheit bis zur Höhe des
+        Steuerwerts des tatsächlichen Steuerlagerbestands zu verlangen oder
+        das Steuerlager unter amtlichen Verschluss zu nehmen,
 
 
     b)  die Lager- und Herstellungshandlungen näher zu umschreiben sowie zu
@@ -4122,6 +4530,14 @@ des Bundesrates
         den Betrieb aufzunehmen,
 
 
+    f)  das Zulassungsverfahren nach § 14 Absatz 7 Satz 3 und 4 näher zu
+        regeln und dabei insbesondere vorzusehen, dass die Vereinfachung nur
+        zuzulassen ist, wenn der Steuerschuldner eine verbindliche Erklärung
+        darüber abgibt, auf welchen Steuerbetrag je Beförderungsvorgang der
+        Antrag auf Abgabe einer Steueranmeldung entsprechend § 8 Absatz 3 bis
+        6 beschränkt ist,
+
+
 
 
 
@@ -4141,6 +4557,16 @@ des Bundesrates
 
 
     d)  die Anwendung der Zollvorschriften (§ 19b Absatz 3) näher zu regeln,
+
+
+    e)  zur Durchführung von Artikel 35 der Systemrichtlinie das Verfahren der
+        Beförderung von Erzeugnissen des steuerrechtlich freien Verkehrs durch
+        einen anderen Mitgliedstaat unter Verwendung des Begleitdokuments nach
+        Artikel 34 der Systemrichtlinie und nach den dazu ergangenen
+        Verordnungen in den jeweils geltenden Fassungen näher zu regeln und
+        vorzusehen, dass durch bilaterale Vereinbarungen mit den jeweiligen
+        Mitgliedstaaten ein vom Regelverfahren abweichendes vereinfachtes
+        Verfahren zugelassen werden kann,
 
 
 
@@ -4314,15 +4740,13 @@ des Bundesrates
         Voraussetzungen aufzuerlegen,
 
 
-    e)  im Einvernehmen mit dem Bundesministerium für Ernährung,
-        Landwirtschaft und Verbraucherschutz zu § 57 Näheres zur Art der
-        begünstigten Arbeiten, der Fahrzeuge und Maschinen und zur Abgrenzung
-        des Kreises der Berechtigten zu regeln,
+    e)  im Einvernehmen mit dem Bundesministerium für Ernährung und
+        Landwirtschaft zu § 57 Näheres zur Art der begünstigten Arbeiten, der
+        Fahrzeuge und Maschinen und zur Abgrenzung des Kreises der
+        Berechtigten zu regeln,
 
 
-    f)  abweichend von § 59 Absatz 1 zu bestimmen, dass die Steuerentlastung
-        dem Lieferer der Energieerzeugnisse gewährt wird, sowie das dafür
-        erforderliche Verfahren zu regeln,
+    f)  (weggefallen)
 
 
     g)  Näheres zur Ermittlung der Hocheffizienzkriterien,
@@ -4333,61 +4757,16 @@ des Bundesrates
         Voraussetzungen aufzuerlegen,
 
 
-    h)  Näheres zur Berechnung und zum Nachweis des Nutzungsgrads und zu den
-        Hauptbestandteilen der Kraft-Wärme-Kopplungsanlage sowie zum
-        betrieblichen Verheizen (§ 53b) zu bestimmen und den am Betrieb von
-        solchen Anlagen Beteiligten Pflichten zum Nachweis der dort genannten
-        Voraussetzungen aufzuerlegen,
+    h)  (weggefallen)
 
 
 
 
 
-11a. im Einvernehmen mit dem Bundesministerium für Ernährung,
-    Landwirtschaft und Verbraucherschutz, dem Bundesministerium für
-    Umwelt, Naturschutz und Reaktorsicherheit, dem Bundesministerium für
-    Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für
-    Wirtschaft und Technologie Bestimmungen zu § 50 zu erlassen und dabei
-
-    a)  vorzuschreiben, dass für Biokraftstoffe eine Entlastung nach § 50 nur
-        dann in Anspruch genommen werden kann, wenn bei der Erzeugung der
-        eingesetzten Biomasse nachweislich bestimmte ökologische und soziale
-        Anforderungen an eine nachhaltige Produktion der Biomasse sowie zum
-        Schutz natürlicher Lebensräume erfüllt werden und wenn der
-        Biokraftstoff eine bestimmte Treibhausgasminderung aufweist,
+11a. (weggefallen)
 
 
-    b)  die Anforderungen im Sinne des Buchstaben a festzulegen,
-
-
-    c)  unter Berücksichtigung der technischen Entwicklung auch in Abweichung
-        von § 1a Satz 1 Nummer 13a Energieerzeugnisse als Biokraftstoffe zu
-        bestimmen oder in Abweichung von § 1a Satz 1 Nummer 13a festzulegen,
-        dass bestimmte Energieerzeugnisse nicht oder nicht mehr in vollem
-        Umfang als Biokraftstoffe gelten,
-
-
-    d)  die besonders förderungswürdigen Biokraftstoffe nach § 50 Absatz 4
-        näher zu bestimmen,
-
-
-    e)  auch in Abweichung von § 50 Absatz 4 andere als die dort genannten
-        Energieerzeugnisse als besonders förderungswürdige Biokraftstoffe zu
-        bestimmen, sofern sie ein hohes
-        CO2-Verminderungspotenzial aufweisen und bei ihrer Herstellung auf
-        eine breitere biogene Rohstoffgrundlage zurückgegriffen werden kann
-        als bei herkömmlichen Biokraftstoffen,
-
-
-
-
-
-11b. im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-    Reaktorsicherheit nähere Bestimmungen zur Durchführung des § 50 sowie
-    der auf Nummer 11a beruhenden Rechtsverordnungen zu erlassen und dabei
-    insbesondere die erforderlichen Nachweise und die Überwachung der
-    Einhaltung der Anforderungen an Biokraftstoffe sowie die hierfür
-    erforderlichen Probenahmen näher zu regeln,
+11b. (weggefallen)
 
 
 12. zur Sicherung der Gleichmäßigkeit der Besteuerung und des
@@ -4468,6 +4847,36 @@ des Bundesrates
     erstattet oder vergütet wird,
 
 
+18a. zur Verfahrensvereinfachung, zur Vermeidung unangemessener
+    wirtschaftlicher Belastungen sowie zur Sicherung der Gleichmäßigkeit
+    der Besteuerung und des Steueraufkommens Bestimmungen in Bezug auf die
+    steuerliche Begünstigung internationaler Einrichtungen und derer
+    Mitglieder zu erlassen und dabei insbesondere
+
+    a)  die Voraussetzungen für die Gewährung einer Steuerbefreiung
+        einschließlich der Begriffe näher zu bestimmen, das Verfahren der
+        Steuerbefreiung zu regeln und Pflichten für die Abgabe, den Bezug und
+        die Verwendung der Energieerzeugnisse vorzusehen,
+
+
+    b)  die Voraussetzungen für die Gewährung einer Steuerentlastung
+        einschließlich der Begriffe näher zu bestimmen, das Verfahren der
+        Steuerentlastung zu regeln und Vorschriften über die zum Zweck der
+        Steuerentlastung erforderlichen Angaben und Nachweise einschließlich
+        ihrer Aufbewahrung zu erlassen und zu bestimmen, dass der Anspruch auf
+        Steuerentlastung innerhalb bestimmter Fristen geltend zu machen ist,
+
+
+    c)  vorzusehen, dass bei Abgabe der Energieerzeugnisse an Nichtbegünstigte
+        eine Steuer nach § 2 entsteht, und das dafür erforderliche Verfahren
+        einschließlich des Verfahrens der Steuererhebung zu regeln und zu
+        bestimmen, dass die Steueranmeldung innerhalb bestimmter Fristen
+        abzugeben ist,
+
+
+
+
+
 19. im Fall der Einfuhr Steuerfreiheit für Energieerzeugnisse, soweit
     dadurch nicht unangemessene Steuervorteile entstehen, unter den
     Voraussetzungen anzuordnen, unter denen sie nach der Verordnung (EG)
@@ -4481,17 +4890,34 @@ des Bundesrates
     Steuer entsteht,
 
 
-20. zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+20. im Benehmen mit dem Bundesministerium des Innern alternativ zur
+    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren
+    zuzulassen, das den Datenübermittler authentifiziert und die
+    Vertraulichkeit und Integrität des elektronisch übermittelten
+    Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung
+    gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von
+    der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens
+    vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung
+    auch durch Verweis auf Veröffentlichungen sachverständiger Stellen
+    geregelt werden,
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+20a. zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise, sonstige für das Verfahren
+    erforderliche Daten oder zur Erfüllung unionsrechtlicher
+    Veröffentlichungs-, Informations- und Transparenzvorschriften nach
+    Nummer 21 erforderliche Daten ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  das Nähere über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -4500,35 +4926,73 @@ des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist.
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden,
+
+
+21. zur Umsetzung der sich aus Durchführungsverordnungen des Rates auf
+    Grund von Artikel 109 des Vertrags über die Arbeitsweise der
+    Europäischen Union, Verordnungen der Kommission auf Grund von Artikel
+    108 Absatz 4 des Vertrags über die Arbeitsweise der Europäischen Union
+    sowie Beschlüssen, Rahmen, Leitlinien oder Mitteilungen der Kommission
+    zu den Artikeln 107 bis 109 des Vertrags über die Arbeitsweise der
+    Europäischen Union ergebenden unionsrechtlichen Veröffentlichungs-,
+    Informations- und Transparenzverpflichtungen für die Gewährung
+    staatlicher Beihilfen ergänzende Bestimmungen zu erlassen und dabei
+    Folgendes zu regeln:
+
+    a)  die Meldepflichten einschließlich des Verfahrens zur Erhebung der
+        erforderlichen Informationen bei den Begünstigten zu bestimmen,
+
+
+    b)  den Begünstigten Pflichten zum Nachweis der beihilferechtlichen
+        Voraussetzungen aufzuerlegen,
+
+
+    c)  die Art und Weise der Übermittlung der nach den Buchstaben a und b zu
+        übermittelnden Daten zu regeln,
+
+
+    d)  das Nähere über Form, Inhalt, Umfang, Verarbeitung, Nutzung und
+        Sicherung der nach den Buchstaben a und b zu übermittelnden Daten zu
+        bestimmen,
+
+
+    e)  die Weitergabe und Veröffentlichung der nach den Buchstaben a und b zu
+        übermittelnden Daten vorzusehen,
+
+
+    f)  die Zuständigkeit für die Entgegennahme, Verarbeitung, Nutzung und
+        Weitergabe der nach den Buchstaben a und b zu übermittelnden Daten zu
+        regeln,
+
+
+    g)  die Einhaltung der in den ergänzenden Bestimmungen normierten
+        Verpflichtungen im Wege der Steueraufsicht sicherzustellen und zu
+        regeln. Die für die Steueraufsicht geltenden Vorschriften der
+        Abgabenordnung finden entsprechende Anwendung.
+
+
+
 
 
 
@@ -4582,30 +5046,15 @@ Verwaltungsvorschriften zur Durchführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen.
 
 
-### § 66a Gebühren und Auslagen; Verordnungsermächtigung
+### § 66a (weggefallen)
 
-(1) Für Amtshandlungen, die auf Rechtsverordnungen auf der Grundlage
-des § 66 Abs. 1 Nr. 11a Buchstabe a beruhen und die in Zusammenhang
-mit der Anerkennung von Systemen oder mit der Anerkennung und
-Überwachung einer unabhängigen Kontrollstelle stehen, werden zur
-Deckung des Verwaltungsaufwands Gebühren und Auslagen erhoben.
-
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
-Gebührensätze zu bestimmen und dabei feste Sätze, auch in Form von
-Zeitgebühren oder Rahmensätzen, vorzusehen. In der Rechtsverordnung
-kann die Erstattung von Auslagen auch abweichend vom
-Verwaltungskostengesetz geregelt werden.
 
 
 ### § 66b Ermächtigung zu § 55 Absatz 4, 5 und 8
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 durch Rechtsverordnung ohne Zustimmung des Bundesrates durch das
 Bundesamt für Wirtschaft und Ausfuhrkontrolle, die nationale
 Akkreditierungsstelle und die Zulassungsstelle nach § 28 des
@@ -4660,73 +5109,53 @@ und 8 zu erlassen.
 
 
 
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+zur Durchführung dieses Gesetzes und der Verordnung nach Absatz 1
+durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen,
+dass Erkenntnisse und Informationen, die sich auf die Gültigkeit von
+Nachweisen nach § 55 Absatz 4, 5 und 8 auswirken können, übermittelt
+werden können, und dabei Folgendes zu regeln:
 
-### § 67 Anwendungsvorschriften
-
-(1) Eine Steuerentlastung wird auf Antrag gewährt für Erdgas, das
-nachweislich nach § 3 Abs. 1 Nr. 2 oder § 3 Abs. 2 Nr. 3 Buchstabe a
-des Mineralölsteuergesetzes in der am 31. Juli 2006 geltenden Fassung
-versteuert wurde und sich am 1. August 2006, 0 Uhr, im Leitungsnetz
-befindet. Der Steuerentlastungsanspruch entsteht am 1. August 2006.
-Entlastungsberechtigt ist, wer in diesem Zeitpunkt Eigentümer des
-Erdgases ist. Der Entlastungsberechtigte hat die Steuerentlastung mit
-einer Anmeldung nach amtlich vorgeschriebenem Vordruck zu beantragen
-und in ihr alle für die Bemessung der Entlastung erforderlichen
-Angaben zu machen sowie die Höhe der Entlastung darin selbst zu
-berechnen.
-
-(2) Für Anlagen nach § 3 Abs. 1 Satz 1 Nr. 2, die erstmalig vor dem 1.
-August 2006 in Betrieb genommen worden sind, gilt § 3 Abs. 4 und für
-Kohlebetriebe, die vor dem 1. August 2006 eröffnet worden sind, gilt §
-31 Abs. 3 sinngemäß.
-
-(3) Nach § 6 Abs. 2, § 7 Abs. 2, § 7a Abs. 2 und § 15 Abs. 3 des
-Mineralölsteuergesetzes in der am 31. Juli 2006 geltenden Fassung
-erteilte Erlaubnisse gelten bis zum 31. Dezember 2006 als nach § 6
-Abs. 3, § 7 Abs. 2 oder Abs. 4 oder § 11 Abs. 4 dieses Gesetzes
-erteilte Erlaubnisse fort.
-
-(4) Nach § 12 des Mineralölsteuergesetzes in der am 31. Juli 2006
-geltenden Fassung erteilte Erlaubnisse gelten bis zum 31. Dezember
-2006 als nach § 24 Abs. 2 oder § 44 Abs. 1 dieses Gesetzes erteilte
-Erlaubnisse mit der Maßgabe fort, dass die §§ 30 und 44 Abs. 4
-anzuwenden sind, wenn die Energieerzeugnisse für andere als die in den
-§§ 24 bis 29 und 44 Abs. 2 genannten steuerfreien Zwecke verwendet
-werden.
-
-(5) Abweichend von § 27 Abs. 1 Satz 2 dürfen Energieerzeugnisse der
-Unterpositionen 2710 19 41 bis 2710 19 49 der Kombinierten Nomenklatur
-bis zum 30. April 2007 auch nicht gekennzeichnet steuerfrei zu den in
-§ 27 Abs. 1 Satz 1 genannten Zwecken abgegeben oder verwendet werden.
-
-(6) Bis zum 31. Oktober 2006 sind der unversteuerte Bezug von Kohle
-nach § 31 Abs. 4 und die steuerfreie Verwendung von Kohle nach § 37
-Abs. 2 Nr. 2, 3 und 4 allgemein erlaubt.
-
-(7) Abweichend von § 32 Abs. 1 und § 36 Abs. 1 entsteht keine Steuer
-für am 1. August 2006, 0 Uhr, vorhandene Bestände an Kohle im
-unmittelbaren Besitz von Personen, wenn der Bestand 100 Tonnen nicht
-übersteigt.
-
-(8) Soweit im Kalenderjahr 2007 ein Steuerentlastungsanspruch nach §
-55 für Schweröle nach § 2 Absatz 3 Satz 1 Nummer 1 oder Nummer 3
-entstanden ist, beginnt die Festsetzungsfrist für diesen Anspruch mit
-Ablauf des 31. Dezember 2008. Antragsfristen in einer auf Grund des §
-66 Absatz 1 Nummer 11 Buchstabe b ergangenen Verordnung sind insoweit
-nicht anwendbar.
-
-(9) Für Beförderungen unter Steueraussetzung, die vor dem 1. Januar
-2011 begonnen worden sind, gelten dieses Gesetz und die Energiesteuer-
-Durchführungsverordnung in der jeweils am 31. März 2010 geltenden
-Fassung fort, es sei denn, die Beförderungen sind mit einem
-elektronischen Verwaltungsdokument (§ 9d Absatz 1) eröffnet worden.
-
-(10) § 55 in der am 31. Dezember 2012 geltenden Fassung gilt fort für
-Energieerzeugnisse, die bis zum 31. Dezember 2012 verwendet worden
-sind.
+1.  die Art der zu übermittelnden Erkenntnisse und Informationen,
 
 
-### Anlage (zu § 55) Zielwerte für die zu erreichende Reduzierung der Energieintensität
+2.  die Voraussetzungen für die Übermittlung der Erkenntnisse und
+    Informationen,
+
+
+3.  die Art und Weise der Übermittlung der Erkenntnisse und Informationen,
+
+
+4.  die Zuständigkeit für die Entgegennahme der zu übermittelnden
+    Erkenntnisse und Informationen.
+
+
+
+
+
+### § 66c Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig einer
+Rechtsverordnung nach § 66 Absatz 1 Nummer 21 Buchstabe a bis c oder d
+oder einer vollziehbaren Anordnung auf Grund einer solchen
+Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
+bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu fünftausend
+Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinn des § 36 Absatz 1 Nummer 1 des Gesetzes
+über Ordnungswidrigkeiten ist das Hauptzollamt.
+
+
+### § 67 (weggefallen)
+
+
+(zu § 55)
+
+### Anlage Zielwerte für die zu erreichende Reduzierung der Energieintensität
 
 (Fundstelle: BGBl. I 2012, 2441 - 2442)
 

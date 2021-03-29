@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3448
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.7.2006 I 1530
+:   Art. 1 G v. 31.7.2016 I 1937
 
 
 ## § 1 Zweck des Gesetzes
@@ -39,8 +39,10 @@ die Existenz einer großen Zahl von Verkaufsstellen fördert.
 
 
 3.  Produkte, die Bücher, Musiknoten oder kartographische Produkte
-    reproduzieren oder substituieren und bei Würdigung der Gesamtumstände
-    als überwiegend verlags- oder buchhandelstypisch anzusehen sind sowie
+    reproduzieren oder substituieren, wie zum Beispiel zum dauerhaften
+    Zugriff angebotene elektronische Bücher, und bei Würdigung der
+    Gesamtumstände als überwiegend verlags- oder buchhandelstypisch
+    anzusehen sind sowie
 
 
 4.  kombinierte Objekte, bei denen eines der genannten Erzeugnisse die
@@ -58,28 +60,21 @@ Zwecken als dem Weiterverkauf erwirbt.
 
 ## § 3 Preisbindung
 
-Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer verkauft,
-muss den nach § 5 festgesetzten Preis einhalten. Dies gilt nicht für
-den Verkauf gebrauchter Bücher.
+Wer gewerbs- oder geschäftsmäßig Bücher an Letztabnehmer in
+Deutschland verkauft, muss den nach § 5 festgesetzten Preis einhalten.
+Dies gilt nicht für den Verkauf gebrauchter Bücher.
 
 
-## § 4 Grenzüberschreitende Verkäufe
+## § 4 (weggefallen)
 
-(1) Die Preisbindung gilt nicht für grenzüberschreitende Verkäufe
-innerhalb des Europäischen Wirtschaftsraumes.
-
-(2) Der nach § 5 festgesetzte Endpreis ist auf grenzüberschreitende
-Verkäufe von Büchern innerhalb des Europäischen Wirtschaftsraumes
-anzuwenden, wenn sich aus objektiven Umständen ergibt, dass die
-betreffenden Bücher allein zum Zwecke ihrer Wiedereinfuhr ausgeführt
-worden sind, um dieses Gesetz zu umgehen.
 
 
 ## § 5 Preisfestsetzung
 
-(1) Wer Bücher verlegt oder importiert, ist verpflichtet, einen Preis
-einschließlich Umsatzsteuer (Endpreis) für die Ausgabe eines Buches
-für den Verkauf an Letztabnehmer festzusetzen und in geeigneter Weise
+(1) Wer Bücher für den Verkauf an Letztabnehmer in Deutschland verlegt
+oder importiert, ist verpflichtet, einen Preis einschließlich
+Umsatzsteuer (Endpreis) für die Ausgabe eines Buches für den Verkauf
+an Letztabnehmer in Deutschland festzusetzen und in geeigneter Weise
 zu veröffentlichen. Entsprechendes gilt für Änderungen des Endpreises.
 
 (2) Wer Bücher importiert, darf zur Festsetzung des Endpreises den vom
@@ -344,11 +339,4 @@ Vorschriften dieses Gesetzes beziehen.
 (2) Liegt eine Zuwiderhandlung vor, kann der Gewerbetreibende von dem
 zuwiderhandelnden Unternehmen die Erstattung der notwendigen Kosten
 der Buchprüfung verlangen.
-
-
-## § 11 Übergangsvorschrift
-
-Von Verlegern oder Importeuren vertraglich festgesetzte Endpreise für
-Bücher, die zum 1. Oktober 2002 in Verkehr gebracht waren, gelten als
-Preise im Sinne von § 5 Abs. 1.
 

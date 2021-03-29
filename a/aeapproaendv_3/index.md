@@ -2,7 +2,7 @@
 Title: Dritte Verordnung zur Änderung der Approbationsordnung für Ärzte
 jurabk: ÄApprOÄndV 3
 layout: default
-origslug: _appro_ndv_3
+origslug: aeapproaendv_3
 slug: aeapproaendv_3
 
 ---

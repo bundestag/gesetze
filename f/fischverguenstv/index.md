@@ -3,7 +3,7 @@ Title: Verordnung über die Gewährung von Vergünstigungen im Rahmen der gemein
   Marktorganisation für Fischereierzeugnisse
 jurabk: FischVergünstV
 layout: default
-origslug: fischverg_nstv
+origslug: fischverguenstv
 slug: fischverguenstv
 
 ---

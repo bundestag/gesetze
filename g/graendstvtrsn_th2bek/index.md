@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staa
   gemeinsamen Landesgrenze
 jurabk: GrÄndStVtrSN/TH2Bek
 layout: default
-origslug: gr_ndstvtrsn_th2bek
+origslug: graendstvtrsn_th2bek
 slug: graendstvtrsn_th2bek
 
 ---

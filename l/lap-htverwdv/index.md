@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2230
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 37 V v. 12.2.2009 I 320
+:   Art. 25 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -150,16 +150,19 @@ das Selbststudium ist zu fördern.
 
 #### § 4 Einstellungsbehörde
 
-Einstellungsbehörde ist das Bundesministerium für Verkehr, Bau- und
-Wohnungswesen. Es kann die Aufgabe auf ihm nachgeordnete Ober- und
-Mittelbehörden ganz oder teilweise übertragen. Der Einstellungsbehörde
-obliegen die Ausschreibung, die Durchführung des Auswahlverfahrens,
-die Einstellung, die Begleitung sowie die Unterstützung der
-Baureferendarinnen und Baureferendare; sie trifft die Entscheidungen
-über Verkürzung und Verlängerung des Vorbereitungsdienstes. Die
-Einstellungsbehörde ist die für die beamtenrechtlichen Entscheidungen
-zuständige Dienstbehörde, soweit diese Befugnisse nicht auf die
-Ausbildungsbehörde delegiert sind.
+Einstellungsbehörden sind das Bundesministerium für Verkehr und
+digitale Infrastruktur und das Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit für ihren jeweiligen Bereich.
+Sie können die Aufgaben auf ihnen nachgeordnete Ober- und
+Mittelbehörden ganz oder teilweise übertragen. Es kann die Aufgabe auf
+ihm nachgeordnete Ober- und Mittelbehörden ganz oder teilweise
+übertragen. Der Einstellungsbehörde obliegen die Ausschreibung, die
+Durchführung des Auswahlverfahrens, die Einstellung, die Begleitung
+sowie die Unterstützung der Baureferendarinnen und Baureferendare; sie
+trifft die Entscheidungen über Verkürzung und Verlängerung des
+Vorbereitungsdienstes. Die Einstellungsbehörde ist die für die
+beamtenrechtlichen Entscheidungen zuständige Dienstbehörde, soweit
+diese Befugnisse nicht auf die Ausbildungsbehörde delegiert sind.
 
 
 #### § 5 Einstellungsvoraussetzungen
@@ -332,8 +335,9 @@ weitere Unterlagen beizubringen:
     Nachweis der Staatsangehörigkeit,
 
 
-4.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+4.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 5.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
@@ -544,18 +548,18 @@ Baureferendare eine Übersicht über den Vorbereitungsdienst.
 (1) Über die Leistungen und den Befähigungsstand der
 Baureferendarinnen und Baureferendare wird während der Ausbildung für
 jedes Ausbildungsgebiet, dem sie nach dem Ausbildungsplan mindestens
-sechs Wochen zugewiesen werden, eine schriftliche Beurteilung ihrer
-Fähigkeiten und Kenntnisse sowie ihrer Leistungen und ihrer Führung
-unter Angabe der Art und Dauer der Beschäftigung abgegeben. Die
-Beurteilung muss erkennen lassen, ob das Ziel des
-Ausbildungsabschnittes erreicht ist. Besondere Fähigkeiten oder Mängel
-sind zu vermerken. Ausbildungszeiten unter sechs Wochen werden von der
-Ausbildungsstelle unter Angabe von Art und Dauer der Beschäftigung,
-und ob das Ziel des Ausbildungsabschnittes erreicht wurde, bestätigt.
+sechs Wochen zugewiesen werden, eine Beurteilung ihrer Fähigkeiten und
+Kenntnisse sowie ihrer Leistungen und ihrer Führung unter Angabe der
+Art und Dauer der Beschäftigung abgegeben. Die Beurteilung muss
+erkennen lassen, ob das Ziel des Ausbildungsabschnittes erreicht ist.
+Besondere Fähigkeiten oder Mängel sind zu vermerken. Ausbildungszeiten
+unter sechs Wochen werden von der Ausbildungsstelle unter Angabe von
+Art und Dauer der Beschäftigung, und ob das Ziel des
+Ausbildungsabschnittes erreicht wurde, bestätigt.
 
 (2) Die Beurteilung nach Absatz 1 ist den Baureferendarinnen und
 Baureferendaren zu eröffnen und mit ihnen zu besprechen. Sie erhalten
-eine Ausfertigung und können zu ihr schriftlich Stellung nehmen.
+eine Ausfertigung und können zu ihr Stellung nehmen.
 
 (3) Zum Abschluss der Ausbildung erstellt die Ausbildungsbehörde eine
 abschließende Beurteilung. In ihr werden die Beurteilungen nach Absatz
@@ -607,8 +611,8 @@ Bundesministeriums des Innern durchgeführt. Der
 Bundespersonalausschuss oder ein von ihm bestimmter unabhängiger
 Ausschuss stellt nach einer Vorstellung der Aufstiegsbeamtin oder des
 Aufstiegsbeamten fest, ob die Einführung erfolgreich abgeschlossen
-ist. Im Einzelfall kann das Bundesministerium für Verkehr, Bau- und
-Wohnungswesen mit Zustimmung des Bundespersonalausschusses und im
+ist. Im Einzelfall kann die jeweilige Einstellungsbehörde im Sinne von
+§ 4 Satz 1 mit Zustimmung des Bundespersonalausschusses und im
 Einvernehmen mit dem Bundesministerium des Innern das
 Feststellungsverfahren auf das Oberprüfungsamt für die höheren
 technischen Verwaltungsbeamten übertragen.
@@ -660,9 +664,9 @@ Verwaltung werden entsprechend dem Rahmenplan des Bundesministeriums
 des Innern durchgeführt. Der Bundespersonalausschuss oder ein von ihm
 bestimmter unabhängiger Ausschuss stellt nach einer Vorstellung der
 Aufstiegsbeamtin oder des Aufstiegsbeamten fest, ob die Einführung
-erfolgreich abgeschlossen ist. Im Einzelfall kann das
-Bundesministerium für Verkehr, Bau- und Wohnungswesen mit Zustimmung
-des Bundespersonalausschusses und im Einvernehmen mit dem
+erfolgreich abgeschlossen ist. Im Einzelfall kann die jeweilige
+Einstellungsbehörde im Sinne von § 4 Satz 1 mit Zustimmung des
+Bundespersonalausschusses und im Einvernehmen mit dem
 Bundesministerium des Innern das Feststellungsverfahren auf das
 Oberprüfungsamt für die höheren technischen Verwaltungsbeamten
 übertragen.
@@ -859,9 +863,10 @@ fertigen und dem Oberprüfungsamt im Original unmittelbar einzureichen.
 In begründeten Fällen kann die Präsidentin oder der Präsident des
 Oberprüfungsamtes die Frist um höchstens sechs Wochen verlängern. In
 diesem Fall ist von der Baureferendarin oder dem Baureferendar
-unverzüglich ein schriftlicher Antrag über die Ausbildungsbehörde, die
-dazu Stellung nimmt, an das Oberprüfungsamt zu richten. Bei längerer
-Verhinderung ist ersatzweise eine neue Aufgabe zu bearbeiten.
+unverzüglich ein schriftlicher oder elektronischer Antrag über die
+Ausbildungsbehörde, die dazu Stellung nimmt, an das Oberprüfungsamt zu
+richten. Bei längerer Verhinderung ist ersatzweise eine neue Aufgabe
+zu bearbeiten.
 
 (3) Die häusliche Prüfungsarbeit ist in allen ihren Teilen ohne fremde
 Hilfe anzufertigen; alle benutzten Quellen und Hilfsmittel sind
@@ -889,7 +894,8 @@ Erstprüfenden haben. Weichen die Bewertungen voneinander ab,
 entscheidet die oder der Vorsitzende des Prüfungsausschusses im Rahmen
 der vergebenen Punktzahlen. Ist die oder der Vorsitzende des
 Prüfungsausschusses selbst Korrektorin oder Korrektor, entscheidet die
-Vertretung. Die Entscheidung ist schriftlich zu begründen.
+Vertretung. Die Entscheidung ist schriftlich oder elektronisch zu
+begründen.
 
 (6) Wurde die häusliche Prüfungsarbeit nicht oder nicht fristgerecht
 abgeliefert, gilt sie als mit "ungenügend" (Punktzahl 6,0) bewertet.
@@ -957,13 +963,12 @@ an die aufsichtsführende Person zu geben. Die oder der
 Aufsichtsführende fertigt eine Niederschrift und vermerkt darin die
 Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit,
 in Anspruch genommene Prüfungserleichterungen im Sinne des § 13 sowie
-etwaige besondere Vorkommnisse und unterschreibt die Niederschrift.
-Die Niederschriften der vier schriftlichen Arbeiten unter Aufsicht
-sind zu sammeln und am letzten Fertigungstag dem Oberprüfungsamt zu
-übersenden. Die gefertigten Arbeiten sind noch am jeweiligen
-Prüfungstag zusammen mit den Aufgabentexten mit Einlieferungsnachweis
-den vom Oberprüfungsamt benannten Erstprüfenden zur Bewertung
-zuzuleiten.
+etwaige besondere Vorkommnisse. Die Niederschriften der vier
+schriftlichen Arbeiten unter Aufsicht sind zu sammeln und am letzten
+Fertigungstag dem Oberprüfungsamt zu übersenden. Die gefertigten
+Arbeiten sind noch am jeweiligen Prüfungstag zusammen mit den
+Aufgabentexten mit Einlieferungsnachweis den vom Oberprüfungsamt
+benannten Erstprüfenden zur Bewertung zuzuleiten.
 
 (7) § 25 Abs. 5 und 6 Satz 1 ist entsprechend anzuwenden.
 
@@ -996,8 +1001,8 @@ zur mündlichen Prüfung zu, wenn die schriftliche Prüfung bestanden
 ist.
 
 (3) Das Oberprüfungsamt lädt die Baureferendarinnen und Baureferendare
-rechtzeitig schriftlich zur mündlichen Prüfung ein, die sich auf zwei
-Tage erstreckt.
+rechtzeitig zur mündlichen Prüfung ein, die sich auf zwei Tage
+erstreckt.
 
 (4) Die oder der Vorsitzende der Prüfungskommission leitet die Prüfung
 und stellt sicher, dass die Baureferendarinnen und Baureferendare in
@@ -1042,7 +1047,7 @@ Fächern ausgeglichen werden. Ein Ausgleich ist je Fach durch zwei
 befriedigende Noten oder eine mindestens gute Note gegeben.
 
 (9) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+die Mitglieder der jeweiligen Prüfungskommission bestätigen.
 
 
 #### § 28 Verhinderung, Rücktritt, Säumnis
@@ -1316,11 +1321,11 @@ Prüfungsausschuss auch die Wiederholung der gesamten schriftlichen
 Arbeiten unter Aufsicht oder der gesamten mündlichen Prüfung oder die
 Wiederholung beider Prüfungsteile beschließen.
 
-(4) Das Bundesministerium für Verkehr, Bau- und Wohnungswesen kann in
-begründeten Fällen eine zweite Wiederholung der Prüfung zulassen. Der
-Antrag auf Zulassung zu einer zweiten Wiederholung ist innerhalb einer
-Woche nach Erhalt des Bescheides über das Nichtbestehen der Prüfung
-dem Bundesministerium für Verkehr, Bau- und Wohnungswesen über die
+(4) Die jeweilige oberste Dienstbehörde kann in begründeten Fällen
+eine zweite Wiederholung der Prüfung zulassen. Der Antrag auf
+Zulassung zu einer zweiten Wiederholung ist innerhalb einer Woche nach
+Erhalt des Bescheides über das Nichtbestehen der Prüfung dem
+Bundesministerium für der jeweiligen obersten Dienstbehörde über die
 Präsidentin oder den Präsidenten des Oberprüfungsamtes zuzuleiten. Die
 Beendigung des Beamtenverhältnisses nach § 32 Abs. 1 Satz 5 bleibt
 hiervon unberührt.
@@ -1586,8 +1591,8 @@ Fachgebiet: Wasserwesen
 
     *   20
 
-    *   Wasser- und Schiffahrtsamt; Wirtschaftsbehörde Strom- und Hafenbau der
-        Freien und Hansestadt Hamburg
+    *   Wasserstraßen- und Schifffahrtsamt; Wirtschaftsbehörde Strom- und
+        Hafenbau der Freien und Hansestadt Hamburg
 
     *
         -   Rechtsgrundlagen, Aufgaben und Organisation der Verwaltung in Bund,
@@ -1686,9 +1691,9 @@ Fachgebiet: Wasserwesen
 
     *
         -   Vorarbeiten für Bauvorhaben; Aufstellen und Prüfung von Entwürfen;
-            Vorbereitung von Baumaßnahmen; Vergabe nach der Verdingungsordnung für
-            Bauleistungen und der Verdingungsordnung für Leistungen sowie von
-            Ingenieurleistungen; Baupreisrecht
+            Vorbereitung von Baumaßnahmen; Vergabe nach der Vergabe- und
+            Vertragsordnung für Bauleistungen und nach der Vergabeverordnung;
+            Baupreisrecht
 
 
         -   Praktische Mitarbeit bei Baumaßnahmen; Verantwortung bei Planung und
@@ -1797,9 +1802,9 @@ Fachgebiet: Wasserwesen
     *   11
         1
 
-    *   Wasser- und Schifffahrtsdirektion; Wirtschaftsbehörde Strom- und
-        Hafenbau der Freien und Hansestadt Hamburg
-        Bundesministerium für Verkehr, Bau- und Wohnungswesen
+    *   Generaldirektion Wasserstraßen und Schifffahrt; Wirtschaftsbehörde
+        Strom- und Hafenbau der Freien und Hansestadt Hamburg
+        Bundesministerium für Verkehr und digitale Infrastruktur
 
     *
         -   Aufgaben, Organisation, Geschäftsbetrieb und Bürotechnik der
@@ -2008,10 +2013,11 @@ Prüfung:
 #### § 43 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
-Beamte des gehobenen technischen Verwaltungsdienstes in der Wasser-
-und Schifffahrtsverwaltung des Bundes für den Aufstieg in die Laufbahn
-des höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung
-Wasserwesen, Fachbereich Wasserstraßen - zugelassen werden.
+Beamte des gehobenen technischen Verwaltungsdienstes in der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes für den Aufstieg
+in die Laufbahn des höheren technischen Verwaltungsdienstes des Bundes
+- Fachrichtung Wasserwesen, Fachbereich Wasserstraßen - zugelassen
+werden.
 
 
 ### Kapitel 3 - Fachrichtung Bahnwesen
@@ -2276,10 +2282,10 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden.
 
     *   1
 
-    *   Bundesministerium für Verkehr, Bau- und Wohnungswesen
+    *   Bundesministerium für Verkehr und digitale Infrastruktur
 
-    *   Aufbau und Aufgaben des Bundesministeriums für Verkehr, Bau- und
-        Wohnungswesen
+    *   Aufbau und Aufgaben des Bundesministeriums für Verkehr und digitale
+        Infrastruktur
 
 
 *    *   1
@@ -2652,7 +2658,7 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
     *   14 oder 11, soweit von Abschnitt III 2 Gebrauch gemacht wird
 
-    *   Wasser- und Schifffahrtsamt mit Außenbezirken ohne Bauhof
+    *   Wasserstraßen- und Schifffahrtsamt mit Außenbezirken ohne Bauhof
 
     *
         -   Gliederung, Funktionen und Anlagen des Wasserstraßennetzes,
@@ -2680,7 +2686,8 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
     *   14 oder 11, soweit von Abschnitt III 2 Gebrauch gemacht wird
 
-    *   Fachstelle der Wasser- und Schifffahrtsverwaltung für Maschinenwesen
+    *   Fachstelle der Wasserstraßen- und Schifffahrtsverwaltung für
+        Maschinenwesen
 
     *
         -   Aufgaben, Organisation und Geschäftsbetrieb
@@ -2727,8 +2734,8 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
     *   12
 
-    *   Werkstätten der Wasser- und Schifffahrtsverwaltung (mindestens 10
-        Wochen), Unternehmen der Schiffbau-, Maschinenbau- und
+    *   Werkstätten der Wasserstraßen- und Schifffahrtsverwaltung (mindestens
+        10 Wochen), Unternehmen der Schiffbau-, Maschinenbau- und
         Elektroindustrie
 
     *
@@ -2754,8 +2761,9 @@ Fachrichtung: Maschinen- und Elektrotechnik
     *   12
 
     *   Bundesanstalt für Wasserbau, Abteilung Maschinenwesen (mindestens 8
-        Wochen), Fachstelle der Wasser- und Schifffahrtsverwaltung für
-        Verkehrstechniken
+        Wochen), die vom Bundesministerium für Verkehr und digitale
+        Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachte
+        Stelle
 
     *
         -   Aufgaben, Organisation einer Stabsstelle bei Planung und Durchführung
@@ -2775,8 +2783,8 @@ Fachrichtung: Maschinen- und Elektrotechnik
     *   14
         1
 
-    *   Wasser- und Schifffahrtsdirektion,
-        Bundesministerium für Verkehr-, Bau- und Wohnungswesen
+    *   Generaldirektion Wasserstraßen und Schifffahrt,
+        Bundesministerium für Verkehr und digitale Infrastruktur
 
     *
         -   Aufgaben, Organisation, Geschäftsbetrieb und Bürotechnik einer
@@ -2801,8 +2809,8 @@ Fachrichtung: Maschinen- und Elektrotechnik
 
 
         -   Durchführung und Kontrolle im Aufgabenbereich Maschinenwesen der
-            Wasser- und Schifffahrtsdirektion und des Bundesministeriums für
-            Verkehr, Bau- und Wohnungswesen
+            Generaldirektion Wasserstraßen und Schifffahrt und des
+            Bundesministeriums für Verkehr und digitale Infrastruktur
 
 
         -   Prüfungsvorbereitung
@@ -2890,12 +2898,11 @@ Fachrichtung: Maschinen- und Elektrotechnik
         -   Technische Angelegenheiten: Praktische Mitwirkung bei Planung,
             Entwurf, Bau, Instandhaltung/Bauunterhalt von maschinen- und
             elektrotechnischen Anlagen einschließlich kommunikationstechnischer
-            Anlagen, Betriebsführung, Vergabe von Bauleistungen und Leistungen
-            nach der Verdingungsordnung für Bauleistungen und der
-            Verdingungsordnung für Leistungen, Abnahme, Abschluss und Abwicklung
-            von Bauverträgen und Ingenieurverträgen, Gewährleistungen,
-            Arbeitsschutz und Unfallverhütung, Einsatz und Anwendung der
-            Datenverarbeitung
+            Anlagen, Betriebsführung, Vergabe nach der Vergabe- und
+            Vertragsordnung für Bauleistungen und nach der Vergabeverordnung,
+            Abnahme, Abschluss und Abwicklung von Bauverträgen und
+            Ingenieurverträgen, Gewährleistungen, Arbeitsschutz und
+            Unfallverhütung, Einsatz und Anwendung der Datenverarbeitung
 
 
 
@@ -3195,11 +3202,12 @@ Prüfung:
 #### § 51 Aufstieg
 
 Unter den Voraussetzungen der §§ 18 und 19 können Beamtinnen und
-Beamte des gehobenen technischen Verwaltungsdienstes der Wasser- und
-Schifffahrtsverwaltung des Bundes oder des gehobenen bautechnischen
-Verwaltungsdienstes des Bundes für den Aufstieg in die Laufbahn des
-höheren technischen Verwaltungsdienstes des Bundes - Fachrichtung
-Maschinen- und Elektrotechnik - zugelassen werden.
+Beamte des gehobenen technischen Verwaltungsdienstes der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes oder des
+gehobenen bautechnischen Verwaltungsdienstes des Bundes für den
+Aufstieg in die Laufbahn des höheren technischen Verwaltungsdienstes
+des Bundes - Fachrichtung Maschinen- und Elektrotechnik - zugelassen
+werden.
 
 
 ### Kapitel 5 - Fachrichtung Luftfahrttechnik
@@ -3344,7 +3352,7 @@ Ausbildung und Lehrgänge, die aufeinander abgestimmt werden:
 
     *   2
 
-    *   Bundesministerium für Verkehr, Bau- und Wohnungswesen
+    *   Bundesministerium für Verkehr und digitale Infrastruktur
 
     *   Einführung in die Aufgaben des Ministeriums
 

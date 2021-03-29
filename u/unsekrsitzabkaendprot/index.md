@@ -4,7 +4,7 @@ Title: Protokoll zur Änderung des Abkommens zwischen der Regierung der Bundesre
   der Vereinten Nationen über Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 jurabk: UNSekrSitzAbkÄndProt
 layout: default
-origslug: unsekrsitzabk_ndprot
+origslug: unsekrsitzabkaendprot
 slug: unsekrsitzabkaendprot
 
 ---

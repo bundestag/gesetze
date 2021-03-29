@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 7.7.2009 I 1774, 3975
 
+Zuletzt geändert durch
+:   Art. 5 G v. 26.7.2016 I 1843
+
 
 ## § 1 Geltungsbereich
 
@@ -94,7 +97,7 @@ dürfen während des zeitweiligen Aufenthaltes nicht geöffnet werden.
 
 ## § 3 Ermächtigungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und
 allgemeine Verwaltungsvorschriften über die Beförderung gefährlicher
 Güter zu erlassen, insbesondere über
@@ -217,8 +220,8 @@ Güter auf dem Gebiet der See- und Binnenschiffahrt dienen sowie
 Rechtsverordnungen zur Inkraftsetzung von Abkommen nach Artikel 5 § 2
 des Anhanges B des Übereinkommens über den internationalen
 Eisenbahnverkehr vom 9. Mai 1980 (COTIF-Übereinkommen, BGBl. 1985 II
-S. 132), erlässt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ohne Zustimmung des Bundesrates; diese
+S. 132), erlässt das Bundesministerium für Verkehr und digitale
+Infrastruktur ohne Zustimmung des Bundesrates; diese
 Rechtsverordnungen bedürfen jedoch der Zustimmung des Bundesrates,
 wenn sie die Einrichtung der Landesbehörden oder die Regelung ihres
 Verwaltungsverfahrens betreffen.
@@ -257,26 +260,26 @@ Unberührt bleiben die Zuständigkeiten für die Hafenaufsicht
 (Hafenpolizei) in den nicht vom Bund betriebenen Stromhäfen an
 Bundeswasserstraßen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 für die Ausführung dieses Gesetzes und der auf ihm beruhenden
 Rechtsvorschriften zuständigen Behörden und Stellen zu bestimmen,
 soweit es sich um den Bereich der bundeseigenen Verwaltung handelt.
 Wenn und soweit der Zweck des Gesetzes durch das Verwaltungshandeln
 der Länder nicht erreicht werden kann, kann das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit
+Verkehr und digitale Infrastruktur durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Bundesamt für Güterverkehr, das
-Bundesamt für Strahlenschutz, das Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit, die Bundesanstalt für Materialforschung und
--prüfung, das Bundesinstitut für Risikobewertung, das Eisenbahn-
-Bundesamt, das Kraftfahrt-Bundesamt, die Physikalisch-Technische
-Bundesanstalt, das Robert-Koch-Institut, das Umweltbundesamt und das
-Wehrwissenschaftliche Institut für Werk-, Explosiv- und Betriebsstoffe
-auch für den Bereich für zuständig erklären, in dem die Länder dieses
-Gesetz und die auf ihm beruhenden Rechtsvorschriften auszuführen
-hätten. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-kann ferner durch Rechtsverordnung mit Zustimmung des Bundesrates
-bestimmen, dass
+Bundesamt für kerntechnische Entsorgungssicherheit, das Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit, die Bundesanstalt für
+Materialforschung und -prüfung, das Bundesinstitut für
+Risikobewertung, das Eisenbahn-Bundesamt, das Kraftfahrt-Bundesamt,
+die Physikalisch-Technische Bundesanstalt, das Robert-Koch-Institut,
+das Umweltbundesamt und das Wehrwissenschaftliche Institut für Werk-,
+Explosiv- und Betriebsstoffe auch für den Bereich für zuständig
+erklären, in dem die Länder dieses Gesetz und die auf ihm beruhenden
+Rechtsvorschriften auszuführen hätten. Das Bundesministerium für
+Verkehr und digitale Infrastruktur kann ferner durch Rechtsverordnung
+mit Zustimmung des Bundesrates bestimmen, dass
 
 1.  die Industrie- und Handelskammern für die Durchführung, Überwachung
     und Anerkennung der Ausbildung, Prüfung und Fortbildung von am
@@ -304,7 +307,7 @@ durch Rechtsverordnung Absatz 2 entsprechend.
 
 (4) (weggefallen)
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates zu
 bestimmen, dass der Vollzug dieses Gesetzes und der auf dieses Gesetz
 gestützten Rechtsverordnungen in Fällen, in denen gefährliche Güter
@@ -317,7 +320,7 @@ oder die Aufgaben der Bundespolizei erfordern.
 
 ## § 6 Allgemeine Ausnahmen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 allgemeine Ausnahmen von den auf diesem Gesetz beruhenden
 Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des
 Bundesrates zulassen für die Beförderung gefährlicher Güter mit
@@ -345,7 +348,7 @@ Bundesrates zulassen für die Beförderung gefährlicher Güter mit
 
 ## § 7 Sofortmaßnahmen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 die Beförderung bestimmter gefährlicher Güter mit Wasser- und
 Luftfahrzeugen untersagen oder nur unter Bedingungen und Auflagen
 gestatten, wenn sich die geltenden Sicherheitsvorschriften als
@@ -353,7 +356,7 @@ unzureichend zur Einschränkung der von der Beförderung ausgehenden
 Gefahren herausstellen und eine Änderung der Rechtsvorschriften in dem
 nach § 3 vorgesehenen Verfahren nicht abgewartet werden kann.
 Allgemeine Anordnungen dieser Art trifft das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung ohne
+Verkehr und digitale Infrastruktur durch Rechtsverordnung ohne
 Zustimmung des Bundesrates.
 
 (2) Absatz 1 gilt sinngemäß für den Fall, dass sich bei der
@@ -364,7 +367,7 @@ Sinne von § 2 Abs. 1 herausstellt.
 (3) Auf Grund von Absatz 1 und 2 getroffene Anordnungen gelten ein
 Jahr, sofern sie nicht vorher zurückgenommen werden.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 nach vorheriger Genehmigung der Kommission der Europäischen
 Gemeinschaften die Beförderung bestimmter gefährlicher Güter mit
 Eisenbahn- und Straßenfahrzeugen untersagen oder nur unter Bedingungen
@@ -385,7 +388,7 @@ Europäischen Gemeinschaften befristet.
 sollen Sicherheitsbehörden und -organisationen angehört werden,
 insbesondere
 
-1.  das Bundesamt für Strahlenschutz,
+1.  das Bundesamt für kerntechnische Entsorgungssicherheit,
 
 
 2.  die Bundesanstalt für Materialforschung und -prüfung,
@@ -415,17 +418,17 @@ insbesondere
 (2) Verbände und Sachverständige der beteiligten Wirtschaft
 einschließlich der Verkehrswirtschaft sollen vor dem Erlass der
 Rechtsverordnungen nach Absatz 1 gehört werden. Das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung bestimmt den jeweiligen Umfang
+für Verkehr und digitale Infrastruktur bestimmt den jeweiligen Umfang
 der Anhörung und die anzuhörenden Verbände und Sachverständigen.
 
 
 ## § 7b Beirat
 
-(1) Beim Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Beim Bundesministerium für Verkehr und digitale Infrastruktur wird
 ein Gefahrgut-Verkehrs-Beirat (Beirat) eingesetzt.
 
-(2) Der Beirat hat die Aufgabe, das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung hinsichtlich der sicheren Beförderung
+(2) Der Beirat hat die Aufgabe, das Bundesministerium für Verkehr und
+digitale Infrastruktur hinsichtlich der sicheren Beförderung
 gefährlicher Güter, insbesondere der Durchführung dieses Gesetzes, zu
 beraten.
 
@@ -448,9 +451,9 @@ Kreis der
 
 
 
-angehören. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-die Zahl der Beiratsmitglieder und benennt die dem Beirat angehörenden
-Stellen im Einzelnen.
+angehören. Das Bundesministerium für Verkehr und digitale
+Infrastruktur die Zahl der Beiratsmitglieder und benennt die dem
+Beirat angehörenden Stellen im Einzelnen.
 
 (4) Die Bundesministerien haben das Recht, in Sitzungen des Beirats
 vertreten zu sein und gehört zu werden.
@@ -555,7 +558,7 @@ der Fahrzeuge vorgenommen, das Qualitätssicherungsprogramm oder
 Prüfstellen des Herstellers oder Betreibers anerkannt haben, soweit
 dies in Rechtsverordnungen nach § 3 gestattet ist.
 
-(3d) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(3d) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Maßnahmen nach Absatz 1 bis 3c näher zu bestimmen, Vorgaben für die
 Zusammenarbeit der zuständigen Behörden und Stellen zu treffen und die
@@ -631,8 +634,8 @@ mitgeteilt.
 (5) Mitteilungen und Ersuchen nach den Absätzen 2 bis 4 sind im
 Straßenverkehr über das Bundesamt für Güterverkehr, im
 Eisenbahnverkehr über das Eisenbahn-Bundesamt und im
-Binnenschiffsverkehr über das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zu leiten.
+Binnenschiffsverkehr über das Bundesministerium für Verkehr und
+digitale Infrastruktur zu leiten.
 
 (6) Die in Absatz 5 bestimmten Stellen dürfen zum Zweck der
 Feststellung von wiederholten Verstößen nach den Absätzen 2 und 3
@@ -689,7 +692,7 @@ Verstöße gegen anwendbare Vorschriften über die Beförderung
 gefährlicher Güter dürfen auch mitgeteilt werden, wenn im
 Empfängerland kein angemessener Datenschutzstandard gewährleistet ist.
 
-(10) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(10) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen und
 allgemeine Verwaltungsvorschriften über das Verfahren bei der
 Erhebung, Speicherung und Übermittlung der Daten nach Absatz 2 bis 9
@@ -776,10 +779,10 @@ gehörende Tiere oder fremde Sachen von bedeutendem Wert gefährdet.
 (1) Für Amtshandlungen einschließlich Prüfungen und Untersuchungen
 nach diesem Gesetz und den auf ihm beruhenden Rechtsvorschriften
 werden Kosten (Gebühren und Auslagen) erhoben. Das
-Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) findet
-Anwendung.
+Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I S. 821) in der bis
+zum 14. August 2013 geltenden Fassung findet Anwendung.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt durch Rechtsverordnung die gebührenpflichtigen Tatbestände
 näher und sieht dabei feste Sätze, auch in der Form von Gebühren nach
 Zeitaufwand, Rahmensätze oder Gebühren nach dem Wert des Gegenstandes

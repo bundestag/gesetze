@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1984, 346
 
 Zuletzt geändert durch
-:   Art. 4 G v. 8.5.2012 I 1032
+:   Art. 3 V v. 30.3.2017 I 683
 
 
 ## Eingangsformel
@@ -37,8 +37,9 @@ Luftverkehrsgesetzes erheben für Amtshandlungen im Bereich der
 Luftfahrtverwaltung Kosten (Gebühren und Auslagen) nach dieser
 Verordnung.
 
-(2) Im übrigen gilt das Verwaltungskostengesetz, soweit nachfolgend
-nichts anderes bestimmt ist.
+(2) Im übrigen gilt das Verwaltungskostengesetz in der bis zum 14.
+August 2013 geltenden Fassung, soweit nachfolgend nichts anderes
+bestimmt ist.
 
 
 ## § 2 Gebühren
@@ -59,8 +60,8 @@ Drittel der Gebühr erhoben.
 (3) Stellt ein Unternehmen Anträge, die der Gebührenpflicht nach
 Abschnitt III oder IV des Gebührenverzeichnisses unterliegen, für
 mehrere Mitarbeiter und erklärt es sich zur Übernahme der Kosten
-bereit, findet § 5 des Verwaltungskostengesetzes vom 23. Juni 1970
-(BGBl. I S. 821) in der jeweils geltenden Fassung Anwendung.
+bereit, findet § 5 des Verwaltungskostengesetzes in der bis zum 14.
+August 2013 geltenden Fassung Anwendung.
 
 (4) Für die Ausstellung von Besatzungsausweisen für Angehörige von
 Luftfahrtunternehmen gilt Absatz 3 entsprechend. Grundlage für die
@@ -69,17 +70,15 @@ voraussichtlich auszustellenden Besatzungsausweise und die nach
 Abschnitt VII Nr. 1 des Gebührenverzeichnisses zu erhebenden
 Einzelgebühren.
 
-(5) Die in Abschnitt VII Nr. 23 des Gebührenverzeichnisses aufgeführte
-Gebühr kann bei einem geringen jährlichen Fluggastaufkommen auf einem
-Flughafen innerhalb des vorgesehenen Gebührenrahmens um bis zu 50
-Prozent ermäßigt werden.
+(5) (weggefallen)
 
 
 ## § 3 Auslagen
 
 (1) Auslagen sind nach § 10 Abs. 1 Nr. 1 bis 8 des
-Verwaltungskostengesetzes zu erheben, soweit nichts anderes bestimmt
-ist. Auslagen sind auch zu erheben, wenn die in Abschnitt I Nr. 6 des
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung zu erheben, soweit nichts anderes bestimmt ist. Auslagen sind
+auch zu erheben, wenn die in Abschnitt I Nr. 6 des
 Gebührenverzeichnisses genannten Aufsichtsmaßnahmen bei genehmigten
 Betrieben einen nicht im Geltungsbereich dieser Verordnung liegenden
 Betrieb betreffen.
@@ -105,7 +104,14 @@ Dienstgeschäften außerhalb der Dienststelle sind gesondert zu erheben.
 (6) Werden auf Vorschlag oder mit Zustimmung des Antragstellers
 externe Verwaltungshelfer bei Genehmigungs-, Plangenehmigungs- und
 Planfeststellungsverfahren für Flugplätze eingesetzt, sind die dadurch
-verursachten Kosten gesondert zu erheben.
+verursachten Kosten gesondert zu erheben. Gleiches gilt für das
+Verfahren zur Erteilung oder Änderung eines Zeugnisses nach Artikel 8a
+der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des
+Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften für
+die Zivilluftfahrt und zur Errichtung einer Europäischen Agentur für
+Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der
+Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG (ABl. L 79
+vom 19.3.2008, S. 1) in der jeweils geltenden Fassung.
 
 
 ## § 4 Kosten der für die Flugsicherung und für die Luftsportgeräteverwaltung zuständigen Stellen
@@ -121,9 +127,10 @@ zuständigen Stellen aus Anlaß der in Abschnitt I, II, III, IV, VI und
 VII des Gebührenverzeichnisses genannten Amtshandlungen zustehen,
 erheben die Stellen unmittelbar von dem Kostenschuldner.
 
-(3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes zu
-erhebenden Auslagen ist die auf die Kosten nach den §§ 2 und 3
-entfallende, gesetzlich geschuldete Umsatzsteuer hinzuzurechnen.
+(3) Zu den nach § 10 Abs. 1 des Verwaltungskostengesetzes in der bis
+zum 14. August 2013 geltenden Fassung zu erhebenden Auslagen ist die
+auf die Kosten nach den §§ 2 und 3 entfallende, gesetzlich geschuldete
+Umsatzsteuer hinzuzurechnen.
 
 
 ## § 5 Kostenermäßigung und Kostenbefreiung
@@ -183,12 +190,15 @@ mehr als ein Zehntel überschreiten.
 
 Der Bundesminister für Verkehr
 
+Gebührenverzeichnis
 
-## Anlage Gebührenverzeichnis (zu § 2 Absatz 1)
+## Anlage (zu § 2 Absatz 1)
 
-(Fundstelle: BGBl. I 2010, 1225 - 1242)
+(Fundstelle: BGBl. I 2010, 1225 - 1242;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Inhaltsverzeichnis
+## Inhaltsverzeichnis
+
 
 *    *   I.
 
@@ -229,25 +239,31 @@ Inhaltsverzeichnis
 
 
 
+Die in diesem Gebührenverzeichnis enthaltenen Verweisungen auf JAR-
+Regelungen beziehen sich auf die vom Bundesministerium für Verkehr und
+digitale Infrastruktur im Bundesanzeiger bekannt gegebenen
+entsprechenden Fassungen der Übersetzung von
 
-*    *   Die in diesem Gebührenverzeichnis enthaltenen Verweisungen auf JAR-
-        Regelungen beziehen sich auf die vom Bundesministerium für Verkehr,
-        Bau und Stadtentwicklung im Bundesanzeiger bekannt gegebenen
-        entsprechenden Fassungen der Übersetzung von JAR-TSO deutsch (BAnz.
-        Nr. 137a vom 28. Juli 1998), JAR-21 deutsch (BAnz. Nr. 137a vom 28.
-        Juli 1998, geändert durch Bekanntmachung vom 26. März 1999, BAnz. S.
-        6435), JAR-OPS 3 deutsch (BAnz. Nr. 130a vom 1. Juli 2002, berichtigt
-        durch Bekanntmachung vom 10. Januar 2003, BAnz. S. 1172), JAR-FCL 1
-        deutsch (BAnz. Nr. 80a vom 29. April 2003), JAR-FCL 2 deutsch (BAnz.
-        Nr. 80b vom 29. April 2003), JAR-FCL 3 deutsch (BAnz. Nr. 81a vom 30.
-        April 2003), JAR-FCL 4 deutsch (BAnz. Nr. 81b vom 30. April 2003)
-        sowie auf EU-OPS 1(ABl. L 10 vom 12.1.2008, S. 1).
+–   JAR-OPS 3 deutsch (BAnz. Nr. 130a vom 1. Juli 2002, berichtigt durch
+    Bekanntmachung vom 10. Januar 2003, BAnz. S. 1172),
+
+
+–   JAR-FCL 4 deutsch (BAnz. Nr. 81b vom 30. April 2003),
+
+
+–   EU-OPS 1 (Anhang III der Verordnung (EWG) Nr. 3922/91 des Rates vom
+    16\. Dezember 1991 zur Harmonisierung der technischen Vorschriften und
+    der Verwaltungsverfahren in der Zivilluftfahrt (ABl. L 373 vom
+    31\.12.1991, S. 4), die zuletzt durch die Verordnung (EG) Nr. 859/2008
+    (ABl. L 254 vom 20.9.2008, S. 1) geändert worden ist).
+
 
 
 
 
 **I.** **Anerkennungen, Genehmigungen und Ermächtigungen bei der Entwicklung,
     Herstellung oder Instandhaltung von Luftfahrtgerät**
+
 
     *        *   Gebührentatbestand
 
@@ -263,7 +279,13 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   Genehmigung eines Entwicklungsbetriebes (§ 2 Abs. 2 LuftGerPV)
+        *   Genehmigung eines Entwicklungsbetriebs (§ 2 Absatz 2 LuftGerPV,
+            Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur
+            Festlegung der Durchführungsbestimmungen für die Erteilung von
+            Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und
+            zugehörige Produkte, Bau- und Ausrüstungsteile sowie für die Zulassung
+            von Entwicklungs- und Herstellungsbetrieben Anhang Teil 21 Abschnitt
+            J)
 
         *   600 bis 14 000 EUR
 
@@ -293,13 +315,8 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   Genehmigung eines Herstellungsbetriebes (§ 2 Abs. 2 LuftGerPV,
-            Verordnung (EG) Nr. 1702/2003 der Kommission vom 24. September 2003
-            zur Festlegung der Durchführungsbestimmungen für die Erteilung von
-            Lufttüchtigkeits- und Umweltzeugnissen für Luftfahrzeuge und
-            zugehörige Erzeugnisse, Teile und Ausrüstungen sowie für die Zulassung
-            von Entwicklungs- und Herstellungsbetrieben, Anhang Teil 21, Abschnitt
-            G)
+        *   Genehmigung eines Herstellungsbetriebs (§ 2 Absatz 2 LuftGerPV,
+            Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt G)
 
         *   600 bis 14 000 EUR
 
@@ -331,9 +348,9 @@ Inhaltsverzeichnis
     *        *
         *   e)
 
-        *   Zustimmung zur Herstellung von Luftfahrtgeräten oder -teilen ohne
-            Genehmigung als Herstellungsbetrieb (§ 9 Abs. 1 und 2 LuftGerPV,
-            Verordnung (EG) Nr. 1702/2003 Teil 21, Abschnitt F)
+        *   Zustimmung zur Herstellung von Luftfahrtgerät oder -teilen ohne
+            Genehmigung als Herstellungsbetrieb (§ 9 Absatz 1 LuftGerPV,
+            Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt F)
 
         *   500 bis 5 000 EUR
 
@@ -341,7 +358,7 @@ Inhaltsverzeichnis
     *        *
         *   f)
 
-        *   Genehmigung eines Herstellungsbetriebes für Luftsportgerät oder
+        *   Genehmigung eines Herstellungsbetriebs für Luftsportgerät oder
             Erweiterung oder Änderung der Genehmigung (§ 10 LuftGerPV)
 
         *   300 EUR
@@ -357,13 +374,13 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   Genehmigung eines Instandhaltungsbetriebes oder luftfahrttechnischen
-            Betriebes (§§ 13, 18 LuftGerPV, Verordnung (EG) Nr. 2042/2003 der
-            Kommission vom 20. November 2003 über die Aufrechterhaltung der
-            Lufttüchtigkeit von Luftfahrzeugen und luftfahrttechnischen
-            Erzeugnissen, Teilen und Ausrüstungen und die Erteilung von
-            Genehmigungen für Organisationen und Personen, die diese Tätigkeiten
-            ausführen)
+        *   Genehmigung eines Instandhaltungsbetriebs (§ 2 Absatz 2 LuftGerPV,
+            Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014
+            über die Aufrechterhaltung der Lufttüchtigkeit von Luftfahrzeugen und
+            luftfahrttechnischen Erzeugnissen, Teilen und Ausrüstungen und die
+            Erteilung von Genehmigungen für Organisationen und Personen, die diese
+            Tätigkeiten ausführen (ABl. L 362 vom 17.12.2014, S. 1) in der jeweils
+            geltenden Fassung)
 
         *   500 bis 14 000 EUR
 
@@ -388,8 +405,8 @@ Inhaltsverzeichnis
         *   d)
 
         *   Genehmigung eines Unternehmens zur Führung der Aufrechterhaltung der
-            Lufttüchtigkeit (Verordnung (EG) Nr. 2042/2003 Anhang I, Abschnitt A,
-            Unterabschnitt G)
+            Lufttüchtigkeit (§ 2 Absatz 2 LuftGerPV, Verordnung (EU) Nr. 1321/2014
+            Anhang I Abschnitt A Unterabschnitt G)
 
         *   500 bis 14 000 EUR
 
@@ -413,15 +430,6 @@ Inhaltsverzeichnis
     *        *
         *   g)
 
-        *   Verlängerung oder Änderung der Anerkennung eines selbständigen Prüfers
-            von Luftfahrtgerät (§ 14 LuftGerPV)
-
-        *   350 EUR
-
-
-    *        *
-        *   h)
-
         *   Anerkennung der Instandhaltungsnachweise anderer Stellen (§ 6
             LuftGerPV)
 
@@ -429,37 +437,39 @@ Inhaltsverzeichnis
 
 
     *        *
-        *   i)
+        *   h)
 
-        *   Verlängerung der Zeitabstände für die Nachprüfung (§ 15 Abs. 2
+        *   Verlängerung der Zeitabstände für die Nachprüfung (§ 12 Absatz 4
             LuftGerPV)
 
         *   90 bis 300 EUR
 
 
     *        *
-        *   j)
+        *   i)
 
-        *   Genehmigung eines Herstellungsbetriebes für Luftsportgerät für die
-            Instandhaltung (§ 2 Abs. 2 LuftGerPV) oder Erweiterung der Genehmigung
+        *   Genehmigung eines Herstellungsbetriebs für Luftsportgerät für die
+            Instandhaltung oder Erweiterung der Genehmigung (§ 2 Absatz 2 und 3
+            LuftGerPV)
 
         *   300 EUR
 
 
     *        *
-        *   k)
+        *   j)
 
-        *   Genehmigung oder Änderung eines Instandhaltungsprogramms (Verordnung
-            (EG) Nr. 2042/2003 Anhang I, M.A. 302
+        *   Genehmigung oder Änderung eines Instandhaltungsprogramms (§ 12 Absatz
+            1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Absatz M.A.302)
 
         *   100 bis 2 000 EUR
 
 
     *        *
-        *   l)
+        *   k)
 
-        *   Ausstellung der Bescheinigung über die Prüfung der Lufttüchtigkeit
-            (Verordnung (EG) Nr. 2042/2003 Anhang I, M.A. 901 d, e)
+        *   Ausstellung der Bescheinigung über die Prüfung der Lufttüchtigkeit (§
+            12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I Absatz
+            M.A.901 Buchstabe d, e, h und i)
 
         *   100 bis 1 000 EUR
 
@@ -473,8 +483,8 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   Erteilung einer Ausnahme für die Herstellung im Amateurbau (§ 9 Abs. 5
-            LuftGerPV)
+        *   Erteilung einer Ausnahme für die Herstellung im Amateurbau (§ 9 Absatz
+            4 LuftGerPV)
 
         *   220 EUR
 
@@ -483,8 +493,7 @@ Inhaltsverzeichnis
         *   b)
 
         *   Ermächtigung zur Durchführung bestimmter Instandhaltungen und
-            Änderungen (§ 13 Abs. 2 LuftGerPV) oder bestimmter Nachprüfungen (§ 19
-            Abs. 2 LuftGerPV)
+            Änderungen (§ 12 Absatz 1 und 4 LuftGerPV)
 
         *   60 bis 600 EUR
 
@@ -492,7 +501,7 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   Änderung oder Neuausstellung der Genehmigungsurkunde eines Betriebes
+        *   Änderung oder Neuausstellung der Genehmigungsurkunde eines Betriebs
             nach den Nummern 1, 2 und 3
 
         *   90 EUR
@@ -502,9 +511,9 @@ Inhaltsverzeichnis
         *   d)
 
         *   Gutachterliche Tätigkeit im Zusammenhang mit ausländischer Genehmigung
-            eines Betriebes nach Nummer 1, 2 oder 3 oder den zugehörigen
-            Zeugnissen und Bescheinigungen je angefangene Tätigkeitsstunde
-            einschließlich der An- und Abfahrtzeiten zu auswärtigen Dienststätten
+            eines Betriebs nach Nummer 1, 2 oder 3 oder den zugehörigen Zeugnissen
+            und Bescheinigungen je angefangene Tätigkeitsstunde einschließlich der
+            An- und Abfahrtzeiten zu auswärtigen Dienststätten
 
         *   65 bis 110 EUR
 
@@ -513,8 +522,10 @@ Inhaltsverzeichnis
         *   e)
 
         *   Anerkennung des verantwortlichen Personals im Instandhaltungsbetrieb
-            (Verordnung (EG) Nr. 2042/2003 Anhang II, Abschnitt A, 145.A.30 und
-            Abschnitt B, 145.B.20 Nr. 1 und 4)
+            oder in der Organisation zur Aufrechterhaltung der Lufttüchtigkeit (§
+            12 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 1321/2014 Anhang I
+            Abschnitt A Absatz M.A.706 und 707, Anhang II Abschnitt A Absatz
+            145\.A.30 sowie Abschnitt B Absatz 145.B.20 Nummer 1 und 4)
 
         *   100 bis 1 800 EUR
 
@@ -522,8 +533,8 @@ Inhaltsverzeichnis
     *        *   5.
 
         *   Anerkennung von Produktspezifikationen für Bau- und Ausrüstungsteile
-            (Verordnung (EG) Nr. 1702/2003 Anhang Teil 21, Abschnitt K, § 9
-            LuftGerPV, JAR-21 deutsch, Abschnitt K)
+            (§ 9 Absatz 1 LuftGerPV, Verordnung (EU) Nr. 748/2012 Anhang Teil 21
+            Abschnitt K)
 
         *
 
@@ -548,15 +559,15 @@ Inhaltsverzeichnis
 
         *   Die im Kalenderjahr jeweils erste Überprüfung zur fortlaufenden
             Bestätigung der Genehmigungsvoraussetzungen oder Verlängerung der
-            Gültigkeit der Genehmigung eines Betriebes nach I. Nr. 1, 2 oder 3 mit
-            der Größe der Belegschaft von
+            Gültigkeit der Genehmigung eines Betriebs nach Abschnitt I Nummer 1, 2
+            oder 3 mit der Größe der Belegschaft von
 
         *
 
     *        *
         *   a)
 
-        *   bis 5 Personen
+        *   bis zu 5 Personen
 
         *   1 000 EUR
 
@@ -646,12 +657,8 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   bis
+        *   bis     2 000 kg
 
-        *   2 000 kg
-
-        *
-        *
         *   500 EUR
 
 
@@ -660,13 +667,7 @@ Inhaltsverzeichnis
         *
         *   bb)
 
-        *   über
-
-        *   2 000 kg
-
-        *   bis
-
-        *   5 700 kg
+        *   über   2 000 kg bis   5 700 kg
 
         *   900 EUR
 
@@ -676,13 +677,7 @@ Inhaltsverzeichnis
         *
         *   cc)
 
-        *   über
-
-        *   5 700 kg
-
-        *   bis
-
-        *   14 000 kg
+        *   über   5 700 kg bis  14 000 kg
 
         *   1 500 EUR
 
@@ -692,13 +687,7 @@ Inhaltsverzeichnis
         *
         *   dd)
 
-        *   über
-
-        *   14 000 kg
-
-        *   bis
-
-        *   50 000 kg
+        *   über  14 000 kg bis  50 000 kg
 
         *   2 500 EUR
 
@@ -708,13 +697,7 @@ Inhaltsverzeichnis
         *
         *   ee)
 
-        *   über
-
-        *   50 000 kg
-
-        *   bis
-
-        *   100 000 kg
+        *   über  50 000 kg bis 100 000 kg
 
         *   5 000 EUR
 
@@ -724,13 +707,7 @@ Inhaltsverzeichnis
         *
         *   ff)
 
-        *   über
-
-        *   100 000 kg
-
-        *   bis
-
-        *   150 000 kg
+        *   über 100 000 kg bis 150 000 kg
 
         *   11 000 EUR
 
@@ -740,12 +717,8 @@ Inhaltsverzeichnis
         *
         *   gg)
 
-        *   über
+        *   über 150 000 kg
 
-        *   150 000 kg
-
-        *
-        *
         *   24 000 EUR
 
 
@@ -762,12 +735,8 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   bis
+        *   bis     1 500 kg
 
-        *   1 500 kg
-
-        *
-        *
         *   800 EUR
 
 
@@ -776,13 +745,7 @@ Inhaltsverzeichnis
         *
         *   bb)
 
-        *   über
-
-        *   1 500 kg
-
-        *   bis
-
-        *   5 000 kg
+        *   über   1 500 kg bis   5 000 kg
 
         *   1 200 EUR
 
@@ -792,13 +755,7 @@ Inhaltsverzeichnis
         *
         *   cc)
 
-        *   über
-
-        *   5 000 kg
-
-        *   bis
-
-        *   10 000 kg
+        *   über   5 000 kg bis  10 000 kg
 
         *   1 800 EUR
 
@@ -808,13 +765,7 @@ Inhaltsverzeichnis
         *
         *   dd)
 
-        *   über
-
-        *   10 000 kg
-
-        *   bis
-
-        *   100 000 kg
+        *   über  10 000 kg bis 100 000 kg
 
         *   3 000 EUR
 
@@ -824,12 +775,8 @@ Inhaltsverzeichnis
         *
         *   ee)
 
-        *   über
+        *   über 100 000 kg
 
-        *   100 000 kg
-
-        *
-        *
         *   6 000 EUR
 
 
@@ -846,7 +793,7 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   nicht selbststartend
+        *   nichtselbststartend
 
         *   200 EUR
 
@@ -874,7 +821,7 @@ Inhaltsverzeichnis
         *
         *   e)
 
-        *   Bemannte Ballone mit einer Zulassung für
+        *   Bemannte Ballone mit einer Zulassung
 
         *
 
@@ -883,12 +830,8 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   bis
+        *   bis 5 Personen
 
-        *   5 Personen
-
-        *
-        *
         *   150 EUR
 
 
@@ -897,13 +840,7 @@ Inhaltsverzeichnis
         *
         *   bb)
 
-        *   über
-
-        *   5 Personen
-
-        *   bis
-
-        *   15 Personen
+        *   über 5 Personen bis 15 Personen
 
         *   500 EUR
 
@@ -913,12 +850,8 @@ Inhaltsverzeichnis
         *
         *   cc)
 
-        *   über
+        *   über 15 Personen
 
-        *   15 Personen
-
-        *
-        *
         *   1 000 EUR
 
 
@@ -926,7 +859,7 @@ Inhaltsverzeichnis
         *
         *   f)
 
-        *   Ultraleichtflugzeuge
+        *   Ultraleichtflugzeuge und Ultraleichthubschrauber
 
         *   50 bis 125 EUR
 
@@ -965,8 +898,6 @@ Inhaltsverzeichnis
 
         *   bis 75 kW
 
-        *
-        *
         *   350 EUR
 
 
@@ -975,23 +906,7 @@ Inhaltsverzeichnis
         *
         *   bb)
 
-        *   über 75 kW
-
-        *   bis
-
-        *   150 kW oder
-
-        *
-
-    *        *
-        *
-        *
-        *
-        *
-        *
-        *   bis
-
-        *   3 000 N
+        *   über 75 kW bis 150 kW oder bis 3 000 N
 
         *   700 EUR
 
@@ -1001,23 +916,8 @@ Inhaltsverzeichnis
         *
         *   cc)
 
-        *   über 150 kW
-
-        *   bis
-
-        *   375 kW oder
-
-        *
-
-    *        *
-        *
-        *
-        *
-        *   über 3 000 N
-
-        *   bis
-
-        *   10 000 N
+        *   über 150 kW bis 375 kW oder
+            über 3 000 N bis 10 000 N
 
         *   1 500 EUR
 
@@ -1027,23 +927,8 @@ Inhaltsverzeichnis
         *
         *   dd)
 
-        *   über 375 kW
-
-        *   bis
-
-        *   750 kW oder
-
-        *
-
-    *        *
-        *
-        *
-        *
-        *   über 10 000 N
-
-        *   bis
-
-        *   50 000 N
+        *   über 375 kW bis 750 kW oder
+            über 10 000 N bis 50 000 N
 
         *   3 000 EUR
 
@@ -1053,11 +938,7 @@ Inhaltsverzeichnis
         *
         *   ee)
 
-        *   über 750 kW
-
-        *   oder über
-
-        *   50 000 N
+        *   über 750 kW oder über 50 000 N
 
         *   4 000 EUR
 
@@ -1104,7 +985,7 @@ Inhaltsverzeichnis
         *
         *   k)
 
-        *   Rettungs- oder Sicherheitsgeräte
+        *   Rettungs- oder Sicherheitsgerät
 
         *   130 bis 500 EUR
 
@@ -1139,8 +1020,9 @@ Inhaltsverzeichnis
     *        *
         *   B.
 
-        *   Zuschlag zu den Grundgebühren nach A je angefangene Tätigkeitsstunde
-            einschließlich der An- und Abfahrtzeiten zu auswärtigen Dienststätten
+        *   Zuschlag zu den Grundgebühren nach Buchstabe A je angefangene
+            Tätigkeitsstunde einschließlich der An- und Abfahrtzeiten zu
+            auswärtigen Dienststätten
 
         *   65 bis 110 EUR
 
@@ -1148,8 +1030,8 @@ Inhaltsverzeichnis
     *        *
         *   C.
 
-        *   Musterprüfung, Stückprüfung und Nachprüfung von Luftsportgerät
-            (§§ 10, 19 Abs. 4 LuftGerPV)
+        *   Musterprüfung, Stückprüfung und Nachprüfung von Luftsportgerät (§§ 10,
+            13 Absatz 1 und 2 LuftGerPV)
 
         *
 
@@ -1240,7 +1122,9 @@ Inhaltsverzeichnis
         *
         *
         *
-        *   aaa)  Dokumentation, Berichte
+        *   aaa)
+
+        *   Dokumentation, Berichte
 
         *   25 bis 80 EUR
 
@@ -1249,7 +1133,9 @@ Inhaltsverzeichnis
         *
         *
         *
-        *   bbb)  Abnahmeprüfung
+        *   bbb)
+
+        *   Abnahmeprüfung
 
         *   80 bis 350 EUR
 
@@ -1267,7 +1153,9 @@ Inhaltsverzeichnis
         *
         *
         *
-        *   aaa)  Dokumentation, Berichte
+        *   aaa)
+
+        *   Dokumentation, Berichte
 
         *   25 bis 80 EUR
 
@@ -1276,7 +1164,9 @@ Inhaltsverzeichnis
         *
         *
         *
-        *   bbb)  Abnahmeprüfung
+        *   bbb)
+
+        *   Abnahmeprüfung
 
         *   50 bis 150 EUR
 
@@ -1285,7 +1175,7 @@ Inhaltsverzeichnis
         *   D.
 
         *   Musterprüfung, Stückprüfung und Nachprüfung von Flugmodellen mit einer
-            höchstzulässigen Startmasse bis 150 kg (§ 9 Abs. 4, § 14 Abs. 4
+            höchstzulässigen Startmasse bis 150 kg (§ 9 Absatz 3, § 13 Absatz 3
             LuftGerPV)
 
         *
@@ -1320,8 +1210,8 @@ Inhaltsverzeichnis
 
     *        *   2.
 
-        *   Änderung der Musterzulassung, Ergänzung zur Musterzulassung
-            (§ 5 LuftVZO)
+        *   Änderung der Musterzulassung, Ergänzung zur Musterzulassung (§ 5
+            LuftVZO)
 
         *
 
@@ -1331,7 +1221,7 @@ Inhaltsverzeichnis
         *   Grundgebühr
 
         *   1/10 bis 5/10 der Musterzulassungsgrundgebühr des jeweiligen Gerätes
-            nach II. Nr. 1 Buchstabe A
+            nach Abschnitt II Nummer 1 Buchstabe A
 
 
     *        *
@@ -1339,24 +1229,27 @@ Inhaltsverzeichnis
 
         *   Zuschlag je angefangene Tätigkeitsstunde einschließlich der An- und
             Abfahrtzeiten zu auswärtigen Dienststätten für alle Tätigkeiten im
-            Zusammenhang mit der Änderung der oder Ergänzung zur Musterzulassung
+            Zusammenhang mit der Änderung der Musterzulassung oder Ergänzung zur
+            Musterzulassung
 
         *   65 bis 110 EUR
 
 
     *        *   3.
 
-        *   Anordnung von Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit
-            (§ 8 LuftGerPV)
+        *   Anordnung von Maßnahmen zur Aufrechterhaltung der Lufttüchtigkeit (§ 8
+            LuftGerPV)
 
         *   50 bis 2 000 EUR
 
 
     *        *   4.
 
-        *   Erteilung von Berechtigungen (§ 4 LuftVZO)
+        *   Erteilung von Berechtigungen (§ 4 LuftVZO, Verordnung (EU) Nr.
+            748/2012 Anhang Teil 21 Abschnitt O)
 
-        *
+        *   100 bis 1 000 EUR
+
 
     *        *
         *   a)
@@ -1370,15 +1263,16 @@ Inhaltsverzeichnis
         *   b)
 
         *   Zuschlag je angefangene Tätigkeitsstunde einschließlich der An- und
-            Abfahrtzeiten zu auswärtigen Dienststätten für alle Tätigkeiten
-            im Zusammenhang mit der Erteilung von Berechtigungen
+            Abfahrtzeiten zu auswärtigen Dienststätten für alle Tätigkeiten im
+            Zusammenhang mit der Erteilung von Berechtigungen
 
         *   65 bis 110 EUR
 
 
     *        *   5.
 
-        *   Änderung der Berechtigungen (§ 4 LuftVZO)
+        *   Änderung der Berechtigungen (§ 4 LuftVZO, Verordnung (EU) Nr. 748/2012
+            Anhang Teil 21 Abschnitt O)
 
         *
 
@@ -1387,8 +1281,8 @@ Inhaltsverzeichnis
 
         *   Grundgebühr je Änderung
 
-        *   1/10 bis 5/10 der Grundgebühr der jeweiligen Berechtigung nach II. Nr.
-            4
+        *   1/10 bis 5/10 der Grundgebühr der jeweiligen Berechtigung nach
+            Abschnitt II Nummer 4
 
 
     *        *
@@ -1396,38 +1290,20 @@ Inhaltsverzeichnis
 
         *   Zuschlag je angefangene Tätigkeitsstunde einschließlich der An- und
             Abfahrtzeiten zu auswärtigen Dienststätten für alle Tätigkeiten im
-            Zusammenhang mit der Änderung von Berechtigung
+            Zusammenhang mit der Änderung von Berechtigungen
 
         *   65 bis 110 EUR
 
 
     *        *   6.
 
-        *   Anerkennung von Prüfstellen für Luftsportgerät (§ 10a Abs. 1
-            LuftGerPV,
-            3\. DV LuftGerPV)
+        *   (weggefallen)
 
         *
 
-    *        *
-        *   a)
-
-        *   Erstmalige Anerkennung
-
-        *   850 EUR
-
-
-    *        *
-        *   b)
-
-        *   Verlängerung der Anerkennung
-
-        *   160 EUR
-
-
     *        *   7.
 
-        *   Verkehrszulassung, Eintragung (§§ 6, 10 und 14 LuftVZO)
+        *   Verkehrszulassung, Eintragung (§§ 6, 9 und 14 LuftVZO)
 
         *
 
@@ -1435,7 +1311,8 @@ Inhaltsverzeichnis
         *   a)
 
         *   Flugzeuge, Drehflügler, Motorsegler, Segelflugzeuge,
-            Ultraleichtflugzeuge, bemannte Ballone mit einer Höchstmasse
+            Ultraleichtflugzeuge und Ultraleichthubschrauber, bemannte Ballone mit
+            einer Höchstmasse
 
         *
 
@@ -1443,12 +1320,8 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   bis
-            2 000 kg
+        *   bis 2 000 kg
 
-        *
-        *
-        *
         *   80 EUR
 
 
@@ -1456,14 +1329,8 @@ Inhaltsverzeichnis
         *
         *   bb)
 
-        *   über
-            2 000 kg
+        *   über   2 000 kg bis  20 000 kg
 
-        *   bis
-
-        *   20 000 kg
-
-        *
         *   350 EUR
 
 
@@ -1471,14 +1338,8 @@ Inhaltsverzeichnis
         *
         *   cc)
 
-        *   über
-            20 000 kg
+        *   über  20 000 kg bis 100 000 kg
 
-        *   bis
-
-        *   100 000 kg
-
-        *
         *   1 000 EUR
 
 
@@ -1486,14 +1347,8 @@ Inhaltsverzeichnis
         *
         *   dd)
 
-        *   über
-            100 000 kg
+        *   über 100 000 kg bis 150 000 kg
 
-        *   bis
-
-        *   150 000 kg
-
-        *
         *   2 500 EUR
 
 
@@ -1501,12 +1356,8 @@ Inhaltsverzeichnis
         *
         *   ee)
 
-        *   über
-            150 000 kg
+        *   über 150 000 kg
 
-        *
-        *
-        *
         *   4 500 EUR
 
 
@@ -1538,15 +1389,23 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   sonstiges Luftfahrtgerät (§ 6 Abs. 1 Nr. 9 LuftVZO)
+        *   sonstiges Luftfahrtgerät (§ 6 Absatz 1 Nummer 9 LuftVZO)
 
         *   Gebührensätze wie bei Buchstabe a, höchstens jedoch
-            800 EUR
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   800 EUR
 
 
     *        *
         *   Beantragt in den Fällen der Buchstaben a bis c dieselbe Person, die
-            den Antrag auf Musterzulassung eines Luftfahrtgerätes gestellt hat,
+            den Antrag auf Musterzulassung eines Luftfahrtgeräts gestellt hat,
             nach Erteilung der Musterzulassung auch die Verkehrszulassung für ein
             Luftfahrtgerät dieses Musters, so entsteht die
             Verkehrszulassungsgebühr für das erste Stück nicht.
@@ -1557,7 +1416,7 @@ Inhaltsverzeichnis
         *   d)
 
         *   Zuschlag für die Erteilung der Verkehrszulassung am Auslieferungsort
-            des Luftfahrzeuges
+            des Luftfahrzeugs
 
         *
 
@@ -1565,8 +1424,8 @@ Inhaltsverzeichnis
         *
         *   aa)
 
-        *   für die ersten drei notwendigen Abwesenheitstage des Mitarbeiters der
-            zuständigen Stelle vom Dienstsitz
+        *   für die ersten drei notwendigen Abwesenheitstage der Mitarbeiterin/des
+            Mitarbeiters der zuständigen Stelle vom Dienstsitz
 
         *   2 000 bis 5 000 EUR
 
@@ -1582,7 +1441,7 @@ Inhaltsverzeichnis
 
     *        *   8.
 
-        *   Änderung der Verkehrszulassung oder der Eintragung (§§ 10, 14 LuftVZO)
+        *   Änderung der Verkehrszulassung oder der Eintragung (§§ 9, 14 LuftVZO)
 
         *
 
@@ -1591,8 +1450,17 @@ Inhaltsverzeichnis
 
         *   Änderung der Verkehrszulassung
 
-        *   1/10 bis 3/10 der Gebühren nach II. Nr. 7 mindestens jedoch
-            30 EUR
+        *   1/10 bis 3/10 der Gebühren gemäß Abschnitt II Nummer 7, mindestens
+            jedoch
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   30 EUR
 
 
     *        *
@@ -1614,8 +1482,8 @@ Inhaltsverzeichnis
     *        *   9.
 
         *   Erteilung einer weiteren Ausfertigung des Lufttüchtigkeitszeugnisses,
-            des Lärmzeugnisses oder des Eintragungsscheines (§§ 10, 14 LuftVZO, §
-            10 Abs. 1 Nr. 2 VwKostG)
+            des Lärmzeugnisses oder des Eintragungsscheins (§§ 9, 14 LuftVZO, § 10
+            Absatz 1 Nummer 2 VwKostG)
 
         *   30 EUR
 
@@ -1623,7 +1491,7 @@ Inhaltsverzeichnis
     *        *   10.
 
         *   Vorläufige Verkehrszulassung (§ 12 LuftVZO) oder Flugzulassung
-            (Verordnung (EG) Nr. 1702/2003 Anhang Teil 21, Abschnitt H)
+            (Verordnung (EU) Nr. 748/2012 Anhang Teil 21 Abschnitt H)
 
         *
 
@@ -1639,10 +1507,9 @@ Inhaltsverzeichnis
         *   aa)
 
         *   Flugzeuge, Drehflügler, Luftschiffe, Motorsegler, Segelflugzeuge,
-            Ultraleichtflugzeuge, bemannte Ballone
+            Ultraleichtflugzeuge und Ultraleichthubschrauber, bemannte Ballone
 
-        *   5/10 der Gebühr
-            gemäß II. Nr. 7
+        *   5/10 der Gebühr gemäß Abschnitt II Nummer 7
 
 
     *        *
@@ -1660,8 +1527,16 @@ Inhaltsverzeichnis
 
         *   sonstiges Luftfahrtgerät
 
-        *   Gebührensätze wie bei Buchstabe aa, höchstens jedoch
-            500 EUR
+        *   Gebührensätze wie bei Doppelbuchstabe aa, höchstens jedoch
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *   500 EUR
 
 
     *        *
@@ -1669,8 +1544,7 @@ Inhaltsverzeichnis
 
         *   Allgemeine Zulassung
 
-        *   50/10 der Gebühr
-            gemäß II. Nr. 10 a
+        *   50/10 der Gebühr gemäß Abschnitt II Nummer 10 Buchstabe a
 
 
     *        *   11.
@@ -1678,16 +1552,16 @@ Inhaltsverzeichnis
         *   Lufttüchtigkeitszeugnisse für die Ausfuhr von Luftfahrtgerät (§ 13
             LuftVZO)
 
-        *   Gebührensätze wie
-            bei II Nr. 10 a
+        *   Gebührensätze wie bei Abschnitt II Nummer 10 Buchstabe a
 
 
     *        *   12.
 
-        *   Erteilung eines Auszuges einschließlich einer Bescheinigung über
-            Nichteintragung (§ 14 LuftVZO)
+        *   Erteilung eines Auszugs oder einer Bescheinigung über Nichteintragung
+            (§ 14 LuftVZO)
 
-        *
+        *   40 EUR
+
 
     *        *
         *   a)
@@ -1707,22 +1581,22 @@ Inhaltsverzeichnis
 
     *        *   13.
 
-        *   Zulassung von Abweichungen (IV Nr. 1 der Anlage 1 zu § 14 Abs. 1 und §
-            19 Abs. 1 LuftVZO)
+        *   Zulassung von Abweichungen (Abschnitt IV Nummer 1 der Anlage 1 zu § 14
+            Absatz 1 und § 19 Absatz 1 LuftVZO)
 
         *   40 EUR
 
 
     *        *   14.
 
-        *   Zulassung einer Ausnahme (§ 3 Abs. 2 LuftVG)
+        *   Zulassung einer Ausnahme (§ 3 Absatz 2 LuftVG)
 
         *   40 bis 80 EUR
 
 
     *        *   15.
 
-        *   Vormerkung eines Kennzeichens (§ 19 Abs. 2 LuftVZO)
+        *   Vormerkung eines Kennzeichens (§ 19 Absatz 2 LuftVZO)
 
         *   30 EUR
 
@@ -1730,9 +1604,9 @@ Inhaltsverzeichnis
     *        *   16.
 
         *   Änderung eines Lärmzeugnisses ohne Änderung der Musterzulassung (§ 3
-            Abs. 2, § 9 Abs. 4 LuftVZO, § 4 Abs. 4 Landeplatz-LärmschutzV) je
-            angefangene Tätigkeitsstunde einschließlich der An- und Abfahrtzeiten
-            zu auswärtigen Dienststätten
+            Absatz 2, § 9 Absatz 4 LuftVZO, § 4 Absatz 4 Landeplatz-LärmschutzV)
+            je angefangene Tätigkeitsstunde einschließlich der An- und
+            Abfahrtzeiten zu auswärtigen Dienststätten
 
         *   65 bis 110 EUR
 
@@ -1741,7 +1615,8 @@ Inhaltsverzeichnis
 
 
 **III.** **Prüfungen und Überprüfungen von Luftfahrt- und
-    Flugsicherungspersonal für Erlaubnisse und Berechtigungen**
+    Flugsicherungspersonal für den Erwerb von Erlaubnissen und
+    Berechtigungen**
 
     *        *   Gebührentatbestand
 
@@ -1752,78 +1627,65 @@ Inhaltsverzeichnis
 
         *   Privatflugzeugführer
 
-        *
 
     *        *
         *   a)
 
-        *   Privatflugzeugführer (§ 2 LuftPersV)
+        *   Privatflugzeugführer PPL(A) (Anhang I FCL.215 und FCL.235 der
+            Verordnung (EU) Nr. 1178/2011 der Kommission vom 3. November 2011 zur
+            Festlegung technischer Vorschriften und von Verwaltungsverfahren in
+            Bezug auf das fliegende Personal in der Zivilluftfahrt gemäß der
+            Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des
+            Rates)
 
         *
 
     *        *
         *
-        *   aa) Abnahme der theoretischen Prüfung
+        *   aa) Abnahme der theoretischen Prüfung
 
         *   130 EUR
 
 
     *        *
         *
-        *   bb) Abnahme der praktischen Prüfung
-
-        *   75 EUR
-
-
-    *        *
-        *   b)
-
-        *   Privatflugzeugführer PPL(A) (§ 20 Abs. 2 Nr. 1 LuftVZO,
-            JAR-FCL 1.130 u. 1.135 deutsch)
-
-        *
-
-    *        *
-        *
-        *   aa) Abnahme der theoretischen Prüfung
-
-        *   130 EUR
-
-
-    *        *
-        *
-        *   bb) Abnahme der praktischen Prüfung
+        *   bb) Abnahme der praktischen Prüfung
 
         *   100 EUR
 
 
-    *        *   2.
+    *        *
+        *   b)
 
-        *   Erwerb der Berechtigung zur Durchführung kontrollierter Sichtflüge
-            (§ 5 Abs. 3, § 82 LuftPersV)
+        *   Leichtluftfahrzeugführer LAPL(A) (Anhang I FCL.120 und FCL.125 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
     *        *
-        *   a)
+        *
+        *   aa) Abnahme der theoretischen Prüfung
 
-        *   Abnahme der theoretischen Prüfung
-
-        *   55 EUR
+        *   130 EUR
 
 
     *        *
-        *   b)
-
-        *   Abnahme der praktischen Prüfung
+        *
+        *   bb) Abnahme der praktischen Prüfung
 
         *   75 EUR
 
 
+    *        *   2.
+
+        *   (weggefallen)
+
+        *
+
     *        *   3.
 
-        *   Berufsflugzeugführer CPL(A) (§ 20 Abs. 2 Nr. 1 LuftVZO,
-            JAR-FCL 1.160 u. 1.170 deutsch)
+        *   Berufsflugzeugführer CPL(A) (Anhang I FCL.310 und FCL.320 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -1845,31 +1707,32 @@ Inhaltsverzeichnis
 
     *        *   3a.
 
-        *   Verkehrsflugzeugführer in mehrköpfigen Flugbesatzungen
-            (JAR-FCL 1.510 deutsch)
+        *   Verkehrsflugzeugführer in Luftfahrzeugen mit mehrköpfiger
+            Flugbesatzung (Anhang I FCL.410.A und FCL.415.A der Verordnung (EU)
+            Nr. 1178/2011)
 
         *
 
     *        *
         *   a)
 
-        *   theoretische Prüfung
+        *   Abnahme der theoretischen Prüfung
 
-        *   440 EUR
+        *   570 EUR
 
 
     *        *
         *   b)
 
-        *   praktische Prüfung
+        *   Abnahme der praktischen Prüfung
 
         *   140 EUR
 
 
     *        *   4.
 
-        *   Verkehrsflugzeugführer ATP(A) (§ 20 Abs. 2 Nr. 1 LuftVZO,
-            JAR-FCL 1.285 u. 1.295 deutsch)
+        *   Verkehrsflugzeugführer ATPL(A) (Anhang I FCL.515 und FCL.520.A der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -1891,8 +1754,8 @@ Inhaltsverzeichnis
 
     *        *   5.
 
-        *   Privathubschrauberführer PPL(H) (§ 20 Abs. 2 Nr. 2 LuftVZO,
-            JAR-FCL 2.130 u. 2.135 deutsch)
+        *   Privathubschrauberführer PPL(H) (Anhang I FCL.215 und FCL.235 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -1912,10 +1775,33 @@ Inhaltsverzeichnis
         *   100 EUR
 
 
+    *        *   5a.
+
+        *   Leichtluftfahrzeugführer LAPL(H) (Anhang I FCL.120 und FCL.125 der
+            Verordnung (EU) Nr. 1178/2011)
+
+        *
+
+    *        *
+        *   a)
+
+        *   Abnahme der theoretischen Prüfung
+
+        *   130 EUR
+
+
+    *        *
+        *   b)
+
+        *   Abnahme der praktischen Prüfung
+
+        *   75 EUR
+
+
     *        *   6.
 
-        *   Berufshubschrauberführer CPL(H) (§ 20 Abs. 2 Nr. 2 LuftVZO,
-            JAR-FCL 2.160 u. 2.170 deutsch)
+        *   Berufshubschrauberführer CPL(H) (Anhang I FCL.310 und FCL.320 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -1937,8 +1823,8 @@ Inhaltsverzeichnis
 
     *        *   7.
 
-        *   Verkehrshubschrauberführer ATPL(H) (§ 20 Abs. 2 Nr. 2 LuftVZO,
-            JAR-FCL 2.285 u. 2.295 deutsch)
+        *   Verkehrshubschrauberführer ATPL(H) (Anhang I FCL.515 und FCL.520.H der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -1960,7 +1846,8 @@ Inhaltsverzeichnis
 
     *        *   8.
 
-        *   Segelflugzeugführer (§ 38 LuftPersV)
+        *   Segelflugzeugführer (Anhang I FCL.120, FCL.125, FCL.215 und FCL.235
+            der Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -2004,7 +1891,8 @@ Inhaltsverzeichnis
 
     *        *   10.
 
-        *   Freiballonführer (§ 47 LuftPersV)
+        *   Freiballonführer (Anhang I FCL.120, FCL.125, FCL.215 und FCL.235 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -2026,7 +1914,8 @@ Inhaltsverzeichnis
 
     *        *   11.
 
-        *   Luftschiffführer (§ 51 LuftPersV)
+        *   Luftschiffführer (Anhang I FCL.215, FCL.235, FCL.310 und FCL.320 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -2048,7 +1937,7 @@ Inhaltsverzeichnis
 
     *        *   12.
 
-        *   Flugingenieur F/E (§ 20 Abs. 2 Nr. 3 LuftVZO, JAR-FCL 4.160 und 4.170
+        *   Flugingenieur F/E (§ 1 Nummer 2 LuftPersV, JAR-FCL 4.160 und 4.170
             deutsch)
 
         *
@@ -2071,17 +1960,17 @@ Inhaltsverzeichnis
 
     *        *   13.
 
-        *   Klassen- und Musterberechtigungen oder Befähigungsüberprüfung (§§ 3a,
-            3b, 40a, 46 Abs. 5, § 52a LuftPersV, JAR-FCL 1.261 u. 1.262 deutsch,
-            JAR-FCL 2.261 u. 2.262 deutsch, JAR-FCL 4.261 u. 4.262 deutsch)
+        *   Abnahme der Prüfung für Klassen- und Musterberechtigungen oder
+            Befähigungsüberprüfung (JAR-FCL 4.261 und 4.262 deutsch; Anhang I
+            FCL.725 und Anhang V CC.TRA.225 der Verordnung (EU) Nr. 1178/2011)
 
         *   50 bis 350 EUR
 
 
     *        *   14.
 
-        *   Instrumentenflugberechtigung (§§ 52b, 135 Abs. 1 Nr. 1 LuftPersV,
-            JAR-FCL 1.195 u. 1.210 deutsch, JAR-FCL 2.195 u. 2.210 deutsch)
+        *   Instrumentenflugberechtigung (Anhang I FCL.615 und FCL.620 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
@@ -2103,100 +1992,102 @@ Inhaltsverzeichnis
 
     *        *   15.
 
-        *   Abnahme der theoretischen Prüfung für Langstreckenflugberechtigung (§
-            77 LuftPersV)
+        *   Abnahme der theoretischen Prüfung für die Langstreckenflugberechtigung
+            (§ 77 LuftPersV)
 
         *   280 EUR
 
 
     *        *   16.
 
-        *   Abnahme der Prüfung für die Kunstflugberechtigung
-            (§ 81 Abs. 5 LuftPersV)
+        *   (weggefallen)
 
-        *   50 EUR
-
+        *
 
     *        *   17.
 
-        *   Abnahme der praktischen Prüfung zur Wolkenflugberechtigung
-            (§ 85 Abs. 6 LuftPersV)
+        *   Abnahme der praktischen Prüfung zur Wolkenflugberechtigung (Anhang I
+            FCL.830 der Verordnung (EU) Nr. 1178/2011)
 
         *   30 EUR
 
 
     *        *   18.
 
-        *   Streu- und Sprühberechtigung (§ 86 Abs. 6 LuftPersV)
+        *   Eintrag der Startarten bei Segelflugzeugen; Abnahme der praktischen
+            Prüfung zur Erweiterung der Lizenz auf andere Ballonklassen oder
+            Ballongruppen (Anhang I FCL.130.S, FCL.135.B, FCL.225.B und FCL.225.B
+            Buchstabe b der Verordnung (EU) Nr. 1178/2011)
 
-        *
-
-    *        *
-        *   a)
-
-        *   Abnahme der theoretischen Prüfung
-
-        *   170 EUR
-
-
-    *        *
-        *   b)
-
-        *   Abnahme der praktischen Prüfung
-
-        *   110 EUR
+        *   25 bis 50 EUR
 
 
     *        *   19.
 
-        *   Abnahme der praktischen Prüfung zur Passagierberechtigung
-            (§ 84a Abs. 4 LuftPersV)
+        *   Abnahme der praktischen Prüfung zur Passagierberechtigung (§ 84a
+            Absatz 4 LuftPersV)
 
         *   25 bis 75 EUR
 
 
     *        *   20.
 
-        *   Abnahme einer Prüfung zur Berechtigung zur Ausbildung von
-            Flugzeugführern, ausgenommen Privatflugzeugführer nach § 1 LuftPersV,
-            Hubschrauberführern und Flugingenieuren sowie zur Ausbildung für den
-            Erwerb von Klassen- und Musterberechtigungen und der
-            Instrumentenflugberechtigung (§ 20 Abs. 2 Nr. 4 LuftVZO, JAR-FCL 1
-            Abschnitt H, JAR-FCL 2 Abschnitt H, JAR-FCL 4 Abschnitt H)
-
-        *   100 bis 500 EUR
-
-
-    *        *   21.
-
-        *   Abnahme einer Prüfung zur Berechtigung zur Ausbildung von
-            Privatflugzeugführern nach § 1 LuftPersV, Segelflugzeugführern,
-            Freiballonführern und Luftschiffführern (§ 88a Abs. 1 Nr. 3, Abs. 3, §
-            89 Abs. 1 Nr. 3, Abs. 3, § 94 Abs. 1 Nr. 3, Abs. 2, § 95 Abs. 1 Nr. 3,
-            Abs. 3 LuftPersV)
-
-        *   35 bis 250 EUR
-
-
-    *        *   22.
-
-        *   Abnahme einer Prüfung zur Berechtigung zur Ausbildung von
-            Luftsportgeräteführern (§ 95a Abs. 1 Nr. 3 LuftPersV)
-
-        *   35 bis 150 EUR
-
-
-    *        *   23.
-
-        *   Prüfung und Überprüfung für Prüfer von Luftfahrtgerät
-            (§ 104 LuftPersV)
+        *   Abnahme einer Kompetenzbeurteilung zur Berechtigung zur Ausbildung
 
         *
 
     *        *
         *   a)
 
-        *   für Klasse 1 bis 3 und 5 (§§ 107, 105 LuftPersV)
+        *   von Flugzeug- und Hubschrauberführern, einschließlich der jeweiligen
+            Berechtigung zur Ausbildung von Leichtluftfahrzeugführern
+
+        *
+
+    *        *
+        *   b)
+
+        *   zum Erwerb der Klassen- und Musterberechtigung sowie der
+            Instrumentenflugberechtigung und
+
+        *
+
+    *        *
+        *   c)
+
+        *   von Flugingenieuren (JAR-FCL 4 Abschnitt H; Anhang I FCL.935 und
+            FCL.935.TRI der Verordnung (EU) Nr. 1178/2011; § 88 LuftPersV)
+
+        *   100 bis 500 EUR
+
+
+    *        *   21.
+
+        *   Abnahme einer Kompetenzbeurteilung zur Berechtigung,
+            Segelflugzeugführer, Luftschiffführer und Ballonführer auszubilden
+            (Anhang I FCL. 935 der Verordnung (EU) Nr. 1178/2011)
+
+        *
+
+    *        *   22.
+
+        *   Abnahme einer Prüfung zur Berechtigung, Luftsportgeräteführer
+            auszubilden (§ 95a Absatz 1 Satz 1 Nummer 3 LuftPersV)
+
+        *   35 bis 150 EUR
+
+
+    *        *   23.
+
+        *   Ausstellung der Erlaubnis für Prüfer von Luftfahrtgerät (§ 108
+            LuftPersV)
+
+        *
+
+    *        *
+        *   a)
+
+        *   für die Klassen 1, 3 und 5 (§§ 105, 107 LuftPersV)
 
         *   270 EUR
 
@@ -2212,8 +2103,8 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   bei Erweiterung der Erlaubnis für Klasse 1 bis 4
-            (§§ 107, 108 Abs. 2 LuftPersV)
+        *   bei Erweiterung der Erlaubnis für die Klassen 1, 3 und 4 (§§ 107, 108
+            Absatz 3 LuftPersV)
 
         *   5/10 bis 10/10 der jeweils für die Gesamtprüfung vorgesehenen Gebühr
 
@@ -2221,33 +2112,76 @@ Inhaltsverzeichnis
     *        *
         *   d)
 
-        *   für Musterberechtigung
+        *   für Musterberechtigungen
 
         *   130 bis 600 EUR
 
 
     *        *   24.
 
-        *   Abnahme der theoretischen Prüfung für Flugdienstberater
-            (§ 113 LuftPersV)
+        *   Flugdienstberater (§ 113 LuftPersV)
+
+        *
+
+    *        *
+        *   a)
+
+        *   Abnahme der theoretischen Prüfung
 
         *   380 EUR
 
 
+    *        *
+        *   b)
+
+        *   Abnahme der praktischen Prüfung
+
+        *   130 EUR
+
+
+    *        *   24a.
+
+        *   Flugbegleiter (Anhang V CC.TRA.220 der Verordnung (EU) Nr. 1178/2011)
+
+        *
+
+    *        *
+        *   a)
+
+        *   Abnahme der theoretischen Prüfung
+
+        *   380 EUR
+
+
+    *        *
+        *   b)
+
+        *   Abnahme der praktischen Prüfung
+
+        *   130 EUR
+
+
     *        *   25.
 
-        *   Abnahme der Prüfung zur Zulassung als Steuerer von Flugmodellen und
-            sonstigem Luftfahrtgerät (§ 6 Abs. 1 Nr. 8 und 9 LuftVZO)
+        *   Abnahme der Prüfung zur Zulassung als Steuerer von sonstigem
+            Luftfahrtgerät (§ 6 Absatz 1 Nummer 9 LuftVZO)
 
         *   25 bis 60 EUR
+
+
+    *        *   25a.
+
+        *   Ausstellen der Bescheinigung nach § 21e Absatz 1 LuftVO
+
+        *   25 EUR
 
 
     *        *   26.
 
         *   Abnahme der Prüfung zum Erwerb von Lizenzen, Erlaubnissen und
-            Berechtigungen für Fluglotsen (§§ 10, 11, 13, 14, 19 FSPersAV);
-            Abnahme der Prüfung zum Erwerb der Erlaubnis und Berechtigungen für
-            das sonstige Flugsicherungsbetriebspersonal (§§ 34, 35, 37, 38, 41
+            Berechtigungen für Fluglotsen (§§ 10, 11, 13, 14, 19 FSPersAV) sowie
+            Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen
+            für das sonstige Flugsicherungsbetriebspersonal (§§ 34, 35, 37, 38, 41
             FSPersAV) sowie Überprüfung im Rahmen der §§ 27 und 43 FSPersAV
 
         *   1 100 bis 3 750 EUR
@@ -2255,17 +2189,19 @@ Inhaltsverzeichnis
 
     *        *   27.
 
-        *   Abnahme der Prüfung zum Erwerb der Erlaubnis und Berechtigungen für
-            das flugsicherungstechnische Personal (§§ 34, 35, 37, 38, 41 FSPersAV)
-            sowie Überprüfung im Rahmen des § 43 FSPersAV
+        *   Abnahme der Prüfung zum Erwerb der Erlaubnis und der Berechtigungen
+            für das flugsicherungstechnische Personal (§§ 34, 35, 37, 38, 41
+            FSPersAV) sowie Überprüfung im Rahmen des § 43 FSPersAV
 
         *   250 bis 1 100 EUR
 
 
     *        *   28.
 
-        *   Abnahme der Prüfung bei Wiederholung einer nichtbestandenen Prüfung
-            oder Überprüfung (§ 128 Abs. 13 LuftPersV)
+        *   Abnahme der Prüfung bei Wiederholung einer nicht bestandenen Prüfung
+            oder Überprüfung (§ 128 Absatz 6 und 7 sowie § 128a Absatz 3 und 4
+            LuftPersV; Anhang I FCL.025, FCL.125, FCL.235, FCL.320 und FCL.520.A
+            und H der Verordnung (EU) Nr. 1178/2011)
 
         *   3/10 bis 10/10 der für die betreffende Prüfung oder Überprüfung
             vorgesehenen Gebühr
@@ -2273,10 +2209,10 @@ Inhaltsverzeichnis
 
     *        *   29.
 
-        *   Prüfungen und Überprüfungen für die Verlängerung oder Erneuerung der
-            Lizenzen, Erlaubnisse und Berechtigungen bzw. um die Rechte aus einer
-            Lizenz weiter ausüben zu dürfen sowie Durchführung der Lehrgänge für
-            Luftsportgerätepersonal
+        *   Verlängerung oder Erneuerung der Erlaubnisse und Berechtigungen
+            beziehungsweise, um die Rechte aus einer Erlaubnis weiter ausüben zu
+            dürfen, sowie Durchführung der Lehrgänge für Luftsportgerätepersonal
+            (Nummern 1, 3 bis 14 sowie 20 bis 22)
 
         *   5/10 bis 10/10 der für die Prüfung für den Erwerb der betreffenden
             Erlaubnis oder Berechtigung vorgesehenen Gebühr
@@ -2284,10 +2220,9 @@ Inhaltsverzeichnis
 
     *        *   30.
 
-        *   Prüfung zur Erteilung einer entsprechenden zivilen Lizenz, Erlaubnis
-            oder Berechtigung für Inhaber einer militärischen Erlaubnis (§ 27 Abs.
-            2 Satz 2 LuftVZO, JAR-FCL 1.020 deutsch, JAR-FCL 2.020 deutsch, JAR
-            FCL 4.020 deutsch)
+        *   Erteilung einer entsprechenden zivilen Erlaubnis oder Berechtigung für
+            Inhaber einer militärischen Erlaubnis (JAR-FCL 4.020 deutsch; Artikel
+            10 der Verordnung (EU) Nr. 1178/2011; § 12 LuftPersV)
 
         *   3/10 bis 10/10 der für die entsprechende zivile Erlaubnis oder
             Berechtigung vorgesehenen Gebühr
@@ -2295,15 +2230,15 @@ Inhaltsverzeichnis
 
     *        *   31.
 
-        *   Überprüfung im Rahmen des § 29 Abs. 2 LuftVZO
+        *   Anordnung oder Untersagung nach § 20 LuftPersV
 
         *   100 bis 260 EUR
 
 
     *        *   32.
 
-        *   Erteilung der Berechtigung für freigabeberechtigtes Personal
-            (§ 111a LuftPersV, Artikel 5 der VO (EG) 2042/2003)
+        *   Erteilung der Berechtigung für freigabeberechtigtes Personal (§ 111a
+            LuftPersV; Artikel 5 der Verordnung (EU) Nr. 1321/2014
 
         *
 
@@ -2334,48 +2269,56 @@ Inhaltsverzeichnis
     *        *
         *   d)
 
+        *   Kategorie B3
+
+        *   240 EUR
+
+
+    *        *
+        *   e)
+
         *   Kategorie C
 
         *   270 EUR
 
 
     *        *
-        *   e)
+        *   f)
 
-        *   Erweiterung der Berechtigung Kategorie A bis C
+        *   alle anderen Kategorien
+
+        *   150 EUR
+
+
+    *        *
+        *   g)
+
+        *   Erweiterung der Berechtigung der Kategorien A bis C
 
         *   5/10 bis 10/10 der jeweils für die Gesamtprüfung nach den Buchstaben a
             bis d vorgesehenen Gebühr
 
 
     *        *
-        *   f)
+        *   h)
 
-        *   Musterberechtigung
+        *   Muster- und Gruppenberechtigung
 
         *   130 bis 600 EUR
 
 
     *        *   33.
 
-        *   Erneute Ladung nach Nichtteilnahme an einer Prüfung
+        *   Erneute Ladung wegen Nichtteilnahme an einer Prüfung
 
-        *   2/10 der für die Prüfung vorgesehenen Gebühr
-
-
-    *        *   34.
-
-        *   Abnahme der Prüfungen zum Erwerb von Flugfunkzeugnissen
-            (§ 14 FlugfunkV)
-
-        *   Gebühr gemäß § 18 FlugfunkV in der jeweils geltenden Fassung
+        *   40 EUR
 
 
 
 
 
-**IV.** **Lizenzen, Luftfahrerscheine, Erlaubnisse (Registrierung) und
-    Berechtigungen für Luftfahrt- und Flugsicherungspersonal**
+**IV.** **Erlaubnisse und Berechtigungen für Luftfahrt- und
+    Flugsicherungspersonal**
 
     *        *   Gebührentatbestand
 
@@ -2384,35 +2327,38 @@ Inhaltsverzeichnis
 
     *        *   1.
 
-        *   Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal
+        *   Erteilung der Lizenzen und Luftfahrerscheine für Luftfahrtpersonal,
             einschließlich gleichzeitig einzutragender Klassen- und
-            Musterberechtigungen (§§ 26, 27, 28 Abs. 5 LuftVZO)
+            Musterberechtigungen, sowie Erteilung der Flugbegleiterbescheinigung
+            (§ 8 LuftPersV; Anhang I FCL.015, Anhang V CC.CCA.100 und Anhang VI
+            ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011; Verordnung (EU) Nr.
+            1321/2014)
 
         *   50 bis 70 EUR
 
 
     *        *   2.
 
-        *   Erteilung und Aufhebung einer Beschränkung der Lizenz für
-            Luftfahrzeugführer (§§ 26, 27, 28 Abs. 5 LuftVZO, § 44 Abs. 4 und 5
-            LuftPersV)
+        *   Erteilung und Aufhebung einer Beschränkung der Erlaubnis für
+            Luftfahrzeugführer (Anhang VI ARA.FCL.250 der Verordnung (EU) Nr.
+            1178/2011)
 
         *   20 bis 30 EUR
 
 
     *        *   3.
 
-        *   Erteilung von Klassen- und Musterberechtigungen (§§ 3a, 3b, 40a,
-            52a LuftPersV, JAR-FCL 1.245 deutsch, JAR-FCL 2.245 deutsch,
-            JAR-FCL 4.245 deutsch, Verordnung (EG) 2042/2003)
+        *   Erteilung von Klassen- und Musterberechtigungen (Anhang I Abschnitt H,
+            Anhang V CC.TRA.225 und Anhang VI ARA.FCL.200 der Verordnung (EU) Nr.
+            1178/2011; Verordnung (EU) Nr. 1321/2014; §§ 108, 110 LuftPersV)
 
         *   40 bis 100 EUR
 
 
     *        *   4.
 
-        *   Erteilung der Instrumentenflugberechtigung (§ 53 LuftPersV,
-            JAR-FCL 1.180 deutsch, JAR-FCL 2.180 deutsch)
+        *   Erteilung der Instrumentenflugberechtigung (Anhang I Abschnitt G und
+            Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011)
 
         *   40 bis 100 EUR
 
@@ -2426,65 +2372,75 @@ Inhaltsverzeichnis
 
     *        *   6.
 
-        *   Erteilung der Berechtigung für Passagier-, Kunst-, Schlepp-, Nacht-
-            und Wolkenflug, zur Durchführung kontrollierter Sichtflüge und für das
-            Abstreuen und Absprühen von Stoffen (§ 81 Abs. 7, §§ 84, 84a, 85, 86
-            LuftPersV, JAR-FCL 1.125 deutsch, JAR-FCL 2.125 (c) (3) deutsch)
+        *   Erteilung der Berechtigung für Passagier-, Kunst-, Schlepp-, Wolken-,
+            Berg- oder Nachtflug (§§ 84, 84a LuftPersV; Anhang I FCL.015 Buchstabe
+            b, FCL.800, FCL.805, FCL.810, FCL.815, FCL.820 und FCL.830 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *   40 bis 100 EUR
 
 
     *        *   7.
 
-        *   Erteilung einer Berechtigung zur praktischen Ausbildung
-            (§§ 88, 88a, 89, 94, 95, 95a LuftPersV)
+        *   Erteilung einer Berechtigung zur praktischen Ausbildung (§§ 88, 95a
+            LuftPersV; Anhang VI ARA.FCL.200 der Verordnung (EU) Nr. 1178/2011)
 
         *   40 bis 100 EUR
 
 
     *        *   8.
 
-        *   Anerkennung von Lizenzen oder Erlaubnissen einschließlich
-            Berechtigungen im Einzelfall (§§ 28, 28a LuftVZO)
+        *   Anerkennung von Erlaubnissen einschließlich Berechtigungen nach Anhang
+            III der Verordnung (EU) Nr. 1178/2011 sowie Anerkennung von
+            Flugsimulationsübungsgeräten nach § 14 LuftPersV
 
         *   40 bis 250 EUR
 
 
     *        *   9.
 
-        *   Erteilung der Erlaubnis (Registrierung) zur Ausbildung von Luftfahrern
-            (JAR-FCL 1.055, 2.055 deutsch)
+        *   Erteilung der Zulassung oder eines Zeugnisses zur Ausbildung von
+            Luftfahrern (Anhang V CC.TRA.215 und Anhang VI ARA.GEN.300 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *
 
     *        *
         *   a)
 
-        *   im Falle des § 33 in Verbindung mit § 31 Abs. 1 Nr. 1 LuftVZO
+        *   im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 1 LuftPersV
 
-        *   110 bis 250 EUR
+        *   110 bis 600 EUR
 
 
     *        *
         *   b)
 
-        *   im Falle des § 33 in Verbindung mit § 31 Abs. 1 Nr. 2 LuftVZO
+        *   im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 2 LuftPersV
+
+        *   110 bis 250 EUR
+
+
+    *        *
+        *   c)
+
+        *   im Falle des § 28 in Verbindung mit § 26 Absatz 1 Nummer 3 LuftPersV
 
         *   110 bis 1 250 EUR
 
 
     *        *   10.
 
-        *   Abnahmeprüfung (§ 35 LuftVZO)
+        *   (weggefallen)
 
-        *   60 bis 250 EUR
-
+        *
 
     *        *   11.
 
-        *   Verlängerung einer Lizenz für Prüfer von Luftfahrtgerät oder
-            freigabeberechtigtes Personal in Verbindung mit der Neuausstellung der
-            Prüfererlaubnis (§§ 109, 111a LuftPersV)
+        *   Verlängerung eines Ausweises für Prüfer von Luftfahrtgerät oder einer
+            Lizenz für freigabeberechtigtes Personal in Verbindung mit der
+            Erneuerung der Prüfererlaubnis (§§ 109, 111a LuftPersV; Anhang III
+            66\.A.40 der Verordnung (EU) Nr. 1321/2014)
 
         *   40 EUR
 
@@ -2493,8 +2449,8 @@ Inhaltsverzeichnis
 
         *   Erteilung der Auszubildendenlizenz und zusätzlicher Erlaubnisse und
             Befugnisse für Fluglotsen (§ 12 FSPersAV), Erteilung der Erlaubnisse
-            für das sonstige Flugsicherungsbetriebspersonal und flugsicherungs-
-            technisches Personal (§ 36 FSPersAV)
+            für das sonstige Flugsicherungsbetriebspersonal und für
+            flugsicherungstechnisches Personal (§ 36 FSPersAV)
 
         *   80 EUR
 
@@ -2503,7 +2459,7 @@ Inhaltsverzeichnis
 
         *   Erteilung der Fluglotsenlizenz und zusätzlicher Berechtigungen für
             Fluglotsen (§§ 14 und 15 FSPersAV), Erteilung der Berechtigungen für
-            das sonstige Flugsicherungsbetriebspersonal und
+            das sonstige Flugsicherungsbetriebspersonal und für
             flugsicherungstechnisches Personal (§ 38 FSPersAV)
 
         *   80 EUR
@@ -2522,7 +2478,9 @@ Inhaltsverzeichnis
     *        *   15.
 
         *   Überprüfung der wirtschaftlichen, technischen und flugbetrieblichen
-            Genehmigungsvoraussetzungen von Ausbildungsbetrieben
+            Genehmigungsvoraussetzungen von Ausbildungsbetrieben mittels
+            Ortstermin (Anhang V CC.CCA.100 und Anhang VI ARA.GEN.300, 310 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *   50 bis 770 EUR
 
@@ -2530,8 +2488,8 @@ Inhaltsverzeichnis
     *        *   16.
 
         *   Ausstellung einer Bescheinigung über die allgemeine Anerkennung einer
-            ausländischen Lizenz oder Erlaubnis (§ 28 Abs. 2 LuftVZO, JAR-FCL
-            1\.015, 2.015, 4.015 deutsch)
+            ausländischen Erlaubnis oder Berechtigung (§ 13 LuftPersV; Anhang III
+            der Verordnung (EU) Nr. 1178/2011)
 
         *   30 bis 300 EUR
 
@@ -2539,15 +2497,16 @@ Inhaltsverzeichnis
     *        *   17.
 
         *   Anerkennung einer Stelle für die Abnahme von Sprachprüfungen für
-            Luftfahrer (§ 125a Abs. 1 LuftPersV)
+            Luftfahrer (§ 125a Absatz 1 LuftPersV)
 
         *   250 bis 3 800 EUR
 
 
     *        *   18.
 
-        *   Aufsicht über eine Stelle, die für die Abnahme von Sprachprüfungen
-            anerkannt ist (§ 125a Abs. 2 LuftPersV)
+        *   Überprüfung einer Stelle, die für die Abnahme von Sprachprüfungen
+            anerkannt ist, auf Fortbestehen der Anerkennungsvoraussetzungen und
+            Einhaltung der Nebenbestimmungen (§ 125a Absatz 2 LuftPersV)
 
         *   250 bis 2 200 EUR
 
@@ -2555,15 +2514,16 @@ Inhaltsverzeichnis
     *        *   19.
 
         *   Erstmaliger Eintrag des Nachweises der Sprachkenntnisse in die Lizenz
-            oder Ausstellung einer gesonderten Bescheinigung (§ 125 Abs. 3, 5 und
-            6 LuftPersV)
+            oder Ausstellung einer gesonderten Bescheinigung (Anhang I FCL.055
+            Buchstabe a der Verordnung (EU) Nr. 1178/2011; § 125 LuftPersV), je
+            Sprache
 
         *   15 bis 35 EUR
 
 
     *        *   20.
 
-        *   Gebühr für die Ausstellung einer Zweitschrift
+        *   Ausstellung einer Zweitschrift
 
         *   35 EUR
 
@@ -2728,6 +2688,64 @@ Inhaltsverzeichnis
         *   50 bis 1 000 EUR
 
 
+    *        *   4a.
+
+        *   Zeugnis nach Artikel 8a der Verordnung (EG) Nr. 216/2008 in Verbindung
+            mit § 10a LuftVG einschließlich der Genehmigung des Flugplatzhandbuchs
+
+        *
+
+    *        *
+        *   a)
+
+        *   für Flughäfen gemäß § 1 der Flughafenkoordinierungs-
+            Durchführungsverordnung
+
+        *   2 500 bis 300 000 EUR
+
+
+    *        *
+        *   b)
+
+        *   für sonstige Flughäfen
+
+        *   1 000 bis 100 000 EUR
+
+
+    *        *
+        *   c)
+
+        *   für Landeplätze
+
+        *   100 bis 20 000 EUR
+
+
+    *        *   4b.
+
+        *   Genehmigung von Änderungen nach Anhang II ADR.AR.C.040 in Verbindung
+            mit Anhang III ADR.OR.B.040 der Verordnung (EU) Nr. 139/2014
+
+        *   100 bis 5 000 EUR
+
+
+    *        *   4c.
+
+        *   Genehmigung eines Verfahrens für den Umgang mit nicht
+            genehmigungspflichtigen Änderungen nach Anhang II ADR.AR.C.035 in
+            Verbindung mit Anhang III ADR.OR.B.040 der Verordnung (EU) Nr.
+            139/2014
+
+        *   100 bis 1 000 EUR
+
+
+    *        *   4d.
+
+        *   Freistellung eines Flugplatzes gemäß § 10a LuftVG in Verbindung mit
+            Artikel 4 Absatz 3b der Verordnung (EG) Nr. 216/2008
+
+        *   bis 500 EUR
+
+
     *        *   5.
 
         *   Genehmigung wesentlicher Erweiterungen oder Änderungen der Anlage und
@@ -2738,7 +2756,7 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   eines Flughafens
+        *   eines Flughafens (§ 41 Absatz 2 LuftVZO)
 
         *   1 600 bis 300 000 EUR
 
@@ -2746,7 +2764,8 @@ Inhaltsverzeichnis
     *        *
         *   b)
 
-        *   eines Landeplatzes außer Buchstabe c
+        *   eines Landeplatzes außer Buchstabe c (§ 51 Absatz 2, § 41 Absatz 2
+            LuftVZO)
 
         *   330 bis 50 000 EUR
 
@@ -2754,8 +2773,9 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge oder
-            Ultraleichtflugzeuge
+        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge,
+            Ultraleichtflugzeuge oder Ultraleichthubschrauber (§ 51 Absatz 2, § 41
+            Absatz 2 LuftVZO)
 
         *   150 bis 2 000 EUR
 
@@ -2763,7 +2783,7 @@ Inhaltsverzeichnis
     *        *
         *   d)
 
-        *   eines Segelfluggeländes
+        *   eines Segelfluggeländes (§ 56 Absatz 2, § 41 Absatz 2 LuftVZO)
 
         *   150 bis 2 000 EUR
 
@@ -2778,7 +2798,7 @@ Inhaltsverzeichnis
     *        *
         *   a)
 
-        *   eines Flughafens
+        *   eines Flughafens (§ 41 Absatz 2 LuftVZO)
 
         *   1 600 bis 300 000 EUR
 
@@ -2786,7 +2806,8 @@ Inhaltsverzeichnis
     *        *
         *   b)
 
-        *   eines Landeplatzes außer Buchstabe c
+        *   eines Landeplatzes außer Buchstabe c (§ 51 Absatz 2, § 41 Absatz 2
+            LuftVZO)
 
         *   330 bis 50 000 EUR
 
@@ -2794,8 +2815,9 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge oder
-            Ultraleichtflugzeuge
+        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge,
+            Ultraleichtflugzeuge oder Ultraleichthubschrauber (§ 51 Absatz 2, § 41
+            Absatz 2 LuftVZO)
 
         *   150 bis 2 000 EUR
 
@@ -2803,7 +2825,7 @@ Inhaltsverzeichnis
     *        *
         *   d)
 
-        *   eines Segelfluggeländes
+        *   eines Segelfluggeländes (§ 56 Absatz 2, § 41 Absatz 2 LuftVZO)
 
         *   150 bis 2 000 EUR
 
@@ -2835,8 +2857,8 @@ Inhaltsverzeichnis
     *        *
         *   c)
 
-        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge oder
-            Ultraleichtflugzeuge
+        *   eines Sonderlandeplatzes für Hängegleiter, Gleitflugzeuge,
+            Ultraleichtflugzeuge oder Ultraleichthubschrauber
 
         *   70 bis 1 000 EUR
 
@@ -2874,7 +2896,7 @@ Inhaltsverzeichnis
     *        *   9.
 
         *   Plangenehmigung oder Planfeststellung im vereinfachten Verfahren
-            (§ 8 Abs. 2 LuftVG, § 76 Abs. 3 VwVfG)
+            (§ 74 Abs. 6 VwVfG LuftVG, § 76 Abs. 3 VwVfG)
 
         *
 
@@ -2897,8 +2919,7 @@ Inhaltsverzeichnis
     *        *   10.
 
         *   Entscheidung über Unterbleiben von Planfeststellung oder
-            Plangenehmigung (§ 10 Abs. 1 Satz 3, § 8 Abs. 3 LuftVG, § 76 Abs. 2
-            VwVfG)
+            Plangenehmigung (§ 74 Abs. 1 und 6, § 76 Abs. 2 VwVfG)
 
         *
 
@@ -3004,7 +3025,7 @@ Inhaltsverzeichnis
 
     *        *   16.
 
-        *   Nachprüfungen (§§ 47, 53, 60 LuftVZO)
+        *   Nachprüfungen, Audits und Inspektionen (§§ 47, 53, 60 LuftVZO)
 
         *
 
@@ -3035,7 +3056,7 @@ Inhaltsverzeichnis
     *        *   17.
 
         *   Erlaubnis zum Starten und Landen auf einem Flugplatz innerhalb von
-            Betriebsbeschränkungszeiten (§ 25 LuftVG, § 15 LuftVO)
+            Betriebsbeschränkungszeiten (§ 25 LuftVG, § 18 LuftVO)
 
         *
 
@@ -3043,8 +3064,7 @@ Inhaltsverzeichnis
         *   a)
 
         *   Flugzeuge, Drehflügler, Motorsegler, Segelflugzeuge,
-            Ultraleichtflugzeuge und Ballone mit einer höchstzulässigen Startmasse
-            (MTOW)
+            Ultraleichtflugzeuge, Ultraleichthubschrauber und Ballone
 
         *   50 bis 3 000 EUR
 
@@ -3216,15 +3236,15 @@ Inhaltsverzeichnis
 
     *        *   1.
 
-        *   Betriebsgenehmigung von Luftfahrtunternehmen (§ 20 Abs. 1 Satz 1, Abs.
-            4 LuftVG, § 61 Abs. 1 LuftVZO)
+        *   Betriebsgenehmigung von Luftfahrtunternehmen (§ 20 Abs. 1 Satz 1
+            LuftVG, § 61 Abs. 1 LuftVZO)
 
         *   250 bis 8 000 EUR
 
 
     *        *   2.
 
-        *   Erteilung des Luftverkehrsbetreiberzeugnisses (AoC) (§ 61 Abs. 4
+        *   Erteilung des Luftverkehrsbetreiberzeugnisses (AoC) (§ 61 Absatz 3
             LuftVZO in Verbindung mit OPS 1.175 ff., JAR-OPS 3.175 ff. deutsch)
 
         *   1 100 bis 16 000 EUR
@@ -3232,12 +3252,9 @@ Inhaltsverzeichnis
 
     *        *   3.
 
-        *   Genehmigung der nichtgewerbsmäßigen Beförderung von Fluggästen, Post
-            oder Fracht mit Luftfahrzeugen gegen Entgelt (§ 20 Abs. 1 Satz 2
-            LuftVG)
+        *   (weggefallen)
 
-        *   200 bis 820 EUR
-
+        *
 
     *        *   4.
 
@@ -3273,7 +3290,7 @@ Inhaltsverzeichnis
     *        *   8.
 
         *   Zulassung von Ausnahmen für Flüge von und zu bestimmten Flugplätzen (§
-            22a Abs. 2 LuftVO)
+            24 Absatz 2 LuftVO)
 
         *
 
@@ -3303,7 +3320,7 @@ Inhaltsverzeichnis
     *        *   10.
 
         *   Zulassung von Ausnahmen zur Unterschreitung der Sicherheitsmindesthöhe
-            oder der Mindesthöhe bei Überlandflügen nach Sichtflugregeln (§ 6
+            oder der Mindesthöhe bei Überlandflügen nach Sichtflugregeln (§ 37
             LuftVO)
 
         *   50 bis 500 EUR
@@ -3312,21 +3329,21 @@ Inhaltsverzeichnis
     *        *   11.
 
         *   Zulassung von Ausnahmen zum Abwerfen von Gegenständen
-            (§ 7 LuftVO)
+            (§ 13 Absatz 2 LuftVO)
 
         *   60 bis 170 EUR
 
 
     *        *   12.
 
-        *   Zulassung von Ausnahmen vom Kunstflugverbot (§ 8 LuftVO)
+        *   Zulassung von Ausnahmen vom Kunstflugverbot (§ 14 LuftVO)
 
         *   60 bis 150 EUR
 
 
     *        *   13.
 
-        *   Erlaubnis für Schlepp- und Reklameflüge (§ 9 LuftVO)
+        *   Erlaubnis für Schlepp- und Reklameflüge (§ 15 LuftVO)
 
         *   60 bis 260 EUR
 
@@ -3334,7 +3351,7 @@ Inhaltsverzeichnis
     *        *   14.
 
         *   Erlaubnis für Außenstarts und Außenlandungen von Luftfahrzeugen (§ 25
-            LuftVG, § 15 LuftVO), ohne VI. Nr. 15
+            LuftVG, § 18 LuftVO), ohne VI. Nr. 15
 
         *   30 bis 500 EUR
 
@@ -3342,7 +3359,7 @@ Inhaltsverzeichnis
     *        *   15.
 
         *   Erlaubnis für Außenstarts und Außenlandungen von nichtmotorgetriebenen
-            Luftsportgeräten (§ 15 LuftVO)
+            Luftsportgeräten (§ 18 LuftVO)
 
         *   50 bis 260 EUR
 
@@ -3350,14 +3367,14 @@ Inhaltsverzeichnis
     *        *   15a.
 
         *   Gebühr für die Ausnahme von einer verbotenen Nutzung des Luftraums (§
-            15a Abs. 2 LuftVO)
+            19 Absatz 2 LuftVO)
 
         *   60 EUR
 
 
     *        *   16.
 
-        *   Erlaubnis nach § 16 LuftVO
+        *   Erlaubnis nach § 20 LuftVO
 
         *
 
@@ -3375,6 +3392,22 @@ Inhaltsverzeichnis
         *   für Flugmodellgelände
 
         *   100 bis 3 500 EUR
+
+
+    *        *   16a.
+
+        *   Erteilung der Erlaubnis für den Betrieb eines unbemannten
+            Luftfahrtsystems oder Flugmodells nach § 21a Absatz 1 LuftVO
+
+        *   30 bis 3 500 EUR
+
+
+    *        *   16b.
+
+        *   Erteilung einer Ausnahmeerlaubnis nach § 21b Absatz 2 oder Absatz 3
+            LuftVO
+
+        *   50 bis 3 500 EUR
 
 
     *        *   17.
@@ -3400,7 +3433,7 @@ Inhaltsverzeichnis
             gemeinsame Vorschriften für die Durchführung von Luftverkehrsdiensten
             in der Gemeinschaft (Neufassung) (ABl. L 293 vom 31.10.2008, S. 3) bei
             Unternehmen gemäß § 61 Abs. 1 Nr. 1 LuftVZO und Anweisungen der
-            Behörde (OPS 1.015)
+            Behörde
 
         *   100 bis 1 600 EUR
 
@@ -3412,7 +3445,7 @@ Inhaltsverzeichnis
         *   Entscheidung nach Artikel 4 Buchstabe c, Artikel 7, 8 Abs. 6, Artikel
             9 Abs. 1, Artikel 12 und 13 Abs. 2 und 3 der Verordnung (EG) Nr.
             1008/08 bei Unternehmen gemäß § 61 Abs. 1 Nr. 2 LuftVZO und
-            Anweisungen der Behörde (OPS 1.015)
+            Anweisungen der Behörde
 
         *   650 bis 30 000 EUR
 
@@ -3431,7 +3464,7 @@ Inhaltsverzeichnis
         *   Entscheidung nach Artikel 6 und 13 der Verordnung (EG) Nr. 1008/08 und
             § 1 Abs. 2 Nr. 1 und 2 LuftBO in Verbindung mit OPS 1.175 (a) oder
             JAR-OPS 3.175 deutsch bei Unternehmen gemäß § 61 Abs. 1 Nr. 1 LuftVZO
-            und Anweisungen der Behörde (OPS 1.015)
+            und Anweisungen der Behörde
 
         *   200 bis 1 600 EUR
 
@@ -3443,7 +3476,7 @@ Inhaltsverzeichnis
         *   Entscheidung nach Artikel 6 und 13 der Verordnung (EG) Nr. 1008/08 und
             § 1 Abs. 2 LuftBO in Verbindung mit OPS 1.175 oder JAR-OPS 3.175
             deutsch bei Unternehmen gemäß § 61 Abs. 1 Nr. 2 LuftVZO und
-            Anweisungen der Behörde (OPS 1.015)
+            Anweisungen der Behörde
 
         *   650 bis 30 000 EUR
 
@@ -3462,7 +3495,7 @@ Inhaltsverzeichnis
         *   Entscheidung nach Artikel 6 und 13 der Verordnung (EG) Nr. 1008/08 und
             § 1 Abs. 2 LuftBO in Verbindung mit OPS 1.175 oder JAR-OPS 3.175
             deutsch bei Unternehmen gemäß § 61 Abs. 1 Nr. 1 LuftVZO und
-            Anweisungen der Behörde (OPS 1.015)
+            Anweisungen der Behörde
 
         *   500 bis 7 000 EUR
 
@@ -3474,7 +3507,7 @@ Inhaltsverzeichnis
         *   Entscheidung nach Artikel 6 und 13 der Verordnung (EG) Nr. 1008/08 und
             § 1 Abs. 2 LuftBO in Verbindung mit OPS 1.175 oder JAR-OPS 3.175
             deutsch bei Unternehmen gemäß § 61 Abs. 1 Nr. 2 LuftVZO und
-            Anweisungen der Behörde (OPS 1.015)
+            Anweisungen der Behörde
 
         *
 
@@ -3558,16 +3591,20 @@ Inhaltsverzeichnis
         *   d)
 
         *   nach Artikel 8 Abs. 2 oder Abs. 3 der Verordnung (EWG) 3922/91 oder §
-            1 Abs. 2 LuftBO in Verbindung mit OPS 1.010 oder JAR-OPS 3.010 deutsch
+            1 Abs. 2 LuftBO
 
         *   50 bis 4 000 EUR
 
 
     *        *   21.
 
-        *   (weggefallen)
+        *   Genehmigung von Ausnahmen nach Anhang II der Verordnung (EG) Nr.
+            216/2008 (Artikel 4 Absatz 4 und Artikel 5 der Verordnung (EG) Nr.
+            216/2008 in Verbindung mit der Entscheidung C (2009) 7633 der
+            Kommission vom 14.10.2009)
 
-        *
+        *   500 bis 2 500 EUR
+
 
     *        *   22.
 
@@ -3614,32 +3651,33 @@ Inhaltsverzeichnis
     *        *
         *   d)
 
-        *   für Flüge nach Instrumentenflugregeln über dem Nordatlantik (§ 2a Abs.
-            3 der 3. DV LuftBO und § 1 Abs. 2 Nr. 1 und 2 LuftBO in Verbindung mit
-            OPS 1.243 oder 1.870 Buchstabe a)
+        *   für Flüge nach Instrumentenflugregeln über dem Nordatlantik (§ 3
+            Absatz 3 der 3. DV LuftBO, § 1 Absatz 2 Nummer 1 und 2 sowie § 24a
+            Absatz 1 Nummer 2 LuftBO in Verbindung mit Anhang V SPA.PBN.100 und
+            SPA.PBN.105 oder Anhang V SPA.MNPS.100 und SPA.MNPS.105 der Verordnung
+            (EU) Nr. 965/2012)
 
-        *   200 bis 1 200 EUR
-
+        *
 
     *        *
         *   e)
 
-        *   für Flüge entsprechend der Flächennavigation (RNAV) und erforderlicher
-            Navigationsleistungen (RNP) (§ 3 Abs.1 FSAV in Verbindung mit OPS
-            1\.243 und 1.865)
+        *   für Flüge entsprechend der Flächennavigation (RNAV) und für Flüge mit
+            erforderlichen Navigationsleistungen (§ 24a Absatz 1 Nummer 3 LuftBO,
+            § 3 Absatz 1 FSAV in Verbindung mit CAT.IDE.345 und Anhang V
+            SPA.PBN.100 der Verordnung (EU) Nr. 965/2012)
 
-        *   150 bis 800 EUR
-
+        *
 
     *        *
         *   f)
 
         *   für Flüge im RVSM-Luftraum (RVSM – Reduced Vertical Separation
-            Minimum) § 2b der 3. DV LuftBO und § 1 Abs. 2 Nr. 1 und 2 LuftBO in
-            Verbindung mit OPS 1.241)
+            Minimum; § 4 der 3. DV LuftBO, § 1 Absatz 2 Nummer 1 und 2 sowie § 24a
+            Absatz 1 Nummer 1 LuftBO in Verbindung mit Anhang V SPA.RVSM.100 der
+            Verordnung (EU) Nr. 965/2012)
 
-        *   150 bis 1 100 EUR
-
+        *
 
     *        *
         *   g)
@@ -3734,6 +3772,23 @@ Inhaltsverzeichnis
         *   250 bis 1 000 EUR
 
 
+    *        *   31a.
+
+        *   Genehmigung abweichender Regelungen für den Hubschrauberbetrieb von
+            und zu Landestellen an Einrichtungen von öffentlichem Interesse
+            (Anhang II ARO.OPS.220, Anhang V CAT.POL.H.225 der Verordnung (EU) Nr.
+            965/2012 in Verbindung mit § 18 Absatz 4 LuftVO)
+
+        *   200 bis 1 000 EUR
+
+
+    *        *   31b.
+
+        *   Änderung oder Erweiterung einer Genehmigung nach Nummer 31a
+
+        *   100 bis 500 EUR
+
+
     *        *   32.
 
         *   Übertragung der Aufsicht über D-registrierte Luftfahrzeuge an andere
@@ -3741,6 +3796,30 @@ Inhaltsverzeichnis
             Verbindung mit § 3a LuftVG)
 
         *   100 bis 5 000 EUR
+
+
+    *        *   33.
+
+        *   Genehmigung von Verträgen über das An- oder Vermieten eines
+            Luftfahrzeugs (Anhang II ARO.OPS 110 der Verordnung (EU) Nr. 965/2012
+            in Verbindung mit Artikel 13 der Verordnung (EG) Nr. 1008/2008)
+
+        *
+
+    *        *
+        *   a)
+
+        *   Vermietung eines Luftfahrzeugs (Lease-out)
+
+        *   150 bis 500 EUR
+
+
+    *        *
+        *   b)
+
+        *   Anmietung eines Luftfahrzeugs (Lease-in)
+
+        *   500 bis 1 200 EUR
 
 
 
@@ -3755,22 +3834,7 @@ Inhaltsverzeichnis
 
     *        *   1.
 
-        *   Ausstellung von
-
-        *
-
-    *        *
-        *   a)
-
-        *   Besatzungsausweisen
-
-        *   50 EUR
-
-
-    *        *
-        *   b)
-
-        *   eines entsprechenden deutschen Ausweises (§ 28 Abs. 5 LuftVZO)
+        *   Ausstellung von Besatzungsausweisen
 
         *   50 EUR
 
@@ -3814,6 +3878,29 @@ Inhaltsverzeichnis
         *   350 bis 900 EUR
 
 
+    *        *   3a.
+
+        *   Qualifikationsnachweis für die Ausbilder von
+
+        *
+
+    *        *
+        *   a)
+
+        *   Speditionsangestellten, die an der Abwicklung von Gefahrgut beteiligt
+            sind,
+
+        *
+
+    *        *
+        *   b)
+
+        *   Angestellten von Luftfahrtunternehmen und
+            Frachtabfertigungsdienstleistern, die gefährliche Güter annehmen
+
+        *   500 EUR
+
+
     *        *   4.
 
         *   Erteilung einer Genehmigung zur Beförderung gefährlicher Güter (§ 1
@@ -3824,60 +3911,27 @@ Inhaltsverzeichnis
 
     *        *   5.
 
-        *   Zustimmung zur Einrichtung von Bodenfunkstellen (§ 81 Abs. 1 LuftVZO),
-            ohne Auslagen gemäß Nummer 7
-
-        *   30 bis 160 EUR
-
-
-    *        *   6.
-
-        *   Anhörung im Rahmen der Zustimmungsverfahren zur Einrichtung von
-            Bodenfunkstellen (§ 81 Abs. 1 Satz 2 LuftVZO)
-
-        *   50 bis 160 EUR
-
-
-    *        *   7.
-
-        *   Zustimmung des Flugsicherungsunternehmens zum Einrichten, Errichten
-            und Betreiben von besonderen Geräten zur Flugsicherung, insbesondere
-            Funknavigationseinrichtungen (§ 81 Abs. 2 LuftVZO)
-
-        *   140 EUR
-
-
-    *        *   8.
-
-        *   Abnahme, Überwachung und Prüfung von technischen Anlagen und Geräten
-            (§ 27c Abs. 2 Nr. 2 Buchstabe a und b LuftVG)
+        *   (weggefallen)
 
         *
 
-    *        *
-        *   a)
+    *        *   6.
 
-        *   Grundgebühr
+        *   (weggefallen)
 
-        *   80 bis 130 000 EUR
+        *
 
+    *        *   7.
 
-    *        *
-        *   b)
+        *   (weggefallen)
 
-        *   Zuschlag je angefangene Stunde für alle Tätigkeiten im Zusammenhang
-            mit der Abnahme, Überwachung und Prüfung dieser Anlagen und Geräte
+        *
 
-        *   46 bis 92 EUR
+    *        *   8.
 
+        *   (weggefallen)
 
-    *        *
-        *   c)
-
-        *   Nachprüfung
-
-        *   5/10 der erhobenen Grundgebühr zuzüglich Zuschlag nach Buchstabe b
-
+        *
 
     *        *   9.
 
@@ -3973,8 +4027,8 @@ Inhaltsverzeichnis
 
     *        *   12.
 
-        *   Genehmigung zum Durchfliegen von Gebieten mit Flugbeschränkungen (§ 11
-            Abs. 2 Satz 2 LuftVO)
+        *   Genehmigung zum Durchfliegen von Gebieten mit Flugbeschränkungen (§ 17
+            Absatz 2 LuftVO)
 
         *   15 bis 65 EUR
 
@@ -3982,7 +4036,8 @@ Inhaltsverzeichnis
     *        *   13.
 
         *   Anerkennung oder Genehmigungen von Ausbildungslehrgängen
-            (z. B. § 88a Abs. 1 Nr. 4 LuftPersV, JAR-FCL 1.340)
+            (z. B. § 95a Absatz 1 Satz 1 Nummer 4 LuftPersV; Anhang I FCL.115 der
+            Verordnung (EU) Nr. 1178/2011))
 
         *
 
@@ -4005,7 +4060,8 @@ Inhaltsverzeichnis
     *        *   14.
 
         *   Qualifikation synthetischer Flugübungsgeräte (JAR-STD 1A.015, 2A.015,
-            3A.015, 4A.015, 1H.015, 2H.015, 3H.015)
+            3A.015, 4A.015, 1H.015, 2H.015, 3H.015 Anhang VI ARA.FSTD.100 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *   100 bis 7 000 EUR
 
@@ -4013,7 +4069,8 @@ Inhaltsverzeichnis
     *        *   15.
 
         *   Anerkennung synthetischer Flugübungsgeräte (§ 28b LuftVZO, JAR-FCL
-            1\.005, JAR-FCL 2.005, JAR-FCL 4.005)
+            1\.005, JAR-FCL 2.005, JAR-FCL 4.005 § 15 LuftPersV; Anhang VII
+            ORA.GEN.105 der Verordnung (EU) Nr. 1178/2011)
 
         *   100 bis 2 000 EUR
 
@@ -4037,8 +4094,8 @@ Inhaltsverzeichnis
         *   a)
 
         *   von Schulungsprogrammen zur Ausbildung an synthetischen
-            Flugübungsgeräten (JAR-FCL 1.405 deutsch, JAR-FCL 2.405 deutsch, JAR-
-            FCL 4.405 deutsch)
+            Flugübungsgeräten (JAR-FCL 4.405 deutsch; Anhang VII ORA.ATO.105 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *   100 bis 400 EUR
 
@@ -4046,8 +4103,9 @@ Inhaltsverzeichnis
     *        *
         *   b)
 
-        *   für die Ausbildung an synthetischen Flugübungsgeräten „SFI“ (JAR-FCL
-            1\.405 deutsch, JAR-FCL 2.405 deutsch, JAR-FCL 4.405 deutsch)
+        *   von Lehrpersonal für die Ausbildung an synthetischen Flugübungsgeräten
+            (JAR-FCL 4.405 deutsch; Anhang VII ORA.ATO.105 der Verordnung (EU) Nr.
+            1178/2011)
 
         *   80 bis 300 EUR
 
@@ -4055,7 +4113,8 @@ Inhaltsverzeichnis
     *        *   18.
 
         *   Anerkennung als flugmedizinisches Zentrum oder als flugmedizinischer
-            Sachverständiger (§ 24e LuftVZO)
+            Sachverständiger (Anhang VI ARA.AeMC.110 der Verordnung (EU) Nr.
+            1178/2011)
 
         *   70 bis 910 EUR
 
@@ -4063,8 +4122,9 @@ Inhaltsverzeichnis
     *        *   19.
 
         *   Prüfung des Fortbestehens der Anerkennungsvoraussetzungen von
-            flugmedizinischen Zentren und flugmedizinischen Sachverständigen (§
-            24e Abs. 7 LuftVZO)
+            flugmedizinischen Zentren und flugmedizinischen Sachverständigen
+            mittels Ortstermin (Anhang VI ARA.AeMC.110 und ARA.MED.200 der
+            Verordnung (EU) Nr. 1178/2011)
 
         *   200 bis 2 600 EUR
 
@@ -4072,15 +4132,16 @@ Inhaltsverzeichnis
     *        *   20.
 
         *   Anerkennung eines Grund- oder Aufbaulehrgangs für flugmedizinische
-            Sachverständige (§ 24e Abs. 2 Nr. 3 bzw. Abs. 3 Nr. 4 LuftVZO)
+            Sachverständige (Anhang IV MED.D.020 der Verordnung (EU) Nr.
+            1178/2011)
 
         *   500 bis 1 500 EUR
 
 
     *        *   21.
 
-        *   Anerkennung eines flugmedizinischen Fortbildungslehrgangs (§ 24e Abs.
-            6 LuftVZO)
+        *   Anerkennung eines flugmedizinischen Fortbildungslehrgangs (Anhang IV
+            MED.D.020 der Verordnung (EU) Nr. 1178/2011)
 
         *   500 EUR
 
@@ -4099,8 +4160,8 @@ Inhaltsverzeichnis
 
     *        *   24.
 
-        *   Anordnung, die Tauglichkeit durch ein Gutachten nachzuweisen (§ 24c
-            Abs. 2 LuftVZO)
+        *   Anordnung, die Tauglichkeit durch ein Gutachten nachzuweisen (Anhang
+            IV ARA.MED.325 der Verordnung (EU) Nr. 1178/2011)
 
         *   50 bis 150 EUR
 
@@ -4115,16 +4176,17 @@ Inhaltsverzeichnis
 
     *        *   26.
 
-        *   Untersagung der Aufnahme oder Weiterführung der Ausbildung (§ 24 Abs.
-            4 LuftVZO)
+        *   Untersagung der Aufnahme oder Weiterführung der Ausbildung (§ 20
+            LuftPersV)
 
         *   30 bis 250 EUR
 
 
     *        *   27.
 
-        *   Anerkennung von Prüfern (JAR-FCL 1.030, JAR-FCL 2.030, JAR-FCL 4.030,
-            § 128 LuftPersV, Artikel 5 der Verordnung (EG) 2042/2003)
+        *   Anerkennung von Prüfern (Anhang I FCL.1025 und Anhang VI ARA.FCL.200
+            der Verordnung (EU) Nr. 1178/2011; § 128 und § 128a LuftPersV; Artikel
+            5 der Verordnung (EU) Nr. 1321/2014)
 
         *   30 bis 260 EUR
 
@@ -4133,7 +4195,7 @@ Inhaltsverzeichnis
 
         *   Anerkennung von Lehrgängen und technischen Schulen für Prüfer von
             Luftfahrtgerät oder freigabeberechtigtes Personal (Artikel 6 der
-            Verordnung (EG) 2042/2003)
+            Verordnung (EU) Nr. 1321/2014)
 
         *   200 bis 2 200 EUR
 
@@ -4141,7 +4203,8 @@ Inhaltsverzeichnis
     *        *   29.
 
         *   Durchführung von Fortbildungslehrgängen für Fluglehrer durch das
-            Luftfahrt-Bundesamt (JAR-FCL 1.355)
+            Luftfahrt-Bundesamt (Anhang I FCL.940.FI der Verordnung (EU) Nr.
+            1178/2011)
 
         *   100 bis 250 EUR
 
@@ -4159,15 +4222,16 @@ Inhaltsverzeichnis
         *   Überprüfung der bei der Anmeldung zur Ausbildung oder mit dem Antrag
             auf Anerkennung einer ausländischen oder Umschreibung einer
             militärischen Lizenz oder Erlaubnis vorzulegenden Unterlagen sowie
-            Prüfung der fachlichen Voraussetzungen (§ 24 Abs. 4 LuftVZO)
+            Prüfung der fachlichen Voraussetzungen (§ 12 Absatz 1 und § 19 Absatz
+            1 LuftPersV und Anhang III der Verordnung (EU) Nr. 1178/2011)
 
         *   50 bis 180 EUR
 
 
     *        *   32.
 
-        *   Anerkennung von Fortbildungslehrgängen für Fluglehrer (z. B. JAR-FCL
-            1\.355)
+        *   Anerkennung von Fortbildungslehrgängen für Fluglehrer (z. B. Anhang I
+            FCL.940.FI Buchstabe a Nummer 2 der Verordnung (EU) Nr. 1178/2011)
 
         *   100 EUR
 
@@ -4212,11 +4276,12 @@ Inhaltsverzeichnis
 
     *        *   35.
 
-        *   Anerkennung von sonstigen Stellen für die Unterweisung in
-            Sofortmaßnahmen am Unfallort oder die Ausbildung in Erster Hilfe (§
-            126 LuftPersV)
+        *   Anerkennung als Stelle zur Ausstellung einer Bescheinigung über
+            nachgewiesene Kenntnisse in den Bereichen Luftrecht, Meteorologie und
+            Flugbetrieb sowie über allgemeine praktische Kenntnisse und
+            Fertigkeiten nach den §§ 21d und 21a Absatz 4 Satz 3 Nummer 2 LuftVO
 
-        *   60 bis 550 EUR
+        *   bis 750 EUR
 
 
 

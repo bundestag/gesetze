@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2182
 
-Geändert durch
-:   Art. 9 G v. 19.10.2012 I 2182
+G aufgeh. durch
+:   seinen § 28 mWv 1.11.2020
+
+Zuletzt geändert durch
+:   Art. 24 Abs. 1 G v. 23.6.2017 I 1693
 
 
 ## Abschnitt 1 - Musterverfahrensantrag; Vorlageverfahren
@@ -38,7 +41,8 @@ in denen
 
 
 3.  ein Erfüllungsanspruch aus Vertrag, der auf einem Angebot nach dem
-    Wertpapiererwerbs- und Übernahmegesetz beruht,
+    Wertpapiererwerbs- und Übernahmegesetz, einschließlich eines Anspruchs
+    nach § 39 Absatz 3 Satz 3 und 4 des Börsengesetzes, beruht,
 
 
 
@@ -56,11 +60,17 @@ Vermögensanlagen betreffen. Dies sind insbesondere Angaben in
 
 2.  Verkaufsprospekten, Vermögensanlagen-Informationsblättern und
     wesentlichen Anlegerinformationen nach dem Verkaufsprospektgesetz, dem
-    Vermögensanlagengesetz sowie dem Investmentgesetz,
+    Vermögensanlagengesetz, dem Investmentgesetz in der bis zum 21. Juli
+    2013 geltenden Fassung sowie dem Kapitalanlagegesetzbuch,
 
 
-3.  Mitteilungen über Insiderinformationen im Sinne des § 15 des
-    Wertpapierhandelsgesetzes,
+3.  Mitteilungen über Insiderinformationen im Sinne des Artikels 17 der
+    Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung)
+    und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments
+    und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und
+    2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) in der
+    jeweils geltenden Fassung und des § 26 des Wertpapierhandelsgesetzes,
 
 
 4.  Darstellungen, Übersichten, Vorträgen und Auskünften in der
@@ -188,9 +198,9 @@ der Darstellung.
 Abschluss des Musterverfahrens oder im Fall des § 6 Absatz 5 nach
 Zurückweisung des Musterverfahrensantrags unverzüglich zu löschen.
 
-(5) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung nähere Bestimmungen über Inhalt und Aufbau des
-Klageregisters, insbesondere über Eintragungen, Änderungen,
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung nähere Bestimmungen über Inhalt und
+Aufbau des Klageregisters, insbesondere über Eintragungen, Änderungen,
 Löschungen, Einsichtsrechte, Datensicherheit und Datenschutz zu
 treffen. Dabei sind Löschungsfristen vorzusehen sowie Vorschriften,
 die sicherstellen, dass die Bekanntmachungen
@@ -454,12 +464,18 @@ bestimmtes Mitglied des Senats den Beigeladenen die Ergänzung des
 Schriftsatzes des Musterklägers aufgeben, insbesondere eine Frist zur
 Erklärung über bestimmte klärungsbedürftige Punkte setzen.
 
-(2) Die Ergänzungen der Beigeladenen in ihren vorbereitenden
-Schriftsätzen werden dem Musterkläger und den Musterbeklagten
-mitgeteilt. Schriftsätze der Beigeladenen werden den übrigen
-Beigeladenen nicht mitgeteilt. Schriftsätze des Musterklägers und der
-Musterbeklagten werden den Beigeladenen nur mitgeteilt, wenn sie dies
-gegenüber dem Oberlandesgericht schriftlich beantragt haben.
+(2) Die Schriftsätze der Beteiligten sowie die Zwischenentscheidungen
+des Oberlandesgerichts im Musterverfahren werden in einem
+elektronischen Informationssystem, das nur den Beteiligten zugänglich
+ist, bekannt gegeben. Die im elektronischen Informationssystem
+gespeicherten Daten sind nach rechtskräftigem Abschluss oder nach
+sonstiger Beendigung aller ausgesetzten Verfahren unverzüglich zu
+löschen. Die Landesjustizverwaltungen bestimmen das elektronische
+Informations- und Kommunikationssystem, über das die gespeicherten
+Daten abrufbar sind, und sind für die Abwicklung des elektronischen
+Abrufverfahrens zuständig. Die Länder können ein länderübergreifendes,
+zentrales elektronisches Informations- und Kommunikationssystem
+bestimmen.
 
 
 ### § 13 Wirkung von Rücknahmen; Verfahrensbeendigung

@@ -4,7 +4,7 @@ Title: Übereinkommen - gemäß Artikel 34 des Vertrags über die Europäische U
   Union
 jurabk: EU-RhÜbk
 layout: default
-origslug: eu-rh_bk
+origslug: eu-rhuebk
 slug: eu-rhuebk
 
 ---

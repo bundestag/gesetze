@@ -90,17 +90,17 @@ Deutsche Mark.
 Rentenversicherung der Angestellten, die auf Versicherungsfällen des
 Jahres 1957 beruhen und nach
 §§ 1253ff. der Reichsversicherungsordnung oder §§ 30ff. des
-Angestelltenversicherungsgesetzes              berechnet worden sind,
-sowie bei Renten aus der knappschaftlichen Rentenversicherung und
-Renten aus der Rentenversicherung der Arbeiter und der
-Rentenversicherung der Angestellten mit einem Leistungsanteil aus der
-knappschaftlichen Rentenversicherung darf der nach § 1 Abs. 1 erster
-Halbsatz errechnete Betrag den Betrag nicht überschreiten, der sich
-ergeben würde, wenn die Rente ohne Änderung der übrigen
-Berechnungsfaktoren unter Zugrundelegung der allgemeinen
-Bemessungsgrundlage für das Jahr 1958 berechnet werden würde. Auf die
-übrigen Renten aus der Rentenversicherung der Arbeiter und der
-Rentenversicherung der Angestellten finden
+Angestelltenversicherungsgesetzes berechnet worden sind, sowie bei
+Renten aus der knappschaftlichen Rentenversicherung und Renten aus der
+Rentenversicherung der Arbeiter und der Rentenversicherung der
+Angestellten mit einem Leistungsanteil aus der knappschaftlichen
+Rentenversicherung darf der nach § 1 Abs. 1 erster Halbsatz errechnete
+Betrag den Betrag nicht überschreiten, der sich ergeben würde, wenn
+die Rente ohne Änderung der übrigen Berechnungsfaktoren unter
+Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1958
+berechnet werden würde. Auf die übrigen Renten aus der
+Rentenversicherung der Arbeiter und der Rentenversicherung der
+Angestellten finden
 Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes
 oder Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes
 Anwendung. § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs.
@@ -109,8 +109,8 @@ Anwendung. § 1282 Abs. 2 der Reichsversicherungsordnung und § 59 Abs.
 (2) Absatz 1 Satz 1 gilt nicht für Renten aus der knappschaftlichen
 Rentenversicherung, die nach
 Artikel 2 § 11 oder Artikel 2 § 25 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes
-berechnet worden sind.
+Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden
+sind.
 
 
 ## § 5

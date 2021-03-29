@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3262, 3302
 
-Geändert durch
-:   Art. 3 V v. 1.7.2011 I 1308
+Zuletzt geändert durch
+:   Art. 16 Abs. 1 G v. 10.3.2017 I 420
+
+Änderung durch
+:   Art. 8 V v. 2.1.2018 I 84 (Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeines
@@ -537,13 +540,10 @@ aufgenommen gilt, sobald er im Steuergebiet daran Besitz erlangt hat.
 (5) Der registrierte Empfänger hat ein Belegheft sowie Aufzeichnungen
 über den in seinen Betrieb aufgenommenen Schaumwein zu führen. Das
 zuständige Hauptzollamt kann dazu Anordnungen treffen. Wird Schaumwein
-zu den in § 23 Absatz 2 des Gesetzes in Verbindung mit § 152 Absatz 1
-des Branntweinmonopolgesetzes genannten Zwecken verwendet und ist der
-registrierte Empfänger in Besitz einer Erlaubnis nach § 38 in
-Verbindung mit § 46 Absatz 1 der Branntweinsteuerverordnung, führt er
-die Aufzeichnungen nach Satz 1 in den Aufzeichnungen nach § 38 in
-Verbindung mit § 47 Absatz 2 der Branntweinsteuerverordnung. Der
-empfangene Schaumwein ist vom registrierten Empfänger unverzüglich
+zu den in § 23 Absatz 1 genannten Zwecken verwendet und ist der
+registrierte Empfänger im Besitz einer Erlaubnis nach § 38a, so führt
+er die Aufzeichnungen nach Satz 1 in den Aufzeichnungen nach § 38b.
+Der empfangene Schaumwein ist vom registrierten Empfänger unverzüglich
 aufzuzeichnen.
 
 (6) Bei Änderung der dargestellten Verhältnisse gilt § 7 und für das
@@ -673,7 +673,7 @@ der ausländischen Truppe.
 (4) Wird Schaumwein unter Steueraussetzung von einer ausländischen
 Truppe aus Steuerlagern im Steuergebiet oder von registrierten
 Versendern vom Ort
-der Einfuhr              im Steuergebiet empfangen, kann anstelle der
+der Einfuhr im Steuergebiet empfangen, kann anstelle der
 Freistellungsbescheinigung ein Abwicklungsschein nach § 73 Absatz 1
 Nummer 1 der Umsatzsteuer-Durchführungsverordnung verwendet werden.
 
@@ -688,19 +688,19 @@ Verwaltungsvorschriften sinngemäß.
 
 ### § 15 Teilnahme am EDV-gestützten Beförderungs- und Kontrollsystem
 
-Das Bundesministerium der Finanzen legt durch eine Verfahrensanweisung
-fest, unter welchen Voraussetzungen und Bedingungen Personen, die für
+Die Generalzolldirektion legt durch eine Verfahrensanweisung fest,
+unter welchen Voraussetzungen und Bedingungen Personen, die für
 Beförderungen unter Steueraussetzung das elektronische
 Verwaltungsdokument verwenden, mit den Zollbehörden elektronisch
 Nachrichten über das EDV-gestützte Beförderungs- und Kontrollsystem (§
 9 Absatz 1 des Gesetzes) austauschen. Um auf diese Weise elektronisch
 Nachrichten austauschen zu können, bedarf es der vorherigen Anmeldung
-bei einer vom Bundesministerium der Finanzen in der
-Verfahrensanweisung bekannt gegebenen Stelle. Die Verfahrensanweisung
-wird vom Bundesministerium der Finanzen im Internet unter www.zoll.de
-veröffentlicht. Die Personen nach Satz 1 und ihre IT-Dienstleister
-sind verpflichtet, die in der Verfahrensanweisung festgelegten
-Voraussetzungen und Bedingungen einzuhalten.
+bei einer von der Generalzolldirektion in der Verfahrensanweisung
+bekannt gegebenen Stelle. Die Verfahrensanweisung wird von der
+Generalzolldirektion im Internet unter www.zoll.de veröffentlicht. Die
+Personen nach Satz 1 und ihre IT-Dienstleister sind verpflichtet, die
+in der Verfahrensanweisung festgelegten Voraussetzungen und
+Bedingungen einzuhalten.
 
 
 ### § 16 Erstellen des elektronischen Verwaltungsdokuments, Mitführen eines Ausdrucks

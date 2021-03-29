@@ -44,18 +44,18 @@ Hamburg übertragen.
 (2) Auf den Stromstrecken, deren Verwaltung und Unterhaltung der
 Hansestadt Hamburg übertragen ist, wird die Ausübung der Strom- und
 Schiffahrtpolizei dem
-Reichsstatthalter in Hamburg              übertragen, auch soweit das
-preußische Landesgebiet              berührt wird.
+Reichsstatthalter in Hamburg übertragen, auch soweit das
+preußische Landesgebiet berührt wird.
 
 
 ## § 2
 
 Die nach dem Reichsgesetz vom 29. Juli 1921 (Reichsgesetzbl. S 961)
 vom
-Reich (Reichswasserstraßenverwaltung)              übernommenen
-Wasserstraßen Köhlfleth einschließlich Kleine Elbe (mit Bullerinne)
-und Finkenwärder Aue gehen mit allen Rechten und Pflichten in das
-Eigentum und in die Verwaltung der Hansestadt Hamburg über.
+Reich (Reichswasserstraßenverwaltung) übernommenen Wasserstraßen
+Köhlfleth einschließlich Kleine Elbe (mit Bullerinne) und Finkenwärder
+Aue gehen mit allen Rechten und Pflichten in das Eigentum und in die
+Verwaltung der Hansestadt Hamburg über.
 
 
 ## § 3
@@ -63,8 +63,8 @@ Eigentum und in die Verwaltung der Hansestadt Hamburg über.
 (1) Diese Verordnung tritt mit Wirkung vom 1. Januar 1939 in Kraft.
 
 (2) Der
-Reichsverkehrsminister              erläßt die zur Durchführung ...
-dieser Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
+Reichsverkehrsminister erläßt die zur Durchführung ... dieser
+Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## Schlußformel

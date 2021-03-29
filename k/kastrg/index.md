@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1143
 
 Zuletzt geändert durch
-:   Art. 85 G v. 17.12.2008 I 2586
+:   Art. 2 Abs. 8 G v. 4.11.2016 I 2460
 
 
 ## § 1 Begriffsbestimmung
@@ -61,8 +61,8 @@ Kastration durch einen Arzt auch dann nicht als Körperverletzung
 strafbar, wenn bei dem Betroffenen ein abnormer Geschlechtstrieb
 gegeben ist, der nach seiner Persönlichkeit und bisherigen
 Lebensführung die Begehung rechtswidriger Taten im Sinne der §§ 176
-bis 179, 183, 211, 212, 223 bis 227 des Strafgesetzbuches erwarten
-läßt, und die Kastration nach den Erkenntnissen der medizinischen
+bis 178, 211, 212, 223 bis 227 des Strafgesetzbuches erwarten läßt,
+und die Kastration nach den Erkenntnissen der medizinischen
 Wissenschaft angezeigt ist, um dieser Gefahr zu begegnen und damit dem
 Betroffenen bei seiner künftigen Lebensführung zu helfen.
 

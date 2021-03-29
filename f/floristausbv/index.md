@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 396
 
-Geändert durch
-:   Art. 1 V v. 2.7.2002 I 2480
+Zuletzt geändert durch
+:   Art. 2 Abs. 7 G v. 5. 7.2017 I 2234
 
 
 ## Eingangsformel
@@ -373,8 +373,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Floristen/zur Floristin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Floristen/zur Floristin
 
 (Fundstelle: BGBl. I 1997, 399 - 404)
 

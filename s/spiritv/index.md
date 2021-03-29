@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.6.2003 I 1255;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 24.3.2011 I 519
+:   Art. 15 V v. 5.7.2017 I 2272
 
 
 ## Erster Abschnitt - Spirituosen
@@ -29,44 +29,36 @@ Zuletzt geändert durch
 ### § 1 Weinbrand oder Brandy
 
 (1) Bei der gewerbsmäßigen Herstellung von Weinbrand oder Brandy im
-Sinne des Anhangs II Nr. 5 der Verordnung (EG) Nr. 110/2008 des
+Sinne des Anhangs II Nummer 5 der Verordnung (EG) Nr. 110/2008 des
 Europäischen Parlaments und des Rates vom 15. Januar 2008 zur
 Begriffsbestimmung, Bezeichnung, Aufmachung und Etikettierung von
 Spirituosen sowie zum Schutz geografischer Angaben für Spirituosen und
-zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. EU Nr. L 39 S.
-16) dürfen über die nach der Verordnung (EG) Nr. 110/2008 zulässigen
-Stoffe hinaus nur folgende Stoffe verwendet werden:
+zur Aufhebung der Verordnung (EWG) Nr. 1576/89 (ABl. L 39 vom
+13\.2.2008, S. 16) dürfen im Einklang mit Anhang II Nummer 5 Buchstabe
+d Satz 2 der Verordnung (EG) Nr. 110/2008 zur Abrundung der
+Geschmacks- und Geruchsmerkmale Auszüge verwendet werden. Diese
+Auszüge werden
 
-1.  zur Abrundung der Geschmacks- und Geruchsmerkmale Auszüge, die
-
-    a)  durch Lagerung von Weindestillat auf Eichenholz oder Eichenholzspänen
-        oder
-
-
-    b)  durch Lagerung von Weindestillat auf getrockneten Pflaumen, grünen
-        (unreifen) Walnüssen, auch getrocknet, oder getrockneten
-        Mandelschalen, auch geröstet,
+1.  durch Lagerung von Weindestillat auf Eichenholz oder Eichenholzspänen
+    oder
 
 
-
-
-    hergestellt wurden, wobei das zur Herstellung verwendete Weindestillat
-    zu weniger als 94,8 Volumenprozent destilliert worden sein muss,
-
-
-2.  die nach Maßgabe der Zusatzstoff-Zulassungsverordnung zugelassenen
-    Zusatzstoffe.
+2.  durch Lagerung von Weindestillat auf getrockneten Pflaumen, grünen
+    (unreifen) Walnüssen, auch getrocknet, oder getrockneten
+    Mandelschalen, auch geröstet, hergestellt,
 
 
 
-Die in Anhang I Nr. 3 der Verordnung (EG) Nr. 110/2008 aufgeführten
-Erzeugnisse können auch karamelisiert sein.
+wobei das zur Herstellung verwendete Weindestillat zu weniger als 94,8
+Volumenprozent destilliert worden sein muss. Die in Anhang I Nummer 3
+der Verordnung (EG) Nr. 110/2008 aufgeführten Erzeugnisse können auch
+karamellisiert sein.
 
-(2) Die Auszüge nach Absatz 1 Nr. 1 müssen auf kaltem Wege hergestellt
-werden; dabei dürfen die aus ihren Rückständen gewonnenen Destillate
-verwendet werden.
+(2) Die Auszüge nach Absatz 1 Satz 2 müssen auf kaltem Wege
+hergestellt werden; dabei dürfen die aus ihren Rückständen gewonnenen
+Destillate verwendet werden.
 
-(3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Nr. 1 in
+(3) Weinbrand oder Brandy, bei dem andere als nach Absatz 1 Satz 2 in
 Verbindung mit Absatz 2 zulässige Stoffe verwendet worden sind, darf
 gewerbsmäßig nicht in den Verkehr gebracht werden.
 
@@ -83,12 +75,12 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 2.  die zur Herstellung verwendeten Weintrauben ausschließlich von
     Rebsorten stammen, die von einem Mitgliedstaat der Europäischen Union
-    nach Artikel 120a Absatz 1 und 2 der Verordnung (EG) Nr. 1234/2007 des
-    Rates vom 22. Oktober 2007 über eine gemeinsame Organisation der
-    Agrarmärkte und mit Sondervorschriften für bestimmte
-    landwirtschaftliche Erzeugnisse (Verordnung über die einheitliche GMO)
-    (ABl. L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung,
-    klassifiziert wurden,
+    nach Artikel 81 Absatz 1 und 2 der Verordnung (EU) Nr. 1308/2013 des
+    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine
+    gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
+    zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+    (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+    S. 671) in der jeweils geltenden Fassung, klassifiziert wurden,
 
 
 3.  das Erzeugnis ausschließlich durch Destillieren zu weniger als 86
@@ -100,7 +92,7 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 
 4.  das gesamte verwendete Weindestillat mindestens zwölf Monate in
-    Eichenholzfässern mit einem Füllungsvermögen von höchstens 1.000
+    Eichenholzfässern mit einem Füllungsvermögen von höchstens 1 000
     Litern gereift ist,
 
 
@@ -112,7 +104,7 @@ gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 
 6.  zur Abrundung der Geruchs- und Geschmacksmerkmale nur nach Maßgabe des
-    § 1 Abs. 1 Nr. 1 hergestellte Auszüge aus den dort in Buchstabe b
+    § 1 Absatz 1 Satz 2 hergestellte Auszüge aus den dort in Nummer 2
     genannten Stoffen verwendet worden sind,
 
 
@@ -355,12 +347,12 @@ Absatz 1 der Verordnung (EG) Nr. 110/2008 handelt.
 
 (3) Soweit ein Obstbrand im Sinne des Anhangs II Nummer 9 der
 Verordnung (EG) Nr. 110/2008 oder ein Geist im Sinne
-des Anhangs II              Nummer 17 der Verordnung (EG) Nr. 110/2008
-in einer Region oder in einem Ort hergestellt wird, die oder der zu
-einem in Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 genannten
-Gebiet gehört, darf der Name dieser Region oder dieses Ortes ergänzend
-zur Verkehrsbezeichnung nach Anhang II Nummer 9 Buchstabe f oder g
-oder Nummer 17 der Verordnung (EG) Nr. 110/2008 verwendet werden, wenn
+des Anhangs II Nummer 17 der Verordnung (EG) Nr. 110/2008 in einer
+Region oder in einem Ort hergestellt wird, die oder der zu einem in
+Anlage 4 Nummer 1 Spalte 3 oder Nummer 2 Spalte 3 genannten Gebiet
+gehört, darf der Name dieser Region oder dieses Ortes ergänzend zur
+Verkehrsbezeichnung nach Anhang II Nummer 9 Buchstabe f oder g oder
+Nummer 17 der Verordnung (EG) Nr. 110/2008 verwendet werden, wenn
 zusätzlich zu den Anforderungen an die Produktkategorie nach Anhang II
 der Verordnung (EG) Nr. 110/2008 der Obstbrand oder Geist in der
 jeweiligen Region oder dem jeweiligen Ort aus Früchten hergestellt
@@ -373,10 +365,8 @@ festgesetzten Mindestalkoholgehalt aufweist.
 
 (1) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG)
 Nr. 110/2008 darf unter der in Anhang III Nr. 3 der Verordnung (EG)
-Nr. 110/2008 aufgeführten Verkehrsbezeichnung
-"Korn              oder
-Kornbrand"              gewerbsmäßig nur in den Verkehr gebracht
-werden, wenn
+Nr. 110/2008 aufgeführten Verkehrsbezeichnung „Korn“ oder „Kornbrand“
+gewerbsmäßig nur in den Verkehr gebracht werden, wenn
 
 1.  die Herstellung, einschließlich die des Destillates, und die
     Herabsetzung auf Trinkstärke mit Wasser im Inland, in Österreich oder
@@ -422,20 +412,12 @@ abgefüllte Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung
 
 (2) Eine Spirituose im Sinne des Anhangs II Nr. 3 der Verordnung (EG)
 Nr. 110/2008 darf unter der im Anhang III Nr. 3 der Verordnung (EG)
-Nr. 110/2008 aufgeführten Verkehrsbezeichnung
-"Münsterländer Korn"             ,
-"Münsterländer Kornbrand"             ,
-"Sendenhorster Korn"             ,
-"Sendenhorster Kornbrand"             ,
-"Bergischer Korn"             ,
-"Bergischer Kornbrand"             ,
-"Emsländer Korn"             ,
-"Emsländer Kornbrand"             ,
-"Haselünner Korn"             ,
-"Haselünner Kornbrand"             ,
-"Hasetaler Korn"              oder
-"Hasetaler Kornbrand"              gewerbsmäßig nur in den Verkehr
-gebracht werden, wenn
+Nr. 110/2008 aufgeführten Verkehrsbezeichnung „Münsterländer Korn“,
+„Münsterländer Kornbrand“, „Sendenhorster Korn“, „Sendenhorster
+Kornbrand“, „Bergischer Korn“, „Bergischer Kornbrand“, „Emsländer
+Korn“, „Emsländer Kornbrand“, „Haselünner Korn“, „Haselünner
+Kornbrand“, „Hasetaler Korn“ oder „Hasetaler Kornbrand“ gewerbsmäßig
+nur in den Verkehr gebracht werden, wenn
 
 1.  das Destillat
 
@@ -461,24 +443,14 @@ gebracht werden, wenn
 
 3.  der Alkoholgehalt der fertigen Spirituose
 
-    a)  im Falle von
-        "Münsterländer Korn"                         ,
-        "Sendenhorster Korn"                         ,
-        "Bergischem Korn"                         ,
-        "Emsländer Korn"                         ,
-        "Haselünner Korn"                          oder
-        "Hasetaler Korn"                          mindestens 32
-        Volumenprozent,
+    a)  im Falle von „Münsterländer Korn“, „Sendenhorster Korn“, „Bergischem
+        Korn“, „Emsländer Korn“, „Haselünner Korn“ oder „Hasetaler Korn“
+        mindestens 32 Volumenprozent,
 
 
-    b)  im Falle von
-        "Münsterländer Kornbrand"                         ,
-        "Sendenhorster Kornbrand"                         ,
-        "Bergischem Kornbrand"                         ,
-        "Emsländer Kornbrand"                         ,
-        "Haselünner Kornbrand"                          oder
-        "Hasetaler Kornbrand"                          mindestens 37,5
-        Volumenprozent
+    b)  im Falle von „Münsterländer Kornbrand“, „Sendenhorster Kornbrand“,
+        „Bergischem Kornbrand“, „Emsländer Kornbrand“, „Haselünner Kornbrand“
+        oder „Hasetaler Kornbrand“ mindestens 37,5 Volumenprozent
 
 
 
@@ -554,11 +526,21 @@ anzugeben. An Stelle der Namen der Früchte können auch andere
 entsprechende Bezeichnungen wie insbesondere Gattungsbezeichnungen
 verwendet werden. Bei den in § 10 Abs. 2 oder 3 genannten Getränken
 ist die Verwendung nicht aus der Gärung stammender Kohlensäure in
-Verbindung mit der Verkehrsbezeichnung kenntlich zu machen. Diese
-Angabe kann entfallen, wenn auf der Fertigpackung ein Verzeichnis der
-Zutaten im Sinne der Lebensmittel-Kennzeichnungsverordnung angegeben
-ist. Artikel 113d Absatz 1 Unterabsatz 3 der Verordnung (EG) Nr.
-1234/2007 bleibt unberührt.
+Verbindung mit der Bezeichnung des Lebensmittels kenntlich zu machen.
+Diese Angabe kann entfallen, wenn auf der Fertigpackung ein
+Verzeichnis der Zutaten im Sinne der Verordnung (EU) Nr. 1169/2011 des
+Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend
+die Information der Verbraucher über Lebensmittel und zur Änderung der
+Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des
+Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie
+87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der
+Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des
+Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und
+2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der
+Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S.
+41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der
+jeweils geltenden Fassung angegeben ist. Anhang VII Teil II Nummer 1
+Unterabsatz 6 der Verordnung (EU) Nr. 1308/2013 bleibt unberührt.
 
 (2) Soweit die in § 10 Absatz 3 bezeichneten Getränke die
 Anforderungen nach Absatz 1 erfüllen, dürfen sie als „…-Schaumwein“ in
@@ -639,8 +621,9 @@ den Verkehr gebracht werden.
 
 -
 
+(zu § 4 Abs. 1)
 
-### Anlage 1 (zu § 4 Abs. 1) Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
+### Anlage 1 Antrag auf Erteilung einer Prüfungsnummer für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1260)
 Zuständige Stelle: ............................
@@ -687,8 +670,9 @@ gewähren.
 (Ort, Datum)                           (Unterschrift des
 Antragstellers)
 
+(zu § 5 Abs. 2)
 
-### Anlage 2 (zu § 5 Abs. 2) Bewertungsschema für Deutschen Weinbrand
+### Anlage 2 Bewertungsschema für Deutschen Weinbrand
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1261)
 
@@ -896,8 +880,9 @@ Antragstellers)
 
 
 
+(zu § 5 Abs. 3 Nr. 1)
 
-### Anlage 3 (zu § 5 Abs. 3 Nr. 1) Abkürzungen der Bundesländer
+### Anlage 3 Abkürzungen der Bundesländer
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
@@ -975,8 +960,9 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1262
 
 
 
+(zu § 9 und § 9a Abs. 2)
 
-### Anlage 4 (zu § 9 und § 9a Abs. 2) Spirituosen mit geographischen Angaben
+### Anlage 4 Spirituosen mit geographischen Angaben
 
 ( Fundstelle des Originaltextes: BGBl. I 2003, 1263;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -1023,11 +1009,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote )
         Oberfranken. "Fränkischer Obstler" darf nur aus Birnen und Äpfeln
         hergestellt werden. Der Alkoholgehalt der fertigen Spirituose beträgt
         im Falle von
-        "Fränkischem Kirschwasser"                        und
-        "Fränkischem Zwetschgenwasser"                        mindestens 40
-        Volumenprozent und im Falle von
-        "Fränkischem Obstler"                        mindestens 38
-        Volumenprozent.
+        "Fränkischem Kirschwasser" und
+        "Fränkischem Zwetschgenwasser" mindestens 40 Volumenprozent und im
+        Falle von
+        "Fränkischem Obstler" mindestens 38 Volumenprozent.
 
 
 *    *   3.

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.9.2001 I 2518;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 29.7.2009 I 2424
+:   Art. 6 G v. 17.7.2017 I 2509
 
 § 21a idF d. Art. 1 Nr. 51 G v. 23.7.2001 I 1852 dient der Umsetzung
 des Artikels 6 der Richtlinie 2001/23/EG des Rates vom 12. März 2001
@@ -312,7 +312,7 @@ Einleitung der Betriebsratswahl im Betrieb beschäftigt sind und die
 übrigen Voraussetzungen für die Wählbarkeit erfüllen.
 
 
-#### § 9 Zahl der Betriebsratsmitglieder
+#### § 9 Zahl der Betriebsratsmitglieder \*)
 
 Der Betriebsrat besteht in Betrieben mit in der Regel
 5 bis 20 wahlberechtigten Arbeitnehmern aus einer Person,
@@ -468,7 +468,7 @@ Arbeitnehmern können der Wahlvorstand und der Arbeitgeber die
 Anwendung des vereinfachten Wahlverfahrens vereinbaren.
 
 
-#### § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter
+#### § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter \*)
 
 (1) Der Betriebsrat soll sich möglichst aus Arbeitnehmern der
 einzelnen Organisationsbereiche und der verschiedenen
@@ -690,7 +690,7 @@ Fällen des § 13 Abs. 2 Nr. 1 und 2 endet die Amtszeit mit der
 Bekanntgabe des Wahlergebnisses des neu gewählten Betriebsrats.
 
 
-#### § 21a Übergangsmandat
+#### § 21a Übergangsmandat \*)
 
 (1) Wird ein Betrieb gespalten, so bleibt dessen Betriebsrat im Amt
 und führt die Geschäfte für die ihm bislang zugeordneten Betriebsteile
@@ -979,7 +979,7 @@ Sitzung und die Tagesordnung der Gewerkschaft rechtzeitig mitzuteilen.
 
 #### § 32 Teilnahme der Schwerbehindertenvertretung
 
-Die Schwerbehindertenvertretung (§ 94 des Neunten Buches
+Die Schwerbehindertenvertretung (§ 177 des Neunten Buches
 Sozialgesetzbuch) kann an allen Sitzungen des Betriebsrats beratend
 teilnehmen.
 
@@ -1364,7 +1364,7 @@ Gewerkschaften rechtzeitig schriftlich mitzuteilen.
 
 
 
-#### § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht
+#### § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht \*)
 
 (1) Bestehen in einem Unternehmen mehrere Betriebsräte, so ist ein
 Gesamtbetriebsrat zu errichten.
@@ -1529,9 +1529,9 @@ keine besonderen Vorschriften enthält.
 
 #### § 52 Teilnahme der Gesamtschwerbehindertenvertretung
 
-Die Gesamtschwerbehindertenvertretung (§ 97 Abs. 1 des Neunten Buches
-Sozialgesetzbuch) kann an allen Sitzungen des Gesamtbetriebsrats
-beratend teilnehmen.
+Die Gesamtschwerbehindertenvertretung (§ 180 Absatz 1 des Neunten
+Buches Sozialgesetzbuch) kann an allen Sitzungen des
+Gesamtbetriebsrats beratend teilnehmen.
 
 
 #### § 53 Betriebsräteversammlung
@@ -1658,9 +1658,9 @@ bestellt hat. § 29 Abs. 2 bis 4 gilt entsprechend.
 
 #### § 59a Teilnahme der Konzernschwerbehindertenvertretung
 
-Die Konzernschwerbehindertenvertretung (§ 97 Abs. 2 des Neunten Buches
-Sozialgesetzbuch) kann an allen Sitzungen des Konzernbetriebsrats
-beratend teilnehmen.
+Die Konzernschwerbehindertenvertretung (§ 180 Absatz 2 des Neunten
+Buches Sozialgesetzbuch) kann an allen Sitzungen des
+Konzernbetriebsrats beratend teilnehmen.
 
 
 ## Dritter Teil - Jugend- und Auszubildendenvertretung
@@ -2194,7 +2194,7 @@ Auszubildendenvertretung, des Wirtschaftsausschusses, der
 Bordvertretung, des Seebetriebsrats, der in § 3 Abs. 1 genannten
 Vertretungen der Arbeitnehmer, der Einigungsstelle, einer tariflichen
 Schlichtungsstelle (§ 76 Abs. 8) und einer betrieblichen
-Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Abs. 2 Satz 3)
+Beschwerdestelle (§ 86) sowie Auskunftspersonen (§ 80 Absatz 2 Satz 4)
 dürfen in der Ausübung ihrer Tätigkeit nicht gestört oder behindert
 werden. Sie dürfen wegen ihrer Tätigkeit nicht benachteiligt oder
 begünstigt werden; dies gilt auch für ihre berufliche Entwicklung.
@@ -2302,7 +2302,9 @@ oder von Arbeitgebervereinigungen.
     Stand und das Ergebnis der Verhandlungen zu unterrichten;
 
 
-4.  die Eingliederung Schwerbehinderter und sonstiger besonders
+4.  die Eingliederung schwerbehinderter Menschen einschließlich der
+    Förderung des Abschlusses von Inklusionsvereinbarungen nach § 166 des
+    Neunten Buches Sozialgesetzbuch und sonstiger besonders
     schutzbedürftiger Personen zu fördern;
 
 
@@ -2334,17 +2336,20 @@ oder von Arbeitgebervereinigungen.
 (2) Zur Durchführung seiner Aufgaben nach diesem Gesetz ist der
 Betriebsrat rechtzeitig und umfassend vom Arbeitgeber zu unterrichten;
 die Unterrichtung erstreckt sich auch auf die Beschäftigung von
-Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen.
-Dem Betriebsrat sind auf Verlangen jederzeit die zur Durchführung
-seiner Aufgaben erforderlichen Unterlagen zur Verfügung zu stellen; in
-diesem Rahmen ist der Betriebsausschuss oder ein nach § 28 gebildeter
-Ausschuss berechtigt, in die Listen über die Bruttolöhne und -gehälter
-Einblick zu nehmen. Soweit es zur ordnungsgemäßen Erfüllung der
-Aufgaben des Betriebsrats erforderlich ist, hat der Arbeitgeber ihm
-sachkundige Arbeitnehmer als Auskunftspersonen zur Verfügung zu
-stellen; er hat hierbei die Vorschläge des Betriebsrats zu
-berücksichtigen, soweit betriebliche Notwendigkeiten nicht
-entgegenstehen.
+Personen, die nicht in einem Arbeitsverhältnis zum Arbeitgeber stehen,
+und umfasst insbesondere den zeitlichen Umfang des Einsatzes, den
+Einsatzort und die Arbeitsaufgaben dieser Personen. Dem Betriebsrat
+sind auf Verlangen jederzeit die zur Durchführung seiner Aufgaben
+erforderlichen Unterlagen zur Verfügung zu stellen; in diesem Rahmen
+ist der Betriebsausschuss oder ein nach § 28 gebildeter Ausschuss
+berechtigt, in die Listen über die Bruttolöhne und -gehälter Einblick
+zu nehmen. Zu den erforderlichen Unterlagen gehören auch die Verträge,
+die der Beschäftigung der in Satz 1 genannten Personen zugrunde
+liegen. Soweit es zur ordnungsgemäßen Erfüllung der Aufgaben des
+Betriebsrats erforderlich ist, hat der Arbeitgeber ihm sachkundige
+Arbeitnehmer als Auskunftspersonen zur Verfügung zu stellen; er hat
+hierbei die Vorschläge des Betriebsrats zu berücksichtigen, soweit
+betriebliche Notwendigkeiten nicht entgegenstehen.
 
 (3) Der Betriebsrat kann bei der Durchführung seiner Aufgaben nach
 näherer Vereinbarung mit dem Arbeitgeber Sachverständige hinzuziehen,
@@ -2569,7 +2574,10 @@ Durch Betriebsvereinbarung können insbesondere geregelt werden
 
 
 4.  Maßnahmen zur Integration ausländischer Arbeitnehmer sowie zur
-    Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb.
+    Bekämpfung von Rassismus und Fremdenfeindlichkeit im Betrieb;
+
+
+5.  Maßnahmen zur Eingliederung schwerbehinderter Menschen.
 
 
 
@@ -2621,7 +2629,7 @@ unterschreibenden Unfallanzeige auszuhändigen.
 
 #### § 90 Unterrichtungs- und Beratungsrechte
 
-Der Arbeitgeber hat den Betriebsrat über die Planung
+(1) Der Arbeitgeber hat den Betriebsrat über die Planung
 
 1.  von Neu-, Um- und Erweiterungsbauten von Fabrikations-, Verwaltungs-
     und sonstigen betrieblichen Räumen,
@@ -2675,8 +2683,10 @@ und Betriebsrat.
 
 (1) Der Arbeitgeber hat den Betriebsrat über die Personalplanung,
 insbesondere über den gegenwärtigen und künftigen Personalbedarf sowie
-über die sich daraus ergebenden personellen Maßnahmen und Maßnahmen
-der Berufsbildung anhand von Unterlagen rechtzeitig und umfassend zu
+über die sich daraus ergebenden personellen Maßnahmen einschließlich
+der geplanten Beschäftigung von Personen, die nicht in einem
+Arbeitsverhältnis zum Arbeitgeber stehen, und Maßnahmen der
+Berufsbildung anhand von Unterlagen rechtzeitig und umfassend zu
 unterrichten. Er hat mit dem Betriebsrat über Art und Umfang der
 erforderlichen Maßnahmen und über die Vermeidung von Härten zu
 beraten.
@@ -2687,7 +2697,8 @@ einer Personalplanung und ihre Durchführung machen.
 (3) Die Absätze 1 und 2 gelten entsprechend für Maßnahmen im Sinne des
 § 80 Abs. 1 Nr. 2a und 2b, insbesondere für die Aufstellung und
 Durchführung von Maßnahmen zur Förderung der Gleichstellung von Frauen
-und Männern.
+und Männern. Gleiches gilt für die Eingliederung schwerbehinderter
+Menschen nach § 80 Absatz 1 Nummer 4.
 
 
 ##### § 92a Beschäftigungssicherung
@@ -3464,9 +3475,11 @@ Seeschifffahrtsunternehmens.
 (5) Jugend- und Auszubildendenvertretungen werden nur für die
 Landbetriebe von Seeschifffahrtsunternehmen gebildet.
 
-(6) Besatzungsmitglieder sind die in § 3 des Seemannsgesetzes
-genannten Personen. Leitende Angestellte im Sinne des § 5 Abs. 3
-dieses Gesetzes sind nur die Kapitäne.
+(6) Besatzungsmitglieder im Sinne dieses Gesetzes sind die in einem
+Heuer- oder Berufsausbildungsverhältnis zu einem
+Seeschifffahrtsunternehmen stehenden im Seebetrieb beschäftigten
+Personen mit Ausnahme des Kapitäns. Leitende Angestellte im Sinne des
+§ 5 Abs. 3 dieses Gesetzes sind nur die Kapitäne.
 
 
 #### § 115 Bordvertretung
@@ -3943,7 +3956,7 @@ bestraft, wer
     Einigungsstelle, der in § 76 Abs. 8 bezeichneten Schlichtungsstelle,
     der in § 86 bezeichneten betrieblichen Beschwerdestelle oder des
     Wirtschaftsausschusses um seiner Tätigkeit willen oder eine
-    Auskunftsperson nach § 80 Abs. 2 Satz 3 um ihrer Tätigkeit willen
+    Auskunftsperson nach § 80 Absatz 2 Satz 4 um ihrer Tätigkeit willen
     benachteiligt oder begünstigt.
 
 
@@ -3976,7 +3989,7 @@ offenbart, das ihm in seiner Eigenschaft als
     ist,
 
 
-3b. Auskunftsperson, die dem Betriebsrat nach § 80 Abs. 2 Satz 3 zur
+3b. Auskunftsperson, die dem Betriebsrat nach § 80 Absatz 2 Satz 4 zur
     Verfügung gestellt worden ist, oder
 
 

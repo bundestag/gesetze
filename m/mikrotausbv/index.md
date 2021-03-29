@@ -388,8 +388,9 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mikrotechnologen/zur Mikrotechnologin
 
 (Fundstelle: BGBl. I 1998, 480 - 486)
 

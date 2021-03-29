@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 957
 
-Geändert durch
-:   Art. 1 G v. 21.12.2010 I 2204
+Zuletzt geändert durch
+:   Art. 74 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -144,12 +144,12 @@ entsprechende landesrechtliche Vorschriften bleiben unberührt.
 
 ## § 6 Bewilligung und Förderungsdauer
 
-(1) Die Entscheidung über den Antrag erfolgt schriftlich. Die
-Bewilligung eines Stipendiums umfasst die Entscheidung über den
-Bewilligungszeitraum, die Höhe des Stipendiums sowie die
-Förderungsdauer. Der Bewilligungszeitraum soll mindestens zwei
-Semester betragen. Die Förderungshöchstdauer richtet sich nach der
-Regelstudienzeit im jeweiligen Studiengang.
+(1) Die Entscheidung über den Antrag erfolgt schriftlich oder
+elektronisch. Die Bewilligung eines Stipendiums umfasst die
+Entscheidung über den Bewilligungszeitraum, die Höhe des Stipendiums
+sowie die Förderungsdauer. Der Bewilligungszeitraum soll mindestens
+zwei Semester betragen. Die Förderungshöchstdauer richtet sich nach
+der Regelstudienzeit im jeweiligen Studiengang.
 
 (2) Das Stipendium kann ab dem ersten Hochschulsemester vergeben
 werden. Innerhalb der Förderungsdauer soll der Bewilligungszeitraum
@@ -190,7 +190,11 @@ des Stipendiaten oder der Stipendiatin angepasst.
 Das Stipendium endet mit Ablauf des Monats, in dem der Stipendiat oder
 die Stipendiatin
 
-1.  die letzte Prüfungsleistung erbracht hat,
+1.  die Hochschulausbildung erfolgreich beendet hat; dies ist der Fall,
+    wenn das Gesamtergebnis des erfolgreich abgeschlossenen
+    Ausbildungsabschnitts dem Stipendiaten oder der Stipendiatin bekannt
+    gegeben wird, spätestens jedoch mit Ablauf des zweiten Monats nach dem
+    Monat, in dem der letzte Prüfungsteil abgelegt wurde,
 
 
 2.  das Studium abgebrochen hat,

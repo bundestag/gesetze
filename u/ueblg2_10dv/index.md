@@ -2,7 +2,7 @@
 Title: Verordnung zur Durchführung des § 10 des Zweiten Überleitungsgesetzes
 jurabk: ÜblG2§10DV
 layout: default
-origslug: _blg2_10dv
+origslug: ueblg2_10dv
 slug: ueblg2_10dv
 
 ---

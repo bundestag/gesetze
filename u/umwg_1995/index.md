@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3210 (1995 I 428)
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 48 G v. 22.12.2011 I 3044
+:   Art. 5 G v. 17.7.2017 I 2434
 
 Dieses Gesetz dient, soweit es Regelungen über Umwandlungen unter
 Beteiligung von Aktiengesellschaften enthält, der Umsetzung folgender
@@ -1441,7 +1441,7 @@ Vermögensgegenständen bis zum Stichtag der Zwischenbilanz zu
 berücksichtigen. § 8 Absatz 3 Satz 1 erste Alternative und Satz 2 ist
 entsprechend anzuwenden. Die Zwischenbilanz muss auch dann nicht
 aufgestellt werden, wenn die Gesellschaft seit dem letzten
-Jahresabschluss einen Halbjahresfinanzbericht gemäß § 37w des
+Jahresabschluss einen Halbjahresfinanzbericht gemäß § 115 des
 Wertpapierhandelsgesetzes veröffentlicht hat. Der
 Halbjahresfinanzbericht tritt zum Zwecke der Vorbereitung der
 Hauptversammlung an die Stelle der Zwischenbilanz.
@@ -1662,7 +1662,7 @@ Anteilsinhaber jedes der übertragenden Rechtsträger durch
 Verschmelzungsbeschluß zustimmen. Dies gilt entsprechend für die
 Bestellung der Mitglieder des Aufsichtsrats der neuen Gesellschaft,
 soweit diese nach § 31 des Aktiengesetzes zu wählen sind. Auf eine
-übertragende Aktiengesellschaft ist § 124 Abs. 2 Satz 2, Abs. 3 Satz 1
+übertragende Aktiengesellschaft ist § 124 Abs. 2 Satz 3, Abs. 3 Satz 1
 und 3 des Aktiengesetzes entsprechend anzuwenden.
 
 
@@ -1773,6 +1773,10 @@ bis 4 aufzustellen.
 
 (2) Auf Verlangen ist jedem Mitglied unverzüglich und kostenlos eine
 Abschrift der in Absatz 1 bezeichneten Unterlagen zu erteilen.
+
+(3) Die Verpflichtungen nach Absatz 1 Satz 1 und Absatz 2 entfallen,
+wenn die in Absatz 1 Satz 1 bezeichneten Unterlagen für denselben
+Zeitraum über die Internetseite der Genossenschaft zugänglich sind.
 
 
 ###### § 83 Durchführung der Generalversammlung
@@ -2154,7 +2158,7 @@ der Körperschaftsteuer befreit ist, nicht anzuwenden.
 Genossenschaftliche Prüfungsverbände können nur miteinander
 verschmolzen werden. Ein genossenschaftlicher Prüfungsverband kann
 ferner als übernehmender Verband einen rechtsfähigen Verein aufnehmen,
-wenn bei diesem die Voraussetzungen des § 63b Abs. 2 Satz 1 des
+wenn bei diesem die Voraussetzungen des § 63b Absatz 2 des
 Genossenschaftsgesetzes bestehen und die in § 107 Abs. 2 genannte
 Behörde dem Verschmelzungsvertrag zugestimmt hat.
 
@@ -2305,7 +2309,7 @@ Gesamtschuldner.
 
 ###### § 118 Anzuwendende Vorschriften
 
-Auf die Verschmelzung kleinerer Vereine im Sinne des § 53 des
+Auf die Verschmelzung kleinerer Vereine im Sinne des § 210 des
 Versicherungsaufsichtsgesetzes sind die Vorschriften des Zweiten und
 des Dritten Unterabschnitts entsprechend anzuwenden. Dabei treten bei
 kleineren Vereinen an die Stelle der Anmeldung zur Eintragung in das
@@ -5122,15 +5126,19 @@ nach § 262 Abs. 1 erforderlichen Mehrheiten sowie auf die Möglichkeit
 der Erhebung eines Widerspruchs und die sich daraus ergebenden Rechte
 hinzuweisen.
 
-(2) Auf die Vorbereitung der Generalversammlung sind die §§ 229, 230
-Abs. 2 Satz 1 und 2 und § 231 Satz 1 entsprechend anzuwenden. § 192
-Abs. 2 bleibt unberührt.
+(2) Auf die Vorbereitung der Generalversammlung sind § 230 Absatz 2
+und § 231 Satz 1 entsprechend anzuwenden. § 192 Abs. 2 bleibt
+unberührt.
 
-(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist außer
-den sonst erforderlichen Unterlagen auch das nach § 259 erstattete
-Prüfungsgutachten zur Einsicht der Mitglieder auszulegen. Auf
-Verlangen ist jedem Mitglied unverzüglich und kostenlos eine Abschrift
-dieses Prüfungsgutachtens zu erteilen.
+(3) In dem Geschäftsraum der formwechselnden Genossenschaft ist von
+der Einberufung der Generalversammlung an, die den Formwechsel
+beschließen soll, außer den sonst erforderlichen Unterlagen auch das
+nach § 259 erstattete Prüfungsgutachten zur Einsicht der Mitglieder
+auszulegen. Auf Verlangen ist jedem Mitglied unverzüglich und
+kostenlos eine Abschrift dieses Prüfungsgutachtens zu erteilen. Die
+Verpflichtungen nach den Sätzen 1 und 2 entfallen, wenn das
+Prüfungsgutachten für denselben Zeitraum über die Internetseite der
+Genossenschaft zugänglich ist.
 
 
 ##### § 261 Durchführung der Generalversammlung
@@ -5565,7 +5573,7 @@ sowie § 282 Abs. 2 entsprechend anzuwenden.
 ##### § 291 Möglichkeit des Formwechsels
 
 (1) Ein Versicherungsverein auf Gegenseitigkeit, der kein kleinerer
-Verein im Sinne des § 53 des Versicherungsaufsichtsgesetzes ist, kann
+Verein im Sinne des § 210 des Versicherungsaufsichtsgesetzes ist, kann
 auf Grund eines Umwandlungsbeschlusses nur die Rechtsform einer
 Aktiengesellschaft erlangen.
 
@@ -5824,10 +5832,9 @@ ihm in seiner Eigenschaft als
 
 bekannt geworden ist, unbefugt offenbart, wenn die Tat im Falle der
 Nummer 1 nicht in § 85 des Gesetzes betreffend die Gesellschaften mit
-beschränkter Haftung, § 404 des Aktiengesetzes, § 151 des
-Genossenschaftsgesetzes oder § 138 des Versicherungsaufsichtsgesetzes,
-im Falle der Nummer 2 nicht in § 333 des Handelsgesetzbuchs mit Strafe
-bedroht ist.
+beschränkter Haftung, § 404 des Aktiengesetzes oder § 151 des
+Genossenschaftsgesetzes, im Falle der Nummer 2 nicht in § 333 des
+Handelsgesetzbuchs mit Strafe bedroht ist.
 
 (2) Handelt der Täter gegen Entgelt oder in der Absicht, sich oder
 einen anderen zu bereichern oder einen anderen zu schädigen, so ist

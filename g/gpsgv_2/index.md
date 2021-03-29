@@ -1,6 +1,6 @@
 ---
-Title: Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über
-  die Sicherheit von Spielzeug)
+Title: Zweite Verordnung zum Produktsicherheitsgesetz (Verordnung über die Sicherheit
+  von Spielzeug)
 jurabk: GPSGV 2
 layout: default
 origslug: gpsgv_2
@@ -8,7 +8,7 @@ slug: gpsgv_2
 
 ---
 
-# Zweite Verordnung zum Geräte- und Produktsicherheitsgesetz (Verordnung über die Sicherheit von Spielzeug) (GPSGV 2)
+# Zweite Verordnung zum Produktsicherheitsgesetz (Verordnung über die Sicherheit von Spielzeug) (GPSGV 2)
 
 Ausfertigungsdatum
 :   2011-07-07
@@ -16,18 +16,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1350 (1470)
 
-[^F775453_01_BJNR135000011]:     Diese Verordnung dient der Umsetzung
-    1\.                                                         der
-    Richtlinie 88/378/EWG des Rates vom 3. Mai 1988 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten über die Sicherheit von
-    Spielzeug (ABI. L 187 vom 16.7.1988, S. 1), die zuletzt durch Artikel
-    2 der Richtlinie 2008/112/EG des Europäischen Parlaments und des Rates
-    (ABI. L 345 vom 23.12.2008, S. 68) geändert worden ist,
+Zuletzt geändert durch
+:   Art. 1 V v. 9.7.2018 I 1093
+
+[^F775453_01_BJNR135000011]:     Diese Verordnung dient der Umsetzung 1.der Richtlinie 88/378/EWG des
+    Rates vom 3. Mai 1988 zur Angleichung der Rechtsvorschriften der
+    Mitgliedstaaten über die Sicherheit von Spielzeug (ABI. L 187 vom
+    16\.7.1988, S. 1), die zuletzt durch Artikel 2 der Richtlinie
+    2008/112/EG des Europäischen Parlaments und des Rates (ABI. L 345 vom
+    23\.12.2008, S. 68) geändert worden ist,
 
 
-    2\.                                                         der
-    Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates vom
-    18\. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom
+    2\.der Richtlinie 2009/48/EG des Europäischen Parlaments und des Rates
+    vom 18. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170 vom
     30\.6.2009, S. 1).
 
 
@@ -82,7 +83,8 @@ gelten nicht als Spielzeuge im Sinne dieser Verordnung.
 (4) Insbesondere § 30 des Lebensmittel- und Futtermittelgesetzbuchs
 und § 105 der Strahlenschutzverordnung sowie die besonderen
 Anforderungen an die Verwendung bestimmter Stoffe in Spielzeugen nach
-§ 5 des Elektro- und Elektronikgesetzes bleiben unberührt.
+§ 3 Absatz 1 und 3 der Elektro- und Elektronikgeräte-Stoff-Verordnung
+bleiben unberührt.
 
 
 ## § 2 Begriffsbestimmungen
@@ -228,9 +230,9 @@ Im Sinne dieser Verordnung
     Speisen herstellen können;
 
 
-24a. Spielzeug sind alle Produkte, die ausschließlich oder nicht
+24a. sind Spielzeug alle Produkte, die ausschließlich oder nicht
     ausschließlich dazu bestimmt oder gestaltet sind, von Personen unter
-    14 Jahren zum Spielen verwendet zu werden;
+    14 Jahren für den Gebrauch beim Spielen verwendet zu werden;
 
 
 25. ist Wasserspielzeug ein Spielzeug, das zur Benutzung im flachen Wasser
@@ -259,8 +261,9 @@ Im Sinne dieser Verordnung
 bringen, das gemäß den Anforderungen nach § 10 dieser Verordnung und
 Anhang II der Richtlinie 2009/48/EG entworfen und hergestellt wurde.
 
-(2) Die Hersteller müssen die gemäß § 17 erforderlichen technischen
-Unterlagen erstellen und das gemäß § 15 anzuwendende
+(2) Bevor ein Hersteller ein Spielzeug auf dem Markt bereitstellt,
+muss er die gemäß § 17 Absatz 1 erforderlichen technischen Unterlagen
+erstellen und das gemäß § 15 Absatz 2 und 3 anzuwendende
 Konformitätsbewertungsverfahren durchführen oder durchführen lassen.
 Wurde anhand dieses Verfahrens nachgewiesen, dass das Spielzeug den in
 Absatz 1 genannten geltenden Anforderungen entspricht, stellen die
@@ -301,13 +304,13 @@ Nichtkonformität und die ergriffenen Korrekturmaßnahmen, zu machen.
 
 ## § 4 Besondere Kennzeichnungs- und Informationspflichten der Hersteller
 
-(1) Die Hersteller sind dafür verantwortlich, dass ihre Spielzeuge zur
-Identifikation lesbar und dauerhaft eine Typen-, Chargen-, Modell-
-oder Seriennummer oder ein anderes Kennzeichen tragen. Falls dies
-aufgrund der Größe oder Art des Spielzeugs nicht möglich ist, sind die
-Hersteller dafür verantwortlich, dass die erforderlichen Informationen
-auf der Verpackung oder in den Unterlagen, die dem Spielzeug beigefügt
-sind, angegeben werden.
+(1) Die Hersteller stellen sicher, dass ihre Spielzeuge zur
+Identifikation lesbar und dauerhaft mit einer Typen-, Chargen-,
+Modell- oder Seriennummer oder einem anderen Kennzeichen versehen
+sind. Falls dies aufgrund der Größe oder Art des Spielzeugs nicht
+möglich ist, stellen die Hersteller sicher, dass die erforderlichen
+Informationen auf der Verpackung oder in den Unterlagen, die dem
+Spielzeug beigefügt sind, angegeben sind.
 
 (2) Die Hersteller haben beim Inverkehrbringen ihren Namen, ihren
 eingetragenen Handelsnamen oder ihre eingetragene Marke und ihre
@@ -317,10 +320,9 @@ Spielzeug beigefügt sind, anzugeben. In der Anschrift muss eine
 zentrale Stelle angegeben sein, unter der der Hersteller kontaktiert
 werden kann.
 
-(3) Die Hersteller sind dafür verantwortlich, dass dem Spielzeug die
-Gebrauchsanleitung und die Sicherheitsinformationen beigefügt sind.
-Gebrauchsanleitung und Sicherheitsinformationen sind in deutscher
-Sprache zur Verfügung zu stellen.
+(3) Die Hersteller müssen beim Inverkehrbringen eines Spielzeugs die
+Gebrauchsanleitung und die Sicherheitsinformationen in deutscher
+Sprache zur Verfügung stellen.
 
 (4) Die Hersteller sind verpflichtet, der zuständigen
 Marktüberwachungsbehörde die von diesen angeforderten Informationen
@@ -409,9 +411,9 @@ Konformitätserklärung für die Marktüberwachungsbehörden bereit zu
 halten und dafür zu sorgen, dass sie den Marktüberwachungsbehörden die
 technischen Unterlagen auf Verlangen vorlegen können.
 
-(5) § 3 Absatz 4 Satz 3, Absatz 5 und § 4 Absatz 3 und 4 gilt für den
-Einführer entsprechend. § 4 Absatz 2 Satz 1 gilt für den Einführer
-entsprechend.
+(5) § 3 Absatz 4 Satz 3, Absatz 5 und § 4 Absatz 3 und 4 sind für den
+Einführer entsprechend anzuwenden. § 4 Absatz 2 Satz 1 gilt für den
+Einführer entsprechend.
 
 
 ## § 7 Pflichten der Händler
@@ -509,36 +511,13 @@ Kinder anderer genau bestimmter Altersgruppen bestimmt ist. Die auf
 dem Spielzeug gemäß § 11 Absatz 2 angebrachten Etiketten sowie die
 beiliegende Gebrauchsanleitung müssen die Benutzer oder die sie
 Beaufsichtigenden auf die Gefahren und Risiken, die mit der Verwendung
-des Spielzeugs verbundenen sind, sowie auf die Möglichkeiten, sie zu
+des Spielzeugs verbunden sind, sowie auf die Möglichkeiten, sie zu
 vermeiden, aufmerksam machen.
 
-(3) Spielzeug, das unter Verwendung der Stoffe Blei, Antimon, Arsen,
-Barium und Quecksilber hergestellt wurde, darf nur auf dem Markt
-bereit gestellt werden, wenn infolge des Umgangs mit Spielzeug täglich
-höchstens folgende Mengen dieser Stoffe biologisch verfügbar sind:
-
-1.  0,7 µg Blei,
-
-
-2.  0,2 µg Antimon,
-
-
-3.  0,1 µg Arsen,
-
-
-4.  25,0 µg Barium,
-
-
-5.  0,5 µg Quecksilber.
-
-
-
-Unter Bio-Verfügbarkeit der in Satz 1 aufgeführten Stoffe ist das
-lösliche Extrakt zu verstehen, das von toxikologischer Bedeutung ist.
-Für N-Nitrosamine und in N-Nitrosamine umsetzbare Stoffe in Spielzeug
-aus Natur- und Synthesekautschuk für Kinder bis zu 36 Monaten, das
-bestimmungsgemäß oder vorhersehbar in den Mund genommen wird, gilt § 5
-in Verbindung mit Anlage 4 Nummer 1 Buchstabe b der
+(3) Für N-Nitrosamine und in N-Nitrosamine umsetzbare Stoffe in
+Spielzeug aus Natur- und Synthesekautschuk für Kinder bis zu 36
+Monaten, das bestimmungsgemäß oder vorhersehbar in den Mund genommen
+wird, gilt § 5 in Verbindung mit Anlage 4 Nummer 1 Buchstabe b der
 Bedarfsgegenständeverordnung in der Fassung der Bekanntmachung vom 23.
 Dezember 1997 (BGBl. 1998 I S. 5), die zuletzt durch Artikel 1 der
 Verordnung vom 7. Februar 2011 (BGBl. I S. 226) geändert worden ist.
@@ -555,16 +534,14 @@ Gebrauchsdauer erfüllen.
 (1) Wenn es für den sicheren Gebrauch des Spielzeugs angemessen ist,
 sind in Warnhinweisen für die Zwecke von § 10 Absatz 2 geeignete
 Benutzereinschränkungen gemäß Anhang V Teil A der Richtlinie
-2009/48/EG des Europäischen Parlaments und des Rates vom 18. Juni 2009
-über die Sicherheit von Spielzeug anzugeben. Für die in Anhang V Teil
-B der genannten Richtlinie aufgeführten Spielzeugkategorien sind die
-dort angegebenen Warnhinweise zu verwenden. Die in Anhang V Teil B
-Nummer 2 bis 10 angegebenen Warnhinweise sind mit dem dortigen
-Wortlaut zu verwenden. Das Spielzeug darf nicht mit einem oder
-mehreren der in Anhang V Teil B genannten spezifischen Warnhinweise
-versehen werden, wenn diese dem bestimmungsgemäßen Gebrauch des
-Spielzeugs aufgrund seiner Funktionen, Abmessungen und Eigenschaften
-widersprechen.
+2009/48/EG anzugeben. Für die in Anhang V Teil B der genannten
+Richtlinie aufgeführten Spielzeugkategorien sind die dort angegebenen
+Warnhinweise zu verwenden. Die in Anhang V Teil B Nummer 2 bis 10
+angegebenen Warnhinweise sind mit dem dortigen Wortlaut zu verwenden.
+Das Spielzeug darf nicht mit einem oder mehreren der in Anhang V Teil
+B genannten spezifischen Warnhinweise versehen werden, wenn diese dem
+bestimmungsgemäßen Gebrauch des Spielzeugs aufgrund seiner Funktionen,
+Abmessungen und Eigenschaften widersprechen.
 
 (2) Der Hersteller hat die Warnhinweise deutlich sichtbar, leicht
 lesbar, verständlich und in zutreffender Form auf dem Spielzeug, einem
@@ -600,7 +577,9 @@ angegeben sind in
 
 
 2.  den einschlägigen Modulen des Beschlusses Nr. 768/2008/EG des
-    Europäischen Parlaments und des Rates vom 9. Juli 2008 (ABI. L 218 vom
+    Europäischen Parlaments und des Rates über einen gemeinsamen
+    Rechtsrahmen für die Vermarktung von Produkten und zur Aufhebung des
+    Beschlusses 93/465/EWG des Rates vom 9. Juli 2008 (ABI. L 218 vom
     13\.8.2008, S. 82).
 
 
@@ -652,8 +631,7 @@ ausgesetzt sein würden.
 
 ## § 15 Anzuwendende Konformitätsbewertungsverfahren
 
-(1) Bevor der Hersteller ein Spielzeug auf dem Markt bereitstellt,
-muss er die in den Absätzen 2 und 3 angegebenen
+(1) Der Hersteller muss die in den Absätzen 2 und 3 angegebenen
 Konformitätsbewertungsverfahren anwenden, um nachzuweisen, dass das
 Spielzeug die Anforderungen nach § 10 dieser Verordnung und Anhang II
 der Richtlinie 2009/48/EG erfüllt.
@@ -760,7 +738,7 @@ und die Erfüllung der wesentlichen Sicherheitsanforderungen zu
 
 ## § 18 Vorsorgeprinzip
 
-Ergreifen die zuständigen Behörden in dieser Verordnung geregelten
+Ergreifen die zuständigen Behörden in dieser Verordnung geregelte
 Maßnahmen oder allgemeine Marktüberwachungsmaßnahmen so haben sie dem
 Vorsorgeprinzip in gebührender Weise Rechnung zu tragen.
 
@@ -792,8 +770,8 @@ Baumusterprüfbescheinigung zu überprüfen.
 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des
 Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung
 und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten
-zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218
-vom 13.8.2008, S. 30) tätig geworden oder haben sie hinreichenden
+und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L
+218 vom 13.8.2008, S. 30) tätig geworden oder haben sie hinreichenden
 Grund zu der Annahme, dass ein von dieser Verordnung erfasstes
 Spielzeug die Gesundheit oder Sicherheit von Menschen gefährdet,
 beurteilen sie, ob das betreffende Spielzeug alle in der vorliegenden
@@ -801,7 +779,7 @@ Verordnung festgelegten Anforderungen erfüllt. Die betroffenen
 Wirtschaftsakteure sind verpflichtet, den Marktüberwachungsbehörden
 die von diesen angeforderten Informationen und Unterlagen zur
 Verfügung zu stellen, die zur Risikobewertung des Spielzeugs
-erforderlich sind. Gelangen die zuständige Marktüberwachungsbehörden
+erforderlich sind. Gelangen die zuständigen Marktüberwachungsbehörden
 zu dem Ergebnis, dass das Spielzeug nicht die Anforderungen der
 vorliegenden Verordnung erfüllt, fordern sie unverzüglich den
 betroffenen Wirtschaftsakteur dazu auf, innerhalb einer Frist, die dem
@@ -820,11 +798,11 @@ erstrecken, die er auf dem Markt bereitgestellt hat.
 (3) Ergreift der betreffende Wirtschaftsakteur innerhalb der ihm in
 Absatz 1 Satz 3 gesetzten Frist keine angemessenen Korrekturmaßnahmen,
 treffen die Marktüberwachungsbehörden die erforderlichen Maßnahmen
-gemäß § 8 Absatz 4 des Geräte- und Produktsicherheitsgesetzes und
-unterrichten die Kommission und die übrigen Mitgliedstaaten der
-Europäischen Union hierüber.
+gemäß § 26 Absatz 2 des Produktsicherheitsgesetzes und unterrichten
+die Kommission und die übrigen Mitgliedstaaten der Europäischen Union
+hierüber.
 
-(4) Die Meldung nach § 9 Absatz 1 Satz 1 des Geräte- und
+(4) Die Meldung nach § 29 Absatz 2 Satz 1 des
 Produktsicherheitsgesetzes beinhaltet alle verfügbaren Angaben. Sie
 beinhaltet insbesondere
 
@@ -865,33 +843,95 @@ beinhaltet insbesondere
 ## § 21 Informationsaustausch
 
 Handelt es sich bei einer in § 20 Absatz 3 genannten Maßnahme um eine
-Maßnahme, die gemäß Artikel 22 der Verordnung des Europäischen
-Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für
-die Akkreditierung und Marktüberwachung im Zusammenhang mit der
-Vermarktung von Produkten zur Aufhebung der Verordnung (EWG) Nr.
-339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) gemeldet werden
-muss, so ist eine gesonderte Unterrichtung gemäß § 20 Absatz 3 nicht
-erforderlich, wenn:
+Maßnahme, die gemäß Artikel 22 der Verordnung (EG) Nr. 765/2008
+gemeldet werden muss, so ist eine gesonderte Unterrichtung gemäß § 20
+Absatz 3 nicht erforderlich, wenn:
 
-1.  in der Meldung gemäß § 9 Absatz 2 Satz 3 des Geräte- und
-    Produktsicherheitsgesetzes wird darauf hingewiesen wird, dass auch die
+1.  in der Meldung gemäß § 29 Absatz 3 Satz 2 des
+    Produktsicherheitsgesetzes darauf hingewiesen wird, dass auch die
     vorliegende Verordnung die Notifizierung der Maßnahme vorschreibt, und
 
 
-2.  die in § 20 Absatz 4 genannten Belege der Meldung gemäß § 9 Absatz 2
-    Satz 3 des Geräte- und Produktsicherheitsgesetzes beiliegen.
+2.  die in § 20 Absatz 4 genannten Belege der Meldung gemäß § 29 Absatz 3
+    Satz 2 des Produktsicherheitsgesetzes beiliegen.
 
 
 
 
 
-## § 22 Ordnungswidrigkeiten
+## § 22 Straftaten und Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 19 Absatz 1 Nummer 1 Buchstabe b des
-Geräte- und Produktsicherheitsgesetzes handelt, wer vorsätzlich oder
-fahrlässig entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 6
-Absatz 5 Satz 2, eine Angabe nicht, nicht richtig, nicht vollständig
-oder nicht rechtzeitig macht.
+(1) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe a des
+Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 3 Absatz 2 Satz 1 eine technische Unterlage nach Anhang IV
+    der Richtlinie 2009/48/EG nicht, nicht richtig, nicht vollständig oder
+    nicht rechtzeitig erstellt oder ein dort genanntes
+    Konformitätsbewertungsverfahren nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig durchführt und nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig durchführen lässt,
+
+
+2.  entgegen § 4 Absatz 1 nicht sicherstellt, dass Spielzeug mit einem
+    dort genannten Kennzeichen versehen ist oder dass eine Information
+    angegeben ist,
+
+
+3.  entgegen § 4 Absatz 3 eine Gebrauchsanleitung oder eine
+    Sicherheitsinformation nicht, nicht richtig, nicht vollständig, nicht
+    in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verfügung
+    stellt,
+
+
+4.  entgegen § 6 Absatz 2 Satz 1 nicht sicherstellt, dass das
+    Konformitätsbewertungsverfahren durchgeführt wurde,
+
+
+5.  entgegen § 7 Absatz 2 Satz 2 oder § 10 Absatz 3 Satz 2 Spielzeug auf
+    dem Markt bereitstellt oder
+
+
+6.  entgegen § 14 eine dort genannte Bewertung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig durchführt.
+
+
+
+
+(2) Ordnungswidrig im Sinne des § 39 Absatz 1 Nummer 7 Buchstabe b des
+Produktsicherheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 3 Absatz 3, auch in Verbindung mit § 5 Absatz 2 Satz 2
+    Nummer 1, eine technische Unterlage oder die EG-Konformitätserklärung
+    nicht oder nicht mindestens zehn Jahre aufbewahrt,
+
+
+2.  entgegen § 4 Absatz 2 Satz 1, auch in Verbindung mit § 6 Absatz 5,
+    eine Angabe nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht,
+
+
+3.  entgegen § 4 Absatz 4 Satz 1 oder Satz 3, jeweils auch in Verbindung
+    mit § 6 Absatz 5, eine Information oder eine Unterlage nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
+    stellt,
+
+
+4.  entgegen § 6 Absatz 4 eine Abschrift der EG-Konformitätserklärung
+    nicht oder nicht mindestens zehn Jahre bereithält oder nicht dafür
+    sorgt, dass eine dort genannte Unterlage vorgelegt werden kann, oder
+
+
+5.  entgegen § 9 Satz 1 einen Wirtschaftsakteur nicht oder nicht
+    rechtzeitig benennt.
+
+
+
+
+(3) Wer eine in Absatz 1 bezeichnete vorsätzliche Handlung beharrlich
+wiederholt oder durch eine solche vorsätzliche Handlung Leben oder
+Gesundheit eines anderen oder fremde Sachen von bedeutendem Wert
+gefährdet, macht sich nach § 40 des Produktsicherheitsgesetzes
+strafbar.
 
 
 ## § 23 Übergangvorschriften

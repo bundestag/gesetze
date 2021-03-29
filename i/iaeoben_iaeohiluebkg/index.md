@@ -4,7 +4,7 @@ Title: Gesetz zu den IAEO-Übereinkommen vom 26. September 1986 über die frühz
   oder radiologischen Notfällen
 jurabk: IAEOBen/IAEOHiLÜbkG
 layout: default
-origslug: iaeoben_iaeohil_bkg
+origslug: iaeoben_iaeohiluebkg
 slug: iaeoben_iaeohiluebkg
 
 ---

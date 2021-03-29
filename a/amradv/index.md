@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1987, 502
 
 Neugefasst durch
-:   Bek. v. 19.1.2007 I 48
+:   Bek. v. 19.1.2007 I 48;
+
+Zuletzt geändert durch
+:   Art. 5 G v. 18.7.2017 I 2757
 
 
 ## § 1 Verkehrsfähigkeit von Arzneimitteln, die mit ionisierenden Strahlen behandelt worden sind
@@ -103,9 +106,11 @@ Modifizierung von Bestandteilen verwendet worden sind, wenn
     auf die Behandlung mit ionisierenden Strahlen zur Verminderung der
     Keimzahl oder zur Inaktivierung von Blutbestandteilen oder
     Tumormaterial oder zur Modifizierung von Bestandteilen nach § 25 Abs.
-    1 des Arzneimittelgesetzes zugelassen worden sind oder nach § 21 Abs.
-    2 Nr. 1a, 1b, 1c, 2, 5 oder 6 des Arzneimittelgesetzes ohne Zulassung
-    in den Verkehr gebracht werden dürfen.
+    1 des Arzneimittelgesetzes zugelassen oder nach § 4b Absatz 3 des
+    Arzneimittelgesetzes oder § 21a Absatz 1 des Arzneimittelgesetzes
+    genehmigt worden sind oder nach § 21 Abs. 2 Nr. 1a, 1b, 1c, 2, 5 oder
+    6 des Arzneimittelgesetzes ohne Zulassung in den Verkehr gebracht
+    werden dürfen.
 
 
 

@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung von Aufgaben an das Bundesamt für Verbrauche
   und Lebensmittelsicherheit
 jurabk: BVLAÜV
 layout: default
-origslug: bvla_v
+origslug: bvlauev
 slug: bvlauev
 
 ---
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 972
 
-Geändert durch
-:   Art. 6 V v. 29.9.2011 I 1996
+Zuletzt geändert durch
+:   Art. 3 V v. 18.7.2018 I 1219
 
 
 ## Eingangsformel
@@ -32,13 +32,12 @@ Ernährung, Landwirtschaft und Verbraucherschutz:
 
 Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 
-1.  zuständige Verbindungsstelle für den Bereich Lebensmittel nach Artikel
-    35 Abs. 1 Satz 1 der Verordnung (EG) Nr. 882/2004 des Europäischen
-    Parlaments und des Rates vom 29. April 2004 über amtliche Kontrollen
-    zur Überprüfung der Einhaltung des Lebensmittel- und
-    Futtermittelrechts sowie der Bestimmungen über Tiergesundheit und
-    Tierschutz (ABl. EU Nr. L 165 S. 1, Nr. L 191 S. 1) in der jeweils
-    geltenden Fassung,
+1.  zuständige Verbindungsstelle nach Artikel 35 Abs. 1 Satz 1 der
+    Verordnung (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates
+    vom 29. April 2004 über amtliche Kontrollen zur Überprüfung der
+    Einhaltung des Lebensmittel- und Futtermittelrechts sowie der
+    Bestimmungen über Tiergesundheit und Tierschutz (ABl. EU Nr. L 165 S.
+    1, Nr. L 191 S. 1) in der jeweils geltenden Fassung,
 
 
 2.  zuständige nationale Behörde nach Artikel 1 Abs. 4 Satz 2, Artikel 15
@@ -78,7 +77,15 @@ Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
     1331/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
     2008 über ein einheitliches Zulassungsverfahren für
     Lebensmittelzusatzstoffe, -enzyme und -aromen (ABl. L 354 vom
-    31\.12.2008, S. 1) in der jeweils geltenden Fassung.
+    31\.12.2008, S. 1) in der jeweils geltenden Fassung,
+
+
+7.  zuständige Behörde nach Artikel 10 Absatz 3 Satz 1 der Verordnung (EG)
+    Nr. 282/2008 der Kommission vom 27. März 2008 über Materialien und
+    Gegenstände aus recyceltem Kunststoff, die dazu bestimmt sind, mit
+    Lebensmitteln in Berührung zu kommen, und zur Änderung der Verordnung
+    (EG) Nr. 2023/2006 (ABl. L 86 vom 28.3.2008, S. 9) in der jeweils
+    geltenden Fassung.
 
 
 

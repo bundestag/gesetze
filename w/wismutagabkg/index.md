@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1991, 1138
 
 Zuletzt geändert durch
-:   Art. 13 V v. 31.10.2006 I 2407
+:   Art. 20 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -326,8 +326,8 @@ verfügen, die im Grundbuch noch als volkseigen und als deren
 Rechtsträger dort die Sowjetisch-Deutsche Aktiengesellschaft Wismut
 eingetragen ist; § 6 Abs. 2 bis 4 des Vermögenszuordnungsgesetzes ist
 mit der Maßgabe anzuwenden, daß an die Stelle des Innenministeriums
-des jeweiligen Landes das Bundesministerium für Wirtschaft und
-Technologie tritt.
+des jeweiligen Landes das Bundesministerium für Wirtschaft und Energie
+tritt.
 
 
 ## § 1a Kommunale Einrichtungen

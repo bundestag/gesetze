@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1660
 
+Zuletzt geändert durch
+:   Art. 63 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -60,27 +63,27 @@ sind unabhängig und nicht an Weisungen gebunden.
 ## § 4 Berufung der Mitglieder
 
 (1) Die Mitglieder der Kommission und ihre stellvertretenden
-Mitglieder werden durch das Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit im Einvernehmen mit dem Auswärtigen Amt und dem
-Bundesministerium für Bildung und Forschung für die Dauer von drei
+Mitglieder werden durch das Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit im Einvernehmen mit dem Auswärtigen Amt und
+dem Bundesministerium für Bildung und Forschung für die Dauer von drei
 Jahren berufen. Einmalige Wiederberufung ist möglich.
 
 (2) Die Tätigkeit in der Kommission ist ehrenamtlich.
 
 (3) Die Mitglieder der Kommission und ihre stellvertretenden
 Mitglieder können jederzeit gegenüber dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit ihr Ausscheiden aus der
+Umwelt, Naturschutz, Bau und Reaktorsicherheit ihr Ausscheiden aus der
 Kommission erklären. Über das Ausscheiden eines Mitglieds oder eines
 stellvertretenden Mitglieds werden die an der Berufung beteiligten
 Ministerien vom Vorsitzenden Mitglied der Kommission über das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 unverzüglich unterrichtet.
 
 (4) Scheidet ein Mitglied vorzeitig aus, so rückt dessen
 stellvertretendes Mitglied zum Mitglied auf. Positionen von
 aufgerückten stellvertretenden Mitgliedern werden vom
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im
-Einvernehmen mit den in Absatz 1 genannten Bundesministerien
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+im Einvernehmen mit den in Absatz 1 genannten Bundesministerien
 unverzüglich durch Berufung eines neuen stellvertretenden Mitglieds
 für den Rest der Berufungszeit besetzt.
 
@@ -92,8 +95,8 @@ Forschung sowie zu ihrer Vorbereitung oder Durchführung dienende
 Tätigkeiten in der Antarktis zu beurteilen, soweit diese Tätigkeiten
 mindestens geringfügige oder vorübergehende Auswirkungen auf die in §
 3 Abs. 4 des Umweltschutzprotokoll-Ausführungsgesetzes genannten
-Schutzgüter besorgen lassen. Sie leitet die Beurteilung schriftlich an
-das Umweltbundesamt.
+Schutzgüter besorgen lassen. Sie leitet die Beurteilung schriftlich
+oder elektronisch an das Umweltbundesamt.
 
 (2) Die Beurteilung erfolgt auf der Grundlage der in § 1 des
 Umweltschutzprotokoll-Ausführungsgesetzes genannten Ziele und
@@ -134,7 +137,7 @@ Vorsitzendes Mitglied und sein stellvertretendes Mitglied für die
 Dauer von drei Jahren. Einmalige Wiederwahl ist möglich.
 
 (2) Die Kommission gibt sich eine Geschäftsordnung. Diese bedarf der
-Zustimmung des Bundesministeriums für Umwelt, Naturschutz und
+Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit im Einvernehmen mit dem Auswärtigen Amt und dem
 Bundesministerium für Bildung und Forschung.
 
@@ -161,13 +164,14 @@ stellvertretende Mitglieder vertreten sind.
 (2) Beschlüsse über Beurteilungen nach § 5 werden möglichst
 einvernehmlich gefaßt.
 
-(3) Die Beschlußfassung der Kommission kann im schriftlichen Verfahren
-herbeigeführt werden. Weiteres regelt die Geschäftsordnung.
+(3) Die Beschlußfassung der Kommission kann im schriftlichen oder
+elektronischen Verfahren herbeigeführt werden. Weiteres regelt die
+Geschäftsordnung.
 
 (4) Wird eine einheitliche Auffassung nicht erzielt, werden die
 unterschiedlichen Meinungen im Ergebnisprotokoll, in der Beurteilung
-und im Tätigkeitsbericht schriftlich dargelegt. Das Minderheitsvotum
-ist zu begründen.
+und im Tätigkeitsbericht schriftlich oder elektronisch dargelegt. Das
+Minderheitsvotum ist zu begründen.
 
 
 ## § 10 Zusammenarbeit mit dem Umweltbundesamt
@@ -193,8 +197,8 @@ zuzuleiten.
 ## § 11 Tätigkeitsbericht
 
 Die Kommission erstellt einen jährlichen Tätigkeitsbericht. Der
-Bericht wird durch das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit veröffentlicht.
+Bericht wird durch das Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit veröffentlicht.
 
 
 ## § 12 Kosten

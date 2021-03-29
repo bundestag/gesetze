@@ -1,14 +1,14 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern")
 jurabk: Münz2EuroBek 2006-11
 layout: default
-origslug: m_nz2eurobek_2006-11
+origslug: muenz2eurobek_2006-11
 slug: muenz2eurobek_2006-11
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern") (Münz2EuroBek 2006-11)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 2 Euro (Gedenkmünze "Mecklenburg-Vorpommern") (Münz2EuroBek 2006-11)
 
 Ausfertigungsdatum
 :   2006-11-22

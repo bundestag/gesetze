@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1842
 
 Zuletzt geändert durch
-:   Art. 5 G v. 14.11.2011 I 2219
+:   Art. 2 G v. 10.3.2017 I 410
 
 
 ## Eingangsformel
@@ -219,7 +219,8 @@ Im Politischen Archiv des Auswärtigen Amts werden die Urschriften oder
 beglaubigten Abschriften der völkerrechtlichen Vereinbarungen des
 Deutschen Reiches und der Bundesrepublik Deutschland sowie alle
 Unterlagen aufbewahrt, die der Auswärtige Dienst zur Erfüllung seiner
-Aufgaben benötigt.
+Aufgaben benötigt. Die Vorschriften des Bundesarchivgesetzes über die
+Nutzung von Archivgut des Bundes sind entsprechend anzuwenden.
 
 
 ## Dritter Abschnitt - Rechtsverhältnisse der Angehörigen des Auswärtigen Dienstes
@@ -309,7 +310,7 @@ Deutschen zu helfen.
 
 ### § 15 Fürsorge und Schutz
 
-(1) Die Fürsorge des Dienstherren für den Beamten des Auswärtigen
+(1) Die Fürsorge des Dienstherrn für den Beamten des Auswärtigen
 Dienstes und seine Familienangehörigen trägt den Belastungen und
 Gefährdungen des Dienstes und den besonderen Gegebenheiten im Ausland
 Rechnung.
@@ -494,7 +495,7 @@ lebensgefährlichen Erkrankung eines Familienangehörigen oder
 Verwandten ersten oder zweiten Grades können dem Beamten
 Reisebeihilfen gewährt werden. Ebenso können Beihilfen für Reisen von
 Familienangehörigen und Verwandten ersten oder zweiten Grades zum
-ausländischen Dienst gewährt werden, wenn der Beamte oder ein
+ausländischen Dienstort gewährt werden, wenn der Beamte oder ein
 Familienangehöriger lebensgefährlich erkrankt oder gestorben ist.
 
 (2) Das Auswärtige Amt erläßt im Einvernehmen mit dem Bundesminister
@@ -588,7 +589,7 @@ dienstlichen und örtlichen Verhältnisse erfordern.
 Die für Auslandsumzüge und das Auslandstrennungsgeld erforderlichen
 Regelungen werden nach den Grundsätzen des Bundesumzugskostengesetzes
 und des Bundesreisekostengesetzes durch Rechtsverordnungen des
-Bundesminister des Auswärtigen im Einvernehmen mit dem Bundesminister
+Bundesministers des Auswärtigen im Einvernehmen mit dem Bundesminister
 der Finanzen und dem Bundesminister des Innern getroffen.
 
 

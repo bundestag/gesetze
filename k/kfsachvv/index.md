@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 854
 
 Zuletzt geändert durch
-:   Art. 2 V v. 7.1.2011 I 3
+:   Art. 477 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -46,7 +46,8 @@ zu unterweisen:
 1.  Bau und Betrieb von Kraftfahrzeugen und ihren Anhängern;
 
 
-2.  Prüfung von Bewerbern um die Fahrerlaubnis;
+2.  Prüfung von Bewerbern um die Fahrerlaubnis gemäß den Anforderungen
+    nach Anlage 1;
 
 
 3.  Begutachtung von Kraftfahrzeugen und ihren Anhängern sowie von
@@ -71,7 +72,14 @@ Teilbefugnissen, als Prüfer und als Prüfer mit Teilbefugnissen können
 die Ausbildungsgebiete nach Maßgabe ihrer künftigen Befugnisse
 eingeschränkt werden.
 
-(4) Der Bewerber hat über seinen Ausbildungsgang Wochenberichte
+(4) Für die Ausbildung nach Absatz 3 ist von der Technischen
+Prüfstelle ein Ausbildungsplan umzusetzen, der den Vorgaben eines im
+Verkehrsblatt vom Bundesministerium für Verkehr und digitale
+Infrastruktur im Benehmen mit den zuständigen obersten Landesbehörden
+bekannt gemachten Rahmenlehrplanes für amtlich anerkannte
+Sachverständige oder Prüfer entspricht.
+
+(5) Der Bewerber hat über seinen Ausbildungsgang Wochenberichte
 anzufertigen, die er seinem Ausbildungsleiter vorzulegen hat. Der
 Ausbildungsleiter stellt dem Bewerber während der Ausbildungszeit
 mindestens zwei schriftliche Hausarbeiten aus dem Bereich seiner
@@ -358,4 +366,197 @@ nach der Gebührenordnung für Maßnahmen im Straßenverkehr erhoben.
 ## Schlußformel
 
 Der Bundesminister für Verkehr
+
+(zu § 1 Absatz 3 Nummer 2)
+Anforderungen an amtlich anerkannte Sachverständige oder Prüfer
+
+## Anlage 1 für den Kraftfahrzeugverkehr nach § 15 der Fahrerlaubnis-Verordnung (Fahrerlaubnisprüfungen)
+
+**1. Erforderliche Befähigung von Fahrerlaubnisprüfern**
+
+Bewerber im Sinne des § 1 Absatz 3 Nummer 2 müssen in den nachfolgend
+aufgeführten Sachgebieten unterwiesen werden:
+
+a)  Befähigung, die Fahrleistung eines Bewerbers zu bewerten, der eine
+    Fahrerlaubnis der Klasse erhalten möchte, für die die Fahrprüfung
+    stattfindet.
+
+
+b)  Kenntnisse und Verständnis in Bezug auf das Führen eines Fahrzeugs und
+    Bewertung
+
+    aa) der Theorie des Fahrverhaltens,
+
+
+    bb) der Gefahrenerkennung und Unfallvermeidung,
+
+
+    cc) der Anforderungen an die Fahrprüfung,
+
+
+    dd) der einschlägigen Straßenverkehrsvorschriften einschließlich der
+        einschlägigen gemeinschaftlichen und nationalen Rechtsvorschriften und
+        Auslegungsleitlinien,
+
+
+    ee) der Theorie und Praxis der Bewertung,
+
+
+    ff) des defensiven Fahrens.
+
+
+
+
+
+c)  Bewertungsfähigkeiten
+
+    Befähigung, die Leistung des Bewerbers insgesamt genau zu beobachten,
+    zu kontrollieren und zu bewerten, und zwar insbesondere in Bezug auf
+
+    aa) das richtige und umfassende Erkennen gefährlicher Situationen,
+
+
+    bb) die genaue Bestimmung von Ursache und voraussichtlicher Auswirkung
+        derartiger Situationen,
+
+
+    cc) das Tauglichkeitsniveau und die Erkennung von Fehlern,
+
+
+    dd) die Einheitlichkeit und Kohärenz der Bewertung,
+
+
+    ee) zügige Aneignung von Informationen und Herausfiltern von Kernpunkten,
+
+
+    ff) vorausschauendes Handeln, Erkennung potenzieller Probleme und
+        Entwicklung von entsprechenden Abhilfestrategien,
+
+
+    gg) rechtzeitige und konstruktive Rückmeldungen.
+
+
+
+
+
+d)  Persönliche Fahrfähigkeiten
+
+    Fahrerlaubnisprüfer müssen in der Lage sein, Kraftfahrzeuge des
+    betreffenden Typs mit beständig hohem Fahrniveau zu führen.
+
+
+e)  Qualität der Dienstleistung
+
+    Die Dienstleistung des Fahrerlaubnisprüfers hat insbesondere zu
+    umfassen:
+
+    aa) eine Festlegung und Vermittlung der Prüfungsinhalte,
+
+
+    bb) eine klare Kommunikation, wobei Inhalt, Stil und Wortwahl der
+        Zielgruppe entsprechen müssen und auf Fragen der Bewerber einzugehen
+        ist,
+
+
+    cc) eine klare Rückmeldung in Bezug auf das Prüfungsergebnis,
+
+
+    dd) eine nichtdiskriminierende und respektvolle Behandlung aller Bewerber.
+
+
+
+
+
+f)  Fahrzeugtechnische und physikalische Kenntnisse
+
+    Fahrerlaubnisprüfer müssen über folgende Kenntnisse verfügen:
+
+    aa) Fahrzeugtechnische Kenntnisse, z. B. über Lenkung, Reifen, Bremsen,
+        Scheinwerfer und Leuchten, insbesondere bei Motorrädern und
+        Lastkraftwagen,
+
+
+    bb) Kenntnisse der Ladungssicherung,
+
+
+    cc) Kenntnisse der Fahrzeugphysik wie Geschwindigkeit, Reibung, Dynamik,
+        Energie,
+
+
+    dd) Kenntnisse über die Kraftstoff (Energie) sparende und
+        umweltfreundliche Fahrweise.
+
+
+
+
+
+
+
+**2. Allgemeine Bedingungen**
+
+Fahrerlaubnisprüfer müssen:
+
+a)  die Fahrerlaubnis für Kraftfahrzeuge sämtlicher Fahrerlaubnisklassen
+    besitzen; die Fahrerlaubnis der Klasse D ist nur dann erforderlich,
+    wenn er Fahrerlaubnisprüfungen für die Klasse D abnimmt; in diesem
+    Fall genügt es, dass er mindestens einmal die Fahrerlaubnis der Klasse
+    D oder die Fahrerlaubnis zur Fahrgastbeförderung für Kraftomnibusse
+    nach der Straßenverkehrs-Zulassungs-Ordnung erworben hat.
+
+
+b)  amtlich anerkannte Sachverständige oder Prüfer für den
+    Kraftfahrzeugverkehr im Sinne des § 1 sein und anschließend die
+    Qualitätssicherung und die regelmäßigen Weiterbildungsmaßnahmen gemäß
+    Nummer 4 absolviert haben.
+
+
+
+
+**3. Qualitätssicherung**
+
+a)  Fahrerlaubnisprüfer müssen im Rahmen der Qualitätssicherungssysteme
+    nach § 11 Absatz 1a des Kraftfahrsachverständigengesetzes mindestens
+    einmal im Jahr überwacht werden.
+
+
+b)  Zusätzlich muss jeder Fahrerlaubnisprüfer einmal innerhalb von fünf
+    Jahren für einen Mindestzeitraum von insgesamt einem halben Tag bei
+    der Abnahme von Fahrerlaubnisprüfungen beobachtet werden. Die
+    Überwachung erfolgt durch die Qualitätsmanagementbeauftragten der
+    Technischen Prüfstelle für den Kraftfahrzeugverkehr.
+
+
+
+
+**4. Weiterbildung**
+
+Jeder Fahrerlaubnisprüfer muss im Rahmen der
+Qualitätssicherungssysteme nach § 11 Absatz 1a und 2 des
+Kraftfahrsachverständigengesetzes
+
+a)  an einer regelmäßigen Weiterbildung von insgesamt vier Tagen in einem
+    Zeitraum von zwei Jahren teilnehmen, um die erforderlichen Kenntnisse
+    und die Prüfungsfähigkeiten zu erhalten und aufzufrischen, neue
+    Befähigungen, die zur Ausübung des Berufs erforderlich geworden sind,
+    zu entwickeln, dafür zu sorgen, dass ein Fahrerlaubnisprüfer die
+    Prüfungen nach wie vor nach fairen und einheitlichen Anforderungen
+    durchführt;
+
+
+b)  an einer regelmäßigen Weiterbildung von insgesamt fünf Tagen Dauer in
+    einem Zeitraum von fünf Jahren teilnehmen, um die erforderlichen
+    praktischen Fahrfähigkeiten zu entwickeln und zu erhalten.
+
+
+
+Die regelmäßige Weiterbildung kann in Form von Besprechungen,
+Unterricht, herkömmlicher oder computergestützter Vermittlung erfolgen
+und sie kann einzeln oder in der Gruppe vermittelt werden.
+
+Hat ein Fahrerlaubnisprüfer innerhalb eines Zeitraums von 24 Monaten
+für eine Klasse keine Fahrprüfungen abgenommen, so hat er sich einer
+entsprechenden Wiederholungsprüfung zu unterziehen, bevor er in dieser
+Klasse weitere Fahrprüfungen abnehmen darf. Die Wiederholungsprüfung
+erfolgt im Rahmen der Weiterbildung unter den in dieser Nummer 4
+genannten Anforderungen.
 

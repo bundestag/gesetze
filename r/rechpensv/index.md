@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 246
 
 Zuletzt geändert durch
-:   Art. 5 V v. 9.6.2011 I 1041
+:   Art. 8 Abs. 15 G v. 17.7.2015 I 1245
 
 
 ## Eingangsformel
@@ -38,7 +38,7 @@ Einvernehmen mit dem Bundesministerium der Finanzen:
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung ist auf Pensionsfonds im Sinne des § 112 Abs. 1 des
+Diese Verordnung ist auf Pensionsfonds im Sinne des § 236 Absatz 1 des
 Versicherungsaufsichtsgesetzes anzuwenden, für die nach § 341 Abs. 4
 des Handelsgesetzbuchs die Vorschriften des Zweiten Unterabschnitts
 des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs
@@ -262,16 +262,17 @@ Verwaltungskostenrückstellung für beitragsfreie Zeiten von
 Pensionsfondsverträgen und Versorgungsverhältnissen.
 
 (4) Für die Berechnung der Rückstellung gelten im Übrigen die auf
-Grund des § 116 des Versicherungsaufsichtsgesetzes erlassenen
-Vorschriften. Eine auf Grund dieser Vorschriften zu bildende
-Deckungsrückstellung ist nicht im Posten "Deckungsrückstellung",
-sondern unter dem Posten "Pensionsfondstechnische Rückstellungen
-entsprechend dem Vermögen für Rechnung und Risiko von Arbeitnehmern
-und Arbeitgebern" im Unterposten "Deckungsrückstellung" auszuweisen,
-soweit nach den Festlegungen im Pensionsfondsvertrag die Bildung des
-Vermögens aus geleisteten Beiträgen für Rechnung und Risiko von
-Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten
-Vermögens der zu bildenden Deckungsrückstellung mindestens entspricht.
+Grund des § 240 Satz 1 Nummer 12 des Versicherungsaufsichtsgesetzes
+erlassenen Vorschriften. Eine auf Grund dieser Vorschriften zu
+bildende Deckungsrückstellung ist nicht im Posten
+"Deckungsrückstellung", sondern unter dem Posten
+"Pensionsfondstechnische Rückstellungen entsprechend dem Vermögen für
+Rechnung und Risiko von Arbeitnehmern und Arbeitgebern" im Unterposten
+"Deckungsrückstellung" auszuweisen, soweit nach den Festlegungen im
+Pensionsfondsvertrag die Bildung des Vermögens aus geleisteten
+Beiträgen für Rechnung und Risiko von Arbeitnehmern und Arbeitgebern
+erfolgt und der Wert des besagten Vermögens der zu bildenden
+Deckungsrückstellung mindestens entspricht.
 
 
 #### § 14 Rückstellung für noch nicht abgewickelte Versorgungsfälle
@@ -309,7 +310,7 @@ noch nicht ausgeschüttete Überschussanteile sind unter dem Posten
 der Rückstellung für Beitragsrückerstattung eine Teilrückstellung
 (Schlussüberschussanteilfonds) nach Maßgabe der letzten Deklaration
 gebildet. Die Rückstellung darf nur für diese Zwecke verwendet werden.
-§ 56a des Versicherungsaufsichtsgesetzes bleibt unberührt.
+§ 139 des Versicherungsaufsichtsgesetzes bleibt unberührt.
 
 (6) Der Fonds für Schlussüberschussanteile ist so zu berechnen, dass
 sich für jedes Versorgungsverhältnis mindestens der Teil des zu seinem
@@ -375,7 +376,7 @@ deren Wert sich nach dem für Rechnung und Risiko von Arbeitnehmern und
 Arbeitgebern gehaltenen Vermögen entsprechend den Festlegungen im
 Pensionsfondsvertrag bestimmt.
 
-(2) Eine nach den auf Grund des § 116 des
+(2) Eine nach den auf Grund des § 240 des
 Versicherungsaufsichtsgesetzes erlassenen Vorschriften zu bildende
 Deckungsrückstellung ist im Posten "Pensionsfondstechnische
 Rückstellungen entsprechend dem Vermögen für Rechnung und Risiko von
@@ -837,13 +838,13 @@ nicht um Steuern vom Einkommen und vom Ertrag handelt.
 ### § 34 Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 341a in Verbindung mit den §§
-284 und 285 Nr. 1 bis 3a, 6, 7, 9 bis 14 sowie 16 bis 29 des
-Handelsgesetzbuchs die in dieser Verordnung zu den einzelnen Posten
-der Bilanz oder der Gewinn- und Verlustrechnung vorgeschriebenen
-Angaben aufzunehmen. Außerdem sind die in diesem Abschnitt
-vorgeschriebenen Angaben zu machen.
+284 und 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30 sowie 32 bis 34
+des Handelsgesetzbuchs die in dieser Verordnung zu den einzelnen
+Posten der Bilanz oder der Gewinn- und Verlustrechnung
+vorgeschriebenen Angaben aufzunehmen. Außerdem sind die in diesem
+Abschnitt vorgeschriebenen Angaben zu machen.
 
-(2) An Stelle der in § 268 Abs. 2 des Handelsgesetzbuchs
+(2) An Stelle der in § 284 Absatz 3 des Handelsgesetzbuchs
 vorgeschriebenen Angaben ist die Entwicklung der Aktivposten B und C I
 bis III nach dem anliegenden Muster 1 und die Entwicklung der im
 Aktivposten D I ausgewiesenen Kapitalanlagen nach dem anliegenden
@@ -857,9 +858,9 @@ solche Verpflichtungen gegenüber verbundenen Unternehmen, so sind sie
 gesondert anzugeben. Der Bilanzwert der verpfändeten, zur Sicherung
 übertragenen oder hinterlegten Vermögensgegenstände, für die im
 Insolvenzverfahren Aus- oder Absonderungsrechte geltend gemacht werden
-können, mit Ausnahme der Bestände des Deckungsstocks nach § 66 des
-Versicherungsaufsichtsgesetzes, ist in einer Summe anzugeben und dem
-Betrag des vorangegangenen Geschäftsjahres gegenüberzustellen.
+können, mit Ausnahme der Bestände des Sicherungsvermögens nach § 125
+des Versicherungsaufsichtsgesetzes, ist in einer Summe anzugeben und
+dem Betrag des vorangegangenen Geschäftsjahres gegenüberzustellen.
 
 (4) An Stelle der in § 285 Nr. 4 des Handelsgesetzbuchs
 vorgeschriebenen Angaben sind die folgenden Angaben unter
@@ -940,7 +941,7 @@ Anhang zusätzlich anzugeben:
     Ablauf von zwei Jahren fällig wird,
 
 
-3.  in Ergänzung der Angaben nach § 284 Abs. 2 Nr. 1 und 3 des
+3.  in Ergänzung der Angaben nach § 284 Absatz 2 Nummer 1 und 2 des
     Handelsgesetzbuchs die Methoden der Ermittlung der einzelnen
     pensionsfondstechnischen Rückstellungen mit Ausnahme der Rückstellung
     für Beitragsrückerstattung sowohl hinsichtlich der Bruttobeträge als
@@ -1180,6 +1181,23 @@ sowie zur Änderung weiterer Rechnungslegungsverordnungen vom 18.
 Dezember 2009 (BGBl. I S. 3934) ist Absatz 2 Satz 1, 2 und 4
 entsprechend anzuwenden.
 
+(4) Das Formblatt 1 sowie die Muster 1 und 2 in der Fassung des AIFM-
+Umsetzungsgesetzes vom 4. Juli 2013 (BGBl. I S. 1981) sind erstmals
+auf Jahres- und Konzernabschlüsse für nach dem 21. Juli 2013
+beginnende Geschäftsjahre anzuwenden.
+
+(5) § 13 Absatz 4 ist mit der Maßgabe anzuwenden, dass die auf Grund
+des § 116 des Versicherungsaufsichtsgesetzes in der bis zum 31.
+Dezember 2015 geltenden Fassung erlassenen Rechtsvorschriften
+weitergelten, bis sie durch eine Rechtsverordnung auf Grund des § 240
+Satz 1 Nummer 12, Satz 2, 3 und 5 des Versicherungsaufsichtsgesetzes
+geändert oder aufgehoben werden.
+
+(6) Die §§ 34 und 35 in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals
+auf Jahres- und Konzernabschlüsse für Geschäftsjahre anzuwenden, die
+nach dem 31. Dezember 2015 beginnen.
+
 
 ### Schlussformel
 
@@ -1353,11 +1371,11 @@ d) in andere Gewinnrücklagen                                 .... ....
 a) An die Stelle des Postens II 14 a "aus der gesetzlichen Rücklage"
 in der nichtpensionsfondstechnischen Rechnung tritt bei den
 Pensionsfondsvereinen auf Gegenseitigkeit der Posten II 14 a
-"aus der Verlustrücklage gemäß § 37 VAG".
+"aus der Verlustrücklage gemäß § 193 VAG".
 b) An die Stelle des Postens II 16 a "in die gesetzliche Rücklage"
 in der nichtpensionsfondstechnischen Rechnung tritt bei den
 Pensionsfondsvereinen auf Gegenseitigkeit der Posten II 16 a
-"in die Verlustrücklage gemäß § 37 VAG".
+"in die Verlustrücklage gemäß § 193 VAG".
 Die Angaben ab Posten II 12 können statt in der
 nichtpensionsfondstechnischen
 Rechnung auch im Anhang gemacht werden.
@@ -1365,15 +1383,16 @@ Rechnung auch im Anhang gemacht werden.
 
 ### Muster 1
 
-(Inhalt: nicht darstellbares Muster)
-(Fundstelle: BGBl. I 2003, 260;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+(Inhalt: nicht darstellbares Formular)
+(Fundstelle: BGBl. I 2003, S. 260;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 2
 
-(Fundstelle: BGBl. I 2003, 261)
 (Inhalt: nicht darstellbares Formular)
+(Fundstelle: BGBl. I 2003, S. 261;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 ### Muster 3

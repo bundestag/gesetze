@@ -146,13 +146,13 @@ einzutragen.
 
 (1) Bei einem Antrag auf Bewilligung ist die Lage der Stellen, an
 denen die Bodenschätze entdeckt worden sind
-Fundstellen             , koordinatenmäßig zu bestimmen. Hierbei ist
-von Festpunkten der Landesvermessung auszugehen. Für ihre Koordinaten
-gilt § 5 Abs. 1 und 3 Satz 1 entsprechend. Die zu den Fundstellen
-gehörende Geländehöhe kann einer amtlichen Karte entnommen werden,
-deren Maßstab nicht kleiner als 1:25.000 sein darf. Abweichungen
-zwischen den Fundstellen und den Ansatzpunkten der Bohrungen sind zu
-bestimmen und, soweit möglich, in den Lagerissen darzustellen.
+Fundstellen, koordinatenmäßig zu bestimmen. Hierbei ist von
+Festpunkten der Landesvermessung auszugehen. Für ihre Koordinaten gilt
+§ 5 Abs. 1 und 3 Satz 1 entsprechend. Die zu den Fundstellen gehörende
+Geländehöhe kann einer amtlichen Karte entnommen werden, deren Maßstab
+nicht kleiner als 1:25.000 sein darf. Abweichungen zwischen den
+Fundstellen und den Ansatzpunkten der Bohrungen sind zu bestimmen und,
+soweit möglich, in den Lagerissen darzustellen.
 
 (2) Die Lage der Fundstellen ist gesondert in einem Maßstab, der nicht
 kleiner als 1:5.000 sein darf, darzustellen. In dieser Darstellung
@@ -407,9 +407,32 @@ außer Kraft:
 
 
 
+(zu § 1)
 
-### Anlage (zu § 1) Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
+### Anlage Zeichen, Farben und Beschriftungen für Karten und Lagerisse der Bergbauberechtigungen
 
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: BGBl I 1982, 1557)
+(Fundstelle: BGBl I 1982, 1557)
+
+**Beantragte Felder**
+
+1.  Ausführung
+
+    *        *            ![bgbl1_1982_j1557_0010.jpg](bgbl1_1982_j1557_0010.jpg)
+
+
+
+
+2.  Anwendung
+
+    Bei Änderung von Bergbauberechtigungen ist die bisherige Bezeichnung
+    in der Farbe karmin durchzustreichen. Die Feldesbegrenzung
+    (Markscheide) ist durch schrägliegende Kreuze in der Farbe karmin
+    ungültig zu machen.
+
+    Der Name des Bodenschatzes ist möglichst auszuschreiben. Aus
+    Platzgründen können auch Kurzbezeichnungen entsprechend dem
+    Periodischen System der Elemente benutzt werden.
+
+
+
 

@@ -2,7 +2,7 @@
 Title: Prüfungsordnung für Fahrlehrer
 jurabk: FahrlPrüfO 2012
 layout: default
-origslug: fahrlpr_fo_2012
+origslug: fahrlpruefo_2012
 slug: fahrlpruefo_2012
 
 ---

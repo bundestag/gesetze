@@ -3,7 +3,7 @@ Title: Gesetz zu dem Haager Übereinkommen vom 5. Oktober 1961 zur Befreiung aus
   öffentlicher Urkunden von der Legalisation
 jurabk: UrkBefrÜbkG Haag
 layout: default
-origslug: urkbefr_bkg_haag
+origslug: urkbefruebkg_haag
 slug: urkbefruebkg_haag
 
 ---
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1965, 875
 
-Geändert durch
-:   Art. 7 G v. 23.6.1970 I 805
+Zuletzt geändert durch
+:   Art. 4 Abs. 144 G v. 7.8.2013 I 3154, dieser wiederum geändert durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -43,13 +43,12 @@ Apostille zuständig sind (Artikel 3, 6 und 7 des Übereinkommens). Als
 zuständige Behörde kann auch der Präsident eines Gerichts bestimmt
 werden.
 
-(2) Die Bundesregierung und die Landesregierungen oder von diesen
-ermächtigte oberste Bundes- oder Landesbehörden können, je für ihren
-Bereich, zur Deckung der Verwaltungskosten durch Rechtsverordnung die
-für die Ausstellung der Apostille und für die Prüfung nach Artikel 7
-Abs. 2 des Übereinkommens von den Antragstellern zu erhebenden Kosten
-festsetzen, soweit die Kosten nicht auf Grund anderer
-Rechtsvorschriften erhoben werden können.
+(2) Die Bundesregierung oder die von ihr ermächtigte oberste
+Bundesbehörde kann zur Deckung der Verwaltungskosten durch
+Rechtsverordnung die für die Ausstellung der Apostille und für die
+Prüfung nach Artikel 7 Absatz 2 des Übereinkommens von den
+Antragstellern zu erhebenden Kosten festsetzen, soweit die Kosten
+nicht auf Grund anderer Rechtsvorschriften erhoben werden können.
 
 (3) Rechtsverordnungen der Bundesregierung oder der von ihr
 ermächtigten obersten Bundesbehörden bedürfen nicht der Zustimmung des

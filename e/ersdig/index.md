@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 17.5.2005 I 1346;
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 5 G v. 20.6.2011 I 1114
+:   Art. 3 Abs. 5 G v. 29.6.2015 I 1061
+
+Mittelbare änderung durch
+:   Art. 1 Nr. 3 G v. 20.11.2014 I 1738 ist berücksichtigt
 
 
 ## Erster Abschnitt - Aufgaben und Organisation des Zivildienstes
@@ -31,8 +34,9 @@ Zuletzt geändert durch
 Im Zivildienst erfüllen anerkannte Kriegsdienstverweigerer Aufgaben,
 die dem Allgemeinwohl dienen, vorrangig im sozialen Bereich.
 
+Aussetzung der Verpflichtung
 
-### § 1a Aussetzung der Verpflichtung zur Ableistung des Zivildienstes
+### § 1a zur Ableistung des Zivildienstes
 
 (1) Die Einberufungsanordnungen des Bundesministeriums für Familie,
 Senioren, Frauen und Jugend können vorsehen, dass Einberufungen
@@ -922,9 +926,9 @@ das 32. Lebensjahr vollendet haben.
 (2) Während der Zivildienstüberwachung haben die anerkannten
 Kriegsdienstverweigerer dem Bundesamt binnen einer Woche jede Änderung
 ihrer Wohnung zu melden, es sei denn, sie sind innerhalb dieser Frist
-ihrer allgemeinen Meldepflicht nach den Vorschriften der
-Landesmeldegesetze nachgekommen. Ferner haben die anerkannten
-Kriegsdienstverweigerer dem Bundesamt unverzüglich zu melden
+ihrer allgemeinen Meldepflicht nach § 17 des Bundesmeldegesetzes
+nachgekommen. Ferner haben die anerkannten Kriegsdienstverweigerer dem
+Bundesamt unverzüglich zu melden
 
 1.  den Eintritt von Tatsachen, die eine Zivildienstausnahme nach den §§
     8, 9, 10 Abs. 1, § 11 Abs. 1 und 3, §§ 14 bis 14b sowie § 15
@@ -2236,8 +2240,19 @@ Maßgaben entsprechende Anwendung:
 Die Nummern 2 und 3 gelten nur in Angelegenheiten des § 35 Abs. 5 und
 8 und des § 50.
 
-(4) § 88 Abs. 8 und 9 des Soldatenversorgungsgesetzes findet
-entsprechende Anwendung.
+(4) Die Aufwendungen für die Versorgungsleistungen trägt der Bund. Die
+Ausgaben sind für Rechnung des Bundes zu leisten. Die damit
+zusammenhängenden Einnahmen sind an den Bund abzuführen.
+
+(5) Auf die für Rechnung des Bundes geleisteten Ausgaben und die mit
+ihnen zusammenhängenden Einnahmen ist das Haushaltsrecht des Bundes
+anzuwenden. Die für die Durchführung des Haushalts verantwortlichen
+Bundesbehörden können ihre Befugnisse auf die zuständigen obersten
+Landesbehörden übertragen. In diesem Fall können sie zulassen, dass
+auf die für Rechnung des Bundes zu leistenden Ausgaben und auf die mit
+ihnen zusammenhängenden Einnahmen die landesrechtlichen Vorschriften
+über die Kassen- und Buchführung der zuständigen Landesbehörden
+angewendet werden.
 
 
 ### § 51a Überleitungsregelungen aus Anlass der Herstellung der Einheit Deutschlands
@@ -2908,10 +2923,11 @@ werden.
     die Stelle des Grundwehrdienstes der Zivildienst tritt;
 
 
-2.  das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 23 an die
-    Stelle des Bundesministeriums der Verteidigung das Bundesministerium
-    für Familie, Senioren, Frauen und Jugend und dass an die Stelle des
-    Grundwehrdienstes der Zivildienst tritt.
+2.  das Unterhaltssicherungsgesetz mit der Maßgabe, dass in § 24 an die
+    Stelle des Bundesamtes für das Personalmanagement der Bundeswehr die
+    vom Bundesministerium für Familie, Senioren, Frauen und Jugend
+    bestimmte Stelle und an die Stelle des freiwilligen Wehrdienstes der
+    Zivildienst tritt.
 
 
 
@@ -3052,8 +3068,9 @@ Gesetzes vom 31. Juli 2008 (BGBl. I S. 1629) unabkömmlich gestellt
 worden sind, ist § 16 Abs. 1 Satz 1 in der bis dahin gültigen Fassung
 weiterhin anzuwenden.
 
+Übergangsvorschrift aus Anlass des Gesetzes
 
-### § 83 Übergangsvorschrift aus Anlass des Gesetzes zur Einführung eines Bundesfreiwilligendienstes
+### § 83 zur Einführung eines Bundesfreiwilligendienstes
 
 (1) Die Amtszeiten des derzeitigen Bundesbeauftragten und des
 derzeitigen Beirats für den Zivildienst enden am 31. Dezember 2011.

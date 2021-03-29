@@ -4,7 +4,7 @@ Title: Vertrag zur Änderung des Vertrages zur Vorbereitung und Durchführung de
   und der Deutschen Demokratischen Republik
 jurabk: GDtWahlVDVtrÄndVtr
 layout: default
-origslug: gdtwahlvdvtr_ndvtr
+origslug: gdtwahlvdvtraendvtr
 slug: gdtwahlvdvtraendvtr
 
 ---

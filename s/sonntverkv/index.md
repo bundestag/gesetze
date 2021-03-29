@@ -64,8 +64,7 @@ die Abgabe
 Oster- und Pfingstfeiertag.
 
 (3) Die Vorschriften der §§ 5, 10, 11,
-13              bis 15 des Gesetzes über den Ladenschluß bleiben
-unberührt.
+13 bis 15 des Gesetzes über den Ladenschluß bleiben unberührt.
 
 
 ## § 2

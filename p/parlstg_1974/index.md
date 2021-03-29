@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 1538
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 3 G v. 5.2.2009 I 160
+:   Art. 2 G v. 17.7.2015 I 1322
 
 
 ## Eingangsformel
@@ -81,8 +81,7 @@ der Wahlperiode nach Artikel 39 Abs. 1 Satz 2 des Grundgesetzes. § 10
 des Bundesministergesetzes in der Fassung der Bekanntmachung vom 27.
 Juli 1971 (Bundesgesetzbl. I S. 1166),
 geändert durch das Einführungsgesetz zum Strafgesetzbuch vom 2. März
-1974 (Bundesgesetzblatt I S. 469),              ist entsprechend
-anzuwenden.
+1974 (Bundesgesetzblatt I S. 469), ist entsprechend anzuwenden.
 
 
 ## § 5
@@ -114,7 +113,8 @@ Die für Bundesminister geltenden Vorschriften der §§ 2, 4 bis 8, 18
 bis 20 und 21a des Bundesministergesetzes sind entsprechend
 anzuwenden; bei Anwendung des § 5 Abs. 1 Satz 3 entscheidet die
 Bundesregierung, des § 5 Abs. 3 das zuständige Mitglied der
-Bundesregierung.
+Bundesregierung. Die Anzeige nach § 6a des Bundesministergesetzes
+erfolgt gegenüber dem zuständigen Mitglied der Bundesregierung.
 
 
 ## § 8
@@ -143,8 +143,8 @@ seinem Inkrafttreten ausgeschieden sind, und ihre Hinterbliebenen.
 
 (2) Durch Landesgesetz ist zu bestimmen, daß die Zeit der Bekleidung
 des Amtes eines Parlamentarischen Staatssekretärs der im
-Beamtenverhältnis zurückgelegten Dienstzeit entsprechend
-§ 111 Abs. 4              des Bundesbeamtengesetzes gleichsteht.
+Beamtenverhältnis zurückgelegten Dienstzeit entsprechend § 6 Absatz 3
+Nummer 3 des Beamtenversorgungsgesetzes gleichsteht.
 
 (3)
 

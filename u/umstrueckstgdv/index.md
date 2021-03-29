@@ -4,7 +4,7 @@ Title: Verordnung zur Durchführung des Gesetzes über die Bildung von Rückstel
   und in der Altbankenrechnung der Berliner Altbanken
 jurabk: UmstRückstGDV
 layout: default
-origslug: umstr_ckstgdv
+origslug: umstrueckstgdv
 slug: umstrueckstgdv
 
 ---

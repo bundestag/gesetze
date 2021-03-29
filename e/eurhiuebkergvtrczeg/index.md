@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 2. Februar 2000 zwischen der Bundesrepublik Deu
   Anwendung
 jurabk: EuRHiÜbkErgVtrCZEG
 layout: default
-origslug: eurhi_bkergvtrczeg
+origslug: eurhiuebkergvtrczeg
 slug: eurhiuebkergvtrczeg
 
 ---
@@ -16,7 +16,7 @@ Ausfertigungsdatum
 :   2001-07-13
 
 Fundstelle
-:   BGBl II: 2001, 733
+:   BGBl II: 2001, 733 (2002 II 788)
 
 
 

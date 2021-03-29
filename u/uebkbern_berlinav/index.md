@@ -1,14 +1,14 @@
 ---
 Title: Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen
-  revidierten Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst
+  revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst
 jurabk: ÜbkBern/BerlinAV
 layout: default
-origslug: _bkbern_berlinav
+origslug: uebkbern_berlinav
 slug: uebkbern_berlinav
 
 ---
 
-# Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutz von Werken der Literatur und Kunst (ÜbkBern/BerlinAV)
+# Verordnung zur Ausführung der am 13. November 1908 zu Berlin abgeschlossenen revidierten Berner Übereinkunft zum Schutze von Werken der Literatur und Kunst (ÜbkBern/BerlinAV)
 
 Ausfertigungsdatum
 :   1910-07-12
@@ -44,9 +44,9 @@ mechanischen Musikinstrumenten, den nachstehenden Einschränkungen.
     vorhandenen Vorrichtungen, wie Formen, Platten, Steine, Stereotypen,
     noch bis zum Ablauf von drei Jahren benutzt werden. Vorrichtungen,
     deren Herstellung begonnen war, dürfen fertiggestellt und bis zu
-    demselben Zeitpunkt benutzt werden.                    Die Verbreitung
-    der gemäß diesen Vorschriften hergestellten sowie der bereits vor dem
-    Inkrafttreten der Übereinkunft vollendeten Exemplare ist zulässig.
+    demselben Zeitpunkt benutzt werden. Die Verbreitung der gemäß diesen
+    Vorschriften hergestellten sowie der bereits vor dem Inkrafttreten der
+    Übereinkunft vollendeten Exemplare ist zulässig.
 
 
 2.  Für choreographische und pantomimische Werke, bei denen der

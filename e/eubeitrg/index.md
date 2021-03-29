@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2592
 
+Geändert durch
+:   Art. 21 G v. 26.6.2013 I 1809
+
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -87,8 +90,9 @@ entstandenen Forderungen. Forderungen im Sinne dieses Gesetzes sind
 
 (3) Der Anwendungsbereich dieses Gesetzes umfasst nicht
 
-1.  Pflichtbeiträge zur Sozialversicherung, die an öffentlich-rechtliche
-    Einrichtungen der Sozialversicherung zu leisten sind;
+1.  Beiträge und Umlagen sowie damit verbundene Abgaben und Gebühren nach
+    dem Sozialgesetzbuch, den in § 68 des Ersten Buches Sozialgesetzbuch
+    genannten Gesetzen und dem Aufwendungsausgleichsgesetz;
 
 
 2.  andere als die in Absatz 2 genannten Gebühren;
@@ -209,16 +213,16 @@ Anspruch und leisten danach Amtshilfe (Vollstreckungsbehörden):
         Garantiefonds für die Landwirtschaft und des Europäischen
         Landwirtschaftsfonds für die Entwicklung des ländlichen Raums nach den
         Verordnungen (EG)
-        Nr. 1290/2005                          des Rates vom 21. Juni 2005
-        über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. L 209 vom
-        11\.8.2005, S. 1), die zuletzt durch die Verordnung (EG) Nr. 473/2009
-        (ABl. L 144 vom 9.6.2009, S. 3) geändert worden ist, und (EG) Nr.
-        1698/2005 des Rates vom 20. September 2005 über die Förderung der
-        Entwicklung des ländlichen Raums durch den Europäischen
-        Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ABl. L
-        277 vom 21.10.2005, S. 1, L 67 vom 11.3.2008, S. 22), die zuletzt
+        Nr. 1290/2005 des Rates vom 21. Juni 2005 über die Finanzierung der
+        Gemeinsamen Agrarpolitik (ABl. L 209 vom 11.8.2005, S. 1), die zuletzt
         durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144 vom 9.6.2009, S. 3)
-        geändert worden ist, in der jeweils geltenden Fassung,
+        geändert worden ist, und (EG) Nr. 1698/2005 des Rates vom 20.
+        September 2005 über die Förderung der Entwicklung des ländlichen Raums
+        durch den Europäischen Landwirtschaftsfonds für die Entwicklung des
+        ländlichen Raums (ABl. L 277 vom 21.10.2005, S. 1, L 67 vom 11.3.2008,
+        S. 22), die zuletzt durch die Verordnung (EG) Nr. 473/2009 (ABl. L 144
+        vom 9.6.2009, S. 3) geändert worden ist, in der jeweils geltenden
+        Fassung,
 
 
     b)  Abschöpfungen und andere Abgaben im Sektor Zucker nach der Verordnung

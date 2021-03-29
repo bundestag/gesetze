@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 2040
 
 Zuletzt geändert durch
-:   Art. 3 V v. 16.2.2005 I 258
+:   Art. 1 V v. 28.6.2018 I 1159
 
 
 ## Eingangsformel
@@ -43,73 +43,83 @@ Entwicklungsformen und Nester.
 
 ## § 2 Verbote
 
-(1) Es ist verboten, Tiere der in Anlage 1 genannten Arten
+(1) Es ist verboten,
 
-1.  in Besitz zu nehmen, zu erwerben, die tatsächliche Gewalt über sie
-    auszuüben, sie zu be- oder verarbeiten oder sonst zu verwenden,
-
-
-2.  abzugeben, anzubieten, zu veräußern oder sonst in den Verkehr zu
-    bringen sowie
+1.  Tiere der in Anlage 1 Teil A genannten Arten oder Teile oder
+    Erzeugnisse solcher Tiere zu besitzen,
 
 
-3.  für eine der in Nummer 2 genannten Tätigkeiten zu befördern.
+2.  Tiere der in Anlage 1 Teil B genannten Arten oder Teile oder
+    Erzeugnisse solcher Tiere gewerbsmäßig anzukaufen, zu verkaufen oder
+    zu tauschen,
+
+
+3.  Tiere der in Anlage 1 Teil C genannten Arten
+
+    a)  über Nummer 2 hinaus sonst zu erwerben, über sie die tatsächliche
+        Gewalt auszuüben oder sonst zu verwenden,
+
+
+    b)  abzugeben, zum Verkauf anzubieten, zu veräußern oder sonst in den
+        Verkehr zu bringen,
+
+
+    c)  für eine der in Nummer 2 genannten Tätigkeiten zu befördern,
+
+
+
+
+    soweit die Handlung nicht bereits nach Nummer 1 oder Nummer 2 verboten
+    ist.
 
 
 
 Das Aneignungsrecht des Jagdausübungsberechtigten sowie Vorschriften
-der Länder nach § 36 Abs. 2 Nr. 2 des Bundesjagdgesetzes über das
+der Länder nach § 36 Absatz 2 Nummer 2 des Bundesjagdgesetzes über das
 Aufnehmen, die Pflege und die Aufzucht verletzten oder kranken Wildes
 und dessen Verbleib bleiben unberührt.
 
-(2) Die Verbote des Absatzes 1 gelten nicht für Tiere, an denen nach
-Inkrafttreten dieser Verordnung im Rahmen der Ausübung des Jagdrechts
-Eigentum erworben wurde. Diese Tiere dürfen jedoch nicht an Dritte
-gegen Entgelt abgegeben oder zu diesem Zweck befördert, gehalten oder
-angeboten werden. Ausgenommen von diesen Beschränkungen sind
+(2) Die Verbote des Absatzes 1 gelten nicht für Tiere oder Teile oder
+Erzeugnisse solcher Tiere, an denen nach dem 8. November 1985 im
+Rahmen der Ausübung des Jagdrechts Eigentum erworben wurde. Diese
+Tiere oder Teile oder Erzeugnisse solcher Tiere dürfen jedoch nicht an
+Dritte gegen Entgelt abgegeben oder zu diesem Zweck befördert,
+gehalten oder angeboten werden. Ausgenommen von diesen Beschränkungen
+sind
 
-1.  Tiere der in Anlage 2 genannten Arten,
-
-
-2.  Tiere der in Anlage 3 genannten Arten, soweit die in Satz 2
-    aufgeführten Tätigkeiten nicht zu gewerbsmäßigen Zwecken erfolgen
-    sowie
+1.  Tiere oder Teile oder Erzeugnisse solcher Tiere der in Anlage 2
+    genannten Arten,
 
 
-3.  in der Natur aufgefundene tote Tiere, soweit sie für Zwecke der
-    Forschung oder Lehre verwendet werden.
+2.  Tiere oder Teile oder Erzeugnisse solcher Tiere der in Anlage 3
+    genannten Arten, soweit die in Satz 2 aufgeführten Tätigkeiten nicht
+    zu gewerbsmäßigen Zwecken erfolgen, sowie
 
 
-
-
-(3) Die Verbote des Absatzes 1 gelten ferner nicht für Tiere, die
-
-1.  vor Inkrafttreten dieser Verordnung in Übereinstimmung mit den
-    Vorschriften zum Schutz der betreffenden Art im Geltungsbereich des
-    Bundeswaldgesetzes erworben worden sind,
-
-
-2.  in Übereinstimmung mit den Vorschriften zum Schutz der betreffenden
-    Art in den Geltungsbereich des Bundeswaldgesetzes gelangt sind. Für
-    Tiere der in Anlage 1 genannten Arten, die auf Grund einer lediglich
-    zum persönlichen Gebrauch oder als Hausrat zulässigen Einfuhr in den
-    Geltungsbereich des Bundeswaldgesetzes gelangt sind, gelten die
-    Beschränkungen des Absatzes 2 Satz 2 entsprechend.
+3.  in der Natur aufgefundene tote Tiere oder Teile oder Erzeugnisse
+    solcher Tiere, soweit sie für Zwecke der Forschung oder Lehre
+    verwendet werden.
 
 
 
 
-(4) Die Verbote des Absatzes 1 gelten ferner nicht für Tiere der Arten
-Rebhuhn, Fasan, Wachtel und Stockente, die im Geltungsbereich des
-Bundeswaldgesetzes in der Gefangenschaft gezüchtet und nicht herrenlos
-geworden sind.
+(3) Die Verbote des Absatzes 1 gelten ferner nicht für Tiere oder
+Teile oder Erzeugnisse solcher Tiere, die vor dem 9. November 1985 in
+Übereinstimmung mit den Vorschriften zum Schutz der betreffenden Art
+erworben worden sind. Dasselbe gilt im Beitrittsgebiet für den
+Zeitraum vor dem 3. Oktober 1990.
+
+(4) Die Verbote des Absatzes 1 gelten ferner nicht für Tiere oder
+Teile oder Erzeugnisse solcher Tiere der in der Anlage 2 genannten
+Arten und der Art Wachtel, die in der Gefangenschaft gezüchtet wurden
+und nicht herrenlos geworden sind.
 
 (5) Die nach Landesrecht zuständige Behörde kann im Einzelfall
 Ausnahmen von den Verboten des Absatzes 1 zulassen, soweit dies für
-die Verwertung beschlagnahmter oder eingezogener Tiere erforderlich
-ist. Sie kann ferner im Einzelfall Ausnahmen von den Verboten des
-Absatzes 1 sowie von den Verboten des Absatzes 2 Satz 2 und des
-Absatzes 3 Satz 2 zulassen, soweit dies
+die Verwertung beschlagnahmter oder eingezogener Tiere oder Teile oder
+Erzeugnisse solcher Tiere erforderlich ist. Sie kann ferner im
+Einzelfall Ausnahmen von den Verboten des Absatzes 1 sowie von den
+Verboten des Absatzes 2 Satz 2 zulassen, soweit dies
 
 1.  für Zwecke der Forschung oder Lehre,
 
@@ -118,8 +128,8 @@ Absatzes 3 Satz 2 zulassen, soweit dies
     zusammenhängenden Aufzucht oder
 
 
-3.  aus einem sonstigen vernünftigen Grund für eine Nutzung von Tieren in
-    geringen Mengen
+3.  aus einem sonstigen vernünftigen Grund für eine Nutzung von Tieren
+    oder Teilen oder Erzeugnissen solcher Tiere in geringen Mengen
 
 
 
@@ -141,7 +151,7 @@ Arten ist nur nach Maßgabe der Absätze 2 bis 6 zulässig.
 
 
 2.  darf insgesamt nicht mehr als zwei Exemplare der Arten Habicht,
-    Steinadler und Wanderfalke halten,
+    Sperber, Steinadler und Wanderfalke halten,
 
 
 3.  hat unverzüglich die Greife und Falken dauerhaft und unverwechselbar
@@ -254,20 +264,31 @@ wenn Tatsachen die Annahme rechtfertigen, daß eine Berechtigung nach §
 2 Abs. 2 bis 5 nicht besteht.
 
 
+## § 5a Strafvorschriften
+
+(1) Nach § 38a Absatz 1 des Bundesjagdgesetzes wird bestraft, wer
+entgegen § 2 Absatz 1 Satz 1 Nummer 2 ein dort genanntes Tier oder ein
+Teil oder ein Erzeugnis eines solchen Tieres gewerbsmäßig ankauft,
+verkauft oder tauscht.
+
+(2) Nach § 38a Absatz 2 des Bundesjagdgesetzes wird bestraft, wer
+entgegen § 2 Absatz 1 Satz 1 Nummer 1 ein dort genanntes Tier oder ein
+Teil oder ein Erzeugnis eines solchen Tieres besitzt.
+
+
 ## § 6 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 39 Abs. 2 Nr. 5 des Bundesjagdgesetzes
 handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 2 Abs. 1 Satz 1 dort bezeichnete Tiere in Besitz nimmt,
-    erwirbt, die tatsächliche Gewalt über sie ausübt, sie be- oder
-    verarbeitet oder sonst verwendet, in den Verkehr bringt oder
-    befördert,
+1.  entgegen § 2 Absatz 1 Satz 1 Nummer 3 ein dort genanntes Tier oder ein
+    Teil oder ein Erzeugnis eines solchen Tieres sonst erwirbt, sonst
+    verwendet, in den Verkehr bringt oder befördert oder die tatsächliche
+    Gewalt über ein solches Tier, Teil oder Erzeugnis ausübt,
 
 
-2.  entgegen § 2 Abs. 2 Satz 2 oder Abs. 3 Nr. 2 Satz 2 dort bezeichnete
-    Tiere an Dritte gegen Entgelt abgibt oder zu diesem Zweck befördert,
-    hält oder anbietet,
+2.  entgegen § 2 Abs. 2 Satz 2 dort bezeichnete Tiere an Dritte gegen
+    Entgelt abgibt oder zu diesem Zweck befördert, hält oder anbietet,
 
 
 3.  entgegen § 3 Abs. 2 Nr. 1 Greife oder Falken hält,
@@ -422,367 +443,525 @@ Gleichzeitig treten außer Kraft:
 
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
+(zu § 2 Absatz 1)
 
-## Anlage 1 (zu § 2 Abs. 1)
+## Anlage 1 Liste der von den Verboten erfassten Wildarten
 
+(Fundstelle: BGBl. I 2018, 1161 - 1163)
 
-1.  **Haarwild**
+## Teil A (Besitz)
 
-    Steinwild
-    (Capra ibex                    L.),
 
-    Schneehase
-    (Lepus timidus                    L.),
+**1.** **Haarwild**
 
-    Murmeltier
-    (Marmota marmota                    L.),
+    Wisent (
+    Bison bonasus L.)
 
-    Seehund
-    (Phoca vitulina                    L.);
 
+**2.** **Federwild**
 
-2.  **Federwild**
+    Auerwild (
+    Tetrao urogallus L.)
 
-    Rebhuhn
-    (Perdix perdix                    L.),
+    Birkwild (
+    Lyrurus tetrix L.)
 
-    Fasan
-    (Phasianus colchicus                    L.),
+    Haselwild (
+    tetrastes bonasia L.)
 
-    Wachtel
-    (Coturnix coturnix                    L.),
+    Alpenschneehuhn (
+    Lagopus mutus MONTIN)
 
-    Auerwild
-    (Tetrao urogallus                    L.),
+    Weißwangengans (
+    Branta leucopsis)
 
-    Birkwild
-    (Lyrurus tetrix                    L.),
+    Zwergsäger (
+    Mergus albellus)
 
-    Rackelwild
-    (Lyrurus tetrix x Tetrao urogallus),
+    Schwarzkopfmöwe (
+    Larus melanocephalus Natt.)
 
-    Haselwild
-    (Tetrastes bonasia                    L.),
+    Zwergmöwe (
+    Larus minutus)
 
-    Alpenschneehuhn
-    (Lagopus mutus                    MONTIN),
 
-    Wildtruthuhn
-    (Meleagris gallopavo                    L.),
 
-    Hohltaube
-    (Columba oenas                    L.),
 
-    Ringeltaube
-    (Columba palumbus                    L.),
+## Teil B (Handel)
 
-    Turteltaube
-    (Streptopelia turtur                    L.),
 
-    Türkentaube
-    (Streptopelia decaocto                    FRIVALDSKY),
+**1.** **Haarwild**
 
-    Höckerschwan
-    (Cygnus olor                    GMELIN),
+    Wisent (
+    Bison bonasus L.)
 
-    Graugans
-    (Anser anser                    L.),
 
-    Bläßgans
-    (Anser albifrons                    SCOPOLI),
+**2.** **Federwild**
 
-    Saatgans
-    (Anser fabalis                    LATHAM),
+    Wachtel (
+    Coturnix coturnix L.)
 
-    Kurzschnabelgans
-    (Anser brachyrhynchos                    BAILLON),
+    Auerwild (
+    tetrao urogallus L.)
 
-    Ringelgans
-    (Branta bernicla                    L.),
+    Birkwild (
+    Lyrurus tetrix L.)
 
-    Weißwangengans
-    (Branta leucopsis                    BECHSTEIN),
+    Haselwild (
+    Tetrastes bonasia L.)
 
-    Kanadagans
-    (Branta canadensis                    L.),
+    Alpenschneehuhn (
+    Lagopus mutus MONTIN)
 
-    Stockente
-    (Anas platyrhynchos                    L.),
+    Türkentaube (
+    Streptopelia decaocto)
 
-    Löffelente
-    (Anas clypeata                    L.),
+    Hohltaube (
+    Columbo oeanas)
 
-    Schnatterente
-    (Anas strepera                    L.),
+    Höckerschwan (
+    Cygnus olor GMEL.)
 
-    Pfeifente
-    (Anas penelope                    L.),
+    Kurzschnabelgans (
+    Anser brachyrhynchus)
 
-    Krickente
-    (Anas crecca                    L.),
+    Weißwangengans (
+    Branta leucopsis)
 
-    Spießente
-    (Anas acuta                    L.),
+    Saatgans (
+    Anser fabalis LATHAM)
 
-    Kolbenente
-    (Netta rufina                    PALLAS),
+    Kanadagans (
+    Branta canadensis)
 
-    Bergente
-    (Aythya marila                    L.),
+    Ringelgans (
+    Branta bernicla)
 
-    Reiherente
-    (Aythya fuligula                    L.),
+    Eiderente (
+    Somateria mollissima)
 
-    Tafelente
-    (Aythya ferina                    L.),
+    Eisente (
+    Clangula hyemalis)
 
-    Schellente
-    (Bucephala clangula                    L.),
+    Kolbenente (
+    Netta rufina)
 
-    Brandente
-    (Tadorna tadorna                    L.),
+    Schellente (
+    Bucephala clangula)
 
-    Eisente
-    (Clangula hyemalis                    L.),
+    Schnatterente (
+    Anas strepera)
 
-    Samtente
-    (Melanitta fusca                    L.),
+    Reiherente (
+    Aythya fuligula)
 
-    Trauerente
-    (Melanitta nigra                    L.),
+    Zwergsäger (
+    Mergus albellus)
 
-    Eiderente
-    (Somateria mollissima                    L.),
+    Gänsesäger (
+    Mergus merganser)
 
-    Mittelsäger
-    (Mergus serrator                    L.),
+    Mittelsäger (
+    Mergus serrator)
 
-    Gänsesäger
-    (Mergus merganser                    L.),
+    Blässhuhn (
+    Fulica atra L.)
 
-    Zwergsäger
-    (Mergus albellus                    L.),
+    Schwarzkopfmöwe (
+    Larus melanocephalus Natt.)
 
-    Waldschnepfe
-    (Scolopax rusticola                    L.),
+    Zwergmöwe (
+    Larus minutus)
 
-    Bläßhuhn
-    (Fulica atra                    L.),
+    Lachmöwe (
+    Larus ridibundus)
 
-    Mantelmöwe
-    (Larus marinus                    L.),
+    Sturmmöwe (
+    Larus canus)
 
-    Heringsmöwe
-    (Larus fuscus                    L.),
+    Silbermöwe (
+    Larus argentatus)
 
-    Silbermöwe
-    (Larus argentatus                    PONTOPPIDAN),
-
-    Sturmmöwe
-    (Larus canus                    L.),
+    Mantelmöwe (
+    Larus marinus)
 
-    Lachmöwe
-    (Larus ridibundus                    L.),
+    Heringsmöwe (
+    Larus fuscus L.)
 
-    Schwarzkopfmöwe
-    (Larus melanocephalus                    TEMMINCK),
+    Steppenmöwe (
+    Larus cachinnans)
 
-    Zwergmöwe
-    (Larus minutus                    PALLAS),
 
-    Dreizehenmöwe
-    (Rissa tridactyla                    L.),
 
-    Haubentaucher
-    (Podiceps cristatus                    L.),
 
-    Graureiher
-    (Ardea cinerea                    L.),
+## Teil C (Besitz und Handel)
 
-    Kolkrabe
-    (Corvus corax                    L.).
 
+**1.** **Haarwild**
 
+    Wisent (
+    Bison bonasus L.)
 
+    Steinwild (
+    Capra ibex L.)
 
+    Schneehase (
+    Lepus timidus L.)
 
-## Anlage 2 (zu § 2 Abs. 2 Satz 3 Nr. 1)
+    Murmeltier (
+    Marmota marmota L.)
 
-Rebhuhn
-(Perdix perdix              L.),
-Fasan
-(Phasianus colchicus              L.),
-Ringeltaube
-(Columba palumbus              L.),
-Graugans
-(Anser anser              L.),
-Stockente
-(Anas platyrhynchos              L.),
-Pfeifente
-(Anas penelope              L.),
-Krickente
-(Anas crecca              L.),
-Spießente
-(Anas acuta              L.),
-Tafelente
-(Aythya ferina              L.),
-Bläßhuhn
-(Fulica atra              L.).
+    Seehund (
+    Phoca vitulina L.)
 
 
-## Anlage 3 (zu § 2 Abs. 2 Satz 3 Nr. 2)
+**2.** **Federwild**
 
-Bläßgans
-(Anser albifrons              SCOPOLI),
-Reiherente
-(Aythya fuligula              L.),
-Waldschnepfe
-(Scolopax rusticola              L.).
+    Rebhuhn (
+    Perdix perdix L.)
 
+    Fasan (
+    Phasianus colchicus L.)
 
-## Anlage 4 (zu § 3 Abs. 1)
+    Wachtel (
+    Coturnix coturnix L.)
 
-Fischadler
-(Pandion haliaeetus              L.),
-Wespenbussard
-(Pernis apivorus              L.),
-Schwarzmilan
-(Milvus migrans              BODDAERT),
-Rotmilan
-(Milvus milvus              L.),
-Seeadler
-(Haliaeetus albicilla              L.),
-Rohrweihe
-(Circus aeruginosus              L.),
-Kornweihe
-(Circus cyaneus              L.),
-Wiesenweihe
-(Circus pygargus              L.),
-Sperber
-(Accipiter nisus              L.),
-Habicht
-(Accipiter gentilis              L.),
-Mäusebussard
-(Buteo buteo              L.),
-Rauhfußbussard
-(Buteo lagopus              BRUENNICH),
-Steinadler
-(Aquila chrysaetos              L.),
-Turmfalke
-(Falco tinnunculus              L.),
-Rotfußfalke
-(Falco vespertinus              L.),
-Merlin
-(Falco columbarius              L.),
-Baumfalke
-(Falco subbuteo              L.),
-Wanderfalke
-(Falco peregrinus              TUNSTALL).
+    Auerwild (
+    Tetrao urogallus L.)
 
+    Birkwild (
+    Lyrurus tetrix L.)
 
-## Anlage 5 (zu § 4 Abs. 1, § 5)
+    Haselwild (
+    Tetrastes bonasia L.)
 
+    Alpenschneehuhn (
+    Lagopus mutus MONTIN)
 
-1.  **Haarwild**
+    Wildtruthuhn (
+    Meleagris gallopavo L.)
 
-    Steinwild
-    (Capra ibex                    L.),
+    Hohltaube (
+    Columba oenas L.)
 
-    Schneehase
-    (Lepus timidus                    L.),
+    Ringeltaube (
+    Columba palumbus L.)
 
-    Murmeltier
-    (Marmota marmota                    L.),
+    Türkentaube (
+    Streptopelia decaocto FRIVALDSKY)
 
-    Seehund
-    (Phoca vitulina                    L.);
+    Höckerschwan (
+    Cygnus olor GMELIN)
 
+    Graugans (
+    Anser anser L.)
 
-2.  **Federwild**
+    Blässgans (
+    Anser albifrons SCOPOLI)
 
-    Wachtel
-    (Coturnix coturnix                    L.),
+    Saatgans (
+    Anser fabalis LATHAM)
 
-    Auerwild
-    (Tetrao urogallus                    L.),
+    Kurzschnabelgans (
+    Anser brachyrhynchos BAILLON)
 
-    Birkwild
-    (Lyrurus tetrix                    L.),
+    Weißwangengans (
+    Branta leucopsis)
 
-    Rackelwild
-    (Lyrurus tetrix x Tetrao urogallus),
+    Kanadagans (
+    Branta canadensis L.)
 
-    Haselwild
-    (Tetrastes bonasia                    L.),
+    Stockente (
+    Anas platyrhynchos L.)
 
-    Alpenschneehuhn
-    (Lagopus mutus                    MONTIN),
+    Löffelente (
+    Anas clypeata L.)
 
-    Hohltaube
-    (Columba oenas                    L.),
+    Schnatterente (
+    Anas strepera L.)
 
-    Turteltaube
-    (Streptopelia turtur                    L.),
+    Pfeifente (
+    Anas penolope L.)
 
-    Kurzschnabelgans
-    (Anser brachyrhynchos                    BAILLON),
+    Krickente (
+    Anas crecca L.)
 
-    Weißwangengans
-    (Branta leucopsis                    BECHSTEIN),
+    Spießente (
+    Anas acuta L.)
 
-    Löffelente
-    (Anas clypeata                    L.),
+    Kolbenente (
+    Netta rufina PALLAS)
 
-    Schnatterente
-    (Anas strepera                    L.),
+    Bergente (
+    Aythya marila L.)
 
-    Kolbenente
-    (Netta rufina                    PALLAS),
+    Reiherente (
+    Aythya fuligula L.)
 
-    Schellente
-    (Bucephala clangula                    L.),
+    Tafelente (
+    Aythya ferina L.)
 
-    Brandente
-    (Tadorna tadorna                    L.),
+    Schellente (
+    Bucephala clangula L.)
 
-    Eisente
-    (Clangula hyemalis                    L.),
+    Brandente (
+    Tadorna tadorna L.)
 
-    Eiderente
-    (Somateria mollissima                    L.),
+    Eisente (
+    Clangula hyemalis L.)
 
-    Mittelsäger
-    (Mergus serrator                    L.),
+    Samtente (
+    Melanitta fusca L.)
 
-    Gänsesäger
-    (Mergus merganser                    L.),
+    Trauerente (
+    Melanitta nigra L.)
 
-    Zwergsäger
-    (Mergus albellus                    L.),
+    Eiderente (
+    Somateria mollissima L.)
 
-    Schwarzkopfmöwe
-    (Larus melanocephalus                    TEMMINCK),
+    Mittelsäger (
+    Mergus serrator L.)
 
-    Zwergmöwe
-    (Larus minutus                    PALLAS),
+    Gänsesäger (
+    Mergus merganser L.)
 
-    Dreizehenmöwe
-    (Rissa tridactyla                    L.),
+    Zwergsäger (
+    Mergus albellus)
 
-    Haubentaucher
-    (Podiceps cristatus                    L.),
+    Schwarzkopfmöwe (
+    Larus melanocephalus Natt.)
 
-    Graureiher
-    (Ardea cinerea                    L.),
+    Zwergmöwe (
+    Larus minutus)
 
-    Kolkrabe
-    (Corvus corax                    L.).
+    Dreizehenmöwe (
+    Rissa tridactyla L.)
 
+    Haubentaucher (
+    Podiceps cristatus L.)
 
+    Graureiher (
+    Ardea cinerea L.)
 
 
 
-## Anlage 6 (zu § 4 Abs. 1) Aufnahme- und Auslieferungsbuch
+
+(zu § 2 Absatz 2 Satz 3 Nummer 1)
+
+## Anlage 2 Liste der von bestimmten Verboten ausgenommenen Wildarten
+
+(Fundstelle: BGBl. I 2018, 1164)
+
+Rebhuhn (
+Perdix perdix L.)
+
+Fasan (
+Phasianus colchicus L.)
+
+Ringeltaube (
+Columba palumbus L.)
+
+Graugans (
+Anser anser L.)
+
+Stockente (
+Anas platyrhynchos L.)
+
+Pfeifente (
+Anas penelope L.)
+
+Krickente (
+Anas crecca L.)
+
+Spießente (
+Anas acuta L.)
+
+Tafelente (
+Aythya ferina L.)
+
+Blässhuhn (
+Fulica atra L.)
+
+(zu § 2 Absatz 2 Satz 3 Nummer 2)
+
+## Anlage 3 Liste der von bestimmten Verboten ausgenommenen Wildarten bei Tätigkeiten nicht zu gewerbsmäßigen Zwecken
+
+(Fundstelle: BGBl. I 2018, 1165)
+
+Blässgans (
+Anser albifrons SCOPOLI)
+
+Reiherente (
+Aythya fuligula L.)
+
+Waldschnepfe (
+Scolopax rusticola L.)
+
+(zu § 3 Absatz 1)
+
+## Anlage 4 Liste der Greife und Falken, deren Haltung beschränkt ist
+
+(Fundstelle: BGBl. I 2018, 1166)
+
+Fischadler (
+Pandion haliaetus L.)
+
+Wespenbussard (
+Pernis apivorus L.)
+
+Schwarzmilan (
+Milvus migrans BODDAERT)
+
+Rotmilan (
+Milvus milvus L.)
+
+Seeadler (
+Haliaeetus albicilla L.)
+
+Rohrweihe (
+Circus aeruginosus L.)
+
+Kornweihe (
+Circus cyaneus L.)
+
+Wiesenweihe (
+Circus pygargus L.)
+
+Sperber (
+Accipiter nisus L.)
+
+Habicht (
+Accipiter gentilis L.)
+
+Mäusebussard (
+Buteo buteo L.)
+
+Rauhfußbussard (
+Buteo lagopus BRUENNICH)
+
+Steinadler (
+Aquila chrysaetos L.)
+
+Turmfalke (
+Falco tinnunculus L.)
+
+Rotfußfalke (
+Falco vespertinus L.)
+
+Merlin (
+Falco columbarius L.)
+
+Baumfalke (
+Falco subbuteo L.)
+
+Wanderfalke (
+Falco peregrinus TUNSTALL)
+
+(zu § 4 Absatz 1 und § 5)
+
+## Anlage 5 Liste der kennzeichnungspflichtigen Wildarten
+
+(Fundstelle: BGBl. I 2018, 1167)
+
+
+**1.** **Haarwild**
+
+    Steinwild (
+    Capra ibex L.)
+
+    Schneehase (
+    Lepus timidus L.)
+
+    Murmeltier (
+    Marmota marmota L.)
+
+    Seehund (
+    Phoca vitulina L.)
+
+
+**2.** **Federwild**
+
+    Wachtel (
+    Coturnix coturnix L.)
+
+    Auerwild (
+    Tetrao urogallus L.)
+
+    Birkwild (
+    Lyrurus tetrix L.)
+
+    Rackelwild (
+    Lyrurus tetrix x Tetrao urogallus)
+
+    Haselwild (
+    Tetrastes bonasia L.)
+
+    Alpenschneehuhn (
+    Lagopus mutus MONTIN)
+
+    Hohltaube (
+    Columba oenas L.)
+
+    Kurzschnabelgans (
+    Anser brachyrhynchos BAILLON)
+
+    Weißwangengans (
+    Branta leucopsis BECHSTEIN)
+
+    Löffelente (
+    Anas clypeata L.)
+
+    Schnatterente (
+    Anas strepera L.)
+
+    Kolbenente (
+    Netta rufina PALLAS)
+
+    Schellente (
+    Bucephala clangula L.)
+
+    Brandente (
+    Tadorna tadorna L.)
+
+    Eisente (
+    Clangula hyemalis L.)
+
+    Eiderente (
+    Somateria mollissima L.)
+
+    Mittelsäger (
+    Mergus serrator L.)
+
+    Gänsesäger (
+    Mergus merganser L.)
+
+    Zwergsäger (
+    Mergus albellus L.)
+
+    Schwarzkopfmöwe (
+    Larus melanocephalus TEMMINCK)
+
+    Zwergmöwe (
+    Larus minutus PALLAS)
+
+    Dreizehenmöwe (
+    Rissa tridactyla L.)
+
+    Haubentaucher (
+    Podiceps cristatus L.)
+
+    Graureiher (
+    Ardea cinerea L.)
+
+    Kolkrabe (
+    Corvus corax L.)
+
+
+
+
+(zu § 4 Abs. 1)
+
+## Anlage 6 Aufnahme- und Auslieferungsbuch
 
 
 *    *   Lfd. Nr.

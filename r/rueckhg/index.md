@@ -2,7 +2,7 @@
 Title: Rückkehrhilfegesetz
 jurabk: RückHG
 layout: default
-origslug: r_ckhg
+origslug: rueckhg
 slug: rueckhg
 
 ---

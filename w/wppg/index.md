@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 1698
 
 Zuletzt geändert durch
-:   Art. 1 G v. 26.6.2012 I 1375
+:   Art. 1 G v. 10.7.2018 I 1102
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/71/EG des
 Europäischen Parlaments und des Rates vom 4. November 2003 betreffend
@@ -40,11 +40,8 @@ werden sollen.
 
 (2) Dieses Gesetz findet keine Anwendung auf
 
-1.  Anteile oder Aktien, die von einer Kapitalanlagegesellschaft,
-    Investmentaktiengesellschaft oder ausländischen Investmentgesellschaft
-    im Sinne des § 2 Abs. 9 des Investmentgesetzes ausgegeben werden und
-    bei denen die Anteilinhaber oder Aktionäre ein Recht auf Rückgabe der
-    Anteile oder Aktien haben;
+1.  Anteile oder Aktien von offenen Investmentvermögen im Sinne des § 1
+    Absatz 4 des Kapitalanlagegesetzbuchs;
 
 
 2.  Nichtdividendenwerte, die von einem Staat des Europäischen
@@ -60,16 +57,8 @@ werden sollen.
     solchen Staates garantiert werden;
 
 
-4.  Wertpapiere, die von Einlagenkreditinstituten oder von Emittenten,
-    deren Aktien bereits zum Handel an einem organisierten Markt
-    zugelassen sind, ausgegeben werden; dies gilt nur, wenn der
-    Verkaufspreis für alle im Europäischen Wirtschaftsraum angebotenen
-    Wertpapiere weniger als 5 Millionen Euro beträgt, wobei diese
-    Obergrenze über einen Zeitraum von zwölf Monaten zu berechnen ist;
-
-
-5.  Nichtdividendenwerte, die von Einlagenkreditinstituten dauernd oder
-    wiederholt für einen Verkaufspreis aller im Europäischen
+4.  Nichtdividendenwerte, die von CRR-Kreditinstituten dauernd oder
+    wiederholt für einen Gesamtgegenwert aller im Europäischen
     Wirtschaftsraum angebotenen Wertpapiere von weniger als 75 Millionen
     Euro ausgegeben werden, wobei diese Obergrenze über einen Zeitraum von
     zwölf Monaten zu berechnen ist, sofern diese Wertpapiere
@@ -86,10 +75,11 @@ werden sollen.
 
 
 
-(3) Unbeschadet des Absatzes 2 Nr. 2 bis 5 sind Emittenten, Anbieter
-oder Zulassungsantragsteller berechtigt, einen Prospekt im Sinne
-dieses Gesetzes zu erstellen, wenn Wertpapiere öffentlich angeboten
-oder zum Handel an einem organisierten Markt zugelassen werden.
+(3) Unbeschadet des Absatzes 2 Nummer 2 bis 4 sind Emittenten,
+Anbieter oder Zulassungsantragsteller berechtigt, einen Prospekt im
+Sinne dieses Gesetzes zu erstellen, wenn Wertpapiere öffentlich
+angeboten oder zum Handel an einem organisierten Markt zugelassen
+werden.
 
 
 ### § 2 Begriffsbestimmungen
@@ -156,11 +146,11 @@ Im Sinne dieses Gesetzes ist oder sind
 
     a)  Kunden und Unternehmen, die vorbehaltlich einer Einstufung als
         Privatkunde professionelle Kunden oder geeignete Gegenparteien im
-        Sinne des § 31a Absatz 2 oder 4 des Wertpapierhandelsgesetzes sind,
-        oder die gemäß § 31a Absatz 5 Satz 1 oder Absatz 7 des
-        Wertpapierhandelsgesetzes auf Antrag als solche eingestuft worden sind
-        oder gemäß § 31a Absatz 6 Satz 5 des Wertpapierhandelsgesetzes
-        weiterhin als professionelle Kunden behandelt werden,
+        Sinne des § 67 Absatz 2 oder 4 des Wertpapierhandelsgesetzes sind,
+        oder die gemäß § 67 Absatz 6 des Wertpapierhandelsgesetzes auf Antrag
+        als solche eingestuft worden sind oder gemäß § 67 Absatz 5 Satz 5 des
+        Wertpapierhandelsgesetzes weiterhin als professionelle Kunden
+        behandelt werden,
 
 
     b)  natürliche oder juristische Personen, die nach in anderen Staaten des
@@ -202,8 +192,8 @@ Im Sinne dieses Gesetzes ist oder sind
 7.  (weggefallen)
 
 
-8.  Einlagenkreditinstitute: Unternehmen im Sinne des § 1 Abs. 3d Satz 1
-    des Kreditwesengesetzes;
+8.  CRR-Kreditinstitute: Unternehmen im Sinne des § 1 Abs. 3d Satz 1 des
+    Kreditwesengesetzes;
 
 
 9.  Emittent: eine Person oder Gesellschaft, die Wertpapiere begibt oder
@@ -257,7 +247,10 @@ Im Sinne dieses Gesetzes ist oder sind
         dem der erste Antrag auf Zulassung zum Handel an einem organisierten
         Markt gestellt wird, vorbehaltlich einer späteren Wahl durch den
         Drittstaatemittenten, wenn der Herkunftsstaat nicht gemäß seiner Wahl
-        bestimmt wurde;
+        bestimmt wurde oder die Wertpapiere nicht mehr zum Handel an einem
+        organisierten Markt in dem Herkunftsmitgliedstaat, aber stattdessen in
+        einem anderen Staat des Europäischen Wirtschaftsraums zum Handel an
+        einem organisierten Markt zugelassen sind;
 
 
 
@@ -317,17 +310,24 @@ für ein Angebot von Wertpapieren,
     als 150 nicht qualifizierte Anleger richtet,
 
 
-3.  das sich nur an Anleger richtet, die Wertpapiere ab einem
-    Mindestbetrag von 100 000 Euro pro Anleger je Angebot erwerben können,
+3.  das sich an Anleger richtet, die Wertpapiere ab einem Mindestbetrag
+    von 100 000 Euro pro Anleger je Angebot erwerben können,
 
 
-4.  die eine Mindeststückelung von 100 000 Euro haben oder
+4.  die eine Mindeststückelung von 100 000 Euro haben,
 
 
-5.  sofern der Verkaufspreis für alle angebotenen Wertpapiere im
-    Europäischen Wirtschaftsraum weniger als 100 000 Euro beträgt, wobei
-    diese Obergrenze über einen Zeitraum von zwölf Monaten zu berechnen
-    ist.
+5.  die von CRR-Kreditinstituten oder von Emittenten, deren Aktien bereits
+    zum Handel an einem organisierten Markt zugelassen sind, ausgegeben
+    werden, wenn der Gesamtgegenwert für alle im Europäischen
+    Wirtschaftsraum angebotenen Wertpapiere weniger als 5 Millionen Euro
+    berechnet über einen Zeitraum von zwölf Monaten beträgt; § 1 Absatz 3
+    gilt entsprechend; oder
+
+
+6.  deren Gesamtgegenwert im Europäischen Wirtschaftsraum weniger als 8
+    Millionen Euro beträgt, wobei diese Obergrenze über einen Zeitraum von
+    zwölf Monaten zu berechnen ist.
 
 
 
@@ -351,7 +351,234 @@ Prospekt veröffentlichen, sofern sich aus § 4 Absatz 2 nichts anderes
 ergibt.
 
 
-### § 4 Ausnahmen von der Pflicht zur Veröffentlichung eines Prospekts im Hinblick auf bestimmte Wertpapiere
+### § 3a Wertpapier-Informationsblatt; Verordnungsermächtigung
+
+(1) Ein Anbieter, der die Ausnahme nach § 3 Absatz 2 Satz 1 Nummer 6
+in Anspruch nimmt, darf Wertpapiere mit einem Gesamtgegenwert im
+Europäischen Wirtschaftsraum von 100 000 Euro oder mehr, wobei diese
+Untergrenze über einen Zeitraum von zwölf Monaten zu berechnen ist, im
+Inland erst dann öffentlich anbieten, wenn er zuvor ein Wertpapier-
+Informationsblatt nach den Absätzen 3 bis 5 und 6 Satz 2 sowie Absatz
+7 Satz 4 erstellt, bei der Bundesanstalt hinterlegt und veröffentlicht
+hat. Dies gilt nicht, wenn für die Wertpapiere ein
+Basisinformationsblatt nach der Verordnung (EU) Nr. 1286/2014 des
+Europäischen Parlaments und des Rates vom 26. November 2014 über
+Basisinformationsblätter für verpackte Anlageprodukte für Kleinanleger
+und Versicherungsanlageprodukte (PRIIP) (ABl. L 352 vom 9.12.2014, S.
+1; L 358 vom 13.12.2014, S. 50), die durch die Verordnung (EU)
+2016/2340 (ABl. L 354 vom 23.12.2016, S. 35) geändert worden ist,
+veröffentlicht werden muss oder wesentliche Anlegerinformationen nach
+§ 301 des Kapitalanlagegesetzbuches veröffentlicht werden müssen.
+
+(2) Das Wertpapier-Informationsblatt darf erst veröffentlicht werden,
+wenn die Bundesanstalt die Veröffentlichung gestattet. Die Gestattung
+ist zu erteilen, wenn
+
+1.  das Wertpapier-Informationsblatt vollständig alle Angaben, Hinweise
+    und Anlagen enthält, die nach den folgenden Absätzen, auch in
+    Verbindung mit der nach Absatz 9 zu erlassenden Rechtsverordnung,
+    erforderlich sind, und diese Angaben, Hinweise und Anlagen in der
+    vorgeschriebenen Reihenfolge erfolgen und
+
+
+2.  das Feststellungsdatum des letzten Jahresabschlusses des Emittenten
+    und im Falle eines Garantiegebers zusätzlich das Feststellungsdatum
+    des letzten Jahresabschlusses des Garantiegebers zum Zeitpunkt der
+    Gestattung nicht länger als 18 Monate zurückliegt.
+
+
+
+Die Bundesanstalt hat dem Anbieter innerhalb von zehn Werktagen nach
+Eingang des Wertpapier-Informationsblatts mitzuteilen, ob sie die
+Veröffentlichung gestattet. Gelangt die Bundesanstalt zu der
+Auffassung, dass das ihr zur Gestattung vorgelegte Wertpapier-
+Informationsblatt unvollständig ist oder die erforderlichen Angaben,
+Hinweise und Anlagen nicht in der vorgeschriebenen Reihenfolge
+erfolgen, beginnt die Frist nach Satz 3 erst ab dem Zeitpunkt zu
+laufen, zu welchem die erforderlichen Angaben, Hinweise und Anlagen
+vollständig und in der vorgeschriebenen Reihenfolge eingehen. Die
+Bundesanstalt soll den Anbieter innerhalb von fünf Werktagen nach
+Eingang des Wertpapier-Informationsblatts unterrichten, wenn sie nach
+Satz 4 weitere Informationen für erforderlich hält. Dies gilt auch,
+wenn sie zu dem Ergebnis kommt, dass die erforderlichen Angaben,
+Hinweise und Anlagen nicht in der vorgeschriebenen Reihenfolge erfolgt
+sind.
+
+(3) Das Wertpapier-Informationsblatt darf nicht mehr als drei
+DIN-A4-Seiten umfassen. Es muss mindestens die wesentlichen
+Informationen über die Wertpapiere, den Anbieter, den Emittenten und
+etwaige Garantiegeber in übersichtlicher und leicht verständlicher
+Weise in der nachfolgenden Reihenfolge enthalten, so dass das Publikum
+
+1.  die Art, die genaue Bezeichnung und die internationale Wertpapier-
+    Identifikationsnummer (ISIN) des Wertpapiers,
+
+
+2.  die Funktionsweise des Wertpapiers einschließlich der mit dem
+    Wertpapier verbundenen Rechte,
+
+
+3.  Angaben zur Identität des Anbieters, des Emittenten einschließlich
+    seiner Geschäftstätigkeit und eines etwaigen Garantiegebers,
+
+
+4.  die mit dem Wertpapier, dem Emittenten und einem etwaigen
+    Garantiegeber verbundenen Risiken,
+
+
+5.  den auf Grundlage des letzten aufgestellten Jahresabschlusses
+    berechneten Verschuldungsgrad des Emittenten und eines etwaigen
+    Garantiegebers,
+
+
+6.  die Aussichten für die Kapitalrückzahlung und Erträge unter
+    verschiedenen Marktbedingungen,
+
+
+7.  die mit dem Wertpapier verbundenen Kosten und Provisionen,
+
+
+8.  die Angebotskonditionen einschließlich des Emissionsvolumens sowie
+
+
+9.  die geplante Verwendung des voraussichtlichen Nettoemissionserlöses
+
+
+
+einschätzen und bestmöglich mit den Merkmalen anderer Wertpapiere
+vergleichen kann.
+
+(4) Das Wertpapier-Informationsblatt muss den drucktechnisch
+hervorgehobenen Warnhinweis „Der Erwerb dieses Wertpapiers ist mit
+erheblichen Risiken verbunden und kann zum vollständigen Verlust des
+eingesetzten Vermögens führen. “ auf der ersten Seite, unmittelbar
+unterhalb der ersten Überschrift enthalten.
+
+(5) Das Wertpapier-Informationsblatt muss im Anschluss an die Angaben
+nach Absatz 3 dieser Vorschrift zudem in folgender Reihenfolge
+enthalten:
+
+1.  einen Hinweis darauf, dass die inhaltliche Richtigkeit des Wertpapier-
+    Informationsblatts nicht der Prüfung durch die Bundesanstalt
+    unterliegt,
+
+
+2.  einen Hinweis darauf, dass für das Wertpapier kein von der
+    Bundesanstalt gebilligter Wertpapierprospekt hinterlegt wurde und der
+    Anleger weitergehende Informationen unmittelbar vom Anbieter oder
+    Emittenten des Wertpapiers erhält,
+
+
+3.  einen Hinweis auf den letzten Jahresabschluss des Emittenten und im
+    Falle eines Garantiegebers zusätzlich auf den letzten Jahresabschluss
+    des Garantiegebers sowie darauf, wo und wie diese Jahresabschlüsse
+    erhältlich sind,
+
+
+4.  einen Hinweis darauf, dass Ansprüche auf der Grundlage einer in dem
+    Wertpapier-Informationsblatt enthaltenen Angabe nur dann bestehen
+    können, wenn die Angabe irreführend oder unrichtig ist oder der
+    Warnhinweis des Absatzes 4 nicht enthalten ist und wenn das
+    Erwerbsgeschäft nach Veröffentlichung des Wertpapier-
+    Informationsblatts und während der Dauer des öffentlichen Angebots,
+    spätestens jedoch innerhalb von sechs Monaten nach dem ersten
+    öffentlichen Angebot der Wertpapiere im Inland, abgeschlossen wurde.
+
+
+
+
+(6) Während der Dauer des öffentlichen Angebots ist der letzte
+Jahresabschluss des Emittenten den Anlegern auf Anforderung kostenlos
+in Textform zur Verfügung zu stellen. Ist der Emittent nach den
+handelsrechtlichen Vorschriften nicht verpflichtet, einen
+Jahresabschluss offenzulegen, ist der Jahresabschluss dem Wertpapier-
+Informationsblatt als Anlage beizufügen und mit diesem gemäß Absatz 1
+Satz 1 zu hinterlegen und zu veröffentlichen. Im Falle eines
+Garantiegebers gelten die Sätze 1 und 2 entsprechend.
+
+(7) Der Anleger muss die in Absatz 3 dieser Vorschrift aufgezählten
+Informationen verstehen können, ohne hierfür zusätzliche Dokumente
+heranziehen zu müssen. Die Angaben in dem Wertpapier-Informationsblatt
+sind kurz zu halten und in allgemein verständlicher Sprache
+abzufassen. Sie müssen redlich und eindeutig und dürfen nicht
+irreführend sein. Das Wertpapier-Informationsblatt darf sich jeweils
+nur auf ein bestimmtes Wertpapier beziehen und keine werbenden oder
+sonstigen Informationen enthalten, die nicht dem in Absatz 3 genannten
+Zweck dienen.
+
+(8) Tritt nach der Gestattung und vor dem endgültigen Schluss des
+öffentlichen Angebots ein wichtiger neuer Umstand ein oder wird eine
+wesentliche Unrichtigkeit in Bezug auf die im Wertpapier-
+Informationsblatt enthaltenen Angaben festgestellt, die die
+Beurteilung des Wertpapiers beeinflussen könnten, so sind die in dem
+Wertpapier-Informationsblatt enthaltenen Angaben während der Dauer des
+öffentlichen Angebots unverzüglich zu aktualisieren und ist der
+Bundesanstalt die aktualisierte Fassung des Wertpapier-
+Informationsblatts zum Zweck der Hinterlegung unverzüglich zu
+übermitteln. Das Datum der letzten Aktualisierung sowie die Zahl der
+seit der erstmaligen Erstellung des Wertpapier-Informationsblatts
+vorgenommenen Aktualisierungen sind im Wertpapier-Informationsblatt zu
+nennen. Das aktualisierte Wertpapier-Informationsblatt ist
+unverzüglich gemäß § 14 Absatz 2 zu veröffentlichen. § 3b Absatz 1 und
+3 Satz 2 gilt entsprechend.
+
+(9) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, im Einvernehmen mit
+dem Bundesministerium der Justiz und für Verbraucherschutz nähere
+Bestimmungen zu Inhalt und Aufbau der Wertpapier-Informationsblätter
+erlassen. Das Bundesministerium der Finanzen kann die Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt übertragen.
+
+
+### § 3b Übermittlung des Wertpapier-Informationsblatts an die Bundesanstalt; Frist und Form der Veröffentlichung
+
+(1) Das Wertpapier-Informationsblatt ist der Bundesanstalt in
+elektronischer Form und in elektronisch durchsuchbarem Format über ihr
+Melde- und Veröffentlichungssystem zu übermitteln.
+
+(2) Hinsichtlich der Aufbewahrung des Wertpapier-Informationsblatts
+und der aktualisierten Fassungen gilt § 14 Absatz 6 entsprechend.
+
+(3) Das hinterlegte Wertpapier-Informationsblatt muss mindestens einen
+Werktag vor dem öffentlichen Angebot entsprechend § 14 Absatz 2
+veröffentlicht werden. Der Anbieter hat sicherzustellen, dass das
+Wertpapier-Informationsblatt ohne Zugangsbeschränkung für jedermann
+zugänglich ist.
+
+
+### § 3c Einzelanlageschwellen für nicht qualifizierte Anleger
+
+Unbeschadet der Vorgaben in den §§ 3a und 3b ist auf ein Angebot von
+Wertpapieren, deren Gesamtgegenwert im Europäischen Wirtschaftsraum 1
+Million Euro oder mehr beträgt, wobei diese Untergrenze über einen
+Zeitraum von zwölf Monaten zu berechnen ist, die Befreiung von der
+Pflicht zur Veröffentlichung eines Prospekts nach § 3 Absatz 2 Satz 1
+Nummer 6 nur anwendbar, wenn die Wertpapiere ausschließlich im Wege
+der Anlageberatung oder Anlagevermittlung über ein
+Wertpapierdienstleistungsunternehmen vermittelt werden, das rechtlich
+verpflichtet ist, zu prüfen, ob der Gesamtbetrag der Wertpapiere, die
+von einem nicht qualifizierten Anleger erworben werden können,
+folgende Beträge nicht übersteigt:
+
+1.  1 000 Euro,
+
+
+2.  10 000 Euro, sofern der jeweilige nicht qualifizierte Anleger nach
+    einer von ihm zu erteilenden Selbstauskunft über ein frei verfügbares
+    Vermögen in Form von Bankguthaben und Finanzinstrumenten von
+    mindestens 100 000 Euro verfügt, oder
+
+
+3.  den zweifachen Betrag des durchschnittlichen monatlichen
+    Nettoeinkommens des jeweiligen nicht qualifizierten Anlegers nach
+    einer von ihm zu erteilenden Selbstauskunft, höchstens jedoch 10 000
+    Euro.
+
+
+
+
+
+### § 4 Ausnahmen von der Pflicht zur Veröffentlichung eines Prospekts im Hinblick auf bestimmte Wertpapiere; Verordnungsermächtigung
 
 (1) Die Pflicht zur Veröffentlichung eines Prospekts gilt nicht für
 öffentliche Angebote folgender Arten von Wertpapieren:
@@ -407,33 +634,35 @@ ergibt.
 
 
 
-(2) Die Pflicht zur Veröffentlichung eines Prospekts gilt nicht für
-die Zulassung folgender Arten von Wertpapieren zum Handel an einem
-organisierten Markt:
+(2) Hinsichtlich der Arten von Wertpapieren, für deren Zulassung zum
+Handel an einem organisierten Markt keine Pflicht zur Veröffentlichung
+eines Prospekts besteht, wird auf die Aufzählung in Artikel 1 Absatz 5
+Unterabsatz 1 Buchstabe a bis c und Unterabsatz 2 der Verordnung (EU)
+2017/1129 des Europäischen Parlaments und des Rates vom 14. Juni 2017
+über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder
+bei deren Zulassung zum Handel an einem geregelten Markt zu
+veröffentlichen ist und zur Aufhebung der Richtlinie 2003/71/EG (ABl.
+L 168 vom 30.6.2017, S. 12) verwiesen. Daneben gilt die Ausnahme nach
+Satz 1 noch für:
 
-1.  Aktien, die über einen Zeitraum von zwölf Monaten weniger als 10
-    Prozent der Zahl der Aktien derselben Gattung ausmachen, die bereits
-    zum Handel an demselben organisierten Markt zugelassen sind;
-
-
-2.  Aktien, die im Austausch für bereits an demselben organisierten Markt
+1.  Aktien, die im Austausch für bereits an demselben organisierten Markt
     zum Handel zugelassene Aktien derselben Gattung ausgegeben werden,
     ohne dass mit der Ausgabe dieser neuen Aktien eine Kapitalerhöhung
     verbunden ist;
 
 
-3.  Wertpapiere, die anlässlich einer Übernahme im Wege eines
+2.  Wertpapiere, die anlässlich einer Übernahme im Wege eines
     Tauschangebots angeboten werden, sofern ein Dokument verfügbar ist,
     dessen Angaben denen des Prospekts gleichwertig sind;
 
 
-4.  Wertpapiere, die anlässlich einer Verschmelzung oder Spaltung
+3.  Wertpapiere, die anlässlich einer Verschmelzung oder Spaltung
     angeboten oder zugeteilt werden oder zugeteilt werden sollen, sofern
     ein Dokument verfügbar ist, dessen Angaben denen des Prospekts
     gleichwertig sind;
 
 
-5.  Aktien, die nach einer Kapitalerhöhung aus Gesellschaftsmitteln den
+4.  Aktien, die nach einer Kapitalerhöhung aus Gesellschaftsmitteln den
     Inhabern an demselben organisierten Markt zum Handel zugelassener
     Aktien derselben Gattung angeboten oder zugeteilt werden oder
     zugeteilt werden sollen, sowie Dividenden in Form von Aktien derselben
@@ -443,7 +672,7 @@ organisierten Markt:
     dem die Gründe und Einzelheiten zu dem Angebot dargelegt werden;
 
 
-6.  Wertpapiere, die derzeitigen oder ehemaligen Mitgliedern von
+5.  Wertpapiere, die derzeitigen oder ehemaligen Mitgliedern von
     Geschäftsführungsorganen oder Arbeitnehmern von ihrem Arbeitgeber oder
     von einem verbundenen Unternehmen im Sinne des § 15 des Aktiengesetzes
     angeboten oder zugeteilt werden oder zugeteilt werden sollen, sofern
@@ -454,13 +683,7 @@ organisierten Markt:
     in dem die Gründe und Einzelheiten zu dem Angebot dargelegt werden;
 
 
-7.  Aktien, die nach der Ausübung von Umtausch- oder Bezugsrechten aus
-    anderen Wertpapieren ausgegeben werden, sofern es sich dabei um Aktien
-    derselben Gattung handelt wie die Aktien, die bereits zum Handel an
-    demselben organisierten Markt zugelassen sind;
-
-
-8.  Wertpapiere, die bereits zum Handel an einem anderen organisierten
+6.  Wertpapiere, die bereits zum Handel an einem anderen organisierten
     Markt zugelassen sind, sofern sie folgende Voraussetzungen erfüllen:
 
     a)  die Wertpapiere oder Wertpapiere derselben Gattung sind bereits länger
@@ -476,16 +699,18 @@ organisierten Markt:
         Koordinierung der Bedingungen für die Erstellung, die Kontrolle und
         die Verbreitung des Prospekts, der für die Zulassung von Wertpapieren
         zur amtlichen Notierung an einer Wertpapierbörse zu veröffentlichen
-        ist (ABl. EG Nr. L 100 S. 1) in der jeweils geltenden Fassung oder auf
-        Grund der Richtlinie 2001/34/EG des Europäischen Parlaments und des
-        Rates vom 28. Mai 2001 über die Zulassung von Wertpapieren zur
+        ist (ABl. L 100 vom 17.4.1980, S. 1) in der jeweils geltenden Fassung
+        oder auf Grund der Richtlinie 2001/34/EG des Europäischen Parlaments
+        und des Rates vom 28. Mai 2001 über die Zulassung von Wertpapieren zur
         amtlichen Börsennotierung und über die hinsichtlich dieser Wertpapiere
-        zu veröffentlichenden Informationen (ABl. EG Nr. L 184 S. 1) in der
-        jeweils geltenden Fassung erlassen worden sind; wurden die Wertpapiere
-        nach dem 31. Dezember 2003 erstmalig zum Handel an einem organisierten
+        zu veröffentlichenden Informationen (ABl. L 184 vom 6.7.2001, S. 1; L
+        217 vom 11.8.2001, S. 18), die zuletzt durch die Richtlinie 2005/1/EG
+        (ABl. L 79 vom 24.3.2005, S. 9) geändert worden ist, in der jeweils
+        geltenden Fassung erlassen worden sind; wurden die Wertpapiere nach
+        dem 31. Dezember 2003 erstmalig zum Handel an einem organisierten
         Markt zugelassen, muss die Zulassung zum Handel an dem anderen
         organisierten Markt mit der Billigung eines Prospekts einhergegangen
-        sein, der in einer in § 14 Abs. 2 genannten Art und Weise
+        sein, der in einer in § 14 Absatz 2 genannten Art und Weise
         veröffentlicht wurde,
 
 
@@ -507,7 +732,7 @@ organisierten Markt:
         Schlüsselinformationen gemäß § 5 Absatz 2a. Ferner ist in diesem
         Dokument anzugeben, wo der neueste Prospekt sowie Finanzinformationen,
         die vom Emittenten entsprechend den für ihn geltenden
-        Publizitätsvorschriften offen gelegt werden, erhältlich sind.
+        Publizitätsvorschriften offengelegt werden, erhältlich sind.
 
 
 
@@ -516,16 +741,17 @@ organisierten Markt:
 
 
 (3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, bestimmen, welche Voraussetzungen
-die Angaben in den in Absatz 1 Nr. 2 und 3 sowie Absatz 2 Nr. 3 und 4
-genannten Dokumenten im Einzelnen erfüllen müssen, um gleichwertig im
-Sinne des Absatzes 1 Nr. 2 oder 3 oder im Sinne des Absatzes 2 Nr. 3
-oder 4 zu sein. Dies kann auch in der Weise geschehen, dass
-Vorschriften des deutschen Rechts oder des Rechts anderer Staaten des
-Europäischen Wirtschaftsraums bezeichnet werden, bei deren Anwendung
-die Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+bestimmen, welche Voraussetzungen die Angaben in den in Absatz 1 Nr. 2
+und 3 sowie Absatz 2 Nr. 3 und 4 genannten Dokumenten im Einzelnen
+erfüllen müssen, um gleichwertig im Sinne des Absatzes 1 Nr. 2 oder 3
+oder im Sinne des Absatzes 2 Nr. 3 oder 4 zu sein. Dies kann auch in
+der Weise geschehen, dass Vorschriften des deutschen Rechts oder des
+Rechts anderer Staaten des Europäischen Wirtschaftsraums bezeichnet
+werden, bei deren Anwendung die Gleichwertigkeit gegeben ist. Das
+Bundesministerium der Finanzen kann die Ermächtigung durch
+Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -614,9 +840,9 @@ jeweiligen Angebots und der jeweiligen Wertpapiere:
 
 
 4.  diejenigen Personen, die die Verantwortung für die Zusammenfassung
-    einschließlich der Übersetzung hiervon übernommen haben oder von denen
-    der Erlass ausgeht, haftbar gemacht werden können, jedoch nur für den
-    Fall, dass die Zusammenfassung irreführend, unrichtig oder
+    einschließlich etwaiger Übersetzungen hiervon übernommen haben oder
+    von denen der Erlass ausgeht, haftbar gemacht werden können, jedoch
+    nur für den Fall, dass die Zusammenfassung irreführend, unrichtig oder
     widersprüchlich ist, wenn sie zusammen mit den anderen Teilen des
     Prospekts gelesen wird, oder sie, wenn sie zusammen mit den anderen
     Teilen des Prospekts gelesen wird, nicht alle erforderlichen
@@ -625,22 +851,23 @@ jeweiligen Angebots und der jeweiligen Wertpapiere:
 
 
 
-(3) Der Prospekt ist mit dem Datum seiner Erstellung zu versehen und
-vom Anbieter zu unterzeichnen. Sollen auf Grund des Prospekts
-Wertpapiere zum Handel an einem organisierten Markt zugelassen werden,
-ist der Prospekt vom Zulassungsantragsteller zu unterzeichnen.
+(3) Der Prospekt ist mit dem Datum seiner Erstellung zu versehen.
 
 (4) Der Prospekt muss Namen und Funktionen, bei juristischen Personen
 oder Gesellschaften die Firma und den Sitz der Personen oder
 Gesellschaften angeben, die für seinen Inhalt die Verantwortung
-übernehmen; er muss eine Erklärung dieser Personen oder Gesellschaften
+übernehmen. Er muss eine Erklärung dieser Personen oder Gesellschaften
 enthalten, dass ihres Wissens die Angaben richtig und keine
-wesentlichen Umstände ausgelassen sind. Im Falle des Absatzes 3 Satz 2
-hat stets auch das Kreditinstitut, Finanzdienstleistungsinstitut oder
-nach § 53 Abs. 1 Satz 1 oder 53b Abs. 1 Satz 1 des Kreditwesengesetzes
-tätige Unternehmen, mit dem der Emittent zusammen die Zulassung der
-Wertpapiere beantragt, die Verantwortung zu übernehmen und muss der
-Prospekt dessen Erklärung nach Satz 1 enthalten.
+wesentlichen Umstände ausgelassen sind. Die Verantwortung nach Satz 1
+hat insbesondere der Anbieter zu übernehmen; der Prospekt muss dessen
+Erklärung nach Satz 2 enthalten. Sollen auf Grund des Prospekts
+Wertpapiere zum Handel an einem organisierten Markt zugelassen werden,
+hat stets auch das Kreditinstitut, das Finanzdienstleistungsinstitut
+oder das nach § 53 Absatz 1 Satz 1 oder § 53b Absatz 1 Satz 1 des
+Kreditwesengesetzes tätige Unternehmen, mit dem der Emittent zusammen
+die Zulassung der Wertpapiere beantragt, die Verantwortung nach Satz 1
+zu übernehmen und muss der Prospekt dessen Erklärung nach Satz 2
+enthalten.
 
 
 ### § 6 Basisprospekt
@@ -656,8 +883,8 @@ endgültigen Bedingungen des Angebots:
     eines Angebotsprogramms ausgegeben werden;
 
 
-2.  Nichtdividendenwerte, die dauernd oder wiederholt von
-    Einlagenkreditinstituten begeben werden,
+2.  Nichtdividendenwerte, die dauernd oder wiederholt von CRR-
+    Kreditinstituten begeben werden,
 
     a)  sofern die Wertpapiere durch in ein Deckungsregister eingetragene
         Vermögensgegenstände gedeckt werden, die eine ausreichende Deckung der
@@ -666,7 +893,7 @@ endgültigen Bedingungen des Angebots:
 
 
     b)  sofern die Vermögensgegenstände im Sinne des Buchstaben a im Falle der
-        Insolvenz des Einlagenkreditinstituts unbeschadet der auf Grund der
+        Insolvenz des CRR-Kreditinstituts unbeschadet der auf Grund der
         Richtlinie 2001/24/EG des Europäischen Parlaments und des Rates vom 4.
         April 2001 über die Sanierung und Liquidation von Kreditinstituten
         (ABl. EG Nr. L 125 S. 15) erlassenen Vorschriften vorrangig zur
@@ -684,21 +911,19 @@ aktualisierte Angaben zum Emittenten und zu den Wertpapieren, die
 zugelassen werden sollen, nach Maßgabe des § 16 zu ergänzen.
 
 (3) Werden die endgültigen Bedingungen des Angebots weder in den
-Basisprospekt noch in einen Nachtrag nach § 16 aufgenommen, hat der
-Anbieter oder Zulassungsantragsteller sie spätestens am Tag des
-öffentlichen Angebots in der in § 14 genannten Art und Weise zu
-veröffentlichen. Der Anbieter oder Zulassungsantragsteller hat die
-endgültigen Bedingungen des Angebots zudem spätestens am Tag der
-Veröffentlichung bei der Bundesanstalt zu hinterlegen und der
-zuständigen Behörde des oder der Aufnahmestaaten zu übermitteln. Die
-endgültigen Angebotsbedingungen können anstatt in Papierform auch
+Basisprospekt noch in einen Nachtrag nach § 16 aufgenommen, so sind
+sie unverzüglich bei Unterbreitung eines öffentlichen Angebots und,
+sofern möglich, vor dem Beginn des öffentlichen Angebots oder der
+Zulassung zum Handel vom Anbieter oder Zulassungsantragsteller in der
+in § 14 genannten Art und Weise zu veröffentlichen sowie bei der
+Bundesanstalt zu hinterlegen. § 8 Absatz 1 Satz 1 und 2 ist
+entsprechend anzuwenden. Die endgültigen Bedingungen des Angebots sind
 ausschließlich elektronisch über das Melde- und
-Veröffentlichungssystem der Bundesanstalt hinterlegt werden. Kann eine
-Veröffentlichung, Hinterlegung oder Übermittlung aus praktischen
-Gründen nicht fristgerecht durchgeführt werden, ist sie unverzüglich
-nachzuholen. § 8 Abs. 1 Satz 1 und 2 ist in den in Satz 1 genannten
-Fällen entsprechend anzuwenden. Die endgültigen Bedingungen des
-Angebots bedürfen nicht der Unterzeichnung.
+Veröffentlichungssystem der Bundesanstalt zu hinterlegen und bedürfen
+nicht der Unterzeichnung. Die Bundesanstalt übermittelt die
+endgültigen Bedingungen des Angebots der zuständigen Behörde des oder
+der Aufnahmestaaten sowie der Europäischen Wertpapier- und
+Marktaufsichtsbehörde.
 
 
 ### § 7 Mindestangaben
@@ -729,7 +954,7 @@ Emissionspreises und des Emissionsvolumens zu widerrufen. Der Widerruf
 muss keine Begründung enthalten und ist in Textform gegenüber der im
 Prospekt als Empfänger des Widerrufs bezeichneten Person zu erklären;
 zur Fristwahrung genügt die rechtzeitige Absendung. Auf die
-Rechtsfolgen des Widerrufs ist § 357 des Bürgerlichen Gesetzbuchs
+Rechtsfolgen des Widerrufs ist § 357a des Bürgerlichen Gesetzbuchs
 entsprechend anzuwenden. Der Anbieter oder Zulassungsantragsteller
 muss den endgültigen Emissionspreis und das Emissionsvolumen
 unverzüglich nach deren Festlegung in einer nach § 14 Abs. 2
@@ -790,12 +1015,7 @@ organisierten Markt gültig, sofern er um die nach § 16 erforderlichen
 Nachträge ergänzt wird.
 
 (2) Im Falle eines Angebotsprogramms ist der Basisprospekt nach seiner
-Billigung zwölf Monate lang gültig. Werden während des
-Gültigkeitszeitraums eines Basisprospekts endgültige Bedingungen für
-ein Angebot hinterlegt, verlängert sich der Gültigkeitszeitraum des
-Basisprospekts für dieses öffentliche Angebot bis zu dessen Ablauf,
-höchstens jedoch um weitere zwölf Monate ab Hinterlegung der
-endgültigen Bedingungen bei der Bundesanstalt.
+Billigung zwölf Monate lang gültig.
 
 (3) Bei Nichtdividendenwerten im Sinne des § 6 Abs. 1 Nr. 2 ist der
 Prospekt gültig, bis keines der betroffenen Wertpapiere mehr dauernd
@@ -826,15 +1046,15 @@ mehrere zuvor oder gleichzeitig veröffentlichte oder der
     hinterlegt wurden, oder
 
 
-2.  deren Veröffentlichung der Bundesanstalt nach § 2b Absatz 1, § 15
-    Absatz 5, § 15a Absatz 4, § 26 Absatz 2, den §§ 26a, 29a Absatz 2, §
-    30e Absatz 1, § 30f Absatz 2 des Wertpapierhandelsgesetzes, jeweils
-    auch in Verbindung mit der Wertpapierhandelsanzeige- und
-    Insiderverzeichnisverordnung, mitgeteilt worden ist, oder
+2.  deren Veröffentlichung der Bundesanstalt nach § 4 Absatz 1, § 26
+    Absatz 1 oder Absatz 2, § 40 Absatz 2, den §§ 41, 46 Absatz 2, § 50
+    Absatz 1, § 51 Absatz 2 des Wertpapierhandelsgesetzes, jeweils auch in
+    Verbindung mit der Wertpapierhandelsanzeige- und
+    Insiderverzeichnisverordnung, mitgeteilt worden ist oder
 
 
-3.  deren öffentliches Zurverfügungstellen der Bundesanstalt nach § 37v
-    Absatz 1, § 37w Absatz 1, § 37x Absatz 1, § 37y oder § 37z des
+3.  deren öffentliches Zurverfügungstellen der Bundesanstalt nach § 114
+    Absatz 1, § 115 Absatz 1, § 116 Absatz 2, § 117 oder § 118 des
     Wertpapierhandelsgesetzes, jeweils auch in Verbindung mit der
     Wertpapierhandelsanzeige- und Insiderverzeichnisverordnung, mitgeteilt
     worden ist.
@@ -934,9 +1154,8 @@ Eingang des Prospekts unterrichten.
 Internetseite für jeweils zwölf Monate zugänglich.
 
 (5) Der zu billigende Prospekt einschließlich der Übersetzung der
-Zusammenfassung ist der Bundesanstalt sowohl in Papierform als auch
-elektronisch über das Melde- und Veröffentlichungssystem der
-Bundesanstalt oder auf einem Datenträger zu übermitteln.
+Zusammenfassung ist der Bundesanstalt elektronisch über das Melde- und
+Veröffentlichungssystem der Bundesanstalt zu übermitteln.
 
 
 ### § 14 Hinterlegung und Veröffentlichung des Prospekts
@@ -1048,23 +1267,29 @@ Wertpapieren oder auf eine Zulassung zum Handel an einem organisierten
 Markt bezieht, muss nach Maßgabe der Absätze 2 bis 5 erfolgen. Die
 Absätze 2 bis 4 sind nur anzuwenden, wenn das öffentliche Angebot von
 Wertpapieren oder die Zulassung von Wertpapieren zum Handel an einem
-organisierten Markt prospektpflichtig ist.
+organisierten Markt prospektpflichtig oder für das öffentliche Angebot
+von Wertpapieren ein Wertpapier-Informationsblatt zu veröffentlichen
+ist.
 
 (2) In allen Werbeanzeigen ist darauf hinzuweisen, dass ein Prospekt
+oder in den Fällen des § 3a ein Wertpapier-Informationsblatt
 veröffentlicht wurde oder zur Veröffentlichung ansteht und wo die
-Anleger ihn erhalten können.
+Anleger den Prospekt oder das Wertpapier-Informationsblatt erhalten
+können.
 
 (3) Werbeanzeigen müssen als solche klar erkennbar sein. Die darin
 enthaltenen Angaben dürfen nicht unrichtig oder irreführend sein. Die
 Angaben dürfen darüber hinaus nicht im Widerspruch zu den Angaben
-stehen, die der Prospekt enthält oder die im Prospekt enthalten sein
-müssen, falls dieser erst zu einem späteren Zeitpunkt veröffentlicht
-wird.
+stehen, die der Prospekt oder das Wertpapier-Informationsblatt enthält
+oder die im Prospekt oder im Wertpapier-Informationsblatt enthalten
+sein müssen, falls die Veröffentlichung erst zu einem späteren
+Zeitpunkt erfolgt.
 
 (4) Alle über das öffentliche Angebot oder die Zulassung zum Handel an
 einem organisierten Markt verbreiteten Informationen, auch wenn sie
-nicht zu Werbezwecken dienen, müssen mit den im Prospekt enthaltenen
-Angaben übereinstimmen.
+nicht zu Werbezwecken dienen, müssen mit den im Prospekt oder im Fall
+öffentlicher Angebote nach § 3a dem Wertpapier-Informationsblatt
+enthaltenen Angaben übereinstimmen.
 
 (5) Besteht nach diesem Gesetz keine Prospektpflicht, muss der
 Anbieter wesentliche Informationen über den Emittenten oder über ihn
@@ -1081,9 +1306,10 @@ gemäß § 16 Abs. 1 aufzunehmen.
 Absätze 2 bis 5, kann sie anordnen, dass die Werbung für jeweils
 höchstens zehn aufeinander folgende Tage auszusetzen ist. Die
 Bundesanstalt kann die Werbung mit Angaben untersagen, die geeignet
-sind, über den Umfang der Prüfung nach § 13 oder § 16 irrezuführen.
-Vor allgemeinen Maßnahmen nach Satz 2 sind die Spitzenverbände der
-betroffenen Wirtschaftskreise und des Verbraucherschutzes zu hören.
+sind, über den Umfang der Prüfung nach den §§ 3a, 13 oder 16
+irrezuführen. Vor allgemeinen Maßnahmen nach Satz 2 sind die
+Spitzenverbände der betroffenen Wirtschaftskreise und des
+Verbraucherschutzes zu hören.
 
 
 ### § 16 Nachtrag zum Prospekt; Widerrufsrecht des Anlegers
@@ -1203,16 +1429,22 @@ mindestens zwölf Monate zugänglich ist.
 ### § 19 Sprachenregelung
 
 (1) Werden Wertpapiere, für die der Herkunftsstaat des Emittenten die
-Bundesrepublik Deutschland ist, im Inland öffentlich angeboten oder
-wird im Inland die Zulassung zum Handel an einem organisierten Markt
-beantragt und nicht auch in einem anderen Staat oder mehreren anderen
-Staaten des Europäischen Wirtschaftsraums, ist der Prospekt in
-deutscher Sprache zu erstellen. Die Bundesanstalt kann die Erstellung
-eines Prospekts in einer in internationalen Finanzkreisen
-gebräuchlichen Sprache gestatten, sofern der Prospekt auch eine
-Übersetzung der Zusammenfassung in die deutsche Sprache enthält und im
-Einzelfall unter Berücksichtigung der Art der Wertpapiere eine
-ausreichende Information des Publikums gewährleistet erscheint.
+Bundesrepublik Deutschland ist, im Inland öffentlich angeboten und
+nicht auch in einem anderen Staat oder mehreren anderen Staaten des
+Europäischen Wirtschaftsraums, ist der Prospekt in deutscher Sprache
+zu erstellen. Die Bundesanstalt kann die Erstellung eines Prospekts in
+einer in internationalen Finanzkreisen gebräuchlichen Sprache
+gestatten, sofern der Prospekt auch eine Übersetzung der
+Zusammenfassung in die deutsche Sprache enthält und eine ausreichende
+Information des Publikums gewährleistet erscheint.
+
+(1a) Wird für Wertpapiere, für die der Herkunftsstaat des Emittenten
+die Bundesrepublik Deutschland ist, im Inland ausschließlich die
+Zulassung zum Handel an einem organisierten Markt beantragt, ist der
+Prospekt in deutscher oder in einer in internationalen Finanzkreisen
+gebräuchlichen Sprache zu erstellen. Ist der Prospekt nicht in
+deutscher Sprache erstellt, muss er auch eine Übersetzung der
+Zusammenfassung in die deutsche Sprache enthalten.
 
 (2) Werden Wertpapiere, für die der Herkunftsstaat des Emittenten die
 Bundesrepublik Deutschland ist, nicht im Inland öffentlich angeboten
@@ -1281,17 +1513,17 @@ organisierten Markt billigen, wenn
 (2) Die §§ 17, 18 und 19 sind entsprechend anzuwenden.
 
 (3) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, bestimmen, unter welchen
-Voraussetzungen die Informationspflichten gleichwertig im Sinne des
-Absatzes 1 Nr. 2 sind. Dies kann auch in der Weise geschehen, dass
-Vorschriften bezeichnet werden, bei deren Anwendung die
-Gleichwertigkeit gegeben ist. Das Bundesministerium der Finanzen kann
-die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
-Finanzdienstleistungsaufsicht übertragen.
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+bestimmen, unter welchen Voraussetzungen die Informationspflichten
+gleichwertig im Sinne des Absatzes 1 Nr. 2 sind. Dies kann auch in der
+Weise geschehen, dass Vorschriften bezeichnet werden, bei deren
+Anwendung die Gleichwertigkeit gegeben ist. Das Bundesministerium der
+Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
+Bundesanstalt für Finanzdienstleistungsaufsicht übertragen.
 
 
-## Abschnitt 6 - Prospekthaftung
+## Abschnitt 6 - Prospekthaftung und Haftung bei Wertpapier-Informationsblättern
 
 
 
@@ -1364,7 +1596,36 @@ entsprechend anzuwenden mit der Maßgabe, dass
 
 
 
-### § 23 Haftungsausschluss
+### § 22a Haftung bei fehlerhaftem Wertpapier-Informationsblatt
+
+(1) Sind in einem veröffentlichten Wertpapier-Informationsblatt nach §
+3a Absatz 1 Satz 1 für die Beurteilung der Wertpapiere wesentliche
+Angaben unrichtig oder irreführend oder ist der Warnhinweis nach § 3a
+Absatz 4 nicht enthalten, kann der Erwerber dieser Wertpapiere von
+denjenigen, von denen der Erlass des Wertpapier-Informationsblatts
+ausgeht, und vom Anbieter als Gesamtschuldnern die Übernahme der
+Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den
+ersten Ausgabepreis der Wertpapiere nicht überschreitet, und der mit
+dem Erwerb verbundenen üblichen Kosten verlangen, sofern das
+Erwerbsgeschäft nach Veröffentlichung des Wertpapier-
+Informationsblatts und während der Dauer des öffentlichen Angebots,
+spätestens jedoch innerhalb von sechs Monaten nach dem ersten
+öffentlichen Angebot der Wertpapiere im Inland abgeschlossen wurde.
+
+(2) Ist der Erwerber nicht mehr Inhaber der Wertpapiere, so kann er
+die Zahlung des Unterschiedsbetrags zwischen dem Erwerbspreis, soweit
+dieser den ersten Ausgabepreis nicht überschreitet, und dem
+Veräußerungspreis der Wertpapiere sowie der mit dem Erwerb und der
+Veräußerung verbundenen üblichen Kosten verlangen.
+
+(3) Werden Wertpapiere eines Emittenten mit Sitz im Ausland auch im
+Ausland öffentlich angeboten, besteht ein Anspruch nach Absatz 1 oder
+Absatz 2 nur, sofern die Wertpapiere auf Grund eines im Inland
+abgeschlossenen Geschäfts oder einer ganz oder teilweise im Inland
+erbrachten Wertpapierdienstleistung erworben wurden.
+
+
+### § 23 Haftungsausschluss bei fehlerhaftem Prospekt
 
 (1) Nach den §§ 21 oder 22 kann nicht in Anspruch genommen werden, wer
 nachweist, dass er die Unrichtigkeit oder Unvollständigkeit der
@@ -1386,10 +1647,16 @@ auf grober Fahrlässigkeit beruht.
 
 
 4.  vor dem Abschluss des Erwerbsgeschäfts im Rahmen des Jahresabschlusses
-    oder Zwischenberichts des Emittenten, einer Veröffentlichung nach § 15
-    des Wertpapierhandelsgesetzes oder einer vergleichbaren Bekanntmachung
-    eine deutlich gestaltete Berichtigung der unrichtigen oder
-    unvollständigen Angaben im Inland veröffentlicht wurde oder
+    oder Zwischenberichts des Emittenten, einer Veröffentlichung nach
+    Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+    Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+    (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+    2003/6/EG des Europäischen Parlaments und des Rates und der
+    Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+    (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung oder
+    einer vergleichbaren Bekanntmachung eine deutlich gestaltete
+    Berichtigung der unrichtigen oder unvollständigen Angaben im Inland
+    veröffentlicht wurde oder
 
 
 5.  er sich ausschließlich auf Grund von Angaben in der Zusammenfassung
@@ -1399,6 +1666,49 @@ auf grober Fahrlässigkeit beruht.
     zusammen mit den anderen Teilen des Prospekts gelesen wird, nicht alle
     gemäß § 5 Absatz 2 Satz 1 in Verbindung mit Absatz 2a erforderlichen
     Schlüsselinformationen.
+
+
+
+
+
+### § 23a Haftungsausschluss bei fehlerhaftem Wertpapier-Informationsblatt
+
+(1) Nach § 22a kann nicht in Anspruch genommen werden, wer nachweist,
+dass er die Unrichtigkeit der Angaben des Wertpapier-
+Informationsblatts oder die Irreführung durch diese Angaben nicht
+gekannt hat und dass die Unkenntnis nicht auf grober Fahrlässigkeit
+beruht.
+
+(2) Ein Anspruch nach § 22a besteht nicht, sofern
+
+1.  die Wertpapiere nicht auf Grund des Wertpapier-Informationsblatts
+    erworben wurden,
+
+
+2.  der Sachverhalt, über den unrichtige oder irreführende Angaben im
+    Wertpapier-Informationsblatt enthalten sind, nicht zu einer Minderung
+    des Börsenpreises der Wertpapiere beigetragen hat,
+
+
+3.  der Erwerber die Unrichtigkeit der Angaben des Wertpapier-
+    Informationsblatts oder die Irreführung durch diese Angaben bei dem
+    Erwerb kannte oder
+
+
+4.  vor dem Abschluss des Erwerbsgeschäfts im Rahmen des Jahresabschlusses
+    oder Zwischenberichts des Emittenten, im Rahmen einer Veröffentlichung
+    nach Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+    Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+    (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+    2003/6/EG des Europäischen Parlaments und des Rates und der
+    Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+    (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom 21.10.2016, S. 320; L 306
+    vom 15.11.2016, S. 43; L 348 vom 21.12.2016, S. 83), die zuletzt durch
+    die Verordnung (EU) 2016/1033 (ABl. L 175 vom 30.6.2016, S. 1)
+    geändert worden ist, in der jeweils geltenden Fassung oder einer
+    vergleichbaren Bekanntmachung eine deutlich gestaltete Berichtigung
+    der unrichtigen oder irreführenden Angaben im Inland veröffentlicht
+    wurde.
 
 
 
@@ -1435,10 +1745,41 @@ Erwerber die Pflicht, einen Prospekt zu veröffentlichen, beim Erwerb
 kannte.
 
 
+### § 24a Haftung bei fehlendem Wertpapier-Informationsblatt
+
+(1) Ist ein Wertpapier-Informationsblatt entgegen § 3a Absatz 1 Satz 1
+nicht veröffentlicht worden, kann der Erwerber von Wertpapieren von
+dem Emittenten und dem Anbieter als Gesamtschuldnern die Übernahme der
+Wertpapiere gegen Erstattung des Erwerbspreises, soweit dieser den
+ersten Erwerbspreis nicht überschreitet, und der mit dem Erwerb
+verbundenen üblichen Kosten verlangen, sofern das Erwerbsgeschäft vor
+Veröffentlichung eines Wertpapier-Informationsblatts und während der
+Dauer des öffentlichen Angebots, spätestens jedoch innerhalb von sechs
+Monaten nach dem ersten öffentlichen Angebot der Wertpapiere im Inland
+abgeschlossen wurde.
+
+(2) Ist der Erwerber nicht mehr Inhaber der Wertpapiere, so kann er
+die Zahlung des Unterschiedsbetrags zwischen dem Erwerbspreis, soweit
+dieser den ersten Erwerbspreis nicht überschreitet, und dem
+Veräußerungspreis der Wertpapiere sowie der mit dem Erwerb und der
+Veräußerung verbundenen üblichen Kosten verlangen. Absatz 1 gilt
+entsprechend.
+
+(3) Werden Wertpapiere eines Emittenten mit Sitz im Ausland auch im
+Ausland öffentlich angeboten, besteht ein Anspruch nach Absatz 1 oder
+Absatz 2 nur, sofern die Wertpapiere auf Grund eines im Inland
+abgeschlossenen Geschäfts oder einer ganz oder teilweise im Inland
+erbrachten Wertpapierdienstleistung erworben wurden.
+
+(4) Der Anspruch nach den Absätzen 1 bis 3 besteht nicht, sofern der
+Erwerber die Pflicht, ein Wertpapier-Informationsblatt zu
+veröffentlichen, beim Erwerb kannte.
+
+
 ### § 25 Unwirksame Haftungsbeschränkung; sonstige Ansprüche
 
-(1) Eine Vereinbarung, durch die Ansprüche nach §§ 21, 23 oder 24 im
-Voraus ermäßigt oder erlassen werden, ist unwirksam.
+(1) Eine Vereinbarung, durch die Ansprüche nach den §§ 21, 22, 22a, 24
+oder 24a im Voraus ermäßigt oder erlassen werden, ist unwirksam.
 
 (2) Weitergehende Ansprüche, die nach den Vorschriften des
 bürgerlichen Rechts auf Grund von Verträgen oder unerlaubten
@@ -1476,6 +1817,55 @@ Unterlagen und die Überlassung von Kopien nur insoweit verlangt
 werden, als sie für die Prüfung, ob es sich um einen Anbieter im Sinne
 dieses Gesetzes handelt, erforderlich sind.
 
+(2a)Kommt ein Emittent, Anbieter oder Zulassungsantragsteller einem
+sofort vollziehbaren Verlangen nach Absatz 2 innerhalb angemessener
+Frist unberechtigt nicht oder trotz erneuter Aufforderung innerhalb
+angemessener Frist unberechtigt nicht oder nur unvollständig nach,
+kann die Bundesanstalt diesen Umstand auf ihrer Internetseite
+öffentlich bekannt machen, wenn Anhaltspunkte dafür vorliegen, dass
+
+1.  entgegen § 3 kein Prospekt veröffentlicht wurde,
+
+
+2.  entgegen § 13 ein Prospekt veröffentlicht wird,
+
+
+3.  der Prospekt oder das Registrierungsformular nicht mehr nach § 9
+    gültig ist,
+
+
+4.  entgegen § 3a Absatz 1 kein Wertpapier-Informationsblatt
+    veröffentlicht wurde,
+
+
+5.  entgegen § 3a Absatz 2 ein Wertpapier-Informationsblatt veröffentlicht
+    wird oder
+
+
+6.  das Wertpapier-Informationsblatt nicht nach § 3a Absatz 8 aktualisiert
+    wurde.
+
+
+
+In dem Auskunfts- und Vorlegungsersuchen nach Absatz 2 ist auf die
+Befugnis nach Satz 1 hinzuweisen. Die Bekanntmachung darf nur
+diejenigen personenbezogenen Daten enthalten, die zur Identifizierung
+des Anbieters oder Emittenten erforderlich sind. Bei nicht
+bestandskräftigen Maßnahmen ist folgender Hinweis hinzuzufügen: „Diese
+Maßnahme ist noch nicht bestandskräftig.“ Wurde gegen die Maßnahme ein
+Rechtsmittel eingelegt, sind der Stand und der Ausgang des
+Rechtsmittelverfahrens bekannt zu machen. Die Bekanntmachung ist
+spätestens nach fünf Jahren zu löschen.
+
+(2b) Die Bundesanstalt sieht von einer Bekanntmachung nach Absatz 2a
+ab, wenn die Bekanntmachung die Finanzmärkte der Bundesrepublik
+Deutschland oder eines oder mehrerer Staaten des Europäischen
+Wirtschaftsraums erheblich gefährden würde. Die Bundesanstalt kann von
+einer Bekanntmachung außerdem absehen, wenn eine Bekanntmachung
+nachteilige Auswirkungen auf die Durchführung strafrechtlicher,
+ordnungswidrigkeitenrechtlicher oder disziplinarischer Ermittlungen
+haben kann.
+
 (3) Die Bundesanstalt kann von den Abschlussprüfern und Mitgliedern
 von Aufsichts- oder Geschäftsführungsorganen des Emittenten, des
 Anbieters oder Zulassungsantragstellers sowie von den mit der
@@ -1488,16 +1878,42 @@ soweit dies zur Überwachung der Einhaltung der Bestimmungen dieses
 Gesetzes erforderlich ist.
 
 (4) Die Bundesanstalt hat ein öffentliches Angebot zu untersagen, wenn
-entgegen § 3 kein Prospekt veröffentlicht wurde, entgegen § 13 ein
-Prospekt veröffentlicht wird, der Prospekt oder das
-Registrierungsformular nicht mehr nach § 9 gültig ist, die Billigung
-des Prospekts nicht durch eine Bescheinigung im Sinne des § 18 Abs. 1
-nachgewiesen worden ist oder der Prospekt nicht der Sprachenregelung
-des § 19 genügt. Hat die Bundesanstalt Anhaltspunkte dafür, dass gegen
-eine oder mehrere der in Satz 1 genannten Bestimmungen verstoßen
-wurde, kann sie jeweils anordnen, dass ein öffentliches Angebot für
-höchstens zehn Tage auszusetzen ist. Die nach Satz 2 gesetzte Frist
-beginnt mit der Bekanntgabe der Entscheidung.
+
+1.  entgegen § 3 kein Prospekt veröffentlicht wurde,
+
+
+2.  entgegen § 13 ein Prospekt veröffentlicht wird,
+
+
+3.  der Prospekt oder das Registrierungsformular nicht mehr nach § 9
+    gültig ist,
+
+
+4.  die Billigung des Prospekts nicht durch eine Bescheinigung im Sinne
+    des § 18 Absatz 1 nachgewiesen worden ist,
+
+
+5.  der Prospekt nicht der Sprachenregelung des § 19 genügt,
+
+
+6.  entgegen § 3a Absatz 1 kein Wertpapier-Informationsblatt hinterlegt
+    und veröffentlicht wurde,
+
+
+7.  entgegen § 3a Absatz 2 ein Wertpapier-Informationsblatt veröffentlicht
+    wird oder
+
+
+8.  das Wertpapier-Informationsblatt nicht nach § 3a Absatz 8 aktualisiert
+    wurde.
+
+
+
+Hat die Bundesanstalt Anhaltspunkte dafür, dass gegen eine oder
+mehrere der in Satz 1 genannten Bestimmungen verstoßen wurde, kann sie
+jeweils anordnen, dass ein öffentliches Angebot für höchstens zehn
+Tage auszusetzen ist. Die nach Satz 2 gesetzte Frist beginnt mit der
+Bekanntgabe der Entscheidung.
 
 (5) Die Bundesanstalt kann der Geschäftsführung der Börse und der
 Zulassungsstelle Daten einschließlich personenbezogener Daten
@@ -1583,17 +1999,34 @@ dieser Stelle beschäftigten und die von dieser Stelle beauftragten
 Personen einer dem Satz 1 entsprechenden Verschwiegenheitspflicht
 unterliegen.
 
-(2) Die §§ 93, 97 und 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105
-Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in
-Absatz 1 Satz 1 oder 2 genannten Personen, soweit sie zur Durchführung
-dieses Gesetzes tätig werden. Sie finden Anwendung, soweit die
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit §
+105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
+Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
 Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
 wegen einer Steuerstraftat sowie eines damit zusammenhängenden
-Besteuerungsverfahrens benötigen, an deren Verfolgung ein zwingendes
-öffentliches Interesse besteht, und nicht Tatsachen betroffen sind,
-die den in Absatz 1 Satz 1 oder 2 bezeichneten Personen durch eine
-Stelle eines anderen Staates im Sinne des Absatzes 1 Satz 3 Nr. 2 oder
-durch von dieser Stelle beauftragte Personen mitgeteilt worden sind.
+Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
+sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+
+1.  die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch
+    eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer
+    2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden
+    sind oder
+
+
+2.  von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis
+    erlangen, dass sie an der Aufsicht über direkt von der Europäischen
+    Zentralbank beaufsichtigte Institute mitwirken, insbesondere in
+    gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU)
+    Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur
+    Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der
+    Europäischen Zentralbank und den nationalen zuständigen Behörden und
+    den nationalen benannten Behörden innerhalb des einheitlichen
+    Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141
+    vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen
+    Zentralbank geheim sind.
+
+
+
 
 
 ### § 28 Zusammenarbeit mit zuständigen Stellen in anderen Staaten des Europäischen Wirtschaftsraums
@@ -1743,17 +2176,18 @@ Keine aufschiebende Wirkung haben
 ### § 32 Auskunftspflicht von Wertpapierdienstleistungsunternehmen
 
 Vorbehaltlich der schriftlichen Einwilligung des jeweiligen Kunden
-haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 4
+haben Wertpapierdienstleistungsunternehmen im Sinne des § 2 Absatz 10
 des Wertpapierhandelsgesetzes Emittenten oder Anbietern auf Anfrage
-unverzüglich ihre Einstufung dieses Kunden nach § 31a des
+unverzüglich ihre Einstufung dieses Kunden nach § 67 des
 Wertpapierhandelsgesetzes mitzuteilen.
 
 
 ### § 33 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach diesem Gesetz, nach den auf diesem Gesetz
-beruhenden Rechtsvorschriften und nach Rechtsakten der Europäischen
-Union kann die Bundesanstalt Gebühren und Auslagen erheben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz, nach den auf diesem Gesetz beruhenden Rechtsvorschriften und
+nach Rechtsakten der Europäischen Union kann die Bundesanstalt
+Gebühren und Auslagen erheben.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
@@ -1761,9 +2195,10 @@ gebührenpflichtigen Tatbestände und die Gebühren nach festen Sätzen
 oder als Rahmengebühren näher zu bestimmen. Die Gebührensätze und die
 Rahmengebühren sind so zu bemessen, dass zwischen der den
 Verwaltungsaufwand berücksichtigenden Höhe und der Bedeutung, dem
-wirtschaftlichen Wert oder dem sonstigen Nutzen der Amtshandlung ein
-angemessenes Verhältnis besteht. Das Bundesministerium der Finanzen
-kann die Ermächtigung durch Rechtsverordnung auf die Bundesanstalt für
+wirtschaftlichen Wert oder dem sonstigen Nutzen der individuell
+zurechenbaren öffentlichen Leistung ein angemessenes Verhältnis
+besteht. Das Bundesministerium der Finanzen kann die Ermächtigung
+durch Rechtsverordnung auf die Bundesanstalt für
 Finanzdienstleistungsaufsicht übertragen.
 
 
@@ -1780,6 +2215,41 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
 (1) Ordnungswidrig handelt, wer vorsätzlich oder leichtfertig
 
 1.  entgegen § 3 Absatz 1 ein Wertpapier anbietet,
+
+
+1a. entgegen § 3a Absatz 1 Satz 1 ein Wertpapier anbietet,
+
+
+1b. entgegen § 3a Absatz 2 Satz 1 ein Wertpapier-Informationsblatt
+    veröffentlicht,
+
+
+1c. entgegen § 3a Absatz 8 Satz 1
+
+    a)  eine Angabe nicht, nicht richtig, nicht vollständig oder nicht
+        rechtzeitig aktualisiert oder
+
+
+    b)  eine aktualisierte Fassung des Wertpapier-Informationsblatts nicht
+        oder nicht rechtzeitig übermittelt,
+
+
+
+
+
+1d. entgegen § 3a Absatz 8 Satz 2 das dort genannte Datum nicht oder nicht
+    richtig nennt,
+
+
+1e. entgegen § 3a Absatz 8 Satz 3 oder § 3b Absatz 3 Satz 1 ein
+    Wertpapier-Informationsblatt nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig
+    veröffentlicht,
+
+
+1f. entgegen § 3b Absatz 3 Satz 2, auch in Verbindung mit § 3a Absatz 8
+    Satz 4, nicht sicherstellt, dass ein Wertpapier-Informationsblatt
+    zugänglich ist,
 
 
 2.  entgegen § 8 Abs. 1 Satz 6 oder 7 den Emissionspreis oder das
@@ -1807,6 +2277,10 @@ Verwaltungsverfahrensgesetzes gilt entsprechend.
     rechtzeitig macht,
 
 
+7a. entgegen § 14 Absatz 4 Satz 2 eine Angabe nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig macht,
+
+
 8.  entgegen § 14 Abs. 5 eine Papierversion des Prospekts nicht zur
     Verfügung stellt oder
 
@@ -1830,11 +2304,12 @@ vollziehbaren Anordnung nach
 
 zuwiderhandelt.
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
-und 5 und des Absatzes 2 Nummer 2 mit einer Geldbuße bis zu
-fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 6 mit
-einer Geldbuße bis zu einhunderttausend Euro und in den übrigen Fällen
-mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1,
+1a, 1b und 5 und des Absatzes 2 Nummer 2 mit einer Geldbuße bis zu
+fünfhunderttausend Euro, in den Fällen des Absatzes 1 Nummer 1c
+Buchstabe a, Nummer 1d bis 1f, 6 und 9 mit einer Geldbuße bis zu
+hunderttausend Euro und in den übrigen Fällen mit einer Geldbuße bis
+zu fünfzigtausend Euro geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten ist die Bundesanstalt.
@@ -1862,6 +2337,17 @@ b)  den ersten Antrag auf Zulassung von Wertpapieren zum Handel an einem
 
 
 
+
+(1a) Für öffentliche Angebote, für die endgültige Bedingungen bereits
+vor dem 10. Juli 2015 bei der Bundesanstalt hinterlegt wurden, ist § 9
+Absatz 2 dieses Gesetzes in seiner bis dahin geltenden Fassung weiter
+anzuwenden. Werden für Wertpapiere innerhalb eines Zeitraums von drei
+Monaten ab dem 10. Juli 2015 bei der Bundesanstalt endgültige
+Bedingungen hinterlegt, die sich auf Basisprospekte beziehen, welche
+vor dem 10. Juli 2015 gebilligt wurden, dürfen diese Wertpapiere noch
+sechs Monate ab Hinterlegung der endgültigen Bedingungen auf der
+Grundlage dieses Basisprospekts öffentlich angeboten werden, sofern
+sich nicht aus § 9 Absatz 2 eine längere Gültigkeit ergibt.
 
 (2) Wertpapiere, die bereits vor dem 1. Juli 2012 auf Grundlage eines
 von der Bundesanstalt vor diesem Datum gebilligten Basisprospekts und

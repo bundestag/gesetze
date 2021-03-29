@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Errichtung der Karibischen Entwicklungsbank
 jurabk: KaEntwBkÜbk
 layout: default
-origslug: kaentwbk_bk
+origslug: kaentwbkuebk
 slug: kaentwbkuebk
 
 ---

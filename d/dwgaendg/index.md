@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Deutsche-Welle-Gesetzes
 jurabk: DWGÄndG
 layout: default
-origslug: dwg_ndg
+origslug: dwgaendg
 slug: dwgaendg
 
 ---

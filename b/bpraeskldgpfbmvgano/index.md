@@ -4,7 +4,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Verteidigung
 jurabk: BPräsKldgPfBMVgAnO
 layout: default
-origslug: bpr_skldgpfbmvgano
+origslug: bpraeskldgpfbmvgano
 slug: bpraeskldgpfbmvgano
 
 ---

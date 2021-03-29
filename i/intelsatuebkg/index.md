@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. August 1971 über die Internationale
   "INTELSAT"
 jurabk: INTELSATÜbkG
 layout: default
-origslug: intelsat_bkg
+origslug: intelsatuebkg
 slug: intelsatuebkg
 
 ---

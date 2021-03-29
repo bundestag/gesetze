@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1393
 
+Geändert durch
+:   Art. 5 V v. 26.8.2015 I 1443
+
 
 
 ## Teil 1 - Wahl
@@ -473,21 +476,8 @@ durchgeführt wird; dies gilt auch, wenn die Stimmabgabe unterbrochen
 wird.
 
 
-##### § 15 Einsatz von Wahlgeräten
+##### § 15 (weggefallen)
 
-(1) Für die Abgabe und Zählung der Stimmen können an Stelle von
-Stimmzetteln und Wahlurnen Wahlgeräte eingesetzt werden. § 14 gilt
-entsprechend. Die Wahlgeräte müssen auf Grund einer Prüfung nach § 2
-Abs. 2 und 3 der Bundeswahlgeräteverordnung für die Wahl geeignet
-sein, für die sie eingesetzt werden und den Richtlinien für die Bauart
-von Wahlgeräten entsprechen, soweit diese nicht besondere Regelungen
-für Bundeswahlen enthalten. Jedem Wahlgerät muss eine
-Bedienungsanleitung und eine Baugleichheitserklärung entsprechend § 2
-Abs. 6 der Bundeswahlgeräteverordnung beigefügt sein.
-
-(2) Der Einsatz von Wahlgeräten ist nur zulässig, wenn hierüber
-Einvernehmen zwischen dem Betriebswahlvorstand und der
-Unternehmensleitung erzielt worden ist.
 
 
 #### Abschnitt 4 - Schriftliche Stimmabgabe
@@ -598,8 +588,7 @@ zusammen.
 
 (3) Bei der Auszählung ist die Gültigkeit der Stimmzettel zu prüfen.
 
-(4) Beim Einsatz von Wahlgeräten stellt der Betriebswahlvorstand durch
-Ablesen die Zahl der auf jeden Bewerber entfallenden Stimmen fest.
+(4) (weggefallen)
 
 
 ##### § 19 Ermittlung der Gewählten
@@ -616,29 +605,26 @@ entscheidet jeweils das Los.
 Nachdem die Stimmen ausgezählt sind, stellt der Betriebswahlvorstand
 in einer Niederschrift fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
+4.  die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen;
 
 
-5.  die Zahlen der auf die einzelnen Bewerber entfallenden Stimmen;
+5.  die Namen der gewählten Aufsichtsratsmitglieder;
 
 
-6.  die Namen der gewählten Aufsichtsratsmitglieder;
-
-
-7.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
+6.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
     Ersatzmitglieder;
 
 
-8.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
+7.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
     Ereignisse.
 
 
@@ -1015,7 +1001,7 @@ bis 17 entsprechend.
 #### § 37 Öffentliche Stimmauszählung, Abstimmungsergebnis, Akten
 
 (1) Unverzüglich nach Abschluss der Stimmabgabe zählt der
-Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Abs. 2 bis 4
+Betriebswahlvorstand öffentlich die Stimmen aus. § 18 Absatz 2 und 3
 gilt entsprechend.
 
 (2) Für die Niederschrift des Betriebswahlvorstands, die
@@ -1254,17 +1240,4 @@ Aufsichtsratsmitgliedern in Briefwahl ab. Für die Stimmabgabe gilt §
 Für die Berechnung der in dieser Verordnung festgelegten Fristen
 finden die §§ 186 bis 193 des Bürgerlichen Gesetzbuchs entsprechende
 Anwendung.
-
-
-### § 51 Übergangsregelung
-
-Auf Wahlen oder Abberufungen, die vor dem 1. Juli 2004 eingeleitet
-worden sind, sind die Vorschriften der Ersten Rechtsverordnung zur
-Durchführung des Betriebsverfassungsgesetzes in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1-1,
-veröffentlichten bereinigten Fassung auch nach ihrem Außerkrafttreten
-nach Maßgabe des § 87a des Betriebsverfassungsgesetzes 1952 in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 801-1, veröffentlichen
-bereinigten Fassung, das zuletzt durch Artikel 9 des Gesetzes vom 23.
-Juli 2001 (BGBl. I S. 1852) geändert worden ist, anzuwenden.
 

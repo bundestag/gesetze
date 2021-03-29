@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2433
 
-Geändert durch
-:   Art. 7 G v. 11.8.2010 I 1163
+Zuletzt geändert durch
+:   Art. 5 G v. 8.4.2013 I 734
 
 [^f1.772363_01_BJNR243310009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -206,9 +206,10 @@ Anlagen nach § 3 bestimmten Anforderungen genügen muss, insbesondere
 (1) Die zuständige Behörde kann zur Überwachung der Einhaltung der
 Vorschriften dieses Gesetzes und der auf § 5 gestützten
 Rechtsverordnungen Anlagen oder deren Betrieb überprüfen. § 52 Absatz
-1 bis 3 und 5 bis 7 des Bundes-Immissionsschutzgesetzes gilt
-entsprechend. Das Grundrecht der Unverletzlichkeit der Wohnung
-(Artikel 13 des Grundgesetzes) wird insoweit eingeschränkt.
+1 Satz 1 bis 3, Absatz 2, 3 und 5 bis 7 des Bundes-
+Immissionsschutzgesetzes gilt entsprechend. Das Grundrecht der
+Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
+insoweit eingeschränkt.
 
 (2) Die zuständige Behörde kann diejenigen Anordnungen treffen, die
 erforderlich sind, um die Vorschriften dieses Gesetzes und der auf § 5

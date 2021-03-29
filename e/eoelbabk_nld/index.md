@@ -4,7 +4,7 @@ Title: Abkommen zwischen dem Bundesminister für Wirtschaft der Bundesrepublik D
   von Beständen an Erdöl und Erdölerzeugnissen
 jurabk: EÖlBAbk NLD
 layout: default
-origslug: e_lbabk_nld
+origslug: eoelbabk_nld
 slug: eoelbabk_nld
 
 ---

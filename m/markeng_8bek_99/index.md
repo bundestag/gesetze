@@ -45,6 +45,5 @@ Bundesministerium der Justiz
 
 ## Anlage Zertifikationszeichen der Republik Kuba
 
-(Inhalt: nicht darstellbares Zertifikationszeichen,
 Fundstelle: BGBl. I 1999, 767)
-
+![bgbl1_1999_j0767_0010.jpg](bgbl1_1999_j0767_0010.jpg)

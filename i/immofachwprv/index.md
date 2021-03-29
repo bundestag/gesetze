@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 117
 
+Geändert durch
+:   Art. 8 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -460,10 +463,12 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
+(zu § 6 Abs. 3)
 
-## Anlage 1 (zu § 6 Abs. 3) Muster
+## Anlage 1 Muster
 
-( Fundstelle: BGBl. I 2008, 121 )
+(Fundstelle: BGBl. I 2008, 121;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
@@ -495,9 +500,14 @@ Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin vom 25.
-Januar 2008 (BGBl. I S. 117)
+Januar 2008 (BGBl. I S. 117), die durch Artikel 8 der Verordnung vom
+26\. März 2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum
@@ -510,10 +520,12 @@ bestanden.
 
 
 
+(zu § 6 Abs. 3)
 
-## Anlage 2 (zu § 6 Abs. 3) Muster
+## Anlage 2 Muster
 
-( Fundstelle: BGBl. I 2008, 122 )
+(Fundstelle: BGBl. I 2008, 122;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
@@ -545,11 +557,13 @@ bestanden.
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Immobilienfachwirt/Geprüfte Immobilienfachwirtin vom 25.
-Januar 2008 (BGBl. I S. 117) mit folgenden Ergebnissen bestanden:
+Januar 2008 (BGBl. I S. 117), die durch Artikel 8 der Verordnung vom
+26\. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
+Ergebnissen bestanden:
 
 
 *    *
-    *[^f770804_01_BJNR011700008BJNE001400000]
+    *[^f770804_01_BJNR011700008BJNE001401377]
    Punkte
 
     *   Note
@@ -608,6 +622,10 @@ freigestellt.“)
     *
 
 
+   Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
 
@@ -619,6 +637,5 @@ freigestellt.“)
 
 
 
-[^f770804_01_BJNR011700008BJNE001400000]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    .
+[^f770804_01_BJNR011700008BJNE001401377]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:.
 

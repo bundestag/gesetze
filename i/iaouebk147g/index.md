@@ -3,7 +3,7 @@ Title: Gesetz zum Übereinkommen Nr. 147 der Internationalen Arbeitsorganisation
   29. Oktober 1976 über Mindestnormen auf Handelsschiffen
 jurabk: IAOÜbk147G
 layout: default
-origslug: iao_bk147g
+origslug: iaouebk147g
 slug: iaouebk147g
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1980, 606
 
 Zuletzt geändert durch
-:   Art. 325 V v. 31.10.2006 I 2407
+:   Art. 558 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -42,7 +42,7 @@ Für die Entgegennahme, Untersuchung und Meldung von Beschwerden nach
 Artikel 2 Buchstabe d Ziffer ii des Übereinkommens Nr. 147 der
 Internationalen Arbeitsorganisation über Mindestnormen auf
 Handelsschiffen sind die Seemannsämter zuständig. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und das
+Bundesministerium für Verkehr und digitale Infrastruktur und das
 Bundesministerium für Arbeit und Soziales werden ermächtigt, durch
 Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, das
 Verfahren zu regeln.

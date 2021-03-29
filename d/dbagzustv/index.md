@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 53
 
 Zuletzt geändert durch
-:   § 56 Abs. 46 V v. 12.2.2009 I 284
+:   Art. 9 G v. 3.12.2015 I 2163
 
 
 ## Eingangsformel
@@ -127,7 +127,7 @@ Deutsche Bahn Gründungsgesetzes zugewiesen sind:
     Annahme von Belohnungen, Geschenken und sonstigen Vorteilen,
 
 
-24. Entscheidung über Anträge nach § 91 oder § 92 des
+24. Entscheidung über Anträge nach den § 91, 92 oder nach § 92a des
     Bundesbeamtengesetzes auf Teilzeitbeschäftigung, auf Ermäßigung der
     regelmäßigen Arbeitszeit,
 
@@ -191,8 +191,8 @@ Deutsche Bahn Gründungsgesetzes zugewiesen sind:
 
 38. Erstattung von Auslagen auf Grund des Bundesreisekostengesetzes, des
     Bundesumzugskostengesetzes sowie ergänzender Bestimmungen des
-    Bundesministeriums für Verkehr, Bau und Stadtentwicklung nach § 7 Abs.
-    5 des Gesetzes zur Zusammenführung und Neugliederung der
+    Bundesministeriums für Verkehr und digitale Infrastruktur nach § 7
+    Abs. 5 des Gesetzes zur Zusammenführung und Neugliederung der
     Bundeseisenbahnen,
 
 
@@ -204,7 +204,7 @@ Deutsche Bahn Gründungsgesetzes zugewiesen sind:
     Deutsche Bahn Aktiengesellschaft zur Ausübung übertragen sind,
 
 
-41. Einschätzungen der Leistungen nach § 27 Abs. 5, 6 und 8 des
+41. Einschätzungen der Leistungen nach § 27 Abs. 4, 5 und 7 des
     Bundesbesoldungsgesetzes.
 
 

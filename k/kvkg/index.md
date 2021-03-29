@@ -233,6 +233,6 @@ aufgrund dieses Gesetzes erlassen werden, gelten im Land Berlin nach §
 Vorschriften am 1. Juli 1977 in Kraft.
 
 (2) Artikel 1
-§ 1 Nr. 10 und 40, § 3 Nr. 8, 20 und 21 sowie              § 5 tritt
-am 1. Januar 1978 in Kraft.
+§ 1 Nr. 10 und 40, § 3 Nr. 8, 20 und 21 sowie § 5 tritt am 1. Januar
+1978 in Kraft.
 

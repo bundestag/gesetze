@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   2012-07-02
 
 Fundstelle
-:   BAnz: 2012, AT 04.07.2012 V1
+:   BAnz: AT 04.07.2012 V1
 
 
 ## Eingangsformel

@@ -15,12 +15,19 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1976, 1810
 
+V aufgeh. durch
+:   Art. 3 Abs. 12 G v. 18.7.2016 I 1666 mWv 1.10.2019
+
 Neugefasst durch
-:   Bek. vom 20. 4.1990 I 780;
+:   Bek. vom 20.4.1990 I 780;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 10. 1.2000 I 38
+:   Art. 2 V v. 10.1.2000 I 38
 
+V ursprünglich aufgeh. durch
+:   Art. 3 Abs. 13 G v. 7.8.2013 I 3154 mWv 14.8.2016; Art. 3 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
+
+Stand: Diese V gilt gem. § 60 G 7133-4 v. 11.10.2002 I 3970 in den Ländern bis zum 14.8.2018 fort, solange die Länder keine anderweitigen Regelungen getroffen haben
 
 ## § 1
 

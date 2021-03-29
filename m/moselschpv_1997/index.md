@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl II: 1997, 1670 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 6 V v. 21.6.2012 II 618 (1144)
+:   Art. 3 iVm Anlage 5 V v. 1.5.2018 II 170
 
 
 ## Inhaltsverzeichnis
@@ -211,6 +211,12 @@ Zuletzt geändert durch
 *    *   § 2.05
 
     *   Kennzeichen der Anker
+
+
+*    *   § 2.06
+
+    *   Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff
+        nutzen
 
 
 *    *
@@ -435,6 +441,11 @@ Zuletzt geändert durch
     *   Hinweis auf das Verbot des Stilliegens nebeneinander
 
 
+*    *   § 3.34
+
+    *   Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
+
+
 *    *
     *
     *   Kapitel 4
@@ -443,7 +454,8 @@ Zuletzt geändert durch
 *    *
     *
     *
-    *   Schallzeichen der Fahrzeuge, Sprechfunk; Radar
+    *   Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und
+        Navigationsgeräte
 
 
 *    *
@@ -489,12 +501,17 @@ Zuletzt geändert durch
     *
     *
     *
-    *   Abschnitt III: Radar
+    *   Abschnitt III: Informations- und Navigationsgeräte
 
 
 *    *   § 4.06
 
     *   Radar
+
+
+*    *   § 4.07
+
+    *   Inland AIS und Inland ECDIS
 
 
 *    *
@@ -886,6 +903,12 @@ Zuletzt geändert durch
 
 *    *   § 8.12
 
+    *   Sicherheit an Bord der Fahrzeuge, die Flüssigerdgas (LNG) als
+        Brennstoff nutzen
+
+
+*    *   § 8.13
+
     *   Anlegestellen für Fahrgastschiffe
 
 
@@ -962,12 +985,12 @@ Zuletzt geändert durch
 *    *
     *
     *
-    *   Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
+    *   Gewässerschutz und Entsorgung von Schiffsabfällen
 
 
 *    *   § 11.01
 
-    *   Begriffsbestimmungen
+    *   Begriffsbestimmungen und Anwendung
 
 
 *    *   § 11.02
@@ -982,7 +1005,7 @@ Zuletzt geändert durch
 
 *    *   § 11.04
 
-    *   Sammlung und Behandlung an Bord
+    *   Sammlung und Behandlung der Abfälle an Bord
 
 
 *    *   § 11.05
@@ -997,12 +1020,12 @@ Zuletzt geändert durch
 
 *    *   § 11.07
 
-    *   (ohne Inhalt)
+    *   Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
 
 *    *   § 11.08
 
-    *   Bilgenentölungsboote
+    *   Sammlung, Abgabe und Annahme von Abfällen aus dem Ladungsbereich
 
 
 *    *   § 11.09
@@ -1065,6 +1088,13 @@ Zuletzt geändert durch
 *    *   Anlage 10:
 
     *   Muster für das Ölkontrollbuch
+
+
+*    *   Anlage 11
+
+    *   Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen
+        „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf
+        dem Fahrzeug
 
 
 
@@ -1280,6 +1310,24 @@ aa) "ADN":
     (ADN) in der jeweils aktuellen Fassung.
 
 
+ab) „Inland AIS Gerät“ ein Gerät, das auf einem Fahrzeug eingebaut ist und
+    im Sinne des Standards „Schiffsverfolgung und Aufspürung in der
+    Binnenschifffahrt“ (ZKR-Beschluss 2006-I-21) genutzt wird;
+
+
+ac) „LNG-System“ sämtliche Teile des Fahrzeugs, die Flüssigerdgas (LNG)
+    oder Erdgas enthalten können, wie Motoren, Brennstofftanks und die
+    Schlauch- und Rohrleitungen für das Bunkern;
+
+
+ad) „Bunkerbereich“ der Bereich in einem Radius von 20 Metern um den
+    Bunkerverteiler;
+
+
+ae) „Flüssigerdgas (LNG)“ Erdgas, das durch Abkühlung auf eine Temperatur
+    von -161 °C verflüssigt wurde.
+
+
 
 
 
@@ -1464,32 +1512,32 @@ sein.
     Schiffskörpers nicht gefährden.
 
 
-4.  Bei Fahrzeugen, die Container befördern, muss außerdem vor Antritt der
-    Fahrt eine besondere Überprüfung der Stabilität in folgenden Fällen
-    vorgenommen werden:
+4.  Die Stabilität von Fahrzeugen, die Container befördern, muss jederzeit
+    gewährleistet sein. Der Schiffsführer hat nachzuweisen, dass eine
+    Stabilitätsprüfung vor Beginn des Ladens und Löschens sowie vor
+    Fahrtantritt durchgeführt wurde.
 
-    a)  bei Fahrzeugen mit einer Breite von weniger als 9,50 m, wenn die
-        Container in mehr als einer Lage geladen sind,
+    Die Stabilitätsprüfung kann manuell oder mit Hilfe eines
+    Ladungsrechners erfolgen. Das Ergebnis der Stabilitätsprüfung und der
+    aktuelle Stauplan sind an Bord mitzuführen und müssen jederzeit lesbar
+    gemacht werden können.
 
+    Die Fahrzeuge müssen außerdem die Stabilitätsunterlagen nach § 22.01
+    der Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
+    Binnenschiffsuntersuchungsordnung in der jeweils geltenden und
+    anzuwendenden Fassung (Rheinschiffsuntersuchungsordnung) mitführen.
 
-    b)  bei Fahrzeugen mit einer Breite von 9,50 m bis unter 11,00 m, wenn die
-        Container in mehr als zwei Lagen geladen sind und
+    Eine Stabilitätsprüfung ist bei Fahrzeugen, die Container befördern,
+    nicht erforderlich, wenn das Fahrzeug in seiner Breite
 
-
-    c)  bei Fahrzeugen mit einer Breite von 11,00 m oder mehr,
-
-        -   wenn die Container in mehr als drei Breiten und mehr als zwei Lagen
-            geladen sind,
-
-
-
+    a)  höchstens drei Reihen Container laden kann und es vom Laderaumboden
+        aus nur mit einer Lage Containern beladen ist
 
         oder
 
-        -   wenn die Container in mehr als drei Lagen geladen sind.
 
-
-
+    b)  vier und mehr Reihen Container laden kann und es ausschließlich mit
+        Containern in höchstens zwei Lagen vom Laderaumboden aus beladen ist.
 
 
 
@@ -1518,10 +1566,8 @@ sein.
 
 3.  Diese Voraussetzungen gelten als erfüllt, wenn Bau, Ausrüstung,
     Besatzung und Betrieb der Fahrzeuge entweder den Bestimmungen der
-    Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
-    Binnenschiffsuntersuchungsordnung in der jeweils geltenden und
-    anzuwendenden Fassung (Rheinschiffsuntersuchungsordnung) oder anderen
-    gleichwertigen Vorschriften der Moseluferstaaten entsprechen und wenn
+    Rheinschiffsuntersuchungsordnung oder anderen gleichwertigen
+    Vorschriften der Moseluferstaaten entsprechen und wenn
 
     a)  die Fahrzeuge mit einem Schiffsattest nach der
         Rheinschiffsuntersuchungsordnung oder einem Gemeinschaftszeugnis nach
@@ -1684,7 +1730,7 @@ zu erwarten ist.
         Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
 
 
-    l)  die Urkunde "Frequenzzuteilung",
+    l)  die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
 
 
     m)  das Handbuch Binnenschifffahrtsfunk, Allgemeiner Teil und Regionaler
@@ -1753,6 +1799,30 @@ zu erwarten ist.
         Fahrzeuge über 110,00 m bis 135,00 m Länge, die nicht die Bedingungen
         des § 8.01 Nummer 2 oder Nummer 3 erfüllen, sowie die Sondererlaubnis
         nach § 8.01 Nummer 5.
+
+
+    ab) Bezugsnachweis für Gasöl nach Anlage 2 Teil A Artikel 3.04 Absatz 1
+        des Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen
+        in der Rhein- und Binnenschifffahrt (CDNI), einschließlich der
+        Quittungen für die Entgelttransaktionen des SPE-CDNI über einen
+        Zeitraum von mindestens 12 Monaten. Liegt der letzte Bezug von Gasöl
+        mehr als 12 Monate zurück, so ist mindestens der letzte Bezugsnachweis
+        mitzuführen;
+
+
+    ac) die Entladebescheinigung nach § 11.08 Nummer 2,
+
+
+    ad) bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, das in Anlage
+        T Nummer 1.4.8 der Rheinschiffsuntersuchungsordnung vorgeschriebene
+        Betriebshandbuch und die in § 8b.03 Nummer 1 der
+        Rheinschiffsuntersuchungsordnung vorgeschriebene Sicherheitsrolle,
+
+
+    ae) bei Fahrzeugen, die das Kennzeichen nach § 2.06 tragen, die in § 4a.02
+        der Verordnung über das Schiffspersonal auf dem Rhein vorgeschriebenen
+        Bescheinigungen des Schiffsführers und der Besatzungsmitglieder, die
+        am Bunkervorgang beteiligt sind.
 
 
 
@@ -2292,6 +2362,36 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff
+nutzen
+
+#### § 2.06 (Anlage 3: Bild 66)
+
+
+1.  Fahrzeuge, die Flüssigerdgas (LNG) als Brennstoff nutzen, müssen ein
+    Kennzeichen tragen.
+
+
+2.  Das Kennzeichen ist rechteckig mit der Aufschrift „LNG“ in weißen
+    Buchstaben auf rotem Grund und einem weißen Rand von mindestens 5 cm
+    Breite.
+
+    Die Länge der langen Seite des Rechtecks muss mindestens 60 cm
+    betragen. Die Höhe der Schriftzeichen muss mindestens 20 cm betragen.
+    Die Breite der Schriftzeichen und die Stärke der Striche müssen der
+    Höhe entsprechen.
+
+
+3.  Das Kennzeichen muss an einer geeigneten und gut sichtbaren Stelle
+    angebracht sein.
+
+
+4.  Das Kennzeichen muss erforderlichenfalls beleuchtet werden, damit es
+    bei Nacht deutlich sichtbar ist.
+
+
+
+
 
 ### Kapitel 3 - Bezeichnung der Fahrzeuge
 
@@ -2300,8 +2400,9 @@ Kleinfahrzeuge, muß geeicht sein.
 #### Abschnitt I. - Allgemeines
 
 
+Begriffsbestimmungen und Anwendungen
 
-##### § 3.01 Begriffsbestimmungen und Anwendungen (Anlage 3 Bild 1)
+##### § 3.01 (Anlage 3  Bild 1)
 
 
 1.  In diesem Kapitel gelten als
@@ -2522,8 +2623,9 @@ Kleinfahrzeuge, muß geeicht sein.
 ##### Titel A. - Bezeichnung während der Fahrt
 
 
+Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
-###### § 3.08 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb (Anlage 3 Bild 2, 3)
+###### § 3.08 (Anlage 3  Bild 2, 3)
 
 
 1.  Einzeln fahrende Fahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -2566,8 +2668,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Schleppverbände in Fahrt
 
-###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
+###### § 3.09 (Anlage 3  Bild 4, 5, 6, 7, 8, 9, 10)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
@@ -2714,8 +2817,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Schleppverbände in Fahrt
 
-###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
+###### § 3.09 (Anlage 3  Bild 4, 5, 6, 7, 8, 9, 10)
 
 
 1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
@@ -2862,8 +2966,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Schubverbände in Fahrt
 
-###### § 3.10 Bezeichnung der Schubverbände in Fahrt (Anlage 3 Bild 11, 12, 13, 14)
+###### § 3.10 (Anlage 3  Bild 11, 12, 13, 14)
 
 
 1.  Schubverbände in Fahrt müssen bei Nacht führen:
@@ -2960,8 +3065,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
-###### § 3.11 Bezeichnung gekuppelter Fahrzeuge in Fahrt (Anlage 3 Bild 15, 16)
+###### § 3.11 (Anlage 3  Bild 15, 16)
 
 
 1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
@@ -2999,8 +3105,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Fahrzeuge unter Segel in Fahrt
 
-###### § 3.12 Bezeichnung der Fahrzeuge unter Segel in Fahrt (Anlage 3 Bild 17)
+###### § 3.12 (Anlage 3  Bild 17)
 
 
 1.  Fahrzeuge unter Segel in Fahrt müssen bei Nacht führen:
@@ -3025,8 +3132,9 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnung der Kleinfahrzeuge in Fahrt
 
-###### § 3.13 Bezeichnung der Kleinfahrzeuge in Fahrt (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
+###### § 3.13 (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
 
 1.  Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
@@ -3130,8 +3238,10 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
+bestimmter gefährlicher Güter
 
-###### § 3.14 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+###### § 3.14 (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
 
 1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADN
@@ -3245,8 +3355,11 @@ Kleinfahrzeuge, muß geeicht sein.
 
 
 
+Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als
+12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge
+von weniger als 20,00 m aufweist
 
-###### § 3.15 Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als 12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m aufweist (Anlage 3 Bild 33)
+###### § 3.15 (Anlage 3  Bild 33)
 
 Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
 sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m
@@ -3256,8 +3369,9 @@ er von allen Seiten sichtbar ist.
 ... nicht darstellbares Bild 33
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 28
 
+Bezeichnung der Fähren in Fahrt
 
-###### § 3.16 Bezeichnung der Fähren in Fahrt (Anlage 3 Bild 34, 35, 36)
+###### § 3.16 (Anlage 3  Bild 34, 35, 36)
 
 
 1.  Nicht frei fahrende Fähren in Fahrt müssen bei Nacht führen:
@@ -3302,8 +3416,10 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 28
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang
+besitzen
 
-###### § 3.17 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen (Anlage 3: Bild 37)
+###### § 3.17 (Anlage 3: Bild 37)
 
 Fahrzeuge, denen die zuständige Behörde zur Durchfahrt durch Stellen,
 an denen eine bestimmte Reihenfolge gilt, einen Vorrang eingeräumt
@@ -3314,8 +3430,9 @@ ist.
 ... nicht darstellbares Bild 37
 Fundstelle: Anlageband zum BGB. II Nr. 38 v. 16.9.1997, S. 29
 
+Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
 
-###### § 3.18 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt (Anlage 3: Bild 38)
+###### § 3.18 (Anlage 3: Bild 38)
 
 Ein manövrierunfähiges Fahrzeug in Fahrt muss erforderlichenfalls
 außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
@@ -3349,8 +3466,9 @@ außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
 
 Die Flagge kann durch eine Tafel gleicher Farbe ersetzt werden.
 
+Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
-###### § 3.19 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt (Anlage 3 Bild 39)
+###### § 3.19 (Anlage 3  Bild 39)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen in Fahrt
@@ -3364,8 +3482,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 30
 ##### Titel B. - Bezeichnung beim Stilliegen
 
 
+Bezeichnung der Fahrzeuge beim Stilliegen
 
-###### § 3.20 Bezeichnung der Fahrzeuge beim Stilliegen (Anlage 3 Bild 40, 41)
+###### § 3.20 (Anlage 3  Bild 40, 41)
 
 
 1.  Mit Ausnahme der Kleinfahrzeuge und der in den §§ 3.22 und 3.25
@@ -3422,16 +3541,19 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 30
 
 
 
+Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung
+bestimmter gefährlicher Güter
 
-###### § 3.21 Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 42, 43, 44)
+###### § 3.21 (Anlage 3  Bild 42, 43, 44)
 
 § 3.14 gilt für die dort genannten Fahrzeuge, Schubverbände und
 gekuppelten Fahrzeuge auch beim Stilliegen.
 ... nicht darstellbare je 2 Bilder 42, 43, 44
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 31
 
+Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
 
-###### § 3.22 Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen (Anlage 3 Bild 45, 46)
+###### § 3.22 (Anlage 3 Bild 45, 46)
 
 
 1.  Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
@@ -3458,8 +3580,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 31
 
 
 
+Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen
 
-###### § 3.23 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen (Anlage 3 Bild 47)
+###### § 3.23 (Anlage 3 Bild 47)
 
 Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
 werden können, müssen Schwimmkörper und schwimmende Anlagen beim
@@ -3474,8 +3597,10 @@ stillliegen.
 ... nicht darstellbares Bild 47
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 32
 
+Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze
+oder Ausleger
 
-###### § 3.24 Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze oder Ausleger (Anlage 3 Bild 48)
+###### § 3.24 (Anlage 3  Bild 48)
 
 Fischereifahrzeuge, Kleinfahrzeuge eingeschlossen, die ihre Netze oder
 Ausleger im Fahrwasser oder in dessen Nähe ausgelegt haben, müssen
@@ -3503,8 +3628,10 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 
 
 
+Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener
+oder gesunkener Fahrzeuge
 
-###### § 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
+###### § 3.25 (Anlage 3: Bild 49a, 49b, 50a, 50b, 51, 52)
 
 
 1.  Schwimmende Geräte bei der Arbeit und Fahrzeuge, die in der
@@ -3627,8 +3754,10 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden
+Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
-###### § 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker (Anlage 3 Bild 53, 54, 55)
+###### § 3.26 (Anlage 3  Bild 53, 54, 55)
 
 
 1.  Stilliegende Fahrzeuge, deren Anker so ausgeworfen sind, daß die
@@ -3691,8 +3820,9 @@ Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 #### Abschnitt III. - Sonstige Bezeichnung
 
 
+Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
-##### § 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden (Anlage 3 Bild 56)
+##### § 3.27 (Anlage 3 Bild 56)
 
 Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
 blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
@@ -3702,8 +3832,10 @@ Erlaubnis der zuständigen Behörde.
 ... nicht darstellbare 2 Bilder 56
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 36
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der
+Wasserstraße ausführen
 
-##### § 3.28 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen (Anlage 3: Bild 57)
+##### § 3.28 (Anlage 3: Bild 57)
 
 In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten,
 Peilungen oder Messungen ausführen, können mit Erlaubnis der
@@ -3714,8 +3846,9 @@ ein von allen Seiten sichtbares gelbes helles Funkellicht.
 ... nicht darstellbare 2 Bilder 57
 Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
+Schutz gegen Wellenschlag
 
-##### § 3.29 Schutz gegen Wellenschlag (Anlage 3 Bild 58)
+##### § 3.29 (Anlage 3  Bild 58)
 
 
 1.  In Fahrt befindliche oder stilliegende Fahrzeuge, Schwimmkörper und
@@ -3767,8 +3900,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
+Notzeichen
 
-##### § 3.30 Notzeichen (Anlage 3 Bild 59)
+##### § 3.30 (Anlage 3  Bild 59)
 
 
 1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
@@ -3799,8 +3933,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
+Hinweis auf das Verbot, das Fahrzeug zu betreten
 
-##### § 3.31 Hinweis auf das Verbot, das Fahrzeug zu betreten (Anlage 3: Bild 60)
+##### § 3.31 (Anlage 3: Bild 60)
 
 
 1.  Sofern es nicht an Bord beschäftigten Personen durch andere
@@ -3832,8 +3967,10 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
+Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu
+verwenden
 
-##### § 3.32 Hinweis auf das Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden (Anlage 3: Bild 61)
+##### § 3.32 (Anlage 3: Bild 61)
 
 
 1.  Sofern es durch andere Vorschriften verboten ist, an Bord
@@ -3872,8 +4009,9 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
+Hinweis auf das Verbot des Stilliegens nebeneinander
 
-##### § 3.33 Hinweis auf das Verbot des Stilliegens nebeneinander (Anlage 3 Bild 62)
+##### § 3.33 (Anlage 3  Bild 62)
 
 
 1.  Sofern das seitliche Stilliegen in der Nähe eines Fahrzeugs zum
@@ -3905,11 +4043,22 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
-### Kapitel 4 - Schallzeichen der Fahrzeuge, Sprechfunk, Radar
+##### § 3.34 Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern (Anlage 3: Bild 65)
+
+Fahrzeuge, die für den Einsatz von Tauchern verwendet werden, müssen
+zusätzlich zu ihrer Bezeichnung auf Grund anderer Bestimmungen dieser
+Verordnung führen:
+eine mindestens 1,00 m hohe, starre Nachbildung des Buchstabensignals
+„A“ des Internationalen Signalbuches an geeigneter Stelle und so hoch,
+dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
 
 
+### Kapitel 4 - Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
 
-#### Abschnitt I. - Schallzeichen (Anlage 6)
+
+Schallzeichen
+
+#### Abschnitt I. - (Anlage 6)
 
 
 
@@ -4078,7 +4227,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 
 
 
-#### Abschnitt III. - Radar
+#### Abschnitt III. - Informations- und Navigationsgeräte
 
 
 
@@ -4116,6 +4265,171 @@ Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 37
 2.  Bei Schubverbänden und gekuppelten Fahrzeugen gilt die Nummer 1 nur
     für das Fahrzeug, auf dem sich der Führer des Verbandes oder der
     gekuppelten Fahrzeuge befindet.
+
+
+
+
+
+##### § 4.07 Inland AIS und Inland ECDIS
+
+
+1.  Fahrzeuge müssen mit einem Inland AIS Gerät nach § 7.06 Nummer 3 der
+    Rheinschiffsuntersuchungsordnung ausgestattet sein. Das Inland AIS
+    Gerät muss in einem guten Betriebszustand sein.
+
+    Satz 1 gilt nicht für folgende Fahrzeuge:
+
+    a)  Fahrzeuge von Schubverbänden und gekuppelten Fahrzeugen, ausgenommen
+        das Fahrzeug, das die Hauptantriebskraft stellt,
+
+
+    b)  Kleinfahrzeuge, ausgenommen
+
+        –   Polizeifahrzeuge, die mit einem Radargerät ausgerüstet sind, und
+
+
+        –   Fahrzeuge, die ein Schiffsattest nach der
+            Rheinschiffsuntersuchungsordnung oder ein nach dieser Verordnung als
+            gleichwertig anerkanntes Zeugnis besitzen,
+
+
+
+
+
+    c)  Schubleichter ohne eigenen Antrieb,
+
+
+    d)  schwimmende Geräte ohne eigenen Antrieb.
+
+
+
+
+
+2.  Das Inland AIS Gerät muss ständig eingeschaltet sein. Die eingegebenen
+    Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten des Fahrzeugs
+    oder Verbands entsprechen.
+
+    Satz 1 und 2 gelten nicht,
+
+    a)  wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von
+        der Fahrrinne baulich getrennt sind, gewährt hat,
+
+
+    b)  für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die
+        Erfüllung polizeilicher Aufgaben gefährden würde.
+
+
+
+    Fahrzeuge nach Nummer 1 Satz 3 Buchstabe a müssen an Bord vorhandene
+    Inland AIS Geräte ausschalten, solange diese Fahrzeuge Teil des
+    Verbands sind.
+
+
+3.  Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen,
+    ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im
+    Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das
+    mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und
+    dieses zusammen mit einer aktuellen elektronischen
+    Binnenschifffahrtskarte nutzen. Hinsichtlich der Mindestanforderungen
+    an Inland ECDIS Geräte im Informationsmodus, vergleichbare
+    Kartenanzeigegeräte und elektronische Binnenschifffahrtskarten gilt §
+    4\.07 Nummer 3 Satz 2 der Rheinschifffahrtspolizeiverordnung in der zum
+    1\. Dezember 2014 anzuwendenden Fassung entsprechend. Vergleichbare
+    Kartenanzeigegeräte dürfen längstens bis zum 31. Dezember 2020 genutzt
+    werden.
+
+
+4.  Es müssen folgende Daten gemäß Kapitel 2 des Standards
+    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt
+    werden:
+
+    a)  User Identifier (Maritime Mobile Service Identity, MMSI);
+
+
+    b)  Schiffsname;
+
+
+    c)  Fahrzeug- bzw. Verbandstyp gemäß dem Standard Schiffsverfolgung und
+        Aufspürung in der Binnenschifffahrt;
+
+
+    d)  einheitliche europäische Schiffsnummer (ENI), oder, für die Seeschiffe
+        sofern keine ENI erteilt wurde, die IMO Nummer;
+
+
+    e)  Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    f)  Breite über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    g)  Position (WGS 84);
+
+
+    h)  Geschwindigkeit über Grund;
+
+
+    i)  Kurs über Grund;
+
+
+    j)  Zeitangabe der elektronischen Positionsermittlung;
+
+
+    k)  Navigationsstatus gemäß Anlage 11;
+
+
+    l)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+5.  Der Schiffsführer muss folgende Daten bei Änderungen umgehend
+    aktualisieren:
+
+    a)  Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    c)  Fahrzeug- bzw. Verbandstyp gemäß dem Standard Schiffsverfolgung und
+        Aufspürung in der Binnenschifffahrt;
+
+
+    d)  Navigationsstatus gemäß Anlage 11;
+
+
+    e)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+6.  Kleinfahrzeuge, die AIS nutzen, dürfen nur ein Inland AIS Gerät nach §
+    7\.06 Nummer 3 der Rheinschiffsuntersuchungsordnung, ein nach den
+    Vorschriften der IMO typzugelassenes AIS Gerät der Klasse A oder ein
+    AIS Gerät der Klasse B verwenden. AIS Geräte der Klasse B müssen den
+    einschlägigen Anforderungen der Empfehlung ITU-R M.1371, der
+    Richtlinie 1999/5/EG (RTTE) und der internationalen Norm IEC 62287-1
+    und 2 (einschließlich DSC Kanalmanagement) entsprechen. Das AIS Gerät
+    muss in einem guten Betriebszustand sein und die in das AIS Gerät
+    eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten
+    des Fahrzeugs oder Verbands entsprechen.
+
+
+7.  Kleinfahrzeuge, denen keine einheitliche europäische Schiffsnummer
+    (ENI) erteilt wurde, brauchen die Daten nach Nummer 4 Buchstabe d
+    nicht zu übermitteln.
+
+
+8.  Kleinfahrzeuge, die AIS nutzen, müssen zusätzlich mit einer in einem
+    guten Betriebszustand befindlichen und auf Empfang geschalteten
+    Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
 
 
 
@@ -4260,10 +4574,42 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
     ihrer Steuerfähigkeit, so dass Personen im oder auf dem Wasser nicht
     gefährdet werden. Durch die Fahrweise der Kleinfahrzeuge darf kein
     anderer gefährdet oder mehr als nach den Umständen unvermeidbar
-    behindert oder belästigt werden. Unbeschadet ergänzender Vorschriften
-    der Moseluferstaaten und außerhalb der durch das Tafelzeichen E.22
-    freigegebenen Strecken müssen Wassermotorräder einen klar erkennbaren
-    Geradeauskurs einhalten.
+    behindert oder belästigt werden.
+
+
+7.  Unbeschadet ergänzender Vorschriften der Moseluferstaaten und
+    außerhalb der durch das Tafelzeichen E.22 freigegebenen Wasserflächen
+    müssen Wassermotorräder einen klar erkennbaren Geradeauskurs
+    einhalten.
+
+    Im Bereich zwischen Mosel-km 205,88 (Sauermündung) bis Mosel-km 242,20
+    (deutsch-französische Grenze) ist das Fahren mit Wassermotorrädern
+    verboten.
+
+    Dieses Verbot gilt nicht, wenn folgende Voraussetzungen erfüllt sind:
+
+    a)  Das Fahren findet ausschließlich statt in der Zeit von 10.00 Uhr bis
+        12\.00 Uhr und von 14.00 Uhr bis 16.00 Uhr und nur bei Wetter mit einer
+        Sicht von mehr als 1 000 m;
+
+
+    b)  es muss ein klar erkennbarer Geradeauskurs eingehalten werden. Das
+        Hin- und Herfahren sowie das Figurenfahren sind verboten;
+
+
+    c)  es muss durch entsprechende technische Einrichtungen sichergestellt
+        sein, dass sich im Fall des Überbordgehens des Fahrzeugführers der
+        Motor automatisch abschaltet oder automatisch auf kleinste Fahrtstufe
+        zurückschaltet und dann das Wassermotorrad eine Kreisbahn einschlägt;
+
+
+    d)  der Fahrzeugführer und die Begleitpersonen müssen Schwimmhilfen
+        tragen, die mindestens den Anforderungen nach DIN EN 393 entsprechen
+        oder in anderer Weise einen Auftrieb von mindestens 50 N (Newton)
+        gewährleisten.
+
+
+
 
 
 
@@ -4296,8 +4642,9 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 
+Begegnen  Grundregeln
 
-##### § 6.04 Begegnen Grundregeln (Anlage 3 Bild 63)
+##### § 6.04 (Anlage 3  Bild 63)
 
 
 1.  Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
@@ -4359,7 +4706,7 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 
-##### § 6.05 Begegnen Ausnahmen von den Grundregeln
+##### § 6.05 Begegnen  Ausnahmen von den Grundregeln
 
 
 1.  Abweichend von § 6.04 können
@@ -4499,7 +4846,7 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 
-##### § 6.09 Überholen Allgemeine Bestimmungen
+##### § 6.09 Überholen  Allgemeine Bestimmungen
 
 
 1.  Das Überholen ist nur gestattet, nachdem sich der Überholende
@@ -4516,7 +4863,7 @@ Tag und mit Erlaubnis der zuständigen Behörde fahren.
 
 
 
-##### § 6.10 Überholen Verhalten und Zeichengebung der Fahrzeuge
+##### § 6.10 Überholen  Verhalten und Zeichengebung der Fahrzeuge
 
 
 1.  Der Überholende darf an Backbord oder an Steuerbord des
@@ -4953,8 +5300,10 @@ Schleppverbandes hineinzufahren.
 
 
 
+Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an
+festgefahrenen oder gesunkenen Fahrzeugen
 
-##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen (Anlage 3 Bilder 50a, 50b, 52)
+##### § 6.22a (Anlage 3  Bilder 50a, 50b, 52)
 
 Es ist verboten, an den in § 3.25 genannten Fahrzeugen an der Seite
 vorbeizufahren, an der sie das rote Licht oder die roten Lichter nach
@@ -5010,7 +5359,7 @@ zeigen.
 
 
 
-##### § 6.24 Durchfahren von Brücken und Wehren Allgemeines
+##### § 6.24 Durchfahren von Brücken und Wehren  Allgemeines
 
 
 1.  In einer Brücken- oder Wehröffnung gilt § 6.07, es sei denn, das
@@ -5239,14 +5588,23 @@ Das Durchfahren der Wehre ist verboten.
     gekennzeichnet.
 
     Schubverbände mit Längen über 170,00 m bis 172,10 m dürfen mit
-    Erlaubnis der zuständigen Behörden unter folgenden besonderen
+    Erlaubnis der Schleusenaufsicht unter folgenden besonderen
     Vorkehrungen die Schleusen durchfahren:
 
-    Talfahrende Schubverbände müssen zunächst 10,00 m vor dem Stoßschutz
-    der Untertore anhalten und dürfen erst nach dem Entfernen des Seiles
-    langsam bis zur besonderen Markierung am Unterhaupt vorziehen. Die
-    äußerste Begrenzung der Kammerlänge ist am Unter- und Oberhaupt durch
-    rot-weiße Markierungen gekennzeichnet.
+    Zu Tal fahrende Schubverbände müssen zunächst 10,00 m vor dem
+    Stoßschutz oder dem Balken der Untertore anhalten und dürfen erst nach
+    dem Entfernen des Seiles oder auf Anordnung des Schleusenpersonals
+    langsam bis zur besonderen Markierung der äußersten Begrenzung am
+    Unterhaupt vorziehen.
+
+    Bei nicht mit einer Schutzvorrichtung (Stoßschutz oder Balken)
+    ausgestatteten Schleusen, müssen alle Fahrzeuge 10,00 m vor der
+    äußeren Begrenzung der Kammerlänge anhalten. Sie dürfen erst auf
+    Anordnung des Schleusenpersonals langsam bis zur Markierung der
+    äußersten Begrenzung am Unterhaupt vorziehen.
+
+    Die äußerste Begrenzung der Kammerlänge der Schleusen ist am Ober- und
+    Unterhaupt durch rot-weiße Markierungen gekennzeichnet.
 
 
 9.  Im Schleusenbereich muss zu Fahrzeugen und Verbänden, die die
@@ -5272,11 +5630,18 @@ Das Durchfahren der Wehre ist verboten.
     m eingehalten werden.
 
 
-11. Fahrzeuge und Verbände, die die Bezeichnung nach § 3.14 Nr. 1 führen,
+11. Fahrzeuge und Verbände, die das Kennzeichen nach § 2.06 tragen, dürfen
+    nicht in eine Schleuse einfahren, wenn es außerhalb des LNG-Systems zu
+    Freisetzungen von Flüssigerdgas (LNG) kommt oder wenn eine Freisetzung
+    von Flüssigerdgas (LNG) außerhalb des LNG-Systems während der
+    Schleusendurchfahrt zu erwarten ist.
+
+
+12. Fahrzeuge und Verbände, die die Bezeichnung nach § 3.14 Nr. 1 führen,
     werden nicht zusammen mit Fahrgastschiffen geschleust.
 
 
-12. Die Schleusenaufsicht kann aus Gründen der Sicherheit und Leichtigkeit
+13. Die Schleusenaufsicht kann aus Gründen der Sicherheit und Leichtigkeit
     des Verkehrs, zur Beschleunigung der Durchfahrt oder zur vollen
     Ausnutzung der Schleusen Anordnungen erteilen, die diesen Paragraphen
     ergänzen oder von ihm abweichen. Die Fahrzeuge haben diese Anordnungen
@@ -5377,9 +5742,9 @@ Das Durchfahren der Wehre ist verboten.
 2.  Abweichend von Nummer 1 Buchstabe a und vorbehaltlich der Anwendung
     der Nummer 1 Buchstabe c haben ein Vorrecht auf Schleusung:
 
-    a)  die Fahrzeuge der Wasser- und Schiffahrtsverwaltung, der Feuerwehr,
-        der Polizei oder des Zolls der Uferstaaten, die in Ausübung dringender
-        dienstlicher Aufgaben unterwegs sind;
+    a)  die Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des
+        Bundes, der Feuerwehr, der Polizei oder des Zolls der Uferstaaten, die
+        in Ausübung dringender dienstlicher Aufgaben unterwegs sind;
 
 
     b)  die Fahrzeuge, denen die zuständige Behörde das Vorrecht ausdrücklich
@@ -5417,35 +5782,19 @@ Das Durchfahren der Wehre ist verboten.
 
 
 
-4.  Für Fahrgastschiffe, die nicht allen Bedingungen der Nummer 3
-    Buchstabe c entsprechen, kann das Vorrecht in Ausnahmefällen durch die
-    zuständige Behörde erteilt werden:
-
-    a)  wenn diese Fahrgastschiffe zusammen mit anderen Fahrgastschiffen
-        geschleust werden, die einen regelmäßigen Dienst versehen und das
-        Vorrecht nach Nummer 2 Buchstabe b besitzen, oder
-
-
-    b)  wenn die Gesamtzahl der täglichen Vorschleusungen in jeder
-        Fahrtrichtung an einer bestimmten Schleuse vier nicht überschreitet.
-
-
-
-
-    Der Zeitplan jeder Sonderfahrt muß von der zuständigen Behörde
-    genehmigt und der Schiffahrt bekanntgegeben werden. Das Vorrecht gilt
-    nur für die Schleusen, die nach dem genehmigten Zeitplan durchfahren
-    werden.
+4.  (ohne Inhalt)
 
 
 5.  Das Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gibt dem
     betreffenden Fahrzeug das Recht, vor anderen auf Schleusung wartenden
-    Fahrzeugen geschleust zu werden, sofern das Fahrzeug mit Vorrang
-    weniger als 1 500,00 m von der Schleuse entfernt ist, sei es, daß es
-    vom Schleusenpersonal gesichtet wird oder daß es seinen Standort durch
-    Sprechfunk mitgeteilt hat. In keinem Fall berechtigt es das Fahrzeug,
-    zu einer vorher festgesetzten Uhrzeit geschleust zu werden. Das
-    Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gilt nur in dem
+    Fahrzeugen geschleust zu werden, sobald es vom Schleusenpersonal im
+    Schleusenbereich am Standort des C4-Schildes mit Zusatz gesichtet
+    wird.
+
+    In keinem Fall berechtigt es das Fahrzeug, zu einer vorher
+    festgesetzten Uhrzeit geschleust zu werden.
+
+    Das Vorrecht auf Schleusung nach Nummer 2 Buchstabe b gilt nur in dem
     Zeitraum von 07:00 Uhr bis 20:00 Uhr. Von dieser zeitlichen
     Einschränkung sind die Fahrzeuge ausgenommen, die unter Nummer 3
     Buchstabe a und b fallen und eine Sondergenehmigung der zuständigen
@@ -5818,7 +6167,7 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 
 
 
-#### § 7.03 Ankern
+#### § 7.03 Ankern und Benutzung von Stelzen oder Ankerpfählen
 
 
 1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
@@ -5832,10 +6181,6 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
         Strecken, auf der Seite der Wasserstraße, auf der das Tafelzeichen
         steht.
 
-        ... nicht darstellbares Tafelzeichen A.6
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 61
-
 
 
 
@@ -5846,7 +6191,14 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
     (Anlage 7) gekennzeichnet sind, und nur auf der Seite der
     Wasserstraße, auf der das Tafelzeichen steht.
 
-    ... nicht darstellbares Tafelzeichen E.6
+
+3.  Auf Abschnitten, in denen nicht geankert werden darf, ist es verboten,
+    von Fahrzeugen und schwimmenden Geräten eine Stelze oder Ankerpfahl in
+    oder auf den Grund zu drücken. Das Verbot gilt nicht für Fahrzeuge und
+    schwimmende Geräte während ihres Einsatzes an Baustellen außerhalb von
+    gedichteten Strecken und des Kreuzungsbereichs von Dükern. Die
+    zuständige Behörde kann für Bau- und Notfalleinsätze weitergehende
+    Ausnahmen zulassen.
 
 
 
@@ -5999,24 +6351,77 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 #### § 7.08 Wache und Aufsicht
 
 
-1.  An Bord stillliegender Fahrzeuge, die eine Bezeichnung nach § 3.14
-    führen müssen, muss sich ständig eine einsatzfähige Wache aufhalten.
-    Die zuständige Behörde kann jedoch die Fahrzeuge, die in einem
-    Hafenbecken stillliegen, von dieser Verpflichtung befreien.
+1.  Eine einsatzfähige Wache muss sich ständig an Bord aufhalten
+
+    a)  von stillliegenden Fahrzeugen, die das Kennzeichen nach § 2.06 tragen,
 
 
-2.  An Bord stillliegender Fahrgastschiffe, auf denen sich Fahrgäste
-    befinden, muss sich ständig eine einsatzfähige Wache aufhalten.
+    b)  von stillliegenden Fahrzeugen, die eine Bezeichnung nach § 3.14
+        führen, und
 
 
-3.  Alle übrigen Fahrzeuge, Schwimmkörper und schwimmenden Anlagen müssen
+    c)  von stillliegenden Fahrgastschiffen, auf denen sich Fahrgäste
+        befinden.
+
+
+
+
+
+2.  Die einsatzfähige Wache wird durch ein Mitglied der Besatzung
+    sichergestellt, das
+
+    a)  bei Fahrzeugen nach Nummer 1 Buchstabe a Inhaber einer
+        Sachkundebescheinigung nach § 4a.02 der Verordnung über das
+        Schiffspersonal auf dem Rhein ist,
+
+
+    b)  bei Fahrzeugen nach Nummer 1 Buchstabe b Inhaber einer
+        Sachkundebescheinigung nach § 4.01 der Verordnung über das
+        Schiffspersonal auf dem Rhein ist.
+
+
+
+
+
+3.  An Bord stillliegender Fahrzeuge, die das Kennzeichen nach § 2.06
+    tragen, ist eine einsatzfähige Wache nicht erforderlich, wenn
+
+    a)  Flüssigerdgas (LNG) an Bord der Fahrzeuge nicht als Brennstoff
+        verbraucht wird,
+
+
+    b)  die technischen Daten des LNG-Systems der Fahrzeuge aus der Ferne
+        abgelesen werden und
+
+
+    c)  die Fahrzeuge von einer Person, die in der Lage ist, im Bedarfsfall
+        rasch einzugreifen, beaufsichtigt werden.
+
+
+
+
+
+4.  An Bord stillliegender Fahrzeuge, die eine Bezeichnung nach § 3.14
+    führen, ist eine einsatzfähige Wache nicht erforderlich, wenn
+
+    a)  diese in einem Hafenbecken stillliegen und
+
+
+    b)  die zuständige Behörde die Fahrzeuge von der Verpflichtung nach Nummer
+        1 befreit.
+
+
+
+
+
+5.  Alle übrigen Fahrzeuge, Schwimmkörper oder schwimmenden Anlagen müssen
     beim Stillliegen von einer Person, die in der Lage ist, im Bedarfsfall
     rasch einzugreifen, beaufsichtigt werden, es sei denn, die Aufsicht
     ist wegen der örtlichen Verhältnisse nicht erforderlich oder die
     zuständige Behörde lässt eine Ausnahme zu.
 
 
-4.  Gibt es keinen Schiffsführer, ist jeweils der Eigentümer, Ausrüster
+6.  Gibt es keinen Schiffsführer, ist jeweils der Eigentümer, Ausrüster
     oder sonstige Betreiber für den Einsatz der Wache und der Aufsicht
     verantwortlich.
 
@@ -6252,8 +6657,8 @@ mit ihrer Erlaubnis auf kurzen Strecken fortbewegt werden.
 
 4.  Bei Schubverbänden bis zu 11,45 m Breite, die aus einem schiebenden
     und einem geschobenen Fahrzeug bestehen, gilt als starre Verbindung
-    beider Fahrzeuge auch ein Kupplungssystem, das ein gesteuertes Knicken
-    des Verbandes ermöglicht, sofern im Schiffsattest dieser Fahrzeuge ein
+    auch ein Kupplungssystem, das ein gesteuertes Knicken des Verbandes
+    ermöglicht, sofern im Schiffsattest dieser Fahrzeuge ein
     entsprechender Vermerk eingetragen ist.
 
 
@@ -6517,7 +6922,63 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 
 
 
-#### § 8.12 Anlegestellen für Fahrgastschiffe
+#### § 8.12 Sicherheit an Bord von Fahrzeugen, die Flüssigerdgas (LNG) als Brennstoff nutzen
+
+
+1.  Vor Beginn des Bunkerns von Flüssigerdgas (LNG) muss der Schiffsführer
+    des zu bebunkernden Fahrzeugs sich davon vergewissern, dass
+
+    a)  die vorgeschriebenen Mittel zur Brandbekämpfung jederzeit
+        betriebsbereit sind und
+
+
+    b)  die vorgeschriebenen Mittel zur Evakuierung der an Bord des zu
+        bebunkernden Fahrzeugs befindlichen Personen zwischen dem Fahrzeug und
+        dem Kai angebracht sind.
+
+
+
+
+
+2.  Während des Bunkerns von Flüssigerdgas (LNG) müssen alle Zugänge von
+    Deck aus und alle Öffnungen von Räumen ins Freie geschlossen sein.
+    Dies gilt nicht für:
+
+    a)  Ansaugöffnungen von Motoren in Betrieb;
+
+
+    b)  Lüftungsöffnungen von Maschinenräumen, wenn die Motoren in Betrieb
+        sind;
+
+
+    c)  Lüftungsöffnungen für Räume mit einer Überdruckanlage und
+
+
+    d)  Lüftungsöffnungen einer Klimaanlage, wenn diese Öffnungen mit einer
+        Gasspüranlage versehen sind.
+
+
+
+    Zugänge und Öffnungen dürfen nur soweit notwendig für kurze Zeit mit
+    der Genehmigung des Schiffsführers geöffnet werden.
+
+
+3.  Während des Bunkerns von Flüssigerdgas (LNG) hat sich der
+    Schiffsführer ununterbrochen zu vergewissern, dass ein Rauchverbot an
+    Bord und im Bunkerbereich eingehalten wird. Dieses Rauchverbot gilt
+    auch für elektronische Zigaretten und ähnliche Geräte. Das Rauchverbot
+    gilt nicht in den Wohnungen und im Steuerhaus, sofern deren Fenster,
+    Türen, Oberlichter und Luken geschlossen sind.
+
+
+4.  Nach der Bebunkerung mit Flüssigerdgas (LNG) ist eine Lüftung aller
+    von Deck aus zugänglichen Räume erforderlich.
+
+
+
+
+
+#### § 8.13 Anlegestellen für Fahrgastschiffe
 
 
 1.  Fahrgastschiffe dürfen nur an Anlegestellen anlegen, die von der
@@ -6597,49 +7058,19 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 #### § 9.03 Verkehrsregelung im Unterkanal der Koblenzer Schleusen
 
 
-1.  Die Fahrrinnentiefe der Mosel beträgt:
-
-    -   von der Moselmündung (km 0,00) bis zur Schleuse Koblenz (km 1,96) 2,10
-        m bei Gleichwertigem Wasserstand (GLW) des Rheins
-
-
-    -   von der Schleuse Koblenz (km 1,96) bis Rauenthal (km 3,55) 3,70 m bei
-        Regelstau.
+1.  Die Fahrrinnentiefe der Mosel beträgt von der Moselmündung (Mosel-km
+    0,00) bis zu der Schleuse Koblenz (Mosel-km 1,96) 2,50 m bei
+    Gleichwertigem Wasserstand (GLW) des Rheins.
 
 
-
-
-
-2.  Zu Berg kommende Fahrzeuge müssen die ihnen zugewiesene
-    Schleusenkammer ansteuern. Die Weisung hierzu gibt bei Tag und bei
-    Nacht ein über der Mittelöffnung der Eisenbahnbrücke (Mosel-km 1,250)
-    angebrachter aus zwei weißen Lichtern nebeneinander bestehender
-    Richtungsweiser.
-
-    Die Zeichen des Richtungsweisers bedeuten:
-
-    a)  linkes Licht ununterbrochen, rechtes Licht blinkend:
-
-        In Fahrtrichtung gesehen rechts liegende (nördliche) Brückenöffnung
-        und in Fahrtrichtung gesehen rechts liegende Schleusenkammer benutzen,
-
-
-    b)  rechtes Licht ununterbrochen, linkes Licht blinkend:
-
-        In Fahrtrichtung gesehen links liegende (südliche) Brückenöffnung und
-        in Fahrtrichtung gesehen links liegende Schleusenkammer benutzen,
-
-
-    c)  beide Lichter ununterbrochen: Vor dem Richtungsweiser bzw. dem
-        Halteschild am Nordufer anhalten und bis zur Einweisung warten,
-
-
-    d)  beide Lichter blinkend:
-
-        Beide Brückenöffnungen und Schleusenkammern benutzbar.
-
-
-
+2.  Zu Berg kommende Fahrzeuge müssen vor der Balduinbrücke (Mosel-km
+    1,031) am Halteschild (Nordufer) anhalten und sich über Sprechfunk
+    (Kanal 20) bei der Schleuse Koblenz melden.
+    Sie dürfen erst nach Weisung des Schleusenpersonals die in
+    Fahrtrichtung gesehen rechts liegende Brückenöffnung und die in
+    Fahrtrichtung gesehen rechts liegende Schleusenkammer oder die in
+    Fahrtrichtung gesehen links liegende Brückenöffnung und die in
+    Fahrtrichtung gesehen links liegende Schleusenkammer ansteuern.
 
 
 3.  Zu Berg kommende Fahrzeuge mit einer Tauchtiefe über 2,50 m und
@@ -6647,9 +7078,9 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
     Fahrtrichtung gesehen rechts liegende (nördliche) Brückenöffnung und
     die in Fahrtrichtung gesehen rechts liegende (nördliche)
     Schleusenkammer benutzen.
-
     Solange ihnen diese Brückenöffnung und diese Schleusenkammer nicht
-    zugewiesen wird, haben sie vor dem Halteschild am Nordufer zu warten.
+    zugewiesen werden, haben sie vor dem Halteschild am Nordufer zu
+    warten.
 
 
 4.  Nach dem Durchfahren der Eisenbahnbrücke ist zu Berg kommenden
@@ -7092,155 +7523,22 @@ Schleusenaufsicht von Diedenhofen/Thionville einfahren.
 
 
 
-### Kapitel 11 - Gewässerschutz und Abfallbeseitigung auf Fahrzeugen
+### Kapitel 11 - Gewässerschutz und Entsorgung von Schiffsabfällen
 
 
 
-#### § 11.01 Begriffsbestimmungen
+#### § 11.01 Begriffsbestimmungen und Anwendung
 
 Im Sinne dieses Kapitels bedeuten:
 
-1.  Allgemeines
-
-    a)  "Abfall/Abwasser": Sie werden unterschieden in Schiffsbetriebsabfälle
-        und Abfälle aus dem Ladungsbereich.
-
-
-    b)  "Schiffsbetriebsabfall": Abfall und Abwasser, die bei Betrieb und
-        Unterhaltung des Schiffes entstehen.
+1.  Für dieses Kapitel gelten die Begriffsbestimmungen des Artikels 1 des
+    Übereinkommens über die Sammlung, Abgabe und Annahme von Abfällen in
+    der Rhein- und Binnenschifffahrt (CDNI) und der Artikel 5.01 und 8.01
+    der Anlage 2 des Übereinkommens.
 
 
-    c)  "Abfall aus dem Ladungsbereich": Abfall und Abwasser, die in
-        Zusammenhang mit der Ladung an Bord des Fahrzeugs entstehen.
-
-
-    d)  "Zugelassene Annahmestelle": Fahrzeug im Sinne des § 1.01 Buchstabe a
-        oder Einrichtung an Land, die zur Annahme von Schiffsbetriebsabfällen
-        und Abfällen aus dem Ladungsbereich von den zuständigen Behörden
-        zugelassen sind.
-
-
-    e)  "Einheitstransport": Transport, bei dem im Laderaum oder Ladetank des
-        Fahrzeugs ununterbrochen das gleiche Ladegut oder ein anderes Ladegut,
-        dessen Beförderung keine Reinigung des Laderaumes oder des Ladetanks
-        erfordert, befördert wird.
-
-
-
-
-
-2.  Schiffsbetrieb
-
-    a)  "Altfett": gebrauchtes Fett, das nach Austritt aus Buchsen, Lagern und
-        Schmieranlagen anfällt und sonstiges nicht mehr verwendbares Fett.
-
-
-    b)  "Altöl": gebrauchtes und sonstiges nicht mehr verwendbares Motoren-,
-        Getriebe- und Hydrauliköl.
-
-
-    c)  "Anderer öl- oder fetthaltiger Abfall": Altfilter (gebrauchte Öl- und
-        Luftfilter), Altlappen (verunreinigte Putzlappen und Putzwolle),
-        Gebinde (leere, verunreinigte Behälter), Verpackungen.
-
-
-    d)  "Bilgenwasser": ölhaltiges Wasser aus Bilgen des
-        Maschinenraumbereiches, Pieks, Kofferdämmen und Wallgängen.
-
-
-    e)  "Häusliches Abwasser": Abwasser aus Küchen, Eßräumen, Waschräumen
-        (Duschen, Waschbecken) und Waschküchen sowie Fäkalabwasser.
-
-
-    f)  "Hausmüll": aus Haushalten stammende organische und anorganische
-        Abfälle (z.B. Speisereste, Papier, Glas und ähnliche Küchenabfälle),
-        jedoch ohne Anteile der anderen definierten Schiffsbetriebsabfälle.
-
-
-    g)  "Klärschlamm": Rückstände, die bei Betrieb einer Bordkläranlage an
-        Bord des Fahrzeugs entstehen.
-
-
-    h)  "Separiertes Wasser": durch Maßnahmen auf amtlich zugelassenen
-        Bilgenentölungsbooten aus dem Bilgenwasser abgetrenntes Wasser.
-
-
-    i)  "Slops": pumpfähiges oder nicht pumpfähiges Gemisch bestehend aus
-        Ladungsrückständen mit Waschwasserresten, Rost oder Schlamm.
-
-
-    j)  "Übriger Sonderabfall": Schiffsbetriebsabfall außer den unter den
-        Buchstaben a bis g und i genannten Abfällen.
-
-
-
-
-
-3.  Ladungsbereich
-
-    a)  "Restladung": flüssig Ladung, die nach dem Löschen ohne Einsatz eines
-        Nachlenzsystems nach ADN als Rückstand im Ladetank und im
-        Leitungssystem verbleibt sowie Trockenladung, die nach dem Löschen
-        ohne den Einsatz von Besen, Kehrmaschinen oder Vakuumreiniger als
-        Rückstand im Laderaum verbleibt. Verpackungs- und Stauhilfsmittel sind
-        der Ladung zuzurechnen.
-
-
-    b)  "Ladungsrückstände": flüssige Ladung, die nicht durch das
-        Nachlenzsystem nach ADN aus dem Ladetank und dem Leitungssystem
-        entfernt werden kann sowie trockene Ladung, die nicht durch den
-        Einsatz von Kehrmaschinen oder Besen aus dem Laderaum entfernt werden
-        kann.
-
-
-    c)  "Umschlagsrückstande": trockene und gegebenenfalls flüssige Ladung,
-        die beim Umschlag außerhalb des Laderaums auf das Schiff gelangt (z.B.
-        auf das Gangbord).
-
-
-    d)  "Ungereinigter Laderaum/Ladetank": ein Laderaum oder Ladetank, in dem
-        sich noch Restladung befindet.
-
-
-    e)  "Besenreiner Laderaum": ein Laderaum, aus dem die Restladung entfernt
-        worden ist (z.B. durch Einsatz von Kehrmaschinen oder Besen), und der
-        nur noch Ladungsrückstände enthält.
-
-
-    f)  "Feingelenzter Ladetank": ein Ladetank, aus dem die Restladung
-        entfernt worden ist (z.B. durch das Nachlenzsystem nach ADN), und der
-        nur noch Ladungsrückstände enthält.
-
-
-    g)  "Vakuumreiner Laderaum": ein Laderaum, aus dem die Restladungen
-        mittels Vakuumtechnik entfernt worden sind, und der deutlich weniger
-        Ladungsrückstände enthält als ein besenreiner Laderaum.
-
-
-    h)  "Reinigung": Beseitigung der Restladung aus den Laderäumen und
-        Ladetanks durch geeignete Maßnahmen (z.B. Besen, Kehrmaschine,
-        Vakuumtechnik, Nachlenzsystem), durch die der Reinigungsstandard
-        "Laderaum besenrein" oder "Laderaum vakuumrein" oder "Ladetank
-        feingelenzt" erreicht wird, sowie Beseitigung der Umschlagsrückstände
-        in Bereichen außerhalb des Laderaumes.
-
-
-    i)  "Waschen": Beseitigung der Ladungsrückstände aus dem besenreinen oder
-        vakuumreinen Laderaum und feingelenzten Ladetank unter Einsatz von
-        Wasserdampf oder Wasser.
-
-
-    j)  "Waschreiner Laderaum/Ladetank": ein Laderaum oder Ladetank, der nach
-        dem Waschen für jede Ladungsart geeignet ist.
-
-
-    k)  "Waschwasser": Wasser, das beim Waschen von besenreinen oder
-        vakuumreinen Laderäumen oder von feingelenzten Ladetanks anfällt.
-        Hierzu wird auch Ballastwasser und Regenwasser gerechnet, das aus
-        diesen Laderäumen oder Ladetanks stammt.
-
-
-
+2.  Die Einzelheiten der Anwendung der Bestimmungen dieses Kapitels sind
+    im CDNI geregelt.
 
 
 
@@ -7248,38 +7546,45 @@ Im Sinne dieses Kapitels bedeuten:
 
 #### § 11.02 Allgemeine Sorgfaltspflicht
 
-Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord
+Der Schiffsführer, die übrige Besatzung und sonstige Personen an Bord,
 müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine
-Verschmutzung der Wasserstraße zu vermeiden und um die Menge des
-entstehenden Abfalls und Abwassers an Bord so gering wie möglich zu
-halten.
+Verschmutzung der Wasserstraße zu vermeiden, die Menge des
+entstehenden Schiffsabfalls und -abwassers sogering wie möglich zu
+halten und eine Vermischung verschiedener Abfallarten so weit wie
+möglich zu vermeiden.
 
 
 #### § 11.03 Verbot der Einbringung und Einleitung
 
 
-1.  Es ist verboten, von Fahrzeugen aus Altöl, Bilgenwasser, Altfett und
-    anderen öl- oder fetthaltigen Abfall sowie Slops, Hausmüll und übrigen
-    Sonderabfall in die Wasserstraße einzubringen oder einzuleiten.
+1.  Es ist verboten, von Fahrzeugen aus öl- und fetthaltigen
+    Schiffsbetriebsabfall, Slops, Hausmüll, Klärschlamm und übrigen
+    Sonderabfall, Teile der Ladung sowie Abfälle aus dem Ladungsbereich in
+    die Wasserstraße einzubringen oder einzuleiten.
 
 
-2.  Sind die in Nummer 1 genannten Abfälle oder Abwässer frei geworden
-    oder drohen sie freizuwerden, muß der Schiffsführer unverzüglich die
-    nächste zuständige Behörde darüber unterrichten. Dabei hat er den Ort
-    des Vorfalls sowie Menge und Art des Stoffes so genau wie möglich
-    anzugeben.
+2.  Ausnahmen von diesem Verbot sind nur in Übereinstimmung mit dem CDNI
+    zulässig.
+
+
+3.  Sind die in Nummer 1 genannten Abfälle frei geworden oder drohen sie
+    frei zu werden, muss der Schiffsführer unbeschadet der Bestimmungen
+    des CDNI unverzüglich die nächste zuständige Behörde darüber
+    unterrichten; dabei hat er den Ort des Vorfalls sowie Menge und Art
+    des Stoffes so genau wie möglich anzugeben.
 
 
 
 
 
-#### § 11.04 Sammlung und Behandlung an Bord
+#### § 11.04 Sammlung und Behandlung der Abfälle an Bord
 
 
-1.  Der Schiffsführer hat sicherzustellen, daß die in § 11.03 Nr. 1
-    genannten Abfälle an Bord separat in dafür vorgesehenen Behältern und
-    Bilgenwasser in den Maschinenraumbilgen gesammelt werden. Die Behälter
-    sind an Bord so zu lagern, daß auslaufende Stoffe leicht und
+1.  Der Schiffsführer hat sicherzustellen, dass die in § 11.03 Nr. 1
+    genannten Abfälle, mit Ausnahme von Teilen der Ladung und Abfällen aus
+    dem Ladungsbereich, an Bord getrennt in dafür vorgesehenen Behältern
+    und Bilgenwasser in den Maschinenraumbilgen gesammelt werden. Die
+    Behälter sind an Bord so zu lagern, dass auslaufende Stoffe leicht und
     rechtzeitig erkannt und zurückgehalten werden können.
 
 
@@ -7288,13 +7593,13 @@ halten.
     a)  an Deck gestaute lose Behälter als Altölsammelbehälter zu verwenden,
 
 
-    b)  Abfälle an Bord zu verbrennen oder
+    b)  Abfälle an Bord zu verbrennen,
 
 
-    c)  öl-, fettlösende oder emulgierende Reinigungsmittel in die
+    c)  öl- und fettlösende oder emulgierende Reinigungsmittel in die
         Maschinenraumbilgen einzubringen. Ausgenommen hiervon sind Mittel, die
-        die Reinigung des Bilgenwassers durch die zugelassenen Annahmestellen
-        nicht erschweren.
+        die Reinigung des Bilgenwassers durch die Annahmestellen nicht
+        erschweren.
 
 
 
@@ -7306,32 +7611,33 @@ halten.
 #### § 11.05 Ölkontrollbuch, Abgabe an Annahmestellen
 
 
-1.  Jedes Fahrzeug mit einem Maschinenraum im Sinne der
-    Rheinschiffsuntersuchungsordnung, ausgenommen Kleinfahrzeuge, muß ein
-    gültiges Ölkontrollbuch an Bord haben, das von der zuständigen Behörde
-    nach dem Muster der Anlage 10 ausgestellt wird. Dieses Kontrollbuch
-    ist an Bord aufzubewahren. Nach seiner Erneuerung muß das
-    vorhergehende mindestens 6 Monate nach der letzten Eintragung an Bord
-    aufbewahrt werden.
+1.  Jedes motorgetriebene Fahrzeug muss, soweit es Gasöl verwendet, ein
+    gültiges Ölkontrollbuch an Bord haben, das von einer zuständigen
+    Behörde nach dem Muster der Anlage 10 ausgestellt wird. Dieses
+    Kontrollbuch ist an Bord aufzubewahren. Nach seiner Erneuerung muss
+    das vorhergehende Kontrollbuch mindestens sechs Monate nach der
+    letzten Eintragung an Bord aufbewahrt werden.
 
 
-2.  Die in § 11.03 Nr. 1 genannten Abfälle, mit Ausnahme des Hausmülls,
-    sind in regelmäßigen, durch den Zustand und den Betrieb des Fahrzeugs
-    bestimmten zeitlichen Abständen an die von den zuständigen Behörden
-    zugelassenen Annahmestellen gegen Nachweis abzugeben. Der Nachweis
-    besteht aus einem Vermerk der Annahmestelle im Ölkontrollbuch.
+2.  Die öl- und fetthaltigen Schiffsbetriebsabfälle, Slops und übrigen
+    Sonderabfälle sind in regelmäßigen, durch den Zustand und den Betrieb
+    des Fahrzeugs bestimmten Zeitabständen an die von den zuständigen
+    Behörden zugelassenen Annahmestellen gegen Nachweis abzugeben. Der
+    Nachweis besteht aus einem Vermerk der Annahmestelle im
+    Ölkontrollbuch.
 
 
 3.  Ein Fahrzeug, das aufgrund von Regelungen, die außerhalb der Mosel
     gültig sind, andere Dokumente über die Abgabe von
-    Schiffsbetriebsabfällen führt, muß in diesen anderen Dokumenten den
+    Schiffsbetriebsabfällen führt, muss in diesen anderen Dokumenten den
     Nachweis der Abgabe von Abfällen außerhalb der Mosel erbringen können.
     Als Nachweis in diesem Sinne gilt auch das Öltagebuch nach dem
-    Übereinkommen zur Verhütung der Meeresverschmutzung durch Schiffe
-    (MARPOL).
+    Internationalen Übereinkommen zur Verhütung der Meeresverschmutzung
+    durch Schiffe (Marpol).
 
 
-4.  Hausmüll ist an den dafür vorgesehenen Annahmestellen abzugeben.
+4.  Hausmüll und Klärschlamm sind an den dafür vorgesehenen Annahmestellen
+    abzugeben.
 
 
 
@@ -7347,14 +7653,15 @@ halten.
         Peileinrichtung liegt,
 
 
-    b)  bei separater Befüllung der Tanks die Absperrventile innerhalb der
-        Tankverbindungsrohrleitungen geschlossen sind,
+    b)  bei separater Befüllung der Brennstofftanks die Absperrventile
+        innerhalb der Verbindungsrohrleitungen der Brennstofftanks geschlossen
+        sind,
 
 
-    c)  der Bunkervorgang überwacht wird.
+    c)  der Bunkervorgang überwacht wird und
 
 
-    d)  eine der Einrichtungen nach § 8.05 Nummer 10
+    d)  eine der Einrichtungen nach § 8.05 Nummer 10 Buchstabe a der
         Rheinschiffsuntersuchungsordnung oder einer gleichwertigen Vorschrift
         der Moseluferstaaten genutzt wird.
 
@@ -7366,20 +7673,23 @@ halten.
     Bunkervorgang verantwortlichen Personen der Bunkerstelle und des
     Fahrzeugs vor Beginn des Bunkervorgangs Folgendes festgelegt haben:
 
-    a)  Die Sicherstellung der Funktionsfähigkeit des Systems nach § 8.05
-        Nummer 11 Rheinschiffsuntersuchungsordnung oder einer gleichwertigen
-        Vorschrift der Moseluferstaaten und einer Sprechverbindung zwischen
-        Schiff und Bunkerstelle,
+    a)  die Sicherstellung der Funktionsfähigkeit des Systems nach § 8.05
+        Nummer 11 der Rheinschiffsuntersuchungsordnung oder einer
+        gleichwertigen Vorschrift der Moseluferstaaten,
 
 
-    b)  die zu bunkernde Menge je Tank und die Einfüllleistung, insbesondere
-        im Hinblick auf mögliche Tankentlüftungsprobleme,
+    b)  eine Sprechverbindung zwischen Schiff und Bunkerstelle,
 
 
-    c)  die Reihenfolge der Tankbefüllung und
+    c)  die zu bebunkernde Menge je Brennstofftank und die Einfüllleistung,
+        insbesondere im Hinblick auf mögliche Entlüftungsprobleme des
+        Brennstofftanks,
 
 
-    d)  die Fahrgeschwindigkeit, wenn während der Fahrt gebunkert wird.
+    d)  die Reihenfolge der Befüllungen des Brennstofftanks und
+
+
+    e)  die Fahrgeschwindigkeit, wenn während der Fahrt gebunkert wird.
 
 
 
@@ -7391,18 +7701,152 @@ halten.
 
 
 
+Sorgfaltspflicht beim Bunkern von Flüssigerdgas (LNG)
 
-#### § 11.07
-
-(ohne Inhalt)
+#### § 11.07 (Anlage 3: Bild 62)
 
 
-#### § 11.08 Bilgenentölungsboote
+1.  Die in § 11.06 Nummer 1 Buchstabe a und Buchstabe b und Nummer 2
+    Buchstabe a und e genannten Vorschriften gelten nicht beim Bunkern von
+    Flüssigerdgas (LNG).
 
-Von dem Verbot nach § 11.03 Nr. 1 ist die Einleitung von separiertem
-Wasser aus zugelassenen Bilgenentölungsbooten in die Wasserstraße
-ausgenommen, wenn der maximale Restölgehalt des Auslaufs ständig und
-ohne vorherige Verdünnung den nationalen Bestimmungen entspricht.
+
+2.  Das Bunkern von Flüssigerdgas (LNG) während der Fahrt, beim Umschlag
+    von Gütern sowie beim Ein- und Aussteigen von Fahrgästen ist nicht
+    gestattet.
+
+
+3.  Das Bunkern von Flüssigerdgas (LNG) darf nur an den von der
+    zuständigen Behörde bekannt gegebenen Stellen erfolgen.
+
+
+4.  Im Bunkerbereich dürfen sich nur Besatzungsmitglieder des zu
+    bebunkernden Fahrzeugs, Mitarbeiter der Bunkerstelle oder Personen
+    aufhalten, die über eine von der zuständigen Behörde erteilte
+    Erlaubnis verfügen.
+
+
+5.  Vor Beginn des Bunkerns von Flüssigerdgas (LNG) hat sich der
+    Schiffsführer des zu bebunkernden Fahrzeugs zu vergewissern, dass
+
+    a)  das zu bebunkernde Fahrzeug so festgemacht ist, dass Kabel,
+        insbesondere die elektrischen Kabel, die Erdungskabel und die
+        Schlauchleitungen nicht aufgrund von Zug verformt werden und die
+        Fahrzeuge bei Gefahr rasch losgemacht werden können,
+
+
+    b)  von ihm oder von einer von ihm beauftragten Person und von der für die
+        Bunkerstelle verantwortlichen Person eine Prüfliste für das Bunkern
+        von Flüssigerdgas (LNG) durch Fahrzeuge, die das Kennzeichen nach §
+        2\.06 tragen, gemäß dem Standard der ZKR ausgefüllt und unterschrieben
+        wurde und alle Fragen in der Prüfliste mit „Ja“ beantwortet sind.
+        Nicht zutreffende Fragen sind zu streichen. Können nicht alle Fragen
+        mit „Ja“ beantwortet werden, ist das Bunkern nur mit Genehmigung der
+        zuständigen Behörde gestattet,
+
+
+    c)  alle erforderlichen Genehmigungen vorliegen.
+
+
+
+
+
+6.  Die Prüfliste nach Nummer 5 Buchstabe b muss
+
+    a)  in zweifacher Ausfertigung ausgefüllt werden,
+
+
+    b)  in mindestens einer Sprache vorliegen, die den in Nummer 5 Buchstabe b
+        bezeichneten Personen verständlich ist, und
+
+
+    c)  drei Monate an Bord des Fahrzeugs aufbewahrt werden.
+
+
+
+
+
+7.  Während des Bunkerns von Flüssigerdgas (LNG) hat sich der
+    Schiffsführer ununterbrochen zu vergewissern, dass
+
+    a)  alle Maßnahmen getroffen sind, um das Austreten von Flüssigerdgas
+        (LNG) aus einer Leckage zu verhindern;
+
+
+    b)  Druck und Temperatur des Brennstofftanks für Flüssigerdgas (LNG) im
+        normalen Betriebszustand bleiben;
+
+
+    c)  der Füllstand des Brennstofftanks für Flüssigerdgas (LNG) zwischen den
+        zulässigen Niveaus bleibt;
+
+
+    d)  Maßnahmen getroffen sind, um das zu bebunkernde Fahrzeug von der
+        Bunkerstelle nach der in der Betriebsanleitung vorgesehenen Methode zu
+        erden.
+
+
+
+
+
+8.  Während des Bunkerns von Flüssigerdgas (LNG)
+
+    a)  muss das zu bebunkernde Fahrzeug zusätzlich zur Kennzeichnung nach §
+        2\.06 eine für andere Fahrzeuge sichtbare Tafel führen, die darauf
+        hinweist, dass das Stillliegen in weniger als 10 m Entfernung gemäß §
+        3\.33 verboten ist. Die Seitenlänge des Quadrats dieser Tafel muss
+        mindestens 60 cm betragen;
+
+
+    b)  muss das zu bebunkernde Fahrzeug zusätzlich zur Kennzeichnung nach §
+        2\.06 an einer für andere Fahrzeuge sichtbaren Stelle die Tafel A.9
+        führen, die darauf hinweist, dass Wellenschlag zu vermeiden ist
+        (Anlage 7). Die Abmessung der längsten Seite muss mindestens 60 cm
+        betragen;
+
+
+    c)  müssen bei Nacht die Tafeln so beleuchtet sein, dass sie auf beiden
+        Seiten des Fahrzeugs deutlich sichtbar sind.
+
+
+
+
+
+9.  Nach dem Bunkern von Flüssigerdgas (LNG) ist Folgendes erforderlich:
+
+    a)  vollständige Entleerung der Rohrleitungen für das Bunkern von
+        Flüssigerdgas (LNG) bis zum Brennstofftank;
+
+
+    b)  Schließen der Ventile, Trennen der Schlauchleitungen und der
+        Verbindung zwischen Fahrzeug und Bunkerstelle für Flüssigerdgas (LNG);
+
+
+    c)  Meldung an die zuständige Behörde, dass das Bunkern abgeschlossen ist.
+
+
+
+
+
+
+
+
+#### § 11.08 Sammlung, Abgabe und Annahme von Abfällen aus dem Ladungsbereich
+
+
+1.  Bei der Restentladung sowie bei der Abgabe und Annahme von Abfällen
+    aus dem Ladungsbereich hat der Schiffsführer die Vorschriften des
+    Teils B der Anwendungsbestimmung des CDNI einzuhalten.
+
+
+2.  Jedes Fahrzeug, das auf der Mosel entladen wurde, muss für jede
+    Entladung eine gültige Entladebescheinigung an Bord haben, die nach
+    dem Muster des Anhangs IV der Anlage 2 des CDNI ausgestellt sein muss.
+    Vorbehaltlich der im CDNI vorgesehenen Ausnahmen ist die Bescheinigung
+    nach ihrer Ausstellung mindestens sechs Monate an Bord aufzubewahren.
+
+
+
 
 
 #### § 11.09 Anstrich und Außenreinigung der Fahrzeuge
@@ -7743,7 +8187,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 *
     § 3.10 Schubverbände
 
-        Nr. 1 Buchstabe c: Außer dem schiebenden Fahrzeug mehr als zwei von
+        Nr. 1 Buchstabe c: Außer dem schiebenden Fahrzeug zwei oder mehr von
         hinten in ganzer Breite sichtbare Fahrzeuge
 
 
@@ -8357,7 +8801,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 ... nicht darstellbare 2 Bilder 62
 
 *
-    § 3.33 Verbot des Stilliegens nebeneinander
+    § 3.33 Verbot des Stillliegens nebeneinander
+
+
+    § 11.07 Nummer 8 Buchstabe a Sorgfaltspflicht beim Bunkern von Flüssigerdgas
+        (LNG)
 
 
 
@@ -8365,6 +8813,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 ... nicht darstellbare 2 Bilder 63
+
+*    *   Nachtbezeichnung
+
+    *   Bild
+
+    *   Tagbezeichnung
+
+
+*    *        ![bgbl2_2014_j0364_0001.jpg](bgbl2_2014_j0364_0001.jpg)
+    *   65
+
+    *        ![bgbl2_2014_j0364_0002.jpg](bgbl2_2014_j0364_0002.jpg)
+
+*    *   § 3.34: Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von
+        Tauchern
+
+
+
 
 *
     § 6.04 Begegnen
@@ -8376,6 +8842,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+
+
+*    *   NACHTBEZEICHNUNG
+
+    *   Bild
+
+    *   TAGBEZEICHNUNG
+
+
+*    *        ![bgbl2_2017_j0329_0010.jpg](bgbl2_2017_j0329_0010.jpg)
+    *   66
+
+    *        ![bgbl2_2017_j0329_0020.jpg](bgbl2_2017_j0329_0020.jpg)
+
+
+   § 2.06 Kennzeichnung der Fahrzeuge, die Flüssigerdgas (LNG) als
+Brennstoff nutzen
 
 
 #### Anlage 4
@@ -8803,22 +9286,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     A. Verbotszeichen
 
-    A.1 Verbot der Durchfahrt (allgemeines Zeichen); (§ 3.25 Nr. 1 Buchstabe
-        b, § 6.08 Nr. 2, § 6.16 Nr. 4, § 6.22 Nr. 1, § 6.22a, § 6.25 Nr. 1, §
-        6\.27 Nr. 1 und § 6.28a Nr. 3)
 
-        entweder rote Tafeln
+    *        *   A.1
+            Verbot der Durchfahrt (allgemeines Zeichen); (§ 3.25 Nummer 1
+            Buchstabe b, § 6.08 Nummer 2, § 6.16 Nummer 4, § 6.22 Nummer 1, §
+            6\.22a, § 6.25 Nummer 1, § 6.27 und § 6.28a Nummer 3)
 
-        oder rote Lichter
+        *
 
-        oder rote Flaggen.
+    *        *   entweder Tafeln
 
-        ... nicht darstellbare Flaggen
+        *            ![bgbl2_2014_j0371_0001.jpg](bgbl2_2014_j0371_0001.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 38 v. 16.9.1997, S. 96)
+    *        *   oder rote Lichter
 
-        Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet
-        dies ein langdauerndes Verbot.
+        *            ![bgbl2_2014_j0371_0002.jpg](bgbl2_2014_j0371_0002.jpg)
+
+    *        *   oder rote Flaggen.
+
+        *            ![bgbl2_2014_j0371_0003.jpg](bgbl2_2014_j0371_0003.jpg)
+
+    *        *   Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet
+            dies ein langdauerndes Verbot.
+
+        *
+
 
 
     A.1a Gesperrte Wasserflächen; jedoch für Kleinfahrzeuge ohne
@@ -8893,9 +9385,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         ... nicht darstellbares Tafelzeichen
 
 
-    A.9 Vermeidung von Wellenschlag.
+    A.9 Vermeidung von Wellenschlag
 
-        (§ 6.20 Nr. 1 Buchstabe e)
+        (§ 6.20 Nummer 1 Buchstabe e und § 11.07 Nummer 8 Buchstabe b)
 
         ... nicht darstellbares Tafelzeichen
 
@@ -9591,20 +10083,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     **I.** **Allgemeines**
 
 
-    1.  Schiffahrtszeichen
+    1.  Schifffahrtszeichen
 
-        Schiffahrtszeichen zur Bezeichnung der Wasserstraße, der Fahrrinne und
-        von gefährlichen Stellen und Hindernissen werden auf dem Mosel nicht
-        durchgehend gesetzt.
+        Schifffahrtszeichen zur Bezeichnung der Wasserstraße, der Fahrrinne
+        und von gefährlichen Stellen und Hindernissen werden auf der Mosel
+        nicht durchgehend gesetzt.
 
-        Schwimmende Schiffahrtszeichen werden etwa 5,00 m außerhalb der durch
+        Schwimmende Schifffahrtszeichen werden etwa 5,00 m außerhalb der durch
         sie bezeichneten Begrenzungen verankert.
 
         Buhnen und Parallelwerke können durch schwimmende oder feste
-        Schiffahrtszeichen bezeichnet sein. Diese sind im allgemeinen vor oder
-        auf den Buhnenköpfen und Parallelwerken angebracht.
+        Schifffahrtszeichen bezeichnet sein. Diese sind im Allgemeinen vor
+        oder auf den Buhnenköpfen und Parallelwerken angebracht.
 
-        Von den Zeichen muß ein ausreichender Abstand gehalten werden, da
+        Von den Zeichen muss ein ausreichender Abstand gehalten werden, da
         sonst Gefahr besteht, zu raken oder aufzulaufen.
 
 
@@ -9738,7 +10230,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         (in der Regel mit Radarreflektor)
 
 
-    4.  Zusammenspiel der Bilder 1 bis 3                          (Beispiel)
+    4.  Zusammenspiel der Bilder 1 bis 3 (Beispiel)
 
         ... nicht darstellbares Bild 4
 
@@ -9869,8 +10361,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     **V.** **Zusätzliche Zeichen für die Radarschiffahrt**
 
 
-    A.  Bezeichnung von Brückenpfeilern                          (falls
-        erforderlich)
+    A.  Bezeichnung von Brückenpfeilern (falls erforderlich)
 
 
     1.  Gelbe Tonne mit Radarreflektoren
@@ -9889,8 +10380,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         ... nicht darstellbares Bild 16
 
 
-    B.  Bezeichnung von Freileitungen                          (falls
-        erforderlich)
+    B.  Bezeichnung von Freileitungen (falls erforderlich)
 
 
     1.  Radarreflektoren an Freileitung befestigt
@@ -9937,193 +10427,581 @@ Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 38 v.
 
 #### Anlage 10
 
-(Fundstelle: Anlageband zum BGBl. II Nr. 33, 1331)
-Modele de carnet de controle des huiles usees
-(Article 11.05)
+(Fundstelle: BGBl. II 2014, 367 — 371)
+
+Modèle de carnet de contrôle des huiles usées
+[^bjnr167030997bjne013502305_01_BJNR167030997BJNE013502305]
+(Article 11.05 RPNM; annexe 2, appendice I CDNI
+## )
+
 Muster für das Ölkontrollbuch
-(§ 11.05)
-Model von het olie-afgifteboekje
-(Artikel 11.05)
----------------
-Carnet de controle des huiles usees
-Ölkontrollbuch
-Olie-Afgifteboekje
-Page/Seite/Blz. 1
-No d'ordre:
-Laufende Nr.: ..............
-Volgnummer:
------------------------
-------------------------------------------
-Typ/Art/Aard                     Nom du bateau/Name des Schiffes/
-Naam van het schip
-Numéro européen unique d’identification
-des bateaux ou numéro officiel:
-Einheitliche europäische Schiffsnummer
-der amtliche Schiffsnummer: .......................................
-Uniek Europees scheepsidentificatienummer
-of officieel scheepnummer:
-Lieu de delivrance:
-Ort der Ausstellung:
-------------------------------------------
-Plaats van afgifte:
-Date de delivrance:
-Datum der Ausstellung:
-------------------------------------------
-Datum van afgifte:
-------------------------------------------
-Cachet et signature de l'autorite qui a
-delivre le present carnet
-Stempel und Unterschrift der ausstellenden
-Behörde
-Stempel en ondertekening van de autoriteit
-die het boek afgeeft
+(§ 11.05 MoselSchPV; Anlage 2, Anhang I CDNI
+## )
 
-*
+Model van het olie-afgifteboekje
+(Artikel 11.05 RPM; bijlage 2, aanhangsel I CDNI
+## )
+
+
+*    *   Carnet de contrôle des huiles usées
+
+
+*    *   Ölkontrollbuch
+
+
+*    *   Olie-Afgifteboekje
+
+
+
+
+*    *   Page/Seite/Bladzijde 1
+
     *
-        *
-            *   Etablissement des carnets de controle des huiles usees
-
-
-
-
-
-
-
-
-
-
-
-
-Le premier carnet de controle des huiles usees etabli sur la page 1
-sous le numero d'ordre 1 n'est delivre que par l'autorite ayant etabli
-au bateau le certificat de visite. Cette autorite appose egalement les
-indications prevues sur la page 1.
-Tous les carnets suivants numerotes dans l'ordre seront etablis par
-une autorite competente locale, mais ne doivent etre remis quie contre
-presentation du carnet precedent. Le carnet precedent doit porter la
-mention indelebile "non valable" et est rendu au conducteur. Il doit
-etre conserve a bord durant six mois apres la derniere inscription.
-
-
-*
     *
-        *
-            *   Ausstellung der Ölkontrollbücher
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *   No d’ordre:
+
+
+*    *
+    *
+    *   Laufende Nr.: ………………………
+
+
+*    *
+    *
+    *   Volgnummer:
+
+
+*    *
+    *
+    *
+
+*    *   …………………………………………………….
+
+    *   …………………………………………………………………………………….
+
+
+*    *   Type de bâtiment
+
+    *   Nom du bâtiment/Name des Fahrzeugs/Naam van het schip
+
+
+*    *   Art des Fahrzeugs
+
+    *
+    *
+
+*    *   Aard van het schip
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Numéro européen unique d’identification des bateaux ou numéro
+        officiel:
+
+    *
+    *
+
+*    *   Einheitliche europäische Schiffsnummer oder amtliche Schiffsnummer:
+
+    *   …………………………………………………………………………………….
+
+
+*    *   Uniek Europees scheepsidentificatienummer of officieel scheepnummer:
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Lieu de délivrance:
+
+    *
+    *
+
+*    *   Ort der Ausstellung:
+
+    *   …………………………………………………………………………………….
+
+
+*    *   Plaats van afgifte:
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Date de délivrance:
+
+    *
+    *
+
+*    *   Datum der Ausstellung:
+
+    *   …………………………………………………………………………………….
+
+
+*    *   Datum van afgifte:
+
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *   Le présent carnet comprend
+
+    *   ……………… pages.
+
+    *
+
+*    *   Dieses Buch enthält
+
+    *   ……………… Seiten.
+
+    *
+
+*    *   Dit boekje telt
+
+    *   ……………… bladzijden.
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   …………………………………………………………………………………….
+
+
+*    *
+    *   Cachet et signature de l'autorité qui a délivré le présent carnet
+
+
+*    *
+    *   Stempel und Unterschrift der ausstellenden Behörde
+
+
+*    *
+    *   Stempel en ondertekening van de autoriteit die het boek afgeeft
 
 
 
+Page/Seite/Bladzijde 2
 
+## Etablissement des carnets de contrôle des huiles usées
 
+Le premier carnet de contrôle des huiles usées, muni sur la page 1 du
+numéro d’ordre 1, est délivré par une autorité compétente sur
+présentation du certificat de visite en cours de validité ou d’un
+autre certificat reconnu comme étant équivalent. Cette autorité appose
+également les indications prévues sur la page 1.
 
+Tous les carnets suivants seront établis et numérotés dans l’ordre par
+une autorité compétente. Toutefois, ils ne doivent être remis que sur
+présentation du carnet précédent. Le carnet précédent doit recevoir la
+mention indélébile «non valable». Après son renouvellement, le carnet
+précédent doit être conservé à bord durant au moins six mois à compter
+de la dernière inscription.
 
-
-
-
-
+## Ausstellung der Ölkontrollbücher
 
 Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden
-Nummer 1, wird nur von der Behörde ausgestellt, die dem Schiff das
-Schiffsattest erteilt hat. Sie trägt auch die auf Seite 1 vorgesehenen
+Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des
+gültigen Schiffsattestes oder eines als gleichwertig anerkannten
+Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen
 Angaben ein.
-Alle nachfolgenden Ölkontrollbücher werden von einer örtlich
-zuständigen Behörde mit der Folgenummer numeriert und ausgegeben,
-dürfen jedoch nur gegen Vorlage des vorangegangenen Ölkontrollbuches
-ausgehändigt werden. Das vorangegangene Ölkontrollbuch wird
-unaustilgbar "ungültig" gekennzeichnet und dem Schiffsführer
-zurückgegeben. Es ist während 6 Monaten nach der letzten Eintragung an
-Bord aufzubewahren.
 
+Alle nachfolgenden Ölkontrollbücher werden von einer zuständigen
+Behörde mit der Folgenummer nummeriert und ausgegeben. Sie dürfen
+jedoch nur gegen Vorlage des vorhergehenden Kontrollbuches
+ausgehändigt werden. Das vorhergehende Kontrollbuch wird unaustilgbar
+„ungültig“ gekennzeichnet. Nach seiner Erneuerung muss das
+vorhergehende mindestens sechs Monate nach der letzten Eintragung an
+Bord aufbewahrt werden.
 
-*
-    *
-        *
-            *   Afgifte van het olie-afgifteboekje
-
-
-
-
-
-
-
-
-
-
-
+## Afgifte van het olie-afgifteboekje
 
 Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het
-volgnummer 1, wordt slechts afgegeven door de autoriteit die het
-Certificaat van Onderzoek heeft afgegeven. Deze autoriteit vult tevens
-de gegevens op bladzijde 1 in.
-Alle volgende olie-afgifteboekjes worden door een plaatselijk bevoegde
-autoriteit afgegeven nadat deze daarop het aansluitende volgnummer
-heeft aangebracht. Leder volgend olie-afgifteboekje mag echter slechts
-na overleggen van het vorige boekje worden afgegeven. Het vorige
-boekje wordt, nadat het op onuitwisbare wijze als "ongeldig" is
-gemerkt, aan de schipper teruggegeven. Het dient gedurende 6 maanden
-na de laatste vermelding van een afgifte aan boord te worden bewaard.
-1\.                 Dechets acceptes survenant lors de
-**l'exploitation du bateau:**
-Akzeptierte Schiffsbetriebsabfälle:
-Ingenomen scheepsbedrijfsafval:
-1\.1 Huiles ueees/Altöl/afgewerkte olie     ........... l
-1\.2 Eau de fond de cale/Bilgenwasser/
-Bilgewater
-de/aus/van:                            ........... l
-Salle de machine arriere/Maschinenraum
-hinten/maschinekamer achter            ........... l
-Salle de machine avant/Maschinenraum
-vorne/maschinekamer voor               ........... l
-Autres/Andere/overige                  ........... l
-1\.3 Autres dechets huileux ou graisseux/
-Andere öl- oder fetthaltige Abfälle/
-Overig oiiehoudend afval
-p.e./z.B./bv.:
-Chiffons uses/Altlappen/gebruikte
-poetslappen                            ........... kg
-Graisses usees/Altfett/gebruikt vet    ........... kg
-Filtres uses/Altfilter/gebruikte
-filters                                ........... pieces/Stck/Stk
-1\.4 Autres dechets/anderweitige Abfälle/
-overig afval
-p.e./z.B./bv.\*2):
-recipients/Gebinde/     unite/Anzahl/
-vepakkingen             aantaal        ...........
-diluants usages/gebrauchte
-Lösungsmittel/gebruikte oplosmiddelen  ........... \*1) \*2)
-autres/Andere/overige                  ...........
-....................................................................
-....................................................................
-2\. **Notes/Bemerkungen/Opmerkingen:**
-2\.1 Produits refuses/Nicht akzeptierte
-Abfälle/niet geaccepteerde producten   ...........
-....................................................................
-....................................................................
-2\.2 Autres remarques/Andere Bemerkungen/
-andere opmerkingen:
-....................................................................
-....................................................................
-Lieu                                Date
-Ort ............................    Datum
-..............................
-Plaats                              Datum
-.....................................................
-Cachet et signature de la station de reception
-Stempel und Unterschrift der Annahmestelle
-Handtekening en stempel van het ontvangstinrichting
-----------------------------------------------------------------------
---
-\*1) Quantites estimees/Mengen geschätzt/Hoeveelheden geschat.
-\*2) Tutes les stations de reception ne sont pas obligees ou
-autorisees de recevoir ces dechets/
-Nicht alle Annahmestellen sind verpflichtet oder berechtigt, diese
-Abfälle abzunehmen/
-Niet alle ontvangstinrichtingen zijn verpflicht of gerechtigd dit
-afval in te nemen.
+volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het
+geldige certificaat van onderzoek of van een gelijkwaardig erkend
+bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde
+1 in.
+
+Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit
+afgegeven nadat deze daarop het aansluitende volgnummer heeft
+aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na
+overleggen van het vorige boekje worden afgegeven. Het vorige boekje
+wordt op onuitwisbare wijze als „ongeldig“ gemerkt. Na het verkrijgen
+van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende
+tenminste zes maanden na de laatste daarin vermelde datum van afgifte
+aan boord worden bewaard.
+
+Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
 
 
-#### Anlage 11
+*    *   1.
 
-(weggefallen)
+    *   **Déchets huileux et graisseux survenant lors de l’exploitation du
+        bâtiment acceptés:**
+
+
+*    *
+    *   **Akzeptierte öl- und fetthaltige Schiffsbetriebsabfälle:**
+
+
+*    *
+    *   **Geaccepteerde olie- en vethoudende scheepsbedrijfsafvalstoffen:**
+
+
+*    *
+    *
+    *
+
+*    *   1.1
+
+    *   Huiles usées/Altöl/afgewerkte olie
+
+    *   ………………… l
+
+
+*    *
+    *
+    *
+
+*    *   1.2
+
+    *   Eau de fond de cale de/Bilgenwasser aus/Bilgewater van
+
+    *
+
+*    *
+    *   Salle des machines arrière/Maschinenraum hinten/ machinekamer achter
+
+    *   ………………… l
+
+
+*    *
+    *   Salle des machines avant/Maschinenraum vorne/ machinekamer voor
+
+    *   ………………… l
+
+
+*    *
+    *   Autres locaux/Andere Räume/andere ruimte
+
+    *   ………………… l
+
+
+*    *
+    *
+    *
+
+*    *   1.3
+
+    *   Autres déchets huileux ou graisseux/
+        Andere öl- oder fetthaltige Abfälle/
+        Overige olie- of vethoudende afvalstoffen
+
+    *
+
+*    *
+    *   Chiffons usés/Altlappen/gebruikte poetslappen
+
+    *   ………………… kg
+
+
+*    *
+    *   Graisses usées/Altfett/afgewerkt vet
+
+    *   ………………… kg
+
+
+*    *
+    *   Filtres usés/Altfilter/gebruikte filter
+
+    *   ………………… pièces/Stück/stuk
+
+
+*    *
+    *   Récipients/Gebinde/verpakkingen
+
+    *   ………………… pièces/Stück/stuk
+
+
+*    *
+    *
+    *
+
+*    *   2.
+
+    *   **Notes/Bemerkungen/Opmerkingen:**
+
+    *
+
+*    *
+    *
+    *
+
+*    *   2.1
+
+    *   Déchets refusés/Nicht akzeptierte Abfälle/ niet geaccepteerd afval
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *
+    *
+
+*    *   2.2
+
+    *   Autres remarques/Andere Bemerkungen/andere opmerkingen:
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...............................................................
+
+
+*    *
+    *
+    *
+
+*    *
+    *   Lieu
+
+    *   Date
+
+
+*    *
+    *   Ort ……………………………………………………………………
+
+    *   Datum ………………………………………………………………..
+
+
+*    *
+    *   Plaats
+
+    *   Datum
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *
+    *   …………………………………………………………………………………….
+
+
+*    *
+    *
+    *   Cachet et signature de la station de réception
+
+
+*    *
+    *
+    *   Stempel und Unterschrift der Annahmestelle
+
+
+*    *
+    *
+    *   Ondertekening en stempel van het ontvangstinrichting
+
+
+
+[^bjnr167030997bjne013502305_01_BJNR167030997BJNE013502305]:     Convention relative à la collecte, au dépôt et à la réception des
+    déchets survenant en navigation rhénane et intérieure (CDNI).
+    Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in
+    der Rhein- und Binnenschifffahrt (CDNI). Verdrag inzake de
+    verzameling, afgifte en inname van afval in de Rijn- en binnenvaart
+    (CDNI).
+
+
+#### Anlage 11 Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen des „Navigationsstatus“ und des „Bezugspunktes der Positionsinformation auf dem Fahrzeug“
+
+(Fundstelle: BGBl. II 2015, 1020)
+
+
+**1.** **Navigationsstatus**
+
+
+    *        *   0
+
+        *   under way using engine
+
+        *   in Fahrt mit Motorkraft
+
+
+    *        *   1
+
+        *   at anchor
+
+        *   vor Anker
+
+
+    *        *   2
+
+        *   not under command
+
+        *   manövrierunfähig
+
+
+    *        *   3
+
+        *   restricted manoeuvrability
+
+        *   manövrierbehindert
+
+
+    *        *   4
+
+        *   constrained by her draught
+
+        *   durch Tiefgang beschränkt
+
+
+    *        *   5
+
+        *   moored
+
+        *   festgemacht
+
+
+    *        *   6
+
+        *   aground
+
+        *   auf Grund
+
+
+    *        *   7
+
+        *   engaged in fishing
+
+        *   beim Fischfang
+
+
+    *        *   8
+
+        *   under way sailing
+
+        *   in Fahrt unter Segel
+
+
+    *        *   9 bis 13
+
+        *   reserved for future uses
+
+        *   reserviert für künftige Nutzung
+
+
+    *        *   14
+
+        *   AIS-SART (active);
+
+        *   AIS-SART (aktiv)
+
+
+    *        *   15
+
+        *   Not defined
+
+        *   nicht definiert
+
+
+
+
+
+**2.** **Bezugspunkt der Positionsinformation auf dem Fahrzeug**
+
+    Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit
+    von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+    *        *            ![bgbl2_2015_j1020_0010.JPG](bgbl2_2015_j1020_0010.JPG)
+
+    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+
+
+    *        *            ![bgbl2_2015_j1020_0020.JPG](bgbl2_2015_j1020_0020.JPG)
+
+    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband
+
+
+
+
+
+
 
 
 #### Anlage 12

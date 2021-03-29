@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 1. 7.1997 I 1625;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 20.12.2011 I 2854
+:   Art. 11 G v. 20.11.2015 I 2010
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -185,9 +185,9 @@ Sozialgesetzbuch erstattet.
 (1) Verfolgte nach § 1 Abs. 1 mit Wohnsitz oder gewöhnlichem
 Aufenthalt im Geltungsbereich dieses Gesetzes, die in ihrer
 wirtschaftlichen Lage besonders beeinträchtigt sind, erhalten auf
-Antrag Ausgleichsleistungen in Höhe von 184 Euro monatlich. Wenn der
+Antrag Ausgleichsleistungen in Höhe von 214 Euro monatlich. Wenn der
 Verfolgte eine Rente aus der gesetzlichen Rentenversicherung aus
-eigener Versicherung bezieht, betragen die Ausgleichsleistungen 123
+eigener Versicherung bezieht, betragen die Ausgleichsleistungen 153
 Euro monatlich.
 
 (2) Ausgleichsleistungen werden nicht gewährt, wenn die in der
@@ -217,8 +217,9 @@ die folgende maßgebliche Einkommensgrenze nicht übersteigt:
 
 Bei der Einkommensermittlung nach Satz 1 ist bei nicht dauernd
 getrennt lebenden Ehegatten das Einkommen beider Ehegatten zu
-berücksichtigen. Für Personen, die in eheähnlicher Gemeinschaft leben,
-gelten die Sätze 1 und 2 entsprechend.
+berücksichtigen. Für Personen, die eine Lebenspartnerschaft führen
+oder in eheähnlicher oder lebenspartnerschaftsähnlicher Gemeinschaft
+leben, gelten die Sätze 1 und 2 entsprechend.
 
 (4) Übersteigt das ermittelte Einkommen die maßgebliche
 Einkommensgrenze um einen Betrag, der geringer ist als der Betrag der
@@ -677,7 +678,11 @@ Verwaltungszustellungsgesetzes und des Verwaltungs-
 Vollstreckungsgesetzes.
 
 (4) Für das Verfahren nach dem Zweiten und Dritten Abschnitt gelten
-das Erste und Zehnte Buch Sozialgesetzbuch.
+das Erste und Zehnte Buch Sozialgesetzbuch.Führt eine Änderung dieses
+Gesetzes zu einer Änderung laufend gewährter Ausgleichsleistungen nach
+§ 8 Absatz 1, sind diese von Amts wegen neu festzustellen. Von einer
+förmlichen Bescheiderteilung kann abgesehen werden; ausgenommen
+hiervon sind Fälle nach § 8 Absatz 4.
 
 
 ### § 26 Kosten

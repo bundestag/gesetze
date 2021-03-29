@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 286
 
+Geändert durch
+:   Art. 41 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -871,10 +874,12 @@ Industriemeisterin – Fachrichtung Kraftverkehr vom 25. August 1982
 (BGBl. I S. 1245), die zuletzt durch Artikel 14 der Verordnung vom 25.
 August 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
+(zu § 7 Absatz 6)
 
-## Anlage 1 (zu § 7 Absatz 6) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2012, 292)
+(Fundstelle: BGBl. I 2012, 292;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   .........................................
@@ -910,8 +915,13 @@ Geprüfter Meister für Kraftverkehr
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Meister für Kraftverkehr und Geprüfte
-Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S. 286)
-bestanden.
+Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S. 286), die
+durch Artikel 41 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist, bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -926,10 +936,12 @@ bestanden.
 
 
 
+(zu § 7 Absatz 6)
 
-## Anlage 2 (zu § 7 Absatz 6) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2012, 293 - 294)
+(Fundstelle: BGBl. I 2012, 293 - 294;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -972,7 +984,8 @@ Geprüfter Meister für Kraftverkehr
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Geprüfter Meister für Kraftverkehr und
 Geprüfte Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S.
-286) mit folgenden Ergebnissen bestanden:
+286), die durch Artikel 41 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *   Gesamtnote: ............................
@@ -980,7 +993,7 @@ Geprüfte Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S.
 
 *    *
     *
-    *[^f1775540_01_BJNR028600012BJNE001300001]
+    *[^f1775540_01_BJNR028600012BJNE001301377]
    Punkte
 
     *
@@ -1143,6 +1156,10 @@ Geprüfte Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S.
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
         ......................................................................
@@ -1157,6 +1174,6 @@ Geprüfte Meisterin für Kraftverkehr vom 9. Februar 2012 (BGBl. I S.
 
 
 
-[^f1775540_01_BJNR028600012BJNE001300001]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^f1775540_01_BJNR028600012BJNE001301377]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .......................
 

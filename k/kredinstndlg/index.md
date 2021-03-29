@@ -221,13 +221,12 @@ wäre, übersteigt.
 (3) Die Ermäßigung erstreckt sich nicht auf die Zusatzgebühr für
 Beurkundungen außerhalb der Gerichtsstelle und für fremdsprachliche
 Erklärungen
-(§§ 52, 53 der Kostenordnung).              Die Gebühr für die
-Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag der
-für das Geschäft selbst zu erhebenden ermäßigten Gebühr nicht
-übersteigen.
+(§§ 52, 53 der Kostenordnung). Die Gebühr für die Beurkundung
+außerhalb der Gerichtsstelle darf jedoch den Betrag der für das
+Geschäft selbst zu erhebenden ermäßigten Gebühr nicht übersteigen.
 
 (4) Die Bestimmungen über die Mindestgebühr
-(§ 26 Abs. 3, § 72 der Kostenordnung)              bleiben unberührt.
+(§ 26 Abs. 3, § 72 der Kostenordnung) bleiben unberührt.
 
 
 ## § 13

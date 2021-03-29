@@ -3,7 +3,7 @@ Title: Gesetz zur Gewährleistung der Geheimhaltung der dem Statistischen Amt de
   Gemeinschaften übermittelten vertraulichen Daten
 jurabk: SAEGÜSchG
 layout: default
-origslug: saeg_schg
+origslug: saegueschg
 slug: saegueschg
 
 ---

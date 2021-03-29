@@ -542,8 +542,9 @@ Medientechnologin Druckverarbeitung um zwei Jahre verkürzt werden.
 
 Diese Verordnung tritt am 1. August 2011 in Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Medientechnologen Druckverarbeitung und zur Medientechnologin Druckverarbeitung
 
 (Fundstelle: BGBl. I 2011, 980 - 987)
 

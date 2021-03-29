@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 2180
 
 Zuletzt geändert durch
-:   Art.2 V v. 20.12.2010 I 2194
+:   Art. 5 V v. 24.3.2017 I 656
 
 
 ## Erster Teil - Anwendungsbereich, Begriffsbestimmungen
@@ -35,14 +35,15 @@ genannten Schwellenwerte überschreitet. Bei Anlagen, in denen eine
 bestimmte Tätigkeit in mehreren Teilanlagen, Verfahrensschritten oder
 Nebeneinrichtungen ausgeführt wird, ist für den Lösemittelverbrauch
 nach Satz 1 die Summe der jeweiligen Teillösemittelverbräuche
-maßgebend.
+maßgebend. Das Vorhandensein gemeinsamer, verbindender
+Betriebseinrichtungen zwischen den Teilanlagen ist nicht erforderlich.
 
 (2) Diese Verordnung gilt nicht für Anlagen nach der Zweiten
 Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes, in
 denen organische Lösemittel, die flüchtige halogenierte organische
-Verbindungen mit einem Siedepunkt bei 1013 mbar bis zu 423 Kelvin (150
-Grad C) (leichtflüchtige halogenierte organische Verbindungen)
-enthalten, verwendet werden.
+Verbindungen mit einem Siedepunkt bei 1013 Hektopascal bis zu 423
+Kelvin (150 Grad Celsius) (leichtflüchtige halogenierte organische
+Verbindungen) enthalten, verwendet werden.
 
 
 ### § 2 Begriffsbestimmungen
@@ -111,11 +112,11 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 5.  Beschichtungsstoff:
 
-    ein Gemisch, einschließlich aller organischen Lösemittel oder
-    Gemische, denen für ihre Gebrauchstauglichkeit organische Lösemittel
-    zugesetzt werden, die dazu verwendet wird, auf einer Oberfläche eine
-    dekorative, schützende oder auf sonstige Art und Weise funktionale
-    Wirkung zu erzielen;
+    flüssiges, pasten- oder pulverförmiges Gemisch, einschließlich aller
+    enthaltenen oder für seine Gebrauchstauglichkeit zugesetzten
+    organischen Lösemittel, das dazu verwendet wird, auf einer Oberfläche
+    eine dekorative, schützende oder auf sonstige Art und Weise
+    funktionale Wirkung zu erzielen;
 
 
 6.  diffuse Emissionen:
@@ -165,8 +166,9 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     eine organische Verbindung, die bei 293,15 Kelvin einen Dampfdruck von
     0,01 Kilopascal oder mehr hat oder unter den jeweiligen
     Verwendungsbedingungen eine entsprechende Flüchtigkeit aufweist. Der
-    Kreosotanteil, der bei 293,15 Kelvin diesen Dampfdruck übersteigt,
-    gilt als flüchtige organische Verbindung;
+    Kreosotanteil, der bei 293,15 Kelvin diesen Dampfdruck übersteigt oder
+    unter den jeweiligen Verwendungsbedingungen eine entsprechende
+    Flüchtigkeit aufweist, gilt als flüchtige organische Verbindung;
 
 
 12. gefasste Abgase:
@@ -262,7 +264,15 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     Kilopascal;
 
 
-25. organisches Lösemittel:
+25. öffentlich bestellter und vereidigter Sachverständiger:
+
+    ein nach § 36 der Gewerbeordnung vom 22. Februar 1999 (BGBl. I S.
+    202), die zuletzt durch Artikel 10 des Gesetzes vom 11. März 2016
+    (BGBl. I S. 396) geändert worden ist, öffentlich bestellter und
+    vereidigter Sachverständiger;
+
+
+26. organisches Lösemittel:
 
     eine flüchtige organische Verbindung, die, ohne sich chemisch zu
     verändern, allein oder in Kombination mit anderen Stoffen Rohstoffe,
@@ -272,7 +282,7 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     wird;
 
 
-26. organische Verbindung:
+27. organische Verbindung:
 
     eine Verbindung, die mindestens Kohlenstoff und eines der Elemente
     Wasserstoff, Halogene, Sauerstoff, Schwefel, Phosphor, Silizium oder
@@ -280,14 +290,14 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
     sowie anorganische Karbonate und Bikarbonate;
 
 
-27. Stoffe:
+28. Stoffe:
 
     chemische Elemente und ihre Verbindungen, wie sie natürlich vorkommen
     oder hergestellt werden, unabhängig davon, ob sie fest, flüssig oder
     gasförmig vorliegen;
 
 
-28. wesentliche Änderung:
+29. wesentliche Änderung:
 
     a)  bei genehmigungsbedürftigen Anlagen eine Änderung im Sinne von § 16
         Abs. 1 des Bundes-Immissionsschutzgesetzes;
@@ -336,17 +346,35 @@ Im Sinne dieser Verordnung bedeuten die Begriffe
 
 
 
-29. Wiederverwendung organischer Lösemittel:
+30. Wiederverwendung organischer Lösemittel:
 
     die stoffliche Verwendung von organischen Lösemitteln, die für
     technische oder kommerzielle Zwecke zurückgewonnen worden sind, oder
     deren betriebsinterne energetische Nutzung als Brennstoff;
 
 
-30. Gemische:
+31. Gemische:
 
     aus zwei oder mehreren Stoffen bestehende Gemenge, Gemische oder
-    Lösungen.
+    Lösungen;
+
+
+32. zugelassene Überwachungsstelle:
+
+    Überwachungsstelle, die nach § 17 Absatz 5 des Geräte- und
+    Produktsicherheitsgesetzes vom 6. Januar 2004 (BGBl. I S. 2, 219), das
+    zuletzt durch Artikel 2 des Gesetzes vom 7. März 2011 (BGBl. I S. 338)
+    geändert worden ist, oder nach § 37 Absatz 5 des
+    Produktsicherheitsgesetzes vom 8. November 2011 (BGBl. I S. 2178,
+    2179; 2012 I S. 131) jeweils in Verbindung mit Anhang 2 Abschnitt 1
+    Nummer 1 der Betriebssicherheitsverordnung vom 3. Februar 2015 (BGBl.
+    I S. 49), die zuletzt durch Artikel 2 der Verordnung vom 15. November
+    2016 (BGBl. I S. 2549) geändert worden ist, von der zuständigen
+    Landesbehörde für die Prüfung von überwachungsbedürftigen Anlagen nach
+    § 18 Absatz 1 Nummer 4 bis 8 und nach Anhang 2 Abschnitt 3 Nummer 1
+    der Betriebssicherheitsverordnung dem Bundesministerium für Arbeit und
+    Soziales als Prüfstelle benannt und von diesem im Gemeinsamen
+    Ministerialblatt bekannt gemacht worden ist.
 
 
 
@@ -371,57 +399,35 @@ Anforderungen nach
 eingehalten werden, soweit durch § 4 in Verbindung mit Anhang III
 nichts anderes bestimmt ist.
 
-(2) Der Betreiber einer Anlage hat folgende schädliche Stoffe oder
-Gemische durch weniger schädliche zu ersetzen:
+(2) Der Betreiber einer Anlage hat schädliche Stoffe oder Gemische,
+denen aufgrund ihres Gehaltes an nach der Verordnung (EG) Nr.
+1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
+2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und
+Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und
+1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L
+353 vom 31.12.2008, S. 1), die zuletzt durch die Verordnung (EU)
+2016/918 (ABl. L 156 vom 14.6.2016, S. 1) geändert worden ist, als
+karzinogen, keimzellmutagen oder reproduktionstoxisch eingestuften
+flüchtigen organischen Verbindungen die Gefahrenhinweise H340, H350,
+H350i, H360D oder H360F zugeordnet sind oder die mit diesen Sätzen zu
+kennzeichnen sind, durch weniger schädliche zu ersetzen. Diese Stoffe
+oder Gemische sind in kürzestmöglicher Frist so weit wie möglich zu
+ersetzen, wobei die Gebrauchstauglichkeit, die Verwendung und die
+Verhältnismäßigkeit zwischen Aufwand und Nutzen zu berücksichtigen
+sind. Die Emissionen an flüchtigen organischen Verbindungen, die als
+karzinogen, keimzellmutagen oder reproduktionstoxisch eingestuft sind,
+dürfen, auch beim Vorhandensein mehrerer dieser Verbindungen, einen
+Massenstrom von 2,5 Gramm je Stunde oder im gefassten Abgas eine
+Massenkonzentration von 1 Milligramm je Kubikmeter nicht
+überschreiten. Abweichend von Satz 3 dürfen die Emissionen an
+Formaldehyd einen Massenstrom von 10 Gramm je Stunde oder im gefassten
+Abgas eine Massenkonzentration von 2 Milligramm je Kubikmeter nicht
+überschreiten.
 
-1.  Stoffe oder Gemische, die
-
-    a)  eingesetzt werden und denen aufgrund ihres Gehalts an nach der
-        Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des
-        Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und
-        Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der
-        Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung
-        (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1), die durch die
-        Verordnung (EG) Nr. 790/2009 (ABl. L 235 vom 5.9.2009, S. 1) geändert
-        worden ist, als krebserzeugend, erbgutverändernd oder
-        fortpflanzungsgefährdend eingestuften flüchtigen organischen
-        Verbindungen die Gefahrenhinweise H340, H350, H350i, H360D oder H360F
-        oder die R-Sätze R 45, R 46, R 49, R 60 oder R 61 zugeordnet sind oder
-        die mit diesen Sätzen zu kennzeichnen sind,
-
-
-    b)  ab dem 1. Juni 2015 eingesetzt werden und denen aufgrund ihres Gehalts
-        an nach der Verordnung (EG) Nr. 1272/2008 als krebserzeugend,
-        erbgutverändernd oder fortpflanzungsgefährdend eingestuften flüchtigen
-        organischen Verbindungen die Gefahrenhinweise H340, H350, H350i, H360D
-        oder H360F zugeordnet sind oder die mit diesen Sätzen zu kennzeichnen
-        sind, oder
-
-
-
-
-
-2.  eingesetzte Stoffe oder Gemische, die flüchtige organische
-    Verbindungen enthalten, die nach § 21 Absatz 4 der
-    Gefahrstoffverordnung als Stoffe mit einer krebserzeugenden,
-    erbgutverändernden oder fortpflanzungsgefährdenden Wirkung bekannt
-    gegeben worden sind.
-
-
-
-Diese Stoffe oder Gemische sind in kürzestmöglicher Frist so weit wie
-möglich zu ersetzen, wobei die Gebrauchstauglichkeit, die Verwendung
-und die Verhältnismäßigkeit zwischen Aufwand und Nutzen zu
-berücksichtigen sind. Die Emissionen an flüchtigen organischen
-Verbindungen nach Satz 1 dürfen, auch beim Vorhandensein mehrerer
-dieser Verbindungen, einen Massenstrom von 2,5 Gramm je Stunde oder im
-gefassten Abgas eine Massenkonzentration von 1 Milligramm je
-Kubikmeter nicht überschreiten.
-
-(3) Ab dem 1. Dezember 2010 dürfen die Emissionen flüchtiger
-organischer Verbindungen aus einer Anlage, denen die R-Sätze R 40 oder
-R 68 zugeordnet sind, auch wenn mehrere dieser Verbindungen vorhanden
-sind, folgende Werte nicht überschreiten:
+(3) Die Emissionen flüchtiger organischer Verbindungen dürfen aus
+einer Anlage, denen die Gefahrenhinweise H341 oder H351 zugeordnet
+sind, auch wenn mehrere dieser Verbindungen vorhanden sind, folgende
+Werte nicht überschreiten:
 
 1.  einen Massenstrom von 100 Gramm je Stunde oder
 
@@ -431,14 +437,14 @@ sind, folgende Werte nicht überschreiten:
 
 
 
-Ab dem 1. Juni 2015 gelten diese Emissionsgrenzwerte ebenso für die
-Emissionen flüchtiger organischer Verbindungen aus einer Anlage, denen
-die Gefahrenhinweise H341 oder H351 zugeordnet sind, auch wenn mehrere
-dieser Verbindungen vorhanden sind. Satz 1 ist auch bei anderen als
-den dort genannten Stoffen einzuhalten, soweit diese Stoffe der Nummer
-3\.1.7 Klasse I der Ersten Allgemeinen Verwaltungsvorschrift zum
-Bundes-Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung
-der Luft - TA Luft) vom 27. Februar 1986 (GMBl S. 95) zuzuordnen sind.
+Satz 1 ist auch bei anderen als den dort genannten Stoffen
+einzuhalten, soweit diese Stoffe den organischen Stoffen der Klasse I
+der Ersten Allgemeinen Verwaltungsvorschrift zum Bundes-
+Immissionsschutzgesetz (Technische Anleitung zur Reinhaltung der Luft
+– TA Luft) vom 24. Juli 2002 (GMBl S. 511) in der jeweils geltenden
+Fassung zuzuordnen sind. Anlagen der Nummer 18 des Anhangs I, in denen
+n-Hexan als Extraktionsmittel eingesetzt wird, haben die Anforderungen
+des Satzes 1 spätestens ab dem 1. Januar 2019 zu erfüllen.
 
 (4) Bei Anlagen, bei denen zwei oder mehr Tätigkeiten jeweils die
 Schwellenwerte nach Anhang I überschreiten, gilt Folgendes:
@@ -468,9 +474,18 @@ treffen, um die Emissionen während des An- und Abfahrens so gering wie
 möglich zu halten.
 
 (6) Beim Umfüllen von organischen Lösemitteln mit einem Siedepunkt bei
-1013 mbar bis zu 423 Kelvin (150
-Grad C) sind besondere technische Maßnahmen zur Emissionsminderung zu
-treffen, wenn davon jährlich 100 Tonnen oder mehr umgefüllt werden.
+1 013 Hektopascal bis zu 423 Kelvin (150 Grad Celsius) sind besondere
+technische Maßnahmen zur Emissionsminderung zu treffen, wenn davon
+jährlich 100 Tonnen oder mehr umgefüllt werden. Auf
+genehmigungsbedürftige Anlagen finden darüber hinaus die Anforderungen
+der Technischen Anleitung zur Reinhaltung der Luft zum Verarbeiten,
+Fördern, Umfüllen oder Lagern von flüssigen organischen Stoffen
+Anwendung.
+
+(7) Auf genehmigungsbedürftige Anlagen wird stets der Stand der
+Technik nach § 5 Absatz 1 Nummer 2 des Bundes-Immissionsschutzgesetzes
+angewendet. Hieraus können sich über die Absätze 2 bis 4 hinausgehende
+Anforderungen ergeben.
 
 
 ### § 4 Spezielle Anforderungen
@@ -499,13 +514,13 @@ eingehalten werden. An Stelle der Einhaltung der Anforderungen nach
 Satz 1 Nr. 1 kann ein Reduzierungsplan nach Anhang IV eingesetzt
 werden, mit dem sich der Betreiber verpflichtet, eine
 Emissionsminderung in mindestens der gleichen Höhe wie bei Einhaltung
-der in Satz 1 Nr. 1 festgelegten Anforderungen sicherzustellen. Bei
-genehmigungsbedürftigen Anlagen muss der Reduzierungsplan die
-Anforderungen des Satzes 1 unter Berücksichtigung des Standes der
-Technik nach § 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes
-erfüllen. Dieser Plan muss von realistischen technischen
-Voraussetzungen ausgehen, insbesondere muss die Verfügbarkeit von
-Ersatzstoffen zum jeweiligen Zeitpunkt gewährleistet sein.
+der in Satz 1 Nr. 1 festgelegten Anforderungen sicherzustellen. Dieser
+Plan muss von realistischen technischen Voraussetzungen ausgehen,
+insbesondere muss die Verfügbarkeit von Ersatzstoffen zum jeweiligen
+Zeitpunkt gewährleistet sein. Auf genehmigungsbedürftige Anlagen wird
+stets der Stand der Technik nach § 5 Absatz 1 Nummer 2 des Bundes-
+Immissionsschutzgesetzes angewendet. Hieraus können sich über die
+Sätze 1 und 2 hinausgehende Anforderungen ergeben.
 
 
 ## Dritter Teil - Messungen und Überwachung
@@ -522,8 +537,6 @@ bestimmt ist.
 für die jeweilige Tätigkeit der in Anhang I genannte Schwellenwert für
 den Lösemittelverbrauch überschritten wird, hat diese der zuständigen
 Behörde vor der Inbetriebnahme anzuzeigen. Nicht
-genehmigungsbedürftige Altanlagen sind der zuständigen Behörde
-spätestens bis zum 25. August 2003 anzuzeigen. Nicht
 genehmigungsbedürftige Anlagen, die zum Zeitpunkt des Inkrafttretens
 der Verordnung die in Anhang I genannten Schwellenwerte nicht
 überschreiten, sind bei erstmaliger Überschreitung der Schwellenwerte
@@ -537,38 +550,32 @@ Messungen erforderlich sind, hat der Betreiber geeignete Messöffnungen
 und Messplätze einzurichten.
 
 (4) Der Betreiber einer nicht genehmigungsbedürftigen Anlage, für die
-in § 3 Abs. 2 Satz 2 oder Abs. 3 oder in § 4 Satz 1 Nr. 1 Buchstabe a
-Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
+in § 3 Absatz 2 Satz 3 oder Abs. 3 oder in § 4 Satz 1 Nr. 1 Buchstabe
+a Anforderungen festgelegt sind, hat die Einhaltung der jeweiligen
 Anforderungen
 
-1.  erstmalig
+1.  erstmals bei Neuanlagen und wesentlich geänderten Anlagen frühestens
+    drei Monate und spätestens sechs Monate nach der Inbetriebnahme und
+    sodann
 
-    a)  bei Altanlagen bis zum Ende des auf das Jahr, in dem die Anforderungen
-        erstmals einzuhalten waren, folgenden zweiten Kalenderjahres,
 
-
-    b)  bei Neuanlagen und wesentlich geänderten Anlagen frühestens drei
-        Monate und spätestens sechs Monate nach der Inbetriebnahme
+2.  wiederkehrend in jedem dritten Kalenderjahr
 
 
 
-
-
-und sodann 2. wiederkehrend in jedem dritten Kalenderjahr
-
-
-
-von einer nach § 26 des Bundes-Immissionsschutzgesetzes bekannt
-gegebenen Stelle durch Messungen nach Anhang VI Nr. 1 feststellen zu
-lassen. Satz 1 gilt nicht, wenn die Überwachung der Emissionen durch
-eine kontinuierlich aufzeichnende Messeinrichtung nach Absatz 5 Satz 1
-erfolgt. Luftmengen, die einer Anlage zugeführt werden, um die
-gefassten Abgase zu verdünnen oder zu kühlen, bleiben bei der
-Bestimmung der Massenkonzentration im gefassten Abgas
-unberücksichtigt. Messungen nach Satz 1 oder 2 zur Feststellung der
-Einhaltung der Emissionsgrenzwerte für gefasste Abgase können
-entfallen, soweit nach dem Stand der Technik zur Einhaltung dieser
-Grenzwerte eine Abgasreinigungseinrichtung nicht erforderlich ist.
+von Stellen, die über eine Bekanntgabe für den Tätigkeitsbereich der
+Gruppe I Nr. 1 und den Stoffbereich G gemäß der Anlage 1 der
+Bekanntgabeverordnung (41. BImSchV) verfügen, durch Messungen nach
+Anhang VI Nr. 1 feststellen zu lassen. Satz 1 gilt nicht, wenn die
+Überwachung der Emissionen durch eine kontinuierlich aufzeichnende
+Messeinrichtung nach Absatz 5 Satz 1 erfolgt. Luftmengen, die einer
+Anlage zugeführt werden, um die gefassten Abgase zu verdünnen oder zu
+kühlen, bleiben bei der Bestimmung der Massenkonzentration im
+gefassten Abgas unberücksichtigt. Messungen nach Satz 1 oder 2 zur
+Feststellung der Einhaltung der Emissionsgrenzwerte für gefasste
+Abgase können entfallen, soweit nach dem Stand der Technik zur
+Einhaltung dieser Grenzwerte eine Abgasreinigungseinrichtung nicht
+erforderlich ist.
 
 (5) Nicht genehmigungsbedürftige Anlagen, bei denen der Massenstrom an
 flüchtigen organischen Verbindungen im gefassten Abgas 10 Kilogramm
@@ -600,19 +607,23 @@ nach dem Verfahren des Anhangs V feststellen zu lassen. Zur Ermittlung
 der Ein- und Austragsmengen einer Anlage an flüchtigen organischen
 Verbindungen kann auf verbindliche Angaben der Hersteller zum
 Lösemittelgehalt der Einsatzstoffe oder auf andere gleichwertige
-Informationsquellen zurückgegriffen werden. Abweichend von Satz 1 ist
-bei Anlagen des Anhangs I Nr. 9.1 die Feststellung der Einhaltung der
-Anforderungen mindestens alle drei Jahre vorzunehmen.
+Informationsquellen zurückgegriffen werden. Die zuständige Behörde
+kann den Betreiber anweisen, die Lösemittelbilanz, sofern sie
+offensichtlich mit schwerwiegenden Mängeln behaftet ist und der
+Betreiber diese nicht in angemessener Frist behebt, von einer
+zugelassenen Überwachungsstelle oder einem öffentlich bestellten und
+vereidigten Sachverständigen gemäß den Anforderungen im Anhang V
+aufstellen zu lassen. Satz 3 gilt nicht für Anlagen des Anhangs I
+Nummer 3.1. Abweichend von Satz 1 ist bei Anlagen des Anhangs I Nr.
+9\.1 die Feststellung der Einhaltung der Anforderungen mindestens alle
+drei Jahre vorzunehmen.
 
 (7) Entscheidet sich der Betreiber für einen Reduzierungsplan im Sinne
 des § 4 Satz 2, so muss er diesen der zuständigen Behörde rechtzeitig
-vor Inbetriebnahme der Anlage vorlegen. Die Aufstellung des
-Reduzierungsplans bei Altanlagen hat der Betreiber der zuständigen
-Behörde spätestens bis zum 31. Oktober 2004 mitzuteilen. Die
-verbindliche Erklärung bedarf der Annahme der zuständigen Behörde.
-Eine Ausfertigung des Reduzierungsplans hat der Betreiber am
-Betriebsort der Anlage aufzubewahren, solange der Reduzierungsplan
-angewendet wird.
+vor Inbetriebnahme der Anlage vorlegen. Die verbindliche Erklärung
+bedarf der Annahme der zuständigen Behörde. Eine Ausfertigung des
+Reduzierungsplans hat der Betreiber am Betriebsort der Anlage
+aufzubewahren, solange der Reduzierungsplan angewendet wird.
 
 (8) Der Betreiber einer Anlage hat über die Ergebnisse der Messungen
 nach Absatz 4 oder 5 sowie über die Ergebnisse der Lösemittelbilanz
@@ -648,8 +659,8 @@ der Betreiber so abzuleiten, dass ein Abtransport mit der freien
 Luftströmung nach dem Stand der Technik gewährleistet ist.
 
 (2) Die gefassten Abgase von genehmigungsbedürftigen Anlagen hat der
-Betreiber nach den Anforderungen der Nummer 2.4 der TA Luft
-abzuleiten.
+Betreiber nach den Anforderungen für die Ableitung von Abgasen gemäß
+der Technischen Anleitung zur Reinhaltung der Luft abzuleiten.
 
 
 ### § 8 Berichterstattung an die Europäische Kommission
@@ -657,17 +668,20 @@ abzuleiten.
 (1) Der Betreiber einer Anlage hat die für die Berichterstattung an
 die Europäische Kommission nach Absatz 2 benötigten Informationen der
 zuständigen Behörde mitzuteilen. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit gibt die zur Erfüllung dieser
+Naturschutz, Bau und Reaktorsicherheit gibt die zur Erfüllung dieser
 Verpflichtung anzuwendenden Verfahren bekannt, sobald der Fragebogen
-und das Schema gemäß Artikel 11 der Richtlinie 1999/13/EG von der
-Kommission ausgearbeitet sind. Die Informationen schließen die
-Erfahrungen aus der Anwendung von Reduzierungsplänen ein.
+und das Schema gemäß Artikel 72 Absatz 1 und 2 der Richtlinie
+2010/75/EU des Europäischen Parlaments und des Rates vom 24. November
+2010 über Industrieemissionen (integrierte Vermeidung und Verminderung
+der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S.
+7) von der Kommission ausgearbeitet sind. Die Informationen schließen
+die Erfahrungen aus der Anwendung von Reduzierungsplänen ein.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit oder die von ihm beauftragte Stelle übermitteln auf
 der Grundlage der Stellungnahmen der Länder entsprechend den
-Anforderungen des Artikels 11 der Richtlinie 1999/13/EG einen Bericht
-über die Durchführung dieser Verordnung.
+Anforderungen des Artikels 72 Absatz 1 und 2 der Richtlinie 2010/75/EU
+einen Bericht über die Durchführung dieser Verordnung.
 
 
 ### § 9 Unterrichtung der Öffentlichkeit
@@ -693,7 +707,7 @@ Geschäftsgeheimnisse gezogen werden können.
 Die Befugnis der zuständigen Behörde, auf Grund des Bundes-
 Immissionsschutzgesetzes andere oder weitergehende Anordnungen zu
 treffen, bleibt unberührt, soweit die Anforderungen aus der Richtlinie
-1999/13/EG nicht entgegenstehen.
+2010/75/EU nicht entgegenstehen.
 
 
 ### § 11 Zulassung von Ausnahmen
@@ -709,7 +723,7 @@ Berücksichtigung der besonderen Umstände des Einzelfalls
 2.  keine schädlichen Umwelteinwirkungen zu erwarten sind und
 
 
-3.  die Ausnahmen den Anforderungen aus der Richtlinie 1999/13/EG nicht
+3.  die Ausnahmen den Anforderungen aus der Richtlinie 2010/75/EU nicht
     entgegenstehen.
 
 
@@ -726,9 +740,9 @@ Betreiber einer genehmigungsbedürftigen Anlage
     errichtet oder nicht richtig betreibt,
 
 
-2.  entgegen § 6 Satz 3 in Verbindung mit § 5 Abs. 6 Satz 1 oder 3 die
-    Einhaltung der dort genannten Anforderungen nicht, nicht richtig oder
-    nicht rechtzeitig feststellen lässt,
+2.  entgegen § 6 Satz 3 in Verbindung mit § 5 Absatz 6 Satz 1, 3 oder Satz
+    5 die Einhaltung der dort genannten Anforderungen nicht, nicht richtig
+    oder nicht rechtzeitig feststellen lässt,
 
 
 3.  entgegen § 6 Satz 3 in Verbindung mit § 5 Abs. 7 Satz 1 einen
@@ -736,12 +750,11 @@ Betreiber einer genehmigungsbedürftigen Anlage
     rechtzeitig vorlegt,
 
 
-4.  entgegen § 6 Satz 3 in Verbindung mit § 5 Abs. 7 Satz 2 oder Abs. 9
-    Satz 1 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig
-    macht,
+4.  entgegen § 6 Satz 3 in Verbindung mit § 5 Abs. 9 Satz 1 eine
+    Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,
 
 
-5.  entgegen § 6 Satz 3 in Verbindung mit § 5 Abs. 7 Satz 4 oder Abs. 8
+5.  entgegen § 6 Satz 3 in Verbindung mit § 5 Absatz 7 Satz 3 oder Abs. 8
     Satz 2 eine Ausfertigung des Reduzierungsplans oder einen Bericht
     nicht oder nicht für die vorgeschriebene Dauer aufbewahrt,
 
@@ -777,9 +790,9 @@ Betreiber einer nicht genehmigungsbedürftigen Anlage
     rechtzeitig erstattet,
 
 
-3.  entgegen § 5 Abs. 4 Satz 1 oder Abs. 6 Satz 1 oder 3 die Einhaltung
-    der dort genannten Anforderungen nicht, nicht richtig oder nicht
-    rechtzeitig feststellen lässt,
+3.  entgegen § 5 Abs. 4 Satz 1 oder Absatz 6 Satz 1, 3 oder Satz 5 die
+    Einhaltung der dort genannten Anforderungen nicht, nicht richtig oder
+    nicht rechtzeitig feststellen lässt,
 
 
 4.  entgegen § 5 Abs. 5 Satz 1 eine Anlage nicht oder nicht rechtzeitig
@@ -818,55 +831,16 @@ Betreiber einer nicht genehmigungsbedürftigen Anlage
 
 
 
-## Fünfter Teil - Schlussvorschriften
+## Fünfter Teil - (weggefallen)
 
 
 
-### § 13 Übergangsregelung
-
-(1) Die Anforderungen der §§ 3, 4, 5 Abs. 5 Satz 1 und § 7 Abs. 1 sind
-bei Altanlagen spätestens bis zum 31. Oktober 2007 einzuhalten, sofern
-im Anhang III nichts anderes bestimmt ist. Abweichend von Satz 1 sind
-die Anforderungen der §§ 3, 4 und 7 Abs. 1 bei Altanlagen,
-
-1.  an denen eine wesentliche Änderung vorgenommen wird oder
+### § 13 (weggefallen)
 
 
-2.  die infolge einer wesentlichen Änderung erstmals unter diese
-    Verordnung fallen,
+(zu § 1)
 
-
-
-ab dem Zeitpunkt der Inbetriebnahme der wesentlich geänderten Anlage
-einzuhalten. § 3 Abs. 2 Satz 1 bleibt von Satz 1 und 2 unberührt.
-
-(2) Altanlagen, die mit einer Abgasreinigungseinrichtung betrieben
-werden, mit der eine Massenkonzentration an flüchtigen organischen
-Verbindungen im gefassten behandelten Abgas von
-
-1.  50 Milligramm Gesamtkohlenstoff je Kubikmeter bei
-    Abgasreinigungseinrichtungen mit einer Nachverbrennung,
-
-
-2.  150 Milligramm Gesamtkohlenstoff je Kubikmeter bei
-    Abgasreinigungseinrichtungen von nicht genehmigungsbedürftigen Anlagen
-    ohne eine Nachverbrennung oder
-
-
-3.  100 Milligramm Gesamtkohlenstoff je Kubikmeter bei
-    Abgasreinigungseinrichtungen von genehmigungsbedürftigen Anlagen ohne
-    eine Nachverbrennung
-
-
-
-eingehalten wird, sind bis zum 31. Dezember 2013 von der Einhaltung
-der Emissionsgrenzwerte für gefasste behandelte Abgase nach § 4 Nr. 1
-Buchstabe a entbunden, sofern die Gesamtemissionen der Anlage die
-Werte nicht überschreiten, die bei Einhaltung der Anforderungen nach §
-4 Nr. 1 Buchstabe a und b erzielt worden wären.
-
-
-### Anhang I (zu § 1) Liste der Anlagen
+### Anhang I Liste der Anlagen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 2187 - 2188
 
@@ -1311,10 +1285,12 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2187 - 2188
 
 
 
+(zu § 1)
 
-### Anhang II (zu § 1) Liste der Tätigkeiten
+### Anhang II Liste der Tätigkeiten
 
-Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
+(Fundstelle: BGBl. I 2001, 2189 - 2191;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
@@ -1438,9 +1414,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
 
         Eine Tätigkeit zum Serienbeschichten von Fahrzeugen der Klasse M1
         gemäß der Richtlinie 70/156/EWG (ABl. EG Nr. L 42 S. 1), zuletzt
-        geändert durch die Richtlinie 97/27/EG (ABl. EG Nr. L 233 S. 1), sowie
-        der Klasse N1, sofern sie in der gleichen Anlage wie Fahrzeuge der
-        Klasse M1 lackiert werden.
+        geändert durch die Richtlinie 2006/40/EG (ABl. L 161 vom 14.6.2006, S.
+        12), sowie der Klasse N1, sofern sie in der gleichen Anlage wie
+        Fahrzeuge der Klasse M1 lackiert werden.
 
 
     4.2 Serienbeschichtung von Fahrerhäusern
@@ -1472,18 +1448,13 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
         Jede industrielle oder gewerbliche Tätigkeit einschließlich der damit
         verbundenen Reinigungs- und Entfettungstätigkeiten
 
-        a)  zur Lackierung von Kraftfahrzeugen gemäß der Richtlinie 70/156/EWG
-            oder eines Teils dieser Kraftfahrzeuge im Zuge einer Reparatur,
-            Konservierung oder Verschönerung außerhalb der Fertigungsanlagen,
-
-
-        b)  zur ursprünglichen Lackierung von Kraftfahrzeugen gemäß der Richtlinie
+        a)  zur ursprünglichen Lackierung von Kraftfahrzeugen gemäß der Richtlinie
             70/156/EWG oder eines Teils dieser Kraftfahrzeuge mit Hilfe von
             Produkten zur Reparaturlackierung, sofern dies außerhalb der
             ursprünglichen Fertigungsstraße geschieht, oder
 
 
-        c)  zur Lackierung von Anhängern (einschließlich Sattelanhängern) der
+        b)  zur Lackierung von Anhängern (einschließlich Sattelanhängern) der
             Klasse O nach der Richtlinie 70/156/EWG.
 
 
@@ -1600,8 +1571,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2189 - 2191
 
 
 
+(zu §§ 3 und 4)
 
-### Anhang III (zu §§ 3 und 4) Spezielle Anforderungen
+### Anhang III Spezielle Anforderungen
 
 (Fundstelle: BGBl. I 2001, 2192 - 2202;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1654,19 +1626,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *
     1.1.2 Grenzwert für diffuse Emissionen
 
-        Der Grenzwert für diffuse Emissionen beträgt 30 vom Hundert. Flüchtige
-        organische Verbindungen, die in gefassten unbehandelten Abgasen
-        enthalten sind, zählen zu den diffusen Emissionen. Der
-        Lösemittelrückstand im Endprodukt gilt nicht als Teil der diffusen
-        Emissionen.
+        Der Grenzwert für diffuse Emissionen beträgt 30 vom Hundert der
+        eingesetzten Lösemittel. Flüchtige organische Verbindungen, die in
+        gefassten unbehandelten Abgasen enthalten sind, zählen zu den diffusen
+        Emissionen. Der Lösemittelrückstand im Endprodukt gilt nicht als Teil
+        der diffusen Emissionen.
 
 
     1.1.3 Besondere Anforderungen
 
-        Der im Feuchtmittel enthaltene Massengehalt an Isopropanol darf 8 vom
+        Der im Feuchtmittel enthaltene Massengehalt an Isopropanol darf 5 vom
         Hundert nicht überschreiten. Die Möglichkeiten, den Isopropanolgehalt
         unter den in Satz 1 genannten Wert nach dem Stand der Technik weiter
         zu senken, sind auszuschöpfen.
+
+
+    1.1.4 Gesamtemissionsgrenzwert für Anlagen zur Behandlung von Oberflächen
+        von Stoffen, Gegenständen oder Erzeugnissen unter Verwendung von
+        organischen Lösungsmitteln, insbesondere zum Appretieren, Bedrucken,
+        Beschichten, Entfetten, Imprägnieren, Kleben, Lackieren, Reinigen oder
+        Tränken, mit einer Verbrauchskapazität von mehr als 150 Kilogramm
+        organischen Lösungsmitteln pro Stunde oder von mehr als 200 Tonnen pro
+        Jahr.
+
+        Der Gesamtemissionsgrenzwert beträgt 10 Gewichtsprozent des
+        Druckfarbenverbrauchs.
 
 
     1.2 Anlagen mit dem Illustrationstiefdruckverfahren
@@ -1686,14 +1670,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bemerkungen
 
 
-*    *   50 1), 2)
+*    *   50 1)
 
     *
         1)  Gilt nicht bei vollständigem Umluftbetrieb.
-
-
-        2)  Bei Altanlagen darf der Mittelwert über 2 Stunden maximal 110 mg C/cbm
-            betragen, sofern der Tagesmittelwert eingehalten wird.
 
 
 
@@ -1704,8 +1684,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *
     1.2.2 Grenzwert für die Gesamtemissionen
 
-        Der Grenzwert für die Gesamtemissionen beträgt 5 vom Hundert, bei
-        Altanlagen 10 vom Hundert der eingesetzten Lösemittel.
+        Der Grenzwert für die Gesamtemission beträgt 5 Gewichtsprozente vom
+        eingesetzten Lösemittel.
 
 
     1.3 Anlagen für sonstige Drucktätigkeiten
@@ -1909,8 +1889,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *
     3.1.2 Besondere Anforderungen
 
-        Anlagen, die mit Kohlenwasserstofflösemitteln (KWL) betrieben werden,
-        sind so zu errichten und zu betreiben, dass
+        Anlagen, die mit organischen Lösemitteln einschließlich
+        Kohlenwasserstofflösemitteln (KWL) betrieben werden, sind so zu
+        errichten und zu betreiben, dass
 
         a)  die Reinigung und Trocknung des Reinigungsgutes im geschlossenen
             System nach dem Stand der Technik erfolgt,
@@ -1918,12 +1899,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         b)  eine selbsttätige Verriegelung sicherstellt, dass die Beladetür erst
             nach Abschluss des Trocknungsvorgangs geöffnet werden kann, wenn die
-            Massenkonzentration an KWL in der Trommel nach dem Ergebnis einer
-            laufenden messtechnischen Überprüfung einen Wert von 5 Gramm je
-            Kubikmeter nicht mehr überschreitet,
+            Massenkonzentration an organischen Lösemitteln einschließlich KWL in
+            der Trommel nach dem Ergebnis einer laufenden messtechnischen
+            Überprüfung einen Wert von 5 Gramm je Kubikmeter nicht mehr
+            überschreitet,
 
 
-        c)  nur KWL eingesetzt werden,
+        c)  nur organische Lösemittel einschließlich KWL eingesetzt werden,
 
             -   deren Gesamtaromatengehalt 1 Gewichtsprozent nicht überschreitet,
 
@@ -1942,7 +1924,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             -   die unter Betriebsbedingungen thermisch stabil sind,
 
 
-            -   deren Siedebereiche bei 1 013 mbar zwischen 180
+            -   deren Siedebereiche bei 1 013 Hektopascal zwischen 180
                 Grad C und 210
                 Grad C liegen,
 
@@ -2110,6 +2092,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
+*    *   50
+        1
+
+    *   1 Gilt für Anlagen zur Behandlung von Oberflächen von Stoffen,
+        Gegenständen oder Erzeugnissen unter Verwendung von organischen
+        Lösungsmitteln, insbesondere zum Appretieren, Bedrucken, Beschichten,
+        Entfetten, Imprägnieren, Kleben, Lackieren, Reinigen oder Tränken, mit
+        einer Verbrauchskapazität von mehr als 150 Kilogramm organischen
+        Lösungsmitteln pro Stunde oder von mehr als 200 Tonnen pro Jahr.
+
+
 
 
 *
@@ -2208,14 +2201,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   110
-        130 1)
 
     *
-        1)  Für genehmigungsbedürftige Altanlagen bis zum 31. Dezember 2005.
-
-
-
-
 
 
 
@@ -2522,14 +2509,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         nicht eingehalten werden können, ist ein Reduzierungsplan nach Anhang
         IV anzuwenden, es sei denn, die Anwendung eines Reduzierungsplans ist
         nicht verhältnismäßig. In diesem Fall ist der zuständigen Behörde vor
-        der Inbetriebnahme der Anlage, bei Altanlagen spätestens bis zum 31.
-        Oktober 2005, nachzuweisen, dass die Anwendung eines Reduzierungsplans
-        nicht verhältnismäßig ist und dass stattdessen die Emissionen nach dem
-        Stand der Technik vermindert werden. Der angewandte Stand der Technik
-        ist alle drei Jahre zu überprüfen und gegebenenfalls anzupassen. Das
-        Ergebnis der Überprüfung ist zu dokumentieren, am Betriebsort bis zur
-        nächsten Überprüfung aufzubewahren und der zuständigen Behörde auf
-        Verlangen vorzulegen.
+        der Inbetriebnahme der Anlage nachzuweisen, dass die Anwendung eines
+        Reduzierungsplans nicht verhältnismäßig ist und dass stattdessen die
+        Emissionen nach dem Stand der Technik vermindert werden. Der
+        angewandte Stand der Technik ist alle drei Jahre zu überprüfen und
+        gegebenenfalls anzupassen. Das Ergebnis der Überprüfung ist zu
+        dokumentieren, am Betriebsort bis zur nächsten Überprüfung
+        aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 
 
     9.  Beschichten von Holz oder Holzwerkstoffen
@@ -2546,18 +2532,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             vermindern,
 
 
-        b)  ab dem 1. November 2007 die Emissionen an flüchtigen organischen
-            Verbindungen mindestens einmal jährlich durch eine Lösemittelbilanz
-            nach dem Verfahren des Anhangs V zu ermitteln,
+        b)  die Emissionen an flüchtigen organischen Verbindungen mindestens
+            einmal jährlich durch eine Lösemittelbilanz nach dem Verfahren des
+            Anhangs V zu ermitteln,
 
 
         c)  ab dem 1. Januar 2013 einen Reduzierungsplan nach Anhang IV
-            anzuwenden.
+            einzuhalten.
 
 
 
-
-        Buchstabe a gilt bis zum 31. Dezember 2012 nicht für Altanlagen.
 
 
     9.2 Anlagen zum Beschichten von Holz oder Holzwerkstoffen mit einem
@@ -2679,7 +2663,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         75 3)
 
     *
-        1)  Für Beschichten und Trocknen.
+        1)  Für Beschichten oder Bedrucken und Trocknen.
 
 
         2)  Bei Anwendung von Abgasreinigungseinrichtungen mit thermischer
@@ -2855,6 +2839,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
+    11.1.2 Besondere Anforderungen
+
+        Anlagen der Nummer 6.3 des Anhangs I der Richtlinie 2010/75/EU mit
+        einem Lösemittelverbrauch von 10 Tonnen oder mehr haben einen
+        Gesamtemissionsgrenzwert von 23 g C/m² einzuhalten
+
+
+
+
+
+
+
+*
     12. Holzimprägnierung
 
 
@@ -2909,18 +2906,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     12.1.3 Grenzwert für diffuse Emissionen
 
         Der Grenzwert für diffuse Emissionen beträgt 35 vom Hundert, für
-        Altanlagen 45 vom Hundert der eingesetzten Lösemittel.
+        Altanlagen bis zum 31. Dezember 2013 45 vom Hundert der eingesetzten
+        Lösemittel.
 
 
     12.1.4 Besondere Anforderungen
 
         Der Grenzwert für die Gesamtemissionen an flüchtigen organischen
         Verbindungen nach Nummer 12.1.1 gilt alternativ zum Emissionsgrenzwert
-        für gefasste Abgase nach Nummer 12.1.2 und dem Grenzwert für diffuse
-        Emissionen nach Nummer 12.1.3, bei genehmigungsbedürftigen Anlagen
-        jedoch mit der Maßgabe, dass bei der Anwendung des Grenzwertes für die
-        Gesamtemissionen der Emissionsgrenzwert nach 12.1.2 bei gefassten
-        behandelten Abgasen einzuhalten ist.
+        für gefasste Abgase nach Nummer 12.1.2 und zum Grenzwert für diffuse
+        Emissionen nach Nummer 12.1.3. Bei genehmigungsbedürftigen Anlagen
+        gelten aus Vorsorgegründen zusätzlich zum Gesamtemissionsgrenzwert
+        nach Nummer 12.1.1 die Anforderungen nach Nummer 12.1.2 für gefasste
+        behandelte Abgase; die Anwendung des Standes der Technik auf alle
+        gefassten Abgase wird hierbei vorausgesetzt.
 
 
     12.2 Anlagen zum Imprägnieren von Holz unter Verwendung von Teerölen
@@ -3124,6 +3123,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
+    14.1.3 Besondere Anforderungen
+
+        Anstatt des Grenzwertes für diffuse Emissionen in Nummer 14.1.2 muss
+        bei Anlagen zur Behandlung von Oberflächen von Stoffen, Gegenständen
+        oder Erzeugnissen unter Verwendung von organischen Lösungsmitteln,
+        insbesondere zum Appretieren, Bedrucken, Beschichten, Entfetten,
+        Imprägnieren, Kleben, Lackieren, Reinigen oder Tränken, mit einer
+        Verbrauchskapazität von mehr als 150 Kilogramm organischen
+        Lösungsmitteln pro Stunde oder von mehr als 200 Tonnen pro Jahr, in
+        denen Klebebänder beschichtet werden, ein Gesamtemissionsgrenzwert von
+        1 Prozent der Masse der eingesetzten Lösemittel eingehalten werden.
+
+
     15. Herstellung von Schuhen
 
 
@@ -3187,7 +3199,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *   2,5
-        3 2)
 
     *   1
 
@@ -3195,13 +3206,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1)  Angegeben in vom Hundert des eingesetzten organischen Lösemittels.
 
 
-        2)  Für genehmigungsbedürftige Anlagen bis zum 31. Oktober 2007.
 
-
-
-
-
-*    *   Altanlagen:
 
 
 *    *   3
@@ -3210,10 +3215,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   5 2)
-
-    *   1,5 2)
-
+*    *
+    *
     *
 
 
@@ -3254,8 +3257,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         2)  Gilt für Abgasreinigungseinrichtungen mit Rückgewinnung durch
-            Kondensation, soweit keine flüchtigen organischen Verbindungen nach
-            Nummer 3.1.7 Klasse II der TA Luft eingesetzt werden.
+            Kondensation, soweit keine flüchtigen organischen Verbindungen Klasse
+            II der Technischen Anleitung zur Reinhaltung der Luft in der jeweils
+            geltenden Fassung eingesetzt werden.
 
 
 
@@ -3306,11 +3310,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Der Grenzwert für die Gesamtemissionen an flüchtigen organischen
         Verbindungen nach Nummer 16.1.1 gilt alternativ zum Emissionsgrenzwert
-        für gefasste Abgase nach Nummer 16.1.2 und dem Grenzwert für diffuse
-        Emissionen nach Nummer 16.1.3, bei genehmigungsbedürftigen Anlagen
-        jedoch mit der Maßgabe, dass bei der Anwendung des Grenzwertes für die
-        Gesamtemissionen der Emissionsgrenzwert nach Nummer 16.1.2 bei
-        gefassten behandelten Abgasen einzuhalten ist.
+        für gefasste Abgase nach Nummer 16.1.2 und zum Grenzwert für diffuse
+        Emissionen nach Nummer 16.1.3. Bei genehmigungsbedürftigen Anlagen
+        gelten aus Vorsorgegründen zusätzlich zum Gesamtemissionsgrenzwert
+        nach Nummer 16.1.1 die Anforderungen nach Nummer 16.1.2 für gefasste
+        behandelte Abgase; die Anwendung des Standes der Technik auf alle
+        gefassten Abgase wird hierbei vorausgesetzt.
 
 
     16.2 Anlagen zur Herstellung von Bautenschutz- oder Holzschutzmitteln
@@ -3387,7 +3392,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         2)  Gilt für Abgasreinigungseinrichtungen mit Rückgewinnung durch
             Kondensation, soweit keine flüchtigen organischen Verbindungen nach
-            Nummer 3.1.7 Klasse II der TA Luft eingesetzt werden.
+            Klasse II der Technischen Anleitung zur Reinhaltung der Luft in der
+            jeweils geltenden Fassung eingesetzt werden.
 
 
 
@@ -3514,7 +3520,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         2)  Gilt für Abgasreinigungseinrichtungen mit Rückgewinnung durch
             Kondensation, soweit keine flüchtigen organischen Verbindungen nach
-            Nummer 3.1.7 Klasse II der TA Luft eingesetzt werden.
+            Klasse II der Technischen Anleitung zur Reinhaltung der Luft in der
+            jeweils geltenden Fassung eingesetzt werden.
 
 
 
@@ -3652,7 +3659,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         3)  Gilt für Abgasreinigungseinrichtungen mit Rückgewinnung durch
             Kondensation, soweit keine flüchtigen organischen Verbindungen nach
-            Nummer 3.1.7 Klasse II der TA Luft eingesetzt werden.
+            Klasse II der Technischen Anleitung zur Reinhaltung der Luft in der
+            jeweils geltenden Fassung eingesetzt werden.
 
 
 
@@ -3774,13 +3782,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     17.1.4 Besondere Anforderungen
 
-        Der Grenzwert für die Gesamtemissionen nach Nummer 17.1.1 gilt
-        alternativ zum Emissionsgrenzwert für gefasste Abgase nach Nummer
-        17\.1.2 und dem Grenzwert für diffuse Emissionen nach Nummer 17.1.3,
-        bei genehmigungsbedürftigen Anlagen jedoch mit der Maßgabe, dass bei
-        der Anwendung des Grenzwertes für die Gesamtemissionen der
-        Emissionsgrenzwert nach 17.1.2 bei gefassten behandelten Abgasen
-        einzuhalten ist.
+        Der Grenzwert für die Gesamtemissionen an flüchtigen organischen
+        Verbindungen nach Nummer 17.1.1 gilt alternativ zum Emissionsgrenzwert
+        für gefasste Abgase nach Nummer 17.1.2 und zum Grenzwert für diffuse
+        Emissionen nach Nummer 17.1.3. Bei genehmigungsbedürftigen Anlagen
+        gelten aus Vorsorgegründen zusätzlich zum Gesamtemissionsgrenzwert
+        nach Nummer 17.1.1 die Anforderungen nach Nummer 17.1.2 für gefasste
+        behandelte Abgase; die Anwendung des Standes der Technik auf alle
+        gefassten Abgase wird hierbei vorausgesetzt.
 
 
     18. Extraktion von Pflanzenöl und tierischem Fett sowie Raffination von
@@ -3866,6 +3875,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+        4)  Gilt für die Entschleimung.
+
+
+
+
 
 *    *   4 4)
 
@@ -3881,9 +3895,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     19.1.1 Grenzwerte für die Gesamtemissionen
 
-        Die Gesamtemissionen dürfen 5 vom Hundert, bei Altanlagen 15 vom
-        Hundert der Masse der eingesetzten organischen Lösemittel nicht
-        überschreiten.
+        Die Gesamtemissionen dürfen 5 Prozent der Masse der eingesetzten
+        Lösemittel nicht überschreiten, bei Altanlagen gilt dies ab dem 1.
+        Januar 2013.
 
 
     19.1.2 Emissionsgrenzwerte für gefasste Abgase
@@ -3916,21 +3930,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *
     19.1.3 Grenzwert für diffuse Emissionen
 
-        Der Grenzwert für diffuse Emissionen beträgt 5 vom Hundert, für
-        Altanlagen 15 vom Hundert. Der Grenzwert für diffuse Emissionen
-        bezieht sich nicht auf Lösemittel, die als Teil von Erzeugnissen oder
-        Gemischen in einem geschlossenen Behälter verkauft werden.
+        Der Grenzwert für diffuse Emissionen beträgt 5 Prozent der Masse der
+        eingesetzten Lösemittel, bei Altanlagen gilt dies ab dem 1. Januar
+        2013\. Der Grenzwert für diffuse Emissionen bezieht sich nicht auf
+        Lösemittel, die als Teil von Erzeugnissen oder Gemischen in einem
+        geschlossenen Behälter verkauft werden.
 
 
     19.1.4 Besondere Anforderungen
 
         Der Grenzwert für die Gesamtemissionen an flüchtigen organischen
         Verbindungen nach Nummer 19.1.1 gilt alternativ zum Emissionsgrenzwert
-        für gefasste Abgase nach Nummer 19.1.2 und dem Grenzwert für diffuse
-        Emissionen nach Nummer 19.1.3, bei genehmigungsbedürftigen Anlagen
-        jedoch mit der Maßgabe, dass bei der Anwendung des Grenzwertes für die
-        Gesamtemissionen der Emissionsgrenzwert nach Nummer 19.1.2 bei
-        gefassten behandelten Abgasen einzuhalten ist.
+        für gefasste Abgase nach Nummer 19.1.2 und zum Grenzwert für diffuse
+        Emissionen nach Nummer 19.1.3. Bei genehmigungsbedürftigen Anlagen
+        gelten aus Vorsorgegründen zusätzlich zum Gesamtemissionsgrenzwert
+        nach Nummer 19.1.1 die Anforderungen nach Nummer 19.1.2 für gefasste
+        behandelte Abgase; die Anwendung des Standes der Technik auf alle
+        gefassten Abgase wird hierbei vorausgesetzt.
 
 
 
@@ -3938,10 +3954,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 4)
 
-### Anhang IV (zu § 4) Reduzierungsplan
+### Anhang IV Reduzierungsplan
 
-(Fundstelle des Originaltextes: BGBl. I 2001, 2203 bis 2205)
+(Fundstelle: BGBl. I 2001, 2203 — 2205;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 A   Grundsätzliche Anforderungen
@@ -3975,35 +3993,7 @@ Gleichwertigkeit nach Abschnitt A Satz 1 nicht erforderlich:
     und Reinigungsmittel, zu verringern oder den Feststoffnutzungsgrad zu
     erhöhen, um die Gesamtemissionen an flüchtigen organischen
     Verbindungen aus der Anlage auf einen bestimmten Prozentsatz der
-    jährlichen Bezugsemission, die sogenannte Zielemission, ab den
-    nachstehenden Zeitpunkten zu reduzieren:
-
-
-
-
-*    *   Zeitpunkte für die Einhaltung der maximal zulässigen Gesamtemissionen
-
-    *   Maximal zulässige Gesamtemissionen pro Jahr
-
-
-*    *   Neue Anlagen
-
-    *   Altanlagen
-
-    *
-
-*    *   ab dem 25. August 2001
-
-    *   ab dem 1. November 2005
-
-    *   Zielemission x 1,5
-
-
-*    *   ab dem 1. November 2004
-
-    *   ab dem 1. November 2007
-
-    *   Zielemission
+    jährlichen Bezugsemission, die sogenannte Zielemission, zu reduzieren.
 
 
 
@@ -4044,25 +4034,19 @@ Gleichwertigkeit nach Abschnitt A Satz 1 nicht erforderlich:
 
 *    *   1.1
 
-    *   Heatset-Rollenoffset
+    *   (weggefallen)
 
-    *   >15
-
-    *   1,0
-
-    *   (30+5)%
-
+    *
+    *
+    *
 
 *    *   1.2
 
-    *   Illustrationstiefdruck
+    *   (weggefallen)
 
-    *   >25
-
-    *   4
-
-    *   (10+5)%
-
+    *
+    *
+    *
 
 *    *   1.3
 
@@ -4139,8 +4123,7 @@ Gleichwertigkeit nach Abschnitt A Satz 1 nicht erforderlich:
 
     *   Fahrzeugreparaturlackierung
 
-    *   <15
-
+    *
     *   2,5
 
     *   (25+15)%
@@ -4369,6 +4352,36 @@ Gleichwertigkeit nach Abschnitt A Satz 1 nicht erforderlich:
     Behörde erforderlich.
 
 
+5.  Für Anlagen der Nummern 8.1 und 9.2 des Anhangs I, die Teil oder
+    Nebeneinrichtungen von Anlagen zur Behandlung von Oberflächen von
+    Stoffen, Gegenständen oder Erzeugnissen unter Verwendung von
+    organischen Lösungsmitteln, insbesondere zum Appretieren, Bedrucken,
+    Beschichten, Entfetten, Imprägnieren, Kleben, Lackieren, Reinigen oder
+    Tränken, mit einer Verbrauchskapazität von mehr als 150 Kilogramm
+    organischen Lösungsmitteln pro Stunde oder von mehr als 200 Tonnen pro
+    Jahr sind, sind die folgenden Gesamtemissionsgrenzwerte einzuhalten:
+
+    –   0,30 kg VOC bezogen auf 1 Kilogramm des eingesetzten Feststoffs im
+        Beschichtungsstoff bei Anlagen zur Beschichtung von selbstfahrenden
+        landwirtschaftlichen Geräten und Anlagen der Nummer 8.1 des Anhangs I,
+        sofern Kunststoffoberflächen beschichtet werden,
+
+
+    –   0,25 kg VOC bezogen auf 1 Kilogramm des eingesetzten Feststoffs im
+        Beschichtungsstoff bei Anlagen der Nummern 8.1 und 9.2 des Anhangs I
+        ausgenommen Anlagen zur Beschichtung von selbstfahrenden
+        landwirtschaftlichen Geräten und Anlagen der Nummer 8.1 des Anhangs I,
+        sofern Kunststoffoberflächen beschichtet werden.
+
+
+
+
+
+6.  Die Anwendung des Reduzierungsplans IV B ist für Tätigkeiten zur
+    Verarbeitung von flüssigen ungesättigten Polyesterharzen mit
+    Styrolzusatz nicht geeignet.
+
+
 
 
 
@@ -4380,8 +4393,7 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
     diesen Anlagen ausschließlich Druckfarben, Klarlacke, Klebstoffe und
     Hilfsstoffe mit einem Lösemittelgehalt von weniger als 10 vom Hundert
     eingesetzt werden und der Betreiber einer Anlage dies gegenüber der
-    zuständigen Behörde in Übereinstimmung mit den Zeitvorgaben nach
-    Abschnitt B Nr. 1 verbindlich erklärt.
+    zuständigen Behörde verbindlich erklärt.
 
 
 2.  Die Zielemission des Reduzierungsplans nach Abschnitt B gilt für nicht
@@ -4391,8 +4403,7 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
     250 g/l sowie Reinigungsmittel mit einem Massegehalt an flüchtigen
     organischen Verbindungen von weniger als 20 vom Hundert eingesetzt
     werden und der Betreiber einer Anlage dies gegenüber der zuständigen
-    Behörde in Übereinstimmung mit den Zeitvorgaben nach Abschnitt B Nr. 1
-    verbindlich erklärt.
+    Behörde verbindlich erklärt.
 
 
 3.  Für Anlagen der Nummer 9.1 des Anhangs I gilt die Zielemission des
@@ -4413,15 +4424,14 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
 
 
     eingesetzt werden und der Betreiber einer Anlage dies gegenüber der
-    zuständigen Behörde bis zum 31. Dezember 2012 verbindlich erklärt.
+    zuständigen Behörde verbindlich erklärt.
 
 
-4.  Für Anlagen der Nummer 5.1 des Anhangs I gilt die Zielemission des
-    Reduzierungsplans nach Abschnitt B auch als eingehalten, soweit die im
-    Folgenden genannten Einsatzstoffe den zugeordneten VOC-Wert nicht
-    überschreiten und der Betreiber einer Anlage dies gegenüber der
-    zuständigen Behörde in Übereinstimmung mit den Zeitvorgaben nach
-    Abschnitt B Nr. 1 verbindlich erklärt:
+4.  Für nicht genehmigungsbedürftige Anlagen der Nummer 5.1 des Anhangs I
+    gilt die Zielemission des Reduzierungsplans nach Abschnitt B auch als
+    eingehalten, soweit die im Folgenden genannten Einsatzstoffe den
+    zugeordneten VOC-Wert nicht überschreiten und der Betreiber einer
+    Anlage dies gegenüber der zuständigen Behörde verbindlich erklärt:
 
 
 
@@ -4522,8 +4532,7 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
 
 
     nicht überschreiten und der Betreiber einer Anlage dies gegenüber der
-    zuständigen Behörde in Übereinstimmung mit den Zeitvorgaben nach
-    Abschnitt B Nr. 1 verbindlich erklärt.
+    zuständigen Behörde verbindlich erklärt.
 
 
 6.  Für nicht genehmigungsbedürftige Anlagen der Nummern 13.1 und 14.1 des
@@ -4531,16 +4540,17 @@ C   Vereinfachter Nachweis zur Einhaltung der Anforderungen
     soweit ausschließlich Klebstoffe und Primer mit einem Massegehalt an
     organischen Lösemitteln von weniger als 5 vom Hundert eingesetzt
     werden und der Betreiber einer Anlage dies gegenüber der zuständigen
-    Behörde in Übereinstimmung mit den Zeitvorgaben nach Abschnitt B Nr. 1
-    verbindlich erklärt.
+    Behörde verbindlich erklärt.
 
 
 
 
+(zu den §§ 5 und 6)
 
-### Anhang V (zu den §§ 5 und 6) Lösemittelbilanz
+### Anhang V Lösemittelbilanz
 
-Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
+(Fundstelle: BGBl. I 2001, 2206 — 2207;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
@@ -4658,16 +4668,16 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
     *   E=F+O1
 
-    *   bei Bestimmung der diffusen Emissionen nach der Nummer 2.2.1a oder der
-        Nummer 2.2.2a,
+    *   bei Bestimmung der diffusen Emissionen nach der Nummer 2.2 Mittelbare
+        Methode a oder der Nummer 2.2 Direkte Methode a,
 
 
 *    *   b)
 
     *   E=F+O1.1
 
-    *   bei Bestimmung der diffusen Emissionen nach der Nummer 2.2.1b oder der
-        Nummer 2.2.2b.
+    *   bei Bestimmung der diffusen Emissionen nach der Nummer 2.2 Mittelbare
+        Methode b oder der Nummer 2.2 Direkte Methode b.
 
 
 
@@ -4689,38 +4699,27 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
     2.2 Bestimmung der diffusen Emissionen
 
-        Die diffusen Emissionen lassen sich entweder mit einer mittelbaren
-        oder mit einer direkten Methode bestimmen:
+        Die diffusen Emissionen sind entweder mit der nachfolgenden
+        mittelbaren oder der direkten Methode zu bestimmen:
 
+        Mittelbare Methode
 
-    2.2.1 Mittelbare Methode
-
-        a)  ohne Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu
+        a)  Ohne Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu
             den diffusen Emissionen
 
+            F = I1 – O1 – O5 – O6 – O7 – O8 für die Anlagen der Nummern 1.2, 2.1, 3.1, 4.1 bis 4.5, 7.1 und 7.2,
+                10\.1, 11.1, 12.1 und 12.2, 13.1, 15.1, 16.1 bis 16.4, 17.1, 18.1, 19.1
+                nach Anhang I,
 
 
 
 
 
-
-
-
-
-*    *   F=I1-O1-O5-O6-O7-O8
-
-    *   für die Anlagen nach Anhang I Nrn. 1.2, 2.1, 3.1, 4.1 bis 4.5, 7.1 und
-        7\.2, 10.1, 11.1, 12.1 und 12.2, 13.1, 15.1, 16.1 bis 16.4, 17.1, 18.1,
-        19\.1,
-
-
-
-
-*
-    *
         b)  mit Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu den
             diffusen Emissionen
 
+            F = I1 – O1.1 – O5 – O6 – O7 – O8 für die Anlagen der Nummern 1.1, 1.3, 5.1, 6.1, 8.1, 9.1 und 9.2, 10.2
+                oder 14.1. nach Anhang I.
 
 
 
@@ -4728,45 +4727,24 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
 
 
+        Direkte Methode
 
-
-*    *   F=I1-O1.1-O5-O6-O7-O8
-
-    *   für die Anlagen nach Anhang I Nrn. 1.1, 1.3, 5.1, 6.1, 8.1, 9.1 und
-        9\.2, 10.2, 14.1.
-
-
-
-
-*
-    2.2.2 Direkte Methode
-
-        a)  ohne Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu
+        a)  Ohne Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu
             den diffusen Emissionen
 
+            F = O2 + O3 + O4 + O9 für die Anlagen der Nummern 1.2, 2.1, 3.1, 4.1 bis 4.5, 7.1 und 7.2,
+                10\.1, 11.1, 12.1 und 12.2, 13.1, 15.1, 16.1 bis 16.4, 17.1, 18.1, 19.1
+                nach Anhang I,
 
 
 
 
 
-
-
-
-
-*    *   F=O2+O3+O4+O9
-
-    *   für die Anlagen nach Anhang I Nrn. 1.2, 2.1, 3.1, 4.1 bis 4.5, 7.1 und
-        7\.2, 10.1, 11.1, 12.1 und 12.2, 13.1, 15.1, 16.1 bis 16.4, 17.1, 18.1,
-        19\.1,
-
-
-
-
-*
-    *
         b)  mit Zuordnung der Emissionen in gefassten unbehandelten Abgasen zu den
             diffusen Emissionen
 
+            F = O1.2 + O2 + O3 + O4 + O9 für die Anlagen der Nummern 1.1, 1.3, 5.1, 6.1, 8.1, 9.1 und 9.2,
+                10\.2, 14.1 nach Anhang I.
 
 
 
@@ -4774,24 +4752,14 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
 
 
+        Die Mengen der einzelnen Ein- oder Austräge werden durch zeitlich
+        begrenzte aber umfassende Messungen bestimmt, die solange nicht
+        wiederholt werden müssen, bis die Anlagenausrüstung verändert wird.
+        Alternative gleichwertige Berechnungen können durchgeführt werden. Der
+        Grenzwert für diffuse Emissionen wird als Anteil am Lösemitteleinsatz
+        ausgedrückt, der sich nach der folgenden Beziehung berechnet:
 
-
-*    *   F=O1.2+O2+O3+O4+O9
-
-    *   für die Anlagen nach Anhang I Nrn. 1.1, 1.3, 5.1, 6.1, 8.1, 9.1 und
-        9\.2, 10.2, 14.1.
-
-
-
-
-*
-    *   Die Mengen der einzelnen Ein- oder Austräge können durch Messungen
-        bestimmt werden. Alternative gleichwertige Berechnungen können
-        durchgeführt werden. Der Grenzwert für diffuse Emissionen wird als
-        Anteil am Lösemitteleinsatz ausgedrückt, der sich nach der folgenden
-        Beziehung berechnet:
-
-        I=I1+I2.
+        I = I1 + I2.
 
 
 
@@ -4799,8 +4767,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 2206 bis 2207
 
 
 
+(zu den §§ 5 und 6)
 
-### Anhang VI (zu den §§ 5 und 6) Anforderungen an die Durchführung der Überwachung
+### Anhang VI Anforderungen an die Durchführung der Überwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2208)
 

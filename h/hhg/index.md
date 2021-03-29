@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 2. 6.1993 I 838;
 
 Zuletzt geändert durch
-:   Art. 6 Abs. 3 G v. 20.6.2011 I 1114
+:   Art. 1 G v. 7.11.2015 I 1922
 
 
 ## § 1 Personenkreis
@@ -410,9 +410,10 @@ steuerbegünstigte Zwecke im Sinne der §§ 51 bis 68 der Abgabenordnung.
 (1) Für die Erfüllung ihrer Aufgaben nach § 18 kann die Stiftung die
 ihr für diese Zwecke noch zur Verfügung stehenden Mittel aus dem
 Stammkapital und aus den jährlichen Erträgnissen sowie Zuwendungen von
-dritter Seite verwenden. Darüber hinaus werden ihr hierfür in den
-Jahren 2007 bis 2009 jeweils 2.180.000 Euro aus dem Bundeshaushalt zur
-Verfügung gestellt. Einlagen in das Stiftungsvermögen sind zulässig.
+dritter Seite verwenden. Darüber hinaus werden ihr hierfür im Jahr
+2015 2 Millionen Euro und im Jahr 2016 13,5 Millionen Euro aus dem
+Bundeshaushalt zur Verfügung gestellt. Einlagen in das
+Stiftungsvermögen sind zulässig.
 
 (2) Die Verwaltungskosten der Stiftung trägt der Bund.
 
@@ -435,8 +436,10 @@ Den in § 17 Satz 1 genannten Personen können zur Linderung einer
 Notlage Unterstützungen gewährt werden. Unterstützungsleistungen nach
 § 18 des Strafrechtlichen Rehabilitierungsgesetzes sind bei der
 Unterstützung nach Satz 1 zu berücksichtigen. Die Leistungen nach Satz
-1 bleiben als Einkommen bei Sozialleistungen, deren Gewährung von
-anderen Einkommen abhängig ist, unberücksichtigt.
+1 bleiben als Einkommen und als Vermögen bei Sozialleistungen, deren
+Gewährung von anderen Einkommen abhängig ist, unberücksichtigt. Ein
+Antrag auf Leistungen nach Satz 1 kann letztmalig bis zum 30. Juni
+2016 gestellt werden.
 
 
 ## § 19 Stiftungsorgane
@@ -479,13 +482,13 @@ Voraussetzungen und bis zu welcher Höhe Unterstützungen nach § 18
 gewährt werden können; Satzung und Richtlinien bedürfen der
 Genehmigung des für dieses Gesetz federführenden Bundesministers im
 Einvernehmen mit dem Bundesminister der Finanzen und dem
-Bundesminister der Justiz. Satz 1 gilt entsprechend für die genauere
-Regelung der Voraussetzungen und Bedingungen der Gewährung von
-Unterstützungsleistungen nach § 18 Abs. 1 und 2 des Strafrechtlichen
-Rehabilitierungsgesetzes. Der Stiftungsrat beschließt über alle
-grundsätzlichen Fragen, die zum Aufgabenbereich der Stiftung gehören,
-und überwacht die Tätigkeit des Stiftungsvorstandes. Der Stiftungsrat
-gibt sich eine Geschäftsordnung.
+Bundesminister der Justiz und für Verbraucherschutz. Satz 1 gilt
+entsprechend für die genauere Regelung der Voraussetzungen und
+Bedingungen der Gewährung von Unterstützungsleistungen nach § 18 Abs.
+1 und 2 des Strafrechtlichen Rehabilitierungsgesetzes. Der
+Stiftungsrat beschließt über alle grundsätzlichen Fragen, die zum
+Aufgabenbereich der Stiftung gehören, und überwacht die Tätigkeit des
+Stiftungsvorstandes. Der Stiftungsrat gibt sich eine Geschäftsordnung.
 
 (5) Der Stiftungsrat ist beschlußfähig, wenn die Hälfte der Mitglieder
 anwesend ist. Er beschließt mit einfacher Mehrheit.
@@ -539,6 +542,11 @@ verpflichtet.
 
 (5) Über den Antrag entscheidet der Ausschuß durch Bescheid.
 
+(6) Der Stiftungsrat wird ermächtigt, die Entscheidung über Anträge
+teilweise auf den Vorsitzenden des Vorstandes oder dessen
+Stellvertreter zu übertragen. Über die Ablehnung eines Antrags
+entscheidet stets der Bewilligungsausschuss.
+
 
 ## § 23 Widerspruchsausschuß
 
@@ -555,11 +563,15 @@ Ausschusses nach § 22 wird ein Widerspruchsausschuß gebildet.
 
 
 
+Der Stiftungsrat wählt aus seiner Mitte einen stellvertretenden
+Vorsitzenden des Widerspruchsausschusses; dieser vertritt den
+Vorsitzenden, falls dieser verhindert ist.
 
-(3) Der Vorsitzende des Widerspruchsausschusses muß die Befähigung für
-den höheren Verwaltungsdienst besitzen. Die Beisitzer des Ausschusses
-nach § 22 können nicht zugleich Mitglieder des Widerspruchsausschusses
-sein; im übrigen gilt § 22 Abs. 3 und 4 entsprechend.
+(3) Der Vorsitzende des Widerspruchsausschusses sowie sein
+Stellvertreter müssen die Befähigung für den höheren Verwaltungsdienst
+besitzen. Die Beisitzer des Ausschusses nach § 22 können nicht
+zugleich Mitglieder des Widerspruchsausschusses sein; im übrigen gilt
+§ 22 Abs. 3 und 4 entsprechend.
 
 
 ## § 24 Aufsicht
@@ -674,8 +686,9 @@ Person des unmittelbar Berechtigten nicht der Zwangsvollstreckung.
 
 
 
+Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kap. II Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 920)
+## Anhang EV (BGBl. II 1990, 889, 920)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

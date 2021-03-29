@@ -13,10 +13,10 @@ Ausfertigungsdatum
 :   2001-02-20
 
 Fundstelle
-:   BGBl I: 2001, 317
+:   BGBl I: 2001, 305, 317
 
-Geändert durch
-:   Art. 3 V v. 27.4.2009 I 900
+Zuletzt geändert durch
+:   Art. 3 Abs. 1 V v. 27.9.2017 I 3465
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -50,12 +50,13 @@ genehmigungsbedürftige Anlagen genehmigungsbedürftig sind.
 
 1.  für die Erzeugung von verwertbarem Kompost oder Biogas ausschließlich
     aus Bioabfällen gemäß § 2 Nr. 1 der Bioabfallverordnung vom 21.
-    September 1998 (BGBl. I S. 2955) oder Erzeugnissen oder
-    Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder
-    Klärschlämmen gemäß § 2 Abs. 2 der Klärschlammverordnung vom 15. April
-    1992 (BGBl. I S. 912), die durch die Verordnung vom 6. März 1997
-    (BGBl. I S. 446) geändert worden ist, sowie des Einsatzes eines
-    Gemisches der vorgenannten Stoffe in Kofermentationsanlagen oder
+    September 1998 (BGBl. I S. 2955) oder aus Erzeugnissen oder
+    Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder aus
+    Klärschlamm nach § 2 Absatz 2, Klärschlammgemisch nach § 2 Absatz 7
+    oder Klärschlammkompost nach § 2 Absatz 8 der Klärschlammverordnung
+    vom 27. September 2017 (BGBl. I S. 3465), in der jeweils geltenden
+    Fassung, sowie aus einem Gemisch der vorgenannten Stoffe in
+    Kofermentationsanlagen oder
 
 
 2.  für die Ausfaulung von Klärschlamm
@@ -667,9 +668,9 @@ Nachbehandlung unter aeroben Bedingungen (Nachrotte) in nicht
 gekapselten Einrichtungen oder in nicht geschlossenen Räumen ohne
 Abgaserfassung und Abgasreinigung zulassen, wenn der zur Nachrotte
 vorgesehene Abfall den Wert von 20 mg 0
-2             /g Trockenmasse, bestimmt als Atmungsaktivität gemäß
-Anhang 4 Nummer 3.3.1 der Deponieverordnung vom 27. April 2009 (BGBl.
-I S. 900), unterschreitet und durch sonstige betriebliche Maßnahmen
+2/g Trockenmasse, bestimmt als Atmungsaktivität gemäß Anhang 4 Nummer
+3\.3.1 der Deponieverordnung vom 27. April 2009 (BGBl. I S. 900),
+unterschreitet und durch sonstige betriebliche Maßnahmen
 sichergestellt wird, dass der Vorsorge gegen schädliche
 Umwelteinwirkungen auf andere Weise Genüge getan ist.
 

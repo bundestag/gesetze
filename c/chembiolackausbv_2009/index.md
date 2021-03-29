@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1600
 
+Geändert durch
+:   Art. 1 V v. 30.12.2016, 2017 I 39
+
 [^f772199_01_BJNR160000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
@@ -1992,8 +1995,9 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4 Absatz 1)
 
-### Anlage 1 (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten/zur Chemielaborantin
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Chemielaboranten/zur Chemielaborantin
 
 (Fundstelle: BGBl. I 2009, 1611 - 1622)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**
@@ -3940,10 +3944,12 @@ Nummer 1.1**
 [^f772199_05_BJNR160000009BJNE002900000]:     Nur in Verbindung mit der Qualifikationseinheit lfd. Nummer 18 dieser
     Anlage zu vermitteln.
 [^f772199_06_BJNR160000009BJNE002900000]: 
+(zu § 11 Absatz 1)
 
-### Anlage 2 (zu § 11 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten/zur Biologielaborantin
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Biologielaboranten/zur Biologielaborantin
 
-(Fundstelle: BGBl. I 2009, 1623 - 1632)
+(Fundstelle: BGBl. I 2009, 1623 - 1632;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**
 
 **Gemeinsame, integrativ zu vermittelnde Qualifikationen nach § 3
@@ -4155,7 +4161,7 @@ Nummer 1.1**
 
 
 
-    *[^f772199_07_BJNR160000009BJNE003000000]
+    *[^f772199_07_BJNR160000009BJNE003001119]
    2
 
     *
@@ -4344,7 +4350,7 @@ Nummer 1.1**
 
 
 
-    *[^f772199_08_BJNR160000009BJNE003000000]
+    *[^f772199_08_BJNR160000009BJNE003001119]
    3
 
     *
@@ -4436,7 +4442,7 @@ Nummer 1.1**
 
 
 
-    *[^f772199_09_BJNR160000009BJNE003000000]
+    *[^f772199_09_BJNR160000009BJNE003001119]
    4
 
     *
@@ -4724,7 +4730,9 @@ Nummer 1.1**
         (§ 11 Absatz 2 Nummer 11.1)
 
     *
-        a)  Blut von Versuchstieren entnehmen und aufarbeiten
+        a)  Verfahren für die Blutentnahme unter Berücksichtigung der Spezies
+            unterscheiden und Blut von Versuchstieren, insbesondere von
+            Nagetieren, nach versuchstierkundlichen Empfehlungen entnehmen
 
 
         b)  Blutausstriche färben
@@ -4786,37 +4794,61 @@ Nummer 1.1**
         (§ 11 Absatz 2 Nummer 12)
 
     *
-        a)  über das Tierschutzgesetz Auskunft geben und Tierversuche unter
-            Berücksichtigung des Tierschutzgesetzes durchführen
+        a)  Tierschutzrecht beachten und bei der Durchführung von Tierversuchen
+            und beim Töten von Tieren zu wissenschaftlichen Zwecken anwenden
 
 
-        b)  über die Möglichkeiten der Verringerung und Vermeidung von
-            Tierversuchen sowie den Ersatz durch andere Verfahren Auskunft geben
+        b)  ethische Grundlagen und Aspekte in Bezug auf tierexperimentelles
+            Arbeiten analysieren und anwenden
 
 
-        c)  Versuchstiere halten und kennzeichnen
+        c)  Möglichkeiten der Vermeidung, Verringerung und Verbesserung von
+            Tierversuchen („3R-Prinzip“: Replacement, Reduction, Refinement) sowie
+            den Ersatz durch andere Verfahren erläutern
 
 
-        d)  Veränderungen des äußeren Erscheinungsbildes von Versuchstieren
-            feststellen, notwendige Maßnahmen einleiten
+        d)  Versuchstiere, insbesondere Nagetiere, halten und kennzeichnen;
+            artspezifische Handhabungsmethoden anwenden; Lebensraumanreicherungen
+            einsetzen und Hygieneanforderungen umsetzen
 
 
-        e)  Applikationen an Säugetieren durchführen
+        e)  Bedeutung und Züchtung genetisch veränderter, insbesondere transgener
+            Tiere, erläutern
 
 
-        f)  unter Beachtung des Tierschutzgesetzes Versuchstiere narkotisieren
+        f)  Veränderungen des äußeren Erscheinungsbildes und Verhaltens von
+            Versuchstieren, insbesondere Nagetieren, feststellen und notwendige
+            Maßnahmen einleiten
 
 
-        g)  pharmakologische Wirkungen feststellen
+        g)  Applikationen oral, subkutan, intramuskulär,
+            intraperitoneal, intravenös und durch Inhalation an Versuchstieren,
+            insbesondere Nagetieren, durchführen
 
 
-        h)  Methoden zur Tötung von Versuchstieren unterscheiden
+        h)  Narkotika nach pharmakologischen Eigenschaften unterscheiden
 
 
-        i)  Versuchstiere nach den Bestimmungen des Tierschutzgesetzes töten
+        i)  Inhalations- und Injektionsnarkosen nach versuchstierkundlichen
+            Empfehlungen an Versuchstieren, insbesondere Nagetieren, durchführen
+            und überwachen
 
 
-        j)  Sektionen an Versuchstieren durchführen
+        j)  analgetische Strategien einschließlich Lokalanästhesie anwenden
+
+
+        k)  pharmakologische Wirkungen feststellen
+
+
+        l)  tierschutzrechtlich zulässige Methoden zur Tötung von Versuchstieren
+            unterscheiden und auswählen
+
+
+        m)  Versuchstiere, insbesondere Nagetiere, nach den Bestimmungen des
+            Tierschutzrechts töten
+
+
+        n)  Sektionen an Versuchstieren, insbesondere Nagetieren, durchführen
 
 
 
@@ -5117,7 +5149,7 @@ Nummer 1.1**
 
     *
     *
-    *[^f772199_10_BJNR160000009BJNE003000000]
+    *[^f772199_10_BJNR160000009BJNE003001119]
    13
 
 
@@ -5515,13 +5547,14 @@ Nummer 1.1**
 
 
     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772199_07_BJNR160000009BJNE003000000]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772199_08_BJNR160000009BJNE003000000]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772199_09_BJNR160000009BJNE003000000]:     Nur in Verbindung mit der Qualifikationseinheit lfd. Nummer 16 dieser
+[^f772199_07_BJNR160000009BJNE003001119]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
+[^f772199_08_BJNR160000009BJNE003001119]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
+[^f772199_09_BJNR160000009BJNE003001119]:     Nur in Verbindung mit der Qualifikationseinheit lfd. Nummer 16 dieser
     Anlage zu vermitteln.
-[^f772199_10_BJNR160000009BJNE003000000]: 
+[^f772199_10_BJNR160000009BJNE003001119]: 
+(zu § 18 Absatz 1)
 
-### Anlage 3 (zu § 18 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten/zur Lacklaborantin
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Lacklaboranten/zur Lacklaborantin
 
 (Fundstelle: BGBl. I 2009, 1633 - 1645)
 **Abschnitt A: Pflichtqualifikationen nach § 3 Nummer 1**

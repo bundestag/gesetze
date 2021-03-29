@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. Juni 1973 über die Schiffahrt auf de
   Rhein zwischen Konstanz und Schaffhausen
 jurabk: RheinBodSeeSchÜbkG
 layout: default
-origslug: rheinbodseesch_bkg
+origslug: rheinbodseeschuebkg
 slug: rheinbodseeschuebkg
 
 ---

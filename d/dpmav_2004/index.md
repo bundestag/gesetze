@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 514
 
 Zuletzt geändert durch
-:   Art. 1 V v. 24.3.2010 I 330
+:   Art. 10 G v. 4.4.2016 I 558
 
 
 ## Eingangsformel
@@ -84,8 +84,8 @@ sowie in § 63 Abs. 4 des Patentgesetzes, in § 4 Abs. 4 und 7 sowie §
 10 Abs. 2 des Gebrauchsmustergesetzes, in § 3 Abs. 3 sowie in § 4 Abs.
 4 des Halbleiterschutzgesetzes in Verbindung mit § 10 Abs. 2 des
 Gebrauchsmustergesetzes, in § 65 Abs. 1 Nr. 2 bis 13 sowie § 138 Abs.
-1 des Markengesetzes, in § 26 Absatz 1 Nummer 2 bis 8 und Abs. 2 des
-Geschmacksmustergesetzes werden auf das Deutsche Patent- und Markenamt
+1 des Markengesetzes, in § 26 Absatz 1 Nummer 2 bis 9 und Absatz 2 des
+Designgesetzes werden auf das Deutsche Patent- und Markenamt
 übertragen.
 
 
@@ -243,11 +243,36 @@ Vorsitzenden sie nicht für erforderlich halten.
 Stimmengleichheit gibt die Stimme ihrer Vorsitzenden den Ausschlag.
 
 
-### § 6 Geschmacksmusterstelle
+### § 6 Designstellen und Designabteilungen
 
-Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
-Geschmacksmusterstelle und regelt das Verfahren zur Klassifizierung
-der Anmeldungen.
+(1) Der Präsident oder die Präsidentin bestimmt den Geschäftskreis der
+Designstellen und der Designabteilungen sowie die Vorsitzenden und
+stellvertretenden Vorsitzenden der Designabteilungen und regelt das
+Verfahren zur Klassifizierung der Anmeldung.
+
+(2) Der Vorsitzende der jeweiligen Designabteilung leitet die
+Geschäfte in den Verfahren vor seiner Designabteilung. Er bestimmt die
+weiteren Mitglieder und die Berichterstatter.
+
+(3) In Verfahren vor den Designabteilungen bedarf es der Beratung und
+Abstimmung der jeweiligen Mitglieder in einer Sitzung für
+
+1.  Beschlüsse, durch die über den Antrag auf Feststellung oder Erklärung
+    der Nichtigkeit entschieden wird,
+
+
+2.  Beschlüsse, in denen dem Vorsitzenden oder einem Angehörigen der
+    Designabteilung Angelegenheiten der Designabteilung zur alleinigen
+    Entscheidung übertragen werden.
+
+
+
+Die Entscheidung über den Antrag auf Feststellung oder Erklärung der
+Nichtigkeit kann nicht übertragen werden.
+
+(4) Die Designabteilungen entscheiden nach Stimmenmehrheit; bei
+Stimmengleichheit gibt die Stimme ihres jeweiligen Vorsitzenden den
+Ausschlag.
 
 
 ## Abschnitt 2 - Verfahrensvorschriften
@@ -261,14 +286,14 @@ Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
 Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 
 
-### § 8 Behandlung von Eingängen, Empfangsbescheinigung
+### § 8 Behandlung von Eingängen, Empfangsbestätigung
 
-(1) Auf den Geschäftssachen wird der Tag des Eingangs vermerkt.
+(1) In den Akten wird der Tag des Eingangs vermerkt.
 
 (2) Bei Schutzrechtsanmeldungen übermittelt das Deutsche Patent- und
-Markenamt dem Anmelder unverzüglich eine Empfangsbescheinigung, die
-das angemeldete Schutzrecht bezeichnet und das Aktenzeichen der
-Anmeldung sowie den Tag des Eingangs der Anmeldung angibt.
+Markenamt dem Anmelder unverzüglich eine Empfangsbestätigung, die das
+angemeldete Schutzrecht bezeichnet und das Aktenzeichen der Anmeldung
+sowie den Tag des Eingangs der Anmeldung angibt.
 
 
 ### § 9 Formblätter
@@ -277,18 +302,14 @@ Anmeldung sowie den Tag des Eingangs der Anmeldung angibt.
 Schutzrechtsanmeldungen und andere Anträge Formblätter heraus, die in
 Papier oder elektronischer Form zur Verfügung gestellt werden. Die
 Formblätter sollen verwendet werden, soweit dies nicht ohnehin
-zwingend vorgeschrieben ist. Anstelle der vom Deutschen Patent- und
-Markenamt zur Verfügung gestellten oder zwingend vorgeschriebenen
-Formblätter können Formblätter gleichen Inhalts und vergleichbaren
-Formats verwendet werden, wie zum Beispiel mittels elektronischer
-Datenverarbeitung erstellte oder bearbeitete Formblätter.
+zwingend vorgeschrieben ist.
 
 (2) Formblätter sollen so ausgefüllt sein, dass sie die maschinelle
 Erfassung und Bearbeitung gestatten.
 
 (3) Die in Verordnungen des Deutschen Patent- und Markenamts zwingend
-vorgeschriebenen Formblätter werden im Blatt für Patent-, Muster- und
-Zeichenwesen bekannt gemacht.
+vorgeschriebenen Formblätter werden über die Internetseite des
+Deutschen Patent- und Markenamts www.dpma.de bekannt gemacht.
 
 
 ### § 10 Originale
@@ -320,8 +341,9 @@ Anforderungen des Deutschen Patent- und Markenamts nicht entspricht.
 
 Elektronische Dokumente sind nach Maßgabe der Verordnung über den
 elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt vom
-26\. September 2006 (BGBl. I S. 2159) in ihrer jeweils geltenden
-Fassung einzureichen.
+1\. November 2013 (BGBl. I S. 3906) in ihrer jeweils geltenden Fassung
+einzureichen. Deren Bestimmungen gehen insoweit den Bestimmungen
+dieser Verordnung vor.
 
 
 ### § 13 Vertretung
@@ -367,17 +389,15 @@ Anschrift maßgebend, die zuerst genannt ist.
 
 (1) Bevollmächtigte, soweit sie nicht nur zum Empfang von Zustellungen
 oder Mitteilungen ermächtigt sind, haben beim Deutschen Patent- und
-Markenamt eine vom Auftraggeber unterschriebene Vollmachtsurkunde
-einzureichen. Eine Beglaubigung der Vollmachtsurkunde oder der
-Unterschrift ist nicht erforderlich.
+Markenamt eine vom Vollmachtgeber unterschriebene Vollmachtsurkunde
+einzureichen. Eine Beglaubigung der Unterschrift ist nicht
+erforderlich.
 
-(2) Die Vollmacht kann sich auf mehrere Anmeldungen, auf mehrere
-eingetragene Schutzrechte oder auf mehrere Verfahren erstrecken. Die
-Vollmacht kann sich auch als "Allgemeine Vollmacht" auf die
-Bevollmächtigung zur Vertretung in allen das jeweilige Schutzrecht
-betreffenden Angelegenheiten erstrecken. In den in den Sätzen 1 und 2
-genannten Fällen muss die Vollmachtsurkunde nur in einem Exemplar
-eingereicht werden.
+(2) Die Vollmacht kann sich auf die Bevollmächtigung zur Vertretung in
+allen das jeweilige Schutzrecht betreffenden Angelegenheiten
+erstrecken. Sie kann sich auch auf mehrere Anmeldungen, Schutzrechte
+oder Verfahren erstrecken. In diesen Fällen muss nur ein Exemplar der
+Vollmachtsurkunde eingereicht werden.
 
 (3) Vollmachtsurkunden müssen auf prozessfähige, mit ihrem
 bürgerlichen Namen bezeichnete Personen lauten. Die Bevollmächtigung
@@ -407,13 +427,15 @@ und Eingaben anzugeben. Auf allen Bestandteilen einer an das Deutsche
 Patent- und Markenamt gerichteten Sendung ist anzugeben, zu welchem
 Antrag oder zu welcher Eingabe sie gehören.
 
-(2) Sind in mehrseitigen Verfahren vor dem Deutschen Patent- und
-Markenamt mehrere Parteien beteiligt, so sind allen Schriftstücken
-Abschriften für die übrigen Beteiligten beizufügen. Kommt ein
-Beteiligter dieser Verpflichtung nicht nach, so steht es im Ermessen
-des Deutschen Patent- und Markenamts, ob es die erforderliche Zahl von
-Abschriften auf Kosten dieses Beteiligten anfertigt oder dazu
-auffordert, Abschriften nachzureichen.
+(2) In mehrseitigen Verfahren vor dem Deutschen Patent- und Markenamt
+sind allen Schriftstücken Abschriften für die übrigen Beteiligten
+beizufügen. Kommt ein Beteiligter dieser Verpflichtung nicht nach,
+steht es im Ermessen des Deutschen Patent- und Markenamts, ob es die
+erforderliche Zahl von Abschriften auf Kosten dieses Beteiligten
+anfertigt oder dazu auffordert, Abschriften nachzureichen. Die Sätze 1
+und 2 sind nicht anzuwenden auf Patent-, Gebrauchsmuster- und
+Topografieverfahren; das Deutsche Patent- und Markenamt kann in diesen
+Fällen die Beteiligten jedoch auffordern, Abschriften nachzureichen.
 
 
 ### § 18 Fristen
@@ -452,25 +474,27 @@ Erinnerung zurückgewiesen, muss eine Stellungnahme der anderen
 Beteiligten nicht abgewartet werden.
 
 
-### § 20 Form der Ausfertigungen
+### § 20 Form der Ausfertigungen und Abschriften; formlose Mitteilungen
 
-(1) Ausfertigungen von Beschlüssen, Bescheiden und sonstigen
-Mitteilungen enthalten in der Kopfzeile die Angabe "Deutsches Patent-
-und Markenamt" und am Schluss die Bezeichnung der zuständigen Stelle
-oder Abteilung.
+(1) Ausfertigungen von Dokumenten enthalten in der Kopfzeile die
+Angabe „Deutsches Patent- und Markenamt“, am Schluss die Bezeichnung
+der zuständigen Stelle oder Abteilung, den Namen und gegebenenfalls
+die Amtsbezeichnung der Person, die das Dokument unterzeichnet hat.
+Sie werden von der Person unterschrieben, die die Ausfertigung
+hergestellt hat. Der Unterschrift steht ein Namensabdruck zusammen mit
+einem Abdruck des Dienstsiegels des Deutschen Patent- und Markenamts
+gleich. Für die Ausfertigung elektronischer Dokumente gilt die
+Verordnung über die elektronische Aktenführung bei dem Patentamt, dem
+Patentgericht und dem Bundesgerichtshof vom 10. Februar 2010 (BGBl. I
+S. 83) in ihrer jeweils geltenden Fassung.
 
-(2) Ausfertigungen von Beschlüssen, Bescheiden und sonstigen
-Mitteilungen enthalten den Namen und gegebenenfalls die
-Dienstbezeichnung der Person, die den Beschluss, Bescheid oder die
-Mitteilung unterzeichnet hat und werden von der Person unterschrieben,
-die die Ausfertigung hergestellt hat. Der Unterschrift steht ein
-Namensabdruck zusammen mit einem Abdruck des Dienstsiegels des
-Deutschen Patent- und Markenamts gleich.
+(2) Absatz 1 Satz 1 und 4 ist auf Abschriften entsprechend anzuwenden.
 
-(3) Formlose EDV-Mitteilungen enthalten in der Kopfzeile die Angabe
-"Deutsches Patent- und Markenamt", den Hinweis, dass die Mitteilung
-maschinell erstellt wurde und nicht unterschrieben wird, und die
-Angabe der zuständigen Stelle.
+(3) Formlose Mitteilungen, die mit Hilfe elektronischer Einrichtungen
+erstellt werden, enthalten die Angabe „Deutsches Patent- und
+Markenamt“ in der Kopfzeile, den Hinweis, dass die Mitteilung
+elektronisch erstellt wurde und daher nicht unterschrieben ist, und
+die Angabe der zuständigen Stelle.
 
 
 ### § 21 Zustellung und formlose Übersendung
@@ -480,6 +504,10 @@ vorgesehen ist, werden Bescheide und sonstige Mitteilungen des
 Deutschen Patent- und Markenamts formlos übersandt.
 
 (2) Als formlose Übermittlung gilt auch die Übersendung durch Telefax.
+Die Übermittlung kann auch elektronisch erfolgen, soweit der Empfänger
+hierfür einen Zugang eröffnet. § 5 Absatz 1 und 2 der Verordnung über
+den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt
+bleibt unberührt.
 
 
 ### § 22 Akteneinsicht
@@ -489,7 +517,7 @@ Akten gehörenden Muster, Modelle und Probestücke nach § 31 Abs. 1 Satz
 1 des Patentgesetzes, § 8 Abs. 5 Satz 2 des Gebrauchsmustergesetzes, §
 4 Abs. 3 des Halbleiterschutzgesetzes in Verbindung mit § 8 Abs. 5
 Satz 2 des Gebrauchsmustergesetzes, § 62 Abs. 1 und 2 des
-Markengesetzes sowie § 22 Satz 2 des Geschmacksmustergesetzes
+Markengesetzes sowie § 22 Absatz 1 Satz 2 des Designgesetzes
 entscheidet die Stelle des Deutschen Patent- und Markenamts, die für
 die Bearbeitung der Sache, über welche die Akten geführt werden,
 zuständig ist oder, sofern die Bearbeitung abgeschlossen ist, zuletzt
@@ -497,67 +525,26 @@ zuständig war, sofern nicht durch Gesetz oder Rechtsverordnung etwas
 anderes bestimmt ist.
 
 (2) Die Einsicht in das Original der Akten von Anmeldungen und von
-eingetragenen Schutzrechten wird nur in den Dienstgebäuden des
-Deutschen Patent- und Markenamts gewährt. Auf Antrag wird
-Akteneinsicht durch die Erteilung von Kopien oder beglaubigten Kopien
-der gesamten Akten oder von Teilen der Akten gewährt.
+erteilten oder eingetragenen Schutzrechten, die nicht elektronisch
+geführt werden, wird nur in den Dienstgebäuden des Deutschen Patent-
+und Markenamts gewährt. Auf Antrag wird die Akteneinsicht durch die
+Erteilung von Ablichtungen oder Ausdrucken der gesamten Akte oder von
+Teilen der Akte gewährt. Die Ablichtungen oder Ausdrucke werden auf
+Verlangen beglaubigt.
 
 (3) Soweit der Inhalt von Akten des Deutschen Patent- und Markenamts
 auf Mikrofilm aufgenommen ist, wird Einsicht in die Akten dadurch
 gewährt, dass der Mikrofilm zur Verfügung gestellt wird.
 
 (4) Flächenmäßige Musterabschnitte können abweichend von Absatz 2 nur
-bei der mit der Führung des Geschmacksmusterregisters beauftragten
-Stelle des Deutschen Patent- und Markenamts eingesehen werden. Satz 1
-gilt auch für Modelle, die nach § 7 Abs. 6 des
-Geschmacksmustergesetzes in seiner bis zum 1. Juni 2004 geltenden
-Fassung eingereicht worden sind.
+bei der mit der Führung des Designregisters beauftragten Stelle des
+Deutschen Patent- und Markenamts eingesehen werden. Satz 1 gilt auch
+für Modelle, die nach § 7 Abs. 6 des Designgesetzes in seiner bis zum
+1\. Juni 2004 geltenden Fassung eingereicht worden sind.
 
 
-### § 23 Auskünfte
+### § 23 (weggefallen)
 
-(1) Das Deutsche Patent- und Markenamt kann ausländischen oder
-zwischenstaatlichen Behörden Auskünfte aus Akten von Patentanmeldungen
-zur gegenseitigen Unterrichtung über das Ergebnis von
-Prüfungsverfahren und von Ermittlungen zum Stand der Technik erteilen,
-soweit es sich um Anmeldungen von Erfindungen handelt, für die auch
-bei diesen ausländischen oder zwischenstaatlichen Behörden die
-Erteilung eines Patents beantragt worden ist.
-
-(2) In Geschmacksmustersachen führt das Deutsche Patent- und Markenamt
-auf schriftlichen Antrag eine Recherche anhand des Namens des
-Rechtsinhabers durch und erteilt über das Ergebnis Auskunft. Der
-Antrag, in dem der Name und der Wohnort oder Sitz des Rechtsinhabers
-anzugeben sind, kann auf einzelne Warenklassen und auf einen Zeitraum
-beschränkt werden, in dem die Anmeldungen eingereicht worden sind. Die
-Auskunft enthält folgende Angaben:
-
-1.  den Namen des Rechtsinhabers, seinen Wohnort oder Sitz, bei
-    ausländischen Orten auch den Staat,
-
-
-2.  den Tag der Anmeldung des Musters,
-
-
-3.  das Aktenzeichen der Eintragung,
-
-
-4.  die Erzeugnisse,
-
-
-5.  die Warenklassen,
-
-
-6.  den Tag der Eintragung und
-
-
-7.  den Tag der Bekanntmachung der Eintragung.
-
-
-
-Die Auskunft über die nach § 7 des Geschmacksmustergesetzes in seiner
-bis zum 1. Juni 2004 geltenden Fassung eingetragenen Geschmacksmuster
-enthält anstelle der Erzeugnisse die Bezeichnung der Anmeldung.
 
 
 ### § 24 Verfahrenskostenhilfe
@@ -570,10 +557,10 @@ des Patentgesetzes entscheidet nach dessen § 27 Abs. 1 Nr. 2 und Abs.
 Abs. 2 des Gebrauchsmustergesetzes in Verbindung mit § 135 des
 Patentgesetzes, nach § 11 Abs. 2 des Halbleiterschutzgesetzes in
 Verbindung mit § 21 Abs. 2 des Gebrauchsmustergesetzes und § 135 des
-Patentgesetzes sowie nach § 24 des Geschmacksmustergesetzes
-entscheidet die Stelle des Deutschen Patent- und Markenamts, die für
-die Bearbeitung der Sache zuständig ist oder, sofern das Schutzrecht
-bereits eingetragen ist, zuletzt zuständig war, sofern nicht durch
+Patentgesetzes sowie nach § 24 des Designgesetzes entscheidet die
+Stelle des Deutschen Patent- und Markenamts, die für die Bearbeitung
+der Sache zuständig ist oder, sofern das Schutzrecht bereits
+eingetragen ist, zuletzt zuständig war, sofern nicht durch
 Rechtsverordnung etwas anderes bestimmt ist.
 
 
@@ -581,8 +568,8 @@ Rechtsverordnung etwas anderes bestimmt ist.
 
 (1) Das Deutsche Patent- und Markenamt fertigt für die
 Schutzrechtsinhaber gedruckte Urkunden über die Erteilung des Patents,
-die Eintragung des Gebrauchsmusters, der Marke, des Geschmacksmusters
-sowie des Schutzes der Topografie in das jeweilige Register.
+die Eintragung des Gebrauchsmusters, der Marke, des Designs sowie des
+Schutzes der Topografie in das jeweilige Register.
 
 (2) Den Patentinhabern wird auf Antrag eine kostenpflichtige
 Schmuckurkunde ausgefertigt.
@@ -627,16 +614,16 @@ anzugeben:
 1.  das Aktenzeichen des Schutzrechts,
 
 
-2.  der Name, der Sitz und die Zustellungsanschrift des Inhabers des
-    Schutzrechts in der im Register eingetragenen Form,
+2.  der Name, der Sitz und die Anschrift des Inhabers des Schutzrechts in
+    der im Register eingetragenen Form,
 
 
 3.  falls der Inhaber des Schutzrechts einen Vertreter bestellt hat, der
-    Name, der Sitz und die Zustellungsanschrift des Vertreters,
+    Name, der Sitz und die Anschrift des Vertreters,
 
 
-4.  der Name, der Sitz und die Zustellungsanschrift in der neu in das
-    Register einzutragenden Form.
+4.  der Name, der Sitz und die Anschrift in der neu in das Register
+    einzutragenden Form.
 
 
 
@@ -656,23 +643,23 @@ Vertreters oder eines Zustellungsbevollmächtigten anzuwenden.
 des Patentgesetzes, § 8 Abs. 4 des Gebrauchsmustergesetzes, § 4 Abs. 2
 des Halbleiterschutzgesetzes in Verbindung mit § 8 Abs. 4 des
 Gebrauchsmustergesetzes, § 27 Abs. 3 des Markengesetzes und § 29 Abs.
-3 des Geschmacksmustergesetzes soll unter Verwendung des vom Deutschen
-Patent- und Markenamt herausgegebenen Formblatts gestellt werden.
+3 des Designgesetzes soll unter Verwendung des vom Deutschen Patent-
+und Markenamt herausgegebenen Formblatts gestellt werden.
 
 (2) In dem Antrag sind anzugeben:
 
 1.  das Aktenzeichen des Schutzrechts,
 
 
-2.  der Name, der Sitz und die Zustellungsanschrift des Inhabers des
-    Schutzrechts in der im Register eingetragenen Form,
+2.  der Name, der Sitz und die Anschrift des Inhabers des Schutzrechts in
+    der im Register eingetragenen Form,
 
 
 3.  Angaben über die Rechtsnachfolger entsprechend § 4 Abs. 2 Nr. 1, Abs.
     3 der Patentverordnung, § 3 Abs. 2 Nr. 1, Abs. 3 der
     Gebrauchsmusterverordnung, § 5 Abs. 1 bis 4 der Markenverordnung, § 5
-    Abs. 1 bis 4 der Geschmacksmusterverordnung und § 3 Abs. 1 Nr. 5, Abs.
-    2, 5 Nr. 1 und 2 der Halbleiterschutzverordnung,
+    Abs. 1 bis 4 der Designverordnung und § 3 Abs. 1 Nr. 5, Abs. 2, 5 Nr.
+    1 und 2 der Halbleiterschutzverordnung,
 
 
 4.  falls die Rechtsnachfolger einen Vertreter bestellt haben, der Name
@@ -751,13 +738,13 @@ Register sind die erforderlichen Nachweise beizufügen.
 
 ### § 31 Aufbewahrung von eingereichten Gegenständen oder Unterlagen
 
-Über Muster, Modelle, Probestücke und ähnliche der Anmeldung
-beigefügte Unterlagen, deren Rückgabe nicht beantragt worden ist,
-verfügt der Präsident oder die Präsidentin,
+Über Muster, Modelle, Probestücke und ähnliche Unterlagen, deren
+Rückgabe nicht beantragt worden ist, verfügt das Deutsche Patent- und
+Markenamt,
 
 1.  wenn die Anmeldung des Patents, der Topografie, der Marke oder des
-    Geschmacksmusters zurückgewiesen oder zurückgenommen worden ist, nach
-    Ablauf eines Jahres nach unanfechtbarer Zurückweisung oder
+    eingetragenen Designs zurückgewiesen oder zurückgenommen worden ist,
+    nach Ablauf eines Jahres nach unanfechtbarer Zurückweisung oder
     Zurücknahme;
 
 
@@ -776,8 +763,8 @@ verfügt der Präsident oder die Präsidentin,
     über den Widerspruch;
 
 
-5.  wenn das Geschmacksmuster eingetragen worden ist, nach Ablauf von drei
-    Jahren nach Beendigung der Schutzfrist.
+5.  wenn das Design eingetragen worden ist, nach Ablauf von drei Jahren
+    nach Beendigung der Schutzfrist.
 
 
 

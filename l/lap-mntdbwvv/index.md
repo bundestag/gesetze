@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 3327
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 19 V v. 12.2.2009 I 320
+:   Art. 18 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -820,7 +820,7 @@ Ausführung angekündigt. Der Leistungsnachweis wird von der oder dem
 jeweils Lehrenden nach § 35 bewertet und der Leitung der jeweiligen
 Bundeswehrverwaltungsschule vorgelegt. Sie kann Rangpunkte ändern, um
 eine einheitliche Bewertung sicherzustellen; eine Änderung der
-Rangpunktzahl ist schriftlich zu begründen.
+Rangpunktzahl ist schriftlich oder elektronisch zu begründen.
 
 (6) Die Leistungsnachweise während des Einführungslehrgangs sollen
 spätestens drei Wochen vor Beginn der Zwischenprüfung, im
@@ -861,8 +861,8 @@ Leistungsnachweises bestimmt hat.
 (1) Über die Leistungen und den Befähigungsstand der Anwärterinnen und
 Anwärter während der Praktika wird für jedes Ausbildungsgebiet, dem
 Anwärterinnen und Anwärter nach dem Ausbildungsplan mindestens für
-vier Wochen zugewiesen werden, eine schriftliche Bewertung nach § 35
-abgegeben.
+vier Wochen zugewiesen werden, eine schriftliche oder elektronische
+Bewertung nach § 35 abgegeben.
 
 (2) Während der Praktika sind drei Aufsichtsarbeiten zu fertigen, und
 zwar je eine Arbeit
@@ -892,8 +892,8 @@ zwar je eine Arbeit
 (3) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 (4) Zum Abschluss der praktischen Ausbildung erstellt die
 Ausbildungsleitung ein zusammenfassendes Zeugnis, das die Bewertungen
@@ -999,10 +999,10 @@ praktische Einführung in Aufgaben der höheren Laufbahn ist in
 mindestens zwei unterschiedlichen Verwendungen vorzusehen. Die
 jeweiligen Vorgesetzten sorgen für die eigenverantwortliche und
 selbständige Wahrnehmung der Aufgaben und geben zum Abschluss des
-jeweiligen Abschnitts eine zusammenfassende schriftliche Bewertung
-über die Leistungen und zum Befähigungsstand ab. Für die Bewertung der
-Leistungen während der Lehrgänge und der praktischen Einführung gilt §
-35 entsprechend.
+jeweiligen Abschnitts eine zusammenfassende schriftliche oder
+elektronische Bewertung über die Leistungen und zum Befähigungsstand
+ab. Für die Bewertung der Leistungen während der Lehrgänge und der
+praktischen Einführung gilt § 35 entsprechend.
 
 (2) Die Befähigung für die höhere Laufbahn stellt ein bei einem
 zentralen Lehrinstitut zu bildender Ausschuss nach einer Vorstellung
@@ -1242,11 +1242,11 @@ nicht vor der endgültigen Bewertung der Prüfungsarbeiten bekannt
 gegeben werden.
 
 (6) Die schriftlichen Prüfungsarbeiten werden unter Aufsicht
-gefertigt. Die Aufsichtführenden fertigen eine Niederschrift und
-vermerken darin die Zeitpunkte des Beginns, der Unterbrechung und der
-Abgabe der Arbeit, in Anspruch genommene Prüfungserleichterungen im
-Sinne des § 12 sowie etwaige besondere Vorkommnisse und unterschreiben
-die Niederschrift.
+gefertigt. Die Aufsichtführenden fertigen ein schriftliches oder
+elektronisches Protokoll und vermerken darin die Zeitpunkte des
+Beginns, der Unterbrechung und der Abgabe der Arbeit, in Anspruch
+genommene Prüfungserleichterungen im Sinne des § 12 sowie etwaige
+besondere Vorkommnisse.
 
 (7) § 25 Abs. 5 ist entsprechend anzuwenden.
 
@@ -1294,8 +1294,9 @@ mündlichen Prüfung ist in einer Durchschnittspunktzahl auszudrücken,
 die sich aus der Summe der Rangpunkte, geteilt durch die Anzahl der
 Einzelbewertungen, ergibt.
 
-(5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+(5) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 33 Verhinderung, Rücktritt, Säumnis
@@ -1576,7 +1577,7 @@ die Abschlussnote fest. Dabei werden berücksichtigt:
 
 *    *   1.
 
-    *   die Durchschnittspunktzahl der der fachtheoretischen Ausbildung
+    *   die Durchschnittspunktzahl der fachtheoretischen Ausbildung
 
     *   mit 20 vom Hundert,
 
@@ -1630,8 +1631,8 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz
 mündlich erläutert.
 
-(5) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
-zu fertigen.
+(5) Über das Gesamtergebnis der Laufbahnprüfung ist ein Protokoll
+schriftlich oder elektronisch zu fertigen.
 
 
 ### § 37 Zeugnis

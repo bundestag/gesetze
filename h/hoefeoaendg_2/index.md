@@ -2,7 +2,7 @@
 Title: Zweites Gesetz zur Änderung der Höfeordnung
 jurabk: HöfeOÄndG 2
 layout: default
-origslug: h_feo_ndg_2
+origslug: hoefeoaendg_2
 slug: hoefeoaendg_2
 
 ---
@@ -13,7 +13,7 @@ Ausfertigungsdatum
 :   1976-03-29
 
 Fundstelle
-:   BGBl I: 1976, 881
+:   BGBl I: 1976, 881 (1977 I 288)
 
 
 

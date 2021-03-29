@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 349
 
-Geändert durch
-:   Art. 2 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 52 V v. 26.3.2014 I 274
 
 
 
@@ -1013,7 +1013,7 @@ Diese Verordnung tritt am 1. März 2005 in Kraft.
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2005, 356,
+(Fundstelle: BGBl. I 2005, 356;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 M u s t e r
 ......................................................................
@@ -1034,10 +1034,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Wassermeister/Geprüfte Wassermeisterin vom 23. Februar 2005 (BGBl. I
 S. 349),
-die durch Artikel 2 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960)
+die zuletzt durch Artikel 52 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274)
 geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -1045,7 +1049,7 @@ Unterschrift(en) ...............................
 
 ## Anlage 2 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2005, 357 - 358,
+(Fundstelle: BGBl. I 2005, 357 - 358;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 M u s t e r
 ......................................................................
@@ -1066,8 +1070,8 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Wassermeister/Geprüfte Wassermeisterin vom 23. Februar 2005 (BGBl. I
 S. 349),
-die durch Artikel 2 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960)
+die zuletzt durch Artikel 52 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274)
 geändert worden ist,
 mit folgenden Ergebnissen 1) bestanden:
 -----
@@ -1107,6 +1111,10 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse durch die Prüfung am .......... in .....................
 vor .................. erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)

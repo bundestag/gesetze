@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 22.12.2001; 2002 I 354;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 10.12.2008 I 2403
+:   Art. 21 G v. 20.11.2015 I 2010
 
 
 ## Erster Abschnitt - Adoptionsvermittlung
@@ -107,12 +107,12 @@ die in Absatz 3 und in § 15 Abs. 2 genannten Stellen mit dem Bundesamt
 für Justiz als Bundeszentralstelle für Auslandsadoption
 (Bundeszentralstelle) zusammen. Das Bundesministerium für Familie,
 Senioren, Frauen und Jugend kann im Einvernehmen mit dem
-Bundesministerium der Justiz durch Rechtsverordnung mit Zustimmung des
-Bundesrates bestimmen, dass die Bundeszentralstelle im Verhältnis zu
-einzelnen Staaten, die dem Adoptionsübereinkommen nicht angehören,
-ganz oder zum Teil entsprechende Aufgaben wie gegenüber
-Vertragsstaaten wahrnimmt; dabei können diese Aufgaben im Einzelnen
-geregelt werden.
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, dass die
+Bundeszentralstelle im Verhältnis zu einzelnen Staaten, die dem
+Adoptionsübereinkommen nicht angehören, ganz oder zum Teil
+entsprechende Aufgaben wie gegenüber Vertragsstaaten wahrnimmt; dabei
+können diese Aufgaben im Einzelnen geregelt werden.
 
 (5) Die in Absatz 3 und in § 15 Abs. 2 genannten Stellen haben der
 Bundeszentralstelle
@@ -407,7 +407,7 @@ für ihren jeweiligen Bereich sicherzustellen.
 
 (1) Aufzeichnungen und Unterlagen über jeden einzelnen
 Vermittlungsfall (Vermittlungsakten) sind, gerechnet vom Geburtsdatum
-des Kindes an, 60 Jahre lang aufzubewahren. Wird die
+des Kindes an, 100 Jahre lang aufzubewahren. Wird die
 Adoptionsvermittlungsstelle aufgelöst, so sind die Vermittlungsakten
 der Stelle, die nach § 2 Abs. 1 Satz 3 oder Satz 4 ihre Aufgaben
 übernimmt, oder der zentralen Adoptionsstelle des Landesjugendamtes,
@@ -426,17 +426,18 @@ entgegenstehen.
 
 ### § 9c Durchführungsbestimmungen
 
-(1) Das Bundesministerium  für Familie, Senioren, Frauen und Jugend
+(1) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
 wird ermächtigt, im Einvernehmen mit dem Bundesministerium der Justiz
-durch Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über
-die Anerkennung und Beaufsichtigung von Adoptionsvermittlungsstellen
-nach § 2 Abs. 2 und den §§ 3 und 4, die Zusammenarbeit auf dem Gebiet
-der internationalen Adoptionsvermittlung nach § 2a Abs. 4 und 5, die
-sachdienlichen Ermittlungen nach § 7 Abs. 1, die Eignungsprüfung nach
-§ 7 Abs. 3, die Bescheinigung nach § 7 Abs. 4, die Adoptionsbegleitung
-nach § 9 und die Gewährung von Akteneinsicht nach § 9b sowie über die
-von den Adoptionsvermittlungsstellen dabei zu beachtenden Grundsätze
-zu regeln. Durch Rechtsverordnung nach Satz 1 können insbesondere
+und für Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
+Bundesrates das Nähere über die Anerkennung und Beaufsichtigung von
+Adoptionsvermittlungsstellen nach § 2 Abs. 2 und den §§ 3 und 4, die
+Zusammenarbeit auf dem Gebiet der internationalen Adoptionsvermittlung
+nach § 2a Abs. 4 und 5, die sachdienlichen Ermittlungen nach § 7 Abs.
+1, die Eignungsprüfung nach § 7 Abs. 3, die Bescheinigung nach § 7
+Abs. 4, die Adoptionsbegleitung nach § 9 und die Gewährung von
+Akteneinsicht nach § 9b sowie über die von den
+Adoptionsvermittlungsstellen dabei zu beachtenden Grundsätze zu
+regeln. Durch Rechtsverordnung nach Satz 1 können insbesondere
 geregelt werden:
 
 1.  Zeitpunkt, Gliederung und Form der Meldungen nach § 2a Abs. 5 Satz 1
@@ -472,7 +473,7 @@ oder für eine internationale Adoptionsvermittlung Gebühren sowie
 Auslagen für die Beschaffung von Urkunden, für Übersetzungen und für
 die Vergütung von Sachverständigen erheben. Die Gebührentatbestände
 und die Gebührenhöhe sind dabei zu bestimmen; für den einzelnen
-Vermittlungsfall darf die Gebührensumme 2.000 Euro nicht
+Vermittlungsfall darf die Gebührensumme 2 000 Euro nicht
 überschreiten. Solange das Bundesministerium für Familie, Senioren,
 Frauen und Jugend von der Ermächtigung nach Absatz 1 Satz 1 in
 Verbindung mit Satz 1 keinen Gebrauch gemacht hat, kann diese durch
@@ -604,8 +605,7 @@ ist,
 
 
 und das Kind nach der Geburt Dritten zur Annahme als
-Kinder              oder zur sonstigen Aufnahme auf Dauer zu
-überlassen.
+Kinder oder zur sonstigen Aufnahme auf Dauer zu überlassen.
 
 
 ### § 13b Ersatzmuttervermittlung
@@ -685,10 +685,8 @@ Zeitungsberichte, zu suchen oder anzubieten.
 
 
 (3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer
-Geldbuße bis zu
-zehntausend Deutsche Mark             , in den Fällen des Absatzes 2
-mit einer Geldbuße bis zu
-fünfzigtausend Deutsche Mark              geahndet werden.
+Geldbuße bis zu fünftausend Euro, in den Fällen des Absatzes 2 mit
+einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
 
 
 ### § 14a

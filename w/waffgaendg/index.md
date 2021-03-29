@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Waffengesetzes
 jurabk: WaffGÄndG
 layout: default
-origslug: waffg_ndg
+origslug: waffgaendg
 slug: waffgaendg
 
 ---

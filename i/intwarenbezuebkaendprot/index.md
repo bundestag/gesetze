@@ -3,7 +3,7 @@ Title: Änderungsprotokoll zum Internationalen Übereinkommen über das Harmonis
   System zur Bezeichnung und Codierung der Waren
 jurabk: IntWarenBezÜbkÄndProt
 layout: default
-origslug: intwarenbez_bk_ndprot
+origslug: intwarenbezuebkaendprot
 slug: intwarenbezuebkaendprot
 
 ---

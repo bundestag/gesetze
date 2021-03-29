@@ -3,7 +3,7 @@ Title: Übereinkommen auf Grund von Artikel K.3 des Vertrags über die Europäis
   über den Einsatz der Informationstechnologie im Zollbereich
 jurabk: ZISÜbk
 layout: default
-origslug: zis_bk
+origslug: zisuebk
 slug: zisuebk
 
 ---

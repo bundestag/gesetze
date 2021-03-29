@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung von Befugnissen auf das Bundesamt für Verbra
   und Lebensmittelsicherheit
 jurabk: BVLÜV
 layout: default
-origslug: bvl_v
+origslug: bvluev
 slug: bvluev
 
 ---
@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 2003, 244
 
 Neugefasst durch
-:   Bek. v. 28.5.2009 I 1220
+:   Bek. v. 28.5.2009 I 1220;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2011 I 2720
+:   Art. 2 V v. 27.9.2017 I 3459
 
 
 ## § 1
@@ -72,33 +72,42 @@ Die Befugnis zum Verkehr
         Mineralwässern (ABl. EG Nr. L 229 S. 1),
 
 
-    g)  des Informationsaustausches nach Artikel 7a Abs. 5 Unterabs. 1 der
-        Richtlinie 76/768/EWG des Rates vom 27. Juli 1976 zur Angleichung der
-        Rechtsvorschriften der Mitgliedstaaten über kosmetische Mittel (ABl.
-        EG Nr. L 262 S. 169),
+    g)  des Informationsaustausches nach Artikel 34 Absatz 2 der Verordnung
+        (EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30.
+        November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S.
+        59) in der jeweils geltenden Fassung,
 
 
-    h)  der Informationspflichten der Mitgliedstaaten nach Artikel 4 Abs. 2
-        Satz 2 und Artikel 6 Abs. 4 der Richtlinie 2001/37/EG des Europäischen
-        Parlaments und des Rates vom 5. Juni 2001 zur Angleichung der Rechts-
-        und Verwaltungsvorschriften der Mitgliedstaaten über die Herstellung,
-        die Aufmachung und den Verkehr von Tabakerzeugnissen (ABl. EG Nr. L
-        194 S. 26),
+    h)  der Informationspflichten der Mitgliedstaaten nach Artikel 4 Absatz 2
+        Satz 3 und Artikel 5 Absatz 7 Satz 2 der Richtlinie 2014/40/EU des
+        Europäischen Parlaments und des Rates vom 3. April 2014 zur
+        Angleichung der Rechts- und Verwaltungsvorschriften der
+        Mitgliedstaaten über die Herstellung, die Aufmachung und den Verkauf
+        von Tabakerzeugnissen und verwandten Erzeugnissen und zur Aufhebung
+        der Richtlinie 2001/37/EG (ABl. L 127 vom 29.4.2014, S. 1),
 
 
     i)  des Informationssystems nach Artikel 11 und 12 der Richtlinie
         2001/95/EG des Europäischen Parlaments und des Rates vom 3. Dezember
         2001 über die allgemeine Produktsicherheit (ABl. EG 2002 Nr. L 11 S.
-        4), soweit dieses Bedarfsgegenstände hinsichtlich ihrer stofflichen
-        Beschaffenheit und kosmetische Mittel im Sinne des Lebensmittel- und
-        Futtermittelgesetzbuches sowie Tabakerzeugnisse im Sinne des
-        Vorläufigen Tabakgesetzes betrifft,
+        4), auch in Verbindung mit Artikel 22 der Verordnung (EG) Nr. 765/2008
+        des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die
+        Vorschriften für die Akkreditierung und Marktüberwachung im
+        Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
+        Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
+        30) in der jeweils geltenden Fassung, soweit dieses Bedarfsgegenstände
+        hinsichtlich ihrer stofflichen Beschaffenheit und Mittel zum
+        Tätowieren einschließlich vergleichbarer Stoffe und Zubereitungen aus
+        Stoffen, die dazu bestimmt sind, zur Beeinflussung des Aussehens in
+        oder unter die menschliche Haut eingebracht zu werden und dort, auch
+        vorübergehend, zu verbleiben, sowie Erzeugnisse im Sinne des § 2
+        Nummer 1 des Tabakerzeugnisgesetzes betrifft,
 
 
-    j)  des Informationsaustausches der Mitgliedstaaten nach Artikel 7 der
-        Richtlinie 88/378/EWG des Rates vom 3. Mai 1988 zur Angleichung der
-        Rechtsvorschriften der Mitgliedstaaten über die Sicherheit von
-        Spielzeug (ABl. EG Nr. L 187 S. 1),
+    j)  des Informationsaustausches der Mitgliedstaaten nach Artikel 42 Absatz
+        2 und 4 der Richtlinie 2009/48/EG des Europäischen Parlaments und des
+        Rates vom 18. Juni 2009 über die Sicherheit von Spielzeug (ABl. L 170
+        vom 30.6.2009, S. 1) in der jeweils geltenden Fassung,
 
 
     k)  der Informationspflichten der Mitgliedstaaten nach Artikel 7 Abs. 3
@@ -122,6 +131,67 @@ Die Befugnis zum Verkehr
         (EG) Nr. 1255/97 (ABl. EU 2005 Nr. L 3 S. 1).
 
 
+    n)  der Übermittlung von Informationen nach Artikel 31 Absatz 1 der
+        Verordnung (EG) Nr. 396/2005 des Europäischen Parlaments und des Rates
+        vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen in oder
+        auf Lebens- und Futtermitteln pflanzlichen und tierischen Ursprungs
+        und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom
+        16\.3.2005, S. 1),
+
+
+    o)  der Übermittlung von Berichten nach Artikel 9 Absatz 2 der Verordnung
+        (EU) Nr. 284/2011 der Kommission vom 22. März 2011 mit besonderen
+        Bedingungen und detaillierten Verfahren für die Einfuhr von Polyamid-
+        und Melamin-Kunststoffküchenartikeln, deren Ursprung oder Herkunft die
+        Volksrepublik China bzw. die Sonderverwaltungsregion Hongkong, China,
+        ist (ABl. L 77 vom 23.3.2011, S. 25),
+
+
+    p)  der Übermittlung von Informationen nach Artikel 9 Absatz 2 Satz 1 der
+        Verordnung (EG) Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur
+        Festsetzung der Höchstgehalte für bestimmte Kontaminanten in
+        Lebensmitteln (ABl. L 364 vom 20.12.2006, S. 5),
+
+
+    q)  der Übermittlung von Berichten nach Artikel 7 Absatz 9 Satz 1 der
+        Verordnung (EG) Nr. 1152/2009 der Kommission vom 27. November 2009 mit
+        Sondervorschriften für die Einfuhr bestimmter Lebensmittel aus
+        bestimmten Drittländern wegen des Risikos einer Aflatoxin-
+        Kontamination und zur Aufhebung der Entscheidung 2006/504/EG (ABl. L
+        313 vom 28.11.2009, S. 40, L 249 vom 27.9.2011, S. 21),
+
+
+    r)  der Mitteilung von Informationen nach Artikel 3 Absatz 2 Satz 1 der
+        Verordnung (EG) Nr. 733/2008 des Rates vom 15. Juli 2008 über die
+        Einfuhrbedingungen für landwirtschaftliche Erzeugnisse mit Ursprung in
+        Drittländern nach dem Unfall im Kernkraftwerk Tschernobyl (ABl. L 201
+        vom 30.7.2008, S. 1),
+
+
+    s)  der Übermittlung von Berichten nach Artikel 5 Satz 1 der Verordnung
+        (EG) Nr. 1135/2009 der Kommission vom 25. November 2009 mit
+        Sondervorschriften für die Einfuhr von bestimmten Erzeugnissen, deren
+        Ursprung oder Herkunft China ist, und zur Aufhebung der Entscheidung
+        2008/798/EG (ABl. L 311 vom 26.11.2009, S. 3, L 161 vom 29.6.2010, S.
+        12),
+
+
+    t)  der Übermittlung von Berichten nach Artikel 10 Unterabsatz 2 der
+        Verordnung (EU) Nr. 258/2010 der Kommission vom 25. März 2010 zum
+        Erlass von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen
+        Ursprung oder Herkunft Indien ist, wegen des Risikos einer
+        Kontamination mit Pentachlorphenol und Dioxinen sowie zur Aufhebung
+        der Entscheidung 2008/352/EG (ABl. L 80 vom 26.3.2010, S. 28),
+
+
+    u)  der Übermittlung von Informationen nach Artikel 10 Absatz 3 Satz 2 der
+        Verordnung (EG) Nr. 282/2008 der Kommission vom 27. März 2008 über
+        Materialien und Gegenstände aus recyceltem Kunststoff, die dazu
+        bestimmt sind, mit Lebensmitteln in Berührung zu kommen, und zur
+        Änderung der Verordnung (EG) Nr. 2023/2006 (ABl. L 86 vom 28.3.2008,
+        S. 9),
+
+
 
 
 
@@ -142,6 +212,17 @@ Die Befugnis zum Verkehr
         zugewiesen worden ist,
 
 
+    c)  des Informationsaustausches nach Artikel 25 Absatz 4 und 5 der
+        Verordnung (EG) Nr. 1223/2009,
+
+
+    d)  des Informationsaustausches nach Artikel 27 Absatz 2 der Verordnung
+        (EG) Nr. 1223/2009,
+
+
+    e)  der Zusammenarbeit nach Artikel 29 der Verordnung (EG) Nr. 1223/2009,
+
+
 
 
 
@@ -156,8 +237,8 @@ Die Befugnis zum Verkehr
         und 38 der Verordnung (EG) Nr. 882/2004,
 
 
-    c)  des Informationsaustausches nach Artikel 7a Abs. 5 Unterabs. 2 der
-        Richtlinie 76/768/EWG,
+    c)  des Informationsaustausches nach Artikel 23 Absatz 2, 3 und 4 der
+        Verordnung (EG) Nr. 1223/2009,
 
 
 
@@ -189,8 +270,9 @@ Die Befugnis zum Verkehr
         1993 Nr. L 62 S. 49),
 
 
-    c)  des Informationsaustausches nach Artikel 24 Abs. 1 und Artikel 25 Abs.
-        1 Unterabs. 1 bis 3 der Richtlinie 97/78/EG des Rates vom 18. Dezember
+    c)  der Übermittlung von Verzeichnissen nach Artikel 12 Absatz 10 und des
+        Informationsaustausches nach Artikel 24 Abs. 1 und Artikel 25 Abs. 1
+        Unterabs. 1 bis 3 der Richtlinie 97/78/EG des Rates vom 18. Dezember
         1997 zur Festlegung von Grundregeln für die Veterinärkontrollen von
         aus Drittländern in die Gemeinschaft eingeführten Erzeugnissen (ABl.
         EG 1998 Nr. L 24 S. 9),
@@ -229,14 +311,7 @@ Die Befugnis zum Verkehr
     Rates vom 23. Februar 2005 über Höchstgehalte an Pestizidrückständen
     in oder auf Lebens- und Futtermitteln pflanzlichen und tierischen
     Ursprungs und zur Änderung der Richtlinie 91/414/EWG des Rates (ABl. L
-    70 vom 16.3.2005, S. 1),
-
-
-7.  mit den zuständigen Behörden und sonstigen Einrichtungen in anderen
-    Mitgliedstaaten der Europäischen Union und anderen Vertragsstaaten des
-    Abkommens über den Europäischen Wirtschaftsraum sowie Drittländern zur
-    Wahrnehmung der Aufgaben nach § 2 Absatz 1a Nummer 2 und 3 des BVL-
-    Gesetzes
+    70 vom 16.3.2005, S. 1)
 
 
 
@@ -247,8 +322,8 @@ Gemeinschaft sind in der jeweils geltenden Fassung anzuwenden.
 
 ## § 2
 
-§ 1 gilt nicht, soweit das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz
+§ 1 gilt nicht, soweit das Bundesministerium für Ernährung und
+Landwirtschaft
 
 1.  im Einzelfall eine in § 1 genannte Befugnis
 
@@ -259,12 +334,14 @@ Landwirtschaft und Verbraucherschutz
         übertragen hat oder
 
 
-    2.  eine in § 1 genannte Befugnis durch Rechtsverordnung mit Zustimmung
-        des Bundesrates auf die zuständigen obersten Landesbehörden übertragen
-        hat.
 
 
 
+
+
+2.  eine in § 1 genannte Befugnis durch Rechtsverordnung mit Zustimmung
+    des Bundesrates auf die zuständigen obersten Landesbehörden übertragen
+    hat.
 
 
 

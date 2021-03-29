@@ -10,16 +10,15 @@ slug: begdv_1
 # Erste Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 1)
 
 Ausfertigungsdatum
-:   1954-09-17
+:   1966-04-13
 
 Fundstelle
-:   BGBl I: 1954, 271
+:   BGBl I: 1966, 292 (393)
 
-Neugefasst durch
-:   Art. I V v. 13.4.1966 I 292, 393;
-
+Stand: Konstitutive Neufassung gem. Art. I V v. 13.4.1966, in Kraft getreten am 4.5.1966
+Stand: Ersetzt V v. 7.9.1954 I 271
 Zuletzt geändert durch
-:   Art. 1 V v. 28.3.2011 I 521
+:   Art. 1 V v. 27.4.2017 I 980
 
 
 ## I. - Besondere Anspruchsvoraussetzungen
@@ -134,12 +133,27 @@ den §§ 15 bis 26 BEG wie den Kindern eines Verfolgten zu.
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich und
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich
 
 
 
@@ -228,12 +242,27 @@ wenn sie
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich und
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich
 
 
 
@@ -515,12 +544,27 @@ berücksichtigt, als sie den Betrag
 
 *    *   ab 1. Juni 2008
 
-    *   von 520 Euro und
+    *   von 520 Euro,
 
 
 *    *   ab 1. Juli 2010
 
-    *   von 530 Euro
+    *   von 530 Euro,
+
+
+*    *   ab 1. Oktober 2012
+
+    *   von 560 Euro,
+
+
+*    *   ab 1. August 2014
+
+    *   von 590 Euro und
+
+
+*    *   ab 1. September 2016
+
+    *   von 620 Euro
 
 
 
@@ -651,12 +695,27 @@ Die Rente erlischt
 
     *        *   ab 1. Juni 2008
 
-        *   ein höherer Betrag als 520 Euro monatlich und
+        *   ein höherer Betrag als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   ein höherer Betrag als 530 Euro monatlich
+        *   ein höherer Betrag als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   ein höherer Betrag als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   ein höherer Betrag als 590 Euro monatlich und
+
+
+    *        *   ab 1. September 2016
+
+        *   ein höherer Betrag als 620 Euro monatlich
 
 
 
@@ -752,12 +811,27 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Juni 2008
 
-        *   von mehr als 520 Euro monatlich und
+        *   von mehr als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   von mehr als 530 Euro monatlich
+        *   von mehr als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   von mehr als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   von mehr als 590 Euro monatlich und
+
+
+    *        *   ab 1. September 2016
+
+        *   von mehr als 620 Euro monatlich,
 
 
 
@@ -818,12 +892,27 @@ Entschädigungsbehörde unverzüglich anzuzeigen:
 
     *        *   ab 1. Juni 2008
 
-        *   von mehr als 520 Euro monatlich und
+        *   von mehr als 520 Euro monatlich,
 
 
     *        *   ab 1. Juli 2010
 
-        *   von mehr als 530 Euro monatlich
+        *   von mehr als 530 Euro monatlich,
+
+
+    *        *   ab 1. Oktober 2012
+
+        *   von mehr als 560 Euro monatlich,
+
+
+    *        *   ab 1. August 2014
+
+        *   von mehr als 590 Euro monatlich und
+
+
+    *        *   ab 1. September 2016
+
+        *   von mehr als 620 Euro monatlich
 
 
 
@@ -1905,37 +1994,48 @@ Adoptivelternteil ..   756         770         402         412
 416
 ----------------------------------------------------------------------
 ---------
-vom         vom         ab
-1\.8.2004    1.6.2008    1.7.2010
-bis         bis         €
-31\.5.2008   30.6.2010
-Euro        €
+vom         vom         vom           vom         vom        ab
+1\.8.2004    1.6.2008    1.7.2010      1.10.2012   1.8.2014   1.9.2016
+bis         bis         bis           bis         bis
+31\.5.2008   30.6.2010   30.9.2012     31.7.2014   31.8.2016
+Euro        €           €             €           €          €
 ----------------------------------------------------------------------
----------
-die Witwe ..........   834         899         918
-den Witwer .........   834         899         918
-die Vollwaise ......   420         453         463
+--------------------------------
+die Witwe ..........  834         899        918           970       1
+019    1 066
+den Witwer .........  834         899        918           970       1
+019    1 066
+die Vollwaise ......  420         453        463           489
+513      537
 die erste und zweite
 Halbwaise,
 wenn keine Rente
 für die Witwe
 oder den Witwer
-gezahlt wird,   je   317         342         349
+gezahlt wird,   je   317         342         349           369
+387     405
 wenn eine Rente
 für die Witwe
 oder den Witwer
-gezahlt wird,   je   233         251         256
+gezahlt wird,   je   233         251         256           271
+285     298
 die dritte und
 jede folgende
-Halbwaise         je   210         226         231
+Halbwaise         je   210         226         231           244
+256     268
 den elternlosen
-Enkel ..............   420         453         463
+Enkel ..............   420         453         463           489
+513     537
 die Eltern oder
 Adoptiveltern
-zusammen ...........   627         676         690
+zusammen ...........   627         676         690           729
+765     800
 einen überlebenden
 Eltern- oder
-Adoptivelternteil .. 420         453         463
+Adoptivelternteil .. 420         453         463           489
+513     537-----------------------------------------------------------
+----------------------------------------------------------------------
+------------------
 
 
 ## IV. - Kapitalentschädigung
@@ -2670,7 +2770,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   54 094
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   25 609
 
@@ -2679,6 +2779,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   42 218
 
     *   55 230
+
+
+*    *   bis 31. 7.2014
+
+    *   27 069
+
+    *   33 380
+
+    *   44 624
+
+    *   58 378
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   28 422
+
+    *   35 049
+
+    *   46 855
+
+    *   61 297
+
+
+*    *
+    *   ab 1.9.2016
+
+    *   29 729
+
+    *   36 661
+
+    *   49 010
+
+    *   64 117
 
 
 *    *   2. Unfallruhegehalt (66 2/3% aus Nr. 1)
@@ -3250,7 +3385,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   36 063
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   17 073
 
@@ -3259,6 +3394,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   28 145
 
     *   36 820
+
+
+*    *   bis 31. 7.2014
+
+    *   18 046
+
+    *   22 253
+
+    *   29 749
+
+    *   38 919
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   18 948
+
+    *   23 366
+
+    *   31 237
+
+    *   40 865
+
+
+*    *
+    *   ab 1.9.2016
+
+    *   19 819
+
+    *   24 441
+
+    *   32 673
+
+    *   42 745
 
 
 *    *   3. Witwengeld (60% aus Nr. 2)
@@ -3830,7 +4000,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   21 636
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   10 248
 
@@ -3839,6 +4009,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   16 884
 
     *   22 092
+
+
+*    *   bis 31. 7.2014
+
+    *   10 824
+
+    *   13 356
+
+    *   17 844
+
+    *   23 352
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   11 364
+
+    *   14 016
+
+    *   18 744
+
+    *   24 516
+
+
+*    *
+    *   ab 1.9.2016
+
+    *   11 892
+
+    *   14 664
+
+    *   19 608
+
+    *   25 644
 
 
 *    *   4. Waisengeld (30% aus Nr. 2)
@@ -4410,7 +4615,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   10 824
 
 
-*    *   ab 1. 7.2010
+*    *   bis 30. 9.2012
 
     *   5 124
 
@@ -4421,10 +4626,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   11 052
 
 
+*    *   bis 31. 7.2014
+
+    *   5 412
+
+    *   6 672
+
+    *   8 928
+
+    *   11 676
+
+
+*    *
+    *   bis 31.8.2016
+
+    *   5 688
+
+    *   7 008
+
+    *   9 372
+
+    *   12 264
+
+
+*    *
+    *   ab 1.9.2016
+
+    *   5 940
+
+    *   7 332
+
+    *   9 804
+
+    *   12 828
 
 
 
-### Anlage 2 (zu § 11 der 1.DV-BEG) Besoldungsübersicht
+
+(zu § 11 der 1.DV-BEG)
+
+### Anlage 2 Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 299
 

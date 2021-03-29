@@ -4,7 +4,7 @@ Title: Bundesgesetz zur Einführung des Bundesgesetzes zur Regelung der rückers
   - BRüG) im Saarland
 jurabk: BRÜGSaarG
 layout: default
-origslug: br_gsaarg
+origslug: bruegsaarg
 slug: bruegsaarg
 
 ---

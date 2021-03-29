@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2001, 1510
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.12.2011 I 2554
+:   Art. 3 G v. 19.10.2016 I 2362
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -29,7 +32,9 @@ Dieses Gesetz gilt für Beamte und Ruhestandsbeamte im Sinne des
 Bundesbeamtengesetzes. Frühere Beamte, die Unterhaltsbeiträge nach den
 Bestimmungen des Beamtenversorgungsgesetzes oder entsprechender
 früherer Regelungen beziehen, gelten bis zum Ende dieses Bezuges als
-Ruhestandsbeamte, ihre Bezüge als Ruhegehalt.
+Ruhestandsbeamte, ihre Bezüge als Ruhegehalt. Frühere Beamte mit
+Anspruch auf Altersgeld gelten, auch soweit der Anspruch ruht, als
+Ruhestandsbeamte; das Altersgeld gilt als Ruhegehalt.
 
 
 ### § 2 Sachlicher Geltungsbereich
@@ -693,6 +698,40 @@ Disziplinarverfahrens, im Hinblick auf die künftige Übertragung von
 Aufgaben oder Ämtern an den Beamten oder im Einzelfall aus besonderen
 dienstlichen Gründen unter Berücksichtigung der Belange des Beamten
 oder anderer Betroffener erforderlich ist.
+
+
+#### § 29a Informationen nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG
+
+Nach Maßgabe des Artikels 56a der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates vom 7. September 2005 über die
+Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom
+3\.2.2009, S. 49), die zuletzt durch die Richtlinie 2013/55/EU (ABl. L
+354 vom 28.12.2013, S. 132) geändert worden ist, unterrichten die
+Dienststellen die zuständigen Behörden der Mitgliedstaaten der
+Europäischen Union über Entscheidungen der Disziplinarorgane über die
+
+1.  Entfernung aus dem Beamtenverhältnis nach § 5 Absatz 1 Nummer 5 in
+    Verbindung mit § 10 Absatz 1,
+
+
+2.  Einstellung eines Disziplinarverfahrens, wenn das Disziplinarverfahren
+    wegen Beendigung des Beamtenverhältnisses nach § 41 Absatz 1 des
+    Bundesbeamtengesetzes nicht zu Ende geführt wird, und
+
+
+3.  Einstellung eines Disziplinarverfahrens, wenn die Beamtin oder der
+    Beamte auf Verlangen nach § 33 des Bundesbeamtengesetzes aus dem
+    Beamtenverhältnis entlassen wird und das Disziplinarverfahren
+    voraussichtlich zur Entfernung aus dem Beamtenverhältnis geführt
+    hätte.
+
+
+
+Der Zeitraum nach Artikel 56a Absatz 2 Satz 2 Buchstabe e der
+Richtlinie 2005/36/EG nach Satz 1 ist der Zeitraum bis zum Erreichen
+der für die jeweilige Laufbahn maßgeblichen gesetzlichen Altersgrenze
+für den Eintritt in den Ruhestand, längstens jedoch 15 Jahre.
 
 
 #### § 30 Abschließende Anhörung
@@ -1942,7 +1981,7 @@ Bundesministerium des Innern, welche Behörde zuständig ist.
 (1) Die nach bisherigem Recht eingeleiteten Disziplinarverfahren
 werden in der Lage, in der sie sich bei Inkrafttreten dieses Gesetzes
 befinden, nach diesem Gesetz fortgeführt, soweit in den Absätzen 2 bis
-11 nichts Abweichendes bestimmt ist. Maßnahmen, die nach bisherigem
+7 nichts Abweichendes bestimmt ist. Maßnahmen, die nach bisherigem
 Recht getroffen worden sind, bleiben rechtswirksam.
 
 (2) Die folgenden Disziplinarmaßnahmen nach bisherigem Recht stehen
@@ -1962,9 +2001,7 @@ folgenden Disziplinarmaßnahmen nach diesem Gesetz gleich:
 
 
 (3) Vor dem Inkrafttreten dieses Gesetzes eingeleitete förmliche
-Disziplinarverfahren werden nach bisherigem Recht fortgeführt. Für die
-Anschuldigung und die Durchführung des gerichtlichen Verfahrens gilt
-ebenfalls das bisherige Recht.
+Disziplinarverfahren werden nach bisherigem Recht fortgeführt.
 
 (4) Die Behörde des Bundesdisziplinaranwalts wird mit Ablauf des 31.
 Dezember 2003 aufgelöst. Ab diesem Zeitpunkt fertigt die
@@ -1973,63 +2010,26 @@ Anschuldigungsschrift; die Vorschriften der Bundesdisziplinarordnung
 sind nicht anzuwenden, soweit sie den Bundesdisziplinaranwalt
 betreffen.
 
-(5) Statthaftigkeit, Frist und Form eines Rechtsbehelfs oder
-Rechtsmittels gegen eine Entscheidung, die vor dem Inkrafttreten
-dieses Gesetzes ergangen ist, bestimmen sich nach bisherigem Recht. Im
-weiteren Verfahren gelten ebenfalls die Bestimmungen des bisherigen
-Rechts.
-
-(6) Die bei Inkrafttreten dieses Gesetzes anhängigen gerichtlichen
-Disziplinarverfahren werden nach den Bestimmungen des bisherigen
-Rechts fortgeführt. Dabei kann der Vorsitz einer oder mehrerer Kammern
-auch einem Richter auf Lebenszeit übertragen werden, der nicht
-Vorsitzender Richter ist. Ab dem Zeitpunkt des Inkrafttretens dieses
-Gesetzes kann von § 45 Abs. 1 der Bundesdisziplinarordnung abgewichen
-werden; ab diesem Zeitpunkt ist § 50 Abs. 1 der
-Bundesdisziplinarordnung nicht mehr anzuwenden.
-
-(7) Das Bundesdisziplinargericht wird mit Ablauf des 31. Dezember 2003
-aufgelöst. Die zu diesem Zeitpunkt bei diesem Gericht anhängigen
-Verfahren gehen in dem Stand, in dem sie sich befinden, auf das
-zuständige Verwaltungsgericht über. Die Vorschriften der
-Bundesdisziplinarordnung über das Verfahren vor dem
-Bundesdisziplinargericht gelten sinngemäß, soweit sie nicht die
-Beteiligung des Bundesdisziplinaranwalts oder die Besetzung der
-Kammern betreffen. Eine mündliche Verhandlung, die in einem anhängigen
-Gerichtsverfahren vor Ablauf des 31. Dezember 2003 geschlossen wurde,
-muss wiedereröffnet werden.
-
-(8) Für die Wiederaufnahme von Disziplinarverfahren, die vor dem
+(5) Für die Wiederaufnahme von Disziplinarverfahren, die vor dem
 Inkrafttreten dieses Gesetzes rechtskräftig abgeschlossen worden sind,
 gilt bis zum Ablauf des 31. Dezember 2003 Abschnitt IV der
 Bundesdisziplinarordnung. Ab diesem Zeitpunkt gelten die Bestimmungen
 dieses Gesetzes.
 
-(9) Die nach bisherigem Recht in einem Disziplinarverfahren ergangenen
+(6) Die nach bisherigem Recht in einem Disziplinarverfahren ergangenen
 Entscheidungen sind nach bisherigem Recht zu vollstrecken, wenn sie
 unanfechtbar geworden sind.
 
-(10) Die Frist für das Verwertungsverbot und ihre Berechnung für die
+(7) Die Frist für das Verwertungsverbot und ihre Berechnung für die
 Disziplinarmaßnahmen, die vor dem Inkrafttreten dieses Gesetzes
 verhängt worden sind, bestimmen sich nach diesem Gesetz. Dies gilt
 nicht, wenn die Frist und ihre Berechnung nach bisherigem Recht für
 den Beamten günstiger ist.
 
-(11) Die beim Bundesverwaltungsgericht im Jahr 2011 nach bisherigem
-Recht bestellten Beamtenbeisitzer bleiben bis zur Auflösung des
-Disziplinarsenats beim Bundesverwaltungsgericht im Amt. Wird die
-Auslosung weiterer Beamtenbeisitzer erforderlich, erfolgt sie für die
-Zeit bis zur Auflösung des Disziplinarsenats beim
-Bundesverwaltungsgericht aus den Listen, die nach § 49 Absatz 1 der
-Bundesdisziplinarordnung in der Fassung der Bekanntmachung vom 20.
-Juli 1967 (BGBl. I S. 750, 984) in der bis zum 31. Dezember 2001
-geltenden Fassung für die Jahre 2008 bis 2011 aufgestellt worden sind.
-Die §§ 51 bis 54 der Bundesdisziplinarordnung bleiben unberührt.
-
-(12) Gebühren nach § 78 Satz 1 werden nur für die nach dem 31.
-Dezember 2009 anhängig werdenden gerichtlichen Verfahren erhoben. Dies
-gilt nicht im Verfahren über ein Rechtsmittel, das nach dem 31.
-Dezember 2009 eingelegt worden ist.
+(8) Gebühren nach § 78 Satz 1 werden nur für die nach dem 31. Dezember
+2009 anhängig werdenden gerichtlichen Verfahren erhoben. Dies gilt
+nicht im Verfahren über ein Rechtsmittel, das nach dem 31. Dezember
+2009 eingelegt worden ist.
 
 
 ### § 86 Verwaltungsvorschriften

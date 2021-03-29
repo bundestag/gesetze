@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 26.9.2002 I 3818;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 5.12.2012 I 2431
+:   Art. 2 G v. 6.6.2017 I 1491
+
+Mittelbare änderung durch
+:   Art. 1 G v. 6.6.2017 I 1493 (Nr. 34) ist berücksichtigt
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -48,13 +51,16 @@ Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
 2.  das Halten von ausländischen Fahrzeugen zum Verkehr auf öffentlichen
     Straßen, solange die Fahrzeuge sich im Inland befinden. Ausgenommen
-    sind hiervon ausschließlich für den Güterkraftverkehr bestimmte
-    Kraftfahrzeuge und Fahrzeugkombinationen mit einem verkehrsrechtlich
-    zulässigen Gesamtgewicht von mindestens 12.000 Kilogramm, die nach
-    Artikel 5 der Richtlinie 1999/62/EG des Europäischen Parlaments und
-    des Rates vom 17. Juni 1999 (ABl. EG Nr. L 187 S. 42) in einem anderen
-    Mitgliedstaat der Europäischen Gemeinschaft zugelassen sind; dies gilt
-    nicht für Fälle der Nummer 3;
+    hiervon sind ausschließlich für den Güterkraftverkehr bestimmte und
+    verwendete Kraftfahrzeuge und Fahrzeugkombinationen mit einem
+    verkehrsrechtlich zulässigen Gesamtgewicht von mehr als 3 500
+    Kilogramm, die nach Artikel 5 der Richtlinie 1999/62/EG des
+    Europäischen Parlaments und des Rates vom 17. Juni 1999 über die
+    Erhebung von Gebühren für die Benutzung bestimmter Verkehrswege durch
+    schwere Nutzfahrzeuge (ABl. L 187 vom 20.7.1999, S. 42), die zuletzt
+    durch die Richtlinie 2013/22/EU (ABl. L 158 vom 10.6.2013, S. 356)
+    geändert worden ist, in der jeweils geltenden Fassung in einem anderen
+    Mitgliedstaat der Europäischen Union zugelassen sind;
 
 
 3.  die widerrechtliche Benutzung von Fahrzeugen;
@@ -114,8 +120,9 @@ bereits nach § 1 Abs. 1 Nr. 1 oder 2 vorgenommen worden ist.
 
 Von der Steuer befreit ist das Halten von
 
-1.  Fahrzeugen, die von den Vorschriften über das Zulassungsverfahren
-    ausgenommen sind;
+1.  Fahrzeugen, die von der Zulassungspflicht nach § 3 Absatz 1 der
+    Fahrzeug-Zulassungsverordnung vom 3. Februar 2011 (BGBl. I S. 139) in
+    der jeweils geltenden Fassung ausgenommen sind;
 
 
 2.  Fahrzeugen, solange sie ausschließlich im Dienst der Bundeswehr, der
@@ -207,10 +214,11 @@ Von der Steuer befreit ist das Halten von
         Schaustellergewerbes verwendet werden,
 
 
-    b)  Wohnwagen mit einem zulässigen Gesamtgewicht von mehr als 3 500
-        Kilogramm und Packwagen mit einem zulässigen Gesamtgewicht von mehr
-        als 2 500 Kilogramm im Gewerbe nach Schaustellerart, solange sie
-        ausschließlich dem Schaustellergewerbe dienen;
+    b)  Wohnwagen und Wohnmobile jeweils mit einem zulässigen Gesamtgewicht
+        von mehr als 3 500 Kilogramm und Packwagen mit einem zulässigen
+        Gesamtgewicht von mehr als 2 500 Kilogramm im Gewerbe nach
+        Schaustellerart, solange sie ausschließlich dem Schaustellergewerbe
+        dienen;
 
 
 
@@ -274,15 +282,21 @@ Von der Steuer befreit ist das Halten von
 11. (weggefallen)
 
 
-12. (weggefallen)
+12. Personenfahrzeugen im Anwendungsbereich der Richtlinie 83/182/EWG des
+    Rates vom 28. März 1983 über Steuerbefreiungen innerhalb der
+    Gemeinschaft bei vorübergehender Einfuhr bestimmter Verkehrsmittel
+    (ABl. L 105 vom 23.4.1983, S. 59), die zuletzt durch die Richtlinie
+    2013/13/EU (ABl. L 141 vom 28.5.2013, S. 30) geändert worden ist, in
+    der jeweiligen Fassung bei Nutzung der Fahrzeuge durch Personen, die
+    ihren gewöhnlichen Wohnsitz nach Artikel 7 dieser Richtlinie in einem
+    anderen Mitgliedstaat der Europäischen Union haben;
 
 
 13. ausländischen Personenkraftfahrzeugen und ihren Anhängern, die zum
     vorübergehenden Aufenthalt in das Inland gelangen, für die Dauer bis
     zu einem Jahr. Die Steuerbefreiung entfällt, wenn die Fahrzeuge der
-    entgeltlichen Beförderung von Personen oder Gütern dienen oder von
-    Personen benutzt werden, die ihren Wohnsitz oder gewöhnlichen
-    Aufenthalt im Inland haben;
+    entgeltlichen Beförderung von Personen oder Gütern dienen oder für
+    diese Fahrzeuge ein regelmäßiger Standort im Inland begründet ist;
 
 
 14. ausländischen Fahrzeugen, die zur Ausbesserung in das Inland gelangen
@@ -319,16 +333,11 @@ solange die Fahrzeuge für schwerbehinderte Personen zugelassen sind,
 die durch einen Ausweis im Sinne des Neunten Buches Sozialgesetzbuch
 oder des Artikels 3 des Gesetzes über die unentgeltliche Beförderung
 Schwerbehinderter im öffentlichen Personenverkehr mit orangefarbenem
-Flächenaufdruck nachweisen, dass sie die Voraussetzungen des § 145
-Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch erfüllen. Die
+Flächenaufdruck nachweisen, dass sie die Voraussetzungen des § 228
+Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch erfüllen. Die
 Steuerermäßigung wird nicht gewährt, solange die schwerbehinderte
-Person das Recht zur unentgeltlichen Beförderung nach § 145 des
-Neunten Buches Sozialgesetzbuch in Anspruch nimmt. Die Inanspruchnahme
-der Steuerermäßigung ist von der für die Ausübung der Verwaltung der
-Kraftfahrzeugsteuer zuständigen Behörde auf dem
-Schwerbehindertenausweis zu vermerken. Der Vermerk ist von der für die
-Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörde zu
-löschen, wenn die Steuerermäßigung entfällt.
+Person das Recht zur unentgeltlichen Beförderung nach § 228 des
+Neunten Buches Sozialgesetzbuch in Anspruch nimmt.
 
 (3) Die Steuervergünstigung der Absätze 1 und 2 steht den behinderten
 Personen nur für ein Fahrzeug und nur auf schriftlichen Antrag zu. Sie
@@ -370,77 +379,45 @@ Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
 Absatz 1 Nummer 4 Satz 1.
 
 
-## § 3c Steuerbefreiung für besonders partikelreduzierte Personenkraftwagen
+## § 3c (weggefallen)
 
-(1) Das Halten von besonders partikelreduzierten Personenkraftwagen
-mit Selbstzündungsmotor ist befristet von der Steuer befreit, wenn das
-Fahrzeug in der Zeit vom 1. Januar 2006 bis zum 31. Dezember 2009
-nachträglich technisch so verbessert wird, dass es einer
-
-1.  der Partikelminderungsstufen PM 01 oder PM 0 bis PM 4 nach § 47 Abs.
-    3a der Straßenverkehrs-Zulassungs-Ordnung in der Fassung der
-    Bekanntmachung vom 28. September 1988 (BGBl. I S. 1793), die zuletzt
-    durch die Verordnung vom 24. Mai 2007 (BGBl. I S. 893) geändert worden
-    ist,
-
-
-2.  der Partikelminderungsklassen PMK 01 oder PMK 0 bis PMK 4 nach § 48
-    Abs. 2 der Straßenverkehrs-Zulassungs-Ordnung
-
-
-
-entspricht. Die Steuerbefreiung wird nur für Personenkraftwagen
-gewährt, die bis zum 31. Dezember 2006 erstmals zugelassen wurden. Sie
-beginnt an dem Tag, an dem nach Feststellung der Zulassungsbehörde die
-Voraussetzungen hierfür erfüllt waren. Die Steuerbefreiung endet,
-sobald die Steuerersparnis auf der Grundlage des jeweiligen
-Steuersatzes nach § 9 Absatz 1 Nummer 2 Buchstabe a den Betrag von 330
-Euro erreicht. Die Steuerbefreiung wird für jedes Fahrzeug nur einmal
-gewährt.
-
-(2) Im Falle einer technischen Verbesserung nach Absatz 1 in der Zeit
-vom 1. Januar 2006 bis zum 31. März 2007 ist die Steuer für den Halter
-neu festzusetzen, auf den das Fahrzeug am 1. April 2007 zugelassen
-ist. Ist das Fahrzeug am 1. April 2007 außer Betrieb gesetzt, erfolgt
-die Neufestsetzung für den Halter, auf den das Fahrzeug nach dem 1.
-April 2007 wieder zugelassen wird. Dabei gilt abweichend von Absatz 1
-der 1. April 2007 als Beginn der befristeten Steuerbefreiung. Eine
-Neufestsetzung für frühere Halter unterbleibt; dies gilt auch dann,
-wenn ein früherer Halter für das Fahrzeug Steuer entrichtet hat.
-
-(3) Soweit die befristete Steuerbefreiung bei einem Halterwechsel noch
-nicht abgelaufen ist, wird sie vorbehaltlich Absatz 2 dem neuen Halter
-gewährt.
-
-(4) Die Zeiten der Außerbetriebsetzung eines Fahrzeugs und die Zeiten
-außerhalb des auf einem Saisonkennzeichen angegebenen
-Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
-
-(5) Die Steuerbefreiung gilt nicht für Kennzeichen im Sinne des § 1
-Abs. 1 Nr. 4 Satz 1.
 
 
 ## § 3d Steuerbefreiung für Elektrofahrzeuge
 
 (1) Von der Steuer befreit ist das Halten von Elektrofahrzeugen im
-Sinne des § 9 Absatz 2. Die Steuerbefreiung wird ab dem Tag der
-erstmaligen Zulassung gewährt für
+Sinne des § 9 Absatz 2. Die Steuerbefreiung wird bei erstmaliger
+Zulassung des Elektrofahrzeugs in der Zeit vom 18. Mai 2011 bis 31.
+Dezember 2020 für zehn Jahre ab dem Tag der erstmaligen Zulassung
+gewährt.
 
-1.  zehn Jahre in der Zeit vom 18. Mai 2011 bis zum 31. Dezember 2015,
-
-
-2.  fünf Jahre in der Zeit vom 1. Januar 2016 bis zum 31. Dezember 2020.
-
-
-
-
-(2) Die Steuerbefreiung wird für jedes Fahrzeug einmal gewährt. Soweit
-sie bei einem Halterwechsel noch nicht abgelaufen ist, wird sie dem
-neuen Halter gewährt.
+(2) Die Steuerbefreiung nach Absatz 1 oder nach § 18 Absatz 4b wird
+für jedes Fahrzeug einmal gewährt. Soweit sie bei einem Halterwechsel
+noch nicht abgelaufen ist, wird sie dem neuen Halter gewährt.
 
 (3) Die Zeiten der Außerbetriebsetzung eines Fahrzeugs und die Zeiten
 außerhalb des auf einem Saisonkennzeichen angegebenen
 Betriebszeitraums haben keine Auswirkungen auf die Steuerbefreiung.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend für technisch umgerüstete
+Fahrzeuge, die ursprünglich zum Zeitpunkt der erstmaligen
+verkehrsrechtlichen Zulassung mit Fremdzündungsmotoren oder
+Selbstzündungsmotoren angetrieben wurden. Die Steuerbefreiung wird
+nach Maßgabe folgender Voraussetzungen gewährt:
+
+1.  das Fahrzeug ist in der Zeit vom 18. Mai 2016 bis zum 31. Dezember
+    2020 nachträglich zu einem Elektrofahrzeug im Sinne des § 9 Absatz 2
+    umgerüstet worden und
+
+
+2.  für die bei der Umrüstung verwendeten Fahrzeugteile ist eine
+    Allgemeine Betriebserlaubnis nach § 22 in Verbindung mit § 20 der
+    Straßenverkehrs-Zulassungs-Ordnung erteilt.
+
+
+
+Die Steuerbefreiung beginnt an dem Tag, an dem die Zulassungsbehörde
+die Voraussetzungen nach Satz 2 als erfüllt feststellt.
 
 
 ## (XXXX) §§ 3e bis 3h (weggefallen)
@@ -483,9 +460,9 @@ ist.
 
 (1) Die Steuerpflicht dauert
 
-1.  bei einem inländischen Fahrzeug, vorbehaltlich der Absätze 2 bis 5,
-    solange das Fahrzeug zum Verkehr zugelassen ist, mindestens jedoch
-    einen Monat;
+1.  bei einem inländischen Fahrzeug, vorbehaltlich des Absatzes 2, solange
+    das Fahrzeug zum Verkehr zugelassen ist, mindestens jedoch einen
+    Monat;
 
 
 2.  bei einem ausländischen Fahrzeug, vorbehaltlich des Absatzes 2,
@@ -501,9 +478,8 @@ ist.
     mindestens jedoch einen Monat;
 
 
-5.  bei einem Saisonkennzeichen, vorbehaltlich der Absätze 2 bis 5,
-    solange das Kennzeichen geführt werden darf, mindestens jedoch einen
-    Monat.
+5.  bei einem Saisonkennzeichen, vorbehaltlich des Absatzes 2, solange das
+    Kennzeichen geführt werden darf, mindestens jedoch einen Monat.
 
 
 
@@ -534,8 +510,8 @@ Entsprechendes gilt, wenn sich die Höhe der Steuer auf Grund eines
 Antrags nach § 3a Abs. 2 oder nach § 10 Abs. 2 (Anhängerzuschlag)
 ändert.
 
-(4) Wird ein inländisches Fahrzeug außer Betrieb gesetzt und wird
-dabei die diesbezügliche Eintragung im Fahrzeugschein und die
+(4) Wird ein inländisches Fahrzeug außer Betrieb gesetzt und werden
+dabei die diesbezügliche Änderung im Fahrzeugschein und die
 Entstempelung des Kennzeichens an verschiedenen Tagen vorgenommen, so
 ist der letzte Tag maßgebend. Die für die Ausübung der Verwaltung der
 Kraftfahrzeugsteuer zuständige Behörde kann für die Beendigung der
@@ -544,12 +520,7 @@ Steuerschuldner glaubhaft macht, dass das Fahrzeug seit dem früheren
 Zeitpunkt nicht benutzt worden ist und dass er die Abmeldung des
 Fahrzeugs nicht schuldhaft verzögert hat.
 
-(5) Wird ein inländisches Fahrzeug veräußert, so endet die
-Steuerpflicht für den Veräußerer in dem Zeitpunkt, in dem die
-verkehrsrechtlich vorgeschriebene Veräußerungsanzeige bei der
-Zulassungsbehörde eingeht, spätestens mit der Aushändigung des neuen
-Fahrzeugscheins an den Erwerber; gleichzeitig beginnt die
-Steuerpflicht für den Erwerber.
+(5) (weggefallen)
 
 
 ## § 6 Entstehung der Steuer
@@ -587,8 +558,8 @@ Steuerschuldner ist
 Die Steuer bemisst sich
 
 1.  bei Fahrzeugen der Klasse M
-    1                    ohne besondere Zweckbestimmung als Wohnmobil oder
-    Kranken- und Leichenwagen (Personenkraftwagen)
+    1 ohne besondere Zweckbestimmung als Wohnmobil oder Kranken- und
+    Leichenwagen (Personenkraftwagen)
 
     a)  mit erstmaliger Zulassung bis zum 30. Juni 2009 und bei Krafträdern
         nach dem Hubraum, soweit diese Fahrzeuge durch Hubkolbenmotoren
@@ -1509,16 +1480,12 @@ entrichtet werden. In diesen Fällen beträgt die Steuer
 
 Ein Wechsel des Entrichtungszeitraums ist nur zulässig, wenn die
 Änderung vor oder spätestens mit der Fälligkeit der neu zu
-entrichtenden Steuer angezeigt wird.
+entrichtenden Steuer schriftlich angezeigt wird.
 
-(3) Die Steuer darf bei ausländischen Fahrzeugen, die zum
-vorübergehenden Aufenthalt in das Inland gelangen, für einen
-Aufenthalt bis zu 30 Tagen auch tageweise entrichtet werden, wenn die
-Gegenseitigkeit gewährleistet ist; diese Voraussetzung entfällt für
-Fahrzeuge, die in den Staaten der Europäischen Wirtschaftsgemeinschaft
-zugelassen sind. Die Tage des Aufenthalts im Inland brauchen nicht
-unmittelbar aufeinander zu folgen. Eine Erstattung der tageweise
-entrichteten Steuer ist ausgeschlossen.
+(3) Die Steuer ist bei ausländischen Fahrzeugen, die zum
+vorübergehenden Aufenthalt in das Inland gelangen, tageweise zu
+entrichten. Die Tage des Aufenthalts im Inland brauchen nicht
+unmittelbar aufeinander zu folgen.
 
 (4) Die Steuer ist abweichend von den Absätzen 1 und 2 für einen nach
 Tagen berechneten Zeitraum im Voraus zu entrichten,
@@ -1588,10 +1555,9 @@ alle in Betracht kommenden Entrichtungszeiträume festgesetzt werden.
     vorliegen,
 
 
-3.  wenn die Steuerpflicht endet, ausgenommen in den Fällen des § 11 Abs.
-    3\. Die Steuerfestsetzung erstreckt sich auf die Zeit vom Beginn des
-    Entrichtungszeitraums, in den das Ende der Steuerpflicht fällt, bis
-    zum Ende der Steuerpflicht,
+3.  wenn die Steuerpflicht endet. Die Steuerfestsetzung erstreckt sich auf
+    die Zeit vom Beginn des Entrichtungszeitraums, in den das Ende der
+    Steuerpflicht fällt, bis zum Ende der Steuerpflicht,
 
 
 4.  wenn eine Steuerfestsetzung fehlerhaft ist, zur Beseitigung des
@@ -1605,7 +1571,8 @@ alle in Betracht kommenden Entrichtungszeiträume festgesetzt werden.
     Entrichtungszeitraums an, in dem der Steuerbescheid erteilt wird,
 
 
-5.  wenn die Dauer der Gültigkeit eines Saisonkennzeichens geändert wird.
+5.  wenn die Dauer des Betriebszeitraums eines Saisonkennzeichens geändert
+    wird.
 
 
 
@@ -1616,22 +1583,10 @@ Steuerfestsetzung für einen bestimmten Zeitraum ergänzt werden. Die
 Ergänzungsfestsetzung ist auf den Unterschiedsbetrag zu beschränken.
 
 (4) Die nach Absatz 1 ergangene Steuerfestsetzung bleibt unberührt,
-wenn der Steuerschuldner den regelmäßigen Standort eines Fahrzeugs in
-den Bezirk einer anderen Zulassungsbehörde verlegt. Dies gilt auch,
-wenn durch die Standortverlegung eine andere für die Ausübung der
-Verwaltung der Kraftfahrzeugsteuer zuständige Behörde örtlich
-zuständig wird.
+wenn für das Fahrzeug des Steuerschuldners eine andere
+Zulassungsbehörde zuständig wird.
 
-(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, dass in den Fällen des § 11 Abs. 1, 2 und 4 Nr. 1 Buchstabe
-a, Nr. 2 und 3 die Steuer durch die Zulassungsbehörde festzusetzen
-ist, wenn und soweit dadurch die Erhebung der Steuer erheblich
-erleichtert oder verbessert wird. Insoweit wird die Zulassungsbehörde
-als Landesfinanzbehörde tätig. Alle weiteren Aufgaben obliegen der für
-die Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen
-Behörde; es darf fehlerhafte Steuerfestsetzungen der Zulassungsbehörde
-aufheben oder ändern und unterbliebene Steuerfestsetzungen selbst
-vornehmen.
+(5) (weggefallen)
 
 
 ## (XXXX) §§ 12a und 12b (weggefallen)
@@ -1645,22 +1600,13 @@ Sinne von § 8 festgestellt und im Fahrzeugschein ausgewiesen sind und
 wenn nachgewiesen ist, dass den Vorschriften über die
 Kraftfahrzeugsteuer genügt ist. Die Zulassung ist davon abhängig, dass
 
-1.  im Falle der Steuerpflicht
-
-    a)  die Kraftfahrzeugsteuer oder ein ihrer voraussichtlichen Höhe
-        entsprechender Betrag für den ersten Entrichtungszeitraum gezahlt ist,
-        soweit eine entsprechende Bestimmung nach § 12 Absatz 5 gilt, und
-
-
-    b)  eine schriftliche Ermächtigung zum Einzug der Kraftfahrzeugsteuer von
-        einem Konto des Fahrzeughalters oder eines Dritten bei einem
-        Geldinstitut erteilt worden ist oder eine Bescheinigung vorgelegt
-        wird, wonach die für die Ausübung der Verwaltung der
-        Kraftfahrzeugsteuer zuständige Behörde auf eine Einzugsermächtigung
-        wegen einer erheblichen Härte für den Fahrzeughalter verzichtet, oder
-
-
-
+1.  Im Falle einer Steuerpflicht eine schriftliche Ermächtigung zum Einzug
+    der Kraftfahrzeugsteuer von einem Konto des Fahrzeughalters oder eines
+    Dritten bei einem Geldinstitut erteilt worden ist oder eine
+    Bescheinigung vorgelegt wird, wonach die für die Ausübung der
+    Verwaltung der Kraftfahrzeugsteuer zuständige Behörde auf eine
+    Einzugsermächtigung wegen einer erheblichen Härte für den
+    Fahrzeughalter verzichtet, oder
 
 
 2.  im Falle einer Steuerbefreiung die Voraussetzungen nachgewiesen oder
@@ -1669,12 +1615,8 @@ Kraftfahrzeugsteuer genügt ist. Die Zulassung ist davon abhängig, dass
 
 
 
-Das Bundesministerium der Finanzen kann durch Rechtsverordnung von
-Satz 2 abweichende Regelungen für das Gebiet einzelner Bundesländer
-treffen, wenn dies aus länderspezifischen Gesichtspunkten erforderlich
-ist.
 
-(1a) Die Zulassung des Fahrzeugs darf erst erfolgen, wenn die Person,
+(2) Die Zulassung des Fahrzeugs darf erst erfolgen, wenn die Person,
 für die das Fahrzeug zum Verkehr zugelassen werden soll, keine
 Kraftfahrzeugsteuerrückstände hat. § 276 Absatz 4 der Abgabenordnung
 ist hierbei entsprechend anzuwenden. Ein halterbezogener
@@ -1696,51 +1638,6 @@ kann mit Zustimmung der für die Ausübung der Verwaltung der
 Kraftfahrzeugsteuer zuständigen Behörde in begründeten Einzelfällen
 Ausnahmen zulassen.
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, dass in den Fällen des Absatzes 1 Nr. 1 Buchstabe a, des
-Absatzes 1a und des § 12 Abs. 5 die Steuer oder ein entsprechender
-Betrag bei der Zulassungsbehörde oder einer für die Zulassungsbehörde
-zuständigen öffentlichen Kasse einzuzahlen ist. Insoweit wird die
-Zulassungsbehörde oder die für sie zuständige öffentliche Kasse als
-Landesfinanzbehörde tätig. Die Landesregierung kann die Ermächtigung
-durch Rechtsverordnung auf die zuständigen obersten Landesbehörden
-übertragen.
-
-(3) Das Bundesministerium der Finanzen wird ermächtigt, zur
-Erleichterung und Vereinfachung des elektronischen Auskunftsverfahrens
-über Kraftfahrzeugsteuerrückstände nach Absatz 1a sowie zur Sicherung
-der Gleichmäßigkeit der Besteuerung und des Steueraufkommens durch
-Rechtsverordnung eine zentrale Datenbank einzurichten, die den Namen,
-das Geburtsdatum, die Anschrift und die Steuernummer des
-Steuerschuldners sowie Betrag und Fälligkeit der rückständigen
-Kraftfahrzeugsteuer enthält, und dabei
-
-1.  die Voraussetzungen für die Anwendung des Verfahrens,
-
-
-2.  die Art und Weise der Übermittlung der Daten,
-
-
-3.  die zuständige Bundesbehörde für die zentrale Verwaltung der Daten,
-
-
-4.  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
-    Daten, insbesondere die technischen und organisatorischen Maßnahmen
-    gegen den unbefugten Abruf von Daten,
-
-
-5.  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten
-    sowie
-
-
-6.  die Fristen, nach deren Ablauf die gespeicherten Daten zu löschen
-    sind,
-
-
-
-zu bestimmen. Für den automatisierten Abruf der Daten gilt § 30 Absatz
-6 der Abgabenordnung.
-
 
 ## § 14 Abmeldung von Amts wegen
 
@@ -1759,8 +1656,8 @@ von Amts wegen ist der Verwaltungsrechtsweg gegeben.
 
 ## § 15 Ermächtigungen
 
-(1) Die Bundesregierung wird ermächtigt, Rechtsverordnungen zu
-erlassen über
+(1) Das Bundesministerium der Finanzen wird ermächtigt,
+Rechtsverordnungen zu erlassen über
 
 1.  die nähere Bestimmung der in diesem Gesetz verwendeten Begriffe,
 
@@ -1816,15 +1713,7 @@ erlassen über
 
 
 
-(2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, dass abweichend von der allgemeinen Zuständigkeitsregelung
-eine andere für die Ausübung der Verwaltung der Kraftfahrzeugsteuer
-zuständige Behörde ganz oder teilweise örtlich zuständig ist, wenn
-dies aus organisatorischen Gründen zweckmäßig erscheint. Die
-Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die
-zuständigen obersten Landesbehörden übertragen.
-
-(3) Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
+(2) Das Bundesministerium der Finanzen wird ermächtigt, den Wortlaut
 dieses Gesetzes und der zu diesem Gesetz erlassenen
 Durchführungsverordnung in der jeweils geltenden Fassung mit neuem
 Datum, unter neuer Überschrift und in neuer Paragraphenfolge bekannt
@@ -1852,8 +1741,7 @@ nach § 3 Abs. 1 Nr. 1 des Kraftfahrzeugsteuergesetzes in der Fassung
 der Bekanntmachung vom 1. Dezember 1972 (BGBl. I S. 2209) erlassen
 war, gelten im Sinne des § 3a Abs. 1 dieses Gesetzes ohne weiteren
 Nachweis als außergewöhnlich gehbehindert, solange nicht nur
-vorübergehend ein Grad der Behinderung von wenigstens 50 vom Hundert
-vorliegt.
+vorübergehend ein Grad der Behinderung von wenigstens 50 vorliegt.
 
 
 ## § 18 Übergangsregelung
@@ -1909,10 +1797,54 @@ Absatz 2 sind und bis zum 17. Mai 2011 erstmals zugelassen wurden,
 bleibt § 3d in der am 5. November 2008 geltenden Fassung weiter
 anwendbar.
 
-(5) Für Wohnmobile bemisst sich die Steuer für die Zeit vom 1. Mai
-2005 bis zum 31. Dezember 2005 bei einem zulässigen Gesamtgewicht bis
-zu 2 800 Kilogramm nach § 8 Nr. 1 und bei einem zulässigen
-Gesamtgewicht über 2 800 Kilogramm nach § 8 Nr. 2.
+(5) Für Personenkraftwagen, auf die § 8 Nummer 1 Buchstabe b Anwendung
+findet, ist § 9 Absatz 1 Nummer 2 Buchstabe b bei erstmaliger
+Zulassung vor dem 1. September 2018 in folgender Fassung anzuwenden:
+
+b)  bei erstmaliger Zulassung ab dem 1. Juli 2009 für je 100
+    Kubikzentimeter Hubraum oder einem Teil davon 2 Euro für
+    Fremdzündungsmotoren und 9,50 Euro für Selbstzündungsmotoren zuzüglich
+    jeweils 2 Euro für jedes Gramm Kohlendioxidemission je Kilometer
+    entsprechend der Richtlinie 93/116/EG der Kommission vom 17. Dezember
+    1993 zur Anpassung der Richtlinie 80/1268/EWG des Rates über den
+    Kraftstoffverbrauch von Kraftfahrzeugen an den technischen Fortschritt
+    (ABl. L 329 vom 30.12.1993, S. 39) oder der Verordnung (EG) Nr.
+    715/2007 in der Fassung der Änderung durch die Verordnung (EU) Nr.
+    459/2012 (ABl. L 142 vom 1.6.2012, S. 16), das bei erstmaliger
+    Zulassung
+
+    aa)
+        *            *   bis zum 31. Dezember 2011
+
+            *   120 g/km,
+
+
+
+
+
+    bb)
+        *            *   ab dem 1. Januar 2012
+
+            *   110 g/km,
+
+
+
+
+
+    cc)
+        *            *   ab dem 1. Januar 2014
+
+            *   95 g/km
+
+
+
+
+
+
+    überschreitet;
+
+
+
 
 (6) In § 9a tritt ab dem Tag des Inkrafttretens der
 Nachfolgerichtlinie zu der Richtlinie 70/220/EWG des Rates vom 20.
@@ -1924,31 +1856,21 @@ Nr. L 206 S. 29), an die Stelle der Partikelminderungsstufe PM 5 der
 Grenzwert für Partikelmasse der nächsten Schadstoffstufe (Euro 5) für
 Personenkraftwagen mit Selbstzündungsmotor.
 
-(7) Verwaltungsverfahren, die bis zum 30. Juni 2009 von der bisher für
-die Durchführung dieses Gesetzes zuständigen Landesfinanzbehörde
-begonnen worden sind, werden von der ab dem 1. Juli 2009 für die
-Ausübung der Verwaltung der Kraftfahrzeugsteuer zuständigen Behörde
-als Bundesfinanzbehörde im Sinne des § 18a Absatz 1 des
-Finanzverwaltungsgesetzes fortgeführt.
+(7) Verwaltungsverfahren in Kraftfahrzeugsteuerangelegenheiten, die
+bis 30. Juni 2014 begonnen worden sind, werden von den spätestens seit
+1\. Juli 2014 zuständigen Bundesfinanzbehörden fortgeführt.
 
-(7a) Für die Aufrechnung nach § 226 der Abgabenordnung gilt als
-Gläubiger oder Schuldner eines Anspruchs aus dem
-Steuerschuldverhältnis auch die Körperschaft, deren Finanzbehörde die
-Verwaltung der Kraftfahrzeugsteuer nach § 18a des
-Finanzverwaltungsgesetzes für das Bundesministerium der Finanzen
-ausübt.
+(7a) (weggefallen)
 
-(8) Soweit bundesrechtlich nichts anderes bestimmt ist, sind § 12
-Absatz 5, § 13 Absatz 2 und § 15 Absatz 2 sowie die darauf beruhenden
-Rechtsverordnungen weiter anzuwenden.
+(8) (weggefallen)
 
-(9) Bis zum Inkrafttreten einer Rechtsverordnung nach § 13 Absatz 3
-werden die bisherigen Verfahren zur Prüfung von
-Kraftfahrzeugsteuerrückständen in den Ländern weiterhin angewandt.
+(9) (weggefallen)
 
 (10) Für vor dem 3. Juni 2010 vorgenommene Fahrzeugabmeldungen von
 Amts wegen bleibt § 14 in der vor dem 3. Juni 2010 geltenden Fassung
-bis zum rechtskräftigen Abschluss des Verfahrens anwendbar.
+bis zum rechtskräftigen Abschluss des Verfahrens anwendbar. Die
+Verfahren werden von der ab 1. Juli 2014 zuständigen
+Bundesfinanzbehörde fortgeführt.
 
 (11) Für Personenkraftwagen, die im Zeitraum vom 1. Juli 2009 bis zum
 3\. Juni 2010 erstmals zugelassen wurden, ist auf schriftlichen Antrag
@@ -1965,4 +1887,16 @@ stellen.
 Fahrzeugklassen und Aufbauarten zu einer niedrigeren Steuer als unter
 Berücksichtigung des § 2 Absatz 2a in der am 1. Juli 2010 geltenden
 Fassung, ist weiterhin § 9 Absatz 1 Nummer 2 anzuwenden.
+
+(13) bedingt zukünftig in Kraft
+
+(14) Der Steuerentlastungsbetrag nach § 9 Absatz 6 Nummer 1 Buchstabe
+a beträgt für die Dauer von zwei Jahren ab dem Tag des vom
+Bundesminister der Finanzen bekannt gegebenen Inkrafttretens von
+Artikel 1 Nummer 7 und 12 Buchstabe f des Zweiten
+Verkehrsteueränderungsgesetzes vom 8. Juni 2015 (BGBl. I S. 901), das
+zuletzt durch das Gesetz zur Änderung des Zweiten
+Verkehrsteueränderungsgesetzes vom 6. Juni 2017 (BGBl. I S. 1493)
+geändert worden ist, in Doppelbuchstabe aa 2,45 Euro und in
+Doppelbuchstabe bb 5,45 Euro.
 

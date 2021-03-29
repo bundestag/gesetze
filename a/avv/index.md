@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2001, 3379
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 22 G v. 24.2.2012 I 212
+:   Art. 2 V v. 17.7.2017 I 2644
+
+Mittelbare änderung durch
+:   Art. 3 V v. 17.7.2017 I 2644 ist berücksichtigt
 
 Diese Verordnung dient der Umsetzung der Entscheidung der Kommission
 2000/532/EG vom 3. Mai 2000 zur Ersetzung der Entscheidung 94/3/EG
@@ -35,7 +38,7 @@ S. 18) zur Änderung der Entscheidung 2000/532/EG.
 
 Diese Verordnung gilt für
 
-1.  die Bezeichnung von Abfall,
+1.  die Bezeichnung von Abfällen,
 
 
 2.  die Einstufung von Abfällen nach ihrer Gefährlichkeit.
@@ -48,17 +51,19 @@ Diese Verordnung gilt für
 
 (1) Soweit Abfälle nach anderen Rechtsvorschriften zu bezeichnen sind,
 sind die Bezeichnungen nach der Anlage (Abfallverzeichnis) zu dieser
-Verordnung (Art und sechsstelliger Schlüssel) zu verwenden.
+Verordnung (sechsstelliger Abfallschlüssel und Abfallbezeichnung) zu
+verwenden.
 
 (2) Zur Bezeichnung sind die Abfälle den im Abfallverzeichnis mit
-einem sechsstelligen Abfallschlüssel gekennzeichneten Abfallarten
-zuzuordnen. Die Zuordnung zu den Abfallarten erfolgt unter den im
-Abfallverzeichnis vorgegebenen Kapiteln (zweistellige
-Kapitelüberschrift) und Gruppen (vierstellige Kapitelüberschrift).
-Innerhalb einer Gruppe ist die speziellere vor der allgemeineren
-Abfallart maßgebend. Die weiteren Vorgaben für die Zuordnung der
-Abfälle in Nummer 2 der Einleitung des Abfallverzeichnisses sind
-einzuhalten.
+einem sechsstelligen Abfallschlüssel und der Abfallbezeichnung
+gekennzeichneten Abfallarten zuzuordnen. Die Zuordnung zu den
+Abfallarten erfolgt unter den im Abfallverzeichnis vorgegebenen
+Kapiteln (zweistellige Kapitelüberschrift) und Gruppen (vierstellige
+Kapitelüberschrift). Innerhalb einer Gruppe ist die speziellere vor
+der allgemeineren Abfallart maßgebend. Für die Bezeichnung der Abfälle
+sind die Begriffsbestimmungen in Nummer 1 der Einleitung des
+Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 3 der
+Einleitung des Abfallverzeichnisses einzuhalten.
 
 (3) Die zuständigen Behörden können die Anordnungen treffen, die zur
 Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und
@@ -67,90 +72,21 @@ Umstellung behördlicher Entscheidungen auf die Abfallschlüssel und
 
 ## § 3 Gefährlichkeit von Abfällen
 
-(1) Die mit einem Sternchen (\*) versehenen Abfallarten im
-Abfallverzeichnis sind gefährlich im Sinne des § 48 des
-Kreislaufwirtschaftsgesetzes. Dies gilt auch für die von den
-öffentlich-rechtlichen Entsorgungsträgern nach § 20 des
-Kreislaufwirtschaftsgesetzes gesammelten Abfälle.
+(1) Die Abfallarten im Abfallverzeichnis, deren Abfallschlüssel mit
+einem Sternchen (\*) versehen sind, sind gefährlich im Sinne des § 48
+des Kreislaufwirtschaftsgesetzes.
 
 (2) Von als gefährlich eingestuften Abfällen wird angenommen, dass sie
-eine oder mehrere der in Anhang III der Richtlinie 2008/98/EG des
-Europäischen Parlaments und des Rates vom 19. November 2008 über
-Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom
-22\.11.2008, S. 3, L 127 vom 26.5.2009, S. 24) aufgeführten
-Eigenschaften und hinsichtlich der dort aufgeführten Eigenschaften H3
-bis H8, H10 und H11 eines oder mehrere der folgenden Merkmale
-aufweisen:
-
-1.  Flammpunkt
-    <= 55 Grad C,
-
-
-2.  Gesamtkonzentration von
-    >= 0,1% an einem oder mehreren als sehr giftig eingestuften Stoffen,
-
-
-3.  Gesamtkonzentration von
-    >= 3% an einem oder mehreren als giftig eingestuften Stoffen,
-
-
-4.  Gesamtkonzentration von
-    >= 25% an einem oder mehreren als gesundheitsschädlich eingestuften
-    Stoffen,
-
-
-5.  Gesamtkonzentration von
-    >= 1% an einem oder mehreren nach R35 als ätzend eingestuften Stoffen,
-
-
-6.  Gesamtkonzentration von
-    >= 5% an einem oder mehreren nach R34 als ätzend eingestuften Stoffen,
-
-
-7.  Gesamtkonzentration von
-    >= 10% an einem oder mehreren nach R41 als reizend eingestuften
-    Stoffen,
-
-
-8.  Gesamtkonzentration von
-    >= 20% an einem oder mehreren nach R36, R37, R38 als reizend
-    eingestuften Stoffen,
-
-
-9.  Konzentration von
-    >= 0,1% an einem als krebserzeugend bekannten Stoff der Kategorie 1
-    oder 2,
-
-
-10. Konzentration von
-    >= 1% an einem als krebserzeugend bekannten Stoff der Kategorie 3,
-
-
-11. Konzentration von
-    >= 0,5% an einem nach R60 oder R61 als fortpflanzungsgefährdend
-    eingestuften Stoff der Kategorie 1 oder 2,
-
-
-12. Konzentration von
-    >= 5% an einem nach R62 oder R63 als fortpflanzungsgefährdend
-    eingestuften Stoff der Kategorie 3,
-
-
-13. Konzentration von
-    >= 0,1% an einem nach R46 als erbgutverändernd eingestuften Stoff der
-    Kategorie 1 oder 2,
-
-
-14. Konzentration von
-    >= 1% an einem nach R40 als erbgutverändernd eingestuften Stoff der
-    Kategorie 3.
-
-
-
-Die Einstufung sowie die R-Nummern beziehen sich auf die Richtlinie
-67/548/EWG zur Angleichung der Rechts- und Verwaltungsvorschriften für
-die Einstufung, Verpackung und Kennzeichnung gefährlicher Stoffe (ABl.
-EG Nr. L 196 S. 1).
+eine oder mehrere der Eigenschaften aufweisen, die in Anhang III der
+Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vom
+19\. November 2008 über Abfälle und zur Aufhebung bestimmter
+Richtlinien (ABl. L 312 vom 22.11.2008, S. 3, L 127 vom 26.5.2009, S.
+24), die durch die Verordnung (EG) Nr. 1357/2014 (ABl. L 365 vom
+19\.12.2014, S. 89) geändert worden ist, in der jeweils geltenden
+Fassung aufgeführt sind. Für die Einstufung der Abfälle sind die
+Begriffsbestimmungen in Nummer 1 der Einleitung des
+Abfallverzeichnisses anzuwenden und die Vorgaben in Nummer 2 der
+Einleitung des Abfallverzeichnisses einzuhalten.
 
 (3) Die zuständige Behörde kann im Einzelfall für Abfälle eine von
 Absatz 1 abweichende Einstufung vornehmen, wenn der Abfallbesitzer
@@ -160,124 +96,261 @@ Eigenschaften (Gefährlichkeitskriterien) aufweist. Die zuständige
 Behörde kann im Einzelfall Abfälle als gefährlich einstufen, wenn ein
 im Abfallverzeichnis als nicht gefährlich aufgeführter Abfall eines
 oder mehrere der vorgenannten Gefährlichkeitskriterien aufweist. Die
-Länder haben solche Entscheidungen jeweils bis zum 31. Dezember des
-Jahres an das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit zur Weiterleitung an die Kommission zu melden.
+Länder haben solche Einstufungen unverzüglich an das Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit zu melden.
 
+(zu § 2 Abs. 1)
 
-## Anlage (zu § 2 Abs. 1) Abfallverzeichnis
+## Anlage Abfallverzeichnis
 
 (Fundstelle: BGBl. I 2001, 3380 - 3406;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Einleitung
+**Einleitung:**
 
-1.  Dieses Verzeichnis ist ein gemeinschaftsrechtlich harmonisiertes
-    Abfallverzeichnis, das regelmäßig auf der Grundlage neuer Erkenntnisse
-    und insbesondere neuer Forschungsergebnisse überprüft und
-    erforderlichenfalls gemäß Artikel 18 der Richtlinie 75/442/EWG
-    geändert wird. Allerdings bedeutet die Aufnahme eines Stoffes in das
-    Verzeichnis nicht, dass dieser Stoff unter allen Umständen ein Abfall
-    ist. Stoffe werden nur dann als Abfall betrachtet, wenn die
-    Voraussetzungen der Begriffsbestimmung von § 3 Absatz 1 des
-    Kreislaufwirtschaftsgesetzes erfüllt sind.
+1.  Begriffsbestimmungen
+
+    Für diese Anlage gelten die folgenden Begriffsbestimmungen:
 
 
-2.  Die verschiedenen Abfallarten in diesem Verzeichnis sind vollständig
-    definiert durch den sechsstelligen Abfallschlüssel und die
-    entsprechenden zwei- bzw. vierstelligen Kapitelüberschriften. Deshalb
-    ist ein Abfall im Verzeichnis in den folgenden vier Schritten zu
-    bestimmen:
-
-    a)  Bestimmung der Herkunft der Abfälle in den Kapiteln 01 bis 12 bzw. 17
-        bis 20 und des entsprechenden sechsstelligen Abfallschlüssels
-        (ausschließlich der auf 99 endenden Schlüssel dieser Kapitel). Eine
-        bestimmte Anlage muss ihre Abfälle je nach der Tätigkeit
-        gegebenenfalls auf mehrere Kapitel aufteilen. So kann z. B. ein
-        Automobilhersteller seine Abfälle je nach Prozessstufe unter Kapitel
-        12 (Abfälle aus Prozessen der mechanischen Formgebung und
-        Oberflächenbearbeitung von Metallen), 11 (anorganische metallhaltige
-        Abfälle aus der Metallbearbeitung und -beschichtung) und 08 (Abfälle
-        aus der Anwendung von Überzügen) finden. Anmerkung: Getrennt
-        gesammelte Verpackungsabfälle (einschließlich Mischverpackungen aus
-        unterschiedlichen Materialien) werden nicht in 20 01, sondern in 15 01
-        eingestuft.
+1.1 gefährlicher Stoff: ein Stoff, der als gefährlich eingestuft ist, da
+    er die Kriterien gemäß Anhang I Teil 2 bis 5 der Verordnung (EG) Nr.
+    1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
+    2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und
+    Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und
+    1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L
+    353 vom 31.12.2008, S. 1) erfüllt;
 
 
-    b)  Lässt sich in den Kapiteln 01 bis 12 und 17 bis 20 kein passender
-        Abfallschlüssel finden, dann müssen zur Bestimmung des Abfalls die
-        Kapitel 13, 14 und 15 geprüft werden.
+1.2 Schwermetall: jede Verbindung von Antimon, Arsen, Cadmium, Chrom (VI),
+    Kupfer, Blei, Quecksilber, Nickel, Selen, Tellur, Thallium oder Zinn
+    sowie diese Stoffe in metallischer Form, sofern die Verbindung oder
+    der Stoff als gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
 
 
-    c)  Trifft keiner dieser Abfallschlüssel zu, dann ist der Abfall gemäß
-        Kapitel 16 zu bestimmen.
+1.3 polychlorierte Biphenyle und polychlorierte Terphenyle (PCB): PCB
+    gemäß der Begriffsbestimmung in Artikel 2 Buchstabe a der Richtlinie
+    96/59/EG des Rates vom 16. September 1996 über die Beseitigung
+    polychlorierter Biphenyle und polychlorierter Terphenyle (PCB/PCT)
+    (ABl. L 243 vom 24.9.1996, S. 31);
 
 
-    d)  Fällt der Abfall auch nicht unter Kapitel 16, dann ist der auf 99
-        endende Schlüssel (Abfälle a. n. g.) in dem Teil des Verzeichnisses zu
-        verwenden, der der in Schritt 1 bestimmten abfallerzeugenden Tätigkeit
-        entspricht.
+1.4 Übergangsmetall: jede Verbindung von Scandium, Vanadium, Mangan,
+    Cobalt, Kupfer, Yttrium, Niob, Hafnium, Wolfram, Titan, Chrom, Eisen,
+    Nickel, Zink, Zirconium, Molybdän oder Tantal sowie diese Stoffe in
+    metallischer Form, sofern die Verbindung oder der Stoff als
+    gefährlicher Stoff nach Nummer 1.1 eingestuft ist;
 
 
+1.5 Stabilisierung: Prozesse, die die Gefährlichkeit der Bestandteile des
+    Abfalls ändern und gefährlichen Abfall in nicht gefährlichen Abfall
+    umwandeln;
 
 
-
-3.  Für die Zwecke dieser Verordnung bedeutet "gefährlicher Stoff" jeder
-    Stoff, der gemäß der Gefahrstoffverordnung als gefährlich eingestuft
-    wurde oder künftig so eingestuft wird; "Schwermetall" bedeutet jede
-    Verbindung von Antimon, Arsen, Kadmium, Chrom (VI), Kupfer, Blei,
-    Quecksilber, Nickel, Selen, Tellur, Thallium und Zinn sowie diese
-    Stoffe in metallischer Form, sofern sie als gefährliche Stoffe
-    eingestuft sind.
+1.6 Verfestigung: Prozesse, die lediglich die physikalische Beschaffenheit
+    des Abfalls durch die Verwendung von Zusatzstoffen ändern, ohne die
+    chemischen Eigenschaften des Abfalls zu berühren;
 
 
-4.  Die Bestimmungen von § 3 Abs. 2 gelten nicht für reine
-    Metalllegierungen, sofern diese nicht durch gefährliche Stoffe
+1.7 teilweise stabilisierte Abfälle: Abfälle, die nach erfolgtem
+    Stabilisierungsprozess gefährliche Bestandteile enthalten, die nicht
+    vollständig in nicht gefährliche Bestandteile umgewandelt wurden und
+    die kurz-, mittel- oder langfristig in die Umwelt abgegeben werden
+    könnten;
+
+
+2.  Bewertung und Einstufung
+
+
+2.1 Bewertung der gefahrenrelevanten Eigenschaften von Abfällen
+
+    Bei der Bewertung der gefahrenrelevanten Eigenschaften von Abfällen
+    gelten die Kriterien des Anhangs III der Richtlinie 2008/98/EG. Bei
+    der Bewertung der gefahrenrelevanten Eigenschaften HP 4, HP 6 und HP 8
+    gelten die Berücksichtigungsgrenzwerte für einzelne Stoffe gemäß
+    Anhang III der Richtlinie 2008/98/EG. Ist ein Stoff im Abfall in einer
+    Konzentration unterhalb des Berücksichtigungsgrenzwerts vorhanden, so
+    wird er bei der Berechnung eines Schwellenwerts nicht berücksichtigt.
+    Wurde eine gefahrenrelevante Eigenschaft eines Abfalls sowohl durch
+    eine Prüfung nach Nummer 2.2.2 als auch anhand der Konzentrationen
+    gefährlicher Stoffe gemäß Anhang III der Richtlinie 2008/98/EG
+    bewertet, so sind die Ergebnisse der Prüfung nach Nummer 2.2.2
+    ausschlaggebend.
+
+
+2.2 Einstufung von Abfällen als gefährliche Abfälle
+
+    Für die Einstufung von Abfällen als gefährliche oder nicht gefährliche
+    Abfallarten gilt Folgendes:
+
+
+2.2.1 Ein Abfall wird im Abfallverzeichnis als gefährlich eingestuft, wenn
+    dieser Abfall relevante gefährliche Stoffe enthält, aufgrund derer er
+    eine oder mehrere der in Anhang III der Richtlinie 2008/98/EG
+    aufgeführten gefahrenrelevanten Eigenschaften HP 1 bis HP 8 oder HP 10
+    bis HP 15 aufweist. Das Vorliegen der gefahrenrelevanten Eigenschaft
+    HP 9 wird angenommen bei mit gefährlichen Erregern behafteten Abfällen
+    gemäß § 17 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S.
+    1045), das zuletzt durch Artikel 6a des Gesetzes vom 10. Dezember 2015
+    (BGBl. I S. 2229) geändert worden ist, sowie bei Abfällen mit Erregern
+    (Ansteckungsstoffen) der Tierkrankheiten, die in der Verordnung über
+    anzeigepflichtige Tierseuchen in der Fassung der Bekanntmachung vom
+    19\. Juli 2011 (BGBl. I S. 1404), die zuletzt durch Artikel 6 der
+    Verordnung vom 29. Dezember 2014 (BGBl. I S. 2481) geändert worden
+    ist, oder der Anlage zu § 1 der Verordnung über meldepflichtige
+    Tierkrankheiten in der Fassung der Bekanntmachung vom 11. Februar 2011
+    (BGBl. I S. 252), die zuletzt durch Artikel 381 der Verordnung vom 31.
+    August 2015 (BGBl. I S. 1474) geändert worden ist, genannt werden.
+
+
+2.2.2 Eine gefahrenrelevante Eigenschaft kann anhand der Konzentrationen von
+    Stoffen im Abfall gemäß Anhang III der Richtlinie 2008/98/EG oder –
+    sofern die Verordnung (EG) Nr. 1272/2008 nichts anderes bestimmt –
+    anhand einer Prüfung im Einklang mit der Verordnung (EG) Nr. 440/2008
+    der Kommission vom 30. Mai 2008 zur Festlegung von Prüfmethoden gemäß
+    der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des
+    Rates zur Registrierung, Bewertung, Zulassung und Beschränkung
+    chemischer Stoffe (REACH) (ABl. L 142 vom 31.5.2008, S. 1) oder anhand
+    anderer international anerkannter Prüfmethoden und Leitlinien bewertet
+    werden, wobei Artikel 7 der Verordnung (EG) Nr. 1272/2008 in Bezug auf
+    Tierversuche und Versuche am Menschen zu berücksichtigen ist.
+
+
+2.2.3 Abfälle, die polychlorierte Dibenzo-p-dioxine (PCDD) und
+    polychlorierte Dibenzofurane (PCDF),
+    1,1,1-Trichlor-2,2-bis(4-chlorphenyl)ethan (DDT), Chlordan,
+    Hexachlorcyclohexane (einschließlich Lindan), Dieldrin, Endrin,
+    Heptachlor, Hexachlorbenzol, Chlordecon, Aldrin, Pentachlorbenzol,
+    Mirex, Toxaphen, Hexabrombiphenyl oder PCB in Konzentrationen oberhalb
+    der Konzentrationsgrenzwerte gemäß Anhang IV der Verordnung (EG) Nr.
+    850/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
+    über persistente organische Schadstoffe und zur Änderung der
+    Richtlinie
+    79/117/EWG (ABl. L 158 vom 30.4.2004, S. 7; L 229 vom 29.6.2004, S.
+    5), die zuletzt durch die Verordnung (EU) 2016/460 der Kommission vom
+    30\. März 2016 (ABl. L 80 vom 31.3.2016, S. 17) geändert worden ist,
+    enthalten, werden als gefährlich eingestuft.
+
+
+2.2.4 Die in Anhang III der Richtlinie 2008/98/EG festgelegten
+    Konzentrationsgrenzwerte gelten für reine Metalllegierungen in
+    massiver Form nur dann, sofern diese durch gefährliche Stoffe
     verunreinigt sind.
+
+
+2.2.5 Bei der Feststellung der gefahrenrelevanten Eigenschaften von Abfällen
+    können die folgenden Anmerkungen in Anhang VI der Verordnung (EG) Nr.
+    1272/2008 berücksichtigt werden:
+
+
+2.2.5.1 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.1
+    genannten Anmerkungen zur Identifizierung, Einstufung und
+    Kennzeichnung von Stoffen: Anmerkungen B, D, F, J, L, M, P, Q, R und
+    U,
+
+
+2.2.5.2 Verordnung (EG) Nr. 1272/2008, Anhang VI, die in Ziffer 1.1.3.2
+    genannten Anmerkungen zur Einstufung und Kennzeichnung von Gemischen:
+    Anmerkungen 1, 2, 3 und 5.
+
+
+2.2.6 Nach der Bewertung der gefahrenrelevanten Eigenschaften eines Abfalls
+    im Einklang mit den vorgenannten Verfahrensschritten wird dem Abfall
+    ein passender gefahrenrelevanter oder nicht gefahrenrelevanter Eintrag
+    aus dem Abfallverzeichnis zugewiesen.
+
+
+2.2.7 Bei der Einstufung nach HP 4 und HP 8 kommt einem pH-Wert* 2 oder
+    einem pH-Wert* 11,5 Indizwirkung zu.
+
+
+3.  Abfallverzeichnis
+
+    Die verschiedenen Abfallarten in diesem Abfallverzeichnis sind
+    vollständig definiert durch die zweistelligen Kapitel, die
+    vierstelligen Gruppen, den sechsstelligen Abfallschlüssel und die
+    Abfallbezeichnung. Die Aufnahme eines Stoffes oder Gegenstandes in das
+    Abfallverzeichnis bedeutet nicht, dass dieser Stoff oder Gegenstand
+    unter allen Umständen Abfall ist. Stoffe oder Gegenstände sind nur
+    dann Abfälle, wenn sie unter die Begriffsbestimmung des § 3 Absatz 1
+    des Kreislaufwirtschaftsgesetzes fallen.
+
+    Ein Abfall ist gemäß der Systematik des Abfallverzeichnisses nach den
+    folgenden vier Schritten einer Abfallart zuzuordnen:
+
+
+3.1 Bestimmung der Abfallart nach der Herkunft in den Kapiteln 01 bis 12
+    oder 17 bis 20 und des entsprechenden sechsstelligen Abfallschlüssels
+    (ohne die auf 99 endenden Abfallschlüssel dieser Kapitel). Abfälle aus
+    einer bestimmten Anlage sind je nach Herkunft entsprechend der
+    Tätigkeit gegebenenfalls mehreren Kapiteln zuzuordnen. So kann z. B.
+    ein Automobilhersteller seine Abfälle je nach Prozessstufe unter
+    Kapitel 12 (Abfälle aus Prozessen der mechanischen Formgebung und
+    Oberflächenbearbeitung von Metallen), 11 (anorganische metallhaltige
+    Abfälle aus der Metallbearbeitung und -beschichtung) und 08 (Abfälle
+    aus der Anwendung von Überzügen) finden.
+
+
+3.2 Lässt sich in den Kapiteln 01 bis 12 und 17 bis 20 keine passende
+    Abfallart finden, so müssen zur Bestimmung des Abfalls die Kapitel 13,
+    14 und 15 geprüft werden.
+
+
+3.3 Passt auch keine dieser Abfallarten, so ist der Abfall gemäß Kapitel
+    16 zu bestimmen.
+
+
+3.4 Fällt der Abfall auch nicht unter Kapitel 16, so ist die Abfallart,
+    deren Abfallschlüssel mit den Ziffern 99 (Abfälle anderweitig nicht
+    genannt (a. n. g.)) endet, in dem Teil des Abfallverzeichnisses zu
+    verwenden, der der in Schritt 1 bestimmten abfallerzeugenden Tätigkeit
+    entspricht.
+
 
 
 
 Index
-Kapitel des Verzeichnisses
+## Kapitel des Abfallverzeichnisses
 
-1.  Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der
+
+01. Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der
     physikalischen und chemischen Behandlung von Bodenschätzen entstehen
 
 
-2.  Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
+02. Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft,
     Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und
     Verarbeitung von Nahrungsmitteln
 
 
-3.  Abfälle aus der Holzbearbeitung und der Herstellung von Platten,
+03. Abfälle aus der Holzbearbeitung und der Herstellung von Platten,
     Möbeln, Zellstoffen, Papier und Pappe
 
 
-4.  Abfälle aus der Leder-, Pelz- und Textilindustrie
+04. Abfälle aus der Leder-, Pelz- und Textilindustrie
 
 
-5.  Abfälle aus der Erdölraffination, Erdgasreinigung und Kohlepyrolyse
+05. Abfälle aus der Erdölraffination, Erdgasreinigung und Kohlepyrolyse
 
 
-6.  Abfälle aus anorganisch-chemischen Prozessen
+06. Abfälle aus anorganisch-chemischen Prozessen
 
 
-7.  Abfälle aus organisch-chemischen Prozessen
+07. Abfälle aus organisch-chemischen Prozessen
 
 
-8.  Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
-    von Beschichtungen (Farben, Lacken, Email), Klebstoffen, Dichtmassen
+08. Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
+    von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen
     und Druckfarben
 
 
-9.  Abfälle aus der fotografischen Industrie
+09. Abfälle aus der fotografischen Industrie
 
 
 10. Abfälle aus thermischen Prozessen
 
 
 11. Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von
-    Metallen und anderen Werkstoffen; Nichteisen-Hydrometallurgie
+    Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
 
 
 12. Abfälle aus Prozessen der mechanischen Formgebung sowie der
@@ -285,16 +358,16 @@ Kapitel des Verzeichnisses
     und Kunststoffen
 
 
-13. Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle, 05
-    und 12)
+13. Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und
+    Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)
 
 
 14. Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer
-    07 und 08)
+    Abfälle, die unter Kapitel 07 oder 08 fallen)
 
 
 15. Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und
-    Schutzkleidung (a.n.g.)
+    Schutzkleidung (a. n. g.)
 
 
 16. Abfälle, die nicht anderswo im Verzeichnis aufgeführt sind
@@ -316,8 +389,7 @@ Kapitel des Verzeichnisses
 
 20. Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und
     industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich
-    getrennt gesammelter Fraktionen --------------------------------------
-    -----------------------------------------
+    getrennt gesammelter Fraktionen
 
 
 
@@ -385,8 +457,14 @@ Kapitel des Verzeichnisses
 
 *    *   01 03 09
 
-    *   Rotschlamm aus der Aluminiumoxidherstellung mit Ausnahme von
-        Rotschlamm, der unter 01 03 07 fällt
+    *   Rotschlamm aus der Aluminiumoxidherstellung mit Ausnahme von Abfällen,
+        die unter 01 03 10 fallen
+
+
+*    *   01 03 10\*
+
+    *   Rotschlamm aus der Aluminiumoxidherstellung, der gefährliche Stoffe
+        enthält, mit Ausnahme der unter 01 03 07 genannten Abfälle
 
 
 *    *   01 03 99
@@ -1328,12 +1406,12 @@ Kapitel des Verzeichnisses
 
 *    *   06 08
 
-    *   Abfälle aus HZVA von Silizium und Siliziumverbindungen
+    *   Abfälle aus HZVA von Silicium und Siliciumverbindungen
 
 
 *    *   06 08 02\*
 
-    *   gefährliche Chlorsilane enthaltende Abfälle
+    *   Abfälle, die gefährliche Chlorsilane enthalten
 
 
 *    *   06 08 99
@@ -1343,8 +1421,8 @@ Kapitel des Verzeichnisses
 
 *    *   06 09
 
-    *   Abfälle aus HZVA von phosphorhaltigen Chemikalien aus der
-        Phosphorchemie
+    *   **Abfälle aus HZVA von phosphorhaltigen Chemikalien und aus der
+        Phosphorchemie**
 
 
 *    *   06 09 02
@@ -1355,6 +1433,7 @@ Kapitel des Verzeichnisses
 *    *   06 09 03\*
 
     *   Reaktionsabfälle auf Calciumbasis, die gefährliche Stoffe enthalten
+        oder durch gefährliche Stoffe verunreinigt sind
 
 
 *    *   06 09 04
@@ -1370,7 +1449,7 @@ Kapitel des Verzeichnisses
 
 *    *   06 10
 
-    *   Abfälle aus HZVA von stickstoffhaltigen Chemikalien aus der
+    *   Abfälle aus HZVA von stickstoffhaltigen Chemikalien, aus der
         Stickstoffchemie und der Herstellung von Düngemitteln
 
 
@@ -1401,7 +1480,7 @@ Kapitel des Verzeichnisses
 
 *    *   06 13
 
-    *   Abfälle aus anorganischen chemischen Prozessen a. n. g.
+    *   Abfälle aus anorganisch-chemischen Prozessen a. n. g.
 
 
 *    *   06 13 01\*
@@ -1567,7 +1646,7 @@ Kapitel des Verzeichnisses
 
 *    *   07 02 16\*
 
-    *   gefährliche Silicone enthaltende Abfälle
+    *   Abfälle, die gefährliche Silicone enthalten
 
 
 *    *   07 02 17
@@ -1885,8 +1964,9 @@ Kapitel des Verzeichnisses
 
 *    *   08
 
-    *   Abfälle aus HZVA von Beschichtungen (Farben, Lacke, Email),
-        Klebstoffen, Dichtmassen und Druckfarben
+    *   Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA)
+        von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen
+        und Druckfarben
 
 
 *    *   08 01
@@ -1908,13 +1988,13 @@ Kapitel des Verzeichnisses
 
 *    *   08 01 13\*
 
-    *   Farb- oder Lackschlämme, die organische Lösemittel oder andere
+    *   Farb- und Lackschlämme, die organische Lösemittel oder andere
         gefährliche Stoffe enthalten
 
 
 *    *   08 01 14
 
-    *   Farb- oder Lackschlämme mit Ausnahme derjenigen, die unter 08 ß1 13
+    *   Farb- und Lackschlämme mit Ausnahme derjenigen, die unter 08 01 13
         fallen
 
 
@@ -2363,8 +2443,8 @@ Kapitel des Verzeichnisses
 
 *    *   10 02 08
 
-    *   Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10
-        02 07 fallen
+    *   feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die
+        unter 10 02 07 fallen
 
 
 *    *   10 02 10
@@ -2453,7 +2533,7 @@ Kapitel des Verzeichnisses
 
 *    *   10 03 18
 
-    *   Abfälle aus der Anodenherstellung, die Kohlenstoffe enthalten, mit
+    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit
         Ausnahme derjenigen, die unter 10 03 17 fallen
 
 
@@ -2475,8 +2555,8 @@ Kapitel des Verzeichnisses
 
 *    *   10 03 22
 
-    *   Teilchen und Staub (einschließlich Kugelmühlenstaub) mit Ausnahme
-        derjenigen, die unter 10 03 21 fallen
+    *   andere Teilchen und Staub (einschließlich Kugelmühlenstaub) mit
+        Ausnahme derjenigen, die unter 10 03 21 fallen
 
 
 *    *   10 03 23\*
@@ -2781,8 +2861,8 @@ Kapitel des Verzeichnisses
 
 *    *   10 08 13
 
-    *   kohlenstoffhaltige Abfälle aus der Anodenherstellung mit Ausnahme
-        derjenigen, die unter 10 08 12 fallen
+    *   Abfälle aus der Anodenherstellung, die Kohlenstoff enthalten, mit
+        Ausnahme derjenigen, die unter 10 08 12 fallen
 
 
 *    *   10 08 14
@@ -2877,7 +2957,7 @@ Kapitel des Verzeichnisses
 
 *    *   10 09 12
 
-    *   Teilchen mit Ausnahme derjenigen, die unter 10 09 11 fallen
+    *   andere Teilchen mit Ausnahme derjenigen, die unter 10 09 11 fallen
 
 
 *    *   10 09 13\*
@@ -2957,7 +3037,7 @@ Kapitel des Verzeichnisses
 
 *    *   10 10 12
 
-    *   Teilchen mit Ausnahme derjenigen, die unter 10 10 11 fallen
+    *   andere Teilchen mit Ausnahme derjenigen, die unter 10 10 11 fallen
 
 
 *    *   10 10 13\*
@@ -3017,7 +3097,7 @@ Kapitel des Verzeichnisses
 *    *   10 11 11\*
 
     *   Glasabfall in kleinen Teilchen und Glasstaub, die Schwermetalle
-        enthalten (z.B. aus Elektronenstrahlröhren)
+        enthalten (z.B. aus Kathodenstrahlröhren)
 
 
 *    *   10 11 12
@@ -3219,7 +3299,7 @@ Kapitel des Verzeichnisses
 *    *   11
 
     *   Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von
-        Metallen und anderen Werkstoffen; Nichteisen-Hydrometallurgie
+        Metallen und anderen Werkstoffen; Nichteisenhydrometallurgie
 
 
 *    *   11 01
@@ -3408,7 +3488,7 @@ Kapitel des Verzeichnisses
 
 *    *   12 01 02
 
-    *   Eisenstaub und -teile
+    *   Eisenstaub und -teilchen
 
 
 *    *   12 01 03
@@ -3527,8 +3607,8 @@ Kapitel des Verzeichnisses
 
 *    *   13
 
-    *   Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und
-        Ölabfälle, die unter 05, 12 und 19 fallen)
+    *   **Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle
+        und Ölabfälle, die unter Kapitel 05, 12 oder 19 fallen)**
 
 
 *    *   13 01
@@ -3538,9 +3618,7 @@ Kapitel des Verzeichnisses
 
 *    *   13 01 01\*
 
-    *[^BJNR337910001BJNE000401320_001_BJNR337910001BJNE000402310]
-   Hydrauliköle, die PCB
-        enthalten
+    *   Hydrauliköle, die PCB enthalten
 
 
 *    *   13 01 04\*
@@ -3742,8 +3820,8 @@ Kapitel des Verzeichnisses
 
 *    *   14
 
-    *   Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer
-        07 und 08)
+    *   **Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen
+        (außer Abfälle, die unter Kapitel 07 oder 08 fallen)**
 
 
 *    *   14 06
@@ -3754,7 +3832,7 @@ Kapitel des Verzeichnisses
 
 *    *   14 06 01\*
 
-    *   Fluorchlorkohlenwasserstoffe, H-FCKW, H-FKW
+    *   Fluorchlorkohlenwasserstoffe, HFCKW, HFKW
 
 
 *    *   14 06 02\*
@@ -3894,12 +3972,12 @@ Kapitel des Verzeichnisses
 
 *    *   16 01 08\*
 
-    *   quecksilberhaltige Bestandteile
+    *   quecksilberhaltige Bauteile
 
 
 *    *   16 01 09\*
 
-    *   Bestandteile, die PCB enthalten
+    *   Bauteile, die PCB enthalten
 
 
 *    *   16 01 10\*
@@ -3975,7 +4053,7 @@ Kapitel des Verzeichnisses
 
 *    *   16 02
 
-    *   Abfälle aus elektrischen und elektronischen Geräten
+    *   **Elektrische und elektronische Geräte und deren Bauteile**
 
 
 *    *   16 02 09\*
@@ -3991,8 +4069,8 @@ Kapitel des Verzeichnisses
 
 *    *   16 02 11\*
 
-    *   gebrauchte Geräte, die teil- und vollhalogenierte
-        Fluorchlorkohlenwasserstoffe enthalten
+    *   gebrauchte Geräte, die Fluorchlorkohlenwasserstoffe, HFCKW oder HFKW
+        enthalten
 
 
 *    *   16 02 12\*
@@ -4002,8 +4080,8 @@ Kapitel des Verzeichnisses
 
 *    *   16 02 13\*
 
-    *[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000402310]
-   gefährliche Bestandteile
+    *[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000407116]
+   gefährliche Bauteile
         enthaltende gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02
         09 bis 16 02 12 fallen
 
@@ -4016,13 +4094,13 @@ Kapitel des Verzeichnisses
 
 *    *   16 02 15\*
 
-    *   aus gebrauchten Geräten entfernte gefährliche Bestandteile
+    *   aus gebrauchten Geräten entfernte gefährliche Bauteile
 
 
 *    *   16 02 16
 
-    *   aus gebrauchten Geräten entfernte Bestandteile mit Ausnahme
-        derjenigen, die unter 16 02 15 fallen
+    *   aus gebrauchten Geräten entfernte Bauteile mit Ausnahme derjenigen,
+        die unter 16 02 15 fallen
 
 
 *    *   16 03
@@ -4051,6 +4129,11 @@ Kapitel des Verzeichnisses
     *   organische Abfälle mit Ausnahme derjenigen, die unter 16 03 05 fallen
 
 
+*    *   16 03 07\*
+
+    *   metallisches Quecksilber
+
+
 *    *   16 04
 
     *   Explosivabfälle
@@ -4058,7 +4141,7 @@ Kapitel des Verzeichnisses
 
 *    *   16 04 01\*
 
-    *   Munition
+    *   Munitionsabfälle
 
 
 *    *   16 04 02\*
@@ -4181,9 +4264,8 @@ Kapitel des Verzeichnisses
 
 *    *   16 08 02\*
 
-    *[^BJNR337910001BJNE000401320_003_BJNR337910001BJNE000402310]
-   gebrauchte Katalysatoren, die gefährliche Übergangsmetalle
-        oder deren Verbindungen enthalten
+    *   gebrauchte Katalysatoren, die gefährliche Übergangsmetalle oder deren
+        Verbindungen enthalten
 
 
 *    *   16 08 03
@@ -4291,8 +4373,8 @@ Kapitel des Verzeichnisses
 
 *    *   16 11 04
 
-    *   Auskleidungen und feuerfeste Materialien aus metallurgischen Prozessen
-        mit Ausnahme derjenigen, die unter 16 11 03 fallen
+    *   andere Auskleidungen und feuerfeste Materialien aus metallurgischen
+        Prozessen mit Ausnahme derjenigen, die unter 16 11 03 fallen
 
 
 *    *   16 11 05\*
@@ -4330,7 +4412,7 @@ Kapitel des Verzeichnisses
 
 *    *   17 01 03
 
-    *   Fliesen, Ziegel und Keramik
+    *   Fliesen und Keramik
 
 
 *    *   17 01 06\*
@@ -4816,15 +4898,13 @@ Kapitel des Verzeichnisses
 
 *    *   19 03
 
-    *[^BJNR337910001BJNE000401320_004_BJNR337910001BJNE000402310]
-   Stabilisierte und verfestigte Abfälle
+    *   Stabilisierte und verfestigte Abfälle
 
 
 *    *   19 03 04\*
 
-    *[^BJNR337910001BJNE000401320_005_BJNR337910001BJNE000402310]
-   als gefährlich eingestufte teilweise stabilisierte
-        Abfälle
+    *   als gefährlich eingestufte teilweise stabilisierte Abfälle, mit
+        Ausnahme derjenigen, die unter 19 03 08 fallen
 
 
 *    *   19 03 05
@@ -4841,6 +4921,11 @@ Kapitel des Verzeichnisses
 *    *   19 03 07
 
     *   verfestigte Abfälle mit Ausnahme derjenigen, die unter 19 03 06 fallen
+
+
+*    *   19 03 08\*
+
+    *   teilweise stabilisiertes Quecksilber
 
 
 *    *   19 04
@@ -5002,8 +5087,8 @@ Kapitel des Verzeichnisses
 
 *    *   19 08 13\*
 
-    *   Schlämme, die gefährliche Stoffe aus einer anderen Behandlung von
-        industriellem Abwasser enthalten
+    *   Schlämme aus einer anderen Behandlung von industriellem Abwasser, die
+        gefährliche Stoffe enthalten
 
 
 *    *   19 08 14
@@ -5391,7 +5476,7 @@ Kapitel des Verzeichnisses
 
 *    *   20 01 35\*
 
-    *[^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000402310]
+    *[^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000407116]
    gebrauchte elektrische und elektronische Geräte, die gefährliche
         Bauteile
         enthalten, mit Ausnahme derjenigen, die unter 20 01 21 und 20 01 23
@@ -5496,31 +5581,12 @@ Kapitel des Verzeichnisses
 
 
 
-    Für PCB gilt in dieser Abfallliste die Begriffsbestimmung der
-    Richtlinie 96/59/EG.
-[^BJNR337910001BJNE000401320_001_BJNR337910001BJNE000402310]:     Gefährliche Bestandteile elektrischer und elektronischer Geräte
-    umfassen z.B. Akkumulatoren und unter 16 06 aufgeführte und als
-    gefährlich eingestufte Batterien, Quecksilberschalter, Glas aus
+    Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen
+    z.B. Akkumulatoren und unter 16 06 aufgeführte und als gefährlich
+    eingestufte Batterien, Quecksilberschalter, Glas aus
     Kathodenstrahlröhren und sonstiges beschichtetes Glas.
-[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000402310]:     Übergangsmetalle im Sinne dieses Eintrages sind: Scandium, Vanadium,
-    Mangan, Kobalt, Kupfer, Yttrium, Niob, Hafnium, Wolfram, Titan, Chrom,
-    Eisen, Nickel, Zink, Zirkonium, Molybdän und Tantal. Diese Metalle und
-    ihre Verbindungen werden als gefährlich betrachtet, wenn sie als
-    gefährliche Stoffe eingestuft wurden. Somit entscheidet die Einstufung
-    als gefährliche Stoffe darüber, welche Übergangsmetalle und
-    übergangsmetallhaltigen Verbindungen gefährlich sind.
-[^BJNR337910001BJNE000401320_003_BJNR337910001BJNE000402310]:     Stabilisierungsprozesse ändern die Gefährlichkeit der Bestandteile des
-    Abfalls und wandeln somit gefährlichen Abfall in nicht gefährlichen
-    Abfall um. Verfestigungsprozesse ändern die physikalische
-    Beschaffenheit des Abfalls (z.B. flüssig in fest) durch die Verwendung
-    von Zusatzstoffen, ohne die chemischen Eigenschaften zu berühren.
-[^BJNR337910001BJNE000401320_004_BJNR337910001BJNE000402310]:     Ein Abfall gilt als teilweise stabilisiert, wenn nach erfolgtem
-    Stabilisierungsprozess kurz-, mittel- oder langfristig gefährliche
-    Inhaltsstoffe, die nicht vollständig in nicht gefährliche
-    Inhaltsstoffe umgewandelt wurden, in die Umwelt abgegeben werden
-    könnten.
-[^BJNR337910001BJNE000401320_005_BJNR337910001BJNE000402310]:     Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen
+[^BJNR337910001BJNE000401320_002_BJNR337910001BJNE000407116]:     Gefährliche Bauteile elektrischer und elektronischer Geräte umfassen
     z. B. unter 16 06 aufgeführte und als gefährlich eingestufte
     Akkumulatoren und Batterien, Quecksilberschalter, Glas aus
     Kathodenstrahlröhren und sonstiges beschichtetes Glas.
-[^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000402310]: 
+[^BJNR337910001BJNE000401320_006_BJNR337910001BJNE000407116]: 

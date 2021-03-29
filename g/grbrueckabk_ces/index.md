@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Rep
   E 49
 jurabk: GrBrückAbk CES
 layout: default
-origslug: grbr_ckabk_ces
+origslug: grbrueckabk_ces
 slug: grbrueckabk_ces
 
 ---

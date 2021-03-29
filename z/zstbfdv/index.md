@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1503
 
+Geändert durch
+:   Art. 1 V v. 28.8.2013 I 3470
+
 
 ## Eingangsformel
 
@@ -34,14 +37,14 @@ innerhalb der letzten zwölf Monate wie folgt durchgeführt hat:
     Bundesländern, und
 
 
-2.  in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 1 000
+2.  in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 500
     Freiwilligen entspricht.
 
 
 
 
 (2) Erstmals darf eine Zentralstelle für die Dauer von drei Jahren
-auch bilden, wem mindestens 250 geschlossene Vereinbarungen im Sinne
+auch bilden, wem mindestens 100 geschlossene Vereinbarungen im Sinne
 des § 8 des Bundesfreiwilligendienstgesetzes zuzuordnen sind, die die
 Durchführung des Bundesfreiwilligendienstes in insgesamt mindestens
 drei Bundesländern vorsehen. Für die Dauer von weiteren drei Jahren
@@ -53,11 +56,19 @@ zwölf Monate wie folgt durchgeführt hat:
     Bundesländern, und
 
 
-2.  in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 500
+2.  in einem Umfang, der mindestens einem zwölfmonatigen Dienst von 250
     Freiwilligen entspricht.
 
 
 
+
+(3) Für den ökologischen und kulturellen Bereich sowie den Bereich des
+Sports, der Integration und des Zivil- und Katastrophenschutzes
+erfüllt die Mindestanforderungen an eine Zentralstelle abweichend von
+den Absätzen 1 und 2 auch, wer den Bundesfreiwilligendienst innerhalb
+der letzten zwölf Monate in mindestens drei Bundesländern in einem
+Umfang, der mindestens einem zwölfmonatigen Dienst von 100
+Freiwilligen entspricht, durchgeführt hat.
 
 
 ## § 2 Erreichbarkeit
@@ -65,10 +76,10 @@ zwölf Monate wie folgt durchgeführt hat:
 Zentralstelle kann nur sein, wer seine Erreichbarkeit sicherstellt.
 Eine Zentralstelle, die den Anforderungen des § 1 Absatz 1 genügt,
 muss von Montag bis Freitag mit Ausnahme der Feiertage von 9 Uhr bis
-16 Uhr telefonisch erreichbar sein. Eine Zentralstelle, die nur den
-Anforderungen des § 1 Absatz 2 genügt, muss von Montag bis Freitag mit
-Ausnahme der Feiertage von 9 Uhr bis 12 Uhr telefonisch erreichbar
-sein.
+15 Uhr telefonisch erreichbar sein. Eine Zentralstelle, die nur den
+Anforderungen des § 1 Absatz 2 oder 3 genügt, muss von Montag bis
+Freitag mit Ausnahme der Feiertage von 9 Uhr bis 12 Uhr telefonisch
+erreichbar sein.
 
 
 ## § 3 Inkrafttreten

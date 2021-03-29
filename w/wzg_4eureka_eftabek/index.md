@@ -65,24 +65,20 @@ Der Bundesminister der Justiz
 
 ## Anlage 1
 
-(Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1025)
-
+![bgbl1_1992_j1025_0010.jpg](bgbl1_1992_j1025_0010.jpg)
 
 ## Anlage 2
 
-(Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1025)
-
+![bgbl1_1992_j1025_0020.jpg](bgbl1_1992_j1025_0020.jpg)
 
 ## Anlage 3
 
-(Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1026)
-
+![bgbl1_1992_j1026_0010.jpg](bgbl1_1992_j1026_0010.jpg)
 
 ## Anlage 4
 
-(Inhalt: Nicht darstellbare Abbildung;
 Fundstelle: BGBl. I 1992, 1026)
-
+![bgbl1_1992_j1026_0020.jpg](bgbl1_1992_j1026_0020.jpg)

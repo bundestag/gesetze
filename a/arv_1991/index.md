@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1140 (GMBl 1994, 19)
 
 Zuletzt geändert durch
-:   Art. 12 G v. 26.5.2005 I 1418
+:   Art. 36 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -34,9 +34,9 @@ ist, gelten die Vorschriften des Bundesreisekostengesetzes.
 
 (2) Auslandsdienstreisen der Bundesbeamten, in den Bundesdienst
 abgeordneten anderen Beamten sowie der Soldaten bedürfen der
-schriftlichen Anordnung oder Genehmigung durch die oberste
-Dienstbehörde oder die von ihr ermächtigte Behörde, es sei denn, daß
-eine Anordnung oder Genehmigung nach dem Amt des
+schriftlichen oder elektronischen Anordnung oder Genehmigung durch die
+oberste Dienstbehörde oder die von ihr ermächtigte Behörde, es sei
+denn, daß eine Anordnung oder Genehmigung nach dem Amt des
 Auslandsdienstreisenden oder dem Wesen des Dienstgeschäfts nicht in
 Betracht kommt.
 
@@ -44,8 +44,7 @@ Betracht kommt.
 ## § 2 Kostenerstattung
 
 (1) Bei Bahnreisen werden die Kosten für das Benutzen der ersten
-Klasse und der Spezial- oder Doppelbettklasse im Schlafwagen
-erstattet. Dies gilt nicht für folgende Länder:
+Klasse erstattet. Dies gilt nicht für folgende Länder:
 Belgien, Dänemark, Finnland, Frankreich, Irland, Italien (ausgenommen
 südlich der Eisenbahnstrecke Rom - Pescara), Liechtenstein, Luxemburg,
 Monaco, Niederlande, Norwegen, Österreich, Schweden, Schweiz und
@@ -68,12 +67,12 @@ Auslandsdienstreisen mit einer Abwesenheit von 24 Stunden in Höhe der
 Beträge gezahlt, die auf Grund von Erhebungen durch allgemeine
 Verwaltungsvorschriften nach § 16 des Bundesreisekostengesetzes
 festgesetzt und im Gemeinsamen Ministerialblatt veröffentlicht werden.
-Für Auslandsdienstreisen mit einer Abwesenheit von weniger als 24
-Stunden, aber mindestens 14 Stunden beträgt das Auslandstagegeld 80
-Prozent, von mindestens 8 Stunden 40 Prozent des Auslandstagegeldes
-nach Satz 1; bei mehreren Auslandsdienstreisen an einem Kalendertag
-werden die Abwesenheitszeiten an diesem Tag zusammengerechnet. In
-begründeten Ausnahmefällen kann von Satz 1 hinsichtlich des
+In den Fällen des § 9 Absatz 4a Satz 3 Nummer 2 und 3 des
+Einkommensteuergesetzes beträgt das Auslandstagegeld jeweils 80
+Prozent des Auslandstagegeldes nach Satz 1; bei mehreren
+Auslandsdienstreisen an einem Kalendertag werden die
+Abwesenheitszeiten an diesem Tag addiert. In begründeten
+Ausnahmefällen kann von Satz 1 hinsichtlich des
 Auslandsübernachtungsgeldes abgewichen werden, wenn die nachgewiesenen
 notwendigen Übernachtungskosten das jeweilige
 Auslandsübernachtungsgeld übersteigen.
@@ -115,7 +114,7 @@ besondere Auslandstage- und Auslandsübernachtungsgelder nach § 3 Abs.
 1 Satz 1 festgesetzt worden sind.
 
 
-## § 5 Reisekostenvergütung bei längerem Aufenthalt am Geschäftsort, Kostenerstattung für das Beschaffen klimabedingter Bekleidung
+## § 5 Reisekostenvergütung bei längerem Aufenthalt am Geschäftsort, Kostenerstattung für das Beschaffen klimagerechter Bekleidung
 
 (1) Dauert der Aufenthalt an demselben ausländischen Geschäftsort ohne
 Hin- und Rückreisetage länger als 14 Tage, ist das Auslandstagegeld
@@ -129,12 +128,11 @@ tritt der Geschäftsort.
 (2) Bei Auslandsdienstreisen mit mehr als 5 Tagen Aufenthalt am
 ausländischen Geschäftsort in einer Klimazone mit einem vom
 mitteleuropäischen erheblich abweichenden Klima werden die Kosten für
-das Beschaffen klimabedingter Bekleidung bis zur Höhe des
+das Beschaffen klimagerechter Bekleidung bis zur Höhe des
 Ortszuschlages der Tarifklasse Ic Stufe 1 der Anlage V des
-Bundesbesoldungsgesetzes erstattet. § 11 Abs. 2 der
-Auslandsumzugskostenverordnung ist sinngemäß und § 11 Abs. 3 der
-Auslandsumzugskostenverordnung entsprechend anzuwenden, es sei denn,
-daß aus jahreszeitlichen Gründen klimabedingte Bekleidung nicht
+Bundesbesoldungsgesetzes erstattet. § 21 Absatz 3 und 4 der
+Auslandsumzugskostenverordnung ist entsprechend anzuwenden, es sei
+denn, dass aus jahreszeitlichen Gründen klimagerechte Bekleidung nicht
 beschafft zu werden braucht.
 
 (3) Bei Auslandsdienstreisen von mehr als 8 Tagen Dauer werden die
@@ -152,10 +150,9 @@ Krankenhausaufenthaltes nur Ersatz der notwendigen Auslagen für die
 Unterkunft am Geschäftsort; bei Aufnahme in ein ausländisches
 Krankenhaus erhält er darüber hinaus 10 vom Hundert des
 Auslandstagegeldes nach § 3 Abs. 1 und 2, bei Aufnahme in ein
-inländisches Krankenhaus 10 vom Hundert des Inlandstagegeldes nach § 6
-Abs. 1 des Bundesreisekostengesetzes in Verbindung mit § 4 Abs. 5 Satz
-1 Nr. 5 Satz 2 erster Halbsatz Buchstabe a des
-Einkommensteuergesetzes.
+inländisches Krankenhaus 10 vom Hundert des Tagegeldes nach § 6 Absatz
+1 Satz 1 und 2 des Bundesreisekostengesetzes in Verbindung mit § 9
+Absatz 4a Satz 2 und 3 Nummer 1 des Einkommensteuergesetzes.
 
 
 ## § 7 Übergangsvorschrift

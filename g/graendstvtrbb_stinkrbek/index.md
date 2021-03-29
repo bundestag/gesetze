@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   gemeinsamen Landesgrenze
 jurabk: GrÄndStVtrBB/STInkrBek
 layout: default
-origslug: gr_ndstvtrbb_stinkrbek
+origslug: graendstvtrbb_stinkrbek
 slug: graendstvtrbb_stinkrbek
 
 ---

@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 13. November 1991 zwischen den Mitglieds
   Verurteilungen
 jurabk: VollstrAStrVEGÜbkG
 layout: default
-origslug: vollstrastrveg_bkg
+origslug: vollstrastrveguebkg
 slug: vollstrastrveguebkg
 
 ---

@@ -4,7 +4,7 @@ Title: Verordnung zur Übertragung der Zuständigkeiten der Oberfinanzpräsident
   das Bundesamt zur Regelung offener Vermögensfragen
 jurabk: VZOZÜV
 layout: default
-origslug: vzoz_v
+origslug: vzozuev
 slug: vzozuev
 
 ---

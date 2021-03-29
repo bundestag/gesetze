@@ -19,8 +19,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 58 G v. 8.12.2010 I 1864
 
+Allgemeine Grundsätze
 
-## Erster Teil - Allgemeine Grundsätze Allgemeines Abgabenrecht
+## Erster Teil - Allgemeines Abgabenrecht
 
 
 
@@ -1356,9 +1357,9 @@ Eingliederungstag auf Deutsche Mark umzustellen.
 
 (2) Der Fortschreibungsbescheid wird auf Antrag, erforderlichenfalls
 auch von Amts wegen erlassen. Der Antrag kann
-bis zum 31. Dezember 1960 oder              bis zum Ablauf eines
-Monats, seitdem der bisherige Feststellungsbescheid unanfechtbar
-geworden ist, gestellt werden.
+bis zum 31. Dezember 1960 oder bis zum Ablauf eines Monats, seitdem
+der bisherige Feststellungsbescheid unanfechtbar geworden ist,
+gestellt werden.
 
 (3) Für wirtschaftliche Einheiten des Grundbesitzes und für
 Gewerbeberechtigungen, für die ein Einheitswert festzustellen ist,
@@ -1465,8 +1466,8 @@ Verordnungen sind weiterhin anzuwenden.
 
 (1) Auf die Jahressteuerschuld, die sich auf Grund der
 Hauptveranlagung 1960 ergibt, haben die Steuerpflichtigen im Saarland
-erstmals am 10. Februar 1960              Vorauszahlungen zu leisten.
-Das zuständige saarländische Finanzamt hat die Vorauszahlungen der
+erstmals am 10. Februar 1960 Vorauszahlungen zu leisten. Das
+zuständige saarländische Finanzamt hat die Vorauszahlungen der
 voraussichtlichen Höhe der künftigen Jahressteuerschuld anzupassen.
 Ist dem Steuerpflichtigen bis zu einem der im § 16 des
 Vermögensteuergesetzes in der Fassung der Bekanntmachung vom 10. Juni

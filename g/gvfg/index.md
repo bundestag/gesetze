@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 28.1.1988 I 100;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.4.2011 I 554
+:   Art. 463 V v. 31.8.2015 I 1474
 
 
 ## § 1 Finanzhilfen des Bundes
@@ -178,8 +178,8 @@ nach § 2 Abs. 1 Nr. 1 bis 6 bis zu 75 vom Hundert und von Vorhaben
 nach § 2 Abs. 3 Satz 3 im Rahmen der nach § 10 Abs. 2 Satz 2 zur
 Verfügung stehenden Mittel bis zu 90 vom Hundert der zuwendungsfähigen
 Kosten zulässig. Soweit die Vorhaben Bestandteil der nach § 6 Abs. 1
-erstellten Programme des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung sind, beträgt die Förderung bis zu 60 vom Hundert.
+erstellten Programme des Bundesministeriums für Verkehr und digitale
+Infrastruktur sind, beträgt die Förderung bis zu 60 vom Hundert.
 
 (2) Zuwendungsfähig sind die Kosten für das Vorhaben nach § 2. Beim
 Grunderwerb sind nur die Gestehungskosten zuwendungsfähig.
@@ -229,8 +229,8 @@ aufgenommen werden.
 
 ## § 6 Aufstellung der Programme
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung stellt
-auf Grund von Vorschlägen der Länder und im Benehmen mit ihnen
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
+stellt auf Grund von Vorschlägen der Länder und im Benehmen mit ihnen
 besondere ergänzende Programme auf für Vorhaben nach § 2 Abs. 1 Nr. 2,
 die in Verdichtungsräumen oder den zugehörigen Randgebieten liegen und
 zuwendungsfähige Kosten von 50 Millionen Euro überschreiten.
@@ -277,14 +277,15 @@ bewertet wie die übrigen Kraftfahrzeuge.
 zuvor mit städtebaulichen Maßnahmen, die mit ihnen zusammenhängen,
 abzustimmen.
 
-(4) Die Länder übermitteln dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung Planungsunterlagen, soweit dies für die Entscheidung
-über die Aufnahme der Vorhaben in die Programme erforderlich ist.
+(4) Die Länder übermitteln dem Bundesministerium für Verkehr und
+digitale Infrastruktur Planungsunterlagen, soweit dies für die
+Entscheidung über die Aufnahme der Vorhaben in die Programme
+erforderlich ist.
 
 (5) Die Absätze 1 bis 4 gelten auch für die Anpassung und Fortführung
 der Programme.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung teilt
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur teilt
 auf der Grundlage der Programme den Ländern die Finanzhilfen zu.
 
 (7) Für Maßnahmen nach § 2 Abs. 3 Satz 3 stellen die dort genannten
@@ -300,7 +301,7 @@ Programme aufgenommen sind.
 ## § 8 Mitteilung über die Durchführung der Programme
 
 Über die Durchführung der Programme übermitteln die Länder dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung jährlich eine
+Bundesministerium für Verkehr und digitale Infrastruktur jährlich eine
 Übersicht, die die Zahl der geförderten Vorhaben und die Summe der aus
 den Finanzhilfen in dem betreffenden Jahr gezahlten Zuwendungen
 enthält. Die Berichterstattung der Länder erstreckt sich außerdem auf
@@ -310,8 +311,8 @@ Barrierefreiheit nach § 3 Nr. 1 Buchstabe d entsprechen.
 
 ## § 9 Vereinfachter Verwendungsnachweis
 
-(1) Die Länder weisen dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung jeweils für ein Haushaltsjahr die zweckentsprechende
+(1) Die Länder weisen dem Bundesministerium für Verkehr und digitale
+Infrastruktur jeweils für ein Haushaltsjahr die zweckentsprechende
 Verwendung der Finanzhilfen nach durch Mitteilung der Zahl der
 geförderten Vorhaben, der Summe der für diese Vorhaben angefallenen
 zuwendungsfähigen Kosten sowie der Summe der aus den Finanzhilfen
@@ -342,7 +343,7 @@ jeweils bis zu einem Betrag von 1 667 Millionen Euro zu verwenden:
 
 
 (2) Von den Mitteln nach Absatz 1 kann das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung einen Betrag von 0,25 vom Hundert,
+Verkehr und digitale Infrastruktur einen Betrag von 0,25 vom Hundert,
 im Benehmen mit den Ländern bis zu 0,50 vom Hundert, für
 Forschungszwecke in Anspruch nehmen. Von den Mitteln nach Absatz 1
 werden in den Jahren 1999 bis 2003 für die in § 2 Abs. 3 Satz 3

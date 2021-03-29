@@ -7,7 +7,7 @@ Title: Gesetz zu dem Abkommen vom 7. Dezember 2004 zwischen der Regierung der Bu
   Schwerverkehrsabgabe (LSVA-Abkommen Büsingen)
 jurabk: LSVAAbkBüsG
 layout: default
-origslug: lsvaabkb_sg
+origslug: lsvaabkbuesg
 slug: lsvaabkbuesg
 
 ---

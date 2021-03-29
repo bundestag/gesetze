@@ -19,15 +19,15 @@ Neugefasst durch
 :   Bek. v. 23.6.1969 I 573;
 
 Zuletzt geändert durch
-:   Art. 173 V v. 31.10.2006 I 2407
+:   Art. 347 V v. 31.8.2015 I 1474
 
 
 ## § 1 Rechtsform, Bezeichnung, Sitz und Kapital
 
-Die Kreditanstalt für Wiederaufbau ist eine Anstalt des öffentlichen
-Rechts und kann im Geschäftsverkehr die Bezeichnung "KfW" verwenden.
-Sie hat ihren Sitz in Frankfurt am Main und kann eine
-Zweigniederlassung in Berlin und in Bonn errichten.
+(1) Die Kreditanstalt für Wiederaufbau (Anstalt) ist eine Anstalt des
+öffentlichen Rechts. Sie hat ihren Sitz in Frankfurt am Main und kann
+eine Zweigniederlassung in Berlin und in Bonn errichten. Im Geschäfts-
+und Rechtsverkehr kann sie die Bezeichnung „KfW“ verwenden.
 
 (2) Das Grundkapital der Anstalt beträgt drei Milliarden
 siebenhundertfünfzig Millionen Euro. Daran sind der Bund mit drei
@@ -52,9 +52,10 @@ Verwaltungsrat der Anstalt beschlossen werden, soweit es zur Erfüllung
 der Verbindlichkeiten der Anstalt erforderlich ist.
 
 (4) Der auf den Anteil des Bundes nach Absatz 3 eingezahlte Betrag von
-zwei Milliarden sechshundertvierzig Millionen Euro steht in Höhe von
-eine Milliarde achtundachtzig Millionen
-dreiundfünfzigtausendneunhundertacht Euro dem ERP-Sondervermögen zu.
+zwei Milliarden sechshundertvierzig Millionen Euro entfällt in Höhe
+von einer Milliarde zweiundachtzig Millionen
+achthundertsechsundsiebzigtausenddreihunderteinunddreißig Euro auf das
+ERP-Sondervermögen.
 
 (5) Die Anteile am Grundkapital können nicht verpfändet und nur unter
 den Beteiligten abgetreten werden.
@@ -102,7 +103,7 @@ ausdrücklich gewährleistet werden.
 
     i)  in anderen in Gesetzen, Verordnungen oder veröffentlichten Richtlinien
         zur staatlichen Wirtschaftspolitik präzise benannten Förderbereichen,
-        die der Anstalt vom Bund oder einem Land übertragen werden.
+        die der Anstalt vom Bund oder von einem Land übertragen werden.
 
 
 
@@ -179,8 +180,14 @@ Geschäfte betreiben. In diesem Rahmen darf sie insbesondere
 
 
 
-Die Hereinnahme von Depositen, das Kontokorrentgeschäft und der
-Effektenhandel für fremde Rechnung sind ihr nicht gestattet.
+Die Hereinnahme von Einlagen und das Finanzkommissionsgeschäft sind
+ihr nicht gestattet; dies gilt nicht für Geschäfte mit Unternehmen, an
+denen die Anstalt unmittelbar oder mittelbar beteiligt ist, mit von
+der KfW gegründeten Stiftungen, mit deutschen Gebietskörperschaften,
+mit sonstigen deutschen Verwaltungsträgern, mit der Europäischen
+Union, mit sonstigen internationalen Organisationen, mit Staaten der
+Organisation für wirtschaftliche Zusammenarbeit und Entwicklung oder
+mit deren staatlichen Entwicklungshilfeorganisationen.
 
 (4) Die Beschränkungen des Absatzes 3 gelten nicht, soweit es sich um
 ein Geschäft handelt, an dem ein staatliches Interesse der
@@ -246,11 +253,9 @@ nichts anderes bestimmt, die Satzung.
 (1) Der Vorstand besteht aus mindestens zwei Mitgliedern. Die
 Vorstandsmitglieder werden vom Verwaltungsrat bestellt und abberufen.
 
-(2) Dem Vorstand obliegt die Geschäftsführung und Vermögensverwaltung
-der Anstalt, soweit sich nicht aus Gesetz oder Satzung ein anderes
-ergibt. Der Verwaltungsrat kann eines seiner Mitglieder in den
-Vorstand abordnen. In diesem Falle ruhen dessen Rechte als Mitglied
-des Verwaltungsrates.
+(2) Dem Vorstand obliegen die Geschäftsführung und Vermögensverwaltung
+der Anstalt in eigener Verantwortung, soweit sich aus Gesetz oder
+Satzung nichts anderes ergibt.
 
 (3) Der Vorstand vertritt die Anstalt gerichtlich und
 außergerichtlich. Erklärungen sind für die Anstalt verbindlich, wenn
@@ -264,28 +269,32 @@ abgegeben werden können.
 genügt die Abgabe gegenüber einem Mitglied des Vorstandes.
 
 (5) Die Bezüge der Mitglieder des Vorstandes werden durch Vertrag
-zwischen diesen und der Anstalt, vertreten durch den Verwaltungsrat,
-geregelt.
+zwischen diesen und der Anstalt geregelt.
+
+(6) Gegenüber den Mitgliedern des Vorstandes vertritt der
+Verwaltungsrat, vertreten durch seinen Vorsitzenden, die Anstalt
+gerichtlich und außergerichtlich.
 
 
 ## § 7 Verwaltungsrat
 
 (1) Der Verwaltungsrat der Anstalt besteht aus
 
-1.  dem Vorsitzenden und seinem Stellvertreter; sie werden von der
-    Bundesregierung bestellt; sie müssen auf dem Gebiete des Kreditwesens
-    besonders erfahrene Persönlichkeiten sein;
+1.  dem Bundesminister der Finanzen und dem Bundesminister für Wirtschaft
+    und Energie; sie fungieren im jährlichen Wechsel als Vorsitzender und
+    als Stellvertreter des Vorsitzenden, der Vorsitz wechselt zu Beginn
+    eines Kalenderjahres; sie können sich in den Sitzungen des
+    Verwaltungsrates und seiner Ausschüsse durch ihre ständigen Vertreter
+    im Amt oder durch Abteilungsleiter vertreten lassen;
 
 
-2.  dem Bundesminister der Finanzen, dem Bundesminister des Auswärtigen,
-    dem Bundesminister für Wirtschaft und Technologie, dem Bundesminister
-    für Ernährung, Landwirtschaft und Verbraucherschutz dem Bundesminister
-    für Verkehr, Bau und Stadtentwicklung, dem Bundesminister für
-    wirtschaftliche Zusammenarbeit und Entwicklung und dem Bundesminister
-    für Umwelt, Naturschutz und Reaktorsicherheit; sie können sich in den
-    Sitzungen des Verwaltungsrates und seiner Ausschüsse durch ihre
-    ständigen Vertreter im Amt oder durch Abteilungsleiter vertreten
-    lassen;
+2.  dem Bundesminister des Auswärtigen, dem Bundesminister für Ernährung
+    und Landwirtschaft dem Bundesminister für Verkehr und digitale
+    Infrastruktur, dem Bundesminister für wirtschaftliche Zusammenarbeit
+    und Entwicklung und dem Bundesminister für Umwelt, Naturschutz, Bau
+    und Reaktorsicherheit; sie können sich in den Sitzungen des
+    Verwaltungsrates und seiner Ausschüsse durch ihre ständigen Vertreter
+    im Amt oder durch Abteilungsleiter vertreten lassen;
 
 
 3.  sieben Mitgliedern, die vom Bundesrat bestellt werden;
@@ -313,46 +322,40 @@ geregelt.
 
 
 
-(2) Der Bundesminister der Finanzen und der Bundesminister für
-Wirtschaft und Technologie werden von der Bundesregierung im Wechsel
-als Vorsitzender und als Stellvertreter des Vorsitzenden bestellt.
-Ihre Bestellung erfolgt auf die Dauer von höchstens fünf Jahren; ihre
-Wiederbestellung ist zulässig.
-
-(3) Die Amtsdauer der übrigen Mitglieder des Verwaltungsrates mit
-Ausnahme der in Absatz 1 Nr. 2 genannten Mitglieder beträgt drei
-Jahre. Jedes Jahr scheidet ein Drittel der Mitglieder aus; ihre
+(2) Die Amtsdauer der Mitglieder des Verwaltungsrates mit Ausnahme der
+in Absatz 1 Nummer 1 und 2 genannten Mitglieder beträgt drei Jahre.
+Jedes Jahr scheidet ein Drittel der Mitglieder aus; ihre
 Wiederbestellung ist zulässig. Das Nähere bestimmt die Satzung.
 
-(4) Der Verwaltungsrat faßt, soweit nichts anderes bestimmt ist, seine
+(3) Der Verwaltungsrat faßt, soweit nichts anderes bestimmt ist, seine
 Beschlüsse mit einfacher Mehrheit der abgegebenen Stimmen, wobei jedes
 Mitglied eine Stimme hat. Bei Stimmengleichheit entscheidet die Stimme
 des Vorsitzenden. Zur Beschlußfähigkeit ist die Anwesenheit von
 mindestens der Hälfte der Mitglieder erforderlich. Die Satzung kann
 eine Beschlußfassung im Wege der schriftlichen Abstimmung zulassen.
 
-(5) Dem Verwaltungsrat obliegt die laufende Überwachung der
-Geschäftsführung und Vermögensverwaltung der Anstalt. Er kann dem
-Vorstand allgemeine oder besondere Weisungen erteilen. Insbesondere
-kann er sich die Zustimmung zu dem Abschluß bestimmter Geschäfte oder
-Arten von Geschäften vorbehalten.
+(4) Dem Verwaltungsrat obliegt die Beratung und laufende Überwachung
+der Geschäftsführung und Vermögensverwaltung der Anstalt. Er kann dem
+Vorstand allgemeine Weisungen erteilen. Insbesondere kann er sich die
+Zustimmung zu dem Abschluß bestimmter Geschäfte oder Arten von
+Geschäften vorbehalten.
 
-(6) Der Verwaltungsrat kann seine Befugnisse außer in den Fällen des
-Absatzes 5 Satz 1 und 2 und der §§ 8, 9 und 10 widerruflich auf
+(5) Der Verwaltungsrat kann seine Befugnisse außer in den Fällen des
+Absatzes 4 Satz 1 und 2 und der §§ 8, 9 und 10 widerruflich auf
 Ausschüsse übertragen. Das Nähere bestimmt die Satzung.
 
 
 ## § 7a Mittelstandsrat
 
 (1) Bei der Kreditanstalt für Wiederaufbau wird ein Mittelstandsrat
-gebildet. Er besteht aus dem Bundesminister für Wirtschaft und
-Technologie als Vorsitzendem, dem Bundesminister der Finanzen als
-Stellvertreter des Vorsitzenden, dem Beauftragten der Bundesregierung
-für den Aufbau Ost, zwei durch den Bundesrat zu benennenden
-Vertretern, vier weiteren vom Bundesministerium für Wirtschaft und
-Arbeit bestellten Mitgliedern und jeweils einem vom Bundesministerium
-der Finanzen sowie einem vom Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit bestellten Mitglied.
+gebildet. Er besteht aus dem Bundesminister für Wirtschaft und Energie
+als Vorsitzendem, dem Bundesminister der Finanzen als Stellvertreter
+des Vorsitzenden, dem Beauftragten der Bundesregierung für den Aufbau
+Ost, zwei durch den Bundesrat zu benennenden Vertretern, vier weiteren
+vom Bundesministerium für Wirtschaft und Energie bestellten
+Mitgliedern und jeweils einem vom Bundesministerium der Finanzen sowie
+einem vom Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit bestellten Mitglied.
 
 (2) Der Mittelstandsrat konkretisiert den staatlichen Auftrag der
 Mittelstandsbank nach § 2 Abs. 2. Er berät und beschließt über
@@ -364,24 +367,24 @@ Gesamtgeschäftsplanung der Anstalt.
 
 (1) Die Satzung der Anstalt wird vom Vorstand aufgestellt und vom
 Verwaltungsrat beschlossen. Sie bedarf der Genehmigung der
-Aufsichtsbehörde (§ 12 Abs. 1 Satz 1).
+Rechtsaufsicht (§ 12 Abs. 1 Satz 1).
 
 (2) Änderungen der Satzung können vom Verwaltungsrat mit einer
 Mehrheit von zwei Dritteln der abgegebenen Stimmen, mindestens jedoch
 der Hälfte aller Mitglieder beschlossen werden. Sie bedürfen der
-Genehmigung der Aufsichtsbehörde.
+Genehmigung der Rechtsaufsicht.
 
 (3) Die Satzung und ihre Änderungen sind von der Anstalt im
 Bundesanzeiger zu veröffentlichen.
 
 
-## § 9 Jahresabschluß
+## § 9 Jahres- und Konzernabschluss
 
 (1) Auf den Jahresabschluß und den Lagebericht, den Konzernabschluß
 und den Konzernlagebericht sowie deren Prüfung und Offenlegung sind
 die §§ 340a bis 340o des Handelsgesetzbuchs entsprechend anzuwenden.
 Der Abschlußprüfer wird auf Vorschlag des Verwaltungsrats von der
-Aufsichtsbehörde im Einvernehmen mit dem Bundesrechnungshof bestellt.
+Rechtsaufsicht im Einvernehmen mit dem Bundesrechnungshof bestellt.
 
 (2) Der Verwaltungsrat entscheidet über die Genehmigung des
 Jahresabschlusses innerhalb der ersten sechs Monate nach Ablauf eines
@@ -403,10 +406,11 @@ Bundeshaushaltsordnung aufgeführten Rechte zu.
 ergebende jährliche Reingewinn ist einer gesetzlichen Rücklage
 zuzuweisen, deren Höhe auf eine Milliarde achthundertfünfundsiebzig
 Millionen Euro begrenzt wird. Einzelnen Anteilseignern zuzurechnende
-weitere Kapital- und Sonderrücklagen sind bei der Verteilung des
-Reingewinns zu berücksichtigen.
+weitere Kapital- und gesondert auszuweisende Rücklagen sind bei der
+Verteilung des Reingewinns zu berücksichtigen.
 
-(3) Der weitere Reingewinn ist einer Sonderrücklage zuzuweisen.
+(3) Der weitere Reingewinn ist einer gesondert auszuweisenden Rücklage
+zuzuweisen.
 
 
 ## § 11 Rechtsstellung
@@ -420,20 +424,150 @@ die Bezeichnungen "Bank" und "Bankengruppe" zu führen.
 Handelsregister sind auf die Anstalt nicht anzuwenden.
 
 
-## § 12 Aufsicht
+## § 12 Rechtsaufsicht
 
-Das Bundesministerium der Finanzen übt die Aufsicht über die Anstalt
-im Benehmen mit dem Bundesministerium für Wirtschaft und Technologie
-aus. Die Aufsichtsbehörde ist befugt, alle Anordnungen zu treffen, um
-den Geschäftsbetrieb der Anstalt mit den Gesetzen, der Satzung und den
-sonstigen Bestimmungen im Einklang zu halten.
+Das Bundesministerium der Finanzen übt die Rechtsaufsicht über die
+Anstalt im Benehmen mit dem Bundesministerium für Wirtschaft und
+Energie aus. Die Aufsichtsbehörde ist befugt, alle Anordnungen zu
+treffen, um den Geschäftsbetrieb der Anstalt mit den Gesetzen, der
+Satzung und den sonstigen Bestimmungen im Einklang zu halten.
 
 (2) Der Nachweis der Befugnis zur Vertretung der Anstalt wird durch
 eine mit Dienstsiegel versehene Bestätigung des Bundesministeriums der
 Finanzen geführt.
 
 
-## § 12a Finanzierungen durch ein rechtlich selbständiges Unternehmen
+## § 12a Verordnungsermächtigung; Anordnungsbefugnis
+
+(1) Das Bundesministerium der Finanzen wird ermächtigt, im Benehmen
+mit dem Bundesministerium für Wirtschaft und Energie durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu
+bestimmen, dass die folgenden nicht bereits für die Anstalt geltenden
+bankaufsichtsrechtlichen Vorschriften zur Gewährleistung der
+Durchführung eines ordnungsgemäßen Geschäftsbetriebs der Anstalt auf
+die Anstalt und die zu bildende Institutsgruppe, Finanzholding-Gruppe
+oder gemischte Finanzholding-Gruppe ganz oder teilweise entsprechend
+anzuwenden sind:
+
+1.  das Kreditwesengesetz,
+
+
+2.  das Finanzkonglomerateaufsichtsgesetz,
+
+
+3.  die zur Durchführung der in den Nummern 1 und 2 genannten Gesetze
+    jeweils erlassenen Rechtsverordnungen und
+
+
+4.  die Verordnungen der Europäischen Union.
+
+
+
+§ 2 Absatz 2 des Kreditwesengesetzes bleibt unberührt. Die
+Ermächtigung umfasst insbesondere die bankaufsichtsrechtlichen
+Vorschriften über
+
+1.  das Handelsbuch,
+
+
+2.  die Verbriefungen,
+
+
+3.  die Eigenmittel,
+
+
+4.  die Konsolidierung,
+
+
+5.  die Liquidität,
+
+
+6.  die modifizierte bilanzielle Eigenkapitalquote,
+
+
+7.  das Kreditgeschäft,
+
+
+8.  den bargeldlosen Zahlungsverkehr,
+
+
+9.  die Verhinderung von Geldwäsche oder Terrorismusfinanzierung oder die
+    Verhinderung von sonstigen strafbaren Handlungen, die zu einer
+    Gefährdung des Vermögens des Instituts führen können,
+
+
+10. die besonderen, insbesondere die organisatorischen, Pflichten der
+    Institute, der Geschäftsleiter, der Leitungsorgane von Finanzholding-
+    Gesellschaften und gemischten Finanzholding-Gesellschaften sowie der
+    Aufsichts- und Verwaltungsorgane sowie die Anforderungen an diese
+    Personen und an deren Vertreter,
+
+
+11. die Vergütungssysteme der Institute und weiterer gruppenangehöriger
+    Institute für deren Geschäftsleiter sowie für Mitarbeiter und
+    Mitglieder der betreffenden Aufsichts- und Verwaltungsorgane,
+
+
+12. die Prüfung und Prüferbestellung sowie die besonderen Pflichten des
+    Prüfers,
+
+
+13. Finanzkonglomerate.
+
+
+
+Bei der Bestimmung der entsprechend anzuwendenden
+bankaufsichtsrechtlichen Vorschriften ist zu berücksichtigen, dass es
+sich bei der Anstalt um eine Förderbank mit den ihr nach § 2
+übertragenen Aufgaben handelt.
+
+(2) Durch die Rechtsverordnung nach Absatz 1 kann der Bundesanstalt
+für Finanzdienstleistungsaufsicht (Bundesanstalt) die Aufsicht über
+die Einhaltung der bankaufsichtsrechtlichen Vorschriften zugewiesen
+werden und kann bestimmt werden, dass die Bundesanstalt dabei mit der
+Deutschen Bundesbank entsprechend § 7 des Kreditwesengesetzes in der
+jeweils gültigen Fassung zusammenarbeitet.
+
+(3) Durch die Rechtsverordnung nach Absatz 1 können zudem Anzeige-,
+Melde- und Vorlagepflichten der Anstalt, der zu bildenden
+Institutsgruppe, Finanzholding-Gruppe oder gemischten Finanzholding-
+Gruppe und der jeweiligen Organmitglieder und Beschäftigten sowie
+Informations-, Auskunfts- und Prüfungsrechte der Bundesanstalt und der
+Deutschen Bundesbank geregelt werden.
+
+(4) Darüber hinaus können durch die Rechtsverordnung nach Absatz 1 für
+die bei der Bundesanstalt Beschäftigten und für die im Dienst der
+Deutschen Bundesbank stehenden Personen Verschwiegenheitspflichten
+geregelt werden.
+
+(5) Die Bundesanstalt und die Deutsche Bundesbank sind vor Erlass der
+Rechtsverordnung nach Absatz 1 anzuhören.
+
+(6) Die Bundesanstalt kann im Rahmen der ihr durch Rechtsverordnung
+nach Absatz 1 zugewiesenen Aufgaben alle Anordnungen und Maßnahmen,
+die geeignet und erforderlich sind, um Verstöße gegen
+bankaufsichtsrechtliche Vorschriften zu unterbinden oder zu
+beseitigen, treffen gegenüber
+
+1.  der Anstalt,
+
+
+2.  den Geschäftsleitern und Verwaltungsräten der Anstalt,
+
+
+3.  den gruppenangehörigen Unternehmen der zu bildenden Institutsgruppe,
+    Finanzholding-Gruppe oder gemischten Finanzholding-Gruppe und
+    gegebenenfalls dem Konglomerat sowie
+
+
+4.  den Organen der gruppenangehörigen Unternehmen nach Nummer 3 und
+    gegenüber den Mitgliedern dieser Organe.
+
+
+
+
+
+## § 12b Finanzierungen durch ein rechtlich selbständiges Unternehmen
 
 Finanzierungen gemäß § 2 Abs. 1 Nr. 4 Satz 3 sind spätestens ab dem 1.
 Januar 2008 von einem rechtlich selbstständigen Unternehmen ohne
@@ -449,8 +583,8 @@ werden.
 (2) Übersteigt im Falle der Auflösung das nach Berichtigung sämtlicher
 Verbindlichkeiten verbleibende Vermögen den Betrag des eingezahlten
 Grundkapitals, so ist der Überschuss bis zur Höhe der bei Auflösung
-der Anstalt ausgewiesenen gesetzlichen Rücklage und der ausgewiesenen
-Sonderrücklage zunächst zum Ausgleich der Verluste und der
+der Anstalt ausgewiesenen gesetzlichen Rücklage und der gesondert
+auszuweisenden Rücklage zunächst zum Ausgleich der Verluste und der
 Aufwendungen zu verwenden, die dem Bund oder dem ERP-Sondervermögen
 bei Entwicklungskrediten der Anstalt oder durch die Inanspruchnahme
 aus Gewährleistungen für solche Kredite entstanden sind. Von dem dann

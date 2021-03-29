@@ -2,7 +2,7 @@
 Title: Güterkraftverkehrsgesetz
 jurabk: GüKG 1998
 layout: default
-origslug: g_kg_1998
+origslug: guekg_1998
 slug: guekg_1998
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 1485
 
 Zuletzt geändert durch
-:   Art. 1a G v. 25.11.2012 II 1381
+:   Art. 1 G v. 16.5.2017 I 1214
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -178,10 +178,7 @@ Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur
 Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des
 Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG
 (ABl. L 300 vom 14.11.2009, S. 51) genannten Voraussetzungen für die
-Ausübung des Berufs eines Kraftverkehrsunternehmers erfüllt. Eine
-Erlaubnis, deren Gültigkeitsdauer abgelaufen ist, wird zeitlich
-unbefristet erteilt, wenn der Unternehmer die
-Berufszugangsvoraussetzungen nach wie vor erfüllt.
+Ausübung des Berufs eines Kraftverkehrsunternehmers erfüllt.
 
 (3) Der Erlaubnisinhaber erhält auf Antrag neben der Erlaubnis so
 viele Erlaubnisausfertigungen, wie ihm weitere Fahrzeuge und die für
@@ -241,7 +238,7 @@ Güterkraftverkehrsgeschäften gegenüber dem Unternehmer oder dem
 Verkehrsleiter gibt die nach Landesrecht zuständige Behörde dem
 Bundesamt für Güterverkehr Gelegenheit zur Stellungnahme.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
 Vorschriften zu erlassen, durch die
 
@@ -305,9 +302,7 @@ Die Gemeinschaftslizenz nach Artikel 3 und 4 der Verordnung (EG) Nr.
 liegt, als Erlaubnis nach § 3, es sei denn, es handelt sich um eine
 Beförderung zwischen dem Inland und einem Staat, der weder Mitglied
 der Europäischen Union noch anderer Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum, noch die Schweiz ist. Satz 1 gilt
-nicht für Inhaber von Gemeinschaftslizenzen aus der Republik Bulgarien
-und aus Rumänien.
+den Europäischen Wirtschaftsraum, noch die Schweiz ist.
 
 
 ### § 6 Grenzüberschreitender Güterkraftverkehr durch Gebietsfremde
@@ -321,23 +316,24 @@ erforderlichen Berechtigung ist. Berechtigungen sind die
 
 
 2.  Genehmigung auf Grund der Resolution des Rates der Europäischen
-    Konferenz der Verkehrsminister (CEMT) vom 14. Juni 1973 (BGBl. 1974 II
-    S. 298) nach Maßgabe der Verordnung über den grenzüberschreitenden
-    Güterkraftverkehr mit CEMT-Genehmigungen vom 17. Juli 1974 (BGBl. I S.
-    1521) in der jeweils geltenden Fassung,
+    Konferenz der Verkehrsminister (CEMT-Resolution) vom 14. Juni 1973
+    (BGBl. 1974 II S. 298) nach Maßgabe der Verordnung über den
+    grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr
+    (GüKGrKabotageV) vom 28. Dezember 2011 (BGBl. 2012 I S. 42) in der
+    jeweils geltenden Fassung,
 
 
-3.  ...
+3.  CEMT-Umzugsgenehmigung,
 
 
-3a. Schweizerische Lizenz für den gewerblichen Güterkraftverkehr auf Grund
+4.  Schweizerische Lizenz für den gewerblichen Güterkraftverkehr auf Grund
     des Abkommens zwischen der Europäischen Gemeinschaft und der
     Schweizerischen Eidgenossenschaft über den Güter- und Personenverkehr
-    auf Schiene und Straße vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S.
+    auf Schiene und Straße vom 21. Juni 1999 (ABl. L 114 vom 30.4.2002, S.
     91) in der jeweils geltenden Fassung oder
 
 
-4.  ...
+5.  Drittstaatengenehmigung.
 
 
 
@@ -345,44 +341,52 @@ erforderlichen Berechtigung ist. Berechtigungen sind die
 
 ### § 7 Mitführungs- und Aushändigungspflichten im gewerblichen Güterkraftverkehr
 
-(1) Soweit für eine Fahrt im gewerblichen Güterkraftverkehr eine
-Berechtigung (Erlaubnis, Gemeinschaftslizenz, CEMT-Genehmigung, CEMT-
-Umzugsgenehmigung, Schweizerische Lizenz oder Drittstaatengenehmigung)
-und der Nachweis der Erfüllung bestimmter Technik-, Sicherheits- und
-Umweltanforderungen für das eingesetzte Fahrzeug vorgeschrieben sind
-und die Fahrt im Inland durchgeführt wird, hat der Unternehmer dafür
-zu sorgen, dass während der gesamten Fahrt die jeweils erforderliche
-Berechtigung und die fahrzeugbezogenen Nachweise mitgeführt werden,
-die nicht in Folie eingeschweißt oder in ähnlicher Weise mit einer
-Schutzschicht überzogen sein dürfen. Bei Kabotagebeförderungen im
-Sinne des Artikels 8 der Verordnung (EG) Nr. 1072/2009 hat der
-Unternehmer, der weder Sitz noch Niederlassung in Deutschland hat,
-dafür zu sorgen, dass Nachweise im Sinne des Artikels 8 Absatz 3
-Unterabsatz 2 der Verordnung (EG) Nr. 1072/2009 für die
-grenzüberschreitende Beförderung und jede einzelne durchgeführte
-Kabotagebeförderung während der Dauer der Beförderung mitgeführt
-werden.
+(1) Der Unternehmer hat dafür zu sorgen, dass bei einer
+Güterbeförderung im Inland, für die eine Erlaubnis nach § 3 oder eine
+Berechtigung nach § 6 erforderlich ist, während der gesamten Fahrt
+folgende Dokumente und Nachweise mitgeführt werden:
+
+1.  die Erlaubnis oder eine Erlaubnisausfertigung, eine beglaubigte Kopie
+    der Gemeinschaftslizenz oder der Schweizerischen Lizenz, eine CEMT-
+    Genehmigung, eine CEMT-Umzugsgenehmigung oder eine
+    Drittstaatengenehmigung,
+
+
+2.  der für das eingesetzte Fahrzeug vorgeschriebene Nachweis über die
+    Erfüllung bestimmter Technik-, Sicherheits- und Umweltanforderungen,
+
+
+3.  ein Begleitpapier oder ein sonstiger Nachweis, in dem das beförderte
+    Gut, der Be- und Entladeort und der Auftraggeber angegeben werden.
+
+
+
+Die Dokumente oder Nachweise nach Satz 1 Nummer 1 und 2 dürfen nicht
+in Folie eingeschweißt oder in ähnlicher Weise mit einer Schutzschicht
+überzogen werden. Bei Kabotagebeförderungen im Sinne des Artikels 8
+der Verordnung (EG) Nr. 1072/2009 hat der Unternehmer, der weder Sitz
+noch Niederlassung in Deutschland hat, dafür zu sorgen, dass Nachweise
+im Sinne des Artikels 8 Absatz 3 Unterabsatz 2 der Verordnung (EG) Nr.
+1072/2009 für die grenzüberschreitende Beförderung und jede einzelne
+durchgeführte Kabotagebeförderung während der Dauer der Beförderung
+mitgeführt werden.
 
 (2) Das Fahrpersonal muß die erforderliche Berechtigung und die
 Nachweise nach Absatz 1 während der Fahrt mitführen und
-Kontrollberechtigten auf Verlangen zur Prüfung aushändigen.
-Ausländisches Fahrpersonal muss auch den Pass oder ein sonstiges zum
-Grenzübertritt berechtigendes Dokument mitführen. Langfristig
-Aufenthaltsberechtigte im Sinne der Richtlinie 2003/109/EG des Rates
-vom 25. November 2003 betreffend die Rechtsstellung der langfristig
-aufenthaltsberechtigten Drittstaatsangehörigen (ABl. L 16 vom
-23\.1.2004, S. 44) haben außerdem die langfristige
-Aufenthaltsberechtigung-EG mitzuführen und Kontrollberechtigten auf
-Verlangen auszuhändigen.
+Kontrollberechtigten auf Verlangen zur Prüfung aushändigen. Das
+Begleitpapier oder der sonstige Nachweis nach Absatz 1 Satz 1 Nummer 3
+kann statt durch Aushändigen des Dokumentes auch auf andere geeignete
+Weise zugänglich gemacht werden. Ausländisches Fahrpersonal muss auch
+den Pass oder ein sonstiges zum Grenzübertritt berechtigendes Dokument
+mitführen und Kontrollberechtigten auf Verlangen zur Prüfung
+aushändigen. Langfristig Aufenthaltsberechtigte im Sinne der
+Richtlinie 2003/109/EG des Rates vom 25. November 2003 betreffend die
+Rechtsstellung der langfristig aufenthaltsberechtigten
+Drittstaatsangehörigen (ABl. L 16 vom 23.1.2004, S. 44) haben außerdem
+die langfristige Aufenthaltsberechtigung-EG mitzuführen und
+Kontrollberechtigten auf Verlangen auszuhändigen.
 
-(3) Der Unternehmer hat dafür zu sorgen, daß während einer Beförderung
-im gewerblichen Güterkraftverkehr ein Begleitpapier oder ein sonstiger
-Nachweis mitgeführt wird, in dem das beförderte Gut, der Be- und
-Entladeort und der Auftraggeber angegeben werden. Das Fahrpersonal muß
-das Begleitpapier oder den sonstigen Nachweis nach Satz 1 während der
-Beförderung mitführen und Kontrollberechtigten auf Verlangen zur
-Prüfung aushändigen oder in anderer geeigneter Weise zugänglich
-machen.
+(3) (weggefallen)
 
 
 ### § 7a Haftpflichtversicherung
@@ -552,11 +556,11 @@ Versicherungspflicht.
 
 (1) Das Bundesamt für Güterverkehr (Bundesamt) ist eine selbständige
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung. Es wird von dem Präsidenten
+Verkehr und digitale Infrastruktur. Es wird von dem Präsidenten
 geleitet.
 
 (2) Der Aufbau des Bundesamtes wird durch das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung geregelt.
+Verkehr und digitale Infrastruktur geregelt.
 
 
 ### § 11 Aufgaben
@@ -598,9 +602,7 @@ Bundesgesetze oder auf Grund dieser Gesetze zugewiesen sind.
         Straßengüterbeförderung sowie für die Benutzung von Straßen anfallen,
 
 
-    e)  die Umsatzsteuer, die für die Beförderung von Gütern im Binnenverkehr
-        durch ausländische Unternehmer oder mit nicht im Inland zugelassenen
-        Fahrzeugen anfällt,
+    e)  (weggefallen)
 
 
     f)  die Beförderung gefährlicher Güter auf der Straße,
@@ -635,12 +637,10 @@ Bundesgesetze oder auf Grund dieser Gesetze zugewiesen sind.
     l)  die Ladung,
 
 
-    m)  die nach Artikel 4 Abs. 1 in Verbindung mit Anhang I Nr. 10 der
-        Richtlinie 2000/30/EG des Europäischen Parlaments und des Rates vom 6.
-        Juni 2000 über die technische Unterwegskontrolle von Nutzfahrzeugen,
-        die in der Gemeinschaft am Straßenverkehr teilnehmen (ABl. EG Nr. L
-        203 S. 1) zu prüfenden technischen Anforderungen an Kraftfahrzeuge zur
-        Güterbeförderung,
+    m)  die nach den Rechtsvorschriften der Europäischen Union über die
+        technische Unterwegskontrolle von Nutzfahrzeugen, die am
+        Straßenverkehr teilnehmen, zu prüfenden technischen Anforderungen an
+        Kraftfahrzeuge zur Güterbeförderung,
 
 
     n)  die Erlaubnis- und Ausweispflicht beim Führen von Kraftfahrzeugen zur
@@ -661,9 +661,9 @@ Bundesgesetze oder auf Grund dieser Gesetze zugewiesen sind.
 eingehalten werden, soweit diese Überwachung im Rahmen der Maßnahmen
 nach § 12 Abs. 1 und 2 durchgeführt werden kann.
 
-(3) In den Fällen des Absatzes 2 Nr. 3 Buchstabe d und e hat das
-Bundesamt ohne Ersuchen den zuständigen Finanzbehörden die zur
-Sicherung der Besteuerung notwendigen Daten zu übermitteln.
+(3) In den Fällen des Absatzes 2 Nr. 3 Buchstabe d hat das Bundesamt
+ohne Ersuchen den zuständigen Finanzbehörden die zur Sicherung der
+Besteuerung notwendigen Daten zu übermitteln.
 
 (4) Allgemeine Verwaltungsvorschriften zu den Aufgaben nach Absatz 2
 Nr. 3 Buchstabe j und k werden von der Bundesregierung mit Zustimmung
@@ -686,11 +686,12 @@ Bescheinigungen zur Prüfung ausgehändigt werden. Das Fahrpersonal hat,
 soweit erforderlich, den Beauftragten des Bundesamtes unverzüglich die
 zur Erfüllung der Überwachungsaufgabe erforderlichen Auskünfte
 wahrheitsgemäß nach bestem Wissen und Gewissen zu erteilen, vorhandene
-Hilfsmittel zur Verfügung zu stellen sowie Hilfsdienste zu leisten.
-Die Verpflichtung nach Satz 3 besteht nicht, soweit ihre Erfüllung für
-das Fahrpersonal oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der
-Zivilprozessordnung bezeichneten Angehörigen die Gefahr einer
-Verfolgung wegen einer Straftat oder Ordnungswidrigkeit begründet.
+Hilfsmittel zur Verfügung zu stellen, Zutritt zum Fahrzeug zu
+gestatten sowie Hilfsdienste zu leisten. Die Verpflichtung nach Satz 3
+besteht nicht, soweit ihre Erfüllung für das Fahrpersonal oder einen
+der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
+Angehörigen die Gefahr einer Verfolgung wegen einer Straftat oder
+Ordnungswidrigkeit begründet.
 
 (2) Zur Überwachung von Rechtsvorschriften über die Beschäftigung und
 die Tätigkeiten des Fahrpersonals auf Kraftfahrzeugen können
@@ -762,7 +763,7 @@ dass Zuwiderhandlungen gegen
 
 3.  § 24 des Straßenverkehrsgesetzes, die nach dem auf Grund des § 26a des
     Straßenverkehrsgesetzes erlassenen Bußgeldkatalog in der Regel mit
-    Geldbußen von mindestens vierzig Euro geahndet werden,
+    Geldbußen von mindestens sechzig Euro geahndet werden,
 
 
 4.  § 24a oder § 24c des Straßenverkehrsgesetzes,
@@ -834,8 +835,8 @@ Luftverkehr sowie die Logistik. Mit der Marktbeobachtung sollen
 Entwicklungen auf dem Verkehrs- und Logistikmarkt frühzeitig erkannt
 werden. Es besteht keine Auskunftspflicht.
 
-(2) Das Bundesamt berichtet dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung über den jeweiligen Stand der Entwicklung des
+(2) Das Bundesamt berichtet dem Bundesministerium für Verkehr und
+digitale Infrastruktur über den jeweiligen Stand der Entwicklung des
 Marktgeschehens und die absehbare künftige Entwicklung. Es bereitet
 dazu Daten aus dem Verwaltungsvollzug auf und erstellt oder betreut
 kurz- und mittelfristige Prognosen zum Güter- und Personenverkehr.
@@ -858,16 +859,17 @@ diese Zwecke nicht mehr benötigt werden.
 Das Bundesamt ist zuständig für die Durchführung von
 Beihilfeprogrammen des Bundes nach
 
-1.  der Verordnung (EG) Nr. 1998/2006 der Kommission vom 15. Dezember 2006
-    über die Anwendung der Artikel 87 und 88 EG-Vertrag auf „De-
-    minimis“-Beihilfen (ABl. EU Nr. L 379 S. 5) und
+1.  der Verordnung (EU) Nr. 1407/2013 der Kommission vom 18. Dezember 2013
+    über die Anwendung der Artikel 107 und 108 des Vertrags über die
+    Arbeitsweise der Europäischen Union auf De-minimis-Beihilfen (ABl. L
+    352 vom 24.12.2013, S. 1) und
 
 
-2.  dem Abschnitt 8 der Verordnung (EG) Nr. 800/2008 der Kommission vom 6.
-    August 2008 zur Erklärung der Vereinbarkeit bestimmter Gruppen von
-    Beihilfen mit dem Gemeinsamen Markt in Anwendung der Artikel 87 und 88
-    EG-Vertrag (allgemeine Gruppenfreistellungsverordnung) (ABl. EU Nr. L
-    214 S. 3).
+2.  der Verordnung (EU) Nr. 651/2014 der Kommission vom 17. Juni 2014 zur
+    Feststellung der Vereinbarkeit bestimmter Gruppen von Beihilfen mit
+    dem Binnenmarkt in Anwendung der Artikel 107 und 108 des Vertrags über
+    die Arbeitsweise der Europäischen Union (ABl. L 187 vom 26.6.2014, S.
+    1).
 
 
 
@@ -952,9 +954,11 @@ gespeicherten Daten für die
 
 
 6.  Beantwortung von Anfragen von Erteilungsbehörden und zuständigen
-    öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union zum
-    Zweck der Überprüfung der Einhaltung der Zugangsvoraussetzungen zum
-    Beruf des Güter- und Personenkraftverkehrsunternehmers
+    öffentlichen Stellen in einem Mitgliedstaat der Europäischen Union
+    oder einem anderen Mitgliedstaat des Europäischen Wirtschaftsraumes
+    oder der Schweiz zum Zweck der Überprüfung der Einhaltung der
+    Zugangsvoraussetzungen zum Beruf des Güter- und
+    Personenkraftverkehrsunternehmers
 
 
 
@@ -971,7 +975,7 @@ löschen, wenn sie für die Aufgaben nach Absatz 1, 4 und 5 nicht mehr
 benötigt werden, spätestens aber zwei Jahre, nachdem das Unternehmen
 seinen Betrieb eingestellt hat.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Einzelheiten der Führung der Verkehrsunternehmensdatei zu regeln,
 insbesondere das Nähere
@@ -1052,10 +1056,15 @@ nachzuweisen:
 
 3.  als Auswahlgrundlage für Unternehmensbefragungen im Rahmen der
     Marktbeobachtung nach § 14 sowie für die Durchführung der
-    Unternehmensstatistik im Werkverkehr und
+    Unternehmensstatistik im Werkverkehr,
 
 
-4.  zur Durchführung von Beihilfeverfahren im Sinne des § 14a
+4.  zur Durchführung von Beihilfeverfahren im Sinne des § 14a und
+
+
+5.  für die Erledigung der Aufgaben, die ihm nach dem Gesetz zur
+    Sicherstellung des Verkehrs sowie durch das Gesetz zur Sicherstellung
+    von Verkehrsleistungen übertragen sind,
 
 
 
@@ -1120,6 +1129,24 @@ in einem Unternehmen mit Sitz im Inland begangen wurden. Über diese
 Verfahren teilen die zuständigen Verwaltungsbehörden im Sinne des § 36
 Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten dem Bundesamt die
 Daten nach Absatz 1 Satz 1 mit.
+
+(2a) Zum Zweck der Beurteilung der Zuverlässigkeit des Unternehmers
+und der Verkehrsleiter gilt Absatz 1 entsprechend für abgeschlossene
+Bußgeldverfahren wegen in Anhang 1 der Verordnung (EU) 2016/403 der
+Kommission vom 18. März 2016 zur Ergänzung der Verordnung (EG) Nr.
+1071/2009 des Europäischen Parlaments und des Rates in Bezug auf die
+Einstufung schwerwiegender Verstöße gegen die Unionsvorschriften, die
+zur Aberkennung der Zuverlässigkeit der Kraftverkehrsunternehmer
+führen können, sowie zur Änderung von Anhang III der Richtlinie
+2006/22/EG des Europäischen Parlaments und des Rates (ABl. L 74 vom
+19\.3.2016, S. 8) genannter Zuwiderhandlungen, wenn die
+Ordnungswidrigkeit in einem Unternehmen mit Sitz im Inland begangen
+wurde und die Geldbuße bis zu zweihundert Euro beträgt. Über diese
+Verfahren teilen die zuständigen Verwaltungsbehörden nach § 36 Absatz
+1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten dem Bundesamt die
+Daten nach Absatz 1 Satz 1 mit. Die §§ 4 und 6 der Verordnung zur
+Durchführung der Verkehrsunternehmensdatei nach dem
+Güterkraftverkehrsgesetz gelten entsprechend.
 
 (3) Das Bundesamt hat eine schwerwiegende Zuwiderhandlung des
 Betroffenen und sonstige Zuwiderhandlungen des Betroffenen oder
@@ -1189,52 +1216,65 @@ der Verordnung (EG) Nr. 1071/2009.
 
 (2) Das Bundesamt leitet als nationale Kontaktstelle Daten über
 schwerwiegende Verstöße gegen Gemeinschaftsvorschriften in den in
-Artikel 6 Absatz 1 Buchstabe b der Verordnung (EG)
-Nr. 1071/2009              genannten Bereichen, die in einem Güter-
-oder Personenkraftverkehrsunternehmen mit Sitz in einem anderen
-Mitgliedstaat der Europäischen Union begangen wurden, von Amts wegen
-an die nationale Kontaktstelle des Niederlassungsmitgliedstaates
-weiter. Hierzu übermitteln Staatsanwaltschaften und
-Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
-über Ordnungswidrigkeiten dem Bundesamt nach Eintritt der Rechtskraft
-der gerichtlichen Entscheidung oder des Bußgeldbescheides die
-erforderlichen Informationen einschließlich personenbezogener Daten.
-Das Bundesamt leitet Mitteilungen aus dem Niederlassungsmitgliedstaat
-über anlässlich des übermittelten Verstoßes veranlasste Maßnahmen im
-Sinne des Artikels 12 Absatz 1 der Verordnung (EG) Nr. 1072/2009 und
-des Artikels 22 Absatz 1 der Verordnung (EG) Nr. 1073/2009 an die
-übermittelnde deutsche Stelle weiter.
+Artikel 6 Absatz 1 Buchstabe b der Verordnung (EG) Nr. 1071/2009
+genannten Bereichen, die in einem Güter- oder
+Personenkraftverkehrsunternehmen mit Sitz in einem anderen
+Mitgliedstaat der Europäischen Union oder in einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+der Schweiz begangen wurden, von Amts wegen an die nationale
+Kontaktstelle des Niederlassungsmitgliedstaates weiter. Hierzu
+übermitteln Staatsanwaltschaften und Verwaltungsbehörden im Sinne des
+§ 36 Absatz 1 Nummer 1 des Gesetzes über Ordnungswidrigkeiten dem
+Bundesamt nach Eintritt der Rechtskraft der gerichtlichen Entscheidung
+oder des Bußgeldbescheides die erforderlichen Informationen
+einschließlich personenbezogener Daten. Das Bundesamt leitet
+Mitteilungen aus dem Niederlassungsmitgliedstaat über anlässlich des
+übermittelten Verstoßes veranlasste Maßnahmen im Sinne des Artikels 12
+Absatz 1 der Verordnung (EG) Nr. 1072/2009 und des Artikels 22 Absatz
+1 der Verordnung (EG) Nr. 1073/2009 an die übermittelnde deutsche
+Stelle weiter.
 
 (3) Das Bundesamt leitet als nationale Kontaktstelle Mitteilungen aus
-anderen Mitgliedstaaten der Europäischen Union über schwerwiegende
-Verstöße gegen Gemeinschaftsvorschriften in den in Artikel 6 Absatz 1
-Buchstabe b der Verordnung (EG) Nr. 1071/2009 genannten Bereichen, die
-in einem Güter- oder Personenkraftverkehrsunternehmen mit Sitz im
-Inland begangen wurden, von Amts wegen an die jeweils zuständige
-Erteilungsbehörde weiter. Das Bundesamt leitet Mitteilungen der
-zuständigen Landesbehörde über anlässlich des übermittelten Verstoßes
-veranlasste Maßnahmen im Sinne des Artikels 12 Absatz 1 der Verordnung
-(EG) Nr. 1072/2009 und des Artikels 22 Absatz 1 der Verordnung (EG)
-Nr. 1073/2009 an die nationale Kontaktstelle des mitteilenden
-Mitgliedstaates der Europäischen Union weiter.
+anderen Mitgliedstaaten der Europäischen Union oder aus anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+oder der Schweiz über schwerwiegende Verstöße gegen
+Gemeinschaftsvorschriften in den in Artikel 6 Absatz 1 Buchstabe b der
+Verordnung (EG) Nr. 1071/2009 genannten Bereichen, die in einem Güter-
+oder Personenkraftverkehrsunternehmen mit Sitz im Inland begangen
+wurden, von Amts wegen an die jeweils zuständige Erteilungsbehörde
+weiter. Das Bundesamt leitet Mitteilungen der zuständigen
+Landesbehörde über anlässlich des übermittelten Verstoßes veranlasste
+Maßnahmen im Sinne des Artikels 12 Absatz 1 der Verordnung (EG) Nr.
+1072/2009 und des Artikels 22 Absatz 1 der Verordnung (EG) Nr.
+1073/2009 an die nationale Kontaktstelle des mitteilenden
+Mitgliedstaates der Europäischen Union oder des mitteilenden anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+oder der Schweiz weiter.
 
 (4) Das Bundesamt leitet als nationale Kontaktstelle von Amts wegen
 Anfragen von zuständigen Landesbehörden zu bestandskräftigen
 Entscheidungen von Behörden anderer Mitgliedstaaten der Europäischen
-Union, durch die einer bestimmten Person nach Maßgabe des Artikels 6
-Absatz 2 und des Artikels 14 der Verordnung (EG) Nr. 1071/2009 die
-Führung von Kraftverkehrsgeschäften wegen Unzuverlässigkeit untersagt
-wird, an nationale Kontaktstellen anderer Mitgliedstaaten der
-Europäischen Union weiter. Das Bundesamt leitet an die anfragende
+Union oder anderer Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz, durch die einer bestimmten Person
+nach Maßgabe des Artikels 6 Absatz 2 und des Artikels 14 der
+Verordnung (EG) Nr. 1071/2009 die Führung von Kraftverkehrsgeschäften
+wegen Unzuverlässigkeit untersagt wird, an nationale Kontaktstellen
+anderer Mitgliedstaaten der Europäischen Union oder anderer
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+oder der Schweiz weiter. Das Bundesamt leitet an die anfragende
 Landesbehörde in diesem Zusammenhang eingegangene Antworten aus
-anderen Mitgliedstaaten der Europäischen Union weiter.
+anderen Mitgliedstaaten der Europäischen Union oder aus anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+oder der Schweiz weiter.
 
 (5) Das Bundesamt erteilt als nationale Kontaktstelle den nationalen
-Kontaktstellen anderer Mitgliedstaaten der Europäischen Union auf
-Anfrage Auskunft über Personen, denen eine deutsche Behörde nach § 3
-Absatz 5b die Führung von Kraftverkehrsgeschäften wegen
-Unzuverlässigkeit bestandskräftig untersagt hat, soweit dies für die
-Entscheidung über den Zugang zum Beruf des Güter- und
+Kontaktstellen anderer Mitgliedstaaten der Europäischen Union oder
+anderer Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz auf Anfrage Auskunft über Personen,
+denen eine deutsche Behörde nach § 3 Absatz 5b oder § 25a des
+Personenbeförderungsgesetzes die Führung von Kraftverkehrsgeschäften
+wegen Unzuverlässigkeit bestandskräftig untersagt hat, soweit dies für
+die Entscheidung über den Zugang zum Beruf des Güter- und
 Personenkraftverkehrsunternehmers erforderlich ist. Die für eine
 Untersagung nach Satz 1 zuständige Landesbehörde teilt dem Bundesamt
 unverzüglich eine Untersagung und die Identifizierungsdaten des
@@ -1259,13 +1299,13 @@ Informationen sowie die Einzelheiten der Kommunikation zwischen den
 beteiligten inländischen Stellen und dem Bundesamt einschließlich der
 Vorgaben über den Aufbau der Datensätze und der Datenstruktur regeln
 Durchführungsbestimmungen, die vom Bundesamt mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung erlassen und
+Bundesministeriums für Verkehr und digitale Infrastruktur erlassen und
 geändert werden.
 
 
 ### § 17a Zuständigkeit für die Durchführung internationalen Verkehrsrechts
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Bundesamt als die für die Bundesrepublik Deutschland zuständige Stelle
 zu bestimmen, soweit eine solche Bestimmung auf dem Gebiet des
@@ -1312,23 +1352,32 @@ Aufforderung nicht vorgelegt werden.
     Bußgeldvorschrift verweist,
 
 
-3.  entgegen § 7 Abs. 1 nicht dafür sorgt, dass eine dort genannte
-    Berechtigung und ein dort genannter Nachweis mitgeführt werden,
+3.  entgegen § 7 Absatz 1 Satz 1 oder Satz 3 nicht dafür sorgt, dass ein
+    dort genanntes Dokument oder ein dort genannter Nachweis mitgeführt
+    wird,
 
 
-4.  entgegen § 7 Absatz 2 die Berechtigung, einen Nachweis, den Pass, die
-    langfristige Aufenthaltsberechtigung-EG oder ein Dokument nicht
-    mitführt oder die Berechtigung, einen Nachweis oder die langfristige
-    Aufenthaltsberechtigung-EG nicht oder nicht rechtzeitig aushändigt,
+4.  entgegen § 7 Absatz 1 Satz 2 ein dort genanntes Dokument oder einen
+    dort genannten Nachweis einschweißt oder mit einer Schutzschicht
+    überzieht,
 
 
-5.  entgegen § 7 Abs. 3 Satz 1 nicht dafür sorgt, daß das Begleitpapier
-    oder der sonstige Nachweis mitgeführt wird,
+5.  entgegen
+
+    a)  § 7 Absatz 2 Satz 1 oder
 
 
-6.  entgegen § 7 Abs. 3 Satz 2 das Begleitpapier oder den sonstigen
-    Nachweis nicht mitführt oder nicht oder nicht rechtzeitig aushändigt
-    und nicht oder nicht rechtzeitig zugänglich macht,
+    b)  § 7 Absatz 2 Satz 3 oder Satz 4
+
+
+
+    ein dort genanntes Dokument, einen dort genannten Nachweis, einen
+    Pass, ein sonstiges zum Grenzübertritt berechtigendes Dokument oder
+    eine langfristige Aufenthaltsberechtigung-EG nicht mitführt oder nicht
+    oder nicht rechtzeitig aushändigt,
+
+
+6.  (weggefallen)
 
 
 6a. entgegen § 7a Abs. 4 Satz 1 nicht dafür sorgt, dass ein dort genannter
@@ -1359,7 +1408,7 @@ Aufforderung nicht vorgelegt werden.
 8.  entgegen § 12 Abs. 3 ein Zeichen oder eine Weisung nicht befolgt,
 
 
-9.  entgegen § 12 Abs. 4 Satz 2 oder § 21a Abs. 2 Satz 3 eine Maßnahme
+9.  entgegen § 12 Abs. 4 Satz 2 oder § 21a Absatz 2 Satz 2 eine Maßnahme
     nicht gestattet,
 
 
@@ -1456,12 +1505,16 @@ Kabotageverkehr nach Artikel 8 der Verordnung (EG) Nr. 1072/2009
 
 6.  nach Durchführung von mehr als zwei Kabotagebeförderungen in einem
     oder mehreren anderen Mitgliedstaaten nach unbeladener Einfahrt eine
-    Kabotagebeförderung in Deutschland durchführt oder
+    Kabotagebeförderung in Deutschland durchführt,
 
 
-7.  nach Durchführung einer Kabotagebeförderung in einem anderen
+7.  nach Durchführung einer grenzüberschreitenden Beförderung in einen
     Mitgliedstaat und unbeladener Einfahrt nach Deutschland mehr als eine
-    Kabotagebeförderung in Deutschland durchführt.
+    Kabotagebeförderung durchführt oder
+
+
+8.  eine Kabotagebeförderung nicht innerhalb von drei Tagen im Anschluss
+    an eine unbeladene Einfahrt nach Deutschland beendet.
 
 
 
@@ -1585,10 +1638,10 @@ Abs. 1 Nr. 1 des Gesetzes über Ordnungswidrigkeiten das Bundesamt.
 
 (3) Abweichend von Absatz 1 ist das Bundesamt Verwaltungsbehörde im
 Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes über
-Ordnungswidrigkeiten für Zuwiderhandlungen nach § 19 Absatz 1 Nummer 4
-in Verbindung mit § 7 Absatz 2 Satz 2, § 19 Absatz 1 Nummer 6c, 6d,
-6e, Absatz 1a, 2 Nummer 2, 3 und Absatz 4 Nummer 1, die in einem
-Unternehmen, das seinen Sitz im Inland hat, begangen wurden.
+Ordnungswidrigkeiten für Zuwiderhandlungen nach § 19 Absatz 1 Nummer 5
+Buchstabe b, Nummer 6c, 6d, 6e, Absatz 1a, 2 Nummer 2, 3 und Absatz 4
+Nummer 1, die in einem Unternehmen, das seinen Sitz im Inland hat,
+begangen wurden.
 
 (4) § 405 des Dritten Buches Sozialgesetzbuch bleibt unberührt.
 
@@ -1600,19 +1653,26 @@ Beförderungsvertrag Beteiligten unterliegen wegen der Erfüllung der
 gesetzlichen Vorschriften der Aufsicht der nach Landesrecht
 zuständigen Behörde.
 
-(2) Soweit dies zur Wahrnehmung der Aufgaben nach Absatz 1
-erforderlich ist, ist den Beauftragten der Aufsichtsbehörden bei
-Eigentümern und Besitzern von Fahrzeugen zur Güterbeförderung und
-allen an der Beförderung oder an den Handelsgeschäften über die
-beförderten Güter Beteiligten während der üblichen Betriebs- und
-Arbeitszeit das Betreten und Besichtigen der Grundstücke,
-Betriebsanlagen, Geschäftsräume und Beförderungsmittel gestattet.
-Soweit dies zur Erfüllung der Aufgaben der Beauftragten der
-Aufsichtsbehörden erforderlich ist, können Prüfungen und
-Untersuchungen durchgeführt werden und kann Einsicht in geschäftliche
-Unterlagen des Auskunftspflichtigen genommen werden. Die Maßnahmen
-nach den Sätzen 1 und 2 sind von den in Satz 1 genannten Personen zu
-gestatten.
+(2) Soweit dies zur Durchführung der Aufgaben nach Absatz 1
+erforderlich ist, können die Beauftragten der Aufsichtsbehörden
+gegenüber Eigentümern und Besitzern von Fahrzeugen zur
+Güterbeförderung und allen an der Beförderung oder an den
+Handelsgeschäften über die beförderten Güter Beteiligten folgende
+Maßnahmen ergreifen:
+
+1.  Grundstücke und Geschäftsräume innerhalb der üblichen Betriebs- und
+    Geschäftszeiten betreten sowie
+
+
+2.  die erforderlichen Schriftstücke und Datenträger, insbesondere
+    Aufzeichnungen, Frachtbriefe und Unterlagen über den Fahrzeugeinsatz
+    einsehen und hieraus Abschriften, Auszüge, Ausdrucke und Kopien
+    anfertigen oder elektronisch gespeicherte Daten auf eigene Datenträger
+    übertragen.
+
+
+
+Die in Satz 1 genannten Personen haben diese Maßnahmen zu gestatten.
 
 (3) Die in Absatz 2 genannten Personen haben den Beauftragten der
 Aufsichtsbehörden auf Verlangen alle für die Durchführung der Aufsicht
@@ -1631,15 +1691,24 @@ und 4 gilt entsprechend.
 beruhenden Rechtsvorschriften, nach Rechtsakten der Europäischen
 Gemeinschaften sowie auf Grund internationaler Abkommen und diese
 ergänzender nationaler Rechtsvorschriften sind Gebühren und Auslagen
-nach den Bestimmungen des Verwaltungskostengesetzes und der
-Rechtsverordnung nach Absatz 2 zu erheben.
+nach den Bestimmungen des Verwaltungskostengesetzes in der bis zum 14.
+August 2013 geltenden Fassung und der Rechtsverordnung nach Absatz 2
+zu erheben.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-dem Bundesministerium für Wirtschaft und Technologie durch
+dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates die
 gebührenpflichtigen Tatbestände und die Gebühren nach festen Sätzen
-oder als Rahmengebühren näher zu bestimmen.
+oder als Rahmengebühren näher zu bestimmen. Im Bereich der Gebühren
+der Landesbehörden übt das Bundesministerium für Verkehr und digitale
+Infrastruktur die Ermächtigung nach Satz 1 auf der Grundlage eines
+Antrags oder einer Stellungnahme von mindestens fünf Ländern beim
+Bundesministerium für Verkehr und digitale Infrastruktur aus. Der
+Antrag oder die Stellungnahme sind mit einer Schätzung des Personal-
+und Sachaufwands zu begründen. Das Bundesministerium für Verkehr und
+digitale Infrastruktur kann die übrigen Länder ebenfalls zur
+Beibringung einer Schätzung des Personal- und Sachaufwands auffordern.
 
 (3) Auskünfte nach § 19 des Bundesdatenschutzgesetzes werden
 unentgeltlich erteilt.
@@ -1652,14 +1721,14 @@ allgemeinen Verwaltungsvorschriften, die zur Durchführung von
 Rechtsakten der Europäischen Union, dieses Gesetzes und der auf diesem
 Gesetz beruhenden Rechtsverordnungen erforderlich sind.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
 andere als in § 2 Abs. 1 genannte Beförderungsfälle ganz oder
 teilweise von den Bestimmungen dieses Gesetzes auszunehmen, soweit
 sich deren Unterstellung unter dieses Gesetz als unverhältnismäßig
 erweist.
 
-(3) Das Bundesministerium Verkehr, Bau und Stadtentwicklung wird
+(3) Das Bundesministerium Verkehr und digitale Infrastruktur wird
 ermächtigt, im Bereich des grenzüberschreitenden Güterkraftverkehrs,
 des Durchgangsverkehrs und des Kabotageverkehrs (innerstaatlicher
 Güterkraftverkehr durch Unternehmer, die in einem anderen Staat
@@ -1711,7 +1780,7 @@ betreffen, Rechtsverordnungen zu erlassen, durch die
 Rechtsverordnungen nach den Nummern 1 bis 3 bedürfen der Zustimmung
 des Bundesrates.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 abweichend von den auf Grund des Absatzes 3 erlassenen
 Rechtsverordnungen im Rahmen internationaler Regierungs- und
 Verwaltungsabkommen Beförderungsfälle ganz oder teilweise von der
@@ -1719,12 +1788,12 @@ Genehmigungspflicht für den grenzüberschreitenden gewerblichen
 Güterkraftverkehr mit Staaten außerhalb der Europäischen Union und des
 Europäischen Wirtschaftsraums freistellen, soweit diese sich als
 unverhältnismäßig erweist. Ebenso kann das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung mit einem Nachbarstaat
+Verkehr und digitale Infrastruktur mit einem Nachbarstaat
 Vereinbarungen treffen, durch die Verkehre durch das Inland mit Be-
 und Entladeort in dem Nachbarstaat von der Erlaubnispflicht nach § 3
 Abs. 1 ausgenommen werden.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates auf
 dem Gebiet des grenzüberschreitenden kombinierten Verkehrs zur Ordnung
 dieses Verkehrs und zur Durchführung internationaler Abkommen sowie

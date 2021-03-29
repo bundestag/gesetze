@@ -65,10 +65,10 @@ Unternehmens
 
 
 Für Unternehmen mit einem Wirtschaftswert bis zu
-25 000              Deutsche Mark gilt der für diesen Wirtschaftswert
-ermittelte Beziehungswert. Der Beziehungswert für einen in den Anlagen
-1 und 2 nicht aufgeführten und nicht unter Absatz 3 fallenden
-Wirtschaftswert ist zu ermitteln, indem
+25 000 Deutsche Mark gilt der für diesen Wirtschaftswert ermittelte
+Beziehungswert. Der Beziehungswert für einen in den Anlagen 1 und 2
+nicht aufgeführten und nicht unter Absatz 3 fallenden Wirtschaftswert
+ist zu ermitteln, indem
 
 a)  der Differenzbetrag aus diesem Wirtschaftswert und dem
     nächstniedrigeren Wirtschaftswert der Anlage durch den Wert 1 000
@@ -106,9 +106,8 @@ Land- und Forstwirtschaft, indem der Wirtschaftswert des Unternehmens
 
 Für Betriebe der Gruppen 1 und 2 mit einem Wirtschaftswert über 47 000
 Deutsche Mark und unter
-500 000              Deutsche Mark, deren Wirtschaftswert in den
-Anlagen 3 und 4 nicht aufgeführt ist, wird das Arbeitseinkommen
-ermittelt, indem
+500 000 Deutsche Mark, deren Wirtschaftswert in den Anlagen 3 und 4
+nicht aufgeführt ist, wird das Arbeitseinkommen ermittelt, indem
 
 a)  der Differenzbetrag zwischen diesem Wirtschaftswert und dem
     nächstniedrigeren Wirtschaftswert der Anlage durch den Differenzbetrag

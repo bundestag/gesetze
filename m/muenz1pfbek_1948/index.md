@@ -2,7 +2,7 @@
 Title: Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
 jurabk: Münz1PfBek 1948
 layout: default
-origslug: m_nz1pfbek_1948
+origslug: muenz1pfbek_1948
 slug: muenz1pfbek_1948
 
 ---

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte
   Pharmareferentin
 jurabk: PharmRefPrV
 layout: default
@@ -8,13 +8,16 @@ slug: pharmrefprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Pharmareferent/Geprüfte Pharmareferentin (PharmRefPrV)
 
 Ausfertigungsdatum
 :   2007-06-26
 
 Fundstelle
 :   BGBl I: 2007, 1192
+
+Geändert durch
+:   Art. 9 V v. 30.11.2017 I 3827
 
 
 
@@ -91,7 +94,7 @@ Dazu gehört die Befähigung,
 2.  eine mindestens fünfjährige Berufspraxis sowie
 
 
-3.  die Teilnahme an einer Bildungsmaßnahme gemäß der Anlage 3 oder wer
+3.  die Teilnahme an einer Bildungsmaßnahme gemäß der Anlage oder wer
     glaubhaft macht, entsprechende Kenntnisse über "Naturwissenschaftliche
     und medizinische Grundlagen", über "Pharmakologie, die
     Pharmakotherapie und Krankheitsbilder", über "Arzneimittelrecht, das
@@ -654,10 +657,44 @@ erbrachten Prüfungsleistungen sind jeweils nach Punkten zu bewerten.
 Qualifikationsbereichen und im Fachgespräch jeweils mindestens
 ausreichende Leistungen erbracht wurden.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung gemäß § 5
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+(3) Die Gesamtnote ergibt sich aus dem arithmetischen Mittel aus den
+Punktebewertungen der einzelnen Prüfungsleistungen nach Absatz 1.
+
+(4) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis wird darüber hinaus mindestens angegeben:
+
+1.  die Prüfungsform „Schriftliche Prüfungsleistung“ sowie die Benennung
+    und die jeweilige Punktebewertung der Qualifikationsbereiche nach § 3
+    Absatz 1 Nummer 1 bis 3,
+
+
+2.  die Prüfungsform „Fachgespräch“ sowie die Benennung und die
+    Punktebewertung des Qualifikationsbereiches nach § 3 Absatz 1 Nummer
+    4,
+
+
+3.  die Gesamtnote nach Absatz 3 und
+
+
+4.  gegebenenfalls die Befreiungen nach § 5.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 4 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 7 Wiederholung der Prüfung
@@ -693,90 +730,12 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Juli 2007 in Kraft.
 
+(zu § 2 Abs. 1 Nr. 3)
 
-## Anlage 1 (zu § 6 Abs. 3)
+## Anlage Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
 
-(Fundstelle: BGBl. I 2007, 1196)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-Herr/Frau
-....................................................................
-geboren am ........................ in
-.......................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Pharmareferent/Geprüfte Pharmareferentin vom 26. Juni 2007 (BGBl. I S.
-1192)
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 6 Abs. 3)
-
-(Fundstelle: BGBl. I 2007, 1197)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-Herr/Frau
-....................................................................
-geboren am ........................ in
-.......................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Pharmareferent/Geprüfte Pharmareferentin vom 26. Juni 2007 (BGBl. I S.
-1192)
-mit folgenden Ergebnissen bestanden:
-Punkte \*)        Note
-Schriftliche Prüfungsleistungen
-"Naturwissenschaftliche und medizinische
-Grundlagen"                                        ..........
-..........
-"Pharmakologie, Pharmakotherapie und
-Krankheitsbilder"                                  ..........
-..........
-"Arzneimittelrecht, Gesundheitsmanagement
-und -ökonomie"                                     ..........
-..........
-Fachgespräch einschließlich Qualifikationsbereich
-"Kommunikation, Pharmamarkt, Pharmamarketing"      ..........
-..........
-(Im Fall des § 5: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde
-gemäß
-§ 5 im Hinblick auf die am
-...................................................
-in ..................... vor ................ abgelegte Prüfung
-..............
-von der Prüfung in dem Qualifikationsbereich
-.................................
-freigestellt.")
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-\*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-............
-
-
-## Anlage 3 (zu § 2 Abs. 1 Nr. 3) Anforderungen an die Durchführung von Bildungsmaßnahmen zur Vorbereitung auf die Prüfung zum anerkannten Abschluss Geprüfter Pharmareferent/Geprüfte Pharmareferentin
-
-(Fundstelle: BGBl. I 2007, 1198 - 1201)
+(Fundstelle: BGBl. I 2007, 1198 - 1201; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *
     *   **Inhaltsübersicht**
@@ -824,7 +783,7 @@ Unterschrift(en) ...............................
 *    *
     *   Insgesamt
 
-    *   1.000
+    *   1 000
 
 
 *    *

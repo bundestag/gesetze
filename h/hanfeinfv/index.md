@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 4044
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.12.2012 I 2653
+:   Art. 1 V v. 26.1.2017 I 138
 
 
 ## Eingangsformel
@@ -45,8 +45,8 @@ gemeinsamen Organisation der Agrarmärkte.
 
 Zuständig für die Durchführung dieser Verordnung und der in § 1
 genannten Rechtsakte ist die Bundesanstalt für Landwirtschaft und
-Ernährung (Bundesanstalt), soweit nicht nach § 4 Abs. 6 oder § 5 Abs.
-1 die Bundesfinanzverwaltung zuständig ist.
+Ernährung (Bundesanstalt), soweit nicht nach § 5 Absatz 1 die
+Bundesfinanzverwaltung zuständig ist.
 
 
 ## § 3 Zulassung
@@ -57,9 +57,8 @@ von Hanf wird auf Antrag erteilt an
 1.  Forschungseinrichtungen oder
 
 
-2.  natürliche oder juristische Personen, die rechtmäßig am Handel mit
-    Hanf oder an der Behandlung von nicht zur Aussaat bestimmten Hanfsamen
-    beteiligt sind.
+2.  natürliche oder juristische Personen, die im Handel mit Getreide oder
+    Saaten für die Futter- oder Nahrungsmittelherstellung tätig sind.
 
 
 
@@ -85,19 +84,27 @@ Der Antrag hat zu enthalten:
 
 
 4.  Verpflichtungserklärung über die Vorlage der Bescheinigungen über die
-    Behandlung der Hanfsamen nach Artikel 17 Absatz 2 der Verordnung (EG)
-    Nr. 507/2008 der Kommission vom 6. Juni 2008 mit
-    Durchführungsbestimmungen zu der Verordnung (EG) Nr. 1673/2000 des
-    Rates über die gemeinsame Marktorganisation für Faserflachs und -hanf
-    (ABl. L 149 vom 7.6.2008, S. 38) in der jeweils geltenden Fassung.
+    Behandlung der Hanfsamen nach Artikel 9 Absatz 4 der delegierten
+    Verordnung (EU) 2016/1237 der Kommission vom 18. Mai 2016 zur
+    Ergänzung der Verordnung (EU) Nr. 1308/2013 des Europäischen
+    Parlaments und des Rates in Bezug auf die Durchführungsbestimmungen
+    für die Regelung über Ein- und Ausfuhrlizenzen und zur Ergänzung der
+    Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des
+    Rates in Bezug auf die Vorschriften über die Freigabe und den Verfall
+    der für solche Lizenzen geleisteten Sicherheiten sowie zur Änderung
+    der Verordnungen (EG) Nr. 2535/2001, (EG) Nr. 1342/2003, (EG) Nr.
+    2336/2003, (EG) Nr. 951/2006, (EG) Nr. 341/2007 und (EG) Nr. 382/2008
+    der Kommission und zur Aufhebung der Verordnungen (EG) Nr. 2390/98,
+    (EG) Nr. 1345/2005, (EG) Nr. 376/2008 und (EG) Nr. 507/2008 der
+    Kommission (ABl. L 206 vom 30.7.2016, S. 1) in der jeweils geltenden
+    Fassung.
 
 
 
 
-(4) Die Zulassung erfolgt durch Bescheid und ist auf drei Jahre
-befristet. Die Zulassung kann jederzeit widerrufen werden, wenn der
-Inhaber der Zulassung nicht mehr die erforderliche Zuverlässigkeit
-besitzt.
+(4) Die Zulassung erfolgt durch Bescheid. Die Zulassung kann jederzeit
+widerrufen werden, wenn der Inhaber der Zulassung nicht mehr die
+erforderliche Zuverlässigkeit besitzt.
 
 (5) Wer einen Antrag gemäß Absatz 2 gestellt hat oder als Einführer
 zugelassen ist, hat der Bundesanstalt jede Änderung, die dazu führt,
@@ -110,32 +117,23 @@ andere Frist vorgeschrieben ist.
 
 ## § 4 Lizenz
 
-(1) Die EWG-Lizenzverordnung findet keine Anwendung.
+(1) (weggefallen)
 
-(2) Die Lizenz nach Artikel 17 Absatz 1 der Verordnung (EG) Nr.
-507/2008 ist durch Einreichung des teilausgefüllten Lizenzformulars
-bei der Bundesanstalt zu beantragen; dazu sind die Felder 4, 7, 8, 14,
-15, 16, 17, 18 und bei zur Aussaat bestimmten Hanfsamen auch Feld 20
-auszufüllen.
+(2) (weggefallen)
 
 (3) Bei Rohhanf und bei zur Aussaat bestimmten Hanfsamen darf jede
 Einfuhrlizenz nur einmal zur Einfuhr verwendet werden.
 
-(4) Die Lizenz gilt vom Tag ihrer Ausstellung bis zum Ablauf des
-dritten Monats nach dem Monat der Ausstellung. Endet die Zulassung des
-Einführers nach § 3 jedoch vor Ablauf des in Satz 1 genannten
-Zeitraums, gilt die Lizenz nur bis zum Ende dieser Zulassung.
+(4) Wird die Zulassung des Einführers nach § 3 entzogen, so verliert
+die Lizenz mit dem Entzug der Zulassung ihre Gültigkeit.
 
-(5) Die eingeführte Menge darf die in der Lizenz genannte Menge um 10
-vom Hundert übersteigen.
+(5) (weggefallen)
 
-(6) Auf der Rückseite der Lizenz ist durch die Zollstelle, die die
-Zollanmeldung zur Überführung in den zollrechtlich freien Verkehr
-angenommen hat, die eingeführte Menge unter Angabe des Zollpapiers und
-des Datums der Abschreibung zu vermerken.
+(6) (weggefallen)
 
-(7) Die Lizenz ist von ihrem Inhaber innerhalb von einem Monat nach
-Ablauf ihrer Gültigkeit an die Bundesanstalt zurückzusenden.
+(7) Die Lizenz ist von ihrem Inhaber innerhalb von sechzig
+Kalendertagen nach Ablauf ihrer Gültigkeit an die Bundesanstalt
+zurückzusenden.
 
 (8) Die Lizenz kann jederzeit widerrufen oder zurückgenommen werden,
 wenn die Zulassung des Einführers nach § 3 widerrufen wird oder
@@ -152,7 +150,7 @@ entnimmt von jeder Rohhanf-Einfuhrsendung eine Probe zur Untersuchung.
 Das Ergebnis der Untersuchung ist der Bundesanstalt zu übermitteln.
 Die Nummer der Warenprobe vermerkt die Zollstelle, die die Probe
 nimmt, auf dem teilausgefüllten Lizenzformular, mit dem der Einführer
-bei der Bundesanstalt nach § 4 Abs. 2 die Lizenz beantragt.
+bei der Bundesanstalt die Lizenz beantragt.
 
 (2) Bei zur Aussaat bestimmten Hanfsamen ist dem Antrag auf Erteilung
 der Lizenz das aufgrund des OECD-Systems für die sortenmäßige
@@ -176,14 +174,16 @@ Bundesanstalt um einen oder zwei Sechsmonatszeiträume verlängert
 werden.
 
 
-## § 7 Bescheinigung
+## § 7 Bescheinigung über die Behandlung
 
-Der zugelassene Einführer hat der Bundesanstalt innerhalb von einem
-Monat nach der Behandlung der nicht zur Aussaat bestimmten Hanfsamen
-die Bescheinigung nach Artikel 17 Absatz 2 der Verordnung (EG) Nr.
-507/2008 vorzulegen. Die Bescheinigung ist durch den zugelassenen
-Einführer durch seine Unterschrift zu bestätigen und einer Lizenz
-durch Angabe der Registriernummer der Lizenz zuzuordnen.
+Der zugelassene Einführer hat der Bundesanstalt die in Artikel 9
+Absatz 4 der delegierten Verordnung (EU) Nr. 2016/1237 genannte
+Bescheinigung über die Behandlung von nicht zur Aussaat bestimmtem
+Hanfsamen innerhalb von einem Monat nach Ablauf eines Quartals über
+die im jeweils abgelaufenen Quartal vorgenommenen Behandlungen
+vorzulegen. Die Bescheinigung ist durch den zugelassenen Einführer
+durch seine Unterschrift zu bestätigen und einer Lizenz durch Angabe
+der Registriernummer der Lizenz zuzuordnen.
 
 
 ## § 8 Muster, Formulare

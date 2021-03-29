@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 2093
 
 Geändert durch
-:   Art. 1 V v. 17.12.1994 I 3845
+:   Art. 494 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -41,15 +41,16 @@ Pflichtversicherungsgesetzes in der Fassung des Gesetzes vom 5. April
 ## § 2
 
 Die Satzung der Verkehrsopferhilfe sowie jede Änderung der Satzung
-bedarf der Genehmigung des Bundesministers der Justiz. Die Satzung ist
-im Bundesanzeiger bekanntzumachen.
+bedarf der Genehmigung des Bundesministers der Justiz und für
+Verbraucherschutz. Die Satzung ist im Bundesanzeiger bekanntzumachen.
 
 
 ## § 3
 
 Die Verkehrsopferhilfe untersteht der Aufsicht des Bundesministers der
-Justiz. Durch die Aufsicht soll sichergestellt werden, daß die
-Verkehrsopferhilfe ihre Aufgaben ordnungsgemäß erfüllt.
+Justiz und für Verbraucherschutz. Durch die Aufsicht soll
+sichergestellt werden, daß die Verkehrsopferhilfe ihre Aufgaben
+ordnungsgemäß erfüllt.
 
 
 ## § 4

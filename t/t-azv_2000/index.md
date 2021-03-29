@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 931
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 105 G v. 5.2.2009 I 160
+:   Art. 1 V v. 12.10.2015 I 1685
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost:
 ## § 1 Anwendung der Arbeitszeitverordnung
 
 Für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und
-Beamten gilt die Arbeitszeitverordnung, soweit in den §§ 2 bis 4
+Beamten gilt die Arbeitszeitverordnung, soweit in dieser Verordnung
 nichts anderes bestimmt ist.
 
 
@@ -125,7 +125,56 @@ Beamten treffen.
 gleitender Arbeitszeit § 3 Abs. 2 und 3 keine Anwendung.
 
 
-## § 5 Inkrafttreten
+## § 5 Lebensarbeitszeitkonten
 
-Diese Verordnung tritt am 1. Juli 2000 in Kraft.
+(1) Für die bei der Deutschen Telekom AG beschäftigten Beamtinnen und
+Beamte sowie für Beamtinnen und Beamte, denen eine Tätigkeit bei einem
+Unternehmen im Sinne von § 4 Absatz 4 Satz 2 des
+Postpersonalrechtsgesetzes zugewiesen worden ist, kann auf Antrag der
+Beamtin oder des Beamten ein Lebensarbeitszeitkonto geführt werden,
+wenn keine betrieblichen oder betriebswirtschaftlichen Belange
+entgegenstehen. Auf dem Lebensarbeitszeitkonto können Zeitguthaben
+angespart und für zusammengefasste Freistellungszeiten verwendet
+werden.
+
+(2) Dem Lebensarbeitszeitkonto können auf Antrag gutgeschrieben
+werden:
+
+1.  Zeitguthaben, die in Arbeitszeitkonten nach den §§ 3 und 4 erfasst
+    sind, sowie
+
+
+2.  Ansprüche auf Dienstbefreiung für dienstlich angeordnete oder
+    genehmigte Mehrarbeit.
+
+
+
+In jedem Kalenderjahr sollen dem Lebensarbeitszeitkonto nicht mehr als
+80 Stunden gutgeschrieben werden. Die Stundenzahl nach Satz 2
+reduziert sich bei Teilzeitbeschäftigung im gleichen Verhältnis wie
+die Arbeitszeit.
+
+(3) Das Zeitguthaben ist bis zum Eintritt in den Ruhestand durch
+Freistellung vom Dienst unter Fortzahlung der Besoldung vollständig
+abzubauen. Ist eine Freistellung bis zum Eintritt in den Ruhestand
+nicht möglich, so ist das verbleibende Zeitguthaben abzugelten. Die
+Höhe der Abgeltung beträgt je Stunde:
+
+1.  12 Euro in den Besoldungsgruppen A 2 bis A 4,
+
+
+2.  15 Euro in den Besoldungsgruppen A 5 bis A 8,
+
+
+3.  20 Euro in den Besoldungsgruppen A 9 bis A 12,
+
+
+4.  27 Euro in den Besoldungsgruppen A 13 bis A 16.
+
+
+
+
+(4) Die näheren Einzelheiten zur Führung der Lebensarbeitszeitkonten,
+der Durchführung der Freistellungszeiten sowie zur Abgeltung der
+Zeitguthaben regelt der Vorstand der Deutschen Telekom AG.
 

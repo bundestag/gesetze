@@ -15,20 +15,13 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1516 (1888)
 
+Neugefasst durch
+:   Bek. v. 28.6.2018 I 1057
+
 [^f775582_01_BJNR151600011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Der Rahmenlehrplan für die Berufsschule,
     veröffentlicht als Beilage Nummer 168a zum Bundesanzeiger Nr. 168 vom
     9\. September 1998, gilt fort.
-
-
-## Eingangsformel
-
-Auf Grund des § 4 Absatz 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes, von denen § 4 Absatz 1 durch Artikel 232
-Nummer 1 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-geändert worden ist, verordnet das Bundesministerium für Wirtschaft
-und Technologie im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung:
 
 
 ## § 1 Staatliche Anerkennung des Ausbildungsberufes
@@ -45,7 +38,7 @@ Die Ausbildung dauert dreieinhalb Jahre.
 ## § 3 Ausbildungsrahmenplan, Ausbildungsberufsbild
 
 (1) Gegenstand der Berufsausbildung sind mindestens die im
-Ausbildungsrahmenplan (Anlage) aufgeführten Fertigkeiten, Kenntnisse
+Ausbildungsrahmenplan (Anlage 1) aufgeführten Fertigkeiten, Kenntnisse
 und Fähigkeiten (berufliche Handlungsfähigkeit). Eine von dem
 Ausbildungsrahmenplan abweichende Organisation der Ausbildung ist
 insbesondere zulässig, soweit betriebspraktische Besonderheiten die
@@ -66,55 +59,58 @@ gliedert sich wie folgt (Ausbildungsberufsbild):
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen
+6.  Betriebliche und technische Kommunikation,
+
+
+7.  Planen und Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen
     der Arbeitsergebnisse,
 
 
-7.  Qualitätsmanagement,
+8.  Qualitätsmanagement,
 
 
-8.  Prüfen, Anreißen und Kennzeichnen,
+9.  Prüfen, Anreißen und Kennzeichnen,
 
 
-9.  Manuelles und maschinelles Spanen, Trennen und Umformen,
+10. Manuelles und maschinelles Spanen, Trennen und Umformen,
 
 
-10. Fügen,
+11. Fügen,
 
 
-11. Installieren elektrischer Baugruppen und Komponenten,
+12. Installieren elektrischer Baugruppen und Komponenten,
 
 
-12. Messen und Prüfen elektrischer Größen,
+13. Messen und Prüfen elektrischer Größen,
 
 
-13. Installieren und Testen von Hard- und Softwarekomponenten,
+14. Installieren und Testen von Hard- und Softwarekomponenten,
 
 
-14. Aufbauen und Prüfen von Steuerungen,
+15. Aufbauen und Prüfen von Steuerungen,
 
 
-15. Programmieren mechatronischer Systeme,
+16. Programmieren mechatronischer Systeme,
 
 
-16. Zusammenbauen von Baugruppen und Komponenten zu Maschinen und
+17. Zusammenbauen von Baugruppen und Komponenten zu Maschinen und
     Systemen,
 
 
-17. Montieren und Demontieren von Maschinen, Systemen und Anlagen;
+18. Montieren und Demontieren von Maschinen, Systemen und Anlagen;
     Transportieren und Sichern,
 
 
-18. Prüfen und Einstellen von Funktionen an mechatronischen Systemen,
+19. Prüfen und Einstellen von Funktionen an mechatronischen Systemen,
 
 
-19. Inbetriebnehmen und Bedienen mechatronischer Systeme,
+20. Inbetriebnehmen und Bedienen mechatronischer Systeme,
 
 
-20. Instandhalten mechatronischer Systeme.
+21. Instandhalten mechatronischer Systeme.
 
 
 
@@ -133,12 +129,6 @@ bis 7 nachzuweisen.
 (2) Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
 erstellen.
-
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
 
 
 ## § 5 Abschlussprüfung
@@ -163,16 +153,16 @@ erforderlich ist.
 (1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
 Ausbildungsjahres stattfinden.
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage
+(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 für das erste Ausbildungsjahr und das dritte Ausbildungshalbjahr
 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
 entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
 für die Berufsausbildung wesentlich ist.
 
 (3) Teil 1 der Abschlussprüfung besteht aus dem Prüfungsbereich
-„Arbeiten an einem mechatronischen Teilsystem".
+„Arbeiten an einem mechatronischen Teilsystem“.
 
-(4) Der Prüfling soll zeigen, dass er in der Lage ist
+(4) Der Prüfling soll zeigen, dass er in der Lage ist,
 
 1.  technische Unterlagen auszuwerten, technische Parameter zu bestimmen,
     Arbeitsabläufe zu planen und abzustimmen, Material und Werkzeug zu
@@ -210,7 +200,7 @@ Minuten haben.
 
 ## § 7 Teil 2 der Abschlussprüfung
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
 aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
 vermittelten Lehrstoff, soweit er für die Berufsausbildung wesentlich
 ist.
@@ -232,15 +222,16 @@ ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Organisation des
 Ausbildungsbetriebes, Sicherheit und Gesundheitsschutz bei der Arbeit,
-Umweltschutz, betriebliche und technische Kommunikation, Planen und
-Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen der
-Arbeitsergebnisse sowie Geschäftsprozesse und Qualitätsmanagement zu
-berücksichtigen.
+Umweltschutz, Digitalisierung der Arbeit, Datenschutz und
+Informationssicherheit, betriebliche und technische Kommunikation,
+Planen und Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen
+der Arbeitsergebnisse sowie Geschäftsprozesse und Qualitätsmanagement
+zu berücksichtigen.
 
 (3) Für den Prüfungsbereich „Arbeitsauftrag“ bestehen folgende
 Vorgaben:
 
-1.  Der Prüfling soll zeigen, dass er in der Lage ist
+1.  Der Prüfling soll zeigen, dass er in der Lage ist,
 
     a)  Arbeitsaufträge zu analysieren, Informationen aus Unterlagen zu
         beschaffen, technische und organisatorische Schnittstellen zu klären,
@@ -311,7 +302,7 @@ Anmeldung zur Prüfung mit.
 (4) Für den Prüfungsbereich „Arbeitsplanung“ bestehen folgende
 Vorgaben:
 
-1.  Der Prüfling soll zeigen, dass er in der Lage ist
+1.  Der Prüfling soll zeigen, dass er in der Lage ist,
 
     a)  Problemanalysen durchzuführen,
 
@@ -347,7 +338,7 @@ Vorgaben:
 (5) Für den Prüfungsbereich „Funktionsanalyse“ bestehen folgende
 Vorgaben:
 
-1.  Der Prüfling soll zeigen, dass er in der Lage ist
+1.  Der Prüfling soll zeigen, dass er in der Lage ist,
 
     a)  Maßnahmen zur Instandhaltung oder Inbetriebnahme unter
         Berücksichtigung betrieblicher Abläufe zu planen,
@@ -476,16 +467,216 @@ das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
 gewichten.
 
 
-## § 9 Inkrafttreten, Außerkrafttreten
+## § 9 Zusatzqualifikationen
 
-Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
-die Verordnung über die Berufsausbildung zum Mechatroniker/zur
-Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
+Über das in § 3 Absatz 2 beschriebene Ausbildungsberufsbild hinaus
+kann die Ausbildung in einer oder mehreren der folgenden
+Zusatzqualifikationen vereinbart werden:
+
+1.  Digitale Vernetzung,
 
 
-## Anlage (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
+2.  Programmierung,
 
-(Fundstelle: BGBl. I 2011, 1519 - 1525)
+
+3.  IT-Sicherheit und
+
+
+4.  Additive Fertigungsverfahren.
+
+
+
+
+
+## § 10 Gegenstand der Zusatzqualifikationen
+
+(1) Gegenstand der Zusatzqualifikation Digitale Vernetzung sind die in
+Anlage 2 Abschnitt A genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) Gegenstand der Zusatzqualifikation Programmierung sind die in
+Anlage 2 Abschnitt B genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(3) Gegenstand der Zusatzqualifikation IT- Sicherheit sind die in
+Anlage 2 Abschnitt C genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(4) Gegenstand der Zusatzqualifikation Additive Fertigungsverfahren
+sind die in Anlage 2 Abschnitt D genannten Fertigkeiten, Kenntnisse
+und Fähigkeiten.
+
+
+## § 11 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+
+(1) Die Zusatzqualifikation wird auf Antrag des oder der
+Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
+gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten,
+Kenntnisse und Fähigkeiten vermittelt worden sind.
+
+(2) Die Prüfung der Zusatzqualifikation findet im Rahmen von Teil 2
+der Abschlussprüfung als gesonderte Prüfung statt.
+
+
+## § 12 Anforderungen für die Prüfung der Zusatzqualifikation Digitale Vernetzung
+
+(1) Die Prüfung der Zusatzqualifikation Digitale Vernetzung erstreckt
+sich auf die in Anlage 2 Abschnitt A genannten Fertigkeiten,
+Kenntnisse und Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  Systeme, Prozessabläufe und technische Bedingungen zu analysieren,
+    Anforderungen an Netzwerke festzustellen sowie Lösungsvarianten zu
+    erarbeiten, zu bewerten und auszuwählen,
+
+
+2.  Netzwerkkomponenten auszuwählen, zu installieren, zu konfigurieren und
+    in die bestehende Infrastruktur zu integrieren sowie Anlagendaten und
+    -unterlagen zu dokumentieren sowie
+
+
+3.  Fehler, Störungen oder Engpässe zu analysieren, den Datendurchsatz und
+    Fehlerraten zu bewerten, Fehler zu beheben, die Systeme zu testen
+    sowie Optimierungen vorzuschlagen.
+
+
+
+
+
+## § 13 Anforderungen für die Prüfung der Zusatzqualifikation Programmierung
+
+(1) Die Prüfung der Zusatzqualifikation Programmierung erstreckt sich
+auf die in Anlage 2 Abschnitt B genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  Systeme, Prozessabläufe und technische Bedingungen zu analysieren und
+    Anforderungen an Softwaremodule festzustellen,
+
+
+2.  Softwaremodule anzupassen und in die bestehenden Systeme zu
+    integrieren sowie eingesetzte Software zu dokumentieren sowie
+
+
+3.  Testpläne und Testdaten zu erstellen, Umgebungsbedingungen zu
+    simulieren, die Systeme zu testen und Fehler zu beheben.
+
+
+
+
+
+## § 14 Anforderungen für die Prüfung der Zusatzqualifikation IT-Sicherheit
+
+(1) Die Prüfung der Zusatzqualifikation IT-Sicherheit erstreckt sich
+auf die in Anlage 2 Abschnitt C genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  technische und organisatorische IT-Sicherheitsmaßnahmen aufgrund
+    gesetzlicher und betrieblicher Regelungen zu erarbeiten und
+    abzustimmen,
+
+
+2.  IT-Sicherheitsmaßnahmen umzusetzen und
+
+
+3.  die umgesetzten IT-Sicherheitsmaßnahmen zu überwachen.
+
+
+
+
+
+## § 15 Anforderungen für die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+
+(1) Die Prüfung der Zusatzqualifikation Additive Fertigungsverfahren
+erstreckt sich auf die in Anlage 2 Abschnitt D genannten Fertigkeiten,
+Kenntnisse und Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  parametrische 3D-Datensätze zu erstellen und anzuwenden,
+
+
+2.  additive Fertigungsanlagen einzurichten und zu betreiben sowie
+
+
+3.  die Qualität der Produkte zu prüfen und zu sichern.
+
+
+
+
+
+## § 16 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+
+(1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
+Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
+
+(2) Zur Vorbereitung auf das jeweilige fallbezogene Fachgespräch hat
+der Prüfling eigenständig im Ausbildungsbetrieb eine praxisbezogene
+Aufgabe durchzuführen. Die eigenständige Durchführung ist von dem oder
+der Ausbildenden zu bestätigen.
+
+(3) Zu der praxisbezogenen Aufgabe hat der Prüfling einen Report zu
+erstellen. In dem Report hat er die Aufgabenstellung, die Zielsetzung,
+die Planung, das Vorgehen und das Ergebnis der praxisbezogenen Aufgabe
+zu beschreiben und den Prozess, der zu dem Ergebnis geführt hat, zu
+reflektieren. Der Report darf höchstens drei Seiten umfassen.
+
+(4) Den Report soll der Prüfling mit einer Anlage ergänzen. Die Anlage
+besteht aus Visualisierungen zu der praxisbezogenen Aufgabe. Sie darf
+höchstens fünf Seiten umfassen.
+
+(5) Das fallbezogene Fachgespräch wird mit einer Darstellung der
+praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling
+eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu
+erstellten Report entwickelt der Prüfungsausschuss das fallbezogene
+Fachgespräch so, dass die jeweiligen Anforderungen der
+Zusatzqualifikation nachgewiesen werden können.
+
+(6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
+
+(7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen
+Fachgespräch erbringt.
+
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
+die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
+
+
+## § 17 Bestandsschutz
+
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, ist die Mechatroniker-Ausbildungsverordnung vom 21. Juli
+2011 (BGBl. I S. 1516, 1888) weiter anzuwenden.
+
+
+## § 18 Änderung bestehender Berufsausbildungsverhältnisse
+
+Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
+1\. August 2018 geltenden Fassung unter Anrechnung der bisher
+absolvierten Ausbildungszeit fortgesetzt werden, wenn die
+Vertragsparteien dies vereinbaren und der oder die Auszubildende noch
+nicht Teil 1 der Abschlussprüfung absolviert hat.
+
+
+## § 19 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+
+Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem
+1\. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1.
+August 2018 bereits bestehen, angewendet werden.
+
+(zu § 3 Absatz 1 Satz 1)
+
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Mechatroniker und zur Mechatronikerin
+
+(Fundstelle: BGBl. I 2018, 1063 – 1070)
 
 
 *    *   Lfd.
@@ -494,7 +685,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   Teil des
         Ausbildungsberufsbildes
 
-    *   Zu vermittelnde Fertigkeiten, Kenntnisse und Fähigkeiten
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
 
     *   Zeitliche Richtwerte
         in Wochen
@@ -505,7 +697,7 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
     *   2
 
-    *   3/4
+    *   3 und 4
 
 
 *    *   1
@@ -519,8 +711,7 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 *    *   1
 
-    *   Berufsbildung, Arbeits-
-        und Tarifrecht
+    *   Berufsbildung, Arbeits- und Tarifrecht
         (§ 3 Absatz 2 Nummer 1)
 
     *
@@ -537,17 +728,13 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während
-        der gesamten
-        Ausbildung
-        zu vermitteln
-
+    *
 
 *    *   2
 
@@ -555,31 +742,30 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
         (§ 3 Absatz 2 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassung- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und
-        Gesundheitsschutz
-        bei der Arbeit
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
         (§ 3 Absatz 2 Nummer 3)
 
     *
@@ -600,6 +786,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
 
+
+    *   während
+        der gesamten
+        Ausbildung
 
 
 *    *   4
@@ -628,86 +818,147 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
 
+    *
 
 *    *   5
 
-    *   Betriebliche und
-        technische
-        Kommunikation
+    *   Digitalisierung der Arbeit, Datenschutz und
+        Informationssicherheit
         (§ 3 Absatz 2 Nummer 5)
 
     *
-        a)  Informationen beschaffen und bewerten
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
 
 
-        b)  Gespräche mit Vorgesetzten und Mitarbeitern und im Team
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
+
+*    *   6
+
+    *   Betriebliche und technische Kommunikation
+        (§ 3 Absatz 2 Nummer 6)
+
+    *
+        a)  Gespräche mit Vorgesetzten und Mitarbeitern und im Team
             situationsgerecht führen, Sachverhalte darstellen, deutsche und
             englische Fachausdrücke anwenden
 
 
-        c)  Möglichkeiten zur Konfliktregelung anwenden
+        b)  Möglichkeiten zur Konfliktregelung anwenden
 
 
-        d)  EDV-Anlagen handhaben, insbesondere Software einsetzen,
+        c)  IT-Systeme handhaben, insbesondere Software einsetzen,
             Peripheriegeräte anschließen und nutzen
 
 
-        e)  Daten schützen und sichern
-
-
-        f)  Protokolle und Berichte anfertigen, Standardsoftware anwenden
+        d)  Protokolle und Berichte anfertigen
 
 
 
 
-    *[^f775582_02_BJNR151600011BJNE001100000]
-   4
+    *   4\*
 
     *
     *
     *
 
 *    *
-        g)  Teil-, Gruppen- und Gesamtzeichnungen lesen und anwenden
+    *
+    *
+        e)  Teil-, Gruppen- und Gesamtzeichnungen lesen und anwenden
 
 
-        h)  Schaltungsunterlagen von Baugruppen und Geräten der Fluidik lesen und
+        f)  Schaltungsunterlagen von Baugruppen und Geräten der Fluidik lesen und
             anwenden
 
 
-        i)  elektrische Pläne, Block-, Funktions-, Aufbau- und Anschlusspläne
+        g)  elektrische Pläne, Block-, Funktions-, Aufbau- und Anschlusspläne
             lesen und anwenden
 
 
-        j)  Skizzen und Stücklisten anfertigen
+        h)  Skizzen und Stücklisten anfertigen
 
 
 
 
-    *   3
-
-    *
-    *
-    *
-
-*    *
-        k)  technische Pläne von Baugruppen, Maschinen und Anlagen aktualisieren
-
-
-        l)  technische Regelwerke, Betriebsanleitungen, Arbeitsanweisungen und
-            sonstige technische Informationen, auch in englisch anwenden
-
-
-
+    *[^F803242_04_BJNR151600011BJNE001102360]
+   3
 
     *
-    *   3
-
     *
     *
 
 *    *
-        m)  Präsentationstechniken anwenden
+    *
+    *
+        i)  technische Pläne von Baugruppen, Maschinen und Anlagen aktualisieren
+
+
+        j)  technische Regelwerke, Betriebsanleitungen, Arbeitsanweisungen und
+            sonstige technische Informationen, auch in Englisch, anwenden
+
+
+        k)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+            erarbeiten und Gesprächsergebnisse schriftlich fixieren
+
+
+
+
+    *
+    *   3\*
+
+    *
+    *
+
+*    *
+    *
+    *
+        l)  Präsentationstechniken anwenden
+
+
+        m)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
 
 
         n)  Produkte und Arbeitsergebnisse bei Übergabe erläutern und in die
@@ -721,25 +972,26 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
     *
     *
-    *   3
+    *[^F803242_03_BJNR151600011BJNE001102360]
+   3
 
     *
 
-*    *   6
+*    *   7
 
-    *   Planen und Steuern
-        von Arbeitsabläufen, Kontrollieren und
-        Beurteilen der
-        Arbeitsergebnisse
-        (§ 3 Absatz 2 Nummer 6)
+    *   Planen und Steuern von Arbeitsabläufen, Kontrollieren und Beurteilen
+        der Arbeitsergebnisse
+        (§ 3 Absatz 2 Nummer 7)
 
     *
         a)  Arbeitsschritte nach funktionalen, fertigungstechnischen und
             wirtschaftlichen Kriterien festlegen
 
 
-        b)  Arbeitsabläufe nach organisatorischen und informatorischen Kriterien
-            festlegen und sicherstellen
+        b)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben, betriebliche Prozesse als
+            auch vor- und nachgelagerte Bereiche berücksichtigen sowie bei
+            Abweichungen von der Planung Prioritäten setzen
 
 
         c)  Arbeit im Team planen, Aufgaben verteilen
@@ -748,8 +1000,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
         d)  Arbeitsplatz planen und einrichten
 
 
-        e)  Material, Werkzeuge und Hilfsmittel auftragsbezogen anfordern und
-            bereitstellen
+        e)  Werkzeuge, Geräte und Diagnosesysteme sowie Material und Hilfsmittel
+            auftragsbezogen anfordern und bereitstellen
 
 
         f)  Bearbeitungsmaschinen für den Arbeitsprozess vorbereiten
@@ -757,13 +1009,15 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
 
-    *   5
+    *   5\*
 
     *
     *
     *
 
 *    *
+    *
+    *
         g)  Werkzeuge, Bearbeitungsmaschinen, Prüf- und Messmittel sowie
             technische Einrichtungen betriebsbereit machen, überprüfen, warten
             sowie Maßnahmen zur Fehlerbeseitigung einleiten
@@ -777,18 +1031,22 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
             dokumentieren
 
 
+        j)  Qualifikationsdefizite feststellen, Qualifikationsmöglichkeiten nutzen
+            sowie unterschiedliche Lerntechniken anwenden
+
+
 
 
     *
-    *   3
+    *   3\*
 
     *
     *
 
-*    *   7
+*    *   8
 
     *   Qualitätsmanagement
-        (§ 3 Absatz 2 Nummer 7)
+        (§ 3 Absatz 2 Nummer 8)
 
     *   Normen und Spezifikationen zur Qualitätssicherheit der Produkte
         beachten sowie Qualität bei der Auftragserledigung unter Beachtung
@@ -811,19 +1069,23 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
             Arbeitsbereich beitragen
 
 
+        e)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *
     *
     *
-    *   5
+    *   5\*
 
 
-*    *   8
+*    *   9
 
-    *   Prüfen, Anreißen und
-        Kennzeichnen
-        (§ 3 Absatz 2 Nummer 8)
+    *   Prüfen, Anreißen und Kennzeichnen
+        (§ 3 Absatz 2 Nummer 9)
 
     *
         a)  Messzeuge zum Messen und Prüfen von Längen, Winkeln und Flächen
@@ -849,17 +1111,17 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
 
-    *   3
+    *[^F803242_05_BJNR151600011BJNE001102360]
+   3
 
     *
     *
     *
 
-*    *   9
+*    *   10
 
-    *   Manuelles und
-        maschinelles Spanen, Trennen und Umformen
-        (§ 3 Absatz 2 Nummer 9)
+    *   Manuelles und maschinelles Spanen, Trennen und Umformen
+        (§ 3 Absatz 2 Nummer 10)
 
     *
         a)  Bleche, Platten und Profile aus Metall und Kunststoff nach Anriss
@@ -897,10 +1159,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
     *
 
-*    *   10
+*    *   11
 
     *   Fügen
-        (§ 3 Absatz 2 Nummer 10)
+        (§ 3 Absatz 2 Nummer 11)
 
     *
         a)  Schraubverbindungen unter Beachtung der Teilefolge und des
@@ -924,11 +1186,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
     *
 
-*    *   11
+*    *   12
 
-    *   Installieren elektrischer Baugruppen und
-        Komponenten
-        (§ 3 Absatz 2 Nummer 11)
+    *   Installieren elektrischer Baugruppen und Komponenten
+        (§ 3 Absatz 2 Nummer 12)
 
     *
         a)  Einschübe, Gehäuse und Schaltgerätekombinationen zusammenbauen
@@ -976,11 +1237,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
     *
 
-*    *   12
+*    *   13
 
-    *   Messen und Prüfen
-        elektrischer Größen
-        (§ 3 Absatz 2 Nummer 12)
+    *   Messen und Prüfen elektrischer Größen
+        (§ 3 Absatz 2 Nummer 13)
 
     *
         a)  Verfahren und Messgeräte auswählen, Messfehler abschätzen und
@@ -992,7 +1252,7 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
         c)  Messreihen und Kennlinien, insbesondere von spannungs-, temperatur-
-            und lichtabhängigen Widerständen aufnehmen, darstellen und auswerten
+            und lichtabhängigen Widerständen, aufnehmen, darstellen und auswerten
 
 
         d)  analoge und digitale Signale, insbesondere Signalzeitverhalten, messen
@@ -1013,11 +1273,11 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
     *
 
-*    *   13
+*    *   14
 
-    *   Installieren und
-        Testen von Hard- und Softwarekomponenten
-        (§ 3 Absatz 2 Nummer 13)
+    *   Installieren und Testen
+        von Hard- und Softwarekomponenten
+        (§ 3 Absatz 2 Nummer 14)
 
     *
         a)  Hard- und Softwareschnittstellen, Kompatibilität von
@@ -1039,6 +1299,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         d)  Netzwerke und Bussysteme installieren und konfigurieren
 
 
@@ -1055,6 +1317,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         f)  Versionswechsel von Software durchführen
 
 
@@ -1069,11 +1333,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   4
 
 
-*    *   14
+*    *   15
 
-    *   Aufbauen und Prüfen
-        von Steuerungen
-        (§ 3 Absatz 2 Nummer 14)
+    *   Aufbauen und Prüfen von Steuerungen
+        (§ 3 Absatz 2 Nummer 15)
 
     *
         a)  elektrische und fluidische Schaltungen aufbauen und verbinden
@@ -1095,8 +1358,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         d)  Aufgabenstellung, insbesondere Bewegungsabläufe und Wechselwirkung an
-            Schnittstellen des zu steuernden Systems analysieren
+            Schnittstellen des zu steuernden Systems, analysieren
 
 
         e)  Steuerungskonzepte zuordnen und Steuerungseinrichtungen auswählen
@@ -1121,11 +1386,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
     *
 
-*    *   15
+*    *   16
 
-    *   Programmieren
-        mechatronischer Systeme
-        (§ 3 Absatz 2 Nummer 15)
+    *   Programmieren mechatronischer Systeme
+        (§ 3 Absatz 2 Nummer 16)
 
     *
         a)  Steuerungen in unterschiedlichen Realisierungsformen beurteilen
@@ -1147,6 +1411,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         d)  Programmablauf in mechatronischen Systemen überwachen, Fehler
             feststellen und beheben
 
@@ -1159,12 +1425,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   4
 
 
-*    *   16
+*    *   17
 
-    *   Zusammenbauen von Baugruppen und
-        Komponenten zu
-        Maschinen und Systemen
-        (§ 3 Absatz 2 Nummer 16)
+    *   Zusammenbauen von Baugruppen und Komponenten zu Maschinen und Systemen
+        (§ 3 Absatz 2 Nummer 17)
 
     *
         a)  Baugruppen und Komponenten identifizieren sowie auf fehlerfreie
@@ -1193,6 +1457,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         f)  Baugruppen und Komponenten passen sowie funktionsgerecht ausrichten
             und Lage sichern
 
@@ -1225,12 +1491,11 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   14
 
 
-*    *   17
+*    *   18
 
-    *   Montieren und
-        Demontieren von
-        Maschinen, Systemen und Anlagen; Transportieren und Sichern
-        (§ 3 Absatz 2 Nummer 17)
+    *   Montieren und Demontieren von Maschinen, Systemen und Anlagen;
+        Transportieren und Sichern
+        (§ 3 Absatz 2 Nummer 18)
 
     *
         a)  Rohre, Installationskanäle und Kabelbühnen montieren
@@ -1259,6 +1524,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         e)  Beschaffenheit des Aufstellungsortes für die Befestigung prüfen
 
 
@@ -1270,7 +1537,7 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
             Zusatzfestlegungen für Räume besonderer Art beurteilen
 
 
-        h)  Schutzmaßnahmen festlegen, Potenzialausgleich durchführen
+        h)  Schutzmaßnahmen festlegen, Potentialausgleich durchführen
 
 
         i)  Leitern, Gerüste und Montagebühnen unter arbeits- und
@@ -1289,13 +1556,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   12
 
 
-*    *   18
+*    *   19
 
-    *   Prüfen und Einstellen
-        von Funktionen an
-        mechatronischen
-        Systemen
-        (§ 3 Absatz 2 Nummer 18)
+    *   Prüfen und Einstellen von Funktionen an mechatronischen Systemen
+        (§ 3 Absatz 2 Nummer 19)
 
     *
         a)  Mess- und Prüfverfahren sowie Diagnosesysteme auswählen, elektrische
@@ -1323,6 +1587,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         e)  Aktoren nach sicherheitstechnischen Gesichtspunkten beurteilen und
             einstellen
 
@@ -1360,19 +1626,17 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   12
 
 
-*    *   19
+*    *   20
 
-    *   Inbetriebnehmen
-        und Bedienen
-        mechatronischer Systeme
-        (§ 3 Absatz 2 Nummer 19)
+    *   Inbetriebnehmen und Bedienen mechatronischer Systeme
+        (§ 3 Absatz 2 Nummer 20)
 
     *
         a)  Schutz gegen direktes Berühren prüfen
 
 
         b)  Wirksamkeit von Schutzmaßnahmen, insbesondere
-            Fehlerstromschutzeinrichtungen prüfen, Isolations-, Erdungs- und
+            Fehlerstromschutzeinrichtungen, prüfen, Isolations-, Erdungs- und
             Schleifenwiderstände messen
 
 
@@ -1389,6 +1653,8 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *
 
 *    *
+    *
+    *
         d)  Hilfs- und Steuerstromkreise einschließlich zugehöriger Signal- und
             Befehlsgeber für Mess-, Steuer- und Überwachungseinrichtungen prüfen
             und in Betrieb nehmen
@@ -1413,7 +1679,7 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
             anpassen
 
 
-        j)  Signalübertragungssysteme, insbesondere Feldbusse prüfen und in
+        j)  Signalübertragungssysteme, insbesondere Feldbusse, prüfen und in
             Betrieb nehmen
 
 
@@ -1439,11 +1705,10 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
     *   14
 
 
-*    *   20
+*    *   21
 
-    *   Instandhalten
-        mechatronischer Systeme
-        (§ 3 Absatz 2 Nummer 20)
+    *   Instandhalten mechatronischer Systeme
+        (§ 3 Absatz 2 Nummer 21)
 
     *
         a)  mechatronische Systeme inspizieren, Funktionen von
@@ -1489,5 +1754,412 @@ Mechatronikerin vom 4. März 1998 (BGBl. I S. 408) außer Kraft.
 
 
     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
-    Ausbildungsinhalte zu vermitteln.
-[^f775582_02_BJNR151600011BJNE001100000]: 
+    Ausbildungsinhalten zu vermitteln.
+[^F803242_03_BJNR151600011BJNE001102360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+    Ausbildungsinhalten zu vermitteln.
+[^F803242_04_BJNR151600011BJNE001102360]:     Im Zusammenhang mit anderen im Ausbildungsrahmenplan aufgeführten
+    Ausbildungsinhalten zu vermitteln.
+[^F803242_05_BJNR151600011BJNE001102360]: 
+(zu § 10)
+
+## Anlage 2 Ausbildungsrahmenplan für die Zusatzqualifikationen
+
+(Fundstelle: BGBl. I 2018, 1071 – 1073)
+
+**Abschnitt A: Zusatzqualifikation Digitale Vernetzung**
+
+
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Analysieren von technischen Aufträgen und Entwickeln von Lösungen
+
+    *
+        a)  Kundenanforderungen hinsichtlich der geforderten Funktion und der
+            technischen Umgebung analysieren
+
+
+        b)  Ausgangszustand der Systeme analysieren, insbesondere Dokumentationen
+            auswerten sowie Netztopologien, eingesetzte Software und technische
+            Schnittstellen klären und dokumentieren
+
+
+        c)  technische Prozesse und Umgebungsbedingungen analysieren und
+            Anforderungen an Netzwerke feststellen
+
+
+        d)  Lösungen unter Berücksichtigung von Spezifikationen, technischen
+            Bestimmungen und rechtlichen Vorgaben planen und ausarbeiten,
+            Netzwerkkomponenten auswählen, technische Unterlagen erstellen und
+            Kosten kalkulieren
+
+
+        e)  die Lösung zur Vernetzung und zu Änderungen am System mit dem Kunden
+            abstimmen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Errichten, Ändern und Prüfen von vernetzten Systemen
+
+    *
+        a)  Netzwerkkomponenten und Netzwerkbetriebssysteme installieren, anpassen
+            und konfigurieren und Vorgaben für eine sichere Konfiguration beachten
+
+
+        b)  Datenaustausch zwischen IT-Systemen und Automatisierungssystemen
+            beachten
+
+
+        c)  Zugangsberechtigungen einrichten
+
+
+        d)  Sicherheitssysteme, insbesondere Firewall-, Verschlüsselungs- und
+            Datensicherungssysteme, berücksichtigen
+
+
+        e)  Funktionen kontrollieren, Fehler beseitigen, Systeme in Betrieb nehmen
+            und übergeben und Änderungen dokumentieren
+
+
+
+
+
+*    *   3
+
+    *   Betreiben von vernetzten Systemen
+
+    *
+        a)  Fehlermeldungen aufnehmen, Anlagen inspizieren, Abweichungen vom
+            Sollzustand feststellen, Datendurchsatz und Fehlerrate bewerten und
+            Sofortmaßnahmen zur Aufrechterhaltung von vernetzten Systemen
+            einleiten
+
+
+        b)  Anlagenstörungen analysieren, Testsoftware und Diagnosesysteme
+            einsetzen und Instandsetzungsmaßnahmen einleiten
+
+
+        c)  Systemdaten, Diagnosedaten und Prozessdaten auswerten und
+            Optimierungen vorschlagen
+
+
+        d)  Instandhaltungsprotokolle auswerten und Schwachstellen analysieren und
+            erfassen
+
+
+
+
+
+
+**Abschnitt B: Zusatzqualifikation Programmierung**
+
+
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Analysieren von technischen Aufträgen und Entwickeln von Lösungen
+
+    *
+        a)  Kundenanforderungen hinsichtlich der geforderten Funktionen
+            analysieren
+
+
+        b)  Prozesse, Schnittstellen und Umgebungsbedingungen sowie
+            Ausgangszustand der Systeme analysieren, Anforderungen an
+            Softwaremodule feststellen und dokumentieren
+
+
+        c)  Änderungen der Systeme und Softwarelösungen unter Anwendung von
+            Design-Methoden planen und abstimmen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Anpassen von Softwaremodulen
+
+    *
+        a)  Softwaremodule anpassen und dokumentieren
+
+
+        b)  angepasste Softwaremodule in Systeme integrieren
+
+
+
+
+
+*    *   3
+
+    *   Testen von Softwaremodulen im System
+
+    *
+        a)  Testplan entsprechend dem betrieblichen Test- und Freigabeverfahren
+            entwerfen, insbesondere Abläufe sowie Norm- und Grenzwerte von
+            Betriebsparametern festlegen, und Testdaten generieren
+
+
+        b)  technische Umgebungsbedingungen simulieren
+
+
+        c)  Softwaremodule testen
+
+
+        d)  Systemtests durchführen und Komponenten im System mit den
+            Betriebsparametern unter Umgebungsbedingungen testen
+
+
+        e)  Störungen analysieren und systematische Fehlersuche in Systemen
+            durchführen
+
+
+        f)  Systemkonfiguration, Qualitätskontrollen und Testläufe dokumentieren
+
+
+        g)  Änderungsdokumentation erstellen
+
+
+
+
+
+
+**Abschnitt C: Zusatzqualifikation IT-Sicherheit**
+
+
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Entwickeln von Sicherheitsmaßnahmen
+
+    *
+        a)  Sicherheitsanforderungen und Funktionalitäten von industriellen
+            Kommunikationssystemen und Steuerungen analysieren
+
+
+        b)  Schutzbedarf bezüglich Vertraulichkeit, Integrität, Verfügbarkeit und
+            Authentizität bewerten
+
+
+        c)  Gefährdungen und Risiken beurteilen
+
+
+        d)  Sicherheitsmaßnahmen erarbeiten und abstimmen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Umsetzen von Sicherheitsmaßnahmen
+
+    *
+        a)  technische Sicherheitsmaßnahmen in Systeme integrieren
+
+
+        b)  IT-Nutzer und IT-Nutzerinnen über Arbeitsabläufe und organisatorische
+            Vorgaben informieren
+
+
+        c)  Dokumentation entsprechend den betrieblichen und rechtlichen Vorgaben
+            erstellen
+
+
+
+
+
+*    *   3
+
+    *   Überwachen der Sicherheitsmaßnahmen
+
+    *
+        a)  Wirksamkeit und Effizienz der umgesetzten Sicherheitsmaßnahmen prüfen
+
+
+        b)  Werkzeuge zur Systemüberwachung einsetzen
+
+
+        c)  Protokolldateien, insbesondere zu Zugriffen, Aktionen und Fehlern,
+            kontrollieren und auswerten
+
+
+        d)  sicherheitsrelevante Zwischenfälle melden
+
+
+
+
+
+
+**Abschnitt D: Zusatzqualifikation Additive Fertigungsverfahren**
+
+
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche Richtwerte
+        in Wochen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+
+*    *   1
+
+    *   Modellieren von Bauteilen
+
+    *
+        a)  Bauteile durch Programme zum computergestützten Konstruieren (CAD)
+            erstellen
+
+
+        b)  für digitale 3D-Modelle parametrische Datensätze entwickeln
+
+
+        c)  Gestaltungsprinzipien zur additiven Fertigung einhalten und
+            Gestaltungsmöglichkeiten nutzen
+
+
+
+
+    *   8
+
+
+*    *   2
+
+    *   Vorbereiten von additiver Fertigung
+
+    *
+        a)  Verfahren zur additiven Fertigung auswählen
+
+
+        b)  3D-Datensätze konvertieren und für das Verfahren anpassen
+
+
+        c)  verfahrensspezifische Produktionsabläufe planen
+
+
+        d)  Maschine zur Herstellung einrichten
+
+
+
+
+
+*    *   3
+
+    *   Additives Fertigen von
+        Produkten
+
+    *
+        a)  additive Fertigungsverfahren anwenden und Probebauteile erstellen und
+            bewerten
+
+
+        b)  Prozessparameter anpassen und optimieren
+
+
+        c)  Prozesse kontrollieren, überwachen und protokollieren und Maßnahmen
+            der Qualitätssicherung durchführen
+
+
+        d)  Fehler- und Mängelbeseitigung veranlassen sowie Maßnahmen
+            dokumentieren
+
+
+        e)  Daten des Konfigurations- und Änderungsmanagements pflegen und
+            technische Dokumentationen sichern
+
+
+        f)  verfahrensspezifische Vorschriften zur Arbeitssicherheit und zum
+            Umweltschutz einhalten
+
+
+
+
+
+

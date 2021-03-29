@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3534
 
+V aufgeh. durch
+:   Art. 4 Abs. 89 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 116 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 75 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
+
 
 ## Eingangsformel
 
@@ -30,30 +39,31 @@ Finanzen:
 ## § 1 Erhebung von Gebühren
 
 (1) Die Bundesanstalt für Landwirtschaft und Ernährung erhebt
-gegenüber den Klassifizierungsunternehmen für Amtshandlungen nach den
-§§ 3 und 6 Absatz 1 und 3 des Fleischgesetzes Gebühren nach dieser
-Verordnung.
+gegenüber den Klassifizierungsunternehmen für individuell zurechenbare
+öffentliche Leistungen nach den §§ 3 und 6 Absatz 1 und 3 des
+Fleischgesetzes Gebühren nach dieser Verordnung.
 
-(2) Die gebührenpflichtigen Amtshandlungen und die Gebührensätze
-ergeben sich aus dem Gebührenverzeichnis der Anlage zu dieser
-Verordnung.
+(2) Die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebührensätze ergeben sich aus dem
+Gebührenverzeichnis der Anlage zu dieser Verordnung.
 
 
 ## § 2 Übergangsregelung
 
-Für Amtshandlungen, die vor dem Inkrafttreten dieser Verordnung
-vorgenommen worden sind, können Gebühren nach Maßgabe des § 1 Absatz 2
-erhoben werden, soweit sich die Bundesanstalt für Landwirtschaft und
-Ernährung die Erhebung der Gebühren in einem unanfechtbaren Bescheid
-vorbehalten hat.
+Für individuell zurechenbare öffentliche Leistungen, die vor dem
+Inkrafttreten dieser Verordnung vorgenommen worden sind, können
+Gebühren nach Maßgabe des § 1 Absatz 2 erhoben werden, soweit sich die
+Bundesanstalt für Landwirtschaft und Ernährung die Erhebung der
+Gebühren in einem unanfechtbaren Bescheid vorbehalten hat.
 
 
 ## § 3 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1 Absatz 2)
 
-## Anlage (zu § 1 Absatz 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2009, 3534)
 

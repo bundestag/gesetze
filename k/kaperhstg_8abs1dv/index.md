@@ -92,8 +92,8 @@ in Verwahrung genommen worden sind.
 
 (1) Legt der Arbeitnehmer die Bescheinigung nach § 3 Abs. 3 nicht
 fristgemäß vor, so hat der Arbeitgeber dies dem Wohnsitzfinanzamt (
-§ 73a Abs. 2 der Reichsabgabenordnung)              des Arbeitnehmers
-innerhalb eines Monats anzuzeigen.
+§ 73a Abs. 2 der Reichsabgabenordnung) des Arbeitnehmers innerhalb
+eines Monats anzuzeigen.
 
 (2) Werden, außer im Fall des Todes des Arbeitnehmers oder seines
 Ehegatten, vor Ablauf der Sperrfrist Aktien veräußert oder aus der

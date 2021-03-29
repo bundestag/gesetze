@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 783
 
+Geändert durch
+:   Art. 21 G v. 25.7.2013 I 2749
+
 
 
 ## Eingangsformel
@@ -38,7 +41,7 @@ mit Zustimmung des Bundesrates verordnet:
 nach § 19 Abs. 1 Nr. 1 oder, im nichtgewerblichen Bereich, die nach §
 28 Satz 1 in Verbindung mit § 19 Abs. 1 Nr. 1 des Sprengstoffgesetzes
 verantwortliche Person dies der zuständigen Behörde schriftlich in
-doppelter Ausfertigung anzuzeigen, und zwar
+doppelter Ausfertigung oder elektronisch anzuzeigen, und zwar
 
 1.  mindestens vier Wochen vor Beginn der Sprengungen, wenn mehrere
     gleichartige Sprengungen innerhalb einer Betriebsstätte oder zur
@@ -117,12 +120,12 @@ Einrichtungen der öffentlichen Versorgung angegeben ist.
 Sind nach Erstattung der Anzeige Veränderungen gegenüber dem Inhalt
 der Anzeige oder der Unterlagen eingetreten oder vorgesehen worden,
 hat der nach § 1 Abs. 1 Anzeigepflichtige dies der zuständigen Behörde
-unverzüglich schriftlich in doppelter Ausfertigung anzuzeigen. Ist mit
-einer Veränderung eine erhöhte Gefahr verbunden, so dürfen die für die
-Sprengung verantwortlichen Personen erst eine Woche nach Erstattung
-der Änderungsanzeige, im Falle des § 1 Abs. 1 Nr. 1 jedoch nicht vor
-Ablauf von vier Wochen nach Erstattung der Anzeige unter den
-geänderten Umständen sprengen.
+unverzüglich schriftlich in doppelter Ausfertigung oder elektronisch
+anzuzeigen. Ist mit einer Veränderung eine erhöhte Gefahr verbunden,
+so dürfen die für die Sprengung verantwortlichen Personen erst eine
+Woche nach Erstattung der Änderungsanzeige, im Falle des § 1 Abs. 1
+Nr. 1 jedoch nicht vor Ablauf von vier Wochen nach Erstattung der
+Anzeige unter den geänderten Umständen sprengen.
 
 
 ## § 3 Ausnahmen von der Anzeigepflicht

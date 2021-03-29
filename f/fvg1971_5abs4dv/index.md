@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3405
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 19 G v. 22.9.2005 I 2809
+:   Art. 5 G v. 21.12.2015 I 2531
 
 
 ## Eingangsformel
@@ -48,7 +48,12 @@ Bund übermittelte länderweise Aufstellung über die aufgrund im
 abgelaufenen Quartal gestellter Anträge zu gewährenden
 Steuervergütungen. Dabei sind Rückflüsse des vergangenen Quartals aus
 Rückzahlungsbeträgen abzusetzen. Bei der Zuordnung nach Ländern ist
-auf den Wohnsitz des Gläubigers der Steuervergütung abzustellen.
+bei Gläubigern der Steuervergütung mit inländischem Wohnsitz auf den
+Wohnsitz abzustellen; bei Gläubigern mit ausländischem Wohnsitz wird
+der letzte bekannte inländische Wohnsitz zugrunde gelegt. Die sich aus
+Satz 3 ergebenden Finanzierungsanteile gelten auch, wenn der Wohnsitz
+des Gläubigers der Steuervergütung nicht nach Satz 3 zugeordnet werden
+kann.
 
 (2) Das Bundeszentralamt für Steuern leitet den obersten
 Finanzbehörden der Länder jeweils bis zum 10. des zweiten, dem Quartal

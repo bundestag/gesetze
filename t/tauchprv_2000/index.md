@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 165
 
+Geändert durch
+:   Art. 2 V v. 1.3.2016 I 336
+
 
 
 ## Eingangsformel
@@ -35,6 +38,7 @@ und Wohnungswesen:
 ## § 1 Anwendungsbereich
 
 (1) Zur Vorbereitung auf die Taucherprüfung kann die zuständige Stelle
+bei nach Art und Einrichtung geeigneten Taucherbetrieben
 Fortbildungsgänge nach § 4 durchführen oder durchführen lassen.
 
 (2) Zum Nachweis von Kenntnissen, Fertigkeiten und Erfahrungen, die
@@ -125,13 +129,15 @@ und eine betriebliche Fortbildung.
 Unterrichtsstunden. In ihm werden die in der Anlage 3 beschriebenen
 Kenntnisse und Fertigkeiten vermittelt.
 
-(3) Die betriebliche Fortbildung erfolgt in Tauchbetrieben. Mit der
-Durchführung der Fortbildung ist ein festangestellter
-Tauchermeister/eine festangestellte Tauchermeisterin zu beauftragen,
-der/die die Prüfung Tauchermeister/Tauchermeisterin auf Grund einer
-Rechtsvorschrift nach § 46 Abs. 1 Berufsbildungsgesetz bestanden hat.
-Die Fortbildung umfasst mindestens 200 Tauchstunden. Es sind die in
-der Anlage 4 beschriebenen Kenntnisse und Fertigkeiten zu vermittlen.
+(3) Die betriebliche Fortbildung erfolgt in Tauchbetrieben. Die
+Tauchbetriebe haben die für Taucherarbeiten jeweils geltenden
+Unfallverhütungsvorschriften zu erfüllen. Mit der Durchführung der
+Fortbildung ist ein festangestellter Tauchermeister/eine
+festangestellte Tauchermeisterin zu beauftragen, der/die die Prüfung
+Tauchermeister/Tauchermeisterin auf Grund einer Rechtsvorschrift nach
+§ 46 Abs. 1 Berufsbildungsgesetz bestanden hat. Die Fortbildung
+umfasst mindestens 200 Tauchstunden. Es sind die in der Anlage 2
+beschriebenen Kenntnisse und Fertigkeiten zu vermitteln.
 
 (4) Über die regelmäßige Teilnahme am Fortbildungsgang ist eine
 Bescheinigung auszustellen.
@@ -329,20 +335,14 @@ nicht überschreiten und mindestens eine Zeitstunde je Handlungsbereich
 betragen.
 
 
-## § 8 Anrechnung anderer Leistungen
+## § 8 Befreiung von einzelnen Prüfungsbestandteilen
 
-(1) Von der Ablegung einzelner Prüfungsleistungen kann der
-Prüfungsteilnehmer auf Antrag von der zuständigen Stelle freigestellt
-werden, wenn er vor einer zuständigen Stelle, einer öffentlichen oder
-staatlich anerkannten Bildungseinrichtung oder vor einem staatlichen
-Prüfungsausschuss eine Prüfung in den letzten fünf Jahren vor
-Antragstellung bestanden hat, deren Inhalt den Anforderungen des
-jeweiligen Prüfungs- bzw. Handlungsbereichs nach dieser Verordnung
-entsprach. Eine vollständige Freistellung ist nicht zulässig.
+(1) Für die Befreiung von einzelnen Prüfungsbestandteilen ist § 56
+Absatz 2 des Berufsbildungsgesetzes entsprechend anzuwenden.
 
 (2) Auf den Fortbildungsgang werden bei öffentlichen Institutionen
 innerhalb der letzten fünf Jahre absolvierte Bildungsmaßnahmen
-angerechnet, die den Anforderungen der Anlagen 3 und 4 dieser
+angerechnet, die den Anforderungen der Anlagen 2 und 3 dieser
 Verordnung entsprechen.
 
 
@@ -355,11 +355,22 @@ und mündlichen Prüfungsleistungen in einem Prüfungsbereich sind zu
 einer Note zusammenzufassen. Dabei haben die schriftlichen und
 mündlichen Leistungen das gleiche Gewicht.
 
-(2) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Falle der
-Freistellung gemäß § 8 sind anstatt der Note Ort, Datum und
-Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
-anzugeben.
+(2) Der Erwerb des Fortbildungsabschlusses ist im Format 85,60 mm x
+53,98 mm zu bescheinigen. Die Bescheinigung enthält mindestens:
+
+1.  Vor- und Familiennamen, Geburtsdatum und Passbild des
+    Prüfungsteilnehmers oder der Prüfungsteilnehmerin,
+
+
+2.  Datum der Prüfung, Bezeichnung der zuständigen Stelle sowie
+    Unterschriften des Prüfungsausschusses.
+
+
+
+Ist die Prüfung bestanden, stellt die zuständige Stelle auch ein
+Zeugnis nach der Anlage 1 aus. Im Falle der Freistellung gemäß § 8
+sind anstatt der Note Ort, Datum und Bezeichnung des Prüfungsgremiums
+der anderweitig abgelegten Prüfung anzugeben.
 
 
 ## § 10 Wiederholung der Prüfung
@@ -400,36 +411,10 @@ Juni 2000 in Kraft.
 (2) § 4 Abs. 3 Satz 2 tritt am 1. Januar 2003 in Kraft.
 
 
-## Anlage 1 (zu § 9 Abs 2)
+## Anlage 1 (zu § 9 Abs. 2)
 
-(Fundstelle: BGBl. I 2000, 168)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Taucher/Geprüfte Taucherin"
-Herr/Frau
-.....................................................................
-geboren am ........................ in
-........................................
-hat am ............................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Taucher/Geprüfte Taucherin
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter Taucher/Geprüfte Taucherin" vom 25. Februar 2000 (BGBl. I
-S. 165)
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 9 Abs. 2)
-
-(Fundstelle: BGBl. I 2000, 169)
+(Fundstelle: BGBl. I 2000, 169; bzgl. der einzelnen Änderungen vgl.
+Fußnote)
 Muster
 ......................................................................
 .........
@@ -464,6 +449,173 @@ Prüfungs-/Handlungsbereich ............... freigestellt.")
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
+
+
+## Anlage 2 (zu § 4 Abs. 3)
+
+
+*    *   (Fundstelle des Originaltextes: BGBl. I 2000, 171; bzgl. der einzelnen
+        Änderungen vgl. Fußnote)
+
+
+*    *   Dauer und Inhalt der betrieblichen Fortbildung
+
+
+*    *   1.
+
+    *   Durchführung von Arbeiten mit autonomen und schlauchversorgten
+        Tauchgeräten mindestens 200 Taucherstunden (davon mindesten 20 Stunden
+        mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät)
+
+
+*    *   2.
+
+    *   Vermittlung von Kenntnissen in
+
+
+*    *
+    *   2.1
+
+    *   Tauchgerätekunde (marktorientiert)
+
+
+*    *
+    *   2.2
+
+    *   Arbeitsgerätekunde (hydraulisch, pneumatisch, elektrisch)
+
+
+*    *
+    *   2.3
+
+    *   Wartungs-Inspektionskunde
+
+
+*    *
+    *   2.4
+
+    *   Seemannschaft
+
+
+*    *   3.
+
+    *   Vermittlung von Fertigkeiten bei Unterwasserarbeiten in verschiedenen
+        Tiefen, z.B.
+
+
+*    *
+    *   3.1
+
+    *   Schweißen, Schneiden
+
+
+*    *
+    *   3.2
+
+    *   Betonieren
+
+
+*    *
+    *   3.3
+
+    *   Schalungsarbeiten
+
+
+*    *
+    *   3.4
+
+    *   Spülarbeiten
+
+
+*    *
+    *   3.5
+
+    *   Messen, Durchführen von Video-, Foto- und Ultraschallaufnahmen
+
+
+*    *
+    *   3.6
+
+    *   Hebearbeiten
+
+
+*    *
+    *   3.7
+
+    *   Montieren
+
+
+*    *
+    *   3.8
+
+    *   Suchen
+
+
+*    *
+    *   3.9
+
+    *   Abdichten
+
+
+*    *
+    *   3.10
+
+    *   Konservieren und Reinigen
+
+
+*    *   4.
+
+    *   Arbeiten unter erschwerten Bedingungen, z.B.
+
+
+*    *
+    *   4.1
+
+    *   Arbeiten bei Strömung
+
+
+*    *
+    *   4.2
+
+    *   "Schwarzem Wasser"
+
+
+*    *
+    *   4.3
+
+    *   Nachttauchen
+
+
+*    *   5.
+
+    *   Durchführung von Notfallmaßnahmen, z.B.
+
+
+*    *
+    *   5.1
+
+    *   Bergung eines verunfallten Tauchers
+
+
+*    *
+    *   5.2
+
+    *   Erstellung einer Rettungskette
+
+
+*    *
+    *   5.3
+
+    *   Sofortmaßnahmen am Unfallort
+
+
+*    *
+    *   5.4
+
+    *   Transport
+
+
+
 
 
 ## Anlage 3 (zu § 4 Abs. 2)
@@ -670,172 +822,6 @@ Unterschrift(en) ...............................
     *   4.8
 
     *   Fachrechnen/Fachzeichnen
-
-
-
-
-
-## Anlage 4 (zu § 4 Abs. 3)
-
-
-*    *   (Fundstelle des Originaltextes: BGBl. I 2000, 171)
-
-
-*    *   Dauer und Inhalt der betrieblichen Fortbildung
-
-
-*    *   1.
-
-    *   Durchführung von Arbeiten mit autonomen und schlauchversorgten
-        Tauchgeräten  mindestens 200 Taucherstunden (davon mindesten 20
-        Stunden mit dem sonst im Betrieb in der Regel nicht verwendeten Gerät)
-
-
-*    *   2.
-
-    *   Vermittlung von Kenntnissen in
-
-
-*    *
-    *   2.1
-
-    *   Tauchgerätekunde (marktorientiert)
-
-
-*    *
-    *   2.2
-
-    *   Arbeitsgerätekunde (hydraulisch, pneumatisch, elektrisch)
-
-
-*    *
-    *   2.3
-
-    *   Wartungs-Inspektionskunde
-
-
-*    *
-    *   2.4
-
-    *   Seemannschaft
-
-
-*    *   3.
-
-    *   Vermittlung von Fertigkeiten bei Unterwasserarbeiten in verschiedenen
-        Tiefen, z.B.
-
-
-*    *
-    *   3.1
-
-    *   Schweißen, Schneiden
-
-
-*    *
-    *   3.2
-
-    *   Betonieren
-
-
-*    *
-    *   3.3
-
-    *   Schalungsarbeiten
-
-
-*    *
-    *   3.4
-
-    *   Spülarbeiten
-
-
-*    *
-    *   3.5
-
-    *   Messen, Durchführen von Video-, Foto- und Ultraschallaufnahmen
-
-
-*    *
-    *   3.6
-
-    *   Hebearbeiten
-
-
-*    *
-    *   3.7
-
-    *   Montieren
-
-
-*    *
-    *   3.8
-
-    *   Suchen
-
-
-*    *
-    *   3.9
-
-    *   Abdichten
-
-
-*    *
-    *   3.10
-
-    *   Konservieren und Reinigen
-
-
-*    *   4.
-
-    *   Arbeiten unter erschwerten Bedingungen, z.B.
-
-
-*    *
-    *   4.1
-
-    *   Arbeiten bei Strömung
-
-
-*    *
-    *   4.2
-
-    *   "Schwarzem Wasser"
-
-
-*    *
-    *   4.3
-
-    *   Nachttauchen
-
-
-*    *   5.
-
-    *   Durchführung von Notfallmaßnahmen, z.B.
-
-
-*    *
-    *   5.1
-
-    *   Bergung eines verunfallten Tauchers
-
-
-*    *
-    *   5.2
-
-    *   Erstellung einer Rettungskette
-
-
-*    *
-    *   5.3
-
-    *   Sofortmaßnahmen am Unfallort
-
-
-*    *
-    *   5.4
-
-    *   Transport
 
 
 

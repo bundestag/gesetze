@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.6.1999 I 1533;
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 38 V v. 12.2.2009 I 320
+:   Art. 37 G v. 29.3.2017 I 626
 
 
 ## § 1 Anwendungsbereich
@@ -391,9 +391,13 @@ Bestimmung des Bundesministeriums des Innern können in besonderen
 Fällen Flugkosten erstattet werden.
 
 
-## § 5a
+## § 5a Reisebeihilfe für Heimfahrten bei Einsatz im Rahmen von Unterstützungsmaßnahmen zur Bewältigung der steigenden Zahl von Asylbewerbern
 
-(weggefallen)
+Berechtigte nach § 3, die zur Bewältigung der steigenden Zahl von
+Asylbewerbern für von der obersten Dienstbehörde beschlossene
+personelle Unterstützungsmaßnahmen eingesetzt werden, erhalten eine
+Reisebeihilfe für jede Woche. § 5 Absatz 1 Satz 2 bis 4 und Absatz 2
+bis 4 bleibt im Übrigen unberührt.
 
 
 ## § 5b
@@ -474,12 +478,13 @@ vorausgehenden Tag.
 ## § 9 Verfahrensvorschriften
 
 (1) Das Trennungsgeld ist innerhalb einer Ausschlußfrist von einem
-Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich zu
-beantragen. Trennungsgeld wird monatlich nachträglich auf Grund von
-Forderungsnachweisen gezahlt, die der Berechtigte innerhalb einer
-Ausschlußfrist von einem Jahr nach Ablauf des maßgeblichen
-Kalendermonats abzugeben hat. Satz 2 gilt entsprechend für Anträge auf
-Reisebeihilfe nach Ablauf des maßgebenden Anspruchszeitraums.
+Jahr nach Beginn der Maßnahme nach § 1 Abs. 2 schriftlich oder
+elektronisch zu beantragen. Trennungsgeld wird monatlich nachträglich
+auf Grund von Forderungsnachweisen gezahlt, die der Berechtigte
+innerhalb einer Ausschlußfrist von einem Jahr nach Ablauf des
+maßgeblichen Kalendermonats abzugeben hat. Satz 2 gilt entsprechend
+für Anträge auf Reisebeihilfe nach Ablauf des maßgebenden
+Anspruchszeitraums.
 
 (2) Der Berechtigte hat nachzuweisen, daß die Voraussetzungen für die
 Trennungsgeldgewährung vorliegen, insbesondere hat er das fortwährende
@@ -489,17 +494,11 @@ Bemühen um eine Wohnung (§ 2 Abs. 1) zu belegen.
 Trennungsgeld gewährt.
 
 
-## § 10
+## § 10 Anwendungsvorschrift
 
-(weggefallen)
-
-
-## (XXXX) §§ 11 bis 14 (weggefallen)
-
-(Änderung anderer Vorschriften)
+§ 5a ist nur bis zum 31. Dezember 2018 anzuwenden.
 
 
-## § 15
+## (XXXX) §§ 11 bis 15 (weggefallen)
 
-(Inkrafttreten, Außerkrafttreten)
 

@@ -1,6 +1,6 @@
 ---
 Title: Gesetz über die Erstattung von Gebühren des beigeordneten Vertreters in Patent-,
-  Gebrauchsmuster-, Geschmacksmuster-, Topographieschutz- und Sortenschutzsachen
+  Gebrauchsmuster-, Design-, Topographieschutz- und Sortenschutzsachen
 jurabk: PatGebErstG
 layout: default
 origslug: patgeberstg
@@ -8,7 +8,7 @@ slug: patgeberstg
 
 ---
 
-# Gesetz über die Erstattung von Gebühren des beigeordneten Vertreters in Patent-, Gebrauchsmuster-, Geschmacksmuster-, Topographieschutz- und Sortenschutzsachen (PatGebErstG)
+# Gesetz über die Erstattung von Gebühren des beigeordneten Vertreters in Patent-, Gebrauchsmuster-, Design-, Topographieschutz- und Sortenschutzsachen (PatGebErstG)
 
 Ausfertigungsdatum
 :   1953-07-18
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1953, 654
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 50 G v. 5.5.2004 I 718
+:   Art. 5 Abs. 16 G v. 10.10.2013 I 3799
 
 
 ## I - Allgemeines
@@ -26,8 +26,8 @@ Zuletzt geändert durch
 
 ### § 1
 
-In Patent-, Gebrauchsmuster-, Geschmacksmuster-, Topographieschutz-
-und Sortenschutzsachen werden im Falle der Bewilligung von
+In Patent-, Gebrauchsmuster-, Design-, Topographieschutz- und
+Sortenschutzsachen werden im Falle der Bewilligung von
 Verfahrenskostenhilfe dem beigeordneten Vertreter die Gebühren und
 Auslagen nach Maßgabe dieses Gesetzes erstattet.
 
@@ -180,7 +180,7 @@ Auslagen nach Maßgabe dieses Gesetzes erstattet.
 
 ### § 3b
 
-(1) In Geschmacksmustersachen beträgt der Gebührensatz 360 Euro.
+(1) In Designsachen beträgt der Gebührensatz 360 Euro.
 
 (2) Dieser steht dem Vertreter als Verfahrensgebühr zu:
 
@@ -200,15 +200,15 @@ Auslagen nach Maßgabe dieses Gesetzes erstattet.
 
 *    *   3.
 
-    *   im Löschungsverfahren
+    *   im Nichtigkeitsverfahren
 
     *   zu 15/10,
 
 
 *    *   4.
 
-    *   im Beschwerdeverfahren gegen eine Entscheidung über den
-        Löschungsantrag
+    *   im Beschwerdeverfahren gegen eine Entscheidung über den Antrag auf
+        Feststellung oder Erklärung der Nichtigkeit
 
     *   zu 20/10,
 

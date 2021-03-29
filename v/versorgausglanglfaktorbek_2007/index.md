@@ -1,5 +1,5 @@
 ---
-Title: Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der
+Title: Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in  der
   Rentenversicherung
 jurabk: VersorgAusglAnglFaktorBek 2007
 layout: default
@@ -8,7 +8,7 @@ slug: versorgausglanglfaktorbek_2007
 
 ---
 
-# Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in der Rentenversicherung (VersorgAusglAnglFaktorBek 2007)
+# Bekanntmachung der Angleichungsfaktoren für den Versorgungsausgleich in  der Rentenversicherung (VersorgAusglAnglFaktorBek 2007)
 
 Ausfertigungsdatum
 :   2007-06-14

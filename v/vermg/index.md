@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.2.2005 I 205;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 23.5.2011 I 920
+:   Art. 17 G v. 21.11.2016 I 2591
 
 
 ## Abschnitt I - Allgemeine Bestimmungen
@@ -871,14 +871,15 @@ Zeitpunkt des Inkrafttretens dieses Gesetzes bereits erfolgt, so kann
 der Berechtigte verlangen, dass die Rückgabe nach den Vorschriften
 dieses Gesetzes überprüft und an dessen Bedingungen angepasst wird.
 
-(9) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
-Bundesrates das Verfahren und die Zuständigkeit der Behörden oder
-Stellen für die Durchführung der Rückgabe und Entschädigung von
-Unternehmen und Beteiligungen zu regeln sowie Vorschriften über die
-Berechnung der Veränderungen der Vermögens- und Ertragslage der
-Unternehmen und deren Bewertung zu erlassen.
+(9) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
+dem Bundesministerium für Wirtschaft und Energie durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Verfahren und die
+Zuständigkeit der Behörden oder Stellen für die Durchführung der
+Rückgabe und Entschädigung von Unternehmen und Beteiligungen zu regeln
+sowie Vorschriften über die Berechnung der Veränderungen der
+Vermögens- und Ertragslage der Unternehmen und deren Bewertung zu
+erlassen.
 
 (10) Das Gericht am Sitz des Rückgabeberechtigten hat unter den
 Voraussetzungen des Absatzes 1a Satz 2 auf Antrag Abwickler zu
@@ -2333,6 +2334,24 @@ Rechtsverhältnisses der in § 16 Abs. 3 oder § 17 bezeichneten Art oder
 teilweise unterblieben, gilt Absatz 3 Satz 2 entsprechend.
 
 
+### § 30b Anmeldevermerk
+
+(1) Für Grundstücke und Erbbaurechte, für die innerhalb der
+Ausschlussfrist des § 30a ein Antrag auf Rückübertragung eingegangen
+ist, der weder bestandskräftig abgelehnt noch zurückgenommen oder für
+erledigt erklärt worden ist, ersucht die zuständige Behörde das
+Grundbuchamt um Eintragung eines Anmeldevermerks im Grundbuch. Der
+Anmeldevermerk ist in der zweiten Abteilung des Grundbuchs mit
+folgendem Wortlaut einzutragen: „Es liegt ein Antrag auf
+Rückübertragung nach § 30 Absatz 1 des Vermögensgesetzes vor.“ Die
+Eintragung erfolgt ausschließlich auf Grund von Ersuchen nach Satz 1.
+
+(2) Wird der Antrag auf Rückübertragung in der Folgezeit
+bestandskräftig abgelehnt, zurückgenommen oder für erledigt erklärt,
+ersucht die zuständige Behörde das Grundbuchamt unverzüglich um
+Löschung des Anmeldevermerks.
+
+
 ### § 31 Pflichten der Behörde
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen, der
@@ -2573,8 +2592,10 @@ Rechten an Grundstücken und Gebäuden sowie bei der Aufhebung der
 staatlichen Verwaltung ersucht die Behörde das Grundbuchamt um die
 erforderlichen Berichtigungen des Grundbuches. Dies gilt auch für die
 in § 1287 Satz 2 des Bürgerlichen Gesetzbuchs bezeichnete
-Sicherungshypothek. Gebühren für das Grundbuchverfahren in den durch
-dieses Gesetz vorgesehenen Fällen werden nicht erhoben.
+Sicherungshypothek. Gleichzeitig ersucht die Behörde das Grundbuchamt
+um Löschung des Anmeldevermerks nach § 30b Absatz 1. Gebühren für das
+Grundbuchverfahren in den durch dieses Gesetz vorgesehenen Fällen
+werden nicht erhoben.
 
 (3) Personen, deren Vermögenswerte von Maßnahmen nach § 1 betroffen
 sind, sowie ihre Erben sind hinsichtlich der nach diesem Gesetz
@@ -2707,14 +2728,15 @@ bestandskräftig und hat die Wirkungen des § 34.
 
 ### § 40 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium der Finanzen und dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung mit
-Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens nach
-den §§ 7, 7a, 16 Abs. 5 bis 9, §§ 18 bis 18b, 20 und 20a und Abschnitt
-VI, der Sicherheitsleistung oder der Entschädigung zu regeln oder von
-den Bestimmungen der Hypothekenablöseanordnung vom 14. Juli 1992
-(BGBl. I S. 1257) abweichende Regelungen zu treffen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
+dem Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates weitere Einzelheiten des Verfahrens nach den §§ 7, 7a, 16
+Abs. 5 bis 9, §§ 18 bis 18b, 20 und 20a und Abschnitt VI, der
+Sicherheitsleistung oder der Entschädigung zu regeln oder von den
+Bestimmungen der Hypothekenablöseanordnung vom 14. Juli 1992 (BGBl. I
+S. 1257) abweichende Regelungen zu treffen.
 
 
 ### § 41 Überleitungsvorschrift

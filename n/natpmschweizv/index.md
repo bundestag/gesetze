@@ -1003,10 +1003,9 @@ zentraler Bedeutung ausgewiesen. Nachfolgende Gebiete gehören zur
 
 
 
-(3) Die **Schutzzone III**              wird als
-Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen. Die
-Schutzzone III umfaßt die nicht in Abs. 2 genannten Flächen des
-Naturparkes.
+(3) Die **Schutzzone III** wird als Landschaftsschutzgebiet von
+zentraler Bedeutung ausgewiesen. Die Schutzzone III umfaßt die nicht
+in Abs. 2 genannten Flächen des Naturparkes.
 
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
@@ -1117,8 +1116,7 @@ angemessener Frist ein Pflege- und Entwicklungsplan erstellt werden.
 
 
 
-(2) Darüber hinaus ist es in der **Schutzzone II**
-verboten,
+(2) Darüber hinaus ist es in der **Schutzzone II** verboten,
 
 1.  Flächen und Wege mit Kraftfahrzeugen zu befahren sowie die Wege zu
     verlassen,
@@ -1277,8 +1275,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1479)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

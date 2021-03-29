@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.10.2006 I 2268;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 19 G v. 25.5.2009 I 1102
+:   Art. 8 G v. 10.12.2014 I 2091
 
 
 ## Abschnitt 1 - Allgemeines
@@ -529,7 +529,8 @@ folgenden Nummern 1 bis 8 eingetragen.
         Amts wegen;
 
 
-    cc) Eintragungen nach dem Umwandlungsgesetz;
+    cc) Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und
+        Abwicklungsgesetz;
 
 
     dd) die Nichtigkeit von Beschlüssen der Generalversammlung.
@@ -555,8 +556,9 @@ folgenden Nummern 1 bis 8 eingetragen.
 
 -
 
+(zu § 25)
 
-### Anlage 1 (zu § 25) Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
+### Anlage 1 Inhalt des Genossenschaftsregisters in spaltenweiser Wiedergabe
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -578,7 +580,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         b)  Sitz, Niederlassung, inländische Geschäftsanschrift und
-            empfangsberechtigte Personen der Europäischen Genossenschaft,
+            empfangsberechtigte Person der Europäischen Genossenschaft,
             Zweigniederlassungen
 
 
@@ -714,8 +716,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 25)
 
-### Anlage 2 (zu § 25) Inhalt des Genossenschaftsregisters als fortlaufender Text
+### Anlage 2 Inhalt des Genossenschaftsregisters als fortlaufender Text
 
 (Fundstelle: BGBl. I 2006, 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

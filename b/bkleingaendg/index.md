@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Bundeskleingartengesetzes
 jurabk: BKleingÄndG
 layout: default
-origslug: bkleing_ndg
+origslug: bkleingaendg
 slug: bkleingaendg
 
 ---

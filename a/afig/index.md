@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2330
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 106 G v. 22.12.2011 I 3044
+:   Art. 1 G v. 20.5.2015 I 725
 
 
 ## Eingangsformel
@@ -30,24 +30,42 @@ beschlossen:
 
 Dieses Gesetz dient
 
-1.  der Durchführung der Verordnung (EG) Nr. 1290/2005 des Rates vom 21.
-    Juni 2005 über die Finanzierung der Gemeinsamen Agrarpolitik (ABl. EU
-    Nr. L 209 S. 1) in der jeweils geltenden Fassung und der zu ihrer
-    Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaften
-    oder der Europäischen Union, soweit darin eine Veröffentlichung von
-    Informationen über die Empfänger von Mitteln aus dem Europäischen
-    Garantiefonds für die Landwirtschaft und dem Europäischen
-    Landwirtschaftsfonds für die Entwicklung des ländlichen Raums sowie
-    über die Beträge, die jeder Empfänger erhalten hat, vorgesehen ist;
+1.  der Durchführung der Verordnung (EU) Nr. 1306/2013 des Europäischen
+    Parlaments und des Rates vom 17. Dezember 2013 über die Finanzierung,
+    die Verwaltung und das Kontrollsystem der Gemeinsamen Agrarpolitik und
+    zur Aufhebung der Verordnungen (EWG) Nr. 352/78, (EG) Nr. 165/94, (EG)
+    Nr. 2799/98, (EG) Nr. 814/2000, (EG) Nr. 1290/2005 und (EG) Nr.
+    485/2008 des Rates (ABl. L 347 vom 20.12.2013, S. 549) in der jeweils
+    geltenden Fassung und der zu ihrer Durchführung erlassenen Rechtsakte
+    der Europäischen Union, soweit darin eine Veröffentlichung von
+    Informationen über
+
+    a)  die Empfänger von Zahlungen aus dem Europäischen Garantiefonds für die
+        Landwirtschaft (EGFL) oder dem Europäischen Landwirtschaftsfonds für
+        die Entwicklung des ländlichen Raums (ELER),
 
 
-2.  der Durchführung der Verordnung (EG) Nr. 1198/2006 des Rates vom 27.
-    Juli 2006 über den Europäischen Fischereifonds (ABl. EU Nr. L 223 S.
-    1) in der jeweils geltenden Fassung und der zu ihrer Durchführung
-    erlassenen Rechtsakte der Europäischen Gemeinschaften oder der
-    Europäischen Union, soweit darin Aufgaben der Verwaltungsbehörde im
-    Zusammenhang mit den Informationsmaßnahmen im Sinne des Artikels 51
-    der Verordnung (EG) Nr. 1198/2006 vorgesehen sind.
+    b)  die Beträge, die jeder Empfänger erhalten hat, und
+
+
+    c)  Art und Beschreibung der jeweils finanzierten Maßnahme,
+
+
+
+    vorgesehen ist;
+
+
+2.  der Durchführung der Verordnung (EU) Nr. 508/2014 des Europäischen
+    Parlaments und des Rates vom 15. Mai 2014 über den Europäischen
+    Meeres- und Fischereifonds und zur Aufhebung der Verordnungen (EG) Nr.
+    2328/2003, (EG) Nr. 861/2006, (EG) Nr. 1198/2006 und (EG) Nr. 791/2007
+    des Rates und der Verordnung (EU) Nr. 1255/2011 des Europäischen
+    Parlaments und des Rates (ABl. L 149 vom 20.5.2014, S. 1) in der
+    jeweils geltenden Fassung und der zu ihrer Durchführung erlassenen
+    Rechtsakte der Europäischen Union, soweit darin Aufgaben der
+    Verwaltungsbehörde im Zusammenhang mit Informationsmaßnahmen im Sinne
+    des Artikels 119 in Verbindung mit Anhang V der Verordnung (EU) Nr.
+    508/2014 vorgesehen sind.
 
 
 
@@ -63,31 +81,31 @@ zuständigen Stellen der Länder und im Fall des Europäischen
 Fischereifonds die zuständige Verwaltungsbehörde veröffentlichen die
 Informationen nach
 
-1.  Artikel 1 Abs. 1 der Verordnung (EG) Nr. 259/2008 der Kommission vom
-    18\. März 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
-    1290/2005 des Rates hinsichtlich der Veröffentlichung von
-    Informationen über die Empfänger von Mitteln aus dem Europäischen
-    Garantiefonds für die Landwirtschaft (EGFL) und dem Europäischen
-    Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER)
-    (ABl. EU Nr. L 76 S. 28) und
+1.  Artikel 111 Absatz 1 in Verbindung mit Artikel 112 der Verordnung (EU)
+    Nr. 1306/2013 in Verbindung mit den Artikeln 57 bis 62 der
+    Durchführungsverordnung (EU) Nr. 908/2014 der Kommission vom 6. August
+    2014 mit Durchführungsbestimmungen zur Verordnung (EU) Nr. 1306/2013
+    des Europäischen Parlaments und des Rates hinsichtlich der Zahlstellen
+    und anderen Einrichtungen, der Mittelverwaltung, des
+    Rechnungsabschlusses und der Bestimmungen für Kontrollen, Sicherheiten
+    und Transparenz (ABl. L 255 vom 28.8.2014, S. 59) und
 
 
-2.  den Artikeln 30 und 31 der Verordnung (EG) Nr. 498/2007 der Kommission
-    vom 26. März 2007 mit Durchführungsbestimmungen zur Verordnung (EG)
-    Nr. 1198/2006 des Rates über den Europäischen Fischereifonds (EFF)
-    (ABl. EU Nr. L 120 S. 1)
+2.  Artikel 119 in Verbindung mit Anhang V der Verordnung (EU) Nr.
+    508/2014
 
 
 
 in den jeweils geltenden Fassungen im Wege der Direkteingabe auf einer
 gemeinsamen, von der Bundesanstalt für Landwirtschaft und Ernährung
-(Bundesanstalt) betriebenen Internetseite nach Maßgabe des Artikels 2
-der Verordnung (EG) Nr. 259/2008 und im
-Fall des              Europäischen Fischereifonds nach Maßgabe des
-Artikels 31 Buchstabe d der Verordnung (EG) Nr. 498/2007. Satz 1 gilt
-im Fall einer Gemeinde oder eines Gemeindeverbandes nur, wenn der
-Gemeinde oder dem Gemeindeverband die Aufgaben nach diesem Gesetz
-durch Landesrecht übertragen worden sind.
+(Bundesanstalt) betriebenen Internetseite nach Maßgabe des Artikels
+111 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 1306/2013 in
+Verbindung mit Artikel 59 der Durchführungsverordnung (EU) Nr.
+908/2014 und im Fall des Europäischen Meeres- und Fischereifonds nach
+Maßgabe des Artikels 119 in Verbindung mit Anhang V der Verordnung
+(EU) Nr. 508/2014. Satz 1 gilt im Fall einer Gemeinde oder eines
+Gemeindeverbandes nur, wenn der Gemeinde oder dem Gemeindeverband die
+Aufgaben nach diesem Gesetz durch Landesrecht übertragen worden sind.
 
 (2) Jede veröffentlichende Stelle trägt die datenschutzrechtliche
 Verantwortung für die von ihr veröffentlichten Informationen,
@@ -114,14 +132,44 @@ verwaltungskostenfrei zu.
 ersten Tag der Veröffentlichung auf der Internetseite gelöscht.
 
 
+## § 2a Datennutzung
+
+(1) Wer die in § 2 Absatz 1 genannten Daten von der Internetseite der
+Bundesanstalt für Landwirtschaft und Ernährung erhebt und speichert,
+darf die Daten nur zum Zweck der sachbezogenen Information der
+Öffentlichkeit über die Empfänger von Zahlungen aus den europäischen
+Agrar- und Fischereifonds nach Maßgabe des Absatzes 2 Satz 1 nutzen.
+
+(2) Die Daten nach Absatz 1 dürfen nicht
+
+1.  länger als zwei Jahre nach dem Tag ihrer ersten Veröffentlichung auf
+    der Internetseite für den in Absatz 1 genannten Zweck genutzt werden,
+    soweit es sich um Daten über Zahlungen aus den Agrarfonds handelt,
+
+
+2.  für Zwecke der Werbung oder des Adresshandels genutzt oder
+    weitergegeben werden,
+
+
+3.  für eine gegenüber dem von der Veröffentlichung betroffenen Empfänger
+    von Zahlungen missbräuchliche Verwendung genutzt werden.
+
+
+
+Die Daten nach Absatz 1 sind spätestens mit Ablauf von zwei Jahren
+nach dem Tag ihrer ersten Veröffentlichung auf der Internetseite der
+Bundesanstalt für Landwirtschaft und Ernährung von den in Absatz 1
+genannten Nutzern zu löschen.
+
+
 ## § 3 Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz trifft im Einvernehmen mit dem Bundesministerium der
-Finanzen durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
-Bestimmungen über Einzelheiten des Verfahrens oder technische und
-organisatorische Maßnahmen für die Veröffentlichung der Informationen
-im Internet, insbesondere über
+(1) Das Bundesministerium für Ernährung und Landwirtschaft trifft im
+Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
+über Einzelheiten des Verfahrens oder technische und organisatorische
+Maßnahmen für die Veröffentlichung der Informationen im Internet,
+insbesondere über
 
 1.  den Inhalt und Aufbau der Internetseite,
 
@@ -132,18 +180,44 @@ im Internet, insbesondere über
 3.  die Einsicht in die Internetseite,
 
 
-4.  den Datenschutz und die Datensicherheit, wobei sicherzustellen ist,
+4.  die zu veröffentlichenden Informationen über Empfänger von
+    Beihilfezahlungen unterhalb des nach Artikel 112 der Verordnung (EU)
+    Nr. 1306/2013 bestimmten Schwellenwertes,
+
+
+5.  den Datenschutz und die Datensicherheit, wobei sicherzustellen ist,
     dass die Veröffentlichungen unversehrt, vollständig und aktuell
     bleiben und jederzeit ihrem Ursprung nach zugeordnet werden können.
 
 
 
 
-(2) Abweichend von Absatz 1 kann bis zum 31. März 2009 die
+(2) Abweichend von Absatz 1 kann bis zum 31. Juli 2015 die
 Rechtsverordnung nach Absatz 1 ohne Zustimmung des Bundesrates
 erlassen werden. Die Rechtsverordnung tritt spätestens sechs Monate
 nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
 Zustimmung des Bundesrates verlängert werden.
+
+
+## § 3a Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 2a Absatz 1 Daten nutzt oder
+
+
+2.  entgegen § 2a Absatz 2 Satz 2 nicht, nicht vollständig oder nicht
+    rechtzeitig löscht.
+
+
+
+
+(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+dreihunderttausend Euro geahndet werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist die Bundesanstalt für
+Landwirtschaft und Ernährung.
 
 
 ## § 4 Verkündung von Rechtsverordnungen

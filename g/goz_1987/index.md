@@ -2574,8 +2574,7 @@ Aufbissbehelfe oder Schienen nach Abschnitt H berechnet werden.
 
     *   Freilegen eines Implantats, und Einfügen eines oder mehrerer
         Aufbauelemente
-        (z. B.                      eines Gingivaformers) bei einem
-        zweiphasigen Implantatsystem
+        (z. B. eines Gingivaformers) bei einem zweiphasigen Implantatsystem
 
     *   626
 

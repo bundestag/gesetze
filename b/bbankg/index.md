@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.10.1992 I 1782;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 2959
+:   Art. 23 G v. 4.7.2013 I 1981
 
 
 ## Erster Abschnitt - Rechtsform und Aufgabe
@@ -262,11 +262,11 @@ Aufruf bestimmten Umtauschfrist ungültig.
 
 Die Deutsche Bundesbank ist berechtigt, zur Erfüllung ihrer Aufgabe
 Statistiken auf dem Gebiet des Bank- und Geldwesens bei allen
-Kreditinstituten, Kapitalanlagegesellschaften und
-Investmentaktiengesellschaften anzuordnen und durchzuführen. §§ 9, 15
-und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden. Die
-Deutsche Bundesbank kann die Ergebnisse der Statistiken für allgemeine
-Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
+Kreditinstituten, Kapitalverwaltungsgesellschaften und extern
+verwalteten Investmentgesellschaften anzuordnen und durchzuführen. §§
+9, 15 und 16 des Bundesstatistikgesetzes sind entsprechend anzuwenden.
+Die Deutsche Bundesbank kann die Ergebnisse der Statistiken für
+allgemeine Zwecke veröffentlichen. Die Veröffentlichungen dürfen keine
 Einzelangaben enthalten. Den nach § 13 Abs. 1 Auskunftsberechtigten
 dürfen Einzelangaben nur mitgeteilt werden, wenn und soweit es in der
 Anordnung über die Statistik vorgesehen ist.
@@ -795,13 +795,13 @@ Maßnahmen zu dulden.
 
 (3) Verstößt ein Verpflichteter nach § 36 Absatz 1 gegen die nach dem
 Beschluss EZB/2010/14
-der-              Europäischen Zentralbank vom 16. September 2010 über
-die Prüfung der Echtheit und Umlauffähigkeit und über die
-Wiederausgabe von Euro-Banknoten (ABl. L 267 vom 9.10.2010, S. 1) zu
-erfüllenden Prüfpflichten, soll die Deutsche Bundesbank dem
-Verpflichteten untersagen, Banknoten oder bestimmte
-Banknotenstückelungen wieder in den Umlauf zu geben oder mittels
-bestimmter Systeme zur Banknotenbearbeitung zu prüfen.
+der- Europäischen Zentralbank vom 16. September 2010 über die Prüfung
+der Echtheit und Umlauffähigkeit und über die Wiederausgabe von Euro-
+Banknoten (ABl. L 267 vom 9.10.2010, S. 1) zu erfüllenden
+Prüfpflichten, soll die Deutsche Bundesbank dem Verpflichteten
+untersagen, Banknoten oder bestimmte Banknotenstückelungen wieder in
+den Umlauf zu geben oder mittels bestimmter Systeme zur
+Banknotenbearbeitung zu prüfen.
 
 
 ## Neunter Abschnitt - Übergangs- und Schlußbestimmungen
@@ -957,19 +957,18 @@ bleibt es vorbehaltlich der Abweichungen, die sich aus §§ 7, 8, 29
 Abs. 2 und 3 sowie §§ 30, 31 und 35 Abs. 3 des in Absatz 1
 bezeichneten Gesetzes und
 §§ 108, 112, 117 Abs. 1, § 140 Abs. 2 und 3 Satz 1 und 2, § 156 Abs.
-1, §§ 181a und 181b              des Bundesbeamtengesetzes ergeben,
-bei der bisherigen Bemessungsgrundlage nach dem Deutschen
-Beamtengesetz in der Bundesfassung (ruhegehaltfähige Dienstbezüge,
-Ruhegehaltssätze); liegt der Berechnung der ruhegehaltfähigen
-Dienstzeit eine dem
-§ 117 Abs. 2              des Bundesbeamtengesetzes oder dem
-§ 181 Abs. 5              des Bundesbeamtengesetzes in der am 30. Juni
-1975 geltenden Fassung entsprechende Vorschriften zugrunde, gilt
-§ 117 Abs. 3              des Bundesbeamtengesetzes entsprechend. Das
-Ruhegehalt darf fünfundsiebzig vom Hundert der ruhegehaltfähigen
-Dienstbezüge nicht übersteigen. Entsprechendes gilt für die
-Hinterbliebenen. § 64 Abs. 1 Satz 6 Halbsatz 2 des in Absatz 1
-bezeichneten Gesetzes ist anzuwenden.
+1, §§ 181a und 181b des Bundesbeamtengesetzes ergeben, bei der
+bisherigen Bemessungsgrundlage nach dem Deutschen Beamtengesetz in der
+Bundesfassung (ruhegehaltfähige Dienstbezüge, Ruhegehaltssätze); liegt
+der Berechnung der ruhegehaltfähigen Dienstzeit eine dem
+§ 117 Abs. 2 des Bundesbeamtengesetzes oder dem
+§ 181 Abs. 5 des Bundesbeamtengesetzes in der am 30. Juni 1975
+geltenden Fassung entsprechende Vorschriften zugrunde, gilt
+§ 117 Abs. 3 des Bundesbeamtengesetzes entsprechend. Das Ruhegehalt
+darf fünfundsiebzig vom Hundert der ruhegehaltfähigen Dienstbezüge
+nicht übersteigen. Entsprechendes gilt für die Hinterbliebenen. § 64
+Abs. 1 Satz 6 Halbsatz 2 des in Absatz 1 bezeichneten Gesetzes ist
+anzuwenden.
 
 (4) Der Präsident der Deutschen Bundesbank ist oberste Dienstbehörde
 für die Personen, auf die die Vorschriften der Absätze 1 und 2

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2730
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 1 G v. 31.10.2008 I 2149
+:   Art. Art. 11 G v. 10.3.2017 I 420
 
 Stand: Das G tritt gem. § 30 Abs. 1 Satz 1 an dem Tag in Kraft, an dem der Staatsvertrag der Länder über den Schutz der Menschenwürde und den Jugendschutz in Rundfunk und Telemedien in Kraft tritt\*. In Kraft gem. Bek. v. 1.4.2003 I 476 mWv 1.4.2003
 
@@ -210,18 +210,21 @@ Jugendamt über den jugendgefährdenden Ort zu unterrichten.
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
 dürfen
 
-1.  Branntwein, branntweinhaltige Getränke oder Lebensmittel, die
-    Branntwein in nicht nur geringfügiger Menge enthalten, an Kinder und
-    Jugendliche,
+1.  Bier, Wein, weinähnliche Getränke oder Schaumwein oder Mischungen von
+    Bier, Wein, weinähnlichen Getränken oder Schaumwein mit
+    nichtalkoholischen Getränken an Kinder und Jugendliche unter 16
+    Jahren,
 
 
-2.  andere alkoholische Getränke an Kinder und Jugendliche unter 16 Jahren
+2.  andere alkoholische Getränke oder Lebensmittel, die andere
+    alkoholische Getränke in nicht nur geringfügiger Menge enthalten, an
+    Kinder und Jugendliche
 
 
 
 weder abgegeben noch darf ihnen der Verzehr gestattet werden.
 
-(2) Absatz 1 Nr. 2 gilt nicht, wenn Jugendliche von einer
+(2) Absatz 1 Nummer 1 gilt nicht, wenn Jugendliche von einer
 personensorgeberechtigten Person begleitet werden.
 
 (3) In der Öffentlichkeit dürfen alkoholische Getränke nicht in
@@ -252,22 +255,36 @@ anzubringen.
 ### § 10 Rauchen in der Öffentlichkeit, Tabakwaren
 
 (1) In Gaststätten, Verkaufsstellen oder sonst in der Öffentlichkeit
-dürfen Tabakwaren an Kinder oder Jugendliche weder abgegeben noch darf
-ihnen das Rauchen gestattet werden.
+dürfen Tabakwaren und andere nikotinhaltige Erzeugnisse und deren
+Behältnisse an Kinder oder Jugendliche weder abgegeben noch darf ihnen
+das Rauchen oder der Konsum nikotinhaltiger Produkte gestattet werden.
 
-(2) In der Öffentlichkeit dürfen Tabakwaren nicht in Automaten
-angeboten werden. Dies gilt nicht, wenn ein Automat
+(2) In der Öffentlichkeit dürfen Tabakwaren und andere nikotinhaltige
+Erzeugnisse und deren Behältnisse nicht in Automaten angeboten werden.
+Dies gilt nicht, wenn ein Automat
 
 1.  an einem Kindern und Jugendlichen unzugänglichen Ort aufgestellt ist
     oder
 
 
 2.  durch technische Vorrichtungen oder durch ständige Aufsicht
-    sichergestellt ist, dass Kinder und Jugendliche Tabakwaren nicht
-    entnehmen können.
+    sichergestellt ist, dass Kinder und Jugendliche Tabakwaren und andere
+    nikotinhaltige Erzeugnisse und deren Behältnisse nicht entnehmen
+    können.
 
 
 
+
+(3) Tabakwaren und andere nikotinhaltige Erzeugnisse und deren
+Behältnisse dürfen Kindern und Jugendlichen weder im Versandhandel
+angeboten noch an Kinder und Jugendliche im Wege des Versandhandels
+abgegeben werden.
+
+(4) Die Absätze 1 bis 3 gelten auch für nikotinfreie Erzeugnisse, wie
+elektronische Zigaretten oder elektronische Shishas, in denen
+Flüssigkeit durch ein elektronisches Heizelement verdampft und die
+entstehenden Aerosole mit dem Mund eingeatmet werden, sowie für deren
+Behältnisse.
 
 
 ## Abschnitt 3 - Jugendschutz im Bereich der Medien
@@ -1059,11 +1076,10 @@ sind, dass ein Medium
 
 
 
-Kosten (Gebühren und Auslagen) erheben. Das Bundesministerium für
-Familie, Senioren, Frauen und Jugend wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände und die Gebührensätze näher zu
-bestimmen. Das Verwaltungskostengesetz findet Anwendung.
+Gebühren und Auslagen erheben. Das Bundesministerium für Familie,
+Senioren, Frauen und Jugend wird ermächtigt, durch Rechtsverordnung
+mit Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und
+die Gebührensätze näher zu bestimmen.
 
 
 ### § 22 Aufnahme von periodischen Trägermedien und Telemedien
@@ -1311,11 +1327,15 @@ Gewerbetreibender vorsätzlich oder fahrlässig
 11a. entgegen § 9 Abs. 4 alkoholhaltige Süßgetränke in den Verkehr bringt,
 
 
-12. entgegen § 10 Abs. 1 Tabakwaren abgibt oder einem Kind oder einer
-    jugendlichen Person das Rauchen gestattet,
+12. entgegen § 10 Absatz 1, auch in Verbindung mit Absatz 4, ein dort
+    genanntes Produkt an ein Kind oder eine jugendliche Person abgibt oder
+    einem Kind oder einer jugendlichen Person das Rauchen oder den Konsum
+    gestattet,
 
 
-13. entgegen § 10 Abs. 2 Satz 1 Tabakwaren in einem Automaten anbietet,
+13. entgegen § 10 Absatz 2 Satz 1 oder Absatz 3, jeweils auch in
+    Verbindung mit Absatz 4, ein dort genanntes Produkt anbietet oder
+    abgibt,
 
 
 14. entgegen § 11 Abs. 1 oder 3, jeweils auch in Verbindung mit Abs. 4

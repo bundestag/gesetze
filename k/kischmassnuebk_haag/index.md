@@ -4,7 +4,7 @@ Title: Übereinkommen über die Zuständigkeit, das anzuwendende Recht, die Aner
   der Maßnahmen zum Schutz von Kindern
 jurabk: KiSchMaßnÜbk Haag
 layout: default
-origslug: kischma_n_bk_haag
+origslug: kischmassnuebk_haag
 slug: kischmassnuebk_haag
 
 ---

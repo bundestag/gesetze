@@ -3,7 +3,7 @@ Title: Verordnung über die Prüfung der Jahresabschlüsse der Zahlungsinstitute
   die darüber zu erstellenden Berichte
 jurabk: ZahlPrüfbV
 layout: default
-origslug: zahlpr_fbv
+origslug: zahlpruefbv
 slug: zahlpruefbv
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2009, 3648
+
+Zuletzt geändert durch
+:   Art. 22 Abs. 5 G v. 23.6.2017 I 1822
 
 
 ## Eingangsformel
@@ -177,9 +180,7 @@ sind darzustellen, wobei insbesondere zu berichten ist über:
 8.  Änderungen der Zugehörigkeit des Zahlungsinstituts zu einem
     Finanzkonglomerat im Sinne des § 1 Absatz 20 des Kreditwesengesetzes
     sowie Änderungen des übergeordneten Finanzkonglomeratsunternehmens
-    nach § 10b Absatz 3 Satz 6 bis 8 oder Absatz 4 des Kreditwesengesetzes
-    beziehungsweise nach § 104q Absatz 3 Satz 6 bis 8 oder Absatz 4 des
-    Versicherungsaufsichtsgesetzes.
+    nach § 12 des Finanzkonglomerate-Aufsichtsgesetzes.
 
 
 
@@ -243,9 +244,9 @@ während des Berichtszeitraums sind darzustellen.
 Kredite darzustellen.
 
 (3) Kredite im Sinne des § 10 Absatz 2a Satz 2 Nummer 4 und 5 des
-Kreditwesengesetzes sind auch danach zu beurteilen, ob sie zu
-marktüblichen Bedingungen gewährt werden und banküblich besichert
-sind.
+Kreditwesengesetzes in der bis zum 31. Dezember 2013 geltenden Fassung
+sind auch danach zu beurteilen, ob sie zu marktüblichen Bedingungen
+gewährt werden und banküblich besichert sind.
 
 
 #### § 12 Eigenkapital
@@ -253,8 +254,9 @@ sind.
 (1) Darzustellen sind Höhe und Zusammensetzung des Eigenkapitals des
 Zahlungsinstituts nach § 12 Absatz 1 Satz 1 und 2 des
 Zahlungsdiensteaufsichtsgesetzes in Verbindung mit § 10 Absatz 2 Satz
-2 bis 7 und Absatz 2a und 2b des Kreditwesengesetzes nach dem Stand
-bei Geschäftsschluss am Bilanzstichtag und unter der Annahme der
+2 bis 7 und Absatz 2a und 2b des Kreditwesengesetzes in der bis zum
+31\. Dezember 2013 geltenden Fassung nach dem Stand bei
+Geschäftsschluss am Bilanzstichtag und unter der Annahme der
 Feststellung des geprüften Abschlusses. Die bei beziehungsweise von
 anderen Zahlungsinstituten, Instituten, Finanzunternehmen,
 Erstversicherungsunternehmen und Rückversicherungsunternehmen
@@ -280,11 +282,12 @@ ihrem frühestmöglichen Mittelabfluss in Jahresbändern darzustellen.
 
 (5) Der Ansatz nicht realisierter Reserven im Sinne des § 10 Absatz 2b
 Satz 1 Nummer 6 und 7 in Verbindung mit Absatz 4a des
-Kreditwesengesetzes ist darzustellen und seine Richtigkeit ist zu
-beurteilen. Werden dem haftenden Eigenkapital nicht realisierte
-Reserven in Immobilien zugerechnet, so ist zu prüfen, ob bei der
-Ermittlung dieser Reserven § 10 Absatz 4b des Kreditwesengesetzes
-beachtet worden ist.
+Kreditwesengesetzes in der bis zum 31. Dezember 2013 geltenden Fassung
+ist darzustellen und seine Richtigkeit ist zu beurteilen. Werden dem
+haftenden Eigenkapital nicht realisierte Reserven in Immobilien
+zugerechnet, so ist zu prüfen, ob bei der Ermittlung dieser Reserven §
+10 Absatz 4b des Kreditwesengesetzes in der bis zum 31. Dezember 2013
+geltenden Fassung beachtet worden ist.
 
 
 #### § 13 Solvabilitätskennzahl
@@ -307,7 +310,7 @@ die Vollständigkeit und Richtigkeit der Anzeigen und Meldungen ist
 einzugehen, festgestellte wesentliche Verstöße sind aufzuführen.
 
 
-### Unterabschnitt 4 - Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung
+### Unterabschnitt 4 - Bargeldloser Zahlungsverkehr; Vorkehrungen zur Verhinderung von Geldwäsche und Terrorismusfinanzierung sowie von sonstigen strafbaren Handlungen zu Lasten des Instituts
 
 
 #### § 15 Zeitpunkt der Prüfung und Berichtszeitraum
@@ -349,7 +352,7 @@ Angemessenheit zu beurteilen. Dies enthält
 2.  die Stellung und Tätigkeit des (Gruppen-)Geldwäschebeauftragten und
     seines Stellvertreters einschließlich ihrer Kompetenzen sowie die für
     eine ordnungsgemäße Durchführung ihrer Aufgaben notwendigen Mittel und
-    Verfahren nach § 9 Absatz 2 Nummer 1 des Geldwäschegesetzes,
+    Verfahren nach § 7 Absatz 1, 5 des Geldwäschegesetzes,
 
 
 3.  die Unterrichtung der mit der Durchführung von Transaktionen und mit
@@ -373,14 +376,15 @@ Aufbewahrungspflichten sowie der Pflicht zur institutsinternen
 Behandlung und Anzeige von Verdachtsfällen.
 
 (5) Der Abschlussprüfer hat darzustellen und zu beurteilen, inwieweit
-das Zahlungsinstitut nach § 22 des Zahlungsdiensteaufsichtsgesetzes
-angemessene Maßnahmen getroffen hat, um eine einheitliche Schaffung
-von internen Sicherungsmaßnahmen und die Einhaltung der
-kundenbezogenen Sorgfalts-, Aufzeichnungs- und Aufbewahrungspflichten
-in der Gruppe sicherzustellen. Dies schließt auch die Angemessenheit
-vom Zahlungsinstitut ergriffener anderweitiger zusätzlicher Maßnahmen
-ein, soweit die nach Satz 1 zu treffenden Maßnahmen in einem
-Drittstaat nicht zulässig sind.
+das Zahlungsinstitut nach § 22 Absatz 1 Nummer 1 bis 3 und 4 sowie
+Absatz 2 und 3 des Zahlungsdiensteaufsichtsgesetzes angemessene
+Maßnahmen getroffen hat, um eine einheitliche Schaffung von internen
+Sicherungsmaßnahmen und die Einhaltung der kundenbezogenen Sorgfalts-,
+Aufzeichnungs- und Aufbewahrungspflichten in der Gruppe
+sicherzustellen. Dies schließt auch die Angemessenheit vom
+Zahlungsinstitut ergriffener anderweitiger zusätzlicher Maßnahmen ein,
+soweit die nach Satz 1 zu treffenden Maßnahmen in einem Drittstaat
+nicht zulässig sind.
 
 (6) Sofern die Durchführung von internen Sicherungsmaßnahmen oder die
 Erfüllung von kundenbezogenen Sorgfaltspflichten durch das
@@ -396,6 +400,133 @@ Zurückweisung unvollständiger Auftraggeberdatensätze getroffen hat.
 (8) Es ist darzustellen, wie das Zahlungsinstitut den in § 22 Absatz 2
 des Zahlungsdiensteaufsichtsgesetzes genannten Pflichten nachgekommen
 ist.
+
+
+#### § 16a Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EG) Nr. 924/2009
+
+(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut
+getroffenen internen Vorkehrungen den Anforderungen der Verordnung
+(EG) Nr. 924/2009 des Europäischen Parlaments und des Rates vom 16.
+September 2009 über grenzüberschreitende Zahlungen in der Gemeinschaft
+und zur Aufhebung der Verordnung (EG) Nr. 2560/2001 (ABl. L 266 vom
+9\.10.2009, S. 11), die durch die Verordnung (EU) Nr. 260/2012 (ABl. L
+94 vom 30.3.2012, S. 22) geändert worden ist, entsprechen. Die
+Beurteilung umfasst die Einhaltung der Bestimmungen zu
+
+1.  Entgelten für grenzüberschreitende Zahlungen nach Artikel 3 Absatz 1
+    der Verordnung,
+
+
+2.  Entgelten nach Artikel 4 Absatz 3 Satz 1 der Verordnung, die über das
+    Entgelt gemäß Artikel 3 Absatz 1 der Verordnung hinausgehen, sowie
+
+
+3.  Interbankenentgelten für Inlandslastschriften nach Artikel 7 Absatz 1
+    der Verordnung.
+
+
+
+
+(2) Des Weiteren hat der Abschlussprüfer darzustellen, welche
+Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten
+Anforderungen der Verordnung (EU) Nr. 924/2009 zu erfüllen.
+
+(3) Sofern die Durchführung interner Vorkehrungen durch das Institut
+vertraglich auf eine dritte Person oder ein anderes Unternehmen
+ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
+
+
+#### § 16b Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) Nr. 260/2012
+
+(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem
+Zahlungsinstitut getroffenen internen Vorkehrungen den Anforderungen
+der Verordnung (EU) Nr. 260/2012 des Europäischen Parlaments und des
+Rates vom 14. März 2012 zur Festlegung der technischen Vorschriften
+und der Geschäftsanforderungen für Überweisungen und Lastschriften in
+Euro und zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+30\.3.2012, S. 22) entsprechen. Die Beurteilung umfasst
+
+1.  die Erreichbarkeit für Überweisungen und Lastschriften innerhalb der
+    Europäischen Union nach Artikel 3 der Verordnung,
+
+
+2.  die Einhaltung der Anforderungen für Überweisungen und Lastschriften
+    nach Artikel 5 Absatz 1 bis 3 sowie 7 und 8 der Verordnung sowie
+
+
+3.  die Einhaltung der Bestimmungen zu Interbankenentgelten für
+    Lastschriften nach Artikel 8 der Verordnung.
+
+
+
+
+(2) Des Weiteren hat der Abschlussprüfer darzustellen, welche
+Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten
+Anforderungen der Verordnung (EU) Nr. 260/2012 zu erfüllen.
+
+(3) Sofern die Durchführung interner Vorkehrungen durch das Institut
+vertraglich auf eine dritte Person oder ein anderes Unternehmen
+ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
+
+
+#### § 16c Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach der Verordnung (EU) 2015/751
+
+(1) Der Abschlussprüfer hat zu beurteilen, ob die von dem Institut
+getroffenen internen Vorkehrungen den Anforderungen der Verordnung
+(EU) 2015/751 des Europäischen Parlaments und des Rates vom 29. April
+2015 über Interbankenentgelte für kartengebundene Zahlungsvorgänge
+(ABl. L 123 vom 19.5.2015, S. 1) entsprechen. Die Beurteilung umfasst
+die Einhaltung der Bestimmungen zu
+
+1.  Entgelten nach Artikel 3 Absatz 1 der Verordnung sowie
+
+
+2.  Entgelten nach Artikel 4 Satz 1 der Verordnung.
+
+
+
+
+(2) Des Weiteren hat der Abschlussprüfer darzustellen, welche
+Maßnahmen das Institut ergriffen hat, um die in Absatz 1 genannten
+Anforderungen der Verordnung (EU) 2015/751 zu erfüllen.
+
+(3) Sofern die Durchführung interner Vorkehrungen durch das Institut
+vertraglich auf eine dritte Person oder ein anderes Unternehmen
+ausgelagert worden ist, hat der Abschlussprüfer hierüber zu berichten.
+
+
+#### § 16d Darstellung und Beurteilung der getroffenen Vorkehrungen zur Einhaltung der Pflichten nach dem Zahlungskontengesetz
+
+(1) Bei Zahlungsinstituten hat der Abschlussprüfer zu beurteilen, ob
+die von dem Zahlungsinstitut getroffenen internen Vorkehrungen den
+folgenden Anforderungen des Zahlungskontengesetzes entsprechen:
+
+1.  den Informationspflichten gemäß den §§ 5 bis 15 des
+    Zahlungskontengesetzes,
+
+
+2.  der Kontenwechselhilfe gemäß den §§ 20 bis 26 des
+    Zahlungskontengesetzes,
+
+
+3.  der Erleichterung grenzüberschreitender Kontoeröffnungen gemäß den §§
+    27 bis 29 des Zahlungskontengesetzes und
+
+
+4.  den institutsinternen Organisationspflichten gemäß § 46 Absatz 1 des
+    Zahlungskontengesetzes.
+
+
+
+
+(2) Der Abschlussprüfer hat darzustellen, welche Maßnahmen das
+Zahlungsinstitut ergriffen hat, um die in Absatz 1 genannten
+Anforderungen des Zahlungskontengesetzes zu erfüllen.
+
+(3) Sofern die Durchführung interner Vorkehrungen durch das
+Zahlungsinstitut vertraglich auf eine dritte Person oder ein anderes
+Unternehmen ausgelagert worden ist, hat der Abschlussprüfer hierüber
+zu berichten.
 
 
 ## Abschnitt 4 - Besondere Angaben zu Zahlungsdiensten
@@ -527,19 +658,31 @@ Prüfungsbericht beizufügen.
 
 ### § 24 Erstmalige Anwendung
 
-Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung
+(1) Die Bestimmungen dieser Verordnung sind erstmals auf die Prüfung
 anzuwenden, die das nach dem 31. Oktober 2008 beginnende Geschäftsjahr
 betrifft.
+
+(2) Die Anlage Position (7) Nummer 1 in der Fassung des
+Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S.
+1245) ist erstmals auf die Prüfung für nach dem 31. Dezember 2015
+beginnende Geschäftsjahre anzuwenden.
+
+(3) § 16c in der Fassung des Gesetzes zur Umsetzung der
+Transparenzrichtlinie-Änderungsrichtlinie vom 20. November 2015 (BGBl.
+I S. 2029) ist erstmals auf die Prüfung für nach dem 31. Dezember 2014
+beginnende Geschäftsjahre anzuwenden.
 
 
 ### § 25 Inkrafttreten
 
 Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
+(zu § 23)
 
-### Anlage (zu § 23) Datenübersicht für Zahlungsinstitute
+### Anlage Datenübersicht für Zahlungsinstitute
 
-(Fundstelle: BGBl. I 2009, 3654 - 3657)
+(Fundstelle: BGBl. I 2009, 3654 - 3657;
+bezüglich einzelner Änderungen vgl. Fußnote)
 Die angegebenen Beträge (kaufmännische Rundung) lauten auf Tsd. Euro
 (EUR);
 Prozentangaben sind mit einer Nachkommastelle anzugeben.
@@ -625,7 +768,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   b)
 
-    *[^f772651_01_BJNR364800009BJNE002800000]
+    *[^f772651_01_BJNR364800009BJNE002802118]
    Nettobetrag der Kursreserven
 
     *   302
@@ -694,7 +837,8 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
     *   Nicht realisierte Reserven in Grundstücken, grundstücksgleichen
         Rechten und Gebäuden (soweit sie als haftendes Eigenkapital
-        nach § 10 Abs. 2b Satz 1 Nr. 6 KWG berücksichtigt werden)
+        nach § 10 Abs. 2b Satz 1 Nr. 6 KWG in der bis zum 31. Dezember 2013
+        geltenden Fassung berücksichtigt werden)
 
     *   005
 
@@ -704,7 +848,8 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   7.
 
-    *   Beteiligungen gemäß § 10 Abs. 6 Satz 1 Nr. 5 KWG
+    *   Beteiligungen gemäß § 10 Abs. 6 Satz 1 Nr. 5 KWG in der bis zum 31.
+        Dezember 2013 geltenden Fassung
 
     *   402
 
@@ -817,7 +962,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   a)
 
-    *[^f772651_02_BJNR364800009BJNE002800000]
+    *[^f772651_02_BJNR364800009BJNE002802118]
    Zinserträge
 
     *   029
@@ -872,7 +1017,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   3.
 
-    *[^f772651_03_BJNR364800009BJNE002800000]
+    *[^f772651_03_BJNR364800009BJNE002802118]
    Provisionsergebnis
 
     *
@@ -936,7 +1081,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   b)
 
-    *[^f772651_04_BJNR364800009BJNE002800000]
+    *[^f772651_04_BJNR364800009BJNE002802118]
    aus Geschäften mit Devisen und Edelmetallen
 
     *   035
@@ -958,7 +1103,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   5.
 
-    *[^f772651_05_BJNR364800009BJNE002800000]
+    *[^f772651_05_BJNR364800009BJNE002802118]
    Ergebnis aus dem sonstigen nichtzinsabhängigen Geschäft
 
     *   037
@@ -989,7 +1134,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   a)
 
-    *[^f772651_06_BJNR364800009BJNE002800000]
+    *[^f772651_06_BJNR364800009BJNE002802118]
    Personalaufwand
 
     *   038
@@ -1001,7 +1146,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   b)
 
-    *[^f772651_07_BJNR364800009BJNE002800000]
+    *[^f772651_07_BJNR364800009BJNE002802118]
    andere Verwaltungsaufwendungen
 
     *   039
@@ -1035,7 +1180,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   b)
 
-    *[^f772651_08_BJNR364800009BJNE002800000]
+    *[^f772651_08_BJNR364800009BJNE002802118]
    andere sonstige und außerordentliche Erträge
 
     *   045
@@ -1060,7 +1205,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   d)
 
-    *[^f772651_09_BJNR364800009BJNE002800000]
+    *[^f772651_09_BJNR364800009BJNE002802118]
    andere sonstige und außerordentliche Aufwendungen
 
     *   047
@@ -1183,7 +1328,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
 *    *   (5)
 
-    *[^f772651_10_BJNR364800009BJNE002800000]
+    *[^f772651_10_BJNR364800009BJNE002802118]
    Daten zum Kreditgeschäft
 
     *
@@ -1224,7 +1369,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   3.
 
-    *[^f772651_11_BJNR364800009BJNE002800000]
+    *[^f772651_11_BJNR364800009BJNE002802118]
    Unversteuerte Pauschalwertberichtigungen
 
     *   080
@@ -1299,7 +1444,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   5.
 
-    *[^f772651_12_BJNR364800009BJNE002800000]
+    *[^f772651_12_BJNR364800009BJNE002802118]
    Rückstellungen im Kreditgeschäft
 
     *
@@ -1393,7 +1538,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
     *
     *   a)
 
-    *[^f772651_13_BJNR364800009BJNE002800000]
+    *[^f772651_13_BJNR364800009BJNE002802118]
    im Berichtsjahr
 
     *   091
@@ -1454,7 +1599,7 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 *    *
     *   1.
 
-    *   Abweichungen im Sinne des § 284 Abs. 2 Nr. 3 HGB
+    *   Abweichungen im Sinne des § 284 Absatz 2 Nummer 2 HGB
 
     *
     *
@@ -2023,40 +2168,40 @@ Prozentangaben sind mit einer Nachkommastelle anzugeben.
 
    Hier sind negative Ergebnisbeiträge aus den Sicherungsgeschäften mit
     den Kursreserven der gesicherten Aktiva zu verrechnen.
-[^f772651_01_BJNR364800009BJNE002800000]:     Einschließlich laufender Erträge aus Beteiligungen, Erträgen aus
+[^f772651_01_BJNR364800009BJNE002802118]:     Einschließlich laufender Erträge aus Beteiligungen, Erträgen aus
     Ergebnisabführungsverträgen und Leasinggebühren.
-[^f772651_02_BJNR364800009BJNE002800000]:     Hier sind auch die Erträge und Aufwendungen für durchlaufende Kredite
+[^f772651_02_BJNR364800009BJNE002802118]:     Hier sind auch die Erträge und Aufwendungen für durchlaufende Kredite
     zu erfassen.
-[^f772651_03_BJNR364800009BJNE002800000]:     Einschließlich der Gewinne und Verluste aus Devisentermingeschäften
+[^f772651_03_BJNR364800009BJNE002802118]:     Einschließlich der Gewinne und Verluste aus Devisentermingeschäften
     unabhängig davon, ob es sich um zins- oder kursbedingte Aufwendungen
     oder Erträge handelt.
-[^f772651_04_BJNR364800009BJNE002800000]:     Hier sind die Ergebnisse aus Warenverkehr und Nebenbetrieben sowie
+[^f772651_04_BJNR364800009BJNE002802118]:     Hier sind die Ergebnisse aus Warenverkehr und Nebenbetrieben sowie
     alle anderen ordentlichen Ergebnisse aus dem nichtzinsabhängigen
     Geschäft einzuordnen, die nicht unter Position (4) Nummer 3 oder 4
     fallen.
-[^f772651_05_BJNR364800009BJNE002800000]:     Einschließlich Aufwendungen für vertraglich vereinbarte feste
+[^f772651_05_BJNR364800009BJNE002802118]:     Einschließlich Aufwendungen für vertraglich vereinbarte feste
     Tätigkeitsvergütungen an die persönlich haftenden Gesellschafter.
     Aufwendungen für von fremden Arbeitgebern angemietete Arbeitskräfte
     sind dem anderen Verwaltungsaufwand zuzurechnen.
-[^f772651_06_BJNR364800009BJNE002800000]:     Hierunter fallen unter anderem Abschreibungen und Wertberichtigungen
+[^f772651_06_BJNR364800009BJNE002802118]:     Hierunter fallen unter anderem Abschreibungen und Wertberichtigungen
     auf Sachanlagen und immaterielle Anlagewerte, ausgenommen
     außerordentliche Abschreibungen. Zu erfassen sind hier auch alle
     Steuern mit Ausnahme der Steuern vom Einkommen und vom Ertrag.
-[^f772651_07_BJNR364800009BJNE002800000]:     Hier sind alle Erträge anzugeben, die nicht dem ordentlichen Geschäft
+[^f772651_07_BJNR364800009BJNE002802118]:     Hier sind alle Erträge anzugeben, die nicht dem ordentlichen Geschäft
     zuzuordnen sind und daher nicht in das Betriebsergebnis eingehen,
     nicht jedoch Erträge aus Verlustübernahmen und aus baren
     bilanzunwirksamen Ansprüchen.
-[^f772651_08_BJNR364800009BJNE002800000]:     Hier sind alle Aufwendungen anzugeben, die nicht dem ordentlichen
+[^f772651_08_BJNR364800009BJNE002802118]:     Hier sind alle Aufwendungen anzugeben, die nicht dem ordentlichen
     Geschäft zuzuordnen sind und daher nicht in das Betriebsergebnis
     eingehen, nicht jedoch Aufwendungen aus Gewinnabführungen.
-[^f772651_09_BJNR364800009BJNE002800000]:     Bei den Angaben zum Kreditgeschäft ist grundsätzlich der Kreditbegriff
+[^f772651_09_BJNR364800009BJNE002802118]:     Bei den Angaben zum Kreditgeschäft ist grundsätzlich der Kreditbegriff
     des § 19 KWG zugrunde zu legen. Derivate sind mit ihrem
     Kreditäquivalenzbetrag anzugeben, und zwar nach der jeweils von den
     Instituten angewandten Berechnungsmethode (vgl. §§ 9 bis 14 GroMiKV).
     Dabei ist von den Beträgen nach Abzug von Wertberichtigungen
     auszugehen.
-[^f772651_10_BJNR364800009BJNE002800000]:     Einschließlich der unter den Rückstellungen ausgewiesenen Beträge.
-[^f772651_11_BJNR364800009BJNE002800000]:     Soweit Pauschalwertberichtigungen als Rückstellungen ausgewiesen
+[^f772651_10_BJNR364800009BJNE002802118]:     Einschließlich der unter den Rückstellungen ausgewiesenen Beträge.
+[^f772651_11_BJNR364800009BJNE002802118]:     Soweit Pauschalwertberichtigungen als Rückstellungen ausgewiesen
     werden, sind sie unter Position (5) Nummer 8 anzugeben.
-[^f772651_12_BJNR364800009BJNE002800000]:     Nettoposition (erhaltene ./. zurückgezahlte).
-[^f772651_13_BJNR364800009BJNE002800000]: 
+[^f772651_12_BJNR364800009BJNE002802118]:     Nettoposition (erhaltene ./. zurückgezahlte).
+[^f772651_13_BJNR364800009BJNE002802118]: 

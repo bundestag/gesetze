@@ -312,8 +312,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 7)
 
-## Anlage (zu § 7) Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Fahrzeuginnenausstatter/zur Fahrzeuginnenausstatterin
 
 (Fundstelle: BGBl. I 2003, 1515 - 1520)
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1489
 
 Zuletzt geändert durch
-:   Art. 32 G v. 6.12.2011 I 2515
+:   Art. 2 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -173,10 +173,8 @@ Bundeswehrkrankenhauses abgeleistet werden.
 (2) Während der ganztägigen praktischen Ausbildung sollen die im
 vorhergehenden Studium erworbenen pharmazeutischen Kenntnisse
 vertieft, erweitert und praktisch angewendet werden. Zur Ausbildung
-gehören insbesondere die Entwicklung, Herstellung, Prüfung,
-Beurteilung und Abgabe von Arzneimitteln, die Sammlung, Bewertung und
-Vermittlung von Informationen, insbesondere über Arzneimittelrisiken,
-und die Beratung über Arzneimittel. Die Ausbildung umfasst auch
+gehören insbesondere die pharmazeutischen Tätigkeiten im Sinne des § 2
+Absatz 3 der Bundes-Apothekerordnung. Die Ausbildung umfasst auch
 Medizinprodukte, die in den Apotheken in den Verkehr gebracht werden.
 Die Ausbildung muß von einem Apotheker, der hauptberuflich in der
 Ausbildungsstätte tätig ist, geleitet werden; sofern sie an einem
@@ -934,22 +932,7 @@ Abs. 1a Satz 1 der Bundes-Apothekerordnung aufgeführten
 pharmazeutischen Diplome, Prüfungszeugnisse und sonstigen
 Befähigungsnachweise.
 
-(3) Hat der Antragsteller den Apothekerberuf im Herkunftsstaat bereits
-ausgeübt, so kann die für die Erteilung der Approbation als Apotheker
-zuständige Behörde bei der zuständigen Behörde des Herkunftsstaats
-Auskünfte über etwa gegen den Antragsteller verhängte Strafen oder
-sonstige berufs- oder strafrechtliche Maßnahmen wegen schwerwiegenden
-und genau bestimmten standeswidrigen Verhaltens oder strafbarer
-Handlungen, die die Ausübung des Berufs im Herkunftsstaat betreffen,
-einholen. Hat die für die Erteilung der Approbation als Apotheker
-zuständige Behörde in Fällen des Satzes 1 von Tatbeständen Kenntnis,
-die außerhalb des Geltungsbereichs der Bundes-Apothekerordnung
-eingetreten sind und im Hinblick auf die Voraussetzungen des § 4 Abs.
-1 Satz 1 Nr. 2 der Bundes-Apothekerordnung von Bedeutung sein können,
-so hat sie die zuständige Stelle des Herkunftsstaats zu unterrichten
-und sie zu bitten, diese Tatbestände zu überprüfen und ihr das
-Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
-ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
+(3) (weggefallen)
 
 (4) (weggefallen)
 
@@ -973,7 +956,7 @@ ausgestellt. Sie ist dem Antragsteller gegen Empfangsbekenntnis
 auszuhändigen oder mit Zustellungsurkunde zuzustellen.
 
 
-## Fünfter Abschnitt - Ergänzende Vorschriften, Übergangs- und Schlußbestimmungen
+## Fünfter Abschnitt - Ergänzende Vorschriften, Erlaubnis, Übergangs- und Schlussbestimmungen
 
 
 
@@ -1025,6 +1008,368 @@ erlangt haben, ist das Landesprüfungsamt des Landes zuständig, in dem
 der Antragsteller geboren ist. Ergibt sich hiernach keine
 Zuständigkeit, so ist das Landesprüfungsamt des Landes Hessen
 zuständig.
+
+
+### § 22a Erlaubnis nach § 11 Absatz 1 der Bundes-Apothekerordnung
+
+(1) Der Antrag auf Erteilung einer Erlaubnis zur vorübergehenden
+Ausübung des Apothekerberufs nach § 11 Absatz 1 der Bundes-
+Apothekerordnung ist an die nach § 12 Absatz 3 der Bundes-
+Apothekerordnung zuständige Behörde des Landes zu richten. Beantragt
+der Antragsteller erstmalig die Erteilung der Erlaubnis, hat er dem
+Antrag folgende Unterlagen beizufügen:
+
+1.  einen Identitätsnachweis,
+
+
+2.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
+    der ausgeübten Erwerbstätigkeiten,
+
+
+3.  eine amtlich beglaubigte Kopie der Bescheinigung über eine
+    abgeschlossene Ausbildung für den Beruf des Apothekers sowie
+    gegebenenfalls der Bescheinigung über die vom Antragsteller erworbene
+    Berufserfahrung,
+
+
+4.  eine Erklärung, wo und in welcher Weise der Antragsteller den
+    Apothekerberuf im Inland ausüben will,
+
+
+5.  soweit vorhanden, den Bescheid nach § 4 Absatz 3 Satz 2 der Bundes-
+    Apothekerordnung und die Niederschrift über die staatliche
+    Kenntnisprüfung nach § 22d Absatz 5,
+
+
+6.  die folgenden Unterlagen:
+
+    a)  ein amtliches inländisches Führungszeugnis,
+
+
+    b)  die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
+        ausgestellt wurden und belegen, dass der Antragsteller sich nicht
+        eines Verhaltens schuldig gemacht hat, aus dem sich seine Unwürdigkeit
+        oder Unzuverlässigkeit zur Ausübung des Apothekerberufs ergibt, oder,
+
+
+    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
+        ausgestellt werden, eine eidesstattliche Erklärung oder in den
+        Staaten, in denen es keine eidesstattliche Erklärung gibt, eine
+        feierliche Erklärung, die die betreffende Person im Herkunftsstaat
+        oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde
+        oder gegebenenfalls vor einem Notar oder einer entsprechend
+        bevollmächtigten Berufsorganisation, die eine diese eidesstattliche
+        oder feierliche Erklärung bestätigende Bescheinigung ausstellt,
+        abgegeben hat,
+
+
+
+
+
+7.  eine im Inland ausgestellte ärztliche Bescheinigung, aus der
+    hervorgeht, dass der Antragsteller nicht in gesundheitlicher Hinsicht
+    zur Ausübung des Berufs ungeeignet ist; soweit sich der Wohnsitz des
+    Antragstellers nicht im Inland befindet, kann ein entsprechender
+    Nachweis, der im Herkunftsstaat gefordert wird, anerkannt werden oder,
+    wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird, eine
+    von einer zuständigen Behörde des Herkunftsstaats ausgestellte
+    Bescheinigung,
+
+
+8.  soweit vorhanden, Nachweise über die Kenntnisse der deutschen Sprache,
+    die der zuständigen Behörde eine Beurteilung darüber erlauben, in
+    welchem Umfang der Antragsteller über die zur Ausübung des
+    Apothekerberufs erforderlichen Sprachkenntnisse verfügt.
+
+
+
+Die Nachweise nach Satz 2 Nummer 6 und 7 dürfen bei ihrer Vorlage
+nicht älter als drei Monate sein. Beantragt der Antragsteller die
+Verlängerung der Erlaubnis, hat er dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+sowie ein amtliches inländisches Führungszeugnis und eine im Inland
+ausgestellte ärztliche Bescheinigung, die bei ihrer Vorlage nicht
+älter als drei Monate sein dürfen, beizufügen. Haben die zuständigen
+Behörden berechtigte Zweifel an der Authentizität der in dem
+jeweiligen Herkunftsstaat ausgestellten Bescheinigungen und
+Ausbildungsnachweise, können sie von den zuständigen Behörden des
+Herkunftsstaats eine Bestätigung der Authentizität dieser
+Bescheinigungen und Nachweise verlangen. § 20 Absatz 2 gilt
+entsprechend.
+
+(2) Über den Antrag ist kurzfristig, spätestens drei Monate nach
+Vorlage der nach Absatz 1 vom Antragsteller vorzulegenden Unterlagen,
+zu entscheiden. Die zuständige Behörde bestätigt dem Antragsteller
+binnen eines Monats nach Eingang des Antrags den Antragseingang und
+den Empfang der Unterlagen und teilt ihm mit, welche Unterlagen
+fehlen. Ist zur Beurteilung der Frage, ob die vom Antragsteller nach
+Absatz 1 Satz 2 Nummer 3 vorgelegten Unterlagen den Abschluss der
+Ausbildung im Herkunftsstaat belegen, eine Auskunft von der
+Zentralstelle für ausländisches Bildungswesen oder von vergleichbaren
+Einrichtungen erforderlich, so teilt die Behörde dies dem
+Antragsteller ebenfalls mit. In den Fällen des Satzes 3 ist der Ablauf
+der Frist nach Satz 1 bis zum Vorliegen der Antwort auf die Anfrage
+der Behörde gehemmt. Gleiches gilt bis zum Vorliegen einer Bestätigung
+der Authentizität durch die Behörde des Herkunftsstaats gemäß Absatz 1
+Satz 5.
+
+(3) Die zuständige Behörde hat den Ausbildungsstand des Antragstellers
+einschließlich der nachgewiesenen einschlägigen Berufserfahrung bei
+der Entscheidung über die Erteilung der Erlaubnis zu berücksichtigen
+und prüft auf dieser Grundlage seine fachliche Eignung für die
+beabsichtigte pharmazeutische Tätigkeit. Soweit der Antragsteller
+bereits einen Antrag auf Erteilung der Approbation gestellt hat, zieht
+die zuständige Behörde die Feststellungen des Bescheides nach § 4
+Absatz 2 Satz 8 der Bundes-Apothekerordnung und, soweit vorhanden, die
+Niederschrift der staatlichen Kenntnisprüfung nach § 22d Absatz 5 bei.
+Ein bereits begonnenes oder noch nicht nach § 4 Absatz 3 der Bundes-
+Apothekerordnung mit einer Anerkennung abgeschlossenes
+Approbationsverfahren steht der Erteilung der Erlaubnis nicht
+entgegen.
+
+(4) Die zuständige Behörde versieht die Erlaubnis mit den
+Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
+Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes des
+Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
+gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. Wenn die Gefährdung der öffentlichen Gesundheit durch
+Einschränkungen und Nebenbestimmungen nicht ausgeschlossen werden
+kann, ist die Erlaubnis zu versagen. Die Erlaubnis ist ebenfalls zu
+versagen, wenn die Voraussetzungen nach § 4 Absatz 1 Nummer 2 der
+Bundes-Apothekerordnung nicht vorliegen.
+
+(5) Die Erlaubnis kann bei ihrer erstmaligen Erteilung nur dann auf
+weniger als zwei Jahre befristet werden, wenn im Einzelfall die mit
+der Erlaubnis versehenen Einschränkungen und Nebenbestimmungen oder
+die vom Antragsteller beabsichtigte Berufstätigkeit dies erfordern.
+
+(6) Soweit die Geltung der Erlaubnis auf ein Land beschränkt wird und
+die Tätigkeit einen Einsatz in mehr als einem Land erfordert, hat die
+zuständige Behörde die Erlaubnis mit dem Hinweis zu versehen, in
+welchen anderen Ländern die Erlaubnis gilt.
+
+(7) Die Erlaubnis zur vorübergehenden Ausübung des Apothekerberufs
+wird nach dem Muster der Anlage 17 zu dieser Verordnung ausgestellt.
+
+
+### § 22b Erlaubnis nach § 11 Absatz 1a der Bundes-Apothekerordnung
+
+(1) Der Antrag auf Erteilung zur vorübergehenden Ausübung des
+Apothekerberufs nach § 11 Absatz 1a der Bundes-Apothekerordnung ist an
+die nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständige Behörde
+des Landes zu richten. Beantragt der Antragsteller erstmals die
+Erteilung der Erlaubnis, hat er dem Antrag die folgenden Unterlagen
+beizufügen:
+
+1.  die Unterlagen, die in § 4 Absatz 6 Satz 1 Nummer 1, 1a, 2 und 3 bis 7
+    der Bundes-Apothekerordnung genannt sind, und
+
+
+2.  eine Erklärung, wo und in welcher Weise der Antragsteller den
+    Apothekerberuf im Inland ausüben will und inwiefern sich hieraus ein
+    besonderes Interesse an der Erteilung der Erlaubnis ergibt.
+
+
+
+Die Nachweise nach § 4 Absatz 6 Satz 1 Nummer 3 und 4 der Bundes-
+Apothekerordnung dürfen bei ihrer Vorlage nicht älter als drei Monate
+sein. Beantragt der Antragsteller die Verlängerung der Erlaubnis, hat
+er dem Antrag die zuletzt erteilte Erlaubnis, falls diese von einer
+anderen Behörde ausgestellt wurde, und die Unterlagen nach § 4 Absatz
+6 Satz 1 Nummer 3 und 4 der Bundes-Apothekerordnung, die bei ihrer
+Vorlage nicht älter als drei Monate sein dürfen, beizufügen. Haben die
+zuständigen Behörden berechtigte Zweifel an der Authentizität der in
+dem jeweiligen Herkunftsstaat ausgestellten Bescheinigungen und
+Ausbildungsnachweise, können sie von den zuständigen Behörden des
+Herkunftsstaats eine Bestätigung der Authentizität sowie eine
+Bestätigung darüber verlangen, dass der Antragsteller die
+Mindestanforderungen der Ausbildung erfüllt, die in Artikel 44 der
+Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7.
+September 2005 über die Anerkennung von Berufsqualifikationen (ABl. L
+255 vom 30.9.2005, S. 22, L 271 vom 16.10.2007, S. 18), die zuletzt
+durch die Verordnung (EU) Nr. 623/2012 (ABl. L 180 vom 12.7.2012, S.
+9) geändert worden ist, verlangt werden. § 20 Absatz 2 gilt
+entsprechend.
+
+(2) Ein besonderes Interesse im Sinne von § 11 Absatz 1a der Bundes-
+Apothekerordnung liegt insbesondere vor, wenn der Antragsteller
+
+1.  die Voraussetzungen nach § 4 Absatz 1 oder 2 der Bundes-
+    Apothekerordnung erfüllt und § 11a der Bundes-Apothekerordnung nicht
+    angewendet werden kann oder
+
+
+2.  die nach Absatz 1 Satz 2 Nummer 2 angestrebte pharmazeutische
+    Tätigkeit ausüben kann, obwohl er die Voraussetzungen nach § 4 Absatz
+    1 Satz 1 Nummer 3 oder Nummer 5 der Bundes-Apothekerordnung nicht
+    erfüllt.
+
+
+
+
+(3) Erfüllt der Antragsteller nicht die Voraussetzung des § 4 Absatz 1
+Satz 1 Nummer 4 der Bundes-Apothekerordnung und fällt der
+Antragsteller nicht unter § 4 Absatz 1a oder § 4 Absatz 1d der Bundes-
+Apothekerordnung, gilt § 22a Absatz 3 Satz 1 entsprechend.
+
+(4) Die zuständige Behörde versieht die Erlaubnis mit den
+Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
+Berücksichtigung des nach Absatz 3 bewerteten Kenntnisstandes des
+Antragstellers, seiner Kenntnisse der deutschen Sprache und seiner
+gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. § 22a Absatz 2, 4 Satz 2 und 3, Absatz 5 bis 7 gilt
+entsprechend.
+
+
+### § 22c Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-Apothekerordnung
+
+(1) Die Eignungsprüfung nach § 4 Absatz 2 Satz 7 der Bundes-
+Apothekerordnung bezieht sich auf die Fächer, in denen die zuständige
+Behörde wesentliche Unterschiede nach § 4 Absatz 2 Satz 8 der Bundes-
+Apothekerordnung festgestellt hat. In der Eignungsprüfung hat der
+Antragsteller nachzuweisen, dass er in diesen Fächern über die
+Kenntnisse und Fähigkeiten, auch in der apothekerlichen
+Gesprächsführung, verfügt, die zur Ausübung des Apothekerberufs
+erforderlich sind.
+
+(2) Die Eignungsprüfung ist eine mündliche Prüfung, die an einem Tag
+stattfindet. Die Prüfung wird in der Regel als Einzelprüfung
+durchgeführt. Soweit es die zu prüfenden Fächer zulassen, können bis
+zu vier Antragsteller gleichzeitig geprüft werden. Die Dauer der
+Prüfung ist abhängig vom Umfang der festgestellten wesentlichen
+Unterschiede. Sie dauert für jeden Antragsteller mindestens 30,
+höchstens 60 Minuten.
+
+(3) Die Länder können zur Durchführung der Prüfungen die regulären
+Prüfungstermine der staatlichen Prüfungen nach § 12 Absatz 1 Satz 3
+nutzen; sie haben dabei sicherzustellen, dass die Antragsteller die
+Prüfungen innerhalb von sechs Monaten nach der Entscheidung nach § 4
+Absatz 2 Satz 8 der Bundes-Apothekerordnung ablegen können. Die nach §
+12 Absatz 2 der Bundes-Apothekerordnung zuständige Behörde des Landes
+stellt dem Antragsteller die Ladung zur Eignungsprüfung spätestens
+sieben Tage vor dem Prüfungstermin zu. § 13 gilt entsprechend.
+
+(4) Die Eignungsprüfung wird in Form einer staatlichen Prüfung vor
+einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
+Die Prüfungskommission wird von der nach § 12 Absatz 2 der Bundes-
+Apothekerordnung zuständigen Behörde des Landes bestellt. Die
+Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei,
+höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die
+weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende,
+weitere Mitglieder und Stellvertreter werden Professoren oder andere
+Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt.
+Stattdessen können als Mitglieder der Prüfungskommission auch dem
+Lehrkörper einer Universität nicht angehörende Apotheker bestellt
+werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und
+muss auch selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie §
+14 gelten entsprechend.
+
+(5) Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn die
+Prüfungskommission die Leistungen in den in Absatz 1 genannten Fächern
+jeweils als bestanden bewertet. Das Bestehen der Prüfung setzt
+mindestens voraus, dass die Leistung trotz ihrer Mängel noch den
+Anforderungen genügt. § 11 Absatz 3 gilt entsprechend.
+
+(6) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten
+werden. Sie kann in jedem Fach jeweils zweimal wiederholt werden. Über
+den Verlauf der Prüfung jedes Antragstellers ist eine von allen
+Mitgliedern der Prüfungskommission zu unterzeichnende Niederschrift
+nach dem Muster der Anlage 18 zu dieser Verordnung anzufertigen, aus
+der der Gegenstand der Prüfung, das Bestehen oder Nichtbestehen der
+Prüfung, die hierfür tragenden Gründe sowie etwa vorkommende schwere
+Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der
+Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 2 der
+Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
+
+
+### § 22d Kenntnisprüfung nach § 4 Absatz 3 Satz 3 der Bundes-Apothekerordnung
+
+(1) Die Kenntnisprüfung bezieht sich auf die Fächer Pharmazeutische
+Praxis und Spezielle Rechtsgebiete für Apotheker sowie auf eines der
+Fächer, in denen die zuständige Behörde wesentliche Unterschiede nach
+§ 4 Absatz 2 Satz 8 der Bundes-Apothekerordnung festgestellt hat und
+das von der nach § 12 Absatz 3 der Bundes-Apothekerordnung zuständigen
+Behörde des Landes festgelegt wird. In der Prüfung hat der
+Antragsteller zu zeigen, dass er über Kenntnisse und Fähigkeiten, auch
+in der apothekerlichen Gesprächsführung, verfügt, die zur Ausübung des
+Apothekerberufs erforderlich sind.
+
+(2) Die Kenntnisprüfung ist eine mündliche Prüfung, die an einem Tag
+stattfindet. Die Prüfung wird in der Regel als Einzelprüfung
+durchgeführt. Soweit es die zu prüfenden Fächer zulassen, können bis
+zu vier Antragsteller gleichzeitig geprüft werden. Die Dauer der
+Prüfung ist abhängig vom Umfang der festgestellten wesentlichen
+Unterschiede. Sie dauert für jeden Antragsteller mindestens 30,
+höchstens 60 Minuten.
+
+(3) Die Länder können zur Durchführung der Prüfungen die regulären
+Prüfungstermine der staatlichen Prüfungen nach § 12 Absatz 1 Satz 3
+nutzen. Die nach § 12 Absatz 2 der Bundes-Apothekerordnung zuständige
+Behörde des Landes stellt dem Antragsteller die Ladung zur
+Kenntnisprüfung spätestens sieben Tage vor dem Prüfungstermin zu. § 13
+gilt entsprechend.
+
+(4) Die Kenntnisprüfung wird in Form einer staatlichen Prüfung vor
+einer staatlichen Prüfungskommission in deutscher Sprache abgelegt.
+Die Prüfungskommission wird von der nach § 12 Absatz 3 der Bundes-
+Apothekerordnung zuständigen Behörde des Landes bestellt. Die
+Prüfungskommission besteht aus dem Vorsitzenden und mindestens zwei,
+höchstens vier weiteren Mitgliedern. Für den Vorsitzenden und die
+weiteren Mitglieder sind Stellvertreter zu bestellen. Als Vorsitzende,
+weitere Mitglieder und Stellvertreter werden Professoren oder andere
+Lehrkräfte der Fächer, die Gegenstand der Prüfung sind, bestellt.
+Stattdessen können als Mitglieder der Prüfungskommission auch dem
+Lehrkörper einer Universität nicht angehörende Apotheker bestellt
+werden. Der Vorsitzende der Prüfungskommission leitet die Prüfung und
+muss selbst prüfen. § 11 Absatz 3, 5 Satz 1 und Absatz 6 sowie § 14
+gelten entsprechend.
+
+(5) Die Kenntnisprüfung ist erfolgreich abgeschlossen, wenn die
+Prüfungskommission in einer Gesamtbetrachtung die Leistungen in den in
+Absatz 1 genannten Fächern als bestanden bewertet. Das Bestehen der
+Prüfung setzt mindestens voraus, dass die Leistung trotz ihrer Mängel
+noch den Anforderungen genügt. § 11 Absatz 3 gilt entsprechend.
+
+(6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden. Sie kann zweimal wiederholt werden. Über den Verlauf der
+Prüfung jedes Antragstellers ist eine von allen Mitgliedern der
+Prüfungskommission zu unterzeichnende Niederschrift nach dem Muster
+der Anlage 19 zu dieser Verordnung anzufertigen, aus der der
+Gegenstand der Prüfung, das Bestehen oder Nichtbestehen der Prüfung,
+die hierfür tragenden Gründe sowie etwa vorkommende schwere
+Unregelmäßigkeiten ersichtlich sind. Der Vorsitzende der
+Prüfungskommission leitet die Niederschrift der nach § 12 Absatz 2 der
+Bundes-Apothekerordnung zuständigen Behörde des Landes zu.
+
+
+### § 22e Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-Apothekerordnung
+
+Der Bescheid nach § 4 Absatz 2 Satz 8 und Absatz 3 Satz 2 der Bundes-
+Apothekerordnung enthält folgende Angaben:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellerinnen und Antragstellern vorgelegten
+    Qualifikation gemäß der Klassifizierung in Artikel 11 der Richtlinie
+    2005/36/EG in der jeweils geltenden Fassung,
+
+
+2.  die Fächer, bei denen wesentliche Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass der Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des
+    Apothekerberufs notwendigen Kenntnisse und Fähigkeiten verfügt, und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden können, die der
+    Antragsteller im Rahmen seiner Berufspraxis als Apotheker oder durch
+    lebenslanges Lernen im Sinne des § 4 Absatz 2 Satz 5 der Bundes-
+    Apothekerordnung erworben hat.
+
+
+
 
 
 ### § 23 Übergangsvorschriften
@@ -1092,8 +1437,9 @@ Diese Verordnung tritt am 1. Oktober 1989 in Kraft.
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Jugend, Familie, Frauen und Gesundheit
 
+(zu § 2 Abs. 2)
 
-### Anlage 1 (zu § 2 Abs. 2) Stoffgebiete des Studiums der Pharmazie
+### Anlage 1 Stoffgebiete des Studiums der Pharmazie
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1716 - 1718
 
@@ -1249,8 +1595,9 @@ Eine Bescheinigung über die erfolgreiche und regelmäßige Teilnahme;
 Seminarveranstaltungen im Block K finden in Form von Hauptseminaren
 statt.
 
+(zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3)
 
-### Anlage 2 (zu § 6 Abs. 3 Nr. 5 und Abs. 4 Nr. 3) Bescheinigung
+### Anlage 2 Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1267,8 +1614,9 @@ Siegel                    .........., den .......................
 (Unterschrift des verantwortlichen
 Professors/Dozenten)
 
+(zu § 6 Abs. 4 Nr. 4)
 
-### Anlage 3 (zu § 6 Abs. 4 Nr. 4) Bescheinigung
+### Anlage 3 Bescheinigung
 
 (Fundstelle des Originaltextes: BGBl. I 2000, 1719)
 über die Teilnahme an der Veranstaltung .............................
@@ -1290,8 +1638,9 @@ Professors/Dozenten)
 
 (weggefallen)
 
+(zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3)
 
-### Anlage 5 (zu § 4 Abs. 3 Satz 3, § 6 Abs. 5 Nr. 2 und Abs. 6 Satz 3) Bescheinigung über die praktische Ausbildung
+### Anlage 5 Bescheinigung über die praktische Ausbildung
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
 Herr/Frau........................... ist in der Zeit vom
@@ -1316,8 +1665,9 @@ Verantwortlichen)
 ----------
 \*) Nichtzutreffendes streichen.
 
+(zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3)
 
-### Anlage 6 (zu § 4 Abs. 4 Satz 3 und § 6 Abs. 5 Nr. 3) Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
+### Anlage 6 Bescheinigung über die Teilnahme an den begleitenden Unterrichtsveranstaltungen nach § 4 Abs. 4 der Approbationsordnung für Apotheker
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1500)
 Herr/Frau
@@ -1332,8 +1682,9 @@ Siegel/Stempel
 .....................................
 (Unterschrift)
 
+(zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3)
 
-### Anlage 7 (zu § 3 Abs. 2 Satz 4 und § 6 Abs. 3 Nr. 3) Bescheinigung über die Tätigkeit als Famulus
+### Anlage 7 Bescheinigung über die Tätigkeit als Famulus
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1501)
 Herr/Frau
@@ -1358,8 +1709,9 @@ Apothekers)
 --------
 \*) Nichtzutreffendes streichen.
 
+(zu § 4 Abs. 4 Satz 1)
 
-### Anlage 8 (zu § 4 Abs. 4 Satz 1) Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
+### Anlage 8 Stoffgebiete, die während der praktischen Ausbildung gelehrt werden
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1720
 
@@ -1421,8 +1773,9 @@ und Gemeinden sowie auf internationaler Ebene;
 Pharmazeutische Organisationen und Einrichtungen;
 Einführung in die Sozialgesetzgebung und das Sozialversicherungswesen.
 
+(zu § 11 Abs. 6 Satz 1)
 
-### Anlage 9 (zu § 11 Abs. 6 Satz 1) Niederschrift über die mündliche Prüfung im Zweiten/Dritten Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
+### Anlage 9 Niederschrift über die mündliche Prüfung im Zweiten/Dritten \*) Abschnitt der Pharmazeutischen Prüfung in dem Fach .......................
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1503;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1520,8 +1873,9 @@ der ausstellenden Behörde
 .....................................
 (Unterschrift)
 
+(zu § 17 Abs. 2 Satz 3)
 
-### Anlage 12 (zu § 17 Abs. 2 Satz 3) Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
+### Anlage 12 Anzahl und Verteilung der Prüfungsfragen in den einzelnen Fächern des Ersten Prüfungsabschnitts
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -1556,8 +1910,9 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 
 
+(zu § 17 Abs. 3)
 
-### Anlage 13 (zu § 17 Abs. 3) Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 13 Prüfungsstoff des Ersten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
@@ -1644,8 +1999,9 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1721
 
 
 
+(zu § 18 Abs. 3)
 
-### Anlage 14 (zu § 18 Abs. 3) Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 14 Prüfungsstoff des Zweiten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
@@ -1818,8 +2174,9 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1722 - 1723
 
 
 
+(zu § 19 Abs. 3)
 
-### Anlage 15 (zu § 19 Abs. 3) Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
+### Anlage 15 Prüfungsstoff des Dritten Abschnitts der Pharmazeutischen Prüfung
 
 Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
@@ -1908,8 +2265,9 @@ Fundstelle des Originaltextes: BGBl. I 2000, 1724
 
 
 
+(zu § 21 Satz 1)
 
-### Anlage 16 (zu § 21 Satz 1) Approbationsurkunde
+### Anlage 16 Approbationsurkunde
 
 (Fundstelle des Originaltextes: BGBl. I 1989, 1508)
 Herrn/Frau ........................, geboren am
@@ -1924,4 +2282,347 @@ erteilt.
 Siegel
 .....................................
 (Unterschrift)
+
+(zu § 22a Absatz 7)
+
+### Anlage 17 Erlaubnis nach § 11 Absatz 1 oder Absatz 1a der Bundes-Apothekerordnung
+
+
+*    *   Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . .
+
+
+*    *   (Vorname, Familienname – gegebenenfalls abweichender Geburtsname)
+
+
+*    *   geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . .
+
+
+*    *   wird gemäß § 11 Absatz 1/1a der Bundes-Apothekerordnung die Erlaubnis
+        zur vorübergehenden Ausübung des
+        Apothekerberufs in/an . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . .
+
+
+*    *   für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   bis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . widerruflich erteilt.
+
+
+*    *   Beschränkungen und Nebenbestimmungen:
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   Die Erlaubnis umfasst zudem die Tätigkeit im Land . . . . . . . . . .
+        /in den Ländern . . . . . . . . . . /bundesweite
+[^F781546_01_BJNR014890989BJNE005500116]
+        Tätigkeit
+        als . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Siegel
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , den . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift)
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR014890989BJNE005500116]: 
+(zu § 22c Absatz 6)
+
+### Anlage 18 Niederschrift über die staatliche Eignungsprüfung nach § 22c der Approbationsordnung für Apotheker
+
+
+*    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . .
+
+
+*    *   geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        .
+
+
+*    *   ist am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . geprüft worden.
+
+
+*    *   Beginn und Ende der Einzel-/Gruppenprüfung: . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Er/Sie hat die staatliche Eignungsprüfung bestanden/nicht bestanden.
+
+
+*    *   Tragende Gründe: . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . .
+
+
+*    *   Mitglieder der Prüfungskommission nach § 22c Absatz 4 der
+        Approbationsordnung für Apotheker:
+
+
+*    *   Als Vorsitzende(r) . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . .
+
+    *
+
+*    *   Als weitere Mitglieder
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Gegenstand der Prüfung: . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
+
+
+*    *   Sonstige Bemerkungen: . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . , den
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder
+        der Prüfungskommission)
+
+    *   (Unterschrift des/der Vorsitzenden der Prüfungskommission)
+
+
+
+(zu § 22d Absatz 6)
+
+### Anlage 19 Niederschrift über die staatliche Kenntnisprüfung nach § 22d der Approbationsordnung für Apotheker
+
+
+*    *   Herr/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . .
+
+
+*    *   geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        .
+
+
+*    *   ist am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . geprüft worden.
+
+
+*    *   Beginn und Ende der Einzel-/Gruppenprüfung: . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Er/Sie hat die staatliche Eignungsprüfung bestanden/nicht bestanden.
+
+
+*    *   Tragende Gründe: . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . .
+
+
+*    *   Mitglieder der Prüfungskommission nach § 22d Absatz 3 der
+        Approbationsordnung für Apotheker:
+
+
+*    *   Als Vorsitzende(r) . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . .
+
+    *
+
+*    *   Als weitere Mitglieder
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Gegenstand der Prüfung: . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   (Inhalt und Prüfungsablauf sind stichwortartig wiederzugeben.)
+
+
+*    *   Sonstige Bemerkungen: . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . , den
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   (Unterschrift/en des weiteren Mitglieds/der weiteren Mitglieder
+        der Prüfungskommission)
+
+    *   (Unterschrift des/der Vorsitzenden der Prüfungskommission)
+
+
 

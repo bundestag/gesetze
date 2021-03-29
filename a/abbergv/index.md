@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1466
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 5 G v. 24.2.2012 I 212
+:   Art. 4 V v. 18.10.2017 I 3584
 
 Diese Verordnung dient für den Bereich des Bergrechts der Umsetzung
 folgender EG-Richtlinien:
@@ -106,7 +106,9 @@ den Umweltschutz bei
 
 
 auf dem Festland sowie im Bereich des Festlandsockels und der
-Küstengewässer.
+Küstengewässer. Die §§ 2 bis 22 und 23 sind auch für Anlagen zur
+Lagerung, Sicherstellung und Endlagerung radioaktiver Stoffe nach §
+126 Absatz 3 des Bundesberggesetzes anzuwenden.
 
 
 ## § 2 Allgemeine Pflichten
@@ -222,9 +224,8 @@ Informationen erhalten.
 (1) Der Unternehmer hat dafür zu sorgen, daß als Maßnahme nach § 2
 Abs. 1 Satz 1 und 2 ein Dokument über Sicherheit und Gesundheitsschutz
 (Sicherheits- und Gesundheitsschutzdokument) nach Maßgabe der Sätze 3
-und 5, einschließlich der zusätzlichen Anforderungen des Anhangs 3 Nr.
-1\.1.1 bis 1.1.4, vor Aufnahme der Arbeit erstellt wird. Zur Erstellung
-des Sicherheits- und Gesundheitsschutzdokuments können auch andere im
+und 5 vor Aufnahme der Arbeit erstellt wird. Zur Erstellung des
+Sicherheits- und Gesundheitsschutzdokuments können auch andere im
 Betrieb vorhandene Unterlagen verwendet werden. In dem Sicherheits-
 und Gesundheitsschutzdokument hat der Unternehmer darzulegen, daß
 unter Berücksichtigung der in Betracht kommenden Umstände und der
@@ -720,7 +721,10 @@ bei gelegentlich belegten Arbeitsstätten auf die Zeit beschränkt, in
 der Beschäftigte anwesend sind.
 
 (8) Für den Bereich des Festlandsockels und der Küstengewässer gelten
-zusätzlich die Anforderungen des Anhangs 3.
+zusätzlich für Arbeitsstätten nach Absatz 1 Nummer 1 die Anforderungen
+der Offshore-Bergverordnung vom 3. August 2016 (BGBl. I S. 1866) und
+für Arbeitsstätten nach Absatz 1 Nummer 2 die Anforderungen des
+Anhangs 3.
 
 
 ## § 14 Arbeitsstätten zur übertägigen Aufsuchung, Gewinnung und Aufbereitung, Wiedernutzbarmachung
@@ -1086,8 +1090,11 @@ Anwendungsfall zu bewerten.
 (3) Der Unternehmer darf nur persönliche Schutzausrüstungen
 bereitstellen,
 
-1.  die den Anforderungen der Verordnung über das Inverkehrbringen von
-    persönlichen Schutzausrüstungen entsprechen und
+1.  die den Anforderungen der Achte Verordnung zum
+    Produktsicherheitsgesetz (Verordnung über die Bereitstellung von
+    persönlichen Schutzausrüstungen auf dem Markt) in der Fassung der
+    Bekanntmachung vom 20. Februar 1997 (BGBl. I S. 316) in der jeweils
+    geltenden Fassung entsprechen und
 
 
 2.  deren Eignung durch die Bewertung nach Absatz 2 Satz 2 festgestellt
@@ -1152,14 +1159,19 @@ spätestens bis zum 24. Dezember 1996 den Mindestvorschriften nach
 Absatz 1 Satz 2 entsprechen.
 
 
-## § 20 Präventivmedizinische Überwachung
+## § 20 Präventivmedizinische Überwachung, ärztliche Untersuchungen
 
 Der Unternehmer hat zu gewährleisten, daß die Gesundheit der
 Beschäftigten in Abhängigkeit von den Sicherheits- und
 Gesundheitsrisiken am Arbeitsplatz in geeigneter Weise überwacht wird.
-Für die arbeitsmedizinischen Vorsorgeuntersuchungen sind die §§ 2 und
-3 der Gesundheitsschutz-Bergverordnung oder die §§ 2 und 18 Abs. 1 der
-Festlandsockel-Bergverordnung maßgebend.
+Für die ärztlichen Untersuchungen sind die §§ 2 bis 6 der
+Gesundheitsschutz-Bergverordnung oder § 16 Absatz 2 und 3 und § 23
+Absatz 3 Nummer 2, Absatz 4 Nummer 2 und Absatz 5 der Offshore-
+Bergverordnung vom 3. August 2016 (BGBl. I S. 1866), sowie ergänzend
+die Regelungen der Verordnung zur arbeitsmedizinischen Vorsorge vom
+18\. Dezember 2008 (BGBl. I S. 2768), die zuletzt durch Artikel 1 der
+Verordnung vom 23. Oktober 2013 (BGBl. I S. 3882) geändert worden ist,
+maßgebend.
 
 
 ## § 21 Pflichten der Beschäftigten
@@ -1405,11 +1417,249 @@ Anforderungen gemäß Anhang 6 Nr. 2 und 3 sind einzuhalten.
 
 
 
+## § 22b Anforderungen an die Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
+
+Bei der Aufsuchung und Gewinnung von Erdgas, Erdöl und Erdwärme
+einschließlich des Aufbrechens von Gestein unter hydraulischem Druck
+und den sonstigen damit in betrieblichem Zusammenhang stehenden
+Tätigkeiten hat der Unternehmer insbesondere
+
+1.  den Stand der Technik einzuhalten,
+
+
+2.  die Integrität des Bohrlochs nach dem Stand der Technik
+    sicherzustellen und regelmäßig zu überwachen,
+
+
+3.  die in der Produktionsphase aus der Lagerstätte nach über Tage
+    geförderte Flüssigkeit geogenen Ursprungs (Lagerstättenwasser) und die
+    nach über Tage zurückgeförderte Flüssigkeit, die zum Aufbrechen der
+    Gesteine mit hydraulischem Druck eingesetzt worden ist (Rückfluss),
+    nach dem Stand der Technik regelmäßig zu überwachen,
+
+
+4.[^F795105_03_BJNR146600995BJNE003800123]
+  in Gebieten der Erdbebenzonen 1 bis 3 (DIN EN 1998 Teil 1, Stand
+    Januar 2011
+    ) ein seismologisches Basisgutachten erstellen zu lassen, Maßnahmen
+    für einen kontrollierten Betrieb zu ergreifen und den Betrieb
+    regelmäßig nach dem Stand der Technik zu überwachen; die zuständige
+    Behörde kann dies, soweit erforderlich, auch bei Tätigkeiten in
+    Gebieten verlangen, in denen seismische Ereignisse aufgetreten sind,
+    die mit hoher Wahrscheinlichkeit auf die Aufsuchung oder Gewinnung von
+    Bodenschätzen zurückzuführen sind, und
+
+
+5.  Maßnahmen nach dem Stand der Technik zu ergreifen, um Daten über die
+    Freisetzung von Methan und andere Emissionen in allen Phasen der
+    Gewinnung sowie der Entsorgung von Lagerstättenwasser und Rückfluss zu
+    erheben.
+
+
+
+
+Satz 1 Nummer 5 ist nicht für die Aufsuchung und Gewinnung von
+Erdwärme anzuwenden. Die Vorschriften des Bundes-
+Immissionsschutzgesetzes sowie der darauf beruhenden Vorschriften
+bleiben unberührt. Betriebsanlagen und Betriebseinrichtungen, die
+aufgrund eines genehmigten Betriebsplans errichtet wurden, sind auf
+Anordnung der zuständigen Behörde dem Stand der Technik anzupassen,
+sofern dies aus Gründen der Vorsorge gegen Gefahren für Leben oder
+Gesundheit oder zum Schutz von Sachgütern, Beschäftigten oder Dritten
+im Betrieb oder der Umwelt erforderlich ist.
+
+    Amtlicher Hinweis: Zu beziehen bei der Beuth Verlag GmbH, 10772
+    Berlin, und in der Deutschen Nationalbibliothek archivmäßig gesichert
+    niedergelegt.
+[^F795105_03_BJNR146600995BJNE003800123]: 
+
+## § 22c Anforderungen an den Umgang mit Lagerstättenwasser und Rückfluss bei der Aufsuchung und Gewinnung von Erdöl und Erdgas
+
+(1) Bei der Aufsuchung und Gewinnung von Erdgas und Erdöl hat der
+Unternehmer das Lagerstättenwasser aufzufangen. Der Unternehmer hat
+Umweltgefährdungen bei Transport und Zwischenlagerung des
+Lagerstättenwassers und seismologischen Gefährdungen bei
+Versenkbohrungen durch geeignete Maßnahmen vorzubeugen. Die
+untertägige Einbringung des Lagerstättenwassers ist nicht zulässig, es
+sei denn, der Unternehmer bringt das Lagerstättenwasser in
+druckabgesenkte kohlenwasserstoffhaltige Gesteinsformationen ein,
+
+1.  die in Fällen der Ablagerung gewährleisten, dass das
+    Lagerstättenwasser sicher eingeschlossen ist, oder
+
+
+2.  in denen das Lagerstättenwasser, sofern es nicht abgelagert wird,
+    sicher gespeichert ist und ohne die Möglichkeit zu entweichen erneut
+    nach über Tage gefördert werden kann.
+
+
+
+
+Eine nachteilige Veränderung des Grundwassers darf hierdurch nicht zu
+besorgen sein. Der Unternehmer hat nicht unter Tage eingebrachtes
+Lagerstättenwasser als Abfall zu entsorgen oder als Abwasser zu
+beseitigen. Im Fall des
+untertägigen Einbringens nach Satz 3 kann die zuständige Behörde
+festlegen, ob aufgrund der Zusammensetzung des Lagerstättenwassers und
+der Beschaffenheit der Gesteinsformation, in die das
+Lagerstättenwasser eingebracht werden soll, vor dem Einbringen unter
+Tage eine Aufbereitung des Lagerstättenwassers nach dem Stand der
+Technik erforderlich ist und welche Maßnahmen der Unternehmer hierzu
+vorzunehmen hat.
+
+(2) Bei der Aufsuchung und Gewinnung von Erdgas und Erdöl durch
+Aufbrechen von Gesteinen unter hydraulischem Druck hat der Unternehmer
+Rückfluss und Lagerstättenwasser getrennt in geschlossenen und dichten
+Behältnissen aufzufangen. Lagerstättenwasser darf bis zu einem Anteil
+von 0,1 Prozent wassergefährdende Stoffe aus der zum Aufbrechen des
+Gesteins eingesetzten Flüssigkeit enthalten. Für Lagerstättenwasser
+ist Absatz 1 anzuwenden. Der Unternehmer hat Umweltgefährdungen bei
+Transport und Zwischenlagerung des Rückflusses durch geeignete
+Maßnahmen vorzubeugen. Der Unternehmer hat den Rückfluss vorrangig
+wiederzuverwenden und, soweit er nicht wiederverwendet wird, als
+Abfall zu entsorgen oder als Abwasser zu beseitigen. Die untertägige
+Einbringung des Rückflusses ist nicht zulässig.
+
+(3) Bei allen Tätigkeiten nach den Absätzen 1 und 2 ist der Stand der
+Technik einzuhalten.
+
+(4) Für Vorhaben, für die vor dem 11. Februar 2017 ein bestandskräftig
+zugelassener Betriebsplan vorgelegen hat, gilt das Verbot der
+untertägigen Einbringung von Lagerstättenwasser in bestimmte
+Gesteinsformationen nach Absatz 1 Satz 3 ab dem 11. Februar 2022, wenn
+der Anlagenbetreiber spätestens bis zum 11. Februar 2019 grundsätzlich
+zulassungsfähige Anträge für die erforderlichen Zulassungen für eine
+anderweitige Entsorgung des Lagerstättenwassers (Entsorgungskonzept)
+nach § 104a Absatz 2 Satz 1 und 2 des Wasserhaushaltsgesetzes vorlegt
+und die zuständige Behörde die grundsätzliche Zulassungsfähigkeit der
+Anträge bestätigt. Andernfalls gilt das Verbot nach Absatz 1 Satz 3
+für Vorhaben nach Satz 1 ab dem 11. Februar 2020.
+
+
 ## § 23 Übertragung der Verantwortlichkeit
 
 Der Unternehmer kann die Pflichten, die sich für ihn aus dieser
 Verordnung ergeben, ganz oder teilweise auf verantwortliche Personen
 übertragen.
+
+
+## § 23a Anerkennung von Sachverständigen
+
+(1) Ein Sachverständiger, der Aufgaben nach einer Bergverordnung
+wahrnimmt, die auf Grund des § 68 Absatz 1 oder 2 des
+Bundesberggesetzes erlassen oder die nach § 176 Absatz 3 des
+Bundesberggesetzes aufrechterhalten wurde, und dessen Tätigkeit nach
+einer solchen Verordnung einer Anerkennung durch die zuständige
+Behörde bedarf, ist vorbehaltlich anderer Vorschriften auf Grund
+seines Antrags von der zuständigen Behörde anzuerkennen, wenn er die
+erforderliche Zuverlässigkeit, besondere fachliche Kompetenz,
+Leistungsfähigkeit und Unabhängigkeit nachgewiesen hat. Dies setzt
+insbesondere voraus,
+
+1.  dass keine Tatsachen bekannt sind, die den Sachverständigen für die
+    Tätigkeit als unzuverlässig erscheinen lassen,
+
+
+2.  dass der Sachverständige
+
+    a)  für die vorgesehene Sachverständigentätigkeit geistig und körperlich
+        geeignet ist,
+
+
+    b)  eine in der Europäischen Union oder im Europäischen Wirtschaftsraum
+        anerkannte Abschlussprüfung in der für seine Sachverständigentätigkeit
+        maßgeblichen Fachrichtung an einer Universität, Technischen
+        Hochschule, Technischen Fachhochschule oder Technikerschule
+        erfolgreich abgelegt, oder in anderer Weise, insbesondere durch eine
+        einschlägige, als gleichwertig anerkannte Berufsausbildung, eine
+        vergleichbare überdurchschnittliche Fachkunde erworben hat,
+
+
+    c)  die besondere fachliche Qualifikation für die konkret vorzunehmenden
+        Tätigkeiten einschließlich der Kenntnisse der maßgeblichen Regeln der
+        Technik und der einschlägigen Rechtsvorschriften nachgewiesen hat,
+
+
+
+
+
+3.  dass der Sachverständige über die zur Ausübung der Tätigkeit als
+    Sachverständiger erforderlichen Einrichtungen sowie, sofern
+    erforderlich, über angemessen qualifiziertes und erfahrenes Personal
+    verfügt und
+
+
+4.  dass der Sachverständige die Gewähr für unparteiisches und
+    unabhängiges Wirken sowie für die Einhaltung der Pflichten eines
+    anerkannten Sachverständigen bietet; der Sachverständige muss im Falle
+    der Durchführung von Prüfungen insbesondere unabhängig sein von dem
+    Management, das in irgendeiner Weise für einen Teil oder Aspekt
+    zuständig ist oder war, der Gegenstand der Prüfungen durch den
+    Sachverständigen sein soll.
+
+
+
+Die Eignung und besondere fachliche Qualifikation nach Satz 2 Nummer 2
+Buchstabe a und c kann im Rahmen einer Prüfung oder eines
+Fachgesprächs unter Beteiligung von hierfür geeigneten Fachleuten
+überprüft werden. Der Nachweis der besonderen fachlichen Qualifikation
+nach Satz 2 Nummer 2 Buchstabe c erfordert in der Regel den Nachweis
+einer mindestens fünfjährigen praktischen Tätigkeit in dem
+maßgeblichen Fachgebiet. Hiervon kann im Einzelfall, insbesondere bei
+Sachverständigen, die einer sachverständigen Stelle angehören,
+abgewichen werden, wenn die erforderliche fachliche Qualifikation
+dennoch gewährleistet ist.
+
+(2) Die Anerkennung kann sachlich beschränkt, zeitlich befristet und
+mit Auflagen verbunden werden. Bei der Erteilung der Anerkennung sind
+der sachliche Umfang und die zeitliche Geltung anzugeben.
+
+(3) Ein Sachverständiger, der in einem Dienst- oder Arbeitsverhältnis
+steht, kann nur anerkannt werden, wenn er die Anforderungen nach
+Absatz 1 erfüllt und zusätzlich nachweist, dass
+
+1.  sein Anstellungsvertrag den Erfordernissen nach Absatz 1 Satz 2 Nummer
+    4 nicht entgegensteht und dass er seine Sachverständigentätigkeit
+    persönlich ausüben kann,
+
+
+2.  er bei seiner Tätigkeit als anerkannter Sachverständiger keinen
+    Weisungen im Einzelfall unterliegt und seine Arbeitsergebnisse selbst
+    unterschreiben kann und
+
+
+3.  ihn sein Arbeitgeber im erforderlichen Umfang für die
+    Sachverständigentätigkeit freistellt.
+
+
+
+
+(4) Der Sachverständige oder das Unternehmen, dem er angehört, hat den
+Abschluss einer Haftpflichtversicherung für die
+Sachverständigentätigkeit in angemessener Höhe und angemessenem Umfang
+nachzuweisen. Höhe und Umfang der Haftpflichtversicherung müssen den
+Risiken der jeweiligen Sachverständigentätigkeit entsprechen. Bei
+Sachverständigen oder Unternehmen aus einem anderen Mitgliedstaat der
+Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum kann der Nachweis auch durch den
+Abschluss einer Haftpflichtversicherung bei einem innerhalb dieser
+Staaten zum Geschäftsbetrieb befugten Versicherungsunternehmen
+erbracht werden. Deckt die Haftpflichtversicherung nach Satz 3 nach
+Höhe und Umfang die Risiken der Sachverständigentätigkeit nur
+teilweise ab, so kann eine zusätzliche Sicherheit verlangt werden, die
+die nicht gedeckten Risiken absichert.
+
+(5) Der Antrag auf Anerkennung kann in schriftlicher oder
+elektronischer Form gestellt werden und hat genaue Angaben zum Umfang
+der vorgesehenen Sachverständigentätigkeit zu enthalten. Das
+Anerkennungsverfahren kann über eine einheitliche Stelle nach den
+Vorschriften des Verwaltungsverfahrensgesetzes abgewickelt werden. Hat
+die zuständige Behörde nicht innerhalb einer Frist von drei Monaten
+nach Eingang der vollständigen Unterlagen über den Antrag entschieden
+und wurde die Frist durch die zuständige Behörde nicht verlängert,
+gilt die Anerkennung als erteilt; die Vorschriften des
+Verwaltungsverfahrensgesetzes zur Genehmigungsfiktion sind
+entsprechend anzuwenden.
 
 
 ## § 24 Ordnungswidrigkeiten
@@ -1489,11 +1739,28 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
     Arbeitsstätte in der vorgeschriebenen Weise bewettert wird,
 
 
-16. entgegen § 16 Abs. 3 Satz 1 eine Sonderbewetterung anwendet oder
+16. entgegen § 16 Abs. 3 Satz 1 eine Sonderbewetterung anwendet,
 
 
 17. entgegen § 22a Abs. 2 Satz 1 oder 3 eine Anzeige nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig erstattet.
+    nicht vollständig oder nicht rechtzeitig erstattet;
+
+
+18. entgegen § 22c Absatz 1 Satz 1, auch in Verbindung mit Absatz 2 Satz
+    3, jeweils auch in Verbindung mit Absatz 3, Lagerstättenwasser nicht,
+    nicht richtig oder nicht rechtzeitig auffängt,
+
+
+19. entgegen § 22c Absatz 1 Satz 3, auch in Verbindung mit Absatz 2 Satz
+    3, Lagerstättenwasser einbringt,
+
+
+20. entgegen § 22c Absatz 2 Satz 1, auch in Verbindung mit Absatz 3,
+    Rückfluss oder Lagerstättenwasser nicht, nicht richtig oder nicht
+    rechtzeitig auffängt oder
+
+
+21. entgegen § 22c Absatz 2 Satz 6 den Rückfluss unter Tage einbringt.
 
 
 
@@ -1514,8 +1781,9 @@ Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu den §§ 11 und 12)
 
-## Anhang 1 (zu den §§ 11 und 12) Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
+## Anhang 1 Gemeinsame Anforderungen für Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1476 - 1479;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2078,8 +2346,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 12)
 
-## Anhang 2 (zu § 12) Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
+## Anhang 2 Zusätzliche Anforderungen für Tagesanlagen im Zusammenhang mit Tätigkeiten und Einrichtungen nach § 1
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1480 - 1481;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -2264,10 +2533,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 13)
 
-## Anhang 3 (zu § 13) Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 1 und 2 im Bereich des Festlandsockels und der Küstengewässer
+## Anhang 3 Zusätzliche Anforderungen für Arbeitsstätten nach § 13 Abs. 1 Nr. 2 im Bereich des Festlandsockels und der Küstengewässer
 
-Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
+(Fundstelle: BGBl. I 1995, 1482 - 1484; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 *
@@ -2305,8 +2576,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
 
     2.1 Der Unternehmer hat in allen Arbeitsstätten nach Maßgabe des
         Ergebnisses der Beurteilung von Gefährdungen nach § 3 Abs. 1 Satz 5
-        Nr. 1 Melde- und und Schutzsysteme für Brände sowie Brandbekämpfungs-
-        und Alarmsysteme einzubauen, die den Gefahren angemessen sind. Hierzu
+        Nr. 1 Melde- und Schutzsysteme für Brände sowie Brandbekämpfungs- und
+        Alarmsysteme einzubauen, die den Gefahren angemessen sind. Hierzu
         können insbesondere zählen:
 
 
@@ -2595,8 +2866,9 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1482 - 1484
 
 
 
+(zu § 19)
 
-## Anhang 4 (zu § 19) Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
+## Anhang 4 Anforderungen an die Sicherheits- oder Gesundheitsschutzkennzeichnung (Mindestvorschriften)
 
 Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
@@ -2845,8 +3117,9 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
+(zu § 22a Abs. 2)
 
-## Anhang 5 (zu § 22a Abs. 2) Abfallbewirtschaftungsplan
+## Anhang 5 Abfallbewirtschaftungsplan
 
 (Fundstelle des Originaltextes: BGBl. I 2008, 87)
 
@@ -2952,8 +3225,9 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
+(zu § 22a Abs. 3 Satz 1)
 
-## Anhang 6 (zu § 22a Abs. 3 Satz 1) Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
+## Anhang 6 Zusätzliche Anforderungen für die Errichtung, den Betrieb und die Stilllegung von Abfallentsorgungseinrichtungen
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 88 )
 
@@ -3059,8 +3333,9 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1485 - 1486
 
 
 
+(zu § 22a Abs. 3 Satz 4)
 
-## Anhang 7 (zu § 22a Abs. 3 Satz 4) Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
+## Anhang 7 Zusätzliche Anforderungen an Sicherheitsleistungen gemäß § 56 Abs. 2 des Bundesberggesetzes für Abfallentsorgungseinrichtungen der Kategorie A
 
 ( Fundstelle des Originaltextes: BGBl. I 2008, 89 )
 

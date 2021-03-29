@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 857
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 92 G v. 5.2.2009 I 160
+:   Art. 443 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt
@@ -246,8 +246,8 @@ Die bei den Landesversicherungsanstalten beschäftigten Arbeiter, die
 am 31. Dezember 1952 ausschließlich für Zwecke der
 Angestelltenversicherung tätig waren, treten zu dem nach § 26
 bestimmten Zeitpunkt nach der für sie bisher maßgebenden Lohngruppe in
-den Dienst der Bundesversicherungsanstalt.              Die Absätze 2
-und 3 gelten entsprechend.
+den Dienst der Bundesversicherungsanstalt. Die Absätze 2 und 3 gelten
+entsprechend.
 
 
 ### II. - Vermögen
@@ -323,8 +323,9 @@ Rechtes aus der in § 19 getroffenen Regelung der vermögensrechtlichen
 Verhältnisse ergeben, entscheidet ein Schiedsgericht. Das
 Schiedsgericht besteht aus einem Vorsitzenden und zwei Beisitzern, von
 denen jede Partei einen ernennt. Den Vorsitzenden bestimmt das
-Bundesministerium der Justiz. Für das Verfahren finden die
-Vorschriften der Zivilprozeßordnung entsprechende Anwendung.
+Bundesministerium der Justiz und für Verbraucherschutz. Für das
+Verfahren finden die Vorschriften der Zivilprozeßordnung entsprechende
+Anwendung.
 
 
 #### § 24

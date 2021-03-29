@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.1.1996 I 22;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.12.2012 I 2431
+:   Art. 25 G v. 20.11.2015 I 2029
 
 
 ## § 1 Gegenstand der Steuer
@@ -252,7 +252,19 @@ Versicherungsentgelts
     werden; dies gilt nicht bei der Beförderung von Gütern zwischen
     inländischen Orten, bei der die Güter nur zur Durchfuhr in das Ausland
     gelangen. Die Besteuerung der Zahlung des Versicherungsentgelts für
-    eine Haftpflichtversicherung bleibt unberührt.
+    eine Haftpflichtversicherung bleibt unberührt;
+
+
+11. in Form von Umlagen, die von Beteiligten eines Erlöspools zum Zweck
+    der Verteilung der gesamten dem jeweiligen Verteilungssystem
+    unterliegenden, von den Mitgliedern im eigenen Namen und auf eigene
+    Rechnung erzielten Nettoeinnahmen der Beteiligten nach einem
+    vorbestimmten Schlüssel erhoben werden;
+
+
+12. an Brandunterstützungsvereine, soweit die anlässlich eines einzelnen
+    Schadensfalls erhobene Umlage den Betrag von 5 500 Euro nicht
+    übersteigt.
 
 
 
@@ -294,17 +306,17 @@ zwar
 
 
 
-    Das Bundeszentralamt für Steuern kann auf Antrag gestatten, dass die
-    Steuer nicht nach der Isteinnahme (Istversteuerung), sondern nach dem
-    im Anmeldungszeitraum gemäß § 8 Absatz 2 und 3 angeforderten
-    Versicherungsentgelt berechnet wird (Sollversteuerung). Im Fall der
-    Berechnung nach der Sollversteuerung ist die auf nicht vereinnahmte
-    Versicherungsentgelte bereits entrichtete Steuer von der Steuer für
-    den Anmeldungszeitraum abzuziehen, in dem der Versicherer die
-    Versicherung ganz oder teilweise in Abgang gestellt hat.
 
 
 
+Das Bundeszentralamt für Steuern kann auf Antrag gestatten, dass die
+Steuer nicht nach der Isteinnahme (Istversteuerung), sondern nach dem
+im Anmeldungszeitraum gemäß § 8 Absatz 2 und 3 angeforderten
+Versicherungsentgelt berechnet wird (Sollversteuerung). Im Fall der
+Berechnung nach der Sollversteuerung ist die auf nicht vereinnahmte
+Versicherungsentgelte bereits entrichtete Steuer von der Steuer für
+den Anmeldungszeitraum abzuziehen, in dem der Versicherer die
+Versicherung ganz oder teilweise in Abgang gestellt hat.
 
 (2) Im Fall der Istversteuerung entsteht die Steuer mit der Zahlung
 des Versicherungsentgelts, wenn der Zahlende nach § 7 selbst

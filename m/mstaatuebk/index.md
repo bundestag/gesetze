@@ -3,7 +3,7 @@ Title: Übereinkommen über die Verringerung der Mehrstaatigkeit und über die W
   von Mehrstaatern
 jurabk: MStaatÜbk
 layout: default
-origslug: mstaat_bk
+origslug: mstaatuebk
 slug: mstaatuebk
 
 ---

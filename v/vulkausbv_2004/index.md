@@ -605,8 +605,9 @@ Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mechaniker für Reifen- und Vulkanisationstechnik/zur Mechanikerin für Reifen- und Vulkanisationstechnik
 
 
 *    *   (Fundstelle: BGBl. I 2004, 912 - 921)

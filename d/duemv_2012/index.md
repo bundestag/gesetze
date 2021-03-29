@@ -3,7 +3,7 @@ Title: Verordnung über das Inverkehrbringen von Düngemitteln, Bodenhilfsstoffe
   und Pflanzenhilfsmitteln
 jurabk: DüMV 2012
 layout: default
-origslug: d_mv_2012
+origslug: duemv_2012
 slug: duemv_2012
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2012, 2482
+
+Zuletzt geändert durch
+:   Art. 3 V v. 26.5.2017 I 1305
 
 [^f778939_01_BJNR248200012]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -219,14 +222,10 @@ Im Sinne dieser Verordnung sind:
 
     b)  in Vom-Hundert-Punkten: maximale Abweichung des ermittelten Wertes in
         vom Hundert vom gekennzeichneten Wert in vom Hundert durch
-        Differenzbildung, ausgedrückt in „%-Punkt“,
+        Differenzbildung, ausgedrückt in „%-Punkt“.
 
 
 
-
-
-27. gewerbsmäßig: Tätigkeit im Rahmen eines Gewerbes oder zu sonstigen
-    Erwerbszwecken.
 
 
 
@@ -327,11 +326,24 @@ zugelassen, dass
     2 Tabelle 1.4 Spalte 4 nicht überschritten sind,
 
 
-4.  als Fremdbestandteil nach Anlage 2 Tabelle 8.3 in Düngemitteln der
-    Anlage 1 Abschnitt 3 Steine über 10 Millimeter Siebdurchgang nicht
-    über einen Anteil von 5 vom Hundert/TM und Altpapier, Karton, Glas,
-    nicht abbaubare Kunststoffe nur nach Maßgabe der Anlage 2 Tabelle 8
-    Nummer 8.3.9 und nicht über einen Anteil von 0,5 vom Hundert/TM
+4.  als Fremdbestandteil nach Anlage 2 Tabelle 8.3
+
+    a)  Steine über 10 Millimeter Siebdurchgang nicht über einen Anteil von 5
+        vom Hundert/TM,
+
+
+    b)  Altpapier, Karton, Glas, Metalle und plastisch nicht verformbare
+        Kunststoffe über 2 mm Siebdurchgang nur nach Maßgabe der Anlage 2
+        Tabelle 8 Nummer 8.3.9 und zusammen nicht über einen Anteil von 0,4
+        vom Hundert/TM und
+
+
+    c)  sonstige nicht abgebaute Kunststoffe über 2 mm Siebdurchgang nicht
+        über einen Anteil von 0,1 vom Hundert/TM
+
+
+
+
     enthalten sind.
 
 
@@ -429,14 +441,29 @@ gebracht werden, wenn
     Pflanzenhilfsmitteln und in deren Ausgangsstoffen nach Anlage 2
     Tabellen 6 bis 8 die Grenzwerte nach Anlage 2 Tabelle 1.4 Spalte 4,
     mit Ausnahme der Zeile 1.4.10 Spalte 4 und 5 im Falle von
-    Wirtschaftsdüngern tierischer Herkunft, nicht überschritten sind,
+    Wirtschaftsdüngern tierischer Herkunft sowie Gärresten ohne
+    Bioabfallanteil, nicht überschritten sind,
 
 
-4.  als Fremdbestandteil nach Anlage 2 Tabelle 8.3 Steine über 10
-    Millimeter Siebdurchgang nicht über einen Anteil von 5 vom Hundert/TM
-    und Altpapier, Karton, Glas, nicht abbaubare Kunststoffe nur nach
-    Maßgabe der Anlage 2 Tabelle 8 Nummer 8.3.9 und nicht über einen
-    Anteil von 0,5 vom Hundert/TM enthalten sind.
+4.  als Fremdbestandteil nach Anlage 2 Tabelle 8.3
+
+    a)  Steine über 10 Millimeter Siebdurchgang nicht über einen Anteil von 5
+        vom Hundert/TM,
+
+
+    b)  Altpapier, Karton, Glas, Metalle und plastisch nicht verformbare
+        Kunststoffe über 2 mm Siebdurchgang nur nach Maßgabe der Anlage 2
+        Tabelle 8 Nummer 8.3.9 und zusammen nicht über einen Anteil von 0,4
+        vom Hundert/TM und
+
+
+    c)  sonstige nicht abgebaute Kunststoffe über 2 mm Siebdurchgang nicht
+        über einen Anteil von 0,1 vom Hundert/TM
+
+
+
+
+    enthalten sind.
 
 
 
@@ -459,9 +486,9 @@ oder Pflanzenhilfsmitteln gilt Absatz 1 nicht für
         forstlichen Standorten hingewiesen wird,
 
 
-    b)  mineralische Stoffe nach Anlage 2 Tabelle 7.3 bei einer Verwendung als
-        Ausgangsstoff für Kultursubstrate von den Grenzwerten nach Anlage 2
-        Tabelle 1.4 Spalte 4 bis zu einer Überschreitung von 50 vom Hundert,
+    b)  mineralischen Stoffen nach Anlage 2 Tabelle 7.3 bei einer Verwendung
+        als Ausgangsstoff für Kultursubstrate von den Grenzwerten nach Anlage
+        2 Tabelle 1.4 Spalte 4 bis zu einer Überschreitung von 50 vom Hundert,
         wenn diese Kultursubstrate
 
         aa) zur Nutzung als Dachsubstrate, als Substrate zur ausschließlichen
@@ -484,7 +511,7 @@ oder Pflanzenhilfsmitteln gilt Absatz 1 nicht für
 
 
 (3) Stoffe dürfen nicht als Bodenhilfsstoff oder Pflanzenhilfsmittel
-gewerbsmäßig in den Verkehr gebracht werden, wenn
+in den Verkehr gebracht werden, wenn
 
 1.  ein Gehalt an Gesamtnährstoffen in der Trockenmasse von mehr als
 
@@ -492,12 +519,12 @@ gewerbsmäßig in den Verkehr gebracht werden, wenn
 
 
     b)  0,5 vom Hundert Phosphat (P
-        2                         O
-        5                         ),
+        2O
+        5),
 
 
     c)  0,75 vom Hundert Kaliumoxid (K
-        2                         O),
+        2O),
 
 
     d)  0,3 vom Hundert Schwefel (S),
@@ -519,10 +546,9 @@ gewerbsmäßig in den Verkehr gebracht werden, wenn
 2.  auf das Produkt bezogene Anwendungsempfehlungen bei einer einmaligen
     Anwendung zu einer Aufbringung von mehr als 50 Kilogramm N, 30
     Kilogramm P
-    2                   O
-    5                   , 50 Kilogramm K
-    2                   O, 500 Kilogramm CaO oder 15 Kilogramm S je Hektar
-    führen würden.
+    2O
+    5, 50 Kilogramm K
+    2O, 500 Kilogramm CaO oder 15 Kilogramm S je Hektar führen würden.
 
 
 
@@ -533,8 +559,8 @@ Stickstoff die Verbrennungsmethode (Methode 3.1.1; VDLUFA-Methodenbuch
 Band II.2; 1. Auflage 2000, VDLUFA-Verlag Darmstadt) oder
 gegebenenfalls gleichwertige andere für die Feststellung des
 Gesamtstickstoffgehaltes geeignete Methoden zu verwenden. Das Verbot
-des gewerbsmäßigen Inverkehrbringens als Bodenhilfsstoff oder
-Pflanzenhilfsmittel nach Satz 1 gilt nicht
+des Inverkehrbringens als Bodenhilfsstoff oder Pflanzenhilfsmittel
+nach Satz 1 gilt nicht
 
 1.  für Gesteinsmehle, davon ausgenommen Kalkstein, Kreide, Dolomit,
     Magnesit oder Phonolith,
@@ -669,15 +695,7 @@ den Betrieben der Landwirte angefallen sind, die an der Nutzung des
 Güllelagers beteiligt sind, und ausschließlich auf den Flächen dieser
 Landwirte ausgebracht werden.
 
-(5) Die seuchenhygienischen Anforderungen gelten abweichend von Absatz
-2 als eingehalten, wenn alle verwendeten tierischen Ausgangsprodukte
-eine geeignete Behandlung zur Hygienisierung entsprechend den
-Bestimmungen der Verordnung (EG) Nr. 1069/2009 des Europäischen
-Parlaments und des Rates vom 21. Oktober 2009 mit Hygienevorschriften
-für nicht für den menschlichen Verzehr bestimmte tierische
-Nebenprodukte und zur Aufhebung der Verordnung (EG) Nr. 1774/2002
-(Verordnung über tierische Nebenprodukte) (ABl. L 300 vom 14.11.2009,
-S. 1) erfahren haben.
+(5) (weggefallen)
 
 
 ## § 6 Anforderungen an die Kennzeichnung
@@ -712,14 +730,14 @@ Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
         *            *   Phosphat
 
             *   P
-                2                                   O
+                2O
                 5
 
 
         *            *   Kaliumoxid
 
             *   K
-                2                                   O
+                2O
 
 
         *            *   Calcium
@@ -812,7 +830,7 @@ Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
             *
 
         *            *   P
-                2                                   O
+                2O
                 5
 
             *   x 0,436
@@ -821,7 +839,7 @@ Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
 
 
         *            *   K
-                2                                   O
+                2O
 
             *   x 0,83
 
@@ -841,6 +859,22 @@ Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
             *   x 0,4
 
             *   = Ca
+
+
+        *            *   CaCO
+                3
+
+            *   x 0,56
+
+            *   = CaO
+
+
+        *            *   MgCO
+                3
+
+            *   x 0,478
+
+            *   = MgO
 
 
         *            *   MgO
@@ -933,9 +967,9 @@ Pflanzenhilfsmittel dürfen nur in den Verkehr gebracht werden, wenn
     10\.4.2,
 
 
-5.  bei einem unentgeltlichen Inverkehrbringen zu Forschungs- oder
-    Versuchszwecken nach § 5 Absatz 5 Nummer 1 des Düngegesetzes eine
-    Kennzeichnung nach Anlage 2 Tabelle 10 Nummer 10.4.3.
+5.  bei einem Inverkehrbringen zu Forschungs- oder Versuchszwecken nach §
+    5 Absatz 5 Nummer 1 des Düngegesetzes eine Kennzeichnung nach Anlage 2
+    Tabelle 10 Nummer 10.4.3.
 
 
 
@@ -983,8 +1017,8 @@ werden, wenn ihre Kennzeichnung folgenden Anforderungen entspricht:
 (4) Entspricht ein Düngemittel mehreren Düngemitteltypen, muss es als
 der Düngemitteltyp, mit dem die stofflichen Eigenschaften
 weitestgehend beschrieben werden, gekennzeichnet sein, davon
-ausgenommen sind als Wirtschaftsdünger gewerbsmäßig in den Verkehr
-gebrachte Düngemittel.
+ausgenommen sind als Wirtschaftsdünger in den Verkehr gebrachte
+Düngemittel.
 
 (5) Beim Inverkehrbringen in Behältnissen mit mehr als 100 Kilogramm
 Inhalt genügt für alle Angaben eine Kennzeichnung auf einer Rechnung,
@@ -1016,8 +1050,7 @@ erforderlich, wenn im eigenen Betrieb angefallener Dünger an einen
 landwirtschaftlichen Betrieb zur Verwertung als Düngemittel auf dessen
 Flächen abgegeben wird und vom abgebenden Betrieb eine Abgabemenge von
 insgesamt 200 Tonnen Frischmasse im Kalenderjahr nicht überschritten
-wird. Die für den Vollzug der Düngemittelverordnung zuständige Behörde
-kann Ausnahmen zulassen.
+wird.
 
 
 ## § 7 Kennzeichnung bei EG-Düngemitteln
@@ -1079,9 +1112,9 @@ und Höchstgehalte nicht überschreiten.
 
 
 3.  Nummer 1 gilt nicht für einen anzugebenden Anteil an wasserlöslichem P
-    2                   O
-    5                   , soweit bei einzelnen Düngemitteltypen
-    abweichende Regelungen getroffen sind.
+    2O
+    5, soweit bei einzelnen Düngemitteltypen abweichende Regelungen
+    getroffen sind.
 
 
 
@@ -1111,14 +1144,14 @@ unterschreiten.
 
 ## § 9 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe c des
+(1) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe e des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen § 3
 Absatz 1 und § 4 Absatz 1 oder Absatz 3 Satz 1 ein Düngemittel, einen
 Wirtschaftsdünger, einen Bodenhilfsstoff, ein Kultursubstrat, ein
 Pflanzenhilfsmittel oder einen dort genannten Stoff in den Verkehr
 bringt.
 
-(2) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe d des
+(2) Ordnungswidrig im Sinne des § 14 Absatz 2 Nummer 1 Buchstabe f des
 Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 6 Absatz 1 ein Düngemittel, einen Bodenhilfsstoff, ein
@@ -1132,6 +1165,17 @@ Düngegesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
+## § 9a Evaluierung
+
+Das Bundesministerium für Ernährung und Landwirtschaft überprüft bis
+zum 31. Dezember 2019 unter Berücksichtigung der neuesten
+wissenschaftlichen Erkenntnisse die Anforderungen an synthetische
+Polymere nach Anlage 2 Tabelle 7 Nummer 7.4.7 und Tabelle 8 Nummer
+8\.1.3 und 8.2.9 und bewertet hierbei, ob eine Änderung der dort
+genannten Anforderungen zu den in § 1 des Düngegesetzes genannten
+Zwecken erforderlich ist.
+
+
 ## § 10 Übergangsvorschriften
 
 (1) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und
@@ -1141,27 +1185,11 @@ Dezember 2008 (BGBl. I S. 2524), zuletzt geändert durch die Verordnung
 vom 14. Dezember 2009 (BGBl. I S. 3905) entsprechen, dürfen noch bis
 zum 30. Juni 2015 in Verkehr gebracht werden.
 
-(2) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und
-Pflanzenhilfsmittel, zu deren Herstellung
-
-1.  Rinden, Kohlensaurer Kalk, Branntkalk oder Mischkalk, Aschen aus
-    pflanzlichen Rückständen entsprechend den Vorgaben nach Tabelle 7.3
-    Zeile 7.3.16 oder Gesteinsmehle, welche Grenzwerte nach Anlage 2
-    Tabelle 1.4 Spalte 4 überschreiten,
-
-
-2.  mineralische Filtermaterialien unter Verwendung von Kieselguren, die
-    nicht den Maßgaben nach Anlage 2 Tabelle 8 Zeile 8.3.7 Spalte 3
-    entsprechen,
-
-
-3.  ungebrauchte Mineralöle, außer solche nach Anlage 2 Tabelle 8 Zeile
-    8\.1.1, als Aufbereitungshilfsmittel oder Anwendungshilfsmittel
-
-
-
-verwendet werden, dürfen noch bis zum 31. Dezember 2013 gewerbsmäßig
-in den Verkehr gebracht werden.
+(2) Düngemittel, die hinsichtlich der Kennzeichnung nach § 6 Absatz 1
+Nummer 1 in Verbindung mit Anlage 2 Tabelle 10 Zeile 10.1.8 Spalte 2
+und Zeile 10.2.2 Spalte 2 den Anforderungen dieser Verordnung in der
+bis zum 5. Juni 2015 geltenden Fassung entsprechen, dürfen noch bis
+zum Ablauf des 31. Dezember 2017 in den Verkehr gebracht werden.
 
 (3) Düngemittel, Bodenhilfsstoffe, Kultursubstrate und
 Pflanzenhilfsmittel, zu deren Herstellung
@@ -1185,8 +1213,23 @@ gebracht werden.
 (4) Synthetische Polymere, die nicht den Maßgaben nach Anlage 2
 Tabelle 7 Zeile 7.4.7 als Ausgangsstoff oder Anlage 2 Tabelle 8 Zeile
 8\.1.3 oder 8.2.9 als Aufbereitungshilfsmittel oder
-Anwendungshilfsmittel entsprechen, verwendet werden, dürfen bis zum
-31\. Dezember 2016 in den Verkehr gebracht werden.
+Anwendungshilfsmittel entsprechen, dürfen noch bis zum Ablauf des 31.
+Dezember 2018 in den Verkehr gebracht werden.
+
+(5) Düngemittel nach Anlage 1 Abschnitt 1 Tabelle 1.2 Zeile 1.2.9
+müssen die in Anlage 2 Tabelle 5 Zeile 5.7 Spalte 3 festgelegten
+Anforderungen an die Löslichkeit ab dem 1. Juni 2020 erfüllen.
+
+(6) Düngemittel, die § 3 Absatz 1 Satz 2 Nummer 4, und Stoffe, die § 4
+Absatz 1 Nummer 4, jeweils in der bis zum 5. Juni 2015 geltenden
+Fassung, entsprechen, dürfen noch bis zum Ablauf des 31. Dezember 2016
+in den Verkehr gebracht werden.
+
+(7) Düngemittel des Typs nach Anlage 1 Nummer 1.4.6, zu deren
+Herstellung Aschen aus der Verbrennung von pflanzlichen Stoffen
+verwendet werden, die den Anforderungen dieser Verordnung in der bis
+zum 5. Juni 2015 geltenden Fassung entsprechen, dürfen noch bis zum
+Ablauf des 31. Dezember 2016 in den Verkehr gebracht werden.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -1201,10 +1244,12 @@ April 2012 (BGBl. I S. 611) geändert worden ist, außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4)
 
-## Anlage 1 (zu § 1 Nummer 11, § 3 Absatz 1, § 6 Absatz 3, § 8 Absatz 3 und 4) Definition von Düngemitteltypen
+## Anlage 1 Definition von Düngemitteltypen
 
-(Fundstelle: BGBl. I 2012, 2490 - 2511)
+(Fundstelle: BGBl. I 2012, 2490 - 2511; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 Die Vorbemerkungen enthalten typübergreifende Vorgaben sowie
 gegebenenfalls Erläuterungen. Die Vorgaben in den Vorbemerkungen und
@@ -1248,8 +1293,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         einer abweichenden Regelung für einzelne Düngemitteltypen – sowie
         Düngemitteln der Abschnitte 2 und 3 darf zusätzlich Kalk, der einem
         zugelassenen Typ des
-        Abschnittes                      1.4 entspricht, zugegeben werden,
-        wenn
+        Abschnittes 1.4 entspricht, zugegeben werden, wenn
 
 
 *    *   2.1.1
@@ -1438,8 +1482,8 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         auch Umhüllung
 
     *   Enthält das Düngemittel mehr als 28 % Stickstoff, darf es nur in
-        geschlossenen Packungen gewerbsmäßig an den Anwender abgegeben werden.
-        Das Düngemittel darf als „Kalkammonsalpeter“ bezeichnet sein, wenn
+        geschlossenen Packungen an den Anwender abgegeben werden. Das
+        Düngemittel darf als „Kalkammonsalpeter“ bezeichnet sein, wenn
 
         –   neben Ammoniumnitrat nur Calciumcarbonat (z. B. Kalkstein) oder
             Calcium- und Mag-
@@ -1480,7 +1524,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         MgO 0,9 %-Punkt
         Na 0,7 %-Punkt
         CaCO
-        3                      2 %-Punkte
+        3 2 %-Punkte
 
     *   Ammoniumnitrat,
         Ammoniumsulfat;
@@ -1550,7 +1594,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   Mindestgehalt nach Spalte 2:
             22 % N, 8 % CaCO
-            3                           ,
+            3,
 
 
         –   zusätzlich typbestimmender Bestandteil
@@ -1915,7 +1959,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         oder
 
         –   Calciumsulfat (CaSO
-            4                           )
+            4)
             nach der Verordnung (EG)
             Nr. 2003/2003
 
@@ -1979,7 +2023,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         N    0,5 %-Punkt
         S    0,5 %-Punkt
         CaCO
-        3                      2 %-Punkte
+        3 2 %-Punkte
 
     *   Carbamid, Ammoniumsulfat;
         auch Zugabe von Kohlensaurem Kalk aus Meeralgen
@@ -2188,7 +2232,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Dicalciumphosphat mit Magnesium
 
     *   20 % P
-        2                     O
+        2O
         5
         6 % MgO
 
@@ -2199,15 +2243,15 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Phosphat bewertet als
         alkalisch-ammoncitrat-
         lösliches P
-        2                     O
-        5                     ;
+        2O
+        5;
         Siebdurchgang:
         98 % bei 0,63 mm
         90 % bei 0,16 mm
         Toleranzen:
         P
-        2                     O
-        5                      0,8 %-Punkt
+        2O
+        5 0,8 %-Punkt
         MgO 0,9 %-Punkt
 
     *   Dicalciumphosphat,
@@ -2227,7 +2271,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         mit Tricalciumphosphat
 
     *   8 % P
-        2                     O
+        2O
         5
 
     *   Gesamtphosphat
@@ -2236,8 +2280,8 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Gesamtphosphat
         Toleranzen:
         P
-        2                     O
-        5                      0,8 %-Punkt
+        2O
+        5 0,8 %-Punkt
 
     *   Dicalciumphosphat,
         Tricalciumphosphat;
@@ -2251,7 +2295,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Silicium
 
     *   8 % P
-        2                     O
+        2O
         5
 
     *   Gesamtphosphat,
@@ -2261,7 +2305,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Gesamtphosphat,
         50 % des angegebenen
         Gehaltes an P
-        2                     O
+        2O
         5
         wasserlöslich
         Toleranzen:
@@ -2283,7 +2327,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Teilaufgeschlossenes Rohphosphat mit Magnesium
 
     *   16 % P
-        2                     O
+        2O
         5
         6 % MgO
 
@@ -2296,8 +2340,8 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         mindestens 40 % des
         angegebenen Gehalts an
         P
-        2                     O
-        5                      wasserlöslich
+        2O
+        5 wasserlöslich
         Siebdurchgang:
         98 % bei 0,63 mm
         90 % bei 0,16 mm
@@ -2327,7 +2371,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         wasserlöslichem Anteil
 
     *   23 % P
-        2                     O
+        2O
         5
 
     *   Gesamtphosphat,
@@ -2339,27 +2383,27 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         mindestens 45 % des
         angegebenen Gehalts
         an P
-        2                     O
-        5                      in 2 %iger
+        2O
+        5 in 2 %iger
         Ameisensäure löslich,
         mindestens 20 % des
         angegebenen Gehalts
         an P
-        2                     O
-        5                      wasserlöslich
+        2O
+        5 wasserlöslich
         Toleranzen:
         Gesamt-P
-        2                     O
-        5                     :
+        2O
+        5:
         0,8 %-Punkt,
         in Ameisensäure
         lösliches P
-        2                     O
-        5                     :
+        2O
+        5:
         höchstens 2 %-Punkte,
         wasserlösliches P
-        2                     O
-        5                     :
+        2O
+        5:
         0,9 %-Punkt,
         die für Phosphat fest-
         gesetzte Toleranz darf
@@ -2376,7 +2420,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Rohphosphat
 
     *   23 % P
-        2                     O
+        2O
         5
 
     *   Gesamtphosphat,
@@ -2387,21 +2431,21 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         mindestens 40 % des
         angegebenen Gehalts an
         P
-        2                     O
-        5                      in 2 %iger
+        2O
+        5 in 2 %iger
         Ameisensäure löslich;
         Siebdurchgang:
         98 % bei 0,315 mm
         90 % bei 0,16 mm
         Toleranzen:
         Gesamt-P
-        2                     O
-        5                     :
+        2O
+        5:
         0,8 %-Punkt,
         in Ameisensäure
         lösliches P
-        2                     O
-        5                     :
+        2O
+        5:
         höchstens 2 %-Punkte,
         die für Phosphat fest-
         gesetzte Toleranz darf
@@ -2420,34 +2464,21 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Weicherdiges Rohphosphat mit Magnesium
 
     *   16 % P
-        2                     O
+        2O
         5
+        6 % MgO
 
     *   Gesamtphosphat,
         in 2 %iger Ameisensäure lösliches Phosphat
+        Gesamt-Magnesiumoxid
 
     *   Phosphat bewertet als
         Gesamtphosphat;
         mindestens 55 % des
         angegebenen Gehalts
-
-    *   Tricalciumphosphat,
-        Calciumcarbonat,
-        Magnesiumsulfat;
-
-    *   Der Siebdurchgang bei 0,063 mm muss
-        angegeben sein.
-
-
-*    *
-    *
-    *   6 % MgO
-
-    *   Gesamt-Magnesiumoxid
-
-    *   an P
-        2                     O
-        5                      in 2 %iger
+        an P
+        2O
+        5 in 2 %iger
         Ameisensäure löslich,
         Siebdurchgang:
         99 % bei 0,125 mm
@@ -2462,23 +2493,26 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         überschritten werden,
         MgO: 0,9 %-Punkt
 
-    *   Vermahlen weicherdigen Rohphosphats,
+    *   Tricalciumphosphat,
+        Calciumcarbonat,
+        Magnesiumsulfat;
+        Vermahlen weicherdigen Rohphosphats,
         Zugabe von
         Magnesiumsulfat,
         Magnesiumoxid,
         Magnesiumcarbonat,
         Calcium-Magnesium-Carbonat
 
-    *
-    *
-    *
+    *   Der Siebdurchgang bei 0,063 mm muss
+        angegeben sein.
+
 
 *    *   1.2.8
 
     *   Phosphatdünger-Lösung
 
     *   20 % P
-        2                     O
+        2O
         5
 
     *   wasserlösliches Phosphat
@@ -2489,8 +2523,8 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         4,6 bis 5,2
         Toleranzen:
         P
-        2                     O
-        5                      0,9 %-Punkt
+        2O
+        5 0,9 %-Punkt
 
     *   Durch Mischen von
         Phosphorsäure mit Natronlauge gewonnenes Erzeugnis
@@ -2505,25 +2539,18 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Tabelle 6.2]
 
     *   10 % P
-        2                     O
+        2O
         5
 
-    *   Gesamtphosphat,
-        in 2 %iger Zitronensäure lösliches Phosphat
+    *   Gesamtphosphat
 
     *   Phosphat bewertet als
-        Gesamtphosphat,
-        Phosphat bewertet als in
-        2 %iger Zitronensäure
-        lösliches Phosphat;
+        Gesamtphosphat
         Siebdurchgang:
         98 % bei 0,63 mm
         90 % bei 0,16 mm
         Toleranzen:
-        Gesamtphosphat: 0,8 %-Punkt,
-        in Zitronensäure lösliches Phosphat: 2 %-Punkte,
-        die für Phosphat festgesetzte Toleranz darf insgesamt nicht
-        überschritten werden.
+        Gesamtphosphat: 0,8 %-Punkt
 
     *   Phosphathaltige Ausgangsstoffe nach Anlage 2 Tabelle 6.2;
         aus nur einem Stoff nach Anlage 2 Tabelle 6.2
@@ -2577,19 +2604,19 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Kaliumsulfat
 
     *   35 % K
-        2                     O
+        2O
 
     *   wasserlösliches
         Kaliumoxid
 
     *   Kalium bewertet als
         wasserlösliches K
-        2                     O;
+        2O;
         Gehalt an Chlorid
         höchstens 3 % Cl
         Toleranzen:
         K
-        2                     O 0,5 %-Punkt
+        2O 0,5 %-Punkt
 
     *   Kaliumsulfat; umhüllt
 
@@ -2601,17 +2628,17 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Lösung
 
     *   20 % K
-        2                     O
+        2O
 
     *   wasserlösliches
         Kaliumoxid
 
     *   Kali bewertet als
         wasserlösliches K
-        2                     O
+        2O
         Toleranzen:
         K
-        2                     O 1 %-Punkt
+        2O 1 %-Punkt
 
     *   Kaliumhydroxid, Kaliumformiat;
         Lösen in Wasser
@@ -2626,7 +2653,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Lösung
 
     *   6 % K
-        2                     O
+        2O
         6 % S
 
     *   wasserlösliches
@@ -2635,11 +2662,11 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
     *   Kali bewertet als
         wasserlösliches K
-        2                     O;
+        2O;
         Schwefel bewertet als S
         Toleranzen:
         K
-        2                     O 1 %-Punkt
+        2O 1 %-Punkt
         S 0,5 %-Punkt
 
     *   Kaliumsulfat; Schwefelsäure;
@@ -2656,20 +2683,20 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         [Bezeichnung nach Anlage 2 Tabelle 6.3 Spalte 1]
 
     *   10 % K
-        2                     O
+        2O
 
     *   wasserlösliches
         Kaliumoxid
 
     *   Kali bewertet als
         wasserlösliches K
-        2                     O
+        2O
         Toleranzen:
         K
-        2                     O 1 %-Punkt,
+        2O 1 %-Punkt,
         bei ausschließlicher
         Verwendung von Vinasse für K
-        2                     O 3 % Punkte.
+        2O 3 % Punkte.
 
     *   Kaliumsalze;
         nur ein Ausgangsstoff nach
@@ -2715,11 +2742,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 4   Für Kalkdünger gelten die Mindestgehalte nach Spalte 2 und,
     vorbehaltlich der besonderen Bestimmungen in Spalte 6, die angegebenen
     Gehalte an CaO oder CaCO
-    3                    auch dann als erreicht, wenn das Düngemittel
-    anstelle eines Teiles CaO einen Teil MgO und anstelle eines Teiles
-    CaCO
-    3                    einen Teil MgCO
-    3                    enthält.
+    3 auch dann als erreicht, wenn das Düngemittel anstelle eines Teiles
+    CaO einen Teil MgO und anstelle eines Teiles CaCO
+    3 einen Teil MgCO
+    3 enthält.
 
 
 
@@ -2768,17 +2794,23 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Calciumcarbonat
 
     *   Kalk bewertet als CaCO
-        3                       ;
+        3;
         Siebdurchgang:
         97 % bei 3,15 mm
         70 % bei 1,0 mm
         Reaktivität, bewertet nach
         Umsetzung in verdünnter
         Salzsäure, mindestens 30 %, ab einem Gehalt von 25 % MgCO
-        3                        mindestens 10 %
+        3 mindestens 10 %
         Toleranzen:
         CaCO
-        3                        4 %-Punkte
+        3 4 %-Punkte,
+        MgCO
+        3 2,5 %-Punkte nach unten und
+        5 %-Punkte nach oben,
+        insgesamt (CaCO
+        3 + MgCO
+        3) 4 %-Punkte
 
     *   Calciumcarbonat, daneben
         auch Magnesiumcarbonat;
@@ -2808,14 +2840,14 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Das Düngemittel darf als „Kohlensaurer
         Magnesiumkalk“ bezeichnet sein, wenn der
         Gehalt an MgCO
-        3                        und MgO mehr als 15 % beträgt.
+        3 und MgO mehr als 15 % beträgt.
         Das Düngemittel darf mit dem Hinweis „leicht umsetzbar“ gekennzeichnet
         sein, wenn die
         Reaktivität mindestens 80 % beträgt.
         Bei der Herstellung aus Meeralgen:
 
         –   Mindestgehalt nach Spalte 2: 65 % CaCO
-            3                             ,
+            3,
 
 
         –   keine Mischung mit anderen kohlensauren
@@ -2830,7 +2862,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Bei Herstellung aus holozänen Kalken:
 
         –   Mindestgehalt nach Spalte 2: 60 % CaCO
-            3                             ,
+            3,
 
 
         –   keine Mischung mit anderen kohlensauren
@@ -2856,7 +2888,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
 
         –   Mindestgehalt nach Spalte 2: 70 % CaCO
-            3                             ,
+            3,
 
 
         –   das Düngemittel muss mit dem Hinweis
@@ -2880,7 +2912,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Siebdurchgang:
         97 % bei 6,3 mm
         Toleranzen:
-        CaO 4 %-Punkte
+        CaO 4 %-Punkte,
+        MgO 2,5 %-Punkte nach unten und
+        5 %-Punkte nach oben,
+        insgesamt (CaO + MgO) 4 %-Punkte
 
     *   Calciumoxid, daneben auch
         Magnesiumoxid;
@@ -2912,11 +2947,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         97 % bei 4,0 mm
         50 % bei 0,8 mm
         Toleranzen:
-        CaO
-        Carbonatanteil*                        65%
-        3 %-Punkte,
-        Carbonatanteil*                        65 %
-        4 %-Punkte
+        CaO 4 %-Punkte,
+        MgO 2,5 %-Punkte nach unten und
+        5 %-Punkte nach oben,
+        insgesamt (CaO + MgO) 4 %-Punkte
 
     *   Calciumcarbonat, -hydroxid
         oder -oxid, daneben auch
@@ -2961,6 +2995,8 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         Toleranzen:
         CaO 3 %-Punkte
+        MgO 1,5 %-Punkte
+        insgesamt (CaO + MgO) 3 %-Punkte
 
     *   Silikate von Calcium und
         Magnesium;
@@ -2979,47 +3015,81 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Calciumoxid
 
     *   Kalk bewertet als CaO;
+        Siebdurchgang bei Herstellung nach Spalte 5 Buchstabe
 
     *   Silikate und Oxide von
-        Calcium und Magnesium aus der
+        Calcium und Magnesium aus der Herstellung unlegierter Stähle;
+        auch Zugabe von
+
+        –   phosphathaltigen Aschen nach Anlage 2 Tabelle 6.2 Nummer 6.2.2 und
+            6\.2.3,
+
+
+        –   Rohphosphat
+
+
+
+        jeweils in die flüssige Schmelze (* 1 400 °C);
 
     *   Ausgangsstoffe und Art der Herstellung nach Spalte 5 müssen angegeben
         sein.
+        Bei Zugabe phosphathaltiger Stoffe nach Spalte 5:
+
+        –   Mindestgehalte nach Spalte 2: 30 % CaO, 3 % P
+            2O
+            5
+
+
+
+        Kennzeichnung der Phosphatlöslichkeiten nach Anlage 2 Tabelle 4 Nummer
+        4\.2.11, 4.2.1 und 4.2.2
 
 
 *    *
     *
     *
     *
-    *   Siebdurchgang bei Herstellung nach Spalte 5 Buchstabe
-
+    *
         a)  97 % bei 1,0 mm
             80 % bei 0,315 mm
 
 
         b)  97 % bei 3,15 mm
-            40 % bei 0,315 mm.
+            40 % bei 0,315 mm
+
+
+        c)  97 % bei 0,63 mm
+            75 % bei 0,16 mm.
 
 
 
-        Bei Siebdurchgang nach
-        Buchstabe b:
-        Löslichkeit von Calcium und
-        Magnesium, bewertet nach
-        Umsetzung in verdünnter
-        Salzsäure, mindestens 30 %
+
+
+*    *
+    *
+    *
+    *
+    *   Bei Siebdurchgang nach Buchstabe b:
+        Löslichkeit von Calcium und Magnesium, bewertet nach Umsetzung in
+        verdünnter Salzsäure, mindestens 30 %
         Toleranzen:
-        CaO 3 %-Punkte
+        CaO 3 %-Punkte,
+        MgO 1,5 %-Punkte,
+        insgesamt (CaO + MgO)
+        3 %-Punkte
+        P
+        2O
+        5 0,8 %-Punkt
 
-    *   Herstellung unlegierter Stähle;
-
-        a)  Vermahlen von
-            Konverterschlacke
+    *
+        a)  Vermahlen von Konverterschlacke
 
 
-        b)  Absieben zerfallener
-            Konverterschlacke und
-            Pfannenschlacke
+        b)  Absieben zerfallener Konverterschlacke und Pfannenschlacke
+
+
+        c)  Vermahlen von Konverterschlacke nach Zugabe von phosphathaltigen
+            Stoffen in die Schlackenschmelze
 
 
 
@@ -3040,13 +3110,11 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Reaktivität, bewertet nach
         Umsetzung in verdünnter
         Salzsäure, mindestens 30 %, ab einem Gehalt von 25 % MgCO
-        3                        mindestens 10 %
+        3 mindestens 10 %
         Toleranzen:
-        CaO
-        Carbonatanteil*                        40 %
-        2 %-Punkte,
-        Carbonatanteil*                        40 %
-        3 %-Punkte
+        CaO 3 %-Punkte,
+        MgO 2,5 %-Punkte nach unten und 5 %-Punkte nach oben,
+        insgesamt (CaO + MgO) 4 %-Punkte
 
     *   Oxide, Hydroxide, Silicate oder Carbonate von Calcium und
         Magnesium;
@@ -3162,7 +3230,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         97 % bei 0,2 mm
         Toleranzen:
         MgCO
-        3                        2 %-Punkte
+        3 2 %-Punkte
         Angabe der basisch wirksamen Bestandteile in % CaCO
         3
         Reaktivität: Reaktivität,
@@ -3195,7 +3263,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
     *   Magnesiumoxid
         Brennen von Magnesit nur bei einer Brenntemperatur
-        *                        1 800 °C
+        * 1 800 °C
 
     *
 
@@ -3249,7 +3317,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   Mindestgehalte nach Spalte 2:
             8 % MgO, 6 % K
-            2                             O, insgesamt 20 %
+            2O, insgesamt 20 %
 
 
 
@@ -3268,7 +3336,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Toleranzen:
         MgO 0,9 %-Punkt
         K
-        2                       O 1 %-Punkt
+        2O 1 %-Punkt
 
     *
     *
@@ -3279,7 +3347,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         –   Weitere Erfordernisse nach Spalte 4:
             Kalium bewertet als wasserlöslichen
             K
-            2                             O, Höchstgehalt an Chlorid
+            2O, Höchstgehalt an Chlorid
             im zugegebenen Kaliumsulfat: 3 % Cl.
 
 
@@ -3408,7 +3476,7 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   Mindestgehalte
 
     *   Typbestimmende
-        Bestandtormat teile;
+        Bestandteile;
         Nährstoffformen und
         Nährstofflöslichkeiten
 
@@ -3443,12 +3511,12 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   *fest:*
         3 % N
         5 % P
-        2                       O
+        2O
         5
         *als Lösung:*
         1 % N
         1 % P
-        2                       O
+        2O
         5
         insgesamt 3 %
 
@@ -3481,14 +3549,14 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   Mindestgehalt nach Spalte 2:
             10 % CaCO
-            3                             ;
+            3;
 
 
         –   Spalte 3: Calciumcarbonat;
 
 
         –   Spalte 4: Kalk bewertet als CaCO
-            3                             ;
+            3;
 
 
         –   Kennzeichnung gemäß Anlage 2
@@ -3505,11 +3573,11 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   *fest:*
         3 % N
         5 % K
-        2                       O
+        2O
         *als Lösung:*
         1 % N
         1 % K
-        2                       O
+        2O
         insgesamt 3 %
 
     *   Stickstoff in den
@@ -3537,14 +3605,14 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   Mindestgehalt nach Spalte 2:
             10 % CaCO
-            3                             ;
+            3;
 
 
         –   Spalte 3: Calciumcarbonat;
 
 
         –   Spalte 4: Kalk bewertet als CaCO
-            3                             ;
+            3;
 
 
         –   Kennzeichnung gemäß Anlage 2
@@ -3560,22 +3628,22 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
     *   *fest:*
         5 % P
-        2                       O
+        2O
         5
         5 % K
-        2                       O
+        2O
         *als Suspension:*
         5 % P
-        2                       O
+        2O
         5
         5 % K
-        2                       O
+        2O
         *als Lösung:*
         1 % P
-        2                       O
+        2O
         5
         1 % K
-        2                       O
+        2O
         insgesamt 3 %
 
     *   Phosphat in den Phosphatlöslichkeiten 4.2.1
@@ -3598,10 +3666,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         –   Mindestgehalt nach Spalte 2 für
             festen Dünger:
             2 % P
-            2                             O
+            2O
             5
             3 % K
-            2                             O,
+            2O,
 
 
         –   bei trockenem Material Granulierung
@@ -3617,45 +3685,45 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
     *   *fest:*
         3 % N
         5 % P
-        2                       O
+        2O
         5
         5 % K
-        2                       O
+        2O
         auf Träger-
         *material:*
         1 % N
         1 % P
-        2                       O
+        2O
         5
         1 % K
-        2                       O
+        2O
         insgesamt 4 %
         *als Lösung:*
         1 % N
         1 % P
-        2                       O
+        2O
         5
         1 % K
-        2                       O
+        2O
         insgesamt
         4 %
         *als Suspension:*
         3 % N
         4 % P
-        2                       O
+        2O
         5
         4 % K
-        2                       O
+        2O
 
     *   Stickstoff in den
         Stickstoffformen:
-        *fest:*                        3.1 bis 3.10
-        *als Lösung:*                        3.1 bis 3.4, 3.7
-        *als Suspension:*                        3.1 bis 3.4
+        *fest:* 3.1 bis 3.10
+        *als Lösung:* 3.1 bis 3.4, 3.7
+        *als Suspension:* 3.1 bis 3.4
         Phosphat in den Phosphatlöslichkeiten:
-        *fest:*                        4.2.1 bis 4.2.7, 4.2.11
-        *als Lösung:*                        4.2.1
-        *als Suspension:*                        4.2.1, 4.2.5, 4.2.8
+        *fest:* 4.2.1 bis 4.2.7, 4.2.11
+        *als Lösung:* 4.2.1
+        *als Suspension:* 4.2.1, 4.2.5, 4.2.8
         wasserlösliches Kaliumoxid
 
     *   Bei den Stickstoffformen 3.2
@@ -3696,10 +3764,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         –   Mindestgehalt nach Spalte 2 für festen
             Dünger:
             2 % P
-            2                             O
+            2O
             5
             3 % K
-            2                             O,
+            2O,
 
 
         –   bei trockenem Material Granulierung.
@@ -3711,14 +3779,14 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
         –   Mindestgehalt nach Spalte 2:
             10 % CaCO
-            3                             ,
+            3,
 
 
         –   Spalte 3: Calciumcarbonat,
 
 
         –   Spalte 4: Kalk bewertet als CaCO
-            3                             ,
+            3,
 
 
         –   Kennzeichnung gemäß Anlage 2
@@ -3773,21 +3841,18 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
 *    *   3.1
 
-    *   Organischer N-,
-        P-, K-, NP-,
-        NK-, PK- oder
-        NPK-Dünger
+    *   Organischer N-, P-, K-, NP-, NK-, PK- oder NPK-Dünger
 
     *   Einnährstoffdünger nach Spalte 1:
         3 % für den Nährstoff
         Zweinährstoff- und Dreinährstoffdünger nach Spalte 1:
         1 % N
         0,3 % P
-        2                     O
+        2O
         5
         oder
         0,5 % K
-        2                     O
+        2O
 
     *   Gesamtstickstoff
         Gesamtphosphat
@@ -3797,14 +3862,14 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Gesamtstickstoff
         Phosphat bewertet als
         Gesamt-P
-        2                     O
+        2O
         5
         Kali bewertet als Gesamt-K
-        2                     O
+        2O
         Toleranzen:
         50 % des in % angegebenen Gehaltes, jedoch nicht mehr als 1 %-Punkt,
         bei ausschließlicher Verwendung von Vinasse für K
-        2                     O 3 %-Punkte,
+        2O 3 %-Punkte,
         für die organische Substanz
         50 % des in % angegebenen Gehaltes, jedoch nicht mehr als 5 %-Punkte
 
@@ -3819,20 +3884,18 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 *    *   3.2
 
     *   Organisch-
-        Mineralischer N-,
-        P-, K-, NP-, NK-, PK- oder
-        NPK-Dünger
+        Mineralischer N-, P-, K-, NP-, NK-, PK- oder NPK-Dünger
 
     *   Einnährstoffdünger nach Spalte 1:
         3 % für den Nährstoff
         Zweinährstoff- und Dreinährstoffdünger nach Spalte 1:
         1,5 % N
         0,5 % P
-        2                     O
+        2O
         5
         oder
         1,0 % K
-        2                     O
+        2O
 
     *   Gesamtstickstoff
         Gesamtphosphat
@@ -3842,10 +3905,10 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
         Gesamtstickstoff
         Phosphat bewertet als
         Gesamt-P
-        2                     O
+        2O
         5
         Kali bewertet als Gesamt-K
-        2                     O
+        2O
         Mindestgehalt an organischer Substanz: 10 % bezogen auf TM
         Toleranzen:
         50 % des in % angegebenen Gehaltes, jedoch nicht mehr als 1 %-Punkt,
@@ -3864,12 +3927,12 @@ Düngemitteltypen nach Anlage 1 Abschnitt 1 bis 5.
 
 
         –   3 % P
-            2                           O
-            5                            oder
+            2O
+            5 oder
 
 
         –   3 % K
-            2                           O.
+            2O.
 
 
 
@@ -3890,7 +3953,7 @@ Spurennährstoffdünger
 
 
 2.  Die Düngemittel nach Abschnitt 4.2 dürfen nur in geschlossenen
-    Packungen gewerbsmäßig in den Verkehr gebracht werden.
+    Packungen in den Verkehr gebracht werden.
 
 
 
@@ -3966,7 +4029,7 @@ zusätzlich den Typ bestimmenden Spurennährstoffen
 
 
         –   bei einem Gehalt an
-            Gesamteisen*                              10 % für
+            Gesamteisen* 10 % für
             Eisen 2 %-Punkte.
 
 
@@ -4083,9 +4146,13 @@ Spurennährstoffe enthalten
     *   Eisen(II) Salz, Gesteinsmehl oder
         Dolomit;
         Mischen von Eisen(II)-Salz mit
-        Gesteinsmehl oder Dolomit
+        Gesteinsmehl oder Dolomit;
+        auch chelatisiert mit Glycin
 
-    *   Das Anion des Mineralsalzes muss angegeben sein.
+    *   Das Anion des Mineralsalzes muss angegeben sein. Bei Zugabe von Glycin
+        im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit
+        dem Hinweis: „Anwendungsvorgabe: Produkt ist ausschließlich zur
+        Blattanwendung zugelassen“.
 
 
 *    *   4.2.3
@@ -4093,7 +4160,7 @@ Spurennährstoffe enthalten
     *   Eisen-
         Dünger
 
-    *   8 % Fe
+    *   6 % Fe
 
     *   Eisen
 
@@ -4209,11 +4276,11 @@ werden.
 
     *   1 % N,
         1 % P
-        2                       O
+        2O
         5
         oder
         1 % K
-        2                       O
+        2O
 
     *   Stickstoff in den
         Stickstoffformen 3.1
@@ -4233,13 +4300,13 @@ werden.
         Gehalt an
         Carbamidstickstoff x 0,026
         Toleranzen:
-        Gehalte*                        1 %:
+        Gehalte* 1 %:
         für jeden Nährstoff nach
         Spalte 2: 25 % des in % angegebenen Gehaltes,
-        Gehalte*                        1 bis 5 %:
+        Gehalte* 1 bis 5 %:
         für jeden Nährstoff nach
         Spalte 2: 0,25 %-Punkt,
-        Gehalte*                        5 %:
+        Gehalte* 5 %:
         für jeden Nährstoff nach
         Spalte 2: 5 % des in %
         angegebenen Gehaltes.
@@ -4254,27 +4321,14 @@ werden.
     *   Für die Bezeichnung des Düngemittels nach
         Spalte 1 ist die den enthaltenen Nährstoffen
         entsprechende Typenbezeichnung zu wählen.
-        Die Typenbezeichnung ist gegebenenfalls um
-        das Wort „auf“ und um die Angabe verwendeter Trägermaterialien zu
-        ergänzen.
-        Das Düngemittel muss mit dem Hinweis
-        „Anwendungsvorgabe:
-        Nur zur Düngung von Rasen“
-        oder
-        „Anwendungsvorgabe:
-        Nur zur Düngung von Zierpflanzen“
-        gekennzeichnet sein.
-        Bei flüssigen Düngern, die bezogen auf die TM die Mindestgehalte
-        erreichen, jedoch bezogen auf die Frischmasse diese unterschreiten,
-        ist die Kennzeichnung im Rahmen der Hinweise zur sachgerechten
-        Anwendung wie folgt zu ergänzen: „Düngemittel in gebrauchsfertiger
-        Lösung!“
 
 
 
 
+(zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Absatz
+1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10)
 
-## Anlage 2 (zu § 1 Nummer 11, § 3 Absatz 1 und 2, § 4 Absatz 1 und 2, § 6 Absatz 1, 2, 5, 6 und 7, § 8 Absatz 3 und 4, § 10) Tabellen
+## Anlage 2 Tabellen
 
 (Fundstelle: BGBl. I 2012, 2512 - 2544)
 
@@ -4343,8 +4397,8 @@ werden.
 *    *   1.1.2
 
     *   Phosphat (P
-        2                     O
-        5                     )
+        2O
+        5)
 
     *   0,5 %
 
@@ -4355,7 +4409,7 @@ werden.
 *    *   1.1.3
 
     *   Kalium (K
-        2                     O)
+        2O)
 
     *   0,75 %
 
@@ -4391,29 +4445,6 @@ werden.
 
 *    *   1.1.6
 
-    *   Magnesiumoxid (MgO)
-
-    *   5 %
-
-    *   50 %, 2,5 %-Punkte
-
-    *   Für Düngemittel des Abschnittes 1.4.
-
-
-*    *   1.1.7
-
-    *   Magnesiumcarbonat (MgCO
-        3                     )
-
-    *   5 %
-
-    *   50 %, 2,5 %-Punkte
-
-    *   Für Düngemittel des Abschnittes 1.4.
-
-
-*    *   1.1.8
-
     *   Natrium (Na)
 
     *   0,2 %
@@ -4424,7 +4455,7 @@ werden.
         1,5 %.
 
 
-*    *   1.1.9
+*    *   1.1.7
 
     *   wasserlösliches Calcium (Ca)
 
@@ -4453,8 +4484,8 @@ werden.
 *    *   1.2.3
 
     *   Phosphat (P
-        2                     O
-        5                     )
+        2O
+        5)
 
     *   0,1 %
 
@@ -4466,7 +4497,7 @@ werden.
 *    *   1.2.5
 
     *   Kalium (K
-        2                     O)
+        2O)
 
     *   0,1 %
 
@@ -4520,8 +4551,8 @@ werden.
 *    *   1.2.4
 
     *   Phosphat (P
-        2                     O
-        5                     )
+        2O
+        5)
 
     *   100 mg/l
 
@@ -4532,8 +4563,8 @@ werden.
         Dachsubstrate gilt eine Deklarationspflicht ab 50 mg/l.
         Für Kultursubstrate in bodenunabhängigen Anwendungen gilt eine
         Kennzeichnungsschwelle von 50 mg P
-        2                     O
-        5                     /l (löslich) sowie eine Toleranz von 50 %.
+        2O
+        5/l (löslich) sowie eine Toleranz von 50 %.
         Für bodenunabhängige Anwendungen:
         Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit
         dem Hinweis:
@@ -4543,7 +4574,7 @@ werden.
 *    *   1.2.6
 
     *   Kalium (K
-        2                     O)
+        2O)
 
     *   100 mg/l
 
@@ -4554,7 +4585,7 @@ werden.
         Dachsubstrate gilt eine Deklarationspflicht ab 50 mg/l.
         Für Kultursubstrate in bodenunabhängigen Anwendungen gilt eine
         Kennzeichnungsschwelle von 50 mg K
-        2                     O/l (löslich) sowie eine Toleranz von 50 %.
+        2O/l (löslich) sowie eine Toleranz von 50 %.
         Für bodenunabhängige Anwendungen:
         Im Rahmen der Hinweise zur sachgerechten Anwendung Kennzeichnung mit
         dem Hinweis:
@@ -4698,8 +4729,8 @@ werden.
         Für Kultursubstrate in bodenunabhängigen Anwendungen:
         Kennzeichnung bei … % organischer
         Substanz:
-        *                      5 % „enthält wenig organische Substanz“
-        *                      80 % „enthält viel organische Substanz“.
+        * 5 % „enthält wenig organische Substanz“
+        * 80 % „enthält viel organische Substanz“.
 
 
 *    *   1.3.4
@@ -4822,19 +4853,19 @@ werden.
         Cadmium (Cd) für
         Düngemittel ab
         5 % P
-        2                     O
-        5                      (FM)
+        2O
+        5 (FM)
 
     *   1,0
         20 mg/kg P
-        2                     O
+        2O
         5
 
     *   50 %
 
     *   1,5
         50 mg/kg P
-        2                     O
+        2O
         5
 
     *   Für die Anwendung von Rindenprodukten im Garten- und Landschaftsbau,
@@ -4864,7 +4895,7 @@ werden.
 *    *   1.4.5
 
     *   Chrom (Cr
-        VI                     )
+        VI)
 
     *   1,2
 
@@ -4930,20 +4961,18 @@ werden.
 
 *    *   1.4.10
 
-    *   I-TE Dioxine und
-[^f778939_02_BJNR248200012BJNE001600000]
-        dl-PCB
+    *[^f778939_02_BJNR248200012BJNE001602124]
+   Summe der Dioxine und dl-PCB (WHO-TEQ 2005)
 
     *
     *
-    *   30 ng WHO-TEQ
+    *   30 ng
 
     *   Bei Anwendung auf Grünland zur Futtergewinnung und auf
         Ackerfutterflächen mit nichtwendender Bodenbearbeitung nach der
-        Aufbringung, ausgenommen Maisanbauflächen, gilt ein Grenzwert von 5 ng
-        WHO-TEQ Dioxine. Bei Überschreitung des Grenzwertes von 5 ng WHO-TEQ
-        Dioxine ist im Rahmen der Hinweise zur sachgerechten Anwendung wie
-        folgt zu kennzeichnen:
+        Aufbringung, ausgenommen Maisanbauflächen, gilt ein Grenzwert von 8
+        ng. Bei Überschreitung des Grenzwertes von 8 ng ist im Rahmen der
+        Hinweise zur sachgerechten Anwendung wie folgt zu kennzeichnen:
         „Keine Anwendung auf Grünland zur Futtergewinnung und auf
         Ackerfutterflächen mit nichtwendender Bodenbearbeitung nach der
         Aufbringung, ausgenommen Maisanbauflächen.“
@@ -5041,6 +5070,25 @@ werden.
     *   Gemisch im Verhältnis 2:1.
 
 
+*    *   2.1.7
+
+    *   N-((3(5)-Methyl-1H-pyrazol-1-yl)methyl)acetamid
+
+    *   0,05
+
+    *   Maximal 0,4 % bezogen auf den Gesamtgehalt an Ammonium- und
+        Carbamidstickstoff.
+
+
+*    *   2.1.8
+
+    *   Nitrapyrin [2-chloro-6-(trichloromethyl)pyridin]
+
+    *
+    *   Die zugegebene Anwendungsmenge darf 500 g je ha und Jahr nicht
+        überschreiten
+
+
 *    *   2.2 Ureasehemmstoffe
 
 
@@ -5054,8 +5102,21 @@ werden.
 
     *
 
+*    *   2.2.2
 
-   ## Tabelle 3
+    *   Gemisch aus N-Butyl-thiophosphortriamid und N-Propyl-
+        thiophosphortriamid
+
+    *   Anteil, bezogen auf den Carbamidstickstoff:
+        0,02 % bis 0,2 %
+
+    *   Gemisch aus N-Butyl-thiophosphortriamid und N-Propyl-
+        thiophosphortriamid im Verhältnis 3:1.
+        Toleranz auf den Anteil an NPPT: 20 %
+
+
+
+## Tabelle 3
 
 ## Zulässige Stickstoffformen für mineralische Mehrnährstoffdünger
 
@@ -5128,8 +5189,8 @@ Phosphatlöslichkeiten.
 *    *   4.1.1
 
     *   Phosphat (P
-        2                     O
-        5                     )
+        2O
+        5)
 
 
 *    *   4.2 Phosphatlöslichkeiten
@@ -5168,25 +5229,25 @@ Phosphatlöslichkeiten.
 *    *   4.2.7
 
     *   Gesamtphosphat, davon mindestens 75 % des angegebenen Gehaltes an P
-        2                     O
-        5                      in alkalischem Ammoncitrat (Joulie) löslich
+        2O
+        5 in alkalischem Ammoncitrat (Joulie) löslich
 
 
 *    *   4.2.8
 
     *   Gesamtphosphat, davon mindestens 55 % des angegebenen Gehaltes an P
-        2                     O
-        5                      in 2 %iger Ameisensäure löslich
+        2O
+        5 in 2 %iger Ameisensäure löslich
 
 
 *    *   4.2.9
 
     *   Gesamtphosphat, davon mindestens 45 % des angegebenen Gehaltes an P
-        2                     O
-        5                      in 2 %iger Ameisensäure löslich, mindestens 20
-        % des angegebenen Gehaltes an P
-        2                     O
-        5                      wasserlösliches Phosphat
+        2O
+        5 in 2 %iger Ameisensäure löslich, mindestens 20 % des angegebenen
+        Gehaltes an P
+        2O
+        5 wasserlösliches Phosphat
 
 
 *    *   4.2.10
@@ -5209,8 +5270,8 @@ Phosphatbestandteil
 ### **Vorbemerkung und Hinweise**
 
 Die letzte Stelle der für geforderte Löslichkeiten genutzten
-Kennziffer in den Spalten 3 und 4 entsprechen der in der
-Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
+Kennziffer in der Spalte 3 entsprechen der in der Düngemittelanalytik
+genutzten Nummer für die Phosphatlöslichkeiten.
 
 
 *    *
@@ -5222,12 +5283,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
         müssen nachfolgende
         Angaben angefügt
         sein
-
-    *   Angabe
-        folgender
-        Löslichkeiten
-        (nach
-        Tabelle 4)
 
     *   Mindest-
         löslichkeit
@@ -5245,31 +5300,26 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   4
 
-    *   5
-
 
 *    *   5.1
 
     *
         a)  weniger als 2 % wasser-
             löslichem P
-            2                           O
-[^f778939_03_BJNR248200012BJNE001600000]
+            2O
+[^f778939_03_BJNR248200012BJNE001602124]
             5
 
 
         b)  2 % und mehr wasser-
             löslichem P
-            2                           O
+            2O
             5
 
 
 
 
     *
-    *   4.2.2
-        4\.2.1; 4.2.3
-
     *
     *   Thomasphosphat, Glühphosphat,
         Aluminiumcalciumphosphat,
@@ -5283,8 +5333,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   „mit Rohphosphat
         mit wasserlöslichem Anteil“
-
-    *   4.2.9
 
     *   Löslichkeit 4.2.1: 2 %
 
@@ -5302,8 +5350,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
     *   verwendete
         Phosphatarten
 
-    *   4.2.10
-
     *
     *   andere als in Spalte 1
         genannte Phosphatarten
@@ -5315,8 +5361,6 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   „mit Dicalciumphosphat“
 
-    *   4.2.5
-
     *
     *   andere Phosphatarten
 
@@ -5327,15 +5371,9 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   „mit Rohphosphat“
 
-    *   4.2.1
-        4\.2.3
-        4\.2.4
-        4\.2.11
-
-    *   2,5 %
-        5 %
-        2 %
-        –
+    *   Löslichkeit 4.2.1: 2,5 %
+        Löslichkeit 4.2.3: 5 %
+        Löslichkeit 4.2.4: 2 %
 
     *   Thomasphosphat,
         Glühphosphat,
@@ -5348,15 +5386,9 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   „mit teilaufgeschlossenem Rohphosphat“
 
-    *   4.2.1
-        4\.2.3
-        4\.2.4
-        4\.2.11
-
-    *   2,5 %
-        5 %
-        2 %
-        –
+    *   Löslichkeit 4.2.1: 2,5 %
+        Löslichkeit 4.2.3: 5 %
+        Löslichkeit 4.2.4: 2 %
 
     *   Thomasphosphat,
         Glühphosphat,
@@ -5371,12 +5403,12 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
     *   „mit Phosphatdüngern aus [Stoff nach
         Tabelle 6.2]“
 
-    *   4.2.1
-        4\.2.6
-        4\.2.11
+    *   Löslichkeit 4.2.1: 2,5 %
+        Löslichkeit 4.2.3: 5 %
+        Löslichkeit 4.2.4: 2 %
 
-    *
-    *
+    *   andere Phosphatarten
+
 
 *    *   5.8
 
@@ -5384,9 +5416,10 @@ Düngemittelanalytik genutzten Nummer für die Phosphatlöslichkeit
 
     *   „mit weicherdigem Rohphosphat“
 
-    *   4.2.8
+    *   Löslichkeit 4.2.1: 2,5 %
+        Löslichkeit 4.2.3: 5 %
+        Löslichkeit 4.2.4: 2 %
 
-    *
     *   andere Phosphatarten
 
 
@@ -5404,7 +5437,7 @@ Produktionsprozessen, die nicht auf die Erzeugung dieser
 Ausgangsstoffe ausgerichtet sind. Für diese Stoffe gelten deshalb ggf.
 zusätzliche besondere Auflagen in den jeweiligen Vorbemerkungen oder
 in den Vorgaben für einzelne Düngemitteltypen der
-Anlage 1             .
+Anlage 1.
 
 
 *    *
@@ -5531,8 +5564,8 @@ Anlage 1             .
     *   Wiederverwertung von bereits gebrauchten Ammoniumsulfatlösungen
 
     *   Regeneration NH
-        4                     -beladener Zeolithe bei der Aufbereitung
-        gebrauchter Ammoniumsulfatlösungen
+        4-beladener Zeolithe bei der Aufbereitung gebrauchter
+        Ammoniumsulfatlösungen
 
     *
 
@@ -5626,7 +5659,7 @@ Anlage 1             .
 
     *   Stoffe nach Tabelle 7
 
-    *   Prozesstemperatur*                      1 450 °C
+    *   Prozesstemperatur* 1 450 °C
         Keine Zugabe von Stoffen nach Tabelle 8.3.
 
 
@@ -5765,9 +5798,9 @@ Anlage 1             .
 
 
         Eisen bewertet als Fe
-        2                     O
-        3*                      5 % bezogen auf TM.
-        Mangan bewertet als MnO*                      5 % bezogen auf TM.
+        2O
+        3* 5 % bezogen auf TM.
+        Mangan bewertet als MnO* 5 % bezogen auf TM.
         Keine Schlämme aus der Enteisenung und der Entmanganung.
 
 
@@ -5800,7 +5833,7 @@ Anlage 1             .
         Papierschlamm.
 
     *   Im Rahmen der Hinweise zur sachgerechten Anwendung ist auf die
-        N-Immobilisierung                      hinzuweisen.
+        N-Immobilisierung hinzuweisen.
         Ohne Zugabe von Fällungsmitteln,
         ausgenommen Kalk.
         Ohne Zugabe von Bioziden.
@@ -5827,7 +5860,16 @@ Anlage 1             .
         Keine Aschen aus dem Rauchgasweg, ausgenommen aus der ersten
         filternden Einheit. Keine Kondensatfilterschlämme.
 
-    *
+    *   Siebdurchgang:
+
+        –   90 % bei 6,3 mm,
+
+
+        –   70 % bei 3,15 mm
+
+
+
+
 
 *    *   6.4.12
 
@@ -5883,8 +5925,8 @@ Anlage 1             .
 
     *
     *   Eisen bewertet als Fe
-        2                     O
-        3*                      5 % bezogen auf TM
+        2O
+        3* 5 % bezogen auf TM
 
 
 *    *   6.4.18
@@ -5967,8 +6009,8 @@ Anlage 1             .
 2.  Feste Düngemittel ausgenommen Wirtschaftsdünger, Bodenhilfsstoffe,
     Kultursubstrate oder Pflanzenhilfsmittel dürfen nur zerkleinert und
     streufähig aufbereitet in den Verkehr gebracht werden. Es gilt ein
-    Siebdurchgang von mindestens 90 %*                    20 mm
-    unbeschadet anderer spezieller Anforderungen für den Siebdurchgang.
+    Siebdurchgang von mindestens 90 %* 20 mm unbeschadet anderer
+    spezieller Anforderungen für den Siebdurchgang.
 
     Ausgenommen davon sind Bodenhilfsstoffe und Kultursubstrate, deren
     spezieller Anwendungszweck eine gröbere Struktur erfordert. In diesem
@@ -6034,7 +6076,7 @@ Anlage 1             .
         Heilerde
 
     *   C
-        org*                      10 %
+        org* 10 %
         Für Torf: Angabe „Hochmoor-“ oder
         „Niedermoortorf“ mit Zersetzungsgrad.
         Für Heilerde: keine Medikamentenrückstände.
@@ -6276,7 +6318,8 @@ Anlage 1             .
 
     *   Braunkohle, auch Leonardit, Xylith, nicht als Rückstand aus vorherigen
         Produktions- oder Verarbeitungsprozessen
-        Holzkohle aus chemisch unbehandeltem Holz
+        Holzkohle mit einem Kohlenstoffgehalt von mindestens 80 % C in der TM
+        aus chemisch unbehandeltem Holz
 
     *   Verwendung:
 
@@ -6371,7 +6414,8 @@ Anlage 1             .
 
         –   Zusätzliche Angabe der nach der
             Verordnung (EG) Nr. 1069/2009
-            zutreffenden Kategorie.
+            zutreffenden Kategorie sowie des tatsächlich verwendeten
+            Ausgangsstoffes.
 
 
         –   Im Rahmen der Hinweise zur
@@ -6399,7 +6443,8 @@ Anlage 1             .
 
         –   Zusätzliche Angabe der nach der
             Verordnung (EG) Nr. 1069/2009
-            zutreffenden Kategorie.
+            zutreffenden Kategorie sowie des tatsächlich verwendeten
+            Ausgangsstoffes.
 
 
         –   Im Rahmen der Hinweise zur
@@ -6425,7 +6470,8 @@ Anlage 1             .
 
         –   Zusätzliche Angabe der nach der
             Verordnung (EG) Nr. 1069/2009
-            zutreffenden Kategorie.
+            zutreffenden Kategorie sowie des tatsächlich verwendeten
+            Ausgangsstoffes.
 
 
         –   „Zur Düngung im Haus- und
@@ -6468,8 +6514,7 @@ Anlage 1             .
             Festmist, sowie Guano, jeweils
             unverarbeitet oder verarbeitet in
             Übereinstimmung mit Anhang IV und V unter Einhaltung von Anhang XI der
-            Verordnung (EU) Nr. 142/2011 bzw. in Biogasanlagen oder
-            Kompostieranlagen umgewandelt. Für Hinweise zur erforderlichen
+            Verordnung (EU) Nr. 142/2011. Für Hinweise zur erforderlichen
             Hygienisierung siehe auch TierNebV, sowie in folgenden
             EFSA-Stellungnahmen:
 
@@ -6492,8 +6537,8 @@ Anlage 1             .
 
     *   Tierische Exkremente nicht von Nutztieren
 
-    *   Heimtiere u. a., soweit diese nicht als Nutztiere der Verordnung (EG)
-        Nr. 1069/2009 unterliegen.
+    *   Heimtiere u. a., soweit diese nicht Nutztiere im Sinne des Artikels 3
+        Nummer 6 der Verordnung (EG) Nr. 1069/2009 sind.
 
     *   Die Tierart ist anzugeben.
         *Hinweis:*
@@ -6722,7 +6767,9 @@ Anlage 1             .
         Siebdurchgang:
         bei 0,1 mm max. 0,2 %,
         bei 0,05 mm max. 0,05 %,
-        bei 0,01 mm max. 0,005 %.
+        bei 0,01 mm max. 0,005 %. Aschen aus Tabelle 7.4 müssen vor einer
+        Granulierung oder Staubbindung einen Siebdurchgang von 98 % bei 0,63
+        mm und 90 % bei 0,16 mm aufweisen.
 
 
 *    *   7.3.17
@@ -6773,7 +6820,7 @@ Anlage 1             .
         Ohne Zugabe von Altpapier.
         Im Rahmen der Hinweise zur sachgerechten Anwendung ist bei einer
         Verwendung als Bodenhilfsstoff auf die
-        N-Immobilisierung                      hinzuweisen.
+        N-Immobilisierung hinzuweisen.
 
 
 *    *   7.4 Andere Stoffe und Organismen, auch Gemische
@@ -6839,13 +6886,7 @@ Anlage 1             .
     *   Klärschlämme gemäß AbfKlärV, die für eine Aufbringung nach AbfKlärV
         zulässig sind.
 
-    *   Ab dem 1. Januar 2014 Einleitung von Stoffen aus
-        Verarbeitungsbetrieben
-        tierischer Nebenprodukte und von Schlachtabwässern aus Schlachthöfen
-        nach den Artikeln 8, 9, 10 der Verordnung (EG) Nr. 1069/2009 nur, wenn
-        ein Feststoffrückhaltesystem mit einer maximalen Maschenweite von 2 mm
-        genutzt wird.
-        Zugabe von Kalk nur in einer Qualität, die zugelassenen Düngemitteln
+    *   Zugabe von Kalk nur in einer Qualität, die zugelassenen Düngemitteln
         entspricht.
         Zugabe von Bioabfällen, nur im Rahmen der Aufbereitung (z. B. im
         Faulturm) und nur in einer Qualität, die der Bioabfallverordnung
@@ -6911,24 +6952,42 @@ Anlage 1             .
 
 *    *   7.4.7
 
-    *   Synthetische Polymere
+    *   Synthetische Polymere oder Polymere auf Basis von Chitin oder Polymere
+        auf Basis von Stärke
 
-    *   Ab dem 1.1.2017 Verwendung nur,
-        soweit sämtliche Bestandteile und das Endprodukt sich um mindestens 20
-        % in zwei Jahren abbauen, ausgenommen sind solche Bestandteile, die
-        ausschließlich in geschlossenen Systemen verwendet und anschließend
-        entsorgt werden. Eine darauf folgende Verwertung zur Verwendung als
-        Stoff nach § 2 Düngegesetz ist nicht zulässig.
+    *   Im Falle synthetischer Polymere, die ausschließlich in geschlossenen
+        Systemen verwendet und anschließend entsorgt werden, ist ab dem
+        1\.1.2019 eine darauf folgende Verwertung zur Verwendung als Stoff nach
+        § 2 Düngegesetz, ausgenommen zum selben Zweck, nicht zulässig.
 
     *   Zur Verbesserung der Wasserhaltefähigkeit von Böden.
-        Im Falle einer Verwendung nach Spalte 2 zweiter Teilsatz ab 1.1.2017
-        Ergänzung
-        der Kennzeichnung mit den Worten:
-        „Anwendungsvorgabe:
+        Der verwendete Stoff nach Spalte 1 ist anzugeben.
+        Im Falle einer Verwendung synthetischer Polymere nach Satz 1 ab dem
+        1\.1.2019 Ergänzung der Kennzeichnung im Rahmen der Hinweise zur
+        sachgerechten Anwendung mit den Wörtern:
+        Anwendungsvorgabe:
+        Dieses Produkt enthält synthetische Polymere. Stoffe nach § 2 Nummer 1
+        und 6 bis 8 des Düngegesetzes, die synthetische Polymere enthalten,
+        dürfen auf derselben Fläche nur so angewendet werden, dass die hierbei
+        aufgebrachte Menge an synthetischen Polymeren 150 kg Wirksubstanz je
+        Hektar innerhalb von 10 Jahren nicht überschreitet.
+        Zur Einhaltung der nach Satz 2 höchstens zulässigen Menge darf die
+        Aufwandmenge dieses Produktes [einsetzen der Aufwandmenge, bei der die
+        nach Satz 2 höchstens zulässige Menge eingehalten wird, in kg TM/ha
+        oder anderer angegebener Einheit] nicht überschreiten.
+        Die Vorgaben nach den Sätzen 2 und 3 gelten nicht für ausschließliche
+        Anwendungen in Pflanzlöchern oder Pflanzgruben. Bei diesen Anwendungen
+        darf eine Aufwandmenge von 4 kg synthetischen Polymeren (Wirksubstanz)
+        je Kubikmeter Boden nicht überschritten werden. Im Falle einer
+        Verwendung synthetischer Polymere nach Spalte 2 gelten die
+        Kennzeichnungsvorgaben nach Satz 3 nicht. In diesem Fall ist ab dem
+        1\.1.2019 die Kennzeichnung im Rahmen der Hinweise zur sachgerechten
+        Anwendung mit den Wörtern zu ergänzen:
+        Anwendungsvorgabe:
         Nur in Systemen zu verwenden, die nach Gebrauch eine Entsorgung
         ermöglichen. Eine darauf folgende Verwertung zur Verwendung als Stoff
         nach § 2 Düngegesetz, ausgenommen zum selben Zweck, ist nicht
-        zulässig.“
+        zulässig.
 
 
 *    *   7.4.8
@@ -6977,8 +7036,18 @@ Anlage 1             .
         Färbung der Blütenblätter bei Hortensien.
 
 
+*    *   7.4.12
 
-## Tabelle 8
+    *   Fischteichschlamm
+
+    *   Fischteichschlamm, Fischteichsedimente und Filterschlämme aus der
+        Fischproduktion in der Teichwirtschaft gemäß § 2 Nummer 1 in
+        Verbindung mit Anhang 1 Nummer 1 Buchstabe a der Bioabfallverordnung
+
+    *
+
+
+   ## Tabelle 8
 
 ## Nebenbestandteile
 
@@ -7073,26 +7142,41 @@ Anlage 1             .
 
 *    *   8.1.3
 
-    *   Synthetische Polymere
+    *   Polymere, synthetisch oder auf Basis von Chitin oder Stärke
 
-    *   Ab dem 1.1.2017 Verwendung nur,
-        soweit sämtliche Bestandteile und das Endprodukt sich mindestens um 20
-        % in zwei Jahren abbauen, ausgenommen sind solche Bestandteile, die
-        ausschließlich in geschlossenen Systemen verwendet und anschließend
-        entsorgt werden. Eine darauf folgende Verwertung zur Verwendung als
-        Stoff nach § 2 Düngegesetz ist nicht zulässig.
+    *   Im Falle synthetischer Polymere, die ausschließlich in geschlossenen
+        Systemen verwendet und anschließend entsorgt werden, ist ab dem
+        1\.1.2019 eine darauf folgende Verwertung zur Verwendung als Stoff nach
+        § 2 Düngegesetz, ausgenommen zum selben Zweck, nicht zulässig.
 
-    *   Zur Steuerung des Wassergehaltes
-        (Flockungs- und Konditionierungsmittel oder zur Wasserspeicherung)
-        oder als
-        Antihaftmittel im Rahmen der Aufbereitung.
-        Im Falle einer Verwendung nach Spalte 2 zweiter Teilsatz ab 1.1.2017
-        Ergänzung im Rahmen der Hinweise zur sachgerechten Anwendung:
-        „Anwendungsvorgabe:
+    *   Zur Steuerung des Wassergehaltes (Flockungs- und
+        Konditionierungsmittel oder zur Wasserspeicherung).
+        Auch als Antihaftmittel im Rahmen der Aufbereitung.
+        Im Falle einer Verwendung synthetischer Polymere nach Satz 1 ab dem
+        1\.1.2019 Ergänzung der Kennzeichnung im Rahmen der Hinweise zur
+        sachgerechten Anwendung mit den Wörtern:
+        Anwendungsvorgabe:
+        Dieses Produkt oder Material enthält synthetische Polymere. Stoffe
+        nach § 2 Nummer 1 und 6 bis 8 des Düngegesetzes, die synthetische
+        Polymere enthalten, dürfen auf derselben Fläche nur so angewendet
+        werden, dass die hierbei aufgebrachte Menge an synthetischen Polymeren
+        45 kg Wirksubstanz je Hektar innerhalb von 3 Jahren nicht
+        überschreitet.
+        Zur Einhaltung der nach Satz 2 höchstens zulässigen Menge darf die
+        Aufwandmenge dieses Produktes [einsetzen der Aufwandmenge, bei der die
+        nach Satz 2 höchstens zulässige Menge eingehalten wird, in kg TM/ha
+        oder anderer angegebener Einheit] nicht überschreiten. Die
+        Kennzeichnungsvorgaben nach Satz 3 gelten nicht im Falle synthetischer
+        Polymere, die sich um mindestens 20 % in zwei Jahren abbauen.
+        Die Kennzeichnungsvorgaben nach Satz 3 gelten ferner nicht im Falle
+        einer Verwendung synthetischer Polymere nach Spalte 2. In diesem Fall
+        ist ab dem 1.1.2019 die Kennzeichnung im Rahmen der Hinweise zur
+        sachgerechten Anwendung mit den Wörtern zu ergänzen:
+        Anwendungsvorgabe:
         Nur in Systemen zu verwenden, die nach Gebrauch eine Entsorgung
         ermöglichen. Eine darauf folgende Verwertung zur Verwendung als Stoff
         nach § 2 Düngegesetz, ausgenommen zum selben Zweck, ist nicht
-        zulässig.“
+        zulässig.
 
 
 *    *   8.1.4
@@ -7157,7 +7241,14 @@ Anlage 1             .
 
     *   Nickel
 
-    *   Nickelsulfathexahydrat
+    *
+        -   Nickelsulfathexahydrat,
+
+
+        -   Nickel komplexiert mit EDTA
+
+
+
 
     *   Zur Unterstützung der Methanbildung während der Vergärung.
         Für das Aufbereitungshilfsmittel Nickel
@@ -7175,7 +7266,7 @@ Anlage 1             .
 
     *   Zuordnung soweit nicht unter
         Nummer 8.1.1 bis 8.1.5 einzuordnen.
-        Im Rahmen der Kennzeichnung nach Nummer 10.2.4 ist für den
+        Im Rahmen der Kennzeichnung nach Nummer 10.2.3 ist für den
         Klammerausdruck nach Spalte 1 der jeweilige Stoff zu benennen.
 
 
@@ -7245,7 +7336,7 @@ Anlage 1             .
     *
     *   Für die Jungpflanzenanzucht im Zierpflanzenbau als Puffersystem für
         Nährstoffe (insbesondere P) in Kultursubstraten.
-        Zur Steuerung der P-Verfügbarkeit.
+        Zur Steuerung der P-Verfügbarkeit bei Kultursubstraten.
         Ergänzung im Rahmen der Hinweise zur sachgerechten Anwendung:
         „Anwendungsvorgabe:
         Nur in Systemen zu verwenden, die nach Gebrauch eine getrennte
@@ -7258,7 +7349,7 @@ Anlage 1             .
     *   Synthetische organische
         Ionenaustauscher
 
-    *   Nur soweit zur Verwertung für einzelne Düngemittel nach den
+    *   Nur soweit zur Verwendung für einzelne Düngemittel nach den
         Typenvorgaben in Anlage 1 zugelassen.
 
     *   Ergänzung im Rahmen der Hinweise zur sachgerechten Anwendung:
@@ -7272,37 +7363,44 @@ Anlage 1             .
 
 *    *   8.2.9
 
-    *   Synthetische Polymere
+    *   Polymere, synthetisch oder auf Basis von Chitin oder Stärke
 
-    *   Ab dem 1.1.2017 Verwendung nur,
-        soweit sämtliche Bestandteile und das Endprodukt sich mindestens um 20
-        % in zwei Jahren abbauen, ausgenommen sind solche synthetischen
-        Polymere, die
-
-        1.  ausschließlich in geschlossenen
-            Systemen verwendet und anschließend
-            entsorgt werden. Eine darauf folgende
-            Verwertung zur Verwendung als Stoff
-            nach § 2 Düngegesetz, ausgenommen
-            zum selben Zweck, ist nicht zulässig;
-
-
-        2.  als Hüllsubstanz für Düngemittel zur
-            Steuerung der Nährstoffverfügbarkeit
-            dienen.
-
-
-
+    *   Im Falle synthetischer Polymere, die ausschließlich in geschlossenen
+        Systemen verwendet und anschließend entsorgt werden, ist ab dem
+        1\.1.2019 eine darauf folgende Verwertung zur Verwendung als Stoff nach
+        § 2 Düngegesetz, ausgenommen zum selben Zweck, nicht zulässig.
 
     *   Für Kultursubstrate zur Verbesserung der Wasseraufnahme und des
         Wasserhaltevermögens.
-        Im Falle einer Verwendung nach Spalte 2 Nummer 1 ab 1.1.2017
-        Kennzeichnung im Rahmen der Hinweise zur sachgerechten Anwendung:
-        „Anwendungsvorgabe:
-        Nur in Systemen zu verwenden, die nach Gebrauch eine getrennte
-        Entsorgung
-        ermöglichen. Eine Verwendung als Stoff nach § 2 Düngegesetz,
-        ausgenommen zum selben Zweck, ist nicht zulässig.“
+        Als Hüllsubstanz für Düngemittel zur Steuerung der
+        Nährstoffverfügbarkeit.
+        Im Falle einer Verwendung synthetischer Polymere nach Satz 1 ab dem
+        1\.1.2019 Ergänzung der Kennzeichnung im Rahmen der Hinweise zur
+        sachgerechten Anwendung mit den Wörtern:
+        Anwendungsvorgabe:
+        Dieses Produkt enthält synthetische Polymere. Stoffe nach § 2 Nummer 1
+        und 6 bis 8 des Düngegesetzes, die synthetische Polymere enthalten,
+        dürfen auf derselben Fläche nur so angewendet werden, dass die hierbei
+        aufgebrachte Menge an synthetischen Polymeren 150 kg Wirksubstanz je
+        Hektar innerhalb von 10 Jahren nicht überschreitet.
+        Zur Einhaltung der nach Satz 2 höchstens zulässigen Menge darf die
+        Aufwandmenge dieses Produktes [einsetzen der Aufwandmenge, bei der die
+        nach Satz 2 höchstens zulässige Menge eingehalten wird, in kg TM/ha
+        oder anderer angegebener Einheit] nicht überschreiten.
+        Die Vorgaben nach den Sätzen 2 und 3 gelten nicht für ausschließliche
+        Anwendungen in Pflanzlöchern oder Pflanzgruben. Bei diesen Anwendungen
+        darf eine Aufwandmenge von 4 kg synthetischen Polymeren (Wirksubstanz)
+        je Kubikmeter Kultursubstrat nicht überschritten werden.
+        Anwendung nur bei tatsächlichem Bedarf. Im Falle einer Verwendung
+        synthetischer Polymere nach Spalte 2 gelten die Kennzeichnungsvorgaben
+        nach Satz 3 nicht.
+        In diesem Fall ist ab dem 1.1.2019 die Kennzeichnung im Rahmen der
+        Hinweise zur sachgerechten Anwendung mit den Wörtern zu ergänzen:
+        Anwendungsvorgabe:
+        Nur in Systemen zu verwenden, die nach Gebrauch eine Entsorgung
+        ermöglichen. Eine darauf folgende Verwertung zur Verwendung als Stoff
+        nach § 2 Düngegesetz, ausgenommen zum selben Zweck, ist nicht
+        zulässig.
 
 
 *    *   8.2.11
@@ -7334,7 +7432,7 @@ Anlage 1             .
 
     *   Zuordnung soweit nicht unter
         Nummer 8.2.1 bis 8.2.11 einzuordnen.
-        Im Rahmen der Kennzeichnung nach Nummer 10.2.4 ist für den
+        Im Rahmen der Kennzeichnung nach Nummer 10.2.3 ist für den
         Klammerausdruck nach Spalte 1 der jeweilige Stoff zu benennen.
 
 
@@ -7373,16 +7471,13 @@ Anlage 1             .
     *   Alkohol
 
     *
-        –   Aus der Lebens- Genuss- oder
-            Futtermittelherstellung,
+        –   Aus der Lebens- Genuss- oder Futtermittelherstellung,
 
 
-        –   Ethanol aus nachwachsenden
-            Rohstoffen,
+        –   Ethanol aus nachwachsenden Rohstoffen,
 
 
-        –   Glycerin, auch Rohglycerin aus der
-            Herstellung von Biodiesel.
+        –   Glycerin, auch Rohglycerin aus der Herstellung von Biodiesel.
 
 
 
@@ -7402,16 +7497,14 @@ Anlage 1             .
     *   Fett und Fettrückstände
 
     *
-        –   Rückstände von Lebens-, Genuss-
-            oder Futtermitteln,
+        –   Rückstände von Lebens-, Genuss- oder Futtermitteln,
 
 
         –   Aus der Herstellung von Biodiesel,
 
 
-        –   Fette aus Material der Kategorie 3
-            nach der Verordnung (EG)
-            Nr. 1069/2009
+        –   Fette aus Material der Kategorie 3 nach der Verordnung (EG) Nr.
+            1069/2009
 
 
 
@@ -7462,11 +7555,11 @@ Anlage 1             .
         Bei Filtrationsrückständen mit Kieselguren:
 
         –   Anteil der Kieselgur im Filtrations-
-            rückstand*                            75 %,
+            rückstand* 75 %,
 
 
         –   Partikel kristalliner Kieselsäure mit
-            Durchmesser unter 50 µm*                            0,1 %.
+            Durchmesser unter 50 µm* 0,1 %.
 
 
 
@@ -7477,9 +7570,9 @@ Anlage 1             .
     *
     *
         –   Siebdurchgang:
-            *                            0,10 mm max. 0,2 %,
-            *                            0,05 mm max. 0,1 %,
-            *                            0,01 mm max. 0,005 %.
+            * 0,10 mm max. 0,2 %,
+            * 0,05 mm max. 0,1 %,
+            * 0,01 mm max. 0,005 %.
 
 
         –   Im Rahmen der Hinweise zur sach-
@@ -7509,7 +7602,7 @@ Anlage 1             .
 
 *    *   8.3.9
 
-    *   Altpapier, Steine, Glas, Metall, Karton, nicht abbaubare Kunststoffe
+    *   Altpapier, Steine, Glas, Metall, Karton, Kunststoffe
 
     *
     *   Soweit nicht Ausgangsmaterial nach
@@ -7574,9 +7667,9 @@ Anlage 1             .
     *   Diethylentriaminpentaessigsäure
 
     *   C
-        14                     H
-        23                     O
-        10                     N
+        14H
+        23O
+        10N
         3
 
 
@@ -7587,9 +7680,9 @@ Anlage 1             .
     *   Ethylendiamin-di-(5-carboxy-2-hydroxyphenyl)essigsäure
 
     *   C
-        20                     H
-        20                     O
-        10                     N
+        20H
+        20O
+        10N
         2
 
 
@@ -7600,9 +7693,9 @@ Anlage 1             .
     *   Ethylendiamin-di-(o-hydroxyphenyl)essigsäure
 
     *   C
-        18                     H
-        20                     O
-        6                     N
+        18H
+        20O
+        6N
         2
 
 
@@ -7613,9 +7706,9 @@ Anlage 1             .
     *   Ethylendiamin-di-(o-hydroxy-p-methylphenyl)essigsäure
 
     *   C
-        20                     H
-        24                     O
-        6                     N
+        20H
+        24O
+        6N
         2
 
 
@@ -7626,9 +7719,9 @@ Anlage 1             .
     *   Ethylendiamintetraessigsäure
 
     *   C
-        10                     H
-        16                     O
-        8                     N
+        10H
+        16O
+        8N
         2
 
 
@@ -7639,9 +7732,9 @@ Anlage 1             .
     *   Hydroxy-2-ethylendiamintriessigsäure
 
     *   C
-        10                     H
-        18                     O
-        7                     N
+        10H
+        18O
+        7N
         2
 
 
@@ -7652,9 +7745,9 @@ Anlage 1             .
     *   Trimethylendiamin-N, N-bis-(O-hydroxybenzyl)-N, N-diessigsäure
 
     *   C
-        21                     H
-        26                     O
-        6                     N
+        21H
+        26O
+        6N
         2
 
 
@@ -7665,16 +7758,36 @@ Anlage 1             .
     *   D,L-(N-1.2 Dicarboxyehtyl)-asparaginsäure Tetranatriumsalz
 
     *   C
-        8                     H
-        7                     NO
-        8                     Na
+        8H
+        7NO
+        8Na
         4
 
 
-*    *   Für 9.1.1 bis 9.1.7 auch deren Natrium-, Kalium- oder Ammoniumsalze
+*    *   9.1.9
+
+    *   EDDS
+
+    *   (S, S)-Ethylendiamindisuccinat
+
+    *   C
+        10H
+        16O
+        8N
+        2
 
 
-*    *   Tabelle 9.1 Sonstige Komplexbildner
+*    *   Für Nummern 9.1.1 bis 9.1.7 auch deren Natrium-, Kalium- oder
+        Ammoniumsalze
+
+
+*    *   Für Nummer 9.1.9 gelten folgende ergänzenden Vorgaben und Hinweise:
+        Ausschließlich zur Blattanwendung. Im Rahmen der Hinweise zur
+        sachgerechten Anwendung Kennzeichnung mit dem Hinweis: „Produkt ist
+        ausschließlich zur Blattanwendung zugelassen. “
+
+
+*    *   Tabelle 9.2 Sonstige Komplexbildner
 
 
 *    *   9.2.1
@@ -7684,9 +7797,9 @@ Anlage 1             .
     *   Organophosphonsäure (1-Hydroxyäthan-1, 1-diphosphonsäure)
 
     *   C
-        2                     H
-        8                     O
-        7                     P
+        2H
+        8O
+        7P
         2
 
 
@@ -7704,8 +7817,8 @@ Anlage 1             .
     *   2-Hydroxypropan-1,2,3-tricarbonsäure
 
     *   C
-        6                     H
-        8                     O
+        6H
+        8O
         7
 
 
@@ -7717,8 +7830,20 @@ Anlage 1             .
 
     *
 
+*    *   9.2.5
 
-   ## Tabelle 10
+    *   Glycinat
+
+    *   2-Aminoethansäure
+
+    *   C
+        2H
+        5NO
+        2
+
+
+
+## Tabelle 10
 
 ## Kennzeichnung
 
@@ -7854,7 +7979,7 @@ Anlage 1             .
     *
     *
         3.  Bei Kalken darf ab einem Gehalt an MgCO
-            3                              von
+            3 von
             15 % oder MgO von 7 % die Typenbezeichnung
             um das vorgestellte Wort „Magnesium“ ergänzt sein. Kohlensaurer Kalk
             nach Satz 1 ist bei Erreichen der
@@ -7879,7 +8004,7 @@ Anlage 1             .
             Tabelle 6 oder Tabelle 7, jeweils Spalte 1 in
             absteigender Reihenfolge nach eingesetzten
             Mengenanteilen. Eine Behandlung der Haupt-
-            bestandteile gemäß § 1 Nummer 16 und 17 darf angegeben werden.
+            bestandteile gemäß § 1 Nummer 17 und 18 darf angegeben werden.
 
 
         2.  Gegebenenfalls Ergänzung der Kennzeichnung
@@ -7902,7 +8027,7 @@ Anlage 1             .
             Nummer 10.1.1 mit den Worten: „unter Verwendung von …“ und Angabe der
             Stoffe nach Tabelle 6 oder Tabelle 7, jeweils Spalte 1 in absteigender
             Reihenfolge nach eingesetzten Mengenanteilen. Eine
-            Behandlung der Hauptbestandteile gemäß § 1 Nummer 16 und 17 darf
+            Behandlung der Hauptbestandteile gemäß § 1 Nummer 17 und 18 darf
             angegeben werden.
 
 
@@ -7964,9 +8089,9 @@ Anlage 1             .
         2.  Zusätzlich sind anzugeben:
 
             –   Nährstoffgehalte für N, P
-                2                                   O
-                5                                    oder K
-                2                                   O,
+                2O
+                5 und K
+                2O,
 
 
             –   bei Wirtschaftsdünger tierischer Herkunft
@@ -8012,9 +8137,9 @@ Anlage 1             .
 
 
         2.  Nährstoffgehalte für N, P
-            2                             O
-            5                              und K
-            2                             O nach
+            2O
+            5 und K
+            2O nach
             Tabelle 1 Nummer 1.2.1, 1.2.3 und 1.2.5.
 
 
@@ -8038,11 +8163,9 @@ Anlage 1             .
     *   Zugabe von Komplexbildnern nach Anlage 2 Tabelle 9
 
     *
-        1.  Die Typenbezeichnung nach Anlage 1 Spalte 1
-            der jeweiligen Beschreibung des Düngemitteltyps muss durch die Angabe
-            „mit Komplexbildner“
-            unter nachfolgender Angabe des Stoffes nach
-            Tabelle 9 Spalte 1 ergänzt sein.
+        1.  Bei Zugabe von Komplexbildnern muss der jeweilige Komplexbildner nach
+            dem komplexierten Nährstoff unter Angabe des Stoffes nach Tabelle 9
+            Spalte 1 ergänzt sein.
 
 
         2.  Bei der Angabe des Chelat- oder Komplexbildners
@@ -8065,7 +8188,7 @@ Anlage 1             .
 
 
         2.  pH-Wert (CaCl
-            2                             ) nach Tabelle 1 Nummer 1.3.7
+            2) nach Tabelle 1 Nummer 1.3.7
             mit bis zu einer Dezimalstelle.
 
 
@@ -8078,10 +8201,21 @@ Anlage 1             .
 
 *    *   10.1.6
 
-    *   Zugabe von Kalk zu Düngemitteln nach Anlage 1 Abschnitte 1 und 2
+    *   Zugabe von
+
+        –   Kalk zu Düngemitteln nach Anlage 1 Abschnitte 1 und 2,
+
+
+        –   mineralischen Einnährstoffdüngern nach der Verordnung (EG) Nr.
+            2003/2003 und Düngemitteln nach Anlage 1 Abschnitt 1 zu Düngemitteln
+            nach Anlage 1 Abschnitt 1.4
+
+
+
+
 
     *   Die Typenbezeichnung ist um das Wort „mit“ und die Angabe des
-        zugegebenen Kalkdüngertyps zu ergänzen.
+        zugegebenen Düngertyps zu ergänzen.
 
     *   Pflanzenhilfsmittel
 
@@ -8091,9 +8225,9 @@ Anlage 1             .
 
 
         2.  Nährstoffgehalte für N, P
-            2                             O
-            5                              und K
-            2                             O nach
+            2O
+            5 und K
+            2O nach
             Tabelle 1 Nummer 1.2.
 
 
@@ -8134,7 +8268,14 @@ Anlage 1             .
     *
         1.  Angabe von Art und Höhe der tatsächlichen Gehalte
             nach Anlage 1 Spalte 3 der jeweiligen Beschreibung des
-            Düngemitteltyps. Die Angabe der Gehalte
+            Düngemitteltyps. Bei phosphathaltigen Düngemitteln nach Anlage 1
+            Abschnitte 1.2, 2, 3 und 5 Angabe der Gehalte an Gesamtphosphat nach
+            Tabelle 4 Nummer 4.2.11, wasserlöslichem Phosphat nach Tabelle 4
+            Nummer 4.2.1 und neutral-ammoncitratlöslichem Phosphat nach Tabelle 4
+            Nummer 4.2.2, wenn jeweils ein Gehalt von 1 Prozent erreicht wird.
+            Sind die Gehalte an Phosphat nach Satz 2 anzugeben, ist die
+            zusätzliche Angabe der Gehalte an Phosphat nach Satz 1 in Verbindung
+            mit Anlage 1 Spalte 3 fakultativ. Die Angabe der Gehalte
             erfolgt in Prozent, bezogen auf die Nettomasse,
             mit bis zu zwei Dezimalstellen, für Spurennährstoffe mit zwei bis vier
             Dezimalstellen.
@@ -8375,10 +8516,10 @@ Anlage 1             .
 
         3.  Bei Kultursubstraten: Angabe der Nährstoffe in mg/l bezogen auf das
             Nettovolumen, dabei für N, P
-            2                             O
-            5                             , K
-            2                             O und Mg als pflanzenverfügbare
-            (lösliche) Nährstoffe unter Angabe der Methode.
+            2O
+            5, K
+            2O und Mg als pflanzenverfügbare (lösliche) Nährstoffe unter Angabe
+            der Methode.
 
 
 
@@ -8387,19 +8528,22 @@ Anlage 1             .
 *    *
     *
     *
-        –   Phosphat: Gesamtgehalt, Gehalt weiterer Phosphatlöslichkeiten nach
-            Tabelle 4, wenn jeweils ein Gehalt von 1 Prozent erreicht wird,
+        –   Phosphat: Gesamtphosphat nach Tabelle 4 Nummer 4.2.11, wasserlösliches
+            Phosphat nach Tabelle 4 Nummer 4.2.1 und neutral-ammoncitratlösliches
+            Phosphat nach Tabelle 4 Nummer 4.2.2, wenn jeweils ein Gehalt von 1
+            Prozent erreicht wird; Gehalt weiterer Phosphatlöslichkeiten nach
+            Tabelle 4 fakultativ,
 
 
         –   andere Nährstoffe:
 
-            *                              bei völlig wasserlöslichen Nährstoffen
+            * bei völlig wasserlöslichen Nährstoffen
             Angabe der wasserlöslichen Gehalte,
 
-            *                              bei nicht völlig wasserlöslichen Nähr-
+            * bei nicht völlig wasserlöslichen Nähr-
             stoffen Angabe der Gesamtgehalte,
 
-            *                              wenn mindestens ein Viertel des Gesamt-
+            * wenn mindestens ein Viertel des Gesamt-
             gehaltes wasserlöslich ist, Angabe des Gesamtgehaltes und des
             wasserlöslichen Gehaltes.
 
@@ -8429,7 +8573,7 @@ Anlage 1             .
 
 
         3.  Gegebenenfalls Ergänzung der Kennzeichnung
-            um nach Spalte 3 der Tabelle 8.1 oder 8.3 vor-
+            um nach Spalte 3 der Tabelle 8.1 oder 8.2 vor-
             gegebene weitere Angaben für diese Stoffe.
 
 
@@ -8453,7 +8597,7 @@ Anlage 1             .
 
 
         3.  Gegebenenfalls Ergänzung der Kennzeichnung
-            um nach Spalte 3 der Tabelle 8.1 oder 8.3
+            um nach Spalte 3 der Tabelle 8.1 oder 8.2
             vorgegebene weitere Angaben für diese Stoffe.
 
 
@@ -8602,8 +8746,7 @@ Anlage 1             .
         Abschnitt 3
 
     *
-        1.  Bei einem C:N-Verhältnis von*                              30:1 ist im
-            Rahmen
+        1.  Bei einem C:N-Verhältnis von* 30:1 ist im Rahmen
             der Hinweise zur sachgerechten Anwendung auf
             eine mögliche Stickstofffestlegung im Boden oder
             im Substrat hinzuweisen.
@@ -8628,9 +8771,9 @@ Anlage 1             .
     *   Bei Verwendung organischer Ausgangsstoffe nach Tabelle 7
 
     *
-        1.  Bei einem C:N-Verhältnis von*                              30:1 ist im
-            Rahmen der Hinweise zur sachgerechten Anwendung auf eine mögliche
-            Stickstofffestlegung im Boden oder im Substrat hinzuweisen.
+        1.  Bei einem C:N-Verhältnis von* 30:1 ist im Rahmen der Hinweise zur
+            sachgerechten Anwendung auf eine mögliche Stickstofffestlegung im
+            Boden oder im Substrat hinzuweisen.
 
 
         2.  Erforderlichenfalls zusätzlich sachgerechte Angaben zu möglichen
@@ -8658,7 +8801,8 @@ Anlage 1             .
             sachgerechten Lagerung und Anwendung der Hinweis „Organisches
             Düngemittel unter Verwendung von tierischen Nebenprodukten – Zugang
             für Nutztiere zu den behandelten Flächen während eines Zeitraumes von
-            mindestens 21 Tagen nach der Ausbringung verboten“.
+            mindestens 21 Tagen nach der Ausbringung verboten“, soweit in Anlage 2
+            Tabelle 7.2 Spalte 3 nichts anderes bestimmt ist.
 
 
 
@@ -8757,7 +8901,7 @@ Anlage 1             .
 
 *    *   10.4.3
 
-    *   Unentgeltliches Inverkehrbringen zu Forschungszwecken
+    *   Inverkehrbringen zu Forschungs- oder Versuchszwecken
 
     *
         1.  Zusammensetzung einschließlich Nebenbestand-
@@ -8773,7 +8917,7 @@ Anlage 1             .
 
 
 
-    *   Unentgeltliches Inverkehrbringen zu Forschungszwecken
+    *   Inverkehrbringen zu Forschungs- oder Versuchszwecken
 
     *
         1.  Zusammensetzung einschließlich Nebenbestand-
@@ -8830,7 +8974,6 @@ Anlage 1             .
 
     Gilt nicht für Wirtschaftsdünger tierischer Herkunft und Gärreste ohne
     Bioabfallanteil.
-[^f778939_02_BJNR248200012BJNE001600000]: [^f778939_03_BJNR248200012BJNE001600000]:     Der Anteil an ausschließlich mineralsäurelöslichem P
-    2             O                            5              darf 2 %
-    nicht überschreiten.
+[^f778939_02_BJNR248200012BJNE001602124]: [^f778939_03_BJNR248200012BJNE001602124]:     Der Anteil an ausschließlich mineralsäurelöslichem P2O5 darf 2 % nicht
+    überschreiten.
 

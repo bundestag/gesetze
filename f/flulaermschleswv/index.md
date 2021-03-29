@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Schleswig
 jurabk: FluLärmSchleswV
 layout: default
-origslug: flul_rmschleswv
+origslug: flulaermschleswv
 slug: flulaermschleswv
 
 ---

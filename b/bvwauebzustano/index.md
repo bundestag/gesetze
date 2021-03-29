@@ -3,7 +3,7 @@ Title: Anordnung über die Wahrnehmung von Aufgaben durch das Bundesverwaltungsa
   bei der Übernahme von Deutschen und Volksdeutschen in das Bundesgebiet
 jurabk: BVwAÜbZustAnO
 layout: default
-origslug: bvwa_bzustano
+origslug: bvwauebzustano
 slug: bvwauebzustano
 
 ---

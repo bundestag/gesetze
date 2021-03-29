@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der beamteten Besatzungsangehörigen auf Hilfsschiffen der Bundeswehr
 jurabk: BPräsKldgBWSchAnO
 layout: default
-origslug: bpr_skldgbwschano
+origslug: bpraeskldgbwschano
 slug: bpraeskldgbwschano
 
 ---

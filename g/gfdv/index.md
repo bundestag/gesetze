@@ -576,9 +576,9 @@ Bundesverwaltungsamt bestimmte Konto zu überweisen.
 
 (1) Die Entscheidung über die Freistellung von der Verpflichtung zur
 Rückzahlung des Darlehens nach § 7a Abs. 4 oder
-Abs. 5              des Gesetzes trifft das Bundesverwaltungsamt. Sie
-erfolgt nur auf schriftlichen Antrag. Sie ergeht in der Regel für die
-Dauer von zwölf Monaten.
+Abs. 5 des Gesetzes trifft das Bundesverwaltungsamt. Sie erfolgt nur
+auf schriftlichen Antrag. Sie ergeht in der Regel für die Dauer von
+zwölf Monaten.
 
 (2) Eine Freistellung erfolgt frühestens für den Monat, in dem der
 Antrag beim Bundesverwaltungsamt eingegangen ist.

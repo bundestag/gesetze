@@ -4,7 +4,7 @@ Title: Regelung Nr. 39 - Einheitliche Vorschriften für die Genehmigung der Fahr
   einschließlich ihres (seines) Einbaues
 jurabk: FzgTeilÜbkRgl 39
 layout: default
-origslug: fzgteil_bkrgl_39
+origslug: fzgteiluebkrgl_39
 slug: fzgteiluebkrgl_39
 
 ---

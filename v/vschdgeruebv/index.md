@@ -4,7 +4,7 @@ Title: Verordnung zur Übertragung der Ermächtigung zum Erlass einer Kostenvero
   nach dem EG-Verbraucherschutzdurchsetzungsgesetz
 jurabk: VSchDGErÜbV
 layout: default
-origslug: vschdger_bv
+origslug: vschdgeruebv
 slug: vschdgeruebv
 
 ---

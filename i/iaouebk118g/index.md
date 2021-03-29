@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen Nr. 118 der Internationalen Arbeitsorganisat
   Sozialen Sicherheit
 jurabk: IAOÜbk118G
 layout: default
-origslug: iao_bk118g
+origslug: iaouebk118g
 slug: iaouebk118g
 
 ---

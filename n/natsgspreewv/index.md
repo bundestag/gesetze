@@ -288,9 +288,9 @@ III und IV gegliedert. Die Schutzzonen I und II werden als
 Naturschutzgebiet von zentraler Bedeutung, die Schutzzonen III und IV
 als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
 
-(2) Die **Schutzzone I**              (Kernzone) umfaßt die Gebiete,
-die völlig ihrer natürlichen Dynamik überlassen bleiben. Im einzelnen
-sind dies folgende Gebiete:
+(2) Die **Schutzzone I** (Kernzone) umfaßt die Gebiete, die völlig
+ihrer natürlichen Dynamik überlassen bleiben. Im einzelnen sind dies
+folgende Gebiete:
 
 1.  Kernzone Groß Wasserburg
 
@@ -500,10 +500,10 @@ sind dies folgende Gebiete:
 
 
 
-(3) Die **Schutzzone II**              (Pflege- und Entwicklungszone)
-dient der Abschirmung der Kernzonen vor Schadeinflüssen sowie die
-Erhaltung und Pflege landschaftstypischer Vielfalt. Die Schutzzone II
-umfaßt folgende Gebiete:
+(3) Die **Schutzzone II** (Pflege- und Entwicklungszone) dient der
+Abschirmung der Kernzonen vor Schadeinflüssen sowie die Erhaltung und
+Pflege landschaftstypischer Vielfalt. Die Schutzzone II umfaßt
+folgende Gebiete:
 
 1.  **Naturschutzgebiet Josinsky-Luch**
 
@@ -1717,20 +1717,19 @@ umfaßt folgende Gebiete:
 
 
 
-(4) In der **Schutzzone III**              (Zone der harmonischen
-Kulturlandschaft) verbinden sich Schutz und Nutzung der Natur mit
-kulturellen Traditionen zur harmonischen Ganzheit. Nachhaltige
-Wirtschaftsweisen bewahren das über Jahrhunderte gewachsene
-Landschaftsbild.
+(4) In der **Schutzzone III** (Zone der harmonischen Kulturlandschaft)
+verbinden sich Schutz und Nutzung der Natur mit kulturellen
+Traditionen zur harmonischen Ganzheit. Nachhaltige Wirtschaftsweisen
+bewahren das über Jahrhunderte gewachsene Landschaftsbild.
 Die Schutzzone der harmonischen Kulturlandschaft umfaßt alle weder als
 Kernzonen, noch als Pflege- und Entwicklungszonen oder als
 Regenerierungszonen ausgewiesenen Flächen.
 
-(5) In der **Schutzzone IV**              (Regenerierungszone) wird
-die durch unsachgemäße Bewirtschaftung geschädigte Landschaft unter
-Anwendung ingenieurbiologischer und ökotechnologischer Methoden zur
-harmonischen Kulturlandschaft entwickelt. Die Schutzzone IV umfaßt
-folgende Gebiete:
+(5) In der **Schutzzone IV** (Regenerierungszone) wird die durch
+unsachgemäße Bewirtschaftung geschädigte Landschaft unter Anwendung
+ingenieurbiologischer und ökotechnologischer Methoden zur harmonischen
+Kulturlandschaft entwickelt. Die Schutzzone IV umfaßt folgende
+Gebiete:
 
 1.  Regenerierungszone Groß Wasserburg
 
@@ -2296,13 +2295,13 @@ Karten eingetragen.
 
 
 
-(2) In der **Schutzzone I**              (Kernzone) ist es geboten,
-die ungestörte natürliche Entwicklung zu sichern und zu fördern, indem
-direkte menschliche Einwirkungen vermieden und indirekte
-Beeinflussungen minimiert werden.
+(2) In der **Schutzzone I** (Kernzone) ist es geboten, die ungestörte
+natürliche Entwicklung zu sichern und zu fördern, indem direkte
+menschliche Einwirkungen vermieden und indirekte Beeinflussungen
+minimiert werden.
 
-(3) In der **Schutzzone II**              (Pflege- und
-Entwicklungszone) ist es geboten:
+(3) In der **Schutzzone II** (Pflege- und Entwicklungszone) ist es
+geboten:
 
 1.  durch Maßnahmen der Nutzung und Pflege die biotoptypische
     Artenmannigfaltigkeit von Flora und Fauna zu erhalten und zu
@@ -2316,8 +2315,8 @@ Entwicklungszone) ist es geboten:
 
 
 
-(4) In der **Schutzzone III und IV**              (Zone der
-harmonischen Kulturlandschaft und Regenerierungszonen) ist es geboten:
+(4) In der **Schutzzone III und IV** (Zone der harmonischen
+Kulturlandschaft und Regenerierungszonen) ist es geboten:
 
 1.  zur Erhaltung des Landschaftscharakters und des Landschaftsbildes eine
     standortgerechte, ökologisch orientierte und landschaftsangepaßte
@@ -2505,8 +2504,7 @@ Biotope führen können, im Biosphärenreservat unzulässig:
 
 
 
-(3) In den **Schutzzonen I und II**              ist es darüber hinaus
-verboten:
+(3) In den **Schutzzonen I und II** ist es darüber hinaus verboten:
 
 1.  bauliche Anlagen und Werbeträger zu errichten oder zu ändern, auch
     wenn hierfür keine Baugenehmigung erforderlich ist; das gilt auch für
@@ -2574,11 +2572,11 @@ verboten:
 
 
 
-(4) Darüberhinaus ist in der **Schutzzone I**              jegliche
-wirtschaftliche Nutzung und jegliches Betreten verboten.
+(4) Darüberhinaus ist in der **Schutzzone I** jegliche wirtschaftliche
+Nutzung und jegliches Betreten verboten.
 
-(5) Desweiteren ist darüberhinaus in der **Schutzzone II**
-auf land- und forstwirtschaftlichen Nutzflächen verboten,
+(5) Desweiteren ist darüberhinaus in der **Schutzzone II** auf land-
+und forstwirtschaftlichen Nutzflächen verboten,
 
 1.  Gülle oder mineralische Düngemittel auszubringen,
 
@@ -2733,8 +2731,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1473)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

@@ -570,8 +570,9 @@ Stelle der Vermögensrechnung. Die wesentlichen Veränderungen während
 des Haushaltsjahrs sind nicht nachzuweisen, solange dies einen
 erheblichen verwaltungsmäßigen Mehraufwand erfordert.
 
+Anhang zur
 
-### § 29a Anhang zur Jahresrechnung der Krankenversicherung
+### § 29a Jahresrechnung der Krankenversicherung
 
 (1) Die Krankenversicherungsträger und ihre Verbände haben als Teil
 der Jahresrechnung einen Anhang zu erstellen.
@@ -757,42 +758,4 @@ anzuwenden.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft. Sie ist
 erstmals für die Aufstellung des Haushaltsplans 1979 anzuwenden.
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1047) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-3.  Verordnung über das Haushaltswesen in der Sozialversicherung vom 21.
-    Dezember 1977 (BGBl. I S. 3147),
-
-    mit folgenden Maßgaben:
-
-    a)  Die Verordnung ist von der Überleitungsanstalt nur anzuwenden, soweit
-        es die Aufsichtsbehörde unter Berücksichtigung der technischen
-        Ausstattung bestimmt.
-
-
-    b)  Für neu errichtete Versicherungsträger in dem in Artikel 3 des
-        Vertrages genannten Gebiet können die Aufsichtsbehörden für eine
-        bestimmte Zeit Befreiungen von der Anwendung der Verordnung anordnen.
-
-
-    c)  Die Aufsichtsbehörden haben bei der Anwendung von Buchstaben a) und b)
-        auf einheitliche und vergleichbare Statistikergebnisse zu achten.
-
-
-    d)  Diese Maßgaben gelten auch für allgemeine Verwaltungsvorschriften, die
-        sich auf das Rechnungswesen und die Statistik in der
-        Sozialversicherung beziehen.
-
-
-
-
-
-
-...
 

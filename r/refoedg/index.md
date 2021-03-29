@@ -2,7 +2,7 @@
 Title: Gesetz zur Reform des öffentlichen Dienstrechts
 jurabk: ReföDG
 layout: default
-origslug: ref_dg
+origslug: refoedg
 slug: refoedg
 
 ---
@@ -25,16 +25,16 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 9 -
+## Art 1 bis 9 - 
 
 
 
-## Art 10 -
+## Art 10 - 
 
 (weggefallen)
 
 
-## Art 11 und 12 -
+## Art 11 und 12 - 
 
 
 

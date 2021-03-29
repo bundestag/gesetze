@@ -256,7 +256,7 @@ beide Texte authentisch sind.
 (Fundstelle: BGBl. II 1955, 826 - 828)
 
 1\.
-Zu Artikel              I
+Zu Artikel I
 Die Abgabenvergünstigungen, die in dem beigefügten Abkommen eingeräumt
 werden, beziehen sich nicht auf
 
@@ -270,7 +270,7 @@ b)  Einkäufe der einzelnen Mitglieder der Streitkräfte der Vereinigten
 
 
 2\.
-Zu Artikel              II und VII
+Zu Artikel II und VII
 
 (1) Verteidigungsausgaben der Vereinigten Staaten im Sinne dieses
 Abkommens sind nur Ausgaben, die geleistet werden in
@@ -304,14 +304,14 @@ in Artikel II dieses Abkommens bezeichneten Zwecke von Vereinbarungen
 der beiden Regierungen hierüber abhängen soll.
 
 3\.
-Zu Artikel              III, IV, V und VIII
+Zu Artikel III, IV, V und VIII
 Im Falle der Errichtung einer europäischen Verteidigungsorganisation,
 die für die Beschaffung und Verteilung von Ausrüstungsgegenständen
 verantwortlich ist, können Stellen einer solchen Organisation im Sinne
 dieses Abkommens als Stellen einer Regierung angesehen werden.
 
 4\.
-Zu Artikel              III Nr. 1
+Zu Artikel III Nr. 1
 
 (1) Einem Lieferer im Sinne des Artikels III Nr. 1 Buchstabe b des
 beiliegenden Abkommens werden auf Antrag Umsatzsteuervergütungen nach
@@ -363,7 +363,7 @@ Staaten bezeichneter Regierungen zu behandeln sind. Das gleiche gilt
 bei der Erteilung von Bauaufträgen an eine deutsche Bauverwaltung.
 
 5\.
-Zu Artikel              V
+Zu Artikel V
 Für die Ausbesserung von militärischen Ausrüstungsgegenständen im
 Rahmen des beigefügten Abkommens ist ein erleichtertes Zollverfahren
 in Aussicht genommen. Zu diesem erleichterten Verfahren werden von den
@@ -388,7 +388,7 @@ sie von dem Unternehmer nicht der auftraggebenden Stelle zurückgegeben
 werden.
 
 6\.
-Zu Artikel              VIII
+Zu Artikel VIII
 Die Vereinigten Staaten haben erklärt und die Bundesrepublik hat zur
 Kenntnis genommen, daß gewisse Waren durch Dienststellen der
 Streitkräfte der Vereinigten Staaten, insbesondere durch das
@@ -403,7 +403,7 @@ insbesondere bei Waren, wie Tabak, Tabakwaren, Kaffee, Tee und
 alkoholischen Getränken.
 
 7\.
-Zu Artikel              III, IV, V und VIII
+Zu Artikel III, IV, V und VIII
 Es besteht Einverständnis darüber, daß die Vergünstigungen bei
 Bundessteuern und Zöllen, wie sie im vorliegenden Abkommen vorgesehen
 sind, keine Änderung erfahren durch das Inkrafttreten von
@@ -414,7 +414,7 @@ Außenminister der Bundesrepublik Deutschland, Frankreichs, des
 Vereinigten Königreichs und der Vereinigten Staaten.
 
 8\.
-Zu Artikel              III und V
+Zu Artikel III und V
 Falls die im Zeitpunkt der Unterzeichnung dieses Abkommens bestehenden
 deutschen Gesetze oder Durchführungsbestimmungen über
 

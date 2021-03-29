@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung der Verordnungsermächtigung nach § 36a des 
   über die Deutsche Bundesbank
 jurabk: BBankG§36aEÜV
 layout: default
-origslug: bbankg_36ae_v
+origslug: bbankg_36aeuev
 slug: bbankg_36aeuev
 
 ---

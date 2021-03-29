@@ -15,6 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1297
 
+Geändert durch
+:   Art. 19 Abs. 18 G v. 23.12.2016 I 3234
+
+Änderung durch
+:   Art. 22 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 26 G v. 17.7.2017 I 2541 ist berücksichtigt
+
+Mittelbare änderung durch
+:   Art. 27 Nr. 1 Buchst. b G v. 17.7.2017 I 2541 ist berücksichtigt
+
 
 
 ## Eingangsformel
@@ -31,20 +43,11 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 ### § 1 Anwendungsbereich
 
-(1) Für behinderte Menschen, die wegen Art oder Schwere ihrer
-Behinderung nicht, noch nicht oder noch nicht wieder auf dem
-allgemeinen Arbeitsmarkt beschäftigt werden können und zu ihrer
-Eingliederung in das Arbeitsleben im Arbeitsbereich anerkannter
-Werkstätten für behinderte Menschen als Einrichtungen zur Teilhabe
-behinderter Menschen am Arbeitsleben und Eingliederung in das
-Arbeitsleben in einem besonderen arbeitnehmerähnlichen
-Rechtsverhältnis in der Regel auf der Grundlage eines
-Sozialleistungsverhältnisses (§ 138 Abs. 1 des Neunten Buches
-Sozialgesetzbuch) beschäftigt werden (Werkstattbeschäftigte), bestimmt
-sich die Mitwirkung durch Werkstatträte in Werkstattangelegenheiten
-nach § 139 des Neunten Buches Sozialgesetzbuch unabhängig von der
-Geschäftsfähigkeit der behinderten Menschen im Einzelnen nach den
-folgenden Vorschriften.
+(1) Diese Verordnung gilt für die Mitbestimmung und die Mitwirkung der
+in § 221 Absatz 1 des Neunten Buches Sozialgesetzbuch genannten
+Menschen mit Behinderungen (Werkstattbeschäftigte) in
+Werkstattangelegenheiten und die Interessenvertretung der in
+Werkstätten beschäftigten behinderten Frauen durch Frauenbeauftragte.
 
 (2) Diese Verordnung findet keine Anwendung auf
 Religionsgemeinschaften und ihre Einrichtungen, soweit sie eigene
@@ -61,10 +64,27 @@ Werkstatt.
 
 ### § 3 Zahl der Mitglieder des Werkstattrats
 
-(1) Der Werkstattrat besteht aus mindestens drei Mitgliedern, in
-Werkstätten mit in der Regel 200 bis 400 Wahlberechtigten aus fünf
-Mitgliedern, in Werkstätten mit in der Regel mehr als 400
-Wahlberechtigten aus sieben Mitgliedern.
+(1) Der Werkstattrat besteht in Werkstätten mit in der Regel
+
+1.  bis zu 200 Wahlberechtigten aus drei Mitgliedern,
+
+
+2.  201 bis 400 Wahlberechtigten aus fünf Mitgliedern,
+
+
+3.  401 bis 700 Wahlberechtigten aus sieben Mitgliedern,
+
+
+4.  701 bis 1 000 Wahlberechtigten aus neun Mitgliedern,
+
+
+5.  1 001 bis 1 500 Wahlberechtigten aus elf Mitgliedern und
+
+
+6.  mehr als 1 500 Wahlberechtigten aus 13 Mitgliedern.
+
+
+
 
 (2) Die Geschlechter sollen entsprechend ihrem zahlenmäßigen
 Verhältnis vertreten sein.
@@ -130,105 +150,117 @@ entbunden wird.
 (3) Der Werkstattrat berücksichtigt die Interessen der im
 Eingangsverfahren und im Berufsbildungsbereich tätigen behinderten
 Menschen in angemessener und geeigneter Weise, solange für diese eine
-Vertretung nach § 36 des Neunten Buches Sozialgesetzbuch nicht
+Vertretung nach § 52 des Neunten Buches Sozialgesetzbuch nicht
 besteht.
 
 
-### § 5 Mitwirkungsrechte des Werkstattrats
+### § 5 Mitwirkung und Mitbestimmung
 
-(1) Der Werkstattrat hat in folgenden Angelegenheiten der
-Werkstattbeschäftigten mitzuwirken:
+(1) Der Werkstattrat hat in folgenden Angelegenheiten ein
+Mitwirkungsrecht:
 
-1.  Fragen der Ordnung im Arbeitsbereich der Werkstatt und des Verhaltens
-    der Werkstattbeschäftigten einschließlich der Aufstellung und Änderung
-    einer sogenannten Werkstattordnung zu diesen Fragen;
-
-
-2.  Beginn und Ende der täglichen Beschäftigungszeit einschließlich der
-    Erholungspausen und Zeiten der Teilnahme an Maßnahmen zur Erhaltung
-    und Erhöhung der Leistungsfähigkeit und zur Weiterentwicklung der
-    Persönlichkeit des Werkstattbeschäftigten, Verteilung der Arbeitszeit
-    auf die einzelnen Wochentage und die damit zusammenhängende Regelung
-    des Fahrdienstes, vorübergehende Verkürzung oder Verlängerung der
-    üblichen Beschäftigungszeit;
+1.  Darstellung und Verwendung des Arbeitsergebnisses, insbesondere Höhe
+    der Grund- und Steigerungsbeträge, unter Darlegung der dafür
+    maßgeblichen wirtschaftlichen und finanziellen Verhältnisse auch in
+    leichter Sprache,
 
 
-3.
-    a)  Darstellung und Verwendung des Arbeitsergebnisses, insbesondere Höhe
-        der Grund- und der Steigerungsbeträge, unter Darlegung der dafür
-        maßgeblichen wirtschaftlichen und finanziellen Verhältnisse;
-
-
-    b)  Fragen der Gestaltung der Arbeitsentgelte, insbesondere die
-        Aufstellung von Entlohnungsgrundsätzen und die Einführung und
-        Anwendung von neuen Entlohnungsmethoden sowie deren Änderung,
-        Festsetzung der Grund- und der Steigerungsbeträge und vergleichbarer
-        leistungsbezogener Entgelte, Zeit, Ort und Art der Auszahlung der
-        Arbeitsentgelte sowie Gestaltung der Arbeitsentgeltbescheinigungen;
-
-
-
-
-
-4.  Aufstellung allgemeiner Urlaubsgrundsätze und des Urlaubsplans sowie
-    die Festsetzung der zeitlichen Lage des Urlaubs für einzelne
-    Werkstattbeschäftigte, wenn zwischen der Werkstatt und den beteiligten
-    Werkstattbeschäftigten kein Einverständnis erzielt wird;
-
-
-5.  Einführung und Anwendung von technischen Einrichtungen, die dazu
-    bestimmt sind, das Verhalten oder die Leistung der
-    Werkstattbeschäftigten zu überwachen;
-
-
-6.  Regelungen über die Verhütung von Arbeitsunfällen und
+2.  Regelungen über die Verhütung von Arbeitsunfällen und
     Berufskrankheiten sowie über den Gesundheitsschutz im Rahmen der
-    gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften;
+    gesetzlichen Vorschriften oder der Unfallverhütungsvorschriften,
 
 
-7.  Fragen der Fort- und Weiterbildung einschließlich der Maßnahmen zur
+3.  Weiterentwicklung der Persönlichkeit und Förderung des Übergangs auf
+    den allgemeinen Arbeitsmarkt,
+
+
+4.  Gestaltung von Arbeitsplätzen, Arbeitskleidung, Arbeitsablauf und
+    Arbeitsumgebung, Einführung neuer Arbeitsverfahren,
+
+
+5.  dauerhafte Umsetzung Beschäftigter im Arbeitsbereich auf einen anderen
+    Arbeitsplatz, wenn die Betroffenen eine Mitwirkung des Werkstattrates
+    wünschen,
+
+
+6.  Planung von Neu-, Um- und Erweiterungsbauten sowie neuer technischer
+    Anlagen, Einschränkung, Stilllegung oder Verlegung der Werkstatt oder
+    wesentlicher Teile der Werkstatt, grundlegende Änderungen der
+    Werkstattorganisation und des Werkstattzwecks.
+
+
+
+
+(2) Der Werkstattrat hat in folgenden Angelegenheiten ein
+Mitbestimmungsrecht:
+
+1.  Ordnung und Verhalten der Werkstattbeschäftigten im Arbeitsbereich
+    einschließlich Aufstellung und Änderung einer Werkstattordnung,
+
+
+2.  Beginn und Ende der täglichen Arbeitszeit, Pausen, Zeiten für die
     Erhaltung und Erhöhung der Leistungsfähigkeit und zur
-    Weiterentwicklung der Persönlichkeit sowie zur Förderung des Übergangs
-    auf den allgemeinen Arbeitsmarkt;
+    Weiterentwicklung der Persönlichkeit, Verteilung der Arbeitszeit auf
+    die einzelnen Wochentage und die damit zusammenhängende Regelung des
+    Fahrdienstes, vorübergehende Verkürzung oder Verlängerung der üblichen
+    Arbeitszeit,
 
 
-8.  Fragen der Verpflegung;
+3.  Arbeitsentgelte, insbesondere Aufstellung und Änderung von
+    Entlohnungsgrundsätzen, Festsetzung der Steigerungsbeträge und
+    vergleichbarer leistungsbezogener Entgelte, Zeit, Ort und Art der
+    Auszahlung sowie Gestaltung der Arbeitsentgeltbescheinigungen,
 
 
-9.  Planung von Neu-, Um- und Erweiterungsbauten sowie von neuen
-    technischen Anlagen, Einschränkung, Stilllegung und Verlegung der
-    Werkstatt oder wesentlicher Teile der Werkstatt, grundlegende
-    Änderungen der Werkstattorganisation und des Werkstattzwecks;
+4.  Grundsätze für den Urlaubsplan,
 
 
-10. Gestaltung von Arbeitsplätzen, Arbeitsablauf und Arbeitsumgebung sowie
-    von Sanitär- und Aufenthaltsräumen, Einführung von neuen technischen
-    Arbeitsverfahren;
+5.  Verpflegung,
 
 
-11. Mitgestaltung sozialer Aktivitäten für die Werkstattbeschäftigten.
+6.  Einführung und Anwendung technischer Einrichtungen, die dazu bestimmt
+    sind, das Verhalten oder die Leistung der Werkstattbeschäftigten zu
+    überwachen,
+
+
+7.  Grundsätze für die Fort- und Weiterbildung,
+
+
+8.  Gestaltung von Sanitär- und Aufenthaltsräumen und
+
+
+9.  soziale Aktivitäten der Werkstattbeschäftigten.
 
 
 
-
-(2) Soweit Angelegenheiten im Sinne des Absatzes 1 nur einheitlich für
-Arbeitnehmer und Werkstattbeschäftigte geregelt werden können und
-soweit sie Gegenstand einer Vereinbarung mit dem Betriebs- oder
-Personalrat oder einer sonstigen Mitarbeitervertretung sind oder sein
-sollen, haben die Beteiligten auf eine einvernehmliche Regelung
-hinzuwirken. Die ergänzende Vereinbarung besonderer
-behindertenspezifischer Regelungen zwischen Werkstattrat und Werkstatt
-bleibt unberührt.
 
 (3) Die Werkstatt hat den Werkstattrat in den Angelegenheiten, in
-denen er ein Mitwirkungsrecht hat, rechtzeitig, umfassend und in
-angemessener Weise zu unterrichten und ihn vor Durchführung einer
-Maßnahme anzuhören. Beide Seiten haben darauf hinzuwirken, dass
-Einvernehmen erreicht wird. Lässt sich Einvernehmen nicht herstellen,
-so kann jede Seite die Vermittlungsstelle anrufen.
+denen er ein Mitwirkungsrecht oder ein Mitbestimmungsrecht hat, vor
+Durchführung der Maßnahme rechtzeitig, umfassend und in angemessener
+Weise zu unterrichten und anzuhören. Beide Seiten haben auf ein
+Einvernehmen hinzuwirken. Lässt sich Einvernehmen nicht herstellen,
+kann jede Seite die Vermittlungsstelle anrufen.
 
-(4) Weitergehende, einvernehmlich vereinbarte Formen der Beteiligung
-in den Angelegenheiten des Absatzes 1 bleiben unberührt.
+(4) In Angelegenheiten der Mitwirkung nach Absatz 1 entscheidet die
+Werkstatt unter Berücksichtigung des Einigungsvorschlages endgültig.
+
+(5) Kommt in Angelegenheiten der Mitbestimmung nach Absatz 2 keine
+Einigung zustande und handelt es sich nicht um Angelegenheiten, die
+nur einheitlich für Arbeitnehmer und Werkstattbeschäftigte geregelt
+werden können und die Gegenstand einer Vereinbarung mit dem Betriebs-
+oder Personalrat oder einer sonstigen Mitarbeitervertretung sind oder
+sein sollen, entscheidet die Vermittlungsstelle endgültig.
+
+(6) Soweit Angelegenheiten im Sinne von Absatz 1 oder 2 nur
+einheitlich für Arbeitnehmer und Werkstattbeschäftigte geregelt werden
+können und soweit sie Gegenstand einer Vereinbarung mit dem Betriebs-
+oder Personalrat oder einer sonstigen Mitarbeitervertretung sind oder
+sein sollen, haben die Beteiligten auf eine einvernehmliche Regelung
+hinzuwirken. Die ergänzende Vereinbarung besonderer
+behindertenspezifischer Regelungen zwischen Werkstattrat und Werkstatt
+bleiben unberührt. Unberührt bleiben auch weitergehende,
+einvernehmlich vereinbarte Formen der Beteiligung in den
+Angelegenheiten des Absatzes 1.
 
 
 ### § 6 Vermittlungsstelle
@@ -242,19 +274,21 @@ so schlagen die Werkstatt und der Werkstattrat je eine Person als
 Vorsitzenden oder Vorsitzende vor; durch Los wird entschieden, wer als
 Vorsitzender oder Vorsitzende tätig wird.
 
-(2) Die Vermittlungsstelle fasst ihren Beschluss für einen
-Einigungsvorschlag innerhalb von zwölf Tagen. Sie entscheidet nach
-mündlicher Beratung mit Stimmenmehrheit. Die Beschlüsse der
-Vermittlungsstelle sind schriftlich niederzulegen und von dem
-Vorsitzenden oder der Vorsitzenden zu unterschreiben. Werkstatt und
-Werkstattrat können weitere Einzelheiten des Verfahrens vor der
-Vermittlungsstelle vereinbaren.
+(2) Die Vermittlungsstelle hat unverzüglich tätig zu werden. Sie
+entscheidet nach mündlicher Beratung mit Stimmenmehrheit. Die
+Beschlüsse der Vermittlungsstelle sind schriftlich niederzulegen und
+von dem Vorsitzenden oder der Vorsitzenden zu unterschreiben.
+Werkstatt und Werkstattrat können weitere Einzelheiten des Verfahrens
+vor der Vermittlungsstelle vereinbaren.
 
-(3) Der Einigungsvorschlag der Vermittlungsstelle ersetzt nicht die
-Entscheidung der Werkstatt. Die Werkstatt hat unter Berücksichtigung
-des Einigungsvorschlages endgültig zu entscheiden. Bis dahin ist die
-Durchführung der Maßnahme auszusetzen. Fasst die Vermittlungsstelle
-innerhalb der in Absatz 2 genannten Frist keinen Beschluss für einen
+(3) Der Einigungsvorschlag der Vermittlungsstelle ersetzt in den
+Angelegenheiten nach § 5 Absatz 1 sowie in den Angelegenheiten nach §
+5 Absatz 2, die nur einheitlich für Arbeitnehmer und
+Werkstattbeschäftigte geregelt werden können, nicht die Entscheidung
+der Werkstatt. Bis dahin ist die Durchführung der Maßnahme
+auszusetzen. Das gilt auch in den Fällen des § 5 Absatz 5 und 6. Fasst
+die Vermittlungsstelle in den Angelegenheiten nach § 5 Absatz 1
+innerhalb von zwölf Tagen keinen Beschluss für einen
 Einigungsvorschlag, gilt die Entscheidung der Werkstatt.
 
 
@@ -289,7 +323,7 @@ der Werkstattbeschäftigten bleiben unberührt.
 (1) Die Werkstatt, ihr Betriebs- oder Personalrat oder ihre sonstige
 Mitarbeitervertretung, die Schwerbehindertenvertretung, die Vertretung
 der Teilnehmer an Maßnahmen im Eingangsverfahren und im
-Berufsbildungsbereich nach § 36 des Neunten Buches Sozialgesetzbuch,
+Berufsbildungsbereich nach § 52 des Neunten Buches Sozialgesetzbuch,
 ein nach § 139 Abs. 4 Satz 2 des Neunten Buches Sozialgesetzbuch
 errichteter Eltern- und Betreuerbeirat und der Werkstattrat arbeiten
 im Interesse der Werkstattbeschäftigten vertrauensvoll zusammen. Die
@@ -378,7 +412,8 @@ regelmäßigen Wahlen neu zu wählen.
 (1) Spätestens zehn Wochen vor Ablauf seiner Amtszeit bestellt der
 Werkstattrat einen Wahlvorstand aus drei Wahlberechtigten oder
 sonstigen der Werkstatt angehörenden Personen und einen oder eine von
-ihnen als Vorsitzenden oder Vorsitzende.
+ihnen als Vorsitzenden oder Vorsitzende. Dem Wahlvorstand muss
+mindestens eine wahlberechtigte Frau angehören.
 
 (2) Ist in der Werkstatt ein Werkstattrat nicht vorhanden, werden der
 Wahlvorstand und dessen Vorsitzender oder Vorsitzende in einer
@@ -769,8 +804,8 @@ der nach § 31 Abs. 1 vorgeschriebenen Wahl ein und leitet die Sitzung.
 (2) Die weiteren Sitzungen beruft der Vorsitzende oder die Vorsitzende
 des Werkstattrats ein, setzt die Tagesordnung fest und leitet die
 Verhandlung. Der Vorsitzende oder die Vorsitzende hat die Mitglieder
-des Werkstattrats rechtzeitig unter Mitteilung der Tagesordnung zu
-laden.
+des Werkstattrats und die Frauenbeauftragte rechtzeitig unter
+Mitteilung der Tagesordnung zu laden.
 
 (3) Der Vorsitzende oder die Vorsitzende hat eine Sitzung einzuberufen
 und den Gegenstand, dessen Beratung beantragt wird, auf die
@@ -845,16 +880,17 @@ zu befreien, wenn und soweit es zur Durchführung ihrer Aufgaben
 erforderlich ist. Die Werkstattratstätigkeit steht der
 Werkstattbeschäftigung gleich. In Werkstätten mit wenigstens 200
 Wahlberechtigten ist der Vorsitzende oder die Vorsitzende des
-Werkstattrats auf Verlangen von der Tätigkeit freizustellen. Die
-Befreiung nach den Sätzen 1 und 3 erstreckt sich nicht auf Maßnahmen
-nach § 5 Abs. 3 der Werkstättenverordnung.
+Werkstattrats auf Verlangen von der Tätigkeit freizustellen, in
+Werkstätten mit mehr als 700 Wahlberechtigten auch die
+Stellvertretung. Die Befreiung nach den Sätzen 1 und 3 erstreckt sich
+nicht auf Maßnahmen nach § 5 Abs. 3 der Werkstättenverordnung.
 
 (4) Absatz 3 Satz 1 gilt entsprechend für die Teilnahme an Schulungs-
 und Bildungsveranstaltungen, soweit diese Kenntnisse vermitteln, die
 für die Arbeit des Werkstattrats erforderlich sind. Unbeschadet von
 Satz 1 hat jedes Mitglied des Werkstattrats während seiner
 regelmäßigen Amtszeit Anspruch auf Freistellung ohne Minderung des
-Arbeitsentgeltes für insgesamt zehn Tage zur Teilnahme an solchen
+Arbeitsentgeltes für insgesamt 15 Tage zur Teilnahme an solchen
 Schulungs- und Bildungsveranstaltungen; der Anspruch erhöht sich für
 Werkstattbeschäftigte, die erstmals das Amt eines Mitgliedes des
 Werkstattrats übernehmen, auf 20 Tage.
@@ -898,20 +934,114 @@ Werkstattbeschäftigung gleich.
 ### § 39 Kosten und Sachaufwand des Werkstattrats
 
 (1) Die durch die Tätigkeit des Werkstattrats entstehenden Kosten
-trägt die Werkstatt. Das Gleiche gilt für die durch die Teilnahme an
-Schulungs- und Bildungsveranstaltungen gemäß § 37 Abs. 4 entstehenden
-Kosten.
+trägt die Werkstatt. Das Gleiche gilt für die Kosten, die durch die
+Teilnahme an Schulungs- und Bildungsveranstaltungen nach § 37 Absatz 4
+oder durch die Interessenvertretung auf Bundes- oder Landesebene
+entstehen.
 
 (2) Für die Sitzungen, die Sprechstunden und die laufende
 Geschäftsführung hat die Werkstatt in erforderlichem Umfang Räume,
 sächliche Mittel und eine Bürokraft zur Verfügung zu stellen.
 
-(3) Die Werkstatt hat dem Werkstattrat auf dessen Wunsch aus dem
-Fachpersonal eine Person seines Vertrauens zur Verfügung zu stellen,
-die ihn bei seiner Tätigkeit unterstützt. Die Vertrauensperson nimmt
-ihre Aufgabe unabhängig von Weisungen der Werkstatt wahr. Die
-Werkstatt hat sie bei der Erfüllung ihrer Aufgabe zu fördern. Für die
-Vertrauensperson gilt § 37 entsprechend.
+(3) Die Werkstatt hat dem Werkstattrat auf dessen Wunsch eine Person
+seines Vertrauens zur Verfügung zu stellen, die ihn bei seiner
+Tätigkeit unterstützt. Die Vertrauensperson nimmt ihre Aufgabe
+unabhängig von Weisungen der Werkstatt wahr. Die Werkstatt hat sie bei
+der Erfüllung ihrer Aufgabe zu fördern. Für die Vertrauensperson gilt
+§ 37 entsprechend.
+
+
+## Abschnitt 4a - Frauenbeauftragte und Stellvertreterinnen
+
+
+
+### § 39a Aufgaben und Rechtsstellung
+
+(1) Die Frauenbeauftragte vertritt die Interessen der in der Werkstatt
+beschäftigten behinderten Frauen gegenüber der Werkstattleitung,
+insbesondere in den Bereichen Gleichstellung von Frauen und Männern,
+Vereinbarkeit von Familie und Beschäftigung sowie Schutz vor
+körperlicher, sexueller und psychischer Belästigung oder Gewalt.
+Werkstattleitung und Frauenbeauftragte sollen in der Regel einmal im
+Monat zu einer Besprechung zusammentreten.
+
+(2) Über Maßnahmen, die Auswirkungen in den in Absatz 1 genannten
+Bereichen haben können, unterrichtet die Werkstattleitung die
+Frauenbeauftragte rechtzeitig, umfassend und in angemessener Weise.
+Beide Seiten erörtern diese Maßnahmen mit dem Ziel des Einvernehmens.
+Lässt sich ein Einvernehmen nicht herstellen, kann jede Seite die
+Vermittlungsstelle anrufen. Die Werkstatt entscheidet unter
+Berücksichtigung des Einigungsvorschlages endgültig.
+
+(3) Die Frauenbeauftragte hat das Recht, an den Sitzungen des
+Werkstattrates und an den Werkstattversammlungen (§ 9) teilzunehmen
+und dort zu sprechen.
+
+(4) Die Stellvertreterinnen vertreten die Frauenbeauftragte im
+Verhinderungsfall. Darüber hinaus kann die Frauenbeauftragte ihre
+Stellvertreterinnen zu bestimmten Aufgaben heranziehen.
+
+(5) Die Frauenbeauftragte und ihre Stellvertreterinnen sind von ihrer
+Tätigkeit ohne Minderung des Arbeitsentgeltes zu befreien, wenn und
+soweit es zur Durchführung ihrer Aufgaben erforderlich ist. Die
+Tätigkeit steht der Werkstattbeschäftigung gleich. In Werkstätten mit
+mehr als 200 wahlberechtigten Frauen ist die Frauenbeauftragte auf
+Verlangen von der Tätigkeit freizustellen, in Werkstätten mit mehr als
+700 wahlberechtigten Frauen auch die erste Stellvertreterin. Die
+Befreiung nach den Sätzen 1 und 3 erstreckt sich nicht auf Maßnahmen
+nach § 5 Absatz 3 der Werkstättenverordnung. Im Übrigen gelten § 37
+Absatz 1 und 2, 4 bis 6 sowie die §§ 38 und 39 für die
+Frauenbeauftragte und die Stellvertreterinnen entsprechend.
+
+
+### § 39b Wahlen und Amtszeit
+
+(1) Die Wahlen der Frauenbeauftragten und der Stellvertreterinnen
+sollen zusammen mit den Wahlen zum Werkstattrat stattfinden.
+Wahlberechtigt sind alle Frauen, die auch zum Werkstattrat wählen
+dürfen (§ 10). Wählbar sind alle Frauen, die auch in den Werkstattrat
+gewählt werden können (§ 11).
+
+(2) Wird zeitgleich der Werkstattrat gewählt, soll der Wahlvorstand
+für die Wahl des Werkstattrates auch die Wahl der Frauenbeauftragten
+und ihrer Stellvertreterinnen vorbereiten und durchführen.
+Anderenfalls beruft die Werkstatt eine Versammlung der
+wahlberechtigten Frauen ein, in der ein Wahlvorstand und dessen
+Vorsitzende gewählt werden. Auch drei wahlberechtigte Frauen können zu
+dieser Versammlung einladen. Für die Vorbereitung und Durchführung der
+Wahl gelten die §§ 14 bis 28 entsprechend.
+
+(3) Für die Amtszeit der Frauenbeauftragten und ihrer
+Stellvertreterinnen gilt § 29 entsprechend. Das Amt der
+Frauenbeauftragten und ihrer Stellvertreterinnen erlischt mit Ablauf
+der Amtszeit, Niederlegung des Amtes, Ausscheiden aus der Werkstatt,
+Beendigung des arbeitnehmerähnlichen Rechtsverhältnisses oder
+erfolgreicher Wahlanfechtung.
+
+
+### § 39c Vorzeitiges Ausscheiden
+
+(1) Scheidet die Frauenbeauftragte vor dem Ablauf der Amtszeit aus dem
+Amt aus, wird die erste Stellvertreterin zur Frauenbeauftragten.
+
+(2) Scheidet eine Stellvertreterin vorzeitig aus ihrem Amt aus, rückt
+die nächste Stellvertreterin beziehungsweise aus der Vorschlagsliste
+die Bewerberin mit der nächsthöheren Stimmenzahl nach. Bei
+Stimmengleichheit entscheidet das Los.
+
+(3) Können die Ämter der Frauenbeauftragten und der
+Stellvertreterinnen aus der Vorschlagsliste nicht mehr besetzt werden,
+erfolgt eine außerplanmäßige Wahl der Frauenbeauftragten und der
+Stellvertreterinnen.
+
+(4) Hat außerhalb des für die regelmäßigen Wahlen festgelegten
+Zeitraumes eine Wahl zu den Ämtern der Frauenbeauftragten und ihrer
+Stellvertreterinnen stattgefunden, so sind sie in dem auf die Wahl
+folgenden nächsten Zeitraum der regelmäßigen Wahlen neu zu wählen. Hat
+die Amtszeit zu Beginn des für die nächsten regelmäßigen Wahlen
+festgelegten Zeitraumes noch nicht ein Jahr betragen, sind die
+Frauenbeauftragte und ihre Stellvertreterinnen in dem übernächsten
+Zeitraum der regelmäßigen Wahlen neu zu wählen.
 
 
 ## Abschnitt 5 - Schlussvorschriften

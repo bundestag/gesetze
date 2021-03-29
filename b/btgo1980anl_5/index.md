@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1260
 
 Geändert durch
-:   Art. 7 Bek. v. 12.11.1990 I 2555 mWv 1.12.1990
+:   Art. 7 Beschluß d. Bundestages gem. Bek. v. 12.11.1990 I 2555
 
 
 ## I. Voraussetzungen der Aktuellen Stunde

@@ -2,7 +2,7 @@
 Title: Wertpapiererwerbs- und Übernahmegesetz
 jurabk: WpÜG
 layout: default
-origslug: wp_g
+origslug: wpueg
 slug: wpueg
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3822
 
 Zuletzt geändert durch
-:   Art. 2c G v. 28.11.2012 I 2369
+:   Art. 9 G v. 23.6.2017 I 1693
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -227,7 +227,7 @@ aus
 
 
 3.  drei Vertretern der Wertpapierdienstleistungsunternehmen im Sinne des
-    § 2 Abs. 4 des Wertpapierhandelsgesetzes,
+    § 2 Absatz 10 des Wertpapierhandelsgesetzes,
 
 
 4.  zwei Vertretern der Arbeitnehmer,
@@ -248,8 +248,8 @@ Die Mitglieder des Beirates verwalten ihr Amt als unentgeltliches
 Ehrenamt. Für ihre Teilnahme an Sitzungen erhalten sie Tagegelder und
 Vergütung der Reisekosten nach festen Sätzen, die das
 Bundesministerium der Finanzen bestimmt. An den Sitzungen können
-Vertreter der Bundesministerien der Finanzen, der Justiz sowie für
-Wirtschaft und Technologie teilnehmen.
+Vertreter der Bundesministerien der Finanzen, der Justiz und für
+Verbraucherschutz sowie für Wirtschaft und Energie teilnehmen.
 
 (2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
@@ -314,8 +314,8 @@ Rechtsverordnung auf die Bundesanstalt übertragen.
 (1) Das Bundeskartellamt und die Bundesanstalt haben einander die für
 die Erfüllung ihrer Aufgaben erforderlichen Informationen mitzuteilen.
 Die Bundesanstalt übermittelt dem Bundesministerium für Wirtschaft und
-Technologie die ihr nach § 10 Abs. 2 Satz 1 Nr. 3 und § 35 Abs. 1 Satz
-4 mitgeteilten Informationen und auf Ersuchen dieser Behörde die ihr
+Energie die ihr nach § 10 Abs. 2 Satz 1 Nr. 3 und § 35 Abs. 1 Satz 4
+mitgeteilten Informationen und auf Ersuchen dieser Behörde die ihr
 nach § 14 Abs. 1 Satz 1 oder § 35 Abs. 2 Satz 1 übermittelte
 Angebotsunterlage. Bei der Übermittlung personenbezogener Daten ist §
 15 des Bundesdatenschutzgesetzes anzuwenden.
@@ -388,7 +388,7 @@ Tatsachen weitergegeben werden an
     von solchen Stellen beauftragte Personen,
 
 
-3.  das Bundesministerium für Wirtschaft und Technologie,
+3.  das Bundesministerium für Wirtschaft und Energie,
 
 
 
@@ -400,18 +400,34 @@ ausländische Stelle dürfen die Tatsachen nur weitergegeben werden,
 wenn diese Stelle und die von ihr beauftragten Personen einer den
 Sätzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.
 
-(2) Die §§ 93, 97, 105 Abs. 1, § 111 Abs. 5 in Verbindung mit § 105
-Abs. 1 sowie § 116 Abs. 1 der Abgabenordnung gelten nicht für die in
-Absatz 1 Satz 1 und 2 bezeichneten Personen, soweit sie zur
-Durchführung dieses Gesetzes tätig werden. Sie finden Anwendung,
-soweit die Finanzbehörden die Kenntnisse für die Durchführung eines
-Verfahrens wegen einer Steuerstraftat sowie eines damit
-zusammenhängenden Besteuerungsverfahrens benötigen, an deren
-Verfolgung ein zwingendes öffentliches Interesse besteht, und nicht
-Tatsachen betroffen sind, die den in Absatz 1 Satz 1 oder 2
-bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne
-von Absatz 1 Satz 3 Nr. 2 oder durch von dieser Stelle beauftragte
-Personen mitgeteilt worden sind.
+(2) Die §§ 93, 97 und 105 Absatz 1, § 111 Absatz 5 in Verbindung mit §
+105 Absatz 1 sowie § 116 Absatz 1 der Abgabenordnung gelten für die in
+Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die
+Finanzbehörden die Kenntnisse für die Durchführung eines Verfahrens
+wegen einer Steuerstraftat sowie eines damit zusammenhängenden
+Besteuerungsverfahrens benötigen. Die in Satz 1 genannten Vorschriften
+sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind,
+
+1.  die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch
+    eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer
+    2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden
+    sind oder
+
+
+2.  von denen bei der Bundesanstalt beschäftigte Personen dadurch Kenntnis
+    erlangen, dass sie an der Aufsicht über direkt von der Europäischen
+    Zentralbank beaufsichtigte Institute mitwirken, insbesondere in
+    gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU)
+    Nr. 468/2014 der Europäischen Zentralbank vom 16. April 2014 zur
+    Einrichtung eines Rahmenwerks für die Zusammenarbeit zwischen der
+    Europäischen Zentralbank und den nationalen zuständigen Behörden und
+    den nationalen benannten Behörden innerhalb des einheitlichen
+    Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141
+    vom 14.5.2014, S. 1), und die nach den Regeln der Europäischen
+    Zentralbank geheim sind.
+
+
+
 
 (3) Die Mitglieder des Beirates und die ehrenamtlichen Beisitzer des
 Widerspruchsausschusses sind nach dem Verpflichtungsgesetz vom 2. März
@@ -447,7 +463,7 @@ Veröffentlichung
 
 
 2.  den Geschäftsführungen der Börsen, an denen Derivate im Sinne des § 2
-    Abs. 2 des Wertpapierhandelsgesetzes gehandelt werden, sofern die
+    Absatz 3 des Wertpapierhandelsgesetzes gehandelt werden, sofern die
     Wertpapiere Gegenstand der Derivate sind, und
 
 
@@ -503,8 +519,13 @@ sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern
 unverzüglich nach der Veröffentlichung nach Absatz 3 Satz 1
 mitzuteilen.
 
-(6) § 15 des Wertpapierhandelsgesetzes gilt nicht für Entscheidungen
-zur Abgabe eines Angebots.
+(6) Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+(Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+2003/6/EG des Europäischen Parlaments und des Rates und der
+Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+(ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung gilt
+nicht für Entscheidungen zur Abgabe eines Angebots.
 
 
 ### § 11 Angebotsunterlage
@@ -645,10 +666,10 @@ nicht auf grober Fahrlässigkeit beruht.
     Annahmeerklärung kannte oder
 
 
-3.  vor der Annahme des Angebots in einer Veröffentlichung nach § 15 des
-    Wertpapierhandelsgesetzes oder einer vergleichbaren Bekanntmachung
-    eine deutlich gestaltete Berichtigung der unrichtigen oder
-    unvollständigen Angaben im Inland veröffentlicht wurde.
+3.  vor der Annahme des Angebots in einer Veröffentlichung nach Artikel 17
+    der Verordnung (EU) Nr. 596/2014 oder einer vergleichbaren
+    Bekanntmachung eine deutlich gestaltete Berichtigung der unrichtigen
+    oder unvollständigen Angaben im Inland veröffentlicht wurde.
 
 
 
@@ -961,8 +982,8 @@ Angebotsunterlage des konkurrierenden Angebots erfolgte.
 ihm gemeinsam handelnden Personen und deren Tochterunternehmen
 zustehenden Wertpapiere der Zielgesellschaft einschließlich der Höhe
 der jeweiligen Anteile und der ihm zustehenden und nach § 30
-zuzurechnenden Stimmrechtsanteile und die Höhe der nach den §§ 25 und
-25a des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile
+zuzurechnenden Stimmrechtsanteile und die Höhe der nach den §§ 38 und
+39 des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile
 sowie die sich aus den ihm zugegangenen Annahmeerklärungen ergebende
 Anzahl der Wertpapiere, die Gegenstand des Angebots sind,
 einschließlich der Höhe der Wertpapier- und Stimmrechtsanteile
@@ -1092,10 +1113,17 @@ Arten der Werbung untersagen.
 gerichtet sind.
 
 (2) Kontrolle ist das Halten von mindestens 30 Prozent der Stimmrechte
-an der Zielgesellschaft.
+an der Zielgesellschaft aus dem Bieter gehörenden Aktien der
+Zielgesellschaft oder dem Bieter nach § 30 zugerechneten Stimmrechten
+an der Zielgesellschaft. Stimmrechte aus Aktien, die zu einem von
+einer Kapitalverwaltungsgesellschaft verwalteten Sondervermögen
+gehören, das kein Spezialsondervermögen ist und dessen
+Vermögensgegenstände im Miteigentum der Anleger stehen, gelten für die
+Anwendung von Satz 1 als Stimmrechte der
+Kapitalverwaltungsgesellschaft.
 
 
-### § 30 Zurechnung von Stimmrechten
+### § 30 Zurechnung von Stimmrechten; Verordnungsermächtigung
 
 (1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der
 Zielgesellschaft gleich,
@@ -1122,11 +1150,20 @@ Zielgesellschaft gleich,
 6.  die dem Bieter anvertraut sind oder aus denen er die Stimmrechte als
     Bevollmächtigter ausüben kann, sofern er die Stimmrechte aus diesen
     Aktien nach eigenem Ermessen ausüben kann, wenn keine besonderen
-    Weisungen des Aktionärs vorliegen.
+    Weisungen des Aktionärs vorliegen,
+
+
+7.  aus denen der Bieter die Stimmrechte auf Grund einer Vereinbarung, die
+    eine zeitweilige Übertragung der Stimmrechte ohne die damit
+    verbundenen Aktien gegen Gegenleistung vorsieht, ausüben kann,
+
+
+8.  die bei dem Bieter als Sicherheit verwahrt werden, sofern dieser die
+    Stimmrechte hält und die Absicht bekundet, sie auszuüben.
 
 
 
-Für die Zurechnung nach Satz 1 Nr. 2 bis 6 stehen dem Bieter
+Für die Zurechnung nach Satz 1 Nummer 2 bis 8 stehen dem Bieter
 Tochterunternehmen des Bieters gleich. Stimmrechte des
 Tochterunternehmens werden dem Bieter in voller Höhe zugerechnet.
 
@@ -1144,55 +1181,122 @@ des Stimmrechtsanteils des Dritten gilt Absatz 1 entsprechend.
 
 (3) Für die Zurechnung nach dieser Vorschrift gilt ein
 Wertpapierdienstleistungsunternehmen hinsichtlich der Beteiligungen,
-die von ihm im Rahmen einer Wertpapierdienstleistung nach § 2 Abs. 3
-Satz 1 Nr. 7 des Wertpapierhandelsgesetzes verwaltet werden, unter den
-folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des §
-2 Abs. 6:
+die von ihm im Rahmen einer Wertpapierdienstleistung nach § 2 Absatz 8
+Satz 1 Nummer 7 des Wertpapierhandelsgesetzes verwaltet werden, unter
+den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne
+des § 2 Absatz 6:
 
-1.  das Wertpapierdienstleistungsunternehmen darf die Stimmrechte, die mit
-    den betreffenden Aktien verbunden sind, nur aufgrund von in
-    schriftlicher Form oder über elektronische Hilfsmittel erteilten
-    Weisungen ausüben oder stellt durch geeignete Vorkehrungen sicher,
-    dass die Finanzportfolioverwaltung unabhängig von anderen
-    Dienstleistungen und unter Bedingungen, die denen der Richtlinie
-    85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der
-    Rechts- und Verwaltungsvorschriften betreffend bestimmten Organismen
-    für gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. EG Nr. L 375 S.
-    3), die zuletzt durch Artikel 9 der Richtlinie 2005/1/EG des
-    Europäischen Parlaments und des Rates vom 9. März 2005 (ABl. EU Nr. L
-    79 S. 9) geändert worden ist, gleichwertig sind, erfolgt,
+1.  das Wertpapierdienstleistungsunternehmen übt die Stimmrechte, die mit
+    den betreffenden Aktien verbunden sind, unabhängig vom Bieter aus,
 
 
-2.  das Wertpapierdienstleistungsunternehmen übt die Stimmrechte
-    unabhängig vom Bieter aus,
+2.  das Wertpapierdienstleistungsunternehmen
+
+    a)  darf die Stimmrechte nur aufgrund von in schriftlicher Form oder über
+        elektronische Hilfsmittel erteilten Weisungen ausüben oder
 
 
-3.  der Bieter teilt der Bundesanstalt den Namen dieses
+    b)  stellt durch geeignete Vorkehrungen sicher, dass die
+        Finanzportfolioverwaltung unabhängig von anderen Dienstleistungen und
+        unter Bedingungen erfolgt, die gleichwertig sind denen der Richtlinie
+        2009/65/EG des Europäischen Parlaments und des Rates vom 13. Juli 2009
+        zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend
+        bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)
+        (ABl. L 302 vom 17.11.2009, S. 32) in der jeweils geltenden Fassung,
+
+
+
+
+
+3.  der Bieter teilt der Bundesanstalt den Namen des
     Wertpapierdienstleistungsunternehmens und die für dessen Überwachung
-    zuständige Behörde oder das Fehlen einer solchen mit und
+    zuständige Behörde oder das Fehlen einer solchen Behörde mit und
 
 
 4.  der Bieter erklärt gegenüber der Bundesanstalt, dass die
-    Voraussetzungen der Nummer 2 erfüllt sind.
+    Voraussetzungen der Nummer 1 erfüllt sind.
 
 
 
-Ein Wertpapierdienstleistungsunternehmen gilt jedoch dann für die
-Zurechnung nach dieser Vorschrift als Tochterunternehmen im Sinne des
-§ 2 Abs. 6, wenn der Bieter oder ein anderes Tochterunternehmen des
-Bieters seinerseits Anteile an der vom
-Wertpapierdienstleistungsunternehmen verwalteten Beteiligung hält und
-das Wertpapierdienstleistungsunternehmen die Stimmrechte, die mit
-diesen Beteiligungen verbunden sind, nicht nach freiem Ermessen,
-sondern nur aufgrund unmittelbarer oder mittelbarer Weisungen ausüben
-kann, die ihm vom Bieter oder von einem anderen Tochterunternehmen des
-Bieters erteilt werden.
 
-(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
+(4) Für die Zurechnung nach dieser Vorschrift gelten
+Kapitalverwaltungsgesellschaften im Sinne des § 17 Absatz 1 des
+Kapitalanlagegesetzbuchs und EU-Verwaltungsgesellschaften im Sinne des
+§ 1 Absatz 17 des Kapitalanlagegesetzbuchs hinsichtlich der
+Beteiligungen, die zu den von ihnen verwalteten Investmentvermögen
+gehören, unter den folgenden Voraussetzungen nicht als
+Tochterunternehmen im Sinne des § 2 Absatz 6:
+
+1.  die Verwaltungsgesellschaft übt ihre Stimmrechte unabhängig vom Bieter
+    aus,
+
+
+2.  die zum verwalteten Investmentvermögen gehörenden Beteiligungen im
+    Sinne der §§ 29 und 30 werden nach Maßgabe der Richtlinie 2009/65/EG
+    des Europäischen Parlaments und des Rates vom 13. Juli 2009 zur
+    Koordinierung der Rechts- und Verwaltungsvorschriften betreffend
+    bestimmte Organismen für gemeinsame Anlagen in Wertpapieren (OGAW)
+    (ABl. L 302 vom 17.11.2009, S. 32), die zuletzt durch die Richtlinie
+    2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) geändert worden ist,
+    verwaltet,
+
+
+3.  das Mutterunternehmen teilt der Bundesanstalt den Namen dieser
+    Verwaltungsgesellschaft und die für deren Überwachung zuständige
+    Behörde oder das Fehlen einer solchen mit und
+
+
+4.  das Mutterunternehmen erklärt gegenüber der Bundesanstalt, dass die
+    Voraussetzungen der Nummer 1 erfüllt sind.
+
+
+
+
+(5) Ein Unternehmen mit Sitz in einem Drittstaat, das nach § 32 Absatz
+1 Satz 1 in Verbindung mit § 1 Absatz 1a Satz 2 Nummer 3 des
+Kreditwesengesetzes einer Zulassung für die Finanzportfolioverwaltung
+oder einer Erlaubnis nach § 20 oder § 113 des Kapitalanlagegesetzbuchs
+bedürfte, wenn es seinen Sitz oder seine Hauptverwaltung im Inland
+hätte, gilt nicht als Tochterunternehmen im Sinne dieses Abschnitts,
+wenn
+
+1.  das Unternehmen bezüglich seiner Unabhängigkeit Anforderungen genügt,
+    die denen nach Absatz 3 oder Absatz 4, auch in Verbindung mit einer
+    Rechtsverordnung nach Absatz 7, jeweils gleichwertig sind,
+
+
+2.  der Bieter der Bundesanstalt den Namen dieses Unternehmens und die für
+    dessen Überwachung zuständige Behörde oder das Fehlen einer solchen
+    Behörde mitteilt und
+
+
+3.  der Bieter gegenüber der Bundesanstalt erklärt, dass die
+    Voraussetzungen der Nummer 1 erfüllt sind.
+
+
+
+
+(6) Abweichend von den Absätzen 3 bis 5 gelten
+Wertpapierdienstleistungsunternehmen und Verwaltungsgesellschaften
+jedoch dann als Tochterunternehmen im Sinne des § 2 Absatz 6, wenn
+
+1.  der Bieter oder ein anderes Tochterunternehmen des Bieters seinerseits
+    Anteile an der von dem Unternehmen verwalteten Beteiligung hält und
+
+
+2.  das Unternehmen die Stimmrechte, die mit diesen Beteiligungen
+    verbunden sind, nicht nach freiem Ermessen, sondern nur auf Grund
+    unmittelbarer oder mittelbarer Weisungen ausüben kann, die ihm vom
+    Bieter oder von einem anderen Tochterunternehmen des Bieters erteilt
+    werden.
+
+
+
+
+(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 die nicht der Zustimmung des Bundesrates bedarf, nähere Bestimmungen
-über die Umstände erlassen, unter denen im Falle des Absatzes 3 eine
-Unabhängigkeit des Wertpapierdienstleistungsunternehmens vom Bieter
-gegeben ist.
+erlassen über die Umstände, unter denen in den Fällen der Absätze 3
+bis 6 eine Unabhängigkeit des Unternehmens vom Bieter gegeben ist.
 
 
 ### § 31 Gegenleistung
@@ -1575,8 +1679,8 @@ keine Anwendung.
 
 (1) Auf das Verfahren für den Ausschluss nach § 39a ist das Gesetz
 über das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit anzuwenden, soweit in den Absätzen 2 bis
-5 nichts anderes bestimmt ist.
+freiwilligen Gerichtsbarkeit anzuwenden, soweit in den nachfolgenden
+Absätzen nichts anderes bestimmt ist.
 
 (2) Das Landgericht hat den Antrag auf Ausschluss nach § 39a in den
 Gesellschaftsblättern bekannt zu machen.
@@ -1609,22 +1713,11 @@ angemessene Abfindung. Der Vorstand der Zielgesellschaft hat die
 rechtskräftige Entscheidung unverzüglich zum Handelsregister
 einzureichen.
 
-(6) Für die Kosten des Verfahrens gilt die Kostenordnung. Für das
-Verfahren des ersten Rechtszugs wird das Vierfache der vollen Gebühr
-erhoben. Für das Verfahren über ein Rechtsmittel wird die gleiche
-Gebühr erhoben; dies gilt auch dann, wenn das Rechtsmittel Erfolg hat.
-Wird der Antrag oder das Rechtsmittel vor Ablauf des Tages
-zurückgenommen, an dem die Entscheidung der Geschäftsstelle
-übermittelt wird, so ermäßigt sich die Gebühr auf die Hälfte. Als
-Geschäftswert ist der Betrag anzunehmen, der dem Wert aller Aktien
-entspricht, auf die sich der Ausschluss bezieht; er beträgt mindestens
-200 000 und höchstens 7,5 Millionen Euro. Maßgeblicher Zeitpunkt für
-die Bestimmung des Werts ist der Zeitpunkt der Antragstellung.
-Schuldner der Gerichtskosten ist nur der Antragsteller. Das Gericht
-ordnet an, dass die Kosten der Antragsgegner, die zur
+(6) Das Gericht ordnet an, dass die Kosten der Antragsgegner, die zur
 zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz
 oder zum Teil vom Antragsteller zu erstatten sind, wenn dies der
-Billigkeit entspricht.
+Billigkeit entspricht. Gerichtskosten für das Verfahren erster Instanz
+können dem Antragsgegner nicht auferlegt werden.
 
 
 ### § 39c Andienungsrecht
@@ -1760,17 +1853,17 @@ aufschiebende Wirkung. Die Höhe des Zwangsgeldes beträgt abweichend
 von § 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.
 
 
-### § 47 Kosten
+### § 47 Gebühren und Auslagen
 
-Die Bundesanstalt erhebt für Amtshandlungen auf Grund von § 10 Abs. 2
-Satz 3, §§ 14 und 15 Abs. 1 oder 2, §§ 20, 24, 28 Abs. 1, §§ 36, 37
-Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2,
-oder §41 in Verbindung mit § 6 Kosten (Gebühren und Auslagen). Das
-Bundesministerium der Finanzen bestimmt die Kostentatbestände im
-Einzelnen und die Höhe der Kosten durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf. Das Bundesministerium der
-Finanzen kann die Ermächtigung durch Rechtsverordnung auf die
-Bundesanstalt übertragen.
+Die Bundesanstalt erhebt für individuell zurechenbare öffentliche
+Leistungen auf Grund des § 10 Absatz 2 Satz 3, der §§ 14 und 15 Absatz
+1 oder 2, der §§ 20, 24, 28 Absatz 1, der §§ 36, 37 Absatz 1, auch in
+Verbindung mit einer Rechtsverordnung nach Absatz 2, oder des § 41 in
+Verbindung mit § 6 Gebühren und Auslagen. Das Bundesministerium der
+Finanzen bestimmt die Gebührentatbestände im Einzelnen und die Höhe
+der Gebühren durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf. Das Bundesministerium der Finanzen kann die
+Ermächtigung durch Rechtsverordnung auf die Bundesanstalt übertragen.
 
 
 ## Abschnitt 7 - Rechtsmittel
@@ -2020,10 +2113,10 @@ bestimmt ist, entsprechend
 Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden
 Personen oder deren Tochterunternehmen gehören oder aus denen ihm, mit
 ihm gemeinsam handelnden Personen oder deren Tochterunternehmen
-Stimmrechte gemäß § 30 Abs. 1 Satz 1 Nr. 2 zugerechnet werden,
-bestehen nicht für die Zeit, für welche die Pflichten nach § 35 Abs. 1
-oder 2 nicht erfüllt werden. Dies gilt nicht für Ansprüche nach § 58
-Abs. 4 des Aktiengesetzes und § 271 des Aktiengesetzes, wenn die
+Stimmrechte gemäß § 30 Absatz 1 und 2 zugerechnet werden, bestehen
+nicht für die Zeit, für welche die Pflichten nach § 35 Abs. 1 oder 2
+nicht erfüllt werden. Dies gilt nicht für Ansprüche nach § 58 Abs. 4
+des Aktiengesetzes und § 271 des Aktiengesetzes, wenn die
 Veröffentlichung oder das Angebot nach § 35 Abs. 1 Satz 1 oder Abs. 2
 Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
 
@@ -2124,12 +2217,95 @@ Satz 1 nicht vorsätzlich unterlassen wurde und nachgeholt worden ist.
 
 
 
-(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1
-Buchstabe a, Nr. 3, 6 bis 8 mit einer Geldbuße bis zu einer Million
-Euro, in den Fällen des Absatzes 1 Nr. 1 Buchstabe b, Nr. 2 Buchstabe
-a und Nr. 4 mit einer Geldbuße bis zu fünfhunderttausend Euro, in den
-übrigen Fällen mit einer Geldbuße bis zu zweihunderttausend Euro
-geahndet werden.
+(3) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
+Buchstabe a, Nummer 3, 6 bis 8 mit einer Geldbuße bis zu fünf
+Millionen Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b,
+Nummer 2 Buchstabe a und Nummer 4 mit einer Geldbuße bis zu
+zweieinhalb Millionen Euro und in den übrigen Fällen mit einer
+Geldbuße bis zu einer Million Euro geahndet werden.
+
+(4) Gegenüber einer juristischen Person oder Personenvereinigung kann
+über Absatz 3 hinaus eine höhere Geldbuße verhängt werden; diese darf
+
+1.  in den Fällen des Absatzes 1 Nummer 1 Buchstabe a, Nummer 3, 6 bis 8
+    den höheren der Beträge von zehn Millionen Euro und 5 Prozent des
+    Gesamtumsatzes, den die juristische Person oder Personenvereinigung im
+    der Behördenentscheidung vorausgegangenen Geschäftsjahr erzielt hat,
+
+
+2.  in den Fällen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe
+    a und Nummer 4 den höheren der Beträge von fünf Millionen Euro und 2
+    Prozent des Gesamtumsatzes, den die juristische Person oder
+    Personenvereinigung im der Behördenentscheidung vorangegangenen
+    Geschäftsjahr erzielt hat, und
+
+
+3.  in den übrigen Fällen zwei Millionen Euro
+
+
+
+nicht überschreiten.
+
+(5) Über die in den Absätzen 3 und 4 genannten Beträge hinaus kann die
+Ordnungswidrigkeit mit einer Geldbuße bis zum Zweifachen des aus dem
+Verstoß gezogenen wirtschaftlichen Vorteils geahndet werden. Der
+wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene
+Verluste und kann geschätzt werden.
+
+(6) Gesamtumsatz im Sinne des Absatzes 4 ist
+
+1.  im Falle von Kreditinstituten, Zahlungsinstituten und
+    Finanzdienstleistungsinstituten im Sinne des § 340 des
+    Handelsgesetzbuchs der Gesamtbetrag, der sich aus dem auf das Institut
+    anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3,
+    4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie
+    86/635/EWG des Rates vom 8. Dezember 1986 über den Jahresabschluss und
+    den konsolidierten Abschluss von Banken und anderen Finanzinstituten
+    (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die
+    zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+    1) geändert worden ist, ergibt, abzüglich der Umsatzsteuer und
+    sonstiger direkt auf diese Erträge erhobener Steuern,
+
+
+2.  im Falle von Versicherungsunternehmen der Gesamtbetrag, der sich aus
+    dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im
+    Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19.
+    Dezember 1991 über den Jahresabschluss und den konsolidierten
+    Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S.
+    7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom
+    16\.8.2006, S. 1) geändert worden ist, ergibt, abzüglich der
+    Umsatzsteuer und sonstiger direkt auf diese Erträge erhobener Steuern,
+
+
+3.  im Übrigen der Betrag der Nettoumsatzerlöse nach Maßgabe des auf das
+    Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2
+    Nummer 5 der Richtlinie 2013/34/EU des Europäischen Parlaments und des
+    Rates vom 26. Juni 2013 über den Jahresabschluss, den konsolidierten
+    Abschluss und damit verbundene Berichte von Unternehmen bestimmter
+    Rechtsformen und zur Änderung der Richtlinie 2006/43/EG des
+    Europäischen Parlaments und des Rates und zur Aufhebung der
+    Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom
+    29\.6.2013, S. 19; L 369 vom 24.12.2014, S. 79), die zuletzt durch die
+    Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) geändert
+    worden ist.
+
+
+
+
+(7) Handelt es sich bei der juristischen Person oder
+Personenvereinigung nach Absatz 4 um ein Mutterunternehmen oder um
+eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der
+juristischen Person oder Personenvereinigung der jeweilige
+Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens
+maßgeblich, der für den größten Kreis von Unternehmen aufgestellt
+wird. Wird der Konzernabschluss für den größten Kreis von Unternehmen
+nicht nach den in Absatz 6 genannten Vorschriften aufgestellt, ist der
+Gesamtumsatz nach Maßgabe der den in Absatz 6 Nummer 1 bis 3
+vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein
+Jahresabschluss oder Konzernabschluss für das maßgebliche
+Geschäftsjahr nicht verfügbar, ist der Jahres- oder Konzernabschluss
+für das unmittelbar vorausgehende Geschäftsjahr maßgeblich; ist auch
+dieser nicht verfügbar, kann der Gesamtumsatz geschätzt werden.
 
 
 ### § 61 Zuständige Verwaltungsbehörde

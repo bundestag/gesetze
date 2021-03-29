@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1989 (2259)
 
 Zuletzt geändert durch
-:   Art. 9 V v. 17.12.2010 I 2132
+:   Art. 17 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -60,24 +60,48 @@ Verkehr gebracht werden.
 
 ## § 4 Kennzeichnungsvorschriften
 
-(1) Für Margarine- und Mischfetterzeugnisse sind die in der Anlage und
-den in § 1 genannten Rechtsakten genannten Bezeichnungen
-Verkehrsbezeichnungen im Sinne der Lebensmittel-
-Kennzeichnungsverordnung.
+(1) Für Margarineschmalz und Mischfettschmalz sind die in der Anlage
+vorgesehenen Bezeichnungen die Bezeichnungen der Lebensmittel im Sinne
+der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinie 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung.
 
-(2) Bei Erzeugnissen mit einem Gesamtfettgehalt von 50
-Gewichtshundertteilen und weniger ist ein Hinweis, daß das Erzeugnis
-zum Braten nicht geeignet ist, an gut sichtbarer Stelle deutlich
-lesbar und unverwischbar anzubringen.
+(2) Bei Erzeugnissen mit einem Gesamtfettgehalt von 50 Gramm pro 100
+Gramm in Massenanteilen und weniger ist ein Hinweis anzubringen, dass
+das Erzeugnis zum Braten nicht geeignet ist, und zwar
 
-(3) (weggefallen)
+1.  bei vorverpackten Erzeugnissen und bei nicht vorverpackten
+    Erzeugnissen im Sinne von § 4 Absatz 1 der Lebensmittelinformations-
+    Durchführungsverordnung in deutscher Sprache und an gut sichtbarer
+    Stelle auf der Verpackung oder auf einem an der Verpackung befestigten
+    Etikett,
 
-(4) Bei Margarine- und Mischfetterzeugnissen, die unverpackt oder in
-Fertigpackungen im Sinne des § 1 Abs. 2 der Lebensmittel-
-Kennzeichnungsverordnung an Verbraucher abgegeben werden, sind die
-Angaben nach den Absätzen 2 und 3 auf einem Schild bei der Ware
-deutlich sichtbar und in leicht lesbarer Schrift in deutscher Sprache
-zu machen.
+
+2.  bei der Abgabe von nicht vorverpackten Erzeugnissen im Sinne von § 4
+    Absatz 2 der Lebensmittelinformations-Durchführungsverordnung in
+    deutscher Sprache und nach Maßgabe des § 4 Absatz 3 der
+    Lebensmittelinformations-Durchführungsverordnung.
+
+
+
+
+(3) Es ist verboten, eine Verkehrsbezeichnung, die nach Anhang VII
+Teil VII Abschnitt I Unterabsatz 3 Buchstabe b und c der Verordnung
+(EU) Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17.
+Dezember 2013 über eine gemeinsame Marktorganisation für
+landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+(EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) einem bestimmten
+Erzeugnis vorbehalten ist, für ein anderes als ein dort genanntes
+Erzeugnis zu verwenden.
 
 
 ## § 5
@@ -110,13 +134,13 @@ werden, wenn
 charakteristischen Merkmalen, insbesondere hinsichtlich des
 Fettgehalts und der Verwendung von Ausgangsstoffen, von inländischen
 Erzeugnissen abweicht, darf nur in den Verkehr gebracht werden, wenn
-zusätzlich zu der Kennzeichnung nach § 4 und nach der Lebensmittel-
-Kennzeichnungsverordnung die Beschreibung der Abweichung auf der
-Fertigpackung oder dem Hinweisschild deutlich lesbar angegeben ist.
-Der Hinweis ist in Verbindung mit der Verkehrsbezeichnung anzugeben,
-sofern nicht durch eine Angabe im Zutatenverzeichnis eine Irreführung
-des Verbrauchers ausgeschlossen werden kann. Zusätzlich darf auch die
-Verkehrsbezeichnung des Herstellungslandes verwendet werden.
+zusätzlich zu der Kennzeichnung nach § 4 und nach der Verordnung (EU)
+Nr. 1169/2011 die Beschreibung der Abweichung auf der Fertigpackung
+oder dem Hinweisschild deutlich lesbar angegeben ist. Der Hinweis ist
+in Verbindung mit der Bezeichnung des Lebensmittels anzugeben, sofern
+nicht durch eine Angabe im Zutatenverzeichnis eine Irreführung des
+Verbrauchers ausgeschlossen werden kann. Zusätzlich darf auch die
+Bezeichnung des Lebensmittels des Herstellungslandes verwendet werden.
 
 
 ## § 6 Straftaten und Ordnungswidrigkeiten
@@ -132,36 +156,35 @@ handelt nach § 60 Abs. 1 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
 (3) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und
-Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
-3 Margarineschmalz oder Mischfettschmalz in den Verkehr bringt.
+Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 3 Margarineschmalz oder Mischfettschmalz in den Verkehr
+    bringt oder
+
+
+2.  entgegen § 4 Absatz 3 eine Verkehrsbezeichnung verwendet.
+
+
+
 
 (4) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 4 des Milch- und
-Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig gegen die
-Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine
-gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für
-bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die
-einheitliche GMO) (ABl. L 299 vom 16.11.2007, S. 1), die zuletzt durch
-die Verordnung (EG) Nr. 513/2010 der Kommission vom 15. Juni 2010
-(ABl. L 150 vom 16.6.2010, S. 40) geändert worden ist, verstößt, indem
-er
+Margarinegesetzes handelt, wer gegen die Verordnung (EU) Nr. 1308/2013
+des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über
+eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse
+und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+(EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+S. 671) verstößt, indem er vorsätzlich oder fahrlässig entgegen Anhang
+VII Teil VII
 
-1.  entgegen Anhang XV Abschnitt I Nummer 1 ein dort genanntes Erzeugnis
-    abgibt, das den in der Anlage zu Anhang XV genannten Anforderungen
-    nicht genügt,
+1.  Abschnitt I Unterabsatz 1 ein dort genanntes Erzeugnis abgibt,
 
 
-2.  entgegen Anhang XV Abschnitt I Nummer 2 Satz 1 eine dort genannte
-    Verkehrsbezeichnung für ein dort genanntes Erzeugnis nicht verwendet,
+2.  Abschnitt I Unterabsatz 2 eine andere als eine dort genannte
+    Verkehrsbezeichnung verwendet oder
 
 
-3.  entgegen Anhang XV Abschnitt I Nummer 2 Satz 2 eine dort genannte
-    Verkehrsbezeichnung für ein anderes als ein dort genanntes Erzeugnis
-    verwendet oder
-
-
-4.  entgegen Anhang XV Abschnitt III Nummer 2 einen Hinweis gibt, der ein
-    dort genanntes Erzeugnis betrifft und einen anderen Fettgehalt nennt,
-    bedingt oder vermuten lässt.
+3.  Abschnitt II Nummer 2 für ein in Anhang VII Anlage II Buchstabe B und
+    C genanntes Erzeugnis einen Hinweis gibt.
 
 
 

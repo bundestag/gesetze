@@ -14,10 +14,10 @@ Ausfertigungsdatum
 :   1996-12-04
 
 Fundstelle
-:   BGBl I: 1996, 1842
+:   BGBl I: 1996, 1841, 1842
 
 Zuletzt geändert durch
-:   Art. 436 V v. 31.10.2006 I 2407
+:   Art. 5 Abs. 4 V v. 18.10.2017 I 3584
 
 Diese Verordnung dient in Verbindung mit dem Arbeitsschutzgesetz
 der Umsetzung folgender Richtlinie:
@@ -40,11 +40,8 @@ insbesondere der Lendenwirbelsäule, mit sich bringt.
 oder Abstützen einer Last durch menschliche Kraft, unter anderem das
 Heben, Absetzen, Schieben, Ziehen, Tragen oder Bewegen einer Last.
 
-(3) Die Verordnung gilt nicht in Betrieben, die dem Bundesberggesetz
-unterliegen.
-
-(4) Das Bundeskanzleramt, das Bundesministerium des Innern, das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung, das
+(3) Das Bundeskanzleramt, das Bundesministerium des Innern, das
+Bundesministerium für Verkehr und digitale Infrastruktur, das
 Bundesministerium der Verteidigung oder das Bundesministerium der
 Finanzen können, soweit sie hierfür jeweils zuständig sind, im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und,

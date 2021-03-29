@@ -66,19 +66,19 @@ Gesamtjahreserzeugung von weniger als 200 000 hl Bier in Stufen von 1
 000 zu 1 000 hl gleichmäßig
 
 1.  auf 84,0 Prozent bei einer Jahreserzeugung von
-    40 000                    hl,
+    40 000 hl,
 
 
 2.  auf 78,4 Prozent bei einer Jahreserzeugung von
-    20 000                    hl,
+    20 000 hl,
 
 
 3.  auf 67,2 Prozent bei einer Jahreserzeugung von
-    10 000                    hl,
+    10 000 hl,
 
 
 4.  auf 56,0 Prozent bei einer Jahreserzeugung von
-    5 000                    hl.
+    5 000 hl.
 
 
 

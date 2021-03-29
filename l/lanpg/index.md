@@ -17,10 +17,10 @@ Fundstelle
 :   GBl DDR I: 1990, 642
 
 Neugefasst durch
-:   Bek. v. 3.7.1991 I 1418,
+:   Bek. v. 3.7.1991 I 1418;
 
-Geändert durch
-:   Art. 7 Abs. 45 G v. 19.6.2001 I 1149
+Zuletzt geändert durch
+:   Art. 40 G v. 23.7.2013 I 2586
 
 
 
@@ -1393,11 +1393,7 @@ Rechtsstreitigkeiten auf Grund der Vorschriften der §§ 3a, 7, 15, 25,
 Dritten Abschnitts des Gesetzes über das gerichtliche Verfahren in
 Landwirtschaftssachen entsprechende Anwendung.
 
-(3) In den Angelegenheiten des Absatzes 2 finden für die Bemessung des
-Geschäftswertes und die Gebührenerhebung die Vorschriften des § 35
-Abs. 1 Nr. 4, Abs. 4 Nr. 2 des Gesetzes über das gerichtliche
-Verfahren in Landwirtschaftssachen auch für andere als Angelegenheiten
-der Landpachtverhältnisse entsprechende Anwendung.
+(3) (weggefallen)
 
 
 ### § 66 Ehrenamtliche Richter

@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1988, 445
 
+Geändert durch
+:   Art. 13 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -48,35 +51,8 @@ Bundesrechts in Kraft. Gleichzeitig tritt das belgische Recht in
 diesen Gebietsteilen außer Kraft.
 
 
-## Art 3
+## (XXXX) Art 3 und 4 (weggefallen)
 
-(1) Waren, die in der Bundesrepublik Deutschland Verbrauchsteuern -
-ausgenommen Einfuhrumsatzsteuer - unterliegen und sich bei
-Inkrafttreten des Vertrags in den nach den Artikeln 1 und 2 des
-Vertrags der Bundesrepublik Deutschland zufallenden Gebietsteilen
-befinden, gelten mit diesem Zeitpunkt als in das Erhebungsgebiet der
-Verbrauchsteuern verbracht.
-
-(2) Befanden sich solche Waren bis zu diesem Zeitpunkt nach belgischem
-Recht
-
-1.  nicht im freien Verkehr, so sind sie wie in das Erhebungsgebiet
-    eingeführte Waren zu behandeln,
-
-
-2.  im freien Verkehr, so sind sie nur dann wie in das Erhebungsgebiet
-    eingeführte Waren zu behandeln, wenn sie zum Handel bestimmt sind;
-    Warenmengen, die den üblichen persönlichen Bedarf übersteigen, gelten
-    als zum Handel bestimmt.
-
-
-
-
-
-## Art 4
-
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 5

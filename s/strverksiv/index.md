@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 1795
 
 Zuletzt geändert durch
-:   Art. 491 V v. 31.10.2006 I 2407
+:   Art. 504 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -333,7 +333,7 @@ Verkehrssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz
 1954 in der Fassung der Bekanntmachung vom 3. Juni 1975 (BGBl. I S.
 1313),
 zuletzt geändert durch Artikel 62 Abs. 1 des Gesetzes vom 14. Dezember
-1976 (BGBl. I S. 3341),              geahndet wird.
+1976 (BGBl. I S. 3341), geahndet wird.
 
 (2) Zuständige Verwaltungsbehörde im Sinne des § 29 Nr. 2 des
 Verkehrssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1
@@ -371,7 +371,7 @@ folgenden Kalendermonats in Kraft.
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn und soweit dies das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung bestimmt.
+Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmt.
 
 
 ## Anlage 1 (zu § 5 Abs. 2)

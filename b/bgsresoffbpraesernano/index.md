@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Ernennung und Entlassung der G
   der Reserve
 jurabk: BGSResOffBPräsErnAnO
 layout: default
-origslug: bgsresoffbpr_sernano
+origslug: bgsresoffbpraesernano
 slug: bgsresoffbpraesernano
 
 ---

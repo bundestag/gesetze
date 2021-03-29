@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2590
 
+Zuletzt geändert durch
+:   Art. 92 G v. 29.3.2017 I 626
+
 
 ## Teil 1 - Anwendungsbereich
 
@@ -123,7 +126,7 @@ Regelungen und Schutzinteressen festgestellt ist.
 
 
 
-(2) Das Bundesministerium für Wirtschaft und Technologie hat durch
+(2) Das Bundesministerium für Wirtschaft und Energie hat durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zu
 erlassen, unter welchen Voraussetzungen Daten einen besonders hohen
 Informationsgehalt haben. Der Informationsgehalt ist dabei zu
@@ -302,11 +305,12 @@ zuständigen Behörde
 
 
 
-unverzüglich schriftlich anzuzeigen.
+unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 (2) Der Betreiber eines hochwertigen Erdfernerkundungssystems hat der
-zuständigen Behörde unverzüglich schriftlich anzuzeigen, an welche
-nach § 11 zugelassenen Personen er Daten übermittelt.
+zuständigen Behörde unverzüglich schriftlich oder elektronisch
+anzuzeigen, an welche nach § 11 zugelassenen Personen er Daten
+übermittelt.
 
 
 ### § 7 Auskunftspflicht
@@ -480,7 +484,7 @@ Der Datenanbieter hat der zuständigen Behörde
 
 
 
-unverzüglich schriftlich anzuzeigen.
+unverzüglich schriftlich oder elektronisch anzuzeigen.
 
 
 #### § 14 Auskunftspflicht
@@ -562,7 +566,7 @@ und die Nennung der Personen einschließlich deren gewöhnlichen
 Aufenthaltsortes zu verlangen, die bestimmungsgemäß mit den Daten in
 Kontakt kommen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie hat im
+(3) Das Bundesministerium für Wirtschaft und Energie hat im
 Einvernehmen mit dem Bundesministerium der Verteidigung, dem
 Auswärtigen Amt und dem Bundesministerium des Innern durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zu
@@ -584,8 +588,8 @@ Zusammenschau nach Absatz 2 Satz 1 und 2 erfolgt. Die Rechtsverordnung
 darf dem Datenanbieter keinen eigenen Einschätzungsspielraum belassen,
 ob eine Anfrage sensitiv ist. Auf bevorstehende Änderungen der
 Rechtsverordnung kann der Datenanbieter hingewiesen werden. Das
-Bundesministerium für Wirtschaft und Technologie kann im Einvernehmen
-mit dem Bundesministerium der Verteidigung und dem Auswärtigen Amt die
+Bundesministerium für Wirtschaft und Energie kann im Einvernehmen mit
+dem Bundesministerium der Verteidigung und dem Auswärtigen Amt die
 Ermächtigung durch Rechtsverordnung ohne Zustimmung des Bundesrates
 ganz oder teilweise auf das Bundesamt für Wirtschaft und
 Ausfuhrkontrolle übertragen.
@@ -767,24 +771,25 @@ Absätze 2 und 3 das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
 
 (2) Zuständig für die Durchführung einer Sicherheitsüberprüfung nach §
 4 Abs. 2 und § 12 Abs. 2 ist das Bundesministerium für Wirtschaft und
-Technologie.
+Energie.
 
 (3) Eine Meldung nach § 10 Abs. 1 Satz 1 erfolgt an das
-Bundesministerium für Wirtschaft und Technologie. Das
-Bundesministerium für Wirtschaft und Technologie ist im Einvernehmen
-mit dem Auswärtigen Amt und dem Bundesministerium der Verteidigung
-zuständig für eine Untersagung des Erwerbs von Unternehmen oder
-Unternehmensbeteiligungen nach § 10 Abs. 1 Satz 4.
+Bundesministerium für Wirtschaft und Energie. Das Bundesministerium
+für Wirtschaft und Energie ist im Einvernehmen mit dem Auswärtigen Amt
+und dem Bundesministerium der Verteidigung zuständig für eine
+Untersagung des Erwerbs von Unternehmen oder Unternehmensbeteiligungen
+nach § 10 Abs. 1 Satz 4.
 
 
 ### § 25 Verfahren
 
 (1) Eine Genehmigung nach § 3 Abs. 1, eine Zulassung nach § 11 Abs. 1
-und eine Erlaubnis nach § 10 Abs. 2 Satz 1, § 19 Abs. 1 Satz 1 und 2
-sowie nach § 20 Satz 1 setzen jeweils einen schriftlichen Antrag
-voraus. Eine Meldung nach § 10 Abs. 1 Satz 1 hat schriftlich zu
-erfolgen. Einem Antrag oder einer Meldung sind die zur Prüfung der
-Erteilungsvoraussetzungen notwendigen Unterlagen beizufügen.
+und eine Erlaubnis nach § 10 Abs. 2 Satz 1 setzen jeweils einen
+schriftlichen Antrag voraus. Eine Meldung nach § 10 Abs. 1 Satz 1 hat
+schriftlich zu erfolgen. Eine Erlaubnis nach § 19 Absatz 1 Satz 1 und
+2 sowie nach § 20 Satz 1 setzt einen schriftlichen oder elektronischen
+Antrag voraus. Einem Antrag oder einer Meldung sind die zur Prüfung
+der Erteilungsvoraussetzungen notwendigen Unterlagen beizufügen.
 
 (2) Zur Feststellung der Eignung eines Verfahrens nach § 4 Abs. 1 Nr.
 2 und 3 sowie § 12 Abs. 1 Nr. 3 ist das Bundesamt für Sicherheit in
@@ -792,21 +797,22 @@ der Informationstechnik frühzeitig zu beteiligen. Das Bundesamt für
 Sicherheit in der Informationstechnik stellt dem Antragsteller
 Unterlagen zum Umfang und Ablauf der Prüfung zur Verfügung.
 
-(3) Verwaltungsakte nach diesem Gesetz sind schriftlich zu erlassen
-und zuzustellen.
+(3) Verwaltungsakte nach diesem Gesetz sind schriftlich oder
+elektronisch zu erlassen.
 
 
 ### § 26 Gebühren und Auslagen
 
-Für Amtshandlungen nach diesem Gesetz erhebt die zuständige Behörde
-Gebühren und Auslagen. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, die Gebührentatbestände, die Gebührenhöhe
-und die zu erstattenden Auslagen durch Rechtsverordnung ohne
-Zustimmung des Bundesrates zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-die mit den Amtshandlungen verbundenen Kosten gedeckt sind. Die
-Bedeutung, der wirtschaftliche Wert oder sonstige Nutzen der
-Amtshandlung für den Begünstigten werden angemessen berücksichtigt.
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
+erhebt die zuständige Behörde Gebühren und Auslagen. Das
+Bundesministerium für Wirtschaft und Energie wird ermächtigt, die
+Gebührentatbestände, die Gebührenhöhe und die zu erstattenden Auslagen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen
+und dabei feste Sätze oder Rahmensätze vorzusehen. Die Gebührensätze
+sind so zu bemessen, dass die mit der Leistung verbundenen Kosten
+gedeckt sind. Die Bedeutung, der wirtschaftliche Wert oder sonstige
+Nutzen der individuell zurechenbaren öffentlichen Leistung für den
+Begünstigten werden angemessen berücksichtigt.
 
 
 ### § 27 Übermittlung von personenbezogenen Daten, Betriebs- und Geschäftsgeheimnissen
@@ -830,7 +836,7 @@ Eine Übermittlung nach Satz 1 Nr. 2 ist nur zulässig, wenn
 tatsächliche Anhaltspunkte für die zukünftige Begehung oder das
 Vorliegen von Straftaten bestehen. Darüber hinaus kann die zuständige
 Behörde diese personenbezogenen Daten an den Bundesnachrichtendienst
-übermitteln, wenn die Voraussetzungen des § 8 Abs. 3 des BND-Gesetzes
+übermitteln, wenn die Voraussetzungen des § 23 Abs. 3 des BND-Gesetzes
 erfüllt sind. Der Dritte, an den die personenbezogenen Daten
 übermittelt werden, darf diese nur für den Zweck verwenden, zu dessen
 Erfüllung sie übermittelt werden.

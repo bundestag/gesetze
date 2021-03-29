@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 2923
 
 Zuletzt geändert durch
-:   Art. 15 V v. 23.7.2010 I 1010
+:   Art. 31 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -990,8 +990,9 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 7 Abs. 5)
 
-## Anlage 1 (zu § 7 Abs. 5) Muster
+## Anlage 1 Muster
 
 (Fundstelle: BGBl. I 1997, 2930;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1013,15 +1014,20 @@ Metall
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Metall vom
-12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 15 der
-Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 31 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .......................
 Unterschrift ................
 (Siegel der zuständigen Stelle)
 
+(zu § 7 Abs. 5)
 
-## Anlage 2 (zu § 7 Abs. 5) Muster
+## Anlage 2 Muster
 
 (Fundstelle: BGBl. I 1997, 2931 - 2932;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1043,8 +1049,8 @@ Metall
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung Metall vom
-12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 15 der
-Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+12\. Dezember 1997 (BGBl. I S. 2923), die zuletzt durch Artikel 31 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen 1) bestanden:
 Note
 I. Fachrichtungsübergreifende Basisqualifikationen
@@ -1082,6 +1088,10 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat den Nachweis
 durch die Prüfung am .......................... in
 ............................
 vor .......... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................
 Unterschrift ...................
 (Siegel der zuständigen Stelle)

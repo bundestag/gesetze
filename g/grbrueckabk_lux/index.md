@@ -4,7 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum L
   Gemeinden Langsur und Mertert
 jurabk: GrBrückAbk LUX
 layout: default
-origslug: grbr_ckabk_lux
+origslug: grbrueckabk_lux
 slug: grbrueckabk_lux
 
 ---

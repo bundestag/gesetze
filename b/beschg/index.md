@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 3970, 4003
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 7 G v. 17.7.2009 I 2062
+:   Art. 3 G v. 30.6.2017 I 2133
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -502,30 +502,47 @@ nach § 2 Abs. 2 Satz 2 Nr. 1 bis 3, die zum einmaligen Gebrauch
 bestimmt sind.
 
 
+### § 8a Prüfung und Zulassung von unbrauchbar gemachten Schusswaffen; Verordnungsermächtigung
+
+(1) Wer eine Schusswaffe unbrauchbar gemacht hat, muss diese der
+zuständigen Behörde binnen zwei Wochen zur Einzelzulassung vorlegen.
+Dabei ist die Dokumentation der Unbrauchbarmachung nach dem
+Waffengesetz oder nach einer auf Grund des Waffengesetzes erlassenen
+Verordnung beizufügen.
+
+(2) Die zuständige Behörde prüft die Einhaltung der Anforderungen nach
+Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer 1.4 des Waffengesetzes.
+Sie kennzeichnet die unbrauchbar gemachte Waffe und ihre wesentlichen
+Teile. Darüber hinaus stellt sie dem Besitzer eine
+Deaktivierungsbescheinigung in deutscher und englischer Sprache aus.
+
+(3) Das Bundesministerium des Innern wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates
+Durchführungsregelungen zu den Maßgaben des Anhangs I Tabelle I bis
+III der Durchführungsverordnung (EU) 2015/2403 der Kommission vom
+15\.12.2015 zur Festlegung gemeinsamer Leitlinien über
+Deaktivierungsstandards und -techniken, die gewährleisten, dass
+Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden
+(ABl. L 333 vom 19.12.2015, S. 62), zu treffen sowie Einzelheiten zur
+Kennzeichnung der unbrauchbar gemachten Schusswaffe und ihrer
+wesentlichen Teile und zur Deaktivierungsbescheinigung zu regeln.
+
+
 ### § 9 Anzeige, Prüfung, Zulassung von sonstigen Waffen und Kartuschenmunition mit Reizstoffen
 
-(1) Wer
-
-1.  Schusswaffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum
-    Waffengesetz,
-
-
-2.  unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte
-    Gegenstände
-
-
-
-eines bestimmten Modells gewerbsmäßig erstmals herstellen oder in den
-Geltungsbereich dieses Gesetzes verbringen will, hat dies der
-zuständigen Stelle zwei Monate vorher schriftlich anzuzeigen und den
-Gegenstand zur Prüfung und Zulassung einzureichen. Soweit es sich
-nicht um Einzelstücke handelt, ist der Stelle ein Muster und eine
-Abbildung, eine Beschreibung der Handhabung und der Konstruktion sowie
-der verwendeten Stoffe oder der zur Änderung nach Anlage 2 Abschnitt 2
-Unterabschnitt 2 Nr. 1.5 zum Waffengesetz benutzten Werkstoffe unter
-Angabe der Arbeitstechnik in deutscher Sprache zu überlassen. Die
-Stelle unterrichtet die Physikalisch-Technische Bundesanstalt
-schriftlich vom Ergebnis der Prüfung.
+(1) Wer Schusswaffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nummer
+1\.5 des Waffengesetzes eines bestimmten Modells gewerbsmäßig erstmals
+herstellen oder in den Geltungsbereich dieses Gesetzes verbringen
+will, hat dies der zuständigen Stelle zwei Monate vorher schriftlich
+anzuzeigen und den Gegenstand zur Prüfung und Zulassung einzureichen.
+Soweit es sich nicht um Einzelstücke handelt, ist der Stelle ein
+Muster und eine Abbildung, eine Beschreibung der Handhabung und der
+Konstruktion sowie der verwendeten Stoffe oder der zur Änderung nach
+Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 zum Waffengesetz
+benutzten Werkstoffe unter Angabe der Arbeitstechnik in deutscher
+Sprache zu überlassen. Die Stelle unterrichtet die Physikalisch-
+Technische Bundesanstalt schriftlich oder elektronisch vom Ergebnis
+der Prüfung.
 
 (2) Wer
 
@@ -916,20 +933,21 @@ beteiligten Wirtschaftskreise und Vertreter sonstiger fachkundiger
 Verbände, die keine wirtschaftlichen Interessen verfolgen, zu berufen.
 
 
-### § 16 Kosten
+### § 16 Gebühren und Auslagen
 
-(1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften
-werden Kosten (Gebühren und Auslagen) erhoben.
+werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium des Innern wird ermächtigt, für den Bereich
 der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung
 des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu
 bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Gebührensätze sind so zu bemessen, dass der mit der Amtshandlung,
-Prüfung oder Untersuchung verbundene Personal- und Sachaufwand gedeckt
-wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung,
-der wirtschaftliche Wert oder der sonstige Nutzen für den
+Gebührensätze sind so zu bemessen, dass der mit der individuell
+zurechenbaren öffentlichen Leistung verbundene Personal- und
+Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren
+öffentlichen Leistungen kann daneben die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
 (3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass
@@ -938,10 +956,10 @@ werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der
 prüfenden oder untersuchenden Stelle und ohne ausreichende
 Entschuldigung des Antragstellers am festgesetzten Termin nicht
 stattfinden konnte oder abgebrochen werden musste. In der
-Rechtsverordnung können ferner die Kostenbefreiung, die
-Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu
-erstattenden Auslagen und die Kostenerhebung abweichend von den
-Vorschriften des Verwaltungskostengesetzes geregelt werden.
+Rechtsverordnung können ferner die Gebühren- und Auslagenbefreiung,
+die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang
+der zu erstattenden Auslagen und die Gebührenerhebung abweichend von
+den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
 ### § 17 Auskunftspflichten und besondere behördliche Befugnisse im Rahmen der Überwachung
@@ -1066,6 +1084,10 @@ vorgelegt wird oder bei der eine Zulassung oder Kontrolle beantragt
 wird. Die periodische Kontrolle der Munition ist bei der Behörde zu
 beantragen, welche die Zulassung erteilt hat.
 
+(2a) Zuständig für die Prüfung und Zulassung nach § 8a ist jede
+Behörde nach Absatz 1, bei der eine unbrauchbar gemachte Schusswaffe
+vorgelegt wird.
+
 (3) Zuständig für die Zulassung der in den §§ 7 und 8 und die Prüfung
 der in § 9 Abs. 4 bezeichneten Schusswaffen und technischen
 Gegenstände ist die Physikalisch-Technische Bundesanstalt; ihr
@@ -1117,6 +1139,10 @@ Kostenerstattung eine Abschrift oder Vervielfältigung zu überlassen.
     14 Abs. 2 Satz 1 Nr. 4, oder entgegen § 10 Abs. 1 einen dort genannten
     Gegenstand in den Geltungsbereich dieses Gesetzes verbringt oder
     gewerbsmäßig herstellt,
+
+
+2a. entgegen § 8a Absatz 1 Satz 1 eine unbrauchbar gemachte Schusswaffe
+    nicht oder nicht rechtzeitig vorlegt,
 
 
 3.  entgegen § 9 Abs. 1 Satz 1 oder Abs. 2 Satz 1 eine Anzeige nicht,
@@ -1224,4 +1250,17 @@ findet die Kostenverordnung zum Waffengesetz in der Fassung der
 Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), zuletzt geändert
 durch die Verordnung vom 10. Januar 2000 (BGBl. I S. 38), sinngemäß
 Anwendung.
+
+(8) Prüfungsverfahren, die auf der Grundlage des § 9 Absatz 1 Satz 1
+Nummer 2 oder Absatz 5 in der Fassung dieses Gesetzes vom 11. Oktober
+2002 (BGBl. I S. 3970) eingeleitet worden sind, sind nach Maßgabe
+dieses Gesetzes abzuschließen oder in Prüfungsverfahren nach diesem
+Gesetz zu überführen.
+
+(9) Der Besitz von unbrauchbar gemachten Schusswaffen, die vor dem 8.
+April 2016 nach § 9 Absatz 1 Satz 1 Nummer 2 oder Absatz 5 in der
+Fassung dieses Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970)
+zugelassen worden sind, darf durch den bisherigen Besitzer fortgesetzt
+werden. Im Übrigen richtet sich der Umgang nach den Bestimmungen, die
+im Waffengesetz oder auf Grund des Waffengesetzes getroffen sind.
 

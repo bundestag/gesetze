@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 3127
 
+Geändert durch
+:   Art. 53 V v. 26.3.2014 I 274
+
 
 
 ## Eingangsformel
@@ -544,7 +547,8 @@ Diese Verordnung tritt am 1. Juli 1998 in Kraft.
 
 ## Anlage (zu § 6 Abs. 3)
 
-(Fundstelle: BGBl. I 1997, 3131 - 3132)
+(Fundstelle: BGBl. I 1997, 3131 - 3132;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 Seite 1
 ......................................................................
@@ -566,19 +570,25 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 "Geprüfter
 Kraftfahrzeug-Servicetechniker/Geprüfte Kraftfahrzeug-
 Servicetechnikerin"
-vom 15. Dezember 1997 (BGBl. I S. 3127) mit der Gesamtnote
-..............
+vom 15. Dezember 1997 (BGBl. I S. 3127), die durch Artikel 53 der
+Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit der
+Gesamtnote ..............
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 5 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ...........................
 Unterschrift ....................
 (Siegel der zuständigen Stelle)
 Die Punktebewertungsskala unterteilt sich wie folgt:
 100-92 Punkte = Note 1 = sehr gut,
-unter 92-81 Punkte = Note 2 = gut,
-unter 81-67 Punkte = Note 3 = befriedigend,
-unter 67-50 Punkte = Note 4 = ausreichend,
-unter 50-30 Punkte = Note 5 = mangelhaft,
-unter 30- 0 Punkte = Note 6 = ungenügend.
+unter  92-81 Punkte = Note 2 = gut,
+unter  81-67 Punkte = Note 3 = befriedigend,
+unter  67-50 Punkte = Note 4 = ausreichend,
+unter  50-30 Punkte = Note 5 = mangelhaft,
+unter  30- 0 Punkte = Note 6 = ungenügend.
 Seite 2
 Die Prüfung bestand aus
 

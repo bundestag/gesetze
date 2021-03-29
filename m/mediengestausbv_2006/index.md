@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton/zur Mediengestalterin
-  Bild und Ton
+Title: Verordnung über die Berufsausbildung zum Mediengestalter Bild und  Ton/zur
+  Mediengestalterin Bild und Ton
 jurabk: MediengestAusbV 2006
 layout: default
 origslug: mediengestausbv_2006
@@ -8,7 +8,7 @@ slug: mediengestausbv_2006
 
 ---
 
-# Verordnung über die Berufsausbildung zum Mediengestalter Bild und Ton/zur Mediengestalterin Bild und Ton (MediengestAusbV 2006)
+# Verordnung über die Berufsausbildung zum Mediengestalter Bild und  Ton/zur Mediengestalterin Bild und Ton (MediengestAusbV 2006)
 
 Ausfertigungsdatum
 :   2006-05-26
@@ -425,8 +425,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton/zur Mediengestalterin Bild und Ton
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mediengestalter Bild und Ton/zur Mediengestalterin Bild und Ton
 
 (Fundstelle: BGBl. I 2006, 1274 - 1277)
 

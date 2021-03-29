@@ -16,7 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1977, 3156
 
-Neugefaßt durch
+Neugefasst durch
 :   Bek. v. 18.12.1984 I 1642,
 
 Zuletzt geändert durch

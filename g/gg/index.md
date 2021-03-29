@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl: 1949, 1
 
 Zuletzt geändert durch
-:   Art. 1 G v. 11.7.2012 I 1478
+:   Art. 1 G v. 13.7.2017 I 2347
 
 
 ## Eingangsformel
@@ -24,10 +24,9 @@ Zuletzt geändert durch
 Der Parlamentarische Rat hat am 23. Mai 1949 in Bonn am Rhein in
 öffentlicher Sitzung festgestellt, daß das am 8. Mai des Jahres 1949
 vom Parlamentarischen Rat beschlossene
-Grundgesetz für die Bundesrepublik Deutschland              in der
-Woche vom 16. bis 22. Mai 1949 durch die Volksvertretungen von mehr
-als Zweidritteln der beteiligten deutschen Länder angenommen worden
-ist.
+Grundgesetz für die Bundesrepublik Deutschland in der Woche vom 16.
+bis 22. Mai 1949 durch die Volksvertretungen von mehr als Zweidritteln
+der beteiligten deutschen Länder angenommen worden ist.
 Auf Grund dieser Feststellung hat der Parlamentarische Rat, vertreten
 durch seine Präsidenten, das Grundgesetz ausgefertigt und verkündet.
 Das Grundgesetz wird hiermit gemäß Artikel 145 Abs. 3 im
@@ -533,11 +532,21 @@ ihrer Mittel sowie über ihr Vermögen öffentlich Rechenschaft geben.
 (2) Parteien, die nach ihren Zielen oder nach dem Verhalten ihrer
 Anhänger darauf ausgehen, die freiheitliche demokratische Grundordnung
 zu beeinträchtigen oder zu beseitigen oder den Bestand der
-Bundesrepublik Deutschland zu gefährden, sind verfassungswidrig. Über
-die Frage der Verfassungswidrigkeit entscheidet das
-Bundesverfassungsgericht.
+Bundesrepublik Deutschland zu gefährden, sind verfassungswidrig.
 
-(3) Das Nähere regeln Bundesgesetze.
+(3) Parteien, die nach ihren Zielen oder dem Verhalten ihrer Anhänger
+darauf ausgerichtet sind, die freiheitliche demokratische Grundordnung
+zu beeinträchtigen oder zu beseitigen oder den Bestand der
+Bundesrepublik Deutschland zu gefährden, sind von staatlicher
+Finanzierung ausgeschlossen. Wird der Ausschluss festgestellt, so
+entfällt auch eine steuerliche Begünstigung dieser Parteien und von
+Zuwendungen an diese Parteien.
+
+(4) Über die Frage der Verfassungswidrigkeit nach Absatz 2 sowie über
+den Ausschluss von staatlicher Finanzierung nach Absatz 3 entscheidet
+das Bundesverfassungsgericht.
+
+(5) Das Nähere regeln Bundesgesetze.
 
 
 ### Art 22
@@ -1081,9 +1090,8 @@ Benutzung aller staatlichen Verkehrsmittel. Das Nähere regelt ein
 Bundesgesetz.
 
 
-### Art 49
+### Art 49 (weggefallen)
 
--
 
 
 ## IV. - Der Bundesrat
@@ -1256,9 +1264,8 @@ Bundesgesetzes. Für Verwaltungsabkommen gelten die Vorschriften über
 die Bundesverwaltung entsprechend.
 
 
-### Art 59a
+### Art 59a (weggefallen)
 
--
 
 
 ### Art 60
@@ -1544,10 +1551,11 @@ Absatzes 2 nicht mehr besteht, durch Landesrecht ersetzt werden kann.
 
 
 
+    sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die
+    internationale Verbrechensbekämpfung;
 
 
-sowie die Einrichtung eines Bundeskriminalpolizeiamtes und die
-internationale Verbrechensbekämpfung;
+
 
 11. die Statistik für Bundeszwecke;
 
@@ -1725,6 +1733,7 @@ Bundesrates.
 
 
 ### (XXXX) Art 74a und 75 (weggefallen)
+
 
 
 ### Art 76
@@ -2212,16 +2221,27 @@ Einvernehmen mit den Ländern zu wahren.
 
 ### Art 90
 
-(1) Der Bund ist Eigentümer der bisherigen Reichsautobahnen und
-Reichsstraßen.
+(1) Der Bund bleibt Eigentümer der Bundesautobahnen und sonstigen
+Bundesstraßen des Fernverkehrs. Das Eigentum ist unveräußerlich.
 
-(2) Die Länder oder die nach Landesrecht zuständigen
-Selbstverwaltungskörperschaften verwalten die Bundesautobahnen und
-sonstigen Bundesstraßen des Fernverkehrs im Auftrage des Bundes.
+(2) Die Verwaltung der Bundesautobahnen wird in Bundesverwaltung
+geführt. Der Bund kann sich zur Erledigung seiner Aufgaben einer
+Gesellschaft privaten Rechts bedienen. Diese Gesellschaft steht im
+unveräußerlichen Eigentum des Bundes. Eine unmittelbare oder
+mittelbare Beteiligung Dritter an der Gesellschaft und deren
+Tochtergesellschaften ist ausgeschlossen. Eine Beteiligung Privater im
+Rahmen von Öffentlich-Privaten Partnerschaften ist ausgeschlossen für
+Streckennetze, die das gesamte Bundesautobahnnetz oder das gesamte
+Netz sonstiger Bundesfernstraßen in einem Land oder wesentliche Teile
+davon umfassen. Das Nähere regelt ein Bundesgesetz.
 
-(3) Auf Antrag eines Landes kann der Bund Bundesautobahnen und
-sonstige Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses
-Landes liegen, in bundeseigene Verwaltung übernehmen.
+(3) Die Länder oder die nach Landesrecht zuständigen
+Selbstverwaltungskörperschaften verwalten die sonstigen Bundesstraßen
+des Fernverkehrs im Auftrage des Bundes.
+
+(4) Auf Antrag eines Landes kann der Bund die sonstigen Bundesstraßen
+des Fernverkehrs, soweit sie im Gebiet dieses Landes liegen, in
+Bundesverwaltung übernehmen.
 
 
 ### Art 91
@@ -2278,20 +2298,11 @@ Haushaltsplänen des Bundes und der Länder vorbehalten.
 ### Art 91b
 
 (1) Bund und Länder können auf Grund von Vereinbarungen in Fällen
-überregionaler Bedeutung zusammenwirken bei der Förderung von:
-
-1.  Einrichtungen und Vorhaben der wissenschaftlichen Forschung außerhalb
-    von Hochschulen;
-
-
-2.  Vorhaben der Wissenschaft und Forschung an Hochschulen;
-
-
-3.  Forschungsbauten an Hochschulen einschließlich Großgeräten.
-
-
-
-Vereinbarungen nach Satz 1 Nr. 2 bedürfen der Zustimmung aller Länder.
+überregionaler Bedeutung bei der Förderung von Wissenschaft, Forschung
+und Lehre zusammenwirken. Vereinbarungen, die im Schwerpunkt
+Hochschulen betreffen, bedürfen der Zustimmung aller Länder. Dies gilt
+nicht für Vereinbarungen über Forschungsbauten einschließlich
+Großgeräten.
 
 (2) Bund und Länder können auf Grund von Vereinbarungen zur
 Feststellung der Leistungsfähigkeit des Bildungswesens im
@@ -2327,6 +2338,10 @@ bestimmten Einrichtungen vereinbaren.
 Netze des Bundes und der Länder ein Verbindungsnetz. Das Nähere zur
 Errichtung und zum Betrieb des Verbindungsnetzes regelt ein
 Bundesgesetz mit Zustimmung des Bundesrates.
+
+(5) Der übergreifende informationstechnische Zugang zu den
+Verwaltungsleistungen von Bund und Ländern wird durch Bundesgesetz mit
+Zustimmung des Bundesrates geregelt.
 
 
 ### Art 91d
@@ -2716,14 +2731,29 @@ Finanzhilfen gewähren.
 (2) Das Nähere, insbesondere die Arten der zu fördernden
 Investitionen, wird durch Bundesgesetz, das der Zustimmung des
 Bundesrates bedarf, oder auf Grund des Bundeshaushaltsgesetzes durch
-Verwaltungsvereinbarung geregelt. Die Mittel sind befristet zu
-gewähren und hinsichtlich ihrer Verwendung in regelmäßigen
-Zeitabständen zu überprüfen. Die Finanzhilfen sind im Zeitablauf mit
-fallenden Jahresbeträgen zu gestalten.
+Verwaltungsvereinbarung geregelt. Das Bundesgesetz oder die
+Verwaltungsvereinbarung kann Bestimmungen über die Ausgestaltung der
+jeweiligen Länderprogramme zur Verwendung der Finanzhilfen vorsehen.
+Die Festlegung der Kriterien für die Ausgestaltung der Länderprogramme
+erfolgt im Einvernehmen mit den betroffenen Ländern. Zur
+Gewährleistung der zweckentsprechenden Mittelverwendung kann die
+Bundesregierung Bericht und Vorlage der Akten verlangen und Erhebungen
+bei allen Behörden durchführen. Die Mittel sind befristet zu gewähren
+und hinsichtlich ihrer Verwendung in regelmäßigen Zeitabständen zu
+überprüfen. Die Finanzhilfen sind im Zeitablauf mit fallenden
+Jahresbeträgen zu gestalten.
 
 (3) Bundestag, Bundesregierung und Bundesrat sind auf Verlangen über
 die Durchführung der Maßnahmen und die erzielten Verbesserungen zu
 unterrichten.
+
+
+### Art 104c
+
+Der Bund kann den Ländern Finanzhilfen für gesamtstaatlich bedeutsame
+Investitionen der finanzschwachen Gemeinden (Gemeindeverbände) im
+Bereich der kommunalen Bildungsinfrastruktur gewähren. Artikel 104b
+Absatz 2 und 3 gilt entsprechend.
 
 
 ### Art 105
@@ -2786,7 +2816,7 @@ Steuern stehen dem Bund zu:
 2.  die Erbschaftsteuer,
 
 
-3   die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach
+3.  die Verkehrsteuern, soweit sie nicht nach Absatz 1 dem Bund oder nach
     Absatz 3 Bund und Ländern gemeinsam zustehen,
 
 
@@ -2919,25 +2949,30 @@ Abgrenzung sowie über Art und Umfang der Zerlegung des örtlichen
 Aufkommens zu treffen. Das Gesetz kann auch Bestimmungen über die
 Abgrenzung und Zerlegung des örtlichen Aufkommens anderer Steuern
 treffen. Der Länderanteil am Aufkommen der Umsatzsteuer steht den
-einzelnen Ländern nach Maßgabe ihrer Einwohnerzahl zu; für einen Teil,
-höchstens jedoch für ein Viertel dieses Länderanteils, können durch
-Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
-Ergänzungsanteile für die Länder vorgesehen werden, deren Einnahmen
-aus den Landessteuern, aus der Einkommensteuer und der
-Körperschaftsteuer und nach Artikel 106b je Einwohner unter dem
-Durchschnitt der Länder liegen; bei der Grunderwerbsteuer ist die
-Steuerkraft einzubeziehen.
+einzelnen Ländern, vorbehaltlich der Regelungen nach Absatz 2, nach
+Maßgabe ihrer Einwohnerzahl zu.
 
-(2) Durch das Gesetz ist sicherzustellen, daß die unterschiedliche
-Finanzkraft der Länder angemessen ausgeglichen wird; hierbei sind die
-Finanzkraft und der Finanzbedarf der Gemeinden (Gemeindeverbände) zu
-berücksichtigen. Die Voraussetzungen für die Ausgleichsansprüche der
-ausgleichsberechtigten Länder und für die Ausgleichsverbindlichkeiten
-der ausgleichspflichtigen Länder sowie die Maßstäbe für die Höhe der
-Ausgleichsleistungen sind in dem Gesetz zu bestimmen. Es kann auch
-bestimmen, daß der Bund aus seinen Mitteln leistungsschwachen Ländern
-Zuweisungen zur ergänzenden Deckung ihres allgemeinen Finanzbedarfs
-(Ergänzungszuweisungen) gewährt.
+(2) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf, ist
+sicherzustellen, dass die unterschiedliche Finanzkraft der Länder
+angemessen ausgeglichen wird; hierbei sind die Finanzkraft und der
+Finanzbedarf der Gemeinden (Gemeindeverbände) zu berücksichtigen. Zu
+diesem Zweck sind in dem Gesetz Zuschläge zu und Abschläge von der
+jeweiligen Finanzkraft bei der Verteilung der Länderanteile am
+Aufkommen der Umsatzsteuer zu regeln. Die Voraussetzungen für die
+Gewährung von Zuschlägen und für die Erhebung von Abschlägen sowie die
+Maßstäbe für die Höhe dieser Zuschläge und Abschläge sind in dem
+Gesetz zu bestimmen. Für Zwecke der Bemessung der Finanzkraft kann die
+bergrechtliche Förderabgabe mit nur einem Teil ihres Aufkommens
+berücksichtigt werden. Das Gesetz kann auch bestimmen, dass der Bund
+aus seinen Mitteln leistungsschwachen Ländern Zuweisungen zur
+ergänzenden Deckung ihres allgemeinen Finanzbedarfs
+(Ergänzungszuweisungen) gewährt. Zuweisungen können unabhängig von den
+Maßstäben nach den Sätzen 1 bis 3 auch solchen leistungsschwachen
+Ländern gewährt werden, deren Gemeinden (Gemeindeverbände) eine
+besonders geringe Steuerkraft aufweisen
+(Gemeindesteuerkraftzuweisungen), sowie außerdem solchen
+leistungsschwachen Ländern, deren Anteile an den Fördermitteln nach
+Artikel 91b ihre Einwohneranteile unterschreiten.
 
 
 ### Art 108
@@ -2971,7 +3006,19 @@ soweit dadurch der Vollzug der Steuergesetze erheblich verbessert oder
 erleichtert wird. Für die den Gemeinden (Gemeindeverbänden) allein
 zufließenden Steuern kann die den Landesfinanzbehörden zustehende
 Verwaltung durch die Länder ganz oder zum Teil den Gemeinden
-(Gemeindeverbänden) übertragen werden.
+(Gemeindeverbänden) übertragen werden. Das Bundesgesetz nach Satz 1
+kann für ein Zusammenwirken von Bund und Ländern bestimmen, dass bei
+Zustimmung einer im Gesetz genannten Mehrheit Regelungen für den
+Vollzug von Steuergesetzen für alle Länder verbindlich werden.
+
+(4a) Durch Bundesgesetz, das der Zustimmung des Bundesrates bedarf,
+können bei der Verwaltung von Steuern, die unter Absatz 2 fallen, ein
+Zusammenwirken von Landesfinanzbehörden und eine länderübergreifende
+Übertragung von Zuständigkeiten auf Landesfinanzbehörden eines oder
+mehrerer Länder im Einvernehmen mit den betroffenen Ländern vorgesehen
+werden, wenn und soweit dadurch der Vollzug der Steuergesetze
+erheblich verbessert oder erleichtert wird. Die Kostentragung kann
+durch Bundesgesetz geregelt werden.
 
 (5) Das von den Bundesfinanzbehörden anzuwendende Verfahren wird durch
 Bundesgesetz geregelt. Das von den Landesfinanzbehörden und in den
@@ -3035,8 +3082,8 @@ Zustimmung des Bundesrates bedarf.
 
 ### Art 109a
 
-Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das der
-Zustimmung des Bundesrates bedarf,
+(1) Zur Vermeidung von Haushaltsnotlagen regelt ein Bundesgesetz, das
+der Zustimmung des Bundesrates bedarf,
 
 1.  die fortlaufende Überwachung der Haushaltswirtschaft von Bund und
     Ländern durch ein gemeinsames Gremium (Stabilitätsrat),
@@ -3051,7 +3098,14 @@ Zustimmung des Bundesrates bedarf,
 
 
 
-Die Beschlüsse des Stabilitätsrats und die zugrunde liegenden
+
+(2) Dem Stabilitätsrat obliegt ab dem Jahr 2020 die Überwachung der
+Einhaltung der Vorgaben des Artikels 109 Absatz 3 durch Bund und
+Länder. Die Überwachung orientiert sich an den Vorgaben und Verfahren
+aus Rechtsakten auf Grund des Vertrages über die Arbeitsweise der
+Europäischen Union zur Einhaltung der Haushaltsdisziplin.
+
+(3) Die Beschlüsse des Stabilitätsrats und die zugrunde liegenden
 Beratungsunterlagen sind zu veröffentlichen.
 
 
@@ -3153,9 +3207,14 @@ der Bundesregierung Rechnung zu legen.
 (2) Der Bundesrechnungshof, dessen Mitglieder richterliche
 Unabhängigkeit besitzen, prüft die Rechnung sowie die
 Wirtschaftlichkeit und Ordnungsmäßigkeit der Haushalts- und
-Wirtschaftsführung. Er hat außer der Bundesregierung unmittelbar dem
-Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen werden
-die Befugnisse des Bundesrechnungshofes durch Bundesgesetz geregelt.
+Wirtschaftsführung des Bundes. Zum Zweck der Prüfung nach Satz 1 kann
+der Bundesrechnungshof auch bei Stellen außerhalb der Bundesverwaltung
+Erhebungen vornehmen; dies gilt auch in den Fällen, in denen der Bund
+den Ländern zweckgebundene Finanzierungsmittel zur Erfüllung von
+Länderaufgaben zuweist. Er hat außer der Bundesregierung unmittelbar
+dem Bundestage und dem Bundesrate jährlich zu berichten. Im übrigen
+werden die Befugnisse des Bundesrechnungshofes durch Bundesgesetz
+geregelt.
 
 
 ### Art 115
@@ -3635,11 +3694,18 @@ geltenden Fassung in den Bereichen der Gemeindeverkehrsfinanzierung
 und der sozialen Wohnraumförderung geschaffenen Regelungen gelten bis
 zum 31. Dezember 2006 fort. Die im Bereich der
 Gemeindeverkehrsfinanzierung für die besonderen Programme nach § 6
-Abs. 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die sonstigen
-nach Artikel 104a Abs. 4 in der bis zum 1. September 2006 geltenden
-Fassung geschaffenen Regelungen gelten bis zum 31. Dezember 2019 fort,
-soweit nicht ein früherer Zeitpunkt für das Außerkrafttreten bestimmt
-ist oder wird.
+Absatz 1 des Gemeindeverkehrsfinanzierungsgesetzes sowie die mit dem
+Gesetz über Finanzhilfen des Bundes nach Artikel 104a Absatz 4 des
+Grundgesetzes an die Länder Bremen, Hamburg, Mecklenburg-Vorpommern,
+Niedersachsen sowie Schleswig-Holstein für Seehäfen vom 20. Dezember
+2001 nach Artikel 104a Absatz 4 in der bis zum 1. September 2006
+geltenden Fassung geschaffenen Regelungen gelten bis zu ihrer
+Aufhebung fort. Eine Änderung des
+Gemeindeverkehrsfinanzierungsgesetzes durch Bundesgesetz ist ab dem 1.
+Januar 2025 zulässig. Die sonstigen nach Artikel 104a Absatz 4 in der
+bis zum 1. September 2006 geltenden Fassung geschaffenen Regelungen
+gelten bis zum 31. Dezember 2019 fort, soweit nicht ein früherer
+Zeitpunkt für das Außerkrafttreten bestimmt ist oder wird.
 
 
 ### Art 126
@@ -3915,9 +3981,8 @@ mit den Artikeln 1 bis 18 dieses Grundgesetzes Grundrechte
 gewährleisten.
 
 
-### Art 142a
+### Art 142a (weggefallen)
 
--
 
 
 ### Art 143
@@ -4064,6 +4129,56 @@ Haushaltsnotlage ist ausgeschlossen.
 Finanzierungslast wird hälftig von Bund und Ländern, von letzteren aus
 ihrem Umsatzsteueranteil, getragen. Das Nähere wird durch Bundesgesetz
 mit Zustimmung des Bundesrates geregelt.
+
+(4) Als Hilfe zur künftig eigenständigen Einhaltung der Vorgaben des
+Artikels 109 Absatz 3 können den Ländern Bremen und Saarland ab dem 1.
+Januar 2020 Sanierungshilfen in Höhe von jährlich insgesamt 800
+Millionen Euro aus dem Haushalt des Bundes gewährt werden. Die Länder
+ergreifen hierzu Maßnahmen zum Abbau der übermäßigen Verschuldung
+sowie zur Stärkung der Wirtschafts- und Finanzkraft. Das Nähere regelt
+ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf. Die
+gleichzeitige Gewährung der Sanierungshilfen und Sanierungshilfen auf
+Grund einer extremen Haushaltsnotlage ist ausgeschlossen.
+
+
+### Art 143e
+
+(1) Die Bundesautobahnen werden abweichend von Artikel 90 Absatz 2
+längstens bis zum 31. Dezember 2020 in Auftragsverwaltung durch die
+Länder oder die nach Landesrecht zuständigen
+Selbstverwaltungskörperschaften geführt. Der Bund regelt die
+Umwandlung der Auftragsverwaltung in Bundesverwaltung nach Artikel 90
+Absatz 2 und 4 durch Bundesgesetz mit Zustimmung des Bundesrates.
+
+(2) Auf Antrag eines Landes, der bis zum 31. Dezember 2018 zu stellen
+ist, übernimmt der Bund abweichend von Artikel 90 Absatz 4 die
+sonstigen Bundesstraßen des Fernverkehrs, soweit sie im Gebiet dieses
+Landes liegen, mit Wirkung zum 1. Januar 2021 in Bundesverwaltung.
+
+
+### Art 143f
+
+Artikel 143d, das Gesetz über den Finanzausgleich zwischen Bund und
+Ländern sowie sonstige auf der Grundlage von Artikel 107 Absatz 2 in
+seiner ab dem 1. Januar 2020 geltenden Fassung erlassene Gesetze
+treten außer Kraft, wenn nach dem 31. Dezember 2030 die
+Bundesregierung, der Bundestag oder gemeinsam mindestens drei Länder
+Verhandlungen über eine Neuordnung der bundesstaatlichen
+Finanzbeziehungen verlangt haben und mit Ablauf von fünf Jahren nach
+Notifikation des Verhandlungsverlangens der Bundesregierung, des
+Bundestages oder der Länder beim Bundespräsidenten keine gesetzliche
+Neuordnung der bundesstaatlichen Finanzbeziehungen in Kraft getreten
+ist. Der Tag des Außerkrafttretens ist im Bundesgesetzblatt bekannt zu
+geben.
+
+
+### Art 143g
+
+Für die Regelung der Steuerertragsverteilung, des
+Länderfinanzausgleichs und der Bundesergänzungszuweisungen bis zum 31.
+Dezember 2019 ist Artikel 107 in seiner bis zum Inkrafttreten des
+Gesetzes zur Änderung des Grundgesetzes vom 13. Juli 2017 geltenden
+Fassung weiter anzuwenden.
 
 
 ### Art 144

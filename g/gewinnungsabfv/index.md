@@ -275,8 +275,9 @@ zugelassen waren oder die bis zu diesem Zeitpunkt bereits in Betrieb
 sind, müssen spätestens am 1. Mai 2012 die Anforderungen der §§ 3 bis
 6 und bis zum 1. Mai 2014 die Anforderungen nach § 7 erfüllen.
 
+(zu § 5)
 
-## Anhang (zu § 5) Abfallbewirtschaftungsplan
+## Anhang Abfallbewirtschaftungsplan
 
 (Fundstelle: BGBl. I 2009, 949)
 

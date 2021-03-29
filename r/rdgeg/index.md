@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 2840, 2846
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 3057
+:   Art. 8 G v. 12.5.2017 I 1121
 
 
 ## § 1 Erlaubnisinhaber nach dem Rechtsberatungsgesetz
@@ -74,6 +74,14 @@ für registrierte Erlaubnisinhaber möglich.
 dem Widerruf der Registrierung nach § 12 Abs. 1 Nr. 1 Buchstabe c und
 § 13 Abs. 1 Satz 3 Nr. 4 des Rechtsdienstleistungsgesetzes gleich.
 
+(6) Ist ein registrierter Erlaubnisinhaber, der nach Maßgabe des § 3
+Absatz 2 zur gerichtlichen Vertretung oder zum Auftreten in der
+Verhandlung befugt ist, verstorben oder wurde seine Registrierung
+zurückgenommen oder widerrufen, kann die für die Registrierung
+zuständige Behörde einen Abwickler für seine Praxis bestellen. § 14a
+Absatz 1 Satz 2 und Absatz 2 des Rechtsdienstleistungsgesetzes gilt
+entsprechend.
+
 
 ## § 2 Versicherungsberater
 
@@ -89,30 +97,32 @@ nach § 34e Abs. 1 der Gewerbeordnung beantragen.
 (1) Kammerrechtsbeistände stehen in den nachfolgenden Vorschriften
 einem Rechtsanwalt gleich:
 
-1.  § 79 Abs. 2 Satz 1, § 88 Abs. 2, § 121 Abs. 2, § 133 Abs. 2, §§ 135,
-    157, 169 Abs. 2, §§ 174, 195, 317 Abs. 4 Satz 2, § 397 Abs. 2 und §
-    811 Nr. 7 der Zivilprozessordnung,
+1.  § 79 Abs. 2 Satz 1, § 88 Abs. 2, § 121 Abs. 2, § 130a Absatz 4 Nummer
+    2, §§ 130d, 133 Abs. 2, §§ 135, 157, 169 Abs. 2, §§ 174, 195, 317 Abs.
+    4 Satz 2, § 397 Abs. 2 und § 811 Nr. 7 der Zivilprozessordnung,
 
 
-2.  § 10 Abs. 2 Satz 1 und § 11 Satz 3 des Gesetzes über das Verfahren in
-    Familiensachen und in den Angelegenheiten der freiwilligen
-    Gerichtsbarkeit,
+2.  § 10 Abs. 2 Satz 1, § 11 Satz 3, § 14 Absatz 2 Satz 2 und § 14b des
+    Gesetzes über das Verfahren in Familiensachen und in den
+    Angelegenheiten der freiwilligen Gerichtsbarkeit,
 
 
-3.  § 11 Abs. 2 Satz 1 des Arbeitsgerichtsgesetzes,
+3.  § 11 Abs. 2 Satz 1, § 46c Absatz 4 Nummer 2, § 46g des
+    Arbeitsgerichtsgesetzes,
 
 
-4.  § 73 Abs. 2 Satz 1 und Absatz 6 Satz 5 des Sozialgerichtsgesetzes,
-    wenn nicht die Erlaubnis das Sozial- und Sozialversicherungsrecht
-    ausschließt,
+4.  § 65a Absatz 4 Nummer 2, §§ 65d und 73 Absatz 2 Satz 1 und Absatz 6
+    Satz 5 des Sozialgerichtsgesetzes, wenn nicht die Erlaubnis das
+    Sozial- und Sozialversicherungsrecht ausschließt,
 
 
-5.  § 67 Abs. 2 Satz 1 und Abs. 6 Satz 4 der Verwaltungsgerichtsordnung,
+5.  § 55a Absatz 4 Nummer 2, §§ 55d, 67 Absatz 2 Satz 1 und Abs. 6 Satz 4
+    der Verwaltungsgerichtsordnung,
 
 
-6.  § 62 Abs. 2 Satz 1 und Abs. 6 Satz 4 der Finanzgerichtsordnung, wenn
-    die Erlaubnis die geschäftsmäßige Hilfeleistung in Steuersachen
-    umfasst.
+6.  § 52a Absatz 4 Nummer 2, §§ 52d, 62 Absatz 2 Satz 1 und Abs. 6 Satz 4
+    der Finanzgerichtsordnung, wenn die Erlaubnis die geschäftsmäßige
+    Hilfeleistung in Steuersachen umfasst.
 
 
 
@@ -200,6 +210,14 @@ der Zivilprozessordnung. Ihre Vergütung für die Vertretung im
 gerichtlichen Mahnverfahren ist bis zu einem Betrag von 25 Euro nach §
 91 Abs. 1 der Zivilprozessordnung erstattungsfähig.
 
+(5) Die Inkassokosten von Personen, die Inkassodienstleistungen
+erbringen (registrierte Personen nach § 10 Absatz 1 Satz 1 Nummer 1
+des Rechtsdienstleistungsgesetzes), für außergerichtliche
+Inkassodienstleistungen, die eine nicht titulierte Forderung
+betreffen, sind nur bis zur Höhe der einem Rechtsanwalt nach den
+Vorschriften des Rechtsanwaltsvergütungsgesetzes zustehenden Vergütung
+erstattungsfähig.
+
 
 ## § 5 Diplom-Juristen aus dem Beitrittsgebiet
 
@@ -251,11 +269,4 @@ Person mit Befähigung zum Richteramt gleich:
 Die Berufsbezeichnung „Rechtsbeistand“ oder eine ihr zum Verwechseln
 ähnliche Bezeichnung darf nur von Kammerrechtsbeiständen und
 registrierten Rechtsbeiständen geführt werden.
-
-
-## § 7 Übergangsvorschrift für Anträge nach dem Rechtsberatungsgesetz
-
-Über Anträge auf Erteilung einer Erlaubnis nach Artikel 1 § 1 Abs. 1
-Satz 1 des Rechtsberatungsgesetzes, die vor dem 1. Juli 2008 gestellt
-worden sind, ist nach bisherigem Recht zu entscheiden.
 

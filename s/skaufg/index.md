@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1995, 554
 
 Zuletzt geändert durch
-:   Art. 113 V v. 31.10.2006 I 2407
+:   Art. 229 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -216,7 +216,7 @@ des Aufenthaltszwecks erforderlich ist, mit Zustimmung der deutschen
 Bundesbehörden vorübergehend Fernmeldeanlagen einschließlich
 Funkanlagen, außer solchen für Rundfunkzwecke, errichten und
 betreiben. Soweit Verleihungen erforderlich sind, werden sie durch das
-Bundesministerium für Wirtschaft und Technologie erteilt.
+Bundesministerium für Verkehr und digitale Infrastruktur erteilt.
 
 (3) Fernmeldeeinrichtungen der ausländischen Streitkräfte, die an
 Anschlüsse oder Übertragungswege der deutschen Telekommunikationsnetze
@@ -251,8 +251,9 @@ hieraus die Notwendigkeit einer Außerbetriebnahme der Störquelle, muß
 diese ohne Verzug erfolgen.
 
 (6) Besondere Regelungen für Einzelfälle sind im Rahmen der geltenden
-Gesetze im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie und dem Bundesministerium der Verteidigung festzulegen.
+Gesetze im Einvernehmen mit dem Bundesministerium für Verkehr und
+digitale Infrastruktur und dem Bundesministerium der Verteidigung
+festzulegen.
 
 
 ## § 11 Gesundheitswesen

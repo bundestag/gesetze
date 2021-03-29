@@ -4,7 +4,7 @@ Title: Staatsvertrag zwischen den Ländern Mecklenburg-Vorpommern und Niedersach
   nach Niedersachsen
 jurabk: GrÄndStVtr MV/ND
 layout: default
-origslug: gr_ndstvtr_mv_nd
+origslug: graendstvtr_mv_nd
 slug: graendstvtr_mv_nd
 
 ---

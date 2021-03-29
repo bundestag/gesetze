@@ -50,9 +50,8 @@ Bundesministerium der Justiz
 
 ## Anlage 1 Kennzeichen der Auszeichnung der Queen für Verdienste auf dem Gebiet des Umweltschutzes
 
-(Inhalt: Nicht darstellbares Kennzeichen,
 Fundstelle: BGBl. I 1993, 1156)
-
+![bgbl1_1993_j1156_0010.jpg](bgbl1_1993_j1156_0010.jpg)
 
 ## Anlage 2 Namen, Abkürzungen und Kennzeichen des BENELUX-Markenamts
 
@@ -90,7 +89,5 @@ Fundstelle: BGBl. I 1993, 1158)
 
 ## Anlage 4 Kennzeichen der Umwelt-Konferenz der Vereinten Nationen (UNEP) und Abkürzungen
 
-(Inhalt: Nicht darstellbare Kennzeichen und Abkürzungen in Englisch,
-Französisch, Spanisch, Russisch, Chinesisch und Arabisch,
 Fundstelle: BGBl. I 1993, 1159)
-
+![bgbl1_1993_j1159_0010.jpg](bgbl1_1993_j1159_0010.jpg)

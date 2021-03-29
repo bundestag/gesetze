@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 718, 776
 
 Zuletzt geändert durch
-:   Art. 13 G v. 5.12.2012 I 2418
+:   Art. 5 Abs. 2 G v. 11.10.2016 I 2222
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -77,12 +77,17 @@ und die Vertrauensleute in den Ausschüssen zur Wahl der ehrenamtlichen
 Richter bei den Gerichten der Verwaltungs- und der
 Finanzgerichtsbarkeit werden wie ehrenamtliche Richter entschädigt.
 
+(5) Die Vorschriften dieses Gesetzes über die gerichtliche Festsetzung
+und die Beschwerde gehen den Regelungen der für das zugrunde liegende
+Verfahren geltenden Verfahrensvorschriften vor.
+
 
 ### § 2 Geltendmachung und Erlöschen des Anspruchs, Verjährung
 
 (1) Der Anspruch auf Vergütung oder Entschädigung erlischt, wenn er
 nicht binnen drei Monaten bei der Stelle, die den Berechtigten
-herangezogen oder beauftragt hat, geltend gemacht wird. Die Frist
+herangezogen oder beauftragt hat, geltend gemacht wird; hierüber und
+über den Beginn der Frist ist der Berechtigte zu belehren. Die Frist
 beginnt
 
 1.  im Fall der schriftlichen Begutachtung oder der Anfertigung einer
@@ -95,36 +100,46 @@ beginnt
     Zuziehung,
 
 
-3.  in den Fällen des § 23 mit Beendigung der Maßnahme und
+3.  bei vorzeitiger Beendigung der Heranziehung oder des Auftrags in den
+    Fällen der Nummern 1 und 2 mit der Bekanntgabe der Erledigung an den
+    Berechtigten,
 
 
-4.  im Fall der Dienstleistung als ehrenamtlicher Richter oder Mitglied
+4.  in den Fällen des § 23 mit Beendigung der Maßnahme und
+
+
+5.  im Fall der Dienstleistung als ehrenamtlicher Richter oder Mitglied
     eines Ausschusses im Sinne des § 1 Abs. 4 mit Beendigung der
-    Amtsperiode.
+    Amtsperiode, jedoch nicht vor dem Ende der Amtstätigkeit.
 
 
 
-Die Frist kann auf begründeten Antrag von der in Satz 1 genannten
-Stelle verlängert werden; lehnt sie eine Verlängerung ab, hat sie den
-Antrag unverzüglich dem nach § 4 Abs. 1 für die Festsetzung der
-Vergütung oder Entschädigung zuständigen Gericht vorzulegen, das durch
-unanfechtbaren Beschluss entscheidet. Weist das Gericht den Antrag
-zurück, erlischt der Anspruch, wenn die Frist nach Satz 1 abgelaufen
-und der Anspruch nicht binnen zwei Wochen ab Bekanntgabe der
-Entscheidung bei der in Satz 1 genannten Stelle geltend gemacht worden
-ist.
+Wird der Berechtigte in den Fällen des Satzes 2 Nummer 1 und 2 in
+demselben Verfahren, im gerichtlichen Verfahren in demselben
+Rechtszug, mehrfach herangezogen, ist für den Beginn aller Fristen die
+letzte Heranziehung maßgebend. Die Frist kann auf begründeten Antrag
+von der in Satz 1 genannten Stelle verlängert werden; lehnt sie eine
+Verlängerung ab, hat sie den Antrag unverzüglich dem nach § 4 Abs. 1
+für die Festsetzung der Vergütung oder Entschädigung zuständigen
+Gericht vorzulegen, das durch unanfechtbaren Beschluss entscheidet.
+Weist das Gericht den Antrag zurück, erlischt der Anspruch, wenn die
+Frist nach Satz 1 abgelaufen und der Anspruch nicht binnen zwei Wochen
+ab Bekanntgabe der Entscheidung bei der in Satz 1 genannten Stelle
+geltend gemacht worden ist.
 
 (2) War der Berechtigte ohne sein Verschulden an der Einhaltung einer
 Frist nach Absatz 1 gehindert, gewährt ihm das Gericht auf Antrag
 Wiedereinsetzung in den vorigen Stand, wenn er innerhalb von zwei
 Wochen nach Beseitigung des Hindernisses den Anspruch beziffert und
 die Tatsachen glaubhaft macht, welche die Wiedereinsetzung begründen.
-Nach Ablauf eines Jahres, von dem Ende der versäumten Frist an
-gerechnet, kann die Wiedereinsetzung nicht mehr beantragt werden.
-Gegen die Ablehnung der Wiedereinsetzung findet die Beschwerde statt.
-Sie ist nur zulässig, wenn sie innerhalb von zwei Wochen eingelegt
-wird. Die Frist beginnt mit der Zustellung der Entscheidung. § 4 Abs.
-4 Satz 1 bis 3 und Abs. 6 bis 8 ist entsprechend anzuwenden.
+Ein Fehlen des Verschuldens wird vermutet, wenn eine Belehrung nach
+Absatz 1 Satz 1 unterblieben oder fehlerhaft ist. Nach Ablauf eines
+Jahres, von dem Ende der versäumten Frist an gerechnet, kann die
+Wiedereinsetzung nicht mehr beantragt werden. Gegen die Ablehnung der
+Wiedereinsetzung findet die Beschwerde statt. Sie ist nur zulässig,
+wenn sie innerhalb von zwei Wochen eingelegt wird. Die Frist beginnt
+mit der Zustellung der Entscheidung. § 4 Abs. 4 Satz 1 bis 3 und Abs.
+6 bis 8 ist entsprechend anzuwenden.
 
 (3) Der Anspruch auf Vergütung oder Entschädigung verjährt in drei
 Jahren nach Ablauf des Kalenderjahrs, in dem der nach Absatz 1 Satz 2
@@ -285,22 +300,18 @@ Verfahren fortführt, soweit dies aufgrund der Rüge geboten ist.
 
 ### § 4b Elektronische Akte, elektronisches Dokument
 
-(1) Die Vorschriften über die elektronische Akte und das gerichtliche
-elektronische Dokument für das Verfahren, in dem der
-Anspruchsberechtigte herangezogen worden ist, sind anzuwenden.
+In Verfahren nach diesem Gesetz sind die verfahrensrechtlichen
+Vorschriften über die elektronische Akte und über das elektronische
+Dokument anzuwenden, die für das Verfahren gelten, in dem der
+Anspruchsberechtigte herangezogen worden ist.
 
-(2) Soweit für Anträge und Erklärungen in dem Verfahren, in dem der
-Anspruchsberechtigte herangezogen worden ist, die Aufzeichnung als
-elektronisches Dokument genügt, genügt diese Form auch für Anträge und
-Erklärungen nach diesem Gesetz. Die verantwortende Person soll das
-Dokument mit einer qualifizierten elektronischen Signatur nach dem
-Signaturgesetz versehen. Ist ein übermitteltes elektronisches Dokument
-für das Gericht zur Bearbeitung nicht geeignet, ist dies dem Absender
-unter Angabe der geltenden technischen Rahmenbedingungen unverzüglich
-mitzuteilen.
 
-(3) Ein elektronisches Dokument ist eingereicht, sobald die für den
-Empfang bestimmte Einrichtung des Gerichts es aufgezeichnet hat.
+### § 4c Rechtsbehelfsbelehrung
+
+Jede anfechtbare Entscheidung hat eine Belehrung über den statthaften
+Rechtsbehelf sowie über die Stelle, bei der dieser Rechtsbehelf
+einzulegen ist, über deren Sitz und über die einzuhaltende Form zu
+enthalten.
 
 
 ## Abschnitt 2 - Gemeinsame Vorschriften
@@ -364,8 +375,9 @@ Fahrten durch besondere Umstände genötigt war.
 wohnt noch berufstätig ist, erhält für die Zeit, während der er aus
 Anlass der Wahrnehmung des Termins von seiner Wohnung und seinem
 Tätigkeitsmittelpunkt abwesend sein muss, ein Tagegeld, dessen Höhe
-sich nach § 4 Abs. 5 Satz 1 Nr. 5 Satz 2 des Einkommensteuergesetzes
-bestimmt.
+sich nach der Verpflegungspauschale zur Abgeltung tatsächlich
+entstandener, beruflich veranlasster Mehraufwendungen im Inland nach
+dem Einkommensteuergesetz bemisst.
 
 (2) Ist eine auswärtige Übernachtung notwendig, wird ein
 Übernachtungsgeld nach den Bestimmungen des Bundesreisekostengesetzes
@@ -379,20 +391,35 @@ Auslagen werden ersetzt, soweit sie notwendig sind. Dies gilt
 insbesondere für die Kosten notwendiger Vertretungen und notwendiger
 Begleitpersonen.
 
-(2) Für die Anfertigung von Ablichtungen und Ausdrucken werden 0,50
-Euro je Seite für die ersten 50 Seiten und 0,15 Euro für jede weitere
-Seite, für die Anfertigung von Farbkopien oder Farbausdrucken 2 Euro
-je Seite ersetzt. Die Höhe der Pauschale ist in derselben
-Angelegenheit einheitlich zu berechnen. Die Pauschale wird nur für
-Ablichtungen und Ausdrucke aus Behörden- und Gerichtsakten gewährt,
-soweit deren Herstellung zur sachgemäßen Vorbereitung oder Bearbeitung
-der Angelegenheit geboten war, sowie für Ablichtungen und zusätzliche
-Ausdrucke, die nach Aufforderung durch die heranziehende Stelle
-angefertigt worden sind.
+(2) Für die Anfertigung von Kopien und Ausdrucken werden ersetzt
+
+1.  bis zu einer Größe von DIN A3 0,50 Euro je Seite für die ersten 50
+    Seiten und 0,15 Euro für jede weitere Seite,
+
+
+2.  in einer Größe von mehr als DIN A3 3 Euro je Seite und
+
+
+3.  für Farbkopien und -ausdrucke jeweils das Doppelte der Beträge nach
+    Nummer 1 oder Nummer 2.
+
+
+
+Die Höhe der Pauschalen ist in derselben Angelegenheit einheitlich zu
+berechnen. Die Pauschale wird nur für Kopien und Ausdrucke aus
+Behörden- und Gerichtsakten gewährt, soweit deren Herstellung zur
+sachgemäßen Vorbereitung oder Bearbeitung der Angelegenheit geboten
+war, sowie für Kopien und zusätzliche Ausdrucke, die nach Aufforderung
+durch die heranziehende Stelle angefertigt worden sind. Werden Kopien
+oder Ausdrucke in einer Größe von mehr als DIN A3 gegen Entgelt von
+einem Dritten angefertigt, kann der Berechtigte anstelle der Pauschale
+die baren Auslagen ersetzt verlangen.
 
 (3) Für die Überlassung von elektronisch gespeicherten Dateien
-anstelle der in Absatz 2 genannten Ablichtungen und Ausdrucke werden
-2,50 Euro je Datei ersetzt.
+anstelle der in Absatz 2 genannten Kopien und Ausdrucke werden 1,50
+Euro je Datei ersetzt. Für die in einem Arbeitsgang überlassenen oder
+in einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente
+werden höchstens 5 Euro ersetzt.
 
 
 ## Abschnitt 3 - Vergütung von Sachverständigen, Dolmetschern und Übersetzern
@@ -419,10 +446,10 @@ anstelle der in Absatz 2 genannten Ablichtungen und Ausdrucke werden
 
 (2) Soweit das Honorar nach Stundensätzen zu bemessen ist, wird es für
 jede Stunde der erforderlichen Zeit einschließlich notwendiger Reise-
-Reise- und Wartezeiten gewährt. Die letzte bereits begonnene Stunde
-wird voll gerechnet, wenn sie zu mehr als 30 Minuten für die
-Erbringung der Leistung erforderlich war; anderenfalls beträgt das
-Honorar die Hälfte des sich für eine volle Stunde ergebenden Betrags.
+und Wartezeiten gewährt. Die letzte bereits begonnene Stunde wird voll
+gerechnet, wenn sie zu mehr als 30 Minuten für die Erbringung der
+Leistung erforderlich war; anderenfalls beträgt das Honorar die Hälfte
+des sich für eine volle Stunde ergebenden Betrags.
 
 (3) Soweit vergütungspflichtige Leistungen oder Aufwendungen auf die
 gleichzeitige Erledigung mehrerer Angelegenheiten entfallen, ist die
@@ -435,113 +462,186 @@ Erwerbseinkommens, nach billigem Ermessen eine höhere als die in
 Absatz 1 bestimmte Vergütung gewährt werden.
 
 
+### § 8a Wegfall oder Beschränkung des Vergütungsanspruchs
+
+(1) Der Anspruch auf Vergütung entfällt, wenn der Berechtigte es
+unterlässt, der heranziehenden Stelle unverzüglich solche Umstände
+anzuzeigen, die zu seiner Ablehnung durch einen Beteiligten
+berechtigen, es sei denn, er hat die Unterlassung nicht zu vertreten.
+
+(2) Der Berechtigte erhält eine Vergütung nur insoweit, als seine
+Leistung bestimmungsgemäß verwertbar ist, wenn er
+
+1.  gegen die Verpflichtung aus § 407a Absatz 1 bis 4 Satz 1 der
+    Zivilprozessordnung verstoßen hat, es sei denn, er hat den Verstoß
+    nicht zu vertreten;
+
+
+2.  eine mangelhafte Leistung erbracht hat;
+
+
+3.  im Rahmen der Leistungserbringung grob fahrlässig oder vorsätzlich
+    Gründe geschaffen hat, die einen Beteiligten zur Ablehnung wegen der
+    Besorgnis der Befangenheit berechtigen; oder
+
+
+4.  trotz Festsetzung eines weiteren Ordnungsgeldes seine Leistung nicht
+    vollständig erbracht hat.
+
+
+
+Soweit das Gericht die Leistung berücksichtigt, gilt sie als
+verwertbar.
+
+(3) Steht die geltend gemachte Vergütung erheblich außer Verhältnis
+zum Wert des Streitgegenstands und hat der Berechtigte nicht
+rechtzeitig nach § 407a Absatz 4 Satz 2 der Zivilprozessordnung auf
+diesen Umstand hingewiesen, bestimmt das Gericht nach Anhörung der
+Beteiligten nach billigem Ermessen eine Vergütung, die in einem
+angemessenen Verhältnis zum Wert des Streitgegenstands steht.
+
+(4) Übersteigt die Vergütung den angeforderten Auslagenvorschuss
+erheblich und hat der Berechtigte nicht rechtzeitig nach § 407a Absatz
+4 Satz 2 der Zivilprozessordnung auf diesen Umstand hingewiesen,
+erhält er die Vergütung nur in Höhe des Auslagenvorschusses.
+
+(5) Die Absätze 3 und 4 sind nicht anzuwenden, wenn der Berechtigte
+die Verletzung der ihm obliegenden Hinweispflicht nicht zu vertreten
+hat.
+
+
 ### § 9 Honorar für die Leistung der Sachverständigen und Dolmetscher
 
 (1) Der Sachverständige erhält für jede Stunde ein Honorar
 
-*    *   in der Honorargruppe ...
+*    *   in der
+        Honorargruppe ...
 
-    *   in Höhe von ... Euro
+    *   in Höhe von
+        ... Euro
 
 
 *    *   1
 
-    *   50
+    *   65
 
 
 *    *   2
 
-    *   55
+    *   70
 
 
 *    *   3
 
-    *   60
+    *   75
 
 
 *    *   4
 
-    *   65
+    *   80
 
 
 *    *   5
 
-    *   70
+    *   85
 
 
 *    *   6
 
-    *   75
+    *   90
 
 
 *    *   7
 
-    *   80
+    *   95
 
 
 *    *   8
 
-    *   85
+    *   100
 
 
 *    *   9
 
-    *   90
+    *   105
 
 
 *    *   10
 
-    *   95
+    *   110
+
+
+*    *   11
+
+    *   115
+
+
+*    *   12
+
+    *   120
+
+
+*    *   13
+
+    *   125
 
 
 *    *   M 1
 
-    *   50
+    *   65
 
 
 *    *   M 2
 
-    *   60
+    *   75
 
 
 *    *   M 3
 
-    *   85
+    *   100
 
 
 
-Die Zuordnung der Leistungen zu einer Honorargruppe bestimmt sich nach
-der Anlage 1. Wird die Leistung auf einem Sachgebiet erbracht, das in
-keiner Honorargruppe genannt wird, ist sie unter Berücksichtigung der
+Die Zuordnung der Leistungen zu einer Honorargruppe bestimmt sich
+entsprechend der Entscheidung über die Heranziehung nach der Anlage 1.
+Ist die Leistung auf einem Sachgebiet zu erbringen, das in keiner
+Honorargruppe genannt wird, ist sie unter Berücksichtigung der
 allgemein für Leistungen dieser Art außergerichtlich und
 außerbehördlich vereinbarten Stundensätze einer Honorargruppe nach
 billigem Ermessen zuzuordnen; dies gilt entsprechend, wenn ein
 medizinisches oder psychologisches Gutachten einen Gegenstand
-betrifft, der in keiner Honorargruppe genannt wird. Erfolgt die
-Leistung auf mehreren Sachgebieten oder betrifft das medizinische oder
-psychologische Gutachten mehrere Gegenstände und sind die Sachgebiete
-oder Gegenstände verschiedenen Honorargruppen zugeordnet, bemisst sich
-das Honorar einheitlich für die gesamte erforderliche Zeit nach der
-höchsten dieser Honorargruppen; jedoch gilt Satz 3 entsprechend, wenn
-dies mit Rücksicht auf den Schwerpunkt der Leistung zu einem
-unbilligen Ergebnis führen würde. § 4 gilt entsprechend mit der
-Maßgabe, dass die Beschwerde auch zulässig ist, wenn der Wert des
+betrifft, der in keiner Honorargruppe genannt wird. Ist die Leistung
+auf mehreren Sachgebieten zu erbringen oder betrifft das medizinische
+oder psychologische Gutachten mehrere Gegenstände und sind die
+Sachgebiete oder Gegenstände verschiedenen Honorargruppen zugeordnet,
+bemisst sich das Honorar einheitlich für die gesamte erforderliche
+Zeit nach der höchsten dieser Honorargruppen; jedoch gilt Satz 3
+entsprechend, wenn dies mit Rücksicht auf den Schwerpunkt der Leistung
+zu einem unbilligen Ergebnis führen würde. § 4 gilt entsprechend mit
+der Maßgabe, dass die Beschwerde auch zulässig ist, wenn der Wert des
 Beschwerdegegenstands 200 Euro nicht übersteigt. Die Beschwerde ist
 nur zulässig, solange der Anspruch auf Vergütung noch nicht geltend
 gemacht worden ist.
 
-(2) Im Fall des § 22 Abs. 1 Satz 2 Nr. 3 der Insolvenzordnung beträgt
-das Honorar des Sachverständigen abweichend von Absatz 1 für jede
-Stunde 65 Euro.
+(2) Beauftragt das Gericht den vorläufigen Insolvenzverwalter, als
+Sachverständiger zu prüfen, ob ein Eröffnungsgrund vorliegt und welche
+Aussichten für eine Fortführung des Unternehmens des Schuldners
+bestehen (§ 22 Absatz 1 Satz 2 Nummer 3 der Insolvenzordnung, auch in
+Verbindung mit § 22 Absatz 2 der Insolvenzordnung), beträgt das
+Honorar in diesem Fall abweichend von Absatz 1 für jede Stunde 80
+Euro.
 
-(3) Das Honorar des Dolmetschers beträgt für jede Stunde 55 Euro. Ein
-ausschließlich als Dolmetscher Tätiger erhält eine
-Ausfallentschädigung in Höhe von höchstens 55 Euro, soweit er durch
+(3) Das Honorar des Dolmetschers beträgt für jede Stunde 70 Euro und,
+wenn er ausdrücklich für simultanes Dolmetschen herangezogen worden
+ist, 75 Euro; maßgebend ist ausschließlich die bei der Heranziehung im
+Voraus mitgeteilte Art des Dolmetschens. Ein ausschließlich als
+Dolmetscher Tätiger erhält eine Ausfallentschädigung, soweit er durch
 die Aufhebung eines Termins, zu dem er geladen war und dessen
 Aufhebung nicht durch einen in seiner Person liegenden Grund
 veranlasst war, einen Einkommensverlust erlitten hat und ihm die
 Aufhebung erst am Terminstag oder an einem der beiden vorhergehenden
-Tage mitgeteilt worden ist.
+Tage mitgeteilt worden ist. Die Ausfallentschädigung wird bis zu einem
+Betrag gewährt, der dem Honorar für zwei Stunden entspricht.
 
 
 ### § 10 Honorar für besondere Leistungen
@@ -554,8 +654,9 @@ das Honorar oder die Entschädigung nach dieser Anlage.
 ärztliche Leistungen (Anlage zur Gebührenordnung für Ärzte)
 bezeichneten Art bemisst sich das Honorar in entsprechender Anwendung
 dieses Gebührenverzeichnisses nach dem 1,3fachen Gebührensatz. § 4
-Abs. 2 bis 4 Satz 1 und § 10 der Gebührenordnung für Ärzte gelten
-entsprechend; im Übrigen bleiben die §§ 7 und 12 unberührt.
+Absatz 2 Satz 1, Absatz 2a Satz 1, Absatz 3 und 4 Satz 1 und § 10 der
+Gebührenordnung für Ärzte gelten entsprechend; im Übrigen bleiben die
+§§ 7 und 12 unberührt.
 
 (3) Soweit für die Erbringung einer Leistung nach Absatz 1 oder Absatz
 2 zusätzliche Zeit erforderlich ist, erhält der Berechtigte ein
@@ -564,15 +665,20 @@ Honorar nach der Honorargruppe 1.
 
 ### § 11 Honorar für Übersetzungen
 
-(1) Das Honorar für eine Übersetzung beträgt 1,25 Euro für jeweils
-angefangene 55 Anschläge des schriftlichen Textes. Ist die
-Übersetzung, insbesondere wegen der Verwendung von Fachausdrücken oder
-wegen schwerer Lesbarkeit des Textes, erheblich erschwert, erhöht sich
-das Honorar auf 1,85 Euro, bei außergewöhnlich schwierigen Texten auf
-4 Euro. Maßgebend für die Anzahl der Anschläge ist der Text in der
-Zielsprache; werden jedoch nur in der Ausgangssprache lateinische
-Schriftzeichen verwendet, ist die Anzahl der Anschläge des Textes in
-der Ausgangssprache maßgebend. Wäre eine Zählung der Anschläge mit
+(1) Das Honorar für eine Übersetzung beträgt 1,55 Euro für jeweils
+angefangene 55 Anschläge des schriftlichen Textes (Grundhonorar). Bei
+nicht elektronisch zur Verfügung gestellten editierbaren Texten erhöht
+sich das Honorar auf 1,75 Euro für jeweils angefangene 55 Anschläge
+(erhöhtes Honorar). Ist die Übersetzung wegen der besonderen Umstände
+des Einzelfalls, insbesondere wegen der häufigen Verwendung von
+Fachausdrücken, der schweren Lesbarkeit des Textes, einer besonderen
+Eilbedürftigkeit oder weil es sich um eine in Deutschland selten
+vorkommende Fremdsprache handelt, besonders erschwert, beträgt das
+Grundhonorar 1,85 Euro und das erhöhte Honorar 2,05 Euro. Maßgebend
+für die Anzahl der Anschläge ist der Text in der Zielsprache; werden
+jedoch nur in der Ausgangssprache lateinische Schriftzeichen
+verwendet, ist die Anzahl der Anschläge des Textes in der
+Ausgangssprache maßgebend. Wäre eine Zählung der Anschläge mit
 unverhältnismäßigem Aufwand verbunden, wird deren Anzahl unter
 Berücksichtigung der durchschnittlichen Anzahl der Anschläge je Zeile
 nach der Anzahl der Zeilen bestimmt.
@@ -600,13 +706,13 @@ gesondert ersetzt
     sowie die für eine Untersuchung verbrauchten Stoffe und Werkzeuge;
 
 
-2.  für die zur Vorbereitung und Erstattung des Gutachtens erforderlichen
-    Lichtbilder oder an deren Stelle tretenden Ausdrucke 2 Euro für den
-    ersten Abzug oder Ausdruck und 0,50 Euro für jeden weiteren Abzug oder
-    Ausdruck;
+2.  für jedes zur Vorbereitung und Erstattung des Gutachtens erforderliche
+    Foto 2 Euro und, wenn die Fotos nicht Teil des schriftlichen
+    Gutachtens sind (§ 7 Absatz 2), 0,50 Euro für den zweiten und jeden
+    weiteren Abzug oder Ausdruck eines Fotos;
 
 
-3.  für die Erstellung des schriftlichen Gutachtens 0,75 Euro je
+3.  für die Erstellung des schriftlichen Gutachtens 0,90 Euro je
     angefangene 1 000 Anschläge; ist die Zahl der Anschläge nicht bekannt,
     ist diese zu schätzen;
 
@@ -626,22 +732,31 @@ keine oder nur unwesentlich erhöhte Gemeinkosten veranlasst.
 
 ### § 13 Besondere Vergütung
 
-(1) Sind die Gerichtskosten nach der jeweiligen Verfahrensordnung in
-jedem Fall den Parteien oder den Beteiligten aufzuerlegen und haben
-sich diese dem Gericht gegenüber mit einer bestimmten oder abweichend
-von der gesetzlichen Regelung zu bemessenden Vergütung einverstanden
-erklärt, wird der Sachverständige, Dolmetscher oder Übersetzer unter
-Gewährung dieser Vergütung erst herangezogen, wenn ein ausreichender
-Betrag für die gesamte Vergütung an die Staatskasse gezahlt ist.
+(1) Haben sich die Parteien oder Beteiligten dem Gericht gegenüber mit
+einer bestimmten oder einer von der gesetzlichen Regelung abweichenden
+Vergütung einverstanden erklärt, wird der Sachverständige, Dolmetscher
+oder Übersetzer unter Gewährung dieser Vergütung erst herangezogen,
+wenn ein ausreichender Betrag für die gesamte Vergütung an die
+Staatskasse gezahlt ist. Hat in einem Verfahren nach dem Gesetz über
+Ordnungswidrigkeiten die Verfolgungsbehörde eine entsprechende
+Erklärung abgegeben, bedarf es auch dann keiner Vorschusszahlung, wenn
+die Verfolgungsbehörde nicht von der Zahlung der Kosten befreit ist.
+In einem Verfahren, in dem Gerichtskosten in keinem Fall erhoben
+werden, genügt es, wenn ein die Mehrkosten deckender Betrag gezahlt
+worden ist, für den die Parteien oder Beteiligten nach Absatz 6
+haften.
 
-(2) Die Erklärung nur einer Partei oder eines Beteiligten genügt,
-soweit sie sich auf den Stundensatz nach § 9 oder bei schriftlichen
-Übersetzungen auf ein Honorar für jeweils angefangene 55 Anschläge
-nach § 11 bezieht und das Gericht zustimmt. Die Zustimmung soll nur
-erteilt werden, wenn das Eineinhalbfache des nach § 9 oder § 11
-zulässigen Honorars nicht überschritten wird. Vor der Zustimmung hat
-das Gericht die andere Partei oder die anderen Beteiligten zu hören.
-Die Zustimmung und die Ablehnung der Zustimmung sind unanfechtbar.
+(2) Die Erklärung nur einer Partei oder eines Beteiligten oder die
+Erklärung der Strafverfolgungsbehörde oder der Verfolgungsbehörde
+genügt, soweit sie sich auf den Stundensatz nach § 9 oder bei
+schriftlichen Übersetzungen auf ein Honorar für jeweils angefangene 55
+Anschläge nach § 11 bezieht und das Gericht zustimmt. Die Zustimmung
+soll nur erteilt werden, wenn das Doppelte des nach § 9 oder § 11
+zulässigen Honorars nicht überschritten wird und wenn sich zu dem
+gesetzlich bestimmten Honorar keine geeignete Person zur Übernahme der
+Tätigkeit bereit erklärt. Vor der Zustimmung hat das Gericht die
+andere Partei oder die anderen Beteiligten zu hören. Die Zustimmung
+und die Ablehnung der Zustimmung sind unanfechtbar.
 
 (3) Derjenige, dem Prozess- oder Verfahrenskostenhilfe bewilligt
 worden ist, kann eine Erklärung nach Absatz 1 nur abgeben, die sich
@@ -653,16 +768,20 @@ ausreichenden Betrag für das gegenüber der gesetzlichen Regelung oder
 der vereinbarten Vergütung (§ 14) zu erwartende zusätzliche Honorar an
 die Staatskasse zu zahlen; § 122 Abs. 1 Nr. 1 Buchstabe a der
 Zivilprozessordnung ist insoweit nicht anzuwenden. Der Betrag wird
-durch unanfechtbaren Beschluss festgesetzt.
+durch unanfechtbaren Beschluss festgesetzt. Zugleich bestimmt das
+Gericht, welcher Honorargruppe die Leistung des Sachverständigen ohne
+Berücksichtigung der Erklärungen der Parteien oder Beteiligten
+zuzuordnen oder mit welchem Betrag für 55 Anschläge in diesem Fall
+eine Übersetzung zu honorieren wäre.
 
 (4) Ist eine Vereinbarung nach den Absätzen 1 und 3 zur
 zweckentsprechenden Rechtsverfolgung notwendig und ist derjenige, dem
 Prozess- oder Verfahrenskostenhilfe bewilligt worden ist, zur Zahlung
 des nach Absatz 3 Satz 2 erforderlichen Betrags außerstande, bedarf es
 der Zahlung nicht, wenn das Gericht seiner Erklärung zustimmt. Die
-Zustimmung soll nur erteilt werden, wenn das Eineinhalbfache des nach
-§ 9 oder § 11 zulässigen Honorars nicht überschritten wird. Die
-Zustimmung und die Ablehnung der Zustimmung sind unanfechtbar.
+Zustimmung soll nur erteilt werden, wenn das Doppelte des nach § 9
+oder § 11 zulässigen Honorars nicht überschritten wird. Die Zustimmung
+und die Ablehnung der Zustimmung sind unanfechtbar.
 
 (5) Im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz
 ist die Vergütung unabhängig davon zu gewähren, ob ein ausreichender
@@ -677,27 +796,20 @@ Musterverfahrensgesetzes bewirkt. Zwischen der öffentlichen
 Bekanntmachung und der Entscheidung über die Zustimmung müssen
 mindestens vier Wochen liegen.
 
-(6) Hat sich eine Partei oder ein Beteiligter dem Gericht gegenüber
-mit einem bestimmten Stundensatz nach § 9 oder bei schriftlichen
-Übersetzungen mit einem bestimmten Honorar für jeweils angefangene 55
-Anschläge nach § 11 einverstanden erklärt, ist dieses Honorar zu
-gewähren, wenn die Partei oder der Beteiligte zugleich erklärt, die
-entstehenden Mehrkosten zu übernehmen und wenn ein ausreichender
-Betrag für das gegenüber der gesetzlichen Regelung oder der
-vereinbarten Vergütung (§ 14) zu erwartende zusätzliche Honorar an die
-Staatskasse gezahlt ist; eine nach anderen Vorschriften bestehende
-Vorschusspflicht wegen der gesetzlichen oder vereinbarten Vergütung
-bleibt hiervon unberührt. Gegenüber der Staatskasse haften mehrere
-Personen, die eine Erklärung nach Satz 1 abgegeben haben, als
-Gesamtschuldner, im Innenverhältnis nach Kopfteilen. Die Mehrkosten
-gehören nicht zu den Kosten des Verfahrens.
+(6) Schuldet nach den kostenrechtlichen Vorschriften keine Partei oder
+kein Beteiligter die Vergütung, haften die Parteien oder Beteiligten,
+die eine Erklärung nach Absatz 1 oder Absatz 3 abgegeben haben, für
+die hierdurch entstandenen Mehrkosten als Gesamtschuldner, im
+Innenverhältnis nach Kopfteilen. Für die Strafverfolgungs- oder
+Verfolgungsbehörde haftet diejenige Körperschaft, der die Behörde
+angehört, wenn die Körperschaft nicht von der Zahlung der Kosten
+befreit ist. Der auf eine Partei oder einen Beteiligten entfallende
+Anteil bleibt unberücksichtigt, wenn das Gericht der Erklärung nach
+Absatz 4 zugestimmt hat. Der Sachverständige, Dolmetscher oder
+Übersetzer hat eine Berechnung der gesetzlichen Vergütung
+einzureichen.
 
-(7) In den Fällen der Absätze 3 und 6 bestimmt das Gericht zugleich
-mit der Festsetzung des vorab an die Staatskasse zu zahlenden Betrags,
-welcher Honorargruppe die Leistung des Sachverständigen ohne
-Berücksichtigung der Erklärungen der Parteien oder Beteiligten
-zuzuordnen oder mit welchem Betrag für 55 Anschläge in diesem Fall
-eine Übersetzung zu honorieren wäre.
+(7) (weggefallen)
 
 
 ### § 14 Vereinbarung der Vergütung
@@ -761,17 +873,19 @@ gewährt. Die letzte bereits begonnene Stunde wird voll gerechnet.
 
 ### § 16 Entschädigung für Zeitversäumnis
 
-Die Entschädigung für Zeitversäumnis beträgt 5 Euro je Stunde.
+Die Entschädigung für Zeitversäumnis beträgt 6 Euro je Stunde.
 
 
 ### § 17 Entschädigung für Nachteile bei der Haushaltsführung
 
 Ehrenamtliche Richter, die einen eigenen Haushalt für mehrere Personen
 führen, erhalten neben der Entschädigung nach § 16 eine zusätzliche
-Entschädigung für Nachteile bei der Haushaltsführung von 12 Euro je
+Entschädigung für Nachteile bei der Haushaltsführung von 14 Euro je
 Stunde, wenn sie nicht erwerbstätig sind oder wenn sie
 teilzeitbeschäftigt sind und außerhalb ihrer vereinbarten regelmäßigen
-täglichen Arbeitszeit herangezogen werden. Die Entschädigung von
+täglichen Arbeitszeit herangezogen werden. Ehrenamtliche Richter, die
+ein Erwerbsersatzeinkommen beziehen, stehen erwerbstätigen
+ehrenamtlichen Richtern gleich. Die Entschädigung von
 Teilzeitbeschäftigten wird für höchstens zehn Stunden je Tag gewährt
 abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen
 täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht
@@ -783,12 +897,12 @@ gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 Für den Verdienstausfall wird neben der Entschädigung nach § 16 eine
 zusätzliche Entschädigung gewährt, die sich nach dem regelmäßigen
 Bruttoverdienst einschließlich der vom Arbeitgeber zu tragenden
-Sozialversicherungsbeiträge richtet, jedoch höchstens 20 Euro je
-Stunde beträgt. Die Entschädigung beträgt bis zu 39 Euro je Stunde für
+Sozialversicherungsbeiträge richtet, jedoch höchstens 24 Euro je
+Stunde beträgt. Die Entschädigung beträgt bis zu 46 Euro je Stunde für
 ehrenamtliche Richter, die in demselben Verfahren an mehr als 20 Tagen
 herangezogen oder innerhalb eines Zeitraums von 30 Tagen an mindestens
 sechs Tagen ihrer regelmäßigen Erwerbstätigkeit entzogen werden. Sie
-beträgt bis zu 51 Euro je Stunde für ehrenamtliche Richter, die in
+beträgt bis zu 61 Euro je Stunde für ehrenamtliche Richter, die in
 demselben Verfahren an mehr als 50 Tagen herangezogen werden.
 
 
@@ -824,7 +938,10 @@ Dies gilt auch bei schriftlicher Beantwortung der Beweisfrage.
 (2) Soweit die Entschädigung nach Stunden bemessen ist, wird sie für
 die gesamte Dauer der Heranziehung einschließlich notwendiger Reise-
 und Wartezeiten, jedoch für nicht mehr als zehn Stunden je Tag,
-gewährt. Die letzte bereits begonnene Stunde wird voll gerechnet.
+gewährt. Die letzte bereits begonnene Stunde wird voll gerechnet, wenn
+insgesamt mehr als 30 Minuten auf die Heranziehung entfallen;
+anderenfalls beträgt die Entschädigung die Hälfte des sich für eine
+volle Stunde ergebenden Betrags.
 
 (3) Soweit die Entschädigung durch die gleichzeitige Heranziehung in
 verschiedenen Angelegenheiten veranlasst ist, ist sie auf diese
@@ -840,8 +957,8 @@ Entschädigung gewährt werden.
 
 ### § 20 Entschädigung für Zeitversäumnis
 
-Die Entschädigung für Zeitversäumnis beträgt 3 Euro je Stunde, soweit
-weder für einen Verdienstausfall noch für Nachteile bei der
+Die Entschädigung für Zeitversäumnis beträgt 3,50 Euro je Stunde,
+soweit weder für einen Verdienstausfall noch für Nachteile bei der
 Haushaltsführung eine Entschädigung zu gewähren ist, es sei denn, dem
 Zeugen ist durch seine Heranziehung ersichtlich kein Nachteil
 entstanden.
@@ -851,13 +968,15 @@ entstanden.
 
 Zeugen, die einen eigenen Haushalt für mehrere Personen führen,
 erhalten eine Entschädigung für Nachteile bei der Haushaltsführung von
-12 Euro je Stunde, wenn sie nicht erwerbstätig sind oder wenn sie
+14 Euro je Stunde, wenn sie nicht erwerbstätig sind oder wenn sie
 teilzeitbeschäftigt sind und außerhalb ihrer vereinbarten regelmäßigen
-täglichen Arbeitszeit herangezogen werden. Die Entschädigung von
-Teilzeitbeschäftigten wird für höchstens zehn Stunden je Tag gewährt
-abzüglich der Zahl an Stunden, die der vereinbarten regelmäßigen
-täglichen Arbeitszeit entspricht. Die Entschädigung wird nicht
-gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
+täglichen Arbeitszeit herangezogen werden. Zeugen, die ein
+Erwerbsersatzeinkommen beziehen, stehen erwerbstätigen Zeugen gleich.
+Die Entschädigung von Teilzeitbeschäftigten wird für höchstens zehn
+Stunden je Tag gewährt abzüglich der Zahl an Stunden, die der
+vereinbarten regelmäßigen täglichen Arbeitszeit entspricht. Die
+Entschädigung wird nicht gewährt, soweit Kosten einer notwendigen
+Vertretung erstattet werden.
 
 
 ### § 22 Entschädigung für Verdienstausfall
@@ -865,7 +984,7 @@ gewährt, soweit Kosten einer notwendigen Vertretung erstattet werden.
 Zeugen, denen ein Verdienstausfall entsteht, erhalten eine
 Entschädigung, die sich nach dem regelmäßigen Bruttoverdienst
 einschließlich der vom Arbeitgeber zu tragenden
-Sozialversicherungsbeiträge richtet und für jede Stunde höchstens 17
+Sozialversicherungsbeiträge richtet und für jede Stunde höchstens 21
 Euro beträgt. Gefangene, die keinen Verdienstausfall aus einem
 privatrechtlichen Arbeitsverhältnis haben, erhalten Ersatz in Höhe der
 entgangenen Zuwendung der Vollzugsbehörde.
@@ -884,11 +1003,12 @@ ausschließlich nach dieser Anlage.
 1 Satz 1 oder § 144 Abs. 1 der Zivilprozessordnung Urkunden, sonstige
 Unterlagen oder andere Gegenstände vorlegen oder deren
 Inaugenscheinnahme dulden, sowie Dritte, die aufgrund eines
-Beweiszwecken dienenden Ersuchens der Strafverfolgungsbehörde
+Beweiszwecken dienenden Ersuchens der Strafverfolgungs- oder
+Verfolgungsbehörde
 
 1.  Gegenstände herausgeben (§ 95 Abs. 1, § 98a der Strafprozessordnung)
     oder die Pflicht zur Herausgabe entsprechend einer Anheimgabe der
-    Strafverfolgungsbehörde abwenden oder
+    Strafverfolgungs- oder Verfolgungsbehörde abwenden oder
 
 
 2.  in anderen als den in Absatz 1 genannten Fällen Auskunft erteilen,
@@ -968,264 +1088,662 @@ auch nach dem 1. Juli 2004 herangezogen worden ist.
 
 ### Anlage 1 (zu § 9 Abs. 1)
 
-\*P
-Fundstelle des Originaltextes: BGBl. I 783 - 784
-bzgl. der einzelnen Änderungen vgl. Fußnote              \*PE
--------------------------------------------------------------
-I                                                I Honorar- I
-I                   Sachgebiet                   I  gruppe  I
--------------------------------------------------------------
-I Abbruch                                        I    5     I
--------------------------------------------------------------
-I Abfallstoffe                                   I    5     I
--------------------------------------------------------------
-I Abrechnung im Hoch- und Ingenieurbau           I    6     I
--------------------------------------------------------------
-I Akustik, Lärmschutz                            I    5     I
--------------------------------------------------------------
-I Altbausanierung                                I    5     I
--------------------------------------------------------------
-I Altlasten                                      I    3     I
--------------------------------------------------------------
-I Bauphysik                                      I    5     I
--------------------------------------------------------------
-I Baustoffe                                      I    5     I
--------------------------------------------------------------
-I Bauwerksabdichtung                             I    6     I
--------------------------------------------------------------
-I Beton-, Stahlbeton- und Spannbetonbau          I    5     I
--------------------------------------------------------------
-I Betriebsunterbrechungs und -verlagerungsschäden     9     I
--------------------------------------------------------------
-I Bewertung von Immobilien                       I    6     I
--------------------------------------------------------------
-I Brandschutz und Brandursachen                  I    5     I
--------------------------------------------------------------
-I Briefmarken und Münzen                         I    2     I
--------------------------------------------------------------
-I Büroeinrichtungen und -organisation            I    5     I
--------------------------------------------------------------
-I Dachkonstruktionen                             I    5     I
--------------------------------------------------------------
-I Datenverarbeitung                              I    8     I
--------------------------------------------------------------
-I Diagrammscheibenauswertung                     I    5     I
--------------------------------------------------------------
-I Elektrotechnische Anlagen und Geräte           I    5     I
--------------------------------------------------------------
-I Erd- und Grundbau                              I    3     I
--------------------------------------------------------------
-I Fahrzeugbau                                    I    6     I
--------------------------------------------------------------
-I Fenster, Türen, Tore                           I    5     I
--------------------------------------------------------------
-I Fliesen und Baukeramik                         I    5     I
--------------------------------------------------------------
-I Fußböden                                       I    4     I
--------------------------------------------------------------
-I Garten- und Landschaftsgestaltung/             I          I
-I Garten- und Landschaftsbau                     I    3     I
--------------------------------------------------------------
-I Grafisches Gewerbe                             I    6     I
--------------------------------------------------------------
-I Hausrat                                        I    3     I
--------------------------------------------------------------
-I Heizungs-, Klima- und Lüftungstechnik          I    4     I
--------------------------------------------------------------
-I Holz/Holzbau                                   I    4     I
--------------------------------------------------------------
-I Honorare (Architekten und Ingenieure)          I    7     I
--------------------------------------------------------------
-I Immissionen                                    I    5     I
--------------------------------------------------------------
-I Ingenieurbau                                   I    4     I
--------------------------------------------------------------
-I Innenausbau                                    I    5     I
--------------------------------------------------------------
-I Kältetechnik                                   I    6     I
--------------------------------------------------------------
-I Kraftfahrzeugschäden und -bewertung            I    6     I
--------------------------------------------------------------
-I Kraftfahrzeugunfallursachen                    I    6     I
--------------------------------------------------------------
-I Kunst und Antiquitäten                         I    4     I
--------------------------------------------------------------
-I Maschinen und Anlagen                          I    6     I
--------------------------------------------------------------
-I Mieten und Pachten                             I    5     I
--------------------------------------------------------------
-I Möbel                                          I    3     I
--------------------------------------------------------------
-I Musikinstrumente                               I    1     I
--------------------------------------------------------------
-I Rundfunk- und Fernsehtechnik                   I    4     I
--------------------------------------------------------------
-I Sanitärtechnik                                 I    5     I
--------------------------------------------------------------
-I Schäden an Gebäuden                            I    6     I
--------------------------------------------------------------
-I Schiffe, Wassersportfahrzeuge                  I    4     I
--------------------------------------------------------------
-I Schmuck, Juwelen, Perlen, Gold- und            I          I
-I Silberwaren                                    I    3     I
--------------------------------------------------------------
-I Schriftuntersuchung                            I    3     I
--------------------------------------------------------------
-I Schweißtechnik                                 I    3     I
--------------------------------------------------------------
-I Sprengtechnik                                  I    2     I
--------------------------------------------------------------
-I Stahlbau                                       I    4     I
--------------------------------------------------------------
-I Statik im Bauwesen                             I    4     I
--------------------------------------------------------------
-I Straßenbau                                     I    5     I
--------------------------------------------------------------
-I Tiefbau                                        I    4     I
--------------------------------------------------------------
-I Unternehmensbewertung                          I   10     I
--------------------------------------------------------------
-I Vermessungstechnik                             I    1     I
--------------------------------------------------------------
-I Wärme- und Kälteschutz                         I    6     I
--------------------------------------------------------------
-I Wasserversorgung und Abwässer                  I    3     I
--------------------------------------------------------------
--------------------------------------------------------------
-I  Gegenstand medizinischer und psychologischer  I Honorar- I
-I                   Gutachten                    I  gruppe  I
--------------------------------------------------------------
-I Einfache gutachtliche Beurteilungen,           I   M 1    I
-I insbesondere                                   I          I
-I - in Gebührenrechtsfragen,                     I          I
-I - zur Minderung der Erwerbsfähigkeit nach      I          I
-I   einer Monoverletzung,                        I          I
-I - zur Haft-, Verhandlungs- oder                I          I
-I   Vernehmungsfähigkeit,                        I          I
-I - zur Verlängerung einer Betreuung.            I          I
--------------------------------------------------------------
-I Beschreibende (Ist-Zustands-)Begutachtung nach I   M 2    I
-I standardisiertem Schema ohne Erörterung        I          I
-I spezieller Kausalzusammenhänge mit einfacher   I          I
-I medizinischer Verlaufsprognose und mit         I          I
-I durchschnittlichem Schwierigkeitsgrad,         I          I
-I insbesondere Gutachten                         I          I
-I - in Verfahren nach dem SGB IX,                I          I
-I - zur Minderung der Erwerbsfähigkeit und zur   I          I
-I   Invalidität,                                 I          I
-I - zu rechtsmedizinischen und toxikologischen   I          I
-I   Fragestellungen im Zusammenhang mit der      I          I
-I   Feststellung einer Beeinträchtigung der      I          I
-I   Fahrtüchtigkeit durch Alkohol, Drogen,       I          I
-I   Medikamente oder Krankheiten,                I          I
-I - zu spurenkundlichen oder rechtsmedizinischen I          I
-I   Fragestellungen mit Befunderhebungen (z. B.  I          I
-I   bei Verletzungen und anderen Unfallfolgen),  I          I
-I - zu einfachen Fragestellungen zur Schuld-     I          I
-I   fähigkeit ohne besondere Schwierigkeiten     I          I
-I   der Persönlichkeitsdiagnostik,               I          I
-I - zur Einrichtung einer Betreuung,             I          I
-I - zu Unterhaltsstreitigkeiten aufgrund einer   I          I
-I   Erwerbs- oder Arbeitsunfähigkeit,            I          I
-I - zu neurologisch-psychologischen Frage-       I          I
-I   stellungen in Verfahren nach der FeV.        I          I
--------------------------------------------------------------
-I Gutachten mit hohem Schwierigkeitsgrad         I   M 3    I
-I (Begutachtungen spezieller Kausalzusammenhänge I          I
-I und/oder differenzialdiagnostischer Probleme   I          I
-I und/oder Beurteilung der Prognose und/oder     I          I
-I Beurteilung strittiger Kausalitätsfragen),     I          I
-I insbesondere Gutachten                         I          I
-I - zum Kausalzusammenhang bei problematischen   I          I
-I   Verletzungsfolgen,                           I          I
-I - zu ärztlichen Behandlungsfehlern,            I          I
-I - in Verfahren nach dem OEG,                   I          I
-I - in Verfahren nach dem HHG,                   I          I
-I - zur Schuldfähigkeit bei Schwierigkeiten der  I          I
-I   Persönlichkeitsdiagnostik,                   I          I
-I - in Verfahren zur Anordnung einer Maßregel    I          I
-I   der Besserung und Sicherung (in Verfahren    I          I
-I   zur Entziehung der Fahrerlaubnis zu          I          I
-I   neurologisch/psychologischen Fragestellungen),          I
-I - zur Kriminalprognose,                        I          I
-I - zur Aussagetüchtigkeit,                      I          I
-I - zur Widerstandsfähigkeit,                    I          I
-I - in Verfahren nach den §§ 3, 10, 17 und 105   I          I
-I   JGG,                                         I          I
-I - in Unterbringungsverfahren,                  I          I
-I - in Verfahren nach § 1905 BGB,                I          I
-I - in Verfahren nach dem TSG,                   I          I
-I - in Verfahren zur Regelung von Sorge- oder    I          I
-I   Umgangsrechten,                              I          I
-I - zur Geschäfts-, Testier- oder Prozess-       I          I
-I   fähigkeit,                                   I          I
-I - zu Berufskrankheiten und zur Minderung der   I          I
-I   Erwerbsfähigkeit bei besonderen              I          I
-I   Schwierigkeiten,                             I          I
-I - zu rechtsmedizinischen, toxikologischen und  I          I
-I   spurenkundlichen Fragestellungen im          I          I
-I   Zusammenhang mit einer abschließenden        I          I
-I   Todesursachenklärung, ärztlichen             I          I
-I   Behandlungsfehlern oder einer Beurteilung    I          I
-I   der Schuldfähigkeit.                        I          I
--------------------------------------------------------------
+(Fundstelle: BGBl. I 2004, 783 - 784;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Nr.
+
+    *   Sachgebietsbezeichnung
+
+    *   Honorar-
+        gruppe
+
+
+*    *   1
+
+    *   Abfallstoffe – soweit nicht Sachgebiet 3 oder 18 – einschließlich
+        Altfahrzeuge und -geräte
+
+    *   11
+
+
+*    *   2
+
+    *   Akustik, Lärmschutz – soweit nicht Sachgebiet 4
+
+    *   4
+
+
+*    *   3
+
+    *   Altlasten und Bodenschutz
+
+    *   4
+
+
+*    *   4
+
+    *   Bauwesen – soweit nicht Sachgebiet 13 – einschließlich technische
+        Gebäudeausrüstung
+
+    *
+
+*    *   4.1
+
+    *   Planung
+
+    *   4
+
+
+*    *   4.2
+
+    *   handwerklich-technische Ausführung
+
+    *   2
+
+
+*    *   4.3
+
+    *   Schadensfeststellung, -ursachenermittlung und -bewertung – soweit
+        nicht Sachgebiet 4.1 oder 4.2 –, Bauvertragswesen, Baubetrieb und
+        Abrechnung von Bauleistungen
+
+    *   5
+
+
+*    *   4.4
+
+    *   Baustoffe
+
+    *   6
+
+
+*    *   5
+
+    *   Berufskunde und Tätigkeitsanalyse
+
+    *   10
+
+
+*    *   6
+
+    *   Betriebswirtschaft
+
+    *
+
+*    *   6.1
+
+    *   Unternehmensbewertung, Betriebsunterbrechungs- und
+        -verlagerungsschäden
+
+    *   11
+
+
+*    *   6.2
+
+    *   Kapitalanlagen und private Finanzplanung
+
+    *   13
+
+
+*    *   6.3
+
+    *   Besteuerung
+
+    *   3
+
+
+*    *   7
+
+    *   Bewertung von Immobilien
+
+    *   6
+
+
+*    *   8
+
+    *   Brandursachenermittlung
+
+    *   4
+
+
+*    *   9
+
+    *   Briefmarken und Münzen
+
+    *   2
+
+
+*    *   10
+
+    *   Datenverarbeitung, Elektronik und Telekommunikation
+
+    *
+
+*    *   10.1
+
+    *   Datenverarbeitung (Hardware und Software)
+
+    *   8
+
+
+*    *   10.2
+
+    *   Elektronik – soweit nicht Sachgebiet 38 – (insbesondere Mess-,
+        Steuerungs- und Regelungselektronik)
+
+    *   9
+
+
+*    *   10.3
+
+    *   Telekommunikation (insbesondere Telefonanlagen, Mobilfunk,
+        Übertragungstechnik)
+
+    *   8
+
+
+*    *   11
+
+    *   Elektrotechnische Anlagen und Geräte – soweit nicht Sachgebiet 4 oder
+        10
+
+    *   4
+
+
+*    *   12
+
+    *   Fahrzeugbau
+
+    *   3
+
+
+*    *   13
+
+    *   Garten- und Landschaftsbau einschließlich Sportanlagenbau
+
+    *
+
+*    *   13.1
+
+    *   Planung
+
+    *   3
+
+
+*    *   13.2
+
+    *   handwerklich-technische Ausführung
+
+    *   3
+
+
+*    *   13.3
+
+    *   Schadensfeststellung, -ursachenermittlung und -bewertung – soweit
+        nicht Sachgebiet 13.1 oder 13.2
+
+    *   4
+
+
+*    *   14
+
+    *   Gesundheitshandwerk
+
+    *   2
+
+
+*    *   15
+
+    *   Grafisches Gewerbe
+
+    *   6
+
+
+*    *   16
+
+    *   Hausrat und Inneneinrichtung
+
+    *   3
+
+
+*    *   17
+
+    *   Honorarabrechnungen von Architekten und Ingenieuren
+
+    *   9
+
+
+*    *   18
+
+    *   Immissionen
+
+    *   2
+
+
+*    *   19
+
+    *   Kältetechnik – soweit nicht Sachgebiet 4
+
+    *   5
+
+
+*    *   20
+
+    *   Kraftfahrzeugschäden und -bewertung
+
+    *   8
+
+
+*    *   21
+
+    *   Kunst und Antiquitäten
+
+    *   3
+
+
+*    *   22
+
+    *   Lebensmittelchemie und -technologie
+
+    *   6
+
+
+*    *   23
+
+    *   Maschinen und Anlagen – soweit nicht Sachgebiet 4, 10 oder 11
+
+    *   6
+
+
+*    *   24
+
+    *   Medizintechnik
+
+    *   7
+
+
+*    *   25
+
+    *   Mieten und Pachten
+
+    *   10
+
+
+*    *   26
+
+    *   Möbel – soweit nicht Sachgebiet 21
+
+    *   2
+
+
+*    *   27
+
+    *   Musikinstrumente
+
+    *   2
+
+
+*    *   28
+
+    *   Rundfunk- und Fernsehtechnik
+
+    *   2
+
+
+*    *   29
+
+    *   Schiffe, Wassersportfahrzeuge
+
+    *   4
+
+
+*    *   30
+
+    *   Schmuck, Juwelen, Perlen, Gold- und Silberwaren
+
+    *   2
+
+
+*    *   31
+
+    *   Schrift- und Urkundenuntersuchung
+
+    *   8
+
+
+*    *   32
+
+    *   Schweißtechnik
+
+    *   5
+
+
+*    *   33
+
+    *   Spedition, Transport, Lagerwirtschaft
+
+    *   5
+
+
+*    *   34
+
+    *   Sprengtechnik
+
+    *   2
+
+
+*    *   35
+
+    *   Textilien, Leder und Pelze
+
+    *   2
+
+
+*    *   36
+
+    *   Tiere
+
+    *   2
+
+
+*    *   37
+
+    *   Ursachenermittlung und Rekonstruktion bei Fahrzeugunfällen
+
+    *   12
+
+
+*    *   38
+
+    *   Verkehrsregelungs- und -überwachungstechnik
+
+    *   5
+
+
+*    *   39
+
+    *   Vermessungs- und Katasterwesen
+
+    *
+
+*    *   39.1
+
+    *   Vermessungstechnik
+
+    *   1
+
+
+*    *   39.2
+
+    *   Vermessungs- und Katasterwesen im Übrigen
+
+    *   9
+
+
+*    *   40
+
+    *   Versicherungsmathematik
+
+    *   10
+
+
+
+
+*    *   Gegenstand medizinischer und psychologischer Gutachen
+
+    *   Honorar-
+        gruppe
+
+
+*    *   Einfache gutachtliche Beurteilungen, insbesondere
+
+    *   M 1
+
+
+*    *   -
+
+    *   in Gebührenrechtsfragen,
+
+
+*    *   -
+
+    *   zur Minderung der Erwerbsfähigkeit nach einer Monoverletzung,
+
+
+*    *   -
+
+    *   zur Haft-, Verhandlungs- oder Vernehmungsfähigkeit,
+
+
+*    *   -
+
+    *   zur Verlängerung einer Betreuung.
+
+
+*    *   Beschreibende (Ist-Zustands-)Begutachtung nach standardisiertem Schema
+        ohne Erörterung spezieller Kausalzusammenhänge mit einfacher
+        medizinischer Verlaufsprognose und mit durchschnittlichem
+        Schwierigkeitsgrad, insbesondere Gutachten
+
+    *   M 2
+
+
+*    *   -
+
+    *   in Verfahren nach dem SGB IX,
+
+
+*    *   -
+
+    *   zur Minderung der Erwerbsfähigkeit und zur Invalidität,
+
+
+*    *   -
+
+    *   zu rechtsmedizinischen und toxikologischen Fragestellungen im
+        Zusammenhang mit der Feststellung einer Beeinträchtigung der
+        Fahrtüchtigkeit durch Alkohol, Drogen, Medikamente oder Krankheiten,
+
+
+*    *   -
+
+    *   zu spurenkundlichen oder rechtsmedizinischen Fragestellungen mit
+        Befunderhebungen (z. B. bei Verletzungen und anderen Unfallfolgen),
+
+
+*    *   -
+
+    *   zu einfachen Fragestellungen zur Schuldfähigkeit ohne besondere
+        Schwierigkeiten der Persönlichkeitsdiagnostik,
+
+
+*    *   -
+
+    *   zur Einrichtung oder Aufhebung einer Betreuung und der Anordnung eines
+        Einwilligungsvorbehalts gemäß § 1903 BGB
+
+
+*    *   -
+
+    *   zu Unterhaltsstreitigkeiten aufgrund einer Erwerbs- oder
+        Arbeitsunfähigkeit,
+
+
+*    *   -
+
+    *   zu neurologisch-psychologischen Fragestellungen in Verfahren nach der
+        FeV.
+
+
+*    *   Gutachten mit hohem Schwierigkeitsgrad (Begutachtungen spezieller
+        Kausalzusammenhänge und/oder differenzialdiagnostischer Probleme
+        und/oder Beurteilung der Prognose und/oder Beurteilung strittiger
+        Kausalitätsfragen), insbesondere Gutachten
+
+    *   M 3
+
+
+*    *   -
+
+    *   zum Kausalzusammenhang bei problematischen Verletzungsfolgen,
+
+
+*    *   -
+
+    *   zu ärztlichen Behandlungsfehlern,
+
+
+*    *   -
+
+    *   in Verfahren nach dem OEG,
+
+
+*    *   -
+
+    *   in Verfahren nach dem HHG,
+
+
+*    *   -
+
+    *   zur Schuldfähigkeit bei Schwierigkeiten der Persönlichkeitsdiagnostik,
+
+
+*    *   -
+
+    *   in Verfahren zur Anordnung einer Maßregel der Besserung und Sicherung
+        (in Verfahren zur Entziehung der Fahrerlaubnis zu
+        neurologisch/psychologischen Fragestellungen),
+
+
+*    *   -
+
+    *   zur Kriminalprognose,
+
+
+*    *   -
+
+    *   zur Aussagetüchtigkeit,
+
+
+*    *   -
+
+    *   zur Widerstandsfähigkeit,
+
+
+*    *   -
+
+    *   in Verfahren nach den §§ 3, 10, 17 und 105 JGG,
+
+
+*    *   -
+
+    *   in Unterbringungsverfahren,
+
+
+*    *   -
+
+    *   in Verfahren nach § 1905 BGB,
+
+
+*    *   -
+
+    *   in Verfahren nach dem TSG,
+
+
+*    *   -
+
+    *   in Verfahren zur Regelung von Sorge- oder Umgangsrechten,
+
+
+*    *   -
+
+    *   zur Geschäfts-, Testier- oder Prozessfähigkeit,
+
+
+*    *   -
+
+    *   zu Berufskrankheiten und zur Minderung der Erwerbsfähigkeit bei
+        besonderen Schwierigkeiten,
+
+
+*    *   -
+
+    *   zu rechtsmedizinischen, toxikologischen und spurenkundlichen
+        Fragestellungen im Zusammenhang mit einer abschließenden
+        Todesursachenklärung, ärztlichen Behandlungsfehlern oder einer
+        Beurteilung der Schuldfähigkeit.
+
+
 
 
 ### Anlage 2 (zu § 10 Abs. 1)
+
+(Fundstelle: BGBl. I 2004, 785 - 787;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Nr.
 
     *   Bezeichnung der Leistung
 
-    *   Honorar in Euro
+    *   Honorar
 
 
-*    *   Abschnitt 1
+*    *   **Abschnitt 1**
 
 
-*    *   Leichenschau und Obduktion
+*    *   **Leichenschau und Obduktion**
 
 
-*    *   Das Honorar in den Fällen der Nummern 100, 102 bis 106 umfasst den zur
-        Niederschrift gegebenen Bericht; in den Fällen der Nummern 102 bis 106
-        umfasst das Honorar auch das vorläufige Gutachten. Das Honorar nach
-        den Nummern 102 bis 106 enthält jeder Obduzent gesondert.
+*    *   Vorbemerkung 1:
+        (1) Das Honorar in den Fällen der Nummern 100, 102 bis 106 umfasst den
+        zur Niederschrift gegebenen Bericht; in den Fällen der Nummern 102 bis
+        106 umfasst das Honorar auch das vorläufige Gutachten. Das Honorar
+        nach den Nummern 102 bis 106 enthält jeder Obduzent gesondert.
+        (2) Aufwendungen für die Nutzung fremder Kühlzellen, Sektionssäle und
+        sonstiger Einrichtungen werden bis zu einem Betrag von 300 € gesondert
+        erstattet, wenn die Nutzung wegen der großen Entfernung zwischen dem
+        Fundort der Leiche und dem rechtsmedizinischen Institut geboten ist.
 
 
 *    *   100
 
     *   Besichtigung einer Leiche, von Teilen einer Leiche, eines Embryos oder
         eines Fetus oder Mitwirkung bei einer richterlichen Leichenschau
+        ..........
 
-    *   49,00
+    *   60,00 €
 
 
 *    *
     *   für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens
+        ..........
 
-    *   119,00
+    *   140,00 €
 
 
 *    *   101
 
     *   Fertigung eines Berichts, der schriftlich zu erstatten oder
-        nachträglich zur Niederschrift zu geben ist
+        nachträglich zur Niederschrift zu geben ist ..........
 
-    *   25,00
+    *   30,00 €
 
 
 *    *
     *   für mehrere Leistungen bei derselben Gelegenheit jedoch höchstens
+        ..........
 
-    *   84,00
+    *   100,00 €
 
 
 *    *   102
 
-    *   Obduktion
+    *   Obduktion ..........
 
-    *   195,00
+    *   380,00 €
 
 
 *    *   103
@@ -1235,9 +1753,9 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 102 beträgt
+    *   Das Honorar 102 beträgt ..........
 
-    *   275,00
+    *   500,00 €
 
 
 *    *   104
@@ -1248,17 +1766,17 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 102 beträgt
+    *   Das Honorar 102 beträgt ..........
 
-    *   396,00
+    *   670,00 €
 
 
 *    *   105
 
     *   Sektion von Teilen einer Leiche oder Öffnung eines Embryos oder nicht
-        lebensfähigen Fetus
+        lebensfähigen Fetus ..........
 
-    *   84,00
+    *   100,00 €
 
 
 *    *   106
@@ -1268,23 +1786,23 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 105 beträgt
+    *   Das Honorar 105 beträgt ..........
 
-    *   119,00
-
-
-*    *   Abschnitt 2
+    *   140,00 €
 
 
-*    *   Befund
+*    *   **Abschnitt 2**
+
+
+*    *   **Befund**
 
 
 *    *   200
 
     *   Ausstellung eines Befundscheins oder Erteilung einer schriftlichen
-        Auskunft ohne nähere gutachtliche Äußerung
+        Auskunft ohne nähere gutachtliche Äußerung ..........
 
-    *   21,00
+    *   21,00 €
 
 
 *    *   201
@@ -1292,22 +1810,22 @@ I   der Schuldfähigkeit.                        I          I
     *   Die Leistung der in Nummer 200 genannten Art ist außergewöhnlich
         umfangreich:
 
-    *   bis zu 44,00
-
+    *
 
 *    *
-    *   Das Honorar 200 beträgt
+    *   Das Honorar 200 beträgt ..........
 
-    *
+    *   bis zu 44,00 €
+
 
 *    *   202
 
     *   Zeugnis über einen ärztlichen Befund mit von der heranziehenden Stelle
         geforderter kurzer gutachtlicher Äußerung oder Formbogengutachten,
         wenn sich die Fragen auf Vorgeschichte, Angaben und Befund beschränken
-        und nur ein kurzes Gutachten erfordern
+        und nur ein kurzes Gutachten erfordern ..........
 
-    *   38,00
+    *   38,00 €
 
 
 *    *   203
@@ -1318,15 +1836,15 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 202 beträgt
+    *   Das Honorar 202 beträgt ..........
 
-    *   bis zu 75,00
-
-
-*    *   Abschnitt 3
+    *   bis zu 75,00 €
 
 
-*    *   Untersuchungen, Blutentnahme
+*    *   **Abschnitt 3**
+
+
+*    *   **Untersuchungen, Blutentnahme**
 
 
 *    *   300
@@ -1338,9 +1856,9 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar beträgt für jede Einzelbestimmung je Probe
+    *   Das Honorar beträgt für jede Einzelbestimmung je Probe ..........
 
-    *   4,00 bis 51.00
+    *   5,00 bis 60,00 €
 
 
 *    *   301
@@ -1351,18 +1869,18 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 300 beträgt
+    *   Das Honorar 300 beträgt ..........
 
-    *   bis zu 1.000,00
+    *   bis zu 1 000,00 €
 
 
 *    *   302
 
     *   Mikroskopische, physikalische, chemische, toxikologische,
         bakteriologische, serologische Untersuchung, wenn das
-        Untersuchungsmaterial von Menschen oder Tieren stammt:
+        Untersuchungsmaterial von Menschen oder Tieren stammt: ..........
 
-    *   5,00 bis 51,00
+    *   5,00 bis 60,00 €
 
 
 *    *
@@ -1384,18 +1902,18 @@ I   der Schuldfähigkeit.                        I          I
     *
 
 *    *
-    *   Das Honorar 302 beträgt
+    *   Das Honorar 302 beträgt ..........
 
-    *   bis zu 1.000,00
+    *   bis zu 1 000,00 €
 
 
 *    *   304
 
     *   Herstellung einer DNA-Probe und ihre Überprüfung auf Geeignetheit (z.
         B. Hochmolekularität, humane Herkunft, Ausmaß der Degradation,
-        Kontrolle des Verdaus)
+        Kontrolle des Verdaus) ..........
 
-    *   bis zu 205,00
+    *   bis zu 205,00 €
 
 
 *    *
@@ -1406,9 +1924,9 @@ I   der Schuldfähigkeit.                        I          I
 
 *    *   305
 
-    *   Elektrophysiologische Untersuchung eines Menschen
+    *   Elektrophysiologische Untersuchung eines Menschen ..........
 
-    *   13,00 bis 115,00
+    *   15,00 bis 135,00 €
 
 
 *    *
@@ -1420,9 +1938,9 @@ I   der Schuldfähigkeit.                        I          I
 *    *   306
 
     *   Raster-elektronische Untersuchung eines Menschen oder einer Leiche,
-        auch mit Analysenzusatz
+        auch mit Analysenzusatz ..........
 
-    *   13,00 bis 300,00
+    *   15,00 bis 355,00 €
 
 
 *    *
@@ -1433,9 +1951,9 @@ I   der Schuldfähigkeit.                        I          I
 
 *    *   307
 
-    *   Blutentnahme
+    *   Blutentnahme ..........
 
-    *   9,00
+    *   9,00 €
 
 
 *    *
@@ -1444,285 +1962,144 @@ I   der Schuldfähigkeit.                        I          I
 
     *
 
-*    *   Abschnitt 4
+*    *   **Abschnitt 4**
 
 
-*    *   Abstammungsgutachten
+*    *   **Abstammungsgutachten**
 
 
-*    *   (1) Das Honorar wird, soweit nichts anderes bestimmt ist, für jede zu
-        untersuchende Person gesondert gewährt.
-
-
-*    *   (2) Eine in den Nummern 400 bis 414 nicht genannte Merkmalsbestimmung
-        wird wie eine an Arbeitsaufwand vergleichbare Bestimmung honoriert.
-
-
-*    *   (3) Das Honorar umfasst das verbrauchte Material, soweit es sich um
-        geringwertige Stoffe handelt.
+*    *   Vorbemerkung 4:
+        (1) Das Honorar umfasst die gesamte Tätigkeit des Sachverständigen
+        einschließlich aller Aufwendungen mit Ausnahme der Umsatzsteuer und
+        mit Ausnahme der Auslagen für Probenentnahmen durch vom
+        Sachverständigen beauftragte Personen, soweit nichts anderes bestimmt
+        ist. Das Honorar umfasst ferner den Aufwand für die Anfertigung des
+        schriftlichen Gutachtens und von drei Überstücken.
+        (2) Das Honorar für Leistungen der in Abschnitt M III 13 des
+        Gebührenverzeichnisses für ärztliche Leistungen (Anlage zur GOÄ)
+        bezeichneten Art bemisst sich in entsprechender Anwendung dieses
+        Gebührenverzeichnisses nach dem 1,15fachen Gebührensatz. § 4 Abs. 2
+        Satz 1, Abs. 2a Satz 1, Abs. 3 und 4 Satz 1 und § 10 GOÄ gelten
+        entsprechend.
 
 
 *    *   400
 
-    *   Bestimmung der ABO-Blutgruppe
+    *   Erstellung des Gutachtens ..........
+        Das Honorar umfasst
 
-    *   10,00
+        1.  die administrative Abwicklung, insbesondere die Organisation der
+            Probenentnahmen, und
+
+
+        2.  das schriftliche Gutachten, erforderlichenfalls mit biostatistischer
+            Auswertung.
+
+
+
+
+    *   140,00 €
 
 
 *    *   401
 
-    *   Bestimmung der Untergruppe
+    *   Biostatistische Auswertung, wenn der mögliche Vater für die
+        Untersuchungen nicht zur Verfügung steht und andere mit ihm verwandte
+        Personen an seiner Stelle in die Begutachtung einbezogen werden
+        (Defizienzfall):
+        je Person ..........
+        Beauftragt der Sachverständige eine andere Person mit der
+        biostatistischen Auswertung in einem Defizienzfall, werden ihm
+        abweichend von Vorbemerkung 4 Absatz 1 Satz 1 die hierfür anfallenden
+        Auslagen ersetzt.
 
-    *   8,00
+    *   25,00 €
 
 
 *    *   402
 
-    *   MN-Bestimmung
+    *   Entnahme einer genetischen Probe einschließlich der Niederschrift
+        sowie der qualifizierten Aufklärung nach dem GenDG:
+        je Person ..........
 
-    *   8,00
+    *   25,00 €
 
 
-*    *   403
+*    *
+    *   Untersuchung mittels
 
-    *   Bestimmung der Merkmale des Rh-Komplexes
+        1.  Short Tandem Repeat Systemen (STR) oder
+
+
+        2.  diallelischer Polymorphismen:
+
+
+        -   diallelischer Polymorphismen:
+
+
+        -   Deletions-/Insertionspolymorphismen (DIP)
+
+
+
 
     *
 
-*    *
-    *   Cw, c, D, E, e und weitere) je Merkmal .
+*    *   403
 
-    *   10,00
+    *
+        —   bis zu 20 Systeme:
+            je Person ..........
 
 
-*    *
-    *   bei Bestimmung mehrerer Merkmale jedoch höchstens
 
-    *   56,00
+
+    *   120,00 €
 
 
 *    *   404
 
-    *   Bestimmung der Blutgruppenmerkmale P, K, S und weitere, falls direkt
-        bestimmbar, je Merkmal
+    *
+        —   21 bis zu 30 Systeme:
+            je Person ..........
 
-    *   10,00
 
 
-*    *
-    *   bei Bestimmung mehrerer Merkmale jedoch höchstens
 
-    *   56,00
+    *   170,00 €
 
 
 *    *   405
 
-    *   Bestimmung indirekt nachweisbarer Merkmale
-
     *
-
-*    *
-    *   (Du, s, Fy und weitere) je Merkmal
-
-    *   23,00
+        —   mehr als 30 Systeme:
+            je Person ..........
 
 
-*    *
-    *   bei Bestimmung mehrerer Merkmale jedoch höchstens
 
-    *   86,00
+
+    *   220,00 €
 
 
 *    *   406
 
-    *   Gesamttypisierung der HLA-Antigene der Klasse I mittels
-        Lymphozytotoxizitätstests mit mindestens 180 Antiseren
+    *   Mindestens zwei Testkits werden eingesetzt, die Untersuchungen
+        erfolgen aus voneinander unabhängigen DNA-Präparationen und die
+        eingesetzten parallelen Analysemethoden sind im Gutachten ausdrücklich
+        dargelegt:
+        Die Honorare nach den Nummern 403 bis 405 erhöhen sich um jeweils
+        ..........
 
-    *   357,00
+    *   80,00 €
 
-
-*    *
-    *   Das Honorar umfasst das Material einschließlich höherwertiger Stoffe
-        und Testseren.
-
-    *
 
 *    *   407
 
-    *   Zusätzlich erforderlicher Titrationsversuch
-
-    *   25,00
-
-
-*    *   408
-
-    *   Zusätzlich erforderlicher Spezialversuch (Absättigung, Bestimmung des
-        Dosiseffekts usw.)
-
-    *   23,00
-
-
-*    *   409
-
-    *   Bestimmung der Typen der sauren Erythrozyten-Phosphatase, der
-        Phosphoglucomutase, der Adenylatkinase, der Adenosindesaminase, der
-        Glutamat-Pyruvat-Transaminase, der Esterase D, der 6-Phosphogluconat-
-        Dehydrogenase und weiterer Enzymsysteme
-
-    *   23,00
-
-
-*    *   410
-
-    *   Bestimmung der Merkmale des Gm-Systems oder des Inv-Systems je Merkmal
-
-    *   23,00
-
-
-*    *
-    *   bei Bestimmung mehrerer Merkmale jedoch höchstens
-
-    *   75,00
-
-
-*    *   411
-
-    *   Bestimmung eines Systems mit Proteinfärbung oder vergleichbarer
-        Färbung nach Elektrophorese oder Fokussierung (Hp, Pi, Tf, C 3 und
-        weitere) je Merkmal
-
-    *   23,00
-
-
-*    *   412
-
-    *   Bestimmung eines Systems mit Immunfixation oder Immunoblot nach
-        Elektrophorese oder Fokussierung (Gc, PLG, ORM, F XIII und weitere) je
-        Merkmal
-
-    *   39,00
-
-
-*    *   413
-
-    *   Bestimmung eines VNTR-DNA-Systems oder eines vergleichbar effizienten
-        Systems je verwendete Sonde
-
-    *   140,00
-
-
-*    *
-    *   insgesamt jedoch höchstens
-
-    *   800,00
-
-
-*    *
-    *   Das Honorar umfasst die Aufbereitung des Materials (z. B. die
-        Isolierung, den Verdau und die Trennung von humanen Nukleinsäuren)
-        sowie die Auswertung.
-
-    *
-
-*    *   414
-
-    *   Bestimmung eines STR-DNA-Systems je System
-
-    *   40,00
-
-
-*    *
-    *   insgesamt jedoch höchstens
-
-    *   600,00
-
-
-*    *
-    *   Das Honorar umfasst die Aufbereitung des Materials (z. B. die
-        Isolierung, den Verdau, die PCR und die Trennung von humanen
-        Nukleinsäuren) sowie die Auswertung.
-
-    *
-
-*    *   415
-
-    *   Schriftliches Gutachten für jede begutachtete Person
-
-    *   16,00
-
-
-*    *   Abschnitt 5
-
-
-*    *   Erbbiologische Abstammungsgutachten
-
-
-*    *
-    *   (1) Das Honorar umfasst die gesamte Tätigkeit des Sachverständigen und
-        etwaiger Hilfspersonen, insbesondere die Untersuchung, die Herstellung
-        der Lichtbilder einschließlich der erforderlichen Abzüge, die
-        Herstellung von Abdrücken, etwa notwendige Abformungen und dgl. sowie
-        die Auswertung und Beurteilung des gesamten Materials; es umfasst
-        ferner die Entgelte für Post- und Telekommunikationsdienstleistungen
-        sowie die Kosten für die Anfertigung des schriftlichen Gutachtens in
-        drei Stücken und für einen Durchschlag für die Handakten des
-        Sachverständigen.
-
-
-*    *
-    *   (2) Das Honorar umfasst nicht
-
-
-*    *
-    *   1. Leistungen nach den Nummer 302 bis 307 und nach Abschnitt 4 dieser
-        Anlage,
-
-
-*    *
-    *   2. Leistungen nach dem Abschnitt O des Gebührenverzeichnisses für
-        ärztliche Leistungen (Anlage zur Gebührenordnung für Ärzte) und
-
-
-*    *
-    *   3. die Begutachtung etwa vorhandener erbpathologischer Befunde durch
-        Fachärzte.
-
-
-*    *
-    *   (3) Hat der Sachverständige Einrichtungen einer Körperschaft, Anstalt
-        oder Stiftung des öffentlichen Rechts benutzt, erhält er das Honorar
-        502 und 503 nur bis zur Höhe der tatsächlich aufgewendeten Kosten,
-        höchstens jedoch die Beträge nach den Nummern 502 und 503.
-
-
-*    *   500
-
-    *   Erbbiologisches Abstammungsgutachten nach den anerkannten
-        erbbiologischen Methoden, wenn bis zu drei Personen untersucht werden
-
-    *   713,00
-
-
-*    *   501
-
-    *   Untersuchung jeder weiteren Person
-
-    *   175,00
-
-
-*    *   502
-
-    *   Vorbereitung und Erstattung des Gutachtens, wenn bis zu drei Personen
-        untersucht werden
-
-    *   214,00
-
-
-*    *   503
-
-    *   Vorbereitung und Erstattung des Gutachtens für jede weitere Person
-
-    *   55,00
+    *   Herstellung einer DNA-Probe aus anderem Untersuchungsmaterial als Blut
+        oder Mundschleimhautabstrichen einschließlich Durchführung des Tests
+        auf Eignung:
+        je Person ..........
+
+    *   bis zu 120,00 €
 
 
 
@@ -1730,15 +2107,19 @@ I   der Schuldfähigkeit.                        I          I
 
 ### Anlage 3 (zu § 23 Abs. 1)
 
+(Fundstelle: BGBl. I 2009, 995 - 997;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 *    *   Nr.
 
+    *
     *   Tätigkeit
 
     *   Höhe
 
 
-*    *   Vorbemerkung:
+*    *   Allgemeine Vorbemerkung:
         (1) Die Entschädigung nach dieser Anlage schließt alle mit der
         Erledigung des Ersuchens der Strafverfolgungsbehörde verbundenen
         Tätigkeiten des Telekommunikationsunternehmens sowie etwa anfallende
@@ -1748,37 +2129,59 @@ I   der Schuldfähigkeit.                        I          I
         Bundeskriminalamtes, der Bundespolizei oder des Zollkriminalamtes oder
         über entsprechende für ein Bundesland oder für mehrere Bundesländer
         zuständige Kontaktstellen anfordern und abrechnen, ermäßigen sich die
-        Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 310, 400 und
-        401 um 20 Prozent.
+        Entschädigungsbeträge nach den Nummern 100, 101, 300 bis 321 und 400
+        bis 402 um 20 Prozent, wenn bei der Anforderung darauf hingewiesen
+        worden ist, dass es sich bei der anfordernden Stelle um eine zentrale
+        Kontaktstelle handelt.
 
 
-*    *   Abschnitt 1
-        Überwachung der Telekommunikation
+*    *   **Abschnitt 1**
+        **Überwachung der Telekommunikation**
 
 
-*    *   Die Vorschriften dieses Abschnitts gelten für die Heranziehung im
+*    *   Vorbemerkung 1:
+        (1) Die Vorschriften dieses Abschnitts gelten für die Heranziehung im
         Zusammenhang mit Funktionsprüfungen der Aufzeichnungs- und
         Auswertungseinrichtungen der berechtigten Stellen entsprechend.
+        (2) Leitungskosten werden nur entschädigt, wenn die betreffende
+        Leitung innerhalb des Überwachungszeitraums mindestens einmal zur
+        Übermittlung überwachter Telekommunikation an die
+        Strafverfolgungsbehörde genutzt worden ist.
+        (3) Für die Überwachung eines Voice-over-IP-Anschlusses oder eines
+        Zugangs zu einem elektronischen Postfach richtet sich die
+        Entschädigung für die Leitungskosten nach den Nummern 102 bis 104.
+        Dies gilt auch für die Überwachung eines Mobilfunkanschlusses, es sei
+        denn, dass auch die Überwachung des über diesen Anschluss
+        abgewickelten Datenverkehrs angeordnet worden ist und für die
+        Übermittlung von Daten Leitungen mit Übertragungsgeschwindigkeiten von
+        mehr als 144 kbit/s genutzt werden müssen und auch genutzt worden
+        sind. In diesem Fall richtet sich die Entschädigung einheitlich nach
+        den Nummern 111 bis 113.
 
 
 *    *   100
 
     *   Umsetzung einer Anordnung zur Überwachung der Telekommunikation,
         unabhängig von der Zahl der dem Anschluss zugeordneten Kennungen:
-        je Anschluss
-        Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
+        je Anschluss..........
+
+    *   100,00 €
+
+
+*    *
+    *   Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
         Maßnahme entgolten.
 
-    *   100,00 EUR
-
+    *
 
 *    *   101
 
     *   Verlängerung einer Maßnahme zur Überwachung der Telekommunikation oder
         Umschaltung einer solchen Maßnahme auf Veranlassung der
         Strafverfolgungsbehörde auf einen anderen Anschluss dieser Stelle
+        ..........
 
-    *   35,00 EUR
+    *   35,00 €
 
 
 *    *
@@ -1790,31 +2193,32 @@ I   der Schuldfähigkeit.                        I          I
 
 *    *   102
 
-    *   – wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert
+    *   –
 
-    *   24,00 EUR
+    *   wenn die Überwachungsmaßnahme nicht länger als eine Woche dauert
+        ..........
+
+    *   24,00 €
 
 
 *    *   103
 
-    *   – wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht
-        länger als zwei Wochen dauert
+    *   –
 
-    *   42,00 EUR
+    *   wenn die Überwachungsmaßnahme länger als eine Woche, jedoch nicht
+        länger als zwei Wochen dauert ..........
+
+    *   42,00 €
 
 
 *    *   104
 
-    *   – wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
-        je angefangenen Monat
-        (1) Die Nummern 102 bis 104 sind auch bei der Überwachung eines Voice-
-        over-IP- Anschlusses anzuwenden.
-        (2) Leitungskosten werden nur erstattet, wenn die betreffende Leitung
-        innerhalb des Überwachungszeitraums mindestens einmal zur Übermittlung
-        überwachter Telekommunikation an die Strafverfolgungsbehörde genutzt
-        worden ist.
+    *   –
 
-    *   75,00 EUR
+    *   wenn die Überwachungsmaßnahme länger als zwei Wochen dauert:
+        je angefangenen Monat ..........
+
+    *   75,00 €
 
 
 *    *
@@ -1824,23 +2228,29 @@ I   der Schuldfähigkeit.                        I          I
 
 *    *   105
 
-    *   – Die Entschädigung nach Nummer 102 beträgt
+    *   –
 
-    *   40,00 EUR
+    *   Die Entschädigung nach Nummer 102 beträgt ..........
+
+    *   40,00 €
 
 
 *    *   106
 
-    *   – Die Entschädigung nach Nummer 103 beträgt
+    *   –
 
-    *   70,00 EUR
+    *   Die Entschädigung nach Nummer 103 beträgt ..........
+
+    *   70,00 €
 
 
 *    *   107
 
-    *   – Die Entschädigung nach Nummer 104 beträgt
+    *   –
 
-    *   125,00 EUR
+    *   Die Entschädigung nach Nummer 104 beträgt ..........
+
+    *   125,00 €
 
 
 *    *
@@ -1850,54 +2260,67 @@ I   der Schuldfähigkeit.                        I          I
 
 *    *   108
 
-    *   – Die Entschädigung nach Nummer 102 beträgt
+    *   –
 
-    *   490,00 EUR
+    *   Die Entschädigung nach Nummer 102 beträgt ..........
+
+    *   490,00 €
 
 
 *    *   109
 
-    *   – Die Entschädigung nach Nummer 103 beträgt
+    *   –
 
-    *   855,00 EUR
+    *   Die Entschädigung nach Nummer 103 beträgt ..........
+
+    *   855,00 €
 
 
 *    *   110
 
-    *   – Die Entschädigung nach Nummer 104 beträgt
+    *   –
 
-    *   1 525,00 EUR
+    *   Die Entschädigung nach Nummer 104 beträgt ..........
+
+    *   1 525,00 €
 
 
 *    *
     *   Der überwachte Anschluss ist ein digitaler Teilnehmeranschluss mit
-        hoher Übertragungsgeschwindigkeit (DSL):
+        einer Übertragungsgeschwindigkeit von mehr als 144 kbit/s, aber kein
+        ISDN-Primärmultiplexanschluss:
 
     *
 
 *    *   111
 
-    *   – Die Entschädigung nach Nummer 102 beträgt
+    *   –
 
-    *   65,00 EUR
+    *   Die Entschädigung nach Nummer 102 beträgt ..........
+
+    *   65,00 €
 
 
 *    *   112
 
-    *   – Die Entschädigung nach Nummer 103 beträgt
+    *   –
 
-    *   110,00 EUR
+    *   Die Entschädigung nach Nummer 103 beträgt ..........
+
+    *   110,00 €
 
 
 *    *   113
 
-    *   – Die Entschädigung nach Nummer 104 beträgt
+    *   –
 
-    *   200,00 EUR
+    *   Die Entschädigung nach Nummer 104 beträgt ..........
+
+    *   200,00 €
 
 
-*    *   Abschnitt 2
-        Auskünfte über Bestandsdaten
+*    *   **Abschnitt 2**
+        **Auskünfte über Bestandsdaten**
 
 
 *    *   200
@@ -1909,9 +2332,9 @@ I   der Schuldfähigkeit.                        I          I
         ist und
         2\. für die Erteilung der Auskunft nicht auf Verkehrsdaten
         zurückgegriffen werden muss:
-        je angefragten Kundendatensatz
+        je angefragten Kundendatensatz ..........
 
-    *   18,00 EUR
+    *   18,00 €
 
 
 *    *   201
@@ -1919,65 +2342,155 @@ I   der Schuldfähigkeit.                        I          I
     *   Auskunft über Bestandsdaten, zu deren Erteilung auf Verkehrsdaten
         zurückgegriffen werden muss:
         für bis zu 10 in demselben Verfahren gleichzeitig angefragte
-        Kennungen, die der Auskunftserteilung zugrunde liegen
-        Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils
+        Kennungen, die der Auskunftserteilung zugrunde liegen ..........
+
+    *   35,00 €
+
+
+*    *
+    *   Bei mehr als 10 angefragten Kennungen wird die Pauschale für jeweils
         bis zu 10 weitere Kennungen erneut gewährt. Kennung ist auch eine IP-
         Adresse.
 
-    *   35,00 EUR
+    *
+
+*    *   202
+
+    *   Es muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen
+        werden:
+        Die Pauschale 201 beträgt ..........
+
+    *   40,00 €
 
 
-*    *   Abschnitt 3
-        Auskünfte über Verkehrsdaten
+*    *   **Abschnitt 3**
+        **Auskünfte über Verkehrsdaten**
 
 
 *    *   300
 
     *   Auskunft über gespeicherte Verkehrsdaten:
-        für jede Kennung, die der Auskunftserteilung zugrunde liegt
-        Die Mitteilung der die Kennung betreffenden Standortdaten ist mit
+        für jede Kennung, die der Auskunftserteilung zugrunde liegt ..........
+
+    *   30,00 €
+
+
+*    *
+    *   Die Mitteilung der die Kennung betreffenden Standortdaten ist mit
         abgegolten.
 
-    *   30,00 EUR
-
+    *
 
 *    *   301
+
+    *   Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG
+        zurückgegriffen werden:
+        Die Pauschale 300 beträgt ..........
+
+    *   35,00 €
+
+
+*    *   302
+
+    *   Die Auskunft wird im Fall der Nummer 300 aufgrund eines einheitlichen
+        Ersuchens auch oder ausschließlich für künftig anfallende
+        Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
+        für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft
+        ..........
+
+    *   10,00 €
+
+
+*    *   303
 
     *   Auskunft über gespeicherte Verkehrsdaten zu Verbindungen, die zu einer
         bestimmten Zieladresse hergestellt wurden, durch Suche in allen
         Datensätzen der abgehenden Verbindungen eines Betreibers
         (Zielwahlsuche):
-        je Zieladresse
-        Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
+        je Zieladresse ..........
 
-    *   90,00 EUR
+    *   90,00 €
 
 
-*    *   302
+*    *
+    *   Die Mitteilung der Standortdaten der Zieladresse ist mit abgegolten.
+
+    *
+
+*    *   304
+
+    *   Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG
+        zurückgegriffen werden:
+        Die Pauschale 303 beträgt ..........
+
+    *   110,00 €
+
+
+*    *   305
+
+    *   Die Auskunft wird im Fall der Nummer 303 aufgrund eines einheitlichen
+        Ersuchens auch oder ausschließlich für künftig anfallende
+        Verkehrsdaten zu bestimmten Zeitpunkten erteilt:
+        für die zweite und jede weitere in dem Ersuchen verlangte Teilauskunft
+        ..........
+
+    *   70,00 €
+
+
+*    *   306
 
     *   Auskunft über gespeicherte Verkehrsdaten für eine von der
         Strafverfolgungsbehörde benannte Funkzelle (Funkzellenabfrage)
+        ..........
 
-    *   30,00 EUR
+    *   30,00 €
 
 
-*    *   303
+*    *   307
+
+    *   Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG
+        zurückgegriffen werden:
+        Die Pauschale 306 beträgt ..........
+
+    *   35,00 €
+
+
+*    *   308
 
     *   Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der
         Strafverfolgungsbehörde benannte Funkzelle:
-        Die Pauschale 302 erhöht sich für jede weitere Funkzelle um
+        Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
 
-    *   4,00 EUR
+    *   4,00 €
 
 
-*    *   304
+*    *   309
+
+    *   Auskunft über gespeicherte Verkehrsdaten für mehr als eine von der
+        Strafverfolgungsbehörde benannte Funkzelle und für die Auskunft muss
+        auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+        Die Pauschale 306 erhöht sich für jede weitere Funkzelle um ..........
+
+    *   5,00 €
+
+
+*    *   310
 
     *   Auskunft über gespeicherte Verkehrsdaten in Fällen, in denen lediglich
         Ort und Zeitraum bekannt sind:
         Die Abfrage erfolgt für einen bestimmten, durch eine Adresse
-        bezeichneten Standort
+        bezeichneten Standort ..........
 
-    *   60,00 EUR
+    *   60,00 €
+
+
+*    *   311
+
+    *   Für die Auskunft muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG
+        zurückgegriffen werden:
+        Die Pauschale 310 beträgt ..........
+
+    *   70,00 €
 
 
 *    *
@@ -1985,121 +2498,205 @@ I   der Schuldfähigkeit.                        I          I
 
     *
 
-*    *   305
-
-    *   – Die Entfernung der am weitesten voneinander entfernten Punkte
-        beträgt nicht mehr als 10 Kilometer:
-        Die Entschädigung nach Nummer 304 beträgt
-
-    *   190,00 EUR
-
-
-*    *   306
-
-    *   – Die Entfernung der am weitesten voneinander entfernten Punkte
-        beträgt mehr als 10 und nicht mehr als 25 Kilometer:
-        Die Entschädigung nach Nummer 304 beträgt
-
-    *   490,00 EUR
-
-
-*    *   307
-
-    *   – Die Entfernung der am weitesten voneinander entfernten Punkte
-        beträgt mehr als 25, aber nicht mehr als 45 Kilometer:
-        Die Entschädigung nach Nummer 304 beträgt
-        Liegen die am weitesten voneinander entfernten Punkte mehr als 45
-        Kilometer auseinander, ist für den darüber hinausgehenden Abstand die
-        Entschädigung nach den Nummern 305 bis 307 gesondert zu berechnen.
-
-    *   930,00 EUR
-
-
-*    *   308
-
-    *   Die Auskunft erfolgt für eine bestimmte Wegstrecke:
-        Die Entschädigung nach Nummer 304 beträgt für jeweils angefangene 10
-        Kilometer Länge
-
-    *   110,00 EUR
-
-
-*    *   309
-
-    *   Umsetzung einer Anordnung zur Übermittlung künftig anfallender
-        Verkehrsdaten in Echtzeit:
-        je Anschluss
-        Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
-        Übermittlung und die Mitteilung der den Anschluss betreffenden
-        Standortdaten entgolten.
-
-    *   100,00 EUR
-
-
-*    *   310
-
-    *   Verlängerung der Maßnahme im Fall der Nummer 309
-
-    *   35,00 EUR
-
-
-*    *
-    *   Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen
-        der Nummern 309 und 310:
-
-    *
-
-*    *   311
-
-    *   – wenn die Dauer der angeordneten Übermittlung nicht länger als eine
-        Woche dauert
-
-    *   8,00 EUR
-
-
 *    *   312
 
-    *   – wenn die Dauer der angeordneten Übermittlung länger als eine Woche,
-        jedoch nicht länger als zwei Wochen dauert
+    *   –
 
-    *   14,00 EUR
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        nicht mehr als 10 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   190,00 €
 
 
 *    *   313
 
-    *   – wenn die Dauer der angeordneten Übermittlung länger als zwei Wochen
-        dauert:
-        je angefangenen Monat
+    *   –
 
-    *   25,00 EUR
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        mehr als 10, aber nicht mehr als 25 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   490,00 €
 
 
 *    *   314
 
-    *   Übermittlung der Verkehrsdaten auf einem Datenträger
+    *   –
 
-    *   10,00 EUR
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        mehr als 25, aber nicht mehr als 45 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   930,00 €
 
 
-*    *   Abschnitt 4
-        Sonstige Auskünfte
+*    *
+    *   Liegen die am weitesten voneinander entfernten Punkte mehr als 45
+        Kilometer auseinander, ist für den darüber hinausgehenden Abstand die
+        Entschädigung nach den Nummern 312 bis 314 gesondert zu berechnen.
+
+    *
+
+*    *
+    *   Die Auskunft erfolgt für eine Fläche und es muss auf Verkehrsdaten
+        nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+
+    *
+
+*    *   315
+
+    *   –
+
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        nicht mehr als 10 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   230,00 €
+
+
+*    *   316
+
+    *   –
+
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        mehr als 10, aber nicht mehr als 25 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   590,00 €
+
+
+*    *   317
+
+    *   –
+
+    *   Die Entfernung der am weitesten voneinander entfernten Punkte beträgt
+        mehr als 25, aber nicht mehr als 45 Kilometer:
+        Die Pauschale 310 beträgt ..........
+
+    *   1 120,00 €
+
+
+*    *
+    *   Liegen die am weitesten voneinander entfernten Punkte mehr als 45
+        Kilometer auseinander, ist für den darüber hinausgehenden Abstand die
+        Entschädigung nach den Nummern 315 bis 317 gesondert zu berechnen.
+
+    *
+
+*    *   318
+
+    *   Die Auskunft erfolgt für eine bestimmte Wegstrecke:
+        Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge
+        ..........
+
+    *   110,00 €
+
+
+*    *   319
+
+    *   Die Auskunft erfolgt für eine bestimmte Wegstrecke und es muss auf
+        Verkehrsdaten nach § 113b Abs. 2 bis 4 TKG zurückgegriffen werden:
+        Die Pauschale 310 beträgt für jeweils angefangene 10 Kilometer Länge
+        ..........
+
+    *   130,00 €
+
+
+*    *   320
+
+    *   Umsetzung einer Anordnung zur Übermittlung künftig anfallender
+        Verkehrsdaten in Echtzeit:
+        je Anschluss ..........
+
+    *   100,00 €
+
+
+*    *
+    *   Mit der Entschädigung ist auch der Aufwand für die Abschaltung der
+        Übermittlung und die Mitteilung der den Anschluss betreffenden
+        Standortdaten entgolten.
+
+    *
+
+*    *   321
+
+    *   Verlängerung der Maßnahme im Fall der Nummer 320 ..........
+
+    *   35,00 €
+
+
+*    *
+    *   Leitungskosten für die Übermittlung der Verkehrsdaten in den Fällen
+        der Nummern 320 und 321:
+
+    *
+
+*    *   322
+
+    *   –
+
+    *   wenn die angeordnete Übermittlung nicht länger als eine Woche dauert
+        ..........
+
+    *   8,00 €
+
+
+*    *   323
+
+    *   –
+
+    *   wenn die angeordnete Übermittlung länger als eine Woche, aber nicht
+        länger als zwei Wochen dauert ..........
+
+    *   14,00 €
+
+
+*    *   324
+
+    *   –
+
+    *   wenn die angeordnete Übermittlung länger als zwei Wochen dauert:
+        je angefangenen Monat ..........
+
+    *   25,00 €
+
+
+*    *   325
+
+    *   Übermittlung der Verkehrsdaten auf einem Datenträger ..........
+
+    *   10,00 €
+
+
+*    *   **Abschnitt 4**
+        **Sonstige Auskünfte**
 
 
 *    *   400
 
     *   Auskunft über den letzten dem Netz bekannten Standort eines
-        Mobiltelefons (Standortabfrage)
+        Mobiltelefons (Standortabfrage) ..........
 
-    *   90,00 EUR
+    *   90,00 €
 
 
 *    *   401
 
-    *   Auskunft über die Struktur von Funkzellen:
-        je Funkzelle
+    *   Im Fall der Nummer 400 muss auf Verkehrsdaten nach § 113b Abs. 2 bis 4
+        TKG zurückgegriffen werden:
+        Die Pauschale 400 beträgt ..........
 
-    *   35,00 EUR
-        .
+    *   110,00 €
+
+
+*    *   402
+
+    *   Auskunft über die Struktur von Funkzellen:
+        je Funkzelle ..........
+
+    *   35,00 €
+
 
 
 

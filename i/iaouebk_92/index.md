@@ -3,7 +3,7 @@ Title: Übereinkommen Nr. 92 (der Internationalen Arbeitsorganisation) über die
   der Besatzung an Bord von Schiffen (Neufassung vom Jahre 1949)
 jurabk: IAOÜbk 92
 layout: default
-origslug: iao_bk_92
+origslug: iaouebk_92
 slug: iaouebk_92
 
 ---

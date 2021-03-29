@@ -3,7 +3,7 @@ Title: Verordnung über die Erfassung und Übermittlung von Daten für die Träg
   Sozialversicherung
 jurabk: DEÜV
 layout: default
-origslug: de_v
+origslug: deuev
 slug: deuev
 
 ---
@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23. 1.2006 I 152;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 5.12.2012 I 2474
+:   Art. 3 V v. 7.12.2017 I 3906
 
 
 ## Erster Abschnitt - Allgemeines
@@ -30,14 +30,14 @@ Zuletzt geändert durch
 ### § 1 Grundsatz
 
 Die Vorschriften dieser Verordnung gelten für die Meldungen auf Grund
-des § 28a des Vierten Buches Sozialgesetzbuch, des § 200 Abs. 1 des
-Fünften Buches Sozialgesetzbuch, der §§ 190 bis 194 und 281c des
-Sechsten Buches Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten
-Gesetzes über die Krankenversicherung der Landwirte sowie für den
-Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches
-Sozialgesetzbuch. Die Meldungen und Beitragsnachweise für die jeweils
-beteiligten Träger der Sozialversicherung sind gemeinsam zu erstatten
-.
+des § 18i Absatz 4, §§ 28a, 99 und 106 bis 108 des Vierten Buches
+Sozialgesetzbuch, des § 200 Abs. 1 des Fünften Buches
+Sozialgesetzbuch, der §§ 190 bis 194 und 281c des Sechsten Buches
+Sozialgesetzbuch und des § 27 Abs. 2 des Zweiten Gesetzes über die
+Krankenversicherung der Landwirte sowie für den Beitragsnachweis nach
+§ 28f Abs. 3 Satz 1 des Vierten Buches Sozialgesetzbuch. Die Meldungen
+und Beitragsnachweise für die jeweils beteiligten Träger der
+Sozialversicherung sind gemeinsam zu erstatten .
 
 
 ### § 2 Meldepflichtige
@@ -51,11 +51,14 @@ Meldungen sind zu erstatten von
     Vorschriften zahlen,
 
 
+3.  Zahlstellen,
 
-3\. (weggefallen) \*1
+
+
 
 4.  dem Bundesministerium der Verteidigung oder den von ihm bestimmten
-    Stellen und dem Bundesamt für den Zivildienst,
+    Stellen und dem Bundesamt für Familie und zivilgesellschaftliche
+    Aufgaben,
 
 
 5.  den Leistungsträgern.
@@ -117,12 +120,7 @@ erstattet werden, soweit diese Verordnung nichts anderes zulässt.
 melden. Beträge nach dem Komma von mehr als 49 sind nach oben, von
 weniger als 50 nach unten auf den nächsten vollen Betrag zu runden.
 
-(5) Wurde die für eine Meldung notwendige Betriebsnummer einem Betrieb
-noch nicht zugeteilt, hat der Arbeitgeber diese Betriebsnummer für den
-Betrieb des Beschäftigungsortes bei der zuständigen Stelle der
-Bundesagentur für Arbeit zu beantragen; spätere Änderungen der
-Betriebsdaten sind vom Arbeitgeber dieser Stelle unverzüglich zu
-melden.
+(5) (weggefallen)
 
 (6) Alle persönlichen Angaben für Meldungen sind amtlichen Unterlagen,
 die Versicherungsnummer ist dem Sozialversicherungsausweis zu
@@ -179,8 +177,8 @@ sechs Wochen nach ihrem Beginn, zu melden.
 Der Tag des Beginns eines Beschäftigungsverhältnisses ist in den in §
 28a Abs. 4 Satz 1 bis 3 des Vierten Buches Sozialgesetzbuch genannten
 Wirtschaftsbereichen oder Wirtschaftszweigen spätestens bei
-Beschäftigungsaufnahme an die Datenstelle der Träger der
-Rentenversicherung zu melden.
+Beschäftigungsaufnahme an die Datenstelle der Rentenversicherung zu
+melden.
 
 
 #### § 8 Abmeldung
@@ -193,7 +191,7 @@ von sechs Wochen nach ihrem Ende, zu melden.
 zusammen erstattet werden, wenn bis zur Abmeldung noch keine Anmeldung
 erfolgt ist.
 
-(3) Bei einer in § 28a Abs. 1 Nr. 18 des Vierten Buches
+(3) Bei einer in § 28a Absatz 1 Satz 1 Nummer 18 des Vierten Buches
 Sozialgesetzbuch bezeichneten Änderung des Arbeitsentgelts sind eine
 Ab- und eine Anmeldung innerhalb der Frist des § 6 zusammen zu
 erstatten.
@@ -231,7 +229,7 @@ Beschäftigung ist nach § 8 zu melden.
 
 (1) Eine Jahresmeldung ist für jeden am 31. Dezember eines Jahres
 versicherungspflichtig Beschäftigten mit der ersten folgenden Lohn-
-und Gehaltsabrechnung, spätestens bis zum 15. April des folgenden
+und Gehaltsabrechnung, spätestens bis zum 15. Februar des folgenden
 Jahres, zu erstatten. Die Jahresmeldung entfällt, wenn zum 31.
 Dezember eine Meldung nach §§ 8, 9 oder § 12 zu erstatten ist.
 
@@ -255,25 +253,25 @@ melden, wenn
 
 
 2.  die folgende Meldung nach den §§ 8 bis 10 oder § 12 kein
-    beitragspflichtiges laufend gezahltes Arbeitsentgelt enthält oder
+    beitragspflichtiges laufend gezahltes Arbeitsentgelt enthält,
 
 
 3.  für das beitragspflichtige laufend und einmalig gezahlte
-    Arbeitsentgelt unterschiedliche Beitragsgruppen gelten.
+    Arbeitsentgelt unterschiedliche Beitragsgruppen gelten oder
+
+
+4.  es sich um beitragspflichtiges einmalig gezahltes Arbeitsentgelt nach
+    § 23a Absatz 4 Satz 1 des Vierten Buches Sozialgesetzbuch handelt.
 
 
 
 
 (3) Der Arbeitgeber hat beitragspflichtiges einmalig gezahltes
-Arbeitsentgelt gesondert melden, wenn die Auszahlung während einer
+Arbeitsentgelt gesondert zu melden, wenn die Auszahlung während einer
 nach § 9 gemeldeten Unterbrechung der Beschäftigung oder während des
 Bezuges einer nach § 38 gemeldeten Entgeltersatzleistung erfolgt.
 
-(4) Der Arbeitgeber hat in der Unfallversicherung beitragspflichtiges
-Arbeitsentgelt spätestens innerhalb von sechs Wochen nach der Zahlung
-gesondert zu melden, wenn eine Meldung aus anderem Grund für das
-Kalenderjahr, dem das Arbeitsentgelt zuzuordnen ist, nicht mehr
-erfolgt.
+(4) (weggefallen)
 
 
 #### § 11a Meldungen von Arbeitsentgelt bei flexiblen Arbeitszeitregelungen
@@ -295,28 +293,23 @@ worden ist, zu melden, wenn nicht beide zusammen im Beitrittsgebiet
 oder zusammen im übrigen Bundesgebiet erzielt worden sind.
 
 
-#### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung sowie bei Bezug von weiteren beitragspflichtigen Einnahmen
+#### § 11b Meldung von Arbeitsentgelten bei Mehrfachbeschäftigung auf Anforderung der Einzugsstelle
 
-Teilt der oder die Beschäftigte oder die zuständige Krankenkasse dem
-Arbeitgeber mit, dass der oder die Beschäftigte eine weitere
-Beschäftigung aufgenommen hat oder eine andere
-sozialversicherungspflichtige Einnahme erzielt, ist mit der ersten
-folgenden Lohn- und Gehaltsabrechnung nach Beschäftigungsaufnahme oder
-Erzielung der sozialversicherungspflichtigen Einnahme monatlich eine
-Entgeltmeldung nach § 28a Absatz 1 Satz 1 Nummer 10 des Vierten Buches
-Sozialgesetzbuch an die zuständige Krankenkasse zu melden, erstmals
-spätestens innerhalb von sechs Wochen nach diesem Zeitpunkt. Die
-Meldepflicht besteht, solange die Voraussetzungen nach § 28a Absatz 1
-Satz 1 Nummer 10 des Vierten Buches Sozialgesetzbuch vorliegen.
+Nach Anforderung der Einzugsstelle hat der Arbeitgeber mit der ersten
+folgenden Lohn- und Gehaltsabrechnung, spätestens innerhalb von sechs
+Wochen nach Anforderung, die Entgeltmeldungen nach § 28a Absatz 1 Satz
+1 Nummer 10 des Vierten Buches Sozialgesetzbuch an die zuständige
+Einzugsstelle zu melden.
 
 
 #### § 12 Sonstige Meldungen
 
 (1) Eine Ab- und eine Anmeldung sind zu erstatten, wenn die bisher
 gemeldete Beitragsgruppe, der Personengruppenschlüssel oder die
-Krankenkasse des Beschäftigten sich ändert oder dieser von einer
-Betriebsstätte im Beitrittsgebiet zu einer Betriebsstätte im übrigen
-Bundesgebiet oder umgekehrt wechselt.
+Krankenkasse des Beschäftigten sich ändert oder dieser bis zum 31.
+Dezember 2024 von einem Beschäftigungsbetrieb im Beitrittsgebiet zu
+einem Beschäftigungsbetrieb im übrigen Bundesgebiet oder umgekehrt
+wechselt.
 
 (2) In den Fällen, in denen ein Berufsausbildungsverhältnis einem
 Beschäftigungsverhältnis bei demselben Arbeitgeber vorausgeht oder
@@ -383,32 +376,19 @@ Versicherungsnummer notwendigen Angaben zu enthalten.
 
 
 
-#### § 16 Grundsatz
-
-Eine Meldung nach dem Zweiten Abschnitt erfolgt durch
-Datenübertragung. Es sind geeignete Maßnahmen zur Sicherstellung von
-Datenschutz und Datensicherheit nach dem jeweiligen Stand der Technik
-vorzusehen. Bei der Nutzung allgemein zugänglicher Netze sind
-Verschlüsselungsverfahren anzuwenden.
+#### § 16 (weggefallen)
 
 
-#### § 17 Datenübertragung
 
-(1) Auf die Verfahren zur Datenübertragung sind die DIN-Normen
-anzuwenden, die in den Grundsätzen für Datenübermittlung und
-Datenträgeraustausch des Bundesministeriums des Innern aufgeführt sind
-(BAnz. Nr. 179b vom 24. September 1997). Die DIN-Normen sind bei der
-Beuth-Verlag GmbH, Burggrafenstraße 6, 10787 Berlin, beziehbar und
-beim Bundesarchiv, Potsdamer Straße 1, 56075 Koblenz, für jedermann
-zugänglich und archivmäßig gesichert niedergelegt.
+#### § 17 Datenübertragungsverfahren
 
-(1a) Die Daten können im eXTra-Standard übertragen werden, wie er im
-Bundesanzeiger vom 27. Oktober 2010 (BAnz. S. 3562) veröffentlicht
-ist. Die Beschreibung des eXTra-Standards ist für alle zugänglich und
-kann kostenfrei bei der Deutschen Rentenversicherung Bund abgerufen
-werden. Für welche Verfahren der eXTra-Standard angewendet werden
-kann, wird in den Gemeinsamen Grundsätzen nach § 28b Absatz 2 des
-Vierten Buches Sozialgesetzbuch festgelegt.
+(1) Die Daten sind im eXTra-Standard durch https zu übertragen. Die
+gültige Version ist in den Gemeinsamen Grundsätzen nach § 95 des
+Vierten Buches Sozialgesetzbuch festgelegt. Eine Beschreibung des
+eXTra-Standards ist für jeden zugänglich und kostenfrei bei der
+Deutschen Rentenversicherung Bund abzurufen. Für den Einsatz von https
+sind die Anforderungen in den Technischen Richtlinien des Bundesamts
+für Sicherheit in der Informationstechnik zu berücksichtigen.
 
 (2) Abweichend von Absatz 1 hat die Zulassungsstelle im
 Zulassungsbescheid Ausnahmen zu gestatten, wenn allgemein
@@ -423,15 +403,12 @@ durch die Annahmestelle wirtschaftlich zumutbar ist.
 
 #### § 18 Grundsatz
 
-Arbeitgeber dürfen Meldungen nach den §§ 23c, 28a, 97 Absatz 1 des
-Vierten Buches Sozialgesetzbuch, nach § 202 des Fünften Buches
-Sozialgesetzbuch sowie Beitragsnachweise nach § 28f Absatz 3 des
-Vierten Buches Sozialgesetzbuch nur durch Datenübertragung mittels
-zugelassener systemgeprüfter Programme oder maschinell erstellter
-Ausfüllhilfen übermitteln. Dies gilt auch, wenn ein Rechenzentrum oder
-eine vergleichbare Einrichtung für mehrere Arbeitgeber oder für
-mehrere Betriebe eines Arbeitgebers die Lohn- und Gehaltsunterlagen
-führt.
+Arbeitgeber dürfen Meldungen und Beitragsnachweise nach § 1 Satz 1 nur
+durch Datenübertragung mittels zugelassener systemgeprüfter Programme
+oder maschinell erstellter Ausfüllhilfen übermitteln. Dies gilt auch,
+wenn ein Rechenzentrum oder eine vergleichbare Einrichtung für mehrere
+Arbeitgeber oder für mehrere Betriebe eines Arbeitgebers die Lohn- und
+Gehaltsunterlagen führt.
 
 
 #### § 19 Antrag
@@ -440,7 +417,7 @@ Für maschinell geführte Lohn- und Gehaltsabrechnungsprogramme und
 maschinell erstellte Ausfüllhilfen ist vor dem erstmaligen Einsatz
 eine Systemprüfung zu beantragen. Der Antrag auf Systemprüfung ist an
 die von dem Spitzenverband Bund der Krankenkassen bestimmte Stelle zu
-richten. Das Nähere zum Antragsverfahren regeln die gemeinsamen
+richten. Das Nähere zum Antragsverfahren regeln die Gemeinsamen
 Grundsätze nach § 22.
 
 
@@ -468,8 +445,8 @@ prüfenden Stelle vorzulegen, ist die Zulassung des Programms zu
 versagen oder unverzüglich zu entziehen.
 
 (4) Die Einzelheiten zur Durchführung der Systemprüfung und die
-Beteiligung der Rentenversicherungsträger regeln die gemeinsamen
-Grundsätze nach § 22.
+Beteiligung der Rentenversicherungsträger sowie der
+Unfallversicherungsträger regeln die Gemeinsamen Grundsätze nach § 22.
 
 (5) Die Absätze 1 bis 4 gelten für maschinell erstellte Ausfüllhilfen
 entsprechend.
@@ -481,7 +458,7 @@ Der Antragsteller erhält das Prüfprotokoll und einen
 Zulassungsbescheid vom Spitzenverband Bund der Krankenkassen. Diese
 sind vom Antragsteller aufzubewahren. Die Zulassung legt die für die
 ordnungsgemäße Durchführung der Datenübertragung einzuhaltenden
-Voraussetzungen fest. Einzelheiten regeln die gemeinsamen Grundsätze
+Voraussetzungen fest. Einzelheiten regeln die Gemeinsamen Grundsätze
 nach § 22.
 
 
@@ -491,9 +468,23 @@ Einzelheiten der Systemprüfung, insbesondere die Beteiligung der
 betroffenen Sozialversicherungsträger, die Zulassungsvoraussetzungen,
 die Übernahme, Prüfung und Korrektur von Daten und das Verfahren zur
 Weiterleitung der Daten regeln der Spitzenverband Bund der
-Krankenkassen, die Deutsche Rentenversicherung Bund und die
-Bundesagentur für Arbeit einvernehmlich in gemeinsamen Grundsätzen.
-Die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
+Krankenkassen, die Deutsche Rentenversicherung Bund, die Deutsche
+Rentenversicherung Knappschaft-Bahn-See, die Deutsche Gesetzliche
+Unfallversicherung e. V. und die Bundesagentur für Arbeit
+einvernehmlich in Gemeinsamen Grundsätzen. Die Bundesvereinigung der
+Deutschen Arbeitgeberverbände ist anzuhören.
+
+
+#### § 22a Testverfahren
+
+Der Spitzenverband Bund der Krankenkassen richtet ein Testverfahren
+zur ständigen Überprüfung der Qualität der in den Melde- und
+Beitragsverfahren in der Sozialversicherung eingesetzten Software ein.
+Das Testverfahren ist von den Software-Entwicklern, die Programme für
+Sozialversicherungsträger oder für die Meldepflichtigen entwickeln, zu
+nutzen. Das Nähere zur Zulassung, Ausgestaltung und Nutzung des
+Testverfahrens regelt der Spitzenverband Bund der Krankenkassen in
+bundeseinheitlichen Grundsätzen.
 
 
 ### Dritter Unterabschnitt - Durchführung der Datenübertragung
@@ -512,7 +503,7 @@ Arbeitgeber, das Rechenzentrum oder die vergleichbare Einrichtung ist
 Die Mängel sind unverzüglich zu beheben und die zurückgewiesenen
 Meldungen erneut zu erstatten.
 
-(3) Die Einzelheiten regeln die gemeinsamen Grundsätze nach § 22.
+(3) Die Einzelheiten regeln die Gemeinsamen Grundsätze nach § 22.
 
 
 #### § 24
@@ -546,8 +537,8 @@ folgenden Kalenderjahres aufzubewahren.
 
 Der Beitragsnachweis nach § 28f Abs. 3 Satz 1 des Vierten Buches
 Sozialgesetzbuch ist rechtzeitig einzureichen. Die §§ 2, 3, 5 Abs. 1,
-§§ 14, 16 bis 23, 31 Abs. 1 und 3 bis 5, §§ 32, 33 Abs. 1, 2 und 6, §
-38 Abs. 1, 2 und 4 und § 40 Abs. 1 bis 3 gelten entsprechend.
+§§ 14, 16 bis 23, 31 Absatz 1, §§ 32, 33 Abs. 1, 2 und 6, § 38 Abs. 1,
+2 und 4 und § 40 Abs. 1 bis 3 gelten entsprechend.
 
 
 ### (XXXX) §§ 27 und 28 (weggefallen)
@@ -570,22 +561,18 @@ Sechsten Buches Sozialgesetzbuch genannten Seeleute gelten besondere
 Datensätze. Die Meldungen enthalten zusätzliche Angaben für die
 knappschaftliche Rentenversicherung oder über Berufsgruppe,
 Fahrzeuggruppe, Patent sowie zur Beschäftigung auf im Internationalen
-Seeschifffahrtsregister eingetragenen Schiffen.
+Seeschifffahrtsregister eingetragenen Schiffen. Das Nähere regeln die
+Gemeinsamen Grundsätze nach § 28b Absatz 1 des Vierten Buches
+Sozialgesetzbuch und § 22.
 
 (2) Die Betriebsnummer für Meldepflichtige, die Versicherte nach
 Absatz 1 zu melden haben, wird von der Deutschen Rentenversicherung
 Knappschaft-Bahn-See im Einvernehmen mit der Bundesagentur für Arbeit
 vergeben.
 
-(3) Die Deutsche Rentenversicherung Knappschaft-Bahn-See stellt auf
-der Grundlage der gemeinsamen Grundsätze nach § 22 eigene Grundsätze
-für die Datensätze nach Absatz 1 auf, die die für sie geltenden
-Sonderregelungen berücksichtigen. Satz 1 gilt entsprechend für die
-Regelungen zur Systemprüfung im Sinne der §§ 18 bis 21.
+(3) (weggefallen)
 
-(4) Prüfende Stelle nach § 19 ist für Systeme, mit denen Meldungen
-nach Absatz 1 erstattet werden, die Deutsche Rentenversicherung
-Knappschaft-Bahn-See.
+(4) (weggefallen)
 
 
 ## Sechster Abschnitt - Übernahme und Weiterleitung der Meldungen durch die Sozialversicherungsträger
@@ -601,7 +588,7 @@ für Arbeit erfolgt durch Datenübertragung.
 
 (2) § 16 Satz 2 und 3 und § 17 Abs. 1 gilt entsprechend.
 
-(3) Die Einzelheiten regeln die gemeinsamen Grundsätze nach § 22.
+(3) Die Einzelheiten regeln die Gemeinsamen Grundsätze nach § 22.
 
 
 ### § 33 Übernahme und Prüfung der Daten durch die Einzugsstellen
@@ -616,38 +603,32 @@ an diese die Meldungen nach dem Dritten Abschnitt unverzüglich nach
 der Prüfung nach Absatz 1 weiterzuleiten.
 
 (3) Die Einzugsstelle hat die für die Durchführung des Meldeverfahrens
-erforderlichen Daten in eine maschinell geführte Datei (Bestandsdatei)
-aufzunehmen. Sie bereitet die jeweils eingehenden Daten auf und
-gleicht die angegebene Versicherungsnummer mit der Bestandsdatei
-maschinell ab. Bei Meldungen nach den §§ 8 bis 10 sind der Beginn der
-Beschäftigung und die Beitragsgruppe zu prüfen. Bei der Prüfung
-festgestellte Unstimmigkeiten klärt die Einzugsstelle mit den
-Beteiligten auf.
+erforderlichen Daten in ein maschinell geführtes Dateisystem
+(Bestandsdatei) aufzunehmen. Sie bereitet die jeweils eingehenden
+Daten auf und gleicht die angegebene Versicherungsnummer mit der
+Bestandsdatei maschinell ab. Bei Meldungen nach den §§ 8 bis 10 sind
+der Beginn der Beschäftigung und die Beitragsgruppe zu prüfen.
 
 (4) Die Einzugsstelle hat unverzüglich die Vergabe einer
-Versicherungsnummer bei der Rentenversicherung zu beantragen, wenn
-eine Anmeldung keine Versicherungsnummer enthält und diese nicht aus
-der Bestandsdatei ermittelt werden kann. Sie leitet die
-Versicherungsnummer unverzüglich durch Datenübertragung nach Erhalt an
-die Arbeitgeber weiter.
+Versicherungsnummer bei der Datenstelle der Rentenversicherung zu
+beantragen, wenn eine Anmeldung keine Versicherungsnummer enthält und
+diese nicht aus der Bestandsdatei ermittelt werden kann. Die
+Weiterleitung dieser Meldung erfolgt erst, wenn die
+Versicherungsnummer mitgeteilt wurde. Die Einzugsstelle leitet die
+mitgeteilte oder ermittelte Versicherungsnummer unverzüglich an den
+Meldepflichtigen durch Datenübertragung weiter.
 
-(5) Die Einzugsstelle hat die Daten der fehlerfreien Meldungen in eine
-automatisierte Datei zu übernehmen.
+(5) Die Einzugsstelle hat die Daten der fehlerfreien Meldungen in ein
+maschinell geführtes Dateisystem zu übernehmen.
 
 (6) Den Umfang und die Einzelheiten der Prüfungen nach den Absätzen 1
 bis 3, das Verfahren der Fehlerbehandlung und die Überwachung der
-erneuten Erstattung zurückgewiesener Meldungen regeln die gemeinsamen
+erneuten Erstattung zurückgewiesener Meldungen regeln die Gemeinsamen
 Grundsätze nach § 22.
 
 
-### § 34 Datenweiterleitung
+### § 34 (weggefallen)
 
-(1) Die Einzugsstelle hat die geprüften Daten innerhalb von fünf
-Arbeitstagen nach Eingang an die Datenstelle der Träger der
-Rentenversicherung weiterzuleiten.
-
-(2) In den Fällen des § 33 Abs. 4 unterbleibt die Weiterleitung, bis
-die Versicherungsnummer mitgeteilt wird.
 
 
 ### § 35
@@ -655,23 +636,41 @@ die Versicherungsnummer mitgeteilt wird.
 (weggefallen)
 
 
-### § 36 Aufgaben der Datenstelle der Träger der Rentenversicherung
+### § 36 Aufgaben der Datenstelle der Rentenversicherung
 
-(1) Die Datenstelle der Träger der Rentenversicherung führt eine
-maschinelle Stammsatzdatei.
+(1) Die Datenstelle der Rentenversicherung führt eine maschinelle
+Stammsatzdatei.
 
-(2) Die Datenstelle der Träger der Rentenversicherung kann
-unvollständige und fehlerhafte Daten zurückweisen. Sie hat die für die
-Durchführung der Rentenversicherung erforderlichen Daten aus den an
-sie erstatteten oder weitergeleiteten Meldungen unverzüglich an den
-zuständigen Träger der Rentenversicherung weiterzuleiten. Werden bei
-der Übernahme von Daten in das Versicherungskonto Unstimmigkeiten
-festgestellt, hat der zuständige Träger der Rentenversicherung diese
-mit den beteiligten Stellen aufzuklären.
+(2) Die Datenstelle der Rentenversicherung kann unvollständige und
+fehlerhafte Daten zurückweisen. Sie hat die für die Durchführung der
+Rentenversicherung erforderlichen Daten aus den an sie erstatteten
+oder weitergeleiteten Meldungen unverzüglich an den zuständigen Träger
+der Rentenversicherung weiterzuleiten. Werden bei der Übernahme von
+Daten in das Versicherungskonto Unstimmigkeiten festgestellt, hat der
+zuständige Träger der Rentenversicherung diese mit den beteiligten
+Stellen aufzuklären.
 
-(3) Die Datenstelle der Träger der Rentenversicherung hat die für die
+(3) Die Datenstelle der Rentenversicherung hat die für die
 Aufgabenerfüllung der Bundesagentur für Arbeit erforderlichen Daten
 unverzüglich weiterzuleiten.
+
+(4) Die Datenstelle der Rentenversicherung erstellt für alle in den
+Meldeverfahren beteiligten Sozialversicherungsträger zur Sicherung der
+Qualität der Meldungen nach den §§ 28a, 28f Absatz 3 Satz 1, §§ 106
+und 108 des Vierten Buches Sozialgesetzbuch Kernprüfprogramme; § 28b
+Absatz 4 des Vierten Buches Sozialgesetzbuch gilt. Für alle weiteren
+in Satz 1 nicht genannten Meldeverfahren ist der Spitzenverband Bund
+der Krankenkassen zuständig. Soweit Meldungen an berufsständische
+Versorgungseinrichtungen betroffen sind, ist die Arbeitsgemeinschaft
+berufsständischer Versorgungseinrichtungen e. V. an der Erstellung der
+Gemeinsamen Grundsätze zu beteiligen. Nutzen Arbeitgeber oder andere
+Meldepflichtige ein systemgeprüftes Entgeltabrechnungsprogramm, so
+sind von diesen Programmen die Anforderungen der Kernprüfprogramme zu
+erfüllen. Die berufsständischen Versorgungseinrichtungen sollen die
+Kernprüfprogramme nutzen; das Nähere über das Verfahren und die
+Kostenbeteiligung regeln die Arbeitsgemeinschaft berufsständischer
+Versorgungseinrichtungen e. V. und die Datenstelle der
+Rentenversicherung in einer Vereinbarung.
 
 
 ### § 37 (weggefallen)
@@ -685,20 +684,21 @@ unverzüglich weiterzuleiten.
 
 ### § 38 Entgeltersatzleistungen
 
-(1) Die Leistungsträger haben Zeiträume, in denen Personen nach § 3
-Satz 1 Nr. 3 oder 4 oder § 4 Abs. 3 Satz 1 Nr. 1 des Sechsten Buches
-Sozialgesetzbuch versicherungspflichtig sind und eine der in diesen
-Vorschriften genannten Leistungen, Eingliederungshilfe für
+(1) Die Leistungsträger und die privaten
+Pflegeversicherungsunternehmen haben Zeiträume, in denen Personen nach
+§ 3 Satz 1 Nr. 3 oder 4 oder § 4 Abs. 3 Satz 1 Nr. 1 des Sechsten
+Buches Sozialgesetzbuch versicherungspflichtig sind und eine der in
+diesen Vorschriften genannten Leistungen, Eingliederungshilfe für
 Spätaussiedler, Leistungen, die die Bundesagentur für Arbeit nach dem
 Altersteilzeitgesetz anstelle des Arbeitgebers erbringt, oder
 Arbeitslosenbeihilfe beziehen, unter Angabe der der Leistung zugrunde
-liegenden beitragspflichtigen Einnahmen zu melden. Die Zeiten sind
-jeweils für das Beitrittsgebiet und das übrige Bundesgebiet zu
-kennzeichnen.
+liegenden beitragspflichtigen Einnahmen zu melden. Die Zeiten bis zum
+31\. Dezember 2024 sind jeweils für das Beitrittsgebiet und das übrige
+Bundesgebiet zu kennzeichnen.
 
 (2) Die Meldungen sind innerhalb eines Monats nach dem Ende der in
 Absatz 1 genannten Zeiträume nach den Vorschriften des Sechsten
-Abschnitts an die in § 34 Abs. 1 genannten Stellen zu erstatten. § 5
+Abschnitts an die Datenstelle der Rentenversicherung zu erstatten. § 5
 Abs. 6 und 7 und § 32 Abs. 1 gelten entsprechend.
 
 (3) § 5 Abs. 3 gilt entsprechend. § 12 Abs. 5 gilt entsprechend; die
@@ -757,29 +757,28 @@ grundsätzlicher Bedeutung gebunden.
 ### § 40 Zeiten des Wehr- und Zivildienstes
 
 (1) Das Bundesministerium der Verteidigung oder die von ihm bestimmten
-Stellen und das Bundesamt für den Zivildienst melden die Zeiträume, in
-denen Personen nach § 3 Satz 1 Nr. 2 und 2a des Sechsten Buches
-Sozialgesetzbuch versicherungspflichtig sind; dabei sind Dienstzeiten
-im Beitrittsgebiet besonders zu kennzeichnen. Der Beginn und das Ende
+Stellen und das Bundesamt für Familie und zivilgesellschaftliche
+Aufgaben melden die Zeiträume, in denen Personen nach § 3 Satz 1 Nr. 2
+und 2a des Sechsten Buches Sozialgesetzbuch versicherungspflichtig
+sind; dabei sind Dienstzeiten bis zum 31. Dezember 2024 im
+Beitrittsgebiet besonders zu kennzeichnen. Der Beginn und das Ende
 einer Unterbrechung der Dienstzeit unter Wegfall der Geld- und
 Sachbezüge sind gesondert zu melden.
 
 (2) In den Meldungen nach Absatz 1 Satz 1 ist zusätzlich das
 beitragspflichtige Arbeitsentgelt nach § 166 Abs. 1 Nr. 1 zweiter und
 dritter Halbsatz des Sechsten Buches Sozialgesetzbuch anzugeben, wenn
-die Personen eine Verdienstausfallentschädigung nach dem
-Unterhaltssicherungsgesetz oder Dienstbezüge aufgrund eines
+die Personen Leistungen an Nichtselbständige nach § 6 des
+Unterhaltssicherungsgesetzes oder Dienstbezüge aufgrund eines
 Wehrdienstverhältnisses besonderer Art nach § 6 des Einsatz-
 Weiterverwendungsgesetzes erhalten. § 38 Abs. 4 gilt entsprechend.
 
-(3) § 34 Abs. 1 gilt entsprechend. Die Einzelheiten des Verfahrens der
-Datenübertragung sind zwischen den beteiligten Stellen einvernehmlich
-zu regeln.
+(3) (weggefallen)
 
 (4) Der Wehr- oder Zivildienstleistende hat spätestens bei
 Dienstantritt der Dienststelle seine Versicherungsnummer unter Vorlage
 des Sozialversicherungsausweises anzugeben. § 5 Abs. 7 gilt
-entsprechend; die Vergabedaten sind an die Datenstelle der Träger der
+entsprechend; die Vergabedaten sind an die Datenstelle der
 Rentenversicherung weiterzuleiten.
 
 (5) Die §§ 25 und 38 Abs. 5 gelten entsprechend.

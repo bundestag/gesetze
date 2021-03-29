@@ -4,7 +4,7 @@ Title: Protokoll gemäß Artikel 34 des Vertrags über die Europäische Union zu
   der Einrichtung eines Aktennachweissystems für Zollzwecke
 jurabk: ZISÜbkAktProt
 layout: default
-origslug: zis_bkaktprot
+origslug: zisuebkaktprot
 slug: zisuebkaktprot
 
 ---

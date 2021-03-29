@@ -3,7 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 28. Juni 1978 über die Ko
   des Erwerbs und Besitzes von Schußwaffen durch Einzelpersonen
 jurabk: EuWaffKontrÜbkG
 layout: default
-origslug: euwaffkontr_bkg
+origslug: euwaffkontruebkg
 slug: euwaffkontruebkg
 
 ---

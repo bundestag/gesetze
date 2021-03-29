@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3157
 
-Geändert durch
-:   Art. 1 V v. 7.9.2009 I 3014
+Zuletzt geändert durch
+:   Art. 7 G v. 13.5.2015 I 706
 
 
 
@@ -28,26 +28,8 @@ Soldatengesetzes in der Fassung der Bekanntmachung vom 30. Mai 2005
 (BGBl. I S. 1482) verordnet das Bundesministerium der Verteidigung:
 
 
-## § 1 Antragsberechtigung
+## § 1 (weggefallen)
 
-(1) Eine Teilzeitbeschäftigung nach § 30a des Soldatengesetzes zur
-Betreuung oder Pflege eines Kindes unter 18 Jahren kann von beiden in
-einem Wehrdienstverhältnis stehenden Eltern beantragt werden. Der
-Antrag kann sich auf eine anteilige, jeweils alleinige oder gemeinsame
-Teilzeitbeschäftigung beziehen.
-
-(2) Ein Antrag auf Teilzeitbeschäftigung kann grundsätzlich erst für
-einen Zeitraum nach Ablauf einer Dienstzeit von vier Jahren beantragt
-werden. Hiervon kann insbesondere abgewichen werden, wenn kein
-Ausbildungsbedarf mehr besteht. Die Dienstzeit im Sinne dieser
-Verordnung beginnt mit dem Tag der Berufung in das
-Wehrdienstverhältnis. Ein vor der Berufung geleisteter früherer
-Wehrdienst wird angerechnet.
-
-(3) Soweit ein Anspruch auf Elternzeit nach § 28 Abs. 7 des
-Soldatengesetzes besteht, kann schon vor Ablauf von vier Jahren der
-Dienstzeit anstelle der Elternzeit eine Teilzeitbeschäftigung als
-Soldatin oder Soldat beantragt werden.
 
 
 ## § 2 Antragsverfahren
@@ -87,13 +69,17 @@ Bewilligungszeitraumes zu beantragen. Die Absätze 1 und 2 gelten
 entsprechend.
 
 
-## § 3 Antragsvoraussetzungen
+## § 3 Antrag auf familienbedingte Teilzeitbeschäftigung
 
-(1) Mit der Antragstellung ist darzulegen, dass mindestens ein Kind
-unter 18 Jahren oder eine pflegebedürftige sonstige Angehörige oder
+(1) Im Antrag auf familienbedingte Teilzeitbeschäftigung (§ 30a Absatz
+1 Satz 2 des Soldatengesetzes) ist darzulegen, dass mindestens ein
+Kind unter 18 Jahren, eine pflegebedürftige sonstige Angehörige oder
 ein pflegebedürftiger sonstiger Angehöriger tatsächlich zu betreuen
-oder zu pflegen ist. Die Pflegebedürftigkeit einer oder eines
-sonstigen Angehörigen ist durch ein ärztliches Gutachten nachzuweisen.
+oder zu pflegen ist. Teilzeitbeschäftigung zur Betreuung oder Pflege
+mindestens eines Kinds unter 18 Jahren kann von beiden in einem
+Wehrdienstverhältnis stehenden Elternteilen beantragt werden.
+Beantragt werden kann eine anteilige, jeweils alleinige oder
+gemeinsame Teilzeitbeschäftigung.
 
 (2) Als Kind nach Absatz 1 gilt neben einem leiblichen Kind ein
 Adoptivkind, ein Kind in Adoptivpflege oder Vollzeitpflege sowie ein
@@ -114,8 +100,9 @@ Lebenspartners.
 4.  Geschwister und deren Kinder,
 
 
-5.  Ehepartnerinnen und Ehepartner der Geschwister und Geschwister der
-    Ehepartnerinnen und Ehepartner,
+5.  Ehepartnerinnen und Ehepartner der Geschwister, Lebenspartnerinnen und
+    Lebenspartner der Geschwister, Geschwister der Ehepartnerinnen und
+    Ehepartner und Geschwister der Lebenspartnerinnen und Lebenspartner,
 
 
 6.  Geschwister der Eltern,
@@ -139,8 +126,7 @@ zuständig ist.
 (2) Im Übrigen entscheidet die Entlassungsdienststelle über einen
 Antrag aus dem Kreis des Personals, für das sie zuständig ist.
 
-(3) Die Zuständigkeit nach den Absätzen 1 und 2 gilt entsprechend für
-die Entscheidung über
+(3) Die Absätze 1 und 2 gelten entsprechend für die Entscheidung über
 
 1.  die Verlängerung,
 
@@ -168,7 +154,7 @@ Arbeitszeitmodellen, insbesondere Blockzeitbildung, bewilligt werden,
 soweit wichtige dienstliche Gründe nicht entgegenstehen.
 
 
-## § 6 Ausschlüsse
+## § 6 Ausschlüsse und Beschränkungen
 
 (1) Teilzeitbeschäftigung ist grundsätzlich nicht möglich
 
@@ -183,32 +169,13 @@ soweit wichtige dienstliche Gründe nicht entgegenstehen.
     Stellenzulage für Kompaniefeldwebel,
 
 
-4.  auf Schiffen und Booten der Marine,
-
-
-5.  für Luftfahrzeugführerinnen und Luftfahrzeugführer sowie ständige
-    Besatzungsangehörige in fliegenden Verbänden oder diesen
-    gleichgestellten Einrichtungen, Einheiten und Dienststellen sowie in
-    fliegerischen Ausbildungseinrichtungen,
-
-
-6.  im Kommando Spezialkräfte und im Kommando Schnelle Einsatzkräfte
-    Sanitätsdienst,
-
-
-7.  bei Verwendungen, die den regelmäßigen Nachweis eines
-    Einsatzbereitschaftsstatus oder einer Lizenz oder die Teilnahme an
-    einem hierzu notwendigen Ausbildungsprogramm erfordern, und
-
-
-8.  während der Ausbildungsgänge zum Offizier, Stabsoffizier,
-    Fachunteroffizier und Feldwebel sowie der Teilnahme an einem Studium
-    an einer Hochschule, am Lehrgang Generalstabs-/Admiralstabsdienst, am
-    Euro-Lehrgang an der Führungsakademie der Bundeswehr und an
-    entsprechenden Lehrgängen an ausländischen Akademien.
+4.  für Abteilungsleiterinnen und Abteilungsleiter in
+    Bundeswehrkrankenhäusern.
 
 
 
+Satz 1 ist nicht anzuwenden, wenn Teilzeitbeschäftigung im Blockmodell
+(§ 9) beantragt wird.
 
 (2) Für die Dauer der Teilnahme an einer besonderen Auslandsverwendung
 einschließlich der Vor- und Nachbereitungsphase oder an anderen
@@ -217,32 +184,51 @@ befristete Rückkehr zur Vollzeitbeschäftigung unterbrochen werden. Die
 nach der Unterbrechung geleistete Teilzeitbeschäftigung gilt nicht als
 neuer Zeitabschnitt nach § 5 Abs. 1.
 
+(3) Teilzeitbeschäftigung kann erst für einen Zeitraum nach einer
+Dienstzeit von vier Jahren bewilligt werden. Satz 1 gilt nicht für
+Teilzeitbeschäftigung zur Betreuung oder Pflege mindestens eines Kinds
+unter 18 Jahren, wenn ein Anspruch auf Elternzeit nach § 28 Absatz 7
+des Soldatengesetzes besteht. Die Dienstzeit im Sinne dieser
+Verordnung beginnt mit dem Tag der Berufung in das
+Wehrdienstverhältnis. Ein vor der Berufung geleisteter früherer
+Wehrdienst wird angerechnet.
+
+(4) Die nach § 4 zuständige Dienststelle kann von den Ausschlüssen des
+Absatzes 1 im Einzelfall Ausnahmen zulassen, wenn die Versagung der
+Teilzeitbeschäftigung eine besondere persönliche Härte darstellen
+würde und keine wichtigen dienstlichen Gründe entgegenstehen. Sie kann
+von der Beschränkung des Absatzes 3 im Einzelfall Ausnahmen zulassen,
+wenn dem keine dienstlichen Gründe entgegenstehen.
+
+(5) Ist Teilzeitbeschäftigung zur Betreuung oder Pflege von mindestens
+einem Kind unter 18 Jahren bewilligt worden, darf über die befristete
+Rückkehr zur Vollzeitbeschäftigung nach Absatz 2 nur mit Zustimmung
+des Bundesministeriums der Verteidigung entschieden werden, solange
+Anspruch auf Elternzeit nach § 28 Absatz 7 des Soldatengesetzes
+besteht. Andere dienstrechtliche Maßnahmen, die dasselbe Ziel
+verfolgen, bedürfen ebenfalls der Zustimmung des Bundesministeriums
+der Verteidigung.
+
 
 ## § 7 Bewilligung oder Ablehnung des Antrages
 
-(1) Die Entlassungsdienststelle kann die Teilzeitbeschäftigung oder
-ihre Verlängerung bewilligen, sofern wichtige dienstliche Gründe nicht
-entgegenstehen. Solche Gründe sind zum Beispiel anzunehmen, wenn eine
-Teilzeitbeschäftigung aus Gründen der Einsatzbereitschaft der Einheit
-oder der Dienststelle nicht in Frage kommt, insbesondere nach den
-Kriterien des § 6 Absatz 1 ausgeschlossen ist. Die
-Teilzeitbeschäftigung oder ihre Verlängerung soll nur bewilligt
-werden, wenn in den Stellungnahmen der Disziplinarvorgesetzten nach §
-2 Absatz 2 Satz 1 ein Dienstposten benannt wird, auf dem die
-Teilzeitbeschäftigung wahrgenommen werden kann. Die Bewilligung einer
-Teilzeitbeschäftigung oder ihrer Verlängerung außerhalb eines
-Dienstpostens bedarf der vorherigen Zustimmung des Bundesministeriums
-der Verteidigung. Die zur Bewilligung einer Teilzeitbeschäftigung
-notwendige Erklärung der Soldatin oder des Soldaten über die
-Verpflichtung nach § 30a Abs. 2 Satz 3 des Soldatengesetzes ist
-aktenkundig zu machen.
+(1) Die Bewilligung einer Teilzeitbeschäftigung oder ihrer
+Verlängerung außerhalb eines Dienstpostens bedarf der vorherigen
+Zustimmung des Bundesministeriums der Verteidigung. Die zur
+Bewilligung einer Teilzeitbeschäftigung notwendige Erklärung der
+Soldatin oder des Soldaten über die Verpflichtung nach § 30a Abs. 2
+Satz 3 des Soldatengesetzes ist aktenkundig zu machen.
 
 (2) Vor der Ablehnung haben die in § 2 Abs. 2 Satz 1 genannten
 Disziplinarvorgesetzten unter Beteiligung der Soldatin oder des
 Soldaten die Möglichkeit einer Teilzeitbeschäftigung auf einem anderen
 Dienstposten zu prüfen. Die oder der nächsthöhere
 Disziplinarvorgesetzte hat die personalbearbeitende Dienststelle zu
-beteiligen.
+beteiligen. Ein Antrag auf familienbedingte Teilzeitbeschäftigung soll
+nicht abgelehnt werden, wenn ein geeigneter Dienstposten in einer
+Dienststelle verfügbar ist, in deren Einzugsgebiet (§ 3 Absatz 1
+Nummer 1 Buchstabe c des Bundesumzugskostengesetzes) sich die Wohnung
+der Antragstellerin oder des Antragstellers befindet.
 
 (3) Die Entlassungsdienststelle teilt die Entscheidung unverzüglich
 der Soldatin oder dem Soldaten schriftlich über die nächste
@@ -271,7 +257,25 @@ Zugang der Mitteilung nach Satz 2 und nach Stellungnahme der in § 2
 Abs. 2 Satz 1 genannten Disziplinarvorgesetzten festgelegt werden.
 
 
-## § 9 Inkrafttreten
+## § 9 Zusammenfassung der Freistellung von der Arbeit
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+Bei einer Teilzeitbeschäftigung können Freistellungszeiten zu
+Freistellungsphasen von bis zu drei Monaten zusammengefasst werden
+(Blockmodell), sofern dem keine dienstlichen Gründe entgegenstehen.
+Wird die Freistellungsphase an das Ende der bewilligten
+Teilzeitbeschäftigung gelegt, können Freistellungszeiten von bis zu
+einem Jahr zusammengefasst werden. Satz 2 gilt nicht, wenn die
+Freistellungsphase ganz oder teilweise in die letzten drei Jahre vor
+Erreichen der besonderen Altersgrenze (§ 45 Absatz 2 des
+Soldatengesetzes) fallen würde.
+
+
+## § 10 Soldatinnen und Soldaten in zivilen Dienststellen der Bundeswehrverwaltung
+
+Für Soldatinnen und Soldaten, die in zivilen Dienststellen der
+Bundeswehrverwaltung im Geschäftsbereich des Bundesministeriums der
+Verteidigung verwendet werden, gelten die vorstehenden Bestimmungen
+mit der Maßgabe, dass die Dienststellenleiterin oder der
+Dienststellenleiter an die Stelle der oder des nächsten und der oder
+des nächsthöheren Disziplinarvorgesetzten tritt.
 

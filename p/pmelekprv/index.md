@@ -1,7 +1,7 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
-  Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process
-  manager electric/electronics)
+  Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified
+  Process Manager - Electric/Electronics)
 jurabk: PMElekPrV
 layout: default
 origslug: pmelekprv
@@ -9,13 +9,16 @@ slug: pmelekprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process manager electric/electronics) (PMElekPrV)
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik und Geprüfte Prozessmanagerin Elektrotechnik (Certified Process Manager - Electric/Electronics) (PMElekPrV)
 
 Ausfertigungsdatum
 :   2009-08-10
 
 Fundstelle
 :   BGBl I: 2009, 2841
+
+Geändert durch
+:   Art. 11 V v. 30.11.2017 I 3827
 
 
 ## Eingangsformel
@@ -33,10 +36,10 @@ mit dem Bundesministerium für Wirtschaft und Technologie:
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
 Geprüften Prozessmanager Elektrotechnik/zur Geprüften Prozessmanagerin
-Elektrotechnik (Process manager electric/electronics) nach den §§ 2
-bis 9 durchführen, in denen die auf einen beruflichen Aufstieg
-abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen
-ist.
+Elektrotechnik (Certified Process Manager – Electric/Electronics) nach
+den §§ 2 bis 9 durchführen, in denen die auf einen beruflichen
+Aufstieg abzielende Erweiterung der beruflichen Handlungsfähigkeit
+nachzuweisen ist.
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, Prozesse zu
 initiieren, zu planen, zu steuern und zu bewerten mit dem Ziel
@@ -234,8 +237,8 @@ durchführen zu können.
 
 (5) Die erfolgreich abgelegte Prüfung führt zum anerkannten
 Fortbildungsabschluss „Geprüfter Prozessmanager
-Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Process
-manager electric/electronics)“.
+Elektrotechnik/Geprüfte Prozessmanagerin Elektrotechnik (Certified
+Process Manager – Electric/Electronics)“.
 
 
 ## § 2 Zulassungsvoraussetzungen
@@ -264,9 +267,9 @@ nachweist.
 
 (2) Die Berufspraxis nach Absatz 1 muss wesentliche Bezüge zu den
 Aufgaben eines Geprüften Prozessmanagers Elektrotechnik/einer
-Geprüften Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics) im Sinne des § 1 Absatz 2 und 3 haben und eine
-Qualifikation eines der Elektrotechnik-Spezialisten nach der Anlage 1
+Geprüften Prozessmanagerin Elektrotechnik (Certified Process Manager –
+Electric/Electronics) im Sinne des § 1 Absatz 2 und 3 haben und eine
+Qualifikation eines der Elektrotechnik-Spezialisten nach der Anlage
 oder eine fachlich und nach Breite und Tiefe entsprechende
 Qualifikation beinhalten.
 
@@ -614,17 +617,71 @@ Situationsaufgaben im Prüfungsteil „Handlungsfeldübergreifende
 Fachaufgaben“ sowie die Situationsaufgabe im Prüfungsteil
 „Personalmanagement“ sind gesondert zu bewerten.
 
-(2) Aus den Situationsaufgaben im Prüfungsteil
-„Handlungsfeldübergreifende Fachaufgaben“ ist eine Gesamtnote aus dem
-arithmetischen Mittel der Punktebewertungen zu bilden.
+(2) Aus den Punktebewertungen der beiden Situationsaufgaben im
+Prüfungsteil „Handlungsfeldübergreifende Fachaufgaben“ ist das
+arithmetische Mittel zu bilden.
 
 (3) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen nach
 Absatz 1 mindestens ausreichende Leistungen erbracht wurden.
 
-(4) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 2
-und ein Zeugnis nach der Anlage 3 auszustellen. Im Fall der
-Freistellung nach § 8 sind Ort und Datum der anderweitig abgelegten
-Prüfung und die Bezeichnung des Prüfungsgremiums anzugeben.
+(4) Die Gesamtnote ergibt sich aus dem arithmetischen Mittel aus
+
+1.  der Punktebewertung der Prüfungsleistungen im Prüfungsteil „Prozess-
+    und Projektmanagement“,
+
+
+2.  dem nach Absatz 2 errechneten arithmetischen Mittel im Prüfungsteil
+    „Handlungsfeldübergreifende Fachaufgaben“ und
+
+
+3.  der Punktebewertung der Prüfungsleistungen im Prüfungsteil
+    „Personalmanagement“.
+
+
+
+
+(5) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 5,
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung, die Punktebewertung und die Note des Prüfungsteils
+    „Prozess- und Projektmanagement“ sowie die Angabe, dass dieser
+    Prüfungsteil Dokumentation, Präsentation und Fachgespräch beinhaltet,
+
+
+2.  die Benennung, das nach Absatz 2 errechnete arithmetische Mittel und
+    die Note des Prüfungsteils „Handlungsfeldübergreifende Fachaufgaben“
+    sowie die Benennung und die jeweilige Punktebewertung der beiden
+    Situationsaufgaben dieses Prüfungsteils,
+
+
+3.  die Benennung, die Punktebewertung und die Note des Prüfungsteils
+    „Personalmanagement“ sowie die Angabe, dass die Prüfung eine
+    Situationsaufgabe ist,
+
+
+4.  die Gesamtnote nach Absatz 4 und
+
+
+5.  gegebenenfalls die Freistellungen nach § 8.
+
+
+
+Jede Freistellung nach Satz 3 Nummer 5 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 8 Anrechnung anderer Prüfungsleistungen
@@ -659,26 +716,30 @@ gilt das Ergebnis der letzten Prüfung.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 2 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 2) Spezialistenprofile in der Elektrotechnik
+## Anlage Spezialistenprofile in der Elektrotechnik
 
-(Fundstelle: BGBl. I 2009, 2846 - 2849)
+(Fundstelle: BGBl. I 2009, 2846 - 2849; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
 Die Spezialistenprofile beschreiben die inhaltlichen Standards, die
 für eine Zulassung zur Prüfung zum Geprüften Prozessmanager
-Elektrotechnik/zur Geprüften Prozessmanagerin Elektrotechnik (Process
-manager electrics/ electronics) erforderlich sind. Sie bilden das im
-Bereich der beruflichen Fortbildung angesiedelte Verbindungsglied
-zwischen der Ebene der beruflichen Ausbildung und der Ebene der in der
-beruflichen Fortbildung geregelten operativen Professionals. Grundlage
-für die Spezialistenqualifikation ist die Qualifizierung in den
-nachfolgend beschriebenen Arbeitsgebieten und Arbeitsprozessen. Im
-Rahmen dieser Qualifizierung sind die aufgeführten Arbeitsprozesse
-eigenständig in betrieblichen Projekten durchzuführen, eine
-prozessbegleitende Dokumentation anzufertigen, in einer Präsentation
-eine zusammenhängende Darstellung der Tätigkeiten und des
-Kompetenzerwerbs zu geben und darüber ein Fachgespräch zu führen.
+Elektrotechnik/zur Geprüften Prozessmanagerin Elektrotechnik
+(Certified Process Manager – Electric/Electronics) erforderlich sind.
+Sie bilden das im Bereich der beruflichen Fortbildung angesiedelte
+Verbindungsglied zwischen der Ebene der beruflichen Ausbildung und der
+Ebene der in der beruflichen Fortbildung geregelten operativen
+Professionals. Grundlage für die Spezialistenqualifikation ist die
+Qualifizierung in den nachfolgend beschriebenen Arbeitsgebieten und
+Arbeitsprozessen. Im Rahmen dieser Qualifizierung sind die
+aufgeführten Arbeitsprozesse eigenständig in betrieblichen Projekten
+durchzuführen, eine prozessbegleitende Dokumentation anzufertigen, in
+einer Präsentation eine zusammenhängende Darstellung der Tätigkeiten
+und des Kompetenzerwerbs zu geben und darüber ein Fachgespräch zu
+führen.
 
-**1.Systemspezialist Elektrotechnik/Systemspezialistin
+**1. Systemspezialist Elektrotechnik/Systemspezialistin
 Elektrotechnik**
 
 1.1 Arbeitsgebiet:
@@ -791,7 +852,7 @@ Elektrotechnik**
 
 
 
-**2.Fertigungsspezialist Elektrotechnik/Fertigungsspezialistin
+**2. Fertigungsspezialist Elektrotechnik/Fertigungsspezialistin
 Elektrotechnik**
 
 2.1 Arbeitsgebiet
@@ -898,7 +959,7 @@ Elektrotechnik**
 
 
 
-**3.Montagespezialist Elektrotechnik/Montagespezialistin
+**3. Montagespezialist Elektrotechnik/Montagespezialistin
 Elektrotechnik**
 
 3.1 Arbeitsgebiet:
@@ -1018,7 +1079,7 @@ Elektrotechnik**
 
 
 
-**4.Servicespezialist Elektrotechnik/Servicespezialistin
+**4. Servicespezialist Elektrotechnik/Servicespezialistin
 Elektrotechnik**
 
 4.1 Arbeitsgebiet:
@@ -1130,209 +1191,4 @@ Elektrotechnik**
 
 
 
-
-
-## Anlage 2 (zu § 7 Absatz 4) Muster
-
-(Fundstelle: BGBl. I 2009, 2850)
-
-*    *   ....................
-        (Bezeichnung der zuständigen Stelle)
-
-
-*    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Prozessmanager Elektrotechnik/
-## Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Prozessmanager Elektrotechnik/
-Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-## Handlungsfeld ………………………………
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte
-Prozessmanagerin Elektrotechnik (Process manager electric/electronics)
-vom 10. August 2009 (BGBl. I S. 2841)
-
-
-*    *   bestanden.
-
-
-
-
-*    *   Datum ....................
-
-    *
-    *
-
-*    *   Unterschrift(en) ....................
-
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
-
-
-
-## Anlage 3 (zu § 7 Absatz 4) Muster
-
-   (Fundstelle: BGBl. I 2009, 2851)
-
-*    *
-    *   ......................................................
-
-    *
-
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
-
-    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Prozessmanager Elektrotechnik/
-## Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Prozessmanager Elektrotechnik/
-Geprüfte Prozessmanagerin Elektrotechnik (Process manager
-electric/electronics)
-## Handlungsfeld ………………………………
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Prozessmanager Elektrotechnik/Geprüfte
-Prozessmanagerin Elektrotechnik (Process manager electric/electronics)
-vom 10. August 2009 (BGBl. I S. 2841) mit folgenden Ergebnissen
-bestanden:
-
-
-*    *
-    *
-    *[^f772427_01_BJNR284100009BJNE001500000]
-   Punkte
-
-    *
-    *   Note
-
-
-*    *   I.
-
-    *   Prozess- und Projektmanagement
-        Dokumentation, Präsentation und Fachgespräch
-
-    *   ....................
-
-    *
-    *   ....................
-
-
-*    *   II.
-
-    *   Handlungsfeldübergreifende Fachaufgaben
-
-    *   ....................
-
-    *
-    *   ....................
-
-
-*    *
-    *   Situationsaufgabe 1
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Situationsaufgabe 2
-
-    *   ....................
-
-    *
-    *
-
-*    *   III.
-
-    *   Personalmanagement
-
-    *
-    *
-    *
-
-*    *
-    *   Situationsaufgabe
-
-    *   ....................
-
-    *
-    *   ....................
-
-
-
-(Im Fall des § 9: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 9 im Hinblick auf die am ....................
-in .................... vor .................... abgelegte Prüfung in
-dem Prüfungsteil/Prüfungsbereich ....................
-freigestellt. “)
-
-
-*    *   Datum ....................
-
-    *
-    *
-
-*    *   Unterschrift(en) ....................
-
-    *
-    *
-
-*    *
-    *   (Siegel der zuständigen Stelle)
-
-    *
-
-
-[^f772427_01_BJNR284100009BJNE001500000]:    Den Bewertungen lag folgender Punkteschlüssel zu Grunde:
 

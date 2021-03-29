@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.9.2002 I 3543;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.11.2010 I 1643
+:   Art. 111 G v. 29.3.2017 I 626
 
 
 ## § 1 Anwendungsbereich
@@ -68,8 +68,9 @@ nachzuweisen.
 
 ## § 3 Ausnahmen
 
-Die zuständige Behörde kann auf schriftlichen Antrag Ausnahmen von den
-Vorschriften des Anhangs zu dieser Verordnung zulassen, wenn
+Die zuständige Behörde kann auf schriftlichen oder elektronischen
+Antrag Ausnahmen von den Vorschriften des Anhangs zu dieser Verordnung
+zulassen, wenn
 
 1.  eine andere, ebenso wirksame Maßnahme getroffen wird oder
 
@@ -515,7 +516,7 @@ Anlagenverzeichnis
         ist die zur Lagerung explosionsgefährlicher Stoffe festgelegte Fläche.
 
 
-    1.6 Nettoexplosivstoffmasse                          (NEM)
+    1.6 Nettoexplosivstoffmasse (NEM)
 
         Masse der Explosivstoffe (einschließlich der Phlegmatisierungsmittel)
         ohne deren Umhüllung und Verpackung.
@@ -540,12 +541,12 @@ Anlagenverzeichnis
         länger als sechs Monate an demselben Ort verbleiben.
 
 
-    1.10 Schutzabstände                          (Fernbereich)
+    1.10 Schutzabstände (Fernbereich)
 
         sind die zur Allgemeinheit oder Nachbarschaft einzuhaltenden Abstände.
 
 
-    1.11 Sicherheitsabstände                          (Nahbereich)
+    1.11 Sicherheitsabstände (Nahbereich)
 
         sind die innerhalb eines Betriebes einzuhaltenden Abstände.
 
@@ -853,7 +854,7 @@ Anlagenverzeichnis
         (4) In dem Fach nach Absatz 3 darf die Nettoexplosivstoffmasse aller
         Zündmittel höchstens 4 kg betragen. Die Nettoexplosivstoffmasse des
         einzelnen Zündmittels darf
-        5 g                          nicht übersteigen.
+        5 g nicht übersteigen.
 
 
     2.3.2 Bauart von Schranklagern
@@ -1824,7 +1825,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.  zu Wohnbereichen nach der Formel
 
             E = 22 x M
-            1/3                               \*);
+            1/3\*);
 
             besteht eine zusätzliche Gefährdung durch schwere Sprengstücke, ist
             jedoch ein Mindestabstand von 275 m einzuhalten;
@@ -1833,7 +1834,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         2.  zu Verkehrswegen nach der Formel
 
             E = 15 x M
-            1/3                               \*);
+            1/3\*);
 
             besteht eine zusätzliche Gefährdung durch schwere Sprengstücke, ist
             jedoch ein Mindestabstand von 180 m einzuhalten.
@@ -1856,7 +1857,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             a)  nach der Formel
 
                 E = 58 x M
-                1/6                                     \*);
+                1/6\*);
 
                 es ist jedoch ein Mindestabstand von 90 m einzuhalten;
 
@@ -1864,7 +1865,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             b)  nach der Formel
 
                 E = 76 x M
-                1/6                                     \*)
+                1/6\*)
 
                 bei starkmanteligen Gegenständen, durch die eine zusätzliche
                 Gefährdung durch schwere Sprengstücke gegeben ist; es ist jedoch ein
@@ -1879,7 +1880,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             a)  nach der Formel
 
                 E = 39 x M
-                1/6                                     \*);
+                1/6\*);
 
                 es ist jedoch ein Mindestabstand von 60 m einzuhalten;
 
@@ -1887,7 +1888,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             b)  nach der Formel
 
                 E = 51 x M
-                1/6                                     \*)
+                1/6\*)
 
                 bei starkmanteligen Gegenständen, durch die eine zusätzliche
                 Gefährdung durch schwere Sprengstücke gegeben ist; es ist jedoch ein
@@ -1908,7 +1909,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.  zu Wohnbereichen nach der Formel
 
             E = 6,4 x M
-            1/3                               \*);
+            1/3\*);
 
             es ist jedoch ein Mindestabstand von 60 m einzuhalten;
 
@@ -1916,7 +1917,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         2.  zu Verkehrswegen nach der Formel
 
             E = 4,3 x M
-            1/3                               \*);
+            1/3\*);
 
             es ist jedoch ein Mindestabstand von 40 m einzuhalten.
 
@@ -2095,7 +2096,7 @@ nach Anlage 2 Nummer 2
 
 
 *    *   Explosivstoffe, die bei einer Explosion
-        **keine schweren**                        Sprengstücke bilden
+        **keine schweren** Sprengstücke bilden
 
     *   Gefährlicher Betriebsteil
 
@@ -2276,7 +2277,7 @@ nach Anlage 2 Nummer 2
     *   5,0
 
     *   4,0
-        2                       )
+        2)
 
     *   8,0
         (30 m)\*\*)
@@ -2306,17 +2307,17 @@ nach Anlage 2 Nummer 2
     *   4,0
 
     *   8,0
-        1                       )
+        1)
 
     *   6,0
         (30 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (30 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (30 m)\*\*)
 
 
@@ -2345,7 +2346,7 @@ Tabelle 2
 
 
 *    *   Explosivstoffe, die bei einer Explosion
-        **schwere**                        Sprengstücke bilden
+        **schwere** Sprengstücke bilden
 
     *   Gefährlicher Betriebsteil
 
@@ -2493,14 +2494,14 @@ Tabelle 2
     *   4,0
 
     *   6,0
-        1                       )
+        1)
 
     *[^F774705_62_BJNR021890977BJNE001404377]
    8,0
         (40 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (40 m)\*\*)
 
     *   8,0
@@ -2518,27 +2519,27 @@ Tabelle 2
     *   4,0
 
     *   6,0
-        1                       )
+        1)
 
     *   8,0
-        1                       )
+        1)
 
     *   0,8
 
     *   3,0
 
     *   6,0
-        1                       )
+        1)
 
     *   8,0
-        1                       )
+        1)
 
     *   8,0
-        1                       )
+        1)
         (40 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (40 m)\*\*)
 
     *   8,0
@@ -2555,10 +2556,10 @@ Tabelle 2
     *   6,0
 
     *   8,0
-        1                       )
+        1)
 
     *   8,0
-        1                       )
+        1)
         (180 m)
 
     *   0,8
@@ -2566,18 +2567,18 @@ Tabelle 2
     *   4,5
 
     *   8,0
-        1                       )
+        1)
 
     *   8,0
-        1                       )
+        1)
         (180 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (180 m)\*\*)
 
     *   8,0
-        1                       )
+        1)
         (180 m)\*\*)
 
     *   8,0
@@ -2609,7 +2610,7 @@ Tabelle 3
 
 
 *    *   Explosivstoffe, die bei einer Explosion
-        **keine schweren**                        Sprengstücke bilden
+        **keine schweren** Sprengstücke bilden
 
     *   Gefährlicher Betriebsteil
 
@@ -2714,31 +2715,31 @@ Tabelle 3
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -2757,35 +2758,35 @@ Tabelle 3
     *        ![bgbl1_2010_j1643-1_0440.jpg](bgbl1_2010_j1643-1_0440.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   10 m
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -2802,7 +2803,7 @@ Tabelle 3
     *        ![bgbl1_2010_j1643-1_0450.jpg](bgbl1_2010_j1643-1_0450.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -2812,11 +2813,11 @@ Tabelle 3
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   10 m
         25 m
-        1                       )
+        1)
 
     *   60 m
 
@@ -2836,7 +2837,7 @@ Tabelle 3
     *        ![bgbl1_2010_j1643-1_0460.jpg](bgbl1_2010_j1643-1_0460.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -2846,7 +2847,7 @@ Tabelle 3
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -2872,7 +2873,7 @@ Tabelle 4
 
 
 *    *   Explosivstoffe, die bei einer Explosion
-        **schwere**                        Sprengstücke bilden
+        **schwere** Sprengstücke bilden
 
     *   Gefährlicher Betriebsteil
 
@@ -2977,31 +2978,31 @@ Tabelle 4
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   40 m
 
@@ -3020,11 +3021,11 @@ Tabelle 4
     *        ![bgbl1_2010_j1643-1_0590.jpg](bgbl1_2010_j1643-1_0590.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   15 m
         25 m
-        1                       )
+        1)
 
     *   40 m
 
@@ -3032,11 +3033,11 @@ Tabelle 4
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   10 m
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -3057,7 +3058,7 @@ Tabelle 4
     *        ![bgbl1_2010_j1643-1_0600.jpg](bgbl1_2010_j1643-1_0600.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -3067,11 +3068,11 @@ Tabelle 4
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   10 m
         25 m
-        1                       )
+        1)
 
     *   100 m
 
@@ -3091,7 +3092,7 @@ Tabelle 4
     *        ![bgbl1_2010_j1643-1_0610.jpg](bgbl1_2010_j1643-1_0610.jpg)
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -3101,7 +3102,7 @@ Tabelle 4
 
     *   (-)\*\*)
         25 m
-        1                       )
+        1)
 
     *   25 m
 
@@ -3394,15 +3395,15 @@ Tabelle 5
         (25 m)
 
     *   3,2
-        1                       )
+        1)
         (40 m)
 
     *   4,3
-        1                       )
+        1)
         (60 m)
 
     *   4,3
-        1                       )
+        1)
         (60 m)
 
     *   6,4
@@ -3506,7 +3507,7 @@ Tabelle 7
     *   0,8
 
     *   8,0
-        3                       )
+        3)
         (180 m)\*)
 
 
@@ -3520,7 +3521,7 @@ Tabelle 7
     *   0,8
 
     *   4,0
-        4                       )
+        4)
 
 
 *    *   1.2
@@ -3537,7 +3538,7 @@ Tabelle 7
     *   (25 m)\*)
 
     *   (90 m)
-        4                       )\*)
+        4)\*)
 
 
 *    *   D 2
@@ -3550,7 +3551,7 @@ Tabelle 7
 [^F774705_73_BJNR021890977BJNE001404377]
 
     *   (-)
-        5                       )\*\*)
+        5)\*\*)
 
     *   (25 m)\*)
 
@@ -3563,14 +3564,14 @@ Tabelle 7
 
     *        ![bgbl1_2010_j1643-1_0850.jpg](bgbl1_2010_j1643-1_0850.jpg)
     *   3,2
-        2                       )
+        2)
         (40 m)\*)
 
     *   (-)
-        5                       )\*\*)
+        5)\*\*)
 
     *   4,3
-        2                       )
+        2)
         (60 m)\*)
 
 
@@ -3584,7 +3585,7 @@ Tabelle 7
         (20 m)\*)
 
     *   (-)
-        5                       )\*\*)
+        5)\*\*)
 
     *   3,2
         (40 m)\*)
@@ -4261,8 +4262,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   9
 
     *   Pyrotechnische Gegenstände aller Kategorien
-        \*), a) bis h), 1)                     , pyrotechnische Sätze S1 und
-        S2 sowie pyrotechnische Munition der Klassen
+        \*), a) bis h), 1), pyrotechnische Sätze S1 und S2 sowie
+        pyrotechnische Munition der Klassen
         PM I und PM II; davon höchstens 20% ohne Verpackung nach § 21 Abs. 4
         der 1. SprengV
 
@@ -4372,24 +4373,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
     geltenden Fassung gleichzusetzen.
 [^F774705_28_BJNR021890977BJNE001805377]: [^F774705_29_BJNR021890977BJNE001805377]:     Der Kategorie T1 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            1              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
+    Unterklasse T1 nach § 6 Absatz 4 der Ersten Verordnung zum
+    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
+    gleichzusetzen.
 [^F774705_30_BJNR021890977BJNE001805377]:     Der Kategorie T2 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            2              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
-[^F774705_31_BJNR021890977BJNE001805377]:     Der Kategorie P1 ist der Teil der Unterklasse T
-    1              nach § 6 Absatz 4 der Ersten Verordnung zum
+    Unterklasse T2 nach § 6 Absatz 4 der Ersten Verordnung zum
     Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_32_BJNR021890977BJNE001805377]:     Der Kategorie P2 ist der Teil der Unterklasse T
-    2              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_33_BJNR021890977BJNE001805377]:     Klasse T                            1              nach § 6 Absatz 4
-    der Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30.
-    September 2009 geltenden Fassung.
+    gleichzusetzen.
+[^F774705_31_BJNR021890977BJNE001805377]:     Der Kategorie P1 ist der Teil der Unterklasse T1 nach § 6 Absatz 4 der
+    Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30. September
+    2009 geltenden Fassung gleichzusetzen, der nicht Bühnen- und
+    Theaterfeuerwerk ist.
+[^F774705_32_BJNR021890977BJNE001805377]:     Der Kategorie P2 ist der Teil der Unterklasse T2 nach § 6 Absatz 4 der
+    Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30. September
+    2009 geltenden Fassung gleichzusetzen, der nicht Bühnen- und
+    Theaterfeuerwerk ist.
+[^F774705_33_BJNR021890977BJNE001805377]:     Klasse T1 nach § 6 Absatz 4 der Ersten Verordnung zum
+    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung.
 
 
 ## Anlage 7 zum Anhang Aufbewahrung kleiner Mengen im nicht gewerblichen Bereich nach Nummer 4 des Anhangs Maximal zulässige Nettoexplosivstoffmassen/Nettomassen in kg
@@ -4571,8 +4571,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   9
 
     *   Pyrotechnische Gegenstände aller Kategorien
-        \*), a) bis h), 1)                     , pyrotechnische Sätze S1 und
-        S2 sowie pyrotechnische Munition der Klassen
+        \*), a) bis h), 1), pyrotechnische Sätze S1 und S2 sowie
+        pyrotechnische Munition der Klassen
         PM I und PM II; davon höchstens 20% ohne Verpackung nach § 21 Abs. 4
         der 1. SprengV
 
@@ -4655,22 +4655,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Verordnung zum Sprengstoffgesetz in der bis zum 30. September 2009
     geltenden Fassung gleichzusetzen.
 [^F774705_48_BJNR021890977BJNE001904377]: [^F774705_49_BJNR021890977BJNE001904377]:     Der Kategorie T1 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            1              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
+    Unterklasse T1 nach § 6 Absatz 4 der Ersten Verordnung zum
+    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
+    gleichzusetzen.
 [^F774705_50_BJNR021890977BJNE001904377]:     Der Kategorie T2 ist der Teil - Bühnen- und Theaterfeuerwerk - der
-    Unterklasse T                            2              nach § 6
-    Absatz 4 der Ersten Verordnung zum Sprengstoffgesetz in der bis zum
-    30\. September 2009 geltenden Fassung gleichzusetzen.
-[^F774705_51_BJNR021890977BJNE001904377]:     Der Kategorie P1 ist der Teil der Unterklasse T
-    1              nach § 6 Absatz 4 der Ersten Verordnung zum
+    Unterklasse T2 nach § 6 Absatz 4 der Ersten Verordnung zum
     Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_52_BJNR021890977BJNE001904377]:     Der Kategorie P2 ist der Teil der Unterklasse T
-    2              nach § 6 Absatz 4 der Ersten Verordnung zum
-    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung
-    gleichzusetzen, der nicht Bühnen- und Theaterfeuerwerk ist.
-[^F774705_53_BJNR021890977BJNE001904377]:     Klasse T                            1              nach § 6 Absatz 4
-    der Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30.
-    September 2009 geltenden Fassung.
+    gleichzusetzen.
+[^F774705_51_BJNR021890977BJNE001904377]:     Der Kategorie P1 ist der Teil der Unterklasse T1 nach § 6 Absatz 4 der
+    Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30. September
+    2009 geltenden Fassung gleichzusetzen, der nicht Bühnen- und
+    Theaterfeuerwerk ist.
+[^F774705_52_BJNR021890977BJNE001904377]:     Der Kategorie P2 ist der Teil der Unterklasse T2 nach § 6 Absatz 4 der
+    Ersten Verordnung zum Sprengstoffgesetz in der bis zum 30. September
+    2009 geltenden Fassung gleichzusetzen, der nicht Bühnen- und
+    Theaterfeuerwerk ist.
+[^F774705_53_BJNR021890977BJNE001904377]:     Klasse T1 nach § 6 Absatz 4 der Ersten Verordnung zum
+    Sprengstoffgesetz in der bis zum 30. September 2009 geltenden Fassung.
 

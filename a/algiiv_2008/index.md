@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 2942
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.12.2011 I 2833
+:   Art. 1 V v. 26.7.2016 I 1858
 
 
 ## Eingangsformel
@@ -46,7 +46,8 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     5a Nummer 3,
 
 
-3.  (weggefallen)
+3.  Einnahmen aus Kapitalvermögen, soweit sie 100 Euro kalenderjährlich
+    nicht übersteigen,
 
 
 4.  nicht steuerpflichtige Einnahmen einer Pflegeperson für Leistungen der
@@ -85,11 +86,7 @@ Einnahmen sind nicht als Einkommen zu berücksichtigen:
     Euro monatlich nicht übersteigen,
 
 
-10. Leistungen der Ausbildungsförderung, soweit sie für Fahrtkosten zur
-    Ausbildung oder für Ausbildungsmaterial verwendet werden; ist bereits
-    mindestens ein Betrag nach § 11b Absatz 2 Satz 1 des Zweiten Buches
-    Sozialgesetzbuch von der Ausbildungsvergütung absetzbar, gilt dies nur
-    für den darüber hinausgehenden Betrag,
+10. (weggefallen)
 
 
 11. Verpflegung, die außerhalb der in den §§ 2, 3 und 4 Nummer 4 genannten
@@ -116,12 +113,18 @@ Heizung sowie darüber hinausgehend 50 Prozent der diesen Freibetrag
 übersteigenden bereinigten Einnahmen nicht überschreiten. § 11a des
 Zweiten Buches Sozialgesetzbuch gilt entsprechend.
 
-(3) Für Bewilligungszeiträume, die vor dem 1. Januar 2009 begonnen
-haben, ist Kindergeld nicht als Einkommen zu berücksichtigen, soweit
-es die bis zum 31. Dezember 2008 geltenden Beträge nach § 66 Absatz 1
-des Einkommensteuergesetzes und § 6 Absatz 1 und 2 des
-Bundeskindergeldgesetzes übersteigt. Satz 1 gilt bis zum Ende des
-Bewilligungszeitraums, längstens jedoch bis zum 31. Mai 2009.
+(3) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist
+teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund
+eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der
+ehemaligen Deutschen Demokratischen Republik erlittenen
+Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des
+nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach
+§ 31 des Bundesversorgungsgesetzes, die für den Grad der
+Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der
+Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit
+um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei
+Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein
+Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
 
 (4) Nicht als Einkommen zu berücksichtigen sind Einnahmen von
 Schülerinnen und Schülern allgemein- oder berufsbildender Schulen, die
@@ -137,40 +140,6 @@ für Schülerinnen und Schüler, die einen Anspruch auf
 Ausbildungsvergütung haben. Die Bestimmungen des
 Jugendarbeitsschutzgesetzes bleiben unberührt.
 
-(5) Nicht als Einkommen zu berücksichtigen ist Elterngeld in Höhe von
-150 Euro je Lebensmonat eines Kindes, der vor dem 1. Januar 2011
-begonnen hat, soweit es auf Grund einer vor dem 1. Januar 2011
-widerrufenen Verlängerungsmöglichkeit (§ 6 Satz 2 des
-Bundeselterngeld- und Elternzeitgesetzes) nachgezahlt wird.
-
-(6) Die Verletztenrente nach dem Siebten Buch Sozialgesetzbuch ist
-teilweise nicht als Einkommen zu berücksichtigen, wenn sie auf Grund
-eines in Ausübung der Wehrpflicht bei der Nationalen Volksarmee der
-ehemaligen Deutschen Demokratischen Republik erlittenen
-Gesundheitsschadens erbracht wird. Dabei bestimmt sich die Höhe des
-nicht zu berücksichtigenden Betrages nach der Höhe der Grundrente nach
-§ 31 des Bundesversorgungsgesetzes, die für den Grad der
-Schädigungsfolgen zu zahlen ist, der der jeweiligen Minderung der
-Erwerbsfähigkeit entspricht. Bei einer Minderung der Erwerbsfähigkeit
-um 20 Prozent beträgt der nicht zu berücksichtigende Betrag zwei
-Drittel, bei einer Minderung der Erwerbsfähigkeit um 10 Prozent ein
-Drittel der Mindestgrundrente nach dem Bundesversorgungsgesetz.
-
-(7) Bei erwerbsfähigen Leistungsberechtigten, die an einem
-Bundesfreiwilligendienst oder einem Jugendfreiwilligendienst
-teilnehmen, ist anstelle der Beträge nach § 11b Absatz 1 Satz 1 Nummer
-3 bis 5 des Zweiten Buches Sozialgesetzbuch vom Taschengeld nach § 2
-Absatz 1 Nummer 3 des Jugendfreiwilligendienstegesetzes oder § 2
-Nummer 4 des Bundesfreiwilligendienstgesetzes ein Betrag von insgesamt
-175 Euro monatlich abzusetzen. Übersteigt die Summe der Beträge nach §
-11b Absatz 1 Satz 1 Nummer 3 bis 5 des Zweiten Buches Sozialgesetzbuch
-den Betrag von 115 Euro, gilt Satz 1 nicht. In diesem Fall ist vom
-Taschengeld zusätzlich ein Betrag von 60 Euro monatlich nicht als
-Einkommen zu berücksichtigen. Die Sätze 1 bis 3 gelten nicht für
-erwerbsfähige Leistungsberechtigte, die erwerbstätig sind oder aus
-einer Tätigkeit Bezüge oder Einnahmen erhalten, die nach § 3 Nummer
-12, 26, 26a oder 26b des Einkommensteuergesetzes steuerfrei sind.
-
 
 ## § 2 Berechnung des Einkommens aus nichtselbständiger Arbeit
 
@@ -180,21 +149,7 @@ auszugehen.
 
 (2) (weggefallen)
 
-(3) Ist bei laufenden Einnahmen im Bewilligungszeitraum zu erwarten,
-dass diese in unterschiedlicher Höhe zufließen, kann als Einkommen ein
-monatliches Durchschnittseinkommen zu Grunde gelegt werden. Als
-monatliches Durchschnittseinkommen ist für jeden Monat im
-Bewilligungszeitraum der Teil des Einkommens zu berücksichtigen, der
-sich bei der Teilung des Gesamteinkommens im Bewilligungszeitraum
-durch die Anzahl der Monate im Bewilligungszeitraum ergibt. Soweit
-über die Gewährung von Leistungen zum Lebensunterhalt nach § 40 Absatz
-2 Nummer 1 des Zweiten Buches Sozialgesetzbuch vorläufig entschieden
-wurde, ist das bei der vorläufigen Entscheidung berücksichtigte
-monatliche Durchschnittseinkommen bei der abschließenden Entscheidung
-als Einkommen zu Grunde zu legen, wenn das tatsächliche monatliche
-Durchschnittseinkommen das bei der vorläufigen Entscheidung zu Grunde
-gelegte monatliche Durchschnittseinkommen um nicht mehr als 20 Euro
-übersteigt.
+(3) (weggefallen)
 
 (4) (weggefallen)
 
@@ -207,11 +162,7 @@ Mittag- und Abendessen Anteile von je 40 Prozent des sich nach Satz 1
 ergebenden Betrages.
 
 (6) Sonstige Einnahmen in Geldeswert sind mit ihrem Verkehrswert als
-Einkommen anzusetzen. Ist die Einnahme in Geldeswert auch als Teil des
-Regelbedarfs nach § 20 des Zweiten Buches Sozialgesetzbuch
-berücksichtigt, ist als Wert der Einnahme in Geldeswert höchstens der
-Betrag anzusetzen, der für diesen Teil in dem maßgebenden Regelbedarf
-enthalten ist.
+Einkommen anzusetzen.
 
 (7) Das Einkommen kann nach Anhörung geschätzt werden, wenn
 
@@ -268,24 +219,9 @@ des Einkommens, der der Anzahl der in den in Absatz 1 Satz 3 genannten
 Zeitraum fallenden Monate entspricht. Von dem Einkommen sind die
 Beträge nach § 11b des Zweiten Buches Sozialgesetzbuch abzusetzen.
 
-(5) Ist auf Grund der Art der Erwerbstätigkeit eine jährliche
-Berechnung des Einkommens angezeigt, soll in die Berechnung des
-Einkommens nach den Absätzen 2 bis 4 auch Einkommen nach Absatz 1 Satz
-1 einbezogen werden, das der oder die erwerbsfähige
-Leistungsberechtigte innerhalb eines Zeitraums von sechs Monaten vor
-wiederholter Antragstellung erzielt hat, wenn der oder die
-erwerbsfähige Leistungsberechtigte darauf hingewiesen worden ist. Dies
-gilt nicht, soweit das Einkommen bereits in dem der wiederholten
-Antragstellung vorangegangenen Bewilligungszeitraum berücksichtigt
-wurde oder bei Antragstellung in diesem Zeitraum hätte berücksichtigt
-werden müssen.
+(5) (weggefallen)
 
-(6) Soweit über die Gewährung von Leistungen zum Lebensunterhalt nach
-§ 40 Absatz 2 Nummer 1 des Zweiten Buches Sozialgesetzbuch vorläufig
-entschieden wurde, kann das Einkommen im Bewilligungszeitraum für die
-abschließende Entscheidung geschätzt werden, wenn das tatsächliche
-Einkommen nicht innerhalb eines Zeitraums von zwei Monaten nach Ende
-des Bewilligungszeitraums nachgewiesen wird.
+(6) (weggefallen)
 
 (7) Wird ein Kraftfahrzeug überwiegend betrieblich genutzt, sind die
 tatsächlich geleisteten notwendigen Ausgaben für dieses Kraftfahrzeug
@@ -363,36 +299,41 @@ Bei der Prüfung der Hilfebedürftigkeit ist zugrunde zu legen
 
 2.  von dem Einkommen Minderjähriger ein Betrag in Höhe von 30 Euro
     monatlich für die Beiträge zu privaten Versicherungen nach § 11b
-    Absatz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch, die nach Grund
-    und Höhe angemessen sind, wenn der oder die Minderjährige eine
+    Absatz 1 Satz 1 Nummer 3 des Zweiten Buches Sozialgesetzbuch, die nach
+    Grund und Höhe angemessen sind, wenn der oder die Minderjährige eine
     entsprechende Versicherung abgeschlossen hat,
 
 
-3.  von dem Einkommen Erwerbstätiger für die Beträge nach § 11b Absatz 1
-    Satz 1 Nummer 5 des Zweiten Buches Sozialgesetzbuch
-
-    a)  ein Betrag in Höhe von 15,33 Euro monatlich als mit seiner Erzielung
-        verbundene notwendige Ausgaben; dies gilt nicht für Einkommen nach §
-        3,
-
-
-    b)  zusätzlich bei Benutzung eines Kraftfahrzeugs für die Fahrt zwischen
-        Wohnung und Arbeitsstätte für Wegstrecken zur Ausübung der
-        Erwerbstätigkeit 0,20 Euro für jeden Entfernungskilometer der
-        kürzesten Straßenverbindung,
+3.  von dem Einkommen Leistungsberechtigter monatlich ein Betrag in Höhe
+    eines Zwölftels der zum Zeitpunkt der Entscheidung über den
+    Leistungsanspruch nachgewiesenen Jahresbeiträge zu den gesetzlich
+    vorgeschriebenen Versicherungen nach § 11b Absatz 1 Satz 1 Nummer 3
+    des Zweiten Buches Sozialgesetzbuch,
 
 
+4.  von dem Einkommen Leistungsberechtigter ein Betrag in Höhe von 3
+    Prozent des Einkommens, mindestens 5 Euro, für die zu einem
+    geförderten Altersvorsorgevertrag entrichteten Beiträge nach § 11b
+    Absatz 1 Satz 1 Nummer 4 des Zweiten Buches Sozialgesetzbuch; der
+    Prozentwert mindert sich um 1,5 Prozentpunkte je zulageberechtigtes
+    Kind im Haushalt der oder des Leistungsberechtigten,
 
-    soweit der oder die erwerbsfähige Leistungsberechtigte nicht höhere
-    notwendige Ausgaben nachweist.
+
+5.  von dem Einkommen Erwerbstätiger für die Beträge nach § 11b Absatz 1
+    Satz 1 Nummer 5 des Zweiten Buches Sozialgesetzbuch bei Benutzung
+    eines Kraftfahrzeuges für die Fahrt zwischen Wohnung und Arbeitsstätte
+    für Wegstrecken zur Ausübung der Erwerbstätigkeit 0,20 Euro für jeden
+    Entfernungskilometer der kürzesten Straßenverbindung, soweit der oder
+    die erwerbsfähige Leistungsberechtigte nicht höhere notwendige
+    Ausgaben nachweist.
 
 
 
 
 (2) Sofern die Berücksichtigung des Pauschbetrags nach Absatz 1 Nummer
-3 Buchstabe b im Vergleich zu den bei Benutzung eines zumutbaren
-öffentlichen Verkehrsmittels anfallenden Fahrtkosten unangemessen hoch
-ist, sind nur diese als Pauschbetrag abzusetzen.
+5 im Vergleich zu den bei Benutzung eines zumutbaren öffentlichen
+Verkehrsmittels anfallenden Fahrtkosten unangemessen hoch ist, sind
+nur diese als Pauschbetrag abzusetzen.
 
 (3) Für Mehraufwendungen für Verpflegung ist, wenn die erwerbsfähige
 leistungsberechtigte Person vorübergehend von seiner Wohnung und dem
@@ -426,19 +367,9 @@ seinem Verkehrswert zu berücksichtigen.
 
 ## § 9 Übergangsvorschrift
 
-Für Bewilligungszeiträume, die vor dem 1. Januar 2008 begonnen haben,
-ist § 2a der Arbeitslosengeld II/Sozialgeld-Verordnung vom 20. Oktober
-2004 in der bis zum 31. Dezember 2007 geltenden Fassung weiterhin
-anzuwenden. § 2a Abs. 4 der Arbeitslosengeld II/Sozialgeld-Verordnung
-vom 20. Oktober 2004 in der bis zum 31. Dezember 2007 geltenden
-Fassung ist mit der Maßgabe anzuwenden, dass für den Teil des
-Bewilligungszeitraums, der im Berechnungsjahr 2007 liegt, bei der
-abschließenden Entscheidung als Einkommen der Teil des vom Finanzamt
-für das Berechnungsjahr festgestellten Gewinns zu berücksichtigen ist,
-der auf diesen Teil des Bewilligungszeitraums entfällt. Für den Teil
-des Bewilligungszeitraums, der nach dem 31. Dezember 2007 liegt, ist
-bei der abschließenden Entscheidung § 3 dieser Verordnung entsprechend
-anzuwenden.
+§ 6 Absatz 1 Nummer 3 und 4 in der ab dem 1. August 2016 geltenden
+Fassung ist erstmals anzuwenden für Bewilligungszeiträume, die nach
+dem 31. Juli 2016 begonnen haben.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten

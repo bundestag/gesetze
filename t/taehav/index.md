@@ -2,7 +2,7 @@
 Title: Verordnung über tierärztliche Hausapotheken
 jurabk: TÄHAV
 layout: default
-origslug: t_hav
+origslug: taehav
 slug: taehav
 
 ---
@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1975, 2115
 
 Neugefasst durch
-:   Bek. v. 8.7.2009 I 1760
+:   Bek. v. 8.7.2009 I 1760;
+
+Geändert durch
+:   Art. 1 V v. 21.2.2018 I 213
 
 
 ## § 1 Anwendungsbereich
@@ -30,10 +33,11 @@ Arzneimitteln durch Tierärzte.
 
 ## § 1a Regeln der Wissenschaft
 
-Beim Betrieb einer tierärztlichen Hausapotheke sind die Regeln der
-veterinärmedizinischen Wissenschaft zu beachten. Bei der Herstellung,
-Prüfung, Lagerung und Abgabe von Arzneimitteln sind darüber hinaus die
-Regeln der pharmazeutischen Wissenschaft zu beachten.
+Beim Betrieb einer tierärztlichen Hausapotheke und bei der Anwendung
+von Arzneimitteln sind die Regeln der veterinärmedizinischen
+Wissenschaft zu beachten. Bei der Herstellung, Prüfung, Lagerung und
+Abgabe von Arzneimitteln sind darüber hinaus die Regeln der
+pharmazeutischen Wissenschaft zu beachten.
 
 
 ## § 2 Verantwortlichkeit des Tierarztes
@@ -223,14 +227,18 @@ Rahmen einer ordnungsgemäßen Behandlung von Tieren oder Tierbeständen
 abgegeben werden.
 
 (2) Eine Behandlung im Sinne des Absatzes 1 schließt insbesondere ein,
-dass nach den Regeln der tierärztlichen Wissenschaft
+dass nach den Regeln der veterinärmedizinischen Wissenschaft
 
-1.  die Tiere oder der Tierbestand in angemessenem Umfang untersucht
-    worden sind und
+1.  die Tiere oder der Tierbestand in angemessenem Umfang vom Tierarzt
+    untersucht worden sind,
 
 
 2.  die Anwendung der Arzneimittel und der Behandlungserfolg vom Tierarzt
-    kontrolliert werden.
+    kontrolliert werden und
+
+
+3.  im Falle der Behandlung mit einem Arzneimittel mit antibakterieller
+    Wirkung eine klinische Untersuchung vom Tierarzt durchgeführt wird.
 
 
 
@@ -257,15 +265,15 @@ Arzneimittelanwendung durch den Tierhalter zu vergewissern. § 13 Abs.
 die Wartezeit, die auf einem Fertigarzneimittel für die zu behandelnde
 Tierart angegeben ist, zugrunde zu legen. Bei Abweichung von den
 Zulassungsbedingungen ist die Wartezeit so zu bemessen, dass die in
-der Verordnung (EWG) Nr. 2377/90 des Rates vom 26. Juni 1990 zur
-Schaffung eines Gemeinschaftsverfahrens für die Festsetzung von
-Höchstmengen für Tierarzneimittelrückstände in Nahrungsmitteln
-tierischen Ursprungs (ABl. EG Nr. L 224 S. 1) in der jeweils geltenden
-Fassung festgesetzten Höchstmengen nicht überschritten werden. Sofern
-auf einem Arzneimittel keine Wartezeit für die betreffende Tierart
-angegeben ist, darf, auch im Falle des Satzes 2, die im Rahmen des
-Hinweises nach Absatz 1 festzulegende Wartezeit folgende Zeiträume
-nicht unterschreiten:
+Tabelle 1 des Anhangs der Verordnung (EU) Nr. 37/2010 der Kommission
+vom 22. Dezember 2009 über pharmakologisch wirksame Stoffe und ihre
+Einstufung hinsichtlich der Rückstandshöchstmengen in Lebensmitteln
+tierischen Ursprungs (ABl. L 15 vom 20.1.2010, S. 1; L 293 vom
+11\.11.2010, S. 72) in der jeweils geltenden Fassung festgesetzten
+Höchstmengen nicht überschritten werden. Sofern auf einem Arzneimittel
+keine Wartezeit für die betreffende Tierart angegeben ist, darf, auch
+im Falle des Satzes 2, die im Rahmen des Hinweises nach Absatz 1
+festzulegende Wartezeit folgende Zeiträume nicht unterschreiten:
 
 1.  bei Eiern sieben Tage,
 
@@ -288,25 +296,148 @@ nicht unterschreiten:
 
 
 Die Wartezeit für homöopathische Arzneimittel, die ausschließlich
-Wirkstoffe enthalten, die in Anhang II der Verordnung (EWG) Nr.
-2377/90 aufgeführt sind, darf auf null Tage festgesetzt werden. Satz 3
-gilt nicht für Arzneimittel, die für den Verkehr außerhalb der
-Apotheken freigegeben sind.
+Wirkstoffe enthalten, die in der Tabelle 1 des Anhangs der Verordnung
+(EU) Nr. 37/2010 in der jeweils geltenden Fassung als Stoffe
+aufgeführt sind, für die eine Festlegung von Höchstmengen nicht
+erforderlich ist, darf auf null Tage festgesetzt werden. Satz 3 gilt
+nicht für Arzneimittel, die für den Verkehr außerhalb der Apotheken
+freigegeben sind.
 
 
-## § 13 Nachweispflicht
+## § 12b Umwidmungsverbot
+
+Abweichend von § 56a Absatz 2 Satz 1 Nummer 2 bis 4 des
+Arzneimittelgesetzes dürfen Arzneimittel, die Cephalosporine der
+dritten oder vierten Generation oder Fluorchinolone enthalten, bei
+Tieren der Tierarten Rind, Schwein, Pute, Huhn, Hund oder Katze nur
+dann abgegeben, verschrieben oder angewendet werden, wenn sie für die
+jeweilige Tierart zugelassen sind. Satz 1 gilt nicht, soweit im
+Einzelfall die notwendige arzneiliche Versorgung der Tiere ernstlich
+gefährdet ist.
+
+
+## § 12c Antibiogrammpflicht
+
+(1) Der Tierarzt hat im Rahmen der Behandlung von Tiergruppen der
+Tierarten Rind, Schwein, Huhn oder Pute, die in einer Stallabteilung
+oder in einem umfriedeten Bereich im Freien gehalten werden, mit einem
+Arzneimittel mit antibakterieller Wirkung die Empfindlichkeit der die
+Erkrankung verursachenden bakteriellen Erreger gegen antibakteriell
+wirksame Stoffe nach Maßgabe des Satzes 2 und nach Maßgabe des § 12d
+zu untersuchen oder untersuchen zu lassen (Antibiogramm). Das
+Antibiogramm ist zu erstellen
+
+1.  bei Wechsel des Arzneimittels mit antibakterieller Wirkung im Verlauf
+    einer Behandlung,
+
+
+2.  bei einer Behandlung mit einem Arzneimittel mit antibakterieller
+    Wirkung,
+
+    a)  die häufiger als einmal in bestimmten Alters- oder
+        Produktionsabschnitten stattfindet, oder
+
+
+    b)  die die Dauer von sieben Tagen übersteigt, es sei denn, bei der
+        Erteilung der Zulassung wurde ein längerer Zeitraum für die Dauer der
+        Anwendung festgelegt, oder die in diesem Falle den längeren
+        festgelegten Zeitraum übersteigt,
+
+
+
+
+
+3.  bei kombinierter Verabreichung von Arzneimitteln mit antibakteriellen
+    Wirkstoffen bei einer Indikation, ausgenommen zugelassene
+    Fertigarzneimittel, die eine Kombination von antibakteriellen
+    Wirkstoffen enthalten,
+
+
+4.  bei Abweichung von den Vorgaben der Zulassungsbedingungen von
+    Arzneimitteln mit antibakteriellen Wirkstoffen nach § 56a Absatz 2
+    Satz 1 Nummer 2 bis 4 des Arzneimittelgesetzes oder
+
+
+5.  bei der Behandlung mit Arzneimitteln, die Cephalosporine der dritten
+    oder vierten Generation oder Fluorchinolone enthalten.
+
+
+
+In den Fällen des Satzes 2 Nummer 4 und 5 ist ein Antibiogramm auch im
+Rahmen der Behandlung einzelner Tiere der Tierarten Rind, Schwein,
+Pferd, Hund oder Katze, ausgenommen herrenlose Katzen, zu erstellen,
+es sei denn, in den Fällen des Satzes 2 Nummer 5 liegen bereits im
+Rahmen tierärztlicher Bestandsbetreuung für die zu behandelnden
+Einzeltiere aussagekräftige, repräsentative Kenntnisse zur
+Resistenzlage vor, die die Notwendigkeit des Einsatzes von
+Arzneimitteln, die diese Wirkstoffgruppen enthalten, rechtfertigen.
+
+(2) Abweichend von Absatz 1 ist ein Antibiogramm nicht zu erstellen,
+wenn nach dem Stand der veterinärmedizinischen Wissenschaft
+
+1.  die Probenahme mit der Gefahr einer zusätzlichen Beeinträchtigung des
+    Gesundheitszustandes des zu behandelnden Tieres verbunden wäre,
+
+
+2.  der Erreger nicht mittels zellfreier künstlicher Medien kultiviert
+    werden kann, oder
+
+
+3.  für die Bestimmung der Empfindlichkeit des Erregers keine geeignete
+    Methode verfügbar ist.
+
+
+
+
+
+## § 12d Verfahren zu Probenahme, Isolierung bakterieller Erreger und Bestimmung der Empfindlichkeit
+
+Zur Erstellung eines Antibiogramms nach § 12c Absatz 1 hat der
+Tierarzt nach national oder international anerkannten Verfahren,
+soweit diese verfügbar sind,
+
+1.  Proben von den zu behandelnden Tieren zu entnehmen oder unter seiner
+    Aufsicht entnehmen zu lassen,
+
+
+2.  aus den Proben die die Erkrankung verursachenden bakteriellen Erreger
+    unter Berücksichtigung des Krankheitsbildes zu isolieren oder
+    isolieren zu lassen und
+
+
+3.  die isolierten bakteriellen Erreger auf ihre Empfindlichkeit gegen
+    antibakteriell wirksame Stoffe zu untersuchen oder untersuchen zu
+    lassen.
+
+
+
+Die Proben nach Satz 1 Nummer 1 müssen für die Isolierung der die
+Erkrankung verursachenden bakteriellen Erreger zur anschließenden
+Erstellung eines Antibiogramms geeignet sein. Bei der Beprobung einer
+Tiergruppe ist bei der Auswahl der Tiere darauf zu achten, dass sie
+repräsentativ für das klinische Bild der Erkrankung der zu
+behandelnden Tiergruppe sind.
+
+
+## § 13 Nachweise
 
 (1) Der Tierarzt hat über den Erwerb, die Prüfung, sofern sie über
 eine Sinnenprüfung hinausgeht, und den Verbleib der Arzneimittel in
-der jeweiligen tierärztlichen Hausapotheke, ferner über die
-Verschreibung von Fütterungsarzneimitteln sowie über die Herstellung
-von Arzneimitteln Nachweise zu führen. Bei der Anwendung von
-Arzneimitteln bei Tieren, die der Gewinnung von Lebensmitteln dienen,
-sowie bei der Abgabe von Arzneimitteln, die zur Anwendung bei diesen
-Tieren bestimmt sind, ist ein Nachweis auszufüllen, der mindestens
-folgende Angaben in übersichtlicher Weise enthält:
+der tierärztlichen Hausapotheke, ferner über die Verschreibung von
+Fütterungsarzneimitteln sowie über die Herstellung von Arzneimitteln
+Nachweise zu führen. Satz 1 gilt nicht für die Herstellung von
+Arzneimitteln, sofern diese ausschließlich aus dem Umfüllen, Abpacken
+oder Kennzeichnen von Arzneimitteln in unveränderter Form besteht.
 
-1.  Anwendungs- oder Abgabedatum,
+(2) Bei jeder Anwendung von Arzneimitteln bei Tieren, die der
+Gewinnung von Lebensmitteln dienen, und bei jeder Abgabe von
+Arzneimitteln, die zur Anwendung bei solchen Tieren bestimmt sind, ist
+vom Tierarzt ein Nachweis zu führen, der mindestens folgende Angaben
+in übersichtlicher Weise enthält:
+
+1.  Anwendungs- oder Abgabedatum, bei der Anwendung oder Abgabe von
+    Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, auch das
+    Untersuchungsdatum,
 
 
 2.  fortlaufende Belegnummer des Tierarztes im jeweiligen Jahr,
@@ -318,7 +449,10 @@ folgende Angaben in übersichtlicher Weise enthält:
 4.  Name und Anschrift des Tierhalters,
 
 
-5.  Anzahl, Art und Identität der Tiere,
+5.  Anzahl, Art, es sei denn, es erfolgt eine Angabe nach Satz 3 Nummer 1,
+    Identität und bei verschreibungspflichtigen Arzneimitteln, die nicht
+    ausschließlich zur lokalen Anwendung vorgesehen sind, das geschätzte
+    Gewicht der Tiere,
 
 
 6.  Arzneimittelbezeichnung,
@@ -331,8 +465,9 @@ folgende Angaben in übersichtlicher Weise enthält:
 
 
 
-Im Falle der Abgabe von Arzneimitteln muss der Nachweis zusätzlich
-folgende Angaben enthalten:
+Im Falle der Abgabe von Arzneimitteln bei Tieren, die der Gewinnung
+von Lebensmitteln dienen, muss der Nachweis zusätzlich folgende
+Angaben enthalten:
 
 1.  Diagnose,
 
@@ -348,22 +483,98 @@ folgende Angaben enthalten:
 
 
 
-Der Tierarzt hat dem Tierhalter den Nachweis unverzüglich
-auszuhändigen oder im Falle des Absatzes 3 Satz 2 unverzüglich zu
-übermitteln. Die Sätze 1 bis 4 gelten nicht für Arzneimittel, die für
-den Verkehr außerhalb der Apotheken freigegeben sind. Satz 1 gilt
-nicht für die Herstellung von Arzneimitteln, sofern diese
-ausschließlich aus dem Umfüllen, Abpacken oder Kennzeichnen von
-Arzneimitteln in unveränderter Form besteht. Satz 2 gilt nicht, sofern
-nach der Anwendung des Arzneimittels durch den Tierarzt die
-Dokumentation nach § 2 Satz 1 der Tierhalter-Arzneimittel-
-Nachweisverordnung unverzüglich vorgenommen wird und der Tierarzt die
-entsprechende Eintragung durch seine Unterschrift und die Angabe
-seiner Praxis bestätigt. Im Falle der elektronischen Nachweisführung
-ist die Authentizität der tierärztlichen Bestätigung nach Satz 7
-sicherzustellen.
+Im Falle der Behandlung von Tieren, für die nach § 58a Absatz 1 Satz 1
+des Arzneimittelgesetzes Mitteilungen über deren Haltung zu machen
+sind, mit Arzneimitteln, die antibakteriell wirksame Stoffe enthalten,
+muss der Nachweis zusätzlich folgende Angaben enthalten:
 
-(2) Als Nachweise im Sinne des Absatzes 1 Satz 1 gelten:
+1.  die Nutzungsart (Mastkälber bis zu einem Alter von acht Monaten,
+    Mastrinder ab einem Alter von acht Monaten, Ferkel bis einschließlich
+    30 Kilogramm, Mastschweine über 30 Kilogramm, Mastputen oder
+    Masthühner),
+
+
+2.  die für die Berechnung der Therapiehäufigkeit nach § 58c Absatz 1 des
+    Arzneimittelgesetzes notwendige Anzahl der Behandlungstage gemäß § 58b
+    Absatz 1 Nummer 3, gegebenenfalls ergänzt um die Anzahl der Tage, in
+    denen das betroffene Arzneimittel seinen therapeutischen
+    Wirkstoffspiegel gemäß § 58b Absatz 3 des Arzneimittelgesetzes behält
+    und
+
+
+3.  die dem Betrieb gemäß der Vieh-Verkehrs-Verordnung erteilte
+    Registriernummer.
+
+
+
+Der Tierarzt hat dem Tierhalter den Nachweis unverzüglich
+auszuhändigen oder im Falle des Absatzes 7 Satz 2 unverzüglich zu
+übermitteln. Satz 1 gilt nicht, sofern nach der Anwendung des
+Arzneimittels durch den Tierarzt die Dokumentation nach § 2 Satz 1 der
+Tierhalter-Arzneimittelanwendungs- und Nachweisverordnung unverzüglich
+vorgenommen wird und der Tierarzt die entsprechende Eintragung durch
+seine Unterschrift und die Angabe seiner Praxis bestätigt. Im Falle
+der elektronischen Nachweisführung ist die Authentizität der
+tierärztlichen Bestätigung nach Satz 5 sicherzustellen.
+
+(3) Bei der Anwendung von Arzneimitteln bei Tieren, die nicht der
+Gewinnung von Lebensmitteln dienen, und bei der Abgabe von
+Arzneimitteln, die zur Anwendung bei diesen Tieren bestimmt sind, ist
+vom Tierarzt ein Nachweis zu führen, der mindestens folgende Angaben
+in übersichtlicher Weise enthält:
+
+1.  Anwendungs- oder Abgabedatum, bei der Anwendung oder Abgabe von
+    Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, auch das
+    Untersuchungsdatum,
+
+
+2.  Name und Anschrift des Tierhalters,
+
+
+3.  Anzahl, Art und Identität der Tiere,
+
+
+4.  Arzneimittelbezeichnung und
+
+
+5.  angewendete oder abgegebene Menge des Arzneimittels.
+
+
+
+
+(4) Im Falle der Anwendung, Verschreibung oder Abgabe von
+Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, ist vom
+Tierarzt ein Nachweis zu führen, der zusätzlich die Diagnose enthält.
+Im Falle des § 12b Satz 2 ist vom Tierarzt ein Nachweis zu führen, der
+die Gründe enthält, warum die notwendige arzneiliche Versorgung der
+Tiere ernstlich gefährdet gewesen ist. Im Falle des § 12c Absatz 2 ist
+vom Tierarzt ein Nachweis zu führen, der die Gründe enthält, warum ein
+Antibiogramm nicht erstellt worden ist. Im Falle der Probenahme,
+Isolierung von bakteriellen Erregern und Untersuchung ihrer
+Empfindlichkeit gegenüber Stoffen mit antibakterieller Wirkung nach §
+12d Satz 1 ist vom Tierarzt ein Nachweis zu führen, der folgende
+Angaben enthalten muss:
+
+1.  Datum der Probenahme,
+
+
+2.  Name und Anschrift des Tierhalters, Identität der beprobten Tiere und
+    Probenmatrix,
+
+
+3.  Bezeichnung des verwendeten Tests,
+
+
+4.  Datum von Untersuchungsbeginn und -ende,
+
+
+5.  Befund: quantitatives Ergebnis und qualitative Bewertung der
+    Empfindlichkeitstestung.
+
+
+
+
+(5) Als Nachweise im Sinne von Absatz 1 Satz 1 gelten:
 
 1.  für den Erwerb die geordnete Zusammenstellung der Lieferscheine,
     Rechnungen oder Warenbegleitscheine, aus denen sich Lieferant, Art und
@@ -371,94 +582,96 @@ sicherzustellen.
     ergeben müssen,
 
 
-2.  für die Herstellung Aufzeichnungen in einem Herstellungsbuch oder auf
-    Karteikarten, aus denen das Datum der Herstellung, die Art und Menge
-    der hergestellten Arzneimittel und die zugrunde liegenden
+2.  für die Herstellung die Aufzeichnungen in einem Herstellungsbuch oder
+    auf Karteikarten, aus denen das Datum der Herstellung, die Art und
+    Menge der hergestellten Arzneimittel und die zugrunde liegenden
     Herstellungsvorschriften hervorgehen,
 
 
-3.  für die Prüfung Aufzeichnungen in einem Prüfungsbuch oder auf
+3.  für die Prüfung die Aufzeichnungen in einem Prüfungsbuch oder auf
     Karteikarten oder Prüfungsberichte, wenn die Prüfung nicht in der
     tierärztlichen Hausapotheke durchgeführt worden ist; die
     Aufzeichnungen müssen Angaben über Lieferant, Art und Menge der
     untersuchten Arzneimittel, über das Datum des Erwerbs oder der
-    Herstellung sowie über Ort, Art und Datum der Untersuchung enthalten,
-
-
-4.  für die
-
-    a)  Anwendung von Arzneimitteln bei Tieren, die der Gewinnung von
-        Lebensmitteln dienen, die Informationen nach Absatz 1 Satz 2,
-
-
-    b)  Abgabe von Arzneimitteln, die zur Anwendung bei solchen Tieren
-        bestimmt sind, die Informationen nach Absatz 1 Satz 2 und 3,
-
-
-    c)  Abgabe und Anwendung der übrigen Arzneimittel Aufzeichnungen im
-        Tagebuch der Praxis oder in der Patientenkartei über Art und Menge
-        sowie Name und Anschrift des Empfängers, wobei diese Eintragungen
-        gegenüber anderen Eintragungen besonders hervortreten müssen,
+    Herstellung sowie über Ort, Art und Datum der Untersuchung enthalten.
 
 
 
+Als Nachweis im Sinne des Absatzes 2 Satz 1 bis 3 gelten:
+
+1.  für die Anwendung von Arzneimitteln bei Tieren, die der Gewinnung von
+    Lebensmitteln dienen, die Angaben nach Absatz 2 Satz 1,
 
 
-4a. für die Verschreibung von Fütterungsarzneimitteln die beim Tierarzt
-    verbliebene Durchschrift der Verschreibung,
+2.  für die Abgabe von Arzneimitteln, die zur Anwendung bei Tieren im
+    Sinne der Nummer 1 bestimmt sind, die Angaben nach Absatz 2 Satz 1 und
+    2,
 
 
-5.  für den sonstigen Verbleib Aufzeichnungen in einem besonderen
-    Arzneimitteltagebuch oder auf Unterlagen nach den Nummern 1, 2 oder 4.
+3.  im Falle der Behandlung von Tieren, für die gemäß § 58a des
+    Arzneimittelgesetzes Mitteilungen über deren Haltung zu machen sind,
+    mit Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, die
+    Angaben nach Absatz 2 Satz 1 bis 3.
 
 
 
+Als Nachweis im Sinne des Absatzes 3 gelten für die Abgabe und
+Anwendung von Arzneimitteln bei Tieren, die nicht der Gewinnung von
+Lebensmitteln dienen, Aufzeichnungen im Tagebuch der Praxis oder in
+der Patientenkartei über die Angaben nach Absatz 3, wobei diese
+Eintragungen gegenüber anderen Eintragungen besonders hervortreten
+müssen. Als Nachweis für die Verschreibung von Fütterungsarzneimitteln
+gilt die beim Tierarzt verbliebene Durchschrift der Verschreibung. Als
+Nachweis für den sonstigen Verbleib gelten Aufzeichnungen in einem
+besonderen Arzneimitteltagebuch oder auf Unterlagen nach Satz 1 Nummer
+1 oder 2 oder Satz 2. Als Nachweise im Sinne von Absatz 4 gelten
+Aufzeichnungen im Tagebuch der Praxis oder in der Patientenkartei.
 
-(2a) Die zuständige Behörde kann anordnen, dass der Tierarzt für
-Arzneimittel, die für den Verkehr außerhalb von Apotheken nicht
-freigegebene Stoffe oder Zubereitungen aus Stoffen enthalten oder auf
-Grund ihres Verabreichungsweges oder ihrer Indikation
-apothekenpflichtig sind, weitergehende Nachweise zu führen hat, wenn
+(6) Die zuständige Behörde kann anordnen, dass der Tierarzt für
+Arzneimittel, die bei Tieren, die der Gewinnung von Lebensmitteln
+dienen, angewendet oder abgegeben werden, weitergehende Nachweise zu
+führen hat. Satz 1 gilt in den folgenden Fällen:
 
-1.  ihr Tatsachen bekannt sind, die darauf schließen lassen, dass
-    Vorschriften über den Verkehr mit Arzneimitteln nicht beachtet worden
-    sind, oder
+1.  Der zuständigen Behörde sind Tatsachen bekannt, die darauf schließen
+    lassen, dass Vorschriften über den Verkehr mit Arzneimitteln,
+    einschließlich Verschreibung oder Anwendung von Arzneimitteln, nicht
+    beachtet worden sind, oder
 
 
-2.  die vorgelegten Unterlagen nach Absatz 2 den Nachweis über den
-    ordnungsgemäßen Bezug und den Verbleib der Arzneimittel nicht
-    erlauben.
+2.  die vorgelegten Unterlagen nach Absatz 5 erlauben nicht den Nachweis
+    über den ordnungsgemäßen Bezug und den Verbleib der Arzneimittel.
 
 
 
 Die Nachweise nach Satz 1 müssen zeitlich geordnet die Menge des
 Bezuges unter Angabe des oder der Lieferanten und die Menge der Abgabe
-erkennen lassen. Aus den Nachweisen über die Abgabe müssen ferner das
-Untersuchungsdatum, Art, Zahl und Alter der behandelten Tiere, Name
-und Adresse des Tierhalters, die Diagnose, das verabreichte oder
-abgegebene Arzneimittel sowie dessen Chargenbezeichnung, die
-verabreichte oder verordnete Dosis pro Tier und Tag sowie die Dauer
-der Anwendung der Arzneimittel und der einzuhaltenden Wartezeiten
-ersichtlich sein.
+erkennen lassen.
 
-(3) Die Nachweise sind in übersichtlicher und allgemein verständlicher
-Form zu führen und mindestens fünf Jahre aufzubewahren und der
-zuständigen Behörde auf Verlangen vorzulegen. Sie können auch als
-elektronisches Dokument geführt und aufbewahrt werden. Bei der
-Aufbewahrung der Nachweise als elektronisches Dokument muss
-insbesondere sichergestellt sein, dass die Daten während der
-Aufbewahrungszeit jederzeit lesbar gemacht werden können und
-unveränderlich sind. Im Falle der Übermittlung des Nachweises nach
-Absatz 1 Satz 2 an den Tierhalter in elektronischer Form ist die
+(7) Die Nachweise sind vom Tierarzt in übersichtlicher und allgemein
+verständlicher Form zu führen, mindestens fünf Jahre ab dem Zeitpunkt
+ihrer Erstellung aufzubewahren und der zuständigen Behörde auf
+Verlangen vorzulegen. Sie können auch als elektronisches Dokument
+geführt und aufbewahrt werden. Bei der Aufbewahrung der Nachweise als
+elektronisches Dokument muss sichergestellt sein, dass die Daten
+während der Aufbewahrungszeit jederzeit lesbar gemacht werden können
+und unveränderlich sind. Im Falle der Übermittlung des Nachweises nach
+Absatz 2 Satz 1 an den Tierhalter in elektronischer Form ist die
 Authentizität der Daten sicherzustellen. Die Nachweise sind der
-Behörde zeitlich und im Falle des Absatzes 2 Nr. 4 und 4a auf
-Verlangen nach Tierhaltern geordnet vorzulegen.
+Behörde zeitlich und im Falle des Absatzes 5 Satz 2 und 4 auf
+Verlangen nach Tierhaltern geordnet vorzulegen. Nach Ablauf der in
+Satz 1 genannten Frist sind die Daten nach § 13 Absatz 2 Satz 1 Nummer
+4 und § 13 Absatz 3 Nummer 2 zu löschen, wenn sie für die
+Zweckerfüllung nicht mehr erforderlich sind.
 
-(4) Mindestens einmal jährlich hat der Tierarzt im Rahmen einer
+(8) Mindestens einmal jährlich hat der Tierarzt im Rahmen einer
 Prüfung die Ein- und Ausgänge gegen die vorhandenen Bestände
-verschreibungspflichtiger Arzneimittel in der jeweiligen
-tierärztlichen Hausapotheke aufzurechnen und etwaige Abweichungen
-festzustellen.
+verschreibungspflichtiger Arzneimittel in der tierärztlichen
+Hausapotheke aufzurechnen und etwaige Abweichungen festzustellen. Das
+Datum und das Ergebnis der Prüfung sind zu dokumentieren.
+
+(9) Absatz 1 Satz 1, Absatz 2 Satz 1, 2 und 4, Absatz 3 und Absatz 6
+Satz 1 gelten nicht für Arzneimittel, die für den Verkehr außerhalb
+der Apotheken freigegeben sind.
 
 
 ## § 13a Verschreibung von Arzneimitteln
@@ -477,6 +690,13 @@ bestimmt sind, die der Gewinnung von Lebensmitteln dienen, verbleibt
 das zweite Doppel beim Tierarzt. Das Doppel ist vom Tierarzt zeitlich
 geordnet mindestens fünf Jahre aufzubewahren und der zuständigen
 Behörde auf Verlangen vorzulegen.
+
+(3) Arzneimittel, die für den Verkehr außerhalb der Apotheken nicht
+freigegebene Stoffe oder Zubereitungen aus Stoffen enthalten oder auf
+Grund ihres Verabreichungsweges oder ihrer Indikation
+apothekenpflichtig sind, dürfen von Tierärzten an Tierhalter nur im
+Rahmen einer ordnungsgemäßen Behandlung von Tieren oder Tierbeständen
+verschrieben werden.
 
 
 ## § 14 Apotheken der tierärztlichen Bildungsstätten
@@ -530,15 +750,30 @@ Bildungsstätte
     rechtzeitig hinweisen lässt,
 
 
-8.  entgegen § 13 Abs. 1 Satz 1 oder 4 oder Abs. 3 Satz 1 einen Nachweis
-    nicht, nicht richtig oder nicht vollständig führt, nicht oder nicht
-    rechtzeitig aushändigt, nicht oder nicht rechtzeitig übermittelt,
-    nicht oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder
-    nicht rechtzeitig vorlegt oder
+8.  entgegen § 12b Satz 1 Arzneimittel abgibt, verschreibt oder anwendet,
 
 
-9.  entgegen § 13a Abs. 2 Satz 3 das Doppel nicht oder nicht mindestens
-    fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
+9.  entgegen § 12c Absatz 1 Satz 1, auch in Verbindung mit Satz 3, oder §
+    12d Satz 1 Nummer 3 die Empfindlichkeit der Erreger nicht, nicht
+    richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig
+    untersucht oder nicht, nicht richtig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig untersuchen lässt,
+
+
+10. entgegen § 13 Absatz 1 Satz 1, Absatz 2 Satz 1, auch in Verbindung mit
+    Satz 2 oder 3, Absatz 3 oder 4 einen Nachweis nicht, nicht richtig
+    oder nicht vollständig führt,
+
+
+11. entgegen § 13 Absatz 2 Satz 4 einen Nachweis nicht, nicht richtig oder
+    nicht rechtzeitig aushändigt oder nicht, nicht richtig oder nicht
+    rechtzeitig übermittelt oder
+
+
+12. entgegen § 13 Absatz 7 Satz 1 oder § 13a Absatz 2 Satz 3 einen
+    Nachweis oder ein Doppel nicht oder nicht mindestens fünf Jahre
+    aufbewahrt oder nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt.
 
 
 
@@ -675,11 +910,10 @@ I Eigenhändige Unterschrift des Herstellers:
 ............................ I
 I---------------------------------------------------------------------
 ----I
-Hinweis für den **Tierarzt:**                    Original und 1.
-Durchschrift an Hersteller,
+Hinweis für den **Tierarzt:**   Original und 1. Durchschrift an
+Hersteller,
 2\. Durchschrift verbleibt beim Tierarzt.
-Hinweis für den **Hersteller:**                  Original verbleibt
-beim Hersteller,
+Hinweis für den **Hersteller:** Original verbleibt beim Hersteller,
 Durchschrift mit Fütterungsarzneimittel an Tierhalter.
 
 
@@ -796,8 +1030,8 @@ I    Eigenhändige Unterschrift des Herstellers:
 ......................... I
 I---------------------------------------------------------------------
 ----I
-I                 Von der für die arzneimittelrechtliche Überwachung
-des Herstellers      I
+IVon der für die arzneimittelrechtliche Überwachung des Herstellers
+I
 **I zuständigen Behörde auszufüllen**
 I
 I---------------------------------------------------------------------
@@ -816,10 +1050,9 @@ I                                                 (Name,
 Amtsbezeichnung) I
 ----------------------------------------------------------------------
 -----
-Hinweis für den **Tierarzt:**                    Original und 1.
-Durchschrift an Hersteller,
+Hinweis für den **Tierarzt:**   Original und 1. Durchschrift an
+Hersteller,
 2\. Durchschrift verbleibt beim Tierarzt.
-Hinweis für den **Hersteller:**                  Original verbleibt
-beim Hersteller,
+Hinweis für den **Hersteller:** Original verbleibt beim Hersteller,
 Durchschrift mit Fütterungsarzneimittel an Tierhalter.
 

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 6.7.1998 I 1791;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 22.12.2011 I 3069
+:   Art. 1 G v. 23.12.2016 I 3188
 
 
 ## § 1 Anwendungsbereich
@@ -158,27 +158,26 @@ sowie in den Bereichen der gemeinsamen Marktorganisation für
 Fischereierzeugnisse der Europäischen Union und der Strukturpolitik
 der Europäischen Union für die Fischwirtschaft, bleiben unberührt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates auf Antrag eines Landes die Zuständigkeit
-der Bundesanstalt zur Überwachung der Seefischerei nach Absatz 1 in
-Verbindung mit Nummer 1 der Anlage auf das in Satz 2 bezeichnete
-Gebiet des antragstellenden Landes auszudehnen, soweit dies für eine
-einheitliche Überwachungstätigkeit förderlich ist. Das Gebiet im Sinne
-des Satzes 1 ist durch die seewärtige Grenze des Küstenmeeres
-landwärts bis zu einer Linie, die drei Seemeilen von der Basislinie
-entfernt ist, bestimmt.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates auf
+Antrag eines Landes die Zuständigkeit der Bundesanstalt zur
+Überwachung der Seefischerei nach Absatz 1 in Verbindung mit Nummer 1
+der Anlage auf das in Satz 2 bezeichnete Gebiet des antragstellenden
+Landes auszudehnen, soweit dies für eine einheitliche
+Überwachungstätigkeit förderlich ist. Das Gebiet im Sinne des Satzes 1
+ist durch die seewärtige Grenze des Küstenmeeres landwärts bis zu
+einer Linie, die drei Seemeilen von der Basislinie entfernt ist,
+bestimmt.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Zuständigkeit der Bundesanstalt auf
-eine in der Rechtsverordnung näher zu bezeichnende Aufgabe im Rahmen
-des Fischereirechts der Europäischen Union auszudehnen, soweit dies
-für eine einheitliche Anwendung und Durchsetzung des Fischereirechts
-der Europäischen Union förderlich ist und die zusätzliche Aufgabe in
-einem sachlichen Zusammenhang zu einer von der Bundesanstalt nach
-Absatz 1 in Verbindung mit der Anlage oder nach § 6 wahrzunehmenden
-Aufgabe steht.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Zuständigkeit der Bundesanstalt auf eine in der Rechtsverordnung näher
+zu bezeichnende Aufgabe im Rahmen des Fischereirechts der Europäischen
+Union auszudehnen, soweit dies für eine einheitliche Anwendung und
+Durchsetzung des Fischereirechts der Europäischen Union förderlich ist
+und die zusätzliche Aufgabe in einem sachlichen Zusammenhang zu einer
+von der Bundesanstalt nach Absatz 1 in Verbindung mit der Anlage oder
+nach § 6 wahrzunehmenden Aufgabe steht.
 
 (6) Bei Festlegung von Art und Umfang der Maßnahmen zur Überwachung
 der Einhaltung von fischereilichen Rechtsvorschriften, die unmittelbar
@@ -188,6 +187,24 @@ dienen, beteiligt die Bundesanstalt das Bundesamt für Naturschutz. Die
 Ergebnisse der Überwachung sind dem Bundesamt für Naturschutz zu
 übermitteln, soweit dies für dessen Aufgabenerfüllung nach Satz 1
 erforderlich ist.
+
+(7) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Behörden der Zollverwaltung oder der Bundespolizei ganz oder teilweise
+die Überwachung und Unterstützung der Seefischerei (Fischereiaufsicht)
+seewärts der äußeren Begrenzung des Küstenmeeres der Bundesrepublik
+Deutschland zu übertragen und dabei die Zusammenarbeit mit der
+Bundesanstalt zu regeln. Rechtsverordnungen nach Satz 1 bedürfen im
+Falle der Zollverwaltung des Einvernehmens des Bundesministeriums der
+Finanzen und im Falle der Bundespolizei des Einvernehmens des
+Bundesministeriums des Innern. In der Rechtsverordnung nach Satz 1
+kann die Fischereiaufsicht auch auf das in einer Rechtsverordnung nach
+Absatz 4 bezeichnete Gebiet nach Anhörung des jeweiligen Landes
+übertragen werden. Soweit Behörden der Zollverwaltung oder der
+Bundespolizei Aufgaben nach Satz 1 übertragen werden, unterstehen sie
+der Fachaufsicht des Bundesministeriums für Ernährung und
+Landwirtschaft. Die Zuständigkeiten und Befugnisse der Bundesanstalt
+bleiben unberührt.
 
 
 ## § 3 Fangerlaubnisse
@@ -201,8 +218,8 @@ erteilt. Die Fangerlaubnis darf nur versagt werden, wenn
 1.  die Antragsfrist versäumt und die verfügbare Fangmenge verteilt ist,
 
 
-2.  die zuletzt erteilte Fangerlaubnis erheblich überschritten oder
-    mißbraucht worden ist oder
+2.  eine der drei zuletzt erteilten Fangerlaubnisse erheblich
+    überschritten oder mißbraucht worden ist oder
 
 
 3.  Tatsachen die Annahme rechtfertigen, daß der Antragsteller die
@@ -215,9 +232,9 @@ Seefischerei mit Fischereifahrzeugen ausüben will, die bereits in den
 Jahren 1986 oder 1987 auf Grund einer Fangerlaubnis betrieben wurden
 oder deren Bau oder Anschaffung mit Mitteln des Bundes oder der Länder
 gefördert wurde oder wird. Abweichend von Satz 4 kann eine
-Fangerlaubnis mit Zustimmung des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz für den Betrieb eines
-Fischereifahrzeuges erteilt werden,
+Fangerlaubnis mit Zustimmung des Bundesministeriums für Ernährung und
+Landwirtschaft für den Betrieb eines Fischereifahrzeuges erteilt
+werden,
 
 1.  für das die Befugnis zum Führen der Bundesflagge gemäß § 11 Abs. 1 des
     Flaggenrechtsgesetzes verliehen wurde,
@@ -240,9 +257,11 @@ Fischereifahrzeuges erteilt werden,
 
 
 
-Die Fangerlaubnis darf mit den Nebenbestimmungen versehen werden, die
-im fischereilichen Interesse oder zur Durchführung des Fischereirechts
-der Europäischen Union erforderlich sind.
+Die Fangerlaubnis darf mit der Auflage versehen werden, dass die
+Fangdaten je Hol in das Logbuch einzutragen sind. Sie darf mit den
+Nebenbestimmungen versehen werden, die im fischereilichen Interesse
+oder zur Durchführung des Fischereirechts der Europäischen Union
+erforderlich sind.
 
 (2) Bei der Bemessung der Zuteilungen soll der Leistungsfähigkeit und
 Eignung der Fischereibetriebe, ihrer bisherigen Teilnahme an der
@@ -266,10 +285,9 @@ der Sammelerlaubnis Fangerlaubnisse nach Maßgabe des Absatzes 1 zu
 erteilen. Die beauftragten Stellen unterliegen insoweit der
 Fachaufsicht der Bundesanstalt.
 
-(5) Soweit die Bundesanstalt Fangerlaubnisse erteilt oder deren
-Erteilung ablehnt oder unterläßt, gilt als Sitz der Bundesanstalt für
-die Zuständigkeit des Verwaltungsgerichts der Dienstort ihrer
-Außenstelle Hamburg.
+(5) Abweichend von § 52 der Verwaltungsgerichtsordnung ist für
+sämtliche Streitigkeiten, die Fangerlaubnisse betreffen, das
+Verwaltungsgericht Hamburg örtlich zuständig.
 
 
 ## § 4 Ausübung der Seefischerei durch Fahrzeuge, die nicht berechtigt sind, die Bundesflagge zu führen
@@ -336,11 +354,11 @@ Wirtschaftszone durch Kontrollbeamte dieses Mitgliedstaats.
 
 ## § 7 Automatisches Schiffsidentifizierungssystem
 
-Soweit den für die Verkehrslenkung zuständigen Behörden Daten aus dem
-Automatischen Schiffsidentifizierungssystem zur Verfügung stehen, sind
-diese verpflichtet, die Daten der Bundesanstalt und den für Fischerei
-zuständigen Behörden der Länder zu Prüfzwecken auf Anfrage zu
-übermitteln.
+Soweit den Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes Schiffsverkehrsdaten, insbesondere Daten aus dem Automatischen
+Schiffsidentifizierungssystem, zur Verfügung stehen, sind die für die
+Fischereiaufsicht zuständigen Behörden berechtigt, sich zu Prüfzwecken
+auf Anfrage diese Daten übermitteln zu lassen.
 
 
 ## § 8 Unionsinspektoren
@@ -491,10 +509,20 @@ zu ergreifen. Das Punktesystem gilt für
 
 
 
-Die Punkte werden für jeden schweren Verstoß durch die für das
-Bußgeld- oder Strafverfahren zuständige Behörde festgesetzt und dies
-der Bundesanstalt zur Eintragung in die nationale Verstoßdatei nach §
-14 unverzüglich mitgeteilt.
+Die Punkte werden für jeden schweren Verstoß
+
+1.  im Fall des Inhabers einer Fanglizenz durch die Bundesanstalt,
+
+
+2.  im Fall des Kapitäns eines Fischereifahrzeugs durch die für das
+    Bußgeld- oder Strafverfahren zuständige Behörde
+
+
+
+festgesetzt. Die nach Satz 3 Nummer 2 zuständige Behörde hat
+unverzüglich die festgesetzten Punkte unter Angabe des Verstoßes der
+Bundesanstalt zur Eintragung in die nach § 14 errichtete nationale
+Verstoßdatei mitzuteilen.
 
 (2) Die näheren Einzelheiten zum Punktesystem in den Fällen des
 Absatzes 1 Satz 2 Nummer 1, einschließlich der für einen schweren
@@ -551,21 +579,21 @@ Straftat oder die bestandskräftige oder rechtskräftige Entscheidung
 
 
 
-als unzuverlässig im Sinne der Vorschriften über den Erwerb von
-Befähigungszeugnissen für den nautischen Dienst auf
-Fischereifahrzeugen nach den §§ 7 und 8 der Schiffsoffizier-
-Ausbildungsverordnung. Das Bundesamt für Seeschifffahrt und
-Hydrographie ordnet für den jeweiligen Zeitraum das Ruhen des
-Befähigungszeugnisses an. Der Kapitän hat das Befähigungszeugnis dem
-Bundesamt für Seeschifffahrt und Hydrographie unverzüglich zu
-übergeben. Die Erteilung oder Wiedererteilung eines
-Befähigungszeugnisses niedrigerer oder gleicher Ordnung nach § 4 der
-Schiffsoffizier-Ausbildungsverordnung ist für die Dauer des Ruhens
-nicht zulässig; die Erteilung oder Wiedererteilung eines
-Befähigungszeugnisses nach den §§ 3 und 5 der Schiffsoffizier-
-Ausbildungsverordnung ist zulässig. Ein Befähigungszeugnis nach den §§
-3 und 5 der Schiffsoffizier-Ausbildungsverordnung ist auf Antrag zu
-erteilen oder wiederzuerteilen, soweit die Voraussetzungen für die
+als unzuverlässig im Sinne der seeschifffahrtsrechtlichen Vorschriften
+über den Erwerb der Befähigungszeugnisse für nautische
+Schiffsoffiziere. Das Bundesamt für Seeschifffahrt und Hydrographie
+ordnet für den jeweiligen Zeitraum das Ruhen des Befähigungszeugnisses
+an. Der Kapitän hat das Befähigungszeugnis dem Bundesamt für
+Seeschifffahrt und Hydrographie unverzüglich zu übergeben. Die
+Erteilung oder Wiedererteilung eines Befähigungszeugnisses niedrigerer
+oder gleicher Ordnung für den nautischen Schiffsdienst auf
+Fischereifahrzeugen ist für die Dauer des Ruhens nicht zulässig; die
+Erteilung oder Wiedererteilung eines Befähigungszeugnisses für den
+nautischen oder technischen Schiffsdienst auf anderen
+Kauffahrteischiffen als Fischereifahrzeugen ist zulässig. Ein
+Befähigungszeugnis für den nautischen oder technischen Schiffsdienst
+auf anderen Kauffahrteischiffen als Fischereifahrzeugen ist auf Antrag
+zu erteilen oder wiederzuerteilen, soweit die Voraussetzungen für die
 Erteilung oder Wiedererteilung vorliegen. Nach dem Ablauf der sich aus
 Satz 1, auch in Verbindung mit Satz 7, ergebenden Frist werden alle
 Punkte unverzüglich gelöscht, wenn innerhalb der Frist keine weiteren
@@ -573,27 +601,37 @@ Punkte gegen ihn festgesetzt worden sind. Anderenfalls verlängert sich
 die Frist und das Ruhen des Befähigungszeugnisses je Punkt um einen
 weiteren Monat.
 
-(5) Abweichend von Absatz 4 und über § 8 Absatz 2 Satz 1 der
-Schiffsoffizier-Ausbildungsverordnung hinaus gilt der Kapitän eines
-Fischereifahrzeugs, der zum fünften Mal 18 Punkte oder mehr erreicht
-hat, als persönlich ungeeignet für den Erwerb oder den Besitz eines
-Befähigungszeugnisses für den nautischen Dienst auf
-Fischereifahrzeugen. Das Bundesamt für Seeschifffahrt und Hydrographie
-hat das Befähigungszeugnis zu entziehen; im Übrigen ist § 23 Absatz 5
-und 6 der Schiffsoffizier-Ausbildungsverordnung anzuwenden. Ist die
-Entziehung des Befähigungszeugnisses infolge der Unzuverlässigkeit
+(5) Abweichend von Absatz 4 und über das Vorliegen der persönlichen
+Unzuverlässigkeit nach den seeschifffahrtsrechtlichen Vorschriften
+über den Erwerb der Befähigungszeugnisse für nautische
+Schiffsoffiziere hinaus gilt der Kapitän eines Fischereifahrzeugs, der
+zum fünften Mal 18 Punkte oder mehr erreicht hat, als persönlich
+ungeeignet für den Erwerb oder den Besitz eines Befähigungszeugnisses
+für den nautischen Schiffsdienst auf Fischereifahrzeugen. Das
+Bundesamt für Seeschifffahrt und Hydrographie hat das
+Befähigungszeugnis zu entziehen; im Übrigen sind die
+seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
+Befähigungszeugnisse für nautische Schiffsoffiziere hinsichtlich des
+Erlöschens und der Übergabe des erloschenen Befähigungszeugnisses und
+des Eintrages in das Seeleute-Befähigungs-Verzeichnis anzuwenden. Ist
+die Entziehung des Befähigungszeugnisses infolge der Unzuverlässigkeit
 bestandskräftig angeordnet worden, werden alle Punkte unverzüglich
-gelöscht. Ein Befähigungszeugnis darf, unbeschadet der Vorschriften
-der Schiffsoffizier-Ausbildungsverordnung, frühestens ein Jahr nach
-Wirksamkeit der Entziehung wiedererteilt werden. Die Frist beginnt mit
-der Übergabe des Befähigungszeugnisses nach § 23 Absatz 5 Satz 2 der
-Schiffsoffizier-Ausbildungsverordnung. Die Erteilung oder
-Wiedererteilung eines Befähigungszeugnisses nach den §§ 3 und 5 der
-Schiffsoffizier-Ausbildungsverordnung ist ungeachtet der Regelungen
-nach den Sätzen 1 bis 5 zulässig. Ein Befähigungszeugnis nach den §§ 3
-und 5 der Schiffsoffizier-Ausbildungsverordnung ist auf Antrag zu
-erteilen oder wiederzuerteilen, soweit die Voraussetzungen für die
-Erteilung oder Wiedererteilung vorliegen.
+gelöscht. Ein Befähigungszeugnis darf, unbeschadet der
+seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
+Befähigungszeugnisse für nautische Schiffsoffiziere, frühestens ein
+Jahr nach Wirksamkeit der Entziehung wiedererteilt werden. Die Frist
+beginnt mit der Übergabe des Befähigungszeugnisses nach den
+seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
+Befähigungszeugnisse für nautische Schiffsoffiziere an das Bundesamt
+für Seeschifffahrt und Hydrographie. Die Erteilung oder
+Wiedererteilung eines Befähigungszeugnisses für den nautischen oder
+technischen Schiffsdienst auf anderen Kauffahrteischiffen als
+Fischereifahrzeugen ist ungeachtet der Regelungen nach den Sätzen 1
+bis 5 zulässig. Ein Befähigungszeugnis für den nautischen oder
+technischen Schiffsdienst auf anderen Kauffahrteischiffen als
+Fischereifahrzeugen ist auf Antrag zu erteilen oder wiederzuerteilen,
+soweit die Voraussetzungen für die Erteilung oder Wiedererteilung
+vorliegen.
 
 (6) Wenn gegen den Kapitän eines Fischereifahrzeugs, der noch nicht
 mindestens 18 Punkte erreicht hat, nach der letzten Entscheidung über
@@ -628,13 +666,15 @@ nach § 14 zur Verfügung.
 
 (8) Begeht ein Kapitän, der über ein Befähigungszeugnis eines anderen
 Mitgliedstaats der Europäischen Union oder eines Drittlands und über
-einen Anerkennungsvermerk nach § 21 Absatz 2 der Schiffsoffizier-
-Ausbildungsverordnung verfügt, einen schweren Verstoß gegen die
+einen Anerkennungsvermerk nach den seeschifffahrtsrechtlichen
+Vorschriften über den Erwerb der Befähigungszeugnisse für nautische
+Schiffsoffiziere verfügt, einen schweren Verstoß gegen die
 Vorschriften der Gemeinsamen Fischereipolitik, gelten Absatz 1 Satz 1,
-2 Nummer 2 und Satz 3 sowie die Absätze 3 bis 7 mit der Maßgabe, dass
-an die Stelle des Befähigungszeugnisses der Anerkennungsvermerk nach §
-21 Absatz 2 der Schiffsoffizier-Ausbildungsverordnung tritt. Begeht
-ein Kapitän eines Fischereifahrzeugs, das die Flagge eines anderen
+2 Nummer 2 und Satz 3 und 4 sowie die Absätze 3 bis 7 mit der Maßgabe,
+dass an die Stelle des Befähigungszeugnisses der Anerkennungsvermerk
+nach den seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
+Befähigungszeugnisse für nautische Schiffsoffiziere tritt. Begeht ein
+Kapitän eines Fischereifahrzeugs, das die Flagge eines anderen
 Mitgliedstaats der Europäischen Union oder eines Drittlands führt, bei
 Ausübung der Seefischerei im Küstenmeer oder in der Ausschließlichen
 Wirtschaftszone einen schweren Verstoß gegen die Vorschriften der
@@ -687,13 +727,35 @@ gespeichert, wenn die Verstöße
 Die Gerichte, Staatsanwaltschaften und die Fischereiaufsichtsbehörden
 des Bundes und der Länder übermitteln der Bundesanstalt unverzüglich
 die nach Satz 2 zu speichernden oder zu einer Änderung oder Löschung
-einer Eintragung führenden Daten. Eine Eintragung wird nach Ablauf von
-drei Kalenderjahren ab dem auf das Jahr ihrer Aufzeichnung folgenden
-Jahr unverzüglich gelöscht. Eine Eintragung in Zusammenhang mit einer
-Straftat wird abweichend von Satz 4 nach fünf Jahren unverzüglich
-gelöscht.
+einer Eintragung führenden Daten. Die Bundesanstalt trägt die ihr nach
+Satz 3, auch in Verbindung mit § 13 Absatz 1 Satz 3 Nummer 2,
+mitgeteilten Daten und die von ihr im Rahmen einer Festsetzung nach §
+13 Absatz 1 Satz 3 Nummer 1 zu speichernden oder zu einer Änderung
+oder Löschung einer Eintragung führenden Daten im Sinne des Satzes 2
+in die nationale Verstoßdatei ein. Die für die Fischereiaufsicht
+zuständigen Behörden des Bundes und der Länder können in die nationale
+Verstoßdatei Einsicht nehmen und die Daten im Rahmen von
+Ordnungswidrigkeitenverfahren und Verfahren zur Punktefestsetzung nach
+§ 13 nutzen.
 
-(2) Die Bundesanstalt ist befugt, in der nationalen Verstoßdatei die
+(2) Soweit das Löschen der in der Verstoßdatei gespeicherten Daten
+nicht in unmittelbar geltenden Rechtsakten der Europäischen Union über
+die Einführung einer gemeinschaftlichen Kontrollregelung zur
+Sicherstellung der Einhaltung der Vorschriften der gemeinsamen
+Fischereipolitik geregelt ist, wird eine Eintragung
+
+1.  in Zusammenhang mit einer Straftat nach Ablauf von fünf Jahren ab dem
+    auf das Jahr ihrer Aufzeichnung folgenden Jahr,
+
+
+2.  in allen übrigen Fällen nach Ablauf von drei Kalenderjahren ab dem auf
+    das Jahr ihrer Aufzeichnung folgenden Jahr
+
+
+
+unverzüglich gelöscht.
+
+(3) Die Bundesanstalt ist befugt, in der nationalen Verstoßdatei die
 folgenden Daten zu erheben und zu speichern:
 
 1.  Familienname, Vornamen, Geburtsname, Geburtsdatum und -ort, Adresse,
@@ -703,10 +765,10 @@ folgenden Daten zu erheben und zu speichern:
 
 
 3.  Art und Registernummer des Befähigungszeugnisses für den nautischen
-    Dienst auf Fischereifahrzeugen oder des Anerkennungsvermerks, Datum
-    der Erteilung und Gültigkeitsdauer, mit dem Befähigungszeugnis oder
-    Anerkennungsvermerk verbundene Befugnisse einschließlich eventueller
-    Beschränkungen,
+    Schiffsdienst auf Fischereifahrzeugen oder des Anerkennungsvermerks,
+    Datum der Erteilung und Gültigkeitsdauer, mit dem Befähigungszeugnis
+    oder Anerkennungsvermerk verbundene Befugnisse einschließlich
+    eventueller Beschränkungen,
 
 
 4.  Angaben zum Befähigungszeugnis eines anderen Mitgliedstaats der
@@ -755,23 +817,113 @@ folgenden Daten zu erheben und zu speichern:
 
 12. rechtskräftige oder bestandskräftige Entscheidungen einer Behörde über
     das Ruhen, die Entziehung oder die Wiedererteilung eines
-    Befähigungszeugnisses für den nautischen Dienst auf
-    Fischereifahrzeugen oder eines Anerkennungsvermerks nach § 21 Absatz 2
-    der Schiffsoffizier-Ausbildungsverordnung, Nebenbestimmungen, Datum
-    der Rechtskraft oder Bestandskraft der Entscheidung.
+    Befähigungszeugnisses für den nautischen Schiffsdienst auf
+    Fischereifahrzeugen oder eines Anerkennungsvermerks nach den
+    seeschifffahrtsrechtlichen Vorschriften über den Erwerb der
+    Befähigungszeugnisse für nautische Schiffsoffiziere,
+    Nebenbestimmungen, Datum der Rechtskraft oder Bestandskraft der
+    Entscheidung.
 
 
 
+
+
+## § 14a Antrag auf schriftliche Auskunft über Inhalte der nationalen Verstoßdatei
+
+(1) Die Bundesanstalt erteilt jeder Person auf Antrag eine
+schriftliche Auskunft über den sie betreffenden Inhalt der nationalen
+Verstoßdatei. Hat der Betroffene einen gesetzlichen Vertreter, so ist
+auch dieser antragsberechtigt. Ist der Betroffene geschäftsunfähig, so
+ist nur sein gesetzlicher Vertreter antragsberechtigt.
+
+(2) Der Antrag ist bei der Bundesanstalt über die nach Landesrecht
+zuständige Behörde zu stellen. Sofern der Antragsteller nicht
+persönlich erscheint, kann der Antrag schriftlich mit amtlich oder
+öffentlich beglaubigter Unterschrift des Antragstellers gestellt
+werden. Der Antragsteller hat seine Identität und, wenn er als
+gesetzlicher Vertreter handelt, seine Vertretungsmacht nachzuweisen.
+Der Antragssteller und sein gesetzlicher Vertreter können sich bei der
+Antragstellung nicht durch einen Bevollmächtigten vertreten lassen.
+
+(3) Die Übersendung der Auskunft an eine andere Person als den
+Betroffenen oder seinen Vertreter im Sinne des Absatzes 1 Satz 2 oder
+3 ist nicht zulässig.
+
+(4) Wird die Auskunft zur Vorlage bei einer Behörde beantragt, so ist
+sie dieser Behörde unmittelbar zu übersenden. Die Behörde hat dem
+Antragsteller auf Verlangen Einsicht in die Auskunft zu gewähren. Der
+Antragsteller kann verlangen, dass die Auskunft, wenn sie Eintragungen
+enthält, zunächst an eine von ihm benannte Behörde, die nicht die
+Behörde ist, der die Auskunft vorzulegen ist, zur Einsichtnahme durch
+ihn übersandt wird. Der Antragsteller ist bei Antragstellung auf diese
+Möglichkeit hinzuweisen. Die benannte Behörde darf die Einsicht nur
+dem Antragsteller persönlich gewähren. Nach Einsichtnahme ist die
+Auskunft an die Behörde, der die Auskunft vorzulegen ist,
+weiterzuleiten oder, soweit der Antragsteller dem widerspricht, von
+der benannten Behörde zu vernichten.
+
+(5) Wohnt der Antragsteller außerhalb des Geltungsbereichs dieses
+Gesetzes, so kann er verlangen, dass die Auskunft, wenn sie
+Eintragungen enthält, zunächst an eine von ihm benannte amtliche
+Vertretung der Bundesrepublik Deutschland zur Einsichtnahme durch ihn
+übersandt wird. Absatz 4 Satz 5 und 6 gilt für die amtliche Vertretung
+der Bundesrepublik Deutschland entsprechend.
+
+(6) Die Bundesanstalt kann für den Antrag und die Auskunft ein Muster
+im Bundesanzeiger veröffentlichen und Vordrucke – auch im Internet zum
+Herunterladen – bereithalten; soweit für den Antrag ein Muster
+veröffentlicht und ein Vordruck bereitgehalten ist, sind diese zu
+verwenden.
+
+
+## § 14b Elektronische Antragstellung
+
+(1) Abweichend von § 14a Absatz 2 Satz 1 und 2 kann der Antrag nach
+Maßgabe der Absätze 2 bis 4 auch in elektronischer Form unter Nutzung
+des im Internet angebotenen Zugangs unmittelbar bei der Bundesanstalt
+gestellt werden.
+
+(2) Der Nachweis der Identität ist mit dem elektronischen
+Identitätsnachweis nach § 18 des Personalausweisgesetzes oder nach §
+78 Absatz 5 des Aufenthaltsgesetzes zu führen. Dabei müssen aus dem
+elektronischen Speicher und Verarbeitungsmedium des Personalausweises
+oder des elektronischen Aufenthaltstitels an die Bundesanstalt
+übermittelt werden:
+
+1.  die Daten nach § 18 Absatz 3 Satz 1 des Personalausweisgesetzes oder
+    nach § 78 Absatz 5 Satz 2 des Aufenthaltsgesetzes in Verbindung mit §
+    18 Absatz 3 Satz 1 des Personalausweisgesetzes und
+
+
+2.  die Staatsangehörigkeit.
+
+
+
+Lässt das elektronische Speicher- und Verarbeitungsmedium die
+Übermittlung des Geburtsnamens nicht zu, ist der Geburtsname im Antrag
+anzugeben und anderweitig nachzuweisen. Bei der Datenübermittlung ist
+ein dem jeweiligen Stand der Technik entsprechendes sicheres Verfahren
+zu verwenden, das die Vertraulichkeit und Integrität des elektronisch
+übermittelten Datensatzes gewährleistet.
+
+(3) Vorzulegende Nachweise sind gleichzeitig mit dem Antrag in
+elektronischer Form einzureichen und ihre Echtheit sowie inhaltliche
+Richtigkeit sind an Eides statt zu versichern. Bei vorzulegenden
+Schriftstücken kann die Bundesanstalt im Einzelfall die Vorlage des
+Originals verlangen.
+
+(4) Die näheren technischen Einzelheiten des elektronischen Verfahrens
+legt die Bundesanstalt fest. Die Festlegung nach Satz 1 ist im
+Bundesanzeiger zu veröffentlichen.
 
 
 ## § 15 Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird zur Durchführung dieses Gesetzes, zur
-Durchführung des Fischereirechts der Europäischen Union oder zur
-Erfüllung von Verpflichtungen aus internationalen
-Fischereiübereinkommen ermächtigt, durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird zur
+Durchführung dieses Gesetzes, zur Durchführung des Fischereirechts der
+Europäischen Union oder zur Erfüllung von Verpflichtungen aus
+internationalen Fischereiübereinkommen ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1.  die Durchführung der Überwachung der Einfuhr, Ausfuhr und
     Wiederausfuhr von Fischereierzeugnissen gemäß Kapitel III der
@@ -876,10 +1028,9 @@ der Zustimmung des Bundesrates bedarf,
 
 zu regeln.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner zu den in Absatz 1 bezeichneten Zwecken
-ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
-bedarf,
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+zu den in Absatz 1 bezeichneten Zwecken ermächtigt, durch
+Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 
 1.  eine Liste der bezeichneten Häfen oder küstennahen Orte,
 
@@ -978,12 +1129,12 @@ In Rechtsverordnungen nach Satz 1 Nummer 6 ist vorzusehen, dass
 Ausnahmen von Wiegeverpflichtungen ermöglicht werden, soweit dies mit
 dem Fischereirecht der Europäischen Union vereinbar ist.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Erhaltung und wirtschaftlichen Nutzung
-von Fischbeständen, zur Durchführung des Fischereirechts der
-Europäischen Union oder zur Erfüllung von Verpflichtungen aus
-internationalen Fischerei-Übereinkommen
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Erhaltung und wirtschaftlichen Nutzung von Fischbeständen, zur
+Durchführung des Fischereirechts der Europäischen Union oder zur
+Erfüllung von Verpflichtungen aus internationalen Fischerei-
+Übereinkommen
 
 1.  zu verbieten, Fische bestimmter Arten zu fangen, an Bord zu behalten,
     anzulanden oder zu verkaufen,
@@ -1006,25 +1157,25 @@ internationalen Fischerei-Übereinkommen
 
 
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates vorzuschreiben, dass Überwachungsmaßnahmen
-zu dulden und zu unterstützen, Weisungen eines Kontrollbeamten
-unverzüglich zu befolgen und Auskünfte über Fänge und Fangtätigkeit zu
-erteilen sind.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+vorzuschreiben, dass Überwachungsmaßnahmen zu dulden und zu
+unterstützen, Weisungen eines Kontrollbeamten unverzüglich zu befolgen
+und Auskünfte über Fänge und Fangtätigkeit zu erteilen sind.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates technische Beschreibungen von Fanggerät zu
-erlassen. In der Rechtsverordnung sind die geografischen Gebiete, in
-denen die technische Beschreibung des jeweiligen Fanggeräts gilt, zu
-bezeichnen.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+technische Beschreibungen von Fanggerät zu erlassen. In der
+Rechtsverordnung sind die geografischen Gebiete, in denen die
+technische Beschreibung des jeweiligen Fanggeräts gilt, zu bezeichnen.
 
 
 ## § 16 Eingriffsbefugnisse
 
 (1) Die zuständigen Behörden des Bundes und der Länder können, soweit
-sie dieses Gesetz an Bord eines Fischereifahrzeugs, im Hafen oder zu
+sie die in § 1 Absatz 1 Nummer 2 bezeichneten Rechtsakte, dieses
+Gesetz oder die auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen an Bord eines Fischereifahrzeugs, im Hafen oder zu
 Lande ausführen, zur Überprüfung von Kapitänen von
 Fischereifahrzeugen, sonstigen Besatzungsmitgliedern von
 Fischereifahrzeugen, Fanglizenzinhabern, Fischereibetrieben und ihren
@@ -1034,7 +1185,10 @@ aller hierfür erforderlichen, fischereilichen Unterlagen und deren
 Aushändigung verlangen. Sie können zu diesem Zweck auch Prüfungen bei
 den Auskunftspflichtigen vornehmen. Die Auskunftspflichtigen haben die
 jeweils in Satz 1 genannten Auskünfte zu erteilen, Unterlagen
-vorzulegen und Prüfungen zu dulden.
+vorzulegen und Prüfungen zu dulden. Unterlagen im Sinne der Sätze 1
+und 3 sind auch Befähigungszeugnisse, Befähigungsnachweise und
+Anerkennungsvermerke, auch soweit die Unterlagen von einer
+ausländischen Behörde ausgestellt sind.
 
 (2) Die Kontrollbeamten sind befugt, dabei Fahrzeuge, Betriebsräume,
 Grundstücke und Geschäftsräume zu betreten. Außerhalb der Betriebs-
@@ -1270,12 +1424,15 @@ befischt.
         aufgeschlüsselt nach Art der Aufmachung oder der Anzahl der Tiere,
 
 
-    g)  für Fischereierzeugnisse nach Artikel 1 der Verordnung (EG) Nr.
-        104/2000 des Rates vom 17. Dezember 1999 über die gemeinsame
-        Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur
-        (ABl. L 17 vom 21.1.2000, S. 22), die durch die Verordnung (EG) Nr.
-        1759/2006 (ABl. L 335 vom 1.12.2006, S. 3) geändert worden ist,
-        Einzelgröße oder Gewicht, Klasse, Aufmachung und Frische,
+    g)  für Fischereierzeugnisse nach Artikel 2 der Verordnung (EU) Nr.
+        1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember
+        2013 über die gemeinsame Marktorganisation für Erzeugnisse der
+        Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr.
+        1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der
+        Verordnung (EG) Nr. 104/2000 des Rates (ABl. L 354 vom 28.12.2013, S.
+        1), die zuletzt durch die Verordnung (EU) 2015/812 (ABl. L 133 vom
+        29\.5.2015, S. 1) geändert worden ist, Einzelgröße oder Gewicht,
+        Klasse, Aufmachung und Frische,
 
 
     h)  Ort und Datum des Verkaufs und
@@ -1315,12 +1472,15 @@ bis 3, 6 und 7 auch dann geahndet werden, wenn sie in der
 Ausschließlichen Wirtschaftszone auf einem Schiff begangen wird, das
 nicht berechtigt ist, die Bundesflagge zu führen.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit dies zur Durchsetzung der
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
-nach Absatz 2 Nummer 11 geahndet werden können.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
+Europäischen Gemeinschaft oder der Europäischen Union erforderlich
+ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Tatbestände zu bezeichnen, die als Ordnungswidrigkeit nach Absatz 2
+Nummer 11 geahndet werden können. Das Bundesministerium für Ernährung
+und Landwirtschaft kann die Ermächtigung nach Satz 1 durch
+Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise
+auf die Bundesanstalt übertragen.
 
 (7) Gegenstände, auf die sich eine Ordnungswidrigkeit nach Absatz 1, 2
 oder Absatz 3 bezieht oder die zu ihrer Begehung oder Vorbereitung
@@ -1354,18 +1514,18 @@ bezeichnete Handlung beharrlich wiederholt.
 (1) Die Bundesanstalt kann zur wirksamen Anwendung und Durchführung
 der Vorschriften des Fischereirechts der Europäischen Union gegenüber
 anderen Mitgliedstaaten, Drittländern und den Stellen der Europäischen
-Union im Einvernehmen mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz Amtshandlungen vornehmen. Wenn
-und soweit die Zuständigkeit der Länder berührt ist, soll mit den
-betroffenen Ländern Einvernehmen hergestellt werden.
+Union im Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft Amtshandlungen vornehmen. Wenn und soweit die
+Zuständigkeit der Länder berührt ist, soll mit den betroffenen Ländern
+Einvernehmen hergestellt werden.
 
 (2) Die Bundesanstalt kann mit Zustimmung des Bundesministeriums für
-Ernährung, Landwirtschaft und Verbraucherschutz Meldungen, Berichte,
-Daten, Stellungnahmen, Stichprobenpläne oder andere Informationen
-erstellen oder zusammenstellen und an die zuständigen Stellen der
-Europäischen Union nach Maßgabe von § 4b des Bundesdatenschutzgesetzes
-übermitteln, wenn und soweit die Bundesrepublik Deutschland auf Grund
-von Vorschriften der Gemeinsamen Fischereipolitik oder auf Grund einer
+Ernährung und Landwirtschaft Meldungen, Berichte, Daten,
+Stellungnahmen, Stichprobenpläne oder andere Informationen erstellen
+oder zusammenstellen und an die zuständigen Stellen der Europäischen
+Union nach Maßgabe von § 4b des Bundesdatenschutzgesetzes übermitteln,
+wenn und soweit die Bundesrepublik Deutschland auf Grund von
+Vorschriften der Gemeinsamen Fischereipolitik oder auf Grund einer
 Anforderung der Stellen der Europäischen Union zur Übermittlung
 verpflichtet ist. Die betroffenen Länder sind zu beteiligen; soweit
 die Erstellung oder Zusammenstellung von Meldungen, Berichten, Daten,
@@ -1380,9 +1540,9 @@ unverzüglich.
 Die Länder können zur Regelung der Seefischerei oder zur Durchführung
 des Fischereirechts der Europäischen Union weitere Vorschriften
 erlassen, soweit dieses Gesetz keine Regelung trifft oder das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-von seinen Ermächtigungen nach § 15 keinen Gebrauch macht. Sie können
-im Interesse der auf Dauer bestmöglichen Nutzung und Erhaltung der
+Bundesministerium für Ernährung und Landwirtschaft von seinen
+Ermächtigungen nach § 15 keinen Gebrauch macht. Sie können im
+Interesse der auf Dauer bestmöglichen Nutzung und Erhaltung der
 Fischbestände die Ausübung des Fischfangs Beschränkungen unterwerfen,
 die über eine bundesrechtliche Regelung hinausgehen. Die Vorschriften
 der Länder haben sich im Rahmen des Fischereirechts der Europäischen
@@ -1398,6 +1558,11 @@ Rechtsverordnungen, die im elektronischen Bundesanzeiger verkündet
 werden, ist unter Angabe der Stelle ihrer Veröffentlichung und des
 Tages ihres Inkrafttretens nachrichtlich im Bundesgesetzblatt
 hinzuweisen.
+
+
+## § 22a Übergangs- und Anwendungsbestimmungen
+
+§ 14b ist ab dem 1. Juli 2018 anzuwenden.
 
 
 ## § 23 (Inkrafttreten, Außerkrafttreten)
@@ -1420,6 +1585,16 @@ hinzuweisen.
 
     *   Überwachung und Unterstützung der Seefischerei seewärts der äußeren
         Begrenzung des Küstenmeeres
+
+
+*    *   1a)
+
+    *   Verfügung einer Ad-hoc-Schließung nach Artikel 53 der Verordnung (EG)
+        Nr. 1224/2009 mit Festlegung des geografischen Gebiets der betroffenen
+        Fanggründe, der Dauer der Schließung und der Bedingungen, die für die
+        Fischereien während der Schließung in dem betreffenden Gebiet gelten,
+        sowie die nach Artikel 53 der Verordnung (EG) Nr. 1224/2009
+        erforderlichen Mitteilungen.
 
 
 *    *   2
@@ -1653,13 +1828,9 @@ hinzuweisen.
 *    *   21
 
     *   Entgegennahme der Anträge auf finanzielle Beteiligung der Europäischen
-        Union an den durch die Durchführung bestimmter Vorschriften der
-        Gemeinsamen Fischereipolitik im Bereich der Fischereikontrolle
-        entstehenden Ausgaben natürlicher oder juristischer Personen des
-        Privatrechts und Ausschüttung dieser Finanzmittel an die jeweils
-        Begünstigten sowie Einrichtung und Durchführung der Überwachungs- und
-        Verwaltungsverfahren, soweit dies durch eine Rechtsverordnung nach §
-        15 Absatz 1 Nummer 15 bestimmt ist
+        Union an den Fördermaßnahmen, die in der Verordnung (EU) Nr. 508/2014
+        festgelegt sind und die von der Bundesanstalt nach den einschlägigen
+        nationalen Bestimmungen durchgeführt werden.
 
 
 

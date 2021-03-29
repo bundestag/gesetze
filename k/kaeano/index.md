@@ -258,10 +258,9 @@ Anlagen oder als Zinsen und Tilgung auf ein Restkaufgeld für
 überlassene Anlagen anzusehen sind, so haben die Beteiligten dies
 alsbald durch eine Vereinbarung klarzustellen. Die Vereinbarung bedarf
 der Genehmigung
-des Reichskommissars für die Preisbildung,              der auch
-endgültig              über die Aufteilung entscheidet, wenn die
-Beteiligten in einer von ihm bestimmten Frist zu keiner Einigung
-kommen.
+des Reichskommissars für die Preisbildung, der auch
+endgültig über die Aufteilung entscheidet, wenn die Beteiligten in
+einer von ihm bestimmten Frist zu keiner Einigung kommen.
 
 (2)
 
@@ -312,10 +311,10 @@ Bestimmungen eines Konzessionsvertrags nicht berührt.
 ## § 11
 
 Der
-Reichskommissar für die Preisbildung              erläßt die zur
-Durchführung ... erforderlichen Rechts- und Verwaltungsvorschriften
-sowie von den Vorschriften dieser Anordnung abweichende preisbildende
-Anordnungen für den Einzelfall.
+Reichskommissar für die Preisbildung erläßt die zur Durchführung ...
+erforderlichen Rechts- und Verwaltungsvorschriften sowie von den
+Vorschriften dieser Anordnung abweichende preisbildende Anordnungen
+für den Einzelfall.
 
 
 ## § 12

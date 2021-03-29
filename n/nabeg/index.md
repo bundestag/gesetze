@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1690
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 13 G v. 20.7.2017 I 2808
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -37,8 +40,9 @@ aus Gründen eines überragenden öffentlichen Interesses erforderlich.
 
 (1) Dieses Gesetz gilt nur für die Errichtung oder Änderung von
 länderübergreifenden oder grenzüberschreitenden
-Höchstspannungsleitungen, die in einem Gesetz über den
-Bundesbedarfsplan nach § 12e Absatz 4 Satz 1 des
+Höchstspannungsleitungen und Anbindungsleitungen von den Offshore-
+Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land, die in
+einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4 Satz 1 des
 Energiewirtschaftsgesetzes als solche gekennzeichnet sind.
 
 (2) Die Bundesregierung wird ermächtigt, in einer Rechtsverordnung mit
@@ -57,6 +61,11 @@ möglich ist.
 
 (4) Dieses Gesetz gilt nicht für Vorhaben, die im
 Energieleitungsausbaugesetz aufgeführt sind.
+
+(5) Das Gesetz ist nicht auf die Leitungsabschnitte, die in den
+Anwendungsbereich des § 44 Absatz 1 des Windenergie-auf-See-Gesetzes
+oder der Verordnung über Anlagen seewärts der Begrenzung des
+Küstenmeeres fallen, anzuwenden.
 
 
 ### § 3 Begriffsbestimmungen
@@ -84,9 +93,11 @@ Energiewirtschaftsgesetzes verantwortliche Betreiber von
 
 Für die in einem Gesetz über den Bundesbedarfsplan nach § 12e Absatz 4
 Satz 1 des Energiewirtschaftsgesetzes als länderübergreifend oder
-grenzüberschreitend gekennzeichneten Höchstspannungsleitungen werden
-durch die Bundesfachplanung Trassenkorridore bestimmt. Diese sind die
-Grundlage für die nachfolgenden Planfeststellungsverfahren.
+grenzüberschreitend oder als Anbindungsleitungen von den Offshore-
+Windpark-Umspannwerken zu den Netzverknüpfungspunkten an Land
+gekennzeichneten Höchstspannungsleitungen werden durch die
+Bundesfachplanung Trassenkorridore bestimmt. Diese sind die Grundlage
+für die nachfolgenden Planfeststellungsverfahren.
 
 
 ### § 5 Inhalt der Bundesfachplanung
@@ -105,15 +116,33 @@ zuletzt durch Artikel 9 des Gesetzes vom 31. Juli 2009 (BGBl. I S.
 raumbedeutsamen Planungen und Maßnahmen im Sinne von § 3 Absatz 1
 Nummer 6 des Raumordnungsgesetzes. Gegenstand der Prüfung sind auch
 etwaige ernsthaft in Betracht kommende Alternativen von
-Trassenkorridoren.
+Trassenkorridoren. Bei der Durchführung der Bundesfachplanung für
+Vorhaben im Sinne von § 2 Absatz 6 des Bundesbedarfsplangesetzes
+zählen zu solchen Alternativen auch die Verläufe von
+Trassenkorridoren, die sich aus der Berücksichtigung von möglichen
+Teilverkabelungsabschnitten ergeben und insbesondere zu einer
+Verkürzung des Trassenkorridors insgesamt führen können.
 
-(2) Für die Bundesfachplanung ist nach den Bestimmungen des Gesetzes
-über die Umweltverträglichkeitsprüfung in der Fassung der
-Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94), das zuletzt durch
-Artikel 6 des Gesetzes vom 28. Juli 2011 (BGBl. I S. 1690) geändert
-worden ist, eine Strategische Umweltprüfung durchzuführen.
+(2) Bei der Durchführung der Bundesfachplanung für ein Vorhaben im
+Sinne von § 2 Absatz 5 des Bundesbedarfsplangesetzes prüft die
+Bundesnetzagentur insbesondere, inwieweit zwischen dem Anfangs- und
+dem Endpunkt des Vorhabens ein möglichst geradliniger Verlauf eines
+Trassenkorridors zur späteren Errichtung und zum Betrieb eines
+Erdkabels erreicht werden kann.
 
-(3) Die Bundesnetzagentur darf die Bundesfachplanung in einzelnen
+(3) Bei der Durchführung der Bundesfachplanung für Anbindungsleitungen
+von den Offshore-Windpark-Umspannwerken zu den Netzverknüpfungspunkten
+an Land ist der Bundesfachplan Offshore gemäß § 17a des
+Energiewirtschaftsgesetzes in der jeweils geltenden Fassung und ab dem
+1\. Januar 2019 der Flächenentwicklungsplan gemäß § 5 des Windenergie-
+auf-See-Gesetzes in der jeweils geltenden Fassung von der
+Bundesnetzagentur zu berücksichtigen.
+
+(4) Für die Bundesfachplanung ist nach den Bestimmungen des Gesetzes
+über die Umweltverträglichkeitsprüfung eine Strategische Umweltprüfung
+durchzuführen.
+
+(5) Die Bundesnetzagentur darf die Bundesfachplanung in einzelnen
 Abschnitten der Trassenkorridore durchführen. Dies gilt auch, wenn der
 Vorhabenträger keinen entsprechenden Antrag gestellt hat.
 
@@ -139,12 +168,19 @@ darzustellen. Der Antrag muss enthalten
     der in Frage kommenden Alternativen,
 
 
-2.  Erläuterungen zur Auswahl zwischen den in Frage kommenden Alternativen
+2.  bei Vorhaben im Sinne von § 2 Absatz 5 des Bundesbedarfsplangesetzes
+    eine Kennzeichnung von Erdkabel- und Freileitungsabschnitten im
+    Vorschlag und in den infrage kommenden Alternativen sowie die Gründe,
+    aus denen in Teilabschnitten ausnahmsweise eine Freileitung in
+    Betracht kommt,
+
+
+3.  Erläuterungen zur Auswahl zwischen den in Frage kommenden Alternativen
     unter Berücksichtigung der erkennbaren Umweltauswirkungen und der zu
     bewältigenden raumordnerischen Konflikte und,
 
 
-3.  soweit ein vereinfachtes Verfahren der Bundesfachplanung nach § 11 für
+4.  soweit ein vereinfachtes Verfahren der Bundesfachplanung nach § 11 für
     die gesamte Ausbaumaßnahme oder für einzelne Streckenabschnitte
     durchgeführt werden soll, die Darlegung der dafür erforderlichen
     Voraussetzungen.
@@ -162,9 +198,9 @@ Bundesfachplanung erörtert werden. Insbesondere soll erörtert werden,
 inwieweit Übereinstimmung der beantragten Trassenkorridore mit den
 Erfordernissen der Raumordnung der betroffenen Länder besteht oder
 hergestellt werden kann und in welchem Umfang und Detaillierungsgrad
-Angaben in den Umweltbericht nach § 14g des Gesetzes über die
+Angaben in den Umweltbericht nach § 40 des Gesetzes über die
 Umweltverträglichkeitsprüfung aufzunehmen sind. Die Antragskonferenz
-ist zugleich die Besprechung im Sinne des § 14f Absatz 4 Satz 2 des
+ist zugleich die Besprechung im Sinne des § 39 Absatz 4 Satz 2 des
 Gesetzes über die Umweltverträglichkeitsprüfung.
 
 (2) Der Vorhabenträger und die betroffenen Träger öffentlicher
@@ -205,7 +241,7 @@ Der Vorhabenträger legt der Bundesnetzagentur auf Grundlage der
 Ergebnisse der Antragskonferenz in einer von der Bundesnetzagentur
 festzusetzenden angemessenen Frist die für die raumordnerische
 Beurteilung und die Strategische Umweltprüfung der Trassenkorridore
-erforderlichen Unterlagen vor. § 14g Absatz 3 und 4 des Gesetzes über
+erforderlichen Unterlagen vor. § 40 Absatz 3 und 4 des Gesetzes über
 die Umweltverträglichkeitsprüfung ist entsprechend anzuwenden. Soweit
 Unterlagen Betriebs- oder Geschäftsgeheimnisse enthalten, sind sie zu
 kennzeichnen. Die Regelungen zum Schutz personenbezogener Daten sind
@@ -219,7 +255,7 @@ Bundesnetzagentur prüft die Vollständigkeit der Unterlagen.
 ### § 9 Behörden- und Öffentlichkeitsbeteiligung
 
 (1) Spätestens zwei Wochen nach Vorlage der vollständigen Unterlagen
-beteiligt die Bundesnetzagentur die anderen Behörden nach § 14h des
+beteiligt die Bundesnetzagentur die anderen Behörden nach § 41 des
 Gesetzes über die Umweltverträglichkeitsprüfung nach Maßgabe der
 folgenden Absätze.
 
@@ -233,8 +269,8 @@ die Rechtmäßigkeit der Bundesfachplanung von Bedeutung.
 
 (3) Spätestens zwei Wochen nach Zugang der vollständigen Unterlagen
 führt die Bundesnetzagentur eine Beteiligung der Öffentlichkeit nach §
-14i des Gesetzes über die Umweltverträglichkeitsprüfung mit der
-Maßgabe durch, dass die nach § 14i Absatz 2 des Gesetzes über die
+42 des Gesetzes über die Umweltverträglichkeitsprüfung mit der Maßgabe
+durch, dass die nach § 42 Absatz 2 des Gesetzes über die
 Umweltverträglichkeitsprüfung auszulegenden Unterlagen für die Dauer
 von einem Monat am Sitz der Bundesnetzagentur und in den Außenstellen
 der Bundesnetzagentur, die den Trassenkorridoren nächstgelegen sind,
@@ -259,12 +295,12 @@ Internet ist entsprechend dem Absatz 3 Satz 3 und 4 bekannt zu machen.
 unberührt.
 
 (6) Jede Person, einschließlich Vereinigungen, kann sich innerhalb von
-einem Monat nach Ablauf der Veröffentlichungsfrist schriftlich oder
-zur Niederschrift bei einer Auslegungsstelle nach Absatz 3 Satz 1 und
-2 zu den beabsichtigten Trassenkorridoren äußern. Absatz 2 Satz 3 gilt
-entsprechend. Rechtsansprüche werden durch die Einbeziehung der
-Öffentlichkeit nicht begründet; die Verfolgung von Rechten im
-nachfolgenden Zulassungsverfahren bleibt unberührt.
+einem Monat nach Ablauf der Veröffentlichungsfrist schriftlich,
+elektronisch oder zur Niederschrift bei einer Auslegungsstelle nach
+Absatz 3 Satz 1 und 2 zu den beabsichtigten Trassenkorridoren äußern.
+Absatz 2 Satz 3 gilt entsprechend. Rechtsansprüche werden durch die
+Einbeziehung der Öffentlichkeit nicht begründet; die Verfolgung von
+Rechten im nachfolgenden Zulassungsverfahren bleibt unberührt.
 
 (7) Ein Verfahren nach den Absätzen 1 bis 6 kann unterbleiben, wenn
 die Voraussetzungen für ein vereinfachtes Verfahren nach § 11
@@ -297,22 +333,27 @@ erhoben haben. Ein Erörterungstermin findet nicht statt, wenn
 ### § 11 Vereinfachtes Verfahren
 
 (1) Die Bundesfachplanung kann in einem vereinfachten Verfahren
-durchgeführt werden, soweit nach § 14d Satz 1 des Gesetzes über die
+durchgeführt werden, soweit nach § 37 Satz 1 des Gesetzes über die
 Umweltverträglichkeitsprüfung eine Strategische Umweltprüfung nicht
 erforderlich ist und die Ausbaumaßnahme
 
-1.  in der Trasse einer bestehenden Hoch- oder Höchstspannungsleitung
-    erfolgt und die Bestandsleitung ersetzt oder ausgebaut werden soll
+1.  in der Trasse einer bestehenden oder bereits zugelassenen Hoch- oder
+    Höchstspannungsleitung erfolgt und die Bestandsleitung ersetzt oder
+    ausgebaut werden soll oder
+
+
+2.  unmittelbar neben der Trasse einer bestehenden oder bereits
+    zugelassenen Hoch- oder Höchstspannungsleitung errichtet werden soll
     oder
-
-
-2.  unmittelbar neben der Trasse einer bestehenden Hoch- oder
-    Höchstspannungsleitung errichtet werden soll oder
 
 
 3.  innerhalb eines Trassenkorridors verlaufen soll, der in einem
     Raumordnungsplan im Sinne von § 3 Absatz 1 Nummer 7 des
-    Raumordnungsgesetzes oder im Bundesnetzplan ausgewiesen ist.
+    Raumordnungsgesetzes oder im Bundesnetzplan ausgewiesen ist, oder
+
+
+4.  nur verwirklicht werden kann, wenn der hierfür durch die
+    Bundesfachplanung bestimmte Trassenkorridor geringfügig geändert wird.
 
 
 
@@ -345,29 +386,37 @@ enthält
 
 
 2.  eine Bewertung sowie eine zusammenfassende Erklärung der
-    Umweltauswirkungen gemäß den §§ 14k und 14l des Gesetzes über die
+    Umweltauswirkungen gemäß den §§ 43 und 44 des Gesetzes über die
     Umweltverträglichkeitsprüfung des in den Bundesnetzplan aufzunehmenden
     Trassenkorridors;
 
 
-3.  das Ergebnis der Prüfung von alternativen Trassenkorridoren.
+3.  bei Vorhaben im Sinne von § 2 Absatz 5 des Bundesbedarfsplangesetzes
+    eine Kennzeichnung, inwieweit sich der Trassenkorridor für die
+    Errichtung und den Betrieb eines Erdkabels eignet, und
+
+
+4.  das Ergebnis der Prüfung von alternativen Trassenkorridoren.
 
 
 
 Der Entscheidung ist eine Begründung beizufügen, in der die
-Raumverträglichkeit im Einzelnen darzustellen ist. Die
-Bundesnetzagentur ist berechtigt, nach Abschluss der Bundesfachplanung
-den nach den §§ 11 und 12 des Energiewirtschaftsgesetzes
-verpflichteten Vorhabenträger durch Bescheid aufzufordern, innerhalb
-einer zu bestimmenden angemessenen Frist den erforderlichen Antrag auf
-Planfeststellung zu stellen. Die zuständigen obersten Landesbehörden
-der Länder, auf deren Gebiet ein Trassenkorridor verläuft, sind von
-der Frist zu benachrichtigen.
+Raumverträglichkeit im Einzelnen darzustellen ist. Bei Vorhaben im
+Sinne von § 2 Absatz 5 des Bundesbedarfsplangesetzes sind auch die
+Gründe anzugeben, aus denen in Teilabschnitten ausnahmsweise eine
+Freileitung in Betracht kommt. Die Bundesnetzagentur ist berechtigt,
+nach Abschluss der Bundesfachplanung den nach den §§ 11 und 12 des
+Energiewirtschaftsgesetzes verpflichteten Vorhabenträger durch
+Bescheid aufzufordern, innerhalb einer zu bestimmenden angemessenen
+Frist den erforderlichen Antrag auf Planfeststellung zu stellen. Die
+zuständigen obersten Landesbehörden der Länder, auf deren Gebiet ein
+Trassenkorridor verläuft, sind von der Frist zu benachrichtigen.
 
 (3) Abweichend von Absatz 2 sind bei der Durchführung eines
-vereinfachten Verfahrens keine Trassenkorridore aufzunehmen, sondern
-nur die bestehenden Trassen im Sinne des § 11 Absatz 1 Satz 1 Nummer 1
-oder 2 oder das Ergebnis eines Raumordnungsplans oder der
+vereinfachten Verfahrens nach § 11 Absatz 1 Satz 1 Nummer 1 bis 3
+keine Trassenkorridore aufzunehmen, sondern nur die bestehenden oder
+bereits zugelassenen Trassen im Sinne des § 11 Absatz 1 Satz 1 Nummer
+1 oder 2 oder das Ergebnis eines Raumordnungsplans oder der
 Bundesfachplanung im Sinne von § 11 Absatz 1 Satz 1 Nummer 3.
 
 
@@ -415,7 +464,8 @@ tatsächlichen Verhältnisse nicht verändert haben.
 ersetzt nicht die Entscheidung über die Zulässigkeit der
 Ausbaumaßnahme. Sie kann nur im Rahmen des Rechtsbehelfsverfahrens
 gegen die Zulassungsentscheidung für die jeweilige Ausbaumaßnahme
-überprüft werden.
+überprüft werden. § 75 Absatz 1a des Verwaltungsverfahrensgesetzes ist
+entsprechend anzuwenden.
 
 
 ### § 16 Veränderungssperren
@@ -450,7 +500,12 @@ entgegenstehen.
 
 ### § 17 Bundesnetzplan
 
-Die durch die Bundesfachplanung bestimmten Trassenkorridore werden
+Die durch die Bundesfachplanung bestimmten Trassenkorridore und die
+für Anbindungsleitungen und grenzüberschreitende Stromleitungen im
+jeweils aktuellen Bundesfachplan Offshore nach § 17a des
+Energiewirtschaftsgesetzes und ab dem 1. Januar 2019 im jeweils
+aktuellen Flächenentwicklungsplan gemäß § 5 des Windenergie-auf-See-
+Gesetzes ausgewiesenen Trassen oder Trassenkorridore werden
 nachrichtlich in den Bundesnetzplan aufgenommen. Der Bundesnetzplan
 wird bei der Bundesnetzagentur geführt. Der Bundesnetzplan ist von der
 Bundesnetzagentur einmal pro Kalenderjahr im Bundesanzeiger zu
@@ -510,7 +565,7 @@ darzustellen. Der Antrag muss enthalten
 des Antrags eine Antragskonferenz mit dem Vorhabenträger sowie den
 betroffenen Trägern öffentlicher Belange und Vereinigungen durch. Die
 Antragskonferenz soll sich auf Gegenstand, Umfang und Methoden der
-Unterlagen nach § 6 des Gesetzes über die
+Unterlagen nach § 16 des Gesetzes über die
 Umweltverträglichkeitsprüfung sowie sonstige für die Planfeststellung
 erhebliche Fragen erstrecken.
 
@@ -552,11 +607,11 @@ von Gutachten verlangen oder Gutachten einholen. Soweit Unterlagen
 Betriebs- oder Geschäftsgeheimnisse enthalten, sind sie zu
 kennzeichnen; die Regelungen des Datenschutzes sind zu beachten.
 
-(4) Für die nach § 6 des Gesetzes über die
-Umweltverträglichkeitsprüfung vorzulegenden Unterlagen soll nach
-Maßgabe der §§ 5 und 14f Absatz 3 des Gesetzes über die
-Umweltverträglichkeitsprüfung auf die in der Bundesfachplanung
-eingereichten Unterlagen Bezug genommen werden.
+(4) Für den UVP-Bericht nach § 16 des Gesetzes über die
+Umweltverträglichkeitsprüfung soll nach Maßgabe der §§ 15 und 39
+Absatz 3 des Gesetzes über die Umweltverträglichkeitsprüfung auf die
+in der Bundesfachplanung eingereichten Unterlagen Bezug genommen
+werden.
 
 (5) Die Planfeststellungsbehörde hat die eingereichten Unterlagen
 innerhalb eines Monats nach Eingang auf ihre Vollständigkeit hin zu
@@ -622,9 +677,10 @@ unberührt.
 
 (6) Jede Person, deren Belange durch das Vorhaben berührt werden, kann
 innerhalb von zwei Wochen nach Ablauf der Auslegungsfrist nach Absatz
-3 Satz 1 schriftlich bei der Planfeststellungsbehörde oder zur
-Niederschrift bei einer Auslegungsstelle Einwendungen gegen den Plan
-erheben. Satz 1 gilt entsprechend für Vereinigungen.
+3 Satz 1 schriftlich oder elektronisch bei der
+Planfeststellungsbehörde oder zur Niederschrift bei einer
+Auslegungsstelle Einwendungen gegen den Plan erheben. Satz 1 gilt
+entsprechend für Vereinigungen.
 
 (7) Die Planfeststellungsbehörde führt einen Erörterungstermin durch.
 Insoweit gelten die Bestimmungen des § 73 Absatz 6 Satz 1 bis 5 des
@@ -860,8 +916,8 @@ durch die Rechtsverordnung nach § 2 Absatz 2 auf die Bundesnetzagentur
 übertragen worden sind.
 
 (3) Die Bundesnetzagentur ist verpflichtet, dem Bundesministerium für
-Wirtschaft und Technologie sowie dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit regelmäßig in nicht
+Wirtschaft und Energie sowie dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit regelmäßig in nicht
 personenbezogener Form über den Verfahrensstand zur Bundesfachplanung
 und zur Planfeststellung zu berichten.
 
@@ -883,8 +939,8 @@ nicht personenbezogener Form gegenseitig auskunftspflichtig.
 
 (3) Der Beirat soll regelmäßig zusammentreten. Sitzungen sind
 anzuberaumen, wenn die Bundesnetzagentur oder mindestens zwei Länder
-die Einberufung schriftlich verlangen. Die ordentlichen Sitzungen sind
-nicht öffentlich.
+die Einberufung schriftlich oder elektronisch verlangen. Die
+ordentlichen Sitzungen sind nicht öffentlich.
 
 (4) Der Beirat gibt sich eine Geschäftsordnung.
 
@@ -925,7 +981,7 @@ zuständigen Planfeststellungsbehörden der Länder.
 
 Die Bundesnetzagentur kann ihre Anordnungen, insbesondere
 Fristsetzungen zur Antragstellung nach § 6 Satz 2 und § 12 Absatz 2
-Satz 2, nach den für die Vollstreckung von Verwaltungsmaßnahmen
+Satz 4, nach den für die Vollstreckung von Verwaltungsmaßnahmen
 geltenden Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt
 mindestens 1 000 Euro und höchstens 250 000 Euro.
 

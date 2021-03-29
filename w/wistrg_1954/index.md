@@ -18,9 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 3.6.1975 I 1313,
 
-Zuletzt geändert durch
-:   Art. 55 G v. 8.12.2010 I 1864
-
+Stand: zuletzt geändert durchArt. 6 Abs. 29 G v. 13.4.2017 I 872
 
 ## Erster Abschnitt - Ahndung von Zuwiderhandlungen im Bereich des Wirtschaftsrechts
 
@@ -226,11 +224,11 @@ gering ist.
 (3) Die Höhe des Mehrerlöses kann geschätzt werden. Der abzuführende
 Betrag ist zahlenmäßig zu bestimmen.
 
-(4) Die Abführung des Mehrerlöses tritt an die Stelle des Verfalls (§§
-73 bis 73e des Strafgesetzbuches, § 29a des Gesetzes über
-Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne des § 1 gelten
-die Vorschriften des Strafgesetzbuches über die Verjährung des
-Verfalls entsprechend.
+(4) Die Abführung des Mehrerlöses tritt an die Stelle der Einziehung
+von Taterträgen (§§ 73 bis 73e und 75 des Strafgesetzbuches, § 29a des
+Gesetzes über Ordnungswidrigkeiten). Bei Zuwiderhandlungen im Sinne
+des § 1 gelten die Vorschriften des Strafgesetzbuches über die
+Verjährung der Einziehung von Taterträgen entsprechend.
 
 
 ### § 9 Rückerstattung des Mehrerlöses
@@ -269,8 +267,9 @@ Mehrerlös zugeflossen ist.
 ### § 11 Verfahren
 
 (1) Im Strafverfahren ist die Abführung des Mehrerlöses im Urteil
-auszusprechen. Für das selbständige Verfahren gelten § 440 Abs. 1, 2
-und § 441 Abs. 1 bis 3 der Strafprozeßordnung entsprechend.
+auszusprechen. Für das selbständige Verfahren gelten § 435 Absatz 1, 2
+und 3 Satz 1 und § 436 Absatz 1 und 2 in Verbindung mit § 434 Absatz 2
+oder 3 der Strafprozeßordnung entsprechend.
 
 (2) Im Bußgeldverfahren ist die Abführung des Mehrerlöses im
 Bußgeldbescheid auszusprechen. Im selbständigen Verfahren steht der

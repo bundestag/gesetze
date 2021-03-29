@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1994, 1867
 
 Zuletzt geändert durch
-:   Art. 20 G v. 22.12.2011 I 3057
+:   Art. 1 V v. 14.10.2013 I 3866
 
 
 ## Eingangsformel
@@ -79,9 +79,10 @@ Rentenversicherung wahrnimmt (Pflichtaufgaben).
 wahrzunehmen hat (Pflichtaufgaben auf Antrag), gelten die Vorschriften
 dieser Verordnung, soweit sie nicht unmittelbar anzuwenden sind, mit
 der Maßgabe entsprechend, dass im Bereich der Unfallversicherung die
-Träger der Unfallversicherung und ihre Spitzenverbände an die Stelle
-der Träger der Rentenversicherung und der Deutschen Rentenversicherung
-Bund treten.
+Träger der Unfallversicherung und die Deutsche Gesetzliche
+Unfallversicherung e. V. und die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau an die Stelle der Träger der
+Rentenversicherung und der Deutschen Rentenversicherung Bund treten.
 
 (3) Soweit die Deutsche Post AG berechtigt ist, für sonstige Stellen
 entsprechende Dienstleistungen zu übernehmen (Vertragsleistungen),
@@ -314,25 +315,31 @@ einen Anspruch auf die Auszahlung haben.
 
 (1) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
 Inland (Inlandszahlungen) sollen auf ein Konto der Zahlungsempfänger
-bei einem Geldinstitut im Inland erfolgen. Die Träger der
-Rentenversicherung und der Renten Service sollen darauf hinwirken, daß
-die Zahlungsempfänger ein solches Konto benennen. Die
-Zahlungsempfänger können auch Konten von Vertrauenspersonen benennen.
-Soweit Zahlungen nicht auf ein Konto erfolgen, sollen sie in einer für
-die Träger der Rentenversicherung möglichst wirtschaftlichen Form
-ausgeführt werden.
+bei einem Geldinstitut innerhalb des Geltungsbereiches der Verordnung
+(EU) Nr. 260/2012 des Europäischen Parlaments und des Rates vom 14.
+März 2012 zur Festlegung der technischen Vorschriften und der
+Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
+zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+30\.3.2012, S. 22) erfolgen. Die Träger der Rentenversicherung und der
+Renten Service sollen darauf hinwirken, daß die Zahlungsempfänger ein
+solches Konto benennen. Soweit Zahlungen nicht auf ein Konto erfolgen,
+sollen sie in einer für die Träger der Rentenversicherung möglichst
+wirtschaftlichen Form ausgeführt werden.
 
 (2) Zahlungen an Zahlungsempfänger mit gewöhnlichem Aufenthalt im
-Ausland (Auslandszahlungen) sollen in einer für die Träger der
-Rentenversicherung möglichst wirtschaftlichen Form ausgeführt werden.
-Der Renten Service übernimmt für die Träger der Rentenversicherung die
-nach dem Außenwirtschaftsrecht zu erstattenden Meldungen an die
-Deutsche Bundesbank.
+Ausland (Auslandszahlungen) sollen bei Aufenthalt innerhalb des
+Geltungsbereiches der in Absatz 1 genannten Verordnung auf ein Konto
+der Zahlungsempfänger bei einem Geldinstitut innerhalb des
+Geltungsbereiches dieser Verordnung erfolgen. Bei Aufenthalt der
+Zahlungsempfänger außerhalb des Geltungsbereiches der Verordnung
+sollen die Zahlungen in einer für die Träger der Rentenversicherung
+möglichst wirtschaftlichen Form ausgeführt werden.
 
 (3) Berechtigten Interessen der Zahlungsempfänger ist Rechnung zu
 tragen, soweit hierdurch keine Mehraufwendungen entstehen oder die
 Mehraufwendungen im Hinblick auf die Umstände des Einzelfalls
-gerechtfertigt erscheinen.
+gerechtfertigt erscheinen. Zahlungsempfänger können auch inländische
+Konten von Vertrauenspersonen benennen.
 
 (4) Die Zahlung laufender Geldleistungen ist so rechtzeitig zu
 bewirken, dass die Leistungen den Zahlungsempfängern nach dem
@@ -340,6 +347,10 @@ gewöhnlichen Verfahrensablauf am Auszahlungstag im Sinne von § 118
 Abs. 1 und § 272a Abs. 1 des Sechsten Buches Sozialgesetzbuch zur
 Verfügung stehen. Die Zahlung sonstiger Geldleistungen ist
 unverzüglich nach der Erteilung des Zahlungsauftrages zu bewirken.
+
+(5) Der Renten Service übernimmt für die Träger der Rentenversicherung
+die nach dem Außenwirtschaftsrecht zu erstattenden Meldungen an die
+Deutsche Bundesbank.
 
 
 ### § 10 Nicht ausführbare Zahlungen
@@ -733,7 +744,7 @@ von Auskünften tritt die Einholung von Auskünften.
 (1) Der Renten Service wertet die ihm nach § 101a des Zehnten Buches
 Sozialgesetzbuch übermittelten Daten im Rahmen der Zweckbestimmung der
 Übermittlung aus, um beim Tod des Berechtigten bei laufenden
-Inlandszahlungen Überzahlungen zu Lasten der Träger der Deutschen
+Inlandszahlungen Überzahlungen zu Lasten der Träger der
 Rentenversicherung zu vermeiden und um Anschriftenänderungen zu
 berücksichtigen (Abgleich der Mitteilungen nach § 101a des Zehnten
 Buches Sozialgesetzbuch). Er übernimmt auch die Einholung von
@@ -883,12 +894,11 @@ und § 16 Abs. 2). In die Jahresabrechnung sind auch die
 Nutzungsvorteile aus der wirtschaftlichen Nutzung des
 Treuhandvermögens (§ 3 Abs. 2 Satz 2 bis 5) einzustellen. Die
 Monatsübersicht und die Jahresabrechnung sind den Trägern der
-Rentenversicherung, dem Bundesversicherungsamt und der Deutschen
-Rentenversicherung Bund zuzuleiten, die Jahresabrechnung darüber
-hinaus auch dem Bundesministerium für Arbeit und Soziales. Der Renten
-Service hat die Angaben in den Übersichten auf Verlangen des
-Bundesversicherungsamtes oder eines Trägers der Rentenversicherung
-nachzuweisen.
+Rentenversicherung und der Deutschen Rentenversicherung Bund
+zuzuleiten, die Jahresabrechnung darüber hinaus auch dem
+Bundesministerium für Arbeit und Soziales. Der Renten Service hat die
+Angaben in den Übersichten auf Verlangen eines Trägers der
+Rentenversicherung nachzuweisen.
 
 (2) Die Monatsübersicht soll bei der Festsetzung der weiteren
 Vorschüsse berücksichtigt werden.
@@ -921,8 +931,8 @@ anfallenden
 
 
 abdeckt und die Erwirtschaftung eines angemessenen
-Selbstfinanzierungsbeitrags des Renten Service im Bereich der Deutsche
-Post AG ermöglicht.
+Selbstfinanzierungsbeitrags des Renten Service im Bereich der
+Deutschen Post AG ermöglicht.
 
 (3) Der Vergütungsanspruch richtet sich
 
@@ -981,8 +991,9 @@ für den Bereich der Rentenversicherung durch Vereinbarung zwischen der
 Deutschen Rentenversicherung Bund und dem Renten Service auf der
 Grundlage des § 32 Abs. 2 festgesetzt. Für den Bereich der
 Unfallversicherung gilt Satz 3 entsprechend; an die Stelle der
-Deutschen Rentenversicherung Bund treten die Spitzenverbände der
-Unfallversicherung.
+Deutschen Rentenversicherung Bund treten die Deutsche Gesetzliche
+Unfallversicherung e. V. und die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau.
 
 (5) Beschränkt sich die Dienstleistung des Renten Service auf den
 Abgleich der Sterbefallmitteilungen (§ 24 Abs. 1 Satz 1), beträgt das
@@ -997,18 +1008,10 @@ Auslagen für die Inanspruchnahme von Dienstleistungen Dritter im
 Rahmen des Erforderlichen
 
 1.  Entgelte an Geldinstitute und sonstige Dritte für die Auszahlung von
-
-    a)  Inlandszahlungen, die nicht auf ein Konto überwiesen werden können,
-        und
+    Geldleistungen,
 
 
-    b)  Auslandszahlungen,
-
-
-
-
-
-2.  Entgelte an andere Geschäftsbereiche der Deutsche Post AG für die
+2.  Entgelte an andere Geschäftsbereiche der Deutschen Post AG für die
     Versendung von
 
     a)  Anpassungsmitteilungen und

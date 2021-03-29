@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1980, 1237
 
+Konstitutiv neugefasst durch
+:   Bek. v. 2.7.1980 I 1237;
+
 Zuletzt geändert durch
-:   Bek. v. 7.5.2012 I 1119
+:   Beschluss d. Bundestages v. 1.6.2017 gem. Bek. v. 12.6.2017 I 1877
 
 
 ## Eingangsformel
@@ -39,10 +42,11 @@ Deutschen Bundestages in der Fassung der Bekanntmachung vom 22. Mai
 bisherigen Präsidenten spätestens zum dreißigsten Tage nach der Wahl
 (Artikel 39 des Grundgesetzes) einberufen.
 
-(2) In der ersten Sitzung des Bundestages führt das an Jahren älteste
-oder, wenn es ablehnt, das nächstälteste Mitglied des Bundestages den
-Vorsitz, bis der neugewählte Präsident oder einer seiner
-Stellvertreter das Amt übernimmt.
+(2) Bis der neugewählte Präsident oder einer seiner Stellvertreter das
+Amt übernimmt, führt das am längsten dem Bundestag angehörende
+Mitglied, das hierzu bereit ist, den Vorsitz (Alterspräsident); bei
+gleicher Dauer der Zugehörigkeit zum Bundestag entscheidet das höhere
+Lebensalter.
 
 (3) Der Alterspräsident ernennt Mitglieder des Bundestages zu
 vorläufigen Schriftführern. Hierauf erfolgt der Namensaufruf der
@@ -678,8 +682,9 @@ Mitglieder des Bundestages die Aussprache über seine Ausführungen
 eröffnet. In dieser Aussprache dürfen keine Sachanträge gestellt
 werden.
 
+Feststellung der Beschlußfähigkeit
 
-### § 45 Feststellung der Beschlußfähigkeit Folgen der Beschlußunfähigkeit
+### § 45 Folgen der Beschlußunfähigkeit
 
 (1) Der Bundestag ist beschlußfähig, wenn mehr als die Hälfte seiner
 Mitglieder im Sitzungssaal anwesend ist.
@@ -783,7 +788,7 @@ einig, so wird die Gegenprobe gemacht. Bleibt er auch nach ihr
 uneinig, so werden die Stimmen gezählt. Auf Anordnung des
 Sitzungsvorstandes erfolgt die Zählung gemäß Absatz 2.
 
-(2) Nachdem die Mitglieder des Bundestages auf Anforderung des
+(2) Nachdem die Mitglieder des Bundestages auf Aufforderung des
 Präsidenten den Sitzungssaal verlassen haben, werden die Türen bis auf
 drei Abstimmungstüren geschlossen. An jeder dieser Türen stellen sich
 zwei Schriftführer auf. Auf ein Zeichen des Präsidenten betreten die
@@ -1196,8 +1201,7 @@ nochmaligen Aussprache im Plenum sein. Der federführende Ausschuß kann
 jedoch eine nochmalige Befassung im Plenum verlangen, wobei sich die
 Befassung auf eine Berichterstattung aus dem Ausschuß durch einen
 Sprecher zu beschränken hat. Der Sprecher hat die verschiedenen im
-Ausschuß vertretenden Positionen innerhalb von fünf Minuten
-darzulegen.
+Ausschuß vertretenen Positionen innerhalb von fünf Minuten darzulegen.
 
 
 ### § 70 Öffentliche Anhörungssitzungen
@@ -1408,20 +1412,21 @@ versehen werden.
 
 ### § 77 Behandlung der Vorlagen
 
-(1) Vorlagen werden gedruckt und an die Mitglieder des Bundestages,
-des Bundesrates und an die Bundesministerien verteilt.
+(1) Vorlagen werden an die Mitglieder des Bundestages, des Bundesrates
+und an die Bundesministerien in der Regel auf elektronischem Weg
+verteilt. Eine Verteilung in Papierform ist weiterhin zulässig.
 
 (2) Bei Vorlagen gemäß § 75 Abs. 1 Buchstabe e, die der Unterrichtung
 des Bundestages dienen (Berichte, Denkschriften, Programme, Gutachten,
 Nachweisungen und ähnliches), kann der Präsident, soweit sie nicht auf
 gesetzlichen Vorschriften oder Beschlüssen des Bundestages beruhen, im
-Benehmen mit dem Ältestenrat ganz oder teilweise von der Drucklegung
-und Verteilung absehen. In diesen Fällen wird der Eingang dieser
-Vorlagen und im Benehmen mit dem Ältestenrat die Art ihrer Behandlung
-als amtliche Mitteilung durch den Präsidenten bekanntgegeben. Sie
-werden als Übersicht in einer Drucksache zusammengestellt, in der auch
-anzugeben ist, in welchen Räumen des Bundestages die Vorlagen
-eingesehen werden können.
+Benehmen mit dem Ältestenrat ganz oder teilweise von der Verteilung
+absehen. In diesen Fällen wird der Eingang dieser Vorlagen und im
+Benehmen mit dem Ältestenrat die Art ihrer Behandlung als amtliche
+Mitteilung durch den Präsidenten bekanntgegeben. Sie werden als
+Übersicht in einer Drucksache zusammengestellt, in der auch anzugeben
+ist, in welchen Räumen des Bundestages die Vorlagen eingesehen werden
+können.
 
 
 ### § 78 Beratungen
@@ -1503,7 +1508,7 @@ hinausgehenden Beschluß empfehlen will. Erhebt der Haushaltsausschuß
 gegen eine Unionsvorlage (§ 93), deren Finanzierung nicht durch den
 jeweiligen jährlichen Eigenmittelansatz der Europäischen Union gedeckt
 ist oder erkennbar nicht gedeckt sein wird, Bedenken zu ihrer
-Vereinbarkeit mit dem laufenden oder mit zukünftigen Haushalten des
+Vereinbarkeit mit dem laufenden oder mit künftigen Haushalten des
 Bundes, hat der federführende Ausschuß Bericht zu erstatten.
 
 (4) Vorlagen, die nach Vereinbarung im Ältestenrat im vereinfachten
@@ -1659,8 +1664,8 @@ Verträge findet keine besondere Schlußabstimmung statt.
 Grundgesetzes Gebrauch, so ist die Beschlußfassung auszusetzen. Der
 Gesetzentwurf darf frühestens nach Eingang der Stellungnahme der
 Bundesregierung oder sechs Wochen nach Zugang des Verlangens der
-Bundesregierung beim Bundespräsidenten auf die Tagesordnung gesetzt
-werden.
+Bundesregierung beim Bundestagspräsidenten auf die Tagesordnung
+gesetzt werden.
 
 (2) Verlangt die Bundesregierung nach Artikel 113 Abs. 2 des
 Grundgesetzes, daß der Bundestag erneut Beschluß faßt, gilt der
@@ -1752,7 +1757,7 @@ Unionsdokumenten scheidet bei Widerspruch einer Fraktion oder von fünf
 vom Hundert der Mitglieder des Bundestages aus.
 
 (3) Unionsdokumente, die Vorhaben oder Unterrichtungen im Sinne der §§
-3 und 8 des Gesetzes über die Zusammenarbeit von Bundesregierung und
+5 und 7 des Gesetzes über die Zusammenarbeit von Bundesregierung und
 Deutschem Bundestag in Angelegenheiten der Europäischen Union sowie
 Entschließungen des Europäischen Parlaments beinhalten, kommen für
 eine Überweisung grundsätzlich in Betracht. Bei Vorbereitung der
@@ -1798,7 +1803,7 @@ bezieht sich eine Beschlussempfehlung auf ein derartiges
 Unionsdokument, wird unter Wahrung der Vertraulichkeit nur über dessen
 wesentlichen Inhalt berichtet.
 
-(8) Schriftliche Unterrichtungen der Bundesregierung nach § 9 Absatz 5
+(8) Schriftliche Unterrichtungen der Bundesregierung nach § 8 Absatz 5
 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem
 Bundestag in Angelegenheiten der Europäischen Union müssen auf
 Verlangen einer Fraktion oder von fünf vom Hundert der Mitglieder des
@@ -1841,7 +1846,7 @@ Beschlussempfehlung vorzulegen.
 
 (4) Absatz 3 gilt entsprechend für das Einvernehmen zwischen Bundestag
 und Bundesregierung über die Aufnahme von Verhandlungen über Beitritte
-und Vertragsänderungen nach § 10 des Gesetzes über die Zusammenarbeit
+und Vertragsänderungen nach § 9 des Gesetzes über die Zusammenarbeit
 von Bundesregierung und Deutschem Bundestag in Angelegenheiten der
 Europäischen Union.
 
@@ -1944,11 +1949,7 @@ Verhandlungsgegenständen anzuregen sowie während der Beratungen des
 Ausschusses für die Angelegenheiten der Europäischen Union Auskünfte
 zu erteilen und Stellung zu nehmen.
 
-(9) Der Ausschuss für die Angelegenheiten der Europäischen Union hat
-Grundsätze über die Behandlung der ihm zugeleiteten Unionsvorlagen
-aufzustellen und diese zum Ausgangspunkt seiner Beschlussempfehlung an
-den Bundestag oder seiner Stellungnahme gegenüber der Bundesregierung
-zu machen.
+(9) (weggefallen)
 
 
 ### § 93c Subsidiaritätsrüge
@@ -2357,12 +2358,11 @@ Sammelübersicht vorgelegt. Der Bericht soll monatlich vorgelegt
 werden. Darüber hinaus erstattet der Petitionsausschuß dem Bundestag
 jährlich einen schriftlichen Bericht über seine Tätigkeit.
 
-(2) Die Berichte werden gedruckt, verteilt und innerhalb von drei
-Sitzungswochen nach der Verteilung auf die Tagesordnung gesetzt; sie
-können vom Berichterstatter mündlich ergänzt werden. Eine Aussprache
-findet jedoch nur statt, wenn diese von einer Fraktion oder von
-anwesenden fünf vom Hundert der Mitglieder des Bundestages verlangt
-wird.
+(2) Die Berichte werden verteilt und innerhalb von drei Sitzungswochen
+nach der Verteilung auf die Tagesordnung gesetzt; sie können vom
+Berichterstatter mündlich ergänzt werden. Eine Aussprache findet
+jedoch nur statt, wenn diese von einer Fraktion oder von anwesenden
+fünf vom Hundert der Mitglieder des Bundestages verlangt wird.
 
 (3) Den Einsendern wird die Art der Erledigung ihrer Petition
 mitgeteilt. Diese Mitteilung soll mit Gründen versehen sein.
@@ -2502,16 +2502,17 @@ Signaturgesetz versehen sein. Das Nähere regeln
 Ausführungsbestimmungen, die vom Ältestenrat zu erlassen sind.
 
 
-### § 123 Fristenberechnung
+### § 123 Fristberechnung
 
 (1) Bei Fristen wird der Tag der Verteilung der Drucksache nicht
-eingerechnet; sie gilt als verteilt, wenn sie den Mitgliedern des
-Bundestages in ihre Fächer gelegt worden ist.
+eingerechnet; sie gilt als verteilt, wenn sie für die Mitglieder des
+Bundestages elektronisch abrufbar oder in ihre Fächer verteilt worden
+ist.
 
 (2) Die Fristen gelten auch dann als gewahrt, wenn infolge technischer
-Schwierigkeiten oder aus zufälligen Gründen einzelne Mitglieder des
-Bundestages eine Drucksache erst nach der allgemeinen Verteilung
-erhalten.
+Schwierigkeiten oder aus zufälligen Gründen für einzelne Mitglieder
+des Bundestages eine Drucksache erst nach der allgemeinen Verteilung
+elektronisch abrufbar oder in ihre Fächer verteilt worden ist.
 
 
 ### § 124 Wahrung der Frist
@@ -2596,6 +2597,11 @@ Empfehlungen unterbreiten (§ 75 Abs. 1 Buchstabe h).
 ### Anlage 6 Grundsätze in Immunitätsangelegenheiten und in Fällen der Genehmigung gemäß § 50 Abs. 3 StPO und § 382 Abs. 3 ZPO sowie bei Ermächtigungen gemäß § 90b Abs. 2, § 194 Abs. 4 StGB
 
 (Text siehe: BTGO1980Anl 6)
+
+
+### Anlage 6 Beschluß des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages
+
+(Text siehe: BTGO1980Bes)
 
 
 ### Anlage 7 Befragung der Bundesregierung

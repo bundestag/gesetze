@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 6. April 1974 über einen Verhaltenskode
   Linienkonferenzen
 jurabk: LinKonfVhKodÜbkG
 layout: default
-origslug: linkonfvhkod_bkg
+origslug: linkonfvhkoduebkg
 slug: linkonfvhkoduebkg
 
 ---

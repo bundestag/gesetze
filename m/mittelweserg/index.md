@@ -29,8 +29,8 @@ Zuletzt geändert durch
 herzustellenden Schleusenkanäle samt Nebenanlagen sowie zur
 Beschaffung von Entschädigungsland für landwirtschaftliche Betriebe
 kann das
-Reich              das Grundeigentum und Rechte am Grundeigentum gegen
-angemessene Entschädigung entziehen oder beschränken.
+Reich das Grundeigentum und Rechte am Grundeigentum gegen angemessene
+Entschädigung entziehen oder beschränken.
 
 (2) Von der Befugnis zur Beschaffung von Entschädigungsland darf
 unbeschadet der Bestimmung in § 14 Abs. 2 nur in dem zwischen den
@@ -41,8 +41,7 @@ Grenze Gebrauch gemacht werden.
 
 (3) Durch die Entziehung oder Beschränkung von Grundeigentum zur
 Beschaffung von Entschädigungsland dürfen
-Erbhöfe und andere              Betriebe in ihrem Bestand nicht
-gefährdet werden.
+Erbhöfe und andere Betriebe in ihrem Bestand nicht gefährdet werden.
 
 
 ### § 2
@@ -84,27 +83,25 @@ steht und eine Entschädigung in Land tunlich erscheint.
 #### § 5
 
 (1) Das
-Reich              legt als Träger des Unternehmens der
-Enteignungsbehörde einen Landentschädigungsplan vor, der die zur
-Entschädigung in Land bestimmten Grundstücke sowie Vorschläge für ihre
-Zuteilung und Herrichtung für den landwirtschaftlichen Betrieb
-enthält.
+Reich legt als Träger des Unternehmens der Enteignungsbehörde einen
+Landentschädigungsplan vor, der die zur Entschädigung in Land
+bestimmten Grundstücke sowie Vorschläge für ihre Zuteilung und
+Herrichtung für den landwirtschaftlichen Betrieb enthält.
 
 (2) Den Landentschädigungsplan stellt der
-Preußische              Kulturamtsvorsteher nach Anhörung der
-Beteiligten
-und des Landesbauernführers              auf.
+Preußische Kulturamtsvorsteher nach Anhörung der Beteiligten
+und des Landesbauernführers auf.
 
 
 #### § 6
 
 Der Kulturamtsvorsteher hat zur Durchführung seiner Aufgaben die ihm
-im preußischen Umlegungsverfahren              zustehenden amtlichen
-Befugnisse. Er ist zur Beurkundung von Rechtsgeschäften, die der
-Durchführung des Unternehmens dienen, mit Ausnahme der Auflassung
-befugt. Die von ihm vorgenommenen Beurkundungen stehen gerichtlichen
-Urkunden gleich, wenn sie in der für die Gerichte vorgeschriebenen
-Form und unter Bezugnahme auf diese Bestimmung aufgenommen werden.
+im preußischen Umlegungsverfahren zustehenden amtlichen Befugnisse. Er
+ist zur Beurkundung von Rechtsgeschäften, die der Durchführung des
+Unternehmens dienen, mit Ausnahme der Auflassung befugt. Die von ihm
+vorgenommenen Beurkundungen stehen gerichtlichen Urkunden gleich, wenn
+sie in der für die Gerichte vorgeschriebenen Form und unter Bezugnahme
+auf diese Bestimmung aufgenommen werden.
 
 
 #### § 7
@@ -194,11 +191,10 @@ aus dem Landentschädigungsplan ersichtlichen Rechtsänderungen.
 (1) Geschäfte und Verhandlungen, die der Durchführung der
 Landbeschaffung und der Landentschädigung nach Maßgabe dieses Gesetzes
 dienen, sind von allen Steuern und Gebühren des
-Reichs,              der Länder, der Gemeinden und der
-Gemeindeverbände befreit. Die Befreiung gilt nicht für die
-Grunderwerbsteuer (einschließlich Zuschläge), für die
-Wertzuwachssteuer und für die Verfolgung von Ansprüchen im
-ordentlichen Rechtsweg.
+Reichs, der Länder, der Gemeinden und der Gemeindeverbände befreit.
+Die Befreiung gilt nicht für die Grunderwerbsteuer (einschließlich
+Zuschläge), für die Wertzuwachssteuer und für die Verfolgung von
+Ansprüchen im ordentlichen Rechtsweg.
 
 (2) Die Steuer- und Gebührenfreiheit kann durch die zuständige Behörde
 ohne weitere Nachprüfung zugestanden werden, wenn der
@@ -213,13 +209,13 @@ in Absatz 1 genannten Zweck dient.
 #### § 14
 
 (1) Dem
-Umlegungsverfahren              unterliegen die Grundstücke innerhalb
-der in § 1 Abs. 2 angegebenen Begrenzung insoweit, als ihre
-Einbeziehung zur Aufbringung des durch den Schleusenkanal und seine
-Nebenanlagen eintretenden Flächenverlusts und zur Erzielung einer
-wirtschaftlich zweckmäßigen Planung erforderlich ist. Der
-Flächenverlust ist von den Verfahrensteilnehmern in einem für jeden
-Teilnehmer wirtschaftlich tragbaren Maß aufzubringen.
+Umlegungsverfahren unterliegen die Grundstücke innerhalb der in § 1
+Abs. 2 angegebenen Begrenzung insoweit, als ihre Einbeziehung zur
+Aufbringung des durch den Schleusenkanal und seine Nebenanlagen
+eintretenden Flächenverlusts und zur Erzielung einer wirtschaftlich
+zweckmäßigen Planung erforderlich ist. Der Flächenverlust ist von den
+Verfahrensteilnehmern in einem für jeden Teilnehmer wirtschaftlich
+tragbaren Maß aufzubringen.
 
 (2) Das gleiche gilt für Grundstücke außerhalb der in § 1 Abs. 2
 angegebenen Begrenzung, die zur Erzielung einer wirtschaftlich
@@ -237,11 +233,10 @@ Kosten als Folgeeinrichtungskosten (§ 16).
 #### § 16
 
 Sämtliche durch das
-Umlegungsverfahren              entstehenden Kosten einschließlich der
-Neben- und Folgeeinrichtungskosten hat der Unternehmer zu tragen,
-soweit die
-Umlegung              in dem in § 1 Abs. 2 bezeichneten Gebiet erfolgt
-(§ 14 Abs. 1).
+Umlegungsverfahren entstehenden Kosten einschließlich der Neben- und
+Folgeeinrichtungskosten hat der Unternehmer zu tragen, soweit die
+Umlegung in dem in § 1 Abs. 2 bezeichneten Gebiet erfolgt (§ 14 Abs.
+1).
 Artikel 2 § 2, Artikel 3 des preußischen Gesetzes vom 21. April 1934
 (Preuß. Gesetzsamml. S. 253) zur Abänderung der Umlegungsordnung vom
 21\. September 1920 (Preuß. Gesetzsamml. S. 453) finden keine

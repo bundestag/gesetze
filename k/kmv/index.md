@@ -13,10 +13,10 @@ Ausfertigungsdatum
 :   2010-03-19
 
 Fundstelle
-:   BGBl I: 2010, 287
+:   BGBl I: 2010, 286, 287
 
-Geändert durch
-:   Art. 1 V v. 9.8.2012 I 1710
+Zuletzt geändert durch
+:   Art. 2 V v. 24.11.2016 I 2656
 
 
 ## § 1 Begriffsbestimmung
@@ -179,10 +179,10 @@ fahrlässig
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
 Nr. 1881/2006 der Kommission vom 19. Dezember 2006 zur Festsetzung der
 Höchstgehalte für bestimmte Kontaminanten in Lebensmitteln (ABl. L 364
-vom 20.12.2006, S. 5), die zuletzt durch die Verordnung (EU) Nr.
-1259/2011 (ABl. L 320 vom 3.12.2011, S. 18) geändert worden ist,
-verstößt, indem er vorsätzlich oder fahrlässig entgegen Artikel 1
-Absatz 1 ein Lebensmittel in den Verkehr bringt.
+vom 20.12.2006, S. 5), die zuletzt durch die Verordnung (EU) 2016/239
+(ABl. L 45 vom 20.2.2016, S. 3) geändert worden ist, verstößt, indem
+er vorsätzlich oder fahrlässig entgegen Artikel 1 Absatz 1 ein
+Lebensmittel in den Verkehr bringt.
 
 (3) Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
@@ -262,9 +262,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1
 
     *   Summe aus B
-        1                     , B
-        2                     , G
-        1                      und G
+        1, B
+        2, G
+        1 und G
         2
 
     *   M

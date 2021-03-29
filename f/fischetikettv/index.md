@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3363
 
-Geändert durch
-:   Art. 3 § 16 G v. 13.12.2007 I 2930
+Zuletzt geändert durch
+:   Art. 1 V v. 5.11.2015 I 1926
 
 
 ## Eingangsformel
@@ -46,20 +46,32 @@ Landwirtschaft verordnet
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Verordnungen des Rates und der Kommission der Europäischen
-Gemeinschaft über die gemeinsame Marktorganisation für Erzeugnisse der
-Fischerei und der Aquakultur hinsichtlich der Etikettierung von
-Fischen und Fischereierzeugnissen.
+Verordnungen der Organe der Europäischen Union über die gemeinsame
+Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur
+hinsichtlich der Etikettierung von Fischereierzeugnissen und
+Aquakulturerzeugnissen.
 
 
 ## § 2 Begriffsbestimmung
 
-Im Sinne dieser Verordnung sind Fische oder Fischereierzeugnisse die
-von Artikel 4 Abs. 1 der Verordnung (EG) Nr. 104/2000 des Rates über
-die gemeinsame Marktorganisation für Erzeugnisse der Fischerei und der
-Aquakultur (ABl. EG Nr. L 17 S. 22) in der jeweils geltenden Fassung
-erfassten Fische, Krebs- und Weichtiere sowie die daraus gewonnenen
-Erzeugnisse.
+Im Sinne dieser Verordnung sind Fischereierzeugnisse und
+Aquakulturerzeugnisse die von Artikel 2 der Verordnung (EU) Nr.
+1379/2013 des Europäischen Parlaments und des Rates vom 11. Dezember
+2013 über die gemeinsame Marktorganisation für Erzeugnisse der
+Fischerei und der Aquakultur, zur Änderung der Verordnungen (EG) Nr.
+1184/2006 und (EG) Nr. 1224/2009 des Rates und zur Aufhebung der
+Verordnung (EG) Nr. 104/2000 des Rates(ABl. L 354 vom 28.12.2013, S.
+1) in der jeweils geltenden Fassung erfassten Fische, Krebs- und
+Weichtiere, Algen und Tange sowie die daraus gewonnenen Erzeugnisse.
+
+
+## § 2a Angabe des Fanggerätes
+
+Bei der Angabe der Fanggerätekategorie nach Artikel 35 Absatz 1
+Buchstabe c der Verordnung (EU) Nr. 1379/2013 ist bei zugelassenen
+Fanggeräten der Binnenfischerei, die nicht in Anhang III der
+Verordnung (EU) Nr. 1379/2013 erfasst sind, der gebräuchliche Name des
+Fanggerätes anzugeben.
 
 
 ## § 3 Handelsbezeichnungen
@@ -74,8 +86,8 @@ Antrag tätig.
 (2) Die Bundesanstalt berücksichtigt bei der Aufstellung oder der
 Festlegung nach Absatz 1 Satz 1 die Verkehrsbezeichnungen, die in den
 von der Deutschen Lebensmittelbuch-Kommission beschlossenen Leitsätzen
-des Deutschen Lebensmittelbuches nach § 33 des Lebensmittel- und
-Bedarfsgegenständegesetzes enthalten sind. Soweit für eine bestimmte
+des Deutschen Lebensmittelbuches nach § 15 des Lebensmittel- und
+Futtermittelgesetzbuchs enthalten sind. Soweit für eine bestimmte
 Fischart im Rahmen der Leitsätze keine Verkehrsbezeichnung besteht,
 legt die Bundesanstalt die Handelsbezeichnung insbesondere unter
 Berücksichtigung der Merkmale und der Herkunft der Fischart fest.
@@ -99,8 +111,8 @@ die Bundesanstalt
 
 anzuhören.
 
-(4) Wer Fisch oder Fischereierzeugnisse in den Verkehr bringt,
-innergemeinschaftlich verbringt, einführt oder ausführt
+(4) Wer Fischereierzeugnisse oder Aquakulturerzeugnisse in den Verkehr
+bringt, innergemeinschaftlich verbringt, einführt oder ausführt
 (Marktbeteiligter), kann bei der Bundesanstalt schriftlich beantragen,
 eine Handelsbezeichnung in das Verzeichnis aufzunehmen, zu ändern oder
 eine vorläufige Handelsbezeichnung festzulegen. In dem Antrag sind
@@ -134,42 +146,21 @@ einer vorläufigen Handelsbezeichnung über die Aufnahme in das
 Verzeichnis. Die Bundesanstalt veröffentlicht das Verzeichnis sowie
 jede Neuaufnahme oder Änderung des Verzeichnisses im Bundesanzeiger.
 
-(7) Die Bundesanstalt teilt der Kommission der Europäischen
-Gemeinschaft unverzüglich die Aufstellung des Verzeichnisses, jede
-Neuaufnahme in das Verzeichnis oder Änderung des Verzeichnisses mit.
+(7) Die Bundesanstalt teilt der Kommission der Europäischen Union
+unverzüglich die Aufstellung des Verzeichnisses, jede Neuaufnahme in
+das Verzeichnis oder Änderung des Verzeichnisses mit.
 
 
-## § 4 Mittelbare Angabe der Produktionsmethode
+## § 4 Ausnahme von der Etikettierungspflicht
 
-Bei der Etikettierung von Fischen oder Fischereierzeugnissen aus der
-Seefischerei ist bei Abgabe an den Endverbraucher die Angabe der
-Produktionsmethode im Sinne von Artikel 4 Abs. 1 der Verordnung (EG)
-Nr. 2065/2001 der Kommission vom 22. Oktober 2001 mit
-Durchführungsbestimmungen zur Verordnung (EG) Nr. 104/2000 des Rates
-hinsichtlich der Verbraucherinformation bei Erzeugnissen der Fischerei
-und der Aquakultur (ABl. EG Nr. L 278 S. 6) in der jeweils geltenden
-Fassung entbehrlich, wenn sich aus der Angabe der Handelsbezeichnung
-im Zusammenhang mit der Angabe des Fanggebietes ergibt, dass es sich
-um eine im Meer gefangene Fischart handelt.
+Werden Fischereierzeugnisse oder Aquakulturerzeugnisse unmittelbar von
+einem Fischereifahrzeug verkauft und beträgt der gesamte Verkaufswert
+je Kalendertag und Endverbraucher 50 Euro oder weniger, sind bei dem
+Inverkehrbringen dieser Erzeugnisse die Anforderungen des Artikels 35
+Absatz 1 der Verordnung (EU) Nr. 1379/2013 nicht zu beachten.
 
 
-## § 5 Angabe mehrerer Fanggebiete bei Erzeugnissen der Aquakultur
-
-Jeder Marktbeteiligte kann, wenn die Entwicklung von Erzeugnissen der
-Aquakultur in mehreren Fanggebieten im Sinne von Artikel 5 Abs. 1
-Buchstabe c der Verordnung (EG) Nr. 2065/2001 stattgefunden hat, bei
-der Etikettierung entsprechende Angaben machen.
-
-
-## § 6 Ausnahme von der Etikettierungspflicht
-
-Eine kleine Menge von Fischen oder Fischereierzeugnissen im Sinne von
-Artikel 7 Satz 1 der Verordnung (EG) Nr. 2065/2001 ist gegeben, wenn
-der Wert des Gegenstandes des Veräußerungsgeschäftes den dort
-genannten Betrag nicht übersteigt.
-
-
-## § 7 Aufbewahrung von Belegen
+## § 5 Aufbewahrung von Belegen
 
 Jeder Marktbeteiligte ist verpflichtet, die Belege, aus denen sich
 eine Bestätigung der nach den in § 1 genannten Rechtsakten für die
@@ -179,38 +170,36 @@ der Erstellung des jeweiligen Belegs. Andere Vorschriften, nach denen
 eine längere Aufbewahrungsfrist besteht, bleiben unberührt.
 
 
-## § 8 Ordnungswidrigkeiten
+## § 6 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 1 Buchstabe b des
 Fischetikettierungsgesetzes handelt, wer vorsätzlich oder fahrlässig
-entgegen § 7 Satz 1 einen Beleg nicht oder nicht mindestens zwei Jahre
+entgegen § 5 Satz 1 einen Beleg nicht oder nicht mindestens zwei Jahre
 aufbewahrt.
 
-(2) Ordnungswidrig im Sinne des § 8 Abs. 1 Nr. 4 des
+(2) Ordnungswidrig im Sinne des § 8 Absatz 1 Nummer 4 des
 Fischetikettierungsgesetzes handelt, wer als Marktbeteiligter
-vorsätzlich oder fahrlässig entgegen Artikel 8 Satz 2 in Verbindung
-mit Satz 1 der Verordnung (EG) Nr. 2065/2001 der Kommission vom 22.
-Oktober 2001 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
-104/2000 des Rates hinsichtlich der Verbraucherinformation bei
-Erzeugnissen der Fischerei und der Aquakultur (ABl. EG Nr. L 278 S. 6)
-eine vorgeschriebene Angabe über die Handelsbezeichnung, die
-Produktionsmethode oder das Fanggebiet auf einer Stufe der Vermarktung
-nicht, nicht richtig, nicht vollständig oder nicht in der
-vorgeschriebenen Weise macht oder den wissenschaftlichen Namen der
-betreffenden Art nicht, nicht richtig, nicht vollständig oder nicht in
-der vorgeschriebenen Weise angibt.
+vorsätzlich oder fahrlässig entgegen Artikel 35 Absatz 1 Buchstabe a,
+Buchstabe b oder Buchstabe d oder Buchstabe c in Verbindung mit
+Artikel 38 Absatz 1 der Verordnung (EU) Nr. 1379/2013 des Europäischen
+Parlaments und des Rates vom 11. Dezember 2013 über die gemeinsame
+Marktorganisation für Erzeugnisse der Fischerei und der Aquakultur,
+zur Änderung der Verordnungen (EG) Nr. 1184/2006 und (EG) Nr.
+1224/2009 des Rates und zur Aufhebung der Verordnung (EG) Nr. 104/2000
+des Rates (ABl. L 354 vom 28.12.2013, S. 1) ein dort genanntes
+Erzeugnis zum Verkauf anbietet.
 
 
-## § 9 Zuständige Verwaltungsbehörde
+## § 7 Zuständige Verwaltungsbehörde
 
 Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 8 des Fischetikettierungsgesetzes und nach
-§ 8 dieser Verordnung wird auf die Bundesanstalt übertragen, soweit
+§ 6 dieser Verordnung wird auf die Bundesanstalt übertragen, soweit
 sie nach § 4 Satz 1 Nr. 1 des Fischetikettierungsgesetzes für die
 Überwachung zuständig ist.
 
 
-## § 10 Inkrafttreten
+## § 8 Inkrafttreten
 
 Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 

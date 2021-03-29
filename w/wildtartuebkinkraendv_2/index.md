@@ -3,7 +3,7 @@ Title: Zweite Verordnung über die Inkraftsetzung von Änderungen der Anhänge I
   II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 jurabk: WildTArtÜbkInkrÄndV 2
 layout: default
-origslug: wildtart_bkinkr_ndv_2
+origslug: wildtartuebkinkraendv_2
 slug: wildtartuebkinkraendv_2
 
 ---

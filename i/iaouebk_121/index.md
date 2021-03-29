@@ -3,7 +3,7 @@ Title: Übereinkommen Nr. 121 (der internationalen Arbeitsorganisation) über Le
   bei Arbeitsunfällen und Berufskrankheiten
 jurabk: IAOÜbk 121
 layout: default
-origslug: iao_bk_121
+origslug: iaouebk_121
 slug: iaouebk_121
 
 ---

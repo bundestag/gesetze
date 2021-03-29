@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1069
 
+Zuletzt geändert durch
+:   Art. 7 G v. 12.5.2017 I 1121
+
 
 ## Eingangsformel
 
@@ -26,11 +29,8 @@ von denen § 18 Abs. 3 durch Artikel 6 des Gesetzes vom 12. Juni 2008
 der Justiz:
 
 
-## § 1 Bestimmung von Teilbereichen
+## § 1 (weggefallen)
 
-Das Recht des gewerblichen Rechtsschutzes und das Steuerrecht sind
-Teilbereiche der Rechtsdienstleistungen in einem ausländischen Recht
-nach § 10 Abs. 1 Satz 1 Nr. 3 des Rechtsdienstleistungsgesetzes.
 
 
 ## § 2 Nachweis der theoretischen Sachkunde
@@ -50,10 +50,10 @@ wenn der Studiengang die nach § 11 Abs. 1 oder 2 des
 Rechtsdienstleistungsgesetzes erforderlichen Rechtskenntnisse
 vermittelt.
 
-(2) In den Fällen des § 12 Abs. 3 Satz 3 des
+(2) In den Fällen des § 12 Absatz 3 Satz 4 des
 Rechtsdienstleistungsgesetzes ist durch geeignete Unterlagen,
 insbesondere das Zeugnis einer ausländischen Behörde, nachzuweisen,
-dass die Voraussetzungen des § 12 Abs. 3 Satz 3 des
+dass die Voraussetzungen des § 12 Absatz 3 Satz 4 des
 Rechtsdienstleistungsgesetzes vorliegen. Daneben ist ein gesonderter
 Nachweis der theoretischen Sachkunde nicht erforderlich.
 
@@ -71,8 +71,8 @@ Inhalten den in Absatz 1 Satz 3 genannten Studiengängen entspricht.
 beschränkt, so genügt zum Nachweis der theoretischen Sachkunde das
 Zeugnis einer ausländischen Behörde darüber, dass die zu
 registrierende Person in dem ausländischen Staat rechtmäßig zur
-Ausübung des Patentanwaltsberufs, des Steuerberaterberufs oder eines
-vergleichbaren Berufs niedergelassen ist oder war.
+Ausübung eines Berufs, der den beantragten Teilbereich umfasst,
+niedergelassen ist oder war.
 
 (5) Der Nachweis der Sachkunde in einem ausländischen Recht erstreckt
 sich nur auf das Recht, auf das sich die vorgelegten Zeugnisse
@@ -94,18 +94,17 @@ genügt zum Nachweis der praktischen Sachkunde auch das Zeugnis einer
 ausländischen Behörde darüber, dass die zu registrierende Person in
 dem ausländischen Land rechtmäßig zur Ausübung des Rechtsanwaltsberufs
 oder eines vergleichbaren rechtsberatenden Berufs, in den Fällen des §
-2 Abs. 4 zur Ausübung des Patentanwaltsberufs, des Steuerberaterberufs
-oder eines vergleichbaren Berufs, niedergelassen ist oder war. § 2
-Abs. 5 gilt entsprechend.
+2 Absatz 4 zur Ausübung eines Berufs, der den beantragten Teilbereich
+umfasst, niedergelassen ist oder war. § 2 Abs. 5 gilt entsprechend.
 
-(3) In den Fällen des § 12 Abs. 3 Satz 3 des
-Rechtsdienstleistungsgesetzes ist zusätzlich das von einer
-registrierten Person oder einem Mitglied einer Rechtsanwaltskammer
-ausgestellte Zeugnis darüber vorzulegen, dass die zu registrierende
-Person in dem Bereich, für den sie die Registrierung beantragt,
-mindestens sechs Monate unter der Verantwortung der registrierten oder
-einer für sie tätigen qualifizierten Person oder des Mitglieds einer
-Rechtsanwaltskammer im Inland tätig gewesen ist.
+(3) In den Fällen des § 12 Absatz 3 Satz 4 des
+Rechtsdienstleistungsgesetzes ist das von einer registrierten Person
+oder einem Mitglied einer Rechtsanwaltskammer ausgestellte Zeugnis
+darüber vorzulegen, dass die zu registrierende Person in dem Bereich,
+für den sie die Registrierung beantragt, mindestens sechs Monate unter
+der Verantwortung der registrierten oder einer für sie tätigen
+qualifizierten Person oder des Mitglieds einer Rechtsanwaltskammer im
+Inland tätig gewesen ist.
 
 
 ## § 4 Sachkundelehrgang
@@ -246,10 +245,10 @@ Auskunft überwiegt.
 ## § 6 Registrierungsverfahren
 
 (1) Anträge nach § 13 Abs. 1 des Rechtsdienstleistungsgesetzes sind
-schriftlich zu stellen. Dabei ist anzugeben, für welchen Bereich oder
-Teilbereich die Registrierung erfolgen soll, und ob die Einwilligung
-zur Veröffentlichung von Telefonnummer und E-Mail-Adresse erteilt
-wird.
+schriftlich oder elektronisch zu stellen. Dabei ist anzugeben, für
+welchen Bereich oder Teilbereich die Registrierung erfolgen soll, und
+ob die Einwilligung zur Veröffentlichung von Telefonnummer und E-Mail-
+Adresse erteilt wird.
 
 (2) Im Bereich der Rechtsdienstleistungen in einem ausländischen Recht
 ist das ausländische Recht anzugeben, auf das sich die Registrierung
@@ -271,7 +270,7 @@ ausgestellt sind, kann die Vorlage einer Übersetzung verlangt werden.
 Registrierung zuständigen Behörden haben Akten und elektronische Akten
 über registrierte Personen für einen Zeitraum von zehn Jahren nach der
 Löschung der im Rechtsdienstleistungsregister öffentlich bekannt
-gemachten Daten gemäß § 17 Abs. 1 Nr. 1 bis 4 sowie 6 des
+gemachten Daten gemäß § 17 Absatz 1 Satz 1 Nummer 1 bis 4 sowie 6 des
 Rechtsdienstleistungsgesetzes aufzubewahren.
 
 (2) Akten und elektronische Akten über Personen oder Vereinigungen,
@@ -287,9 +286,9 @@ Beendigung des Verfahrens aufzubewahren.
 
 ## § 8 Öffentliche Bekanntmachungen im Rechtsdienstleistungsregister
 
-(1) Für öffentliche Bekanntmachungen nach § 16 Abs. 2 Nr. 1 des
-Rechtsdienstleistungsgesetzes und solche nach § 16 Abs. 2 Nr. 2 des
-Rechtsdienstleistungsgesetzes sind innerhalb des
+(1) Für öffentliche Bekanntmachungen nach § 16 Absatz 2 Satz 1 Nummer
+1 des Rechtsdienstleistungsgesetzes und solche nach § 16 Absatz 2 Satz
+1 Nummer 2 des Rechtsdienstleistungsgesetzes sind innerhalb des
 Rechtsdienstleistungsregisters zwei getrennte Bereiche vorzusehen.
 Eine Suche nach den eingestellten Daten darf nur anhand eines oder
 mehrerer der folgenden Suchkriterien erfolgen:
@@ -306,20 +305,20 @@ mehrerer der folgenden Suchkriterien erfolgen:
 4.  Datum der Veröffentlichung,
 
 
-5.  Registrierungsbereich in den Fällen des § 16 Abs. 2 Nr. 1 des
-    Rechtsdienstleistungsgesetzes,
+5.  Registrierungsbereich in den Fällen des § 16 Absatz 2 Satz 1 Nummer 1
+    des Rechtsdienstleistungsgesetzes,
 
 
 6.  Familienname, Vorname, Firma oder Name
 
     a)  der registrierten Person, ihrer gesetzlichen Vertreter oder einer
-        qualifizierten Person in den Fällen des § 16 Abs. 2 Nr. 1 des
-        Rechtsdienstleistungsgesetzes,
+        qualifizierten Person in den Fällen des § 16 Absatz 2 Satz 1 Nummer 1
+        des Rechtsdienstleistungsgesetzes,
 
 
     b)  der Person oder Vereinigung, der die Erbringung von
         Rechtsdienstleistungen untersagt ist, oder ihrer gesetzlichen
-        Vertreter in den Fällen des § 16 Abs. 2 Nr. 2 des
+        Vertreter in den Fällen des § 16 Absatz 2 Satz 1 Nummer 2 des
         Rechtsdienstleistungsgesetzes oder
 
 

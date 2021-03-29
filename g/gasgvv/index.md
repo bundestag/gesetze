@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2391, 2396
 
 Zuletzt geändert durch
-:   Art. 2 V v. 30.4.2012 I 1002
+:   Art. 10 G v. 29.8.2016 I 2034
 
 
 
@@ -93,13 +93,33 @@ insbesondere auch:
 
 
 7.  Angaben zu den Allgemeinen Preisen nach § 36 Absatz 1 des
-    Energiewirtschaftsgesetzes.
+    Energiewirtschaftsgesetzes, wobei folgende Belastungen, soweit diese
+    Kalkulationsbestandteil der geltenden Allgemeinen Preise sind,
+    gesondert auszuweisen sind:
+
+    a)  die Energiesteuer nach § 2 des Energiesteuergesetzes vom 15. Juli 2006
+        (BGBl. I S. 1534; 2008 I S. 660, 1007), das zuletzt durch Artikel 11
+        des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) geändert worden ist,
+        in der jeweils geltenden Fassung,
+
+
+    b)  die Konzessionsabgabe nach Maßgabe des § 4 Absatz 1 und 2 der
+        Konzessionsabgabenverordnung vom 9. Januar 1992 (BGBl. I S. 12, 407),
+        die zuletzt durch Artikel 3 Absatz 4 der Verordnung vom 1. November
+        2006 (BGBl. I S. 2477) geändert worden ist.
+
+
+
 
 
 
 Wenn dem Grundversorger die Angaben nach Satz 1 Nummer 1 nicht
 vorliegen, ist der Kunde verpflichtet, sie dem Grundversorger auf
-Anforderung mitzuteilen. Zusätzlich ist in dem Vertrag oder der
+Anforderung mitzuteilen. Der Grundversorger hat die Belastungen nach
+Satz 1 Nummer 7 und deren Saldo in ihrer jeweiligen Höhe mit der
+Veröffentlichung der Allgemeinen Preise nach § 36 Absatz 1 Satz 1 des
+Energiewirtschaftsgesetzes auf seiner Internetseite zu
+veröffentlichen. Zusätzlich ist in dem Vertrag oder der
 Vertragsbestätigung hinzuweisen auf
 
 1.  die Allgemeinen Bedingungen und auf diese ergänzende Bedingungen,
@@ -110,14 +130,15 @@ Vertragsbestätigung hinzuweisen auf
 
 
 3.  das Recht des Kunden nach § 111b Absatz 1 Satz 1 des
-    Energiewirtschaftsgesetzes eine Schlichtungsstelle anzurufen und die
-    Anschrift der zuständigen Schlichtungsstelle sowie auf den
-    Verbraucherservice der Bundesnetzagentur für den Bereich Elektrizität
-    und Gas und dessen Anschrift.
+    Energiewirtschaftsgesetzes eine Schlichtungsstelle anzurufen, die
+    Anschrift und die Webseite der zuständigen Schlichtungsstelle, die
+    Verpflichtung des Lieferanten zur Teilnahme am Schlichtungsverfahren
+    sowie auf den Verbraucherservice der Bundesnetzagentur für den Bereich
+    Elektrizität und Gas und dessen Anschrift.
 
 
 
-Die Hinweise nach Satz 3 Nummer 3 hat der Grundversorger auch auf
+Die Hinweise nach Satz 4 Nummer 3 hat der Grundversorger auch auf
 seiner Internetseite zu veröffentlichen.
 
 (4) Der Grundversorger ist verpflichtet, jedem Neukunden rechtzeitig
@@ -164,7 +185,7 @@ Bedarfsdeckung durch Eigenanlagen zur Nutzung regenerativer
 Energiequellen.
 
 
-### § 5 Art der Versorgung
+### § 5 Art der Versorgung; Änderungen der Allgemeinen Preise und ergänzenden Bedingungen
 
 (1) Welche Gasart für das Vertragsverhältnis maßgebend sein soll,
 ergibt sich aus der Gasart des jeweiligen Gasversorgungsnetzes der
@@ -182,7 +203,10 @@ wirksam, die mindestens sechs Wochen vor der beabsichtigten Änderung
 erfolgen muss. Der Grundversorger ist verpflichtet, zu den
 beabsichtigten Änderungen zeitgleich mit der öffentlichen Bekanntgabe
 eine briefliche Mitteilung an den Kunden zu versenden und die
-Änderungen auf seiner Internetseite zu veröffentlichen.
+Änderungen auf seiner Internetseite zu veröffentlichen; hierbei hat er
+den Umfang, den Anlass und die Voraussetzungen der Änderung sowie den
+Hinweis auf die Rechte des Kunden nach Absatz 3 und die Angaben nach §
+2 Absatz 3 Satz 1 Nummer 7 in übersichtlicher Form anzugeben.
 
 (3) Im Fall einer Änderung der Allgemeinen Preise oder ergänzenden
 Bedingungen hat der Kunde das Recht, den Vertrag ohne Einhaltung einer
@@ -192,6 +216,25 @@ Bedingungen werden gegenüber demjenigen Kunden nicht wirksam, der bei
 einer Kündigung des Vertrages mit dem Grundversorger die Einleitung
 eines Wechsels des Versorgers durch entsprechenden Vertragsschluss
 innerhalb eines Monats nach Zugang der Kündigung nachweist.
+
+
+### § 5a Kalkulatorische Neuermittlung bei Änderungen staatlich gesetzter Belastungen
+
+(1) Bei Änderungen der Belastungen nach § 2 Absatz 3 Satz 1 Nummer 7,
+die in die Kalkulation des Allgemeinen Preises eingeflossen sind, ist
+der Grundversorger unter Beachtung der geltenden gesetzlichen
+Bestimmungen berechtigt, die Allgemeinen Preise jederzeit neu zu
+ermitteln und dabei die Änderung in das Ergebnis der Kalkulation
+einfließen zu lassen. Sinkt der Saldo der Belastungen nach § 2 Absatz
+3 Satz 1 Nummer 7, ist der Grundversorger abweichend von Satz 1
+verpflichtet, die Allgemeinen Preise unverzüglich neu zu ermitteln und
+dabei den gesunkenen Saldo in das Ergebnis der Kalkulation einfließen
+zu lassen.
+
+(2) Sonstige Rechte und Verpflichtungen zur Neukalkulation und die
+Rechte und Verpflichtungen in Bezug auf Änderungen der Allgemeinen
+Preise sowie die Pflichten des Grundversorgers nach § 5 Absatz 2 und
+die Rechte des Kunden nach § 5 Absatz 3 bleiben unberührt.
 
 
 ### § 6 Umfang der Grundversorgung
@@ -258,17 +301,18 @@ Bedingungen regeln.
 ### § 8 Messeinrichtungen
 
 (1) Das vom Grundversorger gelieferte Gas wird durch die
-Messeinrichtungen nach § 21b des Energiewirtschaftsgesetzes
-festgestellt.
+Messeinrichtungen nach den Vorschriften des
+Messstellenbetriebsgesetzes festgestellt.
 
 (2) Der Grundversorger ist verpflichtet, auf Verlangen des Kunden
 jederzeit eine Nachprüfung der Messeinrichtungen durch eine
-Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des § 2
-Abs. 4 des Eichgesetzes zu veranlassen. Stellt der Kunde den Antrag
-auf Prüfung nicht bei dem Grundversorger, so hat er diesen zugleich
-mit der Antragstellung zu benachrichtigen. Die Kosten der Prüfung nach
-Satz 1 fallen dem Grundversorger zur Last, falls die Abweichung die
-gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst dem Kunden.
+Eichbehörde oder eine staatlich anerkannte Prüfstelle im Sinne des §
+40 Absatz 3 des Mess- und Eichgesetzes zu veranlassen. Stellt der
+Kunde den Antrag auf Prüfung nicht bei dem Grundversorger, so hat er
+diesen zugleich mit der Antragstellung zu benachrichtigen. Die Kosten
+der Prüfung nach Satz 1 fallen dem Grundversorger zur Last, falls die
+Abweichung die gesetzlichen Verkehrsfehlergrenzen überschreitet, sonst
+dem Kunden.
 
 
 ### § 9 Zutrittsrecht
@@ -280,10 +324,10 @@ seinen Räumen zu gestatten, soweit dies zur Ermittlung preislicher
 Bemessungsgrundlagen oder zur Ablesung der Messeinrichtungen nach § 11
 erforderlich ist. Die Benachrichtigung kann durch Mitteilung an die
 jeweiligen Kunden oder durch Aushang
-an              oder im jeweiligen Haus erfolgen. Sie muss mindestens
-eine Woche vor dem Betretungstermin erfolgen; mindestens ein
-Ersatztermin ist anzubieten. Der Kunde hat dafür Sorge zu tragen, dass
-die Messeinrichtungen zugänglich sind.
+an oder im jeweiligen Haus erfolgen. Sie muss mindestens eine Woche
+vor dem Betretungstermin erfolgen; mindestens ein Ersatztermin ist
+anzubieten. Der Kunde hat dafür Sorge zu tragen, dass die
+Messeinrichtungen zugänglich sind.
 
 
 ### § 10 Vertragsstrafe

@@ -4,7 +4,7 @@ Title: Gesetz über das Abkommen vom 5. Mai 1953 zwischen der Bundesrepublik Deu
   Zusatzvereinbarung
 jurabk: SVÜbkITAG
 layout: default
-origslug: sv_bkitag
+origslug: svuebkitag
 slug: svuebkitag
 
 ---

@@ -28,9 +28,8 @@ sind.
 
 (2)
 Diese Bekanntmachung tritt an die Stelle der Bekanntmachung vom 17.
-Mai 1967 (Bundesgesetzbl. I S. 574).              Sie ergeht im
-Anschluß an die Bekanntmachung vom 9. März 1972 (Bundesgesetzbl. I S.
-455).
+Mai 1967 (Bundesgesetzbl. I S. 574). Sie ergeht im Anschluß an die
+Bekanntmachung vom 9. März 1972 (Bundesgesetzbl. I S. 455).
 
 
 ## Schlussformel
@@ -152,9 +151,8 @@ E:  bestimmt für Amsterdamer Käse nach Artikel 25 der
 
 ![bgbl1_1972_j1205_0030.jpg](bgbl1_1972_j1205_0030.jpg)
 H:  bestimmt für: Leidener Käse 20
-    +                    nach Artikel 36 und Gewürznelken- und Kanterkäse
-    20
-    +                    nach Artikel 37 der Käsekontrollverordnung 1970
+    + nach Artikel 36 und Gewürznelken- und Kanterkäse 20
+    + nach Artikel 37 der Käsekontrollverordnung 1970
 
 
 
@@ -213,9 +211,9 @@ Q:  bestimmt für Diätkäse nach Artikel 13 und 48 der
     mindestens 40 % in der Trockenmasse bestimmt ist und daß für Diätkäse
     mit einem Fettgehalt von höchstens 4 %, mindestens 20 % oder
     mindestens 48 % jeweils an Stelle der Bezeichnung “40
-    +                   ” die Bezeichnungen “mager”, “20
-    +                   ” oder “48
-    +                   ” verwendet werden müssen.
+    +” die Bezeichnungen “mager”, “20
+    +” oder “48
+    +” verwendet werden müssen.
 
 
 

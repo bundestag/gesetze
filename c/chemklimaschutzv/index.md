@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 1139
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 42 G v. 24.2.2012 I 212
+:   Art. 1 V v. 14.2.2017 I 148
 
 [^F771263.1_BJNR113900008]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -64,17 +64,18 @@ Es verordnet die Bundesregierung
 
 ## § 1 Anwendungsbereich
 
-(1) Diese Verordnung gilt ergänzend zu der Verordnung (EG) Nr.
-842/2006 des Europäischen Parlaments und des Rates vom 17. Mai 2006
-über bestimmte fluorierte Treibhausgase (ABl. EU Nr. L 161 S. 1).
+(1) Diese Verordnung gilt ergänzend zu der Verordnung (EU) Nr.
+517/2014 des Europäischen Parlaments und des Rates vom 16. April 2014
+über fluorierte Treibhausgase und zur Aufhebung der Verordnung (EG)
+Nr. 842/2006 (ABl. L 150 vom 20.5.2014, S. 195).
 
-(2) Diese Verordnung gilt nicht
+(2) § 3 Absatz 2 und § 5 Absatz 2 Nummer 5 gelten nicht
 
 1.  auf Seeschiffen unter fremder Flagge oder auf Seeschiffen, für die das
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung nach § 10 des
+    Bundesministerium für Verkehr und digitale Infrastruktur nach § 10 des
     Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26.
-    Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 326 der
-    Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist,
+    Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 561 der
+    Verordnung vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist,
     die Befugnis zur Führung der Bundesflagge zur ersten Überführungsreise
     in einen anderen Hafen verliehen hat,
 
@@ -108,21 +109,30 @@ Im Sinne dieser Verordnung bedeutet
     Kältemittelverlust pro Jahr und Kältemittel-Füllmenge bei erstmaliger
     Inbetriebnahme oder aus den Parametern Kältemittel-Füllmenge bei
     erstmaliger Inbetriebnahme, Zeit und Summe der Nachfüllmengen an
-    Kältemittel bestimmt wurde.
+    Kältemittel bestimmt wurde;
+
+
+3.  Normalbetrieb
+
+    Betriebszustand einer stationären Anlage, deren Funktionstüchtigkeit
+    nicht auf Grund einer Leckage beeinträchtigt oder ausgeschlossen ist,
+    die auf ein plötzlich eingetretenes, außergewöhnliches Ereignis
+    zurückzuführen ist.
 
 
 
 Im Übrigen gelten die Begriffsbestimmungen des Artikels 2 der
-Verordnung (EG) Nr. 842/2006.
+Verordnung (EU) Nr. 517/2014.
 
 
 ## § 3 Verhinderung des Austrittes von fluorierten Treibhausgasen in die Atmosphäre
 
-(1) Wer ortsfeste Anwendungen im Sinne des Artikels 3 Abs. 1 der
-Verordnung (EG) Nr. 842/2006 betreibt, hat sicherzustellen, dass
-zusätzlich zu den Anforderungen des Artikels 3 der Verordnung (EG) Nr.
-842/2006 der spezifische Kältemittelverlust der Anwendung während des
-Normalbetriebs die folgenden Grenzwerte nicht überschreitet:
+(1) Wer ortsfeste Einrichtungen im Sinne des Artikels 4 Absatz 2
+Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 betreibt, hat
+sicherzustellen, dass zusätzlich zu den Anforderungen des Artikels 3
+Absatz 1 und 2 der Verordnung (EU) Nr. 517/2014 der spezifische
+Kältemittelverlust der Einrichtung während des Normalbetriebs die
+folgenden Grenzwerte nicht überschreitet:
 
 *    *   1.
 
@@ -230,50 +240,45 @@ Normalbetriebs die folgenden Grenzwerte nicht überschreitet:
 
 
 
-Im Falle von bis zum 30. Juni 2008 in Betrieb genommenen Anwendungen
-müssen die in Satz 1 genannten Grenzwerte erst ab dem 1. Juli 2011
-eingehalten werden. Die Betreiber von Anwendungen nach Satz 1 haben
-den Zugang zu allen lösbaren Verbindungsstellen sicherzustellen,
-sofern dies technisch möglich und zumutbar ist. Die Sätze 1 bis 3
-gelten nicht für
+Die Betreiber von Einrichtungen nach Satz 1 haben den Zugang zu allen
+lösbaren Verbindungsstellen sicherzustellen, sofern dies technisch
+möglich und zumutbar ist. Die Sätze 1 und 2 gelten nicht für
 
-1.  Anwendungen mit hermetisch geschlossenen Systemen, die als solche
+1.  Einrichtungen mit hermetisch geschlossenen Systemen, die als solche
     gekennzeichnet sind und weniger als sechs Kilogramm fluorierte
     Treibhausgase enthalten,
 
 
-2.  Anwendungen im Steinkohlentiefbergbau und vergleichbare Anwendungen
-    unter Tage.
+2.  Einrichtungen im Steinkohlentiefbergbau und vergleichbare
+    Einrichtungen unter Tage.
 
 
 
-Die zuständige Behörde kann auf Antrag des Betreibers die in Satz 2
-genannte Frist verlängern, soweit unter Berücksichtigung der
-besonderen Umstände des Einzelfalls das Einhalten der Grenzwerte nur
-mit unverhältnismäßigem Aufwand erfüllbar ist.
 
-(2) Wer mobile Einrichtungen gemäß Artikel 4 Abs. 3 der Verordnung
-(EG) Nr. 842/2006 betreibt, die der Kühlung von Gütern beim Transport
-dienen und mindestens drei Kilogramm fluorierte Treibhausgase als
-Kältemittel enthalten, hat die Einrichtungen mindestens einmal alle
-zwölf Monate mittels geeigneten Geräts auf Dichtheit zu überprüfen und
-festgestellte Undichtigkeiten, aus denen fluorierte Treibhausgase
-entweichen, unverzüglich zu beseitigen, sofern dies technisch möglich
-und nicht mit unverhältnismäßigen Kosten verbunden ist. Satz 1 gilt
-nicht für
+(2) Wer mobile Einrichtungen betreibt, die der Kühlung von Gütern beim
+Transport dienen und mindestens drei Kilogramm fluorierte
+Treibhausgase als Kältemittel enthalten, hat die Einrichtungen
+mindestens einmal alle zwölf Monate mittels geeigneten Geräts auf
+Dichtheit zu überprüfen. Satz 1 gilt nicht für
 
-1.  Kraftfahrzeuge, deren regelmäßiger Standort außerhalb des
+1.  Kälteanlagen auf Kühllastkraftwagen und -anhängern, die Kontrollen
+    nach Artikel 4 Absatz 1 der Verordnung (EU) Nr. 517/2014 unterliegen,
+
+
+2.  Kraftfahrzeuge, deren regelmäßiger Standort außerhalb des
     Geltungsbereichs dieser Verordnung liegt,
 
 
-2.  Kühlcontainer.
+3.  Kühlcontainer.
 
 
 
-Über die Dichtheitsprüfungen und etwaige Instandsetzungsarbeiten nach
-Satz 1 hat der Betreiber Aufzeichnungen zu führen, wobei mindestens
-Art und Menge nachgefüllter oder rückgewonnener fluorierter
-Treibhausgase zu dokumentieren sind.
+Über die Dichtheitsprüfungen nach Satz 1 hat der Betreiber
+Aufzeichnungen zu führen, wobei mindestens Art und Menge nachgefüllter
+oder rückgewonnener fluorierter Treibhausgase zu dokumentieren sind.
+Der Betreiber hat die Aufzeichnungen nach Satz 3 nach ihrer Erstellung
+mindestens fünf Jahre aufzubewahren und der zuständigen Behörde auf
+Verlangen vorzulegen.
 
 (3) Wer Dienste zur Wartung oder Reparatur von Klimaanlagen in
 Fahrzeugen im Sinne des Artikels 3 Nr. 1 und 3 der Richtlinie
@@ -285,31 +290,17 @@ gewöhnliche Maß hinausgehende Menge des Kältemittels entwichen ist,
 nur mit fluorierten Treibhausgasen befüllen, wenn die Undichtigkeit
 zuvor beseitigt wurde.
 
-(4) Der Betreiber hat die Aufzeichnungen nach Artikel 3 Abs. 6 der
-Verordnung (EG) Nr. 842/2006 und die Aufzeichnungen nach Absatz 2 Satz
-3 nach ihrer Erstellung mindestens fünf Jahre lang aufzubewahren und
-der zuständigen Behörde auf Verlangen vorzulegen.
+(4) (weggefallen)
 
 
 ## § 4 Rückgewinnung und Rücknahme verwendeter Stoffe
 
-(1) Für die Rückgewinnung fluorierter Treibhausgase aus Erzeugnissen
-und Einrichtungen nach Artikel 4 Abs. 3 der Verordnung (EG) Nr.
-842/2006 ist der Besitzer des Erzeugnisses oder der Einrichtung
-verantwortlich. Verantwortliche nach Satz 1 sowie diejenigen, die für
-die Rückgewinnung fluorierter Treibhausgase aus stationären
-Einrichtungen nach Artikel 4 Abs. 1 oder Behältern nach Artikel 4 Abs.
-2 der Verordnung (EG) Nr. 842/2006 verantwortlich sind, können die
-Erfüllung ihrer Verpflichtungen auf Dritte übertragen. Die Sätze 1 und
-2 gelten nicht für Elektro- und Elektronikgeräte, die nach den §§ 11
-und 12 des Elektro- und Elektronikgerätegesetzes vom 16. März 2005
-(BGBl. I S. 762), das zuletzt durch Artikel 3 des Gesetzes vom 19.
-Juli 2007 (BGBl. I S. 1462) geändert worden ist, zu behandeln und zu
-verwerten sind. Die Sätze 1 und 2 gelten außerdem nicht für
-Altfahrzeuge, die nach § 5 Abs. 2 der Altfahrzeug-Verordnung in der
-Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214), die
-zuletzt durch Artikel 364 der Verordnung vom 31. Oktober 2006 (BGBl. I
-S. 2407) geändert worden ist, zu behandeln und zu verwerten sind.
+(1) Betreiber, die für die Rückgewinnung fluorierter Treibhausgase aus
+Einrichtungen nach Artikel 8 Absatz 1 der Verordnung (EU) Nr. 517/2014
+verantwortlich sind, oder Unternehmen, die für die Rückgewinnung von
+Gasresten aus Behältern nach Artikel 8 Absatz 2 der Verordnung (EU)
+Nr. 517/2014 verantwortlich sind, können die Erfüllung ihrer Pflichten
+auf Dritte übertragen.
 
 (2) Die Hersteller und Vertreiber von fluorierten Treibhausgasen sind
 verpflichtet, diese nach Gebrauch zurückzunehmen oder die Rücknahme
@@ -336,8 +327,8 @@ aufzubewahren und der zuständigen Behörde auf Verlangen vorzulegen.
 Soweit der Betreiber einer Entsorgungsanlage nach § 49 des
 Kreislaufwirtschaftsgesetzes in Verbindung mit Teil 3 der
 Nachweisverordnung vom 20. Oktober 2006 (BGBl. I S. 2298, 2007 I S.
-2316), die durch Artikel 4 des Gesetzes vom 19. Juli 2007 (BGBl. I S.
-1462) geändert worden ist, über die Entsorgung fluorierter
+2316), die zuletzt durch Artikel 97 der Verordnung vom 31. August 2015
+(BGBl. I S. 1474) geändert worden ist, über die Entsorgung fluorierter
 Treibhausgase Register zu führen hat, werden die erforderlichen
 Aufzeichnungen durch die Register nach der Nachweisverordnung ersetzt.
 In diesem Fall ist bei der Führung des Registers nach § 24 Abs. 2 der
@@ -346,66 +337,63 @@ Begleitdokumenten zusätzlich im Feld „Frei für Vermerke“ und bei
 Führung der Register nach § 24 Abs. 4 und 5 der Nachweisverordnung
 zusätzlich zur Angabe des Abfallschlüssels und der Abfallart jeweils
 der entsorgte Stoff oder die entsprechende Stoffgruppe nach Anhang I
-der Verordnung (EG) Nr. 842/2006 zu nennen und anzugeben, ob eine
+der Verordnung (EU) Nr. 517/2014 zu nennen und anzugeben, ob eine
 Verwertung oder Beseitigung erfolgte. Die Bestimmungen zur
 elektronischen Nachweis- und Registerführung nach den §§ 17 bis 22 der
 Nachweisverordnung finden entsprechende Anwendung mit der Maßgabe,
 dass die für die zusätzlichen Angaben nach Satz 4 erforderlichen
 Schnittstellen nach § 18 Abs. 1 Satz 2 der Nachweisverordnung vom
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 bekannt gegeben werden.
 
 
 ## § 5 Persönliche Voraussetzungen für bestimmte Tätigkeiten
 
-(1) Die in den Artikeln 3, 4 und 5 Abs. 1 der Verordnung (EG) Nr.
-842/2006 oder in § 4 Abs. 1 und 2 aufgeführten Tätigkeiten dürfen nur
-von Personen durchgeführt werden, die
+(1) Eine in Artikel 10 Absatz 1 Buchstabe a bis c der Verordnung (EU)
+Nr. 517/2014 aufgeführte Tätigkeit sowie die Rückgewinnung aus
+Klimaanlagen in Kraftfahrzeugen, die nicht in Artikel 8 Absatz 1 der
+Verordnung (EU) Nr. 517/2014 aufgeführt sind, oder die Rückgewinnung
+aus anderen mobilen Kälte- und Klimaanlagen darf nur von Personen
+durchgeführt werden, die
 
 1.  eine die betreffende Tätigkeit abdeckende Sachkundebescheinigung nach
-    Absatz 2 oder ein entsprechendes in einem anderen Mitgliedstaat der
-    Europäischen Gemeinschaft oder in einem Vertragsstaat des Abkommens
-    über den Europäischen Wirtschaftsraum erworbenes Zertifikat nach
-    Artikel 5 Abs. 2 Satz 3 der Verordnung (EG) Nr. 842/2006 vorweisen
-    können,
+    Absatz 2 Satz 1 oder 4 oder ein entsprechendes in einem anderen
+    Mitgliedstaat der Europäischen Gemeinschaft oder in einem
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+    erworbenes Zertifikat nach Artikel 10 Absatz 1 oder Absatz 7 der
+    Verordnung (EU) Nr. 517/2014 vorweisen können,
 
 
 2.  über die zu der Tätigkeit erforderliche technische Ausstattung
     verfügen,
 
 
-3.  zuverlässig sind,
+3.  zuverlässig sind und
 
 
-4.  im Falle der Installation, Wartung oder Instandhaltung von Anlagen
-    nach Artikel 3 Abs. 1 der Verordnung (EG) Nr. 842/2006 in einem nach §
-    6 oder in einem anderen Mitgliedstaat der Europäischen Gemeinschaft
-    nach Artikel 5 Abs. 2 der Verordnung (EG) Nr. 842/2006 für die
-    betreffende Tätigkeit zertifizierten Betrieb beschäftigt sind und
-
-
-5.  im Falle der Dichtheitskontrolle nach Artikel 3 Abs. 2 der Verordnung
-    (EG) Nr. 842/2006 hinsichtlich dieser Tätigkeit keinen Weisungen
-    unterliegen.
+4.  im Falle der Dichtheitskontrolle nach Artikel 4 Absatz 1, 2
+    Unterabsatz 1 oder 2 oder Absatz 3 der Verordnung (EU) Nr. 517/2014
+    hinsichtlich dieser Tätigkeit keinen Weisungen unterliegen.
 
 
 
-Satz 1 gilt nicht für die Rückgewinnung fluorierter Treibhausgase aus
-Erzeugnissen oder Einrichtungen, die für militärische Einsätze
-verwendet werden. Satz 1 Nr. 1 gilt nicht für Personen, die
+Satz 1 Nummer 1 gilt nicht für Personen, die
 
 1.  an einem Ausbildungskurs zum Erwerb einer Sachkundebescheinigung
     teilnehmen, nach Maßgabe der für die betreffende Tätigkeit anwendbaren
     Vorschriften des
 
-    a)  Artikels 4 Abs. 3 Buchstabe a der Verordnung (EG) Nr. 303/2008 der
-        Kommission vom 2. April 2008 zur Festlegung – gemäß der Verordnung
-        (EG) Nr. 842/2006 des Europäischen Parlaments und des Rates – der
-        Mindestanforderungen für die Zertifizierung von Unternehmen und
-        Personal in Bezug auf bestimmte fluorierte Treibhausgase enthaltende
-        ortsfeste Kälteanlagen, Klimaanlagen und Wärmepumpen sowie der
-        Bedingungen für die gegenseitige Anerkennung der diesbezüglichen
-        Zertifikate (ABl. EU Nr. L 92 S. 3),
+    a)  Artikels 3 Absatz 4 der Durchführungsverordnung (EU) 2015/2067 der
+        Kommission vom 17. November 2015 zur Festlegung – gemäß der Verordnung
+        (EU) Nr. 517/2014 des Europäischen Parlaments und des Rates – der
+        Mindestanforderungen und der Bedingungen für die gegenseitige
+        Anerkennung im Hinblick auf die Zertifizierung von natürlichen
+        Personen in Bezug auf fluorierte Treibhausgase enthaltende ortsfeste
+        Kälteanlagen, Klimaanlagen und Wärmepumpen sowie Kühlaggregate in
+        Kühlkraftfahrzeugen und -anhängern und auf die Zertifizierung von
+        Unternehmen in Bezug auf fluorierte Treibhausgase enthaltende
+        ortsfeste Kälteanlagen, Klimaanlagen und Wärmepumpen (ABl. L 301 vom
+        18\.11.2015, S. 28),
 
 
     b)  Artikels 4 Abs. 2 der Verordnung (EG) Nr. 304/2008 der Kommission vom
@@ -418,14 +406,16 @@ verwendet werden. Satz 1 Nr. 1 gilt nicht für Personen, die
         L 92 S. 12),
 
 
-    c)  Artikels 3 Abs. 2 der Verordnung (EG) Nr. 305/2008 der Kommission vom
-        2\. April 2008 zur Festlegung – gemäß der Verordnung (EG) Nr. 842/2006
-        des Europäischen Parlaments und des Rates – der Mindestanforderungen
-        für die Zertifizierung von Personal, das Tätigkeiten im Zusammenhang
-        mit der Rückgewinnung bestimmter fluorierter Treibhausgase aus
-        Hochspannungsschaltanlagen ausübt, sowie der Bedingungen für die
-        gegenseitige Anerkennung der diesbezüglichen Zertifikate (ABl. EU Nr.
-        L 92 S. 17),
+    c)  Artikels 2 Absatz 2 Buchstabe a der Durchführungsverordnung (EU)
+        2015/2066 der Kommission vom 17. November 2015 zur Festlegung – gemäß
+        der Verordnung (EU) Nr. 517/2014 des Europäischen Parlaments und des
+        Rates – der Mindestanforderungen und der Bedingungen für die
+        gegenseitige Anerkennung im Hinblick auf die Zertifizierung von
+        natürlichen Personen, die fluorierte Treibhausgase enthaltende
+        elektrische Schaltanlagen installieren, warten, instand halten,
+        reparieren oder stilllegen oder fluorierte Treibhausgase aus
+        ortsfesten elektrischen Schaltanlagen zurückgewinnen (ABl. L 301 vom
+        18\.11.2015, S. 22),
 
 
     d)  Artikels 2 Abs. 2 der Verordnung (EG) Nr. 306/2008 der Kommission vom
@@ -450,19 +440,22 @@ verwendet werden. Satz 1 Nr. 1 gilt nicht für Personen, die
 
 
 2.  im Rahmen einer Tätigkeit im Sinne des Artikels 2 Abs. 1 der
-    Verordnung (EG) Nr. 303/2008 Teile eines Systems oder einer
+    Durchführungsverordnung (EU) 2015/2067 Teile eines Systems oder einer
     Einrichtung hartlöten, weichlöten oder schweißen, nach Maßgabe des
-    Artikels 4 Abs. 3 Buchstabe b der Verordnung (EG) Nr. 303/2008 oder
+    Artikels 3 Absatz 3 Buchstabe a der Durchführungsverordnung (EU)
+    2015/2067 oder
 
 
 3.  in Betrieben, die über ein Überwachungszertifikat im Sinne des § 14
     der Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I
-    S. 1421), die zuletzt durch Artikel 5 der Verordnung vom 24. Juni 2002
-    (BGBl. I S. 2247) geändert worden ist, verfügen, fluorierte
+    S. 1421), die zuletzt durch Artikel 2 der Verordnung vom 5. Dezember
+    2013 (BGBl. I S. 4043) geändert worden ist, verfügen, fluorierte
     Treibhausgase aus Geräten nach Anhang I des Elektro- und
-    Elektronikgerätegesetzes mit einer Füllmenge von weniger als drei
-    Kilogramm fluorierten Treibhausgasen rückgewinnen, nach Maßgabe des
-    Artikels 4 Abs. 3 Buchstabe c der Verordnung (EG) Nr. 303/2008.
+    Elektronikgerätegesetzes mit einer Füllmenge von weniger als 3
+    Kilogramm und weniger als 5 Tonnen CO
+    2-Äquivalenten fluorierten Treibhausgasen rückgewinnen, nach Maßgabe
+    des Artikels 3 Absatz 3 Buchstabe b der Durchführungsverordnung (EU)
+    2015/2067.
 
 
 
@@ -470,15 +463,25 @@ verwendet werden. Satz 1 Nr. 1 gilt nicht für Personen, die
 (2) Eine Sachkundebescheinigung über die Befähigung für die jeweilige
 Tätigkeit wird Personen ausgestellt, die
 
-1.  im Falle von Tätigkeiten an ortsfesten Kälte- und Klimaanlagen sowie
-    Wärmepumpen eine zu der jeweiligen Tätigkeit befähigende technische
-    oder handwerkliche Ausbildung erfolgreich absolviert haben oder gemäß
-    Satz 5 oder § 5 Absatz 4 der Chemikalien-Ozonschichtverordnung vom 13.
-    November 2006 (BGBl. I S. 2638), die zuletzt durch Artikel 5 der
-    Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist,
-    von dem Erfordernis einer technischen oder handwerklichen Ausbildung
-    befreit sind und jeweils eine theoretische und praktische Prüfung nach
-    Artikel 5 Absatz 1 der Verordnung (EG) Nr. 303/2008 bestanden haben,
+1.  im Falle von Tätigkeiten an ortsfesten Kälte- und Klimaanlagen,
+    Wärmepumpen oder Kälteanlagen in Kühllastkraftwagen oder -anhängern
+    eine zu der jeweiligen Tätigkeit befähigende technische oder
+    handwerkliche Ausbildung erfolgreich absolviert haben oder gemäß Satz
+    5 oder § 5 Absatz 4 der Chemikalien-Ozonschichtverordnung in der
+    Fassung der Bekanntmachung vom 15. Februar 2012 (BGBl. I S. 409), die
+    zuletzt durch Artikel 5 Absatz 5 des Gesetzes vom 20. Oktober 2015
+    (BGBl. I S. 1739) geändert worden ist, von dem Erfordernis einer
+    technischen oder handwerklichen Ausbildung befreit sind und jeweils
+    eine theoretische und praktische Prüfung nach Artikel 5 Absatz 1 der
+    Verordnung (EG) Nr. 303/2008 der Kommission vom 2. April 2008 zur
+    Festlegung – gemäß der Verordnung (EG) Nr. 842/2006 des Europäischen
+    Parlaments und des Rates – der Mindestanforderungen für die
+    Zertifizierung von Unternehmen und Personal in Bezug auf bestimmte
+    fluorierte Treibhausgase enthaltende ortsfeste Kälteanlagen,
+    Klimaanlagen und Wärmepumpen sowie der Bedingungen für die
+    gegenseitige Anerkennung der diesbezüglichen Zertifikate (ABl. L 92
+    vom 3.4.2008, S. 3) oder Artikel 4 Absatz 1 der
+    Durchführungsverordnung (EU) 2015/2067 bestanden haben,
 
 
 2.  im Falle von Tätigkeiten an Einrichtungen, die fluorierte
@@ -490,39 +493,62 @@ Tätigkeit wird Personen ausgestellt, die
     der Verordnung (EG) Nr. 306/2008 bestanden haben,
 
 
-3.  im Falle von Tätigkeiten an Brandschutzsystemen und Feuerlöschern eine
+3.  im Falle von Tätigkeiten an ortsfesten Brandschutzeinrichtungen eine
     theoretische und praktische Prüfung nach Artikel 5 Abs. 1 der
     Verordnung (EG) Nr. 304/2008 bestanden haben,
 
 
-4.  im Falle von Tätigkeiten an Hochspannungsschaltanlagen eine
-    theoretische und praktische Prüfung nach Artikel 4 Abs. 1 der
-    Verordnung (EG) Nr. 305/2008 bestanden haben oder
+4.  im Falle von Tätigkeiten an elektrischen Schaltanlagen
+
+    a)  nach Artikel 10 Absatz 1 Buchstabe a in Verbindung mit Artikel 4
+        Absatz 2 Buchstabe f der Verordnung (EU) Nr. 517/2014 eine zu der
+        jeweiligen Tätigkeit befähigende technische oder handwerkliche
+        Ausbildung erfolgreich absolviert haben oder gemäß Satz 5 von dem
+        Erfordernis einer technischen oder handwerklichen Ausbildung befreit
+        sind und eine theoretische und praktische Prüfung nach Artikel 3
+        Absatz 1 der Durchführungsverordnung (EU) 2015/2066 bestanden haben
+        oder
+
+
+    b)  nach Artikel 10 Absatz 1 Buchstabe c in Verbindung mit Artikel 8
+        Absatz 1 Buchstabe e der Verordnung (EU) Nr. 517/2014 eine
+        theoretische und praktische Prüfung nach Artikel 3 Absatz 1 der
+        Durchführungsverordnung (EU) 2015/2066 oder in Bezug auf
+        Hochspannungsschaltanlagen nach Artikel 4 Absatz 1 der Verordnung (EG)
+        Nr. 305/2008 der Kommission vom 2. April 2008 zur Festlegung – gemäß
+        der Verordnung (EG) Nr. 842/2006 des Europäischen Parlaments und des
+        Rates – der Mindestanforderungen für die Zertifizierung von Personal,
+        das Tätigkeiten im Zusammenhang mit der Rückgewinnung bestimmter
+        fluorierter Treibhausgase aus Hochspannungsschaltanlagen ausübt, sowie
+        der Bedingungen für die gegenseitige Anerkennung der diesbezüglichen
+        Zertifikate (ABl. L 92 vom 3.4.2008, S. 17) bestanden haben oder
+
+
+
 
 
 5.  im Falle von Tätigkeiten an Klimaanlagen in Kraftfahrzeugen oder
-    anderen mobilen Kälte- und Klimaanlagen erfolgreich an einem
-    Trainingsprogramm nach Artikel 3 Absatz 2 der Verordnung (EG) Nr.
-    307/2008 teilgenommen haben oder die Voraussetzungen nach Nummer 1
-    erfüllen.
+    anderen mobilen Kälte- und Klimaanlagen, die nicht von Nummer 1
+    erfasst sind, erfolgreich an einem Trainingsprogramm nach Artikel 3
+    Absatz 2 der Verordnung (EG) Nr. 307/2008 teilgenommen haben oder die
+    Voraussetzungen nach Nummer 1 erfüllen.
 
 
 
 Im Falle der Rückgewinnung von fluorierten Treibhausgasen aus Geräten
-nach Anhang I des Elektro- und Elektronikgerätegesetzes mit einer
-Füllmenge von mindestens drei Kilogramm fluorierten Treibhausgasen in
-Betrieben, die über ein Überwachungszertifikat im Sinne des § 14 der
-Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S.
-1421), die zuletzt durch Artikel 5 der Verordnung vom 24. Juni 2002
-(BGBl. I S. 2247) geändert worden ist, verfügen, ist eine zu dieser
-Tätigkeit befähigende technische oder handwerkliche Ausbildung nicht
-erforderlich. Zur Abnahme von Prüfungen nach Satz 1 Nr. 1 bis 4 und
-zur Erteilung von Sachkundebescheinigungen berechtigt sind die
-Handwerkskammern und Industrie- und Handelskammern als zuständige
-Stellen nach § 71 Abs. 1 und 2 des Berufsbildungsgesetzes vom 23. März
-2005 (BGBl. I S. 931), das zuletzt durch Artikel 9b des Gesetzes vom
-7\. September 2007 (BGBl. I S. 2246) geändert worden ist, die
-Handwerksinnungen, soweit sie nach § 33 Abs. 1 Satz 3 der
+nach den Anlagen 1 und 7 des Elektro- und Elektronikgerätegesetzes mit
+einer Füllmenge von mindestens drei Kilogramm fluorierten
+Treibhausgasen und mehr als 5 Tonnen CO
+2-Äquivalenten in Betrieben, die über ein Überwachungszertifikat im
+Sinne des § 14 der Entsorgungsfachbetriebeverordnung verfügen, ist
+eine zu dieser Tätigkeit befähigende technische oder handwerkliche
+Ausbildung nicht erforderlich. Zur Abnahme von Prüfungen nach Satz 1
+Nr. 1 bis 4 und zur Erteilung von Sachkundebescheinigungen berechtigt
+sind die Handwerkskammern und Industrie- und Handelskammern als
+zuständige Stellen nach § 71 Abs. 1 und 2 des Berufsbildungsgesetzes
+vom 23. März 2005 (BGBl. I S. 931), das zuletzt durch Artikel 9b des
+Gesetzes vom 7. September 2007 (BGBl. I S. 2246) geändert worden ist,
+die Handwerksinnungen, soweit sie nach § 33 Abs. 1 Satz 3 der
 Handwerksordnung in der Fassung der Bekanntmachung vom 24. September
 1998 (BGBl. I S. 3074, 2006 I S. 2095), die zuletzt durch Artikel 9a
 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246) geändert worden
@@ -533,9 +559,8 @@ Handelskammern und Handwerksinnungen erteilen Sachkundebescheinigungen
 über die Befähigung für die jeweilige Tätigkeit auf Antrag auch
 Personen, die
 
-1.  ein vor dem 4. Juli 2008 erworbenes Abschlusszeugnis eines
-    Ausbildungsganges, der den in Satz 1 genannten Anforderungen
-    entspricht, vorweisen oder
+1.  ein Abschlusszeugnis eines Ausbildungsganges, der den in Satz 1
+    genannten Anforderungen entspricht, vorweisen oder
 
 
 2.  im Falle des Satzes 1 Nr. 1 bis 4 ein Abschlusszeugnis nach Nummer 1
@@ -548,93 +573,199 @@ Personen, die
 Die nach Satz 3 zuständigen Handwerkskammern und Industrie- und
 Handelskammern können im Einzelfall auf Antrag Personen von dem
 Erfordernis einer technischen oder handwerklichen Ausbildung nach Satz
-1 Nummer 1 und 2 befreien, wenn die Personen die Voraussetzungen zur
-Eintragung in die Handwerksrolle in einem einschlägigen Handwerk
-erfüllen oder anderweitig nachweisen, dass sie für technische oder
-handwerkliche Tätigkeiten vergleichbar qualifiziert sind. Die
-zuständige Handwerkskammer oder Industrie- und Handelskammer kann vor
-einer Entscheidung eine Stellungnahme der fachlich zuständigen Innung
-oder Berufsvereinigung einholen.
+1 Nummer 1, 2 und 4 Buchstabe a befreien, wenn die Personen die
+Voraussetzungen zur Eintragung in die Handwerksrolle in einem
+einschlägigen Handwerk erfüllen oder anderweitig nachweisen, dass sie
+für technische oder handwerkliche Tätigkeiten vergleichbar
+qualifiziert sind. Die zuständige Handwerkskammer oder Industrie- und
+Handelskammer kann vor einer Entscheidung eine Stellungnahme der
+fachlich zuständigen Innung oder Berufsvereinigung einholen.
 
-(3) Die zuständige Behörde kann eine Aus- oder
-Fortbildungseinrichtung, ein Unternehmen oder einen Betrieb auf Antrag
-durch Erteilung einer entsprechenden Bescheinigung als zur Abnahme von
-Prüfungen nach Absatz 2 Satz 1 Nr. 1 bis 4 und zur Erteilung von
-Sachkundebescheinigungen nach Absatz 2 Satz 1 berechtigt anerkennen,
-wenn und soweit die dort durchgeführten Aus- und Fortbildungen sowie
-die entsprechenden Prüfungen den jeweiligen in den Verordnungen (EG)
-Nr. 303/2008, Nr. 304/2008, Nr. 305/2008, Nr. 306/2008 und Nr.
-307/2008 aufgeführten Anforderungen entsprechen und die Einrichtung in
-den Fällen des Absatzes 2 Satz 1 Nr. 1 und 2 in der Lage ist, die
-Geeignetheit einer technischen oder handwerklichen Ausbildung zu
-beurteilen.
+(3) Die zuständige Behörde kann nach Maßgabe der Artikel 4 und 5 der
+Durchführungsverordnung (EU) 2015/2066, der Artikel 7 und 8 der
+Durchführungsverordnung (EU) 2015/2067, der Artikel 10 und 11 der
+Verordnung (EG) Nr. 304/2008 oder der Artikel 4 und 5 der Verordnung
+(EG) Nr. 306/2008 eine Aus- oder Fortbildungseinrichtung oder ein
+Unternehmen auf Antrag durch Erteilung einer entsprechenden
+Bescheinigung als zur Abnahme von Prüfungen nach Absatz 2 Satz 1
+Nummer 1 bis 4 und zur Erteilung von Sachkundebescheinigungen nach
+Absatz 2 Satz 1 berechtigt anerkennen, wenn und soweit die dort
+durchgeführten Aus- und Fortbildungen sowie die entsprechenden
+Prüfungen den in Artikel 3 der Durchführungsverordnung (EU) 2015/2066,
+Artikel 4 der Durchführungsverordnung (EU) 2015/2067, Artikel 5 der
+Verordnung (EG) Nr. 304/2008, Artikel 3 der Verordnung (EG) Nr.
+306/2008 oder in Artikel 3 der Verordnung (EG) Nr. 307/2008
+aufgeführten Anforderungen entsprechen und die Einrichtung in den
+Fällen des Absatzes 2 Satz 1 Nummer 1, 2 und 4 Buchstabe a in der Lage
+ist, die Geeignetheit einer technischen oder handwerklichen Ausbildung
+zu beurteilen.
 
 
-## § 6 Zertifizierung von Betrieben
+## § 6 Zertifizierung von Unternehmen
 
-(1) Die zuständige Behörde erteilt Betrieben, die Einrichtungen gemäß
-Artikel 3 Abs. 1 der Verordnung (EG) Nr. 842/2006 installieren, warten
-oder instand halten, auf Antrag eine Bescheinigung, in die mindestens
-folgende Angaben aufzunehmen sind:
+(1) Unternehmen dürfen Tätigkeiten nach Artikel 3 Absatz 4 Unterabsatz
+2 der Verordnung (EU) Nr. 517/2014 nur durchführen, wenn sie eines der
+nachstehenden Dokumente vorweisen können:
 
-1.  Name und Sitz des Betriebes,
+1.  ein nach Absatz 2 ausgestelltes Unternehmenszertifikat,
+
+
+2.  ein nach Artikel 6 der Durchführungsverordnung (EU) 2015/2067, nach
+    Artikel 8 der Verordnung (EU) Nr. 304/2008 oder nach Artikel 10 Absatz
+    7 der Verordnung (EU) Nr. 517/2014 in einem anderen Mitgliedstaat der
+    Europäischen Union oder in einem Vertragsstaat des Abkommens über den
+    Europäischen Wirtschaftsraum ausgestelltes Unternehmenszertifikat oder
+
+
+3.  eine nach § 6 Absatz 1 in der bis zum 17. Februar 2017 geltenden
+    Fassung ausgestellte Bescheinigung.
+
+
+
+Dies gilt auch für Unternehmensteile, die diese Tätigkeiten im eigenen
+Unternehmen unabhängig ausführen.
+
+(2) Die zuständige Behörde erteilt Unternehmen, die Tätigkeiten nach
+Absatz 1 durchführen, auf Antrag ein Unternehmenszertifikat nach
+Maßgabe von Artikel 6 Absatz 1 der Durchführungsverordnung (EU)
+2015/2067 oder Artikel 8 der Verordnung (EG) Nr. 304/2008. In das
+Unternehmenszertifikat sind zusätzlich zu den in Artikel 8 Absatz 2
+der Verordnung (EU) Nr. 304/2008 oder in Artikel 6 Absatz 2 der
+Durchführungsverordnung (EU) 2015/2067 aufgeführten Angaben mindestens
+folgende Angaben aufzunehmen:
+
+1.  Sitz des Unternehmens,
 
 
 2.  Bezeichnung des Standortes sowie der bescheinigten Tätigkeiten bezogen
-    auf den Standort und seine Anlagen sowie
-
-
-3.  Bezeichnung der Behörde, Datum und Unterschrift.
+    auf den Standort und seine Anlagen.
 
 
 
 
-(2) Die Bescheinigung darf nur erteilt werden, wenn der Antragsteller
-nachweist, dass für die in Absatz 1 aufgeführten Tätigkeiten Personal
-zur Verfügung steht, das über die in § 5 genannte
-Sachkundebescheinigung verfügt. Im Falle von Brandschutzsystemen und
-Feuerlöschern ist zusätzlich unter Angabe des jährlich zu erwartenden
-Tätigkeitsaufkommens nachzuweisen, dass genügend Personen zur
-Verfügung stehen, die über die in § 5 genannte Sachkundebescheinigung
-verfügen, und die für deren Tätigkeit erforderliche technische
-Ausstattung nach Art und Anzahl ausreichend vorhanden ist. Ein
-Betrieb, der ein eingetragener EMAS-Standort nach Artikel 6 der
-Verordnung (EG) Nr. 761/2001 des Europäischen Parlaments und des Rates
-vom 19. März 2001 über die freiwillige Beteiligung von Organisationen
-an einem Gemeinschaftssystem für das Umweltmanagement und die
-Umweltbetriebsprüfung (EMAS) (ABl. EG Nr. L 114 S. 1), die zuletzt
-durch die Verordnung (EG) Nr. 196/2006 der Kommission vom 3. Februar
-2006 (ABl. EU Nr. L 32 S. 4) geändert wurde, in der jeweiligen Fassung
-ist und Tätigkeiten nach Absatz 1 ausübt, erhält die in Absatz 1
-genannte Bescheinigung, sofern aus der Umwelterklärung oder dem
-Bericht über die Umweltbetriebsprüfung hervorgeht, dass die
-Voraussetzungen der Sätze 1 und 2 eingehalten sind und die nach Absatz
-1 Nr. 1 bis 3 erforderlichen Angaben ersichtlich sind.
+(3) Ein Unternehmen, das ein eingetragener EMAS-Standort nach Artikel
+6 der Verordnung (EG) Nr. 761/2001 des Europäischen Parlaments und des
+Rates vom 19. März 2001 über die freiwillige Beteiligung von
+Organisationen an einem Gemeinschaftssystem für das Umweltmanagement
+und die Umweltbetriebsprüfung (EMAS) (ABl. EG Nr. L 114 S. 1), die
+zuletzt durch die Verordnung (EG) Nr. 196/2006 der Kommission vom 3.
+Februar 2006 (ABl. EU Nr. L 32 S. 4) geändert wurde, in der jeweiligen
+Fassung ist und Tätigkeiten nach Absatz 1 ausübt, erhält das in Absatz
+2 genannte Unternehmenszertifikat, sofern aus der Umwelterklärung oder
+dem Bericht über die Umweltbetriebsprüfung hervorgeht, dass die
+Voraussetzungen in § 6 Absatz 2 eingehalten sind und die nach Artikel
+6 Absatz 2 der Durchführungsverordnung (EU) 2015/2067 oder Artikel 8
+Absatz 2 der Verordnung (EG) Nr. 304/2008 und nach Absatz 2 Satz 2
+erforderlichen Angaben ersichtlich sind.
 
 
-## § 7 Kennzeichnung in deutscher Sprache
+## § 7 Kennzeichnung
 
-Wer nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 842/2006
-kennzeichnungspflichtige Erzeugnisse und Einrichtungen für den Einsatz
-in Deutschland in Verkehr bringt, hat die nach Artikel 7 Abs. 1 der
-Verordnung (EG) Nr. 842/2006 in Verbindung mit Artikel 2 der
-Verordnung (EG) Nr. 1494/2007 der Kommission vom 17. Dezember 2007 zur
-Festlegung der Form der Kennzeichen und der zusätzlichen Anforderungen
-an die Kennzeichnung von Erzeugnissen und Einrichtungen, die bestimmte
-fluorierte Treibhausgase enthalten, gemäß der Verordnung (EG) Nr.
-842/2006 des Europäischen Parlaments und des Rates (ABl. EU Nr. L 332
-S. 25) vorgeschriebene Kennzeichnung in deutscher Sprache anzubringen
-und die Bedienungsanleitung in deutscher Sprache beizufügen.
+(1) Wer nach Artikel 12 der Verordnung (EU) Nr. 517/2014 in Verbindung
+mit Artikel 2 der Durchführungsverordnung (EU) 2015/2068 der
+Kommission vom 17. November 2015 zur Festlegung – gemäß der Verordnung
+(EU) Nr. 517/2014 des Europäischen Parlaments und des Rates – der Form
+der Kennzeichnung von Erzeugnissen und Einrichtungen, die fluorierte
+Treibhausgase enthalten (ABl. L 301 vom 18.11.2015, S. 39)
+kennzeichnungspflichtige Erzeugnisse oder Einrichtungen für den
+Einsatz in Deutschland in Verkehr bringt, hat sicherzustellen, dass in
+Bedienungsanleitungen und in zu Werbezwecken genutzten Beschreibungen
+die nach Artikel 12 Absatz 3 und 5 Satz 1 und 2 der Verordnung (EU)
+Nr. 517/2014 genannten Informationen in deutscher Sprache enthalten
+sind.
+
+(2) Wer aufgearbeitete oder recycelte fluorierte Treibhausgase abfüllt
+oder abgibt, hat sicherzustellen, dass die Behälter, in denen die
+Treibhausgase abgegeben werden, gemäß Satz 2 gekennzeichnet sind. Die
+Kennzeichnung muss die Angaben nach Artikel 12 Absatz 6 der Verordnung
+(EU) Nr. 517/2014 in Verbindung mit Artikel 2 Absatz 7 Buchstabe a der
+Durchführungsverordnung (EU) 2015/2068 enthalten.
 
 
-## § 8 Ordnungswidrigkeiten
+## § 8 Sonstige Betreiberpflichten
 
-(1) Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 5 Buchstabe c des
-Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-§ 7 eine Kennzeichnung nicht, nicht richtig, nicht vollständig, nicht
-in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder
-eine Bedienungsanleitung nicht, nicht richtig oder nicht rechtzeitig
-beifügt.
+(1) Der Betreiber einer stationären Einrichtung nach Artikel 4 Absatz
+2 Buchstabe a bis d der Verordnung (EU) Nr. 517/2014 darf ein anderes
+Unternehmen mit der Durchführung von in Artikel 10 Absatz 1 Satz 2 der
+Verordnung (EU) Nr. 517/2014 genannten Tätigkeiten nur beauftragen,
+wenn das beauftragte Unternehmen die für die Ausführung der
+betreffenden Tätigkeit erforderliche Bescheinigung oder das
+erforderliche Unternehmenszertifikat nach § 6 Absatz 1 vorweisen kann.
+Beauftragt der Betreiber kein anderes Unternehmen, hat er
+sicherzustellen, dass diese Tätigkeiten durch natürliche Personen
+durchgeführt werden, die eine Sachkundebescheinigung nach § 5 Absatz 1
+Satz 1 Nummer 1 vorweisen können.
+
+(2) Der Betreiber von Kälteanlagen in Kühllastkraftfahrzeugen oder
+-anhängern nach Artikel 4 Absatz 2 Buchstabe e der Verordnung (EU) Nr.
+517/2014 hat sicherzustellen, dass Tätigkeiten nach Artikel 10 Absatz
+1 Satz 2 der Verordnung (EU) Nr. 517/2014 von natürlichen Personen
+durchgeführt werden, die eine zu der jeweiligen Tätigkeit befähigende
+Sachkundebescheinigung nach § 5 Absatz 1 Satz 1 Nummer 1 vorweisen
+können.
+
+(3) Der Betreiber von Klimaanlagen in Kraftfahrzeugen oder anderen
+mobilen Kälte- und Klimaanlagen, die nicht von Absatz 2 erfasst sind,
+hat sicherzustellen, dass die Rückgewinnung fluorierter Treibhausgase
+aus solchen Anlagen von natürlichen Personen durchgeführt wird, die
+eine zu der jeweiligen Tätigkeit befähigende Sachkundebescheinigung
+nach § 5 Absatz 1 Satz 1 Nummer 1 vorweisen können.
+
+(4) Der Betreiber von elektrischen Schaltanlagen nach Artikel 4 Absatz
+2 Buchstabe f der Verordnung (EU) Nr. 517/2014 hat sicherzustellen,
+dass Tätigkeiten nach Artikel 10 Absatz 1 Satz 2 Buchstabe a und c von
+natürlichen Personen durchgeführt werden, die eine zu der jeweiligen
+Tätigkeit befähigende Sachkundebescheinigung nach § 5 Absatz 1 Satz 1
+Nummer 1 vorweisen können.
+
+
+## § 9 Inverkehrbringen, Verkauf und Kauf fluorierter Treibhausgase
+
+(1) Wer teilfluorierte Kohlenwasserstoffe in Verkehr bringt, bedarf
+der vorherigen Zuteilung einer Quote nach Artikel 16 Absatz 5 Satz 1
+der Verordnung (EU) Nr. 517/2014 durch die Europäische Kommission oder
+der Übertragung einer solchen Quote nach Artikel 18 Absatz 1 der
+Verordnung (EU) Nr. 517/2014. Dies gilt nicht für die in Artikel 15
+Absatz 2 Satz 2 genannten Arten von teilfluorierten Treibhausgasen
+sowie Mengen teilfluorierter Treibhausgase, für die die Kommission
+nach Artikel 15 Absatz 4 der Verordnung (EU) Nr. 517/2014 eine
+Ausnahme von der Quotenregelung genehmigt hat.
+
+(2) Fluorierte Treibhausgase dürfen für die in Artikel 11 Absatz 4
+Satz 1 der Verordnung (EU) Nr. 517/2014 genannten Zwecke nur an
+Unternehmen verkauft und von Unternehmen gekauft werden, die eine in §
+6 Absatz 1 genannte Bescheinigung oder ein dort genanntes
+Unternehmenszertifikat vorweisen können oder, sofern eine
+Bescheinigung oder ein solches Zertifikat nicht vorgeschrieben ist,
+Personen beschäftigen, die eine Sachkundebescheinigung nach § 5 Absatz
+1 Satz 1 Nummer 1 vorweisen können.
+
+(3) Einrichtungen gemäß Artikel 11 Absatz 5 der Verordnung (EU) Nr.
+517/2014 dürfen nur an Endverbraucher verkauft werden, die dem
+Verkäufer schriftlich nachweisen, dass die Installation der
+Einrichtung durch ein Unternehmen erfolgt, das ein
+Unternehmenszertifikat nach § 6 Absatz 1 vorweisen kann.
+
+(4) Absatz 2 gilt bis zum 1. Juli 2017 nicht für den Verkauf an
+Unternehmen und den Kauf durch Unternehmen, die die in Artikel 9 der
+Durchführungsverordnung (EU) 2015/2066 aufgeführten Tätigkeiten
+durchführen.
+
+
+## § 10 Ordnungswidrigkeiten
+
+(1) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 5 Buchstabe c des
+Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 7 Absatz 1 nicht sicherstellt, dass eine dort genannte
+    Information enthalten ist, oder
+
+
+2.  entgegen § 7 Absatz 2 Satz 1 nicht sicherstellt, dass ein dort
+    genannter Behälter gekennzeichnet ist.
+
+
+
 
 (2) Ordnungswidrig im Sinne des § 26 Abs. 1 Nr. 7 Buchstabe a des
 Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -643,34 +774,59 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
     Kältemittelverlust einen dort genannten Grenzwert nicht überschreitet,
 
 
-2.  entgegen § 3 Abs. 1 Satz 3 den Zugang zu einer Verbindungsstelle nicht
-    sicherstellt,
+2.  entgegen § 3 Absatz 1 Satz 2 den Zugang zu einer Verbindungsstelle
+    nicht sicherstellt,
 
 
 3.  entgegen § 3 Abs. 2 Satz 1 eine Einrichtung nicht oder nicht
-    rechtzeitig überprüft oder eine Undichtigkeit nicht oder nicht
-    rechtzeitig beseitigt,
+    rechtzeitig überprüft,
 
 
 4.  entgegen § 3 Abs. 3 eine Klimaanlage befüllt,
 
 
-5.  entgegen § 4 Abs. 1 Satz 1 in Verbindung mit Artikel 4 Abs. 3 und 4
-    der Verordnung (EG) Nr. 842/2006 fluorierte Treibhausgase nicht oder
-    nicht rechtzeitig zurückgewinnt oder
+5.  entgegen § 5 Abs. 1 Satz 1 oder § 6 Absatz 1 Satz 1, auch in
+    Verbindung mit Satz 2, eine dort genannte Tätigkeit durchführt,
 
 
-6.  entgegen § 5 Abs. 1 Satz 1 eine dort genannte Tätigkeit durchführt.
+6.  entgegen § 8 Absatz 1 Satz 1 ein dort genanntes Unternehmen
+    beauftragt,
+
+
+7.  entgegen § 8 Absatz 1 Satz 2, Absatz 2, Absatz 3 oder Absatz 4 nicht
+    sicherstellt, dass eine dort genannte Tätigkeit durch dort genannte
+    Personen durchgeführt wird,
+
+
+8.  entgegen § 9 Absatz 2 fluorierte Treibhausgase verkauft oder kauft
+    oder
+
+
+9.  entgegen § 9 Absatz 3 eine dort genannte Einrichtung verkauft.
 
 
 
 
-(3) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
+(3) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 7 Buchstabe c des
+Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 3 Absatz 2 Satz 3 eine dort genannte Aufzeichnung nicht,
+    nicht richtig oder nicht vollständig führt oder
+
+
+2.  entgegen § 3 Absatz 2 Satz 4 eine dort genannte Aufzeichnung nicht
+    oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht
+    rechtzeitig vorlegt.
+
+
+
+
+(4) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Absatz 2 Satz 1 fluorierte Treibhausgase nicht
 zurücknimmt oder die Rücknahme durch einen Dritten nicht sicherstellt.
 
-(4) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
+(5) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 4 Absatz 3 Satz 1 oder Satz 2 eine dort genannte
 Aufzeichnung nicht, nicht richtig oder nicht vollständig führt, nicht
@@ -678,94 +834,14 @@ oder nicht mindestens fünf Jahre aufbewahrt oder nicht oder nicht
 rechtzeitig vorlegt.
 
 
-## § 9 Übergangsvorschrift
+## § 11 Straftaten
 
-(1) Eine Sachkundebescheinigung nach § 5 Abs. 1 Satz 1 Nr. 1 ist bis
-zum 4. Juli 2009 nicht erforderlich, sofern das betroffene Personal
-
-1.  im Falle von Tätigkeiten an Kälte- und Klimaanlagen sowie Wärmepumpen
-    und deren Kreisläufen eine den Anforderungen nach § 5 Abs. 2 Satz 1
-    Nr. 1 entsprechende Ausbildung besitzt oder gemäß § 5 Absatz 2 Satz 5
-    oder § 5 Absatz 4 der Chemikalien-Ozonschichtverordnung von dem
-    Erfordernis einer technischen oder handwerklichen Ausbildung befreit
-    ist und bereits vor dem 4. Juli 2008 eine oder mehrere der in Artikel
-    2 Abs. 1 der Verordnung (EG) Nr. 303/2008 aufgeführten Tätigkeiten
-    ausgeübt hat,
+Nach § 27 Absatz 1 Nummer 1, Absatz 2 bis 4 des Chemikaliengesetzes
+wird bestraft, wer ohne Zuteilung oder Übertragung nach § 9 Absatz 1
+Satz 1 teilfluorierte Kohlenwasserstoffe in Verkehr bringt.
 
 
-2.  im Falle von Tätigkeiten an Einrichtungen, die fluorierte
-    Treibhausgase als Lösungsmittel enthalten, eine den Anforderungen nach
-    § 5 Abs. 2 Satz 1 Nr. 2 entsprechende Ausbildung besitzt oder gemäß §
-    5 Absatz 2 Satz 5 von dem Erfordernis einer technischen oder
-    handwerklichen Ausbildung befreit ist und bereits vor dem 4. Juli 2008
-    eine entsprechende Tätigkeit ausgeübt hat,
-
-
-3.  im Falle von Tätigkeiten an Brandschutzsystemen und Feuerlöschern
-    bereits vor dem 4. Juli 2008 eine oder mehrere der in Artikel 2 Abs. 1
-    der Verordnung (EG) Nr. 304/2008 aufgeführten Tätigkeiten ausgeübt
-    hat,
-
-
-4.  im Falle von Tätigkeiten an Hochspannungsschaltanlagen bereits vor dem
-    4\. Juli 2008 eine entsprechende Tätigkeit ausgeübt hat,
-
-
-5.  im Falle von Nummer 1 oder Nummer 3 die Sachkunde nach § 5 Abs. 2 der
-    Chemikalien-Ozonschichtverordnung vom 13. November 2006 (BGBl. I S.
-    2638), die zuletzt durch Artikel 5 des Gesetzes vom 20. Mai 2008
-    (BGBl. I S. 922) geändert worden ist, besitzt.
-
-
-
-Sofern das betroffene Personal im Falle von Tätigkeiten an
-Klimaanlagen in Kraftfahrzeugen bereits vor dem 4. Juli 2008
-praktische Erfahrungen in Bezug auf die Tätigkeit besitzt, ist eine
-Bescheinigung nach § 5 Abs. 1 Satz 1 Nr. 1 bis zum 4. Juli 2010 nicht
-erforderlich. Im Falle der Rückgewinnung aus Geräten nach Anhang I des
-Elektro- und Elektronikgerätegesetzes mit einer Füllmenge von
-mindestens drei Kilogramm fluorierten Treibhausgasen in Betrieben, die
-über ein Überwachungszertifikat im Sinne des § 14 der
-Entsorgungsfachbetriebeverordnung verfügen, ist der Nachweis einer
-nach § 5 Abs. 2 Satz 1 Nr. 1 entsprechenden Ausbildung nicht
-erforderlich.
-
-(2) Über den 4. Juli 2009 hinaus können die in § 5 Abs. 2 Satz 3
-bezeichneten Stellen in begründeten Fällen auf Antrag anstelle der in
-§ 5 Abs. 1 Satz 1 Nr. 1 genannten Sachkundebescheinigungen vorläufige
-Bescheinigungen ausstellen, wenn der Antragsteller
-
-1.  im Falle von Tätigkeiten an Kälte- und Klimaanlagen sowie Wärmepumpen
-    die Anforderungen nach Absatz 1 Satz 1 Nr. 1,
-
-
-2.  im Falle von Tätigkeiten an Brandschutzsystemen und Feuerlöschern die
-    Anforderungen nach Absatz 1 Satz 1 Nr. 3
-
-
-
-erfüllt. Die vorläufige Bescheinigung ist im Falle des Satzes 1 Nr. 1
-auf höchstens bis zum 4. Juli 2011, im Falle des Satzes 1 Nr. 2 auf
-höchstens bis zum 4. Juli 2010 zu befristen.
-
-(3) Eine Bescheinigung nach § 6 ist bis zum 4. Juli 2009 nicht
-erforderlich, sofern ein Betrieb bereits vor dem 4. Juli 2008
-
-1.  im Falle von Kälte- und Klimaanlagen sowie Wärmepumpen und deren
-    Kreisläufen eine oder mehrere der in Artikel 2 Abs. 2 der Verordnung
-    (EG) Nr. 303/2008 aufgeführten Tätigkeiten oder
-
-
-2.  im Falle von Brandschutzsystemen und Feuerlöschern eine oder mehrere
-    der in Artikel 2 Abs. 2 der Verordnung (EG) Nr. 304/2008 aufgeführten
-    Tätigkeiten
-
-
-
-ausgeübt hat.
-
-
-## § 9a
+## § 12 Verfahrensvorschriften
 
 (1) Über einen Antrag auf
 
@@ -773,13 +849,13 @@ ausgeübt hat.
     Satz 4,
 
 
-2.  Befreiung nach § 5 Absatz 2 Satz 5,
+2.  Befreiung nach § 5 Absatz 2 Satz 5 oder
 
 
-3.  Erteilung einer Bescheinigung nach § 5 Absatz 3 oder § 6 Absatz 1 oder
+3.  Erteilung einer Bescheinigung nach § 5 Absatz 3 oder § 6 Absatz 1
 
 
-4.  Erteilung einer vorläufigen Bescheinigung nach § 9 Absatz 2
+4.  (weggefallen)
 
 
 
@@ -792,7 +868,7 @@ im gesamten Bundesgebiet.
 
 (2) Für die Zwecke dieser Verordnung stehen Nachweise über die
 Erfüllung von Anforderungen an die Ausbildung nach § 5 Absatz 2 Satz 1
-Nummer 1 oder Nummer 2, die in einem anderen Mitgliedstaat der
+Nummer 1, 2 oder 4, die in einem anderen Mitgliedstaat der
 Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
 über den Europäischen Wirtschaftsraum ausgestellt worden sind,
 inländischen Nachweisen gleich, soweit sie gleichwertig sind.
@@ -812,11 +888,6 @@ Anforderungen des Ausstellungsstaats erfüllt.
 Behörde bei Antragstellung im Original oder in Kopie vorzulegen. Eine
 Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung
 können verlangt werden.
-
-
-## § 10 Inkrafttreten
-
-Diese Verordnung tritt am 1. August 2008 in Kraft.
 
 
 ## Schlussformel

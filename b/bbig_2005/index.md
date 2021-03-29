@@ -16,8 +16,9 @@ Fundstelle
 :   BGBl I: 2005, 931
 
 Zuletzt geändert durch
-:   Art. 24 G v. 20.12.2011 I 2854
+:   Art. 14 G v. 17.7.2017 I 2581
 
+Stand: Ersetzt G 806-21 v. 14.8.1969 I 1112 (BBiG)
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -121,12 +122,11 @@ gilt die Handwerksordnung.
 ##### § 4 Anerkennung von Ausbildungsberufen
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung
-kann das Bundesministerium für Wirtschaft und Technologie oder das
-sonst zuständige Fachministerium im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung durch Rechtsverordnung,
-die nicht der Zustimmung des Bundesrates bedarf, Ausbildungsberufe
-staatlich anerkennen und hierfür Ausbildungsordnungen nach § 5
-erlassen.
+kann das Bundesministerium für Wirtschaft und Energie oder das sonst
+zuständige Fachministerium im Einvernehmen mit dem Bundesministerium
+für Bildung und Forschung durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, Ausbildungsberufe staatlich
+anerkennen und hierfür Ausbildungsordnungen nach § 5 erlassen.
 
 (2) Für einen anerkannten Ausbildungsberuf darf nur nach der
 Ausbildungsordnung ausgebildet werden.
@@ -203,11 +203,7 @@ Vorschriften.
 
 6.  dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb
     der Ausbildungsstätte durchgeführt werden, wenn und soweit es die
-    Berufsausbildung erfordert (überbetriebliche Berufsausbildung),
-
-
-7.  dass Auszubildende einen schriftlichen Ausbildungsnachweis zu führen
-    haben.
+    Berufsausbildung erfordert (überbetriebliche Berufsausbildung).
 
 
 
@@ -219,12 +215,12 @@ Regelungen nach Nummer 1, 2 und 4 sinnvoll und möglich sind.
 
 Zur Entwicklung und Erprobung neuer Ausbildungsberufe sowie
 Ausbildungs- und Prüfungsformen kann das Bundesministerium für
-Wirtschaft und Technologie oder das sonst zuständige Fachministerium
-im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
-nach Anhörung des Hauptausschusses des Bundesinstituts für
-Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, Ausnahmen von § 4 Abs. 2 und 3 sowie den §§ 5, 37
-und 48 zulassen, die auch auf eine bestimmte Art und Zahl von
+Wirtschaft und Energie oder das sonst zuständige Fachministerium im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Ausnahmen von § 4 Abs. 2 und 3 sowie den §§ 5, 37 und 48
+zulassen, die auch auf eine bestimmte Art und Zahl von
 Ausbildungsstätten beschränkt werden können.
 
 
@@ -339,7 +335,10 @@ In die Niederschrift sind mindestens aufzunehmen
 
 9.  ein in allgemeiner Form gehaltener Hinweis auf die Tarifverträge,
     Betriebs- oder Dienstvereinbarungen, die auf das
-    Berufsausbildungsverhältnis anzuwenden sind.
+    Berufsausbildungsverhältnis anzuwenden sind,
+
+
+10. die Form des Ausbildungsnachweises nach § 13 Satz 2 Nummer 7.
 
 
 
@@ -411,7 +410,10 @@ Sie sind insbesondere verpflichtet,
 5.  Werkzeug, Maschinen und sonstige Einrichtungen pfleglich zu behandeln,
 
 
-6.  über Betriebs- und Geschäftsgeheimnisse Stillschweigen zu wahren.
+6.  über Betriebs- und Geschäftsgeheimnisse Stillschweigen zu wahren,
+
+
+7.  einen schriftlichen oder elektronischen Ausbildungsnachweis zu führen.
 
 
 
@@ -444,9 +446,7 @@ Sie sind insbesondere verpflichtet,
     erforderlich sind,
 
 
-4.  Auszubildende zum Besuch der Berufsschule sowie zum Führen von
-    schriftlichen Ausbildungsnachweisen anzuhalten, soweit solche im
-    Rahmen der Berufsausbildung verlangt werden, und diese durchzusehen,
+4.  Auszubildende zum Besuch der Berufsschule anzuhalten,
 
 
 5.  dafür zu sorgen, dass Auszubildende charakterlich gefördert sowie
@@ -455,7 +455,12 @@ Sie sind insbesondere verpflichtet,
 
 
 
-(2) Auszubildenden dürfen nur Aufgaben übertragen werden, die dem
+(2) Ausbildende haben Auszubildende zum Führen der
+Ausbildungsnachweise nach § 13 Satz 2 Nummer 7 anzuhalten und diese
+regelmäßig durchzusehen. Den Auszubildenden ist Gelegenheit zu geben,
+den Ausbildungsnachweis am Arbeitsplatz zu führen.
+
+(3) Auszubildenden dürfen nur Aufgaben übertragen werden, die dem
 Ausbildungszweck dienen und ihren körperlichen Kräften angemessen
 sind.
 
@@ -666,20 +671,19 @@ werden.
 Berufsausbildung in Berufen der Landwirtschaft, einschließlich der
 ländlichen Hauswirtschaft, nur geeignet, wenn sie von der nach
 Landesrecht zuständigen Behörde als Ausbildungsstätte anerkannt ist.
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung nach Anhörung des Hauptausschusses des
-Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf, Mindestanforderungen für die
-Größe, die Einrichtung und den Bewirtschaftungszustand der
-Ausbildungsstätte festsetzen.
+Das Bundesministerium für Ernährung und Landwirtschaft kann im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Mindestanforderungen für die Größe, die Einrichtung und den
+Bewirtschaftungszustand der Ausbildungsstätte festsetzen.
 
 (4) Eine Ausbildungsstätte ist nach Art und Einrichtung für die
 Berufsausbildung in Berufen der Hauswirtschaft nur geeignet, wenn sie
 von der nach Landesrecht zuständigen Behörde als Ausbildungsstätte
-anerkannt ist. Das Bundesministerium für Wirtschaft und Technologie
-kann im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung nach Anhörung des Hauptausschusses des Bundesinstituts für
+anerkannt ist. Das Bundesministerium für Wirtschaft und Energie kann
+im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
+nach Anhörung des Hauptausschusses des Bundesinstituts für
 Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, Mindestanforderungen für die Größe, die
 Einrichtung und den Bewirtschaftungszustand der Ausbildungsstätte
@@ -752,16 +756,16 @@ Fähigkeiten besitzt, wer
 
 und eine angemessene Zeit in seinem Beruf praktisch tätig gewesen ist.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie oder das
-sonst zuständige Fachministerium kann im Einvernehmen mit dem
+(3) Das Bundesministerium für Wirtschaft und Energie oder das sonst
+zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, in
 den Fällen des Absatzes 2 Nr. 2 bestimmen, welche Prüfungen für welche
 Ausbildungsberufe anerkannt werden.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie oder das
-sonst zuständige Fachministerium kann im Einvernehmen mit dem
+(4) Das Bundesministerium für Wirtschaft und Energie oder das sonst
+zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
@@ -956,9 +960,12 @@ Unversehrtheit und Zurechenbarkeit der Daten gewährleisten.
 
 (1) Ausbildende haben unverzüglich nach Abschluss des
 Berufsausbildungsvertrages die Eintragung in das Verzeichnis zu
-beantragen. Eine Ausfertigung der Vertragsniederschrift ist
-beizufügen. Entsprechendes gilt bei Änderungen des wesentlichen
-Vertragsinhalts.
+beantragen. Der Antrag kann schriftlich oder elektronisch gestellt
+werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen.
+Auf einen betrieblichen Ausbildungsplan im Sinne von § 11 Absatz 1
+Satz 2 Nummer 1, der der zuständigen Stelle bereits vorliegt, kann
+dabei Bezug genommen werden. Entsprechendes gilt bei Änderungen des
+wesentlichen Vertragsinhalts.
 
 (2) Ausbildende und Auszubildende sind verpflichtet, den zuständigen
 Stellen die zur Eintragung nach § 34 erforderlichen Tatsachen auf
@@ -1096,8 +1103,9 @@ Tatsachen fest.
     nicht später als zwei Monate nach dem Prüfungstermin endet,
 
 
-2.  wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie
-    vorgeschriebene schriftliche Ausbildungsnachweise geführt hat und
+2.  wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie einen vom
+    Ausbilder und Auszubildenden abgezeichneten Ausbildungsnachweis nach §
+    13 Satz 2 Nummer 7 vorgelegt hat und
 
 
 3.  wessen Berufsausbildungsverhältnis in das Verzeichnis der
@@ -1230,8 +1238,8 @@ entsprechend.
 
 ##### § 50 Gleichstellung von Prüfungszeugnissen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie oder das
-sonst zuständige Fachministerium kann im Einvernehmen mit dem
+(1) Das Bundesministerium für Wirtschaft und Energie oder das sonst
+zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes
@@ -1240,8 +1248,8 @@ Bestehen der Abschlussprüfung gleichstellen, wenn die Berufsausbildung
 und die in der Prüfung nachzuweisenden beruflichen Fertigkeiten,
 Kenntnisse und Fähigkeiten gleichwertig sind.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie oder das
-sonst zuständige Fachministerium kann im Einvernehmen mit dem
+(2) Das Bundesministerium für Wirtschaft und Energie oder das sonst
+zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den
@@ -1271,7 +1279,7 @@ Berufsbildung (§ 2 Abs. 1 Nr. 3) mit in der Regel mindestens fünf
 Auszubildenden stattfindet und die nicht wahlberechtigt zum
 Betriebsrat nach § 7 des Betriebsverfassungsgesetzes, zur Jugend- und
 Auszubildendenvertretung nach § 60 des Betriebsverfassungsgesetzes
-oder zur Mitwirkungsvertretung nach § 36 des Neunten Buches
+oder zur Mitwirkungsvertretung nach § 52 des Neunten Buches
 Sozialgesetzbuch sind (außerbetriebliche Auszubildende), wählen eine
 besondere Interessenvertretung.
 
@@ -1300,7 +1308,7 @@ Beteiligung.
 
 (1) Als Grundlage für eine einheitliche berufliche Fortbildung kann
 das Bundesministerium für Bildung und Forschung im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie oder dem sonst
+dem Bundesministerium für Wirtschaft und Energie oder dem sonst
 zuständigen Fachministerium nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, Fortbildungsabschlüsse
@@ -1325,12 +1333,11 @@ anerkennen und hierfür Prüfungsregelungen erlassen
 
 (3) Abweichend von Absatz 1 werden Fortbildungsordnungen in Berufen
 der Landwirtschaft, einschließlich der ländlichen Hauswirtschaft,
-durch das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz im Einvernehmen mit dem Bundesministerium für
-Bildung und Forschung, Fortbildungsordnungen in Berufen der
-Hauswirtschaft durch das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung erlassen.
+durch das Bundesministerium für Ernährung und Landwirtschaft im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung,
+Fortbildungsordnungen in Berufen der Hauswirtschaft durch das
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium für Bildung und Forschung erlassen.
 
 
 #### § 54 Fortbildungsprüfungsregelungen der zuständigen Stellen
@@ -1367,7 +1374,7 @@ Bestehens der anderen Prüfung erfolgt.
 
 #### § 57 Gleichstellung von Prüfungszeugnissen
 
-Das Bundesministerium für Wirtschaft und Technologie oder das sonst
+Das Bundesministerium für Wirtschaft und Energie oder das sonst
 zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
@@ -1387,8 +1394,8 @@ sind.
 
 Als Grundlage für eine geordnete und einheitliche berufliche
 Umschulung kann das Bundesministerium für Bildung und Forschung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-oder dem sonst zuständigen Fachministerium nach Anhörung des
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie oder
+dem sonst zuständigen Fachministerium nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
@@ -1466,7 +1473,7 @@ Bestehens der anderen Prüfung erfolgt.
 
 #### § 63 Gleichstellung von Prüfungszeugnissen
 
-Das Bundesministerium für Wirtschaft und Technologie oder das sonst
+Das Bundesministerium für Wirtschaft und Energie oder das sonst
 zuständige Fachministerium kann im Einvernehmen mit dem
 Bundesministerium für Bildung und Forschung nach Anhörung des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
@@ -1797,10 +1804,10 @@ beruflichen Bildung hinzuwirken.
 anzuhören ist, sind insbesondere:
 
 1.  Erlass von Verwaltungsgrundsätzen über die Eignung von Ausbildungs-
-    und Umschulungsstätten, für das Führen von schriftlichen
-    Ausbildungsnachweisen, für die Verkürzung der Ausbildungsdauer, für
-    die vorzeitige Zulassung zur Abschlussprüfung, für die Durchführung
-    der Prüfungen, zur Durchführung von über- und außerbetrieblicher
+    und Umschulungsstätten, für das Führen von Ausbildungsnachweisen nach
+    § 13 Satz 2 Nummer 7, für die Verkürzung der Ausbildungsdauer, für die
+    vorzeitige Zulassung zur Abschlussprüfung, für die Durchführung der
+    Prüfungen, zur Durchführung von über- und außerbetrieblicher
     Ausbildung sowie Verwaltungsrichtlinien zur beruflichen Bildung,
 
 
@@ -1817,7 +1824,7 @@ anzuhören ist, sind insbesondere:
 unterrichten ist, sind insbesondere:
 
 1.  Zahl und Art der der zuständigen Stelle angezeigten Maßnahmen der
-    Berufsausbildungsvorbereitung und  beruflichen Umschulung sowie der
+    Berufsausbildungsvorbereitung und beruflichen Umschulung sowie der
     eingetragenen Berufsausbildungsverhältnisse,
 
 
@@ -2436,7 +2443,7 @@ des Ausschusses.
 (2) Der Ausschuss besteht aus 17 Mitgliedern, die von dem Präsidenten
 oder der Präsidentin längstens für vier Jahre berufen werden. Eine
 Wiederberufung ist zulässig. Die Mitglieder des Ausschusses werden auf
-Vorschlag des Beirats für die Teilhabe behinderter Menschen (§ 64 des
+Vorschlag des Beirats für die Teilhabe behinderter Menschen (§ 86 des
 Neunten Buches Sozialgesetzbuch) berufen, und zwar
 ein Mitglied, das die Arbeitnehmer vertritt,
 ein Mitglied, das die Arbeitgeber vertritt,
@@ -2601,7 +2608,7 @@ und Untersuchungen dürfen keine Einzelangaben enthalten.
     der Niederschrift nicht oder nicht rechtzeitig aushändigt,
 
 
-3.  entgegen § 14 Abs. 2 Auszubildenden eine Verrichtung überträgt, die
+3.  entgegen § 14 Absatz 3 Auszubildenden eine Verrichtung überträgt, die
     dem Ausbildungszweck nicht dient,
 
 
@@ -2658,6 +2665,13 @@ anzuwenden.
 (2) Die vor dem 1. September 1969 erteilten Prüfungszeugnisse in
 Berufen, die nach Absatz 1 als anerkannte Ausbildungsberufe gelten,
 stehen Prüfungszeugnissen nach § 37 Abs. 2 gleich.
+
+(3) Auf Ausbildungsverträge, die vor dem 30. September 2017
+abgeschlossen wurden oder bis zu diesem Zeitpunkt abgeschlossen
+werden, sind § 5 Absatz 2 Satz 1, § 11 Absatz 1 Satz 2, § 13 Satz 2,
+die §§ 14, 43 Absatz 1 Nummer 2, § 79 Absatz 2 Nummer 1 sowie § 102
+Absatz 1 Nummer 3 in ihrer bis zum 5. April 2017 geltenden Fassung
+weiter anzuwenden.
 
 
 ### § 105 Übertragung von Zuständigkeiten

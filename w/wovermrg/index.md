@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1971, 1745, 1747
 
 Zuletzt geändert durch
-:   Art. 8 G v. 9.12.2004 I 3214
+:   Art. 3 G v. 21.4.2015 I 610
 
 
 ## § 1
@@ -39,10 +39,19 @@ Wohnräume im Fremdenverkehr.
 (1) Ein Anspruch auf Entgelt für die Vermittlung oder den Nachweis der
 Gelegenheit zum Abschluß von Mietverträgen über Wohnräume steht dem
 Wohnungsvermittler nur zu, wenn infolge seiner Vermittlung oder
-infolge seines Nachweises ein Mietvertrag zustande kommt.
+infolge seines Nachweises ein Mietvertrag zustande kommt. Der
+Vermittlungsvertrag bedarf der Textform.
 
-(2) Ein Anspruch nach Absatz 1 steht dem Wohnungsvermittler nicht zu,
-wenn
+(1a) Der Wohnungsvermittler darf vom Wohnungssuchenden für die
+Vermittlung oder den Nachweis der Gelegenheit zum Abschluss von
+Mietverträgen über Wohnräume kein Entgelt fordern, sich versprechen
+lassen oder annehmen, es sei denn, der Wohnungsvermittler holt
+ausschließlich wegen des Vermittlungsvertrags mit dem
+Wohnungssuchenden vom Vermieter oder von einem anderen Berechtigten
+den Auftrag ein, die Wohnung anzubieten (§ 6 Absatz 1).
+
+(2) Ein Anspruch nach Absatz 1 Satz 1 steht dem Wohnungsvermittler
+nicht zu, wenn
 
 1.  durch den Mietvertrag ein Mietverhältnis über dieselben Wohnräume
     fortgesetzt, verlängert oder erneuert wird,
@@ -63,41 +72,48 @@ wenn
 
 
 
-(3) Ein Anspruch nach Absatz 1 steht dem Wohnungsvermittler gegenüber
-dem Wohnungssuchenden nicht zu, wenn der Mietvertrag über öffentlich
-geförderte Wohnungen oder über sonstige preisgebundene Wohnungen
-abgeschlossen wird, die nach dem 20. Juni 1948 bezugsfertig geworden
-sind oder bezugsfertig werden. Satz 1 gilt auch für die nach den §§
-88d und 88e des Zweiten Wohnungsbaugesetzes oder nach dem
-Wohnraumförderungsgesetz geförderten Wohnungen, solange das
-Belegungsrecht besteht. Das gleiche gilt für die Vermittlung einzelner
-Wohnräume der in den Sätzen 1 und 2 genannten Wohnungen.
+(3) Ein Anspruch nach Absatz 1 Satz 1 steht dem Wohnungsvermittler
+gegenüber dem Wohnungssuchenden nicht zu, wenn der Mietvertrag über
+öffentlich geförderte Wohnungen oder über sonstige preisgebundene
+Wohnungen abgeschlossen wird, die nach dem 20. Juni 1948 bezugsfertig
+geworden sind oder bezugsfertig werden. Satz 1 gilt auch für die
+Wohnungen, die nach den §§ 88d und 88e des Zweiten
+Wohnungsbaugesetzes, nach dem Wohnraumförderungsgesetz oder nach
+entsprechenden landesrechtlichen Vorschriften gefördert werden,
+solange das Belegungsrecht besteht. Das gleiche gilt für die
+Vermittlung einzelner Wohnräume der in den Sätzen 1 und 2 genannten
+Wohnungen.
 
 (4) Vorschüsse dürfen nicht gefordert, vereinbart oder angenommen
 werden.
 
-(5) Eine abweichende Vereinbarung ist unwirksam.
+(5) Eine Vereinbarung ist unwirksam, wenn
+
+1.  sie von den Absätzen 1 bis 4 abweicht oder
+
+
+2.  durch sie der Wohnungssuchende verpflichtet wird, ein vom Vermieter
+    oder einem Dritten geschuldetes Vermittlungsentgelt zu zahlen.
+
+
+
 
 
 ## § 3
 
-(1) Das Entgelt nach § 2 Abs. 1 ist in einem Bruchteil oder Vielfachen
-der Monatsmiete anzugeben.
+(1) Das Entgelt nach § 2 Abs. 1 Satz 1 ist in einem Bruchteil oder
+Vielfachen der Monatsmiete anzugeben.
 
 (2) Der Wohnungsvermittler darf vom Wohnungssuchenden für die
 Vermittlung oder den Nachweis der Gelegenheit zum Abschluß von
 Mietverträgen über Wohnräume kein Entgelt fordern, sich versprechen
 lassen oder annehmen, das zwei Monatsmieten zuzüglich der gesetzlichen
-Umsatzsteuer übersteigt. Im Falle einer Vereinbarung, durch die der
-Wohnungssuchende verpflichtet wird, ein vom Vermieter geschuldetes
-Vermittlungsentgelt zu zahlen, darf das vom Wohnungssuchenden
-insgesamt zu zahlende Entgelt den in Satz 1 bestimmten Betrag nicht
-übersteigen. Nebenkosten, über die gesondert abzurechnen ist, bleiben
-bei der Berechnung der Monatsmiete unberücksichtigt.
+Umsatzsteuer übersteigt. Nebenkosten, über die gesondert abzurechnen
+ist, bleiben bei der Berechnung der Monatsmiete unberücksichtigt.
 
-(3) Außer dem Entgelt nach § 2 Abs. 1 dürfen für Tätigkeiten, die mit
-der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß von
-Mietverträgen über Wohnräume zusammenhängen, sowie für etwaige
+(3) Außer dem Entgelt nach § 2 Abs. 1 Satz 1 dürfen für Tätigkeiten,
+die mit der Vermittlung oder dem Nachweis der Gelegenheit zum Abschluß
+von Mietverträgen über Wohnräume zusammenhängen, sowie für etwaige
 Nebenleistungen keine Vergütungen irgendwelcher Art, insbesondere
 keine Einschreibgebühren, Schreibgebühren oder Auslagenerstattungen,
 vereinbart oder angenommen werden. Dies gilt nicht, soweit die
@@ -120,8 +136,8 @@ Gegenstand hat.
 Der Wohnungsvermittler und der Auftraggeber können vereinbaren, daß
 bei Nichterfüllung von vertraglichen Verpflichtungen eine
 Vertragsstrafe zu zahlen ist. Die Vertragsstrafe darf 10 Prozent des
-gemäß § 2 Abs. 1 vereinbarten Entgelts, höchstens jedoch 25 Euro nicht
-übersteigen.
+gemäß § 2 Abs. 1 Satz 1 vereinbarten Entgelts, höchstens jedoch 25
+Euro nicht übersteigen.
 
 
 ## § 4a
@@ -153,7 +169,7 @@ zurückgefordert werden; die Vorschrift des § 817 Satz 2 des
 Bürgerlichen Gesetzbuchs ist nicht anzuwenden.
 
 (2) Soweit Leistungen auf Grund von Vereinbarungen erbracht worden
-sind, die nach § 3 Abs. 2 Satz 2 oder § 4a unwirksam oder nicht
+sind, die nach § 2 Absatz 5 Nummer 2 oder § 4a unwirksam oder nicht
 wirksam geworden sind, ist Absatz 1 entsprechend anzuwenden.
 
 
@@ -182,7 +198,11 @@ gewerbsmäßig ausübt.
 (1) Ordnungswidrig handelt, wer als Wohnungsvermittler vorsätzlich
 oder fahrlässig
 
-1.  entgegen § 3 Abs. 1 das Entgelt nicht in einem Bruchteil oder
+1.  entgegen § 2 Absatz 1a vom Wohnungssuchenden ein Entgelt fordert, sich
+    versprechen lässt oder annimmt,
+
+
+1a. entgegen § 3 Abs. 1 das Entgelt nicht in einem Bruchteil oder
     Vielfachen der Monatsmiete angibt,
 
 
@@ -200,9 +220,10 @@ oder fahrlässig
 
 
 
-(2) Die Ordnungswidrigkeit nach Absatz 1 Nr. 2 kann mit einer Geldbuße
-bis zu 25.000 Euro, die Ordnungswidrigkeit nach Absatz 1 Nr. 1, 3 und
-4 mit einer Geldbuße bis zu 2.500 Euro geahndet werden.
+(2) Die Ordnungswidrigkeit nach Absatz 1 Nummer 1 und 2 kann mit einer
+Geldbuße bis zu 25 000 Euro, die Ordnungswidrigkeit nach Absatz 1
+Nummer 1a, 3 und 4 mit einer Geldbuße bis zu 2 500 Euro geahndet
+werden.
 
 
 ## § 9

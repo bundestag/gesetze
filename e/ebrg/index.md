@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1996, 1548
 
 Neugefasst durch
-:   Bek. v. 7.12.2011 I 2650
+:   Bek. v. 7.12.2011 I 2650;
+
+Geändert durch
+:   Art. 5 G v. 17.7.2017 I 2509
 
 [^f775901_01_BJNR154810996]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2009/38/EG des
     Europäischen Parlaments und des Rates vom 6. Mai 2009 über die
@@ -1094,6 +1097,31 @@ Vereinbarung wirksam ist; Absatz 4 gilt entsprechend.
 
 
 ## Siebter Teil - Besondere Vorschriften, Straf- und Bußgeldvorschriften
+
+
+
+### § 41a Besondere Regelungen für Besatzungsmitglieder von Seeschiffen
+
+(1) Ist ein Mitglied des besonderen Verhandlungsgremiums, eines
+Europäischen Betriebsrats oder einer Arbeitnehmervertretung im Sinne
+des § 19 oder dessen Stellvertreter Besatzungsmitglied eines
+Seeschiffs, so sollen die Sitzungen so angesetzt werden, dass die
+Teilnahme des Besatzungsmitglieds erleichtert wird.
+
+(2) Befindet sich ein Besatzungsmitglied auf See oder in einem Hafen,
+der sich in einem anderen Land als dem befindet, in dem die Reederei
+ihren Geschäftssitz hat, und kann deshalb nicht an einer Sitzung nach
+Absatz 1 teilnehmen, so kann eine Teilnahme an der Sitzung mittels
+neuer Informations- und Kommunikationstechnologien erfolgen, wenn
+
+1.  dies in der Geschäftsordnung des zuständigen Gremiums vorgesehen ist
+    und
+
+
+2.  sichergestellt ist, dass Dritte vom Inhalt der Sitzung keine Kenntnis
+    nehmen können.
+
+
 
 
 

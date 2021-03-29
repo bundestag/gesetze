@@ -16,7 +16,10 @@ Ausfertigungsdatum
 :   2009-09-11
 
 Fundstelle
-:   BGBl I: 2009, 2998
+:   BGBl I: 2009, 2998; II 2012, 499
+
+Geändert durch
+:   Art. 8 G v. 1.6.2017 I 1354
 
 
 ## § 1 Bestimmung der nationalen Kontaktstelle
@@ -47,7 +50,7 @@ Bundeskriminalamt.
 (2) Die Zustimmung nach Artikel 13 Abs. 1 Buchstabe d und Abs. 2 des
 Abkommens vom 1. Oktober 2008 kann nur unter den Voraussetzungen
 erteilt werden, die für die Übermittlung von Daten durch das
-Bundeskriminalamt nach § 14 Abs. 1 des Bundeskriminalamtgesetzes
+Bundeskriminalamt nach § 27 Abs. 1 des Bundeskriminalamtgesetzes
 gelten. Handelt es sich um Daten, die dem Bundeskriminalamt von einer
 anderen innerstaatlichen Stelle übermittelt worden sind, entscheidet
 das Bundeskriminalamt über die Erteilung der Zustimmung im Benehmen

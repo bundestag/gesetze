@@ -52,8 +52,7 @@ Schlußgesetzes zur Abnahme von Versicherungen an Eides Statt befugt.
 Abs. 1 Satz 2 BEG können dem Antragsteller eine Gebühr bis zu 100
 Deutsche Mark und Ersatz der Auslagen nach den §§ 91 bis 94 des
 Gerichtskostengesetzes vom
-26\. Juli 1957 (Bundesgesetzbl. I S. 861, 941)              auferlegt
-werden.
+26\. Juli 1957 (Bundesgesetzbl. I S. 861, 941) auferlegt werden.
 
 (2) Der Kostenbescheid im Sinne des § 207 Abs. 1 Satz 3 BEG ist
 zurückzunehmen, wenn der geltend gemachte Anspruch durch

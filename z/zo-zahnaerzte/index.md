@@ -2,7 +2,7 @@
 Title: Zulassungsverordnung für Vertragszahnärzte
 jurabk: ZO-Zahnärzte
 layout: default
-origslug: zo-zahn_rzte
+origslug: zo-zahnaerzte
 slug: zo-zahnaerzte
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 582
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2011 I 2983
+:   Art. 7 V v. 7.7.2017 I 2842
 
 
 ## Eingangsformel
@@ -331,9 +331,12 @@ hinzuzuziehen. Auch andere Sozialversicherungsträger und die
 Krankenhausgesellschaften sind zu unterrichten; sie können bei der
 Bedarfsplanung hinzugezogen werden.
 
-(2) Die zuständigen Landesbehörden sind über die Aufstellung und
-Anpassung der Bedarfspläne rechtzeitig zu unterrichten, damit ihre
-Anregungen in die Beratungen einbezogen werden können.
+(2) Die zuständigen Landesbehörden und die auf Landesebene für die
+Wahrnehmung der Interessen der Patientinnen und Patienten und der
+Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen
+Organisationen sind über die Aufstellung und Anpassung der
+Bedarfspläne rechtzeitig zu unterrichten, damit ihre Anregungen in die
+Beratungen einbezogen werden können.
 
 (3) Die aufgestellten oder angepassten Bedarfspläne sind den
 Landesausschüssen der Zahnärzte und Krankenkassen zuzuleiten. Sie sind
@@ -505,7 +508,7 @@ beigefügt werden.
 bezeichneten Unterlagen nicht vorgelegt werden, so ist der
 nachzuweisende Sachverhalt glaubhaft zu machen.
 
-(5)
+(5) (weggefallen)
 
 
 ## Abschnitt VI - Zulassung und Vertragszahnarztsitz
@@ -555,8 +558,11 @@ nicht in der Lage ist, Sprechstunden zu den in der
 vertragszahnärztlichen Versorgung üblichen Zeiten anzubieten. Ein
 Zahnarzt steht auch dann für die Versorgung der Versicherten in
 erforderlichem Maße zur Verfügung, wenn er neben seiner
-vertragszahnärztlichen Tätigkeit im Rahmen eines Vertrages nach § 73c
-oder § 140b des Fünften Buches Sozialgesetzbuch tätig wird.
+vertragszahnärztlichen Tätigkeit im Rahmen eines Vertrages nach § 140a
+des Fünften Buches Sozialgesetzbuch tätig wird. Gleiches gilt für die
+Tätigkeit im Rahmen eines Vertrages, der nach den §§ 73c und 140b des
+Fünften Buches Sozialgesetzbuch in der am 22. Juli 2015 geltenden
+Fassung geschlossen wurde.
 
 (2) Für die Ausübung vertragszahnärztlicher Tätigkeit ist nicht
 geeignet ein Zahnarzt, der eine zahnärztliche Tätigkeit ausübt, die
@@ -676,6 +682,7 @@ Zulassungsausschusses wechseln.
 (7) Der Zulassungsausschuss darf den Antrag eines Vertragszahnarztes
 auf Verlegung seines Vertragszahnarztsitzes nur genehmigen, wenn
 Gründe der vertragszahnärztlichen Versorgung dem nicht entgegenstehen.
+Entsprechendes gilt für die Verlegung einer genehmigten Anstellung.
 
 
 ### § 25
@@ -793,7 +800,7 @@ den Europäischen Wirtschaftsraum ausüben dürfen.
 
 (6) Der Antrag auf Ermächtigung ist schriftlich an den
 Zulassungsausschuß zu richten. Ihm sind die Approbationsurkunde sowie
-die in § 18 Abs. 2 Buchstabe e genannten Erklärungen beizufügen. § 18
+die in § 18 Absatz 2 Nummer 5 genannten Erklärungen beizufügen. § 18
 Abs. 3 gilt entsprechend.
 
 (7) Die Ermächtigung ist zeitlich, räumlich und ihrem Umfang nach zu
@@ -935,6 +942,17 @@ Vertragszahnarzt nicht zugleich bei der Kassenzahnärztlichen
 Vereinigung die Durchführung eines Nachbesetzungsverfahrens nach § 103
 Absatz 4 des Fünften Buches Sozialgesetzbuch, wird der bisher
 angestellte Zahnarzt Inhaber der Zulassung.
+
+(6) Die Beschäftigung eines Vertreters für einen angestellten Zahnarzt
+ist zulässig; § 32 Absatz 1 und 4 gilt entsprechend. Die Beschäftigung
+eines Vertreters für einen angestellten Zahnarzt ist für die Dauer von
+sechs Monaten zulässig, wenn der angestellte Zahnarzt freigestellt ist
+oder das Anstellungsverhältnis durch Tod, Kündigung oder andere Gründe
+beendet ist. Hat der angestellte Zahnarzt einen gesetzlichen Anspruch
+auf Freistellung, ist eine Vertretung für die Dauer der Freistellung
+zulässig.
+
+(7) § 26 gilt entsprechend.
 
 
 ### § 33
@@ -1289,6 +1307,16 @@ c)  die Gebühr nach Absatz 1 Buchstabe d an die Geschäftsstelle des
 
 
 
+(4) Abweichend von den Absätzen 1 und 2 werden in Verfahren, die eine
+Tätigkeit in Gebieten betreffen, für die der Landesausschuss der
+Zahnärzte und Krankenkassen die Feststellung nach § 100 Absatz 1 und 3
+des Fünften Buches Sozialgesetzbuch getroffen hat, keine Gebühren
+erhoben. Dies gilt nicht für Anträge nach Absatz 1 Buchstabe a. Der
+Zulassungsausschuss kann von der Erhebung von Gebühren auch absehen
+oder diese reduzieren, wenn dies aus Versorgungsgründen angezeigt ist.
+Bei der Nachbesetzung einer genehmigten Anstellung sind die Gebühren
+nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
+
 
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
 
@@ -1391,8 +1419,10 @@ b) Praxisanschrift
 23\. Bemerkungen
 ...............................................................
 
+Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III
+(BGBl. II 1990, 889, 1056)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III (BGBl. II 1990, 889, 1056) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

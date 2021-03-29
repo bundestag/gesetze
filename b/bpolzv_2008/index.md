@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2008, 250
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 3 G v. 22.11.2011 I 2258
+:   Art. 1 V v. 12.7.2017 I 2357
 
 Stand: Ersetzt V v. 28.6.2005 I 1870 mWv 1.3.2008
 
@@ -40,14 +40,16 @@ Bundespolizeigesetzes.
 Aufgabenwahrnehmung der Bundespolizei und übt die Dienst- und
 Fachaufsicht über die ihm nachgeordneten Bundespolizeibehörden aus.
 Das Bundespolizeipräsidium kann Einsätze und Ermittlungen auch selbst
-führen.
+führen oder Bundespolizeidirektionen mit der Führung von Einsätzen
+beauftragen.
 
-(3) Für die Wahrnehmung folgender Aufgaben sind sachlich zuständig:
+(3) Für die Wahrnehmung folgender Aufgaben und Verwendungen sind
+sachlich zuständig:
 
 1.  das Bundespolizeipräsidium für zentral wahrzunehmende Aufgaben nach
 
-    a)  § 3 Abs. 2 Satz 5, § 31a Abs. 1 Satz 1 und § 69a Abs. 3 Satz 1 des
-        Bundespolizeigesetzes,
+    a)  § 3 Abs. 2 Satz 5, § 28 Absatz 2 Nummer 3 und 4, § 31a Abs. 1 Satz 1
+        und § 69a Abs. 3 Satz 1 des Bundespolizeigesetzes,
 
 
     b)  § 63 Abs. 2 bis 4 in Verbindung mit § 71 Abs. 3 des
@@ -67,7 +69,10 @@ führen.
     f)  § 6 Abs. 1 Nr. 2 und § 32 Abs. 1 Nr. 1 des
         Ausländerzentralregistergesetzes sowie nach der Anlage der AZRG-
         Durchführungsverordnung, soweit dort jeweils auf die in dieser
-        Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird;
+        Rechtsverordnung bestimmte Bundespolizeibehörde verwiesen wird,
+
+
+    g)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
 
 
 
@@ -92,14 +97,18 @@ führen.
         Schmalspurbahnen,
 
 
-    f)  § 78 der Aufenthaltsverordnung;
+    f)  § 78 der Aufenthaltsverordnung,
+
+
+    g)  § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes;
 
 
 
 
 
-2.  die Bundespolizeidirektion Flughafen Frankfurt/Main für die Aufgaben
-    nach § 4a des Bundespolizeigesetzes;
+2.  die Bundespolizeidirektion 11 für die Aufgaben nach § 4a und
+    Verwendungen nach § 8 Absatz 2 und § 9 Absatz 1 Nummer 2 des
+    Bundespolizeigesetzes;
 
 
 3.  die Bundespolizeidirektion Bad Bramstedt für die Aufgaben nach § 6 des
@@ -115,7 +124,7 @@ führen.
     b)  § 61 Abs. 3 des Bundespolizeigesetzes;
 
 
-    c bis g) (weggefallen)
+    c)  § 1 Absatz 1 des Rechtsextremismus-Datei-Gesetzes;
 
 
 
@@ -140,7 +149,10 @@ führen.
         Schmalspurbahnen,
 
 
-    f)  § 78 der Aufenthaltsverordnung.
+    f)  § 78 der Aufenthaltsverordnung,
+
+
+    g)  § 18 Absatz 1 Nummer 9 des Luftsicherheitsgesetzes.
 
 
 
@@ -153,11 +165,29 @@ führen.
 (4) Zu Maßnahmen nach § 31 Abs. 7 des Bundespolizeigesetzes ist
 ausschließlich das Bundespolizeipräsidium befugt.
 
-(5) Zu Maßnahmen nach § 28 Abs. 3 Satz 1, § 30 Abs. 4 und § 31 Abs. 3
-Satz 1 des Bundespolizeigesetzes sind die jeweils örtlich zuständigen
-Bundespolizeidirektionen sowie das Bundespolizeipräsidium, soweit es
-Aufgaben gemäß § 1 Abs. 2 Satz 2 im Einzelfall selbst wahrnimmt,
-befugt.
+(5) Es sind befugt zur Anordnung von Maßnahmen
+
+1.  nach § 22a Absatz 1 Satz 2, § 28 Absatz 3 Satz 1 in Verbindung mit §
+    28 Absatz 2 Nummer 1 und 2, § 30 Absatz 4 und § 31 Absatz 3 Satz 1 des
+    Bundespolizeigesetzes
+
+    a)  die jeweils örtlich zuständigen Bundespolizeidirektionen sowie
+
+
+    b)  das Bundespolizeipräsidium, soweit es Aufgaben nach § 1 Absatz 2 Satz
+        2 im Einzelfall selbst wahrnimmt,
+
+
+
+
+
+2.  nach § 28 Absatz 3 Satz 1 in Verbindung mit § 28 Absatz 2 Nummer 3 und
+    4 des Bundespolizeigesetzes das Bundespolizeipräsidium, soweit sich
+    die Zuständigkeit zur Anordnung dieser Maßnahmen nicht unmittelbar aus
+    § 28 Absatz 3a Satz 1 oder 2 des Bundespolizeigesetzes ergibt.
+
+
+
 
 (6) Die Bundespolizeiakademie ist die zentrale Aus- und
 Fortbildungsstätte der Bundespolizei.
@@ -195,7 +225,7 @@ Augustin gelegene Beschussstelle des Bundespolizeipräsidiums.
 
 4.  die Bundespolizeidirektion Koblenz in den Ländern Rheinland-Pfalz,
     Saarland und Hessen, soweit nicht die Bundespolizeidirektion Flughafen
-    Frankfurt/Main zuständig ist;
+    Frankfurt am Main zuständig ist;
 
 
 5.  die Bundespolizeidirektion Stuttgart im Land Baden-Württemberg;
@@ -212,14 +242,14 @@ Augustin gelegene Beschussstelle des Bundespolizeipräsidiums.
     Brandenburg;
 
 
-9.  die Bundespolizeidirektion Flughafen Frankfurt/Main auf dem Flughafen
-    Frankfurt/Main sowie bundesweit für die Wahrnehmung von Aufgaben nach
-    § 4a des Bundespolizeigesetzes;
+9.  die Bundespolizeidirektion Flughafen Frankfurt am Main auf dem
+    Flughafen Frankfurt am Main;
 
 
-10. die Direktion Bundesbereitschaftspolizei für die Koordination der
-    Einsätze geschlossener Verbände und Einheiten nach § 59 Abs. 2 Satz 2
-    des Bundespolizeigesetzes im gesamten Bundesgebiet.
+10. die Direktion Bundesbereitschaftspolizei im gesamten Bundesgebiet;
+
+
+11. die Bundespolizeidirektion 11 im gesamten Bundesgebiet.
 
 
 

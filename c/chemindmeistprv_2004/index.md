@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2337
 
 Zuletzt geändert durch
-:   Art. 2 V v. 23.7.2010 I 1010
+:   Art. 25 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -992,10 +992,13 @@ Chemie
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch
-Artikel 2
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden
-ist,
+Artikel 25
+der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ...................................
 Unterschrift ............................
 (Siegel der zuständigen Stelle)
@@ -1023,9 +1026,9 @@ Chemie
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Chemie vom 15. September 2004 (BGBl. I S. 2337), die zuletzt durch
-Artikel 2
-der Verordnung vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden
-ist, mit folgenden
+Artikel 25
+der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
+mit folgenden
 Ergebnissen 1) bestanden:
 Note
 I. Fachrichtungsübergreifende Basisqualifikationen
@@ -1063,9 +1066,13 @@ den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse durch die Prüfung am ............................... in
 .............................................. vor
 ........................................... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..............................
 Unterschrift .......................
-(Siegel der zuständigen Stelle)             -----
+(Siegel der zuständigen Stelle)-----
 
 1)  Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .................

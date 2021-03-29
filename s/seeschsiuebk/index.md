@@ -3,7 +3,7 @@ Title: Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sich
   der Seeschiffahrt
 jurabk: SeeSchSiÜbk
 layout: default
-origslug: seeschsi_bk
+origslug: seeschsiuebk
 slug: seeschsiuebk
 
 ---

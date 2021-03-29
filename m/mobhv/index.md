@@ -113,7 +113,7 @@ ausgerüstet ist, die
 
 
 2.  mindestens einen Verzögerungswert von 3,5 m/s
-    2                    erreicht.
+    2 erreicht.
 
 
 

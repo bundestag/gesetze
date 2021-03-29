@@ -714,15 +714,14 @@ Gemeindegruppe bezeichnet, zu der die Gemeinde nach den
 §§ 29 und 30 der Grundsteuer-Durchführungsverordnung in der Fassung
 vom 29. Januar 1952 (Bundesgesetzbl. I S. 79), zuletzt geändert durch
 Artikel I der Verordnung zur Änderung grundsteuerlicher Vorschriften
-vom 31. Juli 1961 (Bundesgesetzbl. I S. 1118),              gehört.
-Ist die Grundsteuer am Hauptfeststellungszeitpunkt abweichend von der
-nach den
-§§ 29 und 30 der Grundsteuer-Durchführungsverordnung
-anzuwendenden Gemeindegruppe erhoben worden, so ist die Gemeindegruppe
-maßgebend, die der Erhebung der Steuer zugrunde gelegt worden ist.
-Waren Bezirke in den Verordnungen der Präsidenten der
-Landesfinanzämter durch Buchstabenzusätze oder Untergruppen
-unterteilt, so gelten die Zahlen der Tabelle für den ganzen Bezirk.
+vom 31. Juli 1961 (Bundesgesetzbl. I S. 1118), gehört. Ist die
+Grundsteuer am Hauptfeststellungszeitpunkt abweichend von der nach den
+§§ 29 und 30 der Grundsteuer-Durchführungsverordnung anzuwendenden
+Gemeindegruppe erhoben worden, so ist die Gemeindegruppe maßgebend,
+die der Erhebung der Steuer zugrunde gelegt worden ist. Waren Bezirke
+in den Verordnungen der Präsidenten der Landesfinanzämter durch
+Buchstabenzusätze oder Untergruppen unterteilt, so gelten die Zahlen
+der Tabelle für den ganzen Bezirk.
 
 (3) Gehört eine Gemeinde am Hauptfeststellungszeitpunkt zu
 verschiedenen Bezirken oder Gemeindegruppen oder war der Hebesatz

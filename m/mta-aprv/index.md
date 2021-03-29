@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 922
 
 Zuletzt geändert durch
-:   Art. 42 G v. 6.12.2011 I 2515
+:   Art. 22 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -91,10 +91,9 @@ Prüfungsausschüsse sind vorher zu hören.
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet, der aus
 folgenden Mitgliedern besteht:
 
-1.  einem Medizinalbeamten oder im Falle der Prüfung von
-    Veterinärmedizinisch-technischen Assistenten einem Veterinärbeamten
-    der zuständigen Behörde oder einem von der zuständigen Behörde mit der
-    Wahrnehmung dieser Aufgabe Beauftragten als Vorsitzenden,
+1.  einem fachlich geeigneten Vertreter der zuständigen Behörde oder einer
+    von der zuständigen Behörde mit der Wahrnehmung dieser Aufgabe
+    betrauten fachlich geeigneten Person als Vorsitzender,
 
 
 2.  einem Beauftragten der Schulverwaltung, wenn die Schule nach den
@@ -220,9 +219,10 @@ Prüfung ausgewiesen. Über das Nichtbestehen erhält der Prüfling vom
 Vorsitzenden des Prüfungsausschusses eine schriftliche Mitteilung, in
 der die Prüfungsnoten anzugeben sind.
 
-(3) Die schriftliche und die mündliche Prüfung sowie jedes Fach der
-praktischen Prüfung können einmal wiederholt werden, wenn der Prüfling
-die Note "mangelhaft" oder "ungenügend" erhalten hat.
+(3) Jede Aufsichtsarbeit der schriftlichen Prüfung, die mündliche
+Prüfung sowie jedes Fach der praktischen Prüfung können einmal
+wiederholt werden, wenn der Prüfling die Note "mangelhaft" oder
+"ungenügend" erhalten hat.
 
 (4) Hat der Prüfling ein Fach der praktischen Prüfung oder die gesamte
 praktische Prüfung zu wiederholen, so darf er zur Wiederholungsprüfung
@@ -733,6 +733,10 @@ vor, so stellt die zuständige Behörde die Erlaubnisurkunde nach dem
 Muster der Anlage 7 aus.
 
 
+## Abschnitt 6a - Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder einem Drittstaat
+
+
+
 ### § 25 Sonderregelungen für Inhaber von Ausbildungsnachweisen aus einem anderen Vertragsstaat des Europäischen Wirtschaftsraumes
 
 (1) Antragsteller, die eine Erlaubnis nach § 1 des Gesetzes
@@ -741,26 +745,29 @@ beantragen, können zum Nachweis, daß die Voraussetzungen nach § 2 Abs.
 Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder
 einen von einer solchen Behörde ausgestellten Strafregisterauszug
 oder, wenn ein solcher nicht beigebracht werden kann, einen
-gleichwertigen Nachweis vorlegen. Hat der Antragsteller den Beruf im
-Herkunftsmitgliedstaat bereits ausgeübt, so kann die für die Erteilung
-der Erlaubnis nach § 1 des Gesetzes zuständige Behörde bei der
-zuständigen Behörde des Herkunftsmitgliedstaats Auskünfte über etwa
-gegen den Antragsteller verhängte Strafen oder sonstige berufs- oder
-strafrechtliche Maßnahmen wegen schwerwiegenden standeswidrigen
-Verhaltens oder strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsmitgliedstaat betreffen, einholen. Hat die für die Erteilung
-der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder 2 von
-Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des Gesetzes
-eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs.
-1 Nr. 2 des Gesetzes von Bedeutung sein können, so hat sie die
-zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten und sie
-zu bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und
-die Folgerungen, die sie hinsichtlich der von ihr ausgestellten
-Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den
-Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind
-vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
-gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
-drei Monate zurückliegt.
+gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der
+Erlaubnis zuständige Behörde berechtigte Zweifel, kann sie von der
+zuständigen Behörde eines Mitgliedstaates eine Bestätigung verlangen,
+aus der sich ergibt, dass dem Antragsteller die Ausübung des Berufs,
+der dem des Medizinisch-technischen Laboratoriumsassistenten, des
+Medizinisch-technischen Radiologieassistenten, des Medizinisch-
+technischen Assistenten für Funktionsdiagnostik oder des
+Veterinärmedizinisch-technischen Assistenten entspricht, nicht auf
+Grund eines schwerwiegenden standeswidrigen Verhaltens oder einer
+Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend
+untersagt worden ist. Hat die für die Erteilung der Erlaubnis
+zuständige Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen
+Kenntnis, die außerhalb des Geltungsbereichs des Gesetzes eingetreten
+sind und im Hinblick auf die Voraussetzungen des § 2 Abs. 1 Nr. 2 des
+Gesetzes von Bedeutung sein können, so hat sie die zuständige Stelle
+des Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese
+Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen,
+die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und
+Nachweise daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3
+genannten Bescheinigungen und Mitteilungen sind vertraulich zu
+behandeln. Sie dürfen der Beurteilung nur zugrunde gelegt werden, wenn
+bei der Vorlage die Ausstellung nicht mehr als drei Monate
+zurückliegt.
 
 (2) Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 Nr. 1, 2, 3 oder
 Nr. 4 des MTA-Gesetzes beantragen, können zum Nachweis, dass die
@@ -798,30 +805,280 @@ Herkunftsmitgliedstaats ersetzen.
 (5) Die zuständige Behörde hat den Dienstleistungserbringer bei der
 erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 10a
 des MTA-Gesetzes binnen eines Monats nach Eingang der Meldung und der
-Begleitdokumente über das Ergebnis ihrer Nachprüfung zu unterrichten.
-Ist eine Nachprüfung innerhalb dieser Frist in besonderen
-Ausnahmefällen nicht möglich, unterrichtet die zuständige Behörde den
-Dienstleistungserbringer innerhalb eines Monats über die Gründe für
-diese Verzögerung und über den Zeitplan für ihre Entscheidung, die vor
-Ablauf des zweiten Monats ab Eingang der vollständigen Unterlagen
-ergehen muss. Erhält der Dienstleistungserbringer innerhalb der in den
-Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
-Behörde, darf die Dienstleistung erbracht werden.
+Begleitdokumente über das Ergebnis ihrer Nachprüfung zu unterrichten
+und ihm dabei mitzuteilen, ob sie die Erbringung der Dienstleistung
+erlaubt oder von ihm verlangt, eine Eignungsprüfung abzulegen. Ist der
+zuständigen Behörde eine Nachprüfung innerhalb eines Monats nach
+Eingang der Meldung und der Begleitdokumente in besonderen
+Ausnahmefällen nicht möglich, unterrichtet sie den Dienstleister
+innerhalb dieser Frist über die Gründe der Verzögerung; sie hat die
+der Verzögerung zugrunde liegenden Schwierigkeiten binnen eines Monats
+nach dieser Mitteilung zu beheben und spätestens innerhalb von zwei
+Monaten nach der Behebung der der Verzögerung zugrunde liegenden
+Schwierigkeiten über die Dienstleistungserbringung zu entscheiden.
+Erhält der Dienstleistungserbringer innerhalb der in den Sätzen 1 und
+2 genannten Fristen keine Rückmeldung der zuständigen Behörde, darf
+die Dienstleistung erbracht werden.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen Union eine
+Gleichstellung ergibt.
 
 
-### § 25a Frist
+### § 25a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
-nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Sie hat über
-den Antrag kurzfristig, spätestens vier Monate nach Vorlage der
-Nachweise über das Vorliegen der Voraussetzungen dieses Gesetzes zu
-entscheiden. Über die Feststellung wesentlicher Unterschiede ist dem
-Antragsteller ein rechtsmittelfähiger Bescheid zu erteilen. Satz 2
-tritt für Anträge, denen ein Ausbildungsnachweis aus einem Drittstaat,
-der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
-Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
-zugrunde liegt, am 1. Dezember 2012 in Kraft.
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des MTA-
+Gesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu
+absolvieren oder eine Eignungsprüfung nach Absatz 3 abzulegen, wenn
+sie über einen Ausbildungsnachweis verfügen, der in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum erworben worden
+ist, und ihre Ausbildung wesentliche Unterschiede zu der deutschen
+Ausbildung aufweist, die von der zuständigen Behörde im Rahmen der
+Prüfung ihres Antrags auf Erteilung der Erlaubnis zur Führung der
+Berufsbezeichnung festgestellt worden sind und nicht durch Kenntnisse
+und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im
+Rahmen ihrer nachgewiesenen Berufspraxis oder durch lebenslanges
+Lernen nach § 2 Absatz 3 Satz 7 des MTA-Gesetzes erworben haben.
+
+(2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen
+Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er
+wird entsprechend dem Lehrgangsziel in Form von theoretischem und
+praktischem Unterricht, einer praktischen Ausbildung mit theoretischer
+Unterweisung oder beidem an Einrichtungen nach § 4 Satz 2 und 3 des
+MTA-Gesetzes oder an von der zuständigen Behörde als vergleichbar
+anerkannten Einrichtungen durchgeführt. An der theoretischen
+Unterweisung sollen Personen nach § 3 Absatz 1 Nummer 3 Buchstabe b in
+angemessenem Umfang beteiligt werden. Die zuständige Behörde legt die
+Dauer und die Inhalte des Anpassungslehrgangs so fest, dass das
+Lehrgangsziel erreicht werden kann. Die Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 7a nachzuweisen.
+
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zum Ausgleich der von der zuständigen Behörde
+festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und
+Fähigkeiten verfügen.
+
+(4) Die Eignungsprüfung für Medizinisch-technische
+Laboratoriumsassistenten besteht aus einem Prüfungsgespräch. Sie
+umfasst mindestens eines und höchstens alle der in § 13 Absatz 1
+aufgeführten Fächer. Die zuständige Behörde legt die Fächer, in denen
+die Eignungsprüfung durchgeführt wird, gemäß den festgestellten
+wesentlichen Unterschieden fest. In dem Prüfungsgespräch hat der
+Prüfling allgemeine Fragen zu den jeweiligen Fächern zu beantworten
+sowie sein jeweiliges Vorgehen hinsichtlich Prinzip, Arbeitsgang,
+Fehlermöglichkeiten und dem Arbeitsergebnis mit Interpretation anhand
+praktischer Beispiele theoretisch zu erläutern. Die Eignungsprüfung
+soll an einem Tag durchgeführt werden und in jedem Fach höchstens 15
+Minuten dauern. Sie wird von zwei Fachprüfern, darunter mindestens
+einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b, abgenommen
+und bewertet. Die Eignungsprüfung ist erfolgreich abgeschlossen, wenn
+die Fachprüfer sie übereinstimmend mit „bestanden“ bewerten. Das
+Bestehen setzt mindestens voraus, dass die Leistung des Prüflings
+trotz ihrer Mängel noch den Anforderungen genügt. Kommen die
+Fachprüfer zu einer unterschiedlichen Bewertung, entscheidet der
+Vorsitzende des Prüfungsausschusses nach Rücksprache mit den
+Fachprüfern über das Bestehen.
+
+(5) Die Eignungsprüfung für Medizinisch-technische
+Radiologieassistenten besteht aus einem Prüfungsgespräch. Sie umfasst
+mindestens eines und höchstens alle der in § 16 Absatz 1 aufgeführten
+Fächer. Absatz 4 Satz 3 bis 9 gilt entsprechend.
+
+(6) Die Eignungsprüfung für Medizinisch-technische Assistenten für
+Funktionsdiagnostik besteht aus einem Prüfungsgespräch. Sie umfasst
+mindestens eines und höchstens alle der in § 19 Absatz 1 aufgeführten
+Fächer. Absatz 4 Satz 3 bis 9 gilt entsprechend.
+
+(7) Die Eignungsprüfung für Veterinärmedizinisch-technische
+Assistenten besteht aus einem Prüfungsgespräch. Sie umfasst mindestens
+eines und höchstens alle der in § 22 Absatz 1 aufgeführten Fächer.
+Absatz 4 Satz 3 bis 9 gilt entsprechend.
+
+(8) Die Eignungsprüfung soll mindestens zweimal jährlich angeboten
+werden. Sie darf einmal wiederholt werden. Über die bestandene
+Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 7b
+erteilt.
+
+(9) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 10a
+Absatz 3 Satz 6 des MTA-Gesetzes einer Eignungsprüfung zu unterziehen
+haben. Abweichend von Absatz 8 Satz 1 ist dabei sicherzustellen, dass
+die Eignungsprüfung innerhalb eines Monats nach der Entscheidung gemäß
+§ 25 Absatz 5 Satz 1 oder Satz 2 abgelegt werden kann.
+
+
+### § 25b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des MTA-
+Gesetzes beantragen, haben einen Anpassungslehrgang nach Absatz 2 zu
+absolvieren, der mit einer Prüfung über den Inhalt des
+Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach Absatz
+3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in
+einem Drittstaat erworben worden ist und ihre Ausbildung wesentliche
+Unterschiede zu der deutschen Ausbildung aufweist, die von der
+zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung
+der Erlaubnis zur Führung der Berufsbezeichnung festgestellt worden
+sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen werden
+konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen
+Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in
+denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf
+Grund der in § 2 Absatz 2 Satz 5 des MTA-Gesetzes vorliegenden
+Umstände nicht durchgeführt wird.
+
+(2) Der Anpassungslehrgang dient zusammen mit dem Abschlussgespräch
+der Feststellung, dass die Antragsteller über die zur Ausübung des
+Berufs des Medizinisch-technischen Laboratoriumsassistenten,
+Medizinisch-technischen Radiologieassistenten, Medizinisch-technischen
+Assistenten für Funktionsdiagnostik oder Veterinärmedizinisch-
+technischen Assistenten erforderlichen Kenntnisse und Fähigkeiten
+verfügen (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in
+Form von theoretischem und praktischem Unterricht, einer praktischen
+Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen
+nach § 4 Satz 2 und 3 des MTA-Gesetzes oder an von der zuständigen
+Behörde als vergleichbar anerkannten Einrichtungen durchgeführt und
+schließt mit einer Prüfung über den Inhalt des Anpassungslehrgangs ab.
+An der theoretischen Unterweisung sollen Personen nach § 3 Absatz 1
+Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die
+zuständige Behörde legt die Dauer und die Inhalte des
+Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden
+kann. Die erfolgreiche Ableistung des Anpassungslehrgangs ist durch
+eine Bescheinigung nach dem Muster der Anlage 8 nachzuweisen. Die
+Bescheinigung wird erteilt, wenn in der Prüfung, die in Form eines
+Abschlussgesprächs durchgeführt wird, festgestellt worden ist, dass
+die Antragsteller das Lehrgangsziel erreicht haben. Das
+Abschlussgespräch wird von einem Fachprüfer nach § 3 Absatz 1 Nummer 3
+gemeinsam mit der Person nach Satz 3, die die Antragsteller während
+des Lehrgangs mit betreut hat, geführt. Ergibt sich in dem
+Abschlussgespräch, dass die Antragsteller den Anpassungslehrgang nicht
+erfolgreich abgeleistet haben, entscheidet der Fachprüfer nach § 3
+Absatz 1 Nummer 3 im Benehmen mit der an dem Gespräch teilnehmenden
+Person nach Satz 3 über eine angemessene Verlängerung des
+Anpassungslehrgangs. Eine Verlängerung ist nur einmal zulässig. Der
+Verlängerung folgt ein weiteres Abschlussgespräch. Kann auch nach dem
+Ergebnis dieses Gesprächs die Bescheinigung nach Satz 5 nicht erteilt
+werden, darf der Anpassungslehrgang nur einmal wiederholt werden.
+
+(3) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zur Ausübung des Berufs des Medizinisch-technischen
+Laboratoriumsassistenten, Medizinisch-technischen
+Radiologieassistenten, Medizinisch-technischen Assistenten für
+Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten
+erforderlichen Kenntnisse und Fähigkeiten verfügen.
+
+(4) Die Kenntnisprüfung für Medizinisch-technische
+Laboratoriumsassistenten besteht aus einer praktischen Prüfung, die
+mit einem Prüfungsgespräch verbunden ist. Sie umfasst mindestens eines
+und höchstens alle der in § 14 Absatz 1 aufgeführten Fächer
+einschließlich der darin vorgesehenen Aufgaben. Die zuständige Behörde
+legt die Fächer, in denen die Prüfung durchgeführt wird, gemäß den
+festgestellten wesentlichen Unterschieden fest. Sie kann auf Grund der
+festgestellten wesentlichen Unterschiede den Aufgabenumfang in den
+einzelnen Fächern reduzieren. In dem Prüfungsgespräch hat der Prüfling
+Prinzip, Arbeitsgang und Fehlermöglichkeiten sowie das Ergebnis mit
+Interpretation zu erläutern. Die Prüfung soll innerhalb von zwei
+Wochen abgeschlossen sein. Sie wird von zwei Fachprüfern, darunter
+mindestens einem Fachprüfer nach § 3 Absatz 1 Nummer 3 Buchstabe b,
+abgenommen und bewertet. Die Kenntnisprüfung ist erfolgreich
+abgeschlossen, wenn die Fachprüfer die Prüfung in jedem Fach
+übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt
+mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel
+noch den Anforderungen genügt. Kommen die Fachprüfer zu einer
+unterschiedlichen Bewertung, entscheidet der Vorsitzende des
+Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
+Bestehen.
+
+(5) Die Kenntnisprüfung für Medizinisch-technische
+Radiologieassistenten besteht aus einer praktischen Prüfung, die mit
+einem Prüfungsgespräch verbunden ist. Sie umfasst mindestens eines und
+höchstens alle der in § 17 Absatz 1 aufgeführten Fächer einschließlich
+der darin vorgesehenen Aufgaben. Absatz 4 Satz 3 bis 10 gilt
+entsprechend.
+
+(6) Die Kenntnisprüfung für Medizinisch-technische Assistenten für
+Funktionsdiagnostik besteht aus einer praktischen Prüfung, die mit
+einem Prüfungsgespräch verbunden ist. Sie umfasst mindestens eines und
+höchstens alle der in § 20 Absatz 1 aufgeführten Fächer einschließlich
+der darin vorgesehenen Aufgaben. Absatz 4 Satz 3 bis 10 gilt
+entsprechend.
+
+(7) Die Kenntnisprüfung für Veterinärmedizinisch-technische
+Assistenten besteht aus einer praktischen Prüfung, die mit einem
+Prüfungsgespräch verbunden ist. Sie umfasst mindestens eines und
+höchstens alle der in § 23 Absatz 1 aufgeführten Fächer einschließlich
+der darin vorgesehenen Aufgaben. Absatz 4 Satz 3 bis 10 gilt
+entsprechend.
+
+(8) Die Kenntnisprüfung soll für jeden Berufszweig mindestens zweimal
+jährlich angeboten werden und darf in jedem Fach, das nicht bestanden
+wurde, einmal wiederholt werden.
+
+(9) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach
+dem Muster der Anlage 9 erteilt.
+
+
+### § 25c Fristen, Bescheide, Durchführungsbestimmungen
+
+(1) Die zuständige Behörde hat über Anträge auf Erteilung einer
+Erlaubnis als Medizinisch-technische Laboratoriumsassistentin oder
+Medizinisch-technischer Laboratoriumsassistent nach § 1 Absatz 1
+Nummer 1 des MTA-Gesetzes, als Medizinisch-technische
+Radiologieassistentin oder Medizinisch-technischer Radiologieassistent
+nach § 1 Absatz 1 Nummer 2 des MTA-Gesetzes, als Medizinisch-
+technische Assistentin für Funktionsdiagnostik oder Medizinisch-
+technischer Assistent für Funktionsdiagnostik nach § 1 Absatz 1 Nummer
+3 des MTA-Gesetzes oder als Veterinärmedizinisch-technische
+Assistentin oder Veterinärmedizinisch-technischer Assistent nach § 1
+Absatz 1 Nummer 4 des MTA-Gesetzes jeweils in Verbindung mit § 2
+Absatz 2, 3, 3a oder Absatz 4 des MTA-Gesetzes kurzfristig, spätestens
+vier Monate, nach Vorlage der für Entscheidungen nach § 2 des MTA-
+Gesetzes erforderlichen Unterlagen zu entscheiden.
+
+(2) Über die Feststellung wesentlicher Unterschiede, die zur
+Auferlegung von Anpassungsmaßnahmen nach den §§ 25a oder 25b führen,
+ist den Antragstellern ein rechtsmittelfähiger Bescheid zu erteilen,
+der folgende Angaben enthält:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
+
+
+2.  die Fächer oder Ausbildungsbestandteile, bei denen wesentliche
+    Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass die Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des Berufs des
+    Medizinisch-technischen
+    Laboratoriumsassistenten, Medizinisch-technischen
+    Radiologieassistenten, Medizinisch-technischen Assistenten für
+    Funktionsdiagnostik oder Veterinärmedizinisch-technischen Assistenten
+    notwendigen Kenntnisse und Fähigkeiten verfügen, und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+    Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 3 Satz 7 des MTA-Gesetzes
+    erworben haben.
+
+
+
+
+(3) Die Prüfungen nach § 25a Absatz 3 und § 25b Absatz 3 finden in
+Form einer staatlichen Prüfung vor einer staatlichen
+Prüfungskommission statt. Die Länder können zur Durchführung der
+Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach §
+2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die
+Antragsteller die Prüfungen innerhalb von sechs Monaten nach der
+Entscheidung nach Absatz 1 ablegen können. Soweit in diesem Abschnitt
+nichts anderes bestimmt ist, gelten die §§ 5, 8 bis 11 für die
+Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## Abschnitt 7 - Schlußvorschriften
@@ -7024,3 +7281,270 @@ Ort, Datum
 -------
 \*) Nichtzutreffendes streichen.
 
+
+### Anlage 7a (zu § 25a Absatz 2)
+
+(Fundstelle: BGBl. I 2016, 922)
+
+......................................................................
+.........................
+(Bezeichnung der Einrichtung)
+
+Bescheinigung
+**über die Teilnahme am Anpassungslehrgang**
+
+Name, Vorname
+
+......................................................................
+.............................
+
+Geburtsdatum        Geburtsort
+
+......................................................................
+.............................
+
+hat in der Zeit vom
+................................................................. bis
+.................................................................
+regelmäßig an dem nach § 25a Absatz 2 der Ausbildungs- und
+Prüfungsverordnung für technische Assistenten in der Medizin von der
+zuständigen Behörde vorgeschriebenen Anpassungslehrgang teilgenommen.
+
+Ort, Datum
+
+......................................................................
+...........  (Stempel)
+
+......................................................................
+...........
+Unterschrift(en) der Einrichtung
+
+
+### Anlage 7b (zu § 25a Absatz 8)
+
+(Fundstelle: BGBl. I 2016, 923)
+
+Die/Der Vorsitzende
+des Prüfungsausschusses
+
+Bescheinigung
+über die staatliche Eignungsprüfung
+**** für
+......................................................................
+..........
+
+
+*    *
+    *
+        *            *
+            *
+
+
+
+
+
+
+   Name, Vorname
+
+......................................................................
+.............................
+
+Geburtsdatum        Geburtsort
+
+......................................................................
+..............................
+
+hat am
+................................................ die staatliche
+Eignungsprüfung nach § 25a Absatz 3 der
+Ausbildungs- und Prüfungsverordnung für technische Assistenten in der
+Medizin bestanden/nicht bestanden\*.
+
+*    *
+    *
+    *
+
+*    *   * Nichtzutreffendes streichen.
+
+
+
+
+Ort, Datum
+
+......................................................................
+....................... (Siegel)
+
+......................................................................
+.......................
+(Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+### Anlage 8 (zu § 25b Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig an dem nach § 25b Absatz 2 der Ausbildungs- und
+        Prüfungsverordnung für technische Assistenten in der Medizin von der
+        zuständigen Behörde vorgeschriebenen
+        Anpassungslehrgang teilgenommen.
+
+
+*    *[^F781546_01_BJNR092200994BJNE004501116]
+   Das Abschlussgespräch hat sie/er bestanden/nicht bestanden
+        .
+
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Personen nach § 25b Absatz 2 Satz 7
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR092200994BJNE004501116]: 
+
+### Anlage 9 (zu § 25b Absatz 9)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Kenntnisprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Kenntnisprüfung nach § 25b
+        Absatz 3 der Ausbildungs- und
+[^F781546_01_BJNR092200994BJNE004601116]
+        Prüfungsverordnung für technische Assistenten in der Medizin
+        bestanden/nicht bestanden
+        .
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR092200994BJNE004601116]: 

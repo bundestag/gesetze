@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 258
 
-Geändert durch
-:   Art. 1 G v. 16.11.2011 I 2224
+Zuletzt geändert durch
+:   Art. 332 V v. 31.8.2015 I 1474
 
 [^f770785_01_BJNR025800008]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2005/32/EG des
     Europäischen Parlaments und des Rates vom 6. Juli 2005 zur Schaffung
@@ -536,8 +536,8 @@ Auskunftsverweigerung zu belehren.
 gegenseitig über Maßnahmen nach diesem Gesetz zu informieren und zu
 unterstützen.
 
-(8) Für alle Marktüberwachungsmaßnahmen gilt § 59 der
-Verwaltungsgerichtsordnung entsprechend.
+(8) Für alle Marktüberwachungsmaßnahmen gilt § 37 Absatz 6 des
+Verwaltungsverfahrensgesetzes entsprechend.
 
 (9) Vor Erlass einer Maßnahme nach Absatz 3 ist der betroffene
 Wirtschaftsakteur oder Aussteller anzuhören mit der Maßgabe, dass die
@@ -560,17 +560,16 @@ unterrichten.
 
 (2) Die beauftragte Stelle überprüft die eingegangenen Meldungen auf
 Vollständigkeit und Schlüssigkeit. Sie unterrichtet das
-Bundesministerium für Wirtschaft und Technologie, das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit, die
-übrigen zuständigen Bundesressorts und das Umweltbundesamt über
-Meldungen nach Absatz 1 Satz 1 und leitet diese der Europäischen
-Kommission, den Mitgliedstaaten der Europäischen Union und den anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-unverzüglich zu. Die beauftragte Stelle unterrichtet die in Satz 2
-genannten Behörden und die Kommission in zusammengefasster Form und in
-angemessenen Zeitabständen auch über sonstige Maßnahmen der
-Marktaufsicht, die ihr im Rahmen des Informationsaustauschs gemäß § 7
-Abs. 7 bekannt werden.
+Bundesministerium für Wirtschaft und Energie, das Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit, die übrigen
+zuständigen Bundesressorts und das Umweltbundesamt über Meldungen nach
+Absatz 1 Satz 1 und leitet diese der Europäischen Kommission, den
+Mitgliedstaaten der Europäischen Union und den anderen Vertragsstaaten
+des Abkommens über den Europäischen Wirtschaftsraum unverzüglich zu.
+Die beauftragte Stelle unterrichtet die in Satz 2 genannten Behörden
+und die Kommission in zusammengefasster Form und in angemessenen
+Zeitabständen auch über sonstige Maßnahmen der Marktaufsicht, die ihr
+im Rahmen des Informationsaustauschs gemäß § 7 Abs. 7 bekannt werden.
 
 (3) Die beauftragte Stelle unterrichtet die in Absatz 2 Satz 2
 genannten Behörden und die gemäß § 7 für die Marktüberwachung
@@ -775,7 +774,7 @@ bezeichnen, die als Ordnungswidrigkeit nach Absatz 1 Nr. 6 geahndet
 werden können.
 
 
-## § 14
+## § 14 
 
 -
 

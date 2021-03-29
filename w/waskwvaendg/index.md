@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung der Verordnung über die steuerliche Begünstigung von Wasserkraftwerken
 jurabk: WasKwVÄndG
 layout: default
-origslug: waskwv_ndg
+origslug: waskwvaendg
 slug: waskwvaendg
 
 ---

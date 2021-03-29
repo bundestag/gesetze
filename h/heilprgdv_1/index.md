@@ -17,8 +17,9 @@ Fundstelle
 :   RGBl I: 1939, 259
 
 Zuletzt geändert durch
-:   Art. 2 V v. 4.12.2002 I 4456
+:   Art. 17f iVm Art. 18 Abs. 4 G v. 23.12.2016 I 3191
 
+Stand: Bek. v. 9.1.2018 I 126 mWv 22.3.2018 (Nr. 3) ist berücksichtigt
 
 ## Eingangsformel
 
@@ -66,12 +67,18 @@ h)  wenn mit Sicherheit anzunehmen ist, daß er die Heilkunde neben einem
 
 
 i)  wenn sich aus einer Überprüfung der Kenntnisse und Fähigkeiten des
-    Antragstellers durch das Gesundheitsamt ergibt, daß die Ausübung der
-    Heilkunde durch den Betreffenden eine Gefahr für die Volksgesundheit
-    bedeuten würde.
+    Antragstellers durch das Gesundheitsamt, die auf der Grundlage von
+    Leitlinien zur Überprüfung von Heilpraktikeranwärtern durchgeführt
+    wurde, ergibt, dass die Ausübung der Heilkunde durch den Betreffenden
+    eine Gefahr für die Gesundheit der Bevölkerung oder für die ihn
+    aufsuchenden Patientinnen und Patienten bedeuten würde.
 
 
 
+Das Bundesministerium für Gesundheit macht Leitlinien zur Überprüfung
+von Heilpraktikeranwärtern bis spätestens zum 31. Dezember 2017 im
+Bundesanzeiger bekannt. Bei der Erarbeitung der Leitlinien sind die
+Länder zu beteiligen.
 
 (2)
 
@@ -88,8 +95,7 @@ Bescheides. Der ablehnende Bescheid ist mit Gründen zu versehen.
 (3) Gegen den Bescheid können der Antragsteller ... und die zuständige
 Ärztekammer binnen
 zwei Wochen Beschwerde einlegen. Über diese entscheidet die höhere
-Verwaltungsbehörde              nach Anhörung eines
-Gutachterausschusses (§ 4).
+Verwaltungsbehörde nach Anhörung eines Gutachterausschusses (§ 4).
 
 
 ## § 4
@@ -97,11 +103,10 @@ Gutachterausschusses (§ 4).
 (1) Der Gutachterausschuß besteht aus einem Vorsitzenden, der weder
 Arzt noch Heilpraktiker sein darf, aus zwei Ärzten sowie aus zwei
 Heilpraktikern. Die Mitglieder des Ausschusses werden vom
-Reichsminister des Innern ...              für die Dauer von zwei
-Jahren berufen. Die Landesregierungen werden ermächtigt, durch
-Rechtsverordnung die zuständige Behörde abweichend von Satz 2 zu
-bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
-übertragen.
+Reichsminister des Innern ... für die Dauer von zwei Jahren berufen.
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung die
+zuständige Behörde abweichend von Satz 2 zu bestimmen. Sie können
+diese Ermächtigung auf oberste Landesbehörden übertragen.
 
 (2) Für mehrere Bezirke höherer Verwaltungsbehörden kann ein
 gemeinsamer Gutachterausschuß gebildet werden.
@@ -155,8 +160,8 @@ Gutachterausschuß (§ 4).
 
 (4) Nach Abschluß der Ermittlungen legt sie den Antrag mit dem
 Gutachten dem
-Reichsminister des Innern              vor, der ... gegebenenfalls den
-Antrag an den
+Reichsminister des Innern vor, der ... gegebenenfalls den Antrag an
+den
 Reichsminister für Wissenschaft, Erziehung und Volksbildung
 weiterleitet.
 
@@ -164,16 +169,16 @@ weiterleitet.
 ## § 11
 
 (1) Höhere Verwaltungsbehörde im Sinne dieser Verordnung ist in
-Preußen,              Bayern ... der
-Regierungspräsident,              in Berlin der
-Polizeipräsident,              ... im Saarland der
-Reichskommissar für das Saarland              und im übrigen die
-oberste Landesbehörde.
+Preußen, Bayern ... der
+Regierungspräsident, in Berlin der
+Polizeipräsident, ... im Saarland der
+Reichskommissar für das Saarland und im übrigen die oberste
+Landesbehörde.
 
 (2) Untere Verwaltungsbehörde im Sinne dieser Verordnung ist in
 Gemeinden mit staatlicher Polizeiverwaltung die staatliche
 Polizeibehörde, im übrigen in Stadtkreisen der
-Oberbürgermeister,              in Landkreisen der
+Oberbürgermeister, in Landkreisen der
 Landrat.
 
 (3)

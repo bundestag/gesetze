@@ -1,14 +1,14 @@
 ---
-Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der
-  Europäischen Union auf dem Gebiet des ökologischen Landbaus
+Title: Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet
+  des ökologischen Landbaus
 jurabk: ÖLG 2009
 layout: default
-origslug: _lg_2009
+origslug: oelg_2009
 slug: oelg_2009
 
 ---
 
-# Gesetz zur Durchführung der Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union auf dem Gebiet des ökologischen Landbaus (ÖLG 2009)
+# Gesetz zur Durchführung der Rechtsakte der Europäischen Union auf dem Gebiet des ökologischen Landbaus (ÖLG 2009)
 
 Ausfertigungsdatum
 :   2008-12-07
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2358
 
-Geändert durch
-:   Art. 33 G v. 9.12.2010 I 1934
+Zuletzt geändert durch
+:   Art. 4 Abs. 94 G v. 18.7.2016 I 1666
 
 
 ## § 1 Anwendungsbereich
@@ -26,7 +26,9 @@ Dieses Gesetz dient der Durchführung der Verordnung (EG) Nr. 834/2007
 des Rates vom 28. Juni 2007 über die ökologische/biologische
 Produktion und die Kennzeichnung von ökologischen/biologischen
 Erzeugnissen und zur Aufhebung der Verordnung (EWG) Nr. 2092/91 (ABl.
-EU Nr. L 189 S. 1) sowie der zu ihrer Durchführung erlassenen
+L 189 vom 22.7.1991, S. 1), die durch die Verordnung (EG) Nr. 967/2008
+des Rates vom 29. September 2008 (ABl. L 264 vom 3.10.2008, S. 1)
+geändert worden ist, sowie der zu ihrer Durchführung erlassenen
 Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union.
 
 
@@ -93,12 +95,12 @@ der Durchführung eines Verwaltungsverfahrens verbunden ist.
 (2) Unternehmer, die Erzeugnisse im Sinne von Artikel 1 Abs. 2 der
 Verordnung (EG) Nr. 834/2007 als ökologische/biologische Erzeugnisse
 oder Umstellungserzeugnisse direkt an Endverbraucher oder
--nutzer              abgeben, sind von dem Einhalten der Pflichten
-nach Artikel 28 Abs. 1 der Verordnung (EG) Nr. 834/2007 freigestellt,
-soweit sie diese Erzeugnisse nicht selbst erzeugen oder erzeugen
-lassen, aufbereiten oder aufbereiten lassen, an einem anderen Ort als
-einem Ort in Verbindung mit der Verkaufsstelle lagern oder lagern
-lassen oder aus einem Drittland einführen oder einführen lassen.
+-nutzer abgeben, sind von dem Einhalten der Pflichten nach Artikel 28
+Abs. 1 der Verordnung (EG) Nr. 834/2007 freigestellt, soweit sie diese
+Erzeugnisse nicht selbst erzeugen oder erzeugen lassen, aufbereiten
+oder aufbereiten lassen, an einem anderen Ort als einem Ort in
+Verbindung mit der Verkaufsstelle lagern oder lagern lassen oder aus
+einem Drittland einführen oder einführen lassen.
 
 
 ## § 4 Zulassung der Kontrollstellen und Entzug der Zulassung
@@ -182,6 +184,18 @@ Ernährung unter Mitteilung dieser Tatsachen zu ersuchen, ein Verfahren
 zum Entzug der Zulassung oder zur Aufnahme oder Änderung von Auflagen
 einzuleiten.
 
+(6) Hat die nach Absatz 5 Satz 1 zuständige Behörde Tatsachen im Sinne
+des Absatzes 5 Satz 2 festgestellt, so kann sie der Kontrollstelle bis
+zur unanfechtbaren Entscheidung der Bundesanstalt für Landwirtschaft
+und Ernährung in einem Verfahren nach Absatz 5 Satz 2 oder 3 die
+Ausübung der betroffenen Kontrolltätigkeit in ihrem Land vorläufig
+untersagen. Die Anfechtung der vorläufigen Untersagung hat keine
+aufschiebende Wirkung. Die nach Absatz 5 Satz 1 zuständige Behörde
+unterrichtet die Überwachungsbehörden der Länder und die Bundesanstalt
+für Landwirtschaft und Ernährung über eine Anordnung nach Satz 1. Die
+Kontrollstelle hat die Untersagung unverzüglich den von ihr in dem
+betroffenen Land kontrollierten Unternehmen anzuzeigen.
+
 
 ## § 5 Pflichten der Kontrollstellen
 
@@ -205,18 +219,13 @@ nach Satz 1 zulassen, soweit
 
 
 
-(2) Die Kontrollstelle hat ein Verzeichnis der in ihre Kontrollen
-einbezogenen Unternehmen mit den Angaben nach Satz 3 zu führen, die in
-der Kennzeichnung oder Werbung oder den Geschäftspapieren für ihre
-Erzeugnisse im Sinne des Artikels 1 Abs. 2 der Verordnung (EG) Nr.
-834/2007 nach den Maßgaben dieser Verordnung oder der zu deren
-Durchführung erlassenen Rechtsakte der Europäischen Gemeinschaft oder
-der Europäischen Union auf die ökologische oder biologische Produktion
-eines Erzeugnisses Bezug nehmen dürfen. Die Kontrollstelle hat das
-Verzeichnis laufend zu aktualisieren und den für die Durchführung der
-in § 1 genannten Rechtsakte und dieses Gesetzes zuständigen Behörden,
-den Wirtschaftsbeteiligten und Verbrauchern im Internet verfügbar zu
-machen. Das Verzeichnis muss folgende Angaben enthalten:
+(2) Die Kontrollstelle hat ein Verzeichnis der in ihre Kontrolle
+einbezogenen Unternehmen nach Maßgabe der Sätze 3 und 4 zu führen und
+der Öffentlichkeit im Internet zugänglich zu machen. Die
+Kontrollstelle hat jede Änderung unverzüglich, spätestens am Tage nach
+dem Wirksamwerden einer Änderung, in dem Verzeichnis einzutragen und
+zeitgleich nach Maßgabe der Sätze 3 und 4 zu veröffentlichen. Das
+Verzeichnis muss folgende Angaben enthalten:
 
 1.  Name und Anschrift des Unternehmens,
 
@@ -225,20 +234,35 @@ machen. Das Verzeichnis muss folgende Angaben enthalten:
     alphanumerische Identifikationsnummer,
 
 
-3.  Name oder Codenummer der Kontrollstelle nach Artikel 27 Abs. 10 der
+3.  Name und Codenummer der Kontrollstelle nach Artikel 27 Absatz 10 der
     Verordnung (EG) Nr. 834/2007,
 
 
-4.  Art der Tätigkeit des Unternehmens nach Artikel 28 Abs. 1 der
-    Verordnung (EG) Nr. 834/2007,
-
-
-5.  die Informationen über das Sortiment der Erzeugnisse nach Artikel 29
-    Abs. 1 in Verbindung mit Abs. 3 der Verordnung (EG) Nr. 834/2007.
+4.  Art der Tätigkeit des Unternehmens nach Artikel 28 Absatz 1 der
+    Verordnung (EG) Nr. 834/2007.
 
 
 
-Weitere Angaben darf das Verzeichnis nicht enthalten.
+Darüber hinaus muss das Verzeichnis die Angaben, die in den
+Bescheinigungen nach Artikel 29 Absatz 1 in Verbindung mit Absatz 3
+der Verordnung (EG) Nr. 834/2007 zu machen sind, enthalten und diese
+nach dem Muster in Anhang XII der Verordnung (EG) Nr. 889/2008 der
+Kommission vom 5. September 2008 mit Durchführungsvorschriften zur
+Verordnung (EG) Nr. 834/2007 des Rates über die
+ökologische/biologische Produktion und die Kennzeichnung von
+ökologischen/biologischen Erzeugnissen hinsichtlich der
+ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle
+(ABl. L 250 vom 18.9.2008, S. 1), die zuletzt durch die
+Durchführungsverordnung (EU) Nr. 505/2012 (ABl. L 154 vom 15.6.2012,
+S. 12, L 359 vom 29.12.2012, S. 77) geändert worden ist, abbilden.
+Weitere Angaben darf das Verzeichnis nicht enthalten. Die
+Kontrollstelle ist verpflichtet, die Abschriften oder Kopien der von
+ihr für ein Unternehmen ausgestellten Bescheinigungen ab dem Datum
+ihrer Ausstellung fünf Jahre aufzubewahren und fünf Jahre im Internet
+verfügbar zu machen und anschließend jeweils unverzüglich – bei
+Speicherung in elektronischer Form automatisiert – zu löschen.
+Aufbewahrungs- und Veröffentlichungspflichten nach anderen
+Rechtsvorschriften bleiben unberührt.
 
 (3) Die Kontrollstellen erteilen einander die für eine ordnungsgemäße
 Durchführung der in § 1 genannten Rechtsakte und dieses Gesetzes
@@ -342,14 +366,14 @@ Drittländern mit. Die genannten Behörden können
 
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 zu regeln.
-Es kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen,
-Auskünften und zur Leistung von Hilfsdiensten sowie zur Duldung der
-Einsichtnahme in Geschäftspapiere und sonstige Unterlagen und zur
-Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster
-und Proben vorsehen.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft durch Rechtsverordnung ohne Zustimmung des Bundesrates
+die Einzelheiten des Verfahrens nach Absatz 1 zu regeln. Es kann dabei
+insbesondere Pflichten zu Anzeigen, Anmeldungen, Auskünften und zur
+Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme in
+Geschäftspapiere und sonstige Unterlagen und zur Duldung von
+Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben
+vorsehen.
 
 
 ## § 8 Überwachung
@@ -416,38 +440,36 @@ und der Europäischen Kommission, insbesondere die Unterrichtung nach
 Artikel 30 Abs. 2 Satz 1 und 2 der Verordnung (EG) Nr. 834/2007 über
 festgestellte Unregelmäßigkeiten oder Verstöße oder die Mitteilungen
 nach Artikel 35 der Verordnung (EG) Nr. 834/2007, obliegt dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-Es kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf die Bundesanstalt für Landwirtschaft und Ernährung
-übertragen. Ferner kann es diese Befugnis durch Rechtsverordnung mit
-Zustimmung des Bundesrates auf die nach Landesrecht zuständigen
-Behörden übertragen.
+Bundesministerium für Ernährung und Landwirtschaft. Es kann diese
+Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf
+die Bundesanstalt für Landwirtschaft und Ernährung übertragen. Ferner
+kann es diese Befugnis durch Rechtsverordnung mit Zustimmung des
+Bundesrates auf die nach Landesrecht zuständigen Behörden übertragen.
 
 
 ## § 10 Gebühren und Auslagen
 
-(1) Für Amtshandlungen der zuständigen Behörden, die nach den Artikeln
-27 und 30 der Verordnung (EG) Nr. 834/2007 zu Kontroll- und
-Überwachungszwecken vorzunehmen sind, sowie für Amtshandlungen nach §
+(1) Für individuell zurechenbare öffentliche Leistungen der
+zuständigen Behörden, die nach den Artikeln 27 und 30 der Verordnung
+(EG) Nr. 834/2007 zu Kontroll- und Überwachungszwecken vorzunehmen
+sind, sowie für individuell zurechenbare öffentliche Leistungen nach §
 2 Abs. 2 können kostendeckende Gebühren und Auslagen erhoben werden.
 
-(2) Die nach Absatz 1 kostenpflichtigen Tatbestände werden durch
-Landesrecht bestimmt, soweit die Amtshandlungen nicht durch die
-Bundesanstalt für Landwirtschaft und Ernährung vorgenommen werden. Das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-wird ermächtigt, für Amtshandlungen nach § 2 Abs. 2 im Einvernehmen
-mit dem Bundesministerium der Finanzen durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
-Gebührenhöhe und die Auslagenerstattung zu bestimmen und dabei feste
-Sätze oder Rahmensätze vorzusehen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, für individuell zurechenbare öffentliche Leistungen nach §
+2 Abs. 2 im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände, die Gebührenhöhe und die
+Auslagenerstattung zu bestimmen und dabei feste Sätze oder Rahmensätze
+vorzusehen.
 
 
 ## § 11 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit dies zur Durchführung der in § 1
-genannten Rechtsakte erforderlich ist,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit dies zur Durchführung der in § 1 genannten Rechtsakte
+erforderlich ist,
 
 1.  die Verwendung von Erzeugnissen und Stoffen im
     ökologischen/biologischen Landbau für die Zwecke nach Artikel 16 Abs.
@@ -478,14 +500,17 @@ genannten Rechtsakte erforderlich ist,
 
 6.  die näheren Einzelheiten über die Voraussetzungen sowie das Verfahren
     der Zulassung nach § 4 Abs. 1 bis 4 sowie das Verfahren des Entzugs
-    der Zulassung nach § 4 Abs. 5 Satz 2 und 3 zu regeln.
+    der Zulassung nach § 4 Abs. 5 Satz 2 und 3 zu regeln,
+
+
+7.  nähere Einzelheiten zu den Pflichten der Kontrollstellen nach § 5
+    Absatz 2 zu regeln.
 
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 834/2007 sowie
     der zu ihrer Durchführung erlassenen Rechtsakte der Europäischen
@@ -587,6 +612,10 @@ verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  entgegen § 5 Abs. 2 Satz 1 ein Verzeichnis nicht, nicht richtig oder
     nicht vollständig führt,
+
+
+1a. entgegen § 5 Absatz 2 Satz 2 eine Änderung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig einträgt,
 
 
 2.  entgegen § 5 Abs. 3 Satz 2 oder 4 oder Abs. 4 Satz 1 die zuständige

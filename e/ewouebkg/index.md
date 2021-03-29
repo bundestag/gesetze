@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 30. Mai 1975 zur Gründung einer Europä
   Weltraumorganisation
 jurabk: EWOÜbkG
 layout: default
-origslug: ewo_bkg
+origslug: ewouebkg
 slug: ewouebkg
 
 ---

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1577
 
+Geändert durch
+:   Art. 135 V v. 31.8.2015 I 1474
+
 
 ## § 1 Begriffsbestimmungen
 
@@ -153,12 +156,13 @@ der Rechtsverordnung nach § 6 fortzubilden.
 
 ## § 6 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
-über die Ausbildung zum zertifizierten Mediator und über die
-Fortbildung des zertifizierten Mediators sowie Anforderungen an Aus-
-und Fortbildungseinrichtungen zu erlassen. In der Rechtsverordnung
-nach Satz 1 können insbesondere festgelegt werden:
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+nähere Bestimmungen über die Ausbildung zum zertifizierten Mediator
+und über die Fortbildung des zertifizierten Mediators sowie
+Anforderungen an Aus- und Fortbildungseinrichtungen zu erlassen. In
+der Rechtsverordnung nach Satz 1 können insbesondere festgelegt
+werden:
 
 1.  nähere Bestimmungen über die Inhalte der Ausbildung, wobei eine
     Ausbildung zum zertifizierten Mediator die in § 5 Absatz 1 Satz 2

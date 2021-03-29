@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2007, 549
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.3.2011 I 378
+:   Art. 2 G v. 5.1.2017 I 17
 
 
 
@@ -85,11 +85,11 @@ müssen.
 
 ## § 3 Überprüfung der Höhe der Zuweisungssätze
 
-Die Höhe der Zuweisungssätze ist vom Bundesministerium des Innern im
-Einvernehmen mit dem Bundesministerium der Finanzen spätestens alle
-drei Jahre auf der Grundlage versicherungsmathematischer Berechnungen
-und unter Berücksichtigung der jeweiligen Änderungen des Besoldungs-
-und Versorgungsrechts zu überprüfen und bei Bedarf anzupassen.
+Die Höhe der Zuweisungssätze wird vom Bundesministerium des Innern im
+Einvernehmen mit dem Bundesministerium der Finanzen unter
+Berücksichtigung versicherungsmathematischer Berechnungen der
+Deckungsgrade des Versorgungsfonds und der jeweiligen Änderungen des
+Besoldungs- und Versorgungsrechts überprüft und bei Bedarf angepasst.
 
 
 ## § 4 Inkrafttreten

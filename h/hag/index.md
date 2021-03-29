@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 191
 
 Zuletzt geändert durch
-:   Art. 225 V v. 31.10.2006 I 2407
+:   Art. 26 G v. 20.11.2015 I 2010
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -142,16 +142,15 @@ a)  Ehegatten und Lebenspartner der in Heimarbeit Beschäftigten (§ 1 Abs.
 
 
 b)  Personen, die mit dem in Heimarbeit Beschäftigten oder nach § 1 Abs. 2
-    Buchstabe a Gleichgestellten oder deren Ehegatten bis zum dritten Grad
-    verwandt oder verschwägert sind;
+    Buchstabe a Gleichgestellten oder deren Ehegatten oder Lebenspartner
+    bis zum dritten Grad verwandt oder verschwägert sind;
 
 
 c)  Mündel, Betreute und Pflegekinder des in Heimarbeit Beschäftigten oder
-    nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder deren Ehegatten
-    sowie Kinder oder Jugendliche, die sich bei einem in Heimarbeit
-    Beschäftigten oder nach § 1 Abs. 2 Buchstabe a Gleichgestellten oder
-    deren Ehegatten in freiwilliger Erziehungshilfe oder Fürsorgeerziehung
-    befinden.
+    nach § 1 Absatz 2 Buchstabe a Gleichgestellten oder deren Ehegatten
+    oder Lebenspartner sowie Mündel, Betreute und Pflegekinder des
+    Ehegatten oder Lebenspartners des in Heimarbeit Beschäftigten oder
+    nach § 1 Absatz 2 Buchstabe a Gleichgestellten.
 
 
 
@@ -993,8 +992,8 @@ Geldbuße bis zu zweitausendfünfhundert Euro geahndet werden.
 (1) Das Bundesministerium für Arbeit und Soziales wird ermächtigt, mit
 Zustimmung des Bundesrates und nach Anhörung der Spitzenverbände der
 Gewerkschaften und der
-Vereinigungen              der Arbeitgeber die zur Durchführung dieses
-Gesetzes erforderlichen Rechtsverordnungen zu erlassen über
+Vereinigungen der Arbeitgeber die zur Durchführung dieses Gesetzes
+erforderlichen Rechtsverordnungen zu erlassen über
 
 a)  das Verfahren bei der Gleichstellung (§ 1 Abs. 2 bis 5);
 
@@ -1022,7 +1021,7 @@ Verwaltungsvorschriften für die Durchführung dieses Gesetzes erlassen.
 ### § 34 Inkrafttreten
 
 (1) Das Gesetz tritt einen Monat nach seiner Verkündung,
-der § 33 am Tag nach der Verkündung              in Kraft.
+der § 33 am Tag nach der Verkündung in Kraft.
 
 (2) Mit dem Inkrafttreten dieses Gesetzes treten das Gesetz über die
 Heimarbeit in der Fassung der Bekanntmachung vom 30. Oktober 1939

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2980
 
+Zuletzt geändert durch
+:   Art. 11 Abs. 9 G v. 18.7.2017 I 2745
+
 
 ## Eingangsformel
 
@@ -118,18 +121,18 @@ Datenformate zu verwenden, die die vollständige Erfassung der Daten
 gewährleisten und den allgemein anerkannten Regeln der Technik
 entsprechen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit kann Datenformate nach Absatz 1 Satz 2 feststellen
 und im Bundesanzeiger bekannt machen. Die Feststellung von
 Datenformaten, die für zivile Flugplätze verwendet werden sollen,
-erfolgt im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung, die Feststellung von Datenformaten, die für
+erfolgt im Einvernehmen mit dem Bundesministerium für Verkehr und
+digitale Infrastruktur, die Feststellung von Datenformaten, die für
 militärische Flugplätze verwendet werden sollen, im Einvernehmen mit
 dem Bundesministerium der Verteidigung.
 
 (3) Die zuständige Behörde kann festlegen, dass Dokumente, die
 elektronisch übermittelt werden, mit einer qualifizierten
-elektronischen Signatur nach dem Signaturgesetz zu versehen sind.
+elektronischen Signatur zu versehen sind.
 
 
 ## § 4 Berechnungsverfahren für die Festsetzung von Lärmschutzbereichen
@@ -138,24 +141,21 @@ elektronischen Signatur nach dem Signaturgesetz zu versehen sind.
 und 4 des Gesetzes zum Schutz gegen Fluglärm erforderliche Ermittlung
 der Lärmbelastung erfolgt auf der Grundlage der in der Anlage zu § 3
 des Gesetzes zum Schutz gegen Fluglärm definierten Lärmindizes L
-Aeq Tag             , L
-Aeq Nacht              und L
-Amax             . Zur Abgrenzung der verschiedenen Schutzzonen des
+Aeq Tag, L
+Aeq Nacht und L
+Amax. Zur Abgrenzung der verschiedenen Schutzzonen des
 Lärmschutzbereichs werden
 
 1.  der äquivalente Dauerschallpegel L
-    Aeq Tag                    als Außenpegel für die Tag-Schutzzonen 1
-    und 2,
+    Aeq Tag als Außenpegel für die Tag-Schutzzonen 1 und 2,
 
 
 2.  der äquivalente Dauerschallpegel L
-    Aeq Nacht                    als Außenpegel für die Nacht-Schutzzone
-    und
+    Aeq Nacht als Außenpegel für die Nacht-Schutzzone und
 
 
 3.  der Maximalpegel L
-    Amax                    als Pegel im Rauminnern für die Nacht-
-    Schutzzone
+    Amax als Pegel im Rauminnern für die Nacht-Schutzzone
 
 
 
@@ -163,9 +163,9 @@ jeweils einschließlich des Zuschlags zur Berücksichtigung der zeitlich
 variierenden Nutzung der einzelnen Betriebsrichtungen (3-Sigma) gemäß
 der Anlage zu § 3 des Gesetzes zum Schutz gegen Fluglärm berechnet.
 Für die Berechnung des Maximalpegels L
-Amax              wird gemäß der Anlage zu § 3 des Gesetzes zum Schutz
-gegen Fluglärm ein Pegelunterschied zwischen außen und innen von 15
-Dezibel (A) berücksichtigt.
+Amax wird gemäß der Anlage zu § 3 des Gesetzes zum Schutz gegen
+Fluglärm ein Pegelunterschied zwischen außen und innen von 15 Dezibel
+(A) berücksichtigt.
 
 (2) Die Berechnung der Lärmindizes erfolgt entsprechend der Anleitung
 zur Berechnung von Lärmschutzbereichen (AzB) vom 19. November 2008
@@ -180,11 +180,11 @@ Metern über dem Boden. Für die Berechnung ist in der Regel ein
 rechtwinkliges Raster von 50 Meter mal 50 Meter zugrunde zu legen. Die
 Bestimmung der Kurvenpunkte mit konstanten Werten der äquivalenten
 Dauerschallpegel L
-Aeq Tag              und L
-Aeq Nacht              sowie der Kurvenpunkte mit konstanter
-Häufigkeit der Überschreitung des Maximalpegels L
-Amax              erfolgt durch Interpolation zwischen benachbarten
-Punkten des Rasters nach Satz 2.
+Aeq Tag und L
+Aeq Nacht sowie der Kurvenpunkte mit konstanter Häufigkeit der
+Überschreitung des Maximalpegels L
+Amax erfolgt durch Interpolation zwischen benachbarten Punkten des
+Rasters nach Satz 2.
 
 (4) Die Ergebnisse der Berechnung sind in Form von Listen der
 Kurvenpunkte und von Karten darzustellen. Die Karten müssen
@@ -198,17 +198,17 @@ georeferenziert sein.
 der Höhe des äquivalenten Dauerschallpegels um mindestens 2 Dezibel
 (A) wird ermittelt, indem die Differenz zwischen dem äquivalenten
 Dauerschallpegel L
-Aeq Tag              an der Grenze der Tag-Schutzzone 1 des
-bestehenden Lärmschutzbereichs und dem für dieselben Immissionsorte
-neu berechneten äquivalenten Dauerschallpegel L
-Aeq Tag              aufgrund des voraussehbaren Flugbetriebs gebildet
-wird, der sich infolge einer Änderung in der Anlage oder im Betrieb
-eines Flugplatzes ergibt. Entsprechend wird die Differenz zwischen dem
+Aeq Tag an der Grenze der Tag-Schutzzone 1 des bestehenden
+Lärmschutzbereichs und dem für dieselben Immissionsorte neu
+berechneten äquivalenten Dauerschallpegel L
+Aeq Tag aufgrund des voraussehbaren Flugbetriebs gebildet wird, der
+sich infolge einer Änderung in der Anlage oder im Betrieb eines
+Flugplatzes ergibt. Entsprechend wird die Differenz zwischen dem
 äquivalenten Dauerschallpegel L
-Aeq Nacht              an der Grenze der Nacht-Schutzzone des
-bestehenden Lärmschutzbereichs und dem für dieselben Immissionsorte
-neu berechneten äquivalenten Dauerschallpegel L
-Aeq Nacht              gebildet.
+Aeq Nacht an der Grenze der Nacht-Schutzzone des bestehenden
+Lärmschutzbereichs und dem für dieselben Immissionsorte neu
+berechneten äquivalenten Dauerschallpegel L
+Aeq Nacht gebildet.
 
 (2) Die für die Neufestsetzung eines Lärmschutzbereichs nach § 4 Abs.
 3 Satz 2 des Gesetzes zum Schutz gegen Fluglärm vorausgesetzte

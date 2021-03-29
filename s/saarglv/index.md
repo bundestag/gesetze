@@ -36,8 +36,8 @@ werden Sowjetzonenflüchtlingen im Sinne des § 3 des
 Bundesvertriebenengesetzes gleichgestellt.
 
 (2) § 1 Abs. 1 Satz 2
-und 3,              Abs. 2 Nr. 4 und Abs. 3 des
-Bundesvertriebenengesetzes findet sinngemäß Anwendung.
+und 3, Abs. 2 Nr. 4 und Abs. 3 des Bundesvertriebenengesetzes findet
+sinngemäß Anwendung.
 
 
 ## § 2

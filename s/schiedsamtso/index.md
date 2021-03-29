@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1957, 570
 
 Zuletzt geändert durch
-:   Art. 24 G v. 26.3.2007 I 378
+:   Art. 8a G v. 18.7.2017 I 2757
 
 
 ## Eingangsformel
@@ -31,7 +31,7 @@ Bundesausschüssen der Ärzte, Zahnärzte und Krankenkassen mit
 Zustimmung des Bundesrates verordnet:
 
 
-## Erster Abschnitt - Gemeinsame Vorschriften für die Schiedsämter für die vertragsärztliche und für die vertragszahnärztliche Versorgung*.
+## Erster Abschnitt - Gemeinsame Vorschriften für die Schiedsämter für die vertragsärztliche und für die vertragszahnärztliche Versorgung\*.
 
 
 
@@ -147,17 +147,15 @@ Anspruch richtet sich gegen die bestellende Körperschaft.
 
 Die Vorsitzenden und die zwei weiteren unparteiischen Mitglieder der
 Bundesschiedsämter oder ihre Stellvertreter erhalten Reisekosten nach
-den Vorschriften über Reisekostenvergütung der Bundesbeamten nach der
-Reisekostenstufe C. Der Anspruch richtet sich gegen den Bundesverband
-der Ortskrankenkassen.
+dem Bundesreisekostengesetz. Der Anspruch richtet sich gegen den
+Spitzenverband Bund der Krankenkassen.
 
 
 ### § 9
 
 Die Vorsitzenden und die zwei weiteren unparteiischen Mitglieder der
-Landesschiedsämter oder ihre Stellvertreter erhalten Reisekosten nach
-den Vorschriften über Reisekostenvergütung der Beamten des Landes nach
-der Reisekostenstufe C. Der Anspruch richtet sich gegen die für die
+Landesschiedsämter oder ihre Stellvertreter erhalten Reisekosten dem
+Bundesreisekostengesetz. Der Anspruch richtet sich gegen die für die
 Geschäftsführung der Landesschiedsämter zuständige Stelle.
 
 
@@ -317,7 +315,18 @@ nach Satz 1 anfallenden Gebührenanteil.
 
 
 
-### (XXXX) §§ 22a und 22b (weggefallen)
+### § 22a
+
+Bei einer Erweiterung des Bundesschiedsamtes um Vertreter der
+Deutschen Krankenhausgesellschaft haben die beteiligten Körperschaften
+und die Deutsche Krankenhausgesellschaft die Kosten nach § 12 Satz 2
+und die Gebühr nach § 20 jeweils entsprechend ihrem Stimmanteil zu
+tragen. Satz 1 gilt entsprechend bei der Erweiterung des
+Bundesschiedsamts um Vertreter der für die Erbringung von Leistungen
+zur medizinischen Rehabilitation maßgeblichen Verbände.
+
+
+### § 22b (weggefallen)
 
 
 ## Dritter Abschnitt - Schlußvorschriften

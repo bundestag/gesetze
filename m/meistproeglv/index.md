@@ -3,7 +3,7 @@ Title: Verordnung zur Gleichstellung österreichischer Meisterprüfungszeugnisse
   Meisterprüfungszeugnissen im Handwerk
 jurabk: MeistPrÖGlV
 layout: default
-origslug: meistpr_glv
+origslug: meistproeglv
 slug: meistproeglv
 
 ---
@@ -47,8 +47,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1)
 
-## Anlage (zu § 1) Aufstellung der gleichgestellten Meisterprüfungszeugnisse
+## Anlage Aufstellung der gleichgestellten Meisterprüfungszeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 1997, 143
 

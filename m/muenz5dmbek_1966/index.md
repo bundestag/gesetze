@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Fichte-Gedenkmünze)
 jurabk: Münz5DMBek 1966
 layout: default
-origslug: m_nz5dmbek_1966
+origslug: muenz5dmbek_1966
 slug: muenz5dmbek_1966
 
 ---

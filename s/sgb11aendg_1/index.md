@@ -2,7 +2,7 @@
 Title: Erstes Gesetz zur Änderung des Elften Buches Sozialgesetzbuch und anderer Gesetze
 jurabk: SGB11ÄndG 1
 layout: default
-origslug: sgb11_ndg_1
+origslug: sgb11aendg_1
 slug: sgb11aendg_1
 
 ---

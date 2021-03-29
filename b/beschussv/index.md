@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 1474
 
 Zuletzt geändert durch
-:   Art. 4 V v. 26.11.2010 I 1643
+:   Art. 114 G v. 29.3.2017 I 626
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -298,8 +298,8 @@ Abs. 5 bezeichnete Rückgabezeichen anzubringen.
 
 ### § 7 Antragsverfahren
 
-(1) Die Beschussprüfung ist in schriftlicher oder elektronischer Form
-zu beantragen; die zuständige Behörde kann in begründeten Fällen
+(1) Die Beschussprüfung ist schriftlich oder elektronisch zu
+beantragen; die zuständige Behörde kann in begründeten Fällen
 Ausnahmen zulassen. Der Antrag kann die Prüfung mehrerer Gegenstände
 umfassen. Er muss folgende Angaben und Unterlagen enthalten:
 
@@ -472,8 +472,8 @@ enthalten, dass die Waffe zum Schießen nicht mehr verwendet werden
 darf.
 
 (3) Für Prüfgegenstände, die die Beschussprüfung nicht bestanden
-haben, ist dem Antragsteller ein schriftlicher Prüfhinweis
-auszustellen,
+haben, ist dem Antragsteller ein schriftlicher oder elektronischer
+Prüfhinweis auszustellen,
 
 1.  aus dem die Daten des Prüfgegenstandes, der Grund der Zurückweisung
     und das Datum des Beschusses hervorgehen und
@@ -810,8 +810,8 @@ sowie außerdem mit der Typenbezeichnung zu kennzeichnen.
 
 ### § 18 Antragsverfahren
 
-(1) Die Bauartzulassung ist in schriftlicher oder elektronischer Form
-zu beantragen. Der Antragsteller hat in dem Antrag anzugeben:
+(1) Die Bauartzulassung ist schriftlich oder elektronisch zu
+beantragen. Der Antragsteller hat in dem Antrag anzugeben:
 
 1.  seinen Namen oder seine Firma und seine Anschrift, bei der Verbringung
     in den Geltungsbereich des Gesetzes den Namen oder die Firma und die
@@ -1774,7 +1774,7 @@ Sachverständige hinzuziehen.
 
 2.  die Vertreter der Physikalisch-Technischen Bundesanstalt, der
     Bundesanstalt für Materialforschung und -prüfung auf Vorschlag des
-    Bundesministeriums für Wirtschaft und Technologie,
+    Bundesministeriums für Wirtschaft und Energie,
 
 
 3.  die Vertreter der in Absatz 2 Nr. 3 bezeichneten Stellen nach Anhörung
@@ -1851,66 +1851,89 @@ Der Bundesrat hat zugestimmt.
 
 ### Anlage I Technische Anforderungen an und Prüfvorschriften für Feuerwaffen und sonstige Gegenstände, die der Beschussprüfung nach § 5 des Gesetzes unterliegen, und technische Anforderungen an Prüfgegenstände nach den §§ 7 bis 10 des Gesetzes
 
-( Fundstelle: BGBl. I 2006, 1488 - 1499 )
+(Fundstelle: BGBl. I 2006, 1488 - 1499)
 **Symbole und ihre Bedeutung**
 
-    V
-i   Einzelwert der Geschwindigkeit
+*    *   V
+        i
+
+    *   Einzelwert der Geschwindigkeit
 
 
-n   Gesamtzahl der Messungen
+*    *   n
+
+    *   Gesamtzahl der Messungen
 
 
-    V
-n   Mittelwert der Geschwindigkeit bei n Messungen
+*    *   V̅
+        n̅
+
+    *   Mittelwert der Geschwindigkeit bei n Messungen
 
 
-    v
-e, n Obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der
-    Grundgesamtheit mit einem Vertrauensniveau von 95 % bei n Messungen
+*    *   v
+        e, n
+
+    *   Obere Anteilsgrenze bei einseitiger Abgrenzung für 95 % der
+        Grundgesamtheit mit einem Vertrauensniveau von 95 % bei n Messungen
 
 
-    k
-2, n Anteilsfaktor für die Anteilsgrenze bei einseitiger Abgrenzung für 95
-    % der Grundgesamtheit bei einem Vertrauensniveau von 95 %
+*    *   k
+        2, n
+
+    *   Anteilsfaktor für die Anteilsgrenze bei einseitiger Abgrenzung für 95
+        % der Grundgesamtheit bei einem Vertrauensniveau von 95 %
 
 
-    s
-n   Standardabweichung bei n Messungen
+*    *   s
+        n
+
+    *   Standardabweichung bei n Messungen
 
 
-    m
-k   Masse des Zwischenelementes (Kolben)
+*    *   m
+        k
+
+    *   Masse des Zwischenelementes (Kolben)
 
 
-    m
-p   Masse des Prüfbolzens
+*    *   m
+        p
+
+    *   Masse des Prüfbolzens
 
 
-    E
-max Zulässiger Höchstwert der Energie der Gebrauchsmunition nach den
-    Maßtafeln
+*    *   E
+        max
+
+    *   Zulässiger Höchstwert der Energie der Gebrauchsmunition nach den
+        Maßtafeln
 
 
-    P
-max Zulässiger Höchstwert des Gasdruckes der Gebrauchsmunition nach den
-    Maßtafeln
+*    *   P
+        max
+
+    *   Zulässiger Höchstwert des Gasdruckes der Gebrauchsmunition nach den
+        Maßtafeln
 
 
-    E
-n   Mittelwert der Bewegungsenergie der Geschosse bei n Messungen
+*    *   E̅
+        n̅
+
+    *   Mittelwert der Bewegungsenergie der Geschosse bei n Messungen
 
 
-    E
-a, n Mittelwert der Auftreffenergie
+*    *   E
+        a, n
 
+    *   Mittelwert der Auftreffenergie
 
 
 
 Soweit in dieser Anlage Symbole für Abmessungen verwendet werden, wird
 bezüglich der Bedeutung auf die Bekanntmachung der Maßtafeln für
-Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
-24\. Februar 2000).
+Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nr. 38a vom 24.
+Februar 2000).
 
 **1** **Beschussprüfung von Feuerwaffen und höchstbeanspruchten Teilen nach
     den §§ 5, 7 und 8 des Gesetzes**
@@ -1920,13 +1943,13 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 1.1.1 die Kennzeichnung nach § 24 des Waffengesetzes und nach § 21 der
-    Allgemeinen Verordnung zum Waffengesetz ordnungsgemäß auf dem
-    Prüfgegenstand angebracht ist,
+    Allgemeinen Waffengesetz-Verordnung ordnungsgemäß auf dem
+    Prüfgegenstand angebracht ist;
 
 
 1.1.2 der Prüfgegenstand keine Materialfehler oder Bearbeitungsfehler
     aufweist, die die Funktionssicherheit und Haltbarkeit beeinträchtigen
-    können,
+    können;
 
 
 1.1.3 folgende Mindest- und, soweit angegeben, Höchstmaße oder Toleranzen
@@ -1935,29 +1958,27 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 1.1.3.1 bei Waffen mit gezogenen Läufen für Zentralfeuerpatronenmunition und
-    bei Waffen für Kartuschenmunition*                   P
-    1                   , L
-    3                   ,*                   H
-    2                   , L
-    1                   /*                   P
-    2                    und L
-    2                   /*                   H
-    1                   , R bzw. E,*                   G
-    1                   , i, G,*                   F,*                   Z
-    und VA;
+    bei Waffen für Kartuschenmunition*P
+    1, L
+    3,*H
+    2, L
+    1/*P
+    2 und L
+    2/*H
+    1, R bzw. E,*G
+    1, i, G,*F,*Z und VA;
 
 
-1.1.3.2 bei Langwaffen mit glatten Läufen für Zentralfeuerpatronenmunition*
-    D, L,*                   H, T, < )*
-    1                   ,*                   B und VA;
+1.1.3.2 bei Langwaffen mit glatten Läufen für Zentralfeuerpatronenmunition*D,
+    L,*H, T, < )*
+    1,*B und VA;
 
 
-1.1.3.3 bei Waffen für Randfeuerpatronenmunition*                   P
-    1                   , L
-    1                   , L
-    3                   ,*                   H
-    2                   , R,*                   F,*                   Z
-    und VA;
+1.1.3.3 bei Waffen für Randfeuerpatronenmunition*P
+    1, L
+    1, L
+    3,*H
+    2, R,*F,*Z und VA;
 
 
 1.1.3.4 im Falle der Nummer 1.1.3.2 können die Waffen, die einen
@@ -1967,11 +1988,11 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     angebracht sind;
 
 
-1.1.4 der Prüfgegenstand, der auf Grund einer Zulassung nach § 7 oder 8 des
-    Gesetzes gefertigt oder in den Geltungsbereich des Gesetzes verbracht
-    wurde, in seinen wesentlichen Merkmalen, insbesondere denjenigen, die
-    für die Freistellung von ordnungsrechtlichen Vorschriften des
-    Beschussgesetzes entscheidend sind, dem zugehörigen Bescheid
+1.1.4 der Prüfgegenstand, der auf Grund einer Zulassung nach § 7 oder § 8
+    des Gesetzes gefertigt oder in den Geltungsbereich des Gesetzes
+    verbracht wurde, in seinen wesentlichen Merkmalen, insbesondere
+    denjenigen, die für die Freistellung von ordnungsrechtlichen
+    Vorschriften des Gesetzes entscheidend sind, dem zugehörigen Bescheid
     entspricht;
 
 
@@ -2001,24 +2022,24 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 1.2.3 Der Mittelwert des Gasdruckes der Beschussmunition muss den zulässigen
     Höchstwert des Gasdruckes der Gebrauchsmunition P
-    max                    nach den Maßtafeln, der Mittelwert des
-    Gasdruckes der Beschussladung oder des Prüfgemisches den zulässigen
-    Höchstwert der Gebrauchsladung oder des Gebrauchsgemisches um
-    mindestens 30 %, bei Langwaffen mit gezogenen Läufen 25 % sowie
-    mindestens den Energiewert E
-    Beschuss                    übersteigen. Ist anstelle des Gasdruckes
-    die Bewegungsenergie der Geschosse zugrunde zu legen, so muss unter
-    Verwendung eines gleichartigen Treibmittels der Mittelwert der
-    Bewegungsenergie der Geschosse der Beschussmunition den zulässigen
-    Höchstwert der Bewegungsenergie der Geschosse der Gebrauchsmunition E
-    max                    nach den Maßtafeln, der Mittelwert der
-    Bewegungsenergie der Beschussladung oder des Prüfgemisches den
-    zulässigen Höchstwert der Gebrauchsladung oder des Gebrauchsgemisches
-    um mindestens 10 % übersteigen. Kann mit der zur Verfügung stehenden
-    Munition, der Ladung oder dem Gemisch die erforderliche Energie nicht
-    erreicht werden, so ist unter Beibehaltung des Treibmittels ein
-    Geschoss zu verwenden, dessen Masse um mindestens 10 % höher ist als
-    die des Gebrauchsgeschosses. Bei Waffen mit glatten Läufen für
+    max nach den Maßtafeln, der Mittelwert des Gasdruckes der
+    Beschussladung oder des Prüfgemisches den zulässigen Höchstwert der
+    Gebrauchsladung oder des Gebrauchsgemisches um mindestens 30 %, bei
+    Langwaffen mit gezogenen Läufen 25 % sowie mindestens den Energiewert
+    E
+    Beschuss übersteigen. Ist anstelle des Gasdruckes die Bewegungsenergie
+    der Geschosse zugrunde zu legen, so muss unter Verwendung eines
+    gleichartigen Treibmittels der Mittelwert der Bewegungsenergie der
+    Geschosse der Beschussmunition den zulässigen Höchstwert der
+    Bewegungsenergie der Geschosse der Gebrauchsmunition E
+    max nach den Maßtafeln, der Mittelwert der Bewegungsenergie der
+    Beschussladung oder des Prüfgemisches den zulässigen Höchstwert der
+    Gebrauchsladung oder des Gebrauchsgemisches um mindestens 10 %
+    übersteigen. Kann mit der zur Verfügung stehenden Munition, der Ladung
+    oder dem Gemisch die erforderliche Energie nicht erreicht werden, so
+    ist unter Beibehaltung des Treibmittels ein Geschoss zu verwenden,
+    dessen Masse um mindestens 10 % höher ist als die des
+    Gebrauchsgeschosses. Bei Waffen mit glatten Läufen für
     Zentralfeuerpatronenmunition muss der Mittelwert des Gasdruckes der
     Beschussmunition 162 mm vor dem Stoßboden (Messstelle II) mindestens
     500 bar erreichen.
@@ -2047,7 +2068,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 1.2.4.2 Dem verstärkten Beschuss unterliegen Waffen für Munition, deren
-    Gasdruck die in Nummer 1.2.4.1. genannten Werte, nicht aber 1.050 bar
+    Gasdruck die in Nummer 1.2.4.1 genannten Werte, nicht aber 1 050 bar
     übersteigt, sowie Waffen mit einer Nenntiefe des Patronenlagers von 73
     mm und größer.
 
@@ -2144,8 +2165,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     als auch der Nummer 5.6.5 der Anlage III genügt. Für den Fall, dass
     Patronen nicht verfügbar sind, deren Gasdruck beiden Anforderungen
     genügt, ist der Beschuss mit mindestens zwei Patronen, deren Gasdruck
-    der Anforderung der Nr. 5.6.4 der Anlage III und einer Patrone, deren
-    Gasdruck der Anforderung der Nummer 5.6.5 der Anlage III genügt,
+    der Anforderung der Nummer 5.6.4 der Anlage III und einer Patrone,
+    deren Gasdruck der Anforderung der Nummer 5.6.5 der Anlage III genügt,
     vorzunehmen. Für Patronen, die nur die Anforderung der Nummer 5.6.5
     der Anlage III erfüllen, kann die Schrotladung größer als in Nummer
     1\.2.4.3 sein.
@@ -2159,7 +2180,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
         Kaliber 12 und von 3,7 mm für Kaliber 20,
 
 
-    –   mit einem Gasdruck von mindestens 1.370 bar an der ersten und
+    –   mit einem Gasdruck von mindestens 1 370 bar an der ersten und
         mindestens 500 bar an der zweiten Messstelle,
 
 
@@ -2175,14 +2196,14 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 1.2.5.1 Bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen
     Höchstwert des Gasdruckes P
-    max                    nach den Maßtafeln von 1.800 bar oder mehr
-    bestimmt sind, durch Beschuss mit mindestens zwei Beschusspatronen,
+    max nach den Maßtafeln von 1 800 bar oder mehr bestimmt sind, durch
+    Beschuss mit mindestens zwei Beschusspatronen,
 
 
 1.2.5.2 bei Langwaffen, die für eine Gebrauchsmunition mit einem zulässigen
     Höchstwert des Gasdruckes P
-    max                    nach den Maßtafeln bis zu 1.800 bar bestimmt
-    sind, durch Beschuss mit mindestens einer Beschusspatrone,
+    max nach den Maßtafeln bis zu 1 800 bar bestimmt sind, durch Beschuss
+    mit mindestens einer Beschusspatrone,
 
 
 1.2.5.3 bei Pistolen, unabhängig vom Gasdruck der Gebrauchsmunition, durch
@@ -2210,7 +2231,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     Mängel aufweisen.
 
 
-1.2.7 Der Beschuss von Waffen mit mehreren Läufen ist mit der in Nummern
+1.2.7 Der Beschuss von Waffen mit mehreren Läufen ist mit der in den Nummern
     1\.2.4.2 bis 1.2.5.5 vorgeschriebenen Anzahl von Beschusspatronen aus
     jedem Lauf vorzunehmen.
 
@@ -2261,8 +2282,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
         *   Dichte
 
         *   1,70 g/cm
-            3                              bis 1,80 g/cm
-            3                             ,
+            3 bis 1,80 g/cm
+            3,
 
 
     *        *   –
@@ -2330,7 +2351,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
         *   Schüttdichte
 
         *   mind. 0,85 g/cm
-            3                             .
+            3\.
 
 
 
@@ -2401,8 +2422,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     Nummern 5.1.1 und 5.1.2 der Anlage III an der Messstelle I, gemessen
     mit einem Druckaufnehmer nach den Nummern 5.4.2 und 5.4.3 der Anlage
     III,*
-    10                    = (275 ± 25) bar betragen. Andernfalls ist das
-    Pulver für den Beschuss zu verwerfen.
+    1̅0̅ = (275 ± 25) bar betragen. Andernfalls ist das Pulver für den
+    Beschuss zu verwerfen.
 
 
 2.1.2.1 Vor dem Beschuss ist das Schwarzpulver unter den in Nummer 2.1.2 Satz
@@ -2716,6 +2737,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
     Buchstabe a = Waffen mit glatten Läufen
+
     Buchstabe b = Waffen mit gezogenen Läufen
 
 
@@ -3051,7 +3073,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     mit einem Schuss je Rohr zu beschießen. Weist der Böller nach dem
     Beschuss Fehler auf oder ergeben sich Zweifel hinsichtlich der
     Haltbarkeit, so kann das Beschussamt einen zusätzlichen Schuss
-    abgeben.Das Beschussamt hat auf dem Böller eine fortlaufende
+    abgeben. Das Beschussamt hat auf dem Böller eine fortlaufende
     Gerätenummer und sein Prüfzeichen anzubringen.
 
     Ladetabellen für Böller:
@@ -4011,6 +4033,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     eingereichten Zeichnungen entsprechen.
 
 
+3.3
+
 3.3.1 Die Abmessungen des Patronen- oder Kartuschenlagers und des Laufes
     müssen den in den Maßtafeln festgelegten Maßen entsprechen.
 
@@ -4018,14 +4042,14 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 3.3.2 Sofern für Schussapparate in den Maßtafeln keine oder nicht alle Maße
     aufgeführt sind, müssen die Abmessungen den Angaben des Herstellers
     und den in den Maßtafeln festgelegten Maßen L
-    1                   , L
-    2                   , R,*                   R
-    1                   ,*                   P
-    1                   ,*                   P
-    2                   ,*                   H
-    1                    der vorgesehenen Munition entsprechen. Die Maße L
-    3                    und*                   H
-    2                    können der Faltung der Kartusche angepasst sein.
+    1, L
+    2, R,*R
+    1,*P
+    1,*P
+    2,*H
+    1 der vorgesehenen Munition entsprechen. Die Maße L
+    3 und*H
+    2 können der Faltung der Kartusche angepasst sein.
 
 
 3.4 Die Festigkeitseigenschaften der verwendeten Werkstoffe, insbesondere
@@ -4047,7 +4071,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 3.4.3 bei Schussapparaten mit zehn Beschusspatronen oder -kartuschen, die
     den nach Nummer 1.2.3 in Verbindung mit den Maßtafeln vorgeschriebenen
-    Gasdruck entwickeln oder, falls keine Beschussmunition hergestellt
+    Gasdruck entwickeln, oder, falls keine Beschussmunition hergestellt
     werden kann, mit zehn Gebrauchspatronen oder -kartuschen mit der
     stärksten Ladung, wenn gleichzeitig Maßnahmen zur Erreichung des
     Gasdruckes im Sinne der Nummer 1.2.3 getroffen werden,
@@ -4074,15 +4098,15 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 3.5
 
-3.5.1 Feuerwaffen, Schussapparate, nichttragbare Geräte, andere nicht
+3.5.1 Feuerwaffen, Schussapparate, nicht tragbare Geräte, andere nicht
     tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte
     Treibladungen verwendet werden und die für technische Zwecke bestimmt
-    sind und in Feuerwaffen eingebaute Einsteckläufe und Einsätze müssen
+    sind, und in Feuerwaffen eingebaute Einsteckläufe und Einsätze müssen
     leicht zu laden und zu entladen sein. Hülsen abgeschossener Munition
     und Magazine, unabhängig von der Zahl abgefeuerter Patronen oder
     Kartuschen, müssen sich leicht und ohne Gefahr entfernen lassen.
 
-    Feuerwaffen, Schussapparate und nichttragbare Geräte, andere nicht
+    Feuerwaffen, Schussapparate und nicht tragbare Geräte, andere nicht
     tragbare Geräte, in denen zum Antrieb in Hülsen untergebrachte
     Treibladungen verwendet werden und die für technische Zwecke bestimmt
     sind, dürfen weder beim Laden noch beim Entladen unbeabsichtigt
@@ -4116,10 +4140,10 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 3.5.2.2 andere Schussapparate, bei denen der Mittelwert der Geschwindigkeit
-    100 m/s oder/und die obere Anteilsgrenze bei einseitiger Abgrenzung
-    für 95 % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 110
-    m/s überschreitet, jedoch der Mittelwert der Geschwindigkeit 160 m/s
-    und die obere Anteilsgrenze bei einseitiger Abgrenzung 95 % der
+    100 m/s oder die obere Anteilsgrenze bei einseitiger Abgrenzung für 95
+    % der Grundgesamtheit bei einem Vertrauensniveau von 95 % 110 m/s
+    überschreitet, jedoch der Mittelwert der Geschwindigkeit 160 m/s und
+    die obere Anteilsgrenze bei einseitiger Abgrenzung 95 % der
     Grundgesamtheit bei einem Vertrauensniveau von 95 % 176 m/s nicht
     überschreitet und der Mittelwert der Auftreffenergie kleiner als 420 J
     ist.
@@ -4150,25 +4174,25 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 3.5.3.2 dürfen mit Ausnahme der Schussapparate, die durch einen Schlag mit dem
     Hammer ausgelöst werden, nicht auszulösen sein, ohne dass sie vor
-    Betätigung des Abzuges mit einer Kraft, die mindestens das 1,5-fache
+    Betätigung des Abzuges mit einer Kraft, die mindestens das 1,5fache
     ihres Gewichts, jedoch nicht weniger als 50 N beträgt, gegen die
     Arbeitsfläche gedrückt werden.
 
 
 3.5.4 Schussapparate der Klasse A nach Nummer 3.5.2.2 dürfen nicht
     auszulösen sein, wenn die Laufachse und die Senkrechte zur
-    Arbeitsfläche einen Winkel von mehr als 15° bilden,
+    Arbeitsfläche einen Winkel von mehr als 15° bilden.
 
 
 3.5.5 Schussapparate der Klasse B dürfen nicht auszulösen sein, wenn die
     Laufachse und die Senkrechte zur Arbeitsfläche einen Winkel von mehr
-    als 7° bilden,
+    als 7° bilden.
 
 
 3.5.6 Schussapparate der Klasse B, die zum Eintreiben eines festen Körpers
     in einen Werkstoff dienen, müssen mit einer Schutzkappe versehen sein,
     die den Benutzer gegen Rückpraller, Splitter oder sonstige sich
-    ablösendefeste Körper schützt. Dies gilt auch für Sonderschutzkappen.
+    ablösende feste Körper schützt. Dies gilt auch für Sonderschutzkappen.
     Der Mindestabstand zwischen Schutzkappenrand und Laufbohrungsachse
     muss bei zentrischer Einstellung mindestens 50 mm betragen.
 
@@ -4208,10 +4232,10 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 4.1 Schreckschuss-, Reizstoff- und Signalwaffen mit einem Durchmesser (P
-    1                   ) des Kartuschenlagers kleiner als 6 mm, aus denen
-    nur Kartuschen mit einer Länge (L
-    6                   ) kleiner als 7 mm verschossen werden können,
-    müssen haltbar, maßhaltig und funktionssicher sein.
+    1) des Kartuschenlagers kleiner als 6 mm, aus denen nur Kartuschen mit
+    einer Länge (L
+    6) kleiner als 7 mm verschossen werden können, müssen haltbar,
+    maßhaltig und funktionssicher sein.
 
 
 4.2 An die Bauart der Schusswaffe sind folgende technische Anforderungen
@@ -4236,8 +4260,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 4.2.3 Kartuschenlager und Rohr müssen mindestens 30° gegeneinander geneigt
     oder so gegeneinander versetzt sein, dass der Schlagbolzen zentrisch
     zum Rohr eingesetzte handelsübliche Munition mit einem größeren
-    Durchmesser (*                   H
-    2                   ) als 5 mm nicht zünden kann.
+    Durchmesser (*H
+    2) als 5 mm nicht zünden kann.
 
 
 4.2.4 Bei Waffen nach Nummer 4.1 mit geneigtem Kartuschenlager kann auf den
@@ -4256,7 +4280,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 4.2.7 Bei Geräten und Zusatzteilen, die der Signalgebung mittels
     pyrotechnischer Munition dienen, darf das Geschoss über keine größere
-    Länge als das 1,75-fache seines Durchmessers oder das 1,2-fache seiner
+    Länge als das 1,75fache seines Durchmessers oder das 1,2fache seiner
     Länge geführt werden. Der für den Antrieb erforderliche mittlere
     Mündungsgasdruck, gemessen direkt vor der Antriebseite der
     pyrotechnischen Munition, darf den kritischen Gasdruckwert von 50 bar
@@ -4267,9 +4291,9 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     zur Waffe auf Grund entsprechender Kennzeichnung eindeutig ist.
 
 
-4.3 Bei Schusswaffen, die aus mehreren Teilen bestehen und
-    auseinandergenommen werden können, muss sichergestellt sein, dass mit
-    den einzelnen Teilen nicht geschossen werden kann.
+4.3 Bei Schusswaffen, die aus mehreren Teilen bestehen und auseinander
+    genommen werden können, muss sichergestellt sein, dass mit den
+    einzelnen Teilen nicht geschossen werden kann.
 
 
 4.4 Ein Versagungsgrund nach § 8 Abs. 2 Nr. 4 des Gesetzes ist nicht
@@ -4315,13 +4339,13 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 5.1.5 Die pyrotechnischen Sätze in pyrotechnischer Munition dürfen nicht
-    selbstentzündlich sein; eine vierwöchige Lagerung bei + 55° und*
-    20 % relativer Luftfeuchte (Klima 55/20 DIN 50015, Ausgabe August
-    1975) darf an den Sätzen und am Gegenstand keine Veränderungen
-    hervorrufen, die eine Gefahrenerhöhung bedeuten. Enthält die
-    pyrotechnische Munition verschiedene Sätze, so dürfen die Bestandteile
-    dieser Sätze nicht in eine Reaktion untereinander treten können, die
-    zur Selbstentzündung führt.
+    selbstentzündlich sein; eine vierwöchige Lagerung bei + 55 °C und* 20
+    % relativer Luftfeuchte (Klima 55/20 DIN 50015, Ausgabe August 1975)
+    darf an den Sätzen und am Gegenstand keine Veränderungen hervorrufen,
+    die eine Gefahrenerhöhung bedeuten. Enthält die pyrotechnische
+    Munition verschiedene Sätze, so dürfen die Bestandteile dieser Sätze
+    nicht in eine Reaktion untereinander treten können, die zur
+    Selbstentzündung führt.
 
 
 5.1.6 Die pyrotechnischen Sätze in pyrotechnischer Munition dürfen folgende
@@ -4345,7 +4369,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 5.1.8 In den Sätzen der pyrotechnischen Munition, die Chlorate enthalten,
-    darf der Anteil an Chlorate 70 % nicht übersteigen. In Leuchtsätzen
+    darf der Anteil an Chloraten 70 % nicht übersteigen. In Leuchtsätzen
     auf Bariumchloratgrundlage sowie in Pfeifsätzen darf der Chloratanteil
     bis auf 80 % erhöht werden.
 
@@ -4390,8 +4414,8 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 5.2.1.6 sie durch Schlag nicht zur Explosion gebracht werden kann.
 
 
-5.2.2 Sofern eine der Forderungen nach Nr. 5.2.1 nicht erfüllt wird, ist die
-    pyrotechnische Munition der Klasse PM II zuzuordnen.
+5.2.2 Sofern eine der Forderungen nach Nummer 5.2.1 nicht erfüllt wird, ist
+    die pyrotechnische Munition der Klasse PM II zuzuordnen.
 
 
 5.3 Kaliberanforderungen an pyrotechnische Munition
@@ -4423,26 +4447,27 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 **6** **Technische Anforderungen an umgebaute und unbrauchbar gemachte
     Schusswaffen oder aus Schusswaffen hergestellte Gegenstände nach § 9
-    Abs. 1 Nr. 1 und 2 des Beschussgesetzes**
+    Abs. 1 Nr. 1 und 2 des Gesetzes**
 
 
 6.1 Definition
 
 
-6.1.1 Schusswaffen i. S. von § 9 Abs. 1 Nr. 1 des Gesetzes i. V. mit Anlage
-    2, Abschnitt 2, Unterabschnitt 2 Nr. 1.5 WaffG, sind veränderte
-    Langwaffen für Zier- oder Sammlerzwecke, zu Theateraufführungen, Film-
-    oder Fernsehaufnahmen, die nur Kartuschenmunition verschießen können.
+6.1.1 Schusswaffen im Sinne von § 9 Abs. 1 Nr. 1 des Gesetzes in Verbindung
+    mit Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.5 des Waffengesetzes
+    sind veränderte Langwaffen für Zier- oder Sammlerzwecke, zu
+    Theateraufführungen, Film- oder Fernsehaufnahmen, die nur
+    Kartuschenmunition verschießen können.
 
 
-6.1.2 Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellt
-    Gegenstände i. S. von § 9 Abs. 1 Nr. 2 i. V. mit Anlage 1, Abschnitt
-    1, Unterabschnitt 1, Nr. 1.4 des WaffG, sind erlaubnispflichtige
-    Waffen, die auf Dauer so abgeändert sind, dass sich weder Munition
-    noch Treibladungen laden oder verschießen lassen.
+6.1.2 Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte
+    Gegenstände im Sinne von § 9 Abs. 1 Nr. 2 in Verbindung mit Anlage 1
+    Abschnitt 1 Unterabschnitt 1 Nr. 1.4 des Waffengesetzes sind
+    erlaubnispflichtige Waffen, die auf Dauer so abgeändert sind, dass
+    sich weder Munition noch Treibladungen laden oder verschießen lassen.
 
 
-6.2 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nr.
+6.2 Umbau-/Abänderungs- und Prüfvorschriften für Schusswaffen nach Nummer
     6\.1.1
 
 
@@ -4454,7 +4479,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
         abfeuern lassen,
 
 
-    –   der Lauf in dem dem Patronenlager zugekehrten Drittel mind. sechs
+    –   der Lauf in dem dem Patronenlager zugekehrten Drittel mindestens sechs
         kalibergroße, nach vorn gerichtete unverdeckte Bohrungen oder andere
         gleichwertige Laufveränderungen aufweist und vor diesen in Richtung
         Laufmündung mit einem kalibergroßen gehärteten Stahlstift dauerhaft
@@ -4464,7 +4489,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
     –   der Lauf mit dem Gehäuse fest verbunden ist, sofern es sich um eine
         Waffe handelt, bei der der Lauf ohne Anwendung von Werkzeugen
-        ausgetauscht werden kann
+        ausgetauscht werden kann.
 
 
 
@@ -4477,20 +4502,21 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 6.2.3 Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie
-    Zeichnungen aus denen die Art und Weise der Umbaumaßnahme mit Angabe
+    Zeichnungen, aus denen die Art und Weise der Umbaumaßnahme mit Angabe
     der verwendeten Materialien ersichtlich ist, beizufügen. Dieses Muster
     ist bei der zulassenden Stelle zu hinterlegen.
 
 
 6.2.4 Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte
-    Waffenmodell mit der Auflage das Zulassungszeichen nach Anlage II Abb.
-    11 mit der erteilten Kennziffer auf jeder Waffe aufzubringen.
+    Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II
+    Abbildung 11 mit der erteilten Kennziffer auf jeder Waffe
+    aufzubringen.
 
 
 6.2.5 Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die
-    Umbaumaßnahme entsprechend 6.2.1 und 6.2.2 zu prüfen. Die jeweilige
-    Kennziffer ist unterhalb des Kennzeichens nach Anlage II, Abbildung
-    11, aufzubringen.
+    Umbaumaßnahme entsprechend den Nummern 6.2.1 und 6.2.2 zu prüfen. Die
+    jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II
+    Abbildung 11 aufzubringen.
 
 
 6.2.6 Außerdem sind umgebaute Schusswaffen einer Beschussprüfung nach § 3
@@ -4499,10 +4525,10 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 6.3 Unbrauchbar gemachte Schusswaffen oder aus Schusswaffen hergestellte
-    Gegenstände nach Nr. 6.1.2
+    Gegenstände nach Nummer 6.1.2
 
 
-6.3.1 Schusswaffen sind unbrauchbar wenn,
+6.3.1 Schusswaffen sind unbrauchbar, wenn
 
     –   das Patronenlager dauerhaft so verändert ist, dass weder Munition noch
         Treibladungen geladen werden können,
@@ -4523,7 +4549,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
             Breite oder
 
 
-        –   im Abstand von jeweils 30 mm, mindestens jedoch 3 kalibergroße
+        –   im Abstand von jeweils 30 mm, mindestens jedoch drei kalibergroße
             Bohrungen oder
 
 
@@ -4538,7 +4564,7 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
     –   bei Langwaffen der Lauf unmittelbar in dem dem Patronenlager
         zugekehrten Drittel
 
-        –   mindestens 6 kalibergroße Bohrungen oder
+        –   mindestens sechs kalibergroße Bohrungen oder
 
 
         –   andere gleichwertige Laufveränderungen
@@ -4546,9 +4572,9 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 
-        aufweist und vor diesen in Richtung der Laufmündung mit einem kaliber-
-        großen gehärteten Stahlstift verschweißt und dauerhaft verschlossen
-        ist.
+        aufweist und vor diesen in Richtung der Laufmündung mit einem
+        kalibergroßen gehärteten Stahlstift verschweißt und dauerhaft
+        verschlossen ist.
 
 
 
@@ -4561,24 +4587,25 @@ Handfeuerwaffen und Munition verwiesen (Bundesanzeiger Nummer 38a vom
 
 
 6.3.3 Dem schriftlichen Antrag zur Zulassung sind ein Muster sowie
-    Zeichnungen aus denen die Art und Weise der Unbrauchbarmachung mit
+    Zeichnungen, aus denen die Art und Weise der Unbrauchbarmachung mit
     Angabe der verwendeten Materialien ersichtlich ist, beizufügen. Dieses
     Muster ist bei der zulassenden Stelle zu hinterlegen.
 
 
 6.3.4 Der Antragsteller erhält einen Zulassungsbescheid für das geprüfte
-    Waffenmodell mit der Auflage das Zulassungszeichen nach Anlage II Abb.
-    11 mit der erteilten Kennziffer auf jeder Waffen aufzubringen.
+    Waffenmodell mit der Auflage, das Zulassungszeichen nach Anlage II
+    Abbildung 11 mit der erteilten Kennziffer auf jeder Waffen
+    aufzubringen.
 
 
 6.3.5 Sofern es sich um Einzelstücke handelt, ist bei jeder Waffe die
-    Umbaumaßnahme entsprechend 6.3.1 und 6.3.2 zu prüfen. Die jeweilige
-    Kennziffer ist unterhalb des Kennzeichens nach Anlage II, Abbildung
-    11, aufzubringen.
+    Umbaumaßnahme entsprechend den Nummern 6.3.1 und 6.3.2 zu prüfen. Die
+    jeweilige Kennziffer ist unterhalb des Kennzeichens nach Anlage II
+    Abbildung 11 aufzubringen.
 
 
-6.3.6 Die Festlegungen der Nr. 6.3.1 bis 6.3.5 sind sinngemäß auch auf aus
-    Schusswaffen hergestellte Gegenstände anzuwenden.
+6.3.6 Die Festlegungen der Nummern 6.3.1 bis 6.3.5 sind sinngemäß auch auf
+    aus Schusswaffen hergestellte Gegenstände anzuwenden.
 
 
 
@@ -7131,7 +7158,7 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
 
 1.2 Der LCt
-    50                   -Wert,
+    50-Wert,
 
     die Konzentration eines Reizstoffes, die nach einer Einwirkungszeit
     von einer Minute bei 50 % aller Versuchstiere eine tödliche Wirkung
@@ -7139,7 +7166,7 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
 
 1.3 Der ICt
-    50                   -Wert,
+    50-Wert,
 
     die Konzentration eines Reizstoffes, die nach einer Einwirkungszeit
     von einer Minute bei 50 % aller ungeschützten Betroffenen bewirkt,
@@ -7159,10 +7186,10 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
     oder 3 je Entladung zulässig ist; bei Anwendung in gasförmigem Zustand
     und als Aerosol darf höchstens eine Reizstoffmenge freigegeben werden,
     die nicht mehr als seinem vierfachen ICt
-    50                   -Wert in mg entspricht; bei der Anwendung in
-    gelöster Form darf höchstens eine Reizstoffmenge freigegeben werden,
-    die dem einfachen ICt
-    50                   -Wert in mg entspricht,
+    50-Wert in mg entspricht; bei der Anwendung in gelöster Form darf
+    höchstens eine Reizstoffmenge freigegeben werden, die dem einfachen
+    ICt
+    50-Wert in mg entspricht,
 
 
 2.3 bei einer Anwendung im Freien der Reizstoff in einer Entfernung von
@@ -7180,11 +7207,11 @@ Kartuschenmunition für Schussapparate, BGBl. I 2006, 1521 u. 1522)
 
 
 3.1 100 mg x min/m
-    3                    und
+    3 und
 
 
 3.2 1/100 des LCt
-    50                   -Wertes
+    50-Wertes
 
     nicht überschreiten.
 
@@ -7349,15 +7376,14 @@ prüfen:
     Feststellung wird das Gegenteil angenommen. Bei den Spielzeugwaffen
     erfolgt die Prüfung in entsprechender Weise für das Gesamtmittel*
     5*
-    10                    nicht über 0,5 J. Die Prüfung vier weiterer
-    Waffen aus der Fertigungsserie erübrigt sich, wenn beim ersten
-    geprüften Stück*
-    10                   nicht über 0,4 J liegt. Die jeweilige obere
-    Toleranzgrenze im obigen Sinne darf nicht über 0,6 J liegen (*
-    10                    + K
-    3                   ,
-    10*                    S
-    10*                    0,6 J).
+    10 nicht über 0,5 J. Die Prüfung vier weiterer Waffen aus der
+    Fertigungsserie erübrigt sich, wenn beim ersten geprüften Stück*
+    10nicht über 0,4 J liegt. Die jeweilige obere Toleranzgrenze im obigen
+    Sinne darf nicht über 0,6 J liegen (*
+    10 + K
+    3,
+    10* S
+    10* 0,6 J).
 
 
 2.  Wird die Prüfung der Bewegungsenergie der Geschosse von Amts wegen an
@@ -7369,13 +7395,13 @@ prüfen:
     (E(tief)10 + k(tief)3, (tief)10 x s(tief)10 <= 8,5 J). Der Wert der
     Bewegungsenergie von 0,5 J gilt als nicht überschritten, wenn der aus
     zehn Messungen resultierende Mittelwert*
-    10                    nicht über 0,55 J und die obere Toleranzgrenze
-    für 90 % der Grundgesamtheit mit einer statistischen Sicherheit von 95
-    % nicht über 0,6 J liegt (*
-    10                    + K
-    3                   ,
-    10*                    S
-    10*                    0,6 J).
+    10 nicht über 0,55 J und die obere Toleranzgrenze für 90 % der
+    Grundgesamtheit mit einer statistischen Sicherheit von 95 % nicht über
+    0,6 J liegt (*
+    10 + K
+    3,
+    10* S
+    10* 0,6 J).
 
 
 3.  Die Bewegungsenergie der Geschosse wird als halbes Produkt der Masse

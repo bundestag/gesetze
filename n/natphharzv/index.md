@@ -51,27 +51,26 @@ Lagen finden sich Fichtenforste, Buchenwälder und Schluchtwälder.
 
 (2) Der Nationalpark wird wie folgt begrenzt:
 
-1.  Die **Südgrenze**                    bildet - von der Grenze zu
-    Niedersachsen an - die Winterberg-Linie, die gleichzeitig die
-    Reviergrenze zwischen den Forstrevieren Winterberg und Barenberg
-    darstellt. Sie verläuft dann nördlich von Schierke entlang der
-    Waldgrenze in Richtung Osten der Straße folgend über Schierker Stern,
-    Feuersteinwiesen unter Einschluß des Workmetales südlich der Straße
-    nach Drei-Annen-Hohne.
+1.  Die **Südgrenze** bildet - von der Grenze zu Niedersachsen an - die
+    Winterberg-Linie, die gleichzeitig die Reviergrenze zwischen den
+    Forstrevieren Winterberg und Barenberg darstellt. Sie verläuft dann
+    nördlich von Schierke entlang der Waldgrenze in Richtung Osten der
+    Straße folgend über Schierker Stern, Feuersteinwiesen unter Einschluß
+    des Workmetales südlich der Straße nach Drei-Annen-Hohne.
 
 
-2.  Die **Ostgrenze**                    wird durch die Forststraße von
-    Drei-Annen-Hohne in Richtung Steinerne Renne gebildet; sie biegt an
-    der Steinernen Renne in Richtung Molkenhaus zum Molkenhausstern ab.
+2.  Die **Ostgrenze** wird durch die Forststraße von Drei-Annen-Hohne in
+    Richtung Steinerne Renne gebildet; sie biegt an der Steinernen Renne
+    in Richtung Molkenhaus zum Molkenhausstern ab.
 
 
-3.  Die **Nordgrenze**                    in Richtung Westen erfolgt über
-    den Schlüsieweg, das Ilsetal, das Große Sandtal bis zur Eckertalsperre
-    an der Grenze zu Niedersachsen.
+3.  Die **Nordgrenze** in Richtung Westen erfolgt über den Schlüsieweg,
+    das Ilsetal, das Große Sandtal bis zur Eckertalsperre an der Grenze zu
+    Niedersachsen.
 
 
-4.  Im **Westen**                    grenzt der Nationalpark an die
-    niedersächsische Landesgrenze unmittelbar an.
+4.  Im **Westen** grenzt der Nationalpark an die niedersächsische
+    Landesgrenze unmittelbar an.
 
 
 5.  Dementsprechend ist die Begrenzung des Nationalparkes mit folgenden
@@ -506,8 +505,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1469)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

@@ -3,7 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Hörgeräteakustiker-Handwerk
 jurabk: HörgAkMstrV
 layout: default
-origslug: h_rgakmstrv
+origslug: hoergakmstrv
 slug: hoergakmstrv
 
 ---

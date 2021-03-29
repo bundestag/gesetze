@@ -398,8 +398,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 5 Abs. 1)
 
-## Anlage (zu § 5 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Holzblasinstrumentenmacher/zur Holzblasinstrumentenmacherin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Holzblasinstrumentenmacher/zur Holzblasinstrumentenmacherin
 
 (Fundstelle: BGBl. I 1997, 112 - 116)
 

@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 12.12.2005 I 3394;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 19.10.2012 I 2192
+:   Art. 1 G v. 18.7.2017 I 2757
 
 
 ## Erster Abschnitt - Zweck des Gesetzes und Begriffsbestimmungen, Anwendungsbereich
@@ -105,7 +105,7 @@ Vorschriften zu sorgen.
     Futtermittelgesetzbuches,
 
 
-3.  Tabakerzeugnisse im Sinne des § 3 des Vorläufigen Tabakgesetzes,
+3.  Erzeugnisse im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
 
 4.  Stoffe oder Zubereitungen aus Stoffen, die ausschließlich dazu
@@ -116,10 +116,13 @@ Vorschriften zu sorgen.
     sind,
 
 
-5.  Biozid-Produkte nach § 3b des Chemikaliengesetzes,
+5.  Biozid-Produkte nach Artikel 3 Absatz 1 Buchstabe a der Verordnung
+    (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22.
+    Mai 2012 über die Bereitstellung auf dem Markt und die Verwendung von
+    Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1),
 
 
-6.  Futtermittel im Sinne des § 3 Nr. 11 bis 15 des Lebensmittel- und
+6.  Futtermittel im Sinne des § 3 Nummer 12 bis 16 des Lebensmittel- und
     Futtermittelgesetzbuches,
 
 
@@ -296,8 +299,8 @@ andere.
 (18) Der pharmazeutische Unternehmer ist bei zulassungs- oder
 registrierungspflichtigen Arzneimitteln der Inhaber der Zulassung oder
 Registrierung. Pharmazeutischer Unternehmer ist auch, wer Arzneimittel
-unter seinem Namen in den Verkehr bringt, außer in den Fällen des § 9
-Abs. 1 Satz 2.
+im Parallelvertrieb oder sonst unter seinem Namen in den Verkehr
+bringt, außer in den Fällen des § 9 Abs. 1 Satz 2.
 
 (19) Wirkstoffe sind Stoffe, die dazu bestimmt sind, bei der
 Herstellung von Arzneimitteln als arzneilich wirksame Bestandteile
@@ -393,6 +396,46 @@ pflanzlichen Zubereitungen enthalten.
 hergestellt worden sind. Menschliche Samen- und Eizellen (Keimzellen)
 sowie imprägnierte Eizellen und Embryonen sind weder Arzneimittel noch
 Gewebezubereitungen.
+
+(30a) Einheitlicher Europäischer Code oder „SEC“ ist die eindeutige
+Kennnummer für in der Europäischen Union verteilte Gewebe oder
+Gewebezubereitungen gemäß Anhang VII der Richtlinie 2006/86/EG der
+Kommission vom 24. Oktober 2006 zur Umsetzung der Richtlinie
+2004/23/EG des Europäischen Parlaments und des Rates hinsichtlich der
+Anforderungen an die Rückverfolgbarkeit, der Meldung schwerwiegender
+Zwischenfälle und unerwünschter Reaktionen sowie bestimmter
+technischer Anforderungen an die Kodierung, Verarbeitung,
+Konservierung, Lagerung und Verteilung von menschlichen Geweben und
+Zellen (ABl. L 294 vom 25.10.2006, S. 32), die zuletzt durch die
+Richtlinie (EU) 2015/565 (ABl. L 93 vom 9.4.2015, S. 43) geändert
+worden ist.
+
+(30b) EU-Gewebeeinrichtungs-Code ist die eindeutige Kennnummer für
+Gewebeeinrichtungen in der Europäischen Union. Für den Geltungsbereich
+dieses Gesetzes gilt er für alle Einrichtungen, die
+erlaubnispflichtige Tätigkeiten mit Geweben, Gewebezubereitungen oder
+mit hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut durchführen. Der EU-
+Gewebeeinrichtungs-Code besteht gemäß Anhang VII der Richtlinie
+2006/86/EG aus einem ISO-Ländercode und der Gewebeeinrichtungsnummer
+des EU-Kompendiums der Gewebeeinrichtungen.
+
+(30c) EU-Kompendium der Gewebeeinrichtungen ist das Register, in dem
+alle von den zuständigen Behörden der Mitgliedstaaten der Europäischen
+Union genehmigten, lizenzierten, benannten oder zugelassenen
+Gewebeeinrichtungen enthalten sind und das die Informationen über
+diese Einrichtungen gemäß Anhang VIII der Richtlinie 2006/86/EG in der
+jeweils geltenden Fassung enthält. Für den Geltungsbereich dieses
+Gesetzes enthält das Register alle Einrichtungen, die
+erlaubnispflichtige Tätigkeiten mit Geweben, Gewebezubereitungen oder
+mit hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut durchführen.
+
+(30d) EU-Kompendium der Gewebe- und Zellprodukte ist das Register
+aller in der Europäischen Union in Verkehr befindlichen Arten von
+Geweben, Gewebezubereitungen oder von hämatopoetischen Stammzellen
+oder Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut mit den jeweiligen Produktcodes.
 
 (31) Rekonstitution eines Fertigarzneimittels zur Anwendung beim
 Menschen ist die Überführung in seine anwendungsfähige Form
@@ -531,36 +574,177 @@ Inhaber der Genehmigung nach Absatz 3 Satz 1 tritt.
 (2) Nicht routinemäßig hergestellt im Sinne von Absatz 1 Satz 1 Nummer
 2 werden insbesondere Arzneimittel,
 
-1.  die in geringem Umfang hergestellt werden, und bei denen auf der
-    Grundlage einer routinemäßigen Herstellung Abweichungen im Verfahren
-    vorgenommen werden, die für einen einzelnen Patienten medizinisch
-    begründet sind, oder
+1.  die in so geringem Umfang hergestellt und angewendet werden, dass
+    nicht zu erwarten ist, dass hinreichend klinische Erfahrung gesammelt
+    werden kann, um das Arzneimittel umfassend bewerten zu können, oder
 
 
-2.  die noch nicht in ausreichender Anzahl hergestellt worden sind, so
-    dass die notwendigen Erkenntnisse für ihre umfassende Beurteilung noch
-    nicht vorliegen.
+2.  die noch nicht in ausreichender Anzahl hergestellt und angewendet
+    worden sind, so dass die notwendigen Erkenntnisse für ihre umfassende
+    Bewertung noch nicht erlangt werden konnten.
 
 
 
 
 (3) Arzneimittel nach Absatz 1 Satz 1 dürfen nur an andere abgegeben
 werden, wenn sie durch die zuständige Bundesoberbehörde genehmigt
-worden sind. § 21a Absatz 2 bis 8 gilt entsprechend. Die Genehmigung
-kann befristet werden. Können die erforderlichen Angaben und
-Unterlagen nach § 21a Absatz 2 Nummer 6 nicht erbracht werden, kann
-der Antragsteller die Angaben und Unterlagen über die Wirkungsweise,
-die voraussichtliche Wirkung und mögliche Risiken beifügen. Der
-Inhaber der Genehmigung hat der zuständigen Bundesoberbehörde in
-bestimmten Zeitabständen, die die zuständige Bundesoberbehörde durch
-Anordnung festlegt, über den Umfang der Herstellung und über die
-Erkenntnisse für die umfassende Beurteilung des Arzneimittels zu
-berichten. Die Genehmigung ist zurückzunehmen, wenn nachträglich
-bekannt wird, dass eine der Voraussetzungen von Absatz 1 Satz 1 nicht
-vorgelegen hat; sie ist zu widerrufen, wenn eine der Voraussetzungen
-nicht mehr gegeben ist. § 22 Absatz 4 gilt entsprechend.
+worden sind. § 21a Absatz 2 Satz 1, Absatz 3 bis 6 und 8 gilt
+entsprechend. Zusätzlich zu den Angaben und Unterlagen nach § 21a
+Absatz 2 Satz 1 sind dem Antrag auf Genehmigung folgende Angaben und
+Unterlagen beizufügen:
 
-(4) Über Anfragen zur Genehmigungspflicht eines Arzneimittels für
+1.  Angaben zu den spezialisierten Einrichtungen der Krankenversorgung, in
+    denen das Arzneimittel angewendet werden soll,
+
+
+2.  die Anzahl der geplanten Anwendungen oder der Patienten im Jahr,
+
+
+3.  Angaben zur Dosierung,
+
+
+4.  Angaben zum Risikomanagement-Plan mit einer Beschreibung des
+    Risikomanagement-Systems, das der Antragsteller für das betreffende
+    Arzneimittel einführen wird, verbunden mit einer Zusammenfassung des
+    Risikomanagement-Plans und Risikomanagement-Systems, und
+
+
+5.  bei Arzneimitteln für neuartige Therapien, die aus einem gentechnisch
+    veränderten Organismus oder einer Kombination von gentechnisch
+    veränderten Organismen bestehen oder solche enthalten, zusätzlich die
+    technischen Unterlagen gemäß den Anhängen III A, III B und IV der
+    Richtlinie 2001/18/EG des Europäischen Parlaments und des Rates vom
+    12\. März 2001 über die absichtliche Freisetzung genetisch veränderter
+    Organismen in die Umwelt und zur Aufhebung der Richtlinie 90/220/EWG
+    des Rates (ABl. L 106 vom 17.4.2001, S. 1), die zuletzt durch die
+    Richtlinie (EU) 2015/412 (ABl. L 68 vom 13.3.2015, S. 1) geändert
+    worden ist, sowie die auf der Grundlage einer nach Anhang II der
+    Richtlinie 2001/18/EG durchgeführten Umweltverträglichkeitsprüfung
+    gewonnenen Informationen nach Anhang II Buchstabe D der Richtlinie
+    2001/18/EG.
+
+
+
+§ 22 Absatz 2 Satz 1 Nummer 5, Absatz 4 und 7 Satz 1 gilt
+entsprechend.
+
+(4) Bei Arzneimitteln für neuartige Therapien, die aus einem
+gentechnisch veränderten Organismus oder einer Kombination von
+gentechnisch veränderten Organismen bestehen oder solche enthalten,
+entscheidet die zuständige Bundesoberbehörde im Benehmen mit dem
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit über den
+Antrag auf Genehmigung. Die Genehmigung der zuständigen
+Bundesoberbehörde für die Abgabe des Arzneimittels nach Satz 1 an
+andere umfasst auch die Genehmigung für das Inverkehrbringen der
+gentechnisch veränderten Organismen, aus denen das Arzneimittel nach
+Satz 1 besteht oder die es enthält. Die Genehmigung darf nur erteilt
+werden, wenn
+
+1.  eine Umweltverträglichkeitsprüfung gemäß den Grundprinzipien des
+    Anhangs II der Richtlinie 2001/18/EG und auf der Grundlage der Angaben
+    nach den Anhängen III und IV der Richtlinie 2001/18/EG durchgeführt
+    wurde und
+
+
+2.  nach dem Stand der Wissenschaft unvertretbare schädliche Auswirkungen
+    auf die Gesundheit Dritter und auf die Umwelt nicht zu erwarten sind.
+
+
+
+
+(5) Können die erforderlichen Angaben und Unterlagen nach § 21a Absatz
+2 Satz 1 Nummer 8 nicht erbracht werden, kann der Antragsteller die
+Angaben und Unterlagen über die Wirkungsweise, die voraussichtliche
+Wirkung und mögliche Risiken beifügen.
+
+(6) Die Genehmigung kann befristet werden.
+
+(7) Der Inhaber der Genehmigung hat der zuständigen Bundesoberbehörde
+in bestimmten Zeitabständen, die diese festlegt, über den Umfang der
+Herstellung und über die Erkenntnisse für die umfassende Beurteilung
+des Arzneimittels zu berichten. Die Genehmigung ist zurückzunehmen,
+wenn nachträglich bekannt wird, dass eine der Voraussetzungen nach
+Absatz 1 Satz 1 nicht vorgelegen hat. Die Genehmigung ist zu
+widerrufen, wenn eine der Voraussetzungen nach Absatz 1 Satz 1 nicht
+mehr vorliegt.
+
+(8) Der Antragsteller hat der zuständigen Bundesoberbehörde unter
+Beifügung entsprechender Unterlagen unverzüglich Anzeige zu erstatten,
+wenn sich Änderungen in den Angaben und Unterlagen ergeben, die dem
+Antrag auf Genehmigung beigefügt waren. Satz 1 gilt nach der
+Genehmigung entsprechend für den Inhaber der Genehmigung. Dieser ist
+ferner verpflichtet, die zuständige Bundesoberbehörde zu informieren,
+wenn neue oder veränderte Risiken bestehen oder sich das Nutzen-
+Risiko-Verhältnis des Arzneimittels geändert hat. Bei Arzneimitteln
+für neuartige Therapien, die aus einem gentechnisch veränderten
+Organismus oder einer Kombination von gentechnisch veränderten
+Organismen bestehen oder solche enthalten, hat der Antragsteller unter
+Beifügung entsprechender Unterlagen der zuständigen Bundesoberbehörde
+außerdem unverzüglich anzuzeigen, wenn ihm neue Informationen über
+Gefahren für die Gesundheit nicht betroffener Personen oder die Umwelt
+bekannt werden. Satz 4 gilt nach der Genehmigung entsprechend für den
+Inhaber der Genehmigung. § 29 Absatz 1a, 1d und 2 ist entsprechend
+anzuwenden.
+
+(9) Folgende Änderungen dürfen erst vollzogen werden, wenn die
+zuständige Bundesoberbehörde zugestimmt hat:
+
+1.  eine Änderung der Angaben über die Dosierung, die Art oder die Dauer
+    der Anwendung oder über die Anwendungsgebiete, soweit es sich nicht um
+    die Zufügung einer oder Veränderung in eine Indikation handelt, die
+    einem anderen Therapiegebiet zuzuordnen ist,
+
+
+2.  eine Einschränkung der Gegenanzeigen, Nebenwirkungen oder
+    Wechselwirkungen mit anderen Arzneimitteln oder sonstigen Stoffen,
+
+
+3.  eine Änderung der Hilfsstoffe nach Art oder Menge oder der Wirkstoffe
+    nach ihrer Menge,
+
+
+4.  eine Änderung der Darreichungsform in eine Darreichungsform, die mit
+    der genehmigten vergleichbar ist,
+
+
+5.  eine Änderung des Herstellungs- oder Prüfverfahrens, einschließlich
+    der Angaben nach § 21a Absatz 2 Satz 1 Nummer 5,
+
+
+6.  eine Änderung der Art der Aufbewahrung und der Dauer der Haltbarkeit
+    oder
+
+
+7.  bei Arzneimitteln für neuartige Therapien, die aus einem gentechnisch
+    veränderten Organismus oder einer Kombination von gentechnisch
+    veränderten Organismen bestehen oder solche enthalten, eine Änderung,
+    die geeignet ist, die Risikobewertung für die Gesundheit nicht
+    betroffener Personen oder die Umwelt zu verändern.
+
+
+
+Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von
+drei Monaten ergehen. Absatz 4 und § 27 Absatz 2 gelten entsprechend.
+
+(10) Abweichend von Absatz 9 ist eine neue Genehmigung nach Absatz 3
+in folgenden Fällen zu beantragen:
+
+1.  bei einer Erweiterung der Anwendungsgebiete, soweit es sich nicht um
+    eine Änderung nach Absatz 9 Satz 1 Nummer 1 handelt,
+
+
+2.  bei einer Änderung der Zusammensetzung der Wirkstoffe nach ihrer Art,
+
+
+3.  bei einer Änderung der Darreichungsform, soweit es sich nicht um eine
+    Änderung nach Absatz 9 Satz 1 Nummer 4 handelt.
+
+
+
+Über die Genehmigungspflicht nach Satz 1 entscheidet die zuständige
+Bundesoberbehörde.
+
+(11) Über Anfragen zur Genehmigungspflicht eines Arzneimittels für
 neuartige Therapien entscheidet die zuständige Behörde im Benehmen mit
 der zuständigen Bundesoberbehörde. § 21 Absatz 4 gilt entsprechend.
 
@@ -592,70 +776,18 @@ Anwendung von Arzneimitteln, die nicht nach diesen Vorschriften
 hergestellt sind, zu untersagen, soweit es zur Risikovorsorge oder zur
 Abwehr einer unmittelbaren oder mittelbaren Gefährdung der Gesundheit
 von Mensch oder Tier durch Arzneimittel geboten ist. Die
-Rechtsverordnung nach Satz 1 wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium erlassen, soweit es sich um Arzneimittel handelt,
-die zur Anwendung bei Tieren bestimmt sind.
+Rechtsverordnung nach Satz 1 wird vom Bundesministerium für Ernährung
+und Landwirtschaft im Einvernehmen mit dem Bundesministerium erlassen,
+soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
+bestimmt sind.
 
 (2) Die Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 
-### § 6a Verbote von Arzneimitteln zu Dopingzwecken im Sport, Hinweispflichten
-
-(1) Es ist verboten, Arzneimittel nach Absatz 2 Satz 1 zu
-Dopingzwecken im Sport in den Verkehr zu bringen, zu verschreiben oder
-bei anderen anzuwenden, sofern ein Doping bei Menschen erfolgt oder
-erfolgen soll.
-
-(2) Absatz 1 findet nur Anwendung auf Arzneimittel, die Stoffe der in
-der jeweils geltenden Fassung des Anhangs des Übereinkommens gegen
-Doping (Gesetz vom 2. März 1994 zu dem Übereinkommen vom 16. November
-1989 gegen Doping, BGBl. 1994 II S. 334) aufgeführten Gruppen von
-verbotenen Wirkstoffen oder Stoffe enthalten, die zur Verwendung bei
-den dort aufgeführten verbotenen Methoden bestimmt sind. In der
-Packungsbeilage und in der Fachinformation dieser Arzneimittel ist
-folgender Warnhinweis anzugeben: „Die Anwendung des Arzneimittels
-[Bezeichnung des Arzneimittels einsetzen] kann bei Dopingkontrollen zu
-positiven Ergebnissen führen.“ Kann aus dem Fehlgebrauch des
-Arzneimittels zu Dopingzwecken eine Gesundheitsgefährdung folgen, ist
-dies zusätzlich anzugeben. Satz 2 findet keine Anwendung auf
-Arzneimittel, die nach einer homöopathischen Verfahrenstechnik
-hergestellt worden sind.
-
-(2a) Es ist verboten, Arzneimittel oder Wirkstoffe, die im Anhang zu
-diesem Gesetz genannte Stoffe sind oder enthalten, in nicht geringer
-Menge zu Dopingzwecken im Sport zu besitzen, sofern das Doping bei
-Menschen erfolgen soll. Das Bundesministerium bestimmt im Einvernehmen
-mit dem Bundesministerium des Innern nach Anhörung von
-Sachverständigen durch Rechtsverordnung mit Zustimmung des Bundesrates
-die nicht geringe Menge der in Satz 1 genannten Stoffe. Das
-Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium des Innern nach Anhörung von Sachverständigen durch
-Rechtsverordnung mit Zustimmung des Bundesrates
-
-1.  weitere Stoffe in den Anhang dieses Gesetzes aufzunehmen, die zu
-    Dopingzwecken im Sport geeignet sind, hierfür in erheblichem Umfang
-    angewendet werden und deren Anwendung bei nicht therapeutischer
-    Bestimmung gefährlich ist, und
-
-
-2.  die nicht geringe Menge dieser Stoffe zu bestimmen.
-
-
-
-Durch Rechtsverordnung nach Satz 3 können Stoffe aus dem Anhang dieses
-Gesetzes gestrichen werden, wenn die Voraussetzungen des Satzes 3 Nr.
-1 nicht mehr vorliegen.
-
-(3) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium des Innern durch Rechtsverordnung mit Zustimmung des
-Bundesrates weitere Stoffe oder Zubereitungen aus Stoffen zu
-bestimmen, auf die Absatz 1 Anwendung findet, soweit dies geboten ist,
-um eine unmittelbare oder mittelbare Gefährdung der Gesundheit des
-Menschen durch Doping im Sport zu verhüten.
+### § 6a (weggefallen)
 
 
 ### § 7 Radioaktive und mit ionisierenden Strahlen behandelte Arzneimittel
@@ -666,19 +798,19 @@ Verkehr zu bringen, es sei denn, dass dies durch Rechtsverordnung nach
 Absatz 2 zugelassen ist.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Inverkehrbringen
-radioaktiver Arzneimittel oder bei der Herstellung von Arzneimitteln
-die Verwendung ionisierender Strahlen zuzulassen, soweit dies nach dem
-jeweiligen Stand der wissenschaftlichen Erkenntnisse zu medizinischen
-Zwecken geboten und für die Gesundheit von Mensch oder Tier
-unbedenklich ist. In der Rechtsverordnung können für die Arzneimittel
-der Vertriebsweg bestimmt sowie Angaben über die Radioaktivität auf
-dem Behältnis, der äußeren Umhüllung und der Packungsbeilage
-vorgeschrieben werden. Die Rechtsverordnung wird vom Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen
-mit dem Bundesministerium und dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit erlassen, soweit es sich um
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Inverkehrbringen radioaktiver Arzneimittel oder bei der Herstellung
+von Arzneimitteln die Verwendung ionisierender Strahlen zuzulassen,
+soweit dies nach dem jeweiligen Stand der wissenschaftlichen
+Erkenntnisse zu medizinischen Zwecken geboten und für die Gesundheit
+von Mensch oder Tier unbedenklich ist. In der Rechtsverordnung können
+für die Arzneimittel der Vertriebsweg bestimmt sowie Angaben über die
+Radioaktivität auf dem Behältnis, der äußeren Umhüllung und der
+Packungsbeilage vorgeschrieben werden. Die Rechtsverordnung wird vom
+Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit
+dem Bundesministerium und dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit erlassen, soweit es sich um
 Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 
@@ -779,7 +911,7 @@ und in Übereinstimmung mit den Angaben nach § 11a angegeben sind
 5.  die Darreichungsform,
 
 
-6.  der Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+6.  der Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 
 7.  die Art der Anwendung,
@@ -796,7 +928,7 @@ und in Übereinstimmung mit den Angaben nach § 11a angegeben sind
 
 8a. bei gentechnologisch gewonnenen Arzneimitteln der Wirkstoff und die
     Bezeichnung des bei der Herstellung verwendeten gentechnisch
-    veränderten Mikroorganismus oder die Zellinie,
+    veränderten Organismus oder die Zellinie,
 
 
 9.  das Verfalldatum mit dem Hinweis "verwendbar bis",
@@ -855,7 +987,7 @@ Bezeichnung enthalten sind. Satz 1 gilt nicht für Arzneimittel,
     angewendet zu werden oder
 
 
-2.  die in Behältnissen von nicht mehr als 20 Milliliter Rauminhalt oder
+2.  die in Behältnissen von nicht mehr als 20 Milliliter Nennvolumen oder
     einer Inhaltsmenge von nicht mehr als 20 Gramm in Verkehr gebracht
     werden.
 
@@ -897,7 +1029,7 @@ Arzneimittel eingetragen sind, sind an Stelle der Angaben nach Absatz
 5.  Darreichungsform,
 
 
-6.  der Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+6.  der Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 
 7.  Hinweis, dass Arzneimittel unzugänglich für Kinder aufbewahrt werden
@@ -1013,7 +1145,7 @@ Angaben zu machen sind:
 13. die Darreichungsform,
 
 
-14. der Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+14. der Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 
 15. bei Arzneimitteln, die nur auf tierärztliche Verschreibung abgegeben
@@ -1065,9 +1197,9 @@ brauchen, sofern eine äußere Umhüllung vorhanden ist, nur auf der
 pharmazeutischen Unternehmers, der Bezeichnung des Arzneimittels, der
 Chargenbezeichnung und dem Verfalldatum zu versehen. Auf die Angabe
 von Namen und Firma eines Parallelimporteurs kann verzichtet werden.
-Bei Behältnissen von nicht mehr als 10 Milliliter Nennfüllmenge und
-bei Ampullen, die nur eine einzige Gebrauchseinheit enthalten,
-brauchen die Angaben nach den Absätzen 1, 2 bis 5 nur auf den äußeren
+Bei Behältnissen von nicht mehr als 10 Milliliter Nennvolumen und bei
+Ampullen, die nur eine einzige Gebrauchseinheit enthalten, brauchen
+die Angaben nach den Absätzen 1, 2 bis 5 nur auf den äußeren
 Umhüllungen gemacht zu werden; jedoch müssen sich auf den Behältnissen
 und Ampullen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 2
 erster Halbsatz, 4, 6, 7, 9 sowie nach den Absätzen 3 und 5 Satz 1
@@ -1080,7 +1212,8 @@ werden.
 (8a) Bei Frischplasmazubereitungen und Zubereitungen aus Blutzellen
 müssen mindestens die Angaben nach Absatz 1 Satz 1 Nummer 1, 2, ohne
 die Angabe der Stärke, Darreichungsform und der Personengruppe, Nummer
-3, 4, 6, 7 und 9 gemacht sowie die Bezeichnung und das Volumen der
+3 oder die Genehmigungsnummer mit der Abkürzung „Gen.-Nr.“, Nummer 4,
+6, 7 und 9 gemacht sowie die Bezeichnung und das Volumen der
 Antikoagulans- und, soweit vorhanden, der Additivlösung, die
 Lagertemperatur, die Blutgruppe und bei allogenen Zubereitungen aus
 roten Blutkörperchen zusätzlich die Rhesusformel, bei
@@ -1089,17 +1222,22 @@ Blutkörperchen zusätzlich der Rhesusfaktor angegeben werden. Bei
 autologen Blutzubereitungen muss zusätzlich die Angabe „Nur zur
 Eigenbluttransfusion“ gemacht und bei autologen und gerichteten
 Blutzubereitungen zusätzlich ein Hinweis auf den Empfänger gegeben
+werden. Bei hämatopoetischen Stammzellzubereitungen aus dem peripheren
+Blut oder aus dem Nabelschnurblut muss der Einheitliche Europäische
+Code mit der Abkürzung „SEC“ angegeben werden sowie im Fall
+festgestellter Infektiosität die Angabe „Biologische Gefahr“ gemacht
 werden.
 
 (8b) Bei Gewebezubereitungen müssen mindestens die Angaben nach Absatz
 1 Satz 1 Nummer 1 und 2 ohne die Angabe der Stärke, der
 Darreichungsform und der Personengruppe, Nummer 3 oder die
-Genehmigungsnummer mit der Abkürzung „Gen.-Nr.“, Nummer 4, 6 und 9
-sowie die Angabe „Biologische Gefahr“ im Falle festgestellter
-Infektiosität gemacht werden. Bei autologen Gewebezubereitungen müssen
-zusätzlich die Angabe „Nur zur autologen Anwendung“ gemacht und bei
-autologen und gerichteten Gewebezubereitungen zusätzlich ein Hinweis
-auf den Empfänger gegeben werden.
+Genehmigungsnummer mit der Abkürzung „Gen.-Nr.“, Nummer 4, 6 und 9,
+der Einheitliche Europäische Code mit der Abkürzung „SEC“ sowie die
+Angabe „Biologische Gefahr“ im Falle festgestellter Infektiosität
+gemacht werden. Bei autologen Gewebezubereitungen müssen zusätzlich
+die Angabe „Nur zur autologen Anwendung“ gemacht und bei autologen und
+gerichteten Gewebezubereitungen zusätzlich ein Hinweis auf den
+Empfänger gegeben werden.
 
 (9) Bei den Angaben nach den Absätzen 1 bis 5 dürfen im Verkehr mit
 Arzneimitteln übliche Abkürzungen verwendet werden. Die Firma nach
@@ -1126,9 +1264,9 @@ abgegeben werden, die mindestens den Anforderungen nach Absatz 8 Satz
 (1) Fertigarzneimittel, die Arzneimittel im Sinne des § 2 Abs. 1 oder
 Abs. 2 Nr. 1 sind und die nicht zur klinischen Prüfung oder
 Rückstandsprüfung bestimmt oder nach § 21 Abs. 2
-Nr. 1a 1b              oder 6 von der Zulassungspflicht freigestellt
-sind, dürfen im Geltungsbereich dieses Gesetzes nur mit einer
-Packungsbeilage in den Verkehr gebracht werden, die die Überschrift
+Nr. 1a 1b oder 6 von der Zulassungspflicht freigestellt sind, dürfen
+im Geltungsbereich dieses Gesetzes nur mit einer Packungsbeilage in
+den Verkehr gebracht werden, die die Überschrift
 "Gebrauchsinformation" trägt sowie folgende Angaben in der
 nachstehenden Reihenfolge allgemein verständlich in deutscher Sprache,
 in gut lesbarer Schrift und in Übereinstimmung mit den Angaben nach §
@@ -1163,8 +1301,9 @@ in gut lesbarer Schrift und in Übereinstimmung mit den Angaben nach §
 
 
     d)  Warnhinweise, insbesondere soweit dies durch Auflage der zuständigen
-        Bundesoberbehörde nach § 28 Abs. 2 Nr. 2 angeordnet oder durch
-        Rechtsverordnung nach § 12 Abs. 1 Nr. 3 vorgeschrieben ist;
+        Bundesoberbehörde nach § 28 Abs. 2 Nr. 2 angeordnet oder auf Grund von
+        § 7 des Anti-Doping-Gesetzes oder durch Rechtsverordnung nach § 12
+        Abs. 1 Nr. 3 vorgeschrieben ist;
 
 
 
@@ -1231,7 +1370,7 @@ in gut lesbarer Schrift und in Übereinstimmung mit den Angaben nach §
         Darreichungsform des Arzneimittels, § 10 Abs. 6 findet Anwendung,
 
 
-    e)  Darreichungsform und Inhalt nach Gewicht, Rauminhalt oder Stückzahl
+    e)  Darreichungsform und Inhalt nach Gewicht, Nennvolumen oder Stückzahl
         für jede Darreichungsform des Arzneimittels,
 
 
@@ -1248,7 +1387,11 @@ in gut lesbarer Schrift und in Übereinstimmung mit den Angaben nach §
 
 7.  bei einem Arzneimittel, das unter anderen Bezeichnungen in anderen
     Mitgliedstaaten der Europäischen Union nach den Artikeln 28 bis 39 der
-    Richtlinie 2001/83/EG für das Inverkehrbringen genehmigt ist, ein
+    Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6.
+    November 2001 zur Schaffung eines Gemeinschaftskodexes für
+    Humanarzneimittel (ABl. L 311 vom 28.11.2001, S. 67), die zuletzt
+    durch die Richtlinie 2012/26/EU (ABl. L 299 vom 27.10.2012, S. 1)
+    geändert worden ist, für das Inverkehrbringen genehmigt ist, ein
     Verzeichnis der in den einzelnen Mitgliedstaaten genehmigten
     Bezeichnungen;
 
@@ -1263,12 +1406,12 @@ des Europäischen Parlaments und des Rates vom 31. März 2004 zur
 Festlegung von Gemeinschaftsverfahren für die Genehmigung und
 Überwachung von Human- und Tierarzneimitteln und zur Errichtung einer
 Europäischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1),
-die zuletzt durch die Verordnung (EU) Nr. 1235/2010 (ABI. L 348 vom
-31\.12.2010, S. 1) geändert worden ist, befinden, muss ferner folgende
+die zuletzt durch die Verordnung (EU) Nr. 1027/2012 (ABl. L 316 vom
+14\.11.2012, S. 38) geändert worden ist, befinden, muss ferner folgende
 Erklärung aufgenommen werden: „Dieses Arzneimittel unterliegt einer
 zusätzlichen Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol
 vorangehen und ein geeigneter standardisierter erläuternder Text nach
-Artikel 23 Absatz 5 der Verordnung (EG) Nr. 726/2004 folgen.
+Artikel 23 Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen.
 Erläuternde Angaben zu den in Satz 1 genannten Begriffen sind
 zulässig. Sofern die Angaben nach Satz 1 in der Packungsbeilage
 zusätzlich in einer anderen Sprache wiedergegeben werden, müssen in
@@ -1508,7 +1651,8 @@ nachstehenden Reihenfolge enthalten:
         verabreichen, zu treffen sind, sowie von dem Patienten zu treffenden
         Vorsichtsmaßnahmen, soweit dies durch Auflagen der zuständigen
         Bundesoberbehörde nach § 28 Abs. 2 Nr. 1 Buchstabe a angeordnet oder
-        durch Rechtsverordnung vorgeschrieben ist,
+        auf Grund von § 7 des Anti-Doping-Gesetzes oder durch Rechtsverordnung
+        vorgeschrieben ist,
 
 
     e)  Wechselwirkungen mit anderen Arzneimitteln oder anderen Mitteln,
@@ -1596,7 +1740,7 @@ Verordnung (EG) Nr. 726/2004 befinden, muss ferner folgende Erklärung
 aufgenommen werden: „Dieses Arzneimittel unterliegt einer zusätzlichen
 Überwachung.“ Dieser Erklärung muss ein schwarzes Symbol vorangehen
 und ein geeigneter standardisierter erläuternder Text nach Artikel 23
-Absatz 5 der Verordnung (EG) Nr. 726/2004 folgen. Weitere Angaben, die
+Absatz 4 der Verordnung (EG) Nr. 726/2004 folgen. Weitere Angaben, die
 nicht durch eine Verordnung der Europäischen Gemeinschaft oder der
 Europäischen Union vorgeschrieben oder bereits nach dieser Verordnung
 zulässig sind, sind zulässig, wenn sie mit der Anwendung des
@@ -1707,8 +1851,8 @@ erfüllt werden. Die Packungsbeilage muss mit der Überschrift
 ### § 12 Ermächtigung für die Kennzeichnung, die Packungsbeilage und die Packungsgrößen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates
 
 1.  die Vorschriften der §§ 10 bis 11a auf andere Arzneimittel und den
     Umfang der Fachinformation auf weitere Angaben auszudehnen,
@@ -1753,7 +1897,7 @@ Gefährdung der Gesundheit von Mensch oder Tier infolge mangelnder
 Unterrichtung nicht zu befürchten ist.
 
 (1b) Das Bundesministerium wird ferner ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
+dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Kennzeichnung von Ausgangsstoffen, die für die Herstellung von
@@ -1772,17 +1916,16 @@ infolge mangelnder Kennzeichnung eintreten könnte.
 (2) Soweit es sich um Arzneimittel handelt, die zur Anwendung bei
 Tieren bestimmt sind, tritt in den Fällen des Absatzes 1, 1a, 1b oder
 3 an die Stelle des Bundesministeriums das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz, das die
-Rechtsverordnung jeweils im Einvernehmen mit dem Bundesministerium
-erlässt. Die Rechtsverordnung nach Absatz 1, 1a oder 1b ergeht im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel und um
-Arzneimittel handelt, bei deren Herstellung ionisierende Strahlen
-verwendet werden, oder in den Fällen des Absatzes 1 Nr. 3
-Warnhinweise, Warnzeichen oder Erkennungszeichen im Hinblick auf
-Angaben nach § 10 Abs. 1 Satz 1 Nr. 13 oder Absatz 5 Satz 1 Nummer 10,
-§ 11 Abs. 4 Satz 1 Nr. 9 oder § 11a Abs. 1 Satz 2 Nr. 6 Buchstabe f
-vorgeschrieben werden.
+Ernährung und Landwirtschaft, das die Rechtsverordnung jeweils im
+Einvernehmen mit dem Bundesministerium erlässt. Die Rechtsverordnung
+nach Absatz 1, 1a oder 1b ergeht im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
+soweit es sich um radioaktive Arzneimittel und um Arzneimittel
+handelt, bei deren Herstellung ionisierende Strahlen verwendet werden,
+oder in den Fällen des Absatzes 1 Nr. 3 Warnhinweise, Warnzeichen oder
+Erkennungszeichen im Hinblick auf Angaben nach § 10 Abs. 1 Satz 1 Nr.
+13 oder Absatz 5 Satz 1 Nummer 10, § 11 Abs. 4 Satz 1 Nr. 9 oder § 11a
+Abs. 1 Satz 2 Nr. 6 Buchstabe f vorgeschrieben werden.
 
 (3) Das Bundesministerium wird ferner ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates zu bestimmen, dass
@@ -1905,9 +2048,19 @@ Anwendung. § 14 Absatz 4 bleibt unberührt.
     soweit diese Tätigkeiten für die von ihm behandelten Tiere erfolgen,
 
 
-4.  der Großhändler für das Umfüllen, Abpacken oder Kennzeichnen von
-    Arzneimitteln in unveränderter Form, soweit es sich nicht um zur
-    Abgabe an den Verbraucher bestimmte Packungen handelt,
+4.  der Großhändler für
+
+    a)  das Umfüllen von flüssigem Sauerstoff in mobile Kleinbehältnisse für
+        einzelne Patienten in Krankenhäusern oder bei Ärzten einschließlich
+        der erforderlichen Kennzeichnung,
+
+
+    b)  das Umfüllen, Abpacken oder Kennzeichnen von sonstigen Arzneimitteln
+        in unveränderter Form, soweit es sich nicht um Packungen handelt, die
+        zur Abgabe an den Verbraucher bestimmt sind,
+
+
+
 
 
 5.  der Einzelhändler, der die Sachkenntnis nach § 50 besitzt, für das
@@ -1922,7 +2075,7 @@ Anwendung. § 14 Absatz 4 bleibt unberührt.
 
 
 
-(2a) Die Ausnahmen nach Satz 1 gelten nicht für die Herstellung von
+(2a) Die Ausnahmen nach Absatz 2 gelten nicht für die Herstellung von
 Blutzubereitungen, Gewebezubereitungen, Sera, Impfstoffen, Allergenen,
 Testsera, Testantigenen, Arzneimitteln für neuartige Therapien,
 xenogenen und radioaktiven Arzneimitteln. Satz 1 findet keine
@@ -2015,9 +2168,9 @@ Bundesoberbehörde.
 
 
 5b. der Arzt, in dessen Verantwortung eine Vorbehandlung der spendenden
-    Person zur Separation von Blutstammzellen oder anderen
-    Blutbestandteilen durchgeführt wird, nicht die erforderliche
-    Sachkenntnis besitzt,
+    Person zur Separation von hämatopoetischen Stammzellen aus dem
+    peripheren Blut oder von anderen Blutbestandteilen durchgeführt wird,
+    nicht die erforderliche Sachkenntnis besitzt,
 
 
 5c. entgegen § 4 Satz 1 Nr. 2 des Transfusionsgesetzes keine leitende
@@ -2094,15 +2247,31 @@ Person nach § 14 wird erbracht durch
 1.  die Approbation als Apotheker oder
 
 
-2.  das Zeugnis über eine nach abgeschlossenem Hochschulstudium der
-    Pharmazie, der Chemie, der Biologie, der Human- oder der
+2.  das Zeugnis über eine nach abgeschlossenem, mindestens vierjährigem
+    Hochschulstudium der Pharmazie, der Chemie, der pharmazeutischen
+    Chemie und Technologie, der Biologie, der Human- oder der
     Veterinärmedizin abgelegte Prüfung
 
 
 
 sowie eine mindestens zweijährige praktische Tätigkeit auf dem Gebiet
 der qualitativen und quantitativen Analyse sowie sonstiger
-Qualitätsprüfungen von Arzneimitteln.
+Qualitätsprüfungen von Arzneimitteln. Die Mindestdauer des
+Hochschulstudiums kann dreieinhalb Jahre betragen, wenn auf das
+Hochschulstudium eine theoretische und praktische Ausbildung von
+mindestens einem Jahr folgt, die ein Praktikum von mindestens sechs
+Monaten in einer öffentlichen Apotheke umfasst und durch eine Prüfung
+auf Hochschulniveau abgeschlossen wird. Die Dauer der praktischen
+Tätigkeit nach Satz 1 kann um ein Jahr herabgesetzt werden, wenn das
+Hochschulstudium mindestens fünf Jahre umfasst, und um eineinhalb
+Jahre, wenn das Hochschulstudium mindestens sechs Jahre umfasst.
+Bestehen zwei akademische oder als gleichwertig anerkannte
+Hochschulstudiengänge, von denen sich der eine über vier, der andere
+über drei Jahre erstreckt, so ist davon auszugehen, dass das Zeugnis
+über den akademischen oder den als gleichwertig anerkannten
+Hochschulstudiengang von drei Jahren Dauer die Anforderung an die
+Dauer nach Satz 2 erfüllt, sofern die Zeugnisse über die beiden
+Hochschulstudiengänge als gleichwertig anerkannt werden.
 
 (2) In den Fällen des Absatzes 1 Nr. 2 muss der zuständigen Behörde
 nachgewiesen werden, dass das Hochschulstudium theoretischen und
@@ -2153,18 +2322,19 @@ müssen an Stelle der praktischen Tätigkeit nach Absatz 1
     der Herstellung autologer Blutzubereitungen,
 
 
-4.  für Blutstammzellzubereitungen zusätzlich zu ausreichenden Kenntnissen
+4.  für hämatopoetische Stammzellzubereitungen aus dem peripheren Blut
+    oder aus dem Nabelschnurblut zusätzlich zu ausreichenden Kenntnissen
     mindestens zwei Jahre Erfahrungen in dieser Tätigkeit, insbesondere in
     der zugrunde liegenden Technik,
 
 
 
 nachgewiesen werden. Zur Vorbehandlung von Personen zur Separation von
-Blutstammzellen oder anderen Blutbestandteilen muss die
-verantwortliche ärztliche Person ausreichende Kenntnisse und eine
-mindestens zweijährige Erfahrung in dieser Tätigkeit nachweisen. Für
-das Abpacken und Kennzeichnen verbleibt es bei den Voraussetzungen des
-Absatzes 1.
+hämatopoetischen Stammzellen aus dem peripheren Blut oder von anderen
+Blutbestandteilen muss die verantwortliche ärztliche Person
+ausreichende Kenntnisse und eine mindestens zweijährige Erfahrung in
+dieser Tätigkeit nachweisen. Für das Abpacken und Kennzeichnen
+verbleibt es bei den Voraussetzungen des Absatzes 1.
 
 (3a) Für die Herstellung und Prüfung von Arzneimitteln für neuartige
 Therapien, xenogenen Arzneimitteln, Gewebezubereitungen, Arzneimitteln
@@ -2223,6 +2393,13 @@ vereinbart ist.
 (5) Die praktische Tätigkeit ist nicht erforderlich für das Herstellen
 von Fütterungsarzneimitteln aus Arzneimittel-Vormischungen; Absatz 2
 findet keine Anwendung.
+
+(6) Eine nach Überprüfung der erforderlichen Sachkenntnis durch die
+zuständige Behörde rechtmäßig ausgeübte Tätigkeit als sachkundige
+Person berechtigt auch zur Ausübung dieser Tätigkeit innerhalb des
+Zuständigkeitsbereichs einer anderen zuständigen Behörde, es sei denn,
+es liegen begründete Anhaltspunkte dafür vor, dass die bisherige
+Sachkenntnis für die neu auszuübende Tätigkeit nicht ausreicht.
 
 
 ### § 16 Begrenzung der Herstellungserlaubnis
@@ -2312,22 +2489,28 @@ verarbeitungsfähigen Zustand zu erhalten, eindeutig zu identifizieren
 und zu transportieren. Die Erlaubnis darf nur versagt werden, wenn
 
 1.  eine angemessen ausgebildete Person mit der erforderlichen
-    Berufserfahrung nicht vorhanden ist, die, soweit es sich um eine
-    Entnahmeeinrichtung handelt, zugleich die ärztliche Person im Sinne
-    von § 8d Abs. 1 Satz 1 des Transplantationsgesetzes sein kann,
+    Berufserfahrung (verantwortliche Person nach § 20b) nicht vorhanden
+    ist, die, soweit es sich um eine Entnahmeeinrichtung handelt, zugleich
+    die ärztliche Person im Sinne von § 8d Abs. 1 Satz 1 des
+    Transplantationsgesetzes sein kann,
 
 
 2.  weiteres mitwirkendes Personal nicht ausreichend qualifiziert ist,
 
 
 3.  angemessene Räume für die jeweilige Gewebegewinnung oder für die
-    Laboruntersuchungen nicht vorhanden sind oder
+    Laboruntersuchungen nicht vorhanden sind,
 
 
 4.  nicht gewährleistet wird, dass die Gewebegewinnung oder die
     Laboruntersuchungen nach dem Stand der medizinischen Wissenschaft und
     Technik und nach den Vorschriften der Abschnitte 2, 3 und 3a des
-    Transplantationsgesetzes vorgenommen werden.
+    Transplantationsgesetzes vorgenommen werden, oder
+
+
+5.  die verantwortliche Person nach § 20b oder der Antragsteller die zur
+    Ausübung ihrer oder seiner Tätigkeit erforderliche Zuverlässigkeit
+    nicht besitzt.
 
 
 
@@ -2336,8 +2519,10 @@ zuständige Behörde vor Erteilung der Erlaubnis nach dieser Vorschrift
 absehen. Die Erlaubnis wird der Entnahmeeinrichtung von der
 zuständigen Behörde für eine bestimmte Betriebsstätte und für
 bestimmtes Gewebe und dem Labor für eine bestimmte Betriebsstätte und
-für bestimmte Tätigkeiten erteilt. Dabei kann die zuständige Behörde
-die zuständige Bundesoberbehörde beteiligen.
+für bestimmte Tätigkeiten erteilt und kann die Möglichkeit der
+Gewebeentnahme außerhalb der Räume nach Satz 3 Nummer 3 durch von der
+Entnahmeeinrichtung entsandtes Personal vorsehen. Dabei kann die
+zuständige Behörde die zuständige Bundesoberbehörde beteiligen.
 
 (1a) § 20c Absatz 4 Satz 1 und 2 und Absatz 5 gilt entsprechend.
 
@@ -2419,12 +2604,17 @@ zuständigen Bundesoberbehörde.
 
 4.  nicht gewährleistet ist, dass die Be- oder Verarbeitung einschließlich
     der Kennzeichnung, Konservierung und Lagerung sowie die Prüfung nach
-    dem Stand von Wissenschaft und Technik vorgenommen werden, oder
+    dem Stand von Wissenschaft und Technik vorgenommen werden,
 
 
 5.  ein Qualitätsmanagementsystem nach den Grundsätzen der Guten
     fachlichen Praxis nicht eingerichtet worden ist oder nicht auf dem
-    neuesten Stand gehalten wird.
+    neuesten Stand gehalten wird oder
+
+
+6.  die verantwortliche Person nach § 20c oder der Antragsteller die zur
+    Ausübung ihrer oder seiner Tätigkeit erforderliche Zuverlässigkeit
+    nicht besitzt.
 
 
 
@@ -2441,7 +2631,12 @@ Person nach § 20c wird erbracht durch das Zeugnis über eine nach
 abgeschlossenem Hochschulstudium der Humanmedizin, Biologie, Biochemie
 oder einem als gleichwertig anerkannten Studium abgelegte Prüfung
 sowie eine mindestens zweijährige praktische Tätigkeit auf dem Gebiet
-der Be- oder Verarbeitung von Geweben oder Gewebezubereitungen.
+der Be- oder Verarbeitung von Geweben oder Gewebezubereitungen. Für
+Einrichtungen, die ausschließlich Gewebe oder Gewebezubereitungen
+prüfen, kann der Nachweis der praktischen Tätigkeit nach Satz 1 auch
+durch eine mindestens zweijährige praktische Tätigkeit auf dem Gebiet
+der Prüfung und Be- oder Verarbeitung von Geweben oder
+Gewebezubereitungen erbracht werden.
 
 (4) Bei Beanstandungen der vorgelegten Unterlagen ist dem
 Antragsteller Gelegenheit zu geben, Mängeln innerhalb einer
@@ -2688,15 +2883,15 @@ der Zulassungspflicht nach § 21 Abs. 1 von der zuständigen
 Bundesoberbehörde genehmigt worden sind. Dies gilt auch im Hinblick
 auf Gewebezubereitungen, deren Be- oder Verarbeitungsverfahren neu,
 aber mit einem bekannten Verfahren vergleichbar sind. Satz 1 gilt
-entsprechend für Blutstammzellzubereitungen, die zur autologen oder
+entsprechend für hämatopoetische Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut, die zur autologen oder
 gerichteten, für eine bestimmte Person vorgesehenen Anwendung bestimmt
 sind. Die Genehmigung umfasst die Verfahren für die Gewinnung,
 Verarbeitung und Prüfung, die Spenderauswahl und die Dokumentation für
 jeden Verfahrensschritt sowie die quantitativen und qualitativen
 Kriterien für Gewebezubereitungen. Insbesondere sind die kritischen
-Verarbeitungsverfahren daraufhin zu bewerten, dass die Verfahren die
-Gewebe nicht klinisch unwirksam oder schädlich für die Patienten
-machen.
+Verfahrensschritte daraufhin zu bewerten, dass die Funktionalität und
+die Sicherheit der Gewebe gewährleistet sind.
 
 (1a) Einer Genehmigung nach Absatz 1 bedarf es nicht für
 Gewebezubereitungen, die zur klinischen Prüfung bei Menschen bestimmt
@@ -2705,45 +2900,70 @@ sind.
 (2) Dem Antrag auf Genehmigung sind vom Antragsteller folgende Angaben
 und Unterlagen beizufügen:
 
-1.  der Name oder die Firma und die Anschrift des Verarbeiters,
+1.  der Name oder die Firma und die Anschrift des Antragstellers und der
+    Be- oder Verarbeiter,
 
 
 2.  die Bezeichnung der Gewebezubereitung,
 
 
-3.  die Anwendungsgebiete sowie die Art der Anwendung und bei
+3.  die Bestandteile der Gewebezubereitung nach Art, Darreichungsform und
+    Packungsgröße,
+
+
+4.  die Anwendungsgebiete sowie die Art der Anwendung und bei
     Gewebezubereitungen, die nur begrenzte Zeit angewendet werden sollen,
     die Dauer der Anwendung,
 
 
-4.  Angaben über die Gewinnung und Laboruntersuchung der Gewebe sowie über
-    die Be- oder Verarbeitung, Konservierung, Prüfung und Lagerung der
-    Gewebezubereitung,
+5.  Angaben über die Gewinnung der Gewebe und die für die Gewinnung
+    erforderlichen Laboruntersuchungen,
 
 
-5.  die Art der Haltbarmachung, die Dauer der Haltbarkeit und die Art der
-    Aufbewahrung,
+6.  Angaben zur Herstellungsweise, einschließlich der Be- oder
+    Verarbeitungsverfahren, der Prüfverfahren mit ihren Inprozess- und
+    Endproduktkontrollen sowie der Verwendung von Elektronen-, Gamma- oder
+    Röntgenstrahlen,
 
 
-6.  eine Beschreibung der Funktionalität und der Risiken der
-    Gewebezubereitung,
+7.  Angaben über die Art der Haltbarmachung, die Dauer der Haltbarkeit,
+    die Art der Aufbewahrung und Lagerung der Gewebezubereitung,
 
 
-7.  Unterlagen über die Ergebnisse von mikrobiologischen, chemischen und
-    physikalischen Prüfungen sowie die zur Ermittlung angewandten
-    Methoden, soweit diese Unterlagen erforderlich sind, sowie
+8.  Angaben zur Funktionalität und zu den Risiken der Gewebezubereitung,
 
 
-8.  alle für die Bewertung des Arzneimittels zweckdienlichen Angaben und
-    Unterlagen.
+9.  Unterlagen über die Ergebnisse von mikrobiologischen, chemischen,
+    biologischen oder physikalischen Prüfungen sowie über die zur
+    Ermittlung angewandten Methoden, soweit diese Unterlagen erforderlich
+    sind,
+
+
+10. Unterlagen über Ergebnisse von pharmakologischen und toxikologischen
+    Versuchen,
+
+
+11. eine Nutzen-Risiko-Bewertung,
+
+
+12. alle für die Bewertung des Arzneimittels zweckdienlichen Angaben und
+    Unterlagen sowie
+
+
+13. bei hämatopoetischen Stammzellzubereitungen zusätzlich Angaben zur
+    Dosierung und zur Menge des Wirkstoffs.
 
 
 
-§ 22 Absatz 4 gilt entsprechend.
+Die Ergebnisse und Angaben nach Satz 1 Nummer 7 bis 10 sowie die
+Ergebnisse von klinischen Prüfungen oder sonstigen ärztlichen
+Erprobungen sind so zu belegen, dass aus diesen Art, Umfang und
+Zeitpunkt der Untersuchungen hervorgehen. § 22 Absatz 4, 5 und 7 Satz
+1 gilt entsprechend.
 
-(3) Für die Angaben nach Absatz 2 Nr. 3 kann wissenschaftliches
-Erkenntnismaterial eingereicht werden, das auch in nach
-wissenschaftlichen Methoden aufbereitetem medizinischen
+(3) Für die Angaben nach Absatz 2 Nummer 4, 8 und 10 kann
+wissenschaftliches Erkenntnismaterial eingereicht werden, das auch in
+nach wissenschaftlichen Methoden aufbereitetem medizinischen
 Erfahrungsmaterial bestehen kann. Hierfür kommen Studien des
 Herstellers der Gewebezubereitung, Daten aus Veröffentlichungen oder
 nachträgliche Bewertungen der klinischen Ergebnisse der hergestellten
@@ -2769,11 +2989,17 @@ versagen, wenn
 
 
 2.  die Gewebezubereitung nicht dem Stand der wissenschaftlichen
-    Erkenntnisse entspricht oder
+    Erkenntnisse entspricht,
 
 
 3.  die Gewebezubereitung nicht die vorgesehene Funktion erfüllt oder das
-    Nutzen-Risiko-Verhältnis ungünstig ist.
+    Nutzen-Risiko-Verhältnis ungünstig ist oder
+
+
+4.  das Inverkehrbringen der Gewebezubereitung gegen gesetzliche
+    Vorschriften oder gegen eine Verordnung oder eine Richtlinie oder eine
+    Entscheidung oder einen Beschluss der Europäischen Gemeinschaft oder
+    der Europäischen Union verstoßen würde.
 
 
 
@@ -2781,13 +3007,54 @@ versagen, wenn
 (7) Der Antragsteller oder nach der Genehmigung der Inhaber der
 Genehmigung hat der zuständigen Bundesoberbehörde unter Beifügung
 entsprechender Unterlagen unverzüglich Anzeige zu erstatten, wenn sich
-Änderungen in den Angaben und Unterlagen nach Absatz 2 und 3 ergeben.
-Im Falle einer Änderung in den Unterlagen nach Absatz 3 darf die
-Änderung erst vollzogen werden, wenn die zuständige Bundesoberbehörde
-zugestimmt hat.
+Änderungen in den Angaben und Unterlagen nach den Absätzen 2 und 3
+ergeben. Der Inhaber der Genehmigung ist verpflichtet, die zuständige
+Bundesoberbehörde zu informieren, wenn neue oder veränderte Risiken
+bei der Gewebezubereitung bestehen oder sich das Nutzen-Risiko-
+Verhältnis der Gewebezubereitung geändert hat. § 29 Absatz 1a, 1d und
+2 ist entsprechend anzuwenden. Folgende Änderungen dürfen erst
+vollzogen werden, wenn die zuständige Bundesoberbehörde zugestimmt
+hat:
+
+1.  eine Änderung der Angaben über die Art oder die Dauer der Anwendung
+    oder die Anwendungsgebiete,
+
+
+2.  eine Einschränkung der Risiken,
+
+
+3.  eine Änderung der Hilfsstoffe nach Art oder Menge,
+
+
+4.  eine Änderung der Darreichungsform,
+
+
+5.  eine Änderung der Angaben über die Gewinnung der Gewebe und die für
+    die Gewinnung erforderlichen Laboruntersuchungen,
+
+
+6.  eine Änderung des Be- oder Verarbeitungsverfahrens oder des
+    Prüfverfahrens,
+
+
+7.  eine Änderung der Art der Haltbarmachung und eine Verlängerung der
+    Haltbarkeit,
+
+
+8.  eine Änderung der Art der Aufbewahrung und Lagerung der
+    Gewebezubereitung und
+
+
+9.  bei hämatopoetischen Stammzellzubereitungen zusätzlich eine Änderung
+    der Angaben über die Dosierung oder die Menge des Wirkstoffs.
+
+
+
+Die Entscheidung über den Antrag auf Zustimmung muss innerhalb von
+drei Monaten ergehen. § 27 Absatz 2 gilt entsprechend.
 
 (8) Die Genehmigung ist zurückzunehmen, wenn nachträglich bekannt
-wird, dass einer der Versagungsgründe nach Absatz 6 Nr. 2 und 3
+wird, dass einer der Versagungsgründe nach Absatz 6 Nummer 2 bis 4
 vorgelegen hat. Sie ist zu widerrufen, wenn einer dieser
 Versagungsgründe nachträglich eingetreten ist. In beiden Fällen kann
 auch das Ruhen der Genehmigung befristet angeordnet werden. Vor einer
@@ -2797,7 +3064,9 @@ zurückgenommen oder widerrufen oder ruht die Genehmigung, so darf die
 Gewebezubereitung nicht in den Verkehr gebracht und nicht in den
 Geltungsbereich dieses Gesetzes verbracht werden.
 
-(9) Abweichend von Absatz 1 bedürfen Gewebezubereitungen, die in einem
+(9) Abweichend von Absatz 1 bedürfen Gewebezubereitungen und
+hämatopoetische Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut nach Absatz 1 Satz 3, die in einem
 Mitgliedstaat der Europäischen Union oder in einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in
 den Verkehr gebracht werden dürfen, bei ihrem erstmaligen Verbringen
@@ -2821,7 +3090,7 @@ einem weiteren Verbringen in den Geltungsbereich dieses Gesetzes
 anzuzeigen. Die Bescheinigung ist zurückzunehmen, wenn eine der
 Voraussetzungen nach Satz 2 nicht vorgelegen hat; sie ist zu
 widerrufen, wenn eine der Voraussetzungen nach Satz 2 nachträglich
-weggefallen ist.
+weggefallen ist. § 73 Absatz 3a gilt entsprechend.
 
 
 ### § 22 Zulassungsunterlagen
@@ -3516,8 +3785,8 @@ Bundesoberbehörde bei der Entscheidung über den Antrag von dem
 Ergebnis der Anhörung ab, so hat sie die Gründe für die abweichende
 Entscheidung darzulegen. Das Bundesministerium beruft, soweit es sich
 um zur Anwendung bei Tieren bestimmte Arzneimittel handelt im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz, die Mitglieder der Zulassungskommission unter
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft, die Mitglieder der Zulassungskommission unter
 Berücksichtigung von Vorschlägen der Kammern der Heilberufe, der
 Fachgesellschaften der Ärzte, Zahnärzte, Tierärzte, Apotheker,
 Heilpraktiker sowie der für die Wahrnehmung ihrer Interessen
@@ -3705,12 +3974,10 @@ Prüfungszweck vertretbar ist. Die Rechtsverordnung ergeht, soweit es
 sich um radioaktive Arzneimittel und um Arzneimittel handelt, bei
 deren Herstellung ionisierende Strahlen verwendet werden und soweit es
 sich um Prüfungen zur Ökotoxizität handelt, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und,
-soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
-bestimmt sind, im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz. Auf die Berufung der
-Sachverständigen findet § 25 Abs. 6 Satz 4 und 5 entsprechende
-Anwendung.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+und, soweit es sich um Arzneimittel handelt, die zur Anwendung bei
+Tieren bestimmt sind, im Einvernehmen mit dem Bundesministerium für
+Ernährung und Landwirtschaft.
 
 (2) Die zuständige Bundesoberbehörde und die Kommissionen nach § 25
 Abs. 7 haben die Arzneimittelprüfrichtlinien sinngemäß auf das
@@ -3959,7 +4226,7 @@ Bundesoberbehörde überprüft die Erfüllung einer Auflage nach Satz 1
 unverzüglich nach Ablauf der Vorlagefrist. Absatz 1 Satz 2 und 3
 findet entsprechende Anwendung.
 
-(3e) Die zuständige Behörde kann, wenn dies im Interesse der
+(3e) Die zuständige Bundesoberbehörde kann, wenn dies im Interesse der
 Arzneimittelsicherheit erforderlich ist, bei Arzneimitteln, die zur
 Anwendung beim Tier bestimmt sind, durch Auflagen ferner anordnen,
 dass nach der Zulassung ein Risikomanagement-System eingeführt wird,
@@ -4040,7 +4307,7 @@ vorliegen, die der Inhaber der Zulassung nicht zu vertreten hat.
 (1d) Der Inhaber der Zulassung hat alle Daten im Zusammenhang mit der
 Absatzmenge des Arzneimittels sowie alle ihm vorliegenden Daten im
 Zusammenhang mit dem Verschreibungsvolumen mitzuteilen, sofern die
-zuständige Bundesoberbehörde dies aus Gründen der
+zuständige Bundesoberbehörde dies insbesondere aus Gründen der
 Arzneimittelsicherheit fordert.
 
 (1e) Der Inhaber der Zulassung hat der zuständigen Bundesoberbehörde
@@ -4057,6 +4324,21 @@ Anwendung beim Menschen bestimmt sind, verpflichtet, die zuständige
 Bundesoberbehörde und die Europäische Arzneimittel-Agentur zu
 informieren, falls neue oder veränderte Risiken bestehen oder sich das
 Nutzen-Risiko-Verhältnis von Arzneimitteln geändert hat.
+
+(1g) Der Inhaber der Zulassung eines Arzneimittels, das zur Anwendung
+bei Menschen bestimmt ist, hat der zuständigen Bundesoberbehörde
+unverzüglich die Gründe für das vorübergehende oder endgültige
+Einstellen des Inverkehrbringens, den Rückruf, den Verzicht auf die
+Zulassung oder die Nichtbeantragung der Verlängerung der Zulassung
+mitzuteilen. Er hat insbesondere zu erklären, ob die Maßnahme nach
+Satz 1 auf einem der Gründe des § 25 Absatz 2 Satz 1 Nummer 3, 4 oder
+Nummer 5, § 30 Absatz 2 Satz 1 Nummer 1 oder § 69 Absatz 1 Satz 2
+Nummer 4 oder Nummer 5 beruht. Die Mitteilung nach Satz 1 hat auch
+dann zu erfolgen, wenn die Maßnahme in einem Drittland getroffen wird
+und auf einem der in Satz 2 genannten Gründe beruht. Beruht eine
+Maßnahme nach Satz 1 oder Satz 3 auf einem der in Satz 2 genannten
+Gründe, hat der Inhaber der Zulassung dies darüber hinaus der
+Europäischen Arzneimittel-Agentur mitzuteilen.
 
 (2) Bei einer Änderung der Bezeichnung des Arzneimittels ist der
 Zulassungsbescheid entsprechend zu ändern. Das Arzneimittel darf unter
@@ -4167,8 +4449,8 @@ Bundesoberbehörde angezeigt werden.
 Über die Zulassungspflicht nach Satz 1 entscheidet die zuständige
 Bundesoberbehörde.
 
-(4) Die Absätze 1, 1a Satz 4 und 5, Absatz 1e, 1f, 2, 2a bis 3 finden
-keine Anwendung auf Arzneimittel, für die von der Europäischen
+(4) Die Absätze 1, 1a Satz 4 und 5, die Absätze 1e bis 1g, 2, 2a bis 3
+finden keine Anwendung auf Arzneimittel, für die von der Europäischen
 Gemeinschaft oder der Europäischen Union eine Genehmigung für das
 Inverkehrbringen erteilt worden ist. Für diese Arzneimittel gelten die
 Verpflichtungen des pharmazeutischen Unternehmers nach der Verordnung
@@ -4443,36 +4725,37 @@ widerrufen, wenn eine der Voraussetzungen nachträglich weggefallen
 ist.
 
 
-### § 33 Kosten
+### § 33 Gebühren und Auslagen
 
 (1) Die zuständige Bundesoberbehörde erhebt für die Entscheidungen
 über die Zulassung, über die Genehmigung von Gewebezubereitungen, über
 die Genehmigung von Arzneimitteln für neuartige Therapien, über die
-Freigabe von Chargen, für die Bearbeitung von Anträgen, die Tätigkeit
-im Rahmen der Sammlung und Bewertung von Arzneimittelrisiken, für das
-Widerspruchsverfahren gegen einen auf Grund dieses Gesetzes erlassenen
-Verwaltungsakt oder gegen die auf Grund einer Rechtsverordnung nach
-Absatz 2 Satz 1 oder § 39 Abs. 3 Satz 1 Nr. 2 oder § 39d Absatz 9
-erfolgte Festsetzung von Kosten sowie für andere Amtshandlungen
-einschließlich selbständiger Beratungen und selbständiger Auskünfte,
-soweit es sich nicht um mündliche und einfache schriftliche Auskünfte
-im Sinne des § 7 Nr. 1 des Verwaltungskostengesetzes handelt, nach
-diesem Gesetz und nach der Verordnung (EG) Nr. 1234/2008 Kosten
-(Gebühren und Auslagen).
+Freigabe von Chargen, für die Bearbeitung von Anträgen, für die
+Tätigkeit im Rahmen der Sammlung und Bewertung von
+Arzneimittelrisiken, für das Widerspruchsverfahren gegen einen auf
+Grund dieses Gesetzes erlassenen Verwaltungsakt oder gegen die auf
+Grund einer Rechtsverordnung nach Absatz 2 Satz 1 oder § 39 Absatz 3
+Satz 1 oder § 39d Absatz 9 erfolgte Festsetzung von Gebühren und
+Auslagen sowie für andere individuell zurechenbare öffentliche
+Leistungen einschließlich selbständiger Beratungen und selbständiger
+Auskünfte, soweit es sich nicht um mündliche und einfache schriftliche
+Auskünfte im Sinne des § 7 Nummer 1 des Bundesgebührengesetzes
+handelt, nach diesem Gesetz und nach der Verordnung (EG) Nr. 1234/2008
+Gebühren und Auslagen.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und, soweit es sich
-um zur Anwendung bei Tieren bestimmte Arzneimittel handelt, auch mit
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz durch Rechtsverordnung, die der Zustimmung des
-Bundesrates nicht bedarf, die gebührenpflichtigen Tatbestände näher zu
-bestimmen und dabei feste Sätze oder Rahmensätze sowie die Erstattung
-von Auslagen auch abweichend von den Regelungen des
-Verwaltungskostengesetzes vorzusehen. Die Höhe der Gebühren für die
-Entscheidungen über die Zulassung, über die Genehmigung von
-Gewebezubereitungen, über die Genehmigung von Arzneimitteln für
-neuartige Therapien, über die Freigabe von Chargen sowie für andere
-Amtshandlungen bestimmt sich jeweils nach dem Personal- und
+Bundesministerium für Wirtschaft und Energie und, soweit es sich um
+zur Anwendung bei Tieren bestimmte Arzneimittel handelt, auch mit dem
+Bundesministerium für Ernährung und Landwirtschaft durch
+Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf, die
+gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste
+Sätze oder Rahmensätze sowie die Erstattung von Auslagen auch
+abweichend von den Regelungen des Verwaltungskostengesetzes
+vorzusehen. Die Höhe der Gebühren für die Entscheidungen über die
+Zulassung, über die Genehmigung von Gewebezubereitungen, über die
+Genehmigung von Arzneimitteln für neuartige Therapien, über die
+Freigabe von Chargen sowie für andere individuell zurechenbare
+öffentliche Leistungen bestimmt sich jeweils nach dem Personal- und
 Sachaufwand, zu dem insbesondere der Aufwand für das
 Zulassungsverfahren, bei Sera, Impfstoffen und Allergenen auch der
 Aufwand für die Prüfungen und für die Entwicklung geeigneter
@@ -4482,19 +4765,19 @@ durchschnittlichen Personal- und Sachaufwand; daneben ist die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der
 Freigabe für den Gebührenschuldner angemessen zu berücksichtigen.
 
-(3) Das Verwaltungskostengesetz findet Anwendung. Abweichend von § 20
-Absatz 1 Satz 1 des Verwaltungskostengesetzes verjährt der Anspruch
-auf Zahlung von Kosten, die nach § 33 Absatz 1 in Verbindung mit der
-Therapieallergene-Verordnung zu erheben sind, drei Jahre nach der
-Bekanntgabe der abschließenden Entscheidung über die Zulassung.
+(3) Abweichend von § 18 Absatz 1 Satz 1 des Bundesgebührengesetzes
+verjährt der Anspruch auf Zahlung von Gebühren und Auslagen, die nach
+§ 33 Absatz 1 in Verbindung mit der Therapieallergene-Verordnung zu
+erheben sind, drei Jahre nach der Bekanntgabe der abschließenden
+Entscheidung über die Zulassung.
 
 (4) Soweit ein Widerspruch nach Absatz 1 erfolgreich ist, werden
 notwendige Aufwendungen im Sinne von § 80 Abs. 1 des
 Verwaltungsverfahrensgesetzes bis zur Höhe der in einer
-Rechtsverordnung nach Absatz 2 Satz 1 oder § 39 Abs. 3 Satz 1 Nr. 2
-oder § 39d Absatz 9 für die Zurückweisung eines entsprechenden
-Widerspruchs vorgesehenen Gebühren, bei Rahmengebühren bis zu deren
-Mittelwert, erstattet.
+Rechtsverordnung nach Absatz 2 Satz 1 oder § 39 Abs. 3 Satz 1 oder §
+39d Absatz 9 für die Zurückweisung eines entsprechenden Widerspruchs
+vorgesehenen Gebühren, bei Rahmengebühren bis zu deren Mittelwert,
+erstattet.
 
 (5) Für die Nutzung von Monographien für Arzneimittel, die nach § 36
 von der Pflicht zur Zulassung freigestellt sind, verlangt das
@@ -4598,7 +4881,7 @@ Zulassung und die Gründe hierfür öffentlich zugänglich zu machen.
 Ferner sind Entscheidungen über den Widerruf, die Rücknahme oder das
 Ruhen einer Zulassung öffentlich zugänglich zu machen. Die
 Bundesoberbehörde ist befugt, bei Arzneimitteln, die zur Anwendung bei
-Menschen bestimmt sind, auf Antrag Auskunft über den Eingang eines
+Menschen bestimmt sind, Auskunft über den Eingang eines
 ordnungsgemäßen Zulassungsantrags, den Eingang eines ordnungsgemäßen
 Antrags auf Genehmigung einer konfirmatorischen klinischen Prüfung
 sowie über die Genehmigung oder die Versagung einer konfirmatorischen
@@ -4609,7 +4892,7 @@ Arzneimittel, die nach der Verordnung (EG) Nr. 726/2004 genehmigt
 sind.
 
 (1d) Die zuständige Bundesoberbehörde stellt die Informationen nach
-den Absätzen 1a und 1b elektronisch zur Verfügung. Die zuständige
+den Absätzen 1a, 1b und 1f elektronisch zur Verfügung. Die zuständige
 Bundesoberbehörde stellt die Informationen nach den Absätzen 1 und 1b
 mit Erlass der Entscheidung unter Hinweis auf die fehlende
 Bestandskraft zur Verfügung.
@@ -4630,6 +4913,19 @@ folgende weitere Informationen zu veröffentlichen:
 
 
 
+
+(1f) Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind,
+kann die zuständige Bundesoberbehörde genehmigtes Schulungsmaterial
+der Öffentlichkeit über ein Internetportal und erforderlichenfalls
+auch auf andere Weise zur Verfügung stellen, soweit dies im Interesse
+der sicheren Anwendung der Arzneimittel erforderlich ist.
+
+(1g) Für Arzneimittel, die zur Anwendung bei Menschen bestimmt sind
+und der staatlichen Chargenprüfung nach § 32 unterliegen, kann die
+zuständige Bundesoberbehörde Informationen über die Anzahl der
+freigegebenen Chargen bekannt geben. Angaben zur Größe der
+freigegebenen Chargen können bekannt gegeben werden, soweit dies zum
+Schutz der öffentlichen Gesundheit erforderlich ist.
 
 (2) Die zuständige Bundesoberbehörde kann einen Verwaltungsakt, der
 auf Grund dieses Gesetzes ergeht, im Bundesanzeiger öffentlich bekannt
@@ -4676,13 +4972,13 @@ Zustimmung des Bundesrates
 
 
 (2) Die Rechtsverordnungen nach Absatz 1 Nr. 2 bis 4 ergehen im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-und, soweit es sich um radioaktive Arzneimittel und um Arzneimittel
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und,
+soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden,
-im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit und, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind, im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
+im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit und, soweit es sich um Arzneimittel handelt, die
+zur Anwendung bei Tieren bestimmt sind, im Einvernehmen mit dem
+Bundesministerium für Ernährung und Landwirtschaft.
 
 
 ### § 36 Ermächtigung für Standardzulassungen
@@ -4709,13 +5005,13 @@ Industrie Rechnung getragen werden. In der Wahl der Bezeichnung des
 Arzneimittels ist der pharmazeutische Unternehmer frei.
 
 (3) Die Rechtsverordnung nach Absatz 1 ergeht im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und, soweit es sich
-um radioaktive Arzneimittel und um Arzneimittel handelt, bei deren
+Bundesministerium für Wirtschaft und Energie und, soweit es sich um
+radioaktive Arzneimittel und um Arzneimittel handelt, bei deren
 Herstellung ionisierende Strahlen verwendet werden, im Einvernehmen
-mit dem Bundesministerium für Umwelt, Naturschutz und
+mit dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit und, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind, im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
+Bundesministerium für Ernährung und Landwirtschaft.
 
 (4) Vor Erlass der Rechtsverordnung nach Absatz 1 bedarf es nicht der
 Anhörung von Sachverständigen und der Zustimmung des Bundesrates,
@@ -4756,8 +5052,8 @@ Absatz 1, die nicht der Zustimmung des Bundesrates bedarf, zu
 erlassen, um eine Richtlinie des Rates durchzuführen oder soweit in
 internationalen Verträgen die Zulassung von Arzneimitteln gegenseitig
 als gleichwertig anerkannt wird. Die Rechtsverordnung ergeht im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind.
 
 
@@ -4928,9 +5224,9 @@ und 5, Absatz 1a Satz 4, Absatz 1b und 1d gilt entsprechend.
 (3) Das Bundesministerium wird ermächtigt, für homöopathische
 Arzneimittel entsprechend den Vorschriften über die Zulassung durch
 Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften über die
-Kosten und die Freistellung von der Registrierung zu erlassen. Die
-Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz, soweit es sich um
+Gebühren und Auslagen und die Freistellung von der Registrierung zu
+erlassen. Die Rechtsverordnung ergeht im Einvernehmen mit dem
+Bundesministerium für Ernährung und Landwirtschaft, soweit es sich um
 Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind. § 36
 Abs. 4 gilt für die Änderung einer Rechtsverordnung über die
 Freistellung von der Registrierung entsprechend.
@@ -5166,10 +5462,10 @@ dass die Versagungsgründe nach § 39c Absatz 2 Anwendung finden.
 (9) Das Bundesministerium wird ermächtigt, für traditionelle
 pflanzliche Arzneimittel entsprechend den Vorschriften der Zulassung
 durch Rechtsverordnung ohne Zustimmung des Bundesrates Vorschriften
-über die Kosten der Registrierung zu erlassen. Die Rechtsverordnung
-ergeht im Einvernehmen mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz, soweit es sich um Arzneimittel
-handelt, die zur Anwendung bei Tieren bestimmt sind.
+über die Gebühren und Auslagen der Registrierung zu erlassen. Die
+Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für
+Ernährung und Landwirtschaft, soweit es sich um Arzneimittel handelt,
+die zur Anwendung bei Tieren bestimmt sind.
 
 
 ## Sechster Abschnitt - Schutz des Menschen bei der klinischen Prüfung
@@ -5551,6 +5847,132 @@ folgender Maßgabe Anwendung:
 
 
 
+
+
+### § 41a Registrierungsverfahren für Ethik-Kommissionen
+
+(1) An dem Verfahren zur Bewertung eines Antrags auf Genehmigung einer
+klinischen Prüfung nach der Verordnung (EU) Nr. 536/2014 des
+Europäischen Parlaments und des Rates vom 16. April 2014 über
+klinische Prüfungen mit Humanarzneimitteln und zur Aufhebung der
+Richtlinie 2001/20/EG (ABl. L 158 vom 27.5.2014, S. 1) dürfen nur
+öffentlich-rechtliche Ethik-Kommissionen der Länder teilnehmen, die
+nach Landesrecht für die Prüfung und Bewertung klinischer Prüfungen
+bei Menschen zuständig sind und nach den Absätzen 2 bis 5 registriert
+sind.
+
+(2) Der Antrag auf Registrierung ist vom jeweiligen Träger der
+öffentlich-rechtlichen Ethik-Kommissionen der Länder bei dem
+Bundesinstitut für Arzneimittel und Medizinprodukte zu stellen.
+
+(3) Im Einvernehmen mit dem Paul-Ehrlich-Institut genehmigt das
+Bundesinstitut für Arzneimittel und Medizinprodukte den Antrag auf
+Registrierung, wenn folgende Voraussetzungen durch geeignete
+Unterlagen nachgewiesen werden:
+
+1.  die erforderliche aktuelle wissenschaftliche Expertise der Mitglieder
+    sowie der externen Sachverständigen,
+
+
+2.  die interdisziplinäre Zusammensetzung der Ethik-Kommission unter
+    Beteiligung von je mindestens einem Juristen, einer Person mit
+    wissenschaftlicher oder beruflicher Erfahrung auf dem Gebiet der Ethik
+    in der Medizin, einer Person mit Erfahrung auf dem Gebiet der
+    Versuchsplanung und Statistik, drei Ärzten, die über Erfahrungen in
+    der klinischen Medizin verfügen, davon ein Facharzt für klinische
+    Pharmakologie oder für Pharmakologie und Toxikologie, sowie einem
+    Laien,
+
+
+3.  der Ethik-Kommission gehören weibliche und männliche Mitglieder an und
+    bei der Auswahl der Mitglieder und externen Sachverständigen werden
+    Frauen und Männer mit dem Ziel der gleichberechtigten Teilhabe
+    gleichermaßen berücksichtigt,
+
+
+4.  eine Geschäftsordnung, die insbesondere verpflichtende Regelungen zur
+    Arbeitsweise der Ethik-Kommission trifft; dazu gehören insbesondere
+    Regelungen zur Geschäftsführung, zum Vorsitz, zur Vorbereitung von
+    Beschlüssen, zur Beschlussfassung sowie zur Ehrenamtlichkeit und
+    Verschwiegenheitspflicht der Mitglieder und externen Sachverständigen,
+
+
+5.  eine Geschäftsstelle mit dem für die Organisation der Aufgaben der
+    Ethik-Kommission erforderlichen qualifizierten Personal,
+
+
+6.  eine sachliche Ausstattung, die es ermöglicht, kurzfristig
+    Abstimmungsverfahren durchzuführen und fristgerecht Stellungnahmen und
+    Bewertungsberichte zu erstellen,
+
+
+7.  die Ethik-Kommission holt zu jedem Antrag Unabhängigkeitserklärungen
+    der beteiligten Mitglieder und externen Sachverständigen ein, die
+    beinhalten, dass diese keine finanziellen oder persönlichen
+    Interessen, die Auswirkungen auf ihre Unparteilichkeit haben könnten,
+    haben.
+
+
+
+
+(4) Registrierte Ethik-Kommissionen teilen dem Bundesinstitut für
+Arzneimittel und Medizinprodukte Änderungen, die die Voraussetzungen
+der Registrierung betreffen, unverzüglich mit.
+
+(5) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann im
+Einvernehmen mit dem Paul-Ehrlich-Institut das Ruhen der Registrierung
+anordnen oder die Registrierung aufheben, wenn bekannt wird, dass die
+Voraussetzungen zur Registrierung nicht oder nicht mehr vorliegen oder
+wenn ein Verstoß gegen die nach § 41b Absatz 1 festgelegte
+Verfahrensordnung vorliegt.
+
+(6) Das Bundesinstitut für Arzneimittel und Medizinprodukte
+veröffentlicht eine Liste der registrierten Ethik-Kommissionen im
+Bundesanzeiger. Personenbezogene Daten dürfen nur mit Einwilligung der
+jeweiligen Person veröffentlicht werden. Die Liste ist regelmäßig zu
+aktualisieren.
+
+
+### § 41b Verfahrensordnung und Geschäftsverteilungsplan
+
+(1) Das Bundesministerium erstellt durch Rechtsverordnung mit
+Zustimmung des Bundesrates eine Verfahrensordnung über die
+Zusammenarbeit der Bundesoberbehörden und der registrierten Ethik-
+Kommissionen bei der Bearbeitung von Anträgen auf die Genehmigung von
+klinischen Prüfungen nach der Verordnung (EU) Nr. 536/2014. In der
+Verfahrensordnung werden insbesondere die Einzelheiten des
+Registrierungsverfahrens, die Fristen für die Stellungnahmen der
+registrierten Ethik-Kommissionen, die festen Gebührensätze oder
+Rahmensätze jeweils nach dem Personal- und Sachaufwand für die
+Stellungnahmen und Bewertungsberichte der registrierten Ethik-
+Kommissionen, die Kriterien für einen Geschäftsverteilungsplan
+einschließlich der für die Verteilung der zu bearbeitenden Anträge
+maßgeblichen Faktoren sowie die Zuständigkeiten bestimmt, vom Sponsor
+zusätzliche Informationen nach der Verordnung (EU) Nr. 536/2014 zu
+ersuchen.
+
+(2) Die bis zum 30. September 2017 registrierten Ethik-Kommissionen
+oder eine von ihnen benannte Stelle erlassen bis zum 1. Januar 2018
+einen gemeinsamen Geschäftsverteilungsplan für alle registrierten
+Ethik-Kommissionen. Dieser ist jährlich zum 1. Januar zu
+aktualisieren. Der Geschäftsverteilungsplan kann in besonderen Fällen
+abweichend von Satz 2 aktualisiert und geändert werden. Das
+Bundesinstitut für Arzneimittel und Medizinprodukte veröffentlicht den
+jeweils aktuellen Geschäftsverteilungsplan. Personenbezogene Daten
+dürfen nur mit Einwilligung der jeweiligen Person veröffentlicht
+werden.
+
+
+### § 41c Verordnungsermächtigung
+
+Das Bundesministerium wird ermächtigt, durch Rechtsverordnung, die
+nicht der Zustimmung des Bundesrates bedarf, eine Bundes-Ethik-
+Kommission bei dem Bundesinstitut für Arzneimittel und Medizinprodukte
+und dem Paul-Ehrlich-Institut einzurichten, wenn dies erforderlich
+ist, um die Bearbeitung der in der Verordnung (EU) Nr. 536/2014
+geregelten Verfahren sicherzustellen. Für die Bundes-Ethik-Kommission
+gelten die Vorgaben dieses Abschnitts mit der Maßgabe, dass die
+Bundes-Ethik-Kommission als registriert gilt, entsprechend.
 
 
 ### § 42 Verfahren bei der Ethik-Kommission, Genehmigungsverfahren bei der Bundesoberbehörde
@@ -6027,7 +6449,7 @@ freigegeben.
 ### § 45 Ermächtigung zu weiteren Ausnahmen von der Apothekenpflicht
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie nach Anhörung von
+Bundesministerium für Wirtschaft und Energie nach Anhörung von
 Sachverständigen durch Rechtsverordnung mit Zustimmung des Bundesrates
 Stoffe, Zubereitungen aus Stoffen oder Gegenstände, die dazu bestimmt
 sind, teilweise oder ausschließlich zur Beseitigung oder Linderung von
@@ -6052,18 +6474,17 @@ dienen, für den Verkehr außerhalb der Apotheken freizugeben,
 
 
 
-Die Rechtsverordnung wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie erlassen, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind.
+Die Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium und dem
+Bundesministerium für Wirtschaft und Energie erlassen, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 (2) Die Freigabe kann auf Fertigarzneimittel, auf bestimmte
 Dosierungen, Anwendungsgebiete oder Darreichungsformen beschränkt
 werden.
 
 (3) Die Rechtsverordnung ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
@@ -6071,23 +6492,22 @@ handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 ### § 46 Ermächtigung zur Ausweitung der Apothekenpflicht
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie nach Anhörung von
+Bundesministerium für Wirtschaft und Energie nach Anhörung von
 Sachverständigen durch Rechtsverordnung mit Zustimmung des Bundesrates
 Arzneimittel im Sinne des § 44 vom Verkehr außerhalb der Apotheken
 auszuschließen, soweit auch bei bestimmungsgemäßem oder bei
 gewohnheitsmäßigem Gebrauch eine unmittelbare oder mittelbare
 Gefährdung der Gesundheit von Mensch oder Tier zu befürchten ist. Die
-Rechtsverordnung wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie erlassen, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind.
+Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium und dem
+Bundesministerium für Wirtschaft und Energie erlassen, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 (2) Die Rechtsverordnung nach Absatz 1 kann auf bestimmte Dosierungen,
 Anwendungsgebiete oder Darreichungsformen beschränkt werden.
 
 (3) Die Rechtsverordnung ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
@@ -6158,7 +6578,9 @@ abgeben an
     Abwendung einer Seuchen- oder Lebensgefahr erforderlich ist,
 
 
-3a. anerkannte Impfzentren, soweit es sich um Gelbfieberimpfstoff handelt,
+3a. spezielle Gelbfieber-Impfstellen gemäß § 7 des Gesetzes zur
+    Durchführung der Internationalen Gesundheitsvorschriften (2005),
+    soweit es sich um Gelbfieberimpfstoff handelt,
 
 
 3b. Krankenhäuser und Gesundheitsämter, soweit es sich um Arzneimittel mit
@@ -6209,7 +6631,7 @@ abgeben an
 Die Anerkennung der zentralen Beschaffungsstelle nach Satz 1 Nr. 5
 erfolgt, soweit es sich um zur Anwendung bei Tieren bestimmte
 Arzneimittel handelt, im Benehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz.
+Ernährung und Landwirtschaft.
 
 (1a) Pharmazeutische Unternehmer und Großhändler dürfen Arzneimittel,
 die zur Anwendung bei Tieren bestimmt sind, an die in Absatz 1 Nr. 1
@@ -6246,10 +6668,9 @@ Arzneimittel, die
 
 
 
-enthalten. Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium, durch Rechtsverordnung mit Zustimmung des
-Bundesrates
+enthalten. Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium, durch
+Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Näheres über Inhalt und Form der Mitteilungen nach Satz 1 zu regeln
     und
@@ -6271,7 +6692,7 @@ Bundesrates
 
 
 In Rechtsverordnungen nach Satz 2 können ferner Regelungen in
-entsprechender Anwendung des § 67a Absatz 3 getroffen werden.
+entsprechender Anwendung des § 67a Absatz 3 und 3a getroffen werden.
 
 (2) Die in Absatz 1 Nr. 5 bis 9 bezeichneten Empfänger dürfen die
 Arzneimittel nur für den eigenen Bedarf im Rahmen der Erfüllung ihrer
@@ -6315,15 +6736,15 @@ enthalten.
 
 (4) Pharmazeutische Unternehmer dürfen Muster eines
 Fertigarzneimittels an Personen nach Absatz 3 Satz 1 nur auf jeweilige
-schriftliche Anforderung, in der kleinsten Packungsgröße und in einem
-Jahr von einem Fertigarzneimittel nicht mehr als zwei Muster abgeben
-oder abgeben lassen. Mit den Mustern ist die Fachinformation, soweit
-diese nach § 11a vorgeschrieben ist, zu übersenden. Das Muster dient
-insbesondere der Information des Arztes über den Gegenstand des
-Arzneimittels. Über die Empfänger von Mustern sowie über Art, Umfang
-und Zeitpunkt der Abgabe von Mustern sind gesondert für jeden
-Empfänger Nachweise zu führen und auf Verlangen der zuständigen
-Behörde vorzulegen.
+schriftliche oder elektronische Anforderung, in der kleinsten
+Packungsgröße und in einem Jahr von einem Fertigarzneimittel nicht
+mehr als zwei Muster abgeben oder abgeben lassen. Mit den Mustern ist
+die Fachinformation, soweit diese nach § 11a vorgeschrieben ist, zu
+übersenden. Das Muster dient insbesondere der Information des Arztes
+über den Gegenstand des Arzneimittels. Über die Empfänger von Mustern
+sowie über Art, Umfang und Zeitpunkt der Abgabe von Mustern sind
+gesondert für jeden Empfänger Nachweise zu führen und auf Verlangen
+der zuständigen Behörde vorzulegen.
 
 
 ### § 47a Sondervertriebsweg, Nachweispflichten
@@ -6388,16 +6809,27 @@ Arzneimittel keine Anwendung.
 
 
 dürfen nur bei Vorliegen einer ärztlichen, zahnärztlichen oder
-tierärztlichen Verschreibung an Verbraucher abgegeben werden. Satz 1
-Nr. 1 gilt nicht für die Abgabe zur Ausstattung von
-Kauffahrteischiffen durch Apotheken nach Maßgabe der hierfür geltenden
-gesetzlichen Vorschriften. Satz 1 Nummer 3 gilt auch für Arzneimittel,
-die Zubereitungen aus in ihren Wirkungen allgemein bekannten Stoffen
-sind, wenn die Wirkungen dieser Zubereitungen in der medizinischen
-Wissenschaft nicht allgemein bekannt sind, es sei denn, dass die
-Wirkungen nach Zusammensetzung, Dosierung, Darreichungsform oder
-Anwendungsgebiet der Zubereitung bestimmbar sind. Satz 1 Nummer 3 gilt
-nicht für Arzneimittel, die Zubereitungen aus Stoffen bekannter
+tierärztlichen Verschreibung an Verbraucher abgegeben werden. Eine
+Abgabe von Arzneimitteln, die zur Anwendung bei Menschen bestimmt
+sind, darf nicht erfolgen, wenn vor der ärztlichen oder zahnärztlichen
+Verschreibung offenkundig kein direkter Kontakt zwischen dem Arzt oder
+Zahnarzt und der Person, für die das Arzneimittel verschrieben wird,
+stattgefunden hat. Hiervon darf nur in begründeten Ausnahmefällen
+abgewichen werden, insbesondere, wenn die Person dem Arzt oder
+Zahnarzt aus einem vorangegangenen direkten Kontakt hinreichend
+bekannt ist und es sich lediglich um die Wiederholung oder die
+Fortsetzung der Behandlung handelt. Satz 1 Nummer 1 und Satz 2 gelten
+nicht für die Abgabe durch Apotheken zur Ausstattung der
+Kauffahrteischiffe im Hinblick auf die Arzneimittel, die auf Grund
+seearbeitsrechtlicher Vorschriften für den Schutz der Gesundheit der
+Personen an Bord und deren unverzügliche angemessene medizinische
+Betreuung an Bord erforderlich sind. Satz 1 Nummer 3 gilt auch für
+Arzneimittel, die Zubereitungen aus in ihren Wirkungen allgemein
+bekannten Stoffen sind, wenn die Wirkungen dieser Zubereitungen in der
+medizinischen Wissenschaft nicht allgemein bekannt sind, es sei denn,
+dass die Wirkungen nach Zusammensetzung, Dosierung, Darreichungsform
+oder Anwendungsgebiet der Zubereitung bestimmbar sind. Satz 1 Nummer 3
+gilt nicht für Arzneimittel, die Zubereitungen aus Stoffen bekannter
 Wirkungen sind, soweit diese außerhalb der Apotheken abgegeben werden
 dürfen. An die Stelle der Verschreibungspflicht nach Satz 1 Nummer 3
 tritt mit der Aufnahme des betreffenden Stoffes oder der betreffenden
@@ -6405,12 +6837,12 @@ Zubereitung in die Rechtsverordnung nach Absatz 2 Nummer 1 die
 Verschreibungspflicht nach der Rechtsverordnung.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates
 
 1.  Stoffe oder Zubereitungen aus Stoffen zu bestimmen, bei denen die
     Voraussetzungen nach Absatz 1 Satz 1 Nummer 3 auch in Verbindung mit
-    Absatz 1 Satz 3 vorliegen,
+    Absatz 1 Satz 5 vorliegen,
 
 
 2.  Stoffe, Zubereitungen aus Stoffen oder Gegenstände zu bestimmen,
@@ -6463,7 +6895,11 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 
 7.  Vorschriften über die Form und den Inhalt der Verschreibung,
-    einschließlich der Verschreibung in elektronischer Form, zu erlassen.
+    einschließlich der Verschreibung in elektronischer Form, zu erlassen,
+
+
+8.  zu bestimmen, in welchen Fällen Ausnahmen von der Vorgabe nach Absatz
+    1 Satz 2 bestehen.
 
 
 
@@ -6505,24 +6941,22 @@ Aufhebung der Verschreibungspflicht auf Grund signifikanter
 vorklinischer oder klinischer Versuche erfolgt ist; dabei ist der nach
 Artikel 74a vorgesehene Zeitraum von einem Jahr zu beachten.
 
-(4) Die Rechtsverordnung wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie erlassen, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind.
+(4) Die Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium und dem
+Bundesministerium für Wirtschaft und Energie erlassen, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 (5) Die Rechtsverordnung ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 soweit es sich um radioaktive Arzneimittel und um Arzneimittel
 handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates im Falle des Absatzes 1 Satz 1 Nr. 2 Arzneimittel von der
-Verschreibungspflicht auszunehmen, soweit die auf Grund des Artikels
-67 Doppelbuchstabe aa der Richtlinie 2001/82/EG festgelegten
-Anforderungen eingehalten sind.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates im Falle des Absatzes
+1 Satz 1 Nr. 2 Arzneimittel von der Verschreibungspflicht auszunehmen,
+soweit die auf Grund des Artikels 67 Doppelbuchstabe aa der Richtlinie
+2001/82/EG festgelegten Anforderungen eingehalten sind.
 
 
 ### § 49
@@ -6548,22 +6982,21 @@ Lagern und Inverkehrbringen von Arzneimitteln, die zum Verkehr
 außerhalb der Apotheken freigegeben sind, sowie Kenntnisse über die
 für diese Arzneimittel geltenden Vorschriften nachweist. Das
 Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften darüber zu erlassen, wie der
-Nachweis der erforderlichen Sachkenntnis zu erbringen ist, um einen
-ordnungsgemäßen Verkehr mit Arzneimitteln zu gewährleisten. Es kann
-dabei Prüfungszeugnisse über eine abgeleistete berufliche Aus- oder
+Bundesministerium für Wirtschaft und Energie und dem Bundesministerium
+für Bildung und Forschung durch Rechtsverordnung mit Zustimmung des
+Bundesrates Vorschriften darüber zu erlassen, wie der Nachweis der
+erforderlichen Sachkenntnis zu erbringen ist, um einen ordnungsgemäßen
+Verkehr mit Arzneimitteln zu gewährleisten. Es kann dabei
+Prüfungszeugnisse über eine abgeleistete berufliche Aus- oder
 Fortbildung als Nachweis anerkennen. Es kann ferner bestimmen, dass
 die Sachkenntnis durch eine Prüfung vor der zuständigen Behörde oder
 einer von ihr bestimmten Stelle nachgewiesen wird und das Nähere über
 die Prüfungsanforderungen und das Prüfungsverfahren regeln. Die
 Rechtsverordnung wird, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind, vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-dem Bundesministerium, dem Bundesministerium für Wirtschaft und
-Technologie und dem Bundesministerium für Bildung und Forschung
-erlassen.
+Ernährung und Landwirtschaft im Einvernehmen mit dem
+Bundesministerium, dem Bundesministerium für Wirtschaft und Energie
+und dem Bundesministerium für Bildung und Forschung erlassen.
 
 (3) Einer Sachkenntnis nach Absatz 1 bedarf nicht, wer
 Fertigarzneimittel im Einzelhandel in den Verkehr bringt, die
@@ -6669,8 +7102,8 @@ freigegebenen Fertigarzneimittel.
 
 (2) Mit dem Antrag hat der Antragsteller
 
-1.  die bestimmte Betriebsstätte zu benennen, für die die Erlaubnis
-    erteilt werden soll,
+1.  die bestimmte Betriebsstätte sowie die Tätigkeiten und die
+    Arzneimittel zu benennen, für die die Erlaubnis erteilt werden soll,
 
 
 2.  Nachweise darüber vorzulegen, dass er über geeignete und ausreichende
@@ -6775,6 +7208,11 @@ gewährleisten. Satz 1 gilt entsprechend für andere
 Arzneimittelgroßhandlungen im Umfang der von ihnen jeweils
 vorgehaltenen Arzneimittel.
 
+(3a) Pharmazeutische Unternehmer müssen im Rahmen ihrer
+Verantwortlichkeit Krankenhäuser im Falle ihnen bekannt gewordener
+Lieferengpässe bei verschreibungspflichtigen Arzneimitteln zur
+stationären Versorgung umgehend informieren.
+
 (4) Die Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen
 bleiben unberührt.
 
@@ -6815,10 +7253,10 @@ Wissenschaft, den Krankenhäusern, den Heilberufen, den beteiligten
 Wirtschaftskreisen und den Sozialversicherungsträgern angehören. In
 der Rechtsverordnung kann das Nähere über die Zusammensetzung, die
 Berufung der Mitglieder und das Verfahren des Ausschusses bestimmt
-werden. Die Rechtsverordnung wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium erlassen, soweit es sich um Arzneimittel handelt,
-die zur Anwendung bei Tieren bestimmt sind.
+werden. Die Rechtsverordnung wird vom Bundesministerium für Ernährung
+und Landwirtschaft im Einvernehmen mit dem Bundesministerium erlassen,
+soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
+bestimmt sind.
 
 (2) Soweit nach § 48 Abs. 2 vor Erlass der Rechtsverordnung
 Sachverständige anzuhören sind, gilt Absatz 1 entsprechend mit der
@@ -6837,25 +7275,24 @@ Sitzungen teil.
 ### § 54 Betriebsverordnungen
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates Betriebsverordnungen
-für Betriebe oder Einrichtungen zu erlassen, die Arzneimittel in den
-Geltungsbereich dieses Gesetzes verbringen oder in denen Arzneimittel
-entwickelt, hergestellt, geprüft, gelagert, verpackt oder in den
-Verkehr gebracht werden oder in denen sonst mit Arzneimitteln Handel
-getrieben wird, soweit es geboten ist, um einen ordnungsgemäßen
-Betrieb und die erforderliche Qualität der Arzneimittel sowie die
-Pharmakovigilanz sicherzustellen; dies gilt entsprechend für
-Wirkstoffe und andere zur Arzneimittelherstellung bestimmte Stoffe
-sowie für Gewebe. Die Rechtsverordnung wird vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-dem Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie erlassen, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind. Die Rechtsverordnung ergeht
-jeweils im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit, soweit es sich um radioaktive
-Arzneimittel oder um Arzneimittel handelt, bei deren Herstellung
-ionisierende Strahlen verwendet werden.
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates Betriebsverordnungen für Betriebe oder
+Einrichtungen zu erlassen, die Arzneimittel in den Geltungsbereich
+dieses Gesetzes verbringen oder in denen Arzneimittel entwickelt,
+hergestellt, geprüft, gelagert, verpackt oder in den Verkehr gebracht
+werden oder in denen sonst mit Arzneimitteln Handel getrieben wird,
+soweit es geboten ist, um einen ordnungsgemäßen Betrieb und die
+erforderliche Qualität der Arzneimittel sowie die Pharmakovigilanz
+sicherzustellen; dies gilt entsprechend für Wirkstoffe und andere zur
+Arzneimittelherstellung bestimmte Stoffe sowie für Gewebe. Die
+Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium und dem
+Bundesministerium für Wirtschaft und Energie erlassen, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
+Die Rechtsverordnung ergeht jeweils im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
+soweit es sich um radioaktive Arzneimittel oder um Arzneimittel
+handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
 
 (2) In der Rechtsverordnung nach Absatz 1 können insbesondere
 Regelungen getroffen werden über die
@@ -6951,8 +7388,8 @@ Wissenschaft, der Heilberufe, der beteiligten Wirtschaftskreise und
 der Arzneimittelüberwachung im zahlenmäßig gleichen Verhältnis, stellt
 den Vorsitz und erlässt eine Geschäftsordnung. Die Geschäftsordnung
 bedarf der Zustimmung des Bundesministeriums im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-Die Mitglieder sind zur Verschwiegenheit verpflichtet.
+Bundesministerium für Ernährung und Landwirtschaft. Die Mitglieder
+sind zur Verschwiegenheit verpflichtet.
 
 (5) Die Deutsche Arzneibuch-Kommission soll über die Regeln des
 Arzneibuches grundsätzlich einstimmig beschließen. Beschlüsse, denen
@@ -7010,18 +7447,17 @@ Geltungsbereich dieses Gesetzes zugelassene Arzneimittel-
 Vormischungen, hergestellt werden, die sonstigen im Geltungsbereich
 dieses Gesetzes geltenden arzneimittelrechtlichen Vorschriften
 beachtet werden und den Fütterungsarzneimitteln eine
-Begleitbescheinigung nach dem vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz bekannt gemachten Muster
-beigegeben ist. Im Falle des Satzes 1 zweiter Halbsatz hat der
-verschreibende Tierarzt der nach § 64 Abs. 1 für die Überwachung der
-Einhaltung der arzneimittelrechtlichen Vorschriften durch den
-Tierhalter zuständigen Behörde unverzüglich eine Kopie der
-Verschreibung zu übersenden. Die wiederholte Abgabe auf eine
-Verschreibung ist nicht zulässig. Das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung Vorschriften über Form und Inhalt
-der Verschreibung zu erlassen.
+Begleitbescheinigung nach dem vom Bundesministerium für Ernährung und
+Landwirtschaft bekannt gemachten Muster beigegeben ist. Im Falle des
+Satzes 1 zweiter Halbsatz hat der verschreibende Tierarzt der nach §
+64 Abs. 1 für die Überwachung der Einhaltung der
+arzneimittelrechtlichen Vorschriften durch den Tierhalter zuständigen
+Behörde unverzüglich eine Kopie der Verschreibung zu übersenden. Die
+wiederholte Abgabe auf eine Verschreibung ist nicht zulässig. Das
+Bundesministerium für Ernährung und Landwirtschaft wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium und dem Bundesministerium für
+Wirtschaft und Energie durch Rechtsverordnung Vorschriften über Form
+und Inhalt der Verschreibung zu erlassen.
 
 (2) Zur Herstellung eines Fütterungsarzneimittels darf nur eine nach §
 25 Abs. 1 zugelassene oder auf Grund des § 36 Abs. 1 von der Pflicht
@@ -7053,15 +7489,16 @@ futtermittelrechtlichen Vorschriften entsprechen und es darf kein
 Antibiotikum oder Kokzidiostatikum als Futtermittelzusatzstoff
 enthalten.
 
-(4) Bei der Herstellung von Fütterungsarzneimitteln muss die
-Arzneimitteltagesdosis in einer Menge Mischfuttermittel enthalten
-sein, die die tägliche Futterration der behandelten Tiere, bei
-Wiederkäuern den täglichen Bedarf an Ergänzungsfuttermitteln,
-ausgenommen Mineralfutter, mindestens zur Hälfte deckt. Die
-verfütterungsfertigen Mischungen müssen durch das deutlich sichtbare
-Wort "Fütterungsarzneimittel" gekennzeichnet sowie mit der Angabe
-darüber versehen sein, zu welchem Prozentsatz sie den Futterbedarf
-nach Satz 2 zu decken bestimmt sind.
+(4) Der Hersteller des Fütterungsarzneimittels hat sicherzustellen,
+dass die Arzneimitteltagesdosis in einer Menge in dem
+Mischfuttermittel enthalten ist, die die tägliche Futterration der
+behandelten Tiere, bei Wiederkäuern den täglichen Bedarf an
+Ergänzungsfuttermitteln, ausgenommen Mineralfutter, mindestens zur
+Hälfte deckt. Der Hersteller des Fütterungsarzneimittels hat die
+verfütterungsfertige Mischung vor der Abgabe so zu kennzeichnen, dass
+auf dem Etikett das Wort „Fütterungsarzneimittel“ und die Angabe
+darüber, zu welchem Prozentsatz sie den Futterbedarf nach Satz 1 zu
+decken bestimmt ist, deutlich sichtbar sind.
 
 (5) Der Tierarzt darf Fütterungsarzneimittel nur verschreiben,
 
@@ -7106,8 +7543,9 @@ nach Satz 1 Nr. 4 gilt zusätzlich § 56a Abs. 1 Satz 2 entsprechend.
 ### § 56a Verschreibung, Abgabe und Anwendung von Arzneimitteln durch Tierärzte
 
 (1) Der Tierarzt darf für den Verkehr außerhalb der Apotheken nicht
-freigegebene Arzneimittel dem Tierhalter nur verschreiben oder an
-diesen nur abgeben, wenn
+freigegebene Arzneimittel dem Tierhalter vorbehaltlich besonderer
+Bestimmungen auf Grund des Absatzes 3 nur verschreiben oder an diesen
+nur abgeben, wenn
 
 1.  sie für die von ihm behandelten Tiere bestimmt sind,
 
@@ -7125,7 +7563,7 @@ diesen nur abgeben, wenn
 
 4.  ihre Anwendung nach Anwendungsgebiet und Menge nach dem Stand der
     veterinärmedizinischen Wissenschaft gerechtfertigt ist, um das
-    Behandlungsziel zu erreichen, und
+    Behandlungsziel in dem betreffenden Fall zu erreichen, und
 
 
 5.  die zur Anwendung bei Tieren, die der Gewinnung von Lebensmitteln
@@ -7234,21 +7672,37 @@ und des Rates zur Schaffung eines Gemeinschaftskodexes für
 Tierarzneimittel (ABl. L 367 vom 22.12.2006, S. 33) aufgeführt sind,
 enthalten.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Anforderungen an die Abgabe und die Verschreibung von Arzneimitteln
     zur Anwendung an Tieren, auch im Hinblick auf die Behandlung,
     festzulegen,
 
 
-2.  vorzuschreiben, dass
+2.  vorbehaltlich einer Rechtsverordnung nach Nummer 5 zu verbieten, bei
+    der Verschreibung, der Abgabe oder der Anwendung von zur Anwendung bei
+    Tieren bestimmten Arzneimitteln, die antimikrobiell wirksame Stoffe
+    enthalten, von den in § 11 Absatz 4 Satz 1 Nummer 3 und 5 genannten
+    Angaben der Gebrauchsinformation abzuweichen, soweit dies zur
+    Verhütung einer unmittelbaren oder mittelbaren Gefährdung der
+    Gesundheit von Mensch oder Tier durch die Anwendung dieser
+    Arzneimittel erforderlich ist,
 
-    a)  Tierärzte über die Abgabe, Verschreibung und Anwendung von für den
-        Verkehr außerhalb der Apotheken nicht freigegebenen Arzneimitteln
-        Nachweise führen müssen,
+
+3.  vorzuschreiben, dass der Tierarzt im Rahmen der Behandlung bestimmter
+    Tiere in bestimmten Fällen eine Bestimmung der Empfindlichkeit der
+    eine Erkrankung verursachenden Erreger gegenüber bestimmten
+    antimikrobiell wirksamen Stoffen zu erstellen oder erstellen zu lassen
+    hat,
+
+
+4.  vorzuschreiben, dass
+
+    a)  Tierärzte über die Abgabe, Verschreibung und Anwendung, auch im
+        Hinblick auf die Behandlung, von für den Verkehr außerhalb der
+        Apotheken nicht freigegebenen Arzneimitteln Nachweise führen müssen,
 
 
     b)  bestimmte Arzneimittel nur durch den Tierarzt selbst angewendet werden
@@ -7256,35 +7710,78 @@ Bundesrates
 
         aa) die Gesundheit von Mensch oder Tier auch bei bestimmungsgemäßem
             Gebrauch unmittelbar oder mittelbar gefährden können, sofern sie nicht
-            fachgerecht angewendet werden, oder
+            fachgerecht angewendet werden,
 
 
-        bb) häufig in erheblichem Umfang nicht bestimmungsgemäß gebraucht werden
-            und dadurch die Gesundheit von Mensch oder Tier unmittelbar oder
-            mittelbar gefährdet werden kann.
-
-
-
+        bb) wiederholt in erheblichem Umfang nicht bestimmungsgemäß gebraucht
+            werden und dadurch die Gesundheit von Mensch oder Tier unmittelbar
+            oder mittelbar gefährdet werden kann,
 
 
 
 
 
 
-In der Rechtsverordnung können Art, Form und Inhalt der Nachweise
-sowie die Dauer der Aufbewahrung geregelt werden. Die Nachweispflicht
-kann auf bestimmte Arzneimittel, Anwendungsbereiche oder
-Darreichungsformen beschränkt werden.
 
-(4) Der Tierarzt darf durch Rechtsverordnung nach Absatz 3 Satz 1 Nr.
-2 bestimmte Arzneimittel dem Tierhalter weder verschreiben noch an
-diesen abgeben.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates eine Tierarzneimittelanwendungskommission zu errichten.
-Die Tierarzneimittelanwendungskommission beschreibt in Leitlinien den
+5.  vorzuschreiben, dass der Tierarzt abweichend von Absatz 2 bestimmte
+    Arzneimittel, die bestimmte antimikrobiell wirksame Stoffe enthalten,
+    nur
+
+    a)  für die bei der Zulassung vorgesehenen Tierarten oder
+        Anwendungsgebiete abgeben oder verschreiben oder
+
+
+    b)  bei den bei der Zulassung vorgesehenen Tierarten oder in den dort
+        vorgesehenen Anwendungsgebieten anwenden
+
+
+
+    darf, soweit dies erforderlich ist, um die Wirksamkeit der
+    antimikrobiell wirksamen Stoffe für die Behandlung von Mensch und Tier
+    zu erhalten.
+
+
+
+In Rechtsverordnungen nach Satz 1 können ferner
+
+1.  im Fall des Satzes 1 Nummer 3 Anforderungen an die Probenahme, die zu
+    nehmenden Proben, das Verfahren der Untersuchung sowie an die
+    Nachweisführung festgelegt werden,
+
+
+2.  im Fall des Satzes 1 Nummer 4 Buchstabe a
+
+    a)  Art, Form und Inhalt der Nachweise sowie die Dauer der Aufbewahrung
+        geregelt werden,
+
+
+    b)  vorgeschrieben werden, dass Nachweise auf Anordnung der zuständigen
+        Behörde nach deren Vorgaben vom Tierarzt zusammengefasst und ihr zur
+        Verfügung gestellt werden, soweit dies zur Sicherung einer
+        ausreichenden Überwachung der Anwendung von Arzneimitteln bei Tieren,
+        die der Gewinnung von Lebensmitteln dienen, erforderlich ist.
+
+
+
+
+
+
+In Rechtsverordnungen nach Satz 1 Nummer 2, 3 und 5 ist Vorsorge dafür
+zu treffen, dass die Tiere jederzeit die notwendige arzneiliche
+Versorgung erhalten. Die Nachweispflicht kann auf bestimmte
+Arzneimittel, Anwendungsbereiche oder Darreichungsformen beschränkt
+werden.
+
+(4) Der Tierarzt darf durch Rechtsverordnung nach Absatz 3 Satz 1
+Nummer 4 Buchstabe b bestimmte Arzneimittel dem Tierhalter weder
+verschreiben noch an diesen abgeben.
+
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates eine
+Tierarzneimittelanwendungskommission zu errichten. Die
+Tierarzneimittelanwendungskommission beschreibt in Leitlinien den
 Stand der veterinärmedizinischen Wissenschaft, insbesondere für die
 Anwendung von Arzneimitteln, die antimikrobiell wirksame Stoffe
 enthalten. In der Rechtsverordnung ist das Nähere über die
@@ -7302,11 +7799,11 @@ worden sind.
 
 ### § 56b Ausnahmen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates Ausnahmen von § 56a zuzulassen, soweit die notwendige
-arzneiliche Versorgung der Tiere sonst ernstlich gefährdet wäre.
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von § 56a
+zuzulassen, soweit die notwendige arzneiliche Versorgung der Tiere
+sonst ernstlich gefährdet wäre.
 
 
 ### § 57 Erwerb und Besitz durch Tierhalter, Nachweise
@@ -7344,10 +7841,9 @@ mit hormonaler beziehungsweise thyreostatischer Wirkung und von
 Richtlinien 81/602/EWG, 88/146/EWG und 88/299/EWG (ABl. EG Nr. L 125
 S. 3) erlaubt ist.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates vorzuschreiben, dass
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass
 
 1.  Betriebe oder Personen, die Tiere halten, die der Gewinnung von
     Lebensmitteln dienen, und diese oder von diesen stammende Erzeugnisse
@@ -7363,9 +7859,36 @@ Arzneimittel und Register oder Nachweise über die Anwendung der
 Arzneimittel zu führen haben, soweit es geboten ist, um eine
 ordnungsgemäße Anwendung von Arzneimitteln zu gewährleisten und sofern
 es sich um Betriebe oder Personen nach Nummer 1 handelt, dies zur
-Durchführung von Rechtsakten der Europäischen Gemeinschaften auf
-diesem Gebiet erforderlich ist. In der Rechtsverordnung können Art,
-Form und Inhalt der Register und Nachweise sowie die Dauer ihrer
+Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
+Europäischen Union auf diesem Gebiet erforderlich ist. In der
+Rechtsverordnung können Art, Form und Inhalt der Register und
+Nachweise sowie die Dauer ihrer Aufbewahrung geregelt werden. In der
+Rechtsverordnung kann ferner vorgeschrieben werden, dass Nachweise auf
+Anordnung der zuständigen Behörde nach deren Vorgaben vom Tierhalter
+zusammenzufassen sind und ihr zur Verfügung gestellt werden, soweit
+dies zur Sicherung einer ausreichenden Überwachung im Zusammenhang mit
+der Anwendung von Arzneimitteln bei Tieren, die der Gewinnung von
+Lebensmitteln dienen, erforderlich ist.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates vorzuschreiben, dass
+Betriebe oder Personen, die
+
+1.  Tiere in einem Tierheim oder in einer ähnlichen Einrichtung halten
+    oder
+
+
+2.  gewerbsmäßig Wirbeltiere, ausgenommen Tiere, die der Gewinnung von
+    Lebensmitteln dienen, züchten oder halten oder vorübergehend für
+    andere Betriebe oder Personen betreuen,
+
+
+
+Nachweise über den Erwerb verschreibungspflichtiger Arzneimittel zu
+führen haben, die für die Behandlung der in den Nummern 1 und 2
+bezeichneten Tiere erworben worden sind. In der Rechtsverordnung
+können Art, Form und Inhalt der Nachweise sowie die Dauer ihrer
 Aufbewahrung geregelt werden.
 
 
@@ -7383,8 +7906,9 @@ sind, bei dem sich die Tiere in Behandlung befinden.
 andere Personen, die nicht Tierärzte sind, verschreibungspflichtige
 Arzneimittel oder andere vom Tierarzt verschriebene oder erworbene
 Arzneimittel bei Tieren, die der Gewinnung von Lebensmitteln dienen,
-nur nach einer tierärztlichen Behandlungsanweisung für den
-betreffenden Fall anwenden. Nicht verschreibungspflichtige
+vorbehaltlich einer Maßnahme der zuständigen Behörde nach § 58d Absatz
+3 Satz 2 Nummer 2 nur nach einer tierärztlichen Behandlungsanweisung
+für den betreffenden Fall anwenden. Nicht verschreibungspflichtige
 Arzneimittel, die nicht für den Verkehr außerhalb der Apotheken
 freigegeben sind und deren Anwendung nicht auf Grund einer
 tierärztlichen Behandlungsanweisung erfolgt, dürfen nur angewendet
@@ -7408,14 +7932,542 @@ Abweichend von Satz 2 dürfen Arzneimittel im Sinne des § 43 Abs. 4
 Satz 3 nur nach der veterinärbehördlichen Anweisung nach § 43 Abs. 4
 Satz 4 angewendet werden.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates zu verbieten, dass Arzneimittel, die zur Anwendung bei
-Tieren bestimmt sind, die der Gewinnung von Lebensmitteln dienen, für
-bestimmte Anwendungsgebiete oder -bereiche in den Verkehr gebracht
-oder zu diesen Zwecken angewendet werden, soweit es geboten ist, um
-eine mittelbare Gefährdung der Gesundheit des Menschen zu verhüten.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates zu verbieten, dass
+Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, die der
+Gewinnung von Lebensmitteln dienen, für bestimmte Anwendungsgebiete
+oder -bereiche in den Verkehr gebracht oder zu diesen Zwecken
+angewendet werden, soweit es geboten ist, um eine mittelbare
+Gefährdung der Gesundheit des Menschen zu verhüten.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird ferner
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten zu
+technischen Anlagen für die orale Anwendung von Arzneimitteln bei
+Tieren, die Instandhaltung und Reinigung dieser Anlagen und zu
+Sorgfaltspflichten des Tierhalters festzulegen, um eine Verschleppung
+antimikrobiell wirksamer Stoffe zu verringern.
+
+
+### § 58a Mitteilungen über Tierhaltungen
+
+(1) Wer Rinder (Bos taurus), Schweine (Sus scrofa domestica), Hühner
+(Gallus gallus) oder Puten (Meleagris gallopavo) berufs- oder
+gewerbsmäßig hält, hat der zuständigen Behörde nach Maßgabe des
+Absatzes 2 das Halten dieser Tiere bezogen auf die jeweilige Tierart
+und den Betrieb, in dem die Tiere gehalten werden
+(Tierhaltungsbetrieb), spätestens 14 Tage nach Beginn der Haltung
+mitzuteilen. Die Mitteilung hat ferner folgende Angaben zu enthalten:
+
+1.  den Namen des Tierhalters,
+
+
+2.  die Anschrift des Tierhaltungsbetriebes und die nach Maßgabe
+    tierseuchenrechtlicher Vorschriften über den Verkehr mit Vieh für den
+    Tierhaltungsbetrieb erteilte Registriernummer,
+
+
+3.  bei der Haltung
+
+    a)  von Rindern ergänzt durch die Angabe, ob es sich um Mastkälber bis zu
+        einem Alter von acht Monaten oder um Mastrinder ab einem Alter von
+        acht Monaten,
+
+
+    b)  von Schweinen ergänzt durch die Angabe, ob es sich um Ferkel bis
+        einschließlich 30 kg oder um Mastschweine über 30 kg
+
+
+
+    (Nutzungsart) handelt.
+
+
+
+
+(2) Die Mitteilungspflicht nach Absatz 1 Satz 1 gilt
+
+1.  für zum Zweck der Fleischerzeugung (Mast) bestimmte Hühner oder Puten
+    und ab dem Zeitpunkt des jeweiligen Schlüpfens dieser Tiere und
+
+
+2.  für zum Zweck der Mast bestimmte Rinder oder Schweine und ab dem
+    Zeitpunkt, ab dem die jeweiligen Tiere vom Muttertier abgesetzt sind.
+
+
+
+
+(3) Derjenige, der am 1. April 2014 Tiere im Sinne des Absatzes 1 Satz
+1 hält, hat die Mitteilung nach Absatz 1 Satz 1 und 2 spätestens bis
+zum 1. Juli 2014 zu machen.
+
+(4) Wer nach Absatz 1 oder 3 zur Mitteilung verpflichtet ist, hat
+Änderungen hinsichtlich der mitteilungspflichtigen Angaben innerhalb
+von 14 Werktagen mitzuteilen. Die Mitteilung nach Absatz 1 oder 3,
+jeweils auch in Verbindung mit Satz 1, hat elektronisch oder
+schriftlich zu erfolgen. Die vorgeschriebenen Mitteilungen können
+durch Dritte vorgenommen werden, soweit der Tierhalter dies unter
+Nennung des Dritten der zuständigen Behörde angezeigt hat. Die Absätze
+1 und 3 sowie Satz 1 gelten nicht, soweit die verlangten Angaben nach
+tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh
+mitgeteilt worden sind. In diesen Fällen übermittelt die für die
+Durchführung der tierseuchenrechtlichen Vorschriften über den Verkehr
+mit Vieh zuständige Behörde der für die Durchführung der Absätze 1 und
+3 sowie des Satzes 1 zuständigen Behörde die verlangten Angaben. Die
+Übermittlung nach Satz 5 kann nach Maßgabe des § 10 des
+Datenschutzgesetzes im automatisierten Abrufverfahren erfolgen.
+
+
+### § 58b Mitteilungen über Arzneimittelverwendung
+
+(1) Wer Tiere, für die nach § 58a Mitteilungen über deren Haltung zu
+machen sind, hält, hat der zuständigen Behörde im Hinblick auf
+Arzneimittel, die antibakteriell wirksame Stoffe enthalten und bei den
+von ihm gehaltenen Tieren angewendet worden sind, für jeden
+Tierhaltungsbetrieb, für den ihm nach den tierseuchenrechtlichen
+Vorschriften über den Verkehr mit Vieh eine Registriernummer zugeteilt
+worden ist, unter Berücksichtigung der Nutzungsart halbjährlich für
+jede Behandlung mitzuteilen
+
+1.  die Bezeichnung des angewendeten Arzneimittels,
+
+
+2.  die Anzahl und die Art der behandelten Tiere,
+
+
+3.  vorbehaltlich des Absatzes 3 die Anzahl der Behandlungstage,
+
+
+4.  die insgesamt angewendete Menge von Arzneimitteln, die antibakteriell
+    wirksame Stoffe enthalten,
+
+
+5.  für jedes Halbjahr die Anzahl der Tiere der jeweiligen Tierart, die
+
+    a)  in jedem Halbjahr zu Beginn im Betrieb gehalten,
+
+
+    b)  im Verlauf eines jeden Halbjahres in den Betrieb aufgenommen,
+
+
+    c)  im Verlauf eines jeden Halbjahres aus dem Betrieb abgegeben
+
+
+
+    worden sind.
+
+
+
+Die Mitteilungen nach Satz 1 Nummer 5 Buchstabe b und c sind unter
+Angabe des Datums der jeweiligen Handlung zu machen. Die Mitteilung
+ist jeweils spätestens am 14. Tag desjenigen Monats zu machen, der auf
+den letzten Monat des Halbjahres folgt, in dem die Behandlung erfolgt
+ist. § 58a Absatz 4 Satz 2 und 3 gilt entsprechend.
+
+(2) Abweichend von Absatz 1 Satz 1 können die in Absatz 1 Satz 1
+Nummer 1 bis 4 genannten Angaben durch nachfolgende Angaben ersetzt
+werden:
+
+1.  die Bezeichnung des für die Behandlung vom Tierarzt erworbenen oder
+    verschriebenen Arzneimittels,
+
+
+2.  die Anzahl und Art der Tiere, für die eine Behandlungsanweisung des
+    Tierarztes ausgestellt worden ist,
+
+
+3.  die Identität der Tiere, für die eine Behandlungsanweisung des
+    Tierarztes ausgestellt worden ist, sofern sich aus der Angabe die
+    Nutzungsart ergibt,
+
+
+4.  vorbehaltlich des Absatzes 3 die Dauer der verordneten Behandlung in
+    Tagen,
+
+
+5.  die vom Tierarzt insgesamt angewendete oder abgegebene Menge des
+    Arzneimittels.
+
+
+
+Satz 1 gilt nur, wenn derjenige, der Tiere hält,
+
+1.  gegenüber dem Tierarzt zum Zeitpunkt des Erwerbs oder der
+    Verschreibung der Arzneimittel schriftlich versichert hat, von der
+    Behandlungsanweisung nicht ohne Rücksprache mit dem Tierarzt
+    abzuweichen, und
+
+
+2.  bei der Abgabe der Mitteilung nach Absatz 1 Satz 1 an die zuständige
+    Behörde schriftlich versichert, dass bei der Behandlung nicht von der
+    Behandlungsanweisung des Tierarztes abgewichen worden ist.
+
+
+
+§ 58a Absatz 4 Satz 2 und 3 gilt hinsichtlich des Satzes 1
+entsprechend.
+
+(3) Bei Arzneimitteln, die antibakterielle Stoffe enthalten und einen
+therapeutischen Wirkstoffspiegel von mehr als 24 Stunden aufweisen,
+teilt der Tierarzt dem Tierhalter die Anzahl der Behandlungstage im
+Sinne des Absatzes 1 Satz 1 Nummer 3, ergänzt um die Anzahl der Tage,
+in denen das betroffene Arzneimittel seinen therapeutischen
+Wirkstoffspiegel behält, mit. Ergänzend zu Absatz 1 Satz 1 Nummer 3
+teilt der Tierhalter diese Tage auch als Behandlungstage mit.
+
+
+### § 58c Ermittlung der Therapiehäufigkeit
+
+(1) Die zuständige Behörde ermittelt für jedes Halbjahr die
+durchschnittliche Anzahl der Behandlungen mit antibakteriell wirksamen
+Stoffen, bezogen auf den jeweiligen Betrieb, für den nach den
+tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
+Registriernummer zugeteilt worden ist, und die jeweilige Art der
+gehaltenen Tiere unter Berücksichtigung der Nutzungsart, indem sie
+nach Maßgabe des Berechnungsverfahrens zur Ermittlung der
+Therapiehäufigkeit vom 21. Februar 2013 (BAnz AT 22.02.2013 B2)
+
+1.  für jeden angewendeten Wirkstoff die Anzahl der behandelten Tiere mit
+    der Anzahl der Behandlungstage multipliziert und die so errechnete
+    Zahl jeweils für alle verabreichten Wirkstoffe des Halbjahres addiert
+    und
+
+
+2.  die nach Nummer 1 ermittelte Zahl anschließend durch die Anzahl der
+    Tiere der betroffenen Tierart, die durchschnittlich in dem Halbjahr
+    gehalten worden sind, dividiert
+
+
+
+(betriebliche halbjährliche Therapiehäufigkeit).
+
+(2) Spätestens bis zum Ende des zweiten Monats des Halbjahres, das auf
+die Mitteilungen des vorangehenden Halbjahres nach § 58b Absatz 1 Satz
+1 folgt, teilt die zuständige Behörde dem Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit für die Zwecke des
+Absatzes 4 und des § 77 Absatz 3 Satz 2 in anonymisierter Form die
+nach Absatz 1 jeweils ermittelte halbjährliche betriebliche
+Therapiehäufigkeit mit. Darüber hinaus teilt die zuständige Behörde
+dem Bundesinstitut für Risikobewertung jeweils auf dessen Verlangen in
+anonymisierter Form die nach Absatz 1 jeweils ermittelte halbjährliche
+Therapiehäufigkeit sowie die in § 58b Absatz 1 Satz 1 Nummer 4
+genannten Angaben mit, soweit dies für die Durchführung einer
+Risikobewertung des Bundesinstitutes für Risikobewertung auf dem
+Gebiet der Antibiotikaresistenz erforderlich ist. Die Mitteilungen
+nach den Sätzen 1 und 2 können nach Maßgabe des § 10 des
+Bundesdatenschutzgesetzes im automatisierten Abrufverfahren erfolgen.
+
+(3) Soweit die Länder für die Zwecke des Absatzes 1 eine gemeinsame
+Stelle einrichten, sind die in den §§ 58a und 58b genannten Angaben
+dieser Stelle zu übermitteln; diese ermittelt die halbjährliche
+betriebliche Therapiehäufigkeit nach Maßgabe des in Absatz 1 genannten
+Berechnungsverfahrens zur Ermittlung der Therapiehäufigkeit und teilt
+sie den in Absatz 2 Satz 1 und 2 genannten Behörden mit. Absatz 2 Satz
+3 gilt entsprechend.
+
+(4) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
+ermittelt aus den ihm mitgeteilten Angaben zur jeweiligen
+halbjährlichen betrieblichen Therapiehäufigkeit
+
+1.  als Kennzahl 1 den Median (Wert, unter dem 50 Prozent aller erfassten
+    halbjährlichen Therapiehäufigkeiten liegen) und
+
+
+2.  als Kennzahl 2 das dritte Quartil (Wert, unter dem 75 Prozent aller
+    erfassten halbjährlichen betrieblichen Therapiehäufigkeiten liegen)
+
+
+
+der bundesweiten halbjährlichen Therapiehäufigkeit für jede in § 58a
+Absatz 1 bezeichnete Tierart. Das Bundesamt für Verbraucherschutz und
+Lebensmittelsicherheit macht diese Kennzahlen bis zum Ende des dritten
+Monats des Halbjahres, das auf die Mitteilungen des vorangehenden
+Halbjahres nach § 58b Absatz 1 folgt, für das jeweilige abgelaufene
+Halbjahr im Bundesanzeiger bekannt und schlüsselt diese unter
+Berücksichtigung der Nutzungsart auf.
+
+(5) Die zuständige Behörde oder die gemeinsame Stelle nach Absatz 3
+teilt dem Tierhalter die nach Absatz 1 ermittelte betriebliche
+halbjährliche Therapiehäufigkeit für die jeweilige Tierart der von ihm
+gehaltenen Tiere im Sinne des § 58a Absatz 1 unter Berücksichtigung
+der Nutzungsart mit. Der Tierhalter kann ferner Auskunft über die nach
+den §§ 58a und 58b erhobenen, gespeicherten oder sonst verarbeiteten
+Daten verlangen, soweit sie seinen Betrieb betreffen.
+
+(6) Die nach den §§ 58a und 58b erhobenen oder nach Absatz 5
+mitgeteilten und jeweils bei der zuständigen Behörde oder der
+gemeinsamen Stelle nach Absatz 3 gespeicherten Daten sind für die
+Dauer von sechs Jahren aufzubewahren. Die Frist beginnt mit Ablauf des
+30\. Juni oder 31. Dezember desjenigen Halbjahres, in dem die
+bundesweite halbjährliche Therapiehäufigkeit nach Absatz 4 bekannt
+gegeben worden ist. Nach Ablauf dieser Frist sind die Daten zu
+löschen.
+
+
+### § 58d Verringerung der Behandlung mit antibakteriell wirksamen Stoffen
+
+(1) Um zur wirksamen Verringerung der Anwendung von Arzneimitteln, die
+antibakteriell wirksame Stoffe enthalten, beizutragen, hat derjenige,
+der Tiere im Sinne des § 58a Absatz 1 Satz 1 berufs- oder gewerbsmäßig
+hält,
+
+1.  jeweils zwei Monate nach einer Bekanntmachung der Kennzahlen der
+    bundesweiten halbjährlichen Therapiehäufigkeit nach § 58c Absatz 4
+    Satz 2 festzustellen, ob im abgelaufenen Zeitraum seine betriebliche
+    halbjährliche Therapiehäufigkeit bei der jeweiligen Tierart der von
+    ihm gehaltenen Tiere unter Berücksichtigung der Nutzungsart bezogen
+    auf den Tierhaltungsbetrieb, für den ihm nach den
+    tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
+    Registriernummer zugeteilt worden ist, oberhalb der Kennzahl 1 oder
+    der Kennzahl 2 der bundesweiten halbjährlichen Therapiehäufigkeit
+    liegt,
+
+
+2.  die Feststellung nach Nummer 1 unverzüglich nach ihrer Feststellung in
+    seinen betrieblichen Unterlagen aufzuzeichnen.
+
+
+
+
+(2) Liegt die betriebliche halbjährliche Therapiehäufigkeit eines
+Tierhalters bezogen auf den Tierhaltungsbetrieb, für den ihm nach den
+tierseuchenrechtlichen Vorschriften über den Verkehr mit Vieh eine
+Registriernummer zugeteilt worden ist,
+
+1.  oberhalb der Kennzahl 1 der bundesweiten halbjährlichen
+    Therapiehäufigkeit, hat der Tierhalter unter Hinzuziehung eines
+    Tierarztes zu prüfen, welche Gründe zu dieser Überschreitung geführt
+    haben können und wie die Behandlung der von ihm gehaltenen Tiere im
+    Sinne des § 58a Absatz 1 mit Arzneimitteln, die antibakteriell
+    wirksame Stoffe enthalten, verringert werden kann, oder
+
+
+2.  oberhalb der Kennzahl 2 der bundesweiten halbjährlichen
+    Therapiehäufigkeit, hat der Tierhalter auf der Grundlage einer
+    tierärztlichen Beratung innerhalb von zwei Monaten nach dem sich aus
+    Absatz 1 Nummer 1 ergebenden Datum einen schriftlichen Plan zu
+    erstellen, der Maßnahmen enthält, die eine Verringerung der Behandlung
+    mit Arzneimitteln, die antibakteriell wirksame Stoffe enthalten, zum
+    Ziel haben.
+
+
+
+Ergibt die Prüfung des Tierhalters nach Satz 1 Nummer 1, dass die
+Behandlung mit den betroffenen Arzneimitteln verringert werden kann,
+hat der Tierhalter Schritte zu ergreifen, die zu einer Verringerung
+führen können. Der Tierhalter hat dafür Sorge zu tragen, dass die
+Maßnahme nach Satz 1 Nummer 1 und die in dem Plan nach Satz 1 Nummer 2
+aufgeführten Schritte unter Gewährleistung der notwendigen
+arzneilichen Versorgung der Tiere durchgeführt werden. Der Plan nach
+Satz 1 Nummer 2 ist um einen Zeitplan zu ergänzen, wenn die nach dem
+Plan zu ergreifenden Maßnahmen nicht innerhalb von sechs Monaten
+erfüllt werden können.
+
+(3) Der Plan nach Absatz 2 Satz 1 Nummer 2 ist der zuständigen Behörde
+unaufgefordert spätestens zwei Monate nach dem sich aus Absatz 1
+Nummer 1 ergebenden Datum zu übermitteln. Soweit es zur wirksamen
+Verringerung der Behandlung mit Arzneimitteln, die antibakteriell
+wirksame Stoffe enthalten, erforderlich ist, kann die zuständige
+Behörde gegenüber dem Tierhalter
+
+1.  anordnen, dass der Plan zu ändern oder zu ergänzen ist,
+
+
+2.  unter Berücksichtigung des Standes der veterinärmedizinischen
+    Wissenschaft zur Verringerung der Behandlung mit Arzneimitteln, die
+    antibakteriell wirksame Stoffe enthalten, Anordnungen treffen,
+    insbesondere hinsichtlich
+
+    a)  der Beachtung von allgemein anerkannten Leitlinien über die Anwendung
+        von Arzneimitteln, die antibakteriell wirksame Mittel enthalten, oder
+        Teilen davon sowie
+
+
+    b)  einer Impfung der Tiere,
+
+
+
+
+
+3.  im Hinblick auf die Vorbeugung vor Erkrankungen unter Berücksichtigung
+    des Standes der guten fachlichen Praxis in der Landwirtschaft oder der
+    guten hygienischen Praxis in der Tierhaltung Anforderungen an die
+    Haltung der Tiere anordnen, insbesondere hinsichtlich der Fütterung,
+    der Hygiene, der Art und Weise der Mast einschließlich der Mastdauer,
+    der Ausstattung der Ställe sowie deren Einrichtung und der
+    Besatzdichte,
+
+
+4.  anordnen, dass Arzneimittel, die antibakteriell wirksame Stoffe
+    enthalten, für einen bestimmten Zeitraum in einem Tierhaltungsbetrieb
+    nur durch den Tierarzt angewendet werden dürfen, wenn die für die
+    jeweilige von einem Tierhalter gehaltene Tierart, unter
+    Berücksichtigung der Nutzungsart, festgestellte halbjährliche
+    Therapiehäufigkeit zweimal in Folge erheblich oberhalb der Kennzahl 2
+    der bundesweiten Therapiehäufigkeit liegt.
+
+
+
+In der Anordnung nach Satz 2 Nummer 1 ist das Ziel der Änderung oder
+Ergänzung des Planes anzugeben. In Anordnungen nach Satz 2 Nummer 2, 3
+und 4 ist Vorsorge dafür zu treffen, dass die Tiere jederzeit die
+notwendige arzneiliche Versorgung erhalten. Die zuständige Behörde
+kann dem Tierhalter gegenüber Maßnahmen nach Satz 2 Nummer 3 auch dann
+anordnen, wenn diese Rechte des Tierhalters aus Verwaltungsakten
+widerrufen oder aus anderen Rechtsvorschriften einschränken, sofern
+die erforderliche Verringerung der Behandlung mit Arzneimitteln, die
+antibakteriell wirksame Stoffe enthalten, nicht durch andere wirksame
+Maßnahmen erreicht werden kann und der zuständigen Behörde
+tatsächliche Erkenntnisse über die Wirksamkeit der weitergehenden
+Maßnahmen vorliegen. Satz 5 gilt nicht, soweit unmittelbar geltende
+Rechtsvorschriften der Europäischen Gemeinschaft oder der Europäischen
+Union entgegenstehen.
+
+(4) Hat der Tierhalter Anordnungen nach Absatz 3 Satz 2 Nummer 1 bis
+4, im Fall der Nummer 3 auch in Verbindung mit Satz 5, nicht befolgt
+und liegt die für die jeweilige von einem Tierhalter gehaltene Tierart
+unter Berücksichtigung der Nutzungsart festgestellte halbjährliche
+Therapiehäufigkeit deshalb wiederholt oberhalb der Kennzahl 2 der
+bundesweiten Therapiehäufigkeit, kann die zuständige Behörde das Ruhen
+der Tierhaltung im Betrieb des Tierhalters für einen bestimmten
+Zeitraum, längstens für drei Jahre, anordnen. Die Anordnung des Ruhens
+der Tierhaltung ist aufzuheben, sobald sichergestellt ist, dass die in
+Satz 1 bezeichneten Anordnungen befolgt werden.
+
+
+### § 58e Verordnungsermächtigungen
+
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über Art,
+Form und Inhalt der Mitteilungen des Tierhalters nach § 58a Absatz 1
+oder § 58b zu regeln. In der Rechtsverordnung nach Satz 1 kann
+vorgesehen werden, dass
+
+1.  die Mitteilungen nach § 58b Absatz 1 oder 3 durch die Übermittlung von
+    Angaben oder Aufzeichnungen ersetzt werden können, die auf Grund
+    anderer arzneimittelrechtlicher Vorschriften, insbesondere auf Grund
+    einer Verordnung nach § 57 Absatz 2, vorzunehmen sind,
+
+
+2.  Betriebe bis zu einer bestimmten Bestandsgröße von den Anforderungen
+    nach § 58a und § 58b ausgenommen werden.
+
+
+
+Eine Rechtsverordnung nach Satz 2 Nummer 2 darf nur erlassen werden,
+soweit
+
+1.  durch die Ausnahme der Betriebe das Erreichen des Zieles der
+    Verringerung der Behandlung mit Arzneimitteln, die antibakteriell
+    wirksame Stoffe enthalten, nicht gefährdet wird und
+
+
+2.  die Repräsentativität der Ermittlung der Kennzahlen der bundesweiten
+    halbjährlichen Therapiehäufigkeit erhalten bleibt.
+
+
+
+
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates
+
+1.  zum Zweck der Ermittlung des Medians und der Quartile der bundesweiten
+    halbjährlichen Therapiehäufigkeit Anforderungen und Einzelheiten der
+    Berechnung der Kennzahlen festzulegen,
+
+
+2.  die näheren Einzelheiten einschließlich des Verfahrens zur
+
+    a)  Auskunftserteilung nach § 58c Absatz 5,
+
+
+    b)  Löschung der Daten nach § 58c Absatz 6
+
+
+
+
+
+
+zu regeln.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Einzelheiten über
+
+1.  die Aufzeichnung nach § 58d Absatz 1 Nummer 2,
+
+
+2.  Inhalt und Umfang des in § 58d Absatz 2 Satz 1 Nummer 2 genannten
+    Planes zur Verringerung der Behandlung mit Arzneimitteln, die
+    antibakteriell wirksame Stoffe enthalten, sowie
+
+
+3.  die Anforderung an die Übermittlung einschließlich des Verfahrens nach
+    § 58d Absatz 3 Satz 1
+
+
+
+zu regeln.
+
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium durch
+Rechtsverordnung mit Zustimmung des Bundesrates Fische, die der
+Gewinnung von Lebensmitteln dienen, in den Anwendungsbereich der §§
+58a bis 58f und der zur Durchführung dieser Vorschriften erlassenen
+Rechtsverordnungen einzubeziehen, soweit dies für das Erreichen des
+Zieles der Verringerung der Behandlung mit Arzneimitteln, die
+antibakteriell wirksame Stoffe enthalten, erforderlich ist. Eine
+Rechtsverordnung nach Satz 1 darf erstmals erlassen werden, wenn die
+Ergebnisse eines bundesweit durchgeführten behördlichen oder im
+Auftrag einer Behörde bundesweit durchgeführten Forschungsvorhabens
+über die Behandlung mit Arzneimitteln, die antibakteriell wirksame
+Stoffe enthalten, bei Fischen, die der Gewinnung von Lebensmitteln
+dienen, im Bundesanzeiger veröffentlicht worden sind.
+
+
+### § 58f Verwendung von Daten
+
+Die Daten nach den §§ 58a bis 58d dürfen ausschließlich zum Zweck der
+Ermittlung und der Berechnung der Therapiehäufigkeit, der Überwachung
+der Einhaltung der §§ 58a bis 58d und zur Verfolgung und Ahndung von
+Verstößen gegen arzneimittelrechtliche Vorschriften verarbeitet und
+genutzt werden. Abweichend von Satz 1 darf die zuständige Behörde,
+soweit
+
+1.  sie Grund zu der Annahme hat, dass ein Verstoß gegen das Lebensmittel-
+    und Futtermittelrecht, das Tierschutzrecht oder das Tierseuchenrecht
+    vorliegt, die Daten nach den §§ 58a bis 58d an die für die Verfolgung
+    von Verstößen zuständigen Behörden übermitteln, soweit diese Daten für
+    die Verfolgung des Verstoßes erforderlich sind,
+
+
+2.  die Daten nach den §§ 58a bis 58d für die Evaluierung nach § 58g
+    erforderlich sind, diese Daten in anonymisierter Form nach Maßgabe des
+    Satzes 3 über die zuständige oberste Landesbehörde an das
+    Bundesministerium für Ernährung und Landwirtschaft übermitteln.
+
+
+
+Das Bundesministerium für Ernährung und Landwirtschaft gibt im
+Bundesanzeiger die Art der für den Zweck der Evaluierung zu
+übermittelnden Daten und den Zeitpunkt der Übermittlung bekannt. Das
+Bundesministerium für Ernährung und Landwirtschaft und die zuständigen
+obersten Landesbehörden dürfen die ihnen nach Satz 2 Nummer 2
+übermittelten Daten ausschließlich für den Zweck der Evaluierung nach
+§ 58g verarbeiten und nutzen. Die nach Satz 2 Nummer 2 übermittelten
+Daten sind mit Abschluss der Wahlperiode des Deutschen Bundestages, in
+der diesem der Bericht nach § 58g übermittelt worden ist, zu löschen,
+soweit die Daten nicht in den Bericht aufgenommen worden sind.
+
+
+### § 58g Evaluierung
+
+Das Bundesministerium für Ernährung und Landwirtschaft berichtet dem
+Deutschen Bundestag fünf Jahre nach Inkrafttreten dieses Gesetzes über
+die Wirksamkeit der nach den §§ 58a bis 58d getroffenen Maßnahmen.
 
 
 ### § 59 Klinische Prüfung und Rückstandsprüfung bei Tieren, die der Lebensmittelgewinnung dienen
@@ -7557,7 +8609,7 @@ Pharmakologisch wirksame Stoffe, die
     wirksame Stoffe und ihre Einstufung hinsichtlich der
     Rückstandshöchstmengen in Lebensmitteln tierischen Ursprungs (ABl. L
     15 vom 20.1.2010, S. 1), die zuletzt durch die Durchführungsverordnung
-    (EU) Nr. 466/2012 (ABl. L 143 vom 2.6.2012, S. 2) geändert worden ist,
+    (EU) 2016/2074 (ABl. L 320 vom 26.11.2016, S. 29) geändert worden ist,
     oder
 
 
@@ -7585,14 +8637,13 @@ und 50 keine Anwendung.
 der Maßgabe Anwendung, dass der Nachweis einer zweijährigen
 praktischen Tätigkeit nach § 15 Abs. 1 entfällt.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium durch Rechtsverordnung mit Zustimmung des
-Bundesrates die Vorschriften über die Zulassung auf Arzneimittel für
-die in Absatz 1 genannten Tiere auszudehnen, soweit es geboten ist, um
-eine unmittelbare oder mittelbare Gefährdung der Gesundheit von Mensch
-oder Tier zu verhüten.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie und dem Bundesministerium durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Vorschriften über die Zulassung auf
+Arzneimittel für die in Absatz 1 genannten Tiere auszudehnen, soweit
+es geboten ist, um eine unmittelbare oder mittelbare Gefährdung der
+Gesundheit von Mensch oder Tier zu verhüten.
 
 (4) Die zuständige Behörde kann Ausnahmen von § 43 Abs. 5 Satz 1
 zulassen, soweit es sich um die Arzneimittelversorgung der in Absatz 1
@@ -7618,29 +8669,37 @@ hat.
 unmittelbaren oder mittelbaren Gefährdung der Gesundheit von Mensch
 oder Tier die bei der Anwendung von Arzneimitteln auftretenden
 Risiken, insbesondere Nebenwirkungen, Wechselwirkungen mit anderen
-Mitteln, Verfälschungen sowie potenzielle Risiken für die Umwelt auf
-Grund der Anwendung eines Tierarzneimittels, zentral zu erfassen,
-auszuwerten und die nach diesem Gesetz zu ergreifenden Maßnahmen zu
-koordinieren. Sie wirkt dabei mit den Dienststellen der
-Weltgesundheitsorganisation, der Europäischen Arzneimittel-Agentur,
-den Arzneimittelbehörden anderer Länder, den Gesundheits- und
-Veterinärbehörden der Bundesländer, den Arzneimittelkommissionen der
-Kammern der Heilberufe, nationalen Pharmakovigilanzzentren sowie mit
-anderen Stellen zusammen, die bei der Durchführung ihrer Aufgaben
-Arzneimittelrisiken erfassen. Die zuständige Bundesoberbehörde kann
-die Öffentlichkeit über Arzneimittelrisiken und beabsichtigte
-Maßnahmen informieren. Die Bundesoberbehörde betreibt ein
-Pharmakovigilanz-System. Soweit sie für Arzneimittel, die zur
-Anwendung bei Menschen bestimmt sind, zuständig ist, führt sie
-regelmäßig Audits ihres Pharmakovigilanz-Systems durch und erstattet
-der Europäischen Kommission alle zwei Jahre Bericht, erstmals zum 21.
-September 2013.
+Mitteln, Risiken durch gefälschte Arzneimittel oder gefälschte
+Wirkstoffe sowie potenzielle Risiken für die Umwelt auf Grund der
+Anwendung eines Tierarzneimittels, zentral zu erfassen, auszuwerten
+und die nach diesem Gesetz zu ergreifenden Maßnahmen zu koordinieren.
+Sie wirkt dabei mit den Dienststellen der Weltgesundheitsorganisation,
+der Europäischen Arzneimittel-Agentur, den Arzneimittelbehörden
+anderer Länder, den Gesundheits- und Veterinärbehörden der
+Bundesländer, den Arzneimittelkommissionen der Kammern der Heilberufe,
+nationalen Pharmakovigilanzzentren sowie mit anderen Stellen zusammen,
+die bei der Durchführung ihrer Aufgaben Arzneimittelrisiken erfassen.
+Die zuständige Bundesoberbehörde kann die Öffentlichkeit über
+Arzneimittelrisiken und beabsichtigte Maßnahmen informieren. Die
+Bundesoberbehörde betreibt ein Pharmakovigilanz-System. Soweit sie für
+Arzneimittel, die zur Anwendung bei Menschen bestimmt sind, zuständig
+ist, führt sie regelmäßig Audits ihres Pharmakovigilanz-Systems durch
+und erstattet der Europäischen Kommission alle zwei Jahre Bericht,
+erstmals zum 21. September 2013.
 
 (2) Die zuständige Bundesoberbehörde erfasst alle Verdachtsfälle von
 Nebenwirkungen, von denen sie Kenntnis erlangt. Meldungen von
 Patienten und Angehörigen der Gesundheitsberufe können in jeder Form,
 insbesondere auch elektronisch, erfolgen. Meldungen von Inhabern der
-Zulassung nach § 63c erfolgen elektronisch.
+Zulassung nach § 63c erfolgen elektronisch. Die zuständige
+Bundesoberbehörde stellt durch Sammeln von Informationen und
+erforderlichenfalls durch Nachverfolgung von Berichten über vermutete
+Nebenwirkungen sicher, dass alle geeigneten Maßnahmen getroffen
+werden, um sämtliche biologische Arzneimittel, die im Geltungsbereich
+dieses Gesetzes verschrieben, abgegeben oder verkauft werden und über
+die Verdachtsfälle von Nebenwirkungen berichtet wurden, klar zu
+identifizieren, wobei der Name des Arzneimittels und die Nummer der
+Herstellungscharge genau angegeben werden sollen.
 
 (3) Die zuständige Bundesoberbehörde hat bei Arzneimitteln, die zur
 Anwendung bei Menschen bestimmt sind, jeden ihr gemeldeten und im
@@ -7648,12 +8707,11 @@ Inland aufgetretenen Verdachtsfall einer schwerwiegenden Nebenwirkung
 innerhalb von 15 Tagen und jeden ihr gemeldeten und im Inland
 aufgetretenen Verdachtsfall einer nicht schwerwiegenden Nebenwirkung
 innerhalb von 90 Tagen elektronisch an die Datenbank nach Artikel 24
-der Verordnung (EG) Nr. 726/2004 (EudraVigilance-Datenbank) und
-erforderlichenfalls an den Inhaber der Zulassung zu übermitteln. Die
-zuständige Bundesoberbehörde hat bei Arzneimitteln, die zur Anwendung
-bei Tieren bestimmt sind, jeden ihr gemeldeten und im Inland
-aufgetretenen Verdachtsfall einer schwerwiegenden Nebenwirkung
-unverzüglich, spätestens aber innerhalb von 15 Tagen nach
+der Verordnung (EG) Nr. 726/2004 (EudraVigilance-Datenbank) zu
+übermitteln. Die zuständige Bundesoberbehörde hat bei Arzneimitteln,
+die zur Anwendung bei Tieren bestimmt sind, jeden ihr gemeldeten und
+im Inland aufgetretenen Verdachtsfall einer schwerwiegenden
+Nebenwirkung unverzüglich, spätestens aber innerhalb von 15 Tagen nach
 Bekanntwerden, an die Europäische Arzneimittel-Agentur und an den
 Inhaber der Zulassung, wenn dieser noch keine Kenntnis hat, zu
 übermitteln. Die zuständige Bundesoberbehörde arbeitet mit der
@@ -7820,27 +8878,34 @@ nicht irreführender Weise dargelegt werden.
 (1) Der Inhaber der Zulassung hat Unterlagen über alle Verdachtsfälle
 von Nebenwirkungen sowie Angaben über abgegebene Mengen zu führen.
 
-(2) Der Inhaber der Zulassung hat ferner
+(2) Der Inhaber der Zulassung übermittelt alle Informationen über
+sämtliche Verdachtsfälle von
 
-1.  jeden ihm bekannt gewordenen Verdachtsfall einer schwerwiegenden
-    Nebenwirkung, der im Inland aufgetreten ist, zu erfassen und der
-    zuständigen Bundesoberbehörde unverzüglich, spätestens aber innerhalb
-    von 15 Tagen nach Bekanntwerden,
+1.  schwerwiegenden Nebenwirkungen, die im In- oder Ausland auftreten,
+    innerhalb von 15 Tagen,
 
 
-2.  jeden ihm bekannt gewordenen Verdachtsfall einer schwerwiegenden
-    Nebenwirkung, der in einem Drittland aufgetreten ist, zu erfassen und
-    der zuständigen Bundesoberbehörde sowie der Europäischen Arzneimittel-
-    Agentur unverzüglich, spätestens aber innerhalb von 15 Tagen nach
-    Bekanntwerden
+2.  nicht schwerwiegenden Nebenwirkungen, die im Inland oder einem
+    Mitgliedstaat der Europäischen Union auftreten, innerhalb von 90 Tagen
 
 
 
-elektronisch anzuzeigen. Die zuständige Bundesoberbehörde kann vom
-Inhaber der Zulassung verlangen, auch Verdachtsfälle von nicht
-schwerwiegenden Nebenwirkungen, die im Inland aufgetreten sind, zu
-erfassen und ihr unverzüglich, spätestens aber innerhalb von 90 Tagen
-nach Bekanntwerden, elektronisch anzuzeigen.
+nach Bekanntwerden elektronisch an die EudraVigilance-Datenbank nach
+Artikel 24 der Verordnung (EG) Nr. 726/2004. Bei Arzneimitteln mit
+Wirkstoffen, auf die sich die Liste von Veröffentlichungen bezieht,
+die die Europäische Arzneimittel-Agentur gemäß Artikel 27 der
+Verordnung (EG) Nr. 726/2004 auswertet, muss der Inhaber der Zulassung
+die in der angeführten medizinischen Fachliteratur verzeichneten
+Verdachtsfälle von Nebenwirkungen nicht an die EudraVigilance-
+Datenbank übermitteln; er muss aber die anderweitige medizinische
+Fachliteratur auswerten und alle Verdachtsfälle über Nebenwirkungen
+entsprechend Satz 1 melden. Inhaber der Registrierung nach § 38 oder §
+39a oder pharmazeutische Unternehmer, die nicht Inhaber der
+Registrierung nach § 38 oder nach § 39a sind und die ein von der
+Pflicht zur Registrierung freigestelltes homöopathisches Arzneimittel
+oder ein traditionell pflanzliches Arzneimittel in den Verkehr
+bringen, übermitteln Informationen nach Satz 1 an die zuständige
+Bundesoberbehörde.
 
 (3) Der Inhaber der Zulassung muss gewährleisten, dass alle
 Verdachtsmeldungen von Nebenwirkungen bei Arzneimitteln, die zur
@@ -7888,18 +8953,15 @@ die von der Europäischen Gemeinschaft oder der Europäischen Union eine
 Genehmigung für das Inverkehrbringen erteilt worden ist. Für diese
 Arzneimittel gelten die Verpflichtungen des pharmazeutischen
 Unternehmers nach der Verordnung (EG) Nr. 726/2004 in der jeweils
-geltenden Fassung mit der Maßgabe, dass im Geltungsbereich des
-Gesetzes die Verpflichtung zur Mitteilung an die Mitgliedstaaten oder
-zur Unterrichtung der Mitgliedstaaten gegenüber der jeweils
-zuständigen Bundesoberbehörde besteht. Bei Arzneimitteln, bei denen
-eine Zulassung der zuständigen Bundesoberbehörde Grundlage der
-gegenseitigen Anerkennung ist oder bei denen eine Bundesoberbehörde
-Berichterstatter in einem Schiedsverfahren nach Artikel 32 der
-Richtlinie 2001/83/EG ist, übernimmt die zuständige Bundesoberbehörde
-die Verantwortung für die Analyse und Überwachung aller Verdachtsfälle
-schwerwiegender Nebenwirkungen, die in der Europäischen Union
-auftreten; dies gilt auch für Arzneimittel, die im dezentralisierten
-Verfahren zugelassen worden sind.
+geltenden Fassung. Bei Arzneimitteln, bei denen eine Zulassung der
+zuständigen Bundesoberbehörde Grundlage der gegenseitigen Anerkennung
+ist oder bei denen eine Bundesoberbehörde Berichterstatter in einem
+Schiedsverfahren nach Artikel 32 der Richtlinie 2001/83/EG ist,
+übernimmt die zuständige Bundesoberbehörde die Verantwortung für die
+Analyse und Überwachung aller Verdachtsfälle schwerwiegender
+Nebenwirkungen, die in der Europäischen Union auftreten; dies gilt
+auch für Arzneimittel, die im dezentralisierten Verfahren zugelassen
+worden sind.
 
 
 ### § 63d Regelmäßige aktualisierte Unbedenklichkeitsberichte
@@ -7927,8 +8989,27 @@ Unbedenklichkeitsberichte, die Folgendes enthalten:
 
 
 
-(2) Die Unbedenklichkeitsberichte sind elektronisch an die zuständige
-Bundesoberbehörde zu übermitteln.
+(2) Die Übermittlung der regelmäßigen aktualisierten
+Unbedenklichkeitsberichte hat elektronisch zu erfolgen
+
+1.  bei Arzneimitteln, bei denen Vorlageintervall und -termine in der
+    Zulassung oder gemäß dem Verfahren nach Artikel 107c Absatz 4, 5 und 6
+    der Richtlinie 2001/83/EG festgelegt sind, an die Europäische
+    Arzneimittel-Agentur,
+
+
+2.  bei Arzneimitteln, die vor dem 26. Oktober 2012 zugelassen wurden und
+    bei denen Vorlageintervall und -termine nicht in der Zulassung
+    festgelegt sind, an die zuständige Bundesoberbehörde,
+
+
+3.  bei Arzneimitteln, die nur im Inland zugelassen wurden und bei denen
+    nicht nach Artikel 107c Absatz 4 der Richtlinie 2001/83/EG
+    Vorlageintervall und -termine in der Zulassung festgelegt sind, an die
+    zuständige Bundesoberbehörde.
+
+
+
 
 (3) Das Vorlageintervall für regelmäßige aktualisierte
 Unbedenklichkeitsberichte nach Absatz 1 wird in der Zulassung
@@ -8060,9 +9141,23 @@ Krankenversicherung e. V. unverzüglich anzuzeigen. Dabei sind Ort,
 Zeit, Ziel und Protokoll der Prüfung sowie Name und lebenslange
 Arztnummer der beteiligten Ärzte anzugeben. Sofern beteiligte Ärzte
 Leistungen zu Lasten der gesetzlichen Krankenversicherung erbringen,
-sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der an sie
-geleisteten Entschädigungen anzugeben und ist jeweils eine
-Ausfertigung der mit ihnen geschlossenen Verträge zu übermitteln.
+sind bei Anzeigen nach Satz 1 auch die Art und die Höhe der jeweils an
+sie tatsächlich geleisteten Entschädigungen anzugeben sowie jeweils
+eine Ausfertigung der mit ihnen geschlossenen Verträge und jeweils
+eine Darstellung des Aufwandes für die beteiligten Ärzte und eine
+Begründung für die Angemessenheit der Entschädigung zu übermitteln.
+Sofern sich bei den in Satz 3 genannten Informationen Änderungen
+ergeben, sind die jeweiligen Informationen nach Satz 3 vollständig in
+der geänderten, aktualisierten Form innerhalb von vier Wochen nach
+jedem Quartalsende zu übermitteln; die tatsächlich geleisteten
+Entschädigungen sind mit Zuordnung zu beteiligten Ärzten namentlich
+mit Angabe der lebenslangen Arztnummer zu übermitteln. Innerhalb eines
+Jahres nach Abschluss der Datenerfassung sind unter Angabe der
+insgesamt beteiligten Ärzte die Anzahl der jeweils und insgesamt
+beteiligten Patienten und Art und Höhe der jeweils und insgesamt
+geleisteten Entschädigungen zu übermitteln. Die Angaben nach diesem
+Absatz sind entsprechend den Formatvorgaben nach § 67 Absatz 6 Satz 13
+elektronisch zu übermitteln.
 
 
 ### § 63g Besondere Voraussetzungen für angeordnete nichtinterventionelle Unbedenklichkeitsprüfungen
@@ -8285,14 +9380,22 @@ Verfahren zugelassen worden sind.
 
 ### § 63i Dokumentations- und Meldepflichten bei Blut- und Gewebezubereitungen und Gewebe
 
-(1) Der Inhaber einer Zulassung oder Genehmigung für Blutzubereitungen
-im Sinne von Artikel 3 Nummer 6 der Richtlinie 2001/83/EG oder einer
-Genehmigung für Gewebezubereitungen im Sinne von § 21a hat Unterlagen
-über Verdachtsfälle von schwerwiegenden Zwischenfällen oder
-schwerwiegenden unerwünschten Reaktionen, die in den Mitgliedstaaten
-der Europäischen Union oder in den Vertragsstaaten des Abkommens über
-den Europäischen Wirtschaftsraum oder in einem Drittland aufgetreten
-sind, sowie über die Anzahl der Rückrufe zu führen.
+(1) Der Inhaber einer Zulassung für Blutzubereitungen im Sinne von
+Artikel 3 Nummer 6 der Richtlinie 2001/83/EG oder einer Zulassung oder
+Genehmigung für Gewebezubereitungen oder für hämatopoetische
+Stammzellzubereitungen im Sinne der Richtlinie 2004/23/EG des
+Europäischen Parlaments und des Rates vom 31. März 2004 zur Festlegung
+von Qualitäts- und Sicherheitsstandards für die Spende, Beschaffung,
+Testung, Verarbeitung, Konservierung, Lagerung und Verteilung von
+menschlichen Geweben und Zellen (ABl. L 102 vom 7.4.2004, S. 48), die
+zuletzt durch die Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom
+18\.7.2009, S. 14) geändert worden ist, oder einer Zulassung für
+Gewebezubereitungen im Sinne von § 21 hat Unterlagen zu führen über
+Verdachtsfälle von schwerwiegenden Zwischenfällen oder schwerwiegenden
+unerwünschten Reaktionen, die in einem Mitgliedstaat der Europäischen
+Union oder in einem Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum oder in einem Drittstaat aufgetreten sind, und die
+Anzahl der Rückrufe.
 
 (2) Der Inhaber einer Zulassung oder Genehmigung für Blut- oder
 Gewebezubereitungen im Sinne von Absatz 1 hat ferner jeden Verdacht
@@ -8307,28 +9410,39 @@ Gewebezubereitung, Tag und Dokumentation des Auftretens des Verdachts
 des schwerwiegenden Zwischenfalls oder der schwerwiegenden
 unerwünschten Reaktion, Tag und Ort der Blutbestandteile- oder
 Gewebeentnahme, belieferte Betriebe oder Einrichtungen sowie Angaben
-zu der spendenden Person. Die nach Satz 1 angezeigten Zwischenfälle
-oder Reaktionen sind auf ihre Ursache und Auswirkung zu untersuchen
-und zu bewerten und die Ergebnisse der zuständigen Bundesoberbehörde
-unverzüglich mitzuteilen, ebenso die Maßnahmen zur Rückverfolgung und
-zum Schutz der Spender und Empfänger.
+zu der spendenden Person. Bei Gewebezubereitungen und hämatopoetischen
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut ist außerdem der EU-Gewebeeinrichtungs-Code, sofern
+vorhanden, und ist bei der Meldung eines Verdachts einer
+schwerwiegenden unerwünschten Reaktion ferner der Einheitliche
+Europäische Code, sofern vorhanden, anzugeben. Die nach Satz 1
+angezeigten Zwischenfälle oder Reaktionen sind auf ihre Ursache und
+Auswirkung zu untersuchen und zu bewerten und die Ergebnisse der
+zuständigen Bundesoberbehörde unverzüglich mitzuteilen, ebenso die
+Maßnahmen zur Rückverfolgung und zum Schutz der Spender und Empfänger.
 
 (3) Die Blut- und Plasmaspendeeinrichtungen oder die
 Gewebeeinrichtungen haben bei nicht zulassungs- oder
 genehmigungspflichtigen Blut- oder Gewebezubereitungen sowie bei Blut
 und Blutbestandteilen und bei Gewebe jeden Verdacht eines
 schwerwiegenden Zwischenfalls und jeden Verdacht einer schwerwiegenden
-unerwünschten Reaktion unverzüglich der zuständigen Behörde zu melden.
-Die Meldung muss alle notwendigen Angaben wie Name oder Firma und
-Anschrift der Spende- oder Gewebeeinrichtung, Bezeichnung und Nummer
-oder Kennzeichnungscode der Blut- oder Gewebezubereitung, Tag und
-Dokumentation des Auftretens des Verdachts des schwerwiegenden
-Zwischenfalls oder der schwerwiegenden unerwünschten Reaktion, Tag der
-Herstellung der Blut- oder Gewebezubereitung sowie Angaben zu der
-spendenden Person enthalten. Absatz 2 Satz 3 gilt entsprechend. Die
-zuständige Behörde leitet die Meldungen nach den Sätzen 1 und 2 sowie
-die Mitteilungen nach Satz 3 an die zuständige Bundesoberbehörde
-weiter.
+unerwünschten Reaktion zu dokumentieren und unverzüglich der
+zuständigen Behörde zu melden. Die Meldung muss alle notwendigen
+Angaben wie Name oder Firma und Anschrift der Spende- oder
+Gewebeeinrichtung, Bezeichnung und Nummer oder Kennzeichnungscode der
+Blut- oder Gewebezubereitung, Tag und Dokumentation des Auftretens des
+Verdachts des schwerwiegenden Zwischenfalls oder der schwerwiegenden
+unerwünschten Reaktion, Tag der Herstellung der Blut- oder
+Gewebezubereitung sowie Angaben zu der spendenden Person enthalten.
+Bei Geweben und Gewebezubereitungen sowie bei hämatopoetischen
+Stammzellen und Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut ist außerdem der EU-Gewebeeinrichtungs-Code,
+sofern vorhanden, und ist bei der Meldung eines Verdachts einer
+schwerwiegenden unerwünschten Reaktion ferner der Einheitliche
+Europäische Code, sofern vorhanden, anzugeben. Absatz 2 Satz 4 gilt
+entsprechend. Die zuständige Behörde leitet die Meldungen nach den
+Sätzen 1 bis 3 sowie die Mitteilungen nach Satz 4 an die zuständige
+Bundesoberbehörde weiter.
 
 (4) Der Inhaber einer Zulassung oder Genehmigung für Blut- oder
 Gewebezubereitungen im Sinne von Absatz 1 hat auf der Grundlage der in
@@ -8340,20 +9454,23 @@ schwerwiegender unerwünschter Reaktionen betroffen sind, mindestens
 einmal jährlich vorzulegen. Satz 1 gilt nicht für den
 Parallelimporteur.
 
-(5) § 62 Absatz 6 gilt für Blut- und Plasmaspendeeinrichtungen oder
-für Gewebeeinrichtungen entsprechend; § 63b Absatz 3 gilt für die
-Inhaber einer Zulassung von Blut- oder Gewebezubereitungen
-entsprechend.
+(5) § 62 Absatz 1, 2 Satz 1 und 2, Absatz 4 und 6 und § 63 gelten
+entsprechend. Die §§ 63a und 63b Absatz 1 und 2 gelten für den Inhaber
+einer Zulassung für Blut- oder Gewebezubereitungen entsprechend. Das
+Nähere regelt die Arzneimittel- und Wirkstoffherstellungsverordnung;
+die allgemeine Verwaltungsvorschrift nach § 63 Satz 1 findet
+Anwendung. Im Übrigen finden die §§ 62 bis 63h keine Anwendung.
 
 (6) Schwerwiegender Zwischenfall im Sinne der vorstehenden
 Vorschriften ist jedes unerwünschte Ereignis im Zusammenhang mit der
 Gewinnung, Untersuchung, Aufbereitung, Be- oder Verarbeitung,
-Konservierung, Aufbewahrung oder Abgabe von Geweben oder
-Blutzubereitungen, das die Übertragung einer ansteckenden Krankheit,
-den Tod oder einen lebensbedrohenden Zustand, eine Behinderung oder
-einen Fähigkeitsverlust von Patienten zur Folge haben könnte oder
-einen Krankenhausaufenthalt erforderlich machen oder verlängern könnte
-oder zu einer Erkrankung führen oder diese verlängern könnte. Als
+Konservierung, Aufbewahrung oder Abgabe von Blut und
+Blutbestandteilen, Geweben, Gewebe- oder Blutzubereitungen, das die
+Übertragung einer ansteckenden Krankheit, den Tod oder einen
+lebensbedrohenden Zustand, eine Behinderung oder einen
+Fähigkeitsverlust von Patienten zur Folge haben könnte oder einen
+Krankenhausaufenthalt erforderlich machen oder verlängern könnte oder
+zu einer Erkrankung führen oder diese verlängern könnte. Als
 schwerwiegender Zwischenfall gilt auch jede fehlerhafte
 Identifizierung oder Verwechslung von Keimzellen oder imprägnierten
 Eizellen im Rahmen von Maßnahmen einer medizinisch unterstützten
@@ -8368,6 +9485,15 @@ verläuft, eine Behinderung oder einen Fähigkeitsverlust zur Folge hat
 oder einen Krankenhausaufenthalt erforderlich macht oder verlängert
 oder zu einer Erkrankung führt oder diese verlängert.
 
+(8) Der Inhaber einer Zulassung oder Genehmigung für Blut- oder
+Gewebezubereitungen im Sinne von Absatz 1 darf im Zusammenhang mit dem
+zugelassenen oder genehmigten Arzneimittel keine Informationen, die
+die Hämo- oder Gewebevigilanz betreffen, ohne vorherige oder
+gleichzeitige Mitteilung an die zuständige Bundesoberbehörde und an
+die Europäische Kommission öffentlich bekannt machen. Er stellt
+sicher, dass solche Informationen in objektiver und nicht
+irreführender Weise öffentlich bekannt gemacht werden.
+
 
 ### § 63j Ausnahmen
 
@@ -8375,8 +9501,8 @@ oder zu einer Erkrankung führt oder diese verlängert.
 Arzneimittel, die im Rahmen einer klinischen Prüfung als Prüfpräparate
 eingesetzt werden.
 
-(2) § 63b, mit Ausnahme der Absätze 1 und 3, die §§ 63d, 63e, 63f und
-63g finden keine Anwendung auf Arzneimittel, die zur Anwendung bei
+(2) § 63b, mit Ausnahme der Absätze 1 und 3, die §§ 63c, 63d, 63e, 63f
+und 63g finden keine Anwendung auf Arzneimittel, die zur Anwendung bei
 Tieren bestimmt sind.
 
 
@@ -8387,28 +9513,36 @@ Tieren bestimmt sind.
 ### § 64 Durchführung der Überwachung
 
 (1) Betriebe und Einrichtungen, in denen Arzneimittel hergestellt,
-geprüft, gelagert, verpackt oder in den Verkehr gebracht werden oder
-in denen sonst mit ihnen Handel getrieben wird, unterliegen insoweit
-der Überwachung durch die zuständige Behörde; das Gleiche gilt für
-Betriebe und Einrichtungen, die Arzneimittel entwickeln, klinisch
-prüfen, einer Rückstandsprüfung unterziehen oder Arzneimittel nach §
-47a Abs. 1 Satz 1 oder zur Anwendung bei Tieren bestimmte Arzneimittel
-erwerben oder anwenden. Die Entwicklung, Herstellung, Prüfung,
-Lagerung, Verpackung und das Inverkehrbringen von Wirkstoffen und
-anderen zur Arzneimittelherstellung bestimmten Stoffen und von Gewebe
-sowie der sonstige Handel mit diesen Wirkstoffen und Stoffen
-unterliegen der Überwachung, soweit sie durch eine Rechtsverordnung
-nach § 54, nach § 12 des Transfusionsgesetzes oder nach § 16a des
-Transplantationsgesetzes geregelt sind. Im Falle des § 14 Absatz 4
-Nummer 4 und des § 20b Abs. 2 unterliegen die Entnahmeeinrichtungen
-und die Labore der Überwachung durch die für sie örtlich zuständige
-Behörde. Satz 1 gilt auch für Personen, die diese Tätigkeiten
-berufsmäßig ausüben oder Arzneimittel nicht ausschließlich für den
-Eigenbedarf mit sich führen, für den Sponsor einer klinischen Prüfung
-oder seinen Vertreter nach § 40 Abs. 1 Satz 3 Nr. 1 sowie für Personen
-oder Personenvereinigungen, die Arzneimittel für andere sammeln. Satz
-1 findet keine Anwendung auf die Rekonstitution, soweit es sich nicht
-um Arzneimittel handelt, die zur klinischen Prüfung bestimmt sind.
+geprüft, gelagert, verpackt oder in den Verkehr gebracht werden, in
+denen sonst mit ihnen Handel getrieben wird
+oder die Arzneimittel einführen oder in denen mit den genannten
+Tätigkeiten im Zusammenhang stehende Aufzeichnungen aufbewahrt werden,
+unterliegen insoweit der Überwachung durch die zuständige Behörde; das
+Gleiche gilt für Betriebe und Einrichtungen, die Arzneimittel
+entwickeln, klinisch prüfen, einer Rückstandsprüfung unterziehen oder
+Arzneimittel nach § 47a Abs. 1 Satz 1 oder zur Anwendung bei Tieren
+bestimmte Arzneimittel erwerben oder anwenden oder in denen mit den
+genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen
+aufbewahrt werden. Die Entwicklung, Herstellung, Prüfung, Lagerung,
+Verpackung, Einfuhr und das Inverkehrbringen von Wirkstoffen und
+anderen zur Arzneimittelherstellung bestimmten Stoffen und von Gewebe,
+der sonstige Handel mit diesen Wirkstoffen und Stoffen sowie die mit
+den genannten Tätigkeiten im Zusammenhang stehende Aufbewahrung von
+Aufzeichnungen unterliegen der Überwachung, soweit sie durch eine
+Rechtsverordnung nach § 54, nach § 12 des Transfusionsgesetzes oder
+nach § 16a des Transplantationsgesetzes geregelt sind. Im Fall des §
+14 Absatz 4 Nummer 4 und des § 20b Absatz 2 unterliegen die
+Entnahmeeinrichtungen und Labore der Überwachung durch die für sie
+örtlich zuständige Behörde; im Fall des § 20c Absatz 2 Satz 2
+unterliegen die beauftragten Betriebe der Überwachung durch die für
+sie örtlich zuständige Behörde. Satz 1 gilt auch für Personen, die
+diese Tätigkeiten berufsmäßig ausüben oder Arzneimittel nicht
+ausschließlich für den Eigenbedarf mit sich führen, für den Sponsor
+einer klinischen Prüfung oder seinen Vertreter nach § 40 Abs. 1 Satz 3
+Nr. 1 sowie für Personen oder Personenvereinigungen, die Arzneimittel
+für andere sammeln. Satz 1 findet keine Anwendung auf die
+Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur
+klinischen Prüfung bestimmt sind.
 
 (2) Die mit der Überwachung beauftragten Personen müssen diese
 Tätigkeit hauptberuflich ausüben. Die zuständige Behörde kann
@@ -8426,8 +9560,8 @@ bedürfen, kann die zuständige Behörde Sachverständige mit der
 
 (3) Die zuständige Behörde hat sich davon zu überzeugen, dass die
 Vorschriften über Arzneimittel, Wirkstoffe und andere zur
-Arzneimittelherstellung bestimmte Stoffe, über die Werbung auf dem
-Gebiete des Heilwesens, des Zweiten Abschnitts des
+Arzneimittelherstellung bestimmte Stoffe sowie über Gewebe, über die
+Werbung auf dem Gebiete des Heilwesens, des Zweiten Abschnitts des
 Transfusionsgesetzes, der Abschnitte 2, 3 und 3a des
 Transplantationsgesetzes und über das Apothekenwesen beachtet werden.
 Sie hat dafür auf der Grundlage eines Überwachungssystems unter
@@ -8438,11 +9572,11 @@ festzulegen. Sie hat auch Arzneimittelproben amtlich untersuchen zu
 lassen.
 
 (3a) Betriebe und Einrichtungen, die einer Erlaubnis nach den §§ 13,
-20c, 72 oder § 72b Absatz 1 bedürfen, sowie tierärztliche
+20c, 72, 72b Absatz 1 oder § 72c bedürfen, sowie tierärztliche
 Hausapotheken sind in der Regel alle zwei Jahre nach Absatz 3 zu
 überprüfen. Die zuständige Behörde erteilt die Erlaubnis nach den §§
-13, 20c, 52a, 72 oder § 72b Absatz 1 erst, wenn sie sich durch eine
-Inspektion davon überzeugt hat, dass die Voraussetzungen für die
+13, 20c, 52a, 72, 72b Absatz 1 oder § 72c erst, wenn sie sich durch
+eine Inspektion davon überzeugt hat, dass die Voraussetzungen für die
 Erlaubniserteilung vorliegen.
 
 (3b) Die zuständige Behörde führt die Inspektionen zur Überwachung der
@@ -8489,25 +9623,63 @@ Guten Herstellungspraxis oder der Guten Vertriebspraxis wird den
 überprüften Betrieben, Einrichtungen oder Personen ein Zertifikat
 ausgestellt, wenn die Inspektion zu dem Ergebnis geführt hat, dass die
 entsprechenden Grundsätze und Leitlinien eingehalten werden. Die
-Gültigkeitsdauer des Zertifikats soll drei Jahre nicht überschreiten.
-Das Zertifikat ist zurückzunehmen, wenn nachträglich bekannt wird,
-dass die Voraussetzungen nicht vorgelegen haben; es ist zu widerrufen,
-wenn die Voraussetzungen nicht mehr gegeben sind.
+Gültigkeitsdauer des Zertifikates über die Einhaltung der Grundsätze
+und Leitlinien der Guten Herstellungspraxis soll drei Jahre, die des
+Zertifikates über die Einhaltung der Grundsätze und Leitlinien der
+Guten Vertriebspraxis fünf Jahre nicht überschreiten. Das Zertifikat
+ist zurückzunehmen, wenn nachträglich bekannt wird, dass die
+Voraussetzungen nicht vorgelegen haben; es ist zu widerrufen, wenn die
+Voraussetzungen nicht mehr gegeben sind.
 
 (3g) Die Angaben über die Ausstellung, die Versagung, die Rücknahme
-oder den Widerruf des Zertifikats nach Absatz 3f sind in eine
+oder den Widerruf eines Zertifikates über die Einhaltung der
+Grundsätze und Leitlinien der Guten Herstellungspraxis sind in eine
 Datenbank nach § 67a einzugeben. Das gilt auch für die Erteilung, die
-Rücknahme, den Widerruf oder das Ruhen einer Erlaubnis nach den §§ 13,
-20b, 20c, 52a, 72 oder § 72b Absatz 1 sowie für die Registrierung und
-Löschung von Arzneimittelvermittlern oder von Betrieben und
-Einrichtungen, die Wirkstoffe herstellen, einführen oder sonst mit
-ihnen Handel treiben, ohne einer Erlaubnis zu bedürfen.
+Rücknahme, den Widerruf oder das Ruhen einer Erlaubnis nach § 13 oder
+§ 72 Absatz 1 und 2 sowie für die Registrierung und Löschung von
+Arzneimittelvermittlern oder von Betrieben und Einrichtungen, die
+Wirkstoffe herstellen, einführen oder sonst mit ihnen Handel treiben,
+ohne einer Erlaubnis zu bedürfen. Die Angaben über die Ausstellung,
+die Versagung, die Rücknahme oder den Widerruf einer Erlaubnis nach §
+52a sowie eines Zertifikates über die Einhaltung der Grundsätze und
+Leitlinien der Guten Vertriebspraxis sind in eine Datenbank der
+Europäischen Arzneimittel-Agentur nach Artikel 111 Absatz 6 der
+Richtlinie 2001/83/EG einzugeben.
 
 (3h) Die Absätze 3b, 3c und 3e bis 3g finden keine Anwendung auf
 tierärztliche Hausapotheken sowie auf Betriebe und Einrichtungen, die
 ausschließlich Fütterungsarzneimittel herstellen. Darüber hinaus
 findet Absatz 3d Satz 2 auf tierärztliche Hausapotheken keine
 Anwendung.
+
+(3i) Abweichend von Absatz 3c hat die zuständige Behörde über ein
+begründetes Ersuchen eines anderen Mitgliedstaates der Europäischen
+Union zu entscheiden, in den Gewebe oder Gewebezubereitungen verbracht
+werden sollen, die zuvor in den Geltungsbereich dieses Gesetzes
+eingeführt wurden, eine einführende Gewebeeinrichtung, die der
+Erlaubnispflicht des § 72b Absatz 1 oder des § 72c Absatz 1
+unterliegt, zu inspizieren oder sonstige Überwachungsmaßnahmen
+durchzuführen. Der andere Mitgliedstaat erhält zuvor Gelegenheit zur
+Stellungnahme. Die Sätze 1 und 2 gelten entsprechend für ein
+begründetes Ersuchen eines anderen Mitgliedstaates der Europäischen
+Union, in den hämatopoetische Stammzellen oder Stammzellzubereitungen
+aus dem peripheren Blut oder aus dem Nabelschnurblut verbracht werden
+sollen, die zuvor in den Geltungsbereich dieses Gesetzes eingeführt
+wurden, eine einführende Einrichtung, die der Erlaubnispflicht nach §
+72 Absatz 4 oder § 72c Absatz 4 Satz 1 in Verbindung mit Absatz 1
+unterliegt, zu inspizieren oder sonstige Überwachungsmaßnahmen
+durchzuführen.
+
+(3j) Im Fall einer Inspektion nach Absatz 3i kann die zuständige
+Behörde auf ein Ersuchen der zuständigen Behörde des anderen
+Mitgliedstaates der Europäischen Union gestatten, dass beauftragte
+Personen dieses Mitgliedstaates die Inspektion begleiten. Eine
+Ablehnung des Ersuchens muss die zuständige Behörde gegenüber der
+zuständigen Behörde des anderen Mitgliedstaates begründen. Die
+begleitenden Personen sind befugt, zusammen mit den mit der
+Überwachung beauftragten Personen Grundstücke, Geschäftsräume,
+Betriebsräume und Beförderungsmittel zu den üblichen Geschäftszeiten
+zu betreten und zu besichtigen.
 
 (4) Die mit der Überwachung beauftragten Personen sind befugt
 
@@ -8522,10 +9694,10 @@ Anwendung.
 
 
 2.  Unterlagen über Entwicklung, Herstellung, Prüfung, klinische Prüfung
-    oder Rückstandsprüfung, Erwerb, Lagerung, Verpackung, Inverkehrbringen
-    und sonstigen Verbleib der Arzneimittel sowie über das im Verkehr
-    befindliche Werbematerial und über die nach § 94 erforderliche
-    Deckungsvorsorge einzusehen,
+    oder Rückstandsprüfung, Erwerb, Einfuhr, Lagerung, Verpackung,
+    Inverkehrbringen und sonstigen Verbleib der Arzneimittel sowie über
+    das im Verkehr befindliche Werbematerial und über die nach § 94
+    erforderliche Deckungsvorsorge einzusehen,
 
 
 2a. Abschriften oder Ablichtungen von Unterlagen nach Nummer 2 oder
@@ -8571,10 +9743,10 @@ Zuständigkeit für Überwachungsaufgaben, die sich auf Grund des
 Verbringens eines Arzneimittels aus einem bestimmten Mitgliedstaat der
 Europäischen Union ergeben, jeweils einem bestimmten Land oder einer
 von den Ländern getragenen Einrichtung zugeordnet werden. Die
-Rechtsverordnung wird vom Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz im Einvernehmen mit dem
-Bundesministerium erlassen, soweit es sich um Arzneimittel handelt,
-die zur Anwendung bei Tieren bestimmt sind.
+Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium erlassen,
+soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
+bestimmt sind.
 
 
 ### § 65 Probenahme
@@ -8651,32 +9823,35 @@ Absatz 5 Satz 4 oder Absatz 8 Satz 2 und 3 oder nach § 62 Absatz 6.
 
 (1) Betriebe und Einrichtungen, die Arzneimittel entwickeln,
 herstellen, klinisch prüfen oder einer Rückstandsprüfung unterziehen,
-prüfen, lagern, verpacken, in den Verkehr bringen oder sonst mit ihnen
-Handel treiben, haben dies vor der Aufnahme der Tätigkeiten der
-zuständigen Behörde, bei einer klinischen Prüfung bei Menschen auch
-der zuständigen Bundesoberbehörde, anzuzeigen. Satz 1 gilt
-entsprechend für Einrichtungen, die Gewebe gewinnen, die die für die
-Gewinnung erforderliche Laboruntersuchung durchführen, Gewebe be- oder
-verarbeiten, konservieren, prüfen, lagern oder in Verkehr bringen. Die
-Entwicklung von Arzneimitteln ist anzuzeigen, soweit sie durch eine
-Rechtsverordnung nach § 54 geregelt ist. Das Gleiche gilt für
-Personen, die diese Tätigkeiten selbständig und berufsmäßig ausüben,
-sowie für Personen oder Personenvereinigungen, die Arzneimittel für
-andere sammeln. In der Anzeige sind die Art der Tätigkeit und die
-Betriebsstätte anzugeben; werden Arzneimittel gesammelt, so ist das
-Nähere über die Art der Sammlung und über die Lagerstätte anzugeben.
-Ist nach Satz 1 eine klinische Prüfung bei Menschen anzuzeigen, so
-sind der zuständigen Behörde auch deren Sponsor, sofern vorhanden
-dessen Vertreter nach § 40 Absatz 1 Satz 3 Nummer 1 sowie der Prüfer
-und sein Stellvertreter, soweit erforderlich auch mit Angabe der
-Stellung als Leiter der klinischen Prüfung, namentlich zu benennen.
-Die Sätze 1 bis 4 gelten entsprechend für Betriebe und Einrichtungen,
-die Wirkstoffe oder andere zur Arzneimittelherstellung bestimmte
-Stoffe herstellen, prüfen, lagern, verpacken in den Verkehr bringen
-oder sonst mit ihnen Handel treiben, soweit diese Tätigkeiten durch
-eine Rechtsverordnung nach § 54 geregelt sind. Satz 1 findet keine
-Anwendung auf die Rekonstitution, soweit es sich nicht um Arzneimittel
-handelt, die zur klinischen Prüfung bestimmt sind.
+prüfen, lagern, verpacken, einführen, in den Verkehr bringen oder
+sonst mit ihnen Handel treiben, haben dies vor der Aufnahme der
+Tätigkeiten der zuständigen Behörde, bei einer klinischen Prüfung bei
+Menschen auch der zuständigen Bundesoberbehörde, anzuzeigen. Satz 1
+gilt entsprechend für Einrichtungen, die Gewebe gewinnen, die die für
+die Gewinnung erforderliche Laboruntersuchung durchführen, Gewebe be-
+oder verarbeiten, konservieren, prüfen, lagern, einführen oder in
+Verkehr bringen. Die Entwicklung von Arzneimitteln ist anzuzeigen,
+soweit sie durch eine Rechtsverordnung nach § 54 geregelt ist. Das
+Gleiche gilt für Personen, die diese Tätigkeiten selbständig und
+berufsmäßig ausüben, sowie für Personen oder Personenvereinigungen,
+die Arzneimittel für andere sammeln. In der Anzeige sind die Art der
+Tätigkeit und die Betriebsstätte anzugeben; werden Arzneimittel
+gesammelt, so ist das Nähere über die Art der Sammlung und über die
+Lagerstätte anzugeben. Ist nach Satz 1 eine klinische Prüfung bei
+Menschen anzuzeigen, so sind der zuständigen Behörde auch deren
+Sponsor, sofern vorhanden dessen Vertreter nach § 40 Absatz 1 Satz 3
+Nummer 1 sowie der Prüfer und sein Stellvertreter, soweit erforderlich
+auch mit Angabe der Stellung als Leiter der klinischen Prüfung,
+namentlich zu benennen. Die Sätze 1 bis 5 gelten entsprechend für
+Betriebe und Einrichtungen, die Wirkstoffe oder andere zur
+Arzneimittelherstellung bestimmte Stoffe herstellen, prüfen, lagern,
+verpacken, einführen, in den Verkehr bringen oder sonst mit ihnen
+Handel treiben, soweit diese Tätigkeiten durch eine Rechtsverordnung
+nach § 54 geregelt sind. Satz 1 findet keine Anwendung auf die
+Rekonstitution, soweit es sich nicht um Arzneimittel handelt, die zur
+klinischen Prüfung bestimmt sind. Die Sätze 1 bis 5 und 7 gelten auch
+für Betriebe und Einrichtungen, die mit den dort genannten Tätigkeiten
+im Zusammenhang stehende Aufzeichnungen aufbewahren.
 
 (2) Ist die Herstellung von Arzneimitteln beabsichtigt, für die es
 einer Erlaubnis nach § 13 nicht bedarf, so sind die Arzneimittel mit
@@ -8693,10 +9868,17 @@ Menschen anzuzeigen, so sind deren Verlauf, Beendigung und Ergebnisse
 der zuständigen Bundesoberbehörde mitzuteilen; das Nähere wird in der
 Rechtsverordnung nach § 42 bestimmt.
 
+(3b) Betriebe und Einrichtungen, die mit den in Absatz 1 Satz 1 bis 4
+und 7 genannten Tätigkeiten im Zusammenhang stehende Aufzeichnungen
+außerhalb der von der Erlaubnis nach den §§ 13, 20b, 20c, 52a, 72b
+oder 72c erfassten Räume aufbewahren lassen, haben dies vor Aufnahme
+der Tätigkeit der zuständigen Behörde anzuzeigen; dies gilt auch für
+nachträgliche Änderungen.
+
 (4) Die Absätze 1 bis 3 gelten nicht für diejenigen, die eine
-Erlaubnis nach § 13, § 20b, § 20c, § 52a oder § 72 haben, und für
-Apotheken nach dem Gesetz über das Apothekenwesen. Absatz 2 gilt nicht
-für tierärztliche Hausapotheken.
+Erlaubnis nach § 13, § 20b, § 20c, § 52a, § 72, § 72b oder § 72c
+haben, und für Apotheken nach dem Gesetz über das Apothekenwesen.
+Absatz 2 gilt nicht für tierärztliche Hausapotheken.
 
 (5) Wer als pharmazeutischer Unternehmer ein Arzneimittel, das nach §
 36 Absatz 1 von der Pflicht zur Zulassung freigestellt ist, in den
@@ -8724,13 +9906,40 @@ nach ihrer Art und Höhe so zu bemessen, dass kein Anreiz für eine
 bevorzugte Verschreibung oder Empfehlung bestimmter Arzneimittel
 entsteht. Sofern beteiligte Ärzte Leistungen zu Lasten der
 gesetzlichen Krankenversicherung erbringen, sind bei Anzeigen nach
-Satz 1 auch die Art und die Höhe der an sie geleisteten
-Entschädigungen anzugeben sowie jeweils eine Ausfertigung der mit
-ihnen geschlossenen Verträge zu übermitteln; hiervon sind Anzeigen
-gegenüber den zuständigen Bundesoberbehörden ausgenommen. Für
+Satz 1 auch die Art und die Höhe der jeweils an sie tatsächlich
+geleisteten Entschädigungen anzugeben sowie jeweils eine Ausfertigung
+der mit ihnen geschlossenen Verträge und jeweils eine Darstellung des
+Aufwandes für die beteiligten Ärzte und eine Begründung für die
+Angemessenheit der Entschädigung zu übermitteln. Sofern sich bei den
+in Satz 4 genannten Informationen Änderungen ergeben, sind die
+jeweiligen Informationen nach Satz 4 vollständig in der geänderten,
+aktualisierten Form innerhalb von vier Wochen nach jedem Quartalsende
+zu übermitteln; die tatsächlich geleisteten Entschädigungen sind mit
+Zuordnung zu beteiligten Ärzten namentlich mit Angabe der lebenslangen
+Arztnummer zu übermitteln. Innerhalb eines Jahres nach Abschluss der
+Datenerfassung sind unter Angabe der insgesamt beteiligten Ärzte die
+Anzahl der jeweils und insgesamt beteiligten Patienten und Art und
+Höhe der jeweils und insgesamt geleisteten Entschädigungen zu
+übermitteln. Der zuständigen Bundesoberbehörde ist innerhalb eines
+Jahres nach Abschluss der Datenerfassung bei Untersuchungen mit
+Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind, ein
+Abschlussbericht zu übermitteln. § 42b Absatz 3 Satz 1 und 4 gilt
+entsprechend. Die Angaben nach diesem Absatz sind bei Untersuchungen
+mit Arzneimitteln, die zur Anwendung bei Menschen bestimmt sind,
+elektronisch zu übermitteln. Hierfür machen die zuständigen
+Bundesoberbehörden elektronische Formatvorgaben bekannt; die
+zuständige Bundesoberbehörde hat ihr übermittelte Anzeigen und
+Abschlussberichte der Öffentlichkeit über ein Internetportal zur
+Verfügung zu stellen. Für die Veröffentlichung der Anzeigen gilt § 42b
+Absatz 3 Satz 4 entsprechend. Die Sätze 4 bis 6 gelten nicht für
+Anzeigen gegenüber der zuständigen Bundesoberbehörde. Die
+Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der
+Krankenkassen und der Verband der Privaten Krankenversicherung e. V.
+legen einvernehmlich Formatvorgaben für die elektronische Übermittlung
+der an sie zu richtenden Angaben fest und geben diese bekannt. Für
 Arzneimittel, die zur Anwendung bei Tieren bestimmt sind, sind die
 Anzeigen nach Satz 1 nur gegenüber der zuständigen Bundesoberbehörde
-zu erstatten. Die Sätze 1 bis 5 gelten nicht für
+zu erstatten. Die Sätze 1 bis 12 und 14 gelten nicht für
 Unbedenklichkeitsprüfungen nach § 63f.
 
 (7) Wer beabsichtigt, gewerbs- oder berufsmäßig Arzneimittel, die in
@@ -8750,31 +9959,45 @@ Genehmigungen für das Inverkehrbringen festgelegt sind, zu entrichten;
 die Bemessung der Gebühr richtet sich nach den unionsrechtlichen
 Rechtsvorschriften.
 
+(8) Wer zum Zweck des Einzelhandels Arzneimittel, die zur Anwendung
+bei Menschen bestimmt sind, im Wege des Versandhandels über das
+Internet anbieten will, hat dies vor Aufnahme der Tätigkeit der
+zuständigen Behörde unter Angabe des Namens oder der Firma und der
+Anschrift des Ortes, von dem aus die Arzneimittel geliefert werden
+sollen, und die Adresse jedes Internetportals einschließlich aller
+Angaben zu deren Identifizierung anzuzeigen. Nachträgliche Änderungen
+sind ebenfalls anzuzeigen. Die zuständige Behörde übermittelt diese
+Informationen an eine Datenbank nach § 67a. Das Internetportal nach
+Satz 1 muss den Namen und die Adresse der zuständigen Behörde und ihre
+sonstigen Kontaktdaten, das gemeinsame Versandhandelslogo nach Artikel
+85c der Richtlinie 2001/83/EG aufweisen und eine Verbindung zum
+Internetportal des Deutschen Instituts für Medizinische Dokumentation
+und Information haben.
+
 
 ### § 67a Datenbankgestütztes Informationssystem
 
 (1) Die für den Vollzug dieses Gesetzes zuständigen Behörden des
 Bundes und der Länder wirken mit dem Deutschen Institut für
 Medizinische Dokumentation und Information (DIMDI) zusammen, um ein
-gemeinsam nutzbares zentrales Informationssystem über Arzneimittel,
-Wirkstoffe und Gewebe sowie deren Hersteller oder Einführer zu
-errichten. Dieses Informationssystem fasst die für die Erfüllung der
-jeweiligen Aufgaben behördenübergreifend notwendigen Informationen
-zusammen. Das Deutsche Institut für Medizinische Dokumentation und
-Information errichtet dieses Informationssystem auf der Grundlage der
-von den zuständigen Behörden oder Bundesoberbehörden nach der
-Rechtsverordnung nach Absatz 3 zur Verfügung gestellten Daten und
-stellt dessen laufenden Betrieb sicher. Daten aus dem
-Informationssystem werden an die zuständigen Behörden und
-Bundesoberbehörden zur Erfüllung ihrer im Gesetz geregelten Aufgaben
-sowie an die Europäische Arzneimittel-Agentur übermittelt. Die
-zuständigen Behörden und Bundesoberbehörden erhalten darüber hinaus
-für ihre im Gesetz geregelten Aufgaben Zugriff auf die aktuellen Daten
-aus dem Informationssystem. Eine Übermittlung an andere Stellen ist
-zulässig, soweit dies die Rechtsverordnung nach Absatz 3 vorsieht. Für
-seine Leistungen kann das Deutsche Institut für Medizinische
-Dokumentation und Information Entgelte verlangen. Diese werden in
-einem Entgeltkatalog festgelegt, der der Zustimmung des
+gemeinsam nutzbares zentrales Informationssystem über Arzneimittel und
+Wirkstoffe sowie deren Hersteller oder Einführer zu errichten. Dieses
+Informationssystem fasst die für die Erfüllung der jeweiligen Aufgaben
+behördenübergreifend notwendigen Informationen zusammen. Das Deutsche
+Institut für Medizinische Dokumentation und Information errichtet
+dieses Informationssystem auf der Grundlage der von den zuständigen
+Behörden oder Bundesoberbehörden nach der Rechtsverordnung nach Absatz
+3 zur Verfügung gestellten Daten und stellt dessen laufenden Betrieb
+sicher. Daten aus dem Informationssystem werden an die zuständigen
+Behörden und Bundesoberbehörden zur Erfüllung ihrer im Gesetz
+geregelten Aufgaben sowie an die Europäische Arzneimittel-Agentur
+übermittelt. Die zuständigen Behörden und Bundesoberbehörden erhalten
+darüber hinaus für ihre im Gesetz geregelten Aufgaben Zugriff auf die
+aktuellen Daten aus dem Informationssystem. Eine Übermittlung an
+andere Stellen ist zulässig, soweit dies die Rechtsverordnung nach
+Absatz 3 vorsieht. Für seine Leistungen kann das Deutsche Institut für
+Medizinische Dokumentation und Information Entgelte verlangen. Diese
+werden in einem Entgeltkatalog festgelegt, der der Zustimmung des
 Bundesministeriums bedarf.
 
 (2) Das Deutsche Institut für Medizinische Dokumentation und
@@ -8797,32 +10020,120 @@ Internetportale im Bundesanzeiger bekannt.
 und Nutzung von Daten für die Zwecke der Absätze 1 und 2 und zur
 Erhebung von Daten für die Zwecke des Absatzes 2 im Einvernehmen mit
 dem Bundesministerium des Innern und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
+Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
 Bundesrates einzuräumen und Regelungen zu treffen hinsichtlich der
 Übermittlung von Daten durch Behörden des Bundes und der Länder an das
 Deutsche Institut für Medizinische Dokumentation und Information,
-einschließlich der personenbezogenen Daten für die in diesem Gesetz
-geregelten Zwecke, und der Art, des Umfangs und der Anforderungen an
-die Daten. In dieser Rechtsverordnung kann auch vorgeschrieben werden,
-dass Anzeigen auf elektronischen oder optischen Speichermedien
-erfolgen dürfen oder müssen, soweit dies für eine ordnungsgemäße
-Durchführung der Vorschriften über den Verkehr mit Arzneimitteln
-erforderlich ist. Die Rechtsverordnung wird vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
+einschließlich der personenbezogenen und betriebsbezogenen Daten für
+die in diesem Gesetz geregelten Zwecke, und der Art, des Umfangs und
+der Anforderungen an die Daten. In dieser Rechtsverordnung kann auch
+vorgeschrieben werden, dass Anzeigen auf elektronischen oder optischen
+Speichermedien erfolgen dürfen oder müssen, soweit dies für eine
+ordnungsgemäße Durchführung der Vorschriften über den Verkehr mit
+Arzneimitteln erforderlich ist. Die Rechtsverordnung wird vom
+Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen mit
 dem Bundesministerium, dem Bundesministerium des Innern und dem
-Bundesministerium für Wirtschaft und Technologie erlassen, soweit es
-sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt
-sind.
+Bundesministerium für Wirtschaft und Energie erlassen, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
-(4) Die Rechtsverordnung nach Absatz 3 ergeht im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
-soweit es sich um radioaktive Arzneimittel oder um Arzneimittel
-handelt, bei deren Herstellung ionisierende Strahlen verwendet werden.
+(3a) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium, dem
+Bundesministerium des Innern und dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates
+Regelungen zu treffen hinsichtlich der Übermittlung von Daten durch
+das Deutsche Institut für Medizinische Dokumentation und Information
+an Behörden des Bundes und der Länder, einschließlich der
+personenbezogenen und betriebsbezogenen Daten, zum Zweck wiederholter
+Beobachtungen, Untersuchungen und Bewertungen zur Erkennung von
+Risiken für die Gesundheit von Mensch und Tier durch die Anwendung
+bestimmter Arzneimittel, die zur Anwendung bei Tieren bestimmt sind,
+(Tierarzneimittel-Monitoring) sowie hinsichtlich der Art und des
+Umfangs der Daten sowie der Anforderungen an die Daten. Absatz 3 Satz
+2 gilt entsprechend.
+
+(4) Die Rechtsverordnung nach den Absätzen 3 und 3a ergeht im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel oder
+um Arzneimittel handelt, bei deren Herstellung ionisierende Strahlen
+verwendet werden.
 
 (5) Das Deutsche Institut für Medizinische Dokumentation und
 Information ergreift die notwendigen Maßnahmen, damit Daten nur den
 dazu befugten Personen übermittelt werden und nur diese Zugang zu
 diesen Daten erhalten.
+
+
+### § 67b EU-Kompendium der Gewebeeinrichtungen, EU-Kompendium der Gewebe- und Zellprodukte, Unterrichtungspflichten
+
+(1) Die zuständigen Behörden der Länder geben die in Anhang VIII der
+Richtlinie 2006/86/EG in der jeweils geltenden Fassung genannten
+Angaben in das EU-Kompendium der Gewebeeinrichtungen ein. Sie stellen
+sicher, dass jeder Einrichtung eine EU-Gewebeeinrichtungsnummer
+eindeutig zugeordnet wird.
+
+(2) Bei notwendigen Änderungen aktualisieren die zuständigen Behörden
+unverzüglich, spätestens nach zehn Werktagen, das EU-Kompendium der
+Gewebeeinrichtungen. Als Änderungen nach Satz 1 gelten insbesondere
+
+1.  die erstmalige Erteilung einer Erlaubnis für Einrichtungen, die
+    erlaubnispflichtige Tätigkeiten mit Geweben, Gewebezubereitungen,
+    hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem
+    peripheren Blut oder aus dem Nabelschnurblut durchführen,
+
+
+2.  Änderungen der Erlaubnis, einschließlich Änderungen im Hinblick auf
+
+    a)  eine neue Art von Geweben, Gewebezubereitungen, hämatopoetischen
+        Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder
+        aus dem Nabelschnurblut,
+
+
+    b)  eine neue Tätigkeit mit Geweben, Gewebezubereitungen, hämatopoetischen
+        Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder
+        aus dem Nabelschnurblut oder
+
+
+    c)  neue Nebenbestimmungen zur Erlaubnis,
+
+
+
+
+
+3.  jede Rücknahme oder jeder Widerruf der Erlaubnis,
+
+
+4.  eine freiwillige, auch teilweise Einstellung der Tätigkeit einer
+    Einrichtung,
+
+
+5.  Änderungen der Angaben über eine Einrichtung im Sinne des Anhangs VIII
+    der Richtlinie 2006/86/EG in der jeweils geltenden Fassung sowie
+
+
+6.  Änderungen wegen falscher Angaben im EU-Kompendium der
+    Gewebeeinrichtungen.
+
+
+
+
+(3) Die zuständigen Behörden unterrichten die zuständigen Behörden
+eines anderen Mitgliedstaates der Europäischen Union, wenn sie
+
+1.  im EU-Kompendium der Gewebeeinrichtungen falsche Angaben feststellen,
+    die diesen Mitgliedstaat betreffen, oder
+
+
+2.  einen erheblichen Verstoß gegen die Bestimmungen über den
+    Einheitlichen Europäischen Code im Zusammenhang mit diesem
+    Mitgliedstaat feststellen.
+
+
+
+
+(4) Die zuständigen Behörden unterrichten die Europäische Kommission
+und die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, wenn das EU-Kompendium der Gewebe- und
+Zellprodukte einer Aktualisierung bedarf.
 
 
 ### § 68 Mitteilungs- und Unterrichtungspflichten
@@ -8872,9 +10183,9 @@ Arzneimittelrisiken erforderlich sind. In Fällen von Zuwiderhandlungen
 oder des Verdachts von Zuwiderhandlungen können auch die zuständigen
 Behörden anderer Mitgliedstaaten, das Bundesministerium, soweit es
 sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt
-sind, auch das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz sowie die Europäische Arzneimittel-Agentur und die
-Europäische Kommission unterrichtet werden.
+sind, auch das Bundesministerium für Ernährung und Landwirtschaft
+sowie die Europäische Arzneimittel-Agentur und die Europäische
+Kommission unterrichtet werden.
 
 (4) Die Behörden nach Absatz 1 können, soweit dies zur Einhaltung der
 arzneimittelrechtlichen, heilmittelwerberechtlichen und
@@ -8899,9 +10210,9 @@ Einverständnis damit erklärt. Die obersten Landesbehörden können die
 Befugnisse nach den Sätzen 2 und 3 auf andere Behörden übertragen.
 Soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
 bestimmt sind, tritt an die Stelle des Bundesministeriums das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz.
-Die Rechtsverordnung nach Satz 2 ergeht in diesem Fall im Einvernehmen
-mit dem Bundesministerium.
+Bundesministerium für Ernährung und Landwirtschaft. Die
+Rechtsverordnung nach Satz 2 ergeht in diesem Fall im Einvernehmen mit
+dem Bundesministerium.
 
 (5a) Im Fall der Überwachung der Werbung für Arzneimittel, die zur
 Anwendung bei Menschen bestimmt sind, obliegt dem Bundesamt für
@@ -8940,6 +10251,10 @@ und diese sicherstellen, wenn
 2.  das Arzneimittel oder der Wirkstoff nicht nach den anerkannten
     pharmazeutischen Regeln hergestellt ist oder nicht die nach den
     anerkannten pharmazeutischen Regeln angemessene Qualität aufweist,
+
+
+2a. der begründete Verdacht besteht, dass es sich um ein gefälschtes
+    Arzneimittel oder einen gefälschten Wirkstoff handelt,
 
 
 3.  dem Arzneimittel die therapeutische Wirksamkeit fehlt,
@@ -9005,11 +10320,11 @@ unterrichten die zuständigen Behörden die Europäische Kommission und
 die anderen Mitgliedstaaten, in den Fällen des Satzes 1 Nr. 1 die
 Europäische Kommission und die Europäische Arzneimittel-Agentur über
 die zuständige Bundesoberbehörde spätestens am folgenden Arbeitstag
-über die Gründe dieser Maßnahmen. Im Fall des Absatzes 1 Satz 2 Nr. 4
-kann auch die zuständige Bundesoberbehörde das Ruhen der Zulassung
-anordnen oder den Rückruf eines Arzneimittels anordnen, sofern ihr
-Tätigwerden zum Schutz der in Satz 2 genannten Rechtsgüter dringend
-erforderlich ist; in diesem Fall gilt Satz 3 entsprechend.
+über die Gründe dieser Maßnahmen. Im Fall des Absatzes 1 Satz 2 Nummer
+2a und 4 kann auch die zuständige Bundesoberbehörde das Ruhen der
+Zulassung anordnen oder den Rückruf eines Arzneimittels anordnen,
+sofern ihr Tätigwerden zum Schutz der in Satz 2 genannten Rechtsgüter
+dringend erforderlich ist; in diesem Fall gilt Satz 3 entsprechend.
 
 (2) Die zuständigen Behörden können das Sammeln von Arzneimitteln
 untersagen, wenn eine sachgerechte Lagerung der Arzneimittel nicht
@@ -9072,11 +10387,12 @@ sind, herstellen, lagern, einführen oder in den Verkehr bringen.
 
 ### § 69b Verwendung bestimmter Daten
 
-(1) Die nach der Viehverkehrsverordnung für die Erhebung der Daten für
-die Anzeige und die Registrierung Vieh haltender Betriebe zuständigen
-Behörden übermitteln der für die Überwachung nach § 64 Abs. 1 Satz 1
-zweiter Halbsatz zuständigen Behörde auf Ersuchen die zu deren
-Aufgabenerfüllung erforderlichen Daten.
+(1) Die für das Lebensmittel-, Futtermittel-, Tierschutz- und
+Tierseuchenrecht für die Erhebung der Daten für die Anzeige und die
+Registrierung Vieh haltender Betriebe zuständigen Behörden übermitteln
+der für die Überwachung nach § 64 Abs. 1 Satz 1 zweiter Halbsatz
+zuständigen Behörde auf Ersuchen die zu deren Aufgabenerfüllung
+erforderlichen Daten.
 
 (2) Die Daten dürfen für die Dauer von drei Jahren aufbewahrt werden.
 Die Frist beginnt mit Ablauf desjenigen Jahres, in dem die Daten
@@ -9121,12 +10437,13 @@ Ausnahmen von den Vorschriften dieses Gesetzes und der auf Grund
 dieses Gesetzes erlassenen Rechtsverordnungen für den Bereich der
 Bundeswehr, der Bundespolizei, der Bereitschaftspolizeien der Länder
 und des Zivil- und Katastrophenschutzes zuzulassen, soweit dies zur
-Durchführung der besonderen Aufgaben in diesen Bereichen
-gerechtfertigt ist und der Schutz der Gesundheit von Mensch oder Tier
-gewahrt bleibt. Die Rechtsverordnung wird vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-dem Bundesministerium erlassen, soweit es sich um Arzneimittel
-handelt, die zur Anwendung bei Tieren bestimmt sind.
+Durchführung der besonderen Aufgaben einschließlich der Teilnahme an
+internationalen Hilfsaktionen in diesen Bereichen gerechtfertigt ist
+und der Schutz der Gesundheit von Mensch oder Tier gewahrt bleibt. Die
+Rechtsverordnung wird vom Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium erlassen,
+soweit es sich um Arzneimittel handelt, die zur Anwendung bei Tieren
+bestimmt sind.
 
 (3) Die Rechtsverordnung ergeht, soweit sie den Bereich der Bundeswehr
 berührt, im Einvernehmen mit dem Bundesministerium der Verteidigung,
@@ -9177,16 +10494,14 @@ vorhanden sind.
 
 (3) Die Absätze 1 und 2 finden keine Anwendung auf
 
-1.  Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes, für
-    die es einer Erlaubnis nach § 72b bedarf,
+1.  Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes,
 
 
 2.  autologes Blut zur Herstellung von biotechnologisch bearbeiteten
-    Gewebeprodukten, für das es einer Erlaubnis nach § 72b bedarf,
+    Gewebeprodukten,
 
 
-3.  Gewebezubereitungen im Sinne von § 20c, für die es einer Erlaubnis
-    nach § 72b bedarf, und
+3.  Gewebezubereitungen im Sinne von § 20c und
 
 
 4.  Wirkstoffe, die für die Herstellung von nach einer im Homöopathischen
@@ -9195,6 +10510,35 @@ vorhanden sind.
 
 
 
+
+(4) Abweichend von Absatz 1 dürfen hämatopoetische Stammzellen oder
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut nur von einer einführenden Einrichtung im Sinne des §
+72b Absatz 1 Satz 1 aus Staaten eingeführt werden, die weder
+Mitgliedstaaten der Europäischen Union noch andere Vertragsstaaten des
+Abkommens über den Europäischen Wirtschaftsraum sind. Die einführende
+Einrichtung bedarf einer Erlaubnis der zuständigen Behörde. Die
+Entscheidung über die Erteilung der Erlaubnis trifft die zuständige
+Behörde des Landes, in dem die Betriebsstätte der einführenden
+Einrichtung liegt oder liegen soll, im Benehmen mit der zuständigen
+Bundesoberbehörde. Für die Einfuhr zur unmittelbaren Anwendung gilt
+Absatz 2 entsprechend.
+
+(5) Dem Antrag auf Erlaubnis nach Absatz 4 Satz 2 sind die in den
+Anhängen I und III Teil A der Richtlinie (EU) 2015/566 der Kommission
+vom 8. April 2015 zur Durchführung der Richtlinie 2004/23/EG
+hinsichtlich der Verfahren zur Prüfung der Gleichwertigkeit von
+Qualitäts- und Sicherheitsstandards bei eingeführten Geweben und
+Zellen (ABl. L 93 vom 9.4.2015, S. 56) in der jeweils geltenden
+Fassung genannten Informationen und Unterlagen beizufügen. Abweichend
+von Satz 1 sind einem Antrag auf Erteilung einer Erlaubnis,
+hämatopoetische Stammzellen oder Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut zur unmittelbaren
+Anwendung beim Menschen einzuführen, nur die in Anhang I Teil A, B und
+C Nummer 1 bis 3 und in Anhang III Teil A Nummer 1 und 3 der
+Richtlinie (EU) 2015/566 genannten Informationen und Unterlagen
+beizufügen. Die §§ 14 bis 19 und 72b Absatz 2c und 2d gelten
+entsprechend.
 
 
 ### § 72a Zertifikate
@@ -9205,21 +10549,25 @@ vorhanden sind.
 1.  die zuständige Behörde des Herstellungslandes durch ein Zertifikat
     bestätigt hat, dass die Arzneimittel oder Wirkstoffe entsprechend
     anerkannten Grundregeln für die Herstellung und die Sicherung ihrer
-    Qualität, insbesondere der Europäischen Gemeinschaften oder der
-    Weltgesundheitsorganisation, hergestellt werden und solche Zertifikate
-    für Arzneimittel im Sinne des § 2 Abs. 1 und 2 Nr. 1, die zur
-    Anwendung bei Menschen bestimmt sind, und Wirkstoffe, die
+    Qualität der Europäischen Union oder nach Standards, die diesen
+    gleichwertig sind, hergestellt werden, die Herstellungsstätte
+    regelmäßig überwacht wird, die Überwachung durch ausreichende
+    Maßnahmen, einschließlich wiederholter und unangekündigter
+    Inspektionen, erfolgt und im Falle wesentlicher Abweichungen von den
+    anerkannten Grundregeln die zuständige Behörde informiert wird, und
+    solche Zertifikate für Arzneimittel im Sinne des § 2 Abs. 1 und 2 Nr.
+    1, die zur Anwendung bei Menschen bestimmt sind, und Wirkstoffe, die
     menschlicher, tierischer oder mikrobieller Herkunft sind, oder
     Wirkstoffe, die auf gentechnischem Wege hergestellt werden,
     gegenseitig anerkannt sind,
 
 
 2.  die zuständige Behörde bescheinigt hat, dass die genannten Grundregeln
-    bei der Herstellung der Arzneimittel sowie der dafür eingesetzten
-    Wirkstoffe, soweit sie menschlicher, tierischer oder mikrobieller
-    Herkunft sind, oder Wirkstoffe, die auf gentechnischem Wege
-    hergestellt werden, oder bei der Herstellung der Wirkstoffe
-    eingehalten werden oder
+    bei der Herstellung und der Sicherung der Qualität der Arzneimittel
+    sowie der dafür eingesetzten Wirkstoffe, soweit sie menschlicher,
+    tierischer oder mikrobieller Herkunft sind, oder Wirkstoffe, die auf
+    gentechnischem Wege hergestellt werden, oder bei der Herstellung der
+    Wirkstoffe eingehalten werden oder
 
 
 3.  die zuständige Behörde bescheinigt hat, dass die Einfuhr im
@@ -9227,7 +10575,14 @@ vorhanden sind.
 
 
 
-Die zuständige Behörde darf eine Bescheinigung nach
+Bei hämatopoetischen Stammzellen oder Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut mit Ausnahme solcher zur
+unmittelbaren Anwendung und solcher, die zur gerichteten, für eine
+bestimmte Person vorgesehenen Anwendung bestimmt sind, hat die
+einführende Einrichtung die in Anhang III Teil B der Richtlinie (EU)
+2015/566 genannte Dokumentation bereitzuhalten und auf Verlangen der
+zuständigen Behörde zu übermitteln. Die zuständige Behörde darf eine
+Bescheinigung nach
 
 1.  Satz 1 Nummer 2 nur ausstellen, wenn ein Zertifikat nach Satz 1 Nummer
     1 nicht vorliegt und sie oder eine zuständige Behörde eines
@@ -9252,7 +10607,8 @@ Die zuständige Behörde darf eine Bescheinigung nach
 
 
 2.  Arzneimittel menschlicher Herkunft zur unmittelbaren Anwendung oder
-    Blutstammzellzubereitungen, die zur gerichteten, für eine bestimmte
+    hämatopoetische Stammzellzubereitungen aus dem peripheren Blut oder
+    aus dem Nabelschnurblut, die zur gerichteten, für eine bestimmte
     Person vorgesehenen Anwendung bestimmt sind,
 
 
@@ -9262,22 +10618,27 @@ Die zuständige Behörde darf eine Bescheinigung nach
     Arzneimitteln bestimmt sind,
 
 
-4.  Wirkstoffe, die Stoffe nach § 3 Nr. 2 in unbearbeitetem oder
-    bearbeitetem Zustand sind oder enthalten, soweit die Bearbeitung nicht
-    über eine Trocknung, Zerkleinerung und initiale Extraktion hinausgeht,
+4.  Wirkstoffe, die Stoffe nach § 3 Nummer 1 bis 3 sind, soweit sie den
+    Anforderungen der Guten Herstellungspraxis gemäß den Grundsätzen und
+    Leitlinien der Europäischen Kommission nicht unterliegen,
 
 
-5.  Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes, für
-    die es eines Zertifikates oder einer Bescheinigung nach § 72b bedarf,
+5.  Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes,
 
 
 6.  autologes Blut zur Herstellung von biotechnologisch bearbeiteten
-    Gewebeprodukten, für das es eines Zertifikates oder einer
-    Bescheinigung nach § 72b bedarf, und
+    Gewebeprodukten,
 
 
-7.  Gewebezubereitungen im Sinne von § 20c, für die es eines Zertifikates
-    oder einer Bescheinigung nach § 72b bedarf.
+7.  Gewebezubereitungen im Sinne von § 20c und
+
+
+8.  Wirkstoffe, die in einem Staat hergestellt und aus diesem eingeführt
+    werden, der nicht Mitgliedstaat der Europäischen Union oder ein
+    anderer Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum ist und der in der von der Europäischen Kommission
+    veröffentlichten Liste nach Artikel 111b der Richtlinie 2001/83/EG
+    aufgeführt ist.
 
 
 
@@ -9300,6 +10661,13 @@ anderen zur Arzneimittelherstellung bestimmten Stoffen menschlicher
 Herkunft Anwendung, soweit ihre Überwachung durch eine
 Rechtsverordnung nach § 54 geregelt ist.
 
+(1e) Die zuständige Behörde stellt dem Inhaber der Erlaubnis nach § 72
+Absatz 4 Satz 2 eine Bescheinigung nach Maßgabe des Anhangs II der
+Richtlinie (EU) 2015/566 aus, wenn ein Zertifikat nach Absatz 1 Satz 1
+Nummer 1 vorliegt oder die Voraussetzungen für eine Bescheinigung nach
+Absatz 1 Satz 1 Nummer 2 in Verbindung mit Absatz 1 Satz 3 Nummer 1
+erfüllt sind.
+
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates zu bestimmen, dass Stoffe und Zubereitungen
 aus Stoffen, die als Arzneimittel oder zur Herstellung von
@@ -9321,16 +10689,35 @@ nach § 14 durchzuführenden Prüfungen und der Möglichkeit einer
 
 ### § 72b Einfuhrerlaubnis und Zertifikate für Gewebe und bestimmte Gewebezubereitungen
 
-(1) Wer Gewebe im Sinne von § 1a Nr. 4 des Transplantationsgesetzes
-oder Gewebezubereitungen im Sinne von § 20c gewerbs- oder berufsmäßig
-zum Zwecke der Abgabe an andere oder zur Be- oder Verarbeitung
-einführen will, bedarf einer Erlaubnis der zuständigen Behörde. § 20c
-Abs. 1 Satz 3 und Abs. 2 bis 7 ist entsprechend anzuwenden. Für die
-Einfuhr von Gewebezubereitungen zur unmittelbaren Anwendung gilt § 72
-Absatz 2 entsprechend.
+(1) Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes
+oder Gewebezubereitungen im Sinne von § 20c Absatz 1 Satz 1 oder Satz
+2 dürfen nur von einer einführenden Gewebeeinrichtung eingeführt
+werden, die diese Tätigkeit gewerbs- oder berufsmäßig ausübt und die
+über die Einfuhr einen Vertrag mit einem Drittstaatlieferanten
+geschlossen hat. Drittstaatlieferant ist eine Gewebeeinrichtung oder
+eine andere Stelle in einem Staat, der weder Mitgliedstaat der
+Europäischen Union noch anderer Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum ist, die für die Ausfuhr von Geweben oder
+Gewebezubereitungen, die sie an die einführende Gewebeeinrichtung
+liefert, verantwortlich ist. Die einführende Gewebeeinrichtung bedarf
+einer Erlaubnis der zuständigen Behörde. Die Entscheidung über die
+Erteilung der Erlaubnis trifft die zuständige Behörde des Landes, in
+dem die Betriebsstätte der einführenden Gewebeeinrichtung liegt oder
+liegen soll, im Benehmen mit der zuständigen Bundesoberbehörde. Für
+die Einfuhr von Gewebezubereitungen zur unmittelbaren Anwendung gilt §
+72 Absatz 2 entsprechend.
 
-(2) Der Einführer nach Absatz 1 darf die Gewebe oder
-Gewebezubereitungen nur einführen, wenn
+(1a) Dem Antrag auf Erlaubnis nach Absatz 1 Satz 3 sind die in den
+Anhängen I und III Teil A der Richtlinie (EU) 2015/566 genannten
+Informationen und Unterlagen beizufügen. Abweichend von Satz 1 sind
+einem Antrag auf Erteilung einer Erlaubnis, Gewebezubereitungen zur
+unmittelbaren Anwendung bei Menschen einzuführen, nur die in Anhang I
+Teil A, B und C Nummer 1 bis 3 und in Anhang III Teil A Nummer 1 und 3
+der Richtlinie (EU) 2015/566 genannten Informationen und Unterlagen
+beizufügen. § 20c Absatz 2 bis 5 und 7 gilt entsprechend.
+
+(2) Die einführende Gewebeeinrichtung nach Absatz 1 darf die Gewebe
+oder Gewebezubereitungen nur einführen, wenn
 
 1.  die Behörde des Herkunftslandes durch ein Zertifikat bestätigt hat,
     dass die Gewinnung, Laboruntersuchung, Be- oder Verarbeitung,
@@ -9340,29 +10727,107 @@ Gewebezubereitungen nur einführen, wenn
     Zertifikate gegenseitig anerkannt sind, oder
 
 
-2.  die für den Einführer zuständige Behörde bescheinigt hat, dass die
-    Standards der Guten fachlichen Praxis bei der Gewinnung,
-    Laboruntersuchung, Be- oder Verarbeitung, Konservierung, Lagerung oder
-    Prüfung eingehalten werden, nachdem sie oder eine zuständige Behörde
-    eines anderen Mitgliedstaates der Europäischen Union oder eines
-    anderen Vertragsstaates des Abkommens über den Europäischen
-    Wirtschaftsraum sich darüber im Herstellungsland vergewissert hat,
-    oder
+2.  die für die einführende Gewebeeinrichtung zuständige Behörde
+    bescheinigt hat, dass die Standards der Guten fachlichen Praxis bei
+    der Gewinnung, Laboruntersuchung, Be- oder Verarbeitung,
+    Konservierung, Lagerung oder Prüfung eingehalten werden, nachdem sie
+    oder eine zuständige Behörde eines anderen Mitgliedstaates der
+    Europäischen Union oder eines anderen Vertragsstaates des Abkommens
+    über den Europäischen Wirtschaftsraum sich darüber im Herstellungsland
+    vergewissert hat, oder
 
 
-3.  die für den Einführer zuständige Behörde bescheinigt hat, dass die
-    Einfuhr im öffentlichen Interesse ist, wenn ein Zertifikat nach Nummer
-    1 nicht vorliegt und eine Bescheinigung nach Nummer 2 nicht möglich
-    ist.
+3.  die für die einführende Gewebeeinrichtung zuständige Behörde
+    bescheinigt hat, dass die Einfuhr im öffentlichen Interesse ist, wenn
+    ein Zertifikat nach Nummer 1 nicht vorliegt und eine Bescheinigung
+    nach Nummer 2 nicht möglich ist.
 
 
 
-Abweichend von Satz 1 Nr. 2 kann die zuständige Behörde von einer
-Besichtigung der Entnahmeeinrichtungen im Herkunftsland absehen, wenn
-die vom Einführer eingereichten Unterlagen zu keinen Beanstandungen
-Anlass geben oder ihr Einrichtungen oder Betriebsstätten sowie das
-Qualitätssicherungssystem desjenigen, der im Herkunftsland das Gewebe
-gewinnt, bereits bekannt sind.
+Die einführende Gewebeeinrichtung hat die in Anhang III Teil B der
+Richtlinie (EU) 2015/566 genannte Dokumentation bereitzuhalten und auf
+Verlangen der zuständigen Behörde vorzulegen. Abweichend von Satz 1
+Nr. 2 kann die zuständige Behörde von einer Besichtigung der
+Entnahmeeinrichtungen im Herkunftsland absehen, wenn die von der
+einführenden Gewebeeinrichtung eingereichten Unterlagen zu keinen
+Beanstandungen Anlass geben oder ihr Einrichtungen oder
+Betriebsstätten sowie das Qualitätssicherungssystem desjenigen, der im
+Herkunftsland das Gewebe gewinnt, bereits bekannt sind.
+
+(2a) Die zuständige Behörde stellt dem Inhaber der Erlaubnis nach
+Absatz 1 eine Bescheinigung nach Maßgabe des Anhangs II der Richtlinie
+(EU) 2015/566 aus, wenn ein Zertifikat nach Absatz 2 Satz 1 Nummer 1
+vorliegt oder die Voraussetzungen für eine Bescheinigung nach Absatz 2
+Satz 1 Nummer 2, auch in Verbindung mit Absatz 2 Satz 3, erfüllt sind.
+
+(2b) Die Absätze 2 und 2a gelten nicht für hämatopoetische
+Stammzellzubereitungen aus dem Knochenmark, die zur gerichteten, für
+eine bestimmte Person vorgesehenen Anwendung bestimmt sind.
+
+(2c) Der Inhaber der Erlaubnis nach Absatz 1 Satz 3 hat jede
+Veränderung der in § 20c Absatz 2 genannten Voraussetzungen und jede
+wesentliche Änderung seiner Einfuhrtätigkeiten unter Vorlage von
+Nachweisen der zuständigen Behörde im Voraus anzuzeigen. Der Inhaber
+der Erlaubnis darf die Änderung erst vornehmen, wenn die zuständige
+Behörde eine schriftliche Erlaubnis erteilt hat. Als wesentliche
+Änderung der Einfuhrtätigkeiten gelten insbesondere Änderungen im
+Hinblick auf
+
+1.  die Art der eingeführten Gewebe oder Gewebezubereitungen,
+
+
+2.  die in einem Drittstaat, der weder Mitgliedstaat der Europäischen
+    Union noch anderer Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum ist, ausgeübten Tätigkeiten, die sich auf die Qualität
+    und die Sicherheit der eingeführten Gewebe oder Gewebezubereitungen
+    auswirken können, oder
+
+
+3.  die eingesetzten Drittstaatlieferanten.
+
+
+
+Nimmt der Inhaber der Erlaubnis eine einmalige Einfuhr im Sinne des §
+72c Absatz 2 von Geweben oder Gewebezubereitungen vor, die von einem
+Drittstaatlieferanten stammen, der nicht Gegenstand dieser Erlaubnis
+ist, so gilt eine solche einmalige Einfuhr nicht als wesentliche
+Änderung, sofern die Erlaubnis der einführenden Gewebeeinrichtung die
+Einfuhr derselben Art von Geweben oder Gewebezubereitungen von einem
+anderen Drittstaatlieferanten umfasst.
+
+(2d) Der Inhaber der Erlaubnis hat der zuständigen Behörde
+unverzüglich Folgendes mitzuteilen:
+
+1.  den Widerruf, die Rücknahme oder die Anordnung des Ruhens der
+    Genehmigung, Erlaubnis oder Bescheinigung eines Drittstaatlieferanten
+    für die Ausfuhr von Geweben oder Gewebezubereitungen durch die
+    zuständige Behörde des Staates, in dem der Drittstaatlieferant
+    ansässig ist,
+
+
+2.  jede sonstige Entscheidung, die
+
+    a)  wegen Nichteinhaltung der Bestimmungen von der zuständigen Behörde des
+        Staates, in dem der Drittstaatlieferant ansässig ist, getroffen wurde
+        und
+
+
+    b)  für die Qualität und die Sicherheit der eingeführten Gewebe oder
+        Gewebezubereitungen relevant sein kann,
+
+
+
+
+
+3.  die vollständige oder teilweise Einstellung seiner Einfuhrtätigkeit
+    und
+
+
+4.  einen unvorhergesehenen Wechsel der verantwortlichen Person nach §
+    20c.
+
+
+
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates die weiteren Voraussetzungen für die
@@ -9379,8 +10844,44 @@ Gewebezubereitungen im Sinne von Absatz 1 Anwendung, soweit ihre
 Transfusionsgesetzes oder nach § 16a des Transplantationsgesetzes
 geregelt ist.
 
-(5) Die Absätze 1 bis 4 gelten entsprechend für autologes Blut für die
-Herstellung von biotechnologisch bearbeiteten Gewebeprodukten.
+(5) (weggefallen)
+
+
+### § 72c Einmalige Einfuhr von Gewebe oder Gewebezubereitungen
+
+(1) Gewebe im Sinne von § 1a Nummer 4 des Transplantationsgesetzes
+oder Gewebezubereitungen im Sinne von § 20c Absatz 1 Satz 1 oder Satz
+2, die Gegenstand einer einmaligen Einfuhr sind, dürfen nur von einer
+einführenden Gewebeeinrichtung im Sinne des § 72b Absatz 1 Satz 1
+eingeführt werden. Die einführende Gewebeeinrichtung bedarf für die
+einmalige Einfuhr einer Erlaubnis der zuständigen Behörde. Die
+Entscheidung über die Erteilung der Erlaubnis trifft die zuständige
+Behörde des Landes, in dem die Betriebsstätte der einführenden
+Gewebeeinrichtung liegt oder liegen soll.
+
+(2) Eine einmalige Einfuhr ist die Einfuhr eines Gewebes oder einer
+Gewebezubereitung im Auftrag einer bestimmten Person, die dieses
+Gewebe oder diese Gewebezubereitung bei einem Drittstaatlieferanten
+für die zukünftige Verwendung für sich oder Verwandte ersten oder
+zweiten Grades gelagert hat. Es ist erlaubt, das Gewebe oder die
+Gewebezubereitung an eine Person abzugeben, die Ärztin oder Arzt ist
+und die das Gewebe oder die Gewebezubereitung bei der bestimmten
+Person oder der nahe verwandten Person anwenden soll. Die Abgabe des
+Gewebes oder der Gewebezubereitung an andere als die vorgenannten
+Personen ist ausgeschlossen.
+
+(3) Dem Antrag auf Erlaubnis nach Absatz 1 Satz 2 sind die in Anhang I
+mit Ausnahme des Teils F der Richtlinie (EU) 2015/566 genannten
+Informationen und Unterlagen beizufügen. § 20c Absatz 2 bis 5 und 7
+ist entsprechend anzuwenden. Die zuständige Behörde stellt dem Inhaber
+der Erlaubnis nach Absatz 1 Satz 2 eine Bescheinigung nach Maßgabe des
+Anhangs II der Richtlinie (EU) 2015/566 aus. § 72b Absatz 2c Satz 1
+und 2 und Absatz 2d ist entsprechend anzuwenden.
+
+(4) Die Absätze 1 bis 3 gelten entsprechend für hämatopoetische
+Stammzellen und Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut. Abweichend von Absatz 3 Satz 2 sind die
+Vorgaben der §§ 14 bis 19 entsprechend anzuwenden.
 
 
 ### § 73 Verbringungsverbot
@@ -9412,10 +10913,10 @@ freigestellt sind und
     zum Versandhandel oder zum elektronischen Handel versandt wird oder
 
 
-2.  der Empfänger in dem Fall des Verbringens aus einem Land, das nicht
+2.  der Empfänger in dem Fall des Verbringens aus einem Staat, das nicht
     Mitgliedstaat der Europäischen Union oder ein anderer Vertragsstaat
     des Abkommens über den Europäischen Wirtschaftsraum ist, eine
-    Erlaubnis nach § 72 besitzt.
+    Erlaubnis nach § 72, § 72b oder § 72c besitzt.
 
 
 
@@ -9537,9 +11038,9 @@ der Untersuchung oder Strafverfolgung, Ausnahmen zulassen.
 
 (3) Abweichend von Absatz 1 Satz 1 dürfen Fertigarzneimittel, die zur
 Anwendung bei Menschen bestimmt sind und nicht zum Verkehr im
-Geltungsbereich dieses Gesetzes zugelassen, nach § 21a genehmigt,
-registriert oder von der Zulassung oder Registrierung freigestellt
-sind, in den Geltungsbereich dieses Gesetzes verbracht werden, wenn
+Geltungsbereich dieses Gesetzes zugelassen, registriert oder von der
+Zulassung oder Registrierung freigestellt sind, in den Geltungsbereich
+dieses Gesetzes verbracht werden, wenn
 
 1.  sie von Apotheken auf vorliegende Bestellung einzelner Personen in
     geringer Menge bestellt und von diesen Apotheken im Rahmen der
@@ -9557,18 +11058,64 @@ sind, in den Geltungsbereich dieses Gesetzes verbracht werden, wenn
 
 
 
-oder wenn sie nach den apothekenrechtlichen Vorschriften oder
-berufsgenossenschaftlichen Vorgaben oder im Geschäftsbereich des
-Bundesministeriums der Verteidigung für Notfälle vorrätig zu halten
-sind oder kurzfristig beschafft werden müssen, wenn im Geltungsbereich
-dieses Gesetzes Arzneimittel für das betreffende Anwendungsgebiet
-nicht zur Verfügung stehen. Die Bestellung und Abgabe bedürfen der
-ärztlichen oder zahnärztlichen Verschreibung für Arzneimittel, die
-nicht aus Mitgliedstaaten der Europäischen Union oder anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-bezogen worden sind. Das Nähere regelt die Apothekenbetriebsordnung.
+oder wenn sie in angemessenem Umfang, der zur Sicherstellung einer
+ordnungsgemäßen Versorgung der Patienten des Krankenhauses notwendig
+ist, zum Zwecke der vorübergehenden Bevorratung von einer
+Krankenhausapotheke oder krankenhausversorgenden Apotheke unter den
+Voraussetzungen der Nummer 2 bestellt und von dieser
+Krankenhausapotheke oder krankenhausversorgenden Apotheke unter den
+Voraussetzungen der Nummer 3 im Rahmen der bestehenden
+Apothekenbetriebserlaubnis zum Zwecke der Verabreichung an einen
+Patienten des Krankenhauses unter der unmittelbaren persönlichen
+Verantwortung einer ärztlichen Person abgegeben werden oder sie nach
+den apothekenrechtlichen Vorschriften oder berufsgenossenschaftlichen
+Vorgaben oder im Geschäftsbereich des Bundesministeriums der
+Verteidigung für Notfälle vorrätig zu halten sind oder kurzfristig
+beschafft werden müssen, wenn im Geltungsbereich dieses Gesetzes
+Arzneimittel für das betreffende Anwendungsgebiet nicht zur Verfügung
+stehen. Die Bestellung nach Satz 1 Nummer 1 und die Abgabe der nach
+Satz 1 in den Geltungsbereich dieses Gesetzes verbrachten Arzneimittel
+bedürfen der ärztlichen oder zahnärztlichen Verschreibung für
+Arzneimittel, die nicht aus Mitgliedstaaten der Europäischen Union
+oder anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum bezogen worden sind. Das Nähere regelt die
+Apothekenbetriebsordnung.
 
-(3a) Abweichend von Absatz 1 Satz 1 dürfen Fertigarzneimittel, die
+(3a) Abweichend von Absatz 1 Satz 1 dürfen Gewebezubereitungen, die
+nicht zum Verkehr im Geltungsbereich dieses Gesetzes nach § 21a Absatz
+1 genehmigt sind, und hämatopoetische Stammzellzubereitungen aus dem
+peripheren Blut oder aus dem Nabelschnurblut, die nicht zum Verkehr im
+Geltungsbereich dieses Gesetzes nach § 21 zugelassen oder nach § 21a
+Absatz 1 genehmigt sind, in den Geltungsbereich dieses Gesetzes
+verbracht werden, wenn
+
+1.  sie von einer Einrichtung, die Inhaber einer Erlaubnis nach den §§ 13,
+    20c, 72, 72b oder nach § 72c für Tätigkeiten mit diesen
+    Gewebezubereitungen oder hämatopoetischen Stammzellzubereitungen aus
+    dem peripheren Blut oder aus dem Nabelschnurblut ist, auf vorliegende
+    Bestellung einer einzelnen Person in geringer Menge bestellt werden
+    und von dieser Einrichtung an das anwendende Krankenhaus oder den
+    anwendenden Arzt abgegeben werden,
+
+
+2.  sie in dem Staat, aus dem sie in den Geltungsbereich dieses Gesetzes
+    verbracht werden, rechtmäßig in Verkehr gebracht werden dürfen,
+
+
+3.  für sie hinsichtlich der Funktionalität vergleichbare Arzneimittel für
+    das betreffende Anwendungsgebiet im Geltungsbereich dieses Gesetzes
+    nicht zur Verfügung stehen und
+
+
+4.  im Fall des Verbringens aus einem Staat, der weder Mitgliedstaat der
+    Europäischen Union noch anderer Vertragsstaat des Abkommens über den
+    Europäischen Wirtschaftsraum ist, die Bestellung und Abgabe auf Grund
+    einer ärztlichen Verschreibung erfolgt.
+
+
+
+
+(3b) Abweichend von Absatz 1 Satz 1 dürfen Fertigarzneimittel, die
 nicht zum Verkehr im Geltungsbereich dieses Gesetzes zugelassen oder
 registriert oder von der Zulassung oder Registrierung freigestellt
 sind zum Zwecke der Anwendung bei Tieren, in den Geltungsbereich
@@ -9605,15 +11152,17 @@ Art und Menge.
 
 (4) Auf Arzneimittel nach Absatz 2 Nummer 4 und 5 finden die
 Vorschriften dieses Gesetzes keine Anwendung. Auf Arzneimittel nach
-Absatz 2 Nummer 1 bis 3 und 6 bis 10 und Absatz 3 finden die
-Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§ 5,
-6a, 8, 13 bis 20a, 52a, 64 bis 69a und 78, ferner in den Fällen des
-Absatzes 2 Nummer 2 und des Absatzes 3 auch mit Ausnahme der §§ 48, 95
-Absatz 1 Nummer 1 und 3a, Absatz 2 bis 4, § 96 Nummer 3, 10 und 11
-sowie § 97 Absatz 1, 2 Nummer 1 und 9 sowie Absatz 3. Auf Arzneimittel
-nach Absatz 3a finden die Vorschriften dieses Gesetzes keine Anwendung
-mit Ausnahme der §§ 5, 6a, 8, 48, 52a, 56a, 57, 58 Absatz 1 Satz 1,
-der §§ 59, 64 bis 69a, 78, 95 Absatz 1 Nummer 1, 2a, 2b, 3a, 6, 8, 9
+Absatz 2 Nummer 1 bis 3 und 6 bis 10 und den Absätzen 3 und 3a finden
+die Vorschriften dieses Gesetzes keine Anwendung mit Ausnahme der §§
+5, 8, 13 bis 20a, 52a, 64 bis 69a und 78, ferner in den Fällen des
+Absatzes 2 Nummer 2 und der Absätze 3 und 3a auch mit Ausnahme der §§
+48, 95 Absatz 1 Nummer 1 und 3a, Absatz 2 bis 4, § 96 Nummer 3, 10 und
+11 sowie § 97 Absatz 1, 2 Nummer 1 und 9 sowie Absatz 3, ferner in den
+Fällen des Absatzes 3a auch mit Ausnahme der §§ 20b bis 20d, 72, 72b,
+72c, 96 Nummer 18b und 18d und des § 97 Absatz 2 Nummer 7a. Auf
+Arzneimittel nach Absatz 3b finden die Vorschriften dieses Gesetzes
+keine Anwendung mit Ausnahme der §§ 5, 8, 48, 52a, 56a, 57, 58 Absatz
+1 Satz 1, der §§ 59, 64 bis 69a, 78, 95 Absatz 1 Nummer 1, 3a, 6, 8, 9
 und 10, Absatz 2 bis 4, § 96 Nummer 3, 13, 14 und 15 bis 17, § 97
 Absatz 1, 2 Nummer 1, 21 bis 24 sowie 31 und Absatz 3 sowie der
 Vorschriften der auf Grund des § 12 Absatz 1 Nummer 1 und 2 sowie
@@ -9659,13 +11208,13 @@ dieses Gesetzes zugelassene Arzneimittel festgesetzte Wartezeit
 hinzuweisen.
 
 (6) Für die zollamtliche Abfertigung zum freien Verkehr im Falle des
-Absatzes 1 Nr. 2 sowie des Absatzes 1a Nr. 2 in Verbindung mit Absatz
-1 Nr. 2 ist die Vorlage einer Bescheinigung der für den Empfänger
-zuständigen Behörde erforderlich, in der die Arzneimittel bezeichnet
-sind und bestätigt wird, dass die Voraussetzungen nach Absatz 1 oder
-Absatz 1a erfüllt sind. Die Zolldienststelle übersendet auf Kosten des
-Zollbeteiligten die Bescheinigung der Behörde, die diese Bescheinigung
-ausgestellt hat.
+Absatzes 1 Satz 1 Nr. 2 sowie des Absatzes 1a Nr. 2 in Verbindung mit
+Absatz 1 Satz 1 Nr. 2 ist die Vorlage einer Bescheinigung der für den
+Empfänger zuständigen Behörde erforderlich, in der die Arzneimittel
+bezeichnet sind und bestätigt wird, dass die Voraussetzungen nach
+Absatz 1 oder Absatz 1a erfüllt sind. Die Zolldienststelle übersendet
+auf Kosten des Zollbeteiligten die Bescheinigung der Behörde, die
+diese Bescheinigung ausgestellt hat.
 
 (7) Im Falle des Absatzes 1 Nr. 1 hat ein Empfänger, der Großhändler
 ist oder eine Apotheke betreibt, das Bestehen der Deckungsvorsorge
@@ -9674,13 +11223,14 @@ nach § 94 nachzuweisen.
 
 ### § 73a Ausfuhr
 
-(1) Abweichend von den §§ 5 und 8 Abs. 1 dürfen die dort bezeichneten
-Arzneimittel ausgeführt oder aus dem Geltungsbereich des Gesetzes
-verbracht werden, wenn die zuständige Behörde des Bestimmungslandes
-die Einfuhr oder das Verbringen genehmigt hat. Aus der Genehmigung
-nach Satz 1 muss hervorgehen, dass der zuständigen Behörde des
-Bestimmungslandes die Versagungsgründe bekannt sind, die dem
-Inverkehrbringen im Geltungsbereich dieses Gesetzes entgegenstehen.
+(1) Abweichend von den §§ 5 und 8 Absatz 1 und 2 dürfen die dort
+bezeichneten Arzneimittel ausgeführt oder aus dem Geltungsbereich des
+Gesetzes verbracht werden, wenn die zuständige Behörde des
+Bestimmungslandes die Einfuhr oder das Verbringen genehmigt hat. Aus
+der Genehmigung nach Satz 1 muss hervorgehen, dass der zuständigen
+Behörde des Bestimmungslandes die Versagungsgründe bekannt sind, die
+dem Inverkehrbringen im Geltungsbereich dieses Gesetzes
+entgegenstehen.
 
 (2) Auf Antrag des pharmazeutischen Unternehmers, des Herstellers, des
 Ausführers oder der zuständigen Behörde des Bestimmungslandes stellt
@@ -9727,13 +11277,12 @@ und zur Leistung von Hilfsdiensten sowie zur Duldung der Einsichtnahme
 in Geschäftspapiere und sonstige Unterlagen und zur Duldung von
 Besichtigungen und von Entnahmen unentgeltlicher Proben vorsehen. Die
 Rechtsverordnung ergeht im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit, soweit es sich um
+Umwelt, Naturschutz, Bau und Reaktorsicherheit, soweit es sich um
 radioaktive Arzneimittel und Wirkstoffe oder um Arzneimittel und
 Wirkstoffe handelt, bei deren Herstellung ionisierende Strahlen
 verwendet werden, und im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz, soweit es sich um
-Arzneimittel und Wirkstoffe handelt, die zur Anwendung bei Tieren
-bestimmt sind.
+Ernährung und Landwirtschaft, soweit es sich um Arzneimittel und
+Wirkstoffe handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 
 ## Vierzehnter Abschnitt - Informationsbeauftragter, Pharmaberater
@@ -9809,8 +11358,8 @@ gleichwertig ist.
 einzelne Arzneimittel fachlich informiert, die Fachinformation nach §
 11a vorzulegen. Er hat Mitteilungen von Angehörigen der Heilberufe
 über Nebenwirkungen und Gegenanzeigen oder sonstige Risiken bei
-Arzneimitteln schriftlich aufzuzeichnen und dem Auftraggeber
-schriftlich mitzuteilen.
+Arzneimitteln schriftlich oder elektronisch aufzuzeichnen und dem
+Auftraggeber schriftlich mitzuteilen.
 
 (2) Soweit der Pharmaberater vom pharmazeutischen Unternehmer
 beauftragt wird, Muster von Fertigarzneimitteln an die nach § 47 Abs.
@@ -9832,9 +11381,9 @@ Institut oder das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit zuständig ist.
 
 (2) Das Paul-Ehrlich-Institut ist zuständig für Sera, Impfstoffe,
-Blutzubereitungen, Knochenmarkzubereitungen, Gewebezubereitungen,
-Gewebe, Allergene, Arzneimittel für neuartige Therapien, xenogene
-Arzneimittel und gentechnisch hergestellte Blutbestandteile.
+Blutzubereitungen, Gewebezubereitungen, Gewebe, Allergene,
+Arzneimittel für neuartige Therapien, xenogene Arzneimittel und
+gentechnisch hergestellte Blutbestandteile.
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
 zuständig für Arzneimittel, die zur Anwendung bei Tieren bestimmt
@@ -9874,12 +11423,11 @@ Betriebs-, Dienst- und Geschäftsgeheimnisse zu wahren.
 
 ### § 78 Preise
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium und, soweit es
-sich um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt
-sind, im Einvernehmen mit dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium und, soweit es sich um
+Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind, im
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  Preisspannen für Arzneimittel, die im Großhandel, in Apotheken oder
     von Tierärzten im Wiederverkauf abgegeben werden,
@@ -9895,9 +11443,10 @@ Zustimmung des Bundesrates
 
 
 festzusetzen. Abweichend von Satz 1 wird das Bundesministerium für
-Wirtschaft und Technologie ermächtigt, im Einvernehmen mit dem
+Wirtschaft und Energie ermächtigt, im Einvernehmen mit dem
 Bundesministerium durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, den Festzuschlag entsprechend der
+Bundesrates bedarf, den Anteil des Festzuschlags, der nicht der
+Förderung der Sicherstellung des Notdienstes dient, entsprechend der
 Kostenentwicklung der Apotheken bei wirtschaftlicher Betriebsführung
 anzupassen. Die Preisvorschriften für den Großhandel aufgrund von Satz
 1 Nummer 1 gelten auch für pharmazeutische Unternehmer oder andere
@@ -9910,11 +11459,13 @@ ist, gilt auch für Arzneimittel, die gemäß § 73 Absatz 1 Satz 1 Nummer
 
 (2) Die Preise und Preisspannen müssen den berechtigten Interessen der
 Arzneimittelverbraucher, der Tierärzte, der Apotheken und des
-Großhandels Rechnung tragen. Ein einheitlicher Apothekenabgabepreis
-für Arzneimittel, die vom Verkehr außerhalb der Apotheken
-ausgeschlossen sind, ist zu gewährleisten. Satz 2 gilt nicht für nicht
-verschreibungspflichtige Arzneimittel, die nicht zu Lasten der
-gesetzlichen Krankenversicherung abgegeben werden.
+Großhandels Rechnung tragen; zu den berechtigten Interessen der
+Arzneimittelverbraucher gehört auch die Sicherstellung der Versorgung.
+Ein einheitlicher Apothekenabgabepreis für Arzneimittel, die vom
+Verkehr außerhalb der Apotheken ausgeschlossen sind, ist zu
+gewährleisten. Satz 2 gilt nicht für nicht verschreibungspflichtige
+Arzneimittel, die nicht zu Lasten der gesetzlichen Krankenversicherung
+abgegeben werden.
 
 (3) Für Arzneimittel nach Absatz 2 Satz 2, für die durch die
 Verordnung nach Absatz 1 Preise und Preisspannen bestimmt sind, haben
@@ -9928,14 +11479,20 @@ kann. Sozialleistungsträger, private Krankenversicherungen sowie deren
 jeweilige Verbände können mit pharmazeutischen Unternehmern für die zu
 ihren Lasten abgegebenen verschreibungspflichtigen Arzneimittel
 Preisnachlässe auf den einheitlichen Abgabepreis des pharmazeutischen
-Unternehmers vereinbaren.
+Unternehmers vereinbaren. Bei der Abgabe von Arzneimitteln, bei der
+die Preise und Preispannen gemäß der Verordnung nach Absatz 1 von der
+Festsetzung ausgenommen sind, darf der einheitliche Abgabepreis nach
+Satz 1 nicht überschritten werden.
 
-(3a) Die Erstattungsbeträge nach § 130b des Fünften Buches
-Sozialgesetzbuch gelten als Rabatt auf den Abgabepreis des
-pharmazeutischen Unternehmers auch für Personen, die das Arzneimittel
-nicht als Versicherte einer gesetzlichen Krankenkasse im Wege der
-Sachleistung erhalten. Der pharmazeutische Unternehmer gewährt den
-Rabatt bei der Abgabe des Arzneimittels.
+(3a) Gilt für ein Arzneimittel ein Erstattungsbetrag nach § 130b des
+Fünften Buches Sozialgesetzbuch, gibt der pharmazeutische Unternehmer
+das Arzneimittel zum Erstattungsbetrag ab. Abweichend von Satz 1 kann
+der pharmazeutische Unternehmer das Arzneimittel zu einem Betrag
+unterhalb des Erstattungsbetrages abgeben; die Verpflichtung in Absatz
+3 Satz 1 erster Halbsatz bleibt unberührt. Der Abgabepreis nach Satz 1
+oder Satz 2 gilt auch für Personen, die das Arzneimittel nicht als
+Versicherte einer gesetzlichen Krankenkasse im Wege der Sachleistung
+erhalten.
 
 (4) Bei Arzneimitteln, die im Fall einer bedrohlichen übertragbaren
 Krankheit, deren Ausbreitung eine sofortige und das übliche Maß
@@ -9952,34 +11509,33 @@ werden. In diesen Fällen gilt Absatz 2 Satz 2 auf Länderebene.
 ### § 79 Ausnahmeermächtigungen für Krisenzeiten
 
 (1) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-Ausnahmen von den Vorschriften dieses Gesetzes und der auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen zuzulassen, wenn die
-notwendige Versorgung der Bevölkerung mit Arzneimitteln sonst
-ernstlich gefährdet wäre und eine unmittelbare oder mittelbare
-Gefährdung der Gesundheit von Menschen durch Arzneimittel nicht zu
-befürchten ist; insbesondere können Regelungen getroffen werden, um
-einer Verbreitung von Gefahren zu begegnen, die als Reaktion auf die
-vermutete oder bestätigte Verbreitung von krankheitserregenden
-Substanzen, Toxinen, Chemikalien oder eine Aussetzung ionisierender
-Strahlung auftreten können.
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates Ausnahmen von den Vorschriften dieses
+Gesetzes und der auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen zuzulassen, wenn die notwendige Versorgung der
+Bevölkerung mit Arzneimitteln sonst ernstlich gefährdet wäre und eine
+unmittelbare oder mittelbare Gefährdung der Gesundheit von Menschen
+durch Arzneimittel nicht zu befürchten ist; insbesondere können
+Regelungen getroffen werden, um einer Verbreitung von Gefahren zu
+begegnen, die als Reaktion auf die vermutete oder bestätigte
+Verbreitung von krankheitserregenden Substanzen, Toxinen, Chemikalien
+oder eine Aussetzung ionisierender Strahlung auftreten können.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium und dem Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, Ausnahmen von den Vorschriften dieses Gesetzes und
-der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
-zuzulassen, wenn die notwendige Versorgung der Tierbestände mit
-Arzneimitteln sonst ernstlich gefährdet wäre und eine unmittelbare
-oder mittelbare Gefährdung der Gesundheit von Mensch oder Tier durch
-Arzneimittel nicht zu befürchten ist.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, Ausnahmen von den
+Vorschriften dieses Gesetzes und der auf Grund dieses Gesetzes
+erlassenen Rechtsverordnungen zuzulassen, wenn die notwendige
+Versorgung der Tierbestände mit Arzneimitteln sonst ernstlich
+gefährdet wäre und eine unmittelbare oder mittelbare Gefährdung der
+Gesundheit von Mensch oder Tier durch Arzneimittel nicht zu befürchten
+ist.
 
 (3) Die Rechtsverordnungen nach Absatz 1 oder 2 ergehen im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel und um
-Arzneimittel, bei deren Herstellung ionisierende Strahlen verwendet
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel und
+um Arzneimittel, bei deren Herstellung ionisierende Strahlen verwendet
 werden, oder um Regelungen zur Abwehr von Gefahren durch ionisierende
 Strahlung handelt.
 
@@ -9988,23 +11544,46 @@ auf sechs Monate zu befristen.
 
 (5) Im Falle eines Versorgungsmangels der Bevölkerung mit
 Arzneimitteln, die zur Vorbeugung oder Behandlung lebensbedrohlicher
-Erkrankungen benötigt werden, können die zuständigen Behörden im
-Einzelfall ein befristetes Inverkehrbringen sowie abweichend von § 73
-Absatz 1 die Einfuhr und das Verbringen von Arzneimitteln gestatten,
-die nicht zum Verkehr im Geltungsbereich dieses Gesetzes zugelassen
-oder registriert sind, wenn sie in dem Staat in Verkehr gebracht
-werden dürfen, aus dem sie in den Geltungsbereich dieses Gesetzes
-verbracht werden. Die Gestattung durch die zuständige Behörde gilt
-zugleich als Bescheinigung nach § 72a Absatz 1 Satz 1 Nummer 3 oder
-nach § 72b Absatz 2 Satz 1 Nummer 3, dass die Einfuhr im öffentlichen
-Interesse liegt. Das Vorliegen eines Versorgungsmangels im Sinne
-dieses Absatzes sowie dessen Beendigung werden vom Bundesministerium
-im Wege der Bekanntmachung festgestellt, die im Bundesanzeiger oder im
-elektronischen Bundesanzeiger zu veröffentlichen ist. Die
-Bekanntmachung ergeht im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit, soweit es sich um
-radioaktive Arzneimittel und um Arzneimittel handelt, bei deren
-Herstellung ionisierende Strahlen verwendet werden.
+Erkrankungen benötigt werden, oder im Fall einer bedrohlichen
+übertragbaren Krankheit, deren Ausbreitung eine sofortige und das
+übliche Maß erheblich überschreitende Bereitstellung von spezifischen
+Arzneimitteln erforderlich macht, können die zuständigen Behörden im
+Einzelfall gestatten, dass Arzneimittel, die nicht zum Verkehr im
+Geltungsbereich dieses Gesetzes zugelassen oder registriert sind,
+
+1.  befristet in Verkehr gebracht werden sowie
+
+
+2.  abweichend von § 73 Absatz 1 in den Geltungsbereich dieses Gesetzes
+    verbracht werden.
+
+
+
+Satz 1 gilt, wenn die Arzneimittel in dem Staat rechtmäßig in Verkehr
+gebracht werden dürfen, aus dem sie in den Geltungsbereich dieses
+Gesetzes verbracht werden. Die Gestattung durch die zuständige Behörde
+gilt zugleich als Bescheinigung nach § 72a Absatz 1 Satz 1 Nummer 3
+oder nach § 72b Absatz 2 Satz 1 Nummer 3, dass die Einfuhr im
+öffentlichen Interesse liegt. Im Falle eines Versorgungsmangels oder
+einer bedrohlichen übertragbaren Krankheit im Sinne des Satzes 1
+können die zuständigen Behörden im Einzelfall auch ein befristetes
+Abweichen von Erlaubnis- oder Genehmigungserfordernissen oder von
+anderen Verboten nach diesem Gesetz gestatten. Vom Bundesministerium
+wird festgestellt, dass ein Versorgungsmangel oder eine bedrohliche
+übertragbare Krankheit im Sinne des Satzes 1 vorliegt oder nicht mehr
+vorliegt. Die Feststellung erfolgt durch eine Bekanntmachung, die im
+Bundesanzeiger veröffentlicht wird. Die Bekanntmachung ergeht im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, soweit es sich um radioaktive Arzneimittel und
+um Arzneimittel handelt, bei deren Herstellung ionisierende Strahlen
+verwendet werden.
+
+(6) Maßnahmen der zuständigen Behörden nach Absatz 5 sind auf das
+erforderliche Maß zu begrenzen und müssen angemessen sein, um den
+Gesundheitsgefahren zu begegnen, die durch den Versorgungsmangel oder
+die bedrohliche übertragbare Krankheit hervorgerufen werden.
+Widerspruch und Anfechtungsklage gegen Maßnahmen nach Absatz 5 haben
+keine aufschiebende Wirkung.
 
 
 ### § 80 Ermächtigung für Verfahrens- und Härtefallregelungen
@@ -10016,25 +11595,47 @@ nicht der Zustimmung des Bundesrates bedarf, die weiteren Einzelheiten
 1.  der Zulassung einschließlich der Verlängerung der Zulassung,
 
 
+1a. der Genehmigung nach § 21a Absatz 1 oder der Bescheinigung nach § 21a
+    Absatz 9,
+
+
+1b. der Genehmigung nach § 4b Absatz 3,
+
+
 2.  der staatlichen Chargenprüfung und der Freigabe einer Charge,
 
 
 3.  den Anzeigen zur Änderung der Zulassungsunterlagen,
 
 
-3a. der zuständigen Bundesoberbehörde und den beteiligten Personen im
+3a. den Anzeigen über Änderungen der Angaben und Unterlagen für die
+    Genehmigung nach § 21a Absatz 1 oder über Änderungen in den
+    Anforderungen für die Bescheinigung nach § 21a Absatz 9,
+
+
+3b. den Anzeigen über Änderungen der Angaben und Unterlagen für die
+    Genehmigung nach § 4b Absatz 3,
+
+
+3c. der zuständigen Bundesoberbehörde und den beteiligten Personen im
     Falle des Inverkehrbringens in Härtefällen nach § 21 Abs. 2 Satz 1 Nr.
     6 in Verbindung mit Artikel 83 der Verordnung (EG) Nr. 726/2004,
 
 
-4.  der Registrierung,
+4.  der Registrierung einschließlich der Verlängerung der Registrierung,
+
+
+4a. den Anzeigen zur Änderung der Registrierungsunterlagen,
+
+
+4b. der Veröffentlichung der Ergebnisse klinischer Prüfungen nach § 42b,
 
 
 5.  den Meldungen von Arzneimittelrisiken und
 
 
-6.  der elektronischen Einreichung von Unterlagen nach den Nummern 1, 3, 4
-    und 5 einschließlich der zu verwendenden Formate
+6.  der elektronischen Einreichung von Unterlagen nach den Nummern 1 bis 5
+    einschließlich der zu verwendenden Formate
 
 
 
@@ -10057,15 +11658,14 @@ den Artikel 83 der Verordnung (EG) Nr. 726/2004 entsprechenden
 Voraussetzungen Arzneimittel betreffen, die nicht zu den in Artikel 3
 Abs. 1 oder 2 dieser Verordnung genannten gehören. Die
 Rechtsverordnungen nach den Sätzen 1 und 2 ergehen im Einvernehmen mit
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
-Anwendung bei Tieren bestimmt sind.
+dem Bundesministerium für Ernährung und Landwirtschaft, soweit es sich
+um Arzneimittel handelt, die zur Anwendung bei Tieren bestimmt sind.
 
 
 ### § 81 Verhältnis zu anderen Gesetzen
 
-Die Vorschriften des Betäubungsmittel- und Atomrechts und des
-Tierschutzgesetzes bleiben unberührt.
+Die Vorschriften des Betäubungsmittel- und Atomrechts, des Anti-
+Doping-Gesetzes und des Tierschutzgesetzes bleiben unberührt.
 
 
 ### § 82 Allgemeine Verwaltungsvorschriften
@@ -10076,8 +11676,8 @@ Verwaltungsvorschriften. Soweit sich diese an die zuständige
 Bundesoberbehörde richten, werden die allgemeinen
 Verwaltungsvorschriften von dem Bundesministerium erlassen. Die
 allgemeinen Verwaltungsvorschriften nach Satz 2 ergehen im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz, soweit es sich um Arzneimittel handelt, die zur
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft, soweit es sich um Arzneimittel handelt, die zur
 Anwendung bei Tieren bestimmt sind.
 
 
@@ -10104,8 +11704,15 @@ Rechtsverordnungen zu ändern, soweit es zur Anpassung an Änderungen
 dieser Vorschriften erforderlich ist. Handelt es sich um Vorschriften
 über Arzneimittel oder Stoffe, die zur Anwendung am Tier bestimmt
 sind, tritt an die Stelle des Bundesministeriums das Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz, das die
-Rechtsverordnung im Einvernehmen mit dem Bundesministerium erlässt.
+für Ernährung und Landwirtschaft, das die Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium erlässt.
+
+
+### § 83b Verkündung von Rechtsverordnungen
+
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
+1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
+verkündet werden.
 
 
 ## Sechzehnter Abschnitt - Haftung für Arzneimittelschäden
@@ -10213,6 +11820,14 @@ leisten, als der Getötete während der mutmaßlichen Dauer seines Lebens
 zur Gewährung des Unterhalts verpflichtet gewesen sein würde. Die
 Ersatzpflicht tritt auch dann ein, wenn der Dritte zur Zeit der
 Verletzung erzeugt, aber noch nicht geboren war.
+
+(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der
+Verletzung zu dem Getöteten in einem besonderen persönlichen
+Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische
+Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes
+persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der
+Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
+Getöteten war.
 
 
 ### § 87 Umfang der Ersatzpflicht bei Körperverletzung
@@ -10382,12 +11997,10 @@ bestraft, wer
     bestimmten Tatbestand auf diese Strafvorschrift verweist,
 
 
-2a. entgegen § 6a Abs. 1 Arzneimittel zu Dopingzwecken im Sport in den
-    Verkehr bringt, verschreibt oder bei anderen anwendet,
+2a. (weggefallen)
 
 
-2b. entgegen § 6a Absatz 2a Satz 1 ein Arzneimittel oder einen Wirkstoff
-    besitzt,
+2b. (weggefallen)
 
 
 3.  entgegen § 7 Abs. 1 radioaktive Arzneimittel oder Arzneimittel, bei
@@ -10468,20 +12081,7 @@ der Regel vor, wenn der Täter
 
 
 
-2.  in den Fällen des Absatzes 1 Nr. 2a
-
-    a)  Arzneimittel zu Dopingzwecken im Sport an Personen unter 18 Jahren
-        abgibt oder bei diesen Personen anwendet oder
-
-
-    b)  gewerbsmäßig oder als Mitglied einer Bande handelt, die sich zur
-        fortgesetzten Begehung solcher Taten verbunden hat, oder
-
-
-
-
-
-3.  in den Fällen des Absatzes 1 Nr. 3a gefälschte Arzneimittel oder
+2.  in den Fällen des Absatzes 1 Nr. 3a gefälschte Arzneimittel oder
     Wirkstoffe herstellt oder in den Verkehr bringt und dabei gewerbsmäßig
     oder als Mitglied einer Bande handelt, die sich zur fortgesetzten
     Begehung solcher Taten verbunden hat.
@@ -10577,7 +12177,9 @@ bestraft, wer
 
 
 13. entgegen § 48 Abs. 1 Satz 1 Nr. 1 in Verbindung mit einer
-    Rechtsverordnung nach § 48 Abs. 2 Nr. 1, 2 oder Nummer 7 Arzneimittel
+    Rechtsverordnung nach § 48 Abs. 2 Nr. 1, 2 oder Nummer 7 oder entgegen
+    § 48 Absatz 1 Satz 1 Nummer 3, auch in Verbindung mit einer
+    Rechtsverordnung nach § 48 Absatz 2 Satz 1 Nummer 1, Arzneimittel
     abgibt, wenn die Tat nicht in § 95 Abs. 1 Nr. 6 mit Strafe bedroht
     ist,
 
@@ -10609,13 +12211,15 @@ bestraft, wer
     verabreicht,
 
 
-18b. entgegen § 72a Absatz 1 Satz 1, auch in Verbindung mit Absatz 1b oder
+18b. ohne Erlaubnis nach § 72 Absatz 4 Satz 2, § 72b Absatz 1 Satz 3 oder §
+    72c Absatz 1 Satz 2, auch in Verbindung mit § 72c Absatz 4 Satz 1,
+    dort genannte hämatopoetische Stammzellen, Stammzellzubereitungen,
+    Gewebe oder Gewebezubereitungen einführt,
+
+
+18c. entgegen § 72a Absatz 1 Satz 1, auch in Verbindung mit Absatz 1b oder
     Absatz 1d, oder entgegen § 72a Absatz 1c ein Arzneimittel, einen
     Wirkstoff oder einen in den genannten Absätzen anderen Stoff einführt,
-
-
-18c. ohne Erlaubnis nach § 72b Abs. 1 Satz 1 Gewebe oder
-    Gewebezubereitungen einführt,
 
 
 18d. entgegen § 72b Abs. 2 Satz 1 Gewebe oder Gewebezubereitungen einführt,
@@ -10637,7 +12241,7 @@ bestraft, wer
     für die Genehmigung und Überwachung von Human- und Tierarzneimitteln
     und zur Errichtung einer Europäischen Arzneimittel-Agentur (ABl. L 136
     vom 30.4.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr.
-    1235/2010 (ABl. L 348 vom 31.12.2010, S. 1) geändert worden ist,
+    1027/2012 (ABl. L 316 vom 14.11.2012, S. 38) geändert worden ist,
     verstößt, indem er
 
     a)  entgegen Artikel 6 Absatz 1 Satz 1 der Verordnung in Verbindung mit
@@ -10645,8 +12249,8 @@ bestraft, wer
         Buchstabe ib der Richtlinie 2001/83/EG des Europäischen Parlaments und
         des Rates vom 6. November 2001 zur Schaffung eines
         Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001,
-        S. 67), die zuletzt durch die Richtlinie 2011/62/EU (ABl. L 174 vom
-        1\.7.2011, S. 74) geändert worden ist, eine Angabe oder eine Unterlage
+        S. 67), die zuletzt durch die Richtlinie 2012/26/EU (ABl. L 299 vom
+        27\.10.2012, S. 1) geändert worden ist, eine Angabe oder eine Unterlage
         nicht richtig oder nicht vollständig beifügt oder
 
 
@@ -10668,8 +12272,16 @@ bestraft, wer
 
 ### § 97 Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer eine der in § 96 bezeichneten
-Handlungen fahrlässig begeht.
+(1) Ordnungswidrig handelt, wer eine in
+
+1.  § 96 Nummer 1 bis 5b, 7 bis 18e oder Nummer 19 oder
+
+
+2.  § 96 Nummer 6 oder Nummer 20
+
+
+
+bezeichnete Handlung fahrlässig begeht.
 
 (2) Ordnungswidrig handelt auch, wer vorsätzlich oder fahrlässig
 
@@ -10704,16 +12316,25 @@ Handlungen fahrlässig begeht.
 6.  einer vollziehbaren Anordnung nach § 18 Abs. 2 zuwiderhandelt,
 
 
-7.  entgegen § 20 oder entgegen § 20b Absatz 5 oder entgegen § 20c Absatz
-    6, auch in Verbindung mit § 72b Absatz 1 Satz 2, oder entgegen § 21a
-    Absatz 7 Satz 1 und Absatz 9 Satz 4, oder entgegen § 29 Absatz 1 Satz
-    1, Absatz 1c Satz 1, oder entgegen § 52a Absatz 8, oder § 63c Absatz
-    2, oder entgegen § 63h Absatz 2 Satz 1, auch in Verbindung mit Satz 2,
-    oder entgegen § 63i Absatz 2 Satz 1, oder entgegen § 67 Absatz 1 Satz
-    1, auch in Verbindung mit Satz 2, jeweils auch in Verbindung mit §
-    69a, entgegen § 67 Absatz 5 Satz 1, Absatz 6 Satz 1 oder Absatz 8 Satz
-    1, oder entgegen § 73 Absatz 3a Satz 4 eine Anzeige nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+7.  entgegen
+
+    a)  den §§ 20, 20b Absatz 5, § 20c Absatz 6, § 52a Absatz 8, § 67 Absatz 8
+        Satz 1, § 72b Absatz 2c Satz 1 oder § 73 Absatz 3b Satz 4,
+
+
+    b)  § 21a Absatz 7 Satz 1, § 29 Absatz 1 Satz 1, auch in Verbindung mit
+        Satz 2, entgegen § 29 Absatz 1c Satz 1, § 63c Absatz 2, § 63h Absatz
+        2, § 63i Absatz 2 Satz 1 oder
+
+
+    c)  § 67 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, jeweils auch in
+        Verbindung mit § 69a, entgegen § 67 Absatz 5 Satz 1 oder Absatz 6 Satz
+        1
+
+
+
+    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet,
 
 
 7a. entgegen § 29 Abs. 1a Satz 1, Abs. 1b oder 1d eine Mitteilung nicht,
@@ -10792,7 +12413,9 @@ Handlungen fahrlässig begeht.
     Fütterungsarzneimittel herstellt,
 
 
-19. Fütterungsarzneimittel nicht nach § 56 Abs. 4 Satz 3 kennzeichnet,
+19. entgegen § 56 Absatz 4 Satz 2 eine verfütterungsfertige Mischung
+    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig kennzeichnet,
 
 
 20. entgegen § 56 Abs. 5 Satz 1 ein Fütterungsarzneimittel verschreibt,
@@ -10827,6 +12450,26 @@ Handlungen fahrlässig begeht.
 
 23. entgegen § 58 Abs. 1 Satz 2 oder 3 Arzneimittel bei Tieren anwendet,
     die der Gewinnung von Lebensmitteln dienen,
+
+
+23a. entgegen § 58a Absatz 1 Satz 1 oder 2 oder Absatz 3, Absatz 4 Satz 1,
+    Satz 2 oder Satz 3 oder § 58b Absatz 1 Satz 1, 2 oder 3 oder Absatz 2
+    Satz 2 Nummer 2 oder Absatz 3 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig macht,
+
+
+23b. entgegen § 58d Absatz 1 Nummer 2 eine dort genannte Feststellung
+    nicht, nicht richtig oder nicht rechtzeitig aufzeichnet,
+
+
+23c. entgegen § 58d Absatz 2 Satz 1 Nummer 2 einen dort genannten Plan
+    nicht, nicht richtig, nicht vollständig, nicht in der vorgeschriebenen
+    Weise oder nicht rechtzeitig erstellt,
+
+
+23d. einer vollziehbaren Anordnung nach § 58d Absatz 3 oder Absatz 4 Satz 1
+    zuwiderhandelt,
 
 
 24. einer Aufzeichnungs- oder Vorlagepflicht nach § 59 Abs. 4
@@ -10943,8 +12586,10 @@ Handlungen fahrlässig begeht.
 
 31. einer Rechtsverordnung nach § 7 Abs. 2 Satz 2, § 12 Abs. 1 Nr. 3
     Buchstabe a, § 12 Abs. 1b, § 42 Abs. 3, § 54 Abs. 1, § 56a Abs. 3, §
-    57 Abs. 2, § 58 Abs. 2 oder § 74 Abs. 2 zuwiderhandelt, soweit sie für
-    einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist,
+    57 Absatz 2 oder Absatz 3, § 58 Abs. 2 oder § 74 Abs. 2 oder einer
+    vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist,
 
 
 32. (weggefallen)
@@ -11045,12 +12690,18 @@ verstößt, indem er vorsätzlich oder fahrlässig
 geahndet werden.
 
 (4) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
-Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1 in
-Verbindung mit § 96 Nummer 6 und 20, des Absatzes 2 Nummer 7 in
-Verbindung mit § 21a Absatz 7, 9 Satz 4, § 29 Absatz 1 oder Absatz 1c
-Satz 1, § 63c Absatz 2, § 63h Absatz 2, 3 und 4, § 63i Absatz 2 Satz
-1, des Absatzes 2 Nummer 7a, 9a und 24e bis 24q und der Absätze 2a bis
-2c die nach § 77 zuständige Bundesoberbehörde.
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen
+
+1.  des Absatzes 1 Nummer 2, des Absatzes 2 Nummer 7 Buchstabe b, Nummer
+    7a, 9b und 24e bis 24q, der Absätze 2a bis 2c und
+
+
+2.  des Absatzes 2 Nummer 7 Buchstabe c, soweit die Tat gegenüber der
+    zuständigen Bundesoberbehörde begangen wird,
+
+
+
+die nach § 77 zuständige Bundesoberbehörde.
 
 
 ### § 98 Einziehung
@@ -11059,16 +12710,6 @@ Gegenstände, auf die sich eine Straftat nach § 95 oder § 96 oder eine
 Ordnungswidrigkeit nach § 97 bezieht, können eingezogen werden. § 74a
 des Strafgesetzbuches und § 23 des Gesetzes über Ordnungswidrigkeiten
 sind anzuwenden.
-
-
-### § 98a Erweiterter Verfall
-
-In den Fällen des § 95 Abs. 1 Nr. 2a sowie der Herstellung und des
-Inverkehrbringens gefälschter Arzneimittel nach § 95 Abs. 1 Nr. 3a in
-Verbindung mit § 8 Absatz 2 ist § 73d des Strafgesetzbuches
-anzuwenden, wenn der Täter gewerbsmäßig oder als Mitglied einer Bande,
-die sich zur fortgesetzten Begehung solcher Taten verbunden hat,
-handelt.
 
 
 ## Achtzehnter Abschnitt - Überleitungs- und Übergangsvorschriften
@@ -11435,8 +13076,8 @@ Paul-Ehrlich-Instituts fallen.
 
 #### § 105b
 
-Der Anspruch auf Zahlung von Kosten, die nach § 33 Abs. 1 in
-Verbindung mit einer nach § 33 Abs. 2 oder einer nach § 39 Abs. 3
+Der Anspruch auf Zahlung von Gebühren und Auslagen, die nach § 33 Abs.
+1 in Verbindung mit einer nach § 33 Abs. 2 oder einer nach § 39 Abs. 3
 erlassenen Rechtsverordnung für die Verlängerung der Zulassung oder
 die Registrierung eines Fertigarzneimittels im Sinne des § 105 Abs. 1
 zu erheben sind, verjährt mit Ablauf des vierten Jahres nach der
@@ -11878,9 +13519,9 @@ Sera aus menschlichem Blut ausübt und die Voraussetzungen des § 15
 Abs. 3 in der bis zu dem genannten Zeitpunkt geltenden Fassung
 erfüllt, darf diese Tätigkeit weiter ausüben. Wer zu dem in Satz 1
 genannten Zeitpunkt die Tätigkeit der Vorbehandlung von Personen zur
-Separation von Blutstammzellen oder anderen Blutbestandteilen nach dem
-Stand von Wissenschaft und Technik ausübt, darf diese Tätigkeit weiter
-ausüben.
+Separation von hämatopoetischen Stammzellen aus dem peripheren Blut
+oder von anderen Blutbestandteilen nach dem Stand von Wissenschaft und
+Technik ausübt, darf diese Tätigkeit weiter ausüben.
 
 
 ### Siebter Unterabschnitt - Übergangsvorschriften aus Anlass des Achten Gesetzes zur Änderung des Arzneimittelgesetzes
@@ -12067,9 +13708,10 @@ Wer bei Inkrafttreten von Artikel 2 Nr. 3 des Ersten Gesetzes zur
 Änderung des Transfusionsgesetzes und arzneimittelrechtlicher
 Vorschriften vom 10. Februar 2005 (BGBl. I S. 234) die Tätigkeit als
 Herstellungsleiter oder als Kontrollleiter für die Prüfung von
-Blutstammzellenzubereitungen ausübt und die Voraussetzungen des § 15
-Abs. 3 in der bis zu diesem Zeitpunkt geltenden Fassung erfüllt, darf
-diese Tätigkeit weiter ausüben.
+hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut ausübt und die Voraussetzungen des § 15 Abs. 3
+in der bis zu diesem Zeitpunkt geltenden Fassung erfüllt, darf diese
+Tätigkeit weiter ausüben.
 
 
 ### Zwölfter Unterabschnitt - Übergangsvorschriften aus Anlass des Dreizehnten Gesetzes zur Änderung des Arzneimittelgesetzes
@@ -12176,15 +13818,15 @@ genannten Arzneimitteln identisch sind.
 (11) § 48 Abs. 1 Satz 1 Nr. 2 ist erst ab dem Tag anzuwenden, an dem
 eine Rechtsverordnung nach § 48 Abs. 6 Satz 1 in Kraft getreten ist,
 spätestens jedoch am 1. Januar 2008. Das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz gibt den Tag nach Satz
-1 im Bundesgesetzblatt bekannt.
+Ernährung und Landwirtschaft gibt den Tag nach Satz 1 im
+Bundesgesetzblatt bekannt.
 
 (12) § 56a Abs. 2a ist erst anzuwenden, nachdem die dort genannte
-Liste erstellt und vom Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz im Bundesanzeiger bekannt gemacht oder, sofern
-sie Teil eines unmittelbar geltenden Rechtsaktes der Europäischen
-Gemeinschaft oder der Europäischen Union ist, im Amtsblatt der
-Europäischen Union veröffentlicht worden ist.
+Liste erstellt und vom Bundesministerium für Ernährung und
+Landwirtschaft im Bundesanzeiger bekannt gemacht oder, sofern sie Teil
+eines unmittelbar geltenden Rechtsaktes der Europäischen Gemeinschaft
+oder der Europäischen Union ist, im Amtsblatt der Europäischen Union
+veröffentlicht worden ist.
 
 (13) Für Arzneimittel, die sich am 5. September 2005 im Verkehr
 befinden und für die zu diesem Zeitpunkt die Berichtspflicht nach §
@@ -12202,7 +13844,7 @@ Entscheidung über den Antrag auf Zulassung oder Registrierung nach §
 der bisherigen Form in den Verkehr gebracht werden.
 
 
-### Vierzehnter Unterabschnitt -
+### Vierzehnter Unterabschnitt - 
 
 
 
@@ -12229,40 +13871,49 @@ Zulassung nach § 21 Abs. 1 besitzt, muss keinen neuen Antrag nach §
 20b Abs. 1, § 20c Abs. 1 oder § 21a Abs. 1 stellen.
 
 
-### Fünfzehnter Unterabschnitt -
+#### § 142a Übergangs- und Bestandsschutzvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
+
+(1) Für autologes Blut für die Herstellung von biotechnologisch
+bearbeiteten Gewebeprodukten ist § 72b in der bis einschließlich 25.
+November 2016 geltenden Fassung anzuwenden.
+
+(2) Wer am 26. November 2016 eine Erlaubnis nach der bis
+einschließlich 25. November 2016 geltenden Fassung des § 72 Absatz 1
+für die Einfuhr von hämatopoetischen Stammzellen und
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut oder eine Erlaubnis nach der bis einschließlich 25.
+November 2016 geltenden Fassung des § 72b Absatz 1 besitzt, muss ab
+dem 29. April 2017 die Anforderungen des § 72 Absatz 4 und 5, § 72a
+Absatz 1 Satz 2 und Absatz 1e, § 72b Absatz 1, 1a, 2 Satz 2, Absatz
+2a, 2c, 2d und des § 72c erfüllen.
+
+(3) Die Verpflichtung zur Kennzeichnung hämatopoetischer
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut mit dem Einheitlichen Europäischen Code mit der
+Abkürzung „SEC“ nach § 10 Absatz 8a Satz 3 und die Verpflichtung zur
+Kennzeichnung von Gewebezubereitungen mit dem Einheitlichen
+Europäischen Code mit der Abkürzung „SEC“ nach § 10 Absatz 8b Satz 1
+sind ab dem 29. April 2017 zu erfüllen.
+
+
+#### § 142b Übergangsvorschrift aus Anlass des Gesetzes zur Fortschreibung der Vorschriften für Blut- und Gewebezubereitungen und zur Änderung anderer Vorschriften
+
+(1) Wer für Arzneimittel für neuartige Therapien am 29. Juli 2017 eine
+Genehmigung nach § 4b Absatz 3 in der bis zum 28. Juli 2017 geltenden
+Fassung besitzt, muss die Anforderungen des § 4b Absatz 3 Satz 3 und 4
+und Absatz 4 ab dem 29. Juli 2019 erfüllen.
+
+(2) Wer am 29. Juli 2017 eine Genehmigung nach § 21a Absatz 1 besitzt,
+muss die Anforderungen des § 21a Absatz 2 und 3 ab dem 29. Juli 2019
+erfüllen.
+
+
+### Fünfzehnter Unterabschnitt - 
 
 
 
-#### § 143 Übergangsvorschriften aus Anlass des Gesetzes zur Verbesserung der Bekämpfung des Dopings im Sport
+#### § 143 (weggefallen)
 
-(1) Fertigarzneimittel, die vor dem 1. November 2007 von der
-zuständigen Bundesoberbehörde zugelassen worden sind und den
-Vorschriften des § 6a Abs. 2 Satz 2 bis 4 unterliegen, dürfen auch
-ohne die in § 6a Abs. 2 Satz 2 und 3 vorgeschriebenen Hinweise in der
-Packungsbeilage von pharmazeutischen Unternehmern bis zur nächsten
-Verlängerung der Zulassung, jedoch nicht länger als bis zum 31.
-Dezember 2008, in den Verkehr gebracht werden.
-
-(2) Wird ein Stoff oder eine Gruppe von Stoffen in den Anhang des
-Übereinkommens vom 16. November 1989 gegen Doping (BGBl. 1994 II S.
-334) aufgenommen, dürfen Arzneimittel, die zum Zeitpunkt der
-Bekanntmachung des geänderten Anhangs im Bundesgesetzblatt zugelassen
-sind und die einen dieser Stoffe enthalten, auch ohne die in § 6a Abs.
-2 Satz 2 und 3 vorgeschriebenen Hinweise in der Packungsbeilage von
-pharmazeutischen Unternehmern bis zur nächsten Verlängerung der
-Zulassung, jedoch nicht länger als bis zum Ablauf eines Jahres nach
-der Bekanntmachung des Anhangs im Bundesgesetzblatt, in den Verkehr
-gebracht werden. Satz 1 gilt entsprechend für Stoffe, die zur
-Verwendung bei verbotenen Methoden bestimmt sind.
-
-(3) Arzneimittel, die von pharmazeutischen Unternehmern gemäß Absatz 1
-in den Verkehr gebracht worden sind, dürfen von Groß- und
-Einzelhändlern weiter ohne die in § 6a Abs. 2 Satz 2 und 3
-vorgeschriebenen Hinweise in der Packungsbeilage in den Verkehr
-gebracht werden.
-
-(4) Die in Absatz 1 und 2 genannten Fristen gelten entsprechend für
-die Anpassung des Wortlauts der Fachinformation.
 
 
 ### Sechzehnter Unterabschnitt - Übergangsvorschriften aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
@@ -12322,7 +13973,7 @@ Erlaubnis beantragt hat, darf diese Tätigkeit bis zur Entscheidung
 über den Antrag weiter ausüben.
 
 
-### Siebzehnter Unterabschnitt -
+### Siebzehnter Unterabschnitt - 
 
 
 
@@ -12357,31 +14008,36 @@ Kennzeichnung in den Verkehr gebracht werden, die der bis zum 26.
 Oktober 2012 geltenden Vorschrift entspricht.
 
 (2) Arzneimittel, die sich am 26. Oktober 2012 im Verkehr befinden und
-der Vorschrift des § 11 unterliegen, müssen zwei Jahre nach der ersten
-auf die Bekanntmachung nach § 11 Absatz 1b folgenden Verlängerung der
-Zulassung oder Registrierung oder, soweit sie von der Zulassung oder
-Registrierung freigestellt sind, oder, soweit sie keiner Verlängerung
-bedürfen, zwei Jahre, oder, soweit sie nach § 38 registrierte
-Arzneimittel sind, fünf Jahre nach der Bekanntmachung nach § 11 Absatz
-1b vom pharmazeutischen Unternehmer entsprechend der Vorschrift des §
-11 in den Verkehr gebracht werden. Bis zu den jeweiligen Zeitpunkten
-nach Satz 1 dürfen Arzneimittel vom pharmazeutischen Unternehmer, nach
-diesen Zeitpunkten weiter von Groß- und Einzelhändlern mit einer
-Packungsbeilage in den Verkehr gebracht werden, die der bis zum 26.
-Oktober 2012 geltenden Vorschrift entspricht.
+der Vorschrift des § 11 unterliegen, müssen hinsichtlich der Aufnahme
+des Standardtextes nach § 11 Absatz 1 Satz 1 Nummer 5 zwei Jahre nach
+der ersten auf die Bekanntmachung nach § 11 Absatz 1b zu dem
+Standardtext nach § 11 Absatz 1 Satz 1 Nummer 5 folgenden Verlängerung
+der Zulassung oder Registrierung oder, soweit sie von der Zulassung
+freigestellt sind, oder, soweit sie keiner Verlängerung bedürfen, zwei
+Jahre, oder, soweit sie nach § 38 registrierte oder nach § 38 oder §
+39 Absatz 3 von der Registrierung freigestellte Arzneimittel sind,
+fünf Jahre nach der Bekanntmachung nach § 11 Absatz 1b zu dem
+Standardtext nach § 11 Absatz 1 Satz 1 Nummer 5 vom pharmazeutischen
+Unternehmer entsprechend der Vorschrift des § 11 in den Verkehr
+gebracht werden. Bis zu den jeweiligen Zeitpunkten nach Satz 1 dürfen
+Arzneimittel vom pharmazeutischen Unternehmer, nach diesen Zeitpunkten
+weiter von Groß- und Einzelhändlern mit einer Packungsbeilage in den
+Verkehr gebracht werden, die der bis zum 26. Oktober 2012 geltenden
+Vorschrift entspricht.
 
 (2a) Wer am 26. Oktober 2012 Arzneimittel nach § 13 Absatz 2a Satz 2
 Nummer 1 oder 3 herstellt, hat dies der zuständigen Behörde nach § 13
 Absatz 2a Satz 3 bis zum 26. Februar 2013 anzuzeigen.
 
-(3) Der pharmazeutische Unternehmer hat für Fertigarzneimittel, die
+(3) Der pharmazeutische Unternehmer hat hinsichtlich der Aufnahme des
+Standardtextes nach § 11a Absatz 1 Satz 3 für Fertigarzneimittel, die
 sich am 26. Oktober 2012 im Verkehr befinden, mit dem ersten nach der
-Bekanntmachung nach § 11a Absatz 1 Satz 9 gestellten Antrag auf
-Verlängerung der Zulassung der zuständigen Bundesoberbehörde den
-Wortlaut der Fachinformation vorzulegen, die § 11a entspricht; soweit
-diese Arzneimittel keiner Verlängerung bedürfen, gilt die
-Verpflichtung zwei Jahre nach der Bekanntmachung nach § 11a Absatz 1
-Satz 9.
+Bekanntmachung nach § 11a Absatz 1 Satz 9 zu dem Standardtext nach §
+11a Absatz 1 Satz 3 gestellten Antrag auf Verlängerung der Zulassung
+der zuständigen Bundesoberbehörde den Wortlaut der Fachinformation
+vorzulegen, die § 11a entspricht; soweit diese Arzneimittel keiner
+Verlängerung bedürfen, gilt die Verpflichtung zwei Jahre nach der
+Bekanntmachung.
 
 (4) Für Zulassungen oder Registrierungen, deren fünfjährige
 Geltungsdauer bis zum 26. Oktober 2013 endet, gilt weiterhin die Frist
@@ -12420,221 +14076,28 @@ die Registrierung nach § 52c weiter ausüben.
 treiben, müssen ihre Tätigkeit bis zum 26. April 2013 bei der
 zuständigen Behörde anzeigen.
 
-[^F778356_02_BJNR024480976BJNE023700140]
 (11) Wer zum Zweck des Einzelhandels Arzneimittel, die zur Anwendung
 bei Menschen bestimmt sind, im Wege des Versandhandels über das
 Internet anbietet, muss seine Tätigkeit unter Angabe der in § 67
-Absatz 8 erforderlichen Angaben bis zum … [einsetzen: Datum vier
-Monate nach dem Inkrafttreten nach Artikel 15 Absatz 4] bei der
+Absatz 8 erforderlichen Angaben bis zum 24. März 2017 bei der
 zuständigen Behörde anzeigen.
 
 (12) Die in § 94 Absatz 1 Satz 3 Nummer 1 genannten Anforderungen
 finden für Rückversicherungsverträge ab dem 1. Januar 2014 Anwendung.
 
-    Hinweis der Schriftleitung: Der in Artikel 15 Absatz 4 in Bezug
-    genommene Durchführungsrechtsakt der Europäischen Kommission ist
-    bislang noch nicht erlassen.
-[^F778356_02_BJNR024480976BJNE023700140]: 
 
-#### Anhang (zu § 6a Abs. 2a)
+### Neunzehnter Unterabschnitt - Übergangsvorschrift
 
-(Fundstelle des Originaltextes: BGBl I 2007, 2511 - 2512;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-Stoffe gemäß § 6a Abs. 2a Satz 1 sind:
 
-**I.** **Anabole Stoffe**
+#### § 147 Übergangsvorschrift aus Anlass des Dritten Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften
 
-    **1.** **Anabol-androgene Steroide**
+Für nichtinterventionelle Unbedenklichkeitsprüfungen nach § 63f und
+Untersuchungen nach § 67 Absatz 6, die vor dem 13. August 2013
+begonnen wurden, finden § 63f Absatz 4 und § 67 Absatz 6 bis zum 31.
+Dezember 2013 in der bis zum 12. August 2013 geltenden Fassung
+Anwendung.
 
-        **a)** **Exogene anabol-androgene Steroide**
 
-            1-Androstendiol
-            1-Androstendion
-            Bolandiol
-            Bolasteron
-            Boldenon
-            Boldion
-            Calusteron
-            Clostebol
-            Danazol
-            Dehydrochlormethyltestosteron
-            Desoxymethyltestosteron
-            Drostanolon
-            Ethylestrenol
-            Fluoxymesteron
-            Formebolon
-            Furazabol
-            Gestrinon
-            4-Hydroxytestosteron
-            Mestanolon
-            Mesterolon
-            Metandienon
-            Metenolon
-            Methandriol
-            Methasteron
-            Methyldienolon
-            Methyl-1-testosteron
-            Methylnortestosteron
-            Methyltestosteron
-            Metribolon, synonym Methyltrienolon
-            Miboleron
-            Nandrolon
-            19-Norandrostendion
-            Norboleton
-            Norclostebol
-            Norethandrolon
-            Oxabolon
-            Oxandrolon
-            Oxymesteron
-            Oxymetholon
-            Prostanozol
-            Quinbolon
-            Stanozolol
-            Stenbolon
-            1-Testosteron
-            Tetrahydrogestrinon
-            Trenbolon
-            Andere mit anabol-androgenen Steroiden verwandte Stoffe
-
-
-        **b)** **Endogene anabol-androgene Steroide**
-
-            Androstendiol
-            Androstendion
-            Androstanolon, synonym Dihydrotestosteron
-            Prasteron, synonym Dehydroepiandrosteron (DHEA)
-            Testosteron
-
-
-
-
-
-    **2.** **Andere anabole Stoffe**
-
-        Clenbuterol
-        Selektive Androgen-Rezeptor-Modulatoren (SARMs)
-        Tibolon
-        Zeranol
-        Zilpaterol
-
-
-
-
-
-**II.** **Peptidhormone, Wachstumsfaktoren und verwandte Stoffe**
-
-    **1.** Erythropoese stimulierende Stoffe
-        Erythropoetin human (EPO)
-        Epoetin alfa, beta, delta, omega, theta, zeta und analoge rekombinante
-        humane Erythropoetine
-        Darbepoetin alfa (dEPO)
-        Methoxy-Polyethylenglycol-Epoetin beta, synonym PEG-Epoetin beta,
-        Continuous Erythropoiesis Receptor Activator (CERA)
-        Hematide, synonym Penginesatide
-
-
-    **2.** **Choriongonadotropin (CG) und Luteinisierendes Hormon (LH)**
-
-        Choriongonadotropin (HCG)
-
-        Choriogonadotropin alfa
-
-        Lutropin alfa
-
-
-    **3.** **Insuline**
-
-
-    **4.** **Corticotropine**
-        Corticotropin
-        Tetracosactid
-
-
-    **5.** **Wachstumshormon, Releasingfaktoren, Releasingpeptide und
-        Wachstumsfaktoren**
-
-        Somatropin, synonym Wachstumshormon human, Growth Hormone (GH)
-
-        Somatrem, synonym Somatotropin (methionyl), human
-
-        Wachstumshormon-Releasingfaktoren, synonym Growth Hormone Releasing
-        Hormones (GHRH)
-
-        Sermorelin
-
-        Somatorelin
-
-        Wachstumshormon-Releasingpeptide, synonym Growth Hormone Releasing
-        Peptides (GHRP)
-
-        Mecasermin, synonym Insulin-ähnlicher Wachstumsfaktor 1,
-        Insulin-like                          Growth Factor-1 (IGF-1)
-
-        IGF-1-Analoga
-
-
-
-
-
-**III.** **Hormon-Antagonisten und -Modulatoren**
-
-    **1.** **Aromatasehemmer**
-
-        Aminoglutethimid
-
-        Anastrozol
-
-        Androsta-1,4,6-trien-3,17-dion, synonym Androstatriendion
-
-        4-Androsten-3,6,17-trion (6-oxo)
-
-        Exemestan
-
-        Formestan
-
-        Letrozol
-
-        Testolacton
-
-
-    **2.** Selektive Estrogen-Rezeptor-Modulatoren
-        **(SERMs)**
-
-        Raloxifen
-        Tamoxifen
-        Toremifen
-
-
-    **3.** **Andere antiestrogen wirkende Stoffe**
-
-        Clomifen
-        Cyclofenil
-        Fulvestrant
-
-
-    **4.** **Myostatinfunktionen verändernde Stoffe**
-
-        Myostatinhemmer
-        Stamulumab
-
-
-
-
-
-**IV)** **Stoffe für ein Gendoping**
-
-    PPARδ (Peroxisome Proliferator Activated Receptor Delta)-Agonisten,
-    synonym PPAR-delta-Agonisten
-
-    GW 501516, synonym GW 1516
-
-    AMPK (PPARδ-AMP-activated protein kinase)-Axis-Agonisten
-
-    Aminoimidazole Carboxamide Riboside (AICAR).
-
-
-
-Die Aufzählung schließt die verschiedenen Salze, Ester, Ether,
-Isomere, Mischungen von Isomeren, Komplexe oder Derivate mit ein.
+#### Anhang (weggefallen)
 

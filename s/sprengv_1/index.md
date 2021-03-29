@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.1.1991 I 169;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.10.2012 I 2171
+:   Art. 1 V v. 11.6.2017 I 1617
 
 
 ## Abschnitt I - Anwendungsbereich des Gesetzes
@@ -28,96 +28,21 @@ Zuletzt geändert durch
 
 ### § 1
 
-(1) Das Sprengstoffgesetz (Gesetz) ist nicht anzuwenden auf
+(1) Die §§ 7 bis 13, 20 und 21, 22 Abs. 1 und 2 und § 23 des
+Sprengstoffgesetzes sind nicht anzuwenden auf den Erwerb, die
+Aufbewahrung und bestimmungsgemäße Verwendung von Gegenständen mit
+Explosivstoff und pyrotechnischen Gegenständen der Kategorie P2 (§ 6
+Absatz 6 Buchstabe c), die in der Schiffahrt oder in der Luft- und
+Raumfahrt zur Rettung von Menschen oder als Signalmittel bestimmt
+sind, soweit diese Gegenstände vom Reeder, vom Schiffseigner, vom
+Luftfahrtunternehmer oder von deren Beauftragten erworben sowie von
+Personen aufbewahrt oder verwendet werden, die ein nautisches Patent,
+einen Matrosenbrief oder ein Befähigungszeugnis zum Rettungsbootsmann
+besitzen oder als Flug- oder Flugbegleitpersonal tätig sind und die im
+Rahmen ihrer Berufsausbildung im Umgang mit den genannten Gegenständen
+und den dabei zu beachtenden Vorschriften unterwiesen worden sind.
 
-1.  den Erwerb, das Aufbewahren, das Verwenden, das Vernichten, das
-    Verbringen, das Überlassen an andere, die Einfuhr und die Durchfuhr,
-    ausgenommen das Inverkehrbringen und der Konformitätsnachweis nach § 5
-    Absatz 1 des Gesetzes von
-
-    a)  Schallmeßvorrichtungen zur Bestimmung der Wassertiefe mit einem
-        Knallsatz von nicht mehr als je 2 g, wenn diese Gegenstände vom
-        Schiffsführer oder einer von ihm schriftlich beauftragten Person
-        erworben oder verwendet werden,
-
-
-    b)  Schnellauslösevorrichtungen (Auslöser für Gasgeneratoren gelten nicht
-        als Schnellauslösevorrichtungen) mit nicht mehr als 2 g
-        explosionsgefährlichen Stoffen, wenn diese Vorrichtungen gegen ein
-        unbefugtes Öffnen gesichert, druckfest und splittersicher sind und von
-        dem Leiter eines Betriebes oder einer von ihm schriftlich beauftragten
-        Person erworben oder verwendet werden,
-
-
-    c)  Anzündern für Verbrennungskraftmaschinen;
-
-
-    d)  (weggefallen)
-
-
-
-
-
-2.  den Verkehr mit sowie die Einfuhr, die Durchfuhr, das Verbringen, das
-    Aufbewahren, das Verwenden und das Vernichten von Anzündpillen und
-    Anzündlamellen, ausgenommen das Inverkehrbringen und der
-    Konformitätsnachweis nach § 5 Absatz 1 des Gesetzes,
-
-
-2a. den Verkehr mit sowie die Einfuhr, die Durchfuhr, das Verbringen, das
-    Aufbewahren, das Verwenden und das Vernichten von Anzündhütchen mit
-    einem Anzündsatz von nicht mehr als 0,2 g, ausgenommen das
-    Inverkehrbringen und der Konformitätsnachweis nach § 5 des Gesetzes;
-
-
-3.  den Umgang und den Verkehr mit explosionsgefährlichen Stoffen, die an
-    Sicherheitszündhölzern und Überallzündhölzern verarbeitet sind, sowie
-    die Einfuhr der an derartigen Anzündern verarbeiteten
-    explosionsgefährlichen Stoffe;
-
-
-4.  den Umgang - ausgenommen das Be- und Verarbeiten, das Wiedergewinnen
-    und das Vernichten - und den Verkehr mit Fertigerzeugnissen, die aus
-    Zellhorn hergestellt sind oder in denen Zellhorn verarbeitet ist, und
-    mit Membranfiltern aus Cellulosenitraten sowie auf die Einfuhr dieser
-    Erzeugnisse; das gleiche gilt für Kine- und Röntgenfilme auf
-    Cellulosenitratbasis mit photographischer Schicht mit der Maßgabe, daß
-    deren Aufbewahrung im Zusammenhang mit der Wiedergewinnung von der
-    Anwendung des Gesetzes nicht ausgenommen ist;
-
-
-5.  das Herstellen, Bearbeiten, Verarbeiten oder Vernichten
-    explosionsgefährlicher Zwischenerzeugnisse, das Verwenden
-    explosionsgefährlicher Hilfsstoffe, die nicht Explosivstoffe im Sinne
-    des Gesetzes sind, und das innerbetriebliche Transportieren,
-    Inempfangnehmen und Überlassen dieser Stoffe, soweit die Stoffe in
-    einer oder mehreren nach § 4 des Bundes-Immissionsschutzgesetzes
-    genehmigungsbedürftigen Anlagen innerhalb desselben Betriebsgeländes
-    zu nicht explosionsgefährlichen Stoffen verarbeitet werden.
-
-
-
-
-(1a) § 2 Absatz 1 des Gesetzes ist nicht anzuwenden auf das
-gewerbsmäßige Herstellen von sonstigen explosionsgefährlichen Stoffen,
-sofern diese in der Betriebsstätte weiterverarbeitet, gegen
-Abhandenkommen gesichert und nicht aufbewahrt werden.
-
-(2) Die §§ 7 bis 13, 20 und 21, 22 Abs. 1 und 2 und § 23 des Gesetzes
-sind nicht anzuwenden auf den Erwerb, die Aufbewahrung und
-bestimmungsgemäße Verwendung von Gegenständen mit Explosivstoff und
-pyrotechnischen Gegenständen der Kategorie P2 (§ 6 Absatz 6 Buchstabe
-c), die in der Schiffahrt oder in der Luft- und Raumfahrt zur Rettung
-von Menschen oder als Signalmittel bestimmt sind, soweit diese
-Gegenstände vom Reeder, vom Schiffseigner, vom Luftfahrtunternehmer
-oder von deren Beauftragten erworben sowie von Personen aufbewahrt
-oder verwendet werden, die ein nautisches Patent, einen Matrosenbrief
-oder ein Befähigungszeugnis zum Rettungsbootsmann besitzen oder als
-Flug- oder Flugbegleitpersonal tätig sind und die im Rahmen ihrer
-Berufsausbildung im Umgang mit den genannten Gegenständen und den
-dabei zu beachtenden Vorschriften unterwiesen worden sind.
-
-(3) Die §§ 7 bis 14, 20 und 21, 22 Abs. 1 und 2, die §§ 23, 27 sowie §
+(2) Die §§ 7 bis 14, 20 und 21, 22 Abs. 1 und 2, die §§ 23, 27 sowie §
 28 des Gesetzes, soweit er sich auf § 22 Abs. 1 und 2 und § 23, und
 bei Jugendlichen, die das 16. Lebensjahr vollendet haben, auch auf §
 22 Abs. 3 bezieht, sind nicht anzuwenden auf den Erwerb, die
@@ -146,7 +71,7 @@ erworben, aufbewahrt, verwendet oder verbracht werden, die
 3.  einen Befähigungsnachweis zum Führen von Hängegleitern, von
     Gleitflugzeugen und von Ultraleichtflugzeugen des Deutschen
     Hängegleiterverbandes, des Deutschen Aero-Clubs oder einer anderen vom
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung anerkannten
+    Bundesministerium für Verkehr und digitale Infrastruktur anerkannten
     Stelle besitzen.
 
 
@@ -156,7 +81,7 @@ hervorgehen, daß der Inhaber im Rahmen seiner Ausbildung im Umgang mit
 den genannten Gegenständen und den dabei zu beachtenden Vorschriften
 unterwiesen worden ist.
 
-(4) § 15 Abs. 1 und 6 und § 27 des Gesetzes, soweit es sich um das
+(3) § 15 Abs. 1 und 6 und § 27 des Gesetzes, soweit es sich um das
 Aufbewahren und Verwenden handelt, sind nicht anzuwenden auf das
 Einführen und Verbringen von
 
@@ -182,22 +107,22 @@ vom Zeitpunkt der Einfuhr an gerechnet wieder ausgeführt werden.
 
 ### § 2
 
-(1) Die §§ 5, 7 bis 16, 20, 21, 22 Abs. 1 und 2, die §§ 23, 27 sowie §
-28 des Gesetzes, soweit er sich auf § 16 Abs. 1 und 2, § 22 Abs. 1 und
-2 und § 23 bezieht, sind nicht anzuwenden auf
+(1) Die §§ 5, 5f, 7 bis 16, 20, 21, 22 Abs. 1 und 2, die §§ 23, 27
+sowie § 28 des Sprengstoffgesetzes, soweit er sich auf § 16 Abs. 1 und
+2, § 22 Abs. 1 und 2 und § 23 bezieht, sind nicht anzuwenden auf
 
 1.  das Herstellen, das Be- und Verarbeiten, das Aufbewahren, das
     Verwenden, das Vernichten, den Erwerb, das Verbringen und die Einfuhr
     kleiner Mengen von Explosivstoffen, pyrotechnischen Gegenständen und
-    von sonstigen explosionsgefährlichen Stoffen nach § 1 Abs. 3 Nr. 1 des
-    Gesetzes, die für wissenschaftliche, analytische, medizinische und
-    pharmazeutische Zwecke verwendet werden durch
+    von sonstigen explosionsgefährlichen Stoffen nach § 1 Absatz 4 Nummer
+    1 des Sprengstoffgesetzes, die für wissenschaftliche, analytische,
+    medizinische und pharmazeutische Zwecke verwendet werden durch
 
     a)  Inhaber von wissenschaftlichen Instituten oder von Laboratorien und
         die mit der Leitung dieser Stellen beauftragten Personen,
 
 
-    b)  Ärzte, Zahnärzte, Tierärzte, Apotheker, Heilpraktiker und Dentisten,
+    b)  Ärzte, Zahnärzte, Tierärzte, Apotheker,
 
 
     c)  Personen, die unter Aufsicht einer nach Buchstabe a oder b
@@ -216,16 +141,16 @@ vom Zeitpunkt der Einfuhr an gerechnet wieder ausgeführt werden.
 
 Die in Nummer 1 Buchstabe a und b bezeichneten Personen müssen die für
 die beabsichtigte Tätigkeit erforderliche Fachkunde besitzen. Als
-kleine Mengen im Sinne der Nummern 1 und 2 gelten höchstens je 100 g
-von explosionsgefährlichen Stoffen, die gegen mechanische und
-thermische Beanspruchung nicht empfindlicher sind als
-Pentaerythrittetranitrat und höchstens je 3 g von empfindlicheren
-explosionsgefährlichen Stoffen.
+kleine Mengen im Sinne der Nummern 1 und 2 gelten höchstens 100 g von
+explosionsgefährlichen Stoffen, die gegen mechanische und thermische
+Beanspruchung nicht empfindlicher sind als Pentaerythrittetranitrat
+und höchstens 3 g von empfindlicheren explosionsgefährlichen Stoffen.
 
 (2) Für die in Absatz 1 bezeichneten Tätigkeiten mit sonstigen
-explosionsgefährlichen Stoffen nach § 1 Abs. 3 Nr. 2 des Gesetzes gilt
-Absatz 1 mit der Maßgabe, daß die §§ 5, 14, 20, 21, 22 Abs. 1 und 2
-und § 23 des Gesetzes nicht anzuwenden sind.
+explosionsgefährlichen Stoffen nach § 1 Absatz 4 Nummer 2 des
+Sprengstoffgesetzes gilt Absatz 1 mit der Maßgabe, daß die §§ 5, 14,
+20, 21, 22 Abs. 1 und 2 und § 23 des Sprengstoffgesetzes nicht
+anzuwenden sind.
 
 (3) Für Betriebslaboratorien, die in einem räumlichen und
 betrieblichen Zusammenhang mit einer nach § 4 des Bundes-
@@ -240,22 +165,23 @@ Betriebslaboratoriums oder den mit der Leitung des Laboratoriums
 beauftragten Personen erworben, an sie vertrieben oder ihnen
 überlassen werden.
 
-(4) Die §§ 5, 7, 10 bis 13, 15 Abs. 1 und § 16 des Gesetzes sind auf
+(4) Die §§ 5, 5f, 7, 10 bis 13, 15 Abs. 1 und § 16 des
+Sprengstoffgesetzes sind auf die in Absatz 1 bezeichneten Tätigkeiten
+zu Zwecken der Fertigungskontrolle oder der Forschung in gewerblichen
+Betrieben nicht anzuwenden, soweit hierbei mit pyrotechnischen
+Gegenständen oder mit sonstigen explosionsgefährlichen Stoffen nach §
+1 Abs. 3 Nr. 1 des Gesetzes in Mengen bis zu 3 kg (netto) umgegangen
+wird. Der Vertrieb und das Überlassen der sonstigen
+explosionsgefährlichen Stoffe darf nur gegen Bestell- oder
+Lieferschein erfolgen, der fünf Jahre aufzubewahren ist.
+
+(4a) Die §§ 5, 7, 10 bis 13 und 16 des Sprengstoffgesetzes sind auf
 die in Absatz 1 bezeichneten Tätigkeiten zu Zwecken der
 Fertigungskontrolle oder der Forschung in gewerblichen Betrieben nicht
-anzuwenden, soweit hierbei mit pyrotechnischen Gegenständen oder mit
-sonstigen explosionsgefährlichen Stoffen nach § 1 Abs. 3 Nr. 1 des
-Gesetzes in Mengen bis zu 3 kg (netto) umgegangen wird. Der Vertrieb
-und das Überlassen der sonstigen explosionsgefährlichen Stoffe darf
-nur gegen Bestell- oder Lieferschein erfolgen, der fünf Jahre
+anzuwenden, soweit hierbei mit Explosivstoffen in Mengen bis zu 3 kg
+(netto) umgegangen wird. Der Vertrieb und das Überlassen dieser Stoffe
+darf nur gegen Bestell- oder Lieferschein erfolgen, der fünf Jahre
 aufzubewahren ist.
-
-(4a) Die §§ 5, 7, 10 bis 13 und 16 des Gesetzes sind auf die in Absatz
-1 bezeichneten Tätigkeiten zu Zwecken der Fertigungskontrolle oder der
-Forschung in gewerblichen Betrieben nicht anzuwenden, soweit hierbei
-mit Explosivstoffen in Mengen bis zu 3 kg (netto) umgegangen wird. Der
-Vertrieb und das Überlassen dieser Stoffe darf nur gegen Bestell- oder
-Lieferschein erfolgen, der fünf Jahre aufzubewahren ist.
 
 (5) Die zuständige Behörde kann in den Fällen der Absätze 1 bis 4a im
 Einzelfall größere Mengen explosionsgefährlicher Stoffe zulassen,
@@ -263,165 +189,8 @@ soweit der Schutz von Leben, Gesundheit und Sachgütern Beschäftigter
 oder Dritter auf andere Weise gewährleistet ist.
 
 
-### § 3
+### § 3 (weggefallen)
 
-(1) § 5 des Gesetzes ist nicht anzuwenden auf
-
-1.  Explosivstoffe, pyrotechnische Gegenstände, sonstige
-    explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des
-    Gesetzes und Sprengzubehör, die nur für militärische oder polizeiliche
-    Zwecke hergestellt, wiedergewonnen, bearbeitet, verarbeitet,
-    eingeführt oder verbracht und an eine militärische, polizeiliche oder
-    eine Dienststelle des Katastrophenschutzes vertrieben oder ihr
-    überlassen werden, wenn sichergestellt ist, dass die Stoffe und
-    Gegenstände den von der jeweils zuständigen Stelle erlassenen
-    technischen Lieferbedingungen entsprechen, soweit diese den Schutz von
-    Leben und Gesundheit oder Sachgütern Beschäftigter oder Dritter
-    betreffen,
-
-
-2.  Explosivstoffe, pyrotechnische Gegenstände, sonstige
-    explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des
-    Gesetzes und Sprengzubehör, die für militärische oder polizeiliche
-    Zwecke bestimmt sind und zum Zwecke der Prüfung der zuständigen
-    Bundesbehörde überlassen werden,
-
-
-3.  Explosivstoffe, pyrotechnische Gegenstände, sonstige
-    explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des
-    Gesetzes und Sprengzubehör, die nur für militärische oder polizeiliche
-    Zwecke bestimmt sind, soweit sie zum Zwecke der Bearbeitung oder
-    Verarbeitung
-
-    a)  von dem Inhaber einer genehmigten Anlage im Sinne des § 4 des Bundes-
-        Immissionsschutzgesetzes an den Inhaber einer anderen derartigen
-        Anlage vertrieben oder überlassen werden,
-
-
-    b)  eingeführt oder verbracht und an den Inhaber einer genehmigten Anlage
-        im Sinne des § 4 des Bundes-Immissionsschutzgesetzes vertrieben oder
-        überlassen werden;
-
-
-
-    die Freistellung gilt auch dann, wenn diese Stoffe oder Gegenstände
-    zum Zwecke der Erprobung vertrieben oder überlassen werden,
-
-
-4.  Explosivstoffe, pyrotechnische Gegenstände, sonstige
-    explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des
-    Gesetzes und Sprengzubehör, die vom Versender ausgeführt oder aus dem
-    Geltungsbereich des Gesetzes verbracht worden waren und an diesen
-    unverändert in der versandmäßigen Verpackung zurückkommen; die
-    Voraussetzungen sind nachzuweisen,
-
-
-5.  Explosivstoffe, pyrotechnische Gegenstände und sonstige
-    explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des
-    Gesetzes, die als Muster oder Proben in der erforderlichen Menge von
-    demjenigen, der dafür eine Konformitätsbewertung oder Zulassung
-    beantragen will, eingeführt oder verbracht werden,
-
-
-6.  sonstige explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und 2
-    des Gesetzes, die nicht für militärische oder polizeiliche Zwecke
-    bestimmt sind, soweit die aus ihnen hergestellten Endprodukte der
-    Zulassungspflicht unterliegen, diese Stoffe zu nicht
-    explosionsgefährlichen Stoffen weiterverarbeitet werden oder für die
-    Endprodukte eine Ausnahmegenehmigung nach § 5 Absatz 3 des Gesetzes
-    zum Zwecke der Ausfuhr erteilt worden ist und die Voraussetzungen des
-    Absatzes 1 Nummer 3 im Übrigen gegeben sind,
-
-
-7.  Teile von
-
-    a)  Ladegeräten, soweit diese nicht auf das Fördern von und Laden mit
-        Sprengstoff unmittelbaren Einfluss haben,
-
-
-    b)  Mischladegeräten, soweit diese nicht auf das Austragen und Fördern der
-        Ausgangsstoffe aus Vorratsbehältern, das Zuteilen, Registrieren und
-        Mischen der Ausgangsstoffe sowie das Fördern und Laden des
-        Sprengstoffes unmittelbaren Einfluss haben,
-
-
-
-
-
-8.  pyrotechnische Gegenstände der Kategorie P1 und P2, die als
-    Seenotsignalmittel zur Ausrüstung von Schiffen fremder Staaten in den
-    Geltungsbereich des Gesetzes eingeführt oder verbracht werden, soweit
-    sie nicht in den allgemeinen Verkehr gelangen,
-
-
-9.  pyrotechnische Gegenstände, die in der Luft- und Raumfahrttechnik
-    eingesetzt werden,
-
-
-10. Explosivstoffe und pyrotechnische Gegenstände, die für die Forschung,
-    Entwicklung und Prüfung hergestellt werden und den Anforderungen nach
-    Anlage 2 oder 3 nicht entsprechen, sofern ein sichtbares Schild
-    deutlich darauf hinweist, dass sie nicht den Anforderungen entsprechen
-    und nicht für andere Zwecke als Forschung, Entwicklung und Prüfung
-    verfügbar sind,
-
-
-11. pyrotechnische Gegenstände, die den Bestimmungen der Richtlinie
-    2007/23/EG nicht entsprechen und zu Messen, Ausstellungen und
-    Vorführungen zum Verkauf hergestellt, eingeführt oder verbracht,
-    ausgestellt oder verwendet werden, sofern ein sichtbares Schild den
-    Namen und das Datum der betreffenden Messe, Ausstellung oder
-    Vorführung trägt und deutlich darauf hinweist, dass die Gegenstände
-    nicht den Anforderungen entsprechen und erst erworben werden können,
-    wenn der Hersteller, sofern er in der Gemeinschaft niedergelassen ist,
-    oder anderenfalls der Einführer die Übereinstimmung hergestellt hat.
-    Bei solchen Veranstaltungen sind gemäß allen von der zuständigen
-    Behörde des jeweiligen Mitgliedstaates festgelegten Anforderungen die
-    geeigneten Sicherheitsmaßnahmen zu treffen,
-
-
-12. Feuerwerk, das zu religiösen, kulturellen und traditionellen
-    Festivitäten innerhalb des Geltungsbereiches des Gesetzes hergestellt
-    und mit Zustimmung durch die zuständige Behörde vom Hersteller
-    abgebrannt werden soll,
-
-
-13. pyrotechnische Gegenstände, die zur Verwendung durch Feuerwehren
-    bestimmt sind,
-
-
-14. Modellraketen, die von Personen nach § 1 Absatz 4 Nummer 2 in der dort
-    genannten Menge eingeführt oder verbracht werden.
-
-
-
-
-(2) Der Nachweis dafür, dass die Stoffe und Gegenstände nach Absatz 1
-Nummer 1 den technischen Lieferbedingungen entsprechen, ist durch eine
-Bescheinigung der zuständigen Bundesbehörde zu erbringen, der Nachweis
-dafür, dass die explosionsgefährlichen Stoffe nach Absatz 1 Nummer 3
-für militärische oder polizeiliche Zwecke bestimmt sind, durch eine
-Bescheinigung oder den Auftrag der jeweiligen staatlichen
-Beschaffungs- oder Auftragsstelle. Gegenüber Unterauftragnehmern gilt
-die Befreiung nach Absatz 1 Nummer 3 durch die schriftliche
-Bekanntgabe der Nummer des Genehmigungsbescheides nach dem Gesetz über
-die Kontrolle von Kriegswaffen oder durch die Bezeichnung des
-Auftrages einer staatlichen Beschaffungs- oder Auftragsstelle als
-nachgewiesen. Der Überlasser von pyrotechnischen Gegenständen oder
-sonstigen explosionsgefährlichen Stoffen nach § 1 Absatz 3 Nummer 1
-und 2 des Gesetzes hat sich vom Erwerber schriftlich bescheinigen zu
-lassen, dass die Gegenstände oder Stoffe in den Fällen des Absatzes 1
-Nummer 4 zu den in dieser Vorschrift bezeichneten Endprodukten in
-einer genehmigten Anlage im Sinne des § 4 des Bundes-
-Immissionsschutzgesetzes bearbeitet oder verarbeitet werden sollen.
-
-(3) Zum Nachweis nach Absatz 2, dass die Stoffe und Gegenstände für
-militärische oder polizeiliche Zwecke bestimmt sind, kann durch die
-zuständige Behörde auch eine Erklärung des mit der Entwicklung
-befassten Unternehmens anerkannt werden, wenn die Einfuhr, die
-Ausfuhr, die Durchfuhr oder das Verbringen zum Zwecke der Entwicklung
-erfolgt und das mit der Entwicklung befasste Unternehmen in der Regel
-für militärische oder polizeiliche Auftraggeber tätig ist.
 
 
 ### § 3a (weggefallen)
@@ -431,202 +200,60 @@ für militärische oder polizeiliche Auftraggeber tätig ist.
 
 ### § 4
 
-(1) § 16 des Gesetzes ist nicht anzuwenden auf
-
-1.  Explosivstoffe pyrotechnische Gegenstände und sonstige
-    explosionsgefährliche Stoffe nach § 1 Abs. 3 Nr. 1 des Gesetzes, die
-    in einer nach § 4 des Bundes-Immissionsschutzgesetzes
-    genehmigungsbedürftigen Anlage zum Zwecke der Bearbeitung oder
-    Verarbeitung hergestellt und als solche nicht vertrieben oder an
-    andere nicht überlassen werden,
-
-
-2.  explosionsgefährliche Stoffe, die von dem Inhaber einer Erlaubnis nach
-    § 27 des Gesetzes in einer Menge hergestellt, wiedergewonnen,
-    erworben, eingeführt, verbracht, verwendet oder vernichtet werden, für
-    die auf Grund einer Rechtsverordnung eine Genehmigung zur Aufbewahrung
-    nach § 17 des Gesetzes nicht erforderlich ist,
-
-
-3.  elektrische Anzünder, Anzündschnüre, Anzünder für Anzündschnüre sowie
-    pyrotechnische Gegenstände.
-
-
-
-
-(2) Die §§ 7 bis 13, 20, 21, 22 Absatz 1 und 2, die §§ 23, 27 sowie §
+(1) Die §§ 7 bis 13, 20, 21, 22 Absatz 1 und 2, die §§ 23, 27 sowie §
 28 des Gesetzes, soweit er sich auf § 22 Absatz 1 und 2 und § 23
 bezieht, sind nicht anzuwenden auf das Aufbewahren, das Verwenden, das
 Vernichten, den Erwerb, den Vertrieb, das Verbringen und das
 Überlassen von pyrotechnischen Gegenständen der Kategorien 1, 2
 (Feuerwerk), Kategorie T1 und – mit Ausnahme von Airbag- oder
-Gurtstraffereinheiten – der Kategorie P1, von Anzündmitteln,
-pyrotechnischen Sätzen der Kategorie S1 sowie von Raketenmotoren für
-die in § 1 Absatz 4 Nummer 2 bezeichneten Modellraketen. Satz 1 findet
-keine Anwendung auf pyrotechnische Gegenstände nach § 20 Absatz 4 und
-auf Stoppinen.
+Gurtstraffereinheiten – der Kategorie P1, pyrotechnischen Sätzen der
+Kategorie S1 sowie von Raketenmotoren für die in § 1 Absatz 3 Nummer 2
+bezeichneten Modellraketen. Satz 1 findet keine Anwendung auf
+pyrotechnische Gegenstände nach § 20 Absatz 4.
 
-(3) Die §§ 7 bis 13, 20, 21, 22 Absatz 1 und 2 sowie § 23 des Gesetzes
+(2) Die §§ 7 bis 13, 20, 21, 22 Absatz 1 und 2 sowie § 23 des Gesetzes
 sind im Rahmen einer gewerblichen Tätigkeit nicht anzuwenden auf das
 Aufbewahren, das Verwenden (Ein- und Ausbau), den Erwerb, den
 Vertrieb, das Verbringen und das Überlassen von Airbag- oder
 Gurtstraffereinheiten der Kategorie P1 sowie das Auslösen
-pyrotechnischer
-(Tarn-)Schutzsysteme              in Kernkraftwerken durch Personal
+pyrotechnischer (Tarn-)Schutzsysteme in Kernkraftwerken durch Personal
 mit eingeschränkter Fachkunde (geschultes Personal). Das Personal hat
 auf Verlangen der zuständigen Behörde die eingeschränkte Fachkunde
 nachzuweisen. Satz 1 gilt auch für das Vernichten von Airbag- oder
 Gurtstraffereinheiten der Kategorie P1, wenn diese in einem Fahrzeug
 fest eingebaut sind.
 
-(4) Die §§ 7 bis 22 Abs. 2, die §§ 23, 27 und 28 des Gesetzes sind
+(3) Die §§ 7 bis 22 Abs. 2, die §§ 23, 27 und 28 des Gesetzes sind
 nicht anzuwenden auf das Aufbewahren, das Verwenden
 (bestimmungsgemäßes, automatisches Auslösen der Airbag- oder
 Gurtstraffereinheit des Fahrzeugs), den Erwerb, das Verbringen und das
 Überlassen von Airbag- oder Gurtstraffereinheiten der Kategorie P1,
 wenn diese in einem Fahrzeug oder Fahrzeugteilen fest eingebaut sind.
 
-(5) Auf das Aufbewahren, das Verwenden, das Vernichten, den Erwerb und
+(4) Auf das Aufbewahren, das Verwenden, das Vernichten, den Erwerb und
 das Verbringen von pyrotechnischen Gegenständen der Kategorie 3 sind §
 8 Abs. 1 Nr. 2 Buchstabe a sowie § 27 Abs. 3 Nr. 1 des Gesetzes,
 soweit er sich auf § 8 Abs. 1 Nr. 2 Buchstabe a des Gesetzes bezieht,
 nicht anzuwenden.
 
-(6) § 22 Abs. 3 des Gesetzes ist auf pyrotechnische Gegenstände der
-Kategorie 1 nicht anzuwenden.
 
-
-### § 5
-
-(1) Das Gesetz ist nicht anzuwenden auf den Umgang mit
-explosionsgefährlichen Stoffen sowie auf deren Erwerb, Überlassen und
-Einfuhr durch
-
-1.  die Bundesanstalt für Materialforschung und -prüfung (Bundesanstalt),
-
-
-2.  die auf Grund § 36 Abs. 1 des Gesetzes zuständigen Behörden, soweit
-    diese für Prüfaufgaben bestimmt sind,
-
-
-3.  (weggefallen)
+### § 5 (weggefallen)
 
 
 
-soweit dies zur Erfüllung ihrer öffentlichen Aufgaben erforderlich
-ist.
-
-(2) Das Gesetz ist nicht anzuwenden auf das Be- und Verarbeiten, das
-Wiedergewinnen, das Aufbewahren, das Verwenden, das Vernichten, den
-Erwerb, das Überlassen, die Einfuhr und das Verbringen von
-explosionsgefährlichen Stoffen durch
-
-1.  das Bundeskriminalamt und die Landeskriminalämter,
-
-
-2.  das Zollkriminalamt und die Zolltechnischen Prüfungs- und
-    Lehranstalten der Bundeszollverwaltung,
-
-
-3.  die Physikalisch-Technische Bundesanstalt,
-
-
-4.  die Beschußämter,
-
-
-5.  das Fraunhofer-Institut für Chemische Technologie,
-
-
-6.  das Fraunhofer-Institut für Kurzzeitdynamik - Ernst-Mach-Institut -,
-
-
-7.  den obersten Bundesbehörden nachgeordnete Dienststellen, zu deren
-    Aufgaben die Beschaffung explosionsgefährlicher Stoffe und Gegenstände
-    gehört,
-
-
-8.  (weggefallen)
-
-
-
-soweit dies zur Erfüllung ihrer öffentlichen Aufgaben erforderlich
-ist. Satz 1 gilt auch für das Herstellen explosionsgefährlicher Stoffe
-durch die in den Nummern 1, 5 und 6 genannten Stellen.
-
-(2a) Das Gesetz ist, mit Ausnahme der §§ 8, 8a bis 8c nicht anzuwenden
-auf das Bearbeiten, das Aufbewahren, das Verwenden, das Vernichten,
-den Erwerb, das Überlassen, sowie innerhalb der Betriebsstätte den
-Transport, das Überlassen und die Empfangnahme und das Verbringen von
-explosionsgefährlichen Stoffen durch die Bundesanstalt Technisches
-Hilfswerk, soweit dies zur Erfüllung ihrer öffentlichen Aufgaben
-erforderlich ist. Satz 1 gilt auch für das Herstellen, Verarbeiten,
-Wiedergewinnen und die Einfuhr explosionsgefährlicher Stoffe durch die
-Bundesschule des Technischen Hilfswerks.
-
-(2b) Zuständige Behörde nach § 36 Absatz 1 Satz 1 des Gesetzes für die
-Überprüfung der Zuverlässigkeit und persönlichen Eignung der
-Angehörigen des Technischen Hilfswerks nach den §§ 8 bis 8c des
-Gesetzes ist die Bundesschule des Technischen Hilfswerks.
-
-(2c) Werden Sprengarbeiten durch die Bundesanstalt Technisches
-Hilfswerk nicht im Auftrag oder auf Veranlassung der nach § 36 Absatz
-1 des Gesetzes zuständigen Behörde durchgeführt, ist diese vorab zu
-unterrichten. Ist auf Grund der Besonderheiten des Einzelfalles eine
-vorherige Unterrichtung nicht möglich, ist diese unverzüglich
-nachzuholen. Ist Auftraggeber der Sprengarbeiten eine andere
-öffentliche Stelle, trifft diese die Verpflichtung nach Satz 1 oder 2.
-
-(3) Das Gesetz ist nicht anzuwenden auf
-
-1.  den Umgang mit, den Erwerb, das Überlassen von explosionsgefährlichen
-    Stoffen bis zu einer Gesamtmenge von 100 g und, soweit sie
-    Forschungszwecken dienen, bis zu einer Gesamtmenge von 3 kg durch
-    Hochschulen oder Fachhochschulen und
-
-
-2.  das Aufbewahren, das Verwenden, das Vernichten, den Erwerb, das
-    Überlassen und das Verbringen von explosionsgefährlichen Stoffen bis
-    zu einer Gesamtmenge von 100 g durch allgemein- oder berufsbildende
-    Schulen,
-
-
-
-soweit dies zur Erfüllung ihrer öffentlichen Aufgaben erforderlich
-ist.
-
-(4) Die §§ 7 bis 14 und 27 des Gesetzes sind nicht anzuwenden auf das
-Aufbewahren, das Verwenden, das Vernichten, den Erwerb, das Überlassen
-und das Verbringen explosionsgefährlicher Stoffe durch Einheiten und
-Ausbildungseinrichtungen des Katastrophenschutzes der Länder und der
-kommunalen Gebietskörperschaften und durch Behörden der Wasser- und
-Schiffahrtsverwaltung des Bundes, soweit dies zur Erfüllung ihrer
-öffentlichen Aufgaben erforderlich ist.
-
-(5) Den Bediensteten der in den Absätzen 2 bis 4 genannten Stellen
-dürfen explosionsgefährliche Stoffe nur gegen Aushändigung einer
-Bescheinigung dieser Stellen überlassen werden, aus der Art und Menge
-der explosionsgefährlichen Stoffe hervorgehen, die der Bedienstete
-erwerben darf. Die Bescheinigung ist dem Erwerber zurückzugeben, wenn
-die Menge der Stoffe, auf die sie lautet, noch nicht erreicht ist. Der
-Überlasser hat beim Überlassen die Angaben nach § 25 Abs. 1 Satz 2 in
-der Bescheinigung dauerhaft einzutragen und die Bescheinigung, soweit
-er nicht nach Satz 2 zur Rückgabe verpflichtet ist, drei Jahre lang
-aufzubewahren.
-
-
-## Abschnitt II - Zulassung von sonstigen explosionsgefährlichen Stoffen und von Sprengzubehör, Konformitätsnachweis für Explosivstoffe und pyrotechnische Gegenstände, Identifikationsnummer
+## Abschnitt II - Anforderungen an Explosivstoffe und pyrotechnische Gegenstände sowie sonstige explosionsgefährliche Stoffe und Sprengzubehör
 
 
 
 ### § 6
 
-(1) Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1
-und 2 des Gesetzes und Sprengzubehör müssen in ihrer Zusammensetzung
-und Beschaffenheit den in der Anlage 1 bezeichneten Anforderungen
-entsprechen. Bei Gegenständen und Stoffen, die in anderen
-Mitgliedstaaten der Europäischen Union hergestellt sind, kann in der
-Regel angenommen werden, dass die technischen Anforderungen der Anlage
-1 erfüllt sind, wenn die Zusammensetzung und Beschaffenheit der
+(1) Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1
+und 2 des Sprengstoffgesetzes und Sprengzubehör müssen in ihrer
+Zusammensetzung und Beschaffenheit den in der Anlage 1 bezeichneten
+Anforderungen entsprechen. Bei Gegenständen und Stoffen, die in
+anderen Mitgliedstaaten der Europäischen Union hergestellt sind, kann
+in der Regel angenommen werden, dass die technischen Anforderungen der
+Anlage 1 erfüllt sind, wenn die Zusammensetzung und Beschaffenheit der
 Gegenstände und Stoffe den dort geltenden Regelungen entsprechen und
 nachweislich die gleiche Sicherheit, wie sie die technischen
 Anforderungen der Anlage 1 festlegen, erreicht wird. Zum Nachweis kann
@@ -638,162 +265,25 @@ pyrotechnische Gegenstände und deren Sätze“ vom 12. März 1982 (Beilage
 13/82 BAnz. Nr. 59 vom 26. März 1982, BAnz. Nr. 60 vom 27. März 1982)
 gleichwertig sind.
 
-(2) Die Zulassungsbehörde kann für sonstige explosionsgefährliche
-Stoffe nach § 1 Absatz 3 Nummer 1 und 2 des Gesetzes und Sprengzubehör
-im Einzelfall von einzelnen Anforderungen der Anlage 1 Ausnahmen
-zulassen oder zusätzliche Anforderungen stellen sowie von der Prüfung
-einzelner Anforderungen absehen, wenn der Schutz von Leben und
-Gesundheit Beschäftigter oder Dritter oder Sachgütern dies zulässt
-oder erfordert.
+(2) Die Bundesanstalt für Materialforschung und -prüfung kann für
+sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 und 2
+des Sprengstoffgesetzes und Sprengzubehör im Einzelfall von einzelnen
+Anforderungen der Anlage 1 Ausnahmen zulassen oder zusätzliche
+Anforderungen stellen sowie von der Prüfung einzelner Anforderungen
+absehen, wenn der Schutz von Leben und Gesundheit Beschäftigter oder
+Dritter oder Sachgütern dies zulässt oder erfordert.
 
-(3) Explosivstoffe und pyrotechnische Gegenstände müssen zum Nachweis
-der Konformität nach § 5 Absatz 1 des Gesetzes in ihrer
-Zusammensetzung und Beschaffenheit den Anforderungen der Anlagen 2
-oder 3 entsprechen. Das hierfür anzuwendende
-Konformitätsnachweisverfahren besteht aus der Baumusterprüfung (Modul
-B) und der Qualitätssicherung. Für Explosivstoffe finden für die
-Qualitätssicherung die Module C, D, E oder F und für pyrotechnische
-Gegenstände die Module C, D oder E Anwendung. Dem in Satz 1 genannten
-Konformitätsnachweisverfahren steht die Einzelprüfung (Modul G) eines
-Explosivstoffes oder pyrotechnischen Gegenstandes und im Falle der
-pyrotechnischen Gegenstände der Kategorie 4 die umfassende
-Qualitätssicherung (Modul H) gleich. Die Module B, C, D, E, F und G
-für Explosivstoffe sind gemäß den Anforderungen des Anhangs II der
-Richtlinie 93/15/EWG vom 5. April 1993 zur Harmonisierung der
-Bestimmungen über das Inverkehrbringen und die Kontrolle von
-Explosivstoffen für zivile Zwecke (ABl. L 121 vom 15.5.1993, S. 20)
-und die Module B, C, D, E, H und G für pyrotechnische Gegenstände nach
-Anhang II der Richtlinie 2007/23/EG vom 23. Mai 2007 über das
-Inverkehrbringen von pyrotechnischen Gegenständen (ABl. L 154 vom
-14\.6.2007, S. 1) durchzuführen.
+(3) Die Zusammensetzung und die Beschaffenheit von elektrischen
+Brückenzündern, pyrotechnischen Sätzen sowie Wettersprengstoffen und
+Wettersprengschnüren müssen den Anforderungen der Anlage 2
+entsprechen.
 
-(4) Explosivstoffe und pyrotechnische Gegenstände sind vom Hersteller
-oder Einführer vor der erstmaligen Verwendung im Geltungsbereich des
-Gesetzes der Bundesanstalt anzuzeigen. Der Anzeige ist
-
-1.  für Explosivstoffe die nach Anhang I Abschnitt II Nummer 1 Buchstabe k
-    der Richtlinie 93/15/EWG und
-
-
-2.  für pyrotechnische Gegenstände die nach Anhang I Nummer 3 Buchstabe h
-    der Richtlinie 2007/23/EG
-
-
-
-vorgeschriebene Anleitung beizufügen. Die Bundesanstalt vergibt zum
-Nachweis der Anzeige eine Identifikationsnummer. Die
-Identifikationsnummer ist in die Anleitung aufzunehmen. Die
-Bundesanstalt kann zur Abwendung von Gefahren für Leben und Gesundheit
-Beschäftigter oder Dritter oder Sachgüter die vom Hersteller
-festgelegten Anleitungen zur Verwendung einschränken oder ergänzen;
-eine nachträgliche Einschränkung oder Ergänzung ist zulässig. Satz 4
-findet keine Anwendung auf pyrotechnische Gegenstände für
-Kraftfahrzeuge sowie Feuerwerk der Kategorien 1 und 4, wenn die
-Identifikationsnummer in die nach § 13 Absatz 1 Nummer 3 zu führenden
-Listen aufgenommen ist.
-
-(5) Wettersprengstoffe und Wettersprengschnüre werden entsprechend
-ihrer Sicherheit gegen Schlagwetter in die Klassen I, II und III
-eingeteilt.
-
-(6) Pyrotechnische Gegenstände werden nach den Anforderungen des
-Artikels 3 in Verbindung mit Anhang I der Richtlinie 2007/23/EG nach
-ihrer Gefährlichkeit oder ihrem Verwendungszweck in folgende
-Kategorien eingeteilt:
-
-a)  Feuerwerkskörper
-
-    Kategorie 1: Feuerwerkskörper, die eine sehr geringe Gefahr darstellen, einen
-        vernachlässigbaren Schallpegel besitzen und die in geschlossenen
-        Bereichen verwendet werden sollen, einschließlich Feuerwerkskörpern,
-        die zur Verwendung innerhalb von Wohngebäuden vorgesehen sind;
-
-
-    Kategorie 2: Feuerwerkskörper, die eine geringe Gefahr darstellen, einen geringen
-        Schallpegel besitzen und die zur Verwendung in abgegrenzten Bereichen
-        im Freien vorgesehen sind;
-
-
-    Kategorie 3: Feuerwerkskörper, die eine mittelgroße Gefahr darstellen, die zur
-        Verwendung in weiten offenen Bereichen im Freien vorgesehen sind und
-        deren Schallpegel die menschliche Gesundheit nicht gefährdet;
-
-
-    Kategorie 4: Feuerwerkskörper, die eine große Gefahr darstellen, die nur von
-        Personen mit Fachkunde verwendet werden dürfen (so genannte
-        „Feuerwerkskörper für den professionellen Gebrauch“) und deren
-        Schallpegel die menschliche Gesundheit nicht gefährdet;
-
-
-
-
-
-b)  Pyrotechnische Gegenstände für Bühne und Theater
-
-    Kategorie T1: Pyrotechnische Gegenstände für die Verwendung auf Bühnen, die eine
-        geringe Gefahr darstellen;
-
-
-    Kategorie T2: Pyrotechnische Gegenstände für die Verwendung auf Bühnen, die zur
-        ausschließlichen Verwendung durch Personen mit Fachkunde vorgesehen
-        sind;
-
-
-
-
-
-c)  Sonstige pyrotechnische Gegenstände
-
-    Kategorie P1: Pyrotechnische Gegenstände – außer Feuerwerkskörpern und
-        pyrotechnischen Gegenständen für Bühne und Theater –, die eine geringe
-        Gefahr darstellen;
-
-
-    Kategorie P2: Pyrotechnische Gegenstände – außer Feuerwerkskörpern und
-        pyrotechnischen Gegenständen für Bühne und Theater –, die zur
-        Handhabung oder Verwendung nur durch Personen mit Fachkunde vorgesehen
-        sind.
-
-
-
-
-
-
-
-(7) Pyrotechnische Sätze werden nach den Anforderungen des Anhangs I
-der Richtlinie 93/15/EWG nach ihrer Gefährlichkeit in folgende
-Kategorien eingeteilt:
-
-Kategorie S1: Pyrotechnische Sätze geringer Gefährlichkeit, die z. B. für die
-    Anwendung auf Bühnen, in Theatern oder vergleichbaren Einrichtungen,
-    zur Strömungsmessung oder zur Ausbildung von Rettungskräften dienen;
-
-
-Kategorie S2: Pyrotechnische Sätze großer Gefährlichkeit, deren Umgang und Verkehr
-    an die Befähigung und Erlaubnis gebunden ist.
-
-
-
-Pyrotechnische Sätze sind der Kategorie S1 zuzuordnen, wenn
-
-a)  deren Abbrennzeit im gebrauchsfertigen Zustand mehr als 60 Sekunden
-    für 0,1 Kilogramm beträgt,
-
-
-b)  sie keine sehr giftigen, ätzenden oder reizenden Stoffe entwickeln,
-
-
-c)  sie beim Abbrand keine zusätzlichen Gefahren durch Glut, Hitze, Funken
-    oder Feuer verursachen,
-
-
-d)  und, sofern eine Verwendung in Innenräumen (geschlossenen Räumen)
-    vorgesehen oder zulässig ist, sie Ruß bildende Stoffe nicht enthalten.
-
-
-
-Pyrotechnische Sätze, die nicht die Kriterien der Kategorie S1
-erfüllen, sind der Kategorie S2 zuzuordnen.
+(4) Die Bundesanstalt für Materialforschung und -prüfung hat für
+Sprengzubehör dem Zulassungsinhaber die Verwendung eines
+Zulassungszeichens vorzuschreiben. Das Zulassungszeichen besteht aus
+der Kurzbezeichnung der Bundesanstalt für Materialforschung und
+-prüfung „BAM“, dem in der Anlage 4 für den jeweiligen Stoff oder
+Gegenstand vorgesehenen Zeichen und einer fortlaufenden Kennnummer.
 
 
 ### § 6a
@@ -809,17 +299,9 @@ Dienststellen des Katastrophenschutzes.
 Geltungsbereich dieser Verordnung nicht hergestellt, verarbeitet,
 wiedergewonnen, aufbewahrt, verwendet, in Verkehr gebracht, anderen
 überlassen oder verbracht werden. Ihre Einfuhr und Ausfuhr ist
-untersagt. In Besitz der in § 1 Absatz 4 Nummer 1 des Gesetzes
-genannten Einrichtungen befindliche nicht markierte Sprengstoffe sind
-bis zum 31. Dezember 2013 zu verwenden oder zu vernichten.
+untersagt.
 
-(3) Abweichend von Absatz 2 dürfen im Geltungsbereich dieser
-Verordnung befindliche Sprengstoffe, die nach den bis zum 1. Oktober
-2009 geltenden Bestimmungen markiert sind, bis zum 31. Dezember 2013
-weiterhin aufbewahrt, verwendet, anderen überlassen oder verbracht
-werden.
-
-(4) Die Absätze 1 und 2 gelten nicht für nicht markierte Sprengstoffe,
+(3) Die Absätze 1 und 2 gelten nicht für nicht markierte Sprengstoffe,
 die in geringen Mengen
 
 1.  nur zur Verwendung bei der Forschung und Entwicklung oder beim Testen
@@ -841,10 +323,10 @@ die in geringen Mengen
 ### § 7
 
 (1) Explosivstoffe, pyrotechnische Gegenstände sowie sonstige
-explosionsgefährliche Gegenstände nach § 1 Abs. 3 Nr. 1 und 2 des
-Gesetzes und Sprengzubehör dürfen keine Bezeichnung haben, die zur
-Irreführung geeignet ist oder eine Verwechslung mit Stoffen und
-Gegenständen anderer Beschaffenheit hervorruft.
+explosionsgefährliche Gegenstände nach § 1 Absatz 4 Nummer 1 und 2 des
+Sprengstoffgesetzes und Sprengzubehör dürfen keine Bezeichnung haben,
+die zur Irreführung geeignet ist oder eine Verwechslung mit Stoffen
+und Gegenständen anderer Beschaffenheit hervorruft.
 
 (2) Die Bezeichnung der Wettersprengstoffe und der Wettersprengschnüre
 muß mit dem Wort "Wetter" beginnen. Die Wettersprengstoffe und
@@ -862,19 +344,11 @@ enthalten.
 aufweisen.
 
 
-### § 8
-
-Die Zulassungsbehörde hat für sonstige explosionsgefährliche Stoffe
-nach § 1 Abs. 3 Nr. 1 und 2 des Gesetzes und für Sprengzubehör dem
-Zulassungsinhaber die Verwendung eines Zulassungszeichens
-vorzuschreiben. Das Zulassungszeichen besteht aus der Kurzbezeichnung
-der Bundesanstalt "BAM", dem in der Anlage 4 für den jeweiligen Stoff
-oder Gegenstand vorgesehenen Zeichen und einer fortlaufenden
-Kennummer. Satz 2 findet entsprechende Anwendung für die
-Identifikationsnummer nach § 6 Absatz 4.
+### § 8 (weggefallen)
 
 
-## Abschnitt III - Verfahren bei der Zulassung von sonstigen explosionsgefährlichen Stoffen oder von Sprengzubehör, Konformitätsnachweisverfahren für Explosivstoffe und pyrotechnische Gegenstände
+
+## Abschnitt III - Verfahren bei der Zulassung von sonstigen explosionsgefährlichen Stoffen oder von Sprengzubehör; Führen von Listen durch die Bundesanstalt für Materialforschung und -prüfung
 
 
 
@@ -903,8 +377,9 @@ die Feststellung beschränkt werden, ob
 
 
 (3) Zuständig für die Prüfungen nach den Absätzen 1 und 2 ist die
-Zulassungsbehörde. Für die Prüfung von Sprengzubehör findet § 12a Abs.
-4 Satz 2 entsprechende Anwendung.
+Bundesanstalt für Materialforschung und -prüfung. Für die Prüfung von
+Sprengzubehör findet § 5e Absatz 1 Satz 3 des Sprengstoffgesetzes
+entsprechende Anwendung.
 
 (4) (weggefallen)
 
@@ -947,12 +422,12 @@ zuständigen Stelle
 
 
 
-(3) Die Zulassungsbehörde kann das Ergebnis der Prüfung dem nach § 6
-Abs. 2 des Gesetzes gebildeten Sachverständigenausschuß für
-explosionsgefährliche Stoffe zur Stellungnahme vorlegen, wenn
-zweifelhaft ist, ob bei Erteilung der Zulassung der Schutz von Leben,
-Gesundheit oder Sachgütern Beschäftigter oder Dritter gewährleistet
-ist.
+(3) Die Bundesanstalt für Materialforschung und -prüfung kann das
+Ergebnis der Prüfung dem nach § 6 Abs. 2 des Gesetzes gebildeten
+Sachverständigenausschuß für explosionsgefährliche Stoffe zur
+Stellungnahme vorlegen, wenn zweifelhaft ist, ob bei Erteilung der
+Zulassung der Schutz von Leben, Gesundheit oder Sachgütern
+Beschäftigter oder Dritter gewährleistet ist.
 
 
 ### § 11
@@ -962,10 +437,12 @@ ist.
 
 ### § 12
 
-(1) Die Entscheidung über den Antrag auf Zulassung eines sonstigen
-explosionsgefährlichen Stoffes nach § 1 Abs. 3 Nr. 1 und 2 des
-Gesetzes oder von Sprengzubehör nach § 5 des Gesetzes ist durch die
-Bundesanstalt schriftlich zu erlassen.
+(1) Die Bundesanstalt für Materialforschung und -prüfung hat die
+Entscheidung über den Antrag auf Zulassung eines sonstigen
+explosionsgefährlichen Stoffes nach § 5f Absatz 1 in Verbindung mit §
+1 Absatz 4 Nummer 1 und 2 des Sprengstoffgesetzes oder von
+Sprengzubehör nach § 5f Absatz 2 des Sprengstoffgesetzes schriftlich
+zu erlassen.
 
 (2) Der Zulassungsbescheid hat folgende Angaben zu enthalten:
 
@@ -983,7 +460,7 @@ Bundesanstalt schriftlich zu erlassen.
     oder Gegenstandes,
 
 
-4.  Art und Form des Zulassungszeichens (§ 8),
+4.  Art und Form des Zulassungszeichens (§ 6 Absatz 3),
 
 
 5.  die inhaltlichen Beschränkungen und die Nebenbestimmungen der
@@ -992,202 +469,110 @@ Bundesanstalt schriftlich zu erlassen.
 
 
 
-(3) Nebenbestimmungen und inhaltliche Beschränkungen der Zulassung,
-die die Verwendung der zugelassenen Stoffe und Gegenstände betreffen,
-sind vom Verwender zu beachten. Die Zulassung ist mit der Auflage zu
-verbinden, einen Auszug des Zulassungsbescheides den Verwendern
-auszuhändigen, soweit darin Nebenbestimmungen und inhaltliche
-Beschränkungen enthalten sind.
+(3) Die Zulassung ist mit der Auflage zu verbinden, den Verwendern
+einen Auszug des Zulassungsbescheides auszuhändigen, sofern in der
+Zulassung Nebenbestimmungen oder inhaltliche Beschränkungen enthalten
+sind.
 
 
-### § 12a
-
-(1) Vor dem Inverkehrbringen sind Explosivstoffe oder pyrotechnische
-Gegenstände nach Modul B oder nach Modul G daraufhin zu prüfen, ob sie
-in Zusammensetzung und Beschaffenheit die Anforderungen nach Anlage 2
-oder 3 erfüllen. Satz 1 gilt nicht, wenn bei pyrotechnischen
-Gegenständen der Kategorie 4 das Modul H gewählt wurde.
-
-(2) Wird die Konformität nach Absatz 1 festgestellt, so wird eine
-Baumusterprüfbescheinigung erteilt. Diese kann befristet, inhaltlich
-beschränkt sowie mit Bedingungen verbunden werden, soweit dies zum
-Schutz von Leben, Gesundheit oder Sachgütern Beschäftigter oder
-Dritter erforderlich ist. Die Bundesanstalt kann, auch nachträglich,
-Auflagen erlassen, soweit dies zum Schutz der in Satz 2 bezeichneten
-Rechtsgüter erforderlich ist.
-
-(3) Für die Rücknahme und den Widerruf einer
-Baumusterprüfbescheinigung gelten die Vorschriften des § 34 Absatz 1,
-2 und 4 Nummer 1 und 2 des Gesetzes entsprechend.
-
-(4) Zuständig für die Prüfung nach Absatz 1 und die Erteilung der
-Baumusterprüfbescheinigungen im Geltungsbereich des Gesetzes ist
-ausschließlich die Bundesanstalt. Sie kann mit der Durchführung von
-Teilen der Prüfungen auch andere Prüflaboratorien beauftragen, die die
-Anforderungen nach Anhang III der Richtlinie 93/15/EWG oder Anhang III
-der Richtlinie 2007/23/EG erfüllen müssen. Die Bundesanstalt
-übermittelt den übrigen Mitgliedstaaten alle erforderlichen Angaben
-über im Geltungsbereich des Gesetzes erteilte, geänderte,
-zurückgenommene oder widerrufene Baumusterprüfbescheinigungen.
-
-(5) Eine Baumusterprüfbescheinigung und etwaige Ergänzungen müssen vom
-Hersteller oder seinem in der Europäischen Union ansässigen
-Bevollmächtigten mindestens zehn Jahre lang nach der letzten
-Herstellung des Produkts zusammen mit den dazugehörenden Unterlagen
-aufbewahrt und auf Verlangen der zuständigen Behörde jederzeit
-vorgelegt werden.
-
-
-### § 12b
-
-(1) Für die nach einem Baumuster gefertigten Explosivstoffe und
-pyrotechnischen Gegenstände hat der Hersteller in einem
-Qualitätssicherungsverfahren die Konformität der nachgefertigten
-Explosivstoffe und pyrotechnischen Gegenstände mit dem Baumuster
-nachzuweisen.
-
-(2) Im Falle der pyrotechnischen Gegenstände der Kategorie 4 kann der
-Hersteller in einem Qualitätssicherungsverfahren nach Modul H die
-Konformität der nachgefertigten pyrotechnischen Gegenstände
-nachweisen. Zuständig für die Prüfung der Qualitätssicherungsverfahren
-nach Modul H ist die Bundesanstalt.
-
-(3) Wird im Qualitätssicherungsverfahren die Konformität der
-nachgefertigten Explosivstoffe und pyrotechnischen Gegenstände mit dem
-Baumuster festgestellt, so bringt der Hersteller auf den
-Explosivstoffen und pyrotechnischen Gegenständen oder, soweit das
-nicht möglich ist, auf deren Verpackung das CE-Zeichen an und stellt
-eine Konformitätserklärung aus. Satz 1 gilt nicht für pyrotechnische
-Gegenstände nach § 5 Absatz 2 des Gesetzes.
-
-(4) Der Hersteller oder sein in der Europäischen Union ansässiger
-Bevollmächtigter hat nachfolgende Unterlagen mindestens zehn Jahre
-lang nach der letzten Herstellung des Produkts aufzubewahren und auf
-Verlangen der zuständigen Behörde jederzeit vorzulegen:
-
-1.  die Konformitätserklärung,
-
-
-2.  die Unterlagen über das zugelassene Qualitätssicherungssystem,
-
-
-3.  die Entscheidung über die Bewertung dieses Qualitätssicherungssystems,
-
-
-4.  die Berichte über die Nachprüfungen und
-
-
-5.  die Konformitätsbescheinigung.
+### § 12a (weggefallen)
 
 
 
+### § 12b (weggefallen)
 
 
-### § 12c
 
-(1) Soweit im Rahmen des Qualitätssicherungsverfahrens nach § 12b oder
-im Rahmen der Einzelprüfung nach § 6a Abs. 1 Satz 3 Prüfungen
-auszuführen und Bescheinigungen auszustellen sind, müssen diese von
-einer benannten Stelle unter Beachtung der dafür festgelegten
-Verfahren durchgeführt und ausgestellt werden. Die benannten Stellen
-können mit der Durchführung von Teilen der Prüfungen auch andere
-Prüflaboratorien beauftragen.
+### § 12c (weggefallen)
 
-(2) Benannte Stelle im Sinne des Absatzes 1 ist die Bundesanstalt.
-Benannte Stelle ist auch jede von den Ländern als Prüflaboratorium
-oder Zertifizierungsstelle für einen bestimmten Aufgabenbereich dem
-Bundesministerium des Innern benannte und von ihm im Bundesanzeiger
-bekanntgemachte Stelle. Die Stelle kann benannt werden, wenn in einem
-Akkreditierungsverfahren festgestellt wurde, dass die Einhaltung der
-Anforderungen nach Anhang III der Richtlinie 93/15/EWG oder Anhang III
-der Richtlinie 2007/23/EG gewährleistet ist. Die Akkreditierung kann
-unter Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf,
-Rücknahme, Widerruf und Erlöschen sind dem Bundesministerium des
-Innern unverzüglich anzuzeigen.
-
-(3) Benannte Stellen nach Absatz 1, nach § 12a Absatz 1 und § 12b
-Absatz 2 für die Durchführung von Prüfungen und die Erteilung von
-Bescheinigungen sind auch die Stellen, die der Kommission der
-Europäischen Gemeinschaften von einem Mitgliedstaat auf Grund eines
-Rechtsakts des Rates oder der Kommission der Europäischen
-Gemeinschaften oder von einer nach dem Abkommen über den Europäischen
-Wirtschaftsraum zuständigen Behörde auf Grund dieses Abkommens
-mitgeteilt worden sind.
-
-(4) Die Länder, bei Einrichtungen des Bundes die für die Fachaufsicht
-zuständige oberste Bundesbehörde, überwachen die Einhaltung der
-Anforderungen nach Absatz 2 Satz 3 durch die benannten Stellen. Sie
-können von den benannten Stellen und dem mit den Prüfungen und der
-Durchführung der Fachaufgaben beauftragten Personal die zur Erfüllung
-ihrer Überwachungsaufnahmen erforderlichen Auskünfte und sonstige
-Unterstützung verlangen. Ihre Beauftragten sind berechtigt, zu den
-Betriebs- und Geschäftszeiten Grundstücke, Geschäfts- und Laborräume
-zu betreten und zu besichtigen und die Vorlage von Unterlagen für die
-Erteilung von Bescheinigungen zu verlangen. Die Auskunftspflichtigen
-haben die Maßnahmen nach Satz 3 zu dulden; § 31 Abs. 3 des Gesetzes
-findet Anwendung.
-
-(5) Das Bundesministerium des Innern teilt der Kommission der
-Europäischen Gemeinschaften und den anderen Mitgliedstaaten mit,
-welche Stellen für die Durchführung des Konformitätsnachweisverfahrens
-benannt worden sind und welche Aufgaben diesen Stellen übertragen
-worden sind. Das Bundesministerium des Innern unterrichtet die
-Kommission der Europäischen Gemeinschaften und die anderen
-Mitgliedstaaten über den Ablauf, die Rücknahme oder den Widerruf und
-eine anderweitige Aufhebung oder Erledigung einer Benennung. Es macht
-auch den Ablauf, Widerruf, die Rücknahme sowie anderweitige Aufhebung
-oder Erledigung einer Benennung im Bundesanzeiger bekannt.
 
 
 ### § 13
 
-(1) Die Bundesanstalt hat Listen zu führen
+(1) Die Bundesanstalt für Materialforschung und -prüfung hat folgende
+Listen zu führen:
 
-1.  der gemäß § 5 des Gesetzes erteilten Zulassungen und
-    Baumusterprüfbescheinigungen,
-
-
-2.  der nach § 6 Absatz 4 Satz 1 angezeigten Explosivstoffe und
-    pyrotechnischen Gegenstände,
+1.  eine Liste der Baumusterprüfbescheinigungen, die gemäß § 5b Absatz 2
+    des Sprengstoffgesetzes erteilt worden sind,
 
 
-3.  der nach § 6 Absatz 4 Satz 5 festgelegten Beschränkungen oder
-    Ergänzungen der Anleitung zur Verwendung,
+2.  eine Liste der Zulassungen, die gemäß § 5f Absatz 1 und 2 des
+    Sprengstoffgesetzes erteilt worden sind,
 
 
-4.  der Kennnummern der Herstellungsstätten für Explosivstoffe,
+3.  (weggefallen)
 
 
-5.  der ihr von den benannten Stellen der anderen Mitgliedstaaten
-    mitgeteilten Baumusterprüfbescheinigungen.
+4.  eine Liste der Kennnummern der Herstellungsstätten für Explosivstoffe,
 
 
-
-Die Listen sollen die folgenden Angaben enthalten:
-
-1.  die Bezeichnung des Stoffes oder Gegenstandes,
-
-
-2.  im Falle der sonstigen explosionsgefährlichen Stoffe und des
-    Sprengzubehörs: den Namen und die Anschrift des Herstellers und
-    gegebenenfalls des Einführers sowie das Zulassungszeichen,
-
-
-3.  im Falle der Explosivstoffe und der pyrotechnischen Gegenstände: den
-    Namen und die Anschrift des Herstellers und gegebenenfalls seines in
-    der Europäischen Union ansässigen Bevollmächtigten oder Einführers
-    sowie die Identifikationsnummer,
-
-
-4.  Beschränkungen, Befristungen, Bedingungen und Auflagen.
+5.  eine Liste der Registrierungsnummern der pyrotechnischen Gegenstände
+    nach § 16c Absatz 3 Satz 1 des Sprengstoffgesetzes.
 
 
 
 
-(2) Die Bundesanstalt führt auch eine Liste der aktuellen europäischen
-Normen mit Prüfvorschriften für Explosivstoffe und pyrotechnische
-Gegenstände zum Zwecke der Prüfung nach § 12a Absatz 1. Die Liste soll
-die folgenden Angaben enthalten:
+(2) Die Listen nach Absatz 1 sollen die Bezeichnung des Stoffes oder
+Gegenstandes enthalten. Bei Explosivstoffen und pyrotechnischen
+Gegenständen sollen die Listen auch den Namen und die Anschrift des
+Herstellers und gegebenenfalls seines Bevollmächtigten oder des
+Einführers enthalten. Bei pyrotechnischen Gegenständen gemäß der
+Durchführungsrichtlinie 2014/58/EU der Kommission von 16. April 2014
+über die Errichtung eines Systems zur Rückverfolgbarkeit von
+pyrotechnischen Gegenständen gemäß der Richtlinie 2007/23/EG des
+Europäischen Parlaments und des Rates (ABl. L 115 vom 17.4.2014, S.
+28) sollen die Listen die folgenden zusätzlichen Angaben enthalten:
+
+1.  die Registrierungsnummer,
+
+
+2.  das Datum der Ausstellung
+
+    a)  der EU-Baumusterprüfbescheinigung nach Modul B des Anhangs III der
+        Richtlinie 2014/28/EU oder des Anhangs II der Richtlinie 2013/29/EU,
+
+
+    b)  der Konformitätsbescheinigung nach Modul G des Anhangs III der
+        Richtlinie 2014/28/EU oder des Anhangs II der Richtlinie 2013/29/EU
+        oder
+
+
+    c)  der Zulassung für Qualitätssicherungssysteme nach Modul H des Anhangs
+        II der Richtlinie 2013/29/EU und gegebenenfalls die Geltungsdauer der
+        Bescheinigung oder Zulassung,
+
+
+
+
+
+3.  den allgemeinen Produkttyp und gegebenenfalls den Untertyp,
+
+
+4.  das Modul für die Produktionsphasenkonformität, falls die
+    Zuständigkeit für die Überwachung nach diesem Modul bei der
+    Bundesanstalt für Materialforschung und -prüfung liegt und wenn das
+    Konformitätsbewertungsverfahren nicht nach Modul G oder Modul H
+    durchgeführt wurde,
+
+
+5.  falls bekannt, die benannte Stelle, die die Konformitätsbewertung für
+    die Produktionsphase vornimmt,
+
+
+6.  Beschränkungen, Befristungen, Bedingungen und Auflagen der
+    Bescheinigung oder Zulassung.
+
+
+
+
+Bei sonstigen explosionsgefährlichen Stoffen und Sprengzubehör sollen
+die Listen auch den Namen und die Anschrift des Herstellers und
+gegebenenfalls des Einführers sowie das Zulassungszeichen enthalten.
+
+(3) Die Bundesanstalt für Materialforschung und -prüfung führt ferner
+eine Liste der aktuellen mandatierten europäischen Normen mit
+Prüfvorschriften für Explosivstoffe und pyrotechnische Gegenstände.
+Die Liste soll die folgenden Angaben enthalten:
 
 1.  die Kennnummer der Norm,
 
@@ -1195,7 +580,7 @@ die folgenden Angaben enthalten:
 2.  den Titel der Norm,
 
 
-3.  das Datum der Veröffentlichung und
+3.  das Datum der Veröffentlichung der Norm und
 
 
 4.  die Bezugsquelle der Norm.
@@ -1203,11 +588,20 @@ die folgenden Angaben enthalten:
 
 
 
-(3) Die Listen sind auf dem jeweils neuesten Stand zu halten. Sie sind
-bei der Bundesanstalt während der Dienststunden auszulegen. Auf
-Verlangen eines Dritten ist diesem gegen Kostenerstattung eine
-Abschrift oder Vervielfältigung zu überlassen.
+(4) Die Bundesanstalt für Materialforschung und -prüfung führt auch
+eine Liste mit Verweisen auf die von den benannten Stellen der anderen
+Mitgliedstaaten der Europäischen Union erteilten EU-
+Baumusterprüfbescheinigungen und Bescheinigungen über Einzelprüfungen.
 
+[^F797946_03_BJNR021410977BJNE002707118]
+(5) Die Listen
+sind auf dem aktuellen Stand zu halten. Sie sind bei der Bundesanstalt
+für Materialforschung und -prüfung während der Dienststunden
+auszulegen und im Internet öffentlich zugänglich zu machen. Dritte
+erhalten auf Verlangen und gegen Kostenerstattung Kopien der Listen.
+
+    Im Internet unter www.bam.de.
+[^F797946_03_BJNR021410977BJNE002707118]: 
 
 ## Abschnitt IV - Allgemeine Vorschriften über die Kennzeichnung, die Verpackung und das Überlassen an andere
 
@@ -1215,235 +609,492 @@ Abschrift oder Vervielfältigung zu überlassen.
 
 ### § 14
 
-(1) Wer explosionsgefährliche Stoffe oder Sprengzubehör herstellt,
-einführt oder verbringt, darf diese Stoffe oder Gegenstände anderen
-nur überlassen, wenn sie und ihre Verpackung nach dem Stand der
-Technik gekennzeichnet sind und, soweit es sich um Stoffe nach § 6
-Absatz 3 handelt, die in § 6 Absatz 4 Satz 2 bezeichnete Anleitung
-beigefügt ist. Soweit diese Vorschriften nichts Abweichendes
-vorschreiben, ist folgende Kennzeichnung anzubringen:
+(1) Wer explosionsgefährliche Stoffe herstellt, einführt oder
+verbringt, darf diese anderen Personen nur überlassen, wenn
 
-1.  die Bezeichnung (Name) des jeweiligen Stoffes oder Gegenstandes,
-
-
-2.  der Name (Firma), die Anschrift und die Telefonnummer des Herstellers
-    oder des Einführers; bei Herstellern mit Sitz außerhalb der
-    Europäischen Union Name und Anschrift dessen, der den Stoff in die
-    Europäische Union einführt,
+1.  die Verpackungen so verschlossen und beschaffen sind, dass der Inhalt
+    bei gewöhnlicher Beanspruchung nicht beeinträchtigt wird und nicht
+    nach außen gelangen kann; dies gilt nicht, wenn die Eigenschaften des
+    explosionsgefährlichen Stoffes andere dem Stand der Technik
+    entsprechende Sicherheitsvorkehrungen erfordern,
 
 
-3.  bei sonstigen explosionsgefährlichen Stoffen und Sprengzubehör: das
-    vorgeschriebene Zulassungszeichen,
+2.  der Werkstoff der Verpackungen und ihrer Verschlüsse
+
+    a)  vom Inhalt nicht angegriffen werden kann und
 
 
-4.  bei Explosivstoffen: das CE-Zeichen, im Falle einer erfolgten
-    Einzelprüfung nach § 6 Absatz 3 Satz 5 oder des Konformitätsnachweises
-    nach § 6 Absatz 3 Satz 3 auch das Kennzeichen der benannten Stelle,
-
-
-5.  bei Explosivstoffen: die eindeutige Kennzeichnung nach dem Anhang der
-    Richtlinie 2008/43/EG der Kommission vom 4. April 2008 zur Einführung
-    eines Systems zur Identifizierung und Rückverfolgbarkeit von
-    Explosivstoffen für zivile Zwecke (ABl. L 94 vom 5.4.2008, S. 8), die
-    zuletzt durch die Richtlinie 2012/4/EU (ABl. L 50 vom 23.2.2012, S.
-    18) geändert worden ist,
-
-
-6.  bei pyrotechnischen Gegenständen mit Ausnahme der pyrotechnischen
-    Gegenstände nach § 5 Absatz 2 des Gesetzes: das CE-Zeichen und die
-    Registriernummer zum CE-Zeichen, im Falle einer erfolgten
-    Einzelprüfung nach § 6 Absatz 3 Satz 5 oder des Konformitätsnachweises
-    nach § 6 Absatz 3 Satz 3 auch das Kennzeichen der benannten Stelle,
-
-
-7.  bei pyrotechnischen Gegenständen, außer pyrotechnischen Gegenständen
-    für Fahrzeuge: die Kategorie, die Nettoexplosivstoffmasse und die
-    Altersgrenze gemäß § 20 Absatz 2 sowie im Falle der Kategorien 3 und 4
-    das Herstellungsjahr,
-
-
-8.  bei pyrotechnischen Gegenständen der Kategorien 1 bis 4, P1 und P2
-    sowie T1 und T2: der Sicherheitsabstand,
-
-
-9.  bei pyrotechnischen Gegenständen für Fahrzeuge: Name und Typ des
-    Gegenstandes und die Sicherheitshinweise. Weiter ist professionellen
-    Nutzern ein Sicherheitsdatenblatt in der gewünschten Sprache
-    mitzuliefern, das gemäß Artikel 31 in Verbindung mit Anhang II der
-    Verordnung (EG) 1907/2006, die zuletzt durch Artikel 57 Absatz 2 der
-    Verordnung (EG) 1272/2008 geändert worden ist, erstellt wird. Das
-    Sicherheitsdatenblatt kann in Papierform oder, wenn der Empfänger über
-    die notwendigen Mittel verfügt, auf das Sicherheitsdatenblatt Zugriff
-    zu nehmen, auf elektronischem Weg vorgelegt werden.
+    b)  keine Verbindung mit dem Inhalt eingehen kann, die eine Explosion,
+        eine Entzündung oder einen anderen Vorgang, der Gefahren für Leben,
+        Gesundheit oder Sachgüter verursacht, herbeiführen kann,
 
 
 
-Soweit es sich um Stoffe nach § 6 Absatz 3 handelt, ist die in § 6
-Absatz 4 Satz 2 bezeichnete Anleitung beizufügen.
-
-(2) Wer explosionsgefährliche Stoffe herstellt, einführt oder
-verbringt und selbst aufbewahren oder anderen überlassen will, hat auf
-dem Versandstück oder, sofern die Stoffe nicht zum Versand bestimmt
-sind, auf dem Packstück folgende Kennzeichnung anzubringen:
-
-1.  die Lagergruppe des Stoffes oder Gegenstandes in der jeweiligen
-    Verpackung,
 
 
-2.  die Verträglichkeitsgruppe des Stoffes oder Gegenstandes, soweit sie
-    im Bundesanzeiger bekannt gemacht oder von der zuständigen
-    Bundesbehörde angeordnet worden ist.
+3.  die Verpackung und ihre Verschlüsse in allen Teilen so fest und
+    widerstandsfähig sind, dass
+
+    a)  sie sich nicht unbeabsichtigt lockern oder öffnen und
+
+
+    b)  sie allen Beanspruchungen zuverlässig standhalten, denen sie
+        üblicherweise beim Umgang ausgesetzt sind.
 
 
 
-Satz 1 ist nicht anzuwenden auf explosionsgefährliche Stoffe, die aus
-dem Geltungsbereich des Gesetzes oder durch den Geltungsbereich des
-Gesetzes in einen anderen Mitgliedstaat verbracht werden.
-
-(3) Die Vorschriften des Absatzes 1 gelten für das Versandstück als
-erfüllt, wenn es nach den verkehrsrechtlichen Vorschriften
-gekennzeichnet ist, soweit diese Verordnung oder eine auf Grund dieser
-Verordnung erlassene technische Regel nichts anderes bestimmt. Soweit
-es nach den verkehrsrechtlichen Vorschriften nicht vorgeschrieben ist,
-muss auf dem Versandstück die Kennzeichnung nach Absatz 2 angebracht
-sein. Ist die Verpackung des Versandstückes die einzige Verpackung, so
-muss sie außerdem nach Absatz 1 Nummer 1 bis 4 und 6, bei Stoffen nach
-§ 1 Absatz 3 Nummer 3 des Gesetzes nach Absatz 1 Nummer 1 und 2,
-gekennzeichnet sein.
-
-(4) Auf dem Explosivstoff oder pyrotechnischen Gegenstand dürfen keine
-Zeichen angebracht werden, die mit den Zeichen nach Absatz 1 Nummer 4
-oder Nummer 6 verwechselt werden können. Wird ein geprüfter
-Explosivstoff oder pyrotechnischer Gegenstand für vorschriftswidrig
-befunden und kann er nicht unmittelbar in einen vorschriftsmäßigen
-Zustand versetzt werden, ist er deutlich und auffällig als
-vorschriftswidrig zu kennzeichnen. Unterliegt der Explosivstoff oder
-pyrotechnische Gegenstand auch anderen zwingenden Vorschriften des
-Gemeinschaftsrechts, so darf das CE-Zeichen nur angebracht werden,
-wenn der Explosivstoff oder pyrotechnische Gegenstand auch diesen
-Vorschriften entspricht.
-
-(5) Die Absätze 1 bis 3 sind nicht anzuwenden auf
-explosionsgefährliche Stoffe und Sprengzubehör, die
-
-1.  zur Ausfuhr oder zum Verbringen aus dem Geltungsbereich des Gesetzes
-    bestimmt sind,
-
-
-2.  ausschließlich für militärische oder polizeiliche Zwecke hergestellt
-    und an eine militärische oder polizeiliche Dienststelle vertrieben
-    oder ihr überlassen werden,
-
-
-3.  nicht in den Verkehr gelangen.
 
 
 
-Satz 1 gilt entsprechend für explosionsgefährliche Stoffe, die von
-einer militärischen oder polizeilichen Dienststelle an die
-Bundesanstalt Technisches Hilfswerk überlassen werden.
+
+(2) Die Verpackungen für Zündstoffe, pyrotechnische Sätze,
+Treibladungspulver, Raketentreibstoffe und für sonstige
+explosionsgefährliche Stoffe nach § 1 Absatz 4 des Sprengstoffgesetzes
+sowie die Verschlüsse dieser Verpackungen müssen außerdem so
+beschaffen sein, dass sie keine nach dem Stand der Technik vermeidbare
+Erhöhung der Gefahr bewirken. Bei sonstigen explosionsgefährlichen
+Stoffen nach § 1 Absatz 4 des Sprengstoffgesetzes ist darüber hinaus
+die Menge der sonstigen explosionsgefährlichen Stoffe in der
+Verpackungseinheit so zu wählen, dass bei den Temperaturen, denen die
+Stoffe beim Transport und bei der Aufbewahrung üblicherweise
+ausgesetzt sind, keine Selbstentzündung eintritt. Ist dies nicht
+möglich, ist durch dauernde Kühlung eine Selbsterhitzung zu
+verhindern.
+
+(3) Die Anforderungen der Absätze 1 und 2 Satz 1 gelten als erfüllt,
+wenn eine für diesen Stoff gefahrgutrechtlich zugelassene Verpackung
+genutzt wird.
+
+(4) Pyrotechnische Gegenstände, die in einer ein- oder mehrseitig
+durchsichtigen oder in einer in sicherheitstechnischer Hinsicht
+gleichwertigen Verpackung zur Schau gestellt werden sollen, müssen
+durch diese Verpackung so geschützt sein, dass durch gewöhnliche
+thermische oder mechanische Beanspruchung kein pyrotechnischer
+Gegenstand ausgelöst wird.
+
+(5) Treibladungspulver für das nichtgewerbsmäßige Laden und
+Wiederladen von Patronenhülsen, zum Vorderladerschießen oder zum
+Böllern darf nur in der Ursprungsverpackung des Herstellers oder in
+der Verpackung des Einführers vertrieben oder anderen Personen
+überlassen werden.
+
+(6) Schwarzpulver zum Sprengen und schwarzpulverähnliche Sprengstoffe
+dürfen anderen Personen in loser Form nur in Betrieben und
+ausschließlich zum Schnüren oder zum Kessel- und Lassensprengen
+überlassen werden.
 
 
 ### § 15
 
-(1) Hersteller oder Einführer im Geltungsbereich des Gesetzes haben
-bei der Kennzeichnung nach § 14 Absatz 1 Nummer 5 als
-Landeskennzeichen die Buchstaben „DE“ zu verwenden. Die Kennnummer der
-Herstellungsstätte oder des Einführers wird ihnen auf schriftlichen
-Antrag von der Bundesanstalt zugeteilt. Bei Artikeln, die zu klein
-sind, um den eindeutigen Produktcode und die logistischen
-Informationen des Herstellers nach § 14 Absatz 1 Nummer 5 anzubringen,
-ist die Kennzeichnung gemäß Nummer 3 des Anhangs der Richtlinie
-2008/43/EG, die durch die Richtlinie 2012/4/EU (ABl. L 50 vom
-23\.2.2012, S. 18) geändert worden ist, auszuführen.
+(1) Wer explosionsgefährliche Stoffe herstellt, einführt oder
+verbringt und selbst aufbewahren oder anderen überlassen will, hat auf
+dem Versandstück oder, sofern die explosionsgefährlichen Stoffe nicht
+zum Versand bestimmt sind, auf dem Packstück folgende Kennzeichnungen
+anzubringen:
 
-(2) Der Hersteller oder Einführer darf den Explosivstoffen
-selbstklebende Kopien der Kennzeichnung zur Nutzung durch den
-Empfänger beifügen. Diese Kopien sind sichtbar als solche zu
-markieren, um einen Missbrauch zu verhindern.
+1.  die Lagergruppe des Stoffes in der jeweiligen Verpackung,
+
+
+2.  die Verträglichkeitsgruppe des Stoffes.
+
+
+
+
+(2) Die Anforderungen des Absatzes 1 gelten als erfüllt, wenn das
+Versandstück nach den verkehrsrechtlichen Vorschriften gekennzeichnet
+ist, sofern die Transportklassifizierung nach den verkehrsrechtlichen
+Vorschriften mit der Lagergruppe in der jeweiligen Verpackung sowie
+die Verträglichkeitsgruppe übereinstimmen.
+
+(3) Absatz 1 sowie § 18 Absatz 1 Nummer 2, Absatz 2 Satz 1 Nummer 1
+und Absatz 7 sind nicht anzuwenden auf explosionsgefährliche Stoffe,
+die
+
+1.  zur Ausfuhr, zur Durchfuhr oder zum Verbringen aus dem Geltungsbereich
+    des Sprengstoffgesetzes bestimmt sind,
+
+
+2.  ausschließlich für militärische oder polizeiliche Zwecke hergestellt
+    und an eine militärische oder polizeiliche Dienststelle vertrieben
+    oder einer dieser Dienststellen überlassen werden,
+
+
+3.  nicht in den Verkehr gebracht werden oder
+
+
+4.  von einer militärischen oder polizeilichen Dienststelle der
+    Bundesanstalt Technisches Hilfswerk überlassen werden.
+
+
+
 
 
 ### § 16
 
-(1) Wer explosionsgefährliche Stoffe herstellt, einführt oder
-verbringt darf diese Stoffe anderen nur überlassen, wenn sie nach den
-Vorschriften des § 14 verpackt sind. Soweit diese Vorschriften nichts
-Abweichendes vorschreiben, muß die Verpackung hinsichtlich der
-Widerstandsfähigkeit und Undurchlässigkeit folgenden Anforderungen
-genügen:
+(1) Auf dem Explosivstoff oder dem pyrotechnischen Gegenstand dürfen
+keine Zeichen angebracht werden, die mit der CE-Kennzeichnung nach
+Artikel 30 Absatz 2 der Verordnung (EG) Nr. 765/2008 des Europäischen
+Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für
+die Akkreditierung und Marktüberwachung im Zusammenhang mit der
+Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr.
+339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) verwechselt werden
+können.
 
-1.  Die Verpackungen müssen so verschlossen und beschaffen sein, daß der
-    Inhalt bei gewöhnlicher Beanspruchung nicht beeinträchtigt wird und
-    vom Inhalt nichts nach außen gelangen kann; dies gilt nicht, wenn die
-    Eigenschaften des Stoffes andere Sicherheitsvorkehrungen erfordern.
+(2) Unterliegt der Explosivstoff oder der pyrotechnische Gegenstand
+auch anderen zwingenden Vorschriften des Rechts der Europäischen
+Union, so darf die CE-Kennzeichnung nur angebracht werden, wenn der
+Explosivstoff oder pyrotechnische Gegenstand auch diesen Vorschriften
+entspricht.
 
+(3) Wird ein geprüfter Explosivstoff oder pyrotechnischer Gegenstand
+für nicht konform befunden und kann er nicht in einen konformen
+Zustand versetzt werden, ist er deutlich lesbar als nicht konform zu
+kennzeichnen.
 
-2.  Der Werkstoff der Verpackungen und ihrer Verschlüsse darf vom Inhalt
-    nicht angegriffen werden und darf keine Verbindung mit ihm eingehen,
-    die eine Explosion, eine Entzündung oder einen anderen Vorgang
-    herbeiführen kann, der Gefahren für Leben, Gesundheit oder Sachgüter
-    verursacht.
+(4) Alle Angaben und Kennzeichnungen, Gebrauchsanleitungen und
+Sicherheitsinformationen müssen klar, verständlich, deutlich lesbar
+und dauerhaft sein. Sie müssen, wenn nicht anderes bestimmt ist, in
+deutscher Sprache abgefasst sein.
 
+(5) Die Angaben und Kennzeichnungen nach diesem Abschnitt sind auf dem
+Explosivstoff oder dem pyrotechnischen Gegenstand anzubringen. Ist
+dies aufgrund der Größe, der Form oder des Designs nicht möglich, sind
+die Angaben und Kennzeichnungen auf der kleinsten Verpackungseinheit
+oder in den dem Explosivstoff oder dem pyrotechnischen Gegenstand
+beigefügten Unterlagen anzubringen.
 
-3.  Die Verpackung und ihre Verschlüsse müssen in allen Teilen so fest und
-    widerstandsfähig sein, daß sie sich nicht unbeabsichtigt lockern oder
-    öffnen und allen Beanspruchungen zuverlässig standhalten, denen sie
-    üblicherweise beim Umgang ausgesetzt sind.
-
-
-
-
-(2) Die Verpackungen und deren Verschlüsse für Zündstoffe,
-pyrotechnische Sätze, Treibladungspulver und Raketentreibstoffe sowie
-für Stoffe nach § 1 Abs. 3 des Gesetzes müssen außerdem so beschaffen
-sein, daß sie keine nach dem Stand der Technik vermeidbare Erhöhung
-der Gefahr bewirken. Bei Stoffen nach § 1 Abs. 3 des Gesetzes ist
-darüber hinaus die Menge der Stoffe in der Verpackungseinheit so zu
-wählen, daß bei Temperaturen, denen die Stoffe beim Transport und bei
-der Lagerung üblicherweise ausgesetzt sind, keine Selbstentzündung
-eintritt. Ist diese Forderung nicht erfüllbar, so ist durch dauernde
-Kühlung eine Selbsterhitzung zu verhindern.
-
-(3) Pyrotechnische Gegenstände, die in einer ein- oder mehrseitig
-durchsichtigen oder in einer in sicherheitstechnischer Hinsicht
-gleichwertigen Verpackung zur Schau gestellt werden sollen, müssen
-durch die Verpackung so geschützt sein, daß durch übliche thermische
-oder mechanische Beanspruchung kein Gegenstand ausgelöst wird.
-
-(4) Treibladungspulver für das nichtgewerbsmäßige Laden und
-Wiederladen von Patronenhülsen und zum Vorderladerschießen darf nur in
-der Ursprungsverpackung des Herstellers oder der Verpackung des
-Einführers vertrieben oder anderen überlassen werden.
-
-(5) Schwarzpulver zum Sprengen und schwarzpulverähnliche Sprengstoffe
-dürfen anderen in loser Form nur in Betrieben und ausschließlich zum
-Schnüren und zum Kessel- und Lassensprengen überlassen werden.
+(6) Die Kennzeichnungsvorschriften dieses Abschnitts gelten für das
+Versandstück als erfüllt, wenn es nach den verkehrsrechtlichen
+Vorschriften gekennzeichnet ist. Ist die Verpackung des Versandstückes
+die einzige Verpackung, so muss diese nach den
+Kennzeichnungsvorschriften dieses Abschnitts gekennzeichnet sein.
 
 
 ### § 17
 
-Wer explosionsgefährliche Stoffe oder Sprengzubehör vertreibt, darf
-diese Stoffe oder Gegenstände anderen nur überlassen, wenn er sich auf
-Grund von Stichproben überzeugt hat, dass diese nach den Vorschriften
-der §§ 14 bis 16 und dem Stand der Technik gekennzeichnet und verpackt
-sind.
+(1) Wer Explosivstoffe auf dem Markt bereitstellt, für die gemäß
+Artikel 15 der Richtlinie 2014/28/EU, auch in Verbindung mit der
+Richtlinie 2008/43/EG der Kommission vom 4. April 2008 zur Einführung
+eines Verfahrens zur Kennzeichnung und Rückverfolgung von
+Explosivstoffen für zivile Zwecke gemäß der Richtlinie 93/15/EWG des
+Rates (ABl. L 94 vom 5.4.2008, S. 8), die durch die Richtlinie
+2012/4/EU (ABl. L 50 vom 23.2.2012, S. 18) geändert worden ist, ein
+System der eindeutigen Identifizierung und Rückverfolgbarkeit bestehen
+muss, hat diese Explosivstoffe und deren kleinste Verpackungseinheit
+mit einer dem Anhang der Richtlinie 2008/43/EG entsprechenden
+eindeutigen Kennzeichnung zu versehen, die Folgendes enthalten muss:
+
+1.  den Namen des Herstellers,
+
+
+2.  einen alphanumerischen Code und
+
+
+3.  eine elektronisch lesbare Variante des Codes mit gleichem Inhalt.
+
+
+
+
+(2) Hersteller oder Einführer im Geltungsbereich des
+Sprengstoffgesetzes haben bei der Kennzeichnung nach Absatz 1 als
+Landeskennzeichen die Buchstabenfolge „DE“ zu verwenden. Die
+Kennnummer der Herstellungsstätte oder des Einführers wird ihnen auf
+schriftlichen oder elektronischen Antrag von der Bundesanstalt für
+Materialforschung und -prüfung zugeteilt.
+
+(3) Der Hersteller oder der Einführer darf den Explosivstoffen
+selbstklebende Kopien der Kennzeichnungsetiketten zur Nutzung durch
+den Empfänger beifügen. Diese Kopien sind sichtbar als solche zu
+markieren.
+
+(4) Falls es aufgrund der Größe, der Form oder des Designs eines
+Explosivstoffes technisch nicht möglich ist, eine eindeutige
+Kennzeichnung nach Absatz 1 auf dem Explosivstoff anzubringen, hat der
+Hersteller oder Einführer den Explosivstoff nach Nummer 3 des Anhangs
+der Richtlinie 2008/43/EG zu kennzeichnen.
+
+(5) Explosivstoffe, für die keine Kennzeichnungspflicht nach Absatz 1
+besteht, muss der Hersteller oder Einführer mit einer Typen-, Chargen-
+oder Seriennummer oder einem anderen Kennzeichen zu ihrer
+Identifizierung kennzeichnen.
+
+(6) Bei elektrischen Zündmitteln, die den Anforderungen der Anlage 2
+genügen, muss der Hersteller oder der Einführer den Zündertyp,
+anderenfalls die elektrischen Daten zur Empfindlichkeit, auf der
+kleinsten Verpackungseinheit angeben. Bei elektrischen Zündmitteln,
+die den Anforderungen der Anlage 2 genügen, muss der Hersteller oder
+der Einführer zusätzlich den Zündertyp auf dem elektrischen Zündmittel
+kennzeichnen.
+
+(7) Wer Explosivstoffe herstellt, einführt oder verbringt, darf diese
+anderen Personen nur überlassen, wenn sie oder ihre Verpackung
+zusätzlich zu den Kennzeichnungselementen nach den Absätzen 1 bis 5
+mit folgenden Angaben und Kennzeichnungen versehen sind:
+
+1.  die Nettoexplosivstoffmasse,
+
+
+2.  die Jahres- und die Monatszahl sowie gegebenenfalls die
+    Jahreswochenzahl der Herstellung,
+
+
+3.  die Farbgebung der Explosivstoffe oder deren Umhüllung zur Vermeidung
+    sicherheitstechnisch relevanter Verwechselungsgefahren,
+
+
+4.  die Informationen zur Schlagwettersicherheit,
+
+
+5.  bei Sprengschnüren: die Länge der Schnur und den Kennfaden für die
+    Herstellungsstätte,
+
+
+6.  bei Zündmitteln:
+
+    a)  die Anzahl der Zündmittel in der jeweiligen Verpackung,
+
+
+    b)  bei Zeitzündern die Angabe der Verzögerungszeit oder der Zeitstufe,
+
+
+    c)  die Länge und das Material der Zünderdrähte oder die Länge des
+        Zündschlauches,
+
+
+    d)  die Farbgebung der Zünderdrahtisolierung, die zur Unterscheidung des
+        Zündertyps und des Anwendungsbereichs verwendet wird.
+
+
+
+
+
+
+
+(8) Die CE-Kennzeichnung muss bei den folgenden Explosivstoffen auf
+den beigefügten Unterlagen angebracht werden:
+
+1.  Explosivstoffe, die für den Eigengebrauch hergestellt werden,
+
+
+2.  Explosivstoffe, die in Silo- oder Pumpfahrzeugen befördert und in ein
+    innerbetriebliches Lager geliefert oder direkt in Sprengbohrlöcher
+    geladen werden, und
+
+
+3.  Explosivstoffe, die am Sprengort hergestellt und danach sofort geladen
+    werden.
+
+
+
 
 
 ### § 18
 
-(1) Der Hersteller, Einführer oder Verbringer darf
-explosionsgefährliche Stoffe, die nach den Vorschriften über die
-Beförderung gefährlicher Güter auf dem Versandstück nicht mit dem
-Gefahrensymbol für explosionsgefährliche Stoffe gekennzeichnet und
-nicht für die Ausfuhr bestimmt sind, anderen im Geltungsbereich des
-Gesetzes nur überlassen, wenn er in das Beförderungspapier den Hinweis
-"Explosionsgefährlich" aufgenommen hat. Ist in diesem Fall ein
-Beförderungspapier nicht vorgeschrieben, so ist der Hinweis
-"Explosionsgefährlich" auf dem Versandstück anzubringen.
+(1) Wer pyrotechnische Gegenstände auf dem Markt bereitstellt, darf
+diese anderen Personen nur überlassen, wenn diese pyrotechnischen
+Gegenstände und ihre Verpackungen mit den folgenden Angaben
+gekennzeichnet sind:
 
-(2) Durch die Vorschriften der §§ 14 bis 16 bleiben die
-Kennzeichnungs- und Verpackungsvorschriften über die Beförderung
-gefährlicher Güter unberührt.
+1.  Name und Typ sowie erforderlichenfalls Untertyp des pyrotechnischen
+    Gegenstandes,
+
+
+2.  zugeteilte Registrierungsnummer der Konformitätsbewertung,
+
+
+3.  Produkt-, Chargen- oder Seriennummer.
+
+
+
+
+(2) Der Hersteller hat pyrotechnische Gegenstände zusätzlich mit den
+folgenden Angaben zu kennzeichnen:
+
+1.  Altersgrenze nach Artikel 7 Absatz 1 und 2 der Richtlinie 2013/29/EU,
+    bei Bereitstellung für die Verwendung im Geltungsbereich des
+    Sprengstoffgesetzes auch eine abweichende Altersgrenze nach § 20,
+
+
+2.  einschlägige Kategorie und Sicherheitsinformationen,
+
+
+3.  Nettoexplosivstoffmasse.
+
+
+
+Satz 1 gilt nicht für pyrotechnische Gegenstände für Fahrzeuge.
+
+(3) Der Hersteller hat Feuerwerkskörper zusätzlich mit den folgenden
+Angaben zu kennzeichnen:
+
+1.  Feuerwerkskörper der Kategorie F1: gegebenenfalls die Angabe „nur zur
+    Verwendung im Freien“ und Schutzabstände,
+
+
+2.  Feuerwerkskörper der Kategorie F2: die Angabe „nur zur Verwendung im
+    Freien“ und Schutzabstände,
+
+
+3.  Feuerwerkskörper der Kategorie F3: die Angabe „nur zur Verwendung im
+    Freien“ und Schutzabstände,
+
+
+4.  Feuerwerkskörper der Kategorie F4: die Angabe „zur Verwendung nur
+    durch Personen mit Fachkenntnissen“ und Schutzabstände.
+
+
+
+
+(4) Pyrotechnische Gegenstände für Bühne und Theater müssen vom
+Hersteller zusätzlich mit folgenden Angaben gekennzeichnet werden:
+
+1.  pyrotechnische Gegenstände für Bühne und Theater der Kategorie T1:
+    gegebenenfalls die Angabe „nur zur Verwendung im Freien“ und ein
+    Schutzabstand,
+
+
+2.  pyrotechnische Gegenstände für Bühne und Theater der Kategorie T2: die
+    Angabe „zur Verwendung nur durch Personen mit Fachkenntnissen“ und
+    Schutzabstände.
+
+
+
+
+(5) Die Kennzeichnung pyrotechnischer Gegenstände für Fahrzeuge darf
+in englischer Sprache erfolgen.
+
+(6) Elektrische Anzündmittel oder pyrotechnische Gegenstände, die eine
+elektrische Anzündung enthalten, sind vom Hersteller zusätzlich mit
+den folgenden Angaben in der Gebrauchsanleitung oder auf der
+Verpackung zu kennzeichnen:
+
+1.  elektrische Kenndaten zur Empfindlichkeit oder Typenbezeichnung wie
+    „Brückenanzünder A“, „Brückenanzünder U“ oder „Brückenanzünder HU“,
+
+
+2.  gegebenenfalls Länge und Material der Drähte,
+
+
+3.  Brücken- und Gesamtwiderstand.
+
+
+
+
+(7) Der Hersteller hat für die folgenden pyrotechnischen Gegenstände
+die Schutzabstände für normale Verwendungsbedingungen zu bestimmen:
+
+1.  für Feuerwerkskörper der Kategorie F4 gemäß Anlage 6 Nummer 3.3 und
+
+
+2.  für pyrotechnische Gegenstände für Bühne und Theater der Kategorie T2
+    gemäß Anlage 6 Nummer 4.2.
+
+
+
+Er hat die so bestimmten Schutzabstände in die Kennzeichnung
+aufzunehmen.
+
+
+### § 18a (weggefallen)
+
+
+
+### § 18b
+
+Wer sonstige explosionsgefährliche Stoffe herstellt, einführt oder
+verbringt, darf diese anderen Personen nur überlassen, wenn auf den
+Stoffen und auf ihrer Verpackung die folgenden Angaben angebracht
+sind:
+
+1.  Bezeichnung (Handelsname) des jeweiligen Stoffes,
+
+
+2.  Firmenname, Anschrift und Telefonnummer des Herstellers oder des
+    Einführers,
+
+
+3.  Zulassungszeichen,
+
+
+4.  Jahres- und Monatszahl der Herstellung,
+
+
+5.  Nettomasse,
+
+
+6.  für die Stoffgruppen A und B die in der Zulassung vorgeschriebenen
+    Sicherheitshinweise.
+
+
+
+
+
+### § 18c
+
+Sprengzubehör darf nur verwendet werden, wenn es mit den folgenden
+Angaben gekennzeichnet ist:
+
+1.  Bezeichnung des jeweiligen Sprengzubehörs,
+
+
+2.  Firmenname, Anschrift und Telefonnummer des Herstellers oder des
+    Einführers,
+
+
+3.  Zulassungszeichen,
+
+
+4.  bei Zündleitungen und Verlängerungsdrähten:
+
+    a)  farbliche Unterscheidung je nach elektrischem Widerstand, Material des
+        Leiters oder Verwendungsort,
+
+
+    b)  Länge der Leitung oder des Drahtes,
+
+
+    c)  Material des Leiters, gegebenenfalls farbliche Unterscheidung der
+        Isolierung je nach Material,
+
+
+    d)  elektrischer Widerstand, gegebenenfalls farbliche Unterscheidung der
+        Isolierung je nach Widerstand,
+
+
+
+
+
+5.  bei Zündeinrichtungen, Steuer- und Prüfgeräten:
+
+    a)  Typenbezeichnung,
+
+
+    b)  Seriennummer,
+
+
+    c)  Jahreszahl der Herstellung,
+
+
+    d)  zusätzliche Informationen, die für den bestimmungsgemäßen Gebrauch
+        notwendig sind,
+
+
+    e)  bei schlagwettergesicherten Geräten: zusätzliche Kennzeichnung mit
+        „(S)“,
+
+
+
+
+
+6.  bei Lade- und Mischladegeräten: Typenbezeichnung und Seriennummer.
+
+
+
+Satz 1 gilt nicht für Sprengzubehör, das ausschließlich für die
+Verwendung mit Explosivstoffen oder pyrotechnischen Gegenständen, die
+ausschließlich für militärische oder polizeiliche Zwecke hergestellt
+und an eine militärische oder polizeiliche Dienststelle vertrieben
+oder ihr überlassen werden, auf dem Markt bereitgestellt wurde.
 
 
 ### § 19
@@ -1456,14 +1107,12 @@ zulassen, soweit der Schutz von Leben, Gesundheit und Sachgütern
 Beschäftigter oder Dritter dies zuläßt.
 
 (2) Die zuständige Behörde kann im Einzelfall von den Kennzeichnungs-
-und Verpackungsvorschriften der §§ 14 und 16 Abs. 1 und 2 Ausnahmen
-bewilligen, soweit der mit diesen Vorschriften bezweckte Schutz von
-Leben, Gesundheit oder Sachgütern Beschäftigter oder Dritter in
-anderer Weise gewährleistet ist.
+und Verpackungsvorschriften der §§ 17 und 18 sowie § 18b Nummer 1 und
+2 Ausnahmen bewilligen, soweit der mit diesen Vorschriften bezweckte
+Schutz von Leben, Gesundheit oder Sachgütern Beschäftigter oder
+Dritter in anderer Weise gewährleistet ist.
 
-(3) Eine Ausnahme von der Verpflichtung zur Kennzeichnung der
-Explosivstoffe und pyrotechnische Gegenstände nach § 14 Absatz 1
-Nummer 4 und 6 ist nicht zulässig.
+(3) (weggefallen)
 
 
 ## Abschnitt V - Vertrieb, Überlassen und Verwenden pyrotechnischer Gegenstände
@@ -1472,58 +1121,26 @@ Nummer 4 und 6 ist nicht zulässig.
 
 ### § 20
 
-(1) Wer pyrotechnische Gegenstände herstellt, in den Geltungsbereich
-des Gesetzes einführt oder verbringt oder einführen oder verbringen
-lässt, darf diese anderen nur überlassen, wenn ihre Sätze
-
-1.  mechanisch oder chemisch nicht verunreinigt sind,
-
-
-2.  keine saure Reaktion zeigen, es sei denn, daß die
-    Handhabungssicherheit oder die Lagerbeständigkeit nicht beeinträchtigt
-    wird,
-
-
-3.  folgende Ausgangsstoffe nicht enthalten:
-
-    a)  Schwefel mit freier Säure oder mit mehr als 0,1 vom Hundert
-        unverbrennbaren Bestandteilen,
-
-
-    b)  Schwefelblüte,
-
-
-    c)  weißen (gelben) Phosphor,
-
-
-    d)  Kaliumchlorat mit mehr als 0,15 vom Hundert Bromatgehalt.
-
-
-
-
-
-
-
-(2) Der Umgang und Verkehr mit pyrotechnischen Gegenständen der
+(1) Der Umgang und Verkehr mit pyrotechnischen Gegenständen der
 einzelnen Kategorien ist Personen nur dann gestattet, wenn sie das
-nachfolgend aufgeführte Lebensalter vollendet haben:
+folgende Lebensalter haben:
 
-*    *   Kategorie 1:
+*    *   Kategorie F1:
 
     *   12 Jahre,
 
 
-*    *   Kategorie 2:
+*    *   Kategorie F2:
 
     *   18 Jahre,
 
 
-*    *   Kategorie 3:
+*    *   Kategorie F3:
 
     *   18 Jahre,
 
 
-*    *   Kategorie 4:
+*    *   Kategorie F4:
 
     *   21 Jahre,
 
@@ -1550,18 +1167,36 @@ nachfolgend aufgeführte Lebensalter vollendet haben:
 
 
 
-(3) Der Hersteller und derjenige, der pyrotechnische Gegenstände in
-den Geltungsbereich des Gesetzes einführt oder verbringt oder
-einführen oder verbringen lässt, haben sich auf Grund einer Analyse
-des Herstellers der Ausgangsstoffe oder eines anerkannten
-Sachverständigen davon zu überzeugen, dass bei den Ausgangsstoffen die
-Voraussetzungen nach Absatz 1 Nr. 1 und 2 vorliegen. Die Nachweise
-über die Prüfung sind drei Jahre lang aufzubewahren.
+(2) Abweichend von Absatz 1 dürfen pyrotechnische Gegenstände der
+Kategorie P1, die Rettungsmittel oder Bestandteil von
+Schutzausrüstungen oder Rettungsmitteln sind, Personen, die das 14.
+Lebensjahr vollendet haben, überlassen und von diesen Personen
+bestimmungsgemäß verwendet werden, sofern die Bundesanstalt für
+Materialforschung und -prüfung dies auf Antrag des Herstellers oder
+Einführers für die jeweilige Bauart genehmigt hat und die Personen an
+einer Einweisung zum sicheren Umgang mit diesen Gegenständen
+teilnehmen oder teilgenommen haben. Die Genehmigung wird für die
+Bauart erteilt, wenn der Schutz der öffentlichen Sicherheit dem nicht
+entgegensteht. Der Überlasser der pyrotechnischen Gegenstände ist
+verpflichtet, das Vorliegen der Voraussetzungen des Satzes 1 vor dem
+Überlassen zu überprüfen.
 
-(4) Folgende pyrotechnische Gegenstände der Kategorie 2 dürfen nur an
-Erlaubnisinhaber nach § 7 oder § 27 oder Befähigungsscheininhaber nach
-§ 20 des Gesetzes vertrieben, überlassen oder von diesen verwendet
-werden:
+(3) Ein Erlaubnisinhaber nach § 7 oder § 27 des Sprengstoffgesetzes
+oder eine verantwortliche Person nach § 20 des Sprengstoffgesetzes mit
+der Befähigung zum Abbrennen pyrotechnischer Gegenstände für Bühne und
+Theater der Kategorie T2 darf pyrotechnische Gegenstände, die als
+pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1 oder
+als pyrotechnischer Gegenstand für Bühne und Theater der Kategorie T1
+mit der Angabe „nur zur Verwendung im Freien“ gekennzeichnet sind, in
+einer von der Kennzeichnung oder der Gebrauchsanleitung abweichenden
+Art und Weise verwenden, wenn er dabei die mit diesem Gebrauch
+verbundenen Gefahren gebührend berücksichtigt.
+
+(4) Folgende pyrotechnische Gegenstände der Kategorie F2 dürfen nur an
+Erlaubnisinhaber nach § 7 Absatz 1 oder § 27 Absatz 1 oder
+Befähigungsscheininhaber nach § 20 Absatz 1 Satz 1 des
+Sprengstoffgesetzes vertrieben und überlassen oder von diesen
+verwendet werden:
 
 1.  Knallkörper und Knallkörperbatterien mit Blitzknallsatz,
 
@@ -1577,7 +1212,7 @@ werden:
 
 
 Satz 1 gilt nicht für das Verbringen aus dem Geltungsbereich des
-Gesetzes.
+Sprengstoffgesetzes.
 
 
 ### § 21
@@ -1621,26 +1256,27 @@ angebracht ist.
 
 (1) Pyrotechnische Gegenstände der Kategorie 2 dürfen dem Verbraucher
 nur in der Zeit vom 29. bis 31. Dezember überlassen werden; ist einer
-der genannten Tage ein Sonntag, ist ein Überlassen bereits ab 28.
+der genannten Tage ein Sonntag, ist ein Überlassen bereits ab dem 28.
 Dezember zulässig. Satz 1 gilt nicht für Verbraucher, die eine
 Erlaubnis nach § 7 oder § 27 oder einen Befähigungsschein nach § 20
 des Gesetzes oder eine Ausnahmegenehmigung nach § 24 Absatz 1
 besitzen. Die Regelungen zu den Ladenöffnungszeiten der Länder bleiben
 unberührt.
 
-(2) Pyrotechnische Gegenstände der Kategorien 3 und 4, T2 und P2 sowie
-pyrotechnische Sätze der Kategorie S2 dürfen nur Personen überlassen
-werden, die auf Grund einer Erlaubnis oder eines Befähigungsscheines
-zum Abbrennen von Feuerwerk nach den §§ 7, 20 oder § 27 des Gesetzes
-oder auf Grund einer Bescheinigung nach § 5 Absatz 5 zum Erwerb
-berechtigt sind oder mit diesen Gegenständen umgehen dürfen.
+(2) Pyrotechnische Gegenstände der Kategorien F3 und F4, T2 und P2
+sowie pyrotechnische Sätze der Kategorie S2 dürfen nur Personen
+überlassen werden, die auf Grund einer entsprechenden Erlaubnis nach §
+7 oder § 27 oder eines entsprechenden Befähigungsscheines nach § 20
+des Sprengstoffgesetzes oder auf Grund einer Bescheinigung nach § 22
+Absatz 1a Satz 1 des Sprengstoffgesetzes zum Erwerb berechtigt sind
+und mit diesen Gegenständen umgehen dürfen.
 
 
 ### § 23
 
 (1) Das Abbrennen pyrotechnischer Gegenstände in unmittelbarer Nähe
-von Kirchen, Krankenhäusern, Kinder- und Altersheimen sowie Reet- und
-Fachwerkhäusern ist verboten.
+von Kirchen, Krankenhäusern, Kinder- und Altersheimen sowie besonders
+brandempfindlichen Gebäuden oder Anlagen ist verboten.
 
 (2) Pyrotechnische Gegenstände der Kategorie 2 dürfen in der Zeit vom
 2\. Januar bis 30. Dezember nur durch Inhaber einer Erlaubnis nach § 7
@@ -1655,11 +1291,12 @@ Feuerwerk zum Abbrennen von pyrotechnischen Gegenständen der Kategorie
 P1, P2, T1 oder T2 ganzjährig der zuständigen Behörde zwei Wochen, ein
 Feuerwerk in unmittelbarer Nähe von Eisenbahnanlagen, Flughäfen oder
 Bundeswasserstraßen, die Seeschifffahrtsstraßen sind, vier Wochen
-vorher schriftlich anzuzeigen. Satz 1 findet keine Anwendung auf die
-Vorführung von Effekten mit pyrotechnischen Gegenständen und deren
-Sätzen in Theatern und vergleichbaren Einrichtungen. Die zuständige
-Behörde kann im Einzelfall auf die Einhaltung der Frist nach Satz 1
-verzichten, wenn dies aus besonderen Gründen gerechtfertigt erscheint.
+vorher schriftlich oder elektronisch anzuzeigen. Satz 1 findet keine
+Anwendung auf die Vorführung von Effekten mit pyrotechnischen
+Gegenständen und deren Sätzen in Theatern und vergleichbaren
+Einrichtungen. Die zuständige Behörde kann im Einzelfall auf die
+Einhaltung der Frist nach Satz 1 verzichten, wenn dies aus besonderen
+Gründen gerechtfertigt erscheint.
 
 (4) In der Anzeige nach Absatz 3 sind anzugeben:
 
@@ -1685,7 +1322,7 @@ verzichten, wenn dies aus besonderen Gründen gerechtfertigt erscheint.
 
 (5) Jugendliche, die das 14. Lebensjahr vollendet haben, dürfen
 pyrotechnische Gegenstände der Kategorie P1 sowie Raketenmotore für
-die in § 1 Absatz 4 Nummer 2 bezeichneten Modellraketen, die für Lehr-
+die in § 1 Absatz 3 Nummer 2 bezeichneten Modellraketen, die für Lehr-
 und Sportzwecke bestimmt sind, sowie die hierfür bestimmten
 Anzündmittel nur unter Aufsicht des Sorgeberechtigten bearbeiten und
 verwenden. In einer sportlichen oder technischen Vereinigung ist dies
@@ -1709,25 +1346,29 @@ Dritter erforderlich ist.
 (7) Wer in eigener Person außerhalb der Räume seiner Niederlassung
 oder ohne eine solche zu haben, auf Tourneen pyrotechnische Effekte in
 Anwesenheit von Besuchern verwenden will, hat dies der zuständigen
-Behörde zwei Wochen vorher schriftlich anzuzeigen. Absatz 4 Nummer 1,
-2 und 4 sowie Absatz 3 Satz 3 gelten entsprechend.
+Behörde zwei Wochen vorher schriftlich oder elektronisch anzuzeigen.
+Absatz 4 Nummer 1, 2 und 4 sowie Absatz 3 Satz 3 gelten entsprechend.
+
+(8) Die verantwortlichen Personen haben bei der Verwendung
+pyrotechnischer Gegenstände der Kategorien F4 und T2 die
+Schutzabstände entsprechend der Anlage 6 zu ermitteln und einzuhalten.
 
 
 ### § 24
 
 (1) Die zuständige Behörde kann allgemein oder im Einzelfall von den
-Verboten des § 20 Abs. 1 und 2, des § 22 Absatz 1 und des § 23 Absatz
-1 und 2 aus begründetem Anlaß Ausnahmen zulassen. Eine allgemeine
+Verboten des § 20 Absatz 1, des § 22 Absatz 1 und des § 23 Absatz 1
+und 2 aus begründetem Anlaß Ausnahmen zulassen. Eine allgemeine
 Ausnahmegenehmigung ist öffentlich bekanntzugeben.
 
 (2) Die zuständige Behörde kann allgemein oder im Einzelfall anordnen,
 daß pyrotechnische Gegenstände
 
-1.  der Kategorie 2 in der Nähe von Gebäuden oder Anlagen, die besonders
+1.  der Kategorie F2 in der Nähe von Gebäuden oder Anlagen, die besonders
     brandempfindlich sind, und
 
 
-2.  der Kategorie 2 mit ausschließlicher Knallwirkung in bestimmten
+2.  der Kategorie F2 mit ausschließlicher Knallwirkung in bestimmten
     dichtbesiedelten Gemeinden oder Teilen von Gemeinden zu bestimmten
     Zeiten
 
@@ -1744,72 +1385,50 @@ Eine allgemeine Anordnung ist öffentlich bekanntzugeben.
 ### § 25
 
 (1) Explosivstoffe, pyrotechnische Gegenstände und sonstige
-explosionsgefährliche Stoffe nach § 1 Abs. 3 Nr. 1 des Gesetzes, zu
-deren Erwerb es der Erlaubnis bedarf, dürfen einem anderen nur gegen
-Vorlage des Erlaubnisbescheides oder einer von der Erlaubnisbehörde
-erteilten weiteren Ausfertigung des Erlaubnisbescheides überlassen
-werden. Beim Überlassen dieser Stoffe - ausgenommen pyrotechnischer
-Gegenstände - an Inhaber einer Erlaubnis nach § 27 Abs. 1 des Gesetzes
-sind Art und Menge der Stoffe, der Tag des Überlassens sowie der Name
-und die Anschrift des Überlassers dauerhaft in der Erlaubnisurkunde
-des Erwerbers einzutragen.
+explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 des
+Sprengstoffgesetzes, deren Erwerb der Erlaubnis bedarf, dürfen einer
+anderen Person nur gegen Vorlage der Erlaubnis oder einer von der
+Erlaubnisbehörde erteilten weiteren Ausfertigung der Erlaubnis
+überlassen werden. Beim Überlassen von Explosivstoffen oder sonstigen
+explosionsgefährlichen Stoffen nach § 1 Absatz 4 Nummer 1 des
+Sprengstoffgesetzes an Inhaber einer Erlaubnis nach § 27 Absatz 1 des
+Sprengstoffgesetzes sind die folgenden Angaben in die Erlaubnis des
+Erwerbers einzutragen:
+
+1.  die Art und die Menge der Stoffe,
+
+
+2.  der Tag des Überlassens sowie
+
+
+3.  der Name und die Anschrift des Überlassers.
+
+
+
 
 (2) Die Grenzüberwachungsbehörden haben der für den Empfänger
 zuständigen Behörde jede Einfuhr von Explosivstoffen sowie die
-gewerbliche Einfuhr von pyrotechnischen Gegenständen, ausgenommen die
-in § 4 Abs. 1 Nr. 2 und 3 bezeichneten Stoffe und Gegenstände, unter
-Angabe der Bezeichnung, Art und Menge sowie unter Angabe des Absenders
-und des Empfängers unverzüglich schriftlich mitzuteilen.
+gewerbliche Einfuhr von pyrotechnischen Gegenständen unter Angabe der
+Bezeichnung, der Art und der Menge sowie unter Angabe des Namens des
+Absenders und des Empfängers unverzüglich schriftlich mitzuteilen.
+
+(3) Explosivstoffe, pyrotechnische Gegenstände und sonstige
+explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 des
+Sprengstoffgesetzes, die nicht nach den §§ 14 bis 18 dieser
+Rechtsverordnung gekennzeichnet sind, dürfen den in § 1a Absatz 1 bis
+5 des Sprengstoffgesetzes genannten Stellen auch überlassen werden,
+wenn die Notwendigkeit des Überlassens durch eine Bescheinigung der
+empfangenden Stelle nachgewiesen ist. Die in Satz 1 genannten Stellen
+haben durch geeignete Maßnahmen zu gewährleisten, dass die
+Explosivstoffe, pyrotechnischen Gegenstände und sonstigen
+explosionsgefährlichen Stoffe nach § 1 Absatz 4 Nummer 1 des
+Sprengstoffgesetzes nur an zum Umgang Berechtigte gelangen und der
+Verbleib der Explosivstoffe, pyrotechnischen Gegenstände und sonstigen
+explosionsgefährlichen Stoffe nach § 1 Absatz 4 Nummer 1 des
+Sprengstoffgesetzes auf Aufforderung nachgewiesen werden kann.
 
 
-### § 25a
-
-(1) Die Genehmigung des Verbringens von Explosivstoffen nach § 15 Abs.
-6 Satz 1 des Gesetzes ist vom Empfänger der Explosivstoffe oder seinem
-Bevollmächtigten schriftlich bei der nach § 15 Abs. 7 des Gesetzes
-zuständigen Stelle zu beantragen.
-
-(2) Der Antrag nach Absatz 1 hat die in Anlage 6 Nr. 1 aufgeführten
-Angaben zu enthalten. Anträge auf Genehmigung des
-grenzüberschreitenden Verbringens zwischen Mitgliedstaaten soll der
-Antragsteller unter Verwendung des Musters gemäß Entscheidung
-2004/388/EG der Kommission vom 15. April 2004 über ein Begleitformular
-für die innergemeinschaftliche Verbringung von Explosivstoffen (ABl.
-EU Nr. L 120 S. 43) \*) stellen.
-
-(3) Die zuständige Stelle prüft, ob
-
-1.  die an dem jeweiligen Verbringungsvorgang beteiligten und im
-    Geltungsbereich des Gesetzes ansässigen Personen gemäß § 15 Abs. 1 des
-    Gesetzes zum Verbringen berechtigt sind und
-
-
-2.  für den zu verbringenden Explosivstoff eine EG-
-    Baumusterprüfbescheinigung nach § 5 Abs. 1 Satz 2 des Gesetzes
-    vorliegt.
-
-
-
-Bei Vorliegen der Voraussetzungen nach Satz 1 erteilt sie die
-Genehmigung zum Verbringen und informiert alle zuständigen Behörden
-über die erteilte Genehmigung.
-
-(4) Die Genehmigung nach Absatz 3 Satz 2 wird schriftlich erteilt und
-enthält die in Anlage 6 Nr. 2 aufgeführten Angaben. Die Genehmigung
-kann mit Auflagen, Bedingungen und Befristungen verbunden werden,
-soweit für das Verbringen besondere Anforderungen an die Sicherheit
-der rechtmäßigen Verwendung der Explosivstoffe gelten. Die nach § 15
-Abs. 7 des Gesetzes zuständige Stelle hat die Genehmigung zum
-Verbringen aus anderen Mitgliedstaaten mit Formular gemäß Entscheidung
-der Europäischen Kommission vom 15. April 2004 über ein
-Begleitformular für das innergemeinschaftliche Verbringen von
-Explosivstoffen (ABl. EU Nr. L 120 S. 43) zu erteilen. Sie hat ein
-Exemplar für die Dauer von zehn Jahren, gerechnet ab dem Zeitpunkt der
-Beendigung des letzten Verbringensvorgangs, zu verwahren.
-
-\*) Im Internet unter www.bam.de/sprengstoffgesetz.
-
-
+### § 25a (weggefallen)
 
 
 
@@ -2502,13 +2121,14 @@ Sinne des § 9 Absatz 1 des Gesetzes werden solche im Ausland
 erworbenen Befähigungs- und Ausbildungsnachweise anerkannt, die mit
 dem entsprechenden inländischen Befähigungs- und Ausbildungsnachweis
 gleichwertig sind. § 9 des Berufsqualifikationsfeststellungsgesetzes
-gilt entsprechend. Solchen Nachweisen gleichgestellt sind Nachweise,
-die in einem Drittland ausgestellt wurden, sofern diese Nachweise in
-einem der in Satz 1 genannten Staaten anerkannt worden sind und dieser
-Staat dem Inhaber oder der Inhaberin der Nachweise bescheinigt, in
-seinem Hoheitsgebiet mindestens drei Jahre Berufserfahrung im Umgang
-oder im Verkehr mit den dem Gesetz unterliegenden Stoffen oder
-Gegenständen erworben zu haben.
+gilt entsprechend. Satz 1 gilt auch für Nachweise, die in einem
+Drittstaat ausgestellt wurden, sofern diese Nachweise in einem
+Mitgliedstaat der Europäischen Union, einem Mitgliedstaat des
+Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+anerkannt worden sind und dieser Staat der Inhaberin oder dem Inhaber
+der Nachweise bescheinigt, in seinem Hoheitsgebiet mindestens drei
+Jahre Berufserfahrung im Umgang oder im Verkehr mit
+explosionsgefährlichen Stoffen oder Sprengzubehör erworben zu haben.
 
 (2) Unterscheiden sich die diesen Nachweisen zugrunde liegenden
 Fachgebiete wesentlich von den Anforderungen nach § 9 des Gesetzes in
@@ -2610,13 +2230,7 @@ den von ihr beauftragten Personen auf Verlangen vorzulegen.
 
 (5) Das Verzeichnis mit den Belegen ist am Aufbewahrungsort der
 explosionsgefährlichen Stoffe oder der Zündmittel selbst oder in
-dessen Nähe leicht erreichbar und sicher aufzubewahren. Der zur
-Führung des Verzeichnisses Verpflichtete hat das Verzeichnis mit den
-Belegen bis zum Ablauf von zehn Jahren, von dem Tag der darin
-vorgenommenen letzten Eintragung an gerechnet, aufzubewahren. Gibt der
-zur Führung des Verzeichnisses Verpflichtete das Gewerbe auf, so hat
-er das von ihm geführte Verzeichnis mit den Belegen seinem Nachfolger
-zu übergeben oder der zuständigen Behörde auszuhändigen.
+dessen Nähe leicht erreichbar und sicher aufzubewahren.
 
 (5a) Der Erlaubnisinhaber hat durch organisatorische Maßnahmen
 sicherzustellen, dass den zuständigen Behörden jederzeit auf
@@ -2778,8 +2392,8 @@ Mitgliedern zusammen:
 
 1.  je einem Vertreter des Bundesministeriums des Innern, des
     Bundesministeriums der Verteidigung, des Bundesministeriums für Arbeit
-    und Soziales und des Bundesministeriums für Wirtschaft und Technologie
-    und des Bundesministeriums für Verkehr, Bau und Stadtentwicklung,
+    und Soziales, des Bundesministeriums für Wirtschaft und Energie und
+    des Bundesministeriums für Verkehr und digitale Infrastruktur,
 
 
 2.  sechs Vertretern der Landesregierungen aus den fachlich beteiligten
@@ -2834,9 +2448,8 @@ Ausschusses und deren Stellvertreter, dabei erfolgt die Berufung
 
 
 2.  des Vertreters der Bundesanstalt auf Vorschlag des Bundesministeriums
-    für Wirtschaft und Technologie und des Vertreters der zuständigen
-    Stelle der Bundeswehr auf Vorschlag des Bundesministeriums für
-    Verteidigung,
+    für Wirtschaft und Energie und des Vertreters der zuständigen Stelle
+    der Bundeswehr auf Vorschlag des Bundesministeriums für Verteidigung,
 
 
 3.  der Mitglieder nach Absatz 3 Nr. 4, 5 und 6 nach Anhörung der
@@ -2859,51 +2472,31 @@ aus.
 
 ### § 46
 
-Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Gesetzes handelt,
-wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 41 Abs. 1 Nr. 16 des Sprengstoffgesetzes
+handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 5 Abs. 5 Satz 3 beim Überlassen explosionsgefährlicher
-    Stoffe die vorgeschriebenen Angaben in der Bescheinigung nicht
-    dauerhaft einträgt oder die Bescheinigung nicht aufbewahrt,
-
-
-1a. entgegen § 6 Absatz 4 Satz 1 eine Anzeige nicht, nicht richtig oder
-    nicht rechtzeitig erstattet,
+1.  entgegen § 14 Absatz 1, 5 oder 6, § 18 Absatz 1 oder § 18b einen
+    pyrotechnischen Gegenstand, einen explosionsgefährlichen Stoff,
+    Treibladungspulver oder Schwarzpulver einem anderen überlässt,
 
 
-2.  einer vollziehbaren Nebenbestimmung oder inhaltlichen Beschränkung der
-    Zulassung im Sinne des § 12 Abs. 3 Satz 1 zuwiderhandelt,
+2.  entgegen § 18c Satz 1 ein Sprengzubehör verwendet,
 
 
-2a. einer vollziehbaren Auflage der EG-Baumusterprüfbescheinigung im Sinne
-    des § 12a Abs. 2 zuwiderhandelt,
+3.  entgegen § 20 Absatz 4 Satz 1 einen pyrotechnischen Gegenstand
+    überlässt,
 
 
-3.  entgegen § 14 Abs. 1, 2, 3 oder 4 explosionsgefährliche Stoffe oder
-    Gegenstände ohne vorschriftsmäßige Kennzeichnung, auch ihrer
-    Verpackung, einem anderen überläßt,
+3a. (weggefallen)
 
 
-3a. entgegen § 14 Abs. 1 Satz 1 einen dort genannten Stoff ohne Anleitung
-    einem anderen überlässt,
+4.  (weggefallen)
 
 
-4.  entgegen § 16 explosionsgefährliche Stoffe ohne vorschriftsmäßige
-    Verpackung einem anderen überläßt,
+5.  (weggefallen)
 
 
-5.  entgegen § 17 explosionsgefährliche Stoffe oder Sprengzubehör einem
-    anderen überläßt, ohne sich von der vorschriftsmäßigen Kennzeichnung
-    oder Verpackung der explosionsgefährlichen Stoffe oder von der
-    vorschriftsmäßigen Kennzeichnung des Sprengzubehörs überzeugt zu
-    haben,
-
-
-6.  sich entgegen § 20 Abs. 3 Satz 1 nicht davon überzeugt, daß bei den
-    Ausgangsstoffen oder Sätzen der pyrotechnischen Gegenstände die in §
-    20 Abs. 1 Nr. 1 und 2 bezeichneten Voraussetzungen vorliegen, oder der
-    Pflicht zur Aufbewahrung der Prüfungsnachweise nach § 20 Abs. 3 Satz 2
-    zuwiderhandelt,
+6.  (weggefallen)
 
 
 6a. (weggefallen)
@@ -2966,26 +2559,10 @@ wer vorsätzlich oder fahrlässig
 
 ### § 47
 
-Die Zuständigkeiten für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten
-
-1.  nach § 41 Abs. 1 Nr. 1 bis 1b des Gesetzes,
-
-
-2.  nach § 41 Abs. 1 Nr. 2 des Gesetzes,
-
-
-3.  nach § 41 Abs. 1 Nr. 3 des Gesetzes, soweit danach ordnungswidrig
-    handelt, wer einer vollziehbaren Auflage nach § 5 Absatz 4 Satz 2 oder
-    3 des Gesetzes nicht, nicht vollständig oder nicht rechtzeitig
-    nachkommt,
-
-
-4.  (weggefallen)
-
-
-
-wird der Bundesanstalt übertragen.
+Die Zuständigkeit für die Verfolgung und Ahndung von
+Ordnungswidrigkeiten nach § 41 Absatz 1 Nummer 1 bis 1b, 2, 2a und 3
+Buchstabe a des Sprengstoffgesetzes wird auf die Bundesanstalt für
+Materialforschung und -prüfung übertragen.
 
 
 ## Abschnitt XIII - Übergangs- und Schlußvorschriften
@@ -3004,41 +2581,58 @@ Zuverlässigkeit nicht mehr besitzen.
 
 ### § 49
 
-Die Bestimmungen des § 14 Absatz 1 Satz 2 Nummer 5 und des § 15 sind
-ab dem 5. April 2013 und die Bestimmungen des § 41 Absatz 5a sowie des
-§ 42 Absatz 1 Nummer 5 sind ab dem 5. April 2015 anzuwenden.
-Explosivstoffe, die bis zum 4. April 2013 ohne die nach § 14 Absatz 1
-Satz 2 Nummer 5 und des § 15 vorgeschriebene Kennzeichnung in den
-Verkehr gebracht wurden, dürfen noch bis zum 5. April 2015 im
-Geltungsbereich des Gesetzes verbracht, vertrieben, anderen überlassen
-und verwendet werden.
+(1) § 17 Absatz 1 bis 3 ist ab dem 5. April 2013 anzuwenden; § 41
+Absatz 5a und § 42 Absatz 1 Nummer 5 sind ab dem 5. April 2015
+anzuwenden.
+
+(2) Explosivstoffe, die bis zum 4. April 2013 ohne die nach § 17
+Absatz 1 bis 3 vorgeschriebene Kennzeichnung in den Verkehr gebracht
+wurden, dürfen nach dem 5. April 2015 vom Besitzer ausschließlich
+
+1.  aufbewahrt, verwendet, zur eigenen Verwendung verbracht, vernichtet
+    oder zur Vernichtung verbracht werden oder
+
+
+2.  den in § 1a Absatz 1 Nummer 2 bis 5 sowie Absatz 2 Nummer 5 des
+    Sprengstoffgesetzes bezeichneten Stellen zur dienstlichen Nutzung
+    überlassen werden.
+
+
+
+
+(3) Eine von der Bundesanstalt für Materialforschung und -prüfung
+vergebene Identifikationsnummer darf weiterhin in die
+Gebrauchsanleitung aufgenommen werden.
 
 
 ### § 50
 
 (Inkrafttreten, Außerkrafttreten)
 
+(zu § 6 Absatz 1)
 
-### Anlage 1 Anforderungen an die Zusammensetzung und Beschaffenheit von sonstigen explosionsgefährlichen Stoffen im Sinne des § 1 Absatz 3 Nummer 1 und 2 des Gesetzes und von Sprengzubehör im Sinne des § 6 Absatz 1
+### Anlage 1 Anforderungen an die Zusammensetzung und die Beschaffenheit von sonstigen explosionsgefährlichen Stoffen und von Sprengzubehör
 
-(Fundstelle: BGBl. I 2009, 2079 - 2084)
+(Fundstelle: BGBl. I 2009, 2079 - 2084;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-**1.** **Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 3 Nummer 1 und
-    2 des Gesetzes**
+
+**1.** **Sonstige explosionsgefährliche Stoffe nach § 1 Absatz 4 Nummer 1 und
+    2 des Sprengstoffgesetzes**
 
     1 – Mischungen müssen homogen sein. Flüssige Bestandteile dürfen nur
     verwendet werden, wenn sie den Festkörper gleichmäßig benetzen.
 
     2 – Die Stoffe müssen thermisch stabil sein. Dies gilt als
-    nachgewiesen, wenn bei einer siebentägigen Lagerung bei 50*
-    C unter Wärmestau, dessen Grad der Beanspruchung des Stoffes beim
-    Umgang und bei der Beförderung entspricht, in der gelagerten Probe
-    keine Erwärmung um mehr als 60*                    über die
-    Lagertemperatur hinaus eintritt. Werden die Stoffe beim Umgang oder
-    bei der Beförderung höheren Temperaturen ausgesetzt oder dauert die
-    Temperatureinwirkung länger als sieben Tage an, so sind die
-    Prüfungsbedingungen bezüglich der Lagertemperatur oder
-    -dauer                    entsprechend zu wählen.
+    nachgewiesen, wenn bei einer siebentägigen Lagerung bei 50*C unter
+    Wärmestau, dessen Grad der Beanspruchung des Stoffes beim Umgang und
+    bei der Beförderung entspricht, in der gelagerten Probe keine
+    Erwärmung um mehr als 60* über die Lagertemperatur hinaus eintritt.
+    Werden die Stoffe beim Umgang oder bei der Beförderung höheren
+    Temperaturen ausgesetzt oder dauert die Temperatureinwirkung länger
+    als sieben Tage an, so sind die Prüfungsbedingungen bezüglich der
+    Lagertemperatur oder
+    -dauer entsprechend zu wählen.
 
     3 – Erfüllt der Stoff die Anforderungen nach Absatz 2 nicht, so muss
     beim Umgang und bei der Beförderung eine Temperatur eingehalten
@@ -3130,10 +2724,9 @@ und verwendet werden.
     Muttern haben. Die Anschlussklemmen dürfen keinen hohlen Querschnitt
     haben und müssen aus Messing mit einer Zugfestigkeit von mindestens
     400 N/mm
-    2                    bestehen. Der Durchmesser der Halteschraube muss
-    mindestens 4 mm und der der Anschlussschraube mindestens 6 mm
-    betragen. Sie müssen gegen zufällige Berührung unter Spannung
-    stehender Teile gesichert sein.
+    2 bestehen. Der Durchmesser der Halteschraube muss mindestens 4 mm und
+    der der Anschlussschraube mindestens 6 mm betragen. Sie müssen gegen
+    zufällige Berührung unter Spannung stehender Teile gesichert sein.
 
     18 – Zwischen den Anschlussklemmen muss ein Steg aus Isolierstoff
     angebracht sein, der die Klemmfläche um mindestens 8 mm überragt.
@@ -3544,8 +3137,7 @@ und verwendet werden.
 2.8.2 Besondere Anforderungen an Ohmmeter
 
     60 – Die Messgenauigkeit muss bei senkrechter und waagerechter
-    Gebrauchslage mindestens*                    1,5 % der Skalenlänge
-    betragen.
+    Gebrauchslage mindestens* 1,5 % der Skalenlänge betragen.
 
     61 – Das Messwerk muss eine Nullpunktregulierung haben.
 
@@ -3585,8 +3177,7 @@ und verwendet werden.
 2.9.2 Besondere Anforderungen an Zeigerinstrumente
 
     70 – Die Messgenauigkeit muss bei senkrechter und waagerechter
-    Gebrauchslage mindestens*                    1,5 % der Skalenlänge
-    betragen.
+    Gebrauchslage mindestens* 1,5 % der Skalenlänge betragen.
 
     71 – Das Messwerk muss eine Nullpunktregulierung haben.
 
@@ -3673,749 +3264,190 @@ und verwendet werden.
 
 
 
+(zu § 6 Absatz 3 und § 17 Absatz 5)
 
-### Anlage 2 Anforderungen an die Zusammensetzung und Beschaffenheit von Explosivstoffen nach § 6 Absatz 3
+### Anlage 2 Anforderungen an die Zusammensetzung und Beschaffenheit von elektrischen Brückenzündern der Typen A, U und HU, an die Kategorisierung pyrotechnischer Sätze sowie an die Klassifizierung von Wettersprengstoffen und Wettersprengschnüren
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 1562 - 1565;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2017, 1625 — 1626)
 
 
-I.  Für alle Explosivstoffe gelten die nachfolgenden aufgeführten
-    allgemeinen Anforderungen:
+**1** **Elektrische Brückenzünder**
 
-    1.  Jeder Explosivstoff muß so beschaffen sein, hergestellt und geliefert
-        werden, daß unter normalen und vorhersehbaren Bedingungen,
-        insbesondere bezüglich der Vorschriften für die Betriebssicherheit und
-        des Stands der Technik, einschließlich des Zeitraums bis zu seiner
-        Verwendung das Risiko für das Leben und die Gesundheit von Personen,
-        die Unversehrtheit von Sachgütern und die Umwelt so klein wie möglich
-        ist.
 
+1.1 Allgemeines
 
-    2.  Jeder Explosivstoff muß die Leistungsfähigkeit erreichen, die vom
-        Hersteller angegeben wird, um das höchstmögliche Maß an Sicherheit und
-        Zuverlässigkeit zu gewährleisten.
+    Bei Zünderdrähten aus Stahl muss der Durchmesser mindestens 0,6 mm,
+    bei Zünderdrähten aus Kupfer mindestens 0,5 mm betragen.
 
 
-    3.  Jeder Explosivstoff muß so beschaffen sein und hergestellt werden, daß
-        er bei Einsatz geeigneter technischer Verfahren möglichst
-        umweltverträglich entsorgt werden kann.
+1.2 Brückenzünder Typ A
 
+    (1) Der elektrische Gesamtwiderstand eines Zünders mit einer
+    Zünderdrahtlänge bis zu 3,5 m darf nicht mehr als 4,5 Ohm betragen.
 
+    (2) Die Brückenwiderstände müssen zwischen 0,8 Ohm und 2,0 Ohm liegen.
+    Sie müssen innerhalb dieses Bereiches in Widerstandsgruppen mit einer
+    Toleranz von 0,25 Ohm geordnet sein.
 
+    (3) Der zur Zündung erforderliche Zündimpuls muss zwischen 0,8 mWs/Ohm
+    und 3,0 mWs/Ohm liegen.
 
+    (4) Die Zünder müssen durch einen Gleichstrom der Stärke 0,6 A
+    innerhalb von 10 ms ausgelöst werden.
 
-II. Für alle Explosivstoffe gelten weiterhin die nachfolgenden
-    aufgeführten besonderen Anforderungen:
+    (5) Die Zünder dürfen durch einen Gleichstrom der Stärke 0,18 A
+    innerhalb von 5 min nicht ausgelöst werden.
 
-    1.  Die nachstehenden Informationen und Eigenschaften müssen - falls
-        relevant - mindestens berücksichtigt werden. Jeder Explosivstoff muß
-        unter realistischen Bedingungen getestet werden. Kann dies nicht in
-        einem Laboratorium erfolgen, sind die Tests unter tatsächlichen
-        Verwendungsbedingungen durchzuführen:
+    (6) Fünf Zünder der gleichen Ausführung müssen sich, wenn sie
+    hintereinandergeschaltet werden, mit einem Gleichstrom der Stärke 0,8
+    A zusammen zünden lassen.
 
-        a)  Aufbau und die charakteristischen Eigenschaften, einschließlich der
-            chemischen Zusammensetzung, der Homogenität sowie gegebenenfalls der
-            Abmessungen und der Korngrößenverteilung;
 
+1.3 Brückenzünder Typ U
 
-        b)  physikalische und chemische Stabilität des Explosivstoffs bei
-            sämtlichen Umweltbedingungen, denen der Explosivstoff ausgesetzt sein
-            kann;
+    (1) Der elektrische Gesamtwiderstand eines Zünders mit einer
+    Zünderdrahtlänge bis zu 3,5 m darf nicht mehr als 3,5 Ohm betragen.
 
+    (2) Die Brückenwiderstände müssen zwischen 0,4 Ohm und 0,8 Ohm liegen.
 
-        c)  Empfindlichkeit gegenüber Schlag und Reibung;
+    (3) Der zur Zündung erforderliche Zündimpuls muss zwischen 8,0 mWs/Ohm
+    und 16,0 mWs/Ohm liegen.
 
+    (4) Die Zünder müssen durch einen Gleichstrom der Stärke 1,3 A
+    innerhalb von 10 ms ausgelöst werden.
 
-        d)  Verträglichkeit aller Bestandteile im Hinblick auf ihre chemische und
-            physikalische Stabilität;
+    (5) Die Zünder dürfen durch einen Gleichstrom der Stärke 0,45 A
+    innerhalb von 5 min nicht ausgelöst werden.
 
+    (6) Fünf Zünder der gleichen Ausführung müssen sich, wenn sie
+    hintereinandergeschaltet werden, mit einem Gleichstrom der Stärke 1,5
+    A zusammen zünden lassen.
 
-        e)  chemische Reinheit der Explosivstoffe;
+    (7) Die Zünder dürfen unter Zugrundelegung einer Zünderdrahtlänge von
+    3,5 m und einer elektrischen Kapazität von 2000 pF durch
+    elektrostatische Spannungen von 10 kV über die Glühbrücke nicht
+    ausgelöst werden. Bei Zündern mit Zünderdrähten aus Kupfer verringert
+    sich dieser Wert auf 7 kV. Darüber hinaus müssen die Zünder gegen
+    Auslösung durch Überschläge im Innern der Hülse gesichert sein.
 
 
-        f)  Wasserbeständigkeit, wenn die Explosivstoffe dazu bestimmt sind, in
-            feuchter oder nasser Umgebung verwendet zu werden, und wenn die
-            Betriebssicherheit des Explosivstoffs durch Wasser beeinträchtigt
-            werden kann;
+1.4 Brückenzünder Typ HU
 
+    (1) Die Zünder dürfen bei einer Energiezufuhr bis zu 600 mWs nicht
+    ausgelöst werden.
 
-        g)  Widerstandsfähigkeit gegenüber niedrigen und hohen Temperaturen,
-            sofern eine Aufbewahrung oder ein Einsatz bei solchen Temperaturen
-            vorgesehen ist und die Betriebssicherheit oder Funktionsfähigkeit
-            durch das Abkühlen oder das Erhitzen eines Bestandteils oder des
-            gesamten Explosivstoffs beeinträchtigt werden kann;
+    (2) Der zur Zündung erforderliche Zündimpuls muss zwischen 1 100
+    mWs/Ohm und 2 500 mWs/Ohm liegen.
 
+    (3) Die Zünder dürfen durch einen Gleichstrom der Stärke 4,0 A
+    innerhalb von 5 min nicht ausgelöst werden.
 
-        h)  Eignung des Explosivstoffs für eine Verwendung in Gefahrbereichen
-            (beispielsweise schlagwetterführende Bergwerke, heiße Massen usw.),
-            soweit die Explosivstoffe zum Einsatz unter solchen Bedingungen
-            vorgesehen sind;
+    (4) Fünf Zünder der gleichen Ausführung müssen sich, wenn sie
+    hintereinandergeschaltet werden, mit einem Zündimpuls von weniger als
+    3 000 mWs/Ohm zusammen zünden lassen.
 
-
-        i)  Sicherheit gegen unzeitige oder unbeabsichtigte Zündung oder
-            Anzündung;
-
-
-        j)  richtiges Laden und einwandfreies Funktionieren der Explosivstoffe bei
-            bestimmungsgemäßer Verwendung;
-
-
-        k)  geeignete Anleitungen und - soweit notwendig - Kennzeichnungen in
-            bezug auf sicheren Umgang und sichere Lagerung, Verwendung und
-            Beseitigung in der oder den Amtssprachen des Empfängerstaats;
-
-
-        l)  Widerstandsfähigkeit bezüglich nachteiliger Veränderungen an
-            Explosivstoffen, Umhüllungen oder sonstigen Bestandteilen bei Lagerung
-            bis zum spätesten vom Hersteller angegebenen Verwendungsdatum;
-
-
-        m)  Angabe aller Geräte und allen Zubehörs, die für eine zuverlässige und
-            sichere Funktion der Explosivstoffe notwendig sind.
-
-
-
-
-
-    2.  Über die Anforderungen der Nummer 1 hinaus müssen die verschiedenen
-        Explosivstoffgruppen die folgenden Anforderungen erfüllen:
-
-        A.  Sprengstoffe
-
-            a)  Sprengstoffe müssen durch die vorgesehene Art der Zündung sicher und
-                zuverlässig zündbar sein und sich vollständig umsetzen oder
-                deflagrieren. Besonders bei Schwarzpulver wird die Leistung nach dem
-                Deflagrationsverhalten ermittelt.
-
-
-            b)  Patronierte Sprengstoffe müssen die Detonation sicher und zuverlässig
-                durch die Ladesäule übertragen.
-
-                c)
-
-
-
-
-            Die entstehenden Sprengschwaden von Sprengstoffen, die für eine
-            Verwendung unter Tage bestimmt sind, dürfen Kohlenmonoxid, nitrose
-            Gase, andere Gase oder Dämpfe oder schwebfähige feste Rückstände nur
-            in einer Menge enthalten, die unter den üblichen Betriebsbedingungen
-            keine Gesundheitsschäden verursachen.
-
-
-        B.  Sprengschnüre, Anzündschnüre und andere Zündschnüre
-
-            a)  Die Umhüllung von Sprengschnüren, Anzündschnüren und anderen
-                Zündschnüren muß eine ausreichende mechanische Festigkeit besitzen und
-                den umschlossenen Explosivstoff bei normaler mechanischer
-                Beanspruchung ausreichend schützen.
-
-
-            b)  Die Parameter für die Brennzeiten von Anzündschnüren müssen angegeben
-                und zuverlässig erreicht werden.
-
-
-            c)  Die Sprengschnüre müssen zuverlässig zündbar sowie ausreichend
-                zündfähig sein und den Anforderungen auch nach Lagerung unter
-                besonderen Klimabedingungen genügen.
-
-
-
-
-
-        C.  Zünder, Sprengkapseln und Sprengverzögerer
-
-            a)  Zünder, Sprengkapseln und Sprengverzögerer müssen zuverlässig die
-                Detonation von Sprengstoffen einleiten, die zur Verwendung mit ihnen
-                vorgesehen sind, und dies unter allen vorhersehbaren
-                Verwendungsbedingungen.
-
-
-            b)  Sprengverzögerer müssen zuverlässig zündbar sein.
-
-
-            c)  Das Zündvermögen darf durch Feuchtigkeit nicht beeinträchtigt werden.
-
-
-            d)  Die Verzögerungszeiten von Zeitzündern müssen so gleichmäßig sein, daß
-                die Wahrscheinlichkeit von Überschneidungen der Verzögerungszeiten
-                benachbarter Zeitstufen unbedeutend ist.
-
-
-            e)  die elektrischen Kenndaten von elektrischen Zündern müssen auf der
-                Verpackung angegeben werden (z. B. Nichtansprechstromstärke,
-                Widerstand usw.).
-
-
-            f)  Die Zünderdrähte von elektrischen Zündern müssen eine ausreichende
-                Isolierung und mechanische Festigkeit besitzen, auch bezüglich ihrer
-                Befestigung am Zünder.
-
-
-
-
-
-        D.  Treibladungspulver und Raketenfesttreibstoffe
-
-            a)  Diese Stoffe dürfen bei der vorgesehenen Verwendung nicht detonieren.
-
-
-            b)  Stoffe dieser Art (z.B. auf der Basis von Nitrocellulose) müssen
-                erforderlichenfalls gegen Selbstzersetzung stabilisiert sein.
-
-
-            c)  Raketenfesttreibstoffe dürfen in gepreßter oder gegossener Form keine
-                unbeabsichtigten Risse oder Gasblasen enthalten, die ihr Funktionieren
-                gefährlich beeinträchtigen könnten.
-
-
-
-
-
-        E.  (weggefallen)
-
-
-
-
-
-
-
-
-III. Die Anforderungen nach den Nummern I und II gelten für Sprengkapseln,
-    elektrische Zünder und Anzündschnüre nur bei Vorliegen folgender
-    Voraussetzungen als erfüllt:
-
-    1.  Sprengkapseln
-
-        a)  Der Außendurchmesser von Sprengkapseln muß zwischen 6,8 mm und 6,9 mm
-            liegen.
-
-
-        b)  Vor der Ladung muß ein mindestens 15 mm langer Leerraum in der
-            Sprengkapsel vorhanden sein.
-
-
-
-
-
-    2.  Elektrische Zünder
-
-        a)  Allgemeines
-
-            Bei Zünderdrähten aus Stahl muß der Durchmesser mindestens 0,6 mm, bei
-            Zünderdrähten aus Kupfer mindestens 0,5 mm betragen.
-
-
-        b)  Brückenzünder der Klassen I, II, III und IV
-
-            aa) Die Zünder dürfen durch einen Gleichstrom gemäß Tabelle A.1
-                (Nichtansprechstromstärke) nicht ausgelöst werden.
-
-
-            bb) Die Zünder dürfen durch den Nichtansprechzündimpuls nach Tabelle A.1
-                nicht ausgelöst werden. Der Ansprechzündimpuls ist zu bestimmen.
-
-
-            cc) Der Serienzündstrom muss mit den Angaben des Herstellers
-                übereinstimmen. Fünf Zünder der gleichen Ausführung müssen sich,
-                hintereinander geschaltet, mit dem Serienzündstrom versagerfrei
-                zusammen zünden lassen.
-
-
-            dd) Die Zünder dürfen unter Zugrundelegung einer Zünderdrahtlänge von 3,5
-                m durch elektrostatische Entladungen (ESD) mit einem Impuls nach
-                Tabelle A.1 nicht ausgelöst werden. Darüber hinaus müssen die Zünder
-                gegen Auslösung durch Überschläge im Innern der Hülse gesichert sein.
-                Die Funktionsfähigkeit der Sollüberschlagsstelle ist mit einem ESD-
-                Impuls nach Tabelle A.1 zu prüfen. Die Überschlagsspannung muss
-                zwischen 1,5 kV und 6 kV (Gleichspannung) liegen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Tabelle A.1
-
-*    *   Zünder-Klasse
-
-    *
-    *   I
-
-    *   II
-
-    *   III
-
-    *   IV
-
-
-*    *   Nichtansprechstromstärke I in A
-
-    *
-    *   0,18
-        <=I<
-        0,45
-
-    *   0,45
-        <=I<
-        1,2
-
-    *   1,2
-        <=I<
-        4,0
-
-    *   >=
-        4,0
-
-
-*    *   Nichtansprechzündimpuls in mJ/omega
-
-    *   min.
-
-    *   0,5
-
-    *   8
-
-    *   80
-
-    *   500
-
-
-*    *   ESD-Impuls 'Draht gegen Draht'
-
-    *   min.
-
-    *   0,3
-
-    *   6
-
-    *   60
-
-    *   300
-
-
-*    *   ESD-Impuls 'Draht gegen Hülse'
-
-    *   min.
-
-    *   0,6
-
-    *   12
-
-    *   120
-
-    *   600
-
-
-*    *
-
-*    *   Hinsichtlich ihrer elektrischen Parameter gehören Zünder
-        A in die Zünder-Klasse I,
-        U in die Zünder-Klasse II und
-        HU in die Zünder-Klasse IV.
-
-
-
-
-*
-    *
-        c)  Brückenzünder A
-
-            aa) Der elektrische Gesamtwiderstand eines Zünders mit einer
-                Zünderdrahtlänge bis zu 3,5 m darf nicht mehr als 4,5 Ohm betragen.
-
-
-            bb) Die Brückenwiderstände müssen zwischen 0,8 Ohm und 2,0 Ohm liegen. Sie
-                müssen innerhalb dieses Bereiches in Widerstandsgruppen mit einer
-                Toleranz von 0,25 Ohm geordnet sein.
-
-
-            cc) Der zur Zündung erforderliche Zündimpuls muß zwischen 0,8 mWs/Ohm und
-                3,0 mWs/Ohm liegen.
-
-
-            dd) Die Zünder müssen durch einen Gleichstrom der Stärke 0,6 A innerhalb
-                von 10 ms ausgelöst werden.
-
-
-            ee) Die Zünder dürfen durch einen Gleichstrom der Stärke 0,18 A innerhalb
-                von 5 min nicht ausgelöst werden.
-
-
-            ff) Fünf Zünder der gleichen Ausführung müssen sich,
-                hintereinandergeschaltet, mit einem Gleichstrom der Stärke 0,8 A
-                versagerfrei zusammen zünden lassen.
-
-
-
-
-
-        d)  Brückenzünder U
-
-            aa) Der elektrische Gesamtwiderstand eines Zünders mit einer
-                Zünderdrahtlänge bis zu 3,5 m darf nicht mehr als 3,5 Ohm betragen.
-
-
-            bb) Die Brückenwiderstände müssen zwischen 0,4 Ohm und 0,8 Ohm liegen.
-
-
-            cc) Der zur Zündung erforderliche Zündimpuls muß zwischen 8,0 mWs/Ohm und
-                16,0 mWs/Ohm liegen.
-
-
-            dd) Die Zünder müssen durch einen Gleichstrom der Stärke 1,3 A innerhalb
-                von 10 ms ausgelöst werden.
-
-
-            ee) Die Zünder dürfen durch einen Gleichstrom der Stärke 0,45 A innerhalb
-                von 5 min nicht ausgelöst werden.
-
-
-            ff) Fünf Zünder der gleichen Ausführung müssen sich,
-                hintereinandergeschaltet, mit einem Gleichstrom der Stärke 1,5 A
-                versagerfrei zusammen zünden lassen.
-
-
-            gg) Die Zünder dürfen unter Zugrundelegung einer Zünderdrahtlänge von 3,5
-                m und einer elektrischen Kapazität von 2 000 pF durch elektrostatische
-                Spannungen von 10 kV über die Glühbrücke nicht ausgelöst werden. Bei
-                Zündern mit Zünderdrähten aus Kupfer ermäßigt sich dieser Wert auf 7
-                kV. Darüber hinaus müssen die Zünder gegen Auslösung durch Überschläge
-                im Innern der Hülse gesichert sein.
-
-
-
-
-
-        e)  Brückenzünder HU
-
-            aa) Die Zünder dürfen bei einer Energiezufuhr bis zu 600 mWs nicht
-                ausgelöst werden.
-
-
-            bb) Der zur Zündung erforderliche Zündimpuls muß zwischen 1 100 mWs/Ohm
-                und 2 500 mWs/Ohm liegen.
-
-
-            cc) Die Zünder dürfen durch einen Gleichstrom der Stärke 4,0 A innerhalb
-                von 5 min nicht ausgelöst werden.
-
-
-            dd) Fünf Zünder der gleichen Ausführung müssen sich,
-                hintereinandergeschaltet, mit einem Zündimpuls von weniger als 3 000
-                mWs/Ohm versagerfrei zusammen zünden lassen.
-
-
-            ee) Die Zünder dürfen unter Zugrundelegung einer elektrischen Kapazität
-                von 2 500 pF durch elektrostatische Spannungen von 30 kV über die
-                Glühbrücke nicht ausgelöst werden. Darüber hinaus müssen die Zünder
-                gegen Auslösung durch Überschläge im Inneren der Hülse gesichert sein.
-
-
-
-
-
-
-
-
-    3.  Anzündschnüre
-
-        a)  Anzündschnüre dürfen beim Abbrennen nicht seitlich aussprühen und
-            außen nicht zum Glühen kommen.
-
-
-        b)  Die im angelieferten Zustand, nach 14tägiger und nach vierwöchiger
-            Trockenlagerung bei Raumtemperatur ermittelte durchschnittliche
-            Brennzeit darf nicht weniger als 115 s und nicht mehr als 125 s für 1
-            m betragen. Die Brennzeit der einzelnen Anzündschnurstücke darf von
-            der durchschnittlichen Brennzeit um nicht mehr als
-            +- 10 s für 1 m abweichen.
-
-
-        c)  Die Brennzeit darf durch Feuchtigkeit und Wärme um nicht mehr als
-            +- 10 s von der durchschnittlichen Brennzeit nach Abschnitt 3b
-            abweichen. Weiße Anzündschnüre brauchen nicht feuchtlagerbeständig zu
-            sein.
-
-
-        d)  Die Brennzeit von blanken und geschützten wasserdichten Anzündschnüren
-            darf nach einer Lagerung von 24 Stunden unter Wasser beim Abbrennen
-            unter Wasser um nicht mehr als
-            +- 10 s von der durchschnittlichen Brennzeit nach Abschnitt 3b
-            abweichen.
-
-
-
-
-
-
-
-
-
-
-
-### Anlage 3 Anforderungen an die Zusammensetzung und Beschaffenheit von pyrotechnischen Gegenständen nach § 6 Absatz 3
-
-(Fundstelle: BGBl. I 2009, 2085 - 2086)
-
-**I.** **Für alle pyrotechnischen Gegenstände gelten die nachfolgend
-    aufgeführten allgemeinen Anforderungen:**
-
-
-1.  Jeder pyrotechnische Gegenstand muss den Leistungsmerkmalen
-    entsprechen, die der Hersteller der benannten Stelle mitgeteilt hat,
-    um ein Höchstmaß an Sicherheit und Zuverlässigkeit zu gewährleisten.
-
-
-2.  Jeder pyrotechnische Gegenstand muss so gestaltet und hergestellt
-    sein, dass er durch ein geeignetes Verfahren mit minimaler
-    Beeinträchtigung der Umwelt sicher entsorgt werden kann.
-
-
-3.  Jeder pyrotechnische Gegenstand muss bei bestimmungsgemäßer Verwendung
-    korrekt funktionieren.
-
-
-4.  Jeder pyrotechnische Gegenstand muss unter realistischen Bedingungen
-    geprüft werden. Wenn dies in einem Laboratorium nicht möglich ist,
-    müssen die Prüfungen unter den Bedingungen durchgeführt werden, unter
-    denen der pyrotechnische Gegenstand verwendet werden soll.
-
-
-5.  Folgende Informationen und Eigenschaften müssen gegebenenfalls
-    betrachtet oder geprüft werden:
-
-    a)  Gestaltung, Konstruktion und charakteristische Eigenschaften
-        einschließlich detaillierte Angaben zur chemischen Zusammensetzung
-        (Masse und prozentualer Anteil der verwendeten Stoffe) und
-        Abmessungen.
-
-
-    b)  Die physische und chemische Stabilität des pyrotechnischen
-        Gegenstandes unter allen normalen, vorhersehbaren Umweltbedingungen.
-
-
-    c)  Empfindlichkeit bei normaler, vorhersehbarer Handhabung und Transport.
-
-
-    d)  Verträglichkeit aller Bestandteile hinsichtlich ihrer chemischen
-        Stabilität.
-
-
-    e)  Resistenz des pyrotechnischen Gegenstandes gegen Feuchtigkeit, wenn er
-        für die Verwendung unter feuchten oder nassen Bedingungen ausgelegt
-        ist und wenn seine Sicherheit oder Zuverlässigkeit von Feuchtigkeit
-        ungünstig beeinflusst werden kann.
-
-
-    f)  Resistenz gegen niedrige und hohe Temperaturen, wenn der
-        pyrotechnische Gegenstand bei derartigen Temperaturen aufbewahrt oder
-        verwendet werden soll und seine Sicherheit oder Zuverlässigkeit durch
-        die Kühlung oder Erhitzung eines Bestandteils oder des ganzen
-        pyrotechnischen Gegenstandes ungünstig beeinflusst werden kann.
-
-
-    g)  Sicherheitseinrichtungen, die die vorzeitige oder unbeabsichtigte
-        Zündung oder Anzündung verhindern sollen.
-
-
-    h)  Geeignete Anleitungen und erforderlichenfalls Kennzeichnungen in Bezug
-        auf die sichere Handhabung, Lagerung, Verwendung (einschließlich
-        Sicherheitsabstände) und Entsorgung in der (den) Amtssprache(n) des
-        Empfänger-Mitgliedstaates.
-
-
-    i)  Die Fähigkeit des pyrotechnischen Gegenstandes, seiner Verpackung oder
-        anderer Bestandteile unter normalen, vorhersehbaren
-        Lagerungsbedingungen dem Verfall zu widerstehen.
-
-
-    j)  Spezifizierung aller erforderlichen Vorrichtungen, Zubehörteile und
-        Betriebsanleitungen für die sichere Funktionsweise des pyrotechnischen
-        Gegenstandes.
-
-
-    k)  Während des Transports und bei normaler Handhabung müssen die
-        pyrotechnischen Gegenstände – sofern vom Hersteller nicht anders
-        angegeben – die pyrotechnische Zusammensetzung einschließen.
-
-
-
-
-
-6.  Pyrotechnische Gegenstände dürfen Folgendes nicht enthalten:
-
-    a)  handelsübliche Sprengstoffe, mit Ausnahme von Schwarzpulver oder
-        Blitzsätzen;
-
-
-    b)  militärische Sprengstoffe.
-
-
-
-
-
-
-
-
-**II. Die einzelnen Gruppen pyrotechnischer Gegenstände müssen
-mindestens auch die folgenden Anforderungen erfüllen:**
-
-A. Feuerwerkskörper
-
-1.  Der Hersteller teilt die Feuerwerkskörper gemäß Artikel 3 nach dem
-    Nettoexplosivstoffgehalt, den Sicherheitsabständen, dem Schallpegel
-    oder ähnlichen Kriterien in verschiedene Kategorien ein. Die Kategorie
-    ist als Bestandteil der Kennzeichnung deutlich anzugeben.
-
-    a)  Für Feuerwerkskörper der Kategorie 1 gelten folgende Bestimmungen:
-
-        i)  der Sicherheitsabstand muss mindestens 1 m betragen. Gegebenenfalls
-            kann der Sicherheitsabstand jedoch verkürzt werden;
-
-
-        ii) der maximale Schallpegel darf im Abstand von 1 m 120 dB (A, Imp.) oder
-            einen gleichwertigen Schallpegel, der mit einer anderen geeigneten
-            Methode gemessen wurde, nicht überschreiten;
-
-
-        iii) die Kategorie 1 umfasst keine Knallkörper, Knallerbatterien,
-            Blitzknaller und Blitzknallerbatterien;
-
-
-        iv) Knallerbsen der Kategorie 1 dürfen nicht mehr als 2,5 mg
-            Silberfulminat enthalten.
-
-
-
-
-
-    b)  Für Feuerwerkskörper der Kategorie 2 gelten folgende Bestimmungen:
-
-        i)  der Sicherheitsabstand muss mindestens 8 m betragen. Gegebenenfalls
-            kann der Sicherheitsabstand jedoch verkürzt werden;
-
-
-        ii) der maximale Schallpegel darf im Abstand von 8 m 120 dB (A, Imp.) oder
-            einen gleichwertigen Schallpegel, der mit einer anderen geeigneten
-            Methode gemessen wurde, nicht überschreiten.
-
-
-
-
-
-    c)  Für Feuerwerkskörper der Kategorie 3 gelten folgende Bestimmungen:
-
-        i)  der Sicherheitsabstand muss mindestens 15 m betragen. Gegebenenfalls
-            kann der Sicherheitsabstand jedoch verkürzt werden;
-
-
-        ii) der maximale Schallpegel darf im Abstand von 15 m 120 dB (A, Imp.)
-            oder einen gleichwertigen Schallpegel, der mit einer anderen
-            geeigneten Methode gemessen wurde, nicht überschreiten.
-
-
-
-
-
-
-
-
-2.  Feuerwerkskörper dürfen nur aus Materialien konstruiert werden, die
-    die Gefahr für Gesundheit, Eigentum und Umwelt durch Reststücke
-    möglichst gering halten.
-
-
-3.  Die Art der Anzündung muss deutlich sichtbar oder durch Kennzeichnung
-    oder die Anleitung erkennbar sein.
-
-
-4.  Feuerwerkskörper dürfen sich nicht auf unberechenbare und
-    unvorhersehbare Weise bewegen.
-
-
-5.  Feuerwerkskörper der Kategorien 1, 2 und 3 müssen entweder durch eine
-    Schutzkappe, die Verpackung oder die Konstruktion des Gegenstandes
-    selber gegen die unbeabsichtigte Anzündung geschützt sein.
-    Feuerwerkskörper der Kategorie 4 müssen durch vom Hersteller
-    angegebene Methoden gegen unbeabsichtigte Anzündung geschützt sein.
-
-
-
-
-B. Sonstige pyrotechnische Gegenstände
-
-1.  Pyrotechnische Gegenstände müssen so gestaltet sein, dass sie Gefahren
-    für Gesundheit, Eigentum und Umwelt bei normaler Verwendung möglichst
-    gering halten.
-
-
-2.  Die Art der Anzündung muss deutlich sichtbar oder durch Kennzeichnung
-    oder die Anleitung erkennbar sein.
-
-
-3.  Pyrotechnische Gegenstände müssen so gestaltet sein, dass sie Gefahren
-    für Gesundheit, Eigentum und Umwelt durch Reststücke bei
-    unbeabsichtigter Zündung möglichst gering halten.
-
-
-4.  Pyrotechnische Gegenstände müssen bis zum vom Hersteller angegebenen
-    Verfalldatum einwandfrei funktionieren.
-
-
-
-
-C. Anzündmittel
-
-1.  Anzündmittel müssen unter allen normalen, vorhersehbaren
-    Verwendungsbedingungen zündbar sein und über ausreichende
-    Zündfähigkeit verfügen.
-
-
-2.  Anzündmittel müssen unter normalen, vorhersehbaren Lager- und
-    Verwendungsbedingungen gegen elektrostatische Entladungen geschützt
+    (5) Die Zünder dürfen unter Zugrundelegung einer elektrischen
+    Kapazität von 2 500 pF durch elektrostatische Spannungen von 30 kV
+    über die Glühbrücke nicht ausgelöst werden. Darüber hinaus müssen die
+    Zünder gegen Auslösung durch Überschläge im Innern der Hülse gesichert
     sein.
 
 
-3.  Elektrische Anzünder müssen unter normalen, vorhersehbaren Lager- und
-    Verwendungsbedingungen gegen elektromagnetische Felder geschützt sein.
+**2** **Pyrotechnische Sätze**
+
+    (1) Pyrotechnische Sätze sind der Kategorie S1 zuzuordnen, wenn
+
+    1.  die Abbrennzeit für 0,1 kg der pyrotechnischen Sätze im
+        gebrauchsfertigen Zustand mehr als 60 s beträgt,
 
 
-4.  Die Umhüllung von Anzündschnüren muss von ausreichender mechanischer
-    Festigkeit sein und die explosive Füllung ausreichend schützen, wenn
-    der Gegenstand normaler, vorhersehbarer mechanischer Belastung
-    ausgesetzt ist.
+    2.  sie keine sehr giftigen, ätzenden oder reizenden Stoffe entwickeln,
 
 
-5.  Die Parameter für die Brennzeiten von Anzündschnüren müssen zusammen
-    mit dem Gegenstand geliefert werden.
+    3.  sie beim Abbrand keine zusätzlichen Gefahren durch Glut, Hitze, Funken
+        oder Feuer verursachen und
 
 
-6.  Die elektrischen Kenndaten (z. B. „no-fire current“, Widerstand usw.)
-    von elektrischen Anzündern müssen mit dem Gegenstand geliefert werden.
-
-
-7.  Die Anzünderdrähte von elektrischen Anzündern müssen unter
-    Berücksichtigung ihrer vorgesehenen Verwendung eine ausreichende
-    Isolierung und mechanische Festigkeit – einschließlich ihrer
-    Befestigung am Anzünder – aufweisen.
+    4.  sie, sofern eine Verwendung in geschlossenen Innenräumen vorgesehen
+        oder zulässig ist, keine Ruß bildenden Stoffe enthalten.
 
 
 
 
+    (2) Pyrotechnische Sätze, die die Kriterien der Kategorie S1 nicht
+    erfüllen, sind der Kategorie S2 zuzuordnen.
 
-### Anlage 4 Zeichen für explosionsgefährliche Stoffe und Sprengzubehör nach § 8
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 1565 - 1566;
+**3** **Wettersprengstoffe und Wettersprengschnüre**
+
+    (1) Schlagwettersichere Sprengstoffe und Sprengschnüre dürfen ein
+    zündfähiges Methan-Luft-Gemisch bei der Verwendung folgender
+    Mörserkonfigurationen nicht zünden:
+
+    1.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse I:
+        Zündung am Bohrlochmund eines Bohrlochmörsers, ohne Besatz,
+
+
+    2.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse II:
+        Zündung in einem Kantenmörser, frei nach oben liegend,
+
+
+    3.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse III:
+        Zündung in einem Kantenmörser, seitlich ausgerichtet zu einer
+        Prallplatte.
+
+
+
+    Bei der Prüfung der Schlagwettersicherheit befindet sich der Mörser
+    jeweils in einer Prüfkammer mit dem zündfähigen Gemisch.
+
+    (2) Schlagwettersichere Sprengstoffe und Sprengschnüre dürfen
+    Kohlenstaub-Luft-Gemische bei der Verwendung folgender
+    Mörserkonfigurationen nicht zünden:
+
+    1.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse I:
+        Zündung am Bohrlochtiefsten eines Bohrlochmörsers, ohne Besatz,
+
+
+    2.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse II:
+        Zündung am Bohrlochtiefsten eines verlängerten Bohrlochmörsers, ohne
+        Besatz,
+
+
+    3.  schlagwettersichere Sprengstoffe und Sprengschnüre der Klasse III:
+        Zündung in einem Kantenmörser, seitlich ausgerichtet zu einer
+        Prallplatte.
+
+
+
+    Bei der Prüfung der Schlagwettersicherheit befindet sich
+
+    1.  der Bohrlochmörser außerhalb der Prüfkammer und mit dem Bohrlochmund
+        in die Prüfkammer gerichtet,
+
+
+    2.  der Kantenmörser innerhalb der Prüfkammer.
+
+
+
+
+    (3) Die Durchführung der Prüfungen zur Schlagwettersicherheit hat im
+    Übrigen nach den anerkannten Regeln der Technik oder nach den
+    einschlägigen Normen zu erfolgen.
+
+
+
+
+
+### Anlage 3 (weggefallen)
+
+
+
+### Anlage 4 Zeichen für Sprengzubehör nach § 6 Absatz 4 Satz 2
+
+(Fundstelle: BGBl. I 1998, 1565 - 1566;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 *    *   Stoff oder Gegenstand
 
@@ -4424,703 +3456,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zeichen
 
 
-*    *   I.
-
-    *   Sprengstoffe
-
-    *
-    *
-    *
-
-*    *
-    *   Gesteinsprengstoffe
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Schwarzpulver zum Sprengen und schwarzpulverähnliche Sprengstoffe
-
-    *
-    *
-    *   P
-
-
-*    *
-    *
-    *   Sprengstoffe mit Sprengölzusatz
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Hochprozentige gelatinöse Sprengstoffe
-
-    *
-    *
-    *   GNN
-
-
-*    *
-    *
-    *
-    *   Gelatinöse Sprengstoffe
-
-    *
-    *
-    *   GN
-
-
-*    *
-    *
-    *
-    *   Halbgelatinöse Sprengstoffe
-
-    *
-    *
-    *   HN
-
-
-*    *
-    *
-    *
-    *   Pulverförmige Sprengstoffe
-
-    *
-    *
-    *   PN
-
-
-*    *
-    *
-    *
-    *   Druckfeste Sprengstoffe
-
-    *
-    *
-    *   GND
-
-
-*    *
-    *
-    *   Sprengstoffe ohne Sprengölzusatz
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Sprengstoffe mit Explosivstoffzusatz
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Pulverförmige Sprengstoffe
-
-    *
-    *
-    *   PA
-
-
-*    *
-    *
-    *
-    *   Pulverförmige Sprengstoffe, wasserfest
-
-    *
-    *
-    *   PAW
-
-
-*    *
-    *
-    *
-    *   Sprengschlämme
-
-    *
-    *
-    *   SAE
-
-
-*    *
-    *
-    *
-    *   Emulsionssprengstoffe
-
-    *
-    *
-    *   EME
-
-
-*    *
-    *
-    *   Sprengstoffe ohne Explosivstoffzusatz
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Pulverförmige Sprengstoffe
-
-    *
-    *
-    *   PAC
-
-
-*    *
-    *
-    *
-    *   Sprengschlämme
-
-    *
-    *
-    *   SA
-
-
-*    *
-    *
-    *
-    *   Emulsionssprengstoffe
-
-    *
-    *
-    *   EM
-
-
-*    *
-    *
-    *
-    *   Chloratsprengstoffe
-
-    *
-    *
-    *   PCI
-
-
-*    *
-    *
-    *   Wettersprengstoffe der
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Klasse I
-
-    *
-    *
-    *   W I
-
-
-*    *
-    *
-    *
-    *   Klasse II
-
-    *
-    *
-    *   W II
-
-
-*    *
-    *
-    *
-    *   Klasse III
-
-    *
-    *
-    *   W III
-
-
-*    *
-    *
-    *   Plastiksprengstoffe
-
-    *
-    *
-    *   EP
-
-
-*    *
-    *
-    *   Einheitliche Sprengstoffe und deren Mischungen
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Sekundärsprengstoffe und deren Mischungen
-
-    *
-    *
-    *   SE
-
-
-*    *
-    *
-    *
-    *   Primärsprengstoffe (phlegmatisiert)
-
-    *
-    *
-    *   PE
-
-
-*    *
-    *
-    *   Sprengstoffe für sonstige Zwecke
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Auslösevorrichtungen
-
-    *
-    *
-    *   SZA
-
-
-*    *
-    *
-    *
-    *   Fallote
-
-    *
-    *
-    *   SZF
-
-
-*    *
-    *
-    *
-    *   Hohlladungen und Perforatoren
-
-    *
-    *
-    *   SZH
-
-
-*    *
-    *
-    *
-    *   Sprengladungen
-
-    *
-    *
-    *   SZL
-
-
-*    *
-    *
-    *
-    *   Sprengniete
-
-    *
-    *
-    *   SZN
-
-
-*    *
-    *
-    *
-    *   Verstärkungsladungen
-
-    *
-    *
-    *   SZV
-
-
-*    *
-    *
-    *
-    *   Zerstörladungen
-
-    *
-    *
-    *   SZZ
-
-
-*    *   II.
-
-    *   Sprengschnüre, Anzündschnüre, Shock-tubes (Zündschläuche)
-
-    *
-    *
-    *
-
-*    *
-    *   Sprengschnüre
-
-    *
-    *
-    *   SS
-
-
-*    *
-    *   Wettersprengschnüre der
-
-    *
-    *
-    *
-
-*    *
-    *
-    *
-    *   Klasse I
-
-    *
-    *
-    *   WSS I
-
-
-*    *
-    *
-    *
-    *   Klasse II
-
-    *
-    *
-    *   WSS II
-
-
-*    *
-    *
-    *
-    *   Klasse III
-
-    *
-    *
-    *   WSS III
-
-
-*    *
-    *   Schneidschnüre
-
-    *
-    *
-    *   SSC
-
-
-*    *
-    *   Anzündschnüre (ohne Detonator)
-
-    *
-    *
-    *   ZZ
-
-
-*    *
-    *   Shock-tubes (Zündschläuche, ohne Detonator)
-
-    *
-    *
-    *   ST
-
-
-*    *
-    *   Zünd- und Anzündschnüre für sonstige Zwecke
-
-    *
-    *
-    *   AS
-
-
-*    *   III.
-
-    *   Zündmittel
-
-    *
-    *
-    *
-
-*    *
-    *   Sprengkapseln
-
-    *
-    *
-    *   SK
-
-
-*    *
-    *   Sprengkapseln mit mechanischer Auslösung
-
-    *
-    *
-    *   SKM
-
-
-*    *
-    *   Sprengkapseln verbunden mit Anzündschnur
-
-    *
-    *
-    *   ZZZ
-
-
-*    *
-    *   Sprengkapseln verbunden mit Shock-tubes (Zündschläuche)
-
-    *
-    *
-    *   ZNE
-
-
-*    *
-    *   Sprengverzögerer
-
-    *
-    *
-    *   SV
-
-
-*    *
-    *   Verzögerer und Verbindungselemente für Shock-tubes (Zündschläuche)
-
-    *
-    *
-    *   STV
-
-
-*    *
-    *   elektrische Brückenzünder
-
-    *   A
-
-    *   U
-
-    *   HU
-
-
-*    *
-    *   nichtschlagwettersichere Momentzünder
-
-    *   ZEMA
-
-    *   ZEMU
-
-    *   ZEMHU
-
-
-*    *
-    *   schlagwettersichere Momentzünder
-
-    *   ZEMSA
-
-    *   ZEMSU
-
-    *   ZEMSHU
-
-
-*    *
-    *   nichtschlagwettersichere Zeitzünder
-
-    *   ZEVA
-
-    *   ZEVU
-
-    *   ZEVHU
-
-
-*    *
-    *   schlagwettersichere Zeitzünder
-
-    *   ZEVSA
-
-    *   ZEVSU
-
-    *   ZEVSHU
-
-
-*    *
-    *   Elektronische Zünder
-
-    *
-    *
-    *   ZEIC
-
-
-*    *
-    *   Sonstige Zünder
-
-    *
-    *
-    *   AZ
-
-
-*    *   IV.
-
-    *   Treibmittel
-
-    *
-    *
-    *
-
-*    *
-    *   Treibladungspulver
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Treibladungspulver auf Basis
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Nitrocellulose
-
-    *
-    *
-    *   TN
-
-
-*    *
-    *
-    *   Treibladungspulver auf Basis
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Nitrocellulose/Schwarzpulver
-
-    *
-    *
-    *   TNS
-
-
-*    *
-    *
-    *   Nitraminpulver
-
-    *
-    *
-    *   TNB
-
-
-*    *
-    *
-    *   Schwarzpulver
-
-    *
-    *
-    *   TS
-
-
-*    *
-    *
-    *   Schwarzpulverähnliche Pulver
-
-    *
-    *
-    *   TSA
-
-
-*    *
-    *
-    *   Andere Treibladungspulver
-
-    *
-    *
-    *   TA
-
-
-*    *
-    *   Treibladungspulvervorprodukte
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   Pulverrohmasse
-
-    *
-    *
-    *   TPR
-
-
-*    *
-    *
-    *   Pulvervorkonzentrat
-
-    *
-    *
-    *   TPK
-
-
-*    *
-    *   Raketenfesttreibstoffe
-
-    *
-    *
-    *   R
-
-
-*    *
-    *   Raktenmotore
-
-    *
-    *
-    *   RG
-
-
 *    *
-    *   Treibkartuschen
-
-    *
-    *
-    *   TK
-
-
-*    *   V.
-
-    *   Sprengzubehör
-
     *
     *
     *
 
-*    *
-    *   Zündleitungen
+*    *   Zündleitungen
 
     *
     *
     *
 
 *    *
-    *
     *   Einfachleitungen
 
     *
@@ -5129,7 +3476,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *
     *   Verseilte Leitungen
 
     *
@@ -5138,7 +3484,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
-    *
     *   Stegleitungen
 
     *
@@ -5146,313 +3491,81 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   ZLG
 
 
-*    *
-    *   Verlängerungsdrähte
+*    *   Verlängerungsdrähte
 
     *
     *
     *   ZV
 
 
-*    *
-    *   Isolierhülsen
+*    *   Isolierhülsen
 
     *
     *
     *   ZI
 
 
-*    *
-    *   Zündmaschinen
+*    *   Zündmaschinen
 
     *
     *
     *   ZM
 
 
-*    *
-    *   Zündgeräte für elektronische Zünder
+*    *   Zündgeräte für elektronische Zünder
 
     *
     *
     *   ZMIC
 
 
-*    *
-    *   Zündmaschinenprüfgeräte
+*    *   Zündmaschinenprüfgeräte
 
     *
     *
     *   ZP
 
 
-*    *
-    *   Prüfgeräte für Zündgeräte für elektronische Zünder
+*    *   Prüfgeräte für Zündgeräte für elektronische Zünder
 
     *
     *
     *   ZPIC
 
 
-*    *
-    *   Zündkreisprüfer
+*    *   Zündkreisprüfer
 
     *
     *
     *   ZK
 
 
-*    *
-    *   Prüfgeräte für elektronische Zündkreise
+*    *   Prüfgeräte für elektronische Zündkreise
 
     *
     *
     *   ZKIC
 
 
-*    *
-    *   Andere Zündeinrichtungen
+*    *   Andere Zündeinrichtungen
 
     *
     *
     *   ZE
 
 
-*    *
-    *   Ladegeräte
+*    *   Ladegeräte
 
     *
     *
     *   L
 
 
-*    *
-    *   Mischladegeräte
+*    *   Mischladegeräte
 
     *
     *
     *   ML
-
-
-*    *   VI.
-
-    *   Pyrotechnische Sätze, Gegenstände und Anzündmittel
-
-    *
-    *
-    *
-
-*    *
-    *   Stoff oder Gegenstand
-
-    *
-    *
-    *
-
-*    *
-    *   Pyrotechnische Sätze der
-
-    *
-    *
-    *
-
-*    *
-    *   – Kategorie S1
-
-    *
-    *
-    *   S1
-
-
-*    *
-    *   – Kategorie S2
-
-    *
-    *
-    *   S2
-
-
-*    *
-    *   Pyrotechnische Gegenstände der
-
-    *
-    *
-    *
-
-*    *
-    *   – Kategorie 1
-
-    *
-    *
-    *   F1
-
-
-*    *
-    *   – Kategorie 2
-
-    *
-    *
-    *   F2
-
-
-*    *
-    *   – Kategorie 3
-
-    *
-    *
-    *   F3
-
-
-*    *
-    *   – Kategorie 4
-
-    *
-    *
-    *   F4
-
-
-*    *
-    *   – Kategorie T1
-
-    *
-    *
-    *   T1
-
-
-*    *
-    *   – Kategorie T2
-
-    *
-    *
-    *   T2
-
-
-*    *
-    *   – Kategorie P1
-
-    *
-    *
-    *   P1
-
-
-*    *
-    *   – Kategorie P2
-
-    *
-    *
-    *   P2
-
-
-*    *
-    *   Anzündmittel
-
-    *
-    *
-    *
-
-*    *
-    *   Anzündschnüre für pyrotechnische Zwecke
-
-    *
-    *
-    *   P1-ZZP
-
-
-*    *
-    *   Stoppinen
-
-    *
-    *
-    *   P2-ZZS
-
-
-*    *
-    *   Anzündlitzen
-
-    *
-    *
-    *   P1-ZA
-
-
-*    *
-    *   Anzündlichter
-
-    *
-    *
-    *   P1-ZZL
-
-
-*    *
-    *   Mechanische Anzünder
-
-    *
-    *
-    *   P1-ZZA
-
-
-*    *
-    *   Elektrische Brückenanzünder
-
-    *
-    *
-    *   P1-ZZE
-
-
-*    *
-    *   Elektrische Anzünder für Schwarzpulver zum Sprengen und
-        schwarzpulverähnliche Sprengstoffe
-
-    *
-    *
-    *   P1-ZZB
-
-
-*    *   VII.
-
-    *   Explosionsgefährliche Stoffe für technische, wissenschaftliche,
-        analytische, medizinische und pharmazeutische Zwecke sowie Stoffe, die
-        als Hilfsmittel bei der Herstellung chemischer Erzeugnisse verwendet
-        werden
-
-    *
-    *
-    *
-
-*    *
-    *   Explosionsgefährliche Stoffe
-
-    *
-    *
-    *
-
-*    *
-    *
-    *   für technische Zwecke
-
-    *
-    *
-    *   EST
-
-
-*    *
-    *
-    *   für wissenschaftliche, analytische, medizinische und pharmazeutische
-        Zwecke
-
-    *
-    *
-    *   ESW
-
-
-*    *
-    *
-    *   die als Hilfsstoffe bei der Herstellung von chemischen Erzeugnissen
-        verwendet werden
-
-    *
-    *
-    *   H
-
 
 
 
@@ -5465,7 +3578,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1.  Die Vorschriften dieser Anlage gelten für Sprengstoffe, die
 
-    a)  aus einem oder mehren einheitlichen brisanten Sprengstoffen
+    a)  aus einem oder mehreren einheitlichen brisanten Sprengstoffen
         zusammengesetzt sind, die in ihrer reinen Form einen Dampfdruck von
         weniger als 0,0001 Pa bei einer Temperatur von 25
         Grad C haben,
@@ -5481,7 +3594,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Einheitliche brisante Sprengstoffe sind insbesondere, jedoch nicht
     ausschließlich, Cyclotetramethylentetranitramin (HMX, Oktogen),
-    Cyclotrimethylentrinitramin (REX, Hexogen) und
+    Cyclotrimethylentrinitramin (RDX, Hexogen) und
     Pentaerythrittetranitrat (PETN).
 
 
@@ -5531,76 +3644,526 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 18 Absatz 7 und § 23 Absatz 8)
 
-### Anlage 6 Erforderliche Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen nach § 25a Abs. 2 und Angaben in der Genehmigung nach § 25a Abs. 4
+### Anlage 6 Schutzabstände für das Verwenden von pyrotechnischen Gegenständen der Kategorien F4 (Feuerwerkskörper) und T2 (pyrotechnische Gegenstände für Bühne und Theater)
 
-(Fundstelle des Originaltextes: BGBl. I 1998, 1578)
-
-1.  Angaben im Antrag auf Genehmigung des Verbringens von Explosivstoffen:
-
-
-1.1 Name und Anschrift des Antragstellers; Name und Telefonnummer des
-    Ansprechpartners beim Antragsteller.
+(Fundstelle: BGBl. I 2017, 1627 — 1631)
 
 
-1.2 Name, Anschrift, Telefon- und Telefaxnummer der am Verbringungsvorgang
-    beteiligten Unternehmen oder Einzelpersonen (Absender, Beförderer,
-    Empfänger).
+**1** **Begriffsbestimmungen**
 
 
-1.3 Name, Anschrift, Telefon- und Telefaxnummer der zuständigen Behörden
-    nach § 36 des Gesetzes für die Erteilung der Erlaubnis nach § 7 oder §
-    27 des Gesetzes oder des Befähigungsscheins nach § 20 des Gesetzes für
-    die im Geltungsbereich des Gesetzes ansässigen, am Verbringungsvorgang
-    beteiligten Unternehmen und Einzelpersonen.
+1.1 Abbrennplatz ist die Fläche, die beim Verwenden von pyrotechnischen
+    Gegenständen (Abbrennen eines Feuerwerks) für das Aufstellen der
+    pyrotechnischen Gegenstände sowie der Hilfsgeräte (inklusive
+    benötigter Rohre für die Verwendung) benötigt wird.
 
 
-1.4 Bezeichnung, Zusammensetzung und Kurzcharakterisierung des zu
-    verbringenden Explosivstoffs, dessen Hersteller, die
-    Herstellungsstätte und die UN-Nummer.
+1.2 Außenbereich umfasst alle Bereiche außer den Innenbereich (zum
+    Beispiel Konzertbühne unter freiem Himmel).
 
 
-1.5 Die Masse (Netto-Explosivstoffmasse und Bruttomasse) oder die
-    Stückzahl der zu verbringenden Explosivstoffe.
+1.3 Innenbereich ist ein allseitig umschlossener Raum, der
+    Lüftungseinrichtungen beinhalten kann.
 
 
-1.6 Transportart (Straße, Eisenbahn, Binnenschiff, Seeschiff,
-    Luftfahrzeug), Transportweg, vorgesehener Abfahrts- und Ankunftstermin
-    sowie erforderlichenfalls vorgesehene Grenzübertrittsstellen zwischen
-    den Mitgliedstaaten der Europäischen Union.
+1.4 Bodenfeuerwerk sind pyrotechnische Gegenstände, die auf dem Boden
+    aufgestellt oder bodennah angebracht werden und sich beim Verwenden
+    nicht von ihrer Halterung lösen (insbesondere Fontänen, Vulkane,
+    bengalische Lichter, Knallkörper und Sonnen).
 
 
-2.  Angaben in der Genehmigung des Verbringens von Explosivstoffen:
+1.5 Effektausdehnung eines pyrotechnischen Gegenstandes ist der Raum, in
+    den die Effektkörper beim Ausstoß oder der Zerlegung des
+    pyrotechnischen Gegenstandes weggeschleudert werden und der durch die
+    Effekthöhe und die radiale Effektweite bestimmt wird.
 
 
-2.1 Ausstellende Behörde und Nummer des Genehmigungsbescheids.
+1.6 Effekthöhe eines pyrotechnischen Gegenstandes ist der vom Boden des
+    Gegenstandes gemessene maximale Abstand des Effektes in
+    Ausstoßrichtung.
 
 
-2.2 Name und Anschrift des Antragstellers (Empfänger).
+1.7 Radiale Effektweite eines pyrotechnischen Gegenstandes ist der Abstand
+    zwischen der Linie der Verwendungsrichtung und dem am weitesten
+    entfernten Effektkörper.
 
 
-2.3 Name und Anschrift der am Verbringungsvorgang beteiligten Unternehmen
-    oder Einzelpersonen, soweit sie im Geltungsbereich des Gesetzes
-    ansässig sind.
+1.8 Schutzabstand ist der Abstand von der Verwendungsstelle, in dem beim
+    Verwenden von pyrotechnischen Gegenständen eine Gefährdung, zum
+    Beispiel durch brennende Teile oder Reststücke, gegeben ist.
 
 
-2.4 Bezeichnung und Kurzcharakterisierung des zu verbringenden
-    Explosivstoffs, dessen Hersteller, die Herstellungsstätte und die UN-
-    Nummer.
+1.9 Weggeschleuderte Reststücke sind inerte Teile von pyrotechnischen
+    Gegenständen, die während der Funktion ausgestoßen oder
+    weggeschleudert werden und auf Grund ihrer Masse oder mechanischen
+    Beschaffenheit (zum Beispiel harte Endabschlüsse aus Gips) eine
+    Gefährdung darstellen.
 
 
-2.5 Die Masse (Netto-Explosivstoffmasse und Bruttomasse) oder Stückzahl
-    der zu verbringenden Explosivstoffe.
+1.10 Zerlegungshöhe ist der senkrechte Abstand zwischen der
+    Verwendungsstelle und der Horizontalen, die durch den Ort der
+    Zerlegung verläuft.
 
 
-2.6 Transportart (Straße, Eisenbahn, Binnenschiff, Seeschiff,
-    Luftfahrzeug), Transportweg, vorgesehener Abfahrts- und Ankunftstermin
-    sowie erforderlichenfalls vorgesehene Grenzübertrittsstellen zwischen
-    den Mitgliedstaaten der Europäischen Union.
+1.11 Verantwortliche Person im Sinne dieser Anlage ist eine zur Verwendung
+    pyrotechnischer Gegenstände der jeweiligen Kategorie berechtigte, vom
+    Erlaubnisinhaber beauftragte Person.
 
 
-2.7 Nebenbestimmungen gemäß § 25a Abs. 4 für die Verbringung der
-    Explosivstoffe.
+**2** **Ortsabhängige und variable Einflussfaktoren**
+
+
+2.1 Lage und Beschaffenheit des Ortes für die Verwendung, die
+    Verwendungsmodalitäten und andere Bedingungen im Innen- oder
+    Außenbereich
+
+
+2.1.1 Der Erlaubnisinhaber oder eine verantwortliche Person hat
+
+
+2.1.1.1 bei der Auswahl der pyrotechnischen Gegenstände, der Hilfsgeräte und
+    der Art und Weise des Verwendens (zum Beispiel des Verwendungs- oder
+    Neigungswinkels) sowie bei der Ermittlung des anzuwendenden
+    Schutzabstandes für das Verwenden dieser pyrotechnischen Gegenstände
+    die Bedingungen, die im Umfeld des Abbrennplatzes vorliegen,
+    hinreichend zu beachten,
+
+
+2.1.1.2 die zur Ermittlung der Schutzabstände notwendigen Angaben und
+    Informationen sowie den ermittelten Schutzabstand zu dokumentieren,
+
+
+2.1.1.3 die im Außenbereich zu berücksichtigende Windgeschwindigkeit an
+    geeigneter Stelle vor Beginn des Verwendens in einer Höhe von 2 m zu
+    messen.
+
+
+2.2 Einhaltung der Schutzabstände
+
+    Der Erlaubnisinhaber oder eine verantwortliche Person darf die
+    betreffenden pyrotechnischen Gegenstände nicht verwenden, wenn er oder
+    sie die nach den Nummern 3 und 4 ermittelten Schutzabstände nicht
+    einhalten kann.
+
+
+2.3 Brandempfindliche Objekte und Materialien dürfen sich innerhalb des
+    durch den Schutzabstand definierten Bereichs nur befinden, wenn sie
+    ausreichend geschützt sind.
+
+
+**3** **Schutzabstände beim Verwenden von Feuerwerkskörpern der Kategorie
+    F4**
+
+
+3.1 Absperrung des Abbrennplatzes
+
+    Der Abbrennplatz ist ab dem Beginn des Aufbaus des Feuerwerks nach
+    allen Seiten so deutlich abzusperren oder zu kennzeichnen, dass Dritte
+    die Absperrung ohne Weiteres erkennen können. Während der Zeit der
+    Vorbereitung und des Aufbaus des Feuerwerks ist in der Regel eine
+    Absperrung in einem Umkreis von 20 m um den Abbrennplatz ausreichend.
+    Die Absperrung kann verringert werden, wenn ausreichende
+    Sicherheitsmaßnahmen vorgenommen werden.
+
+
+3.2 Einhaltung der Schutzabstände
+
+    Der Erlaubnisinhaber oder die von ihm beauftragte verantwortliche
+    Person ist verpflichtet, während des Verwendens des Feuerwerks den
+    jeweils notwendigen Schutzabstand zu gewährleisten. In dieser Zeit
+    dürfen sich nur Personen innerhalb des durch den Schutzabstand
+    definierten Bereichs aufhalten, die von der verantwortlichen Person
+    dazu bestimmt wurden. Die verantwortliche Person hat geeignete
+    Schutzmaßnahmen für diese Personen festzulegen.
+
+
+3.3 Schutzabstand bei vertikalem Verwenden und Windgeschwindigkeiten von*
+    9 m/s
+
+    Liegen beim Verwenden eines Feuerwerkskörpers der Kategorie F4 die
+    folgenden Verwendungsbedingungen vor, so ergibt sich der zu
+    ermittelnde Schutzabstand aus den Leistungsdaten des
+    Feuerwerkskörpers:
+
+    –   vertikales Verwenden vom Boden
+
+
+    –   Windgeschwindigkeit* 9 m/s
+
+
+    –   ohne Berücksichtigung weiterer ortsabhängiger und variabler
+        Bedingungen.
+
+
+
+    Der Schutzabstand beträgt unter diesen Verwendungsbedingungen:
+
+
+3.3.1 bei Bodenfeuerwerk: 20 m; bei Lichterbildern entspricht der
+    Schutzabstand dem maximalen Schutzabstand der Einzelgegenstände,
+
+
+3.3.2 bei Bomben und Bombetten mit Kaliber* 50 mm (auch als Teile von
+    Feuertöpfen, Batterien und Römischen Lichtern): 80 % der
+    Zerlegungshöhe in m, jedoch mindestens 800 x Kaliber in mm,
+
+
+3.3.3 bei Bomben und Bombetten zur Erzeugung eines Knalls als Haupteffekt
+    (auch als Teile von Feuertöpfen, Batterien und Römischen Lichtern):
+    100 % der Zerlegungshöhe in m, jedoch mindestens 1 000 x Kaliber in
+    mm,
+
+
+3.3.4 bei Tagesbomben ohne brennbare Effekte: 80 % der Zerlegungshöhe,
+    unabhängig vom Kaliber,
+
+
+3.3.5 bei nicht in den Ziffern 3.3.2 bis 3.3.4 genannten Feuerwerkskörpern:
+    30 m, wenn die maximale Effekt- oder Zerlegungshöhe 30 m nicht
+    übersteigt,
+
+
+3.3.6 bei nicht in den Ziffern 3.3.2 bis 3.3.4 genannten Feuerwerkskörpern:
+    50 m, wenn die maximale Effekt- oder Zerlegungshöhe 30 m übersteigt,
+
+
+3.3.7 bei Raketen und steigenden Kronen abweichend von den Ziffern 3.3.1 bis
+    3\.3.6 in der Verwendungsrichtung: 200 m, in den anderen Richtungen:
+    125 m,
+
+
+3.3.8 bei Gegenständen, deren nach den Ziffern 3.3.2 bis 3.3.7 ermittelte
+    Schutzabstände kleiner sind als der Abstand ihrer seitlich
+    weggeschleuderten Reststücke:
+
+    das 1,1-fache der Wurfweite/des Abstandes dieser Reststücke,
+
+
+3.3.9 Bei Wasserfeuerwerkskörpern sind die Schutzabstände in Abhängigkeit
+    des Effekts und der Funktion durch Einzelfallbetrachtungen zu
+    ermitteln.
+
+
+3.4 Schutzabstand beim Verwenden unter anderen als in Ziffer 3.3 genannten
+    Bedingungen
+
+    Liegt beim Verwenden eines Feuerwerkskörpers der Kategorie F4
+    mindestens eine der folgenden Verwendungsbedingungen vor, ergibt sich
+    der zu berücksichtigende Schutzabstand aus den Regelungen der Ziffern
+    3\.4.1 bis 3.4.4:
+
+    –   Abbrennplatz auf einem Bauwerk
+
+
+    –   Abbrennplatz auf Geländesteigungen oder -erhebungen
+
+
+    –   Verwendung unter Neigungswinkel
+
+
+    –   Windgeschwindigkeit größer 9 m/s bis 13 m/s
+
+
+    –   Windgeschwindigkeit größer 13 m/s.
+
+
+
+    Dem Schutzabstand liegt der durch den Hersteller nach § 18 Absatz 7
+    ermittelte und in der Kennzeichnung angegebene Schutzabstand oder die
+    entsprechende Regelung gemäß Ziffer 3.3 zugrunde. Der zu
+    berücksichtigende Schutzabstand ist durch den Verwender zu ermitteln,
+    wobei für die jeweils zu treffenden Verwendungsbedingungen die
+    Regelungen in der im Folgenden genannten Reihenfolge anzuwenden sind:
+
+
+3.4.1 Befindet sich der Abbrennplatz auf einem Bauwerk, ist bei Gegenständen
+    nach den Ziffern 3.3.2 bis 3.3.4, 3.3.7 und 3.3.8 die Höhe des
+    Bauwerks zu der Effekt- oder Zerlegungshöhe zu addieren. Danach ist
+    der Schutzabstand gemäß den Ziffern 3.3.2 bis 3.3.4 und 3.3.8 zu
+    berechnen.
+
+
+3.4.2 Befindet sich der Abbrennplatz auf einem Gelände mit einer Steigung
+    von* 20 %, so ist der Schutzabstand für Feuerwerkskörper nach den
+    Ziffern 3.3.2 bis 3.3.4, 3.3.7 und 3.3.8 um 20 % zu vergrößern. Bei
+    Geländeerhebungen mit einem nahezu senkrechten Anstieg gilt für die
+    Bestimmung des Schutzabstandes die Ziffer 3.4.1.
+
+
+3.4.3 Beim Verwenden von Feuerwerkskörpern unter einem Neigungswinkel von
+    der Senkrechten ist der nach den Ziffern 3.3.2 bis 3.3.4, 3.3.8, 3.4.1
+    und 3.4.2 ermittelte Schutzabstand in Abhängigkeit des Neigungswinkels
+    von der Senkrechten in Neigungsrichtung folgendermaßen zu vergrößern:
+
+    *        *   Neigungswinkel
+            (von der Senkrechten) in °
+
+        *   Erhöhung des Schutzabstandes
+            in %
+
+
+    *        *   5 bis 10
+
+        *   40
+
+
+    *        *   11 bis 15
+
+        *   60
+
+
+    *        *   16 bis 20
+
+        *   80
+
+
+
+
+    Ist der Neigungswinkel größer als 20 Grad von der Senkrechten, ist zur
+    Festlegung des Schutzabstandes eine Einzelfallbeurteilung vorzunehmen.
+    In die der Neigungsrichtung entgegengesetzte Richtung kann der
+    Schutzabstand um maximal 40 % verringert werden.
+
+
+3.4.4 Bei Windgeschwindigkeiten > 9 m/s sind die nach den Ziffern 3.3.2 bis
+    3\.3.9 und 3.4.1 bis 3.4.3 ermittelten Schutzabstände in Windrichtung
+    folgendermaßen zu vergrößern:
+
+    *        *   Windgeschwindigkeiten
+            in m/s
+
+        *   Erhöhung des Schutzabstandes
+            in %
+
+
+    *        *   größer 9 bis 13
+
+        *   100
+
+
+    *        *   größer 13
+
+        *   200
+
+
+
+
+    In die der Windrichtung entgegengesetzte Richtung kann der
+    Schutzabstand um maximal 40 % verringert werden.
+
+
+**4** **Schutzabstände beim Verwenden von pyrotechnischen Gegenständen für
+    Bühne und Theater der Kategorie T2**
+
+
+4.1 Einhaltung der Schutzabstände
+
+    Der Erlaubnisinhaber oder die von ihm beauftragte verantwortliche
+    Person hat während des Verwendens der pyrotechnischen Gegenstände für
+    Bühne und Theater der Kategorie T2 den jeweils notwendigen
+    Schutzabstand zu gewährleisten. In dieser Zeit dürfen sich nur
+    Personen innerhalb des durch den Schutzabstand definierten Bereichs
+    aufhalten, die von der verantwortlichen Person dazu bestimmt wurden.
+    Die verantwortliche Person hat geeignete Schutzmaßnahmen für diese
+    Personen festzulegen.
+
+
+4.2 Schutzabstände bei vertikaler Verwendung und bei
+    Windgeschwindigkeiten* 9 m/s
+
+    Liegen beim Verwenden eines pyrotechnischen Gegenstandes für Bühne und
+    Theater der Kategorie T2 die folgenden Verwendungsbedingungen vor, so
+    ergibt sich der zu ermittelnde Schutzabstand aus den Leistungsdaten
+    des pyrotechnischen Gegenstandes:
+
+    –   vertikales Verwenden vom Boden
+
+
+    –   Windgeschwindigkeit bis zu einer Windgeschwindigkeit von 9 m/s
+
+
+    –   ohne Berücksichtigung weiterer ortsabhängiger und variabler
+        Bedingungen.
+
+
+
+    Der Schutzabstand ist auf Basis der Effektausdehnungen, der Wurfweiten
+    von Fragmenten und von brennendem und glimmendem Material sowie auf
+    Basis des angegebenen Schalldruckes zu berechnen.
+
+
+4.2.1 Der auf die jeweilige Effektausdehnung (Effekthöhe und radiale
+    Effektweite) und die Wurfweiten von Fragmenten und von brennendem und
+    glimmendem Material bezogene Schutzabstand in Ausstoßrichtung (SA) und
+    in radialer Richtung (SR) in m beim Verwenden ohne Berücksichtigung
+    des Neigungswinkels (bis zu einer Windgeschwindigkeit von 9 m/s im
+    Außenbereich) ist mit folgender Formel [1] zu berechnen:
+
+
+    *        *   S
+            A/R [m] = 1,3 × L
+            Leistungsparameter, max
+
+        *   [1]
+
+
+
+
+    L
+    Leistungsparameter, max ist der jeweilige größte Wert in m der
+    folgenden anwendbaren Leistungsparameter, die für den jeweiligen
+    Gegenstand in dessen Kennzeichnung angegeben sind:
+
+    a)  Effekthöhe,
+
+
+    b)  radiale Effektweite,
+
+
+    c)  Wurfweiten von Fragmenten und brennendem oder glimmendem Material.
+
+
+
+
+
+4.2.2 Der auf den Schalldruck bezogene Schutzabstand (Schutzabstand
+    B) ist so zu berechnen, dass Dritte einem Schalldruckpegel von maximal
+    120 dB(AI) ausgesetzt sind. Der Schutzabstand in Abhängigkeit vom
+    Schallpegel ist mit folgender Formel [2] zu ermitteln:
+
+    *        *            ![bgbl1_2017_j1617-1_0010.jpg](bgbl1_2017_j1617-1_0010.jpg)
+        *   [2]
+
+
+
+
+    Hierbei sind:
+
+        r
+    Messung Messentfernung in m
+
+
+        L
+    Schall Schallpegelgrenze 120 dB(AI)
+
+
+        L
+    Messung Gemessener Schallpegel in dB(AI) bei r
+        Messung
+
+
+
+
+    Sind diese Anforderungen bei Mitwirkenden auf Grund der Nähe zu den
+    Gegenständen nicht einzuhalten, so sind geeignete Schutzmaßnahmen
+    festzulegen und in der Sicherheitsbetrachtung zu dokumentieren.
+
+
+4.2.3 Der größere Wert der beiden Schutzabstände S
+    A, S
+    R sowie der Schutzabstand
+    B bestimmen den resultierenden Schutzabstand in die jeweilige
+    Richtung.
+
+
+4.3 Schutzabstand bei Verwendung unter Neigungswinkel
+
+    Beim Verwenden eines pyrotechnischen Gegenstandes für Bühne und
+    Theater der Kategorie T2 unter einem Neigungswinkel ist der nach
+    Formel [1] berechnete Schutzabstand in Abhängigkeit des
+    Neigungswinkels in Neigungsrichtung nach Bild 1 und Formel [3]
+    folgendermaßen zu vergrößern:
+
+    ![bgbl1_2017_j1617-1_0020.jpg](bgbl1_2017_j1617-1_0020.jpg)
+    Bild 1: Schutzabstände bei Verwendung unter Neigungswinkel
+
+
+    *        *   S
+            W = S
+            A × cos(*) + S
+            R× cos(90° –*)
+
+        *   [3]
+
+
+
+
+    Hierbei sind:
+
+        S
+    W   = resultierender Schutzabstand in m
+
+
+        S
+    A   = Schutzabstand in Ausstoßrichtung in m
+
+
+        S
+    R   = Schutzabstand in radialer Richtung in m
+
+
+    *   = Neigungswinkel von der Horizontalen in Grad
+
+
+
+    In die der Verwendungsrichtung entgegengesetzte Richtung kann der
+    Schutzabstand entsprechend folgender Formel [4] reduziert werden:
+
+
+    *        *   S
+            W = S
+            R x cos(90° –*
+            ).
+
+        *   [4]
+
+
+
+
+    Der Schutzabstand ist nach Formel [2] entsprechend zu erhöhen, falls
+    der Schalldruckpegel an dieser Stelle oberhalb von 120 dB(AI) liegt.
+
+
+4.4 Verwendung unter Windeinfluss im Außenbereich
+
+    Der beim Verwenden eines pyrotechnischen Gegenstandes für Bühne und
+    Theater der Kategorie T2 unter Windeinfluss im Außenbereich mit
+    Windgeschwindigkeiten von mehr als 9 m/s zu berücksichtigende
+    Schutzabstand ergibt sich aus den folgenden Regelungen. Diesem
+    Schutzabstand liegt der durch den Hersteller nach § 18 Absatz 7
+    ermittelte und in der Kennzeichnung angegebene Schutzabstand oder die
+    entsprechende Regelung gemäß Ziffer 4.3 zugrunde.
+
+    Bei Windgeschwindigkeiten von mehr als 9 m/s sind die nach Formel [1]
+    oder [3] ermittelten Schutzabstände wie folgt zu vergrößern:
+
+
+4.4.1 bei Windgeschwindigkeiten von mehr als 9 m/s bis 13 m/s für
+    Gegenstände mit einer Effekt- oder Zerlegungshöhe von mehr als 30 m um
+    100 % in Windrichtung,
+
+
+4.4.2 bei Windgeschwindigkeiten von mehr als 13 m/s dürfen nur Gegenstände
+    mit einer Effekt- oder Zerlegungshöhe von weniger als 30 m abgebrannt
+    werden, es sei denn, der Schutzabstand kann um mindestens 200 % in
+    Windrichtung vergrößert werden.
+
+
+4.5 Spezielle Schutzabstände bei Bouquet-Effekten
+
+    Für pyrotechnische Gegenstände für Bühne und Theater der Kategorie T2,
+    die in großen Höhen breite Bouquet-Effekte (zum Beispiel Crossette)
+    erzeugen, können Personen mit Befähigungsschein unter gebührender
+    Berücksichtigung der Einzeleffekte, wie beispielsweise der Möglichkeit
+    des Herabfallens fester Rückstände wie Asche, Schlacke und brennendem
+    oder glimmendem Material, der Möglichkeit nicht gezündeter Sterne oder
+    Effektkomponenten, der Effekt- oder Zerlegungshöhe und der radialen
+    Effektweite einen radialen Schutzabstand von mindestens 2 m in
+    Bodennähe festsetzen. Dieser ist nach Formel [2] entsprechend zu
+    erhöhen, falls der Schalldruckpegel an dieser Stelle über 120 dB(AI)
+    liegt.
 
 
 

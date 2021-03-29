@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3513
 
+Geändert durch
+:   Art. 4 G v. 1.3.2017 I 386
+
 
 
 ## § 1 Gerichtliche Maßnahmen zum Schutz vor Gewalt und Nachstellungen
@@ -156,8 +159,21 @@ Gesetz nicht berührt.
 
 ## § 4 Strafvorschriften
 
-Wer einer bestimmten vollstreckbaren Anordnung nach § 1 Abs. 1 Satz 1
-oder 3, jeweils auch in Verbindung mit Abs. 2 Satz 1, zuwiderhandelt,
-wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
-bestraft. Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
+Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer einer bestimmten vollstreckbaren
+
+1.  Anordnung nach § 1 Absatz 1 Satz 1 oder 3, jeweils auch in Verbindung
+    mit Absatz 2 Satz 1, zuwiderhandelt oder
+
+
+2.  Verpflichtung aus einem Vergleich zuwiderhandelt, soweit der Vergleich
+    nach § 214a Satz 1 des Gesetzes über das Verfahren in Familiensachen
+    und in den Angelegenheiten der freiwilligen Gerichtsbarkeit in
+    Verbindung mit § 1 Absatz 1 Satz 1 oder 3 dieses Gesetzes, jeweils
+    auch in Verbindung mit § 1 Absatz 2 Satz 1 dieses Gesetzes, bestätigt
+    worden ist.
+
+
+
+Die Strafbarkeit nach anderen Vorschriften bleibt unberührt.
 

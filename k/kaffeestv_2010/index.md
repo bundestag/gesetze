@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3262, 3334
 
-Geändert durch
-:   Art. 5 V v. 1.7.2011 I 1308
+Zuletzt geändert durch
+:   Art. 12 G v. 18.7.2014 I 1042
+
+Änderung durch
+:   Art. 9 V v. 2.1.2018 I 84 (Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Abschnitt 1 - Allgemeines
@@ -1169,9 +1172,10 @@ Personen verbraucht wird.
     Mitglieder, Konsularbeamte, Mitglieder ihres Verwaltungs- und
     technischen Personals und ihr dienstliches Hauspersonal sowie die
     Familienmitglieder dieser Personen. Familienmitglieder im Sinn dieser
-    Bestimmung sind der Ehegatte, die unverheirateten Kinder und die
-    Eltern, wenn sie von diesen Personen wirtschaftlich abhängig sind und
-    in ihrem Haushalt leben.
+    Bestimmung sind der Ehegatte oder der Lebenspartner, die
+    unverheirateten oder die nicht in einer Lebenspartnerschaft lebenden
+    Kinder und die Eltern, wenn sie von diesen Personen wirtschaftlich
+    abhängig sind und in ihrem Haushalt leben.
 
 
 

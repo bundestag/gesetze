@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1964, 593
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.12.2007 I 3198
+:   Art. 1 G v. 10.3.2017 I 419
 
 
 ## Eingangsformel
@@ -52,9 +52,6 @@ unterworfen hat.
 
 
 2.  Fraktionen des Deutschen Bundestages und der Parlamente der Länder.
-
-
-3.  (weggefallen)
 
 
 
@@ -274,8 +271,12 @@ genannten Kennzeichen stehen solche gleich, die ihnen zum Verwechseln
 
 (3) Absatz 1 gilt entsprechend für Kennzeichen eines verbotenen
 Vereins, die in im Wesentlichen gleicher Form von anderen nicht
-verbotenen Teilorganisationen oder von selbständigen, die Zielrichtung
-des verbotenen Vereins teilenden Vereinen verwendet werden.
+verbotenen Teilorganisationen oder von selbständigen Vereinen
+verwendet werden. Ein Kennzeichen eines verbotenen Vereins wird
+insbesondere dann in im Wesentlichen gleicher Form verwendet, wenn bei
+ähnlichem äußerem Gesamterscheinungsbild das Kennzeichen des
+verbotenen Vereins oder Teile desselben mit einer anderen Orts- oder
+Regionalbezeichnung versehen wird.
 
 (4) Diese Vorschriften gelten auch für die Verwendung von Kennzeichen
 einer Ersatzorganisation für die Dauer der Vollziehbarkeit einer
@@ -643,7 +644,8 @@ darin ausgeübte Tätigkeit
 
 
 3.  den organisatorischen Zusammenhalt eines Vereines oder einer Partei
-    der in den Nummern 1 und 2 bezeichneten Art unterstützt,
+    der in den Nummern 1 und 2 bezeichneten Art oder deren weitere
+    Betätigung unterstützt,
 
 
 4.  einem vollziehbaren Verbot nach § 14 Abs. 3 Satz 1 oder § 18 Satz 2
@@ -658,10 +660,10 @@ darin ausgeübte Tätigkeit
 
 
 
-wird mit Gefängnis bis zu einem Jahr oder mit Geldstrafe bestraft,
-wenn die Tat nicht in den §§ 84, 85, 86a oder den §§ 129 bis 129b des
-Strafgesetzbuches mit Strafe bedroht ist. In den Fällen der Nummer 5
-gilt § 9 Abs. 1 Satz 2, Abs. 2 entsprechend.
+wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
+bestraft, wenn die Tat nicht in den §§ 84, 85, 86a oder den §§ 129 bis
+129b des Strafgesetzbuches mit Strafe bedroht ist. In den Fällen der
+Nummer 5 gilt § 9 Absatz 1 Satz 2, Absatz 2 oder 3 entsprechend.
 
 (2) Das Gericht kann von einer Bestrafung nach Absatz 1 absehen, wenn
 
@@ -698,7 +700,7 @@ Deutsche Mark geahndet werden.
 
 ### § 30 Aufhebung und Fortgeltung von Rechtsvorschriften
 
-(1)
+(1) (Aufhebungsvorschriften)
 
 (2) Unberührt bleiben
 
@@ -710,7 +712,7 @@ Deutsche Mark geahndet werden.
 
 3.  § 62 des Gesetzes betreffend die Gesellschaften mit beschränkter
     Haftung, §§ 288 bis 293 des Aktiengesetzes, § 81 des Gesetzes
-    betreffend die Erwerbs- und Wirtschaftsgenossenschaften, § 87 des
+    betreffend die Erwerbs- und Wirtschaftsgenossenschaften, § 304 des
     Versicherungsaufsichtsgesetzes und § 38 Abs. 1 des Gesetzes über das
     Kreditwesen,
 
@@ -724,6 +726,17 @@ Deutsche Mark geahndet werden.
 
 
 
+
+
+### § 30a Zuständige Stelle zur Ausführung der Verordnung (EU, Euratom) Nr. 1141/2014
+
+Zuständige Stelle im Sinne der Artikel 16 Absatz 3, Artikel 23 Absatz
+1 und Absatz 5 sowie des Artikels 28 Absatz 1 der Verordnung (EU,
+Euratom) Nr. 1141/2014 des Europäischen Parlaments und des Rates vom
+22\. Oktober 2014 über das Statut und die Finanzierung europäischer
+politischer Parteien und europäischer politischer Stiftungen (ABI. L
+317 vom 4.11.2014, S. 1, L 131 vom 20.5.2016, S. 91) ist das
+Bundesministerium des Innern.
 
 
 ### § 31 Übergangsregelungen

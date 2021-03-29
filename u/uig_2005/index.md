@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3704
 
+Neugefasst durch
+:   Bek. v. 27.10.2014 I 1643;
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 17 G v. 20.7.2017 I 2808
+
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -42,8 +48,8 @@ Rechts.
     Mitglieder beruft. Zu den informationspflichtigen Stellen gehören
     nicht
 
-    a)  die obersten Bundesbehörden, soweit sie im Rahmen der Gesetzgebung
-        oder beim Erlass von Rechtsverordnungen tätig werden, und
+    a)  die obersten Bundesbehörden, soweit und solange sie im Rahmen der
+        Gesetzgebung tätig werden, und
 
 
     b)  Gerichte des Bundes, soweit sie nicht Aufgaben der öffentlichen
@@ -63,7 +69,7 @@ Rechts.
 
 
 
-(2) Kontrolle im Sinne des Absatzes 1 Nr. 2 liegt vor, wenn
+(2) Kontrolle im Sinne des Absatzes 1 Nummer 2 liegt vor, wenn
 
 1.  die Person des Privatrechts bei der Wahrnehmung der öffentlichen
     Aufgabe oder bei der Erbringung der öffentlichen Dienstleistung
@@ -72,7 +78,7 @@ Rechts.
     Anschluss- und Benutzungszwang besteht, oder
 
 
-2.  eine oder mehrere der in Absatz 1 Nr. 2 genannten juristischen
+2.  eine oder mehrere der in Absatz 1 Nummer 2 genannten juristischen
     Personen des öffentlichen Rechts allein oder zusammen, unmittelbar
     oder mittelbar
 
@@ -80,14 +86,21 @@ Rechts.
 
 
     b)  über die Mehrheit der mit den Anteilen des Unternehmens verbundenen
-        Stimmrechte verfügen, oder
+        Stimmrechte verfügen oder
 
 
     c)  mehr als die Hälfte der Mitglieder des Verwaltungs-, Leitungs- oder
-        Aufsichtsorgans des Unternehmens bestellen können.
+        Aufsichtsorgans des Unternehmens bestellen können, oder
 
 
 
+
+
+3.  mehrere juristische Personen des öffentlichen Rechts zusammen
+    unmittelbar oder mittelbar über eine Mehrheit im Sinne der Nummer 2
+    Buchstabe a bis c verfügen und der überwiegende Anteil an dieser
+    Mehrheit den in Absatz 1 Nummer 2 genannten juristischen Personen des
+    öffentlichen Rechts zuzuordnen ist.
 
 
 
@@ -159,9 +172,9 @@ die diese Stelle einen Übermittlungsanspruch hat.
 
 (1) Jede Person hat nach Maßgabe dieses Gesetzes Anspruch auf freien
 Zugang zu Umweltinformationen, über die eine informationspflichtige
-Stelle im Sinne des § 2 Abs. 1 verfügt, ohne ein rechtliches Interesse
-darlegen zu müssen. Daneben bleiben andere Ansprüche auf Zugang zu
-Informationen unberührt.
+Stelle im Sinne des § 2 Absatz 1 verfügt, ohne ein rechtliches
+Interesse darlegen zu müssen. Daneben bleiben andere Ansprüche auf
+Zugang zu Informationen unberührt.
 
 (2) Der Zugang kann durch Auskunftserteilung, Gewährung von
 Akteneinsicht oder in sonstiger Weise eröffnet werden. Wird eine
@@ -177,8 +190,8 @@ Informationszugangs verweisen.
 (3) Soweit ein Anspruch nach Absatz 1 besteht, sind die
 Umweltinformationen der antragstellenden Person unter Berücksichtigung
 etwaiger von ihr angegebener Zeitpunkte, spätestens jedoch mit Ablauf
-der Frist nach Satz 2 Nr. 1 oder Nr. 2 zugänglich zu machen. Die Frist
-beginnt mit Eingang des Antrags bei der informationspflichtigen
+der Frist nach Satz 2 Nummer 1 oder Nummer 2 zugänglich zu machen. Die
+Frist beginnt mit Eingang des Antrags bei der informationspflichtigen
 Stelle, die über die Informationen verfügt, und endet
 
 1.  mit Ablauf eines Monats oder
@@ -216,26 +229,28 @@ informationspflichtige Stellen hinweisen, die über die Informationen
 verfügen.
 
 (4) Wird eine andere als die beantragte Art des Informationszugangs im
-Sinne von § 3 Abs. 2 eröffnet, ist dies innerhalb der Frist nach § 3
-Abs. 3 Satz 2 Nr. 1 unter Angabe der Gründe mitzuteilen.
+Sinne von § 3 Absatz 2 eröffnet, ist dies innerhalb der Frist nach § 3
+Absatz 3 Satz 2 Nummer 1 unter Angabe der Gründe mitzuteilen.
 
-(5) Über die Geltung der längeren Frist nach § 3 Abs. 3 Satz 2 Nr. 2
-ist die antragstellende Person spätestens mit Ablauf der Frist nach §
-3 Abs. 3 Satz 2 Nr. 1 unter Angabe der Gründe zu unterrichten.
+(5) Über die Geltung der längeren Frist nach § 3 Absatz 3 Satz 2
+Nummer 2 ist die antragstellende Person spätestens mit Ablauf der
+Frist nach § 3 Absatz 3 Satz 2 Nummer 1 unter Angabe der Gründe zu
+unterrichten.
 
 
 ### § 5 Ablehnung des Antrags
 
 (1) Wird der Antrag ganz oder teilweise nach den §§ 8 und 9 abgelehnt,
-ist die antragstellende Person innerhalb der Fristen nach § 3 Abs. 3
+ist die antragstellende Person innerhalb der Fristen nach § 3 Absatz 3
 Satz 2 hierüber zu unterrichten. Eine Ablehnung liegt auch dann vor,
-wenn nach § 3 Abs. 2 der Informationszugang auf andere Art gewährt
+wenn nach § 3 Absatz 2 der Informationszugang auf andere Art gewährt
 oder die antragstellende Person auf eine andere Art des
 Informationszugangs verwiesen wird. Der antragstellenden Person sind
-die Gründe für die Ablehnung mitzuteilen; in den Fällen des § 8 Abs. 2
-Nr. 4 ist darüber hinaus die Stelle, die das Material vorbereitet,
-sowie der voraussichtliche Zeitpunkt der Fertigstellung mitzuteilen. §
-39 Abs. 2 des Verwaltungsverfahrensgesetzes findet keine Anwendung.
+die Gründe für die Ablehnung mitzuteilen; in den Fällen des § 8 Absatz
+2 Nummer 4 ist darüber hinaus die Stelle, die das Material
+vorbereitet, sowie der voraussichtliche Zeitpunkt der Fertigstellung
+mitzuteilen. § 39 Absatz 2 des Verwaltungsverfahrensgesetzes findet
+keine Anwendung.
 
 (2) Wenn der Antrag schriftlich gestellt wurde oder die
 antragstellende Person dies begehrt, erfolgt die Ablehnung in
@@ -260,26 +275,26 @@ Rechtsschutz nachgesucht werden kann.
 gegeben.
 
 (2) Gegen die Entscheidung durch eine Stelle der öffentlichen
-Verwaltung im Sinne des § 2 Abs. 1 Nr. 1 ist ein Widerspruchsverfahren
-nach den §§ 68 bis 73 der Verwaltungsgerichtsordnung auch dann
-durchzuführen, wenn die Entscheidung von einer obersten Bundesbehörde
-getroffen worden ist.
+Verwaltung im Sinne des § 2 Absatz 1 Nummer 1 ist ein
+Widerspruchsverfahren nach den §§ 68 bis 73 der
+Verwaltungsgerichtsordnung auch dann durchzuführen, wenn die
+Entscheidung von einer obersten Bundesbehörde getroffen worden ist.
 
 (3) Ist die antragstellende Person der Auffassung, dass eine
-informationspflichtige Stelle im Sinne des § 2 Abs. 1 Nr. 2 den Antrag
-nicht vollständig erfüllt hat, kann sie die Entscheidung der
+informationspflichtige Stelle im Sinne des § 2 Absatz 1 Nummer 2 den
+Antrag nicht vollständig erfüllt hat, kann sie die Entscheidung der
 informationspflichtigen Stelle nach Absatz 4 überprüfen lassen. Die
 Überprüfung ist nicht Voraussetzung für die Erhebung der Klage nach
-Absatz 1. Eine Klage gegen die zuständige Stelle nach § 13 Abs. 1 ist
-ausgeschlossen.
+Absatz 1. Eine Klage gegen die zuständige Stelle nach § 13 Absatz 1
+ist ausgeschlossen.
 
 (4) Der Anspruch auf nochmalige Prüfung ist gegenüber der
-informationspflichtigen Stelle im Sinne des § 2 Abs. 1 Nr. 2 innerhalb
-eines Monats, nachdem diese Stelle mitgeteilt hat, dass der Anspruch
-nicht oder nicht vollständig erfüllt werden kann, schriftlich geltend
-zu machen. Die informationspflichtige Stelle hat der antragstellenden
-Person das Ergebnis ihrer nochmaligen Prüfung innerhalb eines Monats
-zu übermitteln.
+informationspflichtigen Stelle im Sinne des § 2 Absatz 1 Nummer 2
+innerhalb eines Monats, nachdem diese Stelle mitgeteilt hat, dass der
+Anspruch nicht oder nicht vollständig erfüllt werden kann, schriftlich
+geltend zu machen. Die informationspflichtige Stelle hat der
+antragstellenden Person das Ergebnis ihrer nochmaligen Prüfung
+innerhalb eines Monats zu übermitteln.
 
 (5) Durch Landesgesetz kann für Streitigkeiten um Ansprüche gegen
 private informationspflichtige Stellen auf Grund von landesrechtlichen
@@ -338,7 +353,7 @@ hätte auf
 
 
 2.  die Vertraulichkeit der Beratungen von informationspflichtigen Stellen
-    im Sinne des § 2 Abs. 1,
+    im Sinne des § 2 Absatz 1,
 
 
 3.  die Durchführung eines laufenden Gerichtsverfahrens, den Anspruch
@@ -347,8 +362,8 @@ hätte auf
     disziplinarrechtlicher Ermittlungen oder
 
 
-4.  den Zustand der Umwelt und ihrer Bestandteile im Sinne des § 2 Abs. 3
-    Nr. 1 oder Schutzgüter im Sinne des § 2 Abs. 3 Nr. 6,
+4.  den Zustand der Umwelt und ihrer Bestandteile im Sinne des § 2 Absatz
+    3 Nummer 1 oder Schutzgüter im Sinne des § 2 Absatz 3 Nummer 6,
 
 
 
@@ -363,11 +378,11 @@ genannten Gründe abgelehnt werden.
 
 
 2.  sich auf interne Mitteilungen der informationspflichtigen Stellen im
-    Sinne des § 2 Abs. 1 bezieht,
+    Sinne des § 2 Absatz 1 bezieht,
 
 
 3.  bei einer Stelle, die nicht über die Umweltinformationen verfügt,
-    gestellt wird, sofern er nicht nach § 4 Abs. 3 weitergeleitet werden
+    gestellt wird, sofern er nicht nach § 4 Absatz 3 weitergeleitet werden
     kann,
 
 
@@ -377,7 +392,7 @@ genannten Gründe abgelehnt werden.
 
 
 5.  zu unbestimmt ist und auf Aufforderung der informationspflichtigen
-    Stelle nach § 4 Abs. 2 nicht innerhalb einer angemessenen Frist
+    Stelle nach § 4 Absatz 2 nicht innerhalb einer angemessenen Frist
     präzisiert wird,
 
 
@@ -410,9 +425,9 @@ zugestimmt oder das öffentliche Interesse an der Bekanntgabe
 überwiegt. Der Zugang zu Umweltinformationen über Emissionen kann
 nicht unter Berufung auf die in den Nummern 1 und 3 genannten Gründe
 abgelehnt werden. Vor der Entscheidung über die Offenbarung der durch
-Satz 1 Nr. 1 bis 3 geschützten Informationen sind die Betroffenen
+Satz 1 Nummer 1 bis 3 geschützten Informationen sind die Betroffenen
 anzuhören. Die informationspflichtige Stelle hat in der Regel von
-einer Betroffenheit im Sinne des Satzes 1 Nr. 3 auszugehen, soweit
+einer Betroffenheit im Sinne des Satzes 1 Nummer 3 auszugehen, soweit
 übermittelte Informationen als Betriebs- und Geschäftsgeheimnisse
 gekennzeichnet sind. Soweit die informationspflichtige Stelle dies
 verlangt, haben mögliche Betroffene im Einzelnen darzulegen, dass ein
@@ -468,18 +483,17 @@ ihre Aufgaben von Bedeutung sind und über die sie verfügen.
 
 
 6.  zusammenfassende Darstellung und Bewertung der Umweltauswirkungen nach
-    den §§ 11 und 12 des Gesetzes über die Umweltverträglichkeitsprüfung
-    in der Fassung der Bekanntmachung vom 5. September 2001 (BGBl. I S.
-    2350), das zuletzt durch Artikel 3 des Gesetzes vom 24. Juni 2004
-    (BGBl. I S. 1359) geändert worden ist, und Risikobewertungen im
-    Hinblick auf Umweltbestandteile nach § 2 Abs. 3 Nr. 1.
+    den §§ 24 und 25 des Gesetzes über die Umweltverträglichkeitsprüfung
+    in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 94)
+    in der jeweils geltenden Fassung und Risikobewertungen im Hinblick auf
+    Umweltbestandteile nach § 2 Absatz 3 Nummer 1.
 
 
 
-In Fällen des Satzes 1 Nr. 5 und 6 genügt zur Verbreitung die Angabe,
-wo solche Informationen zugänglich sind oder gefunden werden können.
-Die veröffentlichten Umweltinformationen werden in angemessenen
-Abständen aktualisiert.
+In Fällen des Satzes 1 Nummer 5 und 6 genügt zur Verbreitung die
+Angabe, wo solche Informationen zugänglich sind oder gefunden werden
+können. Die veröffentlichten Umweltinformationen werden in
+angemessenen Abständen aktualisiert.
 
 (3) Die Verbreitung von Umweltinformationen soll in für die
 Öffentlichkeit verständlicher Darstellung und leicht zugänglichen
@@ -504,7 +518,7 @@ natürlichen Ursache ist. Verfügen mehrere informationspflichtige
 Stellen über solche Informationen, sollen sie sich bei deren
 Verbreitung abstimmen.
 
-(6) § 7 Abs. 1 und 3 sowie die §§ 8 und 9 finden entsprechende
+(6) § 7 Absatz 1 und 3 sowie die §§ 8 und 9 finden entsprechende
 Anwendung.
 
 (7) Die Wahrnehmung der Aufgaben des § 10 kann auf bestimmte Stellen
@@ -515,7 +529,7 @@ der öffentlichen Verwaltung oder private Stellen übertragen werden.
 
 Die Bundesregierung veröffentlicht regelmäßig im Abstand von nicht
 mehr als vier Jahren einen Bericht über den Zustand der Umwelt im
-Bundesgebiet. Hierbei berücksichtigt sie § 10 Abs. 1, 3 und 6. Der
+Bundesgebiet. Hierbei berücksichtigt sie § 10 Absatz 1, 3 und 6. Der
 Bericht enthält Informationen über die Umweltqualität und vorhandene
 Umweltbelastungen. Der erste Bericht nach Inkrafttreten dieses
 Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
@@ -525,52 +539,53 @@ Gesetzes ist spätestens am 31. Dezember 2006 zu veröffentlichen.
 
 
 
-### § 12 Kosten
+### § 12 Gebühren und Auslagen
 
 (1) Für die Übermittlung von Informationen auf Grund dieses Gesetzes
-werden Kosten (Gebühren und Auslagen) erhoben. Dies gilt nicht für die
+werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
 Erteilung mündlicher und einfacher schriftlicher Auskünfte, die
 Einsichtnahme in Umweltinformationen vor Ort, Maßnahmen und
-Vorkehrungen nach § 7 Abs. 1 und 2 sowie die Unterrichtung der
+Vorkehrungen nach § 7 Absatz 1 und 2 sowie die Unterrichtung der
 Öffentlichkeit nach den §§ 10 und 11.
 
 (2) Die Gebühren sind auch unter Berücksichtigung des
 Verwaltungsaufwandes so zu bemessen, dass der Informationsanspruch
-nach § 3 Abs. 1 wirksam in Anspruch genommen werden kann.
+nach § 3 Absatz 1 wirksam in Anspruch genommen werden kann.
 
-(3) Die Bundesregierung wird ermächtigt, für Amtshandlungen von
-informationspflichtigen Stellen die Höhe der Kosten durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, zu
-bestimmen. Die §§ 9, 10 und 15 Abs. 2 des Verwaltungskostengesetzes
-vom 23. Juni 1970 (BGBl. I S. 821), das zuletzt durch Artikel 4 Abs. 9
-des Gesetzes vom 5. Mai 2004 (BGBl. I S. 718) geändert worden ist,
-finden keine Anwendung.
+(3) Die Bundesregierung wird ermächtigt, für individuell zurechenbare
+öffentliche Leistungen von informationspflichtigen Stellen die Höhe
+der Gebühren und Auslagen durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, zu bestimmen. § 9 Absatz 1 und 2
+sowie die §§ 10 und 12 des Bundesgebührengesetzes finden keine
+Anwendung.
 
-(4) Private informationspflichtige Stellen im Sinne des § 2 Abs. 1 Nr.
-2 können für die Übermittlung von Informationen nach diesem Gesetz von
-der antragstellenden Person Kostenerstattung entsprechend den
-Grundsätzen nach den Absätzen 1 und 2 verlangen. Die Höhe der
-erstattungsfähigen Kosten bemisst sich nach den in der
-Rechtsverordnung nach Absatz 3 festgelegten Kostensätzen für
-Amtshandlungen von informationspflichtigen Stellen des Bundes und der
+(4) Private informationspflichtige Stellen im Sinne des § 2 Absatz 1
+Nummer 2 können für die Übermittlung von Informationen nach diesem
+Gesetz von der antragstellenden Person Gebühren- und
+Auslagenerstattung entsprechend den Grundsätzen nach den Absätzen 1
+und 2 verlangen. Die Höhe der erstattungsfähigen Gebühren und Auslagen
+bemisst sich nach den in der Rechtsverordnung nach Absatz 3
+festgelegten Sätzen für individuell zurechenbare öffentliche
+Leistungen von informationspflichtigen Stellen des Bundes und der
 bundesunmittelbaren juristischen Personen des öffentlichen Rechts.
 
 
 ### § 13 Überwachung
 
 (1) Die zuständigen Stellen der öffentlichen Verwaltung, die die
-Kontrolle im Sinne des § 2 Abs. 2 für den Bund oder eine unter der
+Kontrolle im Sinne des § 2 Absatz 2 für den Bund oder eine unter der
 Aufsicht des Bundes stehende juristische Person des öffentlichen
 Rechts ausüben, überwachen die Einhaltung dieses Gesetzes durch
-private informationspflichtige Stellen im Sinne des § 2 Abs. 1 Nr. 2.
+private informationspflichtige Stellen im Sinne des § 2 Absatz 1
+Nummer 2.
 
-(2) Die informationspflichtigen Stellen nach § 2 Abs. 1 Nr. 2 haben
-den zuständigen Stellen auf Verlangen alle Informationen
+(2) Die informationspflichtigen Stellen nach § 2 Absatz 1 Nummer 2
+haben den zuständigen Stellen auf Verlangen alle Informationen
 herauszugeben, die die Stellen zur Wahrnehmung ihrer Aufgaben nach
 Absatz 1 benötigen.
 
 (3) Die nach Absatz 1 zuständigen Stellen können gegenüber den
-informationspflichtigen Stellen nach § 2 Abs. 1 Nr. 2 die zur
+informationspflichtigen Stellen nach § 2 Absatz 1 Nummer 2 die zur
 Einhaltung und Durchführung dieses Gesetzes erforderlichen Maßnahmen
 ergreifen oder Anordnungen treffen.
 
@@ -583,7 +598,7 @@ Absätzen 1 bis 3 abweichend von Absatz 1 auf andere Stellen der
 ### § 14 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig einer
-vollziehbaren Anordnung nach § 13 Abs. 3 zuwiderhandelt.
+vollziehbaren Anordnung nach § 13 Absatz 3 zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit nach Absatz 1 kann mit einer Geldbuße bis
 zu zehntausend Euro geahndet werden.

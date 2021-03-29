@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 687
 
+Zuletzt geändert durch
+:   Art. 15 Abs. 5 G v. 20.10.2015 I 1722
+
 
 ## § 1 Aufgaben des Bundesfreiwilligendienstes
 
@@ -448,4 +451,52 @@ Einvernehmen mit dem Bundesministerium der Finanzen einheitliche
 Obergrenzen für die Erstattung fest. Der Zuschuss für den Aufwand für
 die pädagogische Begleitung wird nach den für das freiwillige soziale
 Jahr im Inland geltenden Richtlinien des Bundes festgesetzt.
+
+
+## § 18 Bundesfreiwilligendienst mit Flüchtlingsbezug
+
+(1) Ein Bundesfreiwilligendienst mit Flüchtlingsbezug liegt vor, wenn
+die Tätigkeitsbeschreibung eines Einsatzplatzes einen Bezug zur
+Unterstützung von Asylberechtigten, Personen mit internationalem
+Schutz nach der Richtlinie 2011/95/EU des Europäischen Parlaments und
+des Rates vom 13. Dezember 2011 über Normen für die Anerkennung von
+Drittstaatsangehörigen oder Staatenlosen als Personen mit Anspruch auf
+internationalen Schutz, für einen einheitlichen Status für Flüchtlinge
+oder für Personen mit Anrecht auf subsidiären Schutz und für den
+Inhalt des zu gewährenden Schutzes (ABl. L 337 vom 20.12.2011, S. 9)
+oder Asylbewerbern erkennen lässt oder wenn ein Asylberechtigter, eine
+Person mit internationalem Schutz nach der Richtlinie 2011/95/EU oder
+ein Asylbewerber, bei dem ein rechtmäßiger und dauerhafter Aufenthalt
+zu erwarten ist, diesen absolviert. Bei einem Asylbewerber, der aus
+einem sicheren Herkunftsstaat nach § 29a des Asylgesetzes stammt, wird
+vermutet, dass ein rechtmäßiger und dauerhafter Aufenthalt nicht zu
+erwarten ist.
+
+(2) Freiwillige können einen Bundesfreiwilligendienst mit
+Flüchtlingsbezug auch dann als Teilzeitbeschäftigung von mehr als 20
+Stunden pro Woche leisten, wenn sie abweichend von § 2 Nummer 2 das
+27\. Lebensjahr noch nicht vollendet haben.
+
+(3) Abweichend von § 4 Absatz 3 bis 5 werden Freiwillige, die ihren
+Dienst auf einem Einsatzplatz mit Flüchtlingsbezug leisten,
+pädagogisch besonders begleitet. Diese Begleitung kann außer durch
+Seminare auch durch andere geeignete Bildungs- und Begleitmaßnahmen
+erfolgen.
+
+(4) Abweichend von § 6 Absatz 1 können Freiwillige, deren Einsatzplatz
+einen Flüchtlingsbezug im Sinne von Absatz 1 aufweist, von ihrer
+anerkannten Einsatzstelle in eine andere gemeinwohlorientierte, nicht
+im Sinne dieses Gesetzes anerkannte Einrichtung mit Flüchtlingsbezug
+entsendet werden. Hierzu bedarf es der Aufklärung des oder der
+Freiwilligen über diesen Umstand und der Zustimmung der oder des zu
+entsendenden Freiwilligen.
+
+(5) Die Vereinbarung nach § 8 muss bei einem Bundesfreiwilligendienst
+mit Flüchtlingsbezug auch die Art und den Umfang der nach Absatz 3
+vorgesehenen pädagogischen Begleitung enthalten.
+
+(6) Das Bundesministerium für Familie, Senioren, Frauen und Jugend
+regelt in Ergänzung von § 17 Absatz 3 durch eine Richtlinie den
+Zuschuss für den Aufwand, der durch die pädagogische Begleitung nach
+Absatz 3 verursacht wird.
 

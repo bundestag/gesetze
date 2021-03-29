@@ -13,13 +13,10 @@ Ausfertigungsdatum
 :   2001-06-26
 
 Fundstelle
-:   BGBl I: 2001, 1254 (2298)
+:   BGBl I: 2001, 1254 (2298) (2007 I 154)
 
 Zuletzt geändert durch
-:   Art. 5 G v. 7.12.2011 I 2576
-
-Hinweis: mittelbare änderung durch
-:   Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
+:   Art. 12 G v. 14.8.2017 I 3202
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -40,7 +37,7 @@ Hinweis: mittelbare änderung durch
 
 
 2.  der Bundesnachrichtendienst im Rahmen seiner Aufgaben nach § 1 Abs. 2
-    des BND-Gesetzes auch zu den in § 5 Abs. 1 Satz 3 Nr. 2 bis 7 und § 8
+    des BND-Gesetzes auch zu den in § 5 Abs. 1 Satz 3 Nr. 2 bis 8 und § 8
     Abs. 1 Satz 1 bestimmten Zwecken
 
 
@@ -72,7 +69,7 @@ durchgeführten Telekommunikation zu erteilen, Sendungen, die ihm zur
 Übermittlung auf dem Telekommunikationsweg anvertraut sind,
 auszuhändigen sowie die Überwachung und Aufzeichnung der
 Telekommunikation zu ermöglichen. § 8a Absatz 2 Satz 1 Nummer 4 des
-Bundesverfassungsschutzgesetzes, § 4a des MAD-Gesetzes und § 2a des
+Bundesverfassungsschutzgesetzes, § 4a des MAD-Gesetzes und § 3 des
 BND-Gesetzes bleiben unberührt. Ob und in welchem Umfang der nach Satz
 3 Verpflichtete Vorkehrungen für die technische und organisatorische
 Umsetzung der Überwachungsmaßnahme zu treffen hat, bestimmt sich nach
@@ -97,16 +94,18 @@ die mit der Durchführung der Maßnahme betraut werden sollen,
 
 Mit der Durchführung einer Beschränkungsmaßnahme dürfen nur Personen
 betraut werden, die nach Maßgabe des Satzes 1 überprüft und belehrt
-worden sind. Nach Zustimmung des Bundesministeriums des Innern kann
-der Behördenleiter der berechtigten Stelle oder dessen Stellvertreter
-die nach Absatz 1 Satz 1 oder 3 Verpflichteten schriftlich auffordern,
-die Beschränkungsmaßnahme bereits vor Abschluss der
-Sicherheitsüberprüfung durchzuführen. Der nach Absatz 1 Satz 1 oder 3
-Verpflichtete hat sicherzustellen, dass die Geheimschutzmaßnahmen nach
-den Abschnitten 1.1 bis 1.4, 1.6, 2.1 und 2.3 bis 2.5 der Anlage 7 zur
-Allgemeinen Verwaltungsvorschrift zum materiellen und
-organisatorischen Schutz von Verschlusssachen vom 29. April 1994 (GMBl
-S. 674) getroffen werden.
+worden sind. Nach Zustimmung des Bundesministeriums des Innern, bei
+Beschränkungsmaßnahmen einer Landesbehörde des zuständigen
+Landesministeriums, kann der Behördenleiter der berechtigten Stelle
+oder dessen Stellvertreter die nach Absatz 1 Satz 1 oder 3
+Verpflichteten schriftlich auffordern, die Beschränkungsmaßnahme
+bereits vor Abschluss der Sicherheitsüberprüfung durchzuführen. Der
+nach Absatz 1 Satz 1 oder Satz 3 Verpflichtete hat sicherzustellen,
+dass die Geheimschutzmaßnahmen zum Schutz als VS-NUR FÜR DEN
+DIENSTGEBRAUCH eingestufter Informationen gemäß der nach § 35 Absatz 1
+des Sicherheitsüberprüfungsgesetzes zu erlassenden allgemeinen
+Verwaltungsvorschrift zum materiellen Geheimschutz in der jeweils
+geltenden Fassung getroffen werden.
 
 (3) Die Sicherheitsüberprüfung nach Absatz 2 Satz 1 Nr. 2 ist
 entsprechend dem Sicherheitsüberprüfungsgesetz durchzuführen. Für
@@ -133,13 +132,13 @@ Sicherheitsüberprüfung abgesehen werden.
 bezeichneten Voraussetzungen angeordnet werden, wenn tatsächliche
 Anhaltspunkte für den Verdacht bestehen, dass jemand
 
-1.  Straftaten des Friedensverrats oder des Hochverrats (§§ 80 bis 83 des
+1.  Straftaten des Friedensverrats oder des Hochverrats (§§ 80a bis 83 des
     Strafgesetzbuches),
 
 
 2.  Straftaten der Gefährdung des demokratischen Rechtsstaates (§§ 84 bis
-    86, 87 bis 89a des Strafgesetzbuches, § 20 Abs. 1 Nr. 1 bis 4 des
-    Vereinsgesetzes),
+    86, 87 bis 89b, 89c Absatz 1 bis 4 des Strafgesetzbuches, § 20 Abs. 1
+    Nr. 1 bis 4 des Vereinsgesetzes),
 
 
 3.  Straftaten des Landesverrats und der Gefährdung der äußeren Sicherheit
@@ -166,13 +165,22 @@ Anhaltspunkte für den Verdacht bestehen, dass jemand
         Abs. 3, § 316b Abs. 3 und § 316c Abs. 1 und 3 des Strafgesetzbuches,
         soweit diese sich gegen die freiheitliche demokratische Grundordnung,
         den Bestand oder die Sicherheit des Bundes oder eines Landes richten,
-        oder
 
 
 
 
 
-7.  Straftaten nach § 95 Abs. 1 Nr. 8 des Aufenthaltsgesetzes
+7.  Straftaten nach § 95 Abs. 1 Nr. 8 des Aufenthaltsgesetzes,
+
+
+8.  Straftaten nach den §§ 202a, 202b und 303a, 303b des
+    Strafgesetzbuches, soweit sich die Straftat gegen die innere oder
+    äußere Sicherheit der Bundesrepublik Deutschland, insbesondere gegen
+    sicherheitsempfindliche Stellen von lebenswichtigen Einrichtungen
+    richtet, oder
+
+
+9.  Straftaten nach § 13 des Völkerstrafgesetzbuches
 
 
 
@@ -288,8 +296,8 @@ des Kalenderjahres, das dem Jahr der Protokollierung folgt, zu
 löschen. Die Löschung der Daten unterbleibt, soweit die Daten für eine
 Mitteilung nach § 12 Abs. 1 oder für eine gerichtliche Nachprüfung der
 Rechtmäßigkeit der Beschränkungsmaßnahme von Bedeutung sein können. In
-diesem Fall sind die Daten zu sperren; sie dürfen nur zu diesen
-Zwecken verwendet werden.
+diesem Fall ist die Verarbeitung der Daten einzuschränken; sie dürfen
+nur zu diesen Zwecken verwendet werden.
 
 (2) Die verbleibenden Daten sind zu kennzeichnen. Nach einer
 Übermittlung ist die Kennzeichnung durch den Empfänger
@@ -307,7 +315,8 @@ die Zustimmung versagt, ist die Kennzeichnung durch den
 Übermittlungsempfänger unverzüglich nachzuholen; die übermittelnde
 Behörde hat ihn hiervon zu unterrichten.
 
-(4) Die Daten dürfen nur übermittelt werden
+(4) Die Daten dürfen an andere als die nach § 1 Absatz 1 Nummer 1
+berechtigten Stellen nur übermittelt werden
 
 1.  zur Verhinderung oder Aufklärung von Straftaten, wenn
 
@@ -334,7 +343,9 @@ Behörde hat ihn hiervon zu unterrichten.
 
 
 soweit sie zur Erfüllung der Aufgaben des Empfängers erforderlich
-sind.
+sind. Bei der Übermittlung an ausländische öffentliche Stellen sowie
+an über- und zwischenstaatliche Stellen ist daneben § 19 Absatz 3 Satz
+2 und 4 des Bundesverfassungsschutzgesetzes anzuwenden.
 
 (5) Sind mit personenbezogenen Daten, die übermittelt werden dürfen,
 weitere Daten des Betroffenen oder eines Dritten in Akten so
@@ -391,7 +402,7 @@ Kenntnis notwendig ist, um die Gefahr
 
 
 6.  der international organisierten Geldwäsche in Fällen von erheblicher
-    Bedeutung oder
+    Bedeutung,
 
 
 7.  des gewerbs- oder bandenmäßig organisierten Einschleusens von
@@ -407,10 +418,17 @@ Kenntnis notwendig ist, um die Gefahr
 
 
     c)  in Fällen von unmittelbarer oder mittelbarer Unterstützung oder
-        Duldung durch ausländische öffentliche Stellen
+        Duldung durch ausländische öffentliche Stellen oder
 
 
 
+
+
+8.  des internationalen kriminellen, terroristischen oder staatlichen
+    Angriffs mittels Schadprogrammen oder vergleichbaren schädlich
+    wirkenden informationstechnischen Mitteln auf die Vertraulichkeit,
+    Integrität oder Verfügbarkeit von IT-Systemen in Fällen von
+    erheblicher Bedeutung mit Bezug zur Bundesrepublik Deutschland
 
 
 
@@ -475,13 +493,13 @@ das dem Jahr der Protokollierung folgt. Außer in den Fällen der
 erstmaligen Prüfung nach Satz 1 unterbleibt die Löschung, soweit die
 Daten für eine Mitteilung nach § 12 Abs. 2 oder für eine gerichtliche
 Nachprüfung der Rechtmäßigkeit der Beschränkungsmaßnahme von Bedeutung
-sein können. In diesem Fall sind die Daten zu sperren; sie dürfen nur
-zu diesen Zwecken verwendet werden.
+sein können. In diesem Fall ist die Verarbeitung der Daten
+einzuschränken; sie dürfen nur zu diesen Zwecken verwendet werden.
 
 (2) Die verbleibenden Daten sind zu kennzeichnen. Nach einer
 Übermittlung ist die Kennzeichnung durch den Empfänger
 aufrechtzuerhalten. Die Daten dürfen nur zu den in § 5 Abs. 1 Satz 3
-genannten Zwecken und für Übermittlungen nach § 7 Abs. 1 bis 4 und §
+genannten Zwecken und für Übermittlungen nach § 7 Abs. 1 bis 4a und §
 7a verwendet werden.
 
 (3) Auf Antrag des Bundesnachrichtendienstes dürfen zur Prüfung der
@@ -505,7 +523,7 @@ Kalenderjahres, das dem Jahr der Protokollierung folgt, zu vernichten.
 ### § 7 Übermittlungen durch den Bundesnachrichtendienst
 
 (1) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
-dürfen nach § 12 des BND-Gesetzes zur Unterrichtung über die in § 5
+dürfen nach § 33 des BND-Gesetzes zur Unterrichtung über die in § 5
 Abs. 1 Satz 3 genannten Gefahren übermittelt werden.
 
 (2) Durch Beschränkungen nach § 5 erhobene personenbezogene Daten
@@ -517,11 +535,17 @@ sowie an den Militärischen Abschirmdienst übermittelt werden, wenn
     in der Bundesrepublik Deutschland, die durch Anwendung von Gewalt oder
     darauf gerichtete Vorbereitungshandlungen gegen die in § 3 Abs. 1 Nr.
     1, 3 und 4 des Bundesverfassungsschutzgesetzes genannten Schutzgüter
-    gerichtet sind, oder
+    gerichtet sind,
 
 
 2.  bestimmte Tatsachen den Verdacht sicherheitsgefährdender oder
-    geheimdienstlicher Tätigkeiten für eine fremde Macht begründen.
+    geheimdienstlicher Tätigkeiten für eine fremde Macht begründen oder
+
+
+3.  im Falle des § 5 Absatz 1 Satz 1 in Verbindung mit Satz 3 Nummer 8
+    tatsächliche Anhaltspunkte dafür bestehen, dass die Angriffe von
+    Bestrebungen oder Tätigkeiten nach § 3 Absatz 1 des
+    Bundesverfassungsschutzgesetzes ausgehen.
 
 
 
@@ -551,11 +575,12 @@ Aufgaben betrauten Behörden übermittelt werden, wenn
 
 1.  tatsächliche Anhaltspunkte für den Verdacht bestehen, dass jemand
 
-    a)  Straftaten nach § 89a oder § 129a, auch in Verbindung mit § 129b Abs.
-        1, sowie den §§ 146, 151 bis 152a oder § 261 des Strafgesetzbuches,
+    a)  Straftaten nach den §§ 89a, 89b, 89c Absatz 1 bis 4 oder § 129a, auch
+        in Verbindung mit § 129b Abs. 1, sowie den §§ 146, 151 bis 152a oder §
+        261 des Strafgesetzbuches,
 
 
-    b)  Straftaten nach § 34 Abs. 1 bis 6 und 8, § 35 des
+    b)  vorsätzliche Straftaten nach den §§ 17 und 18 des
         Außenwirtschaftsgesetzes, §§ 19 bis 21 oder § 22a Abs. 1 Nr. 4, 5 und
         7 des Gesetzes über die Kontrolle von Kriegswaffen oder
 
@@ -568,32 +593,26 @@ Aufgaben betrauten Behörden übermittelt werden, wenn
     plant oder begeht oder
 
 
-2.  bestimmte Tatsachen den Verdacht begründen, dass jemand
-
-    a)  Straftaten, die in § 3 Abs. 1 Satz 1 Nr. 1 bis 5 und 7, Abs. 1 Satz 2
-        oder Abs. 1a dieses Gesetzes oder in § 129a Abs. 1 des
-        Strafgesetzbuches bezeichnet sind,
-
-
-    b)  Straftaten nach den §§ 130, 232 Abs. 3, 4 oder Abs. 5 zweiter
-        Halbsatz, §§ 249 bis 251, 255, 305a, 306 bis 306c, 307 Abs. 1 bis 3, §
-        308 Abs. 1 bis 4, § 309 Abs. 1 bis 5, §§ 313, 314, 315 Abs. 1, 3 oder
-        Abs. 4, § 315b Abs. 3, §§ 316a, 316b Abs. 1 oder Abs. 3 oder § 316c
-        Abs. 1 bis 3 des Strafgesetzbuches oder
-
-
-    c)  Straftaten nach § 96 Abs. 2, auch in Verbindung mit Absatz 4, und § 97
-        Abs. 1 bis 3 des Aufenthaltsgesetzes
+2.  bestimmte Tatsachen den Verdacht begründen, dass jemand eine der in §
+    3 Absatz 1 Satz 1 Nummer 1, 2, 5, 7 und 9, Satz 2 oder Absatz 1a
+    dieses Gesetzes oder eine sonstige der in § 100a Absatz 2 der
+    Strafprozessordnung genannten Straftaten plant oder begeht.
 
 
 
-    plant oder begeht. Die Daten dürfen zur Verfolgung von Straftaten an
-    die zuständigen Behörden übermittelt werden, wenn bestimmte Tatsachen
-    den Verdacht begründen, dass jemand eine in Satz 1 bezeichnete
-    Straftat begeht oder begangen hat.
+Die Daten dürfen zur Verfolgung von Straftaten an die zuständigen
+Behörden übermittelt werden, wenn bestimmte Tatsachen den Verdacht
+begründen, dass jemand eine in Satz 1 bezeichnete Straftat begeht oder
+begangen hat.
 
-
-
+(4a) Durch Beschränkungen nach § 5 Absatz 1 Satz 1 in Verbindung mit
+Satz 3 Nummer 8 erhobene personenbezogene Daten dürfen an das
+Bundesamt für Sicherheit in der Informationstechnik übermittelt
+werden, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die Daten
+erforderlich sind zur Abwehr von Gefahren für die Sicherheit der
+Informationstechnik des Bundes oder zur Sammlung und Auswertung von
+Informationen über Sicherheitsrisiken auch für andere Stellen und
+Dritte.
 
 (5) Die Übermittlung ist nur zulässig, soweit sie zur Erfüllung der
 Aufgaben des Empfängers erforderlich ist. Sind mit personenbezogenen
@@ -615,7 +634,7 @@ Satz 4 und § 6 Abs. 1 Satz 2 und 3 gelten entsprechend.
 ### § 7a Übermittlungen durch den Bundesnachrichtendienst an ausländische öffentliche Stellen
 
 (1) Der Bundesnachrichtendienst darf durch Beschränkungen nach § 5
-Abs. 1 Satz 3 Nr. 2, 3 und 7 erhobene personenbezogene Daten an die
+Abs. 1 Satz 3 Nr. 2, 3, 7 und 8 erhobene personenbezogene Daten an die
 mit nachrichtendienstlichen Aufgaben betrauten ausländischen
 öffentlichen Stellen übermitteln, soweit
 
@@ -638,8 +657,8 @@ mit nachrichtendienstlichen Aufgaben betrauten ausländischen
 Die Übermittlung bedarf der Zustimmung des Bundeskanzleramtes.
 
 (2) Der Bundesnachrichtendienst darf unter den Voraussetzungen des
-Absatzes 1 durch Beschränkungen nach § 5 Abs. 1 Satz 3 Nr. 2, 3 und 7
-erhobene personenbezogene Daten ferner im Rahmen von Artikel 3 des
+Absatzes 1 durch Beschränkungen nach § 5 Abs. 1 Satz 3 Nr. 2, 3, 7 und
+8 erhobene personenbezogene Daten ferner im Rahmen von Artikel 3 des
 Zusatzabkommens zu dem Abkommen zwischen den Parteien des
 Nordatlantikvertrages über die Rechtsstellung ihrer Truppen
 hinsichtlich der in der Bundesrepublik Deutschland stationierten
@@ -720,7 +739,7 @@ Löschung ist zu protokollieren. § 6 Abs. 1 Satz 4 und 5, Abs. 2 Satz 1
 und 2 gilt entsprechend. Die Daten dürfen nur zu den in den Absätzen
 1, 5 und 6 genannten Zwecken verwendet werden.
 
-(5) Die erhobenen personenbezogenen Daten dürfen nach § 12 des BND-
+(5) Die erhobenen personenbezogenen Daten dürfen nach § 33 des BND-
 Gesetzes zur Unterrichtung über die in Absatz 1 genannte Gefahr
 übermittelt werden.
 
@@ -753,7 +772,7 @@ angeordnet werden.
 2.  die Verfassungsschutzbehörden der Länder,
 
 
-3.  das Amt für den Militärischen Abschirmdienst und
+3.  der Militärische Abschirmdienst und
 
 
 4.  der Bundesnachrichtendienst
@@ -891,12 +910,13 @@ Bundestag jährlich einen Bericht über Durchführung sowie Art und
 Umfang der Maßnahmen nach den §§ 3, 5, 7a und 8; dabei sind die
 Grundsätze des § 10 Absatz 1 des Kontrollgremiumgesetzes zu beachten.
 
-(2) Bei Gefahr im Verzuge kann die Zustimmung zu Bestimmungen nach den
-§§ 5 und 8 durch den Vorsitzenden des Parlamentarischen
-Kontrollgremiums und seinen Stellvertreter vorläufig erteilt werden.
-Die Zustimmung des Parlamentarischen Kontrollgremiums ist unverzüglich
-einzuholen. Die vorläufige Zustimmung tritt spätestens nach zwei
-Wochen außer Kraft.
+(2) Bei Gefahr im Verzug kann das zuständige Bundesministerium die
+Bestimmungen nach den §§ 5 und 8 vorläufig treffen und das
+Parlamentarische Kontrollgremium durch seinen Vorsitzenden und dessen
+Stellvertreter vorläufig zustimmen. Die Zustimmung des
+Parlamentarischen Kontrollgremiums ist unverzüglich einzuholen. Die
+Bestimmung tritt außer Kraft, wenn die vorläufige Zustimmung nicht
+binnen drei Tagen und die Zustimmung nicht binnen zwei Wochen erfolgt.
 
 
 ### § 15 G 10-Kommission
@@ -912,7 +932,9 @@ Parlamentarischen Kontrollgremium nach Anhörung der Bundesregierung
 für die Dauer einer Wahlperiode des Deutschen Bundestages mit der
 Maßgabe bestellt, dass ihre Amtszeit erst mit der Neubestimmung der
 Mitglieder der Kommission, spätestens jedoch drei Monate nach Ablauf
-der Wahlperiode endet.
+der Wahlperiode endet. Die oder der Ständige Bevollmächtigte des
+Parlamentarischen Kontrollgremiums nimmt regelmäßig an den Sitzungen
+der G 10-Kommission teil.
 
 (2) Die Beratungen der G 10-Kommission sind geheim. Die Mitglieder der
 Kommission sind zur Geheimhaltung der Angelegenheiten verpflichtet,
@@ -921,7 +943,8 @@ Dies gilt auch für die Zeit nach ihrem Ausscheiden aus der Kommission.
 
 (3) Der G 10-Kommission ist die für die Erfüllung ihrer Aufgaben
 notwendige Personal- und Sachausstattung zur Verfügung zu stellen; sie
-ist im Einzelplan des Deutschen Bundestages gesondert auszuweisen. Der
+ist im Einzelplan des Deutschen Bundestages gesondert im Kapitel für
+die parlamentarische Kontrolle der Nachrichtendienste auszuweisen. Der
 Kommission sind Mitarbeiter mit technischem Sachverstand zur Verfügung
 zu stellen.
 
@@ -933,11 +956,10 @@ Bundesregierung zu hören.
 (5) Die G 10-Kommission entscheidet von Amts wegen oder auf Grund von
 Beschwerden über die Zulässigkeit und Notwendigkeit von
 Beschränkungsmaßnahmen. Die Kontrollbefugnis der Kommission erstreckt
-sich auf die gesamte Erhebung, Verarbeitung und Nutzung der nach
-diesem Gesetz erlangten personenbezogenen Daten durch
-Nachrichtendienste des Bundes einschließlich der Entscheidung über die
-Mitteilung an Betroffene. Der Kommission und ihren Mitarbeitern ist
-dabei insbesondere
+sich auf die gesamte Verarbeitung der nach diesem Gesetz erlangten
+personenbezogenen Daten durch Nachrichtendienste des Bundes
+einschließlich der Entscheidung über die Mitteilung an Betroffene. Der
+Kommission und ihren Mitarbeitern ist dabei insbesondere
 
 1.  Auskunft zu ihren Fragen zu erteilen,
 
@@ -958,12 +980,17 @@ Gelegenheit zur Stellungnahme in Fragen des Datenschutzes geben.
 10-Kommission über die von ihm angeordneten Beschränkungsmaßnahmen vor
 deren Vollzug. Bei Gefahr im Verzuge kann es den Vollzug der
 Beschränkungsmaßnahmen auch bereits vor der Unterrichtung der
-Kommission anordnen. Anordnungen, die die Kommission für unzulässig
-oder nicht notwendig erklärt, hat das zuständige Bundesministerium
-unverzüglich aufzuheben. In den Fällen des § 8 tritt die Anordnung
-außer Kraft, wenn sie nicht binnen drei Tagen vom Vorsitzenden oder
-seinem Stellvertreter bestätigt wird. Die Bestätigung der Kommission
-ist unverzüglich nachzuholen.
+Kommission anordnen. Bei Gefahr im Verzug darf am Tag der Beantragung
+bereits vor der Anordnung der Beschränkungsmaßnahme mit der
+Datenerhebung begonnen werden. Die bereits erhobenen Daten dürfen erst
+nach der Anordnung genutzt werden. Erfolgt die Anordnung nicht binnen
+24 Stunden nach Beantragung, sind die erhobenen Daten unverzüglich
+automatisiert und unwiederbringlich zu löschen. Anordnungen, die die
+Kommission für unzulässig oder nicht notwendig erklärt, hat das
+zuständige Bundesministerium unverzüglich aufzuheben. In den Fällen
+des § 8 tritt die Anordnung außer Kraft, wenn sie nicht binnen drei
+Tagen vom Vorsitzenden oder seinem Stellvertreter bestätigt wird. Die
+Bestätigung der Kommission ist unverzüglich nachzuholen.
 
 (7) Das zuständige Bundesministerium unterrichtet monatlich die G
 10-Kommission über Mitteilungen von Bundesbehörden nach § 12 Abs. 1
@@ -971,6 +998,11 @@ und 2 oder über die Gründe, die einer Mitteilung entgegenstehen. Hält
 die Kommission eine Mitteilung für geboten, ist diese unverzüglich
 vorzunehmen. § 12 Abs. 3 Satz 2 bleibt unberührt, soweit das Benehmen
 einer Landesbehörde erforderlich ist.
+
+(8) Die G 10-Kommission und das Parlamentarische Kontrollgremium
+tauschen sich regelmäßig unter Wahrung der jeweils geltenden
+Geheimhaltungsvorschriften über allgemeine Angelegenheiten ihrer
+Kontrolltätigkeit aus.
 
 
 ### § 16 Parlamentarische Kontrolle in den Ländern
@@ -980,8 +1012,7 @@ nach § 10 Abs. 1 für die Anordnung von Beschränkungsmaßnahmen
 zuständigen obersten Landesbehörden und die Überprüfung der von ihnen
 angeordneten Beschränkungsmaßnahmen geregelt. Personenbezogene Daten
 dürfen nur dann an Landesbehörden übermittelt werden, wenn die
-Kontrolle ihrer Verarbeitung und Nutzung durch den Landesgesetzgeber
-geregelt ist.
+Kontrolle ihrer Verarbeitung durch den Landesgesetzgeber geregelt ist.
 
 
 ## Abschnitt 6 - Straf- und Bußgeldvorschriften
@@ -991,7 +1022,7 @@ geregelt ist.
 ### § 17 Mitteilungsverbote
 
 (1) Wird die Telekommunikation nach diesem Gesetz oder nach den §§
-100a, 100b der Strafprozessordnung überwacht, darf diese Tatsache von
+100a, 100e der Strafprozessordnung überwacht, darf diese Tatsache von
 Personen, die Telekommunikationsdienste erbringen oder an der
 Erbringung solcher Dienste mitwirken, anderen nicht mitgeteilt werden.
 

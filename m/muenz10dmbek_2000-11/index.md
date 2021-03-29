@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "Albert Gustav Lortzing 1801-1851")
 jurabk: Münz10DMBek 2000-11
 layout: default
-origslug: m_nz10dmbek_2000-11
+origslug: muenz10dmbek_2000-11
 slug: muenz10dmbek_2000-11
 
 ---
@@ -87,7 +87,7 @@ Bei den Münzen in der Qualität Spiegelglanz erscheinen die Münzzeichen
 "A", "D", "F", "G" und "J".
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 "ZAR UND ZIMMERMANN
-\* WILDSCHUETZ \* UNDINE".
+* WILDSCHUETZ \* UNDINE".
 Der Entwurf der Münze stammt von Herrn Frantisek Chochola, Hamburg.
 
 Der Bundesminister der Finanzen

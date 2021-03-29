@@ -3,7 +3,7 @@ Title: Verordnung zur Umstellung des Gebührenverzeichnisses der Kostenverordnun
   die Prüfung überwachungsbedürftiger Anlagen auf Euro
 jurabk: TÜPrKostO1992GebVUmstV
 layout: default
-origslug: t_prkosto1992gebvumstv
+origslug: tueprkosto1992gebvumstv
 slug: tueprkosto1992gebvumstv
 
 ---

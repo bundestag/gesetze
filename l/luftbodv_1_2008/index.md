@@ -44,7 +44,7 @@ Zivilluftfahrt in der jeweils geltenden Fassung.
 Begriffsbestimmungen der OPS 1.1095.
 
 
-## § 2 Notfallausrüstung *% (zu OPS 1.005 Abs. b und § 19 Abs. 2 LuftBO)
+## § 2 Notfallausrüstung \*% (zu OPS 1.005 Abs. b und § 19 Abs. 2 LuftBO)
 
 (1) Der Brandschutz in den Fluggast-, Fracht- und Besatzungsräumen
 muss dem Stand der Technik entsprechen. Die Aufsichtsbehörde kann
@@ -60,7 +60,7 @@ die Sicherheit der Fluggäste, der Besatzungsmitglieder und des
 Betriebes gewährleistet ist.
 
 
-## § 3 Unfallverhütung und Flugsicherheitsprogramm *% (zu OPS 1.035 und 1.037)
+## § 3 Unfallverhütung und Flugsicherheitsprogramm \*% (zu OPS 1.035 und 1.037)
 
 (1) Bis zum 1. Januar 2009 muss der Luftfahrtunternehmer ein den
 Anforderungen der Aufsichtsbehörde entsprechendes
@@ -149,7 +149,7 @@ müssen im Betriebshandbuch nach OPS 1.1045 des Luftfahrtunternehmers
 beschrieben werden.
 
 
-## § 4 Zutritt zum Führerraum *% (zu OPS 1.100 Abs. a Nr. 3)
+## § 4 Zutritt zum Führerraum \*% (zu OPS 1.100 Abs. a Nr. 3)
 
 (1) Das Betriebshandbuch hat hinsichtlich des Zutritts von Personen
 zum Führerraum festzulegen, dass Personen gemäß OPS 1.100 Abs. a Nr. 3
@@ -171,7 +171,7 @@ Fachbereichsleiters eine Zutrittsbefugnis für einen Flug erteilt
 werden.
 
 
-## § 5 Mindestsichten für den Flugbetrieb nach Sichtflugregeln *% (zu Anhang 1 zu OPS 1.465)
+## § 5 Mindestsichten für den Flugbetrieb nach Sichtflugregeln \*% (zu Anhang 1 zu OPS 1.465)
 
 In der Bundesrepublik Deutschland dürfen Flugzeuge der Kategorien A
 und B gemäß Anlage 2 zu OPS 1.430 Buchstabe c in Lufträumen der
@@ -180,7 +180,7 @@ werden, vorausgesetzt die angezeigte Fluggeschwindigkeit (IAS) beträgt
 140 Knoten oder weniger.
 
 
-## § 6 Rückhaltesysteme für Kleinkinder *% (zu OPS 1.730)
+## § 6 Rückhaltesysteme für Kleinkinder \*% (zu OPS 1.730)
 
 Das Luftfahrt-Bundesamt prüft, ob Rückhaltesysteme zur Sicherung von
 Kleinkindern so gestaltet sind, dass sie die Anforderungen nach OPS
@@ -188,7 +188,7 @@ Kleinkindern so gestaltet sind, dass sie die Anforderungen nach OPS
 gewährleisten.
 
 
-## § 7 Instandhaltungsbestimmungen für Luftfahrtunternehmen mit einer Betriebsgenehmigung für gewerbsmäßige Rundflüge *% (zu OPS 1.875)
+## § 7 Instandhaltungsbestimmungen für Luftfahrtunternehmen mit einer Betriebsgenehmigung für gewerbsmäßige Rundflüge \*% (zu OPS 1.875)
 
 Für Luftfahrtunternehmen, die nach § 20 Abs. 1 Nr. 1 des
 Luftverkehrsgesetzes eine Betriebsgenehmigung für gewerbsmäßige
@@ -201,7 +201,7 @@ Zulassungen und die Anhänge I und III (ABl. EU Nr. L 122 vom 9. Mai
 2006, S. 171) anzuwenden.
 
 
-## § 8 Flug- und Dienstzeit-Begrenzung *% (zu OPS 1.1100)
+## § 8 Flug- und Dienstzeit-Begrenzung \*% (zu OPS 1.1100)
 
 (1) Die höchstzulässige kalenderjährliche Dienstzeit beträgt 2.000
 Stunden. Bei nicht ganzjähriger Beschäftigung ist die höchstzulässige
@@ -226,7 +226,7 @@ Anzahl der Ortstage anteilig gekürzt werden.
 (5) Die Absätze 1 bis 4 gelten nicht für Selbstständige.
 
 
-## § 9 Höchstzulässige ununterbrochene Dienstzeit *% (zu OPS 1.1105)
+## § 9 Höchstzulässige ununterbrochene Dienstzeit \*% (zu OPS 1.1105)
 
 (1) Folgende Dienstzeiten dürfen in ihrer Summe die zu Beginn der
 Dienstzeit höchstzulässige Flugdienstzeit nach OPS 1.1105 oder die
@@ -284,7 +284,7 @@ Sinne der Absätze 1 bis 6.
 ausschließlich aus einer Positionierung bestehen.
 
 
-## § 10 Höchstzulässige tägliche Flugdienstzeit für den Flugbetrieb mit nur einem Piloten und für medizinische Notfalleinsätze *% (zu OPS 1.1105)
+## § 10 Höchstzulässige tägliche Flugdienstzeit für den Flugbetrieb mit nur einem Piloten und für medizinische Notfalleinsätze \*% (zu OPS 1.1105)
 
 (1) Für den Flugbetrieb mit nur einem Piloten und für medizinische
 Notfalleinsätze gelten die Bestimmungen gemäß OPS 1.1105 entsprechend.
@@ -295,7 +295,7 @@ eine Verlängerung gemäß den Nummern 2.1 bis 2.7 der OPS 1.1105 ist in
 diesem Fall ausgeschlossen.
 
 
-## § 11 Unterbrochene Flugdienstzeit *% (zu OPS 1.1105)
+## § 11 Unterbrochene Flugdienstzeit \*% (zu OPS 1.1105)
 
 (1) Wird die Flugdienstzeit nach OPS 1.1105 oder § 10 planmäßig durch
 eine Pause am Boden von mindestens drei Stunden unterbrochen und steht
@@ -327,7 +327,7 @@ folgende Maßgaben:
 
 
 
-## § 12 Ruhezeit - Berücksichtigung von Zeitzonenunterschieden *% (zu OPS 1.1110 Nr. 1.3)
+## § 12 Ruhezeit - Berücksichtigung von Zeitzonenunterschieden \*% (zu OPS 1.1110 Nr. 1.3)
 
 Besteht zwischen dem Ort des Antritts des Flugdienstes und dem Ort der
 Beendigung des Flugdienstes (Einsatzorte) ein Zeitzonenunterschied von
@@ -347,7 +347,7 @@ Rückkehr zur Heimatbasis als nicht diensttuendes Besatzungsmitglied
 entsprechend.
 
 
-## § 13 Verkürzte Ruhezeiten in besonderen Fällen *% (zu OPS 1.1110 Nr. 1.4.1 und 2.1)
+## § 13 Verkürzte Ruhezeiten in besonderen Fällen \*% (zu OPS 1.1110 Nr. 1.4.1 und 2.1)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag Abweichungen
 von den Vorschriften von § 12 sowie gemäß OPS 1.1110 Nr. 1.4.1
@@ -401,7 +401,7 @@ für die Sicherheit des Luftverkehrs ausgeschlossen ist.
 
 
 
-## § 14 Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs *% (zu OPS 1.1115)
+## § 14 Verlängerung der Flugdienstzeit aufgrund einer Ruhezeit während des Flugs \*% (zu OPS 1.1115)
 
 (1) Die Aufsichtsbehörde kann auf schriftlichen Antrag eine zweimalige
 Verlängerung der Flugdienstzeit nach OPS 1.1105 Nr. 1.3 oder § 10 bis
@@ -435,7 +435,7 @@ gilt § 13 Abs. 3 und 4 entsprechend.
 
 
 
-## § 15 Bereitschaft *% (zu OPS 1.1125)
+## § 15 Bereitschaft \*% (zu OPS 1.1125)
 
 (1) Bereitschaftszeit ist als Flugdienstzeit anzurechnen, wenn
 Bereitschaftszeit und Flugdienstzeit nicht durch eine Ruhezeit nach
@@ -464,7 +464,7 @@ Ruhezeit angerechnet werden.. Gleiches gilt für eine entsprechende
 Bereitschaftszeit vor einer Ruhezeit.
 
 
-## § 16 Schulungsprogramme *% (zu OPS 1.1240)
+## § 16 Schulungsprogramme \*% (zu OPS 1.1240)
 
 Die zuständige Behörde genehmigt auf Antrag ein Schulungsprogramm für
 die Luftsicherheit. Das Programm für die Besatzungsmitglieder muss
@@ -509,5 +509,13 @@ mindestens folgende Inhalte umfassen:
 
 (1) Diese Verordnung tritt am 16. Juli 2008 in Kraft.
 
-(2)
+(2) Gleichzeitig treten die Erste Durchführungsverordnung zur
+Betriebsordnung für Luftfahrtgerät (Ausrüstung der Luftfahrzeuge . und
+Flugbetrieb in Luftfahrtunternehmen - (1. DV LuftBO) vom 15. Juli 1970
+(BAnz. Nr. 131.vom 22. Juli 1970 [Beilage 20/70], zuletzt geändert
+durch Artikel 532 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
+2407), und die Fünfte Durchführungsverordnung zur Betriebsordnung für
+Luftfahrtgerät (Anwendungsbestimmungen zu den JAR-OPS1 deutsch -
+Gewerbsmäßige Beförderung von Personen und Sachen in Flugzeugen - 5.
+DV LuftBO) vom 12. Juli 2007 (BAnz. S. 7047) außer Kraft.
 

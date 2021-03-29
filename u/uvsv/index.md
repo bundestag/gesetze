@@ -24,11 +24,10 @@ Fundstelle
     Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom
     16\.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S.
     49), die zuletzt durch die Verordnung (EG) Nr. 279/2009 (ABl. L 93 vom
-    7\.4.2009, S. 11) geändert worden ist.                 Die
-    Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
-    Parlaments und des Rates vom 22. Juni 1998 über ein
-    Informationsverfahren auf dem Gebiet der Normen und technischen
-    Vorschriften und der Vorschriften für die Dienste der
+    7\.4.2009, S. 11) geändert worden ist.  Die Verpflichtungen aus der
+    Richtlinie 98/34/EG des Europäischen Parlaments und des Rates vom 22.
+    Juni 1998 über ein Informationsverfahren auf dem Gebiet der Normen und
+    technischen Vorschriften und der Vorschriften für die Dienste der
     Informationsgesellschaft (ABl. L 204 vom 21.7.1998, S. 37), die
     zuletzt durch die Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S.
     1) geändert worden ist, sind beachtet worden.
@@ -75,17 +74,16 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 
 6.  „Erythemwirksame Bestrahlungsstärke (E
-    ery                   )“ ist die Summation des Produktes aus
-    gemessener spektraler Bestrahlungsstärke (E
-    λ                   ) in Watt pro Quadratmeter und Nanometer (Wm
-    -2                   nm
-    -1                   ), dem jeweiligen wellenlängenabhängigen
-    Wichtungsfaktor (S
-    λ                   ) für das UV-Erythem nach Anlage 2 und dem
-    jeweiligen Intervall der Wellenlänge Δ
-    λ                    in Nanometern (nm), wobei gilt Δ
-    λ                    < 2,5 Nanometer (nm), über den
-    Wellenlängenbereich von 250 bis 400 Nanometern (nm):
+    ery)“ ist die Summation des Produktes aus gemessener spektraler
+    Bestrahlungsstärke (E
+    λ) in Watt pro Quadratmeter und Nanometer (Wm
+    -2nm
+    -1), dem jeweiligen wellenlängenabhängigen Wichtungsfaktor (S
+    λ) für das UV-Erythem nach Anlage 2 und dem jeweiligen Intervall der
+    Wellenlänge Δ
+    λ in Nanometern (nm), wobei gilt Δ
+    λ < 2,5 Nanometer (nm), über den Wellenlängenbereich von 250 bis 400
+    Nanometern (nm):
 
 
     *        *
@@ -96,14 +94,14 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 
 7.  „Gesamte Bestrahlungsstärke (E
-    ges                   )“ ist die Summation des Produktes aus
-    gemessener spektraler Bestrahlungsstärke (E
-    λ                   ) in Watt pro Quadratmeter und Nanometer (Wm
-    -2                   nm
-    -1                   ) und dem jeweiligen Intervall der Wellenlänge Δ
-    λ                    in Nanometern, wobei gilt Δ
-    λ                    < 2,5 Nanometer (nm), über den
-    Wellenlängenbereich von 200 bis 280 Nanometern (nm):
+    ges)“ ist die Summation des Produktes aus gemessener spektraler
+    Bestrahlungsstärke (E
+    λ) in Watt pro Quadratmeter und Nanometer (Wm
+    -2nm
+    -1) und dem jeweiligen Intervall der Wellenlänge Δ
+    λ in Nanometern, wobei gilt Δ
+    λ < 2,5 Nanometer (nm), über den Wellenlängenbereich von 200 bis 280
+    Nanometern (nm):
 
 
     *        *
@@ -115,15 +113,14 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 8.  „Erythemwirksame Bestrahlung“ ist die Bestrahlung in Joule pro
     Quadratmeter (Jm
-    -2                   ), die ermittelt wird durch Multiplikation der
-    erythemwirksamen Bestrahlungsstärke mit der Bestrahlungsdauer in
-    Sekunden;
+    -2), die ermittelt wird durch Multiplikation der erythemwirksamen
+    Bestrahlungsstärke mit der Bestrahlungsdauer in Sekunden;
 
 
 9.  „Erythemwirksame Schwellenbestrahlung“ ist der Wert der
     erythemwirksamen Bestrahlung in Joule pro Quadratmeter (Jm
-    -2                   ), der bei nicht vorbestrahlter Haut ein gerade
-    noch erkennbares UV-Erythem hervorruft;
+    -2), der bei nicht vorbestrahlter Haut ein gerade noch erkennbares UV-
+    Erythem hervorruft;
 
 
 10. „Höchstbestrahlungsdauer“ ist die Bestrahlungsdauer, die bei gegebener
@@ -148,7 +145,7 @@ Für diese Verordnung gelten folgende Begriffsbestimmungen:
 
 2.  im Wellenlängenbereich von 200 bis 280 Nanometern der Wert der
     gesamten Bestrahlungsstärke von 3 x 10
-    -3                    Watt pro Quadratmeter nicht überschritten wird.
+    -3 Watt pro Quadratmeter nicht überschritten wird.
 
 
 
@@ -206,8 +203,31 @@ und 2 erfüllt sind.
 
 ## § 4 Einsatz, Aufgaben und Qualifikation des Fachpersonals
 
-(1)
-(künftig in Kraft)
+(1) Wer ein UV-Bestrahlungsgerät betreibt, hat sicherzustellen, dass
+
+1.  mindestens eine als Fachpersonal für den Umgang mit UV-
+    Bestrahlungsgeräten nach Absatz 4 qualifizierte Person (Fachpersonal)
+    während der Betriebszeiten der UV-Bestrahlungsgeräte für den Kontakt
+    mit den Nutzerinnen oder den Nutzern und die Überprüfung der UV-
+    Bestrahlungsgeräte anwesend ist,
+
+
+2.  das Fachpersonal anbietet, die Nutzerin oder den Nutzer in die sichere
+    Bedienung des UV-Bestrahlungsgerätes einschließlich der Notabschaltung
+    einzuweisen,
+
+
+3.  das Fachpersonal anbietet, eine auf die Person abgestimmte
+    Hauttypbestimmung nach Anlage 1 vorzunehmen,
+
+
+4.  das Fachpersonal anbietet, einen auf die Person abgestimmten
+    Dosierungsplan nach Anlage 5 zu erstellen.
+
+
+
+Es ist ausreichend, die Angebote nach Satz 1 Nummer 2 bis 4 zu Beginn
+einer Bestrahlungsserie nach Anlage 5 Nummer 3 zu unterbreiten.
 
 (2) Wer nicht mehr als zwei UV-Bestrahlungsgeräte an einem
 Aufstellungsort betreibt, kann von Absatz 1 Satz 1 Nummer 1 abweichen,
@@ -320,12 +340,12 @@ Wirtschaftsraum ausgestellt worden sind und
     zum Nachweis dieser zweijährigen Berufserfahrung entfällt, wenn der
     Ausbildungsnachweis den Abschluss einer reglementierten Ausbildung im
     Sinne des Artikels 13 Absatz 2 Unterabsatz 3 der Richtlinie
-    2005/36/EG                    des Europäischen Parlaments und des
-    Rates vom 7. September 2005 über die Anerkennung von
-    Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S. 22, L 271 vom
-    16\.10.2007, S. 18, L 93 vom 4.4.2008, S. 28, L 33 vom 3.2.2009, S.
-    49), die zuletzt durch die Verordnung (EG) Nr. 279/2009 (ABl. L 93 vom
-    7\.4.2009, S. 11) geändert worden ist, bestätigt.
+    2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
+    2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
+    30\.9.2005, S. 22, L 271 vom 16.10.2007, S. 18, L 93 vom 4.4.2008, S.
+    28, L 33 vom 3.2.2009, S. 49), die zuletzt durch die Verordnung (EG)
+    Nr. 279/2009 (ABl. L 93 vom 7.4.2009, S. 11) geändert worden ist,
+    bestätigt.
 
 
 
@@ -368,11 +388,11 @@ UV-Bestrahlungsgerät angebracht sind:
 
 2.  ein Hinweis mit der Überschrift „Warnung“ und folgendem oder
     sinngemäßem Inhalt: „Vorsicht!
-    UV-Strahlung                    kann akute Schäden an Augen und Haut
-    verursachen, führt zu vorzeitiger Hautalterung und erhöht das Risiko,
-    an Hautkrebs zu erkranken. Empfehlungen zum Gesundheitsschutz
-    beachten! Schutzbrille tragen! Medikamente und Kosmetika können die
-    UV-Empfindlichkeit der Haut erhöhen. “
+    UV-Strahlung kann akute Schäden an Augen und Haut verursachen, führt
+    zu vorzeitiger Hautalterung und erhöht das Risiko, an Hautkrebs zu
+    erkranken. Empfehlungen zum Gesundheitsschutz beachten! Schutzbrille
+    tragen! Medikamente und Kosmetika können die UV-Empfindlichkeit der
+    Haut erhöhen. “
 
 
 
@@ -468,8 +488,9 @@ Zertifikat vor mehr als fünf Jahren ausgestellt worden ist.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3)
 
-## Anlage 1 (zu § 2 Nummer 4; § 4 Absatz 1 Nummer 3) Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
+## Anlage 1 Beschreibung der Hauttypen, ihre Reaktion auf UV-Bestrahlung und Verfahren zur Bestimmung der Hauttypen
 
 (Fundstelle: BGBl. I 2011, 1416 - 1418)
 
@@ -906,7 +927,7 @@ Alter ≥ 18 Jahre: Ja ............
     *   4
 
 
-*    *   Summe (*                     )
+*    *   Summe (*)
 
     *
 
@@ -966,13 +987,13 @@ Wirkungsfunktion mit Parametern festgelegt:
     *   1
 
 
-*    *   298*                        λ*                        328
+*    *   298* λ* 328
 
     *   10
         0,094 (298 – λ)
 
 
-*    *   328 < λ*                        400
+*    *   328 < λ* 400
 
     *   10
         0,015 (140 – λ)
@@ -980,8 +1001,9 @@ Wirkungsfunktion mit Parametern festgelegt:
 
 
 
+(zu § 3 Absatz 2 Nummer 1)
 
-## Anlage 3 (zu § 3 Absatz 2 Nummer 1) UV-Schutzbrillen
+## Anlage 3 UV-Schutzbrillen
 
 (Fundstelle: BGBl. I 2011, 1419 )
 
@@ -991,8 +1013,9 @@ Verlag GmbH oder die Beuth Verlag GmbH, beide Berlin, zu beziehen und
 beim Deutschen Patent- und Markenamt archivmäßig gesichert
 niedergelegt), erfüllen.
 
+(zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2)
 
-## Anlage 4 (zu § 3 Absatz 3 Satz 2; § 8 Absatz 1 Satz 2) Geräte- und Betriebsbuch
+## Anlage 4 Geräte- und Betriebsbuch
 
 (Fundstelle: BGBl. I 2011, 1420 - 1422)
 
@@ -1040,16 +1063,15 @@ Transparente Auflagefläche:
 
 Kürzester zulässiger Bestrahlungsabstand:*
 ......................................................
-cm*              durch die Bauart des UV-Bestrahlungsgerätes
-vorgegeben
+cm* durch die Bauart des UV-Bestrahlungsgerätes vorgegeben
 
 Erythemwirksame Bestrahlungsstärke
 
 beim kürzesten zulässigen Bestrahlungsabstand:
 ...........................................................
 Wm
--2              (max. 0,3 Wm
--2             )
+-2 (max. 0,3 Wm
+-2)
 
 (Angabe des Messverfahrens:
 ..................................................................
@@ -1143,16 +1165,16 @@ Höchstbestrahlungsdauer beim kürzesten zulässigen Bestrahlungsabstand:
 
 *    *   Notabschaltung nach § 3 Absatz 2 Nummer 3 UVSV ist vorhanden
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 *    *   Geräteaufschriften nach § 7 Absatz 2 UVSV sind vorhanden
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 
@@ -1215,16 +1237,16 @@ Eine Kopie der Teilnahmebescheinigung ist dem Betriebsbuch beizufügen.
 
 *    *   Hinweise nach § 7 Absatz 1 UVSV sind vorhanden
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 *    *   Schutzbrillen nach § 3 Absatz 2 UVSV sind vorhanden
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 
@@ -1274,16 +1296,16 @@ Stand des Betriebsstundenzählers:
 
 *    *   Zwangsabschaltung auf Funktion geprüft
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 *    *   Notabschaltung auf Funktion geprüft
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 
@@ -1330,11 +1352,11 @@ Stand des Betriebsstundenzählers:
 
 *    *   Das UV-Bestrahlungsgerät
 
-    *   *                        ist zur weiteren Verwendung geeignet.
+    *   * ist zur weiteren Verwendung geeignet.
 
 
 *    *
-    *   *                        darf nicht in Betrieb genommen werden.
+    *   * darf nicht in Betrieb genommen werden.
 
 
 
@@ -1345,9 +1367,9 @@ Stand des Betriebsstundenzählers:
 *    *   Optische Bauteile des UV-Bestrahlungsgerätes wurden gewechselt und
         geprüft
 
-    *   *                        ja
+    *   * ja
 
-    *   *                        nein
+    *   * nein
 
 
 
@@ -1477,8 +1499,9 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
     Äquivalenzbescheinigungen sind dem Geräte- und Betriebsbuch als Anlage
     beizufügen.
 [^F775557_04_BJNR141200011BJNE001700000]: 
+(zu § 4 Absatz 1 bis 3)
 
-## Anlage 5 (zu § 4 Absatz 1 bis 3) Dosierungsplan
+## Anlage 5 Dosierungsplan
 
 (Fundstelle: BGBl. I 2011, 1423)
 
@@ -1515,7 +1538,7 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
 
     –   Einheitliche erste Bestrahlung ungebräunter Haut von 100 Jm
-        -2                         .
+        -2.
 
 
     –   Maximal eine UV-Bestrahlung pro Tag (Sonne oder UV-Bestrahlungsgerät).
@@ -1553,7 +1576,7 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
         zwei Bestrahlungen von mehr als vier Wochen. Die erste Bestrahlung
         nach einer Beendigung darf eine maximale erythemwirksame Bestrahlung
         von 100 Jm
-        -2                          nicht überschreiten.
+        -2 nicht überschreiten.
 
 
     –   Bei Unterbrechung einer Bestrahlungsserie von mehr als einer und bis
@@ -1668,10 +1691,8 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
 
     Bei einer erythemwirksamen Bestrahlungsstärke von 0,3 Wm
-    –2                    entspricht eine Bestrahlung mit einer Dosis von
-    100 Jm
-    –2                    einer Nutzungsdauer von ungefähr 5 Minuten und
-    30 Sekunden.
+    –2 entspricht eine Bestrahlung mit einer Dosis von 100 Jm
+    –2 einer Nutzungsdauer von ungefähr 5 Minuten und 30 Sekunden.
 
 
 5.  **Hinweise zur Anwendung des Dosierungsplans**
@@ -1691,8 +1712,9 @@ Beim Betreiberwechsel ist das Geräte- und Betriebsbuch zu übergeben.
 
     Ausschlusskriterium: UV-Bestrahlungsgerät sollte nicht genutzt werden.
 [^F5_775557_BJNR141200011BJNE001800000]: 
+(zu § 5 Absatz 1 Satz 1)
 
-## Anlage 6 (zu § 5 Absatz 1 Satz 1) Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
+## Anlage 6 Schulungsinhalte für das Fachpersonal für den Umgang mit UV-Bestrahlungsgeräten
 
 (Fundstelle: BGBl. I 2011, 1424 - 1425)
 
@@ -1854,8 +1876,9 @@ fachlich korrektes Beratungsgespräch zu führen und auf Kundenfragen
 zur UV-Bestrahlung und zu den damit verbundenen gesundheitlichen
 Risiken zu antworten.
 
+(zu § 7 Absatz 1)
 
-## Anlage 7 (zu § 7 Absatz 1) Hinweise im Geschäftsraum und in der Kabine
+## Anlage 7 Hinweise im Geschäftsraum und in der Kabine
 
 (Fundstelle: BGBl. I 2011, 1426)
 
@@ -1987,8 +2010,9 @@ Aus Gründen des Gesundheitsschutzes wird empfohlen:
 Bei Bedarf/Bei Interesse können Sie gerne eine persönliche Beratung
 von unserem qualifizierten Fachpersonal erhalten.
 
+(zu § 7 Absatz 4)
 
-## Anlage 8 (zu § 7 Absatz 4) Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
+## Anlage 8 Informationsschrift zu den Gefahren und Risiken einer UV-Bestrahlung
 
 (Fundstelle: BGBl. I 2011, 1427 - 1428)
 

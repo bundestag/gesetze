@@ -19,7 +19,7 @@ Neugefasst durch
 :   durch Bek. v. 15.10.2002 I 4130;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 7.12.2011 I 2592
+:   Art. 11 G v. 20.12.2016 I 3000
 
 
 ## § 1 Erhebung eines Solidaritätszuschlags
@@ -28,8 +28,9 @@ Zuletzt geändert durch
 Solidaritätszuschlag als Ergänzungsabgabe erhoben.
 
 (2) Auf die Festsetzung und Erhebung des Solidaritätszuschlags sind
-die Vorschriften des Einkommensteuergesetzes und des
-Körperschaftsteuergesetzes entsprechend anzuwenden.
+die Vorschriften des Einkommensteuergesetzes mit Ausnahme des § 36a
+des Einkommensteuergesetzes und des Körperschaftsteuergesetzes
+entsprechend anzuwenden.
 
 (3) Ist die Einkommen- oder Körperschaftsteuer für Einkünfte, die dem
 Steuerabzug unterliegen, durch den Steuerabzug abgegolten oder werden
@@ -134,22 +135,21 @@ für den Solidaritätszuschlag die Einkommensteuer, die abweichend von §
 Freibeträgen nach § 32 Abs. 6 des Einkommensteuergesetzes in allen
 Fällen des § 32 des Einkommensteuergesetzes festzusetzen wäre.
 
-(2a) Vorbehaltlich des § 40a Abs. 2 des Einkommensteuergesetzes in der
-Fassung des Gesetzes vom 23. Dezember 2002 (BGBl. I S. 4621) ist beim
-Steuerabzug vom Arbeitslohn Bemessungsgrundlage die Lohnsteuer; beim
-Steuerabzug vom laufenden Arbeitslohn und beim Jahresausgleich ist die
-Lohnsteuer maßgebend, die sich ergibt, wenn der nach § 39b Abs. 2 Satz
-5 des Einkommensteuergesetzes zu versteuernde Jahresbetrag für die
-Steuerklassen I, II und III im Sinne des § 38b des
-Einkommensteuergesetzes um den Kinderfreibetrag von 4 368 Euro sowie
-den Freibetrag für den Betreuungs- und Erziehungs- oder
+(2a) Vorbehaltlich des § 40a Absatz 2 des Einkommensteuergesetzes ist
+beim Steuerabzug vom Arbeitslohn Bemessungsgrundlage die Lohnsteuer;
+beim Steuerabzug vom laufenden Arbeitslohn und beim Jahresausgleich
+ist die Lohnsteuer maßgebend, die sich ergibt, wenn der nach § 39b
+Absatz 2 Satz 5 des Einkommensteuergesetzes zu versteuernde
+Jahresbetrag für die Steuerklassen I, II und III im Sinne des § 38b
+des Einkommensteuergesetzes um den Kinderfreibetrag von 4 788 Euro
+sowie den Freibetrag für den Betreuungs- und Erziehungs- oder
 Ausbildungsbedarf von 2 640 Euro und für die Steuerklasse IV im Sinne
 des § 38b des Einkommensteuergesetzes um den Kinderfreibetrag von 2
-184 Euro sowie den Freibetrag für den Betreuungs- und Erziehungs- oder
-Ausbildungsbedarf von 1 320 für jedes Kind vermindert wird, für das
-eine Kürzung der Freibeträge für Kinder nach § 32 Abs. 6 Satz 4 des
-Einkommensteuergesetzes nicht in Betracht kommt. Bei der Anwendung des
-§ 39b des Einkommensteuergesetzes für die Ermittlung des
+394 Euro sowie den Freibetrag für den Betreuungs- und Erziehungs- oder
+Ausbildungsbedarf von 1 320 Euro für jedes Kind vermindert wird, für
+das eine Kürzung der Freibeträge für Kinder nach § 32 Absatz 6 Satz 4
+des Einkommensteuergesetzes nicht in Betracht kommt. Bei der Anwendung
+des § 39b des Einkommensteuergesetzes für die Ermittlung des
 Solidaritätszuschlages ist die als Lohnsteuerabzugsmerkmal gebildete
 Zahl der Kinderfreibeträge maßgebend. Bei Anwendung des § 39f des
 Einkommensteuergesetzes ist beim Steuerabzug vom laufenden Arbeitslohn
@@ -297,4 +297,37 @@ Steuerpflichtigen auswirkt.
 (13) § 3 Absatz 2a Satz 2 in der Fassung des Artikels 6 des Gesetzes
 vom 7. Dezember 2011 (BGBl. I S. 2592) ist erstmals für den
 Veranlagungszeitraum 2012 anzuwenden.
+
+(14) § 3 Absatz 2a Satz 1 in der am 23. Juli 2015 geltenden Fassung
+ist erstmals anzuwenden auf laufenden Arbeitslohn, der für einen nach
+dem 30. November 2015 endenden Lohnzahlungszeitraum gezahlt wird, und
+auf sonstige Bezüge, die nach dem 30. November 2015 zufließen. Bei der
+Lohnsteuerberechnung auf laufenden Arbeitslohn, der für einen nach dem
+30\. November 2015, aber vor dem 1. Januar 2016 endenden täglichen,
+wöchentlichen und monatlichen Lohnzahlungszeitraum gezahlt wird, ist
+zu berücksichtigen, dass § 3 Absatz 2a Satz 1 in der am 23. Juli 2015
+geltenden Fassung bis zum 30. November 2015 nicht angewandt wurde
+(Nachholung). Das Bundesministerium der Finanzen hat dies im
+Einvernehmen mit den obersten Finanzbehörden der Länder bei der
+Aufstellung und Bekanntmachung der entsprechenden Programmablaufpläne
+zu berücksichtigen (§ 52 Absatz 32a Satz 3 des
+Einkommensteuergesetzes).
+
+(15) § 3 Absatz 2a in der am 1. Januar 2016 geltenden Fassung ist
+erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach
+dem 31. Dezember 2015 endenden Lohnzahlungszeitraum gezahlt wird, und
+auf sonstige Bezüge, die nach dem 31. Dezember 2015 zufließen.
+
+(16) Das Gesetz in der Fassung des Gesetzes vom 19. Juli 2016 (BGBl. I
+S. 1730) ist erstmals für den Veranlagungszeitraum 2016 anzuwenden.
+
+(17) § 3 Absatz 2a in der am 1. Januar 2017 geltenden Fassung ist
+erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach
+dem 31. Dezember 2016 endenden Lohnzahlungszeitraum gezahlt wird, und
+auf sonstige Bezüge, die nach dem 31. Dezember 2016 zufließen.
+
+(18) § 3 Absatz 2a in der am 1. Januar 2018 geltenden Fassung ist
+erstmals auf den laufenden Arbeitslohn anzuwenden, der für einen nach
+dem 31. Dezember 2017 endenden Lohnzahlungszeitraum gezahlt wird, und
+auf sonstige Bezüge, die nach dem 31. Dezember 2017 zufließen.
 

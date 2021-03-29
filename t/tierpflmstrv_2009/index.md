@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 513
 
+Geändert durch
+:   Art. 50 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -826,10 +829,12 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. April 2009 in Kraft.
 
+(zu § 7 Absatz 5)
 
-## Anlage 1 (zu § 7 Absatz 5) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2009, 519)
+(Fundstelle: BGBl. I 2009, 519;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
@@ -861,9 +866,14 @@ Diese Verordnung tritt am 1. April 2009 in Kraft.
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin vom 16. März
-2009 (BGBl. I S. 513)
+2009 (BGBl. I S. 513), die durch Artikel 50 der Verordnung vom 26.
+März 2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum
@@ -876,10 +886,12 @@ bestanden.
 
 
 
+(zu § 7 Absatz 5)
 
-## Anlage 2 (zu § 7 Absatz 5) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2009, 520)
+(Fundstelle: BGBl. I 2009, 520;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
 
@@ -911,16 +923,18 @@ bestanden.
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin vom 16. März
-2009 (BGBl. I S. 513) mit folgenden Ergebnissen bestanden:
+2009 (BGBl. I S. 513), die durch Artikel 50 der Verordnung vom 26.
+März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
+Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f771972_01_BJNR051300009BJNE001400000]
+    *[^f771972_01_BJNR051300009BJNE001401377]
    Punkte
 
     *
-    *[^f771972_02_BJNR051300009BJNE001400000]
+    *[^f771972_02_BJNR051300009BJNE001401377]
    Note
 
 
@@ -1049,6 +1063,10 @@ Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin vom 16. März
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
 
@@ -1060,7 +1078,7 @@ Geprüfter Tierpflegemeister/Geprüfte Tierpflegemeisterin vom 16. März
 
 
 
-[^f771972_01_BJNR051300009BJNE001400000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^f771972_01_BJNR051300009BJNE001401377]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     Die Gesamtnote für den Prüfungsteil „Grundlegende Qualifikationen“
     wird aus dem arithmetischen Mittel der Punktebewertungen gebildet.
-[^f771972_02_BJNR051300009BJNE001400000]: 
+[^f771972_02_BJNR051300009BJNE001401377]: 

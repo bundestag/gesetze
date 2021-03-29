@@ -3,7 +3,7 @@ Title: Übereinkommen von 1972 über die Internationalen Regeln zur Verhütung v
   auf See
 jurabk: SeeStrO1972Übk
 layout: default
-origslug: seestro1972_bk
+origslug: seestro1972uebk
 slug: seestro1972uebk
 
 ---

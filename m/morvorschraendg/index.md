@@ -2,7 +2,7 @@
 Title: Verordnung zur Änderung und Aufhebung marktordnungsrechtlicher Vorschriften
 jurabk: MORVorschrÄndG
 layout: default
-origslug: morvorschr_ndg
+origslug: morvorschraendg
 slug: morvorschraendg
 
 ---

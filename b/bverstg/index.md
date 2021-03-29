@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 700, 716
 
+Zuletzt geändert durch
+:   Art. 31 G v. 29.3.2017 I 626
+
 
 ## § 1 Zweckbestimmung
 
@@ -28,18 +31,21 @@ Versorgungsausgleichsgesetzes Anrechte übertragen wurden.
 
 1.  Beamtin oder Beamter des Bundes oder einer sonstigen
     bundesunmittelbaren Körperschaft, Anstalt oder Stiftung des
-    öffentlichen Rechts,
+    öffentlichen Rechts ist,
 
 
-2.  Richterin oder Richter des Bundes oder
+2.  Richterin oder Richter des Bundes ist,
 
 
 3.  Versorgungsempfängerin oder Versorgungsempfänger aus einem der in
-    Nummer 1 oder Nummer 2 genannten Dienstverhältnisse
+    Nummer 1 oder Nummer 2 genannten Dienstverhältnisse ist oder
+
+
+4.  Anspruch auf Leistungen nach dem Altersgeldgesetz vom 28. August 2013
+    (BGBl. I S. 3386) hat.
 
 
 
-ist.
 
 (3) Dieses Gesetz gilt entsprechend, wenn die ausgleichspflichtige
 Person in einem öffentlich-rechtlichen Amtsverhältnis des Bundes steht
@@ -71,9 +77,9 @@ gesetzlichen Rentenversicherung gehabt hätte. Zahlungen an
 Hinterbliebene beginnen mit dem Ablauf des Sterbemonats der
 ausgleichsberechtigten Person.
 
-(4) Der Anspruch ist schriftlich geltend zu machen. § 49 Abs. 4 bis 8,
-10 und § 62 Abs. 2 Satz 2 des Beamtenversorgungsgesetzes gelten
-entsprechend.
+(4) Der Anspruch ist schriftlich oder elektronisch geltend zu machen.
+§ 49 Abs. 4 bis 8, 10 und § 62 Abs. 2 Satz 2 des
+Beamtenversorgungsgesetzes gelten entsprechend.
 
 (5) Der Anspruch der ausgleichsberechtigten Person endet spätestens
 mit Ablauf des Monats, in dem sie verstirbt. Für Hinterbliebene gilt §
@@ -85,10 +91,10 @@ Beamtenversorgungsgesetzes entsprechend.
 
 (1) Der durch Entscheidung des Familiengerichts zugunsten der
 ausgleichsberechtigten Person festgesetzte monatliche Betrag erhöht
-oder vermindert sich um die Vomhundertsätze der nach dem Ende der
-Ehezeit bis zum Zeitpunkt des Eintritts der ausgleichspflichtigen
-Person in den Ruhestand eingetretenen Erhöhungen oder Verminderungen
-der Versorgungsbezüge nach dem Beamtenversorgungsgesetz, die in festen
+oder vermindert sich um die Prozentsätze der nach dem Ende der Ehezeit
+bis zum Zeitpunkt des Eintritts der ausgleichspflichtigen Person in
+den Ruhestand eingetretenen Erhöhungen oder Verminderungen der
+Versorgungsbezüge nach dem Beamtenversorgungsgesetz, die in festen
 Beträgen festgesetzt sind.
 
 (2) Vom Zeitpunkt des Eintritts der ausgleichspflichtigen Person in
@@ -102,9 +108,14 @@ Versorgungsbezüge erhöht oder vermindert. Gleiches gilt für die Zeit
 ab dem ersten Tag des auf den Tod der ausgleichspflichtigen Person
 folgenden Monats.
 
-(3) Hinterbliebene nach § 2 Abs. 2 erhalten den Betrag nach den
-Absätzen 1 und 2 in entsprechender Anwendung der §§ 20, 24 und 25 Abs.
-1 und 2 des Beamtenversorgungsgesetzes.
+(3) Handelt es sich um ein Anrecht nach dem Altersgeldgesetz, erhöht
+oder vermindert sich der Betrag nach den Absätzen 1 und 2 um die
+Prozentsätze, um die sich die altersgeldfähigen Dienstbezüge nach § 7
+Absatz 4 des Altersgeldgesetzes erhöhen oder vermindern.
+
+(4) Hinterbliebene nach § 2 Absatz 2 erhalten den Betrag nach den
+Absätzen 1 bis 3 in entsprechender Anwendung der §§ 20, 24 und 25
+Absatz 1 und 2 des Beamtenversorgungsgesetzes.
 
 
 ## § 4 Rückforderung

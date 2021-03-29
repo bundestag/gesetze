@@ -4,7 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der We
   Gesundheit - Büro Bonn, WHO-Regionalbüro für Europa
 jurabk: WHORegionalbüroAbk
 layout: default
-origslug: whoregionalb_roabk
+origslug: whoregionalbueroabk
 slug: whoregionalbueroabk
 
 ---

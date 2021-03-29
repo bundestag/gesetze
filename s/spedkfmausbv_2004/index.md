@@ -1186,8 +1186,9 @@ Fundstelle des Originaltextes: BGBl. I 2004, 1905 - 1910
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Spedition und Logistikdienstleistung/zur Kauffrau für Spedition und Logistikdienstleistung - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2004, 1911 - 1913)
 

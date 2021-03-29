@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 19. November 1984 zur Errichtung der Int
   Investitionsgesellschaft
 jurabk: IamInvGesÜbkUSA/uaG0
 layout: default
-origslug: iaminvges_bkusa_uag0
+origslug: iaminvgesuebkusa_uag0
 slug: iaminvgesuebkusa_uag0
 
 ---

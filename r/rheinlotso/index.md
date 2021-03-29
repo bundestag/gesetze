@@ -71,7 +71,7 @@ b)  die Erklärung des Lehrlotsen, daß er bereit ist, die Ausbildung zu
 
 
 c)  ein
-    polizeiliches                    Führungszeugnis
+    polizeiliches Führungszeugnis
     (Leumundszeugnis) oder einen Strafregisterauszug,
 
 
@@ -234,10 +234,10 @@ ausdrückliches Verlangen gilt auch die Mitteilung des Schiffsführers,
 daß er für die zu befahrende Strecke kein Schifferpatent besitzt. Der
 Lotse wird in diesen Fällen zum verantwortlichen Schiffsführer im
 Sinne des §
-2              der Rheinschiffahrtpolizeiverordnung. Ist der Lotse
-nicht Inhaber des Rheinschifferpatents für die Führung von Fahrzeugen
-ohne eigene Triebkraft, so hat er die Übernahme der Führung eines
-solchen Fahrzeugs abzulehnen.
+2 der Rheinschiffahrtpolizeiverordnung. Ist der Lotse nicht Inhaber
+des Rheinschifferpatents für die Führung von Fahrzeugen ohne eigene
+Triebkraft, so hat er die Übernahme der Führung eines solchen
+Fahrzeugs abzulehnen.
 4\.
 
 
@@ -502,8 +502,9 @@ I
 --
 (Inhalt: nicht darstellbare Tabelle, Seiten 4 u. 5)
 
+(zu § 9 Nr. 1)
 
-## Anhang B (zu § 9 Nr. 1) Prüfungsausschüsse
+## Anhang B Prüfungsausschüsse
 
 Prüfungsausschüsse bestehen in:
 

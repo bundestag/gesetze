@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2476
 
-Geändert durch
-:   Art. 8 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 51 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -742,7 +742,7 @@ Diese Verordnung tritt am 1. November 2007 in Kraft.
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2007, 2482,
+(Fundstelle: BGBl. I 2007, 2482;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -762,10 +762,14 @@ nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Wasserbaumeister/Geprüfte Wasserbaumeisterin vom 18. Oktober 2007
 (BGBl. I S. 2476),
-die durch Artikel 8 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960)
+die zuletzt durch Artikel 51 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274)
 geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -773,7 +777,7 @@ Unterschrift(en) ...............................
 
 ## Anlage 2 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2007, 2483 - 2484,
+(Fundstelle: BGBl. I 2007, 2483 - 2484;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -791,8 +795,8 @@ Abschluss
 Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Wasserbaumeister/Geprüfte Wasserbaumeisterin vom
-18\. Oktober 2007 (BGBl. I S. 2476), die durch Artikel 8 der
-Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert
+18\. Oktober 2007 (BGBl. I S. 2476), die zuletzt durch Artikel 51 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
 worden ist, mit folgenden Ergebnissen bestanden:
 Note
 **I. Prüfungsteil "Grundlegende Qualifikationen"**
@@ -830,13 +834,18 @@ Kenntnisse
 durch die Prüfung am .......................... in
 .......................... vor ...............................
 erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 -----
 1) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-.................
+................ .
 2) Für jede schriftliche Situationsaufgabe und das situationsbezogene
-Fachgespräch ist jeweils eine Note aus der Punktebewertung der
-Prüfungsleistungen zu bilden.
+Fachgespräch
+ist jeweils eine Note aus der Punktebewertung der Prüfungsleistungen
+zu bilden.
 

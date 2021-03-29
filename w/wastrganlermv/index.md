@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 315
 
+Geändert durch
+:   Art. 23 V v. 2.6.2016 I 1257
+
 
 
 ## Eingangsformel
@@ -28,7 +31,7 @@ Einführungsgesetzes zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
 
 ## § 1
 
-Die Wasser- und Schiffahrtsdirektionen werden ermächtigt,
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
 Rechtsverordnungen nach § 46 Nr. 1 WaStrG über die Regelung des
 Betriebs von Anlagen zu erlassen.
 

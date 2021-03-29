@@ -15,466 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 148 (1281)
 
-Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
+Zuletzt geändert durch
+:   Art. 4 Abs. 84 G v. 18.7.2016 I 1666
 
-## Inhaltsverzeichnis
-
-Abschnitt 1
-## Allgemeine Bestimmungen
-
-
-*    *   §  1
-
-    *   Zweck
-
-
-*    *   §  2
-
-    *   Begriffsbestimmungen
-
-
-
-Abschnitt 2
-Durchführung von
-## Pflanzenschutzmaßnahmen
-
-
-*    *   §  3
-
-    *   Gute fachliche Praxis und integrierter Pflanzenschutz
-
-
-*    *   §  4
-
-    *   Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
-
-
-*    *   §  5
-
-    *   Mitwirkung von Bundesbehörden am Aktionsplan zur nachhaltigen
-        Anwendung von Pflanzenschutzmitteln
-
-
-*    *   §  6
-
-    *   Pflanzenschutzmaßnahmen
-
-
-*    *   §  7
-
-    *   Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von
-        Schadorganismen
-
-
-*    *   §  8
-
-    *   Anordnungen der zuständigen Behörden
-
-
-
-Abschnitt 3
-Allgemeine Anforderungen
-für Anwender, Händler und Hersteller von
-## Pflanzenschutzmitteln sowie Pflanzenschutzberater
-
-
-*    *   §  9
-
-    *   Persönliche Anforderungen
-
-
-*    *   § 10
-
-    *   Anzeige bei Beratung und Anwendung
-
-
-*    *   § 11
-
-    *   Aufzeichnungs- und Informationspflichten
-
-
-
-Abschnitt 4
-## Anwendung von Pflanzenschutzmitteln
-
-
-*    *   § 12
-
-    *   Vorschriften für die Anwendung von Pflanzenschutzmitteln
-
-
-*    *   § 13
-
-    *   Vorschriften für die Einschränkung der Anwendung von
-        Pflanzenschutzmitteln
-
-
-*    *   § 14
-
-    *   Verbote
-
-
-*    *   § 15
-
-    *   Beseitigungspflicht
-
-
-*    *   § 16
-
-    *   Gebrauch von Pflanzenschutzgeräten
-
-
-*    *   § 17
-
-    *   Anwendung von Pflanzenschutzmitteln auf Flächen, die für die
-        Allgemeinheit bestimmt sind
-
-
-*    *   § 18
-
-    *   Anwendung von Pflanzenschutzmitteln mit Luftfahrzeugen
-
-
-*    *   § 19
-
-    *   Ausbringung oder Verwendung von mit Pflanzenschutzmitteln behandeltem
-        Saatgut, Pflanzgut oder Kultursubstrat
-
-
-*    *   § 20
-
-    *   Versuchszwecke
-
-
-*    *   § 21
-
-    *   Erhebung von Daten über die Anwendung von Pflanzenschutzmitteln
-
-
-*    *   § 22
-
-    *   Weitergehende Länderbefugnisse
-
-
-
-Abschnitt 5
-Abgabe, Rückgabe
-## und Ausfuhr von Pflanzenschutzmitteln
-
-
-*    *   § 23
-
-    *   Abgabe von Pflanzenschutzmitteln
-
-
-*    *   § 24
-
-    *   Anzeigepflicht bei der Abgabe von Pflanzenschutzmitteln
-
-
-*    *   § 25
-
-    *   Ausfuhr
-
-
-*    *   § 26
-
-    *   Getrennte Lagerung
-
-
-*    *   § 27
-
-    *   Rückgabe von Pflanzenschutzmitteln
-
-
-
-Abschnitt 6
-Inverkehrbringen von
-## Pflanzenschutzmitteln, Zulassungsverfahren
-
-
-*    *   § 28
-
-    *   Inverkehrbringen von Pflanzenschutzmitteln
-
-
-*    *   § 29
-
-    *   Inverkehrbringen in besonderen Fällen
-
-
-*    *   § 30
-
-    *   Inverkehrbringen von Pflanzenschutzmitteln unter abweichender
-        Bezeichnung
-
-
-*    *   § 31
-
-    *   Kennzeichnung
-
-
-*    *   § 32
-
-    *   Inverkehrbringen von mit Pflanzenschutzmitteln behandeltem Saatgut,
-        Pflanzgut oder Kultursubstrat
-
-
-*    *   § 33
-
-    *   Zuständigkeit für die Zulassung von Pflanzenschutzmitteln
-
-
-*    *   § 34
-
-    *   Beteiligungen
-
-
-*    *   § 35
-
-    *   Grundlagen für die Verfahren zur Zulassung eines Pflanzenschutzmittels
-
-
-*    *   § 36
-
-    *   Ergänzende Bestimmungen für den Inhalt der Zulassung
-
-
-*    *   § 37
-
-    *   Neue Erkenntnisse
-
-
-*    *   § 38
-
-    *   Verlängerung der Zulassung
-
-
-*    *   § 39
-
-    *   Widerruf, Rücknahme, Ruhen der Zulassung
-
-
-*    *   § 40
-
-    *   Ergänzende Regeln zu Zulassungs- und Genehmigungsverfahren
-
-
-
-Abschnitt 7
-Inverkehrbringen von anderen Stoffen,
-## Zulassungs- und Genehmigungsverfahren
-
-
-*    *   § 41
-
-    *   Zuständigkeit für die Prüfung von Wirkstoffen, Safenern und
-        Synergisten
-
-
-*    *   § 42
-
-    *   Zusatzstoffe
-
-
-*    *   § 43
-
-    *   Kennzeichnung von Zusatzstoffen
-
-
-*    *   § 44
-
-    *   Überprüfung genehmigter Zusatzstoffe
-
-
-*    *   § 45
-
-    *   Pflanzenstärkungsmittel
-
-
-
-Abschnitt 8
-## Parallelhandel
-
-
-*    *   § 46
-
-    *   Genehmigung für den Parallelhandel
-
-
-*    *   § 47
-
-    *   Kennzeichnung parallelgehandelter Pflanzenschutzmittel
-
-
-*    *   § 48
-
-    *   Ruhen der Genehmigung für den Parallelhandel
-
-
-*    *   § 49
-
-    *   Pflichten des Inhabers der Genehmigung für den Parallelhandel
-
-
-*    *   § 50
-
-    *   Rücknahme oder Widerruf der Genehmigung für den Parallelhandel
-
-
-*    *   § 51
-
-    *   Innergemeinschaftliches Verbringen von Pflanzenschutzmitteln für den
-        Eigenbedarf
-
-
-
-Abschnitt 9
-## Pflanzenschutzgeräte
-
-
-*    *   § 52
-
-    *   Prüfung
-
-
-*    *   § 53
-
-    *   Betriebsanleitung
-
-
-
-Abschnitt 10
-## Entschädigung, Forderungsübergang, Kosten
-
-
-*    *   § 54
-
-    *   Entschädigung
-
-
-*    *   § 55
-
-    *   Forderungsübergang
-
-
-*    *   § 56
-
-    *   Kosten
-
-
-
-Abschnitt 11
-## Behörden, Überwachung
-
-
-*    *   § 57
-
-    *   Julius Kühn-Institut
-
-
-*    *   § 58
-
-    *   Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
-
-
-*    *   § 59
-
-    *   Durchführung in den Ländern
-
-
-*    *   § 60
-
-    *   Behördliche Anordnungen
-
-
-*    *   § 61
-
-    *   Mitwirkung von Zolldienststellen
-
-
-*    *   § 62
-
-    *   Befugte Zollstellen
-
-
-
-Abschnitt 12
-Auskunfts- und Meldepflichten,
-## Übermittlung von Daten, Geheimhaltung
-
-
-*    *   § 63
-
-    *   Auskunftspflicht
-
-
-*    *   § 64
-
-    *   Meldepflicht
-
-
-*    *   § 65
-
-    *   Geheimhaltung
-
-
-*    *   § 66
-
-    *   Übermittlung von Daten
-
-
-*    *   § 67
-
-    *   Außenverkehr
-
-
-
-Abschnitt 13
-## Straf- und Bußgeldvorschriften
-
-
-*    *   § 68
-
-    *   Bußgeldvorschriften
-
-
-*    *   § 69
-
-    *   Strafvorschriften
-
-
-
-Abschnitt 14
-## Schlussbestimmungen
-
-
-*    *   § 70
-
-    *   Unberührtheitsklausel
-
-
-*    *   § 71
-
-    *   Besondere Vorschriften zur Bekämpfung der Reblaus
-
-
-*    *   § 72
-
-    *   Eilverordnungen
-
-
-*    *   § 73
-
-    *   Verkündung von Rechtsverordnungen
-
-
-*    *   § 74
-
-    *   Übergangsvorschriften
-
-
-
+Stand: Die §§ 42 bis 44 treten gem. § 74 Abs. 9 zukünftig außer Kraft. Das Bundesministerium für Ernährung und Landwirtschaft gibt den Tag des Außerkrafttretens im Bundesgesetzblatt bekannt.
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
 
@@ -509,9 +53,9 @@ Ergänzend zu den Begriffsbestimmungen der Artikel 2 und 3 der
 Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des
 Rates vom 21. Oktober 2009 über das Inverkehrbringen von
 Pflanzenschutzmitteln und zur Aufhebung der Richtlinien
-79/117/EWG              und 91/414/EWG des Rates (ABl. L 309 vom
-24\.11.2009, S. 1) in der jeweils geltenden Fassung gelten im
-Anwendungsbereich dieses Gesetzes folgende Begriffsbestimmungen:
+79/117/EWG und 91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1)
+in der jeweils geltenden Fassung gelten im Anwendungsbereich dieses
+Gesetzes folgende Begriffsbestimmungen:
 
 1.  Pflanzenschutz:
 
@@ -586,7 +130,7 @@ Anwendungsbereich dieses Gesetzes folgende Begriffsbestimmungen:
     a)  ausschließlich dazu bestimmt sind, allgemein der Gesunderhaltung der
         Pflanzen zu dienen, soweit sie nicht Pflanzenschutzmittel nach Artikel
         2 Absatz 1 der Verordnung (EG) Nr.
-        1107/2009,                          oder
+        1107/2009, oder
 
 
     b)  dazu bestimmt sind, Pflanzen vor nichtparasitären Beeinträchtigungen
@@ -714,31 +258,30 @@ Die zuständige Behörde kann die Maßnahmen anordnen, die zur Erfüllung
 der in Satz 1 in Verbindung mit Satz 2 genannten Anforderungen
 erforderlich sind.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz erstellt unter Beteiligung der Länder und unter
-Berücksichtigung des Anhangs III der Richtlinie 2009/128/EG, des
-Standes der wissenschaftlichen Erkenntnisse sowie unter
-Berücksichtigung der Erfahrungen der Pflanzenschutzdienste und des
-Personenkreises, der Pflanzenschutzmaßnahmen durchführt, sowie der in
-Absatz 1 Satz 2 Nummer 2 und 3 genannten Maßnahmen, Grundsätze für die
-Durchführung der guten fachlichen Praxis im Pflanzenschutz. Das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-gibt diese Grundsätze im Einvernehmen mit den Bundesministerien für
-Wirtschaft und Technologie, für Arbeit und Soziales, für Gesundheit
-und für Umwelt, Naturschutz und Reaktorsicherheit im Bundesanzeiger
-oder elektronischen Bundesanzeiger bekannt.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft erstellt
+unter Beteiligung der Länder und unter Berücksichtigung des Anhangs
+III der Richtlinie 2009/128/EG, des Standes der wissenschaftlichen
+Erkenntnisse sowie unter Berücksichtigung der Erfahrungen der
+Pflanzenschutzdienste und des Personenkreises, der
+Pflanzenschutzmaßnahmen durchführt, sowie der in Absatz 1 Satz 2
+Nummer 2 und 3 genannten Maßnahmen, Grundsätze für die Durchführung
+der guten fachlichen Praxis im Pflanzenschutz. Das Bundesministerium
+für Ernährung und Landwirtschaft gibt diese Grundsätze im Einvernehmen
+mit den Bundesministerien für Wirtschaft und Energie, für Arbeit und
+Soziales, für Gesundheit und für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit im Bundesanzeiger oder elektronischen Bundesanzeiger
+bekannt.
 
 (3) Tiere und Pflanzen einer invasiven Art im Sinne des § 7 Absatz 2
 Nummer 9 des Bundesnaturschutzgesetzes dürfen nicht zu Zwecken des
 Pflanzenschutzes verwendet werden.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit durch
-Rechtsverordnung mit Zustimmung des Bundesrates Ausnahmen von dem
-Verbot des Absatzes 3 zu regeln, wenn dem insbesondere der Schutz
-natürlich vorkommender Ökosysteme, Biotope oder Arten nicht
-entgegensteht.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit durch Rechtsverordnung mit
+Zustimmung des Bundesrates Ausnahmen von dem Verbot des Absatzes 3 zu
+regeln, wenn dem insbesondere der Schutz natürlich vorkommender
+Ökosysteme, Biotope oder Arten nicht entgegensteht.
 
 
 ### § 4 Aktionsplan zur nachhaltigen Anwendung von Pflanzenschutzmitteln
@@ -784,10 +327,10 @@ Verwaltungsaufgaben an der Umsetzung des Aktionsplans mit.
 
 ### § 6 Pflanzenschutzmaßnahmen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zur Erfüllung der in § 1
-genannten Zwecke erforderlich ist, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zur Erfüllung der in § 1 genannten Zwecke
+erforderlich ist, durch Rechtsverordnung mit Zustimmung des
+Bundesrates
 
 1.  anzuordnen, das Auftreten oder den Verdacht des Auftretens von
     Schadorganismen, den Anbau oder das Vorkommen bestimmter
@@ -903,15 +446,15 @@ Zustimmung des Bundesrates
 
 (2) Rechtsverordnungen nach Absatz 1 Nummer 3, 5, 14, 15 und 16
 bedürfen des Einvernehmens mit den Bundesministerien für Arbeit und
-Soziales und für Umwelt, Naturschutz und Reaktorsicherheit, soweit sie
-sich auf die Anwendung bestimmter Pflanzenschutzmittel oder anderer
-Stoffe beziehen.
+Soziales und für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
+soweit sie sich auf die Anwendung bestimmter Pflanzenschutzmittel oder
+anderer Stoffe beziehen.
 
 (3) Die Landesregierungen werden ermächtigt,
 
 1.  Rechtsverordnungen nach Absatz 1 zu erlassen, soweit das
-    Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-    von seiner Befugnis keinen Gebrauch macht,
+    Bundesministerium für Ernährung und Landwirtschaft von seiner Befugnis
+    keinen Gebrauch macht,
 
 
 2.  durch Rechtsverordnung, soweit es zur Erfüllung der in § 1 genannten
@@ -964,8 +507,8 @@ zu gefährden.
 
 ### § 7 Maßnahmen gegen die Ein- und Verschleppung und Ansiedlung von Schadorganismen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es
 
 1.  zum Schutz gegen die Gefahr
 
@@ -1071,9 +614,8 @@ beschränken. Es kann dabei insbesondere
 
 
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  Vorschriften über das Verfahren und die Durchführung von
     Risikoanalysen durch das Julius Kühn-Institut,
@@ -1194,11 +736,11 @@ erforderlich für die
 
 
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Gesundheit, für Arbeit und Soziales und für
-Umwelt, Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Vorschriften über
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Gesundheit,
+für Arbeit und Soziales und für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates nähere Vorschriften über
 
 1.  Art und Umfang der erforderlichen fachlichen Kenntnisse und
     Fertigkeiten,
@@ -1455,20 +997,19 @@ soweit zumutbare andere Möglichkeiten nicht gegeben sind und sich der
 Erhaltungszustand der betroffenen Populationen der nach Absatz 2 Satz
 1 geschützten Tier- und Pflanzenarten nicht verschlechtert, soweit
 nicht Artikel 16 Absatz 1 der Richtlinie
-92/43/EWG              strengere Anforderungen enthält.
+92/43/EWG strengere Anforderungen enthält.
 
 
 ### § 14 Verbote
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zum Schutz der Gesundheit
-von Mensch und Tier oder zum Schutz vor Gefahren, insbesondere für den
-Naturhaushalt, erforderlich ist, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie und für Arbeit und
-Soziales sowie im Falle der Nummer 1 auch mit dem Bundesministerium
-für Umwelt, Naturschutz und Reaktorsicherheit und dem
-Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung
-des Bundesrates
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zum Schutz der Gesundheit von Mensch und Tier
+oder zum Schutz vor Gefahren, insbesondere für den Naturhaushalt,
+erforderlich ist, im Einvernehmen mit den Bundesministerien für
+Wirtschaft und Energie und für Arbeit und Soziales sowie im Falle der
+Nummer 1 auch mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit und dem Bundesministerium für Gesundheit durch
+Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Einfuhr, das Inverkehrbringen, das innergemeinschaftliche
     Verbringen und die Anwendung bestimmter Pflanzenschutzmittel oder von
@@ -1529,9 +1070,9 @@ insoweit nicht mehr anzuwenden.
 
 (4) Die Landesregierungen werden ermächtigt, Rechtsverordnungen nach
 Absatz 1 Nummer 2 zu erlassen, soweit das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz von seiner Befugnis
-keinen Gebrauch macht. Die Landesregierungen können diese Befugnis
-durch Rechtsverordnung auf oberste Landesbehörden übertragen.
+Ernährung und Landwirtschaft von seiner Befugnis keinen Gebrauch
+macht. Die Landesregierungen können diese Befugnis durch
+Rechtsverordnung auf oberste Landesbehörden übertragen.
 
 (5) Es ist verboten, ein Pflanzenschutzmittel, das einen Stoff enthält
 oder aus einem Stoff besteht, dessen Anwendung durch eine Verordnung
@@ -1593,10 +1134,9 @@ eine Prüfung durch das Julius Kühn-Institut oder eine anerkannte
 Prüfstelle nach § 52 ergeben hat, dass diese Anforderungen erfüllt
 sind.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates, soweit es zur Erfüllung des in § 1
-genannten Zweckes erforderlich ist,
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit es zur Erfüllung des in § 1 genannten Zweckes erforderlich ist,
 
 1.  Verfügungsberechtigte und Besitzer zu verpflichten, im Gebrauch
     befindliche Pflanzenschutzgeräte prüfen zu lassen,
@@ -1619,16 +1159,16 @@ einzubeziehen sind.
 (5) Die Landesregierungen werden ermächtigt, soweit es zur Erfüllung
 des in § 1 genannten Zweckes erforderlich ist, Rechtsverordnungen nach
 Absatz 4 Satz 1 Nummer 1 und 3, auch in Verbindung mit Satz 2 zu
-erlassen, soweit das Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz von seiner Befugnis keinen Gebrauch macht. Dabei
-können sie auch bestimmen, dass die Prüfung durch eine amtlich
-anerkannte Kontrollwerkstatt oder sonstige Kontrollperson vorzunehmen
-ist sowie die Anforderung an die Anerkennung, den Verlust der
-Anerkennung und das Verfahren zur Anerkennung der Kontrollwerkstätten
-regeln. Die Landesregierungen können durch Rechtsverordnung diese
-Befugnis auf oberste Landesbehörden übertragen und dabei bestimmen,
-dass diese ihre Befugnis durch Rechtsverordnung auf nachgeordnete oder
-ihrer Aufsicht unterstehende Behörden weiter übertragen können.
+erlassen, soweit das Bundesministerium für Ernährung und
+Landwirtschaft von seiner Befugnis keinen Gebrauch macht. Dabei können
+sie auch bestimmen, dass die Prüfung durch eine amtlich anerkannte
+Kontrollwerkstatt oder sonstige Kontrollperson vorzunehmen ist sowie
+die Anforderung an die Anerkennung, den Verlust der Anerkennung und
+das Verfahren zur Anerkennung der Kontrollwerkstätten regeln. Die
+Landesregierungen können durch Rechtsverordnung diese Befugnis auf
+oberste Landesbehörden übertragen und dabei bestimmen, dass diese ihre
+Befugnis durch Rechtsverordnung auf nachgeordnete oder ihrer Aufsicht
+unterstehende Behörden weiter übertragen können.
 
 
 ### § 17 Anwendung von Pflanzenschutzmitteln auf Flächen, die für die Allgemeinheit bestimmt sind
@@ -1711,14 +1251,13 @@ eine Liste der Pflanzenschutzmittel, für die eine Genehmigung zur
 Anwendung auf Flächen, die für die Allgemeinheit bestimmt sind,
 erteilt worden ist.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates im Einvernehmen mit den Bundesministerien
-für Wirtschaft und Technologie, für Umwelt, Naturschutz und
-Reaktorsicherheit und für Arbeit und Soziales allgemeine Anforderungen
-für Pflanzenschutzmittel zur Anwendung auf Flächen, die für die
-Allgemeinheit bestimmt sind, sowie die näheren Einzelheiten des
-Verfahrens nach Absatz 2 festzulegen.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates im
+Einvernehmen mit den Bundesministerien für Wirtschaft und Energie, für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit und für Arbeit und
+Soziales allgemeine Anforderungen für Pflanzenschutzmittel zur
+Anwendung auf Flächen, die für die Allgemeinheit bestimmt sind, sowie
+die näheren Einzelheiten des Verfahrens nach Absatz 2 festzulegen.
 
 (6) Bei Gefahr im Verzug kann die zuständige Behörde Ausnahmen von
 Absatz 1 Satz 1 genehmigen, wenn Maßnahmen getroffen werden, um eine
@@ -1811,11 +1350,11 @@ veröffentlicht im Bundesanzeiger oder im elektronischen Bundesanzeiger
 eine Liste der Pflanzenschutzmittel, für die eine Genehmigung zur
 Anwendung mit Luftfahrzeugen erteilt worden ist.
 
-(7) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates im Einvernehmen mit den Bundesministerien
-für Wirtschaft und Technologie, für Umwelt, Naturschutz und
-Reaktorsicherheit und für Arbeit und Soziales
+(7) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates im
+Einvernehmen mit den Bundesministerien für Wirtschaft und Energie, für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit und für Arbeit und
+Soziales
 
 1.  die Anforderungen
 
@@ -1886,14 +1425,14 @@ oder Verwendung im Einzelfall
 
 hat.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zum Schutz der Gesundheit
-von Mensch und Tier oder zum Schutz vor erheblichen Gefahren
-insbesondere für den Naturhaushalt erforderlich ist, durch
-Rechtsverordnung mit Zustimmung des Bundesrates nähere Vorschriften
-über die Verwendung oder Ausbringung von Saatgut, Pflanzgut oder
-Kultursubstrat, das mit einem Pflanzenschutzmittel behandelt wurde
-oder dem ein Pflanzenschutzmittel anhaftet, zu erlassen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zum Schutz der Gesundheit von Mensch und Tier
+oder zum Schutz vor erheblichen Gefahren insbesondere für den
+Naturhaushalt erforderlich ist, durch Rechtsverordnung mit Zustimmung
+des Bundesrates nähere Vorschriften über die Verwendung oder
+Ausbringung von Saatgut, Pflanzgut oder Kultursubstrat, das mit einem
+Pflanzenschutzmittel behandelt wurde oder dem ein Pflanzenschutzmittel
+anhaftet, zu erlassen.
 
 
 ### § 20 Versuchszwecke
@@ -1960,11 +1499,11 @@ Wer Versuche mit nicht zugelassenen Pflanzenschutzmitteln durchführen
 will, hat dies der zuständigen Behörde des jeweiligen Landes vor
 Aufnahme der Tätigkeit unter Angabe des Versuchsstandortes anzuzeigen.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie, für Arbeit und
-Soziales und für Umwelt, Naturschutz und Reaktorsicherheit durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie, für Arbeit und Soziales und für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates
 
 1.  Näheres über das Genehmigungsverfahren nach Absatz 1 oder das
     Anzeigeverfahren nach Absatz 3, insbesondere über Art und Umfang der
@@ -1993,9 +1532,9 @@ Verordnung (EG) Nr. 1185/2009 sowie zur Überprüfung der Maßnahmen nach
 dem Aktionsplan im Sinne des § 4 verwendet werden. § 63 ist nicht
 anzuwenden.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Inhalt und Form der Erhebungen zu regeln.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Inhalt und Form der Erhebungen zu regeln.
 
 (3) Das Julius Kühn-Institut macht die Auswertung der Erhebungen im
 Bundesanzeiger oder im elektronischen Bundesanzeiger bekannt. Es
@@ -2207,12 +1746,12 @@ Verbringen von Pflanzenschutzmitteln anbietet, hat dies dem Bundesamt
 für Verbraucherschutz und Lebensmittelsicherheit vor Aufnahme der
 Tätigkeit unter Angabe seines Namens, seiner Anschrift und seiner
 Telekommunikationsdaten anzuzeigen. Das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die näheren
-Vorschriften über die Anzeige und das Anzeigeverfahren zu erlassen.
-Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit stellt
-die Liste der eingegangenen Anzeigen den nach Landesrecht zuständigen
-Behörden zur Erfüllung ihrer Aufgaben nach § 59 zur Verfügung.
+Ernährung und Landwirtschaft wird ermächtigt, durch Rechtsverordnung
+ohne Zustimmung des Bundesrates die näheren Vorschriften über die
+Anzeige und das Anzeigeverfahren zu erlassen. Das Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit stellt die Liste der
+eingegangenen Anzeigen den nach Landesrecht zuständigen Behörden zur
+Erfüllung ihrer Aufgaben nach § 59 zur Verfügung.
 
 
 ### § 25 Ausfuhr
@@ -2273,8 +1812,8 @@ getrennt zu halten und entsprechend kenntlich zu machen. Satz 1 Nummer
 einer Rechtsverordnung nach § 31 Absatz 6 Nummer 5 vorgeschrieben
 worden ist.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit dies
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit dies
 
 1.  zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder
     der Europäischen Union oder
@@ -2287,8 +1826,8 @@ Verbraucherschutz wird ermächtigt, soweit dies
 
 
 erforderlich ist, im Einvernehmen mit den Bundesministerien für
-Wirtschaft und Technologie, für Arbeit und Soziales, für Umwelt,
-Naturschutz und Reaktorsicherheit und für wirtschaftliche
+Wirtschaft und Energie, für Arbeit und Soziales, für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit und für wirtschaftliche
 Zusammenarbeit und Entwicklung durch Rechtsverordnung mit Zustimmung
 des Bundesrates die Ausfuhr bestimmter Pflanzenschutzmittel oder von
 Pflanzenschutzmitteln mit bestimmten Stoffen in Staaten außerhalb der
@@ -2341,13 +1880,13 @@ Verbraucherschutz und Lebensmittelsicherheit in einem solchen Fall die
 Rückgabe an, so ist dieser Betrieb zur unverzüglichen Annahme
 zurückgegebener Pflanzenschutzmittel verpflichtet.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie und für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Einzelheiten der Rückgabe und der
-Rücknahme zu regeln und zu bestimmen, wer die Kosten für die Rückgabe
-oder die Rücknahme zu tragen hat.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie und für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+durch Rechtsverordnung mit Zustimmung des Bundesrates nähere
+Einzelheiten der Rückgabe und der Rücknahme zu regeln und zu
+bestimmen, wer die Kosten für die Rückgabe oder die Rücknahme zu
+tragen hat.
 
 (5) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 teilt den zuständigen Behörden die Gründe für die Rücknahme, den
@@ -2545,12 +2084,11 @@ Eindruck erweckt wird, dass es sich um ein zugelassenes
 Pflanzenschutzmittel oder um ein Pflanzenschutzmittel, für das eine
 Genehmigung zum Parallelhandel erteilt worden ist, handelt.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Arbeit und Soziales und für Umwelt, Naturschutz
-und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
-Bundesrates, soweit es zur Erfüllung der in § 1 genannten Zwecke
-erforderlich ist,
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Arbeit und
+Soziales und für Umwelt, Naturschutz, Bau und Reaktorsicherheit durch
+Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur
+Erfüllung der in § 1 genannten Zwecke erforderlich ist,
 
 1.  den Inhalt der Angaben nach Absatz 2 näher zu bestimmen,
 
@@ -2591,9 +2129,8 @@ die Pflanzenschutzmittel
 2.  in einem anderen Mitgliedstaat oder einem Vertragsstaat des Abkommens
     über den Europäischen Wirtschaftsraum nach den Bestimmungen des
     Artikels 4 Absatz 1 Buchstabe b bis e der Richtlinie
-    91/414/EWG                    oder nach den Bestimmungen der
-    Verordnung (EG) Nr. 1107/2009 für dieses Anwendungsgebiet zugelassen
-    sind.
+    91/414/EWG oder nach den Bestimmungen der Verordnung (EG) Nr.
+    1107/2009 für dieses Anwendungsgebiet zugelassen sind.
 
 
 
@@ -2616,14 +2153,13 @@ Wirkstoff enthält, behandelt worden ist, nicht in Verkehr gebracht
 werden. Dies gilt nicht, wenn der Widerruf der Zulassung auf Antrag
 des Zulassungsinhabers erfolgt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zum Schutz der Gesundheit
-von Mensch und Tier oder zum Schutz vor erheblichen Gefahren
-insbesondere für den Naturhaushalt erforderlich ist, durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Inverkehrbringen
-oder die Einfuhr von Saatgut, Pflanzgut oder Kultursubstrat, das mit
-einem Pflanzenschutzmittel behandelt wurde oder dem ein
-Pflanzenschutzmittel anhaftet,
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zum Schutz der Gesundheit von Mensch und Tier
+oder zum Schutz vor erheblichen Gefahren insbesondere für den
+Naturhaushalt erforderlich ist, durch Rechtsverordnung mit Zustimmung
+des Bundesrates das Inverkehrbringen oder die Einfuhr von Saatgut,
+Pflanzgut oder Kultursubstrat, das mit einem Pflanzenschutzmittel
+behandelt wurde oder dem ein Pflanzenschutzmittel anhaftet,
 
 1.  zu verbieten, zu beschränken,
 
@@ -2662,7 +2198,7 @@ zuständig für
 
 4.  die Erneuerung der Zulassung eines Pflanzenschutzmittels nach Artikel
     43 der Verordnung (EG) Nr.
-    1107/2009                   ,
+    1107/2009,
 
 
 5.  die Aufhebung oder Änderung der Zulassung eines Pflanzenschutzmittels
@@ -2774,11 +2310,10 @@ es sich um eine Ergänzung der bestehenden Zulassung handelt,
 
 
 Ist nach den Vorschriften der Verordnung (EG) Nr.
-1107/2009              ein Zulassungsbericht zu erstellen, erstellt
-das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit den
-Zulassungsbericht auf der Grundlage der Bewertungsberichte des
-Bundesinstitutes für Risikobewertung, des Julius Kühn-Institutes und
-des Umweltbundesamtes.
+1107/2009 ein Zulassungsbericht zu erstellen, erstellt das Bundesamt
+für Verbraucherschutz und Lebensmittelsicherheit den Zulassungsbericht
+auf der Grundlage der Bewertungsberichte des Bundesinstitutes für
+Risikobewertung, des Julius Kühn-Institutes und des Umweltbundesamtes.
 
 (2) Ist Deutschland in den Fällen des § 33 Absatz 1 Nummer 1, 2, 4, 7
 und 8 sowie im Falle des § 33 Absatz 1 Nummer 6, sofern es sich um
@@ -2933,11 +2468,11 @@ und Proben nicht innerhalb der bestimmten Frist mitgeteilt, kann das
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit das Ruhen
 der Zulassung anordnen.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit auf
-Vorschlag der zuständigen Behörde eines Landes ohne Zustimmung des
-Bundesrates durch Rechtsverordnung für
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit auf Vorschlag der zuständigen
+Behörde eines Landes ohne Zustimmung des Bundesrates durch
+Rechtsverordnung für
 
 1.  ein bestimmtes Gebiet dieses Landes und
 
@@ -2959,17 +2494,17 @@ Bundesamt für Verbraucherschutz und Lebensmittelsicherheit einmal
 jährlich über die in dem abgegrenzten Gebiet getroffenen
 Überwachungsmaßnahmen.
 
-(7) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann die Ermächtigung nach Absatz 6 Satz 1 im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf das Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit übertragen. Rechtsverordnungen des Bundesamtes
-für Verbraucherschutz und Lebensmittelsicherheit
+(7) Das Bundesministerium für Ernährung und Landwirtschaft kann die
+Ermächtigung nach Absatz 6 Satz 1 im Einvernehmen mit dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+durch Rechtsverordnung ohne Zustimmung des Bundesrates auf das
+Bundesamt für Verbraucherschutz und Lebensmittelsicherheit übertragen.
+Rechtsverordnungen des Bundesamtes für Verbraucherschutz und
+Lebensmittelsicherheit
 
 1.  bedürfen nicht der Zustimmung des Bundesrates und des Einvernehmens
-    des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
-    und
+    des Bundesministeriums für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit und
 
 
 2.  ergehen im Einvernehmen mit dem Umweltbundesamt; es gilt als erteilt,
@@ -3025,7 +2560,7 @@ Verwaltungsverfahrensgesetzes widerrufen werden, wenn
 
 1.  die Voraussetzungen des Artikels 44 Absatz 1 oder Absatz 3 Buchstabe d
     der Verordnung (EG) Nr.
-    1107/2009                    vorliegen,
+    1107/2009 vorliegen,
 
 
 2.  der Zulassungsinhaber einen Antrag nach Artikel 45 Absatz 1 gestellt
@@ -3065,11 +2600,11 @@ gilt § 49 Absatz 6 des Verwaltungsverfahrensgesetzes entsprechend.
 
 ### § 40 Ergänzende Regeln zu Zulassungs- und Genehmigungsverfahren
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie, für Arbeit und
-Soziales und für Umwelt, Naturschutz und Reaktorsicherheit durch
-Rechtsverordnung mit Zustimmung des Bundesrates
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie, für Arbeit und Soziales und für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Bundesrates
 
 1.  zur Erfüllung der in § 1 genannten Zwecke nähere Einzelheiten zur
     Festlegung von Anwendungsbestimmungen nach § 36 sowie deren
@@ -3096,13 +2631,13 @@ Rechtsverordnung mit Zustimmung des Bundesrates
 
 zu regeln.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zur Erfüllung der in § 1
-genannten Zwecke erforderlich ist, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates vorzuschreiben, dass Pflanzenschutzmittel aus anderen
-Staaten nur über bestimmte Zollstellen in Verkehr gebracht oder
-ausgeführt werden dürfen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zur Erfüllung der in § 1 genannten Zwecke
+erforderlich ist, im Einvernehmen mit dem Bundesministerium der
+Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates
+vorzuschreiben, dass Pflanzenschutzmittel aus anderen Staaten nur über
+bestimmte Zollstellen in Verkehr gebracht oder ausgeführt werden
+dürfen.
 
 
 ## Abschnitt 7 - Inverkehrbringen von anderen Stoffen, Zulassungs- und Genehmigungsverfahren
@@ -3255,14 +2790,13 @@ macht die Genehmigung von Zusatzstoffen und den Widerruf von
 Genehmigungen im Bundesanzeiger oder im elektronischen Bundesanzeiger
 bekannt.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie, für Arbeit und
-Soziales und für Umwelt, Naturschutz und Reaktorsicherheit durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nähere Einzelheiten
-des Verfahrens der Genehmigung der Zusatzstoffe, insbesondere Inhalt
-und Form des Antrages und die mit dem Antrag einzureichenden
-Unterlagen zu regeln.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie, für Arbeit und Soziales und für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des
+Bundesrates nähere Einzelheiten des Verfahrens der Genehmigung der
+Zusatzstoffe, insbesondere Inhalt und Form des Antrages und die mit
+dem Antrag einzureichenden Unterlagen zu regeln.
 
 
 ### § 43 Kennzeichnung von Zusatzstoffen
@@ -3360,11 +2894,11 @@ von drei Monaten, gerechnet ab dem Tag, an dem die Aufforderung des
 Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
 verbindlich wird, gilt Absatz 4 entsprechend.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates die näheren Einzelheiten des Verfahrens
-nach Absatz 3, die Einzelheiten einer Untersagungsverfügung nach
-Absatz 4 sowie der erforderlichen Kontrollen zu regeln.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+näheren Einzelheiten des Verfahrens nach Absatz 3, die Einzelheiten
+einer Untersagungsverfügung nach Absatz 4 sowie der erforderlichen
+Kontrollen zu regeln.
 
 
 ## Abschnitt 8 - Parallelhandel
@@ -3378,9 +2912,8 @@ Pflanzenschutzmittel übereinstimmt, darf nur im Geltungsbereich dieses
 Gesetzes in Verkehr gebracht werden, wenn das Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit eine Genehmigung nach
 Artikel 52 der Verordnung (EG) Nr.
-1107/2009              erteilt hat. Eine Genehmigung nach Artikel 52
-der Verordnung (EG) Nr. 1107/2009 ist nicht erforderlich für
-Reimporte.
+1107/2009 erteilt hat. Eine Genehmigung nach Artikel 52 der Verordnung
+(EG) Nr. 1107/2009 ist nicht erforderlich für Reimporte.
 
 (2) Ist es zur Feststellung der Identität erforderlich, kann das
 Bundesamt für Verbraucherschutz und Lebensmittelsicherheit vom
@@ -3397,9 +2930,9 @@ den Parallelhandel erteilt worden ist, sowie das jeweilige
 Referenzmittel im Bundesanzeiger oder elektronischen Bundesanzeiger
 bekannt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf,
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf,
 
 1.  die Kriterien der Gleichwertigkeit im Sinne des Artikels 52 Absatz 3
     Buchstabe c der Verordnung (EG) Nr. 1107/2009 näher zu bestimmen,
@@ -3585,11 +3118,11 @@ andere Prüfstelle durchgeführt werden, wenn die Prüfstelle über die
 geeigneten Einrichtungen für eine solche Prüfung und sachkundiges
 Personal verfügt und vom Julius Kühn-Institut anerkannt ist.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates, das Verfahren der freiwilligen Prüfung von
-Pflanzenschutzgeräten nach Absatz 1 sowie die Anerkennung von
-Prüfstellen nach Absatz 3 zu regeln.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates,
+das Verfahren der freiwilligen Prüfung von Pflanzenschutzgeräten nach
+Absatz 1 sowie die Anerkennung von Prüfstellen nach Absatz 3 zu
+regeln.
 
 
 ### § 53 Betriebsanleitung
@@ -3636,8 +3169,8 @@ Wird eine Entschädigung nach § 54 Absatz 1 oder 2 geleistet oder ein
 Ausgleich aus Anlass behördlich angeordneter Maßnahmen zur Bekämpfung
 oder Verhinderung der Verschleppung von Schadorganismen gewährt und
 beteiligt sich die Europäische Union an der Entschädigung oder dem
-Ausgleich, kann das Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz, soweit es zur Durchführung von Rechtsakten der
+Ausgleich, kann das Bundesministerium für Ernährung und
+Landwirtschaft, soweit es zur Durchführung von Rechtsakten der
 Europäischen Gemeinschaft oder der Europäischen Union erforderlich
 ist, durch Rechtsverordnung mit Zustimmung des Bundesrates
 vorschreiben, dass Forderungen auf Entschädigung oder Schadensersatz
@@ -3649,15 +3182,15 @@ Forderungsübergang im Übrigen auf die Länder, insbesondere Umfang und
 Verfahren, können in der Rechtsverordnung nach Satz 1 geregelt werden.
 
 
-### § 56 Kosten
+### § 56 Gebühren und Auslagen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
-erhebt Kosten (Gebühren und Auslagen) für
+erhebt Gebühren und Auslagen für
 
-1.  seine Amtshandlungen nach diesem Gesetz, auf Grund dieses Gesetzes
-    oder nach unmittelbar geltenden Rechtsakten der Europäischen
-    Gemeinschaft oder der Europäischen Union im Anwendungsbereich dieses
-    Gesetzes und
+1.  seine individuell zurechenbaren öffentlichen Leistungen nach diesem
+    Gesetz, auf Grund dieses Gesetzes oder nach unmittelbar geltenden
+    Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+    im Anwendungsbereich dieses Gesetzes und
 
 
 2.  berichterstattende Tätigkeiten nach den Artikeln 7, 15, 18 Satz 3
@@ -3669,31 +3202,29 @@ Bei der Bemessung der Höhe der Gebühr nach Satz 1 ist auch der mit den
 Mitwirkungshandlungen des Bundesinstitutes für Risikobewertung, des
 Julius Kühn-Institutes und des Umweltbundesamtes verbundene
 Verwaltungsaufwand zu berücksichtigen. Im Falle des Satzes 1 Nummer 2
-sind die Kosten von demjenigen zu erheben, der die Prüfung eines
-Wirkstoffes, Safeners, Synergisten oder Zusatzstoffes veranlasst; in
-diesem Falle gilt das Verwaltungskostengesetz entsprechend.
+sind die Gebühren und Auslagen von demjenigen zu erheben, der die
+Prüfung eines Wirkstoffes, Safeners, Synergisten oder Zusatzstoffes
+veranlasst.
 
-(2) Das Julius Kühn-Institut erhebt Kosten (Gebühren und Auslagen) für
-seine Amtshandlungen auf Grund dieses Gesetzes, den auf Grund dieses
-Gesetzes erlassenen Verordnungen oder nach unmittelbar geltenden
-Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
-im Anwendungsbereich dieses Gesetzes.
+(2) Das Julius Kühn-Institut erhebt Gebühren und Auslagen für seine
+individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz,
+den auf Grund dieses Gesetzes erlassenen Verordnungen oder nach
+unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder
+der Europäischen Union im Anwendungsbereich dieses Gesetzes.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien der Finanzen und für Wirtschaft und Technologie
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei
-feste Sätze oder Rahmensätze vorzusehen. Werden gebührenpflichtige
-Tatbestände geregelt, bei denen die Mitwirkung des Umweltbundesamtes
-gesetzlich vorgeschrieben ist, ist auch das Einvernehmen des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit
-erforderlich. Der Nutzen der Pflanzenschutzmittel,
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien der Finanzen und
+für Wirtschaft und Energie durch Rechtsverordnung, die nicht der
+Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände
+zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Werden
+gebührenpflichtige Tatbestände geregelt, bei denen die Mitwirkung des
+Umweltbundesamtes gesetzlich vorgeschrieben ist, ist auch das
+Einvernehmen des Bundesministeriums für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit erforderlich. Der Nutzen der Pflanzenschutzmittel,
 Pflanzenschutzgeräte, Verfahren des Pflanzenschutzes sowie der Geräte
 und Einrichtungen, die im Pflanzenschutz benutzt werden, für die
 Allgemeinheit ist angemessen zu berücksichtigen. Die zu erstattenden
-Auslagen können abweichend vom Verwaltungskostengesetz geregelt
-werden.
+Auslagen können abweichend vom Bundesgebührengesetz geregelt werden.
 
 
 ## Abschnitt 11 - Behörden, Überwachung
@@ -3702,8 +3233,8 @@ werden.
 ### § 57 Julius Kühn-Institut
 
 (1) Das Julius Kühn-Institut ist eine selbständige Bundesoberbehörde
-im Geschäftsbereich des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz.
+im Geschäftsbereich des Bundesministeriums für Ernährung und
+Landwirtschaft.
 
 (2) Das Julius Kühn-Institut hat zusätzlich zu den Aufgaben, die ihm
 durch dieses Gesetz, durch Rechtsverordnungen nach § 52 Absatz 4 und §
@@ -3729,10 +3260,9 @@ folgende Aufgaben:
 
 
 
-    Unterrichtung und Beratung des Bundesministeriums für Ernährung,
-    Landwirtschaft und Verbraucherschutz in allen Fragen, die zu den
-    Aufgaben des Julius Kühn-Institutes nach den Buchstaben a und b
-    gehören,
+    Unterrichtung und Beratung des Bundesministeriums für Ernährung und
+    Landwirtschaft in allen Fragen, die zu den Aufgaben des Julius Kühn-
+    Institutes nach den Buchstaben a und b gehören,
 
 
 4.  Risikoanalyse und -bewertung im Bereich der Ein- und Verschleppung von
@@ -3752,7 +3282,7 @@ folgende Aufgaben:
     Mitwirkung bei der Erstellung der Liste der geringfügigen Anwendungen
     sowie der Beurteilung des öffentlichen Interesses nach Artikel 51
     Absatz 8 der Verordnung (EG) Nr.
-    1107/2009                   ,
+    1107/2009,
 
 
 7.  Mitwirkung bei der Überwachung des Inverkehrbringens und der
@@ -3976,9 +3506,9 @@ innergemeinschaftlichen Verbringens von Pflanzenschutzmitteln mit.
 
 ### § 62 Befugte Zollstellen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz gibt im Einvernehmen mit dem Bundesministerium der
-Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen
+Das Bundesministerium für Ernährung und Landwirtschaft gibt im
+Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
+die Zollstellen bekannt, bei denen
 
 1.  Sendungen von Schadorganismen sowie Befallsgegenstände zur Einfuhr
     oder Ausfuhr abgefertigt werden, wenn die Einfuhr oder Ausfuhr durch
@@ -4003,10 +3533,10 @@ Personenvereinigungen haben der zuständigen Behörde auf Verlangen die
 Auskünfte zu erteilen, die zur Durchführung der der jeweils
 zuständigen Behörde durch dieses Gesetz oder auf Grund dieses Gesetzes
 übertragenen Aufgaben erforderlich sind. Die zuständigen Behörden der
-Länder sind berechtigt, Einsicht zu nehmen in die in § 2 des InVeKoS-
-Daten-Gesetzes genannten Daten, soweit es zur Überwachung der
-Einhaltung der Vorschriften dieses Gesetzes sowie der nach diesem
-Gesetz erlassenen Rechtsverordnungen erforderlich ist.
+Länder sind berechtigt, Einsicht zu nehmen in die in § 2 in Verbindung
+mit der Anlage des InVeKoS-Daten-Gesetzes genannten Daten, soweit es
+zur Überwachung der Einhaltung der Vorschriften dieses Gesetzes sowie
+der nach diesem Gesetz erlassenen Rechtsverordnungen erforderlich ist.
 
 (2) Personen, die von der zuständigen Behörde beauftragt sind, dürfen
 im Rahmen des Absatzes 1 Grundstücke, Geschäftsräume, Betriebsräume
@@ -4082,12 +3612,11 @@ jeweils getrennt zu erfolgen. Die Sätze 1 und 2 finden keine
 Anwendung, soweit Pflanzenschutzmittel auf Grund einer Genehmigung
 nach Artikel 54 der Verordnung (EG) Nr. 1107/2009 abgegeben werden.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien für Wirtschaft und Technologie und für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf, Näheres über Inhalt und Form
-der Meldungen zu regeln.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie und für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Näheres über Inhalt und Form der Meldungen zu regeln.
 
 (3) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 unterrichtet die zuständigen Behörden der Länder über die Ergebnisse
@@ -4143,7 +3672,7 @@ fallen:
     Verunreinigungen, die als toxikologisch, ökotoxikologisch oder
     ökologisch relevant angesehen werden, und Rückstände im Sinne des
     Artikels 3 Nummer 1 der Verordnung (EG) Nr.
-    1107/2009                   ,
+    1107/2009,
 
 
 6.  Angaben über Verfahren zur sachgerechten Beseitigung oder
@@ -4199,9 +3728,9 @@ Europäischen Kommission mitteilen.
 
 Der Verkehr mit den zuständigen Behörden anderer Mitgliedstaaten und
 der Europäischen Kommission obliegt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz. Es kann diese
-Befugnis durch Rechtsverordnung ohne Zustimmung des Bundesrates auf
-das Julius Kühn-Institut oder das Bundesamt für Verbraucherschutz und
+Ernährung und Landwirtschaft. Es kann diese Befugnis durch
+Rechtsverordnung ohne Zustimmung des Bundesrates auf das Julius Kühn-
+Institut oder das Bundesamt für Verbraucherschutz und
 Lebensmittelsicherheit übertragen. Ferner kann es diese Befugnis durch
 Rechtsverordnung mit Zustimmung des Bundesrates auf die zuständigen
 obersten Landesbehörden übertragen. Die obersten Landesbehörden können
@@ -4480,10 +4009,10 @@ bestraft, wer
 1.  entgegen § 13 Absatz 2 Nummer 1 ein wild lebendes Tier einer besonders
     geschützten Art, die in Artikel 4 Absatz 2 oder in Anhang I der
     Richtlinie
-    2009/147/EG                    des Europäischen Parlaments und des
-    Rates vom 30. November 2009 über die Erhaltung der wildlebenden
-    Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) aufgeführt ist, tötet oder
-    seine Entwicklungsformen aus der Natur entnimmt oder zerstört oder
+    2009/147/EG des Europäischen Parlaments und des Rates vom 30. November
+    2009 über die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom
+    26\.1.2010, S. 7) aufgeführt ist, tötet oder seine Entwicklungsformen
+    aus der Natur entnimmt oder zerstört oder
 
 
 2.  entgegen § 31 Absatz 5 Satz 1 Nummer 1 ein Pflanzenschutzmittel
@@ -4543,11 +4072,11 @@ sowie die auf diese Gesetze gestützten Rechtsverordnungen.
 
 ### § 71 Besondere Vorschriften zur Bekämpfung der Reblaus
 
-Durch Rechtsverordnung des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates
-nach § 6 Absatz 1 wird die Bekämpfung der Reblaus (Daktulosphaira
-vitifoliae Fitch) geregelt. Darüber hinaus können, soweit es zur
-Bekämpfung des Schadorganismus erforderlich ist, die Länder
+Durch Rechtsverordnung des Bundesministeriums für Ernährung und
+Landwirtschaft mit Zustimmung des Bundesrates nach § 6 Absatz 1 wird
+die Bekämpfung der Reblaus (Daktulosphaira vitifoliae Fitch) geregelt.
+Darüber hinaus können, soweit es zur Bekämpfung des Schadorganismus
+erforderlich ist, die Länder
 
 1.  über Rechtsverordnungen nach § 6 Absatz 1 hinaus weitergehende
     Regelungen zur Bekämpfung der Reblaus treffen,
@@ -4562,14 +4091,14 @@ Bekämpfung des Schadorganismus erforderlich ist, die Länder
 
 ### § 72 Eilverordnungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann bei Gefahr im Verzug Rechtsverordnungen nach §
-7 Absatz 1 und 2, § 8 Absatz 1, § 14 Absatz 1, § 19 Absatz 2, § 25
-Absatz 3 oder § 32 Absatz 4, in den Fällen des § 6 Absatz 1 und 2 und
-des § 7 Absatz 1 auch wenn es zur unverzüglichen Durchführung von
-Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
-erforderlich ist, ohne Zustimmung des Bundesrates und ohne
-Einvernehmen der jeweils zu beteiligenden Bundesministerien erlassen.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft kann bei
+Gefahr im Verzug Rechtsverordnungen nach § 7 Absatz 1 und 2, § 8
+Absatz 1, § 14 Absatz 1, § 19 Absatz 2, § 25 Absatz 3 oder § 32 Absatz
+4, in den Fällen des § 6 Absatz 1 und 2 und des § 7 Absatz 1 auch wenn
+es zur unverzüglichen Durchführung von Rechtsakten der Europäischen
+Gemeinschaft oder der Europäischen Union erforderlich ist, ohne
+Zustimmung des Bundesrates und ohne Einvernehmen der jeweils zu
+beteiligenden Bundesministerien erlassen.
 
 (2) Rechtsverordnungen nach Absatz 1 treten spätestens sechs Monate
 nach ihrem Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit
@@ -4619,9 +4148,8 @@ Februar 2012 geltenden Bestimmungen zu bearbeiten und zu entscheiden.
 Gleiches gilt für am 14. Februar 2012 geltende Zulassungen, die auf
 Grund der Entscheidung über die Aufnahme des darin enthaltenen
 Wirkstoffes in Anhang I der Richtlinie
-91/414/EWG              oder der Genehmigung des Wirkstoffes nach
-Artikel 4 der Verordnung (EG) Nr. 1107/2009 zu ändern oder zu
-widerrufen sind.
+91/414/EWG oder der Genehmigung des Wirkstoffes nach Artikel 4 der
+Verordnung (EG) Nr. 1107/2009 zu ändern oder zu widerrufen sind.
 
 (4) Ein Antrag auf vorläufige Zulassung eines Pflanzenschutzmittels,
 das einen der in Artikel 80 Absatz 1 der Verordnung (EG) Nr. 1107/2009
@@ -4645,23 +4173,22 @@ Verabschiedung des Arbeitsprogrammes nach Artikel 26 der Verordnung
     Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527, 3512), das
     zuletzt durch Artikel 4 des Gesetzes vom 2. November 2011 (BGBl. I S.
     2162) geändert
-    worden, ist                    in Verbindung mit der Pflanzenschutz-
-    Sachkundeverordnung vom 28. Juli 1987 (BGBl. I S. 1752), die zuletzt
-    durch Artikel 27 des Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515)
-    geändert worden ist, gewesen sind, gelten die Ausbildungs- und
-    Befähigungsnachweise, aus denen sich bis 14. Februar 2012 die
-    Sachkunde ergeben hat, bis zum 26. November 2015 als Sachkundenachweis
-    im Sinne des § 9. Personen nach Satz 1 können bis 26. Mai 2015 auf der
-    Grundlage der Pflanzenschutz-Sachkundeverordnung in der am 14. Februar
-    2012 geltenden Fassung einen Antrag auf Ausstellung eines
-    Sachkundenachweises nach § 9 stellen. Für Personen nach Satz 1 beginnt
-    der Dreijahreszeitraum für Fort- und Weiterbildungsmaßnahmen im Sinne
-    des § 9 Absatz 4 am 1. Januar 2013. Die zuständige Behörde kann den in
-    Satz 1 genannten Personen die Ausübung der in § 9 Absatz 1 genannten
-    Tätigkeiten untersagen, wenn Tatsachen die Annahme rechtfertigen, dass
-    derjenige, der diese Tätigkeiten ausübt, nicht die erforderlichen
-    fachlichen Kenntnisse und Fertigkeiten hat. § 9 Absatz 2 Satz 2 und
-    Absatz 3 finden Anwendung.
+    worden, ist in Verbindung mit der Pflanzenschutz-Sachkundeverordnung
+    vom 28. Juli 1987 (BGBl. I S. 1752), die zuletzt durch Artikel 27 des
+    Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2515) geändert worden ist,
+    gewesen sind, gelten die Ausbildungs- und Befähigungsnachweise, aus
+    denen sich bis 14. Februar 2012 die Sachkunde ergeben hat, bis zum 26.
+    November 2015 als Sachkundenachweis im Sinne des § 9. Personen nach
+    Satz 1 können bis 26. Mai 2015 auf der Grundlage der Pflanzenschutz-
+    Sachkundeverordnung in der am 14. Februar 2012 geltenden Fassung einen
+    Antrag auf Ausstellung eines Sachkundenachweises nach § 9 stellen. Für
+    Personen nach Satz 1 beginnt der Dreijahreszeitraum für Fort- und
+    Weiterbildungsmaßnahmen im Sinne des § 9 Absatz 4 am 1. Januar 2013.
+    Die zuständige Behörde kann den in Satz 1 genannten Personen die
+    Ausübung der in § 9 Absatz 1 genannten Tätigkeiten untersagen, wenn
+    Tatsachen die Annahme rechtfertigen, dass derjenige, der diese
+    Tätigkeiten ausübt, nicht die erforderlichen fachlichen Kenntnisse und
+    Fertigkeiten hat. § 9 Absatz 2 Satz 2 und Absatz 3 finden Anwendung.
 
 
 2.  Bei Personen, die sich am 14. Februar 2012 in einer Aus-, Fort- oder
@@ -4688,9 +4215,9 @@ Verkehr gebracht werden.
 
 (9) Die §§ 42 bis 44 treten an dem Tag außer Kraft, an dem die in
 Artikel 58 Absatz 2 der Verordnung (EG) Nr. 1107/2009 bezeichnete
-Verordnung erstmals wirksam wird. Das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz gibt den Tag nach Satz 1 im
-Bundesgesetzblatt bekannt.
+Verordnung erstmals wirksam wird. Das Bundesministerium für Ernährung
+und Landwirtschaft gibt den Tag nach Satz 1 im Bundesgesetzblatt
+bekannt.
 
 (10) Zusatzstoffe, die vor dem 14. Februar 2012 nach den bis zu diesem
 Zeitpunkt geltenden Vorschriften in Verkehr gebracht worden sind,
@@ -4704,14 +4231,14 @@ Fassung der Bekanntmachung vom 14. Mai 1998 (BGBl. I S. 971, 1527,
 (BGBl. I S. 2162) geändert worden ist, in der zu diesem Zeitpunkt
 geltenden Fassung gelistet sind und die nicht in Anhang I der
 Richtlinie
-91/414/EWG              aufgenommen worden sind und die ausschließlich
-aus einem oder mehreren Stoffen bestehen, welche ab dem 14. Februar
-2012 als Grundstoff nach Artikel 23 der Verordnung (EG) Nr. 1107/2009
-zu genehmigen sind und für die ein solcher Antrag bis zum 14. Februar
+91/414/EWG aufgenommen worden sind und die ausschließlich aus einem
+oder mehreren Stoffen bestehen, welche ab dem 14. Februar 2012 als
+Grundstoff nach Artikel 23 der Verordnung (EG) Nr. 1107/2009 zu
+genehmigen sind und für die ein solcher Antrag bis zum 14. Februar
 2013 gestellt worden ist, dürfen noch so lange zur Anwendung im
 eigenen Betrieb hergestellt werden, bis über diesen Antrag auf
 Genehmigung nach Artikel 23 der Verordnung (EG) Nr.
-1107/2009              entschieden worden ist.
+1107/2009 entschieden worden ist.
 
 (12) Pflanzenschutzmittel, die vor dem 14. Februar 2012 für die
 Anwendung im Haus- und Kleingartenbereich gekennzeichnet worden sind,

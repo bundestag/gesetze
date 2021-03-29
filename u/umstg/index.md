@@ -31,27 +31,25 @@ Zuletzt geändert durch
 
 (1) Für die Anwendung dieses Gesetzes gelten folgende
 Begriffsbestimmungen:
-1\. **Altgeldguthaben:**              Alle Reichsmarkguthaben bei
-Geldinstituten im Währungsgebiet (Ziff. 5), auch die
-Reichsmarkguthaben, die erst durch die Einzahlung der auf Grund des
-Währungsgesetzes abzuliefernden Altgeldnoten entstanden sind.
+1\. **Altgeldguthaben:** Alle Reichsmarkguthaben bei Geldinstituten im
+Währungsgebiet (Ziff. 5), auch die Reichsmarkguthaben, die erst durch
+die Einzahlung der auf Grund des Währungsgesetzes abzuliefernden
+Altgeldnoten entstanden sind.
 
-a)  **Altgeldguthaben, Gruppe I:**                    Alle
-    Altgeldguthaben, die nach § 10 und § 11 Abs. 2, 3 des Währungsgesetzes
-    mit Vordruck A oder B anzumelden waren, mit Ausnahme der in (c) (cc)
-    bis (gg) bezeichneten juristischen Personen und Vereinigungen,
-    zuzüglich der durch Einzahlung von ablieferungspflichtigen
-    Altgeldnoten entstandenen Altgeldguthaben und unter Einschluß der
-    Reichsmarkbeträge, die nach den Vorschriften des Währungsgesetzes
-    nachträglich auf diesen Konten eingehen.
-
-
-b)  **Altgeldguthaben, Gruppe II:**                    Die Altgeldguthaben
-    der Geldinstitute.
+a)  **Altgeldguthaben, Gruppe I:** Alle Altgeldguthaben, die nach § 10 und
+    § 11 Abs. 2, 3 des Währungsgesetzes mit Vordruck A oder B anzumelden
+    waren, mit Ausnahme der in (c) (cc) bis (gg) bezeichneten juristischen
+    Personen und Vereinigungen, zuzüglich der durch Einzahlung von
+    ablieferungspflichtigen Altgeldnoten entstandenen Altgeldguthaben und
+    unter Einschluß der Reichsmarkbeträge, die nach den Vorschriften des
+    Währungsgesetzes nachträglich auf diesen Konten eingehen.
 
 
-c)  **Altgeldguthaben, Gruppe III:**                    Die
-    Altgeldguthaben folgender Personen und Vereinigungen:
+b)  **Altgeldguthaben, Gruppe II:** Die Altgeldguthaben der Geldinstitute.
+
+
+c)  **Altgeldguthaben, Gruppe III:** Die Altgeldguthaben folgender
+    Personen und Vereinigungen:
 
     aa) der Kassen von Gebietskörperschaften und ihrer Behörden (Kassen der
         Verwaltung des Vereinigten Wirtschaftsgebietes, Kassen der zonalen
@@ -107,44 +105,43 @@ Text französisches Kontrollgebiet:
 
 
 
-d)  **Altgeldguthaben, Gruppe IV:**                    Die Altgeldguthaben
-    aller Personen oder Vereinigungen, die ihren Wohnsitz, Sitz oder Ort
-    der Niederlassung nicht im Währungsgebiet haben, es sei denn, daß sie
-    dort steuerpflichtig sind; ferner ohne Rücksicht auf die Person des
+d)  **Altgeldguthaben, Gruppe IV:** Die Altgeldguthaben aller Personen
+    oder Vereinigungen, die ihren Wohnsitz, Sitz oder Ort der
+    Niederlassung nicht im Währungsgebiet haben, es sei denn, daß sie dort
+    steuerpflichtig sind; ferner ohne Rücksicht auf die Person des
     Kontoinhabers die Altgeldguthaben auf Konten, die der Ansammlung der
     in den Denazifizierungsverfahren verhängten und zur Unterstützung der
     Opfer des Faschismus bestimmten Sühnebeträge dienen.
 
 
 
-2\. **Neugeldguthaben:**              Alle in Deutscher Mark bei einem
-Geldinstitut begründeten Guthaben.
-3\. **Familie:**              Der Ehemann, die nicht dauernd von ihm
-getrennt lebende Ehefrau und die Kinder, die am 21. Juni 1948 das
-achtzehnte Lebensjahr nicht vollendet haben, gleichviel, ob sie im
-elterlichen Haushalt leben oder nicht.
-4\. **Unternehmen:**              Alle Personen und Vereinigungen, die
-ihr Altgeld nach § 11 Abs. 3 des Währungsgesetzes mit Vordruck B
-abzuliefern und anzumelden hatten. Nicht als Unternehmen gelten jedoch
-die unter Ziff. 1c zu cc) bis gg) aufgeführten Personen und
-Vereinigungen.
+2\. **Neugeldguthaben:** Alle in Deutscher Mark bei einem Geldinstitut
+begründeten Guthaben.
+3\. **Familie:** Der Ehemann, die nicht dauernd von ihm getrennt
+lebende Ehefrau und die Kinder, die am 21. Juni 1948 das achtzehnte
+Lebensjahr nicht vollendet haben, gleichviel, ob sie im elterlichen
+Haushalt leben oder nicht.
+4\. **Unternehmen:** Alle Personen und Vereinigungen, die ihr Altgeld
+nach § 11 Abs. 3 des Währungsgesetzes mit Vordruck B abzuliefern und
+anzumelden hatten. Nicht als Unternehmen gelten jedoch die unter Ziff.
+1c zu cc) bis gg) aufgeführten Personen und Vereinigungen.
 Text  amerikanisches Kontrollgebiet:
-5\. **Währungsgebiet:**              Land Bayern, Land Bremen, Land
-Hessen, Land Württemberg-Baden, Land Niedersachsen, Land Nordrhein-
-Westfalen, Land Schleswig-Holstein, Hansestadt Hamburg, Land Baden,
-Land Rheinland-Pfalz und Land Württemberg-Hohenzollern.
+5\. **Währungsgebiet:** Land Bayern, Land Bremen, Land Hessen, Land
+Württemberg-Baden, Land Niedersachsen, Land Nordrhein-Westfalen, Land
+Schleswig-Holstein, Hansestadt Hamburg, Land Baden, Land Rheinland-
+Pfalz und Land Württemberg-Hohenzollern.
 Text britisches Kontrollgebiet:
 5\.
-Währungsgebiet:              Land Niedersachsen, Land Nordrhein-
-Westfalen, Land Schleswig-Holstein, Hansestadt Hamburg, Land Bayern,
-Land Bremen, Land Hessen, Land Württemberg-Baden, Land Baden, Land
-Rheinland-Pfalz und Land Württemberg-Hohenzollern.
+Währungsgebiet: Land Niedersachsen, Land Nordrhein-Westfalen, Land
+Schleswig-Holstein, Hansestadt Hamburg, Land Bayern, Land Bremen, Land
+Hessen, Land Württemberg-Baden, Land Baden, Land Rheinland-Pfalz und
+Land Württemberg-Hohenzollern.
 Text französisches Kontrollgebiet:
 5\.
-Währungsgebiet:              Land Baden, Land Rheinland-Pfalz, Land
-Württemberg-Hohenzollern, Land Bayern, Land Bremen, Land Hessen, Land
-Württemberg-Baden, Land Niedersachsen, Land Nordrhein-Westfalen, Land
-Schleswig-Holstein und Hansestadt Hamburg.
+Währungsgebiet: Land Baden, Land Rheinland-Pfalz, Land Württemberg-
+Hohenzollern, Land Bayern, Land Bremen, Land Hessen, Land Württemberg-
+Baden, Land Niedersachsen, Land Nordrhein-Westfalen, Land Schleswig-
+Holstein und Hansestadt Hamburg.
 
 (2) Für folgende Ausdrücke gelten die Begriffsbestimmungen des
 Währungsgesetzes (WG):
@@ -673,11 +670,10 @@ Kommunalkreditanstalten, Schiffsbeleihungsbanken und
 Ablösungsanstalten ausgegeben worden sind, werden durch Ersetzung von
 je zehn Reichsmark oder Goldmark durch eine Deutsche Mark umgestellt.
 Soweit die Militärregierung von dem Vorbehalt des
-§ 16 Abs. 2              Gebrauch macht, wird das
-Umstellungsverhältnis entsprechend erhöht. Was für die im Satz 1
-bezeichneten Schuldverschreibungen bestimmt ist, gilt auch für
-Darlehen, die für Grundkredit- oder Kommunalkreditzwecke aufgenommen
-worden sind.
+§ 16 Abs. 2 Gebrauch macht, wird das Umstellungsverhältnis
+entsprechend erhöht. Was für die im Satz 1 bezeichneten
+Schuldverschreibungen bestimmt ist, gilt auch für Darlehen, die für
+Grundkredit- oder Kommunalkreditzwecke aufgenommen worden sind.
 
 (2) Die im § 11 vorgesehene Ausgleichsforderung gegen die öffentliche
 Hand wird, soweit sie Geldinstituten der im Abs. 1 bezeichneten Art
@@ -712,7 +708,7 @@ anderweitig festsetzen.
 Rückversicherungsverträgen entstandenen Verbindlichkeiten und
 Rücklagen werden im Verhältnis von einer Deutschen Mark für je zehn
 Reichsmark umgestellt; falls von dem Vorbehalt des
-§ 16 Abs. 2              Gebrauch gemacht wird, verbessert sich das
+§ 16 Abs. 2 Gebrauch gemacht wird, verbessert sich das
 Umstellungsverhältnis entsprechend. Die Versicherungsnehmer sind
 berechtigt, durch Zahlung des erforderlichen Betrages in Deutscher
 Mark ihre Lebensversicherungen bis zu dem ursprünglich in Reichsmark
@@ -784,9 +780,9 @@ neu festzusetzen. Gesetzliche oder vertragliche Rechte der Bausparer,
 eine Änderung des Bausparverhältnisses zu verlangen, bleiben
 unberührt. Näheres regelt eine Durchführungsverordnung. Diese bestimmt
 für den Fall, daß die Militärregierung von dem Vorbehalt des
-§ 2 Abs. 1 Satz 3              oder dem Vorbehalt des
-§ 16 Abs. 2              Gebrauch macht, wie sich die Zuerkennung
-weiterer Ansprüche auf das Bausparverhältnis auswirkt.
+§ 2 Abs. 1 Satz 3 oder dem Vorbehalt des
+§ 16 Abs. 2 Gebrauch macht, wie sich die Zuerkennung weiterer
+Ansprüche auf das Bausparverhältnis auswirkt.
 
 
 ## Teil III - Vorschriften verschiedenen Inhalts

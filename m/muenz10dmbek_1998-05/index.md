@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "50 Jahre DM")
 jurabk: Münz10DMBek 1998-05
 layout: default
-origslug: m_nz10dmbek_1998-05
+origslug: muenz10dmbek_1998-05
 slug: muenz10dmbek_1998-05
 
 ---

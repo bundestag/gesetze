@@ -3,7 +3,7 @@ Title: Verordnung über den Übergang auf das neue Zusatzstoffrecht (Artikel 25 
   Verordnung zur Neuordnung lebensmittelrechtlicher Vorschriften über Zusatzstoffe)
 jurabk: ZRÜV
 layout: default
-origslug: zr_v
+origslug: zruev
 slug: zruev
 
 ---

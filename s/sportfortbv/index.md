@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1490
 
+Geändert durch
+:   Art. 14 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -618,10 +621,12 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Juli 2011 in Kraft.
 
+(zu § 7 Absatz 3)
 
-## Anlage 1 (zu § 7 Absatz 3) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2010, 1495)
+(Fundstelle: BGBl. I 2010, 1495;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## ...................................................................
 .....
@@ -659,9 +664,15 @@ Geprüfter Sportfachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte
-Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490)
+Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490), die durch
+Artikel 14 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -681,10 +692,12 @@ bestanden.
 
 
 
+(zu § 7 Absatz 3)
 
-## Anlage 2 (zu § 7 Absatz 3) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2010, 1495)
+(Fundstelle: BGBl. I 2010, 1495;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## ...................................................................
 ......
@@ -723,13 +736,14 @@ Geprüfter Sportfachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Sportfachwirt und Geprüfte
-Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490) mit folgenden
-Ergebnissen bestanden:
+Sportfachwirtin vom 2. November 2010 (BGBl. I S. 1490), die durch
+Artikel 14 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f774677_01_BJNR149000010BJNE001400000]
+    *[^f774677_01_BJNR149000010BJNE001401377]
    Punkte
 
     *
@@ -810,7 +824,11 @@ Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
 ..................
 in .................. vor .................. abgelegte Prüfung von der
 Prüfung ..................
-freigestellt. “)
+freigestellt.“)
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ..............................................................
@@ -829,4 +847,4 @@ freigestellt. “)
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     ..................
-[^f774677_01_BJNR149000010BJNE001400000]: 
+[^f774677_01_BJNR149000010BJNE001401377]: 

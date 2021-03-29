@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "900. Geburtstag Hildegard von Bingen")
 jurabk: Münz10DMBek 1998-04
 layout: default
-origslug: m_nz10dmbek_1998-04
+origslug: muenz10dmbek_1998-04
 slug: muenz10dmbek_1998-04
 
 ---

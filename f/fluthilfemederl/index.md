@@ -156,23 +156,380 @@ Der Bundesminister der Verteidigung
 
 ## Anlage
 
-Fundstelle des Originaltextes: BGBl. I 2002, 3751 - 3753
-Im Namen der
-Bundesrepublik Deutschland
-verleihe ich
-Emil Mustermann
-....................................................................
-als Dank und in Anerkennung für besonders aufopferungsvolle
-Hilfe bei der Abwehr von Gefahren und der Beseitigung von
-Schäden anlässlich der Flutkatastrophe im
-August 2002
-die
-Einsatzmedaille "Fluthilfe 2002".
-Berlin, den
-Bundesminister des Innern/der Verteidigung
-Prägesiegel
-(Bundesadler)                                       Faksimile
-(Unterschrift)
-(Inhalt:
-... nicht darstellbare Abbildung der Medaille mit Medaillenband)
+(Fundstelle des Originaltextes: BGBl. I 2002, 3751 - 3753)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Im Namen der
+        Bundesrepublik Deutschland
+        ## **verleihe ich**
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Emil Mustermann
+
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   als Dank und in Anerkennung für besonders aufopferungsvolle
+
+    *
+
+*    *
+    *   Hilfe bei der Abwehr von Gefahren und der Beseitigung von
+
+    *
+
+*    *
+    *   Schäden anlässlich der Flutkatastrophe im
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   August 2002
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   die
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   **Einsatzmedaille "Fluthilfe 2002".**
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Berlin, den
+
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Bundesminister des Innern/der Verteidigung
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Prägesiegel
+        (Bundesadler)
+
+    *
+    *   Faksimile (Unterschrift)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *        ![bgbl1_2002_j3752_0010.jpg](bgbl1_2002_j3752_0010.jpg)
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *        ![bgbl1_2002_j3753_0010.jpg](bgbl1_2002_j3753_0010.jpg)
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
 

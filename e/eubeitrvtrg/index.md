@@ -1,6 +1,7 @@
 ---
 Title: Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen,
-  der Republik Österreich, der Republik Finnland und des Königreichs
+  der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur
+  Europäischen Union
 jurabk: EUBeitrVtrG
 layout: default
 origslug: eubeitrvtrg
@@ -8,7 +9,7 @@ slug: eubeitrvtrg
 
 ---
 
-# Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs (EUBeitrVtrG)
+# Gesetz zu dem Vertrag vom 24. Juni 1994 über den Beitritt des Königreichs Norwegen, der Republik Österreich, der Republik Finnland und des Königreichs Schweden zur Europäischen Union (EUBeitrVtrG)
 
 Ausfertigungsdatum
 :   1994-09-02

@@ -2,7 +2,7 @@
 Title: Verordnung zur Bildung von Altersrückstellungen durch die gesetzlichen Unfallversicherungsträger
 jurabk: UV-AltRückV
 layout: default
-origslug: uv-altr_ckv
+origslug: uv-altrueckv
 slug: uv-altrueckv
 
 ---
@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3170
 
-Geändert durch
-:   Art. 13 Abs. 25 G v. 12.4.2012 I 579
+Zuletzt geändert durch
+:   Art. 2 Abs. 23 G v. 1.4.2015 I 434
 
 
 ## Eingangsformel
@@ -49,13 +49,12 @@ Absatz 1 zu bilden.
 (3) In den Fällen des § 219a Absatz 4 Satz 2 des Siebten Buches
 Sozialgesetzbuch ist das Deckungskapital, das bei einem
 aufsichtspflichtigen Unternehmen im Sinne des § 1 Absatz 1 Nummer 1
-und 2 des Versicherungsaufsichtsgesetzes für Versorgungsleistungen
+und 5 des Versicherungsaufsichtsgesetzes für Versorgungsleistungen
 gebildet worden ist, auf die Rückstellungen nach Absatz 1 anzurechnen.
 
 (4) Die Berechnung der Barwerte nach Absatz 1 hat den anerkannten
-Regeln der Versicherungsmathematik zu folgen. Für den Zeitraum bis zum
-31\. Dezember 2014 sind insbesondere die nachfolgenden Annahmen
-zugrunde zu legen:
+Regeln der Versicherungsmathematik zu folgen. Dabei sind insbesondere
+die nachfolgenden Annahmen zugrunde zu legen:
 
 1.  Rechnungszins in Höhe von 4,25 Prozent,
 
@@ -74,13 +73,6 @@ zugrunde zu legen:
 
 
 
-Die der Berechnung zugrunde zu legenden versicherungsmathematischen
-Annahmen, insbesondere ein einheitlicher Rechnungszinsfuß, werden
-spätestens alle fünf Jahre, erstmals für das Jahr 2015, – auf Basis
-der von der Deutschen Gesetzlichen Unfallversicherung e.V. und der
-Sozialversicherung für Landwirtschaft, Forsten und Gartenbau zur
-Verfügung gestellten erforderlichen Angaben – neu ermittelt und durch
-Rechtsverordnung festgelegt.
 
 (5) Die Zuführungen erfolgen jährlich auf Grundlage der
 Barwertberechnung nach den Absätzen 1, 3 und 4.
@@ -90,10 +82,7 @@ Barwertberechnung nach den Absätzen 1, 3 und 4.
 
 Die Unfallversicherungsträger überprüfen regelmäßig, spätestens nach
 Ablauf von jeweils fünf Jahren, die Höhe der Rückstellungen nach § 1
-und der jährlichen Zuführungen für die folgenden fünf Jahre. Eine
-Überprüfung ist erstmals zum 30. Juni 2014 durchzuführen. Das Ergebnis
-ist der zuständigen Aufsichtsbehörde mitzuteilen; das zugrundeliegende
-Gutachten ist – außer in den Fällen des § 1 Absatz 2 – beizufügen.
+und der jährlichen Zuführungen für die folgenden fünf Jahre.
 
 
 ## § 3 Altersrückstellungen für die ehemaligen Beschäftigten des Spitzenverbandes der landwirtschaftlichen Sozialversicherung
@@ -160,7 +149,7 @@ diese Versorgungsleistungen auf Grund bereits geleisteter
 Beschäftigungszeiten von einer öffentlich-rechtlichen
 Versorgungseinrichtung zu erwarten sind oder wenn für diese Zeiten
 Deckungskapital bei einem aufsichtspflichtigen Unternehmen im Sinne
-des § 1 Absatz 1 Nummer 1 und 2 des Versicherungsaufsichtsgesetzes
+des § 1 Absatz 1 Nummer 1 und 5 des Versicherungsaufsichtsgesetzes
 gebildet worden ist.
 
 (4) Für die in § 172c Absatz 1 Satz 1 und 3 des Siebten Buches

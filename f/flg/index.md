@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 714 (1025)
 
-Geändert durch
-:   Art. 23 G v. 9.12.2010 I 1934
+Zuletzt geändert durch
+:   Art. 4 Abs. 88 G v. 18.7.2016 I 1666
 
 [^BJNR071400008_01]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -92,7 +92,7 @@ vorgenommen werden.
 Zulassung durch die zuständige Behörde. Die Zulassung wird auf Antrag
 erteilt, wenn das Klassifizierungsunternehmen
 
-1.[^f770887_01_BJNR071400008BJNE000400000]
+1.[^f770887_01_BJNR071400008BJNE000401301]
   die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2004-11 Typ A
     erfüllt,
 
@@ -140,20 +140,20 @@ Tätigkeit
 hat. Das Erlöschen der Zulassung wird durch Bescheid der zuständigen
 Behörde festgestellt.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-Anforderungen an die Zulassung nach Absatz 1 einschließlich des
-Verfahrens festzulegen. In der Rechtsverordnung nach Satz 1 kann
-insbesondere vorgeschrieben werden, dass die Zulassung inhaltlich
-beschränkt, mit Auflagen, auch nachträglich, verbunden oder nur für
-das Gebiet eines oder mehrerer Länder erteilt werden kann, soweit dies
-zur ordnungsgemäßen Durchführung der Klassifizierung erforderlich ist.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die näheren Anforderungen an die Zulassung
+nach Absatz 1 einschließlich des Verfahrens festzulegen. In der
+Rechtsverordnung nach Satz 1 kann insbesondere vorgeschrieben werden,
+dass die Zulassung inhaltlich beschränkt, mit Auflagen, auch
+nachträglich, verbunden oder nur für das Gebiet eines oder mehrerer
+Länder erteilt werden kann, soweit dies zur ordnungsgemäßen
+Durchführung der Klassifizierung erforderlich ist.
 
     Amtlicher Hinweis: Diese DIN-Norm ist im Beuth Verlag GmbH, Berlin und
     Köln erschienen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert und niedergelegt.
-[^f770887_01_BJNR071400008BJNE000400000]: 
+[^f770887_01_BJNR071400008BJNE000401301]: 
 
 ## § 4 Befähigung und Zulassung von Klassifizierern
 
@@ -431,8 +431,8 @@ Vorschriften von den zuständigen Behörden
 werden.
 
 (2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates Vorschriften über
 
 1.  die Preis- und Gewichtsfeststellung für Schlachtkörper und
 
@@ -707,19 +707,17 @@ Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
 
 ## § 14 Gebühren und Auslagen
 
-(1) Für Amtshandlungen, die nach diesem Gesetz und den auf Grund
-dieses Gesetzes erlassenen Rechtsverordnungen vorgenommen werden,
-werden Gebühren und Auslagen erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen, die nach
+diesem Gesetz und den auf Grund dieses Gesetzes erlassenen
+Rechtsverordnungen vorgenommen werden, werden Gebühren und Auslagen
+erhoben.
 
-(2) Die nach Absatz 1 kostenpflichtigen Tatbestände und die
-Gebührenhöhe werden durch Landesrecht bestimmt, soweit die
-Amtshandlungen nicht durch die Bundesanstalt vorgenommen werden. Das
-Bundesministerium wird ermächtigt, im Einvernehmen mit dem
+(2) Das Bundesministerium wird ermächtigt, im Einvernehmen mit dem
 Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates für Amtshandlungen der Bundesanstalt nach den §§ 3 und
-6 Abs. 1 und 3 die gebührenpflichtigen Tatbestände und die
-Gebührenhöhe zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen.
+des Bundesrates für individuell zurechenbare öffentliche Leistungen
+der Bundesanstalt nach den §§ 3 und 6 Abs. 1 und 3 die
+gebührenpflichtigen Tatbestände und die Gebührenhöhe zu bestimmen und
+dabei feste Sätze oder Rahmensätze vorzusehen.
 
 
 ## § 15 Außenverkehr

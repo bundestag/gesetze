@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 750-Jahr-Feier Berlins)
 jurabk: Münz10DMBek
 layout: default
-origslug: m_nz10dmbek
+origslug: muenz10dmbek
 slug: muenz10dmbek
 
 ---

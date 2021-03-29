@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2007, 2861 (2962)
 
 Neugefasst durch
-:   Bek. v. 4.9.2012 I 2070
+:   Bek. v. 4.9.2012 I 2070;
+
+Zuletzt geändert durch
+:   Art. 30 G v. 29.3.2017 I 626
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -251,11 +254,11 @@ sozialversicherungsrechtlichen Status.
 (5) Einsatzgeschädigte nach § 1 Nummer 1, deren nicht auf Lebenszeit
 begründetes Wehrdienstverhältnis durch Zeitablauf geendet hat oder aus
 diesem Grund beendet worden ist und deren gesundheitliche Schädigung
-erst danach erkannt worden ist, sind auf schriftlichen Antrag in ein
-Wehrdienstverhältnis besonderer Art einzustellen. Die §§ 37 und 38 des
-Soldatengesetzes gelten ungeachtet der Voraussetzungen der
-körperlichen Eignung nach § 37 Absatz 1 Nummer 3 des Soldatengesetzes
-entsprechend. Satz 1 gilt nicht, wenn
+erst danach erkannt worden ist, sind auf schriftlichen oder
+elektronischen Antrag in ein Wehrdienstverhältnis besonderer Art
+einzustellen. Die §§ 37 und 38 des Soldatengesetzes gelten ungeachtet
+der Voraussetzungen der körperlichen Eignung nach § 37 Absatz 1 Nummer
+3 des Soldatengesetzes entsprechend. Satz 1 gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -308,19 +311,19 @@ gestellt werden.
 (1) Einsatzgeschädigte nach § 1 Nummer 1, deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
 Prozent gemindert ist, sind ungeachtet der in § 39 des
-Soldatengesetzes genannten Voraussetzungen auf schriftlichen Antrag in
-das Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten zu
-berufen, sofern sie sich in einer an das Ende der Schutzzeit
-anschließenden Probezeit von sechs Monaten bewährt haben. Endet das
-Wehrdienstverhältnis Einsatzgeschädigter nach § 1 Nummer 1, die nicht
-in einem auf Lebenszeit begründeten Wehrdienstverhältnis stehen,
-während der Probezeit durch Zeitablauf oder wäre es aus diesem Grund
-zu beenden, treten sie zu diesem Zeitpunkt in ein Wehrdienstverhältnis
-besonderer Art nach § 6 ein. In den Fällen des Satzes 2 gelten die §§
-37 und 38 des Soldatengesetzes entsprechend. § 37 Absatz 1 Nummer 3
-des Soldatengesetzes gilt in den Fällen der Sätze 1 und 2 mit der
-Maßgabe, dass an die Stelle der körperlichen Eignung die
-Dienstfähigkeit tritt.
+Soldatengesetzes genannten Voraussetzungen auf schriftlichen oder
+elektronischen Antrag in das Dienstverhältnis einer Berufssoldatin
+oder eines Berufssoldaten zu berufen, sofern sie sich in einer an das
+Ende der Schutzzeit anschließenden Probezeit von sechs Monaten bewährt
+haben. Endet das Wehrdienstverhältnis Einsatzgeschädigter nach § 1
+Nummer 1, die nicht in einem auf Lebenszeit begründeten
+Wehrdienstverhältnis stehen, während der Probezeit durch Zeitablauf
+oder wäre es aus diesem Grund zu beenden, treten sie zu diesem
+Zeitpunkt in ein Wehrdienstverhältnis besonderer Art nach § 6 ein. In
+den Fällen des Satzes 2 gelten die §§ 37 und 38 des Soldatengesetzes
+entsprechend. § 37 Absatz 1 Nummer 3 des Soldatengesetzes gilt in den
+Fällen der Sätze 1 und 2 mit der Maßgabe, dass an die Stelle der
+körperlichen Eignung die Dienstfähigkeit tritt.
 
 (2) Absatz 1 gilt nicht für Einsatzgeschädigte nach § 1 Nummer 1, die
 
@@ -343,7 +346,8 @@ des Soldatengesetzes die Vollendung des 54. Lebensjahres.
 (1) Einsatzgeschädigte nach § 1 Nummer 1, die nicht in einem auf
 Lebenszeit begründeten Wehrdienstverhältnis stehen und deren
 Erwerbsfähigkeit infolge des Einsatzunfalls am Ende der Schutzzeit um
-mindestens 30 Prozent gemindert ist, sind auf schriftlichen Antrag
+mindestens 30 Prozent gemindert ist, sind auf schriftlichen oder
+elektronischen Antrag
 
 1.  in ein Beamtenverhältnis auf Probe mit einer Probezeit von sechs
     Monaten zu berufen, sofern sie nicht wegen ihres körperlichen
@@ -468,11 +472,12 @@ Schutzzeit.
 
 (2) Einsatzgeschädigte nach § 1 Nummer 2 in einem Beamtenverhältnis
 auf Zeit, deren gesundheitliche Schädigung erst nach Ende ihres
-Dienstverhältnisses erkannt worden ist, sind auf schriftlichen Antrag
-in ihrem ehemaligen Geschäftsbereich unter den Voraussetzungen des § 7
-des Bundesbeamtengesetzes unter erneuter Verleihung ihres zuletzt
-wahrgenommenen Amtes in ein Beamtenverhältnis auf Widerruf zu berufen.
-§ 6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+Dienstverhältnisses erkannt worden ist, sind auf schriftlichen oder
+elektronischen Antrag in ihrem ehemaligen Geschäftsbereich unter den
+Voraussetzungen des § 7 des Bundesbeamtengesetzes unter erneuter
+Verleihung ihres zuletzt wahrgenommenen Amtes in ein Beamtenverhältnis
+auf Widerruf zu berufen. § 6 Absatz 6 gilt entsprechend. Satz 1 gilt
+nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -536,11 +541,11 @@ wenn
 (1) Einsatzgeschädigte nach § 1 Nummer 2, die sich in einem
 Beamtenverhältnis auf Zeit befinden und deren Erwerbsfähigkeit infolge
 des Einsatzunfalls bei Beendigung der Schutzzeit um mindestens 30
-Prozent gemindert ist, sind auf schriftlichen Antrag unter den
-Voraussetzungen des § 7 des Bundesbeamtengesetzes in ein
-Beamtenverhältnis auf Probe mit einer Probezeit von sechs Monaten zu
-berufen, sofern sie nicht wegen ihres körperlichen Zustandes oder aus
-gesundheitlichen Gründen zur Erfüllung der mit dem neuen Amt
+Prozent gemindert ist, sind auf schriftlichen oder elektronischen
+Antrag unter den Voraussetzungen des § 7 des Bundesbeamtengesetzes in
+ein Beamtenverhältnis auf Probe mit einer Probezeit von sechs Monaten
+zu berufen, sofern sie nicht wegen ihres körperlichen Zustandes oder
+aus gesundheitlichen Gründen zur Erfüllung der mit dem neuen Amt
 verbundenen Dienstpflichten dauernd unfähig sind. Die Zuordnung zur
 jeweiligen Laufbahn richtet sich nach der spätestens im Rahmen der
 Schutzzeit erworbenen Laufbahnbefähigung. Mit erfolgreichem Abschluss
@@ -568,13 +573,13 @@ entsprechend.
 (2) Das Beamtenverhältnis Einsatzgeschädigter, die sich in einem
 Beamtenverhältnis auf Probe befinden und deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
-Prozent gemindert ist, ist auf schriftlichen Antrag unter Verleihung
-eines Amtes in ein Beamtenverhältnis auf Lebenszeit umzuwandeln,
-sofern sie nicht wegen ihres körperlichen Zustandes oder aus
-gesundheitlichen Gründen zur Erfüllung der mit dem neuen Amt
-verbundenen Dienstpflichten dauernd unfähig sind und sich in einer an
-das Ende der Schutzzeit anschließenden weiteren Probezeit von sechs
-Monaten bewährt haben. § 11 des Bundesbeamtengesetzes bleibt
+Prozent gemindert ist, ist auf schriftlichen oder elektronischen
+Antrag unter Verleihung eines Amtes in ein Beamtenverhältnis auf
+Lebenszeit umzuwandeln, sofern sie nicht wegen ihres körperlichen
+Zustandes oder aus gesundheitlichen Gründen zur Erfüllung der mit dem
+neuen Amt verbundenen Dienstpflichten dauernd unfähig sind und sich in
+einer an das Ende der Schutzzeit anschließenden weiteren Probezeit von
+sechs Monaten bewährt haben. § 11 des Bundesbeamtengesetzes bleibt
 unberührt. Wurde die Probezeit infolge des Einsatzunfalls während der
 Schutzzeit verlängert, verlängert sich die Frist des § 11 Absatz 2
 Satz 1 des Bundesbeamtengesetzes entsprechend.
@@ -582,30 +587,30 @@ Satz 1 des Bundesbeamtengesetzes entsprechend.
 (3) Einsatzgeschädigte Beamtinnen auf Widerruf und einsatzgeschädigte
 Beamte auf Widerruf nach § 10 Absatz 2 Satz 1, deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
-Prozent gemindert ist, sind auf schriftlichen Antrag unter den
-Voraussetzungen des § 7 des Bundesbeamtengesetzes in das
-Dienstverhältnis einer Beamtin auf Probe oder eines Beamten auf Probe
-mit einer Probezeit von sechs Monaten zu berufen, sofern sie nicht
-wegen ihres körperlichen Zustandes oder aus gesundheitlichen Gründen
-zur Erfüllung der mit dem neuen Amt verbundenen Dienstpflichten
-dauernd unfähig sind. Die Zuordnung zur jeweiligen Laufbahn richtet
-sich nach der spätestens während der Schutzzeit erworbenen
-Laufbahnbefähigung. Mit erfolgreichem Abschluss der Probezeit ist
-unter den Voraussetzungen des § 11 Absatz 1 des Bundesbeamtengesetzes
-das Beamtenverhältnis auf Probe unter Verleihung eines Amtes in ein
-Beamtenverhältnis auf Lebenszeit umzuwandeln. Bei mangelnder Bewährung
-ist die Beamtin auf Probe oder der Beamte auf Probe zu entlassen. Dies
-gilt nicht bei mangelnder Bewährung wegen allein fehlender
-gesundheitlicher Eignung, die auf dem Einsatzunfall beruht, wenn die
-Beamtin auf Probe oder der Beamte auf Probe dienstfähig ist. Die
-Ernennung erfolgt im Eingangsamt der Laufbahn. Die laufbahnrechtlichen
-Bestimmungen für die Einstellung in ein höheres Amt als das
-Eingangsamt gelten entsprechend. Bis zum Ende der Schutzzeit können
-sich die in Satz 1 genannten Personen statt für die Berufung in ein
-Beamtenverhältnis auch für eine Weiterverwendung als Arbeitnehmerin
-oder Arbeitnehmer mit einer Probezeit von sechs Monaten entscheiden. §
-8 Absatz 1 Satz 1 Nummer 2 und § 8 Absatz 2 Satz 6 gelten
-entsprechend.
+Prozent gemindert ist, sind auf schriftlichen oder elektronischen
+Antrag unter den Voraussetzungen des § 7 des Bundesbeamtengesetzes in
+das Dienstverhältnis einer Beamtin auf Probe oder eines Beamten auf
+Probe mit einer Probezeit von sechs Monaten zu berufen, sofern sie
+nicht wegen ihres körperlichen Zustandes oder aus gesundheitlichen
+Gründen zur Erfüllung der mit dem neuen Amt verbundenen
+Dienstpflichten dauernd unfähig sind. Die Zuordnung zur jeweiligen
+Laufbahn richtet sich nach der spätestens während der Schutzzeit
+erworbenen Laufbahnbefähigung. Mit erfolgreichem Abschluss der
+Probezeit ist unter den Voraussetzungen des § 11 Absatz 1 des
+Bundesbeamtengesetzes das Beamtenverhältnis auf Probe unter Verleihung
+eines Amtes in ein Beamtenverhältnis auf Lebenszeit umzuwandeln. Bei
+mangelnder Bewährung ist die Beamtin auf Probe oder der Beamte auf
+Probe zu entlassen. Dies gilt nicht bei mangelnder Bewährung wegen
+allein fehlender gesundheitlicher Eignung, die auf dem Einsatzunfall
+beruht, wenn die Beamtin auf Probe oder der Beamte auf Probe
+dienstfähig ist. Die Ernennung erfolgt im Eingangsamt der Laufbahn.
+Die laufbahnrechtlichen Bestimmungen für die Einstellung in ein
+höheres Amt als das Eingangsamt gelten entsprechend. Bis zum Ende der
+Schutzzeit können sich die in Satz 1 genannten Personen statt für die
+Berufung in ein Beamtenverhältnis auch für eine Weiterverwendung als
+Arbeitnehmerin oder Arbeitnehmer mit einer Probezeit von sechs Monaten
+entscheiden. § 8 Absatz 1 Satz 1 Nummer 2 und § 8 Absatz 2 Satz 6
+gelten entsprechend.
 
 (4) Die Absätze 1 und 2 gelten für Einsatzgeschädigte nach § 1 Nummer
 3 entsprechend.
@@ -624,10 +629,11 @@ Arbeitsverträgen.
 (2) Einsatzgeschädigte nach § 1 Nummer 4, die während eines
 befristeten Arbeitsverhältnisses einen Einsatzunfall erlitten haben
 und deren gesundheitliche Schädigung erst nach Ablauf der Befristung
-erkannt worden ist, sind auf schriftlichen Antrag in ihrem ehemaligen
-Geschäftsbereich in ein befristetes Arbeitsverhältnis im Sinne von
-Absatz 1 aufgrund des seinerzeitigen Vertragsinhaltes einzustellen. §
-6 Absatz 6 gilt entsprechend. Satz 1 gilt nicht, wenn
+erkannt worden ist, sind auf schriftlichen oder elektronischen Antrag
+in ihrem ehemaligen Geschäftsbereich in ein befristetes
+Arbeitsverhältnis im Sinne von Absatz 1 aufgrund des seinerzeitigen
+Vertragsinhaltes einzustellen. § 6 Absatz 6 gilt entsprechend. Satz 1
+gilt nicht, wenn
 
 1.  die gesundheitliche Schädigung nicht ausschlaggebend für die
     Nichteingliederung in das Arbeitsleben ist,
@@ -679,10 +685,9 @@ Krankenversicherten ist dabei deren Gesamtkranken- und
 Pflegeversicherungsbeitrag abzüglich des Beitragszuschusses des
 Arbeitgebers nach dem Fünften Buch Sozialgesetzbuch und dem Elften
 Buch Sozialgesetzbuch zu berücksichtigen. Der Zusatzbeitrag nach § 242
-des Fünften Buches Sozialgesetzbuch in der ab dem 1. Januar 2009
-geltenden Fassung bleibt unberücksichtigt. Satz 2 gilt für Versicherte
-eines privaten Krankenversicherungsunternehmens, das die
-Voraussetzungen nach § 257 Absatz 2a des Fünften Buches
+des Fünften Buches Sozialgesetzbuch bleibt unberücksichtigt. Satz 2
+gilt für Versicherte eines privaten Krankenversicherungsunternehmens,
+das die Voraussetzungen nach § 257 Absatz 2a des Fünften Buches
 Sozialgesetzbuch erfüllt, entsprechend mit der Maßgabe, dass als
 Krankenversicherungsbeitrag nur der nach § 257 Absatz 2 des Fünften
 Buches Sozialgesetzbuch zuschussfähige Betrag und als
@@ -732,7 +737,8 @@ gilt § 14 Satz 3 entsprechend.
 Beschäftigungsverhältnis stehen oder deren Beschäftigungsverhältnis
 aufgrund ihrer Einsatzschädigung endet und deren Erwerbsfähigkeit
 infolge des Einsatzunfalls am Ende der Schutzzeit um mindestens 30
-Prozent gemindert ist, sind auf schriftlichen Antrag
+Prozent gemindert ist, sind auf schriftlichen oder elektronischen
+Antrag
 
 1.  in ein Beamtenverhältnis auf Probe mit einer Probezeit von sechs
     Monaten zu berufen, sofern sie nicht wegen ihres körperlichen
@@ -881,9 +887,9 @@ entsprechend anzuwenden.
 ### § 22 Übergangsregelung
 
 (1) Für gesundheitliche Schädigungen, die bei einem Einsatzunfall
-erlittenen Schädigungen vergleichbar sind und in der Zeit vom 1. Juli
-1992 bis zum 30. November 2002 erlitten worden sind, gilt dieses
-Gesetz entsprechend.
+erlittenen Schädigungen vergleichbar sind und in der Zeit vom 1.
+November 1991 bis zum 30. November 2002 erlitten worden sind, gilt
+dieses Gesetz entsprechend.
 
 (2) Soweit ein Dienst- oder Arbeitsverhältnis vor dem 18. Dezember
 2007 geendet hat oder beendet worden ist, ist es

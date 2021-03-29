@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "200. Geburtstag des Dichters Eduard Mörike")
 jurabk: Münz10EuroBek 2004-07-06
 layout: default
-origslug: m_nz10eurobek_2004-07-06
+origslug: muenz10eurobek_2004-07-06
 slug: muenz10eurobek_2004-07-06
 
 ---

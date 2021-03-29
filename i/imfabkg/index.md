@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1978, 13
 
 Zuletzt geändert durch
-:   Art. 155 V v. 31.10.2006 I 2407
+:   Art. 298 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -98,7 +98,7 @@ zeitweiligen Stellvertretenden Exekutivdirektors.
 (1) Der Gouverneur sowie das Mitglied im Rat auf Ministerebene üben
 ihre Tätigkeit im Einvernehmen mit dem Bundesministerium der Finanzen
 aus, der das Benehmen mit dem Bundesministerium für Wirtschaft und
-Technologie herstellt.
+Energie herstellt.
 
 (2) Die sonstigen Erklärungsberechtigten im Gouverneursrat und im Rat
 auf Ministerebene sowie die Erklärungsberechtigten im

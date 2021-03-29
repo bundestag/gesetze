@@ -3,7 +3,7 @@ Title: Gesetz zu dem Fakultativprotokoll vom 18. Dezember 2002 zum Übereinkomme
   Folter und andere grausame, unmenschliche oder erniedrigende Behandlung oder Strafe
 jurabk: FoltÜbkFakProtG
 layout: default
-origslug: folt_bkfakprotg
+origslug: foltuebkfakprotg
 slug: foltuebkfakprotg
 
 ---

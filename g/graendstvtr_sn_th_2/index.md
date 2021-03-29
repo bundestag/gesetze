@@ -3,7 +3,7 @@ Title: Zweiter Staatsvertrag zwischen dem Freistaat Sachsen und dem Freistaat Th
   über die Änderung der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtr SN/TH 2
 layout: default
-origslug: gr_ndstvtr_sn_th_2
+origslug: graendstvtr_sn_th_2
 slug: graendstvtr_sn_th_2
 
 ---
@@ -265,8 +265,6 @@ Ratifikationsurkunden in Kraft.
 
 ## Anlage
 
-(Inhalt: Nicht darstellbare Karte betr. Änderung der gemeinsamen
-Landesgrenze zwischen dem Freistaat Sachsen und dem Freistaat
-Thüringen,
-Fundstelle: BGBl. I 1994, 2857)
+(Fundstelle: BGBl. I 1994, 2857)
 
+![bgbl1_1994_j2857_0010.jpg](bgbl1_1994_j2857_0010.jpg)

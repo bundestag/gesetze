@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   RGBl: 1888, 169
 
-Geändert durch
-:   Art. 151 G v. 2.3.1974 I 469
+Zuletzt geändert durch
+:   Art. 2 Abs. 2 G v. 23.5.2017 I 1226
 
 
 ## § 1
@@ -66,11 +66,11 @@ Deutsche Mark geahndet werden.
 
 ## § 3
 
-Die §§ 113, 114 Abs. 2 des Strafgesetzbuchs finden Anwendung, wenn die
-in denselben vorgesehenen Handlungen gegen die in Artikel 10 des
-Vertrages bezeichneten Schiffsbefehlshaber begangen werden, während
-dieselben in Ausübung der ihnen dortselbst erteilten Befugnisse
-begriffen sind.
+Die §§ 113, 114 und 115 Absatz 2 des Strafgesetzbuchs finden
+Anwendung, wenn die in denselben vorgesehenen Handlungen gegen die in
+Artikel 10 des Vertrages bezeichneten Schiffsbefehlshaber begangen
+werden, während dieselben in Ausübung der ihnen dortselbst erteilten
+Befugnisse begriffen sind.
 
 
 ## § 4

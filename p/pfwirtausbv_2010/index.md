@@ -1861,8 +1861,9 @@ November 1975 (BGBl. I S. 2719), die durch Artikel 1 Nummer 7 der
 Verordnung vom 20. Juli 1979 (BGBl. I S. 1145) geändert worden ist,
 außer Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Pferdewirt/zur Pferdewirtin
 
 (Fundstelle: BGBl. I 2010, 738 - 747;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

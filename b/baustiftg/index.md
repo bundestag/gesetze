@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3177
 
+Geändert durch
+:   Art. 123 V v. 31.8.2015 I 1474
+
 
 
 ## § 1 Name, Rechtsform und Sitz der Stiftung
@@ -123,10 +126,10 @@ und vertritt die Stiftung gerichtlich und außergerichtlich.
 1.  fünf Mitglieder entsendet der Deutsche Bundestag aus seiner Mitte,
 
 
-2.  je ein Mitglied entsenden das Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung, das Bundesministerium der Finanzen sowie die für
-    Angelegenheiten der Kultur und der Medien zuständige oberste
-    Bundesbehörde,
+2.  je ein Mitglied entsenden das Bundesministerium für Umwelt,
+    Naturschutz, Bau und Reaktorsicherheit, das Bundesministerium der
+    Finanzen sowie die für Angelegenheiten der Kultur und der Medien
+    zuständige oberste Bundesbehörde,
 
 
 3.  fünf Mitglieder entsendet der Konvent der Baukultur.
@@ -140,7 +143,8 @@ vorzeitig aus, kann für den Rest seiner Amtszeit ein Nachfolger
 benannt werden.
 
 (3) Den Vorsitz des Stiftungsrats hat der Vertreter des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung inne.
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+inne.
 
 (4) Der Stiftungsrat befindet über alle Angelegenheiten, die für die
 Stiftung von grundsätzlicher Bedeutung sind, insbesondere über die
@@ -149,8 +153,8 @@ sowie das Arbeitsprogramm und seine Umsetzung.
 
 (5) In Haushalts- und Personalangelegenheiten bedürfen die Beschlüsse
 des Stiftungsrats der Zustimmung der Vertreter des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung und des Bundesministeriums der
-Finanzen.
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit und des
+Bundesministeriums der Finanzen.
 
 (6) Der Stiftungsrat ist beschlussfähig, wenn mehr als die Hälfte
 seiner Mitglieder anwesend ist. Er fasst seine Beschlüsse mit
@@ -207,7 +211,7 @@ bedürfen ebenfalls der Mehrheit der Mitglieder des Stiftungsrats.
 ## § 10 Aufsicht, Haushalt, Rechnungsprüfung
 
 (1) Die Stiftung untersteht der Rechtsaufsicht des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung.
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (2) Für das Haushalts-, Kassen- und Rechnungswesen sowie für die
 Rechnungslegung der Stiftung finden die für die Bundesverwaltung

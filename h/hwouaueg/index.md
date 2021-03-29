@@ -3,7 +3,7 @@ Title: Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwe
   und anderer handwerksrechtlicher Vorschriften
 jurabk: HwOuaÜG
 layout: default
-origslug: hwoua_g
+origslug: hwouaueg
 slug: hwouaueg
 
 ---

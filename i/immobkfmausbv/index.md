@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur Immobilienkauffrau
+Title: Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur  Immobilienkauffrau
 jurabk: ImmobKfmAusbV
 layout: default
 origslug: immobkfmausbv
@@ -7,7 +7,7 @@ slug: immobkfmausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur Immobilienkauffrau (ImmobKfmAusbV)
+# Verordnung über die Berufsausbildung zum Immobilienkaufmann/zur  Immobilienkauffrau (ImmobKfmAusbV)
 
 Ausfertigungsdatum
 :   2006-02-14
@@ -369,8 +369,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 401 - 406)
 
@@ -1177,8 +1178,9 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Immobilienkaufmann/ zur Immobilienkauffrau - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 407 - 408)
 

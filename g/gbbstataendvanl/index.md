@@ -3,7 +3,7 @@ Title: Statut der GBB Genossenschafts-Holding Berlin (Anlage zur Verordnung zur 
   des Statuts der Genossenschaftsbank Berlin und zu deren Umwandlung)
 jurabk: GBBStatÄndVAnl
 layout: default
-origslug: gbbstat_ndvanl
+origslug: gbbstataendvanl
 slug: gbbstataendvanl
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1991, 2124
 
 Zuletzt geändert durch
-:   Art. 342 V v. 31.10.2006 I 2407
+:   Art. 3 V v. 31.8.2015 I 1474
 
 
 ## § 1 Rechtsform, Sitz und Kapital
@@ -121,11 +121,10 @@ gehören an:
 1.  ein Vertreter des Bundesministeriums der Finanzen,
 
 
-2.  ein Vertreter des Bundesministeriums für Wirtschaft und Technologie,
+2.  ein Vertreter des Bundesministeriums für Wirtschaft und Energie,
 
 
-3.  ein Vertreter des Bundesministeriums für Ernährung, Landwirtschaft und
-    Verbraucherschutz.
+3.  ein Vertreter des Bundesministeriums für Ernährung und Landwirtschaft.
 
 
 

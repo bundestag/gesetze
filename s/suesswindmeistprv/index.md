@@ -3,7 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Abschluß Geprüfter Indust
   Industriemeisterin - Fachrichtung Süßwaren
 jurabk: SüßwIndMeistPrV
 layout: default
-origslug: s__windmeistprv
+origslug: suesswindmeistprv
 slug: suesswindmeistprv
 
 ---

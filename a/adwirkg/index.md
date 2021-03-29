@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2950, 2953
 
 Zuletzt geändert durch
-:   Art. 68 G v. 17.12.2008 I 2586
+:   Art. 22 G v. 20.11.2015 I 2010
 
 
 ## § 1 Anwendungsbereich
@@ -71,8 +71,8 @@ den deutschen Sachvorschriften angenommenen Kindes erhält, wenn
     Kind-Verhältnis beendenden Wirkung erteilt sind und
 
 
-3.  überwiegende Interessen des Ehegatten oder der Kinder des Annehmenden
-    oder des Angenommenen nicht entgegenstehen.
+3.  überwiegende Interessen des Ehegatten, des Lebenspartners oder der
+    Kinder des Annehmenden oder des Angenommenen nicht entgegenstehen.
 
 
 
@@ -119,7 +119,7 @@ deutschen Sachvorschriften vorgesehenen Wirkungen abweichen.
 
 
 
-Von der Antragsbefugnis nach Satz 1 Nr. 1 Buchstabe d und e ist nur in
+Von der Antragsbefugnis nach Satz 1 Nr. 1 Buchstabe d ist nur in
 Zweifelsfällen Gebrauch zu machen. Für den Antrag nach Satz 1 Nr. 2
 gelten § 1752 Abs. 2 und § 1753 des Bürgerlichen Gesetzbuchs.
 
@@ -140,7 +140,7 @@ beantragt werden.
 in dessen Bezirk ein Oberlandesgericht seinen Sitz hat, für den Bezirk
 dieses Oberlandesgerichts; für den Bezirk des Kammergerichts
 entscheidet das Amtsgericht Schöneberg. Für die internationale und die
-örtliche Zuständigkeit gelten die §§ 101 und 187 Abs. 1, 2 und 4 des
+örtliche Zuständigkeit gelten die §§ 101 und 187 Absatz 1, 2 und 5 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend.
 
@@ -152,8 +152,8 @@ Bezirke aller oder mehrerer Oberlandesgerichte zuzuweisen. Sie können
 die Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 (3) Das Familiengericht entscheidet im Verfahren der freiwilligen
-Gerichtsbarkeit. Die §§ 167 und 168 Abs. 1 Satz 1, Abs. 2 bis 4 des
-Gesetzes über das Verfahren in Familiensachen und in den
+Gerichtsbarkeit. Die §§ 159 und 160 Absatz 1 Satz 1, Absatz 2 bis 4
+des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit sind entsprechend
 anzuwenden. Im Verfahren nach § 2 wird ein bisheriger Elternteil nur
 nach Maßgabe des § 4 Abs. 2 Satz 3 und 4 angehört. Im Verfahren nach §

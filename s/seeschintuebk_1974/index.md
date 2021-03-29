@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen von 1974 zum Schutz des menschlichen Leben
   See
 jurabk: SeeSchIntÜbk 1974
 layout: default
-origslug: seeschint_bk_1974
+origslug: seeschintuebk_1974
 slug: seeschintuebk_1974
 
 ---

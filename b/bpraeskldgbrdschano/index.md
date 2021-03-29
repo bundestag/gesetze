@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Beamten des Brandschutzdienstes der Bundeswehr
 jurabk: BPräsKldgBrdSchAnO
 layout: default
-origslug: bpr_skldgbrdschano
+origslug: bpraeskldgbrdschano
 slug: bpraeskldgbrdschano
 
 ---

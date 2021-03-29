@@ -1,5 +1,5 @@
 ---
-Title: Kostenverordnung für Amtshandlungen der Wasser- und Schifffahrtsverwaltung
+Title: Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung
   des Bundes auf dem Gebiet der Seeschifffahrt
 jurabk: WSVSeeKostV 2004
 layout: default
@@ -8,7 +8,7 @@ slug: wsvseekostv_2004
 
 ---
 
-# Kostenverordnung für Amtshandlungen der Wasser- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt (WSVSeeKostV 2004)
+# Kostenverordnung für Amtshandlungen der Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet der Seeschifffahrt (WSVSeeKostV 2004)
 
 Ausfertigungsdatum
 :   2004-09-22
@@ -16,8 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2363 (2804)
 
-Geändert durch
-:   Art. 2 V v. 6.5.2010 I 573
+V aufgeh. durch
+:   Art. 4 Abs. 130 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 59 V v. 2.6.2016 I 1257
+
+Stand: Diese V ersetzt die V 9510-25 v. 21.12.2001 I 4234 (WSVSeeKostV 2002)
+V aufgeh. durch
+:   Art. 4 Abs. 137 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018, dadurch ist die Geltung der V über den 14.8.2018 hinaus verlängert worden
 
 
 
@@ -58,31 +65,35 @@ Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821):
 
 ## § 1 Gebühren und Auslagen
 
-(1) Für Amtshandlungen der Wasser- und Schifffahrtsverwaltung des
-Bundes auf dem Gebiet der Seeschifffahrt werden Gebühren nach dem
-Gebührenverzeichnis der Anlage zu dieser Verordnung erhoben. Betreffen
-Amtshandlungen Schiffe oder schwimmende Geräte, die für Arbeiten beim
-Ausbau oder bei der Unterhaltung der Bundeswasserstraßen eingesetzt
-sind, werden Gebühren nicht erhoben. Dies gilt auch für den Umtausch
-und die Verlängerung von Patenten der nautischen Bediensteten der
-Wasser- und Schifffahrtsverwaltung, die im schifffahrtspolizeilichen
-Bereich tätig sind.
+(1) Für individuell zurechenbare öffentliche Leistungen der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes auf dem Gebiet
+der Seeschifffahrt werden Gebühren nach dem Gebührenverzeichnis der
+Anlage zu dieser Verordnung erhoben. Betreffen individuell
+zurechenbare öffentliche Leistungen Schiffe oder schwimmende Geräte,
+die für Arbeiten beim Ausbau oder bei der Unterhaltung der
+Bundeswasserstraßen eingesetzt sind, werden Gebühren nicht erhoben.
+Dies gilt auch für den Umtausch und die Verlängerung von Patenten der
+nautischen Bediensteten der Wasserstraßen- und Schifffahrtsverwaltung,
+die im schifffahrtspolizeilichen Bereich tätig sind.
 
-(2) Auslagen werden gesondert erhoben. Für Auslagen nach § 10 Abs. 1
-Nr. 1 des Verwaltungskostengesetzes kann ein Mindestpauschalsatz von 5
-Euro erhoben werden.
+(2) Auslagen werden gesondert erhoben. Für Auslagen nach § 10 Absatz 1
+Nummer 1 des Verwaltungskostengesetzes in der bis zum 14. August 2013
+geltenden Fassung kann ein Mindestpauschalsatz von 5 Euro erhoben
+werden.
 
-(3) Erfordert eine Amtshandlung ein Tätigwerden der Behörde außerhalb
-der Dienstzeit, so kann ein dem entstehenden Aufwand entsprechender
-Betrag bis zur Höhe der doppelten Gebühr erhoben werden.
+(3) Erfordert eine individuell zurechenbare öffentliche Leistung ein
+Tätigwerden der Behörde außerhalb der Dienstzeit, so kann ein dem
+entstehenden Aufwand entsprechender Betrag bis zur Höhe der doppelten
+Gebühr erhoben werden.
 
 
 ## § 2 Allgemeine Gebührengrundsätze
 
 (1) Soweit im Gebührenverzeichnis Rahmengebühren vorgesehen sind, ist
-die im Einzelfall zu erhebende Gebühr nach Maßgabe des § 9 Abs. 1 des
-Verwaltungskostengesetzes zu bemessen. Die Mindestgebühr ist nur dann
-zu erheben, wenn eine formularmäßige Bearbeitung möglich ist.
+die im Einzelfall zu erhebende Gebühr nach Maßgabe des § 23 Absatz 4
+Satz 2 und 3 des Bundesgebührengesetzes zu bemessen. Die Mindestgebühr
+ist nur dann zu erheben, wenn eine formularmäßige Bearbeitung möglich
+ist.
 
 (2) Die nach den Nummern 2 bis 7 und 49 bis 53 des
 Gebührenverzeichnisses zu erhebenden Gebühren sind um 50 Prozent zu
@@ -108,11 +119,12 @@ zu legen.
 
 Diese Verordnung tritt am 1. Oktober 2004 in Kraft.
 
+(zu § 1 Abs 1)
 
-## Anlage (zu § 1 Abs 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2365 - 2372, 2804;
-bezüglich einzelner Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 2004, 2365 - 2372, 2804;
+bezüglich einzelner Änderungen vgl. Fußnote)
 
 *    *   Nr.
 
@@ -150,67 +162,67 @@ bezüglich einzelner Änderungen vgl. Fußnote
 
     *
 
-*    *   bis 3.000 BRZ
+*    *   bis 3 000 BRZ
 
     *   58
 
 
-*    *   6.000 BRZ
+*    *   6 000 BRZ
 
     *   72
 
 
-*    *   10.000 BRZ
+*    *   10 000 BRZ
 
     *   86
 
 
-*    *   20.000 BRZ
+*    *   20 000 BRZ
 
     *   102
 
 
-*    *   30.000 BRZ
+*    *   30 000 BRZ
 
     *   122
 
 
-*    *   40.000 BRZ
+*    *   40 000 BRZ
 
     *   152
 
 
-*    *   60.000 BRZ
+*    *   60 000 BRZ
 
     *   177
 
 
-*    *   80.000 BRZ
+*    *   80 000 BRZ
 
     *   210
 
 
-*    *   100.000 BRZ
+*    *   100 000 BRZ
 
     *   240
 
 
-*    *   110.000 BRZ
+*    *   110 000 BRZ
 
     *   267
 
 
-*    *   120.000 BRZ
+*    *   120 000 BRZ
 
     *   297
 
 
-*    *   130.000 BRZ
+*    *   130 000 BRZ
 
     *   360
 
 
-*    *   über 130.000 BRZ
+*    *   über 130 000 BRZ
 
     *   414
 
@@ -238,57 +250,57 @@ bezüglich einzelner Änderungen vgl. Fußnote
 
     *
 
-*    *   bis 1.500 BRZ
+*    *   bis 1 500 BRZ
 
     *   58
 
 
-*    *   4.000 BRZ
+*    *   4 000 BRZ
 
     *   85
 
 
-*    *   6.500 BRZ
+*    *   6 500 BRZ
 
     *   102
 
 
-*    *   10.000 BRZ
+*    *   10 000 BRZ
 
     *   122
 
 
-*    *   20.000 BRZ
+*    *   20 000 BRZ
 
     *   167
 
 
-*    *   30.000 BRZ
+*    *   30 000 BRZ
 
     *   195
 
 
-*    *   40.000 BRZ
+*    *   40 000 BRZ
 
     *   222
 
 
-*    *   50.000 BRZ
+*    *   50 000 BRZ
 
     *   250
 
 
-*    *   60.000 BRZ
+*    *   60 000 BRZ
 
     *   278
 
 
-*    *   70.000 BRZ
+*    *   70 000 BRZ
 
     *   333
 
 
-*    *   über 70.000 BRZ
+*    *   über 70 000 BRZ
 
     *   415
 
@@ -366,37 +378,37 @@ bezüglich einzelner Änderungen vgl. Fußnote
     *   45
 
 
-*    *   736 kW ( 1.000 PS)
+*    *   736 kW ( 1 000 PS)
 
     *   48
 
 
-*    *   1.471 kW ( 2.000 PS)
+*    *   1 471 kW ( 2 000 PS)
 
     *   58
 
 
-*    *   3.678 kW ( 5.000 PS)
+*    *   3 678 kW ( 5 000 PS)
 
     *   70
 
 
-*    *   7.355 kW (10.000 PS)
+*    *   7 355 kW (10 000 PS)
 
     *   102
 
 
-*    *   14.710 kW (20.000 PS)
+*    *   14 710 kW (20 000 PS)
 
     *   135
 
 
-*    *   22.065 kW (30.000 PS)
+*    *   22 065 kW (30 000 PS)
 
     *   167
 
 
-*    *   über 22.065 kW (30.000 PS)
+*    *   über 22 065 kW (30 000 PS)
 
     *   222
 
@@ -472,32 +484,32 @@ bezüglich einzelner Änderungen vgl. Fußnote
 
     *
 
-*    *   bis 3.000 BRZ
+*    *   bis 3 000 BRZ
 
     *   55
 
 
-*    *   6.000 BRZ
+*    *   6 000 BRZ
 
     *   70
 
 
-*    *   10.000 BRZ
+*    *   10 000 BRZ
 
     *   85
 
 
-*    *   20.000 BRZ
+*    *   20 000 BRZ
 
     *   100
 
 
-*    *   30.000 BRZ
+*    *   30 000 BRZ
 
     *   120
 
 
-*    *   40.000 BRZ
+*    *   40 000 BRZ
 
     *   150
 
@@ -1197,32 +1209,34 @@ bezüglich einzelner Änderungen vgl. Fußnote
 
 *    *   55
 
-    *   Widerruf oder Rücknahme einer Amtshandlung, soweit der Betroffene dazu
-        Anlass gegeben hat
+    *   Widerruf oder Rücknahme eines Verwaltungsaktes, soweit der Betroffene
+        dazu Anlass gegeben hat
 
     *
-    *   bis zu 75 vom Hundert der Amtshandlungsgebühr
+    *   bis zu 75 vom Hundert der Gebühr für den Verwaltungsakt
 
 
 *    *   56
 
     *   Antragsablehnung aus anderen Gründen als wegen Unzuständigkeit oder
-        Rücknahme eines Antrages auf Vornahme einer Amtshandlung nach Beginn
-        der sachlichen Bearbeitung, jedoch vor deren Beendigung
+        Rücknahme eines Antrages auf Vornahme einer individuell zurechenbaren
+        öffentlichen Leistung nach Beginn der sachlichen Bearbeitung, jedoch
+        vor deren Beendigung
 
     *
-    *   bis zu 75 vom Hundert der Amtshandlungsgebühr
+    *   bis zu 75 vom Hundert der Gebühr für die individuell zurechenbare
+        öffentliche Leistung
 
 
 *    *   57
 
     *   Teilweise oder vollständige Zurückweisung des Widerspruchs, soweit
         sich der Widerspruch nicht ausschließlich gegen eine
-        Kostenentscheidung richtet
+        Gebührenfestsetzung richtet
 
     *
-    *   10 bis zu dem Betrag, der für die Vornahme der angefochtenen
-        Amtshandlung vorgesehen ist
+    *   10 bis zu dem Betrag, der für die Vornahme des angefochtenen
+        Verwaltungsaktes vorgesehen ist
 
 
 *    *
@@ -1240,6 +1254,47 @@ bezüglich einzelner Änderungen vgl. Fußnote
 
     *
     *   bis zu 75 vom Hundert der Gebühr nach Nr. 57
+
+
+*    *   59
+
+    *   Erlaubnis eines Umpumpvorganges
+
+    *   § 5 Abs. 2 Satz 2 der See-Umweltverhaltensverordnung
+
+    *   58 bis 414
+
+
+*    *   60
+
+    *   Übermittlung schiffsbezogener Daten
+
+    *   § 2 Absatz 1 Satz 1 der See-Datenübermittlung-Durchführungsverordnung
+        in Verbindung mit § 9e Absatz 2 Satz 5 des Seeaufgabengesetzes
+
+    *   320
+
+
+*    *   61
+
+    *   Übermittlung schiffsbezogener Daten in besonderen Fällen
+
+    *   § 2 Absatz 1 Satz 1 der See-Datenübermittlung-Durchführungsverordnung
+        in Verbindung mit § 9e Absatz 2 Satz 5 des Seeaufgabengesetzes
+
+    *   650
+
+
+*    *   62
+
+    *   Laufende Systemüberwachung für die regelmäßige Übermittlung
+        schiffsbezogener Daten und schiffsbezogener Daten in besonderen Fällen
+
+    *   § 2 Absatz 1 Satz 1 der See-Datenübermittlung-Durchführungsverordnung
+        in Verbindung mit § 9e Absatz 2 Satz 5 des Seeaufgabengesetzes
+
+    *   110
+        jährlich
 
 
 

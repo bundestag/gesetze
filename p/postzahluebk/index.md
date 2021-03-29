@@ -2,7 +2,7 @@
 Title: Postzahlungsdienste-Übereinkommen
 jurabk: PostZahlÜbk
 layout: default
-origslug: postzahl_bk
+origslug: postzahluebk
 slug: postzahluebk
 
 ---

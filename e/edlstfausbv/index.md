@@ -370,8 +370,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin*)
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Edelsteinfasser/zur Edelsteinfasserin\*)
 
 (Fundstelle: BGBl. I 1992, 785 - 792)
 

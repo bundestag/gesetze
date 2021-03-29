@@ -2,7 +2,7 @@
 Title: Gesetz zur Förderung der anderweitigen Verwendung von Berufssoldaten und Beamten
 jurabk: VerwFöG
 layout: default
-origslug: verwf_g
+origslug: verwfoeg
 slug: verwfoeg
 
 ---
@@ -351,7 +351,7 @@ Dienst bis zum ersten Werktag des dritten Monats nach Beendigung des
 Soldatenverhältnisse erfolgt. Satz 1 gilt nicht für Hinterbliebene.
 
 
-## Art 2 -
+## Art 2 - 
 
 
 

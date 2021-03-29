@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1908, 305
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 4 G v. 25.6.2009 I 1574
+:   Art. 2 Abs. 51 G v. 1.4.2015 I 434
 
 
 ## Art 1 Altverträge, Allgemeine Versicherungsbedingungen
@@ -45,10 +45,6 @@ Zeitpunkt in Textform mitteilt.
 Versicherungsvertrag, die vor dem 1. Januar 2008 begonnen haben, ist §
 12 Abs. 3 des Gesetzes über den Versicherungsvertrag auch nach dem 1.
 Januar 2008 anzuwenden.
-
-
-## (XXXX) Art 7 bis 15 (weggefallen)
-
 
 
 ## Art 2 Vollmacht des Versicherungsvertreters, Krankenversicherung
@@ -158,4 +154,34 @@ erlischt mit Ablauf des 31. Dezember 2008.
 Das Versicherungsvertragsgesetz gilt nicht für die in § 190 des
 Gesetzes über den Versicherungsvertrag in der bis zum 31. Dezember
 2007 geltenden Fassung bezeichneten Altverträge.
+
+
+## Art 7 Krankenversicherung, Versicherungsverhältnisse nach § 193 Absatz 6 des Versicherungsvertragsgesetzes
+
+Versicherungsnehmer, für die am 1. August 2013 das Ruhen der
+Leistungen gemäß § 193 Absatz 6 des Versicherungsvertragsgesetzes
+festgestellt ist, gelten ab diesem Zeitpunkt als im Notlagentarif §
+153 des Versicherungsaufsichtsgesetzes versichert. Versicherungsnehmer
+gelten rückwirkend ab dem Zeitpunkt, zu dem die Leistungen aus dem
+Vertrag ruhend gestellt worden sind, als im Notlagentarif versichert,
+wenn die monatliche Prämie des Notlagentarifs niedriger ist als die in
+diesem Zeitpunkt geschuldete Prämie. Dies gilt unter der Maßgabe, dass
+die zum Zeitpunkt des Ruhendstellens aus dem Vertrag erworbenen Rechte
+und Alterungsrückstellungen erhalten bleiben und in Anspruch genommene
+Ruhensleistungen im Verhältnis zum Versicherungsnehmer als solche des
+Notlagentarifs gelten. Eine Anrechnung gebildeter
+Alterungsrückstellungen nach § 153 Absatz 2 Satz 6 des
+Versicherungsaufsichtsgesetzes auf die zu zahlende Prämie findet
+rückwirkend nicht statt. Der Versicherungsnehmer kann der
+rückwirkenden Versicherung nach Satz 2 widersprechen. Die Versicherer
+haben auf die Versicherung im Notlagentarif innerhalb von drei Monaten
+nach dem 1. August 2013 hinzuweisen und hierbei den
+Versicherungsnehmer über sein Widerspruchsrecht nach Satz 5 unter
+Hinweis auf die mit der rückwirkenden Versicherung verbundenen Folgen
+zu informieren; der Widerspruch muss innerhalb von sechs Monaten nach
+Zugang des Hinweises beim Versicherer eingehen.
+
+
+## (XXXX) Art 8 bis 15 (weggefallen)
+
 

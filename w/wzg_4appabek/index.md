@@ -53,6 +53,5 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-(Inhalt: Nicht darstellbare Abbildungen,
 Fundstelle: BGBl. I 1990, 1007)
-
+![bgbl1_1990_j1007_0010.jpg](bgbl1_1990_j1007_0010.jpg)

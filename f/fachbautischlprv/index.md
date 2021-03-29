@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1492
 
+Geändert durch
+:   Art. 3 V v. 30.11.2017 I 3827
+
 
 
 ## Eingangsformel
@@ -452,8 +455,35 @@ Prüfungsleistung erzielt wurde. Dabei darf die Situationsaufgabe nicht
 mit weniger als 50 Punkten und das Fachgespräch nicht mit weniger als
 30 Punkten bewertet worden sein.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen.
+(3) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 4 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung und die Punktebewertung der Prüfungsbestandteile
+    Situationsaufgabe und situationsbezogenes Fachgespräch, die Gewichtung
+    dieser beiden Prüfungsbestandteile und die Note nach Absatz 1 Satz 1
+    und
+
+
+2.  gegebenenfalls die Befreiungen nach § 42c Absatz 2 der
+    Handwerksordnung.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 2 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 6 Wiederholung der Prüfung
@@ -464,68 +494,4 @@ Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
-
-
-## Anlage 1 (zu § 5 Abs. 3)
-
-Fundstelle des Originaltextes: BGBl. I 2004, 1496
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk
-Herr/Frau
-.....................................................................
-geboren am .............................  in
-.................................
-hat am .................................  die Prüfung zum anerkannten
-Abschluss
-Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk vom
-6\. Juli 2004 (BGBl. I S. 1492)
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 5 Abs. 3)
-
-Fundstelle des Originaltextes: BGBl. I 2004, 1497
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk
-Herr/Frau
-.....................................................................
-geboren am .............................  in
-.................................
-hat am .................................  die Prüfung zum anerkannten
-Abschluss
-Geprüfter Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Fachbauleiter/Geprüfte Fachbauleiterin im Tischlerhandwerk vom
-6\. Juli 2004 (BGBl. I S. 1492) mit folgenden Ergebnissen 1) bestanden:
-Note ..............
-Punkte
-I. Situationsaufgabe                  .......... x 2 =
-..............
-II. Situationsbezogenes Fachgespräch
-..............
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
-
-1)  Den Bewertungen liegt folgender Punkteschlüssel zugrunde: ............
-
-
-
 

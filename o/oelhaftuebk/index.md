@@ -2,7 +2,7 @@
 Title: Internationales Übereinkommen über die zivilrechtliche Haftung für Ölverschmutzungsschäden
 jurabk: ÖlHaftÜbk
 layout: default
-origslug: _lhaft_bk
+origslug: oelhaftuebk
 slug: oelhaftuebk
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1959, 245
 
 Zuletzt geändert durch
-:   Art. 12 G v. 7.9.2007 I 2246
+:   Art. 4 G v. 21.7.2016 I 1768
 
 
 ## § 1
@@ -55,8 +55,8 @@ Reihenfolge.
 
 ## § 2
 
-Das Bundesministerium für Wirtschaft und Technologie kann zum Zweck
-einer zeitlichen Anpassung der Kostenstrukturerhebungen an andere
+Das Bundesministerium für Wirtschaft und Energie kann zum Zweck einer
+zeitlichen Anpassung der Kostenstrukturerhebungen an andere
 statistische Erhebungen durch Rechtsverordnung die Reihenfolge der
 Erhebungen bei den vier in § 1 bezeichneten Bereichen abändern.
 
@@ -112,27 +112,44 @@ Kalenderjahr oder Geschäftsjahr.
 ## § 5
 
 (1) Für die Erhebungen nach § 1 besteht Auskunftspflicht.
-Auskunftspflichtig sind die Inhaber oder Leiter der Unternehmen und
-Arbeitsstätten.
+Auskunftspflichtig sind die Inhaberinnen und Inhaber oder Leitungen
+der Unternehmen und Arbeitsstätten. Die Angaben zu § 6 Nummer 2 sind
+freiwillig.
 
 (2) Die Erhebungen werden bei höchstens 5 vom Hundert der Gesamtzahl
 der Unternehmen der gewerblichen Wirtschaft und sonstiger
-Arbeitsstätten (§ 1) für  die einzelnen Wirtschaftszweige
-durchgeführt.
+Arbeitsstätten (§ 1) für die einzelnen Wirtschaftszweige durchgeführt.
 
-(3) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g
-Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom  19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von
-Absatz 1 keine Auskunftspflicht. In den beiden folgenden
-Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
-von weniger als 500.000 Euro erwirtschaftet hat.
+(3) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht. In
+den beiden folgenden Kalenderjahren besteht dann keine
+Auskunftspflicht, wenn das Unternehmen im letzten abgeschlossenen
+Geschäftsjahr Umsätze in Höhe von weniger als 800 000 Euro
+erwirtschaftet hat. Gesellschaften können sich auf die Befreiung von
+der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(4) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 3
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
 
 
-## § 6 (weggefallen)
+## § 6
 
--
+Hilfsmerkmale der Erhebungen nach § 1 sind
+
+1.  Name, Anschrift, Telefonnummer und Adresse für elektronische Post der
+    nach § 5 Absatz 1 Satz 2 Auskunftgebenden,
+
+
+2.  Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden
+    Personen.
+
+
+
 
 
 ## § 7

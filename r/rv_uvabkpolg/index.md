@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1976, 393
 
 Zuletzt geändert durch
-:   Art. 22 G v. 21.6.2002 I 2167
+:   Art. 16 Abs. 4 G v. 19.10.2013 I 3836
 
 
 ## Eingangsformel
@@ -147,11 +147,12 @@ Rentenausgaben im Jahre 1974 aufzubringen.
 (3) Das Bundesversicherungsamt setzt im Einvernehmen mit dem
 Bundesminister für Arbeit und Sozialordnung die jeweils fälligen Raten
 für die Bundesversicherungsanstalt für Angestellte, die
-Bundesknappschaft, die Unfallkasse des Bundes und den Hauptverband der
-gewerblichen Berufsgenossenschaften fest. Diese Stellen überweisen bei
-Inkrafttreten des Abkommens den auf sie entfallenden Anteil der ersten
-Rate und in jeweils zwölfmonatlichen Abständen die Anteile der zweiten
-und dritten Rate an das Bundesversicherungsamt.
+Bundesknappschaft, die Unfallversicherung Bund und Bahn und den
+Hauptverband der gewerblichen Berufsgenossenschaften fest. Diese
+Stellen überweisen bei Inkrafttreten des Abkommens den auf sie
+entfallenden Anteil der ersten Rate und in jeweils zwölfmonatlichen
+Abständen die Anteile der zweiten und dritten Rate an das
+Bundesversicherungsamt.
 
 (4) Die Zahlung der nach Artikel 2 der Vereinbarung fälligen Raten
 erfolgt durch das Bundesversicherungsamt im Einvernehmen mit dem

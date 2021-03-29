@@ -3,7 +3,7 @@ Title: Gesetz über das Washingtoner Übereinkommen betreffend die Beschäftigun
   Frauen vor und nach der Niederkunft
 jurabk: MuSchÜbkG
 layout: default
-origslug: musch_bkg
+origslug: muschuebkg
 slug: muschuebkg
 
 ---
@@ -23,8 +23,7 @@ Fundstelle
 ... Für die Durchführung des Übereinkommens sind das Zweite Gesetz
 über Abänderung des Zweiten Buches der Reichsversicherungsordnung vom
 9\. Juli 1926 (Reichsgesetzbl. I S. 407) sowie das
-Gesetz über die Beschäftigung vor und nach der Niederkunft
-maßgebend.
+Gesetz über die Beschäftigung vor und nach der Niederkunft maßgebend.
 
 
 ## § 2

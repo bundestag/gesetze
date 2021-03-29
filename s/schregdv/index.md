@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.11.1994 I 3631; 1995 I 249;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 6.7.2010 I 880
+:   Art. 30 G v. 5.7.2017 I 2208
 
 
 ## Erster Abschnitt - Einrichtung der Register im Allgemeinen
@@ -517,7 +517,8 @@ Eintragungen in Spalte 10 zu unterschreiben.
     a)  bei der ersten Eintragung des Schiffs der Grund des Erwerbs, bei
         Eigentumsänderungen die Grundlage der Eintragung (Einigungserklärung,
         Bewilligung der Berichtigung des Schiffsregisters, Erbschein,
-        Testament, Zuschlagsbeschluß, Ersuchen der zuständigen Behörde usw.);
+        Europäisches Nachlasszeugnis, Testament, Zuschlagsbeschluß, Ersuchen
+        der zuständigen Behörde usw.);
 
 
     b)  der Verzicht auf das Eigentum;
@@ -640,8 +641,8 @@ und 8 in Spalte 8 zu unterschreiben.
 ### § 31
 
 (1) Das Registergericht führt ein Verzeichnis der ihm vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung oder einer von
-diesem bestimmten Stelle zum Zwecke der Zuteilung an einzutragende
+Bundesministerium für Verkehr und digitale Infrastruktur oder einer
+von diesem bestimmten Stelle zum Zwecke der Zuteilung an einzutragende
 Seeschiffe (§ 16 Abs. 2 der Schiffsregisterordnung) zur Verfügung
 gestellten Unterscheidungssignale in alphabetischer Reihenfolge. In
 dieser Reihenfolge teilt es die einzelnen Unterscheidungssignale den
@@ -1043,9 +1044,9 @@ Löschung ist in Spalte 5 zu unterschreiben.
 
 2.  in Spalte 2:
 
-    a)  der Eigentümer des Schiffsbauwerks oder die Miteigentümer, im Fall des
-        § 509 des Handelsgesetzbuchs (Baureederei) die sämtlichen Mitreeder,
-        gegebenenfalls der Korrespondentreeder;
+    a)  der Eigentümer des Schiffsbauwerks oder die Miteigentümer, bei einer
+        Baureederei die sämtlichen Mitreeder, gegebenenfalls der
+        Korrespondentreeder;
 
 
     b)  bei mehreren Eigentümern die in den §§ 51, 74 der
@@ -1536,14 +1537,169 @@ Anlegung des maschinell geführten Registers einschließlich seiner
 Freigabe ganz oder teilweise dem Urkundsbeamten der Geschäftsstelle zu
 übertragen und in der Schiffsregisterordnung, im Siebenten Abschnitt
 der Grundbuchordnung oder in dieser Verordnung nicht geregelte weitere
-Einzelheiten des Verfahrens nach diesem Abschnitt zu regeln, soweit
-dies nicht durch Verwaltungsvorschriften nach § 93 Satz 1 der
-Schiffsregisterordnung in Verbindung mit § 134 Satz 2 der
-Grundbuchordnung geschieht. Sie können diese Ermächtigung auf die
-Landesjustizverwaltungen übertragen.
+Einzelheiten des Verfahrens nach diesem Abschnitt zu regeln. Sie
+können diese Ermächtigung auf die Landesjustizverwaltungen übertragen.
 
 
-## Neunter Abschnitt - Übergangs- und Schlußvorschriften
+## Neunter Abschnitt - Elektronischer Rechtsverkehr und elektronische Registerakte
+
+
+
+### § 73a
+
+Die Vorschriften dieser Verordnung über die Registerakten gelten auch
+für die elektronischen Registerakten, soweit in diesem Abschnitt
+nichts anderes bestimmt ist.
+
+
+### § 73b
+
+Für die Bestimmung des Datenspeichers für die elektronischen
+Registerakten, die Anforderungen an technische Anlagen und Programme,
+die Sicherung der Anlagen, Programme und Daten sowie die
+Datenverarbeitung im Auftrag gelten die §§ 56, 58 und 72 sinngemäß.
+
+
+### § 73c
+
+(1) Die Registerakte kann vollständig oder teilweise elektronisch
+geführt werden. Bei teilweiser elektronischer Führung sind in beide
+Teile der Registerakte Hinweise auf den jeweils anderen Teil
+aufzunehmen.
+
+(2) Mit dem elektronischen Dokument ist in die Registerakte ein
+Protokoll darüber aufzunehmen,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokuments ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist,
+
+
+4.  welche Zertifikate mit welchen Daten dieser Signatur zugrunde lagen
+    und
+
+
+5.  wann die Feststellungen nach den Nummern 1 bis 4 getroffen wurden.
+
+
+
+Satz 1 gilt nicht für elektronische Dokumente des Registergerichts.
+
+(3) Das Registergericht entscheidet vorbehaltlich des Satzes 3 nach
+pflichtgemäßem Ermessen, ob und in welchem Umfang der in Papierform
+vorliegende Inhalt der Registerakte in elektronische Dokumente
+übertragen und in dieser Form zur Registerakte genommen wird. Das
+Gleiche gilt für Dokumente, die nach der Anlegung der elektronischen
+Registerakte in Papierform eingereicht werden. Die Landesregierungen
+oder die von diesen ermächtigten Landesjustizverwaltungen können in
+der Rechtsverordnung nach § 73i diesbezügliche Verfahrensweisen ganz
+oder teilweise vorschreiben.
+
+(4) Elektronische Dokumente, die nach § 59 Absatz 1 der
+Schiffsregisterordnung vom Registergericht aufzubewahren sind, sind so
+zu speichern, dass sie über die Registerakten aller beteiligten
+Registerblätter eingesehen werden können. Satz 1 gilt nicht für
+Dokumente, die bereits in Papierform zu den Registerakten genommen
+wurden.
+
+
+### § 73d
+
+(1) Wird ein in Papierform vorliegendes Schriftstück in ein
+elektronisches Dokument übertragen und in dieser Form anstelle des in
+Papierform vorliegenden Schriftstücks in die Registerakte übernommen,
+ist vorbehaltlich des Absatzes 2 durch geeignete Vorkehrungen
+sicherzustellen, dass die Wiedergabe auf dem Bildschirm mit dem
+Schriftstück inhaltlich und bildlich übereinstimmt. Bei dem
+elektronischen Dokument ist zu vermerken, wann und durch wen die
+Übertragung vorgenommen wurde; zuständig ist der Urkundsbeamte der
+Geschäftsstelle.
+
+(2) Bei der Übertragung einer in Papierform eingereichten Urkunde, auf
+die eine aktuelle Registereintragung Bezug nimmt, hat der
+Urkundsbeamte der Geschäftsstelle bei dem elektronischen Dokument zu
+vermerken, dass die Wiedergabe auf dem Bildschirm mit dem Schriftstück
+inhaltlich und bildlich übereinstimmt. Durchstreichungen, Änderungen,
+Einschaltungen, Radierungen oder andere Mängel des Schriftstücks
+sollen in dem Vermerk angegeben werden. Das elektronische Dokument ist
+von dem Urkundsbeamten der Geschäftsstelle mit seinem Namen und einer
+qualifizierten elektronischen Signatur zu versehen. Ein Vermerk kann
+unterbleiben, soweit die in Satz 2 genannten Tatsachen aus dem
+elektronischen Dokument eindeutig ersichtlich sind.
+
+
+### § 73e
+
+(1) Wird ein elektronisches Dokument zur Übernahme in die Registerakte
+in die Papierform übertragen, ist durch geeignete Vorkehrungen
+sicherzustellen, dass der Ausdruck inhaltlich und bildlich mit der
+Wiedergabe des elektronischen Dokuments auf dem Bildschirm
+übereinstimmt. Bei dem Ausdruck sind die in § 73c Absatz 2 Satz 1
+genannten Feststellungen zu vermerken.
+
+(2) Wird ein elektronisches Dokument zur Erhaltung der Lesbarkeit in
+ein anderes Dateiformat übertragen, ist durch geeignete Vorkehrungen
+sicherzustellen, dass die Wiedergabe der Zieldatei auf dem Bildschirm
+inhaltlich und bildlich mit der Wiedergabe der Ausgangsdatei
+übereinstimmt. Protokolle nach § 73c Absatz 2, Vermerke nach § 73d
+sowie Eingangsvermerke nach § 136 Absatz 1 und 2 der Grundbuchordnung
+in Verbindung mit § 94 Absatz 5 der Schiffsregisterordnung sind
+ebenfalls in lesbarer Form zu erhalten; für sie gilt Satz 1
+entsprechend mit der Maßgabe, dass die inhaltliche Übereinstimmung
+sicherzustellen ist.
+
+(3) Im Fall einer Beschwerde hat das Registergericht von den in der
+elektronischen Registerakte gespeicherten Dokumenten Ausdrucke gemäß
+Absatz 1 für das Beschwerdegericht zu fertigen, soweit dies zur
+Durchführung des Beschwerdeverfahrens notwendig ist. Die Ausdrucke
+sind mindestens bis zum rechtskräftigen Abschluss des
+Beschwerdeverfahrens aufzubewahren.
+
+
+### § 73f
+
+(1) Für die Erteilung von Ausdrucken aus der elektronischen
+Registerakte gilt § 65 Absatz 1 und 2 entsprechend. In den amtlichen
+Ausdruck sind auch die zugehörigen Protokolle nach § 73c Absatz 2 und
+Vermerke nach § 73d aufzunehmen.
+
+(2) Für die Einsicht in die elektronischen Registerakten gilt § 67
+entsprechend.
+
+(3) Für den Abruf von Daten aus der elektronischen Registerakte im
+automatisierten Verfahren gelten die §§ 68 bis 70 entsprechend.
+
+
+### § 73g
+
+Kann der Inhalt der elektronischen Registerakte ganz oder teilweise
+auf Dauer nicht mehr in lesbarer Form wiedergegeben werden, so ist er
+wiederherzustellen. Für die Wiederherstellung gilt § 60 Absatz 1 Satz
+2 bis 4 entsprechend.
+
+
+### § 73h
+
+Geht die Zuständigkeit für die Führung eines Registerblattes auf ein
+anderes Registergericht desselben Landes über, so gilt für die Abgabe
+der elektronischen Akten § 92a der Grundbuchverfügung entsprechend.
+
+
+### § 73i
+
+Die Landesregierungen werden ermächtigt, weitere in der
+Schiffsregisterordnung oder in dieser Verordnung nicht geregelte
+Einzelheiten der Verfahren nach diesem Abschnitt durch
+Rechtsverordnung zu regeln. Sie können diese Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
+
+
+## Zehnter Abschnitt - Übergangs- und Schlußvorschriften
 
 
 
@@ -1619,7 +1775,6 @@ Fassung der Anlagen 1 bis 3 zu dieser Verordnung nicht geboten.
 
 ### § 76 (weggefallen)
 
--
 
 
 ### § 77
@@ -1632,7 +1787,6 @@ Ausstellung gültige Inhalt des Schiffsregisters aufzunehmen.
 
 ### § 78 (weggefallen)
 
--
 
 
 ### § 79
@@ -2015,7 +2169,7 @@ eingetragen wie folgt:
 5.  Tragfähigkeit, Wasserverdrängung, Maschinenleistung:
 
     a)  Tragfähigkeit in t/Wasserverdrängung in m
-        3                         : ..........
+        3: ..........
 
 
     b)  Maschinenleistung: ..........

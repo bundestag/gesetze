@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 90
 
+Geändert durch
+:   Art. 6 Abs. 2 G v. 28.5.2015 I 813
+
 
 ## Eingangsformel
 
@@ -53,15 +56,11 @@ Dienstposten im Sinne der Bundeslaufbahnverordnung gelten auch
 Tätigkeiten bei den Postnachfolgeunternehmen oder anderen Unternehmen,
 die wahrgenommen werden
 
-1.  während einer Beurlaubung nach § 4 Absatz 3 des
-    Postpersonalrechtsgesetzes,
+1.  während einer Beurlaubung nach § 4 Absatz 2 des
+    Postpersonalrechtsgesetzes oder
 
 
-2.  während einer ruhegehaltfähigen Beurlaubung nach § 13 Absatz 1 der
-    Sonderurlaubsverordnung oder
-
-
-3.  während einer Zuweisung nach § 4 Absatz 4 des
+2.  während einer Zuweisung nach § 4 Absatz 4 des
     Postpersonalrechtsgesetzes.
 
 
@@ -127,25 +126,22 @@ Auswahlverfahren zu fordern.
 
 ## § 6 Beurteilung und Beförderung
 
-(1) Eine ruhegehaltfähige Beurlaubung nach § 13 Absatz 1 der
-Sonderurlaubsverordnung steht einer Beförderung im Rahmen einer
-regelmäßigen Laufbahnentwicklung nicht entgegen. In den Fällen des § 4
-Absatz 3 und 4 des Postpersonalrechtsgesetzes sowie des Satzes 1 ist
-Maßstab für die regelmäßige Laufbahnentwicklung das Fortkommen der
-Beamtinnen und Beamten derselben Laufbahn und Laufbahngruppe mit der
-gleichen Eignung, Befähigung und fachlichen Leistung, die bei dem
-jeweiligen Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
+(1) In den Fällen des § 1 Absatz 5 ist Maßstab für die regelmäßige
+Laufbahnentwicklung das Fortkommen der Beamtinnen und Beamten
+derselben Laufbahn und Laufbahngruppe mit der gleichen Eignung,
+Befähigung und fachlichen Leistung, die bei dem jeweiligen
+Postnachfolgeunternehmen hauptamtlich beschäftigt sind.
 
 (2) Kann in den Fällen des Absatzes 1 eine zur Vorbereitung der
 Beurteilung geeignete Stellungnahme des Unternehmens, bei dem die
 Beamtin oder der Beamte tätig ist, nicht innerhalb eines angemessenen
 Zeitraums erlangt werden, so ist die letzte regelmäßige dienstliche
 Beurteilung unter Berücksichtigung der Entwicklung vergleichbarer
-Beamtinnen und Beamten im Sinne des Absatzes 1 Satz 2 fiktiv
-fortzuschreiben. Sind vergleichbare Beamtinnen und Beamte nicht in der
-erforderlichen Anzahl vorhanden, tritt an ihre Stelle die Entwicklung
-vergleichbarer Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in
-den Fällen des § 33 Absatz 3 der Bundeslaufbahnverordnung.
+Beamtinnen und Beamten im Sinne des Absatzes 1 fiktiv fortzuschreiben.
+Sind vergleichbare Beamtinnen und Beamte nicht in der erforderlichen
+Anzahl vorhanden, tritt an ihre Stelle die Entwicklung vergleichbarer
+Arbeitnehmerinnen und Arbeitnehmer. Gleiches gilt in den Fällen des §
+33 Absatz 3 der Bundeslaufbahnverordnung.
 
 (3) Hauptberufliche Zeiten einer Verwendung nach Absatz 1 gelten als
 Erprobungszeit auf einem anderen Dienstposten gleicher Bewertung im
@@ -239,6 +235,10 @@ sind folgende Vorschriften weiterhin anzuwenden:
 
 
 
+(7) Eine Beurlaubung nach § 13 Absatz 1 der Sonderurlaubsverordnung,
+die vor dem 6. Juni 2015 erfolgt ist und deren Zeit ruhegehaltfähig
+ist, steht einer Beurlaubung nach § 1 Absatz 5 Nummer 1 gleich.
+
 
 ## § 9 Inkrafttreten, Außerkrafttreten
 
@@ -259,9 +259,9 @@ gleichzeitig die folgenden Verordnungen außer Kraft:
 
 2.  die Verordnung über die Laufbahnen, Ausbildung und Prüfung für die bei
     der Deutschen Postbank AG beschäftigten Beamtinnen und Beamten vom
-    25\. August                    2005 (BGBl. I S. 2602), die durch § 56
-    Absatz 44 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284)
-    geändert worden ist, und
+    25\. August 2005 (BGBl. I S. 2602), die durch § 56 Absatz 44 der
+    Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert worden ist,
+    und
 
 
 3.  die Verordnung über die Laufbahnen, Ausbildung und Prüfung für die bei
@@ -523,8 +523,9 @@ Höherer Dienst
 [^f776036_06_BJNR009000012BJNE001100000]:     Eingangsamt des höheren nichttechnischen und des höheren technischen
     Postverwaltungsdienstes.
 [^f776036_07_BJNR009000012BJNE001100000]: 
+(zu § 8 Absatz 1 und 3)
 
-## Anlage 2 (zu § 8 Absatz 1 und 3) Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
+## Anlage 2 Zuordnung der bei der Deutschen Bundespost eingerichteten Laufbahnen des Post- und Fernmeldedienstes zu den Laufbahnen nach § 2 dieser Verordnung sowie zu den Laufbahnen nach § 6 der Bundeslaufbahnverordnung
 
 (Fundstelle: BGBl. I 2012, 95)
 

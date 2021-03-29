@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.1.2003 I 102;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 G v. 14.8.2009 I 2827
+:   Art. 11 Abs. 2 G v. 18.7.2017 I 2745
 
 
 ## Teil I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit
@@ -195,11 +195,43 @@ Empfänger hierfür einen Zugang eröffnet.
 
 (2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit
 nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die
-elektronische Form ersetzt werden. In diesem Fall ist das
-elektronische Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem
-Pseudonym, das die Identifizierung der Person des
-Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.
+elektronische Form ersetzt werden. Der elektronischen Form genügt ein
+elektronisches Dokument, das mit einer qualifizierten elektronischen
+Signatur versehen ist. Die Signierung mit einem Pseudonym, das die
+Identifizierung der Person des Signaturschlüsselinhabers nicht
+unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die
+Schriftform kann auch ersetzt werden
+
+1.  durch unmittelbare Abgabe der Erklärung in einem elektronischen
+    Formular, das von der Behörde in einem Eingabegerät oder über
+    öffentlich zugängliche Netze zur Verfügung gestellt wird;
+
+
+2.  bei Anträgen und Anzeigen durch Versendung eines elektronischen
+    Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-
+    Mail-Gesetzes;
+
+
+3.  bei elektronischen Verwaltungsakten oder sonstigen elektronischen
+    Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach
+    § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des
+    akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des
+    De-Mail-Kontos erkennen lässt;
+
+
+4.  durch sonstige sichere Verfahren, die durch Rechtsverordnung der
+    Bundesregierung mit Zustimmung des Bundesrates festgelegt werden,
+    welche den Datenübermittler (Absender der Daten) authentifizieren und
+    die Integrität des elektronisch übermittelten Datensatzes sowie die
+    Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen
+    zu geeigneten Verfahren ab.
+
+
+
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über
+öffentlich zugängliche Netze ein sicherer Identitätsnachweis nach § 18
+des Personalausweisgesetzes oder nach § 78 Absatz 5 des
+Aufenthaltsgesetzes erfolgen.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter
@@ -749,10 +781,13 @@ bei der weiteren Beratung und Beschlussfassung nicht zugegen sein.
 
 (5) Angehörige im Sinne des Absatzes 1 Nr. 2 und 4 sind:
 
-1.  der Verlobte,
+1.  der Verlobte, auch im Sinne des Lebenspartnerschaftsgesetzes,
 
 
 2.  der Ehegatte,
+
+
+2a. der Lebenspartner,
 
 
 3.  Verwandte und Verschwägerte gerader Linie,
@@ -765,6 +800,9 @@ bei der weiteren Beratung und Beschlussfassung nicht zugegen sein.
 
 
 6.  Ehegatten der Geschwister und Geschwister der Ehegatten,
+
+
+6a. Lebenspartner der Geschwister und Geschwister der Lebenspartner,
 
 
 7.  Geschwister der Eltern,
@@ -780,6 +818,10 @@ Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 1.  in den Fällen der Nummern 2, 3 und 6 die die Beziehung begründende Ehe
     nicht mehr besteht;
+
+
+1a. in den Fällen der Nummern 2a, 3 und 6a die die Beziehung begründende
+    Lebenspartnerschaft nicht mehr besteht;
 
 
 2.  in den Fällen der Nummern 3 bis 7 die Verwandtschaft oder
@@ -864,7 +906,11 @@ Fristsetzung hinzuweisen.
 
 (1) Die Behörde ermittelt den Sachverhalt von Amts wegen. Sie bestimmt
 Art und Umfang der Ermittlungen; an das Vorbringen und an die
-Beweisanträge der Beteiligten ist sie nicht gebunden.
+Beweisanträge der Beteiligten ist sie nicht gebunden.Setzt die Behörde
+automatische Einrichtungen zum Erlass von Verwaltungsakten ein, muss
+sie für den Einzelfall bedeutsame tatsächliche Angaben des Beteiligten
+berücksichtigen, die im automatischen Verfahren nicht ermittelt
+würden.
 
 (2) Die Behörde hat alle für den Einzelfall bedeutsamen, auch die für
 die Beteiligten günstigen Umstände zu berücksichtigen.
@@ -875,7 +921,7 @@ weil sie die Erklärung oder den Antrag in der Sache für unzulässig
 oder unbegründet hält.
 
 
-#### § 25 Beratung, Auskunft
+#### § 25 Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung
 
 (1) Die Behörde soll die Abgabe von Erklärungen, die Stellung von
 Anträgen oder die Berichtigung von Erklärungen oder Anträgen anregen,
@@ -892,6 +938,22 @@ Verfahren beschleunigt werden kann. Soweit es der
 Verfahrensbeschleunigung dient, soll sie dem Antragsteller nach
 Eingang des Antrags unverzüglich Auskunft über die voraussichtliche
 Verfahrensdauer und die Vollständigkeit der Antragsunterlagen geben.
+
+(3) Die Behörde wirkt darauf hin, dass der Träger bei der Planung von
+Vorhaben, die nicht nur unwesentliche Auswirkungen auf die Belange
+einer größeren Zahl von Dritten haben können, die betroffene
+Öffentlichkeit frühzeitig über die Ziele des Vorhabens, die Mittel, es
+zu verwirklichen, und die voraussichtlichen Auswirkungen des Vorhabens
+unterrichtet (frühe Öffentlichkeitsbeteiligung). Die frühe
+Öffentlichkeitsbeteiligung soll möglichst bereits vor Stellung eines
+Antrags stattfinden. Der betroffenen Öffentlichkeit soll Gelegenheit
+zur Äußerung und zur Erörterung gegeben werden. Das Ergebnis der vor
+Antragstellung durchgeführten frühen Öffentlichkeitsbeteiligung soll
+der betroffenen Öffentlichkeit und der Behörde spätestens mit der
+Antragstellung, im Übrigen unverzüglich mitgeteilt werden. Satz 1 gilt
+nicht, soweit die betroffene Öffentlichkeit bereits nach anderen
+Rechtsvorschriften vor der Antragstellung zu beteiligen ist.
+Beteiligungsrechte nach anderen Rechtsvorschriften bleiben unberührt.
 
 
 #### § 26 Beweismittel
@@ -975,6 +1037,22 @@ vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem
 Versichernden zu unterschreiben. Die Niederschrift ist sodann von
 demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie
 von dem Schriftführer zu unterschreiben.
+
+
+#### § 27a Öffentliche Bekanntmachung im Internet
+
+(1) Ist durch Rechtsvorschrift eine öffentliche oder ortsübliche
+Bekanntmachung angeordnet, soll die Behörde deren Inhalt zusätzlich im
+Internet veröffentlichen. Dies wird dadurch bewirkt, dass der Inhalt
+der Bekanntmachung auf einer Internetseite der Behörde oder ihres
+Verwaltungsträgers zugänglich gemacht wird. Bezieht sich die
+Bekanntmachung auf zur Einsicht auszulegende Unterlagen, sollen auch
+diese über das Internet zugänglich gemacht werden. Soweit durch
+Rechtsvorschrift nichts anderes geregelt ist, ist der Inhalt der zur
+Einsicht ausgelegten Unterlagen maßgeblich.
+
+(2) In der öffentlichen oder ortsüblichen Bekanntmachung ist die
+Internetseite anzugeben.
 
 
 #### § 28 Anhörung Beteiligter
@@ -1225,6 +1303,11 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
+(7) Jede Behörde soll von Urkunden, die sie selbst ausgestellt hat,
+auf Verlangen ein elektronisches Dokument nach Absatz 4 Nummer 4
+Buchstabe a oder eine elektronische Abschrift fertigen und
+beglaubigen.
+
 
 #### § 34 Beglaubigung von Unterschriften
 
@@ -1298,6 +1381,13 @@ bestimmten oder bestimmbaren Personenkreis richtet oder die
 durch die Allgemeinheit betrifft.
 
 
+#### § 35a Vollständig automatisierter Erlass eines Verwaltungsaktes
+
+Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen
+erlassen werden, sofern dies durch Rechtsvorschrift zugelassen ist und
+weder ein Ermessen noch ein Beurteilungsspielraum besteht.
+
+
 #### § 36 Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
@@ -1338,7 +1428,7 @@ oder verbunden werden mit
 zuwiderlaufen.
 
 
-#### § 37 Bestimmtheit und Form des Verwaltungsaktes
+#### § 37 Bestimmtheit und Form des Verwaltungsaktes; Rechtsbehelfsbelehrung
 
 (1) Ein Verwaltungsakt muss inhaltlich hinreichend bestimmt sein.
 
@@ -1357,7 +1447,10 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
+§ 3a Absatz 2 Satz 4 Nummer 3 muss die Bestätigung nach § 5 Absatz 5
+des De-Mail-Gesetzes die erlassende Behörde als Nutzer des De-Mail-
+Kontos erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 3a Abs. 2
 erforderliche Signatur durch Rechtsvorschrift die dauerhafte
@@ -1370,6 +1463,15 @@ können Schlüsselzeichen verwendet werden, wenn derjenige, für den der
 Verwaltungsakt bestimmt ist oder der von ihm betroffen wird, auf Grund
 der dazu gegebenen Erläuterungen den Inhalt des Verwaltungsaktes
 eindeutig erkennen kann.
+
+(6) Einem schriftlichen oder elektronischen Verwaltungsakt, der der
+Anfechtung unterliegt, ist eine Erklärung beizufügen, durch die der
+Beteiligte über den Rechtsbehelf, der gegen den Verwaltungsakt gegeben
+ist, über die Behörde oder das Gericht, bei denen der Rechtsbehelf
+einzulegen ist, den Sitz und über die einzuhaltende Frist belehrt wird
+(Rechtsbehelfsbelehrung). Die Rechtsbehelfsbelehrung ist auch der
+schriftlichen oder elektronischen Bestätigung eines Verwaltungsaktes
+und der Bescheinigung nach § 42a Absatz 3 beizufügen.
 
 
 #### § 38 Zusicherung
@@ -1454,6 +1556,19 @@ als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht
 oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die
 Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs
 nachzuweisen.
+
+(2a) Mit Einwilligung des Beteiligten kann ein elektronischer
+Verwaltungsakt dadurch bekannt gegeben werden, dass er vom Beteiligten
+oder von seinem Bevollmächtigten über öffentlich zugängliche Netze
+abgerufen wird. Die Behörde hat zu gewährleisten, dass der Abruf nur
+nach Authentifizierung der berechtigten Person möglich ist und der
+elektronische Verwaltungsakt von ihr gespeichert werden kann. Der
+Verwaltungsakt gilt am Tag nach dem Abruf als bekannt gegeben. Wird
+der Verwaltungsakt nicht innerhalb von zehn Tagen nach Absendung einer
+Benachrichtigung über die Bereitstellung abgerufen, wird diese
+beendet. In diesem Fall ist die Bekanntgabe nicht bewirkt; die
+Möglichkeit einer erneuten Bereitstellung zum Abruf oder der
+Bekanntgabe auf andere Weise bleibt unberührt.
 
 (3) Ein Verwaltungsakt darf öffentlich bekannt gegeben werden, wenn
 dies durch Rechtsvorschrift zugelassen ist. Eine Allgemeinverfügung
@@ -2401,22 +2516,24 @@ lassen.
 (2) Innerhalb eines Monats nach Zugang des vollständigen Plans fordert
 die Anhörungsbehörde die Behörden, deren Aufgabenbereich durch das
 Vorhaben berührt wird, zur Stellungnahme auf und veranlasst, dass der
-Plan in den Gemeinden, in denen sich das Vorhaben auswirkt, ausgelegt
-wird.
+Plan in den Gemeinden, in denen sich das Vorhaben voraussichtlich
+auswirken wird, ausgelegt wird.
 
 (3) Die Gemeinden nach Absatz 2 haben den Plan innerhalb von drei
 Wochen nach Zugang für die Dauer eines Monats zur Einsicht auszulegen.
 Auf eine Auslegung kann verzichtet werden, wenn der Kreis der
-Betroffenen bekannt ist und ihnen innerhalb angemessener Frist
-Gelegenheit gegeben wird, den Plan einzusehen.
+Betroffenen und die Vereinigungen nach Absatz 4 Satz 5 bekannt sind
+und ihnen innerhalb angemessener Frist Gelegenheit gegeben wird, den
+Plan einzusehen.
 
 (3a) Die Behörden nach Absatz 2 haben ihre Stellungnahme innerhalb
 einer von der Anhörungsbehörde zu setzenden Frist abzugeben, die drei
-Monate nicht überschreiten darf. Nach dem Erörterungstermin eingehende
-Stellungnahmen werden nicht mehr berücksichtigt, es sei denn, die
-vorgebrachten Belange sind der Planfeststellungsbehörde bereits
-bekannt oder hätten ihr bekannt sein müssen oder sind für die
-Rechtmäßigkeit der Entscheidung von Bedeutung.
+Monate nicht überschreiten darf. Stellungnahmen, die nach Ablauf der
+Frist nach Satz 1 eingehen, sind zu berücksichtigen, wenn der
+Planfeststellungsbehörde die vorgebrachten Belange bekannt sind oder
+hätten bekannt sein müssen oder für die Rechtmäßigkeit der
+Entscheidung von Bedeutung sind; im Übrigen können sie berücksichtigt
+werden.
 
 (4) Jeder, dessen Belange durch das Vorhaben berührt werden, kann bis
 zwei Wochen nach Ablauf der Auslegungsfrist schriftlich oder zur
@@ -2426,7 +2543,11 @@ bestimmt die Anhörungsbehörde die Einwendungsfrist. Mit Ablauf der
 Einwendungsfrist sind alle Einwendungen ausgeschlossen, die nicht auf
 besonderen privatrechtlichen Titeln beruhen. Hierauf ist in der
 Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-Einwendungsfrist hinzuweisen.
+Einwendungsfrist hinzuweisen. Vereinigungen, die auf Grund einer
+Anerkennung nach anderen Rechtsvorschriften befugt sind, Rechtsbehelfe
+nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74
+einzulegen, können innerhalb der Frist nach Satz 1 Stellungnahmen zu
+dem Plan abgeben. Die Sätze 2 bis 4 gelten entsprechend.
 
 (5) Die Gemeinden, in denen der Plan auszulegen ist, haben die
 Auslegung vorher ortsüblich bekannt zu machen. In der Bekanntmachung
@@ -2435,9 +2556,9 @@ ist darauf hinzuweisen,
 1.  wo und in welchem Zeitraum der Plan zur Einsicht ausgelegt ist;
 
 
-2.  dass etwaige Einwendungen bei den in der Bekanntmachung zu
-    bezeichnenden Stellen innerhalb der Einwendungsfrist vorzubringen
-    sind;
+2.  dass etwaige Einwendungen oder Stellungnahmen von Vereinigungen nach
+    Absatz 4 Satz 5 bei den in der Bekanntmachung zu bezeichnenden Stellen
+    innerhalb der Einwendungsfrist vorzubringen sind;
 
 
 3.  dass bei Ausbleiben eines Beteiligten in dem Erörterungstermin auch
@@ -2446,9 +2567,9 @@ ist darauf hinzuweisen,
 
 4.  dass
 
-    a)  die Personen, die Einwendungen erhoben haben, von dem
-        Erörterungstermin durch öffentliche Bekanntmachung benachrichtigt
-        werden können,
+    a)  die Personen, die Einwendungen erhoben haben, oder die Vereinigungen,
+        die Stellungnahmen abgegeben haben, von dem Erörterungstermin durch
+        öffentliche Bekanntmachung benachrichtigt werden können,
 
 
     b)  die Zustellung der Entscheidung über die Einwendungen durch
@@ -2468,45 +2589,49 @@ auf Veranlassung der Anhörungsbehörde von der Auslegung mit dem
 Hinweis nach Satz 2 benachrichtigt werden.
 
 (6) Nach Ablauf der Einwendungsfrist hat die Anhörungsbehörde die
-rechtzeitig erhobenen Einwendungen gegen den Plan und die
-Stellungnahmen der Behörden zu dem Plan mit dem Träger des Vorhabens,
-den Behörden, den Betroffenen sowie den Personen, die Einwendungen
-erhoben haben, zu erörtern. Der Erörterungstermin ist mindestens eine
-Woche vorher ortsüblich bekannt zu machen. Die Behörden, der Träger
-des Vorhabens und diejenigen, die Einwendungen erhoben haben, sind von
-dem Erörterungstermin zu benachrichtigen. Sind außer der
-Benachrichtigung der Behörden und des Trägers des Vorhabens mehr als
-50 Benachrichtigungen vorzunehmen, so können diese Benachrichtigungen
-durch öffentliche Bekanntmachung ersetzt werden. Die öffentliche
-Bekanntmachung wird dadurch bewirkt, dass abweichend von Satz 2 der
-Erörterungstermin im amtlichen Veröffentlichungsblatt der
-Anhörungsbehörde und außerdem in örtlichen Tageszeitungen bekannt
+rechtzeitig gegen den Plan erhobenen Einwendungen, die rechtzeitig
+abgegebenen Stellungnahmen von Vereinigungen nach Absatz 4 Satz 5
+sowie die Stellungnahmen der Behörden zu dem Plan mit dem Träger des
+Vorhabens, den Behörden, den Betroffenen sowie denjenigen, die
+Einwendungen erhoben oder Stellungnahmen abgegeben haben, zu erörtern.
+Der Erörterungstermin ist mindestens eine Woche vorher ortsüblich
+bekannt zu machen. Die Behörden, der Träger des Vorhabens und
+diejenigen, die Einwendungen erhoben oder Stellungnahmen abgegeben
+haben, sind von dem Erörterungstermin zu benachrichtigen. Sind außer
+der Benachrichtigung der Behörden und des Trägers des Vorhabens mehr
+als 50 Benachrichtigungen vorzunehmen, so können diese
+Benachrichtigungen durch öffentliche Bekanntmachung ersetzt werden.
+Die öffentliche Bekanntmachung wird dadurch bewirkt, dass abweichend
+von Satz 2 der Erörterungstermin im amtlichen Veröffentlichungsblatt
+der Anhörungsbehörde und außerdem in örtlichen Tageszeitungen bekannt
 gemacht wird, die in dem Bereich verbreitet sind, in dem sich das
 Vorhaben voraussichtlich auswirken wird; maßgebend für die Frist nach
 Satz 2 ist die Bekanntgabe im amtlichen Veröffentlichungsblatt. Im
 Übrigen gelten für die Erörterung die Vorschriften über die mündliche
 Verhandlung im förmlichen Verwaltungsverfahren (§ 67 Abs. 1 Satz 3,
-Abs. 2 Nr. 1 und 4 und Abs. 3, § 68) entsprechend. Die Erörterung soll
-innerhalb von drei Monaten nach Ablauf der Einwendungsfrist
-abgeschlossen werden.
+Abs. 2 Nr. 1 und 4 und Abs. 3, § 68) entsprechend. Die
+Anhörungsbehörde schließt die Erörterung innerhalb von drei Monaten
+nach Ablauf der Einwendungsfrist ab.
 
 (7) Abweichend von den Vorschriften des Absatzes 6 Satz 2 bis 5 kann
 der Erörterungstermin bereits in der Bekanntmachung nach Absatz 5 Satz
 2 bestimmt werden.
 
 (8) Soll ein ausgelegter Plan geändert werden und werden dadurch der
-Aufgabenbereich einer Behörde oder Belange Dritter erstmalig oder
-stärker als bisher berührt, so ist diesen die Änderung mitzuteilen und
-ihnen Gelegenheit zu Stellungnahmen und Einwendungen innerhalb von
-zwei Wochen zu geben. Wirkt sich die Änderung auf das Gebiet einer
-anderen Gemeinde aus, so ist der geänderte Plan in dieser Gemeinde
-auszulegen; die Absätze 2 bis 6 gelten entsprechend.
+Aufgabenbereich einer Behörde oder einer Vereinigung nach Absatz 4
+Satz 5 oder Belange Dritter erstmals oder stärker als bisher berührt,
+so ist diesen die Änderung mitzuteilen und ihnen Gelegenheit zu
+Stellungnahmen und Einwendungen innerhalb von zwei Wochen zu geben;
+Absatz 4 Satz 3 bis 6 gilt entsprechend. Wird sich die Änderung
+voraussichtlich auf das Gebiet einer anderen Gemeinde auswirken, so
+ist der geänderte Plan in dieser Gemeinde auszulegen; die Absätze 2
+bis 6 gelten entsprechend.
 
 (9) Die Anhörungsbehörde gibt zum Ergebnis des Anhörungsverfahrens
-eine Stellungnahme ab und leitet diese möglichst innerhalb eines
-Monats nach Abschluss der Erörterung mit dem Plan, den Stellungnahmen
-der Behörden und den nicht erledigten Einwendungen der
-Planfeststellungsbehörde zu.
+eine Stellungnahme ab und leitet diese der Planfeststellungsbehörde
+innerhalb eines Monats nach Abschluss der Erörterung mit dem Plan, den
+Stellungnahmen der Behörden und der Vereinigungen nach Absatz 4 Satz 5
+sowie den nicht erledigten Einwendungen zu.
 
 
 #### § 74 Planfeststellungsbeschluss, Plangenehmigung
@@ -2531,15 +2656,15 @@ diese im Planfeststellungsbeschluss vorzubehalten; dem Träger des
 Vorhabens ist dabei aufzugeben, noch fehlende oder von der
 Planfeststellungsbehörde bestimmte Unterlagen rechtzeitig vorzulegen.
 
-(4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens, den
-bekannten Betroffenen und denjenigen, über deren Einwendungen
-entschieden worden ist, zuzustellen. Eine Ausfertigung des Beschlusses
-ist mit einer Rechtsbehelfsbelehrung und einer Ausfertigung des
-festgestellten Plans in den Gemeinden zwei Wochen zur Einsicht
-auszulegen; der Ort und die Zeit der Auslegung sind ortsüblich bekannt
-zu machen. Mit dem Ende der Auslegungsfrist gilt der Beschluss
-gegenüber den übrigen Betroffenen als zugestellt; darauf ist in der
-Bekanntmachung hinzuweisen.
+(4) Der Planfeststellungsbeschluss ist dem Träger des Vorhabens,
+denjenigen, über deren Einwendungen entschieden worden ist, und den
+Vereinigungen, über deren Stellungnahmen entschieden worden ist,
+zuzustellen. Eine Ausfertigung des Beschlusses ist mit einer
+Rechtsbehelfsbelehrung und einer Ausfertigung des festgestellten Plans
+in den Gemeinden zwei Wochen zur Einsicht auszulegen; der Ort und die
+Zeit der Auslegung sind ortsüblich bekannt zu machen. Mit dem Ende der
+Auslegungsfrist gilt der Beschluss gegenüber den übrigen Betroffenen
+als zugestellt; darauf ist in der Bekanntmachung hinzuweisen.
 
 (5) Sind außer an den Träger des Vorhabens mehr als 50 Zustellungen
 nach Absatz 4 vorzunehmen, so können diese Zustellungen durch
@@ -2556,39 +2681,49 @@ Einwendungen erhoben haben, als zugestellt; hierauf ist in der
 Bekanntmachung hinzuweisen. Nach der öffentlichen Bekanntmachung kann
 der Planfeststellungsbeschluss bis zum Ablauf der Rechtsbehelfsfrist
 von den Betroffenen und von denjenigen, die Einwendungen erhoben
-haben, schriftlich angefordert werden; hierauf ist in der
-Bekanntmachung gleichfalls hinzuweisen.
+haben, schriftlich oder elektronisch angefordert werden; hierauf ist
+in der Bekanntmachung gleichfalls hinzuweisen.
 
 (6) An Stelle eines Planfeststellungsbeschlusses kann eine
 Plangenehmigung erteilt werden, wenn
 
-1.  Rechte anderer nicht beeinträchtigt werden oder die Betroffenen sich
-    mit der Inanspruchnahme ihres Eigentums oder eines anderen Rechts
-    schriftlich einverstanden erklärt haben und
+1.  Rechte anderer nicht oder nur unwesentlich beeinträchtigt werden oder
+    die Betroffenen sich mit der Inanspruchnahme ihres Eigentums oder
+    eines anderen Rechts schriftlich einverstanden erklärt haben,
 
 
 2.  mit den Trägern öffentlicher Belange, deren Aufgabenbereich berührt
-    wird, das Benehmen hergestellt worden ist.
+    wird, das Benehmen hergestellt worden ist und
+
+
+3.  nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung
+    vorschreiben, die den Anforderungen des § 73 Absatz 3 Satz 1 und
+    Absatz 4 bis 7 entsprechen muss.
 
 
 
-Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung mit
-Ausnahme der enteignungsrechtlichen Vorwirkung; auf ihre Erteilung
-finden die Vorschriften über das Planfeststellungsverfahren keine
-Anwendung. Vor Erhebung einer verwaltungsgerichtlichen Klage bedarf es
-keiner Nachprüfung in einem Vorverfahren. § 75 Abs. 4 gilt
-entsprechend.
+Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung; auf
+ihre Erteilung sind die Vorschriften über das
+Planfeststellungsverfahren nicht anzuwenden; davon ausgenommen sind
+Absatz 4 Satz 1 und Absatz 5, die entsprechend anzuwenden sind. Vor
+Erhebung einer verwaltungsgerichtlichen Klage bedarf es keiner
+Nachprüfung in einem Vorverfahren. § 75 Abs. 4 gilt entsprechend.
 
 (7) Planfeststellung und Plangenehmigung entfallen in Fällen von
 unwesentlicher Bedeutung. Diese liegen vor, wenn
 
 1.  andere öffentliche Belange nicht berührt sind oder die erforderlichen
     behördlichen Entscheidungen vorliegen und sie dem Plan nicht
-    entgegenstehen und
+    entgegenstehen,
 
 
 2.  Rechte anderer nicht beeinflusst werden oder mit den vom Plan
-    Betroffenen entsprechende Vereinbarungen getroffen worden sind.
+    Betroffenen entsprechende Vereinbarungen getroffen worden sind und
+
+
+3.  nicht andere Rechtsvorschriften eine Öffentlichkeitsbeteiligung
+    vorschreiben, die den Anforderungen des § 73 Absatz 3 Satz 1 und
+    Absatz 4 bis 7 entsprechen muss.
 
 
 
@@ -2609,10 +2744,11 @@ durch den Plan Betroffenen rechtsgestaltend geregelt.
 (1a) Mängel bei der Abwägung der von dem Vorhaben berührten
 öffentlichen und privaten Belange sind nur erheblich, wenn sie
 offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung führen nur dann zur Aufhebung
-des Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie
-nicht durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können.
+sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
+Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
+Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
+durch Planergänzung oder durch ein ergänzendes Verfahren behoben
+werden können; die §§ 45 und 46 bleiben unberührt.
 
 (2) Ist der Planfeststellungsbeschluss unanfechtbar geworden, so sind
 Ansprüche auf Unterlassung des Vorhabens, auf Beseitigung oder
@@ -2646,7 +2782,11 @@ sind.
 
 (4) Wird mit der Durchführung des Plans nicht innerhalb von fünf
 Jahren nach Eintritt der Unanfechtbarkeit begonnen, so tritt er außer
-Kraft.
+Kraft. Als Beginn der Durchführung des Plans gilt jede erstmals nach
+außen erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung
+zur plangemäßen Verwirklichung des Vorhabens; eine spätere
+Unterbrechung der Verwirklichung des Vorhabens berührt den Beginn der
+Durchführung nicht.
 
 
 #### § 76 Planänderungen vor Fertigstellung des Vorhabens

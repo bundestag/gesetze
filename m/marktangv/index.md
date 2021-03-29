@@ -1,6 +1,6 @@
 ---
 Title: Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei
-  einem Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes
+  einem Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes
 jurabk: MarktAngV
 layout: default
 origslug: marktangv
@@ -8,7 +8,7 @@ slug: marktangv
 
 ---
 
-# Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei einem Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes (MarktAngV)
+# Verordnung über die erforderlichen Angaben und vorzulegenden Unterlagen bei einem Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes (MarktAngV)
 
 Ausfertigungsdatum
 :   2004-09-30
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2576
 
-Geändert durch
-:   Art. 1 V v. 24.10.2007 I 2498
+Zuletzt geändert durch
+:   Art. 24 Abs. 9 G v. 23.6.2017 I 1693
 
 
 ## Eingangsformel
@@ -39,10 +39,10 @@ S. 3), verordnet die Bundesanstalt für Finanzdienstleistungsaufsicht:
 ### § 1 Anwendungsbereich
 
 Diese Verordnung ist anzuwenden auf Anträge auf Erteilung einer
-Erlaubnis nach § 37i des Wertpapierhandelsgesetzes.
+Erlaubnis nach § 102 des Wertpapierhandelsgesetzes.
 
 
-## Abschnitt 2 - Erlaubnisantrag nach § 37i des Wertpapierhandelsgesetzes
+## Abschnitt 2 - Erlaubnisantrag nach § 102 des Wertpapierhandelsgesetzes
 
 
 
@@ -179,7 +179,7 @@ Personen sind zusätzlich Rechtsform und Sitz anzugeben.
 ### § 9 Zusätzliche Angaben und Unterlagen
 
 Die Bundesanstalt kann zusätzliche Angaben und Unterlagen verlangen,
-soweit diese im Rahmen des § 37i Abs. 1 Satz 2 des
+soweit diese im Rahmen des § 102 Absatz 1 Satz 2 des
 Wertpapierhandelsgesetzes im Einzelfall für die Entscheidung über den
 Antrag erforderlich sind.
 

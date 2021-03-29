@@ -2,7 +2,7 @@
 Title: Gesetz über den Übergang auf das neue Lebensmittel- und Futtermittelrecht
 jurabk: LFÜG
 layout: default
-origslug: lf_g
+origslug: lfueg
 slug: lfueg
 
 ---
@@ -17,6 +17,9 @@ Fundstelle
 
 Geändert durch
 :   Art. 2 G v. 27.7.2011 I 1608
+
+Änderung durch
+:   Art. 69 V v. 31.8.2015 I 1474 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Weitere Anwendung von Vorschriften
@@ -103,12 +106,12 @@ sind die Vorschriften der in Absatz 1 genannten Gesetze hinsichtlich
 der Verfolgung von Straftaten und Ordnungswidrigkeiten weiter
 anzuwenden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates, soweit die
-Ermächtigungen des Lebensmittel- und Futtermittelgesetzbuches nicht
-ausreichen, auf Grund der in Absatz 1 genannten Gesetze erlassene
-bundesrechtliche Vorschriften aufzuheben.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates, soweit die Ermächtigungen des
+Lebensmittel- und Futtermittelgesetzbuches nicht ausreichen, auf Grund
+der in Absatz 1 genannten Gesetze erlassene bundesrechtliche
+Vorschriften aufzuheben.
 
 (4) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates

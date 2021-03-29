@@ -286,8 +286,8 @@ Kündigungsfrist kündigen, wenn
     b)  für die in § 1 Abs. 1 des Landbeschaffungsgesetzes in der im
         Bundesgesetzblatt Teil III, Gliederungsnummer 54-3, veröffentlichten
         bereinigten Fassung, das zuletzt durch
-        § 33 des Gesetzes vom 20. Dezember 1976 (BGBl. I S. 3574)
-        geändert worden ist, genannten Zwecke
+        § 33 des Gesetzes vom 20. Dezember 1976 (BGBl. I S. 3574) geändert
+        worden ist, genannten Zwecke
 
 
 
@@ -378,8 +378,8 @@ Verpächter, dass er den Kleingartenpachtvertrag nicht fortsetzen will,
 gilt Absatz 1 entsprechend.
 
 (3) Im Falle des Absatzes 2 Satz 1 ist
-§ 563b Abs. 1 und 2              über die Haftung und über die
-Anrechnung der gezahlten Miete entsprechend anzuwenden.
+§ 563b Abs. 1 und 2 über die Haftung und über die Anrechnung der
+gezahlten Miete entsprechend anzuwenden.
 
 
 ### § 13 Abweichende Vereinbarungen

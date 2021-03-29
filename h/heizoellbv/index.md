@@ -2,7 +2,7 @@
 Title: Verordnung über Lieferbeschränkungen für leichtes Heizöl in einer Versorgungskrise
 jurabk: HeizölLBV
 layout: default
-origslug: heiz_llbv
+origslug: heizoellbv
 slug: heizoellbv
 
 ---

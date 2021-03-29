@@ -24,7 +24,7 @@ Fundstelle
 (1) Die Bundesregierung wird ermächtigt, eine Teilfläche des
 bundeseigenen Grundstücks Flur-Nr. 404/23 der Gemarkung München-
 Milbertshofen in der Größe von 116.169 qm abweichend von
-§ 47 RHO              zum Kaufpreis von 13.319.300 DM zu verkaufen.
+§ 47 RHO zum Kaufpreis von 13.319.300 DM zu verkaufen.
 
 (2) Der Kaufpreis ist entsprechend dem im Absatz 1 festgelegten
 Wertverhältnis auszugleichen, wenn sich bei der Vermessung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2002, 2025
 
 Zuletzt geändert durch
-:   Art. 11 G v. 6.7.2009 I 1696
+:   Art. 5 G v. 17.7.2017 I 2426
 
 
 ## I. - Behörden
@@ -27,7 +27,7 @@ Zuletzt geändert durch
 
 Welche Behörde auf örtlicher Ebene in Betreuungsangelegenheiten
 zuständig ist, bestimmt sich nach Landesrecht. Diese Behörde ist auch
-in Unterbringungsangelegenheiten im Sinne des § 312 Nr. 1 und 2 des
+in Unterbringungsangelegenheiten im Sinne des § 312 Nummer 1 bis 3 des
 Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit zuständig.
 
@@ -66,16 +66,27 @@ dem Gericht den Wechsel schriftlich anzeigt.
 
 ### § 4
 
-Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf
-ihren Wunsch bei der Wahrnehmung ihrer Aufgaben, die Betreuer
+(1) Die Behörde informiert und berät über allgemeine
+betreuungsrechtliche Fragen, insbesondere über eine Vorsorgevollmacht
+und über andere Hilfen, bei denen kein Betreuer bestellt wird.
+
+(2) Wenn im Einzelfall Anhaltspunkte für einen Betreuungsbedarf nach §
+1896 Absatz 1 des Bürgerlichen Gesetzbuchs bestehen, soll die Behörde
+der betroffenen Person ein Beratungsangebot unterbreiten. Diese
+Beratung umfasst auch die Pflicht, andere Hilfen, bei denen kein
+Betreuer bestellt wird, zu vermitteln. Dabei arbeitet die Behörde mit
+den zuständigen Sozialleistungsträgern zusammen.
+
+(3) Die Behörde berät und unterstützt Betreuer und Bevollmächtigte auf
+deren Wunsch bei der Wahrnehmung von deren Aufgaben, die Betreuer
 insbesondere auch bei der Erstellung des Betreuungsplans.
 
 
 ### § 5
 
 Die Behörde sorgt dafür, daß in ihrem Bezirk ein ausreichendes Angebot
-zur Einführung der Betreuer in ihre Aufgaben und zu ihrer Fortbildung
-vorhanden ist.
+zur Einführung der Betreuer und der Bevollmächtigten in ihre Aufgaben
+und zu ihrer Fortbildung vorhanden ist.
 
 
 ### § 6
@@ -131,20 +142,38 @@ und der Empfänger sind aktenkundig zu machen.
 
 ### § 8
 
-Die Behörde unterstützt das Betreuungsgericht. Dies gilt insbesondere
-für die Feststellung des Sachverhalts, den das Gericht für
-aufklärungsbedürftig hält, und für die Gewinnung geeigneter Betreuer.
-Wenn die Behörde vom Betreuungsgericht dazu aufgefordert wird, schlägt
-sie eine Person vor, die sich im Einzelfall zum Betreuer oder
-Verfahrenspfleger eignet. Die Behörde teilt dem Betreuungsgericht den
-Umfang der berufsmäßig geführten Betreuungen mit.
+(1) Die Behörde unterstützt das Betreuungsgericht. Dies umfasst
+insbesondere folgende Maßnahmen:
+
+1.  die Erstellung eines Berichts im Rahmen der gerichtlichen Anhörung (§
+    279 Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in
+    den Angelegenheiten der freiwilligen Gerichtsbarkeit),
+
+
+2.  die Aufklärung und Mitteilung des Sachverhalts, den das Gericht über
+    Nummer 1 hinaus für aufklärungsbedürftig hält, sowie
+
+
+3.  die Gewinnung geeigneter Betreuer.
+
+
+
+
+(2) Wenn die Behörde vom Betreuungsgericht dazu aufgefordert wird,
+schlägt sie eine Person vor, die sich im Einzelfall zum Betreuer oder
+Verfahrenspfleger eignet. Steht keine geeignete Person zur Verfügung,
+die zur ehrenamtlichen Führung der Betreuung bereit ist, schlägt die
+Behörde dem Betreuungsgericht eine Person für die berufsmäßige Führung
+der Betreuung vor und teilt gleichzeitig den Umfang der von dieser
+Person derzeit berufsmäßig geführten Betreuungen mit.
 
 
 ### § 9
 
-Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen,
-bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist
-die örtliche Behörde.
+Zur Durchführung der Aufgaben werden Personen beschäftigt, die sich
+hierfür nach ihrer Persönlichkeit eignen und die in der Regel entweder
+eine ihren Aufgaben entsprechende Ausbildung erhalten haben
+(Fachkräfte) oder über vergleichbare Erfahrungen verfügen.
 
 
 ## IV. - Berlin-Klausel
@@ -153,6 +182,7 @@ die örtliche Behörde.
 
 ### § 10
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin.
+Die Aufgaben, die der Behörde nach anderen Vorschriften obliegen,
+bleiben unberührt. Zuständige Behörde im Sinne dieser Vorschriften ist
+die örtliche Behörde.
 

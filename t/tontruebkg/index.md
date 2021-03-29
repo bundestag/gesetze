@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 29. Oktober 1971 zum Schutz der Herstell
   von Tonträgern gegen die unerlaubte Vervielfältigung ihrer Tonträger
 jurabk: TonTrÜbkG
 layout: default
-origslug: tontr_bkg
+origslug: tontruebkg
 slug: tontruebkg
 
 ---
@@ -35,10 +35,10 @@ Deutschland an für ihre Tonträger die in § 85 des
 Urheberrechtsgesetzes vom 9. September 1965 (Bundesgesetzbl. I S.
 1273), zuletzt geändert durch
 das Gesetz zur Änderung des Urheberrechtsgesetzes vom 10. November
-1972 (Bundesgesetzbl. I S. 2081),              vorgesehenen Rechte mit
-der Maßgabe, daß Schutz nur gegen die in Artikel 2 des Übereinkommens
-genannten Handlungen gewährt wird. Bei Verletzung dieser Rechte ist
-auch § 108 Nr. 5 des Urheberrechtsgesetzes anzuwenden.
+1972 (Bundesgesetzbl. I S. 2081), vorgesehenen Rechte mit der Maßgabe,
+daß Schutz nur gegen die in Artikel 2 des Übereinkommens genannten
+Handlungen gewährt wird. Bei Verletzung dieser Rechte ist auch § 108
+Nr. 5 des Urheberrechtsgesetzes anzuwenden.
 
 (2) § 136 des Urheberrechtsgesetzes ist entsprechend anzuwenden.
 

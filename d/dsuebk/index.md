@@ -3,7 +3,7 @@ Title: Übereinkommen zum Schutz des Menschen bei der automatischen Verarbeitung
   Daten
 jurabk: DSÜbk
 layout: default
-origslug: ds_bk
+origslug: dsuebk
 slug: dsuebk
 
 ---

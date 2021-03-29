@@ -4,7 +4,7 @@ Title: Gesetz zur Änderung des Gesetzes über Rechte an eingetragenen Schiffen 
   und die Zwangsverwaltung
 jurabk: SchRGÄndG
 layout: default
-origslug: schrg_ndg
+origslug: schrgaendg
 slug: schrgaendg
 
 ---

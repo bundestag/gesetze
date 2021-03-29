@@ -1,15 +1,15 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
-  von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland 2006" - 4.
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
+  von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland  2006" - 4.
   Ausgabe 2006 -)
 jurabk: Münz10EuroBek 2006-01-17
 layout: default
-origslug: m_nz10eurobek_2006-01-17
+origslug: muenz10eurobek_2006-01-17
 slug: muenz10eurobek_2006-01-17
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland 2006" - 4. Ausgabe 2006 -) (Münz10EuroBek 2006-01-17)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "FIFA Fußball-Weltmeisterschaft Deutschland  2006" - 4. Ausgabe 2006 -) (Münz10EuroBek 2006-01-17)
 
 Ausfertigungsdatum
 :   2006-01-17

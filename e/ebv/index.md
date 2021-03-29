@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 1023
 
 Geändert durch
-:   Art. 4 V v. 5.7.2007 I 1305
+:   Art. 2 V v. 10.10.2016 I 2242
 
 
 ## § 1 Bestellung der Betriebsleiter
@@ -197,7 +197,7 @@ besitzt.
     a)  das sichere Betreiben der Eisenbahninfrastruktur,
 
 
-    b)  den sicheren Bau und den Zustand der Fahrzeuge und
+    b)  den Zustand der Fahrzeuge und
 
 
     c)  die sichere Durchführung der Zugfahrten und die sichere Abwicklung der
@@ -251,18 +251,10 @@ insbesondere verpflichtet,
 (1) Die für die Führung der Geschäfte des Eisenbahnunternehmens
 bestellten Personen haben die Aufgaben des Betriebsleiters sowie die
 Geschäftsverteilung für die Stellvertreter in einer Geschäftsanweisung
-zusammenzufassen, die auch die Dokumentation des
-Sicherheitsmanagementsystems nach Artikel 9 Abs. 2 und 3 der
-Richtlinie 2004/49/EG des Europäischen Parlaments und des Rates vom
-29\. April 2004 über Eisenbahnsicherheit in der Gemeinschaft und zur
-Änderung der Richtlinie 95/18/EG des Rates über die Erteilung von
-Genehmigungen an Eisenbahnunternehmen und der Richtlinie 2001/14/EG
-über die Zuweisung von Fahrwegkapazität der Eisenbahn, die Erhebung
-von Entgelten für die Nutzung von Eisenbahninfrastruktur und die
-Sicherheitsbescheinigung (ABl. EU Nr. L 164 S. 44, Nr. L 220 S. 16)
-enthalten muss. Ferner haben sie diese Geschäftsanweisung ihren
-Beschäftigten zugänglich zu machen und der zuständigen
-Aufsichtsbehörde vorzulegen.
+zusammenzufassen, die auch die Aufzeichnungen nach § 4 Absatz 4 und 5
+des Allgemeinen Eisenbahngesetzes enthalten muss. Ferner haben sie
+diese Geschäftsanweisung ihren Beschäftigten zugänglich zu machen und
+der zuständigen Aufsichtsbehörde vorzulegen.
 
 (2) Sie haben Änderungen der Aufgaben des Betriebsleiters und die
 Abberufung eines Betriebsleiters oder dessen Stellvertreter

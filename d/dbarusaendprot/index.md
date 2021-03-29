@@ -5,7 +5,7 @@ Title: Protokoll zur Änderung des Abkommens zwischen der Bundesrepublik Deutsch
   vom 29. Mai 1996
 jurabk: DBARUSÄndProt
 layout: default
-origslug: dbarus_ndprot
+origslug: dbarusaendprot
 slug: dbarusaendprot
 
 ---

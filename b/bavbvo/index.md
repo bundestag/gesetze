@@ -222,7 +222,7 @@ der Berufsausbildungsvorbereitungs-Bescheinigungsverordnung wird durch
 bestätigt. 2)
 Datum ................................              (Siegel)
 ......................................
-(Unterschrift)             -----
+(Unterschrift)-----
 
 1)  oder zu den Ausbildungsinhalten einer gleichwertigen Berufsausbildung
 

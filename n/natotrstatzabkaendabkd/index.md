@@ -6,7 +6,7 @@ Title: Abkommen zur Durchführung des Artikels 45 Absatz 1 des Zusatzabkommens v
   hinsichtlich der in der Bundesrepublik Deutschland stationierten ausländischen Truppen
 jurabk: NATOTrStatZAbkÄndAbkD
 layout: default
-origslug: natotrstatzabk_ndabkd
+origslug: natotrstatzabkaendabkd
 slug: natotrstatzabkaendabkd
 
 ---

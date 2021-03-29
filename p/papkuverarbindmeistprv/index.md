@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 99 (254)
 
-Geändert durch
-:   Art. 21 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 32 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -959,8 +959,9 @@ durchführen; § 8 Abs. 2 findet in diesem Fall keine Anwendung. Im
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
+(zu § 7 Abs. 5)
 
-## Anlage 1 (zu § 7 Abs. 5) Muster
+## Anlage 1 Muster
 
 (Fundstelle: BGBl. I 2008, 106;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1010,13 +1011,17 @@ Geprüfter Industriemeister/Geprüfte Industriemeisterin
 *    *   nach der Verordnung über die Prüfung zum anerkannten Abschluss
         Geprüfter Industriemeister/Geprüfte
         Industriemeisterin – Fachrichtung Papier- und Kunststoffverarbeitung
-        vom 25. Januar 2008 (BGBl. I S. 99, 254), die durch Artikel 21 der
-        Verordnung vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+        vom 25. Januar 2008 (BGBl. I S. 99, 254), die zuletzt durch Artikel 32
+        der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 
 
 *    *   bestanden.
 
 
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 
@@ -1034,8 +1039,9 @@ Geprüfter Industriemeister/Geprüfte Industriemeisterin
 
 
 
+(zu § 7 Abs. 5)
 
-## Anlage 2 (zu § 7 Abs. 5) Muster
+## Anlage 2 Muster
 
 (Fundstelle: BGBl. I 2008, 107 - 108;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1073,13 +1079,14 @@ Geprüfter Industriemeister/Geprüfte Industriemeisterin
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Industriemeister/Geprüfte Industriemeisterin – Fachrichtung
 Papier- und Kunststoffverarbeitung vom 25. Januar 2008 (BGBl. I S. 99,
-254), die durch Artikel 21 der Verordnung vom 25. August 2009 (BGBl. I
-S. 2960) geändert worden ist, mit folgenden Ergebnissen bestanden:
+254), die zuletzt durch Artikel 32 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
+bestanden:
 
 
 *    *
     *
-    *[^f770795_01_BJNR009900008BJNE001401308]
+    *[^f770795_01_BJNR009900008BJNE001402377]
    Punkte
 
     *   Note
@@ -1167,7 +1174,7 @@ freigestellt.“)
 
 *    *
     *
-    *[^f770795_02_BJNR009900008BJNE001401308]
+    *[^f770795_02_BJNR009900008BJNE001402377]
 
     *
 
@@ -1186,6 +1193,10 @@ in
 vor
 erbracht.
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
 
@@ -1197,8 +1208,8 @@ erbracht.
 
 
 
-[^f770795_01_BJNR009900008BJNE001401308]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
+[^f770795_01_BJNR009900008BJNE001402377]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     Bei der Ermittlung der Punktezahl sind die Punktebewertungen wie folgt
     zu gewichten: schriftliche Präsentationsunterlagen 20 Prozent,
     mündliche Präsentation 30 Prozent, Fachgespräch 50 Prozent-.
-[^f770795_02_BJNR009900008BJNE001401308]: 
+[^f770795_02_BJNR009900008BJNE001402377]: 

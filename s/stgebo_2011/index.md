@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 2011, 98
 
 Zuletzt geändert durch
-:   Art. 6 V v. 19.10.2012 I 2232
+:   Art. 2 V v. 31.7.2017 I 3090
+
+Änderung durch
+:   Art. 2 V v. 14.8.2017 I 3232 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 6 V v. 2.1.2018 I 2 (Nr. 1) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -27,14 +33,14 @@ Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März
 3 des Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I
 S. 2086) und des § 34a Absatz 2 in Verbindung mit Absatz 3 des
 Fahrlehrergesetzes vom 25. August 1969
-(BGBl. I S. 1336), von § 6a              Absatz 2 durch Artikel 2
-Nummer 1 des Gesetzes vom 14. August 2006 (BGBl. I S. 1958), § 18
-Absatz 2 zuletzt durch Artikel 291 der Verordnung vom 31. Oktober 2006
-(BGBl. I S. 2407), § 18 Absatz 3 durch Artikel 6 Nummer 12 Buchstabe b
-des Gesetzes vom 24. April 1998 (BGBl. I S. 747), § 34a Absatz 2
-zuletzt durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I
-S. 2407) und § 34a Absatz 3 zuletzt durch Artikel 2 des Gesetzes vom
-24\. April 1998 (BGBl. I S. 747) geändert worden sind, jeweils in
+(BGBl. I S. 1336), von § 6a Absatz 2 durch Artikel 2 Nummer 1 des
+Gesetzes vom 14. August 2006 (BGBl. I S. 1958), § 18 Absatz 2 zuletzt
+durch Artikel 291 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
+2407), § 18 Absatz 3 durch Artikel 6 Nummer 12 Buchstabe b des
+Gesetzes vom 24. April 1998 (BGBl. I S. 747), § 34a Absatz 2 zuletzt
+durch Artikel 289 der Verordnung vom 31. Oktober 2006 (BGBl. I S.
+2407) und § 34a Absatz 3 zuletzt durch Artikel 2 des Gesetzes vom 24.
+April 1998 (BGBl. I S. 747) geändert worden sind, jeweils in
 Verbindung mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23.
 Juni 1970 (BGBl. I S. 821), verordnet das Bundesministerium für
 Verkehr, Bau und Stadtentwicklung:
@@ -43,8 +49,8 @@ Verkehr, Bau und Stadtentwicklung:
 ## § 1 Gebührentarif
 
 (1) Für Amtshandlungen, einschließlich der Prüfungen und
-Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des §
-34a des Fahrlehrergesetzes und des § 18 des
+Untersuchungen im Sinne des § 6a des Straßenverkehrsgesetzes, des § 55
+des Fahrlehrergesetzes und des § 18 des
 Kraftfahrsachverständigengesetzes, werden Gebühren nach dieser
 Verordnung erhoben. Die gebührenpflichtigen Tatbestände und die
 Gebührensätze ergeben sich aus dem Gebührentarif für Maßnahmen im
@@ -69,8 +75,8 @@ Gebührenschuldner folgende Auslagen zu tragen:
 
 2.  Aufwendungen für weitere Ausfertigungen, Abschriften und Auszüge, die
     auf besonderen Antrag erteilt werden; für die Berechnung der
-    Schreibauslagen gelten die Vorschriften des § 136 Absatz 2, 3 und 5
-    der Kostenordnung,
+    Schreibauslagen gilt Nummer 31000 des Kostenverzeichnisses zum
+    Gerichts- und Notarkostengesetz,
 
 
 3.  Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt
@@ -272,12 +278,16 @@ Gebührenbefreiung für Amtshandlungen, Prüfungen oder Untersuchungen
 gewähren, die wegen der Behinderung erforderlich werden.
 
 
-## § 6 Anwendung des Verwaltungskostengesetzes
+## § 6 Übergangs- und Anwendungsbestimmungen
 
-Die Vorschriften des Verwaltungskostengesetzes sind anzuwenden, soweit
-nicht die §§ 1 bis 5 abweichende Regelungen über die Kostenerhebung,
-die Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der
+(1) Die Vorschriften des Verwaltungskostengesetzes in der bis zum 14.
+August 2013 geltenden Fassung sind anzuwenden, soweit nicht die §§ 1
+bis 5 abweichende Regelungen über die Kostenerhebung, die
+Kostenbefreiung, den Umfang der zu erstattenden Auslagen, der
 Kostengläubiger- und Kostenschuldnerschaft enthalten.
+
+(2) Die Gebühren-Nummer 259 der Anlage ist mit Ablauf des 31. Dezember
+2026 nicht mehr anzuwenden.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten
@@ -706,9 +716,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   Bewertung der an Herstellung oder Verteilung von
-        Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln oder
-        Plaketten und Prüfmarken oder anderen Dokumenten beteiligten
-        Unternehmen
+        Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln,
+        Plaketten, Plakettenträgern, Prüfmarken, oder anderen Dokumenten
+        beteiligten Unternehmen
 
     *   2 659,00 bis 3 477,00
 
@@ -725,9 +735,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   Überwachung der an Herstellung oder Verteilung von
-        Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln oder
-        Plaketten und Prüfmarken oder anderen Dokumenten beteiligten
-        Unternehmen
+        Zulassungsbescheinigungen Teil I, EG-Führerscheinen, Stempeln,
+        Plaketten, Plakettenträgern, Prüfmarken, oder anderen Dokumenten
+        beteiligten Unternehmen
 
     *   1 483,00 bis 1 892,00
 
@@ -819,17 +829,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuteilung einer Zulassungsbescheinigung Teil II (einschließlich der
         Aufstellung der Erfassungsunterlagen)
 
-    *   3,60
+    *
+
+*    *   123.1
+
+    *
+    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4
+        Nummer 1 FZV über die Zulassungsbehörde
+
+    *   3,80
+
+
+*    *   123.2
+
+    *
+    *   Zuteilung einer Zulassungsbescheinigung Teil II nach § 12 Absatz 4
+        Nummer 2 FZV zur Ausfüllung durch den Hersteller oder dessen
+        bevollmächtigten Vertreter nebst Überwachung
+
+    *   6,70
 
 
 *    *   124
 
     *
-    *   Aufstellung oder Berichtigung von Erfassungsunterlagen für das
-        Zentrale Fahrzeugregister (ZFZR)
-        – bei Fahrzeugen ohne Zulassungsbescheinigung Teil II
-        – bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichen
-        – bei Berichtigung der Erfassungsunterlagen bei Halterwechsel
+    *   Aufstellung von Erfassungsunterlagen für das Zentrale Fahrzeugregister
+        (ZFZR)
+
+        –   bei Fahrzeugen ohne Zulassungsbescheinigung Teil II
+
+
+        –   bei der Ausgabe der roten Kennzeichen oder der Kurzzeitkennzeichen
+
+
+
+        oder Berichtigung der Erfassungsunterlagen bei Halterwechsel
 
     *   2,60
 
@@ -839,7 +873,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Berichtigung der Erfassungsunterlagen für das ZFZR in anderen Fällen
 
-    *   0,50
+    *   0,60
 
 
 *    *   126
@@ -964,10 +998,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   145
 
     *
-    *   Auskunft aus dem Verkehrszentralregister an eine Behörde in
+    *   Auskunft aus dem Fahreignungsregister an eine Behörde in
         Fahrerlaubnisangelegenheiten und sonstigen in § 30 Absatz 1 Nummer 3,
-        Absatz 2, 4 und 4a StVG aufgeführten Verwaltungsmaßnahmen, sofern sie
-        durch einen Antragsteller veranlasst werden
+        Absatz 2, 4, 4a und 4b StVG aufgeführten Verwaltungsmaßnahmen, soweit
+        sie durch einen Antragsteller veranlasst werden
 
     *   3,30
 
@@ -1017,24 +1051,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   **6.**
 
-    *   **Akkreditierung von Trägern von Begutachtungsstellen für Fahreignung,
-        Kursen zur Wiederherstellung der Kraftfahreignung und Stellen zur
-        Durchführung der Fahrerlaubnisprüfung**
+    *   **Überprüfung von Trägern von Begutachtungsstellen für Fahreignung,
+        von Trägern, die Kurse zur Wiederherstellung der Kraftfahreignung
+        durchführen und von Technischen Prüfstellen, Bereich
+        Fahrerlaubnisprüfung (Begutachtung nach § 72 FeV)**
 
     *
 
 *    *   160
 
     *
-    *   Akkreditierung (§ 72 FeV)
+    *   Erstbegutachtung
 
     *
 
 *    *   160.1
 
     *
-    *   Akkreditierung eines Trägers von Begutachtungsstellen für Fahreignung
-        (ohne Begutachtung vor Ort)
+    *   Erstbegutachtung eines Trägers von Begutachtungsstellen für
+        Fahreignung (ohne Begutachtung vor Ort)
 
     *   7 669,00 bis 17 895,00
 
@@ -1042,8 +1077,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   160.2
 
     *
-    *   Akkreditierung eines Trägers von Kursen zur Wiederherstellung der
-        Kraftfahreignung (ohne Begutachtung vor Ort)
+    *   Erstbegutachtung eines Trägers, der Kurse zur Wiederherstellung der
+        Kraftfahreignung durchführt (ohne Begutachtung vor Ort)
 
     *   6 647,00 bis 17 895,00
 
@@ -1051,7 +1086,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   160.3
 
     *
-    *   Akkreditierung eines Trägers von Stellen zur Durchführung der
+    *   Erstbegutachtung eines Trägers von Technischen Prüfstellen, Bereich
         Fahrerlaubnisprüfung (ohne Begutachtung vor Ort)
 
     *   8 692,00 bis 18 918,00
@@ -1060,7 +1095,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   160.4
 
     *
-    *   Begutachtung vor Ort im Rahmen einer Akkreditierung (ohne Reisezeit)
+    *   Begutachtung vor Ort im Rahmen einer Erstbegutachtung (ohne Reisezeit)
 
     *   1 023,00 bis 2 556,00
 
@@ -1068,41 +1103,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   161
 
     *
-    *   Re-Akkreditierung
+    *   Regelmäßige Begutachtung
 
     *
 
 *    *   161.1
 
     *
-    *   Re-Akkreditierung eines Trägers von Begutachtungsstellen für
+    *   Regelmäßige Begutachtung eines Trägers von Begutachtungsstellen für
         Fahreignung (ohne Begutachtung vor Ort)
 
-    *   4 090,00 bis 12 782,00
+    *   2 045,00 bis 6 391,00
 
 
 *    *   161.2
 
     *
-    *   Re-Akkreditierung eines Trägers von Kursen zur Wiederherstellung der
-        Kraftfahreignung (ohne Begutachtung vor Ort)
+    *   Regelmäßige Begutachtung eines Trägers, der Kurse zur
+        Wiederherstellung der Kraftfahreignung durchführt (ohne Begutachtung
+        vor Ort)
 
-    *   4 090,00 bis 12 782,00
+    *   2 045,00 bis 6 391,00
 
 
 *    *   161.3
 
     *
-    *   Re-Akkreditierung eines Trägers von Stellen zur Durchführung der
+    *   Regelmäßige Begutachtung einer Technischen Prüfstelle, Bereich
         Fahrerlaubnisprüfung (ohne Begutachtung vor Ort)
 
-    *   4 090,00 bis 12 782,00
+    *   2 045,00 bis 6 391,00
 
 
 *    *   161.4
 
     *
-    *   Begutachtung vor Ort im Rahmen einer Re-Akkreditierung (ohne
+    *   Begutachtung vor Ort im Rahmen einer regelmäßigen Begutachtung (ohne
         Reisezeit)
 
     *   1 023,00 bis 2 556,00
@@ -1111,124 +1147,130 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   162
 
     *
-    *   Überprüfung einer Evaluationsstudie über ein Kursprogramm
-
-    *   4 602,00 bis 12 782,00
-
-
-*    *   163
-
-    *
-    *   Überwachung
-
-    *
-
-*    *   163.1
-
-    *
-    *   Überwachung eines Trägers von Begutachtungsstellen für Fahreignung
-        (ohne Begutachtung vor Ort)
-
-    *   2 045,00 bis 6 391,00
-
-
-*    *   163.2
-
-    *
-    *   Überwachung eines Trägers von Kursen zur Wiederherstellung der
-        Kraftfahreignung (ohne Begutachtung vor Ort)
-
-    *   2 045,00 bis 6 391,00
-
-
-*    *   163.3
-
-    *
-    *   Überwachung eines Trägers von Stellen zur Durchführung der
-        Fahrerlaubnisprüfung (ohne Begutachtung vor Ort)
-
-    *   2 045,00 bis 6 391,00
-
-
-*    *   163.4
-
-    *
-    *   Begutachtung vor Ort im Rahmen einer Überwachung (ohne Reisezeit)
-
-    *   1 023,00 bis 2 556,00
-
-
-*    *   164
-
-    *
     *   Gutachtenüberprüfung
 
     *
 
-*    *   164.1
+*    *   162.1
 
     *
-    *   Vorbereitung und Durchführung von Gutachtenüberprüfungen (regelmäßig)
-        für einen Träger von Begutachtungsstellen für Fahreignung (ohne
-        Überprüfung der einzelnen Gutachten)
+    *   Vorbereitung und Durchführung der regelmäßigen Überprüfung von
+        Gutachten für einen Träger von Begutachtungsstellen für Fahreignung
+        (ohne Überprüfung der einzelnen Gutachten)
 
     *   1 534,00
 
 
-*    *   164.2
+*    *   162.2
 
     *
-    *   Überprüfung eines einzelnen Gutachtens (regelmäßig) einer
+    *   Regelmäßige Überprüfung eines einzelnen Gutachtens einer
         Begutachtungsstelle für Fahreignung
 
     *   61,40 bis 205,00
 
 
-*    *   164.3
+*    *   162.3
 
     *
-    *   Vorbereitung und Durchführung von Gutachtenüberprüfungen (aus
-        besonderem Anlass) für einen Träger von Begutachtungsstellen für
-        Fahreignung (ohne Überprüfung der einzelnen Gutachten), wenn die
-        Überprüfung vom betroffenen Träger verantwortlich veranlasst worden
-        ist
+    *   Vorbereitung und Durchführung der Überprüfung von Gutachten aus
+        besonderem Anlass für einen Träger von Begutachtungsstellen für
+        Fahreignung (ohne Überprüfung der einzelnen Gutachten)
 
     *   1 534,00
 
 
-*    *   164.4
+*    *   162.4
 
     *
-    *   Überprüfung eines einzelnen Gutachtens (aus besonderem Anlass) einer
-        Begutachtungsstelle für Fahreignung, wenn die Überprüfung vom
-        betroffenen Träger verantwortlich veranlasst worden ist
+    *   Überprüfung eines einzelnen Gutachtens aus besonderem Anlass einer
+        Begutachtungsstelle für Fahreignung
 
     *   123,00 bis 307,00
 
 
-*    *   165
+*    *   163
+
+    *
+    *   Überprüfung einer Evaluationsstudie über ein Kursprogramm
+
+    *   4 602,00 bis 12 782,00
+
+
+*    *   164
 
     *
     *   Zusätzliche Leistungen
 
     *
 
-*    *   165.1
+*    *   164.1
 
     *
     *   Stundensatz für Leistungen, die außerhalb der Gebührennummern 160 bis
-        164 erbracht werden
+        163 erbracht werden
 
     *   92,00
 
 
-*    *   165.2
+*    *   164.2
 
     *
     *   Stundensatz für Reisezeit für Maßnahmen nach den Gebührennummern 160
         bis 163
 
     *   61,40
+
+
+*    *   165
+
+    *
+    *   Begutachtung des Trägers einer unabhängigen Stelle
+
+    *
+
+*    *   165.1
+
+    *
+    *   Begutachtung des Trägers einer unabhängigen Stelle für die Bestätigung
+        der Eignung von eingesetzten psychologischen Testverfahren und
+        -geräten
+
+    *   694,79
+
+
+*    *   165.2
+
+    *
+    *   Begutachtung des Trägers einer unabhängigen Stelle für die Bestätigung
+        der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
+
+    *   694,79
+
+
+*    *   166
+
+    *
+    *   Gutachterwechsel bei einer unabhängigen Stelle
+
+    *
+
+*    *   166.1
+
+    *
+    *   Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der
+        Eignung von eingesetzten psychologischen Testverfahren und -geräten
+
+    *   167,42
+
+
+*    *   166.2
+
+    *
+    *   Gutachterwechsel bei einer unabhängigen Stelle für die Bestätigung der
+        Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
+
+    *   167,42
 
 
 *    *
@@ -1335,7 +1377,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## 2. Abschnitt
 
-[^F1.774775_01_BJNR009800011BJNE001009308]
+[^F1.774775_01_BJNR009800011BJNE001111116]
 Gebühren der Behörden im Landesbereich
 ##
 
@@ -1442,7 +1484,8 @@ Gebühren der Behörden im Landesbereich
 *    *   202.5
 
     *
-    *   bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 7 FeV)
+    *   bei der Umstellung einer Fahrerlaubnis alten Rechts (§ 6 Absatz 6 Satz
+        2 FeV)
 
     *   23,00
 
@@ -1459,9 +1502,9 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Ausfertigung eines Führerscheins, soweit nicht bereits in den Nummern
-        202\.1 bis 202.5 eingeschlossen, oder eines vorläufigen Nachweises der
-        Fahrberechtigung (Prüfungsbescheinigung nach § 22 Absatz 4 Satz 7
-        FeV), soweit vom Bewerber veranlasst
+        202\.1 bis 202.5 eingeschlossen, oder einer als Nachweis der
+        Fahrerlaubnis geltenden befristeten Prüfungsbescheinigung (§ 22 Absatz
+        4 Satz 7 FeV), soweit vom Bewerber veranlasst
 
     *   7,70
 
@@ -1562,9 +1605,9 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Verwarnung nach den Regelungen der Fahrerlaubnis auf Probe (§ 2a
-        Absatz 2 Nummer 2 StVG), nach dem Punktsystem (§ 4 Absatz 3 Nummer 1
-        und 2 StVG) oder eines Inhabers einer Fahrerlaubnis zur
-        Fahrgastbeförderung
+        Absatz 2 Nummer 2 StVG), Ermahnung oder Verwarnung nach dem
+        Fahreignungs-Bewertungssystem (§ 4 Absatz 5 Satz 1 Nummer 1 oder 2
+        StVG)
 
     *   17,90
 
@@ -1572,9 +1615,8 @@ Gebühren der Behörden im Landesbereich
 *    *   210
 
     *
-    *   Anordnung der Teilnahme an einem Aufbauseminar (§ 2a Absatz 2 Nummer
-        1, § 4 Absatz 3 Nummer 2 StVG) einschließlich der Mitteilungen an das
-        Kraftfahrt-Bundesamt
+    *   Anordnung der Teilnahme an einem Aufbauseminar (§ 2a Absatz 2 Nummer 1
+        StVG) einschließlich der Mitteilungen an das Kraftfahrt-Bundesamt
 
     *   25,60
 
@@ -1582,18 +1624,16 @@ Gebühren der Behörden im Landesbereich
 *    *   211
 
     *
-    *   Verkürzung der Probezeit nach § 7 FreiwFortbV
+    *   (weggefallen)
 
-    *   1,80
-
+    *
 
 *    *   212
 
     *
-    *   Registrierung einer ausländischen Fahrerlaubnis
+    *   (weggefallen)
 
-    *   12,80
-
+    *
 
 *    *   213
 
@@ -1648,17 +1688,15 @@ Gebühren der Behörden im Landesbereich
 *    *   214.5
 
     *
-    *   eines Trägers von besonderen Einweisungslehrgängen nach § 4 Absatz 4
-        Satz 1 FreiwFortbV
+    *   (weggefallen)
 
-    *   33,20 bis 256,00
-
+    *
 
 *    *   214.6
 
     *
     *   Anerkennung als Kursleiter für die Durchführung von besonderen
-        Aufbauseminaren gemäß §§ 36, 43 FeV
+        Aufbauseminaren gemäß § 36 FeV
 
     *   33,20 bis 256,00
 
@@ -1666,10 +1704,117 @@ Gebühren der Behörden im Landesbereich
 *    *   215
 
     *
-    *   Überprüfung von Gruppensitzungen nach § 4 Absatz 1 FreiwFortbV und von
-        praktischen Sicherheitsübungen nach § 4 Absatz 3 FreiwFortbV
+    *   Seminarerlaubnis Verkehrspsychologie (§ 4a Absatz 3 StVG)
+
+    *
+
+*    *   215.1
+
+    *
+    *   Erteilung der Seminarerlaubnis
+
+    *   40,90
+
+
+*    *   215.2
+
+    *
+    *   Erteilung der Seminarerlaubnis nach vorangegangener Versagung,
+        Rücknahme oder Widerruf oder nach vorangegangenem Verzicht
+
+    *   33,20 bis 256,00
+
+
+*    *   215.3
+
+    *
+    *   Berichtigung eines Erlaubnisbescheides
+
+    *   7,70
+
+
+*    *   215.4
+
+    *
+    *   Erlaubnisbescheid als Ersatz für einen verlorenen oder unbrauchbar
+        gewordenen, außer den Kosten einer etwaigen öffentlichen
+        Ungültigkeitserklärung
+
+    *   15,30 bis 38,30
+
+
+*    *   215.5
+
+    *
+    *   Rücknahme oder Widerruf der Seminarerlaubnis
+
+    *   33,20 bis 256,00
+
+
+*    *   215.6
+
+    *
+    *   Zwangsweise Einziehung eines Erlaubnisbescheides. Diese Gebühr ist
+        auch fällig, wenn die Voraussetzung für die zwangsweise Einziehung
+        erst nach Einleiten der Zwangsmaßnahme beseitigt worden ist.
+
+    *   14,30 bis 286,00
+
+
+*    *   215.7
+
+    *
+    *   Überprüfung einer verkehrspsychologischen Teilmaßnahme des
+        Fahreignungsseminars (§ 4a Absatz 8 Satz 1 Nummer 1 StVG). Die Gebühr
+        ist auch zu entrichten, wenn die Untersuchung (Überwachung) ohne
+        Verschulden der nach Landesrecht zuständigen Behörde und ohne
+        ausreichende Entschuldigung des Inhabers der Seminarerlaubnis
+        Verkehrspsychologie am festgesetzten Termin nicht stattfinden oder
+        nicht zu Ende geführt werden konnte.
 
     *   30,70 bis 511,00
+
+
+*    *   215.8
+
+    *
+    *   Versagung der Seminarerlaubnis
+
+    *   33,20 bis 256,00
+
+
+*    *   216
+
+    *
+    *   Eintragung der Schlüsselzahlen 96 und 192 im Führerschein
+
+    *   28,60
+
+
+*    *   217
+
+    *
+    *   Anerkennung des Trägers einer unabhängigen Stelle
+
+    *
+
+*    *   217.1
+
+    *
+    *   Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung
+        der Eignung von eingesetzten psychologischen Testverfahren und
+        -geräten
+
+    *   250,00 bis 1 000,00
+
+
+*    *   217.2
+
+    *
+    *   Anerkennung des Trägers einer unabhängigen Stelle für die Bestätigung
+        der Eignung von Kursen zur Wiederherstellung der Kraftfahreignung
+
+    *   250,00 bis 1 000,00
 
 
 *    *
@@ -1688,7 +1833,7 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   Die Gebühren nach Nummern 221.1, 221.2, 221.3, 221.6 und 221.7 erhöhen
+    *   Die Gebühren nach Nummern 221.1, 221.2, 221.3, 221.6 und 221.8 erhöhen
         sich bei gleichzeitiger Änderung technischer Daten um die Gebühr nach
         Nummer 225.
 
@@ -1697,7 +1842,7 @@ Gebühren der Behörden im Landesbereich
 *    *
     *
     *   Die Gebühren nach Nummern 221.1, 221.2 und 221.3 erhöhen sich, wenn
-        der Abruf von Daten gemäß § 12 Absatz 2 Satz 4 FZV beim Kraftfahrt-
+        der Abruf von Daten gemäß § 12 Absatz 3 Satz 3 FZV beim Kraftfahrt-
         Bundesamt nicht möglich ist und die Daten im örtlichen
         Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
@@ -1712,7 +1857,7 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   Die Gebühren nach Nummern 221.1, 221.2, 221.6 und 221.7 erhöhen sich
+    *   Die Gebühren nach Nummern 221.1, 221.2, 221.6 und 221.8 erhöhen sich
         im Falle des Umtauschs des Fahrzeugbriefs in eine
         Zulassungsbescheinigung Teil II um 5,10 Euro. Die Gebühren nach
         Nummern 221.1 und 221.2 erhöhen sich im Falle der Zuteilung eines
@@ -1726,18 +1871,18 @@ Gebühren der Behörden im Landesbereich
     *   Zulassung, Änderung des Kennzeichens, Änderung des Betriebszeitraums
         beim Saisonkennzeichen, Wechsel der Kennzeichenart, wobei in diesen
         Fällen eine erneute Zulassungsgebühr oder eine Gebühr nach Nummer
-        221\.2, 221.6 oder 221.7 nicht zusätzlich anfällt
+        221\.2, 221.6 oder 221.8 nicht zusätzlich anfällt
 
-    *   26,30
+    *   27,00
 
 
 *    *   221.2
 
     *
-    *   Umschreibung aus einem anderen Zulassungsbezirk – mit und ohne
-        Halterwechsel –
+    *   Umschreibung aus einem anderen Zulassungsbezirk und Zuteilung eines
+        neuen Kennzeichens – mit und ohne Halterwechsel –
 
-    *   26,30
+    *   27,00
 
 
 *    *   221.3
@@ -1745,7 +1890,7 @@ Gebühren der Behörden im Landesbereich
     *
     *   Entscheidung über die Zuteilung eines Ausfuhrkennzeichens
 
-    *   30,70
+    *   31,40
 
 
 *    *   221.4
@@ -1767,20 +1912,37 @@ Gebühren der Behörden im Landesbereich
 *    *   221.6
 
     *
-    *   Wiederinbetriebnahme nach Außerbetriebsetzung innerhalb desselben
-        Zulassungsbezirks – ohne Halterwechsel und ohne Änderung der
-        Erkennungsnummer –
+    *   Wiederzulassung nach Außerbetriebsetzung innerhalb desselben
+        Zulassungsbezirks – ohne Halterwechsel und ohne Änderung des
+        Kennzeichens –, außer im Fall der Nummer 221.7
 
-    *   10,90
+    *   11,60
 
 
 *    *   221.7
 
     *
+    *   Internetbasierte Wiederzulassung
+
+    *   12,50
+
+
+*    *   221.8
+
+    *
     *   Umschreibung innerhalb desselben Zulassungsbezirks
         – Halterwechsel –
 
-    *   16,00
+    *   16,70
+
+
+*    *   221.9
+
+    *
+    *   Umschreibung aus einem anderen Zulassungsbezirk bei Beibehaltung des
+        bisherigen Kennzeichens – ohne Halterwechsel –
+
+    *   16,70
 
 
 *    *   222
@@ -1788,8 +1950,8 @@ Gebühren der Behörden im Landesbereich
     *
     *   Zuteilung und Ausfertigung eines Vordrucks einer
         Zulassungsbescheinigung Teil II außerhalb eines Zulassungsverfahrens
-        Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 2
-        Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
+        Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3
+        Satz 3 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
         im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
     *   10,20
@@ -1807,8 +1969,8 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 2
-        Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
+    *   Diese Gebühr erhöht sich, wenn der Abruf von Daten gemäß § 12 Absatz 3
+        Satz 3 FZV beim Kraftfahrt-Bundesamt nicht möglich ist und die Daten
         im örtlichen Fahrzeugregister nicht verfügbar sind, um 15,30 Euro.
 
     *
@@ -1832,24 +1994,25 @@ Gebühren der Behörden im Landesbereich
 *    *   224.1
 
     *
-    *   innerhalb des Zulassungsbezirks
+    *   innerhalb oder außerhalb des Zulassungsbezirks
 
-    *   5,10
+    *   6,90
 
 
 *    *   224.2
 
     *
-    *   außerhalb des Zulassungsbezirks
+    *   internetbasiert
 
-    *   10,20
+    *   5,70
 
 
 *    *   224.3
 
     *
     *   Entgegennahme eines Verwertungsnachweises gemäß § 15 FZV gleichzeitig
-        mit der Außerbetriebsetzung
+        mit der Außerbetriebsetzung außer bei internetbasierter
+        Außerbetriebsetzung
 
     *   5,10
 
@@ -1872,7 +2035,7 @@ Gebühren der Behörden im Landesbereich
         Erteilung einer Betriebserlaubnis sowie Fahrzeugidentitätsprüfung in
         anderen als in den nach Nummern 221 und 227 erfassten Fällen
         Diese Gebühr erhöht sich bei der Ausstellung einer
-        Zulassungsbescheinigung Teil I um 0,70 Euro.
+        Zulassungsbescheinigung Teil I um 0,90 Euro.
 
     *   10,20
 
@@ -1919,7 +2082,7 @@ Gebühren der Behörden im Landesbereich
         gleichzeitiger Änderung technischer Daten um die Gebühr nach Nummer
         225\.
         Die Gebühren nach Nummer 227.3 erhöhen sich, wenn der Abruf von Daten
-        gemäß § 12 Absatz 2 Satz 4 FZV beim Kraftfahrt-Bundesamt nicht möglich
+        gemäß § 12 Absatz 3 Satz 3 FZV beim Kraftfahrt-Bundesamt nicht möglich
         ist und die Daten im örtlichen Fahrzeugregister nicht verfügbar sind,
         um 15,30 Euro.
         Die Gebühren nach Nummern 227.2 und 227.3 erhöhen sich im Falle der
@@ -1951,31 +2114,31 @@ Gebühren der Behörden im Landesbereich
 *    *   227.3
 
     *
-    *   Umschreibung eines zulassungsfreien, aber kennzeichenpflichtigen
-        Fahrzeugs aus einem anderen Zulassungsbezirk – mit und ohne
-        Halterwechsel –
+    *   Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs
+        aus einem anderen Zulassungsbezirk und Zuteilung eines neuen
+        Kennzeichens – mit und ohne Halterwechsel –
 
-    *   26,30
+    *   27,00
 
 
 *    *   227.4
 
     *
-    *   Wiederinbetriebnahme eines zulassungsfreien, aber
-        kennzeichenpflichtigen Fahrzeugs nach Außerbetriebsetzung innerhalb
-        desselben Zulassungsbezirks – ohne Halterwechsel und ohne Änderung der
-        Erkennungsnummer –
+    *   Wiederinbetriebnahme eines zulassungsfreien kennzeichenpflichtigen
+        Fahrzeugs nach Außerbetriebsetzung innerhalb desselben
+        Zulassungsbezirks – ohne Halterwechsel und ohne Änderung der
+        Kennzeichen –
 
-    *   10,90
+    *   11,60
 
 
 *    *   227.5
 
     *
-    *   Umschreibung eines zulassungsfreien, aber kennzeichenpflichtigen
-        Fahrzeugs innerhalb des Zulassungsbezirks – Halterwechsel –
+    *   Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs
+        innerhalb des Zulassungsbezirks – Halterwechsel –
 
-    *   16,00
+    *   16,70
 
 
 *    *   227.6
@@ -1984,7 +2147,17 @@ Gebühren der Behörden im Landesbereich
     *   Änderung der Erkennungsnummer oder des Betriebszeitraums beim
         Saisonkennzeichen
 
-    *   26,30
+    *   27,00
+
+
+*    *   227.7
+
+    *
+    *   Umschreibung eines zulassungsfreien kennzeichenpflichtigen Fahrzeugs
+        aus einem anderen Zulassungsbezirk bei Beibehaltung des bisherigen
+        Kennzeichens – ohne Halterwechsel –
+
+    *   16,70
 
 
 *    *   228
@@ -2005,7 +2178,7 @@ Gebühren der Behörden im Landesbereich
 *    *   228.1
 
     *
-    *   je HU- und AU-Plakette sowie Prüfmarke
+    *   je HU-Plakette sowie Prüfmarke
 
     *   0,50
 
@@ -2021,14 +2194,22 @@ Gebühren der Behörden im Landesbereich
     *
     *   ohne farbiges Landeswappen
 
-    *   0,50
+    *   0,70
 
 
 *    *
     *
     *   mit farbigem Landeswappen
 
-    *   1,00
+    *   1,20
+
+
+*    *   228.3
+
+    *
+    *   je Plakettenträger
+
+    *   0,30
 
 
 *    *   229
@@ -2248,20 +2429,19 @@ Gebühren der Behörden im Landesbereich
         Prüfungsausschusses ein. Werden ein oder mehrere Teile der Prüfung
         nicht durchgeführt, ermäßigt sich die Gebühr für die Gesamtprüfung um
         jeweils 33
-        1                     /
-        3                      v. H. für jeden ausgefallenen Teil. Die sich
-        dadurch ergebenden Teilbeträge werden auf volle Euro aufgerundet. Die
-        Ermäßigung tritt nicht für die Teile ein, die ohne Verschulden des
-        Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers
-        am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt
-        werden konnten.
+        1/
+        3 v. H. für jeden ausgefallenen Teil. Die sich dadurch ergebenden
+        Teilbeträge werden auf volle Euro aufgerundet. Die Ermäßigung tritt
+        nicht für die Teile ein, die ohne Verschulden des Prüfungsausschusses
+        und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten
+        Termin nicht stattfinden oder nicht zu Ende geführt werden konnten.
 
     *
 
 *    *
     *   **4.**
 
-    *   **Sonstige Maßnahmen im Bereich des StVG, der StVZO, FZV, FeV, VOInt**
+    *   **Sonstige Maßnahmen im Bereich des StVG, der StVZO, FZV, FeV**
 
     *
 
@@ -2269,7 +2449,7 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Entscheidung über einen Antrag auf Tilgung einer Eintragung im
-        Verkehrszentralregister nach § 29 Absatz 3 Nummer 2 StVG
+        Fahreignungsregister nach § 29 Absatz 3 Nummer 2 StVG
 
     *   12,80 bis 102,00
 
@@ -2340,6 +2520,40 @@ Gebühren der Behörden im Landesbereich
         Verwaltungsbehörde (§ 5 StVG)
 
     *   30,70
+
+
+*    *   257
+
+    *
+    *   Bewertung alternativer Lehr- und Lernmethoden und Medien zur
+        Gestaltung der verkehrspädagogischen Teilmaßnahme des
+        Fahreignungsseminars nach § 42 Absatz 2 FeV einschließlich der
+        Auslagen für eine externe Begutachtung
+
+    *   1 000,00 bis 10 000,00
+
+
+*    *   258
+
+    *
+    *   Anerkennung eines Qualitätssicherungssystems für die
+        verkehrspsychologische Teilmaßnahme des Fahreignungsseminars nach § 4a
+        Absatz 8 StVG
+
+    *   nach dem Zeitaufwand
+        mit 12,80 Euro
+        je angefangene
+        Viertelstunde
+        Bearbeitungszeit
+
+
+*    *   259
+
+    *
+    *   Zuteilung einer Plakette zur Kennzeichnung von Fahrzeugen nach § 4
+        EmoG in Verbindung mit § 9a Absatz 4 FZV
+
+    *   11,00
 
 
 *    *
@@ -2446,32 +2660,19 @@ Gebühren der Behörden im Landesbereich
     *
     *   – für die fahrpraktische Prüfung
 
-    *   169,00
+    *   238,02
 
 
 *    *
     *
     *   – für die Fachkundeprüfung
 
-    *
-
-*    *
-    *
-    *   a) schriftlicher Teil
-
-    *   266,00
+    *   577,68
 
 
 *    *
     *
-    *   b) mündlicher Teil
-
-    *   164,00
-
-
-*    *
-    *
-    *   – für die Lehrproben
+    *   – für die Lehrproben
 
     *
 
@@ -2479,14 +2680,14 @@ Gebühren der Behörden im Landesbereich
     *
     *   a) im theoretischen Unterricht
 
-    *   99,70
+    *   210,92
 
 
 *    *
     *
     *   b) im fahrpraktischen Unterricht
 
-    *   99,70
+    *   210,92
 
 
 *    *   301.2
@@ -2500,27 +2701,14 @@ Gebühren der Behörden im Landesbereich
     *
     *   – für die fahrpraktische Prüfung
 
-    *   169,00
+    *   238,02
 
 
 *    *
     *
     *   – für die Fachkundeprüfung
 
-    *
-
-*    *
-    *
-    *   a) schriftlicher Teil
-
-    *   148,00
-
-
-*    *
-    *
-    *   b) mündlicher Teil
-
-    *   164,00
+    *   434,96
 
 
 *    *   301.3
@@ -2534,27 +2722,14 @@ Gebühren der Behörden im Landesbereich
     *
     *   – für die fahrpraktische Prüfung Klasse CE oder DE
 
-    *   220,00
+    *   300,52
 
 
 *    *
     *
     *   – für die Fachkundeprüfung Klasse CE oder DE
 
-    *
-
-*    *
-    *
-    *   a) schriftlicher Teil
-
-    *   148,00
-
-
-*    *
-    *
-    *   b) mündlicher Teil
-
-    *   164,00
+    *   434,96
 
 
 *    *
@@ -2578,8 +2753,8 @@ Gebühren der Behörden im Landesbereich
 *    *   302.1
 
     *
-    *   der befristeten Fahrlehrerlaubnis einschließlich der Ausfertigung des
-        befristeten Fahrlehrerscheins
+    *   der Anwärterbefugnis einschließlich der Ausfertigung des
+        Anwärterscheins
 
     *   40,90
 
@@ -2587,9 +2762,10 @@ Gebühren der Behörden im Landesbereich
 *    *   302.2
 
     *
-    *   der Fahrlehrerlaubnis oder der Seminarerlaubnis (§ 31 FahrlG)
-        einschließlich der Ausfertigung des Fahrlehrerscheins oder der
-        Erlaubnisurkunde
+    *   der Fahrlehrerlaubnis, der Seminarerlaubnis (§ 45 FahrlG) oder der
+        Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der
+        Ausfertigung des Fahrlehrerscheins oder des Vermerks auf dem
+        Fahrlehrerschein
 
     *   40,90
 
@@ -2603,16 +2779,14 @@ Gebühren der Behörden im Landesbereich
 
 *    *
     *
-    *   – an eine natürliche Person einschließlich Ausfertigung der
-        Erlaubnisurkunde
+    *   – an eine natürliche Person
 
     *   102,00
 
 
 *    *
     *
-    *   – an eine juristische Person einschließlich Ausfertigung der
-        Erlaubnisurkunde
+    *   – an eine juristische Person oder Personengesellschaft
 
     *   153,00
 
@@ -2620,8 +2794,7 @@ Gebühren der Behörden im Landesbereich
 *    *   302.4
 
     *
-    *   der Zweigstellenerlaubnis einschließlich der Ausfertigung einer
-        Erlaubnisurkunde
+    *   der Zweigstellenerlaubnis
 
     *   84,40
 
@@ -2630,9 +2803,8 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines
-        Aus- oder Fortbildungsträgers nach § 31 Absatz 2 Satz 4 oder § 33a
-        Absatz 3 Satz 5 FahrlG einschließlich der Ausfertigung der
-        Anerkennungsurkunde
+        Aus- oder Fortbildungsträgers nach § 45 Absatz 3 Satz 3, § 47 Absatz
+        1, § 48 oder § 53 Absatz 10 FahrlG
 
     *   102,00 bis 358,00
 
@@ -2640,39 +2812,37 @@ Gebühren der Behörden im Landesbereich
 *    *   302.6
 
     *
-    *   der befristeten Fahrlehrerlaubnis einschließlich der Ausfertigung des
-        befristeten Fahrlehrerscheins,
+    *   der Anwärterbefugnis einschließlich der Ausfertigung des
+        Anwärterscheins
 
     *
 
 *    *
     *
-    *   der Fahrlehrerlaubnis oder der Seminarerlaubnis (§ 31 FahrlG)
-        einschließlich der Ausfertigung des Fahrlehrerscheins oder der
-        Erlaubnisurkunde,
+    *   der Fahrlehrerlaubnis, der Seminarerlaubnis (§ 45 FahrlG) oder der
+        Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG) einschließlich der
+        Ausfertigung des Fahrlehrerscheins oder des Vermerks auf dem
+        Fahrlehrerschein
 
     *
 
 *    *
     *
-    *   der Fahrschulerlaubnis einschließlich der Ausfertigung einer
-        Erlaubnisurkunde,
+    *   der Fahrschulerlaubnis
 
     *
 
 *    *
     *
-    *   der Zweigstellenerlaubnis einschließlich der Ausfertigung einer
-        Erlaubnisurkunde oder
+    *   der Zweigstellenerlaubnis oder
 
     *
 
 *    *
     *
     *   der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines
-        Aus- oder Fortbildungsträgers nach § 31 Absatz 2 Satz 4 oder § 33a
-        Absatz 3 Satz 5 FahrlG einschließlich der Ausfertigung der
-        Anerkennungsurkunde
+        Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz
+        1, § 48 oder § 53 Absatz 10 FahrlG
 
     *
 
@@ -2703,8 +2873,7 @@ Gebühren der Behörden im Landesbereich
 *    *   303.2
 
     *
-    *   der Fahrschulerlaubnis einschließlich der Ausfertigung einer
-        Erlaubnisurkunde
+    *   der Fahrschulerlaubnis
 
     *   56,20
 
@@ -2712,8 +2881,7 @@ Gebühren der Behörden im Landesbereich
 *    *   303.3
 
     *
-    *   der Zweigstellenerlaubnis einschließlich der Ausfertigung einer
-        Erlaubnisurkunde
+    *   der Zweigstellenerlaubnis
 
     *   40,90
 
@@ -2722,7 +2890,6 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   der amtlichen Anerkennung einer Fahrlehrerausbildungsstätte
-        einschließlich der Ausfertigung einer Anerkennungsurkunde
 
     *   51,10 bis 169,00
 
@@ -2730,21 +2897,14 @@ Gebühren der Behörden im Landesbereich
 *    *   304
 
     *
-    *   Berichtigung eines Fahrlehrerscheins, eines befristeten
-        Fahrlehrerscheins, einer Erlaubnisurkunde oder einer
-        Anerkennungsurkunde
+    *   Gestrichen
 
-    *   7,70
-
+    *
 
 *    *   305
 
     *
-    *   Ausfertigung eines Fahrlehrerscheins, eines befristeten
-        Fahrlehrerscheins, einer Erlaubnisurkunde oder einer
-        Anerkennungsurkunde als Ersatz für eine(n) verlorene(n) oder
-        unbrauchbar gewordene(n), außer den Kosten einer etwaigen öffentlichen
-        Ungültigkeitserklärung
+    *   Ausfertigung eines Fahrlehrerscheins, eines Anwärterscheins
 
     *   15,30 bis 38,30
 
@@ -2752,12 +2912,13 @@ Gebühren der Behörden im Landesbereich
 *    *   306
 
     *
-    *   Rücknahme oder Widerruf der Fahrlehrerlaubnis, der befristeten
-        Fahrlehrerlaubnis, der Seminarerlaubnis (§ 31 FahrlG), der
-        Fahrschulerlaubnis, der Zweigstellenerlaubnis oder der amtlichen
-        Anerkennung einer Fahrlehrerausbildungsstätte oder eines Aus- oder
-        Fortbildungsträgers nach § 31 Absatz 2 Satz 4 oder § 33a Absatz 3 Satz
-        5 FahrlG
+    *   Rücknahme oder Widerruf der Fahrlehrerlaubnis, der Anwärterbefugnis,
+        der Seminarerlaubnis (§ 45 FahrlG), der Seminarerlaubnis
+        Verkehrspädagogik (§ 46 FahrlG), der Fahrschulerlaubnis, der
+        Zweigstellenerlaubnis oder der amtlichen Anerkennung einer
+        Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers
+        nach § 45 Absatz 3 Satz 3, § 47 Absatz 1, § 48 oder § 53 Absatz 10
+        FahrlG
 
     *   33,20 bis 256,00
 
@@ -2765,9 +2926,7 @@ Gebühren der Behörden im Landesbereich
 *    *   307
 
     *
-    *   Zwangsweise Einziehung eines Fahrlehrerscheins, eines befristeten
-        Fahrlehrerscheins, einer Erlaubnisurkunde oder einer
-        Anerkennungsurkunde
+    *   Zwangsweise Einziehung eines Fahrlehrerscheins, eines Anwärterscheins
 
     *   14,30 bis 286,00
 
@@ -2790,9 +2949,10 @@ Gebühren der Behörden im Landesbereich
 *    *   308.1
 
     *
-    *   einer Fahrschule oder Zweigstelle, eines Aufbauseminars, einer Aus-
-        oder Fortbildungsveranstaltung nach § 31 Absatz 2 Satz 4 oder § 33a
-        Absatz 3 Satz 5 FahrlG
+    *   der Fahrlehrerinnen und Fahrlehrer, einer Fahrschule oder Zweigstelle,
+        eines Aufbauseminars, einer verkehrspädagogischen Teilmaßnahme des
+        Fahreignungsseminars nach § 46, einer Aus- oder
+        Fortbildungsveranstaltung nach § 51 Absatz 1 FahrlG
 
     *   30,70 bis 511,00
 
@@ -2827,15 +2987,31 @@ Gebühren der Behörden im Landesbereich
 
     *
     *   Versagung (außer der etwaigen Gebühr nach Nummer 308) der
-        Fahrlehrerlaubnis oder der Seminarerlaubnis (§ 31 FahrlG) oder deren
-        Erweiterung, der befristeten Fahrlehrerlaubnis, der Fahrschulerlaubnis
-        oder deren Erweiterung, der Zweigstellenerlaubnis oder deren
-        Erweiterung oder der amtlichen Anerkennung einer
-        Fahrlehrerausbildungsstätte oder eines Aus- oder Fortbildungsträgers
-        nach § 31 Absatz 2 Satz 4 oder § 33a Absatz 3 Satz 5 FahrlG oder deren
-        Erweiterung
+        Fahrlehrerlaubnis oder der Seminarerlaubnis (§ 45 FahrlG) oder deren
+        Erweiterung, der Seminarerlaubnis Verkehrspädagogik (§ 46 FahrlG), der
+        befristeten Fahrlehrerlaubnis, der Fahrschulerlaubnis oder deren
+        Erweiterung, der Zweigstellenerlaubnis oder deren Erweiterung oder der
+        amtlichen Anerkennung einer Fahrlehrerausbildungsstätte oder eines
+        Aus- oder Fortbildungsträgers nach § 45 Absatz 2 Satz 4, § 47 Absatz
+        1, § 48 oder § 53 Absatz 10 FahrlG oder deren Erweiterung
 
     *   33,20 bis 256,00
+
+
+*    *   311
+
+    *
+    *   Genehmigung eines Qualitätssicherungssystems für die
+        verkehrspädagogische Teilmaßnahme des Fahreignungsseminars oder für
+        den Einweisungslehrgang nach § 46 Absatz 5 Satz 2 Nr. 4 Buchstabe b
+        FahrlG
+
+    *   nach dem
+        Zeitaufwand mit
+        12,80 Euro je
+        angefangene
+        Viertelstunde
+        Bearbeitungszeit
 
 
 *    *
@@ -2899,13 +3075,12 @@ Gebühren der Behörden im Landesbereich
         Prüfungsausschusses ein. Werden ein oder mehrere Teile der Prüfung für
         die amtliche Anerkennung nicht durchgeführt, ermäßigt sich die Gebühr
         für die Gesamtprüfung um jeweils 33
-        1                     /
-        3                      v. H. für jeden ausgefallenen Teil. Die sich
-        dadurch ergebenden Teilbeträge werden auf volle Euro aufgerundet. Die
-        Ermäßigung tritt nicht für die Teile ein, die ohne Verschulden des
-        Prüfungsausschusses und ohne ausreichende Entschuldigung des Bewerbers
-        am festgesetzten Termin nicht stattfinden oder nicht zu Ende geführt
-        werden konnten.
+        1/
+        3 v. H. für jeden ausgefallenen Teil. Die sich dadurch ergebenden
+        Teilbeträge werden auf volle Euro aufgerundet. Die Ermäßigung tritt
+        nicht für die Teile ein, die ohne Verschulden des Prüfungsausschusses
+        und ohne ausreichende Entschuldigung des Bewerbers am festgesetzten
+        Termin nicht stattfinden oder nicht zu Ende geführt werden konnten.
 
     *
 
@@ -2983,7 +3158,7 @@ Gebühren der Behörden im Landesbereich
 *    *   343
 
     *
-    *   Eintrag der Schlüsselnummer im Führerschein nach Grundqualifikation
+    *   Eintrag der Schlüsselzahl 95 im Führerschein nach Grundqualifikation
         oder Weiterbildung nach § 5 Absatz 2 BKrFQV
 
     *   28,60
@@ -3001,10 +3176,11 @@ Gebühren der Behörden im Landesbereich
 *    *   345
 
     *
-    *   Entscheidung über die Erteilung, Änderung, Versagung, Rücknahme oder
-        Widerruf der Anerkennung, im Falle der Anerkennung einschließlich
-        Anerkennungsurkunde, sowie die Untersagung der Ausübung von
-        Tätigkeiten nach § 7 Absatz 4 Satz 5 BKrFQG
+    *   Entscheidung über die Erteilung im Falle der Anerkennung nach § 7
+        BKrFQG, Untersagung der Durchführung des Unterrichts nach § 7a Absatz
+        1 und 2 BKrFQG, Rücknahme oder Widerruf der Anerkennung,
+        einschließlich Anerkennungsurkunde, nach § 7a Absatz 3 BKrFQG sowie
+        die Untersagung der Ausübung von Tätigkeiten nach § 7a Absatz 5 BKrFQG
 
     *   51,10 bis 511,00
 
@@ -3012,9 +3188,9 @@ Gebühren der Behörden im Landesbereich
 *    *   346
 
     *
-    *   Überprüfung der Ausbildungsstätten für die beschleunigte
-        Grundqualifikation und Weiterbildung nach § 7 Absatz 1 Nummer 1 und 5
-        in Verbindung mit Absatz 2 BKrFQG
+    *   Überwachung der Ausbildungsstätten nach § 7b Absatz 1 in Verbindung
+        mit § 7 Absatz 1 Satz 1 Nummer 1 und 5 BKrFQG sowie § 7b Absatz 2 in
+        Verbindung mit § 7 Absatz 1 Satz 1 Nummer 3 und 4 BKrFQG
 
     *   30,70 bis 511,00
 
@@ -3106,7 +3282,7 @@ und der Sehteststellen
     *
     *   für eine Fahrerlaubnis aller Klassen, je
 
-    *   9,30
+    *   10,00
 
 
 *    *
@@ -3119,69 +3295,40 @@ und der Sehteststellen
 *    *   401.2
 
     *
-    *   nach § 5 FeV (Mofa 25, motorisierter Krankenfahrstuhl)
+    *   nach § 5 FeV (Mofa 25)
 
-    *   3,80
+    *   4,10
 
 
 *    *   401.3
 
     *
-    *   Zu den Gebühren nach den Nummern 401.1 und 401.2 werden erhoben für
+    *   Zu den Gebühren nach den Nummern 401.1 und 401.2 werden erhoben:
 
     *
 
 *    *
     *
-    *   – Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25,
-        motorisierter Krankenfahrstuhl)
+    *   – Ausfertigung einer Bescheinigung nach § 5 FeV (Mofa 25)
 
-    *   6,50
-
-
-*    *
-    *
-    *   – Prüfung am PC
-
-    *   8,20
+    *   7,00
 
 
 *    *
     *
-    *   – Prüfungsbogen oder andere Medien außer PC nebst Auswertung in
-        Fremdsprachen
+    *   – Prüfung am PC
 
-    *   20,20
+    *   8,90
 
 
 *    *
     *
-    *   – Hilfestellung bei der Prüfung durch den Sachverständigen/Prüfer,
-        Audio-Systeme oder durch vom Bewerber gesondert zu bezahlenden
-        Dolmetscher/Übersetzer
+    *   – Einzelprüfung durch den Sachverständigen/Prüfer oder durch vom
+        Bewerber gesondert zu bezahlenden Gebärdendolmetscher
 
     *   je angefangene Viertel-
-        stunde Gebühr entsprechend Nummer 499
-
-
-*    *
-    *
-    *   – fremdsprachige Prüfung mit CD
-
-    *
-
-*    *
-    *
-    *   a) als Einzelprüfung
-
-    *   109,00
-
-
-*    *
-    *
-    *   b) bei gleichzeitiger Prüfung von zwei Bewerbern
-
-    *   87,10
+        stunde Gebühr entsprechend
+        Nummer 499
 
 
 *    *   402
@@ -3205,7 +3352,7 @@ und der Sehteststellen
         ohne ausreichende Entschuldigung des Bewerbers am festgesetzten Termin
         nicht stattfinden oder nicht beendet werden, wird die volle Gebühr für
         den ausgefallenen Prüfungsteil erhoben. Verkürzt sich die Dauer der
-        praktischen Prüfung nach Anlage 7 Abschnitt 2.3 oder 2.6.1 FeV,
+        praktischen Prüfung nach Anlage 7 Abschnitt 2.3 oder 2.5.1 FeV,
         ermäßigt sich die Gebühr entsprechend.
 
     *
@@ -3213,9 +3360,18 @@ und der Sehteststellen
 *    *   402.1
 
     *
-    *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A
+    *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2
 
-    *   94,80
+    *   102,00
+
+
+*    *   402.1a
+
+    *
+    *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A oder A2 im Zuge
+        der Stufenregelung nach § 15 Absatz 3 und 4 FeV
+
+    *   68,00
 
 
 *    *   402.2
@@ -3223,7 +3379,7 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse A1
 
-    *   71,40
+    *   77,10
 
 
 *    *   402.3
@@ -3231,7 +3387,7 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen B, BE
 
-    *   71,40
+    *   77,10
 
 
 *    *   402.4
@@ -3239,7 +3395,7 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen C, CE
 
-    *   118,00
+    *   127,00
 
 
 *    *   402.5
@@ -3251,7 +3407,7 @@ und der Sehteststellen
         Technischen Hilfswerks und sonstiger Einheiten des
         Katastrophenschutzes
 
-    *   118,00
+    *   127,00
 
 
 *    *   402.6
@@ -3259,7 +3415,7 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen D, D1
 
-    *   118,00
+    *   127,00
 
 
 *    *   402.7
@@ -3267,15 +3423,15 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klassen DE, D1E
 
-    *   111,00
+    *   120,00
 
 
 *    *   402.8
 
     *
-    *   Praktische Prüfung für eine Fahrerlaubnis der Klassen M, S
+    *   Praktische Prüfung für eine Fahrerlaubnis der Klasse AM
 
-    *   47,40
+    *   77,10
 
 
 *    *   402.9
@@ -3283,7 +3439,7 @@ und der Sehteststellen
     *
     *   Praktische Prüfung für eine Fahrerlaubnis der Klasse T
 
-    *   94,80
+    *   102,00
 
 
 *    *   403
@@ -3305,7 +3461,7 @@ und der Sehteststellen
 
     *
     *   Grundgebühr für Typprüfungen oder Musterprüfungen nach
-        StVZO/EG/ECE/FTV
+        StVZO/EU/ECE/FzTV
         Mit den Grundgebühren ist folgender Aufwand abgedeckt:
 
     *
@@ -3357,7 +3513,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   59,90
+    *   61,00
 
 
 *    *
@@ -3396,7 +3552,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   150,00
+    *   153,00
 
 
 *    *
@@ -3472,7 +3628,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   240,00
+    *   245,00
 
 
 *    *
@@ -3523,7 +3679,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   299,00
+    *   305,00
 
 
 *    *
@@ -3604,7 +3760,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   390,00
+    *   398,00
 
 
 *    *
@@ -3649,7 +3805,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   449,00
+    *   458,00
 
 
 *    *
@@ -3706,7 +3862,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   539,00
+    *   550,00
 
 
 *    *
@@ -3757,7 +3913,7 @@ und der Sehteststellen
     *   Die Grundgebühr beträgt je Prüfung
         für
 
-    *   700,00
+    *   714,00
 
 
 *    *
@@ -3810,7 +3966,7 @@ und der Sehteststellen
     *
     *   Nachtragsgutachten
         Die Grundgebühr für Begutachtungen für Nachträge zu Typprüfungen oder
-        Musterprüfungen nach StVZO/EG/ECE/FTV beträgt zwei Drittel der
+        Musterprüfungen nach StVZO/EU/ECE/FzTV beträgt zwei Drittel der
         Grundgebühr nach den Nummern 410.1 bis 410.8.
 
     *
@@ -3821,8 +3977,8 @@ und der Sehteststellen
     *   Soweit der Aufwand nicht durch die Grundgebühren nach den Nummern
         410\.1 bis 410.8, 411.1 und 411.2 abgegolten ist, wird zusätzlich der
         Zeitaufwand berechnet. Die Gebühr hierfür beträgt je Sachverständigen
-        und je angefangene Viertelstunde mindestens 18,50 Euro und höchstens
-        24,50 Euro. Der Stundensatz kann bis zu 50 v. H. über-
+        und je angefangene Viertelstunde mindestens 20,30 Euro und höchstens
+        27,00 Euro. Der Stundensatz kann bis zu 50 v. H. über-
 
     *
 
@@ -3849,8 +4005,9 @@ und der Sehteststellen
 
 *    *
     *
-    *[^F1.774775_02_BJNR009800011BJNE001009308]
-   Begutachtung nach §§ 21 und 23 StVZO oder § 13 EG-FGV
+    *   Begutachtung nach §§ 21 und 23 StVZO
+[^F796317_01_BJNR009800011BJNE001111116]
+        oder § 13 EG-FGV
 
     *
     *
@@ -3858,27 +4015,45 @@ und der Sehteststellen
 
 *    *   Komplettfahrzeug
 
-    *   Gutachten nach § 21 StVZO nach technischen Änderungen (§ 19
+    *   Gutachten nach § 21 StVZO
+        nach
+        technischen Änderungen
+        (§ 19
         Absatz 2 StVZO)
 
-    *   Änderungsabnahme nach § 19 Absatz 3 StVZO
+    *   Änderungsabnahme
+        nach § 19 Absatz 3 StVZO
+        1
 
-    *[^F1.774775_04_BJNR009800011BJNE001009308]
-   Hauptuntersuchung (HU) nach § 29 StVZO
-[^F1.774775_05_BJNR009800011BJNE001009308]
-[^F1.774775_06_BJNR009800011BJNE001009308]
-[^F1.774775_07_BJNR009800011BJNE001009308]
-[^F1.774775_08_BJNR009800011BJNE001009308]
-[^F1.774775_09_BJNR009800011BJNE001009308]
+    *   Hauptuntersuchung (HU)
+[^F796317_03_BJNR009800011BJNE001111116]
+        nach § 29 StVZO
+[^F796317_04_BJNR009800011BJNE001111116]
+        ,
+[^F796317_05_BJNR009800011BJNE001111116]
+        ,
+[^F796317_06_BJNR009800011BJNE001111116]
+        ,
+[^F796317_07_BJNR009800011BJNE001111116]
+        ,
+[^F796317_08_BJNR009800011BJNE001111116]
+        ,
 
-    *   Sicherheitsprüfung (SP) nach § 29 StVZO
+    *   Sicherheitsprüfung
+        (SP)
+        nach § 29 StVZO
+        5
 
 
-*    *[^F1.774775_03_BJNR009800011BJNE001009308]
-   Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV und GA nach § 23
-        StVZO
+*    *   Voll-Gutachten (GA) nach § 21 StVZO oder § 13 EG-FGV
+        und GA
+[^F796317_02_BJNR009800011BJNE001111116]
+        nach § 23 StVZO
+        , 6
 
-    *   Gutachten nach § 21 StVZO auf Grund § 14 Absatz 2 Satz 4 FZV
+    *   Gutachten nach § 21 StVZO
+        auf Grund § 14 Absatz 2 Satz 4
+        6
 
 
 *    *   1
@@ -3912,13 +4087,15 @@ und der Sehteststellen
     *   Kleinkrafträder, Fahrräder mit Hilfsmotor, vierrädrige
         Leichtkraftfahrzeuge, Krankenfahrstühle
 
-    *   43,60
+    *   49,70
 
-    *   27,30
+    *   31,10
 
-    *   15,30 bis 25,60
+    *   17,00 bis
+        28,40
 
-    *   12,80 bis 23,00
+    *   12,80 bis
+        23,00
 
     *   –
 
@@ -3929,15 +4106,18 @@ und der Sehteststellen
 
     *   Anhänger ohne Bremsanlage
 
-    *   43,60
+    *   49,70
 
-    *   27,30
+    *   31,10
 
-    *   15,30 bis 25,60
+    *   17,00 bis
+        28,40
 
-    *   12,80 bis 23,00
+    *   12,80 bis
+        23,00
 
-    *   11,80 bis 22,00
+    *   12,60 bis
+        23,30
 
     *   –
 
@@ -3946,22 +4126,26 @@ und der Sehteststellen
 
     *   Krafträder
 
-    *   51,00
+    *   58,00
 
-    *   32,50
+    *   37,00
 
-    *   17,30 bis 31,80
+    *   19,20 bis
+        35,30
 
-    *   15,70 bis 29,30
+    *   15,70 bis
+        29,30
 
-    *   21,40 bis 32,30
+    *   22,70 bis
+        34,20
 
     *   –
 
 
 *    *   413.4
 
-    *   Kraftfahrzeuge oder Anhänger mit einer zulässigen Gesamtmasse ...
+    *   Kraftfahrzeuge oder
+        Anhänger mit einer zulässigen Gesamtmasse ...
 
     *
     *
@@ -3972,92 +4156,117 @@ und der Sehteststellen
 
 *    *   413.4.1
 
-    *   ... von nicht mehr als 3,5 t, soweit nicht unter den Nummern 413.1 bis
-        413\.3 genannt
+    *   ... von nicht mehr als
+        3,5 t, soweit nicht unter den Nummern 413.1
+        bis 413.3 genannt
 
-    *   76,70
+    *   87,40
 
-    *   50,10
+    *   57,10
 
-    *   26,30 bis 44,50
+    *   29,20 bis
+        49,40
 
-    *   22,20 bis 42,90
+    *   22,20 bis
+        42,90
 
-    *   27,80 bis 43,50
+    *   29,40 bis
+        46,10
 
-    *   23,00 bis 28,10
+    *   24,40 bis
+        29,80
 
 
 *    *   413.4.2
 
-    *   ... von nicht mehr als 7,5 t, soweit nicht unter den Nummern 413.1 bis
-        413\.4.1 genannt
+    *   ... von nicht mehr als
+        7,5 t, soweit nicht unter den Nummern 413.1
+        bis 413.4.1 genannt
 
-    *   83,80
+    *   95,50
 
-    *   62,00
+    *   70,70
 
-    *   33,90 bis 59,80
+    *   37,60 bis
+        66,40
 
-    *   26,30 bis 52,20
+    *   26,30 bis
+        52,20
 
-    *   47,20 bis 59,80
+    *   50,00 bis
+        63,40
 
-    *   40,90 bis 51,10
+    *   43,40 bis
+        54,20
 
 
 *    *   413.4.3
 
-    *   ... von nicht mehr als 12 t, soweit nicht unter den Nummern 413.1 bis
-        413\.4.2 genannt
+    *   ... von nicht mehr als
+        12 t, soweit nicht unter den Nummern 413.1
+        bis 413.4.2 genannt
 
-    *   94,60
+    *   108,00
 
-    *   72,90
+    *   83,10
 
-    *   39,00 bis 62,40
+    *   43,30 bis
+        69,30
 
-    *   26,30 bis 52,20
+    *   26,30 bis
+        52,20
 
-    *   59,40 bis 75,10
+    *   63,00 bis
+        79,60
 
-    *   46,00 bis 58,80
+    *   48,80 bis
+        62,30
 
 
 *    *   413.4.4
 
-    *   ... von nicht mehr als 18 t, soweit nicht unter den Nummern 413.1 bis
-        413\.4.3 genannt
+    *   ... von nicht mehr als
+        18 t, soweit nicht unter den Nummern 413.1
+        bis 413.4.3 genannt
 
-    *   105,00
+    *   120,00
 
-    *   78,40
+    *   89,40
 
-    *   41,60 bis 65,00
+    *   46,20 bis
+        72,10
 
-    *   26,30 bis 52,20
+    *   26,30 bis
+        52,20
 
-    *   64,50 bis 82,70
+    *   68,40 bis
+        87,70
 
-    *   51,10 bis 63,90
+    *   54,20 bis
+        67,70
 
 
 *    *   413.4.5
 
-    *   ... von nicht mehr als 32 t, soweit nicht unter den Nummern 413.1 bis
-        413\.4.4 genannt
+    *   ... von nicht mehr als
+        32 t, soweit nicht unter den Nummern 413.1
+        bis 413.4.4 genannt
 
-    *   121,00
+    *   138,00
 
-    *   83,80
+    *   95,50
 
-    *   44,20 bis 67,50
+    *   49,00 bis
+        74,90
 
-    *   26,30 bis 52,20
+    *   26,30 bis
+        52,20
 
-    *   72,20 bis 90,40
+    *   76,50 bis
+        95,80
 
-    *   56,20 bis 71,60
+    *   59,60 bis
+        75,90
 
 
 *    *   413.4.6
@@ -4065,17 +4274,21 @@ und der Sehteststellen
     *   ... über 32 t, soweit nicht unter den Nummern 413.1 bis 413.4.5
         genannt
 
-    *   138,00
+    *   157,00
 
-    *   89,20
+    *   102,00
 
-    *   46,70 bis 70,10
+    *   51,80 bis
+        77,80
 
-    *   26,30 bis 52,20
+    *   26,30 bis
+        52,20
 
-    *   85,00 bis 106,00
+    *   90,10 bis
+        112,00
 
-    *   69,00 bis 86,90
+    *   73,10 bis
+        92,10
 
 
 
@@ -4094,7 +4307,12 @@ und der Sehteststellen
     *
     *   Abgasuntersuchung bestimmter Kraftfahrzeuge entsprechend der
         Durchführungs-Richtlinie für die Untersuchung der Abgase
-        Wird die Abgasuntersuchung als Teiluntersuchung der Hauptuntersuchung
+
+    *
+
+*    *
+    *
+    *   Wird die Abgasuntersuchung als Teiluntersuchung der Hauptuntersuchung
         durchgeführt, ergibt sich der zulässige Gebührenrahmen durch
         Multiplikation der festgeschriebenen Gebühren mit 0,85.
 
@@ -4147,7 +4365,7 @@ und der Sehteststellen
         Kraftfahrzeugwerkstatt wird zur Gebühr nach den Nummern 413.3 und
         413\.4 folgende zusätzliche Gebühr erhoben
 
-    *   20,00
+    *   22,00
 
 
 *    *   413.6.2
@@ -4155,7 +4373,7 @@ und der Sehteststellen
     *
     *   Gassystemeinbauprüfung nach § 41a Absatz 5 StVZO
 
-    *   100,00
+    *   110,00
 
 
 *    *   413.6.3
@@ -4163,7 +4381,7 @@ und der Sehteststellen
     *
     *   Gasanlagenprüfung ohne Hauptuntersuchung
 
-    *   26,00
+    *   28,00
 
 
 *    *   414
@@ -4172,8 +4390,8 @@ und der Sehteststellen
     *   Nachprüfung einzelner Fahrzeuge im Sinne der Nummern 413.1 bis 413.6
 
     *   1,50 Euro bis
-        2                     /
-        3                      der
+        2/
+        3 der
         Gebühr nach den Num-mern 413.1 bis 413.6.3
 
 
@@ -4196,7 +4414,7 @@ und der Sehteststellen
     *
     *   Kraftomnibusse
 
-    *   12,30 bis 27,60
+    *   13,50 bis 30,30
 
 
 *    *   415.2
@@ -4204,7 +4422,7 @@ und der Sehteststellen
     *
     *   Taxen, Mietwagen
 
-    *   6,10 bis 13,80
+    *   6,70 bis 15,20
 
 
 *    *   415.3
@@ -4212,9 +4430,9 @@ und der Sehteststellen
     *
     *   Nachprüfungen
 
-    *   4,10 Euro bis
-        2                     /
-        3                      der
+    *   4,50 Euro bis
+        2/
+        3 der
         Gebühr nach Nummer 415.1
         beziehungsweise 415.2
 
@@ -4232,8 +4450,7 @@ und der Sehteststellen
 *    *   416
 
     *
-    *   Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 oder §
-        47a StVZO
+    *   Zuteilung einer Prüfplakette oder Prüfmarke auf Grund des § 29 StVZO
 
     *   0,50
 
@@ -4242,10 +4459,10 @@ und der Sehteststellen
 
     *
     *   Erstellen einer Zweitschrift des Berichts über die Hauptuntersuchung
-        nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach §
-        47a StVZO
+        nach § 29 oder der Prüfbescheinigung über die Abgasuntersuchung nach
+        Nummer 1.2.1.1 der Anlage VIII StVZO
 
-    *   2,80
+    *   3,00
 
 
 *    *   418
@@ -4377,8 +4594,8 @@ und der Sehteststellen
 
     *   für die Fragestellung mit der höchsten Gebühr den vollen Satz; für
         alle weiteren Fragestellungen insgesamt
-        1                     /
-        2                      der hierfür geltenden höchsten Gebühr
+        1/
+        2 der hierfür geltenden höchsten Gebühr
 
 
 *    *   451.8
@@ -4386,10 +4603,10 @@ und der Sehteststellen
     *
     *   Teiluntersuchungen oder Nachuntersuchungen
 
-    *   1                     /
-        2                      bis
-        2                     /
-        3                      der jeweiligen Gebühr nach den Nummern
+    *   1/
+        2 bis
+        2/
+        3 der jeweiligen Gebühr nach den Nummern
         451\.1 bis 451.6
 
 
@@ -4404,7 +4621,7 @@ und der Sehteststellen
 *    *   452.1
 
     *
-    *   Klassen M, L, T
+    *   Klassen L, T
 
     *   92,50
 
@@ -4522,7 +4739,7 @@ und der Sehteststellen
         Untersuchungen können Gebühren nach den Sätzen für vergleichbare
         Prüfungen oder Untersuchungen der Gebührennummern 401 bis 460 oder,
         soweit solche nicht bewertet sind, je angefangene Viertelstunde
-        mindestens 18,50 Euro und höchstens 24,50 Euro erhoben werden. Der
+        mindestens 20,30 Euro und höchstens 27,00 Euro erhoben werden. Der
         Zeitaufwand für Prüfgehilfen wird mit 70 v. H. des vorgenannten Satzes
         berechnet.
 
@@ -4531,22 +4748,22 @@ und der Sehteststellen
 
    Die Behörden im Landesbereich erheben auch die Gebühren für den Bund,
     soweit diese im Zusammenhang mit den jeweiligen Amtshandlungen stehen.
-[^F1.774775_01_BJNR009800011BJNE001009308]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
-    EG-FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
+[^F1.774775_01_BJNR009800011BJNE001111116]:     Werden für die Begutachtung nach § 21 StVZO (Spalten 1 bis 3), § 13
+    EG- FGV oder für die Änderungsabnahme nach § 19 Absatz 3 StVZO (Spalte
     4) die erforderlichen Unterlagen und Nachweise vom Antragsteller nicht
     vorgelegt, kann der zusätzliche Zeitaufwand für die Datenbeschaffung
     oder für (weitere) erforderliche Prüfungen entsprechend der
     Gebührennummer 499 berechnet werden.
-[^F1.774775_02_BJNR009800011BJNE001009308]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
+[^F796317_01_BJNR009800011BJNE001111116]:     Wird das Gutachten nach § 23 StVZO gleichzeitig mit einem Gutachten
     nach § 21 StVZO erstellt, darf für das Gutachten nach § 23 StVZO nur
     die Hälfte der Gebühr zusätzlich zur Gebühr für das Gutachten nach §
     21 StVZO erhoben werden.
-[^F1.774775_03_BJNR009800011BJNE001009308]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
+[^F796317_02_BJNR009800011BJNE001111116]:     Wird eine Hauptuntersuchung und eine Sicherheitsprüfung nach Nummer
     2\.3 der Anlage VIIIa StVZO durchgeführt, ist die Gebühr für diese
     Untersuchung aus der Gebühr für Hauptuntersuchungen (Spalte 5)
-    zuzüglich dem 0,6-Fachen der Gebühr für Sicherheitsprüfungen (Spalte
+    zuzüglich dem 0,6- Fachen der Gebühr für Sicherheitsprüfungen (Spalte
     6) zu bilden.
-[^F1.774775_04_BJNR009800011BJNE001009308]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
+[^F796317_03_BJNR009800011BJNE001111116]:     Bei Hauptuntersuchungen an land- und forstwirtschaftlichen
     Zugmaschinen ist nicht die zulässige Gesamtmasse, sondern die Masse
     der von den gebremsten Achsen auf den Boden übertragenen zulässigen
     Last oder die durch die Bauart bestimmte Höchstgeschwindigkeit
@@ -4554,27 +4771,26 @@ und der Sehteststellen
     Höchstgeschwindigkeit von land- und forstwirtschaftlichen Zugmaschinen
     nicht mehr als 40 km/h, gilt für die Hauptuntersuchung die
     Gebührennummer 413.4.1.
-[^F1.774775_05_BJNR009800011BJNE001009308]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
+[^F796317_04_BJNR009800011BJNE001111116]:     Bei Hauptuntersuchungen und Sicherheitsprüfungen an Sattelanhängern
     und Starrdeichselanhängern ist nicht die zulässige Gesamtmasse,
     sondern die Masse der von den Achsen auf den Boden übertragenen
     zulässigen Last maßgeblich.
-[^F1.774775_06_BJNR009800011BJNE001009308]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
+[^F796317_05_BJNR009800011BJNE001111116]:     Die Gebührennummern 413.3 und 413.4 erhöhen sich für Kraftfahrzeuge,
     die mit Fremd- oder Kompressionszündungsmotor angetrieben werden bei
     einer Hauptuntersuchung nach § 29 StVZO oder eine Begutachtung nach §
     21 StVZO um einen der Gebührennummer 413.5 entsprechenden Betrag, wenn
     kein Nachweis über eine durchgeführte Untersuchung nach Nummer 3.1.1.1
     der Anlage VIII StVZO durch eine entsprechend anerkannte
-    Kraftfahrzeugwerkstatt vorliegt. (Bei den in § 47a Absatz 1 StVZO und
-    Nummer 1.2.1.2 der Anlage VIII StVZO genannten Kraftfahrzeugen
-    entfällt eine Überprüfung der Abgase nach Nummer 4.8.2 der Anlage
-    VIIIa StVZO).
-[^F1.774775_07_BJNR009800011BJNE001009308]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
+    Kraftfahrzeugwerkstatt vorliegt. (Bei den in Nummer 1.2.1.2 der Anlage
+    VIII StVZO genannten Kraftfahrzeugen entfällt eine Überprüfung der
+    Abgase nach Nummer 6.8.2 der Anlage VIIIa StVZO).
+[^F796317_06_BJNR009800011BJNE001111116]:     Zusätzlich zu den Gebühren für Hauptuntersuchungen (Spalte 5) –
     Gebührennummern 413.1 bis 413.4.6 – wird für die Bereitstellung von
     Vorgaben nach Nummer 1 der Anlage VIIIa StVZO eine zusätzliche Gebühr
     von 1,00 Euro je Hauptuntersuchung erhoben.
-[^F1.774775_08_BJNR009800011BJNE001009308]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
+[^F796317_07_BJNR009800011BJNE001111116]:     Wird eine Hauptuntersuchung nach Nummer 2.2 der Anlage VIIIa StVZO
     nach Überschreitung des Vorführtermins um mehr als zwei Monate an
     einem Fahrzeug durchgeführt, ist die Gebühr für diese Untersuchung aus
     der Gebühr für die Hauptuntersuchung (Spalte 5) zuzüglich dem
     0,2-Fachen dieser Gebühr zu bilden.
-[^F1.774775_09_BJNR009800011BJNE001009308]: 
+[^F796317_08_BJNR009800011BJNE001111116]: 

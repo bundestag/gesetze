@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Durchführung einer Statistik über die Schlachttier- und
+Title: Verordnung über die Durchführung einer Statistik über die Schlachttier-  und
   Fleischuntersuchung
 jurabk: FlUStatV
 layout: default
@@ -8,7 +8,7 @@ slug: flustatv
 
 ---
 
-# Verordnung über die Durchführung einer Statistik über die Schlachttier- und Fleischuntersuchung (FlUStatV)
+# Verordnung über die Durchführung einer Statistik über die Schlachttier-  und Fleischuntersuchung (FlUStatV)
 
 Ausfertigungsdatum
 :   2006-09-28
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2187
 
-Geändert durch
-:   Art. 1 V v. 22.2.2011 I 316
+Neugefasst durch
+:   Bek. v. 18.7.2016 I 1848
 
 
 
@@ -31,10 +31,10 @@ Ernährung, Landwirtschaft und Verbraucherschutz:
 
 ## § 1 Erhebungsmerkmale, Berichtszeitraum, Periodizität
 
-Die nach § 66 Abs. 1 des Lebensmittel- und Futtermittelgesetzbuches zu
-führende Statistik erfasst
+Die nach § 66 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches
+zu führende Statistik erfasst
 
-1.  die Ergebnisse der amtlichen Überwachung nach Artikel 5 Nr. 1
+1.  die Ergebnisse der amtlichen Überwachung nach Artikel 5 Nummer 1
     Buchstabe a, b und d bis f der Verordnung (EG) Nr. 854/2004 des
     Europäischen Parlaments und des Rates vom 29. April 2004 mit
     besonderen Verfahrensvorschriften für die amtliche Überwachung von zum
@@ -43,8 +43,9 @@ führende Statistik erfasst
     Fassung,
 
 
-2.  die Entscheidungen nach Artikel 5 Nr. 3 Buchstabe b, c und e der
-    Verordnung (EG) Nr. 854/2004 in der jeweils geltenden Fassung und
+2.  die Entscheidungen nach Artikel 5 Nummer 3 Buchstabe b, c und e der
+    Verordnung (EG) Nr. 854/2004
+    in der jeweils geltenden Fassung,
 
 
 3.  die Ergebnisse der amtlichen Untersuchung auf Trichinen nach § 6
@@ -64,18 +65,7 @@ führende Statistik erfasst
     Absatz 2 in Verbindung mit § 6 Absatz 1 Satz 1 Nummer 2 der Tierische
     Lebensmittel-Überwachungsverordnung und die diesbezügliche Beurteilung
     nach § 7a Absatz 2 in Verbindung mit § 6 Absatz 1 Satz 2 der Tierische
-    Lebensmittel-Überwachungsverordnung und
-
-
-6.  die Ergebnisse der Veterinärkontrollen nach Artikel 1 der Verordnung
-    (EG) Nr. 136/2004 der Kommission vom 22. Januar 2004 mit Verfahren für
-    die Veterinärkontrollen von aus Drittländern eingeführten Erzeugnissen
-    an den Grenzkontrollstellen der Gemeinschaft (ABl. EU Nr. L 21 S. 11)
-    in der jeweils geltenden Fassung, soweit es sich um Frischfleisch,
-    Hackfleisch, Fleischzubereitungen, Fleischerzeugnisse oder
-    Separatorenfleisch handelt, die aus Betrieben stammen, die in einer
-    Liste eines nach Artikel 12 der Verordnung (EG) Nr. 854/2004
-    erlassenen Rechtsaktes der Europäischen Gemeinschaft aufgeführt sind.
+    Lebensmittel-Überwachungsverordnung.
 
 
 
@@ -120,8 +110,8 @@ auch nach Ländern gegliedert, auf und veröffentlicht sie.
 (2) Ergebnisse unterhalb der Landesebene werden vom Statistischen
 Bundesamt auf Anforderung
 
-1.  dem Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz für das Bundesgebiet und
+1.  dem Bundesministerium für Ernährung und Landwirtschaft für das
+    Bundesgebiet und
 
 
 2.  den zuständigen obersten Landesbehörden und den für die in § 1 Satz 1
@@ -130,16 +120,15 @@ Bundesamt auf Anforderung
 
 
 
-übermittelt. Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz darf die ihm nach Absatz 2 Nr. 1 übermittelten Daten
-an das Bundesinstitut für Risikobewertung zur Erstellung von
+übermittelt. Das Bundesministerium für Ernährung und Landwirtschaft
+darf die ihm nach Absatz 2 Nummer 1 übermittelten Daten an das
+Bundesinstitut für Risikobewertung zur Erstellung von
 wissenschaftlichen Ausarbeitungen, Gutachten und Stellungnahmen im
 Rahmen der Risikobewertung übermitteln.
 
 
-## § 5 Inkrafttreten
+## § 5 (Inkrafttreten)
 
-Die Verordnung tritt am 1. März 2007 in Kraft.
 
 
 ## Schlussformel

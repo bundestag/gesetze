@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Verhütung der Meeresverschmutzung vom Lande aus
 jurabk: LMeerSchÜbk
 layout: default
-origslug: lmeersch_bk
+origslug: lmeerschuebk
 slug: lmeerschuebk
 
 ---

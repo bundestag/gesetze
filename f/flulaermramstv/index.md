@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Ramstein
 jurabk: FluLärmRamstV
 layout: default
-origslug: flul_rmramstv
+origslug: flulaermramstv
 slug: flulaermramstv
 
 ---

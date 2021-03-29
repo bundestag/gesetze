@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1460
 
-Geändert durch
-:   Art. 2 Abs. 7 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 2 G v. 28.9.2017 I 3521
 
 
 ## Eingangsformel
@@ -64,8 +64,8 @@ seinen elektronischen Identitätsnachweis unter Angabe von
 Sperrkennwort, Familienname, Vornamen und Tag der Geburt in die
 allgemeine Sperrliste aufnehmen lassen kann.
 
-(6) Extensible Markup Language für hoheitliche Dokumtente (XhD) ist
-ein in erweiterbarer Seitenbeschreibungssprache (XML) verfasstes
+(6) Extensible Markup Language für hoheitliche Dokumente (XhD) ist ein
+in erweiterbarer Seitenbeschreibungssprache (XML) verfasstes
 Datenaustauschformat für hoheitliche Dokumente.
 
 (7) OSCI-Transport ist der vom Kooperationsausschuss Automatisierte
@@ -94,15 +94,16 @@ Nach dem Stand der Technik sind zu erfüllen
 
 2.  die technischen und organisatorischen Anforderungen an
 
-    a)  die Erfassung und Qualitätssicherung des Lichtbildes und der
-        Fingerabdrücke,
+    a)  die Erfassung, Echtheitsbewertung und Qualitätssicherung des
+        Lichtbildes und der Fingerabdrücke,
 
 
-    b)  die Übermittlung sämtlicher Ausweisantragsdaten von den
-        Personalausweisbehörden an den Ausweishersteller,
+    b)  die Übermittlung sämtlicher Ausweisantragsdaten und die in § 8 Absatz
+        1 Satz 2 genannten Daten von den Personalausweisbehörden an den
+        Ausweishersteller,
 
 
-    c)  den elektronischen Identitätsnachweis und
+    c)  den elektronischen Identitätsnachweis und das Vor-Ort-Auslesen und
 
 
     d)  die Geheimnummer, die Sperrung und Entsperrung des elektronischen
@@ -117,11 +118,14 @@ Nach dem Stand der Technik sind zu erfüllen
 
 Der Stand der Technik ist als niedergelegt zu vermuten in den
 Technischen Richtlinien des Bundesamtes für Sicherheit in der
-Informationstechnik. Diese sind in Anhang 4 aufgeführt und gelten in
-der jeweils im Bundesanzeiger veröffentlichten Fassung.
+Informationstechnik. Die Übersicht über die Technischen Richtlinien
+wird im Bundesanzeiger veröffentlicht; die jeweils geltende Fassung
+der Technischen Richtlinien wird im Bundesanzeiger durch Verweis auf
+die Internetseite des Bundesamtes für Sicherheit in der
+Informationstechnik bekannt gemacht.
 
 
-### § 3 Zertifizierung
+### § 3 Zertifizierung von Systemkomponenten
 
 (1) Die Systemkomponenten der Personalausweisbehörden, des
 Ausweisherstellers, der Diensteanbieter und ihrer Auftragnehmer nach §
@@ -130,9 +134,13 @@ oder optional ist, ergeben sich aus dem Anhang 5. Die Art und die
 Einzelheiten der Zertifizierung sind den Technischen Richtlinien des
 Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
 
-(2) Für die Zertifizierung gilt § 9 des BSI-Gesetzes vom 14. August
-2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungsverordnung vom 7.
-Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.
+(2) Für die Zertifizierung gelten § 9 des BSI-Gesetzes vom 14. August
+2009 (BGBl. I S. 2821), das zuletzt durch Artikel 1 des Gesetzes vom
+23\. Juni 2017 (BGBl. I S. 1885) geändert worden ist, sowie die BSI-
+Zertifizierungs- und Anerkennungsverordnung vom 17. Dezember 2014
+(BGBl. I S. 2231), die durch Artikel 40 des Gesetzes vom 29. März 2017
+(BGBl. I S. 626) geändert worden ist, in der jeweils geltenden
+Fassung.
 
 (3) Die Kosten der Zertifizierung trägt der Antragsteller. Die BSI-
 Kostenverordnung vom 3. März 2005 (BGBl. I S. 519) in der jeweils
@@ -156,22 +164,17 @@ elektronischen Identitätsnachweises:
     Personalausweisbehörde den Brief übergibt;
 
 
-4.  die Ausschaltung des elektronischen Identitätsnachweises mit Datum und
-    Uhrzeit der Ausschaltung sowie die Personalausweisbehörde, die den
-    elektronischen Identitätsnachweis ausgeschaltet hat;
-
-
-5.  die Einschaltung des elektronischen Identitätsnachweises mit Datum und
+4.  die Einschaltung des elektronischen Identitätsnachweises mit Datum und
     Uhrzeit der Einschaltung sowie die Personalausweisbehörde, die den
     elektronischen Identitätsnachweis eingeschaltet hat;
 
 
-6.  den Sperrantrag durch den Ausweisinhaber, die Übermittlung der
+5.  den Sperrantrag durch den Ausweisinhaber, die Übermittlung der
     Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit
     von Antrag und Übermittlung;
 
 
-7.  den Entsperrantrag des Ausweisinhabers, die Übermittlung der
+6.  den Entsperrantrag des Ausweisinhabers, die Übermittlung der
     Sperrsumme an den Sperrlistenbetreiber sowie das Datum und die Uhrzeit
     von Antrag und Übermittlung.
 
@@ -291,8 +294,9 @@ Postleitzahl erfasst.
 
 ### § 7 Qualitätssicherung des Lichtbildes und der Fingerabdrücke
 
-(1) Bei der Beantragung eines Personalausweises ist von der
-antragstellenden Person ein aktuelles Lichtbild ohne Rand vorzulegen,
+(1) Von der Person, für die ein Ausweis im Sinne des § 2 Absatz 1 des
+Personalausweisgesetzes auszustellen ist, ist der
+Personalausweisbehörde ein aktuelles Lichtbild ohne Rand vorzulegen,
 das 45 Millimeter hoch und 35 Millimeter breit ist. Wenn die
 Personalausweisbehörde die technischen Voraussetzungen geschaffen hat,
 kann das Lichtbild auch
@@ -331,27 +335,14 @@ Ausnahmen zulassen.
 führt sie diese zu einem digitalen Datensatz zusammen und übermittelt
 sie dem Ausweishersteller. Die Datenübermittlung umfasst auch
 
-1.  die Qualitätswerte zu den Fingerabdrücken, soweit diese abgenommen
-    wurden,
+1.  die technischen Eigenschaften der gespeicherten Daten,
 
 
-2.  die Qualitätswerte zu den Lichtbildern,
+2.  die Behördenkennzahl sowie
 
 
-3.  die Versionsnummern der Qualitätssicherungssoftware,
-
-
-4.  die Sollwerte der Qualitätssicherungssoftware,
-
-
-5.  die technischen Eigenschaften der gespeicherten biometrischen Daten
-    gemäß ISO-Standard 19794,
-
-
-6.  die Behördenkennzahl sowie
-
-
-7.  den Zeitstempel des Ausweisantrages.
+3.  anonymisierte Protokolldaten zur Erfassung und Qualitätssicherung des
+    Lichtbildes und der Fingerabdrücke.
 
 
 
@@ -363,7 +354,7 @@ dafür spätestens ab dem 1. Januar 2015 nach § 3 des Gesetzes über die
 Verbindung der informationstechnischen Netze des Bundes und der Länder
 vom 10. August 2009 (BGBl. I S. 2706) das Verbindungsnetz zu nutzen.
 Die zu übermittelnden Daten sind nach dem Stand der Technik
-fortgeschritten elektronisch zu signieren und zu verschlüsseln.
+elektronisch zu signieren und zu verschlüsseln.
 
 (2) Zum Signieren und Verschlüsseln der nach Absatz 1 zu
 übermittelnden Daten sind geeignete gültige Zertifikate aus der
@@ -444,6 +435,13 @@ Muster herzustellen. Für die einzutragenden Daten gelten die formalen
 Anforderungen des Anhangs 3 Abschnitt 1.
 
 
+### § 12a Muster für den Ersatz-Personalausweis
+
+Der Ersatz-Personalausweis ist nach dem in Anhang 2a abgedruckten
+Muster herzustellen. Für die einzutragenden Daten gelten die formalen
+Anforderungen des Anhangs 3 Abschnitt 1.
+
+
 ### § 13 Schnittstelle des elektronischen Speicher- und Verarbeitungsmediums
 
 Das elektronische Speicher- und Verarbeitungsmedium des
@@ -460,8 +458,9 @@ unbefugten Zugriff zu schützen. Es ist insbesondere sicherzustellen,
 dass
 
 1.  vor der Übermittlung personenbezogener Daten die Geheimnummer, die
-    Zugangsnummer oder die Daten der maschinenlesbaren Zone (MRZ)
-    eingegeben werden müssen,
+    Zugangsnummer oder die Daten der maschinenlesbaren Zone (MRZ) an das
+    elektronische Speicher- und Verarbeitungsmedium übermittelt werden
+    müssen,
 
 
 2.  Zugriffsrechte über Berechtigungszertifikate nachgewiesen werden
@@ -478,12 +477,16 @@ dass
 (2) Der Personalausweis ist so herzustellen, dass personenbezogene
 Daten ausschließlich ausgelesen werden können durch
 
-1.  Behörden, die zur Identitätsfeststellung berechtigt sind und ein
-    hoheitliches Berechtigungszertifikat nutzen, oder
+1.  Behörden, die ein hoheitliches Berechtigungszertifikat nutzen,
 
 
 2.  berechtigte Diensteanbieter, die ein Berechtigungszertifikat nutzen,
-    nach Eingabe der Geheimnummer durch den Ausweisinhaber.
+    nach Eingabe der Geheimnummer durch den Ausweisinhaber, oder
+
+
+3.  berechtigte Vor-Ort-Diensteanbieter, die ein Vor-Ort-Zertifikat
+    nutzen, nach Übermittlung der Zugangsnummer an das elektronische
+    Speicher- und Verarbeitungsmedium.
 
 
 
@@ -533,13 +536,15 @@ Dritte gewährleistet sein.
 
 (4) Der Ausweishersteller versendet den Brief nach Absatz 1 an die im
 Personalausweis angegebene Anschrift. Hat die antragstellende Person
-keine alleinige Wohnung in Deutschland wird der Brief vom
-Ausweishersteller nach Weisung des Auswärtigen Amtes, die mit dem
-Bundesministerium des Innern abgestimmt ist, an die ausstellende
-Personalausweisbehörde oder aber an die antragstellende Person
-persönlich versandt. Bei als unzustellbar zurückgesandten Briefen
-übergibt die Personalausweisbehörde den Brief an die antragstellende
-Person. Absatz 3 gilt entsprechend.
+keine alleinige Wohnung in Deutschland, wird der Brief vom
+Ausweishersteller an die ausstellende Behörde oder an die
+antragstellende Person persönlich an die von ihr benannte Anschrift
+versandt, sofern der Wohnort in einem Staat liegt, von dem das
+Auswärtige Amt im Benehmen mit dem Bundesministerium des Innern
+festgestellt hat, dass er eine hinreichende Gewähr für eine
+ordnungsgemäße Postzustellung bietet. Bei als unzustellbar
+zurückgesandten Briefen übergibt die Personalausweisbehörde den Brief
+an die antragstellende Person. Absatz 3 gilt entsprechend.
 
 (5) Der Ausweishersteller erstellt und versendet einen Brief nur dann,
 wenn die antragstellende Person zum Antragszeitpunkt mindestens 15
@@ -564,13 +569,12 @@ durch die Personalausweisbehörde übergeben wird.
 
 ### § 18 Aushändigung des Personalausweises
 
-(1) Erklärt die antragstellende Person, den elektronischen
-Identitätsnachweis nicht nutzen zu wollen, schaltet die
-Personalausweisbehörde den elektronischen Identitätsnachweis aus.
+(1) (weggefallen)
 
 (2) Bestätigt die antragstellende Person den Empfang des Briefes nach
-§ 17 Absatz 7 nicht, darf der Personalausweis nur mit ausgeschaltetem
-elektronischem Identitätsnachweis übergeben werden.
+§ 17 Absatz 7 nicht, darf die Personalausweisbehörde den ausgestellten
+Ausweis nur übergeben, wenn sie zuvor die Neusetzung der Geheimnummer
+nach § 20 Absatz 1 bewirkt hat.
 
 (3) Der Ausweisinhaber kann sich die auslesbaren personenbezogenen
 Daten, die auf seinem Personalausweis gespeichert sind, jederzeit bei
@@ -601,6 +605,9 @@ Speicher- und Verarbeitungsmedium gespeicherte Anschrift.
 (3) Für die Änderung der Daten nach Absatz 2 sind zertifizierte Geräte
 mit hoheitlichem Berechtigungszertifikat zu verwenden.
 
+(4) Die Personalausweisbehörde ändert die Anschrift im Ersatz-
+Personalausweis in den dafür vorgesehenen Datenfeldern.
+
 
 ### § 20 Neusetzung und Änderung der Geheimnummer
 
@@ -620,75 +627,36 @@ bisherigen Geheimnummer und zweimalige Eingabe der neuen Geheimnummer
 Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
 
 
-### § 21 Mehrfache Fehleingabe der Geheimnummer
+### § 21 (weggefallen)
 
-(1) Wurde die Geheimnummer zwei Mal falsch eingegeben, kann durch
-vorherige Eingabe der Zugangsnummer ein dritter Eingabeversuch
-freigegeben werden.
-
-(2) Wurde die Geheimnummer drei Mal falsch eingegeben, kann der
-elektronische Identitätsnachweis nur genutzt werden, wenn die
-Entsperrnummer eingegeben wird und diese nicht bereits zehn Mal
-benutzt wurde. Eine Verwendung der Entsperrnummer ist nach zehnmaliger
-Nutzung nicht mehr möglich. Sofern die Geheimnummer nach dreimaliger
-Falscheingabe gesperrt wurde, kann die Neusetzung der Geheimnummer
-ausschließlich in der Personalausweisbehörde erfolgen.
 
 
 ## Kapitel 6 - Nutzung des elektronischen Identitätsnachweises
 
 
-### § 22 Nachträgliches Aus- und Einschalten
+### § 22 Nachträgliches Einschalten
 
-(1) Bevor die ausstellende oder zuständige Personalausweisbehörde
-einen eingeschalteten elektronischen Identitätsnachweis nach § 10
-Absatz 3 Satz 2 des Personalausweisgesetzes ausschaltet, prüft sie die
-Identität des Ausweisinhabers. Die Personalausweisbehörde speichert
-die Tatsache der Ausschaltung im Personalausweisregister. Handelt die
-zuständige Personalausweisbehörde, informiert sie die ausstellende
-Personalausweisbehörde über die Ausschaltung. In diesem Fall speichert
-die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung
-im Personalausweisregister.
+(1) (weggefallen)
 
 (2) Bevor die ausstellende oder zuständige Personalausweisbehörde
 einen ausgeschalteten elektronischen Identitätsnachweis nach § 10
 Absatz 3 Satz 1 des Personalausweisgesetzes einschaltet, prüft sie die
 Identität des Ausweisinhabers. Die Personalausweisbehörde löscht die
 Tatsache der Ausschaltung im Personalausweisregister. Handelt die
-zuständige Personalausweisbehörde, findet Absatz 1 Satz 3 und 4
-entsprechende Anwendung. Die Personalausweisbehörde initiiert bei
+zuständige Personalausweisbehörde, informiert sie die ausstellende
+Personalausweisbehörde über die Einschaltung; in diesem Fall löscht
+die ausstellende Personalausweisbehörde die Tatsache der Ausschaltung
+im Personalausweisregister. Die Personalausweisbehörde initiiert bei
 jeder nachträglichen Einschaltung die Neusetzung der Geheimnummer
 durch den Ausweisinhaber und teilt ihm auf Wunsch das Sperrkennwort
 aus dem Personalausweisregister mit.
 
-(3) Für das nachträgliche Ein- und Ausschalten des elektronischen
-Identitätsnachweises nach den Absätzen 1 und 2 sind zertifizierte
-Geräte mit hoheitlichem Berechtigungszertifikat zu verwenden.
+(3) Für das nachträgliche Einschalten des elektronischen
+Identitätsnachweises nach Absatz 2 sind zertifizierte Geräte mit
+hoheitlichem Berechtigungszertifikat zu verwenden.
 
 
-### § 23 Voraussetzungen für die Nutzung bei dem Ausweisinhaber
-
-(1) Vor erstmaliger Nutzung des elektronischen Identitätsnachweises
-soll der Ausweisinhaber die Geheimnummer einmalig durch Eingabe der im
-Brief übersandten ursprünglichen Geheimnummer neu setzen.
-
-(2) Der Ausweisinhaber soll sicherstellen, dass insbesondere folgende
-Komponenten bei der Nutzung des elektronischen Identitätsnachweises
-eingesetzt werden:
-
-1.  informationstechnische Systeme mit geeigneten Abwehrmaßnahmen gegen
-    Sicherheitslücken nach dem Stand der Technik;
-
-
-2.  Lesegeräte, die durch das Bundesamt für Sicherheit in der
-    Informationstechnik zertifiziert worden sind;
-
-
-3.  Software zur Nutzung des elektronischen Identitätsnachweises, die
-    durch das Bundesamt für Sicherheit in der Informationstechnik
-    zertifiziert worden ist.
-
-
+### § 23 (weggefallen)
 
 
 
@@ -776,23 +744,31 @@ Personalausweisen zu erteilen, die von ihr ausgestellt worden sind.
 ## Kapitel 8 - Beantragung von Berechtigungen
 
 
-### § 28 Antrag
+### § 28 Antrag auf Erteilung einer Berechtigung für Vor-Ort-Diensteanbieter und sonstige Diensteanbieter
 
-(1) Um das Vorliegen der Voraussetzungen des § 21 Absatz 2 Satz 1 des
-Personalausweisgesetzes überprüfen zu können, muss ein Antrag nach §
-21 Absatz 1 Satz 1 des Personalausweisgesetzes enthalten:
+(1) Der Antrag auf Erteilung einer Berechtigung nach § 21 Absatz 2 des
+Personalausweisgesetzes oder der Antrag auf Erteilung einer Vor-Ort-
+Berechtigung nach § 21a des Personalausweisgesetzes muss folgende
+Angaben enthalten:
 
-1.  Angaben zur Identitätsfeststellung von juristischen und natürlichen
-    Personen; bei natürlichen Personen sind dies insbesondere der
-    Familienname, die Vornamen, der Tag und der Ort der Geburt sowie die
-    Anschrift der Hauptwohnung; bei juristischen Personen sind diese
-    insbesondere der Name, die Anschrift des Sitzes, die Rechtsform und
-    die Bevollmächtigten; außerdem ist in diesem Fall eine Kopie des
-    Handelsregisterauszugs oder der Errichtungsurkunde beizulegen;
+1.  Angaben, die zur Feststellung der Identität von juristischen und
+    natürlichen Personen notwendig sind,
+
+    a)  bei natürlichen Personen insbesondere der Familienname, die Vornamen,
+        der Tag und der Ort der Geburt sowie die Anschrift der Hauptwohnung,
 
 
-2.  Kontaktdaten, insbesondere die Telefon- und Faxnummer sowie die E
-    -Mail-Adresse;
+    b)  bei juristischen Personen insbesondere der Name, die Anschrift des
+        Sitzes, die Rechtsform und die Bevollmächtigten; außerdem ist in
+        diesem Fall eine Kopie des Handelsregisterauszugs oder der
+        Errichtungsurkunde beizufügen;
+
+
+
+
+
+2.  Kontaktdaten, insbesondere die telefonische oder elektronische
+    Erreichbarkeit;
 
 
 3.  Angaben zu antragstellenden Personen mit Wohnung oder Sitz außerhalb
@@ -802,115 +778,116 @@ Personalausweisgesetzes überprüfen zu können, muss ein Antrag nach §
     deren Angaben nach den Nummern 1 und 2 aufzunehmen;
 
 
-4.  eine Beschreibung des Diensteanbieters und seiner Tätigkeitsfelder
-    sowie die Angabe der Unternehmenswebsite, soweit vorhanden;
+4.  eine kurze Beschreibung des Diensteanbieters und seiner
+    Tätigkeitsfelder sowie die Angabe der Unternehmenswebsite, soweit
+    vorhanden;
 
 
-5.  eine Beschreibung des Diensteangebots für das das
-    Berechtigungszertifikat gelten soll, einschließlich einer Angabe der
-    Internetseite, auf der das Berechtigungszertifikat genutzt wird, oder
-    des Standortes bei Automaten und eines Verweises auf die für das
-    Angebot geltende Datenschutzerklärung;
+5.  eine kurze Beschreibung des dem Antrag zu Grunde liegenden Interesses
+    an einer Berechtigung; darzulegen ist, welche Funktion
+
+    a)  im Falle eines Antrages auf Erteilung einer Berechtigung nach § 21
+        Absatz 2 des Personalausweisgesetzes der elektronische
+        Identitätsnachweis oder
 
 
-6.  eine hinreichende Beschreibung des Zwecks der Datenerhebung, für den
-    die Berechtigung ausgestellt werden soll;
+    b)  im Falle eines Antrages auf Erteilung einer Vor-Ort-Berechtigung nach
+        § 21a des Personalausweisgesetzes das Vor-Ort-Auslesen
 
 
-7.  eine Angabe der Datenkategorien nach § 18 Absatz 3 des
+
+    im Rahmen der behördlichen Aufgabenwahrnehmung oder der vorgesehenen
+    Geschäftszwecke der antragstellenden Person erfüllen soll;
+
+
+6.  die Angabe der Datenkategorien nach § 18 Absatz 3 des
     Personalausweisgesetzes, auf die die antragstellende Person zugreifen
-    möchte; hierbei ist für jede Datenkategorie zu begründen, warum es für
-    den dargelegten Zweck erforderlich ist, die Daten zu erheben;
+    möchte;
 
 
-8.  Angaben zum oder zur betrieblichen oder behördlichen
-    Datenschutzbeauftragten nach § 4f des Bundesdatenschutzgesetzes (Name,
-    Anschrift, Telefonnummer, E-Mail-Adresse) und zur zuständigen
-    Datenschutzaufsichtsbehörde (Name, Sitz, Anschrift, Telefonnummer, E
-    -Mail-Adresse);
+7.  die Erklärung, dass der Diensteanbieter den betrieblichen Datenschutz
+    einhält;
 
 
-9.  die Angabe, ob die antragstellende Person sich eines Auftragnehmers
-    nach § 11 des Bundesdatenschutzgesetzes zur Durchführung des
-    elektronischen Identitätsnachweises bedienen wird und gegebenenfalls
-    die Angaben nach Nummer 1 für diesen Auftragnehmer; ist diese Angabe
-    zum Zeitpunkt des Antrages noch nicht bekannt, so ist sie sobald
-    bekannt unverzüglich nachzuliefern.
-
-
-
-
-(2) Der Antrag ist von der antragstellenden Person zu unterschreiben
-oder mit einer qualifizierten elektronischen Signatur zu versehen. Die
-antragstellende Person ist zu identifizieren durch:
-
-1.  persönliches Erscheinen und Vorlage eines amtlichen Lichtbildausweises
-    der antragstellenden Person, bei juristischen Personen einer
-    vertretungsberechtigten Person bei der Vergabestelle für
-    Berechtigungszertifikate oder geeigneten Dritten,
-
-
-2.  eine qualifizierte elektronische Signatur oder
-
-
-3.  den elektronischen Identitätsnachweis.
+8.  die Angabe, ob die antragstellende Person sich zur Durchführung des
+    elektronischen Identitätsnachweises eines Auftragnehmers nach den
+    Artikeln 28 bis 31 der Verordnung (EU) 2016/679 des Europäischen
+    Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+    Personen bei der Verarbeitung personenbezogener Daten, zum freien
+    Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+    Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+    S. 72) bedienen wird und in diesem Fall die Angaben nach Nummer 1 für
+    diesen Auftragnehmer; ist diese Angabe zum Zeitpunkt des Antrages noch
+    nicht bekannt, so ist sie, sobald bekannt, unverzüglich nachzuliefern.
 
 
 
-Die Vergabestelle für Berechtigungszertifikate bestimmt, welche der
-genannten Arten des Identitätsnachweises genutzt werden können.
+
+(2) Der Antrag bedarf der Schriftform.
 
 
-### § 29 Anforderungen an Datenschutz und -sicherheit
+### § 29 Antrag auf Erteilung einer Berechtigung für Identifizierungsdiensteanbieter; Vorgaben zu Datenschutz und Datensicherheit bei Identifizierungsdiensteanbietern
 
-(1) Anforderungen im Sinne des § 21 Absatz 2 Satz 1 Nummer 4 des
-Personalausweisgesetzes liegen insbesondere nicht vor, wenn
+(1) Für den Antrag auf Erteilung einer Berechtigung für
+Identifizierungsdiensteanbieter nach § 21b des Personalausweisgesetzes
+gilt § 28 entsprechend.
 
-1.  der Zweck der Datenerhebung ausschließlich in der Auslesung oder
-    Bereitstellung personenbezogener Daten aus dem Personalausweis für den
-    Ausweisinhaber oder Dritte besteht,
+(2) Die nach § 21b Absatz 2 Satz 1 Nummer 1 des
+Personalausweisgesetzes einzuhaltenden technisch-organisatorischen
+Maßnahmen und die weiteren Anforderungen an die Datensicherheit nach §
+21 Absatz 2 Satz 1 Nummer 2 des Personalausweisgesetzes legt das
+Bundesamt für Sicherheit in der Informationstechnik im Benehmen mit
+der oder dem Bundesbeauftragten für den Datenschutz und die
+Informationsfreiheit in einer Technischen Richtlinie fest. Dies
+umfasst insbesondere Anforderungen an die Datenspeicherung und
+-löschung, das einzusetzende Verschlüsselungsverfahren sowie an das
+Informationssicherheitsmanagement.
 
+(3) Die Einhaltung der in Absatz 2 genannten Voraussetzungen hat der
+Antragsteller durch Vorlage eines Zertifikats des Bundesamtes für
+Sicherheit in der Informationstechnik nachzuweisen. Das Bundesamt für
+Sicherheit in der Informationstechnik darf sich bei seiner Überprüfung
+externer Dienstleister bedienen. Die hierbei anfallenden Kosten trägt
+der Antragsteller.
 
-2.  der Staat des Wohnsitzes oder des Sitzes der antragstellenden Person
+(4) Die weiteren Anforderungen an den Datenschutz nach § 21b Absatz 2
+Satz 1 Nummer 2 des Personalausweisgesetzes liegen nicht vor, wenn
+
+1.  der Staat des Wohnsitzes oder des Sitzes der antragstellenden Person
     kein angemessenes Datenschutzniveau gewährleistet entsprechend der
-    Richtlinie 95/46/EG des Europäischen Parlaments und des Rates vom 24.
-    Oktober 1995 zum Schutz natürlicher Personen bei der Verarbeitung
-    personenbezogener Daten und zum freien Datenverkehr (ABl. L 281 vom
-    23\.11.1995, S. 31),
+    Verordnung (EU) 2016/679,
 
 
-3.  der elektronische Identitätsnachweis für den Diensteanbieter durch
-    einen Auftragnehmer nach § 11 des Bundesdatenschutzgesetzes
-    durchgeführt wird und hierbei kein wirksames Auftragsverhältnis nach §
-    11 des Bundesdatenschutzgesetzes zwischen dem Diensteanbieter und dem
+2.  der elektronische Identitätsnachweis für den
+    Identifizierungsdiensteanbieter durch einen Auftragnehmer nach den
+    Artikeln 28 bis 31 der Verordnung (EU) 2016/679 durchgeführt wird und
+    hierbei kein wirksames Auftragsverhältnis nach den Artikeln 28 bis 31
+    der Verordnung (EU) 2016/679 zwischen dem Diensteanbieter und dem
     Auftragnehmer besteht,
 
 
-4.  der Diensteanbieter einen Auftragnehmer nach § 11 des
-    Bundesdatenschutzgesetzes gewählt hat, der die technischen und
-    organisatorischen Anforderungen des Bundesamtes für Sicherheit in der
-    Informationstechnik für die sichere Bereitstellung des elektronischen
-    Identitätsnachweises nicht erfüllt.
+3.  der Identifizierungsdiensteanbieter einen Auftragnehmer nach den
+    Artikeln 28 bis 31 der Verordnung (EU) 2016/679 gewählt hat, der die
+    technischen und organisatorischen Anforderungen des Bundesamtes für
+    Sicherheit in der Informationstechnik für die sichere Bereitstellung
+    des elektronischen Identitätsnachweises nicht erfüllt,
+
+
+4.  der Identifizierungsdiensteanbieter nicht die Voraussetzungen des § 21
+    Absatz 2 des Personalausweisgesetzes erfüllt.
 
 
 
 
-(2) Die Anforderungen an die Datensicherheit im Sinne des § 21 Absatz
-2 Satz 1 Nummer 4 des Personalausweisgesetzes sind durch die
-Diensteanbieter nach dem Stand der Technik zu erfüllen. Art und Umfang
-der einzusetzenden Systemkomponenten legt die Vergabestelle für
-Berechtigungszertifikate in der Berechtigung fest. Die Vergabestelle
-für Berechtigungszertifikate legt in Richtlinien die weiteren
-technischen und organisatorischen Anforderungen fest, die ein
-Diensteanbieter zu erfüllen hat, um für die Nutzung von
-Berechtigungszertifikaten zugelassen zu werden. Die Richtlinien gelten
-in der jeweils im Bundesanzeiger veröffentlichten Fassung.
 
-(3) Vor Erteilung einer Berechtigung für einen nicht-öffentlichen
-Diensteanbieter kann die Vergabestelle für Berechtigungszertifikate
-eine Stellungnahme der zuständigen Datenschutzaufsichtsbehörde
-einholen, ob dort Umstände bekannt sind, aus denen sich Anhaltspunkte
-für eine missbräuchliche Verwendung der Berechtigung ergeben.
+### § 29a Einholung von Stellungnahmen der Datenschutzaufsichtsbehörden
+
+Die Vergabestelle für Berechtigungszertifikate kann jederzeit eine
+Stellungnahme der zuständigen Datenschutzaufsichtsbehörde einholen, ob
+dort Umstände bekannt sind, aus denen sich Anhaltspunkte für eine
+missbräuchliche Verwendung der Berechtigung ergeben. Vor Erteilung der
+Berechtigung soll die Vergabestelle die Stellungnahme der
+Datenschutzaufsichtsbehörde nur in Zweifelsfällen abwarten.
 
 
 ### § 30 Öffentliche Liste der Berechtigungen
@@ -926,24 +903,13 @@ Identitätsnachweises verwendet werden.
 ## Kapitel 9 - Ausgabe von Berechtigungszertifikaten
 
 
-### § 31 Anzeige der Ausgabe von Berechtigungszertifikaten
+### § 31 Angaben vor der Ausgabe von Berechtigungszertifikaten
 
 Berechtigungszertifikateanbieter dürfen Berechtigungszertifikate für
 den elektronischen Identitätsnachweis bereitstellen, wenn sie vor
-Aufnahme dieser Tätigkeit
-
-1.  der zuständigen Behörde nach § 3 des Signaturgesetzes die Aufnahme des
-    Betriebs eines Zertifizierungsdienstes nach § 4 Absatz 3 des
-    Signaturgesetzes angezeigt haben oder nach § 15 des Signaturgesetzes
-    akkreditiert worden sind,
-
-
-2.  der Vergabestelle für Berechtigungszertifikate die Anzeige nach Nummer
-    1 vorgelegt und ihr gegenüber die in § 28 Absatz 1 Nummer 1 bis 3, 8
-    und 9 sowie Absatz 2 aufgeführten Angaben gemacht haben.
-
-
-
+Aufnahme dieser Tätigkeit gegenüber der Vergabestelle für
+Berechtigungszertifikate die in § 28 Absatz 1 Nummer 1 bis 3, 8 und 9
+sowie Absatz 2 aufgeführten Angaben gemacht haben.
 
 
 ### § 32 Beachtung der Anforderungen des Inhabers der Wurzelzertifikate
@@ -954,8 +920,9 @@ Identitätsnachweis. Die Zertifikatsrichtlinien des Bundesamtes für
 Sicherheit in der Informationstechnik für die technischen und
 organisatorischen Voraussetzungen für die Ausstellung von
 Berechtigungszertifikaten sind vom Berechtigungszertifikateanbieter
-einzuhalten. Die Richtlinien gelten in der jeweils im Bundesanzeiger
-veröffentlichten Fassung.
+einzuhalten. Die jeweils geltende Fassung wird im Bundesanzeiger durch
+Verweis auf die Internetseite des Bundesamtes für Sicherheit in der
+Informationstechnik bekannt gemacht.
 
 
 ### § 33 Beachtung der Berechtigung durch den Berechtigungszertifikateanbieter
@@ -1005,8 +972,11 @@ erstellen.
 ### § 36 Ausgabe von hoheitlichen Berechtigungszertifikaten
 
 (1) Hoheitliche Berechtigungszertifikate nach § 2 Absatz 4 Satz 3 des
-Personalausweisgesetzes dürfen ausschließlich an die zur
-Identitätsfeststellung berechtigten Behörden ausgegeben werden.
+Personalausweisgesetzes dürfen vorbehaltlich von Satz 2 ausschließlich
+an die zur Identitätsfeststellung berechtigten Behörden ausgegeben
+werden. Zum Zwecke der Qualitätssicherung anhand von Testausweisen
+dürfen hoheitliche Berechtigungszertifikate auch an das Bundesamt für
+Sicherheit in der Informationstechnik ausgegeben werden.
 
 (2) Das Bundesministerium des Innern bestimmt, welche Stellen
 hoheitliche Berechtigungszertifikate an welche zur
@@ -1020,6 +990,21 @@ Informationstechnik festgelegt.
 (4) Zur Ausgabe berechtigte Stellen dokumentieren Empfänger, zugrunde
 liegende Berechtigung sowie das Datum und die Uhrzeit der Ausgabe von
 Berechtigungszertifikaten.
+
+
+### § 36a Ausgabe von Berechtigungszertifikaten für öffentliche Stellen anderer Mitgliedstaaten
+
+Der Bund stellt Berechtigungszertifikate für öffentliche Stellen
+anderer Mitgliedstaaten zur Verfügung. Die Kommunikation und die
+Identifizierung der öffentlichen Stellen erfolgt über die
+einheitlichen Ansprechpartner nach dem Durchführungsbeschluss (EU)
+2015/296 der Kommission vom 24. Februar 2015 zur Festlegung von
+Verfahrensmodalitäten für die Zusammenarbeit zwischen den
+Mitgliedstaaten auf dem Gebiet der elektronischen Identifizierung
+gemäß Artikel 12 Absatz 7 der Verordnung (EU) Nr. 910/2014 des
+Europäischen Parlaments und des Rates über elektronische
+Identifizierung und Vertrauensdienste für elektronische Transaktionen
+im Binnenmarkt (ABl. L 53 vom 25.2.2015, S. 14).
 
 
 ## Kapitel 10 - Schlussvorschriften
@@ -1050,7 +1035,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang 1 Muster des Personalausweises
 
-(Fundstelle: BGBl. I 2010, 1469)
+(Fundstelle: BGBl. I 2010, 1469;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Vorderseite
 
@@ -1058,26 +1044,142 @@ Vorderseite
 Rückseite
 
 ![bgbl1_2010_j1460-1_0020.jpg](bgbl1_2010_j1460-1_0020.jpg)
-Muster des Aufklebers zur Anschriftenänderung
+Muster des Aufklebers zur Anschriftenänderung des Personalausweises in
+der Ausgabeform ab 1. November 2010
 
-![bgbl1_2010_j1460-1_0030.jpg](bgbl1_2010_j1460-1_0030.jpg)
+![bgbl1_2013_j0330-1_0070.jpg](bgbl1_2013_j0330-1_0070.jpg)
+Muster des Aufklebers zur Anschriftenänderung des Personalausweises in
+der Ausgabeform bis 31. Oktober 2010
+
+![bgbl1_2013_j0330-1_0080.jpg](bgbl1_2013_j0330-1_0080.jpg)
 
 ### Anhang 2 Muster des vorläufigen Personalausweises
 
-(Fundstelle: BGBl. I 2010, 1470)
+(Fundstelle: BGBl. I 2013, 342)
+
+Muster des vorläufigen Personalausweises
 
 Vorderseite
 
-![bgbl1_2010_j1460-1_0040.jpg](bgbl1_2010_j1460-1_0040.jpg)
+![bgbl1_2013_j0330-1_0090.jpg](bgbl1_2013_j0330-1_0090.jpg)
 Rückseite
 
-![bgbl1_2010_j1460-1_0050.jpg](bgbl1_2010_j1460-1_0050.jpg)
+![bgbl1_2013_j0330-1_0100.jpg](bgbl1_2013_j0330-1_0100.jpg)
 
-### Anhang 3 Formale Anforderungen an die Einträge im Personalausweis
+### Anhang 2a Muster des Ersatz-Personalausweises
 
-(Fundstelle: BGBl. I 2010, 1471 - 1474)
+(Fundstelle: BGBl. I 2015, 1102)
+
+Vorderseite
+
+![bgbl1_2015_j1101-1_0010.jpg](bgbl1_2015_j1101-1_0010.jpg)
+Rückseite
+
+![bgbl1_2015_j1101-1_0020.jpg](bgbl1_2015_j1101-1_0020.jpg)
+
+### Anhang 3
+
+(Fundstelle: BGBl. I 2010, 1471 - 1474;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Abschnitt 1
+
+**Formale Anforderungen an die Einträge in Ausweisen im Sinne des § 2
+Absatz 1 des Personalausweisgesetzes**
+
+Vorbemerkung:
+
+1.  Die in der nachstehenden Tabelle beschriebenen Anforderungen an die
+    Einträge gelten sowohl für den Personalausweis als auch für den
+    vorläufigen Personalausweis und den Ersatz-Personalausweis.
+
+
+2.  Die Personalausweisbehörden verwenden zur Personalisierung der
+    vorläufigen Personalausweise und der Aufkleber zur Anschriftenänderung
+    sowie zur Personalisierung der Ersatz-Personalausweise und zur
+    Änderung von Daten der Ersatz-Personalausweise den Schriftfont
+    „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte
+    hat die nach der ISO 1831:1980-10 geforderten Eigenschaften
+    hinsichtlich maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist
+    ausschließlich solches Schreibmaterial zu verwenden, das nach DIN ISO
+    12757-1:1999-02 urkunden- und kopierecht ist.
+
+
+3.  Als Zeichensatz ist der in der jeweils gültigen Fassung der
+    Technischen Richtlinie des Bundesamtes für Sicherheit in der
+    Informationstechnik, BSI: Technische Richtlinie TR-03123, XML-
+    Datenaustauschformat für hoheitliche Dokumente (TR XhD),
+    veröffentlichte Zeichensatz „String.Latin“ zu verwenden.
+
+
+4.  Der maschinenlesbare Bereich in den Ausweisen ist im Schriftfont OCR-B
+    zu beschriften.
+
+
+5.  In den Datenfeldern „Name“ (Familienname und Geburtsname) sowie
+    „Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit
+    dies technisch entsprechend der nachstehenden Tabelle umsetzbar ist.
+
+
+6.  Grundsätzlich sind alle Einträge in den Ausweisen in der Schriftgröße
+    1 gemäß der nachstehenden Tabelle vorzunehmen.
+
+    Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der
+    Schriftgröße 1 überschritten, sind sämtliche Zeichen des
+    entsprechenden Datenfeldes in Schriftgröße 2 einzutragen.
+
+    Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der
+    nachstehenden Tabelle maximal zur Verfügung stehende Zeichenzahl nicht
+    ausreichen, sind die Einträge des Datenfeldes (zum Beispiel Vornamen)
+    – unter Ausnutzung der maximal zur Verfügung stehenden Zeichenzahl –
+    entsprechend gekürzt vorzunehmen.
+
+    Bei dem vorläufigen Personalausweis und bei dem Ersatz-Personalausweis
+    ist im Datenfeld „Name“ der Eintrag gemäß den Vorgaben der
+    nachstehenden Tabelle in der Schriftgröße 1 und 2 im Fettdruck
+    zulässig. Einträge in den sonstigen Datenfeldern sind nur in der
+    Schriftgröße 1 zulässig. Sollte unter Ausnutzung dieser Schriftgrößen
+    die zur Verfügung stehende Zeichenzahl nicht ausreichen, sind die
+    Einträge des Datenfeldes (zum Beispiel Vornamen) entsprechend gekürzt
+    vorzunehmen.
+
+    Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind
+    unzulässig.
+
+    Bei der Personalisierung des Aufklebers zur Änderung der Anschrift auf
+    dem Personalausweis ist die Seriennummer in der Schriftgröße 3
+    einzutragen. Die Eintragungen zur Postleitzahl, zum Wohnort sowie zur
+    Straße und Hausnummer sind in der Schriftgröße 3 im Fettsatz
+    vorzunehmen.
+
+
+7.  Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist, ist
+    der Geburtsname in einer eigenen Zeile einzutragen. Dem Geburtsnamen
+    ist die Zeichenfolge „GEB.“ bzw. „geb.“ unter Hinzufügung eines
+    Leerzeichens voranzustellen.
+
+
+8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser oder
+    werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die
+    Eintragung des Doktorgrades bzw. der Doktorgrade benötigten
+    Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für
+    den Namenseintrag.
+
+
+9.  Die alphanummerische Seriennummer des Personalausweises wird
+    ausschließlich aus den Buchstaben C, F, G, H, J, K, L, M, N, P, R, T,
+    V, W, X, Y, Z und den Ziffern 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 gebildet.
+    Beim vorläufigen Personalausweis und beim Ersatz-Personalausweis
+    besteht die Seriennummer aus einem Buchstaben und sieben Ziffern.
+
+
+10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x
+    45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen
+    Personalausweis verkleinert mit den Abmessungen 29 x 37 mm
+    darzustellen.
+
+
+
 
 
 *    *   Datenfelder
@@ -1085,15 +1187,18 @@ Abschnitt 1
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *[^F774673_01_BJNR146000010BJNE004400000]
-   Schriftgröße 1 (2 mm)
+*    *[^F1_790187_BJNR146000010BJNE004402116]
+   Schriftgröße
+        1
+        Schriftfont des Ausweisherstellers: (2 mm)
+        UnicodeDoc: 2,4 mm
 
-    *   Schriftgröße 2 (1,3 mm)
+    *   Schriftgröße 2
+        Schriftfont des Ausweisherstellers: (1,3 mm)
+        UnicodeDoc: 2 mm
 
 
-*    *   Familienname und
-[^F774673_02_BJNR146000010BJNE004400000]
-        Geburtsname
+*    *   Name (Familienname und Geburtsname)
 
     *   26 Zeichen pro Zeile;
         2 Zeilen (insgesamt 52 Zeichen)
@@ -1116,8 +1221,7 @@ Abschnitt 1
     *   10 Zeichen pro Zeile;
         1 Zeile (insgesamt 10 Zeichen)
 
-    *[^F774673_03_BJNR146000010BJNE004400000]
-   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
 *    *   Ort der Geburt
@@ -1134,24 +1238,23 @@ Abschnitt 1
     *   7 Zeichen pro Zeile;
         1 Zeile (insgesamt 7 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
-*    *   Letzter Tag der
-        Gültigkeitsdauer
+*    *   Gültig bis (letzter Tag der Gültigkeitsdauer)
 
     *   10 Zeichen pro Zeile;
         1 Zeile (insgesamt 10 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
-*    *   Anschrift
+*    *   Wohnort
 
     *   25 Zeichen pro Zeile;
         2 Zeilen (insgesamt 50 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
 *    *   Straße und Hausnummer
@@ -1159,7 +1262,7 @@ Abschnitt 1
     *   25 Zeichen pro Zeile;
         2 Zeilen (insgesamt 50 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
 *    *   Größe
@@ -1167,20 +1270,7 @@ Abschnitt 1
     *   3 Zeichen pro Zeile;
         1 Zeile (insgesamt 3 Zeichen)
 
-    *   –
-
-
-
-
-*    *   Datenfelder
-
-    *   Anzahl der zur Verfügung stehenden Zeichen
-
-
-*    *[^F774673_04_BJNR146000010BJNE004400000]
-   Schriftgröße 1 (2 mm)
-
-    *   Schriftgröße 2 (1,3 mm)
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
 *    *   Farbe der Augen
@@ -1188,7 +1278,7 @@ Abschnitt 1
     *   19 Zeichen pro Zeile;
         1 Zeile (insgesamt 19 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
 
 
 *    *   Ordens- und Künstlername
@@ -1200,7 +1290,7 @@ Abschnitt 1
         2 Zeilen (insgesamt 60 Zeichen)
 
 
-*    *   Ausstellende Behörde
+*    *   ausstellende Behörde
 
     *   19 Zeichen pro Zeile;
         2 Zeilen (insgesamt 38 Zeichen)
@@ -1214,7 +1304,8 @@ Abschnitt 1
     *   8 Zeichen pro Zeile;
         1 Zeile (insgesamt 8 Zeichen)
 
-    *   –
+    *   Einträge in Schriftgröße 2 sind unzulässig
+
 
 
 
@@ -1226,8 +1317,8 @@ Abschnitt 1
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *[^F774673_05_BJNR146000010BJNE004400000]
-   Schriftgröße 3 (1,5 mm)
+*    *   Schriftgröße 3
+        UnicodeDoc: 1,5 mm
 
 
 *    *   Anschrift
@@ -1238,6 +1329,7 @@ Abschnitt 1
 *    *   Seriennummer
 
     *   9 Zeichen pro Zeile; 1 Zeile (insgesamt 9 Zeichen)
+
 
 
 
@@ -1391,121 +1483,10 @@ Abschnitt 2
 
 
 
-    Soweit nicht die maximale Anzahl der zur Verfügung stehenden Zeichen
-    ausgenutzt wird, werden die Daten in der Schriftgröße 1 und in einer
-    Zeile eingetragen. Die Datenfelder „Familienname und Geburtsname“,
-    „Wohnort“, „Straße“, „Ordens- und Künstlername“ und „ausstellende
-    Behörde“ können auch in der Schriftgröße 1 zweizeilig dargestellt
-    werden. Falls erforderlich, können die Daten in den Feldern
-    „Familienname und Geburtsname“, „Vornamen“, „Ort der Geburt“ und
-    „ausstellende Behörde“ auch in der Schriftgröße 2 mit jeweils einer
-    zusätzlichen Zeile eingetragen werden.
-[^F774673_01_BJNR146000010BJNE004400000]:     Wenn der Familienname vom Geburtsnamen abweicht, kommt diesem
-    mindestens eine vollständige Zeile zu. Am Beginn dieser Zeile werden
-    fünf Zeichen durch die Zeichenfolge „GEB.“ belegt.
-[^F774673_02_BJNR146000010BJNE004400000]:     Für bestimmte Datenfelder ist die Schriftgröße 2 nicht vorgesehen.
-[^F774673_03_BJNR146000010BJNE004400000]:     Soweit nicht die maximale Anzahl der zur Verfügung stehenden Zeichen
-    ausgenutzt wird, werden die Daten in der Schriftgröße 1 und in einer
-    Zeile eingetragen. Die Datenfelder „Familienname und Geburtsname“,
-    „Wohnort“, „Straße“, „Ordens- und Künstlername“ und „ausstellende
-    Behörde“ können auch in der Schriftgröße 1 zweizeilig dargestellt
-    werden. Falls erforderlich, können die Daten in den Feldern
-    „Familienname und Geburtsname“, „Vorname“, „Ort der Geburt“ und
-    „ausstellende Behörde“ auch in der Schriftgröße 2 mit jeweils einer
-    zusätzlichen Zeile dargestellt werden.
-[^F774673_04_BJNR146000010BJNE004400000]:     Für die Tintenstrahldrucker in den Personalausweisbehörden sind
-    folgende Einstellungen erforderlich: Für die Anschrift ist die
-    Schriftart Arial Fett im Schriftgrad 6 Punkt zu verwenden und für die
-    Seriennummer die Schriftart Arial im Schriftgrad 6 Punkt.
-[^F774673_05_BJNR146000010BJNE004400000]: 
+    Die Schriftgröße ist am Großbuchstaben E auszurichten.
+[^F1_790187_BJNR146000010BJNE004402116]: 
 
-### Anhang 4 Übersicht über die Technischen Richtlinien des Bundesamtes für Sicherheit in der Informationstechnik
-
-(Fundstelle: BGBl. I 2010, 1475)
-
-
-1.  BSI: Technische Richtlinie TR-02102, Kryptographische Verfahren:
-    Empfehlungen und Schlüssellängen
-
-
-2.  BSI: Technische Richtlinie TR-03104, Technische Richtlinie zur
-    Produktionsdatenerfassung, -qualitätsprüfung und -übermittlung für
-    hoheitliche Dokumente (TR PDÜ hD)
-
-
-3.  BSI: Technische Richtlinie TR-03110, Advanced Security Mechanisms for
-    Machine Readable Travel Documents – Extended Access Control (EAC),
-    Password Authenticated Connection Establishment (PACE) and Restricted
-    Identification (RI) [Fortgeschrittene Sicherheitsmechanismen für
-    maschinenlesbare Reisedokumente]
-
-
-4.  BSI: Technische Richtlinie TR-03111, Elliptic Curve Cryptography (ECC)
-    [Elliptische-Kurven-Kryptographie]
-
-
-5.  BSI: Technische Richtlinie TR-03112, eCard-API-Framework
-
-
-6.  BSI: Technische Richtlinie TR-03116-2, eCard-Projekte der
-    Bundesregierung – Hoheitliche Ausweisdokumente
-
-
-7.  BSI: Technische Richtlinie TR-03117, eCards mit kontaktloser
-    Schnittstelle als sichere Signaturerstellungseinheit
-
-
-8.  BSI: Technische Richtlinie TR-03119, Anforderungen an Kartenleser mit
-    Unterstützung des Personalausweises
-
-
-9.  BSI: Technische Richtlinie TR-03121, Biometrics for Public Sector
-    Applications [Technische Richtlinie für Biometrie in hoheitlichen
-    Anwendungen]
-
-
-10. BSI: Technische Richtlinie TR-03123, XML-Datenaustauschformat für
-    hoheitliche Dokumente (TR XhD)
-
-
-11. BSI: Technische Richtlinie TR-03127, Architektur Elektronischer
-    Personalausweis
-
-
-12. BSI: Technische Richtlinie TR-03128, Public Key Infrastrukturen für
-    den elektronischen Personalausweis
-
-
-13. BSI: Technische Richtlinie TR-03129, Communication Protocols for
-    Extended Access Control [Kommunikationsprotokolle für die erweiterte
-    Zugriffskontrolle]
-
-
-14. BSI: Technische Richtlinie TR-03130, eID-Server
-
-
-15. BSI: Technische Richtlinie TR-03131, EAC-Box Architecture and
-    Interfaces [EAC-Box Architektur und Schnittstellen]
-
-
-16. BSI: Technische Richtlinie TR-03132, Sichere Szenarien für
-    Kommunikationsprozesse im Bereich hoheitlicher Dokumente (TR SiSKo hD)
-
-
-17. BSI: Common Criteria Protection Profile Electronic Identity Card, BSI-
-    CC-PP-0061 [Gemeinsame Kriterien – Schutzprofil Elektronische
-    Identitätskarte]
-
-
-18. BSI: Common Criteria Protection Profile for Inspection Systems (IS),
-    BSI-CC-PP-0064 [Gemeinsame Kriterien – Schutzprofil für
-    Inspektionssysteme]
-
-
-
-
-
-### Anhang 5 Übersicht über die zu zertifizierenden Systemkomponenten
+### Anhang 4 Übersicht über die zu zertifizierenden Systemkomponenten
 
 (Fundstelle: BGBl. I 2010, 1476)
 
@@ -1527,7 +1508,7 @@ Abschnitt 2
 
 *    *   2
 
-    *   Fingerabdruckleser
+    *   Hardware zur Erfassung und Echtheitsbewertung von Fingerabdrücken
 
     *   Verpflichtung für die Anbieter dieser Geräte
         Verpflichtung für den Ausweishersteller
@@ -1536,8 +1517,8 @@ Abschnitt 2
 
 *    *   3
 
-    *   Software zur Erfassung und Qualitätssicherung des Lichtbildes und der
-        Fingerabdrücke
+    *   Software zur Erfassung, Echtheitsbewertung und Qualitätssicherung des
+        Lichtbildes und der Fingerabdrücke
 
     *   Verpflichtung für den Ausweishersteller
         Verpflichtung für die Personalausweisbehörden
@@ -1592,13 +1573,12 @@ Abschnitt 2
     *   Kartenlesegeräte für die Nutzung im Rahmen des § 18 des
         Personalausweisgesetzes
 
-    *   Optionale Durchführung durch den Anbieter dieser Geräte. Empfehlung
-        des Einsatzes zertifizierter Geräte an den Ausweisinhaber
+    *   Optionale Durchführung durch den Anbieter dieser Geräte.
 
 
 *    *   10
 
-    *   Bürgerclient
+    *   eID-Client
 
     *   Optionale Durchführung durch den Anbieter dieser Software. Empfehlung
         des Einsatzes zertifizierter Software an den Ausweisinhaber
@@ -1607,8 +1587,8 @@ Abschnitt 2
 *    *   11
 
     *   Hard- und Software zur Durchführung des elektronischen
-        Identitätsnachweises bei den Diensteanbietern oder ihrer Auftragnehmer
-        (eID-Server)
+        Identitätsnachweises oder des Vor-Ort-Auslesens bei den
+        Diensteanbietern oder ihrer Auftragnehmer (eID-Server)
 
     *   Verpflichtung für den Diensteanbieter oder dessen Auftragnehmer
 

@@ -2,7 +2,7 @@
 Title: Verordnung zur Kriegsopferfürsorge
 jurabk: KFürsV
 layout: default
-origslug: kf_rsv
+origslug: kfuersv
 slug: kfuersv
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1979, 80
 
 Zuletzt geändert durch
-:   Art. 2 G v. 20.6.2011 I 1114
+:   Art. 2 G v. 17.7.2017 I 2541
 
 
 
@@ -95,8 +95,10 @@ ausgeschlossen.
 durchgeführt, ist die Leistung für den jeweiligen Abschnitt
 festzustellen.
 
+Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur
+Förderung der Arbeitsaufnahme,
 
-### § 2 Leistungen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur Förderung der Arbeitsaufnahme, Leistungen an Arbeitgeber
+### § 2 Leistungen an Arbeitgeber
 
 (1) Hilfen zur Erhaltung oder Erlangung eines Arbeitsplatzes und zur
 Förderung der Arbeitsaufnahme sind insbesondere
@@ -111,9 +113,9 @@ Förderung der Arbeitsaufnahme sind insbesondere
 
 
 3.  Übernahme der Kosten für technische Arbeitshilfen, die in das Eigentum
-    der Beschädigten übergehen, soweit sie nicht nach § 81 Abs. 4 Satz 1
-    Nr. 5 des Neunten Buches Sozialgesetzbuch vom Arbeitgeber zu stellen
-    sind,
+    der Beschädigten übergehen, soweit sie nicht nach § 164 Absatz 4 Satz
+    1 Nummer 5 des Neunten Buches Sozialgesetzbuch vom Arbeitgeber zu
+    stellen sind,
 
 
 4.  Übernahme der Umzugskosten.
@@ -133,8 +135,8 @@ soll sechs Monate nicht überschreiten.
 (3) Leistungen an Arbeitgeber sind insbesondere
 
 1.  Ausbildungszuschüsse zur betrieblichen Ausführung von
-    Bildungsleistungen unter Beachtung des § 34 Abs. 2 des Neunten Buches
-    Sozialgesetzbuch,
+    Bildungsleistungen unter Beachtung des § 50 Absatz 3 des Neunten
+    Buches Sozialgesetzbuch,
 
 
 2.  Eingliederungszuschüsse, wenn der Arbeitgeber den Beschädigten die zum
@@ -143,13 +145,13 @@ soll sechs Monate nicht überschreiten.
     Beschädigten einen ihrem Leistungsvermögen angemessenen
     Dauerarbeitsplatz bietet. Der Eingliederungszuschuss soll in der Regel
     60 vom Hundert des Arbeitsentgeltes nicht übersteigen und wird in der
-    Regel nicht länger als zwei Jahre gezahlt. Im Übrigen gilt § 34 Abs. 3
-    Satz 4 bis 6 des Neunten Buches Sozialgesetzbuch entsprechend,
+    Regel nicht länger als zwei Jahre gezahlt. Im Übrigen gilt § 50 Absatz
+    4 Satz 5 bis 8 des Neunten Buches Sozialgesetzbuch entsprechend,
 
 
 3.  Zuschüsse für beschädigungsgerechte Arbeitshilfen im Betrieb, soweit
-    nicht der Arbeitgeber hierzu nach § 81 Abs. 4 Satz 1 Nr. 4 des Neunten
-    Buches Sozialgesetzbuch verpflichtet ist,
+    nicht der Arbeitgeber hierzu nach § 164 Absatz 4 Satz 1 Nummer 4 des
+    Neunten Buches Sozialgesetzbuch verpflichtet ist,
 
 
 4.  teilweise oder volle Kostenerstattung für eine befristete
@@ -398,7 +400,7 @@ entstehen.
 
 ### § 15 Pauschalierte Abgeltung von Kosten
 
-Die Kosten im Sinne des § 33 Abs. 7 des Neunten Buches
+Die Kosten im Sinne des § 49 Absatz 7 des Neunten Buches
 Sozialgesetzbuch können durch Pauschbeträge abgegolten werden.
 
 
@@ -659,12 +661,19 @@ Erholungsbedürftigkeit und anerkannten Schädigungsfolgen gesondert
 
 (2) Die Befugnis zur Mitnahme einer Begleitperson ist gesondert
 ärztlich zu begründen, es sei denn, die Berechtigung zur Mitnahme
-einer Begleitperson gemäß § 146 Abs. 2 des Neunten Buches
-Sozialgesetzbuch ist nachgewiesen durch einen entsprechenden Bescheid
-der nach § 69 Abs. 4 des Neunten Buches Sozialgesetzbuch zuständigen
-Behörde oder durch einen Ausweis nach § 69 Abs. 5 des Neunten Buches
-Sozialgesetzbuch mit einem Vermerk nach § 3 Abs. 2 Satz 1 Nr. 1 der
-Schwerbehindertenausweisverordnung.
+einer Begleitperson nach § 229 Absatz 2 des Neunten Buches
+Sozialgesetzbuch ist nachgewiesen durch
+
+1.  einen entsprechenden Bescheid der nach § 152 Absatz 4 des Neunten
+    Buches Sozialgesetzbuch zuständigen Behörde oder
+
+
+2.  einen Ausweis nach § 152 Absatz 5 des Neunten Buches Sozialgesetzbuch
+    mit einem Vermerk nach § 3 Absatz 2 der
+    Schwerbehindertenausweisverordnung.
+
+
+
 
 
 ### § 26 Erholungsbedingte Aufwendungen
@@ -1412,13 +1421,31 @@ zuzuerkennen.
 #### § 49 Überwiegender Unterhalt
 
 (1) Ehegatten oder Lebenspartner werden von Leistungsberechtigten
-überwiegend unterhalten im Sinne des § 25e Abs. 1 Nr. 3 und des § 25f
-Abs. 2 des Bundesversorgungsgesetzes, wenn die Leistungsberechtigten
-zu deren Lebensunterhalt mehr als die Hälfte beitragen. Entsprechendes
-gilt für weitere Personen, wenn sie von Leistungsberechtigten allein
-oder zusammen mit Ehegatten oder Lebenspartnern oder von den Eltern
-minderjähriger unverheirateter Beschädigter (§ 25e Abs. 2 und § 25f
-Abs. 4 des Bundesversorgungsgesetzes) unterhalten werden.
+überwiegend unterhalten im Sinne des § 25e Abs. 1 Nr. 3 des
+Bundesversorgungsgesetzes, wenn die Leistungsberechtigten zu deren
+Lebensunterhalt mehr als die Hälfte beitragen. Entsprechendes gilt für
+weitere Personen, wenn sie überwiegend unterhalten werden:
+
+1.  von Leistungsberechtigten allein oder zusammen mit den Ehegatten oder
+    Lebenspartnern (§ 25e Absatz 1 Nummer 3 des
+    Bundesversorgungsgesetzes),
+
+
+2.  von den Eltern oder den minderjährigen unverheirateten Beschädigten (§
+    25e Absatz 2 Satz 2 des Bundesversorgungsgesetzes),
+
+
+3.  vom Leistungsberechtigten, seinem Ehegatten oder Lebenspartner oder
+    dem Partner einer eheähnlichen oder lebenspartnerschaftsähnlichen
+    Gemeinschaft (§ 25f Absatz 2 zweiter Halbsatz des
+    Bundesversorgungsgesetzes) oder
+
+
+4.  von den Eltern oder einem Elternteil minderjähriger unverheirateter
+    Beschädigter (§ 25f Absatz 4 Nummer 4 des Bundesversorgungsgesetzes).
+
+
+
 
 (2) Personen, deren Einkommen einen Betrag in Höhe des
 Familienzuschlags nach § 25e Abs. 1 Nr. 3 des
@@ -1484,8 +1511,8 @@ Beschädigten oder Hinterbliebenen entsprechend.
 des Bundesversorgungsgesetzes jeweils auf volle Euro zu runden.
 Entsprechendes gilt für die Feststellung des Höchstbetrags der
 Einkommensgrenze nach § 25e Abs. 1 des Bundesversorgungsgesetzes und
-der kleineren Barbeträge und sonstigen Geldwerte nach § 25f Abs. 2 des
-Bundesversorgungsgesetzes.
+der kleineren Barbeträge und sonstigen Geldwerte nach § 25f Abs. 2 und
+Absatz 4 des Bundesversorgungsgesetzes.
 
 (2) Die Freibeträge nach den Vorschriften des Unterabschnitts 1 sowie
 nach § 24 sind auf volle Euro zu runden. Das gilt beim Zusammentreffen
@@ -1613,12 +1640,12 @@ des 60. Lebensjahrs.
 
 ### § 59 Übergangsregelung
 
-(1)
+(1) (gegenstandslos)
 
 (2) Neue Ansprüche auf laufende Leistungen, die sich auf Grund dieser
 Verordnung ergeben, werden nur auf Antrag festgestellt.
 
-(3)
+(3) (gegenstandslos)
 
 
 ### § 60 (weggefallen)

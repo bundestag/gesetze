@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1745
 
+V aufgeh. durch
+:   Art. 4 Abs. 67 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 5.10.2009 I 3542
+:   Art. 2 Abs. 89 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 70 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -28,12 +34,11 @@ I S. 759) wird verordnet:
 ## § 1 Anwendungsbereich
 
 (1) Die Physikalisch-Technische Bundesanstalt (Bundesanstalt) erhebt
-für ihre Nutzleistungen Kosten (Gebühren und Auslagen) nach dieser
-Verordnung.
+für ihre Nutzleistungen Gebühren und Auslagen nach dieser Verordnung.
 
 (2) Nutzleistungen im Sinne dieser Verordnung sind Kalibrierungen,
 Messungen, Prüfungen, Konformitätsbewertungen, Begutachtungen und
-Beratungen, zu deren Inanspruchnahme der Kostenschuldner gesetzlich
+Beratungen, zu deren Inanspruchnahme der Gebührenschuldner gesetzlich
 nicht verpflichtet ist.
 
 
@@ -786,14 +791,14 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Berechnungsformel für die Durchschnittsgebühr: K = (910\*n
-        i                        + 195\*n
-        q                       ) Euro
+        i + 195\*n
+        q) Euro
         wobei die Symbole Folgendes bedeuten:
         K = Gesamtkosten
         n
-        i                        = Anzahl der Detektoren
+        i = Anzahl der Detektoren
         n
-        q                        = Anzahl der Strahlungsqualitäten
+        q = Anzahl der Strahlungsqualitäten
 
     *
 
@@ -821,14 +826,14 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Berechnungsformel für die Durchschnittsgebühr: K = (1 430\*n
-        i                        + 130\*n
-        q                       ) Euro
+        i + 130\*n
+        q) Euro
         wobei die Symbole Folgendes bedeuten:
         K = Gesamtkosten
         n
-        i                        = Anzahl der Detektoren
+        i = Anzahl der Detektoren
         n
-        q                        = Anzahl der Strahlungsqualitäten
+        q = Anzahl der Strahlungsqualitäten
 
     *
 
@@ -850,7 +855,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Grundgebühr für Bestrahlung E*                        2 MeV,
+    *   Grundgebühr für Bestrahlung E* 2 MeV,
         eine Photonenenergie
 
     *   910
@@ -858,7 +863,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Grundgebühr für Bestrahlung E*                        2 MeV,
+    *   Grundgebühr für Bestrahlung E* 2 MeV,
         weitere Photonenenergie
 
     *   520
@@ -866,7 +871,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Bestrahlung einer Dosimetersonde (E*                        2 MeV)
+    *   Bestrahlung einer Dosimetersonde (E* 2 MeV)
 
     *   65
 
@@ -874,7 +879,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Bestrahlung einer Dosimetersonde
-        (Photonenenergie*                        2MeV)
+        (Photonenenergie* 2MeV)
 
     *   260
 
@@ -885,13 +890,13 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
         D1 + D2 + 325\*n2) Euro
         wobei die Symbole folgendes bedeuten:
         K = Gesamtkosten
-        n1 = Anzahl der Bestrahlungen (E*                        2 MeV)
+        n1 = Anzahl der Bestrahlungen (E* 2 MeV)
         n2 = Anzahl der Bestrahlungen
-        (Photonenenergie*                        2 MeV)
+        (Photonenenergie* 2 MeV)
         D1 = Grundgebühr für Bestrahlung einer
-        Photonenenergie (E*                        2 MeV)
+        Photonenenergie (E* 2 MeV)
         D2 = Grundgebühr für Bestrahlung weitere
-        Photonenenergie (E*                        2 MeV)
+        Photonenenergie (E* 2 MeV)
 
     *
 
@@ -911,21 +916,21 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Kalibrierung pro Strahlungsqualität (E*                        2 MeV)
+    *   Kalibrierung pro Strahlungsqualität (E* 2 MeV)
 
     *   195
 
 
 *    *
     *
-    *   Kalibrierung bei einer Energie E*                        2 MeV
+    *   Kalibrierung bei einer Energie E* 2 MeV
 
     *   910
 
 
 *    *
     *
-    *   Kalibrierung bei weiterer Energie E*                        2 MeV
+    *   Kalibrierung bei weiterer Energie E* 2 MeV
 
     *   520
 
@@ -934,16 +939,15 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *
     *   Berechnungsformel für die Durchschnittsgebühr
         K = (1 430 + 195n
-        q                        + B1 + B2) Euro
+        q + B1 + B2) Euro
         wobei die Symbole Folgendes bedeuten:
         K = Gesamtkosten
         n
-        q                        = Anzahl der Strahlungsqualitäten (E*
-        2 MeV)
+        q = Anzahl der Strahlungsqualitäten (E* 2 MeV)
         B1 = Kosten für Kalibrierung bei einer Energie
-        E*                        2 MeV
+        E* 2 MeV
         B2 = Kosten für Kalibrierung bei weiterer Energie
-        E*                        2 MeV
+        E* 2 MeV
 
     *
 
@@ -1010,26 +1014,25 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *
     *   Berechnungsformel für die Durchschnittsgebühr
         K = (390 + G
-        Pm                        + G
-        Kr                        + G
-        Sr                        + 1 463\*n
-        Pm                        +
+        Pm + G
+        Kr + G
+        Sr + 1 463\*n
+        Pm +
         1 463\*n
-        Kr                        + 6 793\*n
-        Sr                       ) Euro
+        Kr + 6 793\*n
+        Sr) Euro
         wobei die Symbole Folgendes bedeuten:
         K = Gesamtkosten
         G
-        Pm                        = Pm-147-Quelle für BSS2: Grundgebühr pro
-        Kalibrierauftrag
+        Pm = Pm-147-Quelle für BSS2: Grundgebühr pro Kalibrierauftrag
         GKr = Kr-85-Quelle für BSS2: Grundgebühr pro Kalibrierauftrag
         GSr = Sr-90/Y-90-Quelle für BSS2: Grundgebühr pro Kalibrierauftrag
         n
-        Pm                        = Anzahl der Pm-147-Quellen für BSS2
+        Pm = Anzahl der Pm-147-Quellen für BSS2
         n
-        Kr                        = Anzahl der Kr-85-Quellen für BSS2
+        Kr = Anzahl der Kr-85-Quellen für BSS2
         n
-        Sr                        = Anzahl der Sr-90/Y-90-Quellen für BSS2
+        Sr = Anzahl der Sr-90/Y-90-Quellen für BSS2
 
     *
 
@@ -1157,10 +1160,10 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *   Kalibrierung des Mittenmaßes (interferometrisch)
         Messunsicherheit für
         I
-        c                       :
-        U                        = Q[20; 0,18] in nm,
-        L                        in mm (für
-        k                        = 2)
+        c:
+        U = Q[20; 0,18] in nm,
+        L in mm (für
+        k = 2)
 
     *
 
@@ -1182,12 +1185,12 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *
     *   Kalibrierung des thermischen Ausdehnungs-
         koeffizienten (Unterschiedsmessung) für Längen von 60 mm bis 100 mm:
-        U                        = 1,6 x 10
-        -7                       K
-        -1                        bis 1,1 x 10
-        -7                       K
-        -1                        , (für
-        k                        = 2) Gebühr pro Endmaß
+        U = 1,6 x 10
+        -7K
+        -1 bis 1,1 x 10
+        -7K
+        -1 , (für
+        k = 2) Gebühr pro Endmaß
 
     *   115
 
@@ -1199,10 +1202,10 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
         1994/EAL-G21, 1996, bzw. EA-10/02
         Messunsicherheit für die Differenz der Mittenmaße und der Abweichungen
         ƒ
-        o                        und ƒ
-        u                        vom Mittenmaß:
-        U                        = 10 nm, (für
-        k                        = 2)
+        o und ƒ
+        u vom Mittenmaß:
+        U = 10 nm, (für
+        k = 2)
         Gebühr pro Satz
 
     *   1 350
@@ -1223,10 +1226,10 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
         messung)
         Messunsicherheit für
         I
-        c                       :
-        U                        = Q[30; 0,12] in nm,
-        L                        in mm (für
-        k                        = 2)
+        c:
+        U = Q[30; 0,12] in nm,
+        L in mm (für
+        k = 2)
         Gebühr pro Endmaß
 
     *   480
@@ -1238,10 +1241,10 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
         (Unterschiedsmessung)
         Messunsicherheit für
         I
-        c                       :
-        U                        = Q[30; 0,2] in nm,
-        L                        in mm (für
-        k                        = 2)
+        c:
+        U = Q[30; 0,2] in nm,
+        L in mm (für
+        k = 2)
         Gebühr pro Endmaß
 
     *   360
@@ -1251,12 +1254,12 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *
     *   Kalibrierung des thermischen Ausdehnungskoeffizienten
         (Unterschiedsmessung)
-        U                        = 12 x 10
-        -8                       K
-        -1                        bis 3,6 x 10
-        -8                       K
-        -1                        (für
-        k                        = 2)
+        U = 12 x 10
+        -8K
+        -1 bis 3,6 x 10
+        -8K
+        -1 (für
+        k = 2)
         Gebühr pro Endmaß
 
     *   750
@@ -1267,10 +1270,10 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *   Interferometrische Kalibrierung
         Messunsicherheit für
         I
-        c                         :
-        U                        = Q[22; 0,066] in nm,
-        L                        in mm (für
-        k                        = 2)
+        c:
+        U = Q[22; 0,066] in nm,
+        L in mm (für
+        k = 2)
         Gebühr pro Endmaß
 
     *   660
@@ -1280,12 +1283,12 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *
     *   Interferometrische Kalibrierung mit thermischem Ausdehnungskoeffizient
         Messunsicherheit:
-        U                        = 25 x 10
-        -9                       K
-        -1                        bis 6 x 10
-        -9                       K
-        -1                        (für
-        k                        = 2)
+        U = 25 x 10
+        -9K
+        -1 bis 6 x 10
+        -9K
+        -1 (für
+        k = 2)
         Gebühr pro Endmaß
 
     *   1 230
@@ -1521,56 +1524,56 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Kraftrichtung Druck*                        200 N
+    *   Kraftrichtung Druck* 200 N
 
     *   806
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        20 kN
+    *   Kraftrichtung Druck* 20 kN
 
     *   865
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        100 kN
+    *   Kraftrichtung Druck* 100 kN
 
     *   921
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        1 MN
+    *   Kraftrichtung Druck* 1 MN
 
     *   1 427
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        2 MN
+    *   Kraftrichtung Druck* 2 MN
 
     *   1 458
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        5 MN
+    *   Kraftrichtung Druck* 5 MN
 
     *   1 488
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        10 MN
+    *   Kraftrichtung Druck* 10 MN
 
     *   1 607
 
 
 *    *
     *
-    *   Kraftrichtung Druck*                        16,5 MN
+    *   Kraftrichtung Druck* 16,5 MN
 
     *   1 905
 
@@ -1584,56 +1587,56 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Kraftrichtung Zug*                        200 N
+    *   Kraftrichtung Zug* 200 N
 
     *   806
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        20 kN
+    *   Kraftrichtung Zug* 20 kN
 
     *   936
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        100 kN
+    *   Kraftrichtung Zug* 100 kN
 
     *   999
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        1 MN
+    *   Kraftrichtung Zug* 1 MN
 
     *   1 485
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        2 MN
+    *   Kraftrichtung Zug* 2 MN
 
     *   1 588
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        5 MN
+    *   Kraftrichtung Zug* 5 MN
 
     *   1 666
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        10 MN
+    *   Kraftrichtung Zug* 10 MN
 
     *   2 053
 
 
 *    *
     *
-    *   Kraftrichtung Zug*                        16,5 MN
+    *   Kraftrichtung Zug* 16,5 MN
 
     *   2 441
 
@@ -1647,61 +1650,61 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        200 N
+    *   Kraftrichtung Zug und Druck* 200 N
 
     *   1 424
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        20 kN
+    *   Kraftrichtung Zug und Druck* 20 kN
 
     *   1 612
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        100 kN
+    *   Kraftrichtung Zug und Druck* 100 kN
 
     *   1 724
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        1 MN
+    *   Kraftrichtung Zug und Druck* 1 MN
 
     *   2 543
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        2 MN
+    *   Kraftrichtung Zug und Druck* 2 MN
 
     *   2 870
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        5 MN
+    *   Kraftrichtung Zug und Druck* 5 MN
 
     *   3 007
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        10 MN
+    *   Kraftrichtung Zug und Druck* 10 MN
 
     *   3 514
 
 
 *    *
     *
-    *   Kraftrichtung Zug und Druck*                        16,5 MN
+    *   Kraftrichtung Zug und Druck* 16,5 MN
 
     *   4 199
 
 
-*    *   **7**                         Metrologie
+*    *   **7**Metrologie
         **in der Chemie**
 
     *   **Metrologie in der Chemie**
@@ -1735,8 +1738,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 *    *
     *
-    *   Normalproben der Viskosität 1. Ordnung (100 ml) bei 20*
-        C
+    *   Normalproben der Viskosität 1. Ordnung (100 ml) bei 20*C
 
     *
 
@@ -1969,15 +1971,15 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung eines Edelmetall-Thermoelementes des Typs S, R, Pt/Pd,
-        Au/Pt (0*                       C bis 1 100*                       C)
+        Au/Pt (0*C bis 1 100*C)
 
     *   1 875
 
 
 *    *
     *
-    *   Kalibrierung eines Edelmetall-Thermoelementes des Typs B (600*
-        C bis 1 600*                       C)
+    *   Kalibrierung eines Edelmetall-Thermoelementes des Typs B (600*C bis 1
+        600*C)
 
     *   2 313
 
@@ -1985,8 +1987,8 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichs-
-        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*
-        C bis 600*                       C einschließlich Stabilitätsprüfung
+        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*C
+        bis 600*C einschließlich Stabilitätsprüfung
 
     *   500
 
@@ -1994,8 +1996,8 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichs-
-        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*
-        C bis 600*                       C ohne Stabilitätsprüfung,
+        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*C
+        bis 600*C ohne Stabilitätsprüfung,
 
     *   375
 
@@ -2003,8 +2005,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichs-verfahren in gerührten
-        Flüssigkeitsbädern im Temperaturbereich –70*                       C
-        bis 200*                       C,
+        Flüssigkeitsbädern im Temperaturbereich –70*C bis 200*C,
         1 Prüfpunkt, 1. Thermometer
 
     *   125
@@ -2013,8 +2014,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichsverfahren in gerührten
-        Flüssigkeitsbädern im Temperaturbereich*                        200*
-        C bis 600*                       C,
+        Flüssigkeitsbädern im Temperaturbereich* 200*C bis 600*C,
         1 Prüfpunkt, 1. Thermometer
 
     *   156
@@ -2023,8 +2023,8 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichs-
-        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*
-        C bis 200*                       C,
+        verfahren in gerührten Flüssigkeitsbädern im Temperaturbereich –70*C
+        bis 200*C,
         1 Prüfpunkt, zusätzliches Thermometer
 
     *   31
@@ -2033,8 +2033,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 *    *
     *
     *   Kalibrierung von Thermometern im Vergleichsverfahren in gerührten
-        Flüssigkeitsbädern im Temperaturbereich*                        200*
-        C bis 600*                       C,
+        Flüssigkeitsbädern im Temperaturbereich* 200*C bis 600*C,
         1 Prüfpunkt, zusätzliches Thermometer
 
     *   63
@@ -2182,7 +2181,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *   438
 
 
-*    *   **13**                         Physikalische Sicherheits-
+*    *   **13**Physikalische Sicherheits-
         technik, Explo-
         **sionsschutz**
 
@@ -2258,7 +2257,7 @@ Für folgende Nutzleistungen der Physikalisch-Technischen Bundesanstalt
     *   1 829
 
 
-*    *   **13**                         Physikalische Sicherheits-
+*    *   **13**Physikalische Sicherheits-
         technik, Explo-
         **sionsschutz**
 

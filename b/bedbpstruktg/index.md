@@ -14,10 +14,10 @@ Ausfertigungsdatum
 :   1993-12-27
 
 Fundstelle
-:   BGBl I: 1993, 2378 (2426)
+:   BGBl I: 1993, 2378, 2426
 
 Zuletzt geändert durch
-:   Art. 3 G v. 21.11.2012 I 2299
+:   Art. 1 G v. 27.6.2017 I 1944
 
 
 ## § 1 Geltungsbereich
@@ -67,7 +67,7 @@ Sozialangelegenheiten des Direktoriums der Deutschen Bundespost oder
 dessen nachgeordneten Bereich angehört hat.
 
 
-## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des Bundeseisenbahnvermögens
+## § 3 Vorzeitige Versetzung in den Ruhestand Beamtinnen und Beamte des  Bundeseisenbahnvermögens
 
 (1) Beamtinnen und Beamte des Bundeseisenbahnvermögens, die von
 Umstrukturierungsmaßnahmen bei der Deutsche Bahn Aktiengesellschaft
@@ -97,7 +97,7 @@ Ruhestand versetzt werden, wenn
 ## § 4 Beamtinnen und Beamte bei den Postnachfolgeunternehmen
 
 (1) Beamtinnen und Beamte nach § 1 Nr. 2 können bis zum 31. Dezember
-2016 auf Antrag in den Ruhestand versetzt werden, wenn
+2020 auf Antrag in den Ruhestand versetzt werden, wenn
 
 1.  sie das 55. Lebensjahr vollendet haben,
 
@@ -106,11 +106,33 @@ Ruhestand versetzt werden, wenn
     beschäftigenden Aktiengesellschaft und in einem Unternehmen im Sinne
     des § 4 Abs. 4 Satz 2 des Postpersonalrechtsgesetzes nicht möglich ist
     und der Aktiengesellschaft auch keine Verwendungsmöglichkeit in
-    Verwaltungen bekannt ist und
+    Verwaltungen bekannt ist,
 
 
-3.  betriebliche oder betriebswirtschaftliche Belange nicht
-    entgegenstehen.
+3.  betriebliche oder betriebswirtschaftliche Belange nicht entgegenstehen
+    und
+
+
+4.  eine der folgenden Voraussetzungen vorliegt:
+
+    a)  die Beamtinnen oder Beamten nach der Versetzung in den Ruhestand eine
+        Tätigkeit im Bundesfreiwilligendienst nach dem
+        Bundesfreiwilligendienstgesetz ableisten wollen,
+
+
+    b)  die Beamtinnen oder Beamten eine nach Art und Umfang vergleichbare
+        ehrenamtliche Tätigkeit von mindestens 1 000 Einsatzstunden bei einer
+        Körperschaft, die ausschließlich und unmittelbar gemeinnützige,
+        mildtätige oder kirchliche Zwecke im Sinne des Dritten Abschnitts des
+        Zweiten Teils der Abgabenordnung verfolgt, ausüben wollen oder
+
+
+    c)  die Beamtinnen oder Beamten die Voraussetzungen für eine
+        familienbedingte Beurlaubung nach § 92 Absatz 1 Satz 1 Nummer 1 des
+        Bundesbeamtengesetzes erfüllen.
+
+
+
 
 
 
@@ -124,7 +146,13 @@ geltenden Versorgungsabschlags für die gesamte Dauer des
 Versorgungsbezugs. Der Ausgleichsbetrag ist Bestandteil des
 Ruhegehalts nach dem Beamtenversorgungsgesetz. Die Aktiengesellschaft,
 bei der die Beamtin oder der Beamte beschäftigt ist, zahlt an den Bund
-den jeweiligen Ausgleichsbetrag bis zur Höhe von 10,8 Prozent.
+den jeweiligen Ausgleichsbetrag bis zur Höhe von 10,8 Prozent. Der
+Ausgleichsbetrag entfällt mit Wirkung für die Zukunft, wenn die
+Beamtin oder der Beamte nicht innerhalb eines Zeitraums von drei
+Jahren nach der Versetzung in den Ruhestand nachweist, dass mindestens
+zwölf Monate im Bundesfreiwilligendienst oder 1 000 Einsatzstunden in
+einer vergleichbaren ehrenamtlichen Tätigkeit oder
+Familienpflegetätigkeiten geleistet worden sind.
 
 (3) Die nach Absatz 1 in den Ruhestand versetzten Beamtinnen und
 Beamten, die Erwerbs- oder Erwerbsersatzeinkommen beziehen, sind als
@@ -144,29 +172,27 @@ vorzeitige Wegfall der Unternehmensbeiträge nach § 16 Abs. 1 des
 Postpersonalrechtsgesetzes und in der Höhe abweichende
 Versorgungsbezüge einzubeziehen. Die Höhe der Zahlungsverpflichtung
 der Aktiengesellschaft ergibt sich im Einzelfall aus dem aus Nummer 1
-der Anlage zu diesem Gesetz ermittelten Jahresbetrag und dem in Nummer
-2 dieser Anlage festgelegten Zahlungszeitraum. Die anzuwendenden
-Zahlungszeiträume richten sich nach dem zum Zeitpunkt der
-Zurruhesetzung erreichten Lebensalter, der erreichten Besoldungsgruppe
-sowie der erreichten ruhegehaltfähigen Dienstzeit. Die
-Aktiengesellschaft, bei der die Beamtin oder der Beamte zuletzt
-beschäftigt war, hat diese Verpflichtung durch Zahlung an die
-Postbeamtenversorgungskasse zu erfüllen. Der erste Jahresbetrag nach
-Nummer 1 der Anlage zu diesem Gesetz ist am drittletzten
-Bankarbeitstag vor Eintritt des Ruhestandes der Beamtin oder des
-Beamten zu leisten, die weiteren Jahresbeträge jeweils im Abstand von
-einem Jahr, bis der jeweils vorgesehene Zahlungszeitraum im jeweiligen
-Einzelfall erreicht wurde. Änderungen der versorgungsrechtlichen
-Grundlagen oder tatsächlichen Verhältnisse nach dem Zeitpunkt der
-Zurruhesetzung haben keinen Einfluss auf Höhe und Dauer der
-Zahlungsverpflichtung der Aktiengesellschaft im Einzelfall. Für das
-Jahr 2006 kann die Zahlung zunächst als Abschlagszahlung erfolgen. Die
-endgültige Zahlung erfolgt unverzüglich. Das Bundesministerium der
-Finanzen kann die Ausgleichszahlungen nach Grund und Höhe prüfen. Es
-ist befugt, die Prüfung Dritten zu übertragen. Darüber hinaus trägt
-die Aktiengesellschaft die anfallenden Beihilfeleistungen der
-jeweiligen Beamtin bzw. des jeweiligen Beamten über den in Nummer 2
-dieser Anlage festgelegten Zahlungszeitraum.
+der Anlage ermittelten Jahresbetrag und dem in Nummer 2 der Anlage
+festgelegten Zahlungszeitraum. Die anzuwendenden Zahlungszeiträume
+richten sich nach dem zum Zeitpunkt der Zurruhesetzung erreichten
+Lebensalter, der erreichten Besoldungsgruppe sowie der erreichten
+ruhegehaltfähigen Dienstzeit. Die Aktiengesellschaft, bei der die
+Beamtin oder der Beamte zuletzt beschäftigt war, hat diese
+Verpflichtung durch Zahlung an die Postbeamtenversorgungskasse zu
+erfüllen. Der erste Jahresbetrag nach Nummer 1 der Anlage ist am
+drittletzten Bankarbeitstag vor Eintritt des Ruhestandes der Beamtin
+oder des Beamten zu leisten, die weiteren Jahresbeträge jeweils im
+Abstand von einem Jahr, bis der jeweils vorgesehene Zahlungszeitraum
+im jeweiligen Einzelfall erreicht wurde. Änderungen der
+versorgungsrechtlichen Grundlagen oder tatsächlichen Verhältnisse nach
+dem Zeitpunkt der Zurruhesetzung haben keinen Einfluss auf Höhe und
+Dauer der Zahlungsverpflichtung der Aktiengesellschaft im Einzelfall.
+Das Bundesministerium der Finanzen kann die Ausgleichszahlungen nach
+Grund und Höhe prüfen. Es ist befugt, die Prüfung Dritten zu
+übertragen. Darüber hinaus trägt die Aktiengesellschaft die
+anfallenden Beihilfeleistungen der jeweiligen Beamtin bzw. des
+jeweiligen Beamten über den in Nummer 2 der Anlage festgelegten
+Zahlungszeitraum.
 
 
 ## § 5 Beamtinnen und Beamte der Bundesanstalt für Post und Telekommunikation Deutsche Bundespost
@@ -176,8 +202,7 @@ Ruhestand versetzt werden, wenn ihre Verwendung in der Verwaltung
 nicht möglich oder nach allgemeinen beamtenrechtlichen Grundsätzen
 nicht zumutbar ist.
 
-(2) § 4 Abs. 1 Satz 1 Nr. 1 und Satz 2 sowie Abs. 2 und 3 gilt
-entsprechend.
+(2) § 4 Abs. 1 Nummer 1 und 4 sowie Abs. 2 und 3 gilt entsprechend.
 
 (3) Für Beamtinnen und Beamte nach § 1 Nr. 3 tragen die
 Aktiengesellschaften die sich aus dem vorzeitigen Beginn des
@@ -188,348 +213,348 @@ des Beamtenversorgungsgesetzes aus.
 
 ## Anlage (zu § 4 Abs. 4)
 
-(Fundstelle des Originaltextes: BGBl. I 2006, 2591)
+(Fundstelle: BGBl. I 2017, 1945 – 1946)
 
-
-1.  Der Jahresbetrag der Zahlungsverpflichtung nach § 4 Abs. 4 ist die
+1.  Der Jahresbetrag der Zahlungsverpflichtung nach § 4 Absatz 4 ist die
     Summe aus den jährlichen
 
     a)  Versorgungsbezügen einschließlich 80 Prozent des Kinderzuschlags und
 
 
-    b)  Unternehmensbeiträgen nach § 16 Abs. 1 des Postpersonalrechtsgesetzes,
-        jeweils bezogen auf den Einzelfall der Zurruhesetzung nach diesem
-        Gesetz.
+    b)  den Unternehmensbeiträgen nach § 16 Absatz 1 des
+        Postpersonalrechtsgesetzes,
 
 
 
+    jeweils bezogen auf den Einzelfall der Zurruhesetzung nach diesem
+    Gesetz.
 
 
-2.  Zahlungszeiträume nach § 4 Abs. 4 in Jahren
+2.  Zahlungszeiträume nach § 4 Absatz 4 in Jahren:
 
+    *        *   Besoldungsgruppen A 2 bis A 6
 
 
+    *        *
+        *   Ruhegehaltfähige Dienstzeit
 
-*    *   BesGr <= A 06
 
-    *   Ruhegehaltfähige Dienstzeit – DZ (in Jahren)
+    *        *   Alter
 
+        *   bis 22 Jahre
 
-*    *   Alter
+        *   über 22 Jahre
 
-    *   DZ <= 22
+        *   über 32 Jahre
 
-    *   23 <= DZ <= 32
 
-    *   DZ >= 33
+    *        *   55 Jahre
 
+        *   6,13
 
-*    *   55
+        *   6,08
 
-    *   6,06
+        *   7,39
 
-    *   5,45
 
-    *   6,69
+    *        *   56 Jahre
 
+        *   5,62
 
-*    *   56
+        *   5,59
 
-    *   5,57
+        *   6,88
 
-    *   4,97
 
-    *   6,19
+    *        *   57 Jahre
 
+        *   5,31
 
-*    *   57
+        *   5,13
 
-    *   5,09
+        *   6,18
 
-    *   4,50
 
-    *   5,45
+    *        *   58 Jahre
 
+        *   4,34
 
-*    *   58
+        *   4,61
 
-    *   4,50
+        *   5,43
 
-    *   4,03
 
-    *   4,97
+    *        *   59 Jahre
 
+        *   4,14
 
-*    *   59
+        *   4,11
 
-    *   3,92
+        *   4,69
 
-    *   3,58
 
-    *   4,15
+    *        *   60 Jahre
 
+        *   3,56
 
-*    *   60
+        *   3,51
 
-    *   3,24
+        *   3,93
 
-    *   3,02
 
-    *   3,47
+    *        *   61 Jahre
 
+        *   2,93
 
-*    *   61
+        *   2,85
 
-    *   2,58
+        *   3,17
 
-    *   2,47
 
-    *   2,69
+    *        *   62 Jahre
 
+        *   2,17
 
-*    *   62
+        *   2,11
 
-    *   2,04
+        *   2,39
 
-    *   1,94
 
-    *   2,15
+    *        *   63 Jahre
 
+        *   1,36
 
-*    *   63
+        *   1,33
 
-    *   1,31
+        *   1,60
 
-    *   1,31
 
-    *   1,52
+    *        *   ab 64 Jahre
 
+        *   0,99
 
-*    *   64
+        *   0,96
 
-    *   1,10
+        *   0,98
 
-    *   1,10
 
-    *   1,10
 
 
-*    *
-    *
-    *
-    *
+    *        *   Besoldungsgruppen A 7 bis A 9
 
-*    *   A 07 <= BesGr <= A 09
 
-    *   Ruhegehaltfähige Dienstzeit – DZ (in Jahren)
+    *        *
+        *   Ruhegehaltfähige Dienstzeit
 
 
-*    *   Alter
+    *        *   Alter
 
-    *   DZ <= 22
+        *   bis 22 Jahre
 
-    *   23 <= DZ <= 32
+        *   über 22 Jahre
 
-    *   DZ >= 33
+        *   über 32 Jahre
 
 
-*    *   55
+    *        *   55 Jahre
 
-    *   7,60
+        *   7,19
 
-    *   6,19
+        *   4,62
 
-    *   7,60
+        *   6,57
 
 
-*    *   56
+    *        *   56 Jahre
 
-    *   6,95
+        *   6,51
 
-    *   5,69
+        *   4,23
 
-    *   6,82
+        *   5,83
 
 
-*    *   57
+    *        *   57 Jahre
 
-    *   6,31
+        *   5,82
 
-    *   5,21
+        *   3,84
 
-    *   5,94
+        *   5,20
 
 
-*    *   58
+    *        *   58 Jahre
 
-    *   5,45
+        *   5,13
 
-    *   4,61
+        *   3,42
 
-    *   5,21
+        *   4,59
 
 
-*    *   59
+    *        *   59 Jahre
 
-    *   4,73
+        *   4,43
 
-    *   4,03
+        *   2,99
 
-    *   4,38
+        *   4,05
 
 
-*    *   60
+    *        *   60 Jahre
 
-    *   3,92
+        *   3,70
 
-    *   3,35
+        *   2,53
 
-    *   3,58
+        *   3,48
 
 
-*    *   61
+    *        *   61 Jahre
 
-    *   3,02
+        *   2,94
 
-    *   2,80
+        *   2,06
 
-    *   3,02
+        *   3,01
 
 
-*    *   62
+    *        *   62 Jahre
 
-    *   2,26
+        *   2,15
 
-    *   2,15
+        *   1,59
 
-    *   2,37
+        *   2,37
 
 
-*    *   63
+    *        *   63 Jahre
 
-    *   1,42
+        *   1,33
 
-    *   1,42
+        *   1,03
 
-    *   1,62
+        *   1,62
 
 
-*    *   64
+    *        *   ab 64 Jahre
 
-    *   1,10
+        *   0,95
 
-    *   1,00
+        *   0,68
 
-    *   1,00
+        *   0,96
 
 
-*    *
-    *
-    *
-    *
 
-*    *   A <= 10 BesGr
 
-    *   Ruhegehaltfähige Dienstzeit – DZ (in Jahren)
+    *        *   Besoldungsgruppen A 10 bis B 3
 
 
-*    *   Alter
+    *        *
+        *   Ruhegehaltfähige Dienstzeit
 
-    *   DZ <= 22
 
-    *   23 <= DZ <= 32
+    *        *   Alter
 
-    *   DZ >= 33
+        *   bis 22 Jahre
 
+        *   über 22 Jahre
 
-*    *   55
+        *   über 32 Jahre
 
-    *   6,57
 
-    *   6,19
+    *        *   55 Jahre
 
-    *   7,60
+        *   4,31
 
+        *   4,44
 
-*    *   56
+        *   6,74
 
-    *   6,06
 
-    *   5,69
+    *        *   56 Jahre
 
-    *   6,82
+        *   4,00
 
+        *   4,06
 
-*    *   57
+        *   6,08
 
-    *   5,45
 
-    *   5,09
+    *        *   57 Jahre
 
-    *   6,06
+        *   3,76
 
+        *   3,67
 
-*    *   58
+        *   5,29
 
-    *   4,73
 
-    *   4,50
+    *        *   58 Jahre
 
-    *   5,21
+        *   3,27
 
+        *   3,26
 
-*    *   59
+        *   4,57
 
-    *   4,03
 
-    *   3,92
+    *        *   59 Jahre
 
-    *   4,38
+        *   2,89
 
+        *   2,83
 
-*    *   60
+        *   3,96
 
-    *   3,47
 
-    *   3,35
+    *        *   60 Jahre
 
-    *   3,69
+        *   2,41
 
+        *   2,39
 
-*    *   61
+        *   3,40
 
-    *   2,80
 
-    *   2,69
+    *        *   61 Jahre
 
-    *   3,02
+        *   2,03
 
+        *   1,92
 
-*    *   62
+        *   2,87
 
-    *   2,15
 
-    *   2,04
+    *        *   62 Jahre
 
-    *   2,37
+        *   1,52
 
+        *   1,46
 
-*    *   63
+        *   2,26
 
-    *   1,21
 
-    *   1,42
+    *        *   63 Jahre
 
-    *   1,62
+        *   0,86
 
+        *   1,02
 
-*    *   64
+        *   1,59
 
-    *   1,10
 
-    *   0,90
+    *        *   ab 64 Jahre
 
-    *   1,10
+        *   0,58
+
+        *   0,55
+
+        *   0,95
+
+
+
 
 
 

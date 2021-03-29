@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2002, 1446
 
+Geändert durch
+:   Art. 455 V v. 31.8.2015 I 1474
+
 
 
 ## Eingangsformel
@@ -47,15 +50,15 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Wirtschaft und Technologie kann den Wortlaut
-der Satzung in der vom Inkrafttreten des Sechsten Zusatzprotokolls an
+Das Bundesministerium für Wirtschaft und Energie kann den Wortlaut der
+Satzung in der vom Inkrafttreten des Sechsten Zusatzprotokolls an
 geltenden Fassung mit einer amtlichen deutschen Übersetzung in der
 Neufassung im Bundesgesetzblatt bekannt machen.
 
 
 ## Art 3
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die Ergänzenden
 Bestimmungen vom 1. Dezember 1999 zu den in Artikel 1 unter den
 Nummern 3 und 4 genannten Verträgen sowie Änderungen, die der Rat für
@@ -82,17 +85,16 @@ Bundesministerium der Finanzen herausgegeben.
 Pflichten können auf Antrag auch andere Unternehmen zugelassen werden.
 Die Zulassung ist ausgeschlossen, soweit ausschließliche Rechte, die
 der Deutschen Post AG durch Bundesgesetz eingeräumt sind,
-entgegenstehen. Das Bundesministerium für Wirtschaft und Technologie
-wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die erforderlichen Einzelheiten der Zulassung zu
-bestimmen; dabei ist das Auswahlverfahren zu regeln sowie zu
-bestimmen, welchen Inhalt die Zulassung hat und für welchen Zeitraum
-sie gilt.
+entgegenstehen. Das Bundesministerium für Wirtschaft und Energie wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+erforderlichen Einzelheiten der Zulassung zu bestimmen; dabei ist das
+Auswahlverfahren zu regeln sowie zu bestimmen, welchen Inhalt die
+Zulassung hat und für welchen Zeitraum sie gilt.
 Für die Zulassung und deren Widerruf oder Rücknahme, in den Fällen der
 Rücknahme oder Ablehnung eines Antrages sowie bei Zurückweisung eines
 Widerspruchs werden Kosten (Gebühren und Auslagen) erhoben. Das
-Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Bundesministerium für Wirtschaft und Energie wird ermächtigt, durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die
 Gebührentatbestände und Gebührensätze nach Maßgabe des
 Verwaltungskostengesetzes näher zu bestimmen. Die Rechtsverordnungen
 nach den Sätzen 3 und 5 ergehen im Einvernehmen mit dem

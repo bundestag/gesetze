@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 504
 
+Geändert durch
+:   Art. 1 V v. 27.1.2017 I 133
+
 
 ## Eingangsformel
 
@@ -256,7 +259,12 @@ fachkundigen Stelle eine Bestätigung der zuständigen Stelle oder der
 zuständigen Aufsichtsbehörde über die Eignung des Trägers als
 Ausbildungsstätte vorzulegen.
 
-(2) Die Bundesagentur für Arbeit soll ihre Zustimmung nach § 180
+(2) Die Bundesagentur für Arbeit kann bei der Ermittlung der
+durchschnittlichen Kostensätze neben den ihr nach § 181 Absatz 8 des
+Dritten Buches Sozialgesetzbuch vorliegenden Daten auch die allgemeine
+Preisentwicklung berücksichtigen.
+
+(3) Die Bundesagentur für Arbeit soll ihre Zustimmung nach § 180
 Absatz 3 Satz 1 Nummer 3 des Dritten Buches Sozialgesetzbuch von einem
 besonderen arbeitsmarktpolitischen Interesse an der Maßnahme und dem
 Nachweis notwendiger überdurchschnittlicher technischer,

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2408
 
+Zuletzt geändert durch
+:   Art. 10 G v. 17.7.2017 I 2581
+
 
 ## § 1 Geltungsbereich
 
@@ -93,7 +96,18 @@ Vorbereitungsdienstes
 in der Bundespolizei kann eingestellt werden, wer mindestens 16 Jahre
 und noch nicht 28 Jahre alt ist. In den Vorbereitungsdienst für den
 gehobenen oder höheren Polizeivollzugsdienst in der Bundespolizei kann
-eingestellt werden, wer noch nicht 34 Jahre alt ist.
+eingestellt werden, wer noch nicht 34 Jahre alt ist. Die
+Altershöchstgrenzen gelten nicht für
+
+1.  Teilnehmerinnen und Teilnehmer an Eingliederungsmaßnahmen nach § 7
+    Absatz 2 des Soldatenversorgungsgesetzes sowie
+
+
+2.  nach § 1 Absatz 1 Nummer 2 des Streitkräftepersonalstruktur-
+    Anpassungsgesetzes beurlaubte Berufssoldatinnen und Berufssoldaten.
+
+
+
 
 (4) Das Höchstalter nach Absatz 3 wird angehoben um Zeiten
 
@@ -118,12 +132,8 @@ eingestellt werden, wer noch nicht 34 Jahre alt ist.
 Auch wenn Zeiten nach Satz 1 zu berücksichtigen sind, darf die
 Bewerberin oder der Bewerber für den mittleren Polizeivollzugsdienst
 noch nicht 36 Jahre und für den gehobenen oder höheren
-Polizeivollzugsdienst noch nicht 42 Jahre alt sein. Diese
-Höchstaltersgrenzen gelten nicht für Inhaberinnen und Inhaber eines
-Eingliederungs- oder Zulassungsscheins nach § 9 des
-Soldatenversorgungsgesetzes sowie für Teilnehmerinnen und Teilnehmer
-an Eingliederungsmaßnahmen nach § 7 Absatz 2 des
-Soldatenversorgungsgesetzes.
+Polizeivollzugsdienst noch nicht 42 Jahre alt sein. Absatz 3 Satz 3
+gilt entsprechend.
 
 (5) Bei erheblichem dienstlichen Interesse kann das
 Bundespolizeipräsidium Ausnahmen von Absatz 3 bis zu den
@@ -381,29 +391,38 @@ regelmäßig überprüft werden.
 
 (1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zum
 Aufstieg in die nächsthöhere Laufbahn zugelassen werden, wenn sie
-erfolgreich an einem Auswahlverfahren teilgenommen haben und sie sich
-seit der ersten Verleihung eines Amtes
+erfolgreich an einem Auswahlverfahren teilgenommen haben, Beamtinnen
+auf Lebenszeit oder Beamte auf Lebenszeit sind und sich seit der
+erstmaligen Ernennung
 
 1.  bei Beginn des Aufstiegs in den gehobenen Polizeivollzugsdienst in der
-    Bundespolizei in einer Dienstzeit von fünf Jahren bewährt haben und
+    Bundespolizei in einer Dienstzeit von drei Jahren bewährt haben und
     noch nicht 50 Jahre alt sind oder
 
 
 2.  bei Zulassung zum Aufstieg in den höheren Polizeivollzugsdienst in der
-    Bundespolizei in einer Dienstzeit von sechs Jahren im gehobenen Dienst
+    Bundespolizei in einer Dienstzeit von drei Jahren im gehobenen Dienst
     bewährt haben und noch nicht 45 Jahre alt sind.
 
 
 
-Die Bewährungszeit verkürzt sich um ein Jahr, sofern die
-Polizeivollzugsbeamtin oder der Polizeivollzugsbeamte die
-Laufbahnprüfung für die bisherige Laufbahn mindestens mit der Note
-„gut“ abgeschlossen hat. Im Übrigen gilt § 19 Absatz 4 der
-Bundeslaufbahnverordnung.
+Bei der Bemessung der Bewährungszeit sind Zeiten einer
+Teilzeitbeschäftigung wie Zeiten einer Vollzeitbeschäftigung zu
+behandeln, soweit nicht zwingende sachliche Gründe entgegenstehen.
 
 (2) Für das Auswahlverfahren gilt § 36 der Bundeslaufbahnverordnung
-mit der Maßgabe, dass über die Zulassung zum Aufstieg das
-Bundespolizeipräsidium entscheidet.
+mit der Maßgabe, dass
+
+1.  über die Zulassung zum Aufstieg das Bundespolizeipräsidium
+    entscheidet,
+
+
+2.  im Falle des § 36 Absatz 4 Satz 7 der Bundeslaufbahnverordnung die
+    Teilnahme am Auswahlverfahren einmal, bei erfolgreicher Teilnahme auch
+    mehrfach wiederholt werden kann.
+
+
+
 
 (3) Die Aufstiegsausbildung in den gehobenen Polizeivollzugsdienst in
 der Bundespolizei dauert mindestens zwei Jahre. Die nach Absatz 1
@@ -424,9 +443,55 @@ unmittelbar das Amt einer Polizeioberkommissarin oder eines
 Polizeioberkommissars übertragen werden.
 
 
-## § 16
+## § 16 Verkürzter Aufstieg in den gehobenen Polizeivollzugsdienst in der Bundespolizei
 
-(zukünftig in Kraft)
+(1) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte können zu
+einem verkürzten Aufstieg in den gehobenen Polizeivollzugsdienst in
+der Bundespolizei zugelassen werden, wenn
+
+1.  ein dienstliches Bedürfnis besteht und
+
+
+2.  die Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten
+
+    a)  bei Beginn des Aufstiegs noch nicht 57 Jahre alt sind,
+
+
+    b)  sich mindestens im Amt der Polizeiobermeisterin oder des
+        Polizeiobermeisters drei Jahre bewährt haben,
+
+
+    c)  in den letzten beiden Beurteilungen überdurchschnittlich bewertet
+        worden sind und
+
+
+    d)  erfolgreich an einem Auswahlverfahren teilgenommen haben.
+
+
+
+
+
+
+§ 15 Absatz 1 Satz 2 gilt entsprechend.
+
+(2) § 15 Absatz 2 gilt entsprechend.
+
+(3) Die Aufstiegsausbildung dauert sechs Monate und umfasst eine
+theoretische Ausbildung von mindestens vier Monaten sowie eine
+praktische Ausbildung. Die Bundespolizeiakademie stellt in einem
+Prüfungsgespräch fest, ob die Polizeivollzugsbeamtin oder der
+Polizeivollzugsbeamte die Ausbildung erfolgreich abgeschlossen hat.
+
+(4) Polizeivollzugsbeamtinnen und Polizeivollzugsbeamte, die die
+Befähigung für die nächsthöhere Laufbahn nach den Absätzen 1 bis 3
+erworben haben, können höchstens ein Amt der Besoldungsgruppe A 11
+erreichen. Für die Übertragung eines Amtes der neuen Laufbahn sowie
+für die Verleihung des ersten Beförderungsamtes gilt § 40 der
+Bundeslaufbahnverordnung. Abweichend davon kann
+Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten, die ein Amt der
+Besoldungsgruppe A 9 mit Amtszulage mindestens ein Jahr innehaben,
+unmittelbar das Amt einer Polizeioberkommissarin oder eines
+Polizeioberkommissars übertragen werden.
 
 
 ## § 17 Übergangsregelungen für den Aufstieg
@@ -652,7 +717,8 @@ Dienst**
 
 ## Anlage 2 (zu § 12)
 
-(Fundstelle: BGBl. I 2011, 2415)
+(Fundstelle: BGBl. I 2011, 2415;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   Laufbahn
@@ -670,7 +736,8 @@ Dienst**
 
     *   Abschluss als Gesundheits- oder Krankenpflegerin oder -pfleger oder
         Berufserlaubnis als Rettungsassistentin oder Rettungsassistent nach
-        dem Rettungsassistentengesetz *und*                      eine
+        dem Rettungsassistentengesetz oder als Notfallsanitäterin oder
+        Notfallsanitäter nach dem Notfallsanitätergesetz *und* eine
         hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
         in diesem Bereich
 
@@ -703,8 +770,8 @@ Dienst**
 
     *   Lizenz für Berufs- oder Verkehrspiloten nach den geltenden
         europäischen Bestimmungen über die Lizenzierung von Piloten
-        (Hubschrauber) *und*                      eine hauptberufliche
-        Tätigkeit von mindestens zwei Jahren in diesem Bereich
+        (Hubschrauber) *und* eine hauptberufliche Tätigkeit von mindestens
+        zwei Jahren in diesem Bereich
 
 
 *    *   – Flugtechnikerin
@@ -712,8 +779,8 @@ Dienst**
 
     *   Lizenz für Flugtechniker auf Hubschraubern bei den Polizeien des
         Bundes oder der Länder nach der Verordnung über Luftfahrtpersonal
-        *und*                      eine hauptberufliche Tätigkeit von
-        mindestens zwei Jahren in diesem Bereich
+        *und* eine hauptberufliche Tätigkeit von mindestens zwei Jahren in
+        diesem Bereich
 
 
 *    *   – Freigabeberechtigtes Personal der Kategorie B oder höherwertig,
@@ -724,8 +791,8 @@ Dienst**
         europäischen Bestimmungen oder Lizenz als Prüfer von Luftfahrtgerät
         nach der geltenden Verordnung über Luftfahrtpersonal oder Erlaubnis
         zur Durchführung zerstörungsfreier Werkstoffprüfungen nach den
-        geltenden europäischen Vorschriften *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+        geltenden europäischen Vorschriften *und* eine hauptberufliche
+        Tätigkeit von mindestens zwei Jahren in diesem Bereich
 
 
 *    *   Kommandantin oder Kommandant oder Stellvertreterin oder Stellvertreter
@@ -733,16 +800,15 @@ Dienst**
         Bundespolizei
 
     *   Fachhochschulabschluss für die jeweilige Fachverwendung in einem
-        Diplom- oder Bachelorstudiengang *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren in diesem Bereich
+        Diplom- oder Bachelorstudiengang *und* eine hauptberufliche Tätigkeit
+        von mindestens zwei Jahren in diesem Bereich
 
 
 *    *   Technische Fachverwendung
 
     *   Fachhochschulabschluss für die jeweilige Fachverwendung in einem
-        Diplom- oder Bachelorstudiengang *und*                      eine
-        hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
-        in diesem Bereich
+        Diplom- oder Bachelorstudiengang *und* eine hauptberufliche Tätigkeit
+        von mindestens einem Jahr und sechs Monaten in diesem Bereich
 
 
 *    *   Sachbearbeiterin
@@ -750,9 +816,9 @@ Dienst**
         im ärztlichen Dienst
 
     *   Fachhochschulabschluss in einem Diplom- oder Bachelorstudiengang im
-        Bereich der Gesundheitswissenschaften *und*                      eine
-        hauptberufliche Tätigkeit von mindestens einem Jahr und sechs Monaten
-        in diesem Bereich
+        Bereich der Gesundheitswissenschaften *und* eine hauptberufliche
+        Tätigkeit von mindestens einem Jahr und sechs Monaten in diesem
+        Bereich
 
 
 *    *   Höherer
@@ -762,18 +828,17 @@ Dienst**
     *   Technische Fachverwendung
 
     *   mit einem Master abgeschlossenes Hochschulstudium oder einen
-        gleichwertigen Abschluss für die jeweilige Fachverwendung *und*
-        eine hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs
-        Monaten in diesem Bereich
+        gleichwertigen Abschluss für die jeweilige Fachverwendung *und* eine
+        hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
+        in diesem Bereich
 
 
 *    *   Polizeivollzugsbeamtin
         oder Polizeivollzugsbeamter
         im ärztlichen Dienst
 
-    *   abgeschlossenes Medizinstudium *und*                      eine
-        hauptberufliche Tätigkeit von mindestens zwei Jahren und sechs Monaten
-        in diesem Bereich
+    *   abgeschlossenes Medizinstudium *und* eine hauptberufliche Tätigkeit
+        von mindestens zwei Jahren und sechs Monaten in diesem Bereich
 
 
 

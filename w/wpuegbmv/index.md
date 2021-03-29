@@ -4,7 +4,7 @@ Title: Verordnung über den Zeitpunkt sowie den Inhalt und die Form der Mitteilu
   Satz 1 und 2 des Wertpapiererwerbs- und Übernahmegesetzes
 jurabk: WpÜGBMV
 layout: default
-origslug: wp_gbmv
+origslug: wpuegbmv
 slug: wpuegbmv
 
 ---

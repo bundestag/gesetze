@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2622
 
+Geändert durch
+:   Art. 27 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -433,7 +436,9 @@ Prüfungsamtes anzufertigen.
 Prüfungsamt ist in der Prüfungsakte zu vermerken. Die Studierenden
 müssen schriftlich versichern, dass sie die schriftliche Ausarbeitung
 selbständig und ohne fremde Mitwirkung verfasst und nur die
-angegebenen Quellen und Hilfsmittel benutzt haben.
+angegebenen Quellen und Hilfsmittel benutzt haben. Sofern die
+schriftliche Ausarbeitung elektronisch übermittelt werden kann, kann
+die Versicherung auch elektronisch abgegeben werden.
 
 (5) Die schriftliche Ausarbeitung soll innerhalb von zehn Wochen nach
 Abgabe bewertet werden.
@@ -467,7 +472,7 @@ der Prüfungsleistung dürfen nur die Prüfenden anwesend sein.
 
 (5) Gegenstand, Verlauf und Ergebnis der Präsentation und der
 Disputation werden protokolliert. Das Protokoll ist von den Prüfenden
-zu unterschreiben.
+zu bestätigen.
 
 (6) Die Präsentation und Disputation sind bestanden, wenn jeder
 Prüfungsteil mit mindestens fünf Rangpunkten bewertet worden ist.
@@ -731,11 +736,11 @@ die Rangpunkte wie folgt vergeben:
 
 
 (6) Besteht eine Klausur sowohl aus Multiple-
-Choice-Aufgaben              als auch aus anderen Aufgaben, werden die
-Lösungen der Multiple-Choice-Aufgaben entsprechend den Absätzen 2 bis
-5 bewertet und die übrigen Lösungen nach § 19. Aus beiden
-Aufgabenteilen wird entsprechend ihrer Gewichtung die Rangpunktzahl
-der Klausur berechnet, und zwar auf zwei Dezimalstellen ohne Rundung.
+Choice-Aufgaben als auch aus anderen Aufgaben, werden die Lösungen der
+Multiple-Choice-Aufgaben entsprechend den Absätzen 2 bis 5 bewertet
+und die übrigen Lösungen nach § 19. Aus beiden Aufgabenteilen wird
+entsprechend ihrer Gewichtung die Rangpunktzahl der Klausur berechnet,
+und zwar auf zwei Dezimalstellen ohne Rundung.
 
 (7) Multiple-Choice-Aufgaben können elektronisch gestellt, beantwortet
 und ausgewertet werden. Die Integrität der Daten und die
@@ -746,8 +751,8 @@ automatisierte Protokollierung der Prüfung sind zu gewährleisten.
 
 (1) Bei Fernbleiben oder Rücktritt von einer Prüfung oder einem
 Prüfungsteil ohne Genehmigung des Prüfungsamtes gilt die Prüfung oder
-der Prüfungsteil als nicht bestanden und wird mit null Rangunkten
-bewertet.
+der Prüfungsteil als nicht bestanden und wird mit null
+Rangunkten bewertet.
 
 (2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die
 Prüfung oder der Prüfungsteil als nicht begonnen.
@@ -969,8 +974,9 @@ Akte zu vermerken.
 
 Diese Verordnung tritt mit Wirkung vom 1. August 2012 in Kraft.
 
+(zu § 25 Absatz 1 Satz 2)
 
-### Anlage (zu § 25 Absatz 1 Satz 2) Noten als Dezimalzahlen
+### Anlage Noten als Dezimalzahlen
 
 (Fundstelle: BGBl. I 2012, 2629)
 

@@ -21,36 +21,55 @@ Neugefasst durch
 :   Bek. v. 28.2.2005 I 487;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 23 G v. 12.4.2012 I 579
+:   Art. 11 G v. 17.8.2017 I 3214
 
 
-## Abschnitt 1 - Grundsätze zur Datenübermittlung
+## Abschnitt 1 - Grundsätze der Datenübermittlung
 
 
 
 ### § 1 Datensätze
 
-(1) Eine nach den § 10 Absatz 2a, §§ 10a, 22a, 41b Absatz 2, § 52
-Absatz 24, 24d, 38a, 43a oder Abschnitt XI des Einkommensteuergesetzes
-oder nach dieser Verordnung vorgeschriebene Übermittlung von Daten und
-eine nach diesen Vorschriften bestehende Anzeige- oder
-Mitteilungspflicht zwischen den am Verfahren Beteiligten erfolgt in
+(1) Eine Übermittlung von Daten nach
+
+1.  § 10 Absatz 2a und 4b, den §§ 10a, 22a oder Abschnitt XI des
+    Einkommensteuergesetzes,
+
+
+2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des
+    Einkommensteuergesetzes verwiesen wird, oder
+
+
+3.  dieser Verordnung
+
+
+
+sowie eine nach diesen Vorschriften bestehende Anzeige- und
+Mitteilungspflicht zwischen den am Verfahren Beteiligten erfolgen in
 Form eines amtlich vorgeschriebenen Datensatzes.
 
-(2) Absatz 1 gilt nicht für Mitteilungen an den Zulageberechtigten
-nach § 90 Abs. 1 Satz 3 des Einkommensteuergesetzes durch die
-zuständige Stelle (§ 81a des Einkommensteuergesetzes) und den Anbieter
-(§ 80 des Einkommensteuergesetzes), für Mitteilungen der zentralen
-Stelle (§ 81 des Einkommensteuergesetzes) an den Zulageberechtigten
-nach § 92a Abs. 4 Satz 3 und § 92b Abs. 1 Satz 3 des
-Einkommensteuergesetzes, für Mitteilungen des Zulageberechtigten nach
-§ 92a des Einkommensteuergesetzes, für Anzeigen nach den §§ 5 und 13
-sowie für Mitteilungen nach den §§ 6, 10 Abs. 2 Satz 2 und § 11 Abs. 1
-und 3. Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale
-Stelle übermittelt, ist Absatz 1 anzuwenden. Die Mitteilung des
-Anbieters an den Zulageberechtigten nach § 90 Abs. 1 Satz 3 des
-Einkommensteuergesetzes kann mit der Bescheinigung nach § 10a Abs. 5
-Satz 1 oder § 92 des Einkommensteuergesetzes erfolgen.
+(2) Absatz 1 gilt nicht für
+
+1.  Mitteilungen an den Zulageberechtigten,
+
+
+2.  Mitteilungen des Zulageberechtigten nach § 10a oder Abschnitt XI des
+    Einkommensteuergesetzes,
+
+
+3.  Anzeigen nach den §§ 5 und 13 oder
+
+
+4.  Mitteilungen nach den §§ 6, 10 Absatz 2 Satz 2 und § 11 Absatz 1 und
+    3\.
+
+
+
+Wird die Mitteilung nach § 11 Abs. 1 und 3 über die zentrale Stelle
+übermittelt, ist Absatz 1 anzuwenden. Die Mitteilung des Anbieters an
+den Zulageberechtigten nach § 90 Abs. 1 Satz 3 des
+Einkommensteuergesetzes kann mit der Bescheinigung nach § 92 des
+Einkommensteuergesetzes erfolgen.
 
 
 ### § 2 Technisches Übermittlungsformat
@@ -59,17 +78,30 @@ Satz 1 oder § 92 des Einkommensteuergesetzes erfolgen.
 
 (2) Der codierte Zeichensatz für eine nach § 10a oder Abschnitt XI des
 Einkommensteuergesetzes oder nach einer im Abschnitt 2 dieser
-Verordnung vorzunehmenden Datenübermittlung hat den Anforderungen der
-DIN 66303, Ausgabe Juni 2000, zu entsprechen. Der Zeichensatz ist
-gemäß der Vorgabe der zentralen Stelle an den jeweiligen Stand der
-Technik anzupassen.
+Verordnung vorzunehmenden Datenübermittlung hat vorbehaltlich der
+Sätze 2 und 3 den Anforderungen der DIN 66303, Ausgabe Juni 2000, zu
+entsprechen. Die zentrale Stelle kann für einzelne oder alle
+Datensätze die Verwendung eines anderen Zeichensatzes und die dafür
+erforderliche Codierung bestimmen. Der Zeitpunkt der erstmaligen
+Verwendung wird mindestens sechs Monate vorher durch das
+Bundesministerium der Finanzen im Bundessteuerblatt bekannt gegeben.
 
-(3) Der codierte Zeichensatz für eine nach § 10 Absatz 2a, den §§ 22a,
-41b Absatz 2, § 52 Absatz 24, 24d, 38a oder Absatz 43a des
-Einkommensteuergesetzes oder nach einer in den Abschnitten 3 und 4
-dieser Verordnung vorzunehmenden Datenübermittlung hat den
-Anforderungen der ISO/IEC 8859-15, Ausgabe März 1999, zu entsprechen.
-Absatz 2 Satz 2 gilt entsprechend.
+(3) Der codierte Zeichensatz für eine Datenübermittlung nach
+
+1.  § 10 Absatz 2a und 4b oder § 22a des Einkommensteuergesetzes,
+
+
+2.  § 32b Absatz 3 des Einkommensteuergesetzes, soweit auf § 22a des
+    Einkommensteuergesetzes verwiesen wird, oder
+
+
+3.  den Abschnitten 3 und 4 dieser Verordnung
+
+
+
+hat vorbehaltlich des Satzes 2 den Anforderungen der ISO/IEC 8859-15,
+Ausgabe März 1999, zu entsprechen. Absatz 2 Satz 2 und 3 gilt
+entsprechend.
 
 
 ### § 2a DIN- und ISO/IEC-Normen
@@ -116,12 +148,16 @@ entsprechen muss.
 Hierbei soll der Übertragungsweg zugelassen werden, der von den an der
 Datenübermittlung Beteiligten gewünscht wird.
 
-(3) Die erforderlichen Daten können unter den Voraussetzungen des § 11
-des Bundesdatenschutzgesetzes oder der vergleichbaren Vorschriften der
-Landesdatenschutzgesetze durch einen Auftragnehmer der übermittelnden
-Stelle an die zentrale Stelle übertragen werden. Geeignet ist ein
-Auftragnehmer, der die Anforderungen an den Datenschutz und die
-Datensicherheit gemäß dieser Verordnung erfüllt.
+(3) Die erforderlichen Daten können unter den Voraussetzungen der
+Artikel 28 und 29 der Verordnung (EU) 2016/679 des Europäischen
+Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher
+Personen bei der Verarbeitung personenbezogener Daten, zum freien
+Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-
+Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016,
+S. 72) in der jeweils geltenden Fassung durch einen Auftragnehmer der
+übermittelnden Stelle an die zentrale Stelle übertragen werden.
+Geeignet ist ein Auftragnehmer, der die Anforderungen an den
+Datenschutz und die Datensicherheit gemäß dieser Verordnung erfüllt.
 
 (4) Der nach Absatz 3 mit der Datenfernübertragung beauftragte
 Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen der
@@ -157,7 +193,7 @@ der zentralen Stelle auf Anforderung anzuzeigen:
 (2) Der Anbieter hat zusätzlich zu den in Absatz 1 aufgeführten
 Angaben eine Zertifizierungsnummer sowie die Bankverbindung, über
 welche die Zulagenzahlungen abgewickelt werden sollen, anzuzeigen. Hat
-der Anbieter ausschließlich Daten nach § 10 Absatz 2a des
+der Anbieter ausschließlich Daten nach § 10 Absatz 2a und 4b des
 Einkommensteuergesetzes zu übermitteln, ist die Angabe der
 Bankverbindung nicht erforderlich.
 
@@ -180,16 +216,9 @@ Internets der zentralen Stelle ermöglichen.
 zentralen Stelle von dem am Verfahren Beteiligten unter Angabe der
 Kundennummer (Absatz 4) unverzüglich anzuzeigen.
 
-(6) Die Absätze 1 und 3 bis 5 gelten für übermittelnde Stellen im
-Sinne des § 10 Absatz 2a des Einkommensteuergesetzes, für
-Mitteilungspflichtige (§ 22a Absatz 1 Satz 1 des
-Einkommensteuergesetzes) und für Träger der Sozialleistungen (§ 32b
-Absatz 3 des Einkommensteuergesetzes) entsprechend. Die Teilnahme der
-Arbeitgeber am maschinellen Anfrageverfahren der Identifikationsnummer
-(§ 139b der Abgabenordnung) nach § 41b Absatz 2 des
-Einkommensteuergesetzes setzt voraus, dass diese bereits durch die
-Finanzverwaltung authentifiziert wurden; eine weitere Identifikation
-bei der zentralen Stelle findet nicht statt.
+(6) Die Absätze 1 und 3 bis 5 gelten für die mitteilungspflichtigen
+Stellen im Sinne des § 10 Absatz 2a und 4b, § 22a Absatz 1 Satz 1 und
+§ 32b Absatz 3 des Einkommensteuergesetzes entsprechend.
 
 
 ## Abschnitt 2 - Vorschriften zur Altersvorsorge nach § 10a oder Abschnitt XI des Einkommensteuergesetzes
@@ -206,10 +235,10 @@ bei der zentralen Stelle findet nicht statt.
 Pensionskasse, Direktversicherung), die für ihn die betriebliche
 Altersversorgung durchführt, spätestens zwei Monate nach Ablauf des
 Kalenderjahres oder nach Beendigung des Dienstverhältnisses im Laufe
-des Kalenderjahres gesondert je Versorgungszusage mitzuteilen, in
-welcher Höhe die für den einzelnen Arbeitnehmer geleisteten Beiträge
-individuell besteuert wurden. Die Mitteilungspflicht des Arbeitgebers
-kann durch einen Auftragnehmer wahrgenommen werden.
+des Kalenderjahres mitzuteilen, in welcher Höhe die für den einzelnen
+Arbeitnehmer geleisteten Beiträge individuell besteuert wurden. Die
+Mitteilungspflicht des Arbeitgebers kann durch einen Auftragnehmer
+wahrgenommen werden.
 
 (2) Eine Mitteilung nach Absatz 1 kann unterbleiben, wenn die
 Versorgungseinrichtung dem Arbeitgeber mitgeteilt hat, dass
@@ -334,7 +363,10 @@ Einkommensteuergesetzes hat der Anbieter des bisherigen Vertrags dem
 Anbieter des neuen Vertrags die in § 92 des Einkommensteuergesetzes
 genannten Daten einschließlich der auf den Zeitpunkt der Übertragung
 fortgeschriebenen Beträge im Sinne des § 19 Abs. 1 und 2 mitzuteilen.
-Bei der Übermittlung hat er die bisherige Vertragsnummer, die
+Dies gilt auch bei einer Übertragung von ausschließlich ungefördertem
+Altersvorsorgevermögen, die mit einer Übertragung nach § 93 Absatz 1a
+Satz 1 des Einkommensteuergesetzes vergleichbar ist. Bei der
+Übermittlung hat er die bisherige Vertragsnummer, die
 Zertifizierungsnummer und die Anbieternummer anzugeben. Der Anbieter
 des bisherigen Vertrags kann die Mitteilung nach Satz 1 über die
 zentrale Stelle dem Anbieter des neuen Vertrags übermitteln. Die
@@ -350,45 +382,33 @@ Einkommensteuergesetzes sowie zur Übermittlung der Daten nach § 10a
 Abs. 5 des Einkommensteuergesetzes an die zentrale Stelle für das
 gesamte Beitragsjahr verpflichtet.
 
-(3) In den Fällen des § 92a Abs. 2 Satz 8 und 9 des
-Einkommensteuergesetzes hat der Anbieter nach § 1 Abs. 2 des
-Altersvorsorgeverträge-Zertifizierungsgesetzes des bisherigen Vertrags
-dem Anbieter nach § 1 Abs. 2 des Altersvorsorgeverträge-
-Zertifizierungsgesetzes des neuen Vertrags den Stand des
-Wohnförderkontos (§ 92a Abs. 2 Satz 1 des Einkommensteuergesetzes) zu
-übermitteln. Der Anbieter des bisherigen Vertrags kann die Mitteilung
-nach Satz 1 über die zentrale Stelle dem Anbieter des neuen Vertrags
-übermitteln. Die zentrale Stelle leitet die Mitteilung ohne
-inhaltliche Prüfung an den Anbieter des neuen Vertrags weiter. Die
-Sätze 1 bis 3 gelten entsprechend in den Fällen des § 92a Abs. 2 Satz
-11 des Einkommensteuergesetzes. Erfolgt die Einzahlung nach § 92a Abs.
-2 Satz 4 Nr. 1 oder § 92a Abs. 3 Satz 9 Nr. 2 des
-Einkommensteuergesetzes nicht beim Anbieter, der das Wohnförderkonto
-führt, hat der Anbieter, bei dem die Einzahlung erfolgt, dem anderen
-Anbieter die Höhe der Zahlungen des Zulageberechtigten auf den
-Altersvorsorgevertrag zu übermitteln. Der Anbieter, der das
-Wohnförderkonto führt, teilt dem anderen Anbieter den Betrag mit, um
-den das Wohnförderkonto gemindert wurde.
-
-(4) In den Fällen des Absatzes 1 Satz 1 hat der Anbieter des
-bisherigen Vertrags sowie der Anbieter des neuen Vertrags die
-Übertragung der zentralen Stelle mitzuteilen. Satz 1 gilt entsprechend
-in den Fällen des § 92a Abs. 2 Satz 11 des Einkommensteuergesetzes.
-Liegt ein Fall des § 82 Abs. 1 Satz 4 des Einkommensteuergesetzes vor,
-hat der Anbieter des neuen Vertrags dies der zentralen Stelle
-ergänzend mitzuteilen. In den Fällen der Übertragung von
+(3) Bei Übertragungen von Altersvorsorgevermögen nach Absatz 1 Satz 1
+oder Satz 2 haben der Anbieter des bisherigen Vertrags sowie der
+Anbieter des neuen Vertrags die Übertragung der zentralen Stelle
+mitzuteilen. Bei einer Übertragung von gefördertem
+Altersvorsorgevermögen nach § 82 Absatz 1 Satz 4 des
+Einkommensteuergesetzes hat der Anbieter des neuen Vertrags dies der
+zentralen Stelle ergänzend mitzuteilen. Bei einer Übertragung von
 Altersvorsorgevermögen nach § 93 Absatz 1a Satz 2 des
-Einkommensteuergesetzes hat der Anbieter des bisherigen Vertrags die
-Übertragung der zentralen Stelle mitzuteilen. In den Fällen der
-Übertragung von Altersvorsorgevermögen nach § 93 Absatz 1a Satz 1 und
-2 des Einkommensteuergesetzes hat der Anbieter des bisherigen Vertrags
-der zentralen Stelle außerdem die vom Familiengericht angegebene
-Ehezeit mitzuteilen.
+Einkommensteuergesetzes oder bei einer Übertragung von ausschließlich
+ungefördertem Altersvorsorgevermögen, die mit einer Übertragung nach §
+93 Absatz 1a Satz 2 des Einkommensteuergesetzes vergleichbar ist, hat
+der Anbieter des bisherigen Vertrags die Übertragung der zentralen
+Stelle mitzuteilen. Bei einer Übertragung nach § 93 Absatz 1a Satz 1
+oder Satz 2 des Einkommensteuergesetzes oder bei einer Übertragung von
+ausschließlich ungefördertem Altersvorsorgevermögen, die mit einer
+Übertragung nach § 93 Absatz 1a Satz 1 oder Satz 2 des
+Einkommensteuergesetzes vergleichbar ist, hat der Anbieter des
+bisherigen Vertrags der zentralen Stelle außerdem die vom
+Familiengericht angegebene Ehezeit oder die Lebenspartnerschaftszeit
+mitzuteilen.
 
-(5) Wird Altersvorsorgevermögen auf Grund vertraglicher Vereinbarung
+(4) Wird Altersvorsorgevermögen auf Grund vertraglicher Vereinbarung
 nur teilweise auf einen anderen Vertrag übertragen, gehen Zulagen,
 Beiträge und Erträge anteilig auf den neuen Vertrag über. Die Absätze
-1 und 4 gelten entsprechend.
+1 und 3 gelten entsprechend.
+
+(5) (weggefallen)
 
 
 #### § 12 Besondere Mitteilungspflichten der zentralen Stelle gegenüber dem Anbieter
@@ -450,11 +470,10 @@ Rentenversicherungspflicht oder die Berechnung des
 Mindesteigenbeitrags die Angaben des zuständigen
 Sozialversicherungsträgers maßgebend. Für die von der
 landwirtschaftlichen Alterskasse übermittelten Angaben gilt Satz 1
-entsprechend; § 52 Abs. 65 Satz 2 des Einkommensteuergesetzes findet
-entsprechend Anwendung. Wird abweichend vom tatsächlich erzielten
-Entgelt oder vom Zahlbetrag der Entgeltersatzleistung ein höherer
-Betrag als beitragspflichtige Einnahmen im Sinne des § 86 Abs. 1 Satz
-2 Nr. 1 des Einkommensteuergesetzes berücksichtigt und stimmen der vom
+entsprechend. Wird abweichend vom tatsächlich erzielten Entgelt oder
+vom Zahlbetrag der Entgeltersatzleistung ein höherer Betrag als
+beitragspflichtige Einnahmen im Sinne des § 86 Abs. 1 Satz 2 Nr. 1 des
+Einkommensteuergesetzes berücksichtigt und stimmen der vom
 Zulageberechtigten angegebene und der bei dem zuständigen
 Sozialversicherungsträger ermittelte Zeitraum überein, ist Satz 1
 insoweit nicht anzuwenden. Im Festsetzungsverfahren ist dem
@@ -510,11 +529,10 @@ entscheidet die zentrale Stelle.
 
 #### § 18 Erteilung der Anbieterbescheinigungen
 
-(1) Werden Bescheinigungen nach § 10a Abs. 5 Satz 1, § 22 Nr. 5 Satz
-7, § 92 oder § 94 Abs. 1 Satz 4 des Einkommensteuergesetzes mit Hilfe
-automatischer Einrichtungen erstellt, können Unterschrift und
-Namenswiedergabe des Anbieters oder des Vertretungsberechtigten
-fehlen.
+(1) Werden Bescheinigungen nach § 22 Nr. 5 Satz 7, § 92 oder § 94 Abs.
+1 Satz 4 des Einkommensteuergesetzes mit Hilfe automatischer
+Einrichtungen erstellt, können Unterschrift und Namenswiedergabe des
+Anbieters oder des Vertretungsberechtigten fehlen.
 
 (2) Wird die Bescheinigung nach § 92 oder § 94 Abs. 1 Satz 4 des
 Einkommensteuergesetzes durch die Post übermittelt, ist das Datum der
@@ -602,13 +620,16 @@ nicht, soweit die Löschung oder Vernichtung schutzwürdige Interessen
 des Anlegers oder die Wahrnehmung von Aufgaben oder berechtigten
 Interessen des Anbieters beeinträchtigen würde.
 
-(3a) Unterlagen, die eine wohnungswirtschaftliche Verwendung im Sinne
-des § 92a Abs. 1 Satz 1 des Einkommensteuergesetzes nach dem 31.
-Dezember 2007 eines Darlehens im Sinne des § 1 Abs. 1a des
-Altersvorsorgeverträge-Zertifizierungsgesetzes nachweisen, sind für
-die Dauer von zehn Jahren nach der Auflösung oder der Schließung des
-bei dem Anbieter geführten Wohnförderkontos (§ 92a Abs. 2 Satz 1)
-aufzubewahren.
+(3a) Unterlagen über die Auszahlung des Altersvorsorge-
+Eigenheimbetrages im Sinne des § 92a Absatz 1 Satz 1 des
+Einkommensteuergesetzes sowie Unterlagen, die eine
+wohnungswirtschaftliche Verwendung im Sinne des § 92a Absatz 1 Satz 1
+des Einkommensteuergesetzes nach dem 31. Dezember 2007 eines Darlehens
+im Sinne des § 1 Absatz 1a des Altersvorsorgeverträge-
+Zertifizierungsgesetzes nachweisen, sind für die Dauer von zehn Jahren
+nach der Auflösung oder der Schließung des für den
+Altersvorsorgevertrag geführten Wohnförderkontos (§ 92a Absatz 2 Satz
+1 des Einkommensteuergesetzes) aufzubewahren.
 
 (4) Nach Absatz 3 Satz 1 und Absatz 3a aufzubewahrende schriftliche
 Unterlagen können als Wiedergabe auf einem Bild- oder anderen
@@ -639,22 +660,25 @@ erforderlichen Unterlagen zur Verfügung zu stellen.
 
 
 
-### § 20 Aufzeichnungs- und Aufbewahrungspflichten
+### § 20 (weggefallen)
 
-Der Mitteilungspflichtige hat die übermittelten Daten aufzuzeichnen
-und die zugrunde liegenden Unterlagen für die Dauer von sechs Jahren
-nach dem Ende des Jahres, für das die Übermittlung erfolgt ist,
-geordnet aufzubewahren. § 19 Abs. 4 bis 6 gilt entsprechend.
+
+
+### § 20a Vollstreckung von Bescheiden über Forderungen der zentralen Stelle
+
+§ 17 gilt für Bescheide über Forderungen der zentralen Stelle im
+Rahmen des Rentenbezugsmitteilungsverfahrens nach § 22a des
+Einkommensteuergesetzes entsprechend.
 
 
 ### § 21 Erprobung des Verfahrens
 
-(1) Die zentrale Stelle kann bei den Mitteilungspflichtigen Daten nach
-§ 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum Zweck der
-Erprobung
+(1) Die zentrale Stelle kann bei den mitteilungspflichtigen Stellen
+Daten nach § 22a Abs. 1 Satz 1 des Einkommensteuergesetzes erheben zum
+Zweck der Erprobung
 
-1.  des Verfahrens der Datenübermittlung von den Mitteilungspflichtigen an
-    die zentrale Stelle,
+1.  des Verfahrens der Datenübermittlung von den mitteilungspflichtigen
+    Stellen an die zentrale Stelle,
 
 
 2.  der bei der zentralen Stelle einzusetzenden Programme,
@@ -669,21 +693,21 @@ Erprobung
 
 
 (2) Das Bundeszentralamt für Steuern kann bei den
-Mitteilungspflichtigen Daten nach § 22a Abs. 2 Satz 3 des
+mitteilungspflichtigen Stellen Daten nach § 22a Abs. 2 Satz 3 des
 Einkommensteuergesetzes in Verbindung mit § 139b Abs. 3 der
 Abgabenordnung erheben zum Zweck der Erprobung
 
-1.  des Verfahrens der Datenübermittlung von den Mitteilungspflichtigen an
-    das Bundeszentralamt für Steuern,
+1.  des Verfahrens der Datenübermittlung von den mitteilungspflichtigen
+    Stellen an das Bundeszentralamt für Steuern,
 
 
 2.  des Verfahrens der Datenübermittlung von dem Bundeszentralamt für
-    Steuern an die Mitteilungspflichtigen,
+    Steuern an die mitteilungspflichtigen Stellen,
 
 
 3.  der vom Bundeszentralamt für Steuern und der zentralen Stelle
-    einzusetzenden Programme, mit denen den Mitteilungspflichtigen die
-    Daten zur Verfügung gestellt werden.
+    einzusetzenden Programme, mit denen den mitteilungspflichtigen Stellen
+    die Daten zur Verfügung gestellt werden.
 
 
 
@@ -700,20 +724,42 @@ Erprobung, spätestens am 31. Dezember 2009, zu löschen.
 
 
 
-### § 22 Aufzeichnungs- und Aufbewahrungspflichten
+### § 22 (weggefallen)
 
-Soweit nicht bereits eine Aufzeichnungs- und Aufbewahrungspflicht nach
-§ 19 oder § 20 dieser Verordnung besteht, hat die übermittelnde Stelle
-die übermittelten Daten aufzuzeichnen und die zugrunde liegenden
-Unterlagen für die Dauer von sechs Jahren nach dem Ende des Jahres, in
-dem die Übermittlung erfolgt ist, geordnet aufzubewahren. § 19 Absatz
-4 bis 6 gilt entsprechend.
 
 
 ### § 23 Erprobung des Verfahrens
 
 § 21 Absatz 1 dieser Verordnung gilt für die Erprobung des Verfahrens
-nach § 10 Absatz 2a des Einkommensteuergesetzes entsprechend mit der
-Maßgabe, dass die zentrale Stelle bei den übermittelnden Stellen die
-Daten nach § 10 Absatz 2a des Einkommensteuergesetzes erheben kann.
+nach § 10 Absatz 2a und 4b des Einkommensteuergesetzes entsprechend
+mit der Maßgabe, dass die zentrale Stelle bei den
+mitteilungspflichtigen Stellen die Daten nach § 10 Absatz 2a und 4b
+des Einkommensteuergesetzes erheben kann.
+
+
+### § 24 Mitteilungspflichten nach § 10 Absatz 4b des Einkommensteuergesetzes
+
+Die in § 10 Absatz 4b Satz 4 des Einkommensteuergesetzes genannten
+mitteilungspflichtigen Stellen haben der zentralen Stelle folgende
+Daten zu übermitteln:
+
+1.  die Höhe der im jeweiligen Zahlungsjahr geleisteten und
+    zurückgeforderten steuerfreien Zuschüsse und der erstatteten
+    Vorsorgeaufwendungen, jeweils gesondert betragsmäßig nach Art der
+    Vorsorgeaufwendungen ausgewiesen,
+
+
+2.  den Beginn und das Ende des Zeitraums, für den der steuerfreie
+    Zuschuss und die Erstattung der Vorsorgeaufwendungen erfolgt sind, und
+
+
+3.  das Jahr des Zuflusses oder Abflusses.
+
+
+
+Eine Mitteilungspflicht nach Satz 1 besteht nicht, wenn die
+mitteilungspflichtige Stelle der Finanzverwaltung die Zahlung der
+geleisteten und zurückgeforderten steuerfreien Zuschüsse und der
+erstatteten Vorsorgeaufwendungen bereits auf Grund anderer
+Vorschriften elektronisch mitzuteilen hat.
 

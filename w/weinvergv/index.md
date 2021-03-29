@@ -19,19 +19,20 @@ Neugefasst durch
 :   Bek. v. 24.4.1987 I 1300;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 1.9.2010 I 1260
+:   Art. 2 V v. 1.10.2015 I 1671
 
 
 ## § 1 Anwendungsbereich
 
 Die Vorschriften dieser Verordnung gelten für die Durchführung der
-Rechtsakte des Rates und der Kommission der Europäischen
-Gemeinschaften über die Gewährung von Beihilfen, Vergütungen und
-sonstigen Vergünstigungen (Vergünstigungen) im Rahmen der gemeinsamen
-Marktorganisation für Wein mit Ausnahme der Vergütungen für die
-Aufgabe der Produktion und der Leistungen für die Umstrukturierung und
-die Umstellung von Rebflächen sowie der Leistungen für
-Ernteversicherungen und die Durchführung von Investitionen.
+Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
+über die Gewährung von Beihilfen, Vergütungen und sonstigen
+Vergünstigungen (Vergünstigungen) im Rahmen der gemeinsamen
+Marktorganisation für landwirtschaftliche Erzeugnisse hinsichtlich des
+Weinsektors mit Ausnahme der Vergütungen für die Aufgabe der
+Produktion und der Leistungen für die Umstrukturierung und die
+Umstellung von Rebflächen sowie der Leistungen für Ernteversicherungen
+und die Durchführung von Investitionen.
 
 
 ## § 2 Zuständige Stellen
@@ -68,18 +69,20 @@ sofern sie von der zuständigen Stelle nicht ausdrücklich zugelassen
 wird.
 
 
-## § 5 Absatzförderung auf Drittlandsmärkten
+## § 5 Absatzförderung
 
-(1) Vergünstigungen zur Absatzförderung auf Drittlandsmärkten nach
-Artikel 103p der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-1) in Verbindung mit § 3b Absatz 2 Satz 1 Nummer 1 des Weingesetzes in
-der Fassung der Bekanntmachung vom 16. Mai 2001 (BGBl. I S. 985), das
-zuletzt durch das Gesetz vom 5. August 2010 (BGBl. I S. 1136) geändert
-worden ist, werden bis zum Ablauf des 31. Juli 2013 nach Maßgabe der
-Absätze 2 bis 7 gewährt.
+(1) Vergünstigungen zur Absatzförderung in Mitgliedstaaten nach
+Artikel 45 Absatz 1 Buchstabe a oder in Drittländern nach Artikel 45
+Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 des
+Europäischen Parlaments und des Rates vom 17. Dezember 2013 über eine
+gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse und
+zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+(EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+S. 671) in Verbindung mit § 3b Absatz 2 Satz 1 des Weingesetzes in der
+Fassung der Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66), das
+zuletzt durch Artikel 2 des Gesetzes vom 20. April 2013 (BGBl. I S.
+917) geändert worden ist, werden nach Maßgabe der Absätze 2 bis 7
+gewährt.
 
 (2) Für Maßnahmen im Sinne des Absatzes 1 werden Vergünstigungen in
 Höhe von 50 vom Hundert der förderfähigen Ausgaben gewährt.
@@ -90,18 +93,22 @@ unter Verwendung des bei der Bundesanstalt erhältlichen
 Antragsformulars vollständig ausgefüllt bei der Bundesanstalt
 einzureichen (Ausschlussfrist).
 
-(4) Die Bundesanstalt prüft innerhalb von vier Wochen ab Eingang des
-Antrags auf Gewährung einer Vergünstigung, ob die Voraussetzungen für
-die Gewährung der Vergünstigung erfüllt sind und trifft nach Maßgabe
-der in Artikel 5 Absatz 2 Buchstabe a bis d der Verordnung (EG) Nr.
-555/2008 der Kommission vom 27. Juni 2008 mit
-Durchführungsbestimmungen zur Verordnung (EG) Nr. 479/2008 des Rates
-über die gemeinsame Marktorganisation für Wein hinsichtlich der
-Stützungsprogramme, des Handels mit Drittländern, des
-Produktionspotentials und der Kontrollen im Weinsektor (ABl. L 170 vom
+(4) Die Bundesanstalt prüft innerhalb von drei Monaten ab Eingang des
+Antrags auf Gewährung einer Vergünstigung für die Absatzförderung in
+Drittländern, ob die Voraussetzungen für die Gewährung der
+Vergünstigung erfüllt sind und trifft nach Maßgabe der in Artikel 5
+Absätze 2 und 3 der Verordnung (EG) Nr. 555/2008 der Kommission vom
+27\. Juni 2008 mit Durchführungsbestimmungen zur Verordnung (EG) Nr.
+479/2008 des Rates über die gemeinsame Marktorganisation für Wein
+hinsichtlich der Stützungsprogramme, des Handels mit Drittländern, des
+Produktionspotenzials und der Kontrollen im Weinsektor (ABl. L 170 vom
 30\.6.2008, S. 1) genannten Kriterien im Rahmen der verfügbaren
 Fördermittel eine Auswahl aus den Maßnahmen, für die ein Antrag auf
-Gewährung einer Vergünstigung nach Absatz 3 gestellt worden ist.
+Gewährung einer Vergünstigung nach Absatz 3 gestellt worden ist. Satz
+1 gilt entsprechend für Anträge auf Gewährung einer Vergünstigung für
+die Absatzförderung in Mitgliedstaaten, sofern die in den Artikeln 5b
+bis 5fa der Verordnung (EG) Nr. 555/2008 genannten Kriterien
+vorliegen.
 
 (5) Die Gewährung der Vergünstigung erfolgt nach Abschluss eines
 Vertrages zwischen der Bundesanstalt und dem Antragsteller, dessen
@@ -127,8 +134,8 @@ Anhänge enthält:
 
 
 Der Mustervertrag nebst Anhängen kann bei der Bundesanstalt bezogen
-oder im Internet unter
-www.ble.de/absatzmustervertrag              eingesehen werden.
+oder im Internet unter www.ble.de/absatzmustervertrag eingesehen
+werden.
 
 (7) Mit Abschluss der Maßnahme hat der Empfänger der Vergünstigung der
 Bundesanstalt unter Verwendung des von der Bundesanstalt vorgegebenen

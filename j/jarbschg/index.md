@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zum Schutz der arbeitenden Jugend
+Title: Gesetz zum Schutze der arbeitenden Jugend
 jurabk: JArbSchG
 layout: default
 origslug: jarbschg
@@ -7,7 +7,7 @@ slug: jarbschg
 
 ---
 
-# Gesetz zum Schutz der arbeitenden Jugend (JArbSchG)
+# Gesetz zum Schutze der arbeitenden Jugend (JArbSchG)
 
 Ausfertigungsdatum
 :   1976-04-12
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 965
 
 Zuletzt geändert durch
-:   Art. 15 G v. 7.12.2011 I 2592
+:   Art. 13 G v. 10.3.2017 I 420
 
 
 ## Eingangsformel
@@ -31,8 +31,9 @@ beschlossen:
 
 ### § 1 Geltungsbereich
 
-(1) Dieses Gesetz gilt für die Beschäftigung von Personen, die noch
-nicht 18 Jahre alt sind,
+(1) Dieses Gesetz gilt in der Bundesrepublik Deutschland und in der
+ausschließlichen Wirtschaftszone für die Beschäftigung von Personen,
+die noch nicht 18 Jahre alt sind,
 
 1.  in der Berufsausbildung,
 
@@ -658,7 +659,7 @@ einem Urlaub von 30 Werktagen 11,6 vom Hundert, bei einem Urlaub von
 
 #### § 20 Binnenschiffahrt
 
-In der Binnenschiffahrt gelten folgende Abweichungen:
+(1) In der Binnenschiffahrt gelten folgende Abweichungen:
 
 1.  Abweichend von § 12 darf die Schichtzeit Jugendlicher über 16 Jahre
     während der Fahrt bis auf 14 Stunden täglich ausgedehnt werden, wenn
@@ -683,6 +684,42 @@ In der Binnenschiffahrt gelten folgende Abweichungen:
 
 
 
+(2) In der gewerblichen Binnenschifffahrt hat der Arbeitgeber
+Aufzeichnungen nach Absatz 3 über die tägliche Arbeits- oder Freizeit
+jedes Jugendlichen zu führen, um eine Kontrolle der Einhaltung der §§
+8 bis 21a dieses Gesetzes zu ermöglichen. Die Aufzeichnungen sind in
+geeigneten Zeitabständen, spätestens bis zum nächsten Monatsende,
+gemeinsam vom Arbeitgeber oder seinem Vertreter und von dem
+Jugendlichen zu prüfen und zu bestätigen. Im Anschluss müssen die
+Aufzeichnungen für mindestens zwölf Monate an Bord aufbewahrt werden
+und dem Jugendlichen ist eine Kopie der bestätigten Aufzeichnungen
+auszuhändigen. Der Jugendliche hat die Kopien daraufhin zwölf Monate
+für eine Kontrolle bereitzuhalten.
+
+(3) Die Aufzeichnungen nach Absatz 2 müssen mindestens folgende
+Angaben enthalten:
+
+1.  Name des Schiffes,
+
+
+2.  Name des Jugendlichen,
+
+
+3.  Name des verantwortlichen Schiffsführers,
+
+
+4.  Datum des jeweiligen Arbeits- oder Ruhetages,
+
+
+5.  für jeden Tag der Beschäftigung, ob es sich um einen Arbeits- oder um
+    einen Ruhetag handelt sowie
+
+
+6.  Beginn und Ende der täglichen Arbeitszeit oder der täglichen Freizeit.
+
+
+
+
 
 #### § 21 Ausnahmen in besonderen Fällen
 
@@ -695,7 +732,7 @@ Verfügung stehen.
 hinaus Mehrarbeit geleistet, so ist sie durch entsprechende Verkürzung
 der Arbeitszeit innerhalb der folgenden drei Wochen auszugleichen.
 
-(3)
+(3) (weggefallen)
 
 
 #### § 21a Abweichende Regelungen
@@ -804,13 +841,11 @@ nicht zu befürchten ist.
 
 
 6.  mit Arbeiten, bei denen sie schädlichen Einwirkungen von Gefahrstoffen
-    im Sinne des Chemikaliengesetzes ausgesetzt sind,
+    im Sinne der Gefahrstoffverordnung ausgesetzt sind,
 
 
 7.  mit Arbeiten, bei denen sie schädlichen Einwirkungen von biologischen
-    Arbeitsstoffen im Sinne der Richtlinie 90/679/EWG des Rates vom 26.
-    November 1990 zum Schutze der Arbeitnehmer gegen Gefährdung durch
-    biologische Arbeitsstoffe bei der Arbeit ausgesetzt sind.
+    Arbeitsstoffen im Sinne der Biostoffverordnung ausgesetzt sind.
 
 
 
@@ -829,11 +864,10 @@ Jugendlicher, soweit
 
 
 
-Satz 1 findet keine Anwendung auf den absichtlichen Umgang mit
-biologischen Arbeitsstoffen der Gruppen 3 und 4 im Sinne der
-Richtlinie 90/679/EWG des Rates vom 26. November 1990 zum Schutze der
-Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei der
-Arbeit.
+Satz 1 findet keine Anwendung auf gezielte Tätigkeiten mit
+biologischen Arbeitsstoffen der Risikogruppen 3 und 4 im Sinne der
+Biostoffverordnung sowie auf nicht gezielte Tätigkeiten, die nach der
+Biostoffverordnung der Schutzstufe 3 oder 4 zuzuordnen sind.
 
 (3) Werden Jugendliche in einem Betrieb beschäftigt, für den ein
 Betriebsarzt oder eine Fachkraft für Arbeitssicherheit verpflichtet
@@ -913,7 +947,7 @@ ist.
     Freiheitsstrafe von mehr als drei Monaten,
 
 
-3.  wegen einer Straftat nach den §§ 109h, 171, 174 bis 184g, 225, 232 bis
+3.  wegen einer Straftat nach den §§ 109h, 171, 174 bis 184i, 225, 232 bis
     233a des Strafgesetzbuches,
 
 
@@ -1106,9 +1140,10 @@ ausbildet, darf sie nicht körperlich züchtigen.
 (2) Wer Jugendliche beschäftigt, muß sie vor körperlicher Züchtigung
 und Mißhandlung und vor sittlicher Gefährdung durch andere bei ihm
 Beschäftigte und durch Mitglieder seines Haushalts an der
-Arbeitsstätte und in seinem Haus schützen. Er darf Jugendlichen unter
-16 Jahren keine alkoholischen Getränke und Tabakwaren, Jugendlichen
-über 16 Jahre keinen Branntwein geben.
+Arbeitsstätte und in seinem Haus schützen. Soweit deren Abgabe nach §
+9 Absatz 1 oder § 10 Absatz 1 und 4 des Jugendschutzgesetzes verboten
+ist, darf der Arbeitgeber Jugendlichen keine alkoholischen Getränke ,
+Tabakwaren oder anderen dort genannten Erzeugnisse geben.
 
 
 ### Vierter Titel - Gesundheitliche Betreuung
@@ -1216,7 +1251,8 @@ des Jugendlichen auf Grund der Untersuchungen zu beurteilen,
     bestimmter Zeiten gefährdet wird,
 
 
-2.  ob besondere der Gesundheit dienende Maßnahmen erforderlich sind,
+2.  ob besondere der Gesundheit dienende Maßnahmen einschließlich
+    Maßnahmen zur Verbesserung des Impfstatus erforderlich sind,
 
 
 3.  ob eine außerordentliche Nachuntersuchung (§ 35 Abs. 1) erforderlich
@@ -1234,7 +1270,8 @@ des Jugendlichen auf Grund der Untersuchungen zu beurteilen,
     Entwicklung des Jugendlichen für gefährdet hält,
 
 
-3.  die besonderen der Gesundheit dienenden Maßnahmen,
+3.  die besonderen der Gesundheit dienenden Maßnahmen einschließlich
+    Maßnahmen zur Verbesserung des Impfstatus,
 
 
 4.  die Anordnung einer außerordentlichen Nachuntersuchung (§ 35 Abs. 1).
@@ -1264,7 +1301,8 @@ mitzuteilen:
     Entwicklung des Jugendlichen für gefährdet hält,
 
 
-3.  die besonderen der Gesundheit dienenden Maßnahmen,
+3.  die besonderen der Gesundheit dienenden Maßnahmen einschließlich
+    Maßnahmen zur Verbesserung des Impfstatus,
 
 
 4.  die Anordnung einer außerordentlichen Nachuntersuchung (§ 35 Abs. 1).
@@ -1655,9 +1693,8 @@ fahrlässig
     Arbeitszeit hinaus beschäftigt,
 
 
-6.  entgegen § 9 Abs. 1 oder 4 in Verbindung mit Absatz 1 eine dort
-    bezeichnete Person an Berufsschultagen oder in Berufsschulwochen nicht
-    freistellt,
+6.  entgegen § 9 Abs. 1 eine dort bezeichnete Person an Berufsschultagen
+    oder in Berufsschulwochen nicht freistellt,
 
 
 7.  entgegen § 10 Abs. 1 einen Jugendlichen für die Teilnahme an Prüfungen
@@ -1725,8 +1762,8 @@ fahrlässig
     beschäftigt,
 
 
-21. entgegen § 31 Abs. 2 Satz 2 einem Jugendlichen für seine Altersstufe
-    nicht zulässige Getränke oder Tabakwaren gibt,
+21. entgegen § 31 Abs. 2 Satz 2 einem Jugendlichen ein dort genanntes
+    Getränk, Tabakwaren oder ein dort genanntes Erzeugnis gibt,
 
 
 22. entgegen § 32 Abs. 1 einen Jugendlichen ohne ärztliche Bescheinigung
@@ -1820,6 +1857,14 @@ fahrlässig
 2.  entgegen § 11 Abs. 3 den Aufenthalt in Arbeitsräumen gestattet,
 
 
+2a. entgegen § 20 Absatz 2 Satz 1 eine Aufzeichnung nicht oder nicht
+    richtig führt,
+
+
+2b. entgegen § 20 Absatz 2 Satz 3 eine Aufzeichnung nicht oder nicht
+    mindestens zwölf Monate aufbewahrt,
+
+
 3.  entgegen § 29 einen Jugendlichen über Gefahren nicht, nicht richtig
     oder nicht rechtzeitig unterweist,
 
@@ -1887,12 +1932,9 @@ und 59 erlassen.
 
 ### § 61 Beschäftigung von Jugendlichen auf Kauffahrteischiffen
 
-(1) Für die Beschäftigung von Jugendlichen auf Kauffahrteischiffen als
-Besatzungsmitglieder im Sinne des § 3 des Seemannsgesetzes gilt an
-Stelle dieses Gesetzes das Seemannsgesetz mit den nachfolgenden
-Änderungen.
-
-(2)
+Für die Beschäftigung von Jugendlichen als Besatzungsmitglieder auf
+Kauffahrteischiffen im Sinne des § 3 des Seearbeitsgesetzes gilt
+anstelle dieses Gesetzes das Seearbeitsgesetz.
 
 
 ### § 62 Beschäftigung im Vollzug einer Freiheitsentziehung
@@ -1934,7 +1976,7 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 (1) Dieses Gesetz tritt am 1. Mai 1976 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 
 (3) Die auf Grund des § 37 Abs. 2 und des § 53 des
 Jugendarbeitsschutzgesetzes vom 9. August 1960, des § 20 Abs. 1 des

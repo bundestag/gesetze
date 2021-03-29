@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Geltendmachung von Unterhaltsansprüchen im Ausland
 jurabk: UhAnsprAuslÜbk
 layout: default
-origslug: uhansprausl_bk
+origslug: uhansprausluebk
 slug: uhansprausluebk
 
 ---

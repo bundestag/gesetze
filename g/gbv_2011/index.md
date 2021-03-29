@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 341
 
+Zuletzt geändert durch
+:   Art. 2 V v. 17.3.2017 I 568
+
 
 ## Eingangsformel
 
@@ -49,37 +52,51 @@ Güter mit Seeschiffen anzuwenden.
 
 ## § 2 Befreiungen
 
-Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
+(1) Die Vorschriften dieser Verordnung gelten nicht für Unternehmen,
 
-1.  deren Tätigkeiten sich auf Beförderungen gefährlicher Güter beziehen,
-    deren Freistellung von den Vorschriften des ADR/RID/ADN/International
-    Maritime Dangerous Goods Code (IMDG-Code) geregelt ist oder sich auf
-    Mengen je Beförderungseinheit erstrecken, die unterhalb der in
-    Unterabschnitt 1.1.3.6 ADR festgelegten Mengen liegen, oder die
-    ausschließlich Beförderungen nach Kapitel 3.4 und 3.5 ADR/RID/ADN
-    /IMDG-Code durchführen,
-
-
-2.  die in einem Kalenderjahr an der Beförderung von nicht mehr als 50
-    Tonnen netto gefährlicher Güter für den Eigenbedarf in Erfüllung
-    betrieblicher Aufgaben beteiligt sind, wobei dies bei radioaktiven
-    Stoffen nur bei der Beförderung der UN-Nummern 2908 bis 2911 gilt,
-
-
-3.  denen ausschließlich Pflichten als Fahrzeugführer, Schiffsführer,
+1.  denen ausschließlich Pflichten als Fahrzeugführer, Schiffsführer,
     Empfänger, Reisender, Hersteller und Rekonditionierer von Verpackungen
-    oder als Stelle für Inspektionen und Prüfungen von Großpackmitteln
-    (IBC) zugewiesen worden sind oder
+    und als Stelle für Inspektionen und Prüfungen von Großpackmitteln
+    (IBC) zugewiesen sind,
 
 
-4.  die ausschließlich als Auftraggeber des Absenders an der Beförderung
-    gefährlicher Güter von nicht mehr als 50 Tonnen netto pro Kalenderjahr
-    beteiligt sind, ausgenommen radioaktive Stoffe der Klasse 7 und
-    gefährliche Güter der Beförderungskategorie 0 nach Absatz 1.1.3.6.3
-    ADR.
+2.  denen ausschließlich Pflichten als Auftraggeber des Absenders
+    zugewiesen sind und die an der Beförderung gefährlicher Güter von
+    nicht mehr als 50 Tonnen netto je Kalenderjahr beteiligt sind,
+    ausgenommen radioaktive Stoffe der Klasse 7 und gefährliche Güter der
+    Beförderungskategorie 0 nach Absatz 1.1.3.6.3 ADR,
+
+
+3.  denen ausschließlich Pflichten als Entlader zugewiesen sind und die an
+    der Beförderung gefährlicher Güter von nicht mehr als 50 Tonnen netto
+    je Kalenderjahr beteiligt sind,
+
+
+4.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter erstreckt,
+    die von den Vorschriften des ADR/RID/ADN/IMDG-Code freigestellt sind,
+
+
+5.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter im
+    Straßen-, Eisenbahn-, Binnenschiffs- oder Seeverkehr erstreckt, deren
+    Mengen die in Unterabschnitt 1.1.3.6 ADR festgelegten höchstzulässigen
+    Mengen nicht überschreiten,
+
+
+6.  deren Tätigkeit sich auf die Beförderung gefährlicher Güter erstreckt,
+    die nach den Bedingungen des Kapitels 3.4 und 3.5 ADR/RID/ADN/IMDG-
+    Code freigestellt sind, und
+
+
+7.  die gefährliche Güter von nicht mehr als 50 Tonnen netto je
+    Kalenderjahr für den Eigenbedarf in Erfüllung betrieblicher Aufgaben
+    befördern, wobei dies bei radioaktiven Stoffen nur für solche der UN-
+    Nummern 2908 bis 2911 gilt.
 
 
 
+
+(2) Die Befreiungstatbestände nach Absatz 1 können auch nebeneinander
+in Anspruch genommen werden.
 
 
 ## § 3 Bestellung von Gefahrgutbeauftragten
@@ -161,9 +178,10 @@ Voraussetzungen nach Absatz 1 bis 5 durchführen.
 
 ## § 6 Prüfungen
 
-(1) Die Prüfung besteht aus einer schriftlichen Prüfung. Die
-Grundsätze der Prüfungen richten sich nach Absatz 1.8.3.12.2 bis
-1\.8.3.12.4 ADR/RID/ADN.
+(1) Die Prüfung besteht aus einer schriftlichen Prüfung, die ganz oder
+teilweise auch als elektronische Prüfung durchgeführt werden kann. Die
+Grundsätze der Prüfung richten sich nach Absatz 1.8.3.12.2 bis
+1\.8.3.12.5 ADR/RID/ADN.
 
 (2) Die nach einer Schulung abzulegende Prüfung nach Absatz 1.8.3.12.4
 ADR/RID/ADN darf einmal ohne nochmalige Schulung wiederholt werden.
@@ -187,8 +205,8 @@ Satz 2 gilt entsprechend. Die Höchstpunktzahl ist jedoch um 50 vom
 Hundert zu reduzieren.
 
 (5) Die Prüfungsfragen sind aus einer Sammlung auszuwählen, die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung veröffentlicht
-wird.
+Bundesministerium für Verkehr und digitale Infrastruktur
+veröffentlicht wird.
 
 (6) Prüfungen dürfen nur bei Vorliegen aller Voraussetzungen nach
 Absatz 1 bis 5 durchgeführt werden.
@@ -293,6 +311,10 @@ Jahresbericht muss mindestens enthalten:
 
 
 
+Der Jahresbericht muss keine Angaben über die Beförderung gefährlicher
+Güter im Luftverkehr enthalten. Die anzugebende Gesamtmenge der
+gefährlichen Güter schließt auch die empfangenen gefährlichen Güter
+ein.
 
 (6) Der Gefahrgutbeauftragte muss den Schulungsnachweis nach § 4 der
 zuständigen Behörde auf Verlangen vorlegen. Er hat dafür zu sorgen,

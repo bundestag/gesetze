@@ -135,14 +135,13 @@ eingeholt.
 ## § 5
 
 (1) Die Weiterleitung von Einzelangaben nach
-§ 12 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke
-in der im
+§ 12 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 29-1, veröffentlichten
 bereinigten Fassung, zuletzt geändert durch Artikel 52 des
 Einführungsgesetzes zur Abgabenordnung vom 14. Dezember 1976 (BGBl. I
-S. 3341),              an die fachlich zuständigen obersten Bundes-
-und Landesbehörden und die von ihnen bestimmten Stellen und Personen
-ist ohne Nennung von Namen und Anschrift des Auskunftspflichtigen
+S. 3341), an die fachlich zuständigen obersten Bundes- und
+Landesbehörden und die von ihnen bestimmten Stellen und Personen ist
+ohne Nennung von Namen und Anschrift des Auskunftspflichtigen
 zugelassen.
 
 (2) Die Weiterleitung von Einzelangaben ist nur durch die für die
@@ -150,16 +149,16 @@ Statistik zuständigen Stellen des Bundes und der Länder zulässig. Die
 Weiterleitung zu steuerlichen Zwecken ist ausgeschlossen.
 
 (3)
-§ 12 Abs. 1 des Gesetzes über die Statistik für Bundeszwecke
-gilt auch für Personen, denen von diesem Gesetz erfaßte Einzelangaben
-zugeleitet werden.
+§ 12 Abs. 1 des Gesetzes über die Statistik für Bundeszwecke gilt auch
+für Personen, denen von diesem Gesetz erfaßte Einzelangaben zugeleitet
+werden.
 
 (4)
-§ 12 Abs. 4 des Gesetzes über die Statistik für Bundeszwecke
-gilt nicht für statistische Tabellen mit Bundes- oder
-Landesergebnissen oder mit Ergebnissen für Gebietsgliederungen zum
-Zwecke der Raumordnung, soweit Einzelangaben zur vollständigen
-Darstellung der Ergebnisse in den Tabellen erforderlich sind.
+§ 12 Abs. 4 des Gesetzes über die Statistik für Bundeszwecke gilt
+nicht für statistische Tabellen mit Bundes- oder Landesergebnissen
+oder mit Ergebnissen für Gebietsgliederungen zum Zwecke der
+Raumordnung, soweit Einzelangaben zur vollständigen Darstellung der
+Ergebnisse in den Tabellen erforderlich sind.
 
 
 ## § 6

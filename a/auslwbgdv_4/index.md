@@ -30,9 +30,9 @@ Bereinigungsgesetzes für deutsche Auslandsbonds vom 25. August 1952
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
 oder bei einer Ergänzung
-(§ 1 Abs. 2 des Gesetzes)              in das Verzeichnis
-aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes),
-soweit Frankreich als Begebungsland angegeben ist.
+(§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art
+einschließlich der Nebenurkunden (§ 5 des Gesetzes), soweit Frankreich
+als Begebungsland angegeben ist.
 
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der
 Auslandsbevollmächtigte" den für Frankreich nach § 8 Abs. 1 des

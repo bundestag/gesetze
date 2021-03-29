@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.9.2004 I 2552;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.3.2012 I 451
+:   Art. 4 Abs. 83 G v. 18.7.2016 I 1666
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -125,9 +125,11 @@ Registerprüfung von Amts wegen auf alle Erbkomponenten erstrecken.
 (3) Bei Rebe und Baumarten kann das Bundessortenamt auf Antrag die
 Registerprüfung später beginnen, und zwar bei
 
-1.  Sorten nach Artengruppe 6 der Anlage 2 bis zur Zulassung als
-    Ausgangsmaterial nach § 4 des Forstvermehrungsgutgesetzes vom 22. Mai
-    2002 (BGBl. I S. 1658) in der jeweils geltenden Fassung;
+1.  Sorten von Baumarten, soweit das Vermehrungsgut hinsichtlich des
+    Inverkehrbringens dem Forstvermehrungsgutgesetz unterliegt, bis zur
+    Zulassung als Ausgangsmaterial nach § 4 des
+    Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658) in der
+    jeweils geltenden Fassung;
 
 
 2.  Sorten von Obstarten einschließlich Unterlagssorten sowie von Gehölzen
@@ -328,7 +330,7 @@ nach Absatz 1 vorliegen, und erteilt dem Antragsteller hierüber einen
 Bescheid.
 
 
-## Abschnitt 3 - Kosten, Verkehr mit anderen Stellen
+## Abschnitt 3 - Gebühren und Auslagen
 
 
 
@@ -338,19 +340,20 @@ Bescheid.
 jeweiligen Gebührenverzeichnis (Anlagen 2 und 3).
 
 (2) Das Bundessortenamt erhebt nur die in § 10 Abs. 1 Nr. 1 bis 3 und
-5 des Verwaltungskostengesetzes bezeichneten Auslagen.
+5 des Verwaltungskostengesetzes in der bis zum 14. August 2013
+geltenden Fassung bezeichneten Auslagen.
 
 
 ### § 13 Prüfungsgebühren
 
-(1) Die Prüfungsgebühren (Gebührennummern 102, 202, 203, 204, 222 und
-232 der Anlage 2) werden, soweit in der Anlage nichts anderes bestimmt
-ist, für jede angefangene Prüfungsperiode erhoben. Die Gebührenschuld
-entsteht für jede Prüfungsperiode zu dem vom Bundessortenamt
-bestimmten Zeitpunkt. Die Gebühren werden nicht erhoben für eine
-Prüfungsperiode, in der das Bundessortenamt die Prüfung der Sorte oder
-Erhaltungszüchtung aus einem vom Antragsteller nicht zu vertretenden
-Grund nicht begonnen hat.
+(1) Die Prüfungsgebühren (Gebührennummern 102, 202, 203, 204, 222, 232
+und 251 der Anlage 2) werden, soweit in der Anlage nichts anderes
+bestimmt ist, für jede angefangene Prüfungsperiode erhoben. Die
+Gebührenschuld entsteht für jede Prüfungsperiode zu dem vom
+Bundessortenamt bestimmten Zeitpunkt. Die Gebühren werden nicht
+erhoben für eine Prüfungsperiode, in der das Bundessortenamt die
+Prüfung der Sorte oder Erhaltungszüchtung aus einem vom Antragsteller
+nicht zu vertretenden Grund nicht begonnen hat.
 
 (2) Können bei Sorten mehrjähriger Arten wegen der artbedingten
 Entwicklung der Pflanzen die Ausprägungen der Merkmale oder
@@ -429,11 +432,11 @@ Bundessortenamt in den Angelegenheiten, für die es nach § 37 des
 Saatgutverkehrsgesetzes zuständig ist.
 
 
-### § 16 Übergangsvorschrift
+### § 16 Übergangsregelung
 
 Prüfungsgebühren, bei denen die Gebührenschuld nach § 13 Absatz 1 Satz
-2 bis zum 1. Januar 2010 entstanden ist, sind nach den bis zum 8.
-Oktober 2009 geltenden Vorschriften dieser Verordnung zu erheben.
+2 vor dem 1. Januar 2016 entstanden ist, sind nach den bis zum 31.
+Dezember 2015 geltenden Vorschriften dieser Verordnung zu erheben.
 
 
 ### § 17
@@ -539,11 +542,12 @@ Fundstelle des Originaltextes: BGBl. I 2007, 578 - 579
 
 
 
+(zu §§ 12 bis 14)
 
-### Anlage 2 (zu § 2 Absatz 3, §§ 12 bis 14) Gebührenverzeichnis
+### Anlage 2 Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2009 3233 - 3239;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2014, 1938 - 1944)
+
 ## **Vorbemerkungen**
 
 Die im Gebührenverzeichnis aufgeführten Artengruppen werden wie folgt
@@ -552,54 +556,73 @@ gebildet:
 1   Artengruppe 1
     **Getreide einschließlich Mais**
 
-    Unterartengruppe 1.1
-    Winterweichweizen, Wintergerste, Winterroggen, Wintertriticale,
-    Sommergerste, Mais
+    *   Unterartengruppe 1.1
+        Winterweichweizen, Wintergerste, Winterroggen, Wintertriticale,
+        Sommergerste, Mais
 
-    Unterartengruppe 1.2
-    Sommerhafer, Sommerweichweizen, Mohrenhirse, Sudangras und Hybriden
-    aus der Kreuzung von Sorghum bicolor x Sorghum sudanense
 
-    Unterartengruppe 1.3
-    Sonstige Getreidearten
+    *   Unterartengruppe 1.2
+        Sommerhafer, Sommerweichweizen, Mohrenhirse, Sudangras und Hybriden
+        aus der Kreuzung von Sorghum bicolor x Sorghum sudanense
+
+
+    *   Unterartengruppe 1.3
+        Sonstige Getreidearten
+
+
+
 
 
 2   Artengruppe 2
     **Futterpflanzen**
 
-    Unterartengruppe 2.1
-    Deutsches Weidelgras
+    *   Unterartengruppe 2.1
+        Deutsches Weidelgras
 
-    Unterartengruppe 2.2
-    Welsches Weidelgras, Einjähriges Weidelgras, Bastardweidelgras,
-    Schafschwingel, Rotschwingel, Rohrschwingel, Wiesenschwingel,
-    Wiesenrispe, Wiesenlieschgras, Ölrettich, Futtererbse, Ackerbohne
 
-    Unterartengruppe 2.3
-    Sonstige Futterpflanzen
+    *   Unterartengruppe 2.2
+        Welsches Weidelgras, Einjähriges Weidelgras, Bastardweidelgras,
+        Schafschwingel, Rotschwingel, Rohrschwingel, Wiesenschwingel,
+        Wiesenrispe, Wiesenlieschgras, Ölrettich, Futtererbse, Ackerbohne
+
+
+    *   Unterartengruppe 2.3
+        Sonstige Futterpflanzen
+
+
+
 
 
 3   Artengruppe 3
     **Öl- und Faserpflanzen**
 
-    Unterartengruppe 3.1
-    Winterraps
+    *   Unterartengruppe 3.1
+        Winterraps
 
-    Unterartengruppe 3.2
-    Sommerraps, Senfarten, Sonnenblume
 
-    Unterartengruppe 3.3
-    Sonstige Öl- und Faserpflanzen
+    *   Unterartengruppe 3.2
+        Sommerraps, Senfarten, Sonnenblume
+
+
+    *   Unterartengruppe 3.3
+        Sonstige Öl- und Faserpflanzen
+
+
+
 
 
 4   Artengruppe 4
     **Rüben**
 
-    Unterartengruppe 4.1
-    Zuckerrüben
+    *   Unterartengruppe 4.1
+        Zuckerrüben
 
-    Unterartengruppe 4.2
-    Runkelrüben
+
+    *   Unterartengruppe 4.2
+        Runkelrüben
+
+
+
 
 
 5   Artengruppe 5
@@ -629,12 +652,16 @@ gebildet:
 11  Artengruppe 11
     **Zierpflanzenarten**
 
-    Unterartengruppe 11.1
-    Rosen, Pelargonien, Impatiens, Petunien, Calluna, Kalanchoe,
-    Calibrachoa
+    *   Unterartengruppe 11.1
+        Rosen, Pelargonien, Impatiens, Petunien, Calluna, Kalanchoe,
+        Calibrachoa
 
-    Unterartengruppe 11.2
-    Sonstige Zierpflanzenarten
+
+    *   Unterartengruppe 11.2
+        Sonstige Zierpflanzenarten
+
+
+
 
 
 
@@ -682,12 +709,12 @@ gebildet:
 
     *   § 22
 
-    *   520
+    *   600
 
 
 *    *   102
 
-    *   Registerprüfung
+    *   **Registerprüfung**
 
     *   § 26 Abs. 1 bis 5
 
@@ -698,7 +725,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.1
 
     *
-    *   1 400
+    *   1 610
 
 
 *    *   102.2
@@ -706,7 +733,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   102.3
@@ -714,7 +741,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.3
 
     *
-    *   800
+    *   920
 
 
 *    *   102.4
@@ -722,7 +749,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.1
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   102.5
@@ -730,7 +757,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   102.6
@@ -738,7 +765,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.3
 
     *
-    *   800
+    *   920
 
 
 *    *   102.7
@@ -746,7 +773,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.1
 
     *
-    *   1 400
+    *   1 610
 
 
 *    *   102.8
@@ -754,7 +781,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   102.9
@@ -762,7 +789,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.3
 
     *
-    *   800
+    *   920
 
 
 *    *   102.10
@@ -770,7 +797,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.1
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   102.11
@@ -778,7 +805,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.2
 
     *
-    *   800
+    *   920
 
 
 *    *   102.12
@@ -786,7 +813,7 @@ gebildet:
     *   bei Sorten der Artengruppe 5
 
     *
-    *   1 300
+    *   1 500
 
 
 *    *   102.13
@@ -794,7 +821,7 @@ gebildet:
     *   bei Sorten der Artengruppe 6
 
     *
-    *   1 300
+    *   1 500
 
 
 *    *   102.14
@@ -802,7 +829,7 @@ gebildet:
     *   bei Sorten der Artengruppe 7
 
     *
-    *   800
+    *   920
 
 
 *    *   102.15
@@ -810,7 +837,7 @@ gebildet:
     *   bei Sorten der Artengruppe 8
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   102.16
@@ -818,7 +845,7 @@ gebildet:
     *   bei Sorten der Artengruppe 9
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   102.17
@@ -826,7 +853,7 @@ gebildet:
     *   bei Sorten der Artengruppe 10
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   102.18
@@ -834,7 +861,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 11.1
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   102.19
@@ -842,7 +869,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 11.2
 
     *
-    *   800
+    *   920
 
 
 *    *   102.20
@@ -852,7 +879,7 @@ gebildet:
 
     *   § 26 Abs. 2
 
-    *   310
+    *   360
 
 
 
@@ -990,11 +1017,11 @@ gebildet:
     *   1. Schutzjahr
 
     *
-    *   250
+    *   290
 
-    *   150
+    *   170
 
-    *   50
+    *   60
 
 
 *    *   110.1.2
@@ -1002,11 +1029,11 @@ gebildet:
     *   2. Schutzjahr
 
     *
-    *   300
+    *   350
 
-    *   200
+    *   230
 
-    *   100
+    *   120
 
 
 *    *   110.1.3
@@ -1014,11 +1041,11 @@ gebildet:
     *   3. Schutzjahr
 
     *
-    *   400
+    *   460
 
-    *   250
+    *   290
 
-    *   150
+    *   170
 
 
 *    *   110.1.4
@@ -1026,11 +1053,11 @@ gebildet:
     *   4. Schutzjahr
 
     *
-    *   500
+    *   580
 
-    *   300
+    *   350
 
-    *   200
+    *   230
 
 
 *    *   110.1.5
@@ -1038,11 +1065,11 @@ gebildet:
     *   5. Schutzjahr
 
     *
-    *   600
+    *   690
 
-    *   350
+    *   400
 
-    *   250
+    *   290
 
 
 *    *   110.1.6
@@ -1050,11 +1077,11 @@ gebildet:
     *   6. Schutzjahr
 
     *
-    *   700
+    *   810
 
-    *   400
+    *   460
 
-    *   300
+    *   350
 
 
 *    *   110.1.7
@@ -1062,11 +1089,11 @@ gebildet:
     *   7. Schutzjahr
 
     *
-    *   800
+    *   920
 
-    *   500
+    *   580
 
-    *   300
+    *   350
 
 
 *    *   110.1.8
@@ -1074,11 +1101,11 @@ gebildet:
     *   8. Schutzjahr und folgende je
 
     *
-    *   900
+    *   1 040
 
-    *   600
+    *   690
 
-    *   300
+    *   350
 
 
 *    *   110.2
@@ -1088,11 +1115,11 @@ gebildet:
 
     *   § 10c
 
-    *   150
+    *   170
 
-    *   100
+    *   120
 
-    *   50
+    *   60
 
 
 
@@ -1131,7 +1158,7 @@ gebildet:
 
     *   § 12 Abs. 1
 
-    *   620
+    *   710
 
 
 *    *   122
@@ -1153,7 +1180,7 @@ gebildet:
     *   § 31 Abs. 2 bis 4
         Nr. 1 und 2
 
-    *   520
+    *   600
 
 
 *    *   124
@@ -1172,7 +1199,7 @@ gebildet:
         § 31 Abs. 2 bis 4
         Nr. 1 und 2
 
-    *   520
+    *   600
 
 
 *    *   124.2
@@ -1181,7 +1208,7 @@ gebildet:
 
     *   § 12 Abs. 1
 
-    *   620
+    *   710
 
 
 *    *   124.3
@@ -1189,7 +1216,7 @@ gebildet:
     *   gegen eine andere Entscheidung
 
     *
-    *   160
+    *   180
 
 
 *    *   125
@@ -1199,7 +1226,7 @@ gebildet:
 
     *   § 26 Abs. 5
 
-    *   310
+    *   360
 
 
 
@@ -1246,7 +1273,7 @@ gebildet:
 
     *   § 42
 
-    *   370
+    *   430
 
 
 *    *   202
@@ -1262,7 +1289,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.1
 
     *
-    *   1 400
+    *   1 610
 
 
 *    *   202.2
@@ -1270,7 +1297,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   202.3
@@ -1278,7 +1305,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.3
 
     *
-    *   800
+    *   920
 
 
 *    *   202.4
@@ -1286,7 +1313,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.1
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   202.5
@@ -1294,7 +1321,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   202.6
@@ -1302,7 +1329,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.3
 
     *
-    *   800
+    *   920
 
 
 *    *   202.7
@@ -1310,7 +1337,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.1
 
     *
-    *   1 400
+    *   1 610
 
 
 *    *   202.8
@@ -1318,7 +1345,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.2
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   202.9
@@ -1326,7 +1353,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.3
 
     *
-    *   800
+    *   920
 
 
 *    *   202.10
@@ -1334,7 +1361,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.1
 
     *
-    *   1 000
+    *   1 150
 
 
 *    *   202.11
@@ -1342,7 +1369,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.2
 
     *
-    *   800
+    *   920
 
 
 *    *   202.12
@@ -1350,7 +1377,7 @@ gebildet:
     *   bei Sorten der Artengruppe 5
 
     *
-    *   1 300
+    *   1 500
 
 
 *    *   202.13
@@ -1358,7 +1385,7 @@ gebildet:
     *   bei Sorten der Artengruppe 6
 
     *
-    *   1 300
+    *   1 500
 
 
 *    *   202.13.1
@@ -1367,7 +1394,7 @@ gebildet:
 
     *   § 42 Abs. 4a
 
-    *   150
+    *   170
 
 
 *    *   202.14
@@ -1375,7 +1402,7 @@ gebildet:
     *   bei Sorten der Artengruppe 7
 
     *
-    *   800
+    *   920
 
 
 *    *   202.15
@@ -1383,7 +1410,7 @@ gebildet:
     *   bei Sorten der Artengruppe 8
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   202.16
@@ -1391,7 +1418,7 @@ gebildet:
     *   bei Sorten der Artengruppe 9
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   202.17
@@ -1399,7 +1426,7 @@ gebildet:
     *   bei Sorten der Artengruppe 10
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   202.18
@@ -1407,7 +1434,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 11.1
 
     *
-    *   1 100
+    *   1 270
 
 
 *    *   202.19
@@ -1415,7 +1442,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 11.2
 
     *
-    *   800
+    *   920
 
 
 *    *   202.20
@@ -1424,7 +1451,7 @@ gebildet:
         einer anderen Stelle, einmalig
 
     *
-    *   310
+    *   360
 
 
 *    *   203
@@ -1440,7 +1467,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   203.2
@@ -1448,7 +1475,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   203.3
@@ -1456,7 +1483,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   203.4
@@ -1464,7 +1491,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   203.5
@@ -1472,7 +1499,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   203.6
@@ -1480,7 +1507,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   203.7
@@ -1488,7 +1515,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   203.8
@@ -1496,7 +1523,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   203.9
@@ -1504,7 +1531,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   203.10
@@ -1512,7 +1539,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.1
 
     *
-    *   4 600
+    *   5 290
 
 
 *    *   203.11
@@ -1520,7 +1547,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.2
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   203.12
@@ -1528,7 +1555,7 @@ gebildet:
     *   bei Sorten der Artengruppe 5
 
     *
-    *   2 900
+    *   260
 
 
 *    *   203.13
@@ -1536,7 +1563,7 @@ gebildet:
     *   Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   204
@@ -1552,7 +1579,7 @@ gebildet:
     *   durch gesonderten Anbau
 
     *
-    *   2 300
+    *   2 650
 
 
 *    *   204.2
@@ -1560,7 +1587,7 @@ gebildet:
     *   durch ergänzenden Anbau zur Registerprüfung
 
     *
-    *   290
+    *   330
 
 
 *    *   204.3
@@ -1569,7 +1596,7 @@ gebildet:
         Überwachung vorgenommener Prüfungen, einmalig
 
     *
-    *   470
+    *   540
 
 
 
@@ -1603,8 +1630,8 @@ gebildet:
 
 *    *   210
 
-    *   **Überwachung**                      der Erhaltung einer Sorte oder
-        einer weiteren Erhaltungszüchtung
+    *   **Überwachung** der Erhaltung einer Sorte oder einer weiteren
+        Erhaltungszüchtung
 
     *   § 37 Satz 2
 
@@ -1662,11 +1689,11 @@ gebildet:
     *   1. Zulassungsjahr
 
     *
-    *   250
+    *   290
 
-    *   150
+    *   170
 
-    *   50
+    *   60
 
 
 *    *   210.2
@@ -1674,11 +1701,11 @@ gebildet:
     *   2. Zulassungsjahr
 
     *
-    *   300
+    *   350
 
-    *   200
+    *   230
 
-    *   100
+    *   120
 
 
 *    *   210.3
@@ -1686,11 +1713,11 @@ gebildet:
     *   3. Zulassungsjahr
 
     *
-    *   400
+    *   460
 
-    *   250
+    *   290
 
-    *   150
+    *   170
 
 
 *    *   210.4
@@ -1698,11 +1725,11 @@ gebildet:
     *   4. Zulassungsjahr
 
     *
-    *   500
+    *   580
 
-    *   300
+    *   350
 
-    *   200
+    *   230
 
 
 *    *   210.5
@@ -1710,11 +1737,11 @@ gebildet:
     *   5. Zulassungsjahr
 
     *
-    *   600
+    *   690
 
-    *   350
+    *   400
 
-    *   250
+    *   290
 
 
 *    *   210.6
@@ -1722,11 +1749,11 @@ gebildet:
     *   6. Zulassungsjahr
 
     *
-    *   700
+    *   810
 
-    *   400
+    *   460
 
-    *   300
+    *   350
 
 
 *    *   210.7
@@ -1734,11 +1761,11 @@ gebildet:
     *   7. Zulassungsjahr
 
     *
-    *   800
+    *   920
 
-    *   500
+    *   580
 
-    *   300
+    *   350
 
 
 *    *   210.8
@@ -1747,11 +1774,11 @@ gebildet:
         und folgende je
 
     *
-    *   900
+    *   1 040
 
-    *   600
+    *   690
 
-    *   300
+    *   350
 
 
 
@@ -1762,7 +1789,7 @@ gebildet:
     *   Gebührentatbestand
 
     *   Bezogene Vorschrift
-[^F772611_01_BJNR000230986BJNE002407377]
+[^F787557_01_BJNR000230986BJNE002414301]
         (SaatG)
 
     *   Gebühr
@@ -1791,7 +1818,7 @@ gebildet:
     *   Entscheidung über die Verlängerung einer Sortenzulassung
 
     *
-    *   350
+    *   400
 
 
 *    *   222
@@ -1806,7 +1833,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   222.2
@@ -1814,7 +1841,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   222.3
@@ -1822,7 +1849,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 1.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   222.4
@@ -1830,7 +1857,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   222.5
@@ -1838,7 +1865,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   222.6
@@ -1846,7 +1873,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 2.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   222.7
@@ -1854,7 +1881,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.1
 
     *
-    *   2 900
+    *   3 340
 
 
 *    *   222.8
@@ -1862,7 +1889,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.2
 
     *
-    *   1 900
+    *   2 190
 
 
 *    *   222.9
@@ -1870,7 +1897,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 3.3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   222.10
@@ -1878,7 +1905,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.1
 
     *
-    *   4 600
+    *   5 290
 
 
 *    *   222.11
@@ -1886,7 +1913,7 @@ gebildet:
     *   bei Sorten der Unterartengruppe 4.2
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   222.12
@@ -1894,7 +1921,7 @@ gebildet:
     *   bei Sorten der Artengruppe 5
 
     *
-    *   2 900
+    *   260
 
 
 *    *   222.13
@@ -1902,7 +1929,7 @@ gebildet:
     *   Prüfung im Zwischenfruchtanbau bei Sorten der Artengruppen 1 bis 3
 
     *
-    *   1 200
+    *   1 380
 
 
 *    *   230
@@ -1918,7 +1945,7 @@ gebildet:
     *   Entscheidung über die Eintragung eines weiteren Züchters
 
     *
-    *   350
+    *   400
 
 
 *    *   232
@@ -1933,7 +1960,7 @@ gebildet:
     *   Prüfung einer weiteren Erhaltungszüchtung außer Artengruppe 6
 
     *
-    *   590
+    *   680
 
 
 *    *   232.2
@@ -1941,7 +1968,7 @@ gebildet:
     *   Prüfung einer weiteren Erhaltungszüchtung bei Artengruppe 6
 
     *
-    *   370
+    *   430
 
 
 *    *   240
@@ -1968,7 +1995,7 @@ gebildet:
     *   § 52 Abs. 2 bis 4
         Nr. 1 bis 8
 
-    *   350
+    *   400
 
 
 *    *   243
@@ -1978,7 +2005,7 @@ gebildet:
     *   § 52 Abs. 5
         in Verbindung mit § 52 Abs. 3 und 4 Nr. 5, 6 und 8
 
-    *   350
+    *   400
 
 
 *    *   244
@@ -1988,7 +2015,7 @@ gebildet:
 
     *   § 3 Abs. 2
 
-    *   200
+    *   230
 
 
 *    *   245
@@ -2005,7 +2032,7 @@ gebildet:
 
     *   § 14b Abs. 3
 
-    *   60
+    *   70
 
 
 *    *   245.2
@@ -2014,7 +2041,7 @@ gebildet:
 
     *   § 55 Abs. 2 Satz 1
 
-    *   200
+    *   230
 
 
 *    *   246
@@ -2025,7 +2052,7 @@ gebildet:
     *   § 36 Abs. 3 und
         § 52 Abs. 6
 
-    *   320
+    *   370
 
 
 *    *   247
@@ -2044,7 +2071,7 @@ gebildet:
         § 52 Abs. 2 bis 4
         Nr. 1 bis 8
 
-    *   350
+    *   400
 
 
 *    *   247.2
@@ -2054,7 +2081,7 @@ gebildet:
 
     *   § 36 Abs. 2 und 3
 
-    *   350
+    *   400
 
 
 *    *   247.3
@@ -2066,7 +2093,7 @@ gebildet:
         in Verbindung mit
         § 52 Abs. 3 und 4 Nr. 5, 6 und 8
 
-    *   350
+    *   400
 
 
 *    *   247.4
@@ -2076,7 +2103,7 @@ gebildet:
 
     *   § 3 Abs. 2
 
-    *   160
+    *   180
 
 
 *    *   247.5
@@ -2086,7 +2113,7 @@ gebildet:
 
     *   § 55 Abs. 2 Satz 1
 
-    *   160
+    *   180
 
 
 *    *   247.6
@@ -2094,7 +2121,7 @@ gebildet:
     *   gegen eine andere Entscheidung
 
     *
-    *   160
+    *   180
 
 
 *    *   248
@@ -2104,7 +2131,7 @@ gebildet:
 
     *   § 44 Abs. 5
 
-    *   310
+    *   360
 
 
 *    *   249
@@ -2114,16 +2141,17 @@ gebildet:
 
     *   § 3a Abs. 2 und 3
 
-    *   160
+    *   180
 
 
 *    *   250
 
     *   Registrierung des Hinweises auf die Erhaltungszüchtung
 
-    *   § 33 Abs. 8 SaatgutV
+    *   § 33 Abs. 8
+        SaatgutV
 
-    *   120
+    *   140
 
 
 *    *   251
@@ -2139,16 +2167,17 @@ gebildet:
 
     *   § 16 SaatgutV
 
-    *   140
+    *   160
 
 
 *    *   251.2
 
     *   Nachprüfung von Standardsaatgut
 
-    *   § 21 Abs. 4 SaatgutV
+    *   § 21 Abs. 4
+        SaatgutV
 
-    *   140
+    *   160
 
 
 *    *   **3**
@@ -2172,13 +2201,16 @@ gebildet:
 
 *    *   310
 
-    *   Rücknahme oder Widerruf einer Amtshandlung in den Fällen der
+    *   Rücknahme oder Widerruf eines Verwaltungsaktes in den Fällen der
         Gebührennummern 121, 221, 244, 245 und 246
 
-    *   75 v. H. der Amtshandlungsgebühr; Ermäßigung bis zu 25 v. H. der
-        Amtshandlungsgebühr oder Absehen von der Gebührenerhebung, wenn dies
-        der Billigkeit entspricht
-        (§ 15 Abs. 2 VwKostG)
+    *   75 v. H. der Gebühr für die individuell zurechenbare öffentliche
+        Leistung; Ermäßigung bis zu
+        25 v. H. der Gebühr für Leistungen
+        oder Absehen von der Gebührenerhebung, wenn dies der Billigkeit
+        entspricht
+        (§ 15 Abs. 2 VwKostG vom 23. Juni 1970 in der am 14. August 2013
+        geltenden Fassung)
 
 
 *    *   320
@@ -2196,11 +2228,13 @@ gebildet:
 
 
     Soweit nichts anderes angegeben.
-[^F772611_01_BJNR000230986BJNE002407377]: 
+[^F787557_01_BJNR000230986BJNE002414301]: 
+(zu § 12 Absatz 1 und § 13 Absatz 6)
 
-### Anlage 3 (zu § 12 Absatz 1 und § 13 Absatz 6) Gebührenverzeichnis für Erhaltungssorten
+### Anlage 3 Gebührenverzeichnis für Erhaltungssorten
 
-(Fundstelle: BGBl. I 2012, 451 - 452)
+(Fundstelle: BGBl. I 2012, 451 - 452; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 
 *    *   Gebühren-
@@ -2209,7 +2243,7 @@ gebildet:
     *   Gebührentatbestand
 
     *   Bezogene Vorschrift
-[^F776278_01_BJNR000230986BJNE002901377]
+[^F776278_01_BJNR000230986BJNE002905301]
         (SaatG)
 
     *   Gebühr
@@ -2269,7 +2303,7 @@ gebildet:
     *   bei Sorten landwirtschaftlicher Arten und Gemüsearten
 
     *
-    *   150
+    *   170
 
 
 *    *   402.2
@@ -2452,4 +2486,4 @@ gebildet:
 
 
     Soweit nichts anderes angegeben.
-[^F776278_01_BJNR000230986BJNE002901377]: 
+[^F776278_01_BJNR000230986BJNE002905301]: 

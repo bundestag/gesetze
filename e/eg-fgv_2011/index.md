@@ -17,34 +17,31 @@ Fundstelle
 :   BGBl I: 2011, 126
 
 Zuletzt geändert durch
-:   Art. 4 V v. 19.10.2012 I 2232
+:   Art. 7 V v. 23.3.2017 I 522
 
 [^F774777_01_BJNR012600011]:     Diese Verordnung dient der Umsetzung folgender Rechtsakte:
-    1\.                                                         Richtlinie
-    2007/46/EG des Europäischen Parlaments und des Rates vom 5. September
-    2007 zur Schaffung eines Rahmens für die Genehmigung von
+    1\.Richtlinie 2007/46/EG des Europäischen Parlaments und des Rates vom
+    5\. September 2007 zur Schaffung eines Rahmens für die Genehmigung von
     Kraftfahrzeugen und Kraftfahrzeuganhängern sowie von Systemen,
     Bauteilen und selbständigen technischen Einheiten für diese Fahrzeuge
     (ABl. L 263 vom 9.10.2007, S. 1);
 
 
-    2\.                                                         Richtlinie
-    2002/24/EG des Europäischen Parlaments und des Rates vom 18. März 2002
-    über die Typgenehmigung für zweirädrige oder dreirädrige
+    2\.Richtlinie 2002/24/EG des Europäischen Parlaments und des Rates vom
+    18\. März 2002 über die Typgenehmigung für zweirädrige oder dreirädrige
     Kraftfahrzeuge und zur Aufhebung der Richtlinie 92/61/EWG des Rates
     (ABl. L 124 vom 9.5.2002, S. 1), die zuletzt durch die Richtlinie
     2005/30/EG (ABl. L 106 vom 27.4.2005, S. 17) geändert worden ist;
 
 
-    3\.                                                         Richtlinie
-    2003/37/EG des Europäischen Parlaments und des Rates vom 26. Mai 2003
-    über die Typgenehmigung für land- oder forstwirtschaftliche
-    Zugmaschinen, ihre Anhänger und die von ihnen gezogenen
-    auswechselbaren Maschinen sowie für Systeme, Bauteile und selbständige
-    technische Einheiten dieser Fahrzeuge und zur Aufhebung der Richtlinie
-    74/150/EG (ABl. L 171 vom 9.7.2003, S. 1), die zuletzt durch die
-    Richtlinie 2005/67/EG (ABl. L 273 vom 19.10.2005, S. 17) geändert
-    worden ist.
+    3\.Richtlinie 2003/37/EG des Europäischen Parlaments und des Rates vom
+    26\. Mai 2003 über die Typgenehmigung für land- oder
+    forstwirtschaftliche Zugmaschinen, ihre Anhänger und die von ihnen
+    gezogenen auswechselbaren Maschinen sowie für Systeme, Bauteile und
+    selbständige technische Einheiten dieser Fahrzeuge und zur Aufhebung
+    der Richtlinie 74/150/EG (ABl. L 171 vom 9.7.2003, S. 1), die zuletzt
+    durch die Richtlinie 2005/67/EG (ABl. L 273 vom 19.10.2005, S. 17)
+    geändert worden ist.
 
 
 
@@ -205,12 +202,11 @@ Typgenehmigung oder die Einzelgenehmigung folgender Fahrzeuge:
 Die Anwendung der Richtlinie 2006/42/EG des Europäischen Parlaments
 und des Rates vom 17. Mai 2006 über Maschinen und zur Änderung der
 Richtlinie
-95/16/EG              (ABl. L 157 vom 9.6.2006, S. 24) bleibt
-unberührt.
+95/16/EG (ABl. L 157 vom 9.6.2006, S. 24) bleibt unberührt.
 
 (4) Die Einzelgenehmigung nach der Richtlinie
-2007/46/EG              kann für Fahrzeuge, die ausschließlich für
-Straßenrennen bestimmt sind, erteilt werden.
+2007/46/EG kann für Fahrzeuge, die ausschließlich für Straßenrennen
+bestimmt sind, erteilt werden.
 
 (5) Die Genehmigung wird dem Hersteller oder einem anderen
 Verfügungsberechtigten auf Antrag erteilt. Ein außerhalb des Gebietes,
@@ -248,15 +244,14 @@ Voraussetzungen für den zu genehmigenden Fahrzeugtyp oder die zu
 genehmigenden Systeme, Bauteile oder selbstständigen technischen
 Einheiten nach Artikel 8 Absatz 1 der Richtlinie 2007/46/EG vorliegen
 und nach Artikel 8 Absatz 2 der Richtlinie
-2007/46/EG              die Erfüllung der spezifischen Bestimmungen
-der Artikel 9 und 10 sichergestellt ist und die erforderlichen
-Prüfverfahren ordnungsgemäß und mit zufriedenstellendem Ergebnis
-durchgeführt wurden und der Antragsteller nachweist, dass er nach
-Anhang X der Richtlinie 2007/46/EG über ein wirksames System zur
-Überwachung der Übereinstimmung der Produktion verfügt, um zu
-gewährleisten, dass die herzustellenden Fahrzeuge, Systeme, Bauteile
-und selbstständigen technischen Einheiten jeweils mit dem genehmigten
-Typ übereinstimmen.
+2007/46/EG die Erfüllung der spezifischen Bestimmungen der Artikel 9
+und 10 sichergestellt ist und die erforderlichen Prüfverfahren
+ordnungsgemäß und mit zufriedenstellendem Ergebnis durchgeführt wurden
+und der Antragsteller nachweist, dass er nach Anhang X der Richtlinie
+2007/46/EG über ein wirksames System zur Überwachung der
+Übereinstimmung der Produktion verfügt, um zu gewährleisten, dass die
+herzustellenden Fahrzeuge, Systeme, Bauteile und selbstständigen
+technischen Einheiten jeweils mit dem genehmigten Typ übereinstimmen.
 
 (5) Die EG-Typgenehmigung kann mit Nebenbestimmungen versehen werden.
 
@@ -368,8 +363,8 @@ der Richtlinie 2007/46/EG geforderten Zusätze einzutragen sind.
 
 (1) Für Fahrzeuge wird eine nationale Kleinserien-Typgenehmigung nach
 Artikel 23 der Richtlinie
-2007/46/EG              erteilt, wenn die in Anhang IV oder Anhang XI
-der Richtlinie 2007/46/EG genannten Anforderungen erfüllt und die in
+2007/46/EG erteilt, wenn die in Anhang IV oder Anhang XI der
+Richtlinie 2007/46/EG genannten Anforderungen erfüllt und die in
 Anlage XII Teil A Abschnitt 2 der Richtlinie 2007/46/EG genannten
 höchstzulässigen Stückzahlen nicht überschritten werden. Der
 Einhaltung einzelner in Anhang IV oder Anhang XI der Richtlinie
@@ -385,11 +380,12 @@ der Richtlinie 2007/46/EG genannten Vorschriften darzulegen.
 
 (3) Abweichungen von den technischen Angaben, die das Kraftfahrt-
 Bundesamt bei Erteilung der nationalen Kleinserien-Typgenehmigung
-durch schriftlichen Bescheid für den genehmigten Typ festgelegt hat,
-sind dem Inhaber der Typgenehmigung nur gestattet, wenn diese durch
-einen entsprechenden Nachtrag ergänzt worden ist oder wenn das
-Kraftfahrt-Bundesamt auf Antrag festgestellt hat, dass für die
-vorgesehene Änderung eine Nachtragserlaubnis nicht erforderlich ist.
+durch Bescheid in Schriftform oder elektronischer Form für den
+genehmigten Typ festgelegt hat, sind dem Inhaber der Typgenehmigung
+nur gestattet, wenn diese durch einen entsprechenden Nachtrag ergänzt
+worden ist oder wenn das Kraftfahrt-Bundesamt auf Antrag festgestellt
+hat, dass für die vorgesehene Änderung eine Nachtragserlaubnis nicht
+erforderlich ist.
 
 (4) Auf Antrag desjenigen, der ein Fahrzeug in einem anderen
 Mitgliedstaat verkaufen, zulassen oder in Betrieb nehmen will, fertigt
@@ -437,24 +433,24 @@ Militärkraftfahrtstelle mitteilt.
 (1) Für ein Fahrzeug wird eine Einzelgenehmigung nach Artikel 24 der
 Richtlinie 2007/46/EG erteilt, wenn die in Anhang IV oder Anhang XI
 der Richtlinie
-2007/46/EG              genannten Vorschriften erfüllt werden. Der
-Einhaltung einzelner der in Anhang IV oder Anhang XI der Richtlinie
-2007/46/EG genannten Vorschriften bedarf es nicht, wenn das Fahrzeug
-die entsprechenden Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung
+2007/46/EG genannten Vorschriften erfüllt werden. Der Einhaltung
+einzelner der in Anhang IV oder Anhang XI der Richtlinie 2007/46/EG
+genannten Vorschriften bedarf es nicht, wenn das Fahrzeug die
+entsprechenden Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung
 erfüllt.
 
 (2) Sollen für ein Kraftfahrzeug der Klasse M
-1              jährlich mehr als 20 vom Hundert der in Anhang XII Teil
-A Nummer 2 der Richtlinie 2007/46/EG genannten höchstzulässigen
-Stückzahlen von neuen Kraftfahrzeugen eines gleichen Typs zugelassen
-oder in Betrieb genommen werden, muss eine EG-Kleinserien-
-Typgenehmigung nach § 9, eine nationale Kleinserien-Typgenehmigung
-nach § 11 oder eine EG-Typgenehmigung nach § 4 beantragt werden. Im
-Antrag hat der Antragsteller zu erklären, welche Anzahl gleichartiger
-Fahrzeuge genehmigt werden soll und dass die maximal mögliche
-Stückzahl nach Satz 1 nicht überschritten wird. Die Sätze 1 und 2
-finden keine Anwendung für die Einzelgenehmigung von Kraftfahrzeugen
-eines Herstellers, der bereits Inhaber einer Typgenehmigung ist, wenn
+1 jährlich mehr als 20 vom Hundert der in Anhang XII Teil A Nummer 2
+der Richtlinie 2007/46/EG genannten höchstzulässigen Stückzahlen von
+neuen Kraftfahrzeugen eines gleichen Typs zugelassen oder in Betrieb
+genommen werden, muss eine EG-Kleinserien-Typgenehmigung nach § 9,
+eine nationale Kleinserien-Typgenehmigung nach § 11 oder eine EG-
+Typgenehmigung nach § 4 beantragt werden. Im Antrag hat der
+Antragsteller zu erklären, welche Anzahl gleichartiger Fahrzeuge
+genehmigt werden soll und dass die maximal mögliche Stückzahl nach
+Satz 1 nicht überschritten wird. Die Sätze 1 und 2 finden keine
+Anwendung für die Einzelgenehmigung von Kraftfahrzeugen eines
+Herstellers, der bereits Inhaber einer Typgenehmigung ist, wenn
 
 a)  diese Fahrzeuge die Anforderungen der Anhänge IV oder XI der
     Richtlinie 2007/46/EG erfüllen und für sie bereits eine Typgenehmigung
@@ -729,16 +725,16 @@ Inhaber der EG-Typgenehmigung eine Übereinstimmungsbescheinigung nach
 Anhang IV Teil A der Richtlinie 2002/24/EG auszustellen und diese dem
 Fahrzeug beizufügen. Die Übereinstimmungsbescheinigung muss nach
 Artikel 7 Absatz 1 der Richtlinie
-2002/24/EG              fälschungssicher sein. Für jede selbstständige
-technische Einheit oder jedes Bauteil, bei dem es sich nicht um ein
-Originalteil aus der Baureihe des genehmigten Fahrzeugtyps handelt,
-das aber dem genehmigten Typ entspricht, hat der Inhaber der EG-
-Typgenehmigung für diese Teile eine Übereinstimmungsbescheinigung nach
-Anhang IV Teil B der Richtlinie 2002/24/EG auszustellen und diese der
-selbstständigen technischen Einheit oder dem Bauteil beizufügen; dies
-gilt nicht, wenn die Anbringung des Typgenehmigungszeichens nach der
-in Anhang I der Richtlinie 2002/24/EG genannten jeweiligen
-Einzelrichtlinie vorgeschrieben ist.
+2002/24/EG fälschungssicher sein. Für jede selbstständige technische
+Einheit oder jedes Bauteil, bei dem es sich nicht um ein Originalteil
+aus der Baureihe des genehmigten Fahrzeugtyps handelt, das aber dem
+genehmigten Typ entspricht, hat der Inhaber der EG-Typgenehmigung für
+diese Teile eine Übereinstimmungsbescheinigung nach Anhang IV Teil B
+der Richtlinie 2002/24/EG auszustellen und diese der selbstständigen
+technischen Einheit oder dem Bauteil beizufügen; dies gilt nicht, wenn
+die Anbringung des Typgenehmigungszeichens nach der in Anhang I der
+Richtlinie 2002/24/EG genannten jeweiligen Einzelrichtlinie
+vorgeschrieben ist.
 
 (2) Der Inhaber einer EG-Typgenehmigung für eine selbstständige
 technische Einheit oder ein Bauteil hat alle in Übereinstimmung mit
@@ -1062,9 +1058,9 @@ nationalen Kleinserien-Typgenehmigungen anderer Mitgliedstaaten gelten
 im Inland, wenn sie nach Maßgabe des Artikels 23 Absatz 6 der
 Richtlinie 2007/46/EG vom Kraftfahrt-Bundesamt anerkannt sind. Die
 nach Artikel 24 der Richtlinie
-2007/46/EG              erteilten Einzelgenehmigungen anderer
-Mitgliedstaaten gelten im Inland nach Maßgabe des Artikels 24 Absatz 6
-oder 7 der Richtlinie 2007/46/EG.
+2007/46/EG erteilten Einzelgenehmigungen anderer Mitgliedstaaten
+gelten im Inland nach Maßgabe des Artikels 24 Absatz 6 oder 7 der
+Richtlinie 2007/46/EG.
 
 (2) Stellt das Kraftfahrt-Bundesamt fest, dass Fahrzeuge, Systeme,
 selbstständige technische Einheiten oder Bauteile nicht mit dem
@@ -1203,12 +1199,12 @@ ausländische Genehmigungsbehörde übersandt werden.
 (1) Stellen, die die Aufgaben von Technischen Diensten nach den
 Richtlinien 2007/46/EG, 2002/24/EG oder 2003/37/EG oder den in Anhang
 IV der Richtlinie
-2007/46/EG,              Anhang I der Richtlinie 2002/24/EG und Anhang
-II Kapitel B der Richtlinie 2003/37/EG aufgeführten Rechtsakten oder
-nach den für diese als gleichwertig anerkannten Regelungen wahrnehmen,
-müssen nach der jeweiligen Richtlinie anerkannt und als solche
-gegenüber der Kommission der Europäischen Gemeinschaften und den
-zuständigen Stellen der anderen Mitgliedstaaten benannt sein.
+2007/46/EG, Anhang I der Richtlinie 2002/24/EG und Anhang II Kapitel B
+der Richtlinie 2003/37/EG aufgeführten Rechtsakten oder nach den für
+diese als gleichwertig anerkannten Regelungen wahrnehmen, müssen nach
+der jeweiligen Richtlinie anerkannt und als solche gegenüber der
+Kommission der Europäischen Gemeinschaften und den zuständigen Stellen
+der anderen Mitgliedstaaten benannt sein.
 
 (2) Die Aufgaben der Anerkennungsstelle nimmt das Kraftfahrt-Bundesamt
 in Anlehnung an die Norm DIN EN ISO/IEC 17011:2004 wahr.
@@ -1316,9 +1312,9 @@ Ausrüstung gewerbsmäßig feilbietet.
 ### § 38 Harmonisierte Normen
 
 Soweit in dieser Verordnung auf DIN-, EN- oder
-ISO/IEC-Normen              Bezug genommen wird, sind diese im Beuth-
-Verlag GmbH, Berlin, erschienen. Sie sind beim Deutschen Patent- und
-Markenamt in München archivmäßig gesichert niedergelegt.
+ISO/IEC-Normen Bezug genommen wird, sind diese im Beuth-Verlag GmbH,
+Berlin, erschienen. Sie sind beim Deutschen Patent- und Markenamt in
+München archivmäßig gesichert niedergelegt.
 
 
 ### § 39 Übergangsvorschriften
@@ -1335,26 +1331,25 @@ anzuwenden:
 2.  Auf Antrag des Herstellers werden bis zu den in Spalte 3 Zeilen 6 und
     9 der Tabelle des Anhangs XIX der Richtlinie 2007/46/EG genannten
     Terminen für die Fahrzeugklasse M
-    2                    oder M
-    3                    weiterhin nationale Typgenehmigungen anstelle der
-    EG-Typgenehmigung erteilt, sofern für die Fahrzeuge sowie für die
-    Systeme, Bauteile und selbstständigen technischen Einheiten dieser
-    Fahrzeuge eine Typgenehmigung nach den in Anhang IV Teil I dieser
-    Richtlinie aufgeführten Rechtsakten erteilt wurde.
+    2 oder M
+    3 weiterhin nationale Typgenehmigungen anstelle der EG-Typgenehmigung
+    erteilt, sofern für die Fahrzeuge sowie für die Systeme, Bauteile und
+    selbstständigen technischen Einheiten dieser Fahrzeuge eine
+    Typgenehmigung nach den in Anhang IV Teil I dieser Richtlinie
+    aufgeführten Rechtsakten erteilt wurde.
 
 
 3.  EG-Typgenehmigungen, die vor dem 29. April 2009 für einen Fahrzeugtyp
     der Klasse M
-    1                    nach der Richtlinie 70/156/EWG des Rates vom 6.
-    Februar 1970 zur Angleichung der Rechtsvorschriften der
-    Mitgliedstaaten über die Betriebserlaubnis für Kraftfahrzeuge und
-    Kraftfahrzeuganhänger (ABl. L 42 vom 23.2.1970, S. 1), die zuletzt
-    durch die Verordnung Nr. 715/2007 des Europäischen Parlaments und des
-    Rates vom 20. Juni 2007 (ABl. L 171 vom 29.6.2007, S. 1) geändert
-    worden ist, in ihrer jeweils geltenden Fassung erteilt wurden,
-    bleiben, einschließlich vorgenommener Erweiterungen, weiterhin gültig,
-    soweit sie nicht aus anderen Gründen erloschen sind. Ihre Erweiterung
-    ist zulässig.
+    1 nach der Richtlinie 70/156/EWG des Rates vom 6. Februar 1970 zur
+    Angleichung der Rechtsvorschriften der Mitgliedstaaten über die
+    Betriebserlaubnis für Kraftfahrzeuge und Kraftfahrzeuganhänger (ABl. L
+    42 vom 23.2.1970, S. 1), die zuletzt durch die Verordnung Nr. 715/2007
+    des Europäischen Parlaments und des Rates vom 20. Juni 2007 (ABl. L
+    171 vom 29.6.2007, S. 1) geändert worden ist, in ihrer jeweils
+    geltenden Fassung erteilt wurden, bleiben, einschließlich
+    vorgenommener Erweiterungen, weiterhin gültig, soweit sie nicht aus
+    anderen Gründen erloschen sind. Ihre Erweiterung ist zulässig.
 
 
 4.  EG-Typgenehmigungen, die vor dem 29. April 2009 für ein System, ein
@@ -1371,9 +1366,9 @@ Fahrzeuge, Systeme, technische Einheiten und Bauteile nach der
 Richtlinie 92/61/EWG des Rates vom 30. Juni 1992 über die
 Betriebserlaubnis für zweirädrige oder dreirädrige Kraftfahrzeuge
 (ABl. L 225 vom 18.6.1999, S. 72), die durch die Richtlinie
-2002/24/EG              aufgehoben worden ist, bleiben, soweit sie
-nicht vorher aus anderen Gründen erlöschen, weiterhin gültig. Ab dem
-9\. November 2004 müssen jedoch alle vom Hersteller ausgestellten
+2002/24/EG aufgehoben worden ist, bleiben, soweit sie nicht vorher aus
+anderen Gründen erlöschen, weiterhin gültig. Ab dem 9. November 2004
+müssen jedoch alle vom Hersteller ausgestellten
 Übereinstimmungsbescheinigungen dem Muster nach Anhang IV der
 Richtlinie 2002/24/EG entsprechen.
 
@@ -1426,9 +1421,9 @@ Richtlinie 2001/3/EG der Kommission vom 8. Januar 2001 (ABl. L 28 vom
 30\.1.2001, S. 1) geändert worden ist, erteilt worden sind, bleiben
 einschließlich der im Rahmen der Typabgrenzungsmerkmale nach Anhang II
 Kapitel A der Richtlinie
-74/150/EWG              auch nach dem 1. Juli 2005 vorgenommenen
-Erweiterungen weiterhin gültig, soweit sie nicht vorher aus anderen
-Gründen erlöschen.
+74/150/EWG auch nach dem 1. Juli 2005 vorgenommenen Erweiterungen
+weiterhin gültig, soweit sie nicht vorher aus anderen Gründen
+erlöschen.
 
 (7) Vor dem 1. Juli 2005 nach § 20 der Straßenverkehrs-Zulassungs-
 Ordnung erteilte Allgemeine Betriebserlaubnisse für Fahrzeugtypen der

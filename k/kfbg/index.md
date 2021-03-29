@@ -23,7 +23,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 3 -
+## Art 1 bis 3 - 
 
 
 
@@ -83,7 +83,7 @@ beschlossen:
 
 
 
-## Art 6 bis 19 -
+## Art 6 bis 19 - 
 
 
 
@@ -94,7 +94,7 @@ Häftlingshilfegesetzes kann auf der Grundlage der dortigen
 Ermächtigung durch Rechtsverordnung geändert oder aufgehoben werden.
 
 
-## Art 21 -
+## Art 21 - 
 
 
 

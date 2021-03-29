@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1259
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.11.2007 I 2606
+:   Art. 15 G v. 20.11.2015 I 2029
 
 
 ## Eingangsformel
@@ -36,7 +36,7 @@ Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes aufgeführten Kosten
 der Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
 und der auf der Grundlage des § 342b Abs. 1 Satz 1 des
 Handelsgesetzbuchs anerkannten Prüfstelle für Rechnungslegung
-(Prüfstelle) auf die in § 17d Abs. 1 Satz 1 des
+(Prüfstelle) auf die in § 17d Absatz 1 Satz 1 und 2 des
 Finanzdienstleistungsaufsichtsgesetzes genannten Umlagepflichtigen
 sowie den Differenzausgleich zwischen Umlagevorauszahlung und
 Umlagefestsetzung im Hinblick auf die von der Bundesanstalt an die
@@ -218,8 +218,8 @@ bleibt unberührt.
 ## § 13 Säumniszuschläge und Beitreibung
 
 (1) Auf zum Zeitpunkt ihrer Fälligkeit nicht eingegangene Beträge
-erhebt die Bundesanstalt Säumniszuschläge; § 18 des
-Verwaltungskostengesetzes ist entsprechend anzuwenden.
+erhebt die Bundesanstalt Säumniszuschläge; § 16 des
+Bundesgebührengesetzes ist entsprechend anzuwenden.
 
 (2) Nicht fristgerecht entrichtete Beträge werden nach den
 Vorschriften des Verwaltungs-Vollstreckungsgesetzes durch die
@@ -242,7 +242,7 @@ folgenden Maßgaben anzuwenden:
     erfolgt auf der Grundlage des gemäß § 17a Satz 1 des
     Finanzdienstleistungsaufsichtsgesetzes auszuweisenden gesonderten
     Teils des Haushaltsplans für das Jahr 2005 unter Berücksichtigung der
-    Kosten nach § 17d Abs. 4 des  Finanzdienstleistungsaufsichtsgesetzes.
+    Kosten nach § 17d Abs. 4 des Finanzdienstleistungsaufsichtsgesetzes.
     Auf den Gesamtbetrag der Kosten im Sinn des Satzes 1 ist ein Zuschlag
     für Zahlungsausfälle in Höhe von 20 Prozent zu erheben.
 
@@ -274,6 +274,9 @@ Maßgaben anzuwenden:
 
 
 
+
+(3) § 1 in der ab dem 26. November 2015 geltenden Fassung ist erstmals
+auf die Umlageerhebung für das Umlagejahr 2016 anzuwenden.
 
 
 ## § 15 Inkrafttreten

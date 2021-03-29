@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2586, 2587
 
 Zuletzt geändert durch
-:   Art. 6 G v. 5.12.2012 I 2418
+:   Art. 7 G v. 20.7.2017 I 2780
 
 
 ## Buch 1 - Allgemeiner Teil
@@ -318,9 +318,7 @@ oder Geschäftsräume besteht nicht. Die Entscheidung nach Satz 1 ist
 nicht anfechtbar.
 
 (5) Werden die Gerichtsakten elektronisch geführt, gilt § 299 Abs. 3
-der Zivilprozessordnung entsprechend. Der elektronische Zugriff nach §
-299 Abs. 3 Satz 2 und 3 der Zivilprozessordnung kann auch dem Notar
-oder der beteiligten Behörde gestattet werden.
+der Zivilprozessordnung entsprechend.
 
 (6) Die Entwürfe zu Beschlüssen und Verfügungen, die zu ihrer
 Vorbereitung gelieferten Arbeiten sowie die Dokumente, die
@@ -331,30 +329,48 @@ mitgeteilt.
 Kollegialgerichten der Vorsitzende.
 
 
-#### § 14 Elektronische Akte; elektronisches Dokument
+#### § 14 Elektronische Akte; elektronisches Dokument; Verordnungsermächtigung
 
-(1) Die Gerichtsakten können elektronisch geführt werden. § 298a Abs.
-2 und 3 der Zivilprozessordnung gilt entsprechend.
+(1) Die Gerichtsakten können elektronisch geführt werden. § 298a
+Absatz 2 der Zivilprozessordnung gilt entsprechend.
 
-(2) Die Beteiligten können Anträge und Erklärungen als elektronisches
-Dokument übermitteln. Für das elektronische Dokument gelten § 130a
-Abs. 1 und 3 sowie § 298 der Zivilprozessordnung entsprechend.
+(2) Anträge und Erklärungen der Beteiligten sowie schriftlich
+einzureichende Auskünfte, Aussagen, Gutachten, Übersetzungen und
+Erklärungen Dritter können als elektronisches Dokument übermittelt
+werden. Für das elektronische Dokument gelten § 130a der
+Zivilprozessordnung, auf dieser Grundlage erlassene Rechtsverordnungen
+sowie § 298 der Zivilprozessordnung entsprechend.
 
 (3) Für das gerichtliche elektronische Dokument gelten die §§ 130b und
 298 der Zivilprozessordnung entsprechend.
 
 (4) Die Bundesregierung und die Landesregierungen bestimmen für ihren
 Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Akten geführt und elektronische Dokumente bei Gericht eingereicht
-werden können. Die Bundesregierung und die Landesregierungen bestimmen
-für ihren Bereich durch Rechtsverordnung die geltenden
-organisatorisch-technischen Rahmenbedingungen für die Bildung, Führung
-und Aufbewahrung der elektronischen Akten und die für die Bearbeitung
-der Dokumente geeignete Form. Die Landesregierungen können die
-Ermächtigung durch Rechtsverordnung auf die jeweils zuständige oberste
-Landesbehörde übertragen. Die Zulassung der elektronischen Akte und
-der elektronischen Form kann auf einzelne Gerichte oder Verfahren
-beschränkt werden.
+Akten geführt werden können. Die Bundesregierung und die
+Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
+die geltenden organisatorisch-technischen Rahmenbedingungen für die
+Bildung, Führung und Aufbewahrung der elektronischen Akten. Die
+Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
+die jeweils zuständige oberste Landesbehörde übertragen. Die Zulassung
+der elektronischen Akte kann auf einzelne Gerichte oder Verfahren
+beschränkt werden; wird von dieser Möglichkeit Gebrauch gemacht, kann
+in der Rechtsverordnung bestimmt werden, dass durch
+Verwaltungsvorschrift, die öffentlich bekanntzumachen ist, geregelt
+wird, in welchen Verfahren die Akten elektronisch zu führen sind.
+
+(4a) Die Gerichtsakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Aufbewahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+durch Rechtsverordnung auf die für die Zivilgerichtsbarkeit
+zuständigen obersten Landesbehörden übertragen. Die Rechtsverordnungen
+der Bundesregierung bedürfen nicht der Zustimmung des Bundesrates.
 
 (5) Sind die Gerichtsakten nach ordnungsgemäßen Grundsätzen zur
 Ersetzung der Urschrift auf einen Bild- oder anderen Datenträger
@@ -363,6 +379,22 @@ dass die Wiedergabe mit der Urschrift übereinstimmt, so können
 Ausfertigungen, Auszüge und Abschriften von dem Bild- oder dem
 Datenträger erteilt werden. Auf der Urschrift anzubringende Vermerke
 werden in diesem Fall bei dem Nachweis angebracht.
+
+
+#### § 14a Formulare; Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 130a Absatz 3 der
+Zivilprozessordnung auch durch Nutzung des elektronischen
+Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78
+Absatz 5 des Aufenthaltsgesetzes erfolgen kann.
 
 
 #### § 15 Bekanntgabe; formlose Mitteilung
@@ -1283,6 +1315,9 @@ Interesse an der Feststellung hat.
 
 
 
+(3) Hat der Verfahrensbeistand oder der Verfahrenspfleger die
+Beschwerde eingelegt, gelten die Absätze 1 und 2 entsprechend.
+
 
 ##### § 63 Beschwerdefrist
 
@@ -1455,7 +1490,12 @@ ist ohne Zulassung statthaft in
 
 In den Fällen des Satzes 1 Nr. 2 und 3 gilt dies nur, wenn sich die
 Rechtsbeschwerde gegen den Beschluss richtet, der die Unterbringung
-oder die freiheitsentziehende Maßnahme anordnet.
+oder die freiheitsentziehende Maßnahme anordnet. In den Fällen des
+Satzes 1 Nummer 3 ist die Rechtsbeschwerde abweichend von Satz 2 auch
+dann ohne Zulassung statthaft, wenn sie sich gegen den eine
+freiheitsentziehende Maßnahme ablehnenden oder zurückweisenden
+Beschluss in den in § 417 Absatz 2 Satz 2 Nummer 5 genannten Verfahren
+richtet.
 
 (4) Gegen einen Beschluss im Verfahren über die Anordnung, Abänderung
 oder Aufhebung einer einstweiligen Anordnung oder eines Arrests findet
@@ -1648,14 +1688,15 @@ bis 572, 127 Abs. 2 bis 4 der Zivilprozessordnung anfechtbar.
 
 (1) Vor der Bewilligung der Verfahrenskostenhilfe kann das Gericht den
 übrigen Beteiligten Gelegenheit zur Stellungnahme geben. In
-Antragsverfahren ist dem Antragsgegner vor der Bewilligung Gelegenheit
-zur Stellungnahme zu geben, wenn dies nicht aus besonderen Gründen
-unzweckmäßig erscheint.
+Antragsverfahren ist dem Antragsgegner Gelegenheit zur Stellungnahme
+zu geben, ob er die Voraussetzungen für die Bewilligung von
+Verfahrenskostenhilfe für gegeben hält, soweit dies aus besonderen
+Gründen nicht unzweckmäßig erscheint.
 
 (2) Die Bewilligung von Verfahrenskostenhilfe für die Vollstreckung in
 das bewegliche Vermögen umfasst alle Vollstreckungshandlungen im
 Bezirk des Vollstreckungsgerichts einschließlich des Verfahrens auf
-Abgabe der Versicherung an Eides statt.
+Abgabe der Vermögensauskunft und der Versicherung an Eides statt.
 
 
 #### § 78 Beiordnung eines Rechtsanwalts
@@ -1841,6 +1882,9 @@ gewöhnlichen Aufenthalt hat.
 
 (2) Das Jugendamt leistet dem Gericht in geeigneten Fällen
 Unterstützung.
+
+(3) Die Verfahren sind vorrangig und beschleunigt durchzuführen. Die
+§§ 155b und 155c gelten entsprechend.
 
 
 ##### § 89 Ordnungsmittel
@@ -2088,7 +2132,13 @@ unberührt.
 
 
 
-(2) Die Zuständigkeit der deutschen Gerichte nach Absatz 1 erstreckt
+(2) Für Verfahren auf Aufhebung der Ehe nach Artikel 13 Absatz 3
+Nummer 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind die
+deutschen Gerichte auch zuständig, wenn der Ehegatte, der im Zeitpunkt
+der Eheschließung das 16., aber nicht das 18. Lebensjahr vollendet
+hatte, seinen Aufenthalt im Inland hat.
+
+(3) Die Zuständigkeit der deutschen Gerichte nach Absatz 1 erstreckt
 sich im Fall des Verbunds von Scheidungs- und Folgesachen auf die
 Folgesachen.
 
@@ -2225,7 +2275,7 @@ Gericht bedarf.
 (2) § 99 Abs. 2 und 3 gilt entsprechend.
 
 (3) Die Absätze 1 und 2 sind im Fall einer Unterbringung nach § 312
-Nr. 3 nicht anzuwenden.
+Nummer 4 nicht anzuwenden.
 
 
 ##### § 105 Andere Verfahren
@@ -2750,7 +2800,12 @@ Ausschließlich zuständig ist in dieser Rangfolge:
     Aufenthalt hat;
 
 
-6.  das Amtsgericht Schöneberg in Berlin.
+6.  in den Fällen des § 98 Absatz 2 das Gericht, in dessen Bezirk der
+    Ehegatte, der im Zeitpunkt der Eheschließung das 16., aber nicht das
+    18\. Lebensjahr vollendet hatte, seinen Aufenthalt hat;
+
+
+7.  das Amtsgericht Schöneberg in Berlin.
 
 
 
@@ -2855,6 +2910,16 @@ Antrags auf Feststellung des Bestehens oder Nichtbestehens einer Ehe
 zwischen den Beteiligten gelten die Sätze 1 und 2 entsprechend.
 
 
+##### § 129a Vorrang- und Beschleunigungsgebot
+
+Das Vorrang- und Beschleunigungsgebot (§ 155 Absatz 1) gilt
+entsprechend für Verfahren auf Aufhebung einer Ehe wegen
+Eheunmündigkeit. Die Anhörung (§ 128) soll spätestens einen Monat nach
+Beginn des Verfahrens stattfinden; § 155 Absatz 2 Satz 4 und 5 gilt
+entsprechend. Das Gericht hört in dem Termin das Jugendamt an, es sei
+denn, die Ehegatten sind zu diesem Zeitpunkt volljährig.
+
+
 ##### § 130 Säumnis der Beteiligten
 
 (1) Die Versäumnisentscheidung gegen den Antragsteller ist dahin zu
@@ -2884,6 +2949,9 @@ anderweitig verteilen.
 (2) Absatz 1 ist nicht anzuwenden, wenn eine Ehe auf Antrag der
 zuständigen Verwaltungsbehörde oder bei Verstoß gegen § 1306 des
 Bürgerlichen Gesetzbuchs auf Antrag des Dritten aufgehoben wird.
+
+(3) Einem minderjährigen Beteiligten können Kosten nicht auferlegt
+werden.
 
 
 #### Unterabschnitt 2 - Verfahren in Scheidungssachen und Folgesachen
@@ -3138,7 +3206,7 @@ Anschließung an ein Rechtsmittel in einer Folgesache verzichten, bevor
 ein solches Rechtsmittel eingelegt ist.
 
 
-##### § 145 Befristung von Rechtsmittelerweiterung und Anschlussrechtsmittel
+##### § 145 Befristung und Einschränkung von Rechtsmittelerweiterung und Anschlussrechtsmittel
 
 (1) Ist eine nach § 142 einheitlich ergangene Entscheidung teilweise
 durch Beschwerde oder Rechtsbeschwerde angefochten worden, können
@@ -3156,6 +3224,9 @@ Rechtsmittels oder Anschließung an das Rechtsmittel, so verlängert
 sich die Frist um einen weiteren Monat. Im Fall einer erneuten
 Erweiterung des Rechtsmittels oder Anschließung an das Rechtsmittel
 innerhalb der verlängerten Frist gilt Satz 1 entsprechend.
+
+(3) Durch die Anschließung an die Beschwerde eines Versorgungsträgers
+kann der Scheidungsausspruch nicht angefochten werden.
 
 
 ##### § 146 Zurückverweisung
@@ -3244,7 +3315,8 @@ die
 1.  die elterliche Sorge,
 
 
-2.  das Umgangsrecht,
+2.  das Umgangsrecht und das Recht auf Auskunft über die persönlichen
+    Verhältnisse des Kindes,
 
 
 3.  die Kindesherausgabe,
@@ -3257,8 +3329,10 @@ die
     Vertreters für einen Minderjährigen oder für eine Leibesfrucht,
 
 
-6.  die Genehmigung der freiheitsentziehenden Unterbringung eines
-    Minderjährigen (§§ 1631b, 1800 und 1915 des Bürgerlichen Gesetzbuchs),
+6.  die Genehmigung von freiheitsentziehender Unterbringung und
+    freiheitsentziehenden Maßnahmen nach § 1631b des Bürgerlichen
+    Gesetzbuchs, auch in Verbindung mit den §§ 1800 und 1915 des
+    Bürgerlichen Gesetzbuchs,
 
 
 7.  die Anordnung der freiheitsentziehenden Unterbringung eines
@@ -3337,6 +3411,95 @@ Mediation oder eines anderen Verfahrens der außergerichtlichen
 Konfliktbeilegung ausgesetzt, nimmt es das Verfahren in der Regel nach
 drei Monaten wieder auf, wenn die Beteiligten keine einvernehmliche
 Regelung erzielen.
+
+
+#### § 155a Verfahren zur Übertragung der gemeinsamen elterlichen Sorge
+
+(1) Die nachfolgenden Bestimmungen dieses Paragrafen gelten für das
+Verfahren nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs. Im
+Antrag auf Übertragung der gemeinsamen Sorge sind Geburtsdatum und
+Geburtsort des Kindes anzugeben.
+
+(2) § 155 Absatz 1 ist entsprechend anwendbar. Das Gericht stellt dem
+anderen Elternteil den Antrag auf Übertragung der gemeinsamen Sorge
+nach den §§ 166 bis 195 der Zivilprozessordnung zu und setzt ihm eine
+Frist zur Stellungnahme, die für die Mutter frühestens sechs Wochen
+nach der Geburt des Kindes endet.
+
+(3) In den Fällen des § 1626a Absatz 2 Satz 2 des Bürgerlichen
+Gesetzbuchs soll das Gericht im schriftlichen Verfahren ohne Anhörung
+des Jugendamts und ohne persönliche Anhörung der Eltern entscheiden. §
+162 ist nicht anzuwenden. Das Gericht teilt dem nach § 87c Absatz 6
+Satz 2 des Achten Buches Sozialgesetzbuch zuständigen Jugendamt seine
+Entscheidung unter Angabe des Geburtsdatums und des Geburtsorts des
+Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner
+Geburt geführt hat, zu den in § 58a des Achten Buches Sozialgesetzbuch
+genannten Zwecken formlos mit.
+
+(4) Werden dem Gericht durch den Vortrag der Beteiligten oder auf
+sonstige Weise Gründe bekannt, die der gemeinsamen elterlichen Sorge
+entgegenstehen können, gilt § 155 Absatz 2 mit der Maßgabe
+entsprechend, dass der Termin nach Satz 2 spätestens einen Monat nach
+Bekanntwerden der Gründe stattfinden soll, jedoch nicht vor Ablauf der
+Stellungnahmefrist der Mutter nach Absatz 2 Satz 2. § 155 Absatz 3 und
+§ 156 Absatz 1 gelten entsprechend.
+
+(5) Sorgeerklärungen und Zustimmungen des gesetzlichen Vertreters
+eines beschränkt geschäftsfähigen Elternteils können auch im
+Erörterungstermin zur Niederschrift des Gerichts erklärt werden. §
+1626d Absatz 2 des Bürgerlichen Gesetzbuchs gilt entsprechend.
+
+
+#### § 155b Beschleunigungsrüge
+
+(1) Ein Beteiligter in einer in § 155 Absatz 1 bestimmten
+Kindschaftssache kann geltend machen, dass die bisherige
+Verfahrensdauer nicht dem Vorrang- und Beschleunigungsgebot nach der
+genannten Vorschrift entspricht (Beschleunigungsrüge). Er hat dabei
+Umstände darzulegen, aus denen sich ergibt, dass das Verfahren nicht
+vorrangig und beschleunigt durchgeführt worden ist.
+
+(2) Das Gericht entscheidet über die Beschleunigungsrüge spätestens
+innerhalb eines Monats nach deren Eingang durch Beschluss. Hält das
+Gericht die Beschleunigungsrüge für begründet, hat es unverzüglich
+geeignete Maßnahmen zur vorrangigen und beschleunigten Durchführung
+des Verfahrens zu ergreifen; insbesondere ist der Erlass einer
+einstweiligen Anordnung zu prüfen.
+
+(3) Die Beschleunigungsrüge gilt zugleich als Verzögerungsrüge im
+Sinne des § 198 Absatz 3 Satz 1 des Gerichtsverfassungsgesetzes.
+
+
+#### § 155c Beschleunigungsbeschwerde
+
+(1) Der Beschluss nach § 155b Absatz 2 Satz 1 kann von dem Beteiligten
+innerhalb einer Frist von zwei Wochen nach der schriftlichen
+Bekanntgabe mit der Beschwerde angefochten werden. § 64 Absatz 1 gilt
+entsprechend. Das Gericht ist zur Abhilfe nicht befugt; es hat die
+Akten unverzüglich dem Beschwerdegericht nach Absatz 2 vorzulegen.
+
+(2) Über die Beschleunigungsbeschwerde entscheidet das
+Oberlandesgericht, wenn das Amtsgericht den Beschluss nach § 155b
+Absatz 2 Satz 1 gefasst hat. Hat das Oberlandesgericht oder der
+Bundesgerichtshof den Beschluss gefasst, so entscheidet ein anderer
+Spruchkörper desselben Gerichts.
+
+(3) Das Beschwerdegericht entscheidet unverzüglich nach Aktenlage;
+seine Entscheidung soll spätestens innerhalb eines Monats ergehen. §
+68 Absatz 2 gilt entsprechend. Das Beschwerdegericht hat
+festzustellen, ob die bisherige Dauer des Verfahrens dem Vorrang- und
+Beschleunigungsgebot des § 155 Absatz 1 entspricht. Stellt es fest,
+dass dies nicht der Fall ist, hat das Gericht, dessen Beschluss
+angefochten worden ist, das Verfahren unter Beachtung der rechtlichen
+Beurteilung des Beschwerdegerichts unverzüglich vorrangig und
+beschleunigt durchzuführen.
+
+(4) Hat das Gericht innerhalb der Monatsfrist des § 155b Absatz 2 Satz
+1 keine Entscheidung über die Beschleunigungsrüge getroffen, kann der
+Beteiligte innerhalb einer Frist von zwei Monaten bei dem
+Beschwerdegericht nach Absatz 2 die Beschleunigungsbeschwerde
+einlegen. Die Frist beginnt mit Eingang der Beschleunigungsrüge bei
+dem Gericht. Die Absätze 2 und 3 gelten entsprechend.
 
 
 #### § 156 Hinwirken auf Einvernehmen
@@ -3555,18 +3718,30 @@ Entscheidungen des Gerichts bekannt zu machen. Gegen den Beschluss
 steht dem Jugendamt die Beschwerde zu.
 
 
-#### § 163 Fristsetzung bei schriftlicher Begutachtung; Inhalt des Gutachtenauftrags; Vernehmung des Kindes
+#### § 163 Sachverständigengutachten
 
-(1) Wird schriftliche Begutachtung angeordnet, setzt das Gericht dem
-Sachverständigen zugleich eine Frist, innerhalb derer er das Gutachten
-einzureichen hat.
+(1) In Verfahren nach § 151 Nummer 1 bis 3 ist das Gutachten durch
+einen geeigneten Sachverständigen zu erstatten, der mindestens über
+eine psychologische, psychotherapeutische, kinder- und
+jugendpsychiatrische, psychiatrische, ärztliche, pädagogische oder
+sozialpädagogische Berufsqualifikation verfügen soll. Verfügt der
+Sachverständige über eine pädagogische oder sozialpädagogische
+Berufsqualifikation, ist der Erwerb ausreichender diagnostischer und
+analytischer Kenntnisse durch eine anerkannte Zusatzqualifikation
+nachzuweisen.
 
 (2) Das Gericht kann in Verfahren, die die Person des Kindes
 betreffen, anordnen, dass der Sachverständige bei der Erstellung des
 Gutachtens auch auf die Herstellung des Einvernehmens zwischen den
 Beteiligten hinwirken soll.
 
-(3) Eine Vernehmung des Kindes als Zeuge findet nicht statt.
+(3) (weggefallen)
+
+
+#### § 163a Ausschluss der Vernehmung des Kindes
+
+Eine Vernehmung des Kindes als Zeuge oder als Beteiligter findet nicht
+statt.
 
 
 #### § 164 Bekanntgabe der Entscheidung an das Kind
@@ -3639,13 +3814,14 @@ Bürgerlichen Gesetzbuchs ab, soll es seine Entscheidung in einem
 angemessenen Zeitabstand, in der Regel nach drei Monaten, überprüfen.
 
 
-#### § 167 Anwendbare Vorschriften bei Unterbringung Minderjähriger
+#### § 167 Anwendbare Vorschriften bei Unterbringung Minderjähriger und bei freiheitsentziehenden Maßnahmen bei Minderjährigen
 
-(1) In Verfahren nach § 151 Nr. 6 sind die für Unterbringungssachen
-nach § 312 Nr. 1, in Verfahren nach § 151 Nr. 7 die für
-Unterbringungssachen nach § 312 Nr. 3 geltenden Vorschriften
+(1) In Verfahren nach § 151 Nummer 6 sind die für Unterbringungssachen
+nach § 312 Nummer 1 und 2, in Verfahren nach § 151 Nummer 7 die für
+Unterbringungssachen nach § 312 Nummer 4 geltenden Vorschriften
 anzuwenden. An die Stelle des Verfahrenspflegers tritt der
-Verfahrensbeistand.
+Verfahrensbeistand. Die Bestellung eines Verfahrensbeistands ist stets
+erforderlich.
 
 (2) Ist für eine Kindschaftssache nach Absatz 1 ein anderes Gericht
 zuständig als dasjenige, bei dem eine Vormundschaft oder eine die
@@ -3673,7 +3849,30 @@ deren Wunsch bei der Zuführung zur Unterbringung zu unterstützen.
 für Kinder- und Jugendpsychiatrie und -psychotherapie sein. In
 Verfahren nach § 151 Nr. 6 kann das Gutachten auch durch einen in
 Fragen der Heimerziehung ausgewiesenen Psychotherapeuten, Psychologen,
-Pädagogen oder Sozialpädagogen erstattet werden.
+Pädagogen oder Sozialpädagogen erstattet werden. In Verfahren der
+Genehmigung freiheitsentziehender Maßnahmen genügt ein ärztliches
+Zeugnis; Satz 1 gilt entsprechend.
+
+(7) Die freiheitsentziehende Unterbringung und freiheitsentziehende
+Maßnahmen enden spätestens mit Ablauf von sechs Monaten, bei
+offensichtlich langer Sicherungsbedürftigkeit spätestens mit Ablauf
+von einem Jahr, wenn sie nicht vorher verlängert werden.
+
+
+#### § 167a Besondere Vorschriften für Verfahren nach § 1686a des Bürgerlichen Gesetzbuchs
+
+(1) Anträge auf Erteilung des Umgangs- oder Auskunftsrechts nach §
+1686a des Bürgerlichen Gesetzbuchs sind nur zulässig, wenn der
+Antragsteller an Eides statt versichert, der Mutter des Kindes während
+der Empfängniszeit beigewohnt zu haben.
+
+(2) Soweit es in einem Verfahren, das das Umgangs- oder Auskunftsrecht
+nach § 1686a des Bürgerlichen Gesetzbuchs betrifft, zur Klärung der
+leiblichen Vaterschaft erforderlich ist, hat jede Person
+Untersuchungen, insbesondere die Entnahme von Blutproben, zu dulden,
+es sei denn, dass ihr die Untersuchung nicht zugemutet werden kann.
+
+(3) § 177 Absatz 2 Satz 2 und § 178 Absatz 2 gelten entsprechend.
 
 
 #### § 168 Beschluss über Zahlungen des Mündels
@@ -3704,14 +3903,14 @@ baren Auslagen sinngemäß.
 
 (2) In dem Antrag sollen die persönlichen und wirtschaftlichen
 Verhältnisse des Mündels dargestellt werden. § 118 Abs. 2 Satz 1 und 2
-sowie § 120 Abs. 2 bis 4 Satz 1 und 2 der Zivilprozessordnung sind
-entsprechend anzuwenden. Steht nach der freien Überzeugung des
-Gerichts der Aufwand zur Ermittlung der persönlichen und
-wirtschaftlichen Verhältnisse des Mündels außer Verhältnis zur Höhe
-des aus der Staatskasse zu begleichenden Anspruchs oder zur Höhe der
-voraussichtlich vom Mündel zu leistenden Zahlungen, kann das Gericht
-ohne weitere Prüfung den Anspruch festsetzen oder von einer
-Festsetzung der vom Mündel zu leistenden Zahlungen absehen.
+sowie § 120 Absatz 2 und 3 sowie § 120a Absatz 1 Satz 1 bis 3 der
+Zivilprozessordnung sind entsprechend anzuwenden. Steht nach der
+freien Überzeugung des Gerichts der Aufwand zur Ermittlung der
+persönlichen und wirtschaftlichen Verhältnisse des Mündels außer
+Verhältnis zur Höhe des aus der Staatskasse zu begleichenden Anspruchs
+oder zur Höhe der voraussichtlich vom Mündel zu leistenden Zahlungen,
+kann das Gericht ohne weitere Prüfung den Anspruch festsetzen oder von
+einer Festsetzung der vom Mündel zu leistenden Zahlungen absehen.
 
 (3) Nach dem Tode des Mündels bestimmt das Gericht Höhe und Zeitpunkt
 der Zahlungen, die der Erbe des Mündels nach § 1836e des Bürgerlichen
@@ -3735,8 +3934,10 @@ anzuwenden.
 (1) Wird dem Standesamt der Tod einer Person, die ein minderjähriges
 Kind hinterlassen hat, oder die Geburt eines Kindes nach dem Tod des
 Vaters oder das Auffinden eines Minderjährigen, dessen Familienstand
-nicht zu ermitteln ist, angezeigt, hat das Standesamt dies dem
-Familiengericht mitzuteilen.
+nicht zu ermitteln ist, oder die Geburt eines Kindes im Wege der
+vertraulichen Geburt nach § 25 Absatz 1 des
+Schwangerschaftskonfliktgesetzes angezeigt, hat das Standesamt dies
+dem Familiengericht mitzuteilen.
 
 (2) Führen Eltern, die gemeinsam für ein Kind sorgeberechtigt sind,
 keinen Ehenamen und ist von ihnen binnen eines Monats nach der Geburt
@@ -3792,11 +3993,7 @@ Personen bezeichnet werden. In einem Verfahren auf Anfechtung der
 Vaterschaft nach § 1600 Abs. 1 Nr. 1 bis 4 des Bürgerlichen
 Gesetzbuchs sollen die Umstände angegeben werden, die gegen die
 Vaterschaft sprechen, sowie der Zeitpunkt, in dem diese Umstände
-bekannt wurden. In einem Verfahren auf Anfechtung der Vaterschaft nach
-§ 1600 Abs. 1 Nr. 5 des Bürgerlichen Gesetzbuchs müssen die Umstände
-angegeben werden, die die Annahme rechtfertigen, dass die
-Voraussetzungen des § 1600 Abs. 3 des Bürgerlichen Gesetzbuchs
-vorliegen, sowie der Zeitpunkt, in dem diese Umstände bekannt wurden.
+bekannt wurden.
 
 
 #### § 172 Beteiligte
@@ -3848,12 +4045,12 @@ das Gericht persönlich anhören.
 
 #### § 176 Anhörung des Jugendamts
 
-(1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Abs. 1 Nr. 2
-und 5 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung nach
-§ 1600 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs, wenn die Anfechtung
-durch den gesetzlichen Vertreter erfolgt, das Jugendamt anhören. Im
-Übrigen kann das Gericht das Jugendamt anhören, wenn ein Beteiligter
-minderjährig ist.
+(1) Das Gericht soll im Fall einer Anfechtung nach § 1600 Absatz 1
+Nummer 2 des Bürgerlichen Gesetzbuchs sowie im Fall einer Anfechtung
+nach § 1600 Abs. 1 Nr. 4 des Bürgerlichen Gesetzbuchs, wenn die
+Anfechtung durch den gesetzlichen Vertreter erfolgt, das Jugendamt
+anhören. Im Übrigen kann das Gericht das Jugendamt anhören, wenn ein
+Beteiligter minderjährig ist.
 
 (2) Das Gericht hat dem Jugendamt in den Fällen einer Anfechtung nach
 Absatz 1 Satz 1 sowie einer Anhörung nach Absatz 1 Satz 2 die
@@ -4040,9 +4237,9 @@ aus wichtigem Grund an ein anderes Gericht verweisen.
         Gesetzbuchs,
 
 
-    c)  der Ehegatte des Annehmenden und der Ehegatte des Anzunehmenden,
-        sofern nicht ein Fall des § 1749 Abs. 3 des Bürgerlichen Gesetzbuchs
-        vorliegt;
+    c)  der Ehegatte oder Lebenspartner des Annehmenden und der Ehegatte oder
+        Lebenspartner des Anzunehmenden, sofern nicht ein Fall des § 1749
+        Absatz 2 des Bürgerlichen Gesetzbuchs vorliegt;
 
 
 
@@ -4404,11 +4601,21 @@ in der Regel vor, wenn eine Tat nach § 1 des Gewaltschutzgesetzes
 begangen wurde oder auf Grund konkreter Umstände mit einer Begehung zu
 rechnen ist.
 
-(2) Der Antrag auf Erlass der einstweiligen Anordnung gilt im Fall des
-Erlasses ohne mündliche Erörterung zugleich als Auftrag zur Zustellung
-durch den Gerichtsvollzieher unter Vermittlung der Geschäftsstelle und
-als Auftrag zur Vollstreckung; auf Verlangen des Antragstellers darf
-die Zustellung nicht vor der Vollstreckung erfolgen.
+(2) Der Beschluss nach Absatz 1 ist von Amts wegen zuzustellen. Die
+Geschäftsstelle beauftragt den Gerichtsvollzieher mit der Zustellung.
+Der Antrag auf Erlass der einstweiligen Anordnung gilt im Fall des
+Erlasses ohne mündliche Erörterung zugleich als Auftrag zur
+Vollstreckung; auf Verlangen des Antragstellers darf die Zustellung
+nicht vor der Vollstreckung erfolgen.
+
+
+#### § 214a Bestätigung des Vergleichs
+
+Schließen die Beteiligten einen Vergleich, hat das Gericht diesen zu
+bestätigen, soweit es selbst eine entsprechende Maßnahme nach § 1
+Absatz 1 des Gewaltschutzgesetzes, auch in Verbindung mit § 1 Absatz 2
+Satz 1 des Gewaltschutzgesetzes, hätte anordnen können. Die
+Bestätigung des Gerichts ist nicht anfechtbar.
 
 
 #### § 215 Durchführung der Endentscheidung
@@ -4440,7 +4647,9 @@ der Durchführung der Anordnung betroffen sind, unverzüglich mit,
 soweit nicht schutzwürdige Interessen eines Beteiligten an dem
 Ausschluss der Übermittlung, das Schutzbedürfnis anderer Beteiligter
 oder das öffentliche Interesse an der Übermittlung überwiegen. Die
-Beteiligten sollen über die Mitteilung unterrichtet werden.
+Beteiligten sollen über die Mitteilung unterrichtet werden. Für den
+bestätigten Vergleich nach § 214a gelten die vorstehenden Bestimmungen
+entsprechend.
 
 
 ### Abschnitt 8 - Verfahren in Versorgungsausgleichssachen
@@ -4681,7 +4890,6 @@ erforderlichen Daten auszutauschen. Mit der elektronischen
 (3) Das Gericht soll dem Versorgungsträger Auskunftsersuchen nach §
 220, der Versorgungsträger soll dem Gericht Auskünfte nach § 220 und
 Erklärungen nach § 222 Abs. 1 im Übermittlungsverfahren übermitteln.
-Einer Verordnung nach § 14 Abs. 4 bedarf es insoweit nicht.
 
 (4) Entscheidungen des Gerichts in Versorgungsausgleichssachen sollen
 dem Versorgungsträger im Übermittlungsverfahren zugestellt werden.
@@ -5202,100 +5410,66 @@ Zugleich weist es ihn darauf hin,
 
 3.  dass über den Unterhalt ein Festsetzungsbeschluss ergehen kann, aus
     dem der Antragsteller die Zwangsvollstreckung betreiben kann, wenn er
-    nicht innerhalb eines Monats Einwendungen in der vorgeschriebenen Form
-    erhebt;
+    nicht innerhalb eines Monats Einwendungen erhebt;
 
 
-4.  welche Einwendungen nach § 252 Abs. 1 und 2 erhoben werden können,
-    insbesondere, dass der Einwand eingeschränkter oder fehlender
-    Leistungsfähigkeit nur erhoben werden kann, wenn die Auskunft nach §
-    252 Abs. 2 Satz 3 in Form eines vollständig ausgefüllten Formulars
-    erteilt wird und Belege über die Einkünfte beigefügt werden;
-
-
-5.  dass die Einwendungen, wenn Formulare eingeführt sind, mit einem
-    Formular der beigefügten Art erhoben werden müssen, das auch bei jedem
-    Amtsgericht erhältlich ist.
+4.  welche Einwendungen nach § 252 erhoben werden können, insbesondere,
+    dass der Einwand eingeschränkter oder fehlender Leistungsfähigkeit nur
+    erhoben werden kann, wenn die Auskunft nach § 252 Absatz 4 erteilt
+    wird und Belege über die Einkünfte beigefügt werden.
 
 
 
 Ist der Antrag im Ausland zuzustellen, bestimmt das Gericht die Frist
-nach Satz 2 Nr. 3.
+nach Satz 2 Nummer 3.
 
 (2) § 167 der Zivilprozessordnung gilt entsprechend.
 
 
 ##### § 252 Einwendungen des Antragsgegners
 
-(1) Der Antragsgegner kann Einwendungen geltend machen gegen
+(1) Der Antragsgegner kann Einwendungen gegen die Zulässigkeit des
+vereinfachten Verfahrens geltend machen. Bei begründeten Einwendungen
+weist das Gericht den Antrag zurück. Unbegründete Einwendungen weist
+das Gericht mit dem Festsetzungsbeschluss nach § 253 zurück.
 
-1.  die Zulässigkeit des vereinfachten Verfahrens;
+(2) Andere als die in Absatz 1 Satz 1 genannten Einwendungen,
+insbesondere Einwendungen nach den Absätzen 3 und 4, sind nur
+zulässig, wenn der Antragsgegner zugleich erklärt, inwieweit er zur
+Unterhaltsleistung bereit ist und dass er sich insoweit zur Erfüllung
+des Unterhaltsanspruchs verpflichtet.
 
+(3) Der Einwand der Erfüllung ist nur zulässig, wenn der Antragsgegner
+zugleich erklärt, inwieweit er Unterhalt geleistet hat und
+entsprechende Belege vorlegt.
 
-2.  den Zeitpunkt, von dem an Unterhalt gezahlt werden soll;
+(4) Der Einwand eingeschränkter oder fehlender Leistungsfähigkeit ist
+nur zulässig, wenn der Antragsgegner zugleich Auskunft über seine
+Einkünfte und sein Vermögen erteilt und für die letzten zwölf Monate
+seine Einkünfte belegt. Ein Antragsgegner, der Leistungen zur
+Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch
+oder dem Zwölften Buch Sozialgesetzbuch bezieht, muss den aktuellen
+Bewilligungsbescheid darüber vorlegen. Bei Einkünften aus
+selbständiger Arbeit, Gewerbebetrieb sowie Land- und Forstwirtschaft
+sind als Belege der letzte Einkommensteuerbescheid und für das letzte
+Wirtschaftsjahr die Gewinn-und-Verlust-Rechnung oder die
+Einnahmenüberschussrechnung vorzulegen.
 
-
-3.  die Höhe des Unterhalts, soweit er geltend macht, dass
-
-    a)  die nach dem Alter des Kindes zu bestimmenden Zeiträume, für die der
-        Unterhalt nach dem Mindestunterhalt der ersten, zweiten und dritten
-        Altersstufe festgesetzt werden soll, oder der angegebene
-        Mindestunterhalt nicht richtig berechnet sind,
-
-
-    b)  der Unterhalt nicht höher als beantragt festgesetzt werden darf,
-
-
-    c)  Leistungen der in § 1612b oder § 1612c des Bürgerlichen Gesetzbuchs
-        bezeichneten Art nicht oder nicht richtig berücksichtigt worden sind.
-
-
-
-
-
-
-Ferner kann er, wenn er sich sofort zur Erfüllung des
-Unterhaltsanspruchs verpflichtet, hinsichtlich der Verfahrenskosten
-geltend machen, dass er keinen Anlass zur Stellung des Antrags gegeben
-hat. Nicht begründete Einwendungen nach Satz 1 Nr. 1 und 3 weist das
-Gericht mit dem Festsetzungsbeschluss zurück, ebenso eine Einwendung
-nach Satz 1 Nr. 2, wenn ihm diese nicht begründet erscheint.
-
-(2) Andere Einwendungen kann der Antragsgegner nur erheben, wenn er
-zugleich erklärt, inwieweit er zur Unterhaltsleistung bereit ist und
-dass er sich insoweit zur Erfüllung des Unterhaltsanspruchs
-verpflichtet. Den Einwand der Erfüllung kann der Antragsgegner nur
-erheben, wenn er zugleich erklärt, inwieweit er geleistet hat und dass
-er sich verpflichtet, einen darüber hinausgehenden Unterhaltsrückstand
-zu begleichen. Den Einwand eingeschränkter oder fehlender
-Leistungsfähigkeit kann der Antragsgegner nur erheben, wenn er
-zugleich unter Verwendung des eingeführten Formulars Auskunft über
-
-1.  seine Einkünfte,
-
-
-2.  sein Vermögen und
-
-
-3.  seine persönlichen und wirtschaftlichen Verhältnisse im Übrigen
-
-
-
-erteilt und über seine Einkünfte Belege vorlegt.
-
-(3) Die Einwendungen sind nur zu berücksichtigen, solange der
-Festsetzungsbeschluss nicht verfügt ist.
+(5) Die Einwendungen sind nur zu berücksichtigen, solange der
+Festsetzungsbeschluss nicht erlassen ist.
 
 
 ##### § 253 Festsetzungsbeschluss
 
-(1) Werden keine oder lediglich nach § 252 Abs. 1 Satz 3
-zurückzuweisende oder nach § 252 Abs. 2 unzulässige Einwendungen
-erhoben, wird der Unterhalt nach Ablauf der in § 251 Abs. 1 Satz 2 Nr.
-3 bezeichneten Frist durch Beschluss festgesetzt. In dem Beschluss ist
-auszusprechen, dass der Antragsgegner den festgesetzten Unterhalt an
-den Unterhaltsberechtigten zu zahlen hat. In dem Beschluss sind auch
-die bis dahin entstandenen erstattungsfähigen Kosten des Verfahrens
+(1) Ist der Antrag zulässig und werden keine oder keine nach § 252
+Absatz 2 bis 4 zulässigen Einwendungen erhoben, wird der Unterhalt
+nach Ablauf der in § 251 Abs. 1 Satz 2 Nr. 3 bezeichneten Frist durch
+Beschluss festgesetzt. Die Festsetzung durch Beschluss erfolgt auch,
+soweit sich der Antragsgegner nach § 252 Absatz 2 zur Zahlung von
+Unterhalt verpflichtet hat. In dem Beschluss ist auszusprechen, dass
+der Antragsgegner den festgesetzten Unterhalt an den
+Unterhaltsberechtigten zu zahlen hat. In dem Beschluss sind auch die
+bis dahin entstandenen erstattungsfähigen Kosten des Verfahrens
 festzusetzen, soweit sie ohne weiteres ermittelt werden können; es
 genügt, wenn der Antragsteller die zu ihrer Berechnung notwendigen
 Angaben dem Gericht mitteilt.
@@ -5307,19 +5481,16 @@ Voraussetzungen eine Abänderung verlangt werden kann.
 
 ##### § 254 Mitteilungen über Einwendungen
 
-Sind Einwendungen erhoben worden, die nach § 252 Abs. 1 Satz 3 nicht
-zurückzuweisen oder die nach § 252 Abs. 2 zulässig sind, teilt das
-Gericht dem Antragsteller dies mit. Es setzt auf seinen Antrag den
-Unterhalt durch Beschluss fest, soweit sich der Antragsgegner nach §
-252 Abs. 2 Satz 1 und 2 zur Zahlung von Unterhalt verpflichtet hat. In
-der Mitteilung nach Satz 1 ist darauf hinzuweisen.
+Hat der Antragsgegner zulässige Einwendungen (§ 252 Absatz 2 bis 4)
+erhoben, teilt das Gericht dem Antragsteller dies mit und weist darauf
+hin, dass das streitige Verfahren auf Antrag eines Beteiligten
+durchgeführt wird.
 
 
 ##### § 255 Streitiges Verfahren
 
 (1) Im Fall des § 254 wird auf Antrag eines Beteiligten das streitige
-Verfahren durchgeführt. Darauf ist in der Mitteilung nach § 254 Satz 1
-hinzuweisen.
+Verfahren durchgeführt.
 
 (2) Beantragt ein Beteiligter die Durchführung des streitigen
 Verfahrens, ist wie nach Eingang eines Antrags in einer
@@ -5329,31 +5500,32 @@ als Erwiderung.
 (3) Das Verfahren gilt als mit der Zustellung des Festsetzungsantrags
 (§ 251 Abs. 1 Satz 1) rechtshängig geworden.
 
-(4) Ist ein Festsetzungsbeschluss nach § 254 Satz 2 vorausgegangen,
-soll für zukünftige wiederkehrende Leistungen der Unterhalt in einem
-Gesamtbetrag bestimmt und der Festsetzungsbeschluss insoweit
-aufgehoben werden.
+(4) Ist ein Festsetzungsbeschluss nach § 253 Absatz 1 Satz 2
+vorausgegangen, soll für zukünftige wiederkehrende Leistungen der
+Unterhalt in einem Gesamtbetrag bestimmt und der Festsetzungsbeschluss
+insoweit aufgehoben werden.
 
 (5) Die Kosten des vereinfachten Verfahrens werden als Teil der Kosten
 des streitigen Verfahrens behandelt.
 
 (6) Wird der Antrag auf Durchführung des streitigen Verfahrens nicht
 vor Ablauf von sechs Monaten nach Zugang der Mitteilung nach § 254
-Satz 1 gestellt, gilt der über den Festsetzungsbeschluss nach § 254
-Satz 2 oder die Verpflichtungserklärung des Antragsgegners nach § 252
-Abs. 2 Satz 1 und 2 hinausgehende Festsetzungsantrag als
-zurückgenommen.
+gestellt, so gilt der Festsetzungsantrag, der über den
+Festsetzungsbeschluss nach § 253 Absatz 1 Satz 2 hinausgeht, oder der
+Festsetzungsantrag, der über die Verpflichtungserklärung des
+Antragsgegners nach § 252 Absatz 2 hinausgeht, als zurückgenommen.
 
 
 ##### § 256 Beschwerde
 
-Mit der Beschwerde können nur die in § 252 Abs. 1 bezeichneten
-Einwendungen, die Zulässigkeit von Einwendungen nach § 252 Abs. 2
-sowie die Unrichtigkeit der Kostenentscheidung oder Kostenfestsetzung,
-sofern sie nach allgemeinen Grundsätzen anfechtbar sind, geltend
-gemacht werden. Auf Einwendungen nach § 252 Abs. 2, die nicht erhoben
-waren, bevor der Festsetzungsbeschluss verfügt war, kann die
-Beschwerde nicht gestützt werden.
+Mit der Beschwerde können nur Einwendungen gegen die Zulässigkeit oder
+die Unzulässigkeit des vereinfachten Verfahrens, die Zulässigkeit von
+Einwendungen nach § 252 Absatz 2 bis 4 sowie die Unrichtigkeit der
+Kostenentscheidung oder Kostenfestsetzung, sofern sie nach allgemeinen
+Grundsätzen anfechtbar sind, geltend gemacht werden. Die Beschwerde
+ist unzulässig, wenn sie sich auf Einwendungen nach § 252 Absatz 2 bis
+4 stützt, die nicht erhoben waren, bevor der Festsetzungsbeschluss
+erlassen war.
 
 
 ##### § 257 Besondere Verfahrensvorschriften
@@ -5368,7 +5540,8 @@ Erklärung aufgenommen hat.
 ##### § 258 Sonderregelungen für maschinelle Bearbeitung
 
 (1) In vereinfachten Verfahren ist eine maschinelle Bearbeitung
-zulässig. § 690 Abs. 3 der Zivilprozessordnung gilt entsprechend.
+zulässig. § 702 Absatz 2 Satz 1, 3 und 4 der Zivilprozessordnung gilt
+entsprechend.
 
 (2) Bei maschineller Bearbeitung werden Beschlüsse, Verfügungen und
 Ausfertigungen mit dem Gerichtssiegel versehen; einer Unterschrift
@@ -5377,13 +5550,13 @@ bedarf es nicht.
 
 ##### § 259 Formulare
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, zur
-Vereinfachung und Vereinheitlichung der Verfahren durch
-Rechtsverordnung mit Zustimmung des Bundesrates Formulare für das
-vereinfachte Verfahren einzuführen. Für Gerichte, die die Verfahren
-maschinell bearbeiten, und für Gerichte, die die Verfahren nicht
-maschinell bearbeiten, können unterschiedliche Formulare eingeführt
-werden.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, zur Vereinfachung und Vereinheitlichung der Verfahren
+durch Rechtsverordnung mit Zustimmung des Bundesrates Formulare für
+das vereinfachte Verfahren einzuführen. Für Gerichte, die die
+Verfahren maschinell bearbeiten, und für Gerichte, die die Verfahren
+nicht maschinell bearbeiten, können unterschiedliche Formulare
+eingeführt werden.
 
 (2) Soweit nach Absatz 1 Formulare für Anträge und Erklärungen der
 Beteiligten eingeführt sind, müssen sich die Beteiligten ihrer
@@ -5415,9 +5588,13 @@ dem anderen Amtsgericht.
 Güterrecht betreffen, auch wenn Dritte an dem Verfahren beteiligt
 sind.
 
-(2) Güterrechtssachen sind auch Verfahren nach § 1365 Abs. 2, § 1369
-Abs. 2 und den §§ 1382, 1383, 1426, 1430 und 1452 des Bürgerlichen
-Gesetzbuchs.
+(2) Güterrechtssachen sind auch Verfahren nach § 1365 Absatz 2, § 1369
+Absatz 2, den §§ 1382, 1383, 1426, 1430 und 1452 des Bürgerlichen
+Gesetzbuchs sowie nach § 1519 des Bürgerlichen Gesetzbuchs in
+Verbindung mit Artikel 5 Absatz 2, Artikel 12 Absatz 2 Satz 2 und
+Artikel 17 des Abkommens vom 4. Februar 2010 zwischen der
+Bundesrepublik Deutschland und der Französischen Republik über den
+Güterstand der Wahl-Zugewinngemeinschaft.
 
 
 #### § 262 Örtliche Zuständigkeit
@@ -5441,10 +5618,14 @@ Amts wegen an das Gericht der Ehesache abzugeben. § 281 Abs. 2 und 3
 Satz 1 der Zivilprozessordnung gilt entsprechend.
 
 
-#### § 264 Verfahren nach den §§ 1382 und 1383 des Bürgerlichen Gesetzbuchs
+#### § 264 Verfahren auf Stundung und auf Übertragung von Vermögensgegenständen
 
 (1) In den Verfahren nach den §§ 1382 und 1383 des Bürgerlichen
-Gesetzbuchs wird die Entscheidung des Gerichts erst mit der
+Gesetzbuchs sowie nach § 1519 des Bürgerlichen Gesetzbuchs in
+Verbindung mit Artikel 12 Absatz 2 Satz 2 und Artikel 17 des Abkommens
+vom 4. Februar 2010 zwischen der Bundesrepublik Deutschland und der
+Französischen Republik über den Güterstand der Wahl-
+Zugewinngemeinschaft wird die Entscheidung des Gerichts erst mit
 Rechtskraft wirksam. Eine Abänderung oder Wiederaufnahme ist
 ausgeschlossen.
 
@@ -5574,7 +5755,11 @@ haben:
 
 
 12. Entscheidungen nach § 7 des Lebenspartnerschaftsgesetzes in Verbindung
-    mit den §§ 1426, 1430 und 1452 des Bürgerlichen Gesetzbuchs.
+    mit den §§ 1426, 1430, 1452 des Bürgerlichen Gesetzbuchs oder mit §
+    1519 des Bürgerlichen Gesetzbuchs und Artikel 5 Absatz 2, Artikel 12
+    Absatz 2 Satz 2 oder Artikel 17 des Abkommens vom 4. Februar 2010
+    zwischen der Bundesrepublik Deutschland und der Französischen Republik
+    über den Güterstand der Wahl-Zugewinngemeinschaft.
 
 
 
@@ -5840,8 +6025,8 @@ widerspricht.
 Verlauf des Verfahrens. In geeigneten Fällen hat es den Betroffenen
 auf die Möglichkeit der Vorsorgevollmacht, deren Inhalt sowie auf die
 Möglichkeit ihrer Registrierung bei dem zentralen Vorsorgeregister
-nach § 78a Abs. 1 der Bundesnotarordnung hinzuweisen. Das Gericht hat
-den Umfang des Aufgabenkreises und die Frage, welche Person oder
+nach § 78a Absatz 2 der Bundesnotarordnung hinzuweisen. Das Gericht
+hat den Umfang des Aufgabenkreises und die Frage, welche Person oder
 Stelle als Betreuer in Betracht kommt, mit dem Betroffenen zu
 erörtern.
 
@@ -5878,8 +6063,25 @@ Grundgesetzes eingeschränkt.
 Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören.
 
 (2) Das Gericht hat die zuständige Behörde vor der Bestellung eines
-Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören,
-wenn es der Betroffene verlangt oder es der Sachaufklärung dient.
+Betreuers oder der Anordnung eines Einwilligungsvorbehalts anzuhören.
+Die Anhörung vor der Bestellung eines Betreuers soll sich insbesondere
+auf folgende Kriterien beziehen:
+
+1.  persönliche, gesundheitliche und soziale Situation des Betroffenen,
+
+
+2.  Erforderlichkeit der Betreuung einschließlich geeigneter anderer
+    Hilfen (§ 1896 Absatz 2 des Bürgerlichen Gesetzbuchs),
+
+
+3.  Betreuerauswahl unter Berücksichtigung des Vorrangs der
+    Ehrenamtlichkeit (§ 1897 des Bürgerlichen Gesetzbuchs) und
+
+
+4.  diesbezügliche Sichtweise des Betroffenen.
+
+
+
 
 (3) Auf Verlangen des Betroffenen hat das Gericht eine ihm
 nahestehende Person anzuhören, wenn dies ohne erhebliche Verzögerung
@@ -5900,7 +6102,10 @@ stattzufinden. Der Sachverständige soll Arzt für Psychiatrie oder Arzt
 mit Erfahrung auf dem Gebiet der Psychiatrie sein.
 
 (2) Der Sachverständige hat den Betroffenen vor der Erstattung des
-Gutachtens persönlich zu untersuchen oder zu befragen.
+Gutachtens persönlich zu untersuchen oder zu befragen. Das Ergebnis
+einer Anhörung nach § 279 Absatz 2 Satz 2 hat der Sachverständige zu
+berücksichtigen, wenn es ihm bei Erstellung seines Gutachtens
+vorliegt.
 
 (3) Das Gutachten hat sich auf folgende Bereiche zu erstrecken:
 
@@ -6170,7 +6375,9 @@ Landesjustizverwaltungen übertragen.
 (1) Für die Erweiterung des Aufgabenkreises des Betreuers und die
 Erweiterung des Kreises der einwilligungsbedürftigen
 Willenserklärungen gelten die Vorschriften über die Anordnung dieser
-Maßnahmen entsprechend.
+Maßnahmen entsprechend. Das Gericht hat die zuständige Behörde nur
+anzuhören, wenn es der Betroffene verlangt oder es zur Sachaufklärung
+erforderlich ist.
 
 (2) Einer persönlichen Anhörung nach § 278 Abs. 1 sowie der Einholung
 eines Gutachtens oder ärztlichen Zeugnisses (§§ 280 und 281) bedarf es
@@ -6186,7 +6393,7 @@ nicht,
 
 Eine wesentliche Erweiterung des Aufgabenkreises des Betreuers liegt
 insbesondere vor, wenn erstmals ganz oder teilweise die Personensorge
-oder eine der in § 1896 Abs. 4 oder den §§ 1904 bis 1906 des
+oder eine der in § 1896 Abs. 4 oder den §§ 1904 bis 1906a des
 Bürgerlichen Gesetzbuchs genannten Aufgaben einbezogen wird.
 
 (3) Ist mit der Bestellung eines weiteren Betreuers nach § 1899 des
@@ -6199,8 +6406,10 @@ verbunden, gelten die Absätze 1 und 2 entsprechend.
 (1) Für die Aufhebung der Betreuung oder der Anordnung eines
 Einwilligungsvorbehalts und für die Einschränkung des Aufgabenkreises
 des Betreuers oder des Kreises der einwilligungsbedürftigen
-Willenserklärungen gelten die §§ 279 und 288 Abs. 2 Satz 1
-entsprechend.
+Willenserklärungen gilt § 279 Absatz 1, 3 und 4 sowie § 288 Absatz 2
+Satz 1 entsprechend. Das Gericht hat die zuständige Behörde nur
+anzuhören, wenn es der Betroffene verlangt oder es zur Sachaufklärung
+erforderlich ist.
 
 (2) Hat das Gericht nach § 281 Abs. 1 Nr. 1 von der Einholung eines
 Gutachtens abgesehen, ist dies nachzuholen, wenn ein Antrag des
@@ -6220,7 +6429,9 @@ die erstmalige Anordnung dieser Maßnahmen entsprechend. Von der
 erneuten Einholung eines Gutachtens kann abgesehen werden, wenn sich
 aus der persönlichen Anhörung des Betroffenen und einem ärztlichen
 Zeugnis ergibt, dass sich der Umfang der Betreuungsbedürftigkeit
-offensichtlich nicht verringert hat.
+offensichtlich nicht verringert hat. Das Gericht hat die zuständige
+Behörde nur anzuhören, wenn es der Betroffene verlangt oder es zur
+Sachaufklärung erforderlich ist.
 
 (2) Über die Verlängerung der Betreuung oder des
 Einwilligungsvorbehalts hat das Gericht spätestens sieben Jahre nach
@@ -6535,21 +6746,25 @@ Betroffenen an dem Ausschluss der Übermittlung überwiegen. § 308 Abs.
 
 #### § 312 Unterbringungssachen
 
-Unterbringungssachen sind Verfahren, die
+Unterbringungssachen sind Verfahren, die die Genehmigung oder
+Anordnung einer
 
-1.  die Genehmigung einer freiheitsentziehenden Unterbringung eines
-    Betreuten (§ 1906 Abs. 1 bis 3 des Bürgerlichen Gesetzbuchs) oder
-    einer Person, die einen Dritten zu ihrer freiheitsentziehenden
-    Unterbringung bevollmächtigt hat (§ 1906 Abs. 5 des Bürgerlichen
-    Gesetzbuchs),
+1.  freiheitsentziehenden Unterbringung nach § 1906 Absatz 1 und 2 auch in
+    Verbindung mit Absatz 5 des Bürgerlichen Gesetzbuchs,
 
 
-2.  die Genehmigung einer freiheitsentziehenden Maßnahme nach § 1906 Abs.
-    4 des Bürgerlichen Gesetzbuchs oder
+2.  freiheitsentziehenden Maßnahme nach § 1906 Absatz 4 auch in Verbindung
+    mit Absatz 5 des Bürgerlichen Gesetzbuchs,
 
 
-3.  eine freiheitsentziehende Unterbringung eines Volljährigen nach den
-    Landesgesetzen über die Unterbringung psychisch Kranker
+3.  ärztlichen Zwangsmaßnahme, auch einschließlich einer Verbringung zu
+    einem stationären Aufenthalt, nach § 1906a Absatz 1, 2 und 4 auch in
+    Verbindung mit Absatz 5 des Bürgerlichen Gesetzbuchs oder
+
+
+4.  freiheitsentziehenden Unterbringung und einer ärztlichen
+    Zwangsmaßnahme bei Volljährigen nach den Landesgesetzen über die
+    Unterbringung psychisch Kranker
 
 
 
@@ -6558,8 +6773,8 @@ betreffen.
 
 #### § 313 Örtliche Zuständigkeit
 
-(1) Ausschließlich zuständig für Unterbringungssachen nach § 312 Nr. 1
-und 2 ist in dieser Rangfolge:
+(1) Ausschließlich zuständig für Unterbringungssachen nach § 312
+Nummer 1 bis 3 ist in dieser Rangfolge:
 
 1.  das Gericht, bei dem ein Verfahren zur Bestellung eines Betreuers
     eingeleitet oder das Betreuungsverfahren anhängig ist;
@@ -6585,8 +6800,8 @@ Unterbringungsmaßnahme bekannt wird. In den Fällen einer einstweiligen
 Anordnung oder einstweiligen Maßregel soll es dem nach Absatz 1 Nr. 1
 oder Nr. 2 zuständigen Gericht davon Mitteilung machen.
 
-(3) Ausschließlich zuständig für Unterbringungen nach § 312 Nr. 3 ist
-das Gericht, in dessen Bezirk das Bedürfnis für die
+(3) Ausschließlich zuständig für Unterbringungen nach § 312 Nummer 4
+ist das Gericht, in dessen Bezirk das Bedürfnis für die
 Unterbringungsmaßnahme hervortritt. Befindet sich der Betroffene
 bereits in einer Einrichtung zur freiheitsentziehenden Unterbringung,
 ist das Gericht ausschließlich zuständig, in dessen Bezirk die
@@ -6662,7 +6877,10 @@ Geschäftsfähigkeit verfahrensfähig.
 (1) Das Gericht hat dem Betroffenen einen Verfahrenspfleger zu
 bestellen, wenn dies zur Wahrnehmung der Interessen des Betroffenen
 erforderlich ist. Die Bestellung ist insbesondere erforderlich, wenn
-von einer Anhörung des Betroffenen abgesehen werden soll.
+von einer Anhörung des Betroffenen abgesehen werden soll. Bei der
+Genehmigung einer Einwilligung in eine ärztliche Zwangsmaßnahme oder
+deren Anordnung ist die Bestellung eines Verfahrenspflegers stets
+erforderlich.
 
 (2) Bestellt das Gericht dem Betroffenen keinen Verfahrenspfleger, ist
 dies in der Entscheidung, durch die eine Unterbringungsmaßnahme
@@ -6747,7 +6965,9 @@ Erstattung des Gutachtens persönlich zu untersuchen oder zu befragen.
 Das Gutachten soll sich auch auf die voraussichtliche Dauer der
 Unterbringung erstrecken. Der Sachverständige soll Arzt für
 Psychiatrie sein; er muss Arzt mit Erfahrung auf dem Gebiet der
-Psychiatrie sein.
+Psychiatrie sein. Bei der Genehmigung einer Einwilligung in eine
+ärztliche Zwangsmaßnahme oder bei deren Anordnung soll der
+Sachverständige nicht der zwangsbehandelnde Arzt sein.
 
 (2) Für eine Maßnahme nach § 312 Nr. 2 genügt ein ärztliches Zeugnis.
 
@@ -6760,7 +6980,7 @@ Begutachtung gelten die §§ 283 und 284 entsprechend.
 
 #### § 323 Inhalt der Beschlussformel
 
-Die Beschlussformel enthält im Fall der Genehmigung oder Anordnung
+(1) Die Beschlussformel enthält im Fall der Genehmigung oder Anordnung
 einer Unterbringungsmaßnahme auch
 
 1.  die nähere Bezeichnung der Unterbringungsmaßnahme sowie
@@ -6770,6 +6990,11 @@ einer Unterbringungsmaßnahme auch
 
 
 
+
+(2) Die Beschlussformel enthält bei der Genehmigung einer Einwilligung
+in eine ärztliche Zwangsmaßnahme oder bei deren Anordnung auch Angaben
+zur Durchführung und Dokumentation dieser Maßnahme in der
+Verantwortung eines Arztes.
 
 
 #### § 324 Wirksamwerden von Beschlüssen
@@ -6813,13 +7038,14 @@ hat der zuständigen Behörde die Entscheidung, durch die eine
 Unterbringungsmaßnahme genehmigt, angeordnet oder aufgehoben wird,
 bekannt zu geben.
 
+Zuführung zur Unterbringung;
 
-#### § 326 Zuführung zur Unterbringung
+#### § 326 Verbringung zu einem stationären Aufenthalt
 
 (1) Die zuständige Behörde hat den Betreuer oder den Bevollmächtigten
 im Sinne des § 1896 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs auf
-deren Wunsch bei der Zuführung zur Unterbringung nach § 312 Nr. 1 zu
-unterstützen.
+deren Wunsch bei der Zuführung zur Unterbringung nach § 312 Nr. 1 oder
+bei der Verbringung nach § 312 Nummer 3 zu unterstützen.
 
 (2) Gewalt darf die Behörde nur anwenden, wenn das Gericht dies
 ausdrücklich angeordnet hat. Die zuständige Behörde ist befugt,
@@ -6828,18 +7054,19 @@ nachzusuchen.
 
 (3) Die Wohnung des Betroffenen darf ohne dessen Einwilligung nur
 gewaltsam geöffnet, betreten und durchsucht werden, wenn das Gericht
-dies zu dessen Zuführung zur Unterbringung ausdrücklich angeordnet
-hat. Vor der Anordnung ist der Betroffene persönlich anzuhören. Bei
-Gefahr im Verzug kann die Anordnung durch die zuständige Behörde ohne
-vorherige Anhörung des Betroffenen erfolgen. Durch diese Regelung wird
-das Grundrecht auf Unverletzlichkeit der Wohnung aus Artikel 13 Absatz
-1 des Grundgesetzes eingeschränkt.
+dies zu dessen Zuführung zur Unterbringung oder zu dessen Verbringung
+nach § 312 Nummer 3 ausdrücklich angeordnet hat. Vor der Anordnung ist
+der Betroffene persönlich anzuhören. Bei Gefahr im Verzug kann die
+Anordnung durch die zuständige Behörde ohne vorherige Anhörung des
+Betroffenen erfolgen. Durch diese Regelung wird das Grundrecht auf
+Unverletzlichkeit der Wohnung aus Artikel 13 Absatz 1 des
+Grundgesetzes eingeschränkt.
 
 
 #### § 327 Vollzugsangelegenheiten
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten im
-Vollzug der Unterbringung nach § 312 Nr. 3 kann der Betroffene eine
+Vollzug der Unterbringung nach § 312 Nummer 4 kann der Betroffene eine
 Entscheidung des Gerichts beantragen. Mit dem Antrag kann auch die
 Verpflichtung zum Erlass einer abgelehnten oder unterlassenen Maßnahme
 begehrt werden.
@@ -6857,8 +7084,8 @@ aufschiebende Wirkung anordnen.
 #### § 328 Aussetzung des Vollzugs
 
 (1) Das Gericht kann die Vollziehung einer Unterbringung nach § 312
-Nr. 3 aussetzen. Die Aussetzung kann mit Auflagen versehen werden. Die
-Aussetzung soll sechs Monate nicht überschreiten; sie kann bis zu
+Nummer 4 aussetzen. Die Aussetzung kann mit Auflagen versehen werden.
+Die Aussetzung soll sechs Monate nicht überschreiten; sie kann bis zu
 einem Jahr verlängert werden.
 
 (2) Das Gericht kann die Aussetzung widerrufen, wenn der Betroffene
@@ -6869,7 +7096,10 @@ eine Auflage nicht erfüllt oder sein Zustand dies erfordert.
 
 (1) Die Unterbringung endet spätestens mit Ablauf eines Jahres, bei
 offensichtlich langer Unterbringungsbedürftigkeit spätestens mit
-Ablauf von zwei Jahren, wenn sie nicht vorher verlängert wird.
+Ablauf von zwei Jahren, wenn sie nicht vorher verlängert wird. Die
+Genehmigung einer Einwilligung in eine ärztliche Zwangsmaßnahme oder
+deren Anordnung darf die Dauer von sechs Wochen nicht überschreiten,
+wenn sie nicht vorher verlängert wird.
 
 (2) Für die Verlängerung der Genehmigung oder Anordnung einer
 Unterbringungsmaßnahme gelten die Vorschriften für die erstmalige
@@ -6879,12 +7109,18 @@ Sachverständigen bestellen, der den Betroffenen bisher behandelt oder
 begutachtet hat oder in der Einrichtung tätig ist, in der der
 Betroffene untergebracht ist.
 
+(3) Bei der Genehmigung einer Einwilligung in eine ärztliche
+Zwangsmaßnahme oder deren Anordnung mit einer Gesamtdauer von mehr als
+zwölf Wochen soll das Gericht keinen Sachverständigen bestellen, der
+den Betroffenen bisher behandelt oder begutachtet hat oder in der
+Einrichtung tätig ist, in der der Betroffene untergebracht ist.
+
 
 #### § 330 Aufhebung der Unterbringung
 
 Die Genehmigung oder Anordnung der Unterbringungsmaßnahme ist
 aufzuheben, wenn ihre Voraussetzungen wegfallen. Vor der Aufhebung
-einer Unterbringungsmaßnahme nach § 312 Nr. 3 soll das Gericht die
+einer Unterbringungsmaßnahme nach § 312 Nummer 4 soll das Gericht die
 zuständige Behörde anhören, es sei denn, dass dies zu einer nicht nur
 geringen Verzögerung des Verfahrens führen würde.
 
@@ -6900,7 +7136,11 @@ Unterbringungsmaßnahme anordnen oder genehmigen, wenn
     Tätigwerden besteht,
 
 
-2.  ein ärztliches Zeugnis über den Zustand des Betroffenen vorliegt,
+2.  ein ärztliches Zeugnis über den Zustand des Betroffenen und über die
+    Notwendigkeit der Maßnahme vorliegt; in den Fällen des § 312 Nummer 1,
+    3 und 4 muss der Arzt, der das ärztliche Zeugnis erstellt, Erfahrung
+    auf dem Gebiet der Psychiatrie haben und soll Arzt für Psychiatrie
+    sein,
 
 
 3.  im Fall des § 317 ein Verfahrenspfleger bestellt und angehört worden
@@ -6925,7 +7165,7 @@ sind unverzüglich nachzuholen.
 
 #### § 333 Dauer der einstweiligen Anordnung
 
-Die einstweilige Anordnung darf die Dauer von sechs Wochen nicht
+(1) Die einstweilige Anordnung darf die Dauer von sechs Wochen nicht
 überschreiten. Reicht dieser Zeitraum nicht aus, kann sie nach
 Anhörung eines Sachverständigen durch eine weitere einstweilige
 Anordnung verlängert werden. Die mehrfache Verlängerung ist unter den
@@ -6933,6 +7173,11 @@ Voraussetzungen der Sätze 1 und 2 zulässig. Sie darf die Gesamtdauer
 von drei Monaten nicht überschreiten. Eine Unterbringung zur
 Vorbereitung eines Gutachtens (§ 322) ist in diese Gesamtdauer
 einzubeziehen.
+
+(2) Die einstweilige Anordnung darf bei der Genehmigung einer
+Einwilligung in eine ärztliche Zwangsmaßnahme oder deren Anordnung die
+Dauer von zwei Wochen nicht überschreiten. Bei mehrfacher Verlängerung
+darf die Gesamtdauer sechs Wochen nicht überschreiten.
 
 
 #### § 334 Einstweilige Maßregeln
@@ -6981,14 +7226,14 @@ in dessen Bezirk er untergebracht ist.
 (1) In Unterbringungssachen kann das Gericht die Auslagen des
 Betroffenen, soweit sie zur zweckentsprechenden Rechtsverfolgung
 notwendig waren, ganz oder teilweise der Staatskasse auferlegen, wenn
-eine Unterbringungsmaßnahme nach § 312 Nr. 1 und 2 abgelehnt, als
+eine Unterbringungsmaßnahme nach § 312 Nummer 1 bis 3 abgelehnt, als
 ungerechtfertigt aufgehoben, eingeschränkt oder das Verfahren ohne
 Entscheidung über eine Maßnahme beendet wird.
 
 (2) Wird ein Antrag auf eine Unterbringungsmaßnahme nach den
-Landesgesetzen über die Unterbringung psychisch Kranker nach § 312 Nr.
-3 abgelehnt oder zurückgenommen und hat das Verfahren ergeben, dass
-für die zuständige Verwaltungsbehörde ein begründeter Anlass, den
+Landesgesetzen über die Unterbringung psychisch Kranker nach § 312
+Nummer 4 abgelehnt oder zurückgenommen und hat das Verfahren ergeben,
+dass für die zuständige Verwaltungsbehörde ein begründeter Anlass, den
 Unterbringungsantrag zu stellen, nicht vorgelegen hat, hat das Gericht
 die Auslagen des Betroffenen der Körperschaft aufzuerlegen, der die
 Verwaltungsbehörde angehört.
@@ -7100,20 +7345,18 @@ betreffen.
 
 #### § 343 Örtliche Zuständigkeit
 
-(1) Die örtliche Zuständigkeit bestimmt sich nach dem Wohnsitz, den
-der Erblasser zur Zeit des Erbfalls hatte; fehlt ein inländischer
-Wohnsitz, ist das Gericht zuständig, in dessen Bezirk der Erblasser
-zur Zeit des Erbfalls seinen Aufenthalt hatte.
+(1) Örtlich zuständig ist das Gericht, in dessen Bezirk der Erblasser
+im Zeitpunkt seines Todes seinen gewöhnlichen Aufenthalt hatte.
 
-(2) Ist der Erblasser Deutscher und hatte er zur Zeit des Erbfalls im
-Inland weder Wohnsitz noch Aufenthalt, ist das Amtsgericht Schöneberg
-in Berlin zuständig. Es kann die Sache aus wichtigen Gründen an ein
-anderes Gericht verweisen.
+(2) Hatte der Erblasser im Zeitpunkt seines Todes keinen gewöhnlichen
+Aufenthalt im Inland, ist das Gericht zuständig, in dessen Bezirk der
+Erblasser seinen letzten gewöhnlichen Aufenthalt im Inland hatte.
 
-(3) Ist der Erblasser ein Ausländer und hatte er zur Zeit des Erbfalls
-im Inland weder Wohnsitz noch Aufenthalt, ist jedes Gericht, in dessen
-Bezirk sich Nachlassgegenstände befinden, für alle Nachlassgegenstände
-zuständig.
+(3) Ist eine Zuständigkeit nach den Absätzen 1 und 2 nicht gegeben,
+ist das Amtsgericht Schöneberg in Berlin zuständig, wenn der Erblasser
+Deutscher ist oder sich Nachlassgegenstände im Inland befinden. Das
+Amtsgericht Schöneberg in Berlin kann die Sache aus wichtigem Grund an
+ein anderes Nachlassgericht verweisen.
 
 
 #### § 344 Besondere örtliche Zuständigkeit
@@ -7149,22 +7392,39 @@ Verwahrung von Erbverträgen.
 (4) Für die Sicherung des Nachlasses ist jedes Gericht zuständig, in
 dessen Bezirk das Bedürfnis für die Sicherung besteht.
 
+(4a) Für die Auseinandersetzung eines Nachlasses ist jeder Notar
+zuständig, der seinen Amtssitz im Bezirk des Amtsgerichts hat, in dem
+der Erblasser seinen letzten gewöhnlichen Aufenthalt hatte. Hatte der
+Erblasser keinen gewöhnlichen Aufenthalt im Inland, ist jeder Notar
+zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in
+dem sich Nachlassgegenstände befinden. Von mehreren örtlich
+zuständigen Notaren ist derjenige zur Vermittlung berufen, bei dem
+zuerst ein auf Auseinandersetzung gerichteter Antrag eingeht.
+Vereinbarungen der an der Auseinandersetzung Beteiligten bleiben
+unberührt.
+
 (5) Für die Auseinandersetzung des Gesamtguts einer Gütergemeinschaft
-ist, falls ein Anteil an dem Gesamtgut zu einem Nachlass gehört, das
-Gericht zuständig, das für die Auseinandersetzung über den Nachlass
-zuständig ist. Im Übrigen bestimmt sich die Zuständigkeit nach § 122.
+ist, falls ein Anteil an dem Gesamtgut zu einem Nachlass gehört, der
+Notar zuständig, der für die Auseinandersetzung über den Nachlass
+zuständig ist. Im Übrigen ist jeder Notar zuständig, der seinen
+Amtssitz im Bezirk des nach § 122 Nummer 1 bis 5 zuständigen Gerichts
+hat. Ist danach keine Zuständigkeit gegeben, ist jeder Notar
+zuständig, der seinen Amtssitz im Bezirk eines Amtsgerichts hat, in
+dem sich Gegenstände befinden, die zum Gesamtgut gehören. Absatz 4a
+Satz 3 und 4 gilt entsprechend.
 
 (6) Hat ein anderes Gericht als das nach § 343 zuständige Gericht eine
 Verfügung von Todes wegen in amtlicher Verwahrung, ist dieses Gericht
 für die Eröffnung der Verfügung zuständig.
 
-(7) Für die Entgegennahme einer Erklärung, mit der die Erbschaft
-ausgeschlagen (§ 1945 Abs. 1 des Bürgerlichen Gesetzbuchs) oder die
-Ausschlagung angefochten (§ 1955 des Bürgerlichen Gesetzbuchs) wird,
-ist auch das Nachlassgericht zuständig, in dessen Bezirk der
-Ausschlagende oder Anfechtende seinen Wohnsitz hat. Die Niederschrift
-über die Erklärung ist von diesem Gericht an das zuständige
-Nachlassgericht zu übersenden.
+(7) Für die Entgegennahme einer Erklärung, mit der eine Erbschaft
+ausgeschlagen oder mit der die Versäumung der Ausschlagungsfrist, die
+Annahme oder Ausschlagung einer Erbschaft oder eine
+Anfechtungserklärung ihrerseits angefochten wird, ist auch das
+Nachlassgericht zuständig, in dessen Bezirk die erklärende Person
+ihren gewöhnlichen Aufenthalt hat. Die Urschrift der Niederschrift
+oder die Urschrift der Erklärung in öffentlich beglaubigter Form ist
+von diesem Gericht an das zuständige Nachlassgericht zu übersenden.
 
 
 ### Abschnitt 2 - Verfahren in Nachlasssachen
@@ -7271,7 +7531,7 @@ Hinterlegungsschein, bei einem Erbvertrag jeder Vertragschließende.
 
 (1) Nimmt das Gericht ein eigenhändiges Testament oder ein
 Nottestament in die besondere amtliche Verwahrung, übermittelt es
-unverzüglich die Verwahrangaben im Sinne von § 78b Absatz 2 Satz 2 der
+unverzüglich die Verwahrangaben im Sinne von § 78d Absatz 2 Satz 2 der
 Bundesnotarordnung elektronisch an die das Zentrale Testamentsregister
 führende Registerbehörde. Satz 1 gilt entsprechend für eigenhändige
 gemeinschaftliche Testamente und Erbverträge, die nicht in besondere
@@ -7391,12 +7651,136 @@ bis 350 gelten entsprechend.
 #### Unterabschnitt 4 - Erbscheinsverfahren; Testamentsvollstreckung
 
 
-##### § 352 Entscheidung über Erbscheinsanträge
+##### § 352 Angaben im Antrag auf Erteilung eines Erbscheins; Nachweis der Richtigkeit
 
-(1) Die Entscheidung, dass die zur Erteilung eines Erbscheins
-erforderlichen Tatsachen für festgestellt erachtet werden, ergeht
-durch Beschluss. Der Beschluss wird mit Erlass wirksam. Einer
-Bekanntgabe des Beschlusses bedarf es nicht.
+(1) Wer die Erteilung eines Erbscheins als gesetzlicher Erbe
+beantragt, hat anzugeben
+
+1.  den Zeitpunkt des Todes des Erblassers,
+
+
+2.  den letzten gewöhnlichen Aufenthalt und die Staatsangehörigkeit des
+    Erblassers,
+
+
+3.  das Verhältnis, auf dem sein Erbrecht beruht,
+
+
+4.  ob und welche Personen vorhanden sind oder vorhanden waren, durch die
+    er von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden
+    würde,
+
+
+5.  ob und welche Verfügungen des Erblassers von Todes wegen vorhanden
+    sind,
+
+
+6.  ob ein Rechtsstreit über sein Erbrecht anhängig ist,
+
+
+7.  dass er die Erbschaft angenommen hat,
+
+
+8.  die Größe seines Erbteils.
+
+
+
+Ist eine Person weggefallen, durch die der Antragsteller von der
+Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde, so
+hat der Antragsteller anzugeben, in welcher Weise die Person
+weggefallen ist.
+
+(2) Wer die Erteilung des Erbscheins auf Grund einer Verfügung von
+Todes wegen beantragt, hat
+
+1.  die Verfügung zu bezeichnen, auf der sein Erbrecht beruht,
+
+
+2.  anzugeben, ob und welche sonstigen Verfügungen des Erblassers von
+    Todes wegen vorhanden sind, und
+
+
+3.  die in Absatz 1 Satz 1 Nummer 1, 2 und 6 bis 8 sowie Satz 2
+    vorgeschriebenen Angaben zu machen.
+
+
+
+
+(3) Der Antragsteller hat die Richtigkeit der Angaben nach Absatz 1
+Satz 1 Nummer 1 und 3 sowie Satz 2 durch öffentliche Urkunden
+nachzuweisen und im Fall des Absatzes 2 die Urkunde vorzulegen, auf
+der sein Erbrecht beruht. Sind die Urkunden nicht oder nur mit
+unverhältnismäßigen Schwierigkeiten zu beschaffen, so genügt die
+Angabe anderer Beweismittel. Zum Nachweis, dass der Erblasser zur Zeit
+seines Todes im Güterstand der Zugewinngemeinschaft gelebt hat, und
+zum Nachweis der übrigen nach den Absätzen 1 und 2 erforderlichen
+Angaben hat der Antragsteller vor Gericht oder vor einem Notar an
+Eides statt zu versichern, dass ihm nichts bekannt sei, was der
+Richtigkeit seiner Angaben entgegensteht. Das Nachlassgericht kann dem
+Antragsteller die Versicherung erlassen, wenn es sie für nicht
+erforderlich hält.
+
+
+##### § 352a Gemeinschaftlicher Erbschein
+
+(1) Sind mehrere Erben vorhanden, so ist auf Antrag ein
+gemeinschaftlicher Erbschein zu erteilen. Der Antrag kann von jedem
+der Erben gestellt werden.
+
+(2) In dem Antrag sind die Erben und ihre Erbteile anzugeben. Die
+Angabe der Erbteile ist nicht erforderlich, wenn alle Antragsteller in
+dem Antrag auf die Aufnahme der Erbteile in den Erbschein verzichten.
+
+(3) Wird der Antrag nicht von allen Erben gestellt, so hat er die
+Angabe zu enthalten, dass die übrigen Erben die Erbschaft angenommen
+haben. § 352 Absatz 3 gilt auch für die sich auf die übrigen Erben
+beziehenden Angaben des Antragstellers.
+
+(4) Die Versicherung an Eides statt gemäß § 352 Absatz 3 Satz 3 ist
+von allen Erben abzugeben, sofern nicht das Nachlassgericht die
+Versicherung eines oder mehrerer Erben für ausreichend hält.
+
+
+##### § 352b Inhalt des Erbscheins für den Vorerben; Angabe des Testamentsvollstreckers
+
+(1) In dem Erbschein, der einem Vorerben erteilt wird, ist anzugeben,
+dass eine Nacherbfolge angeordnet ist, unter welchen Voraussetzungen
+sie eintritt und wer der Nacherbe ist. Hat der Erblasser den Nacherben
+auf dasjenige eingesetzt, was von der Erbschaft bei dem Eintritt der
+Nacherbfolge übrig sein wird, oder hat er bestimmt, dass der Vorerbe
+zur freien Verfügung über die Erbschaft berechtigt sein soll, so ist
+auch dies anzugeben.
+
+(2) Hat der Erblasser einen Testamentsvollstrecker ernannt, so ist die
+Ernennung in dem Erbschein anzugeben.
+
+
+##### § 352c Gegenständlich beschränkter Erbschein
+
+(1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland
+befinden, kann der Antrag auf Erteilung eines Erbscheins auf die im
+Inland befindlichen Gegenstände beschränkt werden.
+
+(2) Ein Gegenstand, für den von einer deutschen Behörde ein zur
+Eintragung des Berechtigten bestimmtes Buch oder Register geführt
+wird, gilt als im Inland befindlich. Ein Anspruch gilt als im Inland
+befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
+
+
+##### § 352d Öffentliche Aufforderung
+
+Das Nachlassgericht kann eine öffentliche Aufforderung zur Anmeldung
+der anderen Personen zustehenden Erbrechte erlassen; die Art der
+Bekanntmachung und die Dauer der Anmeldungsfrist bestimmen sich nach
+den für das Aufgebotsverfahren geltenden Vorschriften.
+
+
+##### § 352e Entscheidung über Erbscheinsanträge
+
+(1) Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die
+zur Begründung des Antrags erforderlichen Tatsachen für festgestellt
+erachtet. Die Entscheidung ergeht durch Beschluss. Der Beschluss wird
+mit Erlass wirksam. Einer Bekanntgabe des Beschlusses bedarf es nicht.
 
 (2) Widerspricht der Beschluss dem erklärten Willen eines Beteiligten,
 ist der Beschluss den Beteiligten bekannt zu geben. Das Gericht hat in
@@ -7411,28 +7795,38 @@ Erbscheins beantragt wird.
 
 ##### § 353 Einziehung oder Kraftloserklärung von Erbscheinen
 
-(1) In Verfahren über die Einziehung oder Kraftloserklärung eines
+(1) Kann der Erbschein im Verfahren über die Einziehung nicht sofort
+erlangt werden, so hat ihn das Nachlassgericht durch Beschluss für
+kraftlos zu erklären. Der Beschluss ist entsprechend § 435 öffentlich
+bekannt zu machen. Mit Ablauf eines Monats nach Veröffentlichung im
+Bundesanzeiger wird die Kraftloserklärung wirksam. Nach
+Veröffentlichung des Beschlusses kann dieser nicht mehr angefochten
+werden.
+
+(2) In Verfahren über die Einziehung oder Kraftloserklärung eines
 Erbscheins hat das Gericht über die Kosten des Verfahrens zu
 entscheiden. Die Kostenentscheidung soll zugleich mit der
 Endentscheidung ergehen.
 
-(2) Ist der Erbschein bereits eingezogen, ist die Beschwerde gegen den
+(3) Ist der Erbschein bereits eingezogen, ist die Beschwerde gegen den
 Einziehungsbeschluss nur insoweit zulässig, als die Erteilung eines
 neuen gleichlautenden Erbscheins beantragt wird. Die Beschwerde gilt
 im Zweifel als Antrag auf Erteilung eines neuen gleichlautenden
 Erbscheins.
 
-(3) Ein Beschluss, durch den ein Erbschein für kraftlos erklärt wird,
-ist nicht mehr anfechtbar, nachdem der Beschluss öffentlich bekannt
-gemacht ist (§ 2361 Abs. 2 Satz 2 des Bürgerlichen Gesetzbuchs).
-
 
 ##### § 354 Sonstige Zeugnisse
 
-Die §§ 352 und 353 gelten entsprechend für die Erteilung von
+(1) Die §§ 352 bis 353 gelten entsprechend für die Erteilung von
 Zeugnissen nach den §§ 1507 und 2368 des Bürgerlichen Gesetzbuchs, den
 §§ 36 und 37 der Grundbuchordnung sowie den §§ 42 und 74 der
 Schiffsregisterordnung.
+
+(2) Ist der Testamentsvollstrecker in der Verwaltung des Nachlasses
+beschränkt oder hat der Erblasser angeordnet, dass der
+Testamentsvollstrecker in der Eingehung von Verbindlichkeiten für den
+Nachlass nicht beschränkt sein soll, so ist dies in dem Zeugnis nach §
+2368 des Bürgerlichen Gesetzbuchs anzugeben.
 
 
 ##### § 355 Testamentsvollstreckung
@@ -7541,10 +7935,10 @@ Für das Verfahren über die Stundung eines Pflichtteilsanspruchs (§
 
 #### § 363 Antrag
 
-(1) Bei mehreren Erben hat das Gericht auf Antrag die
-Auseinandersetzung des Nachlasses zwischen den Beteiligten zu
-vermitteln; das gilt nicht, wenn ein zur Auseinandersetzung
-berechtigter Testamentsvollstrecker vorhanden ist.
+(1) Bei mehreren Erben hat der Notar auf Antrag die Auseinandersetzung
+des Nachlasses zwischen den Beteiligten zu vermitteln; das gilt nicht,
+wenn ein zur Auseinandersetzung berechtigter Testamentsvollstrecker
+vorhanden ist.
 
 (2) Antragsberechtigt ist jeder Miterbe, der Erwerber eines Erbteils
 sowie derjenige, welchem ein Pfandrecht oder ein Nießbrauch an einem
@@ -7554,18 +7948,13 @@ Erbteil zusteht.
 bezeichnet werden.
 
 
-#### § 364 Pflegschaft für abwesende Beteiligte
+#### § 364 (weggefallen)
 
-Das Nachlassgericht kann einem abwesenden Beteiligten für das
-Auseinandersetzungsverfahren einen Pfleger bestellen, wenn die
-Voraussetzungen der Abwesenheitspflegschaft vorliegen. Für die
-Pflegschaft tritt an die Stelle des Betreuungsgerichts das
-Nachlassgericht.
 
 
 #### § 365 Ladung
 
-(1) Das Gericht hat den Antragsteller und die übrigen Beteiligten zu
+(1) Der Notar hat den Antragsteller und die übrigen Beteiligten zu
 einem Verhandlungstermin zu laden. Die Ladung durch öffentliche
 Zustellung ist unzulässig.
 
@@ -7575,34 +7964,35 @@ wird und dass die Ladung zu dem neuen Termin unterbleiben kann, falls
 der Termin vertagt oder ein neuer Termin zur Fortsetzung der
 Verhandlung anberaumt werden sollte. Sind Unterlagen für die
 Auseinandersetzung vorhanden, ist in der Ladung darauf hinzuweisen,
-dass die Unterlagen auf der Geschäftsstelle eingesehen werden können.
+dass die Unterlagen in den Geschäftsräumen des Notars eingesehen
+werden können.
 
 
 #### § 366 Außergerichtliche Vereinbarung
 
 (1) Treffen die erschienenen Beteiligten vor der Auseinandersetzung
-eine Vereinbarung, insbesondere über die Art der Teilung, hat das
-Gericht die Vereinbarung zu beurkunden. Das Gleiche gilt für
-Vorschläge eines Beteiligten, wenn nur dieser erschienen ist.
+eine Vereinbarung, insbesondere über die Art der Teilung, hat der
+Notar die Vereinbarung zu beurkunden. Das Gleiche gilt für Vorschläge
+eines Beteiligten, wenn nur dieser erschienen ist.
 
-(2) Sind alle Beteiligten erschienen, hat das Gericht die von ihnen
+(2) Sind alle Beteiligten erschienen, hat der Notar die von ihnen
 getroffene Vereinbarung zu bestätigen. Dasselbe gilt, wenn die nicht
 erschienenen Beteiligten ihre Zustimmung zu einer gerichtlichen
 Niederschrift oder in einer öffentlich beglaubigten Urkunde erteilen.
 
-(3) Ist ein Beteiligter nicht erschienen, hat das Gericht, wenn er
-nicht nach Absatz 2 Satz 2 zugestimmt hat, ihm den ihn betreffenden
-Inhalt der Urkunde bekannt zu geben und ihn gleichzeitig zu
-benachrichtigen, dass er die Urkunde auf der Geschäftsstelle einsehen
-und eine Abschrift der Urkunde fordern kann. Die Bekanntgabe muss den
-Hinweis enthalten, dass sein Einverständnis mit dem Inhalt der Urkunde
-angenommen wird, wenn er nicht innerhalb einer von dem Gericht zu
-bestimmenden Frist die Anberaumung eines neuen Termins beantragt oder
-wenn er in dem neuen Termin nicht erscheint.
+(3) Ist ein Beteiligter nicht erschienen, hat der Notar, wenn der
+Beteiligte nicht nach Absatz 2 Satz 2 zugestimmt hat, ihm den ihn
+betreffenden Inhalt der Urkunde bekannt zu geben und ihn gleichzeitig
+zu benachrichtigen, dass er die Urkunde in den Geschäftsräumen des
+Notars einsehen und eine Abschrift der Urkunde fordern kann. Die
+Bekanntgabe muss den Hinweis enthalten, dass sein Einverständnis mit
+dem Inhalt der Urkunde angenommen wird, wenn er nicht innerhalb einer
+von dem Notar zu bestimmenden Frist die Anberaumung eines neuen
+Termins beantragt oder wenn er in dem neuen Termin nicht erscheint.
 
 (4) Beantragt der Beteiligte rechtzeitig die Anberaumung eines neuen
 Termins und erscheint er in diesem Termin, ist die Verhandlung
-fortzusetzen; anderenfalls hat das Gericht die Vereinbarung zu
+fortzusetzen; anderenfalls hat der Notar die Vereinbarung zu
 bestätigen.
 
 
@@ -7618,30 +8008,25 @@ entsprechend.
 #### § 368 Auseinandersetzungsplan; Bestätigung
 
 (1) Sobald nach Lage der Sache die Auseinandersetzung stattfinden
-kann, hat das Gericht einen Auseinandersetzungsplan anzufertigen. Sind
+kann, hat der Notar einen Auseinandersetzungsplan anzufertigen. Sind
 die erschienenen Beteiligten mit dem Inhalt des Plans einverstanden,
-hat das Gericht die Auseinandersetzung zu beurkunden. Sind alle
-Beteiligten erschienen, hat das Gericht die Auseinandersetzung zu
+hat der Notar die Auseinandersetzung zu beurkunden. Sind alle
+Beteiligten erschienen, hat der Notar die Auseinandersetzung zu
 bestätigen; dasselbe gilt, wenn die nicht erschienenen Beteiligten
 ihre Zustimmung zu gerichtlichem Protokoll oder in einer öffentlich
 beglaubigten Urkunde erteilen.
 
-(2) Ist ein Beteiligter nicht erschienen, hat das Gericht nach § 366
+(2) Ist ein Beteiligter nicht erschienen, hat der Notar nach § 366
 Abs. 3 und 4 zu verfahren. § 367 ist entsprechend anzuwenden.
 
-(3) Bedarf ein Beteiligter zur Vereinbarung nach § 366 Abs. 1 oder zur
-Auseinandersetzung der Genehmigung des Familien- oder
-Betreuungsgerichts, ist, wenn er im Inland keinen Vormund, Betreuer
-oder Pfleger hat, für die Erteilung oder die Verweigerung der
-Genehmigung anstelle des Familien- oder des Betreuungsgerichts das
-Nachlassgericht zuständig.
+(3) (weggefallen)
 
 
 #### § 369 Verteilung durch das Los
 
 Ist eine Verteilung durch das Los vereinbart, wird das Los, wenn nicht
 ein anderes bestimmt ist, für die nicht erschienenen Beteiligten von
-einem durch das Gericht zu bestellenden Vertreter gezogen.
+einem durch den Notar zu bestellenden Vertreter gezogen.
 
 
 #### § 370 Aussetzung bei Streit
@@ -7649,7 +8034,7 @@ einem durch das Gericht zu bestellenden Vertreter gezogen.
 Ergeben sich bei den Verhandlungen Streitpunkte, ist darüber eine
 Niederschrift aufzunehmen und das Verfahren bis zur Erledigung der
 Streitpunkte auszusetzen. Soweit unstreitige Punkte beurkundet werden
-können, hat das Gericht nach den §§ 366 und 368 Abs. 1 und 2 zu
+können, hat der Notar nach den §§ 366 und 368 Abs. 1 und 2 zu
 verfahren.
 
 
@@ -7689,7 +8074,7 @@ von Zeugnissen über die Auseinandersetzung des Gesamtguts einer
 ehelichen, lebenspartnerschaftlichen oder fortgesetzten
 Gütergemeinschaft nach den §§ 36 und 37 der Grundbuchordnung sowie den
 §§ 42 und 74 der Schiffsregisterordnung gelten § 345 Abs. 1 sowie die
-§§ 352, 353 und 357 entsprechend.
+§§ 352, 352a, 352c bis 353 und 357 entsprechend.
 
 
 ## Buch 5 - Verfahren in Registersachen, unternehmensrechtliche Verfahren
@@ -7728,10 +8113,10 @@ Unternehmensrechtliche Verfahren sind die nach
     318 Abs. 3 bis 5 des Handelsgesetzbuchs,
 
 
-2.  den §§ 522, 590 und 729 Abs. 1, des Handelsgesetzbuchs und § 11 des
-    Binnenschifffahrtsgesetzes sowie die in Ansehung der nach dem
-    Handelsgesetzbuch oder dem Binnenschifffahrtsgesetz aufzumachenden
-    Dispache geltenden Vorschriften,
+2.  § 11 des Binnenschifffahrtsgesetzes, nach den Vorschriften dieses
+    Gesetzes, die die Dispache betreffen, sowie nach § 595 Absatz 2 des
+    Handelsgesetzbuchs, auch in Verbindung mit § 78 des
+    Binnenschifffahrtsgesetzes,
 
 
 3.  § 33 Abs. 3, den §§ 35 und 73 Abs. 1, den §§ 85 und 103 Abs. 3, den §§
@@ -7770,19 +8155,20 @@ Unternehmensrechtliche Verfahren sind die nach
     Eisen und Stahl erzeugenden Industrie,
 
 
-11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 28 Absatz 2, § 38 Abs. 2 Satz 2,
-    § 45a Abs. 2 Satz 1, 3, 4 und 6 des Kreditwesengesetzes,
+11. § 2c Abs. 2 Satz 2 bis 7, den §§ 22o, 36 Absatz 3 Satz 2, § 28 Absatz
+    2, § 38 Abs. 2 Satz 2, § 45a Abs. 2 Satz 1, 3, 4 und 6 des
+    Kreditwesengesetzes,
 
 
 11a. § 2a Absatz 4 Satz 2 und 3 des Investmentgesetzes,
 
 
-12. § 2 Absatz 5 Satz 1 und 2, § 30 Abs. 2 Satz 1 und Abs. 5 Satz 1 sowie
-    § 31 Abs. 1, 2 und 4 des Pfandbriefgesetzes,
+12. (weggefallen),
 
 
-13. § 47 Absatz 2, § 104 Abs. 2 Satz 3 bis 8 und § 104u Abs. 2 Satz 1 bis
-    6 des Versicherungsaufsichtsgesetzes,
+13. § 19 Absatz 2 Satz 1 bis 6 und § 204 Absatz 2 des
+    Versicherungsaufsichtsgesetzes und § 28 Absatz 2 Satz 1 bis 5 des
+    Finanzkonglomerate-Aufsichtsgesetzes,
 
 
 14. § 6 Abs. 4 Satz 4 bis 7 des Börsengesetzes,
@@ -7845,7 +8231,7 @@ Lebenspartner seinen gewöhnlichen Aufenthalt hat.
 #### Unterabschnitt 1 - Verfahren
 
 
-##### § 378 Antragsrecht der Notare
+##### § 378 Vertretung; notarielle Zuständigkeit; Verordnungsermächtigung
 
 (1) Für Erklärungen gegenüber dem Register, die zu der Eintragung
 erforderlich sind und in öffentlicher oder öffentlich beglaubigter
@@ -7857,6 +8243,21 @@ und Verfügungen des Registers.
 (2) Ist die zu einer Eintragung erforderliche Erklärung von einem
 Notar beurkundet oder beglaubigt, gilt dieser als ermächtigt, im Namen
 des zur Anmeldung Berechtigten die Eintragung zu beantragen.
+
+(3) Anmeldungen in Registersachen mit Ausnahme der Genossenschafts-
+und Partnerschaftsregistersachen sind vor ihrer Einreichung für das
+Registergericht von einem Notar auf Eintragungsfähigkeit zu prüfen. In
+Handelsregistersachen sind sie zudem bei einem Notar zur Weiterleitung
+an die für die Eintragung zuständige Stelle einzureichen.
+
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass Notare neben den elektronischen Anmeldungen bestimmte
+darin enthaltene Angaben in strukturierter maschinenlesbarer Form zu
+übermitteln haben, soweit nicht durch das Bundesministerium der Justiz
+und für Verbraucherschutz nach § 387 Absatz 2 entsprechende
+Vorschriften erlassen werden. Die Landesregierungen können die
+Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
+übertragen.
 
 
 ##### § 379 Mitteilungspflichten der Behörden
@@ -7996,9 +8397,9 @@ Länder können auch vereinbaren, dass die bei den Gerichten eines
 Landes geführten Registerdaten auch bei den Amtsgerichten des anderen
 Landes zur Einsicht und zur Erteilung von Ausdrucken zugänglich sind.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-Bestimmungen über die Einrichtung und Führung des Handels-,
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+näheren Bestimmungen über die Einrichtung und Führung des Handels-,
 Genossenschafts- und Partnerschaftsregisters, die Übermittlung der
 Daten an das Unternehmensregister und die Aktenführung in
 Beschwerdeverfahren, die Einsicht in das Register, die Einzelheiten
@@ -8325,10 +8726,10 @@ Rechtskraft wirksam.
 (1) Der Beschluss des Gerichts, durch den über Anträge nach § 375
 entschieden wird, ist mit der Beschwerde anfechtbar.
 
-(2) Eine Anfechtung des Beschlusses, durch den einem Antrag nach den
-§§ 522 und 729 Abs. 1 des Handelsgesetzbuchs sowie den §§ 11 und 87
-Abs. 2 des Binnenschifffahrtsgesetzes stattgegeben wird, ist
-ausgeschlossen.
+(2) Eine Anfechtung des Beschlusses, durch den einem Antrag nach § 11
+des Binnenschifffahrtsgesetzes oder § 595 Absatz 2 des
+Handelsgesetzbuchs, auch in Verbindung mit § 78 des
+Binnenschifffahrtsgesetzes, stattgegeben wird, ist ausgeschlossen.
 
 (3) Die Vorschriften des Handelsgesetzbuchs, des Aktiengesetzes und
 des Publizitätsgesetzes über die Beschwerde bleiben unberührt.
@@ -8353,9 +8754,7 @@ auszuhändigen.
 
 (2) Der Dispacheur ist verpflichtet, jedem Beteiligten Einsicht in die
 Dispache zu gewähren und ihm auf Verlangen eine Abschrift gegen
-Erstattung der Kosten zu erteilen. Das Gleiche gilt, wenn die Dispache
-nach dem Binnenschifffahrtsgesetz von dem Schiffer aufgemacht worden
-ist, für diesen.
+Erstattung der Kosten zu erteilen.
 
 
 #### § 405 Termin; Ladung
@@ -8440,7 +8839,8 @@ werden.
 (1) Die Bestätigung der Dispache ist nur für das gegenseitige
 Verhältnis der an dem Verfahren Beteiligten wirksam.
 
-(2) Der Bestätigungsbeschluss wird erst mit Rechtskraft wirksam.
+(2) Der Bestätigungsbeschluss wird erst mit Rechtskraft wirksam. Aus
+der rechtskräftig bestätigten Dispache findet die Vollstreckung statt.
 
 (3) Für Klagen auf Erteilung der Vollstreckungsklausel sowie für
 Klagen, durch welche Einwendungen gegen die in der Dispache
@@ -9367,8 +9767,8 @@ an einen anderen als den Antragsteller nicht ausgegeben seien.
 (1) Bei Wertpapieren, für die Zins-, Renten- oder Gewinnanteilscheine
 zuletzt für einen längeren Zeitraum als vier Jahre ausgegeben sind,
 genügt es, wenn der Anmeldezeitpunkt so bestimmt wird, dass bis dahin
-seit der Zeit des glaubhaft gemachten Verlustes der zuletzt
-ausgegebenen Scheine solche für vier Jahre fällig geworden und seit
+seit der Zeit des glaubhaft gemachten Verlustes von den zuletzt
+ausgegebenen Scheinen solche für vier Jahre fällig geworden und seit
 der Fälligkeit des letzten derselben sechs Monate abgelaufen sind.
 Scheine für Zeitabschnitte, für die keine Zinsen, Renten oder
 Gewinnanteile gezahlt werden, kommen nicht in Betracht.
@@ -9385,7 +9785,7 @@ bezeichneten Angaben enthalten.
 
 #### § 473 Vorlegung der Zinsscheine
 
-Die §§ 470 und 471 sind insoweit nicht anzuwenden, als die Zins-,
+Die §§ 471 und 472 sind insoweit nicht anzuwenden, als die Zins-,
 Renten- oder Gewinnanteilscheine, deren Fälligkeit nach diesen
 Vorschriften eingetreten sein muss, von dem Antragsteller vorgelegt
 werden. Der Vorlegung der Scheine steht es gleich, wenn das Zeugnis
@@ -9560,36 +9960,44 @@ Ausführung dieses Gesetzes, einschließlich der erforderlichen
 Übergangsvorschriften erlassen werden. Dies gilt auch, soweit keine
 Vorbehalte für die Landesgesetzgebung bestehen.
 
+(3) § 378 Absatz 3 gilt nicht, soweit Anmeldungen von einer gemäß § 68
+des Beurkundungsgesetzes nach Landesrecht zuständigen Person oder
+Stelle öffentlich beglaubigt worden sind.
+
 
 ### § 487 Nachlassauseinandersetzung; Auseinandersetzung einer Gütergemeinschaft
 
-(1) Unberührt bleiben die landesrechtlichen Vorschriften, nach denen
+(1) Unberührt bleiben die landesrechtlichen Vorschriften,
 
-1.  das Nachlassgericht die Auseinandersetzung eines Nachlasses von Amts
-    wegen zu vermitteln hat, wenn diese nicht binnen einer bestimmten
-    Frist erfolgt ist;
-
-
-2.  für die den Amtsgerichten nach § 373 obliegenden Aufgaben andere als
-    gerichtliche Behörden zuständig sind;
+1.  nach denen das Nachlassgericht die Auseinandersetzung eines Nachlasses
+    von Amts wegen zu vermitteln hat, wenn diese nicht binnen einer
+    bestimmten Frist erfolgt ist;
 
 
-3.  in den Fällen der §§ 363 und 373 anstelle der Gerichte oder neben
-    diesen Notare die Auseinandersetzung zu vermitteln haben.
+2.  nach denen andere als gerichtliche Behörden für die den Amtsgerichten
+    nach § 373 Absatz 2 obliegenden Aufgaben zuständig sind;
+
+
+3.  nach denen in Baden-Württemberg in den Fällen des § 363 anstelle der
+    Notare oder neben diesen andere Stellen die Auseinandersetzung
+    vermitteln;
+
+
+4.  die das Verfahren in den Fällen nach Nummer 3 betreffen.
 
 
 
 
-(2) Auf die Auseinandersetzung nach Absatz 1 Nr. 1 sind die §§ 364 bis
+(2) Auf die Auseinandersetzung nach Absatz 1 Nr. 1 sind die §§ 365 bis
 372 anzuwenden.
 
 
 ### § 488 Verfahren vor landesgesetzlich zugelassenen Behörden
 
-(1) Sind für die in § 1 genannten Angelegenheiten nach Landesgesetz
-andere als gerichtliche Behörden zuständig, gelten die Vorschriften
-des Buches 1 mit Ausnahme der §§ 6, 15 Abs. 2, der §§ 25, 41 Abs. 1
-und des § 46 auch für diese Behörden.
+(1) Sind für die in den §§ 1 und 363 genannten Angelegenheiten nach
+Landesgesetz andere Behörden zuständig, gelten die Vorschriften des
+Buches 1 mit Ausnahme der §§ 6, 15 Abs. 2, der §§ 25, 41 Abs. 1 und
+des § 46 auch für diese Behörden.
 
 (2) Als nächsthöheres gemeinsames Gericht nach § 5 gilt das Gericht,
 welches das nächsthöhere gemeinsame Gericht für die Amtsgerichte ist,
@@ -9637,4 +10045,49 @@ Bezahlung ein deutsches Land oder früherer Bundesstaat die Haftung
 zuständig erklärt wird. Bezweckt das Aufgebot die Kraftloserklärung
 einer Urkunde der in § 808 des Bürgerlichen Gesetzbuchs bezeichneten
 Art, gilt Satz 1 entsprechend.
+
+
+### § 492 Anwendbare Vorschriften bei Zuständigkeit von Notaren
+
+(1) Wird in Verfahren nach § 342 Absatz 2 Nummer 1 ein Notar anstelle
+des Amtsgerichts tätig, so sind die für das Amtsgericht geltenden
+Vorschriften entsprechend anzuwenden. Der Notar nimmt die Aufgaben des
+Richters, des Rechtspflegers und des Urkundsbeamten der
+Geschäftsstelle wahr. Geschäftsstelle sind die Geschäftsräume des
+Notars. Anstelle von Justizbediensteten handelt der
+Gerichtsvollzieher. Die Ausführung der vom Notar bewilligten
+öffentlichen Zustellung erfolgt auf dessen Ersuchen durch das
+Amtsgericht, in dessen Bezirk sich der Amtssitz des Notars befindet.
+
+(2) Ist gegen die Entscheidung des Notars nach den allgemeinen
+verfahrensrechtlichen Vorschriften ein Rechtsmittel nicht gegeben, so
+findet die Erinnerung statt, die innerhalb der für die Beschwerde
+geltenden Frist beim Notar einzulegen ist. Der Notar kann der
+Erinnerung abhelfen. Erinnerungen, denen er nicht abhilft, legt er dem
+Amtsgericht vor, in dessen Bezirk sich sein Amtssitz befindet. Auf die
+Erinnerung sind im Übrigen die Vorschriften über die Beschwerde
+sinngemäß anzuwenden.
+
+(3) Verfügungen, Beschlüsse oder Zeugnisse des Notars, die nach den
+Vorschriften dieses Gesetzes wirksam geworden sind und nicht mehr
+geändert werden können, sind mit der Erinnerung nicht anfechtbar.
+
+
+### § 493 Übergangsvorschriften
+
+(1) Für bis zum Inkrafttreten des Gesetzes zur Übertragung von
+Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare vom
+26\. Juni 2013 (BGBl. I S. 1800) am 1. September 2013 beantragte
+Auseinandersetzungen gemäß den §§ 363 bis 373 ist das Gesetz über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit in der bis dahin geltenden Fassung
+anzuwenden.
+
+(2) Auf vereinfachte Verfahren über den Unterhalt Minderjähriger nach
+den §§ 249 bis 260, die bis zum 31. Dezember 2016 beantragt wurden,
+sind die §§ 249 bis 260 in der bis dahin geltenden Fassung weiter
+anzuwenden.
+
+(3) Für Anmeldungen, die bis einschließlich 8. Juni 2017 beurkundet
+oder beglaubigt wurden, findet § 378 Absatz 3 keine Anwendung.
 

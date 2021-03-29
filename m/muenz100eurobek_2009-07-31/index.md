@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   in Trier“)
 jurabk: Münz100EuroBek 2009-07-31
 layout: default
-origslug: m_nz100eurobek_2009-07-31
+origslug: muenz100eurobek_2009-07-31
 slug: muenz100eurobek_2009-07-31
 
 ---

@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 29. März 1982 über die Errichtung eine
   Stiftung
 jurabk: EuStiftÜbkG
 layout: default
-origslug: eustift_bkg
+origslug: eustiftuebkg
 slug: eustiftuebkg
 
 ---

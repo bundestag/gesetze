@@ -379,7 +379,7 @@ Die Rennwettsteuer wird von den Finanzämtern verwaltet.
 Verein den Ort seiner Leitung oder der Buchmacher seinen Wohnsitz hat.
 
 (2) Die Vorschriften der §§ 51, 52, 57 bis 63
-der Reichsabgabenordnung              finden Anwendung.
+der Reichsabgabenordnung finden Anwendung.
 
 
 #### - - Abrechnungsverfahren
@@ -498,7 +498,7 @@ Auf Antrag kann die Vorlegung und Prüfung in den Geschäftsräumen des
 Vereins oder des Buchmachers geschehen.
 
 
-##### f) - *Ku Nachzahlung *KE
+##### f) - \*Ku Nachzahlung \*KE
 
 
 
@@ -507,7 +507,7 @@ Vereins oder des Buchmachers geschehen.
 -
 
 
-#### - - *Ku Wettscheine *KE
+#### - - \*Ku Wettscheine \*KE
 
 
 
@@ -555,7 +555,7 @@ Monat bei dem zuständigen Finanzamt zu stellen. Die Frist beginnt mit
 dem Zeitpunkt, in welchem die Ereignisse eingetreten sind, welche den
 Anspruch begründen. Vereine können den Antrag nur gleichzeitig mit der
 Einreichung der Nachweisung (§ 17) stellen. Die Vorschriften der
-§§ 131, 133 und 136              der AO finden Anwendung.
+§§ 131, 133 und 136 der AO finden Anwendung.
 
 (4) Wettscheine, deren Steuerwerte erstattet sind, sind zu
 durchlochen. Der erstattete Betrag ist im Anhang zum Einnahmebuch
@@ -623,14 +623,14 @@ verwaltet.
 (1) Örtlich zuständig ist das Finanzamt, in dessen Bezirk der
 Veranstalter des Lotterieunternehmens, der Ausspielung oder der
 Sportwette (Veranstalter) seinen Wohnsitz hat, oder sofern eine der im
-§ 52              AO genannten Personen oder Personenvereinigungen
-Veranstalter ist, das Finanzamt, in dessen Bezirk diese den Ort ihrer
-Leitung hat. Für Ausspielungen auf Jahrmärkten oder bei Gelegenheit
-von öffentlichen Volksbelustigungen ist auch das Finanzamt zuständig,
-in dessen Bezirk die Ausspielung stattfinden soll.
+§ 52 AO genannten Personen oder Personenvereinigungen Veranstalter
+ist, das Finanzamt, in dessen Bezirk diese den Ort ihrer Leitung hat.
+Für Ausspielungen auf Jahrmärkten oder bei Gelegenheit von
+öffentlichen Volksbelustigungen ist auch das Finanzamt zuständig, in
+dessen Bezirk die Ausspielung stattfinden soll.
 
 (2) Die Vorschriften der
-§§ 51, 52, 57 bis 63              AO finden entsprechende Anwendung.
+§§ 51, 52, 57 bis 63 AO finden entsprechende Anwendung.
 
 
 ### - - Anmeldung von Lotterien und Sportwetten
@@ -775,8 +775,8 @@ vorgeschriebene Anmeldung erfolgt ist, so hat es wegen Festsetzung und
 Beitreibung der Lotteriesteuer, sowie nach den Umständen wegen
 Einleitung des Strafverfahrens das Erforderliche zu veranlassen. Die
 Vorlegung der Lose zur Abstempelung kann im Wege des
-§ 202              AO erzwungen werden. Um einen beabsichtigten
-Vertrieb ungestempelter Lose zu verhindern, kann das Finanzamt die
+§ 202 AO erzwungen werden. Um einen beabsichtigten Vertrieb
+ungestempelter Lose zu verhindern, kann das Finanzamt die
 Polizeibehörde um Beschlagnahme der Lose ersuchen.
 
 
@@ -832,12 +832,12 @@ umgehend Mitteilung zu machen.
 
 Die Finanzämter können die Steuer auf Antrag über den Zeitpunkt
 hinaus, in dem mit dem Losabsatze begonnen werden soll, stunden (
-§ 105              AO). Die Stundung soll in keinem Fall sechs Monate
-überschreiten und spätestens vier Wochen vor der Ziehung oder der
-Ausspielung ablaufen. Stundung ohne Sicherheitsleistung darf nur mit
-Genehmigung der Oberfinanzdirektion gewährt werden. Eine Stundung der
-Steuer für ausländische Lose sowie von Steuerbeträgen unter 250 Euro
-soll nicht gewährt werden.
+§ 105 AO). Die Stundung soll in keinem Fall sechs Monate überschreiten
+und spätestens vier Wochen vor der Ziehung oder der Ausspielung
+ablaufen. Stundung ohne Sicherheitsleistung darf nur mit Genehmigung
+der Oberfinanzdirektion gewährt werden. Eine Stundung der Steuer für
+ausländische Lose sowie von Steuerbeträgen unter 250 Euro soll nicht
+gewährt werden.
 
 
 ### - - Teilversteuerung
@@ -884,8 +884,8 @@ gestundet, oder die Steuerbefreiung der Lose anerkannt worden ist,
 werden die Lose durch das zuständige Finanzamt mittels
 Stempelaufdrucks abgestempelt. Der Stempel hat runde Form. Er führt
 den
-Reichsadler              und über diesem die Aufschrift "Versteuert"
-oder "Steuerfrei", darunter das Unterscheidungszeichen der
+Reichsadler und über diesem die Aufschrift "Versteuert" oder
+"Steuerfrei", darunter das Unterscheidungszeichen der
 Abstempelungsstelle.
 
 (2) Die abgestempelten Lose werden gegen Rückgabe der
@@ -977,7 +977,7 @@ stattfinden sollte.
 
 (4) Dem Antrag sind die ihn begründenden Nachweise beizufügen. Die
 Vorschriften der
-§§ 131, 133, 136              AO finden Anwendung.
+§§ 131, 133, 136 AO finden Anwendung.
 
 
 ### - - Staatslotterien
@@ -1064,7 +1064,7 @@ zusammenzuarbeiten.
 (3) Die Steueraufsicht erstreckt sich auf das gesamte Geschäftsgebaren
 der Steuerpflichtigen, soweit es für die Entrichtung der Steuer von
 Bedeutung ist. Im übrigen gelten die
-§§ 193, 196 bis 199, 204 und 209              AO.
+§§ 193, 196 bis 199, 204 und 209 AO.
 
 
 ### - - Prüfungsmaßnahmen
@@ -1099,8 +1099,8 @@ a)  die planmäßige Durchsicht der Schriftstücke, Aufzeichnungen und
 
 
 b)  die Inanspruchnahme anderer Personen gemäß
-    §§ 177 bis 188                    AO. In Frage kommt insbesondere die
-    - erforderlichenfalls eidliche - Vernehmung von Auskunftspersonen und
+    §§ 177 bis 188 AO. In Frage kommt insbesondere die -
+    erforderlichenfalls eidliche - Vernehmung von Auskunftspersonen und
     die Einsichtnahme in Schriftstücke anderer Personen als der
     Steuerpflichtigen. Die Einreichung derartiger Schriftstücke kann nur
     verlangt werden unter bestimmter Bezeichnung der Rechtsvorgänge, auf
@@ -1114,31 +1114,31 @@ b)  die Inanspruchnahme anderer Personen gemäß
 
 
 c)  das Betreten der Geschäftsräume des Steuerpflichtigen gemäß
-    § 198                    AO. Es kann insbesondere zu dem Zweck
-    geschehen, um entweder die Schriftstücke (Buchstabe a) einzusehen oder
-    um nachzuprüfen, ob der Steuerpflichtige im laufenden Geschäftsverkehr
-    die Vorschriften der §§ 4, 13 und 19 des Gesetzes innehält. Der
-    Aufenthalt in den Geschäftsräumen soll sich auf die hierzu
-    erforderliche Zeit beschränken. Außerhalb der üblichen
-    Geschäftsstunden dürfen die Geschäftsräume des Steuerpflichtigen nur
-    mit dessen Einwilligung betreten werden.
+    § 198 AO. Es kann insbesondere zu dem Zweck geschehen, um entweder die
+    Schriftstücke (Buchstabe a) einzusehen oder um nachzuprüfen, ob der
+    Steuerpflichtige im laufenden Geschäftsverkehr die Vorschriften der §§
+    4, 13 und 19 des Gesetzes innehält. Der Aufenthalt in den
+    Geschäftsräumen soll sich auf die hierzu erforderliche Zeit
+    beschränken. Außerhalb der üblichen Geschäftsstunden dürfen die
+    Geschäftsräume des Steuerpflichtigen nur mit dessen Einwilligung
+    betreten werden.
 
 
 
 
 (2) Der Beauftragte (
-§ 206              AO) soll sich dem Steuerpflichtigen oder seinen
-Angestellten gegenüber auf Verlangen über seinen Auftrag durch eine
-mit Amtsstempel oder Siegelaufdruck versehene Ausfertigung des ihm
-erteilten allgemeinen oder besonderen Auftrags ausweisen. Der
-Steuerpflichtige hat dem Beauftragten die erforderlichen Hilfsmittel
-(Geräte, Beleuchtung) und einen angemessenen Raum oder Arbeitsplatz
-zur Erledigung seiner Obliegenheiten zur Verfügung zu stellen (
-§ 197              AO).
+§ 206 AO) soll sich dem Steuerpflichtigen oder seinen Angestellten
+gegenüber auf Verlangen über seinen Auftrag durch eine mit Amtsstempel
+oder Siegelaufdruck versehene Ausfertigung des ihm erteilten
+allgemeinen oder besonderen Auftrags ausweisen. Der Steuerpflichtige
+hat dem Beauftragten die erforderlichen Hilfsmittel (Geräte,
+Beleuchtung) und einen angemessenen Raum oder Arbeitsplatz zur
+Erledigung seiner Obliegenheiten zur Verfügung zu stellen (
+§ 197 AO).
 
 (3) Die Vorschriften über Zwangsmaßnahmen insbesondere
 Erzwingungsstrafen enthält
-§ 202              AO.
+§ 202 AO.
 
 (4)
 
@@ -1279,7 +1279,7 @@ dem Abschluß zu vermerken, daß die Rückstände in das neue Sollbuch
 vollständig und richtig übertragen worden sind.
 
 
-### - - - *Ku Wettsteuerzeichenbuch *KE
+### - - - \*Ku Wettsteuerzeichenbuch \*KE
 
 
 
@@ -1299,7 +1299,7 @@ Rennwett- und Lotteriesteuer nebst Zinsen, gleichviel für welche Zeit
 sie gezahlt sind, ist nach anliegendem Muster 13 ein Einnahmebuch zu
 führen. Dieses sowie der Anhang zum Einnahmebuch (§ 55 Abs. 2 Satz 1)
 sind am Ende des Rechnungsjahres
-(31. März)              abzuschließen.
+(31. März) abzuschließen.
 
 
 ### - - Änderungsbefugnis der Oberfinanzdirektionen
@@ -1370,8 +1370,9 @@ Sollbuchs vorgeschriebenen Zeitpunkt einzusenden ist.
 
 Der Reichsminister der Finanzen
 
+Muster 1 bis Muster 14
 
-#### Anlage Muster 1 bis Muster 14 Zentralbl. 1922 S. 361 bis 371
+#### Anlage Zentralbl. 1922 S. 361 bis 371
 
 -
 

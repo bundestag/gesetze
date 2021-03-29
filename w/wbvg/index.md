@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2319
 
+Zuletzt geändert durch
+:   Art. 20 Abs. 5 G v. 23.12.2016 I 3234
+
 
 ## § 1 Anwendungsbereich
 
@@ -234,7 +237,13 @@ muss der schriftliche Vertragsschluss unverzüglich nachgeholt werden.
 
 3.  die Informationen des Unternehmers nach § 3 als Vertragsgrundlage
     benennen und mögliche Abweichungen von den vorvertraglichen
-    Informationen gesondert kenntlich machen.
+    Informationen gesondert kenntlich machen,
+
+
+4.  die Informationen nach § 36 Absatz 1 des
+    Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
+    254) geben; dies gilt auch, wenn der Unternehmer keine Webseite
+    unterhält oder keine Allgemeinen Geschäftsbedingungen verwendet.
 
 
 
@@ -586,7 +595,7 @@ Von den Vorschriften dieses Gesetzes zum Nachteil des Verbrauchers
 abweichende Vereinbarungen sind unwirksam.
 
 
-## § 17 Übergangsvorschrift
+## § 17 Übergangsvorschriften
 
 (1) Auf Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des
 Heimgesetzes, die vor dem 1. Oktober 2009 geschlossenen worden sind,
@@ -601,4 +610,7 @@ schriftlichen Anpassung eines Vertrags in entsprechender Anwendung des
 (2) Auf die bis zum 30. September 2009 geschlossenen Verträge, die
 keine Heimverträge im Sinne des § 5 Absatz 1 Satz 1 des Heimgesetzes
 sind, ist dieses Gesetz nicht anzuwenden.
+
+(3) § 6 Absatz 3 Nummer 4 gilt nur für nach dem 31. März 2016
+geschlossene Verträge.
 

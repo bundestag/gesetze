@@ -156,13 +156,13 @@ erreichbar sein. Der Zugang muß beleuchtbar sein.
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
 mit einer Wohnfläche von 12 m
-2              Wohnplätze für zwei Personen einen solchen mit einer
-Wohnfläche von 18 m
-2              umfassen. Wohnplätze für mehr als zwei Personen sind
-nur ausnahmsweise mit Zustimmung der zuständigen Behörde, Wohnplätze
-für mehr als vier Personen sind nicht zulässig. Für die dritte oder
-vierte Person muß die zusätzliche Wohnfläche wenigstens je 6 m
-2              betragen.
+2 Wohnplätze für zwei Personen einen solchen mit einer Wohnfläche von
+18 m
+2 umfassen. Wohnplätze für mehr als zwei Personen sind nur
+ausnahmsweise mit Zustimmung der zuständigen Behörde, Wohnplätze für
+mehr als vier Personen sind nicht zulässig. Für die dritte oder vierte
+Person muß die zusätzliche Wohnfläche wenigstens je 6 m
+2 betragen.
 
 (2) Für die Berechnung der Wohnflächen nach Absatz 1 gelten die
 Vorschriften der Wohnflächenverordnung vom 25. November 2003 (BGBl. I
@@ -204,9 +204,9 @@ werden.
 #### § 16 Gemeinschaftsräume
 
 (1) Die Einrichtung muß mindestens einen Gemeinschaftsraum von 20 m
-2              Nutzfläche haben. In Einrichtungen mit mehr als 20
-Bewohnern muß eine Nutzfläche von mindestens 1 m
-2              je Bewohner zur Verfügung stehen.
+2 Nutzfläche haben. In Einrichtungen mit mehr als 20 Bewohnern muß
+eine Nutzfläche von mindestens 1 m
+2 je Bewohner zur Verfügung stehen.
 
 (2) Bei der Berechnung der Fläche nach Absatz 1 können Speiseräume, in
 Ausnahmefällen auch andere geeignete Räume und Flure, insbesondere
@@ -244,12 +244,12 @@ aufzustellen.
 
 (1) Wohnplätze für eine Person müssen mindestens einen Wohnschlafraum
 mit einer Wohnfläche von 12 m
-2              ferner eine Küche, eine Kochnische oder einen
-Kochschrank umfassen und über einen Sanitärraum mit Waschtisch mit
-Kalt- und Warmwasseranschluß und Spülklosett verfügen. Bei Wohnplätzen
-für zwei Personen muß die Wohnfläche des Wohnschlafraumes oder
-getrennter Wohn- und Schlafräume mindestens 18 m
-2              betragen.
+2 ferner eine Küche, eine Kochnische oder einen Kochschrank umfassen
+und über einen Sanitärraum mit Waschtisch mit Kalt- und
+Warmwasseranschluß und Spülklosett verfügen. Bei Wohnplätzen für zwei
+Personen muß die Wohnfläche des Wohnschlafraumes oder getrennter Wohn-
+und Schlafräume mindestens 18 m
+2 betragen.
 
 (2) Für Wohnplätze mit mehr als zwei Personen gilt § 14 Abs. 1 Satz 2
 und 3, Abs. 3 Satz 2 entsprechend.
@@ -262,7 +262,7 @@ entsprechend.
 
 (1) § 16 gilt entsprechend mit der Maßgabe, daß je Heimbewohner
 Gemeinschaftsraum von mindestens 0,75 m
-2              Nutzfläche zur Verfügung stehen muß.
+2 Nutzfläche zur Verfügung stehen muß.
 
 (2) Sind in zumutbarer Entfernung außerhalb der Einrichtung geeignete
 Räume zur Gestaltung des gesellschaftlichen und kulturellen Lebens
@@ -535,8 +535,9 @@ Verbindung mit § 24 des Heimgesetzes auch im Land Berlin.
 
 -
 
+Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. X Sachgebiet H Abschnitt III (BGBl. II 1990, 889, 1096)
+### Anhang EV (BGBl. II 1990, 889, 1096)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Bewertungsgesetzes
 jurabk: BewGÄndG
 layout: default
-origslug: bewg_ndg
+origslug: bewgaendg
 slug: bewgaendg
 
 ---

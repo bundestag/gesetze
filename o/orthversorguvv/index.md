@@ -81,10 +81,10 @@ Durchführung des § 11 Abs. 3 und des § 13 des
 Bundesversorgungsgesetzes,
 zuletzt geändert durch § 6 der Verordnung zur Durchführung des § 15
 des Bundesversorgungsgesetzes vom 31. Januar 1972 (Bundesgesetzbl. I
-S. 105),              in der jeweils geltenden Fassung festgesetzt
-ist. Der Träger der Unfallversicherung kann einem Verletzten mit
-Rücksicht auf seine wirtschaftlichen Verhältnisse die Erstattung des
-Kostenanteils auf Antrag ganz oder zum Teil erlassen.
+S. 105), in der jeweils geltenden Fassung festgesetzt ist. Der Träger
+der Unfallversicherung kann einem Verletzten mit Rücksicht auf seine
+wirtschaftlichen Verhältnisse die Erstattung des Kostenanteils auf
+Antrag ganz oder zum Teil erlassen.
 
 (4) Die Absätze 2 und 3 gelten entsprechend für die Ausstattung mit
 orthopädischen Schuhen und mit Handschuhen.
@@ -185,5 +185,5 @@ Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes vom
 (1) Diese Verordnung tritt am ersten Tag des auf die Verkündung
 folgenden Kalendermonats in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 

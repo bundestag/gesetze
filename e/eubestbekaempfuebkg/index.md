@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 26. Mai 1997 über die Bekämpfung der B
   Union beteiligt sind
 jurabk: EUBestBekämpfÜbkG
 layout: default
-origslug: eubestbek_mpf_bkg
+origslug: eubestbekaempfuebkg
 slug: eubestbekaempfuebkg
 
 ---

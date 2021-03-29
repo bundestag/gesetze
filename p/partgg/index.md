@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1744
 
 Zuletzt geändert durch
-:   Art. 22 G v. 23.10.2008 I 2026
+:   Art. 7 G v. 22.12.2015 I 2565
 
 
 ## § 1 Voraussetzungen der Partnerschaft
@@ -88,7 +88,7 @@ bürgerlichen Rechts in eine Partnerschaft.
 ## § 4 Anmeldung der Partnerschaft
 
 (1) Auf die Anmeldung der Partnerschaft in das Partnerschaftsregister
-sind § 106 Abs. 1 und § 108 des Handelsgesetzbuchs entsprechend
+sind § 106 Abs. 1 und § 108 Satz 1 des Handelsgesetzbuchs entsprechend
 anzuwenden. Die Anmeldung hat die in § 3 Abs. 2 vorgeschriebenen
 Angaben, das Geburtsdatum jedes Partners und die Vertretungsmacht der
 Partner zu enthalten. Änderungen dieser Angaben sind gleichfalls zur
@@ -98,6 +98,10 @@ Eintragung in das Partnerschaftsregister anzumelden.
 Freien Beruf, den er in der Partnerschaft ausübt, anzugeben. Das
 Registergericht legt bei der Eintragung die Angaben der Partner
 zugrunde, es sei denn, ihm ist deren Unrichtigkeit bekannt.
+
+(3) Der Anmeldung einer Partnerschaft mit beschränkter Berufshaftung
+nach § 8 Absatz 4 muss eine Versicherungsbescheinigung gemäß § 113
+Absatz 2 des Gesetzes über den Versicherungsvertrag beigefügt sein.
 
 
 ## § 5 Inhalt der Eintragung, anzuwendende Vorschriften
@@ -147,8 +151,11 @@ müssen, und ist in gleichem Umfang wie diese postulationsfähig.
 Verteidiger im Sinne der §§ 137ff. der Strafprozessordnung ist nur die
 für die Partnerschaft handelnde Person.
 
-(5) Für die Angaben auf Geschäftsbriefen der Partnerschaft ist § 125a
-Abs. 1 Satz 1, Abs. 2 des Handelsgesetzbuchs entsprechend anzuwenden.
+(5) Für die Angabe auf Geschäftsbriefen der Partnerschaft ist § 125a
+Absatz 1 Satz 1, Absatz 2 des Handelsgesetzbuchs mit der Maßgabe
+entsprechend anzuwenden, dass bei einer Partnerschaft mit beschränkter
+Berufshaftung auch der von dieser gewählte Namenszusatz im Sinne des §
+8 Absatz 4 Satz 3 anzugeben ist.
 
 
 ## § 8 Haftung für Verbindlichkeiten der Partnerschaft
@@ -168,6 +175,18 @@ Haftung für Ansprüche aus Schäden wegen fehlerhafter Berufsausübung
 auf einen bestimmten Höchstbetrag zugelassen werden, wenn zugleich
 eine Pflicht zum Abschluß einer Berufshaftpflichtversicherung der
 Partner oder der Partnerschaft begründet wird.
+
+(4) Für Verbindlichkeiten der Partnerschaft aus Schäden wegen
+fehlerhafter Berufsausübung haftet den Gläubigern nur das
+Gesellschaftsvermögen, wenn die Partnerschaft eine zu diesem Zweck
+durch Gesetz vorgegebene Berufshaftpflichtversicherung unterhält. Für
+die Berufshaftpflichtversicherung gelten § 113 Absatz 3 und die §§ 114
+bis 124 des Versicherungsvertragsgesetzes entsprechend. Der Name der
+Partnerschaft muss den Zusatz „mit beschränkter Berufshaftung“ oder
+die Abkürzung „mbB“ oder eine andere allgemein verständliche Abkürzung
+dieser Bezeichnung enthalten; anstelle der Namenszusätze nach § 2
+Absatz 1 Satz 1 kann der Name der Partnerschaft mit beschränkter
+Berufshaftung den Zusatz „Part“ oder „PartG“ enthalten.
 
 
 ## § 9 Ausscheiden eines Partners, Auflösung der Partnerschaft

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2872
 
-Geändert durch
-:   Art. 7 Abs. 16 G v. 27.6.2000 I 897
+Zuletzt geändert durch
+:   Art. 4 Abs. 42 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel

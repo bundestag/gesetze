@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung der Bundesärzteordnung und anderer Gesetze
 jurabk: BÄOuaÄndG 2004
 layout: default
-origslug: b_oua_ndg_2004
+origslug: baeouaaendg_2004
 slug: baeouaaendg_2004
 
 ---

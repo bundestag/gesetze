@@ -2,7 +2,7 @@
 Title: Gesetz über die Entschädigung der Mitglieder des Bundestages
 jurabk: DiätenG
 layout: default
-origslug: di_teng
+origslug: diaeteng
 slug: diaeteng
 
 ---
@@ -157,9 +157,9 @@ ein Anspruch auf Aufwandsentschädigung besteht.
 (4) Leistungen aus der Alters- und Hinterbliebenenversorgung nach
 diesem Gesetz sind ausgeschlossen, wenn das Mitglied die
 Mitgliedschaft im Bundestag auf Grund des
-§ 16 Abs. 2 Nr. 2 oder 3              des Bundeswahlgesetzes verliert
-oder, falls es dem Bundestag noch angehört hätte, verlieren würde.
-Eigene Beiträge werden jedoch zinslos erstattet.
+§ 16 Abs. 2 Nr. 2 oder 3 des Bundeswahlgesetzes verliert oder, falls
+es dem Bundestag noch angehört hätte, verlieren würde. Eigene Beiträge
+werden jedoch zinslos erstattet.
 
 
 ### § 7a
@@ -340,9 +340,9 @@ Wahlperiode. Im Falle der Auflösung des Bundestages stehen den
 Mitgliedern diese Rechte bis zum Ablauf des vierzehnten Tages nach der
 Neuwahl zu. Der Präsident, seine Stellvertreter, die Mitglieder und
 die stellvertretenden Mitglieder der gemäß den Artikeln
-45              und 45a des Grundgesetzes eingesetzten Ausschüsse
-haben diese Rechte bis zum Ablauf des vierzehnten Tages nach dem
-Zusammentritt des neuen Bundestages.
+45 und 45a des Grundgesetzes eingesetzten Ausschüsse haben diese
+Rechte bis zum Ablauf des vierzehnten Tages nach dem Zusammentritt des
+neuen Bundestages.
 
 (2) Für die Dauer der Berechtigung zur Freifahrt darf ein Mitglied des
 Bundestages die Erstattung von Fahrkosten der Deutschen Bundesbahn und
@@ -375,11 +375,11 @@ E.
 
 (3) Bei Auslandsdienstreisen erhalten die Mitglieder Tagegelder in
 Höhe der Stufe
-E              der Sonderbestimmungen für Auslandsdienstreisen der
-Beamten sowie die Fahrkosten I. Klasse von der Bundesgrenze bis zum
-Tagungsort und zurück. Für die Mitglieder der Beratenden Versammlung
-des Europarates und der Versammlung der Westeuropäischen Union setzt
-der Ältestenrat des Bundestages die Reisekostenvergütung fest.
+E der Sonderbestimmungen für Auslandsdienstreisen der Beamten sowie
+die Fahrkosten I. Klasse von der Bundesgrenze bis zum Tagungsort und
+zurück. Für die Mitglieder der Beratenden Versammlung des Europarates
+und der Versammlung der Westeuropäischen Union setzt der Ältestenrat
+des Bundestages die Reisekostenvergütung fest.
 
 (4) Weist ein Mitglied des Bundestages anläßlich einer auswärtigen
 amtlichen Tätigkeit einen außergewöhnlichen Aufwand nach, der aus dem

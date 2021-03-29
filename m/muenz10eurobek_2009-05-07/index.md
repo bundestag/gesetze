@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100 Jahre Internationale Luftfahrtausstellung“)
 jurabk: Münz10EuroBek 2009-05-07
 layout: default
-origslug: m_nz10eurobek_2009-05-07
+origslug: muenz10eurobek_2009-05-07
 slug: muenz10eurobek_2009-05-07
 
 ---
@@ -25,8 +25,8 @@ I S. 2402) hat die Bundesregierung beschlossen, aus Anlass des
 Jahr 2009 eine deutsche Euro-Gedenkmünze im Nennwert von 10 Euro
 prägen zu lassen. Die Auflage der Münze beträgt 1 850 000 Stück,
 darunter maximal
-200 000              Stück in Spiegelglanzausführung. Die Prägung
-erfolgt durch das Bayerische Hauptmünzamt, München.
+200 000 Stück in Spiegelglanzausführung. Die Prägung erfolgt durch das
+Bayerische Hauptmünzamt, München.
 
 Die Münze wird ab dem 4. Juni 2009 in den Verkehr gebracht. Sie
 besteht aus einer Legierung von 925 Tausendteilen Silber und 75

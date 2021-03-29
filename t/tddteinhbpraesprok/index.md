@@ -2,7 +2,7 @@
 Title: Proklamation des Bundespräsidenten
 jurabk: TdDtEinhBPräsProk
 layout: default
-origslug: tddteinhbpr_sprok
+origslug: tddteinhbpraesprok
 slug: tddteinhbpraesprok
 
 ---

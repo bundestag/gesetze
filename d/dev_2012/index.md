@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans
+Title: Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans
   für die Zuteilungsperiode 2008 bis 2012
 jurabk: DEV 2012
 layout: default
@@ -8,7 +8,7 @@ slug: dev_2012
 
 ---
 
-# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
+# Verordnung über die Erhebung von Daten zur Aufstellung des nationalen  Zuteilungsplans für die Zuteilungsperiode 2008 bis 2012 (DEV 2012)
 
 Ausfertigungsdatum
 :   2006-07-11
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1572
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 20 G v. 22.12.2011 I 3044
+:   Art. 2 Abs. 12 G v. 21.12.2015 I 2498
 
 
 
@@ -110,11 +110,9 @@ zusätzlich für die Kalenderjahre 2000 bis 2002.
 
 ### § 5 Zusätzliche Angaben für Anlagen mit Kraft-Wärme-Kopplung
 
-Betreiber von Kraft-Wärme-Kopplungsanlagen im Sinne von § 3 Abs. 2 des
-Kraft-Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S. 1092),
-zuletzt geändert durch Artikel 3 des Gesetzes vom 22. September 2005
-(BGBl. I S. 2826), haben für die Kalenderjahre 2002 bis 2005
-zusätzlich folgende produktionsbezogene Daten anzugeben:
+Betreiber von Kraft-Wärme-Kopplungsanlagen im Sinne von § 2 Nummer 14
+des Kraft-Wärme-Kopplungsgesetzes, haben für die Kalenderjahre 2002
+bis 2005 zusätzlich folgende produktionsbezogene Daten anzugeben:
 
 1.  Nettostromerzeugung in Kraft-Wärme-Kopplung pro Jahr,
 

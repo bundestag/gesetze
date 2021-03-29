@@ -18,9 +18,7 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 4. 3.1994 I 406;
 
-Zuletzt geändert durch
-:   Art. 13 G v. 7.12.2011 I 2592
-
+Stand: zuletzt geändert Art. 8 G v. 18.7.2016 I 1679
 
 ## § 1 Persönlicher Geltungsbereich
 
@@ -76,23 +74,21 @@ Arbeitgeber für den Arbeitnehmer anlegt
         Gesetzes zum Geschäftsbetrieb befugt ist,
 
 
-    c)  zum Erwerb von Anteilen an Sondervermögen nach den §§ 46 bis 65 und 83
-        bis 86 des Investmentgesetzes sowie von ausländischen
-        Investmentanteilen, die nach dem Investmentgesetz öffentlich
-        vertrieben werden dürfen, wenn nach dem Jahresbericht für das
-        vorletzte Geschäftsjahr, das dem Kalenderjahr des Abschlusses des
-        Vertrags im Sinne des § 4 oder des § 5 vorausgeht, der Wert der Aktien
-        in diesem Sondervermögen 60 Prozent des Werts dieses Sondervermögens
-        nicht unterschreitet; für neu aufgelegte Sondervermögen ist für das
-        erste und zweite Geschäftsjahr der erste Jahresbericht oder der erste
-        Halbjahresbericht nach Auflegung des Sondervermögens maßgebend,
+    c)  zum Erwerb von Anteilen an OGAW-Sondervermögen sowie an als
+        Sondervermögen aufgelegten offenen Publikums-AIF nach den §§ 218 und
+        219 des Kapitalanlagegesetzbuchs sowie von Anteilen an offenen EU-
+        Investmentvermögen und offenen ausländischen AIF, die nach dem
+        Kapitalanlagegesetzbuch vertrieben werden dürfen, wenn nach dem
+        Jahresbericht für das vorletzte Geschäftsjahr, das dem Kalenderjahr
+        des Abschlusses des Vertrags im Sinne des § 4 oder des § 5 vorausgeht,
+        der Wert der Aktien in diesem Investmentvermögen 60 Prozent des Werts
+        dieses Investmentvermögens nicht unterschreitet; für neu aufgelegte
+        Investmentvermögen ist für das erste und zweite Geschäftsjahr der
+        erste Jahresbericht oder der erste Halbjahresbericht nach Auflegung
+        des Investmentvermögens maßgebend,
 
 
-    d)  zum Erwerb von Anteilen an einem Mitarbeiterbeteiligungs-
-        Sondervermögen nach Abschnitt 7a des Investmentgesetzes vom 15.
-        Dezember 2003 (BGBl. I S. 2676), zuletzt geändert durch Artikel 3 des
-        Gesetzes vom 7. März 2009 (BGBl. I S. 451), in der jeweils geltenden
-        Fassung,
+    d)  (weggefallen)
 
 
     e)  (weggefallen)
@@ -316,8 +312,8 @@ ist nicht übertragbar.
 
 (1) Vermögenswirksame Leistungen können auch angelegt werden
 
-1.  zugunsten des Ehegatten des Arbeitnehmers (§ 26 Abs. 1 des
-    Einkommensteuergesetzes),
+1.  zugunsten des nicht dauernd getrennt lebenden Ehegatten oder
+    Lebenspartners des Arbeitnehmers,
 
 
 2.  zugunsten der in § 32 Abs. 1 des Einkommensteuergesetzes bezeichneten
@@ -355,7 +351,7 @@ vorgelegt hat, daß die Anlage bei ihm die Voraussetzungen des § 2 Abs.
 1 Nr. 5 erfüllt; Absatz 2 gilt in diesem Falle nicht. Der Arbeitgeber
 hat die Richtigkeit der Bestätigung nicht zu prüfen.
 
-(4)
+(4) (weggefallen)
 
 
 ## § 4 Sparvertrag über Wertpapiere oder andere Vermögensbeteiligungen
@@ -363,12 +359,12 @@ hat die Richtigkeit der Bestätigung nicht zu prüfen.
 (1) Ein Sparvertrag über Wertpapiere oder andere
 Vermögensbeteiligungen im Sinne des § 2 Abs. 1 Nr. 1 ist ein
 Sparvertrag mit einem Kreditinstitut oder einer
-Kapitalanlagegesellschaft, in dem sich der Arbeitnehmer verpflichtet,
-als Sparbeiträge zum Erwerb von Wertpapieren im Sinne des § 2 Abs. 1
-Nr. 1 Buchstabe a bis f, Abs. 2 Satz 1,Abs. 3 und 4 oder zur
-Begründung oder zum Erwerb von Rechten im Sinne des § 2 Abs. 1 Nr. 1
-Buchstabe g bis l, Abs. 2 Satz 2 bis 5 und Abs. 4 einmalig oder für
-die Dauer von sechs Jahren seit Vertragsabschluß laufend
+Kapitalverwaltungsgesellschaft, in dem sich der Arbeitnehmer
+verpflichtet, als Sparbeiträge zum Erwerb von Wertpapieren im Sinne
+des § 2 Abs. 1 Nr. 1 Buchstabe a bis f, Abs. 2 Satz 1, Abs. 3 und 4
+oder zur Begründung oder zum Erwerb von Rechten im Sinne des § 2 Abs.
+1 Nr. 1 Buchstabe g bis l, Abs. 2 Satz 2 bis 5 und Abs. 4 einmalig
+oder für die Dauer von sechs Jahren seit Vertragsabschluß laufend
 vermögenswirksame Leistungen einzahlen zu lassen oder andere Beträge
 einzuzahlen.
 
@@ -396,7 +392,7 @@ Kalenderjahrs, in dem der Vertrag abgeschlossen worden ist. Als
 Zeitpunkt des Vertragsabschlusses gilt der Tag, an dem die
 vermögenswirksame Leistung, bei Verträgen über laufende Einzahlungen
 die erste vermögenswirksame Leistung, beim Kreditinstitut oder bei der
-Kapitalanlagegesellschaft eingeht.
+Kapitalverwaltungsgesellschaft eingeht.
 
 (3) Vermögenswirksame Leistungen, die nicht bis zum Ablauf der Frist
 nach Absatz 2 Nr. 1 verwendet worden sind, gelten als rechtzeitig
@@ -408,13 +404,14 @@ verwendet oder festgelegt werden.
 wenn
 
 1.  der Arbeitnehmer oder sein von ihm nicht dauernd getrennt lebender
-    Ehegatte (§ 26 Abs. 1 Satz 1 des Einkommensteuergesetzes) nach
-    Vertragsabschluß gestorben oder völlig erwerbsunfähig geworden ist,
+    Ehegatte oder Lebenspartner nach Vertragsabschluß gestorben oder
+    völlig erwerbsunfähig geworden ist,
 
 
 2.  der Arbeitnehmer nach Vertragsabschluß, aber vor der vorzeitigen
-    Verfügung geheiratet hat und im Zeitpunkt der vorzeitigen Verfügung
-    mindestens zwei Jahre seit Beginn der Sperrfrist vergangen sind,
+    Verfügung geheiratet oder eine Lebenspartnerschaft begründet hat und
+    im Zeitpunkt der vorzeitigen Verfügung mindestens zwei Jahre seit
+    Beginn der Sperrfrist vergangen sind,
 
 
 3.  der Arbeitnehmer nach Vertragsabschluß arbeitslos geworden ist und die
@@ -424,18 +421,18 @@ wenn
 
 4.  der Arbeitnehmer den Erlös innerhalb der folgenden drei Monate
     unmittelbar für die eigene Weiterbildung oder für die seines von ihm
-    nicht dauernd getrennt lebenden Ehegatten einsetzt und die Maßnahme
-    außerhalb des Betriebes, dem er oder der Ehegatte angehört,
-    durchgeführt wird und Kenntnisse und Fertigkeiten vermittelt werden,
-    die dem beruflichen Fortkommen dienen und über arbeitsplatzbezogene
-    Anpassungsfortbildungen hinausgehen; für vermögenswirksame Leistungen,
-    die der Arbeitgeber für den Arbeitnehmer nach § 2 Abs. 1 Nr. 1
-    Buchstabe a, b, d, f bis l angelegt hat und die Rechte am Unternehmen
-    des Arbeitgebers begründen, gilt dies nur bei Zustimmung des
-    Arbeitgebers; bei nach § 2 Abs. 2 gleichgestellten Anlagen gilt dies
-    nur bei Zustimmung des Unternehmens, das im Sinne des § 18 Abs. 1 des
-    Aktiengesetzes als herrschendes Unternehmen mit dem Unternehmen des
-    Arbeitgebers verbunden ist,
+    nicht dauernd getrennt lebenden Ehegatten oder Lebenspartners einsetzt
+    und die Maßnahme außerhalb des Betriebes, dem er oder der Ehegatte
+    oder der Lebenspartner angehört, durchgeführt wird und Kenntnisse und
+    Fertigkeiten vermittelt werden, die dem beruflichen Fortkommen dienen
+    und über arbeitsplatzbezogene Anpassungsfortbildungen hinausgehen; für
+    vermögenswirksame Leistungen, die der Arbeitgeber für den Arbeitnehmer
+    nach § 2 Absatz 1 Nummer 1 Buchstabe a, b, f bis l angelegt hat und
+    die Rechte am Unternehmen des Arbeitgebers begründen, gilt dies nur
+    bei Zustimmung des Arbeitgebers; bei nach § 2 Abs. 2 gleichgestellten
+    Anlagen gilt dies nur bei Zustimmung des Unternehmens, das im Sinne
+    des § 18 Abs. 1 des Aktiengesetzes als herrschendes Unternehmen mit
+    dem Unternehmen des Arbeitgebers verbunden ist,
 
 
 5.  der Arbeitnehmer nach Vertragsabschluß unter Aufgabe der
@@ -454,10 +451,10 @@ wenn
 
 
 (5) Unschädlich ist auch, wenn in die Rechte und Pflichten des
-Kreditinstituts oder der Kapitalanlagegesellschaft aus dem Sparvertrag
-an seine Stelle ein anderes Kreditinstitut oder eine andere
-Kapitalanlagegesellschaft während der Laufzeit des Vertrags durch
-Rechtsgeschäft eintritt.
+Kreditinstituts oder der Kapitalverwaltungsgesellschaft aus dem
+Sparvertrag an seine Stelle ein anderes Kreditinstitut oder eine
+andere Kapitalverwaltungsgesellschaft während der Laufzeit des
+Vertrags durch Rechtsgeschäft eintritt.
 
 (6) Werden auf einen Vertrag über laufend einzuzahlende
 vermögenswirksame Leistungen oder andere Beträge in einem
@@ -635,15 +632,14 @@ mit eingezahlten vermögenswirksamen Leistungen zu erwerben
     eingetragen werden,
 
 
-5.  Anteile an einem Sondervermögen, die von Kapitalanlagegesellschaften
-    im Sinne des Investmentgesetzes ausgegeben werden und nicht unter § 2
-    Abs. 1 Nr. 1 Buchstabe c oder d fallen, oder
+5.  Anteile an einem Sondervermögen, die von
+    Kapitalverwaltungsgesellschaften im Sinne des Kapitalanlagegesetzbuchs
+    ausgegeben werden und nicht unter § 2 Abs. 1 Nr. 1 Buchstabe c fallen,
+    oder
 
 
-6.  ausländische Investmentanteile, die nach dem Investmentgesetz im Wege
-    des öffentlichen Anbietens, der öffentlichen Werbung oder in ähnlicher
-    Weise vertrieben werden dürfen und nicht unter § 2 Abs. 1 Nr. 1
-    Buchstabe e fallen.
+6.  Anteile an offenen EU-Investmentvermögen und ausländischen AIF, die
+    nach dem Kapitalanlagegesetzbuch vertrieben werden dürfen.
 
 
 
@@ -653,21 +649,21 @@ Sparvertrag abgeschlossen ist, festzulegen und über die Wertpapiere
 nicht zu verfügen; diese Verpflichtung besteht nicht, wenn eine der in
 § 4 Abs. 4 Nr. 1 bis 5 bezeichneten Voraussetzungen erfüllt ist.
 
-(5) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nr. 2
-bezeichneten Vereinbarung auch berechtigt, vor Ablauf der Sperrfrist
+(5) Der Arbeitnehmer ist abweichend von der in Absatz 2 Satz 1 Nummer
+2 bezeichneten Vereinbarung auch berechtigt, vor Ablauf der Sperrfrist
 die Überweisung eingezahlter vermögenswirksamer Leistungen auf einen
-von ihm oder seinem Ehegatten (§ 26 Abs. 1 des
-Einkommensteuergesetzes) abgeschlossenen Bausparvertrag zu verlangen,
-wenn weder mit der Auszahlung der Bausparsumme begonnen worden ist
-noch die überwiesenen Beträge vor Ablauf der Sperrfrist ganz oder zum
-Teil zurückgezahlt, noch Ansprüche aus dem Bausparvertrag abgetreten
-oder beliehen werden oder wenn eine solche vorzeitige Verfügung nach §
-2 Abs. 3 Satz 2 Nr. 1 und 2 des Wohnungsbau-Prämiengesetzes in der
+von ihm oder seinem nicht dauernd getrennt lebenden Ehegatten oder
+Lebenspartner abgeschlossenen Bausparvertrag zu verlangen, wenn weder
+mit der Auszahlung der Bausparsumme begonnen worden ist noch die
+überwiesenen Beträge vor Ablauf der Sperrfrist ganz oder zum Teil
+zurückgezahlt noch Ansprüche aus dem Bausparvertrag abgetreten oder
+beliehen werden oder wenn eine solche vorzeitige Verfügung nach § 2
+Absatz 3 Satz 2 Nummer 1 und 2 des Wohnungsbau-Prämiengesetzes in der
 Fassung der Bekanntmachung vom 30. Oktober 1997 (BGBl. I S. 2678), das
-zuletzt durch Artikel 6 des Gesetzes vom 29. Juli 2008 (BGBl. I S.
-1509) geändert worden ist, in der jeweils geltenden Fassung
-unschädlich ist. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem
-31\. Dezember 2008 abgeschlossene Bausparverträge.
+zuletzt durch Artikel 7 des Gesetzes vom 5. April 2011 (BGBl. I S.
+554) geändert worden ist, in der jeweils geltenden Fassung unschädlich
+ist. Satz 1 gilt für vor dem 1. Januar 2009 und nach dem 31. Dezember
+2008 abgeschlossene Bausparverträge.
 
 
 ## § 9 Kapitalversicherungsvertrag
@@ -793,18 +789,21 @@ und Abs. 4 ist nur mit Zustimmung des Arbeitgebers zulässig.
 ## § 13 Anspruch auf Arbeitnehmer-Sparzulage
 
 (1) Der Arbeitnehmer hat Anspruch auf eine Arbeitnehmer-Sparzulage
-nach Absatz 2, wenn sein Einkommen folgende Grenzen nicht übersteigt:
+nach Absatz 2, wenn er gegenüber dem Unternehmen, dem Institut oder
+dem in § 3 Absatz 3 genannten Gläubiger in die Datenübermittlung nach
+Maßgabe des § 15 Absatz 1 Satz 2 und 3 eingewilligt hat und sein
+Einkommen folgende Grenzen nicht übersteigt:
 
 1.  bei nach § 2 Abs. 1 Nr. 1 bis 3, Abs. 2 bis 4 angelegten
     vermögenswirksamen Leistungen die Einkommensgrenze von 20 000 Euro
-    oder bei einer Zusammenveranlagung von Ehegatten nach § 26b des
+    oder bei einer Zusammenveranlagung nach § 26b des
     Einkommensteuergesetzes von 40 000 Euro oder
 
 
 2.  bei nach § 2 Abs. 1 Nr. 4 und 5 angelegten vermögenswirksamen
     Leistungen die Einkommensgrenze von 17 900 Euro oder bei einer
-    Zusammenveranlagung von Ehegatten nach § 26b des
-    Einkommensteuergesetzes von 35 800 Euro.
+    Zusammenveranlagung nach § 26b des Einkommensteuergesetzes von 35 800
+    Euro.
 
 
 
@@ -879,9 +878,8 @@ bis 412 der Abgabenordnung entsprechend.
 (4) Die Arbeitnehmer-Sparzulage wird auf Antrag durch das für die
 Besteuerung des Arbeitnehmers nach dem Einkommen zuständige Finanzamt
 festgesetzt. Der Arbeitnehmer hat den Antrag nach amtlich
-vorgeschriebenem Vordruck zu stellen. Der Arbeitnehmer hat die
-vermögenswirksamen Leistungen durch die Bescheinigung nach § 15 Abs. 1
-nachzuweisen. Die Arbeitnehmer-Sparzulage wird fällig
+vorgeschriebenem Vordruck zu stellen. Die Arbeitnehmer-Sparzulage wird
+fällig
 
 a)  mit Ablauf der für die Anlageform vorgeschriebenen Sperrfrist nach
     diesem Gesetz,
@@ -904,22 +902,25 @@ d)  in den Fällen unschädlicher Verfügung.
 
 
 
-(5) Wird im Besteuerungsverfahren die Entscheidung über die Höhe des
-zu versteuernden Einkommens nachträglich in der Weise geändert, dass
-dadurch die Einkommensgrenzen des § 13 Abs. 1 unterschritten werden
-und entsteht für Aufwendungen, die vermögenswirksame Leistungen
-darstellen, erstmals ein Anspruch auf Arbeitnehmer-Sparzulage, kann
-der Arbeitnehmer den Antrag auf Arbeitnehmer-Sparzulage abweichend von
-Absatz 4 innerhalb eines Jahres nach Bekanntgabe der Änderung stellen.
+(5) Ein Bescheid über die Ablehnung der Festsetzung einer
+Arbeitnehmer-Sparzulage ist aufzuheben und die Arbeitnehmer-Sparzulage
+ist nachträglich festzusetzen, wenn der Einkommensteuerbescheid nach
+Ergehen des Ablehnungsbescheides geändert wird und dadurch erstmals
+festgestellt wird, dass die Einkommensgrenzen des § 13 Absatz 1
+unterschritten sind. Die Frist für die Festsetzung der Arbeitnehmer-
+Sparzulage endet in diesem Fall nicht vor Ablauf eines Jahres nach
+Bekanntgabe des geänderten Steuerbescheides. Satz 2 gilt entsprechend,
+wenn der geänderten Einkommensteuerfestsetzung kein Bescheid über die
+Ablehnung der Festsetzung einer Arbeitnehmer-Sparzulage vorangegangen
+ist.
 
 (6) Besteht für Aufwendungen, die vermögenswirksame Leistungen
 darstellen, ein Anspruch auf Arbeitnehmer-Sparzulage und hat der
-Arbeitnehmer hierfür abweichend von § 1 Satz 2 Nr. 1 des Wohnungsbau-
-Prämiengesetzes Wohnungsbauprämie beantragt, kann der Arbeitnehmer die
-Arbeitnehmer-Sparzulage abweichend von Absatz 4 innerhalb eines Jahres
-nach Bekanntgabe der Mitteilung über die Änderung des Prämienanspruchs
-(§ 4a Abs. 4 Satz 1 und 2, § 4b Abs. 2 Satz 3 des Wohnungsbau-
-Prämiengesetzes) erstmalig beantragen.
+Arbeitnehmer hierfür abweichend von § 1 Satz 2 Nummer 1 des
+Wohnungsbau-Prämiengesetzes eine Wohnungsbauprämie beantragt, endet
+die Frist für die Festsetzung der Arbeitnehmer-Sparzulage nicht vor
+Ablauf eines Jahres nach Bekanntgabe der Mitteilung über die Änderung
+des Prämienanspruchs.
 
 (7) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Verfahren bei der Festsetzung und der
@@ -935,11 +936,16 @@ Gesetzes ergehenden Verwaltungsakte der Finanzbehörden ist der
 Finanzrechtsweg gegeben.
 
 
-## § 15 Bescheinigungspflichten, Haftung, Verordnungsermächtigung, Anrufungsauskunft
+## § 15 Elektronische Vermögensbildungsbescheinigung, Verordnungsermächtigungen, Haftung, Anrufungsauskunft, Außenprüfung
 
-(1) Das Unternehmen, das Institut oder der in § 3 Abs. 3 genannte
-Gläubiger hat dem Arbeitnehmer auf Verlangen eine Bescheinigung
-auszustellen über
+(1) Das Unternehmen, das Institut oder der in § 3 Absatz 3 genannte
+Gläubiger hat der für die Besteuerung des Arbeitnehmers nach dem
+Einkommen zuständigen Finanzbehörde nach Maßgabe des § 93c der
+Abgabenordnung neben den in § 93c Absatz 1 der Abgabenordnung
+genannten Daten folgende Angaben zu übermitteln (elektronische
+Vermögensbildungsbescheinigung), wenn der Arbeitnehmer gegenüber der
+mitteilungspflichtigen Stelle in die Datenübermittlung eingewilligt
+hat:
 
 1.  den jeweiligen Jahresbetrag der nach § 2 Abs. 1 Nr. 1 bis 5, Abs. 2
     bis 4 angelegten vermögenswirksamen Leistungen sowie die Art ihrer
@@ -962,15 +968,32 @@ auszustellen über
 
 
 
-Das Bundesministerium der Finanzen kann mit Zustimmung des Bundesrates
-durch Rechtsverordnung bestimmen, dass die Bescheinigung nach Satz 1
-nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung an
-eine amtlich bestimmte Stelle zu übermitteln ist. In der
-Rechtsverordnung können Ausnahmen zugelassen werden. In den Fällen des
-Satzes 2 kann auf das Ausstellen einer Bescheinigung nach Satz 1
-verzichtet werden, wenn der Arbeitnehmer entsprechend unterrichtet
-wird. Durch die Datenfernübertragung gilt der Nachweis im Sinne des §
-14 Abs. 4 Satz 3 als erbracht.
+Die Einwilligung nach Satz 1 ist spätestens bis zum Ablauf des zweiten
+Kalenderjahres, das auf das Kalenderjahr der Anlage der
+vermögenswirksamen Leistungen folgt, zu erteilen. Dabei hat der
+Arbeitnehmer dem Mitteilungspflichtigen die Identifikationsnummer
+mitzuteilen. Die Einwilligung gilt als erteilt, wenn die übermittelnde
+Stelle den Arbeitnehmer schriftlich darüber informiert, dass vom
+Vorliegen einer Einwilligung ausgegangen wird und die Daten
+übermittelt werden, wenn der Arbeitnehmer dem nicht innerhalb einer
+Frist von vier Wochen nach Erhalt dieser schriftlichen Information
+schriftlich widerspricht. Die Einwilligung gilt auch für die folgenden
+Kalenderjahre, es sei denn, der Arbeitnehmer widerruft diese
+schriftlich gegenüber der übermittelnden Stelle. Der Widerruf muss der
+übermittelnden Stelle vor Beginn des Kalenderjahres, für das die
+Einwilligung erstmals nicht mehr gelten soll, vorliegen. Wird die
+Einwilligung nach Ablauf des Kalenderjahres der Anlage der
+vermögenswirksamen Leistungen abgegeben, sind die Daten bis zum Ende
+des folgenden Kalendervierteljahres zu übermitteln.
+
+(1a) In den Fällen des Absatzes 1 ist für die Anwendung des § 72a
+Absatz 4 und des § 93c Absatz 4 Satz 1 der Abgabenordnung die für die
+Besteuerung der mitteilungspflichtigen Stelle nach dem Einkommen
+zuständige Finanzbehörde zuständig. Die nach Absatz 1 übermittelten
+Daten können durch die nach Satz 1 zuständige Finanzbehörde zum Zweck
+der Anwendung des § 93c Absatz 4 Satz 1 der Abgabenordnung bei den für
+die Besteuerung der Arbeitnehmer nach dem Einkommen zuständigen
+Finanzbehörden abgerufen und verwendet werden.
 
 (2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates weitere Vorschriften zu erlassen über
@@ -995,11 +1018,11 @@ verletzt, so haften sie für die Arbeitnehmer-Sparzulage, die wegen
 ihrer Pflichtverletzung zu Unrecht gezahlt, nicht zurückgefordert oder
 nicht einbehalten worden ist.
 
-(4) Das Finanzamt, das für die Besteuerung der in Absatz 3 Genannten
-zuständig ist, hat auf deren Anfrage Auskunft darüber zu erteilen, wie
-im einzelnen Fall die Vorschriften über vermögenswirksame Leistungen
-anzuwenden sind, die nach § 2 Abs. 1 Nr. 1 bis 5, Abs. 2 bis 4
-angelegt werden.
+(4) Das Finanzamt, das für die Besteuerung nach dem Einkommen der in
+Absatz 3 Genannten zuständig ist, hat auf deren Anfrage Auskunft
+darüber zu erteilen, wie im einzelnen Fall die Vorschriften über
+vermögenswirksame Leistungen anzuwenden sind, die nach § 2 Absatz 1
+Nummer 1 bis 5 und Absatz 2 bis 4 angelegt werden.
 
 (5) Das für die Lohnsteuer-Außenprüfung zuständige Finanzamt kann bei
 den in Absatz 3 Genannten eine Außenprüfung durchführen, um
@@ -1007,7 +1030,7 @@ festzustellen, ob sie ihre Pflichten nach diesem Gesetz oder nach
 einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung, soweit
 diese mit der Anlage vermögenswirksamer Leistungen nach § 2 Abs. 1 Nr.
 1 bis 5, Abs. 2 bis 4 zusammenhängen, erfüllt haben. Die §§ 195 bis
-202 der Abgabenordnung gelten entsprechend.
+203a der Abgabenordnung gelten entsprechend.
 
 
 ## § 16 Berlin-Klausel
@@ -1106,6 +1129,29 @@ vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
 vom 7. Dezember 2011 (BGBl. I S. 2592) ist erstmals für
 vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
 2011 angelegt werden.
+
+(13) § 3 Absatz 1 Satz 1 Nummer 1 in der Fassung des Artikels 18 des
+Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) ist erstmals für
+vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
+2012 angelegt werden. § 4 Absatz 4 Nummer 1, 2 und 4 sowie § 8 Absatz
+5 Satz 1 in der Fassung des Artikels 18 des Gesetzes vom 26. Juni 2013
+(BGBl. I S. 1809) sind erstmals bei Verfügungen nach dem 31. Dezember
+2012 anzuwenden.
+
+(14) Das Bundesministerium der Finanzen teilt den Zeitpunkt der
+erstmaligen Anwendung der §§ 13 und 14 Absatz 4 sowie des § 15 in der
+Fassung des Artikels 18 des Gesetzes vom 26. Juni 2013 (BGBl. I S.
+1809) durch ein im Bundessteuerblatt zu veröffentlichendes Schreiben
+mit. Bis zu diesem Zeitpunkt sind die §§ 13 und 14 Absatz 4 sowie der
+§ 15 in der Fassung des Artikels 13 des Gesetzes vom 7. Dezember 2011
+(BGBl. I S. 2592) weiter anzuwenden.
+
+(15) § 2 Absatz 1 Nummer 1 in der Fassung des Artikels 5 des Gesetzes
+vom 18. Dezember 2013 (BGBl. I S. 4318) ist erstmals für
+vermögenswirksame Leistungen anzuwenden, die nach dem 31. Dezember
+2013 angelegt werden. § 4 Absatz 4 Nummer 4 in der Fassung des
+Artikels 5 des Gesetzes vom 18. Dezember 2013 (BGBl. I S. 4318) ist
+erstmals bei Verfügungen nach dem 31. Dezember 2013 anzuwenden.
 
 
 ## § 18 Kündigung eines vor 1994 abgeschlossenen Anlagevertrags und der Mitgliedschaft in einer Genossenschaft oder Gesellschaft mit beschränkter Haftung

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3242, 3292
 
 Zuletzt geändert durch
-:   Art. 10 G v. 22.12.2011 I 3057
+:   Art. 9 G v. 15.4.2015 I 583
 
 
 ## Abschnitt 1 - Errichtung der Deutschen Rentenversicherung Bund
@@ -87,4 +87,13 @@ gehen in der Deutschen Rentenversicherung Knappschaft-Bahn-See auf.
 (2) Das Vermögen sowie Rechte und Pflichten der
 Bahnversicherungsanstalt und der Seekasse gehen als Ganzes auf die
 Deutsche Rentenversicherung Knappschaft-Bahn-See über.
+
+
+### § 6 Stellenbörse
+
+Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Träger der
+knappschaftlichen Rentenversicherung kann eine internetbasierte
+Stellenbörse für Beschäftigungsverhältnisse in Privathaushalten
+betreiben. Die Einrichtung der Stellenbörse erfolgt im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales.
 

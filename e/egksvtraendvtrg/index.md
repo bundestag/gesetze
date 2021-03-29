@@ -3,7 +3,7 @@ Title: Gesetz über den Vertrag vom 27. Oktober 1956 zur Abänderung des Vertrag
   die Gründung der Europäischen Gemeinschaft für Kohle und Stahl
 jurabk: EGKSVtrÄndVtrG
 layout: default
-origslug: egksvtr_ndvtrg
+origslug: egksvtraendvtrg
 slug: egksvtraendvtrg
 
 ---

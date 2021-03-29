@@ -3,7 +3,7 @@ Title: Fünfte Verordnung über die Inkraftsetzung von Änderungen der Anhänge 
   II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 jurabk: WildTArtÜbkInkrÄndV 5
 layout: default
-origslug: wildtart_bkinkr_ndv_5
+origslug: wildtartuebkinkraendv_5
 slug: wildtartuebkinkraendv_5
 
 ---

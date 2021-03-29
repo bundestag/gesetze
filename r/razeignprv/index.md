@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2881
 
 Zuletzt geändert durch
-:   Art. 10 G v. 6.12.2011 I 2515
+:   Art. 3 G v. 12.5.2017 I 1121
 
 
 ## Eingangsformel
@@ -26,13 +26,8 @@ Zulassung zur Rechtsanwaltschaft vom 6. Juli 1990 (BGBl. I S. 1349)
 verordnet der Bundesminister der Justiz:
 
 
-## § 1 Prüfungsamt
+## § 1 (weggefallen)
 
-Für das Prüfungsamt, seine Organe und deren Zuständigkeiten gelten die
-Vorschriften über das für die zweite juristische Staatsprüfung
-zuständige Prüfungsamt des Landes, in dem das Prüfungsamt oder ein
-gemeinsames Prüfungsamt eingerichtet ist, entsprechend, soweit diese
-Verordnung nichts anderes bestimmt.
 
 
 ## § 2 Prüfer
@@ -43,80 +38,68 @@ hauptamtlichen Prüfer sowie die zu Prüfern berufenen Rechtsanwälte. Im
 übrigen kann zum Prüfer berufen werden, wer die Voraussetzungen eines
 Prüfers für die zweite juristische Staatsprüfung erfüllt.
 
-(2) Für das Verfahren der Berufung, die Amtsdauer und die einstweilige
-Heranziehung von Prüfern gelten die Vorschriften für die Prüfer der
-zweiten juristischen Staatsprüfung des Landes entsprechend, in dem das
-Prüfungsamt oder ein gemeinsames Prüfungsamt eingerichtet ist. Bei
-Errichtung eines gemeinsamen Prüfungsamts können Prüfer der
+(2) Bei Errichtung eines gemeinsamen Prüfungsamts können Prüfer der
 beteiligten Länder berufen werden.
 
 
-## § 3 Zulassung zur Eignungsprüfung
+## § 3 Ablegung der Eignungsprüfung
 
-(1) Der Antragsteller kann bei jedem nach § 18 Abs. 1 und 2 des
-Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland
-zuständigen Prüfungsamt im Geltungsbereich dieser Verordnung die
-Zulassung zur Eignungsprüfung beantragen.
+(1) Hat das Prüfungsamt der antragstellenden Person eine
+Eignungsprüfung auferlegt, so muss es ihr die Ablegung der Prüfung
+innerhalb von sechs Monaten nach Erlass des Bescheids ermöglichen.
 
-(2) Dem Antrag sind beizufügen:
+(2) Wird die Eignungsprüfung bei dem von der antragstellenden Person
+gewählten Prüfungsamt regelmäßig erst zu einem Zeitpunkt durchgeführt,
+der außerhalb der Frist des Absatzes 1 liegt, bei einem anderen
+Prüfungsamt jedoch innerhalb dieser Frist, so kann die antragstellende
+Person bei der Auferlegung der Eignungsprüfung auf die Möglichkeit
+hingewiesen werden, die Eignungsprüfung bei dem anderen Prüfungsamt
+abzulegen. Beabsichtigt die antragstellende Person in diesem Fall die
+Ablegung der Eignungsprüfung bei dem anderen Prüfungsamt, so hat sie
+dies dem bisher gewählten Prüfungsamt innerhalb eines Monats nach
+Zugang des Bescheids mitzuteilen. Anderenfalls hat sie die nicht
+fristgerechte Prüfung in Kauf zu nehmen.
 
-1.  ein eigenhändig geschriebener Lebenslauf,
+(3) Beabsichtigt die antragstellende Person die Ablegung der ihr
+auferlegten Eignungsprüfung, so hat sie dem Prüfungsamt, sofern sie
+dies nicht bereits vor Erlass des Bescheids getan hat, innerhalb eines
+Monats nach Zugang des Bescheids über die Auferlegung je ein Wahlfach
+aus den beiden Wahlfachgruppen und das von ihr gewählte Fach für die
+zweite Aufsichtsarbeit mitzuteilen.
 
-
-2.  ein Nachweis der Berechtigung zum unmittelbaren Zugang zum Beruf des
-    europäischen Rechtsanwalts (§ 16 Abs. 1, § 1 des Gesetzes über die
-    Tätigkeit europäischer Rechtsanwälte in Deutschland),
-
-
-3.  ein Nachweis, dass der Antragsteller mehr als die Hälfte der
-    Mindestausbildungszeit in Mitgliedstaaten der Europäischen Union oder
-    in anderen Vertragsstaaten des Abkommens über den Europäischen
-    Wirtschaftsraum oder der Schweiz abgeleistet hat, oder eine
-    Bescheinigung über eine mindestens dreijährige Berufsausübung in einem
-    dieser Staaten,
-
-
-4.  (weggefallen)
-
-
-5.  die Bestimmung je eines Wahlfaches aus den beiden Wahlfachgruppen und
-    des Faches für die zweite Aufsichtsarbeit,
-
-
-6.  die Versicherung, daß der Antragsteller die Zulassung zur
-    Eignungsprüfung bei keinem anderen Prüfungsamt beantragt hat,
-
-
-7.  eine Erklärung darüber, ob und bei welchen Prüfungsämtern sich der
-    Antragsteller ohne Erfolg Eignungsprüfungen unterzogen hat.
-
-
-
-
-(3) Der Antrag und die beizufügenden Unterlagen, soweit sie vom
-Antragsteller stammen, sind in deutscher Sprache einzureichen;
-sonstige Unterlagen sind mit einer beglaubigten Übersetzung
-vorzulegen.
+(4) Beabsichtigt die antragstellende Person, die ihr auferlegte
+Eignungsprüfung zunächst nicht abzulegen, so hat sie dies dem
+Prüfungsamt innerhalb eines Monats nach Zugang des Bescheids über die
+Auferlegung mitzuteilen. Beabsichtigt die antragstellende Person
+sodann später, die Eignungsprüfung abzulegen, hat sie dies dem
+Prüfungsamt anzuzeigen. Ab dem Zeitpunkt dieser Anzeige gelten die
+Absätze 1 bis 3 entsprechend.
 
 
 ## § 4 Rücktritt von der Prüfung
 
-Der Antragsteller kann nach der Zulassung nur aus wichtigem Grund von
-der Prüfung zurücktreten. Liegt kein wichtiger Grund vor, so gilt die
-Prüfung als nicht bestanden.
+Der Antragsteller kann nach Ablauf der Frist nach § 3 Absatz 4 Satz 1
+und nach einer Anzeige nach § 3 Absatz 4 Satz 2 nur aus wichtigem
+Grund von der Prüfung zurücktreten. Liegt kein wichtiger Grund vor, so
+gilt die Prüfung als nicht bestanden.
 
 
 ## § 5 Erlass von Prüfungsleistungen
 
-Das Prüfungsamt erlässt dem Antragsteller auf Antrag ganz oder
-teilweise Prüfungsleistungen, wenn er nachweist, dass er in seiner
-bisherigen Ausbildung oder durch anschließende Berufsausübung in einem
-Prüfungsgebiet die für die Ausübung des Rechtsanwaltsberufs in
-Deutschland erforderlichen materiellrechtlichen und
-verfahrensrechtlichen Kenntnisse im deutschen Recht erworben hat.
-Ausbildungsinhalte sind durch ein Prüfungszeugnis, Berufserfahrung ist
-entsprechend § 12 des Gesetzes über die Tätigkeit europäischer
-Rechtsanwälte in Deutschland nachzuweisen.
+Begehrt die antragstellende Person den Erlass von Prüfungsleistungen,
+so hat sie nachzuweisen:
+
+1.  Inhalte ihrer beruflichen Ausbildung durch ein Prüfungszeugnis,
+
+
+2.  erworbene Berufspraxis entsprechend § 12 des Gesetzes über die
+    Tätigkeit europäischer Rechtsanwälte in Deutschland und
+
+
+3.  Weiterbildungsmaßnahmen durch geeignete Bescheinigungen.
+
+
+
 
 
 ## § 6 Prüfungsgebiete
@@ -303,23 +286,7 @@ nicht vor Ablauf einer Frist, die nicht mehr als ein Jahr betragen
 darf, wiederholt werden kann.
 
 
-## § 13 Entsprechende Anwendung landesrechtlicher Vorschriften
-
-Für die Auswahl der Aufsichtsarbeiten und des Kurzvortrags, die
-Bestimmung von Zeit und Ort der Prüfung, die Verwendung von
-Kennziffern, die Zulassung von Hilfsmitteln, die Höchstzahl der
-Teilnehmer einer mündlichen Prüfung, die Prüfungsaufsicht und ihre
-Befugnisse, die Gewährung von Prüfungserleichterungen für Behinderte,
-die Geltendmachung und den Nachweis eines Rücktritts- und
-Entschuldigungsgrundes, die Geltendmachung und die Folgen von
-Beeinträchtigungen des Prüfungsverfahrens, die Niederschriften über
-das Prüfungsverfahren und die Einsicht in Prüfungsakten gelten die
-Vorschriften für die zweite juristische Staatsprüfung des Landes
-entsprechend, in dem das Prüfungsamt oder ein gemeinsames Prüfungsamt
-eingerichtet ist.
-
-
-## § 13a Übertragung auf die Rechtsanwaltskammern
+## § 13 Übertragung auf die Rechtsanwaltskammern
 
 Wird die Durchführung der Eignungsprüfung durch Rechtsverordnung auf
 die Rechtsanwaltskammern übertragen, ist diese Verordnung mit der

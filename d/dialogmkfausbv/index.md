@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau
-  für Dialogmarketing
+Title: Verordnung über die Berufsausbildung zum Kaufmann für  Dialogmarketing/zur
+  Kauffrau für Dialogmarketing
 jurabk: DialogmKfAusbV
 layout: default
 origslug: dialogmkfausbv
@@ -8,7 +8,7 @@ slug: dialogmkfausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing (DialogmKfAusbV)
+# Verordnung über die Berufsausbildung zum Kaufmann für  Dialogmarketing/zur Kauffrau für Dialogmarketing (DialogmKfAusbV)
 
 Ausfertigungsdatum
 :   2006-05-23
@@ -343,8 +343,9 @@ das dritte Ausbildungsjahr fortgesetzt werden.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1231 - 1235)
 
@@ -992,8 +993,9 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für  Dialogmarketing/zur Kauffrau für Dialogmarketing - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1236 - 1237)
 

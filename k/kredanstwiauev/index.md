@@ -3,7 +3,7 @@ Title: Verordnung zur Übertragung des Vermögens der Staatsbank Berlin auf die 
   für Wiederaufbau
 jurabk: KredAnstWiAÜV
 layout: default
-origslug: kredanstwia_v
+origslug: kredanstwiauev
 slug: kredanstwiauev
 
 ---

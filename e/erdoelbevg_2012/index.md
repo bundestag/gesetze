@@ -2,7 +2,7 @@
 Title: Gesetz über die Bevorratung mit Erdöl und Erdölerzeugnissen
 jurabk: ErdölBevG 2012
 layout: default
-origslug: erd_lbevg_2012
+origslug: erdoelbevg_2012
 slug: erdoelbevg_2012
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2012, 74
+
+Zuletzt geändert durch
+:   Art. 127 G v. 29.3.2017 I 626
 
 
 ## § 1 Bevorratung
@@ -38,15 +41,15 @@ nach diesem Gesetz obliegenden Bevorratungspflicht.
 Europäischen Union oder deren zentralen Bevorratungsstellen für einen
 bestimmten Zeitraum Aufgaben, die die Verwaltung ihrer Vorräte
 betreffen, übernehmen. Dies setzt die Einwilligung des
-Bundesministeriums für Wirtschaft und Technologie voraus.
+Bundesministeriums für Wirtschaft und Energie voraus.
 
 (4) Der Erdölbevorratungsverband kann sich an privatrechtlichen
 Gesellschaften beteiligen, sofern sich der angestrebte Zweck nicht
 besser und wirtschaftlicher auf andere Weise erreichen lässt und die
 Einzahlungsverpflichtung des Erdölbevorratungsverbandes auf einen
 bestimmten Betrag begrenzt ist. Der Erwerb setzt die Einwilligung des
-Bundesministeriums für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium der Finanzen voraus.
+Bundesministeriums für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium der Finanzen voraus.
 
 
 ### § 3 Bevorratungspflicht
@@ -58,16 +61,15 @@ mindestens den täglichen Durchschnittsnettoeinfuhren in den
 Geltungsbereich dieses Gesetzes für 90 Tage bezogen auf die letzten
 vor dem Bevorratungszeitraum liegenden drei Kalenderjahre
 (Bezugszeitraum) entsprechen. Die täglichen
-Durchschnittsnettoeinfuhren berechnen sich nach Absatz 3.
+Durchschnittsnettoeinfuhren berechnen sich nach Absatz 3. Das
+Bundesamt für Wirtschaft und Ausfuhrkontrolle teilt dem
+Erdölbevorratungsverband die Höhe der Vorräte mit, die zur Erfüllung
+der Bevorratungspflicht erforderlich ist.
 
 (2) Ist die Bevorratungspflicht nach Absatz 1 niedriger als die
 täglichen Durchschnittsnettoeinfuhren für 90 Tage im letzten
 Kalenderjahr vor dem Bevorratungszeitraum, ist dieses Kalenderjahr als
-Bezugszeitraum zugrunde zu legen. Der Erdölbevorratungsverband hat in
-diesem Fall seine Vorräte innerhalb von sechs Monaten nach Beginn des
-Bevorratungszeitraumes an diese Höhe anzupassen. Dabei ist die
-voraussichtliche Entwicklung der Bevorratungspflicht nach den Daten im
-laufenden Kalenderjahr zu berücksichtigen.
+Bezugszeitraum zugrunde zu legen.
 
 (3) Die Nettoeinfuhren eines Kalenderjahres werden anhand ihres
 Rohöläquivalents berechnet durch Addition der Nettoeinfuhren von
@@ -91,11 +93,15 @@ Durchschnittsnettoeinfuhren ergeben sich aus dem Quotienten der so
 ermittelten jährlichen Nettoeinfuhren und der Anzahl der Tage des
 entsprechenden Kalenderjahres.
 
-(4) Sind die in Absatz 3 genannten Mengen an Erdöl und
-Erdölerzeugnissen zur Lagerung in Freizonen oder Zolllager verbracht
-worden, gelten sie erst mit der Einfuhrabfertigung als eingeführt. Der
-Einfuhr oder Ausfuhr steht das sonstige Verbringen in den oder aus dem
-Geltungsbereich dieses Gesetzes gleich.
+(4) Befinden sich die in Absatz 3 genannten Mengen an Erdöl und
+Erdölerzeugnissen bei oder nach dem Verbringen in den Geltungsbereich
+dieses Gesetzes in der vorübergehenden Verwahrung, im
+Versandverfahren, in einer Freizone, einem Zolllager oder in der
+aktiven Veredelung, gelten sie erst mit dem Entstehen einer
+Einfuhrabgabenschuld als eingeführt, es sei denn, die Erdölerzeugnisse
+werden in der Freizone verbraucht, verwendet oder anderweitig
+verarbeitet. Der Einfuhr oder Ausfuhr steht das sonstige Verbringen in
+den oder aus dem Geltungsbereich dieses Gesetzes gleich.
 
 (5) Biokraft- und Bioheizstoffe sowie Zusatzstoffe werden bei der
 Berechnung der nach Absatz 1 zu haltenden Vorratshöhe nur
@@ -153,7 +159,7 @@ Vorräte, die er nach § 3 zu halten hat, in Form von Erdölerzeugnissen
 nach Absatz 1 Nummer 2 zu halten. Näheres zum Mengenverhältnis des
 gelagerten Erdöls zu den gelagerten Erdölerzeugnissen legt der Beirat
 durch Richtlinien fest, die der Genehmigung des Bundesministeriums für
-Wirtschaft und Technologie bedürfen.
+Wirtschaft und Energie bedürfen.
 
 (5) Die gehaltenen Vorratsmengen werden wie folgt zur Erfüllung der
 Bevorratungspflicht angerechnet:
@@ -248,22 +254,22 @@ werden.
 
 ### § 5 Spezifische Vorräte
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann den
-Erdölbevorratungsverband schriftlich verpflichten, Vorräte an
-Erdölerzeugnissen als spezifische Vorräte zu halten. Spezifische
-Vorräte sind diejenigen Vorräte an Erdölerzeugnissen nach § 4 Absatz 1
-Nummer 2, die Eigentum des Erdölbevorratungsverbandes sind und die
-Voraussetzungen der Absätze 2 bis 7 erfüllen. Die Anzahl der
-Bevorratungstage spezifischer Vorräte sowie die ausgewählten
-Erdölerzeugnisse legt das Bundesministerium für Wirtschaft und
-Technologie fest. Die Festlegungen bleiben für einen Zeitraum von
-mindestens einem Jahr in Kraft und können nur mit Wirkung zum ersten
-Tag eines Kalendermonats geändert werden.
+(1) Das Bundesministerium für Wirtschaft und Energie kann den
+Erdölbevorratungsverband schriftlich oder elektronisch verpflichten,
+Vorräte an Erdölerzeugnissen als spezifische Vorräte zu halten.
+Spezifische Vorräte sind diejenigen Vorräte an Erdölerzeugnissen nach
+§ 4 Absatz 1 Nummer 2, die Eigentum des Erdölbevorratungsverbandes
+sind und die Voraussetzungen der Absätze 2 bis 7 erfüllen. Die Anzahl
+der Bevorratungstage spezifischer Vorräte sowie die ausgewählten
+Erdölerzeugnisse legt das Bundesministerium für Wirtschaft und Energie
+fest. Die Festlegungen bleiben für einen Zeitraum von mindestens einem
+Jahr in Kraft und können nur mit Wirkung zum ersten Tag eines
+Kalendermonats geändert werden.
 
-(2) Die vom Bundesministerium für Wirtschaft und Technologie nach
-Absatz 1 Satz 3 festgelegte Anzahl an Bevorratungstagen spezifischer
-Vorräte stellt ein Mindestniveau dar. Dieses Mindestniveau gilt in
-gleicher Weise für
+(2) Die vom Bundesministerium für Wirtschaft und Energie nach Absatz 1
+Satz 3 festgelegte Anzahl an Bevorratungstagen spezifischer Vorräte
+stellt ein Mindestniveau dar. Dieses Mindestniveau gilt in gleicher
+Weise für
 
 1.  Ottokraftstoff,
 
@@ -330,7 +336,7 @@ unterirdischen Vorratsraum ab.
 soll der Erdölbevorratungsverband, soweit wirtschaftlich vertretbar,
 an der Verbrauchsstruktur der Erdölerzeugnisse ausrichten. Das Nähere
 bestimmt der Beirat durch Richtlinien, die der Genehmigung des
-Bundesministeriums für Wirtschaft und Technologie bedürfen.
+Bundesministeriums für Wirtschaft und Energie bedürfen.
 
 (3) Bei der Bevorratung sind Vorratsraum und Vorräte regional
 ausgewogen zu verteilen. Die Vorräte können verstärkt in einzelnen
@@ -338,7 +344,7 @@ Regionen gelagert werden, soweit dies aus technischen und
 wirtschaftlichen Gründen erforderlich und die Versorgung der anderen
 Regionen gesichert ist. Das Nähere bestimmt der Beirat durch
 Richtlinien, die der Genehmigung des Bundesministeriums für Wirtschaft
-und Technologie bedürfen.
+und Energie bedürfen.
 
 (4) Die Vorräte sind so zu lagern, dass sie innerhalb von folgenden
 Fristen fortlaufend dem Verbrauch zugeführt werden können:
@@ -387,9 +393,9 @@ oder Dritte sich verpflichten, Bestände vorrätig zu halten
 
 (2) Der Abschluss von Verträgen über Delegationen ist nur zulässig,
 wenn dem Gebot nach § 6 Absatz 3, der Anpassung der Vorratshöhe nach §
-3 Absatz 2 oder der verbrauchsgerechten Vorratshaltung nach § 6 Absatz
-2 nicht auf andere Weise wirtschaftlich entsprochen werden kann und
-die so gehaltenen Vorräte jederzeit in vollem Umfang dem
+11 Absatz 1 oder der verbrauchsgerechten Vorratshaltung nach § 6
+Absatz 2 nicht auf andere Weise wirtschaftlich entsprochen werden kann
+und die so gehaltenen Vorräte jederzeit in vollem Umfang dem
 Erdölbevorratungsverband zur Verfügung stehen. § 4 Absatz 6 gilt
 entsprechend.
 
@@ -400,7 +406,7 @@ einschließlich Austauschmaßnahmen zur Qualitätserhaltung oder zur
 Anpassung der Vorräte an geänderte Spezifikationen oder
 Verbrauchsstrukturen abgeschlossen, braucht insoweit die Höchstgrenze
 nach Satz 1 nicht eingehalten zu werden, sofern das Bundesministerium
-für Wirtschaft und Technologie im Einzelfall zugestimmt hat.
+für Wirtschaft und Energie im Einzelfall zugestimmt hat.
 
 (4) Für Delegationen außerhalb des Geltungsbereichs dieses Gesetzes
 ist § 8 Absatz 2 entsprechend anzuwenden.
@@ -422,9 +428,9 @@ können von den Unternehmen nicht weiterübertragen werden.
 Übertragung von Aufgaben, die die Verwaltung von Vorräten betreffen,
 die in einem anderen Mitgliedstaat der Europäischen Union gehalten
 werden, bedarf der vorherigen Genehmigung sowohl des
-Bundesministeriums für Wirtschaft und Technologie als auch derjenigen
+Bundesministeriums für Wirtschaft und Energie als auch derjenigen
 Mitgliedstaaten, in deren Hoheitsgebiet die Vorräte gehalten werden.
-Der Antrag an das Bundesministerium für Wirtschaft und Technologie hat
+Der Antrag an das Bundesministerium für Wirtschaft und Energie hat
 folgende Angaben zu enthalten:
 
 1.  Eigentümer und Lagerort der Vorräte, jeweils einschließlich der
@@ -453,10 +459,9 @@ folgende Angaben zu enthalten:
 (1) Der Erdölbevorratungsverband veröffentlicht fortlaufend
 vollständige Informationen, aufgeschlüsselt nach Erdöl und den
 Erdölerzeugnissen des § 4 Absatz 1 Nummer 2, über diejenigen
-Vorratsmengen, die er für interessierte zentrale Bevorratungsstellen
-anderer Mitgliedstaaten der Europäischen Union zu halten in der Lage
-ist. Er bietet keine Vorratshaltung für vorratspflichtige Unternehmen
-an.
+Vorratsmengen, die er für interessierte Staaten oder für deren
+zentrale Bevorratungsstellen zu halten in der Lage ist. Er bietet
+keine Vorratshaltung für vorratspflichtige Unternehmen an.
 
 (2) Der Erdölbevorratungsverband veröffentlicht mindestens sieben
 Monate im Voraus die Bedingungen, unter denen er bereit ist,
@@ -469,16 +474,15 @@ transparenten und nicht diskriminierenden Bedingungen an.
 
 ### § 10 Vorratshaltung durch Unternehmen für sonstige Vorratspflichtige
 
-(1) Unternehmen mit Sitz im Geltungsbereich dieses Gesetzes können
-Vorräte einschließlich spezifischer Vorräte im Auftrag anderer
-Mitgliedstaaten sowie von Unternehmen und zentralen
-Bevorratungsstellen anderer Mitgliedstaaten der Europäischen Union
-halten.
+(1) Unternehmen, die im Geltungsbereich dieses Gesetzes Vorräte
+halten, können Vorräte einschließlich spezifischer Vorräte im Auftrag
+anderer Staaten sowie im Auftrag von Unternehmen und zentralen
+Bevorratungsstellen anderer Staaten halten.
 
 (2) Voraussetzung ist die vorherige Zustimmung des Bundesamtes für
-Wirtschaft und Ausfuhrkontrolle und des Mitgliedstaates, in dessen
-Namen die betreffenden Vorräte gehalten werden. § 8 Absatz 2 Satz 2
-gilt entsprechend mit der Maßgabe, dass mitzuteilen ist, ob es sich um
+Wirtschaft und Ausfuhrkontrolle und des Staates, in dessen Namen die
+betreffenden Vorräte gehalten werden. § 8 Absatz 2 Satz 2 gilt
+entsprechend mit der Maßgabe, dass mitzuteilen ist, ob es sich um
 spezifische Vorräte im Sinne des Artikels 9 der Richtlinie 2009/119/EG
 des Rates vom 14. September 2009 zur Verpflichtung der
 Mitgliedstaaten, Mindestvorräte an Erdöl und/oder Erdölerzeugnissen zu
@@ -488,28 +492,23 @@ eine Änderung oder Ausweitung einer solchen Vorratshaltung.
 (3) Die den Unternehmen übertragenen Verpflichtungen können nicht
 weiterübertragen werden.
 
-(4) Für Vorräte in Freizonen und Zolllagern gilt Absatz 1 erst nach
-Einfuhrabfertigung.
+(4) Für eine Vorratshaltung gemäß Absatz 1 kommen solche Vorräte nicht
+in Betracht, die im Sinne des § 3 Absatz 4 noch nicht als eingeführt
+gelten.
 
 
 ### § 11 Anpassung an die Bevorratungspflicht
 
-(1) Ist für den folgenden Bevorratungszeitraum eine Erhöhung der
+(1) Der Erdölbevorratungsverband hat im Fall von § 3 Absatz 2 seine
+Vorräte innerhalb von sechs Monaten nach Beginn des
+Bevorratungszeitraumes an die Höhe nach § 3 Absatz 2 anzupassen. Dabei
+ist die voraussichtliche Entwicklung der Bevorratungspflicht nach den
+Daten im laufenden Kalenderjahr zu berücksichtigen.
+
+(2) Ist für den folgenden Bevorratungszeitraum eine Erhöhung der
 bestehenden Bevorratungspflicht zu erwarten, soll der
 Erdölbevorratungsverband, soweit wirtschaftlich angezeigt, bereits
 vorher seine Vorräte erhöhen.
-
-(2) Übersteigen die Vorräte die Bevorratungspflicht nach § 3 um mehr
-als 5 Prozent, kann der Erdölbevorratungsverband die über 5 Prozent
-hinausgehende Menge veräußern. Übersteigen die Vorräte die
-Bevorratungspflicht um 5 Prozent oder weniger, ist eine Veräußerung
-von Vorratsmengen nur im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie möglich. Vor der Veräußerung ist die
-voraussichtliche Entwicklung der Bevorratungspflicht nach den Daten im
-laufenden Kalenderjahr zu berücksichtigen.
-
-(3) Unbeschadet des § 26 Absatz 1 sind bei Erwerb und Veräußerung von
-Vorräten die Grundsätze eines wettbewerblichen Verfahrens zu beachten.
 
 
 ## Zweiter Abschnitt - Freigabe von Vorräten
@@ -517,8 +516,8 @@ Vorräten die Grundsätze eines wettbewerblichen Verfahrens zu beachten.
 
 ### § 12 Freigabe von Vorräten, Verordnungsermächtigungen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, zur
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+zur
 
 1.  Verhütung unmittelbar drohender oder zur Behebung eingetretener
     Störungen in der Energieversorgung,
@@ -571,15 +570,15 @@ mehr als sechs Monaten erstreckt.
 (2) Die Rechtsverordnung nach Absatz 1 Satz 1 ist aufzuheben, sobald
 die ihren Erlass rechtfertigenden Gründe wegfallen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird ferner
+(3) Das Bundesministerium für Wirtschaft und Energie wird ferner
 ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
 bedarf, zu bestimmen, bis zu welchem Zeitpunkt der Pflicht zur
 Bevorratung nach § 3 wieder zu entsprechen ist. Absatz 1 Satz 5 gilt
 entsprechend.
 
 (4) Über eine Freigabe unterrichtet das Bundesministerium für
-Wirtschaft und Technologie unverzüglich die Kommission der
-Europäischen Union und die Internationale Energieagentur.
+Wirtschaft und Energie unverzüglich die Kommission der Europäischen
+Union und die Internationale Energieagentur.
 
 (5) Werden Vorräte freigegeben, sollen diese vorrangig den Mitgliedern
 des Erdölbevorratungsverbandes unter angemessener Berücksichtigung
@@ -589,8 +588,8 @@ Erdölbevorratungsverbandes kann die ihm angebotenen Vorratsmengen ganz
 oder teilweise an ein anderes Mitglied des Erdölbevorratungsverbandes
 abtreten. Die freigegebenen Vorräte sind zu Marktpreisen zu verkaufen.
 Der Erdölbevorratungsverband kann in Abstimmung mit dem
-Bundesministerium für Wirtschaft und Technologie die auf diesem Wege
-nicht abgenommenen freigegebenen Vorräte oder entsprechende Mengen den
+Bundesministerium für Wirtschaft und Energie die auf diesem Wege nicht
+abgenommenen freigegebenen Vorräte oder entsprechende Mengen den
 Mitgliedern des Erdölbevorratungsverbandes im Rahmen eines
 nachfolgenden Angebotsverfahrens zu Marktpreisen oder über ein
 Ausschreibungsverfahren anbieten. Das Nähere bestimmt der Beirat durch
@@ -598,13 +597,13 @@ Richtlinien.
 
 (6) Vorräte, die im Geltungsbereich dieses Gesetzes für einen anderen
 Mitgliedstaat der Europäischen Union gehalten werden, unterliegen,
-sofern diese für eine Maßnahme nach Artikel 20 der Richtlinie
-2009/119/EG verwendet werden sollen, weder der Zwangsvollstreckung
-noch der Pfändung, noch kann an diesen ein Zurückbehaltungsrecht
-begründet werden.
+sofern diese für eine durchzuführende Maßnahme nach Artikel 20 der
+Richtlinie 2009/119/EG verwendet werden sollen, weder der
+Zwangsvollstreckung noch der Pfändung, noch kann an diesen ein
+Zurückbehaltungsrecht begründet werden.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie hält
-jederzeit für den Fall einer bedeutenden Versorgungsunterbrechung
+(7) Das Bundesministerium für Wirtschaft und Energie hält jederzeit
+für den Fall einer bedeutenden Versorgungsunterbrechung
 Interventionspläne und organisatorische Maßnahmen zur Durchführung
 dieser Pläne verfügbar und unterrichtet über beide die Kommission der
 Europäischen Union auf deren Anfrage.
@@ -615,20 +614,29 @@ Europäischen Union auf deren Anfrage.
 
 ### § 13 Mitgliedschaft
 
-(1) Mitglied des Erdölbevorratungsverbandes ist, wer gewerbsmäßig oder
-im Rahmen wirtschaftlicher Unternehmungen Ottokraftstoff,
-Dieselkraftstoff, Heizöl Extra Leicht oder Flugturbinenkraftstoff auf
-Petroleumbasis einführt oder für eigene Rechnung im Geltungsbereich
-dieses Gesetzes herstellt oder herstellen lässt, sofern die
-eingeführte oder hergestellte Gesamtmenge je Kalenderjahr mindestens
-25 Tonnen beträgt.
+(1) Mitglied des Erdölbevorratungsverbandes ist, wer in der
+Europäischen Union, der Schweizerischen Eidgenossenschaft oder im
+Königreich Norwegen ansässig ist und gewerbsmäßig oder im Rahmen
+wirtschaftlicher Unternehmungen Ottokraftstoff, Dieselkraftstoff,
+Heizöl Extra Leicht oder Flugturbinenkraftstoff auf Petroleumbasis in
+den Geltungsbereich dieses Gesetzes einführt oder für eigene Rechnung
+im Geltungsbereich dieses Gesetzes herstellt oder herstellen lässt,
+sofern die eingeführte oder hergestellte Gesamtmenge je Kalenderjahr
+mindestens 25 Tonnen beträgt.
 
 (2) Der Einfuhr steht das sonstige Verbringen in den Geltungsbereich
-dieses Gesetzes gleich. Die Mitgliedschaft nach Absatz 1 wird
-unabhängig vom Verwendungszweck der Erdölerzeugnisse begründet. Als
-Erdölerzeugnis im Sinne des Absatzes 1 gilt auch jedes dort nicht
-genannte mineralölhaltige Erzeugnis von dem Zeitpunkt an, zu dem es
-zur energetischen Verwendung als eines der dort genannten Erzeugnisse
+dieses Gesetzes gleich. Befinden sich die in Absatz 1 genannten Mengen
+an Erdöl und Erdölerzeugnissen bei oder nach dem Verbringen in den
+Geltungsbereich dieses Gesetzes in der vorübergehenden Verwahrung, im
+Versandverfahren, einem Zolllager, in einer Freizone oder in der
+aktiven Veredelung, gelten sie erst mit dem Entstehen einer
+Einfuhrabgabenschuld als eingeführt, es sei denn, die Erdölerzeugnisse
+werden in der Freizone verbraucht, verwendet oder anderweitig
+verarbeitet. Die Mitgliedschaft nach Absatz 1 wird unabhängig vom
+Verwendungszweck der Erdölerzeugnisse begründet. Als Erdölerzeugnis im
+Sinne des Absatzes 1 gilt auch jedes dort nicht genannte
+mineralölhaltige Erzeugnis von dem Zeitpunkt an, zu dem es zur
+energetischen Verwendung als eines der dort genannten Erzeugnisse
 bestimmt wird; die Vornahme dieser Bestimmung steht der Herstellung
 gleich.
 
@@ -637,25 +645,28 @@ genannten Erdölerzeugnisse begründet, sofern diese in den
 Treibstofftanks von Kraftfahrzeugen, Schienenfahrzeugen, Schiffen oder
 Flugzeugen eingeführt werden.
 
-(4) Liegt der Einfuhr ein Vertrag mit einem Gebietsfremden über den
-Erwerb der Erdölerzeugnisse zum Zweck der Einfuhr (Einfuhrvertrag)
-zugrunde, so ist nur der gebietsansässige Vertragspartner Einführer im
-Sinne dieses Gesetzes und damit Mitglied des
-Erdölbevorratungsverbandes. Wer lediglich als Spediteur oder
-Frachtführer oder in einer ähnlichen Stellung bei dem Verbringen der
-Erdölerzeugnisse tätig wird, ist nicht Einführer.
+(4) Liegt der Einfuhr ein Vertrag mit einem außerhalb des in Absatz 1
+genannten Gebietes Ansässigen über den Erwerb der Erdölerzeugnisse zum
+Zweck der Einfuhr (Einfuhrvertrag) zugrunde, so ist nur der in dem in
+Absatz 1 genannten Gebiet ansässige Vertragspartner Einführer im Sinne
+dieses Gesetzes und damit Mitglied des Erdölbevorratungsverbandes. Wer
+lediglich als Spediteur oder Frachtführer oder in einer ähnlichen
+Stellung bei dem Verbringen der Erdölerzeugnisse tätig wird, ist nicht
+Einführer.
 
 (5) Werden die in Absatz 1 genannten Erdölerzeugnisse von einem
-Gebietsfremden eingeführt, so ist Mitglied des
-Erdölbevorratungsverbandes derjenige mit Sitz im Geltungsbereich
-dieses Gesetzes, der das Eigentum an den Erdölerzeugnissen von dem
-Gebietsfremden erwirbt. Ist der vorgenannte Erwerber seinerseits nicht
-gebietsansässig, so wird insoweit Mitglied des
-Erdölbevorratungsverbandes der letzte gebietsansässige Lagerhalter,
-der die Erdölerzeugnisse in sein Lager aufgenommen hat. Lässt ein
-Gebietsfremder die Erdölerzeugnisse für eigene Rechnung herstellen, so
-ist Mitglied des Erdölbevorratungsverbandes derjenige, der sie für ihn
-im Geltungsbereich dieses Gesetzes herstellt.
+außerhalb des in Absatz 1 genannten Gebietes Ansässigen eingeführt, so
+ist Mitglied des Erdölbevorratungsverbandes derjenige mit Sitz in dem
+in Absatz 1 genannten Gebiet, der das Eigentum an den
+Erdölerzeugnissen von dem außerhalb des in Absatz 1 genannten Gebietes
+Ansässigen erwirbt. Ist der vorgenannte Erwerber seinerseits nicht in
+dem in Absatz 1 genannten Gebiet ansässig, so wird insoweit Mitglied
+des Erdölbevorratungsverbandes der letzte in dem in Absatz 1 genannten
+Gebiet ansässige Lagerhalter, der die Erdölerzeugnisse in sein Lager
+im Inland aufgenommen hat. Lässt ein nicht in dem in Absatz 1
+genannten Gebiet Ansässiger die Erdölerzeugnisse für eigene Rechnung
+herstellen, so ist Mitglied des Erdölbevorratungsverbandes derjenige,
+der sie für ihn im Geltungsbereich dieses Gesetzes herstellt.
 
 (6) Als Herstellen gilt auch das Bearbeiten oder Mischen von
 Erdölerzeugnissen oder sonstigen Komponenten, wenn bei dem
@@ -693,13 +704,13 @@ Organe des Erdölbevorratungsverbandes sind
 (1) Der Erdölbevorratungsverband gibt sich eine Satzung. Die Satzung
 und ihre Änderungen werden durch die Mitgliederversammlung beschlossen
 und bedürfen der Genehmigung des Bundesministeriums für Wirtschaft und
-Technologie.
+Energie.
 
 (2) Die Satzung kann vorsehen, dass die Mitgliedsbeiträge in den
 Rechnungen der Mitglieder getrennt auszuweisen sind.
 
-(3) Die Satzung und ihre Änderungen sind im elektronischen
-Bundesanzeiger bekannt zu machen.
+(3) Die Satzung und ihre Änderungen sind im Bundesanzeiger bekannt zu
+machen.
 
 
 ### § 16 Mitgliederversammlung
@@ -707,8 +718,8 @@ Bundesanzeiger bekannt zu machen.
 (1) Die Mitgliederversammlung besteht aus den Mitgliedern des
 Erdölbevorratungsverbandes. Die Mitglieder sind spätestens vier Wochen
 vor der Sitzung unter Angabe der Tagesordnung zu laden. Sie gelten als
-geladen, wenn die Ladung zu diesem Zeitpunkt im elektronischen
-Bundesanzeiger bekannt gemacht worden ist.
+geladen, wenn die Ladung zu diesem Zeitpunkt im Bundesanzeiger bekannt
+gemacht worden ist.
 
 (2) Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der
 Erschienenen beschlussfähig, wenn die Erschienenen mehr als ein
@@ -719,14 +730,14 @@ Erdölbevorratungsverbandes auf sich vereinen.
 Vorstandes und des Beirats sowie über die sonstigen ihr durch dieses
 Gesetz oder die Satzung übertragenen Angelegenheiten. Die Entlastung
 bedarf der Genehmigung des Bundesministeriums für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium der Finanzen.
+Energie im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 (4) Der Vorstand hat einmal im Geschäftsjahr eine ordentliche
 Mitgliederversammlung einzuberufen und die Mitgliederversammlung über
 die Angelegenheiten des Erdölbevorratungsverbandes zu unterrichten. Er
 hat eine außerordentliche Mitgliederversammlung einzuberufen, wenn
-diese schriftlich unter Angabe des Zwecks und der Gründe beantragt
-wird
+diese schriftlich oder elektronisch unter Angabe des Zwecks und der
+Gründe beantragt wird
 
 1.  von 10 Prozent der Mitglieder,
 
@@ -742,8 +753,8 @@ wird
 
 (5) Beschlüsse der Mitgliederversammlung bedürfen der Mehrheit von 75
 Prozent der Stimmen der anwesenden oder vertretenen Mitglieder. Der
-Vorstand teilt dem Bundesministerium für Wirtschaft und Technologie
-die Beschlüsse der Mitgliederversammlung mit.
+Vorstand teilt dem Bundesministerium für Wirtschaft und Energie die
+Beschlüsse der Mitgliederversammlung mit.
 
 
 ### § 17 Stimmrecht, Verordnungsermächtigung
@@ -761,10 +772,10 @@ Beitragsaufkommen angemessen berücksichtigt. Gleichzeitig sind
 berechtigte Minderheitsinteressen zu schützen und ist dem Erfordernis,
 arbeitsfähige Mehrheiten zu bilden, Rechnung zu tragen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Einzelheiten des Stimmrechts der Mitglieder nach Maßgabe der Absätze 1
-und 2 festzulegen.
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten des
+Stimmrechts der Mitglieder nach Maßgabe der Absätze 1 und 2
+festzulegen.
 
 
 ### § 18 Beirat
@@ -781,22 +792,22 @@ Mitgliedern berechtigt sind.
 
 (3) Drei Mitglieder des Beirats sollen aus dem Kreis solcher
 Unternehmen gewählt werden, die im Geltungsbereich dieses Gesetzes in
-Raffineriebetrieben bevorratungspflichtige Erdölerzeugnisse herstellen
+Raffineriebetrieben beitragspflichtige Erdölerzeugnisse herstellen
 oder die unter dem beherrschenden Einfluss eines solchen Herstellers
 stehen oder auf ihn einen solchen Einfluss auszuüben vermögen. Drei
 weitere Mitglieder des Beirats sollen aus dem Kreis der übrigen
 Mitglieder des Erdölbevorratungsverbandes gewählt werden.
 
 (4) Als weitere Mitglieder gehören dem Beirat ein vom
-Bundesministerium für Wirtschaft und Technologie, ein vom
+Bundesministerium für Wirtschaft und Energie, ein vom
 Bundesministerium der Finanzen und ein vom Bundesrat entsandter
 Vertreter an. Der vom Bundesrat bestimmte Vertreter wird für jeweils
 drei Jahre entsandt. Die Bundesministerien und der Bundesrat können
 ihre Vertreter jederzeit abberufen.
 
 (5) Bis zu zwei weitere Mitglieder des Beirats können vom
-Bundesministerium für Wirtschaft und Technologie benannt werden.
-Absatz 4 Satz 3 gilt entsprechend.
+Bundesministerium für Wirtschaft und Energie benannt werden. Absatz 4
+Satz 3 gilt entsprechend.
 
 (6) Für jedes Mitglied mit Ausnahme der nach Absatz 5 benannten
 Mitglieder wird ein stellvertretendes Mitglied gewählt oder entsandt.
@@ -867,9 +878,9 @@ bedürfen
 
 
 
-(4) Beschlüsse des Beirats nach § 6 Absatz 5, § 30 Absatz 2 Satz 2,
-Absatz 3 Nummer 2 und Absatz 5 bedürfen der Zustimmung der Vertreter
-des Bundes im Beirat.
+(4) Beschlüsse des Beirats nach § 6 Absatz 5, § 30 Absatz 2 Satz 2 und
+Absatz 3 Nummer 2 bedürfen der Zustimmung der Vertreter des Bundes im
+Beirat.
 
 (5) Der Vorsitzende des Beirats vertritt den Erdölbevorratungsverband
 gegenüber den Mitgliedern des Vorstandes gerichtlich und
@@ -954,8 +965,7 @@ erforderlichen Mittel werden durch Beiträge seiner Mitglieder
 aufgebracht. Näheres regelt die Beitragssatzung. Die Beitragssatzung
 und ihre Änderungen werden von der Mitgliederversammlung beschlossen
 und bedürfen der Genehmigung des Bundesministeriums für Wirtschaft und
-Technologie; sie sind im elektronischen Bundesanzeiger zu
-veröffentlichen.
+Energie; sie sind im Bundesanzeiger zu veröffentlichen.
 
 (2) Die Höhe des jeweiligen Beitrags richtet sich nach den von dem
 Mitglied eingeführten und hergestellten Mengen an Erdölerzeugnissen
@@ -963,8 +973,9 @@ des § 13 Absatz 1 abzüglich
 
 1.  der ausgeführten Mengen mit Ausnahme
 
-    a)  der Mengen in Freizonen und Zolllagern, die gemäß Satz 2 nicht als
-        eingeführt gelten,
+    a)  der Mengen in der vorübergehenden Verwahrung, im Versandverfahren, in
+        Freizonen, in Zolllagern oder in der aktiven Veredelung, die gemäß
+        Satz 3 nicht als eingeführt gelten,
 
 
     b)  des Inhalts der Treibstofftanks von Kraftfahrzeugen,
@@ -984,33 +995,61 @@ des § 13 Absatz 1 abzüglich
 3.  der Mengen,
 
     a)  die einer Weiterverarbeitung in einem Mineralölherstellungsbetrieb
-        zugeführt werden oder
+        zugeführt werden,
 
 
     b)  die der chemischen Weiterverarbeitung zur nichtenergetischen Nutzung
         zugeführt werden, wenn dieser Gesamtvorgang einem kontinuierlichen
-        Produktionsablauf vergleichbar ist.
+        Produktionsablauf vergleichbar ist, oder
+
+
+    c)  die einem auch nach Vermischung nicht beitragspflichtigen
+        Erdölerzeugnis zugemischt werden, wenn das Mischprodukt für eine
+        Bebunkerung im Sinne der Nummer 2 verwendet wird, dieser Abzug geltend
+        gemacht wird und derjenige, der den Abzug geltend macht, dieses bis
+        zum Ablauf des übernächsten Kalendermonats nach der Mischung
+        nachweisen kann, wobei für diese geltend gemachten zugemischten Mengen
+        die Abzugsmöglichkeit nach Nummer 2 entfällt und die Prüfungsrechte
+        des Erdölbevorratungsverbandes nach Absatz 3 Satz 3 und § 38 Absatz 2
+        und 4 unberührt bleiben.
 
 
 
 
 
 
-Sind die in Satz 1 genannten Erdölerzeugnisse zur Lagerung in
-Freizonen oder Zolllager verbracht worden, so gelten sie erst mit der
-Einfuhrabfertigung als eingeführt. Der Ausfuhr steht das sonstige
+Mitglieder können die Mengen des Satzes 1 Nummer 1 bis 3 nur geltend
+machen, wenn sie diese Abzugstatbestände selbst verwirklicht haben.
+Befinden sich die in Satz 1 genannten Erdölerzeugnisse bei oder nach
+dem Verbringen in den Geltungsbereich dieses Gesetzes in der
+vorübergehenden Verwahrung, im Versandverfahren, in einer Freizone,
+einem Zolllager oder in der aktiven Veredelung, so gelten sie erst mit
+dem Entstehen einer Einfuhrabgabenschuld als eingeführt, es sei denn,
+die Erdölerzeugnisse werden in der Freizone verbraucht, verwendet oder
+anderweitig verarbeitet. Für die Bestimmung des Ausführers ist § 2
+Absatz 2 des Außenwirtschaftsgesetzes in der Fassung der
+Bekanntmachung vom 6. Juni 2013 (BGBl. I S. 1482), das zuletzt durch
+Artikel 6 des Gesetzes vom 3. Dezember 2015 (BGBl. I S. 2178) geändert
+worden ist, anzuwenden. § 2 Absatz 2 Satz 2 des
+Außenwirtschaftsgesetzes ist in Bezug auf die Verwirklichung des
+Ausfuhrtatbestandes durch ein Mitglied mit der Maßgabe anzuwenden,
+dass als Ausführer die in dem in § 13 Absatz 1 genannten Gebiet
+ansässige Vertragspartei gilt, wenn die Verfügungsrechte über die
+Güter einer außerhalb des in § 13 Absatz 1 genannten Gebietes
+ansässigen Vertragspartei zustehen. Der Ausfuhr steht das sonstige
 Verbringen aus dem Geltungsbereich dieses Gesetzes gleich.
 
 (3) Übersteigen im Einzelfall die Abzugsmengen die Herstellungs- und
 Einfuhrmengen, besteht insoweit gegenüber dem Erdölbevorratungsverband
 ein Anspruch auf Beitragserstattung. Ein Anspruch auf
 Beitragserstattung kann auch von denjenigen geltend gemacht werden,
-die, ohne Mitglied zu sein, einen Tatbestand des Absatzes 2 Nummer 1
-bis 3 verwirklicht haben (Nichtmitglieder). Voraussetzung ist, dass
-ihnen der Anspruch abgetreten worden ist und sie sich gegenüber dem
-Erdölbevorratungsverband schriftlich den für Mitglieder geltenden
-Auskunfts- und Nachweispflichten des § 38 Absatz 2 und 3 unterworfen
-haben.
+die, ohne Mitglied zu sein, einen Tatbestand des Absatzes 2
+verwirklicht haben (Nichtmitglieder). Wird ein Antrag auf
+Beitragserstattung gestellt, sind die für Mitglieder geltenden
+Auskunfts- und Nachweispflichten des § 38 Absatz 2 und 4 für
+Nichtmitglieder entsprechend anzuwenden. Die Antragstellung der
+Nichtmitglieder hat entsprechend der in der Beitragssatzung
+vorgegebenen Form zu erfolgen.
 
 (4) Wird bei einem Bearbeitungs- oder Mischvorgang im Sinne des § 13
 Absatz 6 lediglich die Gesamtmenge vergrößert, so gilt nur die
@@ -1019,7 +1058,7 @@ Zusatzmenge als durch den Bearbeitungs- oder Mischvorgang hergestellt.
 nicht mineralölstämmigen Komponenten den Anteil der mineralölstämmigen
 Komponenten, so unterliegt nur der mineralölstämmige Anteil der
 Beitragspflicht. Die Sätze 1 und 2 gelten entsprechend für Mengen im
-Sinne des § 13 Absatz 2 Satz 3 sowie für eingeführte oder in den
+Sinne des § 13 Absatz 2 Satz 4 sowie für eingeführte oder in den
 Geltungsbereich dieses Gesetzes verbrachte Erzeugnisse.
 
 (5) Die Höhe des Beitragssatzes in Euro je Tonne wird nach § 27 Absatz
@@ -1029,8 +1068,7 @@ festgelegt. Die Höhe des Beitragssatzes errechnet sich durch
 Aufteilung der im Geschäftsjahr zu erwartenden beitragswirksamen
 Ausgaben auf die im Geschäftsjahr zu erwartenden Mengen nach Absatz 2.
 
-(6) Der Beitragssatz wird im elektronischen Bundesanzeiger bekannt
-gemacht.
+(6) Der Beitragssatz wird im Bundesanzeiger bekannt gemacht.
 
 
 ### § 24 Fälligkeit, Verzinsung und Beitreibung der Beiträge
@@ -1039,8 +1077,10 @@ gemacht.
 ermitteln. Der Beitrag ist für jeden Monat unaufgefordert bis zum Ende
 des übernächsten Monats an den Erdölbevorratungsverband zu entrichten.
 Dieser ist berechtigt, in Ausnahmefällen eine angemessene
-Sicherheitsleistung für die Beitragszahlung zu verlangen. Näheres
-regelt die Beitragssatzung.
+Sicherheitsleistung für die Beitragszahlung zu verlangen und die
+Sicherheitsleistung durch Aufrechnung zu erlangen, sofern der
+Beitragspflichtige eine fällige, einredefreie Forderung gegen den
+Erdölbevorratungsverband besitzt. Näheres regelt die Beitragssatzung.
 
 (2) Wird der Beitrag vom Beitragspflichtigen nicht seiner
 Verpflichtung entsprechend gezahlt, so ergeht ein Beitragsbescheid des
@@ -1051,14 +1091,15 @@ Erdölbevorratungsverbandes.
 (4) Kommt der Schuldner mit der Zahlung des Beitrages in Verzug, so
 ist der rückständige Beitrag einschließlich der Umsatzsteuer mit einem
 Zinssatz von 3 Prozentpunkten über dem Zinssatz der
-Spitzenrefinanzierungsfazilität der Europäischen Zentralbank (SFR-
-Zinssatz) jährlich zu verzinsen. Der am Ersten eines Monats geltende
-Zinssatz ist für jeden Zinstag dieses Monats zugrunde zu legen.
+Spitzenrefinanzierungsfazilität der Europäischen Zentralbank jährlich
+zu verzinsen. Der am Ersten eines Monats geltende Zinssatz ist für
+jeden Zinstag dieses Monats zugrunde zu legen.
 
 (5) Beiträge und Zinsen werden nach den Bestimmungen des Verwaltungs-
-Vollstreckungsgesetzes beigetrieben. Auf die Verjährung der
-Beitragsforderungen und Erstattungsansprüche ist § 194 ff. des
-Bürgerlichen Gesetzbuchs anzuwenden.
+Vollstreckungsgesetzes beigetrieben. Auf die Verjährung von
+Beitragsforderungen, Erstattungsansprüchen und Nach- und
+Rückforderungsansprüchen ist § 194 ff. des Bürgerlichen Gesetzbuchs
+anzuwenden.
 
 
 ### § 25 Grundsätze der Wirtschaftsführung
@@ -1072,13 +1113,13 @@ Vorschriften der Bundeshaushaltsordnung sind nicht anzuwenden.
 gemäß handelsrechtlichen Grundsätzen zu führen. Das Nähere regelt das
 Finanzstatut des Erdölbevorratungsverbandes. Das Finanzstatut wird von
 der Mitgliederversammlung im Einvernehmen mit dem Bundesministerium
-für Wirtschaft und Technologie, dem Bundesministerium der Finanzen und
-im Benehmen mit dem Bundesrechnungshof beschlossen. Das Finanzstatut
+für Wirtschaft und Energie, dem Bundesministerium der Finanzen und im
+Benehmen mit dem Bundesrechnungshof beschlossen. Das Finanzstatut
 trifft nähere Regelungen zur Aufstellung und Ausführung des
 Wirtschaftsplans, zur Buchführung und zur Rechnungslegung des
 Erdölbevorratungsverbandes sowie zur Lage des Geschäftsjahres. Das
-Finanzstatut sowie dessen Änderungen sind im elektronischen
-Bundesanzeiger zu veröffentlichen.
+Finanzstatut sowie dessen Änderungen sind im Bundesanzeiger zu
+veröffentlichen.
 
 (3) Der Erdölbevorratungsverband stellt für jedes Geschäftsjahr einen
 Wirtschaftsplan auf.
@@ -1094,14 +1135,12 @@ Gesetz übertragenen Aufgaben erforderlich ist.
 
 ### § 26 Abschluss von Verträgen, Veränderung von Ansprüchen
 
-(1) Dem Abschluss von Verträgen über die Beschaffung von Lieferungen
-und Leistungen muss eine öffentliche Ausschreibung vorausgehen, sofern
-nicht die Natur des Geschäfts oder besondere Umstände eine Ausnahme
-rechtfertigen. Oberhalb der Schwellenwerte gelten die Verpflichtungen
-des Erdölbevorratungsverbandes aus dem Vierten Teil des Gesetzes gegen
-Wettbewerbsbeschränkungen. Beim Abschluss von Verträgen ist nach
-einheitlichen Richtlinien des Beirats zu verfahren. Diese bedürfen der
-Einwilligung des Bundesministeriums für Wirtschaft und Technologie.
+(1) Die Beschaffung von Leistungen und Veräußerungen erfolgen in einem
+wettbewerblichen, transparenten und nichtdiskriminierenden Verfahren.
+Die Grundsätze der Wirtschaftlichkeit und Sparsamkeit sind
+einzuhalten. Dabei ist nach einheitlichen Richtlinien des Beirats zu
+verfahren. Die Richtlinien bedürfen der Einwilligung des
+Bundesministeriums für Wirtschaft und Energie.
 
 (2) Vor Empfang der Gegenleistung dürfen Leistungen des
 Erdölbevorratungsverbandes nur vereinbart oder bewirkt werden, wenn
@@ -1187,16 +1226,16 @@ und des zugehörigen Beitragssatzes für das nächste Geschäftsjahr vor.
 Der Wirtschaftsplan und der entsprechend § 23 Absatz 5 berechnete
 Beitragssatz werden vom Beirat spätestens sechs Wochen vor Ablauf des
 Geschäftsjahres festgestellt und dem Bundesministerium für Wirtschaft
-und Technologie spätestens einen Monat vor Ablauf des Geschäftsjahres
-zur Genehmigung vorgelegt. Vor der Genehmigung des Beitragssatzes
-stellt das Bundesministerium für Wirtschaft und Technologie das
-Einvernehmen mit dem Bundesministerium der Finanzen her. Hat der
+und Energie spätestens einen Monat vor Ablauf des Geschäftsjahres zur
+Genehmigung vorgelegt. Vor der Genehmigung des Beitragssatzes stellt
+das Bundesministerium für Wirtschaft und Energie das Einvernehmen mit
+dem Bundesministerium der Finanzen her. Hat der
 Erdölbevorratungsverband den Wirtschaftsplan und den Beitragssatz für
 das nächste Geschäftsjahr nicht rechtzeitig in genehmigungsfähiger
 Form verabschiedet und dem Bundesministerium für Wirtschaft und
-Technologie vorgelegt, können der Wirtschaftsplan und der Beitragssatz
-für das nächste Geschäftsjahr vom Bundesministerium für Wirtschaft und
-Technologie auf- und festgestellt werden. Satz 3 gilt in diesem Fall
+Energie vorgelegt, können der Wirtschaftsplan und der Beitragssatz für
+das nächste Geschäftsjahr vom Bundesministerium für Wirtschaft und
+Energie auf- und festgestellt werden. Satz 3 gilt in diesem Fall
 entsprechend.
 
 (6) Das Nähere regelt das Finanzstatut des Erdölbevorratungsverbandes.
@@ -1255,10 +1294,10 @@ und-Verlust-Rechnung eine Einheit bilden.
 Prüfung durch den Bundesrechnungshof von Wirtschaftsprüfern oder
 Wirtschaftsprüfungsgesellschaften geprüft. Der Jahresabschlussprüfer
 wird vom Beirat im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie, dem Bundesministerium der Finanzen und dem
+Wirtschaft und Energie, dem Bundesministerium der Finanzen und dem
 Bundesrechnungshof bestellt. Der Prüfungsbericht ist dem
-Bundesministerium für Wirtschaft und Technologie vorzulegen; das
-Bundesministerium für Wirtschaft und Technologie hat dem
+Bundesministerium für Wirtschaft und Energie vorzulegen; das
+Bundesministerium für Wirtschaft und Energie hat dem
 Bundesrechnungshof den Jahresabschluss und den Prüfungsbericht
 vorzulegen.
 
@@ -1269,47 +1308,47 @@ Vorschlag zur Feststellung des Jahresabschlusses vor.
 
 ### § 30 Verwendung von Veräußerungserlösen
 
-(1) Die Nettoerlöse aus Veräußerungen von Vorräten nach § 11 Absatz 2
-sind zur Tilgung der Verbindlichkeiten zu verwenden, die für den
-Erwerb der Vorräte eingegangen worden sind.
+(1) Die Nettoerlöse aus Veräußerungen von Vorräten, ausgenommen die
+Veräußerungen im Rahmen einer Freigabe von Vorräten nach § 12 Absatz
+1, sind zur Tilgung der Kredite zu verwenden, die für den Erwerb von
+Vorräten eingegangen worden sind.
 
 (2) Erreichen die Nettoerlöse in einem Geschäftsjahr nicht die
 durchschnittlichen Einstandswerte der Vorräte, die dem veräußerten
 Erdöl oder Erdölerzeugnis entsprechen, so sind in Höhe des
-Unterschiedsbetrages weitere Verbindlichkeiten aus Beiträgen zu
-tilgen. Davon kann auf Beschluss des Beirats abgesehen werden, soweit
-in früheren Geschäftsjahren Verbindlichkeiten aus Nettoerlösen, die
-über den entsprechenden durchschnittlichen Einstandswerten lagen
-(Überschüsse), getilgt wurden. Sind aus Beiträgen innerhalb eines
-Geschäftsjahres Verbindlichkeiten in Höhe von 5 Prozent des gesamten
-Einstandswertes aller zu Beginn dieses Geschäftsjahres vorhandenen
-Vorräte getilgt, so sind die Veräußerungen einzustellen.
+Unterschiedsbetrages weitere Kredite aus Beiträgen zu tilgen. Davon
+kann auf Beschluss des Beirats durch eine Inanspruchnahme von
+Rücklagen abgesehen werden, soweit in früheren Geschäftsjahren Kredite
+aus Nettoerlösen, die über den entsprechenden durchschnittlichen
+Einstandswerten lagen (Überschüsse), getilgt wurden. Sind aus
+Beiträgen innerhalb eines Geschäftsjahres Kredite in Höhe von 5
+Prozent des gesamten Einstandswertes aller zu Beginn dieses
+Geschäftsjahres kreditfinanzierten Vorräte getilgt, kann auf Beschluss
+des Beirats ein aus weiteren Veräußerungen verbleibender
+Unterschiedsbetrag nach der Inanspruchnahme von Rücklagen auf neue
+Rechnung vorgetragen werden.
 
-(3) Abweichend von Absatz 1 kann der Beirat beschließen, dass in den
-Nettoerlösen enthaltene Überschüsse wie Beiträge verwendet werden,
-
-1.  soweit in früheren Geschäftsjahren Verbindlichkeiten aus Beiträgen
-    getilgt wurden oder
-
-
-2.  wenn 30 Prozent der Verbindlichkeiten, die zur Anschaffung der
-    vorhandenen Vorräte und Vorratslager eingegangen worden sind, aus
-    Beitragsaufrundungen und Überschüssen getilgt sind.
+(3) Abweichend von Absatz 1 kann der Beirat beschließen,
 
 
+1.  in den Nettoerlösen enthaltene Überschüsse wie Beiträge zu verwenden,
+    soweit in früheren Geschäftsjahren Kredite aus Beiträgen getilgt
+    wurden, oder
 
 
-(4) Absatz 2 Satz 2 und Absatz 3 Nummer 1 sind nur anzuwenden, soweit
-das zu Zeitwerten bewertete Vermögen des Erdölbevorratungsverbandes
-seine Schulden übersteigt.
+2.  Nettoerlöse wie Beiträge zu verwenden, solange auch nach den
+    Veräußerungen wenigstens 30 Prozent der Kredite, die zur Anschaffung
+    der vorhandenen Vorräte und Vorratslager eingegangen worden sind, aus
+    Beiträgen und Nettoerlösen getilgt sind.
 
-(5) Der Beirat entscheidet über die Verwendung der Überschüsse, die
-nach Tilgung der Verbindlichkeiten anfallen, die zur Anschaffung der
-Vorräte und Vorratslager eingegangen worden sind. Soweit ein
-entsprechender Beschluss nicht zustande kommt, sind die Überschüsse in
-eine gesonderte Rücklage einzustellen.
 
-(6) Auf die Veräußerung von Lagereinrichtungen sind die Absätze 1 und
+
+
+(4) Absatz 2 Satz 2 und Absatz 3 sind nur anzuwenden, soweit das zu
+Zeitwerten bewertete Vermögen des Erdölbevorratungsverbandes seine
+Schulden übersteigt.
+
+(5) Auf die Veräußerung von Lagereinrichtungen sind die Absätze 1 und
 2 entsprechend anzuwenden.
 
 
@@ -1319,8 +1358,8 @@ eine gesonderte Rücklage einzustellen.
 ### § 31 Aufsicht
 
 (1) Der Erdölbevorratungsverband untersteht der Aufsicht des
-Bundesministeriums für Wirtschaft und Technologie (Aufsichtsbehörde).
-Die Aufsicht beschränkt sich, soweit dieses Gesetz nichts anderes
+Bundesministeriums für Wirtschaft und Energie (Aufsichtsbehörde). Die
+Aufsicht beschränkt sich, soweit dieses Gesetz nichts anderes
 bestimmt, auf die Rechtmäßigkeit der Betätigung des
 Erdölbevorratungsverbandes. Hierbei hat die Aufsichtsbehörde
 insbesondere die in den Absätzen 2 bis 5 geregelten Befugnisse.
@@ -1377,17 +1416,19 @@ Insolvenzverfahren statt.
 ### § 33 Meldepflichten der Mitglieder des Erdölbevorratungsverbandes und von Lagerhaltern
 
 (1) Die Mitglieder des Erdölbevorratungsverbandes haben diesem für
-jeden Kalendermonat schriftlich bis zum Ende des folgenden Monats die
-Angaben zu machen, die zur Berechnung ihres Beitrages und zur
-Ermittlung der Höhe der Bevorratungspflicht erforderlich sind. Näheres
-regelt die Beitragssatzung.
+jeden Kalendermonat bis zum Ende des folgenden Monats die Angaben zu
+machen, die zur Berechnung ihres Beitrages und zur Ermittlung der Höhe
+der Bevorratungspflicht erforderlich sind. Näheres regelt die
+Beitragssatzung.
 
 (2) Für nach § 13 Absatz 5 Satz 1 eingeführte Erdölerzeugnisse sind
 die Lagerhalter, die diese in ihr Lager aufgenommen haben,
 verpflichtet, dem Erdölbevorratungsverband für jeden Kalendermonat bis
-zum Ende des folgenden Monats schriftlich Angaben über den
-Gebietsfremden, die Abnehmer sowie Art und Menge der Erdölerzeugnisse
-zu machen.
+zum Ende des folgenden Monats schriftlich oder elektronisch Angaben
+über die nicht in der Europäischen Union, der Schweizerischen
+Eidgenossenschaft oder im Königreich Norwegen ansässigen Person oder
+Personengesellschaft, die Abnehmer sowie Art und Menge der
+Erdölerzeugnisse zu machen.
 
 
 ### § 34 Verzeichnis der Vorräte, Meldepflichten
@@ -1415,7 +1456,7 @@ Bundesamt für Wirtschaft und Ausfuhrkontrolle innerhalb von 15 Tagen
 eine vollständige Kopie des Verzeichnisses nach Absatz 1. In dieser
 Kopie können sensible Daten zum Standort der Vorräte vorenthalten
 werden; diese Daten müssen jedoch im Fall einer Überprüfung nach § 38
-Absatz 4 innerhalb einer Woche nach Ankündigung der Überprüfung zur
+Absatz 5 innerhalb einer Woche nach Ankündigung der Überprüfung zur
 Verfügung gestellt werden. Der Erdölbevorratungsverband übermittelt
 dem Bundesamt für Wirtschaft und Ausfuhrkontrolle zuvor die hierfür
 erforderlichen Daten.
@@ -1500,10 +1541,10 @@ Union, in der die Mindestanzahl an Verbrauchstagen spezifischer
 Vorräte und die Dauer der Verpflichtung anzugeben sind.
 
 (5) Werden spezifische Vorräte für weniger als 30 Verbrauchstage
-gehalten, übermittelt das Bundesministerium für Wirtschaft und
-Technologie der Kommission der Europäischen Union einen Bericht bis
-zum Ende des ersten Monats des Kalenderjahres, auf das sich dieser
-bezieht. Dieser Bericht enthält
+gehalten, übermittelt das Bundesministerium für Wirtschaft und Energie
+der Kommission der Europäischen Union einen Bericht bis zum Ende des
+ersten Monats des Kalenderjahres, auf das sich dieser bezieht. Dieser
+Bericht enthält
 
 1.  eine Analyse der behördlichen Maßnahmen, mit denen sichergestellt
     wird, dass die Vorräte gemäß § 6 Absatz 6 verfügbar und physisch
@@ -1535,14 +1576,15 @@ ist. Es gewährleistet dabei den Schutz sensibler Daten und gibt keine
 Namen von Eigentümern an.
 
 
-### § 38 Auskunftspflichten, Prüfungsrechte
+### § 38 Auskunftspflichten, Prüfungspflichten und -rechte
 
-(1) Der Erdölbevorratungsverband hat dem Bundesamt für Wirtschaft und
-Ausfuhrkontrolle auf Verlangen innerhalb einer ihm gesetzten Frist die
-Auskünfte zu erteilen und die Unterlagen vorzulegen, die es benötigt,
-um die Erfüllung der Bevorratungspflicht überwachen und die
-Richtigkeit der Meldungen und Angaben nach den §§ 34 bis 37 prüfen zu
-können.
+(1) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle prüft die
+Einhaltung der Bevorratungspflicht durch den Erdölbevorratungsverband.
+Der Erdölbevorratungsverband hat dem Bundesamt für Wirtschaft und
+Ausfuhrkontrolle auf Verlangen und innerhalb einer ihm gesetzten Frist
+die Auskünfte zu erteilen und die Unterlagen vorzulegen, die es
+hierfür sowie für die Prüfung der Richtigkeit der Meldungen und
+Angaben nach den §§ 34 bis 37 benötigt.
 
 (2) Die Mitglieder haben dem Erdölbevorratungsverband auf Verlangen
 innerhalb einer ihnen gesetzten Frist die Auskünfte zu erteilen und
@@ -1558,7 +1600,15 @@ Erdölbevorratungsverband auch vom Bundesamt für Wirtschaft und
 Ausfuhrkontrolle die dort vorliegenden beitragserheblichen Daten
 anfordern.
 
-(3) Die vom Bundesamt für Wirtschaft und Ausfuhrkontrolle mit der
+(3) Das Bundesamt für Wirtschaft und Ausfuhrkontrolle ist berechtigt,
+dem Erdölbevorratungsverband nach Unternehmen und Lagerorten
+aufgeschlüsselte Angaben zur Vorratshaltung durch Unternehmen für
+sonstige Vorratspflichtige nach § 10 Absatz 1 zu übermitteln. Diese
+Angaben darf der Erdölbevorratungsverband ausschließlich im Zuge der
+Kontrolle seiner Vorräte und der für ihn gehaltenen Delegationen
+verwenden.
+
+(4) Die vom Bundesamt für Wirtschaft und Ausfuhrkontrolle mit der
 Prüfung beauftragten Personen sind befugt, Betriebsgrundstücke und
 Geschäftsräume des Erdölbevorratungsverbandes während der Betriebs-
 und Geschäftszeiten zu betreten und die dort befindlichen
@@ -1579,12 +1629,12 @@ Prüfern zu gegenüber
 Die in Satz 2 Nummer 1 und 2 genannten Personen haben die in Satz 1
 bezeichneten Maßnahmen zu dulden.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie, das
-Bundesamt für Wirtschaft und Ausfuhrkontrolle und der
-Erdölbevorratungsverband haben die Personen zu unterstützen, die von
-der Kommission der Europäischen Union mit der Durchführung von
-Überprüfungen der Notfallvorsorge beauftragt sind. Sie stellen für
-ihren Zuständigkeitsbereich sicher, dass diesen Personen während der
+(5) Das Bundesministerium für Wirtschaft und Energie, das Bundesamt
+für Wirtschaft und Ausfuhrkontrolle und der Erdölbevorratungsverband
+haben die Personen zu unterstützen, die von der Kommission der
+Europäischen Union mit der Durchführung von Überprüfungen der
+Notfallvorsorge beauftragt sind. Sie stellen für ihren
+Zuständigkeitsbereich sicher, dass diesen Personen während der
 üblichen Betriebs- und Geschäftszeiten Zugang gewährt wird zu
 
 1.  allen Unterlagen im Zusammenhang mit den Vorräten sowie
@@ -1598,15 +1648,15 @@ ihren Zuständigkeitsbereich sicher, dass diesen Personen während der
 
 Informationen, die diese Personen im Rahmen dieser Überprüfungen
 erlangen, dürfen an Unbefugte nicht weitergegeben werden. Vertreter
-des Bundesministeriums für Wirtschaft und Technologie, des
+des Bundesministeriums für Wirtschaft und Energie, des
 Erdölbevorratungsverbandes und des Bundesamtes für Wirtschaft und
 Ausfuhrkontrolle können Überprüfungsmaßnahmen der Kommission der
 Europäischen Union begleiten.
 
-(5) Die in Absatz 8 genannten Personen sowie diejenigen, die mit der
+(6) Die in Absatz 9 genannten Personen sowie diejenigen, die mit der
 Verwaltung von Vorräten einschließlich von spezifischen Vorräten
-betraut sind, haben dem Bundesministerium für Wirtschaft und
-Technologie, dem Bundesamt für Wirtschaft und Ausfuhrkontrolle, dem
+betraut sind, haben dem Bundesministerium für Wirtschaft und Energie,
+dem Bundesamt für Wirtschaft und Ausfuhrkontrolle, dem
 Erdölbevorratungsverband und den Personen der Kommission der
 Europäischen Union, die mit der Durchführung von Überprüfungen der
 Notfallvorsorge beauftragt sind, während der üblichen Betriebs- und
@@ -1622,28 +1672,28 @@ Geschäftszeiten
 
 
 
-(6) Werden bei Überprüfungen nach den Absätzen 3 bis 5
+(7) Werden bei Überprüfungen nach den Absätzen 4 bis 6
 personenbezogene Daten bekannt, werden diese weder erfasst noch
 berücksichtigt, und, sollten sie versehentlich erfasst werden,
 unverzüglich gelöscht.
 
-(7) Auskunftspflichtige können die Auskunft auf solche Fragen
+(8) Auskunftspflichtige können die Auskunft auf solche Fragen
 verweigern, deren Beantwortung sie selbst oder in § 383 Absatz 1
 Nummer 1 bis 3 der Zivilprozessordnung bezeichnete Angehörige der
 Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem
 Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(8) Die Absätze 1, 3 und 5 gelten auch gegenüber juristischen und
+(9) Die Absätze 1 und 4 Satz 1 gelten auch gegenüber juristischen und
 natürlichen Personen, in deren unmittelbarem oder mittelbarem Besitz
 oder Mitbesitz sich nach Meldung oder Auskunft des
 Erdölbevorratungsverbandes für diesen gehaltene Vorräte an Erdöl oder
 Erdölerzeugnissen befinden oder befunden haben.
 
-(9) Der Erdölbevorratungsverband hat ein Land auf dessen Verlangen
+(10) Der Erdölbevorratungsverband hat ein Land auf dessen Verlangen
 über Tatsachen zu unterrichten, die die Bevorratung in diesem Land
 betreffen.
 
-(10) Der Bundesrechnungshof kann sich zur Klärung von Fragen, die bei
+(11) Der Bundesrechnungshof kann sich zur Klärung von Fragen, die bei
 der Prüfung des Erdölbevorratungsverbandes auftreten, unmittelbar bei
 den Beteiligungsgesellschaften des Erdölbevorratungsverbandes während
 der üblichen Betriebs- und Geschäftszeiten über den Betrieb, die
@@ -1669,24 +1719,23 @@ Meldepflichten nach diesem Gesetz zu überwachen.
     oder nicht rechtzeitig macht,
 
 
-2.  entgegen § 38 Absatz 1, auch in Verbindung mit Absatz 8, oder entgegen
-    § 38 Absatz 2 Satz 1 oder Satz 2 eine Auskunft nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig erteilt oder eine Unterlage
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    vorlegt,
+2.  entgegen § 38 Absatz 1 Satz 2, auch in Verbindung mit Absatz 9, oder
+    entgegen § 38 Absatz 2 Satz 1 oder Satz 2 eine Auskunft nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig erteilt oder eine
+    Unterlage nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig vorlegt,
 
 
-3.  entgegen § 38 Absatz 3 Satz 3, auch in Verbindung mit Absatz 8, eine
-    Maßnahme nicht duldet,
+3.  entgegen § 38 Absatz 4 Satz 3, eine Maßnahme nicht duldet,
 
 
-4.  entgegen § 38 Absatz 4 Satz 3 eine Information weitergibt,
+4.  entgegen § 38 Absatz 5 Satz 3 eine Information weitergibt,
 
 
-5.  entgegen § 38 Absatz 5 Nummer 1 Zugang nicht gewährt oder
+5.  entgegen § 38 Absatz 6 Nummer 1 Zugang nicht gewährt oder
 
 
-6.  entgegen § 38 Absatz 5 Nummer 2 eine Unterlage nicht, nicht richtig,
+6.  entgegen § 38 Absatz 6 Nummer 2 eine Unterlage nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig vorlegt.
 
 
@@ -1700,14 +1749,6 @@ Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für Wirtschaft
 und Ausfuhrkontrolle.
 
 
-### § 41 Übergangsvorschrift
+### § 41 (weggefallen)
 
-Hat der Erdölbevorratungsverband nach § 3 Absatz 1 oder 2 dieses
-Gesetzes im Bevorratungszeitraum vom 1. April 2012 bis zum 31. März
-2013 höhere Vorräte zu halten als am 31. März 2012, so muss er diese
-höhere Bevorratungspflicht, insoweit abweichend von § 3 Absatz 1 Satz
-1 und Absatz 2 Satz 2 dieses Gesetzes, erst ab dem 1. Januar 2013
-erfüllen. In diesem Fall muss die Höhe der bis zum 1. Januar 2013
-gehaltenen Vorräte mindestens der Höhe der am 31. März 2012 gehaltenen
-Vorräte entsprechen.
 

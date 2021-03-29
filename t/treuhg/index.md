@@ -16,7 +16,7 @@ Fundstelle
 :   GBl DDR I: 1990, 300
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 8 G v. 12.12.2007 I 2840
+:   Art. 590 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -102,7 +102,7 @@ Beteiligungen des Bundes.
 
 (2) Die Fach- und Rechtsaufsicht obliegt dem Bundesministerium der
 Finanzen, das die Fachaufsicht im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und dem jeweils
+Bundesministerium für Wirtschaft und Energie und dem jeweils
 zuständigen Bundesministerium wahrnimmt.
 
 (3) (weggefallen)
@@ -153,8 +153,8 @@ Abwickler im Einvernehmen mit dem Bundesrechnungshof erläßt.
 
 (3) Die Treuhandanstalt kann Bürgschaften, Garantien oder sonstige
 Gewährleistungen nur im Einvernehmen mit dem Bundesministerium der
-Finanzen und dem Bundesministerium für Wirtschaft und Technologie und
-nur im Rahmen des im Wirtschaftsplan festgelegten Gesamtbetrages
+Finanzen und dem Bundesministerium für Wirtschaft und Energie und nur
+im Rahmen des im Wirtschaftsplan festgelegten Gesamtbetrages
 übernehmen.
 
 

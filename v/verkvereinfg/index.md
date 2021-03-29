@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1919
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 1 G v. 22.12.2011 I 3044
+:   Art. 2 G v. 24.5.2016 I 1217
 
 
 ## § 1
@@ -98,7 +98,8 @@ nicht rechtzeitig möglich ist, Vorschriften in Rechtsverordnungen
 
 
 2.  für die Eigentümer, Besitzer und Führer von See- und Binnenschiffen
-    durch Aushang bei den Wasser- und Schiffahrtsdirektionen und
+    durch Aushang bei der Generaldirektion Wasserstraßen und Schifffahrt
+    und
 
 
 3.  für die Eigentümer, Besitzer und Führer von Luftfahrzeugen durch
@@ -107,9 +108,10 @@ nicht rechtzeitig möglich ist, Vorschriften in Rechtsverordnungen
 
 
 Die nach Satz 1 verkündeten Vorschriften sind in den Fällen der Nummer
-2 bei den den Wasser- und Schiffahrtsdirektionen unmittelbar
-nachgeordneten Behörden, in den Fällen der Nummer 3 bei der
-Flugsicherungsorganisation unverzüglich durch Aushang bekanntzumachen.
+2 bei den der Generaldirektion Wasserstraßen und Schifffahrt
+unmittelbar nachgeordneten Behörden, in den Fällen der Nummer 3 bei
+der Flugsicherungsorganisation unverzüglich durch Aushang
+bekanntzumachen.
 
 
 ## § 4

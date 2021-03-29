@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 944, 986
 
 Zuletzt geändert durch
-:   Art. 2 V v. 31.10.2006 I 2407
+:   Art. 4 V v. 31.8.2015 I 1474
 
 
 ## Erster Teil - Allgemeine Grundsätze
@@ -477,13 +477,13 @@ Bund und den Ländern im Einvernehmen bestellt.
 
 ### § 12 Ermächtigung
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
-über Einzelheiten der Ermittlung der Höhe des Teilentlastungsbetrages
-nach § 4, der Zinshilfe nach § 7, der Abführung von Erlösen nach § 5
-sowie der Anordnung und Festsetzung von Erstattungsansprüchen nach § 4
-Abs. 7 und § 5 Abs. 3 zu erlassen.
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
+des Bundesrates Vorschriften über Einzelheiten der Ermittlung der Höhe
+des Teilentlastungsbetrages nach § 4, der Zinshilfe nach § 7, der
+Abführung von Erlösen nach § 5 sowie der Anordnung und Festsetzung von
+Erstattungsansprüchen nach § 4 Abs. 7 und § 5 Abs. 3 zu erlassen.
 
 (2) Die Länder werden ermächtigt, durch landesrechtliche Vorschriften
 für die Zeit nach dem Außerkrafttreten des Belegungsrechtsgesetzes

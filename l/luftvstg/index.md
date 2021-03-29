@@ -13,11 +13,12 @@ Ausfertigungsdatum
 :   2010-12-09
 
 Fundstelle
-:   BGBl I: 2010, 1885
+:   BGBl I: 2010, 1885; 2013, 81
 
-Geändert durch
-:   Art. 3 G v. 5.12.2012 I 2436
+Zuletzt geändert durch
+:   Art. 9 G v. 27.8.2017 I 3299 mWv 1.1.2018
 
+Stand: § 5 Nr. 5 ist nach Maßgabe der Bek. v. 15.1.2013 I 81 mWv 1.11.2011 in Kraft getreten.
 
 ## § 1 Steuergegenstand
 
@@ -422,14 +423,14 @@ und der Anzahl der beförderten Fluggäste.
 
 
 (2) Das Bundesministerium der Finanzen wird ab 2013 ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit, dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung und dem Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Steuersätze nach Absatz 1 jeweils mit Wirkung zu Beginn eines
-Kalenderjahres prozentual abzusenken. Die prozentuale Absenkung
-errechnet sich aus dem Verhältnis der jeweiligen Einnahmen des
-Vorjahres aus der Einbeziehung des Luftverkehrs in den Handel mit
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, dem Bundesministerium für Verkehr und digitale
+Infrastruktur und dem Bundesministerium für Wirtschaft und Energie
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die Steuersätze
+nach Absatz 1 jeweils mit Wirkung zu Beginn eines Kalenderjahres
+prozentual abzusenken. Die prozentuale Absenkung errechnet sich aus
+dem Verhältnis der jeweiligen Einnahmen des Vorjahres aus der
+Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten zu einer Milliarde Euro. Die
 Einnahmen aus der Einbeziehung des Luftverkehrs in den Handel mit
 Treibhausgasemissionszertifikaten werden auf Basis der Einnahmen des
@@ -648,8 +649,8 @@ zu den §§ 1, 3, 4, 6 bis 15 und 17 Absatz 1 zu erlassen und dabei
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung
-des Bundesrates im Einvernehmen mit dem Bundesministerium für Verkehr,
-Bau und Stadtentwicklung zur Verfahrensvereinfachung sowie zur
+des Bundesrates im Einvernehmen mit dem Bundesministerium für Verkehr
+und digitale Infrastruktur zur Verfahrensvereinfachung sowie zur
 Sicherung der Gleichmäßigkeit der Besteuerung und des Steueraufkommens
 Bestimmungen zu den §§ 2, 5 und 17 Absatz 2 und 3 zu erlassen und
 dabei
@@ -668,54 +669,66 @@ dabei
 
 (3) Das Bundesministerium der Finanzen wird ermächtigt, zur
 Durchführung dieses Gesetzes durch Rechtsverordnung ohne Zustimmung
-des Bundesrates zur Erleichterung und zur Vereinfachung des
-automatisierten Besteuerungsverfahrens zu bestimmen, dass
-Steuererklärungen, Steueranmeldungen oder sonstige für das
-Besteuerungsverfahren erforderliche Daten durch Datenfernübertragung
-übermittelt werden können, und dabei
+des Bundesrates
 
-1.  die Voraussetzungen für die Anwendung des Verfahrens,
-
-
-2.  das Nähere über Form, Inhalt, Verarbeitung und Sicherung der zu
-    übermittelnden Daten,
-
-
-3.  die Art und Weise der Datenübermittlung,
+1.  im Benehmen mit dem Bundesministerium des Innern alternativ zur
+    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren
+    zuzulassen, das den Datenübermittler authentifiziert und die
+    Vertraulichkeit und Integrität des elektronisch übermittelten
+    Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung
+    gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von
+    der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens
+    vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung
+    auch durch Verweis auf Veröffentlichungen sachverständiger Stellen
+    geregelt werden;
 
 
-4.  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
+2.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-5.  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-    Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-    Übermittlung der Daten verkürzt oder erlangt werden,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
-6.  den Umfang und die Form der für dieses Verfahren erforderlichen
-    besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    c)  die Art und Weise der Übermittlung der Daten,
+
+
+    d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
+
+
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
+
+
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
+
+
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-zu regeln sowie
-
-7.  im Benehmen mit dem Bundesministerium des Innern alternativ zur
-    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-    das die Authentizität und die Integrität des übermittelten
-    elektronischen Dokuments sicherstellt und
-
-
-8.  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-    elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-    Nummer 7
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden.
 
 
 
-zuzulassen. Zur Regelung der Datenübermittlung kann in der
-Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-Veröffentlichung archivmäßig gesichert niedergelegt ist.
 
 
 ## § 19 Anwendungsvorschriften und Übergangsvorschriften
@@ -730,17 +743,14 @@ den ersten Abflug in der Zeit vom 1. Januar bis 28. Februar 2011
 durchführen, die Registrierung bis zum 14. Februar 2011 vornehmen. Die
 dreiwöchige Frist muss in diesem Fall nicht eingehalten werden.
 
-(3) Die Steuerdaten-Übermittlungsverordnung vom 28. Januar 2003 (BGBl.
-I S. 139), die zuletzt durch Artikel 2 der Verordnung vom 8. Januar
-2009 (BGBl. I S. 31) geändert worden ist, ist auf die Erklärungs- und
-Übermittlungspflichten nach diesem Gesetz nicht anzuwenden.
+(3) (weggefallen)
 
 (4) Das Bundesministerium der Finanzen legt unter Beteiligung des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit, des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung und des
-Bundesministeriums für Wirtschaft und Technologie dem Bundestag bis
-zum 30. Juni 2012 einen Bericht über die Auswirkungen der Einführung
-des Luftverkehrsteuergesetzes auf den Luftverkehrssektor und die
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
+des Bundesministeriums für Verkehr und digitale Infrastruktur und des
+Bundesministeriums für Wirtschaft und Energie dem Bundestag bis zum
+30\. Juni 2012 einen Bericht über die Auswirkungen der Einführung des
+Luftverkehrsteuergesetzes auf den Luftverkehrssektor und die
 Entwicklung der Steuereinnahmen aus der Luftverkehrsteuer vor.
 
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1939
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 10 V v. 12.2.2009 I 320
+:   Art. 1 V v. 4.12.2016 I 2853
 
 
 ## Eingangsformel
@@ -318,6 +318,13 @@ Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
 Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und
 Bewerber fest. Sind mehrere Ausschüsse eingerichtet, wird eine
 Rangfolge aller Bewerberinnen und Bewerber festgelegt.
+
+(10) Im Falle einer erfolglosen Teilnahme am mündlichen
+Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für
+das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig.
+In begründeten Einzelfällen kann der Auswahlausschuss eine frühere
+oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung
+ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst

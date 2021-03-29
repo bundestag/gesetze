@@ -6,7 +6,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bund
   Zentralrat der Juden in Deutschland — Körperschaft des öffentlichen Rechts —
 jurabk: ZJDVtrÄndVtr
 layout: default
-origslug: zjdvtr_ndvtr
+origslug: zjdvtraendvtr
 slug: zjdvtraendvtr
 
 ---

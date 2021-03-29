@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 4. August 1963 zur Errichtung der Afrika
   Entwicklungsbank
 jurabk: AfrEntwBkÜbkG
 layout: default
-origslug: afrentwbk_bkg
+origslug: afrentwbkuebkg
 slug: afrentwbkuebkg
 
 ---

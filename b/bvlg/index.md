@@ -16,15 +16,15 @@ Fundstelle
 :   BGBl I: 2002, 3082, 3084
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 10 G v. 22.12.2011 I 3044
+:   Art. 5 G v. 27.6.2017 I 1966
 
 
 ## § 1 Rechtsform, Name
 
-Im Geschäftsbereich des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz (Bundesministerium) wird ein
-"Bundesamt für Verbraucherschutz und Lebensmittelsicherheit"
-(Bundesamt) als selbständige Bundesoberbehörde errichtet.
+Im Geschäftsbereich des Bundesministeriums für Ernährung und
+Landwirtschaft (Bundesministerium) ist ein "Bundesamt für
+Verbraucherschutz und Lebensmittelsicherheit" (Bundesamt) als
+selbständige Bundesoberbehörde errichtet.
 
 
 ## § 2 Tätigkeiten
@@ -35,13 +35,15 @@ insbesondere auf folgenden Gebieten tätig:
 
 1.  Maßnahmen der Vorsorge und des Schutzes im Bereich der
     Lebensmittelsicherheit und des Verbraucherschutzes, vor allem im
-    Hinblick auf Lebensmittel, Tabakerzeugnisse, kosmetische Mittel und
-    sonstige Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte,
-    Futtermittel und Futtermittelzusatzstoffe, Chemikalien sowie
-    Arzneimittel, die zur Anwendung bei Tieren bestimmt sind,
-    einschließlich deren Herstellung, Anwendung und Verkehr, und bei
-    Tieren angewandte pharmakologisch wirksame Stoffe, ausgenommen
-    Tierimpfstoffe, soweit dem Bund die Verwaltungszuständigkeit zusteht,
+    Hinblick auf Lebensmittel, Erzeugnisse im Sinne des § 2 Nummer 1 des
+    Tabakerzeugnisgesetzes, kosmetische Mittel und sonstige
+    Bedarfsgegenstände, Pflanzenschutzmittel und Biozidprodukte,
+    Futtermittel und Futtermittelzusatzstoffe, tierische Nebenprodukte und
+    Folgeprodukte, Chemikalien sowie Arzneimittel, die zur Anwendung bei
+    Tieren bestimmt sind, einschließlich deren Herstellung, Anwendung und
+    Verkehr, und bei Tieren angewandte pharmakologisch wirksame Stoffe,
+    ausgenommen Tierimpfstoffe, soweit dem Bund die
+    Verwaltungszuständigkeit zusteht,
 
 
 2.  Mitwirkung an der Vorbereitung und Begleitung von
@@ -114,48 +116,22 @@ insbesondere auf folgenden Gebieten tätig:
     und Futtermitteln in den Bereichen Lebensmittelsicherheit und
     Futtermittelsicherheit, Tierseuchen und Tierschutz, einschließlich der
     Listung von Betrieben und der Mitwirkung bei der Bearbeitung von
-    Beanstandungen durch Drittländer.
+    Beanstandungen durch Drittländer,
+
+
+12. Unterrichtung der Öffentlichkeit über Erkenntnisse und
+    Arbeitsergebnisse, die es im Rahmen seiner Tätigkeiten und Befugnisse
+    gewonnen hat.
 
 
 
 
-(2) Das Bundesamt wird, unbeschadet der Zuständigkeiten sonstiger
-Einrichtungen des Bundes zum Schutz der wirtschaftlichen Interessen
-der Verbraucherinnen und Verbraucher, insbesondere auf folgenden
-Gebieten tätig:
-
-1.  Zusammenarbeit mit Behörden anderer Staaten zur Durchsetzung der
-    Verbraucherschutzgesetze auf der Grundlage der Verordnung (EG) Nr.
-    2006/2004 des Europäischen Parlaments und des Rates vom 27. Oktober
-    2004 über die Zusammenarbeit zwischen den für die Durchsetzung der
-    Verbraucherschutzgesetze zuständigen nationalen Behörden (ABl. L 364
-    vom 9.12.2004, S. 1) in der jeweils geltenden Fassung,
-
-
-2.  Aufgaben nach Artikel 21 der Richtlinie 2006/123/EG des Europäischen
-    Parlaments und des Rates vom 12. Dezember 2006 über Dienstleistungen
-    im Binnenmarkt (ABl. L 376 vom 27.12.2006, S. 36),
-
-
-3.  Mitarbeit in internationalen Netzwerken und Organisationen, um den
-    Schutz der wirtschaftlichen Interessen von Verbraucherinnen und
-    Verbrauchern zu fördern.
-
-
-
-
-(3) Dem Bundesamt kann zur Wahrnehmung der Aufgaben nach Absatz 2
-Nummer 2 oder Nummer 3 durch das Bundesministerium durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die Befugnis zum
-Verkehr mit den zuständigen Behörden und sonstigen Einrichtungen im
-Ausland übertragen werden.
-
-(4) Zur Durchführung des
+(2) Zur Durchführung des
 
 1.  Lebensmittel- und Futtermittelgesetzbuch,
 
 
-2.  (weggefallen),
+2.  Tierische Nebenprodukte-Beseitigungsgesetzes
 
 
 3.  Düngemittelgesetzes,
@@ -167,16 +143,13 @@ Ausland übertragen werden.
 5.  Pflanzenschutzgesetzes,
 
 
-6.  Strahlenschutzvorsorgegesetzes, soweit es sich auf Verbote und
-    Beschränkungen für den Verkehr mit Lebensmitteln, Tabakerzeugnissen,
-    Bedarfsgegenständen, Futtermitteln und Arzneimitteln, die zur
-    Anwendung bei Tieren bestimmt sind, bezieht,
+6.  (weggefallen)
 
 
 7.  Weingesetzes,
 
 
-8.  Tierseuchengesetzes,
+8.  Tiergesundheitsgesetzes,
 
 
 9. bis 12. (weggefallen),
@@ -194,13 +167,13 @@ Ausland übertragen werden.
 
 
 sowie zur Durchführung von im Anwendungsbereich dieser Gesetze
-unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft oder
-der Europäischen Union erforderliche allgemeine
-Verwaltungsvorschriften können vom Bundesamt im Rahmen seiner Aufgaben
-und Tätigkeiten im Benehmen mit dem nach Absatz 5 jeweils fachlich
-zuständigen Ausschuss vorbereitet werden.
+unmittelbar geltenden Rechtsakten der Europäischen Gemeinschaft, der
+Europäischen Union oder der Europäischen Atomgemeinschaft
+erforderliche allgemeine Verwaltungsvorschriften können vom Bundesamt
+im Rahmen seiner Aufgaben und Tätigkeiten im Benehmen mit dem nach
+Absatz 5 jeweils fachlich zuständigen Ausschuss vorbereitet werden.
 
-(5) Zur Vorbereitung allgemeiner Verwaltungsvorschriften nach Absatz 2
+(3) Zur Vorbereitung allgemeiner Verwaltungsvorschriften nach Absatz 2
 werden beim Bundesamt folgende Ausschüsse eingerichtet:
 
 1.  Ausschuss Verbraucherschutz und Lebensmittelsicherheit; dieser
@@ -209,10 +182,17 @@ werden beim Bundesamt folgende Ausschüsse eingerichtet:
     Verbraucherschutzes und der Lebensmittelsicherheit zu behandeln,
 
 
+1a. Ausschuss für tierische Nebenprodukte; dieser Ausschuss hat die
+    Aufgabe, gesetzesübergreifende grundsätzliche und andere als die
+    Überwachung betreffende Fragen im Bereich der tierischen Nebenprodukte
+    und Folgeprodukte zu behandeln,
+
+
 2.  Ausschuss Überwachung; dieser Ausschuss hat die Aufgabe,
     gesetzesübergreifende, grundsätzliche Überwachungsfragen im Bereich
     des gesundheitlichen Verbraucherschutzes und der
-    Lebensmittelsicherheit zu behandeln.
+    Lebensmittelsicherheit sowie im Bereich der tierischen Nebenprodukte
+    und Folgeprodukte zu behandeln.
 
 
 
@@ -230,7 +210,7 @@ Jedem der in Satz 1 genannten Ausschüsse gehören an:
 
 
 
-(6) Die Ausschüsse beraten unter dem Vorsitz einer Vertreterin oder
+(4) Die Ausschüsse beraten unter dem Vorsitz einer Vertreterin oder
 eines Vertreters des Bundesamtes. Sie tagen nach Bedarf; auf Verlangen
 eines Landes ist
 
@@ -243,29 +223,30 @@ eines Landes ist
 
 
 
-(7) Die in Absatz 3 Satz 1 genannten Ausschüsse können Unterausschüsse
+(5) Die in Absatz 3 Satz 1 genannten Ausschüsse können Unterausschüsse
 einsetzen. Für diese gelten die Bestimmungen des Absatzes 3 Satz 2 und
 des Absatzes 4 entsprechend.
 
-(8) Beauftragte des Bundesministeriums sind befugt, an den Sitzungen
+(6) Beauftragte des Bundesministeriums sind befugt, an den Sitzungen
 der in Absatz 3 Satz 1 und Absatz 5 Satz 1 genannten Ausschüsse und
 Unterausschüsse teilzunehmen; ihnen ist jederzeit Gehör zu gewähren.
 Soweit das Bundesamt Aufgaben aus dem Geschäftsbereich einer anderen
 obersten Bundesbehörde wahrnimmt, gilt Satz 1 auch für die zuständige
 oberste Bundesbehörde.
 
-(9) Das Bundesamt führt die Geschäfte der Ausschüsse und
+(7) Das Bundesamt führt die Geschäfte der Ausschüsse und
 Unterausschüsse nach Absatz 3 Satz 1 und Absatz 5 Satz 1.
 
-(10) Das Bundesamt beteiligt das Bundesinstitut für Risikobewertung
-(Bundesinstitut) in allen wissenschaftlichen Fragen, die in das
-Tätigkeitsgebiet des Bundesinstitutes fallen, im Rahmen der Erledigung
+(8) Das Bundesamt beteiligt das Bundesinstitut für Risikobewertung
+(Bundesinstitut) und das Bundesamt für Strahlenschutz jeweils in allen
+wissenschaftlichen Fragen, die in das Tätigkeitsgebiet des
+Bundesinstitutes oder des Bundesamtes fallen, im Rahmen der Erledigung
 seiner Aufgaben.
 
 
 ## § 3 Aufgabendurchführung
 
-(1) Das Bundesamt erledigt im Rahmen der ihm durch § 2 Absatz 1 und 2
+(1) Das Bundesamt erledigt im Rahmen der ihm durch § 2 Absatz 1
 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes, die dem
 Bundesamt durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
 
@@ -279,7 +260,7 @@ Bundesministerium beauftragt wird.
 
 In Rechtsverordnungen auf Grund des Lebensmittel- und
 Futtermittelgesetzbuches, des Milch- und Margarinegesetzes, des
-Tierseuchengesetzes, des Tierschutzgesetzes, des Tierzuchtgesetzes
+Tiergesundheitsgesetzes, des Tierschutzgesetzes, des Tierzuchtgesetzes
 oder des Pflanzenschutzgesetzes kann vorgesehen werden, dass das
 Bundesministerium zuständig ist,
 
@@ -308,26 +289,27 @@ dem des Bundesministeriums wahrnimmt, untersteht es den fachlichen
 Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
-## § 6 Kostenerhebung
+## § 6 Gebühren- und Auslagenerhebung
 
-(1) Für Amtshandlungen, insbesondere für Genehmigungen, Eintragungen,
-Zulassungen, Prüfungen, Untersuchungen, Bescheinigungen,
-Beglaubigungen, Akteneinsicht sowie Auskünfte des Bundesamtes werden
-Kosten (Gebühren und Auslagen) erhoben. Bei der Bemessung der Höhe der
-Gebühr nach Satz 1 ist auch der mit Mitwirkungshandlungen des
-Bundesinstituts verbundene Verwaltungsaufwand zu berücksichtigen,
-soweit die Mitwirkung des Bundesinstituts durch Rechtsvorschrift
-angeordnet ist oder auf einer Rechtsvorschrift beruht. Spezielle
-gesetzliche Kostenregelungen bleiben unberührt.
+(1) Für individuell zurechenbare öffentliche Leistungen, insbesondere
+für Genehmigungen, Eintragungen, Zulassungen, Prüfungen,
+Untersuchungen, Bescheinigungen, Beglaubigungen, Akteneinsicht sowie
+Auskünfte des Bundesamtes werden Gebühren und Auslagen erhoben. Bei
+der Bemessung der Höhe der Gebühr nach Satz 1 ist auch der mit
+Mitwirkungshandlungen des Bundesinstituts verbundene
+Verwaltungsaufwand zu berücksichtigen, soweit die Mitwirkung des
+Bundesinstituts durch Rechtsvorschrift angeordnet ist oder auf einer
+Rechtsvorschrift beruht. Spezielle gesetzliche Gebührenregelungen
+bleiben unberührt.
 
 (2) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates für die Amtshandlungen des Bundesamtes die
-gebührenpflichtigen Tatbestände näher zu bestimmen und dabei Festsätze
-oder Rahmensätze vorzusehen. Die Höhe der Gebühren bestimmt sich
-jeweils nach dem durchschnittlichen Personal- und Sachaufwand; daneben
-kann die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen
-der Amtshandlung für den Gebührenschuldner angemessen berücksichtigt
-werden.
+Zustimmung des Bundesrates für die individuell zurechenbaren
+öffentlichen Leistungen des Bundesamtes die gebührenpflichtigen
+Tatbestände näher zu bestimmen und dabei Festsätze oder Rahmensätze
+vorzusehen. Die Höhe der Gebühren bestimmt sich jeweils nach dem
+durchschnittlichen Personal- und Sachaufwand; daneben kann die
+Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der
+Leistung für den Gebührenschuldner angemessen berücksichtigt werden.
 
 (3) Das Bundesministerium wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates zu bestimmen, dass, auch in den Fällen des

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 475
 
 Zuletzt geändert durch
-:   Art. 76 G v. 9.12.2004 I 3242
+:   Art. 22 Abs. 8 G v. 11.11.2016 I 2500
 
 
 ## Eingangsformel
@@ -34,14 +34,14 @@ Bundesministerium für Arbeit und Sozialordnung:
 
 ### § 1 Vergabe und Zuordnung der Versicherungsnummer
 
-Die Datenstelle der Träger der Rentenversicherung vergibt für
-Versicherte, an die noch keine inländische Versicherungsnummer
-vergeben wurde, gemäß § 147 des Sechsten Buches Sozialgesetzbuch eine
-Versicherungsnummer. Für andere Personen kann eine Versicherungsnummer
-vergeben werden, soweit dies zur Aufgabenerfüllung der
-Rentenversicherung erforderlich ist. Gleichzeitig ordnet die
-Datenstelle gemäß § 127 des Sechsten Buches Sozialgesetzbuch jeden
-Versicherten einem Rentenversicherungsträger zu.
+Die Datenstelle der Rentenversicherung vergibt für Versicherte, an die
+noch keine inländische Versicherungsnummer vergeben wurde, gemäß § 147
+des Sechsten Buches Sozialgesetzbuch eine Versicherungsnummer. Für
+andere Personen kann eine Versicherungsnummer vergeben werden, soweit
+dies zur Aufgabenerfüllung der Rentenversicherung erforderlich ist.
+Gleichzeitig ordnet die Datenstelle gemäß § 127 des Sechsten Buches
+Sozialgesetzbuch jeden Versicherten einem Rentenversicherungsträger
+zu.
 
 
 ### § 2 Aufbau der Versicherungsnummer
@@ -141,9 +141,9 @@ Erfüllung der Aufgaben der Rentenversicherung zuständig ist.
 
 ### § 5 Aufgaben der Datenstelle im Rahmen der Kontoführung
 
-Die Datenstelle der Rentenversicherungsträger ist zur
-Aufgabenerfüllung nach § 150 des Sechsten Buches Sozialgesetzbuch von
-den Rentenversicherungsträgern über Änderungen in den in der
+Die Datenstelle der Rentenversicherung ist zur Aufgabenerfüllung nach
+§ 150 des Sechsten Buches Sozialgesetzbuch von den
+Rentenversicherungsträgern über Änderungen in den in der
 Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 
 
@@ -153,9 +153,9 @@ Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.
 Inhalts des Versicherungskontos über die Datenstelle. Auf Anforderung
 sind die Versicherungsunterlagen zu übersenden.
 
-(2) Stellt die Datenstelle der Träger der Rentenversicherung bei der
-Annahme von Meldungen fest, dass die Voraussetzungen für einen Wechsel
-der Kontoführung vorliegen, ist der neu zuständige
+(2) Stellt die Datenstelle der Rentenversicherung bei der Annahme von
+Meldungen fest, dass die Voraussetzungen für einen Wechsel der
+Kontoführung vorliegen, ist der neu zuständige
 Rentenversicherungsträger zur Übernahme des Versicherungskontos
 aufzufordern.
 
@@ -198,8 +198,9 @@ noch nicht bindend festgestellte Daten beschränkt werden.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Abs. 2)
 
-### Anlage (zu § 2 Abs. 2) Bereichsnummern
+### Anlage Bereichsnummern
 
 Fundstelle des Originaltextes: BGBl. I 2004, 3290 u. 3291
 

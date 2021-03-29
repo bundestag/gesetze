@@ -4,7 +4,7 @@ Title: Regeln zur Überwachung der Verschmutzung durch als Massengut beförderte
   der Meeresverschmutzung durch Schiffe)
 jurabk: IntMeerSchÜbk1973Anl II
 layout: default
-origslug: intmeersch_bk1973anl_ii
+origslug: intmeerschuebk1973anl_ii
 slug: intmeerschuebk1973anl_ii
 
 ---

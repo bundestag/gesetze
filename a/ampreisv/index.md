@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 2147
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.9.2012 I 2063
+:   Art. 6 G v. 4.5.2017 I 1050
 
 
 ## Eingangsformel
@@ -67,7 +67,9 @@ Verordnung festgelegt
 (3) Ausgenommen sind die Preisspannen und Preise der Apotheken, wenn
 es sich um eine Abgabe handelt
 
-1.  durch Krankenhausapotheken,
+1.  durch Krankenhausapotheken, soweit es sich nicht um die Abgabe von
+    parenteralen Zubereitungen aus Fertigarzneimitteln in der Onkologie
+    zur ambulanten Versorgung handelt,
 
 
 2.  an Krankenhäuser und diesen nach § 14 Absatz 8 Satz 2 des
@@ -98,19 +100,21 @@ es sich um eine Abgabe handelt
     bestimmt sind,
 
 
-7.  von aus Fertigarzneimitteln entnommenen Teilmengen, soweit deren
-    Darreichungsform, Zusammensetzung und Stärke unverändert bleibt,
+7.  von aus Fertigarzneimitteln auf Grund ärztlicher Verordnung
+    entnommenen Teilmengen, soweit deren Darreichungsform, Zusammensetzung
+    und Stärke unverändert bleibt,
 
 
 8.  von Fertigarzneimitteln in parenteralen Zubereitungen.
 
 
 
-Im Fall von Satz 1 Nr. 7 können Sozialleistungsträger, private
-Krankenversicherungen oder deren Verbände das Verfahren für die
-Berechnung der Apothekenabgabepreise für die zu ihren Lasten
-abgegebenen Arzneimittel mit Apotheken oder deren Verbänden
-vereinbaren.
+Im Fall von Satz 1 Nummer 1 bleibt § 129a des Fünften Buches
+Sozialgesetzbuch unberührt. Im Fall von Satz 1 Nr. 7 können
+Sozialleistungsträger, private Krankenversicherungen oder deren
+Verbände das Verfahren für die Berechnung der Apothekenabgabepreise
+für die zu ihren Lasten abgegebenen Arzneimittel mit Apotheken oder
+deren Verbänden vereinbaren.
 
 (4) Ausgenommen sind die Preisspannen und Preise von nicht
 verschreibungspflichtigen Arzneimitteln.
@@ -127,7 +131,11 @@ sowie die Umsatzsteuer erhoben werden. Bei der Abgabe von
 Fertigarzneimitteln, die zur Anwendung bei Tieren bestimmt sind, durch
 den Großhandel an Apotheken oder Tierärzte dürfen auf den Abgabepreis
 des pharmazeutischen Unternehmers ohne die Umsatzsteuer höchstens
-Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben werden.
+Zuschläge nach Absatz 2 oder 3 sowie die Umsatzsteuer erhoben
+werden.Der Berechnung der Zuschläge nach Satz 1 ist jeweils der Betrag
+zugrunde zu legen, zu dem der pharmazeutische Unternehmer das
+Arzneimittel nach § 78 Absatz 3 oder Absatz 3a des
+Arzneimittelgesetzes abgibt.
 
 (2) Der Höchstzuschlag nach Absatz 1 Satz 2 ist bei einem Abgabepreis
 des pharmazeutischen Unternehmers
@@ -235,7 +243,7 @@ des pharmazeutischen Unternehmers
 
 *    *
     *
-    *   zuzüglich 120,53 Euro.
+    *   zuzüglich 61,63 Euro.
 
 
 
@@ -286,15 +294,16 @@ des pharmazeutischen Unternehmers
 (1) Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
 Menschen bestimmt sind, durch die Apotheken sind zur Berechnung des
 Apothekenabgabepreises ein Festzuschlag von 3 Prozent zuzüglich 8,35
-Euro sowie die Umsatzsteuer zu erheben. Soweit Fertigarzneimittel, die
-zur Anwendung bei Menschen bestimmt sind, durch die Apotheken zur
-Anwendung bei Tieren abgegeben werden, dürfen zur Berechnung des
-Apothekenabgabepreises abweichend von Satz 1 höchstens ein Zuschlag
-von 3 Prozent zuzüglich 8,10 Euro sowie die Umsatzsteuer erhoben
-werden. Bei der Abgabe von Fertigarzneimitteln, die zur Anwendung bei
-Tieren bestimmt sind, durch die Apotheken dürfen zur Berechnung des
-Apothekenabgabepreises höchstens Zuschläge nach Absatz 3 oder 4 sowie
-die Umsatzsteuer erhoben werden.
+Euro zuzüglich 16 Cent zur Förderung der Sicherstellung des
+Notdienstes sowie die Umsatzsteuer zu erheben. Soweit
+Fertigarzneimittel, die zur Anwendung bei Menschen bestimmt sind,
+durch die Apotheken zur Anwendung bei Tieren abgegeben werden, dürfen
+zur Berechnung des Apothekenabgabepreises abweichend von Satz 1
+höchstens ein Zuschlag von 3 Prozent zuzüglich 8,10 Euro sowie die
+Umsatzsteuer erhoben werden. Bei der Abgabe von Fertigarzneimitteln,
+die zur Anwendung bei Tieren bestimmt sind, durch die Apotheken dürfen
+zur Berechnung des Apothekenabgabepreises höchstens Zuschläge nach
+Absatz 3 oder 4 sowie die Umsatzsteuer erhoben werden.
 
 (2) Der Festzuschlag ist zu erheben
 
@@ -307,7 +316,8 @@ die Umsatzsteuer erhoben werden.
 2.  bei Fertigarzneimitteln, die nach § 52b Absatz 2 Satz 3 des
     Arzneimittelgesetzes nur vom pharmazeutischen Unternehmer direkt zu
     beziehen sind, auf den bei Belieferung der Apotheke geltenden
-    Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer.
+    Abgabepreis des pharmazeutischen Unternehmers ohne die Umsatzsteuer; §
+    2 Absatz 1 Satz 3 gilt entsprechend.
 
 
 
@@ -456,7 +466,11 @@ Stoffen, die in Apotheken angefertigt wird, sind
     Umsatzsteuer für Stoffe und erforderliche Verpackung,
 
 
-2.  ein Rezepturzuschlag nach Absatz 3
+2.  ein Rezepturzuschlag nach Absatz 3,
+
+
+3.  ein Festzuschlag von 8,35 Euro für Zubereitungen nach Absatz 3, die
+    nicht Absatz 6 unterfallen
 
 
 
@@ -484,13 +498,13 @@ bis zur Grundmenge von 500 g,
 die Anfertigung eines gemischten Tees, Herstellung
 einer Lösung ohne Anwendung von Wärme, Mischen von
 Flüssigkeiten
-bis zur Grundmenge von 300 g                2,50 Euro,
+bis zur Grundmenge von 300 g                3,50 Euro,
 2\.  die Anfertigung von Pudern, ungeteilten Pulvern,
 Salben, Pasten, Suspensionen und Emulsionen
 bis zur Grundmenge von 200 g,
 die Anfertigung von Lösungen unter Anwendung von
 Wärme, Mazerationen, Aufgüssen und Abkochungen
-bis zur Grundmenge von 300 g                5,00 Euro,
+bis zur Grundmenge von 300 g                6,00 Euro,
 3\.  die Anfertigung von Pillen, Tabletten und Pastillen
 bis zur Grundmenge von 50 Stück,
 die Anfertigung von abgeteilten Pulvern, Zäpfchen,
@@ -501,9 +515,9 @@ einer Sterilisation, Sterilfiltration oder
 aseptischen Zubereitung
 bis zur Grundmenge von 300 g,
 das Zuschmelzen von Ampullen
-bis zur Grundmenge von 6 Stück              7,00 Euro.             Für
-jede über die Grundmenge hinausgehende kleinere bis gleich große Menge
-erhöht sich der Rezepturzuschlag um jeweils 50 Prozent.
+bis zur Grundmenge von 6 Stück              8,00 Euro.Für jede über
+die Grundmenge hinausgehende kleinere bis gleich große Menge erhöht
+sich der Rezepturzuschlag um jeweils 50 Prozent.
 
 (4) Trifft die für die Wahrnehmung der wirtschaftlichen Interessen
 gebildete maßgebliche Spitzenorganisation der Apotheker mit dem
@@ -519,14 +533,19 @@ auf die nach Satz 1 vereinbarten Preise abgestellt werden. Besteht
 keine Vereinbarung über abrechnungsfähige Einkaufspreise für
 Fertigarzneimittel in Zubereitungen nach Satz 1 oder Satz 2, ist
 höchstens der Apothekeneinkaufspreis zu berechnen, der bei Abgabe an
-Verbraucher auf Grund dieser Verordnung gilt.
+Verbraucher auf Grund dieser Verordnung gilt. Bei einer
+umsatzsteuerfreien Abgabe von parenteralen Zubereitungen aus
+Fertigarzneimitteln in der Onkologie zur ambulanten Versorgung durch
+Krankenhausapotheken ist höchstens der Apothekeneinkaufspreis nach
+Satz 3 einschließlich der in diesem enthaltenen Umsatzsteuer zu
+berechnen.
 
 (5) Trifft die für die Wahrnehmung der wirtschaftlichen Interessen
 gebildete maßgebliche Spitzenorganisation der Apotheker mit dem
 Spitzenverband Bund der Krankenkassen Vereinbarungen über die Höhe des
-Fest- oder Rezepturzuschlages nach Absatz 1 Nr. 1 oder Nr. 2, so sind
-die vereinbarten Zuschläge abweichend von Absatz 1 oder Absatz 3 bei
-der Preisberechnung zu berücksichtigen. Das Gleiche gilt, wenn
+Fest- oder Rezepturzuschlages nach Absatz 1, so sind die vereinbarten
+Zuschläge abweichend von Absatz 1 oder Absatz 3 bei der
+Preisberechnung zu berücksichtigen. Das Gleiche gilt, wenn
 Sozialleistungsträger, private Krankenversicherungen oder deren
 Verbände mit Apotheken oder deren Verbänden entsprechende
 Vereinbarungen treffen; liegt eine solche Vereinbarung nicht vor, kann
@@ -568,14 +587,17 @@ Feiertagen sowie am 24. Dezember, wenn dieser Tag auf einen Werktag
 fällt, bis 6 Uhr und ab 14 Uhr können die Apotheken einen zusätzlichen
 Betrag von 2,50 Euro einschließlich Umsatzsteuer berechnen.
 
+Betäubungsmittel
+und Arzneimittel nach § 3a
 
-## § 7 Betäubungsmittel
+## § 7 der Arzneimittelverschreibungsverordnung
 
-Bei der Abgabe eines Betäubungsmittels, dessen Verbleib nach § 15 der
-Betäubungsmittel-Verschreibungs-Verordnung in der Fassung der
-Bekanntmachung vom 25. April 1978 (BGBl. I S. 537) nachzuweisen ist,
-können die Apotheken einen zusätzlichen Betrag von 0,26 Euro
-einschließlich Umsatzsteuer berechnen.
+Bei der Abgabe eines Betäubungsmittels, dessen Verbleib nach § 1
+Absatz 3 der Betäubungsmittel-Verschreibungsverordnung nachzuweisen
+ist, sowie bei der Abgabe von Arzneimitteln nach § 3a der
+Arzneimittelverschreibungsverordnung können die Apotheken einen
+zusätzlichen Betrag von 2,91 Euro einschließlich Umsatzsteuer
+berechnen.
 
 
 ## § 8 Sonderbeschaffung
@@ -639,7 +661,7 @@ Apotheker mit den Krankenkassen oder ihren Verbänden Vereinbarungen
 
 (1) Diese Verordnung tritt am 1. Januar 1981 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschriften)
 
 
 ## Schlußformel

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 838
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 31 G v. 22.12.2011 I 3044
+:   Art. 16 G v. 23.7.2013 I 2586
 
 
 ## § 1 Anwendungsbereich
@@ -100,8 +100,6 @@ anzuwenden.
 
 Im Einverständnis der Beteiligten kann der Vorsitzende auch im Übrigen
 an Stelle der Kammer entscheiden.
-
-(4) (weggefallen)
 
 
 ## § 3 Antragsberechtigung
@@ -520,31 +518,10 @@ bekannt zu machen.
 
 ## § 15 Kosten
 
-(1) Für die Gerichtskosten sind die Vorschriften der Kostenordnung
-anzuwenden, soweit nachfolgend nichts anderes bestimmt ist. Als
-Geschäftswert ist der Betrag anzunehmen, der von allen in § 3
-genannten Antragsberechtigten nach der Entscheidung des Gerichts
-zusätzlich zu dem ursprünglich angebotenen Betrag insgesamt gefordert
-werden kann; er beträgt mindestens 200 000 und höchstens 7,5 Millionen
-Euro. Maßgeblicher Zeitpunkt für die Bestimmung des Werts ist der Tag
-nach Ablauf der Antragsfrist (§ 4 Abs. 1). Der Geschäftswert ist von
-Amts wegen festzusetzen. Für das Verfahren des ersten Rechtszugs wird
-die volle Gebühr erhoben. Kommt es in der Hauptsache zu einer
-gerichtlichen Entscheidung, erhöht sich die Gebühr auf das Vierfache
-der vollen Gebühr; dies gilt nicht, wenn lediglich ein Beschluss nach
-§ 11 Abs. 4 Satz 2 ergeht. Für das Verfahren über ein Rechtsmittel
-wird die gleiche Gebühr erhoben; dies gilt auch dann, wenn das
-Rechtsmittel Erfolg hat.
+(1) Die Gerichtskosten können ganz oder zum Teil den Antragstellern
+auferlegt werden, wenn dies der Billigkeit entspricht.
 
-(2) Schuldner der Gerichtskosten ist nur der Antragsgegner. Diese
-Kosten können ganz oder zum Teil den Antragstellern auferlegt werden,
-wenn dies der Billigkeit entspricht; die Haftung des Antragsgegners
-für die Gerichtskosten bleibt hiervon unberührt.
-
-(3) Der Antragsgegner hat einen zur Deckung der Auslagen hinreichenden
-Vorschuss zu zahlen. § 8 der Kostenordnung ist nicht anzuwenden.
-
-(4) Das Gericht ordnet an, dass die Kosten der Antragsteller, die zur
+(2) Das Gericht ordnet an, dass die Kosten der Antragsteller, die zur
 zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz
 oder zum Teil vom Antragsgegner zu erstatten sind, wenn dies unter
 Berücksichtigung des Ausgangs des Verfahrens der Billigkeit

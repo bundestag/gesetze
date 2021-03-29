@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1485
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.12.2012 I 2546
+:   Art. 2 V v. 2.3.2016 I 371
 
 
 ## Eingangsformel
@@ -306,12 +306,12 @@ insbesondere zu berücksichtigen:
 von hierzu ermächtigten Fischereifahrzeugen vorgenommen werden.
 
 (2) Die Ermächtigung erfolgt im Falle des Absatzes 1 Nr. 1 durch das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-(Bundesministerium) oder die zuständige Dienststelle eines anderen
-Mitgliedstaates der Europäischen Union, im Falle des Absatzes 1 Nr. 2
-durch das Bundesministerium im Einvernehmen mit den für die Fischerei
-in den Küstengewässern der Bundesrepublik Deutschland zuständigen
-obersten Landesbehörden.
+Bundesministerium für Ernährung und Landwirtschaft (Bundesministerium)
+oder die zuständige Dienststelle eines anderen Mitgliedstaates der
+Europäischen Union, im Falle des Absatzes 1 Nr. 2 durch das
+Bundesministerium im Einvernehmen mit den für die Fischerei in den
+Küstengewässern der Bundesrepublik Deutschland zuständigen obersten
+Landesbehörden.
 
 (3) Fische, die nach Absatz 1 gefangen werden, dürfen nur im Rahmen
 der gemeinschaftsrechtlichen oder unionsrechtlichen Vorschriften
@@ -669,16 +669,15 @@ Käufer entsprechend.
 (2) Der für den Erstverkauf von Seefischereierzeugnissen
 verantwortliche Marktteilnehmer hat sicherzustellen, dass alle Angaben
 zum Los
-nach Artikel 58              Absatz 5 der Verordnung (EG) Nr.
-1224/2009 spätestens zum Zeitpunkt des Erstverkaufs vorliegen, soweit
-diese zu dem Zeitpunkt gemacht werden können. Er hat ferner
-sicherzustellen, dass die jeweilige Losidentifizierungsnummer
-spätestens zum Zeitpunkt des Erstverkaufs unmittelbar am Los
-angebracht ist. Er hat die in Satz 1 genannten Angaben drei Jahre ab
-Erstverkauf, längstens bis zum Verbrauch oder zur Vernichtung der
-Seefischereierzeugnisse, verfügbar zu halten und den zuständigen
-Behörden der Länder auf Anforderung unverzüglich vorzulegen oder
-zugänglich zu machen.
+nach Artikel 58 Absatz 5 der Verordnung (EG) Nr. 1224/2009 spätestens
+zum Zeitpunkt des Erstverkaufs vorliegen, soweit diese zu dem
+Zeitpunkt gemacht werden können. Er hat ferner sicherzustellen, dass
+die jeweilige Losidentifizierungsnummer spätestens zum Zeitpunkt des
+Erstverkaufs unmittelbar am Los angebracht ist. Er hat die in Satz 1
+genannten Angaben drei Jahre ab Erstverkauf, längstens bis zum
+Verbrauch oder zur Vernichtung der Seefischereierzeugnisse, verfügbar
+zu halten und den zuständigen Behörden der Länder auf Anforderung
+unverzüglich vorzulegen oder zugänglich zu machen.
 
 (3) Der für die Produktion, die Verarbeitung und den Vertrieb von
 Seefischereierzeugnissen jeweils verantwortliche Marktteilnehmer ist
@@ -1030,8 +1029,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
+(zu § 2 Abs. 1)
 
-## Anlage 1 (zu § 2 Abs. 1) Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
+## Anlage 1 Fischarten, bei denen die Ausübung der Seefischerei mengenmäßig beschränkt wird
 
 
 *    *   Kabeljau
@@ -1148,8 +1148,9 @@ für Landwirtschaft und Ernährung
 Im Auftrag
 (hellgrün mit schwarzem Aufdruck, Format DIN A6) ****
 
+(zu § 5 Absatz 2)
 
-## Anlage 3 (zu § 5 Absatz 2) Verbindliche Anlandeorte
+## Anlage 3 Verbindliche Anlandeorte
 
 (Fundstelle: BGBl. I 2012, 2553 - 2554)
 
@@ -1465,10 +1466,11 @@ Technische Beschreibung des Steerts
 
 
 
+(zu § 16 Absatz 1)
 
-## Anlage 5 (zu § 16 Absatz 1) Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
+## Anlage 5 Bezeichnung und Bewertung der Straftaten und Ordnungswidrigkeiten im Rahmen des Punktesystems
 
-(Fundstelle: BGBl. I 2012, 2557 - 2561)
+(Fundstelle: BGBl. I 2016, 377 – 381)
 
 
 *    *   1
@@ -1500,18 +1502,18 @@ Technische Beschreibung des Steerts
 
     *   § 18 Absatz 3 Nummer 4 des Seefischereigesetzes,
         § 19 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
+        § 28 Absatz 2 Nummer 1 der Seefischerei-Bußgeldverordnung,
+        § 28 Absatz 2 Nummer 2 der Seefischerei-Bußgeldverordnung,
+        § 28 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
         § 22 Absatz 2 Nummer 5 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 7 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 8 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 9 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 10 der Seefischereiverordnung,
-        § 24f Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 11 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung
+        § 32 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 11 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung
 
     *   3
 
@@ -1520,61 +1522,58 @@ Technische Beschreibung des Steerts
 
     *   Einsatz von verbotenem oder nicht vorschriftsmäßigem Fanggerät
 
-    *   § 18 Absatz 2 2. Alternative Nummer 10 des Seefischereigesetzes,
-        § 1 Nummer 4, 5, 6, 8, 9 1. Alternative und Nummer 13 der
+    *   § 18 Absatz 2 Nummer 10 zweite Alternative des Seefischereigesetzes,
+        § 1 Nummer 4, 5, 6, 8, 9 erste Alternative und Nummer 13 der
         Seefischerei-Bußgeldverordnung,
         § 2 der Seefischerei-Bußgeldverordnung,
         § 3 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
         § 6 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 12 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 22 der Seefischerei-Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 26 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 6 zweite Alternative der Seefischerei-
+        Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 8 zweite Alternative der Seefischerei-
+        Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 10 erste Alternative der Seefischerei-
+        Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 13 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 27 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 32 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 44 Buchstabe a zweite Alternative der
+        Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 47 Buchstabe a der Seefischerei-Bußgeldverordnung,
+        § 7 der Seefischerei-Bußgeldverordnung,
+        § 9 Nummer 1 zweite Alternative der Seefischerei-Bußgeldverordnung,
+        § 9 Nummer 2 der Seefischerei-Bußgeldverordnung,
+        § 9 Nummer 3 zweite Alternative der Seefischerei-Bußgeldverordnung,
+        § 9 Nummer 4 der Seefischerei-Bußgeldverordnung,
+        § 9 Nummer 6 der Seefischerei-Bußgeldverordnung,
+        § 10 Nummer 1 der Seefischerei-Bußgeldverordnung,
+        § 10 Nummer 2 zweite Alternative der Seefischerei-Bußgeldverordnung,
+        § 10 Nummer 3 der Seefischerei-Bußgeldverordnung,
+        § 10 Nummer 4 der Seefischerei-Bußgeldverordnung,
+        § 10 Nummer 5 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 4 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 6 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 7 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 8 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 9 zweite Alternative der Seefischerei-Bußgeldverordnung,
+        § 19 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 5 zweite Alternative der Seefischerei-
+        Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 6 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
+        § 22 Absatz 1 Nummer 9 der Seefischereiverordnung
 
     *   4
 
-
-*    *
-    *
-    *   § 6 Absatz 1 Nummer 27 2. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 6 Absatz 1 Nummer 28 der Seefischerei- Bußgeldverordnung,
-        § 8 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 1 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 3 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 10 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 2 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 11 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 7 2. Alternative der Seefischerei-Bußgeldverordnung,
-        § 19 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 5 2. Alternative der Seefischerei-
-        Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 22 Absatz 1 Nummer 9 der Seefischereiverordnung
-
-    *
 
 *    *   3
 
     *   Fälschen oder Verbergen von Kennzeichnung, Identität oder
         Registrierung
 
-    *   § 24f Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung
+    *   § 32 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung
 
     *   5
 
@@ -1594,8 +1593,8 @@ Technische Beschreibung des Steerts
     *   Anbordnehmen, Umladen oder Anlanden von untermaßigen Fischen unter
         Verstoß gegen die geltenden Rechtsvorschriften
 
-    *   § 6 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 11 der Seefischerei-Bußgeldverordnung
+    *   § 6 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 13 der Seefischerei-Bußgeldverordnung
 
     *   5
 
@@ -1606,19 +1605,26 @@ Technische Beschreibung des Steerts
         Weise, die mit den Erhaltungs- und Bewirtschaftungsmaßnahmen dieser
         Organisation nicht vereinbar ist oder gegen diese verstößt
 
-    *   *Nordwestatlantische Fischereiorganisation (NAFO):*
-        § 20 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 15 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 20 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung
-        *Kommission für die Fischerei im Nordostatlantik (NEAFC):*
-        § 24e Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung
+    *
+        a)  Nordwestatlantische Fischereiorganisation (NAFO):
+            § 20 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 1 Nummer 8 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 1 Nummer 14 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 1 Nummer 15 der
+            Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
+            § 20 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung
+
+
+        b)  Kommission für die Fischerei im Nordostatlantik (NEAFC):
+            § 31 Absatz 1 Nummer 2 der Seefischerei-Bußgeldverordnung,
+            § 31 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
+            § 31 Absatz 1 Nummer 4 der Seefischerei-Bußgeldverordnung
+
+
+
 
     *   5
 
@@ -1632,9 +1638,9 @@ Technische Beschreibung des Steerts
         § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
         § 18 Absatz 2 Nummer 3 des Seefischereigesetzes,
         § 18 Absatz 3 Nummer 7 des Seefischereigesetzes,
-        § 18 Nummer 18 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 20 der Seefischerei-Bußgeld-verordnung,
         § 24 Absatz 1 Nummer 1 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
+        § 28 Absatz 1 Nummer 7 der Seefischerei-Bußgeldverordnung
 
     *   7
 
@@ -1646,12 +1652,16 @@ Technische Beschreibung des Steerts
 
     *   § 18 Absatz 2 Nummer 1 des Seefischereigesetzes,
         § 18 Absatz 2 Nummer 2 des Seefischereigesetzes,
-        § 6 Absatz 1 Nummer 24 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 13 der Seefischerei-Bußgeldverordnung,
-        § 18 Nummer 19 der Seefischerei-Bußgeldverordnung,
-        § 19 Absatz 1 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24b Absatz 1 Nummer 9 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung
+        § 6 Absatz 1 Nummer 29 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 54 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 55 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 58 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 70 der Seefischerei-Bußgeldverordnung,
+        § 6 Absatz 1 Nummer 71 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 15 der Seefischerei-Bußgeldverordnung,
+        § 18 Nummer 21 der Seefischerei-Bußgeldverordnung,
+        § 19 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,
+        § 28 Absatz 1 Nummer 16 der Seefischerei-Bußgeldverordnung
 
     *   6
 
@@ -1690,15 +1700,15 @@ Technische Beschreibung des Steerts
         § 22 Absatz 2 Nummer 2 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 3 der Seefischereiverordnung,
         § 22 Absatz 2 Nummer 4 der Seefischereiverordnung,
-        § 24d Absatz 2 Nummer 11 der Seefischerei-Bußgeldverordnung,
-        § 24d Absatz 2 Nummer 12 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung,
-        § 24e Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung,
-        § 24f Absatz 2 Nummer 32 der Seefischerei-Bußgeldverordnung
+        § 28 Absatz 2 Nummer 16 der Seefischerei-Bußgeldverordnung,
+        § 28 Absatz 2 Nummer 17 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 3 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 4 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 5 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 6 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 7 der Seefischerei-Bußgeldverordnung,
+        § 31 Absatz 2 Nummer 8 der Seefischerei-Bußgeldverordnung,
+        § 32 Absatz 2 Nummer 32 der Seefischerei-Bußgeldverordnung
 
     *   7
 
@@ -1713,9 +1723,9 @@ Technische Beschreibung des Steerts
         Unterstützung oder Versorgung solcher Schiffe
 
     *   § 18 Absatz 3 Nummer 1 des Seefischereigesetzes,
-        § 20 Absatz 1 Nummer 22 3. Alternative der Seefischerei-
+        § 20 Absatz 1 Nummer 22 dritte Alternative der Seefischerei-
         Bußgeldverordnung,
-        § 20 Absatz 1 Nummer 22 4. Alternative der Seefischerei-
+        § 20 Absatz 1 Nummer 22 vierte Alternative der Seefischerei-
         Bußgeldverordnung,
         § 20 Absatz 1 Nummer 23 der Seefischerei-Bußgeldverordnung,
         § 23 Absatz 1 Nummer 5 der Seefischerei-Bußgeldverordnung,

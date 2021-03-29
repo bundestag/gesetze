@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.2001 I 2722;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.12.2012 I 2654
+:   Art. 22 Abs. 10 G v. 11.11.2016 I 2500
 
 
 ## Teil 1 - Anwendungsbereich
@@ -51,9 +51,9 @@ auch Beträge, die im Zusammenhang mit dem Miet- oder mietähnlichen
 Nutzungsverhältnis auf Grund eines Vertrages mit dem Vermieter oder
 einem Dritten an einen Dritten zu zahlen sind.
 
-(2) Zur Miete gehören nicht Vergütungen für Leistungen, die nicht die
-eigentliche Wohnraumnutzung betreffen, namentlich Vergütungen für die
-Überlassung einer Garage, eines Stellplatzes oder eines Hausgartens.
+(2) Von der Miete sind keine anderen Beträge als die in § 9 Absatz 2
+des Wohngeldgesetzes genannten Kosten und Vergütungen abzusetzen. § 5
+bleibt unberührt.
 
 
 ### § 3 Mietvorauszahlungen und Mieterdarlehen
@@ -87,70 +87,49 @@ für Betriebskosten ganz oder teilweise nicht fest, sind
 Erfahrungswerte als Pauschbeträge anzusetzen.
 
 
-### § 6 Außer Betracht bleibende Kosten, Zuschläge und Vergütungen
+### § 6 Außer Betracht bleibende Kosten und Vergütungen
 
-(1) Kosten, die nach § 9 Abs. 2 Nr. 1 und 2 des Wohngeldgesetzes außer
-Betracht bleiben, sind:
+(1) Kosten, die nach § 9 Absatz 2 Nummer 1 und 2 des Wohngeldgesetzes
+außer Betracht bleiben, sind:
 
-1.  Betriebskosten für zentrale Heizungs- und Brennstoffversorgungsanlagen
-    sowie zentrale Warmwasserversorgungsanlagen im Sinne des § 2 Nr. 4
-    Buchstabe a, b und d sowie Nr. 5 Buchstabe a und c der
+1.  Betriebskosten für Heizungs- und Brennstoffversorgungsanlagen sowie
+    Warmwasserversorgungsanlagen im Sinne des § 2 Nummer 4 Buchstabe a, b
+    und d, Nummer 5 Buchstabe a und c und Nummer 6 Buchstabe a und c der
     Betriebskostenverordnung;
 
 
 2.  Kosten der eigenständig gewerblichen Lieferung von Wärme und
-    Warmwasser im Sinne des § 2 Nr. 4 Buchstabe c und Nr. 5 Buchstabe b
-    der Betriebskostenverordnung. In den Kosten der Lieferung enthaltene
-    Beträge für Kapitalkosten, Abschreibungen sowie für Verwaltungs- und
-    Instandhaltungskosten, werden der Miete zugerechnet.
+    Warmwasser im Sinne des § 2 Nummer 4 Buchstabe c, Nummer 5 Buchstabe b
+    und Nummer 6 Buchstabe b der Betriebskostenverordnung.
 
 
 
 
-(2) Sind in § 9 Abs. 2 des Wohngeldgesetzes bezeichnete Kosten,
-Zuschläge und Vergütungen in der Miete enthalten, ohne dass ein
-besonderer Betrag hierfür angegeben ist, oder können in § 9 Abs. 2 Nr.
-1 oder Nr. 2 des Wohngeldgesetzes bezeichnete Betriebskosten im
-Einzelnen nicht oder nur mit unverhältnismäßig großen Schwierigkeiten
-ermittelt werden, sind von der Miete zunächst folgende Pauschbeträge
-abzusetzen:
+(2) Kommt nach § 9 Absatz 2 Satz 2 des Wohngeldgesetzes nur der Abzug
+eines Pauschbetrages von der Miete in Betracht, so beträgt dieser:
 
 1.  für Betriebskosten für zentrale Heizungs- und
-    Brennstoffversorgungsanlagen oder die eigenständig gewerbliche
-    Lieferung von Wärme 0,80 Euro monatlich je Quadratmeter Wohnfläche;
+    Brennstoffversorgungsanlagen oder für die Kosten der eigenständig
+    gewerblichen Lieferung von Wärme 1,25 Euro monatlich je Quadratmeter
+    Wohnfläche;
 
 
-2.  für Betriebskosten für zentrale Warmwasserversorgungsanlagen oder die
-    eigenständig gewerbliche Lieferung von Warmwasser 0,15 Euro monatlich
-    je Quadratmeter Wohnfläche;
+2.  für Betriebskosten für zentrale Warmwasserversorgungsanlagen oder für
+    die Kosten der eigenständig gewerblichen Lieferung von Warmwasser für
+    eine Bewohnerin oder einen Bewohner 9 Euro monatlich, für zwei
+    Bewohnerinnen oder Bewohner 17 Euro monatlich und für jede weitere
+    Bewohnerin oder jeden weiteren Bewohner 3 Euro monatlich;
 
 
-3.  für Untermietzuschläge je Untermietverhältnis 2,50 Euro monatlich,
-    wenn der untervermietete Wohnraum von einer Person benutzt wird, oder
-    5,00 Euro monatlich, wenn der untervermietete Wohnraum von zwei oder
-    mehr Personen benutzt wird.
+3.  für die übrigen Kosten der Haushaltsenergie für eine Bewohnerin oder
+    einen Bewohner 41 Euro monatlich, für zwei Bewohnerinnen oder Bewohner
+    74 Euro monatlich und für jede weitere Bewohnerin oder jeden weiteren
+    Bewohner 15 Euro monatlich;
 
 
-
-Von der sich danach ergebenden Miete sind abzusetzen
-
-1.  für Vergütungen für die Überlassung von Möbeln, ausgenommen übliche
-    Einbaumöbel,
-
-    a)  bei Teilmöblierung 10 Prozent der auf den teilmöbliert gemieteten
-        Wohnraum entfallenden Miete,
-
-
-    b)  bei Vollmöblierung 20 Prozent der auf den vollmöbliert gemieteten
-        Wohnraum entfallenden Miete;
-
-
-
-
-
-2.  für Zuschläge für die Benutzung von Wohnraum zu anderen als
-    Wohnzwecken, insbesondere zu gewerblichen oder beruflichen Zwecken, 30
-    Prozent der auf diesen Raum entfallenden Miete.
+4.  für die Überlassung einer Garage 36 Euro monatlich; für die
+    Überlassung eines Stellplatzes zum Abstellen von Kraftfahrzeugen 25
+    Euro monatlich.
 
 
 
@@ -322,7 +301,7 @@ Leistung anzusetzen.
 (1) Als Belastung aus der Bewirtschaftung sind Instandhaltungskosten,
 Betriebskosten ohne die Heizkosten und Verwaltungskosten auszuweisen.
 
-(2) Als Instandhaltungs- und Betriebskosten sind im Jahr 20 Euro je
+(2) Als Instandhaltungs- und Betriebskosten sind im Jahr 36 Euro je
 Quadratmeter Wohnfläche und je Quadratmeter Nutzfläche der
 Geschäftsräume sowie die für den Gegenstand der Wohngeld-
 Lastenberechnung entrichtete Grundsteuer anzusetzen. Als
@@ -367,30 +346,28 @@ Abs. 2 und 3 des Wohngeldgesetzes außer Betracht bleiben.
 dem Entgelt für die Gebrauchsüberlassung von Räumen oder Flächen an
 einen anderen die darin enthaltenen Beträge
 
-1.  zur Deckung der Betriebskosten für zentrale Heizungs- und
-    Warmwasserversorgungsanlagen sowie zentrale
-    Brennstoffversorgungsanlagen,
+1.  zur Deckung der Betriebskosten für Heizungs- und
+    Brennstoffversorgungsanlagen sowie Warmwasserversorgungsanlagen und
 
 
 2.  zur Deckung der Kosten der eigenständig gewerblichen Lieferung von
     Wärme und Warmwasser, soweit sie den in Nummer 1 bezeichneten Kosten
-    entsprechen, und
+    entsprechen,
 
 
-3.  für die Überlassung von Möbeln
+3.  (weggefallen)
 
 
 
 abzusetzen. § 6 Abs. 1 und 2 dieser Verordnung ist entsprechend
 anzuwenden.
 
-(3) Für eine Garage, die Gegenstand der Wohngeld-Lastenberechnung ist,
-soll ein Betrag von 245 Euro im Jahr von der Belastung abgesetzt
-werden. Wenn für die Überlassung einer Garage an einen anderen ein
-geringeres Entgelt ortsüblich ist, kann ein Betrag von weniger als
-245, aber mindestens von 184 Euro im Jahr abgesetzt werden. Ist die
-Garage einem anderen gegen ein höheres Entgelt als den in Satz 1
-genannten Betrag überlassen, ist das Entgelt in voller Höhe
+(3) Ist eine Garage oder ein Stellplatz zum Abstellen von
+Kraftfahrzeugen Gegenstand der Wohngeld-Lastenberechnung, gilt
+hinsichtlich der außer Betracht bleibenden Belastung § 6 Absatz 2
+Nummer 4 entsprechend. Ist die Garage oder der Stellplatz einem
+anderen gegen ein höheres Entgelt überlassen als zu den in § 6 Absatz
+2 Nummer 4 genannten Beträgen, so ist das Entgelt in voller Höhe
 abzusetzen.
 
 (4) (weggefallen)
@@ -407,7 +384,7 @@ Die §§ 17 bis 22 gelten für den automatisierten Datenabgleich nach §
 der Wohngeldbehörde, der sonst nach Landesrecht für den Datenabgleich
 zuständigen oder von der Landesregierung durch Rechtsverordnung oder
 auf sonstige Weise für den Datenabgleich bestimmten Stelle (zentrale
-Landesstelle) und der Datenstelle der Träger der Rentenversicherung
+Landesstelle) und der Datenstelle der Rentenversicherung
 (Datenstelle), dem Bundeszentralamt für Steuern, der Deutschen Post AG
 sowie der Deutschen Rentenversicherung Knappschaft-Bahn-See.
 Rechtsverordnungen der Landesregierungen, die über die Regelungen der
@@ -456,8 +433,7 @@ möglich, um die Versicherungsnummer ergänzt. Die in Satz 1 genannten
 Stellen übermitteln die Antwortdatensätze bis zum 15. des zweiten auf
 den Abgleichszeitraum folgenden Monats an die Datenstelle.
 
-(4) Die Datenstelle übermittelt der Wohngeldbehörde, im Fall des
-Absatzes 2 Satz 3 über die zentrale Landesstelle, die
+(4) Die Datenstelle übermittelt der Wohngeldbehörde die
 Antwortdatensätze aus dem automatisierten Datenabgleich nach § 18
 Absatz 1 und die Antwortdatensätze nach Absatz 3 Satz 4 bis zum Ende
 des zweiten auf den Abgleichszeitraum folgenden Monats. Im Fall des
@@ -489,7 +465,7 @@ Daten ab mit den bei ihr gespeicherten Daten nach
 4.  § 28p Absatz 8 Satz 3 des Vierten Buches Sozialgesetzbuch zur Prüfung
     des Bestehens einer versicherungspflichtigen oder einer geringfügigen
     Beschäftigung unter Angabe des jeweiligen
-    Arbeitgebers                    und des Beschäftigungszeitraums.
+    Arbeitgebers und des Beschäftigungszeitraums.
 
 
 
@@ -636,10356 +612,9438 @@ Kalenderjahr der Teilnahme am automatisierten Datenabgleich sind die
 Kosten nach Absatz 2 Satz 1 in Verbindung mit Absatz 2 Satz 2 zu
 erstatten; Absatz 2 Satz 3 gilt entsprechend.
 
+Anlage
 
-### Anlage Anlage (zu § 1 Abs. 3)
+### Anlage (zu § 1 Absatz 3)
 
-(Fundestelle: BGBl. I 2008, 2487 - 2519)
-[^f771614_01_BJNR020650971BJNE002413308]
-Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2009
-##
+(Fundstelle: BGBl. I 2015, 1619 — 1662)
 
-**Baden-Württemberg**
+Mietenstufen der Gemeinden nach Ländern ab 1. Januar 2016
+
+Soweit die zu einem Kreis gehörenden Gemeinden in den Tabellen nicht
+gesondert aufgeführt sind, gilt die Mietenstufe des Kreises für diese
+Gemeinden.
+
+Zu Grunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2013
+einschließlich der bis zum 31. März 2014 erfolgten rückwirkenden
+Bewilligungen.
+
+Relevanter Gebietsstand ist der 1. Januar 2014; der für die 10 000
+-Einwohner-Schwelle relevante Stichtag der Bevölkerung ist der 31.
+Dezember 2013.
+
+*Land:* **Baden-Württemberg**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Aalen
+*    *   Aalen, Stadt
 
-    *   3
-
-
-*    *   Achern
-
-    *   2
+    *   III
 
 
-*    *   Albstadt
+*    *   Achern, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Altensteig
+*    *   Albstadt, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Altensteig, Stadt
+
+    *   II
 
 
 *    *   Ammerbuch
 
-    *   4
+    *   IV
 
 
-*    *   Asperg
+*    *   Asperg, Stadt
 
-    *   5
-
-
-*    *   Backnang
-
-    *   4
+    *   V
 
 
-*    *   Bad Dürrheim
+*    *   Backnang, Stadt
 
-    *   3
-
-
-*    *   Bad Friedrichshall
-
-    *   3
+    *   IV
 
 
-*    *   Bad Krozingen
+*    *   Bad Dürrheim, Stadt
 
-    *   5
-
-
-*    *   Bad Mergentheim
-
-    *   2
+    *   IV
 
 
-*    *   Bad Rappenau
+*    *   Bad Friedrichshall, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Bad Säckingen
+*    *   Bad Krozingen, Stadt
 
-    *   4
+    *   V
+
+
+*    *   Bad Mergentheim, Stadt
+
+    *   II
+
+
+*    *   Bad Rappenau, Stadt
+
+    *   III
+
+
+*    *   Bad Säckingen, Stadt
+
+    *   IV
 
 
 *    *   Bad Schönborn
 
-    *   3
+    *   III
 
 
-*    *   Bad Urach
+*    *   Bad Urach, Stadt
 
-    *   3
-
-
-*    *   Bad Waldsee
-
-    *   3
+    *   III
 
 
-*    *   Bad Wildbad im Schwarzwald
+*    *   Bad Waldsee, Stadt
 
-    *   2
-
-
-*    *   Bad Wurzach
-
-    *   2
+    *   III
 
 
-*    *   Baden-Baden
+*    *   Bad Wurzach, Stadt
 
-    *   4
+    *   II
+
+
+*    *   Baden-Baden, Stadt
+
+    *   IV
 
 
 *    *   Baiersbronn
 
-    *   2
+    *   II
 
 
-*    *   Balingen
+*    *   Balingen, Stadt
 
-    *   3
-
-
-*    *   Besigheim
-
-    *   5
+    *   III
 
 
-*    *   Biberach an der Riß
+*    *   Besigheim, Stadt
 
-    *   2
+    *   IV
 
 
-*    *   Bietigheim-Bissingen
+*    *   Biberach an der Riß, Stadt
 
-    *   4
+    *   III
+
+
+*    *   Bietigheim-Bissingen, Stadt
+
+    *   V
 
 
 *    *   Birkenfeld
 
-    *   2
+    *   III
 
 
-*    *   Blaubeuren
+*    *   Blaubeuren, Stadt
 
-    *   2
-
-
-*    *   Blaustein
-
-    *   3
+    *   II
 
 
-*    *   Blumberg
+*    *   Blaustein, Stadt
 
-    *   2
-
-
-*    *   Böblingen
-
-    *   5
+    *   IV
 
 
-*    *   Bopfingen
+*    *   Böblingen, Stadt
 
-    *   2
-
-
-*    *   Brackenheim
-
-    *   3
+    *   V
 
 
-*    *   Breisach am Rhein
+*    *   Bopfingen, Stadt
 
-    *   4
+    *   II
 
 
-*    *   Bretten
+*    *   Brackenheim, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Breisach am Rhein, Stadt
+
+    *   IV
+
+
+*    *   Bretten, Stadt
+
+    *   III
 
 
 *    *   Bretzfeld
 
-    *   2
+    *   III
 
 
-*    *   Bruchsal
+*    *   Bruchsal, Stadt
 
-    *   3
+    *   IV
 
 
 *    *   Brühl
 
-    *   4
+    *   IV
 
 
-*    *   Buchen (Odenwald)
+*    *   Buchen (Odenwald), Stadt
 
-    *   2
-
-
-*    *   Bühl
-
-    *   3
+    *   II
 
 
-*    *   Burladingen
+*    *   Bühl, Stadt
 
-    *   1
-
-
-*    *   Calw
-
-    *   3
+    *   III
 
 
-*    *   Crailsheim
+*    *   Burladingen, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Calw, Stadt
+
+    *   III
+
+
+*    *   Crailsheim, Stadt
+
+    *   II
 
 
 *    *   Denkendorf
 
-    *   4
+    *   IV
 
 
 *    *   Denzlingen
 
-    *   5
+    *   V
 
 
-*    *   Ditzingen
+*    *   Ditzingen, Stadt
 
-    *   5
-
-
-*    *   Donaueschingen
-
-    *   2
+    *   V
 
 
-*    *   Donzdorf
+*    *   Donaueschingen, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Donzdorf, Stadt
+
+    *   III
 
 
 *    *   Dossenheim
 
-    *   5
+    *   V
 
 
 *    *   Durmersheim
 
-    *   3
+    *   III
 
 
-*    *   Eberbach
+*    *   Eberbach, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Ebersbach an der Fils
+*    *   Ebersbach an der Fils, Stadt
 
-    *   4
+    *   III
 
 
 *    *   Edingen-Neckarhausen
 
-    *   3
+    *   IV
 
 
 *    *   Eggenstein-Leopoldshafen
 
-    *   4
+    *   IV
 
 
-*    *   Ehingen (Donau)
+*    *   Ehingen (Donau), Stadt
 
-    *   2
-
-
-*    *   Eislingen/Fils
-
-    *   3
+    *   III
 
 
-*    *   Ellwangen (Jagst)
+*    *   Eislingen/Fils, Stadt
 
-    *   2
-
-
-*    *   Emmendingen
-
-    *   4
+    *   III
 
 
-*    *   Engen
+*    *   Ellwangen (Jagst), Stadt
 
-    *   2
+    *   III
+
+
+*    *   Emmendingen, Stadt
+
+    *   IV
+
+
+*    *   Engen, Stadt
+
+    *   III
 
 
 *    *   Eningen unter Achalm
 
-    *   4
+    *   III
 
 
-*    *   Eppelheim
+*    *   Eppelheim, Stadt
 
-    *   5
+    *   VI
 
 
-*    *   Eppingen
+*    *   Eppingen, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Erbach
 
-    *   3
+    *   III
 
 
-*    *   Esslingen am Neckar
+*    *   Esslingen am Neckar, Stadt
 
-    *   5
-
-
-*    *   Ettenheim
-
-    *   2
+    *   V
 
 
-*    *   Ettlingen
+*    *   Ettenheim, Stadt
 
-    *   4
-
-
-*    *   Fellbach
-
-    *   5
+    *   II
 
 
-*    *   Filderstadt
+*    *   Ettlingen, Stadt
 
-    *   5
-
-
-*    *   Freiberg am Neckar
-
-    *   5
+    *   IV
 
 
-*    *   Freiburg im Breisgau
+*    *   Fellbach, Stadt
 
-    *   5
-
-
-*    *   Freudenstadt
-
-    *   3
+    *   VI
 
 
-*    *   Friedrichshafen
+*    *   Filderstadt, Stadt
 
-    *   4
+    *   VI
+
+
+*    *   Freiberg am Neckar, Stadt
+
+    *   V
+
+
+*    *   Freiburg im Breisgau, Universitätsstadt
+
+    *   VI
+
+
+*    *   Freudenstadt, Stadt
+
+    *   III
+
+
+*    *   Friedrichshafen, Stadt
+
+    *   V
 
 
 *    *   Friesenheim
 
-    *   2
+    *   II
 
 
 *    *   Gärtringen
 
-    *   5
+    *   V
 
 
-*    *   Gaggenau
+*    *   Gaggenau, Stadt
 
-    *   3
-
-
-*    *   Gaildorf
-
-    *   2
+    *   III
 
 
-*    *   Geislingen an der Steige
+*    *   Gaildorf, Stadt
 
-    *   3
-
-
-*    *   Gengenbach
-
-    *   3
+    *   III
 
 
-*    *   Gerlingen
+*    *   Geislingen an der Steige, Stadt
 
-    *   4
+    *   II
 
 
-*    *   Gernsbach
+*    *   Gengenbach, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Gerlingen, Stadt
+
+    *   V
+
+
+*    *   Gernsbach, Stadt
+
+    *   III
 
 
 *    *   Gerstetten
 
-    *   2
+    *   II
 
 
-*    *   Giengen an der Brenz
+*    *   Giengen an der Brenz, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Göppingen
+*    *   Göppingen, Stadt
 
-    *   4
+    *   III
 
 
 *    *   Gottmadingen
 
-    *   3
+    *   III
 
 
 *    *   Graben-Neudorf
 
-    *   3
+    *   III
 
 
 *    *   Grenzach-Wyhlen
 
-    *   4
+    *   IV
 
 
 *    *   Gundelfingen
 
-    *   6
+    *   V
 
 
-*    *   Haigerloch
+*    *   Haigerloch, Stadt
 
-    *   1
+    *   I
 
 
-*    *   Hechingen
+*    *   Hechingen, Stadt
 
-    *   3
+    *   IV
 
 
 *    *   Heddesheim
 
-    *   3
+    *   IV
 
 
-*    *   Heidelberg
+*    *   Heidelberg, Stadt
 
-    *   5
-
-
-*    *   Heidenheim an der Brenz
-
-    *   3
+    *   V
 
 
-*    *   Heilbronn
+*    *   Heidenheim an der Brenz, Stadt
 
-    *   4
-
-
-*    *   Hemsbach
-
-    *   3
+    *   III
 
 
-*    *   Herbrechtingen
+*    *   Heilbronn, Stadt
 
-    *   2
-
-
-*    *   Herrenberg
-
-    *   5
+    *   IV
 
 
-*    *   Heubach
+*    *   Hemsbach, Stadt
 
-    *   3
-
-
-*    *   Hockenheim
-
-    *   4
+    *   IV
 
 
-*    *   Holzgerlingen
+*    *   Herbolzheim, Stadt
 
-    *   6
-
-
-*    *   Horb am Neckar
-
-    *   2
+    *   III
 
 
-*    *   Isny im Allgäu
+*    *   Herbrechtingen, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Herrenberg, Stadt
+
+    *   V
+
+
+*    *   Hockenheim, Stadt
+
+    *   IV
+
+
+*    *   Holzgerlingen, Stadt
+
+    *   VI
+
+
+*    *   Horb am Neckar, Stadt
+
+    *   III
+
+
+*    *   Isny im Allgäu, Stadt
+
+    *   III
 
 
 *    *   Karlsbad
 
-    *   3
+    *   III
 
 
-*    *   Karlsruhe
+*    *   Karlsdorf-Neuthard
 
-    *   4
+    *   III
 
 
-*    *   Kehl
+*    *   Karlsruhe, Stadt
 
-    *   3
+    *   IV
+
+
+*    *   Kehl, Stadt
+
+    *   III
 
 
 *    *   Kernen im Remstal
 
-    *   5
+    *   IV
 
 
 *    *   Ketsch
 
-    *   4
+    *   III
 
 
-*    *   Kirchheim unter Teck
+*    *   Kirchheim unter Teck, Stadt
 
-    *   4
+    *   V
 
 
-*    *   Konstanz
+*    *   Konstanz, Universitätsstadt
 
-    *   5
+    *   VI
 
 
 *    *   Korb
 
-    *   4
+    *   IV
 
 
-*    *   Korntal-Münchingen
+*    *   Korntal-Münchingen, Stadt
 
-    *   5
-
-
-*    *   Kornwestheim
-
-    *   5
+    *   VI
 
 
-*    *   Kraichtal
+*    *   Kornwestheim, Stadt
 
-    *   1
-
-
-*    *   Künzelsau
-
-    *   2
+    *   V
 
 
-*    *   Ladenburg
+*    *   Kraichtal, Stadt
 
-    *   3
-
-
-*    *   Lahr/Schwarzwald
-
-    *   2
+    *   II
 
 
-*    *   Laichingen
+*    *   Künzelsau, Stadt
 
-    *   2
-
-
-*    *   Langenau
-
-    *   3
+    *   II
 
 
-*    *   Lauda-Königshofen
+*    *   Ladenburg, Stadt
 
-    *   1
-
-
-*    *   Lauffen am Neckar
-
-    *   3
+    *   IV
 
 
-*    *   Laupheim
+*    *   Lahr/Schwarzwald, Stadt
 
-    *   3
-
-
-*    *   Leimen
-
-    *   5
+    *   III
 
 
-*    *   Leinfelden-Echterdingen
+*    *   Laichingen, Stadt
 
-    *   6
+    *   II
+
+
+*    *   Langenau, Stadt
+
+    *   III
+
+
+*    *   Lauda-Königshofen, Stadt
+
+    *   I
+
+
+*    *   Lauffen am Neckar, Stadt
+
+    *   III
+
+
+*    *   Laupheim, Stadt
+
+    *   III
+
+
+*    *   Leimen, Stadt
+
+    *   V
+
+
+*    *   Leinfelden-Echterdingen, Stadt
+
+    *   VI
 
 
 *    *   Leingarten
 
-    *   3
+    *   IV
 
 
-*    *   Leonberg
+*    *   Leonberg, Stadt
 
-    *   5
+    *   VI
 
 
 *    *   Leutenbach
 
-    *   4
+    *   IV
 
 
-*    *   Leutkirch im Allgäu
+*    *   Leutkirch im Allgäu, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Linkenheim-Hochstetten
 
-    *   2
+    *   III
 
 
-*    *   Lörrach
+*    *   Lorch, Stadt
 
-    *   4
-
-
-*    *   Lorch
-
-    *   2
+    *   III
 
 
-*    *   Ludwigsburg
+*    *   Lörrach, Stadt
 
-    *   5
+    *   IV
+
+
+*    *   Ludwigsburg, Stadt
+
+    *   V
 
 
 *    *   Malsch
 
-    *   2
+    *   III
 
 
-*    *   Mannheim
+*    *   Mannheim, Universitätsstadt
 
-    *   5
-
-
-*    *   Marbach am Neckar
-
-    *   5
+    *   V
 
 
-*    *   Markdorf
+*    *   Marbach am Neckar, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Markgröningen
+*    *   Markdorf, Stadt
 
-    *   5
+    *   IV
+
+
+*    *   Markgröningen, Stadt
+
+    *   V
 
 
 *    *   Meckenbeuren
 
-    *   3
+    *   IV
 
 
-*    *   Mengen
+*    *   Metzingen, Stadt
 
-    *   1
-
-
-*    *   Meßstetten
-
-    *   1
-
-
-*    *   Metzingen
-
-    *   3
+    *   III
 
 
 *    *   Möglingen
 
-    *   5
+    *   V
 
 
-*    *   Mössingen
+*    *   Mössingen, Stadt
 
-    *   3
-
-
-*    *   Mosbach
-
-    *   2
+    *   IV
 
 
-*    *   Mühlacker
+*    *   Mosbach, Stadt
 
-    *   3
-
-
-*    *   Müllheim
-
-    *   4
+    *   III
 
 
-*    *   Münsingen
+*    *   Mühlacker, Stadt
 
-    *   2
-
-
-*    *   Murrhardt
-
-    *   2
+    *   III
 
 
-*    *   Nagold
+*    *   Müllheim, Stadt
 
-    *   4
-
-
-*    *   Neckargemünd
-
-    *   4
+    *   IV
 
 
-*    *   Neckarsulm
+*    *   Münsingen, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Neuenburg am Rhein
+*    *   Murrhardt, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Nagold, Stadt
+
+    *   IV
+
+
+*    *   Neckargemünd, Stadt
+
+    *   V
+
+
+*    *   Neckarsulm, Stadt
+
+    *   IV
+
+
+*    *   Neuenburg am Rhein, Stadt
+
+    *   IV
 
 
 *    *   Neuhausen auf den Fildern
 
-    *   5
+    *   IV
 
 
 *    *   Niefern-Öschelbronn
 
-    *   3
+    *   IV
 
 
-*    *   Nürtingen
+*    *   Nürtingen, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Nußloch
 
-    *   4
+    *   V
 
 
 *    *   Oberderdingen
 
-    *   2
+    *   II
 
 
-*    *   Oberkirch
+*    *   Oberkirch, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Oberndorf am Neckar
+*    *   Oberndorf am Neckar, Stadt
 
-    *   1
+    *   II
 
 
 *    *   Obersulm
 
-    *   3
+    *   III
 
 
-*    *   Öhringen
+*    *   Öhringen, Stadt
 
-    *   3
-
-
-*    *   Östringen
-
-    *   2
+    *   IV
 
 
-*    *   Offenburg
+*    *   Östringen, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Offenburg, Stadt
+
+    *   III
 
 
 *    *   Oftersheim
 
-    *   3
+    *   IV
 
 
-*    *   Ostfildern
+*    *   Ostfildern, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Pfinztal
 
-    *   2
+    *   III
 
 
-*    *   Pforzheim
+*    *   Pforzheim, Stadt
 
-    *   3
-
-
-*    *   Pfullendorf
-
-    *   2
+    *   IV
 
 
-*    *   Pfullingen
+*    *   Pfullendorf, Stadt
 
-    *   4
-
-
-*    *   Philippsburg
-
-    *   3
+    *   II
 
 
-*    *   Plochingen
+*    *   Pfullingen, Stadt
 
-    *   4
-
-
-*    *   Radolfzell am Bodensee
-
-    *   3
+    *   IV
 
 
-*    *   Rastatt
+*    *   Philippsburg, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Ravensburg
+*    *   Plankstadt
 
-    *   4
+    *   III
+
+
+*    *   Plochingen, Stadt
+
+    *   V
+
+
+*    *   Radolfzell am Bodensee, Stadt
+
+    *   IV
+
+
+*    *   Rastatt, Stadt
+
+    *   III
+
+
+*    *   Ravensburg, Stadt
+
+    *   V
 
 
 *    *   Remchingen
 
-    *   3
+    *   III
 
 
 *    *   Remseck am Neckar
 
-    *   5
+    *   V
 
 
 *    *   Remshalden
 
-    *   3
+    *   IV
 
 
-*    *   Renningen
+*    *   Renningen, Stadt
 
-    *   5
-
-
-*    *   Reutlingen
-
-    *   3
+    *   V
 
 
-*    *   Rheinau
+*    *   Reutlingen, Stadt
 
-    *   1
+    *   IV
 
 
-*    *   Rheinfelden (Baden)
+*    *   Rheinau, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Rheinfelden (Baden), Stadt
+
+    *   IV
 
 
 *    *   Rheinstetten
 
-    *   4
+    *   IV
 
 
-*    *   Riedlingen
+*    *   Riedlingen, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Rielasingen-Worblingen
 
-    *   3
+    *   IV
 
 
-*    *   Rottenburg am Neckar
+*    *   Rottenburg am Neckar, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Rottweil
+*    *   Rottweil, Stadt
 
-    *   2
+    *   III
 
 
 *    *   Rudersberg
 
-    *   3
+    *   II
 
 
-*    *   Rutesheim
+*    *   Rutesheim, Stadt
 
-    *   5
+    *   V
 
 
-*    *   Sachsenheim
+*    *   Sachsenheim, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Salem
 
-    *   3
+    *   III
 
 
 *    *   Sandhausen
 
-    *   4
+    *   V
 
 
-*    *   Sankt Georgen im Schwarzwald
+*    *   St. Georgen i. Schwarzwald, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Sankt Leon-Rot
 
-    *   4
+    *   III
 
 
-*    *   Saulgau
+*    *   (Bad) Saulgau, Stadt
 
-    *   2
-
-
-*    *   Schopfheim
-
-    *   4
+    *   II
 
 
-*    *   Schorndorf
+*    *   Schopfheim, Stadt
 
-    *   3
-
-
-*    *   Schramberg
-
-    *   2
+    *   III
 
 
-*    *   Schriesheim
+*    *   Schorndorf, Stadt
 
-    *   4
-
-
-*    *   Schwäbisch Gmünd
-
-    *   3
+    *   IV
 
 
-*    *   Schwäbisch Hall
+*    *   Schramberg, Stadt
 
-    *   2
-
-
-*    *   Schwaigern
-
-    *   2
+    *   II
 
 
-*    *   Schwetzingen
+*    *   Schriesheim, Stadt
 
-    *   5
+    *   IV
+
+
+*    *   Schwäbisch Gmünd, Stadt
+
+    *   III
+
+
+*    *   Schwäbisch Hall, Stadt
+
+    *   II
+
+
+*    *   Schwaigern, Stadt
+
+    *   II
+
+
+*    *   Schwetzingen, Stadt
+
+    *   V
 
 
 *    *   Schwieberdingen
 
-    *   4
+    *   IV
 
 
-*    *   Sigmaringen
+*    *   Sigmaringen, Stadt
 
-    *   2
-
-
-*    *   Sindelfingen
-
-    *   5
+    *   II
 
 
-*    *   Singen (Hohentwiel)
+*    *   Sindelfingen, Stadt
 
-    *   3
+    *   V
 
 
-*    *   Sinsheim
+*    *   Singen (Hohentwiel), Stadt
 
-    *   2
+    *   IV
+
+
+*    *   Sinsheim, Stadt
+
+    *   III
 
 
 *    *   Sinzheim
 
-    *   2
+    *   II
 
 
-*    *   Spaichingen
+*    *   Spaichingen, Stadt
 
-    *   3
-
-
-*    *   Steinen
-
-    *   2
+    *   III
 
 
-*    *   Steinheim an der Murr
+*    *   Steinheim an der Murr, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Stockach
+*    *   Stockach, Stadt
 
-    *   2
+    *   III
 
 
 *    *   Straubenhardt
 
-    *   3
+    *   II
 
 
-*    *   Stutensee
+*    *   Stutensee, Stadt
 
-    *   3
-
-
-*    *   Stuttgart
-
-    *   6
+    *   III
 
 
-*    *   Süßen
+*    *   Stuttgart, Landeshauptstadt
 
-    *   3
+    *   VI
 
 
-*    *   Sulz am Neckar
+*    *   Sulz am Neckar, Stadt
 
-    *   1
+    *   II
 
 
 *    *   Tamm
 
-    *   5
+    *   V
 
 
-*    *   Tauberbischofsheim
+*    *   Tauberbischofsheim, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Teningen
 
-    *   4
+    *   III
 
 
-*    *   Tettnang
+*    *   Tettnang, Stadt
 
-    *   3
-
-
-*    *   Titisee-Neustadt
-
-    *   2
+    *   IV
 
 
-*    *   Trossingen
+*    *   Titisee-Neustadt, Stadt
 
-    *   3
-
-
-*    *   Tübingen
-
-    *   6
+    *   II
 
 
-*    *   Tuttlingen
+*    *   Trossingen, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Tübingen, Universitätsstadt
+
+    *   VI
+
+
+*    *   Tuttlingen, Stadt
+
+    *   III
 
 
 *    *   Ubstadt-Weiher
 
-    *   2
+    *   II
 
 
-*    *   Überlingen
+*    *   Überlingen, Stadt
 
-    *   4
-
-
-*    *   Uhingen
-
-    *   3
+    *   IV
 
 
-*    *   Ulm
+*    *   Uhingen, Stadt
 
-    *   3
-
-
-*    *   Vaihingen an der Enz
-
-    *   4
+    *   III
 
 
-*    *   Villingen-Schwenningen
+*    *   Ulm, Universitätsstadt
 
-    *   3
-
-
-*    *   Waghäusel
-
-    *   2
+    *   IV
 
 
-*    *   Waiblingen
+*    *   Vaihingen an der Enz, Stadt
 
-    *   5
+    *   III
+
+
+*    *   Villingen-Schwenningen, Stadt
+
+    *   III
+
+
+*    *   Waghäusel, Stadt
+
+    *   III
+
+
+*    *   Waiblingen, Stadt
+
+    *   V
 
 
 *    *   Waldbronn
 
-    *   4
+    *   IV
 
 
-*    *   Waldkirch
+*    *   Waldkirch, Stadt
 
-    *   4
-
-
-*    *   Waldshut-Tiengen
-
-    *   3
+    *   III
 
 
-*    *   Walldorf
+*    *   Waldshut-Tiengen, Stadt
 
-    *   3
-
-
-*    *   Walldürn
-
-    *   2
+    *   III
 
 
-*    *   Wangen im Allgäu
+*    *   Walldorf, Stadt
 
-    *   3
-
-
-*    *   Wehr
-
-    *   3
+    *   V
 
 
-*    *   Weil am Rhein
+*    *   Walldürn, Stadt
 
-    *   4
-
-
-*    *   Weil der Stadt
-
-    *   4
+    *   I
 
 
-*    *   Weingarten
+*    *   Wangen im Allgäu, Stadt
 
-    *   4
-
-
-*    *   Weinheim
-
-    *   4
+    *   III
 
 
-*    *   Weinsberg
+*    *   Wehr, Stadt
 
-    *   3
-
-
-*    *   Weinstadt
-
-    *   4
+    *   III
 
 
-*    *   Welzheim
+*    *   Weil am Rhein, Stadt
 
-    *   3
-
-
-*    *   Wendlingen am Neckar
-
-    *   4
+    *   IV
 
 
-*    *   Wernau (Neckar)
+*    *   Weil der Stadt, Stadt
 
-    *   3
-
-
-*    *   Wertheim
-
-    *   1
+    *   IV
 
 
-*    *   Wiesloch
+*    *   Weingarten (Baden)
 
-    *   4
-
-
-*    *   Wildberg
-
-    *   3
+    *   III
 
 
-*    *   Winnenden
+*    *   Weingarten, Stadt
 
-    *   4
+    *   V
 
+
+*    *   Weinheim, Stadt
+
+    *   IV
+
+
+*    *   Weinsberg, Stadt
+
+    *   III
+
+
+*    *   Weinstadt, Stadt
+
+    *   IV
+
+
+*    *   Welzheim, Stadt
+
+    *   III
+
+
+*    *   Wendlingen am Neckar, Stadt
+
+    *   IV
+
+
+*    *   Wernau (Neckar), Stadt
+
+    *   IV
+
+
+*    *   Wertheim, Stadt
+
+    *   II
+
+
+*    *   Wiesloch, Stadt
+
+    *   IV
+
+
+*    *   Winnenden, Stadt
+
+    *   V
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Alb-Donau-Kreis
 
-    *   2
-
-    *   Blaubeuren, Blaustein, Ehingen (Donau), Erbach,
-        Laichingen, Langenau
+    *   II
 
 
 *    *   Biberach
 
-    *   1
-
-    *   Biberach an der Riß, Laupheim, Riedlingen
+    *   I
 
 
 *    *   Bodenseekreis
 
-    *   3
-
-    *   Friedrichshafen, Markdorf, Meckenbeuren, Salem, Tettnang, Überlingen
+    *   IV
 
 
 *    *   Böblingen
 
-    *   4
-
-    *   Böblingen, Gärtringen, Herrenberg, Holzgerlingen,
-        Leonberg, Renningen, Rutesheim, Sindelfingen,
-        Weil der Stadt
+    *   IV
 
 
 *    *   Breisgau-Hochschwarzwald
 
-    *   3
-
-    *   Bad Krozingen, Breisach am Rhein, Gundelfingen, Müllheim, Neuenburg am
-        Rhein, Titisee-Neustadt
+    *   III
 
 
 *    *   Calw
 
-    *   3
-
-    *   Altensteig, Bad Wildbad im Schwarzwald, Calw,
-        Nagold, Wildberg
+    *   III
 
 
 *    *   Emmendingen
 
-    *   3
-
-    *   Denzlingen, Emmendingen, Teningen, Waldkirch
+    *   III
 
 
 *    *   Enzkreis
 
-    *   3
-
-    *   Birkenfeld, Mühlacker, Niefern-Öschelbronn,
-        Remchingen, Straubenhardt
+    *   III
 
 
 *    *   Esslingen
 
-    *   3
-
-    *   Denkendorf, Esslingen am Neckar, Filderstadt,
-        Kirchheim unter Teck, Neuhausen auf den Fildern, Leinfelden-
-        Echterdingen, Nürtingen, Plochingen, Wendlingen am Neckar, Wernau
-        (Neckar), Ostfildern
+    *   IV
 
 
 *    *   Freudenstadt
 
-    *   2
-
-    *   Baiersbronn, Freudenstadt, Horb am Neckar
+    *   II
 
 
 *    *   Göppingen
 
-    *   2
-
-    *   Donzdorf, Ebersbach an der Fils, Eislingen/Fils,
-        Geislingen an der Steige, Göppingen, Süßen, Uhingen
+    *   II
 
 
 *    *   Heidenheim
 
-    *   2
-
-    *   Gerstetten, Giengen an der Brenz, Heidenheim an der Brenz,
-        Herbrechtingen
+    *   II
 
 
 *    *   Heilbronn
 
-    *   2
-
-    *   Bad Friedrichshall, Bad Rappenau, Brackenheim,
-        Eppingen, Lauffen am Neckar, Leingarten,
-        Neckarsulm, Obersulm, Schwaigern, Weinsberg
+    *   II
 
 
 *    *   Hohenlohekreis
 
-    *   2
-
-    *   Bretzfeld, Künzelsau, Öhringen
+    *   I
 
 
 *    *   Karlsruhe
 
-    *   2
-
-    *   Bad Schönborn, Bretten, Bruchsal,
-        Eggenstein-Leopoldshafen, Ettlingen,
-        Graben-Neudorf, Karlsbad, Kraichtal,
-        Linkenheim-Hochstetten, Malsch, Oberderdingen, Östringen, Pfinztal,
-        Philippsburg, Rheinstetten,
-        Stutensee, Waghäusel, Waldbronn, Ubstadt-Weiher
+    *   III
 
 
 *    *   Konstanz
 
-    *   2
-
-    *   Engen, Gottmadingen, Konstanz, Radolfzell
-        am Bodensee, Rielasingen-Worblingen,
-        Singen (Hohentwiel), Stockach
+    *   III
 
 
 *    *   Lörrach
 
-    *   2
-
-    *   Grenzach-Wyhlen, Lörrach, Rheinfelden (Baden), Schopfheim, Steinen,
-        Weil am Rhein
+    *   III
 
 
 *    *   Ludwigsburg
 
-    *   3
-
-    *   Asperg, Besigheim, Bietigheim-Bissingen, Ditzingen, Freiberg am
-        Neckar, Gerlingen, Korntal-Münchingen, Kornwestheim, Ludwigsburg,
-        Marbach am Neckar, Markgröningen, Möglingen, Remseck am Neckar,
-        Sachsenheim, Schwieberdingen, Steinheim an der Murr, Tamm, Vaihingen
-        an der Enz
+    *   IV
 
 
 *    *   Main-Tauber-Kreis
 
-    *   1
-
-    *   Bad Mergentheim, Lauda-Königshofen,
-        Tauberbischofsheim, Wertheim
+    *   I
 
 
 *    *   Neckar-Odenwald-Kreis
 
-    *   1
-
-    *   Buchen (Odenwald), Mosbach, Walldürn
+    *   I
 
 
 *    *   Ortenaukreis
 
-    *   2
-
-    *   Achern, Ettenheim, Friesenheim, Gengenbach, Kehl,
-        Lahr/Schwarzwald, Oberkirch, Offenburg, Rheinau
+    *   II
 
 
 *    *   Ostalbkreis
 
-    *   2
-
-    *   Aalen, Bopfingen, Ellwangen (Jagst), Heubach, Lorch,
-        Schwäbisch Gmünd
+    *   II
 
 
 *    *   Rastatt
 
-    *   2
-
-    *   Bühl, Durmersheim, Gaggenau, Gernsbach, Rastatt, Sinzheim
+    *   II
 
 
 *    *   Ravensburg
 
-    *   2
-
-    *   Bad Waldsee, Bad Wurzach, Isny im Allgäu, Leutkirch im Allgäu,
-        Ravensburg, Wangen im Allgäu, Weingarten
+    *   II
 
 
 *    *   Rems-Murr-Kreis
 
-    *   3
-
-    *   Backnang, Fellbach, Kernen im Remstal, Korb,
-        Leutenbach, Murrhardt, Remshalden, Rudersberg, Schorndorf, Waiblingen,
-        Weinstadt, Welzheim,
-        Winnenden
+    *   III
 
 
 *    *   Reutlingen
 
-    *   2
-
-    *   Bad Urach, Eningen unter Achalm, Metzingen,
-        Münsingen, Pfullingen, Reutlingen
+    *   II
 
 
 *    *   Rhein-Neckar-Kreis
 
-    *   3
-
-    *   Brühl, Dossenheim, Eberbach,
-        Edingen-Neckarhausen, Eppelheim, Heddesheim, Hemsbach, Hockenheim,
-        Ketsch, Ladenburg, Leimen, Neckargemünd, Nußloch, Oftersheim,
-        Sandhausen, Sankt Leon-Rot, Schriesheim, Schwetzingen,
-        Sinsheim, Walldorf, Weinheim, Wiesloch
+    *   III
 
 
 *    *   Rottweil
 
-    *   1
-
-    *   Oberndorf am Neckar, Rottweil, Schramberg,
-        Sulz am Neckar
+    *   I
 
 
-*    *   Schwäbisch Hall
+*    *   Schwäbisch-Hall
 
-    *   1
-
-    *   Crailsheim, Gaildorf, Schwäbisch Hall
+    *   I
 
 
 *    *   Schwarzwald-Baar-Kreis
 
-    *   2
-
-    *   Bad Dürrheim, Blumberg, Donaueschingen, Sankt Georgen im Schwarzwald,
-        Villingen-Schwenningen
+    *   II
 
 
 *    *   Sigmaringen
 
-    *   1
-
-    *   Mengen, Pfullendorf, Saulgau, Sigmaringen
+    *   I
 
 
 *    *   Tübingen
 
-    *   3
-
-    *   Ammerbuch, Mössingen, Rottenburg am Neckar,
-        Tübingen
+    *   IV
 
 
 *    *   Tuttlingen
 
-    *   1
-
-    *   Spaichingen, Trossingen, Tuttlingen
+    *   II
 
 
 *    *   Waldshut
 
-    *   2
-
-    *   Bad Säckingen, Waldshut-Tiengen, Wehr
+    *   II
 
 
 *    *   Zollernalbkreis
 
-    *   1
-
-    *   Albstadt, Balingen, Burladingen, Haigerloch,
-        Hechingen, Meßstetten
+    *   I
 
 
 
 
-**Bayern**
+*Land:* **Bayern**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Abensberg
+*    *   Abensberg, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Aichach
+*    *   Aichach, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Ainring
+*    *   Altdorf, Markt
 
-    *   3
+    *   II
 
 
-*    *   Altdorf
+*    *   Altdorf bei Nürnberg, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Altdorf b. Nürnberg
+*    *   Altötting, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Altötting
+*    *   Alzenau i. Unterfranken, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Alzenau i. UFr.
+*    *   Amberg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Amberg
+*    *   Ansbach, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Ansbach
+*    *   Aschaffenburg, Stadt
 
-    *   2
+    *   IV
 
 
-*    *   Aschaffenburg
+*    *   Augsburg, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Augsburg
+*    *   Bad Abbach, Markt
 
-    *   4
+    *   III
 
 
-*    *   Bad Abbach
+*    *   Bad Aibling, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Bad Aibling
+*    *   Bad Kissingen, Stadt
 
-    *   5
+    *   II
 
 
-*    *   Bad Kissingen
+*    *   Bad Neustadt a. d. Saale, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Bad Neustadt a. d. Saale
+*    *   Bad Reichenhall, Stadt
 
-    *   1
+    *   IV
 
 
-*    *   Bad Reichenhall
+*    *   Bad Staffelstein, Stadt
 
-    *   4
+    *   I
 
 
-*    *   Bad Staffelstein
+*    *   Bad Tölz, Stadt
 
-    *   1
+    *   V
 
 
-*    *   Bad Tölz
+*    *   Bad Windsheim, Stadt
 
-    *   5
+    *   II
 
 
-*    *   Bad Windsheim
+*    *   Bad Wörishofen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bad Wörishofen
+*    *   Bamberg, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Bamberg
+*    *   Bayreuth, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Bayreuth
+*    *   Bobingen, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Bobingen
+*    *   Bruckmühl, Markt
 
-    *   3
+    *   IV
 
 
-*    *   Bogen
+*    *   Buchloe, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bruckmühl
+*    *   Burghausen, Stadt
 
-    *   4
-
-
-*    *   Buchloe
-
-    *   3
-
-
-*    *   Burghausen
-
-    *   2
+    *   III
 
 
 *    *   Burgkirchen a. d. Alz
 
-    *   2
+    *   I
 
 
-*    *   Burglengenfeld
+*    *   Burglengenfeld, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Burgthann
 
-    *   3
+    *   II
 
 
-*    *   Cadolzburg
+*    *   Cadolzburg, Markt
 
-    *   2
-
-
-*    *   Cham
-
-    *   1
+    *   II
 
 
-*    *   Coburg
+*    *   Cham, Stadt
 
-    *   2
-
-
-*    *   Dachau
-
-    *   6
+    *   I
 
 
-*    *   Deggendorf
+*    *   Coburg, Stadt
 
-    *   2
-
-
-*    *   Diedorf
-
-    *   4
+    *   II
 
 
-*    *   Dillingen a. d. Donau
+*    *   Dachau, Stadt
 
-    *   2
-
-
-*    *   Dingolfing
-
-    *   2
+    *   VI
 
 
-*    *   Dinkelsbühl
+*    *   Deggendorf, Stadt
 
-    *   1
-
-
-*    *   Donauwörth
-
-    *   1
+    *   II
 
 
-*    *   Dorfen
+*    *   Dießen a. Ammersee, Markt
 
-    *   4
+    *   IV
 
 
-*    *   Ebersberg
+*    *   Dillingen a. d. Donau, Stadt
 
-    *   5
+    *   II
+
+
+*    *   Dingolfing, Stadt
+
+    *   II
+
+
+*    *   Dinkelsbühl, Stadt
+
+    *   I
+
+
+*    *   Donauwörth, Stadt
+
+    *   I
+
+
+*    *   Dorfen, Stadt
+
+    *   IV
+
+
+*    *   Ebersberg, Stadt
+
+    *   VI
 
 
 *    *   Eching
 
-    *   6
+    *   VI
 
 
-*    *   Eckental
+*    *   Eckental, Markt
 
-    *   3
+    *   III
 
 
-*    *   Eggenfelden
+*    *   Eggenfelden, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Eichenau
 
-    *   6
+    *   VI
 
 
-*    *   Eichstätt
+*    *   Eichstätt, Stadt
 
-    *   2
-
-
-*    *   Erding
-
-    *   6
+    *   I
 
 
-*    *   Ergolding
+*    *   Erding, Stadt
 
-    *   3
-
-
-*    *   Erlangen
-
-    *   3
+    *   VI
 
 
-*    *   Erlenbach am Main
+*    *   Ergolding, Markt
 
-    *   2
+    *   II
 
 
-*    *   Essenbach
+*    *   Erlangen, Stadt
 
-    *   2
+    *   IV
+
+
+*    *   Essenbach, Markt
+
+    *   I
 
 
 *    *   Feldkirchen-Westerham
 
-    *   4
+    *   V
 
 
-*    *   Feucht
+*    *   Feucht, Markt
 
-    *   3
-
-
-*    *   Feuchtwangen
-
-    *   2
+    *   IV
 
 
-*    *   Forchheim
+*    *   Feuchtwangen, Stadt
 
-    *   2
-
-
-*    *   Freilassing
-
-    *   3
+    *   II
 
 
-*    *   Freising
+*    *   Forchheim, Stadt
 
-    *   6
-
-
-*    *   Friedberg
-
-    *   3
+    *   III
 
 
-*    *   Fürstenfeldbruck
+*    *   Freilassing, Stadt
 
-    *   6
-
-
-*    *   Fürth
-
-    *   3
+    *   IV
 
 
-*    *   Füssen
+*    *   Freising, Stadt
 
-    *   4
-
-
-*    *   Gaimersheim
-
-    *   3
+    *   VI
 
 
-*    *   Garching b. München
+*    *   Friedberg, Stadt
 
-    *   6
+    *   III
 
 
-*    *   Garmisch-Partenkirchen
+*    *   Fürstenfeldbruck, Stadt
 
-    *   6
+    *   VI
+
+
+*    *   Fürth, Stadt
+
+    *   III
+
+
+*    *   Füssen, Stadt
+
+    *   III
+
+
+*    *   Gaimersheim, Markt
+
+    *   III
+
+
+*    *   Garching bei München, Stadt
+
+    *   VI
+
+
+*    *   Garmisch-Partenkirchen, Markt
+
+    *   V
 
 
 *    *   Gauting
 
-    *   6
+    *   VI
 
 
-*    *   Gemünden a. Main
+*    *   Geisenfeld, Stadt
 
-    *   2
-
-
-*    *   Geretsried
-
-    *   4
+    *   II
 
 
-*    *   Germering
+*    *   Gemünden am Main, Stadt
 
-    *   6
+    *   I
 
 
-*    *   Gersthofen
+*    *   Geretsried, Stadt
 
-    *   4
+    *   IV
+
+
+*    *   Germering, Stadt
+
+    *   VI
+
+
+*    *   Gersthofen, Stadt
+
+    *   III
 
 
 *    *   Gilching
 
-    *   6
+    *   VI
 
 
 *    *   Gräfelfing
 
-    *   6
+    *   VI
 
 
-*    *   Grafing b. München
+*    *   Grafing bei München, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Gröbenzell
 
-    *   6
+    *   VI
 
 
-*    *   Großostheim
+*    *   Großostheim, Markt
 
-    *   2
+    *   III
 
 
 *    *   Grünwald
 
-    *   6
+    *   VI
 
 
-*    *   Günzburg
+*    *   Günzburg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Gunzenhausen
+*    *   Gunzenhausen, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Haar
 
-    *   6
+    *   VI
 
 
-*    *   Hammelburg
+*    *   Hallbergmoos
 
-    *   1
-
-
-*    *   Haßfurt
-
-    *   2
+    *   VI
 
 
-*    *   Hauzenberg
+*    *   Hammelburg, Stadt
 
-    *   1
-
-
-*    *   Hersbruck
-
-    *   3
+    *   I
 
 
-*    *   Herzogenaurach
+*    *   Haßfurt, Stadt
 
-    *   3
-
-
-*    *   Hilpoltstein
-
-    *   1
+    *   II
 
 
-*    *   Hirschaid
+*    *   Hauzenberg, Stadt
 
-    *   1
-
-
-*    *   Höchstadt a. d. Aisch
-
-    *   1
+    *   I
 
 
-*    *   Hösbach
+*    *   Herrsching a. Ammersee
 
-    *   2
-
-
-*    *   Hof
-
-    *   1
+    *   V
 
 
-*    *   Holzkirchen
+*    *   Hersbruck, Stadt
 
-    *   5
-
-
-*    *   Illertissen
-
-    *   2
+    *   III
 
 
-*    *   Immenstadt i. Allgäu
+*    *   Herzogenaurach, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Ingolstadt
+*    *   Hilpoltstein, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Hirschaid, Markt
+
+    *   II
+
+
+*    *   Höchstadt a. d. Aisch, Stadt
+
+    *   I
+
+
+*    *   Höhenkirchen-Siegertsbrunn
+
+    *   VI
+
+
+*    *   Hösbach, Markt
+
+    *   II
+
+
+*    *   Hof, Stadt
+
+    *   I
+
+
+*    *   Holzkirchen, Markt
+
+    *   V
+
+
+*    *   Illertissen, Stadt
+
+    *   II
+
+
+*    *   Immenstadt i. Allgäu, Stadt
+
+    *   III
+
+
+*    *   Ingolstadt, Stadt
+
+    *   III
 
 
 *    *   Ismaning
 
-    *   5
+    *   VI
 
 
 *    *   Karlsfeld
 
-    *   6
+    *   VI
 
 
-*    *   Karlstadt
+*    *   Karlstadt, Stadt
 
-    *   1
-
-
-*    *   Kaufbeuren
-
-    *   3
+    *   I
 
 
-*    *   Kelheim
+*    *   Kaufbeuren, Stadt
 
-    *   2
-
-
-*    *   Kempten (Allgäu)
-
-    *   3
+    *   II
 
 
-*    *   Kirchheim b. München
+*    *   Kaufering, Markt
 
-    *   6
+    *   IV
+
+
+*    *   Kelheim, Stadt
+
+    *   II
+
+
+*    *   Kempten (Allgäu), Stadt
+
+    *   III
+
+
+*    *   Kirchheim bei München
+
+    *   VI
+
+
+*    *   Kirchseeon, Markt
+
+    *   V
 
 
 *    *   Kissing
 
-    *   4
+    *   IV
 
 
-*    *   Kitzingen
+*    *   Kitzingen, Stadt
 
-    *   2
-
-
-*    *   Königsbrunn
-
-    *   4
+    *   II
 
 
-*    *   Kolbermoor
+*    *   Königsbrunn, Stadt
 
-    *   5
-
-
-*    *   Kronach
-
-    *   1
+    *   IV
 
 
-*    *   Krumbach (Schwaben)
+*    *   Kolbermoor, Stadt
 
-    *   1
-
-
-*    *   Kümmersbruck
-
-    *   1
+    *   V
 
 
-*    *   Kulmbach
+*    *   Kronach, Stadt
 
-    *   1
-
-
-*    *   Landau a. d. Isar
-
-    *   2
+    *   I
 
 
-*    *   Landsberg a. Lech
+*    *   Krumbach (Schwaben), Stadt
 
-    *   5
-
-
-*    *   Landshut
-
-    *   3
+    *   II
 
 
-*    *   Langenzenn
+*    *   Kulmbach, Stadt
 
-    *   2
-
-
-*    *   Lappersdorf
-
-    *   2
+    *   I
 
 
-*    *   Lauf a. d. Pegnitz
+*    *   Landau an der Isar, Stadt
 
-    *   3
-
-
-*    *   Lauingen (Donau)
-
-    *   1
+    *   I
 
 
-*    *   Lichtenfels
+*    *   Landsberg a. Lech, Stadt
 
-    *   1
-
-
-*    *   Lindau (Bodensee)
-
-    *   4
+    *   IV
 
 
-*    *   Lindenberg i. Allgäu
+*    *   Landshut, Stadt
 
-    *   2
-
-
-*    *   Lohr a. Main
-
-    *   1
+    *   III
 
 
-*    *   Mainburg
+*    *   Langenzenn, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Lappersdorf, Markt
+
+    *   III
+
+
+*    *   Lauf a. d. Pegnitz, Stadt
+
+    *   IV
+
+
+*    *   Lauingen (Donau), Stadt
+
+    *   I
+
+
+*    *   Lichtenfels, Stadt
+
+    *   I
+
+
+*    *   Lindau (Bodensee), Stadt
+
+    *   IV
+
+
+*    *   Lindenberg i. Allgäu, Stadt
+
+    *   III
+
+
+*    *   Lohr am Main, Stadt
+
+    *   II
+
+
+*    *   Mainburg, Stadt
+
+    *   II
 
 
 *    *   Maisach
 
-    *   6
+    *   VI
 
 
-*    *   Manching
+*    *   Manching, Markt
 
-    *   3
-
-
-*    *   Markt Schwaben
-
-    *   6
+    *   III
 
 
-*    *   Marktheidenfeld
+*    *   Markt Schwaben, Markt
 
-    *   2
-
-
-*    *   Marktoberdorf
-
-    *   2
+    *   VI
 
 
-*    *   Marktredwitz
+*    *   Marktheidenfeld, Stadt
 
-    *   1
-
-
-*    *   Maxhütte-Haidhof
-
-    *   1
+    *   II
 
 
-*    *   Meitingen
+*    *   Marktoberdorf, Stadt
 
-    *   2
-
-
-*    *   Memmingen
-
-    *   2
+    *   II
 
 
-*    *   Mering
+*    *   Marktredwitz, Stadt
 
-    *   4
-
-
-*    *   Miesbach
-
-    *   5
+    *   I
 
 
-*    *   Mindelheim
+*    *   Maxhütte-Haidhof, Stadt
 
-    *   2
-
-
-*    *   Mömbris
-
-    *   1
+    *   II
 
 
-*    *   Moosburg a. d. Isar
+*    *   Meitingen, Markt
 
-    *   4
-
-
-*    *   Mühldorf a. Inn
-
-    *   3
+    *   II
 
 
-*    *   Münchberg
+*    *   Memmingen, Stadt
 
-    *   1
-
-
-*    *   München
-
-    *   6
+    *   II
 
 
-*    *   Murnau a. Staffelsee
+*    *   Mering, Markt
 
-    *   6
+    *   IV
 
 
-*    *   Neu-Ulm
+*    *   Miesbach, Stadt
 
-    *   4
+    *   V
+
+
+*    *   Mindelheim, Stadt
+
+    *   II
+
+
+*    *   Mömbris, Markt
+
+    *   I
+
+
+*    *   Moosburg an der Isar, Stadt
+
+    *   V
+
+
+*    *   Mühldorf am Inn, Stadt
+
+    *   II
+
+
+*    *   Münchberg, Stadt
+
+    *   I
+
+
+*    *   München, Stadt
+
+    *   VI
+
+
+*    *   Murnau am Staffelsee, Markt
+
+    *   VI
 
 
 *    *   Neubiberg
 
-    *   5
+    *   VI
 
 
-*    *   Neuburg a. d. Donau
+*    *   Neuburg an der Donau, Stadt
 
-    *   3
-
-
-*    *   Neufahrn b. Freising
-
-    *   6
+    *   III
 
 
-*    *   Neumarkt i. d. OPf.
+*    *   Neufahrn bei Freising
 
-    *   2
-
-
-*    *   Neusäß
-
-    *   4
+    *   VI
 
 
-*    *   Neustadt a. d. Aisch
+*    *   Neumarkt i. d. Oberpfalz, Stadt
 
-    *   2
-
-
-*    *   Neustadt a. d. Donau
-
-    *   1
+    *   III
 
 
-*    *   Neustadt b. Coburg
+*    *   Neusäß, Stadt
 
-    *   1
-
-
-*    *   Neutraubling
-
-    *   4
+    *   IV
 
 
-*    *   Nördlingen
+*    *   Neustadt an der Aisch, Stadt
 
-    *   2
-
-
-*    *   Nürnberg
-
-    *   4
+    *   II
 
 
-*    *   Oberasbach
+*    *   Neustadt an der Donau, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Neustadt bei Coburg, Stadt
+
+    *   I
+
+
+*    *   Neutraubling, Stadt
+
+    *   III
+
+
+*    *   Neu-Ulm, Stadt
+
+    *   IV
+
+
+*    *   Nördlingen, Stadt
+
+    *   II
+
+
+*    *   Nürnberg, Stadt
+
+    *   IV
+
+
+*    *   Oberasbach, Stadt
+
+    *   III
 
 
 *    *   Oberhaching
 
-    *   6
+    *   VI
 
 
 *    *   Oberschleißheim
 
-    *   6
+    *   VI
 
 
-*    *   Ochsenfurt
+*    *   Ochsenfurt, Stadt
 
-    *   2
-
-
-*    *   Olching
-
-    *   6
+    *   I
 
 
-*    *   Osterhofen
+*    *   Olching, Stadt
 
-    *   2
+    *   VI
+
+
+*    *   Osterhofen, Stadt
+
+    *   I
 
 
 *    *   Ottobrunn
 
-    *   6
+    *   VI
 
 
-*    *   Passau
+*    *   Passau, Stadt
 
-    *   2
-
-
-*    *   Pegnitz
-
-    *   2
+    *   II
 
 
-*    *   Peißenberg
+*    *   Pegnitz, Stadt
 
-    *   3
-
-
-*    *   Peiting
-
-    *   3
+    *   II
 
 
-*    *   Penzberg
+*    *   Peißenberg, Markt
 
-    *   4
-
-
-*    *   Pfaffenhofen a. d. Ilm
-
-    *   4
+    *   IV
 
 
-*    *   Pfarrkirchen
+*    *   Peiting, Markt
 
-    *   1
+    *   II
+
+
+*    *   Penzberg, Stadt
+
+    *   V
+
+
+*    *   Pfaffenhofen a. d. Ilm, Stadt
+
+    *   IV
+
+
+*    *   Pfarrkirchen, Stadt
+
+    *   I
 
 
 *    *   Planegg
 
-    *   6
+    *   VI
 
 
-*    *   Plattling
+*    *   Plattling, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Pocking
+*    *   Pocking, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Poing
 
-    *   6
+    *   VI
 
 
-*    *   Prien am Chiemsee
+*    *   Prien am Chiemsee, Markt
 
-    *   4
+    *   V
 
 
-*    *   Puchheim
+*    *   Puchheim, Stadt
 
-    *   6
+    *   VI
 
 
 *    *   Raubling
 
-    *   4
+    *   IV
 
 
-*    *   Regen
+*    *   Regen, Stadt
 
-    *   1
+    *   I
 
 
-*    *   Regensburg
+*    *   Regensburg, Stadt
 
-    *   4
+    *   V
 
 
-*    *   Regenstauf
+*    *   Regenstauf, Markt
 
-    *   2
+    *   II
 
 
-*    *   Roding
+*    *   Roding, Stadt
 
-    *   1
+    *   I
 
 
-*    *   Rödental
+*    *   Rödental, Stadt
 
-    *   1
+    *   I
 
 
-*    *   Röthenbach a. d. Pegnitz
+*    *   Röthenbach a. d. Pegnitz, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Rosenheim
+*    *   Rosenheim, Stadt
 
-    *   5
+    *   V
 
 
-*    *   Roßtal
+*    *   Roth, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Roth
+*    *   Rothenburg ob der Tauber, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Rothenburg ob der Tauber
+*    *   Schongau, Stadt
 
-    *   1
+    *   III
 
 
-*    *   Schongau
+*    *   Schrobenhausen, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Schrobenhausen
+*    *   Schwabach, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Schwabach
+*    *   Schwabmünchen, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Schwabmünchen
+*    *   Schwandorf, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Schwandorf
+*    *   Schweinfurt, Stadt
 
-    *   1
+    *   II
 
 
-*    *   Schweinfurt
+*    *   Selb, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Selb
+*    *   Senden, Stadt
 
-    *   1
+    *   IV
 
 
-*    *   Senden
+*    *   Sonthofen, Stadt
 
-    *   4
+    *   III
 
 
-*    *   Simbach a. Inn
+*    *   Stadtbergen, Stadt
 
-    *   1
+    *   IV
 
 
-*    *   Sonthofen
+*    *   Starnberg, Stadt
 
-    *   3
+    *   VI
 
 
-*    *   Stadtbergen
+*    *   Stein, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Starnberg
+*    *   Stephanskirchen
 
-    *   6
+    *   IV
 
 
-*    *   Stein
+*    *   Straubing, Stadt
 
-    *   4
+    *   II
 
 
-*    *   Straubing
+*    *   Sulzbach-Rosenberg, Stadt
 
-    *   2
-
-
-*    *   Sulzbach-Rosenberg
-
-    *   1
+    *   I
 
 
 *    *   Taufkirchen
 
-    *   3
+    *   III
 
 
-*    *   Traunreut
+*    *   Traunreut, Stadt
 
-    *   3
-
-
-*    *   Traunstein
-
-    *   3
+    *   III
 
 
-*    *   Treuchtlingen
+*    *   Traunstein, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Trostberg
+*    *   Treuchtlingen, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Trostberg, Stadt
+
+    *   II
+
+
+*    *   Unterföhring
+
+    *   VI
 
 
 *    *   Unterhaching
 
-    *   6
+    *   VI
 
 
-*    *   Unterschleißheim
+*    *   Unterschleißheim, Stadt
 
-    *   6
+    *   VI
 
 
 *    *   Vaterstetten
 
-    *   6
+    *   VI
 
 
-*    *   Veitshöchheim
+*    *   Vilsbiburg, Stadt
 
-    *   4
-
-
-*    *   Vilsbiburg
-
-    *   1
+    *   I
 
 
-*    *   Vilshofen
+*    *   Vilshofen a. d. Donau, Stadt
 
-    *   1
-
-
-*    *   Vöhringen
-
-    *   3
+    *   I
 
 
-*    *   Waldkirchen
+*    *   Vöhringen, Stadt
 
-    *   1
-
-
-*    *   Waldkraiburg
-
-    *   2
+    *   III
 
 
-*    *   Wasserburg a. Inn
+*    *   Waldkirchen, Stadt
 
-    *   4
-
-
-*    *   Weiden i. d. OPf.
-
-    *   2
+    *   I
 
 
-*    *   Weilheim i. OB
+*    *   Waldkraiburg, Stadt
 
-    *   5
-
-
-*    *   Weißenburg i. Bay.
-
-    *   2
+    *   II
 
 
-*    *   Weißenhorn
+*    *   Wasserburg am Inn, Stadt
 
-    *   3
-
-
-*    *   Wendelstein
-
-    *   3
+    *   IV
 
 
-*    *   Werneck
+*    *   Weiden i. d. Oberpfalz, Stadt
 
-    *   1
-
-
-*    *   Wolfratshausen
-
-    *   6
+    *   I
 
 
-*    *   Wolnzach
+*    *   Weilheim i. Oberbayern, Stadt
 
-    *   1
-
-
-*    *   Würzburg
-
-    *   4
+    *   IV
 
 
-*    *   Wunsiedel
+*    *   Weißenburg i. Bayern, Stadt
 
-    *   1
-
-
-*    *   Zirndorf
-
-    *   3
+    *   I
 
 
-*    *   Zwiesel
+*    *   Weißenhorn, Stadt
 
-    *   1
+    *   III
 
+
+*    *   Wendelstein, Markt
+
+    *   IV
+
+
+*    *   Werneck, Markt
+
+    *   I
+
+
+*    *   Wolfratshausen, Stadt
+
+    *   V
+
+
+*    *   Wolnzach, Markt
+
+    *   II
+
+
+*    *   Würzburg, Stadt
+
+    *   IV
+
+
+*    *   Zirndorf, Stadt
+
+    *   II
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Aichach-Friedberg
 
-    *   2
-
-    *   Aichach, Friedberg, Kissing, Mering
+    *   I
 
 
 *    *   Altötting
 
-    *   2
-
-    *   Altötting, Burghausen, Burgkirchen a. d. Alz
+    *   I
 
 
 *    *   Amberg-Sulzbach
 
-    *   1
-
-    *   Kümmersbruck, Sulzbach-Rosenberg
+    *   I
 
 
 *    *   Ansbach
 
-    *   1
-
-    *   Dinkelsbühl, Feuchtwangen,
-        Rothenburg ob der Tauber
+    *   I
 
 
 *    *   Aschaffenburg
 
-    *   2
-
-    *   Alzenau i. UFr., Großostheim, Hösbach, Mömbris
+    *   II
 
 
 *    *   Augsburg
 
-    *   2
-
-    *   Bobingen, Diedorf, Gersthofen, Königsbrunn,
-        Meitingen, Neusäß, Schwabmünchen, Stadtbergen
+    *   II
 
 
 *    *   Bad Kissingen
 
-    *   1
-
-    *   Bad Kissingen, Hammelburg
+    *   I
 
 
 *    *   Bad Tölz-Wolfratshausen
 
-    *   4
-
-    *   Bad Tölz, Geretsried, Wolfratshausen
+    *   IV
 
 
 *    *   Bamberg
 
-    *   1
-
-    *   Hirschaid
+    *   I
 
 
 *    *   Bayreuth
 
-    *   1
-
-    *   Pegnitz
+    *   I
 
 
 *    *   Berchtesgadener Land
 
-    *   3
-
-    *   Ainring, Bad Reichenhall, Freilassing
+    *   III
 
 
 *    *   Cham
 
-    *   1
-
-    *   Cham, Roding
+    *   I
 
 
 *    *   Coburg
 
-    *   1
-
-    *   Neustadt b. Coburg, Rödental
+    *   I
 
 
 *    *   Dachau
 
-    *   5
-
-    *   Dachau, Karlsfeld
+    *   V
 
 
 *    *   Deggendorf
 
-    *   1
-
-    *   Deggendorf, Osterhofen, Plattling
+    *   I
 
 
 *    *   Dillingen a. d. Donau
 
-    *   1
-
-    *   Dillingen a. d. Donau, Lauingen (Donau)
+    *   I
 
 
 *    *   Dingolfing-Landau
 
-    *   1
-
-    *   Dingolfing, Landau a. d. Isar
+    *   I
 
 
 *    *   Donau-Ries
 
-    *   1
-
-    *   Donauwörth, Nördlingen
+    *   I
 
 
 *    *   Ebersberg
 
-    *   5
-
-    *   Ebersberg, Grafing b. München, Markt Schwaben, Poing, Vaterstetten
+    *   VI
 
 
 *    *   Eichstätt
 
-    *   1
-
-    *   Eichstätt, Gaimersheim
+    *   I
 
 
 *    *   Erding
 
-    *   4
-
-    *   Dorfen, Erding
+    *   IV
 
 
 *    *   Erlangen-Höchstadt
 
-    *   2
-
-    *   Eckental, Herzogenaurach, Höchstadt a. d. Aisch
+    *   III
 
 
 *    *   Forchheim
 
-    *   1
-
-    *   Forchheim
+    *   I
 
 
 *    *   Freising
 
-    *   4
-
-    *   Eching, Freising, Moosburg a. d. Isar,
-        Neufahrn b. Freising
+    *   IV
 
 
 *    *   Freyung-Grafenau
 
-    *   1
+    *   I
 
-    *   Waldkirchen
+
+*    *   Fürth
+
+    *   III
 
 
 *    *   Fürstenfeldbruck
 
-    *   5
-
-    *   Eichenau, Fürstenfeldbruck, Germering, Gröbenzell, Maisach, Olching,
-        Puchheim
-
-
-*    *   Fürth
-
-    *   2
-
-    *   Cadolzburg, Langenzenn, Oberasbach, Roßtal, Stein, Zirndorf
+    *   V
 
 
 *    *   Garmisch-Partenkirchen
 
-    *   5
-
-    *   Garmisch-Partenkirchen, Murnau a. Staffelsee
+    *   V
 
 
 *    *   Günzburg
 
-    *   2
-
-    *   Günzburg, Krumbach (Schwaben)
+    *   I
 
 
 *    *   Haßberge
 
-    *   1
-
-    *   Haßfurt
+    *   I
 
 
 *    *   Hof
 
-    *   1
-
-    *   Münchberg
+    *   I
 
 
 *    *   Kelheim
 
-    *   1
-
-    *   Abensberg, Bad Abbach, Kelheim, Mainburg,
-        Neustadt a. d. Donau
+    *   I
 
 
 *    *   Kitzingen
 
-    *   1
-
-    *   Kitzingen
+    *   I
 
 
 *    *   Kronach
 
-    *   1
-
-    *   Kronach
+    *   I
 
 
 *    *   Kulmbach
 
-    *   1
-
-    *   Kulmbach
+    *   I
 
 
 *    *   Landsberg a. Lech
 
-    *   3
-
-    *   Landsberg a. Lech
+    *   III
 
 
 *    *   Landshut
 
-    *   1
-
-    *   Altdorf, Ergolding, Essenbach, Vilsbiburg
+    *   I
 
 
 *    *   Lichtenfels
 
-    *   1
-
-    *   Bad Staffelstein, Lichtenfels
+    *   I
 
 
 *    *   Lindau (Bodensee)
 
-    *   2
-
-    *   Lindau (Bodensee), Lindenberg i. Allgäu
+    *   I
 
 
 *    *   Main-Spessart
 
-    *   1
-
-    *   Gemünden a. Main, Karlstadt, Lohr a. Main,
-        Marktheidenfeld
+    *   I
 
 
 *    *   Miesbach
 
-    *   4
-
-    *   Holzkirchen, Miesbach
+    *   IV
 
 
 *    *   Miltenberg
 
-    *   2
-
-    *   Erlenbach am Main
+    *   II
 
 
 *    *   Mühldorf a. Inn
 
-    *   1
-
-    *   Mühldorf a. Inn, Waldkraiburg
+    *   II
 
 
 *    *   München
 
-    *   6
-
-    *   Garching b. München, Gräfelfing, Grünwald, Haar,
-        Ismaning, Kirchheim b. München, Neubiberg,
-        Oberhaching, Oberschleißheim, Ottobrunn, Planegg, Taufkirchen,
-        Unterhaching, Unterschleißheim
-
-
-*    *   Neu-Ulm
-
-    *   1
-
-    *   Illertissen, Neu-Ulm, Senden, Vöhringen, Weißenhorn
+    *   VI
 
 
 *    *   Neuburg-Schrobenhausen
 
-    *   1
-
-    *   Neuburg a. d. Donau, Schrobenhausen
+    *   I
 
 
-*    *   Neumarkt i. d. OPf.
+*    *   Neumarkt i. d. Oberpfalz
 
-    *   1
-
-    *   Neumarkt i. d. OPf.
+    *   I
 
 
 *    *   Neustadt a. d. Aisch-Bad Windsheim
 
-    *   1
-
-    *   Bad Windsheim, Neustadt a. d. Aisch
+    *   I
 
 
 *    *   Neustadt a. d. Waldnaab
 
-    *   1
+    *   I
 
-    *   --
+
+*    *   Neu-Ulm
+
+    *   II
 
 
 *    *   Nürnberger Land
 
-    *   2
-
-    *   Altdorf b. Nürnberg, Burgthann, Feucht, Hersbruck,
-        Lauf a. d. Pegnitz, Röthenbach a. d. Pegnitz
+    *   II
 
 
 *    *   Oberallgäu
 
-    *   3
-
-    *   Immenstadt i. Allgäu, Sonthofen
+    *   II
 
 
 *    *   Ostallgäu
 
-    *   1
-
-    *   Buchloe, Füssen, Marktoberdorf
+    *   II
 
 
 *    *   Passau
 
-    *   1
-
-    *   Hauzenberg, Pocking, Vilshofen
+    *   I
 
 
 *    *   Pfaffenhofen a. d. Ilm
 
-    *   2
-
-    *   Manching, Pfaffenhofen a. d. Ilm, Wolnzach
+    *   III
 
 
 *    *   Regen
 
-    *   1
-
-    *   Regen, Zwiesel
+    *   I
 
 
 *    *   Regensburg
 
-    *   2
-
-    *   Lappersdorf, Neutraubling, Regenstauf
+    *   II
 
 
 *    *   Rhön-Grabfeld
 
-    *   1
-
-    *   Bad Neustadt a. d. Saale
+    *   I
 
 
 *    *   Rosenheim
 
-    *   4
-
-    *   Bad Aibling, Bruckmühl, Feldkirchen-Westerham,
-        Kolbermoor, Prien am Chiemsee, Raubling,
-        Wasserburg a. Inn
+    *   IV
 
 
 *    *   Roth
 
-    *   2
-
-    *   Hilpoltstein, Roth, Wendelstein
+    *   II
 
 
 *    *   Rottal-Inn
 
-    *   1
-
-    *   Eggenfelden, Pfarrkirchen, Simbach a. Inn
+    *   I
 
 
 *    *   Schwandorf
 
-    *   1
-
-    *   Burglengenfeld, Maxhütte-Haidhof, Schwandorf
+    *   I
 
 
 *    *   Schweinfurt
 
-    *   1
-
-    *   Werneck
+    *   I
 
 
 *    *   Starnberg
 
-    *   6
-
-    *   Gauting, Gilching, Starnberg
+    *   VI
 
 
 *    *   Straubing-Bogen
 
-    *   1
-
-    *   Bogen
+    *   I
 
 
 *    *   Tirschenreuth
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Traunstein
 
-    *   2
-
-    *   Traunreut, Traunstein, Trostberg
+    *   II
 
 
 *    *   Unterallgäu
 
-    *   1
-
-    *   Bad Wörishofen, Mindelheim
+    *   I
 
 
 *    *   Weilheim-Schongau
 
-    *   3
-
-    *   Peißenberg, Peiting, Penzberg, Schongau,
-        Weilheim i. OB
+    *   III
 
 
 *    *   Weißenburg-Gunzenhausen
 
-    *   1
-
-    *   Gunzenhausen, Treuchtlingen, Weißenburg i. Bay.
+    *   I
 
 
 *    *   Würzburg
 
-    *   2
-
-    *   Ochsenfurt, Veitshöchheim
+    *   II
 
 
-*    *   Wunsiedel i. Fichtelgebirge
+*    *   Wunsiedel im Fichtelgebirge
 
-    *   1
-
-    *   Marktredwitz, Selb, Wunsiedel
+    *   I
 
 
 
 
-**Berlin**
+*Land:* **Berlin**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Berlin
+*    *   Berlin, Stadt
 
-    *   4
-
-
+    *   IV
 
 
-**Brandenburg**
+
+
+*Land:* **Brandenburg**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Ahrensfelde-Blumberg
+*    *   Ahrensfelde
 
-    *   3
-
-
-*    *   Angermünde
-
-    *   2
+    *   IV
 
 
-*    *   Bad Freienwalde (Oder)
+*    *   Angermünde, Stadt
 
-    *   2
-
-
-*    *   Bad Liebenwerda
-
-    *   1
+    *   II
 
 
-*    *   Beelitz
+*    *   Bad Belzig
 
-    *   2
-
-
-*    *   Belzig
-
-    *   2
+    *   III
 
 
-*    *   Bernau bei Berlin
+*    *   Bad Freienwalde (Oder), Stadt
 
-    *   3
+    *   II
+
+
+*    *   Beelitz, Stadt
+
+    *   II
+
+
+*    *   Bernau bei Berlin, Stadt
+
+    *   III
 
 
 *    *   Blankenfelde-Mahlow
 
-    *   4
+    *   IV
 
 
-*    *   Brandenburg an der Havel
+*    *   Brandenburg a. d. Havel, Stadt
 
-    *   3
+    *   II
 
 
 *    *   Brieselang
 
-    *   4
+    *   III
 
 
-*    *   Cottbus
+*    *   Cottbus, Stadt
 
-    *   2
-
-
-*    *   Eberswalde
-
-    *   2
+    *   II
 
 
-*    *   Eisenhüttenstadt
+*    *   Eberswalde, Stadt
 
-    *   2
-
-
-*    *   Erkner
-
-    *   3
+    *   III
 
 
-*    *   Falkensee
+*    *   Eisenhüttenstadt, Stadt
 
-    *   4
-
-
-*    *   Finsterwalde
-
-    *   2
+    *   III
 
 
-*    *   Forst (Lausitz)
+*    *   Erkner, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Frankfurt (Oder)
+*    *   Falkensee, Stadt
 
-    *   3
+    *   V
+
+
+*    *   Finsterwalde, Stadt
+
+    *   II
+
+
+*    *   Forst (Lausitz), Stadt
+
+    *   II
+
+
+*    *   Frankfurt (Oder), Stadt
+
+    *   III
 
 
 *    *   Fredersdorf-Vogelsdorf
 
-    *   3
+    *   IV
 
 
-*    *   Fürstenwalde/Spree
+*    *   Fürstenwalde/Spree, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Glienicke/Nordbahn
 
-    *   4
+    *   V
 
 
-*    *   Großräschen
+*    *   Guben, Stadt
 
-    *   1
-
-
-*    *   Guben
-
-    *   3
+    *   II
 
 
-*    *   Hennigsdorf
+*    *   Hennigsdorf, Stadt
 
-    *   3
-
-
-*    *   Herzberg (Elster)
-
-    *   2
+    *   III
 
 
 *    *   Hohen Neuendorf
 
-    *   4
+    *   IV
 
 
 *    *   Hoppegarten
 
-    *   4
+    *   V
 
 
-*    *   Jüterbog
+*    *   Jüterbog, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Kleinmachnow
 
-    *   4
+    *   V
 
 
 *    *   Kloster Lehnin
 
-    *   3
+    *   II
 
 
-*    *   Königs Wusterhausen
+*    *   Königs Wusterhausen, Stadt
 
-    *   3
-
-
-*    *   Lauchhammer
-
-    *   3
+    *   III
 
 
-*    *   Luckau
+*    *   Lauchhammer, Stadt
 
-    *   2
-
-
-*    *   Luckenwalde
-
-    *   2
+    *   II
 
 
-*    *   Ludwigsfelde
+*    *   Lübben/Spreewald, Stadt
 
-    *   3
-
-
-*    *   Lübben/Spreewald
-
-    *   3
+    *   III
 
 
-*    *   Lübbenau/Spreewald
+*    *   Lübbenau/Spreewald, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Luckenwalde, Stadt
+
+    *   II
+
+
+*    *   Ludwigsfelde, Stadt
+
+    *   III
 
 
 *    *   Michendorf
 
-    *   4
+    *   V
 
 
 *    *   Mühlenbecker Land
 
-    *   4
+    *   III
 
 
-*    *   Nauen
+*    *   Nauen, Stadt
 
-    *   3
+    *   II
 
 
 *    *   Neuenhagen bei Berlin
 
-    *   4
+    *   IV
 
 
-*    *   Neuruppin
+*    *   Neuruppin, Fontanestadt
 
-    *   2
+    *   II
 
 
 *    *   Oberkrämer
 
-    *   2
+    *   II
 
 
-*    *   Oranienburg
+*    *   Oranienburg, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Panketal
 
-    *   3
+    *   IV
 
 
-*    *   Perleberg
+*    *   Perleberg, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Petershagen/Eggersdorf
 
-    *   3
+    *   III
 
 
-*    *   Potsdam
+*    *   Potsdam, Stadt
 
-    *   4
-
-
-*    *   Prenzlau
-
-    *   3
+    *   IV
 
 
-*    *   Pritzwalk
+*    *   Prenzlau, Stadt
 
-    *   1
-
-
-*    *   Rathenow
-
-    *   3
+    *   III
 
 
-*    *   Rüdersdorf b. Bln.
+*    *   Pritzwalk, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Rangsdorf
+
+    *   IV
+
+
+*    *   Rathenow, Stadt
+
+    *   II
+
+
+*    *   Rüdersdorf bei Berlin
+
+    *   II
 
 
 *    *   Schönefeld
 
-    *   5
+    *   IV
 
 
-*    *   Schöneiche b. Berlin
+*    *   Schöneiche bei Berlin
 
-    *   4
-
-
-*    *   Schorfheide
-
-    *   2
+    *   IV
 
 
-*    *   Schwedt/Oder
+*    *   Schwedt/Oder, Stadt
 
-    *   2
-
-
-*    *   Senftenberg
-
-    *   3
+    *   II
 
 
-*    *   Spremberg
+*    *   Schwielowsee
 
-    *   3
+    *   IV
+
+
+*    *   Senftenberg, Stadt
+
+    *   III
+
+
+*    *   Spremberg, Stadt
+
+    *   II
 
 
 *    *   Stahnsdorf
 
-    *   3
+    *   IV
 
 
-*    *   Strausberg
+*    *   Strausberg, Stadt
 
-    *   3
-
-
-*    *   Teltow
-
-    *   4
+    *   III
 
 
-*    *   Templin
+*    *   Teltow, Stadt
 
-    *   2
+    *   IV
 
 
-*    *   Velten
+*    *   Templin, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Velten, Stadt
+
+    *   III
 
 
 *    *   Wandlitz
 
-    *   2
+    *   II
 
 
-*    *   Werder (Havel)
+*    *   Werder (Havel), Stadt
 
-    *   4
-
-
-*    *   Wittenberge
-
-    *   2
+    *   IV
 
 
-*    *   Wittstock/Dosse
+*    *   Wittenberge, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Zehdenick
+*    *   Wittstock/Dosse, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Zehdenick, Stadt
+
+    *   I
 
 
 *    *   Zeuthen
 
-    *   3
+    *   II
 
 
 *    *   Zossen
 
-    *   2
-
+    *   II
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Barnim
 
-    *   2
-
-    *   Ahrensfelde-Blumberg, Bernau bei Berlin, Eberswalde,
-        Panketal, Schorfheide, Wandlitz
+    *   II
 
 
 *    *   Dahme-Spreewald
 
-    *   3
-
-    *   Königs Wusterhausen, Lübben/Spreewald, Luckau, Schönefeld, Zeuthen
+    *   II
 
 
 *    *   Elbe-Elster
 
-    *   1
-
-    *   Bad Liebenwerda, Finsterwalde, Herzberg (Elster)
+    *   I
 
 
 *    *   Havelland
 
-    *   2
-
-    *   Brieselang, Falkensee, Nauen, Rathenow
+    *   II
 
 
 *    *   Märkisch-Oderland
 
-    *   2
-
-    *   Bad Freienwalde (Oder), Fredersdorf-Vogelsdorf,
-        Hoppegarten, Neuenhagen bei Berlin,
-        Petershagen/Eggersdorf, Rüdersdorf b. Bln.,
-        Strausberg
+    *   I
 
 
 *    *   Oberhavel
 
-    *   2
-
-    *   Glienicke/Nordbahn, Hennigsdorf, Hohen Neuendorf,
-        Mühlenbecker Land, Oberkrämer, Oranienburg, Velten,
-        Zehdenick
+    *   II
 
 
 *    *   Oberspreewald-Lausitz
 
-    *   2
-
-    *   Großräschen, Lauchhammer, Lübbenau/Spreewald,
-        Senftenberg
+    *   II
 
 
 *    *   Oder-Spree
 
-    *   2
-
-    *   Eisenhüttenstadt, Erkner, Fürstenwalde/Spree,
-        Schöneiche b. Berlin
+    *   II
 
 
 *    *   Ostprignitz-Ruppin
 
-    *   2
-
-    *   Neuruppin, Wittstock/Dosse
+    *   II
 
 
 *    *   Potsdam-Mittelmark
 
-    *   2
-
-    *   Beelitz, Belzig, Kleinmachnow, Kloster Lehnin,
-        Michendorf, Stahnsdorf, Teltow, Werder (Havel)
+    *   II
 
 
 *    *   Prignitz
 
-    *   1
-
-    *   Perleberg, Pritzwalk, Wittenberge
+    *   I
 
 
 *    *   Spree-Neiße
 
-    *   1
-
-    *   Forst (Lausitz), Guben, Spremberg
+    *   I
 
 
 *    *   Teltow-Fläming
 
-    *   2
-
-    *   Blankenfelde-Mahlow, Jüterbog, Luckenwalde,
-        Ludwigsfelde, Zossen
+    *   II
 
 
 *    *   Uckermark
 
-    *   1
-
-    *   Angermünde, Prenzlau, Schwedt/Oder, Templin
+    *   I
 
 
 
 
-**Bremen**
+*Land:* **Bremen**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Bremen
+*    *   Bremen, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Bremerhaven
 
-    *   3
+    *   III
 
 
 
 
-**Hamburg**
-
-*    *   Gemeinde
-
-    *   Mieten-
-        stufe
-
-
-*    *   Hamburg
-
-    *   5
-
-
-
-
-**Hessen**
+*Land:* **Hamburg**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Alsfeld
+*    *   Hamburg, Freie und Hansestadt
 
-    *   2
+    *   VI
+
+
+
+
+*Land:* **Hessen**
+
+*    *   Gemeinde
+
+    *   Mietenstufe
+
+
+*    *   Alsfeld, Stadt
+
+    *   II
 
 
 *    *   Altenstadt
 
-    *   4
+    *   III
 
 
-*    *   Aßlar
+*    *   Aßlar, Stadt
 
-    *   3
-
-
-*    *   Babenhausen
-
-    *   4
+    *   III
 
 
-*    *   Bad Arolsen
+*    *   Babenhausen, Stadt
 
-    *   1
-
-
-*    *   Bad Camberg
-
-    *   3
+    *   III
 
 
-*    *   Bad Hersfeld
+*    *   Bad Arolsen, Stadt
 
-    *   2
-
-
-*    *   Bad Homburg v. d. Höhe
-
-    *   6
+    *   I
 
 
-*    *   Bad Nauheim
+*    *   Bad Camberg, Stadt
 
-    *   5
-
-
-*    *   Bad Schwalbach
-
-    *   4
+    *   III
 
 
-*    *   Bad Soden am Taunus
+*    *   Bad Hersfeld, Kreisstadt
 
-    *   5
-
-
-*    *   Bad Soden-Salmünster
-
-    *   2
+    *   II
 
 
-*    *   Bad Vilbel
+*    *   Bad Homburg v. d. Höhe, Stadt
 
-    *   5
-
-
-*    *   Bad Wildungen
-
-    *   2
+    *   VI
 
 
-*    *   Baunatal
+*    *   Bad Nauheim, Stadt
 
-    *   2
-
-
-*    *   Bebra
-
-    *   1
+    *   IV
 
 
-*    *   Bensheim
+*    *   Bad Schwalbach, Kreisstadt
 
-    *   4
-
-
-*    *   Biebertal
-
-    *   3
+    *   IV
 
 
-*    *   Biedenkopf
+*    *   Bad Soden am Taunus, Stadt
 
-    *   1
+    *   V
+
+
+*    *   Bad Soden-Salmünster, Stadt
+
+    *   II
+
+
+*    *   Bad Vilbel, Stadt
+
+    *   V
+
+
+*    *   Bad Wildungen, Stadt
+
+    *   II
+
+
+*    *   Baunatal, Stadt
+
+    *   II
+
+
+*    *   Bebra, Stadt
+
+    *   I
+
+
+*    *   Bensheim, Stadt
+
+    *   IV
+
+
+*    *   Biedenkopf, Stadt
+
+    *   I
 
 
 *    *   Birkenau
 
-    *   2
+    *   II
 
 
 *    *   Bischofsheim
 
-    *   4
+    *   IV
 
 
-*    *   Borken (Hessen)
+*    *   Borken (Hessen), Stadt
 
-    *   2
-
-
-*    *   Braunfels
-
-    *   2
+    *   I
 
 
-*    *   Bruchköbel
+*    *   Braunfels, Stadt
 
-    *   4
-
-
-*    *   Büdingen
-
-    *   2
+    *   II
 
 
-*    *   Bürstadt
+*    *   Bruchköbel, Stadt
 
-    *   3
+    *   IV
+
+
+*    *   Büdingen, Stadt
+
+    *   II
+
+
+*    *   Bürstadt, Stadt
+
+    *   III
 
 
 *    *   Büttelborn
 
-    *   5
+    *   V
 
 
 *    *   Buseck
 
-    *   3
+    *   II
 
 
-*    *   Butzbach
+*    *   Butzbach, Friedrich-Ludwig-Weidig-Stadt
 
-    *   3
+    *   II
 
 
-*    *   Darmstadt
+*    *   Darmstadt, Wissenschaftsstadt
 
-    *   5
+    *   VI
 
 
 *    *   Dautphetal
 
-    *   1
+    *   I
 
 
-*    *   Dieburg
+*    *   Dieburg, Stadt
 
-    *   4
-
-
-*    *   Dietzenbach
-
-    *   5
+    *   IV
 
 
-*    *   Dillenburg
+*    *   Dietzenbach, Kreisstadt
 
-    *   2
+    *   V
 
 
-*    *   Dreieich
+*    *   Dillenburg, Stadt
 
-    *   5
+    *   II
+
+
+*    *   Dreieich, Stadt
+
+    *   V
+
+
+*    *   Egelsbach
+
+    *   V
 
 
 *    *   Eichenzell
 
-    *   1
+    *   I
 
 
-*    *   Eltville am Rhein
+*    *   Eltville am Rhein, Stadt
 
-    *   5
-
-
-*    *   Eppstein
-
-    *   4
+    *   V
 
 
-*    *   Erbach
+*    *   Eppstein, Stadt
 
-    *   3
+    *   VI
+
+
+*    *   Erbach, Kreisstadt
+
+    *   III
 
 
 *    *   Erlensee
 
-    *   4
+    *   IV
 
 
-*    *   Eschborn
+*    *   Eschborn, Stadt
 
-    *   6
+    *   V
 
 
 *    *   Eschenburg
 
-    *   2
+    *   I
 
 
-*    *   Eschwege
+*    *   Eschwege, Kreisstadt
 
-    *   1
-
-
-*    *   Felsberg
-
-    *   1
+    *   I
 
 
-*    *   Flörsheim am Main
+*    *   Felsberg, Stadt
 
-    *   4
-
-
-*    *   Frankenberg (Eder)
-
-    *   2
+    *   I
 
 
-*    *   Frankfurt am Main
+*    *   Flörsheim am Main, Stadt
 
-    *   6
+    *   IV
+
+
+*    *   Frankenberg (Eder), Stadt
+
+    *   I
+
+
+*    *   Frankfurt am Main, Stadt
+
+    *   VI
 
 
 *    *   Freigericht
 
-    *   3
+    *   III
 
 
-*    *   Friedberg (Hessen)
+*    *   Friedberg (Hessen), Kreisstadt
 
-    *   4
-
-
-*    *   Friedrichsdorf
-
-    *   6
+    *   IV
 
 
-*    *   Fritzlar
+*    *   Friedrichsdorf, Stadt
 
-    *   2
+    *   VI
+
+
+*    *   Fritzlar, Dom- und Kaiserstadt
+
+    *   I
 
 
 *    *   Fürth
 
-    *   2
+    *   III
 
 
-*    *   Fulda
+*    *   Fulda, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Fuldatal
 
-    *   2
+    *   II
 
 
-*    *   Geisenheim
+*    *   Geisenheim, Stadt
 
-    *   4
-
-
-*    *   Gelnhausen
-
-    *   4
+    *   III
 
 
-*    *   Gießen
+*    *   Gelnhausen, Barbarossastadt
 
-    *   3
-
-
-*    *   Ginsheim-Gustavsburg
-
-    *   3
+    *   III
 
 
-*    *   Gladenbach
+*    *   Gießen, Universitätsstadt
 
-    *   2
-
-
-*    *   Griesheim
-
-    *   4
+    *   IV
 
 
-*    *   Groß-Gerau
+*    *   Ginsheim-Gustavsburg, Stadt
 
-    *   5
+    *   IV
 
 
-*    *   Groß-Umstadt
+*    *   Gladenbach, Stadt
 
-    *   4
+    *   II
+
+
+*    *   Griesheim, Stadt
+
+    *   V
+
+
+*    *   Groß-Gerau, Stadt
+
+    *   V
+
+
+*    *   Groß-Umstadt, Stadt
+
+    *   III
 
 
 *    *   Groß-Zimmern
 
-    *   5
+    *   V
 
 
-*    *   Grünberg
+*    *   Grünberg, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Gründau
 
-    *   3
+    *   III
 
 
-*    *   Hadamar
+*    *   Hadamar, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Haiger
+*    *   Haiger, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Hainburg
 
-    *   4
+    *   IV
 
 
-*    *   Hanau
+*    *   Hanau, Brüder-Grimm-Stadt
 
-    *   4
-
-
-*    *   Hattersheim am Main
-
-    *   5
+    *   IV
 
 
-*    *   Heppenheim (Bergstraße)
+*    *   Hattersheim am Main, Stadt
 
-    *   4
-
-
-*    *   Herborn
-
-    *   3
+    *   VI
 
 
-*    *   Hessisch Lichtenau
+*    *   Heppenheim (Bergstraße), Kreisstadt
 
-    *   2
-
-
-*    *   Heusenstamm
-
-    *   5
+    *   V
 
 
-*    *   Hochheim am Main
+*    *   Herborn, Stadt
 
-    *   4
-
-
-*    *   Hofgeismar
-
-    *   2
+    *   III
 
 
-*    *   Hofheim am Taunus
+*    *   Hessisch Lichtenau, Stadt
 
-    *   4
-
-
-*    *   Homberg (Efze)
-
-    *   2
+    *   I
 
 
-*    *   Hünfeld
+*    *   Heusenstamm, Stadt
 
-    *   1
+    *   VI
 
 
-*    *   Hünfelden
+*    *   Hochheim am Main, Stadt
 
-    *   2
+    *   V
+
+
+*    *   Höchst i. Odenwald
+
+    *   III
+
+
+*    *   Hofgeismar, Stadt
+
+    *   II
+
+
+*    *   Hofheim am Taunus, Kreisstadt
+
+    *   V
+
+
+*    *   Homberg (Efze), Kreisstadt
+
+    *   I
+
+
+*    *   Hünfeld, Konrad-Zuse-Stadt
+
+    *   I
 
 
 *    *   Hünstetten
 
-    *   2
+    *   II
 
 
 *    *   Hüttenberg
 
-    *   2
+    *   II
 
 
-*    *   Hungen
+*    *   Hungen, Stadt
 
-    *   2
-
-
-*    *   Idstein
-
-    *   4
+    *   II
 
 
-*    *   Karben
+*    *   Idstein, Stadt
 
-    *   5
+    *   III
 
 
-*    *   Kassel
+*    *   Karben, Stadt
 
-    *   3
+    *   V
+
+
+*    *   Kassel, documenta-Stadt
+
+    *   III
 
 
 *    *   Kaufungen
 
-    *   2
+    *   II
 
 
-*    *   Kelkheim (Taunus)
+*    *   Kelkheim (Taunus), Stadt
 
-    *   5
-
-
-*    *   Kelsterbach
-
-    *   4
+    *   VI
 
 
-*    *   Kirchhain
+*    *   Kelsterbach, Stadt
 
-    *   2
-
-
-*    *   Königstein im Taunus
-
-    *   6
+    *   IV
 
 
-*    *   Korbach
+*    *   Kirchhain, Stadt
 
-    *   1
+    *   II
+
+
+*    *   Königstein im Taunus, Stadt
+
+    *   VI
+
+
+*    *   Korbach, Kreisstadt
+
+    *   II
 
 
 *    *   Kriftel
 
-    *   5
+    *   VI
 
 
-*    *   Kronberg im Taunus
+*    *   Kronberg im Taunus, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Künzell
 
-    *   2
+    *   I
 
 
-*    *   Lampertheim
+*    *   Lampertheim, Stadt
 
-    *   3
-
-
-*    *   Langen (Hessen)
-
-    *   5
+    *   III
 
 
-*    *   Langenselbold
+*    *   Langen (Hessen), Stadt
 
-    *   3
+    *   V
+
+
+*    *   Langenselbold, Stadt
+
+    *   III
 
 
 *    *   Langgöns
 
-    *   3
+    *   III
 
 
-*    *   Laubach
+*    *   Lauterbach (Hessen), Kreisstadt
 
-    *   2
-
-
-*    *   Lauterbach (Hessen)
-
-    *   2
+    *   II
 
 
-*    *   Lich
+*    *   Lich, Stadt
 
-    *   3
-
-
-*    *   Limburg a. d. Lahn
-
-    *   2
+    *   II
 
 
-*    *   Linden
+*    *   Limburg an der Lahn, Kreisstadt
 
-    *   4
+    *   II
+
+
+*    *   Linden, Stadt
+
+    *   III
 
 
 *    *   Lohfelden
 
-    *   2
+    *   II
 
 
-*    *   Lorsch
+*    *   Lorsch, Karolingerstadt
 
-    *   2
-
-
-*    *   Maintal
-
-    *   5
+    *   III
 
 
-*    *   Marburg
+*    *   Maintal, Stadt
 
-    *   4
-
-
-*    *   Melsungen
-
-    *   1
+    *   V
 
 
-*    *   Michelstadt
+*    *   Marburg, Universitätsstadt
 
-    *   4
-
-
-*    *   Mörfelden-Walldorf
-
-    *   5
+    *   V
 
 
-*    *   Mörlenbach
+*    *   Melsungen, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Mühlheim am Main
+*    *   Michelstadt, Stadt
 
-    *   5
+    *   IV
+
+
+*    *   Mörfelden-Walldorf, Stadt
+
+    *   V
+
+
+*    *   Mühlheim am Main, Stadt
+
+    *   V
 
 
 *    *   Mühltal
 
-    *   5
+    *   V
 
 
 *    *   Münster
 
-    *   4
+    *   IV
 
 
 *    *   Nauheim
 
-    *   6
+    *   IV
 
 
-*    *   Neu-Anspach
+*    *   Neu-Anspach, Stadt
 
-    *   5
-
-
-*    *   Neu-Isenburg
-
-    *   6
+    *   IV
 
 
 *    *   Neuhof
 
-    *   1
+    *   I
 
 
-*    *   Nidda
+*    *   Neu-Isenburg, Stadt
 
-    *   2
+    *   VI
 
 
-*    *   Nidderau
+*    *   Nidda, Stadt
 
-    *   4
+    *   I
+
+
+*    *   Nidderau, Stadt
+
+    *   III
 
 
 *    *   Niedernhausen
 
-    *   5
+    *   V
 
 
 *    *   Niestetal
 
-    *   2
+    *   III
 
 
-*    *   Ober-Ramstadt
+*    *   Ober-Ramstadt, Stadt
 
-    *   4
-
-
-*    *   Obertshausen
-
-    *   5
+    *   V
 
 
-*    *   Oberursel (Taunus)
+*    *   Obertshausen, Stadt
 
-    *   5
-
-
-*    *   Oestrich-Winkel
-
-    *   4
+    *   V
 
 
-*    *   Offenbach am Main
+*    *   Oberursel (Taunus), Stadt
 
-    *   6
+    *   VI
+
+
+*    *   Oestrich-Winkel, Stadt
+
+    *   V
+
+
+*    *   Offenbach am Main, Stadt
+
+    *   VI
 
 
 *    *   Petersberg
 
-    *   2
+    *   II
 
 
-*    *   Pfungstadt
+*    *   Pfungstadt, Stadt
 
-    *   4
-
-
-*    *   Pohlheim
-
-    *   2
+    *   V
 
 
-*    *   Raunheim
+*    *   Pohlheim, Stadt
 
-    *   6
+    *   II
 
 
-*    *   Reinheim
+*    *   Raunheim, Stadt
 
-    *   3
+    *   V
+
+
+*    *   Reinheim, Stadt
+
+    *   IV
 
 
 *    *   Reiskirchen
 
-    *   3
+    *   III
 
 
-*    *   Riedstadt
+*    *   Riedstadt, Stadt
 
-    *   5
+    *   IV
 
 
 *    *   Rodenbach
 
-    *   5
+    *   IV
 
 
-*    *   Rodgau
+*    *   Rodgau, Stadt
 
-    *   5
-
-
-*    *   Rödermark
-
-    *   4
+    *   V
 
 
-*    *   Rosbach v. d. Höhe
+*    *   Rödermark, Stadt
 
-    *   4
+    *   V
+
+
+*    *   Rosbach v. d. Höhe, Stadt
+
+    *   IV
 
 
 *    *   Roßdorf
 
-    *   4
+    *   IV
 
 
-*    *   Rotenburg a. d. Fulda
+*    *   Rotenburg a. d. Fulda, Stadt
 
-    *   1
-
-
-*    *   Rüsselsheim
-
-    *   5
+    *   I
 
 
-*    *   Schauenburg
+*    *   Rüsselsheim, Stadt
 
-    *   1
-
-
-*    *   Schlitz
-
-    *   1
+    *   VI
 
 
-*    *   Schlüchtern
+*    *   Schlüchtern, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Schöneck
 
-    *   3
+    *   IV
 
 
-*    *   Schotten
+*    *   Schotten, Stadt
 
-    *   2
-
-
-*    *   Schwalbach am Taunus
-
-    *   5
+    *   I
 
 
-*    *   Schwalmstadt
+*    *   Schwalbach am Taunus, Stadt
 
-    *   1
+    *   V
+
+
+*    *   Schwalmstadt, Stadt
+
+    *   I
 
 
 *    *   Seeheim-Jugenheim
 
-    *   5
+    *   V
 
 
-*    *   Seligenstadt
+*    *   Seligenstadt, Stadt
 
-    *   3
-
-
-*    *   Solms
-
-    *   2
+    *   IV
 
 
-*    *   Stadtallendorf
+*    *   Solms, Stadt
 
-    *   2
-
-
-*    *   Steinau an der Straße
-
-    *   2
+    *   II
 
 
-*    *   Taunusstein
+*    *   Stadtallendorf, Stadt
 
-    *   4
+    *   II
+
+
+*    *   Steinau an der Straße, Brüder-Grimm-Stadt
+
+    *   II
+
+
+*    *   Steinbach (Taunus), Stadt
+
+    *   V
+
+
+*    *   Taunusstein, Stadt
+
+    *   IV
 
 
 *    *   Trebur
 
-    *   5
+    *   V
 
 
-*    *   Usingen
+*    *   Usingen, Stadt
 
-    *   5
-
-
-*    *   Vellmar
-
-    *   3
+    *   IV
 
 
-*    *   Viernheim
+*    *   Vellmar, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Wächtersbach
+*    *   Viernheim, Stadt
 
-    *   3
+    *   IV
+
+
+*    *   Wächtersbach, Stadt
+
+    *   III
 
 
 *    *   Wald-Michelbach
 
-    *   2
+    *   II
 
 
-*    *   Weilburg
+*    *   Weilburg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Weiterstadt
+*    *   Weiterstadt, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Wettenberg
 
-    *   3
+    *   III
 
 
-*    *   Wetzlar
+*    *   Wetzlar, Stadt
 
-    *   3
-
-
-*    *   Wiesbaden
-
-    *   6
+    *   III
 
 
-*    *   Witzenhausen
+*    *   Wiesbaden, Landeshauptstadt
 
-    *   1
+    *   VI
 
 
-*    *   Wolfhagen
+*    *   Witzenhausen, Stadt
 
-    *   1
+    *   I
 
+
+*    *   Wolfhagen, Stadt
+
+    *   I
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Bergstraße
 
-    *   3
-
-    *   Bensheim, Birkenau, Bürstadt, Fürth,
-        Heppenheim (Bergstraße), Lampertheim, Lorsch,
-        Mörlenbach, Viernheim, Wald-Michelbach
+    *   II
 
 
 *    *   Darmstadt-Dieburg
 
-    *   4
-
-    *   Babenhausen, Dieburg, Griesheim, Groß-Umstadt,
-        Groß-Zimmern, Mühltal, Münster, Ober-Ramstadt, Pfungstadt, Reinheim,
-        Roßdorf, Seeheim-Jugenheim, Weiterstadt
+    *   IV
 
 
 *    *   Fulda
 
-    *   1
-
-    *   Eichenzell, Fulda, Hünfeld, Künzell, Neuhof,
-        Petersberg
+    *   I
 
 
 *    *   Gießen
 
-    *   3
-
-    *   Biebertal, Buseck, Gießen, Grünberg, Hungen,
-        Langgöns, Laubach, Lich, Linden, Pohlheim,
-        Reiskirchen, Wettenberg
+    *   II
 
 
 *    *   Groß-Gerau
 
-    *   4
-
-    *   Bischofsheim, Büttelborn, Ginsheim-Gustavsburg,
-        Groß-Gerau, Kelsterbach, Mörfelden-Walldorf,
-        Nauheim, Raunheim, Riedstadt, Rüsselsheim, Trebur
+    *   IV
 
 
 *    *   Hersfeld-Rotenburg
 
-    *   1
-
-    *   Bad Hersfeld, Bebra, Rotenburg a. d. Fulda
+    *   I
 
 
 *    *   Hochtaunuskreis
 
-    *   4
-
-    *   Bad Homburg v. d. Höhe, Friedrichsdorf, Königstein
-        im Taunus, Kronberg im Taunus, Neu-Anspach,
-        Oberursel (Taunus), Usingen
+    *   IV
 
 
 *    *   Kassel
 
-    *   1
-
-    *   Baunatal, Fuldatal, Hofgeismar, Kaufungen, Lohfelden,
-        Niestetal, Schauenburg, Vellmar, Wolfhagen
+    *   I
 
 
 *    *   Lahn-Dill-Kreis
 
-    *   2
-
-    *   Aßlar, Braunfels, Dillenburg, Eschenburg, Haiger,
-        Herborn, Hüttenberg, Solms, Wetzlar
+    *   I
 
 
 *    *   Limburg-Weilburg
 
-    *   2
-
-    *   Bad Camberg, Hadamar, Hünfelden,
-        Limburg a. d. Lahn, Weilburg
+    *   II
 
 
 *    *   Main-Kinzig-Kreis
 
-    *   3
-
-    *   Bad Soden-Salmünster, Bruchköbel, Erlensee,
-        Freigericht, Gelnhausen, Gründau, Hanau,
-        Langenselbold, Maintal, Nidderau, Rodenbach, Schlüchtern, Schöneck,
-        Steinau an der Straße, Wächtersbach
+    *   III
 
 
 *    *   Main-Taunus-Kreis
 
-    *   4
-
-    *   Bad Soden am Taunus, Eppstein, Eschborn, Flörsheim am Main,
-        Hattersheim am Main, Hochheim am Main, Hofheim am Taunus, Kelkheim
-        (Taunus), Kriftel, Schwalbach am Taunus
+    *   VI
 
 
 *    *   Marburg-Biedenkopf
 
-    *   2
-
-    *   Biedenkopf, Dautphetal, Gladenbach, Kirchhain,
-        Marburg, Stadtallendorf
+    *   I
 
 
 *    *   Odenwaldkreis
 
-    *   2
-
-    *   Erbach, Michelstadt
+    *   II
 
 
 *    *   Offenbach
 
-    *   5
-
-    *   Dietzenbach, Dreieich, Hainburg, Heusenstamm,
-        Langen (Hessen), Mühlheim am Main, Neu-Isenburg,
-        Obertshausen, Rodgau, Rödermark, Seligenstadt
+    *   III
 
 
 *    *   Rheingau-Taunus-Kreis
 
-    *   3
-
-    *   Bad Schwalbach, Eltville am Rhein, Geisenheim, Hünstetten, Idstein,
-        Niedernhausen, Oestrich-Winkel, Taunusstein
+    *   III
 
 
 *    *   Schwalm-Eder-Kreis
 
-    *   1
-
-    *   Borken (Hessen), Felsberg, Fritzlar, Homberg (Efze),
-        Melsungen, Schwalmstadt
+    *   I
 
 
 *    *   Vogelsbergkreis
 
-    *   1
-
-    *   Alsfeld, Lauterbach (Hessen), Schlitz, Schotten
+    *   I
 
 
 *    *   Waldeck-Frankenberg
 
-    *   1
-
-    *   Bad Arolsen, Bad Wildungen, Frankenberg (Eder), Korbach
+    *   I
 
 
 *    *   Werra-Meißner-Kreis
 
-    *   1
-
-    *   Eschwege, Hessisch Lichtenau, Witzenhausen
+    *   I
 
 
 *    *   Wetteraukreis
 
-    *   3
-
-    *   Altenstadt, Bad Nauheim, Bad Vilbel, Büdingen,
-        Butzbach, Friedberg (Hessen), Karben, Nidda,
-        Rosbach v. d. Höhe
+    *   II
 
 
 
 
-**Mecklenburg-Vorpommern**
+*Land:* **Mecklenburg-Vorpommern**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Anklam
+*    *   Anklam, Stadt
 
-    *   3
-
-
-*    *   Bad Doberan
-
-    *   4
+    *   II
 
 
-*    *   Bergen auf Rügen
+*    *   Bad Doberan, Stadt
 
-    *   3
-
-
-*    *   Boizenburg/Elbe
-
-    *   4
+    *   IV
 
 
-*    *   Demmin
+*    *   Bergen auf Rügen, Stadt
 
-    *   2
-
-
-*    *   Greifswald
-
-    *   3
+    *   III
 
 
-*    *   Grevesmühlen
+*    *   Boizenburg/Elbe, Stadt
 
-    *   3
-
-
-*    *   Grimmen
-
-    *   3
+    *   III
 
 
-*    *   Güstrow
+*    *   Demmin, Hansestadt
 
-    *   3
-
-
-*    *   Hagenow
-
-    *   2
+    *   II
 
 
-*    *   Ludwigslust
+*    *   Greifswald, Hansestadt
 
-    *   2
-
-
-*    *   Neubrandenburg
-
-    *   3
+    *   IV
 
 
-*    *   Neustrelitz
+*    *   Grevesmühlen, Stadt
 
-    *   2
-
-
-*    *   Parchim
-
-    *   3
+    *   III
 
 
-*    *   Pasewalk
+*    *   Güstrow, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Ribnitz-Damgarten
+*    *   Hagenow, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Ludwigslust, Stadt
+
+    *   II
+
+
+*    *   Neubrandenburg, Stadt
+
+    *   III
+
+
+*    *   Neustrelitz, Stadt
+
+    *   II
+
+
+*    *   Parchim, Stadt
+
+    *   II
+
+
+*    *   Pasewalk, Stadt
+
+    *   I
+
+
+*    *   Ribnitz-Damgarten, Stadt
+
+    *   II
+
+
+*    *   Rostock, Hansestadt
+
+    *   IV
+
+
+*    *   Schwerin, Landeshauptstadt
+
+    *   III
+
+
+*    *   Stralsund, Hansestadt
+
+    *   III
+
+
+*    *   Waren (Müritz), Stadt
+
+    *   III
+
+
+*    *   Wismar, Hansestadt
+
+    *   III
+
+
+*    *   Wolgast, Stadt
+
+    *   III
+
+
+
+
+*    *   Kreis
+
+    *   Mietenstufe
 
 
 *    *   Rostock
 
-    *   5
+    *   II
 
 
-*    *   Sassnitz
+*    *   Ludwigslust-Parchim
 
-    *   3
-
-
-*    *   Schwerin
-
-    *   3
+    *   II
 
 
-*    *   Stralsund
+*    *   Mecklenburgische Seenplatte
 
-    *   3
-
-
-*    *   Ueckermünde
-
-    *   2
-
-
-*    *   Waren (Müritz)
-
-    *   4
-
-
-*    *   Wismar
-
-    *   3
-
-
-*    *   Wolgast
-
-    *   3
-
-
-
-
-
-*    *   Kreis
-
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
-
-
-*    *   Bad Doberan
-
-    *   3
-
-    *   Bad Doberan
-
-
-*    *   Demmin
-
-    *   2
-
-    *   Demmin
-
-
-*    *   Güstrow
-
-    *   2
-
-    *   Güstrow
-
-
-*    *   Ludwigslust
-
-    *   2
-
-    *   Boizenburg/Elbe, Hagenow, Ludwigslust
-
-
-*    *   Mecklenburg-Strelitz
-
-    *   2
-
-    *   Neustrelitz
-
-
-*    *   Müritz
-
-    *   2
-
-    *   Waren (Müritz)
-
-
-*    *   Nordvorpommern
-
-    *   3
-
-    *   Grimmen, Ribnitz-Damgarten
+    *   II
 
 
 *    *   Nordwestmecklenburg
 
-    *   3
-
-    *   Grevesmühlen
+    *   II
 
 
-*    *   Ostvorpommern
+*    *   Vorpommern-Greifswald
 
-    *   3
-
-    *   Anklam, Wolgast
+    *   II
 
 
-*    *   Parchim
+*    *   Vorpommern-Rügen
 
-    *   2
-
-    *   Parchim
-
-
-*    *   Rügen
-
-    *   3
-
-    *   Bergen auf Rügen, Sassnitz
-
-
-*    *   Uecker-Randow
-
-    *   2
-
-    *   Pasewalk, Ueckermünde
+    *   III
 
 
 
 
-**Niedersachsen**
+*Land:* **Niedersachsen**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Achim
+*    *   Achim, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Adendorf
 
-    *   4
+    *   III
 
 
-*    *   Aerzen Flecken
+*    *   Aerzen, Flecken
 
-    *   1
+    *   I
 
 
-*    *   Alfeld (Leine)
+*    *   Alfeld (Leine), Stadt
 
-    *   2
+    *   II
 
 
 *    *   Apen
 
-    *   1
+    *   I
 
 
-*    *   Aurich
+*    *   Aurich, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bad Bentheim
+*    *   Bad Bentheim, Stadt
 
-    *   1
+    *   II
 
 
 *    *   Bad Essen
 
-    *   1
+    *   I
 
 
-*    *   Bad Fallingbostel
+*    *   Bad Fallingbostel, Stadt
 
-    *   2
-
-
-*    *   Bad Gandersheim
-
-    *   2
+    *   II
 
 
-*    *   Bad Harzburg
+*    *   Bad Harzburg, Stadt
 
-    *   2
-
-
-*    *   Bad Iburg
-
-    *   2
+    *   II
 
 
-*    *   Bad Lauterberg im Harz
+*    *   Bad Iburg, Stadt
 
-    *   1
-
-
-*    *   Bad Münder am Deister
-
-    *   2
+    *   II
 
 
-*    *   Bad Nenndorf
+*    *   Bad Lauterberg im Harz, Stadt
 
-    *   3
-
-
-*    *   Bad Pyrmont
-
-    *   2
+    *   I
 
 
-*    *   Bad Salzdetfurth
+*    *   Bad Münder am Deister, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Bad Nenndorf, Stadt
+
+    *   III
+
+
+*    *   Bad Pyrmont, Stadt
+
+    *   I
+
+
+*    *   Bad Salzdetfurth, Stadt
+
+    *   II
 
 
 *    *   Bad Zwischenahn
 
-    *   3
+    *   II
 
 
-*    *   Barsinghausen
+*    *   Barsinghausen, Stadt
 
-    *   3
+    *   II
 
 
 *    *   Barßel
 
-    *   1
+    *   I
 
 
-*    *   Bassum
+*    *   Bassum, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Belm
 
-    *   2
+    *   II
 
 
-*    *   Bergen
+*    *   Bergen, Stadt
 
-    *   1
+    *   I
+
+
+*    *   Beverstedt
+
+    *   I
 
 
 *    *   Bissendorf
 
-    *   1
-
-
-*    *   Bockenem
-
-    *   2
+    *   I
 
 
 *    *   Bohmte
 
-    *   1
+    *   I
 
 
-*    *   Bovenden
+*    *   Bovenden, Flecken
 
-    *   3
-
-
-*    *   Brake (Unterweser)
-
-    *   2
+    *   II
 
 
-*    *   Bramsche
+*    *   Brake (Unterweser), Stadt
 
-    *   2
-
-
-*    *   Braunschweig
-
-    *   4
+    *   II
 
 
-*    *   Bremervörde
+*    *   Bramsche, Stadt
 
-    *   2
-
-
-*    *   Buchholz in der Nordheide
-
-    *   6
+    *   I
 
 
-*    *   Bückeburg
+*    *   Braunschweig, Stadt
 
-    *   2
-
-
-*    *   Burgdorf
-
-    *   3
+    *   IV
 
 
-*    *   Burgwedel
+*    *   Bremervörde, Stadt
 
-    *   3
-
-
-*    *   Buxtehude
-
-    *   5
+    *   II
 
 
-*    *   Celle
+*    *   Buchholz i. d. Nordheide, Stadt
 
-    *   3
-
-
-*    *   Clausthal-Zellerfeld
-
-    *   2
+    *   VI
 
 
-*    *   Cloppenburg
+*    *   Bückeburg, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Burgdorf, Stadt
+
+    *   III
+
+
+*    *   Burgwedel, Stadt
+
+    *   IV
+
+
+*    *   Buxtehude, Hansestadt
+
+    *   V
+
+
+*    *   Celle, Stadt
+
+    *   III
+
+
+*    *   Clausthal-Zellerfeld, Berg- und Universitätsstadt
+
+    *   I
+
+
+*    *   Cloppenburg, Stadt
+
+    *   II
 
 
 *    *   Cremlingen
 
-    *   3
+    *   II
 
 
-*    *   Cuxhaven
+*    *   Cuxhaven, Stadt
 
-    *   3
-
-
-*    *   Damme
-
-    *   1
+    *   III
 
 
-*    *   Dassel
+*    *   Damme, Stadt
 
-    *   1
-
-
-*    *   Delmenhorst
-
-    *   3
+    *   I
 
 
-*    *   Diepholz
+*    *   Delmenhorst, Stadt
 
-    *   1
+    *   III
 
 
-*    *   Dinklage
+*    *   Diepholz, Stadt
 
-    *   1
+    *   I
+
+
+*    *   Dinklage, Stadt
+
+    *   I
 
 
 *    *   Drochtersen
 
-    *   2
+    *   II
 
 
-*    *   Duderstadt
+*    *   Duderstadt, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Edemissen
 
-    *   1
+    *   II
 
 
 *    *   Edewecht
 
-    *   2
+    *   II
 
 
-*    *   Einbeck
+*    *   Einbeck, Stadt
 
-    *   2
-
-
-*    *   Emden
-
-    *   2
+    *   I
 
 
-*    *   Emmerthal
+*    *   Emden, Stadt
 
-    *   1
+    *   II
 
 
 *    *   Emstek
 
-    *   1
+    *   I
 
 
 *    *   Friedeburg
 
-    *   1
+    *   I
 
 
-*    *   Friedland
+*    *   Friesoythe, Stadt
 
-    *   1
-
-
-*    *   Friesoythe
-
-    *   1
+    *   I
 
 
 *    *   Ganderkesee
 
-    *   3
+    *   III
 
 
-*    *   Garbsen
+*    *   Garbsen, Stadt
 
-    *   4
+    *   III
 
 
 *    *   Garrel
 
-    *   1
+    *   I
 
 
 *    *   Geeste
 
-    *   1
+    *   I
 
 
-*    *   Gehrden
+*    *   Gehrden, Stadt
 
-    *   3
-
-
-*    *   Georgsmarienhütte
-
-    *   2
+    *   IV
 
 
-*    *   Gifhorn
+*    *   Georgsmarienhütte, Stadt
 
-    *   3
-
-
-*    *   Göttingen
-
-    *   4
+    *   II
 
 
-*    *   Goslar
+*    *   Gifhorn, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Goslar, Stadt
+
+    *   II
+
+
+*    *   Göttingen, Stadt
+
+    *   IV
 
 
 *    *   Großefehn
 
-    *   1
+    *   I
 
 
 *    *   Großenkneten
 
-    *   1
+    *   II
+
+
+*    *   Hagen im Bremischen
+
+    *   I
 
 
 *    *   Hagen am Teutoburger Wald
 
-    *   2
+    *   II
 
 
 *    *   Hambühren
 
-    *   3
+    *   II
 
 
-*    *   Hameln
+*    *   Hameln, Stadt
 
-    *   2
-
-
-*    *   Hann. Münden
-
-    *   2
+    *   II
 
 
-*    *   Hannover
+*    *   Hannoversch Münden, Stadt
 
-    *   5
-
-
-*    *   Haren (Ems)
-
-    *   1
+    *   I
 
 
-*    *   Harsefeld
+*    *   Hannover, Stadt
 
-    *   3
+    *   IV
+
+
+*    *   Haren (Ems), Stadt
+
+    *   I
+
+
+*    *   Harsefeld, Flecken
+
+    *   III
 
 
 *    *   Harsum
 
-    *   2
+    *   II
 
 
 *    *   Hasbergen
 
-    *   2
+    *   II
 
 
-*    *   Haselünne
+*    *   Haselünne, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Hatten
 
-    *   2
+    *   I
 
 
-*    *   Helmstedt
+*    *   Helmstedt, Stadt
 
-    *   2
-
-
-*    *   Hemmingen
-
-    *   4
+    *   II
 
 
-*    *   Herzberg am Harz
+*    *   Hemmingen, Stadt
 
-    *   1
-
-
-*    *   Hessisch Oldendorf
-
-    *   1
+    *   IV
 
 
-*    *   Hildesheim
+*    *   Herzberg am Harz, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Hessisch Oldendorf, Stadt
+
+    *   I
+
+
+*    *   Hildesheim, Stadt
+
+    *   III
 
 
 *    *   Hilter am Teutoburger Wald
 
-    *   1
+    *   I
 
 
-*    *   Holzminden
+*    *   Holzminden, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Hude (Oldenburg)
 
-    *   2
+    *   II
 
 
 *    *   Ihlow
 
-    *   1
+    *   I
 
 
 *    *   Ilsede
 
-    *   2
+    *   III
 
 
 *    *   Isernhagen
 
-    *   4
+    *   IV
 
 
-*    *   Jever
+*    *   Jever, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Jork
 
-    *   4
+    *   IV
 
 
 *    *   Kirchlinteln
 
-    *   1
+    *   I
 
 
-*    *   Königslutter am Elm
+*    *   Königslutter am Elm, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Krummhörn
 
-    *   1
+    *   I
 
 
-*    *   Laatzen
+*    *   Laatzen, Stadt
 
-    *   4
-
-
-*    *   Lahstedt
-
-    *   2
+    *   IV
 
 
-*    *   Langelsheim
+*    *   Langelsheim, Stadt
 
-    *   1
-
-
-*    *   Langen
-
-    *   3
+    *   I
 
 
-*    *   Langenhagen
+*    *   Langen, Stadt
 
-    *   4
-
-
-*    *   Langwedel
-
-    *   2
+    *   II
 
 
-*    *   Leer (Ostfriesland)
+*    *   Langenhagen, Stadt
 
-    *   2
+    *   IV
+
+
+*    *   Langwedel, Flecken
+
+    *   II
+
+
+*    *   Leer (Ostfriesland), Stadt
+
+    *   II
 
 
 *    *   Lehre
 
-    *   2
+    *   II
 
 
-*    *   Lehrte
+*    *   Lehrte, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Lengede
 
-    *   2
+    *   II
 
 
 *    *   Lilienthal
 
-    *   3
+    *   III
 
 
-*    *   Lingen (Ems)
+*    *   Lingen (Ems), Stadt
 
-    *   1
-
-
-*    *   Löningen
-
-    *   1
+    *   I
 
 
-*    *   Lohne (Oldenburg)
+*    *   Lohne (Oldenburg), Stadt
 
-    *   1
+    *   II
+
+
+*    *   Löningen, Stadt
+
+    *   I
 
 
 *    *   Loxstedt
 
-    *   2
+    *   II
 
 
-*    *   Lüneburg
+*    *   Lüneburg, Hansestadt
 
-    *   4
-
-
-*    *   Melle
-
-    *   1
+    *   V
 
 
-*    *   Meppen
+*    *   Melle, Stadt
 
-    *   1
+    *   I
+
+
+*    *   Meppen, Stadt
+
+    *   I
 
 
 *    *   Moormerland
 
-    *   1
+    *   I
 
 
-*    *   Munster
+*    *   Munster, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Neu Wulmstorf
 
-    *   5
+    *   V
 
 
-*    *   Neustadt am Rübenberge
+*    *   Neustadt am Rübenberge, Stadt
 
-    *   3
-
-
-*    *   Nienburg (Weser)
-
-    *   2
+    *   II
 
 
-*    *   Norden
+*    *   Nienburg (Weser), Stadt
 
-    *   2
-
-
-*    *   Nordenham
-
-    *   2
+    *   II
 
 
-*    *   Nordhorn
+*    *   Norden, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Nordenham, Stadt
+
+    *   II
+
+
+*    *   Nordhorn, Stadt
+
+    *   II
 
 
 *    *   Nordstemmen
 
-    *   2
+    *   II
 
 
-*    *   Northeim
+*    *   Northeim, Stadt
 
-    *   2
-
-
-*    *   Oldenburg (Oldenburg)
-
-    *   3
+    *   II
 
 
-*    *   Osnabrück
+*    *   Oldenburg (Oldenburg), Stadt
 
-    *   3
-
-
-*    *   Osterholz-Scharmbeck
-
-    *   2
+    *   IV
 
 
-*    *   Osterode am Harz
+*    *   Osnabrück, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Osterholz-Scharmbeck, Stadt
+
+    *   II
+
+
+*    *   Osterode am Harz, Stadt
+
+    *   I
 
 
 *    *   Ostrhauderfehn
 
-    *   1
+    *   I
 
 
-*    *   Ottersberg
+*    *   Ottersberg, Flecken
 
-    *   2
+    *   II
 
 
 *    *   Oyten
 
-    *   3
+    *   III
 
 
-*    *   Papenburg
+*    *   Papenburg, Stadt
 
-    *   1
-
-
-*    *   Pattensen
-
-    *   3
+    *   I
 
 
-*    *   Peine
+*    *   Pattensen, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Quakenbrück
+*    *   Peine, Stadt
 
-    *   1
+    *   III
+
+
+*    *   Quakenbrück, Stadt
+
+    *   I
 
 
 *    *   Rastede
 
-    *   2
+    *   II
 
 
-*    *   Rehburg-Loccum
+*    *   Rehburg-Loccum, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Rhauderfehn
 
-    *   1
+    *   I
 
 
-*    *   Rinteln
+*    *   Rinteln, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Ritterhude
 
-    *   3
+    *   II
 
 
-*    *   Ronnenberg
+*    *   Ronnenberg, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Rosdorf
 
-    *   3
+    *   III
 
 
 *    *   Rosengarten
 
-    *   6
+    *   IV
 
 
-*    *   Rotenburg (Wümme)
+*    *   Rotenburg (Wümme), Stadt
 
-    *   3
-
-
-*    *   Salzgitter
-
-    *   3
+    *   III
 
 
-*    *   Salzhemmendorf
+*    *   Salzgitter, Stadt
 
-    *   1
+    *   III
 
 
-*    *   Sarstedt
+*    *   Sarstedt, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Sassenburg
 
-    *   1
+    *   I
 
 
 *    *   Saterland
 
-    *   1
+    *   I
 
 
 *    *   Scheeßel
 
-    *   2
+    *   I
 
 
 *    *   Schiffdorf
 
-    *   3
+    *   II
 
 
-*    *   Schneverdingen
+*    *   Schneverdingen, Stadt
 
-    *   2
-
-
-*    *   Schöningen
-
-    *   1
+    *   II
 
 
-*    *   Schortens
+*    *   Schöningen, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Schüttorf
+*    *   Schortens, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Schüttorf, Stadt
+
+    *   I
 
 
 *    *   Schwanewede
 
-    *   3
+    *   II
 
 
-*    *   Seelze
+*    *   Seelze, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Seesen
+*    *   Seesen, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Seevetal
 
-    *   5
+    *   V
 
 
-*    *   Sehnde
+*    *   Sehnde, Stadt
 
-    *   3
-
-
-*    *   Soltau
-
-    *   3
+    *   IV
 
 
-*    *   Springe
+*    *   Soltau, Stadt
 
-    *   2
-
-
-*    *   Stade
-
-    *   4
+    *   III
 
 
-*    *   Stadthagen
+*    *   Springe, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Stade, Hansestadt
+
+    *   IV
+
+
+*    *   Stadthagen, Stadt
+
+    *   II
 
 
 *    *   Stelle
 
-    *   5
+    *   V
 
 
 *    *   Stuhr
 
-    *   3
+    *   III
 
 
 *    *   Südbrookmerland
 
-    *   1
+    *   I
 
 
-*    *   Sulingen
+*    *   Sulingen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Syke
+*    *   Syke, Stadt
 
-    *   3
+    *   II
 
 
 *    *   Tostedt
 
-    *   4
+    *   IV
 
 
-*    *   Twistringen
+*    *   Twistringen, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Uelzen
+*    *   Uelzen, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Uetze
 
-    *   2
+    *   II
 
 
 *    *   Uplengen
 
-    *   1
+    *   I
 
 
-*    *   Uslar
+*    *   Uslar, Stadt
 
-    *   1
+    *   I
 
 
-*    *   Varel
+*    *   Varel, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Vechelde
 
-    *   3
+    *   III
 
 
-*    *   Vechta
+*    *   Vechta, Stadt
 
-    *   2
-
-
-*    *   Verden (Aller)
-
-    *   3
+    *   II
 
 
-*    *   Vienenburg
+*    *   Verden (Aller), Stadt
 
-    *   1
-
-
-*    *   Visselhövede
-
-    *   1
+    *   II
 
 
 *    *   Wallenhorst
 
-    *   2
+    *   II
 
 
-*    *   Walsrode
+*    *   Walsrode, Stadt
 
-    *   3
-
-
-*    *   Wangerland
-
-    *   2
+    *   II
 
 
 *    *   Wardenburg
 
-    *   2
+    *   II
 
 
 *    *   Wedemark
 
-    *   3
+    *   III
 
 
-*    *   Weener
+*    *   Weener, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Wendeburg
 
-    *   2
+    *   I
 
 
 *    *   Wennigsen (Deister)
 
-    *   3
+    *   III
 
 
-*    *   Westerstede
+*    *   Westerstede, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Westoverledingen
 
-    *   1
+    *   I
 
 
 *    *   Weyhe
 
-    *   4
+    *   III
 
 
 *    *   Wiefelstede
 
-    *   2
+    *   II
 
 
-*    *   Wiesmoor
+*    *   Wiesmoor, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Wietmarschen
 
-    *   1
+    *   I
 
 
-*    *   Wildeshausen
+*    *   Wildeshausen, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Wilhelmshaven
+*    *   Wilhelmshaven, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Winsen (Aller)
 
-    *   1
+    *   I
 
 
-*    *   Winsen (Luhe)
+*    *   Winsen (Luhe), Stadt
 
-    *   5
-
-
-*    *   Wittingen
-
-    *   2
+    *   V
 
 
-*    *   Wittmund
+*    *   Wittingen, Stadt
 
-    *   1
-
-
-*    *   Wolfenbüttel
-
-    *   3
+    *   I
 
 
-*    *   Wolfsburg
+*    *   Wittmund, Stadt
 
-    *   4
+    *   I
 
 
-*    *   Wunstorf
+*    *   Wolfenbüttel, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Wolfsburg, Stadt
+
+    *   IV
+
+
+*    *   Wunstorf, Stadt
+
+    *   III
 
 
 *    *   Zetel
 
-    *   1
+    *   I
 
 
-*    *   Zeven
+*    *   Zeven, Stadt
 
-    *   2
-
+    *   II
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Aurich
 
-    *   1
-
-    *   Aurich, Großefehn, Ihlow, Krummhörn, Norden,
-        Südbrookmerland, Wiesmoor
+    *   I
 
 
 *    *   Celle
 
-    *   2
-
-    *   Bergen, Celle, Hambühren, Winsen (Aller)
+    *   I
 
 
 *    *   Cloppenburg
 
-    *   1
-
-    *   Barßel, Cloppenburg, Emstek, Friesoythe, Garrel,
-        Löningen, Saterland
+    *   I
 
 
 *    *   Cuxhaven
 
-    *   2
-
-    *   Cuxhaven, Langen, Loxstedt, Schiffdorf
+    *   I
 
 
 *    *   Diepholz
 
-    *   1
-
-    *   Bassum, Diepholz, Stuhr, Sulingen, Syke, Twistringen, Weyhe
+    *   I
 
 
 *    *   Emsland
 
-    *   1
-
-    *   Geeste, Haren (Ems), Haselünne, Lingen (Ems),
-        Meppen, Papenburg
+    *   I
 
 
 *    *   Friesland
 
-    *   2
-
-    *   Jever, Schortens, Varel, Wangerland, Zetel
+    *   I
 
 
 *    *   Gifhorn
 
-    *   2
-
-    *   Gifhorn, Sassenburg, Wittingen
-
-
-*    *   Göttingen
-
-    *   1
-
-    *   Bovenden, Duderstadt, Friedland, Göttingen,
-        Hann. Münden, Rosdorf
+    *   I
 
 
 *    *   Goslar
 
-    *   1
+    *   I
 
-    *   Bad Harzburg, Clausthal-Zellerfeld, Goslar,
-        Langelsheim, Seesen, Vienenburg
+
+*    *   Göttingen
+
+    *   I
 
 
 *    *   Grafschaft Bentheim
 
-    *   1
-
-    *   Bad Bentheim, Nordhorn, Schüttorf, Wietmarschen
+    *   I
 
 
 *    *   Hameln-Pyrmont
 
-    *   1
-
-    *   Aerzen Flecken, Bad Münder am Deister,
-        Bad Pyrmont, Emmerthal, Hameln,
-        Hessisch Oldendorf, Salzhemmendorf
+    *   I
 
 
 *    *   Harburg
 
-    *   4
+    *   IV
 
-    *   Buchholz in der Nordheide, Neu Wulmstorf,
-        Rosengarten, Seevetal, Stelle, Tostedt, Winsen (Luhe)
+
+*    *   Heidekreis
+
+    *   I
 
 
 *    *   Helmstedt
 
-    *   1
-
-    *   Helmstedt, Königslutter am Elm, Lehre, Schöningen
+    *   I
 
 
 *    *   Hildesheim
 
-    *   2
-
-    *   Alfeld (Leine), Bad Salzdetfurth, Bockenem, Harsum,
-        Hildesheim, Nordstemmen, Sarstedt
+    *   I
 
 
 *    *   Holzminden
 
-    *   1
-
-    *   Holzminden
+    *   I
 
 
 *    *   Leer
 
-    *   1
-
-    *   Leer (Ostfriesland), Moormerland, Ostrhauderfehn, Rhauderfehn,
-        Uplengen, Weener, Westoverledingen
+    *   I
 
 
 *    *   Lüchow-Dannenberg
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Lüneburg
 
-    *   3
-
-    *   Adendorf, Lüneburg
+    *   III
 
 
 *    *   Nienburg (Weser)
 
-    *   1
-
-    *   Nienburg (Weser), Rehburg-Loccum
+    *   I
 
 
 *    *   Northeim
 
-    *   1
-
-    *   Bad Gandersheim, Dassel, Einbeck, Northeim, Uslar
+    *   I
 
 
 *    *   Oldenburg
 
-    *   1
-
-    *   Ganderkesee, Großenkneten, Hatten,
-        Hude (Oldenburg), Wardenburg, Wildeshausen
+    *   I
 
 
 *    *   Osnabrück
 
-    *   1
-
-    *   Bad Essen, Bad Iburg, Belm, Bissendorf,
-        Bohmte, Bramsche, Georgsmarienhütte,
-        Hagen am Teutoburger Wald, Hasbergen,
-        Hilter am Teutoburger Wald, Melle, Quakenbrück, Wallenhorst
+    *   I
 
 
 *    *   Osterholz
 
-    *   1
-
-    *   Lilienthal, Osterholz-Scharmbeck, Ritterhude,
-        Schwanewede
+    *   I
 
 
 *    *   Osterode am Harz
 
-    *   1
-
-    *   Bad Lauterberg im Harz, Herzberg am Harz,
-        Osterode am Harz
+    *   I
 
 
 *    *   Peine
 
-    *   2
-
-    *   Edemissen, Ilsede, Lahstedt, Lengede, Peine,
-        Vechelde, Wendeburg
+    *   II
 
 
 *    *   Rotenburg (Wümme)
 
-    *   1
-
-    *   Bremervörde, Rotenburg (Wümme), Scheeßel,
-        Visselhövede, Zeven
+    *   I
 
 
 *    *   Schaumburg
 
-    *   1
-
-    *   Bad Nenndorf, Bückeburg, Rinteln, Stadthagen
-
-
-*    *   Soltau-Fallingbostel
-
-    *   2
-
-    *   Bad Fallingbostel, Munster, Schneverdingen, Soltau, Walsrode
+    *   I
 
 
 *    *   Stade
 
-    *   3
-
-    *   Buxtehude, Drochtersen, Harsefeld, Jork, Stade
+    *   II
 
 
 *    *   Uelzen
 
-    *   1
-
-    *   Uelzen
+    *   I
 
 
 *    *   Vechta
 
-    *   1
-
-    *   Damme, Dinklage, Lohne (Oldenburg), Vechta
+    *   I
 
 
 *    *   Verden
 
-    *   2
-
-    *   Achim, Kirchlinteln, Langwedel, Ottersberg, Oyten, Verden (Aller)
+    *   I
 
 
 *    *   Wesermarsch
 
-    *   1
-
-    *   Brake (Unterweser), Nordenham
+    *   I
 
 
 *    *   Wittmund
 
-    *   1
-
-    *   Friedeburg, Wittmund
+    *   I
 
 
 *    *   Wolfenbüttel
 
-    *   2
-
-    *   Cremlingen, Wolfenbüttel
+    *   I
 
 
 
 
-**Nordrhein-Westfalen**
+*Land:* **Nordrhein-Westfalen**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Aachen
+*    *   Aachen, Stadt
 
-    *   4
-
-
-*    *   Ahaus
-
-    *   2
+    *   IV
 
 
-*    *   Ahlen
+*    *   Ahaus, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Ahlen, Stadt
+
+    *   II
 
 
 *    *   Aldenhoven
 
-    *   3
+    *   III
 
 
 *    *   Alfter
 
-    *   4
+    *   IV
 
 
 *    *   Alpen
 
-    *   2
+    *   II
 
 
-*    *   Alsdorf
+*    *   Alsdorf, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Altena
+*    *   Altena, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Altenberge
 
-    *   2
+    *   III
 
 
 *    *   Anröchte
 
-    *   2
+    *   I
 
 
-*    *   Arnsberg
+*    *   Arnsberg, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Ascheberg
 
-    *   2
+    *   II
 
 
-*    *   Attendorn
+*    *   Attendorn, Stadt
 
-    *   2
-
-
-*    *   Bad Berleburg
-
-    *   2
+    *   II
 
 
-*    *   Bad Driburg
+*    *   Bad Berleburg, Stadt
 
-    *   1
-
-
-*    *   Bad Honnef
-
-    *   4
+    *   II
 
 
-*    *   Bad Laasphe
+*    *   Bad Driburg, Stadt
 
-    *   2
-
-
-*    *   Bad Lippspringe
-
-    *   2
+    *   I
 
 
-*    *   Bad Münstereifel
+*    *   Bad Honnef, Stadt
 
-    *   3
-
-
-*    *   Bad Oeynhausen
-
-    *   3
+    *   IV
 
 
-*    *   Bad Salzuflen
+*    *   Bad Laasphe, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Bad Lippspringe, Stadt
+
+    *   II
+
+
+*    *   Bad Münstereifel, Stadt
+
+    *   II
+
+
+*    *   Bad Oeynhausen, Stadt
+
+    *   II
+
+
+*    *   Bad Salzuflen, Stadt
+
+    *   II
 
 
 *    *   Bad Sassendorf
 
-    *   2
+    *   II
 
 
-*    *   Bad Wünnenberg
+*    *   Bad Wünnenberg, Stadt
 
-    *   1
-
-
-*    *   Baesweiler
-
-    *   2
+    *   I
 
 
-*    *   Balve
+*    *   Baesweiler, Stadt
 
-    *   2
-
-
-*    *   Beckum
-
-    *   2
+    *   II
 
 
-*    *   Bedburg
+*    *   Balve, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Beckum, Stadt
+
+    *   II
+
+
+*    *   Bedburg, Stadt
+
+    *   III
 
 
 *    *   Bedburg-Hau
 
-    *   2
+    *   II
 
 
-*    *   Bergheim
+*    *   Bergheim, Stadt
 
-    *   3
-
-
-*    *   Bergisch Gladbach
-
-    *   5
+    *   III
 
 
-*    *   Bergkamen
+*    *   Bergisch-Gladbach, Stadt
 
-    *   3
+    *   V
 
 
-*    *   Bergneustadt
+*    *   Bergkamen, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Bergneustadt, Stadt
+
+    *   II
 
 
 *    *   Bestwig
 
-    *   2
+    *   I
 
 
-*    *   Beverungen
+*    *   Beverungen, Stadt
 
-    *   1
-
-
-*    *   Bielefeld
-
-    *   3
+    *   I
 
 
-*    *   Billerbeck
+*    *   Bielefeld, Stadt
 
-    *   2
-
-
-*    *   Blomberg
-
-    *   1
+    *   III
 
 
-*    *   Bocholt
+*    *   Billerbeck, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bochum
+*    *   Blomberg, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Bocholt, Stadt
+
+    *   III
+
+
+*    *   Bochum, Stadt
+
+    *   III
 
 
 *    *   Bönen
 
-    *   2
+    *   III
 
 
-*    *   Bonn
+*    *   Bonn, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Borchen
 
-    *   1
+    *   II
 
 
-*    *   Borken
+*    *   Borken, Stadt
 
-    *   2
-
-
-*    *   Bornheim
-
-    *   4
+    *   II
 
 
-*    *   Bottrop
+*    *   Bornheim, Stadt
 
-    *   3
-
-
-*    *   Brakel
-
-    *   1
+    *   IV
 
 
-*    *   Brilon
+*    *   Bottrop, Stadt
 
-    *   1
+    *   III
+
+
+*    *   Brakel, Stadt
+
+    *   I
+
+
+*    *   Brilon, Stadt
+
+    *   I
 
 
 *    *   Brüggen
 
-    *   3
+    *   II
 
 
-*    *   Brühl
+*    *   Brühl, Stadt
 
-    *   5
-
-
-*    *   Bünde
-
-    *   2
+    *   V
 
 
-*    *   Büren
+*    *   Bünde, Stadt
 
-    *   1
+    *   II
+
+
+*    *   Büren, Stadt
+
+    *   I
 
 
 *    *   Burbach
 
-    *   2
+    *   II
 
 
-*    *   Burscheid
+*    *   Burscheid, Stadt
 
-    *   4
-
-
-*    *   Castrop-Rauxel
-
-    *   3
+    *   IV
 
 
-*    *   Coesfeld
+*    *   Castrop-Rauxel, Stadt
 
-    *   2
-
-
-*    *   Datteln
-
-    *   2
+    *   III
 
 
-*    *   Delbrück
+*    *   Coesfeld, Stadt
 
-    *   2
-
-
-*    *   Detmold
-
-    *   2
+    *   II
 
 
-*    *   Dinslaken
+*    *   Datteln, Stadt
 
-    *   3
-
-
-*    *   Dormagen
-
-    *   4
+    *   II
 
 
-*    *   Dorsten
+*    *   Delbrück, Stadt
 
-    *   3
-
-
-*    *   Dortmund
-
-    *   3
+    *   I
 
 
-*    *   Drensteinfurt
+*    *   Detmold, Stadt
 
-    *   2
-
-
-*    *   Drolshagen
-
-    *   1
+    *   III
 
 
-*    *   Dülmen
+*    *   Dinslaken, Stadt
 
-    *   2
-
-
-*    *   Düren
-
-    *   3
+    *   III
 
 
-*    *   Düsseldorf
+*    *   Dormagen, Stadt
 
-    *   5
+    *   IV
 
 
-*    *   Duisburg
+*    *   Dorsten, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Dortmund, Stadt
+
+    *   III
+
+
+*    *   Drensteinfurt, Stadt
+
+    *   II
+
+
+*    *   Drolshagen, Stadt
+
+    *   I
+
+
+*    *   Dülmen, Stadt
+
+    *   II
+
+
+*    *   Düren, Stadt
+
+    *   III
+
+
+*    *   Düsseldorf, Stadt
+
+    *   VI
+
+
+*    *   Duisburg, Stadt
+
+    *   III
 
 
 *    *   Eitorf
 
-    *   3
+    *   II
 
 
 *    *   Elsdorf
 
-    *   4
+    *   IV
 
 
-*    *   Emmerich am Rhein
+*    *   Emmerich am Rhein, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Emsdetten
+*    *   Emsdetten, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Engelskirchen
 
-    *   3
+    *   III
 
 
-*    *   Enger
+*    *   Enger, Stadt
 
-    *   2
-
-
-*    *   Ennepetal
-
-    *   3
+    *   II
 
 
-*    *   Ennigerloh
+*    *   Ennepetal, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Ennigerloh, Stadt
+
+    *   II
 
 
 *    *   Ense
 
-    *   2
+    *   II
 
 
-*    *   Erftstadt
+*    *   Erftstadt, Stadt
 
-    *   4
-
-
-*    *   Erkelenz
-
-    *   3
+    *   IV
 
 
-*    *   Erkrath
+*    *   Erkelenz, Stadt
 
-    *   4
-
-
-*    *   Erwitte
-
-    *   2
+    *   III
 
 
-*    *   Eschweiler
+*    *   Erkrath, Stadt
 
-    *   3
-
-
-*    *   Espelkamp
-
-    *   2
+    *   IV
 
 
-*    *   Essen
+*    *   Erwitte, Stadt
 
-    *   4
+    *   II
 
 
-*    *   Euskirchen
+*    *   Eschweiler, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Espelkamp, Stadt
+
+    *   II
+
+
+*    *   Essen, Stadt
+
+    *   IV
+
+
+*    *   Euskirchen, Stadt
+
+    *   III
 
 
 *    *   Extertal
 
-    *   1
+    *   I
 
 
 *    *   Finnentrop
 
-    *   1
+    *   I
 
 
-*    *   Frechen
+*    *   Frechen, Stadt
 
-    *   4
-
-
-*    *   Freudenberg
-
-    *   2
+    *   IV
 
 
-*    *   Fröndenberg
+*    *   Freudenberg, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Fröndenberg, Stadt
+
+    *   II
 
 
 *    *   Gangelt
 
-    *   1
+    *   I
 
 
-*    *   Geilenkirchen
+*    *   Geilenkirchen, Stadt
 
-    *   2
-
-
-*    *   Geldern
-
-    *   3
+    *   II
 
 
-*    *   Gelsenkirchen
+*    *   Geldern, Stadt
 
-    *   2
-
-
-*    *   Gescher
-
-    *   2
+    *   III
 
 
-*    *   Geseke
+*    *   Gelsenkirchen, Stadt
 
-    *   2
-
-
-*    *   Gevelsberg
-
-    *   3
+    *   II
 
 
-*    *   Gladbeck
+*    *   Gescher, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Goch
+*    *   Geseke, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Gevelsberg, Stadt
+
+    *   III
+
+
+*    *   Gladbeck, Stadt
+
+    *   II
+
+
+*    *   Goch, Stadt
+
+    *   III
 
 
 *    *   Grefrath
 
-    *   3
+    *   III
 
 
-*    *   Greven
+*    *   Greven, Stadt
 
-    *   3
-
-
-*    *   Grevenbroich
-
-    *   4
+    *   III
 
 
-*    *   Gronau
+*    *   Grevenbroich, Stadt
 
-    *   2
-
-
-*    *   Gütersloh
-
-    *   3
+    *   IV
 
 
-*    *   Gummersbach
+*    *   Gronau (Westfalen), Stadt
 
-    *   3
-
-
-*    *   Haan
-
-    *   4
+    *   II
 
 
-*    *   Hagen
+*    *   Gütersloh, Stadt
 
-    *   3
-
-
-*    *   Halle (Westf.)
-
-    *   2
+    *   III
 
 
-*    *   Haltern
+*    *   Gummersbach, Stadt
 
-    *   3
-
-
-*    *   Halver
-
-    *   3
+    *   II
 
 
-*    *   Hamm
+*    *   Haan, Stadt
 
-    *   2
-
-
-*    *   Hamminkeln
-
-    *   2
+    *   IV
 
 
-*    *   Harsewinkel
+*    *   Hagen, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Hattingen
+*    *   Halle (Westfalen), Stadt
 
-    *   3
+    *   II
+
+
+*    *   Haltern am See, Stadt
+
+    *   III
+
+
+*    *   Halver, Stadt
+
+    *   III
+
+
+*    *   Hamm, Stadt
+
+    *   II
+
+
+*    *   Hamminkeln, Stadt
+
+    *   II
+
+
+*    *   Harsewinkel, Stadt
+
+    *   II
+
+
+*    *   Hattingen, Stadt
+
+    *   III
 
 
 *    *   Havixbeck
 
-    *   3
+    *   III
 
 
-*    *   Heiligenhaus
+*    *   Heiligenhaus, Stadt
 
-    *   4
-
-
-*    *   Heinsberg
-
-    *   2
+    *   IV
 
 
-*    *   Hemer
+*    *   Heinsberg, Stadt
 
-    *   3
-
-
-*    *   Hennef (Sieg)
-
-    *   4
+    *   II
 
 
-*    *   Herdecke
+*    *   Hemer, Stadt
 
-    *   3
-
-
-*    *   Herford
-
-    *   3
+    *   II
 
 
-*    *   Herne
+*    *   Hennef (Sieg), Stadt
 
-    *   2
+    *   IV
 
 
-*    *   Herten
+*    *   Herdecke, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Herford, Stadt
+
+    *   II
+
+
+*    *   Herne, Stadt
+
+    *   II
+
+
+*    *   Herten, Stadt
+
+    *   III
 
 
 *    *   Herzebrock-Clarholz
 
-    *   2
+    *   II
 
 
-*    *   Herzogenrath
+*    *   Herzogenrath, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Hiddenhausen
 
-    *   2
+    *   II
 
 
-*    *   Hilchenbach
+*    *   Hilchenbach, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Hilden
+*    *   Hilden, Stadt
 
-    *   4
+    *   V
 
 
 *    *   Hille
 
-    *   1
+    *   I
 
 
-*    *   Hörstel
+*    *   Hörstel, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Hövelhof
 
-    *   2
+    *   I
 
 
-*    *   Höxter
+*    *   Höxter, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Holzwickede
 
-    *   3
+    *   III
 
 
-*    *   Horn-Bad Meinberg
+*    *   Horn-Bad Meinberg, Stadt
 
-    *   2
-
-
-*    *   Hückelhoven
-
-    *   2
+    *   I
 
 
-*    *   Hückeswagen
+*    *   Hückelhoven, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Hückeswagen, Stadt
+
+    *   III
 
 
 *    *   Hüllhorst
 
-    *   1
+    *   I
 
 
 *    *   Hünxe
 
-    *   3
+    *   III
 
 
-*    *   Hürth
+*    *   Hürth, Stadt
 
-    *   4
-
-
-*    *   Ibbenbüren
-
-    *   2
+    *   V
 
 
-*    *   Iserlohn
+*    *   Ibbenbüren, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Isselburg
+*    *   Iserlohn, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Isselburg, Stadt
+
+    *   II
 
 
 *    *   Issum
 
-    *   2
+    *   III
 
 
 *    *   Jüchen
 
-    *   3
+    *   III
 
 
-*    *   Jülich
+*    *   Jülich, Stadt
 
-    *   3
-
-
-*    *   Kaarst
-
-    *   5
+    *   III
 
 
-*    *   Kalkar
+*    *   Kaarst, Stadt
 
-    *   2
+    *   V
+
+
+*    *   Kalkar, Stadt
+
+    *   II
 
 
 *    *   Kall
 
-    *   3
+    *   II
 
 
 *    *   Kalletal
 
-    *   1
+    *   I
 
 
-*    *   Kamen
+*    *   Kamen, Stadt
 
-    *   3
-
-
-*    *   Kamp-Lintfort
-
-    *   3
+    *   III
 
 
-*    *   Kempen
+*    *   Kamp-Lintfort, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Kempen, Stadt
+
+    *   III
 
 
 *    *   Kerken
 
-    *   3
+    *   III
 
 
-*    *   Kerpen
+*    *   Kerpen, Stadt
 
-    *   4
-
-
-*    *   Kevelaer
-
-    *   3
+    *   IV
 
 
-*    *   Kierspe
+*    *   Kevelaer, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Kierspe, Stadt
+
+    *   III
 
 
 *    *   Kirchhundem
 
-    *   1
+    *   I
 
 
 *    *   Kirchlengern
 
-    *   1
+    *   II
 
 
-*    *   Kleve
+*    *   Kleve, Stadt
 
-    *   2
-
-
-*    *   Köln
-
-    *   5
+    *   III
 
 
-*    *   Königswinter
+*    *   Köln, Stadt
 
-    *   4
-
-
-*    *   Korschenbroich
-
-    *   3
+    *   VI
 
 
-*    *   Krefeld
+*    *   Königswinter, Stadt
 
-    *   4
+    *   IV
+
+
+*    *   Korschenbroich, Stadt
+
+    *   III
+
+
+*    *   Kranenburg
+
+    *   II
+
+
+*    *   Krefeld, Stadt
+
+    *   IV
 
 
 *    *   Kreuzau
 
-    *   2
+    *   II
 
 
-*    *   Kreuztal
+*    *   Kreuztal, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Kürten
 
-    *   4
+    *   IV
 
 
-*    *   Lage
+*    *   Lage, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Langenfeld (Rheinland)
+*    *   Langenfeld (Rheinland), Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Langerwehe
 
-    *   2
+    *   II
 
 
-*    *   Leichlingen (Rheinland)
+*    *   Leichlingen (Rheinland), Stadt
 
-    *   4
-
-
-*    *   Lemgo
-
-    *   2
+    *   IV
 
 
-*    *   Lengerich
+*    *   Lemgo, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Lennestadt
+*    *   Lengerich, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Lennestadt, Stadt
+
+    *   II
 
 
 *    *   Leopoldshöhe
 
-    *   2
+    *   II
 
 
-*    *   Leverkusen
+*    *   Leverkusen, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Lichtenau
+*    *   Lichtenau, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Lindlar
 
-    *   3
+    *   III
 
 
-*    *   Linnich
+*    *   Linnich, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Lippetal
 
-    *   1
+    *   II
 
 
-*    *   Lippstadt
+*    *   Lippstadt, Stadt
 
-    *   2
-
-
-*    *   Löhne
-
-    *   2
+    *   II
 
 
-*    *   Lohmar
+*    *   Löhne, Stadt
 
-    *   4
+    *   II
+
+
+*    *   Lohmar, Stadt
+
+    *   IV
 
 
 *    *   Lotte
 
-    *   2
+    *   II
 
 
-*    *   Lübbecke
+*    *   Lübbecke, Stadt
 
-    *   2
-
-
-*    *   Lüdenscheid
-
-    *   3
+    *   II
 
 
-*    *   Lüdinghausen
+*    *   Lüdenscheid, Stadt
 
-    *   2
-
-
-*    *   Lügde
-
-    *   1
+    *   III
 
 
-*    *   Lünen
+*    *   Lüdinghausen, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Lünen, Stadt
+
+    *   III
 
 
 *    *   Marienheide
 
-    *   2
+    *   III
 
 
-*    *   Marl
+*    *   Marl, Stadt
 
-    *   3
-
-
-*    *   Marsberg
-
-    *   2
+    *   III
 
 
-*    *   Mechernich
+*    *   Marsberg, Stadt
 
-    *   3
-
-
-*    *   Meckenheim
-
-    *   4
+    *   I
 
 
-*    *   Meerbusch
+*    *   Mechernich, Stadt
 
-    *   4
-
-
-*    *   Meinerzhagen
-
-    *   2
+    *   III
 
 
-*    *   Menden (Sauerland)
+*    *   Meckenheim, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Meschede
+*    *   Meerbusch, Stadt
 
-    *   2
+    *   V
+
+
+*    *   Meinerzhagen, Stadt
+
+    *   II
+
+
+*    *   Menden (Sauerland), Stadt
+
+    *   III
+
+
+*    *   Meschede, Stadt
+
+    *   II
 
 
 *    *   Mettingen
 
-    *   2
+    *   I
 
 
-*    *   Mettmann
+*    *   Mettmann, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Minden
+*    *   Minden, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Möhnesee
 
-    *   2
+    *   I
 
 
-*    *   Mönchengladbach
+*    *   Mönchengladbach, Stadt
 
-    *   3
-
-
-*    *   Moers
-
-    *   3
+    *   III
 
 
-*    *   Monheim am Rhein
+*    *   Moers, Stadt
 
-    *   4
+    *   III
 
 
-*    *   Monschau
+*    *   Monheim am Rhein, Stadt
 
-    *   2
+    *   V
+
+
+*    *   Monschau, Stadt
+
+    *   II
 
 
 *    *   Morsbach
 
-    *   2
+    *   II
 
 
 *    *   Much
 
-    *   3
+    *   III
 
 
-*    *   Mülheim an der Ruhr
+*    *   Mülheim an der Ruhr, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Münster
+*    *   Münster, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Netphen
 
-    *   2
+    *   II
 
 
-*    *   Nettetal
+*    *   Nettetal, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Neuenkirchen
 
-    *   2
+    *   II
 
 
-*    *   Neuenrade
+*    *   Neuenrade, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Neukirchen-Vluyn
+*    *   Neukirchen-Vluyn, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Neunkirchen
 
-    *   2
+    *   II
 
 
 *    *   Neunkirchen-Seelscheid
 
-    *   3
+    *   III
 
 
-*    *   Neuss
+*    *   Neuss, Stadt
 
-    *   4
-
-
-*    *   Nideggen
-
-    *   2
+    *   V
 
 
-*    *   Niederkassel
+*    *   Niederkassel, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Niederkrüchten
 
-    *   3
+    *   III
 
 
 *    *   Niederzier
 
-    *   3
+    *   II
 
 
 *    *   Nörvenich
 
-    *   3
-
-
-*    *   Nordkirchen
-
-    *   2
+    *   II
 
 
 *    *   Nottuln
 
-    *   3
+    *   III
 
 
 *    *   Nümbrecht
 
-    *   2
+    *   II
 
 
-*    *   Oberhausen
+*    *   Oberhausen, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Ochtrup
+*    *   Ochtrup, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Odenthal
 
-    *   4
+    *   IV
 
 
-*    *   Oelde
+*    *   Oelde, Stadt
 
-    *   2
-
-
-*    *   Oer-Erkenschwick
-
-    *   3
+    *   II
 
 
-*    *   Oerlinghausen
+*    *   Oer-Erkenschwick, Stadt
 
-    *   2
-
-
-*    *   Olfen
-
-    *   3
+    *   III
 
 
-*    *   Olpe
+*    *   Örlinghausen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Olsberg
+*    *   Olfen, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Olpe, Stadt
+
+    *   II
+
+
+*    *   Olsberg, Stadt
+
+    *   I
 
 
 *    *   Ostbevern
 
-    *   2
+    *   II
 
 
 *    *   Overath
 
-    *   4
+    *   IV
 
 
-*    *   Paderborn
+*    *   Paderborn, Stadt
 
-    *   2
-
-
-*    *   Petershagen
-
-    *   1
+    *   II
 
 
-*    *   Plettenberg
+*    *   Petershagen, Stadt
 
-    *   2
-
-
-*    *   Porta Westfalica
-
-    *   1
+    *   I
 
 
-*    *   Preußisch Oldendorf
+*    *   Plettenberg, Stadt
 
-    *   2
-
-
-*    *   Pulheim
-
-    *   5
+    *   II
 
 
-*    *   Radevormwald
+*    *   Porta Westfalica, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Preussisch Oldendorf, Stadt
+
+    *   I
+
+
+*    *   Pulheim, Stadt
+
+    *   V
+
+
+*    *   Radevormwald, Stadt
+
+    *   III
 
 
 *    *   Raesfeld
 
-    *   3
+    *   II
 
 
-*    *   Rahden
+*    *   Rahden, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Ratingen
+*    *   Ratingen, Stadt
 
-    *   4
+    *   V
 
 
 *    *   Recke
 
-    *   1
+    *   I
 
 
-*    *   Recklinghausen
+*    *   Recklinghausen, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Rees
+*    *   Rees, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Reichshof
 
-    *   2
+    *   II
 
 
 *    *   Reken
 
-    *   2
+    *   I
 
 
-*    *   Remscheid
+*    *   Remscheid, Stadt
 
-    *   3
-
-
-*    *   Rheda-Wiedenbrück
-
-    *   2
+    *   III
 
 
-*    *   Rhede
+*    *   Rheda-Wiedenbrück, Stadt
 
-    *   2
-
-
-*    *   Rheinbach
-
-    *   3
+    *   III
 
 
-*    *   Rheinberg
+*    *   Rhede, Stadt
 
-    *   3
-
-
-*    *   Rheine
-
-    *   2
+    *   III
 
 
-*    *   Rietberg
+*    *   Rheinbach, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Rödinghausen
+*    *   Rheinberg, Stadt
 
-    *   1
+    *   III
+
+
+*    *   Rheine, Stadt
+
+    *   II
+
+
+*    *   Rietberg, Stadt
+
+    *   II
 
 
 *    *   Rösrath
 
-    *   5
+    *   V
 
 
 *    *   Rommerskirchen
 
-    *   3
+    *   III
 
 
 *    *   Rosendahl
 
-    *   2
+    *   I
 
 
-*    *   Rüthen
+*    *   Rüthen, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Ruppichteroth
 
-    *   3
+    *   II
 
 
-*    *   Salzkotten
+*    *   Salzkotten, Stadt
 
-    *   1
-
-
-*    *   Sankt Augustin
-
-    *   4
+    *   I
 
 
-*    *   Sassenberg
+*    *   Sankt Augustin, Stadt
 
-    *   2
+    *   IV
+
+
+*    *   Sassenberg, Stadt
+
+    *   II
 
 
 *    *   Schalksmühle
 
-    *   2
+    *   II
 
 
 *    *   Schermbeck
 
-    *   3
+    *   III
 
 
-*    *   Schleiden
+*    *   Schleiden, Stadt
 
-    *   2
+    *   I
 
 
 *    *   Schloß Holte-Stukenbrock
 
-    *   2
+    *   II
 
 
-*    *   Schmallenberg
+*    *   Schmallenberg, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Schwalmtal
 
-    *   3
+    *   III
 
 
-*    *   Schwelm
+*    *   Schwelm, Stadt
 
-    *   3
-
-
-*    *   Schwerte
-
-    *   3
+    *   III
 
 
-*    *   Selfkant
+*    *   Schwerte, Stadt
 
-    *   1
+    *   III
 
 
-*    *   Selm
+*    *   Selm, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Senden
 
-    *   2
+    *   II
 
 
-*    *   Sendenhorst
+*    *   Sendenhorst, Stadt
 
-    *   2
-
-
-*    *   Siegburg
-
-    *   4
+    *   II
 
 
-*    *   Siegen
+*    *   Siegburg, Stadt
 
-    *   3
+    *   IV
+
+
+*    *   Siegen, Stadt
+
+    *   III
 
 
 *    *   Simmerath
 
-    *   2
+    *   III
 
 
-*    *   Soest
+*    *   Soest, Stadt
 
-    *   2
-
-
-*    *   Solingen
-
-    *   4
+    *   II
 
 
-*    *   Spenge
+*    *   Solingen, Stadt
 
-    *   2
-
-
-*    *   Sprockhövel
-
-    *   3
+    *   IV
 
 
-*    *   Stadtlohn
+*    *   Spenge, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Steinfurt
+*    *   Sprockhövel, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Stadtlohn, Stadt
+
+    *   II
+
+
+*    *   Steinfurt, Stadt
+
+    *   II
 
 
 *    *   Steinhagen
 
-    *   2
+    *   II
 
 
-*    *   Steinheim
+*    *   Steinheim, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Stemwede
 
-    *   1
+    *   I
 
 
-*    *   Stolberg (Rhld.)
+*    *   Stolberg (Rheinland), Stadt
 
-    *   3
-
-
-*    *   Straelen
-
-    *   3
+    *   III
 
 
-*    *   Sundern (Sauerland)
+*    *   Straelen, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Sundern (Sauerland), Stadt
+
+    *   I
 
 
 *    *   Swisttal
 
-    *   3
+    *   IV
 
 
-*    *   Telgte
+*    *   Telgte, Stadt
 
-    *   3
-
-
-*    *   Tönisvorst
-
-    *   4
+    *   III
 
 
-*    *   Troisdorf
+*    *   Tönisvorst, Stadt
 
-    *   4
-
-
-*    *   Übach-Palenberg
-
-    *   3
+    *   IV
 
 
-*    *   Unna
+*    *   Troisdorf, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Velbert
+*    *   Übach-Palenberg, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Unna, Stadt
+
+    *   III
+
+
+*    *   Velbert, Stadt
+
+    *   IV
 
 
 *    *   Velen
 
-    *   1
+    *   II
 
 
 *    *   Verl
 
-    *   2
+    *   II
 
 
-*    *   Versmold
+*    *   Versmold, Stadt
 
-    *   2
-
-
-*    *   Viersen
-
-    *   3
+    *   I
 
 
-*    *   Vlotho
+*    *   Viersen, Stadt
 
-    *   2
-
-
-*    *   Voerde (Niederrhein)
-
-    *   4
+    *   III
 
 
-*    *   Vreden
+*    *   Vlotho, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Voerde (Niederrhein), Stadt
+
+    *   III
+
+
+*    *   Vreden, Stadt
+
+    *   I
 
 
 *    *   Wachtberg
 
-    *   3
+    *   IV
 
 
 *    *   Wadersloh
 
-    *   1
+    *   I
 
 
-*    *   Waldbröl
+*    *   Waldbröl, Stadt
 
-    *   3
-
-
-*    *   Waltrop
-
-    *   3
+    *   III
 
 
-*    *   Warburg
+*    *   Waltrop, Stadt
 
-    *   1
-
-
-*    *   Warendorf
-
-    *   3
+    *   III
 
 
-*    *   Warstein
+*    *   Warburg, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Wassenberg
+*    *   Warendorf, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Warstein, Stadt
+
+    *   I
+
+
+*    *   Wassenberg, Stadt
+
+    *   III
 
 
 *    *   Weeze
 
-    *   2
+    *   II
 
 
-*    *   Wegberg
+*    *   Wegberg, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Weilerswist
 
-    *   4
+    *   III
 
 
 *    *   Welver
 
-    *   2
+    *   II
 
 
 *    *   Wenden
 
-    *   1
+    *   II
 
 
-*    *   Werdohl
+*    *   Werdohl, Stadt
 
-    *   2
-
-
-*    *   Werl
-
-    *   3
+    *   II
 
 
-*    *   Wermelskirchen
+*    *   Werl, Stadt
 
-    *   3
-
-
-*    *   Werne
-
-    *   3
+    *   II
 
 
-*    *   Werther (Westf.)
+*    *   Wermelskirchen, Stadt
 
-    *   2
-
-
-*    *   Wesel
-
-    *   3
+    *   III
 
 
-*    *   Wesseling
+*    *   Werne, Stadt
 
-    *   4
+    *   III
+
+
+*    *   Werther (Westfalen), Stadt
+
+    *   II
+
+
+*    *   Wesel, Stadt
+
+    *   III
+
+
+*    *   Wesseling, Stadt
+
+    *   IV
 
 
 *    *   Westerkappeln
 
-    *   2
+    *   I
 
 
-*    *   Wetter (Ruhr)
+*    *   Wetter (Ruhr), Stadt
 
-    *   3
+    *   III
 
 
 *    *   Wickede (Ruhr)
 
-    *   3
+    *   II
 
 
-*    *   Wiehl
+*    *   Wiehl, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Willich
+*    *   Willich, Stadt
 
-    *   4
+    *   IV
 
 
 *    *   Wilnsdorf
 
-    *   2
+    *   II
 
 
 *    *   Windeck
 
-    *   2
+    *   II
 
 
-*    *   Winterberg
+*    *   Winterberg, Stadt
 
-    *   2
-
-
-*    *   Wipperfürth
-
-    *   3
+    *   I
 
 
-*    *   Witten
+*    *   Wipperfürth, Stadt
 
-    *   3
-
-
-*    *   Wülfrath
-
-    *   3
+    *   III
 
 
-*    *   Würselen
+*    *   Witten, Stadt
 
-    *   3
-
-
-*    *   Wuppertal
-
-    *   4
+    *   III
 
 
-*    *   Xanten
+*    *   Wülfrath, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Zülpich
+*    *   Würselen, Stadt
 
-    *   3
+    *   III
 
+
+*    *   Wuppertal, Stadt
+
+    *   III
+
+
+*    *   Xanten, Stadt
+
+    *   III
+
+
+*    *   Zülpich, Stadt
+
+    *   III
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
-
-
-*    *   Aachen
-
-    *   3
-
-    *   Alsdorf, Baesweiler, Eschweiler, Herzogenrath,
-        Monschau, Simmerath, Stolberg (Rhld.), Würselen
+    *   Mietenstufe
 
 
 *    *   Borken
 
-    *   2
+    *   II
 
-    *   Ahaus, Bocholt, Borken, Gescher, Gronau, Isselburg, Raesfeld, Reken,
-        Rhede, Stadtlohn, Velen, Vreden
+
+*    *   Coesfeld
+
+    *   II
 
 
 *    *   Düren
 
-    *   2
-
-    *   Aldenhoven, Düren, Jülich, Kreuzau, Langerwehe, Linnich, Nideggen,
-        Niederzier, Nörvenich
+    *   II
 
 
 *    *   Ennepe-Ruhr-Kreis
 
-    *   3
-
-    *   Ennepetal, Gevelsberg, Hattingen, Herdecke, Schwelm, Sprockhövel,
-        Wetter (Ruhr), Witten
+    *   III
 
 
 *    *   Euskirchen
 
-    *   1
-
-    *   Bad Münstereifel, Euskirchen, Kall, Mechernich, Schleiden,
-        Weilerswist, Zülpich
+    *   I
 
 
 *    *   Gütersloh
 
-    *   2
-
-    *   Gütersloh, Halle (Westf.), Harsewinkel,
-        Herzebrock-Clarholz, Rheda-Wiedenbrück, Rietberg, Schloß Holte-
-        Stukenbrock, Steinhagen, Verl,
-        Versmold, Werther (Westf.)
+    *   II
 
 
 *    *   Heinsberg
 
-    *   2
+    *   II
 
-    *   Erkelenz, Gangelt, Geilenkirchen, Heinsberg,
-        Hückelhoven, Selfkant, Übach-Palenberg,
-        Wassenberg, Wegberg
+
+*    *   Herford
+
+    *   I
 
 
 *    *   Hochsauerlandkreis
 
-    *   1
-
-    *   Arnsberg, Bestwig, Brilon, Marsberg, Meschede,
-        Olsberg, Schmallenberg, Sundern (Sauerland),
-        Winterberg
+    *   I
 
 
 *    *   Höxter
 
-    *   1
-
-    *   Bad Driburg, Beverungen, Brakel, Höxter, Steinheim, Warburg
+    *   I
 
 
 *    *   Kleve
 
-    *   2
-
-    *   Bedburg-Hau, Emmerich am Rhein, Geldern, Goch, Issum, Kalkar, Kerken,
-        Kevelaer, Kleve, Rees, Straelen, Weeze
+    *   II
 
 
 *    *   Lippe
 
-    *   1
-
-    *   Bad Salzuflen, Blomberg, Detmold, Extertal,
-        Horn-Bad Meinberg, Kalletal, Lage, Lemgo,
-        Leopoldshöhe, Lügde, Oerlinghausen
+    *   I
 
 
 *    *   Märkischer Kreis
 
-    *   3
-
-    *   Altena, Balve, Halver, Hemer, Iserlohn, Kierspe,
-        Lüdenscheid, Meinerzhagen, Menden (Sauerland), Neuenrade, Plettenberg,
-        Schalksmühle, Werdohl
+    *   II
 
 
 *    *   Paderborn
 
-    *   1
-
-    *   Bad Lippspringe, Bad Wünnenberg, Borchen, Büren, Delbrück, Hövelhof,
-        Lichtenau, Paderborn, Salzkotten
+    *   I
 
 
 *    *   Siegen-Wittgenstein
 
-    *   1
+    *   II
 
-    *   Bad Berleburg, Bad Laasphe, Burbach, Freudenberg,
-        Hilchenbach, Kreuztal, Netphen, Neunkirchen, Siegen, Wilnsdorf
+
+*    *   Städteregion Aachen
+
+    *   II
 
 
 *    *   Steinfurt
 
-    *   1
-
-    *   Altenberge, Emsdetten, Greven, Hörstel, Ibbenbüren, Lengerich, Lotte,
-        Mettingen, Neuenkirchen, Ochtrup, Recke, Rheine, Steinfurt,
-        Westerkappeln
+    *   I
 
 
 *    *   Warendorf
 
-    *   2
-
-    *   Ahlen, Beckum, Drensteinfurt, Ennigerloh, Oelde,
-        Ostbevern, Sassenberg, Sendenhorst, Telgte,
-        Wadersloh, Warendorf
+    *   II
 
 
 *    *   Wesel
 
-    *   3
-
-    *   Alpen, Dinslaken, Hamminkeln, Hünxe, Kamp-Lintfort,
-        Moers, Neukirchen-Vluyn, Rheinberg, Schermbeck, Voerde (Niederrhein),
-        Wesel, Xanten
+    *   II
 
 
 
 
-**Rheinland-Pfalz**
+*Land:* **Rheinland-Pfalz**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Alzey
+*    *   Alzey, Stadt
 
-    *   3
-
-
-*    *   Andernach
-
-    *   2
+    *   III
 
 
-*    *   Bad Dürkheim
+*    *   Andernach, Stadt
 
-    *   3
-
-
-*    *   Bad Kreuznach
-
-    *   3
+    *   II
 
 
-*    *   Bad Neuenahr-Ahrweiler
+*    *   Bad Dürkheim, Stadt
 
-    *   3
-
-
-*    *   Bendorf
-
-    *   2
+    *   IV
 
 
-*    *   Betzdorf
+*    *   Bad Kreuznach, Stadt
 
-    *   2
-
-
-*    *   Bingen am Rhein
-
-    *   3
+    *   III
 
 
-*    *   Bitburg
+*    *   Bad Neuenahr-Ahrweiler, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Bendorf, Stadt
+
+    *   II
+
+
+*    *   Bingen am Rhein, Stadt
+
+    *   III
+
+
+*    *   Bitburg, Stadt
+
+    *   III
 
 
 *    *   Böhl-Iggelheim
 
-    *   2
+    *   I
 
 
-*    *   Boppard
+*    *   Boppard, Stadt
 
-    *   2
-
-
-*    *   Diez
-
-    *   2
+    *   I
 
 
-*    *   Frankenthal (Pfalz)
+*    *   Diez, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Germersheim
+*    *   Frankenthal (Pfalz), krsfr. Stadt
 
-    *   3
+    *   III
+
+
+*    *   Germersheim, Stadt
+
+    *   III
 
 
 *    *   Grafschaft
 
-    *   2
+    *   II
 
 
-*    *   Grünstadt
+*    *   Grünstadt, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Haßloch
 
-    *   3
+    *   III
 
 
 *    *   Herxheim b. Landau/Pfalz
 
-    *   3
+    *   II
 
 
-*    *   Idar-Oberstein
+*    *   Idar-Oberstein, Stadt
 
-    *   1
-
-
-*    *   Ingelheim am Rhein
-
-    *   4
+    *   I
 
 
-*    *   Kaiserslautern
+*    *   Ingelheim am Rhein, Stadt
 
-    *   3
-
-
-*    *   Koblenz
-
-    *   3
+    *   V
 
 
-*    *   Konz
+*    *   Kaiserslautern, krsfr. Stadt
 
-    *   2
-
-
-*    *   Lahnstein
-
-    *   3
+    *   II
 
 
-*    *   Landau in der Pfalz
+*    *   Koblenz, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Konz, Stadt
+
+    *   III
+
+
+*    *   Lahnstein, Stadt
+
+    *   II
+
+
+*    *   Landau i. d. Pfalz, krsfr. Stadt
+
+    *   III
 
 
 *    *   Limburgerhof
 
-    *   3
+    *   IV
 
 
-*    *   Ludwigshafen am Rhein
+*    *   Ludwigshafen am Rhein, krsfr. Stadt
 
-    *   3
-
-
-*    *   Mainz
-
-    *   5
+    *   IV
 
 
-*    *   Mayen
+*    *   Mainz, krsfr. Stadt
 
-    *   2
+    *   VI
 
 
-*    *   Montabaur
+*    *   Mayen, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Montabaur, Stadt
+
+    *   II
 
 
 *    *   Morbach
 
-    *   1
+    *   I
 
 
-*    *   Mülheim-Kärlich
+*    *   Mülheim-Kärlich, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Mutterstadt
 
-    *   3
+    *   IV
 
 
-*    *   Neustadt an der Weinstraße
+*    *   Neustadt (a. d. Weinstraße), krsfr. Stadt
 
-    *   3
-
-
-*    *   Neuwied
-
-    *   3
+    *   II
 
 
-*    *   Pirmasens
+*    *   Neuwied, Stadt
 
-    *   1
-
-
-*    *   Remagen
-
-    *   3
+    *   II
 
 
-*    *   Schifferstadt
+*    *   Pirmasens, krsfr. Stadt
 
-    *   3
-
-
-*    *   Sinzig
-
-    *   3
+    *   I
 
 
-*    *   Speyer
+*    *   Remagen, Stadt
 
-    *   3
-
-
-*    *   Trier
-
-    *   3
+    *   III
 
 
-*    *   Wittlich
+*    *   Schifferstadt, Stadt
 
-    *   2
-
-
-*    *   Wörth am Rhein
-
-    *   3
+    *   III
 
 
-*    *   Worms
+*    *   Sinzig, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Zweibrücken
+*    *   Speyer, krsfr. Stadt
 
-    *   2
+    *   III
 
+
+*    *   Trier, Stadt
+
+    *   III
+
+
+*    *   Wittlich, Stadt
+
+    *   II
+
+
+*    *   Wörth am Rhein, Stadt
+
+    *   III
+
+
+*    *   Worms, krsfr. Stadt
+
+    *   III
+
+
+*    *   Zweibrücken, krsfr. Stadt
+
+    *   I
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Ahrweiler
 
-    *   1
-
-    *   Bad Neuenahr-Ahrweiler, Grafschaft, Remagen, Sinzig
+    *   I
 
 
 *    *   Altenkirchen (Westerwald)
 
-    *   2
-
-    *   Betzdorf
+    *   I
 
 
 *    *   Alzey-Worms
 
-    *   3
-
-    *   Alzey
+    *   II
 
 
 *    *   Bad Dürkheim
 
-    *   2
-
-    *   Bad Dürkheim, Grünstadt, Haßloch
+    *   II
 
 
 *    *   Bad Kreuznach
 
-    *   1
-
-    *   Bad Kreuznach
+    *   I
 
 
 *    *   Bernkastel-Wittlich
 
-    *   1
-
-    *   Morbach, Wittlich
+    *   I
 
 
-*    *   Birkenfeld
+*    *   Birkenfeld, Nationalparklandkreis
 
-    *   1
-
-    *   Idar-Oberstein
-
-
-*    *   Bitburg-Prüm
-
-    *   1
-
-    *   Bitburg
+    *   I
 
 
 *    *   Cochem-Zell
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Donnersbergkreis
 
-    *   2
+    *   II
 
-    *   --
+
+*    *   Eifelkreis Bitburg-Prüm
+
+    *   I
 
 
 *    *   Germersheim
 
-    *   2
-
-    *   Germersheim, Wörth am Rhein
+    *   II
 
 
 *    *   Kaiserslautern
 
-    *   2
-
-    *   --
+    *   II
 
 
 *    *   Kusel
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Mainz-Bingen
 
-    *   4
-
-    *   Bingen am Rhein, Ingelheim am Rhein
+    *   III
 
 
 *    *   Mayen-Koblenz
 
-    *   2
-
-    *   Andernach, Bendorf, Mayen, Mülheim-Kärlich
+    *   I
 
 
 *    *   Neuwied
 
-    *   2
-
-    *   Neuwied
+    *   I
 
 
 *    *   Rhein-Hunsrück-Kreis
 
-    *   1
-
-    *   Boppard
+    *   I
 
 
 *    *   Rhein-Lahn-Kreis
 
-    *   2
-
-    *   Diez, Lahnstein
+    *   I
 
 
 *    *   Rhein-Pfalz-Kreis
 
-    *   3
-
-    *   Böhl-Iggelheim, Limburgerhof, Mutterstadt,
-        Schifferstadt
+    *   III
 
 
 *    *   Südliche Weinstraße
 
-    *   2
-
-    *   Herxheim b. Landau/Pfalz
+    *   II
 
 
 *    *   Südwestpfalz
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Trier-Saarburg
 
-    *   1
-
-    *   Konz
+    *   I
 
 
 *    *   Vulkaneifel
 
-    *   1
-
-    *   --
+    *   I
 
 
 *    *   Westerwaldkreis
 
-    *   1
-
-    *   Montabaur
+    *   I
 
 
 
 
-**Saarland**
+*Land:* **Saarland**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
 *    *   Beckingen
 
-    *   1
+    *   I
 
 
-*    *   Bexbach
+*    *   Bexbach, Stadt
 
-    *   2
-
-
-*    *   Blieskastel
-
-    *   1
+    *   I
 
 
-*    *   Dillingen/Saar
+*    *   Blieskastel, Stadt
 
-    *   3
+    *   I
+
+
+*    *   Dillingen/Saar, Stadt
+
+    *   II
 
 
 *    *   Eppelborn
 
-    *   2
+    *   I
 
 
-*    *   Friedrichsthal
+*    *   Friedrichsthal, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Heusweiler
 
-    *   2
+    *   I
 
 
-*    *   Homburg
+*    *   Homburg, Kreisstadt
 
-    *   2
+    *   II
 
 
 *    *   Illingen
 
-    *   2
+    *   II
 
 
 *    *   Kirkel
 
-    *   1
+    *   II
 
 
 *    *   Kleinblittersdorf
 
-    *   2
+    *   II
 
 
-*    *   Lebach
+*    *   Lebach, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Losheim am See
 
-    *   1
+    *   I
 
 
 *    *   Mandelbachtal
 
-    *   1
+    *   I
 
 
 *    *   Marpingen
 
-    *   1
+    *   I
 
 
 *    *   Merchweiler
 
-    *   2
+    *   I
 
 
-*    *   Merzig
+*    *   Merzig, Kreisstadt
 
-    *   2
+    *   II
 
 
 *    *   Mettlach
 
-    *   1
+    *   II
 
 
-*    *   Neunkirchen
+*    *   Neunkirchen, Kreisstadt
 
-    *   2
+    *   II
 
 
 *    *   Nohfelden
 
-    *   1
+    *   I
 
 
-*    *   Ottweiler
+*    *   Ottweiler, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Püttlingen
+*    *   Püttlingen, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Quierschied
 
-    *   2
+    *   II
 
 
 *    *   Rehlingen-Siersburg
 
-    *   1
+    *   I
 
 
 *    *   Riegelsberg
 
-    *   2
+    *   II
 
 
-*    *   Saarbrücken
+*    *   Saarbrücken, Landeshauptstadt
 
-    *   3
+    *   III
 
 
-*    *   Saarlouis
+*    *   Saarlouis, Kreisstadt
 
-    *   2
+    *   III
 
 
 *    *   Saarwellingen
 
-    *   1
+    *   I
 
 
-*    *   Sankt Ingbert
+*    *   Sankt Ingbert, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Sankt Wendel
+*    *   Sankt Wendel, Kreisstadt
 
-    *   1
+    *   I
 
 
 *    *   Schiffweiler
 
-    *   3
+    *   II
 
 
 *    *   Schmelz
 
-    *   1
+    *   II
 
 
 *    *   Schwalbach
 
-    *   2
+    *   II
 
 
 *    *   Spiesen-Elversberg
 
-    *   2
+    *   II
 
 
-*    *   Sulzbach/Saar
+*    *   Sulzbach/Saar, Stadt
 
-    *   2
+    *   II
 
 
 *    *   Tholey
 
-    *   2
+    *   II
 
 
 *    *   Überherrn
 
-    *   2
+    *   II
 
 
-*    *   Völklingen
+*    *   Völklingen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Wadern
+*    *   Wadern, Stadt
 
-    *   1
+    *   I
 
 
 *    *   Wadgassen
 
-    *   2
-
+    *   II
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Merzig-Wadern
 
-    *   1
-
-    *   Beckingen, Losheim am See, Merzig, Mettlach,
-        Wadern
+    *   I
 
 
 *    *   Saarlouis
 
-    *   2
-
-    *   Dillingen/Saar, Lebach, Rehlingen-Siersburg,
-        Saarlouis, Saarwellingen, Schmelz, Schwalbach, Überherrn, Wadgassen
+    *   II
 
 
 *    *   Saarpfalz-Kreis
 
-    *   1
-
-    *   Bexbach, Blieskastel, Homburg, Kirkel,
-        Mandelbachtal, Sankt Ingbert
+    *   I
 
 
 *    *   Sankt Wendel
 
-    *   1
-
-    *   Marpingen, Nohfelden, Sankt Wendel, Tholey
+    *   I
 
 
-*    *   Stadtverband Saarbrücken
+*    *   Regionalverband Saarbrücken
 
-    *   1
-
-    *   Friedrichsthal, Heusweiler, Kleinblittersdorf,
-        Püttlingen, Quierschied, Riegelsberg, Saarbrücken, Sulzbach/Saar,
-        Völklingen
+    *   I
 
 
 
 
-**Sachsen**
+*Land:* **Sachsen**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Annaberg-Buchholz
+*    *   Annaberg-Buchholz, Stadt
 
-    *   2
-
-
-*    *   Aue
-
-    *   2
+    *   I
 
 
-*    *   Auerbach/Vogtl.
+*    *   Aue, Stadt
 
-    *   2
+    *   I
+
+
+*    *   Auerbach/Vogtland, Stadt
+
+    *   I
 
 
 *    *   Bannewitz
 
-    *   3
+    *   III
 
 
-*    *   Bautzen
+*    *   Bautzen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bischofswerda
+*    *   Bischofswerda, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Borna
+*    *   Borna, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Brand-Erbisdorf
+*    *   Burgstädt, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Burgstädt
+*    *   Chemnitz, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Chemnitz
+*    *   Coswig, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Coswig
+*    *   Crimmitschau, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Crimmitschau
+*    *   Delitzsch, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Delitzsch
+*    *   Dippoldiswalde, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Dippoldiswalde
+*    *   Döbeln, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Döbeln
+*    *   Dresden, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Dresden
+*    *   Ebersbach-Neugersdorf, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Eilenburg
+*    *   Eilenburg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Flöha
+*    *   Flöha, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Frankenberg/Sa.
+*    *   Frankenberg, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Freiberg
+*    *   Freiberg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Freital
+*    *   Freital, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Glauchau
+*    *   Frohburg
 
-    *   3
+    *   II
 
 
-*    *   Görlitz
+*    *   Glauchau, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Grimma
+*    *   Görlitz, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Großenhain
+*    *   Grimma, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Heidenau
+*    *   Großenhain, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Hohenstein-Ernstthal
+*    *   Heidenau, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Hoyerswerda
+*    *   Hohenstein-Ernstthal, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Kamenz
+*    *   Hoyerswerda, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Leipzig
+*    *   Kamenz, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Lichtenstein/Sa.
+*    *   Klipphausen
 
-    *   2
+    *   I
 
 
-*    *   Limbach-Oberfrohna
+*    *   Leipzig, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Löbau
+*    *   Lichtenstein/Sachsen, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Lößnitz
+*    *   Limbach-Oberfrohna, Stadt
 
-    *   1
+    *   II
 
 
-*    *   Marienberg
+*    *   Löbau, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Markkleeberg
+*    *   Marienberg, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Markranstädt
+*    *   Markkleeberg, Stadt
 
-    *   3
+    *   III
 
 
-*    *   Meerane
+*    *   Markranstädt, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Meißen
+*    *   Meerane, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Mittweida
+*    *   Meißen, Stadt
 
-    *   3
+    *   II
+
+
+*    *   Mittweida, Stadt
+
+    *   II
 
 
 *    *   Mülsen
 
-    *   2
+    *   I
 
 
-*    *   Neustadt i. Sa.
+*    *   Neustadt i. Sachsen, Stadt
 
-    *   2
-
-
-*    *   Niesky
-
-    *   3
+    *   II
 
 
-*    *   Oelsnitz
+*    *   Nossen, Stadt
 
-    *   1
-
-
-*    *   Oelsnitz/Erzgeb.
-
-    *   2
+    *   I
 
 
-*    *   Olbernhau
+*    *   Oelsnitz/Erzgebirge, Stadt
 
-    *   2
-
-
-*    *   Oschatz
-
-    *   3
+    *   II
 
 
-*    *   Ottendorf-Okrilla
+*    *   Oelsnitz/Vogtland, Stadt
 
-    *   2
-
-
-*    *   Penig
-
-    *   2
+    *   I
 
 
-*    *   Pirna
+*    *   Oschatz, Stadt
 
-    *   3
-
-
-*    *   Plauen
-
-    *   1
+    *   II
 
 
-*    *   Radeberg
+*    *   Pirna, Stadt
 
-    *   3
-
-
-*    *   Radebeul
-
-    *   4
+    *   III
 
 
-*    *   Reichenbach/Vogtl.
+*    *   Plauen, Stadt
 
-    *   2
-
-
-*    *   Riesa
-
-    *   3
+    *   I
 
 
-*    *   Schkeuditz
+*    *   Radeberg, Stadt
 
-    *   3
-
-
-*    *   Schneeberg
-
-    *   2
+    *   III
 
 
-*    *   Schwarzenberg/Erzgeb.
+*    *   Radebeul, Stadt
 
-    *   2
-
-
-*    *   Stollberg/Erzgeb.
-
-    *   2
+    *   III
 
 
-*    *   Taucha
+*    *   Reichenbach/Vogtland, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Torgau
+*    *   Riesa, Stadt
 
-    *   2
+    *   II
+
+
+*    *   Schkeuditz, Stadt
+
+    *   II
+
+
+*    *   Schneeberg, Stadt
+
+    *   II
+
+
+*    *   Schwarzenberg/Erzgebirge, Stadt
+
+    *   II
+
+
+*    *   Stollberg/Erzgebirge, Stadt
+
+    *   II
+
+
+*    *   Taucha, Stadt
+
+    *   III
+
+
+*    *   Torgau, Stadt
+
+    *   II
 
 
 *    *   Weinböhla
 
-    *   3
+    *   III
 
 
-*    *   Weißwasser/O.L.
+*    *   Weißwasser/Oberlausitz, Stadt
 
-    *   2
-
-
-*    *   Werdau
-
-    *   2
+    *   II
 
 
-*    *   Wilkau-Haßlau
+*    *   Werdau, Stadt
 
-    *   2
-
-
-*    *   Wilsdruff
-
-    *   2
+    *   I
 
 
-*    *   Wurzen
+*    *   Wilkau-Haßlau, Stadt
 
-    *   2
-
-
-*    *   Zittau
-
-    *   2
+    *   II
 
 
-*    *   Zschopau
+*    *   Wilsdruff, Stadt
 
-    *   2
-
-
-*    *   Zwickau
-
-    *   2
+    *   II
 
 
-*    *   Zwönitz
+*    *   Wurzen, Stadt
 
-    *   2
+    *   II
 
+
+*    *   Zittau, Stadt
+
+    *   I
+
+
+*    *   Zwickau, Stadt
+
+    *   II
+
+
+*    *   Zwönitz, Stadt
+
+    *   I
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
-
-
-*    *   Annaberg
-
-    *   1
-
-    *   Annaberg-Buchholz
-
-
-*    *   Aue-Schwarzenberg
-
-    *   2
-
-    *   Aue, Lößnitz, Schneeberg, Schwarzenberg/Erzgeb.
+    *   Mietenstufe
 
 
 *    *   Bautzen
 
-    *   1
-
-    *   Bautzen, Bischofswerda
+    *   I
 
 
-*    *   Chemnitzer Land
+*    *   Erzgebirgskreis
 
-    *   2
-
-    *   Glauchau, Hohenstein-Ernstthal, Lichtenstein/Sa.,
-        Limbach-Oberfrohna, Meerane
+    *   I
 
 
-*    *   Delitzsch
+*    *   Görlitz
 
-    *   2
-
-    *   Delitzsch, Eilenburg, Schkeuditz, Taucha
+    *   I
 
 
-*    *   Döbeln
+*    *   Leipzig
 
-    *   2
-
-    *   Döbeln
-
-
-*    *   Freiberg
-
-    *   2
-
-    *   Brand-Erbisdorf, Flöha, Freiberg
-
-
-*    *   Kamenz
-
-    *   2
-
-    *   Kamenz, Ottendorf-Okrilla, Radeberg
-
-
-*    *   Leipziger Land
-
-    *   2
-
-    *   Borna, Markkleeberg, Markranstädt
-
-
-*    *   Löbau-Zittau
-
-    *   1
-
-    *   Löbau, Zittau
+    *   II
 
 
 *    *   Meißen
 
-    *   2
-
-    *   Coswig, Meißen, Radebeul, Weinböhla
+    *   II
 
 
-*    *   Mittlerer Erzgebirgskreis
+*    *   Mittelsachsen
 
-    *   1
-
-    *   Marienberg, Olbernhau, Zschopau
+    *   II
 
 
-*    *   Mittweida
+*    *   Nordsachsen
 
-    *   2
-
-    *   Burgstädt, Frankenberg/Sa., Mittweida, Penig
+    *   I
 
 
-*    *   Muldentalkreis
+*    *   Sächsische Schweiz-Osterzgebirge
 
-    *   2
-
-    *   Grimma, Wurzen
-
-
-*    *   Niederschlesischer Oberlausitzkreis
-
-    *   1
-
-    *   Niesky, Weißwasser/O.L.
-
-
-*    *   Riesa-Großenhain
-
-    *   1
-
-    *   Großenhain, Riesa
-
-
-*    *   Sächsische Schweiz
-
-    *   2
-
-    *   Heidenau, Neustadt i. Sa., Pirna
-
-
-*    *   Stollberg
-
-    *   2
-
-    *   Oelsnitz/Erzgeb., Stollberg/Erzgeb., Zwönitz
-
-
-*    *   Torgau-Oschatz
-
-    *   1
-
-    *   Oschatz, Torgau
+    *   II
 
 
 *    *   Vogtlandkreis
 
-    *   1
-
-    *   Auerbach/Vogtl., Oelsnitz, Reichenbach/Vogtl.
+    *   I
 
 
-*    *   Weißeritzkreis
+*    *   Zwickau
 
-    *   2
-
-    *   Bannewitz, Dippoldiswalde, Freital, Wilsdruff
-
-
-*    *   Zwickauer Land
-
-    *   2
-
-    *   Crimmitschau, Mülsen, Werdau, Wilkau-Haßlau
+    *   I
 
 
 
 
-**Sachsen-Anhalt**
+*Land:* **Sachsen-Anhalt**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Aschersleben
+*    *   Aschersleben, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bad Dürrenberg
+*    *   Bad Dürrenberg, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Bernburg (Saale)
+*    *   Bernburg (Saale), Stadt
 
-    *   2
+    *   II
 
 
-*    *   Bitterfeld-Wolfen
+*    *   Bitterfeld-Wolfen, Stadt
 
-    *   2
+    *   III
 
 
-*    *   Blankenburg (Harz)
+*    *   Blankenburg (Harz), Stadt
 
-    *   2
+    *   I
 
 
-*    *   Braunsbedra
+*    *   Braunsbedra, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Burg
+*    *   Burg, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Calbe (Saale)
+*    *   Coswig (Anhalt), Stadt
 
-    *   3
+    *   I
 
 
-*    *   Dessau-Roßlau
+*    *   Dessau-Roßlau, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Eisleben
+*    *   Eisleben, Lutherstadt
 
-    *   2
+    *   II
 
 
-*    *   Gardelegen
+*    *   Gardelegen, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Genthin
+*    *   Genthin, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Gommern
+*    *   Gommern, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Halberstadt
+*    *   Gräfenhainichen, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Haldensleben
+*    *   Halberstadt, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Halle (Saale)
+*    *   Haldensleben, Stadt
 
-    *   3
+    *   II
 
 
-*    *   Hettstedt
+*    *   Halle (Saale), Stadt
 
-    *   2
+    *   III
 
 
-*    *   Jessen (Elster)
+*    *   Hettstedt, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Köthen (Anhalt)
+*    *   Hohe Börde
 
-    *   3
+    *   I
 
 
-*    *   Magdeburg
+*    *   Jessen (Elster), Stadt
 
-    *   3
+    *   I
 
 
-*    *   Merseburg
+*    *   Kemberg, Stadt
 
-    *   3
+    *   I
 
 
-*    *   Naumburg (Saale)
+*    *   Klötze, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Oschersleben (Bode)
+*    *   Köthen (Anhalt), Stadt
 
-    *   2
+    *   II
 
 
-*    *   Quedlinburg
+*    *   Landsberg, Stadt
 
-    *   2
+    *   I
 
 
-*    *   Querfurt
+*    *   Leuna, Stadt
 
-    *   1
+    *   II
 
 
-*    *   Salzwedel
+*    *   Magdeburg, Landeshauptstadt
 
-    *   2
+    *   III
 
 
-*    *   Sangerhausen
+*    *   Merseburg, Stadt
 
-    *   2
+    *   III
+
+
+*    *   Möckern, Stadt
+
+    *   I
+
+
+*    *   Muldestausee
+
+    *   I
+
+
+*    *   Naumburg (Saale), Stadt
+
+    *   II
+
+
+*    *   Oberharz am Brocken
+
+    *   I
+
+
+*    *   Oebisfelde-Weferlingen
+
+    *   II
+
+
+*    *   Oschersleben (Bode), Stadt
+
+    *   II
+
+
+*    *   Osterburg (Altmark)
+
+    *   II
+
+
+*    *   Osterwieck, Stadt
+
+    *   I
+
+
+*    *   Quedlinburg, Stadt
+
+    *   II
+
+
+*    *   Querfurt, Stadt
+
+    *   I
+
+
+*    *   Salzatal
+
+    *   II
+
+
+*    *   Salzwedel, Hansestadt
+
+    *   II
+
+
+*    *   Sandersdorf-Brehna
+
+    *   II
+
+
+*    *   Sangerhausen, Stadt
+
+    *   II
 
 
 *    *   Schkopau
 
-    *   3
+    *   II
 
 
-*    *   Schönebeck (Elbe)
+*    *   Schönebeck (Elbe), Stadt
 
-    *   2
-
-
-*    *   Staßfurt
-
-    *   2
+    *   II
 
 
-*    *   Stendal
+*    *   Staßfurt, Stadt
 
-    *   2
-
-
-*    *   Thale
-
-    *   2
+    *   II
 
 
-*    *   Weißenfels
+*    *   Stendal, Stadt
 
-    *   3
-
-
-*    *   Wernigerode
-
-    *   2
+    *   II
 
 
-*    *   Wittenberg
+*    *   Südliches Anhalt, Stadt
 
-    *   3
-
-
-*    *   Wolmirstedt
-
-    *   2
+    *   II
 
 
-*    *   Zeitz
+*    *   Tangerhütte, Stadt
 
-    *   2
+    *   II
 
 
-*    *   Zerbst/Anhalt
+*    *   Tangermünde, Stadt
 
-    *   2
+    *   II
 
+
+*    *   Teutschenthal
+
+    *   II
+
+
+*    *   Thale, Stadt
+
+    *   I
+
+
+*    *   Wanzleben-Börde, Stadt
+
+    *   II
+
+
+*    *   Weißenfels, Stadt
+
+    *   II
+
+
+*    *   Wernigerode, Stadt
+
+    *   II
+
+
+*    *   Wettin-Löbejün, Stadt
+
+    *   II
+
+
+*    *   Wittenberg, Lutherstadt
+
+    *   II
+
+
+*    *   Wolmirstedt, Stadt
+
+    *   II
+
+
+*    *   Zeitz, Stadt
+
+    *   II
+
+
+*    *   Zerbst/Anhalt, Stadt
+
+    *   II
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
-*    *   Altmarkkreis Salzwedel
+*    *   Altmarkkreis-Salzwedel
 
-    *   1
-
-    *   Gardelegen, Salzwedel
+    *   I
 
 
 *    *   Anhalt-Bitterfeld
 
-    *   2
-
-    *   Bitterfeld-Wolfen, Köthen (Anhalt), Zerbst/Anhalt
+    *   II
 
 
 *    *   Börde
 
-    *   1
-
-    *   Haldensleben, Oschersleben (Bode), Wolmirstedt
+    *   I
 
 
 *    *   Burgenlandkreis
 
-    *   2
-
-    *   Naumburg (Saale), Weißenfels, Zeitz
+    *   I
 
 
 *    *   Harz
 
-    *   2
-
-    *   Blankenburg (Harz), Halberstadt, Quedlinburg, Thale,
-        Wernigerode
+    *   I
 
 
 *    *   Jerichower Land
 
-    *   2
-
-    *   Burg, Genthin, Gommern
+    *   II
 
 
 *    *   Mansfeld-Südharz
 
-    *   1
-
-    *   Eisleben, Hettstedt, Sangerhausen
+    *   I
 
 
 *    *   Saalekreis
 
-    *   2
-
-    *   Bad Dürrenberg, Braunsbedra, Merseburg, Querfurt, Schkopau
+    *   II
 
 
 *    *   Salzlandkreis
 
-    *   2
-
-    *   Aschersleben, Bernburg (Saale), Calbe (Saale),
-        Schönebeck (Elbe), Staßfurt
+    *   II
 
 
 *    *   Stendal
 
-    *   1
-
-    *   Stendal
+    *   I
 
 
 *    *   Wittenberg
 
-    *   1
-
-    *   Jessen (Elster), Wittenberg
+    *   I
 
 
 
 
-**Schleswig-Holstein**
+*Land:* **Schleswig-Holstein**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Ahrensburg
+*    *   Ahrensburg, Stadt
 
-    *   5
-
-
-*    *   Bad Bramstedt
-
-    *   3
+    *   VI
 
 
-*    *   Bad Oldesloe
+*    *   Bad Bramstedt, Stadt
 
-    *   4
-
-
-*    *   Bad Schwartau
-
-    *   5
+    *   IV
 
 
-*    *   Bad Segeberg
+*    *   Bad Oldesloe, Stadt
 
-    *   5
+    *   IV
 
 
-*    *   Bargteheide
+*    *   Bad Schwartau, Stadt
 
-    *   5
+    *   V
+
+
+*    *   Bad Segeberg, Stadt
+
+    *   IV
+
+
+*    *   Bargteheide, Stadt
+
+    *   V
+
+
+*    *   Barmstedt
+
+    *   IV
 
 
 *    *   Barsbüttel
 
-    *   5
+    *   VI
 
 
-*    *   Brunsbüttel
+*    *   Brunsbüttel, Stadt
 
-    *   2
-
-
-*    *   Büdelsdorf
-
-    *   3
+    *   II
 
 
-*    *   Eckernförde
+*    *   Eckernförde, Stadt
 
-    *   3
-
-
-*    *   Elmshorn
-
-    *   4
+    *   IV
 
 
-*    *   Eutin
+*    *   Elmshorn, Stadt
 
-    *   3
-
-
-*    *   Fehmarn
-
-    *   3
+    *   IV
 
 
-*    *   Flensburg
+*    *   Eutin, Stadt
 
-    *   3
-
-
-*    *   Geesthacht
-
-    *   4
+    *   IV
 
 
-*    *   Glinde
+*    *   Fehmarn, Stadt
 
-    *   5
+    *   IV
 
 
-*    *   Glückstadt
+*    *   Flensburg, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Geesthacht, Stadt
+
+    *   IV
+
+
+*    *   Glinde, Stadt
+
+    *   V
+
+
+*    *   Glückstadt, Stadt
+
+    *   II
 
 
 *    *   Halstenbek
 
-    *   6
+    *   VI
+
+
+*    *   Handewitt
+
+    *   I
 
 
 *    *   Harrislee
 
-    *   3
+    *   III
 
 
-*    *   Heide
+*    *   Heide, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Henstedt-Ulzburg
 
-    *   4
+    *   IV
 
 
-*    *   Husum
+*    *   Husum, Stadt
 
-    *   3
-
-
-*    *   Itzehoe
-
-    *   3
+    *   III
 
 
-*    *   Kaltenkirchen
+*    *   Itzehoe, Stadt
 
-    *   4
+    *   III
 
 
-*    *   Kiel
+*    *   Kaltenkirchen, Stadt
 
-    *   5
+    *   IV
+
+
+*    *   Kiel, Landeshauptstadt
+
+    *   V
 
 
 *    *   Kronshagen
 
-    *   4
+    *   IV
 
 
-*    *   Lauenburg/Elbe
+*    *   Lauenburg/Elbe, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Lübeck
+*    *   Lübeck, Hansestadt
 
-    *   4
+    *   IV
 
 
 *    *   Malente
 
-    *   4
+    *   III
 
 
-*    *   Mölln
+*    *   Mölln, Stadt
 
-    *   4
-
-
-*    *   Neumünster
-
-    *   3
+    *   III
 
 
-*    *   Neustadt in Holstein
+*    *   Neumünster, Stadt
 
-    *   3
-
-
-*    *   Norderstedt
-
-    *   6
+    *   III
 
 
-*    *   Pinneberg
+*    *   Neustadt in Holstein, Stadt
 
-    *   6
-
-
-*    *   Plön
-
-    *   4
+    *   III
 
 
-*    *   Preetz
+*    *   Norderstedt, Stadt
 
-    *   4
+    *   VI
 
 
-*    *   Quickborn
+*    *   Pinneberg, Stadt
 
-    *   5
+    *   VI
+
+
+*    *   Preetz, Stadt
+
+    *   IV
+
+
+*    *   Quickborn, Stadt
+
+    *   VI
 
 
 *    *   Ratekau
 
-    *   4
+    *   IV
 
 
-*    *   Ratzeburg
+*    *   Ratzeburg, Stadt
 
-    *   3
+    *   IV
 
 
-*    *   Reinbek
+*    *   Reinbek, Stadt
 
-    *   5
+    *   V
 
 
 *    *   Rellingen
 
-    *   5
+    *   V
 
 
-*    *   Rendsburg
+*    *   Rendsburg, Stadt
 
-    *   3
+    *   III
 
 
 *    *   Scharbeutz
 
-    *   4
+    *   V
 
 
-*    *   Schenefeld
+*    *   Schenefeld, Stadt
 
-    *   6
-
-
-*    *   Schleswig
-
-    *   3
+    *   VI
 
 
-*    *   Schwarzenbek
+*    *   Schleswig, Stadt
 
-    *   4
+    *   III
+
+
+*    *   Schwarzenbek, Stadt
+
+    *   IV
+
+
+*    *   Schwentinental
+
+    *   IV
 
 
 *    *   Stockelsdorf
 
-    *   4
+    *   IV
+
+
+*    *   Sylt
+
+    *   VI
 
 
 *    *   Tornesch
 
-    *   4
+    *   IV
 
 
-*    *   Uetersen
+*    *   Uetersen, Stadt
 
-    *   4
+    *   IV
 
 
-*    *   Wedel
+*    *   Wedel, Stadt
 
-    *   6
+    *   VI
 
 
 *    *   Wentorf bei Hamburg
 
-    *   4
-
+    *   IV
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Dithmarschen
 
-    *   1
-
-    *   Brunsbüttel, Heide
+    *   I
 
 
 *    *   Herzogtum Lauenburg
 
-    *   3
-
-    *   Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf
-        bei Hamburg
+    *   III
 
 
 *    *   Nordfriesland
 
-    *   2
-
-    *   Husum
+    *   II
 
 
 *    *   Ostholstein
 
-    *   3
-
-    *   Bad Schwartau, Eutin, Fehmarn, Malente, Neustadt in Holstein, Ratekau,
-        Scharbeutz, Stockelsdorf
+    *   III
 
 
 *    *   Pinneberg
 
-    *   4
-
-    *   Elmshorn, Halstenbek, Pinneberg, Quickborn,
-        Rellingen, Schenefeld, Tornesch, Uetersen, Wedel
+    *   IV
 
 
 *    *   Plön
 
-    *   3
-
-    *   Plön, Preetz
+    *   III
 
 
 *    *   Rendsburg-Eckernförde
 
-    *   2
-
-    *   Büdelsdorf, Eckernförde, Kronshagen, Rendsburg
+    *   II
 
 
 *    *   Schleswig-Flensburg
 
-    *   2
-
-    *   Harrislee, Schleswig
+    *   I
 
 
 *    *   Segeberg
 
-    *   3
-
-    *   Bad Bramstedt, Bad Segeberg, Henstedt-Ulzburg,
-        Kaltenkirchen, Norderstedt
+    *   III
 
 
 *    *   Steinburg
 
-    *   2
-
-    *   Glückstadt, Itzehoe
+    *   II
 
 
 *    *   Stormarn
 
-    *   4
-
-    *   Ahrensburg, Bad Oldesloe, Bargteheide, Barsbüttel, Glinde, Reinbek
+    *   IV
 
 
 
 
-**Thüringen**
+*Land:* **Thüringen**
 
 *    *   Gemeinde
 
-    *   Mieten-
-        stufe
+    *   Mietenstufe
 
 
-*    *   Altenburg
+*    *   Altenburg, Stadt
 
-    *   2
-
-
-*    *   Apolda
-
-    *   2
+    *   II
 
 
-*    *   Arnstadt
+*    *   Apolda, Stadt
 
-    *   2
-
-
-*    *   Bad Langensalza
-
-    *   2
+    *   II
 
 
-*    *   Bad Salzungen
+*    *   Arnstadt, Stadt
 
-    *   2
-
-
-*    *   Eisenach
-
-    *   3
+    *   II
 
 
-*    *   Eisenberg
+*    *   Bad Langensalza, Stadt
 
-    *   2
-
-
-*    *   Erfurt
-
-    *   3
+    *   II
 
 
-*    *   Gera
+*    *   Bad Salzungen, Stadt
 
-    *   2
-
-
-*    *   Gotha
-
-    *   2
+    *   II
 
 
-*    *   Greiz
+*    *   Eisenach, Stadt
 
-    *   2
-
-
-*    *   Heilbad Heiligenstadt
-
-    *   3
+    *   III
 
 
-*    *   Hildburghausen
+*    *   Eisenberg, Stadt
 
-    *   2
-
-
-*    *   Ilmenau
-
-    *   2
+    *   II
 
 
-*    *   Jena
+*    *   Erfurt, Stadt
 
-    *   3
+    *   III
+
+
+*    *   Gera, Stadt
+
+    *   II
+
+
+*    *   Gotha, Stadt
+
+    *   II
+
+
+*    *   Greiz, Stadt
+
+    *   I
+
+
+*    *   Heilbad Heiligenstadt, Stadt
+
+    *   II
+
+
+*    *   Hildburghausen, Stadt
+
+    *   II
+
+
+*    *   Ilmenau, Stadt
+
+    *   II
+
+
+*    *   Jena, Stadt
+
+    *   IV
 
 
 *    *   Leinefelde-Worbis
 
-    *   2
+    *   I
 
 
-*    *   Meiningen
+*    *   Meiningen, Stadt
 
-    *   2
-
-
-*    *   Meuselwitz
-
-    *   3
+    *   II
 
 
-*    *   Mühlhausen/Thüringen
+*    *   Meuselwitz, Stadt
 
-    *   2
-
-
-*    *   Nordhausen
-
-    *   2
+    *   II
 
 
-*    *   Pößneck
+*    *   Mühlhausen/Thüringen, Stadt
 
-    *   2
-
-
-*    *   Rudolstadt
-
-    *   2
+    *   II
 
 
-*    *   Saalfeld/Saale
+*    *   Nordhausen, Stadt
 
-    *   2
-
-
-*    *   Schmalkalden
-
-    *   1
+    *   II
 
 
-*    *   Schmölln
+*    *   Pößneck, Stadt
 
-    *   2
-
-
-*    *   Sömmerda
-
-    *   2
+    *   II
 
 
-*    *   Sondershausen
+*    *   Rudolstadt, Stadt
 
-    *   2
-
-
-*    *   Sonneberg
-
-    *   2
+    *   II
 
 
-*    *   Suhl
+*    *   Saalfeld/Saale, Stadt
 
-    *   2
-
-
-*    *   Waltershausen
-
-    *   1
+    *   II
 
 
-*    *   Weimar
+*    *   Schmalkalden, Kurort, Stadt
 
-    *   3
-
-
-*    *   Zella-Mehlis
-
-    *   3
+    *   I
 
 
-*    *   Zeulenroda-Triebes
+*    *   Schmölln, Stadt
 
-    *   1
+    *   II
 
+
+*    *   Sömmerda, Stadt
+
+    *   II
+
+
+*    *   Sondershausen, Stadt
+
+    *   II
+
+
+*    *   Sonneberg, Stadt
+
+    *   II
+
+
+*    *   Suhl, Stadt
+
+    *   II
+
+
+*    *   Waltershausen, Stadt
+
+    *   II
+
+
+*    *   Weimar, Stadt
+
+    *   III
+
+
+*    *   Zella-Mehlis, Stadt
+
+    *   II
+
+
+*    *   Zeulenroda-Triebes, Stadt
+
+    *   I
 
 
 
 
 *    *   Kreis
 
-    *   Mieten-
-        stufe
-
-    *   ohne die Gemeinden
+    *   Mietenstufe
 
 
 *    *   Altenburger Land
 
-    *   2
-
-    *   Altenburg, Meuselwitz, Schmölln
+    *   I
 
 
 *    *   Eichsfeld
 
-    *   1
-
-    *   Heilbad Heiligenstadt, Leinefelde-Worbis
+    *   I
 
 
 *    *   Gotha
 
-    *   2
-
-    *   Gotha, Waltershausen
+    *   I
 
 
 *    *   Greiz
 
-    *   1
-
-    *   Greiz, Zeulenroda-Triebes
+    *   I
 
 
 *    *   Hildburghausen
 
-    *   1
-
-    *   Hildburghausen
+    *   I
 
 
 *    *   Ilm-Kreis
 
-    *   2
-
-    *   Arnstadt, Ilmenau
+    *   II
 
 
 *    *   Kyffhäuserkreis
 
-    *   1
-
-    *   Sondershausen
+    *   I
 
 
 *    *   Nordhausen
 
-    *   1
-
-    *   Nordhausen
+    *   I
 
 
 *    *   Saale-Holzland-Kreis
 
-    *   2
-
-    *   Eisenberg
+    *   II
 
 
 *    *   Saale-Orla-Kreis
 
-    *   2
-
-    *   Pößneck
+    *   II
 
 
 *    *   Saalfeld-Rudolstadt
 
-    *   2
-
-    *   Rudolstadt, Saalfeld/Saale
+    *   II
 
 
 *    *   Schmalkalden-Meiningen
 
-    *   1
-
-    *   Meiningen, Schmalkalden, Zella-Mehlis
+    *   I
 
 
 *    *   Sömmerda
 
-    *   2
-
-    *   Sömmerda
+    *   I
 
 
 *    *   Sonneberg
 
-    *   1
-
-    *   Sonneberg
+    *   I
 
 
 *    *   Unstrut-Hainich-Kreis
 
-    *   1
-
-    *   Bad Langensalza, Mühlhausen/Thüringen
+    *   I
 
 
 *    *   Wartburgkreis
 
-    *   2
-
-    *   Bad Salzungen
+    *   I
 
 
 *    *   Weimarer Land
 
-    *   2
-
-    *   Apolda
+    *   II
 
 
 
 
-    Zugrunde liegen Daten der Wohngeldstatistik zum 31. Dezember 2006
-    einschließlich der bis zum 31. März 2007 erfolgten rückwirkenden
-    Bewilligungen.
-[^f771614_01_BJNR020650971BJNE002413308]: 

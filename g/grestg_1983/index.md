@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.2.1997 I 418, 1804;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 1.11.2011 I 2131
+:   Art. 18 G v. 18.7.2016 I 1679
 
 
 ## Erster Abschnitt - Gegenstand der Steuer
@@ -94,7 +94,17 @@ Gesellschafterbestand unmittelbar oder mittelbar dergestalt, daß
 mindestens 95 vom Hundert der Anteile am Gesellschaftsvermögen auf
 neue Gesellschafter übergehen, gilt dies als ein auf die Übereignung
 eines Grundstücks auf eine neue Personengesellschaft gerichtetes
-Rechtsgeschäft. Bei der Ermittlung des Vomhundertsatzes bleibt der
+Rechtsgeschäft. Mittelbare Änderungen im Gesellschafterbestand von den
+an einer Personengesellschaft beteiligten Personengesellschaften
+werden durch Multiplikation der Vomhundertsätze der Anteile am
+Gesellschaftsvermögen anteilig berücksichtigt. Ist eine
+Kapitalgesellschaft an einer Personengesellschaft unmittelbar oder
+mittelbar beteiligt, gelten die Sätze 4 und 5. Eine unmittelbar
+beteiligte Kapitalgesellschaft gilt in vollem Umfang als neue
+Gesellschafterin, wenn an ihr mindestens 95 vom Hundert der Anteile
+auf neue Gesellschafter übergehen. Bei mehrstufigen Beteiligungen gilt
+Satz 4 auf der Ebene jeder mittelbar beteiligten Kapitalgesellschaft
+entsprechend. Bei der Ermittlung des Vomhundertsatzes bleibt der
 Erwerb von Anteilen von Todes wegen außer Betracht. Hat die
 Personengesellschaft vor dem Wechsel des Gesellschafterbestandes ein
 Grundstück von einem Gesellschafter oder einer anderen Gesamthand
@@ -134,6 +144,18 @@ Absatz 2a nicht in Betracht kommt, außerdem:
 
 
 
+(3a) Soweit eine Besteuerung nach Absatz 2a und Absatz 3 nicht in
+Betracht kommt, gilt als Rechtsvorgang im Sinne des Absatzes 3 auch
+ein solcher, aufgrund dessen ein Rechtsträger unmittelbar oder
+mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche
+Beteiligung in Höhe von mindestens 95 vom Hundert an einer
+Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört,
+innehat. Die wirtschaftliche Beteiligung ergibt sich aus der Summe der
+unmittelbaren und mittelbaren Beteiligungen am Kapital oder am
+Vermögen der Gesellschaft. Für die Ermittlung der mittelbaren
+Beteiligungen sind die Vomhundertsätze am Kapital oder am Vermögen der
+Gesellschaften zu multiplizieren.
+
 (4) Im Sinne des Absatzes 3 gelten
 
 1.  als Gesellschaften auch die bergrechtlichen Gewerkschaften und
@@ -161,12 +183,12 @@ auf Übereignung eines Grundstücks begründet, unterliegt der Steuer
 sowohl die Vereinbarung über die Leistung des einen als auch die
 Vereinbarung über die Leistung des anderen Vertragsteils.
 
-(6) Ein in Absatz 1, 2 oder 3 bezeichneter Rechtsvorgang unterliegt
-der Steuer auch dann, wenn ihm ein in einem anderen dieser Absätze
-bezeichneter Rechtsvorgang vorausgegangen ist. Die Steuer wird jedoch
-nur insoweit erhoben, als die Bemessungsgrundlage für den späteren
-Rechtsvorgang den Betrag übersteigt, von dem beim vorausgegangenen
-Rechtsvorgang die Steuer berechnet worden ist.
+(6) Ein in Absatz 1, 2, 3 oder Absatz 3a bezeichneter Rechtsvorgang
+unterliegt der Steuer auch dann, wenn ihm ein in einem anderen dieser
+Absätze bezeichneter Rechtsvorgang vorausgegangen ist. Die Steuer wird
+jedoch nur insoweit erhoben, als die Bemessungsgrundlage für den
+späteren Rechtsvorgang den Betrag übersteigt, von dem beim
+vorausgegangenen Rechtsvorgang die Steuer berechnet worden ist.
 
 (7) (weggefallen)
 
@@ -298,53 +320,18 @@ Von der Besteuerung sind ausgenommen:
     kulturelle Zwecke bestimmt ist und Gegenseitigkeit gewährt wird;
 
 
-4.  der Erwerb eines Grundstücks durch eine Kapitalgesellschaft, wenn das
-    Grundstück vor dem 1. Januar 1999 nach den Vorschriften des Gesetzes
-    über die Spaltung der von der Treuhandanstalt verwalteten Unternehmen
-    vom 5. April 1991 (BGBl. I S. 854) oder im Zusammenhang mit der
-    Umstrukturierung der Treuhandanstalt im Wege der Übertragung von
-    Beteiligungen durch die auf Grund des § 23a des Treuhandgesetzes
-    erlassenen Rechtsverordnungen oder im Wege der Vermögenszuordnung nach
-    dem Vermögenszuordnungsgesetz auf die Kapitalgesellschaft übergeht.
-    Ausgenommen ist der Übergang eines Grundstücks, das die
-    Treuhandanstalt von Dritten erworben hat. Dritte sind nicht
-    Kapitalgesellschaften, deren Aktien oder Geschäftsanteile sich
-    unmittelbar oder mittelbar mehrheitlich in der Hand der
-    Treuhandanstalt befinden;
+4.  der Übergang von Grundstücken gemäß § 1 Absatz 1 Nummer 3 und von
+    Gesellschaftsanteilen gemäß § 1 Absatz 3 Nummer 2 und 4 als
+    unmittelbare Rechtsfolge eines Zusammenschlusses kommunaler
+    Gebietskörperschaften, der durch Vereinbarung der beteiligten
+    Gebietskörperschaften mit Zustimmung der nach Landesrecht zuständigen
+    Stelle oder durch Gesetz zustande kommt, sowie Rechtsgeschäfte über
+    Grundstücke gemäß § 1 Absatz 1 Nummer 1 und über Gesellschaftsanteile
+    gemäß § 1 Absatz 3 Nummer 1 und 3 aus Anlass der Aufhebung der
+    Kreisfreiheit einer Gemeinde;
 
 
-5.  der Erwerb eines Grundstücks, das nach Artikel 21 und 22 des
-    Einigungsvertrages in das Eigentum einer Kommune übergegangen ist,
-    wenn der Erwerb vor dem 1. Januar 1999 durch eine Wohnungsgesellschaft
-    erfolgt, deren Anteile sich ausschließlich in der Hand der
-    übertragenden Kommunen befinden;
-
-
-6.  der Erwerb eines Grundstücks durch den Bund, ein Land, eine Gemeinde
-    oder einen Gemeindeverband, wenn das Grundstück vor dem 1. Januar 1999
-    im Rahmen der Zuordnung des Verwaltungs- oder Finanzvermögens nach den
-    Vorschriften der Artikel 21 und 22 des Einigungsvertrages übertragen
-    wird;
-
-
-7.  der Erwerb eines Grundstücks durch eine Wohnungsgenossenschaft, wenn
-    das Grundstück vor dem 1. Januar 1999 im Rahmen der Zuordnung nach § 1
-    Abs. 1 und 2 und § 2 des Wohnungsgenossenschafts-Vermögensgesetzes
-    durch Zuordnungsbescheid nach § 1 Abs. 6 des Wohnungsgenossenschafts-
-    Vermögensgesetzes übertragen wird;
-
-
-8.  der Erwerb eines in den Ländern Brandenburg, Mecklenburg-Vorpommern,
-    Sachsen, Sachsen-Anhalt, Thüringen oder Berlin belegenen Grundstücks
-    durch Verschmelzung oder Spaltung nach dem Umwandlungsgesetz oder
-    durch einen Vorgang, der einer solchen Verschmelzung oder Spaltung
-    entspricht, soweit an der Verschmelzung oder Spaltung nur
-    Wohnungsgesellschaften oder Wohnungsgenossenschaften beteiligt sind,
-    wenn die Verschmelzung oder Spaltung nach dem 31. Dezember 2003 und
-    vor dem 1. Januar 2007 erfolgt;
-
-
-9.  der Erwerb eines Grundstücks von einer juristischen Person des
+5.  der Erwerb eines Grundstücks von einer juristischen Person des
     öffentlichen Rechts sowie der Rückerwerb des Grundstücks durch die
     juristische Person des öffentlichen Rechts, wenn das Grundstück im
     Rahmen einer Öffentlich Privaten Partnerschaft für einen öffentlichen
@@ -416,23 +403,25 @@ vereinbart worden ist.
 
 ### § 6a Steuervergünstigung bei Umstrukturierungen im Konzern
 
-Für einen nach § 1 Absatz 1 Nummer 3, Absatz 2a oder 3 steuerbaren
-Rechtsvorgang aufgrund einer Umwandlung im Sinne des § 1 Absatz 1
-Nummer 1 bis 3 des Umwandlungsgesetzes wird die Steuer nicht erhoben;
-für die aufgrund einer Umwandlung übergehende Verwertungsbefugnis wird
-die Steuer nach § 1 Absatz 2 insoweit nicht erhoben. Satz 1 gilt auch
-für entsprechende Umwandlungen aufgrund des Rechts eines
-Mitgliedstaats der Europäischen Union oder eines Staats, auf den das
-Abkommen über den Europäischen Wirtschaftsraum Anwendung findet. Satz
-1 gilt nur, wenn an dem Umwandlungsvorgang ausschließlich ein
-herrschendes Unternehmen und ein oder mehrere von diesem herrschenden
-Unternehmen abhängige Gesellschaften oder mehrere von einem
-herrschenden Unternehmen abhängige Gesellschaften beteiligt sind. Im
-Sinne von Satz 3 abhängig ist eine Gesellschaft, an deren Kapital oder
-Gesellschaftsvermögen das herrschende Unternehmen innerhalb von fünf
-Jahren vor dem Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang
-unmittelbar oder mittelbar oder teils unmittelbar, teils mittelbar zu
-mindestens 95 vom Hundert ununterbrochen beteiligt ist.
+Für einen nach § 1 Absatz 1 Nummer 3 Satz 1, Absatz 2, 2a, 3 oder
+Absatz 3a steuerbaren Rechtsvorgang auf Grund einer Umwandlung im
+Sinne des § 1 Absatz 1 Nummer 1 bis 3 des Umwandlungsgesetzes, einer
+Einbringung oder eines anderen Erwerbsvorgangs auf
+gesellschaftsvertraglicher Grundlage wird die Steuer nicht erhoben.
+Satz 1 gilt auch für entsprechende Umwandlungen, Einbringungen sowie
+andere Erwerbsvorgänge auf gesellschaftsvertraglicher Grundlage auf
+Grund des Rechts eines Mitgliedstaates der Europäischen Union oder
+eines Staats, auf den das Abkommen über den Europäischen
+Wirtschaftsraum Anwendung findet. Satz 1 gilt nur, wenn an dem dort
+genannten Rechtsvorgang ausschließlich ein herrschendes Unternehmen
+und ein oder mehrere von diesem herrschenden Unternehmen abhängige
+Gesellschaften oder mehrere von einem herrschenden Unternehmen
+abhängige Gesellschaften beteiligt sind. Im Sinne von Satz 3 abhängig
+ist eine Gesellschaft, an deren Kapital oder Gesellschaftsvermögen das
+herrschende Unternehmen innerhalb von fünf Jahren vor dem
+Rechtsvorgang und fünf Jahren nach dem Rechtsvorgang unmittelbar oder
+mittelbar oder teils unmittelbar, teils mittelbar zu mindestens 95 vom
+Hundert ununterbrochen beteiligt ist.
 
 
 ### § 7 Umwandlung von gemeinschaftlichem Eigentum in Flächeneigentum
@@ -471,8 +460,9 @@ worden ist.
 
 (1) Die Steuer bemißt sich nach dem Wert der Gegenleistung.
 
-(2) Die Steuer wird nach den Werten im Sinne des § 138 Abs. 2 bis 4
-des Bewertungsgesetzes bemessen:
+(2) Die Steuer wird nach den Grundbesitzwerten im Sinne des § 151
+Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 157 Absatz 1 bis 3 des
+Bewertungsgesetzes bemessen:
 
 1.  wenn eine Gegenleistung nicht vorhanden oder nicht zu ermitteln ist;
 
@@ -482,14 +472,14 @@ des Bewertungsgesetzes bemessen:
     gesellschaftsvertraglicher Grundlage;
 
 
-3.  in den Fällen des § 1 Abs. 2a und 3.
+3.  in den Fällen des § 1 Absatz 2a, 3 und 3a.
 
 
 
 Erstreckt sich der Erwerbsvorgang auf ein noch zu errichtendes Gebäude
 oder beruht die Änderung des Gesellschafterbestandes im Sinne des § 1
 Abs. 2a auf einem vorgefaßten Plan zur Bebauung eines Grundstücks, ist
-der Wert des Grundstücks abweichend von § 138 Abs. 1 Satz 1 des
+der Wert des Grundstücks abweichend von § 157 Absatz 1 Satz 1 des
 Bewertungsgesetzes nach den tatsächlichen Verhältnissen im Zeitpunkt
 der Fertigstellung des Gebäudes maßgebend.
 
@@ -652,7 +642,13 @@ Steuerschuldner sind
 
 6.  bei Änderung des Gesellschafterbestandes einer Personengesellschaft:
 
-    die Personengesellschaft.
+    die Personengesellschaft;
+
+
+7.  bei der wirtschaftlichen Beteiligung von mindestens 95 vom Hundert an
+    einer Gesellschaft:
+
+    der Rechtsträger, der die wirtschaftliche Beteiligung innehat.
 
 
 
@@ -743,8 +739,9 @@ Festsetzungsfrist (§§ 169 bis 171 der Abgabenordnung) insoweit nicht
 vor Ablauf eines Jahres nach dem Eintritt des Ereignisses.
 
 (5) Die Vorschriften der Absätze 1 bis 4 gelten nicht, wenn einer der
-in § 1 Abs. 2, 2a und 3 bezeichneten Erwerbsvorgänge rückgängig
-gemacht wird, der nicht ordnungsmäßig angezeigt (§§ 18, 19) war.
+in § 1 Absatz 2 bis 3a bezeichneten Erwerbsvorgänge rückgängig gemacht
+wird, der nicht fristgerecht und in allen Teilen vollständig angezeigt
+(§§ 18 bis 20) war.
 
 
 ## Siebenter Abschnitt - Örtliche Zuständigkeit, Feststellung von Besteuerungsgrundlagen, Anzeigepflichten und Erteilung der Unbedenklichkeitsbescheinigung
@@ -774,8 +771,8 @@ liegt, die Besteuerungsgrundlagen gesondert fest.
     Geschäftsleitung des Erwerbers befindet, und
 
 
-2.  in den Fällen des § 1 Abs. 2a und 3 durch das Finanzamt, in dessen
-    Bezirk sich die Geschäftsleitung der Gesellschaft befindet,
+2.  in den Fällen des § 1 Absatz 2a, 3 und 3a durch das Finanzamt, in
+    dessen Bezirk sich die Geschäftsleitung der Gesellschaft befindet,
 
 
 
@@ -790,7 +787,8 @@ das nach Absatz 2 zuständige Finanzamt die Besteuerungsgrundlagen
 gesondert fest.
 
 (3a) In die gesonderte Feststellung nach Absatz 2 und 3 sind nicht die
-Werte im Sinne des § 138 Abs. 2 bis 4 des Bewertungsgesetzes
+Grundbesitzwerte im Sinne des § 151 Absatz 1 Satz 1 Nummer 1 in
+Verbindung mit § 157 Absatz 1 bis 3 des Bewertungsgesetzes
 aufzunehmen, wenn die Steuer nach § 8 Abs. 2 zu bemessen ist.
 
 (4) Von der gesonderten Feststellung kann abgesehen werden, wenn
@@ -910,6 +908,13 @@ Finanzamt zu richten.
     Grundstück gehört (§ 1 Abs. 3 Nr. 4);
 
 
+7a. Rechtsvorgänge, aufgrund derer ein Rechtsträger unmittelbar oder
+    mittelbar oder teils unmittelbar, teils mittelbar eine wirtschaftliche
+    Beteiligung in Höhe von mindestens 95 vom Hundert an einer
+    Gesellschaft, zu deren Vermögen ein inländisches Grundstück gehört,
+    innehat (§ 1 Absatz 3a);
+
+
 8.  Entscheidungen im Sinne von § 18 Abs. 1 Satz 1 Nr. 3. Die
     Anzeigepflicht besteht auch beim Wechsel im Grundstückseigentum auf
     Grund einer Eintragung im Handels-, Genossenschafts- oder
@@ -948,8 +953,8 @@ Fällen Anzeige zu erstatten über
 
 
 5.  Änderungen in der Nutzung oder den Verzicht auf Rückübertragung, wenn
-    der Grundstückserwerb nach § 4 Nr. 9 von der Besteuerung ausgenommen
-    war.
+    der Grundstückserwerb nach § 4 Nummer 5 von der Besteuerung
+    ausgenommen war.
 
 
 
@@ -957,7 +962,11 @@ Fällen Anzeige zu erstatten über
 (3) Die Anzeigepflichtigen haben innerhalb von zwei Wochen, nachdem
 sie von dem anzeigepflichtigen Vorgang Kenntnis erhalten haben, den
 Vorgang anzuzeigen, und zwar auch dann, wenn der Vorgang von der
-Besteuerung ausgenommen ist.
+Besteuerung ausgenommen ist. Die Frist nach Satz 1 verlängert sich auf
+einen Monat für den Steuerschuldner, der eine natürliche Person ohne
+Wohnsitz oder gewöhnlichen Aufenthalt im Inland, eine
+Kapitalgesellschaft ohne Geschäftsleitung oder Sitz im Inland oder
+eine Personengesellschaft ohne Ort der Geschäftsführung im Inland ist.
 
 (4) Die Anzeigen sind an das für die Besteuerung, in den Fällen des §
 17 Abs. 2 und 3 an das für die gesonderte Feststellung zuständige
@@ -1011,7 +1020,10 @@ müssen außerdem enthalten:
     Abgabenordnung,
 
 
-2.  die Bezeichnung des oder der Gesellschaftsanteile.
+2.  die Bezeichnung des oder der Gesellschaftsanteile;
+
+
+3.  bei mehreren beteiligten Rechtsträgern eine Beteiligungsübersicht.
 
 
 
@@ -1022,7 +1034,8 @@ müssen außerdem enthalten:
 Die Gerichte, Behörden und Notare dürfen Urkunden, die einen
 anzeigepflichtigen Vorgang betreffen, den Beteiligten erst aushändigen
 und Ausfertigungen oder beglaubigte Abschriften den Beteiligten erst
-erteilen, wenn sie die Anzeige an das Finanzamt abgesandt haben.
+erteilen, wenn sie die Anzeigen in allen Teilen vollständig (§§ 18 und
+20) an das Finanzamt abgesandt haben.
 
 
 ### § 22 Unbedenklichkeitsbescheinigung
@@ -1124,13 +1137,42 @@ rückgängig gemacht wird und deshalb nach § 16 Absatz 1 oder 2 die
 Steuer nicht zu erheben oder eine Steuerfestsetzung aufzuheben oder zu
 ändern ist.
 
-(9) § 3 Nummer 3 bis 7 in der Fassung des Artikels 29 des Gesetzes vom
-8\. Dezember 2010 (BGBl. I S. 1768) ist erstmals auf Erwerbsvorgänge
-anzuwenden, die nach dem 13. Dezember 2010 verwirklicht werden.
+(9) Soweit Steuerbescheide für Erwerbsvorgänge von Lebenspartnern noch
+nicht bestandskräftig sind, ist § 3 Nummer 3 bis 7 in der Fassung des
+Artikels 29 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768)
+erstmals auf Erwerbsvorgänge anzuwenden, die nach dem 31. Juli 2001
+verwirklicht werden.
 
 (10) § 6a Satz 4 in der Fassung des Artikels 12 des Gesetzes vom 22.
 Juni 2011 (BGBl. I S. 1126) ist erstmals auf Erwerbsvorgänge
 anzuwenden, die nach dem 31. Dezember 2009 verwirklicht werden.
+
+(11) § 1 Absatz 3a und 6 Satz 1, § 4 Nummer 4 und 5, § 6a Satz 1, § 8
+Absatz 2 Satz 1 Nummer 3, § 13 Nummer 7, § 16 Absatz 5, § 17 Absatz 3
+Satz 1 Nummer 2, § 19 Absatz 1 Satz 1 Nummer 7a und Absatz 2 Nummer 5,
+§ 20 Absatz 2 Nummer 3 in der Fassung des Artikels 26 des Gesetzes vom
+26\. Juni 2013 (BGBl. I S. 1809) sind erstmals auf Erwerbsvorgänge
+anzuwenden, die nach dem 6. Juni 2013 verwirklicht werden.
+
+(12) § 6a Satz 1 bis 3 sowie § 16 Absatz 5 in der am 31. Juli 2014
+geltenden Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem 6.
+Juni 2013 verwirklicht werden.
+
+(13) § 1 Absatz 2a und § 21 in der am 6. November 2015 geltenden
+Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem 5. November
+2015 verwirklicht werden.
+
+(14) § 8 Absatz 2 und § 17 Absatz 3a in der am 6. November 2015
+geltenden Fassung sind auf Erwerbsvorgänge anzuwenden, die nach dem
+31\. Dezember 2008 verwirklicht werden. Soweit Steuer- und
+Feststellungsbescheide, die vor dem 6. November 2015 für
+Erwerbsvorgänge nach dem 31. Dezember 2008 ergangen sind, wegen § 176
+Absatz 1 Satz 1 Nummer 1 der Abgabenordnung nicht geändert werden
+können, ist die festgesetzte Steuer vollstreckbar.
+
+(15) § 19 Absatz 3 Satz 2 in der am 23. Juli 2016 geltenden Fassung
+ist auf Erwerbsvorgänge anzuwenden, die nach dem 22. Juli 2016
+verwirklicht werden.
 
 
 ### (XXXX) §§ 24 bis 27 (weggefallen)

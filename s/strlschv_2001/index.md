@@ -15,9 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1714 (2002 I 1459)
 
-Zuletzt geändert durch
-:   Art. 5 Abs. 7 G v. 24.2.2012 I 212
+Zuletzt geändert nach maßgabe des art. 10 durch
+:   Art. 6 G v. 27.1.2017 I 114, 1222
 
+Stand: Bek. v. 16.6.2017 I 1676 ist berücksichtigt
 
 ## Teil 1 - Allgemeine Vorschriften
 
@@ -262,7 +263,7 @@ Tätigkeiten und Arbeiten unterschieden.
 
     b)  mit der zu anderen Zwecken eine Wirkung in den zu bestrahlenden
         Objekten hervorgerufen werden soll und bei dem die Aktivität 2 x 10
-        13                          Becquerel überschreitet;
+        13 Becquerel überschreitet;
 
 
 
@@ -1016,7 +1017,7 @@ Strahlenquellen.
 Art errichtet, bedarf der Genehmigung:
 
 1.  Beschleuniger- oder Plasmaanlage, in der je Sekunde mehr als 10
-    12                    Neutronen erzeugt werden können,
+    12 Neutronen erzeugt werden können,
 
 
 2.  Elektronenbeschleuniger mit einer Endenergie der Elektronen von mehr
@@ -1361,7 +1362,7 @@ Absatz 1 dieser Verordnung bedarf, wer folgende Stoffe befördert:
 
 
 Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des §
-23 Absatz 2 des Atomgesetzes.
+23d Satz 3 des Atomgesetzes.
 
 (1a) (weggefallen)
 
@@ -1409,16 +1410,12 @@ Zusammenhang mit der Beförderung oder Weiterbeförderung erstreckt.
 
 4.  bei der Beförderung von sonstigen radioaktiven Stoffen nach § 2 Abs. 1
     des Atomgesetzes, deren Aktivität je Versandstück das 10
-    9                   fache der Freigrenzen der Anlage III Tabelle 1
-    Spalte 2 oder 10
-    15                    Becquerel überschreitet, oder von
-    Kernbrennstoffen nach § 2 Abs. 3 des Atomgesetzes, deren Aktivität je
-    Versandstück das 10
-    5                   fache der Freigrenzen der Anlage III Tabelle 1
-    Spalte 2 oder 10
-    15                    Becquerel überschreitet, die erforderliche
-    Vorsorge für die Erfüllung gesetzlicher Schadenersatzverpflichtungen
-    getroffen ist,
+    9fache der Freigrenzen der Anlage III Tabelle 1 Spalte 2 oder 10
+    15 Becquerel überschreitet, oder von Kernbrennstoffen nach § 2 Abs. 3
+    des Atomgesetzes, deren Aktivität je Versandstück das 10
+    5fache der Freigrenzen der Anlage III Tabelle 1 Spalte 2 oder 10
+    15 Becquerel überschreitet, die erforderliche Vorsorge für die
+    Erfüllung gesetzlicher Schadenersatzverpflichtungen getroffen ist,
 
 
 5.  der erforderliche Schutz gegen Störmaßnahmen oder sonstige Einwirkung
@@ -1429,11 +1426,10 @@ Zusammenhang mit der Beförderung oder Weiterbeförderung erstreckt.
     Stoffen nach § 2 Abs. 1 des Atomgesetzes oder von Kernbrennstoffen
     nach § 2 Abs. 3 des Atomgesetzes mit einer Aktivität von mehr als dem
     10
-    10                   fachen der Freigrenzen der Anlage III Tabelle 1
-    Spalte 2 unter entsprechender Anwendung des § 53 mit einer dort
-    genannten Institution die Vereinbarungen geschlossen sind, die die
-    Institution bei Unfällen oder Störfällen zur Schadensbekämpfung
-    verpflichten, und
+    10fachen der Freigrenzen der Anlage III Tabelle 1 Spalte 2 unter
+    entsprechender Anwendung des § 53 mit einer dort genannten Institution
+    die Vereinbarungen geschlossen sind, die die Institution bei Unfällen
+    oder Störfällen zur Schadensbekämpfung verpflichten, und
 
 
 7.  überwiegende öffentliche Interessen der Wahl der Art, der Zeit und des
@@ -1500,8 +1496,8 @@ oder
 2.  sonstige radioaktive Stoffe nach § 2 Absatz 1 des Atomgesetzes oder
     Kernbrennstoffe nach § 2 Absatz 3 des Atomgesetzes, deren Aktivität je
     Versandstück das 10
-    8                   -Fache der Freigrenzen der Anlage III Tabelle 1
-    Spalte 2 beträgt oder überschreitet.
+    8-Fache der Freigrenzen der Anlage III Tabelle 1 Spalte 2 beträgt oder
+    überschreitet.
 
 
 
@@ -2170,7 +2166,7 @@ von Amts wegen erfolgen, wenn für Einzelpersonen der Bevölkerung nur
 eine effektive Dosis im Bereich von 10 Mikrosievert im Kalenderjahr
 auftreten kann. Für Anlagen des Bundes zur Sicherstellung und zur
 Endlagerung radioaktiver Abfälle nach dem Atomgesetz kann über die
-Freigabe die nach § 23 Abs. 1 Nr. 2 des Atomgesetzes zuständige
+Freigabe die nach § 23d Satz 1 Nummer 2 des Atomgesetzes zuständige
 Überwachungsbehörde entscheiden.
 
 
@@ -3941,12 +3937,12 @@ genannten Anlagen.
 
 1.  Bestrahlungsvorrichtungen, die bei der Ausübung der Heilkunde oder
     Zahnheilkunde am Menschen verwendet werden und deren Aktivität 10
-    14                   Becquerel nicht überschreitet,
+    14Becquerel nicht überschreitet,
 
 
 2.  Bestrahlungsvorrichtungen, die zur Blut- oder zur Produktbestrahlung
     verwendet werden und deren Aktivität 10
-    14                   Becquerel nicht überschreitet, und
+    14Becquerel nicht überschreitet, und
 
 
 3.  Geräten für die Gammaradiographie
@@ -3983,13 +3979,37 @@ mitzuteilen.
 
 ##### § 67 Strahlungsmessgeräte
 
-(1) Zur Messung der Personendosis, der Ortsdosis, der
-Ortsdosisleistung, der Oberflächenkontamination, der Aktivität von
-Luft und Wasser und bei einer Freimessung nach § 29 Abs. 3 aufgrund
-der Vorschriften dieser Verordnung sind, sofern geeichte
-Strahlungsmessgeräte nicht vorgeschrieben sind, andere geeignete
+(1) Messgeräte für Photonenstrahlung der in § 1 Absatz 1 Nummer 13 der
+Mess- und Eichverordnung bezeichneten Art müssen dem Mess- und
+Eichgesetz entsprechen, wenn sie für nachfolgende Zwecke verwendet
+werden:
+
+1.  für die physikalische Strahlenschutzkontrolle mittels Messung
+
+    a)  der Personendosis nach § 41 Absatz 1 Satz 1, Absatz 3 Satz 5 oder
+        Absatz 5 Satz 1 oder
+
+
+    b)  der Ortsdosis oder Ortsdosisleistung nach § 41 Absatz 1 Satz 2 Nummer
+        1 oder
+
+
+
+
+
+2.  für Messungen zur Abgrenzung von Strahlenschutzbereichen oder zur
+    Festlegung von Aufenthaltszeiten von Personen in
+    Strahlenschutzbereichen.
+
+
+
+Zur Messung der Personendosis, der Ortsdosis, der Ortsdosisleistung,
+der Oberflächenkontamination, der Aktivität von Luft und Wasser und
+bei einer Freimessung nach § 29 Absatz 3 aufgrund der Vorschriften
+dieser Verordnung sind, sofern nicht nach Satz 1 Nummer 1 Messgeräte
+nach dem Mess- und Eichgesetz vorgeschrieben sind, andere geeignete
 Strahlungsmessgeräte zu verwenden. Es ist dafür zu sorgen, dass die
-Strahlungsmessgeräte
+Strahlungsmessgeräte nach den Sätzen 1 und 2
 
 1.  den Anforderungen des Messzwecks genügen,
 
@@ -4003,8 +4023,8 @@ Strahlungsmessgeräte
 
 
 (2) Der Zeitpunkt und das Ergebnis der Funktionsprüfung und Wartung
-nach Absatz 1 Satz 2 Nr. 3 sind aufzuzeichnen. Die Aufzeichnungen sind
-zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
+nach Absatz 1 Satz 3 Nummer 3 sind aufzuzeichnen. Die Aufzeichnungen
+sind zehn Jahre ab dem Zeitpunkt der Funktionsprüfung oder Wartung
 aufzubewahren und auf Verlangen der zuständigen Behörde vorzulegen
 oder bei einer von ihr zu bestimmenden Stelle zu hinterlegen.
 
@@ -4459,7 +4479,9 @@ erfassen und bei Änderungen die Erfassung zu aktualisieren. Besitzt
 ein anderer als der nach § 9a Abs. 1 des Atomgesetzes Verpflichtete
 die Abfälle, so hat der Besitzer bei Änderungen der erfassten Angaben
 diese Änderungen nach Anlage X Teil A und B zu erfassen und die
-erfassten Angaben dem Abfallverursacher bereitzustellen.
+erfassten Angaben dem nach § 9a Absatz 1 des Atomgesetzes, auch in
+Verbindung mit § 2 Absatz 2 des Entsorgungsübergangsgesetzes, zur
+Entsorgung Verpflichteten bereitzustellen.
 
 (2) Die erfassten Angaben sind in einem von dem nach § 9a Abs. 1 des
 Atomgesetzes Verpflichteten einzurichtenden elektronischen
@@ -4482,22 +4504,21 @@ ein Jahr bereitzuhalten.
 (1) Die zuständige Behörde oder eine von ihr bestimmte Stelle kann die
 Art der Behandlung und Verpackung radioaktiver Abfälle vor deren
 Ablieferung anordnen und einen Nachweis über die Einhaltung dieser
-Anordnung verlangen. Die nach dem Atomgesetz für die Sicherstellung
-und Endlagerung radioaktiver Abfälle zuständige Behörde legt alle
-sicherheitstechnischen Anforderungen an Abfallgebinde, die für die
-Endlagerung bestimmt sind, sowie die Vorgaben für die Behandlung der
-darin enthaltenen Abfälle fest und stellt die Endlagerfähigkeit der
-nach diesen Anforderungen und Vorgaben hergestellten Abfallgebinde
-fest.
+Anordnung verlangen. Der Dritte nach § 9a Absatz 3 Satz 2 zweiter
+Halbsatz des Atomgesetzes legt alle sicherheitstechnischen
+Anforderungen an Abfallgebinde, die für die Endlagerung bestimmt sind,
+sowie die Vorgaben für die Behandlung der darin enthaltenen Abfälle
+fest und stellt die Endlagerfähigkeit der nach diesen Anforderungen
+und Vorgaben hergestellten Abfallgebinde fest.
 
 (2) Bei der Behandlung und Verpackung radioaktiver Abfälle zur
 Herstellung endlagerfähiger Abfallgebinde sind Verfahren anzuwenden,
-deren Anwendung das Bundesamt für Strahlenschutz zugestimmt hat.
-Sofern nach § 76 Abs. 4 an Landessammelstellen abgelieferte
-radioaktive Abfälle nach Absatz 1 Satz 2 behandelt und verpackt
-wurden, trägt der Bund die Kosten, die sich aus einer nachträglichen
-Änderung der Anforderungen und Vorgaben ergeben. § 72 Satz 4 und 5
-gilt entsprechend.
+deren Anwendung der Dritte nach § 9a Absatz 3 Satz 2 zweiter Halbsatz
+des Atomgesetzes zugestimmt hat. Sofern nach § 76 Abs. 4 an
+Landessammelstellen abgelieferte radioaktive Abfälle nach Absatz 1
+Satz 2 behandelt und verpackt wurden, trägt der Bund die Kosten, die
+sich aus einer nachträglichen Änderung der Anforderungen und Vorgaben
+ergeben. § 72 Satz 4 und 5 gilt entsprechend.
 
 (3) Abfallbehälter oder sonstige Einheiten sind mit einer
 Kennzeichnung nach Anlage X Teil B zu versehen. § 72 Satz 4 und 5 gilt
@@ -4631,7 +4652,8 @@ abzuliefernden radioaktiven Abfälle vom Ablieferungspflichtigen
 zwischenzulagern; die zwischengelagerten radioaktiven Abfälle werden
 nach Inbetriebnahme dieser Anlagen von deren Betreiber abgerufen. Die
 Zwischenlagerung kann auch von mehreren Ablieferungspflichtigen
-gemeinsam oder durch Dritte erfolgen.
+gemeinsam oder durch Dritte erfolgen. § 2 des
+Entsorgungsübergangsgesetzes bleibt unberührt.
 
 
 ##### § 79 Umgehungsverbot
@@ -5872,7 +5894,7 @@ Der Zusatz von radioaktiven Stoffen bei der Herstellung von
 4.  Futtermitteln im Sinne des Lebensmittel- und Futtermittelgesetzbuches,
 
 
-5.  Tabakerzeugnissen im Sinne des Vorläufigen Tabakgesetzes,
+5.  Erzeugnissen im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes,
 
 
 6.  Gasglühstrümpfen, soweit diese nicht zur Beleuchtung öffentlicher
@@ -7170,8 +7192,9 @@ Anwendungsbereich dieser Verordnung anfallen.
 
 (6) (weggefallen)
 
+(zu §§ 8, 12, 17, 21)
 
-#### Anlage I (zu §§ 8, 12, 17, 21) Genehmigungsfreie Tätigkeiten
+#### Anlage I Genehmigungsfreie Tätigkeiten
 
 (Fundstelle: BGBl. I 2001, 1766;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7241,13 +7264,13 @@ deren
 
 
 
+(zu §§ 9, 14, 107)
 
-#### Anlage II (zu §§ 9, 14, 107) Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
+#### Anlage II Erforderliche Unterlagen zur Prüfung von Genehmigungsanträgen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1767
 
-**Teil A:**              Antragsunterlagen zu Genehmigungen nach §§ 7
-und 106
+**Teil A:** Antragsunterlagen zu Genehmigungen nach §§ 7 und 106
 
 1.  Zur Prüfung der Genehmigungsvoraussetzungen erforderliche Pläne,
     Zeichnungen und Beschreibungen,
@@ -7284,8 +7307,7 @@ und 106
 
 
 
-**Teil B:**              Antragsunterlagen zu Genehmigungen nach § 11
-Abs. 2
+**Teil B:** Antragsunterlagen zu Genehmigungen nach § 11 Abs. 2
 
 1.  Ein Sicherheitsbericht, der die Anlage und ihren Betrieb beschreibt
     und mit Hilfe von Lageplänen und Übersichtszeichnungen darstellt,
@@ -7329,8 +7351,10 @@ Abs. 2
 
 
 
+(zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71,
+105, 106, 107, 117)
 
-#### Anlage III (zu §§ 3, 8, 10, 18, 20, 29, 43, 44, 45, 50, 53, 65, 66, 68, 70, 71, 105, 106, 107, 117) Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
+#### Anlage III Freigrenzen, Freigabewerte für verschiedene Freigabearten, Werte der Oberflächenkontamination, Liste der Radionuklide im radioaktiven Gleichgewicht
 
 (Fundstelle: BGBl. I 2001, 1768 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7358,10 +7382,9 @@ der Oberflächenkontamination
             *
                 *   Uran in der chemischen Form
                     UO
-                    3                                         , UF
-                    4                                         , UCI
-                    4                                         und sechswertige
-                    Uranverbindungen,
+                    3, UF
+                    4, UCI
+                    4und sechswertige Uranverbindungen,
 
 
 
@@ -7389,11 +7412,11 @@ der Oberflächenkontamination
 
     *   Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der
         vorhandenen Aktivität (A
-        i                       ) oder spezifischen Aktivität (C
-        i                       ) und den jeweiligen Freigrenzen FG
-        i                        der einzelnen Radionuklide gemäß Spalte 2
-        oder 3 zu berechnen (Summenformel), wobei i das jeweilige Radionuklid
-        ist. Diese Summe darf den Wert 1 nicht überschreiten:
+        i) oder spezifischen Aktivität (C
+        i) und den jeweiligen Freigrenzen FG
+        i der einzelnen Radionuklide gemäß Spalte 2 oder 3 zu berechnen
+        (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe
+        darf den Wert 1 nicht überschreiten:
 
         *            *                ![bgbl1_2001_j1768_0010.jpg](bgbl1_2001_j1768_0010.jpg)
 
@@ -7401,30 +7424,29 @@ der Oberflächenkontamination
    Radionuklide brauchen bei der Summenbildung nicht berücksichtigt zu
         werden, wenn der Anteil der unberücksichtigten Nuklide an der
         Gesamtsumme der zugeordneten Verhältniszahlen A
-        i                       /FG
-        i                        oder C
-        i                       /FG
-        i                        den relativen Fehler der Gesamtsumme von 10%
-        nicht überschreitet.
+        i/FG
+        i oder C
+        i/FG
+        i den relativen Fehler der Gesamtsumme von 10% nicht überschreitet.
         Soweit in den Spalten 2 oder 3 für Radionuklide keine Freigrenzen
         angegeben sind, sind diese im Einzelfall zu berechnen. Anderenfalls
         können folgende Werte der Freigrenzen zugrunde gelegt werden:
 
         a)  für Alphastrahler oder Radionuklide, die durch Spontanspaltung
             zerfallen: 10
-            3                              Bq und 1 Bq/g,
+            3 Bq und 1 Bq/g,
 
 
         b)  für Beta- und Gammastrahler, soweit sie nicht unter Buchstabe c
             genannt: 10
-            5                              Bq und 10
-            2                              Bq/g,
+            5 Bq und 10
+            2 Bq/g,
 
 
         c)  für Elektroneneinfangstrahler und Betastrahler mit einer maximalen
             Betagrenzenergie von 0,2 Megaelektronvolt: 10
-            8                             Bq und 10
-            5                              Bq/g.
+            8Bq und 10
+            5 Bq/g.
 
 
 
@@ -7437,26 +7459,25 @@ der Oberflächenkontamination
         eine hochradioaktive Strahlenquelle (HRQ) im Sinne des § 3 Absatz 2
         Nummer 29 Buchstabe b Doppelbuchstabe bb ist. Der HRQ-Wert ist 1/100
         des A
-        1                       -Wertes des Abschnitts 2.2.7.2.2.1 der Anlage
-        zur Bekanntmachung der Neufassung der Anlagen A und B zu dem
-        Europäischen Übereinkommen über die internationale Beförderung
-        gefährlicher Güter auf der Straße (ADR) vom 25. November 2010 (BGBl.
-        II S. 1412 – Anlageband). Soweit in Spalte 3a für ein Radionuklid kein
-        Wert angegeben ist, ist ein Hundertstel des A
-        1                       -Wertes zugrunde zu legen.
+        1-Wertes des Abschnitts 2.2.7.2.2.1 der Anlage zur Bekanntmachung der
+        Neufassung der Anlagen A und B zu dem Europäischen Übereinkommen über
+        die internationale Beförderung gefährlicher Güter auf der Straße (ADR)
+        vom 25. November 2010 (BGBl. II S. 1412 – Anlageband). Soweit in
+        Spalte 3a für ein Radionuklid kein Wert angegeben ist, ist ein
+        Hundertstel des A
+        1-Wertes zugrunde zu legen.
 
 
 *    *   Erläuterung zur Spalte 4:
 
     *   Bei Messungen nach § 44 darf die Mittelungsfläche bis zu 300 cm
-        2                        betragen.
+        2 betragen.
         Bei mehreren Radionukliden ist die Summe der Verhältniszahlen aus der
         vorhandenen Aktivität je Flächeneinheit (A
-        s,i                       ) und den jeweiligen Werten der
-        Oberflächenkontamination (O
-        i                       ) der einzelnen Radionuklide gemäß Tabelle 1
-        Spalte 4 zu berechnen (Summenformel), wobei i das jeweilige
-        Radionuklid ist. Diese Summe darf den Wert 1 nicht überschreiten:
+        s,i) und den jeweiligen Werten der Oberflächenkontamination (O
+        i) der einzelnen Radionuklide gemäß Tabelle 1 Spalte 4 zu berechnen
+        (Summenformel), wobei i das jeweilige Radionuklid ist. Diese Summe
+        darf den Wert 1 nicht überschreiten:
 
         *            *                ![bgbl1_2001_j1768_0020.jpg](bgbl1_2001_j1768_0020.jpg)
 
@@ -7464,9 +7485,8 @@ der Oberflächenkontamination
    Radionuklide brauchen bei der Summenbildung nicht berücksichtigt zu
         werden, wenn der Anteil der unberücksichtigten Nuklide an der
         Gesamtsumme der zugeordneten Verhältniszahlen A
-        s,i                       /O
-        i                        den relativen Fehler der Gesamtsumme von 10%
-        nicht überschreitet.
+        s,i/O
+        i den relativen Fehler der Gesamtsumme von 10% nicht überschreitet.
         Bei der Bestimmung der Oberflächenkontamination für Verkehrsflächen
         oder Arbeitsplätze nach § 44 Abs. 2 Nr. 1 und 2 ist die festhaftende
         Oberflächenaktivität und die über die Oberfläche eingedrungene
@@ -7480,17 +7500,17 @@ der Oberflächenkontamination
 
         a)  für Alphastrahler oder Radionuklide, die durch Spontanspaltung
             zerfallen: 0,1 Bq/cm
-            2                             ,
+            2,
 
 
         b)  für Beta- und Gammastrahler, soweit sie nicht unter Buchstabe c
             genannt: 1 Bq/cm
-            2                             ,
+            2,
 
 
         c)  für Elektroneneinfangstrahler und Betastrahler mit einer maximalen
             Betagrenzenergie von 0,2 Megaelektronvolt: 100 Bg/cm
-            2                             .
+            2\.
 
 
 
@@ -7566,7 +7586,9 @@ der Oberflächenkontamination
         1
         in Bq
 
-    *   Oberflächenkontamination
+    *   Oberflä-
+        chenkonta-
+        mination
         in Bq/cm
         2
 
@@ -9242,7 +9264,7 @@ der Oberflächenkontamination
 
     *   6 E+1
 
-    *   1                       )
+    *   1)
 
     *   6 E+1
 
@@ -29832,13 +29854,14 @@ Freigabe zugrunde gelegt werden:
 
 
 
+(zu § 29)
 
-#### Anlage IV (zu § 29) Festlegungen zur Freigabe
+#### Anlage IV Festlegungen zur Freigabe
 
 (Fundstelle: BGBl. I 2001, 1802 - 1803;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-**Teil A:**              Allgemeines
+**Teil A:** Allgemeines
 
 1.  Soweit in den folgenden Teilen B bis G nichts anderes bestimmt ist,
     gilt Folgendes:
@@ -29864,34 +29887,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     e)  Bei mehreren Radionukliden ist die Summe der Verhältniszahlen C
-        i                          /R
-        i                          aus der freizugebenden spezifischen
-        Aktivität (C
-        i                         ) und den jeweiligen Freigabewerten (R
-        i                         ) der einzelnen Radionuklide gemäß Anlage
-        III Tabelle 1 Spalte 5, 6, 7, 9a, 9b, 9c, 9d oder Spalte 10a zu
-        berechnen (Summenformel), wobei i das jeweilige Radionuklid ist. Diese
-        Summe darf den Wert 1 nicht überschreiten:
+        i /R
+        i aus der freizugebenden spezifischen Aktivität (C
+        i) und den jeweiligen Freigabewerten (R
+        i) der einzelnen Radionuklide gemäß Anlage III Tabelle 1 Spalte 5, 6,
+        7, 9a, 9b, 9c, 9d oder Spalte 10a zu berechnen (Summenformel), wobei i
+        das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht
+        überschreiten:
 
 
         Bei mehreren Radionukliden ist die Summe der Verhältniszahlen A
-        s,i                          /O
-        i                          aus der vorhandenen Aktivität je
-        Flächeneinheit (A
-        s,i                         ) und den jeweiligen Werten der
-        Oberflächenkontamination (O
-        i                         ) der einzelnen Radionuklide gemäß Anlage
-        III Tabelle 1 Spalte 4, 8 oder Spalte 10 zu berechnen (Summenformel):
+        s,i /O
+        i aus der vorhandenen Aktivität je Flächeneinheit (A
+        s,i) und den jeweiligen Werten der Oberflächenkontamination (O
+        i) der einzelnen Radionuklide gemäß Anlage III Tabelle 1 Spalte 4, 8
+        oder Spalte 10 zu berechnen (Summenformel):
 
 
         Nuklide brauchen bei der Summenbildung nicht berücksichtigt zu werden,
         wenn der Anteil der unberücksichtigten Nuklide an der Gesamtsumme der
         zugeordneten Verhältniszahlen C
-        i                          /R
-        i                          oder A
-        s,i                          /O
-        i                          den relativen Fehler der Gesamtsumme von 10
-        Prozent nicht überschreitet.
+        i /R
+        i oder A
+        s,i /O
+        i den relativen Fehler der Gesamtsumme von 10 Prozent nicht
+        überschreitet.
 
 
     f)  Sind in den Stoffen Radionuklide im radioaktiven Gleichgewicht
@@ -29927,7 +29947,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-**Teil B:**              Uneingeschränkte Freigabe
+**Teil B:** Uneingeschränkte Freigabe
 Eine uneingeschränkte Freigabe bedarf keiner Festlegungen hinsichtlich
 der künftigen Nutzung, Verwendung, Verwertung, Wiederverwertung,
 Beseitigung oder dem endgültigen Verbleib der Stoffe, für die eine
@@ -29946,7 +29966,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-**Teil C:**              Freigabe zur Beseitigung
+**Teil C:** Freigabe zur Beseitigung
 
 1.  Eine Freigabe zur Beseitigung setzt voraus, dass die Stoffe, für die
     eine wirksame Feststellung nach § 29 Abs. 3 getroffen wurde, auf einer
@@ -29976,13 +29996,12 @@ Anlage III Tabelle 1 Spalte 5 gelten für
     über eine Entsorgungsanlage beseitigt werden, ist abweichend von
     Nummer 2 und Teil A Nummer 1 Buchstabe e Satz 1 bei mehreren
     Radionukliden die Summe der Verhältniszahlen C
-    i                    /R
-    i                    aus der freizugebenden spezifischen Aktivität (C
-    i                   ) und den jeweiligen Freigabewerten (R
-    i                   ) der einzelnen Radionuklide i gemäß Anlage III
-    Tabelle 1 Spalte 9c oder Spalte 9d, multipliziert mit einem
-    Tausendstel der freizugebenden Masse, zu berechnen. Diese Summe darf
-    den Wert 1 nicht überschreiten:
+    i /R
+    i aus der freizugebenden spezifischen Aktivität (C
+    i) und den jeweiligen Freigabewerten (R
+    i) der einzelnen Radionuklide i gemäß Anlage III Tabelle 1 Spalte 9c
+    oder Spalte 9d, multipliziert mit einem Tausendstel der freizugebenden
+    Masse, zu berechnen. Diese Summe darf den Wert 1 nicht überschreiten:
 
 
     Sollen in einem Kalenderjahr sowohl Massen mit Radionukliden unter der
@@ -29990,19 +30009,18 @@ Anlage III Tabelle 1 Spalte 5 gelten für
     Deponie freigegeben werden, ist abweichend von Teil A Nummer 1
     Buchstabe e Satz 1 bei mehreren Radionukliden die Summe der Produkte
     der Verhältniszahlen C
-    i                    /R
-    i                    aus der freizugebenden spezifischen Aktivität (C
-    i                   ) und den jeweiligen Freigabewerten (R
-    i                   ) der einzelnen Radionuklide i nach Anlage III
-    Tabelle 1 Spalte 9a, multipliziert mit einem Hundertstel der
-    freizugebenden Masse und dem Produkt der Verhältniszahlen C
-    i                    /R
-    i                    aus der freizugebenden spezifischen Aktivität (C
-    i                   ) und den jeweiligen Freigabewerten (R
-    i                   ) der einzelnen Radionuklide nach Anlage III
-    Tabelle 1 Spalte 9c, multipliziert mit einem Tausendstel der
-    freizugebenden Masse, zu berechnen. Diese Summe darf den Wert 1 nicht
-    überschreiten:
+    i /R
+    i aus der freizugebenden spezifischen Aktivität (C
+    i) und den jeweiligen Freigabewerten (R
+    i) der einzelnen Radionuklide i nach Anlage III Tabelle 1 Spalte 9a,
+    multipliziert mit einem Hundertstel der freizugebenden Masse und dem
+    Produkt der Verhältniszahlen C
+    i /R
+    i aus der freizugebenden spezifischen Aktivität (C
+    i) und den jeweiligen Freigabewerten (R
+    i) der einzelnen Radionuklide nach Anlage III Tabelle 1 Spalte 9c,
+    multipliziert mit einem Tausendstel der freizugebenden Masse, zu
+    berechnen. Diese Summe darf den Wert 1 nicht überschreiten:
 
 
     Für eine Freigabe zur Beseitigung in einer Verbrennungsanlage nach der
@@ -30016,7 +30034,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
         C
     i   mittlere spezifische Aktivität des im laufenden Kalenderjahr
         freigegebenen und freizugebenden Radionuklids i in Bq/g und C
-        i                          < R
+        i < R
         i
 
 
@@ -30034,7 +30052,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-**Teil D:**              Freigabe von Gebäuden
+**Teil D:** Freigabe von Gebäuden
 
 1.  Der Begriff Gebäude umfasst einzelne Gebäude, Räume, Raumteile sowie
     Bauteile.
@@ -30071,7 +30089,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-**Teil E:**              Freigabe von Bodenflächen
+**Teil E:** Freigabe von Bodenflächen
 
 1.  Bei Anwendung flächenbezogener Freigabewerte darf die Mittelungsfläche
     für die Oberflächenkontamination bis zu 100 Quadratmeter betragen.
@@ -30132,7 +30150,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-**Teil F:**              Freigabe von Bauschutt und Bodenaushub
+**Teil F:** Freigabe von Bauschutt und Bodenaushub
 
 1.  Die Werte der Anlage III Tabelle 1 Spalte 6 gelten für Bauschutt und
     Bodenaushub, der bei laufenden Betriebsarbeiten anfällt oder nach
@@ -30148,7 +30166,7 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
-**Teil G:**              Freigabe von Metallschrott zur Rezyklierung
+**Teil G:** Freigabe von Metallschrott zur Rezyklierung
 
 1.  Eine Freigabe von Metallschrott zur Rezyklierung setzt voraus, dass
     der Metallschrott, für den eine wirksame Feststellung nach § 29 Absatz
@@ -30167,8 +30185,9 @@ Anlage III Tabelle 1 Spalte 5 gelten für
 
 
 
+(zu § 25)
 
-#### Anlage V (zu § 25) Voraussetzungen für die Bauartzulassung von Vorrichtungen
+#### Anlage V Voraussetzungen für die Bauartzulassung von Vorrichtungen
 
 (Fundstelle: BGBl. I 2001, 1804;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -30260,8 +30279,9 @@ normalen Betriebsbedingungen nicht überschreiten.
 
 
 
+(zu §§ 3, 47, 49, 55, 95, 117)
 
-#### Anlage VI (zu §§ 3, 47, 49, 55, 95, 117) Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
+#### Anlage VI Dosimetrische Größen, Gewebe- und Strahlungs-Wichtungsfaktoren
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1805 - 1807
 
@@ -30682,8 +30702,9 @@ T
     für dieses Organ oder Gewebe und ein Wichtungsfaktor von 0,025 für die
     mittlere Organdosis der restlichen Organe oder Gewebe gesetzt werden.
 [^BJNR171410001BJNE012400305_002]: 
+(zu §§ 29 und 47)
 
-#### Anlage VII (zu §§ 29 und 47) Annahmen bei der Ermittlung der Strahlenexposition
+#### Anlage VII Annahmen bei der Ermittlung der Strahlenexposition
 
 (Fundstelle: BGBl. I 2001, 1808 - 1825;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -31197,7 +31218,7 @@ das jeweilige Radionuklid ist. Diese Summe darf den Wert 1 nicht
 -
 C(tief)i,a
 Summe ----------- <= 1.
-i        C(tief)i             Tochternuklide sind zu berücksichtigen.
+i        C(tief)iTochternuklide sind zu berücksichtigen.
 
 1.  Maximal zulässige Aktivitätskonzentration in der Luft aus
     Strahlenschutzbereichen
@@ -38157,8 +38178,9 @@ Anlage VII Teil D Nr. 1.1 und 2)
 
 
 
+(zu §§ 61, 62, 63)
 
-#### Anlage VIII (zu §§ 61, 62, 63) Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
+#### Anlage VIII Ärztliche Bescheinigung nach §§ 60, 61 StrlSchV
 
 (Fundstelle: BGBl. I 2001, 1826;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -38211,22 +38233,29 @@ Nächste Beurteilung oder Untersuchung:
 Ort, Datum           Unterschrift         Stempel mit Anschrift des
 Arztes nach § 64 Abs. 1 Satz 1
 
+(zu § 68)
 
-#### Anlage IX (zu § 68) Strahlenzeichen
+#### Anlage IX Strahlenzeichen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1827
 
-... (Strahlenzeichen nicht darstellbar)
-Kennzeichen: schwarz
-Untergrund:  gelb
+
+*    *        ![bgbl1_2001_j1827_0010.jpg](bgbl1_2001_j1827_0010.jpg)
+
+*    *   Kennzeichen: schwarz
+        Untergrund: gelb
 
 
-#### Anlage X (zu §§ 72 bis 79) Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
+
+
+(zu §§ 72 bis 79)
+
+#### Anlage X Radioaktive Abfälle: Benennung, Buchführung, Transportmeldung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1828 - 1831;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-*    *   **Teil A:**                        Benennung radioaktiver Abfälle
+*    *   **Teil A:** Benennung radioaktiver Abfälle
 
 
 *    *   Die Benennung radioaktiver Abfälle erfolgt gemäß den folgenden
@@ -39120,7 +39149,7 @@ benennenden Abfalls relevante Verfahren bzw. die Kombination von
 Verfahren, soweit nicht schon bei dem bereits erfassten Vorgänger
 angegeben.
 
-**Teil B:**              Buchführung über radioaktive Abfälle
+**Teil B:** Buchführung über radioaktive Abfälle
 
 1.  Kennung
 
@@ -39162,8 +39191,9 @@ angegeben.
 
     Für die Erfassung durch den Verursacher ist der Buchstabe E zu
     verwenden. Buchstaben für andere Erfasser werden auf Anfrage vom
-    Bundesamt für Strahlenschutz festgelegt. Vom Bundesamt für
-    Strahlenschutz wird auch die Kennbuchstabenkombination BBB festgelegt.
+    Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des Atomgesetzes
+    festgelegt. Vom Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+    Atomgesetzes wird auch die Kennbuchstabenkombination BBB festgelegt.
 
     *
         *
@@ -39210,7 +39240,8 @@ angegeben.
     sind, erfolgt nach folgendem einheitlichen System 6):
 
     die Kennbuchstabenkombination des Verursachers gemäß Festlegung durch
-    das Bundesamt für Strahlenschutz,
+    das Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+    Atomgesetzes,
 
     laufende Nummer (siebenstellig).
 
@@ -39735,7 +39766,8 @@ angegeben.
 
 
         9)  Endlagergerechte Bezeichnung oder Klassifizierung gemäß Festlegung
-            durch das Bundesamt für Strahlenschutz.
+            durch den Dritten nach § 9a Absatz 3 Satz 2 zweiter Halbsatz des
+            Atomgesetzes.
 
 
         10) Vorbehaltlich der Festlegungen und Randbedingungen des
@@ -39801,8 +39833,9 @@ zu enthalten:
 
 
 
+(zu §§ 93, 95, 96)
 
-#### Anlage XI (zu §§ 93, 95, 96) Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
+#### Anlage XI Arbeitsfelder, bei denen erheblich erhöhte Expositionen durch natürliche terrestrische Strahlungsquellen auftreten können
 
 (Fundstelle: BGBl. I 2001, 1832;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -39865,8 +39898,9 @@ Arbeiten in
 
 
 
+(zu §§ 97 bis 102)
 
-#### Anlage XII (zu §§ 97 bis 102) Verwertung und Beseitigung überwachungsbedürftiger Rückstände
+#### Anlage XII Verwertung und Beseitigung überwachungsbedürftiger Rückstände
 
 (Fundstelle: BGBl. I 2001, 1833 - 1834;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40191,8 +40225,9 @@ verwenden. Im Fall des § 98 Abs. 2 Satz 2 sind die Dosiskoeffizienten
 aus der Zusammenstellung im Bundesanzeiger Nr. 160a und b vom 28.
 August 2001 Teil I und III zu verwenden.
 
+(zu §§ 51 und 53)
 
-#### Anlage XIII (zu §§ 51 und 53) Information der Bevölkerung
+#### Anlage XIII Information der Bevölkerung
 
 Fundstelle des Originaltextes: BGBl. I 2001, 1835
 
@@ -40316,8 +40351,9 @@ Die Information muss sich erstrecken auf:
 
 
 
+(zu § 48 Abs. 4))
 
-#### Anlage XIV (zu § 48 Abs. 4)) Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
+#### Anlage XIV Leitstellen des Bundes für die Emissions- und Immissionsüberwachung
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 1836;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -40363,8 +40399,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu §§ 70, 70a und 71)
 
-#### Anlage XV (zu §§ 70, 70a und 71) Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
+#### Anlage XV Standarderfassungsblatt für hochradioaktive Strahlenquellen (HRQ)
 
 (... nicht darstellbares Standarderfassungsblatt;
 Fundstelle: BGBl. I 2005, 2404;

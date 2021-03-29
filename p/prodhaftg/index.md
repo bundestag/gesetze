@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 2198
 
 Zuletzt geändert durch
-:   Art. 9 Abs. 3 G v. 19.7.2002 I 2674
+:   Art. 5 G v. 17.7.2017 I 2421
 
 
 ## § 1 Haftung
@@ -165,6 +165,14 @@ zur Gewährung des Unterhalts verpflichtet gewesen wäre. Die
 Ersatzpflicht tritt auch ein, wenn der Dritte zur Zeit der Verletzung
 gezeugt, aber noch nicht geboren war.
 
+(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der
+Verletzung zu dem Getöteten in einem besonderen persönlichen
+Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische
+Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes
+persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der
+Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
+Getöteten war.
+
 
 ## § 8 Umfang der Ersatzpflicht bei Körperverletzung
 
@@ -264,14 +272,14 @@ Inkrafttreten in den Verkehr gebracht worden sind.
 
 ## § 17 Erlaß von Rechtsverordnungen
 
-Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung
-die Beträge der §§ 10 und 11 zu ändern oder das Außerkrafttreten des §
-10 anzuordnen, wenn und soweit dies zur Umsetzung einer Richtlinie des
-Rates der Europäischen Gemeinschaften auf der Grundlage der Artikel 16
-Abs. 2 und 18 Abs. 2 der Richtlinie des Rates vom 25. Juli 1985 zur
-Angleichung der Rechts- und Verwaltungsvorschriften der
-Mitgliedstaaten über die Haftung für fehlerhafte Produkte erforderlich
-ist.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung die Beträge der §§ 10 und 11 zu
+ändern oder das Außerkrafttreten des § 10 anzuordnen, wenn und soweit
+dies zur Umsetzung einer Richtlinie des Rates der Europäischen
+Gemeinschaften auf der Grundlage der Artikel 16 Abs. 2 und 18 Abs. 2
+der Richtlinie des Rates vom 25. Juli 1985 zur Angleichung der Rechts-
+und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für
+fehlerhafte Produkte erforderlich ist.
 
 
 ## § 18 Berlin-Klausel

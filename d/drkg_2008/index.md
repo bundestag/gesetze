@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2346
 
+Geändert durch
+:   Art. 9a G v. 27.7.2017 I 2575
+
 
 ## Abschnitt 1 - Deutsches Rotes Kreuz
 
@@ -67,6 +70,11 @@ und Nebenbestimmungen.
 
 (3) Das Deutsche Rote Kreuz e. V. nimmt ferner die ihm durch
 Bundesgesetz oder Landesgesetz zugewiesenen Aufgaben wahr.
+
+(4) Für die Gestellung von Mitgliedern einer Schwesternschaft vom
+Deutschen Roten Kreuz gilt das Arbeitnehmerüberlassungsgesetz mit der
+Maßgabe, dass § 1 Absatz 1 Satz 4 und Absatz 1b des
+Arbeitnehmerüberlassungsgesetzes nicht anwendbar ist.
 
 
 ### § 3 Schutz des Zeichens und der Bezeichnungen

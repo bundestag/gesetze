@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung von Kostenermächtigungen und zur Überleitung gebü
   Vorschriften
 jurabk: KErmÄndG
 layout: default
-origslug: kerm_ndg
+origslug: kermaendg
 slug: kermaendg
 
 ---

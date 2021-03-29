@@ -708,7 +708,7 @@ Leistungen bestimmt das Landesrecht.
 #### § 33 Verwaltungskosten
 
 § 351
-Abs. 3 Satz 1              des Lastenausgleichsgesetzes ist auch auf
+Abs. 3 Satz 1 des Lastenausgleichsgesetzes ist auch auf
 Reisekostenvergütungen und auf Kosten für die Beschaffung von
 Schulungsmaterial anzuwenden, die vor dem Inkrafttreten dieses
 Gesetzes im Saarland durch die vorbereitende Schulung der künftigen

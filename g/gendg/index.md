@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2529 (3672)
 
+Zuletzt geändert durch
+:   Art. 2 Abs. 1 G v. 4.11.2016 I 2460
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -694,7 +697,7 @@ Jahre aufzubewahren sind.
 (6) Eine vorgeburtliche genetische Untersuchung zur Klärung der
 Abstammung darf abweichend von § 15 Abs. 1 Satz 1 nur durch Ärztinnen
 oder Ärzte vorgenommen werden, wenn nach ärztlicher Erkenntnis an der
-Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 179 des
+Schwangeren eine rechtswidrige Tat nach den §§ 176 bis 178 des
 Strafgesetzbuchs begangen worden ist und dringende Gründe für die
 Annahme sprechen, dass die Schwangerschaft auf der Tat beruht.
 
@@ -1003,7 +1006,7 @@ gebührenpflichtigen Tatbestände und die Höhe der Gebühren zu bestimmen
 und dabei feste Sätze oder Rahmensätze vorzusehen. In der
 Rechtsverordnung können Ermäßigungen und Befreiungen von Gebühren und
 Auslagen zugelassen und die Erstattung von Auslagen auch abweichend
-vom Verwaltungskostengesetz geregelt werden.
+vom Bundesgebührengesetz geregelt werden.
 
 
 ## Abschnitt 7 - Straf- und Bußgeldvorschriften

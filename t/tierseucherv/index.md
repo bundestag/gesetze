@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 2123
 
 Zuletzt geändert durch
-:   Art. 3 V v. 29.9.2011 I 1954
+:   Art. 8 V v. 17.4.2014 I 388
 
 
 ## Eingangsformel
@@ -258,39 +258,34 @@ Behörde auf Verlangen vorzulegen.
 
 ## § 10 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer mit einer Erlaubnis nach § 2 Abs. 1 verbundenen vollziehbaren
-    Auflage oder
-
-
-2.  einer vollziehbaren Anordnung nach § 7
+1.  ohne Erlaubnis nach § 2 Absatz 1 mit einem Tierseuchenerreger arbeitet
+    oder einen Tierseuchenerreger erwirbt oder abgibt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 ohne Erlaubnis mit Tierseuchenerregern arbeitet oder sie
-    erwirbt oder abgibt,
+2.  einer mit einer Erlaubnis nach § 2 Absatz 1 verbundenen vollziehbaren
+    Auflage zuwiderhandelt,
 
 
-2.  entgegen § 5 oder § 6 eine Anzeige nicht oder nicht rechtzeitig
-    erstattet,
+3.  entgegen § 5 oder § 6 eine Anzeige nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig erstattet,
 
 
-3.  einer vollziehbaren Anordnung nach § 7 zuwiderhandelt,
+4.  einer vollziehbaren Anordnung nach § 7 zuwiderhandelt,
 
 
-4.  entgegen § 8 Tierseuchenerreger oder Material, das Tierseuchenerreger
-    enthält, abgibt oder
+5.  entgegen § 8 einen Tierseuchenerreger oder dort genanntes Material
+    abgibt,
 
 
-5.  einer Vorschrift des § 9 über die Führung oder Aufbewahrung von
-    Büchern zuwiderhandelt.
+6.  entgegen § 9 Satz 1 nicht, nicht richtig oder nicht vollständig Buch
+    führt oder
+
+
+7.  entgegen § 9 Satz 4 ein Buch nicht oder nicht mindestens fünf Jahre
+    aufbewahrt.
 
 
 

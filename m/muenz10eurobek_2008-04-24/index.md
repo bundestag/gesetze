@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „125. Geburtstag Franz Kafka“)
 jurabk: Münz10EuroBek 2008-04-24
 layout: default
-origslug: m_nz10eurobek_2008-04-24
+origslug: muenz10eurobek_2008-04-24
 slug: muenz10eurobek_2008-04-24
 
 ---
@@ -50,7 +50,7 @@ Staatlichen Münzen Baden-Württemberg, Prägestätte Karlsruhe.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„EIN KÄFIG GING EINEN VOGEL SUCHEN*             “.
+„EIN KÄFIG GING EINEN VOGEL SUCHEN*“.
 
 Dieser berühmte Satz Kafkas ist eine Anspielung auf die tschechische
 Bedeutung seines Namens (kavka = Dohle).

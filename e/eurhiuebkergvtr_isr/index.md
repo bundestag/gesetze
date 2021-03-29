@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Staat Israel übe
   in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkErgVtr ISR
 layout: default
-origslug: eurhi_bkergvtr_isr
+origslug: eurhiuebkergvtr_isr
 slug: eurhiuebkergvtr_isr
 
 ---

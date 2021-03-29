@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1971, 857
 
 Zuletzt geändert durch
-:   Art. 180 V v. 31.10.2006 I 2407
+:   Art. 355 V v. 31.8.2015 I 1474
 
 
 ## § 1 Anwendungsbereich
@@ -76,8 +76,8 @@ Spiegelglas, Spiegel, Glaswaren für Beleuchtung und Gehäuse für Uhren.
 Eigenschaften sind nach den in der Anlage zu diesem Gesetz
 aufgeführten Methoden zu bestimmen.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung die in der Anlage aufgeführten
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung die in der Anlage aufgeführten
 Bestimmungsmethoden der wissenschaftlichen und technischen Entwicklung
 anzupassen, sofern dies zur Erfüllung von Richtlinien der Europäischen
 Wirtschaftsgemeinschaft erforderlich ist und der Vereinfachung oder
@@ -213,12 +213,12 @@ Eigenschaftswort enthalten und
 
 Dieses Gesetz ist nicht anzuwenden auf Erzeugnisse, die
 
-1.  ausgeführt (§ 4 Abs. 2 Nr. 3 des Außenwirtschaftsgesetzes) oder sonst
-    aus dem Geltungsbereich dieses Gesetzes verbracht werden oder hierfür
+1.  ausgeführt (§ 2 Absatz 3 des Außenwirtschaftsgesetzes) oder sonst aus
+    dem Geltungsbereich dieses Gesetzes verbracht werden oder hierfür
     bestimmt sind,
 
 
-2.  unter zollamtlicher Überwachung durchgeführt (§ 4 Abs. 2 Nr. 5 des
+2.  unter zollamtlicher Überwachung durchgeführt (§ 2 Absatz 9 des
     Außenwirtschaftsgesetzes) oder sonst durch den Geltungsbereich dieses
     Gesetzes befördert werden,
 

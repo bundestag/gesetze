@@ -42,8 +42,7 @@ monatlich abzurechnen
     der Bekanntmachung vom 14. Januar 1970 (BGBl. I S. 127),
     zuletzt geändert durch Artikel 2 des Einführungsgesetzes zum
     Körperschaftsteuerreformgesetz vom 6. September 1976 (BGBl. I S.
-    2641),                    durchgeführten Steuervergütungen und
-    Steuererstattungen und
+    2641), durchgeführten Steuervergütungen und Steuererstattungen und
 
 
 3.  (weggefallen)

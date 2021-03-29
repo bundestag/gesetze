@@ -18,7 +18,7 @@ Fundstelle
 :   RGBl: 1894, 151
 
 Geändert durch
-:   Art. 333 G v. 2.3.1974 I 469
+:   Art. 233 G v. 2.3.1974 I 469
 
 
 ## § 1

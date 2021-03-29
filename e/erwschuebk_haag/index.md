@@ -2,7 +2,7 @@
 Title: Übereinkommen über den internationalen Schutz von Erwachsenen
 jurabk: ErwSchÜbk Haag
 layout: default
-origslug: erwsch_bk_haag
+origslug: erwschuebk_haag
 slug: erwschuebk_haag
 
 ---

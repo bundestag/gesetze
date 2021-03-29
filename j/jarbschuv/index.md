@@ -113,31 +113,37 @@ Der Bundesrat hat zugestimmt.
 ## Anlage 1 Erhebungsbogen für die Erstuntersuchung nach dem Jugendarbeitsschutzgesetz (JArbSchG)
 
 ![pdf_grafik_jarbschuv_b0335.jpg](pdf_grafik_jarbschuv_b0335.jpg)![pdf_grafik_jarbschuv_b0336.jpg](pdf_grafik_jarbschuv_b0336.jpg)
+(Farbe rot)
 
-## Anlage 1a (Farbe rot) Erhebungsbogen für die Nachuntersuchung nach dem Jugendschutzgesetz (JArbSchG)
+## Anlage 1a Erhebungsbogen für die Nachuntersuchung nach dem Jugendschutzgesetz (JArbSchG)
 
 ![pdf_grafik_jarbschuv_b0337.jpg](pdf_grafik_jarbschuv_b0337.jpg)![pdf_grafik_jarbschuv_b0338.jpg](pdf_grafik_jarbschuv_b0338.jpg)
+Zum Verbleib beim Untersuchenden Arzt
 
-## Anlage 2 Zum Verbleib beim Untersuchenden Arzt Untersuchungsbogen
+## Anlage 2 Untersuchungsbogen
 
 ![pdf_grafik_jarbschuv_b0339.jpg](pdf_grafik_jarbschuv_b0339.jpg)![pdf_grafik_jarbschuv_b0340.jpg](pdf_grafik_jarbschuv_b0340.jpg)![pdf_grafik_jarbschuv_b0341.jpg](pdf_grafik_jarbschuv_b0341.jpg)![pdf_grafik_jarbschuv_b0342.jpg](pdf_grafik_jarbschuv_b0342.jpg)![pdf_grafik_jarbschuv_b0343.jpg](pdf_grafik_jarbschuv_b0343.jpg)![pdf_grafik_jarbschuv_b0344.jpg](pdf_grafik_jarbschuv_b0344.jpg)
+(Farbe rot)
+Zum Verbleib beim untersuchenden Arzt
 
-## Anlage 2a (Farbe rot) Zum Verbleib beim untersuchenden Arzt Untersuchungsbogen
+## Anlage 2a Untersuchungsbogen
 
 ![pdf_grafik_jarbschuv_b0345.jpg](pdf_grafik_jarbschuv_b0345.jpg)![pdf_grafik_jarbschuv_b0346.jpg](pdf_grafik_jarbschuv_b0346.jpg)![pdf_grafik_jarbschuv_b0347.jpg](pdf_grafik_jarbschuv_b0347.jpg)![pdf_grafik_jarbschuv_b0348.jpg](pdf_grafik_jarbschuv_b0348.jpg)![pdf_grafik_jarbschuv_b0349.jpg](pdf_grafik_jarbschuv_b0349.jpg)![pdf_grafik_jarbschuv_b0350.jpg](pdf_grafik_jarbschuv_b0350.jpg)
 
 ## Anlage 3 Ärztliche Mitteilung an den Personensorgeberechtigten
 
 ![pdf_grafik_jarbschuv_b0351.jpg](pdf_grafik_jarbschuv_b0351.jpg)![pdf_grafik_jarbschuv_b0352.jpg](pdf_grafik_jarbschuv_b0352.jpg)
+(Farbe rot)
 
-## Anlage 3a (Farbe rot) Ärztliche Mitteilung an den Personensorgeberechtigten
+## Anlage 3a Ärztliche Mitteilung an den Personensorgeberechtigten
 
 ![pdf_grafik_jarbschuv_b0353.jpg](pdf_grafik_jarbschuv_b0353.jpg)![pdf_grafik_jarbschuv_b0354.jpg](pdf_grafik_jarbschuv_b0354.jpg)
 
 ## Anlage 4 Ärztliche Bescheinigung für den Arbeitgeber
 
 ![pdf_grafik_jarbschuv_b0355.jpg](pdf_grafik_jarbschuv_b0355.jpg)![pdf_grafik_jarbschuv_b0356.jpg](pdf_grafik_jarbschuv_b0356.jpg)
+(Farbe rot)
 
-## Anlage 4a (Farbe rot) Ärztliche Bescheinigung für den Arbeitgeber
+## Anlage 4a Ärztliche Bescheinigung für den Arbeitgeber
 
 ![pdf_grafik_jarbschuv_b0357.jpg](pdf_grafik_jarbschuv_b0357.jpg)![pdf_grafik_jarbschuv_b0358.jpg](pdf_grafik_jarbschuv_b0358.jpg)

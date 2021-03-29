@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark
 jurabk: Münz5DMBek 1955-04
 layout: default
-origslug: m_nz5dmbek_1955-04
+origslug: muenz5dmbek_1955-04
 slug: muenz5dmbek_1955-04
 
 ---

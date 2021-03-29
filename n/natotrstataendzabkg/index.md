@@ -5,7 +5,7 @@ Title: Gesetz zu dem Abkommen vom 21. Oktober 1971 zur Änderung des Zusatzabkom
   stationierten ausländischen Truppen
 jurabk: NATOTrStatÄndZAbkG
 layout: default
-origslug: natotrstat_ndzabkg
+origslug: natotrstataendzabkg
 slug: natotrstataendzabkg
 
 ---

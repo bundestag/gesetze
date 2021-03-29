@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100. Geburtstag von Konrad Zuse“)
 jurabk: Münz10EuroBek 2010-05-20
 layout: default
-origslug: m_nz10eurobek_2010-05-20
+origslug: muenz10eurobek_2010-05-20
 slug: muenz10eurobek_2010-05-20
 
 ---

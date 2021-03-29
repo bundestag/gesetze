@@ -3,7 +3,7 @@ Title: Verordnung über die Zulassung von Wertpapieren zum regulierten Markt ein
   Wertpapierbörse
 jurabk: BörsZulV
 layout: default
-origslug: b_rszulv
+origslug: boerszulv
 slug: boerszulv
 
 ---
@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2832;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 43 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 12.7.2017 I 2359
 
 
 ## Erstes Kapitel - Zulassung von Wertpapieren zur regulierten Notierung
@@ -186,11 +186,11 @@ Aktien eines Emittenten mit Sitz in einem Staat außerhalb der
 Europäischen Gemeinschaft oder außerhalb der anderen Vertragsstaaten
 des Abkommens über den Europäischen Wirtschaftsraum, die weder in
 diesem Staat noch in dem Staat ihrer hauptsächlichen Verbreitung an
-einem Markt, der mit einem organisierten Markt im Sinne des § 2 Abs. 5
-des Wertpapierhandelsgesetzes vergleichbar ist, zum Handel zugelassen
-sind, dürfen nur zugelassen werden, wenn glaubhaft gemacht wird, daß
-die Zulassung in diesen Staaten nicht aus Gründen des Schutzes des
-Publikums unterblieben ist.
+einem Markt, der mit einem organisierten Markt im Sinne des § 2 Absatz
+11 des Wertpapierhandelsgesetzes vergleichbar ist, zum Handel
+zugelassen sind, dürfen nur zugelassen werden, wenn glaubhaft gemacht
+wird, daß die Zulassung in diesen Staaten nicht aus Gründen des
+Schutzes des Publikums unterblieben ist.
 
 
 #### § 11 Zulassung von Wertpapieren mit Umtausch- oder Bezugsrecht
@@ -251,13 +251,21 @@ des Publikums unterblieben ist.
 
 #### § 48 Zulassungsantrag
 
-(1) Der Zulassungsantrag ist schriftlich zu stellen. Er muß Firma und
-Sitz der Antragsteller, Art und Betrag der zuzulassenden Wertpapiere
-angeben. Ferner ist anzugeben, ob ein gleichartiger Antrag zuvor oder
-gleichzeitig an einer anderen inländischen Börse oder in einem anderen
-Mitgliedstaat der Europäischen Union oder in einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-gestellt worden ist oder alsbald gestellt werden wird.
+(1) Der Zulassungsantrag ist elektronisch zu stellen (elektronischer
+Antrag), es sei denn, in der Börsenordnung ist die schriftliche
+Antragstellung vorgeschrieben.Die Börsenordnung regelt die näheren
+Anforderungen an das für den elektronischen Antrag einzusetzende
+Verfahren. Es ist ein dem jeweiligen Stand der Technik entsprechendes
+sicheres Verfahren zu verwenden, das den Antragsteller
+authentifizieren und das die Vertraulichkeit und die Integrität des
+elektronisch übermittelten Datensatzes gewährleisten muss. Der
+Zulassungsantrag muß Firma und Sitz der Antragsteller, Art und Betrag
+der zuzulassenden Wertpapiere angeben. Ferner ist anzugeben, ob ein
+gleichartiger Antrag zuvor oder gleichzeitig an einer anderen
+inländischen Börse oder in einem anderen Mitgliedstaat der
+Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum gestellt worden ist oder alsbald
+gestellt werden wird.
 
 (2) Dem Antrag sind ein Entwurf des Prospekts oder ein gebilligter
 Prospekt und die zur Prüfung der Zulassungsvoraussetzungen

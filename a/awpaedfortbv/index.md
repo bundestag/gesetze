@@ -3,7 +3,7 @@ Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Gepr�
   Aus- und Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin
 jurabk: AWPädFortbV
 layout: default
-origslug: awp_dfortbv
+origslug: awpaedfortbv
 slug: awpaedfortbv
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2009, 2934
+
+Geändert durch
+:   Art. 12 V v. 30.11.2017 I 3827; 2018 I 131
 
 
 ## Eingangsformel
@@ -504,10 +507,61 @@ zu gewichtenden Ergebnissen der Präsentation und des Fachgesprächs
 eine Punktebewertung vorzunehmen. Diese Punktebewertung und die der
 Projektarbeit sind gleichgewichtet zu einer Note zusammenzufassen.
 
-(6) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-und der Anlage 2 auszustellen. Im Falle der Freistellung nach § 10
-sind Ort und Datum der anderweitig abgelegten Prüfung sowie die
-Bezeichnung des Prüfungsgremiums anzugeben.
+(6) Die Gesamtnote ergibt sich aus dem arithmetischen Mittel aus
+
+1.  der Punktebewertung der Prüfungsleistungen im Prüfungsteil
+    „Lernprozesse und Lernbegleitung“,
+
+
+2.  der Punktebewertung der Prüfungsleistungen im Prüfungsteil
+    „Planungsprozesse in der beruflichen Bildung“ und
+
+
+3.  der Punktebewertung der Prüfungsleistungen im Prüfungsteil
+    „Berufspädagogisches Handeln“.
+
+
+
+
+(7) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung und die Note des Prüfungsteils „Lernprozesse und
+    Lernbegleitung“ sowie die Benennung und die jeweilige Punktebewertung
+    der schriftlichen Prüfungsleistungen und des Fachgesprächs,
+
+
+2.  die Benennung, die Punktebewertung und die Note des Prüfungsteils
+    „Planungsprozesse in der beruflichen Bildung“,
+
+
+3.  die Benennung und die Note des Prüfungsteils „Berufspädagogisches
+    Handeln“ sowie die Benennung und die jeweilige Punktebewertung der
+    Projektarbeit sowie der Präsentation und des Fachgesprächs,
+
+
+4.  die Gesamtnote nach Absatz 6 und
+
+
+5.  gegebenenfalls die Befreiungen nach § 10.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 5 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 12 Wiederholen der Prüfung
@@ -540,190 +594,3 @@ bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am 1. September 2009 in Kraft.
 
-
-## Anlage 1 (zu § 11 Absatz 6) Muster
-
-(Fundstelle: BGBl. 2009, 2938)
-
-*    *   ....................
-        (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und
-Weiterbildungspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Aus- und Weiterbildungspädagoge/
-## Geprüfte Aus- und Weiterbildungspädagogin
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Aus- und
-Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
-21\. August 2009 (BGBl. I S. 2934)
-
-
-*    *   bestanden.
-
-
-
-
-*    *   Datum ....................
-
-
-*    *   Unterschrift(en) ....................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 11 Absatz 6) Muster
-
-(Fundstelle: BGBl. 2009, 2939)
-
-*    *   ....................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-## Geprüfter Aus- und Weiterbildungspädagoge/Geprüfte Aus- und
-Weiterbildungspädagogin
-
-
-*    *   Herr/Frau ....................
-
-
-*    *   geboren am ....................
-
-    *   in ....................
-
-
-*    *   hat am ....................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Aus- und Weiterbildungspädagoge/
-## Geprüfte Aus- und Weiterbildungspädagogin
-
-[^f772493_01_BJNR293400009BJNE001700000]
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Aus- und
-Weiterbildungspädagoge/Geprüfte Aus- und Weiterbildungspädagogin vom
-21\. August 2009 (BGBl. I S. 2934) mit folgenden Ergebnissen
-bestanden:
-
-
-*    *
-    *
-    *   Punkte
-
-    *
-    *   Note
-
-
-*    *   I.
-
-    *   Lernprozesse und Lernbegleitung
-
-    *
-    *
-    *   ....................
-
-
-*    *
-    *   Schriftliche Prüfungsleistungen
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Fachgespräch
-
-    *   ....................
-
-    *
-    *
-
-*    *   II.
-
-    *   Planungsprozesse in der beruflichen Bildung
-
-    *   ....................
-
-    *
-    *   ....................
-
-
-*    *   III.
-
-    *   Berufspädagogisches Handeln
-
-    *
-    *
-    *   ....................
-
-
-*    *
-    *   Projektarbeit
-
-    *   ....................
-
-    *
-    *
-
-*    *
-    *   Präsentation und Fachgespräch
-
-    *   ....................
-
-    *
-    *
-
-
-   (Im Fall des § 10: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde nach § 10 im Hinblick auf die am ....................
-in .................... vor .................... abgelegte Prüfung in
-.................... freigestellt. “)
-
-
-*    *   Datum ....................
-
-
-*    *   Unterschrift(en) ....................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ....................
-[^f772493_01_BJNR293400009BJNE001700000]: 

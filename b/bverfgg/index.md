@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.8.1993 I 1473;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.7.2012 I 1501
+:   Art. 2 G v. 8.10.2017 I 3546
 
 
 ## I. Teil - Verfassung und Zuständigkeit des Bundesverfassungsgerichts
@@ -108,8 +108,11 @@ ausgeschiedenen Richter gewählt hat.
 
 ### § 6
 
-(1) Die vom Bundestag zu berufenden Richter werden in indirekter Wahl
-gewählt.
+(1) Die vom Bundestag zu berufenden Richter werden auf Vorschlag des
+Wahlausschusses nach Absatz 2 ohne Aussprache mit verdeckten
+Stimmzetteln gewählt. Zum Richter ist gewählt, wer eine Mehrheit von
+zwei Dritteln der abgegebenen Stimmen, mindestens die Mehrheit der
+Stimmen der Mitglieder des Bundestages auf sich vereinigt.
 
 (2) Der Bundestag wählt nach den Regeln der Verhältniswahl einen
 Wahlausschuß für die Richter des Bundesverfassungsgerichts, der aus
@@ -124,8 +127,8 @@ Liste vorgeschlagene Mitglied ersetzt.
 
 (3) Das älteste Mitglied des Wahlausschusses beruft die Mitglieder des
 Wahlausschusses unverzüglich unter Einhaltung einer Ladungsfrist von
-einer Woche zur Durchführung der Wahl und leitet die Sitzung, die
-fortgesetzt wird, bis alle Richter gewählt sind.
+einer Woche ein und leitet die Sitzung, die fortgesetzt wird, bis
+Vorschläge über alle zu wählenden Richter beschlossen sind.
 
 (4) Die Mitglieder des Wahlausschusses sind zur Verschwiegenheit über
 die ihnen durch ihre Tätigkeit im Wahlausschuß bekanntgewordenen
@@ -133,8 +136,8 @@ persönlichen Verhältnisse der Bewerber sowie über die hierzu im
 Wahlausschuß gepflogenen Erörterungen und über die Abstimmung
 verpflichtet.
 
-(5) Zum Richter ist gewählt, wer mindestens acht Stimmen auf sich
-vereinigt.
+(5) Ein Wahlvorschlag wird mit mindestens acht Stimmen der Mitglieder
+des Wahlausschusses beschlossen.
 
 
 ### § 7
@@ -169,15 +172,16 @@ Vorgeschlagenen zu wählen, bleibt unberührt.
 
 ### § 8
 
-(1) Das Bundesministerium der Justiz stellt eine Liste aller
-Bundesrichter auf, die die Voraussetzungen des § 3 Abs. 1 und 2
-erfüllen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz stellt
+eine Liste aller Bundesrichter auf, die die Voraussetzungen des § 3
+Abs. 1 und 2 erfüllen.
 
-(2) Das Bundesministerium der Justiz führt eine weitere Liste, in die
-alle Personen aufzunehmen sind, die von einer Fraktion des
-Bundestages, der Bundesregierung oder einer Landesregierung für das
-Amt eines Richters am Bundesverfassungsgericht vorgeschlagen werden
-und die die Voraussetzungen des § 3 Abs. 1 und 2 erfüllen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz führt
+eine weitere Liste, in die alle Personen aufzunehmen sind, die von
+einer Fraktion des Bundestages, der Bundesregierung oder einer
+Landesregierung für das Amt eines Richters am Bundesverfassungsgericht
+vorgeschlagen werden und die die Voraussetzungen des § 3 Abs. 1 und 2
+erfüllen.
 
 (3) Die Listen sind laufend zu ergänzen und spätestens eine Woche vor
 einer Wahl den Präsidenten des Bundestages und des Bundesrates
@@ -240,6 +244,10 @@ Das Bundesverfassungsgericht entscheidet
 
 2.  über die Verfassungswidrigkeit von Parteien (Artikel 21 Abs. 2 des
     Grundgesetzes),
+
+
+2a. über den Ausschluss von Parteien von staatlicher Finanzierung (Artikel
+    21 Absatz 3 des Grundgesetzes),
 
 
 3.  über Beschwerden gegen Entscheidungen des Bundestages, die die
@@ -359,7 +367,7 @@ Landesregierung zusammen mit einem Normenkontrollantrag (§ 13 Nr. 6)
 nach Satz 1 einen Antrag nach § 13 Nr. 6a oder 6b stellt.
 
 (2) Der Zweite Senat des Bundesverfassungsgerichts ist zuständig in
-den Fällen des § 13 Nr. 1 bis 5, 6a bis 11a, 12 und 14, ferner für
+den Fällen des § 13 Nr. 1 bis 5, 6a bis 9, 11a, 12 und 14, ferner für
 Normenkontrollverfahren und Verfassungsbeschwerden, die nicht dem
 Ersten Senat zugewiesen sind.
 
@@ -401,12 +409,12 @@ Das Nähere regelt die Geschäftsordnung.
 hinzutreten. Wird der Senat beschlußunfähig, muß die Beratung nach
 seiner Ergänzung neu begonnen werden.
 
-(4) Im Verfahren gemäß § 13 Nr. 1, 2, 4 und 9 bedarf es zu einer dem
-Antragsgegner nachteiligen Entscheidung in jedem Fall einer Mehrheit
-von zwei Dritteln der Mitglieder des Senats. Im übrigen entscheidet
-die Mehrheit der an der Entscheidung mitwirkenden Mitglieder des
-Senats, soweit nicht das Gesetz etwas anderes bestimmt. Bei
-Stimmengleichheit kann ein Verstoß gegen das Grundgesetz oder
+(4) Im Verfahren gemäß § 13 Nummer 1, 2, 2a, 4 und 9 bedarf es zu
+einer dem Antragsgegner nachteiligen Entscheidung in jedem Fall einer
+Mehrheit von zwei Dritteln der Mitglieder des Senats. Im übrigen
+entscheidet die Mehrheit der an der Entscheidung mitwirkenden
+Mitglieder des Senats, soweit nicht das Gesetz etwas anderes bestimmt.
+Bei Stimmengleichheit kann ein Verstoß gegen das Grundgesetz oder
 sonstiges Bundesrecht nicht festgestellt werden.
 
 
@@ -451,10 +459,11 @@ Gerichtsverfassungsgesetzes entsprechend anzuwenden.
 
 #### § 17a
 
-(1) Abweichend von § 169 Satz 2 des Gerichtsverfassungsgesetzes sind
-Ton- und Fernseh-Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum
-Zwecke der öffentlichen Vorführung oder der Veröffentlichung ihres
-Inhalts zulässig
+(1) Die Verhandlung vor dem Bundesverfassungsgericht einschließlich
+der Verkündung von Entscheidungen ist öffentlich. Ton- und Fernseh-
+Rundfunkaufnahmen sowie Ton- und Filmaufnahmen zum Zwecke der
+öffentlichen Vorführung oder der Veröffentlichung ihres Inhalts sind
+nur zulässig
 
 1.  in der mündlichen Verhandlung, bis das Gericht die Anwesenheit der
     Beteiligten festgestellt hat,
@@ -464,12 +473,35 @@ Inhalts zulässig
 
 
 
+Die Tonübertragung in einen Arbeitsraum für Personen, die für Presse,
+Hörfunk, Fernsehen oder für andere Medien berichten, kann durch
+Anordnung des oder der Vorsitzenden zugelassen werden.
 
 (2) Zur Wahrung schutzwürdiger Interessen der Beteiligten oder Dritter
-sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann das
-Bundesverfassungsgericht die Aufnahmen nach Absatz 1 oder deren
-Übertragung ganz oder teilweise ausschließen oder von der Einhaltung
-von Auflagen abhängig machen.
+sowie eines ordnungsgemäßen Ablaufs des Verfahrens kann der oder die
+Vorsitzende die Aufnahmen nach Absatz 1 Satz 2 oder deren Übertragung
+sowie die Übertragung nach Absatz 1 Satz 3 ganz oder teilweise
+untersagen oder von der Einhaltung von Auflagen abhängig machen.
+
+(3) Tonaufnahmen der Verhandlung vor dem Bundesverfassungsgericht
+einschließlich der Verkündung von Entscheidungen können zu
+wissenschaftlichen und historischen Zwecken durch Senatsbeschluss
+zugelassen werden, wenn es sich um ein Verfahren von herausragender
+zeitgeschichtlicher Bedeutung für die Bundesrepublik Deutschland
+handelt. Zur Wahrung schutzwürdiger Interessen der Beteiligten oder
+Dritter oder zur Wahrung eines ordnungsgemäßen Ablaufs des Verfahrens
+können die Aufnahmen durch den Vorsitzenden oder die Vorsitzende
+teilweise untersagt werden. Die Aufnahmen sind nicht zu den Akten zu
+nehmen und dürfen weder herausgegeben noch für Zwecke des
+aufgenommenen oder eines anderen Verfahrens genutzt oder verwertet
+werden. Die Aufnahmen sind vom Gericht nach Abschluss des Verfahrens
+dem Bundesarchiv zur Übernahme anzubieten, das nach dem
+Bundesarchivgesetz festzustellen hat, ob den Aufnahmen ein bleibender
+Wert zukommt. Nimmt das Bundesarchiv die Aufnahmen nicht an, sind die
+Aufnahmen durch das Gericht zu löschen. § 25a Satz 2 bleibt unberührt.
+
+(4) Gegen die Anordnungen des oder der Vorsitzenden kann der Senat
+angerufen werden.
 
 
 #### § 18
@@ -648,7 +680,7 @@ Stellungnahme geben.
 #### § 28
 
 (1) Für die Vernehmung von Zeugen und Sachverständigen gelten in den
-Fällen des § 13 Nr. 1, 2, 4 und 9 die Vorschriften der
+Fällen des § 13 Nummer 1, 2, 2a, 4 und 9 die Vorschriften der
 Strafprozeßordnung, in den übrigen Fällen die Vorschriften der
 Zivilprozeßordnung entsprechend.
 
@@ -707,8 +739,9 @@ ein Gesetz als mit dem Grundgesetz vereinbar oder unvereinbar oder für
 nichtig erklärt. Soweit ein Gesetz als mit dem Grundgesetz oder
 sonstigem Bundesrecht vereinbar oder unvereinbar oder für nichtig
 erklärt wird, ist die Entscheidungsformel durch das Bundesministerium
-der Justiz im Bundesgesetzblatt zu veröffentlichen. Entsprechendes
-gilt für die Entscheidungsformel in den Fällen des § 13 Nr. 12 und 14.
+der Justiz und für Verbraucherschutz im Bundesgesetzblatt zu
+veröffentlichen. Entsprechendes gilt für die Entscheidungsformel in
+den Fällen des § 13 Nr. 12 und 14.
 
 
 #### § 32
@@ -858,6 +891,29 @@ Absatz 2 Akteneinsicht gewährt werden kann oder wenn einer
 Privatperson auf Grund besonderer Umstände dort Akteneinsicht gewährt
 werden soll.
 
+(5) Für die Einsicht in die Akten des Bundesverfassungsgerichts, die
+beim Bundesarchiv oder durch das Bundesarchiv als Zwischenarchivgut
+aufbewahrt werden, gelten nach Ablauf von 30 Jahren seit Abschluss des
+Verfahrens die archivgesetzlichen Regelungen. Für Entwürfe von
+Urteilen, Beschlüssen und Verfügungen, Arbeiten zu ihrer Vorbereitung
+und Dokumente, die Abstimmungen betreffen, gilt dies nach Ablauf von
+60 Jahren. Das Bundesverfassungsgericht behält für das abgegebene
+Schriftgut, das beim Bundesarchiv aufbewahrt wird, zu gerichtsinternen
+und prozessualen Zwecken das jederzeitige und vorrangige
+Rückgriffsrecht. Zu diesem Zweck ist es ihm auf Anforderung umgehend
+zu übersenden.
+
+(6) Die Akten zu Kammerentscheidungen, die nicht zur Veröffentlichung
+bestimmt sind, einschließlich der Entwürfe von Beschlüssen und
+Verfügungen, Arbeiten zu ihrer Vorbereitung und Dokumente, die
+Abstimmungen betreffen, können mit Einverständnis des Bundesarchivs
+nach Ablauf von 30 Jahren vernichtet werden.
+
+(7) Die Akten zu den im Allgemeinen Register eingetragenen Vorgängen,
+die nicht in das Verfahrensregister übertragen worden sind, können mit
+Einverständnis des Bundesarchivs fünf Jahre nach der letzten die Sache
+betreffenden Verfügung vernichtet werden.
+
 
 #### § 35c
 
@@ -937,20 +993,24 @@ entschieden, so kann er gegen denselben Antragsgegner nur wiederholt
 werden, wenn er auf neue Tatsachen gestützt wird.
 
 
-#### § 42
-
-(weggefallen)
+#### § 42 (weggefallen)
 
 
-### Zweiter Abschnitt - Verfahren in den Fällen des § 13 Nr. 2
+
+### Zweiter Abschnitt - Verfahren in den Fällen des § 13 Nummer 2 und 2a
 
 
 
 #### § 43
 
-(1) Der Antrag auf Entscheidung, ob eine Partei verfassungswidrig ist
-(Artikel 21 Abs. 2 des Grundgesetzes), kann von dem Bundestag, dem
-Bundesrat oder von der Bundesregierung gestellt werden.
+(1) Der Antrag auf Entscheidung, ob eine Partei verfassungswidrig
+(Artikel 21 Absatz 2 des Grundgesetzes) oder von staatlicher
+Finanzierung ausgeschlossen ist (Artikel 21 Absatz 3 des
+Grundgesetzes), kann von dem Bundestag, dem Bundesrat oder von der
+Bundesregierung gestellt werden. Der Antrag auf Entscheidung über den
+Ausschluss von staatlicher Finanzierung kann hilfsweise zu einem
+Antrag auf Entscheidung, ob eine Partei verfassungswidrig ist,
+gestellt werden.
 
 (2) Eine Landesregierung kann den Antrag nur gegen eine Partei
 stellen, deren Organisation sich auf das Gebiet ihres Landes
@@ -979,7 +1039,8 @@ durchzuführen ist.
 
 #### § 46
 
-(1) Erweist sich der Antrag als begründet, so stellt das
+(1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 2
+des Grundgesetzes als begründet, so stellt das
 Bundesverfassungsgericht fest, daß die politische Partei
 verfassungswidrig ist.
 
@@ -993,6 +1054,29 @@ Bundesverfassungsgericht kann in diesem Fall außerdem die Einziehung
 des Vermögens der Partei oder des selbständigen Teiles der Partei
 zugunsten des Bundes oder des Landes zu gemeinnützigen Zwecken
 aussprechen.
+
+
+#### § 46a
+
+(1) Erweist sich der Antrag auf Entscheidung gemäß Artikel 21 Absatz 3
+des Grundgesetzes als begründet, so stellt das
+Bundesverfassungsgericht fest, dass die Partei für sechs Jahre von der
+staatlichen Finanzierung nach § 18 des Parteiengesetzes ausgeschlossen
+ist. Die Feststellung ist auf Ersatzparteien zu erstrecken. Dass eine
+Partei die Bestrebungen einer nach Satz 1 von der staatlichen
+Finanzierung ausgeschlossenen Partei als Ersatzpartei an deren Stelle
+weiter verfolgt oder fortführt, stellt das Bundesverfassungsgericht
+entsprechend Satz 1 fest. Die Feststellung erfolgt auf Antrag eines
+Berechtigten nach § 43 Absatz 1 Satz 1; § 45 ist auf das Verfahren
+nicht anzuwenden.
+
+(2) Beantragt einer der Antragsberechtigten spätestens sechs Monate
+vor Ablauf der Frist nach Absatz 1 Satz 1 ihre Verlängerung, bleibt
+die Partei bis zur Entscheidung über diesen Antrag von staatlicher
+Finanzierung ausgeschlossen. § 45 ist auf das Verfahren nicht
+anzuwenden. Das Bundesverfassungsgericht kann ohne mündliche
+Verhandlung entscheiden. Für die Entscheidung gilt Absatz 1
+entsprechend. Erneute Verlängerungsanträge sind statthaft.
 
 
 #### § 47
@@ -1684,9 +1768,8 @@ Selbstverwaltung nach dem Rechte des Landes beim
 Landesverfassungsgericht erhoben werden kann.
 
 
-#### § 91a
+#### § 91a (weggefallen)
 
-(weggefallen)
 
 
 #### § 92
@@ -1841,9 +1924,8 @@ aufgehobene Entscheidung auf einem verfassungswidrigen Gesetz beruht.
 Die Vorschrift des § 79 gilt entsprechend.
 
 
-#### § 95a
+#### § 95a (weggefallen)
 
-(weggefallen)
 
 
 ### Sechzehnter Abschnitt - Verfahren in den Fällen des § 13 Nr. 6b
@@ -2027,9 +2109,8 @@ gilt für die Hinterbliebenenversorgung.
 (6) § 70 des Beamtenversorgungsgesetzes gilt entsprechend.
 
 
-### § 99
+### § 99 (weggefallen)
 
-(weggefallen)
 
 
 ### § 100
@@ -2167,17 +2248,10 @@ bedarf der Zustimmung von zwei Dritteln der Mitglieder des Gerichts.
 Ansprüche aus seinem Amt.
 
 
-### § 106
-
-(Inkrafttreten)
+### § 106 (weggefallen)
 
 
-### § 106
 
-(Inkrafttreten)
+### § 107 (weggefallen)
 
-
-### § 107
-
-(weggefallen)
 

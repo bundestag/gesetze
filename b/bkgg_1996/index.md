@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 28.1.2009 I 142, 3177;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 7.12.2011 I 2592
+:   Art. 8 G v. 23.6.2017 I 1682
 
 
 ## Erster Abschnitt - Leistungen
@@ -42,9 +42,9 @@ wird und
 
 2.  als Entwicklungshelfer Unterhaltsleistungen im Sinne des § 4 Absatz 1
     Nummer 1 des Entwicklungshelfer-Gesetzes erhält oder als Missionar der
-    Missionswerke und -gesellschaften,                    die Mitglieder
-    oder Vereinbarungspartner des Evangelischen Missionswerkes Hamburg,
-    der Arbeitsgemeinschaft Evangelikaler Missionen e. V., des Deutschen
+    Missionswerke und -gesellschaften, die Mitglieder oder
+    Vereinbarungspartner des Evangelischen Missionswerkes Hamburg, der
+    Arbeitsgemeinschaft Evangelikaler Missionen e. V., des Deutschen
     katholischen Missionsrates oder der Arbeitsgemeinschaft pfingstlich-
     charismatischer Missionen sind, tätig ist oder
 
@@ -54,10 +54,10 @@ wird und
     Einrichtung außerhalb Deutschlands zugewiesene Tätigkeit ausübt oder
 
 
-4.  als Ehegatte eines Mitglieds der Truppe oder des zivilen Gefolges
-    eines NATO-Mitgliedstaates die Staatsangehörigkeit eines EU/EWR-
-    Mitgliedstaates besitzt und in Deutschland seinen Wohnsitz oder
-    gewöhnlichen Aufenthalt hat.
+4.  als Ehegatte oder Lebenspartner eines Mitglieds der Truppe oder des
+    zivilen Gefolges eines NATO-Mitgliedstaates die Staatsangehörigkeit
+    eines EU/EWR-Mitgliedstaates besitzt und in Deutschland seinen
+    Wohnsitz oder gewöhnlichen Aufenthalt hat.
 
 
 
@@ -128,7 +128,7 @@ nur, wenn er
 (1) Als Kinder werden auch berücksichtigt
 
 1.  vom Berechtigten in seinen Haushalt aufgenommene Kinder seines
-    Ehegatten,
+    Ehegatten oder Lebenspartners,
 
 
 2.  Pflegekinder (Personen, mit denen der Berechtigte durch ein
@@ -160,8 +160,9 @@ berücksichtigt, wenn es
         Ausbildungsabschnitt und der Ableistung des gesetzlichen Wehr- oder
         Zivildienstes, einer vom Wehr- oder Zivildienst befreienden Tätigkeit
         als Entwicklungshelfer oder als Dienstleistender im Ausland nach § 14b
-        des Zivildienstgesetzes oder der Ableistung eines freiwilligen
-        Dienstes im Sinne des Buchstaben d liegt, oder
+        des Zivildienstgesetzes oder der Ableistung des freiwilligen
+        Wehrdienstes nach § 58b des Soldatengesetzes oder der Ableistung eines
+        freiwilligen Dienstes im Sinne des Buchstaben d liegt, oder
 
 
     c)  eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder
@@ -170,20 +171,22 @@ berücksichtigt, wenn es
 
     d)  ein freiwilliges soziales Jahr oder ein freiwilliges ökologisches Jahr
         im Sinne des Jugendfreiwilligendienstegesetzes oder einen
-        Freiwilligendienst im Sinne des Beschlusses Nummer 1719/2006/EG des
-        Europäischen Parlaments und des Rates vom 15. November 2006 zur
-        Einführung des Programms „Jugend in Aktion“ (ABl. EU Nr. L 327 S. 30)
-        oder einen anderen Dienst im Ausland im Sinne von § 14b des
-        Zivildienstgesetzes oder einen entwicklungspolitischen
-        Freiwilligendienst „weltwärts“ im Sinne der Richtlinie des
-        Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
-        vom 1. August 2007 (BAnz. 2008 S. 1297) oder einen Freiwilligendienst
-        aller Generationen im Sinne von § 2 Absatz 1a des Siebten Buches
-        Sozialgesetzbuch oder einen Internationalen Jugendfreiwilligendienst
-        im Sinne der Richtlinie des Bundesministeriums für Familie, Senioren,
-        Frauen und Jugend vom 20. Dezember 2010 (GMBl S. 1778) oder einen
-        Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes
-        leistet oder
+        Freiwilligendienst im Sinne der Verordnung (EU) Nr. 1288/2013 des
+        Europäischen Parlaments und des Rates vom 11. Dezember 2013 zur
+        Einrichtung von „Erasmus+“, dem Programm der Union für allgemeine und
+        berufliche Bildung, Jugend und Sport, und zur Aufhebung der Beschlüsse
+        Nr. 1719/2006/EG, Nr. 1720/2006/EG und Nr. 1298/2008/EG (ABl. L 347
+        vom 20.12.2013, S. 50) oder einen anderen Dienst im Ausland im Sinne
+        von § 5 des Bundesfreiwilligendienstgesetzes oder einen
+        entwicklungspolitischen Freiwilligendienst „weltwärts“ im Sinne der
+        Richtlinie des Bundesministeriums für wirtschaftliche Zusammenarbeit
+        und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297) oder einen
+        Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des
+        Siebten Buches Sozialgesetzbuch oder einen Internationalen
+        Jugendfreiwilligendienst im Sinne der Richtlinie des
+        Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 20.
+        Dezember 2010 (GMBl S. 1778) oder einen Bundesfreiwilligendienst im
+        Sinne des Bundesfreiwilligendienstgesetzes leistet oder
 
 
 
@@ -195,7 +198,7 @@ berücksichtigt, wenn es
 
 
 
-Nach Abschluss einer erstmaligen Berufsausbildung und eines
+Nach Abschluss einer erstmaligen Berufsausbildung oder eines
 Erststudiums wird ein Kind in den Fällen des Satzes 1 Nummer 2 nur
 berücksichtigt, wenn das Kind keiner Erwerbstätigkeit nachgeht. Eine
 Erwerbstätigkeit mit bis zu 20 Stunden regelmäßiger wöchentlicher
@@ -263,17 +266,17 @@ und Leistungen für Bildung und Teilhabe gewährt.
 Anspruchsvoraussetzungen, so werden das Kindergeld, der Kinderzuschlag
 und die Leistungen für Bildung und Teilhabe derjenigen Person gewährt,
 die das Kind in ihren Haushalt aufgenommen hat. Ist ein Kind in den
-gemeinsamen Haushalt von Eltern, einem Elternteil und dessen
-Ehegatten, Pflegeeltern oder Großeltern aufgenommen worden, bestimmen
-diese untereinander den Berechtigten. Wird eine Bestimmung nicht
-getroffen, bestimmt das Familiengericht auf Antrag den Berechtigten.
-Antragsberechtigt ist, wer ein berechtigtes Interesse an der Leistung
-des Kindergeldes hat. Lebt ein Kind im gemeinsamen Haushalt von Eltern
-und Großeltern, werden das Kindergeld, der Kinderzuschlag und die
-Leistungen für Bildung und Teilhabe vorrangig einem Elternteil
-gewährt; sie werden an einen Großelternteil gewährt, wenn der
-Elternteil gegenüber der zuständigen Stelle auf seinen Vorrang
-schriftlich verzichtet hat.
+gemeinsamen Haushalt von Eltern, von einem Elternteil und dessen
+Ehegatten oder Lebenspartner, von Pflegeeltern oder Großeltern
+aufgenommen worden, bestimmen diese untereinander den Berechtigten.
+Wird eine Bestimmung nicht getroffen, bestimmt das Familiengericht auf
+Antrag den Berechtigten. Antragsberechtigt ist, wer ein berechtigtes
+Interesse an der Leistung des Kindergeldes hat. Lebt ein Kind im
+gemeinsamen Haushalt von Eltern und Großeltern, werden das Kindergeld,
+der Kinderzuschlag und die Leistungen für Bildung und Teilhabe
+vorrangig einem Elternteil gewährt; sie werden an einen Großelternteil
+gewährt, wenn der Elternteil gegenüber der zuständigen Stelle auf
+seinen Vorrang schriftlich verzichtet hat.
 
 (3) Ist das Kind nicht in den Haushalt einer der Personen aufgenommen,
 die die Anspruchsvoraussetzungen erfüllen, wird das Kindergeld
@@ -313,9 +316,10 @@ ist er versicherungsfrei nach § 28 Absatz 1 Nummer 1 des Dritten
 Buches Sozialgesetzbuch oder steht er in Deutschland in einem
 öffentlich-rechtlichen Dienst- oder Amtsverhältnis, so wird sein
 Anspruch auf Kindergeld für ein Kind nicht nach Satz 1 Nummer 3 mit
-Rücksicht darauf ausgeschlossen, dass sein Ehegatte als Beamter,
-Ruhestandsbeamter oder sonstiger Bediensteter der Europäischen
-Gemeinschaften für das Kind Anspruch auf Kinderzulage hat.
+Rücksicht darauf ausgeschlossen, dass sein Ehegatte oder Lebenspartner
+als Beamter, Ruhestandsbeamter oder sonstiger Bediensteter der
+Europäischen Gemeinschaften für das Kind Anspruch auf Kinderzulage
+hat.
 
 (2) Ist in den Fällen des Absatzes 1 Satz 1 Nummer 1 der Bruttobetrag
 der anderen Leistung niedriger als das Kindergeld nach § 6, wird
@@ -330,32 +334,32 @@ und Teilhabe werden vom Beginn des Monats an gewährt, in dem die
 Anspruchsvoraussetzungen erfüllt sind; sie werden bis zum Ende des
 Monats gewährt, in dem die Anspruchsvoraussetzungen wegfallen.
 
-(2) Abweichend von Satz 1 wird in den Fällen des § 6a Absatz 1 Nummer
-4 Satz 3 Kinderzuschlag erst ab dem Monat, der auf den Monat der
-Antragstellung folgt, gewährt, wenn Leistungen nach dem Zweiten Buch
-Sozialgesetzbuch für den Monat, in dem der Antrag auf Kinderzuschlag
-gestellt worden ist, bereits erbracht worden sind.
+(2) Abweichend von Absatz 1 wird in den Fällen des § 6a Absatz 1
+Nummer 4 Satz 3 Kinderzuschlag erst ab dem Monat, der auf den Monat
+der Antragstellung folgt, gewährt, wenn Leistungen nach dem Zweiten
+Buch Sozialgesetzbuch für den Monat, in dem der Antrag auf
+Kinderzuschlag gestellt worden ist, bereits erbracht worden sind.
 
 
 ### § 6 Höhe des Kindergeldes
 
 (1) Das Kindergeld beträgt monatlich für erste und zweite Kinder
-jeweils 184 Euro, für dritte Kinder 190 Euro und für das vierte und
-jedes weitere Kind jeweils 215 Euro.
+jeweils 194 Euro, für dritte Kinder 200 Euro und für das vierte und
+jedes weitere Kind jeweils 225 Euro.
 
-(2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 184 Euro
+(2) In den Fällen des § 1 Absatz 2 beträgt das Kindergeld 194 Euro
 monatlich.
 
-(3) Für jedes Kind, für das im Kalenderjahr 2009 mindestens für einen
-Kalendermonat ein Anspruch auf Kindergeld besteht, wird für das
-Kalenderjahr 2009 ein Einmalbetrag in Höhe von 100 Euro gezahlt.
+(3) Das Kindergeld wird rückwirkend nur für die letzten sechs Monate
+vor Beginn des Monats gezahlt, in dem der Antrag auf Kindergeld
+eingegangen ist.
 
 
 ### § 6a Kinderzuschlag
 
 (1) Personen erhalten nach diesem Gesetz für in ihrem Haushalt lebende
-unverheiratete Kinder, die noch nicht das 25. Lebensjahr vollendet
-haben, einen Kinderzuschlag, wenn
+unverheiratete oder nicht verpartnerte Kinder, die noch nicht das 25.
+Lebensjahr vollendet haben, einen Kinderzuschlag, wenn
 
 1.  sie für diese Kinder nach diesem Gesetz oder nach dem X. Abschnitt des
     Einkommensteuergesetzes Anspruch auf Kindergeld oder Anspruch auf
@@ -395,7 +399,7 @@ haben, einen Kinderzuschlag, wenn
 
 
 (2) Der Kinderzuschlag beträgt für jedes zu berücksichtigende Kind
-jeweils bis zu 140 Euro monatlich. Die Summe der Kinderzuschläge
+jeweils bis zu 170 Euro monatlich. Die Summe der Kinderzuschläge
 bildet den Gesamtkinderzuschlag. Er soll jeweils für sechs Monate
 bewilligt werden. Kinderzuschlag wird nicht für Zeiten vor der
 Antragstellung erbracht. § 28 des Zehnten Buches Sozialgesetzbuch gilt
@@ -421,26 +425,25 @@ Sozialgeldes zu berücksichtigenden elterlichen Bedarfe nicht
 Verhältnis aufzuteilen, das sich aus den im jeweils letzten Bericht
 der Bundesregierung über die Höhe des Existenzminimums von Erwachsenen
 und Kindern festgestellten entsprechenden Bedarfen für Alleinstehende,
-Ehepaare und Kinder ergibt. Der Kinderzuschlag wird außer in den in
-Absatz 3 genannten Fällen auch dann stufenweise gemindert, wenn das
-nach den §§ 11 bis 12 des Zweiten Buches Sozialgesetzbuch mit Ausnahme
-des Wohngeldes zu berücksichtigende elterliche Einkommen oder Vermögen
-den in Satz 1 genannten jeweils maßgebenden Betrag übersteigt. Als
-elterliches Einkommen oder Vermögen gilt dabei dasjenige des mit dem
-Kind im gemeinsamen Haushalt lebenden alleinerziehenden Elternteils,
-Ehepaares oder als eingetragene Lebenspartner oder in einer
-eheähnlichen Gemeinschaft zusammenlebenden Paares. Soweit das zu
-berücksichtigende elterliche Einkommen nicht nur aus Erwerbseinkünften
-besteht, ist davon auszugehen, dass die Überschreitung des in Satz 1
-genannten jeweils maßgebenden Betrages durch die Erwerbseinkünfte
-verursacht wird, wenn nicht die Summe der anderen Einkommensteile oder
-des Vermögens für sich genommen diesen maßgebenden Betrag übersteigt.
-Für je 10 Euro, um die die monatlichen Erwerbseinkünfte den
-maßgebenden Betrag übersteigen, wird der Kinderzuschlag um 5 Euro
-monatlich gemindert. Anderes Einkommen sowie Vermögen mindern den
-Kinderzuschlag in voller Höhe. Kommt die Minderung des für mehrere
-Kinder zu zahlenden Kinderzuschlags in Betracht, wird sie beim
-Gesamtkinderzuschlag vorgenommen.
+Ehepaare, Lebenspartnerschaften und Kinder ergibt. Der Kinderzuschlag
+wird außer in den in Absatz 3 genannten Fällen auch dann stufenweise
+gemindert, wenn das nach den §§ 11 bis 12 des Zweiten Buches
+Sozialgesetzbuch mit Ausnahme des Wohngeldes zu berücksichtigende
+elterliche Einkommen oder Vermögen den in Satz 1 genannten jeweils
+maßgebenden Betrag übersteigt. Als elterliches Einkommen oder Vermögen
+gilt dabei dasjenige der Mitglieder der Bedarfsgemeinschaft mit
+Ausnahme des Einkommens und Vermögens der in dem Haushalt lebenden
+Kinder. Soweit das zu berücksichtigende elterliche Einkommen nicht nur
+aus Erwerbseinkünften besteht, ist davon auszugehen, dass die
+Überschreitung des in Satz 1 genannten jeweils maßgebenden Betrages
+durch die Erwerbseinkünfte verursacht wird, wenn nicht die Summe der
+anderen Einkommensteile oder des Vermögens für sich genommen diesen
+maßgebenden Betrag übersteigt. Für je 10 Euro, um die die monatlichen
+Erwerbseinkünfte den maßgebenden Betrag übersteigen, wird der
+Kinderzuschlag um 5 Euro monatlich gemindert. Anderes Einkommen sowie
+Vermögen mindern den Kinderzuschlag in voller Höhe. Kommt die
+Minderung des für mehrere Kinder zu zahlenden Kinderzuschlags in
+Betracht, wird sie beim Gesamtkinderzuschlag vorgenommen.
 
 (4a) (weggefallen)
 
@@ -483,19 +486,25 @@ zur Deckung der Bedarfe nach § 28 Absatz 2 bis 7 des Zweiten Buches
 Sozialgesetzbuch. § 28 Absatz 1 Satz 2 des Zweiten Buches
 Sozialgesetzbuch gilt entsprechend. Für die Bemessung der Leistungen
 für die Schülerbeförderung nach § 28 Absatz 4 des Zweiten Buches
-Sozialgesetzbuch ist ein Betrag in Höhe der regelbedarfsrelevanten
-Verbrauchsausgaben nach § 6 des Regelbedarfsermittlungsgesetzes
-entsprechend zu berücksichtigen. Für die gemeinschaftliche
-Mittagsverpflegung nach § 28 Absatz 6 des Zweiten Buches
-Sozialgesetzbuch wird zur Ermittlung der Mehraufwendungen für jedes
-Mittagessen ein Betrag in Höhe des in § 9 des
-Regelbedarfsermittlungsgesetzes festgelegten Eigenanteils
+Sozialgesetzbuch sind die erforderlichen tatsächlichen Aufwendungen zu
+berücksichtigen, soweit sie nicht von Dritten übernommen werden und
+den Leistungsberechtigten nicht zugemutet werden kann, die
+Aufwendungen aus eigenen Mitteln zu bestreiten. Als zumutbare
+Eigenleistung gilt in der Regel ein Betrag in Höhe von 5 Euro
+monatlich. Für die gemeinschaftliche Mittagsverpflegung nach § 28
+Absatz 6 des Zweiten Buches Sozialgesetzbuch wird zur Ermittlung der
+Mehraufwendungen für jedes Mittagessen ein Betrag in Höhe des in § 9
+des Regelbedarfsermittlungsgesetzes festgelegten Eigenanteils
 berücksichtigt. Die Leistungen nach Satz 1 gelten nicht als Einkommen
 oder Vermögen im Sinne dieses Gesetzes. § 19 Absatz 3 des Zweiten
 Buches Sozialgesetzbuch findet keine Anwendung.
 
+(2a) Ansprüche auf Leistungen für Bildung und Teilhabe verjähren in
+zwölf Monaten nach Ablauf des Kalendermonats, in dem sie entstanden
+sind.
+
 (3) Für die Erbringung der Leistungen für Bildung und Teilhabe gelten
-die §§ 29 und 40 Absatz 3 des Zweiten Buches Sozialgesetzbuch
+die §§ 29, 30 und 40 Absatz 6 des Zweiten Buches Sozialgesetzbuch
 entsprechend.
 
 
@@ -564,7 +573,8 @@ Stelle schriftlich zu beantragen. Absatz 1 Satz 3 gilt entsprechend.
 bei dem Antragsteller oder Berechtigten berücksichtigten Kinder, für
 den nicht dauernd getrennt lebenden Ehegatten des Antragstellers oder
 Berechtigten und für die sonstigen Personen, bei denen die
-bezeichneten Kinder berücksichtigt werden.
+bezeichneten Kinder berücksichtigt werden. § 60 Absatz 4 des Zweiten
+Buches Sozialgesetzbuch gilt entsprechend.
 
 (2) Soweit es zur Durchführung der §§ 2 und 6a erforderlich ist, hat
 der jeweilige Arbeitgeber der in diesen Vorschriften bezeichneten
@@ -590,6 +600,27 @@ Anwendung.
 abweichend von § 44 Absatz 1 des Zehnten Buches Sozialgesetzbuch für
 die Zukunft zurückzunehmen; er kann ganz oder teilweise auch für die
 Vergangenheit zurückgenommen werden.
+
+(5) Über die Bewilligung von Kinderzuschlag ist in entsprechender
+Anwendung des § 41a des Zweiten Buches Sozialgesetzbuch mit Ausnahme
+von Absatz 2 Satz 2 und 3 vorläufig zu entscheiden. Ist bei laufenden
+Einnahmen im Bewilligungszeitraum zu erwarten, dass diese in
+unterschiedlicher Höhe zufließen, gilt § 41a Absatz 4 Satz 1 des
+Zweiten Buches Sozialgesetzbuch auch für die vorläufige Entscheidung.
+Treten in den tatsächlichen Verhältnissen Änderungen ein, aufgrund
+derer nach Maßgabe von Satz 1 vorläufig zu entscheiden wäre, ist § 40
+Absatz 4 des Zweiten Buches Sozialgesetzbuch entsprechend anzuwenden.
+§ 41a Absatz 6 Satz 2 und 3 des Zweiten Buches Sozialgesetzbuch ist
+mit der Maßgabe anzuwenden, dass zu Unrecht erbrachter Kinderzuschlag
+nicht zu erstatten ist, soweit der Bezug des Kinderzuschlags den
+Anspruch auf Leistungen nach dem Zweiten Buch Sozialgesetzbuch
+ausschließt oder mindert.
+
+(6) Wird ein Verwaltungsakt über die Bewilligung von Kinderzuschlag
+aufgehoben, sind bereits erbrachte Leistungen abweichend von § 50
+Absatz 1 des Zehnten Buches Sozialgesetzbuch nicht zu erstatten,
+soweit der Bezug von Kinderzuschlag den Anspruch auf Leistungen nach
+dem Zweiten Buch Sozialgesetzbuch ausschließt oder mindert.
 
 
 ### § 12 Aufrechnung
@@ -630,9 +661,9 @@ die für die Durchführung zuständigen Behörden.
 ### § 14 Bescheid
 
 Wird der Antrag auf Kindergeld, Kinderzuschlag oder Leistungen für
-Bildung und Teilhabe abgelehnt, ist ein schriftlicher Bescheid zu
-erteilen. Das Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder
-Leistungen für Bildung und Teilhabe entzogen werden.
+Bildung und Teilhabe abgelehnt, ist ein Bescheid zu erteilen. Das
+Gleiche gilt, wenn das Kindergeld, Kinderzuschlag oder Leistungen für
+Bildung und Teilhabe entzogen werden.
 
 
 ### § 15 Rechtsweg
@@ -773,28 +804,37 @@ Artikels 2 Absatz 8 Buchstabe a Doppelbuchstabe aa des Gesetzes vom
 16\. Mai 2008 (BGBl. I S. 842) ist auf Freiwilligendienste im Sinne des
 Beschlusses Nummer 1719/2006/EG des Europäischen Parlaments und des
 Rates vom 15. November 2006 zur Einführung des Programms „Jugend in
-Aktion“ (ABl. EU Nr. L 327 S. 30), die ab dem 1. Januar 2007 begonnen
-wurden, ab dem 1. Januar 2007 und auf Freiwilligendienste „weltwärts“
-im Sinne der Richtlinie des Bundesministeriums für wirtschaftliche
-Zusammenarbeit und Entwicklung vom 1. August 2007 (BAnz. 2008 S. 1297)
-ab dem 1. Januar 2008 anzuwenden. Die Regelungen des § 2 Absatz 2 Satz
-1 Nummer 2 Buchstabe d in der bis zum 31. Mai 2008 geltenden Fassung
-sind bezogen auf die Ableistung eines freiwilligen sozialen Jahres im
-Sinne des Gesetzes zur Förderung eines freiwilligen sozialen Jahres
-oder eines freiwilligen ökologischen Jahres im Sinne des Gesetzes zur
-Förderung eines freiwilligen ökologischen Jahres auch über den 31. Mai
-2008 hinaus anzuwenden, soweit die vorstehend genannten freiwilligen
-Jahre vor dem 1. Juni 2008 vereinbart oder begonnen wurden und über
-den 31. Mai 2008 hinausgehen und die Beteiligten nicht die Anwendung
-der Vorschriften des Jugendfreiwilligendienstegesetzes vereinbaren. §
-2 Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 13
+Aktion“ (ABl. EU Nr. L 327 S. 30), die vor dem 1. Januar 2014 begonnen
+wurden, in der Zeit vom 1. Januar 2007 bis zum 31. Dezember 2013 und
+auf Freiwilligendienste „weltwärts“ im Sinne der Richtlinie des
+Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung
+vom 1. August 2007 (BAnz. 2008 S. 1297) ab dem 1. Januar 2008
+anzuwenden. Die Regelungen des § 2 Absatz 2 Satz 1 Nummer 2 Buchstabe
+d in der bis zum 31. Mai 2008 geltenden Fassung sind bezogen auf die
+Ableistung eines freiwilligen sozialen Jahres im Sinne des Gesetzes
+zur Förderung eines freiwilligen sozialen Jahres oder eines
+freiwilligen ökologischen Jahres im Sinne des Gesetzes zur Förderung
+eines freiwilligen ökologischen Jahres auch über den 31. Mai 2008
+hinaus anzuwenden, soweit die vorstehend genannten freiwilligen Jahre
+vor dem 1. Juni 2008 vereinbart oder begonnen wurden und über den 31.
+Mai 2008 hinausgehen und die Beteiligten nicht die Anwendung der
+Vorschriften des Jugendfreiwilligendienstegesetzes vereinbaren. § 2
+Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 13
 des Gesetzes vom 16. Juli 2009 (BGBl. I S. 1959) ist auf einen
 Freiwilligendienst aller Generationen im Sinne von § 2 Absatz 1a des
 Siebten Buches Sozialgesetzbuch ab dem 1. Januar 2009 anzuwenden. § 2
 Absatz 2 Satz 1 Nummer 2 Buchstabe d in der Fassung des Artikels 9 des
 Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) ist auf einen
 Internationalen Jugendfreiwilligendienst ab dem 1. Januar 2011 und auf
-einen Bundesfreiwilligendienst ab dem 3. Mai 2011 anzuwenden.
+einen Bundesfreiwilligendienst ab dem 3. Mai 2011 anzuwenden. § 2
+Absatz 2 Satz 1 Nummer 2 Buchstabe d in der am 31. Juli 2014 geltenden
+Fassung ist auf Freiwilligendienste im Sinne der Verordnung (EU) Nr.
+1288/2013 des Europäischen Parlaments und des Rates vom 11. Dezember
+2013 zur Einrichtung von „Erasmus+“, dem Programm der Union für
+allgemeine und berufliche Bildung, Jugend und Sport, und zur Aufhebung
+der Beschlüsse Nr. 1719/2006/EG, Nr. 1720/2006/EG und Nr. 1298/2008/EG
+(ABl. L 347 vom 20.12.2013, S. 50), die ab dem 1. Januar 2014 begonnen
+wurden, ab dem 1. Januar 2014 anzuwenden.
 
 (5a) § 2 Absatz 2 Satz 2 in der Fassung des Artikels 13 des Gesetzes
 vom 16. Juli 2009 (BGBl. I S. 1959) ist ab dem 1. Januar 2010
@@ -824,6 +864,13 @@ Klassenfahrten nach § 6b Absatz 2 Satz 1 in Verbindung mit § 28 Absatz
 2 Satz 1 Nummer 2 des Zweiten Buches Sozialgesetzbuch werden für den
 Zeitraum vom 1. Januar bis zum 31. Mai 2011 durch Geldleistung
 erbracht.
+
+(9) § 2 Absatz 3 ist letztmals bis zum 31. Dezember 2018 anzuwenden;
+Voraussetzung ist in diesen Fällen, dass das Kind den Dienst oder die
+Tätigkeit vor dem 1. Juli 2011 angetreten hat.
+
+(10) § 6 Absatz 3 in der am 1. Januar 2018 geltenden Fassung ist auf
+Anträge anzuwenden, die nach dem 31. Dezember 2017 eingehen.
 
 
 ### § 21 Sondervorschrift zur Steuerfreistellung des Existenzminimums eines Kindes in den Veranlagungszeiträumen 1983 bis 1995 durch Kindergeld

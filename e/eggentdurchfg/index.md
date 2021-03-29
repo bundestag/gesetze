@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 1244
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.12.2010 I 1934
+:   Art. 58 V v. 31.8.2015 I 1474
 
 
 ## § 1 Aufgaben des Bundesamtes für Verbraucherschutz und Lebensmittelsicherheit
@@ -85,13 +85,13 @@ Protokolls von Cartagena über die biologische Sicherheit zum
 Mitgliedstaaten zuständig sind.
 
 
-## § 2 Aufgaben des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
+## § 2 Aufgaben des Bundesministeriums für Ernährung und Landwirtschaft
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz ist Anlaufstelle im Sinne des Artikels 19 Abs. 1
-Satz 1 des Protokolls von Cartagena über die biologische Sicherheit
-zum Übereinkommen über die biologische Vielfalt und des Artikels 17
-Abs. 2 der Verordnung (EG) Nr. 1946/2003.
+Das Bundesministerium für Ernährung und Landwirtschaft ist
+Anlaufstelle im Sinne des Artikels 19 Abs. 1 Satz 1 des Protokolls von
+Cartagena über die biologische Sicherheit zum Übereinkommen über die
+biologische Vielfalt und des Artikels 17 Abs. 2 der Verordnung (EG)
+Nr. 1946/2003.
 
 
 ## § 3 Beteiligung anderer Behörden des Bundes
@@ -175,14 +175,13 @@ zugelassen ist.
 
 (6) Für die Begriffe
 
-1.  "durch einen genetisch veränderten Organismus hergestellt"
-    gilt die Begriffsbestimmung in Artikel 2 Buchstabe v der Verordnung
-    (EG) Nr. 834/2007 und
+1.  "durch einen genetisch veränderten Organismus hergestellt" gilt die
+    Begriffsbestimmung in Artikel 2 Buchstabe v der Verordnung (EG) Nr.
+    834/2007 und
 
 
-2.  "Verarbeitungshilfsstoff"                    gilt die
-    Begriffsbestimmung in Artikel 2 Buchstabe y der Verordnung (EG) Nr.
-    834/2007.
+2.  "Verarbeitungshilfsstoff" gilt die Begriffsbestimmung in Artikel 2
+    Buchstabe y der Verordnung (EG) Nr. 834/2007.
 
 
 
@@ -290,13 +289,13 @@ Anwendung des § 55 des Lebensmittel- und Futtermittelgesetzbuches mit.
 
 ## § 5a Erlass von Rechtsverordnungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates, soweit es zur
-Durchführung der Verordnung (EG) Nr. 1829/2003, insbesondere zur
-Überwachung der Verbote des Artikels 4 Abs. 2 und des Artikels 16 Abs.
-2 der Verordnung (EG) Nr. 1829/2003, erforderlich ist,
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates,
+soweit es zur Durchführung der Verordnung (EG) Nr. 1829/2003,
+insbesondere zur Überwachung der Verbote des Artikels 4 Abs. 2 und des
+Artikels 16 Abs. 2 der Verordnung (EG) Nr. 1829/2003, erforderlich
+ist,
 
 1.  das Inverkehrbringen von bestimmten Lebensmitteln oder Futtermitteln
     oder
@@ -316,7 +315,7 @@ oder, wenn ihr unverzügliches Inkrafttreten zur Durchführung von
 Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
 erforderlich ist, ohne Zustimmung des Bundesrates erlassen werden.
 Rechtsverordnungen nach Satz 1 bedürfen nicht des Einvernehmens mit
-dem Bundesministerium für Wirtschaft und Technologie. Die
+dem Bundesministerium für Wirtschaft und Energie. Die
 Rechtsverordnungen treten spätestens sechs Monate nach ihrem
 Inkrafttreten außer Kraft. Ihre Geltungsdauer kann nur mit Zustimmung
 des Bundesrates verlängert werden.
@@ -490,8 +489,9 @@ bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
 2 und 3 mit einer Geldbuße bis zu zwanzigtausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
+(zu § 3a Abs. 4 Satz 2)
 
-## Anlage (zu § 3a Abs. 4 Satz 2) Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
+## Anlage Zeitraum vor Gewinnung des Lebensmittels, innerhalb dessen eine Verfütterung von genetisch veränderten Futtermitteln unzulässig ist
 
 Fundstelle des Originaltextes: BGBl. I 2008, 506
 

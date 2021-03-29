@@ -32,13 +32,12 @@ Einvernehmen mit dem Reichsminister der Finanzen folgendes verordnet:
 
 (1) Der Spielbankunternehmer ist für den Betrieb der Spielbank von den
 laufenden Steuern des
-Reichs,              die vom Einkommen, vom Vermögen und vom Umsatz
-erhoben werden, sowie von der Lotteriesteuer und von der
-Gesellschaftssteuer befreit.
+Reichs, die vom Einkommen, vom Vermögen und vom Umsatz erhoben werden,
+sowie von der Lotteriesteuer und von der Gesellschaftssteuer befreit.
 
 (2) Inwieweit der Spielbankunternehmer für den Betrieb der Spielbank
 auch von Landes- und Gemeindesteuern zu befreien ist, bestimmt der
-Reichsminister der Finanzen              im Einvernehmen mit dem
+Reichsminister der Finanzen im Einvernehmen mit dem
 Reichsminister des Innern.
 
 

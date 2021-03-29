@@ -3,7 +3,7 @@ Title: Verordnung zur Durchführung von regelmäßigen Datenübermittlungen der 
   an Behörden oder sonstige öffentliche Stellen des Bundes
 jurabk: BMeldDÜV 2 1995
 layout: default
-origslug: bmeldd_v_2_1995
+origslug: bmeldduev_2_1995
 slug: bmeldduev_2_1995
 
 ---

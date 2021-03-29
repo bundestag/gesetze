@@ -4,7 +4,7 @@ Title: Verordnung über die Gewährung von Vorrechten und Immunitäten an die In
   in der Fassung der Verlängerung vom 4. Juli 1989
 jurabk: KaffeeÜbk1983OrgVorRV
 layout: default
-origslug: kaffee_bk1983orgvorrv
+origslug: kaffeeuebk1983orgvorrv
 slug: kaffeeuebk1983orgvorrv
 
 ---

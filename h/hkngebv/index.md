@@ -1,5 +1,5 @@
 ---
-Title: Gebührenverordnung zur Herkunftsnachweisverordnung
+Title: Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung
 jurabk: HkNGebV
 layout: default
 origslug: hkngebv
@@ -7,13 +7,16 @@ slug: hkngebv
 
 ---
 
-# Gebührenverordnung zur Herkunftsnachweisverordnung (HkNGebV)
+# Gebührenverordnung nach § 14 Absatz 2 der Erneuerbare-Energien-Verordnung (HkNGebV)
 
 Ausfertigungsdatum
 :   2012-12-17
 
 Fundstelle
 :   BGBl I: 2012, 2703
+
+Zuletzt geändert durch
+:   Art. 7 G v. 22.12.2016 I 3106
 
 
 ## Eingangsformel
@@ -33,20 +36,24 @@ verordnet das Umweltbundesamt:
 
 (1) Das Umweltbundesamt erhebt für Amtshandlungen im Zusammenhang mit
 der Ausstellung, Anerkennung, Übertragung und Entwertung von
-Herkunftsnachweisen sowie für die Nutzung des
-Herkunftsnachweisregisters Gebühren und Auslagen nach dem
-Gebührenverzeichnis in der Anlage zu dieser Verordnung.
+Herkunftsnachweisen und der Ausstellung, Übertragung und Entwertung
+von Regionalnachweisen sowie für die Nutzung des
+Herkunftsnachweisregisters und des Regionalnachweisregisters Gebühren
+und Auslagen nach dem Gebührenverzeichnis in der Anlage zu dieser
+Verordnung.
 
 (2) Schuldnerin und Schuldner der Gebührentatbestände für die Führung
 eines Kontos (Jahresgebühr) sind alle Registerteilnehmerinnen und
-Registerteilnehmer im Sinne des § 2 Nummer 6 der Herkunftsnachweis-
-Durchführungsverordnung, die über ein Konto im Sinne des § 2 Nummer 3
-der Herkunftsnachweis-Durchführungsverordnung verfügen und darüber das
-Herkunftsnachweisregister nutzen. Schuldnerin und Schuldner der
-übrigen Gebührentatbestände sind Registerteilnehmerinnen und
-Registerteilnehmer im Sinne des § 2 Nummer 6 der Herkunftsnachweis-
-Durchführungsverordnung, die die jeweilige Amtshandlung veranlasst
-oder verursacht haben oder denen die Amtshandlung zugutekommt.
+Registerteilnehmer im Sinne des § 2 Nummer 6 der Herkunfts- und
+Regionalnachweis-Durchführungsverordnung, die über ein Konto im Sinne
+des § 2 Nummer 3 der Herkunfts- und Regionalnachweis-
+Durchführungsverordnung verfügen und darüber das
+Herkunftsnachweisregister oder das Regionalnachweisregister nutzen.
+Schuldnerin und Schuldner der übrigen Gebührentatbestände sind
+Registerteilnehmerinnen und Registerteilnehmer im Sinne des § 2 Nummer
+6 der Herkunfts- und Regionalnachweis-Durchführungsverordnung, die die
+jeweilige Amtshandlung veranlasst oder verursacht haben oder denen die
+Amtshandlung zugutekommt.
 
 (3) Die Jahresgebühr reduziert sich anteilig im Verhältnis der
 gesamten Kalendermonate, in denen die Registerteilnehmerin oder der
@@ -58,8 +65,9 @@ zu zwölf Kalendermonaten.
 
 Diese Verordnung tritt am 31. Dezember 2012 in Kraft.
 
+(zu § 1 Absatz 1)
 
-## Anlage (zu § 1 Absatz 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2012, 2704)
 
@@ -170,8 +178,8 @@ Diese Verordnung tritt am 31. Dezember 2012 in Kraft.
 
 *    *   3.1
 
-    *   Jahresgebühr für Nutzer je Konto mit Umsatz*                      500
-        000 Herkunftsnachweise pro Jahr
+    *   Jahresgebühr für Nutzer je Konto mit Umsatz* 500 000
+        Herkunftsnachweise pro Jahr
 
     *   750
 
@@ -194,8 +202,8 @@ Diese Verordnung tritt am 31. Dezember 2012 in Kraft.
 
 *    *   3.4
 
-    *   Jahresgebühr für Nutzer je Konto mit Umsatz*                      2
-        500 Herkunftsnachweise pro Jahr
+    *   Jahresgebühr für Nutzer je Konto mit Umsatz* 2 500 Herkunftsnachweise
+        pro Jahr
 
     *   50
 

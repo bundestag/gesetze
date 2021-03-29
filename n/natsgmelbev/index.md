@@ -258,71 +258,69 @@ der Bildung und Erholung zu erschließen und zu sichern.
 (1) Das Biosphärenreservat wird in die Schutzzonen I bis IV
 gegliedert.
 
-(2) Die **Schutzzone I**              (Kernzone) wird als
-Naturschutzgebiet von zentraler Bedeutung ohne wirtschaftliche Nutzung
-ausgewiesen. Sie umfaßt folgende Teilflächen:
+(2) Die **Schutzzone I** (Kernzone) wird als Naturschutzgebiet von
+zentraler Bedeutung ohne wirtschaftliche Nutzung ausgewiesen. Sie
+umfaßt folgende Teilflächen:
 
-1.  **Totalreservat Linsterholz/Steckby:**                    Teile der
-    Forstabt. 202, 204, 205, 206, 208 und 209 zwischen dem Krummen Weg,
-    der Haberlands-Allee, dem Haberlandsweg, der südlichen
-    Forstflächengrenze entlang der Elbe bis zur Mitte des Gr. Biberlochs,
-    dann nördlich entlang der Ostgrenze der Forstabt. 204 bis an die
-    Elballee und den Krummen Weg.
-
-
-2.  **Totalreservat Schöneberge/Steckby:**                    In den
-    Grenzen der Forstabt. 232, 235, 238, 243 einschließlich der
-    Nichtholzbodenflächen, doch ausschließlich des über den geschlossenen
-    Wald hinausreichenden Nordzipfels sowie im Süden nur bis an den
-    Wegestern am Nordrand des Forstortes Klaasberg.
+1.  **Totalreservat Linsterholz/Steckby:** Teile der Forstabt. 202, 204,
+    205, 206, 208 und 209 zwischen dem Krummen Weg, der Haberlands-Allee,
+    dem Haberlandsweg, der südlichen Forstflächengrenze entlang der Elbe
+    bis zur Mitte des Gr. Biberlochs, dann nördlich entlang der Ostgrenze
+    der Forstabt. 204 bis an die Elballee und den Krummen Weg.
 
 
-3.  **Totalreservat Ketzien/Lödderitz:**                    In den Grenzen
-    der Forstabt. 409, 410, 411 (mit Ausnahme der Nordecke östlich des
-    Arestantengrabens), 412, 413, 414 und 415 (mit Ausnahme der Flächen
-    nördlich des Sommerdeichs).
+2.  **Totalreservat Schöneberge/Steckby:** In den Grenzen der Forstabt.
+    232, 235, 238, 243 einschließlich der Nichtholzbodenflächen, doch
+    ausschließlich des über den geschlossenen Wald hinausreichenden
+    Nordzipfels sowie im Süden nur bis an den Wegestern am Nordrand des
+    Forstortes Klaasberg.
 
 
-4.  **Totalreservat Dicke-Greten-Hau/Lödderitz:**                    In
-    den Grenzen der Forstabt. 385, 386 (mit Ausnahme der Flächen südlich
-    des Kiesweges und seiner östlichen Fortsetzung bis an die Forstabt.
-    385), 391, 392, 393, 397, 394 (mit Ausnahme der Flächen südlich der
-    westlichen Fortsetzung des Kiesweges bis an den Seegraben), 398, 399
-    sowie Forstabt. 400 zwischen Seegraben und Sommerdeichzufahrt.
+3.  **Totalreservat Ketzien/Lödderitz:** In den Grenzen der Forstabt. 409,
+    410, 411 (mit Ausnahme der Nordecke östlich des Arestantengrabens),
+    412, 413, 414 und 415 (mit Ausnahme der Flächen nördlich des
+    Sommerdeichs).
 
 
-5.  **Totalreservat Sack/Alte Saale:**                    In den Grenzen
-    des gehölzbestockten Forstortes Sack (Teilfläche der Forstabt. 525) in
-    der Gewässerschlinge Alte Saale, östlich bis an die engste Stelle der
-    Forstfläche reichend.
+4.  **Totalreservat Dicke-Greten-Hau/Lödderitz:** In den Grenzen der
+    Forstabt. 385, 386 (mit Ausnahme der Flächen südlich des Kiesweges und
+    seiner östlichen Fortsetzung bis an die Forstabt. 385), 391, 392, 393,
+    397, 394 (mit Ausnahme der Flächen südlich der westlichen Fortsetzung
+    des Kiesweges bis an den Seegraben), 398, 399 sowie Forstabt. 400
+    zwischen Seegraben und Sommerdeichzufahrt.
 
 
-6.  **Totalreservat Am Riss 45/Wörlitz:**                    In den
-    Grenzen der Forstabt. 3245 einschließlich der vom Wald umschlossenen
-    oder in ihn hineinreichenden sowie am Nordufer des Riss gelegenen
-    unbewaldeten Flächen, doch mit Ausnahme des zwischen Wald und Elbe
-    liegenden Wiesenstreifens.
+5.  **Totalreservat Sack/Alte Saale:** In den Grenzen des gehölzbestockten
+    Forstortes Sack (Teilfläche der Forstabt. 525) in der Gewässerschlinge
+    Alte Saale, östlich bis an die engste Stelle der Forstfläche reichend.
 
 
-7.  **Totalreservat Am Crassensee 147/151:**                    In den
-    Grenzen der Forstabt. 3151 und 3147 mit Ausnahme der Flächen, die
-    südlich des Weges liegen, der die Südgrenze der Forstabt. 3151 bildet.
+6.  **Totalreservat Am Riss 45/Wörlitz:** In den Grenzen der Forstabt.
+    3245 einschließlich der vom Wald umschlossenen oder in ihn
+    hineinreichenden sowie am Nordufer des Riss gelegenen unbewaldeten
+    Flächen, doch mit Ausnahme des zwischen Wald und Elbe liegenden
+    Wiesenstreifens.
 
 
-8.  **Totalreservat Kuper 48/Untere Mulde:**
-    Gehölzbestockter Forstort Kuper in einer Altwasserschlinge der Mulde
-    im Bereich der Forstabt. 4148, der gegenwärtig den Unterabt.
+7.  **Totalreservat Am Crassensee 147/151:** In den Grenzen der Forstabt.
+    3151 und 3147 mit Ausnahme der Flächen, die südlich des Weges liegen,
+    der die Südgrenze der Forstabt. 3151 bildet.
+
+
+8.  **Totalreservat Kuper 48/Untere Mulde:** Gehölzbestockter Forstort
+    Kuper in einer Altwasserschlinge der Mulde im Bereich der Forstabt.
+    4148, der gegenwärtig den Unterabt.
     a(hoch)1, a(hoch)2, c(hoch)4 zugeordnet ist.
 
 
 
 
-(3) Die **Schutzzone II**              (Entwicklungs- und Pflegezone)
-wird als Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Sie
-umfaßt folgende Teilflächen:
+(3) Die **Schutzzone II** (Entwicklungs- und Pflegezone) wird als
+Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Sie umfaßt
+folgende Teilflächen:
 
-1.  **Steckby-Lödderitzer Forst:**                    Der Grenzverlauf
-    führt, beginnend im Südwesten bei Obslau, von
+1.  **Steckby-Lödderitzer Forst:** Der Grenzverlauf führt, beginnend im
+    Südwesten bei Obslau, von
 
     a)  Elbe - km 278,5 in Höhe von Obslau elbaufwärts bis zur Fährrampe
         Steutz
@@ -441,40 +439,39 @@ umfaßt folgende Teilflächen:
 
 
 
-2.  **Diebziger Busch:**                    In den Grenzen der Forstabt.
-    5301 bis 5322 einschließlich der Wiederaufforstungsflächen an den
-    Forstabt. 5301/5302, doch mit Ausnahme der Teilflächen, die
-    gegenwärtig den Unterabt.
+2.  **Diebziger Busch:** In den Grenzen der Forstabt. 5301 bis 5322
+    einschließlich der Wiederaufforstungsflächen an den Forstabt.
+    5301/5302, doch mit Ausnahme der Teilflächen, die gegenwärtig den
+    Unterabt.
     5307a(hoch)4 und 5322b zugeordnet sind.
 
 
-3.  **Neolith-Teich:**                    Teichgelände nordwestlich
-    Trebbichau zwischen der Bahnlinie nach Aken, dem Weg, der nördlich des
-    Heidekruges in nordwestlicher Richtung nach Mennewitz führt, dem Weg
-    in südwestlicher Richtung zum Gelände von Schacht V, der Trasse von
-    Schacht V bis an den Gr. Micheln (sog. Löbitzsee) und dem Weg südlich
-    des Neolith-Teiches nach Trebbichau, mit Ausnahme von abgegrenzten
-    Nutzflächen jeweils an der Südost-, Nordost-, Nordwest- und
-    Südwestecke.
+3.  **Neolith-Teich:** Teichgelände nordwestlich Trebbichau zwischen der
+    Bahnlinie nach Aken, dem Weg, der nördlich des Heidekruges in
+    nordwestlicher Richtung nach Mennewitz führt, dem Weg in südwestlicher
+    Richtung zum Gelände von Schacht V, der Trasse von Schacht V bis an
+    den Gr. Micheln (sog. Löbitzsee) und dem Weg südlich des Neolith-
+    Teiches nach Trebbichau, mit Ausnahme von abgegrenzten Nutzflächen
+    jeweils an der Südost-, Nordost-, Nordwest- und Südwestecke.
 
 
-4.  **Saalberghau:**                    Ostteil des Kühnauer Sees mit
-    ausgedehntem Uferbereich einschließlich Fischerinsel und Burg Kühnau,
-    die Forstorte Graue Steinhau und Saalberghau in den Grenzen der
-    Forstabt. 4536 bis 3543 mit den westlich angrenzenden Bürgerwiesen
-    sowie die südliche Stromelbe zwischen Elbe - km 262,8 - 266.
+4.  **Saalberghau:** Ostteil des Kühnauer Sees mit ausgedehntem
+    Uferbereich einschließlich Fischerinsel und Burg Kühnau, die Forstorte
+    Graue Steinhau und Saalberghau in den Grenzen der Forstabt. 4536 bis
+    3543 mit den westlich angrenzenden Bürgerwiesen sowie die südliche
+    Stromelbe zwischen Elbe - km 262,8 - 266.
 
 
-5.  **Sarenbruch:**                    In den Grenzen der Forstabt. 1602 -
-    1603, die den Unterabt. 1602 b-c und 1603 b-d zugeordneten Flächen,
-    einschließlich der Alten Elbe, dem Sarensee und allen weiteren
-    dazwischen liegenden Nichtholzbodenflächen sowie der Nichtholzboden
-    zwischen Unterabt. 1603b und c, nördlich der Unterabt. 1602c und der
-    ehemaligen Dorfstelle Püsternitz.
+5.  **Sarenbruch:** In den Grenzen der Forstabt. 1602 - 1603, die den
+    Unterabt. 1602 b-c und 1603 b-d zugeordneten Flächen, einschließlich
+    der Alten Elbe, dem Sarensee und allen weiteren dazwischen liegenden
+    Nichtholzbodenflächen sowie der Nichtholzboden zwischen Unterabt.
+    1603b und c, nördlich der Unterabt. 1602c und der ehemaligen
+    Dorfstelle Püsternitz.
 
 
-6.  **Krägen-Riss:**                    In den Grenzen der Forstabt. 3244,
-    3245, 3246 (nur Südteil, gegenwärtig den Unterabt.
+6.  **Krägen-Riss:** In den Grenzen der Forstabt. 3244, 3245, 3246 (nur
+    Südteil, gegenwärtig den Unterabt.
     a(hoch)1, a(hoch)2 zugeordnet), 3247 und 3248 (außer der westlichsten
     Exklave, gegenwärtig der Unterabt. e zugeordnet) mit den dazwischen
     liegenden Wiesen. Die Nordgrenze entspricht der Nordgrenze der
@@ -489,48 +486,47 @@ umfaßt folgende Teilflächen:
     243,5 bis 244,5.
 
 
-7.  **Schönitzer See:**                    Die Grenze verläuft von der
-    Riesigker Brücke nordwärts entlang des Ostufers und des Umflutgrabens
-    bis zur Nordspitze des Nordteils (sog. Radehochsee), folgt südwärts
-    entlang dem Westufer zunächst unter Einschluß der Forstflächen
-    (derzeit Unterabt.
+7.  **Schönitzer See:** Die Grenze verläuft von der Riesigker Brücke
+    nordwärts entlang des Ostufers und des Umflutgrabens bis zur
+    Nordspitze des Nordteils (sog. Radehochsee), folgt südwärts entlang
+    dem Westufer zunächst unter Einschluß der Forstflächen (derzeit
+    Unterabt.
     3132a(hoch)1), dann dem Deich bis zur Brückenstraße, die die Südgrenze
     bildet, unter Ausschluß der Ortslage Riesigk östlich des Deiches.
 
 
-8.  **Crassensee:**                    Die Grenze verläuft von der
-    Südspitze der Forstabt. 3146 (nordwestlich der Rehsener
-    Deichüberfahrt) in nordöstlicher Richtung entlang der Außengrenzen der
-    Forstabt. 3146 bis 3142, unter Einschluß der Nordspitze dieser Abt.
-    entlang der östlichen Zufahrt, dann entlang des Deiches in südlicher
-    Umgehung und der westlichen Zufahrt zum Forstgehöft Heinrichswalde bis
-    an die Waldgrenze. Von hier zunächst nördlich, dann südlich den
-    Außengrenzen der Forstabt. 3153, 3154, 3152, 3150, 3149 bis 3146
-    Südspitze folgend.
+8.  **Crassensee:** Die Grenze verläuft von der Südspitze der Forstabt.
+    3146 (nordwestlich der Rehsener Deichüberfahrt) in nordöstlicher
+    Richtung entlang der Außengrenzen der Forstabt. 3146 bis 3142, unter
+    Einschluß der Nordspitze dieser Abt. entlang der östlichen Zufahrt,
+    dann entlang des Deiches in südlicher Umgehung und der westlichen
+    Zufahrt zum Forstgehöft Heinrichswalde bis an die Waldgrenze. Von hier
+    zunächst nördlich, dann südlich den Außengrenzen der Forstabt. 3153,
+    3154, 3152, 3150, 3149 bis 3146 Südspitze folgend.
 
 
-9.  **Möster Birken:**                    In den Grenzen der Forstabt.
-    4135, 4134 (mit Ausnahme des durch einen diagonal verlaufenden
-    Mittelweg abgeteilten Ostteils) und von 4142 nur die Südwestecke, die
-    durch einen von Südosten nach Nordwesten verlaufenden Weg und kurz vor
-    dessen Ende von einem südwestwärts verlaufenden, später dem
-    nordwestlichen Waldrand folgenden Graben deutlich abgegrenzt wird.
+9.  **Möster Birken:** In den Grenzen der Forstabt. 4135, 4134 (mit
+    Ausnahme des durch einen diagonal verlaufenden Mittelweg abgeteilten
+    Ostteils) und von 4142 nur die Südwestecke, die durch einen von
+    Südosten nach Nordwesten verlaufenden Weg und kurz vor dessen Ende von
+    einem südwestwärts verlaufenden, später dem nordwestlichen Waldrand
+    folgenden Graben deutlich abgegrenzt wird.
 
 
-10. **Untere Mulde Raguhn-Wallwitzhafen:**                    Ein
-    zweiteiliger durch den Flußlauf der Mulde und Anteile der Muldeaue
-    geprägter Landschaftsausschnitt, dessen genaue Grenzen nur durch die
+10. **Untere Mulde Raguhn-Wallwitzhafen:** Ein zweiteiliger durch den
+    Flußlauf der Mulde und Anteile der Muldeaue geprägter
+    Landschaftsausschnitt, dessen genaue Grenzen nur durch die
     Kartenunterlagen definiert sind.
 
 
-11. **Wulfener Bruchwiesen:**                    Ein zweiteiliger durch
-    Wege und Gräben deutlich abgegrenzter, sich jeweils beidseitig des
-    Landgrabens erstreckender Bruchwiesenkomplex mit den Südostecken bei
-    51\.50 N 11.58 E und 51.51 N 11.54 E, dessen genaue Grenzen nur durch
-    die Kartenunterlagen definiert sind.
+11. **Wulfener Bruchwiesen:** Ein zweiteiliger durch Wege und Gräben
+    deutlich abgegrenzter, sich jeweils beidseitig des Landgrabens
+    erstreckender Bruchwiesenkomplex mit den Südostecken bei 51.50 N 11.58
+    E und 51.51 N 11.54 E, dessen genaue Grenzen nur durch die
+    Kartenunterlagen definiert sind.
 
 
-12. **Dornburger Mosaik:**                    In den Teilflächen
+12. **Dornburger Mosaik:** In den Teilflächen
 
     a)  Untere Nuthe: Der Grenzverlauf führt von der Ostseite der
         Eisenbahnbrücke nördlich Barby den Forstweg längs des östlichen
@@ -554,12 +550,12 @@ umfaßt folgende Teilflächen:
 
 
 
-(4) Die **Schutzzone III**              (Zone der harmonischen
-Kulturlandschaft) wird als Landwirtschaftsschutzgebiet von zentraler
-Bedeutung ausgewiesen. Die Fläche der Schutzzone III umfaßt alle
-Gebiete des Biosphärenreservates, die nicht zu den ausgewiesenen
-Gebieten der beschriebenen Schutzzonen I, II und IV gehören; sie
-besteht aus den Teilflächen:
+(4) Die **Schutzzone III** (Zone der harmonischen Kulturlandschaft)
+wird als Landwirtschaftsschutzgebiet von zentraler Bedeutung
+ausgewiesen. Die Fläche der Schutzzone III umfaßt alle Gebiete des
+Biosphärenreservates, die nicht zu den ausgewiesenen Gebieten der
+beschriebenen Schutzzonen I, II und IV gehören; sie besteht aus den
+Teilflächen:
 
 1.  Dessau-Wörlitzer Kulturlandschaft.
 
@@ -574,7 +570,7 @@ besteht aus den Teilflächen:
 
 
 
-(5) Die **Schutzzone IV**              (Regenerationszone) wird als
+(5) Die **Schutzzone IV** (Regenerationszone) wird als
 Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen. Sie
 umfaßt folgendes Gebiet:
 Landgraben-Saaleniederung.
@@ -739,11 +735,11 @@ genannten Karten eingetragen.
 
 ## § 6 Verbote
 
-(1) In **Schutzzone III und IV**              ist es nicht gestattet,
-ungenehmigte Flächennutzungsänderungen und Bebauungen vorzunehmen.
+(1) In **Schutzzone III und IV** ist es nicht gestattet, ungenehmigte
+Flächennutzungsänderungen und Bebauungen vorzunehmen.
 
 (2) Über das in Abs. 1 genannte Verbot hinaus gelten in der
-**Schutzzone II**              folgende Verbote:
+**Schutzzone II** folgende Verbote:
 
 1.  Es ist nicht gestattet, Baumaßnahmen durchzuführen, Deponien zu
     errichten, Erdaufschlüsse anzulegen, Biozide anzuwenden, das Gebiet zu
@@ -803,7 +799,7 @@ ungenehmigte Flächennutzungsänderungen und Bebauungen vorzunehmen.
 
 
 (3) Über die in den Absätzen 1 und 2 genannten Verbote hinaus gelten
-in der **Schutzzone I**              folgende Verbote:
+in der **Schutzzone I** folgende Verbote:
 
 1.  Jegliche Nutzung oder Einflußnahme ist nicht gestattet.
 
@@ -949,8 +945,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1474)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 10.4.1991 I 886;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 21.7.2012 I 1613
+:   Art. 6 G v. 17.7.2017 I 2581
 
 
 ## 1. Abschnitt - Allgemeine Vorschriften
@@ -30,9 +30,11 @@ Zuletzt geändert durch
 ### § 1 Grundsatz
 
 (1) Zweck dieses Gesetzes ist die wirtschaftliche Sicherung der
-Krankenhäuser, um eine bedarfsgerechte Versorgung der Bevölkerung mit
-leistungsfähigen, eigenverantwortlich wirtschaftenden Krankenhäusern
-zu gewährleisten und zu sozial tragbaren Pflegesätzen beizutragen.
+Krankenhäuser, um eine qualitativ hochwertige, patienten- und
+bedarfsgerechte Versorgung der Bevölkerung mit leistungsfähigen,
+qualitativ hochwertig und eigenverantwortlich wirtschaftenden
+Krankenhäusern zu gewährleisten und zu sozial tragbaren Pflegesätzen
+beizutragen.
 
 (2) Bei der Durchführung des Gesetzes ist die Vielfalt der
 Krankenhausträger zu beachten. Dabei ist nach Maßgabe des Landesrechts
@@ -171,6 +173,39 @@ Im Sinne dieses Gesetzes sind
 
 
 
+### § 2a Definition von Krankenhausstandorten
+
+(1) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft vereinbaren im Benehmen mit den Ländern, den
+Kassenärztlichen Bundesvereinigungen und dem Verband der Privaten
+Krankenversicherung bis zum 30. Juni 2017 eine bundeseinheitliche
+Definition, die die Kriterien für den Standort oder die Standorte
+eines Krankenhauses und dessen Ambulanzen festlegt. Sie haben
+sicherzustellen, dass diese Definition des Standorts eines
+Krankenhauses und dessen Ambulanzen eine eindeutige Abgrenzung von
+Versorgungseinheiten insbesondere in räumlicher, organisatorischer,
+medizinischer, wirtschaftlicher und rechtlicher Hinsicht ermöglicht.
+Die Definition soll insbesondere für Zwecke der Qualitätssicherung,
+der Abrechnung, für die Krankenhausplanung und die
+Krankenhausstatistik geeignet sein. Die Möglichkeit, Vereinbarungen
+nach § 11 des Krankenhausentgeltgesetzes oder nach § 11 der
+Bundespflegesatzverordnung einheitlich für alle Standorte eines
+Krankenhauses zu schließen, bleibt unberührt. Die Definition ist für
+den Spitzenverband Bund der Krankenkassen, die Unternehmen der
+privaten Krankenversicherung, die Deutsche Krankenhausgesellschaft,
+die Kassenärztlichen Bundesvereinigungen und deren Mitglieder und
+Mitgliedskassen sowie für die Leistungserbringer verbindlich. Das
+Benehmen mit den Ländern nach Satz 1 wird mit zwei von der
+Gesundheitsministerkonferenz der Länder benannten Vertretern der
+Länder hergestellt.
+
+(2) Kommt die Vereinbarung nach Absatz 1 Satz 1 ganz oder teilweise
+nicht fristgerecht zustande, legt die Schiedsstelle nach § 18a Absatz
+6 ohne Antrag einer Vertragspartei innerhalb von sechs Wochen die
+Kriterien für den Standort oder die Standorte eines Krankenhauses und
+dessen Ambulanzen fest.
+
+
 ### § 3 Anwendungsbereich
 
 Dieses Gesetz findet keine Anwendung auf
@@ -298,6 +333,14 @@ Krankenhauspläne und Investitionsprogramme auf; Folgekosten,
 insbesondere die Auswirkungen auf die Pflegesätze, sind zu
 berücksichtigen.
 
+(1a) Die Empfehlungen des Gemeinsamen Bundesausschusses zu den
+planungsrelevanten Qualitätsindikatoren gemäß § 136c Absatz 1 des
+Fünften Buches Sozialgesetzbuch sind Bestandteil des Krankenhausplans.
+Durch Landesrecht kann die Geltung der planungsrelevanten
+Qualitätsindikatoren ganz oder teilweise ausgeschlossen oder
+eingeschränkt werden und können weitere Qualitätsanforderungen zum
+Gegenstand der Krankenhausplanung gemacht werden.
+
 (2) Hat ein Krankenhaus auch für die Versorgung der Bevölkerung
 anderer Länder wesentliche Bedeutung, so ist die Krankenhausplanung
 insoweit zwischen den beteiligten Ländern abzustimmen.
@@ -347,13 +390,39 @@ Abs. 2 ist anzustreben. Die Aufnahme oder Nichtaufnahme in den
 Krankenhausplan wird durch Bescheid festgestellt. Gegen den Bescheid
 ist der Verwaltungsrechtsweg gegeben.
 
+(1a) Krankenhäuser, die bei den für sie maßgeblichen
+planungsrelevanten Qualitätsindikatoren nach § 6 Absatz 1a auf der
+Grundlage der vom Gemeinsamen Bundesausschuss nach § 136c Absatz 2
+Satz 1 des Fünften Buches Sozialgesetzbuch übermittelten Maßstäbe und
+Bewertungskriterien oder den im jeweiligen Landesrecht vorgesehenen
+Qualitätsvorgaben nicht nur vorübergehend eine in einem erheblichen
+Maß unzureichende Qualität aufweisen, dürfen insoweit ganz oder
+teilweise nicht in den Krankenhausplan aufgenommen werden. Die
+Auswertungsergebnisse nach § 136c Absatz 2 Satz 1 des Fünften Buches
+Sozialgesetzbuch sind zu berücksichtigen.
+
+(1b) Plankrankenhäuser, die nach den in Absatz 1a Satz 1 genannten
+Vorgaben nicht nur vorübergehend eine in einem erheblichen Maß
+unzureichende Qualität aufweisen oder für die in höchstens drei
+aufeinanderfolgenden Jahren Qualitätsabschläge nach § 5 Absatz 3a des
+Krankenhausentgeltgesetzes erhoben wurden, sind insoweit durch
+Aufhebung des Feststellungsbescheides ganz oder teilweise aus dem
+Krankenhausplan herauszunehmen; Absatz 1a Satz 2 gilt entsprechend.
+
+(1c) Soweit die Empfehlungen des Gemeinsamen Bundesausschusses nach §
+6 Absatz 1a Satz 2 nicht Bestandteil des Krankenhausplans geworden
+sind, gelten die Absätze 1a und 1b nur für die im Landesrecht
+vorgesehenen Qualitätsvorgaben.
+
 (2) Ein Anspruch auf Feststellung der Aufnahme in den Krankenhausplan
 und in das Investitionsprogramm besteht nicht. Bei notwendiger Auswahl
 zwischen mehreren Krankenhäusern entscheidet die zuständige
 Landesbehörde unter Berücksichtigung der öffentlichen Interessen und
 der Vielfalt der Krankenhausträger nach pflichtgemäßem Ermessen,
 welches Krankenhaus den Zielen der Krankenhausplanung des Landes am
-besten gerecht wird.
+besten gerecht wird; die Vielfalt der Krankenhausträger ist nur dann
+zu berücksichtigen, wenn die Qualität der erbrachten Leistungen der
+Einrichtungen gleichwertig ist.
 
 (3) Für die in § 2 Nr. 1a genannten Ausbildungsstätten gelten die
 Vorschriften dieses Abschnitts entsprechend.
@@ -421,7 +490,7 @@ Abständen an die Kostenentwicklung anzupassen.
 folgenden Jahrespauschalen nach Absatz 3 steht dem Krankenhaus
 unabhängig von einer Verringerung der tatsächlichen Bettenzahl zu,
 soweit die Verringerung auf einer Vereinbarung des Krankenhausträgers
-mit den Landesverbänden der Krankenkassen und den Esatzkassen nach §
+mit den Landesverbänden der Krankenkassen und den Ersatzkassen nach §
 109 Abs. 1 Satz 4 oder 5 des Fünften Buches Sozialgesetzbuch beruht
 und ein Fünftel der Planbetten nicht übersteigt. § 6 Abs. 3 bleibt
 unberührt.
@@ -439,14 +508,13 @@ Investitionskosten decken.
 
 ### § 10 Entwicklungsauftrag zur Reform der Investitionsfinanzierung
 
-(1) Für Krankenhäuser, die in den Krankenhausplan eines Landes
-aufgenommen sind und Entgelte nach § 17b erhalten, soll eine
+(1) Für in den Krankenhausplan eines Landes aufgenommene
+Krankenhäuser, die Entgelte nach § 17b erhalten, sowie für in den
+Krankenhausplan eines Landes aufgenommene psychiatrische und
+psychosomatische Einrichtungen nach § 17d Absatz 1 Satz 1 wird eine
 Investitionsförderung durch leistungsorientierte
-Investitionspauschalen ab dem 1. Januar 2012, für psychiatrische und
-psychosomatische Einrichtungen nach § 17d Abs. 1 Satz 1, die in den
-Krankenhausplan eines Landes aufgenommen sind, ab dem 1. Januar 2014
-ermöglicht werden. Dafür werden bis zum 31. Dezember 2009 Grundsätze
-und Kriterien für die Ermittlung eines Investitionsfallwertes auf
+Investitionspauschalen ermöglicht. Dafür werden Grundsätze und
+Kriterien für die Ermittlung eines Investitionsfallwertes auf
 Landesebene entwickelt. Die Investitionsfinanzierung der
 Hochschulkliniken ist zu berücksichtigen. Die näheren Einzelheiten des
 weiteren Verfahrens legen Bund und Länder fest. Das Recht der Länder,
@@ -455,22 +523,23 @@ Investitionspauschalen und der Einzelförderung von Investitionen
 einschließlich der Pauschalförderung kurzfristiger Anlagegüter zu
 entscheiden, bleibt unberührt.
 
-(2) Die Vertragsparteien auf Bundesebene nach § 17b Abs. 2 Satz 1
-vereinbaren bis zum 31. Dezember 2009 die Grundstrukturen für
-Investitionsbewertungsrelationen und das Verfahren zu ihrer
-Ermittlung, insbesondere zur Kalkulation in einer sachgerechten
-Auswahl von Krankenhäusern. In den Investitionsbewertungsrelationen
-ist der Investitionsbedarf für die voll- und teilstationären
-Leistungen pauschaliert abzubilden; der Differenzierungsgrad soll
-praktikabel sein. Die Vertragsparteien nach Satz 1 beauftragen ihr
-DRG-Institut, bis zum 31. Dezember 2010 für das DRG-Vergütungssystem
-und bis zum 31. Dezember 2012 für Einrichtungen nach § 17d Abs. 1 Satz
-1 bundeseinheitliche Investitionsbewertungsrelationen zu entwickeln
-und zu kalkulieren. Für die Finanzierung der Aufgaben gilt § 17b Abs.
-5 entsprechend. Die erforderlichen Finanzmittel sind mit dem DRG-
-Systemzuschlag zu erheben; dieser ist entsprechend zu erhöhen. Für die
-Befugnisse des Bundesministeriums für Gesundheit gilt § 17b Abs. 7 und
-7a entsprechend. Für die Veröffentlichung der Ergebnisse gilt § 17b
+(2) Die Vertragsparteien auf Bundesebene nach § 17b Absatz 2 Satz 1
+vereinbaren die Grundstrukturen für Investitionsbewertungsrelationen
+und das Verfahren zu ihrer Ermittlung, insbesondere zur Kalkulation in
+einer sachgerechten und repräsentativen Auswahl von Krankenhäusern; §
+17b Absatz 3 Satz 6 und 7 und Absatz 7 Satz 6 ist entsprechend
+anzuwenden. In den Investitionsbewertungsrelationen ist der
+Investitionsbedarf für die voll- und teilstationären Leistungen
+pauschaliert abzubilden; der Differenzierungsgrad soll praktikabel
+sein. Die Vertragsparteien nach Satz 1 beauftragen das Institut für
+das Entgeltsystem im Krankenhaus, für das DRG-Vergütungssystem und für
+Einrichtungen nach § 17d Abs. 1 Satz 1 bundeseinheitliche
+Investitionsbewertungsrelationen zu entwickeln und zu kalkulieren. Für
+die Finanzierung der Aufgaben gilt § 17b Abs. 5 entsprechend. Die
+erforderlichen Finanzmittel sind mit dem DRG-Systemzuschlag zu
+erheben; dieser ist entsprechend zu erhöhen. Für die Befugnisse des
+Bundesministeriums für Gesundheit gilt § 17b Abs. 7 und 7a
+entsprechend. Für die Veröffentlichung der Ergebnisse gilt § 17b
 Absatz 2 Satz 8 entsprechend.
 
 
@@ -483,9 +552,150 @@ und sonstigen Fachkräften des Gesundheitswesens besondere Aufgaben zu
 Personalkosten entstehen, ist ihre Finanzierung zu gewährleisten.
 
 
-### (XXXX) §§ 12 bis 15 (weggefallen)
+### § 12 Förderung von Vorhaben zur Verbesserung von Versorgungsstrukturen
 
--
+(1) Zur Förderung von Vorhaben der Länder zur Verbesserung der
+Strukturen in der Krankenhausversorgung wird beim
+Bundesversicherungsamt aus Mitteln der Liquiditätsreserve des
+Gesundheitsfonds ein Fonds in Höhe von insgesamt 500 Millionen Euro
+errichtet (Strukturfonds). Im Fall einer finanziellen Beteiligung der
+privaten Krankenversicherungen an der Förderung nach Satz 1 erhöht
+sich das Fördervolumen um den entsprechenden Betrag. Zweck des
+Strukturfonds ist insbesondere der Abbau von Überkapazitäten, die
+Konzentration von stationären Versorgungsangeboten und Standorten
+sowie die Umwandlung von Krankenhäusern in nicht akutstationäre
+örtliche Versorgungseinrichtungen; palliative Versorgungsstrukturen
+sollen gefördert werden. Von dem in Satz 1 genannten Betrag, abzüglich
+der Aufwendungen nach Absatz 2 Satz 6 und nach § 14 Satz 4, kann jedes
+Land den Anteil abrufen, der sich aus dem Königsteiner Schlüssel mit
+Stand vom 1. Januar 2016 ergibt. Soweit durch die von einem Land bis
+zum 31. Juli 2017 eingereichten Anträge die ihm nach Satz 4
+zustehenden Fördermittel nicht ausgeschöpft werden, werden mit diesen
+Mitteln Vorhaben anderer Länder gefördert, für die Anträge gestellt
+worden sind. Fördermittel können auch für die Finanzierung der Zinsen,
+der Tilgung und der Verwaltungskosten von Darlehen gewährt werden,
+soweit diese zur Finanzierung förderungsfähiger Vorhaben nach Satz 3
+aufgenommen worden sind.
+
+(2) Voraussetzung für die Zuteilung von Fördermitteln nach Absatz 1
+ist, dass
+
+1.  die Umsetzung des zu fördernden Vorhabens am 1. Januar 2016 noch nicht
+    begonnen hat,
+
+
+2.  das antragstellende Land, gegebenenfalls gemeinsam mit dem Träger der
+    zu fördernden Einrichtung, mindestens 50 Prozent der förderungsfähigen
+    Kosten des Vorhabens trägt,
+
+
+3.  das antragstellende Land sich verpflichtet,
+
+    a)  in den Jahren 2016 bis 2018 jährlich Haushaltsmittel für die
+        Investitionsförderung der Krankenhäuser mindestens in der Höhe
+        bereitzustellen, die dem Durchschnitt der in den Haushaltsplänen der
+        Jahre 2012 bis 2014 hierfür ausgewiesenen Haushaltsmittel abzüglich
+        der auf diesen Zeitraum entfallenden durchschnittlichen Zuweisungen
+        nach Artikel 14 des Gesundheitsstrukturgesetzes oder den im
+        Haushaltsplan des Jahres 2015 für die Investitionsförderung der
+        Krankenhäuser ausgewiesenen Haushaltsmitteln entspricht, und
+
+
+    b)  die in Buchstabe a genannten Mittel um die vom Land getragenen Mittel
+        nach Nummer 2 zu erhöhen und
+
+
+
+
+
+4.  die in Absatz 3 genannten Kriterien erfüllt sind.
+
+
+
+Beträge, mit denen sich die Länder am Volumen des öffentlichen
+Finanzierungsanteils der förderfähigen Kosten nach § 6 Absatz 1 des
+Kommunalinvestitionsförderungsgesetzes beteiligen, dürfen nicht auf
+die vom Land zu tragenden Kosten nach Satz 1 Nummer 2 und auf die in
+den Jahren 2016 bis 2018 bereitzustellenden Haushaltsmittel nach Satz
+1 Nummer 3 Buchstabe a angerechnet werden. Mittel aus dem
+Strukturfonds zur Förderung der Schließung eines Krankenhauses dürfen
+nicht gewährt werden, wenn der Krankenhausträger gegenüber dem
+antragstellenden Land auf Grund der Schließung zur Rückzahlung von
+Mitteln für die Investitionsförderung verpflichtet ist; für Mittel der
+Investitionsförderung, auf deren Rückzahlung das antragstellende Land
+verzichtet hat, gilt Satz 2 entsprechend. Das Bundesversicherungsamt
+prüft die Anträge und weist die Mittel zu, bis der in Absatz 1 Satz 1
+genannte Betrag abzüglich der Aufwendungen nach Satz 6 und nach § 14
+Satz 4 ausgeschöpft ist. Nicht zweckentsprechend verwendete oder
+überzahlte Mittel sind unverzüglich an das Bundesversicherungsamt
+zurückzuzahlen, wenn eine Verrechnung mit Ansprüchen auf Auszahlung
+von Fördermitteln nicht möglich ist. Die für die Verwaltung der Mittel
+und die Durchführung der Förderung notwendigen Aufwendungen des
+Bundesversicherungsamts werden aus dem in Absatz 1 Satz 1 und 2
+genannten Betrag gedeckt.
+
+(3) Das Bundesministerium für Gesundheit bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates insbesondere das
+Nähere
+
+1.  zu den Kriterien der Förderung und zum Verfahren der Vergabe der
+    Fördermittel,
+
+
+2.  zur Verteilung der nicht ausgeschöpften Mittel nach Absatz 1 Satz 5,
+
+
+3.  zum Nachweis der Förderungsvoraussetzungen nach Absatz 2 Satz 1,
+
+
+4.  zum Nachweis der zweckentsprechenden Verwendung der Fördermittel und
+    zur Rückzahlung überzahlter oder nicht zweckentsprechend verwendeter
+    Fördermittel.
+
+
+
+
+
+### § 13 Entscheidung zu den förderungsfähigen Vorhaben
+
+Im Einvernehmen mit den Landesverbänden der Krankenkassen und den
+Ersatzkassen treffen die Länder die Entscheidung, welche Vorhaben
+gefördert werden sollen und für die dann ein Antrag auf Förderung beim
+Bundesversicherungsamt gestellt werden soll. Sie können andere
+Institutionen an der Auswahlentscheidung beteiligen. Ein Anspruch auf
+Förderung besteht nicht. Die Länder prüfen die zweckentsprechende
+Verwendung der Fördermittel.
+
+
+### § 14 Auswertung der Wirkungen der Förderung
+
+Das Bundesversicherungsamt gibt in Abstimmung mit dem
+Bundesministerium für Gesundheit und dem Bundesministerium der
+Finanzen eine begleitende Auswertung des durch die Förderung bewirkten
+Strukturwandels in Auftrag. Die hierfür erforderlichen nicht
+personenbezogenen Daten werden ihm oder der beauftragten Stelle von
+den antragstellenden Ländern auf Anforderung zur Verfügung gestellt.
+Zwischenberichte über die Auswertung sind dem Bundesministerium für
+Gesundheit und dem Bundesministerium der Finanzen jährlich, erstmals
+zum 31. Juli 2017, vorzulegen. Die Aufwendungen für die Auswertung
+werden aus dem Betrag nach § 12 Absatz 1 Satz 1 und 2 gedeckt. Auf der
+Grundlage der Auswertung legt das Bundesministerium für Gesundheit dem
+Deutschen Bundestag einen Bericht über den durch die Förderung
+bewirkten Strukturwandel vor.
+
+
+### § 15 Beteiligung an Schließungskosten
+
+Die Vertragsparteien nach § 18 können vereinbaren, dass sich die in §
+18 Absatz 2 genannten Sozialleistungsträger an den Kosten der
+Schließung eines Krankenhauses beteiligen. Die Unternehmen der
+privaten Krankenversicherung können sich an der Vereinbarung
+beteiligen. Hierbei ist zu berücksichtigen, ob und inwieweit die
+Schließung bereits nach den §§ 12 bis 14 gefördert wird. Eine
+Vereinbarung nach Satz 1 darf nicht geschlossen werden, wenn der
+Krankenhausträger auf Grund der Schließung zur Rückzahlung von Mitteln
+für die Investitionsförderung verpflichtet ist, die für dieses
+Krankenhaus gewährt worden sind.
 
 
 ## 3. Abschnitt - Vorschriften über Krankenhauspflegesätze
@@ -638,7 +848,7 @@ geförderten Maßnahmen mit Restfinanzierung durch den
 Krankenhausträger, dürfen von Sozialleistungsträgern und sonstigen
 öffentlich-rechtlichen Kostenträgern keine höheren Pflegesätze
 gefordert werden, als sie von diesen für Leistungen vergleichbarer
-nach diesem Gesetz geförderter Krankenhäuser zu entrichten sind.
+nach diesem Gesetz voll geförderter Krankenhäuser zu entrichten sind.
 Krankenhäuser, die nur deshalb nach diesem Gesetz nicht gefördert
 werden, weil sie keinen Antrag auf Förderung stellen, dürfen auch von
 einem Krankenhausbenutzer keine höheren als die sich aus Satz 1
@@ -732,7 +942,7 @@ der Region erforderlich ist, zum Beispiel weil die Entfernungen und
 Fahrzeiten zu anderen Ausbildungsstätten nicht zumutbar sind, können
 auch langfristig höhere Finanzierungsbeträge gezahlt werden; zur
 Prüfung der Voraussetzungen sind die Vorgaben zum
-Sicherstellungszuschlag nach § 17b Abs. 1 Satz 6 und 7 in Verbindung
+Sicherstellungszuschlag nach § 17b Absatz 1a Nummer 6 in Verbindung
 mit § 5 Abs. 2 des Krankenhausentgeltgesetzes entsprechend anzuwenden.
 Weicht am Ende des Vereinbarungszeitraums die Summe der Zahlungen aus
 dem Ausgleichsfonds nach Absatz 5 Satz 5 und den verbleibenden
@@ -895,58 +1105,28 @@ sind.
 
 ### § 17b Einführung eines pauschalierenden Entgeltsystems für DRG-Krankenhäuser
 
-(1) Für die Vergütung der allgemeinen Krankenhausleistungen ist für
-ein durchgängiges, leistungsorientiertes und pauschalierendes
-Vergütungssystem einzuführen; dies gilt nicht für die Leistungen der
-in § 1 Abs. 2 der Psychiatrie-Personalverordnung genannten
-Einrichtungen und der Einrichtungen für Psychosomatische Medizin und
-Psychotherapie, soweit in der Verordnung nach § 16 Satz 1 Nr. 1 nichts
-Abweichendes bestimmt wird. Das Vergütungssystem hat Komplexitäten und
-Comorbiditäten abzubilden; sein Differenzierungsgrad soll praktikabel
-sein. Mit den Entgelten nach Satz 1 werden die allgemeinen
-vollstationären und teilstationären Krankenhausleistungen für einen
-Behandlungsfall vergütet. Soweit allgemeine Krankenhausleistungen
-nicht in die Entgelte nach Satz 1 einbezogen werden können, weil der
-Finanzierungstatbestand nicht in allen Krankenhäusern vorliegt, sind
-ein Ausbildungszuschlag nach § 17a Absatz 6 sowie bundeseinheitlich
-Regelungen für Zu- oder Abschläge zu vereinbaren, insbesondere für die
-Notfallversorgung, die besonderen Aufgaben von Zentren und
-Schwerpunkten nach § 2 Abs. 2 Satz 2 Nr. 4 des
-Krankenhausentgeltgesetzes und für die Aufnahme von Begleitpersonen
-nach § 2 Abs. 2 Satz 2 Nr. 3 des Krankenhausentgeltgesetzes und § 2
-Abs. 2 Satz 2 Nr. 3 der Bundespflegesatzverordnung; für die
-Kalkulation und Vereinbarung von Zuschlägen für Zentren und
-Schwerpunkte, die nach Regionen differenziert werden können, sind die
-besonderen Leistungen zu benennen und zu bewerten und den
-Vertragsparteien im Voraus zu übermitteln. Für die Beteiligung der
-Krankenhäuser an Maßnahmen zur Qualitätssicherung auf der Grundlage
-des § 137 des Fünften Buches Sozialgesetzbuch sind Zuschläge zu
-vereinbaren; diese können auch in die Fallpauschalen eingerechnet
-werden. Zur Sicherstellung einer für die Versorgung der Bevölkerung
-notwendigen Vorhaltung von Leistungen, die auf Grund des geringen
-Versorgungsbedarfs mit den Entgelten nach Satz 1 nicht kostendeckend
-finanzierbar ist, sind bundeseinheitliche Empfehlungen für Maßstäbe zu
-vereinbaren, unter welchen Voraussetzungen der Tatbestand einer
-notwendigen Vorhaltung vorliegt sowie in welchem Umfang grundsätzlich
-zusätzliche Zahlungen zu leisten sind. Die Landesregierungen werden
-ermächtigt, durch Rechtsverordnung ergänzende oder abweichende
-Vorgaben zu den Voraussetzungen nach Satz 6 zu erlassen, insbesondere
-um die Vorhaltung der für die Versorgung notwendigen
-Leistungseinheiten zu gewährleisten; dabei sind die Interessen anderer
-Krankenhäuser zu berücksichtigen; die Landesregierungen können diese
-Ermächtigung durch Rechtsverordnung auf oberste Landesbehörden
-übertragen. Soweit das Land keine Vorgaben erlässt, sind die
-Empfehlungen nach Satz 6 verbindlich anzuwenden. Die Vertragsparteien
-nach § 18 Abs. 2 prüfen, ob die Voraussetzungen für einen
-Sicherstellungszuschlag im Einzelfall vorliegen und vereinbaren die
-Höhe der abzurechnenden Zuschläge. Die Fallgruppen und ihre
-Bewertungsrelationen sind bundeseinheitlich festzulegen. Die
-Bewertungsrelationen sind als Relativgewichte auf eine Bezugsleistung
-zu definieren; sie können für Leistungen, bei denen in erhöhtem Maße
-wirtschaftlich begründete Fallzahlsteigerungen eingetreten oder zu
-erwarten sind, gezielt abgesenkt oder in Abhängigkeit von der Fallzahl
-bei diesen Leistungen gestaffelt vorgegeben werden. Soweit dies zur
-Ergänzung der Fallpauschale in eng begrenzten Ausnahmefällen
+(1) Für die Vergütung der allgemeinen Krankenhausleistungen gilt ein
+durchgängiges, leistungsorientiertes und pauschalierendes
+Vergütungssystem. Das Vergütungssystem hat Komplexitäten und
+Komorbiditäten abzubilden; sein Differenzierungsgrad soll praktikabel
+sein. Mit den Entgelten nach Satz 1 werden die allgemeinen voll- und
+teilstationären Krankenhausleistungen für einen Behandlungsfall
+vergütet. Die Fallgruppen und ihre Bewertungsrelationen sind
+bundeseinheitlich festzulegen. Die Bewertungsrelationen sind als
+Relativgewichte auf eine Bezugsleistung zu definieren; sie sind für
+Leistungen, bei denen in erhöhtem Maße wirtschaftlich begründete
+Fallzahlsteigerungen eingetreten oder zu erwarten sind, gezielt
+abzusenken oder in Abhängigkeit von der Fallzahl bei diesen Leistungen
+abgestuft vorzugeben. Um mögliche Fehlanreize durch eine systematische
+Übervergütung der Sachkostenanteile bei voll- und teilstationären
+Leistungen jährlich zu analysieren und geeignete Maßnahmen zum Abbau
+vorhandener Übervergütung zu ergreifen, sind auf der Grundlage eines
+Konzepts des Instituts für das Entgeltsystem im Krankenhaus bis
+spätestens zum 30. Juni 2016 sachgerechte Korrekturen der
+Bewertungsrelationen der Fallpauschalen zu vereinbaren; die Analyse
+und die geeigneten Maßnahmen sind erstmals bei der Weiterentwicklung
+des Vergütungssystems für das Jahr 2017 durchzuführen. Soweit dies zur
+Ergänzung der Fallpauschalen in eng begrenzten Ausnahmefällen
 erforderlich ist, können die Vertragsparteien nach Absatz 2 Satz 1
 Zusatzentgelte für Leistungen, Leistungskomplexe oder Arzneimittel
 vereinbaren, insbesondere für die Behandlung von Blutern mit
@@ -955,31 +1135,81 @@ Nierenversagens nicht die Hauptleistung ist. Sie vereinbaren auch die
 Höhe der Entgelte; diese kann nach Regionen differenziert festgelegt
 werden. Nach Maßgabe des Krankenhausentgeltgesetzes können Entgelte
 für Leistungen, die nicht durch die Entgeltkataloge erfasst sind,
-durch die Vertragsparteien nach § 18 Abs. 2 vereinbart werden.
+durch die Vertragsparteien nach § 18 Absatz 2 vereinbart werden.
 Besondere Einrichtungen, deren Leistungen insbesondere aus
 medizinischen Gründen, wegen einer Häufung von schwerkranken Patienten
 oder aus Gründen der Versorgungsstruktur mit den Entgeltkatalogen noch
 nicht sachgerecht vergütet werden, können zeitlich befristet aus dem
-Vergütungssystem ausgenommen werden. Entstehen bei Patienten mit
+Vergütungssystem ausgenommen werden; unabhängig davon, ob die
+Leistungen mit den Entgeltkatalogen sachgerecht vergütet werden, ist
+bei Palliativstationen oder -einheiten, die räumlich und
+organisatorisch abgegrenzt sind und über mindestens fünf Betten
+verfügen, dafür ein schriftlicher Antrag des Krankenhauses
+ausreichend. Entstehen bei Patientinnen oder Patienten mit
 außerordentlichen Untersuchungs- und Behandlungsabläufen extrem hohe
 Kostenunterdeckungen, die mit dem pauschalierten Vergütungssystem
 nicht sachgerecht finanziert werden (Kostenausreißer), sind
 entsprechende Fälle zur Entwicklung geeigneter Vergütungsformen
-vertieft zu prüfen. Bis zum 30. Juni 2009 ist zu prüfen, ob zur
-sachgerechten Finanzierung der mit der ärztlichen Weiterbildung
-verbundenen Mehrkosten bei der Leistungserbringung Zu- oder Abschläge
-für bestimmte Leistungen oder Leistungsbereiche erforderlich sind;
-erforderliche Zu- oder Abschläge sollen möglichst in Abhängigkeit von
-Qualitätsindikatoren für die Weiterbildung abgerechnet werden.
+vertieft zu prüfen. Zur Förderung der palliativmedizinischen
+Versorgung durch Palliativdienste ist die Kalkulation eines
+Zusatzentgelts zu ermöglichen; im Einvernehmen mit der betroffenen
+medizinischen Fachgesellschaft sind die hierfür erforderlichen
+Kriterien bis zum 29. Februar 2016 zu entwickeln.
+
+(1a) Soweit allgemeine Krankenhausleistungen nicht oder noch nicht in
+die Entgelte nach Absatz 1 Satz 1 einbezogen werden können, weil der
+Finanzierungstatbestand nicht in allen Krankenhäusern vorliegt, sind
+bundeseinheitliche Regelungen für Zu- oder Abschläge zu vereinbaren,
+insbesondere für
+
+1.  die Notfallversorgung,
+
+
+2.  die besonderen Aufgaben nach § 2 Absatz 2 Satz 2 Nummer 4 des
+    Krankenhausentgeltgesetzes,
+
+
+3.  die vom Gemeinsamen Bundesausschuss nach § 136b Absatz 1 Satz 1 Nummer
+    5 und Absatz 9 des Fünften Buches Sozialgesetzbuch festgelegten
+    Leistungen oder Leistungsbereiche mit außerordentlich guter oder
+    unzureichender Qualität,
+
+
+4.  die Beteiligung der Krankenhäuser an Maßnahmen zur Qualitätssicherung
+    auf der Grundlage der §§ 136 und 136b des Fünften Buches
+    Sozialgesetzbuch und die Beteiligung ganzer Krankenhäuser oder
+    wesentlicher Teile der Einrichtungen an einrichtungsübergreifenden
+    Fehlermeldesystemen, sofern diese den Festlegungen des Gemeinsamen
+    Bundesausschusses nach § 136a Absatz 3 Satz 3 des Fünften Buches
+    Sozialgesetzbuch entsprechen,
+
+
+5.  befristete Zuschläge für die Finanzierung von Mehrkosten auf Grund von
+    Richtlinien des Gemeinsamen Bundesausschusses,
+
+
+6.  die Finanzierung der Sicherstellung einer für die Versorgung der
+    Bevölkerung notwendigen Vorhaltung von Leistungen,
+
+
+7.  die Aufnahme von Begleitpersonen nach § 2 Absatz 2 Satz 2 Nummer 3 des
+    Krankenhausentgeltgesetzes und § 2 Absatz 2 Satz 2 Nummer 3 der
+    Bundespflegesatzverordnung sowie für
+
+
+8.  den Ausbildungszuschlag nach § 17a Absatz 6.
+
+
+
 
 (2) Der Spitzenverband Bund der Krankenkassen und der Verband der
 privaten Krankenversicherung gemeinsam vereinbaren entsprechend den
-Vorgaben der Absätze 1 und 3 mit der Deutschen Krankenhausgesellschaft
-ein Vergütungssystem, das sich an einem international bereits
-eingesetzten Vergütungssystem auf der Grundlage der Diagnosis Related
-Groups (DRG) orientiert, seine jährliche Weiterentwicklung und
-Anpassung, insbesondere an medizinische Entwicklungen,
-Kostenentwicklungen, Verweildauerverkürzungen und
+Vorgaben der Absätze 1, 1a und 3 mit der Deutschen
+Krankenhausgesellschaft ein Vergütungssystem, das sich an einem
+international bereits eingesetzten Vergütungssystem auf der Grundlage
+der Diagnosis Related Groups (DRG) orientiert, seine jährliche
+Weiterentwicklung und Anpassung, insbesondere an medizinische
+Entwicklungen, Kostenentwicklungen, Verweildauerverkürzungen und
 Leistungsverlagerungen zu und von anderen Versorgungsbereichen, und
 die Abrechnungsbestimmungen, soweit diese nicht im
 Krankenhausentgeltgesetz vorgegeben werden. Sie orientieren sich dabei
@@ -1009,40 +1239,43 @@ Juni 2000 die Grundstrukturen des Vergütungssystems und des Verfahrens
 zur Ermittlung der Bewertungsrelationen auf Bundesebene
 (Bewertungsverfahren), insbesondere der zu Grunde zu legenden
 Fallgruppen, sowie die Grundzüge ihres Verfahrens zur laufenden Pflege
-des Systems auf Bundesebene. Die Vertragsparteien vereinbaren bis zum
-31\. Dezember 2001 Bewertungsrelationen und die Bewertung der Zu- und
-Abschläge nach Absatz 1 Satz 4. Die Bewertungsrelationen können auf
-der Grundlage der Fallkosten einer sachgerechten Auswahl von
-Krankenhäusern kalkuliert, aus international bereits eingesetzten
-Bewertungsrelationen übernommen oder auf deren Grundlage
-weiterentwickelt werden. Nach Maßgabe der Absätze 4 und 6 ersetzt das
-neue Vergütungssystem die bisher abgerechneten Entgelte nach § 17 Abs.
-2a. Erstmals für das Jahr 2005 wird nach § 18 Abs. 3 Satz 3 ein
-Basisfallwert vereinbart.
+des Systems auf Bundesebene. Die Vertragsparteien vereinbaren die
+Bewertungsrelationen und die Bewertung der Zu- und Abschläge nach
+Absatz 1a. Die Bewertungsrelationen werden auf der Grundlage der
+Fallkosten einer sachgerechten und repräsentativen Auswahl von
+Krankenhäusern kalkuliert. Nach Maßgabe der Absätze 4 und 6 ersetzt
+das neue Vergütungssystem die bisher abgerechneten Entgelte nach § 17
+Abs. 2a. Erstmals für das Jahr 2005 wird nach § 18 Abs. 3 Satz 3 ein
+Basisfallwert vereinbart. Auf der Grundlage eines vom Institut für das
+Entgeltsystem im Krankenhaus zu entwickelnden Vorschlags vereinbaren
+die Vertragsparteien nach Absatz 2 Satz 1 bis spätestens zum 31.
+Dezember 2016 ein praktikables Konzept für eine repräsentative
+Kalkulation nach Satz 3 und deren Weiterentwicklung. Als Bestandteil
+des Konzepts haben die Vertragsparteien geeignete Maßnahmen zu seiner
+Umsetzung zu vereinbaren; dabei können sie insbesondere bestimmte
+Krankenhäuser zur Teilnahme an der Kalkulation verpflichten und
+Maßnahmen ergreifen, um die Lieferung uneingeschränkt verwertbarer
+Daten zu gewährleisten und um die Richtigkeit der übermittelten Daten
+umfassend überprüfen zu können.
 
-(4) Das Vergütungssystem wird für das Jahr 2003 budgetneutral
-umgesetzt. Die Vertragsparteien nach Absatz 2 vereinbaren für die
-Anwendung im Jahr 2003 einen vorläufigen Fallpauschalenkatalog auf der
-Grundlage des von ihnen ausgewählten australischen Katalogs. Auf
-Verlangen des Krankenhauses wird das Vergütungssystem zum 1. Januar
-2003 mit diesem vorläufigen Fallpauschalenkatalog eingeführt.
+(4) (weggefallen)
 
 (5) Zur Finanzierung der ihnen übertragenen Aufgaben nach den Absätzen
-1 und 3 sowie § 10 Abs. 2 und § 17d vereinbaren die Vertragsparteien
+1 bis 3 sowie § 10 Abs. 2 und § 17d vereinbaren die Vertragsparteien
 nach Absatz 2 Satz 1
 
 1.  einen Zuschlag für jeden abzurechnenden Krankenhausfall, mit dem die
-    Entwicklung, Einführung und laufende Pflege des zum 1. Januar 2003
-    einzuführenden Vergütungssystems finanziert werden (DRG-
-    Systemzuschlag). Der Zuschlag dient der Finanzierung insbesondere der
-    Entwicklung der DRG-Klassifikation und der Kodierregeln, der
-    Ermittlung der Bewertungsrelationen, der Bewertung der Zu- und
-    Abschläge, der Ermittlung der Richtwerte nach § 17a Abs. 4b, von
-    pauschalierten Zahlungen für die Teilnahme von Krankenhäusern oder
-    Ausbildungsstätten an der Kalkulation und der Vergabe von Aufträgen,
-    auch soweit die Vertragsparteien die Aufgaben durch ein eigenes DRG-
-    Institut wahrnehmen lassen oder das Bundesministerium für Gesundheit
-    nach Absatz 7 anstelle der Vertragsparteien entscheidet,
+    Entwicklung, Einführung und laufende Pflege des Vergütungssystems
+    finanziert werden (DRG-Systemzuschlag); der Zuschlag dient der
+    Finanzierung insbesondere der Entwicklung der DRG-Klassifikation und
+    der Kodierregeln, der Ermittlung der Bewertungsrelationen, der
+    Bewertung der Zu- und Abschläge, der Ermittlung der Richtwerte nach §
+    17a Abs. 4b, von pauschalierten Zahlungen für die Teilnahme von
+    Krankenhäusern oder Ausbildungsstätten an der Kalkulation und der
+    Vergabe von Aufträgen, auch soweit die Vertragsparteien die Aufgaben
+    durch das Institut für das Entgeltsystem im Krankenhaus wahrnehmen
+    lassen oder das Bundesministerium für Gesundheit nach Absatz 7
+    anstelle der Vertragsparteien entscheidet,
 
 
 2.  Maßnahmen, die sicherstellen, dass die durch den Systemzuschlag
@@ -1089,13 +1322,7 @@ Bundespflegesatzverordnung; er geht nicht in den Gesamtbetrag und die
 Erlösausgleiche nach dem Krankenhausentgeltgesetz oder der
 Bundespflegesatzverordnung ein.
 
-(6) Das Vergütungssystem wird für alle Krankenhäuser mit einer ersten
-Fassung eines deutschen Fallpauschalenkatalogs verbindlich zum 1.
-Januar 2004 eingeführt. Das Vergütungssystem wird für das Jahr 2004
-budgetneutral umgesetzt. Ab dem Jahr 2005 wird das Erlösbudget des
-Krankenhauses nach den näheren Bestimmungen des
-Krankenhausentgeltgesetzes schrittweise an den Basisfallwert nach
-Absatz 3 Satz 5 angeglichen.
+(6) (weggefallen)
 
 (7) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates
@@ -1116,8 +1343,8 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     fristgerecht sicherzustellen,
 
 
-3.  Leistungen oder besondere Einrichtungen nach Absatz 1 Satz 14 und 15
-    zu bestimmen, die mit dem DRG-Vergütungssystem noch nicht sachgerecht
+3.  Leistungen oder besondere Einrichtungen nach Absatz 1 Satz 9 und 10 zu
+    bestimmen, die mit dem DRG-Vergütungssystem noch nicht sachgerecht
     vergütet werden können; für diese Bereiche können die anzuwendende Art
     der Vergütung festgelegt sowie Vorschriften zur Ermittlung der
     Entgelthöhe und zu den vorzulegenden Verhandlungsunterlagen erlassen
@@ -1131,15 +1358,18 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 Von Vereinbarungen der Vertragsparteien nach Absatz 2 kann abgewichen
 werden, soweit dies für Regelungen nach Satz 1 erforderlich ist. Das
-DRG-Institut der Selbstverwaltungspartner ist verpflichtet, dem
+Institut für das Entgeltsystem im Krankenhaus ist verpflichtet, dem
 Bundesministerium zur Vorbereitung von Regelungen nach Satz 1
 unmittelbar und unverzüglich nach dessen Weisungen zuzuarbeiten. Das
 Bundesministerium kann sich von unabhängigen Sachverständigen beraten
-lassen. Das DRG-Institut ist auch im Falle einer Vereinbarung durch
-die Vertragsparteien nach Absatz 2 verpflichtet, auf Anforderung des
-Bundesministeriums Auskunft insbesondere über den Entwicklungsstand
-des Vergütungssystems, die Entgelte und deren Veränderungen sowie über
-Problembereiche und mögliche Alternativen zu erteilen.
+lassen. Das Institut für das Entgeltsystem im Krankenhaus ist auch im
+Falle einer Vereinbarung durch die Vertragsparteien nach Absatz 2
+verpflichtet, auf Anforderung des Bundesministeriums Auskunft
+insbesondere über den Entwicklungsstand des Vergütungssystems, die
+Entgelte und deren Veränderungen sowie über Problembereiche und
+mögliche Alternativen zu erteilen. Kommt eine Vereinbarung nach Absatz
+1 Satz 6 oder Absatz 3 Satz 6 nicht zustande, entscheidet auf Antrag
+einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6.
 
 (7a) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
@@ -1152,30 +1382,39 @@ Veränderung der Versorgungsstrukturen und zur Qualität der Versorgung,
 durch; dabei sind auch die Auswirkungen auf die anderen
 Versorgungsbereiche sowie die Art und der Umfang von
 Leistungsverlagerungen zu untersuchen. Sie schreiben dazu
-Forschungsaufträge aus und beauftragen das DRG-Institut, insbesondere
-die Daten nach § 21 des Krankenhausentgeltgesetzes auszuwerten. Die
-Kosten dieser Begleitforschung werden mit dem DRG-Systemzuschlag nach
-Absatz 5 finanziert. Die Begleitforschung ist mit dem
-Bundesministerium für Gesundheit abzustimmen. Erste Ergebnisse sind im
-Jahr 2005 zu veröffentlichen.
+Forschungsaufträge aus und beauftragen das Institut für das
+Entgeltsystem im Krankenhaus, insbesondere die Daten nach § 21 des
+Krankenhausentgeltgesetzes auszuwerten. Die Kosten dieser
+Begleitforschung werden mit dem DRG-Systemzuschlag nach Absatz 5
+finanziert. Die Begleitforschung ist mit dem Bundesministerium für
+Gesundheit abzustimmen.
 
-(9) Die Vertragsparteien nach Absatz 2 vergeben im Jahr 2012 einen
-gemeinsamen Forschungsauftrag mit dem Ziel, insbesondere die
-Leistungsentwicklung und bestehende Einflussgrößen zu untersuchen
-sowie gemeinsame Lösungsvorschläge zu erarbeiten und deren
-Auswirkungen auf die Qualität der Versorgung und die finanziellen
-Auswirkungen zu bewerten. Dabei sind insbesondere Alternativen zu der
-Berücksichtigung zusätzlicher Leistungen beim Landesbasisfallwert zu
-prüfen. Möglichkeiten der Stärkung qualitätsorientierter Komponenten
-in der Leistungssteuerung sind zu entwickeln. Zudem beauftragen sie
-mit dem in Satz 1 genannten Ziel das DRG-Institut, insbesondere die
-Daten nach § 21 des Krankenhausentgeltgesetzes auszuwerten. Die Kosten
-für die Aufgaben nach den Sätzen 1 bis 3 werden mit dem DRG-
-Systemzuschlag nach Absatz 5 finanziert. Die Ergebnisse sind bis zum
-30\. Juni 2013 zu veröffentlichen.
+(9) (weggefallen)
+
+(10) Über die nach Absatz 1 Satz 11 vorzunehmende vertiefte Prüfung
+von Kostenausreißern hinausgehend beauftragen die Vertragsparteien
+nach Absatz 2 bis zum 31. Dezember 2013 das Institut für das
+Entgeltsystem im Krankenhaus mit der Festlegung von Kriterien zur
+Ermittlung von Kostenausreißern und einer auf dieser Grundlage
+erfolgenden systematischen Prüfung, in welchem Umfang Krankenhäuser
+mit Kostenausreißern belastet sind. Das Institut für das Entgeltsystem
+im Krankenhaus entwickelt ein Regelwerk für Fallprüfungen bei
+Krankenhäusern, die an der DRG-Kalkulation teilnehmen. Zur
+sachgerechten Beurteilung der Kostenausreißer hat das Institut für das
+Entgeltsystem im Krankenhaus von den an der Kalkulation teilnehmenden
+Krankenhäusern über den Kalkulationsdatensatz hinausgehende
+detaillierte fallbezogene Kosten- und Leistungsdaten zu erheben. Das
+Institut für das Entgeltsystem im Krankenhaus veröffentlicht die
+Prüfergebnisse jährlich im Rahmen eines Extremkostenberichts, erstmals
+bis zum 31. Dezember 2014. In dem Bericht sind auch die Gründe von
+Kostenausreißerfällen und Belastungsunterschieden zwischen
+Krankenhäusern darzulegen. Auf der Grundlage des Berichts sind
+geeignete Regelungen für eine sachgerechte Vergütung von
+Kostenausreißern im Rahmen des Entgeltsystems zu entwickeln und durch
+die Vertragsparteien nach Absatz 2 zu vereinbaren.
 
 
-### § 17c Prüfung der Abrechnung von Pflegesätzen
+### § 17c Prüfung der Abrechnung von Pflegesätzen, Schlichtungsausschuss
 
 (1) Der Krankenhausträger wirkt durch geeignete Maßnahmen darauf hin,
 dass
@@ -1196,76 +1435,73 @@ dass
 
 
 
+Die Krankenkassen können durch Einschaltung des Medizinischen Dienstes
+(§ 275 Absatz 1 des Fünften Buches Sozialgesetzbuch) die Einhaltung
+der in Satz 1 genannten Verpflichtungen prüfen.
 
-(2) Die Krankenkassen können durch Einschaltung des Medizinischen
-Dienstes (§ 275 Abs. 1 des Fünften Buches Sozialgesetzbuch) die
-Einhaltung der in Absatz 1 genannten Verpflichtungen durch Stichproben
-prüfen; über die Einleitung der Prüfung entscheiden die Krankenkassen
-mehrheitlich. Der Medizinische Dienst ist befugt, Stichproben von
-akuten und abgeschlossenen Fällen zu erheben und zu verarbeiten. Die
-Stichproben können sich auch auf bestimmte Organisationseinheiten
-sowie bestimmte Diagnosen, Prozeduren und Entgelte beziehen. Das
-Krankenhaus hat dem Medizinischen Dienst die dafür erforderlichen
-Unterlagen einschließlich der Krankenunterlagen zur Verfügung zu
-stellen und die erforderlichen Auskünfte zu erteilen. Die Ärzte des
-Medizinischen Dienstes sind zu diesem Zweck befugt, nach rechtzeitiger
-Anmeldung die Räume der Krankenhäuser an Werktagen von 8.00 bis 18.00
-Uhr zu betreten. Der Medizinische Dienst hat der Krankenkasse, deren
-Versicherter geprüft worden ist, und dem Krankenhaus
-versichertenbezogen mitzuteilen und zu begründen, inwieweit gegen die
-Verpflichtungen des Absatzes 1 verstoßen wurde. Die gespeicherten
-Sozialdaten sind zu löschen, sobald ihre Kenntnis für die Erfüllung
-des Zweckes der Speicherung nicht mehr erforderlich ist.
-Krankenhäuser, die den Qualitätsbericht nach § 137 Abs. 1 Satz 3 Nr. 6
-des Fünften Buches Sozialgesetzbuch nicht fristgerecht
-veröffentlichen, werden jährlich geprüft.
+(2) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft regeln das Nähere zum Prüfverfahren nach § 275
+Absatz 1c des Fünften Buches Sozialgesetzbuch; in der Vereinbarung
+sind abweichende Regelungen zu § 275 Absatz 1c Satz 2 des Fünften
+Buches Sozialgesetzbuch möglich. Dabei haben sie insbesondere
+Regelungen über den Zeitpunkt der Übermittlung zahlungsbegründender
+Unterlagen an die Krankenkassen, über das Verfahren zwischen
+Krankenkassen und Krankenhäusern bei Zweifeln an der Rechtmäßigkeit
+der Abrechnung im Vorfeld einer Beauftragung des Medizinischen
+Dienstes der Krankenversicherung, über den Zeitpunkt der Beauftragung
+des Medizinischen Dienstes der Krankenversicherung, über die
+Prüfungsdauer, über den Prüfungsort und über die Abwicklung von
+Rückforderungen zu treffen; die §§ 275 bis 283 des Fünften Buches
+Sozialgesetzbuch bleiben im Übrigen unberührt. Kommt eine Vereinbarung
+ganz oder teilweise nicht zu Stande, trifft auf Antrag einer
+Vertragspartei die Schiedsstelle nach § 18a Absatz 6 die ausstehenden
+Entscheidungen. Die Vereinbarung oder Festsetzung durch die
+Schiedsstelle ist für die Krankenkassen, den Medizinischen Dienst der
+Krankenversicherung und die zugelassenen Krankenhäuser unmittelbar
+verbindlich.
 
-(3) Stellen Krankenkassen auf der Grundlage von Stichproben nach
-Absatz 2 fest, dass bereits bezahlte Krankenhausleistungen fehlerhaft
-abgerechnet wurden, sind Ursachen und Umfang der Fehlabrechnungen
-festzustellen. Dabei ist ebenfalls zu prüfen, inwieweit neben
-überhöhten Abrechnungen auch zu niedrige Abrechnungen aufgetreten
-sind. Die Vertragsparteien nach § 18 Abs. 2 sollen ein pauschaliertes
-Ausgleichsverfahren vereinbaren, um eine Erstattung oder Nachzahlung
-in jedem Einzelfall zu vermeiden; sie können abweichend auch
-vereinbaren, dass überhöhte Abrechnungen oder zu niedrige Abrechnungen
-jeweils gegenüber der zahlungspflichtigen Krankenkasse zu berichtigen
-sind. Soweit nachgewiesen wird, dass Fallpauschalen grob fahrlässig zu
-hoch abgerechnet wurden, ist der Differenzbetrag und zusätzlich ein
-Betrag in derselben Höhe zurückzuzahlen; für die Rückzahlung gilt das
-Verfahren nach Satz 3.
+(3) Der Spitzenverband Bund der Krankenkassen und die Deutsche
+Krankenhausgesellschaft bilden einen Schlichtungsausschuss auf
+Bundesebene; das Institut für das Entgeltsystem im Krankenhaus und das
+Deutsche Institut für Medizinische Dokumentation und Information sind
+Mitglieder ohne Stimmrecht. Aufgabe des Schlichtungsausschusses ist
+die verbindliche Klärung von Kodier- und Abrechnungsfragen von
+grundsätzlicher Bedeutung. Der Schlichtungsausschuss kann auch von den
+Landesverbänden der Krankenkassen und den Ersatzkassen sowie den
+Landeskrankenhausgesellschaften angerufen werden; die Vertragsparteien
+nach Satz 1 können weitere Anrufungsrechte einräumen. Bei den
+Entscheidungen sind die Stellungnahmen des Instituts für das
+Entgeltsystem im Krankenhaus und des Deutschen Instituts für
+Medizinische Dokumentation und Information zu berücksichtigen. Die
+Entscheidungen des Schlichtungsausschusses sind zu veröffentlichen und
+für die Krankenkassen, den Medizinischen Dienst der
+Krankenversicherung und die zugelassenen Krankenhäuser unmittelbar
+verbindlich. Absatz 4 Satz 4 zweiter Halbsatz sowie § 18a Absatz 6
+Satz 2 bis 4, 7 und 8 sind entsprechend anzuwenden. Kommen die für die
+Einrichtung des Schlichtungsausschusses erforderlichen Entscheidungen
+nicht ganz oder teilweise zu Stande, trifft auf Antrag einer
+Vertragspartei die Schiedsstelle nach § 18a Absatz 6 die ausstehenden
+Entscheidungen. Soweit eine Einigung auf die unparteiischen Mitglieder
+nicht zu Stande kommt, werden diese durch das Bundesministerium für
+Gesundheit berufen.
 
-(4) Soweit sich die Vertragsparteien nach § 18 Abs. 2 über die
-Prüfergebnisse nach den Absätzen 2 und 3 und die sich daraus
-ergebenden Folgen nicht einigen, können der Krankenhausträger und jede
-betroffene Krankenkasse den Schlichtungsausschuss anrufen. Aufgabe des
-Schlichtungsausschusses ist die Schlichtung zwischen den
-Vertragsparteien. Der Schlichtungsausschuss besteht aus einem
-unparteiischen Vorsitzenden sowie Vertretern der Krankenkassen und der
-zugelassenen Krankenhäuser in gleicher Zahl. Die Vertreter der
-Krankenkassen werden von den Landesverbänden der Krankenkassen und den
-Ersatzkassen und die Vertreter der zugelassenen Krankenhäuser von der
-Landeskrankenhausgesellschaft bestellt; bei der Auswahl der Vertreter
-sollen sowohl medizinischer Sachverstand als auch besondere Kenntnisse
-in Fragen der Abrechnung der DRG-Fallpauschalen berücksichtigt werden.
-Die Landesverbände der Krankenkassen und die Ersatzkassen und die
-Landeskrankenhausgesellschaft sollen sich auf den unparteiischen
-Vorsitzenden einigen. Bei Stimmengleichheit gibt die Stimme des
-Vorsitzenden den Ausschlag. Der Schlichtungsausschuss prüft und
-entscheidet auf der Grundlage fallbezogener, nicht
-versichertenbezogener Daten. Im Übrigen vereinbart der Ausschuss mit
-der Mehrheit der Stimmen bis zum 31. März 2003 das Nähere zum
-Prüfverfahren des Medizinischen Dienstes, insbesondere zu der
-fachlichen Qualifikation der Prüfer, Größe der Stichprobe, Möglichkeit
-einer Begleitung der Prüfer durch Krankenhausärzte und Besprechung der
-Prüfergebnisse mit den betroffenen Krankenhausärzten vor Weiterleitung
-an die Krankenkassen. Der Spitzenverband Bund der Krankenkassen und
-die Deutsche Krankenhausgesellschaft geben gemeinsam Empfehlungen zum
-Prüfverfahren ab. Diese gelten bis zum Inkrafttreten einer
-Vereinbarung durch den Ausschuss. Kommen Empfehlungen bis zum 31.
-Januar 2003 nicht zustande, bestimmt die Schiedsstelle nach § 18a Abs.
-6 auf Antrag des Spitzenverbandes Bund der Krankenkassen oder der
-Deutschen Krankenhausgesellschaft das Nähere zum Prüfverfahren.
+(4) Zur Überprüfung der Ergebnisse der Prüfungen nach § 275 Absatz 1c
+des Fünften Buches Sozialgesetzbuch können die beteiligten Parteien
+gemeinsam eine unabhängige Schlichtungsperson bestellen. Die
+Bestellung der Schlichtungsperson kann für einzelne oder sämtliche
+Streitigkeiten erfolgen. Gegen die Entscheidung der Schlichtungsperson
+ist der Sozialrechtsweg gegeben. Eine gerichtliche Überprüfung der
+Entscheidung der Schlichtungsperson findet nur statt, wenn geltend
+gemacht wird, dass die Entscheidung der öffentlichen Ordnung
+widerspricht. Die Kosten der Schlichtungsperson tragen die am
+Schlichtungsverfahren beteiligten Parteien zu gleichen Teilen.
+
+(4a) (weggefallen)
+
+(4b) Gegen die Entscheidungen der Schiedsstelle nach Absatz 2 Satz 3,
+Absatz 3 Satz 7 sowie des Schlichtungsausschusses auf Bundesebene nach
+Absatz 3 ist der Sozialrechtsweg gegeben. Ein Vorverfahren findet
+nicht statt; die Klage hat keine aufschiebende Wirkung.
 
 (5) Das Krankenhaus hat selbstzahlenden Patienten, die für die
 Abrechnung der Fallpauschalen und Zusatzentgelte erforderlichen
@@ -1297,28 +1533,42 @@ Leistungen der psychiatrischen Institutsambulanzen nach § 118 des
 Fünften Buches Sozialgesetzbuch einbezogen werden können. Das
 Vergütungssystem hat den unterschiedlichen Aufwand der Behandlung
 bestimmter, medizinisch unterscheidbarer Patientengruppen abzubilden;
-sein Differenzierungsgrad soll praktikabel sein. Die
-Bewertungsrelationen sind als Relativgewichte zu definieren. Die
-Definition der Entgelte und ihre Bewertungsrelationen sind
-bundeseinheitlich festzulegen.
+dabei muss unter Berücksichtigung des Einsatzzwecks des
+Vergütungssystems als Budgetsystem sein Differenzierungsgrad
+praktikabel und der Dokumentationsaufwand auf das notwendige Maß
+begrenzt sein. Die Bewertungsrelationen sind als Relativgewichte zu
+definieren. Die Definition der Entgelte und ihre Bewertungsrelationen
+sind bundeseinheitlich festzulegen. Die Bewertungsrelationen werden
+auf der Grundlage der Kosten einer sachgerechten und repräsentativen
+Auswahl von psychiatrischen und psychosomatischen Einrichtungen
+kalkuliert, die ab dem 1. Januar 2020 die vom Gemeinsamen
+Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
+Sozialgesetzbuch festgelegten Anforderungen erfüllen sollen; § 17b
+Absatz 3 Satz 6 und 7 ist entsprechend anzuwenden. Soweit an der
+Kalkulation teilnehmende Einrichtungen die vom Gemeinsamen
+Bundesausschuss nach § 136a Absatz 2 des Fünften Buches
+Sozialgesetzbuch festgelegten Anforderungen nicht erfüllen, haben die
+Vertragsparteien nach § 17b Absatz 2 Satz 1 eine geeignete
+Übergangsfrist zu bestimmen. Vor dem 1. Januar 2020 soll für die
+Kalkulation eine umfassende Umsetzung der Vorgaben der Psychiatrie-
+Personalverordnung zur Zahl der Personalstellen erfolgen. Für die
+Dauer einer Übergangsfrist nach Satz 8 gelten die bisherigen Vorgaben
+der Psychiatrie-Personalverordnung zur Personalausstattung weiter.
 
 (2) Mit den Entgelten nach Absatz 1 werden die voll- und
-teilstationären allgemeinen Krankenhausleistungen vergütet. Soweit
-dies zur Ergänzung der Entgelte in eng begrenzten Ausnahmefällen
-erforderlich ist, können die Vertragsparteien nach Absatz 3
-Zusatzentgelte und deren Höhe vereinbaren. Entgelte für Leistungen,
-die auf Bundesebene nicht bewertet worden sind, werden durch die
-Vertragsparteien nach § 18 Abs. 2 vereinbart. Die Vorgaben des § 17b
-Abs. 1 Satz 4 und 5 für einen Ausbildungszuschlag nach § 17a Absatz 6
-und Regelungen für Zu- und Abschläge sowie § 17b Abs. 1 Satz 15 und 16
-zu besonderen Einrichtungen und zur Prüfung von außerordentlichen
-Untersuchungs- und Behandlungsabläufen mit extrem hohen
-Kostenunterdeckungen gelten entsprechend. Für die Finanzierung der
-Sicherstellung einer für die Versorgung der Bevölkerung notwendigen
-Vorhaltung von Leistungen gelten § 17b Abs. 1 Satz 6 bis 9 und § 5
-Abs. 2 des Krankenhausentgeltgesetzes entsprechend. Im Rahmen von Satz
-4 ist auch die Vereinbarung von Regelungen für Zu- oder Abschläge für
-die Teilnahme an der regionalen Versorgungsverpflichtung zu prüfen.
+teilstationären sowie stationsäquivalenten allgemeinen
+Krankenhausleistungen vergütet. Soweit dies zur Ergänzung der Entgelte
+in eng begrenzten Ausnahmefällen erforderlich ist, können die
+Vertragsparteien nach Absatz 3 Zusatzentgelte und deren Höhe
+vereinbaren. Entgelte für Leistungen, die auf Bundesebene nicht
+bewertet worden sind, werden durch die Vertragsparteien nach § 18 Abs.
+2 vereinbart. Die Vorgaben des § 17b Absatz 1a für Zu- und Abschläge
+gelten entsprechend. Für die Finanzierung der Sicherstellung einer für
+die Versorgung der Bevölkerung notwendigen Vorhaltung von Leistungen
+gelten § 17b Absatz 1a Nummer 6 und § 5 Abs. 2 des
+Krankenhausentgeltgesetzes entsprechend. Im Rahmen von Satz 4 ist auch
+die Vereinbarung von Regelungen für Zu- oder Abschläge für die
+Teilnahme an der regionalen Versorgungsverpflichtung zu prüfen.
 
 (3) Die Vertragsparteien nach § 17b Abs. 2 Satz 1 vereinbaren nach den
 Vorgaben der Absätze 1, 2 und 4 das Entgeltsystem, seine grundsätzlich
@@ -1330,42 +1580,39 @@ Entgeltsystem zu entwickeln; dabei ist von den Daten nach Absatz 9 und
 für Einrichtungen, die die Psychiatrie-Personalverordnung anwenden,
 zusätzlich von den Behandlungsbereichen nach der Psychiatrie-
 Personalverordnung auszugehen. Mit der Durchführung der
-Entwicklungsaufgaben beauftragen die Vertragsparteien das DRG-
-Institut. § 17b Abs. 2 Satz 2 bis 8 ist entsprechend anzuwenden.
-Zusätzlich ist der Bundespsychotherapeutenkammer Gelegenheit zur
-beratenden Teilnahme an den Sitzungen zu geben, soweit
-psychotherapeutische und psychosomatische Fragen betroffen sind.
+Entwicklungsaufgaben beauftragen die Vertragsparteien das Institut für
+das Entgeltsystem im Krankenhaus. § 17b Abs. 2 Satz 2 bis 8 ist
+entsprechend anzuwenden. Zusätzlich ist der
+Bundespsychotherapeutenkammer Gelegenheit zur beratenden Teilnahme an
+den Sitzungen zu geben, soweit psychotherapeutische und
+psychosomatische Fragen betroffen sind.
 
-(4) Die Vertragsparteien auf Bundesebene vereinbaren bis zum
-Jahresende 2009 die Grundstrukturen des Vergütungssystems sowie des
-Verfahrens zur Ermittlung der Bewertungsrelationen auf Bundesebene,
-insbesondere zur Kalkulation in einer sachgerechten Auswahl von
-Krankenhäusern. Sie vereinbaren bis zum 30. September 2012 die ersten
-Entgelte und deren Bewertungsrelationen. Nach Maßgabe der Sätze 4 bis
-9 ersetzt das neue Vergütungssystem die bisher abgerechneten Entgelte
-nach § 17 Absatz 2. Das Vergütungssystem wird für die Einrichtung für
-die Jahre 2013 bis 2016 budgetneutral umgesetzt, erstmals für das Jahr
-2013\. Das Vergütungssystem wird zum 1. Januar 2013 oder 1. Januar 2014
-jeweils auf Verlangen des Krankenhauses eingeführt. Das Krankenhaus
-hat sein Verlangen zum Zeitpunkt der Aufforderung zur Verhandlung
-durch die Sozialleistungsträger, frühestens jedoch zum 31. Dezember
-des jeweiligen Vorjahres, den anderen Vertragsparteien nach § 18
-Absatz 2 Nummer 1 oder 2 schriftlich mitzuteilen. Verbindlich für alle
-Einrichtungen wird das Vergütungssystem zum 1. Januar 2015 eingeführt.
-Erstmals für das Jahr 2017 wird nach § 18 Absatz 3 Satz 3 ein
-landesweit geltender Basisentgeltwert vereinbart. Ab dem Jahr 2017
-werden der krankenhausindividuelle Basisentgeltwert und das
-Erlösbudget der Einrichtungen nach den näheren Bestimmungen der
-Bundespflegesatzverordnung schrittweise an den Landesbasisentgeltwert
-und das sich daraus ergebende Erlösvolumen angeglichen. Die
-Vertragsparteien auf Bundesebene legen dem Bundesministerium für
-Gesundheit bis zum 30. Juni 2016 einen gemeinsamen Bericht über
-Auswirkungen des neuen Entgeltsystems, erste Anwendungserfahrungen
-sowie über die Anzahl und erste Erkenntnisse zu Modellvorhaben nach §
-64b des Fünften Buches Sozialgesetzbuch vor. In den Bericht sind die
-Stellungnahmen der Fachverbände der Psychiatrie und Psychosomatik
-einzubeziehen. Das Bundesministerium für Gesundheit legt den Bericht
-dem Deutschen Bundestag vor.
+(4) Die Vertragsparteien auf Bundesebene vereinbaren die
+Grundstrukturen des Vergütungssystems sowie des Verfahrens zur
+Ermittlung der Bewertungsrelationen auf Bundesebene, insbesondere zur
+Kalkulation in einer sachgerechten Auswahl von Krankenhäusern. Nach
+Maßgabe der Sätze 3 bis 6 ersetzt das neue Vergütungssystem die bisher
+abgerechneten Entgelte nach § 17 Absatz 2. Das Vergütungssystem wird
+bis zum 1. Januar 2017 auf Verlangen des Krankenhauses eingeführt. Das
+Krankenhaus hat sein Verlangen zum Zeitpunkt der Aufforderung zur
+Verhandlung durch die Sozialleistungsträger den anderen
+Vertragsparteien nach § 18 Absatz 2 Nummer 1 oder Nummer 2 schriftlich
+oder elektronisch mitzuteilen. Verbindlich für alle Krankenhäuser wird
+das Vergütungssystem zum 1. Januar 2018 eingeführt. Bis Ende des
+Jahres 2019 wird das Vergütungssystem für die Krankenhäuser
+budgetneutral umgesetzt. Ab dem Jahr 2020 sind der
+krankenhausindividuelle Basisentgeltwert und der Gesamtbetrag nach den
+näheren Bestimmungen der Bundespflegesatzverordnung von den
+Vertragsparteien nach § 18 Absatz 2 anzupassen. Die Vertragsparteien
+auf Bundesebene legen dem Bundesministerium für Gesundheit bis zum 30.
+Juni 2019 einen gemeinsamen Bericht über die Auswirkungen des neuen
+Entgeltsystems, die ersten Anwendungserfahrungen mit dem neuen
+Entgeltsystem sowie über die Anzahl von Modellvorhaben nach § 64b des
+Fünften Buches Sozialgesetzbuch und über die ersten Erkenntnisse zu
+diesen Modellvorhaben vor. In den Bericht sind die Stellungnahmen der
+Fachverbände der Psychiatrie und Psychosomatik einzubeziehen. Das
+Bundesministerium für Gesundheit legt den Bericht dem Deutschen
+Bundestag vor.
 
 (5) Für die Finanzierung der den Vertragsparteien auf Bundesebene
 übertragenen Aufgaben gilt § 17b Abs. 5 entsprechend. Die
@@ -1391,26 +1638,28 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     fristgerecht sicherzustellen;
 
 
-3.  Leistungen nach Absatz 2 Satz 3 oder besondere Einrichtungen nach
-    Absatz 2 Satz 4 zu bestimmen, die mit dem neuen Vergütungssystem noch
-    nicht sachgerecht vergütet werden können; für diese Bereiche können
-    die anzuwendende Art der Vergütung festgelegt sowie Vorschriften zur
-    Ermittlung der Entgelthöhe und zu den vorzulegenden
-    Verhandlungsunterlagen erlassen werden.
+3.  Leistungen nach Absatz 2 Satz 3 zu bestimmen, die mit dem neuen
+    Vergütungssystem noch nicht sachgerecht vergütet werden können; für
+    diese Bereiche können die anzuwendende Art der Vergütung festgelegt
+    sowie Vorschriften zur Ermittlung der Entgelthöhe und zu den
+    vorzulegenden Verhandlungsunterlagen erlassen werden.
 
 
 
-Das Bundesministerium kann von Vereinbarungen der Vertragsparteien
-nach Absatz 3 abweichen, soweit dies für Regelungen nach Satz 1
-erforderlich ist. Es kann sich von unabhängigen Sachverständigen
-beraten lassen. Das DRG-Institut der Selbstverwaltungspartner ist
-verpflichtet, dem Bundesministerium zur Vorbereitung von Regelungen
-nach Satz 1 unmittelbar und unverzüglich nach dessen Weisungen
-zuzuarbeiten. Es ist auch im Falle einer Vereinbarung durch die
-Vertragsparteien nach Absatz 3 verpflichtet, auf Anforderung des
-Bundesministeriums Auskunft insbesondere über den Entwicklungsstand
-des Vergütungssystems, die Entgelte und deren Veränderungen sowie über
-Problembereiche und mögliche Alternativen zu erteilen.
+Das Bundesministerium für Gesundheit kann von Vereinbarungen der
+Vertragsparteien nach Absatz 3 abweichen, soweit dies für Regelungen
+nach Satz 1 erforderlich ist. Es kann sich von unabhängigen
+Sachverständigen beraten lassen. Das Institut für das Entgeltsystem im
+Krankenhaus ist verpflichtet, dem Bundesministerium für Gesundheit zur
+Vorbereitung von Regelungen nach Satz 1 unmittelbar und unverzüglich
+nach dessen Weisungen zuzuarbeiten. Es ist auch im Falle einer
+Vereinbarung durch die Vertragsparteien nach Absatz 3 verpflichtet,
+auf Anforderung des Bundesministeriums für Gesundheit Auskunft
+insbesondere über den Entwicklungsstand des Vergütungssystems, die
+Entgelte und deren Veränderungen sowie über Problembereiche und
+mögliche Alternativen zu erteilen. Kommt eine Vereinbarung nach Absatz
+1 Satz 7 nicht zustande, entscheidet auf Antrag einer Vertragspartei
+die Schiedsstelle nach § 18a Absatz 6.
 
 (7) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über die
@@ -1423,7 +1672,7 @@ Veränderung der Versorgungsstrukturen und zur Qualität der Versorgung,
 durch. Dabei sind auch die Auswirkungen auf die anderen
 Versorgungsbereiche sowie die Art und der Umfang von
 Leistungsverlagerungen zu untersuchen. § 17b Abs. 8 Satz 2 bis 4 gilt
-entsprechend. Erste Ergebnisse sind im Jahr 2014 zu veröffentlichen.
+entsprechend. Erste Ergebnisse sind im Jahr 2017 zu veröffentlichen.
 
 (9) Für Einrichtungen nach Absatz 1 Satz 1 gilt § 21 des
 Krankenhausentgeltgesetzes mit der Maßgabe, dass die Daten nach seinem
@@ -1640,7 +1889,7 @@ durch Rechtsverordnung mit Zustimmung des Bundesrates jährliche
 Erhebungen über Krankenhäuser einschließlich der in den §§ 3 und 5
 genannten Krankenhäuser und Einrichtungen als Bundesstatistik
 anzuordnen. Die Bundesstatistik auf Grundlage dieser Erhebungen kann
-folgende Sachverhalte umfassen:
+insbesondere folgende Sachverhalte umfassen:
 
 1.  Art des Krankenhauses und der Trägerschaft,
 
@@ -1682,8 +1931,8 @@ Rehabilitationsbehandlung zugelassenen Einrichtungen.
 Erhebungen über Sachverhalte des Gesundheitswesens als Landesstatistik
 anzuordnen, bleibt unberührt.
 
-(4) Das Statistische Bundesamt führt unter Verwendung der von der DRG-
-Datenstelle nach § 21 Abs. 3 Satz 1 Nr. 4 des
+(4) Das Statistische Bundesamt führt unter Verwendung der von der
+Datenstelle nach § 21 Absatz 3 Satz 1 Nummer 4 des
 Krankenhausentgeltgesetzes übermittelten Daten jährlich eine
 Auswertung als Bundesstatistik zu folgenden Sachverhalten durch:
 

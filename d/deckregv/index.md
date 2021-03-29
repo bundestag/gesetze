@@ -116,7 +116,7 @@ technische und organisatorische Maßnahmen ist sicherzustellen, dass
 der ursprüngliche Inhalt weiterhin feststellbar bleibt.
 
 
-## Teil 2 - Zusätzliche Anforderungen bei elektronischer Registerführung
+## Teil 2 - Zusätzliche Anforderungen bei elektronischer  Registerführung
 
 
 
@@ -520,19 +520,218 @@ Diese Verordnung tritt am Tag nach Verkündung in Kraft.
 
 ### Anlage 1 (zu § 9)
 
-... (nicht darstellbares Formular DR 1 Deckungsregister (Hypotheken)
-Fundstelle: BGBl. I 2006, 2078
+(Fundstelle: BGBl. I 2006, 2078
+
+
+*    *   Bezeichnung des Deckungswerts
+
+    *   Löschungen
+
+    *
+
+*    *   1
+
+    *   2a
+
+    *   2b
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *
+        a)  lfd. Nr.
+
+
+        b)  AZ
+
+
+        c)  Datum
+
+
+
+
+    *   Bezeichnung des belasteten Grundstücks oder des grundstücksgleichen
+        Rechts
+
+    *   Beleihungswert bei Indeckungnahme
+
+    *   Dingliche Sicherheit (Grundpfandrecht)
+
+    *   Gesicherte persönliche Forderung(en) (entbehrlich bei Hypothek) a), b)
+        etc.
+
+    *   Spaltennummer der zu löschenden Eintragung
+
+    *   Betrag
+
+    *   Datum Unterschrift des Treuhänders
+
+    *   Bemerkungen
+
+
+*    *   lfd. Nr. in Abt. III
+
+    *   Währung
+
+    *   Nennbetrag
+
+    *   Schuldner
+
+    *   Währung
+
+    *   Betrag
+
+    *   ggf. Darl. Nr.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
 
 
 ### Anlage 2 (zu § 11)
 
-... (nicht darstellbares Formular DR 2 Deckungsregister (Kommunal)
-Fundstelle: BGBl. I 2006, 2078
+   (Fundstelle: BGBl. I 2006, 2078)
+
+
+*    *   Bezeichnung des Deckungswerts
+
+    *   Löschungen
+
+    *
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+
+*    *
+        a)  lfd. Nr.
+
+
+        b)  AZ
+
+
+        c)  Datum
+
+
+
+
+    *   Schuldner und Darlehensnummer bzw. Wertpapierkennnummer
+
+    *   Währung und Nennbetrag des Darlehens
+
+    *   ggf. Genehmigung bzw. Gewährleistung durch
+
+    *
+        a)  gelöscht am
+
+
+        b)  Unterschrift des Treuhänders
+
+
+
+
+    *   Bemerkungen
+
+
+*    *   Währung
+
+    *   Betrag
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+
 
 
 ### Anlage 3 (zu § 13)
 
-... (nicht darstellbares Formular DR 3 Unterregister zum
+   ... (nicht darstellbares Formular DR 3 Unterregister zum
 Deckungsregister (Hypotheken)/(Kommunal)/(Schiffshypotheken)
 Fundstelle: BGBl. I 2006, 2078
 bzgl. der einzelnen Änderungen vgl. Fußnote)

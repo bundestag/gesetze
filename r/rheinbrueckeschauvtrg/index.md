@@ -4,7 +4,7 @@ Title: Gesetz zu dem Vertrag vom 5. Juni 1996 zwischen der Bundesrepublik Deutsc
   Altenheim und Eschau
 jurabk: RheinBrückEschauVtrG
 layout: default
-origslug: rheinbr_ckeschauvtrg
+origslug: rheinbrueckeschauvtrg
 slug: rheinbrueckeschauvtrg
 
 ---

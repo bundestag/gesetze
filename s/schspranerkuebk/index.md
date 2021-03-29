@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Anerkennung und Vollstreckung ausländischer Schiedssprüche
 jurabk: SchSprAnerkÜbk
 layout: default
-origslug: schspranerk_bk
+origslug: schspranerkuebk
 slug: schspranerkuebk
 
 ---

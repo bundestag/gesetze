@@ -4,7 +4,7 @@ Title: Abkommen zwischen dem Bundesminister für Wirtschaft und Finanzen der Bun
   Belgique über die gegenseitige Anrechnung von Beständen an Erdöl und Erdölerzeugnissen
 jurabk: EÖlAnrAbk BEL
 layout: default
-origslug: e_lanrabk_bel
+origslug: eoelanrabk_bel
 slug: eoelanrabk_bel
 
 ---

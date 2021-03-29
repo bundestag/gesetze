@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen zur Verhütung von Rundfunksendungen, die vo
   außerhalb der staatlichen Hoheitsgebiete gesendet werden
 jurabk: EuRFVerhÜbk
 layout: default
-origslug: eurfverh_bk
+origslug: eurfverhuebk
 slug: eurfverhuebk
 
 ---

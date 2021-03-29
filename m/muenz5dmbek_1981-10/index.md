@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Carl Reichsfreiherr vom und zum Stein)
 jurabk: Münz5DMBek 1981-10
 layout: default
-origslug: m_nz5dmbek_1981-10
+origslug: muenz5dmbek_1981-10
 slug: muenz5dmbek_1981-10
 
 ---

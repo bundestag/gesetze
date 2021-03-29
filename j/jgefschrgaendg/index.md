@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung und Ergänzung des Gesetzes über die Verbreitung ju
   Schriften
 jurabk: JgefSchrGÄndG
 layout: default
-origslug: jgefschrg_ndg
+origslug: jgefschrgaendg
 slug: jgefschrgaendg
 
 ---

@@ -5,7 +5,7 @@ Title: Verordnung zur Übertragung der Zuständigkeiten des Präsidenten der Bun
   Berlin
 jurabk: ZOZÜV
 layout: default
-origslug: zoz_v
+origslug: zozuev
 slug: zozuev
 
 ---

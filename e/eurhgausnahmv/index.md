@@ -17,7 +17,7 @@ Fundstelle
 :   eBAnz: 2010, AT41 V1
 
 Zuletzt geändert durch
-:   Art. 1 V v. 19.1.2012 eBAnz AT10 V1
+:   Art. 1 V v. 7.8.2013 BAnz AT 12.08.2013 V1
 
 
 ## Eingangsformel
@@ -73,7 +73,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Wirkstoff
 
-    *[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000402310]
+    *[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000403116]
    Code
 
     *   Erzeugnisgruppe
@@ -92,6 +92,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   0,015
 
 
+*    *   Metobromuron
+        Rückstand:
+        4-Bromphenylharnstoff
+
+    *   0251010
+
+    *   Feldsalat
+
+    *   2
+
+
 
 
     Code und Erzeugnisgruppe im Sinne des Anhangs I der Verordnung (EG)
@@ -101,4 +112,4 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     der Richtlinie 91/414/EWG des Rates (ABl. L 70 vom 16.3.2005, S. 1),
     die zuletzt durch die Verordnung (EG) Nr. 1097/2009 (ABl. L 301 vom
     17\.11.2009, S. 6) geändert worden ist.
-[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000402310]: 
+[^bjnr604100010bjne000400000_01_BJNR604100010BJNE000403116]: 

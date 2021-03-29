@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 15.8.2011 I 1730
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.7.2012 I 1583
+:   Art. 2 Abs. 8 G v. 3.5.2013 I 1084
+
+Mittelbare änderung durch
+:   Art. 1 Nr. 2 Buchst a u. Art. 1 Nr. 3 G v. 20.11.2014 I 1738 ist berücksichtigt
 
 
 ## Abschnitt 1 - Wehrpflicht
@@ -81,9 +84,7 @@ Aufenthalt
 
 #### § 2 Geltung der folgenden Vorschriften
 
-Die §§ 3 bis 53 gelten im Spannungs- oder Verteidigungsfall. Im
-Übrigen gelten sie nur, soweit dies in Abschnitt 7 bestimmt ist.
-Abschnitt 7 gilt nicht im Spannungs- oder Verteidigungsfall.
+Die §§ 3 bis 53 gelten im Spannungs- oder Verteidigungsfall.
 
 
 #### § 3 Inhalt und Dauer der Wehrpflicht
@@ -1249,7 +1250,7 @@ ausgenommen, die
 
 1.  binnen einer Woche jede Änderung ihrer Wohnung dem Kreiswehrersatzamt
     zu melden, es sei denn, sie sind innerhalb dieser Frist ihrer
-    allgemeinen Meldepflicht nach den Vorschriften der Landesmeldegesetze
+    Meldepflicht nach § 17 Absatz 1 und 2 des Bundesmeldegesetzes
     nachgekommen,
 
 
@@ -2024,176 +2025,4 @@ neu festzusetzen. Absatz 1 Satz 2 gilt entsprechend.
 30\. November 2010 geltenden Fassung verpflichtet haben, sind ab dem 1.
 Dezember 2010 auf Antrag zu entpflichten, wenn sie die von diesem Tage
 an vorgesehene Verpflichtungszeit abgeleistet haben.
-
-
-## Abschnitt 7 - Freiwilliger Wehrdienst
-
-
-
-### § 54 Freiwilliger Wehrdienst
-
-(1) Frauen und Männer, die Deutsche im Sinne des Grundgesetzes sind,
-können sich verpflichten, freiwilligen Wehrdienst nach diesem
-Abschnitt zu leisten, sofern sie hierfür tauglich sind. Der Wehrdienst
-nach Satz 1 besteht aus sechs Monaten freiwilligem Wehrdienst als
-Probezeit und bis zu 17 Monaten anschließendem freiwilligem
-zusätzlichem Wehrdienst.
-
-(2) § 10 gilt entsprechend.
-
-
-### § 55 Verpflichtung
-
-(1) Die Verpflichtungserklärung nach § 54 Absatz 1 Satz 1 bedarf der
-Schriftform. Für eine besondere Auslandsverwendung ist eine gesonderte
-schriftliche Verpflichtungserklärung erforderlich. Für eine
-Festsetzung der Dienstzeit ab zwölf Monaten ist die Abgabe der
-Verpflichtungserklärung nach Satz 2 erforderlich.
-
-(2) Die Verpflichtungserklärungen bedürfen der Annahme durch die
-Wehrersatzbehörde.
-
-(3) Die Soldatin oder der Soldat kann auf Antrag von der Verpflichtung
-nach Absatz 1 Satz 2 entbunden werden. Dem Antrag ist stattzugeben,
-wenn die besondere Verwendung im Ausland wegen persönlicher oder
-familiärer Gründe eine besondere Härte bedeuten würde.
-
-
-### § 56 Status
-
-Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die
-Ableistung des Grundwehrdienstes (§ 5) oder des freiwilligen
-zusätzlichen Wehrdienstes im Anschluss an den Grundwehrdienst (§ 6b)
-anknüpfen, sind auf Personen, die Wehrdienst nach diesem Abschnitt
-leisten, soweit keine ausdrückliche Regelung vorhanden ist,
-entsprechend anzuwenden.
-
-
-### § 57 Wehrersatzbehörden
-
-Die Aufgaben nach diesem Abschnitt werden in bundeseigener Verwaltung
-wahrgenommen. § 14 Absatz 1 gilt bis zur Neuregelung der
-Bundeswehrverwaltung entsprechend.
-
-
-### § 58 Erhebung personenbezogener Daten bei den Meldebehörden
-
-(1) Zum Zweck der Übersendung von Informationsmaterial nach Absatz 2
-Satz 1 übermitteln die Meldebehörden dem Bundesamt für Wehrverwaltung
-jährlich bis zum 31. März folgende Daten zu Personen mit deutscher
-Staatsangehörigkeit, die im nächsten Jahr volljährig werden:
-
-1.  Familienname,
-
-
-2.  Vornamen,
-
-
-3.  gegenwärtige Anschrift.
-
-
-
-Die Datenübermittlung unterbleibt, wenn die Betroffenen ihr nach § 18
-Absatz 7 des Melderechtsrahmengesetzes widersprochen haben.
-
-(2) Die erhobenen Daten dürfen nur zur Übersendung von
-Informationsmaterial über Tätigkeiten in den Streitkräften verwendet
-werden. Sie sind zu löschen, wenn die Betroffenen dies verlangen,
-spätestens jedoch nach Ablauf eines Jahres nach der erstmaligen
-Speicherung der Daten beim Bundesamt für Wehrverwaltung.
-
-
-### § 59 Beratung und Untersuchung
-
-(1) Die Wehrersatzbehörden bieten Personen, die Interesse an einem
-Wehrdienst nach diesem Abschnitt bekunden, eine persönliche Beratung
-über Tätigkeiten in den Streitkräften an.
-
-(2) Personen, die nach der Beratung weiterhin Interesse an einem
-Wehrdienst nach diesem Abschnitt bekunden, werden auf ihre
-Tauglichkeit für den Wehrdienst untersucht, sofern sie in die
-Untersuchung schriftlich eingewilligt haben.
-
-(3) Die §§ 8a, 9, 20a und 20b gelten entsprechend.
-
-(4) Ist die oder der Untersuchte nicht tauglich, sind die bei der
-Untersuchung erhobenen Daten nach Ablauf eines Jahres nach der
-Untersuchung zu löschen.
-
-(5) Für die Erstattung von Aufwendungen gilt § 11 Absatz 2 des
-Bundesreisekostengesetzes entsprechend.
-
-
-### § 60 Dienstantritt
-
-(1) Die zuständige Behörde fordert zum Antritt des freiwilligen
-Wehrdienstes nach diesem Abschnitt auf. Im Bescheid sind Ort und
-Zeitpunkt des Dienstantritts sowie die Dauer des freiwilligen
-Wehrdienstes anzugeben. Der Bescheid soll den freiwillig
-Wehrdienstleistenden vier Wochen vor dem Dienstantrittstermin bekannt
-gegeben werden.
-
-(2) Regelungen in anderen Gesetzen oder Rechtsverordnungen, die an die
-Einberufung zum Wehrdienst anknüpfen, sind auf den Bescheid zum
-Dienstantritt nach Absatz 1 entsprechend anzuwenden.
-
-
-### § 61 Beendigung des freiwilligen Wehrdienstes
-
-(1) Der Wehrdienst nach diesem Abschnitt endet durch Entlassung
-entsprechend § 29 oder durch Ausschluss entsprechend § 30.
-
-(2) Während der Probezeit des freiwilligen Wehrdienstes nach Abschnitt
-7 des Wehrpflichtgesetzes kann die Soldatin oder der Soldat zum 15.
-oder zum Letzten eines Monats entlassen werden. Die
-Entlassungsverfügung ist ihr oder ihm spätestens zwei Wochen vor dem
-Entlassungstermin bekannt zu geben. Auf schriftlichen Antrag der
-Soldatin oder des Soldaten ist sie oder er während der Probezeit
-jederzeit zu entlassen.
-
-(3) Im Fall des § 55 Absatz 3 kann die Soldatin oder der Soldat
-entlassen werden, wenn eine anderweitige Verwendung nicht möglich ist.
-
-(4) Die §§ 29a, 29b sowie 30 Absatz 1 Satz 2, Absatz 2 und 3 gelten
-entsprechend.
-
-
-### § 62 Übergangsvorschrift
-
-(1) Soldaten, die zu einem Grundwehrdienst (§ 5) einberufen worden
-sind, der über den 30. Juni 2011 hinausgeht, sind auf Antrag mit
-Ablauf dieses Tages zu entlassen. Wird ein Antrag nach Satz 1 nicht
-gestellt, gelten die Vorschriften dieses Abschnitts. Für die Soldaten,
-die zum freiwilligen zusätzlichen Wehrdienst im Anschluss an den
-Grundwehrdienst (§ 6b) einberufen worden sind, gelten ab dem 1. Juli
-2011 die Vorschriften dieses Abschnitts.
-
-(2) Bis zum 31. Dezember 2011 gilt § 58 mit der Maßgabe, dass im
-Oktober 2011 die Daten zu Personen mit deutscher Staatsangehörigkeit,
-die im Jahr 2012 volljährig werden, übermittelt werden, soweit die
-Betroffenen nicht nach § 18 Absatz 7 Satz 1 in Verbindung mit § 25 des
-Melderechtsrahmengesetzes der Übermittlung widersprochen haben.
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XIX Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1146) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Wehrpflichtgesetz in der Fassung der Bekanntmachung vom 13. Juni 1986
-    (BGBl. I S. 879), zuletzt geändert durch Artikel 1 des Gesetzes vom
-    30\. Juni 1989 (BGBl. I S. 1292),
-
-    mit folgender Maßgabe:
-
-    Die Dauer des Grundwehrdienstes nach § 5 Abs. 1 sowie dessen
-    Beendigung richten sich für die Wehrpflichtigen, die als Angehörige
-    der ehemaligen Nationalen Volksarmee in dem in Artikel 3 des Vertrages
-    genannten Gebiet zum Zeitpunkt des Beitritts Grundwehrdienst leisten,
-    nach dem bisherigen Recht der Deutschen Demokratischen Republik.
-
-
-
-...
 

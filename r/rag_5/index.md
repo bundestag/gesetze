@@ -40,29 +40,28 @@ Berechtigten, die das 65. Lebensjahr im Jahr 1962 vollendet haben.
 (1) Renten, die nach
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
 Angestelltenversicherungsgesetzes oder §§ 53ff. des
-Reichsknappschaftsgesetzes              berechnet sind, sind so
-anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung
-der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente
-ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der
-allgemeinen Bemessungsgrundlage für das Jahr 1962 und der
-Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde;
-Abweichungen infolge Abrundungen sind zulässig.
+Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß
+sich eine Rente ergibt, wie sie sich nach Anwendung der Kürzungs- und
+Ruhensvorschriften ergeben würde, wenn die Rente ohne Änderung der
+übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen
+Bemessungsgrundlage für das Jahr 1962 und der Beitragsbemessungsgrenze
+für dieses Jahr berechnet werden würde; Abweichungen infolge
+Abrundungen sind zulässig.
 § 1282 Abs. 2 der Reichsversicherungsordnung, § 59 Abs. 2 des
 Angestelltenversicherungsgesetzes und § 79 Abs. 2 des
-Reichsknappschaftsgesetzes gelten nicht.              In den Fällen,
-in denen
+Reichsknappschaftsgesetzes gelten nicht. In den Fällen, in denen
 § 1280 der Reichsversicherungsordnung, § 57 des
 Angestelltenversicherungsgesetzes, § 77 des
 Reichsknappschaftsgesetzes, Artikel 2 § 38 Abs. 3 Satz 2 zweiter
 Halbsatz des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder
 Artikel 2 § 37 Abs. 3 Satz 2 zweiter Halbsatz des
-Angestelltenversicherungs-Neuregelungsgesetzes              angewendet
-worden ist, findet Satz 1 keine Anwendung.
+Angestelltenversicherungs-Neuregelungsgesetzes angewendet worden ist,
+findet Satz 1 keine Anwendung.
 
 (2) Absatz 1 Satz 1 und 2 gelten entsprechend für Renten der
 knappschaftlichen Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
-Neuregelungsgesetzes              gezahlt werden.
+Neuregelungsgesetzes gezahlt werden.
 
 
 ## § 3

@@ -4,7 +4,7 @@ Title: Gesetz zu dem Abkommen vom 28. Mai 1969 zwischen der Bundesrepublik Deuts
   Sicherheit
 jurabk: SozSichÄndAbkTURG
 layout: default
-origslug: sozsich_ndabkturg
+origslug: sozsichaendabkturg
 slug: sozsichaendabkturg
 
 ---

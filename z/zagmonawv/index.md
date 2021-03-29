@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3591
 
+Geändert durch
+:   Art. 3 V v. 6.12.2013 I 4209
+
 
 ## Eingangsformel
 
@@ -88,12 +91,13 @@ Zahlungsinstituten mit den folgenden Formularen einzureichen:
 
 
 Zahlungsinstitute, die zugleich Kreditinstitut im Sinne des § 1 Absatz
-1 Satz 1 des Kreditwesengesetzes sind und Monatsausweise nach Maßgabe
-des § 25 des Kreditwesengesetzes in Verbindung mit der
-Monatsausweisverordnung einzureichen haben, haben anstelle der in Satz
-1 Nummer 1 und 2 genannten Formulare die Formulare aus den Anlagen 4
-und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur Verwendung des
-Formulars aus der Anlage 3 (ZVZAG) bleibt daneben bestehen.
+1 Satz 1 des Kreditwesengesetzes sind und Finanzinformationen nach
+Maßgabe des § 25 des Kreditwesengesetzes in Verbindung mit der
+Finanzinformationenverordnung einzureichen haben, haben anstelle der
+in Satz 1 Nummer 1 und 2 genannten Formulare die Formulare aus den
+Anlagen 4 und 5 (ESTZAG und EGVZAG) zu verwenden; die Pflicht zur
+Verwendung des Formulars aus der Anlage 3 (ZVZAG) bleibt daneben
+bestehen.
 
 (2) Die Monatsausweise sowie die weiteren Angaben nach § 3 sind der
 Deutschen Bundesbank jeweils nach dem Stand zum Ende des
@@ -133,7 +137,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **Aktiva**
@@ -169,7 +173,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0110 + 0120)
+*    *   **Summe:** (0110 + 0120)
 
     *   **0100**
 
@@ -248,7 +252,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0210 + 0220)
+*    *   **Summe:** (0210 + 0220)
 
     *   **0200**
 
@@ -330,7 +334,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0310 + 0320)
+*    *   **Summe:** (0310 + 0320)
 
     *   **0300**
 
@@ -364,7 +368,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0410 + 0420)
+*    *   **Summe:** (0410 + 0420)
 
     *   **0400**
 
@@ -457,7 +461,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0510+0520)
+*    *   **Summe:** (0510+0520)
 
     *   **0500**
 
@@ -492,7 +496,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0610 + 0620)
+*    *   **Summe:** (0610 + 0620)
 
     *   **0600**
 
@@ -608,7 +612,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0710 + 0720)
+*    *   **Summe:** (0710 + 0720)
 
     *   **0700**
 
@@ -724,7 +728,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0810 + 0820)
+*    *   **Summe:** (0810 + 0820)
 
     *   **0800**
 
@@ -758,7 +762,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0910 + 0920)
+*    *   **Summe:** (0910 + 0920)
 
     *   **0900**
 
@@ -792,7 +796,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (1010 + 1020)
+*    *   **Summe:** (1010 + 1020)
 
     *   **1000**
 
@@ -835,7 +839,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (1210 + 1220)
+*    *   **Summe:** (1210 + 1220)
 
     *   **1200**
 
@@ -869,7 +873,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (1310 + 1320)
+*    *   **Summe:** (1310 + 1320)
 
     *   **1300**
 
@@ -905,9 +909,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *   **1700**
 
-    *   **Summe der Aktiva**                      (0100 + 0200 + 0300 + 0400 +
-        0500 + 0600 + 0700 + 0800 + 0900 + 1000 + 1100 + 1200 + 1300 + 1400 +
-        1500 + 1600)
+    *   **Summe der Aktiva** (0100 + 0200 + 0300 + 0400 + 0500 + 0600 + 0700 +
+        0800 + 0900 + 1000 + 1100 + 1200 + 1300 + 1400 + 1500 + 1600)
 
     *   **1700**
 
@@ -917,7 +920,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *
@@ -1015,7 +1018,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (1810 + 1820)
+*    *   **Summe:** (1810 + 1820)
 
     *   **1800**
 
@@ -1086,7 +1089,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (1910 + 1920)
+*    *   **Summe:** (1910 + 1920)
 
     *   **1900**
 
@@ -1120,7 +1123,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2010 + 2020)
+*    *   **Summe:** (2010 + 2020)
 
     *   **2000**
 
@@ -1154,7 +1157,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2110 + 2120)
+*    *   **Summe:** (2110 + 2120)
 
     *   **2100**
 
@@ -1188,7 +1191,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2210 + 2220)
+*    *   **Summe:** (2210 + 2220)
 
     *   **2200**
 
@@ -1222,7 +1225,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2310 + 2320)
+*    *   **Summe:** (2310 + 2320)
 
     *   **2300**
 
@@ -1265,7 +1268,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2510 + 2520)
+*    *   **Summe:** (2510 + 2520)
 
     *   **2500**
 
@@ -1351,7 +1354,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   2812
 
-    *   **                     ./.
+    *   **./.
 
 
 *    *
@@ -1387,7 +1390,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2810 + 2820 +(./.)
+*    *   **Summe:** (2810 + 2820 +(./.)
         2830 +(./.) 2840)
 
     *   **2800**
@@ -1397,8 +1400,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *   **2900**
 
-    *   **Summe der Passiva**                      (1800 + 1900 + 2000 + 2100
-        + 2200 + 2300 + 2400 + 2500 + 2600 + 2700 + 2800)
+    *   **Summe der Passiva** (1800 + 1900 + 2000 + 2100 + 2200 + 2300 + 2400
+        + 2500 + 2600 + 2700 + 2800)
 
     *   **2900**
 
@@ -1432,7 +1435,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (3010 + 3020)
+*    *   **Summe:** (3010 + 3020)
 
     *   **3000**
 
@@ -1466,7 +1469,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (3110 + 3120)
+*    *   **Summe:** (3110 + 3120)
 
     *   **3100**
 
@@ -1488,8 +1491,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 [^F772648_01_BJNR359100009BJNE000800000]
 [^F772648_01_BJNR359100009BJNE000800000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+    Rundungsregel (5/4). Umrechnung von nicht auf Euro lautenden Aktiv-
+    und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der
@@ -1527,7 +1530,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **Übersicht Gewinn- und Verlustrechnung**
@@ -1626,7 +1629,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0110 + 0120)
+    *   **Summe:** (0110 + 0120)
 
     *   **0100**
 
@@ -1662,7 +1665,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0210 + 0220)
+    *   **Summe:** (0210 + 0220)
 
     *   **0200**
 
@@ -1778,7 +1781,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0310 + 0320)
+    *   **Summe:** (0310 + 0320)
 
     *   **0300**
 
@@ -1815,7 +1818,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0410 + 0420)
+    *   **Summe:** (0410 + 0420)
 
     *   **0400**
 
@@ -1851,7 +1854,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0510 + 0520)
+    *   **Summe:** (0510 + 0520)
 
     *   **0500**
 
@@ -1887,7 +1890,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0610 + 0620)
+    *   **Summe:** (0610 + 0620)
 
     *   **0600**
 
@@ -1923,7 +1926,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0710 + 0720)
+    *   **Summe:** (0710 + 0720)
 
     *   **0700**
 
@@ -2114,7 +2117,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0810 + 0820)
+    *   **Summe:** (0810 + 0820)
 
     *   **0800**
 
@@ -2151,7 +2154,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (0910 + 0920)
+    *   **Summe:** (0910 + 0920)
 
     *   **0900**
 
@@ -2169,7 +2172,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   ****
@@ -2209,7 +2212,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1010 + 1020)
+    *   **Summe:** (1010 + 1020)
 
     *   **1000**
 
@@ -2249,7 +2252,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1110 + 1120)
+    *   **Summe:** (1110 + 1120)
 
     *   **1100**
 
@@ -2287,7 +2290,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1210 + 1220)
+    *   **Summe:** (1210 + 1220)
 
     *   **1200**
 
@@ -2325,7 +2328,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1310 + 1320)
+    *   **Summe:** (1310 + 1320)
 
     *   **1300**
 
@@ -2362,7 +2365,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1410 + 1420)
+    *   **Summe:** (1410 + 1420)
 
     *   **1400**
 
@@ -2398,7 +2401,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1510 + 1520)
+    *   **Summe:** (1510 + 1520)
 
     *   **1500**
 
@@ -2435,7 +2438,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1610 + 1620)
+    *   **Summe:** (1610 + 1620)
 
     *   **1600**
 
@@ -2531,7 +2534,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1710 + 1720)
+    *   **Summe:** (1710 + 1720)
 
     *   **1700**
 
@@ -2567,7 +2570,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1810 + 1820)
+    *   **Summe:** (1810 + 1820)
 
     *   **1800**
 
@@ -2603,7 +2606,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (1910 + 1920)
+    *   **Summe:** (1910 + 1920)
 
     *   **1900**
 
@@ -2639,7 +2642,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (2010 + 2020)
+    *   **Summe:** (2010 + 2020)
 
     *   **2000**
 
@@ -2677,7 +2680,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (2110 + 2120)
+    *   **Summe:** (2110 + 2120)
 
     *   **2100**
 
@@ -2712,7 +2715,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 *    *
     *
-    *   **Summe:**                      (2210 + 2220)
+    *   **Summe:** (2210 + 2220)
 
     *   **2200**
 
@@ -2736,8 +2739,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 [^F772648_01_BJNR359100009BJNE000900000]
 [^F772648_01_BJNR359100009BJNE000900000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+    Rundungsregel (5/4). Umrechnung von nicht auf Euro lautenden Aktiv-
+    und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der
@@ -2775,7 +2778,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   **Zahlungsvolumen**
-        2                     )
+        2)
 
     *
 
@@ -3193,8 +3196,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
    Es sind jeweils die Beträge bzw. Stückzahlen der einzelnen
     Berichtsmonate als Summen zu melden.
 [^F772648_03_BJNR359100009BJNE001000000]: [^F772648_01_BJNR359100009BJNE001000000]:     Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+    Rundungsregel (5/4). Umrechnung von nicht auf Euro lautenden Aktiv-
+    und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der
@@ -3231,7 +3234,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **Aktiva**
@@ -3404,7 +3407,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (0410 + 0420)
+*    *   **Summe:** (0410 + 0420)
 
     *   **0400**
 
@@ -3706,7 +3709,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **Passiva**
@@ -3876,7 +3879,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   **
 
 
-*    *   **Summe:**                      (2010 + 2020)
+*    *   **Summe:** (2010 + 2020)
 
     *   **2000**
 
@@ -4004,8 +4007,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 [^F772648_01_BJNR359100009BJNE001100000]
 [^F772648_01_BJNR359100009BJNE001100000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+    Rundungsregel (5/4). Umrechnung von nicht auf Euro lautenden Aktiv-
+    und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der
@@ -4042,7 +4045,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **Übersicht Gewinn- und Verlustrechnung**
@@ -4393,7 +4396,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 
 *    *   Die angegebenen Beträge lauten auf Tsd. Euro
-        1                     )
+        1)
 
 
 *    *   **noch Gewinn- und Verlustrechnung**
@@ -4663,8 +4666,8 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 [^F772648_01_BJNR359100009BJNE001200000]
 [^F772648_01_BJNR359100009BJNE001200000]:    Angaben bitte ohne Kommastellen, Rundung nach kaufmännischer
-    Rundungsregel (5/4).              Umrechnung von nicht auf Euro
-    lautenden Aktiv- und Passivpositionen (Fremdwährungspositionen):
+    Rundungsregel (5/4). Umrechnung von nicht auf Euro lautenden Aktiv-
+    und Passivpositionen (Fremdwährungspositionen):
     Fremdwährungspositionen sind zu dem jeweils von der EZB am
     Meldestichtag festgestellten und von der Bundesbank veröffentlichten
     Referenzkurs („ESZB-Referenzkurs“) in Euro umzurechnen. Bei der

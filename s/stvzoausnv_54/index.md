@@ -58,9 +58,9 @@ Verordnung ist das
 
 2.  Nachbaurad ein Stahlscheibenrad, das dem serienmäßig angebauten und
     mit der Betriebserlaubnis
-    der                    Fahrzeuges genehmigten Rad nachgebaut ist; es
-    entspricht in allen Maßen, Werkstoff und Standfestigkeit dem vom
-    Fahrzeughersteller in Serie angebauten Rad.
+    der Fahrzeuges genehmigten Rad nachgebaut ist; es entspricht in allen
+    Maßen, Werkstoff und Standfestigkeit dem vom Fahrzeughersteller in
+    Serie angebauten Rad.
 
 
 

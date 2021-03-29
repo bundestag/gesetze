@@ -5,7 +5,7 @@ Title: Staatsvertrag zwischen dem Land Brandenburg und dem Freistaat Sachsen üb
   Freistaat Sachsen über die Änderung der gemeinsamen Landesgrenze)
 jurabk: GrÄndStVtr BB/SN
 layout: default
-origslug: gr_ndstvtr_bb_sn
+origslug: graendstvtr_bb_sn
 slug: graendstvtr_bb_sn
 
 ---

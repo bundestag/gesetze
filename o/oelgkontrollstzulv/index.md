@@ -2,7 +2,7 @@
 Title: Verordnung über die Zulassung von Kontrollstellen nach dem Öko-Landbaugesetz
 jurabk: ÖLGKontrollStZulV
 layout: default
-origslug: _lgkontrollstzulv
+origslug: oelgkontrollstzulv
 slug: oelgkontrollstzulv
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2012, 1044
+
+Geändert durch
+:   Art. 144 G v. 29.3.2017 I 626
 
 [^f776729_01_BJNR104400012]:     Diese Verordnung dient auch der Umsetzung der Richtlinie 2006/123/EG
     des Europäischen Parlaments und des Rates vom 12. Dezember 2006 über
@@ -40,12 +43,12 @@ Kontrollstellen nach § 4 Absatz 1 bis 4 des Öko-Landbaugesetzes.
 ## § 2 Antrag auf Zulassung
 
 Der Antrag auf Zulassung ist von der Kontrollstelle schriftlich oder
-in elektronischer Form bei der Bundesanstalt für Landwirtschaft und
-Ernährung (Bundesanstalt) zu stellen. Im Antrag ist anzugeben, für
-welche der in Anlage 1 aufgeführten Kontrollbereiche nach Titel IV
-Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008 der Kommission vom 5.
-September 2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr.
-834/2007 des Rates über die ökologische/biologische Produktion und die
+elektronisch bei der Bundesanstalt für Landwirtschaft und Ernährung
+(Bundesanstalt) zu stellen. Im Antrag ist anzugeben, für welche der in
+Anlage 1 aufgeführten Kontrollbereiche nach Titel IV Kapitel 2 bis 7
+der Verordnung (EG) Nr. 889/2008 der Kommission vom 5. September 2008
+mit Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des
+Rates über die ökologische/biologische Produktion und die
 Kennzeichnung von ökologischen/biologischen Erzeugnissen hinsichtlich
 der ökologischen/biologischen Produktion, Kennzeichnung und Kontrolle
 (ABl. L 250 vom 18.9.2008, S. 1), die zuletzt durch die
@@ -100,19 +103,19 @@ Artikel 63 Absatz 1 der Verordnung (EG) Nr. 889/2008 sowie bei jeder
 (3) Die Darstellung muss Muster der Unterlagen zur Durchführung der
 Kontrollbesuche durch die Kontrollstelle und zu deren Auswertung
 enthalten. Die Unterlagen müssen die Inhalte der Verordnung (EG)
-Nr. 834/2007              sowie der zu ihrer Durchführung erlassenen
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-abdecken und sollen der Dokumentation der durchzuführenden Prüfung
-dienen. Für jede bei der Kontrolle festgestellte Abweichung von den
-einschlägigen Vorschriften ist jeweils ein eigener Vordruck
-vorzusehen, in dem die Art der Abweichung eindeutig erfasst wird. Aus
-den Vordrucken muss hervorgehen, dass der Kontrollbericht und die
-festgestellten Abweichungen unmittelbar nach Abschluss des
-Kontrollbesuchs von dem für die Betriebseinheit verantwortlichen
-Unternehmer oder seinem Bevollmächtigten mit der Möglichkeit, Stellung
-zu nehmen, gegengezeichnet werden. Es ist ein Verfahren zu
-dokumentieren, aus dem hervorgeht, dass eine Kopie des gesamten
-Kontrollberichts nach Unterzeichnung beim Kontrollierten verbleibt.
+Nr. 834/2007 sowie der zu ihrer Durchführung erlassenen Rechtsakte der
+Europäischen Gemeinschaft oder der Europäischen Union abdecken und
+sollen der Dokumentation der durchzuführenden Prüfung dienen. Für jede
+bei der Kontrolle festgestellte Abweichung von den einschlägigen
+Vorschriften ist jeweils ein eigener Vordruck vorzusehen, in dem die
+Art der Abweichung eindeutig erfasst wird. Aus den Vordrucken muss
+hervorgehen, dass der Kontrollbericht und die festgestellten
+Abweichungen unmittelbar nach Abschluss des Kontrollbesuchs von dem
+für die Betriebseinheit verantwortlichen Unternehmer oder seinem
+Bevollmächtigten mit der Möglichkeit, Stellung zu nehmen,
+gegengezeichnet werden. Es ist ein Verfahren zu dokumentieren, aus dem
+hervorgeht, dass eine Kopie des gesamten Kontrollberichts nach
+Unterzeichnung beim Kontrollierten verbleibt.
 
 (4) Die Darstellung muss ein Muster des von der Kontrollstelle
 verwendeten Auswertungsschreibens, das dem Unternehmer von der
@@ -138,10 +141,10 @@ gefährdet werden.
 Verfahrensanweisung enthalten, die vorsieht, dass die Kontrollstelle,
 soweit ihr die Zuständigkeit nach Artikel 45 Absatz 4 der Verordnung
 (EG)
-Nr. 889/2008              übertragen wird, die von ihr erteilten
-Genehmigungen nach Artikel 54 Absatz 1 Satz 1 der Verordnung (EG) Nr.
-889/2008 in die Datenbank im Sinne des Artikels 48 der Verordnung (EG)
-Nr. 889/2008 einträgt.
+Nr. 889/2008 übertragen wird, die von ihr erteilten Genehmigungen nach
+Artikel 54 Absatz 1 Satz 1 der Verordnung (EG) Nr. 889/2008 in die
+Datenbank im Sinne des Artikels 48 der Verordnung (EG) Nr. 889/2008
+einträgt.
 
 (7) Dem Antrag ist ein Muster für den Kontrollvertrag beizufügen, den
 die Kontrollstelle mit den Unternehmern abzuschließen beabsichtigt.
@@ -244,8 +247,8 @@ Kommission vom 11. Juli 2002 zur Festlegung gemeinschaftlicher
 Probenahmemethoden zur amtlichen Kontrolle von Pestizidrückständen in
 und auf Erzeugnissen pflanzlichen und tierischen Ursprungs und zur
 Aufhebung der Richtlinie
-79/700/EWG              (ABl. L 187 vom 16.7.2002, S. 30, L 171 vom
-5\.5.2004, S. 3) in der jeweils gültigen Fassung zu berücksichtigen.
+79/700/EWG (ABl. L 187 vom 16.7.2002, S. 30, L 171 vom 5.5.2004, S. 3)
+in der jeweils gültigen Fassung zu berücksichtigen.
 
 (3) Für jede Probenahme ist eine Dokumentation im Kontrollbericht
 vorzusehen.
@@ -394,18 +397,18 @@ Union oder einem anderen Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum inländischen Nachweisen gleich, wenn aus
 ihnen hervorgeht, dass das Personal die Anforderungen des Absatzes 1
 Nummer 2
-bis 4              erfüllt oder die auf Grund ihrer Zielsetzung im
-Wesentlichen vergleichbaren Anforderungen des Ausstellungsstaates
-erfüllt sind. Nachweise im Sinne des Satzes 1 sind der Bundesanstalt
-bei Antragstellung im Original oder in Kopie vorzulegen. Eine
-Beglaubigung der Kopie sowie eine beglaubigte deutsche Übersetzung
-können verlangt werden.
+bis 4 erfüllt oder die auf Grund ihrer Zielsetzung im Wesentlichen
+vergleichbaren Anforderungen des Ausstellungsstaates erfüllt sind.
+Nachweise im Sinne des Satzes 1 sind der Bundesanstalt bei
+Antragstellung im Original oder in Kopie vorzulegen. Eine Beglaubigung
+der Kopie sowie eine beglaubigte deutsche Übersetzung können verlangt
+werden.
 
 
 ## § 12 Zulassung
 
 (1) Die Entscheidung über den Antrag der Kontrollstelle ergeht durch
-schriftlichen Bescheid.
+schriftlichen oder elektronischen Bescheid.
 
 (2) Die Zulassung wird der Kontrollstelle entsprechend ihrem Antrag
 und ihrer im Antrag dargestellten personellen und technischen
@@ -444,9 +447,9 @@ Kontrollbefähigung auf andere Weise aufrechterhalten wird.
 (6) Nach Zulassung einer Kontrollstelle erfolgt die Zulassung weiterer
 für die Kontrolle vorgesehener Personen oder der Änderung des
 Tätigkeitsumfangs der für die Kontrolle vorgesehenen Personen von der
-Bundesanstalt durch schriftlichen Bescheid. Das Ausscheiden von für
-die Kontrolle vorgesehenen Personen wird ebenfalls durch schriftlichen
-Bescheid festgestellt.
+Bundesanstalt durch schriftlichen oder elektronischen Bescheid. Das
+Ausscheiden von für die Kontrolle vorgesehenen Personen wird ebenfalls
+durch schriftlichen oder elektronischen Bescheid festgestellt.
 
 
 ## § 13 Verfahrensvorschriften
@@ -529,8 +532,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2)
 
-## Anlage 1 (zu § 2) Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
+## Anlage 1 Kontrollbereiche nach Titel IV Kapitel 2 bis 7 der Verordnung (EG) Nr. 889/2008, für die eine Zulassung nach § 2 Satz 2 beantragt wird
 
 (Fundstelle: BGBl. I 2012, 1049)
 
@@ -593,8 +597,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 8)
 
-## Anlage 2 (zu § 8) Zuteilung der alphanumerischen Identifikationsnummer
+## Anlage 2 Zuteilung der alphanumerischen Identifikationsnummer
 
 (Fundstelle: BGBl. I 2012, 1050)
 
@@ -721,8 +726,9 @@ zuzuteilen:
 
 
 
+(zu § 10)
 
-## Anlage 3 (zu § 10) Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
+## Anlage 3 Maßnahmenkatalog zur Anwendung bei Abweichungen von den einschlägigen Vorschriften
 
 (Fundstelle: BGBl. I 2012, 1051 - 1061)
 
@@ -1739,8 +1745,7 @@ zuzuteilen:
 
     *   Aquakultur allgemein
 
-    *   Die umweltbezogene Prüfung für Neuanlagen*                        20 t
-        liegt nicht vor.
+    *   Die umweltbezogene Prüfung für Neuanlagen* 20 t liegt nicht vor.
 
     *   Artikel 6b Absatz 3 der Verordnung
         (EG) Nr. 889/2008
@@ -2334,7 +2339,7 @@ zuzuteilen:
     *   Artikel 32 Absatz 1 Buchstabe a oder Artikel 33 Absatz 1 Buchstabe a
         der Verordnung
         (EG) Nr. 834/07
-        i. V. m.                        Artikel 19 der Verordnung
+        i. V. m. Artikel 19 der Verordnung
         (EG) Nr. 1235/2008, Artikel 15 der Verordnung
         (EG) Nr. 1235/2008
 
@@ -2418,8 +2423,9 @@ zuzuteilen:
 
 
 
+(zu § 11)
 
-## Anlage 4 (zu § 11) Anforderungen an das Kontrollstellenpersonal
+## Anlage 4 Anforderungen an das Kontrollstellenpersonal
 
 (Fundstelle: BGBl. I 2011, 1062 - 1064)
 

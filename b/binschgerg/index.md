@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1952, 641
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 6 G v. 26.3.2007 I 358
+:   Art. 8 G v. 20.4.2013 I 831
 
 
 ## Erster Abschnitt - Allgemeine Verfahrensvorschriften
@@ -58,8 +58,10 @@ f)  Ansprüche wegen Zahlung der Lotsen-, Kran-, Waage-, Hafen- und
     Bohlwerksgebühren oder -vergütungen und ihres Betrages;
 
 
+g)  (weggefallen)
 
-g)
+
+
 Dies gilt nicht für Rechtsstreitigkeiten über Ansprüche aus einem
 Vorfall, an dem ein Seeschiff beteiligt ist, wenn
 
@@ -71,8 +73,8 @@ Vorfall, an dem ein Seeschiff beteiligt ist, wenn
 2.  der Vorfall sich auf anderen Binnengewässern außer dem Rhein und der
     Mosel ereignet hat, sofern der Anspruch auf Ersatz des Schadens
     gerichtet ist, der den Schiffen oder den an Bord befindlichen Personen
-    oder Sachen durch einen Schiffszusammenstoß oder durch ein unter §
-    738c des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
+    oder Sachen durch einen Schiffszusammenstoß oder durch ein unter § 572
+    des Handelsgesetzbuchs fallendes Ereignis zugefügt worden ist.
 
 
 
@@ -115,8 +117,8 @@ zuständig wären. Vorbehaltlich einer abweichenden Vereinbarung ist
 örtlich zuständig
 
 *   in den Fällen des § 2 Abs. 1 Buchstaben a bis d
-    und g                    nur das Gericht, in dessen Bezirk sich die
-    den Anspruch begründende Tatsache ereignet hat;
+    und g nur das Gericht, in dessen Bezirk sich die den Anspruch
+    begründende Tatsache ereignet hat;
 
     in den Fällen des § 2 Abs. 1 Buchstabe e nur das Gericht, in dessen
     Bezirk die Bergung bewirkt worden ist;
@@ -255,7 +257,7 @@ vom 17. Oktober 1868 und den §§ 15 bis 18 dieses Gesetzes nichts
 anderes ergibt.
 
 (2) Rheinschiffahrtssachen sind nur die in den Artikeln 34 und 34
-\* Kl bis  der Revidierten Rheinschiffahrtsakte bezeichneten
+* Kl bis  der Revidierten Rheinschiffahrtsakte bezeichneten
 bürgerlichen Rechtsstreitigkeiten und Straf- sowie Bußgeldsachen, die
 sich auf Vorgänge auf dem Rhein abwärts von der deutsch-
 schweizerischen Grenze bei Basel beziehen. Ein bürgerlicher

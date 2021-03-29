@@ -3,7 +3,7 @@ Title: Gesetz über den Einfluß von Eignungsübungen der Streitkräfte auf Vert
   der Arbeitnehmer und Handelsvertreter sowie auf Beamtenverhältnisse
 jurabk: EÜG
 layout: default
-origslug: e_g
+origslug: eueg
 slug: eueg
 
 ---
@@ -191,12 +191,12 @@ gewährt wird.
 (4) Der Vorbereitungsdienst wird um die Zeit der Eignungsübung
 verlängert. Die Verzögerungen, die sich aus der Verlängerung des
 Vorbereitungsdiensts
-für den Beginn des Diätendienstalters und              im Fall der
-unmittelbaren Anstellung für den Beginn des Besoldungsdienstalters
-oder, bei Beamten und Richtern des Bundes, für den Beginn der
-Erfahrungszeit ergeben, sind auszugleichen. Die
-außerplanmäßige Mindestdienstzeit              und die Probezeit
-werden um die Zeit der Verzögerung gekürzt.
+für den Beginn des Diätendienstalters und im Fall der unmittelbaren
+Anstellung für den Beginn des Besoldungsdienstalters oder, bei Beamten
+und Richtern des Bundes, für den Beginn der Erfahrungszeit ergeben,
+sind auszugleichen. Die
+außerplanmäßige Mindestdienstzeit und die Probezeit werden um die Zeit
+der Verzögerung gekürzt.
 
 (5) Bleibt der Beamte oder Richter im Anschluß an die Eignungsübung
 als freiwilliger Soldat in den Streitkräften, so ist er mit der

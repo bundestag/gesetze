@@ -16,7 +16,7 @@ Fundstelle
 :   GBl DDR I: 1990, 66
 
 Zuletzt geändert durch
-:   Art. 1 u. 2 G v. 19.12.2006 I 3230
+:   Art. 586 V v. 31.8.2015 I 1474
 
 
 ## (XXXX) §§ 1 bis 20 (weggefallen)
@@ -83,8 +83,8 @@ des Bundesrates die treuhänderische Verwaltung nach den Absätzen 2 und
 3 auf eine Stelle des Bundes oder eine juristische Person des
 Privatrechts übertragen. Die Rechts- und Fachaufsicht obliegt dem
 Bundesministerium der Finanzen, das die Fachaufsicht im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie und dem
-jeweils zuständigen Bundesministerium wahrnimmt.
+mit dem Bundesministerium für Wirtschaft und Energie und dem jeweils
+zuständigen Bundesministerium wahrnimmt.
 
 
 ## (XXXX) §§ 21 bis 24 (weggefallen)

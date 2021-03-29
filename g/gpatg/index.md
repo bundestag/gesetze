@@ -81,10 +81,10 @@ Patentübereinkommen bleibt unberührt.
 
 (3) Ist der Anmeldetag der letzte Tag eines Monats, so verlängert sich
 die Frist zur Entrichtung der Jahresgebühr (§
-11              Abs. 3 Satz 1 des Patentgesetzes) für
-Patentanmeldungen, die vor Inkrafttreten dieses Gesetzes beim
-Deutschen Patentamt bereits eingereicht worden sind, und für die
-darauf erteilten Patente um einen Tag.
+11 Abs. 3 Satz 1 des Patentgesetzes) für Patentanmeldungen, die vor
+Inkrafttreten dieses Gesetzes beim Deutschen Patentamt bereits
+eingereicht worden sind, und für die darauf erteilten Patente um einen
+Tag.
 
 (4) § 4 Abs. 3, § 5 Satz 3 bis 5, § 11a Abs. 2, die §§ 12a, 15 Abs. 1
 Satz 2, die §§ 18, 30 bis 36 Abs. 1 Satz 1 des Patentgesetzes sowie
@@ -98,10 +98,10 @@ bei den bisher geltenden Vorschriften.
 (5) Für die bereits vor Inkrafttreten dieses Gesetzes beim Deutschen
 Patentamt eingereichten Patentanmeldungen, deren Bekanntmachung noch
 nicht beschlossen worden ist, ist anstelle der in §
-30              des Patentgesetzes angeführten §§
-26, 26b              und
-26c              des Patentgesetzes § 26 des Patentgesetzes in der
-bisherigen Fassung anzuwenden.
+30 des Patentgesetzes angeführten §§
+26, 26b und
+26c des Patentgesetzes § 26 des Patentgesetzes in der bisherigen
+Fassung anzuwenden.
 
 
 ### Art 13 Anhängige gerichtliche Verfahren
@@ -122,9 +122,9 @@ bei der bisher geltenden Vorschrift.
 § 4 des Gesetzes über die Gebühren des Patentamts und des
 Patentgerichts vom 18. August 1976 (BGBl. I S. 2188),
 geändert durch Artikel 2 des Gesetzes vom 29. Januar 1979 (BGBl. I S.
-125)             , ist auf Anträge gemäß §
-28b              des Patentgesetzes zu Patentanmeldungen, die vor dem
-1\. November 1976 eingereicht worden sind, wie folgt anzuwenden:
+125), ist auf Anträge gemäß §
+28b des Patentgesetzes zu Patentanmeldungen, die vor dem 1. November
+1976 eingereicht worden sind, wie folgt anzuwenden:
 
 1.  Sind der Antrag und die Gebührenzahlung bis zum 3. August 1979
     eingegangen, so gilt nur die Gebühr nach den bis zum 1. November 1976

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 1088
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.4.2010 I 434
+:   Art. 3 V v. 4.12.2016 I 2853
 
 
 ## Eingangsformel
@@ -242,6 +242,9 @@ In den Vorbereitungsdienst kann eingestellt werden, wer
 
 
 
+Das Auswärtige Amt kann andere Fremdsprachen, für die es zur Erfüllung
+seiner Aufgaben erheblichen Bedarf sieht, als weitere Ersatzsprachen
+für Französisch zulassen.
 
 
 ### § 5 Ausschreibung, Bewerbung
@@ -394,6 +397,13 @@ Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zulässig.
 (8) Je ein Mitglied des Personalrats und der
 Schwerbehindertenvertretung sowie die Gleichstellungsbeauftragte des
 Auswärtigen Amts wirken im Rahmen ihrer gesetzlichen Aufgaben mit.
+
+(9) Im Falle einer erfolglosen Teilnahme am mündlichen
+Auswahlverfahren ist einmalig eine erneute Bewerbung frühestens für
+das Auswahlverfahren im vierten darauffolgenden Kalenderjahr zulässig.
+In begründeten Einzelfällen kann der Auswahlausschuss eine frühere
+oder weitere Wiederbewerbung zulassen. Im Falle der Wiederzulassung
+ist das gesamte Auswahlverfahren erneut zu durchlaufen.
 
 
 ### § 7 Einstellung in den Vorbereitungsdienst

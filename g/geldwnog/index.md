@@ -137,9 +137,9 @@ zu äußern, ob die tatsächlichen Angaben, auf die der Vorstand
 gründet, daß das Kapitalentwertungskonto fristgemäß ausgeglichen
 werden kann, richtig und vollständig sind. Im übrigen sind auf die
 Neufestsetzung des Nennkapitals §§ 40 bis 42, 48 bis 53, 55,
-57 bis 59              und 73 Abs. 1 bis 3 des D-Markbilanzgesetzes
-sinngemäß anzuwenden; ferner ist § 39 des D-Markbilanzgesetzes
-sinngemäß anzuwenden.
+57 bis 59 und 73 Abs. 1 bis 3 des D-Markbilanzgesetzes sinngemäß
+anzuwenden; ferner ist § 39 des D-Markbilanzgesetzes sinngemäß
+anzuwenden.
 
 (3) Hat eine Aktiengesellschaft oder eine Kommanditgesellschaft auf
 Aktien vor der Eintragung des Beschlusses über die vorläufige
@@ -168,12 +168,10 @@ Deutsche Mark lautende Aktien umgetauscht oder abgestempelt worden
 oder sind vor der Anpassung des Sammelbestandes Aktien aus dem
 Sammelbestand ausgeliefert worden, so hat die Gesellschaft zum
 Umtausch oder zur Abstempelung dieser Aktien nach §
-67              Abs. 1 und 2 des Aktiengesetzes aufzufordern. Mit den
-an Stelle der für kraftlos erklärten Aktien auszugebenden neuen Aktien
-ist nach §
-67              Abs. 3 des Aktiengesetzes, soweit Spitzenbeträge
-verbleiben, nach §
-179              Abs. 3 des Aktiengesetzes zu verfahren.
+67 Abs. 1 und 2 des Aktiengesetzes aufzufordern. Mit den an Stelle der
+für kraftlos erklärten Aktien auszugebenden neuen Aktien ist nach §
+67 Abs. 3 des Aktiengesetzes, soweit Spitzenbeträge verbleiben, nach §
+179 Abs. 3 des Aktiengesetzes zu verfahren.
 
 (4) Ein auf Grund des Absatzes 1 gefaßter Beschluß ist nur wirksam,
 wenn die Neufestsetzung des Nennkapitals vor Ablauf des 30. September

@@ -3,7 +3,7 @@ Title: Verordnung über das Verbot des Befahrens der Neustädter Bucht mit besti
   Fahrzeugen
 jurabk: NeustädterBuchtFzgV
 layout: default
-origslug: neust_dterbuchtfzgv
+origslug: neustaedterbuchtfzgv
 slug: neustaedterbuchtfzgv
 
 ---
@@ -17,7 +17,13 @@ Fundstelle
 :   VkBl: 2009, 143
 
 Neugefasst durch
-:   Bek v. 30.5.2012 VkBl 495
+:   Bek v. 30.5.2012 VkBl 495;
+
+Zuletzt geändert durch
+:   Art. 1 V v. 21.3.2018 BAnz AT 28.03.2018 V2
+
+Die v tritt gem. § 7 mit ablauf des 31.3.2015 außer kraft. die geltung der v ist durch
+:   § 7 idF d. Art. 1 V v. 23.2.2015 VkBl 2015, 118 über den 31.3.2015 hinaus bis zum 31.3.2018 u. durch § 7 idF d. Art. 1 V v. 21.3.2018 BAnz AT 28.03.2018 V2 über den 31.3.2018 hinaus bis zum 31.3.2021 hinaus verlängert worden.
 
 [^BJNR71431009_01_BJNR714310009]:     Die Verpflichtung aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -71,8 +77,9 @@ teilweise untersagen.
 (1) Ergibt die nach § 2 Absatz 1 angeordnete Messung des
 Schalldruckpegels, dass der Grenzwert überschritten wird, darf der
 Eigner sein Fahrzeug in der Neustädter Bucht erst einsetzen, wenn er
-dem Wasser- und Schifffahrtsamt Lübeck die künftige Einhaltung des
-Grenzwertes nachweist.
+dem von der Generaldirektion Wasserstraßen und Schifffahrt im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und
+Schifffahrtsamt die künftige Einhaltung des Grenzwertes nachweist.
 
 (2) Der Nachweis ist durch eine vom Eigner des Fahrzeuges zu
 veranlassende Bescheinigung einer zur Durchführung der Messung des
@@ -88,21 +95,21 @@ Bescheinigung
 
 
 
-[^BJNR71431009BJNE000400000_01_BJNR714310009BJNE000402305]
 (3) Dem Eigner sind die zum Zwecke der Durchführung der Messung des
 Schalldruckpegels erforderlichen Fahrten in der Neustädter Bucht nach
 Maßgabe des Satzes 2 gestattet. Der Eigner hat diese Fahrten unter
 Angabe des Namens des Fahrzeuges sowie der beabsichtigten Fahrtstrecke
-und Fahrtdauer in Textform dem Wasser- und Schifffahrtsamt Lübeck
-in der Zeit von Montag bis Donnerstag während der Geschäftszeiten
-spätestens einen Tag vor der beabsichtigten Fahrt anzuzeigen. Das
-Wasser- und Schifffahrtsamt Lübeck kann im Einzelfall eine angezeigte
-Fahrt ganz oder teilweise untersagen, soweit dies erforderlich ist, um
-von der Seeschifffahrt ausgehende schädliche Umwelteinwirkungen im
-Sinne des Bundes-Immissionsschutzgesetzes zu verhüten.
-
-[^BJNR71431009BJNE000400000_01_BJNR714310009BJNE000402305]:     amtlicher Hinweis: WSA Lübeck, Moltkeplatz 17, 23566 Lübeck; FAX:
-    0451-6208190; E-mail: wsa-luebeck@wsv.bund.de
+und Fahrtdauer in Textform dem von der Generaldirektion Wasserstraßen
+und Schifffahrt im Verkehrsblatt oder Bundesanzeiger bekanntgemachten
+Wasserstraßen- und Schifffahrtsamt in der Zeit von Montag bis
+Donnerstag während der Geschäftszeiten spätestens einen Tag vor der
+beabsichtigten Fahrt anzuzeigen. Das von der Generaldirektion
+Wasserstraßen und Schifffahrt im Verkehrsblatt oder Bundesanzeiger
+bekanntgemachte Wasserstraßen- und Schifffahrtsamt kann im Einzelfall
+eine angezeigte Fahrt ganz oder teilweise untersagen, soweit dies
+erforderlich ist, um von der Seeschifffahrt ausgehende schädliche
+Umwelteinwirkungen im Sinne des Bundes-Immissionsschutzgesetzes zu
+verhüten.
 
 
 ## § 4
@@ -153,5 +160,5 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 ## § 7
 
 Diese Verordnung tritt am 01. April 2009 in Kraft und mit Ablauf des
-31\. März 2015 außer Kraft.
+31\. März 2021 außer Kraft.
 

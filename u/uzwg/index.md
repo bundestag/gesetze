@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1961, 165
 
 Zuletzt geändert durch
-:   Art. 28 V v. 31.10.2006 I 2407
+:   Art. 4 G v. 24.5.2016 I 1217
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften über den unmittelbaren Zwang
@@ -93,15 +93,15 @@ Vollzugsbeamte des Bundes nach diesem Gesetz sind
     Bundesfinanzbehörden, die mit Vollzugsaufgaben betraut sind;
 
 
-
-3\.
-
-4.  die Beamten der Wasser- und Schiffahrtsverwaltung des Bundes mit
-    strom- und schiffahrtspolizeilichen Befugnissen;
+3.  (weggefallen)
 
 
+4.  die Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+    mit strom- und schifffahrtspolizeilichen Befugnissen;
 
-5\.
+
+5.  (weggefallen)
+
 
 6.  die Beauftragten des Bundesamtes für Güterverkehr, soweit sie mit
     Überwachungsaufgaben nach den §§ 11 bis 13 des
@@ -193,9 +193,10 @@ nur gestattet
 3.  (weggefallen)
 
 
-4.  den Beamten der Wasser- und Schiffahrtsverwaltung des Bundes mit
-    strom- und schiffahrtspolizeilichen Befugnissen nach näherer Anweisung
-    des Bundesministeriums für Verkehr, Bau und Stadtentwicklung;
+4.  den Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+    mit strom- und schifffahrtspolizeilichen Befugnissen nach näherer
+    Anweisung des Bundesministeriums für Verkehr und digitale
+    Infrastruktur;
 
 
 5.  (weggefallen)
@@ -411,5 +412,5 @@ im Land Berlin.
 
 (1) Dieses Gesetz tritt am 1. April 1961 in Kraft.
 
-(2) ...
+(2) (Aufhebungsvorschrift)
 

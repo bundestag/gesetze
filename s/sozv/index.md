@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 1591
 
-Geändert durch
-:   Art. 4 G v. 3.7.2008 I 1185
+Zuletzt geändert durch
+:   Art. 292 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2000/84/EG
 desEuropäischen Parlaments und des Rates vom 19. Januar 2001
@@ -55,7 +55,7 @@ mitteleuropäischer Sommerzeit) wird mit 2A und die zweite Stunde (von
 
 ## § 3
 
-Das Bundesministerium für Wirtschaft und Technologie gibt im
+Das Bundesministerium für Wirtschaft und Energie gibt im
 Bundesanzeiger für jeweils fünf aufeinanderfolgende Jahre Beginn und
 Ende der Sommerzeit bekannt.
 

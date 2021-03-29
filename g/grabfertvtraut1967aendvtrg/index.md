@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 27. April 1983 zur Änderung des Vertrags vom 3
   bei Staustufen und Grenzbrücken ergeben
 jurabk: GrAbfertVtrAUT1967ÄndVtrG
 layout: default
-origslug: grabfertvtraut1967_ndvtrg
+origslug: grabfertvtraut1967aendvtrg
 slug: grabfertvtraut1967aendvtrg
 
 ---

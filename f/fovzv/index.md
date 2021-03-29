@@ -75,8 +75,9 @@ Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 1)
 
-## Anlage 1 (zu § 1 Abs. 1) Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
+## Anlage 1 Anforderungen an die Zulassung von Ausgangsmaterial unter den Kategorien "Ausgewählt", "Qualifiziert" und "Geprüft"
 
 (Fundstelle des Originaltextes: BGBl. I 2002, 4722 - 4726)
 
@@ -922,8 +923,9 @@ Mindestanforderungen für die Zulassung unter der Kategorie "Geprüft"
 
 
 
+(zu § 1 Abs. 2)
 
-## Anlage 2 (zu § 1 Abs. 2) Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
+## Anlage 2 Anforderungen an die Zulassung von Ausgangsmaterial unter der Kategorie "Quellengesichert"
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
@@ -939,8 +941,9 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4727
 
 
 
+(zu § 2)
 
-## Anlage 3 (zu § 2) Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
+## Anlage 3 Angaben im Register über zugelassenes Ausgangsmaterial gemäß § 6 Abs. 1 des Forstvermehrungsgutgesetzes (FoVG)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4728 - 2729
 

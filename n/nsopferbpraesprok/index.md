@@ -2,7 +2,7 @@
 Title: Proklamation des Bundespräsidenten
 jurabk: NSOpferBPräsProk
 layout: default
-origslug: nsopferbpr_sprok
+origslug: nsopferbpraesprok
 slug: nsopferbpraesprok
 
 ---

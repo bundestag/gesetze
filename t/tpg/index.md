@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1997, 2631
 
 Neugefasst durch
-:   Bek. v. 4.9.2007 I 2206
+:   Bek. v. 4.9.2007 I 2206;
 
 Zuletzt geändert durch
-:   Art. 2a G v. 19.10.2012 I 2192
+:   Art. 2 G v. 18.7.2017 I 2757
 
 
 ## Eingangsformel
@@ -51,7 +51,8 @@ Handels mit menschlichen Organen oder Geweben.
 (3) Dieses Gesetz gilt nicht für
 
 1.  Gewebe, die innerhalb ein und desselben chirurgischen Eingriffs einer
-    Person entnommen werden, um auf diese rückübertragen zu werden,
+    Person entnommen werden, um auf diese ohne Änderung ihrer stofflichen
+    Beschaffenheit rückübertragen zu werden,
 
 
 2.  Blut und Blutbestandteile.
@@ -170,7 +171,9 @@ Grundlage dieses Gesetzes die Bevölkerung aufklären über
 3.  die Bedeutung der Organ- und Gewebeübertragung im Hinblick auf den für
     kranke Menschen möglichen Nutzen einer medizinischen Anwendung von
     Organen und Geweben einschließlich von aus Geweben hergestellten
-    Arzneimitteln.
+    Arzneimitteln und die Bedeutung der Erhebung
+    transplantationsmedizinischer Daten im Transplantationsregister nach
+    Abschnitt 5a.
 
 
 
@@ -569,7 +572,7 @@ werden, nachdem der Tod des möglichen Organ- oder Gewebespenders nach
 § 3 Abs. 1 Satz 1 Nr. 2 festgestellt ist.
 
 
-## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden Spendern
+## Abschnitt 3 - Entnahme von Organen und Geweben bei lebenden  Spendern
 
 
 ### § 8 Entnahme von Organen und Geweben
@@ -597,8 +600,8 @@ Abweichendes bestimmt ist, nur zulässig, wenn
 
 
 2.  die Übertragung des Organs oder Gewebes auf den vorgesehenen Empfänger
-    nach ärztlicher Beurteilung geeignet ist, das Lebens dieses Menschen
-    zu erhalten oder bei ihm eine schwerwiegende Krankheit zu heilen, ihre
+    nach ärztlicher Beurteilung geeignet ist, das Leben dieses Menschen zu
+    erhalten oder bei ihm eine schwerwiegende Krankheit zu heilen, ihre
     Verschlimmerung zu verhüten oder ihre Beschwerden zu lindern,
 
 
@@ -856,15 +859,17 @@ untersuchten, aufbereiteten, be- oder verarbeiteten, konservierten,
 aufbewahrten, abgegebenen oder anderweitig verwendeten, eingeführten
 und ausgeführten Gewebe sowie des Ursprungs- und des Bestimmungsortes
 der Gewebe und macht eine Darstellung ihrer Tätigkeit öffentlich
-zugänglich. Sie übermittelt der zuständigen Bundesoberbehörde jährlich
-einen Bericht mit den Angaben zu Art und Menge der entnommenen,
-aufbereiteten, be- oder verarbeiteten, aufbewahrten, abgegebenen oder
-anderweitig verwendeten, eingeführten und ausgeführten Gewebe. Der
-Bericht erfolgt auf einem Formblatt, das die Bundesoberbehörde
-herausgegeben und im Bundesanzeiger bekannt gemacht hat. Das Formblatt
-kann auch elektronisch zur Verfügung gestellt und genutzt werden. Der
-Bericht ist nach Ablauf des Kalenderjahres, spätestens bis zum 1. März
-des folgenden Jahres zu übermitteln. Die zuständige Bundesoberbehörde
+zugänglich. Sie übermittelt innerhalb der Fristen nach Satz 5 der
+zuständigen Bundesoberbehörde jährlich einen Bericht mit den Angaben
+zu Art und Menge der entnommenen, aufbereiteten, be- oder
+verarbeiteten, aufbewahrten, abgegebenen oder anderweitig verwendeten
+sowie der eingeführten und ausgeführten Gewebe einschließlich des
+Ursprungs- und des Bestimmungsstaates der Gewebe. Der Bericht erfolgt
+auf einem Formblatt, das die Bundesoberbehörde herausgegeben und im
+Bundesanzeiger bekannt gemacht hat. Das Formblatt kann auch
+elektronisch zur Verfügung gestellt und genutzt werden. Der Bericht
+ist nach Ablauf des Kalenderjahres, spätestens bis zum 1. März des
+folgenden Jahres zu übermitteln. Die zuständige Bundesoberbehörde
 stellt die von den Gewebeeinrichtungen übermittelten Angaben
 anonymisiert in einem Gesamtbericht zusammen und macht diesen
 öffentlich bekannt. Ist der Bericht einer Gewebeeinrichtung
@@ -885,33 +890,8 @@ verpflichtet, eine Qualitätssicherung für die nach § 8d Abs. 1 Satz 2
 Nr. 3 vorgeschriebenen Laboruntersuchungen sicherzustellen.
 
 
-### § 8f Register über Gewebeeinrichtungen
+### § 8f (weggefallen)
 
-(1) Das Deutsche Institut für Medizinische Dokumentation und
-Information führt ein öffentlich zugängliches Register über die im
-Geltungsbereich dieses Gesetzes tätigen Gewebeeinrichtungen und stellt
-seinen laufenden Betrieb sicher. Das Register enthält Angaben zu den
-Gewebeeinrichtungen und ihrer Erreichbarkeit sowie zu den Tätigkeiten,
-für die jeweils die Herstellungserlaubnis, die Erlaubnis für die Be-
-oder Verarbeitung, Konservierung, Lagerung oder das Inverkehrbringen
-oder die Einfuhrerlaubnis nach den Vorschriften des
-Arzneimittelgesetzes erteilt worden ist. Die zuständigen Behörden der
-Länder übermitteln dem Deutschen Institut für Medizinische
-Dokumentation und Information die Angaben nach Satz 2. Das Deutsche
-Institut für Medizinische Dokumentation und Information kann für die
-Benutzung des Registers Entgelte verlangen. Der Entgeltkatalog bedarf
-der Zustimmung des Bundesministeriums für Gesundheit im Benehmen mit
-dem Bundesministerium der Finanzen. Von der Zahlung von Entgelten sind
-die zuständigen Behörden der Länder und die Europäische Kommission
-befreit.
-
-(2) Das Bundesministerium für Gesundheit kann durch Rechtsverordnung
-mit Zustimmung des Bundesrates die in das Register aufzunehmenden
-Angaben nach Absatz 1 Satz 2 im Einzelnen bestimmen sowie Näheres zu
-ihrer Übermittlung durch die zuständigen Behörden der Länder und der
-Benutzung des Registers regeln. In der Rechtsverordnung kann auch eine
-Übermittlung der Angaben an Einrichtungen und Behörden innerhalb und
-außerhalb des Geltungsbereichs dieses Gesetzes vorgesehen werden.
 
 
 ## Abschnitt 4 - Entnahme, Vermittlung und Übertragung von Organen, Zusammenarbeit bei der Entnahme von Organen und Geweben
@@ -1101,6 +1081,25 @@ die erforderliche Qualität der Organübertragung zu sichern.
 
 § 9a Absatz 2 Nummer 2 und 3 gilt entsprechend.
 
+(3) Die nach Absatz 2 Satz 1 Nummer 1 für die Organvermittlung
+erforderlichen Angaben sind von einem Arzt oder einer von diesem
+beauftragten Person zu erheben, zu dokumentieren und an die
+Vermittlungsstelle nach Maßgabe des § 13 Absatz 3 Satz 3 zu
+übermitteln. Den in Satz 1 genannten Personen ist es verboten,
+
+1.  für eine Meldung nach § 13 Absatz 3 Satz 3 den Gesundheitszustand
+    eines Patienten unrichtig zu erheben oder unrichtig zu dokumentieren
+    oder
+
+
+2.  bei der Meldung nach § 13 Absatz 3 Satz 3 einen unrichtigen
+    Gesundheitszustand eines Patienten zu übermitteln,
+
+
+
+um Patienten bei der Führung der einheitlichen Warteliste nach § 12
+Absatz 3 Satz 2 zu bevorzugen.
+
 
 ### § 10a Organ- und Spendercharakterisierung, Transport von Organen, Verordnungsermächtigung zur Organ- und Spendercharakterisierung und zum Transport
 
@@ -1267,7 +1266,7 @@ Vertrag nach Absatz 2.
 die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
 Krankenhausträger gemeinsam und die Koordinierungsstelle regeln durch
 Vertrag das Nähere zu den Aufgaben der Koordinierungsstelle mit
-Wirkung für die Transplantationscentren und die Entnahmekrankenhäuser.
+Wirkung für die Transplantationszentren und die Entnahmekrankenhäuser.
 Der Vertrag regelt insbesondere
 
 1.  die Anforderungen an die im Zusammenhang mit einer Organentnahme zum
@@ -1284,7 +1283,7 @@ Der Vertrag regelt insbesondere
 
 
 4.  den Ersatz angemessener Aufwendungen der Koordinierungsstelle für die
-    Erfüllung ihrer Aufgaben nach diesen Gesetz einschließlich der
+    Erfüllung ihrer Aufgaben nach diesem Gesetz einschließlich der
     Abgeltung von Leistungen, die Entnahmekrankenhäuser im Rahmen der
     Organentnahme erbringen,
 
@@ -1299,7 +1298,7 @@ Der Vertrag regelt insbesondere
 
 
 Der Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
-privaten Krankenversicherung.
+Privaten Krankenversicherung.
 
 (3) Der Vertrag nach den Absätzen 1 und 2 sowie seine Änderung bedarf
 der Genehmigung durch das Bundesministerium für Gesundheit und ist im
@@ -1466,6 +1465,12 @@ Transplantationszentren. Der Vertrag regelt insbesondere
     Gesetzes erlassenen Rechtsverordnungen,
 
 
+3b. die Übermittlung von Daten an die Transplantationsregisterstelle nach
+    § 15e bei Organen, die im Rahmen eines internationalen Austausches in
+    den Geltungsbereich oder aus dem Geltungsbereich dieses Gesetzes
+    vermittelt worden sind,
+
+
 4.  die Überprüfung von Vermittlungsentscheidungen in regelmäßigen
     Abständen,
 
@@ -1488,7 +1493,7 @@ Transplantationszentren. Der Vertrag regelt insbesondere
 
 
 Der Vertrag nach Satz 1 bedarf des Einvernehmens mit dem Verband der
-privaten Krankenversicherung.
+Privaten Krankenversicherung.
 
 (5) Der Vertrag nach den Absätzen 1 und 4 sowie seine Änderung bedarf
 der Genehmigung durch das Bundesministerium für Gesundheit und ist im
@@ -1514,7 +1519,7 @@ zur Arbeitsweise und zum Verfahren regelt der Vertrag nach Absatz 4.
 (6) (weggefallen)
 
 
-## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung, Datenschutz, Fristen
+## Abschnitt 5 - Meldungen, Dokumentation, Rückverfolgung,  Datenschutz, Fristen
 
 
 ### § 13 Dokumentation, Rückverfolgung, Verordnungsermächtigung zur Meldung schwerwiegender Zwischenfälle und schwerwiegender unerwünschter Reaktionen
@@ -1583,7 +1588,7 @@ mit Zustimmung des Bundesrates das Verfahren regeln
 
 
 
-### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen Versorgung
+### § 13a Dokumentation übertragener Gewebe durch Einrichtungen der medizinischen  Versorgung
 
 Die Einrichtungen der medizinischen Versorgung haben dafür zu sorgen,
 dass für Zwecke der Rückverfolgung oder für Zwecke der Risikoerfassung
@@ -1655,7 +1660,10 @@ Stellungnahme nach § 8 Abs. 3 Satz 2, die an der Mitteilung,
 Unterrichtung oder Übermittlung nach § 9a Absatz 2 Nummer 1 und § 11
 Abs. 4 sowie die an der Organ- oder Gewebeentnahme, der
 Organvermittlung oder -übertragung oder der Gewebeabgabe oder
--übertragung beteiligten Personen dürfen personenbezogene Daten der
+-übertragung beteiligten Personen sowie die Personen, die bei der
+Transplantationsregisterstelle nach § 15b Absatz 2 und bei der
+Vertrauensstelle nach § 15c Absatz 1 Satz 2 personenbezogene Daten
+erheben, verarbeiten oder nutzen, dürfen personenbezogene Daten der
 Spender und der Empfänger nicht offenbaren. Dies gilt auch für
 personenbezogene Daten von Personen, die nach § 3 Abs. 3 Satz 1 über
 die beabsichtigte oder nach § 4 oder § 4a über eine in Frage kommende
@@ -1664,10 +1672,10 @@ dieses Gesetzes erhobenen personenbezogenen Daten dürfen für andere
 als in diesem Gesetz genannte Zwecke nicht verwendet werden. Sie
 dürfen für gerichtliche Verfahren verwendet werden, deren Gegenstand
 die Verletzung des Offenbarungsverbots nach Satz 1 oder 2 ist. Die in
-Absatz 1 Satz 1 genannten Stellen haben technische und
-organisatorische Maßnahmen zu treffen, damit die Daten gegen
-unbefugtes Hinzufügen, Löschen oder Verändern geschützt sind und keine
-unbefugte Weitergabe erfolgt.
+Absatz 1 Satz 1 sowie in § 15b und § 15c genannten Stellen haben
+technische und organisatorische Maßnahmen zu treffen, damit die Daten
+gegen unbefugtes Hinzufügen, Löschen oder Verändern geschützt sind und
+keine unbefugte Weitergabe erfolgt.
 
 (2a) Ärzte und anderes wissenschaftliches Personal des
 Entnahmekrankenhauses, des Transplantationszentrums, der
@@ -1719,8 +1727,9 @@ Nr. 4, § 8b Abs. 1 und 2, § 8c Abs. 1 Nr. 1 Buchstabe b und Abs. 2 und
 3 und zur gutachtlichen Stellungnahme nach § 8 Abs. 3 Satz 2 sowie die
 Dokumentationen der Organentnahme, -vermittlung und -übertragung und
 die nach § 10a erhobenen Angaben zur Organ- und
-Spendercharakterisierung sind mindestens 30 Jahre aufzubewahren, um
-eine lückenlose Rückverfolgung der Organe zu ermöglichen.
+Spendercharakterisierung sind, soweit § 15h nichts anderes bestimmt,
+mindestens 30 Jahre aufzubewahren, um eine lückenlose Rückverfolgung
+der Organe zu ermöglichen.
 
 (2) Die nach § 8d Absatz 2 zu dokumentierenden Angaben müssen
 mindestens 30 Jahre lang nach Ablauf des Verfalldatums des Gewebes und
@@ -1732,7 +1741,633 @@ verfügbar sein.
 die Angaben zu löschen oder zu anonymisieren.
 
 
-## Abschnitt 5a - Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft, Verordnungsermächtigung
+## Abschnitt 5a - Transplantationsregister
+
+
+### § 15a Zweck des Transplantationsregisters
+
+Zur Verbesserung der Datengrundlage für die
+transplantationsmedizinische Versorgung und Forschung sowie zur
+Erhöhung der Transparenz in der Organspende und Transplantation wird
+ein Transplantationsregister eingerichtet, insbesondere
+
+1.  zur Weiterentwicklung der Regeln zur Aufnahme in die Warteliste nach §
+    10 Absatz 2 Satz 1 Nummer 2,
+
+
+2.  zur Weiterentwicklung der Organ- und Spendercharakterisierung und
+    ihrer Bewertung nach § 10a Absatz 1 Satz 1 und 4,
+
+
+3.  zur Weiterentwicklung der Konservierung, Aufbereitung, Aufbewahrung
+    und Beförderung der Organe nach § 16 Absatz 1 Satz 1 Nummer 4
+    Buchstabe b,
+
+
+4.  zur Bewertung schwerwiegender Zwischenfälle und schwerwiegender
+    unerwünschter Reaktionen,
+
+
+5.  zur Weiterentwicklung der Regeln für die Organvermittlung nach § 12
+    Absatz 3 Satz 1,
+
+
+6.  zur Verbesserung der Qualität in der transplantationsmedizinischen
+    Versorgung und Nachsorge sowie
+
+
+7.  zur Unterstützung der Überwachung der Organspende und Transplantation.
+
+
+
+
+
+### § 15b Transplantationsregisterstelle
+
+(1) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam beauftragen eine geeignete Einrichtung mit
+der Errichtung und dem Betrieb einer Transplantationsregisterstelle.
+Die Transplantationsregisterstelle muss auf Grund einer finanziell und
+organisatorisch eigenständigen Trägerschaft, der Qualifikation ihrer
+Mitarbeiter sowie ihrer sachlichen und technischen Ausstattung
+gewährleisten, dass sie die ihr nach diesem Abschnitt übertragenen
+Aufgaben erfüllen kann.
+
+(2) Die Transplantationsregisterstelle führt das
+Transplantationsregister. Sie hat insbesondere
+
+1.  die nach § 15e Absatz 1 übermittelten Daten zu erheben, zu speichern
+    und auf Plausibilität, Vollständigkeit und Vollzähligkeit zu
+    überprüfen und, soweit erforderlich, die übermittelnden Stellen über
+    die Vertrauensstelle zur Berichtigung oder Ergänzung der übermittelten
+    Daten aufzufordern,
+
+
+2.  aus den übermittelten Daten einer Organspende und Transplantation
+    Datensätze zu erstellen, diese zu pflegen und fortzuschreiben,
+
+
+3.  die Daten nach § 15f und § 15g zu übermitteln sowie
+
+
+4.  einen jährlichen Tätigkeitsbericht über ihre Arbeit, einschließlich
+    Angaben zur Vollzähligkeit der übermittelten Daten, zu
+    veröffentlichen.
+
+
+
+Die von der Vertrauensstelle nach § 15c Absatz 2 Satz 1 übermittelten
+Daten hat die Transplantationsregisterstelle abweichend von Satz 2
+
+1.  getrennt von den nach Satz 2 Nummer 1 erhobenen Daten zu speichern und
+
+
+2.  nach § 15f Absatz 1 und § 15g Absatz 1 zu übermitteln.
+
+
+
+
+(3) Die Transplantationsregisterstelle unterhält zur Erfüllung ihrer
+Aufgaben und zur Unterstützung des Fachbeirats nach § 15d eine
+Geschäftsstelle.
+
+(4) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam und die Transplantationsregisterstelle
+regeln im Einvernehmen mit dem Verband der Privaten
+Krankenversicherung durch Vertrag das Nähere zu den Aufgaben, zu dem
+Betrieb und zu der Finanzierung der Transplantationsregisterstelle mit
+Wirkung für die zur Übermittlung der transplantationsmedizinischen
+Daten nach § 15e Absatz 1 Satz 1 Verpflichteten, insbesondere
+
+1.  das Nähere zur Arbeitsweise der Geschäftsstelle nach Absatz 3,
+
+
+2.  die Anforderungen an die Erhebung, Verarbeitung und Übermittlung der
+    Daten nach Absatz 2 Satz 2 Nummer 1 bis 3,
+
+
+3.  die Anforderungen an die Prüfung von Plausibilität, Vollständigkeit
+    und Vollzähligkeit der Daten nach Absatz 2 Satz 2 Nummer 1,
+
+
+4.  die Zusammenarbeit mit der Vertrauensstelle nach § 15c,
+
+
+5.  die Unterstützung der Transplantationszentren sowie der mit der
+    Nachsorge betrauten Einrichtungen und Ärzte in der ambulanten
+    Versorgung,
+
+
+6.  Maßnahmen zur Einhaltung der Anforderungen an den Datenschutz nach §
+    14 Absatz 2 Satz 5,
+
+
+7.  das Nähere zum Austausch anonymisierter Daten mit anderen
+    wissenschaftlichen Registern nach § 15g Absatz 3,
+
+
+8.  die angemessene Finanzierung der Transplantationsregisterstelle aus
+    Mitteln der gesetzlichen Krankenversicherung,
+
+
+9.  das Nähere zur Datenübermittlung nach § 15g Absatz 1 und 2 sowie
+
+
+10. einheitliche Vorgaben für den Tätigkeitsbericht nach Absatz 2 Satz 2
+    Nummer 4 und den Bericht nach § 15g Absatz 4.
+
+
+
+Die private Krankenversicherungswirtschaft kann sich an der
+Finanzierung der Transplantationsregisterstelle beteiligen. Der
+Vertrag kann auch eine stufenweise Aufnahme des Betriebs der
+Transplantationsregisterstelle vorsehen. Für Regelungen nach Satz 1
+Nummer 2, 4, 6, 7 und 9 ist das Einvernehmen mit der oder dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+herzustellen.
+
+(5) Der Vertrag sowie seine Änderung bedürfen der Genehmigung durch
+das Bundesministerium für Gesundheit und sind im Bundesanzeiger
+bekannt zu machen. Die Genehmigung ist zu erteilen, wenn der Vertrag
+oder seine Änderung den Vorschriften dieses Gesetzes und sonstigem
+Recht entspricht.
+
+(6) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam überwachen die Einhaltung der
+Vertragsbestimmungen.
+
+(7) Für die Transplantationsregisterstelle sind die §§ 21 und 24 bis
+26 des Bundesdatenschutzgesetzes anzuwenden.
+
+
+### § 15c Vertrauensstelle
+
+(1) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam beauftragen eine unabhängige
+Vertrauensstelle, die von der Transplantationsregisterstelle räumlich,
+technisch, organisatorisch und personell getrennt ist. Die
+Vertrauensstelle pseudonymisiert die personenbezogenen Organspender-
+und Organempfängerdaten. Die Vertrauensstelle ist zur
+Wiederherstellung des Personenbezugs der Daten berechtigt, soweit dies
+zwingend erforderlich ist
+
+1.  zur Erfüllung der Aufgaben der Transplantationsregisterstelle nach §
+    15b Absatz 2 Satz 2 Nummer 1,
+
+
+2.  zur Erfüllung der Aufgaben der Kommissionen nach § 11 Absatz 3 Satz 4
+    und § 12 Absatz 5 Satz 4 oder
+
+
+3.  zur Ausübung des Auskunftsrechts des Betroffenen hinsichtlich der
+    Verarbeitung seiner personenbezogenen Daten durch die
+    Transplantationsregisterstelle.
+
+
+
+Die Vertrauensstelle hat eine Wiederherstellung des Personenbezugs der
+Daten gegenüber der Transplantationsregisterstelle und die Weitergabe
+des der Pseudonymisierung dienenden Kennzeichens an Dritte
+auszuschließen.
+
+(2) Die Vertrauensstelle hat die ihr nach § 15e Absatz 8 übermittelten
+transplantationsmedizinischen Daten zusammenzuführen, sicherzustellen,
+dass die Daten nicht mehr personenbeziehbar sind, und danach diese
+Daten an die Transplantationsregisterstelle zu übermitteln. Nach der
+Übermittlung der Daten an die Transplantationsregisterstelle sind die
+Daten bei der Vertrauensstelle unverzüglich zu löschen.
+
+(3) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam und die Vertrauensstelle regeln im
+Einvernehmen mit dem Verband der Privaten Krankenversicherung durch
+Vertrag das Nähere zu den Aufgaben der Vertrauensstelle nach Absatz 1
+Satz 2 bis 4 und Absatz 2, zum Verfahren der Datenpseudonymisierung
+nach Absatz 1 Satz 2 und zum Verfahren der Zusammenführung der Daten
+nach Absatz 2 Satz 1 sowie zur Finanzierung der Vertrauensstelle aus
+Mitteln der gesetzlichen Krankenversicherung. Über die Regelungen zu
+den Aufgaben der Vertrauensstelle und zum Verfahren der
+Datenpseudonymisierung nach Absatz 1 Satz 2 und der Zusammenführung
+der Daten nach Absatz 2 Satz 1 ist das Einvernehmen mit der oder dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+herzustellen. Die private Krankenversicherungswirtschaft kann sich an
+der Finanzierung der Vertrauensstelle beteiligen. Bei der Festlegung
+des Verfahrens der Datenpseudonymisierung nach Absatz 1 Satz 2 und der
+Zusammenführung der Daten nach Absatz 2 Satz 1 ist das Bundesamt für
+Sicherheit in der Informationstechnik zu beteiligen.
+
+(4) Der Vertrag sowie seine Änderung bedürfen der Genehmigung durch
+das Bundesministerium für Gesundheit und sind im Bundesanzeiger
+bekannt zu machen. Die Genehmigung ist zu erteilen, wenn der Vertrag
+oder seine Änderung den Vorschriften dieses Gesetzes und sonstigem
+Recht entspricht.
+
+(5) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam überwachen die Einhaltung der
+Vertragsbestimmungen.
+
+(6) Für die Vertrauensstelle sind die §§ 21 und 24 bis 26 des
+Bundesdatenschutzgesetzes anzuwenden.
+
+
+### § 15d Fachbeirat
+
+(1) Bei der Transplantationsregisterstelle wird ein Fachbeirat
+eingerichtet. Dem Fachbeirat gehören an jeweils zwei Vertreter
+
+1.  der Koordinierungsstelle nach § 11 Absatz 1 Satz 2,
+
+
+2.  der Vermittlungsstelle nach § 12 Absatz 1 Satz 1,
+
+
+3.  des Gemeinsamen Bundesausschusses nach § 91 des Fünften Buches
+    Sozialgesetzbuch,
+
+
+4.  der Kommission nach § 11 Absatz 3 Satz 4,
+
+
+5.  der Kommission nach § 12 Absatz 5 Satz 4,
+
+
+6.  der Deutschen Transplantationsgesellschaft und
+
+
+7.  der Patientenorganisationen, die in der
+    Patientenbeteiligungsverordnung genannt oder nach ihr anerkannt sind.
+
+
+
+Weitere Experten können im Einzelfall hinzugezogen werden. Der
+Fachbeirat zieht die wissenschaftlichen medizinischen
+Fachgesellschaften bei der Erarbeitung und bei der Fortschreibung des
+bundesweit einheitlichen Datensatzes nach § 15e Absatz 5 hinzu.
+
+(2) Der Fachbeirat berät und unterstützt die
+Transplantationsregisterstelle und die Vertrauensstelle. Er ist
+insbesondere zu beteiligen
+
+1.  bei der Festlegung der Verfahrensordnung für die Datenübermittlung an
+    die Transplantationsregisterstelle nach § 15e Absatz 4 Satz 2 und
+
+
+2.  bei der Festlegung der Verfahrensordnung für die Datenübermittlung
+    durch die Transplantationsregisterstelle nach § 15f Absatz 2 Satz 2.
+
+
+
+Der Fachbeirat schlägt den bundesweit einheitlichen Datensatz sowie
+dessen Fortschreibung nach § 15e Absatz 5 Satz 2 vor. Bei Anträgen auf
+Übermittlung von Daten zu Forschungszwecken nach § 15g Absatz 2 Satz 3
+ist der Fachbeirat anzuhören.
+
+(3) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam im Einvernehmen mit dem Verband der
+Privaten Krankenversicherung geben dem Fachbeirat eine
+Geschäftsordnung. Die Geschäftsordnung regelt insbesondere das Nähere
+zur Zusammensetzung, zur Arbeitsweise und zum Verfahren.
+
+
+### § 15e Datenübermittlung an die Transplantationsregisterstelle und an die Vertrauensstelle
+
+(1) Zur Übermittlung transplantationsmedizinischer Daten an die
+Transplantationsregisterstelle sind verpflichtet:
+
+1.  die Koordinierungsstelle nach § 11 Absatz 1 Satz 2,
+
+
+2.  die Vermittlungsstelle nach § 12 Absatz 1 Satz 1,
+
+
+3.  die Transplantationszentren,
+
+
+4.  der Gemeinsame Bundesausschuss nach § 91 des Fünften Buches
+    Sozialgesetzbuch sowie
+
+
+5.  die mit der Nachsorge betrauten Einrichtungen und Ärzte in der
+    ambulanten Versorgung.
+
+
+
+Die mit der Nachsorge betrauten Einrichtungen und Ärzte in der
+ambulanten Versorgung können abweichend von Satz 1 die zu
+übermittelnden Daten an das Transplantationszentrum melden, in dem die
+Organübertragung vorgenommen wurde. Das Transplantationszentrum
+übermittelt diese Daten an die Transplantationsregisterstelle.
+
+(2) Die an die Transplantationsregisterstelle nach Absatz 1 zu
+übermittelnden transplantationsmedizinischen Daten sind die
+transplantationsmedizinischen Daten von in die Warteliste
+aufgenommenen Patienten, Organempfängern und Organspendern,
+insbesondere
+
+1.  die für die Aufnahme in die Warteliste nach § 10 Absatz 2 Satz 1
+    Nummer 2 in Verbindung mit § 16 Absatz 1 Satz 1 Nummer 2
+    erforderlichen Daten der in die Warteliste aufgenommenen Patienten,
+
+
+2.  die nach der Aufnahme in die Warteliste von den
+    Transplantationszentren erhobenen transplantationsmedizinisch
+    relevanten Daten der in die Warteliste aufgenommenen Patienten,
+
+
+3.  die für die Organvermittlung nach § 12 Absatz 3 Satz 1 in Verbindung
+    mit § 16 Absatz 1 Satz 1 Nummer 5 erforderlichen Daten der in die
+    Warteliste aufgenommenen Patienten und verstorbenen Organspender,
+
+
+4.  die Daten des lebenden Organspenders, die im Rahmen der ärztlichen
+    Beurteilung nach § 8 Absatz 1 Satz 1 Nummer 1 Buchstabe c erhoben
+    werden,
+
+
+5.  die für die Organ- und Spendercharakterisierung nach § 10a Absatz 1
+    Satz 1 und 4 erforderlichen Daten der verstorbenen und lebenden
+    Organspender,
+
+
+6.  die Daten der Entnahme, der Konservierung, der Verpackung, der
+    Kennzeichnung und des Transports, die auf Grundlage der
+    Verfahrensanweisungen nach § 11 Absatz 1a Satz 2 Nummer 6 und 7 in
+    Verbindung mit § 16 Absatz 1 Satz 1 Nummer 4 Buchstabe b dokumentiert
+    werden,
+
+
+7.  die Daten der Organübertragung von Organen verstorbener und lebender
+    Organspender,
+
+
+8.  die Daten, die im Rahmen der stationären und ambulanten Nachsorge der
+    Organempfänger und lebenden Organspender erhoben werden, sowie
+
+
+9.  die Daten der Qualitätssicherung, die in den Richtlinien des
+    Gemeinsamen Bundesausschusses nach § 136 Absatz 1 Satz 1 Nummer 1 des
+    Fünften Buches Sozialgesetzbuch festgelegt worden sind,
+
+
+
+soweit diese Daten zur Erreichung der Zwecke des
+Transplantationsregisters nach § 15a erforderlich sind.
+
+(3) Die personenbezogenen Daten sind vor der Übermittlung an die
+Transplantationsregisterstelle der Vertrauensstelle nach § 15c zur
+Pseudonymisierung zuzuleiten.
+
+(4) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam legen im Einvernehmen mit dem Verband der
+Privaten Krankenversicherung und der oder dem Bundesbeauftragten für
+den Datenschutz und die Informationsfreiheit das Verfahren für die
+Übermittlung der Daten, einschließlich der erstmaligen und laufenden
+Übermittlung, in einer Verfahrensordnung fest. Der Fachbeirat nach §
+15d ist zu beteiligen.
+
+(5) Die Übermittlung transplantationsmedizinischer Daten an die
+Transplantationsregisterstelle erfolgt auf der Grundlage des
+bundesweit einheitlichen Datensatzes. Der bundesweit einheitliche
+Datensatz sowie dessen Fortschreibung werden von dem Spitzenverband
+Bund der Krankenkassen, der Bundesärztekammer und der Deutschen
+Krankenhausgesellschaft oder den Bundesverbänden der Krankenhausträger
+gemeinsam im Einvernehmen mit dem Verband der Privaten
+Krankenversicherung und der oder dem Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit auf Vorschlag des Fachbeirats
+nach § 15d vereinbart. Dabei sind die Richtlinien der
+Bundesärztekammer nach § 16 Absatz 1 Satz 1 und die Richtlinien und
+Beschlüsse des Gemeinsamen Bundesausschusses nach den §§ 136 bis 136c
+des Fünften Buches Sozialgesetzbuch zu beachten. Der bundesweit
+einheitliche Datensatz ist vom Bundesministerium für Gesundheit im
+Bundesanzeiger bekannt zu machen.
+
+(6) Die Übermittlung der personenbezogenen Daten eines in die
+Warteliste aufgenommenen Patienten oder eines Organempfängers ist nur
+zulässig, wenn eine ausdrückliche Einwilligung des in die Warteliste
+aufgenommenen Patienten oder des Organempfängers vorliegt. Die
+Übermittlung der personenbezogenen Daten von einem lebenden
+Organspender ist nur zulässig, wenn eine ausdrückliche Einwilligung
+des lebenden Organspenders vorliegt. Der in die Warteliste
+aufgenommene Patient, der Organempfänger und der lebende Organspender
+sind durch einen Arzt im Transplantationszentrum über die Bedeutung
+und Tragweite der Einwilligung aufzuklären. Sie sind insbesondere
+darüber aufzuklären, dass im Fall des Widerrufs ihrer
+datenschutzrechtlichen Einwilligung nach Absatz 7 die bis dahin
+übermittelten Daten weiter verarbeitet werden dürfen. Übermittelt ein
+Transplantationszentrum die von ihm erhobenen
+transplantationsmedizinischen Daten eines in die Warteliste
+aufgenommenen Patienten, eines Organempfängers oder eines lebenden
+Organspenders an die Vermittlungsstelle nach § 13 Absatz 3 Satz 3 oder
+an den Gemeinsamen Bundesausschuss auf der Grundlage von Richtlinien
+nach § 136 Absatz 1 Satz 1 Nummer 1 des Fünften Buches
+Sozialgesetzbuch, so ist auch die jeweilige Stelle über die erfolgte
+Aufklärung und die erklärte Einwilligung des in die Warteliste
+aufgenommenen Patienten, des Organempfängers oder des lebenden
+Organspenders zu unterrichten. Wird ein in die Warteliste
+aufgenommener Patient, ein Organempfänger oder ein lebender
+Organspender durch eine mit der Nachsorge betraute Einrichtung oder
+durch einen Arzt in der ambulanten Versorgung im Rahmen der Nachsorge
+weiterbehandelt, so hat das Transplantationszentrum die Einrichtung
+oder den Arzt über die erfolgte Aufklärung und über die erklärte
+Einwilligung des in die Warteliste aufgenommenen Patienten, des
+Organempfängers oder des lebenden Organspenders zu unterrichten.
+
+(7) Im Falle eines Widerrufs der Einwilligung nach Absatz 6 können die
+an die Transplantationsregisterstelle übermittelten Daten weiter
+verarbeitet werden, sofern dies für die Zwecke des
+Transplantationsregisters nach § 15a erforderlich ist.
+
+(8) Die Koordinierungsstelle nach § 11 Absatz 1 Satz 2, die
+Vermittlungsstelle nach § 12 Absatz 1 Satz 1 und der Gemeinsame
+Bundesausschuss nach § 91 des Fünften Buches Sozialgesetzbuch sind
+verpflichtet, die transplantationsmedizinischen Daten nach Absatz 2,
+die seit dem 1. Januar 2006 bis einschließlich 31. Oktober 2016
+erhoben wurden, abweichend von Absatz 6 auf der Grundlage des
+bundeseinheitlichen Datensatzes nach Absatz 5 an die Vertrauensstelle
+zu übermitteln. Die Übermittlung der transplantationsmedizinischen
+Daten nach Satz 1 ist nur zulässig, wenn die personenbezogenen Daten
+der Patienten, die in die Warteliste aufgenommen worden sind, und die
+personenbezogenen Daten der Organspender und Organempfänger vor der
+Übermittlung an die Vertrauensstelle in einem Verfahren so verändert
+worden sind, dass die jeweils übermittelnde Stelle einen Personenbezug
+nicht mehr herstellen kann, eine Zusammenführung der Daten in der
+Vertrauensstelle jedoch möglich ist. Der Spitzenverband Bund der
+Krankenkassen, die Bundesärztekammer und die Deutsche
+Krankenhausgesellschaft oder die Bundesverbände der Krankenhausträger
+gemeinsam und die Vertrauensstelle legen im Einvernehmen mit dem
+Verband der Privaten Krankenversicherung und mit der oder dem
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit
+das Nähere zu dem Verfahren nach Satz 2 und zur Übermittlung der Daten
+in einer Verfahrensordnung fest. Bei der Festlegung des Verfahrens ist
+das Bundesamt für Sicherheit in der Informationstechnik zu beteiligen.
+
+
+### § 15f Datenübermittlung durch die Transplantationsregisterstelle
+
+(1) Die Transplantationsregisterstelle übermittelt
+
+1.  der Koordinierungsstelle die zur Erfüllung ihrer Aufgaben,
+    insbesondere der Weiterentwicklung der Organ- und
+    Spendercharakterisierung sowie ihrer Bewertung nach § 10a Absatz 1
+    Satz 1 und der Bewertung schwerwiegender Zwischenfälle und
+    schwerwiegender unerwünschter Reaktionen, erforderlichen Daten,
+
+
+2.  der Vermittlungsstelle die zur Weiterentwicklung der Organvermittlung
+    nach § 12 Absatz 3 Satz 1 erforderlichen Daten,
+
+
+3.  der Bundesärztekammer die zur Fortschreibung der Richtlinien nach § 16
+    Absatz 1 Satz 1 erforderlichen Daten,
+
+
+4.  den Kommissionen nach § 11 Absatz 3 Satz 4 und § 12 Absatz 5 Satz 4
+    die zur Erfüllung ihrer Überwachungstätigkeit erforderlichen Daten,
+
+
+5.  den Transplantationszentren die zur Erfüllung ihrer jeweiligen
+    Verpflichtung nach § 135a Absatz 1 des Fünften Buches Sozialgesetzbuch
+    zur Sicherung und Weiterentwicklung der Qualität der von ihnen
+    erbrachten transplantationsmedizinischen Leistungen erforderlichen
+    Daten,
+
+
+6.  dem Gemeinsamen Bundesausschuss nach § 91 des Fünften Buches
+    Sozialgesetzbuch die zur Weiterentwicklung von Richtlinien und
+    Beschlüssen zur Qualitätssicherung für transplantationsmedizinische
+    Leistungen nach den §§ 136 bis 136c des Fünften Buches
+    Sozialgesetzbuch erforderlichen Daten sowie
+
+
+7.  den zuständigen Behörden der Länder die zur Erfüllung ihrer Aufgaben
+    bei der Zulassung von Transplantationszentren nach § 10 Absatz 1 und
+    im Rahmen der Überwachung der Vorschriften dieses Gesetzes und auf
+    Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlichen
+    Daten.
+
+
+
+Die Daten können in einem automatisierten Abrufverfahren übermittelt
+werden. Das automatisierte Abrufverfahren darf nur eingerichtet
+werden, soweit die beteiligten Stellen die nach § 14 Absatz 2 Satz 5
+erforderlichen technischen und organisatorischen Maßnahmen getroffen
+haben. Die Verantwortung für die Zulässigkeit des einzelnen Abrufs
+trägt die abrufende Stelle. Die Transplantationsregisterstelle
+dokumentiert Anlass und Zweck des einzelnen Abrufs. Sie überprüft die
+Zulässigkeit der Abrufe durch geeignete Stichprobenverfahren und im
+Übrigen nur, wenn dazu Anlass besteht. Die Stellen nach Satz 1 dürfen
+die Daten ausschließlich für ihre jeweils in Satz 1 genannten Zwecke
+verarbeiten und nutzen.
+
+(2) Der Spitzenverband Bund der Krankenkassen, die Bundesärztekammer
+und die Deutsche Krankenhausgesellschaft oder die Bundesverbände der
+Krankenhausträger gemeinsam legen das Verfahren für die Übermittlung
+der Daten im Einvernehmen mit dem Verband der Privaten
+Krankenversicherung und der oder dem Bundesbeauftragten für den
+Datenschutz und die Informationsfreiheit in einer Verfahrensordnung
+fest. Der Fachbeirat nach § 15d ist zu beteiligen.
+
+
+### § 15g Datenübermittlung durch die Transplantationsregisterstelle zu Forschungszwecken, Datenaustausch
+
+(1) Die Transplantationsregisterstelle kann anonymisierte Daten nach
+Abschluss einer Nutzungsvereinbarung an Dritte zu Forschungszwecken
+übermitteln.
+
+(2) Die Transplantationsregisterstelle kann Dritten Daten in
+pseudonymisierter Form zur Verwendung für ein bestimmtes
+Forschungsvorhaben übermitteln, soweit der Forschungszweck die
+Verwendung pseudonymisierter Daten erfordert und die betroffene Person
+ausdrücklich eingewilligt hat. Eine Einwilligung ist nicht
+erforderlich, wenn
+
+1.  sie nur mit unverhältnismäßigem Aufwand eingeholt werden kann,
+
+
+2.  das öffentliche Interesse an der Durchführung des Forschungsvorhabens
+    die schützenswerten Interessen der betroffenen Person überwiegt und
+
+
+3.  der Forschungszweck nicht auf andere Weise zu erreichen ist.
+
+
+
+Die Übermittlung der Daten erfolgt auf Antrag. Über den Antrag
+entscheiden der Spitzenverband Bund der Krankenkassen, die
+Bundesärztekammer und die Deutsche Krankenhausgesellschaft oder die
+Bundesverbände der Krankenhausträger gemeinsam im Einvernehmen mit dem
+Verband der Privaten Krankenversicherung nach Anhörung des Fachbeirats
+nach § 15d. Die Daten sind zu anonymisieren, sobald dies nach dem
+Forschungszweck möglich ist. Sie dürfen nur für Zwecke der
+wissenschaftlichen Forschung verarbeitet oder genutzt werden. Eine
+Veröffentlichung ist, sofern die Daten nicht anonymisiert sind, nur
+mit ausdrücklicher Einwilligung der Betroffenen zulässig.
+
+(3) Die Transplantationsregisterstelle kann zur Förderung der Zwecke
+des Transplantationsregisters nach § 15a anonymisierte Daten von
+wissenschaftlichen Registern erheben und verarbeiten sowie diesen
+Registern anonymisierte Daten zur Verfügung stellen.
+
+(4) Die Transplantationsregisterstelle veröffentlicht jährlich einen
+Bericht über die nach den Absätzen 1 bis 3 übermittelten Daten.
+
+
+### § 15h Aufbewahrungs- und Löschungsfristen
+
+(1) Die Transplantationsregisterstelle hat
+
+1.  die Daten des in die Warteliste aufgenommenen Patienten oder des
+    Organempfängers zusammen mit den Daten des Organspenders sowie
+
+
+2.  die Daten des lebenden Organspenders
+
+
+
+zu löschen und die Vertrauensstelle über die Löschung zu unterrichten,
+sobald diese Daten für die Zwecke der Datenübermittlung nach § 15f
+Absatz 1 Satz 1 nicht mehr erforderlich sind, spätestens 80 Jahre nach
+der Aufnahme des Patienten in die Warteliste oder nach der
+Organentnahme beim lebenden Organspender. Soweit die Daten in der
+Transplantationsregisterstelle zu löschen sind, hat die
+Vertrauensstelle die personenbezogenen Daten des in die Warteliste
+aufgenommenen Patienten oder des Organempfängers zusammen mit den
+personenbezogenen Daten des Organspenders und die personenbezogenen
+Daten des lebenden Organspenders ebenfalls zu löschen.
+
+(2) Dritte, denen Daten nach § 15g Absatz 2 übermittelt wurden, haben
+diese zu löschen, sobald deren Verwendung für den Forschungszweck
+nicht mehr erforderlich ist, spätestens 20 Jahre nach der
+Übermittlung.
+
+
+### § 15i Verordnungsermächtigungen
+
+(1) Kommt der Vertrag mit der Transplantationsregisterstelle nach §
+15b Absatz 4 nicht bis zum 1. November 2019 zustande, bestimmt das
+Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung
+des Bundesrates die Transplantationsregisterstelle und regelt das
+Nähere zu ihren Aufgaben, zu ihrem Betrieb und zu ihrer Finanzierung
+nach § 15b Absatz 4.
+
+(2) Kommt der Vertrag mit der Vertrauensstelle nach § 15c Absatz 3
+nicht bis zum 1. November 2019 zustande, bestimmt das
+Bundesministerium für Gesundheit durch Rechtsverordnung mit Zustimmung
+des Bundesrates die Vertrauensstelle und regelt das Nähere zu ihren
+Aufgaben nach § 15c Absatz 1 Satz 2 bis 4 und Absatz 2, zum Verfahren
+der Datenpseudonymisierung nach § 15c Absatz 1 Satz 2 und zum
+Verfahren der Zusammenführung der Daten nach Absatz 2 Satz 1 sowie zur
+Finanzierung der Vertrauensstelle nach § 15c Absatz 3.
+
+
+## Abschnitt 5b - Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft, Verordnungsermächtigung
 
 
 ### § 16 Richtlinien zum Stand der Erkenntnisse der medizinischen Wissenschaft bei Organen
@@ -1802,22 +2437,31 @@ Wissenschaft wird vermutet, wenn die Richtlinien der Bundesärztekammer
 beachtet worden sind.
 
 (2) Die Bundesärztekammer legt das Verfahren für die Erarbeitung der
-Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Bei der
-Erarbeitung der Richtlinien ist die angemessene Beteiligung von
-Sachverständigen der betroffenen Fach- und Verkehrskreise‚
-einschließlich des Spitzenverbandes Bund der Krankenkassen, der
-Deutschen Krankenhausgesellschaft, der Deutschen
-Transplantationsgesellschaft, der Koordinierungsstelle nach § 11, der
-Vermittlungsstelle nach § 12 und der zuständigen Behörden der Länder
-vorzusehen. Darüber hinaus sollen bei der Erarbeitung der Richtlinien
-nach Absatz 1 Satz 1 Nr. 1, 1a und 5 Ärzte, die weder an der Entnahme
-noch an der Übertragung von Organen beteiligt sind, noch Weisungen
-eines Arztes unterstehen, der an solchen Maßnahmen beteiligt ist, bei
-der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5
-Personen mit der Befähigung zum Richteramt und Personen aus dem Kreis
-der Patienten, bei der Erarbeitung von Richtlinien nach Absatz 1 Satz
-1 Nr. 5 ferner Personen aus dem Kreis der Angehörigen von
-Organspendern nach § 3 oder § 4 angemessen vertreten sein.
+Richtlinien nach Absatz 1 und für die Beschlussfassung fest. Die
+Richtlinien nach Absatz 1 sind zu begründen; dabei ist insbesondere
+die Feststellung des Standes der Erkenntnisse der medizinischen
+Wissenschaft nachvollziehbar darzulegen. Bei der Erarbeitung der
+Richtlinien ist die angemessene Beteiligung von Sachverständigen der
+betroffenen Fach- und Verkehrskreise‚ einschließlich des
+Spitzenverbandes Bund der Krankenkassen, der Deutschen
+Krankenhausgesellschaft, der Deutschen Transplantationsgesellschaft,
+der Koordinierungsstelle nach § 11, der Vermittlungsstelle nach § 12
+und der zuständigen Behörden der Länder vorzusehen. Darüber hinaus
+sollen bei der Erarbeitung der Richtlinien nach Absatz 1 Satz 1 Nr. 1,
+1a und 5 Ärzte, die weder an der Entnahme noch an der Übertragung von
+Organen beteiligt sind, noch Weisungen eines Arztes unterstehen, der
+an solchen Maßnahmen beteiligt ist, bei der Erarbeitung der
+Richtlinien nach Absatz 1 Satz 1 Nr. 2 und 5 Personen mit der
+Befähigung zum Richteramt und Personen aus dem Kreis der Patienten,
+bei der Erarbeitung von Richtlinien nach Absatz 1 Satz 1 Nr. 5 ferner
+Personen aus dem Kreis der Angehörigen von Organspendern nach § 3 oder
+§ 4 angemessen vertreten sein.
+
+(3) Die Richtlinien nach Absatz 1 sowie deren Änderungen sind dem
+Bundesministerium für Gesundheit zur Genehmigung vorzulegen. Das
+Bundesministerium für Gesundheit kann von der Bundesärztekammer im
+Rahmen des Genehmigungsverfahrens zusätzliche Informationen und
+ergänzende Stellungnahmen anfordern.
 
 
 ### § 16a Verordnungsermächtigung
@@ -1966,6 +2610,11 @@ bestraft.
 § 4a Abs. 1 Satz 1 ein Organ oder Gewebe entnimmt, wird mit
 Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 
+(2a) Mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe wird
+bestraft, wer absichtlich entgegen § 10 Absatz 3 Satz 2 den
+Gesundheitszustand eines Patienten erhebt, dokumentiert oder
+übermittelt.
+
 (3) Wer
 
 1.  entgegen § 2 Abs. 4 Satz 1 oder Satz 3 eine Auskunft erteilt oder
@@ -1983,7 +2632,7 @@ Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
 wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe
 bestraft.
 
-(4) In den Fällen der Absätze 1 und 2 ist der Versuch strafbar.
+(4) In den Fällen der Absätze 1, 2 und 2a ist der Versuch strafbar.
 
 (5) Handelt der Täter in den Fällen des Absatzes 2 fahrlässig, ist die
 Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
@@ -2006,6 +2655,10 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
     16a Satz 2 Nr. 1 eine Gewebeentnahme, eine Gewebeabgabe, eine damit
     verbundene Maßnahme oder eine dort genannte Angabe nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig dokumentiert,
+
+
+3a. entgegen § 8d Absatz 3 Satz 2 einen Bericht nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig übermittelt,
 
 
 4.  entgegen § 9 Absatz 1 oder Absatz 2 Satz 1 oder Satz 3 ein Organ
@@ -2053,8 +2706,14 @@ Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-dreißigtausend Euro geahndet werden.
+(2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 1
+bis 3 und 4 bis 11 mit einer Geldbuße bis zu dreißigtausend Euro, in
+den übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
+werden.
+
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
+Nummer 3a das Paul-Ehrlich-Institut.
 
 
 ## Abschnitt 8 - Schlussvorschriften

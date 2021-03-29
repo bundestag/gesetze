@@ -16,6 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   GBl DDR I: 1980, 347
 
+Stand: Ano aufgeh.durch Art. 32 Abs. 3 Nr. 2 G v. 27.6.2017 I 1966 mWv 1.1.2019
 
 
 ## Eingangsformel
@@ -547,8 +548,9 @@ h)  die Bestimmungs-, Meß- und Berechnungsverfahren für die Angaben unter
 
 
 
+Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 889, 1227)
+## Anhang EV (BGBl. II 1990, 889, 1227)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

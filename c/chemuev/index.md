@@ -3,7 +3,7 @@ Title: Verordnung über Übergangsmaßnahmen für die chemikalienrechtliche Anme
   von Stoffen in dem in Artikel 3 des Einigungsvertrages genannten Gebiet
 jurabk: ChemÜV
 layout: default
-origslug: chem_v
+origslug: chemuev
 slug: chemuev
 
 ---

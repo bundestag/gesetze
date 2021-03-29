@@ -26,8 +26,8 @@ Auf Grund des § 1 Abs. 1 Nr. 8 letzter Halbsatz des Ersten
 Überleitungsgesetzes in der Fassung vom 28. April 1955
 (Bundesgesetzbl. I S. 193),
 geändert durch das Zweite Neuordnungsgesetz vom 21. Februar 1964
-(Bundesgesetzbl. I S. 85),              verordnet die Bundesregierung
-mit Zustimmung des Bundesrates:
+(Bundesgesetzbl. I S. 85), verordnet die Bundesregierung mit
+Zustimmung des Bundesrates:
 
 
 ## § 1
@@ -267,9 +267,8 @@ wiederholt werden.
 
 (2) Der Bundesrechnungshof kann nach Maßgabe des
 § 4 des Gesetzes über Errichtung und Aufgaben des Bundesrechnungshofes
-vom 27. November 1950 (Bundesgesetzbl. S. 765)              die
-Haushalts- und Wirtschaftsführung der Versorgungskrankenanstalten
-prüfen.
+vom 27. November 1950 (Bundesgesetzbl. S. 765) die Haushalts- und
+Wirtschaftsführung der Versorgungskrankenanstalten prüfen.
 
 (3) Wird bei den Prüfungen eine Unrichtigkeit festgestellt, ist die
 Höhe der vom Bund zu tragenden Aufwendungen zu berichtigen und der

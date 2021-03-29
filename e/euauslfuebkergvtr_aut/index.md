@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österre
   1957 und die Erleichterung seiner Anwendung
 jurabk: EuAuslfÜbkErgVtr AUT
 layout: default
-origslug: euauslf_bkergvtr_aut
+origslug: euauslfuebkergvtr_aut
 slug: euauslfuebkergvtr_aut
 
 ---

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   eBAnz: 2008, AT147 V1
 
-Geändert durch
-:   Art. 1 V v. 2.6.2009 eBAnz AT59 V1
+Zuletzt geändert durch
+:   Art. 1 V v. 26.5.2015 BAnz AT 26.05.2015 V1
 
 Die v tritt nach ihrem § 6 abs. 2 mit ablauf des 12.6.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 6 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 2 V v. 2.6.2009 eBAnz AT 59 V1, dadurch ist die Geltung der V über den 12.6.2009 hinaus verlängert worden
@@ -40,22 +40,31 @@ Fischereifonds-Informationen-Gesetz.
 
 ## § 2 Inhalt und Aufbau der Internetseite
 
-(1) Auf der in § 2 Abs. 1 des Agrar- und Fischereifonds-Informationen-
-Gesetzes bezeichneten Internetseite werden nur die
+(1) Auf der in § 2 Absatz 1 des Agrar- und Fischereifonds-
+Informationen-Gesetzes bezeichneten Internetseite werden nur die
 
-1.  in Artikel 1 Abs. 1 der Verordnung (EG) Nr. 259/2008 der Kommission
-    vom 18. März 2008 mit Durchführungsbestimmungen zur Verordnung (EG)
-    Nr. 1290/2005 des Rates hinsichtlich der Veröffentlichung von
-    Informationen über die Empfänger von Mitteln aus dem Europäischen
-    Garantiefonds für die Landwirtschaft (EGFL) und dem Europäischen
-    Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER)
-    (ABl. L 76 vom 19.3.2008, S. 28) und
+1.  in den Artikeln 111 und 112 der Verordnung (EU) Nr. 1306/2013 des
+    Europäischen Parlaments und des Rates vom 17. Dezember 2013 über die
+    Finanzierung, die Verwaltung und das Kontrollsystem der Gemeinsamen
+    Agrarpolitik (ABl. L 347 vom 20.12.2013, S. 549),
 
 
-2.  in den Artikeln 30 und 31 der Verordnung (EG) Nr. 498/2007 der
-    Kommission vom 26. März 2007 mit Durchführungsbestimmungen zur
-    Verordnung (EG) Nr. 1198/2006 des Rates über den Europäischen
-    Fischereifonds (EFF) (ABl. L 120 vom 10.5.2008, S. 1)
+2.  in den Artikeln 57 und 58 der Durchführungsverordnung (EU) Nr.
+    908/2014 vom 6. August 2014 mit Durchführungsbestimmungen zur
+    Verordnung (EU) Nr. 1306/2013 des Europäischen Parlaments und des
+    Rates hinsichtlich der Zahlstellen und anderen Einrichtungen, der
+    Mittelverwaltung, des Rechnungsabschlusses und der Bestimmungen für
+    Kontrollen, Sicherheiten und Transparenz (ABl. L 255 vom 28.8.2014, S.
+    59) und
+
+
+3.  in Artikel 119 in Verbindung mit Anhang V der Verordnung (EU) Nr.
+    508/2014 des Europäischen Parlaments und des Rates vom 15. Mai 2014
+    über den Europäischen Meeres- und Fischereifonds und zur Aufhebung der
+    Verordnungen (EG) Nr. 2328/2003, (EG) Nr. 861/2006, (EG) Nr. 1198/2006
+    und (EG) Nr. 791/2007 des Rates und der Verordnung (EU) Nr. 1255/2011
+    des Europäischen Parlaments und des Rates (ABl. L 149 vom 20.5.2014,
+    S.1)
 
 
 
@@ -66,6 +75,32 @@ veröffentlicht.
 Landwirtschaft betreffenden Informationen eine Suchfunktion
 vorzusehen, die eine Suche nach den genannten Informationen
 ermöglicht.
+
+
+## § 2a Schwellenwertregelung
+
+(1) Für den Zweck der Durchführung des Artikels 112 der Verordnung
+(EU) Nr. 1306/2013 in der jeweils geltenden Fassung wird bei
+Begünstigten, deren Gesamtbetrag an Beihilfen in einem Jahr gleich
+oder niedriger dem von der Europäischen Kommission nach Artikel 112
+Absatz 2 der Verordnung (EU) Nr. 1306/2013 für Deutschland
+veröffentlichten Betrag ist, anstelle des Namens der Code
+„Kleinempfänger“ angegeben.
+
+(2) Wenn die Anzahl der Begünstigten nach Absatz 1 in einer Gemeinde
+hinsichtlich einer der in Anhang XIII der Durchführungsverordnung (EU)
+Nr. 908/2014 aufgeführten Maßnahmen nicht höher als fünf ist, wird für
+den Zweck der Durchführung des Artikels 58 der Durchführungsverordnung
+(EU) Nr. 908/2014 bei allen nach Absatz 1 angegebenen Begünstigten
+dieser Gemeinde, soweit es sich nicht um juristische Personen handelt,
+anstelle der Gemeinde die nächst größere Verwaltungseinheit angegeben,
+der die Gemeinde angehört. Dies gilt auch, wenn einer Gemeinde mehrere
+Postleitzahlen zugeordnet sind und die Begünstigten jeweils unter
+verschiedenen Postleitzahlen derselben Gemeinde geführt werden.
+
+(3) Gemeinden im Sinne von Absatz 2 sind auch kreisfreie Städte.
+Nächst größere Verwaltungseinheit im Sinne von Absatz 2 ist bei
+Gemeinden der Kreis und bei kreisfreien Städten das Land.
 
 
 ## § 3 Berichtigung, Sperrung und Löschung von Informationen
@@ -96,8 +131,9 @@ Daten zwei Jahre nach dem ersten Tag ihrer Veröffentlichung.
 Europäischen Fonds für Landwirtschaft und Fischerei sind
 ausschließlich über das Internet einsehbar.
 
-(2) Die Barrierefreie Informationstechnik-Verordnung vom 17. Juli 2002
-(BGBl. I S. 2654) in der jeweils geltenden Fassung gilt entsprechend.
+(2) Die Barrierefreie-Informationstechnik-Verordnung vom 12. September
+2011 (BGBl. I S. 1843) in der jeweils geltenden Fassung gilt
+entsprechend.
 
 
 ## § 5 Datensicherheit

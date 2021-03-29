@@ -32,10 +32,10 @@ Rechtswirkungen erzeugt:
 
 2.  Ihr stehen die Ansprüche nach dem Gesetz über die Versorgung der Opfer
     des Krieges (Bundesversorgungsgesetz) vom
-    20\. Dezember 1950 (Bundesgesetzbl. S. 791)                    sowie
-    die öffentlich-rechtlichen Versicherungsansprüche und die Ansprüche
-    aus einer betrieblichen Alters- und Hinterbliebenenversorgung wie
-    einer Witwe zu. Hinsichtlich der Gewährung von Witwengeld aus einem
+    20\. Dezember 1950 (Bundesgesetzbl. S. 791) sowie die öffentlich-
+    rechtlichen Versicherungsansprüche und die Ansprüche aus einer
+    betrieblichen Alters- und Hinterbliebenenversorgung wie einer Witwe
+    zu. Hinsichtlich der Gewährung von Witwengeld aus einem
     Beamtenverhältnis oder einem sonstigen öffentlich-rechtlichen
     Dienstverhältnis des Verstorbenen wird sie wie die Witwe eines Beamten
     behandelt, der die Ehe erst nach dem Eintritt in den Ruhestand
@@ -43,15 +43,15 @@ Rechtswirkungen erzeugt:
     unberührt.
 
 
-3.  Ein von dem Mann stammendes Kind der Frau hat die Rechtsstellung eines
-    ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs findet
-    entsprechende Anwendung.
+3.  Ein von dem Manne stammendes Kind der Frau hat die Rechtsstellung
+    eines ehelichen Kindes erlangt; § 1720 des Bürgerlichen Gesetzbuchs
+    findet entsprechende Anwendung.
 
 
 
 
-(2) Die Rechtswirkungen gelten mit dem Tag als eingetreten, der in dem
-Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet
+(2) Die Rechtswirkungen gelten mit dem Tage als eingetreten, der in
+dem Ausspruch des Standesbeamten als Tag der Eheschließung bezeichnet
 worden ist.
 
 (3) Die Vorschriften der Absätze 1 und 2 gelten auch in den Fällen, in
@@ -59,9 +59,8 @@ denen der Mann für tot erklärt oder sein Tod nach den Vorschriften des
 Verschollenheitsrechts gerichtlich festgestellt worden ist.
 
 
-## § 2
+## § 2 (weggefallen)
 
--
 
 
 ## § 3

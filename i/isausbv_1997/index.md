@@ -629,8 +629,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 6 Abs. 1)
 
-## Anlage 1 (zu § 6 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Isolierfacharbeiter/zur Isolierfacharbeiterin
 
 (Fundstelle: BGBl. I 1997, 221 - 223)
 
@@ -1181,8 +1182,9 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 
 
+(zu § 6 Abs. 1)
 
-## Anlage 2 (zu § 6 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Industrie-Isolierer/zur Industrie-Isoliererin
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industrie-Isolierer/zur Industrie-Isoliererin
 
 (Fundstelle: BGBl. I 1997, 224 - 225)
 

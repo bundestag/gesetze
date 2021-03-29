@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3240 (3692)
 
+Zuletzt geändert durch
+:   Art. 23 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -286,8 +289,9 @@ sorgen, dass die Einstellungsbehörde folgende Unterlagen erhält:
     Nachweis der Staatsangehörigkeit,
 
 
-3.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+3.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 4.  ein Führungszeugnis nach § 30 Absatz 5 des
@@ -566,8 +570,8 @@ Die Ausbildungsbeauftragten beraten die Anwärterinnen und Anwärter
 sowie die Ausbilderinnen und Ausbilder in Fragen der Ausbildung und
 führen Besprechungen mit ihnen durch. Die Besprechungen finden zu
 Beginn, in der Mitte und am Ende eines jeden praktischen
-Ausbildungsabschnitts sowie bei Bedarf statt; sie sind schriftlich zu
-dokumentieren.
+Ausbildungsabschnitts sowie bei Bedarf statt; sie sind schriftlich
+oder elektronisch zu dokumentieren.
 
 (4) Die Ausbildungsbeauftragten stellen vor Beginn der praktischen
 Ausbildung für jede Anwärterin und jeden Anwärter einen
@@ -834,7 +838,7 @@ Aufsichtsarbeiten bekannt gegeben werden.
 (6) Die Aufsichtführenden haben die Zeitpunkte des Beginns, der
 Unterbrechung und der Abgabe der Arbeit sowie in Anspruch genommene
 Prüfungserleichterungen und etwaige besondere Vorkommnisse schriftlich
-zu dokumentieren.
+oder elektronisch zu dokumentieren.
 
 (7) Die Prüfungskommission bewertet die Aufsichtsarbeiten. Die
 Einteilung der Erstprüferin oder des Erstprüfers nimmt die
@@ -860,7 +864,7 @@ die Aufsichtsarbeiten jeweils mindestens mit „ausreichend“ bewertet
 worden sind. Das Ergebnis der Aufsichtsarbeiten ist den Anwärterinnen
 und Anwärtern spätestens einen Monat nach dem Prüfungstag durch die
 Erstprüferin oder den Erstprüfer im Auftrag des Prüfungsamtes
-schriftlich bekannt zu geben.
+schriftlich oder elektronisch bekannt zu geben.
 
 
 ### § 27 Praxisarbeit
@@ -880,9 +884,9 @@ gegenüber der Ausbildungsleitung Themenwünsche äußern.
 (3) Die Praxisarbeit ist innerhalb von vier Wochen nach Aushändigung
 des Themas anzufertigen und der oder dem Ausbildungsbeauftragten
 vorzulegen. Liegen triftige Gründe vor, kann die Ausbildungsleitung
-die Frist auf schriftlichen Antrag um höchstens zwei Wochen
-verlängern. Der Antrag ist unverzüglich zu stellen. Bei längerer
-Verhinderung ist ersatzweise eine neue Aufgabe zu stellen.
+die Frist auf schriftlichen oder elektronischen Antrag um höchstens
+zwei Wochen verlängern. Der Antrag ist unverzüglich zu stellen. Bei
+längerer Verhinderung ist ersatzweise eine neue Aufgabe zu stellen.
 
 (4) Die Praxisarbeit ist ohne fremde Hilfe anzufertigen; alle
 benutzten Quellen und Hilfsmittel sind anzugeben. In einer Erklärung,
@@ -947,7 +951,7 @@ geteilt. Die mündliche Prüfung ist bestanden, wenn die
 Durchschnittsrangpunktzahl 5 erreicht worden ist.
 
 (5) Die Mitglieder der Prüfungskommission haben den Ablauf der Prüfung
-schriftlich zu dokumentieren.
+schriftlich oder elektronisch zu dokumentieren.
 
 
 ### § 30 Verhinderung, Rücktritt, Säumnis
@@ -1207,8 +1211,8 @@ Bildung von Noten unberücksichtigt.
 Prüfungsteilnehmerinnen und Prüfungsteilnehmern die erreichten
 Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
-(3) Das Gesamtergebnis der Laufbahnprüfung ist schriftlich zu
-dokumentieren.
+(3) Das Gesamtergebnis der Laufbahnprüfung ist schriftlich oder
+elektronisch zu dokumentieren.
 
 
 ### § 34 Zeugnis, Ende des Beamtenverhältnisses
@@ -1291,12 +1295,14 @@ Prüfungsordnung.
 
 (1) Die Einstellungsbehörde gibt in einer Ausschreibung die
 Auswahlverfahren für den Aufstieg bekannt. Es können Auswahlverfahren
-für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2 und für die
-Teilnahme an Hochschulausbildungen nach § 39 der
-Bundeslaufbahnverordnung durchgeführt werden. Auf die Durchführung des
-an einem zentralen Lehrinstitut stattfindenden Auswahlverfahrens ist §
-7 entsprechend anzuwenden. Über die Zulassung zum Aufstieg entscheidet
-die personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
+für die Teilnahme am Vorbereitungsdienst nach § 2 Nummer 2, für die
+Teilnahme an einer fachspezifischen Qualifizierung nach § 38 der
+Bundeslaufbahnverordnung und für die Teilnahme an
+Hochschulausbildungen nach § 39 der Bundeslaufbahnverordnung
+durchgeführt werden. Auf die Durchführung des an einem zentralen
+Lehrinstitut stattfindenden Auswahlverfahrens ist § 7 entsprechend
+anzuwenden. Über die Zulassung zum Aufstieg entscheidet die
+personalbearbeitende Dienststelle. Dabei ist das Ergebnis des
 Auswahlverfahrens zu berücksichtigen.
 
 (2) Die Einstellungsbehörde gestaltet die berufspraktische Einführung
@@ -1315,12 +1321,13 @@ die ihre Aufstiegsausbildung vor dem 14. September 2009 begonnen
 haben, setzen sie nach den bisher geltenden Bestimmungen fort.
 
 (2) Wird die Übergangsregelung des § 54 Absatz 2 Satz 1 der
-Bundeslaufbahnverordnung in Anspruch genommen, sind die §§ 24 bis 29
-und 44 bis 50 der Verordnung über die Laufbahn, Ausbildung und Prüfung
-für den gehobenen technischen Dienst in der Bundeswehrverwaltung –
-Fachrichtung Wehrtechnik – vom 6. März 2002 (BGBl. I S. 1097), die
-zuletzt durch Artikel 3 Absatz 27 der Verordnung vom 12. Februar 2009
-(BGBl. I S. 320) geändert worden ist, weiter anzuwenden.
+Bundeslaufbahnverordnung in der bis zum 26. Januar 2017 geltenden
+Fassung in Anspruch genommen, sind die §§ 24 bis 29 und 44 bis 50 der
+Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
+technischen Dienst in der Bundeswehrverwaltung – Fachrichtung
+Wehrtechnik – vom 6. März 2002 (BGBl. I S. 1097), die zuletzt durch
+Artikel 3 Absatz 27 der Verordnung vom 12. Februar 2009 (BGBl. I S.
+320) geändert worden ist, weiter anzuwenden.
 
 
 ### § 39 Inkrafttreten, Außerkrafttreten

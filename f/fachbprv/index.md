@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2882
 
+Geändert durch
+:   Art. 7 V v. 30.11.2017 I 3827
+
 
 
 ## Eingangsformel
@@ -302,10 +305,39 @@ einzeln zu bewerten.
 (2) Die Prüfung ist bestanden, wenn in allen Handlungsbereichen
 mindestens ausreichende Leistungen erbracht wurden.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und ein Zeugnis gemäß der Anlage 2 auszustellen. Im Fall der
-Freistellung gemäß § 5 sind Ort und Datum der anderweitig abgelegten
-Prüfung sowie die Bezeichnung des Prüfungsgremiums anzugeben.
+(3) Die Gesamtnote ergibt sich aus dem arithmetischen Mittel der
+Punktebewertungen der Prüfungsleistungen in den einzelnen
+Handlungsbereichen.
+
+(4) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung und die jeweilige Punktebewertung der fünf
+    Handlungsbereiche nach § 3 Absatz 1,
+
+
+2.  die Gesamtnote nach Absatz 3 und
+
+
+3.  gegebenenfalls die Befreiungen nach § 5.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 3 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 7 Wiederholung der Prüfung
@@ -340,85 +372,4 @@ Anwendung.
 ## § 9 Inkrafttreten
 
 (1) Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-
-
-## Anlage 1 (zu § 6 Abs. 3)
-
-(Fundstelle: BGBl. I 2001, 2885)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb"
-Herr/Frau
-.....................................................................
-geboren am ............................. in
-...................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter
-Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb" vom 31.
-Oktober
-2001 (BGBl. I S. 2882)
-bestanden.
-Datum ..................................
-Unterschrift(en) .......................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 6 Abs. 3)
-
-(Fundstelle: BGBl. I 2001, 2886)
-Muster
-......................................................................
-.........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die
-Prüfung zum anerkannten Abschluss
-"Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb"
-Herr/Frau
-.....................................................................
-geboren am ............................. in
-...................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-"Geprüfter
-Fachberater im Vertrieb/Geprüfte Fachberaterin im Vertrieb" vom 31.
-Oktober
-2001 (BGBl. I S. 2882) mit folgenden Ergebnissen bestanden:
-Punkte     Note
-Methodisches Arbeiten unter Anwendung moderner
-Informationstechnologien                                    ......
-.....
-Wirtschaften unter Berücksichtigung von
-Kosten-/Nutzungsaspekten                                    ......
-.....
-Marktchancen identifizieren und die Marketinginstrumente    ......
-.....
-Rechtsfragen aus der Vertriebspraxis prüfen und bearbeiten  ......
-.....
-Kundenkontakte effektiv und effizient gestalten             ......
-.....
-(Im Fall des § 5: "Der Prüfungsteilnehmer/die Prüfungsteilnehmerin
-wurde
-gemäß § 5 im Hinblick auf die am .......... in
-..............................
-vor ....................... abgelegte Prüfung vor der/den
-Prüfungsleistung/en
-....................... freigestellt.")
-Ort, Datum ..................................
-Unterschrift(en) .......................
-(Siegel der zuständigen Stelle)
-Den Bewertungen lag folgender Punkteschlüssel zugrunde:
-.......................
-......................................................................
-.........
 

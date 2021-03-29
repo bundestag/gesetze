@@ -3,7 +3,7 @@ Title: Zusatzprotokoll zum Internationalen Übereinkommen über Zusammenarbeit z
   der Luftfahrt "EUROCONTROL"
 jurabk: EUROCONTROLÜbkZProt
 layout: default
-origslug: eurocontrol_bkzprot
+origslug: eurocontroluebkzprot
 slug: eurocontroluebkzprot
 
 ---

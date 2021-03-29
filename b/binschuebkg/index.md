@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 15. März 1960 zur Vereinheitlichung ein
   und des Flößereigesetzes
 jurabk: BinSchÜbkG
 layout: default
-origslug: binsch_bkg
+origslug: binschuebkg
 slug: binschuebkg
 
 ---

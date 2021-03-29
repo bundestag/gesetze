@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „Saarland“)
 jurabk: Münz2EuroBek 2008-11
 layout: default
-origslug: m_nz2eurobek_2008-11
+origslug: muenz2eurobek_2008-11
 slug: muenz2eurobek_2008-11
 
 ---

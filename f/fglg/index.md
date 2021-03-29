@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 910
 
 Zuletzt geändert durch
-:   Art. 26 G v. 9.12.2010 I 193
+:   Art. 97 G v. 8.7.2016 I 1594
 
 
 ## § 1
@@ -39,7 +39,8 @@ Agrarpolitik
 
 
 soweit diese Flächen für die Nutzung von Zahlungsansprüchen für die
-einheitliche Betriebsprämie angemeldet worden sind.
+einheitliche Betriebsprämie oder die Basisprämie angemeldet worden
+sind.
 
 (2) Die für die Landwirtschaft in anderen Rechtsgebieten geltenden
 Rechtsvorschriften, insbesondere im Bereich des Bürgerlichen Rechts,

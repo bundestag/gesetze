@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.2.2011 I 252;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.3.2012 I 503
+:   Art. 381 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -42,11 +42,11 @@ bei einer der in Absatz 1 genannten Stellen untersucht worden ist.
 ## § 2
 
 Die zuständige Behörde gibt jede Meldung nach § 1 dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-im Wege der elektronischen Datenübertragung unter Verwendung des EDV-
-Programms „Tierseuchennachrichten“ weiter. Die Weitergabe erfolgt
-spätestens am ersten Arbeitstag der Kalenderwoche, die derjenigen
-folgt, in der der zuständigen Behörde die Meldung zugegangen ist.
+Bundesministerium für Ernährung und Landwirtschaft im Wege der
+elektronischen Datenübertragung unter Verwendung des EDV-Programms
+„Tierseuchennachrichten“ weiter. Die Weitergabe erfolgt spätestens am
+ersten Arbeitstag der Kalenderwoche, die derjenigen folgt, in der der
+zuständigen Behörde die Meldung zugegangen ist.
 
 
 ## § 3 (weggefallen)
@@ -55,18 +55,19 @@ folgt, in der der zuständigen Behörde die Meldung zugegangen ist.
 
 ## § 4
 
-Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des
-Tierseuchengesetzes handelt, wer als Leiter einer privaten
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer als Leiter einer privaten
 Untersuchungsstelle oder als Tierarzt vorsätzlich oder fahrlässig
-entgegen § 1 eine Meldung nicht, nicht vollständig, nicht richtig oder
-nicht rechtzeitig erstattet.
+entgegen § 1 Absatz 1, auch in Verbindung mit Absatz 2, eine Meldung
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
 
 
 ## § 5 (Inkrafttreten)
 
 
+(zu § 1)
 
-## Anlage (zu § 1) Meldepflichtige Tierkrankheiten/Erregernachweise
+## Anlage Meldepflichtige Tierkrankheiten/Erregernachweise
 
 (Fundstelle: BGBl. I 2011, 253 - 254;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -756,7 +757,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   –
 
-    *[^F775011_02_BJNR010950983BJNE000911377]
+    *[^F775011_02_BJNR010950983BJNE000912360]
 
     *
 
@@ -784,7 +785,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   21.
 
-    *   Säugerpocken (Orthopoxinfektion)
+    *   Säugerpocken
+        (Orthopoxinfektion)
 
     *
     *
@@ -794,8 +796,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   –
 
-    *   –
-
+    *
     *
     *   –
 
@@ -816,7 +817,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   22.
 
-    *[^F775011_03_BJNR010950983BJNE000911377]
+    *[^F775011_03_BJNR010950983BJNE000912360]
    Salmonellose/Salmonella spp.
 
     *
@@ -899,7 +900,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   –
 
-    *[^F775011_04_BJNR010950983BJNE000911377]
+    *[^F775011_04_BJNR010950983BJNE000912360]
 
     *
 
@@ -941,7 +942,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   26.
 
-    *[^F775011_05_BJNR010950983BJNE000911377]
+    *[^F775011_05_BJNR010950983BJNE000912360]
    Tuberkulose
 
     *
@@ -1084,12 +1085,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
    insbesondere andere Wiederkäuerarten
-[^F775011_02_BJNR010950983BJNE000911377]:     ausgenommen Salmonelleninfektionen, für die eine Mitteilungspflicht
+[^F775011_02_BJNR010950983BJNE000912360]:     ausgenommen Salmonelleninfektionen, für die eine Mitteilungspflicht
     nach § 4 der Hühner-Salmonellen-Verordnung besteht sowie Salmonellosen
     und ihre Erreger des Rindes, soweit eine Anzeigepflicht nach § 1
     Nummer 28 der Verordnung über anzeigepflichtige Tierseuchen besteht
-[^F775011_03_BJNR010950983BJNE000911377]:     insbesondere alle der Lebensmittelgewinnung dienenden Säugetierarten
-[^F775011_04_BJNR010950983BJNE000911377]:     ausgenommen Mycobacterium bovis inklusive deren Subspezies
+[^F775011_03_BJNR010950983BJNE000912360]:     insbesondere alle der Lebensmittelgewinnung dienenden Säugetierarten
+[^F775011_04_BJNR010950983BJNE000912360]:     ausgenommen Mycobacterium bovis inklusive deren Subspezies
     -Infektionen, soweit die Anzeigepflicht nach § 1 Nummer 36 der
     Verordnung über anzeigepflichtige Tierseuchen besteht
-[^F775011_05_BJNR010950983BJNE000911377]: 
+[^F775011_05_BJNR010950983BJNE000912360]: 

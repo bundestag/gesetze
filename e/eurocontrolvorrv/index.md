@@ -38,11 +38,11 @@ Bundesregierung mit Zustimmung des Bundesrates:
 Organisation zur Sicherung der Luftfahrt EUROCONTROL auf Antrag aus
 dem Aufkommen der Umsatzsteuer die EUROCONTROL von dem Unternehmer
 nach
-§ 14 Abs. 1 des Umsatzsteuergesetzes 1967              für Lieferungen
-oder sonstige Leistungen, die ausschließlich für den amtlichen
-Gebrauch bestimmt sind, in Rechnung gestellte und von EUROCONTROL
-bezahlte Umsatzsteuer, wenn der Steuerbetrag im Einzelfall 50,-- DM
-übersteigt. Satz 1 gilt nicht für den Erwerb von Lebensmitteln und
+§ 14 Abs. 1 des Umsatzsteuergesetzes 1967 für Lieferungen oder
+sonstige Leistungen, die ausschließlich für den amtlichen Gebrauch
+bestimmt sind, in Rechnung gestellte und von EUROCONTROL bezahlte
+Umsatzsteuer, wenn der Steuerbetrag im Einzelfall 50,-- DM übersteigt.
+Satz 1 gilt nicht für den Erwerb von Lebensmitteln und
 Tabakerzeugnissen.
 
 (2) Der Antrag auf Erstattung ist unter Beifügung der in Betracht
@@ -76,7 +76,7 @@ entspricht, an das Bundeszentralamt für Steuern abzuführen. Der
 abzuführende Steuerbetrag kann aus Vereinfachungsgründen durch
 Anwendung des im Zeitpunkt der Veräußerung für die Lieferung des
 Gegenstandes geltenden Steuersatzes
-(§ 12 des Umsatzsteuergesetzes 1967)              ermittelt werden.
+(§ 12 des Umsatzsteuergesetzes 1967) ermittelt werden.
 
 
 ## § 4

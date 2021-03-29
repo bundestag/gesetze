@@ -5,7 +5,7 @@ Title: Gesetz zu dem Protokoll vom 15. Oktober 2007 zur Änderung des Abkommens 
   29. Mai 1996 und des Protokolls hierzu vom 29. Mai 1996
 jurabk: DBARUSÄndProtG
 layout: default
-origslug: dbarus_ndprotg
+origslug: dbarusaendprotg
 slug: dbarusaendprotg
 
 ---

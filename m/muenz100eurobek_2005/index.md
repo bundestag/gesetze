@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze "FIFA Fußball-Weltmeisterschaft in Deutschland 2006")
 jurabk: Münz100EuroBek 2005
 layout: default
-origslug: m_nz100eurobek_2005
+origslug: muenz100eurobek_2005
 slug: muenz100eurobek_2005
 
 ---

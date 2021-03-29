@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 2125; 1993, 2493
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.7.2012 I 1566
+:   Art. 10 G v. 23.6.2017 I 1822
 
 
 ## Teil I - Erfassung des Warenverkehrs
@@ -26,30 +26,18 @@ Zuletzt geändert durch
 ### § 1 Aufgaben der Zollverwaltung
 
 (1) Der Verkehr mit Waren über die Grenze des Zollgebiets der
-Europäischen Gemeinschaften (Zollgebiet der Gemeinschaft) sowie über
-die Grenzen von Freizonen im Sinne des Artikels 167 Abs. 3 des
-Zollkodex in Verbindung mit Artikel 799 Buchstabe a der Zollkodex-
-Durchführungsverordnung (Freizonen des Kontrolltyps I) wird im
+Europäischen Union (Zollgebiet der Union) sowie über die Grenzen von
+Freizonen im Sinne des Artikels 243 des Zollkodex der Union wird im
 Geltungsbereich dieses Gesetzes zollamtlich überwacht. Die
 zollamtliche Überwachung sichert insbesondere die Erhebung der
 Einfuhr- und Ausfuhrabgaben sowie die Einhaltung des Zollrechts.
 Einfuhr- und Ausfuhrabgaben im Sinne dieses Gesetzes sind die im
-Zollkodex geregelten Abgaben sowie die Einfuhrumsatzsteuer und die
-anderen für eingeführte Waren zu erhebenden Verbrauchsteuern.
-Zollkodex im Sinne dieses Gesetzes ist die Verordnung (EWG) Nr.
-2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex
-der Gemeinschaften (ABl. EG Nr. L 302 S. 1, 1993 Nr. L 79 S. 84, 1996
-Nr. L 97 S. 38), zuletzt geändert durch die Verordnung (EG) Nr.
-2700/2000 des Europäischen Parlaments und des Rates vom 16. November
-2000 (ABl. EG Nr. L 311 S. 17), in der jeweils geltenden Fassung.
-Zollkodex-Durchführungsverordnung im Sinne dieses Gesetzes ist die
-Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993 mit
-Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des
-Rates vom 12. Oktober 1992 zur Festlegung des Zollkodex der
-Gemeinschaften (ABl. EG Nr. L 253 S. 1, 1994 Nr. L 268 S. 32, 1996 Nr.
-L 180 S. 34, 1997 Nr. L 156 S. 59, 1999 Nr. L 111 S. 88), zuletzt
-geändert durch die Verordnung (EG) Nr. 881/2003 der Kommission vom 21.
-Mai 2003 (ABl. EU Nr. L 134 S. 1), in der jeweils geltenden Fassung.
+Zollkodex der Union geregelten Abgaben sowie die Einfuhrumsatzsteuer
+und die anderen für eingeführte Waren zu erhebenden Verbrauchsteuern.
+Zollkodex der Union bezeichnet die Verordnung (EU) Nr. 952/2013 des
+Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur
+Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S. 1, L
+287, S. 90) in der jeweils geltenden Fassung.
 
 (2) Der Verkehr mit verbrauchsteuerpflichtigen Waren über die Grenze
 des deutschen Verbrauchsteuererhebungsgebietes wird zollamtlich
@@ -61,64 +49,55 @@ Verbringen von Waren in den, durch den und aus dem Geltungsbereich
 dieses Gesetzes verbieten oder beschränken (Verbote und
 Beschränkungen).
 
-(3a) Der Verkehr mit Barmitteln, die in die oder aus der Gemeinschaft
-verbracht werden, wird gemäß der Verordnung (EG) Nr. 1889/2005 des
-Europäischen Parlaments und des Rates vom 26. Oktober 2005 über die
-Überwachung von Barmitteln, die in die oder aus der Gemeinschaft
-verbracht werden (ABl. EU Nr. L 309 S. 9), im Geltungsbereich dieses
-Gesetzes zollamtlich überwacht. Soweit die Verordnung (EG) Nr.
-1889/2005 auf nationales Recht verweist, gelten die Bestimmungen zur
-Überwachung des innergemeinschaftlichen Bargeldverkehrs entsprechend,
-soweit in diesem Gesetz keine abweichende Regelung getroffen wird. Zur
-Verhinderung und Verfolgung der Geldwäsche nach § 261 des
-Strafgesetzbuches, der Vorbereitung einer schweren staatsgefährdenden
-Gewalttat nach § 89a Abs. 1, 2 Nr. 4 des Strafgesetzbuchs oder der
-Finanzierung einer terroristischen Vereinigung nach § 129a, auch in
-Verbindung mit § 129b des Strafgesetzbuchs, der Steuerhinterziehung
-nach § 370 der Abgabenordnung und Steuerordnungswidrigkeiten nach den
-§§ 377 bis 380 der Abgabenordnung sowie des Betruges zu Lasten der
-Sozialleistungsträger nach § 263 des Strafgesetzbuches beziehungsweise
-der missbräuchlichen Inanspruchnahme von Sozialleistungen nach § 404
-Absatz 2 Nummer 26 des Dritten Buches Sozialgesetzbuch oder § 63
-Absatz 1 Nummer 6 des Zweiten Buches Sozialgesetzbuch, wird
-unbeschadet der Absätze 1 bis 3 und 4, der §§ 10 bis 12 und der §§ 209
-bis 211 der Abgabenordnung das Verbringen von Bargeld oder
-gleichgestellten Zahlungsmitteln in den, aus dem und durch den
-Geltungsbereich dieses Gesetzes zollamtlich überwacht. Dem Bargeld
-gleichgestellte Zahlungsmittel im Sinne des Satzes 3 sind Wertpapiere
-im Sinne des § 1 Abs. 1 des Depotgesetzes und § 808 des Bürgerlichen
-Gesetzbuchs, Schecks, Wechsel, Edelmetalle und Edelsteine sowie
-elektronisches Geld im Sinne des § 1 Abs. 14 des Kreditwesengesetzes.
+(3a) bis (3c) (weggefallen)
 
-(3b) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium des Innern Beamte der Bundespolizei damit betrauen,
-Aufgaben der Zollverwaltung nach Absatz 3a Satz 3 bei Erfüllung von
-Aufgaben der Bundespolizei wahrzunehmen. Das Bundesministerium der
-Finanzen kann im Einvernehmen mit der zuständigen obersten
-Landesbehörde Beamte der Polizeien der Länder Bayern, Bremen und
-Hamburg damit betrauen, Aufgaben der Zollverwaltung nach Absatz 3a
-Satz 3 wahrzunehmen, soweit das Land im Einvernehmen mit dem Bund
-Aufgaben des grenzpolizeilichen Einzeldienstes im Sinne von § 2 Abs. 1
-des Bundespolizeigesetzes mit eigenen Kräften wahrnimmt.
+(4) Der Verkehr mit Barmitteln und gleichgestellten Zahlungsmitteln in
+den, aus dem und durch den Geltungsbereich dieses Gesetzes wird
+unbeschadet der Absätze 1 bis 3 und 6, der §§ 10 bis 12 und der §§ 209
+bis 211 der Abgabenordnung zollamtlich überwacht. Unbeschadet von Satz
+1 erfolgt die Überwachung von Barmitteln, die von natürlichen Personen
+über die Außengrenzen der Europäischen Union in den oder aus dem
+Geltungsbereich dieses Gesetzes verbracht werden, gemäß der Verordnung
+(EG) Nr. 1889/2005 des Europäischen Parlaments und des Rates vom 26.
+Oktober 2005 über die Überwachung von Barmitteln, die in die
+Gemeinschaft oder aus der Gemeinschaft verbracht werden (ABl. L 309
+vom 25.11.2005, S. 9). Barmittel im Sinne des Satzes 1 sind die in
+Artikel 2 Nummer 2 Buchstabe a und b der Verordnung (EG) Nr. 1889/2005
+genannten Zahlungsinstrumente. Gleichgestellte Zahlungsmittel im Sinne
+des Satzes 1 sind Edelmetalle, Edelsteine, E-Geld im Sinne des § 1a
+Absatz 3 des Zahlungsdiensteaufsichtsgesetzes, Wertpapiere im Sinne
+des § 1 des Depotgesetzes und § 808 des Bürgerlichen Gesetzbuchs,
+soweit es sich bei diesen nicht bereits um Barmittel nach Satz 3
+handelt.
 
-(3c) Die Zollfahndungsämter haben unabhängig von ihrer Zuständigkeit
-nach § 208 Abs. 1 der Abgabenordnung die Aufgaben, die international
-organisierte Geldwäsche sowie damit in Zusammenhang stehende
-Straftaten, soweit diese in Verbindung mit dem Wirtschaftsverkehr mit
-Wirtschaftsgebieten außerhalb des Geltungsbereichs dieses Gesetzes
-stehen, zu erforschen und zu verfolgen.
+(5) Die Behörden des Zollfahndungsdienstes erforschen und verfolgen
+die Geldwäsche, sofern diese im Zusammenhang steht mit
 
-(4) Die Zollverwaltung erfüllt im übrigen die Aufgaben, die ihr durch
+1.  dem grenzüberschreitenden Verkehr von Barmitteln und gleichgestellten
+    Zahlungsmitteln oder
+
+
+2.  Straftaten, die in die Ermittlungszuständigkeit der Zollbehörden
+    fallen.
+
+
+
+Darüber hinaus wirken die Behörden des Zollfahndungsdienstes im Rahmen
+des Absatzes 4 bei der Bekämpfung sonstiger Straftaten und
+Zuwiderhandlungen mit. Die Mitwirkung umfasst insbesondere Maßnahmen
+zur Aufklärung der Herkunft und des Verwendungszwecks festgestellter
+Barmittel oder gleichgestellter Zahlungsmittel.
+
+(6) Die Zollverwaltung erfüllt im Übrigen die Aufgaben, die ihr durch
 andere Rechtsvorschriften zugewiesen sind.
 
 
 ### § 2 Verkehrswege
 
 (1) Waren dürfen im Geltungsbereich dieses Gesetzes nur auf
-Zollstraßen (Absatz 4) in das oder aus dem Zollgebiet der Gemeinschaft
-sowie in die oder aus den Freizonen des Kontrolltyps I verbracht
-werden. Dies gilt nicht für den öffentlichen Schienenverkehr und den
-Luftverkehr.
+Zollstraßen (Absatz 4) in das oder aus dem Zollgebiet der Union sowie
+in die oder aus den Freizonen verbracht werden. Dies gilt nicht für
+den öffentlichen Schienenverkehr und den Luftverkehr.
 
 (2) Einfliegende Luftfahrzeuge dürfen nur auf einem Zollflugplatz
 landen, ausfliegende nur von einem solchen abfliegen.
@@ -130,9 +109,9 @@ Fahrzeugen oder mit dem Land in Verbindung treten.
 
 (4) Zollstraßen sind Landstraßen, Wasserstraßen, Rohrleitungen und
 sonstige Beförderungswege, auf denen Waren in das oder aus dem
-Zollgebiet der Gemeinschaft sowie in die oder aus den Freizonen des
-Kontrolltyps I zu verbringen sind. Zollstraßen sowie die
-Zollflugplätze und Zollandungsplätze werden öffentlich bekanntgegeben.
+Zollgebiet der Union sowie in die oder aus den Freizonen zu verbringen
+sind. Zollstraßen sowie die Zollflugplätze und Zollandungsplätze
+werden öffentlich bekanntgegeben.
 
 (5) Das Bundesministerium der Finanzen kann durch Rechtsverordnung,
 soweit Verbote und Beschränkungen nicht entgegenstehen, zur
@@ -141,20 +120,20 @@ zulassen und dabei bestimmen, daß in Einzelfällen Ausnahmen auch im
 Verwaltungswege zugelassen werden können.
 
 (6) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
-unter den Voraussetzungen des Artikels 38 Abs. 4 des Zollkodex
-Ausnahmen von der in Artikel 38 Abs. 1 Buchstabe a des Zollkodex
-genannten Verpflichtung, in das Zollgebiet der Gemeinschaft verbrachte
-Waren zu der von den Zollbehörden bezeichneten Zollstelle oder einem
-anderen von diesen Behörden bezeichneten oder zugelassenen Ort zu
-befördern, vorsehen.
+unter den Voraussetzungen des Artikels 135 Absatz 5 des Zollkodex der
+Union Ausnahmen von der in Artikel 135 Absatz 1 des Zollkodex der
+Union genannten Verpflichtung vorsehen, in das Zollgebiet der Union
+verbrachte Waren zu der von den Zollbehörden bezeichneten Zollstelle
+oder einem anderen von diesen Behörden bezeichneten oder zugelassenen
+Ort zu befördern.
 
 
 ### § 3 Zeitliche Beschränkung der Ein- und Ausfuhr
 
 (1) Waren, die auf Zollstraßen zu befördern sind, dürfen nur während
 der Öffnungszeiten der zuständigen Zollstellen in das oder aus dem
-Zollgebiet der Gemeinschaft sowie in die oder aus den Freizonen des
-Kontrolltyps I verbracht werden.
+Zollgebiet der Union sowie in die oder aus den Freizonen verbracht
+werden.
 
 (2) Von der Beschränkung des Absatzes 1 befreit sind der Seeverkehr,
 der Postverkehr, der Reiseverkehr, der fahrplanmäßige
@@ -172,9 +151,9 @@ die Umstände erfordern und die Möglichkeit der zollamtlichen
 dem von ihr zugelassenen Ort zu bewirken.
 
 (2) Das Bundesministerium der Finanzen kann zur Erleichterung des
-Verkehrs durch Rechtsverordnung in den im Zollkodex und in sonstigen
-gemeinschaftsrechtlichen Vorschriften genannten Fällen Ausnahmen von
-der Pflicht zur Gestellung oder Erleichterungen bei der Gestellung
+Verkehrs durch Rechtsverordnung in den im Zollkodex der Union und in
+sonstigen unionsrechtlichen Vorschriften genannten Fällen Ausnahmen
+von der Pflicht zur Gestellung oder Erleichterungen bei der Gestellung
 vorsehen. Es kann dabei bestimmen, daß in einzelnen Fällen Ausnahmen
 auch im Verwaltungsweg zugelassen werden können, soweit Verbote und
 Beschränkungen nicht entgegenstehen.
@@ -182,19 +161,40 @@ Beschränkungen nicht entgegenstehen.
 
 ### § 5 Sondervorschriften für Postsendungen
 
-(1) Soweit Postsendungen nicht bereits nach Maßgabe des Zollkodex und
-sonstiger gemeinschaftsrechtlicher Vorschriften zu gestellen sind,
-legt die Deutsche Post AG Sendungen der zuständigen Zollstelle zur
-Nachprüfung vor, bei denen zureichende tatsächliche Anhaltspunkte
-dafür bestehen, daß Waren unter Verstoß gegen ein Einfuhr-, Durchfuhr-
-oder Ausfuhrverbot in den oder aus dem Geltungsbereich dieses Gesetzes
-verbracht werden. Das Brief- und Postgeheimnis nach Artikel 10 des
-Grundgesetzes wird für die Gestellung sowie für die Vorlegung
-sonstiger Sendungen eingeschränkt.
+(1) Sofern Postsendungen nicht bereits nach Maßgabe des Zollkodex der
+Union und sonstiger unionsrechtlicher Vorschriften zu gestellen sind,
+haben Postdienstleister, die Postdienstleistungen im Sinne des § 4
+Nummer 1 des Postgesetzes erbringen, Postsendungen der zuständigen
+Zollstelle spätestens am nächsten Werktag anzuzeigen und auf Verlangen
+zur Nachprüfung vorzulegen, wenn zureichende tatsächliche
+Anhaltspunkte dafür bestehen, dass mit ihnen
+
+1.  Waren unter Verstoß gegen Einfuhr-, Durchfuhr- oder Ausfuhrverbote in
+    den, durch den oder aus dem Geltungsbereich dieses Gesetzes verbracht
+    werden,
+
+
+2.  verbrauchsteuerpflichtige Waren entgegen verbrauchsteuerrechtlichen
+    Vorschriften oder sonst unzulässigerweise in das, durch das oder aus
+    dem Verbrauchsteuererhebungsgebiet verbracht werden, wobei das
+    unmittelbare Versenden der Ware im Rahmen einer Lieferkette nach dem
+    Verbringen dem Verbringen in das Verbrauchsteuererhebungsgebiet
+    gleichsteht, oder
+
+
+3.  Barmittel oder gleichgestellte Zahlungsmittel, die im Zusammenhang mit
+    begangenen oder geplanten Straftaten oder Zuwiderhandlungen stehen, in
+    den, durch den oder aus dem Geltungsbereich dieses Gesetzes verbracht
+    werden.
+
+
+
+Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
+durch Satz 1 eingeschränkt.
 
 (2) Die Deutsche Post AG ist befugt, für von ihr beförderte Waren, die
-nach Maßgabe des Zollkodex zu gestellen sind, Zollanmeldungen in
-Vertretung des Empfängers abzugeben.
+nach Maßgabe des Zollkodex der Union zu gestellen sind,
+Zollanmeldungen in Vertretung des Empfängers abzugeben.
 
 (3) § 46 Abs. 3 Satz 1 des Gesetzes über Ordnungswidrigkeiten wird
 durch diese Vorschrift nicht berührt.
@@ -206,9 +206,9 @@ durch diese Vorschrift nicht berührt.
 
 ### § 6 Zolltarif
 
-(1) Der Zolltarif umfaßt die in Artikel 20 des Zollkodex genannten
-Rechtsakte sowie die Zolltarifverordnung vom 24. September 1986 (BGBl.
-II S. 896) in ihrer jeweils geltenden Fassung.
+(1) Der Zolltarif umfaßt die in Artikel 56 Absatz 2 des Zollkodex der
+Union genannten Rechtsakte sowie die Zolltarifverordnung vom 24.
+September 1986 (BGBl. II S. 896) in ihrer jeweils geltenden Fassung.
 
 (2) Das Bundesministerium der Finanzen kann, soweit eine deutsche
 Zolltarifhoheit noch besteht, im Einvernehmen mit dem für den
@@ -223,22 +223,22 @@ Rechtsverordnung
 2.  den Zolltarif insoweit ändern,
 
     a)  als dies der Bundesrepublik Deutschland auf Grund der Verträge zur
-        Gründung der Europäischen Gemeinschaften, der Beitrittsverträge hierzu
-        und der Verträge zu deren Änderung, Erweiterung, Ergänzung oder
-        Durchführung oder zur Begründung einer Zollunion oder Freihandelszone
-        oder auf Grund von hierauf gestützten Rechtsakten von Organen der
-        Europäischen Gemeinschaften gestattet worden ist;
+        Gründung der Europäischen Union, der Beitrittsverträge hierzu und der
+        Verträge zu deren Änderung, Erweiterung, Ergänzung oder Durchführung
+        oder zur Begründung einer Zollunion oder Freihandelszone oder auf
+        Grund von hierauf gestützten Rechtsakten von Organen der Europäischen
+        Union gestattet worden ist;
 
 
     b)  als dies zur beschleunigten Verwirklichung der Ziele der unter
         Buchstabe a bezeichneten Verträge erforderlich ist, wenn
         sichergestellt ist, daß die anderen Mitgliedstaaten der Europäischen
-        Gemeinschaften entsprechende Zolltarifänderungen durchführen;
+        Union entsprechende Zolltarifänderungen durchführen;
 
 
     c)  als die Bundesrepublik Deutschland nach den unter Buchstabe a
         bezeichneten Verträgen sowie nach den auf die vorbezeichneten Verträge
-        gestützten Rechtsakten von Organen der Europäischen Gemeinschaften zur
+        gestützten Rechtsakten von Organen der Europäischen Union zur
         Festsetzung von Zollkontingenten berechtigt ist.
 
 
@@ -253,24 +253,23 @@ insoweit ändern,
 
 1.  als die Bundesrepublik Deutschland nach den in Absatz 2 Nr. 2
     Buchstabe a bezeichneten Verträgen, auf Grund von hierauf gestützten
-    Rechtsakten von Organen der Europäischen Gemeinschaften oder auf Grund
-    von Beschlüssen der im Rat vereinigten Vertreter der Regierungen der
+    Rechtsakten von Organen der Europäischen Union oder auf Grund von
+    Beschlüssen der im Rat vereinigten Vertreter der Regierungen der
     Mitgliedstaaten dazu verpflichtet ist;
 
 
 2.  als es zur Durchführung von Verträgen, die die Mitgliedstaaten der
-    Europäischen Gemeinschaften oder diese Gemeinschaften mit anderen
-    Staaten geschlossen haben, sowie von Beschlüssen über die
-    beschleunigte Verwirklichung der Ziele der vorbezeichneten Verträge
-    erforderlich ist;
+    Europäischen Union oder diese Union mit anderen Staaten geschlossen
+    haben, sowie von Beschlüssen über die beschleunigte Verwirklichung der
+    Ziele der vorbezeichneten Verträge erforderlich ist;
 
 
 3.  als die Bundesrepublik Deutschland nach den in Absatz 2 Nr. 2
     Buchstabe a und den in Nummer 2 bezeichneten Verträgen, auf Grund von
-    hierauf gestützten Rechtsakten von Organen der Europäischen
-    Gemeinschaften oder auf Grund von Beschlüssen der im Rat vereinigten
-    Vertreter der Regierungen der Mitgliedstaaten zur Festsetzung von
-    Zollkontingenten verpflichtet ist.
+    hierauf gestützten Rechtsakten von Organen der Europäischen Union oder
+    auf Grund von Beschlüssen der im Rat vereinigten Vertreter der
+    Regierungen der Mitgliedstaaten zur Festsetzung von Zollkontingenten
+    verpflichtet ist.
 
 
 
@@ -290,32 +289,32 @@ Waren zu ändern.
 (6) Das Bundesministerium der Finanzen kann den Zolltarif durch
 Rechtsverordnung insoweit ändern, als die Bundesrepublik Deutschland
 auf Grund unmittelbar in allen Mitgliedstaaten geltender Rechtsakte
-der Organe der Europäischen Gemeinschaften über Änderungen oder
-Ergänzungen des Gemeinsamen Zolltarifs verpflichtet oder ermächtigt
-ist, Durchführungsvorschriften zu erlassen.
+der Organe der Europäischen Union über Änderungen oder Ergänzungen des
+Gemeinsamen Zolltarifs verpflichtet oder ermächtigt ist,
+Durchführungsvorschriften zu erlassen.
 
 (7) (weggefallen)
 
 (8) Das Bundesministerium der Finanzen regelt durch Rechtsverordnung
 die Zuständigkeit der Dienststellen der Zollverwaltung für die
 Erteilung von verbindlichen Zolltarifauskünften und von verbindlichen
-Ursprungsauskünften nach Artikel 12 des Zollkodex.
+Ursprungsauskünften nach Artikel 33 des Zollkodex der Union.
 
 (9) Die Industrie- und Handelskammern erteilen zum Zwecke der
 Ausstellung von Ursprungsnachweisen verbindliche Auskünfte nach
-Artikel 12 des Zollkodex über die Feststellung des
+Artikel 33 des Zollkodex der Union über die Feststellung des
 nichtpräferentiellen Ursprungs für Waren, die in der Europäischen
-Gemeinschaft vollständig gewonnen oder hergestellt oder be- oder
-verarbeitet werden. Dies gilt nicht für Waren, für die gemeinsame
+Union vollständig gewonnen oder hergestellt oder be- oder verarbeitet
+werden. Dies gilt nicht für Waren, für die gemeinsame
 Marktorganisationen bestehen, nach denen die Gewährung von Leistungen
 von der Bestimmung des Ursprungs abhängt.
 
 
 ### § 7 Nichtannahme der Zollanmeldung
 
-(1) Unbeschadet des Zollkodex und der sonstigen
-gemeinschaftsrechtlichen Vorschriften lehnt die Zollstelle die Annahme
-der Zollanmeldung ab, wenn
+(1) Unbeschadet des Zollkodex der Union und der sonstigen
+unionsrechtlichen Vorschriften lehnt die Zollstelle die Annahme der
+Zollanmeldung ab, wenn
 
 1.  die Zollstelle sachlich nicht zuständig ist,
 
@@ -343,9 +342,9 @@ der Zollanmeldung ab, wenn
 
 ### § 8 Nämlichkeitssicherung
 
-Soweit die Sicherung der Nämlichkeit (Artikel 72 des Zollkodex)
-erforderlich ist, hat der Beteiligte Räume, Beförderungsmittel und
-Behältnisse, die zollamtlich verschlossen werden sollen, auf seine
+Soweit die Sicherung der Nämlichkeit (Artikel 192 des Zollkodex der
+Union) erforderlich ist, hat der Beteiligte Räume, Beförderungsmittel
+und Behältnisse, die zollamtlich verschlossen werden sollen, auf seine
 Kosten zollsicher herzurichten. Er hat auch auf seine Kosten an
 Packstücken und Waren die Vorrichtungen zum Anlegen der
 Nämlichkeitsmittel anzubringen und Muster, Abbildungen oder
@@ -437,12 +436,13 @@ Beförderungsmitteln mitgeführt werden.
 Anhaltspunkte dafür, daß sie vorschriftswidrig Waren mitführen, die
 der zollamtlichen Überwachung nach dem gemeinschaftlichen Zollrecht
 oder diesem Gesetz unterliegen, angehalten und an einem hierfür
-geeigneten Ort körperlich durchsucht werden. Kann die körperliche
-Durchsuchung das Schamgefühl verletzen, so wird sie einer oder einem
-Zollbediensteten gleichen Geschlechts übertragen. Bestehen zureichende
-tatsächliche Anhaltspunkte dafür, daß die angehaltenen Personen Waffen
-in oder unter ihrer Kleidung verborgen haben, können sie an Ort und
-Stelle durchsucht werden.
+geeigneten Ort körperlich durchsucht werden. Personen dürfen nur von
+Bediensteten ihres Geschlechts durchsucht werden; dies gilt nicht,
+wenn eine sofortige Durchsuchung zum Schutz gegen eine Gefahr für Leib
+oder Leben erforderlich ist. Personen können festgehalten und zur
+Dienststelle oder einer sonstigen geeigneten Örtlichkeit mitgenommen
+werden, wenn die Durchsuchung auf andere Weise nicht oder nur unter
+erheblichen Schwierigkeiten durchgeführt werden kann.
 
 (3a) Im Rahmen der Erfassung des Warenverkehrs kann durch Überholung
 am Ort der Gestellung geprüft werden, ob Nichtgemeinschaftswaren
@@ -460,13 +460,116 @@ Ersatzteile und andere Unterlagen über das Beförderungsmittel
 vorzulegen. Diese Pflichten treffen für das Beförderungsmittel den
 Fahrzeugführer.
 
-(4) Die Zollbediensteten dürfen nach § 5 Abs. 1 vorgelegte Sendungen
-öffnen und prüfen.
+(4) Die Postdienstleister sind verpflichtet, den Zollbediensteten für
+die Durchführung der Aufgaben nach Satz 2 während der Betriebs- und
+Geschäftszeiten Zutritt zu ihren Geschäfts- und Betriebsräumen zu
+gewähren. Die Zollbediensteten
+
+1.  prüfen, ob der Postdienstleister seiner Verpflichtung gemäß § 5 Absatz
+    1 nachgekommen ist,
+
+
+2.  überprüfen die Postsendungen, die der Postdienstleister gemäß § 5
+    Absatz 1 anzuzeigen und auf Verlangen vorzulegen hat, sofern diese
+    noch nicht gemäß § 5 Absatz 1 bei der zuständigen Zollstelle angezeigt
+    oder vorgelegt wurden,
+
+
+3.  führen zur Erfüllung der in § 1 Absatz 4 und 5 genannten Aufgaben
+    stichprobenweise oder risikoorientierte Zollkontrollen durch oder
+
+
+4.  führen alle anderen stichprobenweisen oder risikoorientierten
+    Zollkontrollen durch, die erforderlich sind, um die ordnungsgemäße
+    Anwendung der zollrechtlichen und sonstigen Vorschriften über den
+    Eingang, den Ausgang, den Versand, die Beförderung und die besondere
+    Verwendung von Waren, die zwischen dem Zollgebiet der Union und
+    Drittländern oder zwischen den Mitgliedstaaten der Europäischen Union
+    befördert werden, sowie über das Vorhandensein von Waren ohne
+    Unionsstatus zu gewährleisten.
+
+
+
+Die Sätze 1 und 2 finden entsprechende Anwendung auf Fahrzeuge, die
+sich auf den Betriebsgrundstücken der Postdienstleister befinden und
+die für den Transport von Postsendungen genutzt werden.
+
+(4a) Der Postdienstleister hat die im Rahmen der Kontrollen nach
+Absatz 4 Satz 2 Nummer 1, 3 und 4 von den Zollbediensteten
+ausgewählten Postsendungen auf Verlangen vorzulegen. Er trägt die ihm
+hierdurch entstehenden Kosten. Die Zollbediensteten dürfen
+Postsendungen, die nach Satz 1 oder § 5 Absatz 1 anzuzeigen und auf
+Verlangen vorzulegen sind, sowie solche, die der zollamtlichen
+Kontrolle nach den Absätzen 1, 2 und 3a unterliegen, öffnen und
+prüfen.
 
 (5) Das Grundrecht auf Freiheit der Person, das Brief- und
 Postgeheimnis sowie das Grundrecht auf Unverletzlichkeit der Wohnung
 (Artikel 2 Abs. 2, Artikel 10 und Artikel 13 Abs. 1 des Grundgesetzes)
-werden nach Maßgabe der Absätze 1 bis 4 eingeschränkt.
+werden nach Maßgabe der Absätze 1 bis 4a eingeschränkt.
+
+
+### § 10a Zollbedienstete in den Vollzugsbereichen der Zollverwaltung; Befugnisse bei Sicherungs- und Schutzmaßnahmen
+
+(1) Zollbedienstete in den Vollzugsbereichen der Zollverwaltung im
+Sinne dieses Gesetzes sind die in § 9 Nummer 2 und 8 des Gesetzes über
+den unmittelbaren Zwang bei Ausübung öffentlicher Gewalt durch
+Vollzugsbeamte des Bundes genannten Personen.
+
+(2) Bei der Wahrnehmung von Aufgaben nach § 1 und von anderen durch
+Rechtsvorschriften zugewiesenen Aufgaben sind die Zollbediensteten in
+den Vollzugsbereichen der Zollverwaltung zur Sicherung ihrer selbst,
+anderer Zollbediensteter sowie von Einrichtungen und Einsatzmitteln
+der Zollverwaltung, soweit diese Einrichtungen und Einsatzmittel für
+die Durchführung der Aufgaben der Zollverwaltung erforderlich sind,
+befugt,
+
+1.  die Identität von Personen festzustellen; § 23 Absatz 3 Satz 1, 2, 4
+    und 5 des Bundespolizeigesetzes gilt entsprechend,
+
+
+2.  personenbezogene Daten mit dem Inhalt von Dateien abzugleichen, die
+    sie selbst führen oder für die sie die Berechtigung zum Abruf haben,
+
+
+3.  eine Person vorübergehend von einem Ort zu verweisen oder ihr
+    vorübergehend das Betreten eines Ortes zu verbieten,
+
+
+4.  eine Person an Ort und Stelle zu durchsuchen, die auf Grund dieses
+    Gesetzes oder einer anderen Rechtsvorschrift festgehalten werden kann
+    oder wenn zureichende tatsächliche Anhaltspunkte dafür bestehen, dass
+    sie Waffen, Explosionsmittel oder andere gefährliche Gegenstände mit
+    sich führt; § 10 Absatz 3 Satz 2 und 3 gilt entsprechend,
+
+
+5.  eine Sache zu durchsuchen, wenn sie von einer Person mitgeführt wird,
+    die nach Nummer 4 durchsucht werden darf oder zureichende tatsächliche
+    Anhaltspunkte bestehen, dass sich in ihr Sachen befinden, die
+    sichergestellt werden dürfen; § 44 Absatz 4 des Bundespolizeigesetzes
+    gilt entsprechend,
+
+
+6.  eine Sache sicherzustellen, wenn sie von einer Person mitgeführt wird,
+    die nach diesem Gesetz oder anderen Rechtsvorschriften festgehalten
+    werden kann, und die Sache von der Person verwendet werden kann, um
+    Leben oder Gesundheit anderer zu schädigen, fremde Sachen zu
+    beschädigen oder sich dem Gewahrsam zu entziehen; die §§ 48 bis 50 des
+    Bundespolizeigesetzes gelten entsprechend.
+
+
+
+Des Weiteren sind sie befugt, eine Person in Gewahrsam zu nehmen, wenn
+dies unerlässlich ist, um einen rechtswidrigen Angriff auf Leib und
+Leben abzuwehren. § 40 Absatz 1 und 2 sowie die §§ 41 und 42 Absatz 1
+Satz 1 und Absatz 2 des Bundespolizeigesetzes gelten entsprechend. Die
+Maßnahmen sind nur zulässig, soweit sie zur Erfüllung der in Satz 1
+genannten Aufgaben oder zur Abwehr einer im Einzelfall bestehenden
+Gefahr für Leib, Leben, Gesundheit, Freiheit der Willensentschließung
+oder -betätigung einer Person oder zum Schutz von Einrichtungen und
+Einsatzmitteln der Zollverwaltung erforderlich sind.
+
+(3) Die §§ 15 bis 20 des Bundespolizeigesetzes gelten entsprechend.
 
 
 ### § 11 Datenübermittlung ins Ausland sowie an über- oder zwischenstaatliche Stellen
@@ -677,7 +780,7 @@ Postgeheimnis nach Artikel 10 des Grundgesetzes wird nach Maßgabe der
 Sätze 1 und 2 eingeschränkt.
 
 
-### § 12a Überwachung des grenzüberschreitenden Bargeldverkehrs
+### § 12a Überwachung des grenzüberschreitenden Verkehrs mit Barmitteln und gleichgestellten Zahlungsmitteln
 
 (1) Die nach Artikel 3 der Verordnung (EG) Nr. 1889/2005 des
 Europäischen Parlaments und des Rates vom 26. Oktober 2005 über die
@@ -686,133 +789,189 @@ verbracht werden (ABl. EU Nr. L 309 S. 9), erforderliche Anmeldung
 muss schriftlich im Zeitpunkt der Ein- oder Ausreise erfolgen. Die §§
 2 und 4 gelten entsprechend.
 
-(2) Auf Verlangen der Zollbediensteten haben Personen Bargeld oder
-gleichgestellte Zahlungsmittel im Wert von 10 000 Euro oder mehr, die
-sie in den, aus dem oder durch den Geltungsbereich dieses Gesetzes
-verbringen oder befördern, nach Art, Zahl und Wert anzuzeigen sowie
-die Herkunft, den wirtschaftlich Berechtigten und den Verwendungszweck
-darzulegen. Institute im Sinne des § 2 Abs. 1 Nr. 1 bis 6 des
-Geldwäschegesetzes vom 13. August 2008 (BGBl. I S. 1690) in der
-jeweils geltenden Fassung und ihre Beauftragten sind von den
-Verpflichtungen nach Satz 1 ausgenommen.
+(2) Auf Verlangen der Zollbediensteten müssen natürliche Personen
+unbeschadet des Absatzes 1 Barmittel und gleichgestellte
+Zahlungsmittel im Gesamtwert von 10 000 Euro oder mehr, die sie in
+den, aus dem oder durch den Geltungsbereich dieses Gesetzes
+verbringen, nach Art, Zahl und Wert anzeigen sowie die Herkunft, den
+wirtschaftlich Berechtigten und den Verwendungszweck dieser Barmittel
+und gleichgestellter Zahlungsmittel darlegen. Gesamtwert im Sinne des
+Satzes 1 ist die Summe der Barmittel und gleichgestellten
+Zahlungsmittel.
 
-(3) Zur Ermittlung des Sachverhaltes nach den Absätzen 1 und 2 haben
-die Zollbediensteten die Befugnisse nach § 10. Im Bereich der Grenzen
-zu anderen Mitgliedstaaten der Europäischen Union findet § 10 Abs. 1
-entsprechende Anwendung. Ist es zur Ermittlung des Sachverhalts
-erforderlich, dürfen die Zollbehörden personenbezogene Daten bei nicht
-öffentlichen Stellen erheben, soweit die Sachverhaltsaufklärung durch
-den Betroffenen nicht zum Ziel führt oder aussichtslos wäre.
+(3) Beauftragte von Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 9
+des Geldwäschegesetzes sind von den Verpflichtungen nach Absatz 2
+ausgenommen, sofern der Transport von Barmitteln oder gleichgestellten
+Zahlungsmitteln ausschließlich zwischen diesen Verpflichteten erfolgt.
+Auf Verlangen der Zollbediensteten müssen die Beauftragten nachweisen,
+dass die Voraussetzungen für die Befreiung von der Anzeigepflicht nach
+Absatz 2 vorliegen.
 
-(4) Die Zollbediensteten können, wenn Grund zu der Annahme besteht,
-dass Bargeld oder gleichgestellte Zahlungsmittel zum Zwecke der
-Geldwäsche verbracht werden, das Bargeld oder die gleichgestellten
-Zahlungsmittel bis zum Ablauf des dritten Werktages nach dem Auffinden
-sicherstellen und in zollamtliche Verwahrung nehmen, um die Herkunft
-oder den Verwendungszweck aufzudecken. Fällt der dritte Werktag auf
-einen Samstag, so endet die Frist mit Ablauf des nächsten Werktages.
-Diese Frist kann durch Entscheidung eines Richters einmalig bis zu
-einem Monat verlängert werden. Zur Bekanntmachung der Entscheidung
-genügt eine formlose Mitteilung. Zuständig ist der Richter bei dem
-Amtsgericht, in dessen Bezirk die Sicherstellung erfolgt ist. Die
-zuständigen Strafverfolgungsbehörden sind von der Sicherstellung
-unverzüglich zu unterrichten.
+(4) Zur Überprüfung der Einhaltung der Vorgaben der Absätze 1 bis 3
+haben die Zollbediensteten die Befugnisse nach § 10. Im Bereich der
+Grenzen zu anderen Mitgliedstaaten der Europäischen Union ist § 10
+Absatz 1 entsprechend anzuwenden.
 
-(4a) Absatz 4 gilt entsprechend, wenn Grund zu der Annahme besteht,
-dass Bargeld oder gleichgestellte Zahlungsmittel zum Zwecke der
-Vorbereitung einer schweren staatsgefährdenden Gewalttat nach § 89a
-Abs. 1, 2 Nr. 4 des Strafgesetzbuchs oder der Finanzierung einer
-terroristischen Vereinigung nach § 129a, auch in Verbindung mit § 129b
-des Strafgesetzbuchs, verbracht werden. Dies ist in der Regel
-insbesondere dann der Fall, wenn sich Bargeld oder gleichgestellte
-Zahlungsmittel im Besitz oder Eigentum von natürlichen oder
-juristischen Personen oder nicht rechtsfähigen Personenvereinigungen
-befinden, deren Name auf einer Liste nach
+(5) Zum Nachweis der Herkunft, des wirtschaftlich Berechtigten und des
+Verwendungszwecks der Barmittel oder gleichgestellter Zahlungsmittel
+muss der Betroffene oder wirtschaftlich Berechtigte auf Verlangen der
+Zollbediensteten geeignete Belege, Urkunden oder sonstige Dokumente
+vorlegen. Die Mitteilungen und Aufzeichnungen dürfen auch für
+Besteuerungsverfahren und für Strafverfahren wegen Steuerstraftaten
+verwendet werden. Unbeschadet des Absatzes 7 gelten die §§ 102 und 103
+der Abgabenordnung entsprechend.
 
-a)  Artikel 1 Abs. 4 des Gemeinsamen Standpunktes des Rates 2001/931/GASP
-    vom 27. Dezember 2001 über die Anwendung besonderer Maßnahmen zur
-    Bekämpfung des Terrorismus (ABl. EG Nr. L 344 S. 93) oder
+(6) Ist es zum Nachweis der Herkunft, des wirtschaftlich Berechtigten
+oder des Verwendungszwecks der Barmittel oder gleichgestellten
+Zahlungsmittel erforderlich, dürfen die Zollbehörden personenbezogene
+Daten bei nicht öffentlichen Stellen erheben, soweit die
+Sachverhaltsaufklärung durch den Betroffenen nicht zum Ziel führt oder
+keinen Erfolg verspricht. Es können Auskunftsersuchen gegenüber
+Verpflichteten nach § 2 Absatz 1 Nummer 1 bis 6 des Geldwäschegesetzes
+gestellt werden. Die nicht öffentlichen Stellen müssen den
+Zollbehörden die zur Aufklärung des Sachverhalts erforderlichen
+Auskünfte auf Verlangen innerhalb von drei Werktagen erteilen. Die §§
+102 und 103 der Abgabenordnung gelten entsprechend.
 
+(7) Die Zollbediensteten können, wenn Grund zu der Annahme besteht,
+dass im grenzüberschreitenden Verkehr beförderte Barmittel oder
+gleichgestellte Zahlungsmittel zum Zwecke
 
-b)  Artikel 2 Abs. 1 der Verordnung (EG) Nr. 881/2002 des Rates vom 27.
-    Mai 2002 über die Anwendung bestimmter spezifischer restriktiver
-    Maßnahmen gegen bestimmte Personen und Organisationen, die mit Osama
-    bin Laden, dem Al-Qaida-Netzwerk und den Taliban in Verbindung stehen,
-    und zur Aufhebung der Verordnung (EG) Nr. 467/2001 des Rates über das
-    Verbot der Ausfuhr bestimmter Waren und Dienstleistungen nach
-    Afghanistan, über die Ausweitung des Flugverbots und des Einfrierens
-    von Geldern und anderen Finanzmitteln betreffend die Taliban von
-    Afghanistan (ABl. EG Nr. L 139 S. 9)
+1.  der Geldwäsche nach § 261 des Strafgesetzbuchs,
 
 
-
-in der jeweils geltenden Fassung aufgenommen wurde, es sei denn, von
-den zuständigen nationalen Behörden wurde eine Ausnahmegenehmigung
-nach Artikel 5 Abs. 2 Nr. 1 der Verordnung (EG) Nr. 2580/2001 des
-Rates vom 27. Dezember 2001 über spezifische, gegen bestimmte Personen
-und Organisationen gerichtete restriktive Maßnahmen zur Bekämpfung des
-Terrorismus (ABl. EG Nr. L 344 S. 70) in der jeweils geltenden Fassung
-oder nach Artikel 2a der Verordnung (EG) Nr. 881/2002 erteilt.
-
-(5) Die zuständigen Zollbehörden dürfen, soweit dies zur Erfüllung
-ihrer Aufgaben nach § 1 Abs. 3a und nach den Absätzen 1 bis 4a
-erforderlich ist, personenbezogene Daten erheben, verarbeiten und
-nutzen. Die Erhebung, Verarbeitung und Nutzung weiterer Daten, die
-nicht unmittelbar im Zusammenhang mit dem grenzüberschreitenden
-Verkehr von Bargeld oder gleichgestellten Zahlungsmitteln stehen, ist
-nur zulässig, soweit Tatsachen auf einen in § 1 Absatz 3a Satz 3 oder
-Absatz 4a bezeichneten Verstoß schließen lassen. Die Zollbehörden
-können diese Daten an die zuständigen Strafverfolgungsbehörden und die
-Verwaltungsbehörde nach § 31a Abs. 4 und § 31b Abs. 3, die nach § 31a
-Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe bb der Abgabenordnung
-zuständigen Sozialleistungsträger sowie die Bundesanstalt für
-Finanzdienstleistungsaufsicht übermitteln, soweit dies zur Erfüllung
-ihrer Aufgaben oder der des Empfängers erforderlich ist. Die
-Übermittlung personenbezogener Daten an andere Finanzbehörden ist
-zulässig, soweit ihre Kenntnis von Bedeutung sein kann zur
-Durchführung
-
-1.  eines Verwaltungsverfahrens in Steuersachen,
+2.  der Terrorismusfinanzierung nach § 89a Absatz 2a, § 89c des
+    Strafgesetzbuchs,
 
 
-2.  eines Strafverfahrens wegen einer Steuerstraftat,
+3.  der Finanzierung einer terroristischen Vereinigung nach § 129a, auch
+    in Verbindung mit § 129b des Strafgesetzbuchs,
 
 
-3.  eines Bußgeldverfahrens wegen einer Steuerordnungswidrigkeit oder
+4.  der Aufrechterhaltung des organisatorischen Zusammenhalts eines
+    verbotenen Vereins oder einer verbotenen Partei nach § 20 Absatz 1 des
+    Vereinsgesetzes oder
 
 
-4.  eines Verwaltungsverfahrens wegen unerlaubter
+5.  der verbotenen Bereitstellung oder verbotswidrigen Verfügung nach § 18
+    Absatz 1 Nummer 1 des Außenwirtschaftsgesetzes
+
+
+
+verbracht werden, die Barmittel oder gleichgestellten Zahlungsmittel
+sowie die zugehörigen Behältnisse und Umschließungen bis zum Ablauf
+des fünften Werktages nach dem Auffinden sicherstellen und in
+zollamtliche Verwahrung nehmen, um die Herkunft oder den
+Verwendungszweck aufzuklären. Diese Frist kann durch Entscheidung des
+Gerichts einmalig bis zu drei Monate verlängert werden. Zur
+Bekanntmachung der Entscheidung genügt eine formlose Mitteilung.
+Zuständig ist das Amtsgericht, in dessen Bezirk die Sicherstellung
+erfolgt ist. Der Widerspruch gegen die Sicherstellung nach Satz 1 hat
+keine aufschiebende Wirkung. Sobald die Voraussetzungen für die
+Sicherstellung weggefallen sind, sind die Barmittel oder
+gleichgestellten Zahlungsmittel an denjenigen herauszugeben, bei dem
+sie sichergestellt worden sind. Ist die Herausgabe an ihn nicht
+möglich, können sie an einen anderen herausgegeben werden, der seine
+Berechtigung glaubhaft macht.
+
+(8) Die Zollbehörden dürfen, soweit dies zur Erfüllung ihrer Aufgaben
+nach § 1 Absatz 4 und 5 und nach den Absätzen 1 bis 7 erforderlich
+ist, personenbezogene Daten verarbeiten. Die Verarbeitung weiterer
+Daten, die nicht unmittelbar im Zusammenhang mit dem
+grenzüberschreitenden Verkehr von Barmitteln oder gleichgestellten
+Zahlungsmitteln stehen, ist nur zulässig, wenn
+
+1.  es zur Verfolgung von Straftaten oder Ordnungswidrigkeiten
+    erforderlich ist,
+
+
+2.  es zur Abwehr erheblicher Nachteile für das Gemeinwohl oder einer
+    erheblichen Gefahr für die öffentliche Sicherheit erforderlich ist,
+
+
+3.  die Kenntnis der Daten von Bedeutung sein kann für die Durchführung
+    eines Verwaltungsverfahrens in Steuersachen sowie für die
+    Verhinderung, Aufdeckung und Bekämpfung von Geldwäsche und
+    Terrorismusfinanzierung oder
+
+
+4.  die Kenntnis der Daten von Bedeutung sein kann für die Durchführung
+    eines Verwaltungsverfahrens wegen unerlaubter
     Finanztransferdienstleistungen.
 
 
 
+Die Zollbehörden haben die Daten nach den Sätzen 1 und 2 an die
+zuständigen Strafverfolgungsbehörden, Finanzbehörden,
+Verwaltungsbehörden, Sozialleistungsträger, die Zentralstelle für
+Finanztransaktionsuntersuchungen sowie die Bundesanstalt für
+Finanzdienstleistungsaufsicht zu übermitteln. Die Übermittlung an die
+Nachrichtendienste richtet sich nach § 18 des
+Bundesverfassungsschutzgesetzes, § 10 des MAD-Gesetzes und § 8 des
+BND-Gesetzes sowie den landesrechtlichen Vorschriften.
 
-(6) Für Streitigkeiten wegen Maßnahmen nach Absätze 2, 3, 4 Satz 1,
-Absatz 4a Satz 1 und Absatz 5 ist der Finanzrechtsweg gegeben.
 
+### § 12b Befugnisse des Zollfahndungsdienstes bei der Verfolgung der internationalen organisierten Geldwäsche
 
-### § 12b Befugnisse der Zollfahndungsämter bei der Verfolgung der internationalen organisierten Geldwäsche
-
-Die Zollfahndungsämter und ihre Beamten haben bei der Erfüllung ihrer
-Aufgaben nach § 1 Abs. 3c dieselben Rechte und Pflichten wie die
-Behörden und Beamten des Polizeidienstes nach den Vorschriften der
-Strafprozessordnung; ihre Beamten sind Ermittlungspersonen der
-Staatsanwaltschaft.
+Die Behörden des Zollfahndungsdienstes und ihre Beamten haben bei der
+Erfüllung ihrer Aufgaben nach § 1 Absatz 5 dieselben Rechte und
+Pflichten wie die Behörden und Beamten des Polizeidienstes nach den
+Vorschriften der Strafprozessordnung; ihre Beamten sind
+Ermittlungspersonen der Staatsanwaltschaft.
 
 
 ### § 12c Amtshandlungen von Beamten der Bundespolizei im Zuständigkeitsbereich der Zollverwaltung
 
-Nehmen Beamte der Bundespolizei und der Polizeien der Länder Aufgaben
-nach § 1 Abs. 3b wahr, so haben sie dieselben Befugnisse wie die
-Beamten der Zollverwaltung. Ihre Maßnahmen gelten als Maßnahme der
+(1) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
+Bundesministerium des Innern Beamte der Bundespolizei damit betrauen,
+Aufgaben der Zollverwaltung nach § 1 Absatz 4 Satz 1 bei der Erfüllung
+von Aufgaben der Bundespolizei wahrzunehmen.
+
+(2) Nehmen Beamte der Bundespolizei Aufgaben wahr, die ihnen nach
+Absatz 1 übertragen wurden, so haben sie dieselben Befugnisse wie die
+Zollbediensteten. Ihre Maßnahmen gelten als Maßnahmen der
 Zollverwaltung. Das Bundesministerium der Finanzen und die
 nachgeordneten Zolldienststellen üben ihnen gegenüber insoweit
 Fachaufsicht aus.
 
 
+### § 12d Amtshandlungen von Zollbediensteten in den Vollzugsbereichen der Zollverwaltung im Zuständigkeitsbereich eines Landes
+
+Zollbedienstete in den Vollzugsbereichen der Zollverwaltung dürfen
+nach Maßgabe des jeweiligen Landesrechts im Zuständigkeitsbereich des
+Landes polizeiliche Amtshandlungen vornehmen, wenn die zuständige
+Polizeibehörde die erforderlichen Maßnahmen nicht rechtzeitig treffen
+kann.
+
+
+### § 12e Überwachung des grenzüberschreitenden Verkehrs mit verbrauchsteuerpflichtigen Waren
+
+(1) Zollbedienstete können Waren sowie dazugehörige Behältnisse und
+Umschließungen bis zum Ablauf des fünften Werktages nach dem Auffinden
+sicherstellen und in zollamtliche Verwahrung nehmen, wenn Grund zu der
+Annahme besteht, dass im grenzüberschreitenden Verkehr beförderte
+verbrauchsteuerpflichtige Waren oder zur Herstellung solcher Waren
+geeignete Waren und Geräte in der Absicht der Begehung einer
+Steuerstraftat nach § 369 der Abgabenordnung verbracht werden sollen.
+Die Maßnahmen nach Satz 1 dienen der Überprüfung der Rechtmäßigkeit
+des Verwendungszwecks der Waren. § 12a Absatz 7 Satz 2 bis 6 gilt
+entsprechend.
+
+(2) Betroffene Personen haben auf Aufforderung durch Belege
+nachzuweisen, dass ein Abnehmer die Lieferung tatsächlich erhalten
+wird und zur Abnahme berechtigt ist. Die Voraussetzungen müssen sich
+aus den Belegen eindeutig und leicht nachprüfbar ergeben. Die §§ 102
+und 103 der Abgabenordnung gelten entsprechend. Die Belege dürfen auch
+für Besteuerungsverfahren und für Strafverfahren wegen
+Steuerstraftaten verwendet werden; § 30 Absatz 4 Nummer 3 und 5 der
+Abgabenordnung bleibt unberührt.
+
+(3) § 12a Absatz 8 gilt entsprechend.
+
+
 ### § 13 Verwertung von Waren
 
-(1) Soweit im Zollkodex und in sonstigen gemeinschaftsrechtlichen
+(1) Soweit im Zollkodex der Union und in sonstigen unionsrechtlichen
 Vorschriften geregelt ist, daß Waren durch die Zollbehörden veräußert
 werden können, können sie durch Wegnahme oder Verfügungsverbot
 zollamtlich sichergestellt werden. Die Vorschriften der Abgabenordnung
@@ -823,11 +982,11 @@ Veräußerung sind ihnen, soweit möglich, mitzuteilen. Die veräußerten
 Waren werden dem Erwerber ausgehändigt, nachdem sie eine
 zollrechtliche Bestimmung erhalten haben.
 
-(2) Im Rahmen des Artikels 56 des Zollkodex können vorübergehend
-verwahrte Waren durch die Zollbehörden veräußert werden, wenn ihnen
-Verderb oder eine wesentliche Minderung ihres Wertes droht oder ihre
-Aufbewahrung, Pflege oder Erhaltung unverhältnismäßig viel kostet oder
-unverhältnismäßig schwierig ist. Absatz 1 ist anzuwenden.
+(2) Im Rahmen des Artikels 197 des Zollkodex der Union können
+vorübergehend verwahrte Waren durch die Zollbehörden veräußert werden,
+wenn ihnen Verderb oder eine wesentliche Minderung ihres Wertes droht
+oder ihre Aufbewahrung, Pflege oder Erhaltung unverhältnismäßig viel
+kostet oder unverhältnismäßig schwierig ist. Absatz 1 ist anzuwenden.
 
 (3) Waren, die nach den Absätzen 1 oder 2 nicht veräußert werden
 können, können vernichtet werden.
@@ -872,13 +1031,12 @@ Rechtsverordnung auf die Hauptzollämter übertragen.
 
 (4) Das Bundesministerium der Finanzen kann zur Sicherung der
 Zollbelange durch Rechtsverordnung Binnengewässer, die von außerhalb
-des Zollgebiets der Gemeinschaft her zu Wasser zugänglich sind, ihre
-Inseln und ihr Ufergelände, Zollflugplätze, verkehrsrechtlich
-zugelassene Flugplätze sowie den um die Freizonen des Kontrolltyps I
-gelegenen Bereich in einer für die wirksame Überwachung erforderlichen
-Ausdehnung der Grenzaufsicht unterwerfen. Für ein solches Gebiet
-gelten die Absätze 2 und 3 sowie § 10 Abs. 1 und § 15 Abs. 5
-entsprechend.
+des Zollgebiets der Union her zu Wasser zugänglich sind, ihre Inseln
+und ihr Ufergelände, Zollflugplätze und andere verkehrsrechtlich
+zugelassene Flugplätze sowie den um die Freizonen gelegenen Bereich in
+einer für die wirksame Überwachung erforderlichen Ausdehnung der
+Grenzaufsicht unterwerfen. Für ein solches Gebiet gelten die Absätze 2
+und 3 sowie § 10 Abs. 1 und § 15 Abs. 5 entsprechend.
 
 
 ### § 15 Grundstücke und Bauten in Grenznähe, an Freizonengrenzen und auf Flugplätzen
@@ -908,14 +1066,14 @@ Hindernisse, Schutzhütten, Zugangswege und ähnliche Anlagen errichten,
 die unerlaubten Warenverkehr über die Zollgrenze erschweren oder eine
 bessere Überwachung ermöglichen.
 
-(3) Einrichtungen auf Zollflugplätzen (§ 2 Abs. 2) und
+(3) Einrichtungen auf Zollflugplätzen (§ 2 Abs. 2) und anderen
 verkehrsrechtlich zugelassenen Flugplätzen sind, soweit sie die
 Sicherheit der Zollbelange gefährden, auf Anordnung des Hauptzollamts
 zu entfernen oder mit geeigneten Sicherungsvorrichtungen zu versehen.
 
-(4) Bezüglich des um die Freizonen des Kontrolltyps I gelegenen
-Bereichs gelten die Absätze 1 und 2 mit der Maßgabe, daß die
-Entfernung von der Freizonenbegrenzung drei Meter beträgt.
+(4) Bezüglich des um die Freizonen gelegenen Bereichs gelten die
+Absätze 1 und 2 mit der Maßgabe, daß die Entfernung von der
+Freizonenbegrenzung drei Meter beträgt.
 
 (5) Entschädigungen werden in den Fällen der Absätze 1 bis 4 nicht
 gewährt. Erleidet jemand durch eine Maßnahme auf Grund des § 14 Abs. 2
@@ -952,19 +1110,17 @@ dem Finanzverwaltungsgesetz vom 30. August 1971 (BGBl. I S. 1426,
 1427) in der jeweils geltenden Fassung.
 
 (2) Dienststellen der Zollverwaltung sind Zollbehörden im Sinne des
-Artikels 4 Nr. 3 des Zollkodex. Die Hauptzollämter und ihre
-Dienststellen sind Zollstellen im Sinne des Artikels 4 Nr. 4 des
-Zollkodex.
+Artikels 5 Nummer 1 des Zollkodex der Union.
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung die
 Zuständigkeiten der Hauptzollämter und ihrer Dienststellen festlegen.
 
 (4) Der Grenzaufsichtsdienst der Zollverwaltung sichert unbeschadet
 anderer gesetzlicher Regelungen insbesondere den deutschen Teil der
-Grenze des Zollgebiets der Gemeinschaft und überwacht den grenznahen
-Raum (§ 14 Abs. 1) sowie die anderen der Grenzaufsicht unterworfenen
-Gebiete (§ 14 Abs. 4). Zum Grenzaufsichtsdienst der Zollverwaltung
-gehören alle Zollbediensteten - einschließlich der Bediensteten des
+Grenze des Zollgebiets der Union und überwacht den grenznahen Raum (§
+14 Abs. 1) sowie die anderen der Grenzaufsicht unterworfenen Gebiete
+(§ 14 Abs. 4). Zum Grenzaufsichtsdienst der Zollverwaltung gehören
+alle Zollbediensteten - einschließlich der Bediensteten des
 Wasserzolldienstes -, die in der Grenzaufsicht tätig sind.
 
 
@@ -1028,12 +1184,9 @@ die zollamtliche Überwachung erstreckt.
 
 ### § 20 Freizonen
 
-(1) Freizonen (Artikel 166 des Zollkodex) sind diejenigen
+(1) Freizonen (Artikel 243 des Zollkodex der Union) sind diejenigen
 Einrichtungen, die beim Inkrafttreten dieses Gesetzes bestehen. Die
-Errichtung neuer Freizonen bedarf eines Bundesgesetzes. Das
-Bundesministerium der Finanzen kann den Kontrolltyp bestehender
-Freizonen (Artikel 166 des Zollkodex in Verbindung mit Artikel 799 der
-Zollkodex-Durchführungsverordnung) durch Verwaltungsakt ändern.
+Errichtung neuer Freizonen bedarf eines Bundesgesetzes.
 
 (2) Das Bundesministerium der Finanzen kann zur Anpassung an
 wirtschaftliche Erfordernisse oder zur Vereinfachung der zollamtlichen
@@ -1062,28 +1215,28 @@ Baupläne müssen jedoch dem Hauptzollamt spätestens einen Monat vor
 Baubeginn zugeleitet werden.
 
 
-### § 23 Überwachung von Freizonen des Kontrolltyps I
+### § 23 Überwachung von Freizonen
 
 Das Bundesministerium der Finanzen kann zur Sicherung der Begrenzungen
-von Freizonen des Kontrolltyps I, insbesondere zur Ausgestaltung der
-Umzäunung, das Nähere durch Rechtsverordnung ohne Zustimmung des
-Bundesrates bestimmen.
+von Freizonen, insbesondere zur Ausgestaltung der Umzäunung, das
+Nähere durch Rechtsverordnung ohne Zustimmung des Bundesrates
+bestimmen.
 
 
 ### § 24 Helgoland
 
-(1) Auf der Insel Helgoland kann nach Artikel 38 Abs. 3 des Zollkodex
-eine Zollstelle errichtet werden, die nach den im Zollgebiet der
-Gemeinschaft geltenden Vorschriften Amtshandlungen vornimmt.
+(1) Auf der Insel Helgoland kann nach Artikel 135 Absatz 4 des
+Zollkodex der Union eine Zollstelle errichtet werden, die nach den im
+Zollgebiet der Union geltenden Vorschriften Amtshandlungen vornimmt.
 
 (2) Auf Helgoland kann das Befördern, Lagern, Veredeln und Verwenden
-von Nichtgemeinschaftswaren sowie der Handel damit in einzelnen Fällen
+von Nichtunionswaren sowie der Handel damit in einzelnen Fällen
 beschränkt werden, wenn es die zollamtliche Überwachung erfordert.
 Unter den gleichen Voraussetzungen können dort Betriebe, die
-gewerbsmäßig Nichtgemeinschaftswaren oder unversteuerte
-Gemeinschaftswaren befördern, lagern, veredeln, verwenden oder damit
-handeln, unter zollamtliche Überwachung gestellt und die
-Betriebsinhaber zur Buchführung verpflichtet werden.
+gewerbsmäßig Nichtunionswaren oder unversteuerte Unionswaren
+befördern, lagern, veredeln, verwenden oder damit handeln, unter
+zollamtliche Überwachung gestellt und die Betriebsinhaber zur
+Buchführung verpflichtet werden.
 
 (3) Für die Verbote, Beschränkungen und Sicherungsmaßnahmen auf
 Helgoland gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
@@ -1095,11 +1248,11 @@ Helgoland gelten die §§ 328 bis 335 der Abgabenordnung sinngemäß.
 
 ### § 25 Beschränkung des Warenverkehrs
 
-(1) Der Handel mit Nichtgemeinschaftswaren oder unversteuerten Waren,
-die zur Verwendung als Schiffs- und Reisebedarf bestimmt sind, darf
-nur mit schriftlicher Erlaubnis des Hauptzollamts betrieben werden.
-Die Erlaubnis kann zur Sicherung der Zollbelange mit Auflagen
-verbunden werden.
+(1) Der Handel mit Nichtunionswaren oder unversteuerten Waren, die zur
+Verwendung als Schiffs- und Reisebedarf bestimmt sind, darf nur mit
+schriftlicher Erlaubnis des Hauptzollamts betrieben werden. Die
+Erlaubnis kann zur Sicherung der Zollbelange mit Auflagen verbunden
+werden.
 
 (2) Das Bundesministerium der Finanzen kann zur Sicherung der
 Zollbelange durch Rechtsverordnung die Abgabe und den Bezug
@@ -1109,17 +1262,11 @@ einschränken oder für bestimmte Fälle untersagen.
 
 ### § 26 Versand
 
-(1) Soweit der Zollkodex oder sonstige gemeinschaftsrechtliche
+Soweit der Zollkodex oder sonstige gemeinschaftsrechtliche
 Vorschriften eine Befugnis zur Einräumung von Erleichterungen oder
 vereinfachten Verfahren im Rahmen des gemeinschaftlichen
 Versandverfahrens vorsehen, kann das Bundesministerium der Finanzen
 das Nähere durch Rechtsverordnung regeln.
-
-(2) Das Bundesministerium der Finanzen wird ermächtigt, durch
-Rechtsverordnung Vereinbarungen nach Artikel 97 Abs. 2 Buchstabe a des
-Zollkodex im Geltungsbereich dieses Gesetzes in Kraft zu setzen und
-ergänzende Verfahrensvorschriften zur Durchführung dieser
-Vereinbarungen zu erlassen.
 
 
 ### § 27 Abgabenerhebung zum Pauschsatz
@@ -1144,9 +1291,9 @@ Ländern zusteht.
 (1) Das Bundesministerium der Finanzen wird ermächtigt, zur Sicherung
 der Zollbelange durch Rechtsverordnung die durch dieses Gesetz
 festgelegten Pflichten näher zu bestimmen und das Verfahren der
-zollamtlichen Überwachung in das oder aus dem Zollgebiet der
-Gemeinschaft sowie in die oder aus den Freizonen verbrachter Waren
-sowie den Erhalt ihrer zollrechtlichen Bestimmung näher zu regeln.
+zollamtlichen Überwachung in das oder aus dem Zollgebiet der Union
+sowie in die oder aus den Freizonen verbrachter Waren sowie den Erhalt
+ihrer zollrechtlichen Bestimmung näher zu regeln.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, durch
 Rechtsverordnung internationale Zollübereinkommen oder -übereinkünfte,
@@ -1306,72 +1453,95 @@ handelt, wer vorsätzlich oder fahrlässig
 
 ### § 31a Bußgeldvorschriften
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
-12a Abs. 2 Satz 1 das mitgeführte Bargeld oder die gleichgestellten
-Zahlungsmittel nicht oder nicht vollständig anzeigt.
+(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu einer
-Million Euro geahndet werden.
+1.  entgegen
 
-(3) (weggefallen)
-
-(4) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist das örtlich zuständige Hauptzollamt.
-
-(5) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten
-nach Absatz 1 dieselben Rechte und Pflichten wie die Behörden und
-Beamten des Polizeidienstes nach der Strafprozessordnung; die Beamten
-sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
+    a)  § 5 Absatz 1 Satz 1 oder § 10 Absatz 4a Satz 1 oder
 
 
-### § 31b Bußgeldvorschriften
+    b)  § 12a Absatz 5 Satz 1
 
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
-Artikel 3 Abs. 1 Satz 1 oder Abs. 2 der Verordnung (EG) Nr. 1889/2005
-in Verbindung mit § 12a Abs. 1 Satz 1 einen dort genannten Betrag an
-Barmitteln nicht, nicht richtig, nicht vollständig oder nicht
-rechtzeitig anmeldet.
 
-(2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu einer
-Million Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist das örtlich zuständige Hauptzollamt.
+    eine Postsendung oder ein dort genanntes Dokument nicht oder nicht
+    rechtzeitig vorlegt,
 
-(4) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten
-nach Absatz 1 dieselben Rechte und Pflichten wie Behörden und Beamte
-des Polizeidienstes nach dem Gesetz über Ordnungswidrigkeiten; die
-Beamten sind insoweit Ermittlungspersonen der Staatsanwaltschaft.
+
+2.  entgegen
+
+    a)  § 5 Absatz 1 Satz 1 oder
+
+
+    b)  § 12a Absatz 2 Satz 1
+
+
+
+    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet,
+
+
+3.  entgegen § 10 Absatz 4 Satz 1 Zutritt nicht gewährt,
+
+
+4.  entgegen § 12a Absatz 6 Satz 3 eine Auskunft nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erteilt oder
+
+
+5.  entgegen § 12e Absatz 2 Satz 1 einen Nachweis nicht oder nicht
+    rechtzeitig erbringt.
+
+
+
+
+(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
+Artikel 3 Absatz 1 Satz 1 in Verbindung mit Absatz 2 der Verordnung
+(EG) Nr. 1889/2005 des Europäischen Parlaments und des Rates vom 26.
+Oktober 2005 über die Überwachung von Barmitteln, die in die
+Gemeinschaft oder aus der Gemeinschaft verbracht werden (ABl. L 309
+vom 25.11.2005, S. 9) in Verbindung mit § 12a Absatz 1 Satz 1 einen
+dort genannten Betrag nicht, nicht richtig, nicht vollständig oder
+nicht rechtzeitig anmeldet.
+
+(3) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
+Artikel 139 Absatz 1 oder Absatz 2 Satz 1 der Verordnung (EU) Nr.
+952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013
+zur Festlegung des Zollkodex der Union (ABl. L 269 vom 10.10.2013, S.
+1) in Verbindung mit § 4 Absatz 1 eine dort genannte Ware nicht, nicht
+richtig, nicht vollständig oder nicht rechtzeitig gestellt.
+
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2
+Buchstabe b und des Absatzes 2 mit einer Geldbuße bis zu einer Million
+Euro, in den Fällen des Absatzes 1 Nummer 1 Buchstabe b und Nummer 5
+mit einer Geldbuße bis zu fünfzigtausend Euro und in den übrigen
+Fällen mit einer Geldbuße bis zu dreißigtausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Hauptzollamt.
+
+(6) Die Hauptzollämter und ihre Beamten haben bei Ordnungswidrigkeiten
+nach den Absätzen 1 bis 3 dieselben Rechte und Pflichten wie die
+Behörden und Beamten des Polizeidienstes nach dem Gesetz über
+Ordnungswidrigkeiten; die Beamten sind insoweit Ermittlungspersonen
+der Staatsanwaltschaft.
 
 
 ### § 32 Nichtverfolgung von Steuerstraftaten und Steuerordnungswidrigkeiten, Erhebung eines Zuschlags
 
 (1) Steuerstraftaten und Steuerordnungswidrigkeiten (§§ 369, 377 der
-Abgabenordnung), die im grenzüberschreitenden Reiseverkehr begangen
-werden, werden als solche nicht verfolgt, wenn sich die Tat auf Waren
-bezieht, die weder zum Handel noch zur gewerblichen Verwendung
-bestimmt sind und der verkürzte Einfuhrabgabenbetrag oder der
-Einfuhrabgabenbetrag, dessen Verkürzung versucht wurde, 130 Euro nicht
-übersteigt.
+Abgabenordnung) sollen als solche nicht verfolgt werden, wenn durch
+die Tat selbst oder die Vortat Einfuhr- oder Ausfuhrabgaben oder
+Verbrauchsteuern von insgesamt nicht mehr als 250 Euro verkürzt wurden
+oder deren Verkürzung versucht wurde.
 
-(2) Absatz 1 gilt nicht, wenn der Täter
+(2) Absatz 1 gilt nicht in den in § 370 Absatz 3, den §§ 373 und 374
+Absatz 2 der Abgabenordnung genannten Fällen.
 
-1.  die Waren durch besonders angebrachte Vorrichtungen verheimlicht oder
-    an schwer zugänglichen Stellen versteckt hält oder
-
-
-2.  durch die Tat den Tatbestand einer Steuerstraftat innerhalb von sechs
-    Monaten zum wiederholten Male verwirklicht.
-
-
-
-
-(3) Liegt eine im grenzüberschreitenden Reiseverkehr begangene
-Steuerstraftat oder Steuerordnungswidrigkeit vor, kann in den Fällen
-einer Nichtverfolgung nach Absatz 1 oder einer Einstellung nach § 398
-der Abgabenordnung ein Zuschlag bis zur Höhe der Einfuhrabgaben,
-höchstens jedoch bis zu 130 Euro erhoben werden.
-
-(4) Die Absätze 1 bis 3 gelten auch bei der Einreise aus einer
-Freizone.
+(3) Wird eine Steuerstraftat oder Steuerordnungswidrigkeit nach Absatz
+1 nicht verfolgt oder wird von der Verfolgung einer Steuerstraftat,
+die sich auf Einfuhr- oder Ausfuhrabgaben oder Verbrauchsteuern
+bezieht, nach § 398 der Abgabenordnung oder nach § 153 der
+Strafprozessordnung abgesehen, so kann ein Zuschlag bis zur Höhe der
+festzusetzenden Einfuhr- oder Ausfuhrabgaben oder Verbrauchsteuern,
+höchstens jedoch bis zu 250 Euro erhoben werden.
 

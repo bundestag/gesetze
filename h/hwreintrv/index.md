@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1935
 
+Geändert durch
+:   Art. 105 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -113,8 +116,7 @@ insbesondere von Fachschulen ausgestellte Zeugnisse.
 ## § 4 Antrag
 
 Die Eintragung in die Handwerksrolle ist bei der Handwerkskammer zu
-beantragen. Der Antrag kann schriftlich oder zur Niederschrift
-erfolgen.
+beantragen.
 
 
 ## § 5 Übergangsregelung

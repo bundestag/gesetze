@@ -211,7 +211,7 @@ an Stelle des Reichsausschusses erlassenen Bestimmungen bleiben,
 soweit sie nicht durch die Vorschriften dieses Gesetzes überholt sind
 oder ihnen entgegenstehen, in Kraft, bis sie durch Richtlinien der
 Bundesausschüsse oder durch Bundesmantelverträge (§ 368g
-Abs. 2 Satz 2)              ersetzt werden.
+Abs. 2 Satz 2) ersetzt werden.
 
 (2) Das gleiche gilt, soweit in den Ländern nach dem 8. Mai 1945
 Bestimmungen und Richtlinien durch Stellen erlassen sind, welche die

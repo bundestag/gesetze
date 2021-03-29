@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 22 Nr. 1 G v. 22.12.1983 I 1532
 
+V aufgeh. mit ausnahme des § 2 abs. 1 durch
+:   Art. 22 Nr. 1 G 63-19 v. 22.12.1983 mWv 1.1.1984
+
 
 ## Eingangsformel
 

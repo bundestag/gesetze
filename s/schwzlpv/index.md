@@ -72,8 +72,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Abs. 1)
 
-## Anlage 1 (zu § 1 Abs. 1) Grundsätze für die Durchführung von Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
+## Anlage 1 Grundsätze für die Durchführung von Leistungsprüfungen und die Beurteilung der äußeren Erscheinung
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1131
 
@@ -153,8 +154,9 @@ Fundstelle des Originaltextes: BGBl. I 1991, 1131
 
 
 
+(zu § 2 Abs. 1)
 
-## Anlage 2 (zu § 2 Abs. 1) Grundsätze für die Durchführung und Auswertung von Stichprobentests bei Kreuzungsherkünften
+## Anlage 2 Grundsätze für die Durchführung und Auswertung von Stichprobentests bei Kreuzungsherkünften
 
 Fundstelle des Originaltextes: BGBl. I 1991, 1131 - 1132;
 bzgl. der einzelnen Änderungen vgl. Fußnote

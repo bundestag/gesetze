@@ -2,7 +2,7 @@
 Title: Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr
 jurabk: GüKGrKabotageV 2012
 layout: default
-origslug: g_kgrkabotagev_2012
+origslug: guekgrkabotagev_2012
 slug: guekgrkabotagev_2012
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2012, 42
+
+Zuletzt geändert durch
+:   Art. 4 V v. 19.12.2016 I 2920
 
 
 ## Eingangsformel
@@ -73,14 +76,14 @@ Artikel 16 Absatz 2 Buchstabe a bis d der Verordnung (EG) Nr.
 1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober
 2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des
 Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG
-(ABl. L 300 vom 14.11.2009, S. 51) genannten Angaben oder das
-zuständige Amtsgericht, falls das Unternehmen im Handels- oder
-Genossenschaftsregister eingetragen ist, so hat der Unternehmer dies
-der nach Landesrecht zuständigen Behörde unverzüglich mitzuteilen und
-auf Verlangen nachzuweisen. Ist nach Auffassung der nach Landesrecht
-zuständigen Behörde eine Änderung der Lizenzurkunde erforderlich, so
-hat das Unternehmen die Lizenzurkunde und deren beglaubigten Kopien
-unverzüglich vorzulegen.
+(ABl. L 300 vom 14.11.2009, S. 51) genannten Angaben, eine zur
+Vertretung ermächtigte Person oder das zuständige Amtsgericht, falls
+das Unternehmen im Handels- oder Genossenschaftsregister eingetragen
+ist, so hat der Unternehmer dies der nach Landesrecht zuständigen
+Behörde unverzüglich mitzuteilen und auf Verlangen nachzuweisen. Ist
+nach Auffassung der nach Landesrecht zuständigen Behörde eine Änderung
+der Lizenzurkunde erforderlich, so hat das Unternehmen die
+Lizenzurkunde und deren beglaubigten Kopien unverzüglich vorzulegen.
 
 
 ### § 3 Zuständigkeiten des Bundesamtes für Güterverkehr (Bundesamt)
@@ -126,7 +129,7 @@ Kopie der Erlaubnis oder Gemeinschaftslizenz beizufügen. Die weiteren
 Einzelheiten des Erteilungsverfahrens (öffentliche Ausschreibung),
 insbesondere zu den Voraussetzungen einer hinreichenden Nutzung der
 Genehmigung, werden durch eine Richtlinie geregelt, die das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im Benehmen
+Bundesministerium für Verkehr und digitale Infrastruktur im Benehmen
 mit den obersten Verkehrsbehörden der Länder erlässt. Liegen zwingende
 betriebliche oder persönliche Belange eines Bewerbers vor, zum
 Beispiel im Erbfall oder wenn ein Unternehmen oder ein
@@ -258,8 +261,14 @@ genannten Resolution erteilten CEMT-Genehmigung berechtigt zum
 grenzüberschreitenden Güterkraftverkehr unter folgenden
 Voraussetzungen:
 
-1.  Eine CEMT-Genehmigung darf nicht gleichzeitig für mehr als ein
+1.  Die CEMT-Genehmigung darf nicht gleichzeitig für mehr als ein
     Kraftfahrzeug verwendet werden.
+
+
+1a. Eine CEMT-Genehmigung ist vom Fahrer bei einer Fahrt mit Ladung
+    zwischen dem Beladeort (Ort der ersten Aufnahme von Ladung für die
+    Fahrt) bis zum Entladeort (Ort der letzten Entladung dieser Fahrt) im
+    Fahrzeug mitzuführen.
 
 
 2.  Der Unternehmer hat dafür zu sorgen, dass höchstens drei
@@ -335,7 +344,7 @@ Zeitraumes durchgeführt werden dürfen, kann begrenzt werden.
 mit verkehrsmäßigen Beschränkungen erteilt werden.
 
 (4) Für die Erteilung der Drittstaatengenehmigung ist das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung zuständig,
+Bundesministerium für Verkehr und digitale Infrastruktur zuständig,
 sofern das Recht der Europäischen Union nicht etwas anderes bestimmt.
 
 (5) Die Drittstaatengenehmigung wird von der zuständigen Stelle des
@@ -345,7 +354,7 @@ Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 handelt oder falls internationale Regierungs- oder Verwaltungsabkommen
 dies vorsehen. In allen anderen Fällen wird die
 Drittstaatengenehmigung von der Stelle ausgegeben, die das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt hat.
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmt hat.
 
 
 ### § 11 Unternehmer- und fahrzeugbezogene Drittstaatengenehmigung
@@ -608,7 +617,7 @@ zugelassen ist.
 
 ### § 19 Ausschluss von Unternehmern mit Sitz ihres Unternehmens außerhalb der Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vom Güterkraftverkehr
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 die von ihm bestimmte Stelle kann Unternehmer, deren Unternehmen ihren
 Sitz in einem Staat haben, der weder Mitglied der Europäischen Union
 noch anderer Vertragsstaat des Abkommens über den Europäischen
@@ -622,7 +631,7 @@ oder die Kraftfahrzeughaftpflichtversicherung gelten.
 (2) Bei Straftaten, die im Zusammenhang mit der Durchführung von
 Güterkraftverkehr begangen wurden, oder bei wiederholten groben
 Verstößen gegen die in Absatz 1 genannten Vorschriften kann das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die von
+Bundesministerium für Verkehr und digitale Infrastruktur oder die von
 ihm bestimmte Stelle den Unternehmer endgültig von den in Absatz 1
 genannten Verkehren ausschließen.
 
@@ -676,13 +685,13 @@ folgende Unterlagen vorgelegt werden:
 
 
 4.  der Nachweis nach § 5 Absatz 1 der Berufskraftfahrer-Qualifikations-
-    Verordnung, soweit der Antrag sich auch auf die Eintragung nach § 5
-    Absatz 4 der Berufskraftfahrer-Qualifikations-Verordnung richtet oder
-    die Pflicht zum Abschluss einer Grundqualifikation oder Weiterbildung
-    nach dem Berufskraftfahrer-Qualifikations-Gesetz bestanden hat.
+    Verordnung.
 
 
 
+Wird ein Nachweis nach Satz 1 Nummer 4 nicht vorgelegt, so ist die
+Ausstellung der Fahrerbescheinigung nur nach Maßgabe des § 5 Absatz 4
+Satz 2 und 3 der Berufskraftfahrer-Qualifikations-Verordnung zulässig.
 Die zuständige Behörde kann Nachweise auch für die übrigen nach Absatz
 1 zu machenden Angaben verlangen.
 
@@ -759,6 +768,9 @@ Güterkraftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 6.  entgegen § 7a Nummer 1 eine CEMT-Genehmigung verwendet,
+
+
+6a. entgegen § 7a Nummer 1a die CEMT-Genehmigung nicht mitführt,
 
 
 7.  entgegen § 7a Nummer 2 nicht dafür sorgt, dass höchstens drei

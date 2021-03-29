@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3464
 
-Geändert durch
-:   Art. 15 G v. 6.12.2011 I 2481
+Zuletzt geändert durch
+:   Art. 24 Abs. 8 G v. 23.6.2017 I 1693
 
 
 
@@ -64,12 +64,18 @@ mit der Vermögensanlage sind in einem gesonderten Abschnitt
 darzustellen, der nur diese Angaben enthält. Es ist insbesondere auf
 Liquiditätsrisiken, auf Risiken, die mit einem Einsatz von
 Fremdkapital einhergehen, sowie auf Risiken einer möglichen
-Fremdfinanzierung des Anteils durch den Anleger einzugehen. Dabei ist
-das den Anleger treffende maximale Risiko an hervorgehobener Stelle im
-Verkaufsprospekt in seiner Größenordnung zu beschreiben. Nach dieser
-Verordnung geforderte und darüber hinausgehende in den Prospekt
-aufgenommene Angaben, die eine Prognose beinhalten, sind deutlich als
-Prognosen kenntlich zu machen.
+Fremdfinanzierung des Anteils durch den Anleger einzugehen. Weiterhin
+ist auf das Risiko einzugehen, dass die Vertrags- oder
+Anlagebedingungen so geändert werden oder sich die Tätigkeit des
+Emittenten so verändert, dass er ein Investmentvermögen im Sinne des
+Kapitalanlagegesetzbuchs darstellt, sodass die Bundesanstalt Maßnahmen
+nach § 15 des Kapitalanlagegesetzbuchs ergreifen und insbesondere die
+Rückabwicklung der Geschäfte des Emittenten der Vermögensanlage
+anordnen kann. Das den Anleger treffende maximale Risiko ist an
+hervorgehobener Stelle im Verkaufsprospekt in vollem Umfang zu
+beschreiben. Nach dieser Verordnung geforderte und darüber
+hinausgehende in den Prospekt aufgenommene Angaben, die eine Prognose
+beinhalten, sind deutlich als Prognosen kenntlich zu machen.
 
 (3) Der Verkaufsprospekt soll die nach dieser Verordnung
 erforderlichen Mindestangaben in der Reihenfolge ihrer Nennung in der
@@ -162,14 +168,27 @@ Der Verkaufsprospekt muss über die Vermögensanlagen angeben:
 11. an einer hervorgehobenen Stelle im Verkaufsprospekt, unter welchen
     Umständen der Erwerber der Vermögensanlagen verpflichtet ist, weitere
     Leistungen zu erbringen, insbesondere unter welchen Umständen er
-    haftet und inwieweit er Nachschüsse zu leisten hat, und
+    haftet, und dass keine Pflicht zur Zahlung von Nachschüssen besteht;
 
 
 12. an einer hervorgehobenen Stelle im Verkaufsprospekt, in welcher
     Gesamthöhe Provisionen geleistet werden, insbesondere
     Vermittlungsprovisionen oder vergleichbare Vergütungen; dabei ist die
     Provision als absoluter Betrag anzugeben sowie als Prozentangabe in
-    Bezug auf den Gesamtbetrag der angebotenen Vermögensanlagen.
+    Bezug auf den Gesamtbetrag der angebotenen Vermögensanlagen;
+
+
+13. an einer hervorgehobenen Stelle im Verkaufsprospekt die wesentlichen
+    Grundlagen und Bedingungen der Verzinsung und Rückzahlung;
+
+
+14. die Laufzeit sowie die Kündigungsfrist nach Maßgabe des § 5a des
+    Vermögensanlagengesetzes und
+
+
+15. die Anlegergruppe, auf die die Vermögensanlage abzielt, vor allem im
+    Hinblick auf den Anlagehorizont des Anlegers und seine Fähigkeit,
+    Verluste, die sich aus der Vermögensanlage ergeben können, zu tragen.
 
 
 
@@ -229,7 +248,8 @@ Der Verkaufsprospekt muss über das Kapital des Emittenten angeben:
 
 2.  eine Übersicht der bisher ausgegebenen Wertpapiere oder
     Vermögensanlagen im Sinne des § 1 Absatz 2 des
-    Vermögensanlagengesetzes.
+    Vermögensanlagengesetzes, einschließlich des Datums ihrer ersten
+    Kündigungsmöglichkeit oder ihrer Fälligkeit.
 
 
 
@@ -273,7 +293,7 @@ angeben:
     b)  § 54 des Kreditwesengesetzes,
 
 
-    c)  § 38 des Wertpapierhandelsgesetzes oder
+    c)  § 119 des Wertpapierhandelsgesetzes oder
 
 
     d)  § 369 der Abgabenordnung
@@ -329,19 +349,23 @@ Prospektaufstellung an
     beauftragt sind;
 
 
-2.  Unternehmen, die dem Emittenten Fremdkapital zur Verfügung stellen,
-    sowie
+2.  Unternehmen, die dem Emittenten Fremdkapital zur Verfügung stellen;
 
 
 3.  Unternehmen, die im Zusammenhang mit der Anschaffung oder Herstellung
-    des Anlageobjekts Lieferungen oder Leistungen erbringen.
+    des Anlageobjekts Lieferungen oder Leistungen erbringen, sowie
+
+
+4.  Unternehmen, die mit dem Emittenten oder Anbieter nach § 271 des
+    Handelsgesetzbuchs in einem Beteiligungsverhältnis stehen oder
+    verbunden sind.
 
 
 
 
 (3) Darüber hinaus ist anzugeben, in welcher Art und Weise die
 Gründungsgesellschafter und die Gesellschafter zum Zeitpunkt der
-Prospektaufstellung für die in Absatz 2 Nummer 1 bis 3 genannten
+Prospektaufstellung für die in Absatz 2 Nummer 1 bis 4 genannten
 Unternehmen tätig sind.
 
 (4) Der Verkaufsprospekt muss auch Angaben darüber enthalten, in
@@ -412,10 +436,8 @@ Weiterhin sind die Möglichkeiten einer Änderung der Anlagestrategie
 oder Anlagepolitik sowie die dazu notwendigen Verfahren darzustellen
 und der Einsatz von Derivaten und Termingeschäften zu beschreiben.
 
-(2) Der Verkaufsprospekt muss über Anteile, die eine Beteiligung am
-Ergebnis eines Unternehmens gewähren, über Anteile an einem
-Treuhandvermögen und über Anteile an einem sonstigen geschlossenen
-Fonds zusätzlich über die Anlageziele und Anlagepolitik angeben:
+(2) Der Verkaufsprospekt muss zusätzlich über die Anlageziele und
+Anlagepolitik angeben:
 
 1.  eine Beschreibung des Anlageobjekts. Anlageobjekt sind die
     Gegenstände, zu deren voller oder teilweiser Finanzierung die von den
@@ -424,8 +446,10 @@ Fonds zusätzlich über die Anlageziele und Anlagepolitik angeben:
     besteht, der eine Beteiligung am Ergebnis eines Unternehmens gewährt,
     treten an die Stelle dieses Anteils die Vermögensgegenstände des
     Unternehmens. Besteht das Anlageobjekt ganz oder teilweise aus einem
-    Anteil an einer Gesellschaft, so gelten auch diejenigen Gegenstände
-    als Anlageobjekt, die diese Gesellschaft erwirbt;
+    Anteil oder einer Beteiligung an einer Gesellschaft oder stellt das
+    Anlageobjekt ganz oder teilweise eine Ausleihung an oder eine
+    Forderung gegen eine Gesellschaft dar, so gelten auch diejenigen
+    Gegenstände als Anlageobjekt, die diese Gesellschaft erwirbt;
 
 
 2.  ob den nach den §§ 3, 7 oder 12 zu nennenden Personen das Eigentum am
@@ -496,20 +520,21 @@ höchstens 18 Monate vor der Aufstellung des Verkaufsprospekts liegen.
 (2) Ist der Emittent nur zur Aufstellung eines Konzernabschlusses
 verpflichtet, so ist dieser in den Verkaufsprospekt aufzunehmen; ist
 er auch zur Aufstellung eines Jahresabschlusses verpflichtet, so sind
-beide Arten von Abschlüssen aufzunehmen. Die Aufnahme nur des
-Abschlusses der einen Art ist ausreichend, wenn der Abschluss der
-anderen Art keine wesentlichen zusätzlichen Aussagen enthält. Ein
-Konzernabschluss kann auch im Wege eines Verweises in den
-Verkaufsprospekt aufgenommen werden, wenn der Konzernabschluss auf
-Grund anderweitiger gesetzlicher Bestimmungen veröffentlicht worden
-ist. Der Verweis muss angeben, wo der Konzernabschluss veröffentlicht
-ist. In diesem Fall muss der bei der Bundesanstalt hinterlegte
-Prospekt auch ein gedrucktes Exemplar des Konzernabschlusses
-enthalten.
+beide Arten von Abschlüssen aufzunehmen. Ein Konzernabschluss kann
+auch im Wege eines Verweises in den Verkaufsprospekt aufgenommen
+werden, wenn der Konzernabschluss auf Grund anderweitiger gesetzlicher
+Bestimmungen veröffentlicht worden ist. Der Verweis muss angeben, wo
+der Konzernabschluss veröffentlicht ist. In diesem Fall muss der bei
+der Bundesanstalt hinterlegte Prospekt auch ein gedrucktes Exemplar
+des Konzernabschlusses enthalten.
 
 (3) Jede wesentliche Änderung der Angaben nach Absatz 1 Nr. 1 oder der
 Zwischenübersicht, die nach dem Stichtag eingetreten ist, muss im
 Verkaufsprospekt erläutert werden.
+
+(4) Der Verkaufsprospekt muss die voraussichtliche Vermögens-, Finanz-
+und Ertragslage mindestens für das laufende und das folgende
+Geschäftsjahr darstellen.
 
 
 ## § 11 Angaben über die Prüfung des Jahresabschlusses des Emittenten
@@ -551,7 +576,7 @@ angeben:
     b)  § 54 des Kreditwesengesetzes,
 
 
-    c)  § 38 des Wertpapierhandelsgesetzes oder
+    c)  § 119 des Wertpapierhandelsgesetzes oder
 
 
     d)  § 369 der Abgabenordnung
@@ -609,14 +634,19 @@ Aufsichtsgremien und der Beiräte des Emittenten auch tätig sind für
 
 
 3.  Unternehmen, die Lieferungen oder Leistungen im Zusammenhang mit der
-    Anschaffung oder Herstellung des Anlageobjekts erbringen.
+    Anschaffung oder Herstellung des Anlageobjekts erbringen;
+
+
+4.  Unternehmen, die mit dem Emittenten oder Anbieter nach § 271 des
+    Handelsgesetzbuchs in einem Beteiligungsverhältnis stehen oder
+    verbunden sind.
 
 
 
 
 (3) Darüber hinaus ist anzugeben, inwieweit die Mitglieder der
 Geschäftsführung oder des Vorstands, der Aufsichtsgremien und der
-Beiräte des Emittenten auch an den in Absatz 2 Nummer 1 bis 3
+Beiräte des Emittenten auch an den in Absatz 2 Nummer 1 bis 4
 genannten Unternehmen in wesentlichem Umfang unmittelbar oder
 mittelbar beteiligt sind.
 
@@ -676,6 +706,15 @@ bezieht, sowie Angaben über die Geschäftsaussichten des Emittenten
 mindestens für das laufende Geschäftsjahr enthalten.
 
 
+## § 13a Angaben über Auswirkungen auf die Fähigkeit zur Zins- und Rückzahlung
+
+Der Verkaufsprospekt muss an hervorgehobener Stelle eine ausführliche
+Darstellung der Auswirkungen der Vermögens-, Finanz- und Ertragslage
+sowie der Geschäftsaussichten auf die Fähigkeit des Emittenten, seinen
+Verpflichtungen zur Zinszahlung und Rückzahlung für die
+Vermögensanlage nachzukommen, enthalten.
+
+
 ## § 14 Gewährleistete Vermögensanlagen
 
 Für das Angebot von Vermögensanlagen, für deren Verzinsung oder
@@ -729,6 +768,14 @@ abgesehen werden, wenn
 
 
 
+
+
+## § 15a Übergangsvorschrift zur Rechnungslegung und Prüfung des im Verkaufsprospekt enthaltenen Jahresabschlusses und Lageberichts
+
+Für Geschäftsjahre, die vor dem 1. Januar 2014 beginnen, ist § 10 in
+der bis zum 31. Mai 2012 geltenden Fassung in Verbindung mit § 8h des
+Verkaufsprospektgesetzes in der bis zum 31. Mai 2012 geltenden Fassung
+anzuwenden.
 
 
 ## § 16 Inkrafttreten

@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „150 Jahre Entdeckung des Urvogels Archaeopteryx“)
 jurabk: Münz10EuroBek 2011-05-25
 layout: default
-origslug: m_nz10eurobek_2011-05-25
+origslug: muenz10eurobek_2011-05-25
 slug: muenz10eurobek_2011-05-25
 
 ---
@@ -56,13 +56,13 @@ spannungsvollen Kontrast zur Lebendigkeit des Federkleides des Adlers.
 
 Die Wertseite zeigt einen Adler, die Umschrift „BUNDESREPUBLIK
 DEUTSCHLAND 2011“ mit den zwölf Europasternen, der Wertbezeichnung
-„10 Euro“              und dem Münzzeichen „A“ der Staatlichen Münze
-Berlin sowie den Prägeaufdruck „Silber 625“ auf der Wertseite der
-Münze in der Spiegelglanzqualität.
+„10 Euro“ und dem Münzzeichen „A“ der Staatlichen Münze Berlin sowie
+den Prägeaufdruck „Silber 625“ auf der Wertseite der Münze in der
+Spiegelglanzqualität.
 
 Der Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„*              ARCHAEOPTERYX – ZEUGE DER EVOLUTION*             “.
+„* ARCHAEOPTERYX – ZEUGE DER EVOLUTION*“.
 
 Der Entwurf stammt von der Künstlerin Barbara G. Ruppel, Krailling.
 

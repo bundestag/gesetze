@@ -130,8 +130,8 @@ folgende Vereinbarung:
 ### § 1 Einrichtung, Aufgaben, Beschlussfassung
 
 (1)
-1             Der Planungsrat für die IT-Zusammenarbeit der
-öffentlichen Verwaltung zwischen Bund und Ländern (IT-Planungsrat):
+1Der Planungsrat für die IT-Zusammenarbeit der öffentlichen Verwaltung
+zwischen Bund und Ländern (IT-Planungsrat):
 
 1.  koordiniert die Zusammenarbeit von Bund und Ländern in Fragen der
     Informationstechnik;
@@ -151,14 +151,13 @@ folgende Vereinbarung:
 
 
 
-2             Der IT-Planungsrat berichtet grundsätzlich an die
-Konferenz des Chefs des Bundeskanzleramtes mit den Chefs der Staats-
-und Senatskanzleien.
-3             Er vereint die bisherigen Gremien und Untergremien der
-gemeinsamen IT-Steuerung.
+2Der IT-Planungsrat berichtet grundsätzlich an die Konferenz des Chefs
+des Bundeskanzleramtes mit den Chefs der Staats- und Senatskanzleien.
+3Er vereint die bisherigen Gremien und Untergremien der gemeinsamen
+IT-Steuerung.
 
 (2)
-1             Dem IT-Planungsrat gehören als Mitglieder an:
+1Dem IT-Planungsrat gehören als Mitglieder an:
 
 1.  der Beauftragte der Bundesregierung für Informationstechnik,
 
@@ -168,59 +167,55 @@ gemeinsamen IT-Steuerung.
 
 
 
-2             Der Bund und die Länder stellen sicher, dass ihre
-Vertreter über die erforderliche Entscheidungskompetenz verfügen.
-3             Drei Vertreter der Gemeinden und Gemeindeverbände, die
-von den kommunalen Spitzenverbänden auf Bundesebene entsandt werden,
-sowie der Bundesbeauftragte für den Datenschutz und die
-Informationsfreiheit können an den Sitzungen des IT-Planungsrats
-beratend teilnehmen.
+2Der Bund und die Länder stellen sicher, dass ihre Vertreter über die
+erforderliche Entscheidungskompetenz verfügen.
+3Drei Vertreter der Gemeinden und Gemeindeverbände, die von den
+kommunalen Spitzenverbänden auf Bundesebene entsandt werden, sowie der
+Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+können an den Sitzungen des IT-Planungsrats beratend teilnehmen.
 
 (3)
-1             Den Vorsitz im IT-Planungsrat übernehmen im jährlichen
-Wechsel der Bund und die Länder.
-2             Die Länder regeln die Reihenfolge ihres Vorsitzes
-untereinander.
+1Den Vorsitz im IT-Planungsrat übernehmen im jährlichen Wechsel der
+Bund und die Länder.
+2Die Länder regeln die Reihenfolge ihres Vorsitzes untereinander.
 
 (4) Der IT-Planungsrat tagt mindestens zweimal im Jahr oder auf Antrag
 des Bundes oder dreier Länder.
 
 (5)
-1             Der IT-Planungsrat entscheidet durch Beschluss oder
-Empfehlung.
-2             Er entscheidet auf Antrag des Bundes oder dreier Länder.
-3             Entscheidungen des IT-Planungsrats werden im
-elektronischen Bundesanzeiger veröffentlicht.
+1Der IT-Planungsrat entscheidet durch Beschluss oder Empfehlung.
+2Er entscheidet auf Antrag des Bundes oder dreier Länder.
+3Entscheidungen des IT-Planungsrats werden im elektronischen
+Bundesanzeiger veröffentlicht.
 
 (6) Der IT-Planungsrat beteiligt die jeweilige Fachministerkonferenz,
 soweit deren Fachplanungen von seinen Entscheidungen betroffen werden.
 
 (7)
-1             Beschlüsse des IT-Planungsrats bedürfen, soweit in
-diesem Vertrag oder durch Gesetz nicht etwas anderes bestimmt ist, der
-Zustimmung des Bundes und einer Mehrheit von 11 Ländern, welche
-mindestens zwei Drittel ihrer Finanzierungsanteile nach dem
-Königsteiner Schlüssel abbildet.
-2             Empfehlungen für die öffentliche Verwaltung kann der IT-
-Planungsrat mit einfacher Mehrheit der anwesenden Mitglieder
-aussprechen.
+1Beschlüsse des IT-Planungsrats bedürfen, soweit in diesem Vertrag
+oder durch Gesetz nicht etwas anderes bestimmt ist, der Zustimmung des
+Bundes und einer Mehrheit von 11 Ländern, welche mindestens zwei
+Drittel ihrer Finanzierungsanteile nach dem Königsteiner Schlüssel
+abbildet.
+2Empfehlungen für die öffentliche Verwaltung kann der IT-Planungsrat
+mit einfacher Mehrheit der anwesenden Mitglieder aussprechen.
 
 (8)
-1             Der IT-Planungsrat gibt sich eine Geschäftsordnung.
-2             Darin sind insbesondere Regelungen vorzusehen, die
-sicherstellen, dass, sofern erforderlich, eine Kabinettsbehandlung
-oder andere notwendige Abstimmungen über einen im IT-Planungsrat
-vorgesehenen Beschluss rechtzeitig durchgeführt werden können.
+1Der IT-Planungsrat gibt sich eine Geschäftsordnung.
+2Darin sind insbesondere Regelungen vorzusehen, die sicherstellen,
+dass, sofern erforderlich, eine Kabinettsbehandlung oder andere
+notwendige Abstimmungen über einen im IT-Planungsrat vorgesehenen
+Beschluss rechtzeitig durchgeführt werden können.
 
 
 ### § 2 Geschäftsstelle
 
 (1)
-1             Zur organisatorischen Unterstützung des IT-Planungsrats
-sowie etwaiger Arbeitsgruppen und Beiräte wird beim Bundesministerium
-des Innern eine Geschäftsstelle eingerichtet.
-2             Die Finanzierung der Geschäftsstelle trägt zur Hälfte
-der Bund, zur Hälfte die Länder nach dem Königsteiner Schlüssel.
+1Zur organisatorischen Unterstützung des IT-Planungsrats sowie
+etwaiger Arbeitsgruppen und Beiräte wird beim Bundesministerium des
+Innern eine Geschäftsstelle eingerichtet.
+2Die Finanzierung der Geschäftsstelle trägt zur Hälfte der Bund, zur
+Hälfte die Länder nach dem Königsteiner Schlüssel.
 
 (2) Die Geschäftsstelle koordiniert die Veröffentlichung von
 Entscheidungen des IT-Planungsrats und deren Verbreitung.
@@ -236,44 +231,41 @@ IT-Planungsrats übertragen werden.
 
 ## Abschnitt II - Gemeinsame Standards und Sicherheitsanforderungen, Informationsaustausch
 
+Festlegung von
 
-### § 3 Festlegung von IT-Interoperabilitäts- und IT-Sicherheitsstandards
+### § 3 IT-Interoperabilitäts- und IT-Sicherheitsstandards
 
 (1)
-1             Für den im Rahmen ihrer Aufgabenerfüllung notwendigen
-Austausch von Daten zwischen dem Bund und den Ländern sollen
-gemeinsame Standards für die auszutauschenden Datenobjekte,
-Datenformate und Standards für Verfahren, die zur Datenübertragung
-erforderlich sind, sowie IT-Sicherheitsstandards festgelegt werden.
-2             Hierbei ist vorrangig auf bestehende Marktstandards
-abzustellen.
+1Für den im Rahmen ihrer Aufgabenerfüllung notwendigen Austausch von
+Daten zwischen dem Bund und den Ländern sollen gemeinsame Standards
+für die auszutauschenden Datenobjekte, Datenformate und Standards für
+Verfahren, die zur Datenübertragung erforderlich sind, sowie IT-
+Sicherheitsstandards festgelegt werden.
+2Hierbei ist vorrangig auf bestehende Marktstandards abzustellen.
 
 (2)
-1             Beschlüsse über Standards im Sinne des Absatz 1 werden
-vom IT-Planungsrat mit der Zustimmung des Bundes und einer Mehrheit
-von elf Ländern, welche mindestens zwei Drittel ihrer
-Finanzierungsanteile nach dem Königsteiner Schlüssel abbildet,
-gefasst, soweit dies zum bund-länderübergreifenden Datenaustausch oder
-zur Vereinheitlichung des Datenaustauschs der öffentlichen Verwaltung
-mit Bürgern und Wirtschaft notwendig ist.
-2             Diese Beschlüsse entfalten Bindungswirkung und werden
-vom Bund und den Ländern innerhalb jeweils vom IT-Planungsrat
-festzusetzender Fristen in ihren jeweiligen Verwaltungsräumen
-umgesetzt.
+1Beschlüsse über Standards im Sinne des Absatz 1 werden vom IT-
+Planungsrat mit der Zustimmung des Bundes und einer Mehrheit von elf
+Ländern, welche mindestens zwei Drittel ihrer Finanzierungsanteile
+nach dem Königsteiner Schlüssel abbildet, gefasst, soweit dies zum
+bund-länderübergreifenden Datenaustausch oder zur Vereinheitlichung
+des Datenaustauschs der öffentlichen Verwaltung mit Bürgern und
+Wirtschaft notwendig ist.
+2Diese Beschlüsse entfalten Bindungswirkung und werden vom Bund und
+den Ländern innerhalb jeweils vom IT-Planungsrat festzusetzender
+Fristen in ihren jeweiligen Verwaltungsräumen umgesetzt.
 
 (3)
-1             Vor einer Beschlussfassung über verbindliche Standards
-im Sinne des Absatz 1 wird auf Antrag des Bundes oder dreier Länder
-grundsätzlich der Bedarf für einen solchen Beschluss sowie die IT-
-fachliche Qualität und Widerspruchsfreiheit des vorgesehenen Standards
-durch eine vom IT-Planungsrat bestimmte, unabhängige Einrichtung
-geprüft.
-2             Die Einrichtung kann in ihre Prüfung weitere Personen
-oder Einrichtungen, insbesondere Fachleute aus Wirtschaft und
-Wissenschaft, einbeziehen.
-3             Der IT-Planungsrat entscheidet unter Einbeziehung der
-Ergebnisse der Prüfung; er ist dabei nicht an die Ergebnisse der
-Prüfung gebunden.
+1Vor einer Beschlussfassung über verbindliche Standards im Sinne des
+Absatz 1 wird auf Antrag des Bundes oder dreier Länder grundsätzlich
+der Bedarf für einen solchen Beschluss sowie die IT-fachliche Qualität
+und Widerspruchsfreiheit des vorgesehenen Standards durch eine vom IT-
+Planungsrat bestimmte, unabhängige Einrichtung geprüft.
+2Die Einrichtung kann in ihre Prüfung weitere Personen oder
+Einrichtungen, insbesondere Fachleute aus Wirtschaft und Wissenschaft,
+einbeziehen.
+3Der IT-Planungsrat entscheidet unter Einbeziehung der Ergebnisse der
+Prüfung; er ist dabei nicht an die Ergebnisse der Prüfung gebunden.
 
 
 ### § 4 Aufgaben im Bereich Verbindungsnetz
@@ -300,33 +292,34 @@ Zusammenarbeit zu ermöglichen.
 Entscheidung der Vertragspartner.
 
 (2)
-1             Dieser Vertrag kann von jedem Vertragspartner unter
-Einhaltung einer zweijährigen Frist zum Jahresende gekündigt werden.
-2             Die Kündigung ist durch Kundgabe an die Geschäftsstelle
-für den IT-Planungsrat gegenüber den übrigen Vertragspartnern
-schriftlich zu erklären.
+1Dieser Vertrag kann von jedem Vertragspartner unter Einhaltung einer
+zweijährigen Frist zum Jahresende gekündigt werden.
+2Die Kündigung ist durch Kundgabe an die Geschäftsstelle für den IT-
+Planungsrat gegenüber den übrigen Vertragspartnern schriftlich zu
+erklären.
 
 (3)
-1             Die Kündigung gilt auch für die auf der Grundlage dieses
-Vertrages geschlossenen Vereinbarungen.
-2             Die Kündigung lässt das Bestehen des Vertrages und der
-auf der Grundlage dieses Vertrages geschlossenen Vereinbarungen für
-die übrigen Vertragspartner vorbehaltlich der Regelung des § 7 Absatz
-2 unberührt.
+1Die Kündigung gilt auch für die auf der Grundlage dieses Vertrages
+geschlossenen Vereinbarungen.
+2Die Kündigung lässt das Bestehen des Vertrages und der auf der
+Grundlage dieses Vertrages geschlossenen Vereinbarungen für die
+übrigen Vertragspartner vorbehaltlich der Regelung des § 7 Absatz 2
+unberührt.
 
+Inkrafttreten,
 
-### § 7 Inkrafttreten, Außerkrafttreten, Übergangsregelung
+### § 7 Außerkrafttreten, Übergangsregelung
 
 (1)
-1             Dieser Vertrag tritt am 1. April 2010 in Kraft.
-2             Sind bis zum 31. März 2010 nicht mindestens dreizehn
+1Dieser Vertrag tritt am 1. April 2010 in Kraft.
+2Sind bis zum 31. März 2010 nicht mindestens dreizehn
 Ratifikationsurkunden bei dem der Ministerpräsidentenkonferenz
 vorsitzenden Land hinterlegt, wird der Vertrag gegenstandslos.
 
 (2)
-1             Der Vertrag tritt außer Kraft, wenn die Zahl der
-Vertragspartner zehn unterschreitet.
-2             Für diesen Fall enden seine Wirkungen mit dem Ablauf der
+1Der Vertrag tritt außer Kraft, wenn die Zahl der Vertragspartner zehn
+unterschreitet.
+2Für diesen Fall enden seine Wirkungen mit dem Ablauf der
 Kündigungsfrist des zuletzt kündigenden Vertragspartners.
 
 (3) Die in diesem Vertrag vereinbarten Abstimmungsmechanismen lösen
@@ -344,13 +337,12 @@ die bisherigen Gremien:
 sowie deren Untergremien ab und treten in deren Rechtsnachfolge ein.
 
 (4)
-1             Bestehende Vereinbarungen der Beteiligten über die
-gemeinschaftliche Aufgabenerledigung im Bereich
-informationstechnischer Systeme werden von den Bestimmungen dieses
-Vertrages soweit sie diesen nicht widersprechen nicht berührt.
-2             Mit dem Außerkrafttreten bereits bestehender
-Vereinbarungen werden die Bestimmungen dieses Vertrages auf sie
-anwendbar.
+1Bestehende Vereinbarungen der Beteiligten über die gemeinschaftliche
+Aufgabenerledigung im Bereich informationstechnischer Systeme werden
+von den Bestimmungen dieses Vertrages soweit sie diesen nicht
+widersprechen nicht berührt.
+2Mit dem Außerkrafttreten bereits bestehender Vereinbarungen werden
+die Bestimmungen dieses Vertrages auf sie anwendbar.
 
 
 ### Schlussformel
@@ -665,8 +657,7 @@ B. IT-Steuerung
     Arbeitskreis der Staatssekretäre für E-Government in Bund und Ländern
     (St-Runde Deutschland-Online) sowie
     Kooperationsausschuss von Bund und Ländern für automatisierte
-    Datenverarbeitung                    (KoopA ADV) sowie alle
-    Untergremien ablösen.
+    Datenverarbeitung (KoopA ADV) sowie alle Untergremien ablösen.
 
 
 2.  Die dauerhafte neue Struktur besteht aus einem „IT-Planungsrat“, in

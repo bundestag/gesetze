@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.2.1997 I 378;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 15.3.2012 II 178
+:   Art. 6 G v. 18.7.2017 I 2730
 
 
 ## Abschnitt 1 - Steuerpflicht
@@ -106,19 +106,19 @@ Zweckzuwendungen unter Lebenden.
     die Geschäftsleitung oder den Sitz im Inland hat;
 
 
-3.  in allen anderen Fällen, vorbehaltlich des Absatzes 3, für den
-    Vermögensanfall, der in Inlandsvermögen im Sinne des § 121 des
-    Bewertungsgesetzes besteht (beschränkte Steuerpflicht). Bei
-    Inlandsvermögen im Sinne des § 121 Nr. 4 des Bewertungsgesetzes ist es
-    ausreichend, wenn der Erblasser zur Zeit seines Todes oder der
-    Schenker zur Zeit der Ausführung der Schenkung entsprechend der
-    Vorschrift am Grund- oder Stammkapital der inländischen
-    Kapitalgesellschaft beteiligt ist. Wird nur ein Teil einer solchen
-    Beteiligung durch Schenkung zugewendet, gelten die weiteren Erwerbe
-    aus der Beteiligung, soweit die Voraussetzungen des § 14 erfüllt sind,
-    auch dann als Erwerb von Inlandsvermögen, wenn im Zeitpunkt ihres
-    Erwerbs die Beteiligung des Erblassers oder Schenkers weniger als ein
-    Zehntel des Grund- oder Stammkapitals der Gesellschaft beträgt.
+3.  in allen anderen Fällen für den Vermögensanfall, der in
+    Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes besteht
+    (beschränkte Steuerpflicht). Bei Inlandsvermögen im Sinne des § 121
+    Nr. 4 des Bewertungsgesetzes ist es ausreichend, wenn der Erblasser
+    zur Zeit seines Todes oder der Schenker zur Zeit der Ausführung der
+    Schenkung entsprechend der Vorschrift am Grund- oder Stammkapital der
+    inländischen Kapitalgesellschaft beteiligt ist. Wird nur ein Teil
+    einer solchen Beteiligung durch Schenkung zugewendet, gelten die
+    weiteren Erwerbe aus der Beteiligung, soweit die Voraussetzungen des §
+    14 erfüllt sind, auch dann als Erwerb von Inlandsvermögen, wenn im
+    Zeitpunkt ihres Erwerbs die Beteiligung des Erblassers oder Schenkers
+    weniger als ein Zehntel des Grund- oder Stammkapitals der Gesellschaft
+    beträgt.
 
 
 
@@ -128,21 +128,7 @@ Bundesrepublik Deutschland zustehende Anteil am Festlandsockel, soweit
 dort Naturschätze des Meeresgrundes und des Meeresuntergrundes
 erforscht oder ausgebeutet werden.
 
-(3) Auf Antrag des Erwerbers wird ein Vermögensanfall, zu dem
-Inlandsvermögen im Sinne des § 121 des Bewertungsgesetzes gehört
-(Absatz 1 Nummer 3), insgesamt als unbeschränkt steuerpflichtig
-behandelt, wenn der Erblasser zur Zeit seines Todes, der Schenker zur
-Zeit der Ausführung der Schenkung oder der Erwerber zur Zeit der
-Entstehung der Steuer (§ 9) seinen Wohnsitz in einem Mitgliedstaat der
-Europäischen Union oder einem Staat hat, auf den das Abkommen über den
-Europäischen Wirtschaftsraum anwendbar ist. In diesem Fall sind auch
-mehrere innerhalb von zehn Jahren vor dem Vermögensanfall und
-innerhalb von zehn Jahren nach dem Vermögensanfall von derselben
-Person anfallende Erwerbe als unbeschränkt steuerpflichtig zu
-behandeln und nach Maßgabe des § 14 zusammenzurechnen. Die
-Festsetzungsfrist für die Steuer endet im Fall des Satzes 2 Nummer 1
-nicht vor Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem
-Antrag Kenntnis erlangt.
+(3) (weggefallen)
 
 
 ### § 3 Erwerb von Todes wegen
@@ -205,7 +191,10 @@ Antrag Kenntnis erlangt.
     Erbersatzanspruchs oder eines Vermächtnisses oder für die
     Zurückweisung eines Rechts aus einem Vertrag des Erblassers zugunsten
     Dritter auf den Todesfall oder anstelle eines anderen in Absatz 1
-    genannten Erwerbs gewährt wird;
+    genannten Erwerbs oder dafür gewährt wird, dass eine Rechtsstellung,
+    insbesondere eine Erbenstellung, oder ein Recht oder ein Anspruch, die
+    zu einem Erwerb nach Absatz 1 führen würden, nicht mehr oder nur noch
+    teilweise geltend gemacht werden;
 
 
 5.  was als Abfindung für ein aufschiebend bedingtes, betagtes oder
@@ -269,6 +258,13 @@ durch den Tod eines Ehegatten oder eines Lebenspartners beendet oder
 wird der Zugewinn nach § 1371 Abs. 2 des Bürgerlichen Gesetzbuchs
 ausgeglichen, gehört die Ausgleichsforderung (§ 1378 des Bürgerlichen
 Gesetzbuchs) nicht zum Erwerb im Sinne der §§ 3 und 7.
+
+(3) Wird der Güterstand der Wahl-Zugewinngemeinschaft (§ 1519 des
+Bürgerlichen Gesetzbuchs) beendet und der Zugewinn ausgeglichen, so
+gehört die Ausgleichsforderung (Artikel 12 Absatz 1 des Abkommens vom
+4\. Februar 2010 zwischen der Bundesrepublik Deutschland und der
+Französischen Republik über den Güterstand der Wahl-
+Zugewinngemeinschaft) nicht zum Erwerb im Sinne der §§ 3 und 7.
 
 
 ### § 6 Vor- und Nacherbschaft
@@ -450,8 +446,9 @@ hierdurch die Bereicherung des Erwerbers gemindert wird.
     e)  in den Fällen des § 3 Abs. 2 Nr. 3 mit dem Zeitpunkt der Genehmigung,
 
 
-    f)  in den Fällen des § 3 Abs. 2 Nr. 4 mit dem Zeitpunkt des Verzichts
-        oder der Ausschlagung,
+    f)  in den Fällen des § 3 Absatz 2 Nummer 4 mit dem Zeitpunkt des
+        Verzichts, der Ausschlagung, der Zurückweisung oder der Erklärung über
+        das Nichtgeltendmachen,
 
 
     g)  im Fall des § 3 Abs. 2 Nr. 5 mit dem Zeitpunkt der Vereinbarung über
@@ -505,11 +502,11 @@ als mit dem Zeitpunkt des Erlöschens der Belastung entstanden.
 ### § 10 Steuerpflichtiger Erwerb
 
 (1) Als steuerpflichtiger Erwerb gilt die Bereicherung des Erwerbers,
-soweit sie nicht steuerfrei ist (§§ 5, 13, 13a, 13c, 16, 17 und 18).
-In den Fällen des § 3 gilt unbeschadet Absatz 10 als Bereicherung der
-Betrag, der sich ergibt, wenn von dem nach § 12 zu ermittelnden Wert
-des gesamten Vermögensanfalls, soweit er der Besteuerung nach diesem
-Gesetz unterliegt, die nach den Absätzen 3 bis 9 abzugsfähigen
+soweit sie nicht steuerfrei ist (§§ 5, 13, 13a, 13c, 13d, 16, 17 und
+18). In den Fällen des § 3 gilt unbeschadet Absatz 10 als Bereicherung
+der Betrag, der sich ergibt, wenn von dem nach § 12 zu ermittelnden
+Wert des gesamten Vermögensanfalls, soweit er der Besteuerung nach
+diesem Gesetz unterliegt, die nach den Absätzen 3 bis 9 abzugsfähigen
 Nachlassverbindlichkeiten mit ihrem nach § 12 zu ermittelnden Wert
 abgezogen werden. Steuererstattungsansprüche des Erblassers sind zu
 berücksichtigen, wenn sie rechtlich entstanden sind (§ 37 Abs. 2 der
@@ -573,18 +570,18 @@ die Besteuerung auf einzelne Vermögensgegenstände (§ 2 Abs. 1 Nr. 3, §
 stehenden Schulden und Lasten abzugsfähig. Schulden und Lasten, die
 mit teilweise befreiten Vermögensgegenständen in wirtschaftlichem
 Zusammenhang stehen, sind nur mit dem Betrag abzugsfähig, der dem
-steuerpflichtigen Teil entspricht. Schulden und Lasten, die mit nach §
-13a befreitem Vermögen in wirtschaftlichem Zusammenhang stehen, sind
-nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung
-des § 13a anzusetzenden Werts dieses Vermögens zu dem Wert vor
-Anwendung des § 13a entspricht. Schulden und Lasten, die mit nach §
-13c befreitem Vermögen in wirtschaftlichem Zusammenhang stehen, sind
-nur mit dem Betrag abzugsfähig, der dem Verhältnis des nach Anwendung
-des § 13c anzusetzenden Werts dieses Vermögens zu dem Wert vor
-Anwendung des § 13c entspricht. Haben sich Nutzungsrechte als
-Grundstücksbelastungen bei der Ermittlung des gemeinen Werts einer
-wirtschaftlichen Einheit des Grundbesitzes ausgewirkt, ist deren Abzug
-bei der Erbschaftsteuer ausgeschlossen.
+steuerpflichtigen Teil entspricht. Schulden und Lasten, die mit nach
+den §§ 13a und 13c befreitem Vermögen in wirtschaftlichem Zusammenhang
+stehen, sind nur mit dem Betrag abzugsfähig, der dem Verhältnis des
+nach Anwendung der §§ 13a und 13c anzusetzenden Werts dieses Vermögens
+zu dem Wert vor Anwendung der §§ 13a und 13c entspricht. Schulden und
+Lasten, die mit nach § 13d befreitem Vermögen in wirtschaftlichem
+Zusammenhang stehen, sind nur mit dem Betrag abzugsfähig, der dem
+Verhältnis des nach Anwendung des § 13d anzusetzenden Werts dieses
+Vermögens zu dem Wert vor Anwendung des § 13d entspricht. Haben sich
+Nutzungsrechte als Grundstücksbelastungen bei der Ermittlung des
+gemeinen Werts einer wirtschaftlichen Einheit des Grundbesitzes
+ausgewirkt, ist deren Abzug bei der Erbschaftsteuer ausgeschlossen.
 
 (7) In den Fällen des § 1 Abs. 1 Nr. 4 sind Leistungen an die nach der
 Stiftungsurkunde oder nach der Vereinssatzung Berechtigten nicht
@@ -708,12 +705,9 @@ werden nach § 31 des Bewertungsgesetzes bewertet.
 
 
         bb) die Gegenstände sich seit mindestens 20 Jahren im Besitz der Familie
-            befinden oder in dem Verzeichnis national wertvollen Kulturguts oder
-            national wertvoller Archive nach dem Gesetz zum Schutz deutschen
-            Kulturgutes gegen Abwanderung in der Fassung der Bekanntmachung vom 8.
-            Juli 1999 (BGBl. I S. 1754), zuletzt geändert durch Artikel 2 des
-            Gesetzes vom 18. Mai 2007 (BGBl. I S. 757, 2547), in der jeweils
-            geltenden Fassung eingetragen sind.
+            befinden oder in ein Verzeichnis national wertvollen Kulturgutes nach
+            § 7 Absatz 1 des Kulturgutschutzgesetzes vom 31. Juli 2016 (BGBl. I S.
+            1914) in der jeweils geltenden Fassung eingetragen sind.
 
 
 
@@ -956,21 +950,40 @@ werden nach § 31 des Bewertungsgesetzes bewertet.
         Vermögensmassen, die nach der Satzung, dem Stiftungsgeschäft oder der
         sonstigen Verfassung und nach ihrer tatsächlichen Geschäftsführung
         ausschließlich und unmittelbar kirchlichen, gemeinnützigen oder
-        mildtätigen Zwecken dienen. Die Befreiung fällt mit Wirkung für die
-        Vergangenheit weg, wenn die Voraussetzungen für die Anerkennung der
-        Körperschaft, Personenvereinigung oder Vermögensmasse als kirchliche,
-        gemeinnützige oder mildtätige Institution innerhalb von zehn Jahren
-        nach der Zuwendung entfallen und das Vermögen nicht begünstigten
-        Zwecken zugeführt wird,
+        mildtätigen Zwecken im Sinne der §§ 52 bis 54 der Abgabenordnung
+        dienen. Die Befreiung fällt mit Wirkung für die Vergangenheit weg,
+        wenn die Voraussetzungen für die Anerkennung der Körperschaft,
+        Personenvereinigung oder Vermögensmasse als kirchliche, gemeinnützige
+        oder mildtätige Institution innerhalb von zehn Jahren nach der
+        Zuwendung entfallen und das Vermögen nicht begünstigten Zwecken
+        zugeführt wird,
 
 
     c)  an ausländische Religionsgesellschaften, Körperschaften,
         Personenvereinigungen und Vermögensmassen der in den Buchstaben a und
-        b bezeichneten Art unter der Voraussetzung, daß der ausländische Staat
-        für Zuwendungen an deutsche Rechtsträger der in den Buchstaben a und b
-        bezeichneten Art eine entsprechende Steuerbefreiung gewährt und das
-        Bundesministerium der Finanzen dies durch förmlichen Austausch
-        entsprechender Erklärungen mit dem ausländischen Staat feststellt;
+        b bezeichneten Art, die nach § 5 Absatz 1 Nummer 9 des
+        Körperschaftsteuergesetzes in Verbindung mit § 5 Absatz 2 Nummer 2
+        zweiter Halbsatz des Körperschaftsteuergesetzes steuerbefreit wären,
+        wenn sie inländische Einkünfte erzielen würden, und wenn durch die
+        Staaten, in denen die Zuwendungsempfänger belegen sind, Amtshilfe und
+        Unterstützung bei der Beitreibung geleistet werden. Amtshilfe ist der
+        Auskunftsaustausch im Sinne oder entsprechend der Amtshilferichtlinie
+        gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes in der für den jeweiligen
+        Stichtag der Steuerentstehung geltenden Fassung oder eines
+        entsprechenden Nachfolgerechtsaktes. Beitreibung ist die gegenseitige
+        Unterstützung bei der Beitreibung von Forderungen im Sinne oder
+        entsprechend der Beitreibungsrichtlinie einschließlich der in diesem
+        Zusammenhang anzuwendenden Durchführungsbestimmungen in den für den
+        jeweiligen Stichtag der Steuerentstehung geltenden Fassungen oder
+        eines entsprechenden Nachfolgerechtsaktes. Werden die
+        steuerbegünstigten Zwecke des Zuwendungsempfängers im Sinne des Satzes
+        1 nur im Ausland verwirklicht, ist für die Steuerbefreiung
+        Voraussetzung, dass natürliche Personen, die ihren Wohnsitz oder ihren
+        gewöhnlichen Aufenthalt im Geltungsbereich dieses Gesetzes haben,
+        gefördert werden oder dass die Tätigkeit dieses Zuwendungsempfängers
+        neben der Verwirklichung der steuerbegünstigten Zwecke auch zum
+        Ansehen der Bundesrepublik Deutschland beitragen kann. Buchstabe b
+        Satz 2 gilt entsprechend;
 
 
 
@@ -983,7 +996,9 @@ werden nach § 31 des Bewertungsgesetzes bewertet.
 
 18. Zuwendungen an
 
-    a)  politische Parteien im Sinne des § 2 des Parteiengesetzes,
+    a)  politische Parteien im Sinne des § 2 des Parteiengesetzes, sofern die
+        jeweilige Partei nicht gemäß § 18 Absatz 7 des Parteiengesetzes von
+        der staatlichen Teilfinanzierung ausgeschlossen ist,
 
 
     b)  Vereine ohne Parteicharakter, wenn
@@ -1025,253 +1040,424 @@ Steuerbefreiung verzichtet.
 
 ### § 13a Steuerbefreiung für Betriebsvermögen, Betriebe der Land- und Forstwirtschaft und Anteile an Kapitalgesellschaften
 
-(1) Der Wert von Betriebsvermögen, land- und forstwirtschaftlichem
-Vermögen und Anteilen an Kapitalgesellschaften im Sinne des § 13b Abs.
-4 bleibt insgesamt außer Ansatz (Verschonungsabschlag). Voraussetzung
-ist, dass die Summe der maßgebenden jährlichen Lohnsummen (Absatz 4)
-des Betriebs, bei Beteiligungen an einer Personengesellschaft oder
-Anteilen an einer Kapitalgesellschaft des Betriebs der jeweiligen
-Gesellschaft, innerhalb von fünf Jahren nach dem Erwerb
-(Lohnsummenfrist) insgesamt 400 Prozent der Ausgangslohnsumme nicht
-unterschreitet (Mindestlohnsumme). Ausgangslohnsumme ist die
-durchschnittliche Lohnsumme der letzten fünf vor dem Zeitpunkt der
-Entstehung der Steuer endenden Wirtschaftsjahre. Satz 2 ist nicht
-anzuwenden, wenn die Ausgangslohnsumme 0 Euro beträgt oder der Betrieb
-nicht mehr als 20 Beschäftigte hat. Unterschreitet die Summe der
-maßgebenden jährlichen Lohnsummen die Mindestlohnsumme, vermindert
-sich der nach Satz 1 zu gewährende Verschonungsabschlag mit Wirkung
-für die Vergangenheit in demselben prozentualen Umfang, wie die
-Mindestlohnsumme unterschritten wird.
+(1) Begünstigtes Vermögen im Sinne des § 13b Absatz 2 bleibt
+vorbehaltlich der folgenden Absätze zu 85 Prozent steuerfrei
+(Verschonungsabschlag), wenn der Erwerb begünstigten Vermögens im
+Sinne des § 13b Absatz 2 zuzüglich der Erwerbe im Sinne des Satzes 2
+insgesamt 26 Millionen Euro nicht übersteigt. Bei mehreren Erwerben
+begünstigten Vermögens im Sinne des § 13b Absatz 2 von derselben
+Person innerhalb von zehn Jahren werden bei der Anwendung des Satzes 1
+die früheren Erwerbe nach ihrem früheren Wert dem letzten Erwerb
+hinzugerechnet. Wird die Grenze von 26 Millionen Euro durch mehrere
+innerhalb von zehn Jahren von derselben Person anfallende Erwerbe
+überschritten, entfällt die Steuerbefreiung für die bis dahin nach
+Satz 1 oder Absatz 10 als steuerfrei behandelten früheren Erwerbe mit
+Wirkung für die Vergangenheit. Die Festsetzungsfrist für die Steuer
+der früheren Erwerbe endet nicht vor dem Ablauf des vierten Jahres,
+nachdem das für die Erbschaftsteuer zuständige Finanzamt von dem
+letzten Erwerb Kenntnis erlangt.
 
-(1a) Das für die Bewertung der wirtschaftlichen Einheit örtlich
-zuständige Finanzamt im Sinne des § 152 Nummer 1 bis 3 des
-Bewertungsgesetzes stellt die Ausgangslohnsumme, die Anzahl der
-Beschäftigten und die Summe der maßgebenden jährlichen Lohnsummen
-gesondert fest, wenn diese Angaben für die Erbschaftsteuer oder eine
-andere Feststellung im Sinne dieser Vorschrift von Bedeutung sind. Die
-Entscheidung über die Bedeutung trifft das Finanzamt, das für die
-Festsetzung der Erbschaftsteuer oder die Feststellung nach § 151
-Absatz 1 Satz 1 Nummer 1 bis 3 des Bewertungsgesetzes zuständig ist. §
-151 Absatz 3 und die §§ 152 bis 156 des Bewertungsgesetzes sind auf
-die Sätze 1 und 2 entsprechend anzuwenden.
+(2) Der nach Anwendung des Absatzes 1 verbleibende Teil des
+begünstigten Vermögens bleibt außer Ansatz, soweit der Wert dieses
+Vermögens insgesamt 150 000 Euro nicht übersteigt (Abzugsbetrag). Der
+Abzugsbetrag von 150 000 Euro verringert sich, soweit der Wert dieses
+Vermögens insgesamt die Wertgrenze von 150 000 Euro übersteigt, um 50
+Prozent des diese Wertgrenze übersteigenden Betrags. Der Abzugsbetrag
+kann innerhalb von zehn Jahren für von derselben Person anfallende
+Erwerbe begünstigten Vermögens nur einmal berücksichtigt werden.
 
-(2) Der nicht unter § 13b Abs. 4 fallende Teil des Vermögens im Sinne
-des § 13b Abs. 1 bleibt vorbehaltlich des Satzes 3 außer Ansatz,
-soweit der Wert dieses Vermögens insgesamt 150 000 Euro nicht
-übersteigt (Abzugsbetrag). Der Abzugsbetrag von 150 000 Euro
-verringert sich, wenn der Wert dieses Vermögens insgesamt die
-Wertgrenze von 150 000 Euro übersteigt, um 50 Prozent des diese
-Wertgrenze übersteigenden Betrags. Der Abzugsbetrag kann innerhalb von
-zehn Jahren für von derselben Person anfallende Erwerbe nur einmal
-berücksichtigt werden.
+(3) Voraussetzung für die Gewährung des Verschonungsabschlags nach
+Absatz 1 ist, dass die Summe der maßgebenden jährlichen Lohnsummen
+(Sätze 6 bis 13) des Betriebs, bei Beteiligungen an einer
+Personengesellschaft oder Anteilen an einer Kapitalgesellschaft des
+Betriebs der jeweiligen Gesellschaft innerhalb von fünf Jahren nach
+dem Erwerb (Lohnsummenfrist) insgesamt 400 Prozent der
+Ausgangslohnsumme nicht unterschreitet (Mindestlohnsumme).
+Ausgangslohnsumme ist die durchschnittliche Lohnsumme der letzten fünf
+vor dem Zeitpunkt der Entstehung der Steuer (§ 9) endenden
+Wirtschaftsjahre. Satz 1 ist nicht anzuwenden, wenn
 
-(3) Ein Erwerber kann den Verschonungsabschlag (Absatz 1) und den
-Abzugsbetrag (Absatz 2) nicht in Anspruch nehmen, soweit er Vermögen
-im Sinne des § 13b Abs. 1 auf Grund einer letztwilligen Verfügung des
-Erblassers oder einer rechtsgeschäftlichen Verfügung des Erblassers
-oder Schenkers auf einen Dritten übertragen muss. Gleiches gilt, wenn
-ein Erbe im Rahmen der Teilung des Nachlasses Vermögen im Sinne des §
-13b Abs. 1 auf einen Miterben überträgt.
+1.  die Ausgangslohnsumme 0 Euro beträgt oder
 
-(4) Die Lohnsumme umfasst alle Vergütungen (Löhne und Gehälter und
-andere Bezüge und Vorteile), die im maßgebenden Wirtschaftsjahr an die
-auf den Lohn- und Gehaltslisten erfassten Beschäftigten gezahlt
-werden; außer Ansatz bleiben Vergütungen an solche Arbeitnehmer, die
-nicht ausschließlich oder überwiegend in dem Betrieb tätig sind. Zu
-den Vergütungen zählen alle Geld- oder Sachleistungen für die von den
+
+2.  der Betrieb unter Einbeziehung der in den Sätzen 11 bis 13 genannten
+    Beteiligungen und Gesellschaften sowie der nach Maßgabe dieser
+    Bestimmung anteilig einzubeziehenden Beschäftigten nicht mehr als fünf
+    Beschäftigte hat.
+
+
+
+An die Stelle der Mindestlohnsumme von 400 Prozent tritt bei
+
+1.  mehr als fünf, aber nicht mehr als zehn Beschäftigten eine
+    Mindestlohnsumme von 250 Prozent,
+
+
+2.  mehr als zehn, aber nicht mehr als 15 Beschäftigten eine
+    Mindestlohnsumme von 300 Prozent.
+
+
+
+Unterschreitet die Summe der maßgebenden jährlichen Lohnsummen die
+Mindestlohnsumme, vermindert sich der nach Absatz 1 zu gewährende
+Verschonungsabschlag mit Wirkung für die Vergangenheit in demselben
+prozentualen Umfang, wie die Mindestlohnsumme unterschritten wird. Die
+Lohnsumme umfasst alle Vergütungen (Löhne und Gehälter und andere
+Bezüge und Vorteile), die im maßgebenden Wirtschaftsjahr an die auf
+den Lohn- und Gehaltslisten erfassten Beschäftigten gezahlt werden.
+Außer Ansatz bleiben Vergütungen an solche Beschäftigte,
+
+1.  die sich im Mutterschutz im Sinne des Mutterschutzgesetzes in der
+    Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2318), das
+    zuletzt durch Artikel 6 des Gesetzes vom 23. Oktober 2012 (BGBl. I S.
+    2246) geändert worden ist, befinden oder
+
+
+2.  die sich in einem Ausbildungsverhältnis befinden oder
+
+
+3.  die Krankengeld im Sinne des § 44 des Fünften Buches Sozialgesetzbuch
+    – Gesetzliche Krankenversicherung – (Artikel 1 des Gesetzes vom 20.
+    Dezember 1988, BGBl. I S. 2477, 2482), das zuletzt durch Artikel 3 des
+    Gesetzes vom 30. Mai 2016 (BGBl. I S. 1254) geändert worden ist,
+    beziehen oder
+
+
+4.  die Elterngeld im Sinne des Bundeselterngeld- und Elternzeitgesetzes
+    in der Fassung der Bekanntmachung vom 27. Januar 2015 (BGBl. I S. 33)
+    beziehen oder
+
+
+5.  die nicht ausschließlich oder überwiegend in dem Betrieb tätig sind
+    (Saisonarbeiter);
+
+
+
+diese im Zeitpunkt der Entstehung der Steuer (§ 9) einem Betrieb
+zuzurechnenden Beschäftigten bleiben bei der Anzahl der Beschäftigten
+des Betriebs im Sinne der Sätze 3 und 4 unberücksichtigt. Zu den
+Vergütungen zählen alle Geld- oder Sachleistungen für die von den
 Beschäftigten erbrachte Arbeit, unabhängig davon, wie diese Leistungen
 bezeichnet werden und ob es sich um regelmäßige oder unregelmäßige
-Zahlungen handelt. Zu den Löhnen und Gehältern gehören auch alle von
-den Beschäftigten zu entrichtenden Sozialbeiträge, Einkommensteuern
-und Zuschlagsteuern auch dann, wenn sie vom Arbeitgeber einbehalten
-und von ihm im Namen des Beschäftigten direkt an den
+Zahlungen handelt. Zu den Löhnen und Gehältern gehören alle von den
+Beschäftigten zu entrichtenden Sozialbeiträge, Einkommensteuern und
+Zuschlagsteuern auch dann, wenn sie vom Arbeitgeber einbehalten und
+von ihm im Namen des Beschäftigten direkt an den
 Sozialversicherungsträger und die Steuerbehörde abgeführt werden. Zu
-den Löhnen und Gehältern zählen alle vom Beschäftigten empfangenen
+den Löhnen und Gehältern zählen alle von den Beschäftigten empfangenen
 Sondervergütungen, Prämien, Gratifikationen, Abfindungen, Zuschüsse zu
 Lebenshaltungskosten, Familienzulagen, Provisionen, Teilnehmergebühren
 und vergleichbare Vergütungen. Gehören zum Betriebsvermögen des
 Betriebs, bei Beteiligungen an einer Personengesellschaft und Anteilen
 an einer Kapitalgesellschaft des Betriebs der jeweiligen Gesellschaft,
 unmittelbar oder mittelbar Beteiligungen an Personengesellschaften,
-die ihren Sitz oder ihre Geschäftsleitung im Inland, einem
+die ihren Sitz oder ihre Geschäftsleitung im Inland, in einem
 Mitgliedstaat der Europäischen Union oder in einem Staat des
-Europäischen Wirtschaftsraums haben, oder Anteile an
-Kapitalgesellschaften, die ihren Sitz oder ihre Geschäftsleitung im
-Inland, einem Mitgliedstaat der Europäischen Union oder in einem Staat
-des Europäischen Wirtschaftsraums haben, wenn die unmittelbare oder
-mittelbare Beteiligung mehr als 25 Prozent beträgt, sind die
-Lohnsummen dieser Gesellschaften einzubeziehen zu dem Anteil, zu dem
-die unmittelbare und mittelbare Beteiligung besteht.
+Europäischen Wirtschaftsraums haben, sind die Lohnsummen und die
+Anzahl der Beschäftigten dieser Gesellschaften einzubeziehen zu dem
+Anteil, zu dem die unmittelbare oder mittelbare Beteiligung besteht.
+Satz 11 gilt für Anteile an Kapitalgesellschaften entsprechend, wenn
+die unmittelbare oder mittelbare Beteiligung mehr als 25 Prozent
+beträgt. Im Fall einer Betriebsaufspaltung sind die Lohnsummen und die
+Anzahl der Beschäftigten der Besitzgesellschaft und der
+Betriebsgesellschaft zusammenzuzählen.
 
-(5) Der Verschonungsabschlag (Absatz 1) und der Abzugsbetrag (Absatz
+(4) Das für die Bewertung der wirtschaftlichen Einheit örtlich
+zuständige Finanzamt im Sinne des § 152 Nummer 1 bis 3 des
+Bewertungsgesetzes stellt die Ausgangslohnsumme, die Anzahl der
+Beschäftigten und die Summe der maßgebenden jährlichen Lohnsummen
+gesondert fest, wenn diese Angaben für die Erbschaftsteuer oder eine
+andere Feststellung im Sinne dieser Vorschrift von Bedeutung sind. Bei
+Anteilen an Kapitalgesellschaften, die nach § 11 Absatz 1 des
+Bewertungsgesetzes zu bewerten sind, trifft die Feststellungen des
+Satzes 1 das örtlich zuständige Finanzamt entsprechend § 152 Nummer 3
+des Bewertungsgesetzes. Die Entscheidung über die Bedeutung trifft das
+Finanzamt, das für die Festsetzung der Erbschaftsteuer oder die
+Feststellung nach § 151 Absatz 1 Satz 1 Nummer 1 bis 3 des
+Bewertungsgesetzes zuständig ist. § 151 Absatz 3 und die §§ 152 bis
+156 des Bewertungsgesetzes sind auf die Sätze 1 bis 3 entsprechend
+anzuwenden.
+
+(5) Ein Erwerber kann den Verschonungsabschlag (Absatz 1) und den
+Abzugsbetrag (Absatz 2) nicht in Anspruch nehmen, soweit er
+begünstigtes Vermögen im Sinne des § 13b Absatz 2 auf Grund einer
+letztwilligen Verfügung des Erblassers oder einer rechtsgeschäftlichen
+Verfügung des Erblassers oder Schenkers auf einen Dritten übertragen
+muss. Gleiches gilt, wenn ein Erbe im Rahmen der Teilung des
+Nachlasses begünstigtes Vermögen im Sinne des § 13b Absatz 2 auf einen
+Miterben überträgt. Überträgt ein Erbe erworbenes begünstigtes
+Vermögen im Sinne des § 13b Absatz 2 im Rahmen der Teilung des
+Nachlasses auf einen Dritten und gibt der Dritte dabei diesem Erwerber
+nicht begünstigtes Vermögen hin, das er vom Erblasser erworben hat,
+erhöht sich insoweit der Wert des begünstigten Vermögens des Dritten
+um den Wert des hingegebenen Vermögens, höchstens jedoch um den Wert
+des übertragenen Vermögens.
+
+(6) Der Verschonungsabschlag (Absatz 1) und der Abzugsbetrag (Absatz
 2) fallen nach Maßgabe des Satzes 2 mit Wirkung für die Vergangenheit
 weg, soweit der Erwerber innerhalb von fünf Jahren (Behaltensfrist)
 
-1.  einen Gewerbebetrieb oder einen Teilbetrieb, einen Anteil an einer
-    Gesellschaft im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 und Abs. 3 oder §
-    18 Abs. 4 des Einkommensteuergesetzes, einen Anteil eines persönlich
-    haftenden Gesellschafters einer Kommanditgesellschaft auf Aktien oder
-    einen Anteil daran veräußert; als Veräußerung gilt auch die Aufgabe
-    des Gewerbebetriebs. Gleiches gilt, wenn wesentliche
+1.  einen Gewerbebetrieb oder einen Teilbetrieb, eine Beteiligung an einer
+    Gesellschaft im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 und Absatz 3
+    oder § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes, einen Anteil
+    eines persönlich haftenden Gesellschafters einer Kommanditgesellschaft
+    auf Aktien oder einen Anteil daran veräußert; als Veräußerung gilt
+    auch die Aufgabe des Gewerbebetriebs. Gleiches gilt, wenn wesentliche
     Betriebsgrundlagen eines Gewerbebetriebs veräußert oder in das
     Privatvermögen überführt oder anderen betriebsfremden Zwecken
     zugeführt werden oder wenn Anteile an einer Kapitalgesellschaft
-    veräußert werden, die der Veräußerer durch eine Sacheinlage (§ 20 Abs.
-    1 des Umwandlungssteuergesetzes vom 7. Dezember 2006 (BGBl. I S. 2782,
-    2791), geändert durch Artikel 5 des Gesetzes vom 14. August 2007
-    (BGBl. I S. 1912), in der jeweils geltenden Fassung) aus dem
-    Betriebsvermögen im Sinne des § 13b erworben hat oder ein Anteil an
-    einer Gesellschaft im Sinne des § 15 Abs. 1 Satz 1 Nr. 2 und Abs. 3
-    oder § 18 Abs. 4 des Einkommensteuergesetzes oder ein Anteil daran
-    veräußert wird, den der Veräußerer durch eine Einbringung des
-    Betriebsvermögens im Sinne des § 13b in eine Personengesellschaft (§
-    24 Abs. 1 des Umwandlungssteuergesetzes) erworben hat;
+    veräußert werden, die der Veräußerer durch eine Sacheinlage (§ 20
+    Absatz 1 des Umwandlungssteuergesetzes vom 7. Dezember 2006 (BGBl. I
+    S. 2782, 2791), zuletzt geändert durch Artikel 6 des Gesetzes vom 2.
+    November 2015 (BGBl. I S. 1834), in der jeweils geltenden Fassung) aus
+    dem Betriebsvermögen im Sinne des § 13b erworben hat oder wenn eine
+    Beteiligung an einer Gesellschaft im Sinne des § 15 Absatz 1 Satz 1
+    Nummer 2 und Absatz 3 oder § 18 Absatz 4 Satz 2 des
+    Einkommensteuergesetzes oder ein Anteil daran veräußert wird, den der
+    Veräußerer durch eine Einbringung des Betriebsvermögens im Sinne des §
+    13b in eine Personengesellschaft (§ 24 Absatz 1 des
+    Umwandlungssteuergesetzes) erworben hat;
 
 
-2.  das land- und forstwirtschaftliche Vermögen im Sinne des § 168 Abs. 1
-    Nr. 1 des Bewertungsgesetzes und selbst bewirtschaftete Grundstücke im
-    Sinne des § 159 des Bewertungsgesetzes veräußert. Gleiches gilt, wenn
-    das land- und forstwirtschaftliche Vermögen dem Betrieb der Land- und
-    Forstwirtschaft nicht mehr dauernd zu dienen bestimmt ist oder wenn
-    der bisherige Betrieb innerhalb der Behaltensfrist als Stückländerei
-    zu qualifizieren wäre oder Grundstücke im Sinne des § 159 des
-    Bewertungsgesetzes nicht mehr selbst bewirtschaftet werden;
+2.  das land- und forstwirtschaftliche Vermögen im Sinne des § 168 Absatz
+    1 Nummer 1 des Bewertungsgesetzes und selbst bewirtschaftete
+    Grundstücke im Sinne des § 159 des Bewertungsgesetzes veräußert.
+    Gleiches gilt, wenn das land- und forstwirtschaftliche Vermögen einem
+    Betrieb der Land- und Forstwirtschaft nicht mehr dauernd zu dienen
+    bestimmt ist oder wenn der bisherige Betrieb innerhalb der
+    Behaltensfrist als Stückländerei zu qualifizieren wäre oder
+    Grundstücke im Sinne des § 159 des Bewertungsgesetzes nicht mehr
+    selbst bewirtschaftet werden;
 
 
-3.  als Inhaber eines Gewerbebetriebs, Gesellschafter einer Gesellschaft
-    im Sinne des § 15 Abs. 1 Nr. 2 und Abs. 3 oder § 18 Abs. 4 des
-    Einkommensteuergesetzes oder persönlich haftender Gesellschafter einer
-    Kommanditgesellschaft auf Aktien bis zum Ende des letzten in die
-    Fünfjahresfrist fallenden Wirtschaftsjahres Entnahmen tätigt, die die
-    Summe seiner Einlagen und der ihm zuzurechnenden Gewinne oder
-    Gewinnanteile seit dem Erwerb um mehr als 150 000 Euro übersteigen;
-    Verluste bleiben unberücksichtigt. Gleiches gilt für Inhaber eines
-    begünstigten Betriebs der Land- und Forstwirtschaft oder eines
-    Teilbetriebs oder eines Anteils an einem Betrieb der Land- und
-    Forstwirtschaft. Bei Ausschüttungen an Gesellschafter einer
-    Kapitalgesellschaft ist sinngemäß zu verfahren;
+3.  als Inhaber eines Gewerbebetriebs, als Gesellschafter einer
+    Gesellschaft im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 und Absatz 3
+    oder § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes oder als
+    persönlich haftender Gesellschafter einer Kommanditgesellschaft auf
+    Aktien bis zum Ende des letzten in die Fünfjahresfrist fallenden
+    Wirtschaftsjahres Entnahmen tätigt, die die Summe seiner Einlagen und
+    der ihm zuzurechnenden Gewinne oder Gewinnanteile seit dem Erwerb um
+    mehr als 150 000 Euro übersteigen; Verluste bleiben unberücksichtigt.
+    Gleiches gilt für Inhaber eines begünstigten Betriebs der Land- und
+    Forstwirtschaft oder eines Teilbetriebs oder eines Anteils an einem
+    Betrieb der Land- und Forstwirtschaft. Bei Ausschüttungen an
+    Gesellschafter einer Kapitalgesellschaft ist sinngemäß zu verfahren;
 
 
-4.  Anteile an Kapitalgesellschaften im Sinne des § 13b ganz oder
-    teilweise veräußert; eine verdeckte Einlage der Anteile in eine
-    Kapitalgesellschaft steht der Veräußerung der Anteile gleich. Gleiches
-    gilt, wenn die Kapitalgesellschaft innerhalb der Frist aufgelöst oder
-    ihr Nennkapital herabgesetzt wird, wenn diese wesentliche
-    Betriebsgrundlagen veräußert und das Vermögen an die Gesellschafter
-    verteilt wird; Satz 1 Nr. 1 Satz 2 gilt entsprechend;
+4.  Anteile an Kapitalgesellschaften im Sinne des § 13b Absatz 1 Nummer 3
+    ganz oder teilweise veräußert; eine verdeckte Einlage der Anteile in
+    eine Kapitalgesellschaft steht der Veräußerung der Anteile gleich.
+    Gleiches gilt, wenn die Kapitalgesellschaft innerhalb der Frist
+    aufgelöst oder ihr Nennkapital herabgesetzt wird, wenn diese
+    wesentliche Betriebsgrundlagen veräußert und das Vermögen an die
+    Gesellschafter verteilt wird; Satz 1 Nummer 1 Satz 2 gilt
+    entsprechend;
 
 
-5.  im Fall des § 13b Abs. 1 Nr. 3 Satz 2 die Verfügungsbeschränkung oder
-    die Stimmrechtsbündelung aufgehoben wird.
+5.  im Fall des § 13b Absatz 1 Nummer 3 Satz 2 die Verfügungsbeschränkung
+    oder die Stimmrechtsbündelung aufgehoben wird.
 
 
 
-Der Wegfall des Verschonungsabschlags beschränkt sich in den Fällen
-des Satzes 1 Nr. 1, 2, 4 und 5 auf den Teil, der dem Verhältnis der im
-Zeitpunkt der schädlichen Verfügung verbleibenden Behaltensfrist
-einschließlich des Jahres, in dem die Verfügung erfolgt, zur gesamten
-Behaltensfrist ergibt. In den Fällen des Satzes 1 Nr. 1, 2 und 4 ist
-von einer Nachversteuerung abzusehen, wenn der Veräußerungserlös
-innerhalb der nach § 13b Abs. 1 begünstigten Vermögensart verbleibt.
-Hiervon ist auszugehen, wenn der Veräußerungserlös innerhalb von sechs
-Monaten in entsprechendes Vermögen investiert wird, das nicht zum
-Verwaltungsvermögen im Sinne des § 13b Abs. 2 gehört.
+Der rückwirkende Wegfall des Verschonungsabschlags beschränkt sich in
+den Fällen des Satzes 1 Nummer 1, 2, 4 und 5 auf den Teil, der dem
+Verhältnis der im Zeitpunkt der schädlichen Verfügung verbleibenden
+Behaltensfrist einschließlich des Jahres, in dem die Verfügung
+erfolgt, zur gesamten Behaltensfrist entspricht. In den Fällen des
+Satzes 1 Nummer 1, 2 und 4 ist von einer rückwirkenden Besteuerung
+abzusehen, wenn der Veräußerungserlös innerhalb der jeweils nach § 13b
+Absatz 1 begünstigungsfähigen Vermögensart verbleibt. Hiervon ist
+auszugehen, wenn der Veräußerungserlös innerhalb von sechs Monaten in
+entsprechendes Vermögen investiert wird, das zum begünstigten Vermögen
+im Sinne des § 13b Absatz 2 gehört.
 
-(6) Der Erwerber ist verpflichtet, dem für die Erbschaftsteuer
+(7) Der Erwerber ist verpflichtet, dem für die Erbschaftsteuer
 zuständigen Finanzamt innerhalb einer Frist von sechs Monaten nach
-Ablauf der Lohnsummenfrist das Unterschreiten der Lohnsummengrenze im
-Sinne des Absatzes 1 Satz 2 anzuzeigen. In den Fällen des Absatzes 5
-ist der Erwerber verpflichtet, dem für die Erbschaftsteuer zuständigen
+Ablauf der Lohnsummenfrist das Unterschreiten der Mindestlohnsumme
+(Absatz 3 Satz 1) anzuzeigen. In den Fällen des Absatzes 6 ist der
+Erwerber verpflichtet, dem für die Erbschaftsteuer zuständigen
 Finanzamt den entsprechenden Sachverhalt innerhalb einer Frist von
-einem Monat, nach dem der jeweilige Tatbestand verwirklicht wurde,
+einem Monat, nachdem der jeweilige Tatbestand verwirklicht wurde,
 anzuzeigen. Die Festsetzungsfrist für die Steuer endet nicht vor dem
-Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem
-Unterschreiten der Lohnsummengrenze (Absatz 1 Satz 2) oder dem Verstoß
-gegen die Behaltensregelungen (Absatz 5) Kenntnis erlangt. Die Anzeige
-ist eine Steuererklärung im Sinne der Abgabenordnung. Sie ist
-schriftlich abzugeben. Die Anzeige hat auch dann zu erfolgen, wenn der
-Vorgang zu keiner Besteuerung führt.
+Ablauf des vierten Jahres, nachdem das für die Erbschaftsteuer
+zuständige Finanzamt von dem Unterschreiten der Mindestlohnsumme
+(Absatz 3 Satz 1) oder dem Verstoß gegen die Behaltensregelungen
+(Absatz 6) Kenntnis erlangt. Die Anzeige ist eine Steuererklärung im
+Sinne der Abgabenordnung. Sie ist schriftlich abzugeben. Die Anzeige
+hat auch dann zu erfolgen, wenn der Vorgang zu keiner Besteuerung
+führt.
 
-(7) Soweit nicht inländisches Vermögen zum begünstigten Vermögen im
-Sinne des § 13b gehört, hat der Steuerpflichtige nachzuweisen, dass
-die Voraussetzungen für die Begünstigung im Zeitpunkt der Entstehung
-der Steuer und während der gesamten in den Absätzen 2 und 5 genannten
-Zeiträume bestehen.
+(8) Soweit nicht inländisches Vermögen zum begünstigten Vermögen im
+Sinne des § 13b Absatz 2 gehört, hat der Steuerpflichtige
+nachzuweisen, dass die Voraussetzungen für eine Steuerbefreiung im
+Zeitpunkt der Entstehung der Steuer (§ 9) und während der gesamten in
+den Absätzen 3 und 6 genannten Zeiträume bestehen.
 
-(8) Der Erwerber kann unwiderruflich erklären, dass die
-Steuerbefreiung nach den Absätzen 1 bis 7 in Verbindung mit § 13b nach
+(9) Für begünstigtes Vermögen im Sinne des § 13b Absatz 2 wird vor
+Anwendung des Absatzes 1 ein Abschlag gewährt, wenn der
+Gesellschaftsvertrag oder die Satzung Bestimmungen enthält, die
+
+1.  die Entnahme oder Ausschüttung auf höchstens 37,5 Prozent des um die
+    auf den Gewinnanteil oder die Ausschüttungen aus der Gesellschaft
+    entfallenden Steuern vom Einkommen gekürzten Betrages des
+    steuerrechtlichen Gewinns beschränken; Entnahmen zur Begleichung der
+    auf den Gewinnanteil oder die Ausschüttungen aus der Gesellschaft
+    entfallenden Steuern vom Einkommen bleiben von der Beschränkung der
+    Entnahme oder Ausschüttung unberücksichtigt und
+
+
+2.  die Verfügung über die Beteiligung an der Personengesellschaft oder
+    den Anteil an der Kapitalgesellschaft auf Mitgesellschafter, auf
+    Angehörige im Sinne des § 15 der Abgabenordnung oder auf eine
+    Familienstiftung (§ 1 Absatz 1 Nummer 4) beschränken und
+
+
+3.  für den Fall des Ausscheidens aus der Gesellschaft eine Abfindung
+    vorsehen, die unter dem gemeinen Wert der Beteiligung an der
+    Personengesellschaft oder des Anteils an der Kapitalgesellschaft
+    liegt,
+
+
+
+und die Bestimmungen den tatsächlichen Verhältnissen entsprechen.
+Gelten die in Satz 1 genannten Bestimmungen nur für einen Teil des
+begünstigten Vermögens im Sinne des § 13b Absatz 2, ist der Abschlag
+nur für diesen Teil des begünstigten Vermögens zu gewähren. Die Höhe
+des Abschlags entspricht der im Gesellschaftsvertrag oder in der
+Satzung vorgesehenen prozentualen Minderung der Abfindung gegenüber
+dem gemeinen Wert (Satz 1 Nummer 3) und darf 30 Prozent nicht
+übersteigen. Die Voraussetzungen des Satzes 1 müssen zwei Jahre vor
+dem Zeitpunkt der Entstehung der Steuer (§ 9) vorliegen. Die
+Steuerbefreiung entfällt mit Wirkung für die Vergangenheit, wenn die
+Voraussetzungen des Satzes 1 nicht über einen Zeitraum von 20 Jahren
+nach dem Zeitpunkt der Entstehung der Steuer (§ 9) eingehalten werden;
+die §§ 13c und 28a bleiben unberührt. In den Fällen des Satzes 1
+
+1.  ist der Erwerber verpflichtet, dem für die Erbschaftsteuer zuständigen
+    Finanzamt die Änderungen der genannten Bestimmungen oder der
+    tatsächlichen Verhältnisse innerhalb einer Frist von einem Monat
+    anzuzeigen,
+
+
+2.  endet die Festsetzungsfrist für die Steuer nicht vor dem Ablauf des
+    vierten Jahres, nachdem das für die Erbschaftsteuer zuständige
+    Finanzamt von der Änderung einer der in Satz 1 genannten Bestimmungen
+    oder der tatsächlichen Verhältnisse Kenntnis erlangt.
+
+
+
+
+(10) Der Erwerber kann unwiderruflich erklären, dass die
+Steuerbefreiung nach den Absätzen 1 bis 9 in Verbindung mit § 13b nach
 folgender Maßgabe gewährt wird:
 
-1.  In Absatz 1 Satz 2 tritt an die Stelle der Lohnsummenfrist von fünf
-    Jahren eine Lohnsummenfrist von sieben Jahren und an die Stelle der
-    maßgebenden Lohnsumme von 400 Prozent eine maßgebende Lohnsumme von
-    700 Prozent;
+1.  In Absatz 1 Satz 1 tritt an die Stelle des Verschonungsabschlags von
+    85 Prozent ein Verschonungsabschlag von 100 Prozent;
 
 
-2.  in Absatz 5 tritt an die Stelle der Behaltensfrist von fünf Jahren
-    eine Behaltensfrist von sieben Jahren;
+2.  in Absatz 3 Satz 1 tritt an die Stelle der Lohnsummenfrist von fünf
+    Jahren eine Lohnsummenfrist von sieben Jahren;
 
 
-3.  in § 13b Abs. 2 Satz 1 tritt an die Stelle des Prozentsatzes für das
-    Verwaltungsvermögen von 50 Prozent ein Prozentsatz von 10 Prozent;
+3.  in Absatz 3 Satz 1 und 4 tritt an die Stelle der Mindestlohnsumme von
+    400 Prozent eine Mindestlohnsumme von 700 Prozent;
 
 
-4.  in § 13b Abs. 4 tritt an die Stelle des Prozentsatzes für die
-    Begünstigung von 85 Prozent ein Prozentsatz von 100 Prozent.
+4.  in Absatz 3 Satz 4 Nummer 1 tritt an die Stelle der Mindestlohnsumme
+    von 250 Prozent eine Mindestlohnsumme von 500 Prozent;
+
+
+5.  in Absatz 3 Satz 4 Nummer 2 tritt an die Stelle der Mindestlohnsumme
+    von 300 Prozent eine Mindestlohnsumme von 565 Prozent;
+
+
+6.  in Absatz 6 tritt an die Stelle der Behaltensfrist von fünf Jahren
+    eine Behaltensfrist von sieben Jahren.
 
 
 
+Voraussetzung für die Gewährung der Steuerbefreiung nach Satz 1 ist,
+dass das begünstigungsfähige Vermögen nach § 13b Absatz 1 nicht zu
+mehr als 20 Prozent aus Verwaltungsvermögen nach § 13b Absatz 3 und 4
+besteht. Der Anteil des Verwaltungsvermögens am gemeinen Wert des
+Betriebs bestimmt sich nach dem Verhältnis der Summe der gemeinen
+Werte der Einzelwirtschaftsgüter des Verwaltungsvermögens nach § 13b
+Absatz 3 und 4 zum gemeinen Wert des Betriebs.
 
-(9) Die Absätze 1 bis 8 gelten in den Fällen des § 1 Abs. 1 Nr. 4
-entsprechend.
+(11) Die Absätze 1 bis 10 gelten in den Fällen des § 1 Absatz 1 Nummer
+4 entsprechend.
 
 
 ### § 13b Begünstigtes Vermögen
 
-(1) Zum begünstigten Vermögen gehören vorbehaltlich Absatz 2
+(1) Zum begünstigungsfähigen Vermögen gehören
 
 1.  der inländische Wirtschaftsteil des land- und forstwirtschaftlichen
-    Vermögens (§ 168 Abs. 1 Nr. 1 des Bewertungsgesetzes) mit Ausnahme der
-    Stückländereien (§ 168 Abs. 2 des Bewertungsgesetzes) und selbst
-    bewirtschaftete Grundstücke im Sinne des § 159 des Bewertungsgesetzes
-    sowie entsprechendes land- und forstwirtschaftliches Vermögen, das
-    einer Betriebsstätte in einem Mitgliedstaat der Europäischen Union
-    oder in einem Staat des Europäischen Wirtschaftsraums dient;
+    Vermögens (§ 168 Absatz 1 Nummer 1 des Bewertungsgesetzes) mit
+    Ausnahme der Stückländereien (§ 160 Absatz 7 des Bewertungsgesetzes)
+    und selbst bewirtschaftete Grundstücke im Sinne des § 159 des
+    Bewertungsgesetzes sowie entsprechendes land- und
+    forstwirtschaftliches Vermögen, das einer Betriebsstätte in einem
+    Mitgliedstaat der Europäischen Union oder in einem Staat des
+    Europäischen Wirtschaftsraums dient;
 
 
-2.  inländisches Betriebsvermögen (§§ 95 bis 97 des Bewertungsgesetzes)
-    beim Erwerb eines ganzen Gewerbebetriebs, eines Teilbetriebs, eines
-    Anteils an einer Gesellschaft im Sinne des § 15 Abs. 1 Satz 1 Nr. 2
-    und Abs. 3 oder § 18 Abs. 4 des Einkommensteuergesetzes, eines Anteils
-    eines persönlich haftenden Gesellschafters einer Kommanditgesellschaft
-    auf Aktien oder eines Anteils daran und entsprechendes
-    Betriebsvermögen, das einer Betriebsstätte in einem Mitgliedstaat der
-    Europäischen Union oder in einem Staat des Europäischen
-    Wirtschaftsraums dient;
+2.  inländisches Betriebsvermögen (§§ 95 bis 97 Absatz 1 Satz 1 des
+    Bewertungsgesetzes) beim Erwerb eines ganzen Gewerbebetriebs oder
+    Teilbetriebs, einer Beteiligung an einer Gesellschaft im Sinne des §
+    15 Absatz 1 Satz 1 Nummer 2 und Absatz 3 oder § 18 Absatz 4 Satz 2 des
+    Einkommensteuergesetzes, eines Anteils eines persönlich haftenden
+    Gesellschafters einer Kommanditgesellschaft auf Aktien oder Anteils
+    daran und entsprechendes Betriebsvermögen, das einer Betriebsstätte in
+    einem Mitgliedstaat der Europäischen Union oder in einem Staat des
+    Europäischen Wirtschaftsraums dient;
 
 
-3.  Anteile an Kapitalgesellschaften, wenn die Kapitalgesellschaft zur
-    Zeit der Entstehung der Steuer Sitz oder Geschäftsleitung im Inland
-    oder in einem Mitgliedstaat der Europäischen Union oder in einem Staat
-    des Europäischen Wirtschaftsraums hat und der Erblasser oder Schenker
-    am Nennkapital dieser Gesellschaft zu mehr als 25 Prozent unmittelbar
-    beteiligt war (Mindestbeteiligung). Ob der Erblasser oder Schenker die
-    Mindestbeteiligung erfüllt, ist nach der Summe der dem Erblasser oder
-    Schenker unmittelbar zuzurechnenden Anteile und der Anteile weiterer
-    Gesellschafter zu bestimmen, wenn der Erblasser oder Schenker und die
-    weiteren Gesellschafter untereinander verpflichtet sind, über die
-    Anteile nur einheitlich zu verfügen oder ausschließlich auf andere
-    derselben Verpflichtung unterliegende Anteilseigner zu übertragen und
-    das Stimmrecht gegenüber nichtgebundenen Gesellschaftern einheitlich
-    auszuüben.
+3.  Anteile an einer Kapitalgesellschaft, wenn die Kapitalgesellschaft im
+    Zeitpunkt der Entstehung der Steuer (§ 9) Sitz oder Geschäftsleitung
+    im Inland oder in einem Mitgliedstaat der Europäischen Union oder in
+    einem Staat des Europäischen Wirtschaftsraums hat und der Erblasser
+    oder Schenker am Nennkapital dieser Gesellschaft unmittelbar zu mehr
+    als 25 Prozent beteiligt war (Mindestbeteiligung). Ob der Erblasser
+    oder Schenker die Mindestbeteiligung erfüllt, ist nach der Summe der
+    dem Erblasser oder Schenker unmittelbar zuzurechnenden Anteile und der
+    Anteile weiterer Gesellschafter zu bestimmen, wenn der Erblasser oder
+    Schenker und die weiteren Gesellschafter untereinander verpflichtet
+    sind, über die Anteile nur einheitlich zu verfügen oder ausschließlich
+    auf andere derselben Verpflichtung unterliegende Anteilseigner zu
+    übertragen und das Stimmrecht gegenüber nichtgebundenen
+    Gesellschaftern einheitlich auszuüben.
 
 
 
 
-(2) Ausgenommen bleibt Vermögen im Sinne des Absatzes 1, wenn das
-land- und forstwirtschaftliche Vermögen oder das Betriebsvermögen der
-Betriebe oder der Gesellschaften zu mehr als 50 Prozent aus
-Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
+(2) Das begünstigungsfähige Vermögen ist begünstigt, soweit sein
+gemeiner Wert den um das unschädliche Verwaltungsvermögen im Sinne des
+Absatzes 7 gekürzten Nettowert des Verwaltungsvermögens im Sinne des
+Absatzes 6 übersteigt (begünstigtes Vermögen). Abweichend von Satz 1
+ist der Wert des begünstigungsfähigen Vermögens vollständig nicht
+begünstigt, wenn das Verwaltungsvermögen nach Absatz 4 vor der
+Anwendung des Absatzes 3 Satz 1, soweit das Verwaltungsvermögen nicht
+ausschließlich und dauerhaft der Erfüllung von Schulden aus durch
+Treuhandverhältnisse abgesicherten Altersversorgungsverpflichtungen
+dient und dem Zugriff aller übrigen nicht aus diesen
+Altersversorgungsverpflichtungen unmittelbar berechtigten Gläubiger
+entzogen ist, sowie der Schuldenverrechnung und des Freibetrags nach
+Absatz 4 Nummer 5 sowie der Absätze 6 und 7 mindestens 90 Prozent des
+gemeinen Werts des begünstigungsfähigen Vermögens beträgt.
+
+(3) Teile des begünstigungsfähigen Vermögens, die ausschließlich und
+dauerhaft der Erfüllung von Schulden aus
+Altersversorgungsverpflichtungen dienen und dem Zugriff aller übrigen
+nicht aus den Altersversorgungsverpflichtungen unmittelbar
+berechtigten Gläubiger entzogen sind, gehören bis zur Höhe des
+gemeinen Werts der Schulden aus Altersversorgungsverpflichtungen nicht
+zum Verwaltungsvermögen im Sinne des Absatzes 4 Nummer 1 bis 5. Soweit
+Finanzmittel und Schulden bei Anwendung von Satz 1 berücksichtigt
+wurden, bleiben sie bei der Anwendung des Absatzes 4 Nummer 5 und des
+Absatzes 6 außer Betracht.
+
+(4) Zum Verwaltungsvermögen gehören
 
 1.  Dritten zur Nutzung überlassene Grundstücke, Grundstücksteile,
     grundstücksgleiche Rechte und Bauten. Eine Nutzungsüberlassung an
@@ -1281,7 +1467,7 @@ Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
         im nutzenden Betrieb allein oder zusammen mit anderen Gesellschaftern
         einen einheitlichen geschäftlichen Betätigungswillen durchsetzen
         konnte oder als Gesellschafter einer Gesellschaft im Sinne des § 15
-        Abs. 1 Satz 1 Nr. 2 und Abs. 3 oder § 18 Abs. 4 des
+        Absatz 1 Satz 1 Nummer 2 und Absatz 3 oder § 18 Absatz 4 des
         Einkommensteuergesetzes den Vermögensgegenstand der Gesellschaft zur
         Nutzung überlassen hatte, und diese Rechtsstellung auf den Erwerber
         übergegangen ist, soweit keine Nutzungsüberlassung an einen weiteren
@@ -1289,8 +1475,8 @@ Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
 
 
     b)  die Nutzungsüberlassung im Rahmen der Verpachtung eines ganzen
-        Betriebs erfolgt, welche beim Verpächter zu Einkünften nach § 2 Abs. 1
-        Nr. 2 bis 3 des Einkommensteuergesetzes führt und
+        Betriebs erfolgt, welche beim Verpächter zu Einkünften nach § 2 Absatz
+        1 Satz 1 Nummer 2 und 3 des Einkommensteuergesetzes führt und
 
         aa) der Verpächter des Betriebs im Zusammenhang mit einer unbefristeten
             Verpachtung den Pächter durch eine letztwillige Verfügung oder eine
@@ -1298,17 +1484,17 @@ Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
 
 
         bb) die Verpachtung an einen Dritten erfolgt, weil der Beschenkte im
-            Zeitpunkt der Steuerentstehung den Betrieb noch nicht führen kann, und
-            die Verpachtung auf höchstens zehn Jahre befristet ist; hat der
-            Beschenkte das 18. Lebensjahr noch nicht vollendet, beginnt die Frist
-            mit der Vollendung des 18. Lebensjahres.
+            Zeitpunkt der Entstehung der Steuer (§ 9) den Betrieb noch nicht
+            führen kann, und die Verpachtung auf höchstens zehn Jahre befristet
+            ist; hat der Beschenkte das 18. Lebensjahr noch nicht vollendet,
+            beginnt die Frist mit der Vollendung des 18. Lebensjahres.
 
 
 
-        Dies gilt nicht für verpachtete Betriebe, die vor ihrer Verpachtung
-        die Voraussetzungen als begünstigtes Vermögen nach Absatz 1 und Satz 1
-        nicht erfüllt haben und für verpachtete Betriebe, deren Hauptzweck in
-        der Überlassung von Grundstücken, Grundstücksteilen,
+        Dies gilt nicht für verpachtete Betriebe, soweit sie vor ihrer
+        Verpachtung die Voraussetzungen als begünstigtes Vermögen nach Absatz
+        2 nicht erfüllt haben und für verpachtete Betriebe, deren Hauptzweck
+        in der Überlassung von Grundstücken, Grundstücksteilen,
         grundstücksgleichen Rechten und Bauten an Dritte zur Nutzung besteht,
         die nicht unter Buchstabe d fallen;
 
@@ -1318,17 +1504,24 @@ Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
         keine Nutzungsüberlassung an einen weiteren Dritten erfolgt;
 
 
-    d)  die überlassenen Grundstücke, Grundstücksteile, grundstücksgleiche
+    d)  die überlassenen Grundstücke, Grundstücksteile, grundstücksgleichen
         Rechte und Bauten zum Betriebsvermögen, zum gesamthänderisch
         gebundenen Betriebsvermögen einer Personengesellschaft oder zum
         Vermögen einer Kapitalgesellschaft gehören und der Hauptzweck des
-        Betriebs in der Vermietung von Wohnungen im Sinne des § 181 Abs. 9 des
-        Bewertungsgesetzes besteht, dessen Erfüllung einen wirtschaftlichen
-        Geschäftsbetrieb (§ 14 der Abgabenordnung) erfordert;
+        Betriebs in der Vermietung von Wohnungen im Sinne des § 181 Absatz 9
+        des Bewertungsgesetzes besteht, dessen Erfüllung einen
+        wirtschaftlichen Geschäftsbetrieb (§ 14 der Abgabenordnung) erfordert;
 
 
-    e)  Grundstücke, Grundstücksteile, grundstücksgleiche Rechte und Bauten an
-        Dritte zur land- und forstwirtschaftlichen Nutzung überlassen werden;
+    e)  die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und
+        Bauten vorrangig überlassen werden, um im Rahmen von
+        Lieferungsverträgen dem Absatz von eigenen Erzeugnissen und Produkten
+        zu dienen;
+
+
+    f)  die Grundstücke, Grundstücksteile, grundstücksgleichen Rechte und
+        Bauten an Dritte zur land- und forstwirtschaftlichen Nutzung
+        überlassen werden;
 
 
 
@@ -1337,101 +1530,213 @@ Verwaltungsvermögen besteht. Zum Verwaltungsvermögen gehören
 2.  Anteile an Kapitalgesellschaften, wenn die unmittelbare Beteiligung am
     Nennkapital dieser Gesellschaften 25 Prozent oder weniger beträgt und
     sie nicht dem Hauptzweck des Gewerbebetriebs eines Kreditinstitutes
-    oder eines Finanzdienstleistungsinstitutes im Sinne des § 1 Abs. 1 und
-    1a des Kreditwesengesetzes in der Fassung der Bekanntmachung vom 9.
-    September 1998 (BGBl. I S. 2776), das zuletzt durch Artikel 24 des
-    Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026) geändert worden ist,
-    oder eines Versicherungsunternehmens, das der Aufsicht nach § 1 Abs. 1
-    Nr. 1 des Versicherungsaufsichtsgesetzes in der Fassung der
-    Bekanntmachung vom 17. Dezember 1992 (BGBl. 1993 I S. 2), das zuletzt
-    durch Artikel 6 Abs. 2 des Gesetzes vom 17. Oktober 2008 (BGBl. I S.
-    1982) geändert worden ist, unterliegt, zuzurechnen sind. Ob diese
-    Grenze unterschritten wird, ist nach der Summe der dem Betrieb
-    unmittelbar zuzurechnenden Anteile und der Anteile weiterer
-    Gesellschafter zu bestimmen, wenn die Gesellschafter untereinander
-    verpflichtet sind, über die Anteile nur einheitlich zu verfügen oder
-    sie ausschließlich auf andere derselben Verpflichtung unterliegende
-    Anteilseigner zu übertragen und das Stimmrecht gegenüber
-    nichtgebundenen Gesellschaftern nur einheitlich ausüben;
+    oder eines Finanzdienstleistungsinstitutes im Sinne des § 1 Absatz 1
+    und 1a des Kreditwesengesetzes in der Fassung der Bekanntmachung vom
+    9\. September 1998 (BGBl. I S. 2776), das zuletzt durch Artikel 14 des
+    Gesetzes vom 10. Mai 2016 (BGBl. I S. 1142) geändert worden ist, oder
+    eines Versicherungsunternehmens, das der Aufsicht nach § 1 Absatz 1
+    Nummer 1 des Versicherungsaufsichtsgesetzes in der Fassung der
+    Bekanntmachung vom 1. April 2015 (BGBl. I S. 434), das zuletzt durch
+    Artikel 13 des Gesetzes vom 10. Mai 2016 (BGBl. I S. 1142) geändert
+    worden ist, unterliegt, zuzurechnen sind. Ob diese Grenze
+    unterschritten wird, ist nach der Summe der dem Betrieb unmittelbar
+    zuzurechnenden Anteile und der Anteile weiterer Gesellschafter zu
+    bestimmen, wenn die Gesellschafter untereinander verpflichtet sind,
+    über die Anteile nur einheitlich zu verfügen oder sie ausschließlich
+    auf andere derselben Verpflichtung unterliegende Anteilseigner zu
+    übertragen und das Stimmrecht gegenüber nichtgebundenen
+    Gesellschaftern nur einheitlich auszuüben;
 
 
-3.  Beteiligungen an Gesellschaften im Sinne des § 15 Abs. 1 Satz 1 Nr. 2
-    und Abs. 3 oder § 18 Abs. 4 des Einkommensteuergesetzes und an
-    entsprechenden Gesellschaften im Ausland sowie Anteile an
-    Kapitalgesellschaften, die nicht unter Nummer 2 fallen, wenn bei
-    diesen Gesellschaften das Verwaltungsvermögen mehr als 50 Prozent
-    beträgt;
+3.  Kunstgegenstände, Kunstsammlungen, wissenschaftliche Sammlungen,
+    Bibliotheken und Archive, Münzen, Edelmetalle und Edelsteine,
+    Briefmarkensammlungen, Oldtimer, Yachten, Segelflugzeuge sowie
+    sonstige typischerweise der privaten Lebensführung dienende
+    Gegenstände, wenn der Handel mit diesen Gegenständen, deren
+    Herstellung oder Verarbeitung oder die entgeltliche
+    Nutzungsüberlassung an Dritte nicht der Hauptzweck des Betriebs ist;
 
 
 4.  Wertpapiere sowie vergleichbare Forderungen, wenn sie nicht dem
     Hauptzweck des Gewerbebetriebs eines Kreditinstitutes oder eines
-    Finanzdienstleistungsinstitutes im Sinne des § 1 Abs. 1 und 1a des
+    Finanzdienstleistungsinstitutes im Sinne des § 1 Absatz 1 und 1a des
     Kreditwesengesetzes in der Fassung der Bekanntmachung vom 9. September
-    1998 (BGBl. I S. 2776), das zuletzt durch Artikel 24 des Gesetzes vom
-    23\. Oktober 2008 (BGBl. I S. 2026) geändert worden ist, oder eines
-    Versicherungsunternehmens, das der Aufsicht nach § 1 Abs. 1 Nr. 1 des
-    Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung vom
-    17\. Dezember 1992 (BGBl. 1993 I S. 2), das zuletzt durch Artikel 6
-    Abs. 2 des Gesetzes vom 17. Oktober 2008 (BGBl. I S. 1982) geändert
-    worden ist, unterliegt, zuzurechnen sind;
+    1998 (BGBl. I S. 2776), das zuletzt durch Artikel 14 des Gesetzes vom
+    10\. Mai 2016 (BGBl. I S. 1142) geändert worden ist, oder eines
+    Versicherungsunternehmens, das der Aufsicht nach § 1 Absatz 1 Nummer 1
+    des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung
+    vom 1. April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 13 des
+    Gesetzes vom 10. Mai 2016 (BGBl. I S. 1142) geändert worden ist,
+    unterliegt, zuzurechnen sind;
 
 
-5.  Kunstgegenstände, Kunstsammlungen, wissenschaftliche Sammlungen,
-    Bibliotheken und Archive, Münzen, Edelmetalle und Edelsteine, wenn der
-    Handel mit diesen Gegenständen oder deren Verarbeitung nicht der
-    Hauptzweck des Gewerbebetriebs ist.
+5.  der gemeine Wert des nach Abzug des gemeinen Werts der Schulden
+    verbleibenden Bestands an Zahlungsmitteln, Geschäftsguthaben,
+    Geldforderungen und anderen Forderungen (Finanzmittel), soweit er 15
+    Prozent des anzusetzenden Werts des Betriebsvermögens des Betriebs
+    oder der Gesellschaft übersteigt. Der gemeine Wert der Finanzmittel
+    ist um den positiven Saldo der eingelegten und der entnommenen
+    Finanzmittel zu verringern, welche dem Betrieb im Zeitpunkt der
+    Entstehung der Steuer (§ 9) weniger als zwei Jahre zuzurechnen waren
+    (junge Finanzmittel); junge Finanzmittel sind Verwaltungsvermögen.
+    Satz 1 gilt nicht, wenn die genannten Wirtschaftsgüter dem Hauptzweck
+    des Gewerbebetriebs eines Kreditinstitutes oder eines
+    Finanzdienstleistungsinstitutes im Sinne des § 1 Absatz 1 und 1a des
+    Kreditwesengesetzes in der Fassung der Bekanntmachung vom 9. September
+    1998 (BGBl. I S. 2776), das zuletzt durch Artikel 14 des Gesetzes vom
+    10\. Mai 2016 (BGBl. I S. 1142) geändert worden ist, oder eines
+    Versicherungsunternehmens, das der Aufsicht nach § 1 Absatz 1 Nummer 1
+    des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung
+    vom 1. April 2015 (BGBl. I S. 434), das zuletzt durch Artikel 13 des
+    Gesetzes vom 10. Mai 2016 (BGBl. I S. 1142) geändert worden ist,
+    unterliegt, zuzurechnen sind. Voraussetzung für die Anwendung des
+    Prozentsatzes von 15 Prozent des Satzes 1 ist, dass das nach Absatz 1
+    begünstigungsfähige Vermögen des Betriebs oder der nachgeordneten
+    Gesellschaften nach seinem Hauptzweck einer Tätigkeit im Sinne des §
+    13 Absatz 1, des § 15 Absatz 1 Satz 1 Nummer 1, des § 18 Absatz 1
+    Nummer 1 und 2 des Einkommensteuergesetzes dient. Die Voraussetzungen
+    des Satzes 4 sind auch erfüllt, wenn die Tätigkeit durch
+    Gesellschaften im Sinne des § 13 Absatz 7, des § 15 Absatz 1 Satz 1
+    Nummer 2 oder des § 18 Absatz 4 Satz 2 des Einkommensteuergesetzes
+    ausgeübt wird.
 
 
 
-Kommt Satz 1 nicht zur Anwendung, gehört solches Verwaltungsvermögen
-im Sinne des Satzes 2 Nr. 1 bis 5 nicht zum begünstigten Vermögen im
-Sinne des Absatzes 1, welches dem Betrieb im Besteuerungszeitpunkt
-weniger als zwei Jahre zuzurechnen war (junges Verwaltungsvermögen).
-Der Anteil des Verwaltungsvermögens am gemeinen Wert des Betriebs
-bestimmt sich nach dem Verhältnis der Summe der gemeinen Werte der
-Einzelwirtschaftsgüter des Verwaltungsvermögens zum gemeinen Wert des
-Betriebs; für Grundstücksteile des Verwaltungsvermögens ist der ihnen
-entsprechende Anteil am gemeinen Wert des Grundstücks anzusetzen. Bei
-Betrieben der Land- und Forstwirtschaft ist als Vergleichsmaßstab der
-Wert des Wirtschaftsteils (§ 168 Abs. 1 Nr. 1 des Bewertungsgesetzes)
-anzuwenden. Der Anteil des Verwaltungsvermögens am gemeinen Wert des
-Betriebs einer Kapitalgesellschaft bestimmt sich nach dem Verhältnis
-der Summe der gemeinen Werte der Einzelwirtschaftsgüter des
-Verwaltungsvermögens zum gemeinen Wert des Betriebs; für
-Grundstücksteile des Verwaltungsvermögens ist der ihnen entsprechende
-Anteil am gemeinen Wert des Grundstücks anzusetzen. Soweit zum
-Vermögen der Kapitalgesellschaft Wirtschaftsgüter gehören, die nach
-Satz 3 nicht in das begünstigte Vermögen einzubeziehen sind, ist der
-Teil des Anteilswerts nicht begünstigt, der dem Verhältnis der Summe
-der Werte dieser Wirtschaftsgüter zum gemeinen Wert des Betriebs der
-Kapitalgesellschaft entspricht.
 
-(2a) Das für die Bewertung der wirtschaftlichen Einheit örtlich
+(5) Beim Erwerb von Todes wegen entfällt die Zurechnung von
+Vermögensgegenständen zum Verwaltungsvermögen im Sinne des Absatzes 4
+Nummer 1 bis 5 rückwirkend zum Zeitpunkt der Entstehung der Steuer (§
+9), wenn der Erwerber innerhalb von zwei Jahren ab dem Zeitpunkt der
+Entstehung der Steuer (§ 9) diese Vermögensgegenstände in
+Vermögensgegenstände innerhalb des vom Erblasser erworbenen,
+begünstigungsfähigen Vermögens im Sinne des Absatzes 1 investiert hat,
+die unmittelbar einer Tätigkeit im Sinne von § 13 Absatz 1, § 15
+Absatz 1 Satz 1 Nummer 1 oder § 18 Absatz 1 Nummer 1 und 2 des
+Einkommensteuergesetzes dienen und kein Verwaltungsvermögen sind.
+Voraussetzung hierfür ist, dass die Investition auf Grund eines im
+Zeitpunkt der Entstehung der Steuer (§ 9) vorgefassten Plans des
+Erblassers erfolgt und keine anderweitige Ersatzbeschaffung von
+Verwaltungsvermögen vorgenommen wird oder wurde. Beim Erwerb von Todes
+wegen entfällt die Zurechnung von Finanzmitteln zum
+Verwaltungsvermögen im Sinne des Absatzes 4 Nummer 5 Satz 1
+rückwirkend zum Zeitpunkt der Entstehung der Steuer (§ 9), soweit der
+Erwerber diese Finanzmittel innerhalb von zwei Jahren ab dem Zeitpunkt
+der Entstehung der Steuer (§ 9) verwendet, um bei auf Grund
+wiederkehrender saisonaler Schwankungen fehlenden Einnahmen die
+Vergütungen im Sinne des § 13a Absatz 3 Satz 6 bis 10 zu zahlen. Satz
+2 gilt entsprechend. Der Erwerber hat das Vorliegen der
+Voraussetzungen der Sätze 1 bis 4 nachzuweisen.
+
+(6) Der Nettowert des Verwaltungsvermögens ergibt sich durch Kürzung
+des gemeinen Werts des Verwaltungsvermögens um den nach Anwendung der
+Absätze 3 und 4 verbleibenden anteiligen gemeinen Wert der Schulden.
+Die anteiligen Schulden nach Satz 1 bestimmen sich nach dem Verhältnis
+des gemeinen Werts des Verwaltungsvermögens zum gemeinen Wert des
+Betriebsvermögens des Betriebs oder der Gesellschaft zuzüglich der
+nach Anwendung der Absätze 3 und 4 verbleibenden Schulden.
+
+(7) Der Nettowert des Verwaltungsvermögens wird vorbehaltlich des
+Satzes 2 wie begünstigtes Vermögen behandelt, soweit er 10 Prozent des
+um den Nettowert des Verwaltungsvermögens gekürzten gemeinen Werts des
+Betriebsvermögens nicht übersteigt (unschädliches
+Verwaltungsvermögen). Verwaltungsvermögen, das dem Betrieb im
+Zeitpunkt der Entstehung der Steuer (§ 9) weniger als zwei Jahre
+zuzurechnen war (junges Verwaltungsvermögen), und junge Finanzmittel
+im Sinne des Absatzes 4 Nummer 5 Satz 2 sind kein unschädliches
+Verwaltungsvermögen.
+
+(8) Eine Saldierung mit Schulden nach Absatz 6 findet für junge
+Finanzmittel im Sinne des Absatzes 4 Nummer 5 Satz 2 und junges
+Verwaltungsvermögen im Sinne des Absatzes 7 Satz 2 nicht statt. Eine
+Verrechnung von Schulden mit Verwaltungsvermögen ist bei
+wirtschaftlich nicht belastenden Schulden und darüber hinaus
+ausgeschlossen, soweit die Summe der Schulden den durchschnittlichen
+Schuldenstand der letzten drei Jahre vor dem Zeitpunkt der Entstehung
+der Steuer (§ 9) übersteigt; dies gilt nicht, soweit die Erhöhung des
+Schuldenstands durch die Betriebstätigkeit veranlasst ist. Als
+Nettowert des Verwaltungsvermögens ist mindestens der gemeine Wert des
+jungen Verwaltungsvermögens und der jungen Finanzmittel anzusetzen.
+
+(9) Gehören zum begünstigungsfähigen Vermögen im Sinne des Absatzes 1
+Nummer 2 und 3 unmittelbar oder mittelbar Beteiligungen an
+Personengesellschaften oder Beteiligungen an entsprechenden
+Gesellschaften mit Sitz oder Geschäftsleitung im Ausland oder
+unmittelbar oder mittelbar Anteile an Kapitalgesellschaften oder
+Anteile an entsprechenden Kapitalgesellschaften mit Sitz oder
+Geschäftsleitung im Ausland, sind bei der Anwendung der Absätze 2 bis
+8 anstelle der Beteiligungen oder Anteile die gemeinen Werte der
+diesen Gesellschaften zuzurechnenden Vermögensgegenstände nach Maßgabe
+der Sätze 2 bis 5 mit dem Anteil einzubeziehen, zu dem die
+unmittelbare oder mittelbare Beteiligung besteht. Die unmittelbar oder
+mittelbar gehaltenen Finanzmittel, die Vermögensgegenstände des
+Verwaltungsvermögens im Sinne des Absatzes 4 Nummer 1 bis 4 sowie die
+Schulden sind jeweils zusammenzufassen (Verbundvermögensaufstellung);
+junge Finanzmittel und junges Verwaltungsvermögen sind gesondert
+aufzuführen. Soweit sich in der Verbundvermögensaufstellung
+Forderungen und Verbindlichkeiten zwischen den Gesellschaften
+untereinander oder im Verhältnis zu dem übertragenen Betrieb oder der
+übertragenen Gesellschaft gegenüberstehen, sind diese nicht
+anzusetzen. Absatz 4 Nummer 5 und die Absätze 6 bis 8 sind auf die
+Werte in der Verbundvermögensaufstellung anzuwenden. Die Sätze 1 bis 4
+sind auf Anteile im Sinne von Absatz 4 Nummer 2 sowie auf
+wirtschaftlich nicht belastende Schulden nicht anzuwenden; diese
+Anteile sind als Verwaltungsvermögen anzusetzen.
+
+(10) Das für die Bewertung der wirtschaftlichen Einheit örtlich
 zuständige Finanzamt im Sinne des § 152 Nummer 1 bis 3 des
 Bewertungsgesetzes stellt die Summen der gemeinen Werte der
-Wirtschaftsgüter des Verwaltungsvermögens im Sinne des Absatzes 2 Satz
-2 Nummer 1 bis 5 und des jungen Verwaltungsvermögens im Sinne des
-Absatzes 2 Satz 3 gesondert fest, wenn diese Werte für die
-Erbschaftsteuer oder eine andere Feststellung im Sinne dieser
-Vorschrift von Bedeutung sind. Dies gilt entsprechend, wenn nur ein
-Anteil am Betriebsvermögen im Sinne des Absatzes 1 Nummer 2 übertragen
-wird. Die Entscheidung, ob die Werte von Bedeutung sind, trifft das
-für die Festsetzung der Erbschaftsteuer oder für die Feststellung nach
-§ 151 Absatz 1 Satz 1 Nummer 1 bis 3 des Bewertungsgesetzes zuständige
-Finanzamt. § 151 Absatz 3 und die §§ 152 bis 156 des
-Bewertungsgesetzes sind auf die Sätze 1 bis 3 entsprechend anzuwenden.
-
-(3) Überträgt ein Erbe erworbenes begünstigtes Vermögen im Rahmen der
-Teilung des Nachlasses auf einen Dritten und gibt der Dritte dabei
-diesem Erwerber nicht begünstigtes Vermögen hin, das er vom Erblasser
-erworben hat, erhöht sich insoweit der Wert des begünstigten Vermögens
-des Dritten um den Wert des hingegebenen Vermögens, höchstens jedoch
-um den Wert des übertragenen Vermögens.
-
-(4) Begünstigt sind 85 Prozent des in Absatz 1 genannten Vermögens.
+Finanzmittel im Sinne des Absatzes 4 Nummer 5 Satz 1, der jungen
+Finanzmittel im Sinne des Absatzes 4 Nummer 5 Satz 2, der
+Vermögensgegenstände des Verwaltungsvermögens im Sinne des Absatzes 4
+Nummer 1 bis 4, der Schulden und des jungen Verwaltungsvermögens im
+Sinne des Absatzes 7 Satz 2 gesondert fest, wenn und soweit diese
+Werte für die Erbschaftsteuer oder eine andere Feststellung im Sinne
+dieser Vorschrift von Bedeutung sind. Dies gilt entsprechend, wenn nur
+ein Anteil am Betriebsvermögen im Sinne des Absatzes 1 Nummer 2
+übertragen wird. Die Entscheidung, ob die Werte von Bedeutung sind,
+trifft das für die Festsetzung der Erbschaftsteuer oder für die
+Feststellung nach § 151 Absatz 1 Satz 1 Nummer 1 bis 3 des
+Bewertungsgesetzes zuständige Finanzamt. Bei Anteilen an
+Kapitalgesellschaften, die nach § 11 Absatz 1 des Bewertungsgesetzes
+zu bewerten sind, trifft die Feststellungen des Satzes 1 das örtlich
+zuständige Finanzamt entsprechend § 152 Nummer 3 des
+Bewertungsgesetzes. § 151 Absatz 3 und die §§ 152 bis 156 des
+Bewertungsgesetzes sind auf die Sätze 1 bis 4 entsprechend anzuwenden.
 
 
-### § 13c Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
+### § 13c Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen
+
+(1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des §
+13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen
+Euro, verringert sich auf Antrag des Erwerbers der
+Verschonungsabschlag nach § 13a Absatz 1 oder Absatz 10 um jeweils
+einen Prozentpunkt für jede vollen 750 000 Euro, die der Wert des
+begünstigten Vermögens im Sinne des § 13b Absatz 2 den Betrag von 26
+Millionen Euro übersteigt. Im Fall des § 13a Absatz 10 wird ab einem
+Erwerb von begünstigtem Vermögen im Sinne des § 13b Absatz 2 in Höhe
+von 90 Millionen Euro ein Verschonungsabschlag nicht mehr gewährt.
+
+(2) § 13a Absatz 3 bis 9 findet auf Absatz 1 entsprechende Anwendung.
+Bei mehreren Erwerben begünstigten Vermögens im Sinne des § 13b Absatz
+2 von derselben Person innerhalb von zehn Jahren werden für die
+Bestimmung des Verschonungsabschlags für den letzten Erwerb nach
+Absatz 1 die früheren Erwerbe nach ihrem früheren Wert dem letzten
+Erwerb hinzugerechnet. Der nach Satz 2 ermittelte Verschonungsabschlag
+für den letzten Erwerb findet auf die früheren Erwerbe Anwendung, wenn
+die Steuerbefreiung für den früheren Erwerb nach § 13a Absatz 1 Satz 3
+wegfällt oder dies bei dem jeweiligen Erwerb zu einem geringeren
+Verschonungsabschlag führt, es sei denn, für den früheren Erwerb wurde
+ein Antrag nach § 28a Absatz 1 gestellt. Die bis dahin für frühere
+Erwerbe gewährte Steuerbefreiung entfällt insoweit mit Wirkung für die
+Vergangenheit. § 13a Absatz 1 Satz 4 findet Anwendung. Der Antrag nach
+Absatz 1 ist unwiderruflich und schließt einen Antrag nach § 28a
+Absatz 1 für denselben Erwerb aus.
+
+(3) Die Absätze 1 und 2 gelten in den Fällen des § 1 Absatz 1 Nummer 4
+entsprechend.
+
+
+### § 13d Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke
 
 (1) Grundstücke im Sinne des Absatzes 3 sind mit 90 Prozent ihres
 Werts anzusetzen.
@@ -1593,7 +1898,7 @@ Bedachten von dieser Person anfällt.
 ### § 16 Freibeträge
 
 (1) Steuerfrei bleibt in den Fällen der unbeschränkten Steuerpflicht
-(§ 2 Absatz 1 Nummer 1 und Absatz 3) der Erwerb
+(§ 2 Absatz 1 Nummer 1) der Erwerb
 
 1.  des Ehegatten und des Lebenspartners in Höhe von 500 000 Euro;
 
@@ -1621,23 +1926,30 @@ Bedachten von dieser Person anfällt.
 
 
 
-(2) An die Stelle des Freibetrags nach Absatz 1 tritt in den Fällen
-der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer 3) ein Freibetrag
-von 2 000 Euro.
+(2) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer
+3) wird der Freibetrag nach Absatz 1 um einen Teilbetrag gemindert.
+Dieser Teilbetrag entspricht dem Verhältnis der Summe der Werte des in
+demselben Zeitpunkt erworbenen, nicht der beschränkten Steuerpflicht
+unterliegenden Vermögens und derjenigen, nicht der beschränkten
+Steuerpflicht unterliegenden Vermögensvorteile, die innerhalb von zehn
+Jahren von derselben Person angefallen sind, zum Wert des Vermögens,
+das insgesamt innerhalb von zehn Jahren von derselben Person
+angefallenen ist. Die früheren Erwerbe sind mit ihrem früheren Wert
+anzusetzen.
 
 
 ### § 17 Besonderer Versorgungsfreibetrag
 
-(1) Neben dem Freibetrag nach § 16 Abs. 1 Nr. 1 wird dem überlebenden
-Ehegatten und dem überlebenden Lebenspartner ein besonderer
-Versorgungsfreibetrag von 256 000 Euro gewährt. Der Freibetrag wird
-bei Ehegatten oder bei Lebenspartnern, denen aus Anlass des Todes des
-Erblassers nicht der Erbschaftsteuer unterliegende Versorgungsbezüge
-zustehen, um den nach § 14 des Bewertungsgesetzes zu ermittelnden
-Kapitalwert dieser Versorgungsbezüge gekürzt.
+(1) Neben dem Freibetrag nach § 16 wird dem überlebenden Ehegatten und
+dem überlebenden Lebenspartner ein besonderer Versorgungsfreibetrag
+von 256 000 Euro gewährt. Der Freibetrag wird bei Ehegatten oder bei
+Lebenspartnern, denen aus Anlass des Todes des Erblassers nicht der
+Erbschaftsteuer unterliegende Versorgungsbezüge zustehen, um den nach
+§ 14 des Bewertungsgesetzes zu ermittelnden Kapitalwert dieser
+Versorgungsbezüge gekürzt.
 
-(2) Neben dem Freibetrag nach § 16 Abs. 1 Nr. 2 wird Kindern im Sinne
-der Steuerklasse I Nr. 2 (§ 15 Abs. 1) für Erwerbe von Todes wegen ein
+(2) Neben dem Freibetrag nach § 16 wird Kindern im Sinne der
+Steuerklasse I Nr. 2 (§ 15 Abs. 1) für Erwerbe von Todes wegen ein
 besonderer Versorgungsfreibetrag in folgender Höhe gewährt:
 
 1.  bei einem Alter bis zu 5 Jahren in Höhe von 52 000 Euro;
@@ -1666,6 +1978,15 @@ Freibetrag um den nach § 13 Abs. 1 des Bewertungsgesetzes zu
 ermittelnden Kapitalwert dieser Versorgungsbezüge gekürzt. Bei der
 Berechnung des Kapitalwerts ist von der nach den Verhältnissen am
 Stichtag (§ 11) voraussichtlichen Dauer der Bezüge auszugehen.
+
+(3) In den Fällen der beschränkten Steuerpflicht (§ 2 Absatz 1 Nummer
+3) wird der besondere Versorgungsfreibetrag nach Absatz 1 oder 2
+gewährt, wenn durch die Staaten, in denen der Erblasser ansässig war
+oder der Erwerber ansässig ist, Amtshilfe geleistet wird. Amtshilfe
+ist der Auskunftsaustausch im Sinne oder entsprechend der
+Amtshilferichtlinie gemäß § 2 Absatz 11 des EU-Amtshilfegesetzes in
+der für den jeweiligen Stichtag der Steuerentstehung geltenden Fassung
+oder eines entsprechenden Nachfolgerechtsaktes.
 
 
 ### § 18 Mitgliederbeiträge
@@ -1762,10 +2083,10 @@ unberührt.
 
 .
 
-(2) Ist im Falle des § 2 Absatz 1 Nummer 1 und Absatz 3 ein Teil des
-Vermögens der inländischen Besteuerung auf Grund eines Abkommens zur
-Vermeidung der Doppelbesteuerung entzogen, ist die Steuer nach dem
-Steuersatz zu erheben, der für den ganzen Erwerb gelten würde.
+(2) Ist im Falle des § 2 Absatz 1 Nummer 1 ein Teil des Vermögens der
+inländischen Besteuerung auf Grund eines Abkommens zur Vermeidung der
+Doppelbesteuerung entzogen, ist die Steuer nach dem Steuersatz zu
+erheben, der für den ganzen Erwerb gelten würde.
 
 (3) Der Unterschied zwischen der Steuer, die sich bei Anwendung des
 Absatzes 1 ergibt, und der Steuer, die sich berechnen würde, wenn der
@@ -1790,23 +2111,24 @@ forstwirtschaftliches Vermögen oder Anteile an Kapitalgesellschaften
 im Sinne des Absatzes 2 enthalten, ist von der tariflichen
 Erbschaftsteuer ein Entlastungsbetrag nach Absatz 4 abzuziehen.
 
-(2) Der Entlastungsbetrag gilt für den nicht unter § 13b Abs. 4
-fallenden Teil des Vermögens im Sinne des § 13b Abs. 1. Ein Erwerber
-kann den Entlastungsbetrag nicht in Anspruch nehmen, soweit er
-Vermögen im Sinne des Satzes 1 auf Grund einer letztwilligen Verfügung
-des Erblassers oder einer rechtsgeschäftlichen Verfügung des
+(2) Der Entlastungsbetrag gilt für den nicht unter § 13a Absatz 1 oder
+§ 13c fallenden Teil des Vermögens im Sinne des § 13b Absatz 2. Ein
+Erwerber kann den Entlastungsbetrag nicht in Anspruch nehmen, soweit
+er Vermögen im Sinne des Satzes 1 auf Grund einer letztwilligen
+Verfügung des Erblassers oder einer rechtsgeschäftlichen Verfügung des
 Erblassers oder Schenkers auf einen Dritten übertragen muss. Gleiches
 gilt, wenn ein Erbe im Rahmen der Teilung des Nachlasses Vermögen im
 Sinne des Satzes 1 auf einen Miterben überträgt.
 
 (3) Der auf das Vermögen im Sinne des Absatzes 2 entfallende Anteil an
 der tariflichen Erbschaftsteuer bemisst sich nach dem Verhältnis des
-Werts dieses Vermögens nach Anwendung des § 13a und nach Abzug der mit
-diesem Vermögen in wirtschaftlichem Zusammenhang stehenden
-abzugsfähigen Schulden und Lasten (§ 10 Absatz 5 und 6) zum Wert des
-gesamten Vermögensanfalls im Sinne des § 10 Absatz 1 Satz 1 und 2 nach
+Werts dieses Vermögens nach Anwendung des § 13a oder § 13c und nach
 Abzug der mit diesem Vermögen in wirtschaftlichem Zusammenhang
-stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5 und 6).
+stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz 5 und 6) zum
+Wert des gesamten Vermögensanfalls im Sinne des § 10 Absatz 1 Satz 1
+und 2 nach Abzug der mit diesem Vermögen in wirtschaftlichem
+Zusammenhang stehenden abzugsfähigen Schulden und Lasten (§ 10 Absatz
+5 und 6).
 
 (4) Zur Ermittlung des Entlastungsbetrags ist für den
 steuerpflichtigen Erwerb zunächst die Steuer nach der tatsächlichen
@@ -1820,10 +2142,10 @@ nach den Sätzen 1 und 2.
 (5) Der Entlastungsbetrag fällt mit Wirkung für die Vergangenheit weg,
 soweit der Erwerber innerhalb von fünf Jahren gegen die
 Behaltensregelungen des § 13a verstößt. In den Fällen des § 13a Absatz
-8 tritt an die Stelle der Frist nach Satz 1 eine Frist von sieben
+10 tritt an die Stelle der Frist nach Satz 1 eine Frist von sieben
 Jahren. Die Festsetzungsfrist für die Steuer endet nicht vor dem
 Ablauf des vierten Jahres, nachdem die Finanzbehörde von dem Verstoß
-gegen die Behaltensregelungen Kenntnis erlangt. § 13a Abs. 6 Satz 4
+gegen die Behaltensregelungen Kenntnis erlangt. § 13a Absatz 7 Satz 4
 bis 6 gilt entsprechend.
 
 
@@ -1881,18 +2203,18 @@ wohnhaften Berechtigten zur Verfügung gestellte Betrag 600 Euro nicht
 (1) Bei Erwerbern, die in einem ausländischen Staat mit ihrem
 Auslandsvermögen zu einer der deutschen Erbschaftsteuer entsprechenden
 Steuer - ausländische Steuer - herangezogen werden, ist in den Fällen
-des § 2 Absatz 1 Nummer 1 und Absatz 3, sofern nicht die Vorschriften
-eines Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden sind,
-auf Antrag die festgesetzte, auf den Erwerber entfallende, gezahlte
-und keinem Ermäßigungsanspruch unterliegende ausländische Steuer
-insoweit auf die deutsche Erbschaftsteuer anzurechnen, als das
-Auslandsvermögen auch der deutschen Erbschaftsteuer unterliegt.
-Besteht der Erwerb nur zum Teil aus Auslandsvermögen, ist der darauf
-entfallende Teilbetrag der deutschen Erbschaftsteuer in der Weise zu
-ermitteln, daß die für das steuerpflichtige Gesamtvermögen
-einschließlich des steuerpflichtigen Auslandsvermögens sich ergebende
-Erbschaftsteuer im Verhältnis des steuerpflichtigen Auslandsvermögens
-zum steuerpflichtigen Gesamtvermögen aufgeteilt wird. Ist das
+des § 2 Absatz 1 Nummer 1, sofern nicht die Vorschriften eines
+Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden sind, auf
+Antrag die festgesetzte, auf den Erwerber entfallende, gezahlte und
+keinem Ermäßigungsanspruch unterliegende ausländische Steuer insoweit
+auf die deutsche Erbschaftsteuer anzurechnen, als das Auslandsvermögen
+auch der deutschen Erbschaftsteuer unterliegt. Besteht der Erwerb nur
+zum Teil aus Auslandsvermögen, ist der darauf entfallende Teilbetrag
+der deutschen Erbschaftsteuer in der Weise zu ermitteln, daß die für
+das steuerpflichtige Gesamtvermögen einschließlich des
+steuerpflichtigen Auslandsvermögens sich ergebende Erbschaftsteuer im
+Verhältnis des steuerpflichtigen Auslandsvermögens zum
+steuerpflichtigen Gesamtvermögen aufgeteilt wird. Ist das
 Auslandsvermögen in verschiedenen ausländischen Staaten belegen, ist
 dieser Teil für jeden einzelnen ausländischen Staat gesondert zu
 berechnen. Die ausländische Steuer ist nur anrechenbar, wenn die
@@ -2051,28 +2373,149 @@ entrichtet hat.
 
 ### § 28 Stundung
 
-(1) Gehört zum Erwerb Betriebsvermögen oder land- und
-forstwirtschaftliches Vermögen, ist dem Erwerber die darauf
-entfallende Erbschaftsteuer auf Antrag bis zu zehn Jahren zu stunden,
-soweit dies zur Erhaltung des Betriebs notwendig ist. Die §§ 234, 238
-der Abgabenordnung sind anzuwenden; bei Erwerben von Todes wegen
-erfolgt diese Stundung zinslos. § 222 der Abgabenordnung bleibt
-unberührt.
+(1) Gehört zum Erwerb von Todes wegen begünstigtes Vermögen im Sinne
+des § 13b Absatz 2, ist dem Erwerber die darauf entfallende
+Erbschaftsteuer auf Antrag bis zu sieben Jahre zu stunden. Der erste
+Jahresbetrag ist ein Jahr nach der Festsetzung der Steuer fällig und
+bis dahin zinslos zu stunden. Für die weiteren zu entrichtenden
+Jahresbeträge sind die §§ 234 und 238 der Abgabenordnung ab dem
+zweiten Jahr nach der Festsetzung der Steuer anzuwenden. § 222 der
+Abgabenordnung bleibt unberührt. Die Stundung endet, sobald der
+Erwerber, ausgehend vom Zeitpunkt der Entstehung der Steuer (§ 9), den
+Tatbestand nach § 13a Absatz 3 nicht einhält oder einen der
+Tatbestände nach § 13a Absatz 6 erfüllt. Wurde ein Antrag nach § 13a
+Absatz 10 oder nach § 28a Absatz 1 gestellt, ist bei der Anwendung des
+Satzes 3 § 13a Absatz 10 entsprechend anzuwenden. Satz 1 ist nicht auf
+die Erbschaftsteuer anzuwenden, die der Erwerber zu entrichten hat,
+weil er den Tatbestand nach § 13a Absatz 3 nicht eingehalten oder
+einen der Tatbestände nach § 13a Absatz 6 erfüllt hat. Die Stundung
+endet, sobald der Erwerber den Betrieb oder den Anteil daran überträgt
+oder aufgibt.
 
 (2) Absatz 1 findet in den Fällen des § 1 Abs. 1 Nr. 4 entsprechende
 Anwendung.
 
-(3) Gehört zum Erwerb begünstigtes Vermögen im Sinne des § 13c Abs. 3,
-ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag bis
-zu zehn Jahren zu stunden, soweit er die Steuer nur durch Veräußerung
-dieses Vermögens aufbringen kann. Satz 1 gilt entsprechend, wenn zum
-Erwerb ein Ein- oder Zweifamilienhaus oder Wohneigentum gehört, das
-der Erwerber nach dem Erwerb zu eigenen Wohnzwecken nutzt, längstens
-für die Dauer der Selbstnutzung. Nach Aufgabe der Selbstnutzung ist
-die Stundung unter den Voraussetzungen des Satzes 1 weiter zu
-gewähren. Die Stundung endet in den Fällen der Sätze 1 bis 3, soweit
-das erworbene Vermögen Gegenstand einer Schenkung im Sinne des § 7
-ist. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(3) Gehört zum Erwerb begünstigtes Vermögen im Sinne des § 13d Absatz
+3, ist dem Erwerber die darauf entfallende Erbschaftsteuer auf Antrag
+bis zu zehn Jahren zu stunden, soweit er die Steuer nur durch
+Veräußerung dieses Vermögens aufbringen kann. Satz 1 gilt
+entsprechend, wenn zum Erwerb ein Ein- oder Zweifamilienhaus oder
+Wohneigentum gehört, das der Erwerber nach dem Erwerb zu eigenen
+Wohnzwecken nutzt, längstens für die Dauer der Selbstnutzung. Nach
+Aufgabe der Selbstnutzung ist die Stundung unter den Voraussetzungen
+des Satzes 1 weiter zu gewähren. Die Stundung endet in den Fällen der
+Sätze 1 bis 3, soweit das erworbene Vermögen Gegenstand einer
+Schenkung im Sinne des § 7 ist. Absatz 1 Satz 2 und 3 gilt
+entsprechend.
+
+
+### § 28a Verschonungsbedarfsprüfung
+
+(1) Überschreitet der Erwerb von begünstigtem Vermögen im Sinne des §
+13b Absatz 2 die Grenze des § 13a Absatz 1 Satz 1 von 26 Millionen
+Euro, ist die auf das begünstigte Vermögen entfallende Steuer auf
+Antrag des Erwerbers zu erlassen, soweit er nachweist, dass er
+persönlich nicht in der Lage ist, die Steuer aus seinem verfügbaren
+Vermögen im Sinne des Absatzes 2 zu begleichen. Ein Erwerber kann den
+Erlass nicht in Anspruch nehmen, soweit er begünstigtes Vermögen im
+Sinne des § 13b Absatz 2 auf Grund einer letztwilligen Verfügung des
+Erblassers oder einer rechtsgeschäftlichen Verfügung des Erblassers
+oder Schenkers auf einen Dritten übertragen muss. Satz 2 gilt
+entsprechend, wenn ein Erbe im Rahmen der Teilung des Nachlasses
+begünstigtes Vermögen auf einen Miterben überträgt. Überträgt ein Erbe
+erworbenes begünstigtes Vermögen im Sinne des § 13b Absatz 2 im Rahmen
+der Teilung des Nachlasses auf einen Dritten und gibt der Dritte dabei
+diesem Erwerber nicht begünstigtes Vermögen hin, das er vom Erblasser
+erworben hat, erhöht sich insoweit der Wert des begünstigten Vermögens
+des Dritten um den Wert des hingegebenen Vermögens, höchstens jedoch
+um den Wert des übertragenen Vermögens.
+
+(2) Zu dem verfügbaren Vermögen gehören 50 Prozent der Summe der
+gemeinen Werte des
+
+1.  mit der Erbschaft oder Schenkung zugleich übergegangenen Vermögens,
+    das nicht zum begünstigten Vermögen im Sinne des § 13b Absatz 2
+    gehört, und
+
+
+2.  dem Erwerber im Zeitpunkt der Entstehung der Steuer (§ 9) gehörenden
+    Vermögens, das nicht zum begünstigten Vermögen im Sinne des § 13b
+    Absatz 2 gehören würde.
+
+
+
+
+(3) Die nach Anwendung des Absatzes 1 Satz 1 verbleibende Steuer kann
+ganz oder teilweise bis zu sechs Monate gestundet werden, wenn die
+Einziehung bei Fälligkeit eine erhebliche Härte für den Erwerber
+bedeuten würde und der Anspruch nicht gefährdet erscheint. Eine
+erhebliche Härte liegt insbesondere vor, wenn der Erwerber einen
+Kredit aufnehmen oder verfügbares Vermögen im Sinne des Absatzes 2
+veräußern muss, um die Steuer entrichten zu können. Die §§ 234 und 238
+der Abgabenordnung sind anzuwenden. § 222 der Abgabenordnung und § 28
+bleiben unberührt.
+
+(4) Der Erlass der Steuer nach Absatz 1 Satz 1 steht unter der
+auflösenden Bedingung, dass
+
+1.  die Summe der maßgebenden jährlichen Lohnsummen des Betriebs, bei
+    Beteiligungen an einer Personengesellschaft oder Anteilen an einer
+    Kapitalgesellschaft des Betriebs der jeweiligen Gesellschaft,
+    innerhalb von sieben Jahren nach dem Erwerb (Lohnsummenfrist)
+    insgesamt die Mindestlohnsumme nach § 13a Absatz 10 Nummer 3 bis 5
+    unterschreitet. § 13a Absatz 3 Satz 2 und 6 bis 13 gilt entsprechend.
+    Unterschreitet die Summe der maßgebenden jährlichen Lohnsummen die
+    Mindestlohnsumme, vermindert sich der nach Absatz 1 Satz 1 zu
+    gewährende Erlass der Steuer mit Wirkung für die Vergangenheit in
+    demselben prozentualen Umfang, wie die Mindestlohnsumme unterschritten
+    wird;
+
+
+2.  der Erwerber innerhalb von sieben Jahren (Behaltensfrist) gegen die
+    Behaltensbedingungen entsprechend § 13a Absatz 6 Satz 1 verstößt. §
+    13a Absatz 6 Satz 2 bis 4 gilt entsprechend;
+
+
+3.  der Erwerber innerhalb von zehn Jahren nach dem Zeitpunkt der
+    Entstehung der Steuer (§ 9) weiteres Vermögen durch Schenkung oder von
+    Todes wegen erhält, das verfügbares Vermögen im Sinne des Absatzes 2
+    darstellt. Der Erwerber kann erneut einen Antrag nach Absatz 1
+    stellen. Das verfügbare Vermögen nach Absatz 2 ist um 50 Prozent des
+    gemeinen Werts des weiteren erworbenen Vermögens zu erhöhen.
+
+
+
+Der Verwaltungsakt nach Absatz 1 Satz 1 steht unter dem Vorbehalt des
+Widerrufs (§ 120 Absatz 2 Nummer 3 der Abgabenordnung). Der
+Verwaltungsakt über den Erlass nach Absatz 1 Satz 1 ist bei Eintritt
+der auflösenden Bedingung nach Satz 1 mit Wirkung für die
+Vergangenheit ganz oder teilweise zu widerrufen; § 131 Absatz 4 der
+Abgabenordnung gilt entsprechend.
+
+(5) Der Erwerber ist verpflichtet, dem für die Erbschaftsteuer
+zuständigen Finanzamt innerhalb einer Frist von sechs Monaten nach
+Ablauf der Lohnsummenfrist das Unterschreiten der Mindestlohnsumme
+(Absatz 4 Satz 1 Nummer 1) anzuzeigen. In den Fällen des Absatzes 4
+Satz 1 Nummer 2 und 3 ist der Erwerber verpflichtet, dem für die
+Erbschaftsteuer zuständigen Finanzamt den entsprechenden Sachverhalt
+innerhalb einer Frist von einem Monat, nachdem der jeweilige
+Tatbestand verwirklicht wurde, anzuzeigen. Die Anzeige ist eine
+Steuererklärung im Sinne der Abgabenordnung. Sie ist schriftlich
+abzugeben. Die Anzeige hat auch dann zu erfolgen, wenn der Vorgang nur
+teilweise zum Widerruf des Verwaltungsaktes nach Absatz 4 führt.
+
+(6) Die Zahlungsverjährungsfrist für die nach Anwendung des Absatzes 1
+Satz 1 verbleibende Steuer endet nicht vor dem Ablauf des fünften
+Jahres, nachdem das für die Erbschaftsteuer zuständige Finanzamt von
+dem Unterschreiten der Mindestlohnsumme (Absatz 4 Satz 1 Nummer 1)
+oder dem Verwirklichen eines Tatbestands nach Absatz 4 Satz 1 Nummer 2
+und 3 Kenntnis erlangt.
+
+(7) Die Absätze 1 bis 6 gelten in den Fällen des § 1 Absatz 1 Nummer 4
+entsprechend.
+
+(8) Die Absätze 1 bis 7 gelten nicht, wenn ein Antrag nach § 13c
+gestellt wurde.
 
 
 ### § 29 Erlöschen der Steuer in besonderen Fällen
@@ -2147,8 +2590,9 @@ Zweckzuwendung gerichtlich oder notariell beurkundet ist.
 
 (4) Die Anzeige soll folgende Angaben enthalten:
 
-1.  Vorname und Familienname, Beruf, Wohnung des Erblassers oder Schenkers
-    und des Erwerbers;
+1.  Vorname und Familienname, Identifikationsnummer (§ 139b der
+    Abgabenordnung), Beruf, Wohnung des Erblassers oder Schenkers und des
+    Erwerbers;
 
 
 2.  Todestag und Sterbeort des Erblassers oder Zeitpunkt der Ausführung
@@ -2280,10 +2724,10 @@ Bedeutung sein können.
 
 2.  die Gerichte und die Notare:
 
-    die Erteilung von Erbscheinen, Testamentsvollstreckerzeugnissen und
-    Zeugnissen über die Fortsetzung der Gütergemeinschaft, die Beschlüsse
-    über Todeserklärungen sowie die Anordnung von Nachlaßpflegschaften und
-    Nachlaßverwaltungen;
+    die Erteilung von Erbscheinen, Europäischen Nachlasszeugnissen,
+    Testamentsvollstreckerzeugnissen und Zeugnissen über die Fortsetzung
+    der Gütergemeinschaft, die Beschlüsse über Todeserklärungen sowie die
+    Anordnung von Nachlaßpflegschaften und Nachlaßverwaltungen;
 
 
 3.  die Gerichte, die Notare und die deutschen Konsuln:
@@ -2332,9 +2776,9 @@ des Erbfalls zuständig ist. Satz 1 gilt auch, wenn eine
 Erbengemeinschaft aus zwei Erben besteht und der eine Miterbe bei der
 Auseinandersetzung eine Schenkung an den anderen Miterben ausführt.
 
-(4) In den Fällen des § 2 Absatz 1 Nummer 3 und Absatz 3 ist das
-Finanzamt örtlich zuständig, das sich bei sinngemäßer Anwendung des §
-19 Absatz 2 der Abgabenordnung ergibt.
+(4) In den Fällen des § 2 Absatz 1 Nummer 3 ist das Finanzamt örtlich
+zuständig, das sich bei sinngemäßer Anwendung des § 19 Absatz 2 der
+Abgabenordnung ergibt.
 
 
 ## Abschnitt 5 - Ermächtigungs- und Schlussvorschriften
@@ -2482,6 +2926,53 @@ Steuer nach dem 13. Dezember 2011 entsteht. § 2 Absatz 1 Nummer 1 und
 Dezember 2011 (BGBl. I S. 2592) finden auf Antrag auch auf Erwerbe
 Anwendung, für die die Steuer vor dem 14. Dezember 2011 entsteht,
 soweit Steuerbescheide noch nicht bestandskräftig sind.
+
+(8) § 13a Absatz 1 Satz 4, Absatz 4 Satz 5 und § 13b Absatz 2 in der
+Fassung des Artikels 30 des Gesetzes vom 26. Juni 2013 (BGBl. I S.
+1809) sind auf Erwerbe anzuwenden, für die die Steuer nach dem 6. Juni
+2013 entsteht.
+
+(9) § 34 Absatz 2 Nummer 2 in der Fassung des Artikels 17 des Gesetzes
+vom 29. Juni 2015 (BGBl. I S. 1042) ist auf Erwerbe anzuwenden, für
+die die Steuer nach dem 16. August 2015 entsteht.
+
+(10) § 13 Absatz 1 Nummer 16 Buchstabe b und c und § 30 Absatz 4
+Nummer 1 in der am 6. November 2015 geltenden Fassung sind auf Erwerbe
+anzuwenden, für die die Steuer nach dem 5. November 2015 entstanden
+ist. § 13 Absatz 1 Nummer 16 Buchstabe b und c in der am 6. November
+2015 geltenden Fassung ist auch auf Erwerbe anzuwenden, für die die
+Steuer vor dem 6. November 2015 entsteht, soweit Steuerbescheide noch
+nicht bestandskräftig sind.
+
+(11) § 13 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb in der am
+6\. August 2016 geltenden Fassung ist auf Erwerbe anzuwenden, für die
+die Steuer nach dem 5. August 2016 entstanden ist.
+
+(12) Die §§ 10, 13a bis 13d, 19a, 28 und 28a in der Fassung des
+Artikels 1 des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) finden
+auf Erwerbe Anwendung, für die die Steuer nach dem 30. Juni 2016
+entsteht. § 13a Absatz 1 Satz 3 und 4 in der Fassung des Artikels 1
+des Gesetzes vom 4. November 2016 (BGBl. I S. 2464) findet auf frühere
+Erwerbe Anwendung, für die die Steuer nach dem 30. Juni 2016 entsteht.
+§ 13c Absatz 2 Satz 3 bis 5 in der Fassung des Artikels 1 des Gesetzes
+vom 4. November 2016 (BGBl. I S. 2464) findet auf frühere Erwerbe
+Anwendung, für die die Steuer nach dem 30. Juni 2016 entsteht.
+
+(13) § 17 in der am 25. Juni 2017 geltenden Fassung ist auf Erwerbe
+anzuwenden, für die die Steuer nach dem 24. Juni 2017 entsteht. § 17
+in der am 25. Juni 2017 geltenden Fassung ist auch auf Erwerbe
+anzuwenden, für die die Steuer vor dem 25. Juni 2017 entstanden ist,
+soweit Steuerbescheide noch nicht bestandskräftig sind.
+
+(14) § 2 Absatz 1 Nummer 3, § 3 Absatz 2 Nummer 4, § 9 Absatz 1 Nummer
+1 Buchstabe f, § 13 Absatz 1 Nummer 16 Buchstabe c Satz 2 und § 16
+Absatz 1 und 2 in der am 25. Juni 2017 geltenden Fassung sind auf
+Erwerbe anzuwenden, für die die Steuer nach dem 24. Juni 2017
+entsteht.
+
+(15) § 13 Absatz 1 Nummer 18 Buchstabe a in der Fassung des Artikels 6
+des Gesetzes vom 18. Juli 2017 (BGBl. I S. 2730) ist auf Erwerbe
+anzuwenden, für die die Steuer nach dem 29. Juli 2017 entsteht.
 
 
 ### § 37a Sondervorschriften aus Anlass der Herstellung der Einheit Deutschlands

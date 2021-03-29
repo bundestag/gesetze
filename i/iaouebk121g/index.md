@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen Nr. 121 der Internationalen Arbeitsorganisat
   vom 8. Juli 1964 über Leistungen bei Arbeitsunfällen und Berufskrankheiten
 jurabk: IAOÜbk121G
 layout: default
-origslug: iao_bk121g
+origslug: iaouebk121g
 slug: iaouebk121g
 
 ---

@@ -38,8 +38,7 @@ Der Bundesminister der Justiz
 ## Anlage 1
 
 (Fundstelle: BGBl. I 1975, 2912)
-(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)
-
+![bgbl1_1975_j2912_0010.jpg](bgbl1_1975_j2912_0010.jpg)
 
 ## Anlage 2
 

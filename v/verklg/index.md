@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 1865
 
-Geändert durch
-:   Art. 304 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 15 G v. 26.7.2016 I 1843
 
 
 ## § 1 Zweck
@@ -55,19 +55,34 @@ zulässig.
 ## § 2 Anwendung
 
 (1) Leistungen im Sinne dieses Gesetzes dürfen nur angefordert werden,
-wenn die Bundesregierung durch Beschluss festgestellt hat, dass die
-Voraussetzungen nach § 1 vorliegen.
+wenn
 
-(2) Die Bundesregierung hat die Feststellung nach Absatz 1 durch
-Beschluss aufzuheben, wenn die Voraussetzungen für die Feststellung
-entfallen sind oder wenn der Bundestag dies verlangt.
+1.  im Fall des § 1 Absatz 1 Nummer 1 das Bundesministerium für Verkehr
+    und digitale Infrastruktur entschieden hat,
 
-(3) Die Beschlüsse nach Absatz 1 und 2 sind durch Veröffentlichung im
-Bundesgesetzblatt bekannt zu geben. Für die Bekanntgabe sind die
-Vorschriften des § 1 Abs. 2 sowie der §§ 3 und 4 des Gesetzes über
-vereinfachte Verkündungen und Bekanntgaben vom 18. Juli 1975 (BGBl. I
-S. 1919), das durch Artikel 6 des Gesetzes vom 23. Juli 1992 (BGBl. I
-S. 1370) geändert worden ist, entsprechend anzuwenden.
+
+2.  in den Fällen des § 1 Absatz 1 Nummer 2 bis 4 die Bundesregierung
+    durch Beschluss festgestellt hat,
+
+
+
+dass die Voraussetzungen nach § 1 vorliegen.
+
+(2) Sind die Voraussetzungen des § 1 entfallen, hat
+
+1.  das Bundesministerium für Verkehr und digitale Infrastruktur seine
+    Entscheidung nach Absatz 1 Nummer 1 oder
+
+
+2.  die Bundesregierung ihre Feststellung nach Absatz 1 Nummer 2
+
+
+
+aufzuheben. Satz 1 gilt auch, wenn der Bundestag die Aufhebung einer
+Entscheidung oder einer Feststellung verlangt.
+
+(3) Die Maßnahmen nach den Absätzen 1 und 2 sind im Bundesanzeiger zu
+veröffentlichen.
 
 
 ## § 3 Leistungsarten
@@ -121,8 +136,7 @@ angefordert werden:
     Bergbahnunternehmen,
 
 
-2.  Reeder oder Ausrüster von Seeschiffen, die berechtigt sind, die
-    Bundesflagge zu führen,
+2.  Reeder oder Ausrüster von Seeschiffen, die die Bundesflagge führen,
 
 
 3.  sonstige Eigentümer und Besitzer von Verkehrsmitteln oder von
@@ -140,15 +154,15 @@ Kommunikationssystemen, soweit sie dem Verkehr dienen.
 
 (3) Verkehrsunternehmen, die einer gesetzlichen Betriebs- und
 Beförderungspflicht unterliegen, können nur mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung zu Leistungen
-herangezogen werden, soweit Rechtsakte der Europäischen Gemeinschaften
-nicht entgegenstehen.
+Bundesministeriums für Verkehr und digitale Infrastruktur zu
+Leistungen herangezogen werden, soweit Rechtsakte der Europäischen
+Gemeinschaften nicht entgegenstehen.
 
 
 ## § 5 Verpflichtungsbescheid
 
-(1) Leistungen nach § 3 werden von der nach § 7 Abs. 2 oder 3
-zuständigen Behörde durch Verpflichtungsbescheid angefordert. Der
+(1) Leistungen nach § 3 werden von der nach § 7 Abs. 2 zuständigen
+Behörde durch Verpflichtungsbescheid angefordert. Der
 Verpflichtungsbescheid ist zuzustellen.
 
 (2) Widerspruch und Anfechtungsklage gegen einen
@@ -165,18 +179,66 @@ bisherige Anforderung nur dann zulässig, wenn dies unumgänglich ist;
 Satz 1 gilt entsprechend.
 
 
-## § 7 Bedarfsträger, zuständige Behörde, Leistungsempfänger
+## § 7 Anforderungsberechtigte Behörde, koordinierende Behörde, zuständige Behörde, Leistungsempfänger
 
-(1) Der Bund ist der Bedarfsträger; er kann auf der Grundlage dieses
-Gesetzes bei den zuständigen Behörden Leistungen zu Gunsten eines
-Leistungsempfängers anfordern.
+(1) Folgende Bundesbehörden können zur Erfüllung ihrer Aufgaben in
+ihrem Zuständigkeitsbereich für sich selbst oder für einen anderen
+Leistungsempfänger eine der in § 3 Absatz 1 genannten Leistungen
+anfordern (anforderungsberechtigte Behörde):
 
-(2) Zuständige Behörden sind
+1.  Bundesamt für Bevölkerungsschutz und Katastrophenhilfe, auch für
+    Hilfsorganisationen und bei Katastrophenhilfeersuchen der Länder im
+    Rahmen der Amtshilfe,
+
+
+2.  Leitung der Bundesanstalt Technisches Hilfswerk,
+
+
+3.  Bundespolizeipräsidium,
+
+
+4.  Bundesamt für das Personalmanagement der Bundeswehr, für die
+    Streitkräfte einschließlich der verbündeten Streitkräfte,
+
+
+5.  Bundesanstalt für Landwirtschaft und Ernährung,
+
+
+6.  Robert Koch-Institut,
+
+
+7.  Paul-Ehrlich-Institut,
+
+
+8.  Deutsche Bundesbank,
+
+
+9.  Bundesamt für Strahlenschutz,
+
+
+10. Bundesamt für Wirtschaft und Ausfuhrkontrolle,
+
+
+11. Bundesamt für kerntechnische Entsorgungssicherheit.
+
+
+
+Die anforderungsberechtigte Behörde richtet ihre Anforderung an die
+koordinierende Behörde.
+
+(1a) Koordinierende Behörde ist das Bundesamt für Güterverkehr. Die
+koordinierende Behörde legt fest, welcher Verkehrsträger die
+Verkehrsleistung zu erbringen hat, und übermittelt die Anforderung an
+die zuständige Behörde nach Absatz 2.
+
+(2) Zuständige Behörden für den Erlass eines Verpflichtungsbescheides
+nach Übermittlung der Anforderung durch die koordinierende Behörde
+sind
 
 1.  das Bundesamt für Güterverkehr auf dem Gebiet des Straßenverkehrs,
 
 
-2.  die Wasser- und Schifffahrtsdirektionen auf dem Gebiet der
+2.  die Generaldirektion Wasserstraßen und Schifffahrt auf dem Gebiet der
     Seeschifffahrt und der Binnenschifffahrt,
 
 
@@ -188,22 +250,24 @@ Leistungsempfängers anfordern.
 
 
 
-(3) Bei in Deutschland registrierten Wasser- und Luftfahrzeugen sowie
-bei zur Führung der Bundesflagge berechtigten Seeschiffen, die sich im
-Ausland befinden, sind auch die diplomatischen und konsularischen
-Vertretungen der Bundesrepublik Deutschland zuständig. Die
-völkerrechtliche Verpflichtung, die Gesetze und sonstigen
-Rechtsvorschriften, Einsprüche des Empfangsstaates sowie die zwischen
-dem Entsendestaat und dem Empfangsstaat in Kraft befindlichen
-internationalen Übereinkünfte zu beachten, bleibt unberührt.
+(3) Soweit eine Zustellung des Verpflichtungsbescheides im Ausland
+erforderlich ist, erfolgt diese auf Ersuchen der zuständigen Behörde
+nach Absatz 2 durch die zuständige diplomatische oder konsularische
+Vertretung der Bundesrepublik Deutschland. Die völkerrechtliche
+Verpflichtung, die Gesetze und sonstigen Rechtsvorschriften,
+Einsprüche des Empfangsstaates sowie die zwischen dem Entsendestaat
+und dem Empfangsstaat in Kraft befindlichen internationalen
+Übereinkünfte zu beachten, bleibt unberührt.
 
-(4) Leistungsempfänger ist grundsätzlich der Bedarfsträger. Werden
-Leistungen für die in § 1 Abs. 1 bezeichneten Zwecke angefordert, so
-kann die zuständige Behörde denjenigen als Leistungsempfänger
-bestimmen, dem die genannten Verkehrsmittel zum Gebrauch überlassen
-oder für den die Verkehrsleistungen erbracht werden sollen. Im Fall
-des § 1 Abs. 2 ist Leistungsempfänger der ausländische Staat, für
-dessen Streitkräfte die Leistungen angefordert werden.
+(4) Leistungsempfänger ist die anforderungsberechtigte Behörde nach
+Absatz 1, soweit nicht in den Sätzen 2 und 3 etwas anderes bestimmt
+ist. Werden Leistungen für die in § 1 Abs. 1 bezeichneten Zwecke
+angefordert, so kann die zuständige Behörde denjenigen als
+Leistungsempfänger bestimmen, dem die genannten Verkehrsmittel zum
+Gebrauch überlassen oder für den die Verkehrsleistungen erbracht
+werden sollen. Im Fall des § 1 Abs. 2 ist Leistungsempfänger der
+ausländische Staat, für dessen Streitkräfte die Leistungen angefordert
+werden.
 
 
 ## § 8 Auskunftspflicht
@@ -226,14 +290,24 @@ unter Beachtung der Vorschriften des Bundesdatenschutzgesetzes
 verwendet werden.
 
 
+## § 8a Besondere Leistungspflichten der Eisenbahnen des Bundes
+
+Eisenbahnen des Bundes können vom Bundesministerium für Verkehr und
+digitale Infrastruktur auf Kosten des Bundes zu nicht nachholbaren
+Maßnahmen verpflichtet werden, die bei einer Störung der Infrastruktur
+im Fall des § 1 zur Wiederherstellung und zum grundlegenden Betrieb
+der Schieneninfrastruktur erforderlich sind.
+
+
 ## § 9 Entschädigung
 
-Leistungen nach diesem Gesetz sind in entsprechender Anwendung der §§
-20 bis 33 mit Ausnahme des § 21 Satz 2 des Bundesleistungsgesetzes zu
-entschädigen. Im Fall des § 7 Abs. 4 Satz 3 richtet sich der Anspruch
-ausschließlich gegen den Bedarfsträger. Auf die Festsetzung der
-Entschädigung und die Verjährung von Ansprüchen sind die §§ 34, 49 bis
-65 des Bundesleistungsgesetzes entsprechend anzuwenden.
+Leistungen nach diesem Gesetz sind von dem Leistungsempfänger in
+entsprechender Anwendung der §§ 20 bis 33 mit Ausnahme des § 21 Satz 2
+des Bundesleistungsgesetzes zu entschädigen. Im Fall des § 7 Abs. 4
+Satz 3 richtet sich der Anspruch ausschließlich gegen den
+Leistungsempfänger. Auf die Festsetzung der Entschädigung und die
+Verjährung von Ansprüchen sind die §§ 34, 49 bis 65 des
+Bundesleistungsgesetzes entsprechend anzuwenden.
 
 
 ## § 10 Härteausgleich
@@ -243,7 +317,8 @@ ein Vermögensnachteil zugefügt, der nicht nach § 9 Satz 1 abzugelten
 ist, ist eine Entschädigung in Geld zu gewähren. § 9 Satz 3 ist
 entsprechend anzuwenden.
 
-(2) Zur Leistung der Entschädigung ist der Bund verpflichtet.
+(2) Zur Leistung der Entschädigung ist der Leistungsempfänger
+verpflichtet.
 
 
 ## § 11 Zustellungen
@@ -264,12 +339,12 @@ Maßgabe, dass in dringenden Fällen, soweit es für die Erfüllung der in
 
 
 erfolgen kann. In diesen Fällen gilt die Zustellung mit dem auf die
-Bekanntgabe folgenden Tag als bewirkt.
+Bekanntgabe folgenden Tag als bewirkt. § 7 Absatz 3 bleibt unberührt.
 
 
 ## § 12 Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt
+Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt
 die zur Ausführung notwendigen Verwaltungsvorschriften.
 
 
@@ -313,7 +388,7 @@ bestraft, wer
 ## § 15 Zuständige Verwaltungsbehörde bei Ordnungswidrigkeiten
 
 Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes über
-Ordnungswidrigkeiten ist die in § 7 Abs. 2 und 3 genannte zuständige
+Ordnungswidrigkeiten ist die in § 7 Abs. 2 genannte zuständige
 Behörde.
 
 

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 3120
 
+Geändert durch
+:   Art. 7 V v. 5.11.2013 I 3920
+
 
 ## Eingangsformel
 
@@ -41,7 +44,7 @@ Rates vom 21. Oktober 2009 zur Festlegung gemeinsamer Regeln für die
 Zulassung zum Beruf des Kraftverkehrsunternehmers und zur Aufhebung
 der Richtlinie 96/26/EG des Rates (ABl. L 300 vom 14.11.2009, S. 51)
 sind zuverlässig im Sinne des Artikels 6 der Verordnung (EG)
-Nr. 1071/2009,              wenn keine Tatsachen dafür vorliegen, dass
+Nr. 1071/2009, wenn keine Tatsachen dafür vorliegen, dass
 
 1.  bei der Führung des Unternehmens gegen gesetzliche Bestimmungen
     verstoßen oder
@@ -402,7 +405,7 @@ Erlaubnis erforderlich sind:
 Das Führungszeugnis und die Auskunft aus dem Gewerbezentralregister
 dürfen zum Zeitpunkt der Antragstellung nicht älter als drei Monate
 sein. Vor Erteilung der Erlaubnis kann die Erlaubnisbehörde über die
-genannten Personen auch eine Auskunft aus dem Verkehrszentralregister
+genannten Personen auch eine Auskunft aus dem Fahreignungsregister
 einholen.
 
 (3) Diplome, Prüfungszeugnisse und sonstige Befähigungsnachweise aus

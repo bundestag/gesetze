@@ -237,12 +237,12 @@ widerspricht.
 ## § 10
 
 Für die Rechnungsprüfung und die Prüfung im Sinne des
-§ 88 Abs. 2 und 3 der Reichshaushaltsordnung              ist die
-oberste Rechnungsprüfungsbehörde derjenigen Gebietskörperschaft
-zuständig, der nach § 6 des Gesetzes und nach dieser Verordnung die
-Verwaltung zusteht. In den Fällen des § 1 Abs. 4 und 5 und des § 7
-Abs. 2 dieser Verordnung prüfen der Bundesrechnungshof und der
-zuständige Landesrechnungshof gemeinsam.
+§ 88 Abs. 2 und 3 der Reichshaushaltsordnung ist die oberste
+Rechnungsprüfungsbehörde derjenigen Gebietskörperschaft zuständig, der
+nach § 6 des Gesetzes und nach dieser Verordnung die Verwaltung
+zusteht. In den Fällen des § 1 Abs. 4 und 5 und des § 7 Abs. 2 dieser
+Verordnung prüfen der Bundesrechnungshof und der zuständige
+Landesrechnungshof gemeinsam.
 
 
 ## § 11

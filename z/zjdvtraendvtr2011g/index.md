@@ -6,7 +6,7 @@ Title: Gesetz zu dem Vertrag vom 30. November 2011 zwischen der Bundesrepublik D
   –, zuletzt geändert durch den Vertrag vom 3. März 2008
 jurabk: ZJDVtrÄndVtr2011G
 layout: default
-origslug: zjdvtr_ndvtr2011g
+origslug: zjdvtraendvtr2011g
 slug: zjdvtraendvtr2011g
 
 ---

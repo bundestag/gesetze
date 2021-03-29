@@ -536,8 +536,11 @@ Industriekaufmann/zur Industriekauffrau vom 23. Juli 2002 (BGBl. I S.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Industriekaufmann/zur Industriekauffrau
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2002, 2767 - 2772)
 
@@ -1449,8 +1452,11 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Industriekaufmann/zur Industriekauffrau
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekaufmann/zur Industriekauffrau - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2002, 2773 - 2774)
 

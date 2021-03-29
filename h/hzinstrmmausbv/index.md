@@ -426,8 +426,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 5 Abs. 1)
 
-## Anlage (zu § 5 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Handzuginstrumentenmacher/zur Handzuginstrumentenmacherin
 
 (Fundstelle: BGBl. I 1997, S. 103 - 108)
 

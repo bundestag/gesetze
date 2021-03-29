@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl II: 1996, 1306
 
 Geändert durch
-:   Art. 231 V v. 29.10.2001 I 2785
+:   Art. 9 G v. 4.11.2016 I 2473
 
 
 ## Eingangsformel
@@ -44,15 +44,22 @@ veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Vollzugsordnungen, die die Konstitution und die Konvention gemäß
-Artikel 4 Abs. 3 der Konstitution ergänzen, sowie Änderungen zu diesen
-Vollzugsordnungen, die die weltweiten Funkkonferenzen und die
-weltweiten Konferenzen für internationale Fernmeldedienste der
+Vollzugsordnung für internationale Fernmeldedienste, die die
+Konstitution und die Konvention gemäß Artikel 4 Absatz 3 der
+Konstitution ergänzt, sowie Änderungen zu diesen Vollzugsordnung, die
+die weltweiten Konferenzen für internationale Fernmeldedienste der
 Internationalen Fernmeldeunion beschließen, in Kraft zu setzen und
-Regelungen über die Verkündung der Vollzugsordnungen sowie ihrer
-Änderungen zu treffen.
+Regelungen über die Verkündung der Vollzugsordnungen sowie ihre
+Änderungen zu treffen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, durch Rechtsverordnung ohne Zustimmung
+des Bundesrates die Vollzugsordnung für den Funkdienst, die die
+Konstitution und die Konvention gemäß Artikel 4 Absatz 3 der
+Konstitution ergänzt, sowie Änderungen zu dieser Vollzugsordnung, die
+die weltweiten Funkkonferenzen der internationalen Fernmeldeunion
+beschließen, in Kraft zu setzen und Regelungen für die Verkündung der
+Vollzugsordnungen sowie ihre Änderungen zu treffen.
 
 
 ## Art 3

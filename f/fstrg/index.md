@@ -19,8 +19,9 @@ Neugefasst durch
 :   Bek. v. 28.6.2007 I 1206;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 31.7.2009 I 2585
+:   Art. 17 G v. 14.8.2017 I 3122
 
+Stand: Berichtigung vom 12.4.2018 I 472 ist berücksichtigt
 
 ## § 1 Einteilung der Bundesstraßen des Fernverkehrs
 
@@ -80,7 +81,7 @@ Fahrbahnen für den Richtungsverkehr haben.
 
 
 (5) Für die Bundesfernstraßen werden Straßenverzeichnisse geführt. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt die
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmt die
 Nummerung und Bezeichnung der Bundesfernstraßen.
 
 
@@ -119,10 +120,9 @@ abgesehen werden, wenn die zur Einziehung vorgesehenen Teilstrecken in
 den in einem Planfeststellungsverfahren ausgelegten Plänen als solche
 kenntlich gemacht worden sind oder Teilstrecken im Zusammenhang mit
 Änderungen von unwesentlicher Bedeutung (§ 74 Abs. 7 des
-Verwaltungsverfahrensgesetzes in Verbindung mit § 17b Abs. 1 Nr. 4)
-eingezogen werden sollen. Die Abstufung soll nur zum Ende eines
-Rechnungsjahres ausgesprochen und drei Monate vorher angekündigt
-werden.
+Verwaltungsverfahrensgesetzes) eingezogen werden sollen. Die Abstufung
+soll nur zum Ende eines Rechnungsjahres ausgesprochen und drei Monate
+vorher angekündigt werden.
 
 (6) Über Widmung, Umstufung und Einziehung entscheidet die oberste
 Landesstraßenbaubehörde. Die Entscheidung kann auch in einem
@@ -131,7 +131,7 @@ die Widmung mit der Verkehrsübergabe, die Umstufung mit der
 Ingebrauchnahme für den neuen Verkehrszweck und die Einziehung mit der
 Sperrung wirksam wird. Die oberste Landesstraßenbaubehörde hat vor
 einer Widmung oder Aufstufung das Einverständnis des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung einzuholen.
+Bundesministeriums für Verkehr und digitale Infrastruktur einzuholen.
 Die Entscheidung ist in einem vom Land zu bestimmenden Amtsblatt
 bekannt zu geben. Die Bekanntmachung nach Satz 4 ist entbehrlich, wenn
 die zur Widmung, Umstufung oder Einziehung vorgesehenen Straßen
@@ -194,7 +194,7 @@ soweit nicht die Baulast anderen nach gesetzlichen Vorschriften oder
 öffentlich-rechtlichen Verpflichtungen obliegt. Bürgerlich-rechtliche
 Verpflichtungen Dritter bleiben unberührt.
 
-(2) Die Gemeinden mit mehr als 80.000 Einwohnern sind Träger der
+(2) Die Gemeinden mit mehr als 80 000 Einwohnern sind Träger der
 Straßenbaulast für die Ortsdurchfahrten im Zuge von Bundesstraßen.
 Maßgebend ist die bei der Volkszählung festgestellte Einwohnerzahl.
 Das Ergebnis einer Volkszählung wird mit Beginn des dritten
@@ -210,7 +210,7 @@ Gebietsänderung, sonst mit der Gebietsänderung.
 Straßenbaulast für die Ortsdurchfahrten im Zuge der Bundesstraßen,
 wenn sie es mit Zustimmung der obersten Kommunalaufsichtsbehörde
 gegenüber der obersten Landesstraßenbaubehörde erklärt. Eine Gemeinde
-mit mehr als 50.000, aber weniger als 80.000 Einwohnern wird Träger
+mit mehr als 50 000, aber weniger als 80 000 Einwohnern wird Träger
 der Straßenbaulast für die Ortsdurchfahrten im Zuge der Bundesstraßen,
 wenn sie es mit Zustimmung der obersten Kommunalaufsichtsbehörde
 gegenüber der obersten Landesstraßenbaubehörde verlangt. Absatz 2 Satz
@@ -236,8 +236,8 @@ Bebauung ungeeignetes oder ihr entzogenes Gelände oder einseitige
 Bebauung unterbrechen den Zusammenhang nicht. Die oberste
 Landesstraßenbaubehörde setzt im Benehmen mit der höheren
 Verwaltungsbehörde nach Anhörung der Gemeinde die Ortsdurchfahrt fest
-und kann dabei mit Zustimmung des Bundesministeriums für Verkehr, Bau
-und Stadtentwicklung und der Kommunalaufsichtsbehörde von der Regel
+und kann dabei mit Zustimmung des Bundesministeriums für Verkehr und
+digitale Infrastruktur und der Kommunalaufsichtsbehörde von der Regel
 der Sätze 1 und 2 abweichen. Die Landesregierungen werden ermächtigt,
 durch Rechtsverordnung zu bestimmen, dass abweichend von Satz 4 an
 Stelle der höheren Verwaltungsbehörde eine andere Behörde zuständig
@@ -253,6 +253,38 @@ Bundesfernstraßen in der Baulast des Bundes sind, kann der Bund
 Zuwendungen gewähren. Im Saarland werden die Straßen, für die das Land
 auf Grund des § 46 des Saarländischen Straßengesetzes an Stelle von
 Landkreisen Träger der Baulast ist, den Kreisstraßen gleichgestellt.
+
+
+## § 5b Finanzhilfen für Radschnellwege in Straßenbaulast der Länder, Gemeinden und Gemeindeverbände
+
+(1) Zum Bau von Radschnellwegen in der Straßenbaulast der Länder,
+Gemeinden und Gemeindeverbände kann der Bund den Ländern insbesondere
+zur Förderung des wirtschaftlichen Wachstums bis zum Ablauf des Jahres
+2030 Finanzhilfen gewähren. Die Finanzhilfen verringern sich beginnend
+mit dem Haushaltsjahr 2022 um 3 vom Hundert. Das Bundesministerium für
+Verkehr und digitale Infrastruktur überprüft jährlich die Verwendung
+der Mittel nach Satz 1.
+
+(2) Die Länder zahlen die Finanzhilfen zurück, wenn geförderte
+Maßnahmen nicht die Voraussetzungen des Absatzes 1 sowie der
+Verwaltungsvereinbarung im Sinne von Absatz 4 erfüllen. Nach Satz 1
+zurückzuzahlende Mittel sind zu verzinsen. Werden Mittel zu früh
+angewiesen, so sind für die Zeit der Auszahlung bis zur
+zweckentsprechenden Verwendung Zinsen zu zahlen.
+
+(3) Bestehen tatsächliche Anhaltspunkte, die eine Rückforderung von
+Bundesmitteln möglich erscheinen lassen, haben das Bundesministerium
+für Verkehr und digitale Infrastruktur sowie der Bundesrechnungshof
+ein Recht auf einzelfallbezogene Informationsbeschaffung
+einschließlich örtlicher Erhebungsbefugnisse.
+
+(4) Die Einzelheiten insbesondere der Verteilung der Mittel auf die
+Länder, des Eigenanteils der Länder, der Förderbereiche, der
+Förderquote des Bundes, der Bewirtschaftung der Mittel, der Prüfung
+der Mittelverwendung sowie des Verfahrens zur Durchführung dieser
+Vorschrift werden durch Verwaltungsvereinbarung geregelt. Die
+Inanspruchnahme der Finanzhilfen ist an das Inkrafttreten der
+Verwaltungsvereinbarung gebunden.
 
 
 ## § 6 Eigentum und andere Rechte
@@ -847,7 +879,7 @@ unberührt.
 
 ## § 13b Ermächtigung zu Rechtsverordnungen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann mit
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann mit
 Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten nach den §§ 12 und 12a näher bestimmt wird;
@@ -921,7 +953,7 @@ finden Anwendung.
 (3) Für das Recht, einen Nebenbetrieb an der Bundesautobahn zu
 betreiben, hat der Konzessionsinhaber eine umsatz- oder
 absatzabhängige Konzessionsabgabe an den Bund zu entrichten. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
 Bundesministerium der Finanzen ohne Zustimmung des Bundesrates die
 Höhe der Konzessionsabgabe festzusetzen und die Voraussetzungen sowie
@@ -940,7 +972,7 @@ weder ausgeschenkt noch verkauft werden.
 
 ## § 16 Planungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt im Benehmen mit den Landesplanungsbehörden der beteiligten
 Länder die Planung und Linienführung der Bundesfernstraßen. Dies gilt
 nicht für den Neubau von Ortsumgehungen. Eine Ortsumgehung ist der
@@ -1003,79 +1035,18 @@ durch ein Verwaltungsverfahrensgesetz geregelt ist.
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
 
-1.  Die Auslegung nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes
-    erfolgt in den Gemeinden, in denen sich das Vorhaben voraussichtlich
-    auswirkt.
+1.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet keine
+    Erörterung statt, so hat die Anhörungsbehörde ihre Stellungnahme
+    innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben
+    und zusammen mit den sonstigen in § 73 Absatz 9 des
+    Verwaltungsverfahrensgesetzes aufgeführten Unterlagen der
+    Planfeststellungsbehörde zuzuleiten.
 
 
-2.  Die Anhörungsbehörde benachrichtigt innerhalb der Frist des § 73 Abs.
-    2 des Verwaltungsverfahrensgesetzes die vom Land anerkannten
-    Naturschutzvereinigungen sowie sonstige Vereinigungen, soweit diese
-    sich für den Umweltschutz einsetzen und nach in anderen gesetzlichen
-    Vorschriften zur Einlegung von Rechtsbehelfen in Umweltangelegenheiten
-    vorgesehenen Verfahren anerkannt sind, (Vereinigungen) von der
-    Auslegung des Plans und gibt ihnen Gelegenheit zur Stellungnahme. Die
-    Benachrichtigung erfolgt durch die ortsübliche Bekanntmachung der
-    Auslegung nach § 73 Abs. 5 Satz 1 des Verwaltungsverfahrensgesetzes in
-    den Gemeinden nach Nummer 1. Unbeschadet davon bleibt die Beteiligung
-    anderer Vereinigungen nach den allgemeinen Vorschriften.
-
-
-3.  Für Vereinigungen gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes
-    entsprechend. § 73 Abs. 6 des Verwaltungsverfahrensgesetzes gilt
-    entsprechend, wenn die Vereinigungen fristgerecht Stellung genommen
-    haben. Sie sind von dem Erörterungstermin zu benachrichtigen.
-
-
-4.  Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt
-    sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung
-    in der Gemeinde mit dem Hinweis nach § 73 Abs. 5 Satz 2 des
-    Verwaltungsverfahrensgesetzes benachrichtigt werden.
-
-
-5.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet eine
-    Erörterung statt, so hat die Anhörungsbehörde die Erörterung innerhalb
-    von drei Monaten nach Ablauf der Einwendungsfrist abzuschließen. Die
-    Anhörungsbehörde gibt ihre Stellungnahme innerhalb eines Monats nach
-    Abschluss der Erörterung ab und leitet sie innerhalb dieser Frist mit
-    dem Plan, den Stellungnahmen der Behörden, den Stellungnahmen der
-    Vereinigungen und den nicht erledigten Einwendungen der
-    Planfeststellungsbehörde zu. Findet keine Erörterung statt, so hat die
-    Anhörungsbehörde ihre Stellungnahme innerhalb von sechs Wochen nach
-    Ablauf der Einwendungsfrist abzugeben und zusammen mit den sonstigen
-    in Satz 2 aufgeführten Unterlagen der Planfeststellungsbehörde
-    zuzuleiten.
-
-
-6.  Soll ein ausgelegter Plan geändert werden, so sind auch Vereinigungen
-    entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu
-    beteiligen. Für Vereinigungen, die sich nicht in der sich aus Nummer 3
-    in Verbindung mit § 73 Abs. 4 Satz 1 des Verwaltungsverfahrensgesetzes
-    ergebenden Frist geäußert haben, und im Fall des § 73 Abs. 8 Satz 2
-    des Verwaltungsverfahrensgesetzes erfolgt die Benachrichtigung von der
-    Planänderung und der Frist zur Stellungnahme in entsprechender
-    Anwendung der Nummer 2 Satz 2. Im Regelfall kann von der Erörterung im
-    Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9
-    Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    abgesehen werden.
-
-
-7.  Einwendungen gegen den Plan oder – im Fall des § 73 Abs. 8 des
-    Verwaltungsverfahrensgesetzes – dessen Änderung sind nach Ablauf der
-    Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der
-    Vereinigungen sind nach Ablauf der Äußerungsfrist nach den Nummern 3
-    und 6 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in
-    der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-    Einwendungs- oder Stellungnahmefrist sowie in der Benachrichtigung der
-    Vereinigungen hinzuweisen. Abweichend von § 73 Abs. 3a Satz 2 des
-    Verwaltungsverfahrensgesetzes können Stellungnahmen der Behörden, die
-    nach Ablauf der Frist des § 73 Abs. 3a Satz 1 des
-    Verwaltungsverfahrensgesetzes eingehen, auch noch nach Fristablauf
-    berücksichtigt werden; sie sind stets zu berücksichtigen, wenn später
-    von einer Behörde vorgebrachte öffentliche Belange der
-    Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
-    hätten bekannt sein müssen oder für die Rechtmäßigkeit der
-    Entscheidung von Bedeutung sind.
+2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 
@@ -1086,55 +1057,24 @@ mit folgenden Maßgaben:
 (1) Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
 Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
-1.  § 74 Abs. 6 des Verwaltungsverfahrensgesetzes – auch in Verbindung mit
-    Nummer 2 - gilt nur, wenn zusätzlich zu den dort genannten
-    Voraussetzungen für das Vorhaben nach dem Gesetz über die
-    Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung
-    durchzuführen ist.
+1.  Abweichend von § 74 Abs. 6 des Verwaltungsverfahrensgesetzes kann in
+    den Ländern Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen,
+    Sachsen-Anhalt und Thüringen für ein Vorhaben, für das nach dem Gesetz
+    über die Umweltverträglichkeitsprüfung eine
+    Umweltverträglichkeitsprüfung durchzuführen ist und das vor dem 31.
+    Dezember 2007 beantragt wird, an Stelle eines
+    Planfeststellungsbeschlusses eine Plangenehmigung erteilt werden. Im
+    Fall des Satzes 1 ist die Öffentlichkeit entsprechend § 18 Absatz 2
+    des Gesetzes über die Umweltverträglichkeitsprüfung einzubeziehen.
 
 
-2.  Ergänzend zu § 74 Abs. 6 Satz 1 Nr. 1 des
-    Verwaltungsverfahrensgesetzes kann eine Plangenehmigung auch dann
-    erteilt werden, wenn Rechte anderer nur unwesentlich beeinträchtigt
-    werden.
-
-
-3.  Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung.
-
-
-4.  Fälle unwesentlicher Bedeutung im Sinne des § 74 Abs. 7 des
-    Verwaltungsverfahrensgesetzes liegen nur vor, wenn es sich bei dem
-    Vorhaben zusätzlich nicht um ein Vorhaben handelt, für das nach dem
-    Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung durchzuführen ist.
-
-
-5.  Abweichend von Nummer 1 und § 74 Abs. 6 des
-    Verwaltungsverfahrensgesetzes kann in den Ländern Berlin, Brandenburg,
-    Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen für ein
-    Vorhaben, für das nach dem Gesetz über die
-    Umweltverträglichkeitsprüfung eine Umweltverträglichkeitsprüfung
-    durchzuführen ist und das vor dem 31. Dezember 2007 beantragt wird, an
-    Stelle eines Planfeststellungsbeschlusses eine Plangenehmigung erteilt
-    werden. Im Fall des Satzes 1 ist die Öffentlichkeit entsprechend § 9
-    Abs. 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    einzubeziehen.
-
-
-6.  Die oberste Landesstraßenbaubehörde stellt den Plan fest, erteilt die
+2.  Die oberste Landesstraßenbaubehörde stellt den Plan fest, erteilt die
     Plangenehmigung und trifft die Entscheidung nach § 74 Abs. 7 des
     Verwaltungsverfahrensgesetzes. Bestehen zwischen der obersten
     Landesstraßenbaubehörde, die den Plan feststellt, und einer
     Bundesbehörde Meinungsverschiedenheiten, so ist vor der
-    Planfeststellung die Weisung des Bundesministeriums für Verkehr, Bau
-    und Stadtentwicklung einzuholen.
-
-
-7.  Planfeststellungsbeschluss und Plangenehmigung sind dem Träger des
-    Vorhabens, den Vereinigungen, über deren Einwendungen und
-    Stellungnahmen entschieden worden ist, und denjenigen, über deren
-    Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
-    zuzustellen.
+    Planfeststellung die Weisung des Bundesministeriums für Verkehr und
+    digitale Infrastruktur einzuholen.
 
 
 
@@ -1168,11 +1108,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Planfeststellungsbeschluss entsprechend anzuwenden.
 
 
-4.  Als Beginn der Durchführung des Plans gilt jede erstmals nach außen
-    erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur
-    plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung
-    der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
-    nicht.
+4.  (weggefallen)
 
 
 
@@ -1185,8 +1121,8 @@ Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
 Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
 Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Fall des § 76
 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
-Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
 
@@ -1253,15 +1189,7 @@ Begründung seiner Klage dienenden Tatsachen und Beweismittel
 anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt
 entsprechend.
 
-(6) Mängel bei der Abwägung der von dem Vorhaben berührten
-öffentlichen und privaten Belange sind nur erheblich, wenn sie
-offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
-Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
-Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
-durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
-bleiben unberührt.
+(6) (weggefallen)
 
 
 ## § 17f Anlagen der Verkehrsüberwachung, der Unfallhilfe und des Zolls
@@ -1373,14 +1301,13 @@ Enteignungsgesetze der Länder.
 ## § 19a Entschädigungsverfahren
 
 Soweit der Träger der Straßenbaulast nach §§ 8a, 9 oder auf Grund
-eines Planfeststellungsbeschlusses (§ 17) oder einer Plangenehmigung
-(§ 74 Abs. 6 des Verwaltungsverfahrensgesetzes in Verbindung mit § 17b
-Abs. 1 Nr. 1) verpflichtet ist, eine Entschädigung in Geld zu leisten,
-und über die Höhe der Entschädigung keine Einigung zwischen dem
-Betroffenen und dem Träger der Straßenbaulast zustande kommt,
-entscheidet auf Antrag eines der Beteiligten die nach Landesrecht
-zuständige Behörde; für das Verfahren und den Rechtsweg gelten die
-Enteignungsgesetze der Länder entsprechend.
+eines Planfeststellungsbeschlusses oder einer Plangenehmigung
+verpflichtet ist, eine Entschädigung in Geld zu leisten, und über die
+Höhe der Entschädigung keine Einigung zwischen dem Betroffenen und dem
+Träger der Straßenbaulast zustande kommt, entscheidet auf Antrag eines
+der Beteiligten die nach Landesrecht zuständige Behörde; für das
+Verfahren und den Rechtsweg gelten die Enteignungsgesetze der Länder
+entsprechend.
 
 
 ## § 20 Straßenaufsicht
@@ -1409,7 +1336,7 @@ zuständige Straßenbaubehörde im Sinne dieses Gesetzes ist.
 
 ## § 22 Zuständigkeit
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 seine Befugnisse nach diesem Gesetz ganz oder zum Teil unter Vorbehalt
 jederzeitigen Widerrufs auf die obersten Landesstraßenbaubehörden auch
 mit der Ermächtigung zur weiteren Übertragung auf andere Behörden
@@ -1417,7 +1344,7 @@ mit der Ermächtigung zur weiteren Übertragung auf andere Behörden
 
 (2) Im Fall des Artikels 90 Abs. 3 des Grundgesetzes treten an die
 Stelle der im Gesetz genannten Straßenbaubehörden der Länder die vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmten
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmten
 Bundesbehörden. Dies gilt auch für die nach § 36 des Gesetzes über
 Ordnungswidrigkeiten zu bestimmende Behörde.
 
@@ -1432,8 +1359,8 @@ denen jemand zur Duldung oder Unterlassung verpflichtet ist (§§ 11 und
 begründet ist, bestimmen die Länder die zuständigen Behörden. Sie sind
 ermächtigt, die Zuständigkeit der obersten Straßenbaubehörden der
 Länder, soweit sie nach diesem Gesetz begründet ist, auf nachgeordnete
-Behörden zu übertragen. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ist hiervon zu unterrichten.
+Behörden zu übertragen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur ist hiervon zu unterrichten.
 
 (5) Soweit Selbstverwaltungskörperschaften in der Auftragsverwaltung
 tätig werden (Artikel 90 Abs. 2 des Grundgesetzes), sind ihre Behörden
@@ -1557,7 +1484,7 @@ ihre Stelle die Worte "Bundesautobahnen" oder "Bundesstraßen".
 besondere Rechte und Pflichten begründet sind, tritt an seine Stelle
 der Bund.
 
-(11) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist
+(11) Das Bundesministerium für Verkehr und digitale Infrastruktur ist
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
 Brücken im Zuge von Bundesfernstraßen, die in der Baulast der Länder
@@ -1587,357 +1514,266 @@ die Verträge erstmals nach Inkrafttreten dieses Gesetzes kündbar sind.
 
 -
 
+(zu § 17e Absatz 1)
 
-## Anlage (zu § 17e Abs. 1) Bundesfernstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+## Anlage Bundesfernstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
-(Fundstelle: BGBl I 2007, 1220 u. 1221)
+(BGBl. I 2017, 2082 — 2083)
 
 Vorbemerkung:
-Im Sinne der Anlage bedeuten
 
-1.  A: Bundesautobahn,
+Im Sinne dieser Anlage bedeuten
 
+1\. A: Bundesautobahn
 
-2.  B: Bundesstraße mit Ortsdurchfahrt.
+2\. B: Bundesstraße
 
+3\. L: Landesstraße
 
+4\. OU: Ortsumgehung
 
 Zu den Bundesfernstraßen gehören auch die für den Betrieb von
 Bundesfernstraßen notwendigen Anlagen. Die Bundesfernstraßen beginnen
 und enden jeweils an den Knotenpunkten, an denen sie mit dem
 bestehenden Straßennetz verbunden sind.
 
-*    *   Lfd.Nr.
+
+*    *   Lfd. Nr.
 
     *   Bezeichnung
 
 
 *    *   1
 
-    *   A 1 Lohne/Dinklage – Münster/Nord
+    *   A 1 Dreieck Hamburg-Südost – Dreieck Hamburg-Stillhorn (A 26)
 
 
 *    *   2
 
-    *   A 1 Blankenheim – Kelberg
+    *   A 1 Neuenkirchen/Vörden – Münster-Nord
 
 
 *    *   3
 
-    *   A 1 Saarbrücken (A 623) – A 1
+    *   A 1 Köln-Niehl – Kreuz Leverkusen
 
 
 *    *   4
 
-    *   A 3 Köln-Dellbrück – Leverkusen
+    *   A 1 Kreuz Wuppertal-Nord (A 43)
 
 
 *    *   5
 
-    *   A 3 Offenbach – Hanau
+    *   A 1 Westhofener Kreuz (A 45)
 
 
 *    *   6
 
-    *   A 3 Hösbach – Erlangen
+    *   A 1 Blankenheim – Kelberg
 
 
 *    *   7
 
-    *   A 4 Düren – Kerpen
+    *   A 2 Kreuz Bottrop (A 31)
 
 
 *    *   8
 
-    *   A 5 Frankfurt – Friedberg
+    *   A 3 Kreuz Kaiserberg (A 40)
 
 
 *    *   9
 
-    *   A 5 Kreuz Walldorf – Kreuz Heidelberg
+    *   A 3 Kreuz Oberhausen (A 2/ A 516)
 
 
 *    *   10
 
-    *   A 6 Kreuz Weinsberg – Kupferzell (B 19)
+    *   A 3 Köln-Mülheim – Kreuz Leverkusen (A 1)
 
 
 *    *   11
 
-    *   A 7 Hamburg – Bordesholm
+    *   A 3 Wiesbadener Kreuz (A 66)
 
 
 *    *   12
 
-    *   A 7 Salzgitter – Göttingen
+    *   A 3 Kreuz Biebelried (A 7) – Kreuz Fürth/Erlangen (A 73)
 
 
 *    *   13
 
-    *   A 8 Pforzheim-Nord – Wurmberg
+    *   A 4 Kreuz Köln-Süd (A 555)
 
 
 *    *   14
 
-    *   A 8 Mühlhausen – Ulm
+    *   A 6 Saarbrücken-Fechingen – St. Ingbert-West
 
 
 *    *   15
 
-    *   A 8 Rosenheim – Felden
+    *   A 6 Heilbronn/Untereisesheim – Heilbronn/Neckarsulm
 
 
 *    *   16
 
-    *   A 20 Stade (A 26) – Geschendorf
+    *   A 6 Kreuz Weinsberg (A 81) – Kreuz Feuchtwangen/Crailsheim (A 7)
 
 
 *    *   17
 
-    *   A 30 Löhne – Rehme
+    *   A 7 Hamburg/Heimfeld – Hamburg/Volkspark
 
 
 *    *   18
 
-    *   A 33 Bielefeld/Brackwede – Borgholzhausen einschl. Zubringer Ummeln
+    *   A 7 Kreuz Rendsburg – Rendsburg/Büdelsdorf
 
 
 *    *   19
 
-    *   A 33 Osnabrück/Schinkel – nördlich Osnabrück (A 1)
+    *   A 8 Mühlhausen – Hohenstadt
 
 
 *    *   20
 
-    *   A 39 Lüneburg – Wolfsburg
+    *   A 8 Kreuz München Süd (A 99) – Bundesgrenze Deutschland/Österreich
 
 
 *    *   21
 
-    *   A 44 Bochum (L 705) – Kreuz Bochum/Witten (A 43)
+    *   A 20 Westerstede (A 28) – Weede
 
 
 *    *   22
 
-    *   A 44 Ratingen (A 3) – Velbert
+    *   A 26 Drochtersen (A 20) – Dreieck Hamburg-Stillhorn (A 1)
 
 
 *    *   23
 
-    *   A 45 Hagen (A 46) – Westhofen (A 1)
+    *   A 33 Bielefeld/Brackwede – Borgholzhausen einschließlich Zubringer
+        Ummeln
 
 
 *    *   24
 
-    *   A 46 Westring – Kreuz Sonnborn (L 418)
+    *   A 33 Dreieck Osnabrück-Nord (A 1) – Osnabrück-Belm
 
 
 *    *   25
 
-    *   A 49 Bischhausen – A 5
+    *   A 39 Lüneburg – Wolfsburg
 
 
 *    *   26
 
-    *   A 52 Grenze Niederlande/Deutschland – Elmpt
+    *   A 40 Duisburg-Homberg – Duisburg-Häfen
 
 
 *    *   27
 
-    *   A 57 Neuss-West (A 46) – Kaarst (A 52)
+    *   A 44 Ratingen (A 3) – Velbert
 
 
 *    *   28
 
-    *   A 57 Meerbusch (A 44) – Kamp-Lintfort (A 42)
+    *   A 45 Hagen (A 46) – Westhofen (A 1)
 
 
 *    *   29
 
-    *   A 60 Dreieck Mainz – Kreuz Mainz Süd
+    *   A 46 Westring – Kreuz Sonnborn (L 418)
 
 
 *    *   30
 
-    *   A 61 Grenze Niederlande/Deutschland – Kaldenkirchen
+    *   A 49 Bischhausen – A 5
 
 
 *    *   31
 
-    *   A 61 A 6 – Kreuz Frankenthal
+    *   A 57 Kreuz Köln-Nord (A 1) – Kreuz Moers (A 40)
 
 
 *    *   32
 
-    *   A 67 Darmstadt – Lorsch
+    *   A 61 Kreuz Frankenthal (A 6) – Landesgrenze Rheinland-Pfalz/Baden-
+        Württemberg
 
 
 *    *   33
 
-    *   A 81 Böblingen/Hulb – Sindelfingen Ost
+    *   A 66 Kreuz Wiesbaden-Schierstein – Kreuz Wiesbaden
 
 
 *    *   34
 
-    *   A 94 Malching – Pocking (A 3)
+    *   A 81 Böblingen/Hulb – Sindelfingen Ost
 
 
 *    *   35
 
-    *   A 99 Kreuz München-Nord – Haar
+    *   A 94 Malching – Pocking (A 3)
 
 
 *    *   36
 
-    *   A 281 Eckverbindung in Bremen
+    *   A 99 Dreieck München Süd-West (A 96) – Kreuz München Süd (A 8)
 
 
 *    *   37
 
-    *   A 445 Werl-Nord – Hamm-Rhynern (A 2)
+    *   A 100 Dreieck Neukölln (A 113) – Storkower Straße
 
 
 *    *   38
 
-    *   B 2n Schwedt – B 167
+    *   A 111 Landesgrenze Berlin/Brandenburg – einschließlich Rudolf-Wissell-
+        Brücke (A 100)
 
 
 *    *   39
 
-    *   B 4 Nordhausen – Ilfeld
+    *   A 281 Eckverbindung in Bremen
 
 
 *    *   40
 
-    *   B 6n Köthen – A 9
+    *   A 445 Werl-Nord – Hamm-Rhynern (A 2)
 
 
 *    *   41
 
-    *   B 19 OU Meiningen
+    *   A 643 Dreieck Mainz (A 60) – Mainz-Mombach
 
 
 *    *   42
 
-    *   B 56 Grenze Niederlande/Deutschland – Heinsberg (B 221)
+    *   B 19 OU Meiningen
 
 
 *    *   43
 
-    *   B 85 Untertraubenbach – südlich Altenkreith
+    *   B 85 Altenkreith – Wetterfeld
 
 
 *    *   44
 
-    *   B 87n Fulda – Meiningen
+    *   B 112 OU Frankfurt (Oder)
 
 
 *    *   45
 
-    *   B 87n Leipzig – Torgau – Frankfurt (Oder)
+    *   B 180 Aschersleben – Quenstedt
 
 
 *    *   46
 
-    *   B 95 OU Thum, Ehrenfriedersdorf, Burkhardtsdorf
-
-
-*    *   47
-
-    *   B 96n A 13 – Hoyerswerda
-
-
-*    *   48
-
-    *   B 107 A 4 – Südverbund Chemnitz
-
-
-*    *   49
-
-    *   B 112 OU Frankfurt (Oder), OU Brieskow-Finkenheerd, OU
-        Eisenhüttenstadt, OU Neuzelle, OU Forst
-
-
-*    *   50
-
-    *   B 160 Hoyerswerda – Weißwasser
-
-
-*    *   51
-
-    *   B 166 OU Schwedt mit Grenzübergang
-
-
-*    *   52
-
-    *   B 167 B 198 – B 112
-
-
-*    *   53
-
-    *   B 174 Chemnitz – Grenze Deutschland/Tschechische Republik
-
-
-*    *   54
-
-    *   B 180 Aschersleben – Quenstedt
-
-
-*    *   55
-
-    *   B 188 Kloster Neudorf – Jävenitz – Hottendorf
-
-
-*    *   56
-
-    *   B 190n A 39 – A 24
-
-
-*    *   57
-
-    *   B 246n B 112 – Grenze Deutschland/Polen
-
-
-
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kap. XI Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1111)
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Bundesfernstraßengesetz in der Fassung der Bekanntmachung vom 8.
-    August 1990 (BGBl. I S. 1714), geändert durch Gesetz vom 12. Februar
-    1990 (BGBl. I S. 205),
-
-    mit folgenden Maßgaben:
-
-    a)  Autobahnen und Fernverkehrsstraßen in dem in Artikel 3 des Vertrages
-        genannten Gebiet sind in dem in § 1 Abs. 4 bestimmten Umfang
-        Bundesautobahnen und Bundesstraßen (Bundesfernstraßen) im Sinne des
-        Gesetzes; § 2 Abs. 4 bleibt unberührt. Die Straßenbaulast für diese
-        Straßen geht auf den Bund und in den Fällen des § 5 Abs. 2 bis 3a auf
-        die Gemeinden über.
-
-
-    b)  Soweit der Bund Träger der Straßenbaulast wird, gehen gleichzeitig das
-        Eigentum an den Straßen sowie alle mit ihnen im Zusammenhang stehenden
-        Rechte und Pflichten auf den Bund über. Werden Gemeinden Träger der
-        Baulast, gehen das Eigentum an den Straßen sowie alle mit ihnen in
-        Zusammenhang stehenden Rechte und Pflichten auf sie über. § 6 findet
-        entsprechende Anwendung. Eigentumsrechte Privater bleiben unberührt.
-
-
-    c)  Anhängige Verfahren zum Bau oder zur Änderung von Autobahnen und
-        Fernverkehrsstraßen in dem in Artikel 3 des Vertrages genannten Gebiet
-        werden nach dem Bundesfernstraßengesetz und dem
-        Verwaltungsverfahrensgesetz zu Ende geführt, wenn eine abschließende
-        Sachentscheidung vor Wirksamwerden des Beitritts noch nicht ergangen
-        ist.
-
-
-
-
+    *   B 402/B 213/ B 72 (E 233) Meppen (A 31) – Cloppenburg (A 1)
 
 
 

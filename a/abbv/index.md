@@ -651,7 +651,7 @@ Kapitel 2
 
     setzt sich zusammen aus dem Anteil für die kapitalisierten
     Erneuerungskosten (E
-    e                   )
+    e)
 
     *        *            ![bgbl1_2010_j0856_0050.jpg](bgbl1_2010_j0856_0050.jpg)
 
@@ -660,7 +660,7 @@ Kapitel 2
 
    und dem Anteil für die kapitalisierten jährlichen Unterhaltungskosten
     (E
-    u                   )
+    u)
 
     *        *            ![bgbl1_2010_j0856_0060.jpg](bgbl1_2010_j0856_0060.jpg)
 
@@ -668,14 +668,12 @@ Kapitel 2
 
 
    Durch Erweiterung des untenstehenden ersten Summanden mit q
-    m                    – 1 können die kapitalisierten Erhaltungskosten
-    für die Erneuerungskosten (E
-    e                   ) in den Anteil der kapitalisierten Kosten der
-    nächsten Erneuerung (
+    m – 1 können die kapitalisierten Erhaltungskosten für die
+    Erneuerungskosten (E
+    e) in den Anteil der kapitalisierten Kosten der nächsten Erneuerung (
     E
     nä
-    e                   ), die erste Erneuerung nach der
-    Ablösungsvereinbarung,
+    e), die erste Erneuerung nach der Ablösungsvereinbarung,
 
     *        *            ![bgbl1_2010_j0856_0070.jpg](bgbl1_2010_j0856_0070.jpg)
 
@@ -694,7 +692,7 @@ Kapitel 2
     steht nach n Jahren, also zum Zeitpunkt der ersten Erneuerung nach der
     Ablösungsvereinbarung, mathematisch ausgedrückt durch die
     Multiplikation der Gleichung mit q
-    n                   , ein Betrag von
+    n, ein Betrag von
 
     *        *            ![bgbl1_2010_j0856_0090.jpg](bgbl1_2010_j0856_0090.jpg)
 
@@ -704,7 +702,7 @@ Kapitel 2
    Euro zur Verfügung. Nach weiteren m Jahren, also zum Zeitpunkt der
     zweiten Erneuerung nach der Ablösungsvereinbarung, mathematisch
     ausgedrückt durch die Multiplikation der Gleichung mit q
-    m                   , steht ein Betrag von
+    m, steht ein Betrag von
 
     *        *            ![bgbl1_2010_j0856_0010.jpg](bgbl1_2010_j0856_0010.jpg)
 
@@ -712,9 +710,9 @@ Kapitel 2
 
 
    Euro zur Verfügung. K
-    e                    wird entnommen, sodass wieder der gleiche Betrag
-    wie nach der ersten Erneuerung zur Verfügung steht und die weiteren
-    Erneuerungen durch Verzinsung bezahlt werden können.
+    e wird entnommen, sodass wieder der gleiche Betrag wie nach der ersten
+    Erneuerung zur Verfügung steht und die weiteren Erneuerungen durch
+    Verzinsung bezahlt werden können.
 
 
     *        *            ![bgbl1_2010_j0856_0110.jpg](bgbl1_2010_j0856_0110.jpg)
@@ -725,10 +723,9 @@ Kapitel 2
 
     Bei einer zeitlich unbegrenzten Unterhaltungsverpflichtung können die
     kapitalisierten jährlichen Unterhaltungskosten E
-    u                    durch folgenden Ansatz hergeleitet werden: Das
-    Kapital E
-    u                    muss einen Zinsertrag bringen, der die laufenden
-    jährlichen Unterhaltungskosten deckt:
+    u durch folgenden Ansatz hergeleitet werden: Das Kapital E
+    u muss einen Zinsertrag bringen, der die laufenden jährlichen
+    Unterhaltungskosten deckt:
 
     *        *            ![bgbl1_2010_j0856_0120.jpg](bgbl1_2010_j0856_0120.jpg)
 
@@ -741,16 +738,16 @@ Kapitel 2
     ergibt sich die Berechnungsvorschrift für die kapitalisierten
     jährlichen Unterhaltungskosten (E
     t
-    u                   ) durch die Betrachtung eines nachschüssigen
-    Ansparmodells mit dem Zeithorizont t:
+    u) durch die Betrachtung eines nachschüssigen Ansparmodells mit dem
+    Zeithorizont t:
 
     *        *            ![bgbl1_2010_j0856_0130.jpg](bgbl1_2010_j0856_0130.jpg)
 
 
 
 
-   Durch den Übergang t*                    ergibt sich wiederum die
-    Formel für die zeitlich unbegrenzte Unterhaltungsverpflichtung.
+   Durch den Übergang t* ergibt sich wiederum die Formel für die zeitlich
+    unbegrenzte Unterhaltungsverpflichtung.
 
     (6) In den Formeln haben die Berechnungsglieder folgende Bedeutung:
 
@@ -927,10 +924,10 @@ Kapitel 3
 **3.1** **Ermittlung der Erneuerungskosten**
 
     Die Ermittlung der Erneuerungskosten (K
-    e                   ) erfolgt auf der Grundlage von Fiktiventwürfen.
-    Im Falle der erstmaligen Herstellung einer baulichen Anlage ist ein
-    Fiktiventwurf für die zukünftige Erneuerung zu erstellen. Im Falle der
-    Änderung einer bestehenden baulichen Anlage sind zwei Fiktiventwürfe
+    e) erfolgt auf der Grundlage von Fiktiventwürfen. Im Falle der
+    erstmaligen Herstellung einer baulichen Anlage ist ein Fiktiventwurf
+    für die zukünftige Erneuerung zu erstellen. Im Falle der Änderung
+    einer bestehenden baulichen Anlage sind zwei Fiktiventwürfe
     erforderlich, von denen der eine für die zukünftige Erneuerung der
     vorhandenen baulichen Anlage und der andere für die zukünftige
     Erneuerung der geänderten baulichen Anlage aufzustellen ist. Dabei
@@ -963,18 +960,17 @@ Kapitel 3
     B. Hebung von Gleisen, Absenkung von Straßen, Bodenaushub des
     Verkehrsraums, Pfahlgründungen, Rampen) sind bei der Ermittlung der
     Erneuerungskosten (K
-    e                   ) und damit bei der Ablösung nicht zu
-    berücksichtigen.
+    e) und damit bei der Ablösung nicht zu berücksichtigen.
 
 
 **3.2** **Zusammensetzung der Erneuerungskosten**
 
     Die Erneuerungskosten (K
-    e                   ) für bauliche Anlagen setzen sich aus den reinen
-    Baukosten nach Nummer 3.3 bis Nummer 3.5, den Kosten für Abbruch,
-    Behelfszustände, Betriebserschwernisse, Umleitungsmaßnahmen und
-    Sicherungsposten zusammen. Zu den Erneuerungskosten gehören auch die
-    Verwaltungskosten gemäß Nummer 3.10.
+    e) für bauliche Anlagen setzen sich aus den reinen Baukosten nach
+    Nummer 3.3 bis Nummer 3.5, den Kosten für Abbruch, Behelfszustände,
+    Betriebserschwernisse, Umleitungsmaßnahmen und Sicherungsposten
+    zusammen. Zu den Erneuerungskosten gehören auch die Verwaltungskosten
+    gemäß Nummer 3.10.
 
     Bei der Ermittlung der Erneuerungskosten beziehen sich die Kosten für
     den Abbruch jeweils auf das abzulösende fiktive Bauwerk und nicht auf
@@ -1048,15 +1044,15 @@ Kapitel 3
 
     Die jährlichen Unterhaltungskosten werden mit pauschalen Prozentsätzen
     p von K
-    u                    ermittelt und kapitalisiert. Für die Ermittlung
-    der Unterhaltungskosten ist der Preisstand zur Zeit der Ablösung
+    u ermittelt und kapitalisiert. Für die Ermittlung der
+    Unterhaltungskosten ist der Preisstand zur Zeit der Ablösung
     maßgebend. Nummer 3.1 gilt entsprechend.
 
     Die Bezugsgröße K
-    u                   , die der Ermittlung der kapitalisierten
-    Unterhaltungskosten nach Nummer 3.8.1 bis Nummer. 3.8.3 zugrunde zu
-    legen ist, setzt sich aus den reinen Baukosten nach Nummer 3.3 bis
-    Nummer 3.5 und den anrechenbaren Verwaltungskosten zusammen.
+    u, die der Ermittlung der kapitalisierten Unterhaltungskosten nach
+    Nummer 3.8.1 bis Nummer. 3.8.3 zugrunde zu legen ist, setzt sich aus
+    den reinen Baukosten nach Nummer 3.3 bis Nummer 3.5 und den
+    anrechenbaren Verwaltungskosten zusammen.
 
     Die Unterhaltungskosten berücksichtigen alle Aufwendungen, die
     notwendig sind, damit die baulichen Anlagen die theoretische
@@ -1113,9 +1109,9 @@ Kapitel 3
 
     Bei der Berechnung der kapitalisierten Energiekosten gemäß dem zweiten
     Summanden der Formel in Nummer 2.3 entspricht die Bezugsgröße K
-    u                    dem Aufwand eines Jahres zuzüglich
-    Verwaltungskosten in Höhe von 10 vom Hundert dieses Aufwandes nach
-    Nummer 3.10. Anstelle von p ist der Wert 100 anzusetzen.
+    u dem Aufwand eines Jahres zuzüglich Verwaltungskosten in Höhe von 10
+    vom Hundert dieses Aufwandes nach Nummer 3.10. Anstelle von p ist der
+    Wert 100 anzusetzen.
 
 
 **3.10** **Verwaltungskosten**

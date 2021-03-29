@@ -139,8 +139,8 @@ vor dem 1. Januar 1959 eingetreten ist.
         Durchführungsverordnungen als Vorschriften über die Einführung des
         deutschen Sozialversicherungsrechts im Sinne des
         § 3 Abs. 1 des Fremdrenten- und Auslandsrentengesetzes vom 7. August
-        1953 (Bundesgesetzbl. I S. 848)                          anzuwenden.
-        Soweit die Versicherungsträger bei der Anwendung des Fremdrenten- und
+        1953 (Bundesgesetzbl. I S. 848) anzuwenden. Soweit die
+        Versicherungsträger bei der Anwendung des Fremdrenten- und
         Auslandsrentengesetzes bisher anders verfahren und Leistungen
         abgelehnt, entzogen, eingestellt oder zu niedrig festgestellt haben,
         sind die Leistungen auf Antrag oder von Amts wegen neu festzustellen.

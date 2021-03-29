@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausgabe von Münzen im Nennwert von 1, 5, 10 und
   Deutschland" tragen
 jurabk: MünzUmschriftBek
 layout: default
-origslug: m_nzumschriftbek
+origslug: muenzumschriftbek
 slug: muenzumschriftbek
 
 ---

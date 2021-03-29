@@ -2,7 +2,7 @@
 Title: Verordnung über die Kehrung und Überprüfung von Anlagen
 jurabk: KÜO
 layout: default
-origslug: k_o
+origslug: kueo
 slug: kueo
 
 ---
@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1292
 
-Geändert durch
-:   Art. 1 V v. 14.6.2011 I 1077
+Zuletzt geändert durch
+:   Art. 1 V v. 8.4.2013 I 760
 
 [^F772203_01_BJNR129200009]:     Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
     Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -79,7 +79,10 @@ wiederholen. Eine Kohlenmonoxidmessung entfällt bei
     Verbrennungsluftzufuhr und Abgasabführung durch die Außenwand, deren
     Ausmündung des Abgasaustritts im Bereich von mehr als 3 Meter über
     Erdgleiche liegt und zu Fenstern, Türen und Lüftungsöffnungen einen
-    Abstand von mehr als 1 Meter hat.
+    Abstand von mehr als 1 Meter hat,
+
+
+3.  ortsfesten Netzersatzanlagen (Notstromaggregate).
 
 
 
@@ -92,11 +95,15 @@ Verordnung über kleine und mittlere Feuerungsanlagen vom 26. Januar
 
 (3) Von der Kehr- und Überprüfungspflicht sind ausgenommen:
 
-1.  dauernd unbenutzte Anlagen nach Absatz 1, wenn die Anschlussöffnungen
-    für Feuerstätten an der Abgasanlage dichte Verschlüsse aus nicht
-    brennbaren Stoffen haben und die Gaszufuhr zu Feuerstätten für
-    gasförmige Brennstoffe durch Verschluss der Gasleitungen dauerhaft
-    unterbunden ist,
+1.  dauerhaft stillgelegte Anlagen nach Absatz 1, wenn die
+    Anschlussöffnungen für Feuerstätten an der Abgasanlage dichte
+    Verschlüsse aus nicht brennbaren Stoffen unter Beachtung der
+    erforderlichen Feuerwiderstandsdauer der Abgasanlage haben, bei
+    Feuerstätten für gasförmige Brennstoffe die Gaszufuhr durch Verschluss
+    der Gasleitungen dauerhaft unterbunden ist und eine Mitteilung über
+    die dauerhafte Stilllegung an die zuständige bevollmächtigte
+    Bezirksschornsteinfegerin oder den zuständigen bevollmächtigten
+    Bezirksschornsteinfeger schriftlich oder elektronisch erfolgt ist,
 
 
 2.  freistehende senkrechte Teile der Abgasanlagen mit einem lichten
@@ -110,9 +117,9 @@ Verordnung über kleine und mittlere Feuerungsanlagen vom 26. Januar
     können,
 
 
-4.  Heizgaswege von unbenutzten Anlagen sowie in Feuerstätten von
-    kehrpflichtigen Anlagen, sofern es sich bei der Feuerstätte nicht um
-    einen offenen Kamin handelt,
+4.  Heizgaswege von dauerhaft stillgelegten Anlagen nach Nummer 1 sowie in
+    Feuerstätten von kehrpflichtigen Anlagen, sofern es sich bei der
+    Feuerstätte nicht um einen offenen Kamin handelt,
 
 
 5.  dicht geschweißte Abgasanlagen von Blockheizkraftwerken,
@@ -140,20 +147,20 @@ Absatz 3 Nummer 1 zum Zeitpunkt der letzten regulären Kehrung oder
 überprüfen und erforderlichenfalls zu kehren.
 
 (5) Im Einzelfall kann die zuständige Behörde auf Antrag der
-Bezirksschornsteinfegermeisterin oder des
-Bezirksschornsteinfegermeisters die in Anlage 1 bestimmte Anzahl der
-Kehrungen oder Überprüfungen erhöhen, wenn es die Betriebs- und
-Brandsicherheit erfordert.
+zuständigen bevollmächtigten Bezirksschornsteinfegerin oder des
+zuständigen bevollmächtigten Bezirksschornsteinfegers die in Anlage 1
+bestimmte Anzahl der Kehrungen oder Überprüfungen erhöhen, wenn es die
+Betriebs- und Brandsicherheit erfordert.
 
 (6) Im Einzelfall kann die zuständige Behörde auf Antrag der
 Eigentümerin oder des Eigentümers des Grundstücks oder der Räume und
-nach Anhörung der zuständigen Bezirksschornsteinfegermeisterin oder
-des zuständigen Bezirksschornsteinfegermeisters für kehr- oder
-überprüfungspflichtige Anlagen, die nach dem Bundes-
-Immissionsschutzgesetz genehmigt wurden, von dieser Verordnung
-abweichende Regelungen treffen, wenn die Betriebs- und Brandsicherheit
-durch besondere brandschutztechnische Einrichtungen oder andere
-Maßnahmen sichergestellt ist.
+nach Anhörung der zuständigen bevollmächtigten
+Bezirksschornsteinfegerin oder des zuständigen bevollmächtigten
+Bezirksschornsteinfegers für kehr- oder überprüfungspflichtige
+Anlagen, die nach dem Bundes-Immissionsschutzgesetz genehmigt wurden,
+von dieser Verordnung abweichende Regelungen treffen, wenn die
+Betriebs- und Brandsicherheit durch besondere brandschutztechnische
+Einrichtungen oder andere Maßnahmen sichergestellt ist.
 
 (7) Zuständig für die Aufgaben nach den Absätzen 5 und 6 ist die
 Behörde, die gemäß § 23 des Schornsteinfeger-Handwerksgesetzes vom 26.
@@ -187,95 +194,43 @@ Aufgabenträger für den örtlichen Brandschutz vorher mitzuteilen. Nach
 dem Ausbrennen ist die Anlage auf Brandgefahren zu überprüfen.
 
 (2) Reinigungsarbeiten an asbesthaltigen Abgas- und Lüftungsanlagen
-und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegern
-nach dem Stand der Technik, insbesondere entsprechend den Technischen
-Regeln für Gefahrstoffe 519 „Asbest, Abbruch-, Sanierungs- oder
-Instandhaltungsarbeiten“ (Bekanntmachung des Bundesministeriums für
-Arbeit und Sozialordnung vom 23. Januar 2007, GMBl S. 122, berichtigt
-am 8. März 2007, GMBl S. 398), durchzuführen.
+und Verbrennungsluft- und Abluftanlagen sind von Schornsteinfegerinnen
+und Schornsteinfegern nach dem Stand der Technik, insbesondere
+entsprechend den Technischen Regeln für Gefahrstoffe 519 „Asbest,
+Abbruch-, Sanierungs- oder Instandhaltungsarbeiten“ (Bekanntmachung
+des Bundesministeriums für Arbeit und Sozialordnung vom 23. Januar
+2007, GMBl S. 122, berichtigt am 8. März 2007, GMBl S. 398),
+durchzuführen.
 
 
-## § 3 Pflichten der Bezirksschornsteinfegermeisterin oder des Bezirksschornsteinfegermeisters
+## § 3 Pflichten der bevollmächtigten Bezirksschornsteinfegerin oder des bevollmächtigten Bezirksschornsteinfegers
 
-(1) Die Bezirksschornsteinfegermeisterin oder der
-Bezirksschornsteinfegermeister hat den Termin der beabsichtigten
-Kehrung oder Überprüfung sowie der Feuerstättenschau spätestens fünf
-Werktage vor der Durchführung anzukündigen, soweit nicht die
-Eigentümerin oder der Eigentümer des Grundstücks oder der Räume oder
-deren Beauftragter auf die Ankündigung verzichtet.
+(1) Die bevollmächtigte Bezirksschornsteinfegerin oder der
+bevollmächtigte Bezirksschornsteinfeger hat den Termin der
+Feuerstättenschau spätestens fünf Werktage vor der Durchführung
+anzukündigen, soweit nicht die Eigentümerin oder der Eigentümer des
+Grundstücks oder der Räume oder deren Beauftragter auf die Ankündigung
+verzichtet.
 
-(2) Die Kehr- oder Überprüfungsarbeiten sind in möglichst gleichen
-Zeitabständen durchzuführen.
+(2) Die zuständige bevollmächtigte Bezirksschornsteinfegerin oder der
+zuständige bevollmächtigte Bezirksschornsteinfeger setzt die
+Zeitabstände für die Schornsteinfegerarbeiten nach den
+Rechtsverordnungen nach § 1 Absatz 1 Satz 2 und 3 des
+Schornsteinfeger-Handwerksgesetzes und nach der Verordnung über kleine
+und mittlere Feuerungsanlagen vom 26. Januar 2010 (BGBl. I S. 38) in
+den Feuerstättenbescheiden in möglichst gleichen Zeiträumen fest.
+Soweit nicht die Eigentümerin oder der Eigentümer des Grundstücks oder
+der Räume oder deren Beauftragter eine getrennte Durchführung wünscht,
+setzt die zuständige bevollmächtigte Bezirksschornsteinfegerin oder
+der zuständige bevollmächtigte Bezirksschornsteinfeger die Zeiträume
+in dem Feuerstättenbescheid so fest, dass Schornsteinfegerarbeiten
+innerhalb eines Kalenderjahres in einem gemeinsamen Arbeitsgang
+durchgeführt werden können.
 
-(3) In einem gemeinsamen Arbeitsgang sind durchzuführen, soweit nicht
-die Eigentümerin oder der Eigentümer des Grundstücks oder der Räume
-oder deren Beauftragter eine getrennte Durchführung wünscht,
-insbesondere:
-
-1.  bei Anlagen zur Verbrennung fester Brennstoffe, die nach § 15 der
-    Verordnung über kleine und mittlere Feuerungsanlagen wiederkehrend
-    gemessen werden:
-
-    –   Emissionsmessungen nach § 15 der Verordnung über kleine und mittlere
-        Feuerungsanlagen,
-
-
-    –   Überprüfungsarbeiten nach Anlage 1 Nummer 1.9 und
-
-
-    –   Feuerstättenschauen nach § 13 Absatz 1 Nummer 2 des
-        Schornsteinfegergesetzes;
-
-
-
-
-
-2.  bei Anlagen zur Verbrennung flüssiger Brennstoffe, die nach § 15 der
-    Verordnung über kleine und mittlere Feuerungsanlagen wiederkehrend
-    gemessen werden:
-
-    –   Emissionsmessungen nach § 15 der Verordnung über kleine und mittlere
-        Feuerungsanlagen,
-
-
-    –   Überprüfungs- und erforderlichenfalls Kehrarbeiten nach Anlage 1
-        Nummer 2.5 bis 2.10, soweit diese nicht zweckmäßigerweise zusammen mit
-        Kehr- oder Überprüfungsarbeiten nach Anlage 1 Nummer 1 oder 2.1 bis
-        2\.3 auf dem gleichen Grundstück durchgeführt werden können, und
-
-
-    –   Feuerstättenschauen nach § 13 Absatz 1 Nummer 2 des
-        Schornsteinfegergesetzes;
-
-
-
-
-
-3.  bei Anlagen zur Verbrennung gasförmiger Brennstoffe:
-
-    –   Emissionsmessungen nach § 15 der Verordnung über kleine und mittlere
-        Feuerungsanlagen,
-
-
-    –   Überprüfungs- und erforderlichenfalls Kehrarbeiten nach Anlage 1
-        Nummer 3, soweit diese nicht zweckmäßigerweise zusammen mit Kehr- oder
-        Überprüfungsarbeiten nach Anlage 1 Nummer 1 oder 2 auf dem gleichen
-        Grundstück durchgeführt werden können, und
-
-
-    –   Feuerstättenschauen nach § 13 Absatz 1 Nummer 2 des
-        Schornsteinfegergesetzes.
-
-
-
-
-
-
-
-(4) Über das Ergebnis der Feuerstättenschau hat die
-Bezirksschornsteinfegermeisterin oder der
-Bezirksschornsteinfegermeister der Eigentümerin oder dem Eigentümer
-des Grundstücks oder der Räume eine Bescheinigung auszustellen.
+(3) Über das Ergebnis der Feuerstättenschau hat die bevollmächtigte
+Bezirksschornsteinfegerin oder der bevollmächtigte
+Bezirksschornsteinfeger der Eigentümerin oder dem Eigentümer des
+Grundstücks oder der Räume eine Bescheinigung auszustellen.
 
 
 ## § 4 Durchführung der Kehr- oder Überprüfungsarbeiten
@@ -300,21 +255,28 @@ auszustellen.
 ## § 5 Formblätter
 
 Für die Formblätter nach § 4 Absatz 1 des Schornsteinfeger-
-Handwerksgesetzes ist ein Vordruck nach dem Muster der Anlage 2 zu
-verwenden. Die Bescheinigung nach § 4 Absatz 3 ist dem Formblatt als
-Anlage beizufügen.
+Handwerksgesetzes und die Bescheinigung nach § 4 Absatz 3 ist ein
+Vordruck nach dem Muster der Anlage 2 zu verwenden. Die Bescheinigung
+nach § 4 Absatz 3 ist dem Formblatt als Anlage beizufügen. Die in der
+Bescheinigung nach § 4 Absatz 3 anzugebende Messgeräte-
+Identifikationsnummer setzt sich aus Hersteller-Kurzzeichen,
+Typ-/Seriennummer, Prüfstelle und letztem Prüftermin nach Jahr und
+Monat zusammen.
 
 
 ## § 6 Gebühren
 
-Die gebührenpflichtigen Tatbestände nach § 13 Absatz 1 Nummer 1, 2, 3,
-4, 10, 12 und 13 des Schornsteinfegergesetzes ergeben sich aus Anlage
-3 zu dieser Verordnung, die Gebührensätze richten sich nach den dort
-festgesetzten Arbeitswerten. Der Arbeitswert ist in den Ländern
-Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und
-Thüringen auf einen Betrag von 0,92 Euro zuzüglich der gesetzlichen
-Umsatzsteuer, in den übrigen Ländern auf 1,01 Euro zuzüglich der
-gesetzlichen Umsatzsteuer festgesetzt.
+(1) Für die Feuerstättenschau nach § 14 Absatz 1 des Schornsteinfeger-
+Handwerksgesetzes, den Feuerstättenbescheid nach § 14 Absatz 2 des
+Schornsteinfeger-Handwerksgesetzes und anlassbezogene Überprüfungen
+nach § 15 Satz 1 des Schornsteinfeger-Handwerksgesetzes, soweit
+tatsächlich Mängel festgestellt wurden, sind Gebühren nach Anlage 3 zu
+dieser Verordnung zu entrichten.
+
+(2) Die Gebührensätze richten sich nach den in Anlage 3 zu dieser
+Verordnung festgesetzten Arbeitswerten. Der Arbeitswert ist auf einen
+Betrag von 1,05 Euro zuzüglich der gesetzlichen Umsatzsteuer
+festgesetzt.
 
 
 ## § 7 Begriffsbestimmungen
@@ -335,10 +297,13 @@ Dezember 2012 außer Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 Absatz 4)
 
-## Anlage 1 (zu § 1 Absatz 4) Anzahl der Kehrungen und Überprüfungen
+## Anlage 1 Anzahl der Kehrungen und Überprüfungen
 
-(Fundstelle: BGBl. I 2009, 1295 - 1296)
+(Fundstelle: BGBl. I 2009, 1295 - 1296; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
 
 *    *   Anlagen und deren Benutzung
         (soweit sie nach § 1 der Kehrung oder Überprüfung unterliegen)
@@ -516,8 +481,9 @@ Der Bundesrat hat zugestimmt.
 
 *    *   2.8
 
-    *   Anlagen nach 2.6 zur ausschließlichen Verbrennung von schwefelarmem
-        Heizöl nach DIN 51603, sofern es sich um eine raumluftabhängige
+    *   Anlagen nach Nummer 2.6, die mit schwefelarmem Heizöl nach DIN 51603
+        Teil 1 oder anderen leichten Heizölen mit gleichwertiger Qualität
+        betrieben werden, sofern es sich um eine raumluftabhängige
         Brennwertfeuerstätte an einer Abgasanlage für Überdruck oder eine
         raumluftunabhängige Feuerstätte handelt
 
@@ -528,15 +494,26 @@ Der Bundesrat hat zugestimmt.
 
 *    *   2.9
 
-    *   Anlage nach 2.8 mit selbstkalibrierender kontinuierlicher Regelung des
-        Verbrennungsprozesses
+    *   Anlage nach Nummer 2.7, die mit schwefelarmem Heizöl nach DIN 51603
+        Teil 1 oder anderen leichten Heizölen mit gleichwertiger Qualität
+        betrieben werden
+
+    *
+    *   einmal in
+        jedem zweiten Kalenderjahr
+
+
+*    *   2.10
+
+    *   Anlage nach Nummer 2.8 mit selbstkalibrierender kontinuierlicher
+        Regelung des Verbrennungsprozesses
 
     *
     *   einmal in
         jedem dritten Kalenderjahr
 
 
-*    *   2.10
+*    *   2.11
 
     *   ortsfeste Netzersatzanlage (Notstromaggregat)
 
@@ -604,1066 +581,1703 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 2 (zu § 5)
 
-(Fundstelle: BGBl. I 2011, 1078 - 1082)
+(Fundstelle: BGBl. I 2013, 762 - 772)
+
+## **Formblatt**
+
+
+*    *
+    *
+    *
+
+*    *
+    *
+
+*    *
+    *   Datum des Feuerstättenbescheides:
+
+
+*    *
+    *
+
+*    *
+    *   Objektnummer laut Feuerstättenbescheid:
 
 
 
-## Anlage 3 (zu § 6) Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2009, 1301 - 1304; bzgl. einzelner Änderungen
-vgl. Fußnote)
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Bevollmächtigte(r) Bezirksschornsteinfeger(in)
+
+    *
+    *   Liegenschaft:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Formblatt zum Nachweis**
+        **der Durchführung von Schornsteinfegerarbeiten**
+[^F780527_01_BJNR129200009BJNE001202360]
+        (§ 4 Absatz 1 des Schornsteinfeger-Handwerksgesetzes – SchfHwG – vom
+        26\. November 2008
+        , BGBl. I S. 2242)
+
+
+
+
+*    *   Folgende Anlagen sind nach der Verordnung über die Kehrung und
+        Überprüfung von Anlagen (Kehr- und Überprüfungsordnung – KÜO) vom 16.
+        Juni 2009 (BGBl. I S. 1292), nach Rechtsverordnungen nach § 1 Absatz 1
+        Satz 3 SchfHwG oder nach der Ersten Verordnung zur Durchführung des
+        Bundes-Immissionsschutzgesetzes (Verordnung über kleine und mittlere
+        Feuerungsanlagen – 1. BImSchV vom 26. Januar 2010, BGBl. I S. 38)
+        jeweils an dem angegebenen Datum gekehrt, überprüft oder überwacht
+        worden:
+
+
+
+
+*    *   **Laut Feuerstättenbescheid**
+
+    *   **Datum der**
+        **Arbeits-**
+        **ausführung**
+
+    *   **Mängel**
+        **vorhanden**
+        **ja/nein**
+
+    *   Änderungsmitteilung/Mängelart/
+        **Bemerkungen**
+        **(ggf. Verweis auf gesondertes Blatt)**
+
+
+*    *   **Nr.**
+
+    *   **Anlage**
+        **(Art/Standort oder Verweis auf Anhang)**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   Anschrift des Schornsteinfegerbetriebes
+
+    *   Die Schornsteinfegerarbeiten sind entsprechend dem
+        Feuerstättenbescheid ordnungsgemäß durchgeführt worden.
+
+
+*    *   Handwerkskammer, bei der der Betrieb in der Handwerksrolle eingetragen
+        ist bzw. bei der die Anzeige nach § 8 EU/EWR-Handwerk-Verordnung
+        erstattet wurde:
+
+    *   **
+        Datum     Unterschrift des Schornsteinfegers
+
+
+*    *
+    *   Bestätigung der Ausführung dieser Schornsteinfegerarbeiten
+
+
+*    *   **
+        Ausführende(r) Schornsteinfeger(in) (in Druckbuchstaben):
+        **
+
+    *   **
+        Datum     Unterschrift des Eigentümers/Verwalters
+
+
+
+
+## **Gasförmige Brennstoffe**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift des Schornsteinfegerbetriebes
+
+    *
+    *   Datum der Arbeitsausführung:
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^F780527_02_BJNR129200009BJNE001202360]
+   [ ] Überprüfung nach § 1 KÜO
+        [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO
+        [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV
+        [ ] Wiederkehrende Messung nach § 15 Absatz 3 1. BImSchV
+        [ ] Wiederholungsmessung nach § 14 Absatz 5 1. BImSchV
+        [ ] Wiederholungsmessung nach § 15 Absatz 5 1. BImSchV
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   Ausfertigung für
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Name und Anschrift des Eigentümers/Verwalters
+
+    *
+    *   Betreiber/Aufstellungsort der Anlage:
+
+    *
+
+*    *
+    *
+    *
+    *   Gebäudeteil:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Bescheinigung**
+
+    *   über das Ergebnis der Überprüfung und Messung an einer Feuerstätte für
+        gasförmige Brennstoffe gemäß der Verordnung über die Kehrung und
+        Überprüfung von Anlagen (Kehr- und Überprüfungsordnung – KÜO) vom 16.
+        Juni 2009 (BGBl. I S. 1292), nach Rechtsverordnungen nach § 1 Absatz 1
+        Satz 3 SchfHwG oder der Ersten Verordnung zur Durchführung des Bundes-
+        Immissionsschutzgesetzes (Verordnung über kleine und mittlere
+        Feuerungsanlagen – 1. BImSchV vom 26. Januar 2010, BGBl. I S. 38)
+
+
+
+
+*    *   **Wärmeaustauscher:**Hersteller, Typ, Herstell-Nr., Errichtung
+
+    *   Leistungsbereich/Leistung bei
+        der Messung
+
+    *   Nennleistung
+
+
+*    *   **Brenner:**Hersteller, Typ, Herstell-Nr., Errichtung
+
+    *   Brennerart
+
+    *   Leistungsbereich/Leistung bei
+        der Messung
+
+    *   Brennstoff
+
+
+*    *   Feuerstättenart
+
+    *
+    *   Art der Anlage
+
+
+
+
+*    *   **Überprüfungsergebnis gemäß KÜO** (* = in Ordnung, X = mangelhaft, –
+        = nicht zutreffend):
+
+
+*    *   Verbrennungsluft/Lüftung
+
+    *
+    *   Abgasabzug:
+
+    *
+    *   Abgasleitung
+
+    *
+    *
+
+*    *   Feuerstätte:
+
+    *
+    *   – an der Strömungssicherung
+
+    *
+    *   O
+        2-Gehalt im Abgas
+
+    *
+    *   %
+
+
+*    *   – Befestigung/Abstände
+
+    *
+    *   – in Brennerhöhe
+
+    *
+    *   unverdünnter CO-Gehalt
+
+    *
+    *   ppm
+
+
+*    *   – äußerer Zustand
+
+    *
+    *   – an anderer Stelle
+
+    *
+    *   O
+        2-Differenz im Ringspalt
+
+    *
+    *   %
+
+
+*    *   Brenner/Heizgasweg
+
+    *
+    *   Abgasklappe
+
+    *
+    *   Lufttemperatur im Ringspalt
+
+    *
+    *   *C
+
+
+*    *   Flammenbild
+
+    *
+    *   Verbindungsstück
+
+    *
+    *   Druckdifferenz im Ringspalt
+
+    *
+    *   Pa
+
+
+*    *
+        *            *   [ ] Folgende Mängel wurden festgestellt:
+
+            *   [ ] Es wurden keine Mängel festgestellt.
+
+
+
+
+
+*    *   [ ] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine
+        Überprüfung durch einen Fachbetrieb wird empfohlen.
+        [ ] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu
+        beseitigen.
+        [ ] Aufgrund der festgestellten Mängel ist eine zusätzliche
+        Überprüfung der Feuerungsanlage erforderlich.
+
+
+
+
+*    *   **Messergebnis gemäß 1. BImSchV:**
+
+    *   Grenzwert für Abgasverlust
+
+    *   %
+
+
+*    *   Wärmeträgertemperatur
+
+    *   *C
+
+    *   Verbrennungslufttemperatur
+
+    *   *C
+
+    *   Abgastemperatur
+
+    *   *C
+
+
+*    *   Sauerstoffgehalt im Abgas
+
+    *   %
+
+    *   Druckdifferenz
+
+    *   Pa
+
+    *   Abgasverlust
+
+    *   **%**
+
+
+*    *   [ ] Das Messergebnis entspricht der Verordnung.
+
+    *   Messunsicherheit
+
+    *   %
+
+
+*    *   [ ] Das Messergebnis entspricht **nicht** ** der Verordnung, weil
+        .....
+        Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen
+        an der Anlage zu treffen.
+        Die Messung ist bis zum **** …………………………………………… zu wiederholen.
+
+
+*    *   Bemerkungen:
+
+
+
+
+*    *   **Messgeräte-Identifikationsnummer(n)**
+
+    *
+
+
+
+*    *
+        *            *   **
+                Datum
+
+            *   Unterschrift des Schornsteinfegers
+
+
+
+
+    *   Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu
+        beseitigen sind, oder das Messergebnis nicht der Verordnung
+        entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt
+        sind bzw. die Wiederholungsmessung erfolgen kann.
+
+
+
+
+## **Flüssige Brennstoffe**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift des Schornsteinfegerbetriebes
+
+    *
+    *   Datum der Arbeitsausführung:
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^F780527_03_BJNR129200009BJNE001202360]
+   [ ] Überprüfung nach § 1 KÜO
+        [ ] Wiederholungsmessung nach § 1 Absatz 2 KÜO
+        [ ] Erstmessung nach § 14 Absatz 2 1. BImSchV
+        [ ] Wiederkehrende Messung nach § 15 Absatz 3 1. BImSchV
+        [ ] Wiederholungsmessung nach § 14 Absatz 5 1. BImSchV
+        [ ] Wiederholungsmessung nach § 15 Absatz 5 1. BImSchV
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   Ausfertigung für
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Name und Anschrift des Eigentümers/Verwalters
+
+    *
+    *   Betreiber/Aufstellungsort der Anlage:
+
+    *
+
+*    *
+    *
+    *
+    *   Gebäudeteil:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Bescheinigung**
+
+    *   über das Ergebnis der Überprüfung und Messung an einer Feuerstätte für
+        flüssige Brennstoffe gemäß der Verordnung über die Kehrung und
+        Überprüfung von Anlagen (Kehr- und Überprüfungsordnung – KÜO) vom 16.
+        Juni 2009 (BGBl. I S. 1292), nach Rechtsverordnungen nach § 1 Absatz 1
+        Satz 3 SchfHwG oder der Ersten Verordnung zur Durchführung des Bundes-
+        Immissionsschutzgesetzes (Verordnung über kleine und mittlere
+        Feuerungsanlagen – 1. BImSchV vom 26. Januar 2010, BGBl. I S. 38)
+
+
+
+
+*    *   **Wärmeaustauscher:**Hersteller, Typ, Herstell-Nr., Errichtung
+
+    *   Leistungsbereich/Leistung bei
+        der Messung
+
+    *   Nennleistung
+
+
+*    *   **Brenner:**Hersteller, Typ, Herstell-Nr., Errichtung
+
+    *   Brennerart
+
+    *   Leistungsbereich/Leistung bei
+        der Messung
+
+    *   Brennstoff
+
+
+*    *   Feuerstättenart
+
+    *
+    *   Art der Anlage
+
+
+*    *   Herstellerbescheinigung nach § 6 1. BImSchV  [ ] Ja   [ ]  Nein
+
+
+
+
+*    *   **Überprüfungsergebnis gemäß KÜO** (* = in Ordnung, X = mangelhaft, –
+        = nicht zutreffend):
+
+
+*    *   Verbrennungsluft/Lüftung
+
+    *
+    *   Brenner/Heizgasweg
+
+    *
+    *   Verbindungsstück
+
+    *
+    *
+
+*    *   Feuerstätte:
+
+    *
+    *   Abgasabzug:
+
+    *
+    *   Abgasleitung
+
+    *
+    *
+
+*    *   – Befestigung/Abstände
+
+    *
+    *   – in Brennerhöhe
+
+    *
+    *   unverdünnter CO-Gehalt
+
+    *
+    *   ppm
+
+
+*    *   – äußerer Zustand
+
+    *
+    *   – an anderer Stelle
+
+    *
+    *   O
+        2-Differenz im Ringspalt
+
+    *
+    *   %
+
+
+*    *   [ ]  Folgende Mängel wurden festgestellt:
+
+    *   Lufttemperatur im Ringspalt
+
+    *
+    *   *C
+
+
+*    *   Druckdifferenz im Ringspalt
+
+    *
+    *   Pa
+
+
+*    *   [ ]  Es wurden keine Mängel festgestellt.
+
+
+*    *   [ ] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine
+        Überprüfung durch einen Fachbetrieb wird empfohlen.
+        [ ] Die Mängel sind aus Sicherheitsgründen bis zum ………………………… zu
+        beseitigen.
+        [ ] Aufgrund der festgestellten Mängel ist eine zusätzliche
+        Überprüfung der Feuerungsanlage erforderlich.
+
+
+
+
+*    *
+    *   **Grenzwerte:**
+
+    *   Rußzahl
+
+    *
+    *   CO-Gehalt
+
+    *   1 300
+        ![bgbl1_2013_j0760-1_0010.jpg](bgbl1_2013_j0760-1_0010.jpg)
+
+*    *   **Messergebnis gemäß 1. BImSchV:**
+
+    *   Ölderivate
+
+    *   Keine
+
+    *   Abgasverlust
+
+    *   %
+
+
+*    *   Rußzahl-Einzelwerte
+
+    *
+    *
+    *
+    *   Rußzahl-Mittelwert
+
+    *
+    *   Ölderivate
+
+    *
+    *   CO-Gehalt
+
+    *        ![bgbl1_2013_j0760-1_0020.jpg](bgbl1_2013_j0760-1_0020.jpg)
+
+*    *   Wärmeträgertemperatur
+
+    *   *C
+
+    *   Verbrennungslufttemperatur
+
+    *   *C
+
+    *   Abgastemperatur
+
+    *   °C
+
+
+*    *   Sauerstoffgehalt im Abgas
+
+    *   %
+
+    *   Druckdifferenz
+
+    *   Pa
+
+    *   Abgasverlust
+
+    *   %
+
+
+*    *   [ ] Das Messergebnis entspricht der Verordnung.
+
+    *   Messunsicherheit
+
+    *   %
+
+
+*    *   [ ] Das Messergebnis entspricht **nicht** ** der Verordnung, weil
+        …………………………………………………………………………………..
+        Der Betreiber ist verpflichtet, die notwendigen Verbesserungsmaßnahmen
+        an der Anlage zu treffen.
+        Die Messung ist bis zum ………………………… **** zu wiederholen.
+
+
+*    *   Bemerkungen:
+
+
+
+
+*    *   **Messgeräte-Identifikationsnummer(n)**
+
+    *
+
+
+
+*    *
+        *            *   **
+                Datum
+
+            *   Unterschrift des Schornsteinfegers
+
+
+
+
+    *   Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu
+        beseitigen sind, oder das Messergebnis nicht der Verordnung
+        entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt
+        sind bzw. die Wiederholungsmessung erfolgen kann.
+
+
+
+
+## **Heizkessel für feste Brennstoffe**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift des Schornsteinfegerbetriebes
+
+    *
+    *   Datum der Arbeitsausführung:
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^F780527_04_BJNR129200009BJNE001202360]
+   [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV
+        [ ] Messung und Überprüfung nach § 14 Absatz 2 1. BImSchV
+        [ ] Messung und Überprüfung nach § 15 Absatz 1 bzw. § 25 Absatz 4 1.
+        BImSchV
+        [ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV
+        [ ] Beratung nach § 4 Absatz 8 bzw. § 25 Absatz 5 1. BImSchV
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   Ausfertigung für
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Name und Anschrift des Eigentümers/Verwalters
+
+    *
+    *   Betreiber/Aufstellungsort der Anlage:
+
+    *
+
+*    *
+    *
+    *
+    *   Gebäudeteil:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Bescheinigung**
+
+    *   über das Ergebnis der Überprüfung, Messung und Beratung für eine
+        Feuerungsanlage für feste Brennstoffe gemäß der Ersten Verordnung zur
+        Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über
+        kleine und mittlere Feuerungsanlagen – 1. BImSchV vom 26. Januar 2010,
+        BGBl. I S. 38)
+
+
+
+
+*    *   **Feuerstätte:**Hersteller, Typ, Herstell-Nr.
+
+    *   Baujahr
+
+    *   Datum/Jahr der Errichtung
+
+    *   Leistungsbereich/Nennwärmeleistung
+        kW
+
+
+*    *   Feuerstättenbauart
+
+    *   Beschickungsart
+
+    *   Art der Anlage
+
+    *   Teillastmessung
+        [ ]  ja  [ ]  nein
+
+
+*    *   Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.)
+
+    *   Wärmespeicher vorhanden
+        [ ]  ja  [ ]  nein
+
+    *   Wärmespeichervolumen
+        Liter
+
+
+
+
+*    *   Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz
+        1):
+
+    *   [ ]  ja  [ ] nein
+
+
+*    *   Vorhandenes Wärmespeichervolumen ausreichend (§ 5 Absatz 4):
+
+    *   [ ]  ja  [ ] nein
+
+
+*    *   Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§
+        19 Absatz 1 Nummer 1):
+
+    *   [ ]  ja  [ ] nein
+
+
+*    *   Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19
+        Absatz 1 Nummer 2):
+
+    *   [ ]  ja  [ ] nein
+
+
+*    *   Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4
+        Absatz 1) bzw. § 5 Absatz 2 und 3 geeignet:
+
+    *   [ ] ja  [ ]  nein
+
+
+
+
+*    *   **Messergebnis** (Werte im Abgas):
+
+    *   Kohlenmonoxidgehalt
+
+    *   Staubgehalt
+
+
+*    *   Wärmeträgertemperatur
+        *C
+
+    *   Sauerstoffgehalt
+        %
+
+    *   Grenzwert (§ 5 Absatz 1 bzw. § 25 Absatz 2)
+
+    *   g/m
+        3
+
+    *   g/m
+        3
+
+
+*    *   Messunsicherheit (Anlage 2 Nummer 2.3)
+
+    *   g/m
+        3
+
+    *   g/m
+        3
+
+
+*    *   Abgastemperatur
+        *C
+
+    *   Druckdifferenz
+        Pa
+
+    *   Messwert bezogen auf … % Sauerstoff
+        (Anlage 2 Nummer 2.2)
+
+    *   g/m
+        3
+
+    *   g/m
+        3
+
+
+*    *   Messwert abzüglich Messunsicherheit
+        (Anlage 2 Nummer 2.3)
+
+    *   g/m
+        3
+
+    *   g/m
+        3
+
+
+
+
+*    *   [ ] Das Ergebnis entspricht der Verordnung.
+
+
+*    *   [ ] Das Ergebnis entspricht **nicht** ** der Verordnung, weil
+
+
+*    *   [ ] Die Mängel sind zu beseitigen. Danach ist bis zum
+        …………………………………………… eine Wiederholungsüberprüfung erforderlich.
+        Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
+
+
+
+
+*    *   Beratung wurde in folgenden Punkten durchgeführt
+        ****(§ 4 Absatz 8, für handbeschickte Feuerungsanlagen):
+        [ ] Sachgerechte Bedienung der Feuerungsanlage
+        [ ] Ordnungsgemäße Lagerung des Brennstoffes
+        [ ] Besonderheiten beim Umgang mit festen Brennstoffen
+
+    *   [ ] **Feuchtegehalt im Brennstoff wurde gemessen**
+        (§ 3 Absatz 3):
+        Mittelwert:     %
+        Sofern der Feuchtegehalt … % oder mehr beträgt, ist der Brennstoff vor
+        der Verwendung nachzutrocknen.
+
+
+
+
+*    *   **Messgeräte-Identifikationsnummer(n)**
+
+    *
+
+
+
+*    *   Bemerkungen:
+
+    *
+
+
+
+*    *
+        *            *   **
+                Datum
+
+            *   Unterschrift des Schornsteinfegers
+
+
+
+
+    *   Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu
+        beseitigen sind, oder das Messergebnis nicht der Verordnung
+        entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt
+        sind bzw. die Wiederholungsüberprüfung erfolgen kann.
+
+
+
+
+## **Einzelraumfeuerungsanlagen für feste Brennstoffe**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift des Schornsteinfegerbetriebes
+
+    *
+    *   Datum der Arbeitsausführung:
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^F780527_05_BJNR129200009BJNE001202360]
+   [ ] Überprüfung nach § 14 Absatz 1 1. BImSchV
+        [ ] Überprüfung nach § 14 Absatz 2 1. BImSchV
+        [ ] Überprüfung nach § 15 Absatz 2 1. BImSchV
+        [ ] Wiederholungsüberprüfung nach § 14 Absatz 5 1. BImSchV
+        [ ] Beratung nach § 4 Absatz 8 bzw. § 26 Absatz 7 1. BImSchV
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   Ausfertigung für
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Name und Anschrift des Eigentümers/Verwalters
+
+    *
+    *   Betreiber/Aufstellungsort der Anlage:
+
+    *
+
+*    *
+    *
+    *
+    *   Gebäudeteil:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Bescheinigung**
+
+    *   über das Ergebnis der Überprüfung und Beratung für eine
+        Feuerungsanlage für feste Brennstoffe gemäß der Ersten Verordnung zur
+        Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über
+        kleine und mittlere Feuerungsanlagen – 1. BImSchV vom 26. Januar 2010,
+        BGBl. I S. 38)
+
+
+
+
+*    *   **Feuerstätte:**Hersteller, Typ, Herstell-Nr.
+
+    *   Datum auf dem Typenschild
+
+    *   Datum/Jahr der Errichtung
+
+    *   Leistungsbereich/Nennwärmeleistung
+        kW
+
+
+*    *   Feuerstättenbauart nach Anlage 4
+
+    *   Beschickungsart
+
+    *   Art der Anlage
+
+
+*    *   Eingesetzte Brennstoffe nach § 3 Absatz 1 (Nr.)
+
+
+
+
+*    *   *Positive Prüfbescheinigung liegt vor (§ 4 Absatz 3 oder Absatz 5
+        Nummer 2)
+
+
+*    *   *Offener Kamin oder historische Feuerstätte, zugelassen nur für
+        gelegentlichen Betrieb (§ 4 Absatz 4)
+
+
+*    *   *Einrichtung zur Reduzierung der Staubemissionen vorhanden (§ 4 Absatz
+        5)
+
+
+*    *   *Messung durch eine Schornsteinfegerin oder einen Schornsteinfeger
+        positiv (§ 4 Absatz 5 Nummer 1)
+
+
+
+
+*    *   Ordnungsgemäßer technischer Zustand der Feuerungsanlage (§ 4 Absatz
+        1):
+
+    *   [ ]  ja  [ ]  nein
+
+
+*    *   Feuerungsanlage nach Herstellerangaben für verwendete Brennstoffe (§ 4
+        Absatz 1) geeignet:
+
+    *   [ ]  ja  [ ]  nein
+
+
+*    *   Abstand der Austrittsöffnung des Schornsteins zum Dach ausreichend (§
+        19 Absatz 1 Nummer 1):
+
+    *   [ ]  ja  [ ]  nein
+
+
+*    *   Abstand zu Lüftungsöffnungen, Fenstern und Türen ausreichend (§ 19
+        Absatz 1 Nummer 2):
+
+    *   [ ]  ja  [ ]  nein
+
+
+
+
+*    *   [ ] Das Ergebnis entspricht der Verordnung.
+
+
+*    *   [ ] Das Ergebnis entspricht **nicht** ** der Verordnung, weil
+
+
+*    *   [ ] Die Mängel sind zu beseitigen. Danach ist bis zum
+        …………………………………………… eine Wiederholungsüberprüfung erforderlich.
+        Geben Sie bitte Nachricht, sobald diese erfolgen kann (§ 14 Absatz 5).
+
+
+
+
+*    *   Beratung wurde in folgenden Punkten durchgeführt
+        ****(§ 4 Absatz 8, für handbeschickte Feuerungsanlagen):
+        [ ] Sachgerechte Bedienung der Feuerungsanlage
+        [ ] Ordnungsgemäße Lagerung des Brennstoffes
+        [ ] Besonderheiten beim Umgang mit festen Brennstoffen
+
+    *   [ ] **Feuchtegehalt im Brennstoff wurde gemessen**
+        (§ 3 Absatz 3):
+        Mittelwert:     %
+        Sofern der Feuchtegehalt … % oder mehr beträgt, ist der Brennstoff vor
+        der Verwendung nachzutrocknen.
+
+
+
+
+*    *   Bemerkungen:
+
+    *
+
+
+
+*    *   **Messgeräte-Identifikationsnummer(n)**
+
+    *
+
+
+
+*    *
+        *            *   **
+                Datum
+
+            *   Unterschrift des Schornsteinfegers
+
+
+
+
+    *   Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu
+        beseitigen sind, oder das Messergebnis nicht der Verordnung
+        entspricht, geben Sie bitte Nachricht, sobald die Mängel beseitigt
+        sind bzw. die Wiederholungsüberprüfung erfolgen kann.
+
+
+
+
+**Blockheizkraftwerke (BHKW), Wärmepumpen,**
+## **ortsfeste Verbrennungsmotoren und Brennstoffzellenheizgeräte**
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Anschrift des Schornsteinfegerbetriebes
+
+    *
+    *   Datum der Arbeitsausführung:
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *[^F780527_06_BJNR129200009BJNE001202360]
+   [ ] Überprüfung nach § 1 KÜO
+        [ ] Wiederholungsüberprüfung nach § 1 Absatz 2 KÜO
+
+    *
+
+*    *
+    *
+    *
+
+*    *
+    *   Ausfertigung für
+
+    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Name und Anschrift des Eigentümers/Verwalters
+
+    *
+    *   Betreiber/Aufstellungsort der Anlage:
+
+    *
+
+*    *
+    *
+    *
+    *   Gebäudeteil:
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   **Bescheinigung**
+
+    *   über das Ergebnis der Überprüfung an
+        [ ] einem Blockheizkraftwerk (BHKW)
+        [ ] einem ortsfesten Verbrennungsmotor
+        [ ] einem Notstromaggregat
+        für
+
+    *   [ ] einer Wärmepumpe
+        [ ] einem Brennstoffzellenheizgerät
+        [ ] …
+
+
+*    *
+    *   [ ] gasförmige Brennstoffe   [ ] flüssige Brennstoffe   [ ] feste
+        Brennstoffe
+
+
+*    *   ****
+
+    *   gemäß der Verordnung über die Kehrung und Überprüfung von Anlagen
+        (Kehr- und Überprüfungsordnung – KÜO) vom 16. Juni 2009 (BGBl. I S.
+        1292) oder nach Rechtsverordnungen nach § 1 Absatz 1 Satz 3 SchfHwG
+
+
+
+
+*    *   **Anlagenbeschreibung:**Hersteller, Typ, Herstell-Nr., Errichtung
+
+
+*    *   Nennleistung
+
+    *   Thermische Leistung
+
+    *   Aufstellraum
+
+    *   Raumgröße
+
+
+*    *   raumluftabhängig   [ ] **Sonstiges:**
+        raumluftunabhängig    [ ]
+
+    *
+
+
+
+*    *   **Abgasanlage** für
+
+
+*    *   ****[ ] Unterdruck (N)
+
+    *   [ ] Überdruck (P)
+
+    *   [ ] hohen Überdruck (H)
+
+    *   [ ] …
+
+    *   [ ] dicht geschweißt
+
+
+
+
+*    *   **Überprüfungsergebnis gemäß KÜO** (* = in Ordnung, X = mangelhaft, –
+        = nicht zutreffend):
+
+
+*    *   Verbrennungsluft/Lüftung
+
+    *
+    *   Abgasabzug:
+
+    *
+    *   O
+        2-Gehalt im Abgas
+
+    *   %
+
+
+*    *   Gerät:
+
+    *
+    *   – am Gerät
+
+    *
+    *   unverdünnter CO-Gehalt
+
+    *   ppm
+
+
+*    *   – Standsicherheit
+
+    *
+    *   – am Abgasstutzen
+
+    *
+    *   O
+        2-Differenz im Ringspalt
+
+    *   %
+
+
+*    *   – äußerer Zustand
+
+    *
+    *   – am Schalldämpfer
+
+    *
+    *   Lufttemperatur im Ringspalt
+
+    *   *C
+
+
+*    *   – Abstände
+
+    *
+    *   Verbindungsstück
+
+    *
+    *   Druckdifferenz im Ringspalt
+
+    *   Pa
+
+
+*    *   Schalldämpfer
+
+    *
+    *   Abgasleitung
+
+    *
+    *   Abgastemperatur
+
+    *   *C
+
+
+*    *
+        *            *   [ ]  Folgende Mängel wurden festgestellt:
+
+            *   [ ]  Es wurden keine Mängel festgestellt.
+
+
+
+
+
+*    *   [ ] Die Mängel stellen z. Zt. noch keine unmittelbare Gefahr dar, eine
+        Überprüfung durch einen Fachbetrieb wird empfohlen.
+        [ ] Die Mängel sind aus Sicherheitsgründen bis zum ……………… zu
+        beseitigen.
+        [ ] Aufgrund der festgestellten Mängel ist eine zusätzliche
+        Überprüfung der Feuerungsanlage erforderlich.
+
+
+
+
+*    *   **Messgeräte-Identifikationsnummer(n)**
+
+    *
+
+
+
+*    *
+        *            *   **
+                Datum
+
+            *   Unterschrift des Schornsteinfegers
+
+
+
+
+    *   Falls Mängel festgestellt worden sind, die innerhalb einer Frist zu
+        beseitigen sind, geben Sie bitte Nachricht, sobald die Mängel
+        beseitigt sind bzw. die Wiederholungsüberprüfung erfolgen kann.
+
+
+
+
+    Sämtliche Rechtsvorschriften dieses Formblattes beziehen sich auf die
+    jeweils geltende Fassung.
+[^F780527_01_BJNR129200009BJNE001202360]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+    die jeweils geltende Fassung.
+[^F780527_02_BJNR129200009BJNE001202360]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+    die jeweils geltende Fassung.
+[^F780527_03_BJNR129200009BJNE001202360]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+    die jeweils geltende Fassung der 1. BImSchV.
+[^F780527_04_BJNR129200009BJNE001202360]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+    die jeweils geltende Fassung der 1. BImSchV.
+[^F780527_05_BJNR129200009BJNE001202360]:     Sämtliche Rechtsvorschriften dieser Bescheinigung beziehen sich auf
+    die jeweils geltende Fassung.
+[^F780527_06_BJNR129200009BJNE001202360]: 
+(zu § 6)
+
+## Anlage 3 Gebührenverzeichnis
+
+(Fundstelle: BGBl. I 2013, 773 - 774)
+
 
 *    *   Nr.
 
     *   Bezeichnung
 
-    *   Anzahl der
-        Arbeitswerte
+    *   Anzahl der Arbeitswerte
 
 
 *    *   **1**
 
-    *   **Grundgebühr für jede Begehung (Begehungsgebühr)**
+    *   **Feuerstättenbescheid** (§ 14 Absatz 2 SchfHwG)
+
+    *
+
+*    *
+    *   Ausstellung und, soweit vom Eigentümer veranlasst, Änderung eines
+        Feuerstättenbescheides
 
     *
 
 *    *   1.1
 
-    *   Grundwert je Gebäude bei Kehrungen, Überprüfungen, Emissionsmessungen,
-        Abgaswegüberprüfungen und Feuerstättenschauen
+    *   –
 
-    *
+    *   bei bis zu 3 Feuerungsanlagen
 
-*    *   1.1.1
-
-    *
-        –   für Kehr- und Überprüfungsarbeiten, die an senkrechten Teilen von
-            Abgasanlagen durchgeführt werden
-
-
-
-
-    *   9,2
-
-
-*    *   1.1.2
-
-    *
-        –   für Emissionsmessungen, Abgaswegüberprüfungen und Feuerstättenschauen,
-            wenn keine Kehr- und Überprüfungsarbeiten an senkrechten Teilen von
-            Abgasanlagen durchgeführt werden
-
-
-
-
-    *   3,5
-
-
-*    *   1.1.3
-
-    *   Werden Überprüfungs- und Messarbeiten nach § 3 Absatz 3 Nummer 2 KÜO
-        in einem Arbeitsgang durchgeführt, erhöht sich die Gebühr nach Nummer
-        1\.1.1 auf
-
-    *   12,9
-
-
-*    *   1.1.4
-
-    *   Werden Überprüfungsarbeiten nach § 1 Absatz 1 Nummer 2 oder
-        Emissionsmessungen nach § 15 1. BImSchV zusammen mit Kehrarbeiten nach
-        Anlage 1 Nummer 1.1 bis 1.8 und 2.1 bis 2.3 in einem Arbeitsgang
-        durchgeführt, erhöht sich die Gebühr nach Nummer 1.1.1 auf
-
-    *   18,9
+    *   10,0
 
 
 *    *   1.2
 
-    *   Anteilige Fahrtpauschale für die An- und Abfahrt – unter Beachtung von
-        § 3 Absatz 3 – für jeden notwendigen Arbeitsgang je Nutzungseinheit,
-        in der Arbeiten nach den Nummern 1.1 bis 4.6 durchgeführt werden
+    *   –
 
-    *   8,2
+    *   bei mehr als 3 Feuerungsanlagen
 
+    *   zusätzlich 2,0 für jede weitere Feuerungsanlage, insgesamt höchstens
+        30,0 je Feuerstättenbescheid
 
-*    *
-    *   Anmerkung:
-
-    *
-
-*    *
-    *   Für Arbeiten nach Nummer 3.9 kann die anteilige Fahrtpauschale
-        höchstens für drei Nutzungseinheiten in einem Gebäude berechnet
-        werden.
-
-    *
 
 *    *   1.3
 
-    *   Bei Arbeiten nach Nummer 5 für zusätzliche Fahrten, für jeden im
-        Kehrbezirk zusätzlich zurückgelegten Kilometer als besonderes Entgelt
+    *   Je zusätzliche Ausfertigung eines Feuerstättenbescheides
 
-    *   1,6
+    *   2,0
 
 
 *    *   **2**
 
-    *   **Arbeitsgebühr je Kehrung**
+    *   **Feuerstättenschau** (§ 14 Absatz 1 SchfHwG)
 
     *
 
 *    *   2.1
 
-    *   Kehrarbeiten an senkrechten Teilen von Abgasanlagen je Abgasanlage,
-        für jeden vollen und angefangenen Meter
+    *   Grundwert je Gebäude einschließlich der ersten Nutzungseinheit
 
-    *   0,3
+    *   11,7
 
 
 *    *   2.2
 
-    *   Bei innenbesteigbaren Schornsteinen von mehr als 1600 cm
-        2                      Querschnitt, abweichend von Nummer 2.1 je
-        Arbeitsminute
+    *   Grundwert für jede weitere Nutzungseinheit
 
-    *   0,8
+    *   4,0
 
 
 *    *   2.3
 
-    *   Räucherkammer für jeden vollen und angefangenen Quadratmeter zu
-        kehrende Fläche
+    *   Feuerstättenschau an Abgasanlagen und Gruppen von Abgasanlagen:
+        für jeden vollen und angefangenen Meter von senkrechten Teilen von
+        alleinstehenden Abgasanlagen und Gruppen von Abgasanlagen
+
+    *   1,0
+
+
+*    *
+    *   Anmerkung:
+        Bei Abgasanlagen außerhalb von Gebäuden werden maximal 3 Meter
+        berechnet.
 
     *
-
-*    *   2.3.1
-
-    *
-        –   bei privat genutzten Anlagen
-
-
-
-
-    *   0,7
-
-
-*    *   2.3.2
-
-    *
-        –   bei gewerblich genutzten Anlagen
-
-
-
-
-    *   3,3
-
-
-*    *   2.3.3
-
-    *   Rauchwagen
-
-    *   6,7
-
-
-*    *   2.3.4
-
-    *   Raucherzeuger, je Arbeitsminute
-
-    *   0,8
-
 
 *    *   2.4
 
-    *   Abgaskanal für jeden vollen und angefangenen Meter
-
-    *
-
-*    *   2.4.1
-
-    *
-        –   bis 500 cm
-            2                            Querschnitt
-
-
-
-
-    *   1,5
-
-
-*    *   2.4.2
-
-    *
-        –   über 500 cm
-            2                            bis 2500 cm
-            2                            Querschnitt
-
-
-
-
-    *   2,4
-
-
-*    *   2.4.3
-
-    *
-        –   über 2500 cm
-            2                            Querschnitt
-
-
-
+    *   Zuschlag je Feuerstätte
 
     *   6,0
 
 
 *    *   2.5
 
-    *   Abgasrohr
+    *   Zuschläge für erhöhten Arbeitsaufwand
 
     *
 
 *    *   2.5.1
 
+    *   –
+
+    *   auf den Inseln und Halligen, mit Ausnahme der Inseln, die mit einer
+        festen Straßenverbindung mit dem Festland verbunden sind, und der
+        Hamburger Hallig, erhöhen sich die Gebühren nach Nummer 2.1 bis Nummer
+        2\.4
+
     *
-        –   für den ersten Meter (einschließlich Reinigungsöffnung und einer
-            Richtungsänderung)
 
+*    *
+    *
+    *   1.
 
+    *   für Kehrbezirke auf einer Insel oder Hallig und für Kehrbezirke, die
+        sich auf das Festland und Teile von einer Insel erstrecken, um 10
+        Prozent und
 
+    *
 
-    *   7,0
+*    *
+    *
+    *   2.
 
+    *   für Kehrbezirke, die sich auf mehrere Inseln oder Halligen oder das
+        Festland und andere als die unter Nummer 1 fallenden Inseln und
+        Halligen erstrecken, um 25 Prozent
+
+    *
 
 *    *   2.5.2
 
-    *
-        –   je weiteren vollen und angefangenen Meter
+    *   –
 
+    *   wenn das Gebäude besonders schwer erreichbar ist, insbesondere
+        Berggasthof, Alm, Jagdhütte, Forstdiensthütte, je Minute der Wegezeit
+        sowie besondere Auslagen
 
-
-
-    *   1,0
-
-
-*    *   2.5.3
-
-    *
-        –   je weitere Richtungsänderung
-
-
-
-
-    *   3,0
-
-
-*    *   2.5.4
-
-    *   Zuschlag je Rohr bei staubfreier Kehrung mittels Staubsauger
-
-    *   4,1
-
-
-*    *   2.5.5
-
-    *   Zuschläge für Abgasrohre, die nicht ausschließlich privat genutzt
-        werden
-
-    *
-
-*    *   2.5.5.1
-
-    *
-        –   je wärmegedämmte Reinigungsöffnung
-
-
-
-
-    *   6,7
-
-
-*    *   2.5.5.2
-
-    *
-        –   je Abgasrohr über Durchgangshöhe (2,5m)
-
-
-
-
-    *   4,9
+    *   0,7
 
 
 *    *   2.6
 
-    *   Rauchfang vom offenen Kamin
+    *   Zuschlag je Begehung einer Nutzungseinheit, die zweimal jeweils
+        mindestens fünf Arbeitstage vor der beabsichtigten Durchführung
+        angekündigt und ohne sachlichen Grund verhindert wurde
 
-    *   1,3
+    *   10,0
+
+
+*    *   2.7
+
+    *   Zuschlag zu den angefallenen Arbeitswerten je Feuerstättenschau, die
+        auf besonderen Wunsch ausgeführt wird
+
+    *
+
+*    *   2.7.1
+
+    *   –
+
+    *   von Montag bis Freitag vor 6.00 Uhr oder nach 18.00 Uhr oder am
+        Samstag
+
+    *   in Höhe von 50 Prozent der Beträge
+
+
+*    *   2.7.2
+
+    *   –
+
+    *   an Sonn- und gesetzlichen Feiertagen
+
+    *   in Höhe von 100 Prozent der Beträge
 
 
 *    *   **3**
 
-    *   **Arbeitsgebühr je Überprüfung einschließlich einer ggf.
-        erforderlichen Kehrung, Feuerstättenschau**
+    *   **Sonstige Arbeitsgebühren**
 
     *
 
 *    *   3.1
 
-    *   Überprüfungsarbeiten an senkrechten Teilen von Abgasanlagen je
-        Abgasanlage, für jeden vollen und angefangenen Meter bei
-
-        –   flüssigen Brennstoffen
-
-
-        –   gasförmigen Brennstoffen
-
-
-        –   unbenutzten Anlagen
-
-
-
-
-    *   0,3
-
-
-*    *   3.2
-
-    *   Abgaswegüberprüfung für Feuerstätten mit flüssigen Brennstoffen
-
-    *
-
-*    *
-    *   Anmerkung:
-
-    *
-
-*    *
-    *   Die Abgaswegüberprüfung schließt die CO-Messung, die Überprüfung der
-        Verbrennungslufteinrichtungen und die Ausstellung der Bescheinigung
-        mit ein.
-
-    *
-
-*    *   3.2.1
-
-    *
-        –   für die erste Prüfstelle in der Nutzungseinheit
-
-
-
-
-    *   13,8
-
-
-*    *   3.2.2
-
-    *
-        –   für jede weitere Prüfstelle im selben Aufstellungsraum
-
-
-
-
-    *   7,3
-
-
-*    *   3.2.3
-
-    *
-        –   für jede weitere Prüfstelle in einem anderen Aufstellungsraum
-            derselben Nutzungseinheit
-
-
-
-
-    *   8,3
-
-
-*    *   3.3
-
-    *   Abgaswegüberprüfung für raumluftabhängige Gasfeuerstätten
-
-    *
-
-*    *
-    *   Anmerkung:
-
-    *
-
-*    *
-    *   Die Abgaswegüberprüfung schließt die CO-Messung, die Überprüfung der
-        Verbrennungslufteinrichtungen und die Ausstellung der Bescheinigung
-        mit ein.
-
-    *
-
-*    *   3.3.1
-
-    *
-        –   für die erste Prüfstelle in der Nutzungseinheit
-
-
-
-
-    *   15,5
-
-
-*    *   3.3.2
-
-    *
-        –   für jede weitere Prüfstelle im selben Aufstellungsraum
-
-
-
-
-    *   8,7
-
-
-*    *   3.3.3
-
-    *
-        –   für jede weitere Prüfstelle in einem anderen Aufstellungsraum
-            derselben Nutzungseinheit
-
-
-
-
-    *   9,7
-
-
-*    *   3.4
-
-    *   Abgaswegüberprüfung für raumluftunabhängige Gasfeuerstätten
-
-    *
-
-*    *
-    *   Anmerkung:
-
-    *
-
-*    *
-    *   Die Abgaswegüberprüfung schließt die CO-Messung, die Überprüfung der
-        Verbrennungslufteinrichtungen, die Ausstellung der Bescheinigung und
-        die Ringspaltmessung mit ein.
-
-    *
-
-*    *   3.4.1
-
-    *
-        –   für die erste Prüfstelle in der Nutzungseinheit
-
-
-
-
-    *   18,9
-
-
-*    *   3.4.2
-
-    *
-        –   für jede weitere Prüfstelle im selben Aufstellungsraum
-
-
-
-
-    *   11,7
-
-
-*    *   3.4.3
-
-    *
-        –   für jede weitere Prüfstelle in einem anderen Aufstellungsraum
-            derselben Nutzungseinheit
-
-
-
-
-    *   12,2
-
-
-*    *   3.5
-
-    *   Abgaswegüberprüfung für Gasfeuerstätten ohne Gebläse mit
-        Verbrennungsluftzufuhr und Abgasabführung durch die Außenwand
-
-    *
-
-*    *
-    *   Anmerkung:
-
-    *
-
-*    *
-    *   Die Abgaswegüberprüfung schließt die CO-Messung, die Überprüfung der
-        Verbrennungslufteinrichtungen, die Ausstellung der Bescheinigung und
-        die Ringspaltmessung mit ein.
-
-    *
-
-*    *   3.5.1
-
-    *
-        –   für die erste Prüfstelle in der Nutzungseinheit
-
-
-
-
-    *   16,0
-
-
-*    *   3.5.2
-
-    *
-        –   für jede weitere Prüfstelle im selben Aufstellungsraum
-
-
-
-
-    *   8,9
-
-
-*    *   3.5.3
-
-    *
-        –   für jede weitere Prüfstelle in einem anderen Aufstellungsraum
-            derselben Nutzungseinheit
-
-
-
-
-    *   9,3
-
-
-*    *   3.6
-
-    *   Müssen im Ringspalt Reinigungsarbeiten durchgeführt werden, wird eine
-        zusätzliche Gebühr erhoben, je Arbeitsminute
-
-    *   0,8
-
-
-*    *   3.7
-
-    *   Wiederholungsüberprüfung nach § 1 Absatz 2 Satz 2
-
-    *   10,0
-
-
-*    *   3.8
-
-    *   Überprüfung von Verbrennungsluft- und Abluftanlagen nach Anlage 1
-        Nummer 1.9 und 2.4
-
-    *
-
-*    *   3.8.1
-
-    *
-        –   Leitungen je vollen und angefangenen Meter
-
-
-
-
-    *   1,0
-
-
-*    *   3.8.2
-
-    *
-        –   Jede nicht leitungsgebundene notwendige Öffnung ins Freie
-
-
-
-
-    *   0,5
-
-
-*    *   3.8.3
-
-    *   Schächte je vollen und angefangenen Meter
-
-    *   0,3
-
-
-*    *   3.9
-
-    *   Feuerstättenschau
-
-    *
-
-*    *   3.9.1
-
-    *   Für jeden vollen und angefangenen Meter von senkrechten Teilen von
-        allein stehenden Abgasanlagen und Gruppen von Abgasanlagen
-        Anmerkung:
-        Nicht berechnet werden Längen von Abgasanlagen, die sich vollständig
-        in Aufstellungsräumen befinden, in denen gleichzeitig eine
-        Abgaswegüberprüfung durchgeführt wird. Bei Abgasanlagen außerhalb von
-        Gebäuden werden maximal 3 Meter berechnet.
-
-    *   1,0
-
-
-*    *   3.9.2
-
-    *   Zuschlag je Feuerstätte
-        Anmerkung:
-        Unberücksichtigt bleiben Feuerstätten, an denen gleichzeitig eine
-        Abgaswegüberprüfung oder Emissionsmessung durchgeführt wird.
-
-    *   3,1
-
-
-*    *   **4**
-
-    *   **Arbeitsgebühr je Emissionsmessung**
-
-    *
-
-*    *   4.1
-
-    *   Anlagen zur Verbrennung flüssiger Brennstoffe in der Nutzungseinheit
-
-    *
-
-*    *   4.1.1
-
-    *
-        –   zusammen mit Tätigkeiten nach Nummer 3.2
-
-
-
-
-    *   10,3
-
-
-*    *   4.1.2
-
-    *
-        –   nicht zusammen mit Tätigkeiten nach Nummer 3.2 für die erste
-            Messstelle
-
-
-
-
-    *   19,1
-
-
-*    *   4.1.3
-
-    *
-        –   nicht zusammen mit Tätigkeiten nach Nummer 3.2 für jede weitere
-            Messstelle
-
-
-
-
-    *   17,2
-
-
-*    *   4.1.4
-
-    *   Zuschlag bei Messstellen über Durchgangshöhe (2,5 m)
-
-    *   5,8
-
-
-*    *   4.2
-
-    *   Anlagen zur Verbrennung gasförmiger Brennstoffe je Messstelle in der
-        Nutzungseinheit
-
-    *
-
-*    *   4.2.1
-
-    *
-        –   zusammen mit Tätigkeiten nach den Nummern 3.3 – 3.5
-
-
-
-
-    *   6,5
-
-
-*    *   4.2.2
-
-    *
-        –   nicht zusammen mit Tätigkeiten nach den Nummern 3.3 – 3.5 für die
-            erste Messstelle
-
-
-
-
-    *   15,3
-
-
-*    *   4.2.3
-
-    *
-        –   nicht zusammen mit Tätigkeiten nach den Nummern 3.3 – 3.5 für jede
-            weitere Messstelle
-
-
-
-
-    *   13,5
-
-
-*    *   4.2.4
-
-    *   Zuschlag bei Messstellen über Durchgangshöhe (2,5m)
-
-    *   5,8
-
-
-*    *   4.3
-
-    *   Anlagen zur Verbrennung fester Brennstoffe nach § 3 Absatz 1 Nummer 1
-        bis 3 1.BImSchV in der Nutzungseinheit
-
-    *
-
-*    *   4.3.1
-
-    *
-        –   für die erste Messstelle
-
-
-
-
-    *   62,3
-
-
-*    *   4.3.2
-
-    *
-        –   für jede weitere Messstelle
-
-
-
-
-    *   57,7
-
-
-*    *   4.4
-
-    *   Feuerungsanlagen für feste Brennstoffe nach § 3 Absatz 1 Nummer 4
-        bis 8 1.BImSchV                      in der Nutzungseinheit
-
-    *
-
-*    *   4.4.1
-
-    *
-        –   für die erste Messstelle
-
-
-
-
-    *   75,7
-
-
-*    *   4.4.2
-
-    *
-        –   für jede weitere Messstelle
-
-
-
-
-    *   70,0
-
-
-*    *   4.5
-
-    *   Auswertung der Messung staubförmiger Emissionen
-
-    *   Nach Zeit- und Sachaufwand
-
-
-*    *   4.6
-
-    *   Wiederholungsmessung
-
-    *   Wie bei Nummer 1 und Nummer 4.1
-        bis 4.5
-
-
-*    *   **5**
-
-    *   **Sonstige Arbeitsgebühren, Zuschläge, Mahngebühr, Bescheide**
-
-    *
-
-*    *   5.1
-
     *   Überprüfung des Feuchtegehalts fester Brennstoffe im Rahmen der
-        regelmäßigen Überwachung (§ 13 Absatz 1 Nummer 10 SchfG, § 15 Absatz 1
-        Satz 2 in Verbindung mit § 3 Absatz 3 1. BImSchV) und der
-        Feuerstättenschau (§ 13 Absatz 1 Nummer 10 SchfG, § 15 Absatz 2 in
-        Verbindung mit § 3 Absatz 3 1. BImSchV)
+        Feuerstättenschau (§ 14 Absatz 1 SchfHwG, § 15 Absatz 2 in Verbindung
+        mit § 3 Absatz 3 1. BImSchV)
 
     *   6,0
 
 
-*    *   5.2
+*    *   3.2
 
-    *   Überprüfung der Einhaltung der Anforderungen bei neu errichteten oder
-        wesentlich geänderten Feuerungsanlagen (§ 13 Absatz 1 Nummer 10 SchfG,
-        § 14 Absatz 2 in Verbindung mit § 4 Absatz 1 1. BImSchV), im Rahmen
-        der wiederkehrenden Überwachung (§ 13 Absatz 1 Nummer 10 SchfG, § 15
-        Absatz 1 Satz 2 in Verbindung mit § 4 Absatz 1 1. BImSchV) sowie im
-        Rahmen der Feuerstättenschau (§ 13 Absatz 1 Nummer 10 SchfG, § 15
-        Absatz 2 in Verbindung mit § 4 Absatz 1 1. BImSchV)
-
-    *   5,0
-
-
-*    *   5.3
-
-    *   Überprüfung der Anlagen- oder der Betriebsart und des Einsatzes der
-        Brennstoffe im Rahmen der wiederkehrenden Überwachung (§ 13 Absatz 1
-        Nummer 10 SchfG, § 15 Absatz 1 Satz 2 in Verbindung mit § 5 Absatz 2
-        und 3 1. BImSchV)
+    *   Überprüfung des Zeitpunktes der Einhaltung der Grenzwerte (§ 25 Absatz
+        1 1. BImSchV), Überprüfung des Datums auf dem Typschild der
+        Einzelraumfeuerungsanlagen und Information an den Betreiber (§ 14
+        Absatz 1 SchfHwG, § 26 Absatz 5 1. BImSchV)
 
     *   3,0
 
 
-*    *   5.4
-
-    *   Überprüfung der Ableitbedingungen für Abgase bei neu errichteten oder
-        wesentlich geänderten Feuerungsanlagen außerhalb der Bauabnahme (§ 13
-        Absatz 1 Nummer 10 SchfG, § 14 Absatz 1 in Verbindung mit § 19 Absatz
-        1 und 2 1. BImSchV)
-
-    *   13,0
-
-
-*    *   5.5
-
-    *   Überprüfung des Zeitpunktes der Einhaltung der Grenzwerte (§ 13 Absatz
-        1 Nummer 10 SchfG, § 25 Absatz 1 1. BImSchV), des Datums auf dem
-        Typschild und Information des Betreibers (§ 13 Absatz 1 Nummer 10
-        SchfG, § 26 Absatz 5 1. BImSchV)
-
-    *   3,0
-
-
-*    *   5.6
+*    *   3.3
 
     *   Überprüfung der Außerbetriebnahme von bestimmten Heizkesseln und der
-        Dämmung von Leitungen/Armaturen (§ 13 Absatz 1 Nummer 13 SchfG, § 26b
-        Absatz 1 EnEV)
+        Dämmung von Leitungen/Armaturen (§ 14 Absatz 1 SchfHwG,
+        § 26b Absatz 1 EnEV)
 
     *   3,0
 
 
-*    *   5.7
+*    *   3.4
 
-    *   Überprüfung bestimmter Ausstattungen von Zentralheizungen (§ 13 Absatz
-        1 Nummer 13 SchfG, § 26b Absatz 2 Nummer 1 EnEV)
+    *   Überprüfung bestimmter Ausstattungen von Zentralheizungen (§ 14 Absatz
+        1 SchfHwG, § 26b Absatz 2 Nummer 1 EnEV)
 
     *   3,0
 
 
-*    *   5.8
+*    *   3.5
 
     *   Überprüfung bestimmter Vorrichtungen an Umwälzpumpen in
-        Zentralheizungen (§ 13 Absatz 1 Nummer 13 SchfG, § 26b Absatz 2 Nummer
-        2 EnEV)
+        Zentralheizungen (§ 14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 2 EnEV)
 
     *   1,0
 
 
-*    *   5.9
+*    *   3.6
 
     *   Überprüfung der Begrenzung der Wärmeabgabe bei Leitungen/Armaturen (§
-        13 Absatz 1 Nummer 13 SchfG, § 26b Absatz 2 Nummer 3 EnEV)
+        14 Absatz 1 SchfHwG, § 26b Absatz 2 Nummer 3 EnEV)
 
     *   2,0
 
 
-*    *   5.10
+*    *   3.7
 
-    *   Ausbrennen, Ausschlagen oder chemische Reinigung von kehrpflichtigen
-        Anlagen und Einrichtungen
-
-    *   Nach Zeit- und Sachaufwand
-
-
-*    *   5.11
-
-    *   Kehr- und Überprüfungsarbeiten, für die keine bestimmten Arbeitswerte
-        festgesetzt wurden, je Arbeitsminute
+    *   Anlassbezogene Überprüfungen (§ 15 SchfHwG) je Arbeitsminute
 
     *   0,8
 
 
-*    *   5.12
 
-    *   Reinigung asbesthaltiger Abgasanlagen und notwendiger Be- und
-        Entlüftungsanlagen je Arbeitsminute
+(zu § 7)
 
-    *   0,8
-
-
-*    *   5.13
-
-    *   Zuschläge für erhöhten Arbeitsaufwand
-
-    *
-
-*    *   5.13.1
-
-    *
-        –   bei Abweichungen von den allgemein anerkannten Regeln für
-            Einrichtungen zur Überprüfung und Reinigung von Abgasanlagen, je
-            Arbeitsminute
-
-
-
-
-    *   0,8
-
-
-*    *   5.13.2
-
-    *
-        –   bei Zusatzeinrichtungen, wie Aufsätze, Abgasventilatoren,
-            Abgasreinigungseinrichtungen oder Kondensatabläufe, je Arbeitsminute
-
-
-
-
-    *   0,8
-
-
-*    *   5.13.3
-
-    *
-        –   Auf den Inseln und Halligen, mit Ausnahme der Inseln, die mit einer
-            festen Straßenverbindung mit dem Festland verbunden sind, und der
-            Hamburger Hallig, erhöhen sich die Gebühren nach Nummer 1 bis Nummer
-            5\.3
-
-            1.  für Kehrbezirke auf einer Insel oder Hallig und für Kehrbezirke, die
-                sich auf das Festland und Teile von einer Insel erstrecken, um 10
-                Prozent und
-
-
-            2.  für Kehrbezirke, die sich auf mehrere Inseln oder Halligen oder das
-                Festland und andere als die unter Nummer 1 fallenden Inseln und
-                Halligen erstrecken, um 25 Prozent.
-
-
-
-
-
-
-        Bei Bauzustandsbesichtigungen an Feuerungsanlagen nach den jeweiligen
-        Landesbauordnungen auf Inseln oder Halligen, die nicht im Zusammenhang
-        mit regelmäßig wiederkehrenden Schornsteinfegerarbeiten durchgeführt
-        werden können, kann die Bezirksschornsteinfegermeisterin oder der
-        Bezirksschornsteinfegermeister die Erstattung notwendiger
-        Übernachtungskosten bis zu einem Betrag von 20,00 Euro verlangen.
-
-    *
-
-*    *   5.13.4
-
-    *
-        –   wenn das Gebäude besonders schwer erreichbar ist, insbesondere
-            Berggasthof, Alm, Jagdhütte, Forstdiensthütte, je Minute der Wegezeit
-            sowie besondere Auslagen
-
-
-
-
-    *   0,7
-
-
-*    *   5.14
-
-    *   Zuschlag für Arbeiten, die außerhalb des üblichen Arbeitsganges
-        ausgeführt werden müssen, weil sie trotz rechtzeitiger Ankündigung
-        ohne triftigen Grund verhindert wurden
-
-    *   10,0
-
-
-*    *   5.15
-
-    *   Zuschlag zu den angefallenen Arbeitswerten nach den Nummern 1 bis 5
-        bei Arbeiten, die auf besonderen Wunsch ausgeführt werden
-
-    *
-
-*    *   5.15.1
-
-    *
-        –   von Montag – Freitag vor 6:00 Uhr oder nach 18:00 Uhr oder am Samstag
-
-
-
-
-    *   in Höhe von 50 v. H. der Beträge
-
-
-*    *   5.15.2
-
-    *
-        –   an Sonn- und gesetzlichen Feiertagen
-
-
-
-
-    *   in Höhe von 100 v. H. der Beträge
-
-
-*    *   5.16
-
-    *   Mahnung, wenn eine rückständige Gebühr innerhalb von 30 Tagen nach
-        Zustellung der Gebührenrechnung nicht bezahlt wurde
-
-    *   5,0
-
-
-*    *   5.17
-
-    *   Ausstellung eines Bescheides
-
-    *
-
-*    *   5.17.1
-
-    *
-        –   für bis zu 3 Feuerungsanlagen
-
-
-
-
-    *   10,0
-
-
-*    *   5.17.2
-
-    *
-        –   für mehr als 3 Feuerungsanlagen
-
-
-
-
-    *   10,0; zusätzlich 2,0 je zusätzlicher Feuerungsanlage, insgesamt
-        höchstens 30 je Bescheid
-
-
-
-
-## Anlage 4 (zu § 7) Begriffsbestimmungen
+## Anlage 4 Begriffsbestimmungen
 
 (Fundstelle: BGBl. I 2009, 1305 - 1306; bzgl. einzelner Änderungen
 vgl. Fußnote)
+
 Es bedeuten die Begriffe:
 
 1.  „Abgasanlage“: Anlage, wie Schornstein, Verbindungsstück,
@@ -1713,12 +2327,13 @@ Es bedeuten die Begriffe:
     bestimmt ist, durch Verbrennung Wärme zu erzeugen;
 
 
-11. „Feuerungsanlage“ (abweichend von der bauordnungsrechtlichen
-    Begriffsbestimmung): Einheit von Verbrennungsluftversorgung,
-    Feuerstätte oder Räucheranlage und Abgasanlage; wenn mehrere
+11. „Feuerungsanlage“: Einheit von Verbrennungsluftversorgung, Feuerstätte
+    oder Räucheranlage und Abgasanlage; wenn mehrere nicht
     überprüfungspflichtige Feuerstätten an eine gemeinsame Abgasanlage
-    angeschlossen sind (Mehrfachbelegung), zählt jeder Anschluss als
-    Feuerungsanlage;
+    angeschlossen sind (Mehrfachbelegung), zählt dies als eine
+    Feuerungsanlage, wenn mehrere überprüfungspflichtige Feuerstätten an
+    eine gemeinsame Abgasanlage angeschlossen sind, zählt jeder Anschluss
+    als Feuerungsanlage;
 
 
 12. „Gebäude“: Selbständig benutzbare, überdeckte bauliche Anlagen, die

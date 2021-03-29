@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 2826
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 22 G v. 22.12.2011 I 3044
+:   Art. 67 G v. 29.3.2017 I 626
 
 
 ## Teil 1 - Allgemeine Vorschriften
@@ -244,9 +244,9 @@ Artikel 3 Abs. 1 des Protokolls auf der Grundlage eines von der
 Konferenz der Vertragsparteien des Protokolls gefassten Beschlusses
 fortgeführt wird.
 
-(4) Die Zustimmung erfolgt auf schriftlichen Antrag des Projektträgers
-bei der zuständigen Behörde. Dem Antrag hat der Projektträger folgende
-Dokumente beizufügen:
+(4) Die Zustimmung erfolgt auf schriftlichen oder elektronischen
+Antrag des Projektträgers bei der zuständigen Behörde. Dem Antrag hat
+der Projektträger folgende Dokumente beizufügen:
 
 1.  die Projektdokumentation,
 
@@ -263,8 +263,8 @@ Die Projektdokumentation einschließlich des Überwachungsplans ist nach
 den formalen und inhaltlichen Anforderungen des Anhangs B zur Anlage
 des Beschlusses 16/CP.7 der Konferenz der Vertragsparteien des
 Übereinkommens zu erstellen. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie die formalen und
+Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie die formalen und
 inhaltlichen Anforderungen an die Projektdokumentation einschließlich
 derer für den Überwachungsplan unter Beachtung der Anhänge B und C zur
 Anlage des Beschlusses 17/CP.7 sowie des Anhangs B zur Anlage des
@@ -275,9 +275,9 @@ und mittlere Projekttätigkeiten vereinfachte Anforderungen an die
 Antragsunterlagen und den Nachweis der zu erwartenden zusätzlichen
 Emissionsminderung festgelegt werden. Die zuständige Behörde hat dem
 Projektträger den Eingang des Antrags und der beigefügten Unterlagen
-unverzüglich schriftlich zu bestätigen. Sie teilt dem Projektträger
-innerhalb von zwei Wochen mit, welche zusätzlichen Unterlagen und
-Angaben sie für ihre Entscheidung benötigt.
+unverzüglich zu bestätigen. Sie teilt dem Projektträger innerhalb von
+zwei Wochen mit, welche zusätzlichen Unterlagen und Angaben sie für
+ihre Entscheidung benötigt.
 
 (5) Die zuständige Behörde soll innerhalb von zwei Monaten nach
 Eingang der vollständigen Antragsunterlagen abschließend über den
@@ -335,9 +335,9 @@ der Projekttätigkeit, der durch öffentliche Fördermittel finanziert
 wird, Bestandteil der Referenzfallemissionen; dies gilt nicht, wenn
 die öffentlichen Fördermittel der Absicherung von Investitionen
 dienen. Wird mit der Projekttätigkeit zugleich Strom erzeugt, der die
-Voraussetzungen des § 16 Abs. 1 des Erneuerbare-Energien-Gesetzes oder
-des § 5 des Kraft-Wärme-Kopplungsgesetzes erfüllt, ist eine Zustimmung
-nach Satz 1 ausgeschlossen.
+Voraussetzungen des § 19 Abs. 1 des Erneuerbare-Energien-Gesetzes oder
+des § 6 bis 13 sowie 35 des Kraft-Wärme-Kopplungsgesetzes erfüllt, ist
+eine Zustimmung nach Satz 1 ausgeschlossen.
 
 (2) Die Zustimmung ist zu versagen, wenn
 
@@ -357,9 +357,9 @@ nach Satz 1 ausgeschlossen.
 Laufzeit befristet. Die Laufzeit darf nicht über den 31. Dezember 2012
 hinausgehen.
 
-(4) Die Zustimmung erfolgt auf schriftlichen Antrag des Projektträgers
-bei der zuständigen Behörde. Dem Antrag hat der Projektträger folgende
-Dokumente beizufügen:
+(4) Die Zustimmung erfolgt auf schriftlichen oder elektronischen
+Antrag des Projektträgers bei der zuständigen Behörde. Dem Antrag hat
+der Projektträger folgende Dokumente beizufügen:
 
 1.  die Projektdokumentation und
 
@@ -369,8 +369,8 @@ Dokumente beizufügen:
 
 
 § 3 Abs. 4 Satz 3 gilt entsprechend. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie die formalen und
+Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie die formalen und
 inhaltlichen Anforderungen an die Projektdokumentation einschließlich
 derer für den Überwachungsplan unter Beachtung der Anhänge B und C zur
 Anlage des Beschlusses 17/CP.7 sowie des Anhangs B zur Anlage des
@@ -438,9 +438,9 @@ Verifizierung beauftragten sachverständigen Stelle Gelegenheit zu
 geben, sich zu den für die Entscheidung erheblichen Tatsachen zu
 äußern.
 
-(2) Die Bestätigung erfolgt auf schriftlichen Antrag des
-Projektträgers bei der zuständigen Behörde. Dem Antrag hat der
-Projektträger folgende Dokumente beizufügen:
+(2) Die Bestätigung erfolgt auf schriftlichen oder elektronischen
+Antrag des Projektträgers bei der zuständigen Behörde. Dem Antrag hat
+der Projektträger folgende Dokumente beizufügen:
 
 1.  den Überwachungsbericht und
 
@@ -476,9 +476,9 @@ die Angaben des Projektträgers auf Richtigkeit und Vollständigkeit zu
 überprüfen sowie richtige und vollständige Angaben im Validierungs-
 und Verifizierungsbericht zu machen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung, die nicht der
+Wirtschaft und Energie durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, unter Berücksichtigung der in
 Anhang A des Beschlusses 16/CP.7 der Konferenz der Vertragsparteien
 des Übereinkommens aufgestellten Anforderungen festlegen, dass auch
@@ -490,9 +490,9 @@ Verifizierungsberichts sind die Vorgaben des Abschnitts E der Anlage
 des Beschlusses 16/CP.7 und die Abschnitte E, G und I der Anlage des
 Beschlusses 17/CP.7 der Konferenz der Vertragsparteien des
 Übereinkommens zu beachten. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie die Voraussetzungen
-und das Verfahren durch Rechtsverordnung, die nicht der Zustimmung des
+Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen mit dem
+Bundesministerium für Wirtschaft und Energie die Voraussetzungen und
+das Verfahren durch Rechtsverordnung, die nicht der Zustimmung des
 Bundesrates bedarf, regeln. Dabei ist sicherzustellen, dass bei der
 Verifizierung Doppelzählungen auf Grund unmittelbarer oder mittelbarer
 Emissionsminderungen und Doppelbegünstigungen ausgeschlossen werden.
@@ -545,9 +545,9 @@ und die Projekttätigkeit
 
 
 
-(3) Die Zustimmung erfolgt auf schriftlichen Antrag des Projektträgers
-bei der zuständigen Behörde. Dem Antrag hat der Projektträger folgende
-Dokumente beizufügen:
+(3) Die Zustimmung erfolgt auf schriftlichen oder elektronischen
+Antrag des Projektträgers bei der zuständigen Behörde. Dem Antrag hat
+der Projektträger folgende Dokumente beizufügen:
 
 1.  die Projektdokumentation,
 
@@ -577,8 +577,8 @@ beschriebenen Projekttätigkeit und der dort dargestellten
 Umweltauswirkungen zu der Einschätzung gelangt, dass nach Umfang,
 Standort und Folgen der Projekttätigkeit erhebliche nachteilige
 Umweltauswirkungen wahrscheinlich sind. Das Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und dem
+Umwelt, Naturschutz, Bau und Reaktorsicherheit kann im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie und dem
 Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, festlegen, welche Anforderungen im Einzelnen an die
@@ -660,7 +660,7 @@ Registrierung gemäß § 5 Abs. 8 einer Vorregistrierung. Die
 Vorregistrierung einer Projekttätigkeit im Rahmen einer Gemeinsamen
 Projektumsetzung im Bundesgebiet erfolgt durch die zuständige Behörde.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, das Verfahren der
 Vorregistrierung nach Absatz 3 und die Maßnahmen zu regeln, die die
@@ -672,9 +672,9 @@ Vorregistrierung nach § 5 Abs. 8 registriert wird.
 
 ### § 13 Rechtsverordnung zu Zustimmungsvoraussetzungen
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie und dem Bundesministerium für wirtschaftliche
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie und dem Bundesministerium für wirtschaftliche
 Zusammenarbeit und Entwicklung unter Beachtung der Beschlüsse 16/CP.7
 und 17/CP.7 der Konferenz der Vertragsparteien des Übereinkommens
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
@@ -684,21 +684,23 @@ Abs.1 und Versagungsgründe des § 3 Abs. 2, des § 5 Abs. 2 und des § 8
 Abs. 2 zu stellen sind.
 
 
-### § 14 Kosten
+### § 14 Gebühren und Auslagen
 
-Für Amtshandlungen nach diesem Gesetz und den zur Durchführung dieses
-Gesetzes erlassenen Rechtsverordnungen erhebt die zuständige Behörde
-Gebühren und Auslagen. Das Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit bestimmt durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die gebührenpflichtigen
-Tatbestände, die Höhe der Gebühren und die zu erstattenden Auslagen
-für Amtshandlungen nach diesem Gesetz und nach den auf Grund dieses
-Gesetzes erlassenen Rechtsverordnungen. Die Gebühr beträgt mindestens
-20 Euro; sie darf im Einzelfall 600 Euro nicht übersteigen. Bei der
-Bemessung der Gebühren sind die Anzahl der aus der Durchführung der
-Projekttätigkeiten erzeugten Emissionsreduktionseinheiten und
-zertifizierten Emissionsreduktionen sowie der mit der Amtshandlung
-verbundene Verwaltungsaufwand zu berücksichtigen.
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
+und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen
+erhebt die zuständige Behörde Gebühren und Auslagen. Das
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+bestimmt durch Rechtsverordnung, die nicht der Zustimmung des
+Bundesrates bedarf, die gebührenpflichtigen Tatbestände, die Höhe der
+Gebühren und die zu erstattenden Auslagen für individuell zurechenbare
+öffentliche Leistungen nach diesem Gesetz und nach den auf Grund
+dieses Gesetzes erlassenen Rechtsverordnungen. Die Gebühr beträgt
+mindestens 20 Euro; sie darf im Einzelfall 600 Euro nicht übersteigen.
+Bei der Bemessung der Gebühren sind die Anzahl der aus der
+Durchführung der Projekttätigkeiten erzeugten
+Emissionsreduktionseinheiten und zertifizierten Emissionsreduktionen
+sowie der mit der Leistung verbundene Verwaltungsaufwand zu
+berücksichtigen.
 
 
 ### § 15 Bußgeldvorschriften
@@ -719,8 +721,13 @@ eine Angabe nicht richtig oder nicht vollständig macht.
 einer Geldbuße bis zu hunderttausend Euro, in den übrigen Fällen mit
 einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 
+Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in
+Marrakesch vom 29. Oktober bis 10. November 2001
+Addendum
+Teil Zwei
+Von der Konferenz der Vertragsparteien ergriffene Maßnahmen
 
-### Anhang Bericht der Konferenz der Vertragsparteien über ihre siebte Tagung in Marrakesch vom 29. Oktober bis 10. November 2001 Addendum Teil Zwei Von der Konferenz der Vertragsparteien ergriffene Maßnahmen Band II
+### Anhang Band II
 
 Inhalt
 

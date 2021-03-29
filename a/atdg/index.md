@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3409
 
-Geändert durch
-:   Art. 5 G v. 26.2.2008 I 215
+Zuletzt geändert durch
+:   Art. 10 G v. 14.8.2017 I 3202
+
+Das g tritt gem. art. 5 abs. 2 g v. 22.12.2006 i 3409 mit ablauf des 30.12.2017 außer kraft, art. 5 abs. 2 aufgeh. durch
+:   Art. 4 Satz 3 G v. 18.12.2014 I 2318 mWv 1.1.2015; dadurch ist die Geltung des G über den 30.12.2017 hinaus verlängert worden
 
 
 ## § 1 Antiterrordatei
@@ -32,13 +35,14 @@ zur Aufklärung oder Bekämpfung des internationalen Terrorismus mit
 Bezug zur Bundesrepublik Deutschland eine gemeinsame standardisierte
 zentrale Antiterrordatei (Antiterrordatei).
 
-(2) Zur Teilnahme an der Antiterrordatei sind als beteiligte Behörden
-im Benehmen mit dem Bundesministerium des Innern weitere
-Polizeivollzugsbehörden berechtigt, soweit
+(2) Der Bundesminister des Innern kann, bei Landesbehörden auf
+Ersuchen des jeweils zuständigen Landes, durch Rechtsverordnung
+weitere Polizeivollzugsbehörden als beteiligte Behörden zur Teilnahme
+an der Antiterrordatei berechtigen, soweit
 
 1.  diesen Aufgaben zur Bekämpfung des internationalen Terrorismus mit
     Bezug zur Bundesrepublik Deutschland nicht nur im Einzelfall besonders
-    zugewiesen sind,
+    zugewiesen sind und
 
 
 2.  ihr Zugriff auf die Antiterrordatei für die Wahrnehmung der Aufgaben
@@ -63,32 +67,30 @@ beziehen auf
 
     a)  einer terroristischen Vereinigung nach § 129a des Strafgesetzbuchs,
         die einen internationalen Bezug aufweist, oder einer terroristischen
-        Vereinigung nach § 129a in Verbindung mit § 129b Abs. 1 Satz 1 des
-        Strafgesetzbuchs mit Bezug zur Bundesrepublik Deutschland oder
+        Vereinigung nach § 129a in Verbindung mit § 129b Absatz 1 Satz 1 des
+        Strafgesetzbuchs mit Bezug zur Bundesrepublik Deutschland angehören
+        oder diese unterstützen,
 
 
     b)  einer Gruppierung, die eine Vereinigung nach Buchstabe a unterstützt,
+        angehören oder
+
+
+    c)  eine Gruppierung nach Buchstabe b willentlich in Kenntnis der den
+        Terrorismus unterstützenden Aktivität der Gruppierung unterstützen,
 
 
 
-
-    angehören oder diese unterstützen,
 
 
 2.  Personen, die rechtswidrig Gewalt als Mittel zur Durchsetzung
     international ausgerichteter politischer oder religiöser Belange
-    anwenden oder eine solche Gewaltanwendung unterstützen, vorbereiten,
-    befürworten oder durch ihre Tätigkeiten vorsätzlich hervorrufen,
+    anwenden oder eine solche Gewaltanwendung unterstützen, vorbereiten
+    oder durch ihre Tätigkeiten, insbesondere durch Befürworten solcher
+    Gewaltanwendungen, vorsätzlich hervorrufen, oder
 
 
-3.  Personen, bei denen tatsächliche Anhaltspunkte vorliegen, dass sie mit
-    den in Nummer 1 Buchstabe a oder in Nummer 2 genannten Personen nicht
-    nur flüchtig oder in zufälligem Kontakt in Verbindung stehen und durch
-    sie weiterführende Hinweise für die Aufklärung oder Bekämpfung des
-    internationalen Terrorismus zu erwarten sind (Kontaktpersonen), oder
-
-
-4.
+3.
     a)  Vereinigungen, Gruppierungen, Stiftungen oder Unternehmen,
 
 
@@ -118,25 +120,19 @@ verarbeiten dürfen.
 (1) In der Antiterrordatei werden, soweit vorhanden, folgende
 Datenarten gespeichert:
 
-1.  zu Personen
+1.  zu Personen nach § 2 Satz 1 Nummer 1 und 2
 
-    a)  nach § 2 Satz 1 Nr. 1 bis 3: der Familienname, die Vornamen, frühere
-        Namen, andere Namen, Aliaspersonalien, abweichende
-        Namensschreibweisen, das Geschlecht, das Geburtsdatum, der Geburtsort,
-        der Geburtsstaat, aktuelle und frühere Staatsangehörigkeiten,
-        gegenwärtige und frühere Anschriften, besondere körperliche Merkmale,
-        Sprachen, Dialekte, Lichtbilder, die Bezeichnung der Fallgruppe nach §
-        2 und, soweit keine anderen gesetzlichen Bestimmungen entgegenstehen
-        und dies zur Identifizierung einer Person erforderlich ist, Angaben zu
-        Identitätspapieren (Grunddaten),
+    a)  der Familienname, die Vornamen, frühere Namen, andere Namen,
+        Aliaspersonalien, abweichende Namensschreibweisen, das Geschlecht, das
+        Geburtsdatum, der Geburtsort, der Geburtsstaat, aktuelle und frühere
+        Staatsangehörigkeiten, gegenwärtige und frühere Anschriften, besondere
+        körperliche Merkmale, Sprachen, Dialekte, Lichtbilder, die Bezeichnung
+        der Fallgruppe nach § 2 und, soweit keine anderen gesetzlichen
+        Bestimmungen entgegenstehen und dies zur Identifizierung einer Person
+        erforderlich ist, Angaben zu Identitätspapieren (Grunddaten),
 
 
-    b)  nach § 2 Satz 1 Nr. 1 und 2 sowie zu Kontaktpersonen, bei denen
-        tatsächliche Anhaltspunkte dafür vorliegen, dass sie von der Planung
-        oder Begehung einer in § 2 Satz 1 Nr. 1 Buchstabe a genannten Straftat
-        oder der Ausübung, Unterstützung oder Vorbereitung von rechtswidriger
-        Gewalt im Sinne von § 2 Satz 1 Nr. 2 Kenntnis haben, folgende weiteren
-        Datenarten (erweiterte Grunddaten):
+    b)  folgende weitere Datenarten (erweiterte Grunddaten):
 
         aa) eigene oder von ihnen genutzte Telekommunikationsanschlüsse und
             Telekommunikationsendgeräte,
@@ -195,8 +191,8 @@ Datenarten gespeichert:
             und 2 genannte Personen treffen,
 
 
-        oo) Kontaktpersonen nach § 2 Satz 1 Nr. 3 zu den jeweiligen Personen nach
-            § 2 Satz 1 Nr. 1 Buchstabe a oder Nr. 2,
+        oo) Kontaktpersonen zu den jeweiligen Personen nach § 2 Satz 1 Nr. 1
+            Buchstabe a oder Nr. 2,
 
 
         pp) die Bezeichnung der konkreten Vereinigung oder Gruppierung nach § 2
@@ -204,7 +200,7 @@ Datenarten gespeichert:
 
 
         qq) der Tag, an dem das letzte Ereignis eingetreten ist, das die
-            Speicherung der Erkenntnisse begründet, und
+            Speicherung der Erkenntnisse begründet,
 
 
         rr) auf tatsächlichen Anhaltspunkten beruhende zusammenfassende besondere
@@ -212,7 +208,11 @@ Datenarten gespeichert:
             erweiterten Grunddaten, die bereits in Dateien der beteiligten
             Behörden gespeichert sind, sofern dies im Einzelfall nach
             pflichtgemäßem Ermessen geboten und zur Aufklärung oder Bekämpfung des
-            internationalen Terrorismus unerlässlich ist,
+            internationalen Terrorismus unerlässlich ist, und
+
+
+        ss) von der Person betriebene oder maßgeblich zum Zweck ihrer Aktivitäten
+            nach § 2 Satz 1 Nummer 1 oder Nummer 2 genutzte Internetseiten,
 
 
 
@@ -221,7 +221,7 @@ Datenarten gespeichert:
 
 
 
-2.  Angaben zur Identifizierung der in § 2 Satz 1 Nr. 4 genannten
+2.  Angaben zur Identifizierung der in § 2 Satz 1 Nummer 3 genannten
     Vereinigungen, Gruppierungen, Stiftungen, Unternehmen, Sachen,
     Bankverbindungen, Anschriften, Telekommunikationsanschlüsse,
     Telekommunikationsendgeräte, Internetseiten oder Adressen für
@@ -236,9 +236,34 @@ Datenarten gespeichert:
 
 
 
-(2) Soweit zu speichernde Daten aufgrund einer anderen
+(2) Kontaktpersonen nach Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe
+oo sind Personen, bei denen tatsächliche Anhaltspunkte vorliegen, dass
+sie mit den in § 2 Satz 1 Nummer 1 Buchstabe a oder Nummer 2 genannten
+Personen nicht nur flüchtig oder in zufälligem Kontakt in Verbindung
+stehen und durch sie weiterführende Hinweise für die Aufklärung oder
+Bekämpfung des internationalen Terrorismus zu erwarten sind. Angaben
+zu Kontaktpersonen dürfen ausschließlich als erweiterte Grunddaten
+nach Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe oo mit folgenden
+Datenarten zur Identifizierung und Kontaktaufnahme gespeichert werden:
+der Familienname, die Vornamen, frühere Namen, andere Namen,
+Aliaspersonalien, abweichende Namensschreibweisen, das Geschlecht, das
+Geburtsdatum, der Geburtsort, der Geburtsstaat, die aktuelle
+Staatsangehörigkeit, die gegenwärtige Anschrift, Lichtbilder, eigene
+oder von ihnen genutzte Telekommunikationsanschlüsse sowie Adressen
+für elektronische Post, sonstige Angaben zur beruflichen
+Erreichbarkeit.
+
+(3) Soweit zu speichernde Daten aufgrund einer anderen
 Rechtsvorschrift zu kennzeichnen sind, ist diese Kennzeichnung bei der
 Speicherung der Daten in der Antiterrordatei aufrechtzuerhalten.
+
+(4) Das Bundeskriminalamt legt die Kriterien und Kategorien für die zu
+speichernden Datenarten in den Fällen des Absatzes 1 Nummer 1
+Buchstabe b Doppelbuchstabe gg, hh, ii, kk und nn in einer
+Verwaltungsvorschrift fest. Diese ist in der jeweils aktuellen Fassung
+im Bundesanzeiger zu veröffentlichen. Das Bundeskriminalamt kann
+Kriterien für die zu speichernden Datenarten in den weiteren Fällen
+des Absatzes 1 in derselben Verwaltungsvorschrift vorsehen.
 
 
 ## § 4 Beschränkte und verdeckte Speicherung
@@ -271,6 +296,47 @@ Anfragedaten sowie die Dokumentation nach Satz 3 sind spätestens zu
 löschen oder zu vernichten, wenn die verdeckt gespeicherten Daten zu
 löschen sind.
 
+(3) Personenbezogene Daten, die durch
+
+1.  Maßnahmen nach § 100a der Strafprozessordnung oder § 51 des
+    Bundeskriminalamtgesetzes,
+
+
+2.  Maßnahmen nach den §§ 100b und 100c der Strafprozessordnung oder § 46
+    des Bundeskriminalamtgesetzes,
+
+
+3.  Maßnahmen nach § 99 der Strafprozessordnung,
+
+
+4.  Maßnahmen nach § 49 des Bundeskriminalamtgesetzes,
+
+
+5.  Maßnahmen innerhalb von Wohnungen nach § 34 des
+    Bundeskriminalamtgesetzes,
+
+
+6.  Beschränkungen nach § 1 Absatz 1 des Artikel 10-Gesetzes,
+
+
+7.  Maßnahmen nach § 9 Absatz 2 des Bundesverfassungsschutzgesetzes,
+
+
+8.  Maßnahmen nach § 22a oder § 32a des Zollfahndungsdienstgesetzes,
+
+
+9.  Maßnahmen nach § 23a des Zollfahndungsdienstgesetzes oder
+
+
+
+durch Maßnahmen nach entsprechenden landesrechtlichen Regelungen
+erlangt wurden, sind verdeckt zu speichern. Sofern zu einer Person
+nach § 2 Satz 1 Nummer 1 und 2 oder einer Angabe nach § 2 Satz 1
+Nummer 3 sowohl Daten nach Satz 1 als auch andere Daten zu speichern
+sind, müssen nur die Daten nach Satz 1 verdeckt gespeichert werden
+oder kann die einstellende Behörde von der Speicherung der Daten nach
+Satz 1 absehen (beschränkte Speicherung).
+
 
 ## § 5 Zugriff auf die Daten
 
@@ -289,7 +355,7 @@ Treffers erhält die abfragende Behörde Zugriff
         Unternehmen, Sachen, Bankverbindungen, Anschriften,
         Telekommunikationsanschlüssen, Telekommunikationsendgeräten,
         Internetseiten oder Adressen für elektronische Post nach § 2 Satz 1
-        Nr. 4 auf die dazu gespeicherten Daten, und
+        Nummer 3 auf die dazu gespeicherten Daten, und
 
 
 
@@ -303,7 +369,12 @@ Auf die zu Personen gespeicherten erweiterten Grunddaten kann die
 abfragende Behörde im Falle eines Treffers Zugriff erhalten, wenn die
 Behörde, die die Daten eingegeben hat, dies im Einzelfall auf Ersuchen
 gewährt. Die Entscheidung hierüber richtet sich nach den jeweils
-geltenden Übermittlungsvorschriften.
+geltenden Übermittlungsvorschriften. Wenn die abfragende Behörde ohne
+Angabe eines Namens nach § 3 Absatz 1 Nummer 1 Buchstabe a mittels
+Angaben in den erweiterten Grunddaten sucht, erhält sie im Falle eines
+Treffers lediglich Zugriff auf die Daten nach § 3 Absatz 1 Nummer 3.
+Satz 5 gilt entsprechend, wenn die Suche trotz Angabe eines Namens
+mehrere Treffer erzeugt.
 
 (2) Die abfragende Behörde darf im Falle eines Treffers unmittelbar
 auf die erweiterten Grunddaten zugreifen, wenn dies aufgrund
@@ -335,11 +406,11 @@ und dokumentiert werden und erkennbar sein.
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff
 erhalten hat, nur zur Prüfung, ob der Treffer der gesuchten Person
-oder der gesuchten Angabe nach § 2 Satz 1 Nr. 4 zuzuordnen ist, und
-für ein Ersuchen um Übermittlung von Erkenntnissen zur Wahrnehmung
-ihrer jeweiligen Aufgabe zur Aufklärung oder Bekämpfung des
-internationalen Terrorismus verwenden. Eine Verwendung zu einem
-anderen Zweck als zur Wahrnehmung ihrer jeweiligen Aufgabe zur
+oder der gesuchten Angabe nach § 2 Satz 1 Nummer 3 zuzuordnen ist, für
+ein Ersuchen um Übermittlung von Erkenntnissen zur Wahrnehmung ihrer
+jeweiligen Aufgabe zur Aufklärung oder Bekämpfung des internationalen
+Terrorismus und zu den Zwecken nach § 6a verwenden. Eine Verwendung zu
+einem anderen Zweck als zur Wahrnehmung ihrer jeweiligen Aufgabe zur
 Aufklärung oder Bekämpfung des internationalen Terrorismus ist nur
 zulässig, soweit
 
@@ -361,7 +432,7 @@ Bekämpfung des internationalen Terrorismus unerlässlich ist.
 (3) Im Falle einer Verwendung nach Absatz 1 Satz 2 oder Absatz 2 sind
 die Daten zu kennzeichnen. Nach einer Übermittlung ist die
 Kennzeichnung durch den Empfänger aufrechtzuerhalten; Gleiches gilt
-für Kennzeichnungen nach § 3 Abs. 2.
+für Kennzeichnungen nach § 3 Absatz 3.
 
 (4) Soweit das Bundeskriminalamt und die Landeskriminalämter auf
 Ersuchen oder im Auftrag des Generalbundesanwalts die Antiterrordatei
@@ -369,6 +440,133 @@ nutzen, übermitteln sie die Daten, auf die sie Zugriff erhalten haben,
 dem Generalbundesanwalt für die Zwecke der Strafverfolgung. Der
 Generalbundesanwalt darf die Daten für Ersuchen nach Absatz 1 Satz 1
 verwenden. § 487 Abs. 3 der Strafprozessordnung gilt entsprechend.
+
+
+## § 6a Erweiterte projektbezogene Datennutzung
+
+(1) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
+gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts zur Sammlung und Auswertung von
+Informationen über eine internationale terroristische Bestrebung, bei
+der bestimmte Tatsachen die Annahme rechtfertigen, dass Straftaten des
+internationalen Terrorismus nach den §§ 129a, 129b und 211 des
+Strafgesetzbuchs begangen werden sollen und dadurch Gefahren für Leib,
+Leben oder Freiheit von Personen drohen, im Einzelfall erforderlich
+ist, um weitere Zusammenhänge des Einzelfalls aufzuklären.
+
+(2) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
+gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts für die Verfolgung qualifizierter
+Straftaten des internationalen Terrorismus im Einzelfall erforderlich
+ist, um weitere Zusammenhänge des Einzelfalls aufzuklären.
+Qualifizierte Straftaten des internationalen Terrorismus sind Taten
+des internationalen Terrorismus, die einen Straftatbestand nach den §§
+89a, 89b, 91, 102, 129a, 129b, 211 oder 212 des Strafgesetzbuchs
+erfüllen.
+
+(3) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
+gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts für die Verhinderung von qualifizierten
+Straftaten des internationalen Terrorismus erforderlich ist, um
+weitere Zusammenhänge des Einzelfalls aufzuklären, und Tatsachen die
+Annahme rechtfertigen, dass eine solche Straftat begangen werden soll.
+Absatz 2 Satz 2 gilt entsprechend.
+
+(4) Ein Projekt ist eine gegenständlich abgrenzbare und auf bestimmte
+Zeiträume bezogene Aufgabe, der durch die Gefahr oder den drohenden
+Schaden, die am Sachverhalt beteiligten Personen, die Zielsetzung der
+Aufgabe oder deren Folgewirkungen eine besondere Bedeutung zukommt.
+
+(5) Eine erweiterte Nutzung sind das Herstellen von Zusammenhängen
+zwischen Personen, Personengruppierungen, Institutionen, Objekten und
+Sachen, der Ausschluss von unbedeutenden Informationen und
+Erkenntnissen, die Zuordnung eingehender Informationen zu bekannten
+Sachverhalten sowie die statistische Auswertung der gespeicherten
+Daten. Hierzu dürfen die beteiligten Behörden des Bundes Daten auch
+mittels
+
+1.  phonetischer oder unvollständiger Daten,
+
+
+2.  der Suche über eine Mehrzahl von Datenfeldern,
+
+
+3.  der Verknüpfung von Personen, Institutionen, Organisationen, Sachen
+    oder
+
+
+4.  der zeitlichen Eingrenzung der Suchkriterien
+
+
+
+aus der Datei abfragen sowie räumliche und sonstige Beziehungen
+zwischen Personen und Zusammenhänge zwischen Personen,
+Personengruppierungen, Institutionen, Objekten und Sachen darstellen
+sowie die Suchkriterien gewichten.
+
+(6) Die Zugriffsberechtigung ist im Rahmen der projektbezogenen
+erweiterten Nutzung auf die Personen zu beschränken, die unmittelbar
+mit Arbeiten auf diesem Anwendungsgebiet betraut sind. Die
+projektbezogene erweiterte Nutzung der Datei ist auf höchstens zwei
+Jahre zu befristen. Die Frist kann zweimalig um jeweils bis zu einem
+Jahr verlängert werden, wenn die Voraussetzungen für die
+projektbezogene erweiterte Datennutzung fortbestehen und sich aus den
+mit dem Projekt gewonnenen Erkenntnissen das Bedürfnis für eine
+Fortführung des Projekts ergibt.
+
+(7) Projektbezogene Datennutzungen dürfen nur auf Antrag angeordnet
+werden. Der Antrag ist durch den Behördenleiter oder seinen
+Stellvertreter schriftlich zu stellen und zu begründen. Er muss alle
+für die Anordnung erforderlichen Angaben enthalten. Zuständig für die
+Anordnung ist die die Fachaufsicht über die antragstellende Behörde
+führende oberste Bundesbehörde. Die Anordnung ergeht schriftlich. In
+ihr sind der Grund der Anordnung, die für die projektbezogene
+erweiterte Datennutzung erforderlichen Datenarten nach § 3, der
+Funktionsumfang und die Dauer der projektbezogenen erweiterten
+Datennutzung anzugeben. Der Funktionsumfang der projektbezogenen
+erweiterten Datennutzung ist auf das zur Erreichung des Projektziels
+erforderliche Maß zu beschränken. Die Anordnung ist zu begründen. Aus
+der Begründung müssen sich die in den Absätzen 1 bis 3 genannten
+Voraussetzungen ergeben, insbesondere, dass die projektbezogene
+erweiterte Nutzung erforderlich ist, um weitere Zusammenhänge
+aufzuklären. Die anordnende Behörde hält Antrag und Anordnung für
+datenschutzrechtliche Kontrollzwecke zwei Jahre, mindestens jedoch für
+die Dauer der projektbezogenen erweiterten Nutzung vor.
+
+(8) Eine nach Absatz 7 angeordnete erweiterte Nutzung darf nur mit
+Zustimmung der G 10-Kommission (§ 15 Absatz 1 bis 4 des Artikel
+10-Gesetzes) vollzogen werden. Bei Gefahr im Verzug kann die nach
+Absatz 7 Satz 4 zuständige Behörde den Vollzug auch bereits vor der
+Zustimmung der Kommission anordnen. Anordnungen, die die Kommission
+für unzulässig oder nicht notwendig erklärt, hat die nach Absatz 7
+Satz 4 zuständige Behörde unverzüglich aufzuheben. Die aus der
+erweiterten Datennutzung gewonnenen Daten und Erkenntnisse unterliegen
+in diesem Fall einem absoluten Verwendungsverbot und sind unverzüglich
+zu löschen.
+
+(9) Für Verlängerungen nach Absatz 6 Satz 3 gelten die Absätze 7 und 8
+entsprechend.
+
+(10) Die alleinige datenschutzrechtliche Verantwortung für die
+Durchführung des Projekts trägt die antragstellende Behörde. Die
+Übermittlung von aus einem Projekt gewonnenen Erkenntnissen richtet
+sich nach den allgemeinen Übermittlungsvorschriften. § 6 Absatz 4 Satz
+1 gilt für aus einem Projekt nach Absatz 1 gewonnene Erkenntnisse
+entsprechend.
+
+(11) Die nach § 1 Absatz 1 berechtigten Landesbehörden sind nach
+Maßgabe landesrechtlicher Regelungen, die den Vorgaben der Absätze 1
+bis 10 entsprechen, befugt, die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten zu
+den in den Absätzen 1 bis 3 genannten Zwecken erweitert zu nutzen.
+Satz 1 gilt auch für Landesbehörden, die durch eine Rechtsverordnung
+nach § 1 Absatz 2 zur Teilnahme an der Datei berechtigt werden.
 
 
 ## § 7 Übermittlung von Erkenntnissen
@@ -409,22 +607,37 @@ ihre Kenntnis für Zwecke der Datenschutzkontrolle, der Datensicherung,
 zur Sicherstellung eines ordnungsgemäßen Betriebs der
 Datenverarbeitungsanlage oder zum Nachweis der Kenntnisnahme bei
 Verschlusssachen erforderlich ist. Die ausschließlich für Zwecke nach
-Satz 1 gespeicherten Protokolldaten sind nach 18 Monaten zu löschen.
+Satz 1 gespeicherten Protokolldaten sind nach zwei Jahren zu löschen.
 
 (2) Das Bundeskriminalamt hat die nach § 9 des
 Bundesdatenschutzgesetzes erforderlichen technischen und
 organisatorischen Maßnahmen zu treffen.
+
+(3) Das Bundeskriminalamt berichtet dem Deutschen Bundestag alle drei
+Jahre, erstmalig zum 1. August 2017, über den Datenbestand und die
+Nutzung der Antiterrordatei. Der Bericht ist zeitgleich mit der
+Zuleitung an den Deutschen Bundestag über den Internetauftritt des
+Bundeskriminalamts zu veröffentlichen.
 
 
 ## § 10 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 24
 Abs. 1 des Bundesdatenschutzgesetzes dem Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit. Die datenschutzrechtliche
-Kontrolle der Eingabe und der Abfrage von Daten durch eine
-Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
+Datenschutz und die Informationsfreiheit. Die von den Ländern in die
+Antiterrordatei eingegebenen Datensätze können auch von den jeweiligen
+Landesbeauftragten für den Datenschutz im Zusammenhang mit der
+Wahrnehmung ihrer Prüfungsaufgaben in den Ländern kontrolliert werden,
+soweit die Länder nach § 8 Absatz 1 verantwortlich sind. Der
+Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+arbeitet insoweit mit den Landesbeauftragten für den Datenschutz
+zusammen.
 
-(2) Über die nicht verdeckt gespeicherten Daten erteilt das
+(2) Die in Absatz 1 genannten Stellen sind im Rahmen ihrer jeweiligen
+Zuständigkeiten verpflichtet, mindestens alle zwei Jahre die
+Durchführung des Datenschutzes zu kontrollieren.
+
+(3) Über die nicht verdeckt gespeicherten Daten erteilt das
 Bundeskriminalamt die Auskunft nach § 19 des Bundesdatenschutzgesetzes
 im Einvernehmen mit der Behörde, die die datenschutzrechtliche
 Verantwortung nach § 8 Abs. 1 Satz 1 trägt und die Zulässigkeit der

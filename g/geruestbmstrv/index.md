@@ -3,7 +3,7 @@ Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsan
   in den Teilen I und II der Meisterprüfung im Gerüstbauer-Handwerk
 jurabk: GerüstbMstrV
 layout: default
-origslug: ger_stbmstrv
+origslug: geruestbmstrv
 slug: geruestbmstrv
 
 ---

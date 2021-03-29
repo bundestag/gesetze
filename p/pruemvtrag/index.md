@@ -2,7 +2,7 @@
 Title: Ausführungsgesetz zum Prümer Vertrag und zum Ratsbeschluss Prüm
 jurabk: PrümVtrAG
 layout: default
-origslug: pr_mvtrag
+origslug: pruemvtrag
 slug: pruemvtrag
 
 ---
@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1458; 2007 II 857
 
-Geändert durch
-:   Art. 1 G v. 31.7.2009 I 2507
+Zuletzt geändert durch
+:   Art. 6 G v. 1.6.2017 I 1354
 
 Stand: G in Kraft gem. Bek. v. 21.6.2007 II 857 mWv 23.11.2006
 
@@ -85,7 +85,7 @@ gilt nicht für Daten, die nach Artikel 7 des Prümer Vertrags oder
 Artikel 7 des Ratsbeschlusses Prüm übermittelt worden sind.
 
 (2) Das Bundeskriminalamt kann die Zustimmung zur Verwendung dieser
-Daten in entsprechender Anwendung des § 14 Abs. 1 des
+Daten in entsprechender Anwendung des § 27 Abs. 1 des
 Bundeskriminalamtgesetzes erteilen. Handelt es sich um Daten, die dem
 Bundeskriminalamt von einer anderen innerstaatlichen Stelle
 übermittelt worden sind, entscheidet das Bundeskriminalamt im
@@ -103,9 +103,9 @@ kennzeichnen.
 
 ## § 6 Kennung
 
-In der Errichtungsanordnung nach § 34 des Bundeskriminalamtgesetzes
-wird für die DNA-Analyse-Datei nach Artikel 2 des Prümer Vertrags oder
-Artikel 2 des Ratsbeschlusses Prüm und für das daktyloskopische
+In dem Verzeichnis nach § 78 des Bundeskriminalamtgesetzes wird für
+die DNA-Analyse-Datei nach Artikel 2 des Prümer Vertrags oder Artikel
+2 des Ratsbeschlusses Prüm und für das daktyloskopische
 Identifizierungssystem nach Artikel 8 des Prümer Vertrags oder Artikel
 8 des Ratsbeschlusses Prüm ergänzend festgelegt, dass
 
@@ -118,7 +118,7 @@ Identifizierungssystem nach Artikel 8 des Prümer Vertrags oder Artikel
 
 
 
-Die Einzelheiten sind in der Errichtungsanordnung nach § 34 des
+Die Einzelheiten sind in dem Verzeichnis nach § 78 des
 Bundeskriminalamtgesetzes zu regeln.
 
 

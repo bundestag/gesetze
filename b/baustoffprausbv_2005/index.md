@@ -391,8 +391,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Baustoffprüfer/zur Baustoffprüferin
 
 (Fundstelle: BGBl. I 2005, 974 - 982)
 

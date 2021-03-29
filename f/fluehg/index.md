@@ -2,7 +2,7 @@
 Title: Flüchtlingshilfegesetz
 jurabk: FlüHG
 layout: default
-origslug: fl_hg
+origslug: fluehg
 slug: fluehg
 
 ---
@@ -202,12 +202,12 @@ Antragsfrist nicht vor dem 31. Dezember 1972 endet.
 
 Für den Einkommenshöchstbetrag und die Höhe der Beihilfe zum
 Lebensunterhalt sind die §§ 267 bis
-270a,              275 und 277a des Lastenausgleichsgesetzes, für die
-besondere laufende Beihilfe ist § 301a Abs. 3 des
-Lastenausgleichsgesetzes entsprechend anzuwenden. Bei der Anwendung
-des § 269a Abs. 2 des Lastenausgleichsgesetzes ist an Stelle des
-Endgrundbetrags der Hauptentschädigung von dem Grundbetrag auszugehen,
-der aus dem Vermögensschaden im Sinne des § 10 Abs. 1 Nr. 3 Satz 1 in
+270a, 275 und 277a des Lastenausgleichsgesetzes, für die besondere
+laufende Beihilfe ist § 301a Abs. 3 des Lastenausgleichsgesetzes
+entsprechend anzuwenden. Bei der Anwendung des § 269a Abs. 2 des
+Lastenausgleichsgesetzes ist an Stelle des Endgrundbetrags der
+Hauptentschädigung von dem Grundbetrag auszugehen, der aus dem
+Vermögensschaden im Sinne des § 10 Abs. 1 Nr. 3 Satz 1 in
 entsprechender Anwendung der Rechtsverordnung nach § 301a Abs. 3 des
 Lastenausgleichsgesetzes errechnet wird.
 

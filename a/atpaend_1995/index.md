@@ -3,7 +3,7 @@ Title: Änderung vom 24. Februar 1995 des Artikels 18 Absatz 1 und der Anlage 1 
   2 des ATP-Übereinkommens
 jurabk: ATPÄnd 1995
 layout: default
-origslug: atp_nd_1995
+origslug: atpaend_1995
 slug: atpaend_1995
 
 ---

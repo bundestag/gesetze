@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 1088
 
 Zuletzt geändert durch
-:   Art. 370 V v. 31.10.2006 I 2407
+:   Art. 9 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -40,7 +40,7 @@ ist, die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
 
 1.  Seeschiffen - mit Ausnahme der Seefischereifahrzeuge - nebst Zubehör
 
-    *   die Wasser- und Schiffahrtsdirektionen;
+    *   die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 
@@ -65,7 +65,7 @@ ist, die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
     Bundeswasserstraßen erforderlich ist, nebst Zubehör, ausgenommen
     Schiffe, die ausschließlich im Hafenbetrieb verwendet werden,
 
-    *   die Wasser- und Schiffahrtsdirektionen;
+    *   die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 
@@ -87,7 +87,7 @@ ist, die Behörden der allgemeinen Verwaltung auf der Kreisstufe.
 
         mit einer Höchstmasse über 5,7 t
 
-        *   das Bundesministerium für Verkehr, Bau und Stadtentwicklung;
+        *   das Bundesministerium für Verkehr und digitale Infrastruktur;
 
 
 
@@ -154,7 +154,7 @@ Bundesleistungsgesetzes sind zuständig bei
 2.  Anlagen in Bundeswasserstraßen, mit Ausnahme der Teile der
     Bundeswasserstraße Elbe, die vom Land Hamburg verwaltet werden,
 
-    *   die Wasser- und Schiffahrtsdirektionen;
+    *   die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 
@@ -171,7 +171,7 @@ Bundesleistungsgesetzes sind zuständig bei
 
 4.  bundeseigenen Häfen
 
-    *   die Wasser- und Schiffahrtsdirektionen;
+    *   die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 
@@ -262,16 +262,12 @@ das Fahrzeug im Zeitpunkt der Anforderung befindet.
 
 ## § 4 Örtliche Zuständigkeit bei Schiffen
 
-(1) Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde
+Betrifft die Anforderung Schiffe, so ist die Anforderungsbehörde
 örtlich zuständig, in deren Bezirk sich der Heimathafen oder Heimatort
 des Schiffes befindet. Hat ein Schiff keinen Heimathafen oder
 Heimatort im Geltungsbereich dieser Verordnung, so ist die
 Anforderungsbehörde örtlich zuständig, in deren Bezirk sich das Schiff
 befindet. § 3 Abs. 2 Satz 2 gilt sinngemäß.
-
-(2) Der Bezirk einer Wasser- und Schiffahrtsdirektion im Sinne dieser
-Verordnung umfaßt die Bundeswasserstraßen ihres Verwaltungsbereichs
-und die mit diesen zusammenhängenden Gewässer.
 
 
 ## § 5 Ersatzzuständigkeit

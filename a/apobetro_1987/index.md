@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.9.1995 I 1195;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 5.6.2012 I 1254
+:   Art. 2 V v. 2.7.2018 I 1080
 
 
 ## Erster Abschnitt - Allgemeine Bestimmung
@@ -506,8 +506,8 @@ mindestens separate und entsprechend gekennzeichnete Lagerbereiche
 vorhalten.
 
 (3) Eine Zweigapotheke muß mindestens aus einer Offizin, ausreichendem
-Lagerraum und einem Nachtdienstzimmer bestehen. § 4 Absatz 2 Satz 1
-und 2 findet keine Anwendung.
+Lagerraum und einem Nachtdienstzimmer bestehen. Absatz 2 Satz 1 und 3
+findet keine Anwendung.
 
 (4) Absatz 1 Satz 2 Nummer 5 wird nicht angewendet auf
 
@@ -658,15 +658,15 @@ Apothekenleiters auch außerhalb der Apotheke erfolgen:
     Recht eine Erlaubnis gemäß Artikel 40 der Richtlinie 2001/83/EG des
     Europäischen Parlaments und des Rates vom 6. November 2001 zur
     Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl.
-    L 311                    vom 28.11.2001, S. 67), zuletzt geändert
-    durch die Richtlinie 2011/62/EU (ABl.
-    L 174                    vom 1.7.2011, S. 74), in der jeweils
-    geltenden Fassung oder eine Erlaubnis nach Artikel 44 der Richtlinie
-    2001/82/EG des Europäischen Parlaments und des Rates vom 6. November
-    2001 zur Schaffung eines Gemeinschaftskodexes für Tierarzneimittel
-    (ABl. L 311 vom 28.11.2001, S. 1), zuletzt geändert durch die
-    Verordnung (EG) Nr. 596/2009 (ABl. L 188 vom 18.7.2009, S. 14), in der
-    jeweils geltenden Fassung erteilt ist,
+    L 311 vom 28.11.2001, S. 67), zuletzt geändert durch die Richtlinie
+    2011/62/EU (ABl.
+    L 174 vom 1.7.2011, S. 74), in der jeweils geltenden Fassung oder eine
+    Erlaubnis nach Artikel 44 der Richtlinie 2001/82/EG des Europäischen
+    Parlaments und des Rates vom 6. November 2001 zur Schaffung eines
+    Gemeinschaftskodexes für Tierarzneimittel (ABl. L 311 vom 28.11.2001,
+    S. 1), zuletzt geändert durch die Verordnung (EG) Nr. 596/2009 (ABl. L
+    188 vom 18.7.2009, S. 14), in der jeweils geltenden Fassung erteilt
+    ist,
 
 
 3.  in einem Betrieb, für den eine Erlaubnis nach § 1 Absatz 2 in
@@ -996,7 +996,7 @@ aufweisen:
     unterschiedlich, des Herstellers,
 
 
-2.  Inhalt nach Gewicht, Rauminhalt oder Stückzahl,
+2.  Inhalt nach Gewicht, Nennvolumen oder Stückzahl,
 
 
 3.  Art der Anwendung,
@@ -1288,9 +1288,11 @@ Arzneimittels ein Informations- oder Beratungsbedarf besteht, der auf
 einem anderen Wege als einer persönlichen Information oder Beratung
 durch einen Apotheker nicht erfolgen kann.
 
-(2b) Für Arzneimittel, die die Wirkstoffe Thalidomid oder Lenalidomid
-enthalten, ist ein Inverkehrbringen im Wege des Versandes nach § 43
-Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
+(2b) Für Arzneimittel, die die Wirkstoffe Lenalidomid, Pomalidomid
+oder Thalidomid enthalten sowie für zur Notfallkontrazeption
+zugelassene Arzneimittel mit den Wirkstoffen Levonorgestrel oder
+Ulipristalacetat, ist ein Inverkehrbringen im Wege des Versandes nach
+§ 43 Abs. 1 Satz 1 des Arzneimittelgesetzes nicht zulässig.
 
 (3) Der Apothekenleiter darf Arzneimittel und Medizinprodukte, die der
 Apothekenpflicht unterliegen, nicht im Wege der Selbstbedienung in den
@@ -1309,9 +1311,9 @@ abgegeben werden, bevor die Unklarheit beseitigt ist. Der Apotheker
 hat jede Änderung auf der Verschreibung zu vermerken und zu
 unterschreiben oder im Falle der Verschreibung in elektronischer Form
 der elektronischen Verschreibung hinzuzufügen und das Gesamtdokument
-mit einer qualifizierten elektronischen Signatur nach dem
-Signaturgesetz zu versehen. Die Vorschriften der Betäubungsmittel-
-Verschreibungsverordnung bleiben unberührt.
+mit einer qualifizierten elektronischen Signatur zu versehen. Die
+Vorschriften der Betäubungsmittel-Verschreibungsverordnung bleiben
+unberührt.
 
 (5a) Abweichend von Absatz 5 Satz 1 darf der Apotheker bei der
 Dienstbereitschaft während der Zeiten nach § 23 Absatz 1 Satz 2 ein
@@ -1322,9 +1324,11 @@ Arzneimittel abgeben, wenn das verschriebene Arzneimittel nicht
 verfügbar ist und ein dringender Fall vorliegt, der die unverzügliche
 Anwendung des Arzneimittels erforderlich macht.
 
-(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung
-anzugeben oder im Falle der Verschreibung in elektronischer Form der
-elektronischen Verschreibung hinzufügen
+(6) Bei der Abgabe der Arzneimittel sind auf der Verschreibung und,
+falls es sich um eine Verschreibung nach § 3a Absatz 1 Satz 1 der
+Arzneimittelverschreibungsverordnung handelt, auf der Durchschrift der
+Verschreibung, anzugeben oder im Falle der Verschreibung in
+elektronischer Form der elektronischen Verschreibung hinzufügen
 
 1.  der Name oder die Firma des Inhabers der Apotheke und deren Anschrift,
 
@@ -1333,10 +1337,9 @@ elektronischen Verschreibung hinzufügen
     Pharmazieingenieurs oder des Apothekenassistenten, der das
     Arzneimittel abgegeben, oder des Apothekers, der die Abgabe
     beaufsichtigt hat; im Falle der Verschreibung in elektronischer Form
-    ist das Namenszeichen durch eine elektronische Signatur nach dem
-    Signaturgesetz zu ersetzen, wobei der Apothekenleiter die
-    Rückverfolgbarkeit zum jeweiligen Unterzeichner und deren
-    Dokumentation sicherzustellen hat,
+    ist das Namenszeichen durch eine elektronische Signatur zu ersetzen,
+    wobei der Apothekenleiter die Rückverfolgbarkeit zum jeweiligen
+    Unterzeichner und deren Dokumentation sicherzustellen hat,
 
 
 3.  das Datum der Abgabe,
@@ -1386,8 +1389,8 @@ folgende Angaben aufzuzeichnen:
 
 
 (6b) Bei dem Erwerb und der Abgabe von Arzneimitteln mit den
-Wirkstoffen Thalidomid oder Lenalidomid und dem Erwerb dieser
-Wirkstoffe sind folgende Angaben aufzuzeichnen:
+Wirkstoffen Lenalidomid, Pomalidomid oder Thalidomid und dem Erwerb
+dieser Wirkstoffe sind folgende Angaben aufzuzeichnen:
 
 1.  die Bezeichnung und die Chargenbezeichnung des Arzneimittels oder des
     Wirkstoffs,
@@ -1413,6 +1416,10 @@ Wirkstoffe sind folgende Angaben aufzuzeichnen:
 
 
 
+Nach dem Versand der Durchschriften der Vordrucke nach § 3a Absatz 7
+der Arzneimittelverschreibungsverordnung an das Bundesinstitut für
+Arzneimittel und Medizinprodukte ist das Datum des Versands den
+Angaben nach Satz 1 hinzuzufügen.
 
 (6c) Apotheken dürfen von anderen Apotheken keine Arzneimittel
 beziehen. Satz 1 wird nicht angewendet auf Arzneimittel,
@@ -1458,7 +1465,7 @@ begründetem Verdacht auf Mißbrauch ist die Abgabe zu verweigern.
 
 ### § 18 Einfuhr von Arzneimitteln
 
-(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder 3a des
+(1) Werden Fertigarzneimittel nach § 73 Absatz 3 oder Absatz 3b des
 Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
 verbracht, sind folgende Angaben aufzuzeichnen
 
@@ -1488,12 +1495,13 @@ verbracht, sind folgende Angaben aufzuzeichnen
 
 
 8.  das Namenszeichen des Apothekers, der das Arzneimittel abgegeben oder
-    die Abgabe beaufsichtigt hat. Soweit aus Gründen der
-    Arzneimittelsicherheit besondere Hinweise geboten sind, sind diese bei
-    der Abgabe mitzuteilen. Diese Mitteilung ist aufzuzeichnen.
+    die Abgabe beaufsichtigt hat.
 
 
 
+Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise
+geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung
+ist aufzuzeichnen.
 
 (2) Fertigarzneimittel, die aus einem Mitgliedstaat der Europäischen
 Gemeinschaften über den Umfang von § 73 Abs. 3 des
@@ -1582,9 +1590,9 @@ informiert und beraten werden. Die Verpflichtung zur Information und
 Beratung über Arzneimittel muss durch Apotheker der Apotheke ausgeübt
 werden, sie kann durch andere Angehörige des pharmazeutischen
 Personals der Apotheke übernommen werden, wenn der Apothekenleiter
-dies zuvor schriftlich festgelegt hat. Dabei hat er auch zu
-definieren, in welchen Fällen ein Apotheker der Apotheke grundsätzlich
-hinzuzuziehen ist.
+dies zuvor schriftlich oder elektronisch festgelegt hat. Dabei hat er
+auch zu definieren, in welchen Fällen ein Apotheker der Apotheke
+grundsätzlich hinzuzuziehen ist.
 
 (1a) Durch die Information und Beratung der Patienten und anderen
 Kunden darf die Therapie der zur Ausübung der Heilkunde, Zahnheilkunde
@@ -1717,9 +1725,8 @@ Daten während der Aufbewahrungsfrist verfügbar sind und innerhalb
 einer angemessenen Frist lesbar gemacht werden können. Bei einer
 Aufzeichnung und Aufbewahrung ausschließlich auf Datenträgern ist ein
 nach dieser Verordnung gefordertes Namenszeichen durch eine
-elektronische Signatur nach dem Signaturgesetz und eine eigenhändige
-Unterschrift durch eine qualifizierte elektronische Signatur nach dem
-Signaturgesetz zu ersetzen.
+elektronische Signatur und eine eigenhändige Unterschrift durch eine
+qualifizierte elektronische Signatur zu ersetzen.
 
 (3) Die Aufzeichnungen und Nachweise sind der zuständigen Behörde auf
 Verlangen vorzulegen.
@@ -2277,7 +2284,7 @@ Endbehältnis unterzogen werden und sie nicht im geschlossenen System
 hergestellt werden, ist während der Zubereitung und Abfüllung
 
 1.  in der lokalen Zone für die Arbeitsgänge ein Luftreinheitsgrad für
-    Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EG-
+    Keimzahl und Partikelzahl entsprechend Klasse A der Definition des EU-
     GMP-Leitfadens, Anhang 1, der vom Bundesministerium im Bundesanzeiger
     in der jeweils aktuellen Fassung bekannt gemacht wird, einzuhalten und
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 2
 
 Zuletzt geändert durch
-:   Art. 7 G v. 7.5.2002 I 1529
+:   Art. 3 Abs. 3 G v. 20.4.2013 I 868
 
 
 ## Eingangsformel
@@ -277,9 +277,8 @@ Arbeitsplatzschutzgesetzes vom 30. März 1957 (Bundesgesetzbl. I S.
 169), des Neunten Buches Sozialgesetzbuch des
 Jugendarbeitsschutzgesetzes vom 9. August 1960 (Bundesgesetzbl. I S.
 665), geändert durch Gesetz vom 20. Juli 1962 (Bundesgesetzbl. I S.
-449), und des Seemannsgesetzes vom 26. Juli 1957 (Bundesgesetzbl. II
-S. 713), geändert durch Gesetz vom 25. August 1961 (Bundesgesetzbl. II
-S. 1391), jedoch wird
+449), und des Seearbeitsgesetzes vom 20. April 2013 (BGBl. I S. 868),
+jedoch wird
 a) und b) ...
 
 (2) Mit dem Inkrafttreten dieses Gesetzes treten die landesrechtlichen

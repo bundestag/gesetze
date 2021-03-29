@@ -4,7 +4,7 @@ Title: Gesetz betreffend das Übereinkommen der Internationalen Arbeitsorganisat
   in der Landwirtschaft
 jurabk: JAOÜbk99G
 layout: default
-origslug: jao_bk99g
+origslug: jaouebk99g
 slug: jaouebk99g
 
 ---
@@ -26,9 +26,9 @@ Fundstelle
 
 ## Art 2
 
-Das Übereinkommen wird nachstehend veröffentlicht.              Es
-wird durch die gesetzlichen Vorschriften über den Tarifvertrag sowie
-durch die Vorschriften des Gesetzes über die Festsetzung von
+Das Übereinkommen wird nachstehend veröffentlicht. Es wird durch die
+gesetzlichen Vorschriften über den Tarifvertrag sowie durch die
+Vorschriften des Gesetzes über die Festsetzung von
 Mindestarbeitsbedingungen vom 11. Januar 1952 (Bundesgesetzbl. I S.
 17) durchgeführt.
 

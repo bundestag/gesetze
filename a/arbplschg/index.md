@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 16.7.2009 I 2055
 
-Geändert durch
-:   Art. 6 G v. 28.4.2011 I 678
+Zuletzt geändert durch
+:   Art. 3 Abs. 1 G v. 29.6.2015 I 1061
 
 
 ## Erster Abschnitt - Grundwehrdienst und Wehrübungen
@@ -468,8 +468,8 @@ Höchstbeitrages, der für die freiwillige Versicherung in der
 allgemeinen Rentenversicherung entrichtet werden kann, ansonsten den
 Höchstbeitrag nicht übersteigen. Die Sätze 1 und 2 gelten nicht bei
 Zahlung des Arbeitsentgelts nach § 1 Abs. 2, bei Anspruch auf
-Leistungen nach den §§ 13 bis 13d des Unterhaltssicherungsgesetzes
-oder für Elternzeit.
+Leistungen nach den §§ 6 bis 9 des Unterhaltssicherungsgesetzes oder
+für Elternzeit.
 
 (5) Anträge auf Erstattung sind innerhalb eines Jahres nach Beendigung
 des Wehrdienstes zu stellen.
@@ -503,8 +503,8 @@ gesetzlichen Rentenversicherung zu entrichten hätte, wenn der
 Wehrpflichtige nicht von der Versicherungspflicht befreit worden wäre.
 Die Sätze 1 und 2 gelten nicht bei Zahlung des Arbeitsentgelts nach §
 1 Abs. 2, der Bezüge nach § 9 Abs. 2, bei Anspruch auf Leistungen nach
-§ 13 Abs. 2 und nach den §§ 13a und 13b des
-Unterhaltssicherungsgesetzes oder für Elternzeit.
+§ 6 Absatz 1 und nach § 7 des Unterhaltssicherungsgesetzes oder für
+Elternzeit.
 
 (2) Einem Wehrpflichtigen, der nach § 14a nicht anspruchsberechtigt
 ist und Beiträge zur gesetzlichen Rentenversicherung oder zu einer
@@ -528,8 +528,7 @@ Landwirte gewährt worden, ist mit den für den gleichen Zeitraum
 gezahlten Zuschüssen gegen den Erstattungsanspruch aufzurechnen. Die
 Sätze 1 bis 4 gelten nicht bei Zahlung des Arbeitsentgelts nach § 1
 Abs. 2, der Bezüge nach § 9 Abs. 2, bei Anspruch auf Leistungen nach
-den §§ 13 bis 13d des Unterhaltssicherungsgesetzes oder für
-Elternzeit.
+den §§ 6 bis 9 des Unterhaltssicherungsgesetzes oder für Elternzeit.
 
 (3) Die Leistungen nach Absatz 2 dürfen, wenn Beiträge des Bundes zur
 gesetzlichen Rentenversicherung für die Zeit des Wehrdienstes
@@ -599,8 +598,8 @@ vom 18. Oktober 1961 (BGBl. 1964 II S. 1262) sind und die ihren
 rechtmäßigen Aufenthalt in Deutschland haben.
 
 (7) Dieses Gesetz gilt auch im Falle des freiwilligen Wehrdienstes
-nach Abschnitt 7 des Wehrpflichtgesetzes mit der Maßgabe, dass die
-Vorschriften über den Grundwehrdienst anzuwenden sind.
+nach § 58b des Soldatengesetzes mit der Maßgabe, dass die Vorschriften
+über den Grundwehrdienst anzuwenden sind.
 
 
 ### § 16a Wehrdienst als Soldat auf Zeit
@@ -621,7 +620,7 @@ geltenden Vorschriften anzuwenden sind, ausgenommen § 9 Abs. 8 Satz 3,
 §§ 14a und § 14b.
 
 (2) In den Fällen des Absatzes 1 Nr. 1 und 2 sind § 125 Abs. 1 Satz 1
-des Beamtenrechtsrahmengesetzes oder § 31 Abs. 1 Nr. 2 des
+des Beamtenrechtsrahmengesetzes oder § 31 Absatz 1 Satz 1 Nummer 2 des
 Bundesbeamtengesetzes und § 22 Abs. 2 Satz 1 des Beamtenstatusgesetzes
 nicht anzuwenden.
 

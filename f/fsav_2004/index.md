@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3093
 
+Zuletzt geändert durch
+:   Art. 3 V v. 12.12.2016 I 2864
+
 
 
 ## Eingangsformel
@@ -180,30 +183,38 @@ sein.
 
 (1) Für Flüge nach Sichtflugregeln müssen Flugzeuge, Drehflügler,
 Motorsegler, Segelflugzeuge, aerodynamisch gesteuerte
-Ultraleichtflugzeuge und Tragschrauber, Luftschiffe und Freiballone
-ausgerüstet sein mit einem UKW-Sende-/Empfangsgerät, das mindestens
-die für den vorgesehenen Flug erforderlichen Frequenzen aus dem
-Bereich von 118,000 bis 136,975 MHz umfasst; die Sendeleistung und die
-Empfängerempfindlichkeit müssen mindestens so groß sein, dass unter
-Berücksichtigung der flugbetrieblichen Eigenschaften des Luftfahrzeugs
-und der beflogenen Strecke ein einwandfreier Sprechfunkverkehr mit den
+Ultraleichtflugzeuge, Ultraleichthubschrauber und Tragschrauber,
+Luftschiffe und Freiballone ausgerüstet sein mit einem UKW-
+Sende-/Empfangsgerät, das mindestens die für den vorgesehenen Flug
+erforderlichen Frequenzen aus dem Bereich von 118,000 bis 136,975 MHz
+umfasst; die Sendeleistung und die Empfängerempfindlichkeit müssen
+mindestens so groß sein, dass unter Berücksichtigung der
+flugbetrieblichen Eigenschaften des Luftfahrzeugs und der beflogenen
+Strecke ein einwandfreier Sprechfunkverkehr mit den
 Flugverkehrskontroll- oder Informationsstellen durchgeführt werden
 kann.
 
 (2) Ausgenommen von Absatz 1 sind aerodynamisch gesteuerte
-Ultraleichtflugzeuge und Tragschrauber, bei denen der Einbau eines
-nach luftrechtlichen Vorschriften zugelassenen UKW-
-Sende-/Empfangsgerätes aus technischen Gründen nicht möglich ist und
-die sich in Lufträumen bewegen, in denen keine Hörbereitschaft
+Ultraleichtflugzeuge, Ultraleichthubschrauber und Tragschrauber, bei
+denen der Einbau eines nach luftrechtlichen Vorschriften zugelassenen
+UKW-Sende-/Empfangsgerätes aus technischen Gründen nicht möglich ist
+und die sich in Lufträumen bewegen, in denen keine Hörbereitschaft
 vorgeschrieben ist, wenn dafür Funkgeräte kleiner Leistung, die vom
 Flugsicherungsunternehmen zugelassen sind, benutzt werden.
 
 (3) Absatz 1 gilt nicht für Flüge an Flugplätzen ohne
 Flugverkehrskontrollstelle, die bei Tage durchgeführt werden und nicht
-über die Umgebung des Startflugplatzes hinausführen (§ 3a Abs. 3 der
-Luftverkehrs-Ordnung). Örtliche Regelungen der zuständigen
-Luftfahrtbehörde eines Landes (§ 21a Abs. 1 der Luftverkehrs-Ordnung)
-bleiben unberührt.
+über die Umgebung des Startflugplatzes nach Artikel 2 Nummer 9 der
+Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26.
+September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und
+Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und
+zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der
+Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr.
+730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom
+13\.10.2012, S. 1, L 145 vom 31.5.2013, S. 38) in der jeweils geltenden
+Fassung hinausführen. Örtliche Regelungen der zuständigen
+Luftfahrtbehörde eines Landes (§ 22 der Luftverkehrs-Ordnung) bleiben
+unberührt.
 
 (4) Die Flugverkehrskontrollstellen können im Einzelfall in
 Kontrollzonen, von und zu Flugplätzen mit Flugverkehrskontrollstellen
@@ -228,8 +239,8 @@ einem Sekundärradar-Antwortgerät (Transponder) ausgerüstet sein:
 
 
 4.  Flüge mit motorgetriebenen Luftfahrzeugen, ausgenommen in der
-    Betriebsart Segelflug, oberhalb 5.000 Fuß über NN oder oberhalb einer
-    Höhe von 3.500 Fuß über Grund, wobei jeweils der höhere Wert maßgebend
+    Betriebsart Segelflug, oberhalb 5 000 Fuß über NN oder oberhalb einer
+    Höhe von 3 500 Fuß über Grund, wobei jeweils der höhere Wert maßgebend
     ist.
 
 
@@ -245,11 +256,11 @@ Flugsicherungsunternehmen in den Nachrichten für Luftfahrer bekannt
 gemacht.
 
 (6) Flugzeuge, Drehflügler, Motorsegler und motorgetriebene
-aerodynamisch gesteuerte Ultraleichtflugzeuge und Tragschrauber müssen
-außerdem ausgerüstet sein mit einem VOR-Navigationsempfänger, der die
-nach gültigem internationalen Standard geforderte Störfestigkeit
-gegenüber UKW-Rundfunksendern (FM-Immunity) aufweist, oder einem
-Flächennavigationsgerät für:
+aerodynamisch gesteuerte Ultraleichtflugzeuge, Ultraleichthubschrauber
+und Tragschrauber müssen außerdem ausgerüstet sein mit einem VOR-
+Navigationsempfänger, der die nach gültigem internationalen Standard
+geforderte Störfestigkeit gegenüber UKW-Rundfunksendern (FM-Immunity)
+aufweist, oder einem Flächennavigationsgerät für:
 
 1.  Flüge in Lufträumen der Klasse C,
 
@@ -287,8 +298,7 @@ nicht beeinträchtigt wird. Fallen während des Fluges Teile der
 Flugsicherungsausrüstung aus, die für die sichere Durchführung des
 Fluges und für die Einhaltung der Flugsicherungsverfahren erforderlich
 sind, hat der Luftfahrzeugführer die zuständige
-Flugverkehrskontrollstelle unverzüglich zu unterrichten. § 26 Abs. 4
-der Luftverkehrs-Ordnung bleibt unberührt.
+Flugverkehrskontrollstelle unverzüglich zu unterrichten.
 
 (3) Eigentümer und Halter eines Luftfahrzeugs dürfen die Durchführung
 eines Fluges nicht zulassen, wenn die vorgeschriebene

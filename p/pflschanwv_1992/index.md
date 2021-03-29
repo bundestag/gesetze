@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1887
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.10.2012 I 2113
+:   Art. 1 V v. 25.11.2013 I 4020
 
 
 ## § 1 Vollständiges Anwendungsverbot
@@ -81,7 +81,7 @@ bestehen oder einen solchen Stoff enthalten und deren Anwendung auf
 einer Freilandfläche vorgesehen ist, die nicht landwirtschaftlich,
 forstwirtschaftlich oder gärtnerisch genutzt wird, dürfen nur dann an
 einen anderen abgegeben werden, wenn dem Abgebenden zuvor eine dem
-anderen erteilte Genehmigung nach § 6 Abs. 3 des
+anderen erteilte Genehmigung nach § 12 Absatz 2 des
 Pflanzenschutzgesetzes vorgelegt worden ist.
 
 
@@ -186,7 +186,14 @@ Pflanzenschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3a ein Pflanzenschutzmittel abgibt.
 
 
-## Anlage 1 (zu den §§ 1 und 5 Abs. 1) Vollständiges Anwendungsverbot
+## § 9 Anwendbarkeit von Vorschriften
+
+Die Nummern 1a, 5a und 7 der Anlage 3 Abschnitt A sind ab dem 31. Mai
+2016 nicht mehr anzuwenden.
+
+(zu den §§ 1 und 5 Abs. 1)
+
+## Anlage 1 Vollständiges Anwendungsverbot
 
 Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
@@ -431,8 +438,9 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
 
 
+(zu den §§ 2, 4 und 5 Abs. 2)
 
-## Anlage 2 (zu den §§ 2, 4 und 5 Abs. 2) Eingeschränktes Anwendungsverbot
+## Anlage 2 Eingeschränktes Anwendungsverbot
 
 (Fundstelle des Originaltextes: BGBl. I 2003, 1535)
 
@@ -596,10 +604,11 @@ Fundstelle des Originaltextes: BGBl. I 2003, 1534
 
 
 
+(zu den §§ 3 und 4)
 
-## Anlage 3 (zu den §§ 3 und 4) Anwendungsbeschränkungen
+## Anlage 3 Anwendungsbeschränkungen
 
-(Fundstelle des Originaltextes: BGBl. I 2003, 1536 - 1537;
+(Fundstelle: BGBl. I 2003, 1536 - 1537;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Nummer
@@ -641,6 +650,713 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+
+
+*    *   1a
+
+    *   Clothianidin
+
+    *   Die Anwendung ist verboten
+
+
+*    *
+    *
+    *   1.
+
+    *   im Haus- und Kleingartenbereich,
+
+
+*    *
+    *
+    *   2.
+
+    *   zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten,
+        wenn die Aussaat zwischen Januar und Juni erfolgt:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   3.
+
+    *   zur Blattbehandlung bei folgenden Getreidearten:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   4.
+
+    *   zur Saatgutbehandlung, Bodenbehandlung oder Blattbehandlung außer bei
+        Behandlung in Gewächshäusern und außer zur Blattbehandlung nach der
+        Blüte bei folgenden Kulturen:
+
+
+*    *
+    *
+    *
+    *   Ackerbohne/Pferdebohne
+        (Vicia faba var. major; var. equina; var. minor)
+
+
+*    *
+    *
+    *
+    *   Amerikanische Strauchheidelbeere
+        (V. corymbosum)
+
+
+*    *
+    *
+    *
+    *   Anis
+        (Pimpinella anisum)
+
+
+*    *
+    *
+    *
+    *   Apfel
+        (Malus pumila; M. sylvestris; M. communis; Pyrus malus)
+
+
+*    *
+    *
+    *
+    *   Aprikose
+        (Prunus armeniaca)
+
+
+*    *
+    *
+    *
+    *   Avocadofrucht
+        (Persea americana)
+
+
+*    *
+    *
+    *
+    *   Banane
+        (Musa sapientum; M. cavendishii; M. nana)
+
+
+*    *
+    *
+    *
+    *   Baumwolle
+        (Gossypium spp.)
+
+
+*    *
+    *
+    *
+    *   Birne
+        (Pyrus communis)
+
+
+*    *
+    *
+    *
+    *   Bockshornkleesaat
+        (Trigonella foenumgraecum)
+
+
+*    *
+    *
+    *
+    *   Bohne
+        (Phaseolus spp.)
+
+
+*    *
+    *
+    *
+    *   Brombeere
+        (Rubus fruticosus)
+
+
+*    *
+    *
+    *
+    *   Buchweizen
+        (Fagopyrum esculentum)
+
+
+*    *
+    *
+    *
+    *   Chilipfeffer
+        (Capsicum frutescens; C. annuum)
+
+
+*    *
+    *
+    *
+    *   Dattel
+        (Phoenix dactylifera)
+
+
+*    *
+    *
+    *
+    *   Dillsaat
+        (Anethum graveolens)
+
+
+*    *
+    *
+    *
+    *   Erbsen:
+        (Gartenerbse
+        (Pisum sativum)
+        Felderbse
+        (P. arvense))
+
+
+*    *
+    *
+    *
+    *   Erdbeeren
+        (Fragaria spp.)
+
+
+*    *
+    *
+    *
+    *   Erdnuss
+        (Arachis hypogaea)
+
+
+*    *
+    *
+    *
+    *   Esskastanie
+        (Castanea spp.)
+
+
+*    *
+    *
+    *
+    *   Färberdistelsaat
+        (Carthamus tinctorius)
+
+
+*    *
+    *
+    *
+    *   Fenchel
+        (Foeniculum vulgare)
+
+
+*    *
+    *
+    *
+    *   Gartenschwarzwurzel
+        (Scorzonera hispanica)
+
+
+*    *
+    *
+    *
+    *   Gelbwurz
+        (Curcuma longa)
+
+
+*    *
+    *
+    *
+    *   Gemeine Kuhbohne/Augenbohne
+        (Vigna unguiculata)
+
+
+*    *
+    *
+    *
+    *   Grapefruit
+        (Citrus paradisi)
+
+
+*    *
+    *
+    *
+    *   Gurke
+        (Cucumis sativus)
+
+
+*    *
+    *
+    *
+    *   Hanf
+        (Cannabis sativa)
+
+
+*    *
+    *
+    *
+    *   Haselnuss
+        (Corylus avellana)
+
+
+*    *
+    *
+    *
+    *   Heidelbeere/Blaubeere/Bickbeere
+        (Vaccinium myrtillus)
+
+
+*    *
+    *
+    *
+    *   Himbeere
+        (Rubus idaeus)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, rote und weiße
+        (Ribes rubrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, schwarze
+        (Ribes nigrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbrotbaum/Karobenbaum
+        (Ceratonia siliqua)
+
+
+*    *
+    *
+    *
+    *   Kaffee
+        (Coffea spp. arabica, robusta, liberica)
+
+
+*    *
+    *
+    *
+    *   Kaki
+        (Diospyros kaki; D. virginiana)
+
+
+*    *
+    *
+    *
+    *   Kartoffel-Rose
+        (Rosa rugosa)
+
+
+*    *
+    *
+    *
+    *   Kichererbse
+        (Cicer arietinum)
+
+
+*    *
+    *
+    *
+    *   Kirsche
+        (Prunus avium)
+
+
+*    *
+    *
+    *
+    *   Kiwi
+        (Actinidia chinensis)
+
+
+*    *
+    *
+    *
+    *   Klee
+        (Trifolium spp.)
+
+
+*    *
+    *
+    *
+    *   Koriander
+        (Coriandrum sativum)
+
+
+*    *
+    *
+    *
+    *   Kreuzkümmel
+        (Cuminum cyminum)
+
+
+*    *
+    *
+    *
+    *   Kümmel
+        (Carum carvi)
+
+
+*    *
+    *
+    *
+    *   Kürbis
+        (Cucurbita spp.)
+
+
+*    *
+    *
+    *
+    *   Leguminosen:
+        (Hornschotenklee
+        (Lotus corniculatus)
+        Lespedeza
+        (Lespedeza spp.)
+        Kopoubohne
+        (Pueraria lobata)
+        Sesbania
+        (Sesbania spp.)
+        Futteresparsette
+        (Onobrychis sativa)
+        Spanische Esparsette
+        (Hedysarum coronarium))
+
+
+*    *
+    *
+    *
+    *   Leinsaat
+        (Linum usitatissimum)
+
+
+*    *
+    *
+    *
+    *   Linsen
+        (Lens esculenta; Ervum lens)
+
+
+*    *
+    *
+    *
+    *   Lorbeer
+        (Laurus nobilis)
+
+
+*    *
+    *
+    *
+    *   Lupine
+        (Lupinus spp.)
+
+
+*    *
+    *
+    *
+    *   Luzerne
+        (Medicago sativa)
+
+
+*    *
+    *
+    *
+    *   Mais
+        (Zea mays)
+
+
+*    *
+    *
+    *
+    *   Mandarine
+        (Citrus reticulata)
+
+
+*    *
+    *
+    *
+    *   Mandel
+        (Prunus amygdalus; P. communis; Amygdalus communis)
+
+
+*    *
+    *
+    *
+    *   Melonensaat
+        (Cucumis melo)
+
+
+*    *
+    *
+    *
+    *   Mohnsaat
+        (Papaver somniferum)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, großfrüchtige/Kulturpreiselbeere
+        (Vaccinium macrocarpon)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, kleinfrüchtige/Kranichbeere
+        (Vaccinium oxycoccos)
+
+
+*    *
+    *
+    *
+    *   Nelkenpfefferbaum/Pimentbaum
+        (Pimenta officinalis)
+
+
+*    *
+    *
+    *
+    *   Okra
+        (Abelmoschus esculentus; Hibiscus esculentus)
+
+
+*    *
+    *
+    *
+    *   Oliven
+        (Olea europaea)
+
+
+*    *
+    *
+    *
+    *   Orangen:
+        (Orange/Apfelsine
+        (Citrus sinensis)
+        Bitterorange
+        (C. aurantium))
+
+
+*    *
+    *
+    *
+    *   Pfefferminze
+        (Mentha spp.; M. piperita)
+
+
+*    *
+    *
+    *
+    *   Pfirsiche und Nektarinen
+        (Prunus persica; Amygdalus persica; Persica laevis)
+
+
+*    *
+    *
+    *
+    *   Pflaumen und Schlehen:
+        (Reineclaude, Mirabelle, Damaszenerpflaume
+        (Prunus domestica)
+        Schlehe
+        (P. spinosa))
+
+
+*    *
+    *
+    *
+    *   Pistazie
+        (Pistacia vera)
+
+
+*    *
+    *
+    *
+    *   Pyrethrum
+        (Chrysanthemum cinerariifolium)
+
+
+*    *
+    *
+    *
+    *   Quitte
+        (Cydonia oblonga; C. vulgaris; C. japonica)
+
+
+*    *
+    *
+    *
+    *   Rapssaat
+        (Brassica napus var. oleifera)
+
+
+*    *
+    *
+    *
+    *   Rizinussaat
+        (Ricinus communis)
+
+
+*    *
+    *
+    *
+    *   Safran
+        (Crocus sativus)
+
+
+*    *
+    *
+    *
+    *   Satsuma
+        (C. unshiu)
+
+
+*    *
+    *
+    *
+    *   Schwarzer Holunder
+        (Sambucus nigra)
+
+
+*    *
+    *
+    *
+    *   Senfsaat:
+        (Weißer Senf
+        (Brassica alba; B. hirta; Sinapis alba)
+        Schwarzer Senf
+        (Brassica nigra; Sinapis nigra))
+
+
+*    *
+    *
+    *
+    *   Serradella/Vogelsaat
+        (Ornithopus sativus)
+
+
+*    *
+    *
+    *
+    *   Sesamsaat
+        (Sesamum indicum)
+
+
+*    *
+    *
+    *
+    *   Sojabohne
+        (Glycine soja)
+
+
+*    *
+    *
+    *
+    *   Sonnenblumensaat
+        (Helianthus annuus)
+
+
+*    *
+    *
+    *
+    *   Speiserüben und Rübsen
+        (Brassica rapa var. rapifera und oleifera spp.)
+
+
+*    *
+    *
+    *
+    *   Stachelbeere
+        (Ribes uva-crispa)
+
+
+*    *
+    *
+    *
+    *   Sternanis
+        (Illicium verum)
+
+
+*    *
+    *
+    *
+    *   Tangerine
+        (Citrus tangerina)
+
+
+*    *
+    *
+    *
+    *   Thymian
+        (Thymus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Wacholderbeere
+        (Juniperus communis)
+
+
+*    *
+    *
+    *
+    *   Walnuss
+        (Juglans spp.; J. regia)
+
+
+*    *
+    *
+    *
+    *   Wassermelone
+        (Citrullus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Weinrebe
+        (Vitis vinifera)
+
+
+*    *
+    *
+    *
+    *   Wicken (Platterbsenwicke/Futterwicke
+        (Vicia sativa))
+
+
+*    *
+    *
+    *
+    *   Zierpflanzen, die im Jahr der Behandlung blühen
+
+
+*    *
+    *
+    *
+    *   Zitronen und Limetten:
+        (Zitrone
+        (Citrus limon)
+        Saure Limette/Limonelle
+        (C. aurantiifolia)
+        Limette/Süßzitrone
+        (C. limetta)).
 
 
 *    *   2
@@ -722,6 +1438,713 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+*    *   5a
+
+    *   Imidacloprid
+
+    *   Die Anwendung ist verboten
+
+
+*    *
+    *
+    *   1.
+
+    *   im Haus- und Kleingartenbereich,
+
+
+*    *
+    *
+    *   2.
+
+    *   zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten,
+        wenn die Aussaat zwischen Januar und Juni erfolgt:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   3.
+
+    *   zur Blattbehandlung bei folgenden Getreidearten:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   4.
+
+    *   zur Saatgutbehandlung, Bodenbehandlung oder Blattbehandlung außer bei
+        Behandlung in Gewächshäusern und außer zur Blattbehandlung nach der
+        Blüte bei folgenden Kulturen:
+
+
+*    *
+    *
+    *
+    *   Ackerbohne/Pferdebohne
+        (Vicia faba var. major; var. equina; var. minor)
+
+
+*    *
+    *
+    *
+    *   Amerikanische Strauchheidelbeere
+        (V. corymbosum)
+
+
+*    *
+    *
+    *
+    *   Anis
+        (Pimpinella anisum)
+
+
+*    *
+    *
+    *
+    *   Apfel
+        (Malus pumila; M. sylvestris; M. communis; Pyrus malus)
+
+
+*    *
+    *
+    *
+    *   Aprikose
+        (Prunus armeniaca)
+
+
+*    *
+    *
+    *
+    *   Avocadofrucht
+        (Persea americana)
+
+
+*    *
+    *
+    *
+    *   Banane
+        (Musa sapientum; M. cavendishii; M. nana)
+
+
+*    *
+    *
+    *
+    *   Baumwolle
+        (Gossypium spp.)
+
+
+*    *
+    *
+    *
+    *   Birne
+        (Pyrus communis)
+
+
+*    *
+    *
+    *
+    *   Bockshornkleesaat
+        (Trigonella foenumgraecum)
+
+
+*    *
+    *
+    *
+    *   Bohne
+        (Phaseolus spp.)
+
+
+*    *
+    *
+    *
+    *   Brombeere
+        (Rubus fruticosus)
+
+
+*    *
+    *
+    *
+    *   Buchweizen
+        (Fagopyrum esculentum)
+
+
+*    *
+    *
+    *
+    *   Chilipfeffer
+        (Capsicum frutescens; C. annuum)
+
+
+*    *
+    *
+    *
+    *   Dattel
+        (Phoenix dactylifera)
+
+
+*    *
+    *
+    *
+    *   Dillsaat
+        (Anethum graveolens)
+
+
+*    *
+    *
+    *
+    *   Erbsen:
+        (Gartenerbse
+        (Pisum sativum)
+        Felderbse
+        (P. arvense))
+
+
+*    *
+    *
+    *
+    *   Erdbeeren
+        (Fragaria spp.)
+
+
+*    *
+    *
+    *
+    *   Erdnuss
+        (Arachis hypogaea)
+
+
+*    *
+    *
+    *
+    *   Esskastanie
+        (Castanea spp.)
+
+
+*    *
+    *
+    *
+    *   Färberdistelsaat
+        (Carthamus tinctorius)
+
+
+*    *
+    *
+    *
+    *   Fenchel
+        (Foeniculum vulgare)
+
+
+*    *
+    *
+    *
+    *   Gartenschwarzwurzel
+        (Scorzonera hispanica)
+
+
+*    *
+    *
+    *
+    *   Gelbwurz
+        (Curcuma longa)
+
+
+*    *
+    *
+    *
+    *   Gemeine Kuhbohne/Augenbohne
+        (Vigna unguiculata)
+
+
+*    *
+    *
+    *
+    *   Grapefruit
+        (Citrus paradisi)
+
+
+*    *
+    *
+    *
+    *   Gurke
+        (Cucumis sativus)
+
+
+*    *
+    *
+    *
+    *   Hanf
+        (Cannabis sativa)
+
+
+*    *
+    *
+    *
+    *   Haselnuss
+        (Corylus avellana)
+
+
+*    *
+    *
+    *
+    *   Heidelbeere/Blaubeere/Bickbeere
+        (Vaccinium myrtillus)
+
+
+*    *
+    *
+    *
+    *   Himbeere
+        (Rubus idaeus)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, rote und weiße
+        (Ribes rubrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, schwarze
+        (Ribes nigrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbrotbaum/Karobenbaum
+        (Ceratonia siliqua)
+
+
+*    *
+    *
+    *
+    *   Kaffee
+        (Coffea spp. arabica, robusta, liberica)
+
+
+*    *
+    *
+    *
+    *   Kaki
+        (Diospyros kaki; D. virginiana)
+
+
+*    *
+    *
+    *
+    *   Kartoffel-Rose
+        (Rosa rugosa)
+
+
+*    *
+    *
+    *
+    *   Kichererbse
+        (Cicer arietinum)
+
+
+*    *
+    *
+    *
+    *   Kirsche
+        (Prunus avium)
+
+
+*    *
+    *
+    *
+    *   Kiwi
+        (Actinidia chinensis)
+
+
+*    *
+    *
+    *
+    *   Klee
+        (Trifolium spp.)
+
+
+*    *
+    *
+    *
+    *   Koriander
+        (Coriandrum sativum)
+
+
+*    *
+    *
+    *
+    *   Kreuzkümmel
+        (Cuminum cyminum)
+
+
+*    *
+    *
+    *
+    *   Kümmel
+        (Carum carvi)
+
+
+*    *
+    *
+    *
+    *   Kürbis
+        (Cucurbita spp.)
+
+
+*    *
+    *
+    *
+    *   Leguminosen:
+        (Hornschotenklee
+        (Lotus corniculatus)
+        Lespedeza
+        (Lespedeza spp.)
+        Kopoubohne
+        (Pueraria lobata)
+        Sesbania
+        (Sesbania spp.)
+        Futteresparsette
+        (Onobrychis sativa)
+        Spanische Esparsette
+        (Hedysarum coronarium))
+
+
+*    *
+    *
+    *
+    *   Leinsaat
+        (Linum usitatissimum)
+
+
+*    *
+    *
+    *
+    *   Linsen
+        (Lens esculenta; Ervum lens)
+
+
+*    *
+    *
+    *
+    *   Lorbeer
+        (Laurus nobilis)
+
+
+*    *
+    *
+    *
+    *   Lupine
+        (Lupinus spp.)
+
+
+*    *
+    *
+    *
+    *   Luzerne
+        (Medicago sativa)
+
+
+*    *
+    *
+    *
+    *   Mais
+        (Zea mays)
+
+
+*    *
+    *
+    *
+    *   Mandarine
+        (Citrus reticulata)
+
+
+*    *
+    *
+    *
+    *   Mandel
+        (Prunus amygdalus; P. communis; Amygdalus communis)
+
+
+*    *
+    *
+    *
+    *   Melonensaat
+        (Cucumis melo)
+
+
+*    *
+    *
+    *
+    *   Mohnsaat
+        (Papaver somniferum)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, großfrüchtige/Kulturpreiselbeere
+        (Vaccinium macrocarpon)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, kleinfrüchtige/Kranichbeere
+        (Vaccinium oxycoccos)
+
+
+*    *
+    *
+    *
+    *   Nelkenpfefferbaum/Pimentbaum
+        (Pimenta officinalis)
+
+
+*    *
+    *
+    *
+    *   Okra
+        (Abelmoschus esculentus; Hibiscus esculentus)
+
+
+*    *
+    *
+    *
+    *   Oliven
+        (Olea europaea)
+
+
+*    *
+    *
+    *
+    *   Orangen:
+        (Orange/Apfelsine
+        (Citrus sinensis)
+        Bitterorange
+        (C. aurantium))
+
+
+*    *
+    *
+    *
+    *   Pfefferminze
+        (Mentha spp.; M. piperita)
+
+
+*    *
+    *
+    *
+    *   Pfirsiche und Nektarinen
+        (Prunus persica; Amygdalus persica; Persica laevis)
+
+
+*    *
+    *
+    *
+    *   Pflaumen und Schlehen:
+        (Reineclaude, Mirabelle, Damaszenerpflaume
+        (Prunus domestica)
+        Schlehe
+        (P. spinosa))
+
+
+*    *
+    *
+    *
+    *   Pistazie
+        (Pistacia vera)
+
+
+*    *
+    *
+    *
+    *   Pyrethrum
+        (Chrysanthemum cinerariifolium)
+
+
+*    *
+    *
+    *
+    *   Quitte
+        (Cydonia oblonga; C. vulgaris; C. japonica)
+
+
+*    *
+    *
+    *
+    *   Rapssaat
+        (Brassica napus var. oleifera)
+
+
+*    *
+    *
+    *
+    *   Rizinussaat
+        (Ricinus communis)
+
+
+*    *
+    *
+    *
+    *   Safran
+        (Crocus sativus)
+
+
+*    *
+    *
+    *
+    *   Satsuma
+        (C. unshiu)
+
+
+*    *
+    *
+    *
+    *   Schwarzer Holunder
+        (Sambucus nigra)
+
+
+*    *
+    *
+    *
+    *   Senfsaat:
+        (Weißer Senf
+        (Brassica alba; B. hirta; Sinapis alba)
+        Schwarzer Senf
+        (Brassica nigra; Sinapis nigra))
+
+
+*    *
+    *
+    *
+    *   Serradella/Vogelsaat
+        (Ornithopus sativus)
+
+
+*    *
+    *
+    *
+    *   Sesamsaat
+        (Sesamum indicum)
+
+
+*    *
+    *
+    *
+    *   Sojabohne
+        (Glycine soja)
+
+
+*    *
+    *
+    *
+    *   Sonnenblumensaat
+        (Helianthus annuus)
+
+
+*    *
+    *
+    *
+    *   Speiserüben und Rübsen
+        (Brassica rapa var. rapifera und oleifera spp.)
+
+
+*    *
+    *
+    *
+    *   Stachelbeere
+        (Ribes uva-crispa)
+
+
+*    *
+    *
+    *
+    *   Sternanis
+        (Illicium verum)
+
+
+*    *
+    *
+    *
+    *   Tangerine
+        (Citrus tangerina)
+
+
+*    *
+    *
+    *
+    *   Thymian
+        (Thymus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Wacholderbeere
+        (Juniperus communis)
+
+
+*    *
+    *
+    *
+    *   Walnuss
+        (Juglans spp.; J. regia)
+
+
+*    *
+    *
+    *
+    *   Wassermelone
+        (Citrullus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Weinrebe
+        (Vitis vinifera)
+
+
+*    *
+    *
+    *
+    *   Wicken (Platterbsenwicke/Futterwicke
+        (Vicia sativa))
+
+
+*    *
+    *
+    *
+    *   Zierpflanzen, die im Jahr der Behandlung blühen
+
+
+*    *
+    *
+    *
+    *   Zitronen und Limetten:
+        (Zitrone
+        (Citrus limon)
+        Saure Limette/Limonelle
+        (C. aurantiifolia)
+        Limette/Süßzitrone
+        (C. limetta)).
+
+
 *    *   6
 
     *   Quarzmehl
@@ -729,6 +2152,699 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   Die Anwendung in Vorräten von Getreide und Räumen, die der Lagerung
         von Getreide dienen, ist verboten.
+
+
+*    *   7
+
+    *   Thiamethoxam
+
+    *   Die Anwendung ist verboten
+
+
+*    *
+    *
+    *   1.
+
+    *   im Haus- und Kleingartenbereich,
+
+
+*    *
+    *
+    *   2.
+
+    *   zur Saatgutbehandlung oder Bodenbehandlung für folgende Getreidearten,
+        wenn die Aussaat zwischen Januar und Juni erfolgt:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   3.
+
+    *   zur Blattbehandlung bei folgenden Getreidearten:
+
+
+*    *
+    *
+    *
+    *   Gerste, Hirse, Hafer, Reis, Roggen, Sorghum, Triticale, Weizen,
+
+
+*    *
+    *
+    *   4.
+
+    *   zur Saatgutbehandlung, Bodenbehandlung oder Blattbehandlung außer bei
+        Behandlung in Gewächshäusern und außer zur Blattbehandlung nach der
+        Blüte bei folgenden Kulturen:
+
+
+*    *
+    *
+    *
+    *   Ackerbohne/Pferdebohne
+        (Vicia faba var. major; var. equina; var. minor)
+
+
+*    *
+    *
+    *
+    *   Amerikanische Strauchheidelbeere
+        (V. corymbosum)
+
+
+*    *
+    *
+    *
+    *   Anis
+        (Pimpinella anisum)
+
+
+*    *
+    *
+    *
+    *   Apfel
+        (Malus pumila; M. sylvestris; M. communis; Pyrus malus)
+
+
+*    *
+    *
+    *
+    *   Aprikose
+        (Prunus armeniaca)
+
+
+*    *
+    *
+    *
+    *   Avocadofrucht
+        (Persea americana)
+
+
+*    *
+    *
+    *
+    *   Banane
+        (Musa sapientum; M. cavendishii; M. nana)
+
+
+*    *
+    *
+    *
+    *   Baumwolle
+        (Gossypium spp.)
+
+
+*    *
+    *
+    *
+    *   Birne
+        (Pyrus communis)
+
+
+*    *
+    *
+    *
+    *   Bockshornkleesaat
+        (Trigonella foenumgraecum)
+
+
+*    *
+    *
+    *
+    *   Bohne
+        (Phaseolus spp.)
+
+
+*    *
+    *
+    *
+    *   Brombeere
+        (Rubus fruticosus)
+
+
+*    *
+    *
+    *
+    *   Buchweizen
+        (Fagopyrum esculentum)
+
+
+*    *
+    *
+    *
+    *   Chilipfeffer
+        (Capsicum frutescens; C. annuum)
+
+
+*    *
+    *
+    *
+    *   Dattel
+        (Phoenix dactylifera)
+
+
+*    *
+    *
+    *
+    *   Dillsaat
+        (Anethum graveolens)
+
+
+*    *
+    *
+    *
+    *   Erbsen:
+        (Gartenerbse
+        (Pisum sativum)
+        Felderbse
+        (P. arvense))
+
+
+*    *
+    *
+    *
+    *   Erdbeeren
+        (Fragaria spp.)
+
+
+*    *
+    *
+    *
+    *   Erdnuss
+        (Arachis hypogaea)
+
+
+*    *
+    *
+    *
+    *   Esskastanie
+        (Castanea spp.)
+
+
+*    *
+    *
+    *
+    *   Färberdistelsaat
+        (Carthamus tinctorius)
+
+
+*    *
+    *
+    *
+    *   Fenchel
+        (Foeniculum vulgare)
+
+
+*    *
+    *
+    *
+    *   Gartenschwarzwurzel
+        (Scorzonera hispanica)
+
+
+*    *
+    *
+    *
+    *   Gelbwurz
+        (Curcuma longa)
+
+
+*    *
+    *
+    *
+    *   Gemeine Kuhbohne/Augenbohne
+        (Vigna unguiculata)
+
+
+*    *
+    *
+    *
+    *   Grapefruit
+        (Citrus paradisi)
+
+
+*    *
+    *
+    *
+    *   Gurke
+        (Cucumis sativus)
+
+
+*    *
+    *
+    *
+    *   Hanf
+        (Cannabis sativa)
+
+
+*    *
+    *
+    *
+    *   Haselnuss
+        (Corylus avellana)
+
+
+*    *
+    *
+    *
+    *   Heidelbeere/Blaubeere/Bickbeere
+        (Vaccinium myrtillus)
+
+
+*    *
+    *
+    *
+    *   Himbeere
+        (Rubus idaeus)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, rote und weiße
+        (Ribes rubrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbeere, schwarze
+        (Ribes nigrum)
+
+
+*    *
+    *
+    *
+    *   Johannisbrotbaum/Karobenbaum
+        (Ceratonia siliqua)
+
+
+*    *
+    *
+    *
+    *   Kaffee
+        (Coffea spp. arabica, robusta, liberica)
+
+
+*    *
+    *
+    *
+    *   Kaki
+        (Diospyros kaki; D. virginiana)
+
+
+*    *
+    *
+    *
+    *   Kartoffel-Rose
+        (Rosa rugosa)
+
+
+*    *
+    *
+    *
+    *   Kichererbse
+        (Cicer arietinum)
+
+
+*    *
+    *
+    *
+    *   Kirsche
+        (Prunus avium)
+
+
+*    *
+    *
+    *
+    *   Kiwi
+        (Actinidia chinensis)
+
+
+*    *
+    *
+    *
+    *   Klee
+        (Trifolium spp.)
+
+
+*    *
+    *
+    *
+    *   Koriander
+        (Coriandrum sativum)
+
+
+*    *
+    *
+    *
+    *   Kreuzkümmel
+        (Cuminum cyminum)
+
+
+*    *
+    *
+    *
+    *   Kümmel
+        (Carum carvi)
+
+
+*    *
+    *
+    *
+    *   Kürbis
+        (Cucurbita spp.)
+
+
+*    *
+    *
+    *
+    *   Leguminosen:
+        (Hornschotenklee
+        (Lotus corniculatus)
+        Lespedeza
+        (Lespedeza spp.)
+        Kopoubohne
+        (Pueraria lobata)
+        Sesbania
+        (Sesbania spp.)
+        Futteresparsette
+        (Onobrychis sativa)
+        Spanische Esparsette
+        (Hedysarum coronarium))
+
+
+*    *
+    *
+    *
+    *   Leinsaat
+        (Linum usitatissimum)
+
+
+*    *
+    *
+    *
+    *   Linsen
+        (Lens esculenta; Ervum lens)
+
+
+*    *
+    *
+    *
+    *   Lorbeer
+        (Laurus nobilis)
+
+
+*    *
+    *
+    *
+    *   Lupine
+        (Lupinus spp.)
+
+
+*    *
+    *
+    *
+    *   Luzerne
+        (Medicago sativa)
+
+
+*    *
+    *
+    *
+    *   Mais
+        (Zea mays)
+
+
+*    *
+    *
+    *
+    *   Mandel
+        (Prunus amygdalus; P. communis; Amygdalus communis)
+
+
+*    *
+    *
+    *
+    *   Melonensaat
+        (Cucumis melo)
+
+
+*    *
+    *
+    *
+    *   Mohnsaat
+        (Papaver somniferum)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, großfrüchtige/Kulturpreiselbeere
+        (Vaccinium macrocarpon)
+
+
+*    *
+    *
+    *
+    *   Moosbeere, kleinfrüchtige/Kranichbeere
+        (Vaccinium oxycoccos)
+
+
+*    *
+    *
+    *
+    *   Nelkenpfefferbaum/Pimentbaum
+        (Pimenta officinalis)
+
+
+*    *
+    *
+    *
+    *   Okra
+        (Abelmoschus esculentus; Hibiscus esculentus)
+
+
+*    *
+    *
+    *
+    *   Oliven
+        (Olea europaea)
+
+
+*    *
+    *
+    *
+    *   Orangen:
+        (Orange/Apfelsine
+        (Citrus sinensis)
+        Bitterorange
+        (C. aurantium))
+
+
+*    *
+    *
+    *
+    *   Pfefferminze
+        (Mentha spp.; M. piperita)
+
+
+*    *
+    *
+    *
+    *   Pfirsiche und Nektarinen
+        (Prunus persica; Amygdalus persica; Persica laevis)
+
+
+*    *
+    *
+    *
+    *   Pflaumen und Schlehen:
+        (Reineclaude, Mirabelle, Damaszenerpflaume
+        (Prunus domestica)
+        Schlehe
+        (P. spinosa))
+
+
+*    *
+    *
+    *
+    *   Pistazie
+        (Pistacia vera)
+
+
+*    *
+    *
+    *
+    *   Pyrethrum
+        (Chrysanthemum cinerariifolium)
+
+
+*    *
+    *
+    *
+    *   Quitte
+        (Cydonia oblonga; C. vulgaris; C. japonica)
+
+
+*    *
+    *
+    *
+    *   Rapssaat
+        (Brassica napus var. oleifera)
+
+
+*    *
+    *
+    *
+    *   Rizinussaat
+        (Ricinus communis)
+
+
+*    *
+    *
+    *
+    *   Safran
+        (Crocus sativus)
+
+
+*    *
+    *
+    *
+    *   Schwarzer Holunder
+        (Sambucus nigra)
+
+
+*    *
+    *
+    *
+    *   Senfsaat:
+        (Weißer Senf
+        (Brassica alba; B. hirta; Sinapis alba)
+        Schwarzer Senf
+        (Brassica nigra; Sinapis nigra))
+
+
+*    *
+    *
+    *
+    *   Serradella/Vogelsaat
+        (Ornithopus sativus)
+
+
+*    *
+    *
+    *
+    *   Sesamsaat
+        (Sesamum indicum)
+
+
+*    *
+    *
+    *
+    *   Sojabohne
+        (Glycine soja)
+
+
+*    *
+    *
+    *
+    *   Sonnenblumensaat
+        (Helianthus annuus)
+
+
+*    *
+    *
+    *
+    *   Speiserüben und Rübsen
+        (Brassica rapa var. rapifera und oleifera spp.)
+
+
+*    *
+    *
+    *
+    *   Stachelbeere
+        (Ribes uva-crispa)
+
+
+*    *
+    *
+    *
+    *   Sternanis
+        (Illicium verum)
+
+
+*    *
+    *
+    *
+    *   Tangerine
+        (Citrus tangerina)
+
+
+*    *
+    *
+    *
+    *   Thymian
+        (Thymus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Wacholderbeere
+        (Juniperus communis)
+
+
+*    *
+    *
+    *
+    *   Walnuss
+        (Juglans spp.; J. regia)
+
+
+*    *
+    *
+    *
+    *   Wassermelone
+        (Citrullus vulgaris)
+
+
+*    *
+    *
+    *
+    *   Weinrebe
+        (Vitis vinifera)
+
+
+*    *
+    *
+    *
+    *   Wicken (Platterbsenwicke/Futterwicke
+        (Vicia sativa))
+
+
+*    *
+    *
+    *
+    *   Zierpflanzen, die im Jahr der Behandlung blühen
+
+
+*    *
+    *
+    *
+    *   Zitronen und Limetten:
+        (Zitrone
+        (Citrus limon)
+        Saure Limette/Limonelle
+        (C. aurantiifolia)
+        Limette/Süßzitrone
+        (C. limetta)).
 
 
 *    *
@@ -1042,10 +3158,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+   (zu § 3a)
 
-## Anlage 4 (zu § 3a) Besondere Abgabebedingungen
+## Anlage 4 Besondere Abgabebedingungen
 
-   Fundstelle des Originaltextes: BGBl. I 2003, 1538
+Fundstelle des Originaltextes: BGBl. I 2003, 1538
 
 *    *   Nummer
 

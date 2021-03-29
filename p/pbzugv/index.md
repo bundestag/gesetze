@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2000, 851
 
 Zuletzt geändert durch
-:   Art. 3 V v. 8.11.2007 I 2569
+:   Art. 484 V v. 31.8.2015 I 1474
 
 Die Neufassung dieser Verordnung dient der Umsetzung der Richtlinie
 96/26/EG des Rates vom 29. April 1996 über den Zugang zum Beruf des
@@ -53,16 +53,15 @@ Verkehr, Bau- und Wohnungswesen:
 
 ## § 1 Persönliche Zuverlässigkeit
 
-(1) Das Unternehmen und die zur Führung der Geschäfte bestellten
+(1) Der Unternehmer und die zur Führung der Geschäfte bestellten
 Personen gelten als zuverlässig im Sinne des § 13 Abs. 1 Nr. 2 des
 Personenbeförderungsgesetzes, wenn keine hinreichenden Anhaltspunkte
 dafür vorliegen, dass bei der Führung des Unternehmens die für den
 Straßenpersonenverkehr geltenden Vorschriften missachtet oder die
 Allgemeinheit bei dem Betrieb des Unternehmens geschädigt oder
-gefährdet werden.
-
-(2) Anhaltspunkte für die Unzuverlässigkeit des Unternehmens oder der
-für die Führung der Geschäfte bestellten Person sind insbesondere
+gefährdet werden. Anhaltspunkte für die Unzuverlässigkeit des
+Unternehmers oder der für die Führung der Geschäfte bestellten Person
+sind insbesondere
 
 1.  rechtskräftige Verurteilungen wegen schwerer Verstöße gegen
     strafrechtliche Vorschriften,
@@ -101,10 +100,91 @@ für die Führung der Geschäfte bestellten Person sind insbesondere
 
 
 
-Zur Prüfung, ob solche Verstöße vorliegen, kann die
-Genehmigungsbehörde Unbedenklichkeitsbescheinigungen und Auszüge aus
-Registern, in denen derartige Verstöße registriert sind, von dem
-Antragsteller verlangen oder mit dessen Einverständnis anfordern.
+
+(2) Beim Verkehr mit Kraftomnibussen sind der Unternehmer und der
+Verkehrsleiter im Sinne des Artikels 4 der Verordnung (EG) Nr.
+1071/2009 des Europäischen Parlaments und des Rates vom 21. Oktober
+2009 zur Festlegung gemeinsamer Regeln für die Zulassung zum Beruf des
+Kraftverkehrsunternehmers und zur Aufhebung der Richtlinie 96/26/EG
+des Rates (ABl. L 300 vom 14.11.2009, S. 51) zuverlässig im Sinne des
+Artikels 6 der Verordnung (EG) Nr. 1071/2009, wenn keine Tatsachen
+dafür vorliegen, dass
+
+1.  bei der Führung des Unternehmens gegen gesetzliche Bestimmungen
+    verstoßen oder
+
+
+2.  bei dem Betrieb des Unternehmens die Allgemeinheit geschädigt oder
+    gefährdet wird.
+
+
+
+Die erforderliche Zuverlässigkeit besitzen der Unternehmer und der
+Verkehrsleiter in der Regel nicht, wenn sie wegen eines schwersten
+Verstoßes gegen Gemeinschaftsvorschriften im Sinne des Anhangs IV der
+Verordnung (EG) Nr. 1071/2009
+
+1.  rechtskräftig verurteilt worden sind oder
+
+
+2.  ein gegen sie ergangener Bußgeldbescheid unanfechtbar geworden ist.
+
+
+
+Darüber hinaus können der Unternehmer und der Verkehrsleiter
+insbesondere dann unzuverlässig sein, wenn eine rechtskräftige
+Verurteilung oder ein unanfechtbarer Bußgeldbescheid vorliegt
+
+1.  wegen eines schwerwiegenden Verstoßes gegen Gemeinschaftsvorschriften
+    im Sinne des Artikels 6 Absatz 1 Unterabsatz 3 Buchstabe b der
+    Verordnung (EG) Nr. 1071/2009 in einem oder mehreren Mitgliedstaaten
+    der Europäischen Union,
+
+
+2.  wegen eines schweren Verstoßes gegen strafrechtliche Vorschriften oder
+
+
+3.  wegen eines schweren Verstoßes gegen
+
+    a)  Vorschriften des Personenbeförderungsgesetzes oder der auf diesem
+        Gesetz beruhenden Rechtsverordnungen,
+
+
+    b)  arbeits- oder sozialrechtliche Pflichten,
+
+
+    c)  Vorschriften, die im Interesse der Verkehrs- und Betriebssicherheit
+        erlassen wurden, insbesondere gegen die Vorschriften des
+        Straßenverkehrsgesetzes, der Straßenverkehrs-Ordnung oder der
+        Straßenverkehrs-Zulassungs-Ordnung,
+
+
+    d)  die abgabenrechtlichen Pflichten, die sich aus unternehmerischer
+        Tätigkeit ergeben,
+
+
+    e)  § 1 des Pflichtversicherungsgesetzes vom 5. April 1965 (BGBl. I S.
+        213) in der jeweils geltenden Fassung,
+
+
+    f)  umweltschützende Vorschriften, insbesondere des Abfall- und
+        Immissionsschutzrechts oder
+
+
+    g)  Vorschriften des Handels- und Insolvenzrechts.
+
+
+
+
+
+
+
+(3) Zur Prüfung, ob Verstöße vorliegen, kann die Genehmigungsbehörde
+Bescheinigungen in Steuersachen der Finanzämter sowie
+Unbedenklichkeitsbescheinigungen anderer öffentlicher Stellen und
+Auszüge aus Registern, in denen derartige Verstöße registriert sind,
+von dem Antragsteller verlangen oder mit dessen Einverständnis
+anfordern.
 
 
 ## § 2 Finanzielle Leistungsfähigkeit
@@ -120,30 +200,22 @@ verneinen, wenn
     bestehen, die aus unternehmerischer Tätigkeit geschuldet werden;
 
 
-2.  beim Verkehr mit Kraftomnibussen das Eigenkapital zuzüglich der
-    Reserven des Unternehmens im Sinne des Absatzes 3 weniger als 9.000
-    Euro für das erste Fahrzeug oder weniger als 5.000 Euro für jedes
-    weitere Fahrzeug beträgt;
-
-
-3.  beim Verkehr mit Taxen und Mietwagen das Eigenkapital und die Reserven
-    des Unternehmens weniger betragen als ein Viertel der unter Nummer 2
-    genannten Beträge je eingesetztem Fahrzeug.
+2.  beim Verkehr mit Taxen und Mietwagen das Eigenkapital und die Reserven
+    des Unternehmens weniger betragen als ein Viertel der in Artikel 7
+    Absatz 1 Satz 2 der Verordnung (EG) Nr. 1071/2009 genannten Beträge je
+    eingesetztem Fahrzeug.
 
 
 
-Bei der Ermittlung des erforderlichen Betrages nach Nummer 2 ist die
-Zahl der Fahrzeuge maßgebend, die eingesetzt werden müssen, um der
-Betriebspflicht gemäß dem beantragten Fahrplan oder dem Umfang des
-beantragten Gelegenheitsverkehrs mit Kraftomnibussen zu genügen.
 
 (2) Die finanzielle Leistungsfähigkeit wird durch Vorlage folgender
 Bescheinigungen nachgewiesen:
 
-1.  von Unbedenklichkeitsbescheinigungen des Finanzamtes, der Gemeinde,
-    der Träger der Sozialversicherung und der Berufsgenossenschaft, wobei
-    die Stichtage dieser Bescheinigungen zum Zeitpunkt der Antragstellung
-    nicht länger als drei Monate zurückliegen dürfen, sowie
+1.  von Bescheinigungen in Steuersachen des Finanzamtes sowie
+    Unbedenklichkeitsbescheinigungen der Gemeinde, der Träger der
+    Sozialversicherung und der Berufsgenossenschaft, wobei die Stichtage
+    dieser Bescheinigungen zum Zeitpunkt der Antragstellung nicht länger
+    als drei Monate zurückliegen dürfen, sowie
 
 
 2.  einer Eigenkapitalbescheinigung eines Wirtschaftsprüfers, vereidigten
@@ -204,35 +276,26 @@ Eigenkapitalbescheinigung oder die Vermögensübersicht im Sinne des
 Absatzes 2 Nr. 2 und die Zusatzbescheinigung im Sinne des Absatzes 3
 Satz 2 erstellt wurden.
 
-(5) Wurde dem Unternehmer eine Genehmigung für den
-Straßenpersonenverkehr vor dem 1. Oktober 1999 erteilt, muss er ohne
-besondere Aufforderung die Anforderungen nach Absatz 1 für die
-Fahrzeuge, die er zu diesem Zeitpunkt eingesetzt hat, spätestens am 1.
-Oktober 2001 erfüllen. Für jede nach dem 1. Oktober 1999 vorgenommene
-Vergrößerung des Fahrzeugparks muss er die Anforderungen unverzüglich
-erfüllen. Es gilt die Vermutung, dass die Anforderungen bei dem
-Unternehmen vorliegen.
+(5) Beim Verkehr mit Kraftomnibussen besitzt der Unternehmer die
+erforderliche finanzielle Leistungsfähigkeit, wenn er die
+Voraussetzungen des Artikels 7 der Verordnung (EG) Nr. 1071/2009
+erfüllt.
 
 
 ## § 3 Fachliche Eignung
 
-Fachlich geeignet im Sinne von § 13 Abs. 1 Nr. 3 des
-Personenbeförderungsgesetzes ist, wer über die zur ordnungsgemäßen
-Führung eines Unternehmens des Straßenpersonenverkehrs erforderlichen
-Kenntnisse auf den Sachgebieten verfügt, die im Anhang I unter Ziffer
-I der Richtlinie 96/26/EG des Rates vom 29. April 1996 über den Zugang
-zum Beruf des Güter- und Personenkraftverkehrsunternehmers im
-innerstaatlichen und grenzüberschreitenden Verkehr sowie über die
-gegenseitige Anerkennung der Diplome, Prüfungszeugnisse und sonstigen
-Befähigungsnachweise für die Beförderung von Gütern und die
-Beförderung von Personen im Straßenverkehr und über die Maßnahmen zur
-Förderung der tatsächlichen Inanspruchnahme der Niederlassungsfreiheit
-der betreffenden Verkehrsunternehmer (ABl. EG Nr. L 124 S. 1), zuletzt
-geändert durch Richtlinie 98/76/EG des Rates vom 1. Oktober 1998 (ABl.
-EG Nr. L 277 S. 17), in der jeweils geltenden Fassung aufgeführt sind.
-Dies gilt nicht für den Taxen- und Mietwagenverkehr. Die dafür
-erforderlichen Kenntnisse sind in der Anlage 3 dieser Verordnung
-aufgeführt.
+(1) Beim Verkehr mit Kraftomnibussen ist fachlich geeignet im Sinne
+des Artikels 3 Absatz 1 Buchstabe d der Verordnung (EG) Nr. 1071/2009,
+wer über die Kenntnisse verfügt, die zur ordnungsgemäßen Führung eines
+Straßenpersonenverkehrsunternehmens erforderlich sind, und zwar auf
+den jeweiligen Sachgebieten, die im Anhang I Teil I der Verordnung
+(EG) Nr. 1071/2009 in der jeweils geltenden Fassung aufgeführt sind.
+
+(2) Für die fachliche Eignung nach § 13 Absatz 1 Nummer 3 des
+Personenbeförderungsgesetzes gilt Absatz 1 im Hinblick auf die
+Vorschriften zum Personenkraftverkehr entsprechend. Abweichend davon
+ergeben sich die für den Taxen- und Mietwagenverkehr erforderlichen
+Kenntnisse aus Anlage 3.
 
 
 ## § 4 Fachkundeprüfung
@@ -241,14 +304,12 @@ aufgeführt.
 nachgewiesen, die sich aus zwei schriftlichen und gegebenenfalls einem
 ergänzenden mündlichen Prüfungsteil zusammensetzt.
 
-(2) Die schriftlichen Teilprüfungen bestehen aus schriftlichen Fragen,
-die entweder Multiple-choice-Fragen mit vier Antworten zur Auswahl
-oder Fragen mit direkter Antwort oder eine Kombination beider Systeme
-umfassen, und aus schriftlichen Übungen/Fallstudien. Die Mindestdauer
-für jede schriftliche Teilprüfung beträgt für den
-Straßenpersonenverkehr, ausgenommen Taxen- und Mietwagenverkehr, zwei
-Stunden. Die Mindestdauer für jede schriftliche Teilprüfung für den
-Taxen- und Mietwagenverkehr beträgt eine Stunde.
+(2) Die schriftlichen Teilprüfungen bestehen aus Multiple-Choice-
+Fragen und schriftlichen Fragen mit direkter Antwort sowie aus
+schriftlichen Übungen/Fallstudien. Die Mindestdauer für jede
+schriftliche Teilprüfung beträgt zwei Stunden. Die Mindestdauer für
+jede schriftliche Teilprüfung für den Taxen- und Mietwagenverkehr
+beträgt abweichend von Satz 2 eine Stunde.
 
 (3) Es ist eine Gesamtpunktezahl zu bilden, die wie folgt auf die
 Prüfungsteile aufzuteilen ist:
@@ -276,15 +337,28 @@ in den schriftlichen Teilprüfungen mindestens 60 Prozent der möglichen
 Gesamtpunktezahl erzielt hat.
 
 (6) Bewerbern, die die Prüfung bestanden haben, wird eine
-Bescheinigung nach dem Muster der Anlage 4 oder 5 erteilt.
+Bescheinigung nach dem Muster des Anhangs III der Verordnung (EG) Nr.
+1071/2009 in der jeweils geltenden Fassung erteilt. Diese
+Bescheinigung ist auf Papier mit Spezialfasern, die unter UV-Licht
+sichtbar werden, zu erteilen, sowie mit einer Seriennummer und einer
+Ausgabenummer zu versehen. Die Bescheinigung für den Taxen- und
+Mietwagenverkehr wird nach dem Muster der Anlage 5 erteilt.
 
 (7) Die Prüfung und die Bewertung der Prüfungsleistungen erfolgen
 durch die Industrie- und Handelskammern auf Grund einer
-Prüfungsordnung unter Beachtung der Richtlinie 96/26/EG des Rates vom
-29\. April 1996 in der jeweils geltenden Fassung, insbesondere Ziffer
-II des Anhangs I dieser Richtlinie.
+Prüfungsordnung unter Beachtung der Verordnung (EG) Nr. 1071/2009 in
+der jeweils geltenden Fassung, insbesondere von Teil II des Anhangs I
+dieser Verordnung.
 
-(8) (weggefallen)
+(8) Beim Verkehr mit Kraftomnibussen ist Artikel 8 der Verordnung (EG)
+Nr. 1071/2009 die maßgebliche Vorschrift für die Anforderungen an die
+fachliche Eignung. Die Absätze 2 bis 5 und 7 gelten mit Ausnahme des
+Absatzes 2 Satz 3 entsprechend. Die Bescheinigung nach dem Muster des
+Anhangs III der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden
+Fassung, die Bewerbern, die die Prüfung bestanden haben, erteilt wird,
+ist auf Papier mit Spezialfasern, die unter UV-Licht sichtbar werden,
+zu erteilen, sowie mit einer Seriennummer und einer Ausgabenummer zu
+versehen.
 
 
 ## § 5 Prüfungsausschuss
@@ -292,100 +366,105 @@ II des Anhangs I dieser Richtlinie.
 (1) Die Prüfung wird vor der zuständigen Industrie- und Handelskammer
 abgelegt, die einen Prüfungsausschuss errichtet.
 
-(2) Der Prüfungsausschuss besteht aus einem Vorsitzenden und zwei
-Beisitzern. Für jedes Mitglied soll mindestens ein Vertreter bestellt
-werden. Ein Beisitzer soll in einem Unternehmen des
+(2) Der Prüfungsausschuss besteht aus einem Vorsitzenden und
+mindestens einem Beisitzer. Für jedes Mitglied soll mindestens ein
+Vertreter bestellt werden. Ein Beisitzer soll in einem Unternehmen des
 Straßenpersonenverkehrs der jeweiligen Prüfungssparte tätig sein.
 
 (3) Die Industrie- und Handelskammer bestellt die Mitglieder des
 Prüfungsausschusses und ihre Vertreter. Der Vorsitzende des
 Prüfungsausschusses und sein Vertreter sollen zur Vollversammlung der
 Industrie- und Handelskammer wählbar oder bei einer Industrie- und
-Handelskammer beschäftigt sein. Die Beisitzer und ihre Vertreter
-sollen auf Vorschlag der Fachverbände des Verkehrsgewerbes bestellt
-werden. Die Fachverbände sollen zu Beisitzern und deren Vertretern
-mindestens doppelt so viele Personen vorschlagen, wie bestellt werden.
+Handelskammer beschäftigt sein. Beisitzer und ihre Vertreter sollen
+auf Vorschlag der Fachverbände des Verkehrsgewerbes bestellt werden.
+Die Fachverbände sollen zu Beisitzern und deren Vertretern mindestens
+doppelt so viele Personen vorschlagen, wie bestellt werden.
 
 (4) Bei Bedarf muss der Prüfungsausschuss der Industrie- und
 Handelskammer mindestens einmal im Vierteljahr einen Prüfungstermin
-festsetzen. Zuständig ist der Prüfungsausschuss, in dessen Bezirk der
-Bewerber seinen Wohnsitz hat. Hat der Bewerber seinen Wohnsitz im
-Ausland, ist die nächstgelegene Industrie- und Handelskammer
-zuständig. Der Bewerber kann mit seiner Zustimmung an den
-Prüfungsausschuss einer anderen Industrie- und Handelskammer verwiesen
-werden, wenn innerhalb eines Vierteljahres weniger als drei Bewerber
-zur Prüfung anstehen oder dem Bewerber andernfalls wirtschaftliche
-Nachteile entstehen.
+festsetzen. Zuständig ist der Prüfungsausschuss, in dessen
+Zuständigkeitsbereich der Bewerber seinen Wohnsitz hat. Hat der
+Bewerber seinen Wohnsitz im Ausland, ist die nächstgelegene Industrie-
+und Handelskammer zuständig. Abweichend von Satz 3 ist beim Verkehr
+mit Kraftomnibussen die Industrie- und Handelskammer zuständig, in
+deren Zuständigkeitsbereich der Bewerber arbeitet. Der Bewerber kann
+mit seiner Zustimmung an den Prüfungsausschuss einer anderen
+Industrie- und Handelskammer verwiesen werden, wenn innerhalb eines
+Vierteljahres weniger als drei Bewerber zur Prüfung anstehen oder dem
+Bewerber andernfalls wirtschaftliche Nachteile entstehen.
 
 
 ## § 6 Gleichwertige Abschlussprüfungen
 
-(1) Als Prüfungen der fachlichen Eignung gelten auch die in der Anlage
-6 aufgeführten Abschlussprüfungen.
+(1) Die nach Landesrecht zuständige Behörde kann nach Anhörung der
+übrigen nach Landesrecht zuständigen Behörden und des Deutschen
+Industrie- und Handelskammertages andere Abschlussprüfungen als
+Fachkundeprüfungen nach § 4 anerkennen, wenn die erforderlichen
+Kenntnisse auf den Sachgebieten, die sich aus § 3 ergeben, Gegenstand
+der Abschlussprüfung sind. Das Bundesministerium für Verkehr und
+digitale Infrastruktur gibt die Bezeichnung der anerkannten
+Abschlussprüfung auf Antrag der nach Landesrecht zuständigen Behörde
+im Verkehrsblatt bekannt.
 
-(2) Die oberste Landesverkehrsbehörde kann nach Anhörung der übrigen
-obersten Landesverkehrsbehörden und der Industrie- und Handelskammern
-andere Abschlussprüfungen als Prüfungen der fachlichen Eignung
-anerkennen, wenn die erforderlichen Kenntnisse auf den Sachgebieten,
-die sich aus § 3 ergeben, Gegenstand der Abschlussprüfung sind. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung gibt die
-Bezeichnungen der anerkannten Abschlussprüfungen auf Antrag der
-obersten Landesverkehrsbehörde im Verkehrsblatt bekannt.
+(2) Als Fachkundeprüfung gelten auch die in Anlage 6 der bis zum
+Ablauf des 4. März 2013 geltenden Fassung aufgeführten
+Abschlussprüfungen, wenn die Ausbildung vor dem 4. Dezember 2011
+begonnen worden ist. Als Fachkundeprüfung gelten auch
+Abschlussprüfungen, die von einer nach Landesrecht zuständigen Behörde
+nach § 6 Absatz 2 in der bis zum Ablauf des 4. März 2013 geltenden
+Fassung bis zum 4. Dezember 2011 anerkannt worden sind, wenn die
+Ausbildung vor dem 4. Dezember 2011 begonnen worden ist.
 
-(3) Die in § 5 Abs. 4 bezeichnete zuständige Industrie- und
-Handelskammer stellt dem Inhaber eines nach Absatz 1 oder 2
-anerkannten Abschlusses auf Antrag eine Fachkundebescheinigung aus
-nach dem Muster der Anlage 4 oder 5.
+(3) Die nach § 5 Absatz 4 zuständige Industrie-und Handelskammer
+stellt dem Inhaber eines nach Absatz 1 oder 2 anerkannten Abschlusses
+auf Antrag eine Bescheinigung nach dem Muster des Anhangs III der
+Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden Fassung aus. §
+4 Absatz 6 Satz 2 und 3 gilt entsprechend.
 
 
 ## § 7 Anerkennung leitender Tätigkeit
 
 (1) Die fachliche Eignung kann auch durch eine mindestens fünfjährige
-leitende Tätigkeit in einem Unternehmen nachgewiesen werden, das
-Straßenpersonenverkehr betreibt. Zur Führung eines Unternehmens des
-Taxen- und Mietwagenverkehrs ist eine mindestens dreijährige leitende
-Tätigkeit in einem solchen Unternehmen nachzuweisen. Die Tätigkeit
-muss die zur ordnungsgemäßen Führung eines
+leitende Tätigkeit in einem inländischen Unternehmen nachgewiesen
+werden, das Straßenpersonenverkehr betreibt. Zur Führung eines
+Unternehmens des Taxen- und Mietwagenverkehrs ist eine mindestens
+dreijährige leitende Tätigkeit in einem solchen Unternehmen
+nachzuweisen. Die Tätigkeit muss die zur ordnungsgemäßen Führung eines
 Straßenpersonenverkehrsunternehmens erforderlichen Kenntnisse auf den
 Sachgebieten vermittelt haben, die sich aus § 3 ergeben. Das Ende
 dieser Tätigkeit darf zum Zeitpunkt der Antragstellung nicht länger
 als zwei Jahre zurückliegen.
 
-(2) Die Prüfung der Voraussetzungen nach Absatz 1 obliegt der
-Industrie- und Handelskammer, in deren Zuständigkeitsbereich das
-Unternehmen seinen Sitz hat. Der Bewerber hat der Kammer hierzu
-aussagefähige Unterlagen vorzulegen. Reichen die Unterlagen zum
-Nachweis der fachlichen Eignung nicht aus, so kann die Kammer mit dem
-Bewerber ein ergänzendes Beurteilungsgespräch führen. Hält die Kammer
-den Bewerber für fachlich geeignet, so stellt sie eine
-Fachkundebescheinigung nach dem Muster der Anlage 4 oder 5 aus.
+(2) Abweichend von Absatz 1 werden beim Verkehr mit Kraftomnibussen
+Personen, die nachweisen können, dass sie in dem Zeitraum von zehn
+Jahren vor dem 4. Dezember 2009 ohne Unterbrechung ein
+Straßenpersonenverkehrsunternehmen in einem oder mehreren
+Mitgliedstaaten der Europäischen Union geleitet haben, von der in
+Artikel 8 Absatz 1 der Verordnung (EG) Nr. 1071/2009 genannten Prüfung
+befreit. Die Tätigkeit muss die zur ordnungsgemäßen Führung eines
+Straßenpersonenverkehrsunternehmens erforderlichen Kenntnisse auf den
+jeweiligen Sachgebieten vermittelt haben, die sich aus dem Anhang I
+Teil I der Verordnung (EG) Nr. 1071/2009 in der jeweils geltenden
+Fassung ergeben.
+
+(3) Die Prüfung der in den Absätzen 1 und 2 genannten Voraussetzungen
+obliegt der Industrie- und Handelskammer, in deren
+Zuständigkeitsbereich der Bewerber seinen Wohnsitz hat. Hat der
+Bewerber seinen Wohnsitz im Ausland, ist die nächstgelegene Industrie-
+und Handelskammer zuständig. Abweichend von Satz 2 ist beim Verkehr
+mit Kraftomnibussen die Industrie- und Handelskammer zuständig, in
+deren Zuständigkeitsbereich der Bewerber arbeitet. Der Bewerber hat
+der Kammer hierzu die zur Prüfung nach Satz 1 erforderlichen
+Unterlagen vorzulegen. Reichen die Unterlagen zum Nachweis der
+fachlichen Eignung nicht aus, so kann die Kammer mit dem Bewerber ein
+ergänzendes Beurteilungsgespräch führen. Hält die Kammer den Bewerber
+für fachlich geeignet, so stellt sie eine Bescheinigung nach dem
+Muster des Anhangs III der Verordnung (EG) Nr. 1071/2009 in der
+jeweils geltenden Fassung aus. § 4 Absatz 6 Satz 2 und 3 gilt
+entsprechend.
 
 
-## § 8 Befreiung vom Nachweis der fachlichen Eignung
-
-Die fachliche Eignung im Sinne des § 3 brauchen nicht nachzuweisen:
-
-1.  Unternehmen, die die erneute Erteilung einer auslaufenden Genehmigung
-    beantragen,
-
-
-2.  Unternehmen, die die Erteilung einer weiteren gleichartigen
-    Genehmigung beantragen,
-
-
-3.  Unternehmen mit einer Genehmigung für den Straßenpersonenverkehr,
-    ausgenommen den Verkehr mit Taxen oder Mietwagen, die eine Genehmigung
-    für eine andere Verkehrsart oder Verkehrsform beantragen,
-
-
-4.  Unternehmen mit einer Genehmigung für den Verkehr mit Taxen, die eine
-    Genehmigung für den Verkehr mit Mietwagen beantragen,
-
-
-5.  Unternehmen mit einer Genehmigung für den Verkehr mit Mietwagen, die
-    eine Genehmigung für den Verkehr mit Taxen beantragen.
-
-
+## § 8 (weggefallen)
 
 
 
@@ -409,8 +488,21 @@ der Beurteilung nicht gegeben sein, die wirtschaftliche Lage des
 Unternehmens jedoch annehmen lassen, dass sie in absehbarer Zukunft
 auf der Grundlage eines Finanzplans erneut auf Dauer erfüllt werden
 kann, kann die zuständige Behörde eine Frist für den Nachweis der
-finanziellen Leistungsfähigkeit einräumen, die die Dauer eines Jahres
-nicht überschreiten darf.
+finanziellen Leistungsfähigkeit einräumen, die die Dauer von sechs
+Monaten nicht überschreiten darf.
+
+(4) Verfahren auf Erneuerung einer Genehmigung nach dem
+Personenbeförderungsgesetz ersetzen die Kontrolle nach Absatz 1,
+soweit dabei zugleich der Nachweis geführt wird, dass die
+Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
+
+(5) Beim Verkehr mit Kraftomnibussen gelten die Artikel 12 und 13 der
+Verordnung (EG) Nr. 1071/2009. Absatz 1 Satz 2 und Absatz 2 gelten
+entsprechend. Verfahren auf Erneuerung der Gemeinschaftslizenz nach
+Artikel 4 oder 6 der Verordnung (EG) Nr. 1073/2009 ersetzen die
+Kontrolle nach Artikel 12 der Verordnung (EG) Nr. 1071/2009, soweit
+dabei zugleich der Nachweis geführt wird, dass die
+Berufszulassungsvoraussetzungen insgesamt erfüllt sind.
 
 
 ## § 10 Anerkennung von ausländischen Berufsqualifikationen
@@ -418,7 +510,7 @@ nicht überschreiten darf.
 (1) Berufsqualifikationen, die in anderen Mitgliedstaaten der
 Europäischen Union oder des Europäischen Wirtschaftsraumes erworben
 wurden, sind von der Genehmigungsbehörde in unmittelbarer Anwendung
-der Artikel 8 bis 10 und 12 der Richtlinie 96/26/EG in der jeweils
+der Artikel 19 bis 21 der Verordnung (EG) Nr. 1071/2009 in der jeweils
 geltenden Fassung und der Richtlinie 2005/36/EG des Europäischen
 Parlaments und des Rates vom 7. September 2005 über die Anerkennung
 von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22), insbesondere der
@@ -436,12 +528,13 @@ zu begründen.
 
 (3) Das Bundesamt für Güterverkehr unterrichtet die zuständigen
 Behörden anderer Mitgliedstaaten der Europäischen Union oder des
-Europäischen Wirtschaftsraumes gemäß Artikel 7 Abs. 1 der Richtlinie
-96/26/EG über die ihm bekannt gewordenen Verstöße gegen die
-Vorschriften für das Personenkraftverkehrsgewerbe und gemäß Artikel 56
-Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt gewordenen
-strafrechtlichen Verurteilungen und andere Tatsachen, die geeignet
-sind, Zweifel an der Zuverlässigkeit des Unternehmens zu begründen.
+Europäischen Wirtschaftsraumes gemäß Artikel 23 Absatz 1 der
+Verordnung (EG) Nr. 1073/2009 über die ihm bekannt gewordenen Verstöße
+gegen die Vorschriften für das Personenkraftverkehrsgewerbe und gemäß
+Artikel 56 Abs. 2 der Richtlinie 2005/36/EG über die ihm bekannt
+gewordenen strafrechtlichen Verurteilungen und andere Tatsachen, die
+geeignet sind, Zweifel an der Zuverlässigkeit des Unternehmens zu
+begründen.
 
 
 ## § 11 Inkrafttreten, Außerkrafttreten
@@ -755,74 +848,8 @@ oder eines Kreditinstituts)
 
 
 
-## Anlage 4 (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
+## Anlage 4 (weggefallen)
 
-(Fundstelle: BGBl. I 2000, 860)
-**EUROPÄISCHE GEMEINSCHAFT**
-----------------------------------------------------------------------
---
-(Dickes beigefarbenes Papier - Format DIN A 4)
----------------------------------
----------------------------------
-I             D                 I      I             IHK
-I
----------------------------------
----------------------------------
-----------------------------------------------------------------------
---
-BESCHEINIGUNG ÜBER DIE FACHLICHE EIGNUNG FÜR DEN
-INNERSTAATLICHEN UND GRENZÜBERSCHREITENDEN
-STRASSENPERSONENVERKEHR
-**AUSGENOMMEN TAXEN- UND MIETWAGENVERKEHR**
----------------------------------
-I Nr. ...                       I
----------------------------------
-Die Industrie- und Handelskammer ................ bescheinigt
-Folgendes:
-a) Frau/Herr
-...........................................................
-geboren in .......................  am ..............................
-hat mit Erfolg gemäß § 4 Abs. 1 oder § 6 Abs. 1 und 2 oder § 7 der
-Berufszugangsverordnung für den Straßenpersonenverkehr vom 15. Juni
-2000 (BGBl. I S. 851) die Prüfung zur Erlangung der Bescheinigung
-über die fachliche Eignung zum Beruf des Straßenpersonenverkehrs-
-unternehmers im innerstaatlichen und grenzüberschreitenden Verkehr
-(Jahr: ..........; Prüfungstermin: ..........) abgelegt.
-b) Die unter Buchstabe a bezeichnete Person ist auf Grund ihrer
-fachlichen Eignung zur Berufsausübung
-in einem Straßenpersonenverkehrsunternehmen,
-das Beförderungen im innerstaatlichen Verkehr in Deutschland
-und Beförderungen im grenzüberschreitenden Verkehr durchführt,
-berechtigt.
-----------------------------------------------------------------------
---
-I Durch diese Bescheinigung wird der ausreichende Nachweis der
-I
-I fachlichen Eignung gemäß Artikel 10 Absatz 1 der Richtlinie 96/26/EG
-I
-I des Rates vom 29. April 1996 über den Zugang zum Beruf des Güter-
-I
-I und Personenkraftverkehrsunternehmers im innerstaatlichen und grenz-
-I
-I überschreitenden Verkehr sowie über die gegenseitige Anerkennung der
-I
-I Diplome, Prüfungszeugnisse und sonstigen Befähigungsnachweise für
-I
-I die Beförderung von Gütern und die Beförderung von Personen im
-I
-I Straßenverkehr und über Maßnahmen zur Förderung der tatsächlichen
-I
-I Inanspruchnahme der Niederlassungsfreiheit der betreffenden
-I
-I Verkehrsunternehmen erbracht.
-I
-----------------------------------------------------------------------
---
-Ausgestellt in ......................  am
-..............................
-.................................
-(Stempel und Unterschrift der
-zuständigen IHK)
 
 
 ## Anlage 5 (zu § 4 Abs. 1, § 6 Abs. 1 und 2, § 7)
@@ -862,30 +889,6 @@ Ausgestellt in ......................  am
 zuständigen IHK)
 
 
-## Anlage 6 (zu § 6 Abs. 1)
-
-Als Abschlussprüfungen nach § 6 Abs. 1 gelten:
-
-(1) Abschlussprüfungen zum Kaufmann/zur Kauffrau im Eisenbahn- und
-    Straßenverkehr, Schwerpunkt: Personenverkehr,
-
-
-(2) Abschlussprüfung zur Fortbildung zum Verkehrsfachwirt/zur
-    Verkehrsfachwirtin,
-
-
-(3) Abschlussprüfung als Betriebswirt/Betriebswirtin (DAV), abgelegt bei
-    der Deutschen Außenhandels- und Verkehrsakademie in Bremen,
-
-
-(4) Abschlussprüfung als Diplom-Betriebswirt/Diplom-Betriebswirtin im
-    Fachbereich Wirtschaft I Studiengang Verkehrsbetriebswirtschaft und
-    Logistik an der Fachhochschule Heilbronn,
-
-
-(5) Abschluss als Diplom-Verkehrswirtschaftler/Diplom-
-    Verkehrswirtschaftlerin an der Technischen Universität Dresden.
-
-
+## Anlage 6 (weggefallen)
 
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1971, 217
 
-Geändert durch
-:   Art. 103 G v. 19.4.2006 I 866
+Zuletzt geändert durch
+:   Art. 3 G v. 23.1.2013 I 101
 
 
 ## Eingangsformel
@@ -56,9 +56,7 @@ hat, das Landesjugendamt Berlin zuständig.
 
 (3) Die Mitteilungen können unmittelbar gegeben und empfangen werden.
 
-(4) Die in den anderen Vertragsstaaten für die Mitteilungen nach dem
-Übereinkommen zuständigen Behörden sind im Bundesanzeiger
-bekanntzugeben.
+(4) (weggefallen)
 
 
 ## Art 3

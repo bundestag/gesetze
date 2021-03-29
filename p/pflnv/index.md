@@ -31,7 +31,7 @@ verordnet die Bundesregierung:
 
 
 
-## Art 2 bis 7 -
+## Art 2 bis 7 - 
 
 
 

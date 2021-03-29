@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.12.2000 I 1670;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 2.11.2011 I 2170
+:   Art. 70 G v. 29.3.2017 I 626
 
 
 ## § 1 Anwendungsbereich
@@ -59,10 +59,10 @@ diejenigen Anleitungen zu geben, die er erkennbar benötigt.
 leisten. Die Vergütung ist in Teilleistungen jeweils für einen
 Zeitabschnitt von höchstens drei Monaten zu entrichten. Die einzelnen
 Teilleistungen dürfen den Teil der Vergütung nicht übersteigen, der im
-Verhältnis zur voraussichtlichen Dauer des Fernlehrgangs (§ 3 Abs. 2
-Nr. 2) auf den Zeitabschnitt entfällt, für den die Teilleistung zu
-entrichten ist. Höhere Teilleistungen sowie Vorauszahlungen dürfen
-weder vereinbart noch gefordert werden.
+Verhältnis zur voraussichtlichen Dauer des Fernlehrgangs auf den
+Zeitabschnitt entfällt, für den die Teilleistung zu entrichten ist.
+Höhere Teilleistungen sowie Vorauszahlungen dürfen weder vereinbart
+noch gefordert werden.
 
 (3) Von den Vorschriften des Absatzes 2 Satz 2 bis 4 kann abgewichen
 werden, soweit die Vergütung auf die Lieferung einer beweglichen Sache
@@ -70,10 +70,10 @@ entfällt, die nicht Teil des schriftlichen oder audiovisuellen
 Fernlehrmaterials ist. Von den Vorschriften des Absatzes 2 Satz 3 kann
 abgewichen werden, soweit die Vertragsparteien vereinbart haben, dass
 auf Verlangen des Teilnehmers das Fernlehrmaterial in kürzeren oder
-längeren als den vereinbarten Zeitabständen (§ 3 Abs. 2 Nr. 2) zu
-liefern ist, der Teilnehmer die Lieferung in anderen als den
-vereinbarten Zeitabständen verlangt und die Änderung der
-Teilleistungen wegen der Änderung der Zeitabstände angemessen ist.
+längeren als den vereinbarten Zeitabständen zu liefern ist, der
+Teilnehmer die Lieferung in anderen als den vereinbarten Zeitabständen
+verlangt und die Änderung der Teilleistungen wegen der Änderung der
+Zeitabstände angemessen ist.
 
 (4) Außer der vereinbarten Vergütung darf für Tätigkeiten, die mit dem
 Abschluss des Fernunterrichtsvertrags zusammenhängen, sowie für
@@ -112,101 +112,43 @@ Fernunterrichtsvertrags dient.
 (1) Die auf den Vertragsschluss gerichtete Willenserklärung des
 Teilnehmers bedarf der schriftlichen Form.
 
-(2) Die Urkunde muss enthalten
+(2) Bei einem Fernunterrichtsvertrag, der weder ein außerhalb von
+Geschäftsräumen geschlossener Vertrag nach § 312b des Bürgerlichen
+Gesetzbuchs noch ein Fernabsatzvertrag nach § 312c des Bürgerlichen
+Gesetzbuchs ist, gelten die Informationspflichten des § 312d Absatz 1
+des Bürgerlichen Gesetzbuchs in Verbindung mit Artikel 246a des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche entsprechend.
 
-1.  Name und Anschrift des Veranstalters und des Teilnehmers,
+(3) Bei einem Fernunterrichtsvertrag gehören zu den wesentlichen
+Eigenschaften, über die der Unternehmer den Verbraucher nach Artikel
+246a § 1 Absatz 1 Satz 1 Nummer 1 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu informieren hat, in der Regel insbesondere
 
-
-2.  die Angabe von Gegenstand, Ziel, Beginn und voraussichtlicher Dauer
-    des Fernlehrgangs sowie von Art und Geltung des Lehrgangsabschlusses,
-    Angaben über die vereinbarten Zeitabstände für die Lieferung des
-    Fernlehrmaterials und Hinweise auf begleitenden Unterricht; dabei muss
-    erkennbar sein, ob es sich um einen Abschluss des Veranstalters
-    handelt oder ob und inwieweit der Fernlehrgang dazu vorgesehen ist,
-    auf eine öffentlich-rechtliche oder eine sonstige bestimmte Prüfung
-    vorzubereiten,
-
-
-3.  die Angabe des Gesamtbetrags der vom Teilnehmer zu entrichtenden
-    Vergütung; hat der Fernunterrichtsvertrag die Lieferung einer
-    beweglichen Sache zum Gegenstand, die nicht Teil des schriftlichen
-    oder audiovisuellen Fernlehrmaterials ist, so muss erkennbar sein,
-    welcher Teil der Vergütung auf die Lieferung dieser Sache entfällt,
+1.  die Art und Geltung des Lehrgangsabschlusses,
 
 
-4.  einen Hinweis auf zusätzliche Kosten, die dem Teilnehmer durch die
-    Nutzung von Fernkommunikationsmitteln im Rahmen des Fernlehrgangs
-    entstehen, sofern sie über die üblichen Grundtarife, mit denen der
-    Teilnehmer rechnen muss, hinausgehen,
+2.  Ort, Dauer und Häufigkeit des begleitenden Unterrichts,
 
 
-5.  die Angabe von Betrag, Zahl und Fälligkeit der auf die Vergütung zu
-    entrichtenden Teilzahlungen und sonstigen Pflichten des Teilnehmers,
+3.  Angaben über die vereinbarten Zeitabstände für die Lieferung des
+    Fernlehrmaterials,
 
 
-6.  eine drucktechnisch deutlich gestaltete Belehrung über das Recht des
-    Teilnehmers zum Widerruf (§ 4) und dessen Bedingungen und Einzelheiten
-    sowie Name und Anschrift des Widerrufsempfängers,
-
-
-7.  die Mindestlaufzeit des Vertrages und die Kündigungsbedingungen.
+4.  wenn der Fernunterrichtsvertrag die Vorbereitung auf eine öffentlich-
+    rechtliche oder sonstige externe Prüfung umfasst, auch die Angaben zu
+    Zulassungsvoraussetzungen.
 
 
 
-
-(3) Die Urkunde soll enthalten
-
-1.  eine Gliederung des Fernlehrgangs sowie Angaben über Ort, Dauer und
-    Häufigkeit des begleitenden Unterrichts,
-
-
-2.  Angaben über die zusätzlich erforderlichen und nicht nur
-    geringwertigen Arbeitsmittel, die nicht vom Veranstalter geliefert
-    werden, einschließlich der Kosten, die dem Teilnehmer durch die
-    Nutzung von Fernkommunikationsmitteln im Rahmen des Fernlehrgangs
-    entstehen und die über die üblichen Grundtarife, mit denen der
-    Teilnehmer rechnen muss, hinausgehen,
-
-
-3.  die Angabe der Vorbildungsvoraussetzungen für die Teilnahme am
-    Fernlehrgang sowie der Zulassungsvoraussetzungen für eine öffentlich-
-    rechtliche oder sonstige Prüfung, wenn der Fernlehrgang zur
-    Vorbereitung auf eine solche Prüfung vorgesehen ist,
-
-
-4.  eine Darstellung der gesetzlichen Gerichtsstandsregelung,
-
-
-5.  im Falle zulassungspflichtiger Fernlehrgänge nachprüfbare Hinweise auf
-    die erteilte Zulassung; ist der Fernlehrgang nur vorläufig zugelassen,
-    so ist darauf besonders hinzuweisen.
-
-
-
-
-(4) Dem Teilnehmer ist eine deutlich lesbare Abschrift der Urkunde
-auszuhändigen. Die Belehrung über das Widerrufsrecht ist vom
-Teilnehmer gesondert zu unterschreiben.
 
 
 ### § 4 Widerrufsrecht des Teilnehmers
 
-(1) Dem Teilnehmer steht ein Widerrufsrecht nach § 355 des
-Bürgerlichen Gesetzbuchs zu. Abweichend von § 355 Abs. 3 Satz 1 des
-Bürgerlichen Gesetzbuchs beginnt die Widerrufsfrist nicht vor Zugang
-der ersten Lieferung des Fernlehrmaterials. Für finanzierte
-Fernunterrichtsverträge gilt § 358 des Bürgerliche Gesetzbuchs
-entsprechend.
-
-(2) Das Widerrufsrecht erlischt in dem Zeitpunkt, in die
-Vertragsparteien den Fernunterrichtsvertrag vollständig erfüllt haben,
-spätestens jedoch mit Ablauf des ersten Halbjahres nach Eingang der
-ersten Lieferung.
-
-(3) Abweichend von § 346 Abs. 1 in Verbindung mit § 357 Abs. 1 des
-Bürgerlichen Gesetzbuchs ist der Wert der Überlassung des Gebrauchs
-oder der Benutzung der Sachen oder der Erteilung des Unterrichts bis
-zur Ausübung des Widerrufs nicht zu vergüten.
+Bei einem Fernunterrichtsvertrag nach § 3 Absatz 2 steht dem
+Teilnehmer ein Widerrufsrecht nach § 355 des Bürgerlichen Gesetzbuchs
+zu. Die §§ 356 und 357 des Bürgerlichen Gesetzbuchs sind entsprechend
+anzuwenden. Für finanzierte Fernunterrichtsverträge ist § 358 des
+Bürgerlichen Gesetzbuchs entsprechend anzuwenden.
 
 
 ### § 5 Kündigung
@@ -247,8 +189,7 @@ hingewiesen worden ist, so trifft die Beweislast den Veranstalter.
 Unterbleibt der Hinweis, so erlischt das Rücktrittsrecht zu dem
 Zeitpunkt, zu dem der Veranstalter die Sache geliefert und der
 Teilnehmer den auf die Lieferung der Sache entfallenden Teil der
-Vergütung (§ 3 Abs. 2 Nr. 3 zweiter Halbsatz) vollständig entrichtet
-hat.
+Vergütung vollständig entrichtet hat.
 
 (3) Auf das Rücktrittsrecht finden die §§ 346 bis 348 und 351 des
 Bürgerlichen Gesetzbuchs entsprechende Anwendung.
@@ -257,7 +198,7 @@ Bürgerlichen Gesetzbuchs entsprechende Anwendung.
 Lieferung der Sache zum Gegenstand hat, wegen Nichterfüllung der der
 anderen Vertragspartei obliegenden Verpflichtungen zurückzutreten oder
 die Rückgängigmachung des Vertrags zu verlangen, bleibt unberührt. Für
-den Rücktritt des Veranstalters gelten die §§ 498 und 508 Abs. 2 des
+den Rücktritt des Veranstalters gelten die §§ 498 und 508 des
 Bürgerlichen Gesetzbuchs entsprechend.
 
 
@@ -294,10 +235,8 @@ erreichen, entsprechende Anwendung.
 
 ### § 9 Widerrufsfrist bei Fernunterricht gegen Teilzahlungen
 
-Wird der Fernunterricht gegen Teilzahlungen erbracht, so beginnt der
-Lauf der Frist nach § 4 Abs. 1 dieses Gesetzes erst, wenn dem
-Teilnehmer eine Abschrift ausgehändigt wird, die auch die in § 492
-Abs. 2 des Bürgerlichen Gesetzbuchs genannten Angaben enthält.
+Wird der Fernunterricht gegen Teilzahlungen erbracht, bestimmt sich
+die Widerrufsfrist nach § 356b des Bürgerlichen Gesetzbuchs.
 
 
 ### § 10 Ausschluss abweichender Vereinbarungen
@@ -464,10 +403,10 @@ Versagungsgründe vorliegt.
 durch Übermittlung von Informationsmaterial einen vollständigen
 Überblick über die Vertragsbedingungen und die Anforderungen an den
 Teilnehmer zu geben. Das Informationsmaterial muss insbesondere einen
-vollständigen Überblick über die in § 3 Abs. 2 Nr. 2 bis 5 und 7 und
-Abs. 3 Nr. 1 bis 3 und 5 genannten Angaben, über die Gültigkeitsdauer
-des Angebots und über das Widerrufsrecht des Teilnehmers (§ 4)
-enthalten.
+vollständigen Überblick über die in Artikel 246a § 1 Absatz 1 Satz 1
+Nummer 1, 4 bis 7 und 11 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche genannten Angaben, über die Gültigkeitsdauer des Angebots
+und über das Widerrufsrecht des Teilnehmers enthalten.
 
 (2) Ist ein Fernlehrgang nur vorläufig zugelassen, so muss dies in dem
 Informationsmaterial deutlich gekennzeichnet sein.
@@ -479,9 +418,9 @@ für Fernlehrgänge verwendet werden.
 
 ### § 17 Vertreter, Berater
 
-(1) Der Veranstalter oder seine Beauftragten dürfen zum Zweck der
-Werbung oder der Beratung über Fernlehrgänge des Veranstalters oder
-des Vertragsabschlusses Personen nur dann aufsuchen, wenn diese
+Der Veranstalter oder seine Beauftragten dürfen zum Zweck der Werbung
+oder der Beratung über Fernlehrgänge des Veranstalters oder des
+Vertragsabschlusses Personen nur dann aufsuchen, wenn diese
 
 1.  vorher Informationsmaterial, das den Anforderungen des § 16
     entspricht, erhalten und
@@ -493,9 +432,6 @@ des Vertragsabschlusses Personen nur dann aufsuchen, wenn diese
 
 Für eine Beratung nach Satz 1 sollen der Veranstalter oder seine
 Beauftragten die erforderliche Eignung besitzen.
-
-(2) Verstoßen der Veranstalter oder sein Beauftragter gegen Absatz 1,
-beginnt die Widerrufsfrist nicht nach § 4 Abs. 1 zu laufen.
 
 
 ### § 18 Ergänzende Fernlehrgänge
@@ -528,12 +464,12 @@ auf dem Gebiet der beruflichen Bildung. Das Landesrecht kann vorsehen,
 dass die zuständige Behörde die Entscheidung nach Satz 1 im Benehmen
 mit dem Bundesinstitut für Berufsbildung zu treffen hat. Das
 Landesrecht kann in diesem Falle bestimmen, dass die zuständige
-Behörde vor der Entscheidung nach Satz 1 eine schriftliche
-Stellungnahme des Bundesinstituts für Berufsbildung einzuholen und,
-falls sie beabsichtigt, von der Stellungnahme abzuweichen, dem
-Bundesinstitut für Berufsbildung unter Angabe der Gründe für die
-beabsichtigte Entscheidung erneut Gelegenheit zu einer Stellungnahme
-zu geben hat.
+Behörde vor der Entscheidung nach Satz 1 eine schriftliche oder
+elektronische Stellungnahme des Bundesinstituts für Berufsbildung
+einzuholen und, falls sie beabsichtigt, von der Stellungnahme
+abzuweichen, dem Bundesinstitut für Berufsbildung unter Angabe der
+Gründe für die beabsichtigte Entscheidung erneut Gelegenheit zu einer
+Stellungnahme zu geben hat.
 
 
 ### § 20 Auskunftspflicht
@@ -604,7 +540,7 @@ Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
 
 
 
-4.  entgegen § 17 Abs. 1 Satz 1 zum Zweck der Werbung, Beratung oder des
+4.  entgegen § 17 Satz 1 zum Zweck der Werbung, Beratung oder des
     Vertragsabschlusses Personen aufsucht, oder
 
 
@@ -617,8 +553,8 @@ Auskunftspflichtiger ist keine Einzelangabe im Sinne dieses Absatzes.
 
 
 (2) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nr. 1, 3
-und 4 mit einer Geldbuße bis zu 10.000 Euro, in den Fällen des
-Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu 1.000 Euro geahndet
+und 4 mit einer Geldbuße bis zu 10 000 Euro, in den Fällen des
+Absatzes 1 Nr. 2 und 5 mit einer Geldbuße bis zu 1 000 Euro geahndet
 werden.
 
 
@@ -684,25 +620,4 @@ sind.
 ### § 28 (Inkrafttreten)
 
 -
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. XVI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1136)
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Fernunterrichtsschutzgesetz vom 24. August 1976 (BGBl. I S. 2525),
-    zuletzt geändert durch das Gesetz vom 3. Dezember 1976 (BGBl. I S.
-    3281)
-
-    mit folgender Maßgabe:
-
-    Ein Fernlehrgang, der von der Staatlichen Zentralstelle für
-    Fernunterricht nach den §§ 12 und 13 des Fernunterrichtsschutzgesetzes
-    zugelassen ist, gilt bis zum 31. Dezember 1991 in den in Artikel 1
-    Abs. 1 des Vertrages genannten Ländern und in dem Teil des Landes
-    Berlin, in dem das Grundgesetz bisher nicht galt, als zugelassen.
-
-
-
 

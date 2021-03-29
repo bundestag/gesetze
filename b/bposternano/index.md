@@ -26,7 +26,7 @@ Mai 1950 (Bundesgesetzbl. S. 209) ergänzt durch die Anordnung vom 13.
 Juni 1953 (Bundesgesetzbl. I S. 383) übertrage ich widerruflich die
 Ausübung des Rechts zur Ernennung und Entlassung der planmäßigen
 Beamten der Besoldungsgruppen A 1 bis A 10 und der entsprechenden
-nichtplanmäßigen              Beamten
+nichtplanmäßigen Beamten
 
 *   den Präsidenten
 

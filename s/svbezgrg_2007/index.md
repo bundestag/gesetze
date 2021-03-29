@@ -79,7 +79,7 @@ Sozialgesetzbuch für das Jahr 2007 beträgt 47.700 Euro.
 Sozialgesetzbuch für das Jahr 2007 beträgt 42.750 Euro.
 
 
-## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des Beitrittsgebiets
+## § 5 Werte zur Umrechnung der Beitragsbemessungsgrundlagen des  Beitrittsgebiets
 
 Die Anlage 10 zum Sechsten Buch Sozialgesetzbuch wird wie folgt
 ergänzt:

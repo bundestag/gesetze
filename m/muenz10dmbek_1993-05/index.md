@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 1000 Jahre Potsdam)
 jurabk: Münz10DMBek 1993-05
 layout: default
-origslug: m_nz10dmbek_1993-05
+origslug: muenz10dmbek_1993-05
 slug: muenz10dmbek_1993-05
 
 ---

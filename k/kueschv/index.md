@@ -2,7 +2,7 @@
 Title: Verordnung über die Küstenschifffahrt
 jurabk: KüSchV
 layout: default
-origslug: k_schv
+origslug: kueschv
 slug: kueschv
 
 ---
@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2002, 2555
 
 Zuletzt geändert durch
-:   Art. 3 § 15 V v. 19.12.2008 I 2868; 2010, 380
+:   Art. 176 G v. 29.3.2017 I 626
+
+Änderung durch
+:   Art. 2 § 11 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -55,19 +58,19 @@ anzuwenden.
 
 
 2.  mit Binnenschiffen, die in einem Schiffsregister im Geltungsbereich
-    dieses Gesetzes eingetragen sind und die nach § 5 oder § 6 der
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) eine Fahrtauglichkeitsbescheinigung für die Zone 1 oder 2 sowie
+    dieses Gesetzes eingetragen sind und die nach den §§ 5, 6 oder 7 der
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) eine Fahrtauglichkeitsbescheinigung für die Zone 1 oder 2 sowie
     ein nach der Schiffssicherheitsverordnung vom 18. September 1998
     (BGBl. I S. 3013, 3023), zuletzt geändert durch Artikel 2 der
     Verordnung vom 24. August 2001 (BGBl. I S. 2276), vorgeschriebenes
     Zeugnis besitzen;
 
 
-3.  mit Schiffen, die in einem Mitgliedstaat der Europäischen
-    Gemeinschaften registriert sind und unter der Flagge eines solchen
-    Staates fahren, nach Maßgabe der Verordnung (EWG) Nr. 3577/92 des
-    Rates vom 7. Dezember 1992 zur Anwendung des Grundsatzes des freien
+3.  mit Schiffen, die in einem Mitgliedstaat der Europäischen Union
+    registriert sind und unter der Flagge eines solchen Staates fahren,
+    nach Maßgabe der Verordnung (EWG) Nr. 3577/92 des Rates vom 7.
+    Dezember 1992 zur Anwendung des Grundsatzes des freien
     Dienstleistungsverkehrs auf den Seeverkehr in den Mitgliedstaaten -
     Seekabotage - (ABl. EG Nr. L 364 S. 7).
 
@@ -77,13 +80,13 @@ anzuwenden.
 (2) Steht an einem Ort, an dem die Beförderung beginnen soll, ein
 Schiff, mit dem nach Absatz 1 Küstenschifffahrt betrieben werden darf,
 nicht oder nur zu erheblich ungünstigeren Bedingungen zur Verfügung,
-so kann die örtlich zuständige Wasser- und Schifffahrtsdirektion auf
-Antrag die Beförderung mit einem Seeschiff fremder Flagge erlauben.
-Über die Erlaubnis ist eine schriftliche Bescheinigung auszustellen.
-Die Bescheinigung ist an Bord mitzuführen.
+so kann die Generaldirektion Wasserstraßen und Schifffahrt auf Antrag
+die Beförderung mit einem Seeschiff fremder Flagge erlauben. Über die
+Erlaubnis ist eine Bescheinigung auszustellen. Die Bescheinigung ist
+an Bord mitzuführen.
 
 (3) Eine Erlaubnis nach Absatz 2 Satz 1 kann auch erteilt werden,
-soweit das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+soweit das Bundesministerium für Verkehr und digitale Infrastruktur
 feststellt, dass der Flaggenstaat Schiffen unter der Bundesflagge auf
 der Grundlage der Gegenseitigkeit innerstaatliche Beförderungen im
 Sinne des § 1 eröffnet.
@@ -103,9 +106,9 @@ Schiffssicherheitsverordnung vom 18. September 1998 (BGBl. I S. 3013,
 
 ## § 4
 
-Der Antrag muss spätestens zwei Wochen vor dem Transporttermin bei der
-zuständigen Wasser- und Schifffahrtsdirektion eingegangen sein. Später
-gestellte Anträge werden nur in begründeten und auf Verlangen
+Der Antrag muss spätestens fünf Werktage vor dem Transporttermin bei
+der Generaldirektion Wasserstraßen und Schifffahrt eingegangen sein.
+Später gestellte Anträge werden nur in begründeten und auf Verlangen
 nachweisbaren Ausnahmefällen bearbeitet.
 
 
@@ -126,8 +129,8 @@ Erlaubnis nach § 2 Abs. 2 Satz 1 oder Abs. 3 eine Beförderung
 durchführt.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
-Schifffahrtsdirektion übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 7

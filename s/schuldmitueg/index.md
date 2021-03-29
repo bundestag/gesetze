@@ -3,7 +3,7 @@ Title: Gesetz zur Mitübernahme der Schulden des Erblastentilgungsfonds, des Bun
   sowie des Ausgleichsfonds zur Sicherung des Steinkohleneinsatzes in die Bundesschuld
 jurabk: SchuldMitüG
 layout: default
-origslug: schuldmit_g
+origslug: schuldmitueg
 slug: schuldmitueg
 
 ---

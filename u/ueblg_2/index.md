@@ -2,7 +2,7 @@
 Title: Zweites Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund
 jurabk: ÜblG 2
 layout: default
-origslug: _blg_2
+origslug: ueblg_2
 slug: ueblg_2
 
 ---
@@ -100,7 +100,7 @@ Wartestandsbeamten zu sorgen
 (§ 36a Abs. 1 der Reichshaushaltsordnung).
 
 
-## Art III - Gemeinsame Bestimmungen zu den Art I und II
+## Art III - Gemeinsame Bestimmungen zu den Art  I und II
 
 
 
@@ -140,9 +140,9 @@ durch Kapitel I des Gesetzes zur Regelung der Rechtsverhältnisse der
 unter Artikel 131 des Grundgesetzes fallenden Personen vom 11. Mai
 1951 (Bundesgesetzbl. I S. 307) erfaßt wird; die Bestimmungen des § 1
 Abs. 1 Ziff. 7
-und des § 2 Ziff. 7              des Ersten Gesetzes zur Überleitung
-von Lasten und Deckungsmitteln auf den Bund vom 28. November 1950
-(Bundesgesetzbl. S. 773) bleiben unberührt.
+und des § 2 Ziff. 7 des Ersten Gesetzes zur Überleitung von Lasten und
+Deckungsmitteln auf den Bund vom 28. November 1950 (Bundesgesetzbl. S.
+773) bleiben unberührt.
 
 
 ### § 10

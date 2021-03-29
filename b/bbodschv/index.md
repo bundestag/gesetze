@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 1554
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 31 G v. 24.2.2012 I 212
+:   Art. 3 Abs. 4 V v. 27.9.2017 I 3465
 
 
 ## Eingangsformel
@@ -545,8 +545,7 @@ auf Böden nur Bodenmaterial sowie Baggergut nach DIN 19731 (Ausgabe
 stofflichen Qualitätsanforderungen der nach § 11 des
 Kreislaufwirtschaftsgesetzes und § 8 des bis zum 1. Juni 2012
 geltenden Kreislaufwirtschafts- und Abfallgesetzes erlassenen
-Verordnungen sowie der Klärschlammverordnung erfüllen, auf- und
-eingebracht werden.
+Verordnungen erfüllen, auf- und eingebracht werden.
 
 (2) Das Auf- und Einbringen von Materialien auf oder in eine
 durchwurzelbare Bodenschicht oder zur Herstellung einer
@@ -674,7 +673,8 @@ Der Bundesrat hat zugestimmt.
 
 ### Anhang 1
 
-(Fundstelle: BGBl. I 1999, 1561 - 1574)
+(Fundstelle: BGBl. I 1999, 1561 - 1574;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
@@ -710,7 +710,7 @@ gesichert erscheinen läßt. Erkenntnisse über solche Verfahren und
 Methoden und über ihre Anwendung werden durch einen ausgewählten Kreis
 von Fachleuten aus Bund und Ländern sowie der Betroffenen im Benehmen
 mit den Ländern zusammengestellt, der vom Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit einberufen wird.
+Umwelt, Naturschutz, Bau und Reaktorsicherheit einberufen wird.
 
 
 **1.** **Untersuchungsumfang und erforderlicher Kenntnisstand**
@@ -974,14 +974,14 @@ Feinkornfraktion bis 63
 mym gegebenenfalls getrennt analysiert werden kann.
 Ist auf Grund vorliegender Erkenntnisse davon auszugehen, daß die
 Schadstoffe in der beurteilungsrelevanten Bodenschicht annähernd
-gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis
-10\.000
-qm für jeweils 1.000
+gleichmäßig über eine Fläche verteilt sind, kann auf Flächen bis 10
+000
+qm für jeweils 1 000
 qm, mindestens aber von 3 Teilflächen, eine Mischprobe entnommen
 werden. Die Mischprobe soll aus 15 bis 25 Einzelproben einer
 Beprobungstiefe gewonnen werden. Bei Flächen unter 500
 qm sowie in Hausgärten oder sonstigen Gärten entsprechender Nutzung
-kann auf eine Teilung verzichtet werden. Für Flächen über 10.000
+kann auf eine Teilung verzichtet werden. Für Flächen über 10 000
 qm sollen mindestens jedoch 10 Teilflächen beprobt werden.
 
 *
@@ -997,7 +997,7 @@ mit annähernd gleichmäßiger Bodenbeschaffenheit und
 Schadstoffverteilung soll auf Flächen bis 10 Hektar in der Regel für
 jeweils 1 Hektar, mindestens aber von 3 Teilflächen eine Mischprobe
 entsprechend den Beprobungstiefen entnommen werden. Bei Flächen unter
-5\.000
+5 000
 qm kann auf eine Teilung verzichtet werden. Für Flächen größer 10
 Hektar sollen mindestens jedoch 10 Teilflächen beprobt werden. Die
 Probennahme erfolgt nach den Regeln der Probennahme auf
@@ -1300,7 +1300,7 @@ Anhangs sind die in Tabelle 2 angegebenen Verfahren anzuwenden.
     Nach dem Schütteln ist die Suspension ca. 15 min zur Sedimentation der
     gröberen Partikel stehenzulassen. Die überstehende Flüssigkeit ist im
     Zentrifugenbecher weitestgehend zu dekantieren. Die Zentrifugation
-    erfolgt für 30 min mit 2.000 g. Danach erfolgt das weitestgehend
+    erfolgt für 30 min mit 2 000 g. Danach erfolgt das weitestgehend
     vollständige Dekantieren der überstehenden Flüssigkeit in die
     Membrandruckfiltrationsapparatur. Nach 5 min druckloser Filtration
     wird zur Beschleunigung der Filtration ein Druck von 1 bar angelegt.
@@ -1626,8 +1626,7 @@ angegeben werden.
     *   Soxhlet-Extraktion gefriergetrockneter Proben mit Toluol,
         chromatographische Reinigung; Quantifizierung mittels GC-MS
 
-    *   nach Klärschlammverordnung unter Beachtung von DIN 38414-24: 04.98,
-        VDI-Richtlinie 3499, Blatt 1: 03.90
+    *   nach Klärschlammverordnung unter Beachtung von DIN 38414-24: 2000-10
 
 
 *    *
@@ -1664,7 +1663,7 @@ und Sickerwasser
 
     *   ICP-AES (ICP-MS möglich)
 
-    *[^BJNR155400999BJNE002500305_001]
+    *[^BJNR155400999BJNE002500305_001_BJNR155400999BJNE002502116]
    Auf der Grundlage DIN EN ISO 11885: 04.98
 
 
@@ -1794,7 +1793,7 @@ Bodensickerwasser
 
     *   GC-FID
 
-    *[^BJNR155400999BJNE002500305_002]
+    *[^BJNR155400999BJNE002500305_002_BJNR155400999BJNE002502116]
    DIN 38407-9: 05.91
 
 
@@ -2136,7 +2135,7 @@ Für das Analysenergebnis ist eine Meßunsicherheit gemäß DIN 1319-3:
 
     *   = 10(hoch) 3 g
 
-    *   = 1.000 Gramm
+    *   = 1 000 Gramm
 
 
 *    *   1 mym (Mikrometer)
@@ -2164,7 +2163,7 @@ Für das Analysenergebnis ist eine Meßunsicherheit gemäß DIN 1319-3:
 
     *   = 10(hoch) 4 qm
 
-    *   = 10.000 Quadratmeter
+    *   = 10 000 Quadratmeter
 
 
 *    *   Grad C - Grad Celsius
@@ -2581,7 +2580,7 @@ DIN 38414 - 20: 01.96
 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und
 Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 20:
 Bestimmung von 6 polychlorierten Biphenylen (PCB) (S 20)
-DIN 38414 - 24: 04.98
+DIN 38414-24:2000-10
 Deutsche Einheitsverfahren zur Wasser-, Abwasser- und
 Schlammuntersuchung - Schlamm und Sedimente (Gruppe S) - Teil 24:
 Bestimmung von polychlorierten Dibenzodioxinen (PCDD) und
@@ -2639,11 +2638,6 @@ VDI-Richtlinie 3865: Messen organischer Bodenverunreinigungen
 
 
 
-VDI-Richtlinie 3499, Blatt 1: Messen von Emissionen - Messen von
-Reststoffen. Messen von polychlorierten Dibenzodioxinen und -furanen
-in Rein- und Rohgas von Feuerungsanlagen mit der Verdünnungsmethode,
-Bestimmung in Filterstaub, Kesselasche und in Schlacken. VDI-Handbuch
-Reinhaltung der Luft, Band 5 (Entwurf März 1990)
 Arbeitsgruppe Bodenkunde der Geologischen Landesämter und der
 Bundesanstalt für Geowissenschaften und Rohstoffe (1994):
 Bodenkundliche Kartieranleitung. - 4. Auflage, berichtigter Nachdruck
@@ -2696,8 +2690,8 @@ f)  ZH 1/183: Hauptverband der gewerblichen Berufsgenossenschaften,
     Durch geeignete Maßnahmen oder eine geeignete gerätetechnische
     Ausstattung ist die Bestimmungsgrenze dem Untersuchungsziel
     anzupassen.
-[^BJNR155400999BJNE002500305_001]:     Anpassung der Bestimmungsgrenze erforderlich.
-[^BJNR155400999BJNE002500305_002]: 
+[^BJNR155400999BJNE002500305_001_BJNR155400999BJNE002502116]:     Anpassung der Bestimmungsgrenze erforderlich.
+[^BJNR155400999BJNE002500305_002_BJNR155400999BJNE002502116]: 
 
 ### Anhang 2
 
@@ -2724,71 +2718,72 @@ f)  ZH 1/183: Hauptverband der gewerblichen Berufsgenossenschaften,
 
 1.1 Abgrenzung der Nutzungen
 
+    a)  Kinderspielflächen
 
-a)  Kinderspielflächen
-
-    Aufenthaltsbereiche für Kinder, die ortsüblich zum Spielen genutzt
-    werden, ohne den Spielsand von Sandkästen. Amtlich ausgewiesene
-    Kinderspielplätze sind ggf. nach Maßstäben des öffentlichen
-    Gesundheitswesens zu bewerten.
-
-
-b)  Wohngebiete
-
-    Dem Wohnen dienende Gebiete einschließlich Hausgärten oder sonstige
-    Gärten entsprechender Nutzung, auch soweit sie nicht im Sinne der
-    Baunutzungsverordnung planungsrechtlich dargestellt oder festgesetzt
-    sind, ausgenommen Park- und Freizeitanlagen, Kinderspielflächen sowie
-    befestigte Verkehrsflächen.
+        Aufenthaltsbereiche für Kinder, die ortsüblich zum Spielen genutzt
+        werden, ohne den Spielsand von Sandkästen. Amtlich ausgewiesene
+        Kinderspielplätze sind ggf. nach Maßstäben des öffentlichen
+        Gesundheitswesens zu bewerten.
 
 
-c)  Park- und Freizeitanlagen
+    b)  Wohngebiete
 
-    Anlagen für soziale, gesundheitliche und sportliche Zwecke,
-    insbesondere öffentliche und private Grünanlagen sowie unbefestigte
-    Flächen, die regelmäßig zugänglich sind und vergleichbar genutzt
-    werden.
-
-
-d)  Industrie- und Gewerbegrundstücke
-
-    Unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur
-    während der Arbeitszeit genutzt werden.
+        Dem Wohnen dienende Gebiete einschließlich Hausgärten oder sonstige
+        Gärten entsprechender Nutzung, auch soweit sie nicht im Sinne der
+        Baunutzungsverordnung planungsrechtlich dargestellt oder festgesetzt
+        sind, ausgenommen Park- und Freizeitanlagen, Kinderspielflächen sowie
+        befestigte Verkehrsflächen.
 
 
+    c)  Park- und Freizeitanlagen
 
-1\.2
-Maßnahmenwerte              nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-
-Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf
-Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und
-Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden,
-Analytik nach Anhang 1)
+        Anlagen für soziale, gesundheitliche und sportliche Zwecke,
+        insbesondere öffentliche und private Grünanlagen sowie unbefestigte
+        Flächen, die regelmäßig zugänglich sind und vergleichbar genutzt
+        werden.
 
-*    *
-    *[^BJNR155400999BJNE002600305_001]
+
+    d)  Industrie- und Gewerbegrundstücke
+
+        Unbefestigte Flächen von Arbeits- und Produktionsstätten, die nur
+        während der Arbeitszeit genutzt werden.
+
+
+
+
+
+1.2 Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-
+    Bodenschutzgesetzes für die direkte Aufnahme von Dioxinen/Furanen auf
+    Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und
+    Industrie- und Gewerbegrundstücken (in ng/kg Trockenmasse, Feinboden,
+    Analytik nach Anhang 1)
+
+    *        *
+        *[^BJNR155400999BJNE002600305_001_BJNR155400999BJNE002601116]
    Maßnahmenwerte (ng l-TEq/kg TM)
 
 
-*    *   Stoff
+    *        *   Stoff
 
-    *   Kinderspielflächen
+        *   Kinderspielflächen
 
-    *   Wohngebiete
+        *   Wohngebiete
 
-    *   Park- u. Freizeitanlagen
+        *   Park- u. Freizeitanlagen
 
-    *   Industrie- und Gewerbegrundstücke
+        *   Industrie- und Gewerbegrundstücke
 
 
-*    *   Dioxine/Furane (PCDD/F)
+    *        *   Dioxine/Furane (PCDD/F)
 
-    *   100
+        *   100
 
-    *   1.000
+        *   1 000
 
-    *   1.000
+        *   1 000
 
-    *   10.000
+        *   10 000
+
 
 
 
@@ -2801,209 +2796,213 @@ Bei Vorliegen dioxinhaltiger Laugenrückstände aus Kupferschiefer
 ("Kieselrot") erfolgt eine Anwendung der Maßnahmenwerte aufgrund der
 geringen Resorption im menschlichen Organismus nicht unmittelbar zum
 Schutz der menschlichen Gesundheit als vielmehr zum Zweck der
-nachhaltigen Gefahrenabwehr. 1.4
-Prüfwerte              nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-
-Bodenschutzgesetzes für die direkte Aufnahme von Schadstoffen auf
-Kinderspielflächen, in Wohngebieten, Park- und Freizeitanlagen und
-Industrie- und Gewerbegrundstücken (in mg/kg Trockenmasse, Feinboden,
-Analytik nach Anhang 1)
+nachhaltigen Gefahrenabwehr.
 
-*    *   Prüfwerte (mg/kg TM)
+1.4 Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes
+    für die direkte Aufnahme von Schadstoffen auf Kinderspielflächen, in
+    Wohngebieten, Park- und Freizeitanlagen und Industrie- und
+    Gewerbegrundstücken (in mg/kg Trockenmasse, Feinboden, Analytik nach
+    Anhang 1)
 
+    *        *   Prüfwerte (mg/kg TM)
 
-*    *   Stoff
 
-    *   Kinderspielflächen
+    *        *   Stoff
 
-    *   Wohngebiete
+        *   Kinderspielflächen
 
-    *   Park- u. Freizeitanlagen
+        *   Wohngebiete
 
-    *   Industrie- und Gewerbegrundstücke
+        *   Park- u. Freizeitanlagen
 
+        *   Industrie- und Gewerbegrundstücke
 
-*    *   Arsen
 
-    *   25
+    *        *   Arsen
 
-    *   50
+        *   25
 
-    *   125
+        *   50
 
-    *   140
+        *   125
 
+        *   140
 
-*    *   Blei
 
-    *   200
+    *        *   Blei
 
-    *   400
+        *   200
 
-    *   1.000
+        *   400
 
-    *   2.000
+        *   1 000
 
+        *   2 000
 
-*    *   Cadmium
 
-    *   10 1)
+    *        *   Cadmium
 
-    *   20 1)
+        *   10 1)
 
-    *   50
+        *   20 1)
 
-    *   60
+        *   50
 
+        *   60
 
-*    *   Cyanide
 
-    *   50
+    *        *   Cyanide
 
-    *   50
+        *   50
 
-    *   50
+        *   50
 
-    *   100
+        *   50
 
+        *   100
 
-*    *   Chrom
 
-    *   200
+    *        *   Chrom
 
-    *   400
+        *   200
 
-    *   1.000
+        *   400
 
-    *   1.000
+        *   1 000
 
+        *   1 000
 
-*    *   Nickel
 
-    *   70
+    *        *   Nickel
 
-    *   140
+        *   70
 
-    *   350
+        *   140
 
-    *   900
+        *   350
 
+        *   900
 
-*    *   Quecksilber
 
-    *   10
+    *        *   Quecksilber
 
-    *   20
+        *   10
 
-    *   50
+        *   20
 
-    *   80
+        *   50
 
+        *   80
 
-*    *   Aldrin
 
-    *   2
+    *        *   Aldrin
 
-    *   4
+        *   2
 
-    *   10
+        *   4
 
-    *   -
+        *   10
 
+        *   -
 
-*    *   Benzo(a)pyren
 
-    *   2
+    *        *   Benzo(a)pyren
 
-    *   4
+        *   2
 
-    *   10
+        *   4
 
-    *   12
+        *   10
 
+        *   12
 
-*    *   DDT
 
-    *   40
+    *        *   DDT
 
-    *   80
+        *   40
 
-    *   200
+        *   80
 
-    *   -
+        *   200
 
+        *   -
 
-*    *   Hexachlorbenzol
 
-    *   4
+    *        *   Hexachlorbenzol
 
-    *   8
+        *   4
 
-    *   20
+        *   8
 
-    *   200
+        *   20
 
+        *   200
 
-*    *
-        1)  In Haus- und Kleingärten, die sowohl als Aufenthaltsbereiche für
-            Kinder als auch für den Anbau von Nahrungspflanzen genutzt werden, ist
-            für Cadmium der Wert von 2,0 mg/kg TM als Prüfwert anzuwenden.
 
+    *        *
+            1)  In Haus- und Kleingärten, die sowohl als Aufenthaltsbereiche für
+                Kinder als auch für den Anbau von Nahrungspflanzen genutzt werden, ist
+                für Cadmium der Wert von 2,0 mg/kg TM als Prüfwert anzuwenden.
 
 
 
 
-*    *
 
-*    *   Prüfwerte (mg/kg TM)
+    *        *
 
+    *        *   Prüfwerte (mg/kg TM)
 
-*    *   Stoff
 
-    *   Kinderspielflächen
+    *        *   Stoff
 
-    *   Wohngebiete
+        *   Kinderspielflächen
 
-    *   Park- u. Freizeitanlagen
+        *   Wohngebiete
 
-    *   Industrie- und Gewerbegrundstücke
+        *   Park- u. Freizeitanlagen
 
+        *   Industrie- und Gewerbegrundstücke
 
-*    *   Hexachlorcyclohexan (HCH-Gemisch oder Beta-HCH)
 
-    *   5
+    *        *   Hexachlorcyclohexan (HCH-Gemisch oder Beta-HCH)
 
-    *   10
+        *   5
 
-    *   25
+        *   10
 
-    *   400
+        *   25
 
+        *   400
 
-*    *   Pentachlorphenol
 
-    *   50
+    *        *   Pentachlorphenol
 
-    *   100
+        *   50
 
-    *   250
+        *   100
 
-    *   250
+        *   250
 
+        *   250
 
-*    *   Polychlorierte Biphenyle (PCB(tief)6) 2)
 
-    *   0,4
+    *        *   Polychlorierte Biphenyle (PCB(tief)6) 2)
 
-    *   0,8
+        *   0,4
 
-    *   2
+        *   0,8
 
-    *   40
+        *   2
 
+        *   40
 
-*    *
-        2)  Soweit PCB-Gesamtgehalte bestimmt werden, sind die ermittelten
-            Meßwerte durch den Faktor 5 zu dividieren.
+
+    *        *
+            2)  Soweit PCB-Gesamtgehalte bestimmt werden, sind die ermittelten
+                Meßwerte durch den Faktor 5 zu dividieren.
+
+
+
 
 
 
@@ -3016,194 +3015,197 @@ Analytik nach Anhang 1)
 
 2.1 Abgrenzung der Nutzungen
 
+    a)  Ackerbau
 
-a)  Ackerbau
-
-    Flächen zum Anbau wechselnder Ackerkulturen einschließlich Gemüse und
-    Feldfutter, hierzu zählen auch erwerbsgärtnerisch genutzte Flächen.
-
-
-b)  Nutzgarten
-
-    Hausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau
-    von Nahrungspflanzen genutzt werden
+        Flächen zum Anbau wechselnder Ackerkulturen einschließlich Gemüse und
+        Feldfutter, hierzu zählen auch erwerbsgärtnerisch genutzte Flächen.
 
 
-c)  Grünland
+    b)  Nutzgarten
 
-    Flächen unter Dauergrünland
-
-
-
-2\.2
-Prüf- und Maßnahmenwerte              nach § 8 Abs. 1 Satz 2 Nr. 1 und
-2 des Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden -
-Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die
-Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach
-Anhang 1)
-
-*    *
-    *   Ackerbau, Nutzgarten
+        Hausgarten-, Kleingarten- und sonstige Gartenflächen, die zum Anbau
+        von Nahrungspflanzen genutzt werden
 
 
-*    *   Stoff
+    c)  Grünland
 
-    *[^BJNR155400999BJNE002600305_002]
+        Flächen unter Dauergrünland
+
+
+
+
+
+2.2 Prüf- und Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 1 und 2 des
+    Bundes-Bodenschutzgesetzes für den Schadstoffübergang Boden -
+    Nutzpflanze auf Ackerbauflächen und in Nutzgärten im Hinblick auf die
+    Pflanzenqualität (in mg/kg Trockenmasse, Feinboden, Analytik nach
+    Anhang 1)
+
+    *        *
+        *   Ackerbau, Nutzgarten
+
+
+    *        *   Stoff
+
+        *[^BJNR155400999BJNE002600305_002_BJNR155400999BJNE002601116]
    Methode
 
-    *   Prüfwert
+        *   Prüfwert
 
-    *   Maßnahmenwert
+        *   Maßnahmenwert
 
 
-*    *   Arsen
+    *        *   Arsen
 
-    *   KW
+        *   KW
 
-    *[^BJNR155400999BJNE002600305_003]
+        *[^BJNR155400999BJNE002600305_003_BJNR155400999BJNE002601116]
    200
 
-    *   -
+        *   -
 
 
-*    *   Cadmium
+    *        *   Cadmium
 
-    *   AN
+        *   AN
 
-    *   -
+        *   -
 
-    *[^BJNR155400999BJNE002600305_004]
+        *[^BJNR155400999BJNE002600305_004_BJNR155400999BJNE002601116]
    0,04/0,1
 
 
-*    *   Blei
+    *        *   Blei
 
-    *   AN
+        *   AN
 
-    *   0,1
+        *   0,1
 
-    *   -
+        *   -
 
 
-*    *   Quecksilber
+    *        *   Quecksilber
 
-    *   KW
+        *   KW
 
-    *   5
+        *   5
 
-    *
+        *
 
-*    *   Thallium
+    *        *   Thallium
 
-    *   AN
+        *   AN
 
-    *   0,1
+        *   0,1
 
-    *   -
+        *   -
 
 
-*    *   Benzo(a)pyren
+    *        *   Benzo(a)pyren
 
-    *   -
+        *   -
 
-    *   1
+        *   1
 
-    *   -
+        *   -
 
 
 
-2\.3
-Maßnahmenwerte              nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-
-Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf
-Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg
-Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-
-Extrakt, Analytik nach Anhang 1)
 
-*    *
-    *   Grünland
 
+2.3 Maßnahmenwerte nach § 8 Abs. 1 Satz 2 Nr. 2 des Bundes-
+    Bodenschutzgesetzes für den Schadstoffübergang Boden - Nutzpflanze auf
+    Grünlandflächen im Hinblick auf die Pflanzenqualität (in mg/kg
+    Trockenmasse, Feinboden, Arsen und Schwermetalle im Königswasser-
+    Extrakt, Analytik nach Anhang 1)
 
-*    *   Stoff
+    *        *
+        *   Grünland
 
-    *   Maßnahmenwert
 
+    *        *   Stoff
 
-*    *   Arsen
+        *   Maßnahmenwert
 
-    *   50
 
+    *        *   Arsen
 
-*    *   Blei
+        *   50
 
-    *   1.200
 
+    *        *   Blei
 
-*    *   Cadmium
+        *   1 200
 
-    *   20
 
+    *        *   Cadmium
 
-*    *   Kupfer
+        *   20
 
-    *[^BJNR155400999BJNE002600305_005]
-   1.300
 
+    *        *   Kupfer
 
-*    *   Nickel
+        *[^BJNR155400999BJNE002600305_005_BJNR155400999BJNE002601116]
+   1 300
 
-    *   1.900
 
+    *        *   Nickel
 
-*    *   Quecksilber
+        *   1 900
 
-    *   2
 
+    *        *   Quecksilber
 
-*    *   Thallium
+        *   2
 
-    *   15
 
+    *        *   Thallium
 
-*    *   Polychlorierte Biphenyle (PCB(tief)6)
+        *   15
 
-    *   0,2
 
+    *        *   Polychlorierte Biphenyle (PCB(tief)6)
 
+        *   0,2
 
-2\.4
-Prüfwerte              nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-
-Bodenschutzgesetzes für den Schadstoffübergang Boden - Pflanze auf
-Ackerbauflächen im Hinblick auf Wachstumsbeeinträchtigungen bei
-Kulturpflanzen (in mg/kg Trockenmasse, Feinboden, im Ammoniumnitrat-
-Extrakt, Analytik nach Anhang 1)
 
-*    *
-    *   Ackerbau
 
 
-*    *   Stoff
 
-    *   Prüfwert
+2.4 Prüfwerte nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes
+    für den Schadstoffübergang Boden - Pflanze auf Ackerbauflächen im
+    Hinblick auf Wachstumsbeeinträchtigungen bei Kulturpflanzen (in mg/kg
+    Trockenmasse, Feinboden, im Ammoniumnitrat-Extrakt, Analytik nach
+    Anhang 1)
 
+    *        *
+        *   Ackerbau
 
-*    *   Arsen
 
-    *   0,4
+    *        *   Stoff
 
+        *   Prüfwert
 
-*    *   Kupfer
 
-    *   1
+    *        *   Arsen
 
+        *   0,4
 
-*    *   Nickel
 
-    *   1,5
+    *        *   Kupfer
 
+        *   1
 
-*    *   Zink
 
-    *   2
+    *        *   Nickel
+
+        *   1,5
+
+
+    *        *   Zink
+
+        *   2
+
 
 
 
@@ -3222,8 +3224,8 @@ Anhang 1 Nr. 2.1 Tabelle 1 genannten größeren Bodentiefen gelten die
 **3.** **Wirkungspfad Boden - Grundwasser**
 
 
-3.1 Prüfwerte zur Beurteilung des Wirkungspfads Boden - Grundwasser
-    nach § 8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes (in
+3.1 Prüfwerte zur Beurteilung des Wirkungspfads Boden - Grundwasser nach §
+    8 Abs. 1 Satz 2 Nr. 1 des Bundes-Bodenschutzgesetzes (in
     myg/l, Analytik nach Anhang 1)
 
 
@@ -3411,49 +3413,51 @@ Anhang 1 Nr. 2.1 Tabelle 1 genannten größeren Bodentiefen gelten die
 
 3.2 Anwendung der Prüfwerte
 
-
-a)  Die Prüfwerte gelten für den Übergangsbereich von der ungesättigten
-    zur wassergesättigten Bodenzone (Ort der Beurteilung). Der Ort der
-    Bodenprobennahme stimmt nicht notwendigerweise mit dem Ort der
-    Beurteilung für das Grundwasser überein.
-
-
-b)  Bei der Bewertung, ob es zu erwarten ist, daß die Prüfwerte für das
-    Sickerwasser am Ort der Beurteilung überschritten werden, sind die
-    Veränderungen der Schadstoffkonzentrationen im Sickerwasser beim
-    Durchgang durch die ungesättigte Bodenzone sowie die
-    Grundwasserflurabstände und deren Schwankungen zu berücksichtigen.
+    a)  Die Prüfwerte gelten für den Übergangsbereich von der ungesättigten
+        zur wassergesättigten Bodenzone (Ort der Beurteilung). Der Ort der
+        Bodenprobennahme stimmt nicht notwendigerweise mit dem Ort der
+        Beurteilung für das Grundwasser überein.
 
 
-c)  Bei Altablagerungen ist die Abschätzung der Schadstoffkonzentrationen
-    im Sickerwasser durch Materialuntersuchungen auf Grund von
-    Inhomogenitäten der abgelagerten Abfälle in der Regel nicht
-    zweckmäßig. Entsprechendes gilt für Altstandorte mit besonders
-    ungleichmäßiger Schadstoffverteilung. In diesen Fällen kann durch
-    Rückschlüsse oder Rückrechnung aus Abstrommessungen im Grundwasser
-    unter Berücksichtigung insbesondere auch der Stoffkonzentration im
-    Anstrom eine Abschätzung der Schadstoffkonzentrationen im Sickerwasser
-    erfolgen.
+    b)  Bei der Bewertung, ob es zu erwarten ist, daß die Prüfwerte für das
+        Sickerwasser am Ort der Beurteilung überschritten werden, sind die
+        Veränderungen der Schadstoffkonzentrationen im Sickerwasser beim
+        Durchgang durch die ungesättigte Bodenzone sowie die
+        Grundwasserflurabstände und deren Schwankungen zu berücksichtigen.
 
 
-d)  Soweit die Schadstoffkonzentrationen im Sickerwasser direkt gemessen
-    werden können, soll die Probennahme nach Möglichkeit am Ort der
-    Beurteilung für das Grundwasser durchgeführt werden.
+    c)  Bei Altablagerungen ist die Abschätzung der Schadstoffkonzentrationen
+        im Sickerwasser durch Materialuntersuchungen auf Grund von
+        Inhomogenitäten der abgelagerten Abfälle in der Regel nicht
+        zweckmäßig. Entsprechendes gilt für Altstandorte mit besonders
+        ungleichmäßiger Schadstoffverteilung. In diesen Fällen kann durch
+        Rückschlüsse oder Rückrechnung aus Abstrommessungen im Grundwasser
+        unter Berücksichtigung insbesondere auch der Stoffkonzentration im
+        Anstrom eine Abschätzung der Schadstoffkonzentrationen im Sickerwasser
+        erfolgen.
 
 
-e)  Soweit schädliche Bodenveränderungen und Altlasten in der
-    wassergesättigten Bodenzone liegen, werden sie hinsichtlich einer
-    Gefahr für das Grundwasser nach wasserrechtlichen Vorschriften
-    bewertet.
+    d)  Soweit die Schadstoffkonzentrationen im Sickerwasser direkt gemessen
+        werden können, soll die Probennahme nach Möglichkeit am Ort der
+        Beurteilung für das Grundwasser durchgeführt werden.
 
 
-f)  Die geogen bedingte Hintergrundsituation der jeweiligen
-    Grundwasserregion ist bei der Anwendung der Prüfwerte zu
-    berücksichtigen.
+    e)  Soweit schädliche Bodenveränderungen und Altlasten in der
+        wassergesättigten Bodenzone liegen, werden sie hinsichtlich einer
+        Gefahr für das Grundwasser nach wasserrechtlichen Vorschriften
+        bewertet.
 
 
-**4.** **Vorsorgewerte für Böden**                    nach § 8 Abs. 2 Nr. 1
-    des Bundes-Bodenschutzgesetzes
+    f)  Die geogen bedingte Hintergrundsituation der jeweiligen
+        Grundwasserregion ist bei der Anwendung der Prüfwerte zu
+        berücksichtigen.
+
+
+
+
+
+**4.** **Vorsorgewerte für Böden** nach § 8 Abs. 2 Nr. 1 des Bundes-
+    Bodenschutzgesetzes
 
     (Analytik nach Anhang 1)
 
@@ -3578,44 +3582,43 @@ f)  Die geogen bedingte Hintergrundsituation der jeweiligen
 
 4.3 Anwendung der Vorsorgewerte
 
-
-a)  Die Vorsorgewerte werden nach den Hauptbodenarten gemäß
-    Bodenkundlicher Kartieranleitung, 4. Auflage, berichtigter Nachdruck
-    1996, unterschieden; sie berücksichtigen den vorsorgenden Schutz der
-    Bodenfunktionen bei empfindlichen Nutzungen. Für die
-    landwirtschaftliche Bodennutzung gilt § 17 Abs. 1 des Bundes-
-    Bodenschutzgesetzes.
-
-
-b)  Stark schluffige Sande sind entsprechend der Bodenart Lehm/Schluff zu
-    bewerten.
+    a)  Die Vorsorgewerte werden nach den Hauptbodenarten gemäß
+        Bodenkundlicher Kartieranleitung, 4. Auflage, berichtigter Nachdruck
+        1996, unterschieden; sie berücksichtigen den vorsorgenden Schutz der
+        Bodenfunktionen bei empfindlichen Nutzungen. Für die
+        landwirtschaftliche Bodennutzung gilt § 17 Abs. 1 des Bundes-
+        Bodenschutzgesetzes.
 
 
-c)  Bei den Vorsorgewerten der Tabelle 4.1 ist der Säuregrad der Böden wie
-    folgt zu berücksichtigen:
-
-    -   Bei Böden der Bodenart Ton mit einem pH-Wert von < 6,0 gelten für
-        Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Lehm/Schluff.
+    b)  Stark schluffige Sande sind entsprechend der Bodenart Lehm/Schluff zu
+        bewerten.
 
 
-    -   Bei Böden der Bodenart Lehm/Schluff mit einem pH-Wert von < 6,0 gelten
-        für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Sand. § 4
-        Abs. 8 Satz 2 der Klärschlammverordnung vom 15. April 1992 (BGBl. I S.
-        912), zuletzt geändert durch Verordnung vom 6. März 1997 (BGBl. I S.
-        446), bleibt unberührt.
+    c)  Bei den Vorsorgewerten der Tabelle 4.1 ist der Säuregrad der Böden wie
+        folgt zu berücksichtigen:
+
+        -   Bei Böden der Bodenart Ton mit einem pH-Wert von < 6,0 gelten für
+            Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Lehm/Schluff.
 
 
-    -   Bei Böden mit einem pH-Wert von < 5,0 sind die Vorsorgewerte für Blei
-        entsprechend den ersten beiden Anstrichen herabzusetzen.
+        -   Bei Böden der Bodenart Lehm/Schluff mit einem pH-Wert von < 6,0 gelten
+            für Cadmium, Nickel und Zink die Vorsorgewerte der Bodenart Sand.
+
+
+        -   Bei Böden mit einem pH-Wert von < 5,0 sind die Vorsorgewerte für Blei
+            entsprechend den ersten beiden Anstrichen herabzusetzen.
 
 
 
 
 
-d)  Die Vorsorgewerte der Tabelle 4.1 finden für Böden und Bodenhorizonte
-    mit einem Humusgehalt von mehr als 8 Prozent keine Anwendung. Für
-    diese Böden können die zuständigen Behörden ggf. gebietsbezogene
-    Festsetzungen treffen.
+    d)  Die Vorsorgewerte der Tabelle 4.1 finden für Böden und Bodenhorizonte
+        mit einem Humusgehalt von mehr als 8 Prozent keine Anwendung. Für
+        diese Böden können die zuständigen Behörden ggf. gebietsbezogene
+        Festsetzungen treffen.
+
+
+
 
 
 **5.** **Zulässige zusätzliche jährliche Frachten an Schadstoffen über alle
@@ -3664,22 +3667,22 @@ d)  Die Vorsorgewerte der Tabelle 4.1 finden für Böden und Bodenhorizonte
 
 *    *   Zink
 
-    *   1.200
+    *   1 200
 
 
 
 
     Summe der 2,3,7,8 - TCDD-Toxizitätsäquivalente (nach NATO/CCMS).
-[^BJNR155400999BJNE002600305_001]:     Extraktionsverfahren für Arsen und Schwermetalle: AN = Ammoniumnitrat,
+[^BJNR155400999BJNE002600305_001_BJNR155400999BJNE002601116]:     Extraktionsverfahren für Arsen und Schwermetalle: AN = Ammoniumnitrat,
     KW = Königswasser.
-[^BJNR155400999BJNE002600305_002]:     Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert
+[^BJNR155400999BJNE002600305_002_BJNR155400999BJNE002601116]:     Bei Böden mit zeitweise reduzierenden Verhältnissen gilt ein Prüfwert
     von 50 mg/kg Trockenmasse.
-[^BJNR155400999BJNE002600305_003]:     Auf Flächen mit Brotweizenanbau oder Anbau stark Cadmiumanreichernder
+[^BJNR155400999BJNE002600305_003_BJNR155400999BJNE002601116]:     Auf Flächen mit Brotweizenanbau oder Anbau stark Cadmiumanreichernder
     Gemüsearten gilt als Maßnahmenwert 0,04 mg/kg Trockenmasse; ansonsten
     gilt als Maßnahmenwert 0,1 mg/kg Trockenmasse.
-[^BJNR155400999BJNE002600305_004]:     Bei Grünlandnutzung durch Schafe gilt als Maßnahmenwert 200 mg/kg
+[^BJNR155400999BJNE002600305_004_BJNR155400999BJNE002601116]:     Bei Grünlandnutzung durch Schafe gilt als Maßnahmenwert 200 mg/kg
     Trockenmasse.
-[^BJNR155400999BJNE002600305_005]: 
+[^BJNR155400999BJNE002600305_005_BJNR155400999BJNE002601116]: 
 
 ### Anhang 3
 

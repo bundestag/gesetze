@@ -56,8 +56,9 @@ des Gesetzes zur Änderung des Bewertungsgesetzes vom 13. August 1965
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage 1 (zu § 1) Hauptbewertungsstützpunkte der gärtnerischen Nutzung
+## Anlage 1 Hauptbewertungsstützpunkte der gärtnerischen Nutzung
 
 (Fundstelle: BGBl. I 1967, 1199)
 
@@ -246,8 +247,9 @@ Bei dem Hauptbewertungsstützpunkt B 33.01 handelt es sich um den
 ersten Hauptbewertungsstützpunkt des gärtnerischen Nutzungsteils
 Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
+(zu § 1 Nr. 1)
 
-## Anlage 2 (zu § 1 Nr. 1) Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
+## Anlage 2 Nutzungsteil Gemüse-, Blumen- und Zierpflanzenbau
 
 (Fundstelle: BGBl. I 1967, 1200 - 1201)
 
@@ -936,8 +938,9 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
 
 
+(zu § 1 Nr. 2)
 
-## Anlage 3 (zu § 1 Nr. 2) Nutzungsteil Obstbau
+## Anlage 3 Nutzungsteil Obstbau
 
 (Fundstelle: BGBl. I 1967, 1202)
 
@@ -1160,8 +1163,9 @@ Baumschulen in Nordrhein-Westfalen, Oberfinanzdirektion Köln.
 
 
 
+(zu § 1 Nr. 3)
 
-## Anlage 4 (zu § 1 Nr. 3) Nutzungsteil Baumschulen
+## Anlage 4 Nutzungsteil Baumschulen
 
 (Fundstelle: BGBl. I 1967, 1203)
 

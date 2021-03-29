@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 3040
 
+V aufgeh. durch
+:   Art. 4 Abs. 3 Satz 2 G v. 18.7.2016 I 1710 mWv 1.1.2020
+
 
 ## Eingangsformel
 

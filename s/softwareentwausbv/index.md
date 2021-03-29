@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur
+Title: Verordnung über die Berufsausbildung zum Mathematisch-technischen  Softwareentwickler/zur
   Mathematisch-technischen Softwareentwicklerin
 jurabk: SoftwareentwAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: softwareentwausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin (SoftwareentwAusbV)
+# Verordnung über die Berufsausbildung zum Mathematisch-technischen  Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin (SoftwareentwAusbV)
 
 Ausfertigungsdatum
 :   2007-03-14
@@ -525,8 +525,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2007 in Kraft.
 
+(zu § 3 Abs. 1)
 
-## Anlage (zu § 3 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Mathematisch-technischen Softwareentwickler/zur Mathematisch-technischen Softwareentwicklerin
 
 (Fundstelle: BGBl. I 2007, 329 - 334)
 

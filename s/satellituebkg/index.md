@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 21. Mai 1974 über die Verbreitung der d
   Satelliten übertragenen programmtragenden Signale
 jurabk: SatellitÜbkG
 layout: default
-origslug: satellit_bkg
+origslug: satellituebkg
 slug: satellituebkg
 
 ---

@@ -4,7 +4,7 @@ Title: Zweite Verordnung zur Durchführung des Gesetzes über Hilfsmaßnahmen f�
   von Berlin
 jurabk: FlüHGDV 2
 layout: default
-origslug: fl_hgdv_2
+origslug: fluehgdv_2
 slug: fluehgdv_2
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 135
 
 Zuletzt geändert durch
-:   Art. 198 V v. 31.10.2006 I 2407
+:   Art. 397 V v. 31.8.2015 I 1474
 
 
 ## Erster Teil - Milch und Milcherzeugnisse
@@ -172,7 +172,7 @@ und Molkereien oder zwischen Molkereien und Abnehmern über das Gebiet
 eines Landes hinaus und kommt eine gemeinsame Regelung der beteiligten
 obersten Landesbehörden nicht zustande, so entscheidet auf Antrag
 einer beteiligten obersten Landesbehörde das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium).
+Ernährung und Landwirtschaft (Bundesministerium).
 
 
 ### § 10 Förderung und Erhaltung der Güte
@@ -269,7 +269,7 @@ entsprechend den Gesetzen und der Satzung erfüllt.
 ### § 20 Preisregelung
 
 (1) Das Bundesministerium kann im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie
+Bundesministerium für Wirtschaft und Energie
 
 1.  durch Rechtsverordnung für das Gebiet des Bundes oder mehrere Länder
     Preise für Milch, Butter, Schmalz, sonstige Speisefette und -öle,
@@ -299,18 +299,18 @@ erfolgt, können die Landesregierungen durch Rechtsverordnung Preise,
 Bearbeitungs- und Handelsspannen, Zahlungs- und Lieferungsbedingungen
 für Milch festsetzen; sie können diese Befugnis auf oberste
 Landesbehörden übertragen. Das Bundesministerium kann im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie mit
-Zustimmung des Bundesrates Richtlinien hierfür erlassen. Für die Fälle
+mit dem Bundesministerium für Wirtschaft und Energie mit Zustimmung
+des Bundesrates Richtlinien hierfür erlassen. Für die Fälle
 übergebietlicher Lieferungen findet § 9 mit der Maßgabe entsprechende
 Anwendung, daß die Entscheidungen im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie ergehen. Wenn eine
+Bundesministerium für Wirtschaft und Energie ergehen. Wenn eine
 Preisregelung nach Absatz 1 Nr. 1 oder 2 für Milch erfolgt, treten
 entgegenstehende Bestimmungen der Länder außer Kraft.
 
 (3) Soweit Preise bei Abgabe durch die Molkereien nicht festgesetzt
 werden, kann das Bundesministerium im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung bestimmen,
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+bestimmen,
 
 1.  daß die Preise für Butter, Käse und andere Milcherzeugnisse von
     Notierungskommissionen an bestimmten Orten unter Berücksichtigung der
@@ -323,9 +323,9 @@ Rechtsverordnung bestimmen,
 
 
 Das Bundesministerium kann im Einvernehmen mit dem Bundesministerium
-für Wirtschaft und Technologie nähere Bestimmungen über das Verfahren
-der Notierung sowie über die Zusammensetzung der
-Notierungskommissionen treffen.
+für Wirtschaft und Energie nähere Bestimmungen über das Verfahren der
+Notierung sowie über die Zusammensetzung der Notierungskommissionen
+treffen.
 
 (4) Preise und Preisspannen sind nur festzusetzen, soweit dies
 erforderlich ist, um eine angemessene Preisgestaltung sicherzustellen.
@@ -364,11 +364,11 @@ zu fördern. Auf Antrag der Landesvereinigung oder der
 berufsständischen Organisationen gemeinsam können die
 Landesregierungen Umlagen bis zu 0,2 Cent je Kilogramm angelieferter
 Milch erheben, wenn die Umlagen von
-0,25              Pf (Satz 1) zur Erfüllung der unter Absatz 2 Nr. 1
-bis 6 bezeichneten Aufgaben nicht ausreichen. Die Umlagepflicht kann
-auf angelieferte Sahne (Rahm) im Sinne des § 1 Abs. 5 erstreckt
-werden; hierbei ist die Sahne (der Rahm) in die entsprechenden
-Einheiten in Milch umzurechnen. Zu der Umlage gemäß Satz 1 können auch
+0,25 Pf (Satz 1) zur Erfüllung der unter Absatz 2 Nr. 1 bis 6
+bezeichneten Aufgaben nicht ausreichen. Die Umlagepflicht kann auf
+angelieferte Sahne (Rahm) im Sinne des § 1 Abs. 5 erstreckt werden;
+hierbei ist die Sahne (der Rahm) in die entsprechenden Einheiten in
+Milch umzurechnen. Zu der Umlage gemäß Satz 1 können auch
 Vorzugsmilchbetriebe mit der von ihnen abgesetzten Vorzugsmilch
 herangezogen werden. Das gleiche gilt für Milcherzeuger, die Milch
 oder Sahne (Rahm) unmittelbar an Milchhändler, Groß- oder
@@ -455,9 +455,9 @@ Rechtsverordnung erlassen werden, haben keine aufschiebende Wirkung.
 (2) Die Beitreibung von Abgaben (§§ 12, 12a), Umlagen (§ 22)
 und den nach der Verordnung M Nr. 2/57 über Milchauszahlungspreise vom
 24\. Juli 1957 (Bundesanzeiger Nr. 142 vom 27. Juli 1957) an
-Ausgleichskassen abzuführenden Ersparnisbeträgen              kann
-nach den Bestimmungen der Abgabenordnung und ihren
-Durchführungsbestimmungen durchgeführt werden.
+Ausgleichskassen abzuführenden Ersparnisbeträgen kann nach den
+Bestimmungen der Abgabenordnung und ihren Durchführungsbestimmungen
+durchgeführt werden.
 
 
 ### § 24 Gütezeichen
@@ -559,8 +559,8 @@ Vorzugsmilchbetrieben ohne Entgelt Proben entnommen werden.
 
 (2) Das Bundesministerium kann die ihm nach diesem Gesetz erteilten
 Ermächtigungen zum Erlaß von Rechtsverordnungen auf die
-obersten Landesbehörden              übertragen. Diese Ermächtigung
-gilt nicht für Rechtsverordnungen auf Grund des § 20 Abs. 3.
+obersten Landesbehörden übertragen. Diese Ermächtigung gilt nicht für
+Rechtsverordnungen auf Grund des § 20 Abs. 3.
 
 
 ## Vierter Teil - Bußgeld- und Schlußbestimmungen
@@ -590,7 +590,7 @@ gilt nicht für Rechtsverordnungen auf Grund des § 20 Abs. 3.
 
 5.  die Bestimmungen des § 16 Abs. 1 oder Abs. 3 Satz 2, die
     Buchführungspflicht nach § 25 verletzt oder einer Auflage nach § 16
-    Abs. 4                    zuwiderhandelt,
+    Abs. 4 zuwiderhandelt,
 
 
 
@@ -647,8 +647,8 @@ Milchgesetzes vom 31. Juli 1930 (Reichsgesetzbl. I S. 421) in der
 Fassung des Artikels 5 der Verordnung des Reichspräsidenten vom 23.
 März 1933 (Reichsgesetzbl. I S. 143) und des Zweiten Gesetzes zur
 Änderung des Milchgesetzes vom 20. Juli 1933 (Reichsgesetzbl. I S.
-527) außer Kraft;              die übrigen Bestimmungen des
-Milchgesetzes bleiben unberührt. ...
+527) außer Kraft; die übrigen Bestimmungen des Milchgesetzes bleiben
+unberührt. ...
 
 (3) Mit Inkrafttreten dieses Gesetzes treten entgegenstehende
 Bestimmungen außer Kraft, insbesondere

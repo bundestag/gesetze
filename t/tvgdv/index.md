@@ -17,7 +17,7 @@ Fundstelle
 
 Stand: Neufassung vom 16. 1.1989 I 76;
 Zuletzt geändert durch
-:   Art. 434 V v. 31.10.2006 I 2407
+:   Art. 11 Abs. 39 G v. 18.7.2017 I 2745
 
 
 ## Erster Abschnitt - Tarifausschuß
@@ -199,7 +199,20 @@ Aufhebung im Bundesanzeiger bekannt.
 
 ### § 14
 
-Bei der Eintragung des Abschlusses von Tarifverträgen in das
+(1) Beim Bundesministerium für Arbeit und Soziales kann ein
+Tarifarchiv auch in elektronischer Form geführt werden. Die Pflicht
+zur Übersendung von Tarifverträgen ist auch erfüllt, wenn ein
+Tarifvertrag als elektronisches Dokument eingereicht wird. Dem
+elektronischen Dokument ist eine Erklärung beizufügen, dass das
+elektronisch eingereichte Dokument mit der Urschrift des
+Tarifvertrages oder seinen Änderungen übereinstimmt, und die Erklärung
+ist mit einer qualifizierten elektronischen Signatur zu versehen oder
+mittels Versandart nach § 5 Absatz 5 des De-Mail-Gesetzes zu
+übersenden. In Schriftform vorliegende Tarifverträge werden seitens
+des Bundesministeriums für Arbeit und Soziales in eine elektronische,
+im Volltext durchsuchbare Form umgewandelt.
+
+(2) Bei der Eintragung des Abschlusses von Tarifverträgen in das
 Tarifregister werden die Tarifverträge durch die Angabe der
 Tarifvertragsparteien, des Geltungsbereichs sowie des Zeitpunktes
 ihres Abschlusses und ihres Inkrafttretens bezeichnet.
@@ -222,7 +235,10 @@ Tarifregister vermerkt werden.
 
 Die Einsicht des Tarifregisters sowie der registrierten Tarifverträge
 ist jedem gestattet. Das Bundesministerium für Arbeit und Soziales
-erteilt auf Anfrage Auskunft über die Eintragungen.
+erteilt auf Anfrage Auskunft über die Eintragungen.Die Einsichtnahme
+ist einzuschränken oder zu verwehren, wenn Anhaltspunkte dafür
+bestehen, dass der betreffende Tarifvertrag Betriebs- und
+Geschäftsgeheimnisse oder personenbezogene Daten beinhaltet.
 
 
 ## Fünfter Abschnitt - Kosten

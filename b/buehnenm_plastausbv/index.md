@@ -3,7 +3,7 @@ Title: Verordnung über die Berufsausbildung zum Bühnenmaler und -plastiker/zur
   und -plastikerin
 jurabk: BühnenM/PlastAusbV
 layout: default
-origslug: b_hnenm_plastausbv
+origslug: buehnenm_plastausbv
 slug: buehnenm_plastausbv
 
 ---
@@ -434,8 +434,9 @@ Leistungen erbracht sind.
 
 Diese Verordnung tritt am 1. August 2000 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bühnenmaler und -plastiker/zur Bühnenmalerin und -plastikerin
 
 (Fundstelle: BGBl. I 2000, 86 - 90)
 

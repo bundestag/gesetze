@@ -2,7 +2,7 @@
 Title: Gesetz zur Sicherung der Düngemittel- und Saatgutversorgung
 jurabk: DüngMSaatG
 layout: default
-origslug: d_ngmsaatg
+origslug: duengmsaatg
 slug: duengmsaatg
 
 ---
@@ -118,5 +118,5 @@ anzuwenden.
 ## § 7
 
 Dieses Gesetz tritt mit Wirkung vom 1. August 1948 an in Kraft
-und tritt am 1. August 1951 außer Kraft             .
+und tritt am 1. August 1951 außer Kraft.
 

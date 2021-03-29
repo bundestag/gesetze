@@ -3,7 +3,7 @@ Title: Übereinkommen der Vereinten Nationen zur Bekämpfung der Wüstenbildung 
   von Dürre und/oder Wüstenbildung schwer betroffenen Ländern, insbesondere in Afrika
 jurabk: CCDAfrikaÜbk
 layout: default
-origslug: ccdafrika_bk
+origslug: ccdafrikauebk
 slug: ccdafrikauebk
 
 ---

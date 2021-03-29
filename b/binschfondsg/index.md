@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2266
 
-Geändert durch
-:   Art. 318 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 20 G v. 24.5.2016 I 1217
 
 
 ## § 1 Errichtung
@@ -50,9 +50,9 @@ Binnenschifffahrtsfonds ist Münster.
 
 ## § 4 Verwaltung und Anlage der Mittel
 
-(1) Die Wasser- und Schifffahrtsdirektion West in Münster verwaltet
-den Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn
-nach außen. Sie hat die überregionalen Binnenschifffahrtsverbände über
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt verwaltet den
+Binnenschifffahrtsfonds, führt dessen Geschäfte und vertritt ihn nach
+außen. Sie hat die überregionalen Binnenschifffahrtsverbände über
 dessen Wirtschaftsplan und den Jahresabschluss zu unterrichten.
 
 (2) Die Mittel des Binnenschifffahrtsfonds einschließlich der Erträge
@@ -70,7 +70,7 @@ Bedingungen in Euro anzulegen
 
 
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erlässt
+Das Bundesministerium für Verkehr und digitale Infrastruktur erlässt
 hierzu Anlagerichtlinien.
 
 
@@ -81,9 +81,9 @@ Artikel 3 Abs. 5, Artikel 6 und 8 der Verordnung (EG) Nr. 718/1999
 verwendet werden.
 
 (2) Zinserträge nach § 4 Abs. 2 dürfen nach Maßgabe von Richtlinien
-des Bundesministeriums für Verkehr, Bau und Stadtentwicklung zugunsten
-der deutschen Binnenschifffahrtsunternehmen anderweitig verwendet
-werden. Vor Erlass der Richtlinie werden die überregionalen
+des Bundesministeriums für Verkehr und digitale Infrastruktur
+zugunsten der deutschen Binnenschifffahrtsunternehmen anderweitig
+verwendet werden. Vor Erlass der Richtlinie werden die überregionalen
 Binnenschifffahrtsverbände angehört.
 
 
@@ -101,7 +101,7 @@ Bundeshaushaltsordnung.
 
 (2) Für jedes Kalenderjahr sind ein Wirtschaftsplan und eine
 Jahresrechnung aufzustellen, die der Genehmigung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung bedürfen. In
+Bundesministeriums für Verkehr und digitale Infrastruktur bedürfen. In
 der Jahresrechnung sind der Bestand des Sondervermögens einschließlich
 der Forderungen und Verbindlichkeiten sowie die Einnahmen und Ausgaben
 nachzuweisen.
@@ -111,7 +111,7 @@ nachzuweisen.
 
 ## § 8 Auflösung des Sondervermögens
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen das
 Sondervermögen durch Rechtsverordnung aufzulösen und die Verwendung
 des restlichen Vermögens für die in § 2 genannten Zwecke zu regeln.

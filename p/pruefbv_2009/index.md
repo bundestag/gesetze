@@ -3,7 +3,7 @@ Title: Verordnung über die Prüfung der Jahresabschlüsse der Kreditinstitute u
   sowie die darüber zu erstellenden Berichte
 jurabk: PrüfbV 2009
 layout: default
-origslug: pr_fbv_2009
+origslug: pruefbv_2009
 slug: pruefbv_2009
 
 ---

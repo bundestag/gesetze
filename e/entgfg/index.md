@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1065
 
 Zuletzt geändert durch
-:   Art. 1a G v. 21.7.2012 I 1601
+:   Art. 7 G v. 16.7.2015 I 1211
 
 
 ## § 1 Anwendungsbereich
@@ -82,37 +82,46 @@ von einer anerkannten Beratungsstelle hat beraten lassen.
 ununterbrochener Dauer des Arbeitsverhältnisses.
 
 
-## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen oder Geweben
+## § 3a Anspruch auf Entgeltfortzahlung bei Spende von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder anderen Blutbestandteilen
 
 (1) Ist ein Arbeitnehmer durch Arbeitsunfähigkeit infolge der Spende
 von Organen oder Geweben, die nach den §§ 8 und 8a des
-Transplantationsgesetzes erfolgt, an seiner Arbeitsleistung
-verhindert, hat er Anspruch auf Entgeltfortzahlung durch den
-Arbeitgeber für die Zeit der Arbeitsunfähigkeit bis zur Dauer von
-sechs Wochen. § 3 Absatz 1 Satz 2 gilt entsprechend.
+Transplantationsgesetzes erfolgt, oder einer Blutspende zur Separation
+von Blutstammzellen oder anderen Blutbestandteilen im Sinne von § 9
+des Transfusionsgesetzes an seiner Arbeitsleistung verhindert, hat er
+Anspruch auf Entgeltfortzahlung durch den Arbeitgeber für die Zeit der
+Arbeitsunfähigkeit bis zur Dauer von sechs Wochen. § 3 Absatz 1 Satz 2
+gilt entsprechend.
 
 (2) Dem Arbeitgeber sind von der gesetzlichen Krankenkasse des
-Empfängers von Organen oder Geweben das an den Arbeitnehmer nach
-Absatz 1 fortgezahlte Arbeitsentgelt sowie die hierauf entfallenden
-vom Arbeitgeber zu tragenden Beiträge zur Sozialversicherung und zur
-betrieblichen Alters- und Hinterbliebenenversorgung auf Antrag zu
-erstatten. Ist der Empfänger von Organen oder Geweben gemäß § 193
-Absatz 3 des Versicherungsvertragsgesetzes bei einem privaten
+Empfängers von Organen, Geweben oder Blut zur Separation von
+Blutstammzellen oder anderen Blutbestandteilen das an den Arbeitnehmer
+nach Absatz 1 fortgezahlte Arbeitsentgelt sowie die hierauf
+entfallenden vom Arbeitgeber zu tragenden Beiträge zur
+Sozialversicherung und zur betrieblichen Alters- und
+Hinterbliebenenversorgung auf Antrag zu erstatten. Ist der Empfänger
+von Organen, Geweben oder Blut zur Separation von Blutstammzellen oder
+anderen Blutbestandteilen gemäß § 193 Absatz 3 des
+Versicherungsvertragsgesetzes bei einem privaten
 Krankenversicherungsunternehmen versichert, erstattet dieses dem
 Arbeitgeber auf Antrag die Kosten nach Satz 1 in Höhe des tariflichen
-Erstattungssatzes. Ist der Empfänger von Organen oder Geweben bei
+Erstattungssatzes. Ist der Empfänger von Organen, Geweben oder Blut
+zur Separation von Blutstammzellen oder anderen Blutbestandteilen bei
 einem Beihilfeträger des Bundes beihilfeberechtigt oder
 berücksichtigungsfähiger Angehöriger, erstattet der zuständige
 Beihilfeträger dem Arbeitgeber auf Antrag die Kosten nach Satz 1 zum
-jeweiligen Bemessungssatz des Empfängers von Organen oder Geweben;
-dies gilt entsprechend für sonstige öffentlich-rechtliche Träger von
-Kosten in Krankheitsfällen auf Bundesebene. Unterliegt der Empfänger
-von Organen oder Geweben der Heilfürsorge im Bereich des Bundes oder
-der truppenärztlichen Versorgung, erstatten die zuständigen Träger auf
-Antrag die Kosten nach Satz 1. Mehrere Erstattungspflichtige haben die
-Kosten nach Satz 1 anteilig zu tragen. Der Arbeitnehmer hat dem
-Arbeitgeber unverzüglich die zur Geltendmachung des
-Erstattungsanspruches erforderlichen Angaben zu machen.
+jeweiligen Bemessungssatz des Empfängers von Organen, Geweben oder
+Blut zur Separation von Blutstammzellen oder anderen
+Blutbestandteilen; dies gilt entsprechend für sonstige öffentlich-
+rechtliche Träger von Kosten in Krankheitsfällen auf Bundesebene.
+Unterliegt der Empfänger von Organen, Geweben oder Blut zur Separation
+von Blutstammzellen oder anderen Blutbestandteilen der Heilfürsorge im
+Bereich des Bundes oder der truppenärztlichen Versorgung, erstatten
+die zuständigen Träger auf Antrag die Kosten nach Satz 1. Mehrere
+Erstattungspflichtige haben die Kosten nach Satz 1 anteilig zu tragen.
+Der Arbeitnehmer hat dem Arbeitgeber unverzüglich die zur
+Geltendmachung des Erstattungsanspruches erforderlichen Angaben zu
+machen.
 
 
 ## § 4 Höhe des fortzuzahlenden Arbeitsentgelts

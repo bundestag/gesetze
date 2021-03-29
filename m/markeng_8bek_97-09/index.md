@@ -66,12 +66,12 @@ Office international des
 epizooties - französisch -
 International Office of Epizootics - englisch -
 Oficina Internacional de Epizootias - spanisch -
-... (nicht darstellbare Schriftzeichen)              - russisch -
+... (nicht darstellbare Schriftzeichen) - russisch -
 Organisation mondiale de la
 sante animale - französisch -
 World organisation for animal health - englisch -
 Organizacion mundial de sanidad animal - spanisch -
-... (nicht darstellbare Schriftzeichen)              - russisch -
+... (nicht darstellbare Schriftzeichen) - russisch -
 
 *    *   Abkürzung:
 

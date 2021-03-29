@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2449 (1994 I 162)
 
 Zuletzt geändert durch
-:   Art. 8 V v. 5.10.2009 I 3262
+:   Art. 9 Abs. 10 G v. 3.12.2015 I 2178
 
 
 ## Eingangsformel
@@ -178,7 +178,7 @@ sinngemäß.
 
 Wasserfahrzeuge haben bei der Einfahrt ab der Seezollgrenze
 ununterbrochen das Zollzeichen nach Anlage 2 zu führen oder andere von
-der Bundesfinanzdirektion Nord erlassene Überwachungsvorschriften zu
+der Generalzolldirektion erlassene Überwachungsvorschriften zu
 beachten. Der Führer des jeweiligen Wasserfahrzeugs hat für die
 Einhaltung der Pflichten nach Satz 1 Sorge zu tragen. Dies gilt
 entsprechend für Wasserfahrzeuge, die auf dem Stettiner Haff in das
@@ -462,8 +462,8 @@ auf dem Stettiner Haff den tatsächlichen Ausgang der Waren nicht
 selbst überwachen, so hat der Schiffsführer dafür Sorge zu tragen, daß
 das Wasserfahrzeug nach Erledigung aller Zollförmlichkeiten das
 Zollzeichen nach Anlage 2 bis zum Ausgang aus dem Zollgebiet der
-Gemeinschaft führt oder andere von der Bundesfinanzdirektion Nord
-erlassene Überwachungsmaßnahmen beachtet werden.
+Gemeinschaft führt oder andere von der Generalzolldirektion erlassene
+Überwachungsmaßnahmen beachtet werden.
 
 (2) Bei der Ausfuhr oder Wiederausfuhr einfuhrabgabenpflichtigen
 Mundvorrats hat der Verbringer schriftliche Unterlagen wie
@@ -957,8 +957,8 @@ Hauptzollamt zu beteiligen.
 Hauptzollamts kann auch ein anderes Hauptzollamt die Bewilligung
 erteilen.
 
-(9) Das Bundesministerium der Finanzen bestimmt die Zollstellen, die
-für die Bewilligungen der in Artikel 497 Abs. 3 Buchstabe a bis d der
+(9) Die Generalzolldirektion bestimmt die Zollstellen, die für die
+Bewilligungen der in Artikel 497 Abs. 3 Buchstabe a bis d der
 Durchführungsverordnung zum Zollkodex aufgeführten Zollverfahren
 zuständig sind.
 
@@ -1195,8 +1195,8 @@ verbleibt bei diesem und beim Händler. Eine dritte Ausfertigung hat
 der Händler nach der Lieferung bei dem für den Ort des Bezugs der
 Waren zuständigen Hauptzollamt vorzulegen. Unversteuerte
 verbrauchsteuerpflichtige Gemeinschaftswaren sind dem für den Ort des
-Bezugs zuständigen Hauptzollamt vorzuführen. Die Bundesfinanzdirektion
-Nord regelt weitere Einzelheiten des Überwachungsverfahrens und
+Bezugs zuständigen Hauptzollamt vorzuführen. Die Generalzolldirektion
+regelt weitere Einzelheiten des Überwachungsverfahrens und
 veröffentlicht diese Regelung unter www.zoll.de.
 
 (13) Die Absätze 8, 9 und 11 gelten für Flugzeugbedarf und im
@@ -1998,8 +1998,9 @@ zuwiderhandelt, indem er vorsätzlich oder fahrlässig
 
 Diese Verordnung tritt am 1. Januar 1994 in Kraft.
 
+(zu § 14 Abs. 3, § 27 Abs. 3 Satz 3)
 
-## Anlage 1 (zu § 14 Abs. 3, § 27 Abs. 3 Satz 3) Küstengebiet
+## Anlage 1 Küstengebiet
 
 (Fundstelle: BGBl. I 1993, 2460;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2340,8 +2341,9 @@ von mindestens 10, höchstens 12 Kompaßstrichen - je 5 oder 6 Strich
 von recht achteraus nach jeder Seite des Schiffes - wirft. Das Licht
 muß auf eine Entfernung von mindestens 1 sm sichtbar sein.
 
+(zu § 28)
 
-## Anlage 3 (zu § 28) Halte- und Bordezeichen
+## Anlage 3 Halte- und Bordezeichen
 
 (Fundstelle: BGBl. I 1993, S. 2462)
 

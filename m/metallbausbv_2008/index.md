@@ -1139,8 +1139,9 @@ Berufsausbildung zum Metallbauer/zur Metallbauerin vom 24. März 2003
 (BGBl. I S. 377), geändert durch Artikel 2 der Verordnung vom 17. Juli
 2007 (BGBl. I S. 1402), außer Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Metallbauer/zur Metallbauerin
 
 (Fundstelle: BGBl. I 2008, 1475 - 1489)
 

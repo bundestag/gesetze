@@ -1315,8 +1315,7 @@ Einrichtungen, die im Speisenferntransport beliefert werden**
 
 
 -   treten erhebliche Qualitätsbeanstandungen auf, ist die produzierende
-    Küche **sofort**                    durch die ausgebende Einrichtung
-    zu informieren.
+    Küche **sofort** durch die ausgebende Einrichtung zu informieren.
 
 
 
@@ -1324,11 +1323,13 @@ Einrichtungen, die im Speisenferntransport beliefert werden**
 
 ## Anlage 3
 
-(Fundstelle: GBl. I 1975, Nr. 44, 721)
-**Mindestanforderungen an die Planung der Schüler- und
-Kinderspeisung**
-I.
-**Grundsätze**
+(Fundstelle: GBl. DDR I 1975, Nr. 44, 721)
+
+Mindestanforderungen
+**an die Planung der Schüler- und Kinderspeisung**
+**I.**
+## **Grundsätze**
+
 
 1.  Die Aufgaben der Schüler- und Kinderspeisung werden auf zentraler,
     örtlicher und betrieblicher Ebene in die Pläne eingeordnet.
@@ -1342,7 +1343,9 @@ I.
 
 
 
-II.
+
+## II.
+
 Auf der Basis der unter Abschnitt I genannten Grundsätze sind folgende
 Mindestanforderungen an die Planung der Schüler- und Kinderspeisung zu
 sichern:
@@ -1354,56 +1357,52 @@ sichern:
     -   Anzahl der Teilnehmer an der Schülerspeisung in allgemeinbildenden
         Schulen in Personen
 
-        *
-            *
-                darunter: teilnehmende Schüler
+        darunter: teilnehmende Schüler
 
-                    darunter: aus den Klassen 7 - 12
+            darunter: aus den Klassen 7 - 12
 
-                    davon Schüler, die mit einem Naturaleinsatz von 1,20 M versorgt werden
+            davon Schüler, die mit einem Naturaleinsatz von 1,20 M versorgt werden
 
 
 
 
 
-
-
-
-
-
-
-    -   Versorgungsgrad der Schüler in den allgemeinbildenden Schulen \*1)
+    -[^DDNR007170975BJNE001800307_01]
+   Versorgungsgrad der Schüler in den allgemeinbildenden Schulen
 
 
     -   Anzahl der Teilnehmer an der Schülerspeisung in den kommunalen
         Berufsschulen in Personen
 
-        darunter: teilnehmende Lehrlinge
+        darunter:    teilnehmende Lehrlinge
 
 
-    -   Versorgungsgrad der Lehrlinge in kommunalen Berufsschulen \*2)
+    -[^DDNR007170975BJNE001800307_02]
+   Versorgungsgrad der Lehrlinge in kommunalen Berufsschulen
 
 
     -   Anzahl der Teilnehmer an der Kinderspeisung in Kindergärten in
         Personen
 
-        darunter: teilnehmende Kinder
+        darunter:    teilnehmende Kinder
 
 
-    -   Versorgungsgrad der teilnehmenden Kinder in Kindergärten \*3)
+    -[^DDNR007170975BJNE001800307_03]
+   Versorgungsgrad der teilnehmenden Kinder in Kindergärten
 
 
     -   Teilnehmer an der Trinkmilchversorgung in Personen
 
-        davon: Teilnehmer an allgemeinbildenden Schulen
+        davon:       Teilnehmer an allgemeinbildenden Schulen
 
 
-    -   Versorgungsgrad an der Trinkmilchversorgung für Schüler in
-        allgemeinbildenden Schulen \*4)
+    -[^DDNR007170975BJNE001800307_04]
+   Versorgungsgrad an der Trinkmilchversorgung für Schüler in
+        allgemeinbildenden Schulen
 
 
     -   Versorgungsgrad an der Trinkmilchversorgung für Lehrlinge in
-        kommunalen Berufsschulen \*4)
+        kommunalen Berufsschulen
 
 
     -   Anzahl der Essenportionen für die Schüler- und Kinderspeisung in
@@ -1421,10 +1420,12 @@ sichern:
     Zielstellungen für ausgewählte Schwerpunktkreise zu planen.
 
 
-3.  Im Volkswirtschaftsplan der Räte der Bezirke, Teil Bauwesen und
+3.[^DDNR007170975BJNE001800307_05]
+  Im Volkswirtschaftsplan der Räte der Bezirke, Teil Bauwesen und
     Wohnungsbau, wird als Information der Plankennziffer für Investitionen
     des komplexen Wohnungsbaues die Kennziffer - nutzbare
-    Schülerspeiseplätze \*5) - ausgewiesen.
+    Schülerspeiseplätze
+    - ausgewiesen.
 
 
 4.  Die Leiter der an der Schüler- und Kinderspeisung beteiligten Betriebe
@@ -1450,27 +1451,54 @@ sichern:
 
 
 
------
-\*1) Versorgungsgrad der Schüler in allgemeinbildenden Schulen
-teilnehmende Schüler X 100
-=  ---------------------------
-Anzahl der Schüler
-\*2) Versorgungsgrad der Lehrlinge in kommunalen
-Berufsschulen (KBS)
-teilnehmende Lehrlinge X 100
-=  --------------------------------------
-täglich in der KBS anwesende Lehrlinge
-\*3) Versorgungsgrad der Kinder in Kindergärten
-teilnehmende Kinder X 100
-=  ---------------------------
-Anzahl der betreuten Kinder
-\*4) Der Versorgungsgrad an der Trinkmilchversorgung für
-die Schüler und Lehrlinge ist wie unter Fußnoten 1 und 2
-zu berechnen.
-\*5) Der Nachweis erfolgt als Bestandteil der Plankennziffer
-11 gemäß der Planungsordnung vom 20. November 1974
-(Sonderdruck Nr. 775a des Gesetzblattes S. 59).
 
+_\_\__\_\__\_\__\_\__\_\__\_\_
+
+[^DDNR007170975BJNE001800307_01]:     Versorgungsgrad der Schüler in allgemeinbildenden Schulen=
+
+teilnehmende Schüler X 100
+
+
+
+
+Anzahl der Schüler
+
+
+
+
+
+[^DDNR007170975BJNE001800307_02]: Versorgungsgrad der Lehrlinge in kommunalen Berufsschulen (KBS)=
+
+teilnehmende Lehrlinge X 100
+
+
+
+
+täglich in der KBS anwesende Lehrlinge
+
+
+
+
+
+[^DDNR007170975BJNE001800307_03]: Versorgungsgrad der Kinder in Kindergärten=
+
+teilnehmende Kinder X 100
+
+
+
+
+Anzahl der betreuten Kinder
+
+
+
+
+
+[^DDNR007170975BJNE001800307_04]: Der Versorgungsgrad an der Trinkmilchversorgung für die Schüler und
+Lehrlinge ist wie unter Fußnoten undzu berechnen.
+Der Nachweis erfolgt als Bestandteil der Plankennziffer 11 gemäß der
+Planungsordnung vom 20. November 1974 (Sonderdruck Nr. 775a des
+Gesetzblattes S. 59).
+[^DDNR007170975BJNE001800307_05]: 
 
 ## Anlage 4
 
@@ -1683,72 +1711,645 @@ hergestellt werden
 
 ## Anlage 6
 
-(Fundstelle: GBl. I 1987 Nr. 13, 154 - 155)
-**Nachweis des täglichen Wareneinsatzes**
-Küche
-Tag
-verkaufte
-Essenmarken/
-bestellte
-Gericht                       Gericht
-Essenportionen        Altersgruppe I                Altersgruppe II
-----------------------------------------------------------------------
----
-Lebensmittel I mengen-     mengen-    wert-   I mengen-  mengen-
-wert-
-EKP je kg    I mäßiger     mäßiger    mäßiger I mäßiger  mäßiger
-mäßiger
-in M         I WE/         WE         WE      I WE/      WE       WE
-I Portion \*1) gesamt \*2) gesamt  I Portion  gesamt   gesamt
-I in g        in kg      in M    I          in kg    in M
-----------------------------------------------------------------------
----
-Wertmäßiger WE gesamt Ist
-Wertmäßiger WE gesamt Soll \*3)
-----------------------------------------
-+
-./. wertmäßiger WE pro Tag
-+
-./. wertmäßiger WE
-im auflaufenden Monat
-----------------------------------------
-Wertmäßiger WE/Portion
-----------------------------------------
-Küche ..................................
-**Monatliche Abrechnung des mengen- und wertmäßigen Wareneinsatzes**
-----------------------------------------------------------------------
-----
-Verbrauch/        Wareneinsatz in g/Portion lt. Rezeptur        wert-
-Portionen     Fleisch     Milch     Butter   Margarine  Obst
-mäßiger
-Tag Gericht   Geflügel                       Öl         Gemüse  Waren-
-Ei                                                einsatz/
-Fisch                                             Portion
-(M)
-------------------------------------------------------------
-I   II      I  II     I  II    I   II     I  II    I    II
-----------------------------------------------------------------------
-----
-gesamt
-----------------------------------------------------------------------
-----
-Ist-
-Durchschnitt
-je Portion
-----------------------------------------------------------------------
-----
-Soll-         70  90    100  100    5  5     6   8    250  250   1,-
-1,20
-Durchschnitt
-je Portion
-(lt. Gesetz)
-----------------------------------------------------------------------
-----
-Abweichungen
-+ ./.
-----------------------------------------------------------------------
-----
-\*1) Wareneinsatz/Portion lt. Rezeptur
-\*2) Menge lt. Rezeptur multipliziert mit herzustellender Portionszahl
-\*3) hergestellte Portionszahl multipliziert mit 1,- M bzw. 1,20 M
+(Fundstelle: GBl. DDR I 1987 Nr. 13, 154 - 155)
 
+
+*    *   **Nachweis des täglichen Wareneinsatzes**
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Küche
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tag
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   verkaufte Essenmarken/
+        bestellte Essenportionen
+
+    *   Gericht
+        Altersgruppe I
+
+    *   Gericht
+        Altersgruppe II
+
+
+*    *   Lebensmittel
+
+    *   EKP je kg
+        in M
+
+    *   mengenmäßiger
+[^DDNR007170975BJNE002100307_01]
+        WE/Portion
+        in g
+
+    *   mengenmäßiger
+[^DDNR007170975BJNE002100307_02]
+        WE gesamt
+        in kg
+
+    *   wertmäßiger
+        WE gesamt
+        in M
+
+    *   mengenmäßiger
+        WE/Portion
+
+    *   mengenmäßiger
+        WE gesamt
+        in kg
+
+    *   wertmäßiger
+        WE gesamt
+        in M
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Wertmäßiger WE gesamt Ist
+
+
+*    *[^DDNR007170975BJNE002100307_03]
+   Wertmäßiger WE gesamt Soll
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   +
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   ./. wertmäßiger WE pro Tag
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   +
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   ./. wertmäßiger WE
+
+
+*    *   im auflaufenden Monat
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Wertmäßiger WE/Portion
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   _\_\__\_\__\_\__\_\__\_\_\_\_
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+
+
+*    *   Küche ................................................................
+        ...........
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **Monatliche Abrechnung des mengen- und wertmäßigen Wareneinsatzes**
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Verbrauch/Portionen
+
+    *
+    *
+    *
+    *
+    *   Wareneinsatz in g/Portion lt. Rezeptur
+
+    *
+    *   wertmäßiger
+
+
+*    *
+    *
+    *
+    *
+    *   Fleisch
+        Geflügel
+
+    *
+    *   Milch
+
+    *
+    *   Butter
+
+    *
+    *   Margarine
+        Öl
+
+    *
+    *   Obst
+        Gemüse
+
+    *
+    *   Wareneinsatz/
+        Portion (M)
+
+
+*    *   Tag
+
+    *
+    *   Gericht
+
+    *
+    *   Ei
+        Fisch
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *   I
+
+    *   II
+
+    *
+    *   I
+
+    *   II
+
+    *
+    *   I
+
+    *   II
+
+    *
+    *   I
+
+    *   II
+
+    *
+    *   I
+
+    *   II
+
+    *
+    *   I
+
+    *   II
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   gesamt
+
+
+*    *   Ist-Ø je Portion
+
+
+*    *   Soll-Ø je Portion
+        (lt. Gesetz)
+
+    *
+    *   70
+
+    *   90
+
+    *
+    *   100
+
+    *   100
+
+    *
+    *   5
+
+    *   5
+
+    *
+    *   6
+
+    *   8
+
+    *
+    *   250
+
+    *   250
+
+    *
+    *   1,-
+
+    *   1,20
+
+
+*    *   Abweichungen
+        + ./.
+
+
+*    *
+
+
+   Wareneinsatz/Portion lt. Rezeptur
+[^DDNR007170975BJNE002100307_01]:     Menge lt. Rezeptur multipliziert mit herzustellender Portionszahl
+[^DDNR007170975BJNE002100307_02]:     hergestellte Portionszahl multipliziert mit 1,- M bzw. 1,20 M
+[^DDNR007170975BJNE002100307_03]: 

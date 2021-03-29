@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 960
 
+Zuletzt geändert durch
+:   Art. 5 Abs. 6 V v. 18.10.2017 I 3584
+
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
 
@@ -99,7 +102,15 @@ Quadratmeter pro Steradiant.
 Bestrahlung und Strahldichte von künstlicher optischer Strahlung, der
 Beschäftigte ausgesetzt sind.
 
-(10) Stand der Technik ist der Entwicklungsstand fortschrittlicher
+(10) Fachkundig ist, wer über die erforderlichen Fachkenntnisse zur
+Ausübung einer in dieser Verordnung bestimmten Aufgabe verfügt. Die
+Anforderungen an die Fachkunde sind abhängig von der jeweiligen Art
+der Aufgabe. Zu den Anforderungen zählen eine entsprechende
+Berufsausbildung oder Berufserfahrung jeweils in Verbindung mit einer
+zeitnah ausgeübten einschlägigen beruflichen Tätigkeit sowie die
+Teilnahme an spezifischen Fortbildungsmaßnahmen.
+
+(11) Stand der Technik ist der Entwicklungsstand fortschrittlicher
 Verfahren, Einrichtungen oder Betriebsweisen, der die praktische
 Eignung einer Maßnahme zum Schutz der Gesundheit und zur Sicherheit
 der Beschäftigten gesichert erscheinen lässt. Bei der Bestimmung des
@@ -108,7 +119,7 @@ Einrichtungen oder Betriebsweisen heranzuziehen, die mit Erfolg in der
 Praxis erprobt worden sind. Gleiches gilt für die Anforderungen an die
 Arbeitsmedizin und Arbeitshygiene.
 
-(11) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende
+(12) Den Beschäftigten stehen Schülerinnen und Schüler, Studierende
 und sonstige in Ausbildungseinrichtungen tätige Personen, die bei
 ihren Tätigkeiten künstlicher optischer Strahlung ausgesetzt sind,
 gleich.
@@ -250,18 +261,22 @@ fachkundigen Personen durchgeführt werden. Verfügt der Arbeitgeber
 nicht selbst über die entsprechenden Kenntnisse, hat er sich
 fachkundig beraten zu lassen.
 
-(2) Vor der Aufnahme des Betriebs von Lasern der Klassen 3R, 3B und 4
-hat der Arbeitgeber, sofern er nicht selbst über die erforderliche
-Sachkunde verfügt, einen sachkundigen Laserschutzbeauftragten
-schriftlich zu bestellen. Die Sachkunde ist durch die erfolgreiche
-Teilnahme an einem entsprechenden Lehrgang nachzuweisen. Der
-Laserschutzbeauftragte hat folgende Aufgaben:
+(2) Vor der Aufnahme des Betriebs von Lasereinrichtungen der Klassen
+3R, 3B und 4 hat der Arbeitgeber, sofern er nicht selbst über die
+erforderlichen Fachkenntnisse verfügt, einen Laserschutzbeauftragten
+schriftlich zu bestellen. Der Laserschutzbeauftragte muss über die für
+seine Aufgaben erforderlichen Fachkenntnisse verfügen. Die fachliche
+Qualifikation ist durch die erfolgreiche Teilnahme an einem Lehrgang
+nachzuweisen und durch Fortbildungen auf aktuellem Stand zu halten.
+Der Laserschutzbeauftragte unterstützt den Arbeitgeber
 
-1.  die Unterstützung des Arbeitgebers bei der Durchführung der
-    notwendigen Schutzmaßnahmen gemäß § 3 Absatz 1 Satz 7;
+1.  bei der Durchführung der Gefährdungsbeurteilung nach § 3,
 
 
-2.  die Überwachung des sicheren Betriebs von Lasern nach Satz 1.
+2.  bei der Durchführung der notwendigen Schutzmaßnahmen nach § 7 und
+
+
+3.  bei der Überwachung des sicheren Betriebs von Lasern nach Satz 1.
 
 
 
@@ -424,8 +439,8 @@ beteiligen.
 
 Das Bundesministerium für Arbeit und Soziales wird in allen Fragen der
 Sicherheit und des Gesundheitsschutzes bei künstlicher optischer
-Strahlung durch den Ausschuss nach § 24 der
-Betriebssicherheitsverordnung beraten. § 24 Absatz 4 und 5 der
+Strahlung durch den Ausschuss nach § 21 der
+Betriebssicherheitsverordnung beraten. § 21 Absatz 5 und 6 der
 Betriebssicherheitsverordnung gilt entsprechend.
 
 
@@ -467,6 +482,8 @@ Der Antrag des Arbeitgebers muss mindestens Angaben enthalten zu
 
 
 
+Der Antrag des Arbeitgebers kann in Papierform oder elektronisch
+übermittelt werden.
 
 (2) Eine Ausnahme nach Absatz 1 Satz 1 kann auch im Zusammenhang mit
 Verwaltungsverfahren nach anderen Rechtsvorschriften beantragt werden.
@@ -494,8 +511,13 @@ Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     fachkundigen Personen durchgeführt werden,
 
 
-5.  entgegen § 5 Absatz 2 Satz 1 einen sachkundigen
-    Laserschutzbeauftragten nicht schriftlich bestellt,
+5.  entgegen § 5 Absatz 2 Satz 1 einen Laserschutzbeauftragten nicht
+    schriftlich bestellt,
+
+
+5a. entgegen § 5 Absatz 2 Satz 2 einen Laserschutzbeauftragten bestellt,
+    der nicht über die für seine Aufgaben erforderlichen Fachkenntnisse
+    verfügt,
 
 
 6.  entgegen § 7 Absatz 3 Satz 1 einen Arbeitsbereich nicht kennzeichnet,

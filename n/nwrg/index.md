@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1366
 
+Zuletzt geändert durch
+:   Art. 11 Abs. 37 G v. 18.7.2017 I 2745
+
 [^F777237_01_BJNR136600012]:     Dieses Gesetz dient der Umsetzung der Richtlinie 91/477/EWG des Rates
     vom 18. Juni 1991 über die Kontrolle des Erwerbs und des Besitzes von
     Waffen (ABl. L 256 vom 13.9.1991, S. 51), die durch die Richtlinie
@@ -538,30 +541,19 @@ Aufgaben erforderlich ist:
     Zwecke des Ordnungswidrigkeitenverfahrens,
 
 
-4.  den Polizeien des Bundes und der Länder
-
-    a)  zur Abwehr einer konkreten Gefahr für Leib, Leben, Gesundheit,
-        Freiheit einer Person oder bedeutende Sach- oder Vermögenswerte,
-
-
-    b)  zum Schutz von Leib, Leben, Gesundheit oder Freiheit der im Rahmen der
-        polizeilichen Aufgabenerfüllung tätigen Personen, wenn die
-        Datenübermittlung nicht nach Buchstabe a erfolgen kann,
-
-
-
+4.  den Polizeien des Bundes und der Länder zur Erfüllung der ihnen durch
+    Gesetz zugewiesenen Aufgaben,
 
 
 5.  den Hauptzoll- und Zollfahndungsämtern sowie dem Zollkriminalamt zur
     Erfüllung ihrer Aufgaben nach dem Zollverwaltungsgesetz, dem
     Zollfahndungsdienstgesetz, dem Schwarzarbeitsbekämpfungsgesetz, dem
-    Arbeitnehmer-Entsendegesetz und dem Arbeitnehmerüberlassungsgesetz;
-    Nummer 4 Buchstabe a und b gilt entsprechend,
+    Arbeitnehmer-Entsendegesetz und dem Arbeitnehmerüberlassungsgesetz,
 
 
 6.  den mit der Steuerfahndung betrauten Dienststellen der
     Landesfinanzbehörden zur Erfüllung ihrer Aufgaben nach der
-    Abgabenordnung; Nummer 4 Buchstabe a und b gilt entsprechend, sowie
+    Abgabenordnung sowie
 
 
 7.  den Verfassungsschutzbehörden des Bundes und der Länder, dem
@@ -611,9 +603,8 @@ enthalten sein:
 Übermittlungsersuchen der Polizeien des Bundes oder der Länder nur die
 Anschrift anzugeben, wenn dies in einem bestimmten Einzelfall zur
 Abwehr einer Gefahr für Leib, Leben oder Freiheit einer Person
-erforderlich ist. Dies gilt auch für Abfragen für Zwecke des § 10
-Nummer 4 Buchstabe b. In diesen Fällen werden nur die Angaben nach § 4
-Absatz 1 Nummer 1 oder 2 übermittelt.
+erforderlich ist. In diesem Fall werden nur die Angaben nach § 4
+Absatz 1 Nummer 1 oder Nummer 2 übermittelt.
 
 (4) Die von der ersuchenden Stelle mindestens anzugebenden Daten nach
 Absatz 2 sind um weitere Daten nach § 4 Absatz 1 Nummer 1, 2 und 4 zu
@@ -903,8 +894,7 @@ mittels:
 2.  eines Identitätsbestätigungsdienstes,
 
 
-3.  einer qualifizierten elektronischen Signatur nach dem Signaturgesetz
-    oder
+3.  einer qualifizierten elektronischen Signatur oder
 
 
 4.  eines anderen elektronischen Nachweisverfahrens, welches über einen

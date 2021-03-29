@@ -3,7 +3,7 @@ Title: Übereinkommen zur Vereinheitlichung bestimmter Vorschriften über die Be
   im internationalen Luftverkehr
 jurabk: MontrÜbk
 layout: default
-origslug: montr_bk
+origslug: montruebk
 slug: montruebk
 
 ---

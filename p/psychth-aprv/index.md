@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3749
 
 Zuletzt geändert durch
-:   Art. 34c G v. 6.12.2011 I 2515
+:   Art. 7 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -704,7 +704,7 @@ zweite Stelle hinter dem Komma errechnet. Sie lautet:
 "ausreichend" bei einem Zahlenwert über 3,5 bis 4.
 
 
-## Vierter Abschnitt - Approbationserteilung
+## Vierter Abschnitt - Approbationserteilung, Berufserlaubnis, Anpassungsmaßnahmen
 
 
 
@@ -742,24 +742,11 @@ erteilt. Dem Antrag sind beizufügen:
 
 
 
-In den Fällen, in denen die Approbation auf Grund eines
-Ausbildungsnachweises nach § 2 Abs. 2, 3 oder Abs. 3a des
-Psychotherapeutengesetzes erteilt werden soll, können von den
-Antragstellern die in Satz 2 Nr. 1 und 2 genannten Nachweise nicht
-gefordert werden, es sei denn, ihre in einem Drittland ausgestellten
-Ausbildungsnachweise sind noch in keinem anderen Mitgliedstaat
-anerkannt worden.
 
-(2) Soll eine Approbation nach § 2 Abs. 2, 3 oder Abs. 3a des
-Psychotherapeutengesetzes erteilt werden, sind, sofern die Ausbildung
-nicht nach den Vorschriften dieser Verordnung erfolgt ist, an Stelle
-des Nachweises nach Absatz 1 Satz 2 Nr. 7 die den Anforderungen des §
-2 Abs. 2, 3 oder Abs. 3a des Gesetzes entsprechenden
-Ausbildungsnachweise in amtlich beglaubigter Kopie vorzulegen. Soweit
-diese Nachweise nicht in deutscher Sprache ausgestellt sind, sind sie
-zusätzlich in amtlich beglaubigter Übersetzung vorzulegen. Die
-zuständige Behörde kann die Vorlage weiterer Nachweise, insbesondere
-über eine bisherige Tätigkeit, verlangen.
+(2) Soweit diese Nachweise nicht in deutscher Sprache ausgestellt
+sind, sind sie zusätzlich in amtlich beglaubigter Übersetzung
+vorzulegen. Die zuständige Behörde kann die Vorlage weiterer
+Nachweise, insbesondere über eine bisherige Tätigkeit, verlangen.
 
 (3) Staatsangehörige eines anderen Mitgliedstaates der Europäischen
 Union oder eines anderen Vertragsstaates des Abkommens über den
@@ -768,27 +755,32 @@ genannten Zeugnisses eine von der zuständigen Behörde des
 Herkunftsmitgliedstaats ausgestellte entsprechende Bescheinigung oder
 einen von einer solchen Behörde ausgestellten Strafregisterauszug
 oder, wenn ein solcher nicht beigebracht werden kann, einen
-gleichwertigen Nachweis vorlegen. Hat der Antragsteller einen dem
-Beruf des Psychologischen Psychotherapeuten entsprechenden Beruf im
-Herkunftsmitgliedstaat bereits ausgeübt, so kann die für die Erteilung
-der Approbation als Psychologischer Psychotherapeut zuständige Behörde
-bei der zuständigen Behörde des Herkunftsmitgliedstaats Auskünfte über
-etwa gegen den Antragsteller verhängte Strafen oder sonstige berufs-
-oder strafrechtliche Maßnahmen wegen schwerwiegenden standeswidrigen
-Verhaltens oder strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsmitgliedstaat betreffen, einholen. Hat die für die Erteilung
-der Approbation zuständige Behörde in den Fällen des Satzes 1 oder 2
-von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des
-Psychotherapeutengesetzes eingetreten sind und im Hinblick auf die
-Voraussetzungen des § 2 Abs. 1 Nr. 3 des Psychotherapeutengesetzes von
-Bedeutung sein können, hat sie die zuständige Stelle des
-Herkunftsmitgliedstaats zu unterrichten und sie zu bitten, diese
-Tatbestände zu überprüfen und ihr das Ergebnis und die Folgerungen,
-die sie hinsichtlich der von ihr ausgestellten Bescheinigungen und
-Nachweise daraus zieht, mitzuteilen. Die in Satz 1 bis 3 genannten
-Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie
-dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der
-Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
+gleichwertigen Nachweis vorlegen. Hat die für die Erteilung der
+Approbation nach § 1 Absatz 1 des Psychotherapeutengesetzes zuständige
+Behörde berechtigte Zweifel, kann sie von der zuständigen Behörde
+eines Mitgliedstaates eine Bestätigung verlangen, aus der sich ergibt,
+dass dem Antragsteller die Ausübung des Berufs, der dem des
+Psychologischen Psychotherapeuten entspricht, nicht auf Grund eines
+schwerwiegenden standeswidrigen Verhaltens oder einer Verurteilung
+wegen strafbarer Handlungen dauerhaft oder vorübergehend untersagt
+worden ist. Hat die für die Erteilung der Approbation zuständige
+Behörde in den Fällen des Satzes 1 oder 2 von Tatbeständen Kenntnis,
+die außerhalb des Geltungsbereichs des Psychotherapeutengesetzes
+eingetreten sind und im Hinblick auf die Voraussetzungen des § 2 Abs.
+1 Nr. 3 des Psychotherapeutengesetzes von Bedeutung sein können, hat
+sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten
+und sie zu bitten, diese Tatbestände zu überprüfen und ihr das
+Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
+ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
+Die in Satz 1 bis 3 genannten Bescheinigungen und Mitteilungen sind
+vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
+gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
+drei Monate zurückliegt.
+
+(3a) Die Absätze 1 bis 3 gelten entsprechend für Personen, die eine
+Erlaubnis zur Berufsausübung nach § 4 Absatz 2a des
+Psychotherapeutengesetzes beantragen. Die Erlaubnis wird nach dem
+Muster der Anlage 3a ausgestellt.
 
 (4) Staatsangehörige eines anderen Mitgliedstaats der Europäischen
 Union oder eines anderen Vertragsstaates des Abkommens über den
@@ -810,81 +802,408 @@ ist, führen nach der Anerkennung ihrer Berufsqualifikation die
 Berufsbezeichnung „Psychologische Psychotherapeutin“ oder
 „Psychologischer Psychotherapeut“.
 
-(6) Die zuständige Behörde bestätigt dem Antragsteller binnen eines
-Monats nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Sie hat über
-den Antrag kurzfristig, spätestens vier Monate nach Vorlage der
-Nachweise über das Vorliegen der Voraussetzungen dieses Gesetzes zu
-entscheiden. Über die Feststellung wesentlicher Unterschiede ist dem
-Antragsteller ein rechtsmittelfähiger Bescheid zu erteilen. Werden von
-der zuständigen Stelle des Herkunftsmitgliedstaats die in Absatz 3
-Satz 1 genannten Bescheinigungen nicht ausgestellt oder die nach
-Absatz 3 Satz 2 oder Satz 3 nachgefragten Mitteilungen innerhalb von
-zwei Monaten nicht gemacht, kann der Antragsteller sie durch Vorlage
-einer Bescheinigung über die Abgabe einer eidesstattlichen Erklärung
-gegenüber der zuständigen Behörde des Herkunftsmitgliedstaats
-ersetzen.
+(6) Werden von der zuständigen Stelle des Herkunftsmitgliedstaats die
+in Absatz 3 Satz 1 genannten Bescheinigungen nicht ausgestellt oder
+die nach Absatz 3 Satz 2 oder Satz 3 nachgefragten Mitteilungen
+innerhalb von zwei Monaten nicht gemacht, kann der Antragsteller sie
+durch Vorlage einer Bescheinigung über die Abgabe einer
+eidesstattlichen Erklärung gegenüber der zuständigen Behörde des
+Herkunftsmitgliedstaats ersetzen.
 
 (7) Die zuständige Behörde hat den Dienstleistungserbringer bei der
 erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 9a
 des Psychotherapeutengesetzes binnen eines Monats nach Eingang der
 Meldung und der Begleitdokumente über das Ergebnis ihrer Nachprüfung
-zu unterrichten. Ist eine Nachprüfung innerhalb dieser Frist in
-besonderen Ausnahmefällen nicht möglich, unterrichtet die zuständige
-Behörde den Dienstleistungserbringer innerhalb eines Monats über die
-Gründe für diese Verzögerung und über den Zeitplan für ihre
-Entscheidung, die vor Ablauf des zweiten Monats ab Eingang der
-vollständigen Unterlagen ergehen muss. Erhält der
-Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
-Fristen keine Rückmeldung der zuständigen Behörde, darf die
-Dienstleistung erbracht werden.
+zu unterrichten und ihm dabei mitzuteilen, ob sie die Erbringung der
+Dienstleistung erlaubt oder von ihm verlangt, eine Eignungsprüfung
+abzulegen. Ist der zuständigen Behörde eine Nachprüfung innerhalb
+eines Monats nach Eingang der Meldung und der Begleitdokumente in
+besonderen Ausnahmefällen nicht möglich, unterrichtet sie den
+Dienstleister innerhalb dieser Frist über die Gründe der Verzögerung;
+sie hat die der Verzögerung zugrunde liegenden Schwierigkeiten binnen
+eines Monats nach dieser Mitteilung zu beheben und spätestens
+innerhalb von zwei Monaten der Behebung der der Verzögerung zugrunde
+liegenden Schwierigkeiten über die Dienstleistungserbringung zu
+entscheiden. Erhält der Dienstleistungserbringer innerhalb der in den
+Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
+Behörde, darf die Dienstleistung erbracht werden.
+
+(8) Die Absätze 1 bis 7 gelten entsprechend für Drittstaatsdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen Union eine
+Gleichstellung ergibt.
 
 
-### § 20 Weitere Sonderregelungen für Inhaber von Ausbildungsnachweisen aus anderen Mitgliedstaaten der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+### § 20 Anerkennungsregelungen für Ausbildungsnachweise aus einem Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-(1) Antragsteller nach § 2 Abs. 2 Satz 3 des
-Psychotherapeutengesetzes, die zwischen einem Anpassungslehrgang und
-einer Eignungsprüfung wählen können, haben der zuständigen Behörde die
-von ihnen getroffene Wahl schriftlich mitzuteilen.
+(1) Antragsteller, die eine Approbation als Psychologische
+Psychotherapeutin oder als Psychologischer Psychotherapeut nach § 1
+Absatz 1 Satz 1 des Psychotherapeutengesetzes beantragen und
 
-(2) Die zuständige Behörde legt bei der Meldung zur Eignungsprüfung
-die Termine für die Eignungsprüfung fest und gibt sie den
-Antragstellern drei Monate im voraus schriftlich bekannt. Sie kann bei
-der Meldung zur Eignungsprüfung die Vorlage von erbrachten
-Ausbildungs- und Prüfungsnachweisen verlangen. Diese sind ihr
-spätestens zwei Monate vor der Eignungsprüfung vorzulegen. Die
-Eignungsprüfung kann nur einmal wiederholt werden. Die §§ 9 bis 15
-gelten entsprechend.
-
-(3) Die zuständige Behörde legt bei der Meldung zum Anpassungslehrgang
-den Termin für den Beginn des Lehrgangs fest und gibt ihn den
-Antragstellern schriftlich bekannt. Der Anpassungslehrgang erstreckt
-sich auf die Defizite der Ausbildung des Lehrgangsteilnehmers im
-Vergleich zu der in den §§ 2 bis 5 geregelten Ausbildung. Er muß
-gewährleisten, daß die Teilnehmer nach seinem Abschluß das
-Ausbildungsziel nach § 1 Abs. 2 erreicht haben und über
-Grundkenntnisse in wissenschaftlich anerkannten Verfahren sowie
-vertiefte Kenntnisse in einem dieser Verfahren verfügen. Die
-zuständige Behörde legt die Ausbildungsstätten fest, an denen der
-Anpassungslehrgang abgeleistet werden kann, seine Dauer und die
-Inhalte, die während des Lehrgangs zu vermitteln sind. Sie legt ferner
-die Gesamtstundenzahl
-
-1.  der praktischen Tätigkeit nach § 2,
+1.  ihre Ausbildung in einem anderen Mitgliedstaat der Europäischen Union
+    oder einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum abgeschlossen haben oder
 
 
-2.  der theoretischen Ausbildung nach § 3,
-
-
-3.  der praktischen Ausbildung nach § 4, ihre Aufteilung in Behandlungs-
-    und Supervisionsstunden und die Anzahl der Patientenbehandlungen sowie
-
-
-4.  der Selbsterfahrung nach § 5
+2.  über einen Ausbildungsnachweis als Psychologische Psychotherapeuten
+    aus einem Staat verfügen, der nicht Mitgliedstaat der Europäischen
+    Union oder Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum ist, der aber in einem solchen Staat anerkannt wurde,
 
 
 
-fest.
+können zum Ausgleich von wesentlichen Unterschieden, die von der
+zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf Erteilung
+der Approbation festgestellt worden sind und nicht durch Kenntnisse
+und Fähigkeiten ausgeglichen werden konnten, die die Antragsteller im
+Rahmen ihrer Berufspraxis nachweisbar erworben haben, einen
+Anpassungslehrgang nach Absatz 2 absolvieren oder eine Eignungsprüfung
+nach Absatz 3 ablegen.
+
+(2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen
+Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er
+wird entsprechend dem Lehrgangsziel in Form einer theoretischen
+Ausbildung, einer praktischen Ausbildung, einer praktischen Tätigkeit
+mit theoretischer Unterweisung, einer Selbsterfahrung oder einer
+Kombination der einzelnen Ausbildungsbestandteile an Einrichtungen
+nach § 6 Absatz 1 des Psychotherapeutengesetzes durchgeführt. Die
+theoretische Unterweisung soll durch Personen nach § 9 Absatz 1
+erfolgen. Die zuständige Behörde legt die Dauer und die Inhalte des
+Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden
+kann. Die Ableistung des Anpassungslehrgangs ist durch eine
+Bescheinigung nach dem Muster der Anlage 5 nachzuweisen.
+
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zum Ausgleich der von der zuständigen Behörde
+festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und
+Fähigkeiten verfügen. Die Eignungsprüfung erstreckt sich auf eine
+mündliche Prüfung. Der Prüfling hat dabei anhand einer anonymisierten
+Falldarstellung, die den Anforderungen des § 7 Absatz 2 Nummer 4
+entspricht und dem Prüfling zur Einarbeitung vor der Prüfung zur
+Verfügung gestellt wird, nachzuweisen, dass er über das für die
+Tätigkeit der Psychologischen Psychotherapeuten erforderliche
+eingehende Wissen und Können im Sinne des § 17 Absatz 2 verfügt. Die
+zuständige Behörde wählt das Vertiefungsverfahren gemäß § 8 Absatz 3
+Nummer 1 des Psychotherapeutengesetzes für die Falldarstellung, die
+Gegenstand der Prüfung ist, gemäß den bei der
+Gleichwertigkeitsüberprüfung festgestellten wesentlichen Unterschieden
+aus. Die Prüfung soll mindestens 30 Minuten und nicht länger als 60
+Minuten dauern. Sie wird von zwei Prüfern, die die Voraussetzungen
+nach § 9 Absatz 1 erfüllen, abgenommen und bewertet. Die
+Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Prüfer sie
+übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt
+mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel
+noch den Anforderungen genügt. Kommen die Prüfer zu einer
+unterschiedlichen Bewertung, entscheidet der Vorsitzende der
+Prüfungskommission nach Rücksprache mit den Prüfern über das Bestehen.
+Die Eignungsprüfung soll mindestens zweimal jährlich angeboten werden
+und darf zweimal wiederholt werden. Über die bestandene
+Eignungsprüfung wird eine Bescheinigung nach dem Muster der Anlage 6
+erteilt.
+
+
+### § 20a Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+
+(1) Antragsteller, die über einen Ausbildungsnachweis verfügen, der in
+einem Drittstaat erworben worden ist, und eine Approbation als
+Psychologische Psychotherapeutin oder als Psychologischer
+Psychotherapeut nach § 1 Absatz 1 Satz 1 des Psychotherapeutengesetzes
+beantragen, können zum Ausgleich von wesentlichen Unterschieden, die
+von der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf
+Erteilung der Approbation festgestellt worden sind und nicht durch
+Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+Antragsteller im Rahmen ihrer Berufspraxis nachweisbar erworben haben,
+eine Kenntnisprüfung nach Absatz 2 ablegen. Satz 1 gilt entsprechend
+für Fälle nach § 2 Absatz 3 Satz 4 des Psychotherapeutengesetzes.
+
+(2) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zur Ausübung des Berufs des Psychologischen
+Psychotherapeuten erforderlichen Kenntnisse und Fähigkeiten verfügen.
+Die Kenntnisprüfung besteht aus einer mündlichen Prüfung, die in zwei
+Abschnitten durchgeführt wird. Sie ist erfolgreich abgeschlossen, wenn
+jeder der beiden Abschnitte der mündlichen Prüfung bestanden ist.
+
+(3) Der erste Abschnitt der mündlichen Prüfung erstreckt sich auf
+folgende Fächergruppen der Anlage 1 Buchstabe A und B:
+
+1.  Diagnostik, Differentialdiagnostik einschließlich Testverfahren zur
+    Abgrenzung verschiedener Störungen mit Krankheitswert, bei denen
+    Psychotherapie indiziert ist, psychosozial- und entwicklungsbedingter
+    Krisen sowie körperlich begründbarer Störungen; medizinische und
+    pharmakologische Grundkenntnisse für Psychotherapeuten; Methoden und
+    differentielle Indikationsstellung wissenschaftlich anerkannter
+    psychotherapeutischer Verfahren; Berufsethik und Berufsrecht,
+    medizinische und psychosoziale Versorgungssysteme,
+    Organisationsstrukturen des Arbeitsfeldes, Kooperation mit Ärzten und
+    anderen Berufsgruppen,
+
+
+2.  Theorie und Praxis der Diagnostik, insbesondere Anamnese,
+    Indikationsstellung und Prognose, Fallkonzeptualisierung und
+    Behandlungsplanung; Rahmenbedingungen der Psychotherapie,
+    Behandlungssetting, Einleitung und Beendigung der Behandlung;
+    Behandlungskonzepte und -techniken sowie deren Anwendung.
+
+
+
+Der erste Abschnitt der mündlichen Prüfung soll für den einzelnen
+Prüfling mindestens 30 und nicht länger als 60 Minuten dauern. Er wird
+von zwei Prüfern, die die Voraussetzungen nach § 9 Absatz 1 erfüllen,
+abgenommen und bewertet. Er ist erfolgreich abgeschlossen, wenn die
+Prüfer in einer Gesamtbetrachtung jede der Fächergruppen nach Satz 1
+Nummer 1 und 2 übereinstimmend mit „bestanden“ bewerten. § 20 Absatz 3
+Satz 8 gilt entsprechend. Kommen die Prüfer zu einer unterschiedlichen
+Bewertung, entscheidet der Vorsitzende der Prüfungskommission nach
+Rücksprache mit den Prüfern über das Bestehen.
+
+(4) Für den zweiten Abschnitt der mündlichen Prüfung gilt § 20 Absatz
+3 entsprechend.
+
+(5) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden und darf in jeder Fächergruppe des ersten Abschnitts der
+mündlichen Prüfung, die nicht bestanden wurde, sowie im zweiten
+Abschnitt der mündlichen Prüfung zweimal wiederholt werden.
+
+(6) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach
+dem Muster der Anlage 7 erteilt.
+
+
+### § 20b Fristen, Bescheide, Durchführungsbestimmungen
+
+(1) Die zuständige Behörde hat über Anträge auf Erteilung einer
+Approbation als Psychologische Psychotherapeutin oder als
+Psychologischer Psychotherapeut nach § 1 Absatz 1 Satz 1 des
+Psychotherapeutengesetzes in Verbindung mit § 2 Absatz 2, 3 oder
+Absatz 3a des Psychotherapeutengesetzes kurzfristig, spätestens vier
+Monate, nach Vorlage der Unterlagen nach § 19 zu entscheiden.
+
+(2) Über die Feststellung wesentlicher Unterschiede, die zur
+Auferlegung einer Kenntnisprüfung, eines Anpassungslehrgangs oder
+einer Eignungsprüfung führen, ist den Antragstellern ein
+rechtsmittelfähiger Bescheid zu erteilen, der folgende Angaben
+enthält:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
+
+
+2.  die Themenbereiche oder Ausbildungsbestandteile, bei denen wesentliche
+    Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass die Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des Berufs der
+    Psychologischen Psychotherapeuten notwendigen Kenntnisse und
+    Fähigkeiten verfügen, und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+    Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 2 Satz 7 des
+    Psychotherapeutengesetzes erworben haben.
+
+
+
+
+(3) Die Eignungsprüfung nach § 20 Absatz 3 und die Kenntnisprüfung
+nach § 20a Absatz 2 finden in Form einer staatlichen Prüfung vor einer
+staatlichen Prüfungskommission statt. Die Länder können zur
+Durchführung der Prüfungen die regulären Prüfungstermine der
+staatlichen Prüfung nach § 8 Absatz 1 nutzen; sie haben dabei
+sicherzustellen, dass die Antragsteller die Prüfungen innerhalb von
+sechs Monaten nach der Entscheidung nach Absatz 1 ablegen können.
+Soweit in diesem Abschnitt nichts anderes bestimmt ist, gelten die §§
+10, 13 bis 15 für die Durchführung der Prüfungen nach Satz 1
+entsprechend.
+
+
+### § 20c Erlaubnis nach § 4 Absatz 1 Satz 1 des Psychotherapeutengesetzes
+
+(1) Der Antrag auf Erteilung einer befristeten Erlaubnis zur
+Berufsausübung nach § 4 Absatz 1 Satz 1 des Psychotherapeutengesetzes
+ist an die nach § 10 Absatz 1 Satz 2 des Psychotherapeutengesetzes
+zuständige Behörde des Landes zu richten. Beantragen die Antragsteller
+erstmalig die Erteilung der Erlaubnis, haben sie dem Antrag folgende
+Unterlagen beizufügen:
+
+1.  einen Identitätsnachweis,
+
+
+2.  eine tabellarische Aufstellung der absolvierten Ausbildungsgänge und
+    der ausgeübten Erwerbstätigkeiten,
+
+
+3.  eine amtlich beglaubigte Kopie der Bescheinigung über eine
+    abgeschlossene Ausbildung als Psychologischer Psychotherapeut sowie
+    gegebenenfalls der Bescheinigung über die von den Antragstellern
+    erworbene Berufserfahrung,
+
+
+4.  eine Erklärung, wo und in welcher Weise die Antragsteller den Beruf
+    des Psychologischen Psychotherapeuten in Deutschland ausüben wollen,
+
+
+5.  soweit vorhanden, den Bescheid nach § 2 Absatz 3 Satz 2 des
+    Psychotherapeutengesetzes und die Niederschrift über die staatliche
+    Kenntnisprüfung nach § 20a Absatz 2,
+
+
+6.  die folgenden Unterlagen:
+
+    a)  ein amtliches inländisches Führungszeugnis,
+
+
+    b)  die Unterlagen, die von den zuständigen Behörden des Herkunftsstaats
+        ausgestellt wurden und belegen, dass die Antragsteller sich nicht
+        eines Verhaltens schuldig gemacht haben, aus dem sich ihre
+        Unwürdigkeit oder Unzuverlässigkeit zur Ausübung des Berufs des
+        Psychologischen Psychotherapeuten ergibt, oder,
+
+
+    c)  wenn im Herkunftsstaat die Unterlagen nach Buchstabe b nicht
+        ausgestellt werden, eine eidesstattliche Erklärung oder in den
+        Staaten, in denen es keine eidesstattliche Erklärung gibt, eine
+        feierliche Erklärung, die die betreffenden Personen im Herkunftsstaat
+        oder im Inland vor einer zuständigen Justiz- oder Verwaltungsbehörde
+        oder gegebenenfalls vor einem Notar oder einer entsprechend
+        bevollmächtigten Berufsorganisation, die eine diese eidesstattliche
+        oder feierliche Erklärung bestätigende Bescheinigung ausstellt,
+        abgegeben haben,
+
+
+
+
+
+7.  eine im Inland ausgestellte ärztliche Bescheinigung, aus der
+    hervorgeht, dass die Antragsteller nicht in gesundheitlicher Hinsicht
+    zur Ausübung des Berufs ungeeignet sind; soweit sich der Wohnsitz der
+    Antragsteller nicht im Inland befindet, kann ein entsprechender
+    Nachweis, der im Herkunftsstaat gefordert wird, vorgelegt werden oder,
+    wenn im Herkunftsstaat kein derartiger Nachweis gefordert wird, eine
+    von einer zuständigen Behörde des Herkunftsstaats ausgestellte
+    Bescheinigung,
+
+
+8.  soweit vorhanden, Nachweise über die Kenntnisse der deutschen Sprache,
+    die der zuständigen Behörde eine Beurteilung darüber erlauben, in
+    welchem Umfang die Antragsteller über die zur Ausübung des Berufs des
+    Psychologischen Psychotherapeuten erforderlichen Sprachkenntnisse
+    verfügen.
+
+
+
+Die Nachweise nach Satz 2 Nummer 6 und 7 dürfen bei ihrer Vorlage
+nicht älter als drei Monate sein. Beantragen die Antragsteller die
+Verlängerung der Erlaubnis, haben sie dem Antrag die zuletzt erteilte
+Erlaubnis, falls diese von einer anderen Behörde ausgestellt wurde,
+sowie die Unterlagen nach Satz 2 Nummer 6 und 7 erneut beizufügen.
+Haben die zuständigen Behörden berechtigte Zweifel an der
+Authentizität der in dem jeweiligen Herkunftsstaat ausgestellten
+Bescheinigungen und Ausbildungsnachweise, können sie von den
+zuständigen Behörden des Herkunftsstaats eine Bestätigung der
+Authentizität dieser Bescheinigungen und Nachweise verlangen. § 19
+Absatz 2 und 3 gilt entsprechend.
+
+(2) Über den Antrag ist kurzfristig, spätestens drei Monate nach
+Vorlage der nach Absatz 1 von den Antragstellern vorzulegenden
+Unterlagen, zu entscheiden. Die zuständige Behörde bestätigt dem
+Antragsteller binnen eines Monats nach Eingang des Antrags den
+Antragseingang und den Empfang der Unterlagen und teilt ihm mit,
+welche Unterlagen fehlen. Ist zur Beurteilung der Frage, ob die vom
+Antragsteller nach Absatz 1 Satz 2 Nummer 3 vorgelegten Unterlagen den
+Abschluss der Ausbildung im Herkunftsstaat belegen, eine Auskunft von
+der Zentralstelle für ausländisches Bildungswesen oder von
+vergleichbaren Einrichtungen erforderlich, so teilt die Behörde dies
+dem Antragsteller ebenfalls mit. In den Fällen des Satzes 3 ist der
+Ablauf der Frist nach Satz 1 bis zum Vorliegen der Antwort auf die
+Anfrage der Behörde gehemmt. Gleiches gilt bis zum Vorliegen einer
+Bestätigung der Authentizität durch die Behörde des Herkunftsstaats
+gemäß Absatz 1 Satz 5.
+
+(3) Die zuständige Behörde hat den Ausbildungsstand der Antragsteller
+einschließlich der nachgewiesenen einschlägigen Berufserfahrung bei
+der Entscheidung über die Erteilung der Erlaubnis zu berücksichtigen
+und prüft auf dieser Grundlage ihre fachliche Eignung für die
+beabsichtigte Tätigkeit in der psychologischen Psychotherapie. Soweit
+die Antragsteller bereits einen Antrag auf Erteilung der Approbation
+gestellt haben, zieht die zuständige Behörde die Feststellungen des
+Bescheides nach § 2 Absatz 3 Satz 2 des Psychotherapeutengesetzes und,
+soweit vorhanden, die Niederschrift über die staatliche
+Kenntnisprüfung nach § 20a Absatz 2 bei. Ein bereits begonnenes oder
+noch nicht nach § 2 Absatz 3 des Psychotherapeutengesetzes mit einer
+Anerkennung abgeschlossenes Approbationsverfahren steht der Erteilung
+der Erlaubnis nicht entgegen.
+
+(4) Die zuständige Behörde versieht die Erlaubnis mit den
+Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
+Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes der
+Antragsteller, ihrer Kenntnisse der deutschen Sprache und ihrer
+gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. Wenn die Gefährdung der öffentlichen Gesundheit durch
+Einschränkungen und Nebenbestimmungen nicht ausgeschlossen werden
+kann, ist die Erlaubnis zu versagen. Die Erlaubnis ist ebenfalls zu
+versagen, wenn die Voraussetzungen nach § 2 Absatz 1 Nummer 3 des
+Psychotherapeutengesetzes nicht vorliegen.
+
+(5) Die Erlaubnis kann bei ihrer erstmaligen Erteilung nur dann auf
+weniger als drei Jahre befristet werden, wenn im Einzelfall die mit
+der Erlaubnis versehenen Einschränkungen und Nebenbestimmungen oder
+die von den Antragstellern beabsichtigte Berufstätigkeit dies
+erfordern.
+
+(6) Soweit die Geltung der Erlaubnis auf ein Land beschränkt wird und
+die Tätigkeit einen Einsatz in mehr als einem Land erfordert, hat die
+zuständige Behörde die Erlaubnis mit dem Hinweis zu versehen, in
+welchen anderen Ländern die Erlaubnis gilt.
+
+(7) Die Erlaubnis wird nach dem Muster der Anlage 8 zu dieser
+Verordnung ausgestellt.
+
+
+### § 20d Sonderregelungen für eine befristete Erlaubnis nach § 4 Absatz 1 Satz 4 des Psychotherapeutengesetzes
+
+(1) In Fällen des § 4 Absatz 1 Satz 4 des Psychotherapeutengesetzes
+ist dem Antrag auf Erteilung einer befristeten Erlaubnis zur
+Berufsausübung nach § 4 Absatz 1 Satz 1 des Psychotherapeutengesetzes
+ergänzend zu den in § 20c Absatz 1 Satz 2 Nummer 3 genannten
+Unterlagen eine Erklärung beizufügen, aus der sich ergibt, wo und in
+welcher Weise die Antragsteller den Beruf des Psychologischen
+Psychotherapeuten in Deutschland ausüben wollen und inwiefern sich
+hieraus ein besonderes Interesse an der Erteilung der Erlaubnis
+ergibt.
+
+(2) Ein besonderes Interesse im Sinne des § 4 Absatz 1 Satz 4 des
+Psychotherapeutengesetzes liegt insbesondere vor, wenn die
+Antragsteller
+
+1.  die Voraussetzungen nach § 2 Absatz 1 oder 2 des
+    Psychotherapeutengesetzes erfüllen und § 9a des
+    Psychotherapeutengesetzes nicht angewendet werden kann oder
+
+
+2.  die nach Absatz 1 angestrebte Tätigkeit ausüben können, obwohl sie die
+    Voraussetzungen nach § 2 Absatz 1 Satz 1 Nummer 4 oder Nummer 5 des
+    Psychotherapeutengesetzes nicht erfüllen.
+
+
+
+
+(3) Erfüllen die Antragsteller nicht die Voraussetzung des § 2 Absatz
+1 Nummer 2 des Psychotherapeutengesetzes, gilt § 20c Absatz 3
+entsprechend.
+
+(4) Die zuständige Behörde versieht die Erlaubnis mit den
+Einschränkungen und Nebenbestimmungen, die erforderlich sind, um unter
+Berücksichtigung des nach Absatz 3 bewerteten Ausbildungsstandes der
+Antragsteller, ihrer Kenntnisse der deutschen Sprache und ihrer
+gesundheitlichen Eignung eine Gefährdung der öffentlichen Gesundheit
+auszuschließen. § 20c Absatz 2, 4 Satz 2 und 3, Absatz 5, 6 und 7 gilt
+entsprechend.
 
 
 ### § 21 Approbationsurkunde
@@ -907,8 +1226,9 @@ Diese Verordnung tritt am 1. Januar 1999 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 3 Abs. 1)
 
-### Anlage 1 (zu § 3 Abs. 1) Theoretische Ausbildung
+### Anlage 1 Theoretische Ausbildung
 
 Fundstelle des Originaltextes: BGBl. I 1998, 3756
 
@@ -1146,6 +1466,38 @@ Siegel
 ......................................
 (Unterschrift)
 
+(zu § 19 Absatz 3a)
+
+### Anlage 3a Erlaubnis nach § 4 Absatz 2a des Psychotherapeutengesetzes
+
+(Fundstelle: BGBl. I 2016, 894)
+
+Herrn/Frau
+(Vorname, Familienname – gegebenenfalls abweichender Geburtsname)
+
+geboren am ..............................
+in ..............................
+
+wird gemäß § 4 Absatz 2a des Psychotherapeutengesetzes die Erlaubnis
+zur partiellen Ausübung des Berufs des Psychologischen
+Psychotherapeuten erteilt.
+
+Die Ausübung der Tätigkeit beschränkt sich auf folgende Tätigkeiten
+und Beschäftigungsstellen:
+
+..............................
+
+..............................
+
+..............................
+
+Siegel ..............................
+, den ..............................
+..............................
+
+......................
+(Unterschrift)
+
 
 ### Anlage 4 (zu § 21)
 
@@ -1172,3 +1524,272 @@ Siegel
 ......................................
 (Unterschrift)
 
+
+### Anlage 5 (zu § 20 Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig und mit Erfolg an dem nach § 20 Absatz 2
+        der Ausbildungs- und Prüfungsverordnung für Psychologische
+        Psychotherapeuten von der zuständigen Behörde
+        vorgeschriebenen Anpassungslehrgang teilgenommen.
+
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+
+
+### Anlage 6 (zu § 20 Absatz 3)
+
+
+*    *   Die/der Vorsitzende
+        der Prüfungskommission
+
+
+*    *   Bescheinigung
+        über die staatliche Eignungsprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Eignungsprüfung nach § 20
+        Absatz 3 der Ausbildungs- und
+        Prüfungsverordnung für Psychologische Psychotherapeuten bestanden.
+
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden der Prüfungskommission)
+
+
+
+
+### Anlage 7 (zu § 20a Absatz 6)
+
+
+*    *   Die/der Vorsitzende
+        der Prüfungskommission
+
+
+*    *   Bescheinigung
+        über die staatliche Kenntnisprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Kenntnisprüfung nach § 20a
+        Absatz 2 der Ausbildungs- und
+        Prüfungsverordnung für Psychologische Psychotherapeuten bestanden.
+
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden der Prüfungskommission)
+
+
+
+(zu § 20c Absatz 7)
+
+### Anlage 8 Erlaubnis nach § 4 Absatz 1 des Psychotherapeutengesetzes
+
+
+*    *   Herrn/Frau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . .
+
+
+*    *   (Vorname, Familienname – gegebenenfalls abweichender Geburtsname)
+
+
+*    *   geboren am . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   in . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . .
+
+
+*    *   wird gemäß § 4 Absatz 1 des Psychotherapeutengesetzes die befristete
+        Erlaubnis zur Ausübung des Berufs des Psychologischen
+        Psychotherapeuten in/an . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . .
+
+
+*    *   für die Zeit vom . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . .
+
+    *   bis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . widerruflich erteilt.
+
+
+*    *   Beschränkungen und Nebenbestimmungen:
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . .
+
+
+*    *   Die Erlaubnis umfasst zudem die Tätigkeit im Land . . . . . . . . . .
+        /in den Ländern . . . . . . . . . . /bundesweite
+[^F781546_01_BJNR374900998BJNE004101116]
+        Tätigkeit
+        als . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Siegel
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . , den . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift)
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR374900998BJNE004101116]: 

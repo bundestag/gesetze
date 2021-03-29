@@ -3,7 +3,7 @@ Title: Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über 
   Änderung der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtr BB/ST
 layout: default
-origslug: gr_ndstvtr_bb_st
+origslug: graendstvtr_bb_st
 slug: graendstvtr_bb_st
 
 ---
@@ -112,6 +112,5 @@ des Landes Sachsen-Anhalt
 
 ## Anlage zum Staatsvertrag zwischen den Ländern Brandenburg und Sachsen-Anhalt über die Änderung der gemeinsamen Landesgrenze vom 24.8.1993
 
-(Inhalt: nicht darstellbare kartographische Abbildung,
-Fundstelle: BGBl. I 1994, 91)
-
+(Fundstelle: BGBl. I 1994, 91)
+![bgbl1_1994_j0091_0010.jpg](bgbl1_1994_j0091_0010.jpg)

@@ -55,7 +55,7 @@ wenn es das zehnte Jahr vollendet hat.
 ## § 3
 
 (1) Steht dem Vater oder der Mutter das Recht und die Pflicht, für die
-Person des Kindes zu sorgen, neben einem dem Kind bestellten Vormund
+Person des Kindes zu sorgen, neben einem dem Kinde bestellten Vormund
 oder Pfleger zu, so geht bei einer Meinungsverschiedenheit über die
 Bestimmung des religiösen Bekenntnisses, in dem das Kind erzogen
 werden soll, die Meinung des Vaters oder der Mutter vor, es sei denn,
@@ -83,7 +83,7 @@ bürgerliche Wirkung.
 
 ## § 5
 
-Nach der Vollendung des vierzehnten Lebensjahrs steht dem Kind die
+Nach der Vollendung des vierzehnten Lebensjahrs steht dem Kinde die
 Entscheidung darüber zu, zu welchem religiösen Bekenntnis es sich
 halten will. Hat das Kind das zwölfte Lebensjahr vollendet, so kann es
 nicht gegen seinen Willen in einem anderen Bekenntnis als bisher

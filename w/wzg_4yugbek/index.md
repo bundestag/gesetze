@@ -36,5 +36,4 @@ Der Bundesminister der Justiz
 ## Anlage
 
 (Fundstelle: BGBl. I 1968, 976 - 979)
-(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)
-
+![bgbl1_1968_j0976_0010.jpg](bgbl1_1968_j0976_0010.jpg)![bgbl1_1968_j0977_0010.jpg](bgbl1_1968_j0977_0010.jpg)![bgbl1_1968_j0978_0010.jpg](bgbl1_1968_j0978_0010.jpg)![bgbl1_1968_j0979_0010.jpg](bgbl1_1968_j0979_0010.jpg)

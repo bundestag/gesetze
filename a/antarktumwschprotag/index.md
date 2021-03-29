@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1994, 2593
 
 Zuletzt geändert durch
-:   Art. 69 V v. 31.10.2006 I 2407
+:   Art. 4 Abs. 25 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 Stand: § 5 Abs. 7 und § 6 Abs. 5 dieses G sind gem. § 42 Abs. 1 Satz 1 am 1.10.1994 in Kraft getreten\*. Im übrigen ist das G gem. § 42 Abs. 1 Satz 2 iVm Bek. v. 10.2.1998 II 299 mWv 14.1.1998 in Kraft getreten\*.
 
@@ -99,11 +102,12 @@ Bundesrepublik Deutschland.
 
 
 durchgeführt wird, bedarf einer Genehmigung. Die Genehmigung ist beim
-Umweltbundesamt schriftlich zu beantragen. Ausländische juristische
-Personen müssen eine Person im Sinne der Nummern 1 bis 3 benennen, die
-als Antragsteller im Sinne dieses Gesetzes gilt. Für eine Gruppe von
-Personen, die gemeinsam eine Tätigkeit durchführen wollen, kann dem
-Antragsteller als Bevollmächtigtem nach den §§ 14 bis 21 des
+Umweltbundesamt schriftlich oder elektronisch zu beantragen.
+Ausländische juristische Personen müssen eine Person im Sinne der
+Nummern 1 bis 3 benennen, die als Antragsteller im Sinne dieses
+Gesetzes gilt. Für eine Gruppe von Personen, die gemeinsam eine
+Tätigkeit durchführen wollen, kann dem Antragsteller als
+Bevollmächtigtem nach den §§ 14 bis 21 des
 Verwaltungsverfahrensgesetzes eine alle Teilnehmer erfassende
 Genehmigung erteilt werden. Für gleichartige Tätigkeiten, die
 regelmäßig in der Antarktis durchgeführt werden, kann eine Genehmigung
@@ -311,11 +315,11 @@ Umweltschutzprotokolls und den Ausschuß für Umweltschutz nach Artikel
 11 des Umweltschutzprotokolls zum Antarktis-Vertrag über die nach Satz
 1 durchgeführten Einbringungen und Einleitungen.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Auswärtigen Amt und dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit zur
-Durchführung der Anlage IV des Umweltschutzprotokolls zum Antarktis-
-Vertrag durch Rechtsverordnung
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+zur Durchführung der Anlage IV des Umweltschutzprotokolls zum
+Antarktis-Vertrag durch Rechtsverordnung
 
 1.  Vorschriften über das Einleiten schädlicher flüssiger Stoffe oder
     sonstiger chemischer oder anderer Stoffe nach Artikel 4 der Anlage IV
@@ -365,10 +369,11 @@ Meeresumwelt finden Anwendung.
 ihrer Durchführung oder Vorbereitung dienende Tätigkeiten, die
 lediglich weniger als geringfügige oder vorübergehende Auswirkungen
 gemäß § 4 Abs. 3 Nr. 1 besorgen lassen, sind abweichend von § 3 Abs. 1
-dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich
-anzuzeigen. Die Anzeige hat darzulegen, daß die Tätigkeit lediglich
-weniger als geringfügige oder vorübergehende Auswirkungen auf die
-Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1 gilt entsprechend.
+dem Umweltbundesamt spätestens 3 Monate vor Beginn schriftlich oder
+elektronisch anzuzeigen. Die Anzeige hat darzulegen, daß die Tätigkeit
+lediglich weniger als geringfügige oder vorübergehende Auswirkungen
+auf die Schutzgüter des § 3 Abs. 4 haben wird. § 4 Abs. 1 gilt
+entsprechend.
 
 (2) Ergibt die Prüfung, daß die angezeigte Tätigkeit lediglich weniger
 als geringfügige oder vorübergehende Auswirkungen auf die in § 3 Abs.
@@ -391,12 +396,12 @@ einer ihrer Durchführung oder Vorbereitung dienenden Tätigkeit, die
 die Voraussetzungen des § 4 Abs. 3 Nr. 2 oder 3 erfüllt,
 berücksichtigt das Umweltbundesamt die Beurteilung der Tätigkeit durch
 eine Kommission unabhängiger wissenschaftlicher Sachverständiger, die
-vom Auswärtigen Amt, dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit und dem Bundesministerium für Bildung und Forschung
-gemeinsam bestellt wird. Abweichungen von dieser Beurteilung sind zu
-begründen.
+vom Auswärtigen Amt, dem Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit und dem Bundesministerium für Bildung und
+Forschung gemeinsam bestellt wird. Abweichungen von dieser Beurteilung
+sind zu begründen.
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und
+(5) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen
 Amt und dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung Zusammensetzung, Berufung und Verfahren der
@@ -527,14 +532,15 @@ vorzulegen, die insbesondere folgende Angaben enthalten muß:
 (1) Der Antrag auf Erteilung der Genehmigung und die Untersuchung nach
 § 8 Abs. 3 sind, mit Ausnahme der Unterlagen nach § 4 Abs. 2 Satz 1,
 am Sitz des Umweltbundesamtes neunzig Tage zur Einsicht auszulegen.
-Während der Auslegungsfrist können Einwendungen zu der Untersuchung
-schriftlich oder zur Niederschrift beim Umweltbundesamt abgegeben
-werden. Schriftliche Einwendungen sollen auch in englischer Sprache
-vorgelegt werden. Wird eine Übersetzung in die englische Sprache nicht
-unverzüglich vorgelegt, so kann das Umweltbundesamt auf Kosten des
-Einwenders selbst eine solche beschaffen und von diesem hierfür in
-Höhe der voraussichtlich entstehenden Kosten einen Vorschuß verlangen.
-Mit Ablauf der Einwendungsfrist sind alle Einwendungen ausgeschlossen.
+Während der Auslegungsfrist können beim Umweltbundesamt Einwendungen
+zu der Untersuchung schriftlich, elektronisch oder zur Niederschrift
+abgegeben werden. Schriftliche oder elektronische Einwendungen sollen
+auch in englischer Sprache eingebracht werden. Wird eine Übersetzung
+in die englische Sprache nicht unverzüglich eingebracht, so kann das
+Umweltbundesamt auf Kosten des Einwenders selbst eine solche
+beschaffen und von diesem hierfür in Höhe der voraussichtlich
+entstehenden Kosten einen Vorschuß verlangen. Mit Ablauf der
+Einwendungsfrist sind alle Einwendungen ausgeschlossen.
 
 (2) Das Umweltbundesamt hat die Auslegung mindestens drei Wochen
 vorher im Bundesanzeiger öffentlich bekanntzumachen. In der
@@ -649,7 +655,7 @@ Umweltauswirkungen durch Tätigkeiten verursacht werden, die nach § 4,
 inwieweit diese Auswirkungen mit dem Umweltschutzprotokoll zum
 Antarktis-Vertrag in Einklang stehen.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem Auswärtigen
 Amt und dem Bundesministerium für Bildung und Forschung die
 Ausgestaltung der Überwachung, die Zusammenarbeit mit den anderen
@@ -856,11 +862,11 @@ Behörden können Erde, Tiere oder Pflanzen einschließlich deren
 Beförderungs- und Verpackungsmittel bei der Ausfuhr anhalten.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit und dem Bundesministerium für Bildung und Forschung
-durch Rechtsverordnung die Einzelheiten der Überwachung der Verbote
-nach den §§ 17 und 18 zu regeln. Es kann dabei insbesondere Pflichten
-zur Anzeige, Anmeldung, zu Auskünften und zur Leistung von
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit und dem Bundesministerium für Bildung und
+Forschung durch Rechtsverordnung die Einzelheiten der Überwachung der
+Verbote nach den §§ 17 und 18 zu regeln. Es kann dabei insbesondere
+Pflichten zur Anzeige, Anmeldung, zu Auskünften und zur Leistung von
 Hilfsdiensten sowie zur Duldung der Einsichtnahme in Geschäftspapiere
 und sonstige Unterlagen und zur Duldung von Besichtigungen und von
 Entnahmen unentgeltlicher Muster und Proben vorsehen.
@@ -962,7 +968,7 @@ Verbrennung entstehenden festen Rückstände sind Abfälle im Sinne des §
 
 (2) Die Verbrennung von Abfällen im Freien ist verboten.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, unter Berücksichtigung der
 einschlägigen Empfehlungen des Ausschusses für Umweltschutz nach
 Artikel 11 des Umweltschutzprotokolls zum Antarktis-Vertrag und des
@@ -1100,10 +1106,10 @@ Aufgaben nach den Absätzen 1 und 2 benötigt.
 
 ## § 29 Schutz und Verwaltung von Gebieten, historischen Stätten und Denkmälern
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit den
 Bundesministerien für Bildung und Forschung und für Wirtschaft und
-Technologie durch Rechtsverordnung entsprechend den Empfehlungen der
+Energie durch Rechtsverordnung entsprechend den Empfehlungen der
 Konsultativtagung des Antarktis-Vertrages
 
 1.  besonders geschützte Gebiete im Sinne des Artikels 3 der Anlage V des
@@ -1199,9 +1205,9 @@ umfassen.
 ## § 34 Inspektionen
 
 (1) Das Auswärtige Amt ist im Einvernehmen mit dem Bundesministerium
-für Wirtschaft und Technologie, dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung, dem Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit und dem Bundesministerium für Bildung und
+für Wirtschaft und Energie, dem Bundesministerium für Verkehr und
+digitale Infrastruktur, dem Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit und dem Bundesministerium für Bildung und
 Forschung zuständig für die Durchführung von Inspektionen gemäß
 Artikel 14 des Umweltschutzprotokolls zum Antarktis-Vertrag und die
 Erstellung der Inspektionsberichte.
@@ -1222,22 +1228,22 @@ geführten Aufzeichnungen, die aufgrund des Umweltschutzprotokolls zum
 Antarktis-Vertrag verlangt werden, zu gewähren.
 
 
-## § 35 Kostenregelung
+## § 35 Gebühren- und Auslagenregelung
 
-(1) Für Amtshandlungen nach diesem Gesetz und nach den auf diesem
-Gesetz beruhenden Rechtsverordnungen werden Gebühren und Auslagen
-erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz und nach den auf diesem Gesetz beruhenden Rechtsverordnungen
+werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie, dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
-Bundesministerium für Bildung und Forschung durch Rechtsverordnung die
-gebührenpflichtigen Tatbestände näher zu bestimmen und dabei feste
-Sätze oder Rahmensätze vorzusehen. Dabei soll bei Amtshandlungen nach
-diesem Gesetz, die Vorhaben der wissenschaftlichen Forschung
-betreffen, von der Erhebung von Gebühren und Auslagen abgesehen
-werden.
+Bundesministerium für Wirtschaft und Energie, dem Bundesministerium
+für Verkehr und digitale Infrastruktur und dem Bundesministerium für
+Bildung und Forschung durch Rechtsverordnung die gebührenpflichtigen
+Tatbestände näher zu bestimmen und dabei feste Sätze oder Rahmensätze
+vorzusehen. Dabei soll bei individuell zurechenbaren öffentlichen
+Leistungen nach diesem Gesetz, die Vorhaben der wissenschaftlichen
+Forschung betreffen, von der Erhebung von Gebühren und Auslagen
+abgesehen werden.
 
 
 ## § 36 Bußgeldvorschriften

@@ -18,6 +18,15 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 8 G v. 22.12.2008 I 2959
 
+Änderung durch
+:   Art. 18 Abs. 2 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 19 Abs. 17 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 167 G v. 29.3.2017 I 626 ist berücksichtigt
+
 
 ## Eingangsformel
 
@@ -34,7 +43,7 @@ Bundesregierung mit Zustimmung des Bundesrates:
 
 (1) Die Werkstatt für behinderte Menschen (Werkstatt) hat zur
 Erfüllung ihrer gesetzlichen Aufgaben die Voraussetzungen dafür zu
-schaffen, daß sie die behinderten Menschen im Sinne des § 136 Abs. 2
+schaffen, daß sie die behinderten Menschen im Sinne des § 219 Absatz 2
 des Neunten Buches Sozialgesetzbuch aus ihrem Einzugsgebiet aufnehmen
 kann.
 
@@ -67,6 +76,10 @@ Stellungnahme auch Vertreter dieses Trägers hinzuziehen. Er kann auch
 andere Personen zur Beratung hinzuziehen und soll, soweit
 erforderlich, Sachverständige hören.
 
+(1a) Ein Tätigwerden des Fachausschusses unterbleibt, soweit ein
+Teilhabeplanverfahren nach den §§ 19 bis 23 des Neunten Buches
+Sozialgesetzbuch durchgeführt wird.
+
 (2) Der Fachausschuss gibt vor der Aufnahme des behinderten Menschen
 in die Werkstatt gegenüber dem im Falle einer Aufnahme zuständigen
 Rehabilitationsträger eine Stellungnahme ab, ob der behinderte Mensch
@@ -74,7 +87,7 @@ für seine Teilhabe am Arbeitsleben und zu seiner Eingliederung in das
 Arbeitsleben Leistungen einer Werkstatt für behinderte Menschen
 benötigt oder ob andere Leistungen zur Teilhabe am Arbeitsleben in
 Betracht kommen, insbesondere Leistungen der Unterstützten
-Beschäftigung nach § 38a des Neunten Buches Sozialgesetzbuch.
+Beschäftigung nach § 55 des Neunten Buches Sozialgesetzbuch.
 
 
 ### § 3 Eingangsverfahren
@@ -84,7 +97,7 @@ Rehabilitationsträger Eingangsverfahren durch. Aufgabe des
 Eingangsverfahrens ist es festzustellen, ob die Werkstatt die
 geeignete Einrichtung zur Teilhabe behinderter Menschen am
 Arbeitsleben und zur Eingliederung in das Arbeitsleben im Sinne des §
-136 des Neunten Buches Sozialgesetzbuch ist, sowie welche Bereiche der
+219 des Neunten Buches Sozialgesetzbuch ist, sowie welche Bereiche der
 Werkstatt und welche Leistungen zur Teilhabe am Arbeitsleben und
 ergänzende Leistungen oder Leistungen zur Eingliederung in das
 Arbeitsleben in Betracht kommen und einen Eingliederungsplan zu
@@ -106,7 +119,7 @@ dem zuständigen Rehabilitationsträger ab.
 (4) Kommt der Fachausschuß zu dem Ergebnis, daß die Werkstatt für
 behinderte Menschen nicht geeignet ist, soll er zugleich eine
 Empfehlung aussprechen, welche andere Einrichtung oder sonstige
-Maßnahmen und welche anderen Leistungen  zur Teilhabe für den
+Maßnahmen und welche anderen Leistungen zur Teilhabe für den
 behinderten Menschen in Betracht kommen. Er soll sich auch dazu
 äußern, nach welcher Zeit eine Wiederholung des Eingangsverfahrens
 zweckmäßig ist und welche Maßnahmen und welche anderen Leistungen zur
@@ -123,8 +136,8 @@ angemessener Maßnahmen zur Weiterentwicklung der Persönlichkeit des
 behinderten Menschen durch. Sie fördert die behinderten Menschen so,
 dass sie spätestens nach Teilnahme an Maßnahmen des
 Berufsbildungsbereichs in der Lage sind, wenigstens ein Mindestmaß
-wirtschaftlich verwertbarer Arbeitsleistung im Sinne des § 136 Abs. 2
-des Neunten Buches Sozialgesetzbuch zu erbringen.
+wirtschaftlich verwertbarer Arbeitsleistung im Sinne des § 219 Absatz
+2 des Neunten Buches Sozialgesetzbuch zu erbringen.
 
 (2) Das Angebot an Leistungen zur Teilhabe am Arbeitsleben soll
 möglichst breit sein, um Art und Schwere der Behinderung, der
@@ -161,19 +174,19 @@ Rehabilitationsträger eine Stellungnahme dazu abzugeben, ob
 
 
 3.  eine Beschäftigung im Arbeitsbereich der Werkstatt oder auf dem
-    allgemeinen Arbeitsmarkt einschließlich einem Integrationsprojekt (§
-    132 des Neunten Buches Sozialgesetzbuch)
+    allgemeinen Arbeitsmarkt einschließlich einem Inklusionsbetrieb (§ 215
+    des Neunten Buches Sozialgesetzbuch)
 
 
 
 zweckmäßig erscheint. Das gleiche gilt im Falle des vorzeitigen
 Abbruchs oder Wechsels der Maßnahme im Berufsbildungsbereich sowie des
 Ausscheidens aus der Werkstatt. Hat der zuständige
-Rehabilitationsträger die Leistungen für ein Jahr bewilligt (§ 40 Abs.
+Rehabilitationsträger die Leistungen für ein Jahr bewilligt (57 Absatz
 3 Satz 2 des Neunten Buches Sozialgesetzbuch), gibt der Fachausschuss
 ihm gegenüber rechtzeitig vor Ablauf dieses Jahres auch eine fachliche
 Stellungnahme dazu ab, ob die Leistungen für ein weiteres Jahr
-bewilligt werden sollen (§ 40 Abs. 3 Satz 3 des Neunten Buches
+bewilligt werden sollen (§ 57 Absatz 3 Satz 3 des Neunten Buches
 Sozialgesetzbuch). Im übrigen gilt § 3 Abs. 3 entsprechend.
 
 
@@ -254,7 +267,7 @@ diese Zahl von Plätzen verfügt.
 (1) Die bauliche Gestaltung und die Ausstattung der Werkstatt müssen
 der Aufgabenstellung der Werkstatt als einer Einrichtung zur Teilhabe
 behinderter Menschen am Arbeitsleben und zur Eingliederung in das
-Arbeitsleben und den in § 136 des Neunten Buches Sozialgesetzbuch und
+Arbeitsleben und den in § 219 des Neunten Buches Sozialgesetzbuch und
 im Ersten Abschnitt dieser Verordnung gestellten Anforderungen
 Rechnung tragen. Die Erfordernisse des Arbeitsschutzes und der
 Unfallverhütung sowie zur Vermeidung baulicher und technischer
@@ -367,37 +380,37 @@ einer Funktionsbeschreibung des Personals verfügen.
 
 (3) Die Werkstatt muß wirtschaftliche Arbeitsergebnisse anstreben, um
 an die im Arbeitsbereich beschäftigten behinderten Menschen ein ihrer
-Leistung angemessenes Arbeitsentgelt im Sinne des § 136 Abs. 1 Satz 2
-und § 138 des Neunten Buches Sozialgesetzbuch zahlen zu können.
+Leistung angemessenes Arbeitsentgelt im Sinne des § 219 Absatz 1 Satz
+2 und § 221 des Neunten Buches Sozialgesetzbuch zahlen zu können.
 
-(4) Arbeitsergebnis im Sinne des § 138 des Neunten Buches und der
+(4) Arbeitsergebnis im Sinne des § 221 des Neunten Buches und der
 Vorschriften dieser Verordnung ist die Differenz aus den Erträgen und
 den notwendigen Kosten des laufenden Betriebs im Arbeitsbereich der
 Werkstatt. Die Erträge setzen sich zusammen aus den Umsatzerlösen,
 Zins- und sonstigen Erträgen aus der wirtschaftlichen Tätigkeit und
 den von den Rehabilitationsträgern erbrachten Kostensätzen. Notwendige
-Kosten des laufenden Betriebs sind die Kosten nach § 41 Abs. 3 Satz 3
-und 4 des Neunten Buches Sozialgesetzbuch im Rahmen der getroffenen
+Kosten des laufenden Betriebs sind die Kosten nach § 58 Absatz 3 Satz
+2 und 3 des Neunten Buches Sozialgesetzbuch im Rahmen der getroffenen
 Vereinbarungen sowie die mit der wirtschaftlichen Betätigung der
 Werkstatt in Zusammenhang stehenden notwendigen Kosten, die auch in
 einem Wirtschaftsunternehmen üblicherweise entstehen und infolgedessen
-nach § 41 Abs. 3 des Neunten Buches Sozialgesetzbuch von den
+nach § 58 Absatz 3 des Neunten Buches Sozialgesetzbuch von den
 Rehabilitationsträgern nicht übernommen werden, nicht hingegen die
-Kosten für die Arbeitsentgelte nach § 138 Abs. 2 des Neunten Buches
-Sozialgesetzbuch und das Arbeitsförderungsgeld nach § 43 des Neunten
+Kosten für die Arbeitsentgelte nach § 221 Absatz 2 des Neunten Buches
+Sozialgesetzbuch und das Arbeitsförderungsgeld nach § 59 des Neunten
 Buches Sozialgesetzbuch.
 
 (5) Das Arbeitsergebnis darf nur für Zwecke der Werkstatt verwendet
 werden, und zwar für
 
-1.  die Zahlung der Arbeitsentgelte nach § 138 Abs. 2 des Neunten Buches
+1.  die Zahlung der Arbeitsentgelte nach § 221 Absatz 2 des Neunten Buches
     Sozialgesetzbuch, in der Regel im Umfang von mindestens 70 vom Hundert
     des Arbeitsergebnisses,
 
 
 2.  die Bildung einer zum Ausgleich von Ertragsschwankungen notwendigen
     Rücklage, höchstens eines Betrages, der zur Zahlung der
-    Arbeitsentgelte nach § 138 des Neunten Buches Sozialgesetzbuch für
+    Arbeitsentgelte nach § 221 des Neunten Buches Sozialgesetzbuch für
     sechs Monate erforderlich ist,
 
 
@@ -416,7 +429,7 @@ Rücklagen bleiben unberührt.
 
 (6) Die Werkstatt legt die Ermittlung des Arbeitsergebnisses nach
 Absatz 4 und dessen Verwendung nach Absatz 5 gegenüber den beiden
-Anerkennungsbehörden nach § 142 Satz 2 des Neunten Buches
+Anerkennungsbehörden nach § 225 Satz 2 des Neunten Buches
 Sozialgesetzbuch auf deren Verlangen offen. Diese sind berechtigt, die
 Angaben durch Einsicht in die nach Absatz 1 zu führenden Unterlagen zu
 überprüfen.
@@ -433,19 +446,19 @@ dem behinderten Menschen näher geregelt wird. Über die Vereinbarungen
 sind die zuständigen Rehabilitationsträger zu unterrichten.
 
 (2) In den Verträgen nach Absatz 1 ist auch die Zahlung des
-Arbeitsentgelts im Sinne des § 136 Abs. 1 Satz 2 und § 138 des Neunten
-Buches Sozialgesetzbuch an die im Arbeitsbereich beschäftigten
+Arbeitsentgelts im Sinne des § 219 Absatz 1 Satz 2 und § 221 des
+Neunten Buches Sozialgesetzbuch an die im Arbeitsbereich beschäftigten
 behinderten Menschen aus dem Arbeitsergebnis näher zu regeln.
 
 (3) (weggefallen)
 
 
-### § 14 Mitwirkung
+### § 14 Mitbestimmung, Mitwirkung, Frauenbeauftragte
 
-Die Werkstatt hat den behinderten Menschen im Sinne des § 13 Abs. 1
-Satz 1 eine angemessene Mitwirkung in den ihre Interessen berührenden
-Angelegenheiten der Werkstatt nach § 139 des Neunten Buches
-Sozialgesetzbuch zu ermöglichen.
+Die Werkstatt hat den Menschen mit Behinderungen im Sinne des § 13
+Absatz 1 Satz 1 eine angemessene Mitbestimmung und Mitwirkung durch
+Werkstatträte sowie den Frauenbeauftragten eine angemessene
+Interessenvertretung zu ermöglichen.
 
 
 ### § 15 Werkstattverbund
@@ -457,9 +470,10 @@ Aufgaben einer Werkstatt und der an sie gestellten Anforderungen eine
 Zusammenarbeit vertraglich vereinbaren (Werkstattverbund).
 
 (2) Ein Werkstattverbund ist anzustreben, wenn im Einzugsgebiet einer
-Werkstatt zusätzlich eine besondere Werkstatt im Sinne des § 137 Abs.
-1 Satz 2 Nr. 2 des Neunten Buches Sozialgesetzbuch für behinderte
-Menschen mit einer bestimmten Art der Behinderung vorhanden ist.
+Werkstatt zusätzlich eine besondere Werkstatt im Sinne des § 220
+Absatz 1 Satz 2 Nummer 2 des Neunten Buches Sozialgesetzbuch für
+behinderte Menschen mit einer bestimmten Art der Behinderung vorhanden
+ist.
 
 
 ### § 16 Formen der Werkstatt
@@ -477,7 +491,7 @@ sein.
 ### § 17 Anerkennungsfähige Einrichtungen
 
 (1) Als Werkstätten können nur solche Einrichtungen anerkannt werden,
-die die im § 136 des Neunten Buches Sozialgesetzbuch und im Ersten
+die die im § 219 des Neunten Buches Sozialgesetzbuch und im Ersten
 Abschnitt dieser Verordnung gestellten Anforderungen erfüllen. Von
 Anforderungen, die nicht zwingend vorgeschrieben sind, sind Ausnahmen
 zuzulassen, wenn ein besonderer sachlicher Grund im Einzelfall eine
@@ -500,13 +514,13 @@ des § 7 erfüllt.
 
 ### § 18 Antrag
 
-(1) Die Anerkennung ist vom Träger der Werkstatt schriftlich zu
-beantragen. Der Antragsteller hat nachzuweisen, daß die
-Voraussetzungen für die Anerkennung vorliegen.
+(1) Die Anerkennung ist vom Träger der Werkstatt schriftlich oder
+elektronisch zu beantragen. Der Antragsteller hat nachzuweisen, daß
+die Voraussetzungen für die Anerkennung vorliegen.
 
-(2) Die Entscheidung über den Antrag bedarf der Schriftform. Eine
-Entscheidung soll innerhalb von 3 Monaten seit Antragstellung
-getroffen werden.
+(2) Die Entscheidung über den Antrag ergeht schriftlich oder
+elektronisch. Eine Entscheidung soll innerhalb von 3 Monaten seit
+Antragstellung getroffen werden.
 
 (3) Die Anerkennung erfolgt mit der Auflage, im Geschäftsverkehr auf
 die Anerkennung als Werkstatt für behinderte Menschen hinzuweisen.
@@ -521,78 +535,7 @@ die Anerkennung als Werkstatt für behinderte Menschen hinzuweisen.
 -
 
 
-### § 20 Abweichende Regelungen für Werkstätten im Beitrittsgebiet
-
-Für Werkstätten in dem in Artikel 3 des Einigungsvertrages genannten
-Gebiet gilt diese Verordnung mit folgenden Abweichungen:
-
-1.  Die Vorschriften des § 9 Abs. 2 Satz 3 und Abs. 3 Satz 5 gelten für
-    die von dem Bundesland für die Aufgabenerfüllung in dem betreffenden
-    Einzugsgebiet vorgesehene anerkannte Werkstatt (Werkstatt des
-    Einzugsgebietes) mit der Maßgabe, daß der Werkstattleiter und
-    wenigstens ein Drittel der Fachkräfte zur Arbeits- und Berufsförderung
-    bis zum 31. Dezember 1995, ein weiteres Drittel bis zum 31. Dezember
-    1998 und das letzte Drittel spätestens bis zum 31. Dezember 2001 über
-    die sonderpädagogische Zusatzqualifikation verfügen müssen.
-
-
-2.  Die sonderpädagogische Zusatzqualifikation nach § 9 Abs. 2 und 3
-    braucht nicht nachgeholt zu werden von Personen, die vor dem 1. Januar
-    1993
-
-    a)  das 50. Lebensjahr vollendet haben und
-
-
-    b)  zehn Jahre in einer Werkstatt für behinderte Menschen oder einer
-        anderen Einrichtung für behinderte Menschen in entsprechender Funktion
-        tätig waren.
-
-
-
-
-
-3.  § 17 ist mit folgenden Maßgaben anzuwenden:
-
-    a)  Werkstätten, die in der Zeit vom 1. Juli 1990 bis 31. Dezember 1992
-        unter Auflagen befristet bis zum 31. Dezember 1992 anerkannt worden
-        sind, bleiben bis zum 30. Juni 1993 vorläufig anerkannt, wenn der
-        Antrag auf Verlängerung der Anerkennung unter Darlegung, inwieweit die
-        Anforderungen und erteilten Auflagen inzwischen erfüllt werden,
-        spätestens bis zum 31. Dezember 1992 gestellt wird und über diesen
-        Antrag vor dem 30. Juni 1993 nicht unanfechtbar entschieden worden
-        ist.
-
-
-    b)  Werkstätten im Sinne des Buchstabens a können, auch wenn die
-        Voraussetzungen nach Absatz 3 nicht erfüllt werden, über den 30. Juni
-        1993 hinaus vorübergehend unter Auflagen befristet anerkannt werden,
-        bis die von dem Bundesland für die Aufgabenerfüllung in dem
-        betreffenden Einzugsgebiet vorgesehene anerkannte Werkstatt (Werkstatt
-        des Einzugsgebietes) die behinderten Menschen der vorübergehend
-        anerkannten Werkstatt voraussichtlich aufnehmen kann, längstens aber
-        bis zum 30. Juni 1995. Durch die Auflagen ist sicherzustellen, daß die
-        in § 136 des Neunten Buches Sozialgesetzbuch und im Ersten Abschnitt
-        dieser Verordnung gestellten Anforderungen soweit wie in der
-        Übergangszeit möglich und wirtschaftlich vertretbar erfüllt werden.
-
-
-    c)  Werkstätten im Sinne des Buchstabens a, die nach Buchstabe b
-        vorübergehend anerkannt worden sind, können über den 30. Juni 1995
-        hinaus um jeweils ein weiteres Jahr vorläufig anerkannt werden, wenn
-        die Werkstatt des Einzugsgebietes die behinderten Menschen der
-        vorübergehend anerkannten Werkstatt zu diesem Zeitpunkt noch nicht
-        aufnehmen kann.
-
-
-    d)  Bei der Verlängerung der Anerkennung von Werkstätten im Sinne des
-        Buchstabens a nach § 17 Abs. 3 rechnet die in dem dortigen Satz 2
-        bestimmte Fünfjahresfrist vom Erlaß der Entscheidung über den
-        Verlängerungsantrag an.
-
-
-
-
-
+### § 20 (weggefallen)
 
 
 

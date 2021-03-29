@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 900
 
+Geändert durch
+:   Art. 285 V v. 31.8.2015 I 1474
+
 Stand: Gem. BVerfGE v. 5.12.2006 I 3228 - 2 BvR 2186/06 - wird das Inkrafttreten dieses G bis zur Entscheidung über die Verfassungsbeschwerde, längstens für die Dauer von sechs Monaten, insoweit einstweilen ausgesetzt, als Personen, die Verrichtungen an Hufen zum Zweck des Schutzes, der Gesunderhaltung, der Korrektur oder der Behandlung vornehmen, ohne dabei einen Eisenbeschlag anzubringen, sowie Personen und Einrichtungen, die zu solchen Verrichtungen ausbilden, den Bestimmungen dieses Gesetzes unterworfen werden.
 Stand: Gem. BVerfGE v. 22.5.2007 I 1057 - 1 BvR 2186/06 - wird die einstweilige Anordnung v. 5.12.2006 für die Dauer von weiteren sechs Monaten, längstens jedoch bis zur Entscheidung über die Verfassungsbeschwerde, wiederholt.
 
@@ -222,11 +225,11 @@ die Aufhebung entfallen sind.
 
 ## § 8 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium für Bildung und Forschung durch Rechtsverordnung mit
-Zustimmung des Bundesrates die erforderlichen Vorschriften über
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie und dem Bundesministerium für Bildung und Forschung durch
+Rechtsverordnung mit Zustimmung des Bundesrates die erforderlichen
+Vorschriften über
 
 1.  die Ausbildung, Prüfung und staatliche Anerkennung von
     Hufbeschlagschmieden/Hufbeschlagschmiedinnen,
@@ -247,15 +250,15 @@ zu erlassen. In Rechtsverordnungen nach Satz 1 können Ausnahmen von
 Anforderungen nach diesem Gesetz zugelassen werden, soweit es zur
 Berücksichtigung besonderer Umstände erforderlich ist.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
-Bundesrates außerhalb des Anwendungsbereiches dieses Gesetzes sowie im
-Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen über
-das Bestehen der Prüfungen nach diesem Gesetz gleichstellen, wenn die
-in der jeweiligen Prüfung nachgewiesenen Fertigkeiten, Kenntnisse und
-Fähigkeiten gleichwertig sind. Die Feststellung der Gleichwertigkeit
-kann vom Nachweis des Abschlusses eines Anpassungslehrgangs oder einer
+(2) Das Bundesministerium für Ernährung und Landwirtschaft kann im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+durch Rechtsverordnung mit Zustimmung des Bundesrates außerhalb des
+Anwendungsbereiches dieses Gesetzes sowie im Ausland erworbene
+Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen der
+Prüfungen nach diesem Gesetz gleichstellen, wenn die in der jeweiligen
+Prüfung nachgewiesenen Fertigkeiten, Kenntnisse und Fähigkeiten
+gleichwertig sind. Die Feststellung der Gleichwertigkeit kann vom
+Nachweis des Abschlusses eines Anpassungslehrgangs oder einer
 Eignungsprüfung abhängig gemacht werden.
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung

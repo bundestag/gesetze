@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1959, 247
 
-Geändert durch
-:   Art. 52 G v. 21. 6.2005 I 1818
+Zuletzt geändert durch
+:   Art. 8 G v. 8.7.2016 I 1594
 
 
 ## Eingangsformel
@@ -143,115 +143,31 @@ Antrag abgelehnt werden.
 ### § 5 Prüfung des Antrags
 
 (1) Die für die Ausstellung der Ersatzurkunde zuständige Behörde
-leitet eine Ausfertigung des Antrags
+leitet eine Ausfertigung des Antrags wie folgt weiter:
 
-1.  bei Kriegsauszeichnungen des ersten Weltkrieges, die verliehen worden
-    sind
+1.  bei Kriegsauszeichnungen des Zweiten Weltkrieges
 
-    a)  an Angehörige der ehem. Kgl. Bayerischen Armee oder vom Königreich
-        Bayern
-
-        an das Hauptstaatsarchiv München Abt. II;
+    a)  von Angehörigen der früheren Kriegsmarine: an die Deutsche
+        Dienststelle für die Benachrichtigung der nächsten Angehörigen von
+        Gefallenen der ehemaligen deutschen Wehrmacht (WASt), Berlin;
 
 
-    b)  an Angehörige des ehem. XIII. (Kgl. Württembergischen) Armeekorps und
-        der in seinem Bereich aufgestellten Kriegsformationen oder vom
-        Königreich Württemberg
-
-        an das Hauptstaatsarchiv Stuttgart;
-
-
-    c)  an Angehörige des XIV. (Badischen) Armeekorps und der in seinem
-        Bereich aufgestellten Kriegsformationen oder vom Großherzogtum Baden
-
-        an das Generallandesarchiv Karlsruhe;
-
-
-    d)  an Angehörige der ehem. Kgl. Preußischen und der ehem. Kgl.
-        Sächsischen Armee
-
-        aa) die im zweiten Weltkrieg der früheren Wehrmacht (mit Ausnahme der
-            Kriegsmarine) angehört haben,
-
-            an das Bundesarchiv, Abt. Zentralnachweisstelle Kornelimünster;
-
-
-        bb) die im zweiten Weltkrieg der früheren Kriegsmarine angehört haben,
-
-            an die Deutsche Dienststelle für die Benachrichtigung der nächsten
-            Angehörigen von Gefallenen der ehem. deutschen Wehrmacht Berlin-
-            Borsigwalde (Deutsche Dienststelle);
-
-
-
-
-
-    e)  vom Herzogtum Braunschweig
-
-        an das Niedersächsische Staatsarchiv in Wolfenbüttel;
-
-
-    f)  von der Freien Hansestadt Bremen
-
-        an das Staatsarchiv in Bremen;
-
-
-    g)  von der Freien und Hansestadt Hamburg
-
-        an den Senat der Freien und Hansestadt Hamburg - Staatsarchiv -;
-
-
-    h)  vom Großherzogtum Hessen
-
-        an das Hessische Staatsarchiv in Darmstadt;
-
-
-    i)  vom Fürstentum Lippe
-
-        an das Staatsarchiv in Detmold;
-
-
-    k)  vom Großherzogtum Oldenburg
-
-        an das Niedersächsische Staatsarchiv in Oldenburg;
-
-
-    l)  vom Fürstentum Schaumburg-Lippe
-
-        an das Niedersächsische Staatsarchiv in Hannover;
-
-
-
-
-
-2.  bei Kriegsauszeichnungen des ersten und zweiten Weltkrieges von
-    Angehörigen der früheren Kaiserlichen, Reichs- und Kriegsmarine
-
-    an die Deutsche Dienststelle (Nummer 1 Buchstabe d Doppelbuchstabe
-    bb);
-
-
-3.  bei Kriegsauszeichnungen des zweiten Weltkrieges
-
-    a)  von Angehörigen der früheren Wehrmacht (mit Ausnahme der
+    b)  von Angehörigen der früheren Wehrmacht (mit Ausnahme der
         Kriegsmarine), des Volkssturms im Einsatz, der Waffen-SS, des
-        Reichsarbeitsdienstes und der OT
-
-        an das Bundesarchiv, Abt. Zentralnachweisstelle, Kornelimünster, das
-        den Antrag, soweit er nicht erledigt werden kann, zur weiteren Prüfung
-        an die Deutsche Dienststelle (Nummer 1 Buchstabe d Doppelbuchstabe bb)
-        weiterleitet;
-
-
-    b)  von Angehörigen der früheren Polizei
-
-        an die Deutsche Dienststelle (Nummer 1 Buchstabe d Doppelbuchstabe
-        bb);
+        Reichsarbeitsdienstes und der Organisation Todt: an das Bundesarchiv,
+        Abteilung Militärarchiv, das den Antrag, soweit er nicht erledigt
+        werden kann, zur weiteren Prüfung an die Deutsche Dienststelle für die
+        Benachrichtigung der nächsten Angehörigen von Gefallenen der
+        ehemaligen deutschen Wehrmacht (WASt), Berlin weiterleitet;
 
 
-    c)  von Personen, die im zivilen öffentlichen Dienst gestanden haben,
+    c)  von Angehörigen der früheren Polizei: an die Deutsche Dienststelle für
+        die Benachrichtigung der nächsten Angehörigen von Gefallenen der
+        ehemaligen deutschen Wehrmacht (WASt), Berlin;
 
-        an die Behörden oder öffentlichen Archive, denen die Personalakten des
+
+    d)  von Personen, die im zivilen öffentlichen Dienst gestanden haben: an
+        die Behörden oder öffentlichen Archive, denen die Personalakten des
         Antragstellers oder einschlägige Listen und Akten über die Verleihung
         von Orden und Ehrenzeichen zur Verfügung stehen;
 
@@ -259,16 +175,15 @@ leitet eine Ausfertigung des Antrags
 
 
 
-4.  bei nichtmilitärischen Auszeichnungen
+2.  bei nichtmilitärischen Auszeichnungen
 
-    a)  von Personen, die im öffentlichen Dienst gestanden haben,
-
-        an die Behörden oder öffentlichen Archive, denen die Personalakten des
+    a)  von Personen, die im öffentlichen Dienst gestanden haben: an die
+        Behörden oder öffentlichen Archive, denen die Personalakten des
         Antragstellers oder einschlägige Listen oder Akten über die Verleihung
         von Orden und Ehrenzeichen zur Verfügung stehen;
 
 
-    b)  im übrigen an die Behörden oder öffentlichen Archive, denen
+    b)  im Übrigen: an die Behörden oder öffentlichen Archive, denen
         einschlägige Listen oder Akten über die Verleihung von Orden und
         Ehrenzeichen zur Verfügung stehen.
 
@@ -279,9 +194,9 @@ leitet eine Ausfertigung des Antrags
 
 
 (2) Der nach § 3 Abs. 3 zuständige Disziplinarvorgesetzte leitet eine
-Ausfertigung des Antrags von Soldaten an den Bundesminister
-für              Verteidigung, von Beamten in der Bundespolizei an den
-Bundesminister des Innern weiter.
+Ausfertigung des Antrags von Soldaten an den Bundesminister der
+Verteidigung, von Beamten in der Bundespolizei an den Bundesminister
+des Innern weiter.
 
 (3) Sind bei der Stelle, der nach den Absätzen 1 und 2 eine
 Ausfertigung des Antrags zugeleitet wurde, Unterlagen über die in dem
@@ -414,16 +329,16 @@ Verleihung des Verwundetenabzeichens des zweiten Weltkrieges nicht
 vorhanden oder nicht zu ermitteln, so gibt sie die Ausfertigung des
 Antrags an die für die Ausstellung der Ersatzurkunde zuständige
 Behörde, in den Fällen des § 3 Abs. 3 an den Bundesminister
-für              Verteidigung oder den Bundesminister des Innern ab.
-Sie vermerkt auf der Ausfertigung des Antrags die durch
-Kriegseinwirkungen verursachten Verwundungen und Beschädigungen des
-Antragstellers, die aus ihren Unterlagen ersichtlich sind.
+für Verteidigung oder den Bundesminister des Innern ab. Sie vermerkt
+auf der Ausfertigung des Antrags die durch Kriegseinwirkungen
+verursachten Verwundungen und Beschädigungen des Antragstellers, die
+aus ihren Unterlagen ersichtlich sind.
 
 (2) Die für die Ausstellung der Ersatzurkunde zuständige Behörde, in
 den Fällen des § 3 Abs. 3 der Bundesminister
-für              Verteidigung oder der Bundesminister des Innern, gibt
-dem Antragsteller eine Ausfertigung seines Antrags mit den Vermerken
-nach Absatz 1 Satz 2 zurück, teilt ihm mit, daß Unterlagen über die
+für Verteidigung oder der Bundesminister des Innern, gibt dem
+Antragsteller eine Ausfertigung seines Antrags mit den Vermerken nach
+Absatz 1 Satz 2 zurück, teilt ihm mit, daß Unterlagen über die
 Verleihung des Verwundetenabzeichens des zweiten Weltkrieges an ihn
 nicht zu ermitteln sind und weist ihn auf die Möglichkeit, einen
 Berechtigungsausweis nach dem zweiten Abschnitt dieser Verordnung zu
@@ -510,9 +425,9 @@ den hierzu ergangenen Rechtsverordnungen, soweit in dieser Verordnung
 nichts anderes bestimmt ist.
 
 (2) Bei der Aufklärung des Sachverhalts beteiligt die zuständige
-Behörde (§ 14) soweit erforderlich die Deutsche Dienststelle (§ 5 Abs.
-1 Nr. 1 Buchstabe d Doppelbuchstabe bb) und die Krankenbuchlager bei
-den Versorgungsämtern Berlin, Kassel und München.
+Behörde (§ 14) soweit erforderlich die Deutsche Dienststelle (§ 5
+Absatz 1 Nummer 1 Buchstabe a) und die Krankenbuchlager bei den
+Versorgungsämtern Berlin, Kassel und München.
 
 
 ### § 16 Antrag
@@ -699,8 +614,9 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 Der Bundesminister des Innern
 
+(zu § 3 Abs. 1)
 
-### Anlage 1 (zu § 3 Abs. 1) Antrag auf Zustellung eines urkundlichen Besitznachweises
+### Anlage 1 Antrag auf Zustellung eines urkundlichen Besitznachweises
 
 (Inhalt: nicht erfaßtes Muster eines Antrags,
 Fundstelle: BGBl. Teil III 1133-2, S. 18 - 19)

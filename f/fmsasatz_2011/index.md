@@ -15,82 +15,100 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 272
 
-Geändert durch
-:   Art. 5 G v. 24.2.2012 I 206
+Zuletzt geändert durch
+:   Art. 2 V v. 20.12.2017 I 4019
 
 
-## Erster Abschnitt - Grundlagen der Organisation
+## Abschnitt 1 - Grundlagen der Organisation
 
 
 ### § 1 Rechtsform und Bezeichnung
 
 (1) Die Bundesanstalt für Finanzmarktstabilisierung ist eine
 bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts im
-Geschäftsbereich des Bundesministeriums der Finanzen.
+Geschäftsbereich des Bundesministeriums der Finanzen. Mit ihrer
+Trägerschaft ist gemäß § 3a Absatz 1 Satz 6 des
+Finanzmarktstabilisierungsfondsgesetzes die Bundesrepublik Deutschland
+– Finanzagentur GmbH (Finanzagentur) beliehen.
 
 (2) Die Bundesanstalt für Finanzmarktstabilisierung kann im
-Geschäftsverkehr als „FMSA“ bezeichnet werden. Ferner kann sie unter
-der Bezeichnung „Sonderfonds Finanzmarktstabilisierung (SoFFin) –
-Bundesanstalt für Finanzmarktstabilisierung –“ handeln, soweit sie
-Aufgaben im Namen des nach § 1 des
-Finanzmarktstabilisierungsfondsgesetzes errichteten
-Finanzmarktstabilisierungsfonds (Fonds) wahrnimmt. Sie kann unter der
-Bezeichnung „Restrukturierungsfonds – Bundesanstalt für
-Finanzmarktstabilisierung“ handeln, soweit sie Aufgaben im Namen des
-nach § 1 des Restrukturierungsfondsgesetzes errichteten
-Restrukturierungsfonds (Restrukturierungsfonds) wahrnimmt.
+Geschäftsverkehr als „FMSA“ bezeichnet werden.
 
 
-### § 2 Aufgaben und Organisation der FMSA
+### § 2 Aufgaben und Organisation der FMSA; Trägerschaft und Unterstützung durch die Finanzagentur
 
-(1) Der FMSA obliegen folgende Aufgaben:
+(1) Der FMSA obliegen die ihr nach § 8a des
+Finanzmarktstabilisierungsfondsgesetzes übertragenen Aufgaben,
+insbesondere:
 
-1.  die Verwaltung des Fonds nach § 1 Absatz 1 Satz 1 der
-    Finanzmarktstabilisierungsfonds-Verordnung sowie die Errichtung und
-    Überwachung von Abwicklungsanstalten und die Entscheidung über
-    Maßnahmen nach dem Finanzmarktstabilisierungsfondsgesetz, soweit über
-    diese nicht der Lenkungsausschuss nach § 4 Absatz 1 Satz 2 des
-    Finanzmarktstabilisierungsfondsgesetzes oder das Bundesministerium der
-    Finanzen entscheiden, sowie
-
-
-2.  die Verwaltung des Restrukturierungsfonds nach den §§ 11 und 12 des
-    Restrukturierungsfondsgesetzes und die Entscheidung über Maßnahmen
-    nach dem Restrukturierungsfondsgesetz, soweit über diese nicht der
-    Lenkungsausschuss nach § 4 Absatz 1 Satz 2 des
-    Restrukturierungsfondsgesetzes oder das Bundesministerium der Finanzen
-    entscheiden.
+1.  die auf Antrag der übertragenden Gesellschaft erfolgende Gestattung
+    der Übertragung von Risikopositionen sowie nichtstrategienotwendiger
+    Geschäftsbereiche der übertragenden Gesellschaft durch Rechtsgeschäft
+    oder Umwandlung zum Zwecke der Abwicklung auf eine von der FMSA
+    bereits errichtete Abwicklungsanstalt nach § 8a des
+    Finanzmarktstabilisierungsfondsgesetzes (Abwicklungsanstalt),
 
 
+2.  die Gestattung der Absicherung von Risikopositionen oder
+    nichtstrategienotwendigen Geschäftsbereichen auch durch Übernahme von
+    Garantien, Unterbeteiligungen oder auf sonstige Weise durch die
+    Abwicklungsanstalten ohne dingliche Übertragung,
 
-Ferner nimmt die FMSA die ihr nach dem Kreditinstitute-
-Reorganisationsgesetz, dem Kreditwesengesetz sowie dem
-Finanzmarktstabilisierungsbeschleunigungsgesetz zugewiesenen Aufgaben
-wahr.
 
-(2) Die FMSA richtet die zur Wahrnehmung ihrer gesetzlichen Aufgaben
-erforderlichen Geschäftsbereiche ein. Die Geschäftsbereiche können aus
-Referaten bestehen, die Abteilungen zugeordnet werden können. Darüber
-hinaus können Arbeitseinheiten für referats- und
-geschäftsbereichsübergreifende Aufgaben gebildet werden.
+3.  die Überwachung von Abwicklungsanstalten, wobei sie insbesondere
+    sicherstellt, dass die Abwicklungsanstalten die Vorgaben aus Gesetz
+    und Statut einhalten sowie
 
-(3) Die gesetzlichen Aufgaben der FMSA sollen von Mitarbeiterinnen und
-Mitarbeitern der FMSA wahrgenommen werden. Mitarbeiterinnen und
-Mitarbeiter der FMSA im Sinne dieser Satzung sind die
-Arbeitnehmerinnen und Arbeitnehmer der FMSA und die der FMSA
-zugewiesenen Beamtinnen und Beamten sowie die der FMSA zugewiesenen
-Arbeitnehmerinnen und Arbeitnehmer.
+
+4.  sonstige Überwachungs- und Koordinierungsaufgaben nach § 8a des
+    Finanzmarktstabilisierungsfondsgesetzes hinsichtlich der Institute,
+    die mit Mitteln des nach § 1 des
+    Finanzmarktstabilisierungsfondsgesetzes errichteten
+    Finanzmarktstabilisierungsfonds stabilisiert werden.
+
+
+
+Bei der Wahrnehmung dieser Aufgaben sind die jeweils geltenden
+Beteiligungs- und Entscheidungsrechte sowie Zustimmungsvorgaben
+insbesondere in Bezug auf das Bundesministerium der Finanzen und in
+Bezug auf den nach § 4 des Finanzmarktstabilisierungsfondsgesetzes
+gebildeten Lenkungsausschuss (Lenkungsausschuss) zu wahren.
+
+(2) Als Trägerin unterstützt die Finanzagentur die FMSA bei der
+Wahrnehmung ihrer Aufgaben, stellt die erforderliche Infrastruktur zur
+Verfügung und sichert die operative Einsatzfähigkeit der FMSA. Die
+Finanzagentur erbringt hierbei angemessene unterstützende Tätigkeiten
+im Rahmen der Ausübung der Funktionen IT, Revision, Compliance,
+Datenschutz, Rechts-und Vertragsprüfung, Rechnungswesen, Vergabe oder
+Personalmanagement für die FMSA. Die Wahrnehmung dieser Aufgaben
+obliegt den in der Finanzagentur jeweils zuständigen
+Organisationseinheiten. Diese unterliegen weiterhin nur den Weisungen
+der Finanzagentur, sofern nicht gesetzliche oder aufsichtsrechtliche
+Vorgaben vorrangig sind. Der oder die jeweiligen Datenschutz-, IT-
+Sicherheits- und Compliancebeauftragten der Finanzagentur gelten
+grundsätzlich als von der Leitung der FMSA auch für die FMSA bestellt.
+Änderungen der in diesem Absatz geregelten Aufgabenwahrnehmung oder
+Bestellung bedürfen der vorherigen Zustimmung des Bundesministeriums
+der Finanzen.
+
+(3) Die FMSA richtet die zur Wahrnehmung ihrer gesetzlichen Aufgaben
+erforderliche Geschäftsorganisation ein. Darüber hinaus können
+gemeinsame Arbeitseinheiten für geschäftsbereichsübergreifende
+Aufgaben der FMSA und der Finanzagentur gebildet oder andere
+übergreifende Kooperationsprozesse etabliert werden.
 
 (4) Bei der Vergabe von Aufträgen an Dritte sind die für die
-öffentliche Auftragsvergabe geltenden Vorschriften einzuhalten.
+öffentliche Auftragsvergabe geltenden Vorschriften einzuhalten. Als
+Trägerin kann auch die Finanzagentur Aufträge im Namen und für
+Rechnung der Finanzagentur, der FMSA oder des Bundes an Dritte zum
+Zwecke der Unterstützung der FMSA zu Lasten des Bundes vergeben.
 
 (5) Bei der Aktenführung der FMSA ist die Registraturrichtlinie für
 das Bearbeiten und Verwalten von Schriftgut in Bundesministerien
 entsprechend anzuwenden.
 
 (6) Die Aufbauorganisation der FMSA sowie deren Änderungen werden mit
-vorheriger Zustimmung (Einwilligung) des Bundesministeriums der
-Finanzen festgelegt.
+vorheriger Zustimmung des Bundesministeriums der Finanzen festgelegt.
 
 
 ### § 3 Rechts- und Fachaufsicht
@@ -101,7 +119,7 @@ auch die Weisungsbefugnis des Bundesministeriums der Finanzen
 gegenüber der FMSA.
 
 
-## Zweiter Abschnitt - Leitungsausschuss
+## Abschnitt 2 - Leitungsausschuss
 
 
 ### § 4 Organe
@@ -120,420 +138,161 @@ Leitungsausschuss erlassen.
 
 ### § 5 Zusammensetzung und Beschlüsse des Leitungsausschusses
 
-(1) Der Leitungsausschuss besteht gemäß § 3a Absatz 3 Satz 1 des
-Finanzmarktstabilisierungsfondsgesetzes aus drei Mitgliedern. Die
-Mitglieder des Leitungsausschusses leiten die FMSA gemeinschaftlich,
-unbeschadet ihrer Verantwortung für ihre jeweiligen Geschäftsbereiche.
+(1) Der Leitungsausschuss besteht aus einem Mitglied. Dieses Mitglied
+führt den Titel „Leiterin der Bundesanstalt für
+Finanzmarktstabilisierung“ oder „Leiter der Bundesanstalt für
+Finanzmarktstabilisierung“ (Leitung).
 
-(2) Die Vorsitzende beziehungsweise der Vorsitzende des
-Leitungsausschusses wird vom Bundesministerium der Finanzen bestimmt.
-Die Vorsitzende beziehungsweise der Vorsitzende des
-Leitungsausschusses kann eine Stellvertreterin beziehungsweise einen
-Stellvertreter benennen.
+(2) Die Leitung hat mit Zustimmung des Bundesministeriums der Finanzen
+als ständige Vertretung bis zu zwei Stellvertreterinnen oder
+Stellvertreter (Stellvertretungen) zu benennen, die sie bei
+Abwesenheit oder im Verhinderungsfall vertreten.
 
-(3) Der Leitungsausschuss entscheidet durch Beschluss. Er ist
-beschlussfähig, wenn alle Mitglieder eingeladen und zwei Mitglieder
-bei der Beschlussfassung anwesend sind; Absatz 4 Satz 4 bis 7 bleibt
-unberührt. Mitglieder, die durch Telefon- oder Videokonferenz
-zugeschaltet sind, gelten als anwesend.
-
-(4) Der Leitungsausschuss tritt nach Bedarf zusammen. Sitzungen sind
-von der Vorsitzenden beziehungsweise dem Vorsitzenden in Textform
-unter Benennung der Beratungs- und Beschlussgegenstände einzuberufen.
-Jedes Mitglied des Leitungsausschusses kann die Einberufung einer
-Sitzung unter Benennung der Beratungs- und Beschlussgegenstände
-verlangen. Beschlüsse des Leitungsausschusses über
-Stabilisierungsmaßnahmen können nur in Sitzungen gefasst werden, in
-denen die Mehrheit der Mitglieder des Leitungsausschusses anwesend ist
-oder nach Absatz 3 Satz 3 als anwesend gilt. Im Übrigen kann die
-Vorsitzende beziehungsweise der Vorsitzende einen Beschluss des
-Leitungsausschusses auch außerhalb von Sitzungen im Wege der
-schriftlichen oder mündlichen Umfrage, auch durch Telefax oder mittels
-elektronischer Medien, herbeiführen (Umlaufverfahren). Eine
-Beschlussfassung im Umlaufverfahren ist nicht zulässig, wenn ein
-Mitglied des Leitungsausschusses die Behandlung in einer Sitzung
-wünscht. Beschlüsse im Umlaufverfahren sind gültig, wenn mindestens
-zwei Mitglieder an der Beschlussfassung teilnehmen und alle Mitglieder
-über die Beschlussfassung informiert sind.
-
-(5) Der Leitungsausschuss fasst seine Beschlüsse mit einfacher
-Mehrheit der abgegebenen Stimmen. Jedes Mitglied des
-Leitungsausschusses hat eine Stimme, bei Stimmengleichheit gibt die
-Stimme der Vorsitzenden beziehungsweise des Vorsitzenden den
-Ausschlag. Enthaltungen gelten als nicht abgegebene Stimmen. Ein
-Mitglied, das nicht an der Beschlussfassung teilgenommen hat, ist
-unverzüglich über das Abstimmungsergebnis zu informieren.
-
-(6) Ein Mitglied des Leitungsausschusses darf an der Beratung und
-Beschlussfassung des Leitungsausschusses nicht mitwirken, wenn die
-Entscheidung ihm selbst, seinem Ehegatten oder Lebenspartner, seinen
-Verwandten bis zum dritten oder Verschwägerten bis zum zweiten Grade
-oder einer von ihm kraft Gesetzes oder Vollmacht vertretenen Person
-einen unmittelbaren oder mittelbaren Vor- oder Nachteil bringen kann.
-Im Zweifel entscheidet der Leitungsausschuss hierüber unter Ausschluss
-des betreffenden Mitglieds. Der Leitungsausschuss hat die Vorsitzende
+(3) Die Leitung und bei Abwesenheit oder im Verhinderungsfall die
+Stellvertretungen entscheiden bei Angelegenheiten grundsätzlicher Art
+oder von erheblicher Bedeutung durch Beschluss. Wenn die Entscheidung
+der Leitung oder Stellvertretung selbst, ihrem Ehegatten oder
+Lebenspartner, ihren Verwandten bis zum dritten oder Verschwägerten
+bis zum zweiten Grade oder einer von ihr kraft Gesetzes oder Vollmacht
+vertretenen Person einen unmittelbaren oder mittelbaren Vor- oder
+Nachteil bringen kann, entscheidet hierüber das Bundesministerium der
+Finanzen. Die Leitung und die Stellvertretungen haben die Vorsitzende
 beziehungsweise den Vorsitzenden des Lenkungsausschusses unverzüglich
-über bestehende Interessenkonflikte zu informieren. War ein Mitglied
-des Leitungsausschusses Mitglied eines Organs eines Unternehmens, über
-dessen Antrag zu entscheiden ist, so ist das Mitglied von der
-Beschlussfassung über diesen Antrag ausgeschlossen.
+über bestehende Interessenkonflikte zu informieren.
 
-(7) Über die Beschlüsse des Leitungsausschusses ist eine Niederschrift
-zu fertigen. Sie ist von der Vorsitzenden beziehungsweise dem
-Vorsitzenden des Leitungsausschusses zu unterzeichnen.
+(4) Vor Beschlüssen der Leitung oder von deren Stellvertretungen ist
+eine Stellungnahme der Finanzagentur einzuholen, soweit deren
+Interessen erkennbar berührt sind oder die Hinzuziehung aufgrund von
+deren Sachkunde angezeigt ist. Die Interessen der Finanzagentur sind
+insbesondere dann berührt, wenn die Beschlüsse erhebliche Auswirkungen
+auf den Finanzmarktstabilisierungsfonds oder auf die Tätigkeit der
+Finanzagentur nach dem Bundesschuldenwesengesetz haben können. FMSA
+und Finanzagentur treffen eine Vereinbarung über Voraussetzungen,
+Kriterien und den Prozess zur Einholung solcher Stellungnahmen und
+erarbeiten einen Regelkatalog. Diese Vereinbarung und der Regelkatalog
+bedürfen der Zustimmung des Bundesministeriums der Finanzen. Das
+Bundesministerium der Finanzen kann gegenüber der FMSA jederzeit die
+Einholung einer Stellungnahme der Finanzagentur verlangen.
 
-(8) Vorlagen an den nach § 4 des
-Finanzmarktstabilisierungsfondsgesetzes gebildeten Lenkungsausschuss
-oder das Bundesministerium der Finanzen bedürfen ebenfalls der
-Beschlussfassung durch den Leitungsausschuss.
+(5) Über die Beschlüsse der Leitung und von deren Stellvertretungen
+ist eine Niederschrift zu fertigen. Sie ist von der Leitung zu
+unterzeichnen.
 
-(9) Der Leitungsausschuss gibt sich im Einvernehmen mit dem
-Bundesministerium der Finanzen eine Geschäftsordnung.
+(6) Vorlagen an den Lenkungsausschuss bedürfen ebenfalls der
+Beschlussfassung durch die Leitung.
 
-
-### § 6 Rechtsstellung der Mitglieder des Leitungsausschusses
-
-(1) Die Mitglieder des Leitungsausschusses unterliegen dem
-Weisungsrecht des Bundesministeriums der Finanzen. Sie tragen jeweils
-Eigenverantwortung für ihren Geschäftsbereich.
-
-(2) (weggefallen)
-
-(3) (weggefallen)
-
-(4) Für die Mitglieder des Leitungsausschusses gilt der
-Verhaltenskodex für die Mitglieder des Vorstands der Deutschen
-Bundesbank entsprechend. Insbesondere dürfen diese weder auf eigene
-noch auf fremde Rechnung Geschäfte tätigen, die die Interessen der
-FMSA oder des Fonds berühren oder aus denen sich der Anschein einer
-Interessenkollision ergeben könnte. Die Richtlinien der Deutschen
-Bundesbank zur Insiderproblematik und über die Anforderungen an
-Mitarbeitergeschäfte sind entsprechend einzuhalten. Ferner bedarf die
-Übernahme jeder entgeltlichen oder unentgeltlichen Nebentätigkeit der
-vorherigen schriftlichen Zustimmung des Bundesministeriums der
-Finanzen. Weitere nach Satz 1 erforderliche Genehmigungen erteilt der
-Leitungsausschuss im Einvernehmen mit dem Bundesministerium der
-Finanzen durch Beschluss ohne Beteiligung des betroffenen Mitglieds.
+(7) Die Leitung kann sich im Einvernehmen mit dem Bundesministerium
+der Finanzen eine Geschäftsordnung geben.
 
 
-### § 7 Aufgaben und Zuständigkeiten des Leitungsausschusses
+### § 6 Rechtsstellung der Leitung
 
-(1) Der Leitungsausschuss leitet die FMSA, führt ihre Geschäfte und
-verwaltet ihr Vermögen nach den geltenden Gesetzen, insbesondere nach
-den Maßgaben des Finanzmarktstabilisierungsfondsgesetzes, der
-Finanzmarktstabilisierungsfonds-Verordnung, des
-Restrukturierungsfondsgesetzes und der nach § 12 dieses Gesetzes zu
-erlassenden Rechtsverordnung und Anlagerichtlinie, und nach dieser
-Satzung.
+(1) Die Leitung unterliegt dem Weisungsrecht des Bundesministeriums
+der Finanzen.
 
-(2) Der Leitungsausschuss ist insbesondere verantwortlich für
-
-1.  die der FMSA übertragenen Entscheidungen nach dem
-    Finanzmarktstabilisierungsfondsgesetz, der
-    Finanzmarktstabilisierungsfonds-Verordnung sowie dem
-    Restrukturierungsfondsgesetzes und der nach § 12 dieses Gesetzes zu
-    erlassenden Rechtsverordnung und Anlagerichtlinie einschließlich der
-    Ausführung von Entscheidungen des Lenkungsausschusses und des
-    Bundesministeriums der Finanzen,
+(2) Die Leitung kann sich und ihren Stellvertretungen einen
+Verhaltenskodex geben, welcher der Zustimmung des Bundesministeriums
+der Finanzen bedarf. Insbesondere dürfen die Leitung und die
+Stellvertretungen ohne Zustimmung des Bundesministeriums der Finanzen
+weder auf eigene noch auf fremde Rechnung Geschäfte tätigen, die die
+Interessen der FMSA oder der Finanzagentur offensichtlich berühren
+oder aus denen sich der Anschein einer Interessenkollision ergeben
+könnte. Die jeweils geltenden Compliance-Richtlinien der Finanzagentur
+unter anderem zur Wertpapiercompliance, zur Verhinderung von
+Geldwäsche und Terrorismusfinanzierung, zur Korruptionsprävention und
+Betrugsbekämpfung sind entsprechend einzuhalten.
 
 
-2.  die Verwaltung des Fonds sowie des Restrukturierungsfonds,
+### § 7 Aufgaben und Zuständigkeiten der Leitung
+
+(1) Die Leitung führt die Geschäfte der FMSA und verwaltet deren
+Vermögen nach den geltenden Gesetzen, insbesondere nach den Maßgaben
+des Finanzmarktstabilisierungsfondsgesetzes, der
+Finanzmarktstabilisierungsfonds-Verordnung und nach dieser Satzung.
+
+(2) Die Leitung ist für die ordnungsgemäße Ausführung ihrer Beschlüsse
+sowie für die der FMSA obliegenden Aufgaben verantwortlich.
 
 
-3.  die Wahrnehmung der Aufgaben der FMSA im Hinblick auf
-    Abwicklungsanstalten nach § 8a des
-    Finanzmarktstabilisierungsfondsgesetzes sowie im Hinblick auf
-    Brückeninstitute nach § 5 des Restrukturierungsfondsgesetzes,
+## Abschnitt 3 - Vertretung
 
 
-4.  das Rechnungswesen der FMSA, des Fonds und des Restrukturierungsfonds,
+### § 8 Vertretung der FMSA
+
+(1) Die Leitung, im Verhinderungsfall eine der Stellvertretungen,
+vertritt die FMSA gerichtlich und außergerichtlich. Soweit im Rahmen
+der Aufgaben nach § 2 Absatz 1 eine Entscheidung oder Handlung mit
+verbindlicher Außenwirkung erfolgt, bedarf diese Entscheidung oder
+Handlung der Zustimmung der Leitung. Hiervon unberührt sind sonstige
+Zustimmungs-, Einbeziehungs- oder Entscheidungserfordernisse,
+insbesondere seitens der Finanzagentur, des Bundesministeriums der
+Finanzen oder des Lenkungsausschusses.
+
+(2) Bei Geschäften der laufenden Verwaltung kann die FMSA durch zwei
+Beschäftigte der FMSA oder von der FMSA bevollmächtigte Beschäftigte
+der Finanzagentur gemeinschaftlich vertreten werden, soweit diese
+innerhalb ihrer jeweiligen Zuständigkeiten handeln.
+
+(3) Ist eine Willenserklärung gegenüber der FMSA abzugeben, so genügt
+die Abgabe gegenüber der Leitung oder einem von der Leitung zur
+Annahme bevollmächtigten Beschäftigten der FMSA.
 
 
-5.  das Risikocontrolling der FMSA, des Fonds und des
-    Restrukturierungsfonds sowie das Beteiligungsmanagement des Fonds und
-    des Restrukturierungsfonds,
-
-
-6.  die Begleitung von Restrukturierungsmaßnahmen der antragstellenden
-    Unternehmen,
-
-
-7.  die Vorlage von Anträgen und Vorschlägen der FMSA an den
-    Lenkungsausschuss und das Bundesministerium der Finanzen nach § 1
-    Absatz 2 Satz 2 der Finanzmarktstabilisierungsfonds-Verordnung sowie
-    die Vorbereitung von Entscheidungen nach § 4 Absatz 1 Satz 3 des
-    Restrukturierungsfondsgesetzes und § 48a Absatz 3 Satz 2 des
-    Kreditwesengesetzes unter Mitwirkung der Bundesanstalt für
-    Finanzdienstleistungsaufsicht,
-
-
-8.  die Vorbereitung von Unterrichtungen des Gremiums zum
-    Finanzmarktstabilisierungsfonds durch das Bundesministerium der
-    Finanzen nach § 10a Absatz 2 Satz 1 und § 11 Absatz 3 Satz 3 des
-    Finanzmarktstabilisierungsfondsgesetzes sowie nach § 16 Absatz 2 des
-    Restrukturierungsfondsgesetzes,
-
-
-9.  die Einbeziehung geeigneter Dritter nach § 3a Absatz 5 Satz 1 des
-    Finanzmarktstabilisierungsfondsgesetzes,
-
-
-10. den Abschluss von Arbeitsverträgen nach § 9 Absatz 1 dieser Satzung,
-
-
-11. die Erstellung von Regelungen zur Erstattung von Kosten und Auslagen
-    nach § 10 dieser Satzung,
-
-
-12. die Erstellung des Wirtschaftsplans und des Stellenplans der FMSA, die
-    Erstellung der Haushaltsrechnung für die FMSA, die Erstellung des
-    Entwurfs der Haushaltsrechnung und des Entwurfs der Vermögensrechnung
-    für den Fonds und den Restrukturierungsfonds nach § 11 Absatz 3 bis 5
-    dieser Satzung sowie
-
-
-13. die Aufstellung der Jahresabschlüsse und der Lageberichte der FMSA,
-    des Fonds und des Restrukturierungsfonds nach § 11 Absatz 4 und 5
-    dieser Satzung.
-
-
-
-
-(3) Für die ordnungsgemäße Ausführung der dem Leitungsausschuss
-obliegenden Aufgaben und der Beschlüsse des Lenkungsausschusses sind
-die Mitglieder des Leitungsausschusses gemeinschaftlich
-verantwortlich.
-
-
-## Dritter Abschnitt - Vertretung
-
-
-### § 8 Vertretung der FMSA, des Fonds und des Restrukturierungsfonds
-
-(1) Der Leitungsausschuss vertritt die FMSA, den Fonds und den
-Restrukturierungsfonds gerichtlich und außergerichtlich.
-
-(2) Die FMSA, der Fonds und der Restrukturierungsfonds werden im
-Rechtsverkehr durch zwei Mitglieder des Leitungsausschusses
-gemeinschaftlich vertreten. Der Leitungsausschuss kann beschließen,
-dass die FMSA, der Fonds und der Restrukturierungsfonds auch durch
-eines seiner Mitglieder gemeinsam mit einem bevollmächtigten
-Mitarbeiter oder einer bevollmächtigten Mitarbeiterin der FMSA oder
-bei Geschäften der laufenden Verwaltung durch zwei zuständige
-Mitarbeiter oder Mitarbeiterinnen der FMSA gemeinschaftlich vertreten
-werden können.
-
-(3) Ist eine Willenserklärung gegenüber der FMSA, dem Fonds oder dem
-Restrukturierungsfonds abzugeben, so genügt die Abgabe gegenüber einem
-Mitglied des Leitungsausschusses oder einem vom Leitungsausschuss
-bevollmächtigten Mitarbeiter oder einer vom Leitungsausschuss
-bevollmächtigten Mitarbeiterin der FMSA.
-
-
-## Vierter Abschnitt - Personal
+## Abschnitt 4 - Personal
 
 
 ### § 9 Personal
 
 (1) Die FMSA kann Arbeitnehmerinnen und Arbeitnehmer im Rahmen des vom
-Bundesministerium der Finanzen gemäß § 11 Absatz 3 Satz 3 genehmigten
-Stellenplans in Arbeitsverhältnissen beschäftigen. Auf die
-Arbeitnehmerinnen und Arbeitnehmer der FMSA sind die für die
-Arbeitnehmerinnen und Arbeitnehmer der Deutschen Bundesbank jeweils
-geltenden Tarifverträge und sonstigen arbeitsrechtlichen Bestimmungen
-anzuwenden. Arbeitnehmerinnen und Arbeitnehmer können mit Einwilligung
-des Bundesministeriums der Finanzen auch oberhalb der höchsten
-tarifvertraglichen Entgeltgruppe in einem außertariflichen
-Arbeitsverhältnis beschäftigt werden, soweit dies für die Durchführung
-der Aufgaben erforderlich ist. Satz 3 gilt für die sonstige Gewährung
-von außer- und übertariflichen Leistungen entsprechend.
+Bundesministerium der Finanzen genehmigten Stellenplans in
+Arbeitsverhältnissen beschäftigen. Ab dem 1. Januar 2018 orientieren
+sich neue Arbeitsverträge oder Änderungsvereinbarungen zu bestehenden
+Arbeitsverträgen an den jeweils geltenden arbeitsvertraglichen
+Musterregelungen der Finanzagentur. Im Übrigen wird die jeweils
+geltende Geschäftsanweisung für die Geschäftsführung der Finanzagentur
+insbesondere in Bezug auf Zustimmungsvorbehalte des Bundesministeriums
+der Finanzen bei bestimmten Vertragsabschlüssen oder sonstigen
+Entscheidungen entsprechend angewendet.
 
-(2) Vorgesetzter der Mitarbeiterinnen und Mitarbeiter der FMSA ist der
-Leitungsausschuss. Die Verschwiegenheitspflicht nach § 6 Absatz 2 gilt
-für die Mitarbeiterinnen und Mitarbeiter der FMSA sowie von dieser
-oder dem Bundesministerium der Finanzen beauftragte Dritte
-entsprechend. Die Erteilung von Aussagegenehmigungen für die
-Mitarbeiterinnen und Mitarbeiter der FMSA sowie für beauftragte Dritte
-ist mit dem Bundesministerium der Finanzen abzustimmen.
+(2) Vorgesetzter der Mitarbeiterinnen und Mitarbeiter der FMSA ist die
+Leitung.
 
-(3) Für die Mitarbeiterinnen und Mitarbeiter der FMSA gelten die
-Richtlinien der Deutschen Bundesbank zur Insiderproblematik und über
-die Anforderungen an Mitarbeitergeschäfte entsprechend. Außerdem
-gelten für die Mitarbeiterinnen und Mitarbeiter der FMSA die
-Verhaltensregeln für die Beschäftigten der Deutschen Bundesbank zur
-Annahme von Belohnungen und Geschenken sowie zu Vortragstätigkeiten
-sowie § 1 Absatz 1 des Personalstatuts der Deutschen Bundesbank
-entsprechend. Nach Satz 2 erforderliche Zustimmungen erteilt der
-Leitungsausschuss.
-
-(4) Die Personalausgaben der der FMSA zugewiesenen Beamtinnen und
-Beamten und zugewiesenen Arbeitnehmerinnen und Arbeitnehmer sind von
-der FMSA zu tragen.
-
-(5) Für die Erstattung von Reise- und Umzugskosten sowie Trennungsgeld
-finden die für die Beamtinnen und Beamten des Bundes jeweils geltenden
-Bestimmungen entsprechende Anwendung.
+(3) Die Personalausgaben der FMSA sind von der FMSA zu tragen,
+insbesondere auch die von zugewiesenen Beamtinnen und Beamten sowie
+zugewiesenen Arbeitnehmerinnen und Arbeitnehmern.
 
 
-## Fünfter Abschnitt - Haushalts- und Wirtschaftsführung
+## Abschnitt 5 - Haushalts- und Wirtschaftsführung
 
 
-### § 10 Erstattung von Kosten und Auslagen
+### § 10 Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
 
-(1) Die FMSA finanziert die Wahrnehmung ihrer Aufgaben vorbehaltlich
-Absatz 8 aus den von ihr vereinnahmten Erstattungen von Kosten und
-Auslagen gemäß Absatz 2. Sofern die eigenen Einnahmen nicht
-ausreichen, um die Ausgaben der FMSA zur Wahrnehmung ihrer Aufgaben
-nach Satz 1 zu decken, erhält sie nach Maßgabe des
-Bundeshaushaltsplans in Höhe des Differenzbetrages eine Zuweisung aus
-dem Bundeshaushalt. Überschüsse am Ende des Jahres aus den Einnahmen
-der FMSA oder aus Zuführungen des Bundes sind an den Bundeshaushalt
-abzuführen.
+(1) Soweit nicht gesondert per Gesetz oder in dieser Satzung geregelt,
+gelten außer für Zahlungen, die Buchführung und die Rechnungslegung
+die §§ 106 bis 110 der Bundeshaushaltsordnung weder unmittelbar noch
+die §§ 1 bis 87 der Bundeshaushaltsordnung entsprechend im Sinne des §
+105 Absatz 1 der Bundeshaushaltsordnung.
 
-(2) Die FMSA verlangt von Unternehmen des Finanzsektors, die eine
-Stabilisierungsmaßnahme nach § 6, § 7, § 8 oder § 8a des
-Finanzmarktstabilisierungsfondsgesetzes beantragen, die Erstattung von
-Kosten und Auslagen auf der Grundlage einer Verpflichtungserklärung
-des Antragstellers oder eines Vertrages mit dem Antragsteller oder
-eines Verwaltungsaktes. Hierzu zählen auch Kosten und Auslagen, die
-während der Laufzeit der Maßnahme oder anlässlich ihrer Beendigung
-entstehen.
+(2) Die für die Finanzagentur jeweils geltenden Vorgaben für die
+Haushalts- und Wirtschaftsführung, die Rechnungslegung sowie weitere
+Richtlinien, wie insbesondere für Revision, Datenschutz, Compliance,
+Reise- und Umzugskosten sowie Trennungsgeld sind in Abstimmung mit dem
+Bundesministerium der Finanzen entsprechend anzuwenden, soweit keine
+gesetzlichen oder aufsichtsrechtlichen Vorgaben vorrangig sind. Einen
+Abschluss nach dem Handelsgesetzbuch hat die FMSA nicht aufzustellen.
 
-(3) Die FMSA kann von dem antragstellenden Unternehmen einen
-angemessenen Kostenvorschuss verlangen. Die Erstattung nach Absatz 2
-kann auch dann verlangt werden, wenn der Antrag abgelehnt oder
-zurückgenommen wird.
+(3) Die Haushalts- und Wirtschaftsführung der FMSA sowie die
+Rechnungslegung werden vom Abschlussprüfer der Finanzagentur gemäß den
+jeweils geltenden Standards und vom Bundesministerium der Finanzen im
+Rahmen der Ausübung der Rechts- und Fachaufsicht geprüft. Dem
+Bundesrechnungshof steht ein uneingeschränktes Prüfungsrecht der
+Haushalts- und Wirtschaftsführung sowie der Rechnungslegung der FMSA
+im Sinne der §§ 109 Absatz 2 und 111 Absatz 1 der
+Bundeshaushaltsordnung zu. Die Bestellung des Abschlussprüfers der
+Finanzagentur erfolgt im Einvernehmen mit dem Bundesrechnungshof.
 
-(4) Für die Erstattung der Kosten ist mindestens zwischen den
-einzelnen Stabilisierungsmaßnahmen zu unterscheiden. Außerdem kann die
-Höhe der Kosten von dem Wert der Maßnahme abhängig gemacht werden.
-
-(5) Die FMSA kann von Abwicklungsanstalten nach § 8a Absatz 1 Satz 7
-des Finanzmarktstabilisierungsfondsgesetzes die Erstattung von Kosten
-und Auslagen für Koordinations- und Überwachungstätigkeiten für die
-Abwicklungsanstalten verlangen.
-
-(6) Zu den Kosten und Auslagen im Sinne der Absätze 2 und 5 gehören
-auch die Kosten Dritter, derer sich die FMSA nach § 3a Absatz 5 des
-Finanzmarktstabilisierungsfondsgesetzes bei der Erfüllung ihrer
-Aufgaben bedient. Die zu erstattenden Kosten und Auslagen können in
-Form einer Pauschale berechnet werden.
-
-(7) Die vom Leitungsausschuss nach § 7 Absatz 2 Nummer 11 zu
-erstellenden Kosten- und Auslagenregelungen bedürfen der Einwilligung
-des Bundesministeriums der Finanzen.
-
-(8) Die für die Errichtung und Verwaltung des Restrukturierungsfonds
-anfallenden Personal- und Sachkosten werden der FMSA gemäß § 11 Satz 3
-des Restrukturierungsfondsgesetzes aus den Mitteln des
-Restrukturierungsfonds erstattet.
-
-
-### § 11 Haushaltsführung, Wirtschaftsführung, Rechnungslegung, Revision
-
-(1) Das Rechnungsjahr und das Geschäftsjahr der FMSA, des Fonds und
-des Restrukturierungsfonds sind jeweils das Kalenderjahr.
-
-(2) Für die FMSA gelten gemäß § 105 Absatz 1 der
-Bundeshaushaltsordnung die §§ 106 bis 110 der Bundeshaushaltsordnung
-unmittelbar und die §§ 1 bis 87 der Bundeshaushaltsordnung
-entsprechend, soweit nicht durch Gesetz oder auf Grund eines Gesetzes
-etwas anderes bestimmt ist. Soweit gesetzliche Bestimmungen dem nicht
-entgegenstehen, gelten die Verwaltungsvorschriften zur
-Bundeshaushaltsordnung (VV-BHO) in der jeweils geltenden Fassung
-entsprechend.
-
-(3) Die FMSA stellt für die FMSA den Wirtschaftsplan nach § 110 der
-Bundeshaushaltsordnung sowie einen Stellenplan auf und legt diesen bis
-Ende Oktober eines Jahres für das Folgejahr dem Bundesministerium der
-Finanzen vor. Der Wirtschaftsplan ist Grundlage für die
-Wirtschaftsführung. Wirtschaftsplan und Stellenplan bedürfen der
-Genehmigung durch das Bundesministerium der Finanzen. Der Stellenplan
-enthält die Stellen für die tariflichen und außertariflichen
-Arbeitnehmerinnen und Arbeitnehmer sowie die Mitglieder des
-Leitungsausschusses. Der FMSA zugewiesene Beamtinnen und Beamte sowie
-zugewiesene Arbeitnehmerinnen und Arbeitnehmer sind auf Stellen zu
-führen. Abweichungen vom Stellenplan sind nur mit Einwilligung des
-Bundesministeriums der Finanzen möglich. Maßnahmen, für die im
-Wirtschaftsplan keine Ermächtigungen enthalten sind oder die zu
-Abweichungen vom Wirtschaftsplan führen, bedürfen der Einwilligung des
-Bundesministeriums der Finanzen.
-
-(3a) Die FMSA weist die für die Errichtung und Verwaltung des
-Restrukturierungsfonds anfallenden Personal- und Sachkosten in ihrem
-Wirtschaftsplan getrennt aus und stellt sicher, dass die Personal- und
-Sachkosten vom Restrukturierungsfonds im Laufe des Rechnungsjahres
-vollständig erstattet werden.
-
-(4) Die FMSA stellt für die FMSA am Schluss eines jeden
-Rechnungsjahres die Haushaltsrechnung nach der Bundeshaushaltsordnung
-auf. Sie stellt ferner innerhalb der ersten vier Monate nach Abschluss
-eines Geschäftsjahres einen Jahresabschluss und einen Lagebericht nach
-den für große Kapitalgesellschaften geltenden Vorschriften des
-Handelsgesetzbuchs auf. Eine Konzernrechnungslegungspflicht besteht
-nicht. Das Publizitätsgesetz ist nicht anzuwenden. Offenlegung und
-Transparenz sind gegenüber dem Bundesministerium der Finanzen und über
-das Bundesministerium der Finanzen gegenüber dem Gremium nach § 10a
-des Finanzmarktstabilisierungsfondsgesetzes zu gewährleisten. Der
-Jahresabschluss ist vom Leitungsausschuss zu genehmigen. Der
-Jahresabschluss und der Lagebericht sind vom Abschlussprüfer nach den
-Vorschriften des Handelsgesetzbuchs zu prüfen. Der Abschlussprüfer ist
-auf Vorschlag der FMSA durch das Bundesministerium der Finanzen zu
-bestellen. Vor der Bestellung des Abschlussprüfers ist das
-Einvernehmen mit dem Bundesrechnungshof herzustellen. § 109 Absatz 2
-der Bundeshaushaltsordnung bleibt unberührt. Die Rechnung und die
-Haushalts- und Wirtschaftsführung der FMSA werden vom Abschlussprüfer
-geprüft. Die Entlastung des Leitungsausschusses erfolgt durch den
-Lenkungsausschuss im Einvernehmen mit dem Bundesministerium der
-Finanzen.
-
-(5) Die FMSA stellt für den Fonds und den Restrukturierungsfonds am
-Schluss eines jeden Rechnungsjahres jeweils voneinander getrennt den
-Entwurf der Haushaltsrechnung nach der Bundeshaushaltsordnung sowie
-den Entwurf der Vermögensrechnung (Bilanz und Gewinn- und
-Verlustrechnung nach den Vorschriften des Handelsgesetzbuchs) auf. Das
-Bundesministerium der Finanzen stellt auf Basis dieser Entwürfe die
-Jahresrechnung für den Fonds sowie die Haushalts- und
-Vermögensrechnung für den Restrukturierungsfonds auf, die als Anhang
-der Haushaltsrechnung des Bundes beizufügen sind. Die FMSA stellt
-ferner für den Fonds und den Restrukturierungsfonds innerhalb der
-ersten vier Monate nach Abschluss eines Geschäftsjahres jeweils
-voneinander getrennt einen Jahresabschluss und Lagebericht nach den
-für große Kapitalgesellschaften geltenden Vorschriften des
-Handelsgesetzbuchs auf. Eine Konzernrechnungslegungspflicht besteht
-nicht. Das Publizitätsgesetz ist nicht anzuwenden. Offenlegung und
-Transparenz sind gegenüber dem Bundesministerium der Finanzen, dem
-Gremium nach § 10a des Finanzmarktstabilisierungsfondsgesetzes sowie
-dem Gremium nach § 16 des Restrukturierungsfondsgesetzes zu
-gewährleisten. Der Jahresabschluss für den Fonds und der
-Jahresabschluss für den Restrukturierungsfonds sind vom
-Leitungsausschuss zu genehmigen. Die Jahresabschlüsse und Lageberichte
-sind vom Abschlussprüfer nach den Vorschriften des Handelsgesetzbuchs
-zu prüfen. Der Abschlussprüfer ist auf Vorschlag der FMSA durch das
-Bundesministerium der Finanzen zu bestellen. Vor der Bestellung des
-Abschlussprüfers ist das Einvernehmen mit dem Bundesrechnungshof
-herzustellen. Teil V sowie § 114 der Bundeshaushaltsordnung bleiben
-unberührt. Nach der Entlastung der Bundesregierung durch Bundestag und
-Bundesrat erfolgt die Entlastung des Leitungsausschusses durch den
-Lenkungsausschuss im Einvernehmen mit dem Bundesministerium der
-Finanzen.
-
-(6) Weitergehende Anforderungen zur jeweiligen Darstellung der
-Vermögenssituation der FMSA, des Fonds sowie des
-Restrukturierungsfonds können durch Weisung des Bundesministeriums der
-Finanzen erfolgen; die Absätze 4 und 5 bleiben unberührt.
-
-(7) Die FMSA nutzt für die Abwicklung ihres Zahlungsverkehrs das
-Kassensystem des Bundes. Liquide Mittel der FMSA verbleiben im
-Kassensystem des Bundes. Einzelheiten regeln die
-Wirtschaftsführungsbestimmungen und besondere Vereinbarungen zwischen
-der FMSA und dem Bundesministerium der Finanzen.
-
-(8) Die FMSA richtet eine Innenrevision ein.
-
-(9) Die Haushalts- und Wirtschaftsführung der FMSA unterliegt nach §
-111 der Bundeshaushaltsordnung der Prüfung durch den
-Bundesrechnungshof. Darüber hinaus prüft der Bundesrechnungshof die
-Haushalts- und Wirtschaftsführung des Fonds sowie des
-Restrukturierungsfonds gemäß § 113 der Bundeshaushaltsordnung.
+(4) Die FMSA erhält nach Maßgabe des
+Finanzmarktstabilisierungsfondsgesetzes eine Zahlung aus dem
+Bundeshaushalt. Die Finanzagentur stellt im Rahmen der Trägerschaft
+der FMSA die erforderlichen Sachmittel zur Verfügung.
 

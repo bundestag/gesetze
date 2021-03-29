@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen
+Title: Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen
   Dienst in der allgemeinen und inneren Verwaltung des Bundes
 jurabk: GntDAIVAPrV
 layout: default
@@ -8,13 +8,16 @@ slug: gntdaivaprv
 
 ---
 
-# Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes (GntDAIVAPrV)
+# Verordnung über den Vorbereitungsdienst für den gehobenen nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des Bundes (GntDAIVAPrV)
 
 Ausfertigungsdatum
 :   2010-08-11
 
 Fundstelle
 :   BGBl I: 2010, 1214
+
+Zuletzt geändert durch
+:   Art. 14 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -30,10 +33,14 @@ verordnet das Bundesministerium des Innern:
 
 ### § 1 Diplomstudium
 
-Der Diplom-Studiengang „Verwaltungsmanagement“ an der Fachhochschule
-des Bundes für öffentliche Verwaltung (Fachhochschule) ist der
-Vorbereitungsdienst für die Laufbahn des gehobenen nichttechnischen
-Dienstes in der allgemeinen und inneren Verwaltung des Bundes.
+(1) Der Diplom-Studiengang „Verwaltungsmanagement“ an der
+Fachhochschule des Bundes für öffentliche Verwaltung (Fachhochschule)
+ist der Vorbereitungsdienst für die Laufbahn des gehobenen
+nichttechnischen Dienstes in der allgemeinen und inneren Verwaltung
+des Bundes.
+
+(2) Der Diplom-Studiengang wird als Präsenzstudiengang und als
+Fernstudiengang angeboten.
 
 
 ### § 2 Ziele des Studiums
@@ -50,28 +57,39 @@ sollen ihre Kompetenzen weiterentwickeln, um den sich ständig
 wandelnden Herausforderungen der Bundesverwaltung gerecht zu werden.
 
 
-### § 3 Dienstbehörden
+### § 3 Dienstbehörden; Freistellung
 
-(1) Die Fachhochschule ist als Einstellungsbehörde der Studierenden
-für die dienstrechtlichen Entscheidungen zuständig.
+(1) Im Präsenzstudiengang ist die Fachhochschule als
+Einstellungsbehörde der Studierenden für die dienstrechtlichen
+Entscheidungen zuständig. Während der berufspraktischen Studienzeiten
+in den Ausbildungsbehörden des Bundes unterstehen die Studierenden
+neben der Dienstaufsicht der Präsidentin oder des Präsidenten der
+Fachhochschule auch der Dienstaufsicht der Leitungen der
+Ausbildungsbehörden.
 
-(2) Während der berufspraktischen Studienzeiten in den
-Ausbildungsbehörden des Bundes unterstehen die Studierenden neben der
-Dienstaufsicht der Präsidentin oder des Präsidenten der Fachhochschule
-auch der Dienstaufsicht der Leitungen dieser Behörden.
+(2) Im Fernstudiengang verbleiben die Studierenden bei ihren
+bisherigen Dienststellen. Sie sind für den Besuch der
+Präsenzveranstaltungen, für die Teilnahme an Prüfungen und im Rahmen
+weiterer Anwesenheitspflichten an der Fachhochschule von ihren
+sonstigen Dienstpflichten freizustellen. Für die Anfertigung der
+Diplomarbeit ist ihnen eine Dienstbefreiung im Umfang von sechs Wochen
+zu gewähren. Zum Fern- und Selbststudium ist ihnen eine
+Dienstbefreiung im Umfang von 47 Arbeitstagen pro Studienabschnitt zu
+gewähren, die gleichmäßig auf die Module verteilt werden soll.
 
 
 ### § 4 Auswahlverfahren
 
-(1) Über die Einstellung entscheidet die Fachhochschule auf der
-Grundlage eines Auswahlverfahrens, in dem festgestellt wird, ob die
+(1) Über die Zulassung zum Präsenzstudiengang und über die Zulassung
+zum Fernstudiengang entscheidet jeweils die Fachhochschule auf der
+Grundlage eines Auswahlverfahrens. In diesem wird festgestellt, ob die
 Bewerberinnen und Bewerber nach ihren Kenntnissen, Fähigkeiten und
 persönlichen Eigenschaften für den gehobenen nichttechnischen
-Verwaltungsdienst geeignet sind. Das Auswahlverfahren wird an der
-Fachhochschule von einer Auswahlkommission durchgeführt. Es besteht
-aus einem schriftlichen und einem mündlichen Teil. Das
-Bundesministerium des Innern entscheidet über Ausnahmen von der
-Zuständigkeit nach Satz 1.
+Verwaltungsdienst geeignet sind. § 36 der Bundeslaufbahnverordnung
+bleibt unberührt. Das Auswahlverfahren wird an der Fachhochschule von
+einer Auswahlkommission durchgeführt. Es besteht aus einem
+schriftlichen und einem mündlichen Teil. Das Bundesministerium des
+Innern entscheidet über Ausnahmen von der Zuständigkeit nach Satz 1.
 
 (2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten
 Unterlagen die in der Ausschreibung bestimmten Voraussetzungen
@@ -85,7 +103,8 @@ sowie ehemalige Soldatinnen auf Zeit und Soldaten auf Zeit mit
 Eingliederungs- oder Zulassungsschein zum Auswahlverfahren zugelassen,
 wenn sie die in der Ausschreibung genannten Voraussetzungen erfüllen.
 Die §§ 7 und 8 des Bundesgleichstellungsgesetzes sind zu
-berücksichtigen.
+berücksichtigen. Das Nähere zu den Kriterien und zum Verfahren der
+Auswahl regelt die Auswahlverfahrensrichtlinie.
 
 (3) Wer zum Auswahlverfahren nicht zugelassen wird oder daran
 erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung.
@@ -93,7 +112,8 @@ erfolglos teilgenommen hat, erhält eine schriftliche Mitteilung.
 (4) Die Auswahlkommission besteht aus:
 
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
-    Verwaltungsdienstes des Bundes als Vorsitzenden oder Vorsitzendem,
+    Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der
+    Fachhochschule als Vorsitzender oder Vorsitzendem,
 
 
 2.  einer Beamtin oder eines Beamten des höheren nichttechnischen
@@ -123,9 +143,9 @@ angelegt werden.
 
 ### § 5 Urlaub
 
-Die Fachhochschule bestimmt die Zeiten des Erholungsurlaubs. Er ist
-auf die Fachstudien und die berufspraktischen Studienzeiten
-gleichmäßig zu verteilen.
+Für den Präsenzstudiengang bestimmt die Fachhochschule die Zeiten des
+Erholungsurlaubs. Er ist auf die Fachstudien und die berufspraktischen
+Studienzeiten gleichmäßig zu verteilen.
 
 
 ## Abschnitt 2 - Studienordnung
@@ -135,12 +155,14 @@ gleichmäßig zu verteilen.
 
 (1) Das Studium dauert in der Regel drei Jahre. Es umfasst Fachstudien
 an der Fachhochschule sowie berufspraktische Studienzeiten (Praktika)
-in Bundesbehörden.
+in Bundesbehörden. Praktika können auch im Ausland bei geeigneten
+Ausbildungsstätten absolviert werden. Das Nähere regelt die
+Praktikumsordnung des Fachbereichs Allgemeine Innere Verwaltung.
 
 (2) Die Dauer der Fachstudien beträgt insgesamt mindestens 2 200
 Lehrstunden.
 
-(3) Das Studium gliedert sich in folgende Studienabschnitte:
+(3) Der Präsenzstudiengang gliedert sich in folgende Semester:
 
 1.  Semester: Grundstudium,
 
@@ -162,152 +184,93 @@ Lehrstunden.
 
 
 
-(4) Je Semester erwerben die Studierenden 30 Leistungspunkte (Credit
-Points) nach dem Europäischen System zur Übertragung und Akkumulierung
-von Studienleistungen (ECTS). Die Leistungspunkte je Modul ergeben
-sich aus dem Modulhandbuch.
+(4) Der Fernstudiengang gliedert sich in folgende Studienabschnitte:
+
+1.  einen Fachstudienabschnitt als Grundstudium sowie
+
+
+2.  drei Fachstudienabschnitte und zwei hierzu parallel stattfindende
+    Praktikumsabschnitte im Hauptstudium.
+
+
+
+
+(5) Je Semester im Präsenzstudiengang oder je Studienabschnitt im
+Fernstudiengang können die Studierenden bis zu 30 Leistungspunkte
+(Credit Points) nach dem Europäischen System zur Übertragung und
+Akkumulierung von Studienleistungen (ECTS) erwerben. Die Anzahl der
+Leistungspunkte, die für jedes erfolgreich absolvierte Modul erreicht
+werden können, ergibt sich aus dem Modulhandbuch in der jeweils bei
+Aufnahme des Studiums geltenden Fassung entsprechend § 7 Absatz 1 Satz
+2\.
 
 
 ### § 7 Studieninhalte, Module
 
-(1) Die Studieninhalte werden in interdisziplinären Modulen
-vermittelt.
+(1) Die Studieninhalte werden in Modulen vermittelt. Die Inhalte der
+Module richten sich nach dem Modulhandbuch in der jeweils bei Aufnahme
+des Studiums geltenden Fassung. Es sind alle Module zu absolvieren.
 
-(2) Die Module verteilen sich wie folgt auf die Studienabschnitte:
+(2) Im Grundstudium sind Module in den folgenden Kompetenzbereichen zu
+absolvieren:
 
-1.  Grundstudium
+1.  Staatsrechtliche und politische Grundlagen des Verwaltungshandelns,
 
 
+2.  Rechtliche Grundlagen des Verwaltungshandelns,
 
 
-Modul 1: Staatsrechtliche und politische Grundlagen des Verwaltungshandelns
+3.  Volks- und finanzwirtschaftliche Grundlagen des Verwaltungshandelns,
 
 
-Modul 2: Rechtliche Grundlagen des Verwaltungshandelns (I)
+4.  Betriebswirtschaftliche Grundlagen des Verwaltungshandelns,
+    Organisation und Informationsverarbeitung,
 
 
-Modul 3: Volks- und finanzwirtschaftliche Grundlagen des Verwaltungshandelns
+5.  Sozialwissenschaftliche Grundlagen des Verwaltungshandelns und
+    Englisch.
 
 
-Modul 4: Betriebswirtschaftliche Grundlagen des Verwaltungshandelns,
-    Organisation und Informationsverarbeitung
 
 
-Modul 5: Sozialwissenschaftliche Grundlagen des Verwaltungshandelns
-    (Psychologie, Soziologie, Pädagogik) und Englisch
+(3) Im Hauptstudium sind Module in den folgenden Kompetenzbereichen zu
+absolvieren:
 
+1.  Verfassungsrechtliche und europarechtliche Rahmenbedingungen der
+    Bundesverwaltung,
 
 
+2.  Öffentlich-rechtliches Handeln in der Bundesverwaltung,
 
-2.  Hauptstudium I
 
+3.  Privatrechtliches Handeln in der Bundesverwaltung,
 
 
+4.  Betriebswirtschaft in der Bundesverwaltung,
 
-Modul 6: Staat und Europa (I)
 
+5.  Finanzen in der Bundesverwaltung,
 
-Modul 7: Rechtliche Grundlagen des Verwaltungshandelns (II)
 
+6.  Personal in der Bundesverwaltung,
 
-Modul 8: Ökonomisches Verwaltungshandeln
 
+7.  Interkulturelles Handeln in der Bundesverwaltung.
 
-Modul 9: Steuernde Verwaltung (I)
 
 
-Modul 10: Arbeit und Personal in der allgemeinen und inneren Verwaltung des
-    Bundes (I)
 
-
-Modul 11: Wahlpflichtbereich
-
-
-
-
-3.  Praktikum I
-
-
-
-
-Modul 12: Berufspraktische Studienzeiten (I)
-
-
-
-
-4.  Hauptstudium II
-
-
-
-
-Modul 13: Staat und Europa (II)
-
-
-Modul 14: Rechtliche Grundlagen des Verwaltungshandelns (III)
-
-
-Modul 15: Ökonomische Verwaltungsentscheidungen
-
-
-Modul 16: Steuernde Verwaltung (II)
-
-
-Modul 17: Arbeit und Personal in der allgemeinen und inneren Verwaltung des
-    Bundes (II)
-
-
-Modul 18: Wahlpflichtbereich
-
-
-
-
-5.  Praktikum II
-
-
-
-
-Modul 19: Berufspraktische Studienzeiten (II)
-
-
-
-
-6.  Hauptstudium III
-
-
-
-
-Modul 20: Staat und Europa (III)
-
-
-Modul 21: Rechtliche Grundlagen des Verwaltungshandelns (IV)
-
-
-Modul 22: Steuernde Verwaltung (III)
-
-
-
-
-(3) Die Studierenden müssen aus den Angeboten für die
-Wahlpflichtbereiche in den Modulen 11 und 18 jeweils eine
-Lehrveranstaltung mit einem rechtswissenschaftlichen, einem
-wirtschaftswissenschaftlichen und einem fremdsprachlichen Schwerpunkt
-wählen.
-
-(4) Der Studienverlauf und die Inhalte der Module richten sich nach
-dem Modulhandbuch für den Diplom-Studiengang „Verwaltungsmanagement“
-der Fachhochschule. Die Module sind Gegenstand eines systematischen
-Qualitätsmanagements und werden regelmäßig evaluiert.
-
-(5) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
+(4) Die Teilnahme an den Lehrveranstaltungen ist verpflichtend.
 
 
 ### § 8 Berufspraktische Studienzeiten
 
 (1) Die Fachhochschule bestimmt und überwacht die Gestaltung und die
-Organisation der berufspraktischen Studienzeiten in den Modulen 12 und
-19\. Sie erstellt für jede Studierende und jeden Studierenden einen
-Ausbildungsplan und gibt ihn der oder dem Studierenden bekannt.
-Einzelheiten regelt die Praktikumsordnung der Fachhochschule.
+Organisation der Praktika. Die Praktikumsstelle erstellt in Abstimmung
+mit der Fachhochschule für jede Studierende und jeden Studierenden
+einen Ausbildungsplan für das Praktikum und gibt ihn der oder dem
+Studierenden bekannt. Einzelheiten regelt die Praktikumsordnung der
+Fachhochschule.
 
 (2) Jede Ausbildungsbehörde bestellt im Benehmen mit der
 Fachhochschule eine Beamtin oder einen Beamten als
@@ -333,25 +296,50 @@ Studierenden zu besprechen.
 
 ### § 9 Laufbahnprüfung
 
-Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus der
-Zwischenprüfung, den Modulprüfungen in den Modulen 5 bis 22, der
-Diplomarbeit und der mündlichen Abschlussprüfung.
+Die Diplomprüfung ist die Laufbahnprüfung. Sie besteht aus
+
+1.  der Zwischenprüfung,
+
+
+2.  der Prüfung in dem Modul „Sozialwissenschaftliche Grundlagen des
+    Verwaltungshandelns“,
+
+
+3.  den Modulprüfungen des Hauptstudiums,
+
+
+4.  der Diplomarbeit und
+
+
+5.  der mündlichen Abschlussprüfung.
+
+
+
 
 
 ### § 10 Prüfungsamt
 
-Für die Organisation und Durchführung der Laufbahnprüfung richtet die
-Fachhochschule ein Prüfungsamt ein.
+(1) Für die Organisation und Durchführung der Laufbahnprüfung richtet
+die Fachhochschule ein Prüfungsamt ein.
+
+(2) Das Prüfungsamt hat sicherzustellen, dass die jeweils
+aufsichtführende Person bei den schriftlichen und mündlichen Prüfungen
+eine Niederschrift erstellt. In der Niederschrift über die mündliche
+Prüfung ist die Bewertung anhand der ausschlaggebenden Punkte zu
+begründen.
+
+(3) Prüfungstermine soll das Prüfungsamt zu Beginn eines Semesters
+oder Studienabschnittes zusammen mit dem Fachbereich nach den
+Erfordernissen von Prüfungsrecht und Lehre festlegen.
 
 
-### § 11 Prüfende, Prüfungskommissionen
+### § 11 Prüfende, Prüfungskommission
 
 (1) Das Prüfungsamt bestellt Prüfende für die Bewertung der
 fachtheoretischen Modulprüfungen und der Diplomarbeit. Es richtet für
-die Zwischenprüfung und die mündliche Abschlussprüfung
-Prüfungskommissionen ein und bestellt deren Mitglieder und
-Ersatzmitglieder. Die Prüfenden sind in ihren Prüfungsentscheidungen
-unabhängig und nicht weisungsgebunden.
+die mündliche Abschlussprüfung Prüfungskommissionen ein und bestellt
+deren Mitglieder und Ersatzmitglieder. Die Prüfenden sind in ihren
+Prüfungsentscheidungen unabhängig und nicht weisungsgebunden.
 
 (2) Werden für eine Prüfung oder einen Prüfungsteil zwei Prüfende
 bestellt, legt das Prüfungsamt fest, wer Erstprüferin oder Erstprüfer
@@ -360,124 +348,134 @@ unabhängig voneinander die Prüfung oder den Prüfungsteil. Die
 Zweitprüferin oder der Zweitprüfer darf Kenntnis von der Bewertung der
 Erstprüferin oder des Erstprüfers haben.
 
-(3) Zur Bewertung der Klausuren der Zwischenprüfung wird vom
-Prüfungsamt eine Prüfungskommission eingesetzt. Die Prüfungskommission
-besteht aus mindestens drei Lehrkräften der Fachhochschule, von denen
-eine hauptamtliche Lehrkraft den Vorsitz führt.
+(3) Zur Bewertung der Zwischenprüfung wird vom Prüfungsamt für jede
+Klausur eine Prüferin oder ein Prüfer bestellt. Für zu wiederholende
+Klausuren werden zwei Prüfende bestellt, von denen eine oder einer
+eine hauptamtliche Lehrkraft der Fachhochschule sein muss.
 
-(4) Für eine Modulprüfung wird grundsätzlich eine Prüferin oder ein
-Prüfer bestellt. Die Prüfung in den Modulen des Hauptstudiums erfolgt
-durch eine Lehrkraft des Fachbereichs Allgemeine Innere Verwaltung.
-Für die Bewertung der Klausuren mit einer Bearbeitungszeit von 240
-Minuten und der zu wiederholenden Modulprüfungen werden jeweils zwei
-Prüfende bestellt. Die Prüfenden sollen Lehrkräfte der Fachhochschule
-sein. Für die Bewertung der Modulprüfungen in den berufspraktischen
-Studienzeiten sollen Beamtinnen und Beamte des höheren oder gehobenen
-nichttechnischen Verwaltungsdienstes als Prüfende bestellt werden. Zur
-Prüferin oder zum Prüfer kann auch eine Tarifbeschäftigte oder ein
-Tarifbeschäftigter bestellt werden, sofern sie oder er über
-vergleichbare einschlägige Kenntnisse verfügt.
+(4) Zur Bewertung einer Modulprüfung wird vom Prüfungsamt im Benehmen
+mit dem Fachbereich eine Prüferin oder ein Prüfer bestellt. Zur
+Bewertung von Klausuren mit einer Bearbeitungszeit von 240 Minuten und
+zur Bewertung von zu wiederholenden Modulprüfungen werden jeweils zwei
+Prüfende bestellt, von denen eine oder einer eine hauptamtliche
+Lehrkraft der Fachhochschule sein muss.
 
-(5) Für die Bewertung der Diplomarbeit werden zwei Angehörige des
-höheren oder gehobenen nichttechnischen Verwaltungsdienstes als
-Prüfende bestellt. Zur Prüferin oder zum Prüfer kann auch eine
-Tarifbeschäftigte oder ein Tarifbeschäftigter bestellt werden, sofern
-sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Die
-Prüfenden werden bestellt, sobald das Thema der Diplomarbeit
+(5) Für die Bewertung der Diplomarbeit werden vom Prüfungsamt zwei
+Prüfende bestellt, wobei
+
+1.  mindestens eine Prüfende oder ein Prüfender dem höheren Dienst
+    angehört,
+
+
+2.  die oder der andere Prüfende mindestens dem gehobenen nichttechnischen
+    Verwaltungsdienst angehört und
+
+
+3.  mindestens eine Prüfende oder ein Prüfender eine Lehrkraft der
+    Fachhochschule ist.
+
+
+
+Die Prüfenden werden bestellt, sobald das Thema der Diplomarbeit
 ausgegeben worden ist.
 
-(6) Eine Prüfungskommission für die mündliche Abschlussprüfung besteht
-aus:
+(6) Für die mündliche Abschlussprüfung richtet das Prüfungsamt eine
+Prüfungskommission ein. Diese besteht aus
 
 1.  einer Beamtin oder einem Beamten des höheren nichttechnischen
-    Verwaltungsdienstes als Vorsitzenden oder Vorsitzendem,
+    Verwaltungsdienstes des Bundes oder einer hauptamtlichen Lehrkraft der
+    Fachhochschule als Vorsitzender oder Vorsitzendem,
 
 
 2.  einer Beamtin oder einem Beamten des höheren Dienstes als Beisitzerin
     oder Beisitzer und Vertretung der oder des Vorsitzenden und
 
 
-3.  drei weiteren Beamtinnen und Beamten des gehobenen oder höheren
+3.  drei weiteren Beamtinnen oder Beamten des gehobenen oder höheren
     Dienstes als Beisitzenden, von denen mindestens eine Beamtin oder ein
-    Beamter dem gehobenen oder dem höheren nichttechnischen
-    Verwaltungsdienst des Bundes angehört.
+    Beamter dem gehobenen oder höheren nichttechnischen Verwaltungsdienst
+    des Bundes angehört.
 
 
 
-Zur Prüferin oder zum Prüfer nach Nummer 3 kann auch eine
-Tarifbeschäftigte oder ein Tarifbeschäftigter bestellt werden, sofern
-sie oder er über vergleichbare einschlägige Kenntnisse verfügt. Zwei
-Mitglieder der Prüfungskommission sollen Lehrkräfte der Fachhochschule
-sein. Ein Mitglied der Kommission soll Prüferin oder Prüfer der
-Diplomarbeit sein. Die Mitglieder und Ersatzmitglieder werden für
-höchstens drei Jahre bestellt. Wiederbestellung ist zulässig. Die
-Spitzenorganisationen der Gewerkschaften und die Berufsverbände des
-öffentlichen Dienstes können geeignete Personen vorschlagen. Die
-Prüfungskommission ist beschlussfähig, wenn mindestens vier Mitglieder
-anwesend sind. Sie entscheidet mit Stimmenmehrheit. Eine
+Prüfende können auch Tarifbeschäftigte sein, sofern sie über eine
+entsprechende Qualifikation verfügen. Zwei Mitglieder der
+Prüfungskommission sollen Lehrkräfte der Fachhochschule sein.
+
+(7) Die Prüfungskommission ist beschlussfähig, wenn mindestens vier
+Mitglieder anwesend sind. Sie entscheidet mit Stimmenmehrheit.
 Stimmenthaltung ist nicht zulässig. Bei Stimmengleichheit gibt die
 Stimme der oder des Vorsitzenden den Ausschlag.
 
-(7) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die
+(8) Es können mehrere Prüfungskommissionen eingesetzt werden, wenn die
 Zahl der Studierenden dies erfordert. Das Prüfungsamt gewährleistet
 die gleichmäßige Anwendung der Bewertungsmaßstäbe.
 
 
-### § 12 Modulprüfungen
+### § 12 Modulprüfungen im Hauptstudium
 
-(1) In jedem Modul ist eine Prüfung abzulegen.
+(1) In jedem Modul des Hauptstudiums ist eine Prüfung abzulegen.
 
-(2) Modulprüfungen in den Fachstudien werden durchgeführt in Form von:
+(2) Modulprüfungen in den Fachstudien werden als Klausur mit einer
+Bearbeitungszeit von 240 Minuten oder als sonstiger Leistungstest
+durchgeführt. Eine Modulprüfung kann aus mehreren Prüfungsteilen
+bestehen.
 
-1.  Klausuren, davon mindestens drei Klausuren mit jeweils einer
-    Bearbeitungszeit von 240 Minuten während des Hauptstudiums,
+(3) Sechs Module der Kompetenzbereiche 1 bis 6 (§ 7 Absatz 3) werden
+jeweils mit einer Klausur mit einer Bearbeitungszeit von 240 Minuten
+abgeschlossen.
 
+(4) In den übrigen Modulen der Fachstudien wird nach Ermessen der
+Lehrkraft einer der folgenden Leistungstests durchgeführt:
 
-2.  Präsentationen und
-
-
-3.  Hausarbeiten.
-
-
-
-Eine Modulprüfung kann aus mehreren Prüfungsteilen bestehen.
-
-(3) Klausuren sind schriftliche Arbeiten, die unter Aufsicht zu
-fertigen sind. Dabei sind innerhalb einer vorgeschriebenen Zeit
-studienfachspezifische oder studienfachübergreifende Aufgaben zu
-bearbeiten. Die Klausuren mit einer Bearbeitungszeit von 240 Minuten
-werden anstelle des Namens mit einer Kennziffer versehen. Das
-Prüfungsamt wählt aus den Vorschlägen der hauptamtlichen Lehrkräfte
-des Fachbereichs Allgemeine Innere Verwaltung der Fachhochschule die
-Aufgaben für die Klausuren des Hauptstudiums aus und legt die Termine
-für die Prüfungen und Wiederholungen fest.
-
-(4) In den Präsentationen befassen sich die Studierenden in freier
-Rede und mit der Hilfe moderner Präsentationstechniken mit einem Thema
-aus dem Gebiet des jeweiligen Moduls. Sie setzen sich dabei mit den
-einschlägigen Quellen auseinander und werten diese aus.
-Gruppenleistungen sind zulässig, wenn die einzelnen Beiträge
-voneinander abgegrenzt und individuell bewertet werden können.
-
-(5) Hausarbeiten sind vertiefende schriftliche Ausarbeitungen zu
-modulspezifischen Themenstellungen.
-
-(6) Modulprüfungen in den berufspraktischen Studienzeiten bestehen
-jeweils aus einem Praktikumsbericht sowie aus einer Präsentation im
-Praktikum I und aus einer schriftlichen Ausarbeitung im Praktikum II.
-Daneben fließt in die Bewertung des Moduls auch die
-Praktikumsbeurteilung ein.
+1.  eine Klausur mit einer Bearbeitungszeit von 120 oder 180 Minuten,
 
 
-### § 13 Zwischenprüfung
+2.  eine Präsentation,
 
-(1) Das Grundstudium wird mit der Zwischenprüfung abgeschlossen.
 
-(2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den Modulen
-1 bis 4, die in Form von Klausuren mit einer Bearbeitungszeit von
-jeweils 180 Minuten durchgeführt werden. Der Dekan wählt aus den
-Vorschlägen zu den Themenbereichen des Grundstudiums die
-Klausuraufgaben für die Zwischenprüfung aus.
+3.  eine Hausarbeit,
+
+
+4.  ein Sprachtest,
+
+
+5.  ein Lehrveranstaltungsprotokoll,
+
+
+6.  eine mündliche Prüfung oder
+
+
+7.  ein Kurzvortrag.
+
+
+
+
+(5) Die Klausuren sind anstelle des Namens mit einer Kennziffer zu
+versehen.
+
+(6) Im Modul „Diplomarbeit“ stellt die Anfertigung der Diplomarbeit
+die Prüfung dar.
+
+(7) Modulprüfungen in den Praktika bestehen aus einem
+Praktikumsbericht und einem Rundgespräch. Daneben fließt in die
+Bewertung des Moduls auch die Praktikumsbeurteilung nach § 8 Absatz 4
+ein. Einzelheiten regelt die Praktikumsordnung des Fachbereichs
+Allgemeine Innere Verwaltung.
+
+
+### § 13 Prüfungen im Grundstudium
+
+(1) Das Grundstudium wird mit der Zwischenprüfung und der Prüfung im
+Modul „Sozialwissenschaftliche Grundlagen des Verwaltungshandelns“
+abgeschlossen.
+
+(2) Die Zwischenprüfung besteht aus den Modulprüfungen zu den übrigen
+Modulen des Grundstudiums. Die Modulprüfungen werden als Klausuren mit
+einer Bearbeitungszeit von jeweils 180 Minuten durchgeführt. Die
+Dekanin oder der Dekan des Zentralbereichs wählt aus den Vorschlägen
+der Lehrkräfte die Klausuraufgaben aus. Die Klausuren sind anstelle
+des Namens mit einer Kennziffer zu versehen.
 
 (3) Die Zwischenprüfung ist bestanden, wenn drei Klausuren mindestens
 mit der Note „ausreichend“ bewertet worden sind und wenn insgesamt in
@@ -494,37 +492,43 @@ Studienleistungen, aus der hervorgeht, welche Module absolviert
 wurden, wie sie bewertet wurden und wie viele Leistungspunkte erworben
 wurden.
 
+(5) Für die Prüfung im Modul „Sozialwissenschaftliche Grundlagen des
+Verwaltungshandelns“ gilt § 12 Absatz 4 entsprechend.
+
 
 ### § 14 Diplomarbeit
 
 (1) Durch die Diplomarbeit sollen die Studierenden nachweisen, dass
 sie fähig sind, innerhalb einer vorgegebenen Frist eine für die
 Studienziele relevante Problemstellung mit wissenschaftlichen Methoden
-selbstständig zu bearbeiten. Das Thema der Diplomarbeit wird
-studienbegleitend in Modul 19 ausgegeben. Die Bearbeitungszeit beträgt
-acht Wochen. Die Studierenden werden zur Erstellung der Diplomarbeit
-während des Hauptstudiums III für sechs Wochen von der Teilnahme an
-Lehrveranstaltungen freigestellt.
+selbstständig zu bearbeiten. Die Bearbeitungszeit beträgt acht Wochen.
+Die Studierenden werden zur Anfertigung der Diplomarbeit für sechs
+Wochen von der Teilnahme an Lehrveranstaltungen und von ihren
+sonstigen Dienstpflichten freigestellt.
 
 (2) Das Thema der Diplomarbeit wird vom Prüfungsamt auf Vorschlag
 einer hauptamtlichen Lehrkraft ausgegeben. Den Studierenden ist im
 Hauptstudium II die Gelegenheit zu geben, eigene Themenvorschläge zu
 unterbreiten. Abweichend von Satz 1 können aus dienstlichen Gründen
 auch Vorschläge von nebenamtlichen Lehrkräften der Fachhochschule
-sowie von Dienstbehörden zugelassen werden. Die Ausgabe des Themas ist
-aktenkundig zu machen. Das Thema der Diplomarbeit kann nicht
-zurückgegeben oder geändert werden.
+sowie von Dienstbehörden zugelassen werden. Das Thema der Diplomarbeit
+kann nicht zurückgegeben werden; es kann nur im Ausnahmefall und in
+Abstimmung mit den Erst- und Zweitprüfenden durch das Prüfungsamt
+geändert werden. Das Thema der Diplomarbeit kann nicht zurückgegeben
+oder geändert werden.
 
 (3) Die Diplomarbeit ist formal und inhaltlich nach den Vorgaben des
-Prüfungsamtes zu erstellen. Bei der Anfertigung der Diplomarbeit
-werden die Studierenden von der Erstprüferin oder dem Erstprüfer
-betreut.
+Fachbereichs Allgemeine Innere Verwaltung zu erstellen. Bei der
+Anfertigung der Diplomarbeit werden die Studierenden von der oder dem
+Erstprüfenden und der oder dem Zweitprüfenden betreut.
 
 (4) Der Abgabetermin wird vom Prüfungsamt festgelegt. Die Abgabe beim
 Prüfungsamt ist aktenkundig zu machen. Bei der Abgabe müssen die
 Studierenden schriftlich versichern, dass sie die Diplomarbeit
 selbstständig und ohne fremde Mitwirkung verfasst und nur die
-angegebenen Quellen und Hilfsmittel benutzt haben.
+angegebenen Quellen und Hilfsmittel benutzt haben. Sofern die
+Diplomarbeit elektronisch übermittelt werden kann, kann die
+Versicherung auch elektronisch abgegeben werden.
 
 (5) Die Lehrkraft, die das Thema der Diplomarbeit vorgeschlagen hat,
 ist Erstprüferin oder Erstprüfer der Diplomarbeit. Ist das Thema von
@@ -537,43 +541,25 @@ nicht überschreiten.
 ### § 15 Mündliche Abschlussprüfung
 
 (1) Zur mündlichen Abschlussprüfung wird zugelassen, wer die
-Zwischenprüfung, die Modulprüfungen der Module 5 bis 22 sowie die
-Diplomarbeit bestanden hat. Die mündliche Abschlussprüfung besteht
-aus:
+Zwischenprüfung, die Modulprüfungen des Hauptstudiums und die
+Diplomarbeit bestanden hat.
 
-1.  einer 15-minütigen Präsentation der Diplomarbeit und
-
-
-2.  einer interdisziplinären Prüfung, deren Dauer 30 Minuten nicht
-    unterschreiten und 40 Minuten nicht überschreiten soll.
-
-
-
-
-(2) Durch die Präsentation der Diplomarbeit sollen die Studierenden
-nachweisen, dass sie gesichertes Wissen auf den bearbeiteten
-Themengebieten besitzen und fähig sind, die angewendeten Methoden und
-erzielten Ergebnisse zu erläutern und zu begründen. Die Präsentation
-wird als Einzelprüfung durchgeführt.
+(2) Gegenstand der mündlichen Abschlussprüfung sollen gleichrangig die
+Kompetenzbereiche 1 bis 6 nach § 7 Absatz 3 sein. Die mündliche
+Abschlussprüfung soll nicht länger als 40 Minuten dauern.
 
 (3) In der interdisziplinären Prüfung sollen die Studierenden
 nachweisen, dass sie die Inhalte der absolvierten Module zueinander in
 Beziehung setzen können und dass ihre Kenntnisse und Fähigkeiten den
 Anforderungen an Beamtinnen und Beamte des gehobenen nichttechnischen
 Verwaltungsdienstes genügen. Die Prüfung soll als Gruppenprüfung
-durchgeführt werden. Eine Prüfungsgruppe soll aus vier Studierenden
-bestehen.
+durchgeführt werden. Eine Prüfungsgruppe soll aus höchstens fünf
+Studierenden bestehen.
 
-(4) Die Prüfungskommission bewertet die Leistungen. Für die Bewertung
-der mündlichen Abschlussprüfung werden berücksichtigt:
-
-1.  die Rangpunkte der Präsentation der Diplomarbeit mit 20 Prozent und
-
-
-2.  die Rangpunkte der interdisziplinären Prüfung mit 80 Prozent.
-
-
-
+(4) Die Prüfungskommission bewertet die Leistungen. Gegenstand,
+Verlauf und Ergebnis der Prüfung werden protokolliert. Das Protokoll
+ist von der oder dem Vorsitzenden der Prüfungskommission zu
+bestätigen.
 
 (5) Die Prüfung ist hochschulöffentlich, wenn die Studierenden nicht
 widersprechen. Angehörige des Prüfungsamtes können unabhängig vom
@@ -587,10 +573,8 @@ dürfen während der Prüfung keinerlei Aufzeichnungen machen. Bei den
 Beratungen der Prüfungskommission dürfen nur deren Mitglieder anwesend
 sein.
 
-(6) Gegenstand, Verlauf und Ergebnis der Prüfung werden protokolliert.
-Das Protokoll ist von der oder dem Vorsitzenden der Prüfungskommission
-zu unterschreiben. Die Prüfung muss bis zum Ende des
-Vorbereitungsdienstes abgeschlossen sein.
+(6) Die Prüfung muss bis zum Ende des Vorbereitungsdienstes
+abgeschlossen sein.
 
 
 ### § 16 Bewertung von Prüfungen und Prüfungsteilen
@@ -719,12 +703,9 @@ Rangpunkten bewertet ist.
 
 ### § 17 Fernbleiben, Rücktritt
 
-(1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, einer
-Klausur mit einer Bearbeitungszeit von 240 Minuten oder der mündlichen
-Abschlussprüfung ohne Genehmigung des Prüfungsamtes gilt die Prüfung
-als nicht bestanden. Bei Fernbleiben oder Rücktritt von den übrigen
-Prüfungen und Prüfungsteilen ohne Genehmigung der Fachbereichsleitung
-gilt Satz 1 entsprechend.
+(1) Bei Fernbleiben oder Rücktritt von der Zwischenprüfung, von einer
+Modulprüfung oder von der mündlichen Abschlussprüfung ohne Genehmigung
+des Prüfungsamtes gilt die Prüfung als mit null Rangpunkten bewertet.
 
 (2) Wird das Fernbleiben oder der Rücktritt genehmigt, gilt die
 Prüfung oder der Prüfungsteil als nicht begonnen. Die Genehmigung darf
@@ -735,8 +716,17 @@ Prüfungsamtes oder der Fachbereichsleitung ist ein amtsärztliches
 Zeugnis oder das Zeugnis einer Ärztin oder eines Arztes vorzulegen,
 die oder der von der Fachhochschule beauftragt worden ist.
 
+(3) Für die Anfertigung der Diplomarbeit gilt Absatz 2 entsprechend.
+Soweit die Verhinderung die Bearbeitungszeit der Diplomarbeit nicht um
+die Hälfte übersteigt, verlängert das Prüfungsamt die Bearbeitungszeit
+auf Antrag der oder des Studierenden entsprechend. Sind Studierende
+länger als die Hälfte der Bearbeitungszeit verhindert, gilt die
+Diplomarbeit als nicht begonnen. Wird die Diplomarbeit nicht innerhalb
+der vorgesehenen Frist abgegeben, gilt sie als mit null Punkten
+bewertet.
 
-### § 18 Täuschung, Ordnungsverstoß
+
+### § 18 Täuschung, Ordnungsverstoß, Störung
 
 (1) Studierenden, die bei einer Prüfung oder einem Prüfungsteil eine
 Täuschung versuchen oder daran mitwirken oder sonst gegen die Ordnung
@@ -768,10 +758,23 @@ mündlichen Abschlussprüfung für nicht bestanden erklären.
 (5) Die Betroffenen sind vor der Entscheidung nach den Absätzen 2 bis
 4 anzuhören.
 
+(6) Störungen der Prüfungen durch äußere Einwirkungen sind
+unverzüglich zu melden, spätestens jedoch bis zum Ende der jeweiligen
+Prüfung. Die Störungen sind zu melden bei
+
+1.  einer mündlichen oder schriftlichen Prüfung der aufsichtführenden
+    Person und
+
+
+2.  der Diplomarbeit dem Prüfungsamt.
+
+
+
+
 
 ### § 19 Wiederholung von Prüfungen
 
-(1) Eine nicht bestandene Modulprüfung kann innerhalb eines Monats
+(1) Eine nicht bestandene Modulprüfung kann innerhalb von sechs Wochen
 nach Bekanntgabe des Ergebnisses einmal wiederholt werden. Ist auch
 die Wiederholung erfolglos, ist das Studium beendet.
 
@@ -783,85 +786,103 @@ Wiederholung zulassen. Die Zwischenprüfung ist vollständig zu
 wiederholen. Die weitere Ausbildung wird wegen der Wiederholung der
 Prüfung nicht ausgesetzt. Absatz 1 Satz 2 gilt entsprechend.
 
-(3) Wenn die Diplomarbeit mit weniger als fünf Rangpunkten bewertet
-worden ist, kann sie einmal wiederholt werden. Das Prüfungsamt gibt
-ein neues Thema aus. Die Bearbeitungszeit für die Wiederholung der
-Diplomarbeit beginnt mit der Ausgabe des Themas. Absatz 1 Satz 2 gilt
-entsprechend. Während der achtwöchigen Bearbeitungszeit und der
-einmonatigen Korrekturzeit werden die Studierenden einer Dienststelle
-zugeteilt. Für die letzten sechs Wochen der Bearbeitungszeit sind sie
-vom Dienst freigestellt.
+(3) Wird die Diplomarbeit mit weniger als fünf Rangpunkten bewertet,
+kann sie einmal wiederholt werden. Die Bearbeitungszeit für die
+Wiederholung der Diplomarbeit beginnt mit der Ausgabe des Themas.
+Absatz 1 Satz 2 gilt entsprechend. Für die letzten sechs Wochen der
+Bearbeitungszeit sind diese Studierenden von Lehrveranstaltungen und
+von ihren sonstigen Dienstpflichten freizustellen.
 
-(4) Bei einer nicht bestandenen mündlichen Abschlussprüfung kann
-innerhalb von zwei Monaten nach Bekanntgabe des Ergebnisses der mit
-weniger als fünf Rangpunkten bewertete Teil einmal wiederholt werden.
-Sind beide Teile mit weniger als fünf Rangpunkten bewertet worden, ist
-die gesamte mündliche Abschlussprüfung zu wiederholen. Absatz 1 Satz 2
-gilt entsprechend.
+(4) Wird die mündliche Abschlussprüfung nicht bestanden, kann sie
+einmal wiederholt werden. Die Wiederholung soll spätestens zwei Monate
+nach Bekanntgabe des Ergebnisses der nichtbestandenen Prüfung
+stattfinden. Absatz 1 Satz 2 gilt entsprechend.
 
 (5) Eine bestandene Prüfung kann nicht wiederholt werden.
 
 
 ### § 20 Bestehen der Laufbahnprüfung, Gesamtnote
 
-(1) Die Laufbahnprüfung ist bestanden, wenn die Modulprüfungen der
-Module 5 bis 22 und die Diplomarbeit jeweils mit mindestens fünf
-Rangpunkten bewertet worden sind und in der Zwischenprüfung sowie der
-mündlichen Abschlussprüfung jeweils mindestens die
-Durchschnittsrangpunktzahl 5 erreicht wurde.
+(1) Die Laufbahnprüfung ist bestanden, wenn die Modulprüfungen und die
+Diplomarbeit jeweils mit mindestens fünf Rangpunkten bewertet worden
+sind und in der Zwischenprüfung sowie der mündlichen Abschlussprüfung
+jeweils mindestens die Durchschnittsrangpunktzahl 5 erreicht wurde.
 
 (2) Die Gesamtnote der Laufbahnprüfung entspricht der abschließenden
 Rangpunktzahl. Die abschließende Rangpunktzahl wird aus den
-Bewertungen der Zwischenprüfung, der Module 6 bis 22, der Diplomarbeit
-und der mündlichen Abschlussprüfung errechnet; diese sind wie folgt zu
-gewichten:
+Bewertungen der Zwischenprüfung, der Modulprüfungen, der Diplomarbeit
+und der mündlichen Abschlussprüfung errechnet; die Bewertungen sind
+wie folgt zu gewichten:
 
 *    *   1.
 
-    *   das Ergebnis der Zwischenprüfung mit
+    *   das Ergebnis der
+        Zwischenprüfung mit
 
     *   5 Prozent,
 
 
+
+
 *    *   2.
 
-    *   das arithmetische Mittel der
-        Bewertungen der Modulprüfungen
-        6 bis 11, 13 bis 18 und 20 bis 22 mit
+    *   das arithmetische Mittel
+        der Bewertungen der sechs
+        Module des Hauptstudiums,
+        in denen eine Klausur mit
+        einer Bearbeitungszeit von
+        240 Minuten geschrieben
+        worden ist, mit
 
-    *   40 Prozent,
+    *   25 Prozent,
+
+
 
 
 *    *   3.
 
-    *   das arithmetische Mittel der
-        Bewertungen der Modulprüfungen
-        12 und 19 mit
+    *   das arithmetische Mittel
+        der Bewertungen der übrigen
+        Module der Fachstudien mit
 
-    *   20 Prozent,
+    *   25 Prozent,
+
+
 
 
 *    *   4.
 
-    *   die Bewertung der Diplomarbeit mit
+    *   das arithmetische Mittel
+        der Bewertungen der Module
+        der Praktika mit
 
-    *   10 Prozent,
+    *   15 Prozent,
+
+
 
 
 *    *   5.
 
+    *   die Bewertung der
+        Diplomarbeit mit
+
+    *   10 Prozent,
+
+
+
+
+*    *   6.
+
     *   die Bewertung der mündlichen
         Abschlussprüfung mit
 
-    *   25 Prozent.
+    *   20 Prozent.
 
 
 
-Wenn die abschließende Rangpunktzahl 5 oder mehr beträgt, werden
-Dezimalstellen von 50 bis 99 für die Bildung der Gesamtnote
-aufgerundet; im Übrigen bleiben Dezimalstellen für die Bildung von
-Noten unberücksichtigt. Die Gesamtnote wird nach § 16 Absatz 2 Spalten
-2 und 3 festgelegt.
+Ist die abschließende Rangpunktzahl höher als 5, wird sie kaufmännisch
+auf eine ganze Zahl gerundet. Die Zuordnung der Gesamtnote erfolgt
+nach § 16 Absatz 2.
 
 (3) Im Anschluss an die Beratung der Prüfungskommission zur mündlichen
 Abschlussprüfung teilt die oder der Vorsitzende den
@@ -871,11 +892,19 @@ Rangpunkte mit und erläutert sie auf Wunsch kurz mündlich.
 
 ### § 21 Abschlusszeugnis
 
-(1) Wer die Laufbahnprüfung bestanden hat, erhält ein Abschlusszeugnis
-und eine Urkunde über die Verleihung des Diplomgrades „Diplom-
-Verwaltungswirtin (FH)“ oder „Diplom-Verwaltungswirt (FH)“. Auf Antrag
-stellt die Fachhochschule einen Nachweis über das erzielte Ergebnis
-gemäß der Anlage zu dieser Verordnung aus.
+(1) Wer die Laufbahnprüfung bestanden hat, erhält
+
+1.  ein Abschlusszeugnis,
+
+
+2.  eine Urkunde über die Verleihung des Diplomgrades „Diplom-
+    Verwaltungswirtin (FH)“ oder „Diplom-Verwaltungswirt (FH)“ sowie
+
+
+3.  ein Transcript of Records und ein Diploma Supplement.
+
+
+
 
 (2) Das Abschlusszeugnis enthält:
 
@@ -901,13 +930,27 @@ Leistungspunkte hervorgehen.
 
 ### § 22 Prüfungsakten, Einsichtnahme
 
-(1) Die schriftlichen Prüfungsleistungen nach § 12 Absatz 2 Satz 1 und
-§ 13, die Diplomarbeit, das Protokoll über die mündliche
-Abschlussprüfung sowie eine Ausfertigung des Abschlusszeugnisses oder
-des Bescheids über das Nichtbestehen der Laufbahnprüfung sind zu den
-Prüfungsakten zu nehmen. Die Prüfungsakten werden bei der
-Fachhochschule mindestens fünf Jahre und höchstens zehn Jahre
-aufbewahrt.
+(1) Zu den Prüfungsakten zu nehmen sind
+
+1.  die schriftlichen Prüfungsleistungen,
+
+
+2.  die Diplomarbeit,
+
+
+3.  das Protokoll über die mündliche Abschlussprüfung,
+
+
+4.  alle sonstigen Prüfungsniederschiften sowie
+
+
+5.  eine Ausfertigung des Abschlusszeugnisses oder des Bescheids über die
+    nicht bestandene Laufbahnprüfung.
+
+
+
+Die Prüfungsakten werden von der Fachhochschule mindestens fünf und
+höchstens zehn Jahre aufbewahrt.
 
 (2) Die Beamtinnen und Beamten können Einsicht in ihre Prüfungsakten
 nehmen. Satz 1 gilt entsprechend, wenn die Laufbahnprüfung nicht
@@ -918,23 +961,13 @@ erfolgt ist.
 ## Abschnitt 4 - Schlussvorschriften
 
 
-### § 23 Übergangsvorschriften
+### § 23 Übergangsvorschrift
 
-(1) Für Studierende, die vor dem 1. Oktober 2008 mit dem
-Vorbereitungsdienst begonnen haben, ist die Verordnung über die
-Laufbahn, Ausbildung und Prüfung für den gehobenen nichttechnischen
-Dienst in der allgemeinen und inneren Verwaltung des Bundes vom 12.
-Juli 2001 (BGBl. I S. 1578) in der bis zum Inkrafttreten der
-Verordnung vom 19. August 2008 (BGBl. I S. 1737) geltenden Fassung
-weiter anzuwenden.
-
-(2) Für Studierende, die ab dem 1. Oktober 2008 bis zum Inkrafttreten
-dieser Verordnung mit dem Vorbereitungsdienst begonnen haben, ist die
-Verordnung über die Laufbahn, Ausbildung und Prüfung für den gehobenen
+Für Studierende, die vor dem 1. Oktober 2014 mit dem
+Vorbereitungsdienst im Präsenzstudium begonnen haben, ist die
+Verordnung über die Ausbildung und Prüfung für den gehobenen
 nichttechnischen Dienst in der allgemeinen und inneren Verwaltung des
-Bundes vom 12. Juli 2001 (BGBl. I S. 1578), die zuletzt durch § 56
-Absatz 8 der Verordnung vom 12. Februar 2009 (BGBl. I S. 284) geändert
-worden ist, weiter anzuwenden.
+Bundes vom 11. August 2010 (BGBl. I S. 1214) weiter anzuwenden.
 
 
 ### § 24 Inkrafttreten, Außerkrafttreten
@@ -946,8 +979,9 @@ und inneren Verwaltung des Bundes vom 12. Juli 2001 (BGBl. I S. 1578),
 die zuletzt durch § 56 Absatz 8 der Verordnung vom 12. Februar 2009
 (BGBl. I S. 284) geändert worden ist, außer Kraft.
 
+(zu § 21 Absatz 1)
 
-### Anlage (zu § 21 Absatz 1) Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
+### Anlage Noten in Dezimalangaben gemäß der KMK-Muster-Rahmenordnung (FH) vom 13. Oktober 2000
 
 (Fundstelle: BGBl. I 2010, 1221)
 

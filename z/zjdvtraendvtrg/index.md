@@ -6,7 +6,7 @@ Title: Gesetz zu dem Vertrag vom 3. März 2008 zwischen der Bundesrepublik Deuts
   –
 jurabk: ZJDVtrÄndVtrG
 layout: default
-origslug: zjdvtr_ndvtrg
+origslug: zjdvtraendvtrg
 slug: zjdvtraendvtrg
 
 ---

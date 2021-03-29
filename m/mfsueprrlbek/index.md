@@ -4,7 +4,7 @@ Title: Bekanntmachung der Richtlinien zur Überprüfung auf eine Tätigkeit oder
   der ehemaligen Deutschen Demokratischen Republik
 jurabk: MfSÜPrRLBek
 layout: default
-origslug: mfs_prrlbek
+origslug: mfsueprrlbek
 slug: mfsueprrlbek
 
 ---

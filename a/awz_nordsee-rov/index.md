@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3107
 
+Geändert durch
+:   Art. 5 V v. 2.6.2016 I 1257
+
 
 ## Eingangsformel
 
@@ -66,8 +69,11 @@ und einem Kartenteil, festgelegt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
+Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in
+der Nordsee
 
-## Anlage (zu § 1) Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Nordsee (Textteil und Kartenteil)
+## Anlage (Textteil und Kartenteil)
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 61, S. 3107 vom 25.
 September 2009, S. 1 - 34, gesonderte Karte)
@@ -342,11 +348,11 @@ Schleswig-Holstein 2009 in der Neuaufstellung, welcher Aussagen zum
 schleswig-holsteinischen Küstenmeer treffen soll.
 
 Über die endgültige Position des Punktes E
-0              (53°43'30,8" N; 6°20'49,7" E) der seitlichen Abgrenzung
-der ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland
-zum Königreich der Niederlande sowie über die Abgrenzung landwärts
-dieses Punktes wird die Bundesregierung nach Konsultationen zu einem
-späteren Zeitpunkt entscheiden; vgl. Proklamation der Bundesrepublik
+0 (53°43'30,8" N; 6°20'49,7" E) der seitlichen Abgrenzung der
+ausschließlichen Wirtschaftszone der Bundesrepublik Deutschland zum
+Königreich der Niederlande sowie über die Abgrenzung landwärts dieses
+Punktes wird die Bundesregierung nach Konsultationen zu einem späteren
+Zeitpunkt entscheiden; vgl. Proklamation der Bundesrepublik
 Deutschland über die Errichtung einer ausschließlichen Wirtschaftszone
 der Bundesrepublik Deutschland in der Nordsee und in der Ostsee vom
 25\. November 1994 (BGBl. 1994 II S. 3769, 3770).
@@ -778,11 +784,11 @@ der militärischen Nutzung.
     welches von unverträglichen Nutzungen – insbesondere von baulichen
     Anlagen – frei gehalten werden muss. Die Breite von 1 sm beruht auf
     dem doppelten sicheren Passierabstand zweier Schiffe, welcher laut
-    Wasser- und Schifffahrtsdirektion Nord auf Hoher See 0,5 sm beträgt.
-    Da diese Routen von mind. ca. 1 000 bis max. ca. 4 900 Fahrzeugen pro
-    Jahr befahren werden – was im letzten Fall im Durchschnitt 13 Schiffe
-    pro Tag ausmacht – wird diese Breite zur Grundsicherung als
-    ausreichend angesehen.
+    Generaldirektion Wasserstraßen und Schifffahrt auf Hoher See 0,5 sm
+    beträgt. Da diese Routen von mind. ca. 1 000 bis max. ca. 4 900
+    Fahrzeugen pro Jahr befahren werden – was im letzten Fall im
+    Durchschnitt 13 Schiffe pro Tag ausmacht – wird diese Breite zur
+    Grundsicherung als ausreichend angesehen.
 
 
 *   Eine Ausnahme bildet die Route, welche die Verlängerung der Route
@@ -2524,17 +2530,17 @@ nehmen und einen angemessenen Abstand einzuhalten, wird hingewiesen.
 
 Die festgelegten Vorranggebiete der Nordsee haben eine Ausdehnung von
 insgesamt ca. 880 km
-2             . In den Vorranggebieten sind elf Windparks mit
-insgesamt 697 Windenergieanlagen (WEA) genehmigt worden, wobei derzeit
-im Testfeld alpha ventus die ersten zwölf WEA errichtet werden (Stand:
-August 2009). Für weitere elf Windparks in den festgelegten
-Vorranggebieten mit angestrebten 656 WEA liegen dem BSH Anträge vor.
-Dieses ergibt in der Summe 1 353 WEA mit einer rechnerischen Leistung
-von bis zu 6 765 MW (bei Verwendung von 5-MW-Anlagen). Zudem sind
-außerhalb der Vorranggebiete acht weitere Parks mit 640 WEA mit einer
-rechnerischen Leistung von bis zu 3 200 MW (bei Verwendung von 5-MW-
-Anlagen) genehmigt. Somit kann mit den Vorranggebieten ein wichtiger
-Beitrag zum Erreichen der kurz- bis mittelfristigen Ausbauziele der
+2\. In den Vorranggebieten sind elf Windparks mit insgesamt 697
+Windenergieanlagen (WEA) genehmigt worden, wobei derzeit im Testfeld
+alpha ventus die ersten zwölf WEA errichtet werden (Stand: August
+2009). Für weitere elf Windparks in den festgelegten Vorranggebieten
+mit angestrebten 656 WEA liegen dem BSH Anträge vor. Dieses ergibt in
+der Summe 1 353 WEA mit einer rechnerischen Leistung von bis zu 6 765
+MW (bei Verwendung von 5-MW-Anlagen). Zudem sind außerhalb der
+Vorranggebiete acht weitere Parks mit 640 WEA mit einer rechnerischen
+Leistung von bis zu 3 200 MW (bei Verwendung von 5-MW-Anlagen)
+genehmigt. Somit kann mit den Vorranggebieten ein wichtiger Beitrag
+zum Erreichen der kurz- bis mittelfristigen Ausbauziele der
 Bundesregierung geleistet werden. Die Festlegung von Vorranggebieten
 hat keinen Einfluss auf Windenergieparkgenehmigungen außerhalb dieser
 Gebiete und ändert insbesondere nichts an der Verpflichtung gemäß § 17
@@ -2546,18 +2552,18 @@ der Festlegung der Vorranggebiete nicht vorgegeben.
 
 *    *
     *   Gesamtgröße (km
-        2)                       )
+        2))
 
     *   Genehmigte Parks (WEA)
 
-    *[^bjnr310700009bjne000400000_01_BJNR310700009BJNE000400000]
+    *[^bjnr310700009bjne000400000_01_BJNR310700009BJNE000401116]
    Max MW (genehmigte Parks)
 
     *   Beantragte Parks (WEA)
 
     *   Max. MW (beantragte Parks)
 
-    *[^bjnr310700009bjne000400000_03_BJNR310700009BJNE000400000]
+    *[^bjnr310700009bjne000400000_03_BJNR310700009BJNE000401116]
    Belegungsgrad
 
 
@@ -2598,7 +2604,7 @@ der Festlegung der Vorranggebiete nicht vorgegeben.
 
     *   3 200
 
-    *[^bjnr310700009bjne000400000_02_BJNR310700009BJNE000400000]
+    *[^bjnr310700009bjne000400000_02_BJNR310700009BJNE000401116]
    3 (170)
 
     *   850
@@ -4974,10 +4980,10 @@ insbesondere im Hinblick auf kumulative Wirkungen, zu überprüfen.
 
 
 
-[^bjnr310700009bjne000400000_01_BJNR310700009BJNE000400000]:     = rechnerische Leistung bei Verwendung von 5-MW-Anlagen
-[^bjnr310700009bjne000400000_02_BJNR310700009BJNE000400000]:     = lediglich planungsrechtlich verfestigte Parks (Stand: 14. August
+[^bjnr310700009bjne000400000_01_BJNR310700009BJNE000401116]:     = rechnerische Leistung bei Verwendung von 5-MW-Anlagen
+[^bjnr310700009bjne000400000_02_BJNR310700009BJNE000401116]:     = lediglich planungsrechtlich verfestigte Parks (Stand: 14. August
     2009)
-[^bjnr310700009bjne000400000_03_BJNR310700009BJNE000400000]:     = genehmigte und planungsrechtlich verfestigte Parks ohne
+[^bjnr310700009bjne000400000_03_BJNR310700009BJNE000401116]:     = genehmigte und planungsrechtlich verfestigte Parks ohne
     Berücksichtigung der weiteren beantragten Parks (Stand: 14. August
     2009)
 

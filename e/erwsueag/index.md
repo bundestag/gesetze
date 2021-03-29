@@ -3,7 +3,7 @@ Title: Gesetz zur Ausführung des Haager Übereinkommens vom 13. Januar 2000 üb
   internationalen Schutz von Erwachsenen
 jurabk: ErwSÜAG
 layout: default
-origslug: erws_ag
+origslug: erwsueag
 slug: erwsueag
 
 ---
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 314; 2009 II 39
 
-Geändert durch
-:   Art. 46 G v. 17.12.2008 I 2586
+Zuletzt geändert durch
+:   Art. 4 G v. 17.7.2017 I 2426
 
 Stand: Das G ist gem. Bek. v. 12.12.2008; 2009 II 39 mWv 1.1.2009 in Kraft getreten
 
@@ -186,7 +186,7 @@ gilt entsprechend.
 ### § 8 Allgemeine Verfahrensvorschriften für die Anerkennungsfeststellung und Vollstreckbarerklärung
 
 (1) Das Verfahren nach den Artikeln 23 und 25 des Übereinkommens
-richtet sich nach den Buch 1 des Gesetzes über das Verfahren in
+richtet sich nach dem Buch 1 des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit. Die §§ 275, 276, 297 Abs. 5, §§ 308, 309 und 311 des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -195,8 +195,8 @@ anzuwenden.
 
 (2) Das Gericht hat den Betroffenen persönlich anzuhören, wenn die
 anzuerkennende oder für vollstreckbar zu erklärende Maßnahme eine im
-Inland vorzunehmende Unterbringung im Sinn des § 312 des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
+Inland vorzunehmende Maßnahme im Sinn des § 312 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
 freiwilligen Gerichtsbarkeit, eine Untersuchung des
 Gesundheitszustands, eine Heilbehandlung oder einen ärztlichen
 Eingriff im Sinn des § 1904 des Bürgerlichen Gesetzbuchs oder eine im
@@ -296,9 +296,10 @@ Anerkennungsfeststellung oder Vollstreckbarerklärung entschieden hat.
 
 
 (2) Im Fall einer Unterbringung, die mit Freiheitsentzug verbunden
-ist, oder einer Maßnahme im Sinn des § 1906 Abs. 4 des Bürgerlichen
-Gesetzbuchs spricht sich das Gericht unbeschadet des Absatzes 1 nach
-Artikel 33 Abs. 2 des Übereinkommens gegen das Ersuchen aus, wenn
+ist, oder einer Maßnahme im Sinn des § 1906 Absatz 4 oder § 1906a
+Absatz 1 oder Absatz 4 des Bürgerlichen Gesetzbuchs spricht sich das
+Gericht unbeschadet des Absatzes 1 nach Artikel 33 Abs. 2 des
+Übereinkommens gegen das Ersuchen aus, wenn
 
 1.  im ersuchenden Staat über die ersuchte Maßnahme kein Gericht
     entscheidet oder

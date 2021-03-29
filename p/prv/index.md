@@ -472,11 +472,11 @@ dem Bildschirm stets sichtbar sein.
 
 ## Anlage 3 (zu § 2 Abs. 2)
 
-(Inhalt: Nicht darstellbares Muster des Namensverzeichnisses,
-Fundstelle: BGBl. I 1995, 812)
+(Fundstelle: BGBl. I 1995, 812)
+![bgbl1_1995_j0812_0010.jpg](bgbl1_1995_j0812_0010.jpg)
+(zu § 7)
 
-
-## Anlage 4 (zu § 7) Muster für Bekanntmachungen
+## Anlage 4 Muster für Bekanntmachungen
 
 Amtsgericht München – Registergericht –, Aktenzeichen: PR 1292
 Die in ( ) gesetzten Angaben der Geschäftsanschrift und des

@@ -37,8 +37,8 @@ Das Stempelzeichen für die Gold- und Silbergeräte muß enthalten:
 
 
 4.  die Firma oder die in Gemäßheit des
-    Gesetzes vom 30. November 1874                    eingetragene
-    Schutzmarke des Geschäfts, für welches die Stempelung bewirkt ist.
+    Gesetzes vom 30. November 1874 eingetragene Schutzmarke des Geschäfts,
+    für welches die Stempelung bewirkt ist.
 
 
 

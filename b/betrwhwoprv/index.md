@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 511
 
+Geändert durch
+:   Art. 1 V v. 16.10.2016 I 2390
+
 
 ## Eingangsformel
 
@@ -86,7 +89,12 @@ oder Geprüfte Betriebswirtin nach der Handwerksordnung.
 1.  eine erfolgreich abgelegte Meisterprüfung in einem Handwerk oder
 
 
-2.  einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund
+2.  den anerkannten Fortbildungsabschluss Geprüfter Kaufmännischer
+    Fachwirt nach der Handwerksordnung und Geprüfte Kaufmännische
+    Fachwirtin nach der Handwerksordnung oder
+
+
+3.  einen anerkannten Fortbildungsabschluss nach einer Regelung auf Grund
     des Berufsbildungsgesetzes zum Industriemeister und zur
     Industriemeisterin, Fachwirt und Fachwirtin, Fachkaufmann und
     Fachkauffrau, zu einem Fachmeister oder einen Abschluss zum Staatlich
@@ -95,14 +103,14 @@ oder Geprüfte Betriebswirtin nach der Handwerksordnung.
     Qualifikationen und eine mindestens einjährige Berufspraxis oder
 
 
-3.  einen Fortbildungsabschluss mit anderen einschlägigen Qualifikationen
+4.  einen Fortbildungsabschluss mit anderen einschlägigen Qualifikationen
     und eine mindestens dreijährige Berufspraxis
 
 
 
 nachweist.
 
-(2) Die Berufspraxis nach Absatz 1 Nummer 2 und 3 muss inhaltlich
+(2) Die Berufspraxis nach Absatz 1 Nummer 3 und 4 muss inhaltlich
 wesentliche Bezüge zu den in § 1 Absatz 2 genannten Aufgaben haben.
 
 (3) Abweichend von Absatz 1 ist zur Prüfung auch zuzulassen, wer durch
@@ -178,11 +186,9 @@ Die Prüfung wird schriftlich durchgeführt.
 
 (5) Im Prüfungsteil „Innovationsmanagement“ wird die Qualifikation
 nach § 7 im Rahmen einer Projektarbeit, einer Präsentation und eines
-Fachgesprächs durchgeführt. Dieser Prüfungsteil kann erst begonnen
-werden, wenn in den Prüfungsteilen nach Absatz 1 Nummer 1 bis 3
-mindestens ausreichende Leistungen erbracht wurden. Der erfolgreiche
-Abschluss dieser Prüfungsteile soll dabei nicht länger als ein Jahr
-zurückliegen.
+Fachgesprächs durchgeführt. Mit diesem Prüfungsteil ist innerhalb
+eines Jahres nach Ablegen der Prüfungsteile nach Absatz 1 Nummer 1 bis
+3 zu beginnen.
 
 
 ## § 4 Inhalt der Prüfung im Prüfungsteil „Unternehmensstrategie“
@@ -555,12 +561,40 @@ ausreichende Leistungen erbracht wurden.
 
 (2) Jeder Handlungsbereich, Projektarbeit und Prüfungsleistung nach §
 11 sind gesondert zu bewerten, wobei Präsentation und Fachgespräch
-zusammenzufassen sind.
+zusammenzufassen sind. Aus dem arithmetischen Mittel der
+Punktebewertungen der Prüfungsbestandteile „Unternehmensstrategie“,
+„Unternehmensführung“, „Personalmanagement“ und
+„Innovationsmanagement“ wird eine Gesamtpunktzahl gebildet, aus der
+die Gesamtnote zu bilden ist.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis nach der Anlage 1
-und 2 auszustellen. Im Falle der Befreiung gemäß § 12 sind Ort und
-Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung des
-Prüfungsgremiums anzugeben.
+(3) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. In dem einen Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis wird darüber hinaus mindestens angegeben:
+
+1.  die Benennung und Bewertung der Prüfungsbestandteile nach Absatz 2 in
+    Verbindung mit den §§ 3 und 11 Absatz 4,
+
+
+2.  die Befreiungen nach § 12; jede Befreiung ist mit Ort, Datum und der
+    Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+    anzugeben,
+
+
+3.  die Gesamtnote nach Absatz 2 Satz 2.
+
+
+
 
 
 ## § 14 Wiederholen der Prüfung
@@ -600,281 +634,10 @@ Anwendung der bisherigen Vorschriften vereinbart werden.
 Diese Verordnung tritt am 1. April 2011 in Kraft.
 
 
-## Anlage 1 (zu § 13 Absatz 3) Muster
+## Anlage 1 (weggefallen)
 
-(Fundstelle: BGBl. I 2011, 516)
 
 
-*    *   ......................................................................
-        ......... ............................................................
-        .................. . .................................................
-        ..............................
+## Anlage 2 (weggefallen)
 
 
-*    *
-    *   (Bezeichnung der zuständigen Stelle)
-
-    *
-
-
-   ## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-
-*    *   Herr/Frau ............................................................
-        ................... ..................................................
-        ............................ .
-
-
-*    *   geboren am ...........................................................
-        ....................
-
-    *   in ...................................................................
-        ........
-
-
-*    *   hat am ...............................................................
-        ................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung
-und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
-2011 (BGBl. I S. 511) bestanden.
-
-
-*    *   Datum ................................................................
-        ...............
-
-
-*    *   Unterschrift(en) .....................................................
-        .........................
-
-
-*    *
-
-*    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-## Anlage 2 (zu § 13 Absatz 3) Muster
-
-(Fundstelle: BGBl. I 2011, 517)
-
-
-*    *   ......................................................................
-        ......... ............................................................
-        .................. . .................................................
-        ..............................
-        ....................................................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-
-*    *   Herr/Frau ............................................................
-        ................... ..................................................
-        ............................ . .......................................
-        ......................................
-
-
-*    *   geboren am ...........................................................
-        .................... ..............................................
-
-    *   in ...................................................................
-        ............ ....................
-
-
-*    *   hat am ...............................................................
-        ................ .....................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Betriebswirt nach der Handwerksordnung
-## Geprüfte Betriebswirtin nach der Handwerksordnung
-
-nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Betriebswirt nach der Handwerksordnung
-und Geprüfte Betriebswirtin nach der Handwerksordnung vom 13. März
-2011 (BGBl. I S. 511) mit folgenden Ergebnissen bestanden:
-
-
-*    *
-    *
-    *
-    *[^f775060_01_BJNR051100011BJNE001900000]
-   Punkte
-
-    *
-    *   Note
-
-
-*    *   1.
-
-    *   Unternehmensstrategie
-
-    *   ..........................
-
-    *
-    *   ..........................
-
-
-*    *
-    *   1.1
-
-    *   Volkswirtschaftliche und gesellschaftliche Rahmenbedingungen bewerten
-
-    *   ..........................
-
-    *
-    *
-
-*    *
-    *   1.2
-
-    *   Rechtliche Rahmenbedingungen bewerten
-
-    *   ..........................
-
-    *
-    *
-
-*    *
-    *   1.3
-
-    *   Unternehmensstrategie planen
-
-    *   ..........................
-
-    *
-    *
-
-*    *   2.
-
-    *   Unternehmensführung
-
-    *   ..........................
-
-    *
-    *   .........................
-
-
-*    *   3.
-
-    *   Personalmanagement
-
-    *   ..........................
-
-    *
-    *   ..........................
-
-
-*    *
-    *   3.1
-
-    *   Personal planen und gewinnen
-
-    *   ..........................
-
-    *
-    *
-
-*    *
-    *   3.2
-
-    *   Personal führen und entwickeln
-
-    *   ..........................
-
-    *
-    *
-
-*    *   4.
-
-    *   Innovationsmanagement
-
-    *   ..........................
-
-    *
-    *   ..........................
-
-
-*    *
-    *   4.1
-
-    *   schriftliche Prüfungsleistung
-
-    *   .........................
-
-    *
-    *
-
-*    *
-    *   4.2
-
-    *   mündliche Prüfungsleistung
-
-    *   ..........................
-
-    *
-    *
-
-
-   (Im Fall des § 12: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde gemäß § 12 im Hinblick auf die am ..............................
-.............................................
-in ...................................................................
-............ ...................... vor ..............................
-.................................abgelegte Prüfung vom
-Prüfungsbestandteil
-......................................................................
-... ..................................................................
-............ . ...........
-befreit. “)
-
-
-*    *
-
-*    *   Datum
-        .....................................................................
-
-
-*    *
-
-*    *   Unterschrift(en)
-        ........................................................
-
-
-*    *
-
-*    *
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ......................................................
-[^f775060_01_BJNR051100011BJNE001900000]: 

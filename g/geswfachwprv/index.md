@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1679
 
+Geändert durch
+:   Art. 6 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -530,10 +533,12 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
+(zu § 6 Absatz 2)
 
-## Anlage 1 (zu § 6 Absatz 2) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2011, 1683)
+(Fundstelle: BGBl. I 2011, 1683;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   .........................................
@@ -570,7 +575,13 @@ Geprüfter Fachwirt im Gesundheits- und Sozialwesen
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und
 Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
-vom 21. Juli 2011 (BGBl. I S. 1679) bestanden.
+vom 21. Juli 2011 (BGBl. I S. 1679), die durch Artikel 6 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
+bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -585,10 +596,12 @@ vom 21. Juli 2011 (BGBl. I S. 1679) bestanden.
 
 
 
+(zu § 6 Absatz 2)
 
-## Anlage 2 (zu § 6 Absatz 2) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2011, 1684)
+(Fundstelle: BGBl. I 2011, 1684;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -631,13 +644,14 @@ Geprüfter Fachwirt im Gesundheits- und Sozialwesen
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Fachwirt im Gesundheits- und
 Sozialwesen und Geprüfte Fachwirtin im Gesundheits- und Sozialwesen
-vom 21. Juli 2011 (BGBl. I S. 1679) mit folgenden Ergebnissen
-bestanden:
+vom 21. Juli 2011 (BGBl. I S. 1679), die durch Artikel 6 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit
+folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f1775540_01_BJNR167900011BJNE001300000]
+    *[^f1775540_01_BJNR167900011BJNE001301377]
    Punkte
 
     *
@@ -734,6 +748,10 @@ bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
         ......................................................................
@@ -749,6 +767,6 @@ bestanden:
 
 
 
-[^f1775540_01_BJNR167900011BJNE001300000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^f1775540_01_BJNR167900011BJNE001301377]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .......................
 

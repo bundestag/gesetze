@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 900
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 28 G v. 24.2.2012 I 212
+:   Art. 2 V v. 27.9.2017 I 3465
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -238,48 +238,75 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
     Untersuchungshäufigkeit;
 
 
-19. Langzeitlager:
+19. Klärschlammverbrennungsanlage:
+
+    Feuerungsanlage nach § 2 Absatz 4 der Verordnung über die Verbrennung
+    und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl. I S. 1021,
+    1044, 3754), in der jeweils geltenden Fassung, in der Klärschlamm zum
+    Zweck der Vorbehandlung verbrannt wird;
+
+
+19a. Anlage zur thermischen Vorbehandlung des Klärschlamms:
+
+    Feuerungsanlage nach § 2 Absatz 4 der Verordnung über die Verbrennung
+    und die Mitverbrennung von Abfällen, in der Klärschlamm durch
+    Verfahren wie Vergasung, Teilverbrennung und thermische
+    Behandlungsverfahren mit indirekter Beheizung des Behandlungsreaktors
+    oder eine Kombination daraus behandelt wird;
+
+
+20. Klärschlammmitverbrennungsanlage:
+
+    Feuerungsanlage oder Großfeuerungsanlage nach § 2 Absatz 2 oder 3 der
+    Verordnung über die Verbrennung und die Mitverbrennung von Abfällen,
+    in der Klärschlamm zum Zweck der Vorbehandlung mitverbrannt wird;
+
+
+21. Kohlenstoffhaltiger Rückstand:
+
+    Kohlenstoff- und phosphorhaltiges Material nach thermischer
+    Vorbehandlung des Klärschlamms in einer Anlage mit Vergasung,
+    Teilverbrennung oder thermischer Behandlung mit indirekter Beheizung
+    des Behandlungsreaktors, auch bei Kombination dieser Vorbehandlungen;
+
+
+22. Langzeitlager:
     Anlage zur Lagerung von Abfällen nach § 4 Absatz 1 des Bundes-
-    Immissionsschutzgesetzes in der Fassung der Bekanntmachung vom 26.
-    September 2002 (BGBl. I S. 3830), das zuletzt durch Artikel 1 des
-    Gesetzes vom 23. Oktober 2007 (BGBl. I S. 2470) geändert worden ist,
-    in Verbindung mit Nummer 8.14 des Anhangs zur Verordnung über
-    genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung vom
-    14\. März 1997 (BGBl. I S. 504), die zuletzt durch Artikel 3 des
-    Gesetzes vom 23. Oktober 2007 (BGBl. I S. 2470) geändert worden ist;
+    Immissionsschutzgesetzes in Verbindung mit Nummer 8.14 des Anhangs 1
+    zur Verordnung über genehmigungsbedürftige Anlagen;
 
 
-20. Langzeitlager der Klasse 0 (Langzeitlagerklasse 0, LK 0):
+23. Langzeitlager der Klasse 0 (Langzeitlagerklasse 0, LK 0):
     Oberirdisches Langzeitlager für Inertabfälle, die die
     Zuordnungskriterien nach Anhang 3 Nummer 2 für die Deponieklasse 0
     einhalten;
 
 
-21. Langzeitlager der Klasse I (Langzeitlagerklasse I, LK I):
+24. Langzeitlager der Klasse I (Langzeitlagerklasse I, LK I):
     Oberirdisches Langzeitlager für nicht gefährliche Abfälle, die die
     Zuordnungskriterien nach Anhang 3 Nummer 2 für die Deponieklasse I
     einhalten;
 
 
-22. Langzeitlager der Klasse II (Langzeitlagerklasse II, LK II):
+25. Langzeitlager der Klasse II (Langzeitlagerklasse II, LK II):
     Oberirdisches Langzeitlager für nicht gefährliche Abfälle, die die
     Zuordnungskriterien nach Anhang 3 Nummer 2 für die Deponieklasse II
     einhalten;
 
 
-23. Langzeitlager der Klasse III (Langzeitlagerklasse III, LK III):
+26. Langzeitlager der Klasse III (Langzeitlagerklasse III, LK III):
     Oberirdisches Langzeitlager für gefährliche Abfälle, die die
     Zuordnungskriterien nach Anhang 3 Nummer 2 für die Deponieklasse III
     einhalten;
 
 
-24. Langzeitlager der Klasse IV (Langzeitlagerklasse IV, LK IV):
+27. Langzeitlager der Klasse IV (Langzeitlagerklasse IV, LK IV):
     Untertägiges Langzeitlager für gefährliche Abfälle in einem Bergwerk
     mit eigenständigem Lagerbereich, der getrennt von einer
     Mineralgewinnung angelegt ist;
 
 
-25. Mechanisch-biologisch behandelte Abfälle:
+28. Mechanisch-biologisch behandelte Abfälle:
     Abfälle aus der Aufbereitung oder Umwandlung von Haushaltsabfällen und
     ähnlichen gewerblichen und industriellen Abfällen mit hohem biologisch
     abbaubaren Anteil in Anlagen, die unter den Anwendungsbereich der
@@ -287,39 +314,39 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
     fallen;
 
 
-26. Monodeponie:
+29. Monodeponie:
     Deponie oder Deponieabschnitt der Deponieklasse 0, I, II, III oder IV,
     in der oder in dem ausschließlich spezifische Massenabfälle, die nach
     Art, Schadstoffgehalt und Reaktionsverhalten ähnlich und untereinander
     verträglich sind, abgelagert werden;
 
 
-27. Nachsorgephase:
+30. Nachsorgephase:
     Zeitraum nach der endgültigen Stilllegung einer Deponie oder eines
     Deponieabschnittes bis zu dem Zeitpunkt, zu dem die zuständige Behörde
     nach § 40 Absatz 5 des Kreislaufwirtschaftsgesetzes den Abschluss der
     Nachsorge der Deponie feststellt;
 
 
-28. Profilierung:
+31. Profilierung:
     Gestaltung der Oberfläche des Deponiekörpers einer Deponie oder eines
     Deponieabschnittes, um darauf das Oberflächenabdichtungssystem in dem
     für die Entwässerung erforderlichen Gefälle aufbringen zu können;
 
 
-29. Schlüsselparameter:
+32. Schlüsselparameter:
     Parameter mit hoher Bedeutung für die im Rahmen der Annahmekontrolle
     durchzuführende Prüfung der Zulässigkeit der Ablagerung und der
     Übereinstimmung des Abfalls mit dem grundlegend charakterisierten
     Abfall;
 
 
-30. Sickerwasser:
+33. Sickerwasser:
     Jede Flüssigkeit, die die abgelagerten Abfälle durchsickert und aus
     der Deponie ausgetragen oder in der Deponie eingeschlossen wird;
 
 
-31. Spezifische Massenabfälle:
+34. Spezifische Massenabfälle:
     Straßenaufbruch sowie mineralische Abfälle, die bei definierten
     Prozessen in großen Mengen bei gleicher Zusammensetzung entstehen,
     insbesondere Boden und Steine, Baggergut, Aschen, Schlacken und Stäube
@@ -327,14 +354,14 @@ In dieser Verordnung gelten folgende Begriffsbestimmungen:
     aus industriellen Prozessen;
 
 
-32. Stilllegungsphase:
+35. Stilllegungsphase:
     Zeitraum vom Ende der Ablagerungsphase der Deponie oder eines
     Deponieabschnittes bis zur endgültigen Stilllegung der Deponie oder
     eines Deponieabschnittes nach § 40 Absatz 3 des
     Kreislaufwirtschaftsgesetzes;
 
 
-33. Zuordnungskriterien:
+36. Zuordnungskriterien:
     Zuordnungswerte unter Einbeziehung der Fußnoten nach Anhang 3 Nummer 2
     Tabelle 2 bei Anwendung des Eingangstextes von Anhang 3 Nummer 2.
 
@@ -522,7 +549,7 @@ Maßgabe, dass
 
 
 2.  auf der Deponie oder dem Deponieabschnitt keine gefährlichen Abfälle
-    oder Abfälle auf Gipsbasis abgelagert werden und
+    oder gipshaltige Abfälle abgelagert werden und
 
 
 3.  im Rahmen der mechanisch-biologischen Behandlung heizwertreiche
@@ -610,10 +637,13 @@ II oder III abgelagert werden:
 1.  flüssige Abfälle,
 
 
-2.  Abfälle, die nach der Gefahrstoffverordnung vom 26. November 2010
-    (BGBl. I S. 1643) in der jeweils geltenden Fassung als
-    explosionsgefährlich, ätzend, brandfördernd, hoch entzündlich oder
-    leicht entzündlich eingestuft werden,
+2.  Abfälle, die nach Anhang III der Richtlinie 2008/98/EG des
+    Europäischen Parlaments und des Rates vom 19. November 2008 über
+    Abfälle und zur Aufhebung bestimmter Richtlinien (ABl. L 312 vom
+    22\.11.2008, S. 3, L 127 vom 26.5.2009, S. 24), die durch die
+    Verordnung (EU) Nr. 1357/2014 (ABl. L 365 vom 19.12.2014, S. 89)
+    geändert worden ist, als explosiv, brandfördernd, entzündbar oder
+    ätzend eingestuft werden,
 
 
 3.  infektiöse Abfälle (Abfallschlüssel 18 01 03 und 18 02 02 der Anlage
@@ -658,15 +688,17 @@ abgelagert werden:
 
 
 3.  Abfälle mit einem Brennwert (H
-    o                   ) von mehr als 6 000 Kilojoule pro Kilogramm
-    Trockenmasse (TM), es sei denn, die zuständige Behörde hat einem
-    höheren Brennwert zugestimmt, weil
+    o) von mehr als 6 000 Kilojoule pro Kilogramm Trockenmasse (TM), es
+    sei denn, die zuständige Behörde hat einem höheren Brennwert
+    zugestimmt, weil
 
     a)  er durch elementaren Kohlenstoff, anorganische Stoffe oder
-        prozessbedingt in Reaktions- und Destillationsrückständen mit einem
-        wasserlöslichen Anteil von mehr als 10 Gewichtsprozent verursacht und
-        jeweils nachgewiesen wird, dass keine anderweitige Behandlung
-        technisch möglich oder wirtschaftlich zumutbar ist,
+        prozessbedingt in Reaktions- und Destillationsrückständen, die in
+        einem Eluat nach Anhang 4 Nummer 3.2.1.1 einen Gesamtgehalt an
+        gelösten Feststoffen von mehr als 10 000 Milligramm pro Liter
+        aufweisen, verursacht und jeweils nachgewiesen wird, dass keine
+        anderweitige Behandlung technisch möglich oder wirtschaftlich zumutbar
+        ist,
 
 
     b)  es sich um schwermetallbelastete Ionenaustauscherharze aus der
@@ -829,7 +861,7 @@ Abfällen unter Beachtung der Voraussetzungen von § 6 Absatz 1 Satz 5,
 bei vollständig stabilisierten Abfällen unter Beachtung der
 Voraussetzungen von § 6 Absatz 2 durchzuführen und zu protokollieren.
 Bei Anlieferung des Abfalls sind dem Deponiebetreiber die Protokolle
-nach Satz 5 oder eine Erklärung der akkreditierten Untersuchungsstelle
+nach Satz 6 oder eine Erklärung der akkreditierten Untersuchungsstelle
 nach Anhang 4 Nummer 1 vorzulegen, dass sich Auslaugverhalten und
 Zusammensetzung des Abfalls gegenüber der grundlegenden
 Charakterisierung nicht geändert haben.
@@ -841,11 +873,11 @@ eine Annahmekontrolle durchzuführen, die mindestens umfasst:
     vorliegt,
 
 
-2.  Feststellung der Masse, des Abfallschlüssels und der Abfallbezeichnung
-    gemäß Anlage zur Abfallverzeichnis-Verordnung,
+2.  Feststellung der Masse, Kontrolle des Abfallschlüssels und der
+    Abfallbezeichnung gemäß Anlage zur Abfallverzeichnis-Verordnung,
 
 
-3.  Kontrolle der Unterlagen nach Absatz 3 Satz 5 auf Übereinstimmung mit
+3.  Kontrolle der Unterlagen nach Absatz 3 Satz 6 auf Übereinstimmung mit
     den Angaben der grundlegenden Charakterisierung,
 
 
@@ -858,8 +890,8 @@ eine Annahmekontrolle durchzuführen, die mindestens umfasst:
 
 Soweit nach § 49 des Kreislaufwirtschaftsgesetzes in Verbindung mit
 Teil 3 der Nachweisverordnung Register zu führen sind, können die nach
-Satz 1 Nummer 2 und 4 zu kontrollierenden Maßgaben durch die Angaben
-im Register nach der Nachweisverordnung ersetzt werden.
+Satz 1 Nummer 2 zu kontrollierenden Maßgaben durch die Angaben im
+Register nach der Nachweisverordnung ersetzt werden.
 
 (5) Der Deponiebetreiber hat bei einem Abfall, der erstmalig nach
 Absatz 1 Satz 1 oder erneut nach Absatz 1 Satz 6 charakterisiert
@@ -938,8 +970,8 @@ erforderlich, wenn
     beeinträchtigt wird, und
 
 
-4.  der Abfall nicht mehr als 5 Volumenprozent an Fremdstoffen,
-    insbesondere Metalle, Kunststoffe, Humus, Holz und Gummi, enthält.
+4.  der Abfall nicht mehr als 5 Volumenprozent an mineralischen oder
+    inerten Fremdstoffen enthält.
 
 
 
@@ -1173,6 +1205,16 @@ der Allgemeinheit beeinträchtigt wird. Die Länder können Einzelheiten
 der Messungen und Kontrollen und über die Informationen nach Absatz 4
 Satz 2 Nummer 1 regeln.
 
+(6) Bei allen Ereignissen mit erheblichen Beeinträchtigungen des Wohls
+der Allgemeinheit hat der Deponiebetreiber unverzüglich die
+erforderlichen Maßnahmen zur Begrenzung der Beeinträchtigungen des
+Wohls der Allgemeinheit sowie zur Vermeidung weiterer möglicher
+Ereignisse dieser Art zu ergreifen. Die zuständige Behörde
+verpflichtet den Deponiebetreiber, alle weiteren geeigneten Maßnahmen
+zu ergreifen, die zur Begrenzung der Umweltauswirkungen und zur
+Vermeidung weiterer möglicher Ereignisse im Sinne des Satzes 1
+erforderlich sind.
+
 
 ### § 13 Information und Dokumentation
 
@@ -1205,11 +1247,15 @@ vorzulegen.
 unterrichten über
 
 1.  alle festgestellten nachteiligen Auswirkungen der Deponie auf die
-    Umwelt und
+    Umwelt,
 
 
 2.  Störungen, die zu einer erheblichen Abweichung vom ordnungsgemäßen
-    Deponiebetrieb führen.
+    Deponiebetrieb führen, und
+
+
+3.  Feststellungen, dass die Anforderungen der Deponiezulassung nicht
+    eingehalten werden.
 
 
 
@@ -1227,6 +1273,16 @@ Im Bestandsplan ist der gesamte Deponieabschnitt einschließlich der
 technischen Barrieren aufzunehmen und zu dokumentieren. Ist ein
 Abfallkataster nach Absatz 2 zu erstellen, ist es in den Bestandsplan
 mit aufzunehmen.
+
+(7) Unbeschadet der Informations- und Dokumentationspflichten nach den
+Absätzen 1 bis 6 übermittelt der Deponiebetreiber auf Verlangen der
+zuständigen Behörde die für die Überprüfung der Zulassung der Deponie
+erforderlichen Informationen, insbesondere die Ergebnisse der
+Messungen und Kontrollen und sonstige Daten, die der Behörde einen
+Vergleich des Betriebes der Deponie mit dem Stand der Technik im Sinne
+des § 3 Absatz 28 des Kreislaufwirtschaftsgesetzes sowie der in § 36
+Absatz 1 Nummer 1 bis 3 und 5 des Kreislaufwirtschaftsgesetzes
+genannten Anforderungen ermöglichen.
 
 
 ## Teil 3 - Verwertung von Deponieersatzbaustoffen
@@ -1263,7 +1319,9 @@ Deponieersatzbaustoff dürfen nicht verwendet werden:
 
 3.  Abfälle, bei denen infolge der Art, Beschaffenheit oder Beständigkeit
     nicht gewährleistet ist, dass diese funktional oder bautechnisch
-    geeignet sind.
+    geeignet sind, wie insbesondere gipshaltige Abfälle, für deren
+    Verwendung keine Eignung nach Anhang 1 Nummer 2.1.2 Satz 1
+    nachgewiesen wurde.
 
 
 
@@ -1565,20 +1623,62 @@ zuständige Behörde für eine Deponie mindestens festzulegen:
     Sicherungsmittels, soweit erforderlich,
 
 
-14. die Auslöseschwellen,
+14. die Auslöseschwellen sowie
 
 
 15. bei einem Einsatz von Deponieersatzbaustoffen diese nach Art, Menge
     und Beschaffenheit und die Baumaßnahmen nach Art und Umfang, in denen
-    Deponieersatzbaustoffe verwendet werden dürfen, sowie
-
-
-16. die Begründung, aus der die wesentlichen tatsächlichen und rechtlichen
-    Gründe, die die zuständige Behörde zu ihrer Entscheidung bewogen
-    haben, und die Behandlung der Einwendungen hervorgehen sollen.
+    Deponieersatzbaustoffe verwendet werden dürfen.
 
 
 
+
+(1a) Der Planfeststellungsbeschluss für ein Vorhaben, das nach dem
+Gesetz über die Umweltverträglichkeitsprüfung einer
+Umweltverträglichkeitsprüfung bedarf (UVP-pflichtiges Vorhaben), muss
+neben den nach Absatz 1 erforderlichen Angaben zumindest noch folgende
+Angaben enthalten:
+
+1.  die umweltbezogenen Nebenbestimmungen, die mit dem
+    Planfeststellungsbeschluss verbunden sind,
+
+
+2.  eine Beschreibung der vorgesehenen Überwachungsmaßnahmen und
+
+
+3.  eine Begründung, aus der die wesentlichen tatsächlichen und
+    rechtlichen Gründe hervorgehen, die die Behörde zu ihrer Entscheidung
+    bewogen haben; hierzu gehören
+
+    a)  Angaben über das Verfahren zur Beteiligung der Öffentlichkeit,
+
+
+    b)  die zusammenfassende Darstellung gemäß § 24 des Gesetzes über die
+        Umweltverträglichkeitsprüfung,
+
+
+    c)  die begründete Bewertung gemäß § 25 Absatz 1 des Gesetzes über die
+        Umweltverträglichkeitsprüfung sowie
+
+
+    d)  eine Erläuterung, wie die begründete Bewertung gemäß § 25 Absatz 1 des
+        Gesetzes über die Umweltverträglichkeitsprüfung, insbesondere die
+        Angaben des UVP-Berichts gemäß § 16 des Gesetzes über die
+        Umweltverträglichkeitsprüfung, die behördlichen Stellungnahmen nach §
+        17 Absatz 2 und § 55 Absatz 4 des Gesetzes über die
+        Umweltverträglichkeitsprüfung sowie die Äußerungen der Öffentlichkeit
+        nach den §§ 21 und 56 des Gesetzes über die
+        Umweltverträglichkeitsprüfung, im Planfeststellungsbeschluss
+        berücksichtigt wurden oder wie ihnen anderweitig Rechnung getragen
+        wurde.
+
+
+
+
+
+
+Wird ein UVP-pflichtiges Vorhaben nicht zugelassen, müssen im Bescheid
+die dafür wesentlichen Gründe erläutert werden.
 
 (2) Im Bescheid über die Zulassung des vorzeitigen Beginns nach § 37
 des Kreislaufwirtschaftsgesetzes hat die zuständige Behörde mindestens
@@ -1611,15 +1711,136 @@ die gesamten Antragsunterlagen durch einen Sachverständigen überprüfen
 lassen, den sie nach Anhörung des Trägers des Vorhabens bestimmt.
 
 
+### § 21a Öffentliche Bekanntmachung
+
+(1) Die Entscheidung über den Antrag auf Planfeststellung einer
+Deponie ist im Internet öffentlich bekannt zu machen; davon
+ausgenommen sind die mit dem Antrag eingereichten Unterlagen. Sofern
+der Planfeststellungsbeschluss Hinweise auf Geschäfts- oder
+Betriebsgeheimnisse enthält, sind die entsprechenden Stellen
+unkenntlich zu machen.
+
+(2) Absatz 1 gilt entsprechend für Anordnungen zur Stilllegung einer
+planfeststellungsbedürftigen Deponie nach § 40 Absatz 2 und 3 des
+Kreislaufwirtschaftsgesetzes.
+
+
 ### § 22 Überprüfung behördlicher Entscheidungen
 
-Die zuständige Behörde hat die behördlichen Entscheidungen nach § 21
-alle vier Jahre darauf zu überprüfen, ob zur Einhaltung des Standes
+(1) Die zuständige Behörde hat durch geeignete Maßnahmen zu
+überwachen, dass die Deponie im Einklang mit den umweltbezogenen
+Bestimmungen der behördlichen Entscheidung nach § 21 errichtet,
+betrieben und stillgelegt wird.
+
+(2) Die zuständige Behörde hat die behördlichen Entscheidungen nach §
+21 alle vier Jahre darauf zu überprüfen, ob zur Einhaltung des Standes
 der Technik im Sinne des § 3 Absatz 28 des
 Kreislaufwirtschaftsgesetzes sowie der in § 36 Absatz 1 Nummer 1 bis 3
 und 5 des Kreislaufwirtschaftsgesetzes genannten Anforderungen weitere
 Bedingungen, Auflagen oder Befristungen angeordnet oder bestehende
-geändert werden müssen.
+geändert werden müssen. Die zuständige Behörde nimmt Prüfungen
+entsprechend Satz 1 sowie Anordnungen oder Änderungen der behördlichen
+Entscheidungen vor, soweit die von der Deponie verursachten
+Beeinträchtigungen des Wohls der Allgemeinheit, die Betriebssicherheit
+oder neue umweltrechtliche Vorschriften dies erfordern.
+
+
+### § 22a Überwachungspläne, Überwachungsprogramme
+
+(1) Überwachungspläne im Sinne des § 47 Absatz 7 Satz 1 des
+Kreislaufwirtschaftsgesetzes haben Folgendes zu enthalten:
+
+1.  den räumlichen Geltungsbereich des Plans,
+
+
+2.  eine allgemeine Bewertung der wichtigen Umweltprobleme im
+    Geltungsbereich des Plans,
+
+
+3.  ein Verzeichnis der in den Geltungsbereich des Plans fallenden
+    Deponien,
+
+
+4.  Verfahren für die Aufstellung von Programmen für die regelmäßige
+    Überwachung,
+
+
+5.  Verfahren für die Überwachung aus besonderem Anlass sowie
+
+
+6.  soweit erforderlich, Bestimmungen für die Zusammenarbeit zwischen
+    verschiedenen Überwachungsbehörden.
+
+
+
+Die Überwachungspläne sind von den zuständigen Behörden regelmäßig zu
+überprüfen und soweit erforderlich zu aktualisieren.
+
+(2) Auf der Grundlage der Überwachungspläne erstellen oder
+aktualisieren die zuständigen Behörden regelmäßig
+Überwachungsprogramme, in denen auch die Zeiträume angegeben sind, in
+denen Vor-Ort-Besichtigungen stattfinden müssen. In welchem zeitlichen
+Abstand Deponien vor Ort besichtigt werden müssen, richtet sich nach
+einer systematischen Beurteilung der mit der Deponie verbundenen
+Umweltrisiken insbesondere anhand der folgenden Kriterien:
+
+1.  mögliche und tatsächliche Auswirkungen der betreffenden Deponie auf
+    die menschliche Gesundheit und auf die Umwelt unter Berücksichtigung
+    der Emissionswerte und -typen, der Empfindlichkeit der örtlichen
+    Umgebung und des von der Deponie ausgehenden Unfallrisikos;
+
+
+2.  bisherige Einhaltung der Zulassungsanforderungen;
+
+
+3.  Eintragung eines Unternehmens in ein Verzeichnis gemäß Artikel 5 der
+    Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des
+    Rates vom 25. November 2009 über die freiwillige Teilnahme von
+    Organisationen an einem Gemeinschaftssystem für Umweltmanagement und
+    Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr.
+    761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und
+    2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1).
+
+
+
+
+(3) Der Abstand zwischen zwei Vor-Ort-Besichtigungen darf die
+folgenden Zeiträume nicht überschreiten:
+
+1.  ein Jahr bei Deponien der Klasse III und IV,
+
+
+2.  zwei Jahre bei Deponien der Klasse II sowie
+
+
+3.  drei Jahre bei Deponien der Klasse I.
+
+
+
+Wurde bei einer Überwachung festgestellt, dass der Deponiebetreiber in
+schwerwiegender Weise gegen die Zulassung verstößt, hat die zuständige
+Behörde innerhalb von sechs Monaten nach der Feststellung des
+Verstoßes eine zusätzliche Vor-Ort-Besichtigung durchzuführen.
+
+(4) Die zuständigen Behörden führen unbeschadet des Absatzes 2 bei
+Beschwerden wegen ernsthafter Umweltbeeinträchtigungen, bei
+Ereignissen mit erheblichen Beeinträchtigungen des Wohls der
+Allgemeinheit und bei Verstößen gegen Vorschriften des
+Kreislaufwirtschaftsgesetzes, dieser Verordnung oder einer auf Grund
+des Kreislaufwirtschaftsgesetzes erlassenen Rechtsverordnung eine
+Überwachung durch.
+
+(5) Nach jeder Vor-Ort-Besichtigung einer planfeststellungsbedürftigen
+Deponie, für die eine Pflicht zur Erstellung eines Überwachungsplans
+und Überwachungsprogramms besteht, erstellt die zuständige Behörde
+einen Bericht mit den relevanten Feststellungen über die Einhaltung
+der Zulassungsanforderungen und mit Schlussfolgerungen, ob weitere
+Maßnahmen notwendig sind. Der Bericht ist dem Deponiebetreiber
+innerhalb von zwei Monaten nach der Vor-Ort-Besichtigung durch die
+zuständige Behörde zu übermitteln. Der Bericht ist der Öffentlichkeit
+nach den Vorschriften des Bundes und der Länder über den Zugang zu
+Umweltinformationen innerhalb von vier Monaten nach der Vor-Ort-
+Besichtigung zugänglich zu machen.
 
 
 ## Teil 5 - Langzeitlager
@@ -1649,24 +1870,131 @@ umweltverträgliche Entsorgung der maximal zugelassenen Lagermenge und
 die Kosten der Wiederherrichtung des Anlagengeländes rechnerisch zu
 erfassen sind.
 
-(2) Metallische Quecksilberabfälle können in folgenden Langzeitlagern
-angenommen werden:
+(2) Abweichend vom Verbot der Langzeitlagerung flüssiger Abfälle nach
+Absatz 1 Satz 1 Nummer 1 in Verbindung mit § 7 Absatz 1 Nummer 1 für
+Langzeitlager der Klasse III und nach Absatz 1 Satz 1 Nummer 2 in
+Verbindung mit § 7 Absatz 2 Nummer 1 für Langzeitlager der Klasse IV
+dürfen metallische Quecksilberabfälle in einem Langzeitlager der
+Klasse III oder IV gelagert werden, wenn
 
-1.  abweichend von § 7 Absatz 1 Nummer 1 in einem Langzeitlager der Klasse
-    III oder
+1.  das Langzeitlager nach § 4 Absatz 1 des Bundes-
+    Immissionsschutzgesetzes oder nach § 35 Absatz 2 des
+    Kreislaufwirtschaftsgesetzes dafür zugelassen ist,
 
 
-2.  abweichend von § 7 Absatz 2 Nummer 1 in einem Langzeitlager der Klasse
-    IV.
+2.  der Betreiber des Langzeitlagers die Anforderungen des Anhangs 6
+    Nummer 1 und 4 sowie des Absatzes 5 erfüllt und
+
+
+3.  der für die Befüllung der Behälter mit metallischen
+    Quecksilberabfällen Verantwortliche (Befüller) die Anforderungen des
+    Anhangs 6 Nummer 2 und 3 sowie der Absätze 3 und 4 einhält.
 
 
 
-Im Fall von Satz 1 Nummer 1 muss das Langzeitlager ausdrücklich für
-die Lagerung von metallischem Quecksilber zugelassen sein. Im Fall von
-Satz 1 Nummer 2 muss das Langzeitlager auf die Beseitigung von
-metallischem Quecksilber ausgerichtet sein und die standortbezogene
-Sicherheitsbeurteilung dies besonders berücksichtigen. Absatz 1 Satz 2
-ist nicht für die Lagerung von metallischem Quecksilber anzuwenden.
+Über die Anforderungen des Satzes 1 hinaus sind bei Langzeitlagern der
+Klasse III auch die Anforderungen der Störfall-Verordnung einzuhalten.
+Absatz 1 Satz 2 und § 8 Absatz 1, Absatz 3, Absatz 4 Satz 1 Nummer 1
+und 3 bis 5 sowie Absatz 5 sind bei der zeitweiligen Lagerung
+metallischer Quecksilberabfälle in Langzeitlagern der Klasse III und
+IV nicht anzuwenden. Abweichend von § 2 Nummer 26 und Absatz 1 Satz 1
+Nummer 1 in Verbindung mit § 6 Absatz 3 Satz 1 Nummer 1 ist bei der
+zeitweiligen Lagerung metallischer Quecksilberabfälle in
+Langzeitlagern der Klasse III die Einhaltung der Zuordnungskriterien
+des Anhangs 3 Nummer 2 nicht erforderlich.
+
+(3) Der Befüller hat die Einhaltung der Anforderungen nach Anhang 6
+Nummer 2 Buchstabe a und b stichprobenartig durch eine
+Kontrolluntersuchung je angefangene 10 Megagramm metallischer
+Quecksilberabfälle durch einen im Einvernehmen mit der zuständigen
+Behörde bestimmten Sachverständigen prüfen und schriftlich bestätigen
+zu lassen; § 24 Absatz 2 und 3 gilt entsprechend. Der Befüller hat dem
+Betreiber des Langzeitlagers, der die nach Satz 1 untersuchten
+metallischen Quecksilberabfälle annimmt, die Bestätigung des
+Sachverständigen unverzüglich zuzuleiten. Eine zweite Ausfertigung hat
+der Befüller fünf Jahre seit der Erstellung aufzubewahren.
+
+(4) Der Befüller hat für jeden Behälter mit metallischen
+Quecksilberabfällen eine mit der Identifikationsnummer des Behälters
+gekennzeichnete Bescheinigung zu erstellen, die folgende Angaben
+enthalten muss:
+
+1.  Name und Anschrift des Abfallerzeugers,
+
+
+2.  Name und Anschrift des für die Befüllung Verantwortlichen,
+
+
+3.  Ort und Datum der Befüllung,
+
+
+4.  Quecksilberabfallmenge und Befüllungsgrad,
+
+
+5.  Analysebericht über den Reinheitsgrad des Quecksilberabfalls nach
+    Anhang 6 Nummer 2 Buchstabe a und gegebenenfalls Beschreibung der
+    Verunreinigungen,
+
+
+6.  Bestätigung, dass der Behälter nach der Befüllung keine
+    aufgeschwommenen Verunreinigungen in Form einer wässrigen oder öligen
+    Phase enthält,
+
+
+7.  Bestätigung, dass der Behälter ausschließlich für die Beförderung oder
+    Lagerung von metallischen Quecksilberabfällen verwendet wurde,
+
+
+8.  Bestätigung der Einhaltung der Anforderungen des Anhangs 6 Nummer 3
+    Buchstabe a und c sowie
+
+
+9.  soweit im Einzelfall erforderlich, weitere für die Entsorgung
+    relevante Anmerkungen.
+
+
+
+Bei Anlieferung der metallischen Quecksilberabfälle ist dem Betreiber
+des Langzeitlagers die Bescheinigung zusammen mit dem Behälter
+vorzulegen. Eine zweite Ausfertigung hat der Befüller fünf Jahre seit
+der Erstellung aufzubewahren.
+
+(5) Der Betreiber des Langzeitlagers hat nach der Beendigung der
+Lagerung folgende Unterlagen drei Jahre lang aufzubewahren:
+
+1.  die Bestätigung des Sachverständigen nach Absatz 3 Satz 1,
+
+
+2.  die Bescheinigung nach Absatz 4 Satz 1,
+
+
+3.  die Dokumentation der Wartung nach Anhang 6 Nummer 1 Buchstabe d
+    Doppelbuchstabe cc,
+
+
+4.  die Protokolle der Sichtkontrollen nach Anhang 6 Nummer 4 Buchstabe c,
+
+
+5.  die Meldungen über Freisetzungen von Quecksilber nach Anhang 6 Nummer
+    4 Buchstabe e sowie
+
+
+6.  die Aufzeichnungen über die Entnahme und Versendung der metallischen
+    Quecksilberabfälle nach ihrer zeitweiligen Lagerung sowie über den
+    Bestimmungsort und die vorgesehene Behandlung.
+
+
+
+
+(6) Bei Aschen aus der Klärschlammverbrennung und aus der
+Klärschlammmitverbrennung sowie bei kohlenstoffhaltigen Rückständen
+aus der Vorbehandlung von Klärschlamm durch vergleichbare thermische
+Verfahren, die nicht gemeinsam und ohne Vermischung mit anderen
+Abfällen zum Zwecke einer späteren Rückgewinnung des Phosphors in
+einem Langzeitlager gelagert werden, kann auf Antrag eine Ausnahme von
+der Nachweispflicht gemäß Absatz 1 Satz 2 zugelassen werden. Die
+Ausnahme ist auf maximal fünf Jahre zu befristen; sie kann befristet
+verlängert werden.
 
 
 ### § 24 Stilllegung und Nachsorge
@@ -1847,19 +2175,21 @@ nachfolgende Mindestanforderungen erfüllt sind:
 ### § 26 In der Stilllegungsphase befindliche Altdeponien
 
 (1) Abweichend von den §§ 10, 11, 12 Absatz 1 und 2, § 13 Absatz 1 und
-2 sowie den §§ 14 bis 16 kann bei einer Deponie oder einem
-Deponieabschnitt, die oder der sich am 16. Juli 2009 in der
-Stilllegungsphase befand und für die Festlegungen für die weitere
-Stilllegungsphase nach § 12 oder § 14 der Deponieverordnung vom 24.
-Juli 2002 (BGBl. I S. 2807), die zuletzt durch Artikel 2 der
-Verordnung vom 13. Dezember 2006 (BGBl. I S. 2860) geändert worden
-ist, und der Deponieverwertungsverordnung vom 25. Juli 2005 (BGBl. I
-S. 2252), die zuletzt durch Artikel 2 der Verordnung vom 13. Dezember
-2006 (BGBl. I S. 2860) geändert worden ist, in einer Planfeststellung
-nach § 35 Absatz 2, einer Plangenehmigung nach § 35 Absatz 3 oder
-einer Anordnung nach § 39 oder § 40 Absatz 2 des
-Kreislaufwirtschaftsgesetzes bestandskräftig getroffen wurden, nach
-den getroffenen Festlegungen weiterhin stillgelegt werden. Sind
+2 sowie den §§ 14 bis 16 kann eine Deponie oder ein Deponieabschnitt,
+die oder der sich am 16. Juli 2009 in der Stilllegungsphase befand und
+für die oder den Festlegungen für die weitere Stilllegungsphase nach §
+12 oder § 14 der Deponieverordnung vom 24. Juli 2002 (BGBl. I S.
+2807), die zuletzt durch Artikel 2 der Verordnung vom 13. Dezember
+2006 (BGBl. I S. 2860) geändert worden ist, und der
+Deponieverwertungsverordnung vom 25. Juli 2005 (BGBl. I S. 2252), die
+zuletzt durch Artikel 2 der Verordnung vom 13. Dezember 2006 (BGBl. I
+S. 2860) geändert worden ist, in einer Planfeststellung nach § 31
+Absatz 2, einer Plangenehmigung nach § 31 Absatz 3 oder einer
+Anordnung nach § 35 oder § 36 Absatz 2 des Kreislaufwirtschafts- und
+Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt
+durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986)
+geändert worden ist, bestandskräftig getroffen wurden, nach den
+getroffenen Festlegungen weiterhin stillgelegt werden. Sind
 Festlegungen nach Satz 1 auch für die endgültige Stilllegung und die
 Nachsorgephase getroffen worden, kann die Deponie oder der
 Deponieabschnitt nach diesen Festlegungen endgültig stillgelegt und
@@ -1962,8 +2292,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 19. entgegen § 12 Absatz 3 Satz 2 Nummer 1 oder Nummer 2 in Verbindung mit
-    Anhang 5 Nummer 7 Satz 1, 2 oder Satz 3 Sickerwasser oder Deponiegas
-    nicht oder nicht richtig handhabt,
+    Anhang 5 Nummer 6 oder Nummer 7 Satz 1, 2 oder Satz 3 Sickerwasser
+    oder Deponiegas nicht oder nicht richtig handhabt,
 
 
 20. entgegen § 12 Absatz 4 Satz 2 Nummer 2 nicht nach den Maßnahmenplänen
@@ -1974,7 +2304,8 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Betriebshandbuch nicht oder nicht rechtzeitig erstellt oder
 
 
-22. entgegen § 14 Absatz 2 Abfälle verwendet.
+22. entgegen § 14 Absatz 2 oder § 15 Satz 1 Abfälle oder einen
+    Deponieersatzbaustoff verwendet.
 
 
 
@@ -1995,13 +2326,12 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Abfälle nicht oder nicht rechtzeitig überprüft,
 
 
-4.  entgegen § 8 Absatz 5 Satz 1 oder Satz 5 Nummer 1, 2 oder Nummer 3,
-    jeweils auch in Verbindung mit § 17 Absatz 1, eine
-    Kontrolluntersuchung nicht, nicht richtig, nicht vollständig oder
-    nicht rechtzeitig durchführt,
+4.  entgegen § 8 Absatz 5 Satz 1, 4, 5 oder Satz 6, jeweils auch in
+    Verbindung mit § 17 Absatz 1, eine Kontrolluntersuchung nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig durchführt,
 
 
-5.  entgegen § 8 Absatz 6, auch in Verbindung mit § 17 Absatz 1, eine
+5.  entgegen § 8 Absatz 7, auch in Verbindung mit § 17 Absatz 1, eine
     Rückstellprobe nicht oder nicht rechtzeitig nimmt oder nicht oder
     nicht mindestens einen Monat aufbewahrt,
 
@@ -2020,34 +2350,37 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     richtig oder nicht vollständig führt,
 
 
-9.  entgegen § 13 Absatz 4 Nummer 1 und 2 nicht unverzüglich zu
-    festgestellten nachteiligen Auswirkungen der Deponie auf die Umwelt
-    und Störungen unterrichtet,
+9.  entgegen § 13 Absatz 4 eine Unterrichtung nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig vornimmt,
 
 
-10. entgegen § 13 Absatz 5 Satz 1 den Jahresbericht nicht, nicht
-    rechtzeitig, nicht richtig oder nicht vollständig vorlegt oder
+10. entgegen § 13 Absatz 5 Satz 1 den Jahresbericht nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig vorlegt,
 
 
 11. entgegen § 13 Absatz 6 Satz 1 einen Bestandsplan nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig erstellt.
+    nicht vollständig oder nicht rechtzeitig erstellt oder
+
+
+12. entgegen § 13 Absatz 7 eine Information nicht, nicht richtig, nicht
+    vollständig oder nicht rechtzeitig übermittelt.
 
 
 
 
 (3) Die Bestimmungen des Absatzes 1 Nummer 1 bis 9 und 17 bis 21 sowie
-des Absatzes 2 Nummer 1 bis 11 gelten auch für Langzeitlager im Sinne
-des § 23 Satz 1.
+des Absatzes 2 Nummer 1 bis 12 gelten auch für Langzeitlager im Sinne
+des § 23 Absatz 1 Satz 1.
 
 
 ### § 28 Übergangsvorschriften
 
-Abweichend von § 3 Absatz 1, § 10 Absatz 1 und § 23, jeweils in
-Verbindung mit Anhang 1 Nummer 2.1 Ziffer 1, können bis zum 29. April
-2010 Geokunststoffe (mit Ausnahme von Kunststoffdichtungsbahnen und
-Schutzschichten), Polymere und Dichtungskontrollsysteme, für die
-Eignungsgutachten der Bundesanstalt für Materialforschung und -prüfung
-oder eines anderen geeigneten Gutachters vorliegen, eingesetzt werden.
+Abweichend von § 3 Absatz 1, § 10 Absatz 1 und § 23 Absatz 1, jeweils
+in Verbindung mit Anhang 1 Nummer 2.1, kann bis zum 1. Mai 2015 als
+fremdprüfende Stelle auch beauftragt werden, wer nicht abschließend
+nach Anhang 1 Nummer 2.1 Satz 16 akkreditiert ist, sich aber
+nachweislich im Akkreditierungsverfahren befindet und über
+ausreichendes fach- und sachkundiges Personal verfügt.
 
 
 ### Anhang 1 Anforderungen an den Standort, die geologische Barriere, Basis- und Oberflächenabdichtungssysteme von Deponien der Klasse 0, I, II und III (zu § 3 Absatz 1, § 10 Absatz 1, den §§ 23, 28)
@@ -2159,20 +2492,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Abweichend von Satz 3 bis 6 können für Deponieabdichtungssysteme
     Materialien, Komponenten oder Systeme eingesetzt werden, die
 
-    1.  nach harmonisierten technischen Spezifikationen nach der Richtlinie
-        89/106/EWG des Rates vom 21. Dezember 1988 zur Angleichung der Rechts-
-        und Verwaltungsvorschriften der Mitgliedstaaten über Bauprodukte (ABl.
-        L 40 vom 11.2.1989, S. 12), die zuletzt durch die Verordnung (EG) Nr.
-        1882/2003 (ABl. L 284 vom 31.10.2003, S. 1) geändert worden ist,
-        deklariert worden sind, wenn die durch die genannten harmonisierten
-        technischen Spezifikationen festgelegten Material-, Komponenten- und
-        Systemeigenschaften im Wesentlichen denen gleichwertig sind, die sich
-        aus den Anforderungen des Satzes 1 ergeben, oder
+    1.  nach harmonisierten technischen Spezifikationen nach der Verordnung
+        (EU) Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9.
+        März 2011 zur Festlegung harmonisierter Bedingungen für die
+        Vermarktung von Bauprodukten und zur Aufhebung der Richtlinie
+        89/106/EWG des Rates (ABl. L 88 vom 4.4.2011, S. 5) in der jeweils
+        geltenden Fassung deklariert worden sind, wenn die durch die genannten
+        harmonisierten technischen Spezifikationen festgelegten Material-,
+        Komponenten- und Systemeigenschaften im Wesentlichen denen
+        gleichwertig sind, die sich aus den Anforderungen des Satzes 1
+        ergeben, oder
 
 
-    2.  keine CE-Kennzeichnung nach der Richtlinie 89/106/EWG tragen und die
-        entweder in einem anderen Mitgliedstaat der Europäischen Union oder in
-        der Republik Türkei gemäß den dort geltenden Regelungen oder
+    2.  keine CE-Kennzeichnung nach der Verordnung (EU) Nr. 305/2011 tragen
+        und die entweder in einem anderen Mitgliedstaat der Europäischen Union
+        oder in der Republik Türkei gemäß den dort geltenden Regelungen oder
         Anforderungen rechtmäßig hergestellt oder in Verkehr gebracht wurden
         oder die in einem anderen Vertragsstaat des Abkommens über den
         Europäischen Wirtschaftsraum gemäß den dort geltenden Regelungen oder
@@ -2196,11 +2530,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     verlangt werden.
 
     Die Herstellbarkeit der Abdichtungskomponenten und des
-    Abdichtungssystems ist vor Errichtung des Abdichtungssystems unter
-    Baustellenbedingungen durch Ausführung von Probefeldern gegenüber der
-    zuständigen Behörde nachzuweisen. Die zuständige Behörde kann hiervon
-    Ausnahmen zulassen, soweit die Herstellbarkeit unter
-    Baustellenbedingungen durch andere Nachweise belegt werden kann.
+    Abdichtungssystems sowie der durch technische Maßnahmen geschaffenen,
+    vervollständigten oder verbesserten geologischen Barriere ist vor
+    deren Errichtung unter Baustellenbedingungen durch Ausführung von
+    Probefeldern gegenüber der zuständigen Behörde nachzuweisen. Die
+    zuständige Behörde kann hiervon Ausnahmen zulassen, soweit die
+    Herstellbarkeit unter Baustellenbedingungen durch andere Nachweise
+    belegt werden kann.
 
     Sämtliche Bauteile sind standsicher zu errichten. Hierüber ist der
     zuständigen Behörde ein Nachweis vorzulegen, der insbesondere die
@@ -2214,9 +2550,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     aus Eigenüberwachung des Herstellers und Fremdüberwachung eines
     beauftragten Dritten, für die Bauausführung aus Eigenprüfung der
     ausführenden Firma, der Fremdprüfung durch einen beauftragten Dritten
-    und aus der Überwachung durch die zuständige Behörde. Der mit der
-    Fremdprüfung beauftragte Dritte muss über ausreichendes fach- und
-    sachkundiges Personal verfügen. Die fremdprüfende Stelle und der
+    und aus der Überwachung durch die zuständige Behörde. Die
+    fremdprüfende Stelle muss nach DIN EN ISO/IEC 17020:2012-07
+    (Konformitätsbewertung – Anforderungen an den Betrieb verschiedener
+    Typen von Stellen, die Inspektionen durchführen) als Inspektionsstelle
+    für die Fremdprüfung im Deponiebau und nach DIN EN ISO/IEC
+    17025:2005-08, 2. Berichtigung 2007-05 (Allgemeine Anforderungen an
+    die Kompetenz von Prüf- und Kalibrierlaboratorien) als
+    Prüflaboratorium akkreditiert sein. Spezielle Prüfungen können vom
+    Fremdprüfer an eine unabhängige Institution vergeben werden, die für
+    diese Prüfungen akkreditiert ist. Die fremdprüfende Stelle und der
     Leistungsumfang der Fremdprüfungen sind mit der zuständigen Behörde
     abzustimmen. Die Kosten der Fremdprüfung trägt der Deponiebetreiber.
 
@@ -2295,8 +2638,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         der §§ 14 und 15 dieser Verordnung,
 
 
-    13. bei einer Entwässerung an der Deponiebasis: DIN 19667, Ausgabe Oktober
-        2009, Dränung von Deponien – Planung, Bauausführung und Betrieb.
+    13. bei einer Entwässerung an der Deponiebasis: DIN 19667, Ausgabe August
+        2015, Dränung von Deponien – Planung, Bauausführung und Betrieb.
 
 
 
@@ -2349,30 +2692,30 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   1
 
-        *[^f772033_03_BJNR090010009BJNE003002310]
+        *[^f772033_03_BJNR090010009BJNE003004377]
    Geologische Barriere
 
-        *   k*                              1x10
-            -7                              m/s
-            d*                              1,00 m
+        *   k* 1x10
+            -7 m/s
+            d* 1,00 m
 
-        *   k*                              1x10
-            -9                              m/s
-            d*                              1,00 m
+        *   k* 1x10
+            -9 m/s
+            d* 1,00 m
 
-        *   k*                              1x10
-            -9                              m/s
-            d*                              1,00 m
+        *   k* 1x10
+            -9 m/s
+            d* 1,00 m
 
-        *   k*                              1x10
-            -9                              m/s
-            d*                              5,00 m
+        *   k* 1x10
+            -9 m/s
+            d* 5,00 m
 
 
     *        *   2
 
         *   Erste Abdichtungs-
-[^f772033_04_BJNR090010009BJNE003002310]
+[^f772033_04_BJNR090010009BJNE003004377]
             komponente
 
         *   nicht
@@ -2389,7 +2732,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Zweite Abdichtungs-
             komponente
-            2                             )
+            2)
 
         *   nicht
             erforderlich
@@ -2405,18 +2748,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *        *   4
 
         *   Mineralische Entwäs-
-[^f772033_05_BJNR090010009BJNE003002310]
+[^f772033_05_BJNR090010009BJNE003004377]
             serungsschicht
             ,
             Körnung gemäß DIN 19667
 
-        *   d*                              0,30 m
+        *   d* 0,30 m
 
-        *   d*                              0,50 m
+        *   d* 0,50 m
 
-        *   d*                              0,50 m
+        *   d* 0,50 m
 
-        *   d*                              0,50 m
+        *   d* 0,50 m
 
 
 
@@ -2440,10 +2783,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Wird das Oberflächenabdichtungssystem ohne eine Konvektionssperre
     hergestellt, ist bei Deponien der Klasse I, II und III ein
     Kontrollfeld von wenigstens 300 m
-    2                    Größe an repräsentativer Stelle im
-    Oberflächenabdichtungssystem einzurichten, mit dem der Durchfluss
-    durch das Oberflächenabdichtungssystem bestimmt werden kann. Das
-    Kontrollfeld ist bis zum Ende der Nachsorgephase zu betreiben.
+    2 Größe an repräsentativer Stelle im Oberflächenabdichtungssystem
+    einzurichten, mit dem der Durchfluss durch das
+    Oberflächenabdichtungssystem bestimmt werden kann. Das Kontrollfeld
+    ist bis zum Ende der Nachsorgephase zu betreiben.
 
     Für den Fall, dass es die angestrebte und zulässige Folgenutzung
     erfordert, kann die Rekultivierungsschicht durch eine auf die
@@ -2526,12 +2869,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Wird die Deponieoberfläche nach endgültiger Stilllegung als
     Verkehrsfläche, Parkplatz, zur Bebauung oder in ähnlicher Weise
     genutzt, kann die Rekultivierungsschicht durch eine technische
-    Funktionsschicht ersetzt werden. Dabei muss das in diese technische
-    Funktionsschicht einzubauende Material mindestens die Anforderungen an
-    Schadstoffgehalt und Auslaugbarkeit einhalten, unter denen eine
-    Verwendung außerhalb des Deponiestandortes unter vergleichbaren
-    Randbedingungen zulässig wäre. Für die technische Funktionsschicht
-    gilt:
+    Funktionsschicht ersetzt werden, wenn die Folgenutzung dies erfordert.
+    Dabei muss das in diese technische Funktionsschicht einzubauende
+    Material mindestens die Anforderungen an Schadstoffgehalt und
+    Auslaugbarkeit einhalten, unter denen eine Verwendung außerhalb des
+    Deponiestandortes unter vergleichbaren Randbedingungen zulässig wäre.
+    Für die technische Funktionsschicht gilt:
 
     1.  Die Dicke ist nach den Schutzerfordernissen der darunter liegenden
         Systemkomponenten (keine Beeinträchtigung der langfristigen
@@ -2546,9 +2889,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     3.  Nach Aufgabe der die technische Funktionsschicht begründenden Nutzung
-        ist die Fläche so herzustellen, dass sie eine natürliche Funktion des
-        Standortes erfüllen kann und die Schutzerfordernisse nach Ziffer 1
-        gewahrt bleiben.
+        ist die Rekultivierungsschicht so herzustellen, dass die Anforderungen
+        der Nummer 2.3.1 erfüllt werden.
 
 
 
@@ -2563,10 +2905,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   DK 0
 
-        *[^f772033_10_BJNR090010009BJNE003002310]
+        *[^f772033_10_BJNR090010009BJNE003004377]
    DK I
 
-        *[^f772033_11_BJNR090010009BJNE003002310]
+        *[^f772033_11_BJNR090010009BJNE003004377]
    DK II
 
         *   DK III
@@ -2574,29 +2916,29 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   1
 
-        *[^f772033_06_BJNR090010009BJNE003002310]
+        *[^f772033_06_BJNR090010009BJNE003004377]
    Ausgleichsschicht
 
         *   nicht
             erforderlich
 
-        *[^f772033_12_BJNR090010009BJNE003002310]
+        *[^f772033_12_BJNR090010009BJNE003004377]
    ggf.
             erforderlich
 
         *   ggf.
-            7                             )
+            7)
             erforderlich
 
         *   ggf.
-            7                             )
+            7)
             erforderlich
 
 
     *        *   2
 
         *   Gasdränschicht
-            1                             )
+            1)
 
         *   nicht
             erforderlich
@@ -2604,12 +2946,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   nicht
             erforderlich
 
-        *[^f772033_13_BJNR090010009BJNE003002310]
+        *[^f772033_13_BJNR090010009BJNE003004377]
    ggf.
             erforderlich
 
         *   ggf.
-            8                             )
+            8)
             erforderlich
 
 
@@ -2621,13 +2963,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   nicht
             erforderlich
 
-        *[^f772033_07_BJNR090010009BJNE003002310]
+        *[^f772033_07_BJNR090010009BJNE003004377]
    erforderlich
 
         *   erforderlich
-            2                             )
+            2)
 
-        *[^f772033_08_BJNR090010009BJNE003002310]
+        *[^f772033_08_BJNR090010009BJNE003004377]
    erforderlich
 
 
@@ -2643,10 +2985,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             erforderlich
 
         *   erforderlich
-            2                             )
+            2)
 
         *   erforderlich
-            3                             )
+            3)
 
 
     *        *   5
@@ -2667,12 +3009,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   6
 
-        *[^f772033_09_BJNR090010009BJNE003002310]
+        *[^f772033_09_BJNR090010009BJNE003004377]
    Entwässerungsschicht
-            d*                              0,30 m, k*
-            1x10
-            -3                              m/s,
-            Gefälle*                              5 %
+            d* 0,30 m, k* 1x10
+            -3 m/s,
+            Gefälle* 5 %
 
         *   nicht
             erforderlich
@@ -2790,51 +3131,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     (Laborwert nach DIN 18130-1, Ausgabe Mai 1998, Baugrund – Untersuchung
     von Bodenproben; Bestimmung des Wasserdurchlässigkeitsbeiwerts – Teil
     1: Laborversuche) einzuhalten.
-[^f772033_03_BJNR090010009BJNE003002310]: [^f772033_04_BJNR090010009BJNE003002310]:     *              5 x 10                            -10              m/s
-    bei einem Druckgradienten von i = 30 (Laborwert nach DIN 18130-1,
-    Ausgabe Mai 1998, Baugrund – Untersuchung von Bodenproben; Bestimmung
-    des Wasserdurchlässigkeitsbeiwerts – Teil 1: Laborversuche) einhalten.
-    Werden Kunststoffdichtungsbahnen als Abdichtungskomponente eingesetzt,
-    darf ihre Dicke 2,5 mm nicht unterschreiten.
+[^f772033_03_BJNR090010009BJNE003004377]: [^f772033_04_BJNR090010009BJNE003004377]:     * 5 x 10-10 m/s bei einem Druckgradienten von i = 30 (Laborwert nach
+    DIN 18130-1, Ausgabe Mai 1998, Baugrund – Untersuchung von
+    Bodenproben; Bestimmung des Wasserdurchlässigkeitsbeiwerts – Teil 1:
+    Laborversuche) einhalten. Werden Kunststoffdichtungsbahnen als
+    Abdichtungskomponente eingesetzt, darf ihre Dicke 2,5 mm nicht
+    unterschreiten.
     Wenn nachgewiesen wird, dass es langfristig zu keinem Wasseranstau im
     Deponiekörper kommt, kann mit Zustimmung der zuständigen Behörde bei
     Deponien der Klasse I, II und III die Entwässerungsschicht mit einer
     geringeren Schichtstärke oder anderer Körnung hergestellt werden.
-[^f772033_05_BJNR090010009BJNE003002310]:     Die Ausgleichsschicht kann bei ausreichender Gasdurchlässigkeit und
+[^f772033_05_BJNR090010009BJNE003004377]:     Die Ausgleichsschicht kann bei ausreichender Gasdurchlässigkeit und
     Dicke die Funktion der Gasdränschicht nach Nummer 2 mit erfüllen.
-[^f772033_06_BJNR090010009BJNE003002310]: [^f772033_07_BJNR090010009BJNE003002310]:     *              5 x 10                            -9              m/s
-    (Laborwert nach DIN 18130-1, Ausgabe Mai 1998, Baugrund – Untersuchung
-    von Bodenproben; Bestimmung des Wasserdurchlässigkeitsbeiwerts – Teil
-    1: Laborversuche; bei einem Druckgradienten von i = 30). Abweichend
-    von Satz 1 können mineralische Abdichtungskomponenten, deren
-    Wirksamkeit nicht mit Durchlässigkeitsbeiwerten beschrieben werden
-    kann, eingesetzt werden, wenn sie im fünfjährigen Mittel nicht mehr
-    als 20 mm/Jahr Durchsickerung aufweisen. Werden
-    Kunststoffdichtungsbahnen als Abdichtungskomponente eingesetzt, darf
-    ihre Dicke 2,5 mm nicht unterschreiten.
-[^f772033_08_BJNR090010009BJNE003002310]:     *              5 x 10                            -10              m/s
-    (Laborwert nach DIN 18130-1, Ausgabe Mai 1998, Baugrund – Untersuchung
-    von Bodenproben; Bestimmung des Wasserdurchlässigkeitsbeiwerts – Teil
-    1: Laborversuche; bei einem Druckgradienten von i = 30). Abweichend
-    von Satz 1 können mineralische Abdichtungskomponenten, deren
-    Wirksamkeit nicht mit Durchlässigkeitsbeiwerten beschrieben werden
-    kann, eingesetzt werden, wenn sie im fünfjährigen Mittel nicht mehr
-    als 10 mm/Jahr Durchsickerung aufweisen. Werden
-    Kunststoffdichtungsbahnen als Abdichtungskomponente eingesetzt, darf
-    ihre Dicke 2,5 mm nicht unterschreiten.
+[^f772033_06_BJNR090010009BJNE003004377]: [^f772033_07_BJNR090010009BJNE003004377]:     * 5 x 10-9 m/s (Laborwert nach DIN 18130-1, Ausgabe Mai 1998, Baugrund
+    – Untersuchung von Bodenproben; Bestimmung des
+    Wasserdurchlässigkeitsbeiwerts – Teil 1: Laborversuche; bei einem
+    Druckgradienten von i = 30). Abweichend von Satz 1 können mineralische
+    Abdichtungskomponenten, deren Wirksamkeit nicht mit
+    Durchlässigkeitsbeiwerten beschrieben werden kann, eingesetzt werden,
+    wenn sie im fünfjährigen Mittel nicht mehr als 20 mm/Jahr
+    Durchsickerung aufweisen. Werden Kunststoffdichtungsbahnen als
+    Abdichtungskomponente eingesetzt, darf ihre Dicke 2,5 mm nicht
+    unterschreiten.
+[^f772033_08_BJNR090010009BJNE003004377]:     * 5 x 10-10 m/s (Laborwert nach DIN 18130-1, Ausgabe Mai 1998,
+    Baugrund – Untersuchung von Bodenproben; Bestimmung des
+    Wasserdurchlässigkeitsbeiwerts – Teil 1: Laborversuche; bei einem
+    Druckgradienten von i = 30). Abweichend von Satz 1 können mineralische
+    Abdichtungskomponenten, deren Wirksamkeit nicht mit
+    Durchlässigkeitsbeiwerten beschrieben werden kann, eingesetzt werden,
+    wenn sie im fünfjährigen Mittel nicht mehr als 10 mm/Jahr
+    Durchsickerung aufweisen. Werden Kunststoffdichtungsbahnen als
+    Abdichtungskomponente eingesetzt, darf ihre Dicke 2,5 mm nicht
+    unterschreiten.
     Die zuständige Behörde kann auf Antrag des Deponiebetreibers
     Abweichungen von Mindestdicke, Durchlässigkeitsbeiwert und Gefälle der
     Entwässerungsschicht zulassen, wenn nachgewiesen wird, dass die
     hydraulische Leistungsfähigkeit der Entwässerungsschicht und die
     Standsicherheit der Rekultivierungsschicht dauerhaft gewährleistet
     sind.
-[^f772033_09_BJNR090010009BJNE003002310]:     Anstelle der Abdichtungskomponente, der Entwässerungsschicht und der
+[^f772033_09_BJNR090010009BJNE003004377]:     Anstelle der Abdichtungskomponente, der Entwässerungsschicht und der
     Rekultivierungsschicht kann eine als Wasserhaushaltsschicht
     ausgeführte Rekultivierungsschicht zugelassen werden, wenn abweichend
     von den Anforderungen nach Nummer 2.3.1.1 Ziffer 3 der Durchfluss
     durch die Wasserhaushaltsschicht im fünfjährigen Mittel nicht mehr als
     20 mm/Jahr spätestens fünf Jahre nach Herstellung beträgt.
-[^f772033_10_BJNR090010009BJNE003002310]:     Anstelle der zweiten Abdichtungskomponente und der
+[^f772033_10_BJNR090010009BJNE003004377]:     Anstelle der zweiten Abdichtungskomponente und der
     Rekultivierungsschicht kann eine als Wasserhaushaltsschicht nach
     Nummer 2.3.1.1 bemessene Rekultivierungsschicht eingebaut werden. Wird
     die erste Abdichtungskomponente als Konvektionssperre ausgeführt, kann
@@ -2850,9 +3191,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Deponiebetreiber Maßnahmen nach § 25 Absatz 4 zur Beschleunigung
     biologischer Abbauprozesse und zur Verbesserung des Langzeitverhaltens
     nachweislich erfolgreich durchführt oder durchgeführt hat.
-[^f772033_11_BJNR090010009BJNE003002310]:     Das Erfordernis richtet sich nach Nummer 2.3 Satz 2.
-[^f772033_12_BJNR090010009BJNE003002310]:     Das Erfordernis richtet sich nach Anhang 5 Nummer 7.
-[^f772033_13_BJNR090010009BJNE003002310]: 
+[^f772033_11_BJNR090010009BJNE003004377]:     Das Erfordernis richtet sich nach Nummer 2.3 Satz 2.
+[^f772033_12_BJNR090010009BJNE003004377]:     Das Erfordernis richtet sich nach Anhang 5 Nummer 7.
+[^f772033_13_BJNR090010009BJNE003004377]: 
 
 ### Anhang 2 Anforderungen an den Standort, geologische Barriere, Langzeitsicherheitsnachweis und Stilllegungsmaßnahmen von Deponien der Klasse IV im Salzgestein (zu § 3 Absatz 2, § 10 Absatz 1, § 11 Absatz 2)
 
@@ -3518,7 +3859,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anhang 3 Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 20 bis 23, 33, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
+### Anhang 3 Zulässigkeits- und Zuordnungskriterien (zu § 2 Nummer 5 bis 9, 23 bis 26, 36, § 6 Absatz 2 bis 5, § 8 Absatz 1, 3, 5 und 8, § 14 Absatz 3, den §§ 15, 23, 25 Absatz 1)
 
 (Fundstelle: BGBl. I 2009, 925 - 928;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3534,7 +3875,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     2, für die Einsatzbereiche nach Tabelle 1 Nummer 1.1, 2.1, 4.1 und
     4\.4.1 die Zuordnungswerte nach Tabelle 2 und für die Einsatzbereiche
     nach Tabelle 1 Nummer 2.1 und 4.1 zusätzlich die Zuordnungskriterien
-    nach Nummer 2 Satz 9 einzuhalten. Die Zahlen 4 bis 9, die in den
+    nach Nummer 2 Satz 11 einzuhalten. Die Zahlen 4 bis 9, die in den
     Spalten 3 bis 6 zu den Einsatzbereichen der Nummern 1 bis 4 der
     Tabelle 1 stehen, stehen für die jeweiligen Zuordnungswerte, die in
     den Spalten 4 bis 9 der Tabelle 2 aufgenommen sind.
@@ -3639,7 +3980,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Deponiekörpers sowie Ausgleichsschicht und Gasdränschicht des
             Oberflächen-
             abdichtungssystems bei Deponien
-[^f772033_14_BJNR090010009BJNE003201310]
+[^f772033_14_BJNR090010009BJNE003203116]
             **oder Deponieabschnitten, die**
 
         *
@@ -3669,7 +4010,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   5
 
-        *[^f772033_15_BJNR090010009BJNE003201310]
+        *[^f772033_15_BJNR090010009BJNE003203116]
    5
 
         *   6
@@ -3683,16 +4024,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             geologische Barriere noch die Anforderungen an das
             Basisabdichtungssystem nach Anhang 1 vollständig einhalten
 
-        *[^f772033_16_BJNR090010009BJNE003201310]
+        *[^f772033_16_BJNR090010009BJNE003203116]
 
         *   5
-            2                             )
+            2)
 
         *   5
-            2                             )
+            2)
 
         *   5
-            2                             )
+            2)
 
 
     *        *   **4**
@@ -3710,13 +4051,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *
         *   5
-            2                             )
+            2)
 
         *   5
-            2                             )
+            2)
 
         *   5
-            2                             )
+            2)
 
 
     *        *   4.2
@@ -3725,9 +4066,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *
         *
-        *[^f772033_17_BJNR090010009BJNE003201310]
+        *[^f772033_17_BJNR090010009BJNE003203116]
 
-        *   4                             )
+        *   4)
 
 
     *        *   4.3
@@ -3735,11 +4076,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Entwässerungsschicht
 
         *
-        *   4                             )
+        *   4)
 
-        *   4                             )
+        *   4)
 
-        *   4                             )
+        *   4)
 
 
     *        *   4.4.1
@@ -3801,9 +4142,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     der Tabelle höhere Überschreitungen zugelassen werden.
 
     Abweichend von Satz 3 dürfen die Zuordnungswerte der Parameter
-    wasserlöslicher Anteil, Chlorid oder Sulfat bei den Deponieklassen I,
-    II und III jeweils um maximal 100 % überschritten werden, soweit Satz
-    4 nicht zur Anwendung kommt.
+    Gesamtgehalt an gelösten Feststoffen, Chlorid oder Sulfat bei den
+    Deponieklassen I, II und III jeweils um maximal 100 % überschritten
+    werden, soweit Satz 4 nicht zur Anwendung kommt.
 
     Bei erhöhten Gehalten des natürlich anstehenden Bodens im Umfeld von
     Deponien kann die zuständige Behörde zulassen, dass Bodenmaterial aus
@@ -3822,8 +4163,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     a)  der organische Anteil des Trockenrückstandes der Originalsubstanz gilt
         als eingehalten, wenn ein TOC von 18 Masseprozent oder ein Brennwert
         (H
-        o                         ) von 6 000 kJ/kg TM nicht überschritten
-        wird,
+        o) von 6 000 kJ/kg TM nicht überschritten wird,
 
 
     b)  es gilt ein DOC von max. 300 mg/l und
@@ -3831,9 +4171,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     c)  die biologische Abbaubarkeit des Trockenrückstandes der
         Originalsubstanz von 5 mg/g (bestimmt als Atmungsaktivität – AT
-        4                         ) oder von 20 l/kg (bestimmt als
-        Gasbildungsrate im Gärtest – GB
-        21                         ) wird nicht überschritten.
+        4) oder von 20 l/kg (bestimmt als Gasbildungsrate im Gärtest – GB
+        21) wird nicht überschritten.
 
 
 
@@ -3849,15 +4188,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     b)  die biologische Abbaubarkeit des Trockenrückstandes der
         Originalsubstanz von 5 mg/g (bestimmt als Atmungsaktivität – AT
-        4                         ) oder von 20 l/kg (bestimmt als
-        Gasbildungsrate – GB
-        21                         ) unterschritten wird,
+        4) oder von 20 l/kg (bestimmt als Gasbildungsrate – GB
+        21) unterschritten wird,
 
 
     c)  der Brennwert (H
-        o                         ) von 6 000 kJ/kg TM nicht überschritten
-        wird, es sei denn, es handelt sich um schwermetallbelastete
-        Ionentauscherharze aus der Trinkwasserbehandlung,
+        o) von 6 000 kJ/kg TM nicht überschritten wird, es sei denn, es
+        handelt sich um schwermetallbelastete Ionentauscherharze aus der
+        Trinkwasserbehandlung,
 
 
     d)  es sich bei Ablagerung auf Deponien der Klasse 0 um Boden und
@@ -3907,7 +4245,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   8
 
-        *[^F775746_02_BJNR090010009BJNE003201310]
+        *[^F775746_02_BJNR090010009BJNE003203116]
    9
 
 
@@ -3940,7 +4278,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   organischer
             Anteil des
             Trockenrückstandes der Original-
-[^F775746_03_BJNR090010009BJNE003201310]
+[^F775746_03_BJNR090010009BJNE003203116]
             **substanz**
 
         *
@@ -3958,23 +4296,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Masse%
 
-        *   *                              3
+        *   * 3
 
-        *   *                              3
+        *   * 3
 
-        *[^F775746_04_BJNR090010009BJNE003201310]
-   *                              3
-[^F775746_05_BJNR090010009BJNE003201310]
-[^F775746_06_BJNR090010009BJNE003201310]
+        *[^F775746_04_BJNR090010009BJNE003203116]
+   * 3
+[^F775746_05_BJNR090010009BJNE003203116]
+[^F775746_06_BJNR090010009BJNE003203116]
 
-        *   *                              5
-            3                             )
-            4                             )
-            5                             )
+        *   * 5
+            3)
+            4)
+            5)
 
-        *   *                              10
-            4                             )
-            5                             )
+        *   * 10
+            4)
+            5)
 
         *
 
@@ -3984,23 +4322,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Masse%
 
-        *   *                              1
+        *   * 1
 
-        *   *                              1
+        *   * 1
 
-        *   *                              1
-            3                             )
-            4                             )
-            5                             )
+        *   * 1
+            3)
+            4)
+            5)
 
-        *   *                              3
-            3                             )
-            4                             )
-            5                             )
+        *   * 3
+            3)
+            4)
+            5)
 
-        *   *                              6
-            4                             )
-            5                             )
+        *   * 6
+            4)
+            5)
 
         *
 
@@ -4023,9 +4361,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/kg TM
 
-        *   *                             1
+        *   *1
 
-        *   *                              6
+        *   * 6
 
         *
         *
@@ -4039,14 +4377,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/kg TM
 
-        *   *                              0,02
+        *   * 0,02
 
-        *   *                              1
+        *   * 1
 
         *
         *
         *
-        *   *                              0,1
+        *   * 0,1
 
 
     *        *   2.03
@@ -4057,9 +4395,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/kg TM
 
-        *   *                              100
+        *   * 100
 
-        *   *                              500
+        *   * 500
 
         *
         *
@@ -4072,15 +4410,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/kg TM
 
-        *   *                              1
+        *   * 1
 
-        *   *                              30
+        *   * 30
 
         *
         *
         *
-        *[^F775746_07_BJNR090010009BJNE003201310]
-   *                              5
+        *[^F775746_07_BJNR090010009BJNE003203116]
+   * 5
 
 
     *        *   2.05
@@ -4094,7 +4432,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              0,6
+        *   * 0,6
 
 
     *        *   2.06
@@ -4110,7 +4448,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             gefährlichen
             Abfällen
             ermittelt
-[^F775746_08_BJNR090010009BJNE003201310]
+[^F775746_08_BJNR090010009BJNE003203116]
             werden
 
         *   muss bei
@@ -4118,7 +4456,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Abfällen
             ermittelt
             werden
-            7                             )
+            7)
 
         *   muss
             ermittelt
@@ -4133,16 +4471,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   Masse%
 
         *
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,4
-            5                             )
+        *   * 0,4
+            5)
 
-        *   *                              0,8
-            5                             )
+        *   * 0,8
+            5)
 
-        *   *                              4
-            5                             )
+        *   * 4
+            5)
 
         *
 
@@ -4157,7 +4495,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              140
+        *   * 140
 
 
     *        *   2.09
@@ -4171,7 +4509,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              1,0
+        *   * 1,0
 
 
     *        *   2.10
@@ -4185,7 +4523,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              120
+        *   * 120
 
 
     *        *   2.11
@@ -4199,7 +4537,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              80
+        *   * 80
 
 
     *        *   2.12
@@ -4213,7 +4551,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              100
+        *   * 100
 
 
     *        *   2.13
@@ -4227,7 +4565,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              1,0
+        *   * 1,0
 
 
     *        *   2.14
@@ -4241,7 +4579,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              300
+        *   * 300
 
 
     *        *   **3**
@@ -4258,7 +4596,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.01
 
-        *[^F775746_09_BJNR090010009BJNE003201310]
+        *[^F775746_09_BJNR090010009BJNE003203116]
    pH-Wert
 
         *
@@ -4277,24 +4615,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   3.02
 
-        *[^F775746_10_BJNR090010009BJNE003201310]
+        *[^F775746_10_BJNR090010009BJNE003203116]
    DOC
 
         *   mg/l
 
         *
-        *   *                              50
+        *   * 50
 
-        *   *                              50
-[^F775746_11_BJNR090010009BJNE003201310]
-            3                             )
+        *   * 50
+[^F775746_11_BJNR090010009BJNE003203116]
+            3)
 
-        *   *                              80
-            3                             )
-[^F775746_12_BJNR090010009BJNE003201310]
-            10                             )
+        *   * 80
+            3)
+[^F775746_12_BJNR090010009BJNE003203116]
+            10)
 
-        *   *                              100
+        *   * 100
 
         *
 
@@ -4304,15 +4642,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              50
+        *   * 50
 
-        *   *                              100
+        *   * 100
 
         *
 
@@ -4322,17 +4660,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,01
+        *   * 0,01
 
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              2,5
+        *   * 2,5
 
-        *   *                              0,01
+        *   * 0,01
 
 
     *        *   3.05
@@ -4341,17 +4679,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,02
+        *   * 0,02
 
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              1
+        *   * 1
 
-        *   *                              5
+        *   * 5
 
-        *   *                              0,04
+        *   * 0,04
 
 
     *        *   3.06
@@ -4360,17 +4698,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,002
+        *   * 0,002
 
-        *   *                              0,004
+        *   * 0,004
 
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,5
+        *   * 0,5
 
-        *   *                              0,002
+        *   * 0,002
 
 
     *        *   3.07
@@ -4379,17 +4717,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              1
+        *   * 1
 
-        *   *                              5
+        *   * 5
 
-        *   *                              10
+        *   * 10
 
-        *   *                              0,05
+        *   * 0,05
 
 
     *        *   3.08
@@ -4398,17 +4736,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,04
+        *   * 0,04
 
-        *   *                              0,04
+        *   * 0,04
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              1
+        *   * 1
 
-        *   *                              4
+        *   * 4
 
-        *   *                              0,05
+        *   * 0,05
 
 
     *        *   3.09
@@ -4417,17 +4755,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,0002
+        *   * 0,0002
 
-        *   *                              0,001
+        *   * 0,001
 
-        *   *                              0,005
+        *   * 0,005
 
-        *   *                              0,02
+        *   * 0,02
 
-        *   *                              0,2
+        *   * 0,2
 
-        *   *                              0,0002
+        *   * 0,0002
 
 
     *        *   3.10
@@ -4436,64 +4774,64 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,4
+        *   * 0,4
 
-        *   *                              2
+        *   * 2
 
-        *   *                              5
+        *   * 5
 
-        *   *                              20
+        *   * 20
 
-        *   *                              0,1
+        *   * 0,1
 
 
     *        *   3.11
 
-        *[^F775746_13_BJNR090010009BJNE003201310]
+        *[^F775746_13_BJNR090010009BJNE003203116]
    Chlorid
 
         *   mg/l
 
-        *   *                              10
+        *   * 10
 
-        *   *                              80
+        *   * 80
 
-        *[^F775746_14_BJNR090010009BJNE003201310]
-   *                              1 500
+        *[^F775746_14_BJNR090010009BJNE003203116]
+   * 1 500
 
-        *   *                              1 500
-            13                             )
+        *   * 1 500
+            13)
 
-        *   *                              2 500
+        *   * 2 500
 
-        *[^F775746_15_BJNR090010009BJNE003201310]
-   *                              10
+        *[^F775746_15_BJNR090010009BJNE003203116]
+   * 10
 
 
     *        *   3.12
 
         *   Sulfat
-            12                             )
+            12)
 
         *   mg/l
 
-        *   *                              50
+        *   * 50
 
-        *[^F775746_16_BJNR090010009BJNE003201310]
-   *                              100
+        *[^F775746_16_BJNR090010009BJNE003203116]
+   * 100
 
-        *   *                              2 000
-            13                             )
+        *   * 2 000
+            13)
 
-        *   *                              2 000
-            13                             )
+        *   * 2 000
+            13)
 
-        *   *                              5 000
+        *   * 5 000
 
-        *   *                              50
-            14                             )
+        *   * 50
+            14)
 
 
     *        *   3.13
@@ -4503,15 +4841,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   *                              0,01
+        *   * 0,01
 
-        *   *                              0,01
+        *   * 0,01
 
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,5
+        *   * 0,5
 
-        *   *                              1
+        *   * 1
 
         *
 
@@ -4522,13 +4860,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   mg/l
 
         *
-        *   *                              1
+        *   * 1
 
-        *   *                              5
+        *   * 5
 
-        *   *                              15
+        *   * 15
 
-        *   *                              50
+        *   * 50
 
         *
 
@@ -4539,15 +4877,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   mg/l
 
         *
-        *   *                              2
+        *   * 2
 
-        *   *                              5
-            13                             )
+        *   * 5
+            13)
 
-        *   *                              10
-            13                             )
+        *   * 10
+            13)
 
-        *   *                              30
+        *   * 30
 
         *
 
@@ -4558,15 +4896,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   mg/l
 
         *
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,3
+        *   * 0,3
 
-        *   *                              1
+        *   * 1
 
-        *   *                              7
+        *   * 7
 
-        *   *                              0,03
+        *   * 0,03
 
 
     *        *   3.17
@@ -4576,56 +4914,56 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   mg/l
 
         *
-        *   *                              0,05
+        *   * 0,05
 
-        *   *                              0,3
-            13                             )
+        *   * 0,3
+            13)
 
-        *   *                              1
-            13                             )
+        *   * 1
+            13)
 
-        *   *                              3
+        *   * 3
 
         *
 
     *        *   3.18a
 
-        *[^F775746_17_BJNR090010009BJNE003201310]
+        *[^F775746_17_BJNR090010009BJNE003203116]
    Antimon
 
         *   mg/l
 
         *
-        *   *                              0,006
+        *   * 0,006
 
-        *   *                              0,03
-            13                             )
+        *   * 0,03
+            13)
 
-        *   *                              0,07
-            13                             )
+        *   * 0,07
+            13)
 
-        *   *                              0,5
+        *   * 0,5
 
         *
 
     *        *   3.18b
 
         *   Antimon – C
-            o                             -Wert
-            16                             )
+            o-Wert
+            16)
 
         *   mg/l
 
         *
-        *   *                              0,1
+        *   * 0,1
 
-        *   *                              0,12
-            13                             )
+        *   * 0,12
+            13)
 
-        *   *                              0,15
-            13                             )
+        *   * 0,15
+            13)
 
-        *   *                              1,0
+        *   * 1,0
 
         *
 
@@ -4636,15 +4974,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *   mg/l
 
         *
-        *   *                              0,01
+        *   * 0,01
 
-        *   *                              0,03
-            13                             )
+        *   * 0,03
+            13)
 
-        *   *                              0,05
-            13                             )
+        *   * 0,05
+            13)
 
-        *   *                              0,7
+        *   * 0,7
 
         *
 
@@ -4655,15 +4993,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   mg/l
 
-        *   400
+        *   *400
 
-        *   400
+        *   *400
 
-        *   3 000
+        *   *3 000
 
-        *   6 000
+        *   *6 000
 
-        *   10 000
+        *   *10 000
 
         *
 
@@ -4679,7 +5017,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         *
         *
         *
-        *   *                              500
+        *   * 500
 
 
 
@@ -4693,7 +5031,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     wenn einzelne Zuordnungswerte nach Nummer 2 Tabelle 2 überschritten
     werden. Dabei dürfen keine nachteiligen Auswirkungen auf das
     Deponieverhalten zu erwarten sein.
-[^f772033_14_BJNR090010009BJNE003201310]:     Kann der Deponiebetreiber gegenüber der zuständigen Behörde auf Grund
+[^f772033_14_BJNR090010009BJNE003203116]:     Kann der Deponiebetreiber gegenüber der zuständigen Behörde auf Grund
     einer Bewertung der Risiken für die Umwelt den Nachweis erbringen,
     dass die Verwendung von Deponieersatzbaustoffen, die einzelne
     Zuordnungswerte nach Nummer 2 Tabelle 2 Spalte 5 nicht einhalten,
@@ -4711,89 +5049,95 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Klasse II mindestens die Zuordnungswerte nach Tabelle 2 Spalte 6 und
     bei einer Deponie der Klasse III mindestens die Zuordnungswerte nach
     Tabelle 2 Spalte 7 eingehalten werden.
-[^f772033_15_BJNR090010009BJNE003201310]:     Deponieersatzbaustoffe müssen bei einem Einsatz auf einer Deponie der
+[^f772033_15_BJNR090010009BJNE003203116]:     Deponieersatzbaustoffe müssen bei einem Einsatz auf einer Deponie der
     Klasse 0, die über keine vollständige geologische Barriere nach Anhang
     1 Tabelle 1 verfügt, mindestens die Anforderungen einhalten, unter
     denen eine Verwertung entsprechender Abfälle außerhalb des
     Deponiekörpers zulässig wäre.
-[^f772033_16_BJNR090010009BJNE003201310]:     In diesen Einsatzbereichen müssen die Deponieersatzbaustoffe
+[^f772033_16_BJNR090010009BJNE003203116]:     In diesen Einsatzbereichen müssen die Deponieersatzbaustoffe
     mindestens die Anforderungen für ein vergleichbares Einsatzgebiet
     außerhalb von Deponien in technischen Bauwerken ohne besondere
     Anforderungen an den Standort und ohne technische Sicherungsmaßnahmen
     einhalten.
-[^f772033_17_BJNR090010009BJNE003201310]:     In Gebieten mit naturbedingt oder großflächig siedlungsbedingt
+[^f772033_17_BJNR090010009BJNE003203116]:     In Gebieten mit naturbedingt oder großflächig siedlungsbedingt
     erhöhten Schadstoffgehalten in Böden ist eine Verwendung von
     Bodenmaterial aus diesen Gebieten zulässig, welches die
     Hintergrundgehalte des Gebietes nicht überschreitet, sofern die
     Funktion der Rekultivierungsschicht nicht beeinträchtigt wird.
-[^F775746_02_BJNR090010009BJNE003201310]:     Nummer 1.01 kann gleichwertig zu Nummer 1.02 angewandt werden.
-[^F775746_03_BJNR090010009BJNE003201310]: [^F775746_04_BJNR090010009BJNE003201310]:     Eine Überschreitung des Zuordnungswertes ist mit Zustimmung der
+[^F775746_02_BJNR090010009BJNE003203116]:     Nummer 1.01 kann gleichwertig zu Nummer 1.02 angewandt werden.
+[^F775746_03_BJNR090010009BJNE003203116]: [^F775746_04_BJNR090010009BJNE003203116]:     Eine Überschreitung des Zuordnungswertes ist mit Zustimmung der
     zuständigen Behörde bei Bodenaushub (Abfallschlüssel 17 05 04 und 20
     02 02 nach der Anlage zur Abfallverzeichnis-Verordnung) und bei
     Baggergut (Abfallschlüssel 17 05 06 nach der Anlage zur
-    Abfallverzeichnis-Verordnung) zulässig, wenn
-    a)                                                   die
-    Überschreitung ausschließlich auf natürliche Bestandteile des
-    Bodenaushubes oder des Baggergutes zurückgeht,
+    Abfallverzeichnis-Verordnung) zulässig, wenn a)die Überschreitung
+    ausschließlich auf natürliche Bestandteile des Bodenaushubes oder des
+    Baggergutes zurückgeht,
 
 
-    b)                                                   sonstige
-    Fremdbestandteile nicht mehr als 5 Volumenprozent ausmachen,
+    b)sonstige Fremdbestandteile nicht mehr als 5 Volumenprozent
+    ausmachen,
 
 
-    c)                                                   auf der Deponie,
-    dem Deponieabschnitt oder dem gesonderten Teilabschnitt eines
-    Deponieabschnitts ausschließlich nicht gefährliche Abfälle abgelagert
-    werden und
+    c)bei der gemeinsamen Ablagerung mit gipshaltigen Abfällen der DOC-
+    Wert maximal 80 mg/l beträgt,
 
 
-    d)                                                   das Wohl der
-    Allgemeinheit – gemessen an den Anforderungen dieser Verordnung –
-    nicht beeinträchtigt wird.
+    d)auf der Deponie, dem Deponieabschnitt oder dem gesonderten
+    Teilabschnitt eines Deponieabschnitts ausschließlich nicht gefährliche
+    Abfälle abgelagert werden und
+
+
+    e)das Wohl der Allgemeinheit – gemessen an den Anforderungen dieser
+    Verordnung – nicht beeinträchtigt wird.
 
 
 
 Der Zuordnungswert gilt nicht für Aschen aus der Braunkohlefeuerung
 sowie für Abfälle oder Deponieersatzbaustoffe aus
-Hochtemperaturprozessen, zu letzteren gehören insbesondere Abfälle aus
+Hochtemperaturprozessen; zu Letzteren gehören insbesondere Abfälle aus
 der Verarbeitung von Schlacke, unbearbeitete Schlacke, Stäube und
 Schlämme aus der Abgasreinigung von Sinteranlagen, Hochöfen,
-Schachtöfen und Stahlwerken der Eisen- und Stahlindustrie.
-[^F775746_05_BJNR090010009BJNE003201310]: Gilt nicht für Asphalt auf Bitumenbasis.
-[^F775746_06_BJNR090010009BJNE003201310]: Bei PAK-Gehalten von mehr als 3 mg/kg ist mit Hilfe eines
-Säulenversuches nachzuweisen, dass in dem zu erwartenden Sickerwasser
-ein Wert von 0,20 μg/l nicht überschritten wird.
-[^F775746_07_BJNR090010009BJNE003201310]: Nicht erforderlich bei asbesthaltigen Abfällen und Abfällen, die
+Schachtöfen und Stahlwerken der Eisen- und Stahlindustrie. Bei
+gemeinsamer Ablagerung mit gipshaltigen Abfällen darf der TOC-Wert der
+in Satz 1 genannten Abfälle oder Deponieersatzbaustoffe maximal 5
+Masseprozent betragen. Eine Überschreitung dieses TOC-Wertes ist
+zulässig, wenn der DOC-Wert maximal 80 mg/l beträgt.
+[^F775746_05_BJNR090010009BJNE003203116]: Gilt nicht für Asphalt auf Bitumen- oder auf Teerbasis.
+[^F775746_06_BJNR090010009BJNE003203116]: Bei PAK-Gehalten von mehr als 3 mg/kg ist mit Hilfe eines
+Säulenversuches nach Anhang 4 Nummer 3.2.2 nachzuweisen, dass in dem
+Säuleneluat bei einem Flüssigkeits-Feststoffverhältnis von 2:1 ein
+Wert von 0,2 µg/l nicht überschritten wird.
+[^F775746_07_BJNR090010009BJNE003203116]: Nicht erforderlich bei asbesthaltigen Abfällen und Abfällen, die
 andere gefährliche Mineralfasern enthalten.
-[^F775746_08_BJNR090010009BJNE003201310]: Abweichende pH-Werte stellen allein kein Ausschlusskriterium dar. Bei
+[^F775746_08_BJNR090010009BJNE003203116]: Abweichende pH-Werte stellen allein kein Ausschlusskriterium dar. Bei
 Über- oder Unterschreitungen ist die Ursache zu prüfen. Werden jedoch
 auf Deponien der Klassen I und II gefährliche Abfälle abgelagert, muss
 deren pH-Wert mindestens 6,0 betragen.
-[^F775746_09_BJNR090010009BJNE003201310]: Der Zuordnungswert für DOC ist auch eingehalten, wenn der Abfall oder
+[^F775746_09_BJNR090010009BJNE003203116]: Der Zuordnungswert für DOC ist auch eingehalten, wenn der Abfall oder
 der Deponieersatzbaustoff den Zuordnungswert nicht bei seinem eigenen
 pH-Wert, aber bei einem pH-Wert zwischen 7,5 und 8,0 einhält.
-[^F775746_10_BJNR090010009BJNE003201310]: Auf Abfälle oder Deponieersatzbaustoffe auf Gipsbasis nur in den
-Fällen anzuwenden, wenn sie gemeinsam mit biologisch abbaubaren oder
-gefährlichen Abfällen abgelagert oder eingesetzt werden.
-[^F775746_11_BJNR090010009BJNE003201310]: Überschreitungen des DOC bis max. 100 mg/l sind zulässig, wenn auf der
-Deponie oder dem Deponieabschnitt seit dem 16. Juli 2005
-ausschließlich nicht gefährliche Abfälle oder Deponieersatzbaustoffe
-abgelagert oder eingesetzt werden.
-[^F775746_12_BJNR090010009BJNE003201310]: Statt der Nummern 3.11 und 3.12 kann Nummer 3.20 angewandt werden.
-[^F775746_13_BJNR090010009BJNE003201310]: Der Zuordnungswert gilt nicht, wenn auf der Deponie oder dem
+[^F775746_10_BJNR090010009BJNE003203116]: Auf Abfälle oder Deponieersatzbaustoffe auf Gipsbasis nur anzuwenden,
+wenn sie gemeinsam mit gefährlichen Abfällen abgelagert oder
+eingesetzt werden.
+[^F775746_11_BJNR090010009BJNE003203116]: Überschreitungen des DOC-Wertes bis maximal 100 mg/l sind zulässig,
+wenn auf der Deponie oder dem Deponieabschnitt keine gipshaltigen
+Abfälle und seit dem 16. Juli 2005 ausschließlich nicht gefährliche
+Abfälle oder Deponieersatzbaustoffe abgelagert oder eingesetzt werden.
+[^F775746_12_BJNR090010009BJNE003203116]: Nummer 3.20 kann, außer in den Fällen gemäß Spalte 9
+(Rekultivierungsschicht), gleichwertig zu den Nummern 3.11 und 3.12
+angewandt werden.
+[^F775746_13_BJNR090010009BJNE003203116]: Der Zuordnungswert gilt nicht, wenn auf der Deponie oder dem
 Deponieabschnitt seit dem 16. Juli 2005 ausschließlich nicht
 gefährliche Abfälle oder Deponieersatzbaustoffe abgelagert oder
 eingesetzt werden.
-[^F775746_14_BJNR090010009BJNE003201310]: Untersuchung entfällt bei Bodenmaterial ohne mineralische
+[^F775746_14_BJNR090010009BJNE003203116]: Untersuchung entfällt bei Bodenmaterial ohne mineralische
 Fremdbestandteile.
-[^F775746_15_BJNR090010009BJNE003201310]: [^F775746_16_BJNR090010009BJNE003201310]: Überschreitungen des Sulfatwertes bis zu einem Wert von 600 mg/l sind
-zulässig, wenn der C                            o             -Wert
-der Perkolationsprüfung den Wert von 1 500 mg/l bei L/S = 0,1 l/kg
-nicht überschreitet.
-[^F775746_17_BJNR090010009BJNE003201310]: Überschreitungen des Antimonwertes nach Nummer 3.18a sind zulässig,
-wenn der C                            o             -Wert der
-Perkolationsprüfung bei L/S = 0,1 l/kg nach Nummer 3.18b nicht
-überschritten wird.
+[^F775746_15_BJNR090010009BJNE003203116]: [^F775746_16_BJNR090010009BJNE003203116]: Überschreitungen des Sulfatwertes bis zu einem Wert von 600 mg/l sind
+zulässig, wenn der Co-Wert der Perkolationsprüfung den Wert von 1 500
+mg/l bei L/S = 0,1 l/kg nicht überschreitet.
+[^F775746_17_BJNR090010009BJNE003203116]: Überschreitungen des Antimonwertes nach Nummer 3.18a sind zulässig,
+wenn der Co-Wert der Perkolationsprüfung bei L/S = 0,1 l/kg nach
+Nummer 3.18b nicht überschritten wird.
 
 
 ### Anhang 4 Vorgaben zur Beprobung (Probenahme, Probevorbereitung und Untersuchung von Abfällen und Deponieersatzbaustoffen) (zu § 6 Absatz 2, § 8 Absatz 1, 3 und 5, § 23)
@@ -4864,7 +5208,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     000 g gewonnen wird. Die Probe von pastösen und schlammigen Abfällen
     ist durch Kollern so aufzubereiten, dass aus einer Ausgangsprobe von 5
     bis 50 kg eine homogene Probe von 1 000 g gewonnen wird. Die
-    Trockenmasse der Probe ist gemäß Nummer 3.2.22 zu bestimmen. Die
+    Trockenmasse der Probe ist gemäß Nummer 3.2.24 zu bestimmen. Die
     Probenvorbereitung ist zu protokollieren.
 
 
@@ -4939,7 +5283,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.1.8** **Dichte**
 
-    DIN 18125-2, Ausgabe August 1999
+    DIN 18125-2, Ausgabe März 2011
     Baugrund, Untersuchung von Bodenproben – Bestimmung der Dichte des
     Bodens – Teil 2: Feldversuche
 
@@ -4959,7 +5303,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
 
@@ -4971,17 +5315,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.1.11** **Quecksilber**
 
-    DIN EN 1483, Ausgabe Juli 2007
+    DIN EN ISO 12846, Ausgabe August 2012
+
     Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels
-    Atomabsorptionsspektrometrie
+    Atomabsorptionsspektrometrie (AAS) mit und ohne Anreicherung
 
     Alternativ:
-    DIN EN 12338, Ausgabe Oktober 1998
-    Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren nach
-    Anreicherung durch Amalgamierung
 
-    Alternativ:
     DIN EN ISO 17852, Ausgabe April 2008
+
     Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels
     Atomfluoreszenzspektrometrie
 
@@ -5002,24 +5344,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **3.2.1.1** **Eluatherstellung mit Flüssigkeits-/Feststoffverhältnis 10/1**
 
     DIN EN 12457-4, Ausgabe Januar 2003
+
     Charakterisierung von Abfällen – Auslaugung;
     Übereinstimmungsuntersuchung für die Auslaugung von körnigen Abfällen
     und Schlämmen – Teil 4: Einstufiges Schüttelverfahren mit einem
     Flüssigkeits-/Feststoffverhältnis von 10 l/kg für Materialien mit
     einer Korngröße unter 10 mm (ohne oder mit Korngrößenreduzierung)
-
-    Abweichend von den Vorgaben der DIN EN 12457-4 ist das Material erst
-    ab einer Korngröße von 40 mm zu brechen. Die Einwaage für das
-    Eluatverfahren hat in Anlehnung an die DIN EN 12457-4 zu erfolgen. Die
-    Phasentrennung ist gemäß der im Anhang E der in der DIN EN 12457-4
-    beschriebenen Vorgehensweise durchzuführen. Ist bei grobstückigen
-    Materialien mit Korngröße*                    40 mm das Grobkorn unter
-    den Ablagerungsbedingungen mechanisch stabil, ist das Eluat
-    gegebenenfalls nach LAGA EW 98 (Richtlinie für das Vorgehen bei
-    physikalischen und chemischen Untersuchungen von Abfällen,
-    verunreinigten Böden und Materialien aus dem Altlastenbereich, Stand
-    2002, ISBN: 978-503-07038-1), Kap. 4 (Trogverfahren, EW 98 T)
-    herzustellen.
 
 
 **3.2.1.2** **Eluatherstellung mit jeweils konstantem pH-Wert 4 und
@@ -5093,7 +5423,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5125,7 +5455,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5147,7 +5477,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5169,7 +5499,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5191,7 +5521,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5202,12 +5532,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.2.11** **Quecksilber**
 
-    DIN EN 1483, Ausgabe Juli 2007
+    DIN EN ISO 12846, Ausgabe August 2012
+
     Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels
-    Atomabsorptionsspektrometrie
+    Atomabsorptionsspektrometrie (AAS) mit und ohne Anreicherung
 
     Alternativ:
+
     DIN EN ISO 17852, Ausgabe April 2008
+
     Wasserbeschaffenheit – Bestimmung von Quecksilber – Verfahren mittels
     Atomfluoreszenzspektrometrie
 
@@ -5225,7 +5558,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Alternativ:
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5269,19 +5602,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.2.15** **Cyanide, leicht freisetzbar**
 
-    DIN 38405-14, Ausgabe Dezember 1988
+    DIN 38405-13, Ausgabe April 2011
+
     Deutsche Einheitsverfahren zur Wasser-, Abwasser- und
-    Schlammuntersuchung; Anionen (Gruppe D); Bestimmung von Cyaniden in
-    Trinkwasser, gering belastetem Grund- und Oberflächenwasser (D 14)
+    Schlammuntersuchung – Anionen (Gruppe D) – Teil 13: Bestimmung von
+    Cyaniden (D 13)
+
     Bei sulfidhaltigen Abfällen erfolgt die Bestimmung nach DIN ISO 17380,
     Ausgabe Mai 2006 Bodenbeschaffenheit – Bestimmung des Gehalts an
     gesamtem Cyanid und leicht freisetzbarem Cyanid – Verfahren mit
     kontinuierlicher Fließanalyse
 
     Alternativ:
-    DIN EN ISO 14403, Ausgabe Juli 2002
+
+    DIN EN ISO 14403-1, Ausgabe Oktober 2012
+
     Wasserbeschaffenheit – Bestimmung von Gesamtcyanid und freiem Cyanid
-    mit der kontinuierlichen Fließanalytik
+    mittels Fließanalytik (FIA und CFA) – Teil 1: Verfahren mittels
+    Fließinjektionsanalyse (FIA)
 
 
 **3.2.16** **Fluorid**
@@ -5300,7 +5638,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **3.2.17** **Barium**
 
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
 
@@ -5313,13 +5651,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     DIN EN ISO 17294-2, Ausgabe Februar 2005
     Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-
     Massenspektrometrie
-    (ICP-MS) –                    Teil 2: Bestimmung von 62 Elementen
+    (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 
 
 **3.2.18** **Chrom, gesamt**
 
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
     Alternativ:
@@ -5341,7 +5679,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **3.2.19** **Molybdän**
 
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren – Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit – Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
 
@@ -5354,13 +5692,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     DIN EN ISO 17294-2, Ausgabe Februar 2005
     Wasserbeschaffenheit – Anwendung der induktiv gekoppelten Plasma-
     Massenspektrometrie
-    (ICP-MS) –                    Teil 2: Bestimmung von 62 Elementen
+    (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 
 
 **3.2.20** **Antimon**
 
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren - Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit - Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
 
@@ -5389,7 +5727,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **3.2.21** **Selen**
 
     DIN ISO 22036, Ausgabe Juni 2009
-    Bodenverfahren - Bestimmung von Spurenelementen in Bodenextrakten
+    Bodenbeschaffenheit - Bestimmung von Spurenelementen in Bodenextrakten
     mittels Atomemissionsspektroskopie mit induktiv gekoppeltem Plasma
     (ICP-AES)
 
@@ -5404,7 +5742,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Massenspektrometrie (ICP-MS) – Teil 2: Bestimmung von 62 Elementen
 
 
-**3.2.22** **Wasserlöslicher Anteil**
+**3.2.22** **Gesamtgehalt an gelösten Feststoffen**
 
     DIN EN 15216, Ausgabe Januar 2008 - Charakterisierung von Abfällen -
     Bestimmung des Gesamtgehaltes an gelösten Feststoffen (TDS) in Wasser
@@ -5429,6 +5767,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Wasserbeschaffenheit – Bestimmung der elektrischen Leitfähigkeit
 
 
+**3.2.24** **Bestimmung des Trockenrückstandes**
+
+    DIN EN 14346, Ausgabe März 2007
+
+    Charakterisierung von Abfällen – Berechnung der Trockenmasse durch
+    Bestimmung des Trockenrückstandes oder des Wassergehaltes
+
+
 **3.3** **Biologische Abbaubarkeit des Trockenrückstandes der
     Originalsubstanz**
 
@@ -5436,31 +5782,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 **3.3.1** Atmungsaktivität, bestimmt über 4 Tage im Laborversuch (AT
     4 **):**
 
+    Dieses Prüfverfahren ist nur anwendbar bei Abfällen, die einen pH-Wert
+    im Bereich von pH 6,8 bis pH 8,2 aufweisen. Bei Abfällen mit davon
+    abweichenden pH-Werten ist die biologische Abbaubarkeit des
+    Trockenrückstandes der Originalsubstanz nach Nummer 3.3.2 zu
+    bestimmen.
+
 
 **3.3.1.1** **Testgerät:**
 
     Die Bestimmung des AT
-    4                    erfolgt mit einem Sapromat, Respiromat oder einem
-    gleichwertigen Gerät. Alle Abweichungen von der nachfolgend
-    aufgeführten Methode sind zu dokumentieren.
+    4 erfolgt mit einem Sapromat, Respiromat oder einem gleichwertigen
+    Gerät. Alle Abweichungen von der nachfolgend aufgeführten Methode sind
+    zu dokumentieren.
 
 
 **3.3.1.2** **Temperatur:**
 
-    20*                    1 °C im temperierten Wasserbad oder Klimaraum.
+    20* 1 °C im temperierten Wasserbad oder Klimaraum.
 
 
 **3.3.1.3** **Probenlagerung:**
 
     Innerhalb von 48 Stunden nach der Probennahme müssen die
     Probenaufbereitungen abgeschlossen und der Test gestartet sein. In
-    diesem Zeitraum sind Temperaturen über 4*                   C maximal
-    24 Stunden zulässig. Ist diese Vorgehensweise nicht zu gewährleisten,
-    so ist die Probe innerhalb von 24 Stunden nach der Probennahme bei –18
-    bis –20*                   C einzufrieren. Das Einfrieren der Probe
-    ist bei der Auswertung zu dokumentieren. Das schonende Auftauen der
-    Probe soll innerhalb von 24 Stunden erfolgen, dabei darf die
-    Temperatur 20*                   C nicht überschreiten.
+    diesem Zeitraum sind Temperaturen über 4*C maximal 24 Stunden
+    zulässig. Ist diese Vorgehensweise nicht zu gewährleisten, so ist die
+    Probe innerhalb von 24 Stunden nach der Probennahme bei –18 bis –20*C
+    einzufrieren. Das Einfrieren der Probe ist bei der Auswertung zu
+    dokumentieren. Das schonende Auftauen der Probe soll innerhalb von 24
+    Stunden erfolgen, dabei darf die Temperatur 20*C nicht überschreiten.
 
 
 **3.3.1.4** **Probenaufbereitung:**
@@ -5545,16 +5896,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Zur Darstellung der Analysenfunktion und der Drei-Stunden-Mittelwerte
     werden auf der x-Achse die Versuchsdauer (in Stunden) und auf der
     y-Achse die summierten Sauerstoffmassen (in mg O
-    2                    je g Trockenmasse) aufgetragen.
+    2 je g Trockenmasse) aufgetragen.
 
 
 **3.3.1.9** **Angabe des Ergebnisses:**
 
     Das Ergebnis wird mit zwei signifikanten Stellen in mg O
-    2                    je g Trockenmasse angegeben. Es sind der
-    Mittelwert und die Standardabweichung anzugeben. Weicht ein einzelner
-    Wert der Dreifachbestimmung mehr als 20 Prozent vom Mittelwert ab, so
-    ist der Wert als Ausreißer zu eliminieren. Die Berechnung des neuen
+    2 je g Trockenmasse angegeben. Es sind der Mittelwert und die
+    Standardabweichung anzugeben. Weicht ein einzelner Wert der
+    Dreifachbestimmung mehr als 20 Prozent vom Mittelwert ab, so ist der
+    Wert als Ausreißer zu eliminieren. Die Berechnung des neuen
     Mittelwertes erfolgt aus den zwei verbleibenden Werten.
 
 
@@ -5591,19 +5942,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     [DIN 38414-8, Seite 3 (Ausgabe Juni 1985)]
 
     „Sperrflüssigkeit: 30 ml Schwefelsäure, H
-    2                   SO
-    4                    (p = 1,84 g/ml), werden zu 1 l destilliertem
-    Wasser gegeben; in dieser Mischung werden unter leichtem Erwärmen 200
-    g Natriumsulfat-Decahydrat, Na
-    2                   SO
-    4                    \* 10 H
-    2                   O, gelöst. Die Lösung wird durch Zugabe einiger
-    Tropfen Methylorange-Lösung (0,1 g Methylorange-Natriumsalz gelöst in
-    100 ml destilliertem Wasser) rotorange gefärbt. Die Sperrflüssigkeit
-    ist bei Raumtemperatur aufzubewahren. Bei niedrigen Temperaturen kann
-    Natriumsulfat auskristallisieren, das erst durch Erwärmen der Mischung
-    wieder in Lösung gebracht werden muss.“ [DIN 38414-8, Seite 3, Ausgabe
-    Juni 1985]
+    2SO
+    4 (p = 1,84 g/ml), werden zu 1 l destilliertem Wasser gegeben; in
+    dieser Mischung werden unter leichtem Erwärmen 200 g Natriumsulfat-
+    Decahydrat, Na
+    2SO
+    4 \* 10 H
+    2O, gelöst. Die Lösung wird durch Zugabe einiger Tropfen Methylorange-
+    Lösung (0,1 g Methylorange-Natriumsalz gelöst in 100 ml destilliertem
+    Wasser) rotorange gefärbt. Die Sperrflüssigkeit ist bei Raumtemperatur
+    aufzubewahren. Bei niedrigen Temperaturen kann Natriumsulfat
+    auskristallisieren, das erst durch Erwärmen der Mischung wieder in
+    Lösung gebracht werden muss.“ [DIN 38414-8, Seite 3, Ausgabe Juni
+    1985]
 
     „Die Standflasche (A) wird mit der angegebenen ...“ Menge Probe,
     Impfschlamm und Wasser „... gefüllt; die in der Flasche enthaltene
@@ -5615,12 +5966,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     übertreten. Das Niveaugefäß muss noch etwa zu einem Viertel gefüllt
     sein. Anschließend wird der Hahn (H) geschlossen. Die Standflasche (A)
     mit der
-    ...“ Probenmischung                    „... ist im Dunkeln
-    aufzubewahren. Das entwickelte Gasvolumen wird jeweils bei
-    Niveaugleichheit der Sperrflüssigkeit mit dem Eudiometerrohr und
-    Niveaugefäß abgelesen, nachdem vorher der Inhalt der Standflasche (A)
-    vorsichtig umgeschwenkt wurde.“ [DIN 38414-8, Seite 5, Ausgabe Juni
-    1985]
+    ...“ Probenmischung „... ist im Dunkeln aufzubewahren. Das entwickelte
+    Gasvolumen wird jeweils bei Niveaugleichheit der Sperrflüssigkeit mit
+    dem Eudiometerrohr und Niveaugefäß abgelesen, nachdem vorher der
+    Inhalt der Standflasche (A) vorsichtig umgeschwenkt wurde.“ [DIN
+    38414-8, Seite 5, Ausgabe Juni 1985]
 
     „Bei jeder Ablesung des Gasvolumens im Eudiometerrohr sind Temperatur
     und Luftdruck zu bestimmen, um das Gasvolumen auf den Normzustand
@@ -5684,21 +6034,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **3.3.2.3** **Temperatur:**
 
-    35*                    1*                   C im temperierten
-    Wasserbad oder Klimaraum [nach DIN 38414-8, Ausgabe Juni 1985].
+    35* 1*C im temperierten Wasserbad oder Klimaraum [nach DIN 38414-8,
+    Ausgabe Juni 1985].
 
 
 **3.3.2.4** **Probenlagerung:**
 
     Innerhalb von 48 Stunden nach der Probennahme müssen die
     Probenaufbereitungen abgeschlossen und der Test gestartet sein. In
-    diesem Zeitraum sind Temperaturen über 4*                   C maximal
-    24 Stunden zulässig. Ist diese Vorgehensweise nicht zu gewährleisten,
-    so ist die Probe innerhalb von 24 Stunden nach der Probennahme bei –18
-    bis –20*                   C einzufrieren. Das Einfrieren der Probe
-    ist bei der Auswertung zu dokumentieren. Das schonende Auftauen der
-    Probe soll innerhalb von 24 Stunden erfolgen, dabei darf die
-    Temperatur 35*                   C nicht überschreiten.
+    diesem Zeitraum sind Temperaturen über 4*C maximal 24 Stunden
+    zulässig. Ist diese Vorgehensweise nicht zu gewährleisten, so ist die
+    Probe innerhalb von 24 Stunden nach der Probennahme bei –18 bis –20*C
+    einzufrieren. Das Einfrieren der Probe ist bei der Auswertung zu
+    dokumentieren. Das schonende Auftauen der Probe soll innerhalb von 24
+    Stunden erfolgen, dabei darf die Temperatur 35*C nicht überschreiten.
 
 
 **3.3.2.5** **Probenaufbereitung:**
@@ -5718,19 +6067,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     wurde. Er darf keine gröberen Teile enthalten und soll möglichst wenig
     Gas entwickeln. Es ist zweckmäßig, ein größeres Volumen (etwa 10
     Liter) des Impfschlammes mit etwa 5 Prozent Trockenrückstand unter
-    anaeroben Bedingungen im geschlossenen System bei (35*
-    1)*                   C bereitzuhalten, um eine größere Anzahl von
-    Untersuchungen gleichzeitig durchführen zu können. Im letzten Fall ist
-    dafür Sorge zu tragen, dass die Umgebungstemperatur keinen größeren
-    Schwankungen unterliegt (z. B. Abdeckung der Apparatur durch eine
-    Haube o. Ä.). Dem Impfschlamm kann bei der weiteren Lagerung alle zwei
-    Wochen ein geringer Volumenanteil an faulfähigen Stoffen (etwa 0,1
-    Prozent) in Form von Rohschlamm zugesetzt werden. Der Rohschlamm muss
-    frei von toxischen Stoffen sein und sollte keine größeren Teile
-    enthalten. Nach jeder Zugabe muss gründlich gemischt werden. Dieser
-    Impfschlamm darf erst 1 Woche nach der letzten Rohschlammzugabe für
-    den Versuchsansatz verwendet werden.“ [DIN 38414-8, Seite 4, Ausgabe
-    Juni 1985]
+    anaeroben Bedingungen im geschlossenen System bei (35* 1)*C
+    bereitzuhalten, um eine größere Anzahl von Untersuchungen gleichzeitig
+    durchführen zu können. Im letzten Fall ist dafür Sorge zu tragen, dass
+    die Umgebungstemperatur keinen größeren Schwankungen unterliegt (z. B.
+    Abdeckung der Apparatur durch eine Haube o. Ä.). Dem Impfschlamm kann
+    bei der weiteren Lagerung alle zwei Wochen ein geringer Volumenanteil
+    an faulfähigen Stoffen (etwa 0,1 Prozent) in Form von Rohschlamm
+    zugesetzt werden. Der Rohschlamm muss frei von toxischen Stoffen sein
+    und sollte keine größeren Teile enthalten. Nach jeder Zugabe muss
+    gründlich gemischt werden. Dieser Impfschlamm darf erst 1 Woche nach
+    der letzten Rohschlammzugabe für den Versuchsansatz verwendet werden.“
+    [DIN 38414-8, Seite 4, Ausgabe Juni 1985]
 
 
 **3.3.2.7** **Probenmasse:**
@@ -5781,21 +6129,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     des in den einzelnen Zeitabschnitten gebildeten Gases durchzuführen:
 
     *        *   V
-            O                              = V ·
+            O = V ·
 
         *   (P
-            L                              – P
-            W                             ) · T
+            L – P
+            W) · T
             O
 
         *
 
-    *        *   \_\_\__\_\__\_\__\_\__
+    *        *   _\_\__\_\__\_\__\_\__
 
         *
 
     *        *   P
-            O                              · T
+            O · T
 
         *
 
@@ -5822,12 +6170,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         T
     O   Normtemperatur, T
-        O                          = 273 K
+        O = 273 K
 
 
         P
     O   Normdruck, P
-        O                          = 1 013 mbar
+        O = 1 013 mbar
 
 
     T   Temperatur des Gases bzw. des umgebenden Raumes, in K
@@ -5889,36 +6237,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Das Versuchsprotokoll nach Tabelle 1 ist für jede angesetzte Mischung
     aus der Probe (V
-    O*                    V
-    P                   ), dem Referenzansatz (V
-    O*                    V
-    R                   ) und dem Impfschlamm (V
-    O*                    V
-    IS                   ) zu führen. Das angefallene Gasvolumen wird
-    schrittweise in der Reihenfolge der Ablesungen summiert. Änderungen
-    des Totvolumens, aufgrund veränderter Temperatur- und
-    Druckverhältnisse zwischen den Ablesungen, sind unerheblich und können
-    deshalb vernachlässigt werden (DIN 38414-8). Für die weitere
-    Berechnung sind die Gasvolumina der Probe sowie des Impfschlammes (als
-    arithmetische Mittel des Doppelansatzes) in Tabelle 2 einzutragen. Das
-    Netto-Gasvolumen (V
-    N                   ) der Probe ergibt sich für gleiche Versuchszeiten
-    als Differenz der Gasvolumina von Probe sowie des arithmetischen
-    Mittels des Doppelansatzes für den Impfschlamm. Die spezifische
-    Gasbildung V
-    S                    von der Probe während der Versuchsdauer berechnet
-    man von Ablesung zu Ablesung schrittweise nach der Gleichung:
+    O* V
+    P), dem Referenzansatz (V
+    O* V
+    R) und dem Impfschlamm (V
+    O* V
+    IS) zu führen. Das angefallene Gasvolumen wird schrittweise in der
+    Reihenfolge der Ablesungen summiert. Änderungen des Totvolumens,
+    aufgrund veränderter Temperatur- und Druckverhältnisse zwischen den
+    Ablesungen, sind unerheblich und können deshalb vernachlässigt werden
+    (DIN 38414-8). Für die weitere Berechnung sind die Gasvolumina der
+    Probe sowie des Impfschlammes (als arithmetische Mittel des
+    Doppelansatzes) in Tabelle 2 einzutragen. Das Netto-Gasvolumen (V
+    N) der Probe ergibt sich für gleiche Versuchszeiten als Differenz der
+    Gasvolumina von Probe sowie des arithmetischen Mittels des
+    Doppelansatzes für den Impfschlamm. Die spezifische Gasbildung V
+    S von der Probe während der Versuchsdauer berechnet man von Ablesung
+    zu Ablesung schrittweise nach der Gleichung:
 
     *        *   V
-            S                              =
+            S =
 
-        *   *                             V
-            n                              · 10
+        *   *V
+            n · 10
             2
 
         *
 
-    *        *   \_\_\__\_\__\_\__
+    *        *   _\_\__\_\__\_\__
 
         *
 
@@ -6042,10 +6388,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     gelten die Zulässigkeits- und Zuordnungskriterien nach Anhang 3 dieser
     Verordnung noch als eingehalten, wenn
 
-    1.  die Abweichung des Messwertes des untersuchten Parameters vom Wert der
-        grundlegenden Charakterisierung den entsprechenden Wert der maximal
-        zulässigen Abweichung der nachstehenden Tabelle nicht überschreitet
-        und
+    1.  die Abweichung des Messwertes des untersuchten Parameters vom
+        Zuordnungswert, der für die Deponie in der behördlichen Entscheidung
+        nach § 21 oder im Einzelfall nach Anhang 3 Nummer 2 dieser Verordnung
+        festgelegt wurde, den entsprechenden Wert der maximal zulässigen
+        Abweichung der nachstehenden Tabelle nicht überschreitet und
 
 
     2.  der Median aller Messwerte der letzten 24 Monate den entsprechenden
@@ -6058,7 +6405,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *        *   Parameter nach Anhang 3 Nummer 2
 
-        *[^f772033_34_BJNR090010009BJNE003301310]
+        *[^f772033_34_BJNR090010009BJNE003302116]
    maximal zulässige Abweichung
 
 
@@ -6073,7 +6420,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *        *   Brennwert (H
-            o                             )
+            o)
 
         *   1 000 kJ/kg TM
 
@@ -6101,7 +6448,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *        *   AT
-            4                              und GB
+            4 und GB
             21
 
         *   jeweils 50 Prozent
@@ -6115,11 +6462,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     wenn ein Parameter den nachfolgend aufgeführten jeweiligen
     Zuordnungswert zwar überschreitet, aber dieser Zuordnungswert vom
     Perzentilwert P
-    80                    aller Messwerte nicht überschritten wurde und
-    der Median aller Messwerte der letzten 24 Monate den entsprechenden
-    Zuordnungswert eingehalten hat, der für die Deponie in der
-    behördlichen Entscheidung nach § 21 dieser Verordnung festgelegt
-    wurde:
+    80 aller Messwerte nicht überschritten wurde und der Median aller
+    Messwerte der letzten 24 Monate den entsprechenden Zuordnungswert
+    eingehalten hat, der für die Deponie in der behördlichen Entscheidung
+    nach § 21 dieser Verordnung festgelegt wurde:
 
     *        *   1. TOC:
 
@@ -6132,19 +6478,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *        *   3. AT
-            4                              :
+            4 :
 
         *   = 10 mg/g
 
 
     *        *   4. GB
-            21                             :
+            21:
 
         *   = 30 l/kg
 
 
     *        *   5. Brennwert (H
-            o                             )
+            o)
 
         *   = 7 000 kJ/kg TM.
 
@@ -6194,7 +6540,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Bei Parametern, die in Prozent angegeben sind: relative
     Abweichungsmöglichkeit.
-[^f772033_34_BJNR090010009BJNE003301310]: 
+[^f772033_34_BJNR090010009BJNE003302116]: 
 
 ### Anhang 5 Information, Dokumentation, Kontrollen, Betrieb (zu § 4 Nummer 2, den §§ 9, 10 Absatz 2, § 11 Absatz 2, § 12 Absatz 1 bis 3, § 13 Absatz 1 bis 3 und 5, § 17 Absatz 2, § 23 Satz 1)
 
@@ -6239,10 +6585,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Eine Deponie oder ein Deponieabschnitt der Klasse I, II oder III ist
     in Raster aufzuteilen, die bei Abfällen unterschiedlicher
     Zusammensetzung höchstens 2 500 m
-    2                    Grundfläche haben dürfen. Bei Abfällen
-    gleichbleibender Zusammensetzung sind größere Rasterweiten zulässig.
-    Bei einer Deponie der Klasse IV in einem Bergwerk ist die Deponie oder
-    der Deponieabschnitt in Ablagerungskammern zu unterteilen. Bei einer
+    2 Grundfläche haben dürfen. Bei Abfällen gleichbleibender
+    Zusammensetzung sind größere Rasterweiten zulässig. Bei einer Deponie
+    der Klasse IV in einem Bergwerk ist die Deponie oder der
+    Deponieabschnitt in Ablagerungskammern zu unterteilen. Bei einer
     Deponie der Klasse IV in einer Kaverne ist die Deponie in Höhenraster
     aufzuteilen, die bei Abfällen unterschiedlicher Zusammensetzung
     höchstens 10 m Höhe haben dürfen.
@@ -6683,7 +7029,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Menge und Zusammensetzung
             des Oberflächenwassers
-            1                             )
+            1)
 
         *   vierteljährlich
 
@@ -6694,10 +7040,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Aktiv gefasste Gasmenge und
             Zusammensetzung (CH
-            4                             , CO
-            2                             , O
-            2                             , N
-            2                             ,
+            4, CO
+            2, O
+            2, N
+            2,
             ausgewählte Spurengase)
 
         *   Gasmenge täglich,
@@ -6743,7 +7089,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
    halbjährlich
 
         *   halbjährlich
-            3                             )
+            3)
 
 
     *        *   3.2
@@ -6797,7 +7143,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Verformung des Basisabdichtungssystems
 [^f772033_42_BJNR090010009BJNE003401310]
-            6                             )
+            6)
 
         *   jährlich
 
@@ -6829,11 +7175,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         *   Funktionsfähigkeit und Verformung
             des Oberflächenabdichtungssystems
-            5                             )
-            6                             )
+            5)
+            6)
 
         *   jährlich
-            2                             )
+            2)
 
         *   jährlich
 
@@ -7156,3 +7502,164 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 [^f772033_43_BJNR090010009BJNE003401310]:     Nach 20 Jahren ohne auffälligen Befund genügt eine fünfjährliche
     Kontrolle.
 [^f772033_44_BJNR090010009BJNE003401310]: 
+
+### Anhang 6 Besondere Anforderungen an die zeitweilige Lagerung von metallischen Quecksilberabfällen bei einer Lagerdauer von mehr als einem Jahr in Langzeitlagern (zu § 23 Absatz 2 Satz 1)
+
+(Fundstelle: BGBl. I 2013, 818 - 819)
+
+
+1.  Anforderungen an die Errichtung und den Betrieb
+
+    a)  Die Behälter mit metallischen Quecksilberabfällen sind getrennt von
+        anderen Abfällen so zu lagern, dass sie sich leicht wieder entnehmen
+        lassen.
+
+
+    b)  Die Behälter sind in Auffangbecken zu stellen, die für Quecksilber
+        undurchlässig sind und über ein Fassungsvermögen verfügen, das jeweils
+        für die darin gelagerte Gesamtmenge metallischer Quecksilberabfälle
+        ausreicht.
+
+
+    c)  Die Aufstandsflächen der Auffangbecken müssen aus einem
+        quecksilberbeständigen Material bestehen oder mit einem solchen
+        abgedeckt und so geneigt sein, dass aus den Behältern ausgetretenes
+        Quecksilber einem Sammelsumpf zuläuft.
+
+
+    d)  In jedem Bereich der zeitweiligen Lagerung metallischer
+        Quecksilberabfälle muss ein System zur kontinuierlichen Überwachung
+        der Innenraumluft auf Quecksilberdämpfe installiert und betrieben
+        werden, bei dem
+
+        aa) in Boden- und in Deckennähe Sensoren angebracht sind, die bei einer
+            Raumluftkonzentration von höchstens 0,02 mg Quecksilber/m³ eine
+            optische und akustische Warnung auslösen,
+
+
+        bb) durch bauliche Maßnahmen gewährleistet wird, dass die Messergebnisse
+            der Innenraumluftüberwachung nicht durch Luftaustausch verändert
+            werden, unabhängig davon darf eine erforderliche Bewetterung oder
+            Belüftung während der Einlagerungskampagne sowie der Sichtkontrolle
+            nach Nummer 4 Buchstabe c durchgeführt werden, und
+
+
+        cc) einmal jährlich eine Wartung durchzuführen ist, deren Ergebnisse zu
+            dokumentieren sind.
+
+
+
+
+
+
+
+
+2.  Anforderungen an metallische Quecksilberabfälle und Befüllung der
+    Behälter
+
+    a)  Der Quecksilbergehalt muss mehr als 99,9 Gewichtsprozent betragen.
+        Eine dafür erforderliche Reinigung der Quecksilberabfälle ist mit
+        einem Verfahren durchzuführen, das diese Reinheit sicher erreicht. Die
+        Einhaltung der Anforderung nach Satz 1 ist durch die beiden folgenden
+        vom Befüller durchzuführenden Analysen nachzuweisen und im
+        Analysebericht zu dokumentieren:
+
+        aa) Gravimetrische Bestimmung des Rückstandes nach vollständiger
+            Verdampfung des Quecksilbers im Vakuum bei 300 °C plus/minus 25 °C mit
+            Auffangvorrichtung für das Quecksilber und
+
+
+        bb) Bestimmung der Summe der Metallgehalte von Blei, Cadmium, Calcium,
+            Chrom, Eisen, Kalium, Kupfer, Molybdän, Natrium, Nickel, Vanadium,
+            Wolfram und Zink nach einem der alternativ genannten Verfahren gemäß
+            Anhang 4 Nummer 3.1.10 nach vollständigem Königswasseraufschluss gemäß
+            Anhang 4 Nummer 3.1.2 mit gegebenenfalls erforderlicher Anpassung des
+            Feststoff-Säure-Verhältnisses.
+
+
+
+        Beide Verfahren sind voneinander unabhängig durchzuführen und dürfen
+        jeweils den Wert von 0,1 Gewichtsprozent bzw. 1 g/kg nicht
+        überschreiten.
+
+
+    b)  Die Behälter dürfen neben dem metallischen Quecksilber keine wässrige
+        oder ölige Phase enthalten.
+
+
+    c)  Die Behälter dürfen nur zu höchstens 80 Volumenprozent befüllt sein.
+
+
+
+
+
+3.  Anforderungen an die Behälter
+
+    a)  Die Behälter müssen aus Kohlenstoffstahl, der mindestens die
+        Anforderungen an die Stahlsorte 1.0044 nach DIN EN 10025-2, Ausgabe
+        April 2005, erfüllt, oder aus rostfreiem Stahl, der mindestens die
+        Anforderungen an die Stahlsorte 1.4301, 1.4404, 1.4432 oder 1.4435
+        nach DIN EN 10088-1, Ausgabe Januar 2012, erfüllt, bestehen.
+
+
+    b)  Die Außenseite der Behälter muss widerstandsfähig gegen die
+        Lagerungsbedingungen sein; Schweißnähte sind so weit wie technisch
+        möglich zu vermeiden.
+
+
+    c)  Das Baumuster des Behälters muss die Fallprüfung und die
+        Dichtheitsprüfung bestanden haben entsprechend den Unterabschnitten
+        6\.1.5.3 bzw. 6.1.5.4 der Anlage zur Bekanntmachung der Neufassung der
+        Anlagen A und B des Europäischen Übereinkommens über die
+        internationale Beförderung gefährlicher Güter auf der Straße (ADR) vom
+        25\. November 2010 (BGBl. 2010 II S. 1412, Anlageband) in der jeweils
+        geltenden Fassung.
+
+
+    d)  Jeder Behälter muss mit einer dauerhaften Kennzeichnung versehen sein,
+        der die Identifikationsnummer des Behälters, das Fertigungsmaterial,
+        das Leergewicht, der Hersteller und das Datum der Herstellung des
+        Behälters zu entnehmen ist.
+
+
+
+
+
+4.  Anforderungen an die Abfallannahme, Kontrolle und Dokumentation
+
+    a)  Die Behälter müssen bei der Anlieferung einer Sichtkontrolle
+        unterzogen werden, mit der sichergestellt wird, dass beschädigte,
+        undichte oder korrodierte Behälter nicht angenommen werden.
+
+
+    b)  Es dürfen nur Behälter angenommen werden, die jeweils über eine
+        dauerhafte Kennzeichnung nach Nummer 3 Buchstabe d und über eine vom
+        Befüller erstellte und mit der Identifikationsnummer des Behälters
+        gekennzeichnete Bescheinigung nach § 23 Absatz 4 Satz 1 verfügen.
+
+
+    c)  Der Bereich der zeitweiligen Lagerung metallischer Quecksilberabfälle
+        und die gelagerten Behälter müssen mindestens einmal monatlich von
+        einer hierzu befugten Person, die über die erforderliche Fachkunde
+        verfügt, einer Sichtkontrolle unterzogen werden und bei Feststellung
+        undichter Stellen, aus denen Quecksilber freigesetzt wird, müssen
+        unverzüglich alle erforderlichen Maßnahmen ergriffen werden, um eine
+        Emission von Quecksilber in die Umwelt zu verhindern und die
+        Sicherheit der Quecksilberlagerung wiederherzustellen. Das Ergebnis
+        der Sichtkontrolle ist zu protokollieren.
+
+
+    d)  Mindestens eine Person des Personals muss die Fachkunde im Umgang mit
+        Gefahrstoffen, insbesondere mit Quecksilber, besitzen. Gerätschaft zum
+        Atemschutz und Sicherheitskleidung sind vorzuhalten.
+
+
+    e)  Alle Freisetzungen von Quecksilber sind nach § 13 Absatz 4 der
+        zuständigen Behörde zu melden.
+
+
+
+
+
+
+

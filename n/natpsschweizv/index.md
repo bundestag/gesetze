@@ -288,8 +288,7 @@ Landschaftsschutzgebiet Sächsische Schweiz beitragen.
 (1) Das Gebiet des Nationalparkes wird in die Schutzzonen I, II und
 III gegliedert.
 
-(2) Die **Schutzzone I**              (Kernzone) umfaßt folgende
-Bereiche:
+(2) Die **Schutzzone I** (Kernzone) umfaßt folgende Bereiche:
 
 1.  In der **Vorderen Sächsischen Schweiz**
 
@@ -387,9 +386,8 @@ Bereiche:
 
 
 
-(3) Der **Schutzzone II**              (Entwicklungs- und Pflegezone)
-werden alle nicht in den Schutzzonen I und III enthaltenen Flächen
-zugeordnet.
+(3) Der **Schutzzone II** (Entwicklungs- und Pflegezone) werden alle
+nicht in den Schutzzonen I und III enthaltenen Flächen zugeordnet.
 
 (4) Die Schutzzone III (Erholungszone) umfaßt folgende Bereiche:
 
@@ -443,21 +441,20 @@ Karten eingetragen.
 
 (1) Im Nationalpark ist es geboten,
 
-1.  in der **Schutzzone I**                    vorrangig durch geeignete
-    Schutzmaßnahmen die ungestörte Entwicklung natürlicher und naturnaher
-    Lebensgemeinschaften zu sichern sowie gestörte Lebensgemeinschaften in
-    natürliche oder naturnahe Zustände zu überführen,
+1.  in der **Schutzzone I** vorrangig durch geeignete Schutzmaßnahmen die
+    ungestörte Entwicklung natürlicher und naturnaher Lebensgemeinschaften
+    zu sichern sowie gestörte Lebensgemeinschaften in natürliche oder
+    naturnahe Zustände zu überführen,
 
 
-2.  in den **Schutzzonen II und III**                    vorrangig durch
-    gezielte Pflege- und Renaturierungsmaßnahmen die biotoptypische
-    Mannigfaltigkeit der heimischen Tier- und Pflanzenwelt zu erhalten und
-    zu fördern,
+2.  in den **Schutzzonen II und III** vorrangig durch gezielte Pflege- und
+    Renaturierungsmaßnahmen die biotoptypische Mannigfaltigkeit der
+    heimischen Tier- und Pflanzenwelt zu erhalten und zu fördern,
 
 
-3.  in der **Schutzzone III**                    die Erholungsnutzung so
-    zu gestalten, daß Beeinträchtigungen der Naturausstattung vermieden
-    oder verringert werden,
+3.  in der **Schutzzone III** die Erholungsnutzung so zu gestalten, daß
+    Beeinträchtigungen der Naturausstattung vermieden oder verringert
+    werden,
 
 
 4.  durch geeignete Maßnahmen der Verkehrs- und Besucherlenkung den
@@ -731,8 +728,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1470)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

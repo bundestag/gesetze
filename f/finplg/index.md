@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1966, 697
 
-Zuletzt geändert durch
-:   Art. 28 G v. 8.5.2008 I 810
-
+Stand: Zuletzt geändert Art. 244 V v. 31.8.2015 I 1474
 
 ## Art 1 und 2
 
@@ -113,7 +111,7 @@ mit folgenden Maßgaben:
     über.
 
 
-4.  Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+4.  Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
     durch Rechtsverordnung die unter Nummer 2 genannten Maßnahmen für die
     institutionelle und individuelle Leistungs- und Aufstiegsförderung im
     Rahmen ihrer Zweckbestimmung neu zu regeln; die Rechtsverordnung

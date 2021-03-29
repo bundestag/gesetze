@@ -917,7 +917,6 @@ getrennt sind. § 10 Abs. 7 Satz 2 bis 5 gilt entsprechend.
 
 ### § 12 (weggefallen)
 
--
 
 
 ## Abschnitt 3 - Ausnahmen, Ordnungswidrigkeiten

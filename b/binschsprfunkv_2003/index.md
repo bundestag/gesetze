@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2002, 4569 (2003 I 130)
 
 Zuletzt geändert durch
-:   § 38 Abs. 6 V v. 16.12.2011; 2012 I 2
+:   Art. 50 V v. 2.6.2016 I 1257
+
+Änderung durch
+:   Art. 2 § 9 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 § 3 Abs. 2 und 3 dieser Verordnung dient der Umsetzung der Richtlinie
 1999/5/EG des Europäischen Parlaments und des Rates vom 9. März 1999
@@ -71,8 +74,8 @@ Im Sinne dieser Verordnung sind
 1.  Wasserstraßen der Zonen 1 bis 4:
 
     die Bundeswasserstraßen nach dem Anhang I der
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) in der jeweils geltenden Fassung;
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung;
 
 
 2.  Fahrzeuge:
@@ -123,8 +126,8 @@ Im Sinne dieser Verordnung sind
     und von der Donaukommission in Budapest gemeinsam nach der
     Entschließung Nr. 1 der Regionalen Vereinbarung herausgegebene und
     dort niedergelegte Handbuch Binnenschifffahrtsfunk einschließlich der
-    Regionalen Teile in der vom Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung jeweils bekannt gemachten aktuellen Fassung;
+    Regionalen Teile in der vom Bundesministerium für Verkehr und digitale
+    Infrastruktur jeweils bekannt gemachten aktuellen Fassung;
 
 
 7.  Landfunkstelle:
@@ -169,9 +172,9 @@ Automatisches Senderidentifizierungssystem in der Binnenschifffahrt
 (1) Wer auf Wasserstraßen der Zonen 1 bis 4 eine Schiffsfunkstelle
 bedienen oder beaufsichtigen will, bedarf einer Erlaubnis der
 zuständigen Behörde nach dieser Verordnung. Sie gilt unbefristet.
-Zuständige Behörde ist die Fachstelle der Wasser- und
-Schifffahrtsverwaltung für Verkehrstechniken beim Wasser- und
-Schifffahrtsamt Koblenz.
+Zuständige Behörde ist die vom Bundesministerium für Verkehr und
+digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger
+bekanntgemachte Stelle.
 
 (2) Diese Erlaubnis wird durch ein UKW-Sprechfunkzeugnis (UBI
 (Anlage 1)) nachgewiesen.
@@ -433,7 +436,7 @@ Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der
 1.  Durchführung von Verwaltungsaufgaben nach dem
     Binnenschifffahrtsaufgabengesetz oder auf Grund dieses Gesetzes oder
     des Seeaufgabengesetzes erlassener Rechtsvorschriften an Dienststellen
-    der Wasser- und Schifffahrtsverwaltung des Bundes, der
+    der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, der
     Wasserschutzpolizeien der Länder und der Regulierungsbehörde für Post
     und Telekommunikation sowie an die Prüfungsausschüsse,
 
@@ -444,7 +447,7 @@ Erlaubnisse, soweit dies erforderlich ist, zum Zwecke der
 
 
 3.  Verfolgung von Ordnungswidrigkeiten auf dem Gebiet der Schifffahrt an
-    Gerichte, Staatsanwaltschaften, Dienststellen der Wasser- und
+    Gerichte, Staatsanwaltschaften, Dienststellen der Wasserstraßen- und
     Schifffahrtsverwaltung des Bundes und der Polizeien der Länder
 
 
@@ -513,20 +516,23 @@ fahrlässig
 
 Diese Verordnung tritt am 1. Januar 2003 in Kraft.
 
+(zu § 4 Abs. 2, § 9 Abs. 4)
 
-### Anlage 1 (zu § 4 Abs. 2, § 9 Abs. 4) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+### Anlage 1 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4575
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
+(zu § 4 Abs. 3 Nr. 1, § 14)
 
-### Anlage 2 (zu § 4 Abs. 3 Nr. 1, § 14) UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
+### Anlage 2 UKW-Sprechfunkzeugnis für den Binnenschifffahrtsfunk
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4576
 (Inhalt: nicht darstellbares Muster eines UKW-Sprechfunkzeugnisses)
 
+(zu § 9 Abs. 1)
 
-### Anlage 3 (zu § 9 Abs. 1) Prüfungsprogramm
+### Anlage 3 Prüfungsprogramm
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
 
@@ -1041,10 +1047,11 @@ Fundstelle des Originaltextes: BGBl. I 2002, 4577 - 4578
 
 
 
+   (zu § 9 Abs. 3)
 
-### Anlage 4 (zu § 9 Abs. 3) Vorschriften für den Prüfungsverlauf
+### Anlage 4 Vorschriften für den Prüfungsverlauf
 
-   Fundstelle des Originaltextes: BGBl. I 2002, 4579
+Fundstelle des Originaltextes: BGBl. I 2002, 4579
 
 
 1.  Der Bewerber muss sich auf Verlangen vor Beginn der Prüfung durch

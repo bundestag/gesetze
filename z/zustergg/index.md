@@ -86,7 +86,7 @@ dieses Gesetzes im Sinne des Absatzes 1 tätig geworden, so zeigt es
 dies dem Amtsgericht Schöneberg in Berlin-Schöneberg unverzüglich an.
 
 
-## Dritter Abschnitt -
+## Dritter Abschnitt - 
 
 
 
@@ -104,9 +104,9 @@ dies dem Amtsgericht Schöneberg in Berlin-Schöneberg unverzüglich an.
 oder rechtskräftig abgeschlossen waren, an dessen Sitz deutsche
 Gerichtsbarkeit nicht mehr ausgeübt wird, ist die Strafkammer des
 Landgerichts oder unter den Voraussetzungen des §
-80              des Gerichtsverfassungsgesetzes das Schwurgericht
-zuständig, in dessen Bezirk der Beschuldigte oder Verurteilte zur Zeit
-des Inkrafttretens dieses Gesetzes seinen Wohnsitz oder in Ermangelung
+80 des Gerichtsverfassungsgesetzes das Schwurgericht zuständig, in
+dessen Bezirk der Beschuldigte oder Verurteilte zur Zeit des
+Inkrafttretens dieses Gesetzes seinen Wohnsitz oder in Ermangelung
 eines im Bereich deutscher Gerichtsbarkeit gelegenen Wohnsitzes seinen
 gewöhnlichen Aufenthalt hat. Dies gilt nur für Personen, die zur Zeit
 des früheren Verfahrens Deutsche waren und im Zeitpunkt der
@@ -146,11 +146,11 @@ Strafrechtspflege erlassenen Vorschriften bleiben unberührt.
 
 (3) Für das Wiederaufnahmeverfahren ist die Strafkammer des
 Landgerichts oder unter den Voraussetzungen des §
-80              des Gerichtsverfassungsgesetzes das Schwurgericht
-zuständig, in dessen Bezirk der Verurteilte zur Zeit des
-Inkrafttretens dieses Gesetzes seinen Wohnsitz oder in Ermangelung
-eines im Bereich deutscher Gerichtsbarkeit gelegenen Wohnsitzes seinen
-gewöhnlichen Aufenthalt hat.
+80 des Gerichtsverfassungsgesetzes das Schwurgericht zuständig, in
+dessen Bezirk der Verurteilte zur Zeit des Inkrafttretens dieses
+Gesetzes seinen Wohnsitz oder in Ermangelung eines im Bereich
+deutscher Gerichtsbarkeit gelegenen Wohnsitzes seinen gewöhnlichen
+Aufenthalt hat.
 
 
 ### § 19
@@ -179,7 +179,7 @@ gelten entsprechend. Sind hiernach mehrere Gerichte zuständig, so
 gebührt dem Gericht der Vorzug, das zuerst mit der Sache befaßt wird.
 
 
-## Fünfter Abschnitt -
+## Fünfter Abschnitt - 
 
 
 

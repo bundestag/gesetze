@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1991, 1606, 1684
 
 Zuletzt geändert durch
-:   Art. 21 G v. 20.4.2007 I 554
+:   Art. 442 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -81,8 +81,8 @@ a)  zwei Mitglieder auf gemeinsamen Vorschlag der Länder Berlin,
 
 
 b)  ein Mitglied auf gemeinsamen Vorschlag der Bundesministerien für
-    Arbeit und Soziales, der Finanzen, des Innern, der Justiz und der
-    Verteidigung.
+    Arbeit und Soziales, der Finanzen, des Innern, der Justiz und für
+    Verbraucherschutz und der Verteidigung.
 
 
 

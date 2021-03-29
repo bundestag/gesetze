@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2008, 2412
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.10.2012 I 2122
+:   Art. 18 G v. 17.7.2017 I 2541
 
 
 ## Eingangsformel
@@ -108,12 +108,24 @@ Weisungen, üben ihre Tätigkeit unabhängig und unparteilich aus und
 sind nur ihrem Gewissen verantwortlich. Sie sind zur Verschwiegenheit
 verpflichtet; dies gilt auch für die in Absatz 3 genannten Personen.
 
+(6) Die Verbände von Menschen mit Behinderungen und Berechtigten nach
+dem sozialen Entschädigungsrecht auf Bundesebene erhalten ein
+Mitberatungsrecht im Beirat. Der Deutsche Behindertenrat benennt dem
+Bundesministerium für Arbeit und Soziales hierzu zwei sachverständige
+Personen für den Zeitraum der Berufungsperiode des Beirats. Er
+berücksichtigt dabei die Anliegen von Verbänden, die die Belange von
+Berechtigten nach dem sozialen Entschädigungsrecht vertreten, auch
+soweit sie nicht Mitglieder des Deutschen Behindertenrates sind. Das
+Mitberatungsrecht beinhaltet auch das Recht zur Anwesenheit bei der
+Beschlussfassung. Absatz 5 Satz 2 bis 4 gilt entsprechend. Die
+Geschäftsordnung des Beirats gilt auch für die vom Deutschen
+Behindertenrat benannten Personen.
+
 
 ## § 4 Beschlüsse
 
-Die Beschlüsse des Beirats werden mit einfacher Mehrheit der
-anwesenden Beiratsmitglieder gefasst. Zur Beschlussfassung ist die
-Anwesenheit von mindestens zwölf Mitgliedern erforderlich.
+Die Beschlüsse des Beirats werden mit einfacher Mehrheit der nach § 3
+Absatz 2 berufenen Mitglieder gefasst.
 
 
 ## § 5 Inkrafttreten
@@ -125,8 +137,9 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+zu § 2
 
-## Anlage zu § 2 der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
+## Anlage der Versorgungsmedizin-Verordnung vom 10. Dezember 2008
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 57 vom 15. Dezember 2008,
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -477,7 +490,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Außergewöhnliche Gehbehinderung (Merkzeichen aG)
+    *   (aufgehoben)
 
     *   115
 
@@ -1155,8 +1168,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 **2.** **Kopf und Gesicht**
 
     *
-        *            *   *2.1*                                    Narben nach
-                Warzenfortsatzaufmeißelung
+        *            *   *2.1* Narben nach Warzenfortsatzaufmeißelung
 
             *   0
 
@@ -1226,8 +1238,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   *2.2*                                    Sensibilitätsstörungen im
-                Gesichtsbereich
+        *            *   *2.2* Sensibilitätsstörungen im Gesichtsbereich
 
             *
 
@@ -1308,7 +1319,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   *2.3*                                    Echte Migräne
+        *            *   *2.3* Echte Migräne
 
             *
 
@@ -1363,7 +1374,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
             *
             *
 
-        *            *   *2.4*                                    Periphere Fazialisparese
+        *            *   *2.4* Periphere Fazialisparese
 
             *
 
@@ -1401,7 +1412,7 @@ Gemeinschaft gemeint ist, wird einheitlich die Abkürzung GdS benutzt.
 
 
 **3.** **Nervensystem und Psyche**
-    *3.1*                    Hirnschäden
+    *3.1* Hirnschäden
 
     a)  Ein Hirnschaden ist nachgewiesen, wenn Symptome einer organischen
         Veränderung des Gehirns - nach Verletzung oder Krankheit nach dem
@@ -1446,8 +1457,7 @@ Bei der folgenden GdS-Tabelle der Hirnschäden soll die unter Nummer
 stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 *
-    *        *   *3.1.1*                              Grundsätze der Gesamtbewertung
-            von Hirnschäden
+    *        *   *3.1.1* Grundsätze der Gesamtbewertung von Hirnschäden
 
         *
 
@@ -1474,8 +1484,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.1.2*                              Bewertung von Hirnschäden mit
-            isoliert vorkommenden bzw. führenden Syndromen
+    *        *   *3.1.2* Bewertung von Hirnschäden mit isoliert vorkommenden bzw.
+            führenden Syndromen
 
         *
 
@@ -1762,7 +1772,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.2*                              Narkolepsie
+    *        *   *3.2* Narkolepsie
 
 
     *        *
@@ -1780,7 +1790,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.3*                              Hirntumoren
+    *        *   *3.3* Hirntumoren
 
 
     *        *
@@ -1831,8 +1841,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.4*                              Beeinträchtigungen der geistigen
-            Leistungsfähigkeit im Kindes- und Jugendalter
+    *        *   *3.4* Beeinträchtigungen der geistigen Leistungsfähigkeit im Kindes-
+            und Jugendalter
 
 
     *        *
@@ -1853,8 +1863,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.4.1*                              Entwicklungsstörungen im
-            Kleinkindesalter
+    *        *   *3.4.1* Entwicklungsstörungen im Kleinkindesalter
 
         *
 
@@ -1947,8 +1956,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.4.2*                              Einschränkung der geistigen
-            Leistungsfähigkeit im Schul- und Jugendalter
+    *        *   *3.4.2* Einschränkung der geistigen Leistungsfähigkeit im Schul- und
+            Jugendalter
 
         *
 
@@ -2102,8 +2111,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5*                              Verhaltens- und emotionale
-            Störungen mit Beginn in der Kindheit und Jugend
+    *        *   *3.5* Verhaltens- und emotionale Störungen mit Beginn in der Kindheit
+            und Jugend
 
         *
 
@@ -2119,9 +2128,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.1*                              Tief greifende
-            Entwicklungsstörungen (insbesondere frühkindlicher Autismus,
-            atypischer Autismus, Asperger-Syndrom)
+    *        *   *3.5.1* Tief greifende Entwicklungsstörungen (insbesondere
+            frühkindlicher Autismus, atypischer Autismus, Asperger-Syndrom)
             Bei tief greifenden Entwicklungsstörungen
 
             –   ohne soziale Anpassungsschwierigkeiten beträgt der GdS 10–20,
@@ -2159,8 +2167,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.2*                              Hyperkinetische Störungen und
-            Aufmerksamkeitsstörungen ohne Hyperaktivität
+    *        *   *3.5.2* Hyperkinetische Störungen und Aufmerksamkeitsstörungen ohne
+            Hyperaktivität
             Ohne soziale Anpassungsschwierigkeiten liegt keine
             Teilhabebeeinträchtigung vor.
             Bei sozialen Anpassungsschwierigkeiten
@@ -2194,11 +2202,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.5.3*                              Störungen des Sozialverhaltens
-            und Störungen sozialer Funktionen mit Beginn in der Kindheit und
-            Jugend sind je nach Ausmaß der Teilhabebeeinträchtigung, insbesondere
-            der Einschränkung der sozialen Integrationsfähigkeit und dem
-            Betreuungsaufwand, individuell zu bewerten.
+    *        *   *3.5.3* Störungen des Sozialverhaltens und Störungen sozialer
+            Funktionen mit Beginn in der Kindheit und Jugend sind je nach Ausmaß
+            der Teilhabebeeinträchtigung, insbesondere der Einschränkung der
+            sozialen Integrationsfähigkeit und dem Betreuungsaufwand, individuell
+            zu bewerten.
 
         *
 
@@ -2206,8 +2214,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.6*                              Schizophrene und affektive
-            Psychosen
+    *        *   *3.6* Schizophrene und affektive Psychosen
 
         *
 
@@ -2312,8 +2319,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.7*                              Neurosen, Persönlichkeitsstörungen,
-            Folgen psychischer Traumen
+    *        *   *3.7* Neurosen, Persönlichkeitsstörungen, Folgen psychischer Traumen
 
         *
 
@@ -2367,8 +2373,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.8*                              Psychische Störungen und
-            Verhaltensstörungen durch psychotrope Substanzen
+    *        *   *3.8* Psychische Störungen und Verhaltensstörungen durch psychotrope
+            Substanzen
 
 
     *        *
@@ -2464,7 +2470,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *3.9*                              Rückenmarkschäden
+    *        *   *3.9* Rückenmarkschäden
 
         *
 
@@ -2538,7 +2544,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.10*                              Multiple Sklerose
+    *        *   *3.10* Multiple Sklerose
 
         *
 
@@ -2555,7 +2561,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *3.11*                              Polyneuropathien
+    *        *   *3.11* Polyneuropathien
 
         *
 
@@ -2626,8 +2632,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.1*                              Verlust eines Auges mit dauernder,
-            einer Behandlung nicht
+    *        *   *4.1* Verlust eines Auges mit dauernder, einer Behandlung nicht
 
 
     *        *   zugänglichen Eiterung der Augenhöhle
@@ -2637,7 +2642,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *4.2*                              Linsenverlust
+    *        *   *4.2* Linsenverlust
 
         *
 
@@ -2704,11 +2709,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *4.3*                              Die augenärztliche Untersuchung
-            umfasst die Prüfung der einäugigen und beidäugigen Sehschärfe. Sind
-            die Ergebnisse beider Prüfungsarten unterschiedlich, so ist bei der
-            Bewertung die beidäugige Sehschärfe als Sehschärfewert des besseren
-            Auges anzusetzen.
+    *        *   *4.3* Die augenärztliche Untersuchung umfasst die Prüfung der
+            einäugigen und beidäugigen Sehschärfe. Sind die Ergebnisse beider
+            Prüfungsarten unterschiedlich, so ist bei der Bewertung die beidäugige
+            Sehschärfe als Sehschärfewert des besseren Auges anzusetzen.
 
         *
 
@@ -3250,7 +3254,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-    *        *   *4.4*                              Augenmuskellähmungen, Strabismus
+    *        *   *4.4* Augenmuskellähmungen, Strabismus
 
         *
 
@@ -3336,7 +3340,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.5*                              Gesichtsfeldausfälle
+    *        *   *4.5* Gesichtsfeldausfälle
 
         *
 
@@ -3579,7 +3583,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.6*                              Ausfall des Farbensinns
+    *        *   *4.6* Ausfall des Farbensinns
 
         *   0
 
@@ -3600,8 +3604,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.7*                              Nach Hornhauttransplantationen
-            richtet sich der GdS allein nach dem Sehvermögen.
+    *        *   *4.7* Nach Hornhauttransplantationen richtet sich der GdS allein nach
+            dem Sehvermögen.
 
 
     *        *
@@ -3609,9 +3613,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *4.8*                              Nach Entfernung eines malignen
-            Augentumors ist in den ersten fünf Jahren eine Heilungsbewährung
-            abzuwarten; GdS während dieser Zeit
+    *        *   *4.8* Nach Entfernung eines malignen Augentumors ist in den ersten
+            fünf Jahren eine Heilungsbewährung abzuwarten; GdS während dieser Zeit
 
 
     *        *
@@ -3673,9 +3676,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.1*                              Angeborene oder in der Kindheit
-            erworbene Taubheit oder an Taubheit grenzende Schwerhörigkeit mit
-            Sprachstörungen
+    *        *   *5.1* Angeborene oder in der Kindheit erworbene Taubheit oder an
+            Taubheit grenzende Schwerhörigkeit mit Sprachstörungen
 
         *
 
@@ -3707,7 +3709,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2*                              Hörverlust
+    *        *   *5.2* Hörverlust
 
         *
 
@@ -3716,9 +3718,9 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.2.1*                              Zur Ermittlung des prozentualen
-            Hörverlustes aus den Werten der sprachaudiometrischen Untersuchung
-            (nach Boenninghaus u. Röser 1973):
+    *        *   *5.2.1* Zur Ermittlung des prozentualen Hörverlustes aus den Werten
+            der sprachaudiometrischen Untersuchung (nach Boenninghaus u. Röser
+            1973):
 
         *
 
@@ -4122,10 +4124,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2.2*                              Zur Ermittlung des prozentualen
-            Hörverlustes aus dem Tonaudiogramm bei unregelmäßigem Verlauf der
-            Tongehörskurve. Der prozentuale Hörverlust ergibt sich durch Addition
-            der vier Teilkomponenten (4-Frequenztabelle nach Röser 1973):
+    *        *   *5.2.2* Zur Ermittlung des prozentualen Hörverlustes aus dem
+            Tonaudiogramm bei unregelmäßigem Verlauf der Tongehörskurve. Der
+            prozentuale Hörverlust ergibt sich durch Addition der vier
+            Teilkomponenten (4-Frequenztabelle nach Röser 1973):
 
 
 
@@ -4333,8 +4335,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2.3.3*                              Frequenztabelle nach Röser 1980
-            für die Beurteilung bei Hochtonverlusten vom Typ Lärmschwerhörigkeit:
+    *        *   *5.2.3.3* Frequenztabelle nach Röser 1980 für die Beurteilung bei
+            Hochtonverlusten vom Typ Lärmschwerhörigkeit:
 
 
 
@@ -4669,8 +4671,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *5.2.4*                              Zur Ermittlung des GdS aus den
-            Schwerhörigkeitsgraden für beide Ohren:
+    *        *   *5.2.4* Zur Ermittlung des GdS aus den Schwerhörigkeitsgraden für
+            beide Ohren:
 
 
 
@@ -4877,7 +4879,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-    *        *   *5.3*                              Gleichgewichtsstörungen
+    *        *   *5.3* Gleichgewichtsstörungen
 
         *
 
@@ -5049,7 +5051,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.4*                              Chronische Mittelohrentzündung
+    *        *   *5.4* Chronische Mittelohrentzündung
 
         *
 
@@ -5110,7 +5112,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *5.5*                              Verlust einer Ohrmuschel
+    *        *   *5.5* Verlust einer Ohrmuschel
 
         *   20
 
@@ -5120,7 +5122,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **6.** **Nase**
 
-    *        *   *6.1*                              Völliger Verlust der Nase
+    *        *   *6.1* Völliger Verlust der Nase
 
         *   50
 
@@ -5151,8 +5153,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *6.2*                              Stinknase (Ozaena), je nach Ausmaß
-            der Borkenbildung und
+    *        *   *6.2* Stinknase (Ozaena), je nach Ausmaß der Borkenbildung und
 
         *
 
@@ -5223,8 +5224,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *6.3*                              Völliger Verlust des Riechvermögens
-            mit der damit verbundenen
+    *        *   *6.3* Völliger Verlust des Riechvermögens mit der damit verbundenen
 
         *
 
@@ -5256,8 +5256,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.1*                              Lippendefekt mit ständigem
-            Speichelfluss
+    *        *   *7.1* Lippendefekt mit ständigem Speichelfluss
 
         *   20-30
 
@@ -5299,9 +5298,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.2*                              Schwere Funktionsstörung der Zunge
-            durch Gewebsverlust, narbige Fixierung oder Lähmung je nach Umfang und
-            Artikulationsstörung
+    *        *   *7.2* Schwere Funktionsstörung der Zunge durch Gewebsverlust, narbige
+            Fixierung oder Lähmung je nach Umfang und Artikulationsstörung
 
         *   30-50
 
@@ -5329,8 +5327,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *7.3*                              Verlust eines Teiles des
-            Unterkiefers mit schlaffer Pseudarthrose
+    *        *   *7.3* Verlust eines Teiles des Unterkiefers mit schlaffer
+            Pseudarthrose
 
         *
 
@@ -5368,7 +5366,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *7.4*                              Umfassender Zahnverlust
+    *        *   *7.4* Umfassender Zahnverlust
 
         *
 
@@ -5393,8 +5391,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.5*                              Ausgedehnter Defekt des Gaumens mit
-            gut sitzender
+    *        *   *7.5* Ausgedehnter Defekt des Gaumens mit gut sitzender
 
         *
 
@@ -5418,8 +5415,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.6*                              Lippen-, Kiefer-, Gaumen- und
-            Segelspalten bei Kindern, bis zum Abschluss der Behandlung
+    *        *   *7.6* Lippen-, Kiefer-, Gaumen- und Segelspalten bei Kindern, bis zum
+            Abschluss der Behandlung
 
         *
 
@@ -5536,7 +5533,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.7*                              Schluckstörungen
+    *        *   *7.7* Schluckstörungen
 
         *
 
@@ -5575,7 +5572,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.8*                              Verlust des Kehlkopfes
+    *        *   *7.8* Verlust des Kehlkopfes
 
         *
 
@@ -5659,7 +5656,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.9*                              Tracheostoma
+    *        *   *7.9* Tracheostoma
 
         *
 
@@ -5713,8 +5710,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.10*                              Funktionelle und organische
-            Stimmstörungen (z. B. Stimmbandlähmung)
+    *        *   *7.10* Funktionelle und organische Stimmstörungen (z. B.
+            Stimmbandlähmung)
 
         *
 
@@ -5757,7 +5754,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *7.11*                              Artikulationsstörungen
+    *        *   *7.11* Artikulationsstörungen
 
         *
 
@@ -5843,8 +5840,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.1*                              Brüche und Defekte der Knochen des
-            Brustkorbs (Rippen, Brustbein, Schlüsselbein)
+    *        *   *8.1* Brüche und Defekte der Knochen des Brustkorbs (Rippen,
+            Brustbein, Schlüsselbein)
 
 
     *        *
@@ -5902,8 +5899,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.2*                              Chronische Bronchitis,
-            Bronchiektasen
+    *        *   *8.2* Chronische Bronchitis, Bronchiektasen
 
         *
 
@@ -5951,8 +5947,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *8.3*                              Krankheiten der Atmungsorgane mit
-            dauernder Einschränkung der Lungenfunktion
+    *        *   *8.3* Krankheiten der Atmungsorgane mit dauernder Einschränkung der
+            Lungenfunktion
 
 
     *        *
@@ -6021,11 +6017,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.4*                              Nach einer Lungentransplantation
-            ist eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre);
-            während dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS
-            selbst bei günstigem Heilungsverlauf unter Mitberücksichtigung der
-            erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
+    *        *   *8.4* Nach einer Lungentransplantation ist eine Heilungsbewährung
+            abzuwarten (im Allgemeinen zwei Jahre); während dieser Zeit ist ein
+            GdS von 100 anzusetzen. Danach ist der GdS selbst bei günstigem
+            Heilungsverlauf unter Mitberücksichtigung der erforderlichen
+            Immunsuppression nicht niedriger als 70 zu bewerten.
 
         *
 
@@ -6066,8 +6062,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.5*                              Bronchialasthma ohne dauernde
-            Einschränkung der Lungenfunktion,
+    *        *   *8.5* Bronchialasthma ohne dauernde Einschränkung der Lungenfunktion,
 
         *
 
@@ -6114,7 +6109,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.6*                              Bronchialasthma bei Kindern
+    *        *   *8.6* Bronchialasthma bei Kindern
 
         *
 
@@ -6171,8 +6166,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.7*                              Schlaf-Apnoe-Syndrom (Nachweis
-            durch Untersuchung im Schlaflabor)
+    *        *   *8.7* Schlaf-Apnoe-Syndrom (Nachweis durch Untersuchung im
+            Schlaflabor)
 
         *
 
@@ -6204,7 +6199,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *8.8*                              Tuberkulose
+    *        *   *8.8* Tuberkulose
 
         *
 
@@ -6253,7 +6248,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *8.9*                              Sarkoidose
+    *        *   *8.9* Sarkoidose
 
         *
 
@@ -6291,14 +6286,14 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.1*                              Krankheiten des Herzens
+    *        *   *9.1* Krankheiten des Herzens
 
 
     *        *
         *
         *
 
-    *        *   *9.1.1*                              Einschränkung der Herzleistung:
+    *        *   *9.1.1* Einschränkung der Herzleistung:
 
         *
 
@@ -6398,35 +6393,34 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.1.2*                              Nach operativen und anderen
-            therapeutischen Eingriffen am Herzen ist der GdS von der bleibenden
-            Leistungsbeeinträchtigung abhängig. Bei Herzklappenprothesen ist der
-            GdS nicht niedriger als 30 zu bewerten; dieser Wert schließt eine
-            Dauerbehandlung mit Antikoagulantien ein.
+    *        *   *9.1.2* Nach operativen und anderen therapeutischen Eingriffen am
+            Herzen ist der GdS von der bleibenden Leistungsbeeinträchtigung
+            abhängig. Bei Herzklappenprothesen ist der GdS nicht niedriger als 30
+            zu bewerten; dieser Wert schließt eine Dauerbehandlung mit
+            Antikoagulantien ein.
 
 
     *        *
         *
 
-    *        *   *9.1.3*                              Nach einem Herzinfarkt ist der
-            GdS von der bleibenden Leistungsbeeinträchtigung abhängig.
+    *        *   *9.1.3* Nach einem Herzinfarkt ist der GdS von der bleibenden
+            Leistungsbeeinträchtigung abhängig.
 
 
     *        *
         *
         *
 
-    *        *   *9.1.4*                              Nach Herztransplantation ist eine
-            Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während
-            dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS selbst
-            bei günstigem Heilungsverlauf unter Berücksichtigung der
-            erforderlichen Immunsuppression nicht niedriger als 70 zu bewerten.
+    *        *   *9.1.4* Nach Herztransplantation ist eine Heilungsbewährung abzuwarten
+            (im Allgemeinen zwei Jahre); während dieser Zeit ist ein GdS von 100
+            anzusetzen. Danach ist der GdS selbst bei günstigem Heilungsverlauf
+            unter Berücksichtigung der erforderlichen Immunsuppression nicht
+            niedriger als 70 zu bewerten.
 
 
     *        *
 
-    *        *   *9.1.5*                              Fremdkörper im Herzmuskel oder
-            Herzbeutel
+    *        *   *9.1.5* Fremdkörper im Herzmuskel oder Herzbeutel
 
         *
 
@@ -6450,7 +6444,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.1.6*                              Rhythmusstörungen
+    *        *   *9.1.6* Rhythmusstörungen
 
         *
 
@@ -6520,16 +6514,15 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.2*                              Gefäßkrankheiten
+    *        *   *9.2* Gefäßkrankheiten
 
         *
 
     *        *
         *
 
-    *        *   *9.2.1*                              Arterielle Verschlusskrankheiten,
-            Arterienverschlüsse an den Beinen (auch nach rekanalisierenden
-            Maßnahmen)
+    *        *   *9.2.1* Arterielle Verschlusskrankheiten, Arterienverschlüsse an den
+            Beinen (auch nach rekanalisierenden Maßnahmen)
 
         *
 
@@ -6639,9 +6632,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.2.2*                              Nach größeren gefäßchirurgischen
-            Eingriffen (z. B. Prothesenimplantation) mit vollständiger
-            Kompensation einschließlich
+    *        *   *9.2.2* Nach größeren gefäßchirurgischen Eingriffen (z. B.
+            Prothesenimplantation) mit vollständiger Kompensation einschließlich
 
 
     *        *
@@ -6722,7 +6714,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *9.2.3*                              Unkomplizierte Krampfadern
+    *        *   *9.2.3* Unkomplizierte Krampfadern
 
         *   0
 
@@ -6832,7 +6824,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *9.3*                              Hypertonie (Bluthochdruck)
+    *        *   *9.3* Hypertonie (Bluthochdruck)
 
         *
 
@@ -6937,7 +6929,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **10.** **Verdauungsorgane**
 
-    *        *   *10.1*                              Speiseröhrenkrankheiten
+    *        *   *10.1* Speiseröhrenkrankheiten
 
 
     *        *
@@ -7093,7 +7085,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.2*                              Magen- und Darmkrankheiten
+    *        *   *10.2* Magen- und Darmkrankheiten
 
 
     *        *
@@ -7109,9 +7101,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.2.1*                              Magen- oder
-            Zwölffingerdarmgeschwürsleiden (chronisch rezidivierende Geschwüre,
-            Intervallbeschwerden)
+    *        *   *10.2.1* Magen- oder Zwölffingerdarmgeschwürsleiden (chronisch
+            rezidivierende Geschwüre, Intervallbeschwerden)
 
 
     *        *
@@ -7258,8 +7249,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.2.2*                              Chronische Darmstörungen
-            (irritabler Darm, Divertikulose, Divertikulitis, Darmteilresektion)
+    *        *   *10.2.2* Chronische Darmstörungen (irritabler Darm, Divertikulose,
+            Divertikulitis, Darmteilresektion)
 
 
     *        *
@@ -7499,7 +7490,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.2.3*                              Bauchfellverwachsungen
+    *        *   *10.2.3* Bauchfellverwachsungen
 
         *
 
@@ -7524,7 +7515,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *10.2.4*                              Hämorrhoiden
+    *        *   *10.2.4* Hämorrhoiden
 
         *
 
@@ -7648,8 +7639,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.3*                              Krankheiten der Leber, Gallenwege
-            und Bauchspeicheldrüse
+    *        *   *10.3* Krankheiten der Leber, Gallenwege und Bauchspeicheldrüse
 
 
     *        *
@@ -7671,7 +7661,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.3.1*                              Chronische Hepatitis
+    *        *   *10.3.1* Chronische Hepatitis
 
 
     *        *
@@ -7943,8 +7933,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *10.3.2*                              Fibrose der Leber ohne
-            Komplikationen
+    *        *   *10.3.2* Fibrose der Leber ohne Komplikationen
 
         *   0-10
 
@@ -7990,8 +7979,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.3.3*                              Fettleber (auch nutritiv-
-            toxisch) ohne Mesenchymreaktion
+    *        *   *10.3.3* Fettleber (auch nutritiv-toxisch) ohne Mesenchymreaktion
 
         *   0-10
 
@@ -8030,9 +8018,9 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *10.3.4*                              Nach Entfernung eines malignen
-            primären Lebertumors ist in den ersten fünf Jahren eine
-            Heilungsbewährung abzuwarten; GdS während dieser Zeit 100
+    *        *   *10.3.4* Nach Entfernung eines malignen primären Lebertumors ist in
+            den ersten fünf Jahren eine Heilungsbewährung abzuwarten; GdS während
+            dieser Zeit 100
 
 
     *        *
@@ -8045,8 +8033,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *10.3.5*                              Primäre biliäre Zirrhose,
-            primäre sklerosierende Cholangitis
+    *        *   *10.3.5* Primäre biliäre Zirrhose, primäre sklerosierende Cholangitis
 
 
     *        *
@@ -8184,9 +8171,9 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *10.3.6*                              Chronische Krankheit der
-            Bauchspeicheldrüse (exkretorische Funktion) je nach Auswirkung auf den
-            Allgemeinzustand, Häufigkeit und Ausmaß der Schmerzen
+    *        *   *10.3.6* Chronische Krankheit der Bauchspeicheldrüse (exkretorische
+            Funktion) je nach Auswirkung auf den Allgemeinzustand, Häufigkeit und
+            Ausmaß der Schmerzen
 
         *
 
@@ -8422,12 +8409,11 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.1*                              Nierenschäden
+    *        *   *12.1* Nierenschäden
 
         *
 
-    *        *   *12.1.1*                              Verlust, Ausfall oder Fehlen
-            einer Niere bei Gesundheit der
+    *        *   *12.1.1* Verlust, Ausfall oder Fehlen einer Niere bei Gesundheit der
 
         *
 
@@ -8507,9 +8493,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *12.1.2*                              Nierenschäden ohne Einschränkung
-            der Nierenfunktion, mit Beschwerden rezidivierende Makrohämaturie, je
-            nach Häufigkeit
+    *        *   *12.1.2* Nierenschäden ohne Einschränkung der Nierenfunktion, mit
+            Beschwerden rezidivierende Makrohämaturie, je nach Häufigkeit
 
         *   10-30
 
@@ -8544,8 +8529,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *12.1.3*                              Nierenschäden mit Einschränkung
-            der Nierenfunktion
+    *        *   *12.1.3* Nierenschäden mit Einschränkung der Nierenfunktion
 
         *
 
@@ -8666,12 +8650,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *12.1.4*                              Nach Nierentransplantation ist
-            eine Heilungsbewährung abzuwarten (im Allgemeinen zwei Jahre); während
-            dieser Zeit ist ein GdS von 100 anzusetzen. Danach ist der GdS
-            entscheidend abhängig von der verbliebenen Funktionsstörung; unter
-            Mitberücksichtigung der erforderlichen Immunsuppression ist jedoch der
-            GdS nicht niedriger als 50 zu bewerten.
+    *        *   *12.1.4* Nach Nierentransplantation ist eine Heilungsbewährung
+            abzuwarten (im Allgemeinen zwei Jahre); während dieser Zeit ist ein
+            GdS von 100 anzusetzen. Danach ist der GdS entscheidend abhängig von
+            der verbliebenen Funktionsstörung; unter Mitberücksichtigung der
+            erforderlichen Immunsuppression ist jedoch der GdS nicht niedriger als
+            50 zu bewerten.
 
         *
 
@@ -8787,12 +8771,12 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2*                              Schäden der Harnwege
+    *        *   *12.2* Schäden der Harnwege
 
         *
 
-    *        *   *12.2.1*                              Chronische Harnwegsentzündungen
-            (insbesondere chronische Harnblasenentzündung)
+    *        *   *12.2.1* Chronische Harnwegsentzündungen (insbesondere chronische
+            Harnblasenentzündung)
 
         *
 
@@ -8829,9 +8813,9 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2.2*                              Bei Entleerungsstörungen der
-            Blase (auch durch Harnröhrenverengung) sind Begleiterscheinungen (z.
-            B. Hautschäden, Harnwegsentzündungen) ggf. zusätzlich zu bewerten.
+    *        *   *12.2.2* Bei Entleerungsstörungen der Blase (auch durch
+            Harnröhrenverengung) sind Begleiterscheinungen (z. B. Hautschäden,
+            Harnwegsentzündungen) ggf. zusätzlich zu bewerten.
 
 
     *        *
@@ -8887,8 +8871,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2.3*                              Nach Entfernung eines malignen
-            Blasentumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *12.2.3* Nach Entfernung eines malignen Blasentumors ist eine
+            Heilungsbewährung abzuwarten.
 
         *
 
@@ -8940,7 +8924,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *12.2.4*                              Harninkontinenz
+    *        *   *12.2.4* Harninkontinenz
 
         *
 
@@ -9068,7 +9052,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **13.** **Männliche Geschlechtsorgane**
 
-    *        *   *13.1*                              Verlust des Penis
+    *        *   *13.1* Verlust des Penis
 
 
     *        *   Teilverlust des Penis
@@ -9132,8 +9116,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.2*                              Unterentwicklung, Verlust oder
-            Schwund eines Hodens bei intaktem anderen Hoden
+    *        *   *13.2* Unterentwicklung, Verlust oder Schwund eines Hodens bei
+            intaktem anderen Hoden
 
         *   0
 
@@ -9193,7 +9177,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.3*                              Hydrozele (sog. Wasserbruch)
+    *        *   *13.3* Hydrozele (sog. Wasserbruch)
 
         *   0-10
 
@@ -9207,8 +9191,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *13.4*                              Nach Entfernung eines malignen
-            Hodentumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *13.4* Nach Entfernung eines malignen Hodentumors ist eine
+            Heilungsbewährung abzuwarten.
 
         *
 
@@ -9263,8 +9247,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.5*                              Chronische bakterielle Entzündung
-            der Vorsteherdrüse oder abakterielle Prostatopathie
+    *        *   *13.5* Chronische bakterielle Entzündung der Vorsteherdrüse oder
+            abakterielle Prostatopathie
 
         *
 
@@ -9295,8 +9279,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *13.6*                              Nach Entfernung eines malignen
-            Prostatatumors ist eine Heilungsbewährung abzuwarten.
+    *        *   *13.6* Nach Entfernung eines malignen Prostatatumors ist eine
+            Heilungsbewährung abzuwarten.
 
 
     *        *
@@ -9360,7 +9344,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **14.** **Weibliche Geschlechtsorgane**
 
-    *        *   *14.1*                              Verlust der Brust (Mastektomie)
+    *        *   *14.1* Verlust der Brust (Mastektomie)
 
 
     *        *
@@ -9498,8 +9482,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *14.2*                              Verlust der Gebärmutter und/oder
-            Sterilität
+    *        *   *14.2* Verlust der Gebärmutter und/oder Sterilität
 
         *   0
 
@@ -9593,7 +9576,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *14.3*                              Verlust eines Eierstockes
+    *        *   *14.3* Verlust eines Eierstockes
 
         *   0
 
@@ -9668,11 +9651,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *14.4*                              Chronischer oder chronisch-
-            rezidivierender entzündlicher Prozess der Adnexe und/oder der
-            Parametrien je nach Art, Umfang und Kombination der Auswirkungen (z.
-            B. Adhäsionsbeschwerden, chronische Schmerzen,
-            Kohabitationsbeschwerden)
+    *        *   *14.4* Chronischer oder chronisch-rezidivierender entzündlicher
+            Prozess der Adnexe und/oder der Parametrien je nach Art, Umfang und
+            Kombination der Auswirkungen (z. B. Adhäsionsbeschwerden, chronische
+            Schmerzen, Kohabitationsbeschwerden)
 
         *   10-40
 
@@ -9682,7 +9664,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *14.5*                              Endometriose
+    *        *   *14.5* Endometriose
 
         *
 
@@ -9720,7 +9702,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *14.6*                              Scheidenfisteln
+    *        *   *14.6* Scheidenfisteln
 
         *
 
@@ -9915,8 +9897,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *15.1*                              Zuckerkrankheit (Diabetes
-            mellitus)
+    *        *   *15.1* Zuckerkrankheit (Diabetes mellitus)
 
         *
 
@@ -9984,7 +9965,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *15.2*                              Gicht
+    *        *   *15.2* Gicht
 
         *
 
@@ -10000,7 +9981,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *15.3*                              Fettstoffwechselkrankheit
+    *        *   *15.3* Fettstoffwechselkrankheit
 
         *
 
@@ -10036,7 +10017,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *15.4*                              Phenylketonurie
+    *        *   *15.4* Phenylketonurie
 
         *
 
@@ -10072,7 +10053,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *15.5*                              Mukoviszidose (zystische Fibrose)
+    *        *   *15.5* Mukoviszidose (zystische Fibrose)
 
         *
 
@@ -10128,7 +10109,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *15.6*                              Schilddrüsenkrankheiten
+    *        *   *15.6* Schilddrüsenkrankheiten
 
         *
 
@@ -10189,8 +10170,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *15.7*                              Chronische
-            Nebennierenrindeninsuffizienz (Addison-Syndrom)
+    *        *   *15.7* Chronische Nebennierenrindeninsuffizienz (Addison-Syndrom)
 
         *
 
@@ -10223,7 +10203,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *15.8*                              Porphyrien
+    *        *   *15.8* Porphyrien
 
         *
 
@@ -10277,7 +10257,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.1*                              Verlust der Milz
+    *        *   *16.1* Verlust der Milz
 
         *
 
@@ -10298,7 +10278,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.2*                              Hodgkin-Krankheit
+    *        *   *16.2* Hodgkin-Krankheit
 
         *
 
@@ -10351,7 +10331,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.3*                              Non-Hodgkin-Lymphome
+    *        *   *16.3* Non-Hodgkin-Lymphome
 
         *
 
@@ -10360,8 +10340,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.3.1*                              Chronische lymphatische Leukämie
-            und andere generalisierte niedrigmaligne Non-Hodgkin-Lymphome
+    *        *   *16.3.1* Chronische lymphatische Leukämie und andere generalisierte
+            niedrigmaligne Non-Hodgkin-Lymphome
 
         *
 
@@ -10416,7 +10396,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *16.3.2*                              Hochmaligne Non-Hodgkin-Lymphome
+    *        *   *16.3.2* Hochmaligne Non-Hodgkin-Lymphome
 
         *
 
@@ -10435,7 +10415,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
     *        *
 
-    *        *   *16.4*                              Plasmozytom (Myelom)
+    *        *   *16.4* Plasmozytom (Myelom)
 
         *
 
@@ -10470,8 +10450,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5*                              Myeloproliferative und
-            myelodysplastische/myeloproliferative Neoplasien
+    *        *   *16.5* Myeloproliferative und myelodysplastische/myeloproliferative
+            Neoplasien
 
         *
 
@@ -10485,8 +10465,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.1*                              Chronische myeloische Leukämie,
-            BCR/ABL-positiv
+    *        *   *16.5.1* Chronische myeloische Leukämie, BCR/ABL-positiv
 
         *
 
@@ -10520,9 +10499,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.2*                               Atypische chronische myeloische
-            Leukämie, BCR/ABL-negativ; chronische Neutrophilen-Leukämie;
-            chronische myelomonozytäre Leukämie
+    *        *   *16.5.2*  Atypische chronische myeloische Leukämie, BCR/ABL-negativ;
+            chronische Neutrophilen-Leukämie; chronische myelomonozytäre Leukämie
 
         *
 
@@ -10550,8 +10528,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.3*                               Primäre Myelofibrose
-            (Chronische idiopathische Myelofibrose)
+    *        *   *16.5.3*  Primäre Myelofibrose (Chronische idiopathische Myelofibrose)
 
         *
 
@@ -10584,8 +10561,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.4*                               Chronische Eosinophilen-
-            Leukämie/Hypereosinophilie-Syndrom
+    *        *   *16.5.4*  Chronische Eosinophilen-Leukämie/Hypereosinophilie-Syndrom
 
         *
 
@@ -10601,7 +10577,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.5*                               Polycythaemia vera
+    *        *   *16.5.5*  Polycythaemia vera
 
         *
 
@@ -10631,7 +10607,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.6*                               Essentielle Thrombozythämie
+    *        *   *16.5.6*  Essentielle Thrombozythämie
 
         *
 
@@ -10661,8 +10637,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.5.7*                               Die juvenile myelomonozytäre
-            Leukämie ist analog zur akuten myeloischen Leukämie zu bewerten.
+    *        *   *16.5.7*  Die juvenile myelomonozytäre Leukämie ist analog zur akuten
+            myeloischen Leukämie zu bewerten.
 
         *
 
@@ -10670,7 +10646,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.6*                              Akute Leukämien
+    *        *   *16.6* Akute Leukämien
 
         *
 
@@ -10705,7 +10681,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.7*                              Myelodysplastische Syndrome
+    *        *   *16.7* Myelodysplastische Syndrome
 
         *
 
@@ -10756,8 +10732,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.8*                              Knochenmark- und
-            Stammzelltransplantation
+    *        *   *16.8* Knochenmark- und Stammzelltransplantation
 
         *
 
@@ -10794,7 +10769,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.9*                              Anämien
+    *        *   *16.9* Anämien
 
         *
 
@@ -10852,8 +10827,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.10*                              Hämophilie und entsprechende
-            plasmatische Blutungskrankheiten (je nach Blutungsneigung)
+    *        *   *16.10* Hämophilie und entsprechende plasmatische Blutungskrankheiten
+            (je nach Blutungsneigung)
 
         *
 
@@ -10969,7 +10944,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *16.11*                              Immundefekte
+    *        *   *16.11* Immundefekte
 
         *
 
@@ -11109,7 +11084,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.1*                              Ekzeme
+    *        *   *17.1* Ekzeme
 
         *
 
@@ -11205,8 +11180,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *17.2*                              Chronisch rezidivierende Urtikaria
-            /Quincke-Ödem
+    *        *   *17.2* Chronisch rezidivierende Urtikaria/Quincke-Ödem
 
         *
 
@@ -11248,7 +11222,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.3*                              Akne
+    *        *   *17.3* Akne
 
         *
 
@@ -11308,7 +11282,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.4*                              Rosazea, Rhinophym
+    *        *   *17.4* Rosazea, Rhinophym
 
         *
 
@@ -11328,8 +11302,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.5*                              Hautveränderungen bei
-            Autoimmunkrankheiten des Bindegewebes
+    *        *   *17.5* Hautveränderungen bei Autoimmunkrankheiten des Bindegewebes
 
         *
 
@@ -11370,8 +11343,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.6*                              Blasenbildende Hautkrankheiten (z.
-            B. Pemphigus, Pemphigoide)
+    *        *   *17.6* Blasenbildende Hautkrankheiten (z. B. Pemphigus, Pemphigoide)
 
         *
 
@@ -11404,7 +11376,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.7*                              Psoriasis vulgaris
+    *        *   *17.7* Psoriasis vulgaris
 
         *
 
@@ -11438,7 +11410,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.8*                              Erythrodermien
+    *        *   *17.8* Erythrodermien
 
         *
 
@@ -11465,7 +11437,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.9*                              Ichthyosis
+    *        *   *17.9* Ichthyosis
 
         *
 
@@ -11518,7 +11490,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.10*                              Mykosen
+    *        *   *17.10* Mykosen
 
         *
 
@@ -11580,7 +11552,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.11*                              Totaler Haarausfall
+    *        *   *17.11* Totaler Haarausfall
 
         *
 
@@ -11595,7 +11567,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.12*                              Naevus
+    *        *   *17.12* Naevus
 
         *
 
@@ -11640,10 +11612,10 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *17.13*                              Nach Entfernung eines malignen
-            Tumors der Haut ist in den ersten fünf Jahren eine Heilungsbewährung
-            abzuwarten (Ausnahmen: z. B. Basalzellkarzinome, Bowen-Krankheit,
-            Melanoma in situ); GdS während dieser Zeit
+    *        *   *17.13* Nach Entfernung eines malignen Tumors der Haut ist in den
+            ersten fünf Jahren eine Heilungsbewährung abzuwarten (Ausnahmen: z. B.
+            Basalzellkarzinome, Bowen-Krankheit, Melanoma in situ); GdS während
+            dieser Zeit
 
 
     *        *
@@ -11669,7 +11641,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 **18.** **Haltungs- und Bewegungsorgane, rheumatische Krankheiten**
 
-    *        *   *18.1*                              Allgemeines
+    *        *   *18.1* Allgemeines
 
 
     *        *
@@ -11777,8 +11749,8 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *18.2.1*                              Entzündlich-rheumatische
-            Krankheiten (z. B. Bechterew-Krankheit)
+    *        *   *18.2.1* Entzündlich-rheumatische Krankheiten (z. B. Bechterew-
+            Krankheit)
 
         *
 
@@ -11830,17 +11802,16 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *18.2.2*                              Kollagenosen (z. B. systemischer
-            Lupus erythematodes, progressiv-systemische Sklerose,
-            Polymyositis/Dermatomyositis),
+    *        *   *18.2.2* Kollagenosen (z. B. systemischer Lupus erythematodes,
+            progressiv-systemische Sklerose, Polymyositis/Dermatomyositis),
 
 
     *        *
         *
         *
 
-    *        *   *18.2.3*                              Vaskulitiden (z. B.
-            Panarteriitis nodosa, Polymyalgia rheumatica)
+    *        *   *18.2.3* Vaskulitiden (z. B. Panarteriitis nodosa, Polymyalgia
+            rheumatica)
 
         *
 
@@ -11861,17 +11832,16 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.3*                              Bei der Beurteilung nicht-
-            entzündlicher Krankheiten der Weichteile kommt es auf Art und Ausmaß
-            der jeweiligen Organbeteiligung sowie auf die Auswirkungen auf den
-            Allgemeinzustand an.
+    *        *   *18.3* Bei der Beurteilung nicht-entzündlicher Krankheiten der
+            Weichteile kommt es auf Art und Ausmaß der jeweiligen Organbeteiligung
+            sowie auf die Auswirkungen auf den Allgemeinzustand an.
 
 
     *        *
         *
         *
 
-    *        *   *18.4*                              Fibromyalgie
+    *        *   *18.4* Fibromyalgie
 
         *
 
@@ -11886,7 +11856,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.5*                              Chronische Osteomyelitis
+    *        *   *18.5* Chronische Osteomyelitis
 
         *
 
@@ -11973,7 +11943,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *18.6*                              Muskelkrankheiten
+    *        *   *18.6* Muskelkrankheiten
 
         *
 
@@ -12037,7 +12007,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.7*                              Kleinwuchs
+    *        *   *18.7* Kleinwuchs
 
         *
 
@@ -12117,7 +12087,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *18.8*                              Großwuchs
+    *        *   *18.8* Großwuchs
 
         *
 
@@ -12132,7 +12102,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
     *        *
         *
 
-    *        *   *18.9*                              Wirbelsäulenschäden
+    *        *   *18.9* Wirbelsäulenschäden
 
         *
 
@@ -12294,7 +12264,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.10*                              Beckenschäden
+    *        *   *18.10* Beckenschäden
 
         *
 
@@ -12349,7 +12319,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.11*                              Gliedmaßenschäden, Allgemeines
+    *        *   *18.11* Gliedmaßenschäden, Allgemeines
 
         *
 
@@ -12414,7 +12384,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.12*                              Endoprothesen
+    *        *   *18.12* Endoprothesen
 
 
     *        *   Es werden Mindest-GdS angegeben, die für Endoprothesen bei
@@ -12576,7 +12546,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.13*                              Schäden der oberen Gliedmaßen
+    *        *   *18.13* Schäden der oberen Gliedmaßen
 
         *
 
@@ -13290,7 +13260,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
         *
         *
 
-    *        *   *18.14*                              Schäden der unteren Gliedmaßen
+    *        *   *18.14* Schäden der unteren Gliedmaßen
 
         *
 
@@ -15102,52 +15072,7 @@ stellen eine ergänzende Hilfe zur Beurteilung dar.
 
 
 
-**3.** **Außergewöhnliche Gehbehinderung (Merkzeichen aG)**
-
-    a)  Für die Gewährung von Parkerleichterungen für schwer behinderte
-        Menschen nach dem Straßenverkehrsgesetz (StVG) ist die Frage zu
-        beurteilen, ob eine außergewöhnliche Gehbehinderung vorliegt. Auch bei
-        Säuglingen und Kleinkindern ist die gutachtliche Beurteilung einer
-        außergewöhnlichen Gehbehinderung erforderlich. Für die Beurteilung
-        sind dieselben Kriterien wie bei Erwachsenen mit gleichen
-        Gesundheitsstörungen maßgebend. Es ist nicht zu prüfen, ob tatsächlich
-        diesbezügliche behinderungsbedingte Nachteile vorliegen oder
-        behinderungsbedingte Mehraufwendungen entstehen.
-
-
-    b)  Als schwer behinderte Menschen mit außergewöhnlicher Gehbehinderung
-        sind solche Personen anzusehen, die sich wegen der Schwere ihres
-        Leidens dauernd nur mit fremder Hilfe oder nur mit großer Anstrengung
-        außerhalb ihres Kraftfahrzeuges bewegen können. Hierzu zählen
-        Querschnittgelähmte, Doppeloberschenkelamputierte,
-        Doppelunterschenkelamputierte, Hüftexartikulierte und einseitig
-        Oberschenkelamputierte, die dauernd außerstande sind, ein Kunstbein zu
-        tragen, oder nur eine Beckenkorbprothese tragen können oder zugleich
-        unterschenkel- oder armamputiert sind, sowie andere schwerbehinderte
-        Menschen, die nach versorgungsärztlicher Feststellung, auch aufgrund
-        von Erkrankungen, dem vorstehend aufgeführten Personenkreis
-        gleichzustellen sind.
-
-
-    c)  Die Annahme einer außergewöhnlichen Gehbehinderung darf nur auf eine
-        Einschränkung der Gehfähigkeit und nicht auf Bewegungsbehinderungen
-        anderer Art bezogen werden. Bei der Frage der Gleichstellung von
-        behinderten Menschen mit Schäden an den unteren Gliedmaßen ist zu
-        beachten, dass das Gehvermögen auf das Schwerste eingeschränkt sein
-        muss und deshalb als Vergleichsmaßstab am ehesten das Gehvermögen
-        eines Doppeloberschenkelamputierten heranzuziehen ist. Dies gilt auch,
-        wenn Gehbehinderte einen Rollstuhl benutzen: Es genügt nicht, dass ein
-        solcher verordnet wurde; die Betroffenen müssen vielmehr ständig auf
-        den Rollstuhl angewiesen sein, weil sie sich sonst nur mit fremder
-        Hilfe oder nur mit großer Anstrengung fortbewegen können. Als
-        Erkrankungen der inneren Organe, die eine solche Gleichstellung
-        rechtfertigen, sind beispielsweise Herzschäden mit schweren
-        Dekompensationserscheinungen oder Ruheinsuffizienz sowie Krankheiten
-        der Atmungsorgane mit Einschränkung der Lungenfunktion schweren Grades
-        anzusehen.
-
-
-
+**3.** (aufgehoben)
 
 
 **4.** **Gehörlosigkeit (Merkzeichen Gl)**

@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 28. September 1954 über die Rechtsstell
   der Staatenlosen
 jurabk: StaatenlÜbkG
 layout: default
-origslug: staatenl_bkg
+origslug: staatenluebkg
 slug: staatenluebkg
 
 ---

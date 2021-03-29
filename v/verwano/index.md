@@ -730,8 +730,9 @@ Diese Anordnung tritt mit ihrer Veröffentlichung in Kraft.
 **Der Leiter der Obersten Bergbehörde beim Ministerrat der Deutschen
 Demokratischen Republik**
 
+Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage II Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 885, 1202)
+## Anhang EV (BGBl. II 1990, 885, 1202)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

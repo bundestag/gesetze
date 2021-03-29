@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Österre
   in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkVtr AUT
 layout: default
-origslug: eurhi_bkvtr_aut
+origslug: eurhiuebkvtr_aut
 slug: eurhiuebkvtr_aut
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 442
 
 Zuletzt geändert durch
-:   Art. 121 G v. 21.6.2005 I 1818
+:   Art. 54 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -43,8 +43,8 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
 
 2.  folgenden Taten, die auf anderen als den in Nummer 1 genannten
     Schiffen begangen worden sind, die nicht völkerrechtliche Immunität im
-    Sinne der Artikel 8 und 9 des Übereinkommens über die Hohe See vom 29.
-    April 1958 (BGBl. 1972 II S. 1089) genießen;
+    Sinne der Artikel 95 und 96 des Seerechtsübereinkommens der Vereinten
+    Nationen von 1982 (BGBl. 1994 II S. 1798, 1799) genießen,
 
     a)  Seeräuberei,
 
@@ -53,8 +53,8 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
 
 
     c)  Einsatz von Schiffen in der Ostsee zu unerlaubtem Verkehr mit Alkohol
-        im Rahmen des Abkommens zur Bekämpfung des Alkoholschmuggels vom 18.
-        September 1925 (RGBl. 1926 II S. 220),
+        im Rahmen des Abkommens zur Bekämpfung des Alkoholschmuggels vom 19.
+        August 1925 (RGBl. 1926 II S. 220),
 
 
     d)  Benutzung von Schiffen zu unerlaubtem Verkehr mit Suchtstoffen und
@@ -63,10 +63,17 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
 
 
     e)  auf Schiffen begangenen Verstößen im Sinne des Artikels 220 Abs. 3 des
-        Seerechtsübereinkommens der Vereinten Nationen von 1982 (BGBl. 1994 II
-        S. 1798) in der deutschen ausschließlichen Wirtschaftszone
-        hinsichtlich der nach den Absätzen 3, 5 und 6 dieses Artikels
-        zulässigen Maßnahmen;
+        Seerechtsübereinkommens der Vereinten Nationen von 1982 in der
+        deutschen ausschließlichen Wirtschaftszone hinsichtlich der nach den
+        Absätzen 3, 5 und 6 dieses Artikels zulässigen Maßnahmen,
+
+
+    f)  Benutzung von Schiffen zur Schleusung von Migranten auf dem Seeweg im
+        Rahmen des Zusatzprotokolls vom 15. November 2000 gegen die Schleusung
+        von Migranten auf dem Land-, See- und Luftweg zum Übereinkommen der
+        Vereinten Nationen vom 15. November 2000 gegen die
+        grenzüberschreitende organisierte Kriminalität (BGBl. 2005 II S. 954,
+        1007; 2007 II S. 1348);
 
 
 
@@ -84,8 +91,8 @@ Durchführung der Maßnahmen nach der Strafprozeßordnung zuständig bei
 ## § 2
 
 (1) Seewärts der Begrenzung des deutschen Küstenmeeres sind auch die
-Beamten der Wasser- und Schiffahrtsverwaltung des Bundes mit strom-
-und schiffahrtspolizeilichen Befugnissen zur Durchführung der
+Beamten der Wasserstraßen- und Schifffahrtsverwaltung des Bundes mit
+strom- und schiffahrtspolizeilichen Befugnissen zur Durchführung der
 Maßnahmen nach der Strafprozeßordnung zuständig bei Taten nach den §§
 324, 326, 330 und 330a des Strafgesetzbuches, die auf Schiffen
 begangen worden sind, die berechtigt sind, die Bundesflagge zu führen,

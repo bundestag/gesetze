@@ -2,7 +2,7 @@
 Title: Vollzugsordnung zum Postpaketübereinkommen
 jurabk: PostPakÜbkVollzO
 layout: default
-origslug: postpak_bkvollzo
+origslug: postpakuebkvollzo
 slug: postpakuebkvollzo
 
 ---

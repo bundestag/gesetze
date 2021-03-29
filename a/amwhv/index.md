@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2006, 2523
 
 Zuletzt geändert durch
-:   Art. 10 G v. 19.10.2012 I 2192
+:   Art. 3 V v. 2.7.2018 I 1080
 
 
 ## Abschnitt 1 - Anwendungsbereich und Begriffsbestimmungen
@@ -50,15 +50,14 @@ die
 
 
 5.  andere als die in Nummer 3 genannten und zur Herstellung von
-    Arzneimitteln zur Anwendung am Menschen bestimmte Stoffe, soweit deren
-    Herstellung nach den Grundsätzen der Guten Herstellungspraxis durch
-    Rechtsakte der Europäischen Kommission gestützt auf Artikel 46
-    Buchstabe f der Richtlinie 2001/83/EG des Europäischen Parlaments und
+    Arzneimitteln zur Anwendung bei Menschen bestimmte Stoffe, soweit sie
+    die nach den Regelungen einer angemessenen guten Herstellungspraxis
+    entsprechend den Leitlinien der Europäischen Kommission nach Artikel
+    47 Absatz 5 der Richtlinie 2001/83/EG des Europäischen Parlaments und
     des Rates vom 6. November 2001 zur Schaffung eines
-    Gemeinschaftskodexes für Humanarzneimittel (ABl. EG Nr. L 311 S. 67),
-    geändert durch die Richtlinie 2004/27/EG des Europäischen Parlaments
-    und des Rates vom 31. März 2004 (ABl. EU Nr. L 136 S. 34), festgelegt
-    wurde (bestimmte Hilfsstoffe),
+    Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311 vom 28.11.2001,
+    S. 67), die zuletzt durch die Richtlinie 2011/62/EU (ABl. L 174 vom
+    1\.7.2011, S. 74) geändert worden ist, herzustellen sind (Hilfsstoffe),
 
 
 
@@ -73,12 +72,20 @@ findet Abschnitt 3 dieser Verordnung keine Anwendung.
 (2) Die Verordnung ist auch anzuwenden auf
 
 1.  Apotheken, den Einzelhandel mit Arzneimitteln außerhalb von Apotheken,
-    Ärzte, Zahnärzte, Tierärzte, tierärztliche Hausapotheken und
-    Arzneimittelgroßhandelsbetriebe, soweit sie einer Erlaubnis nach § 13
-    oder § 72 Abs. 1 des Arzneimittelgesetzes bedürfen, und
+    Personen, die Ärzte sind oder sonst zur Ausübung der Heilkunde bei
+    Menschen befugt sind, Zahnärzte, Tierärzte, tierärztliche
+    Hausapotheken und Arzneimittelgroßhandelsbetriebe, soweit sie einer
+    Erlaubnis nach den §§ 13, 20b, 20c, 72 Absatz 1 oder Absatz 4 Satz 2,
+    § 72b Absatz 1 Satz 3, § 72c Absatz 1 Satz 2 oder Absatz 4 Satz 1 des
+    Arzneimittelgesetzes bedürfen, und
 
 
-2.  pharmazeutische Unternehmer nach § 4 Abs. 18 des Arzneimittelgesetzes.
+2.  pharmazeutische Unternehmer nach § 4 Abs. 18 des Arzneimittelgesetzes,
+
+
+3.  Betriebe und Einrichtungen oder Personen, die mit Wirkstoffen zur
+    Herstellung von Arzneimitteln, die zur Anwendung beim Menschen
+    bestimmt sind, handeln.
 
 
 
@@ -89,27 +96,18 @@ findet Abschnitt 3 dieser Verordnung keine Anwendung.
     Homöopathischen Zubereitungen als Ausgangsstoffe eingesetzt werden,
 
 
-2.  Wirkstoffe, die Stoffe nach § 3 Nr. 2 des Arzneimittelgesetzes in
-    unbearbeitetem oder in bearbeitetem Zustand sind oder enthalten,
-    soweit die Bearbeitung nicht über die Trocknung, erste Zerkleinerung
-    und initiale Extraktion hinausgeht,
+2.  Wirkstoffe, die Stoffe im Sinne des § 3 Nummer 1, 2 oder 3 des
+    Arzneimittelgesetzes sind oder enthalten, soweit sie nicht den
+    Anforderungen des EU-GMP-Leitfadens unterliegen,
 
 
-3.  Wirkstoffe tierischer Herkunft, die Stoffe nach § 3 Nr. 3 des
-    Arzneimittelgesetzes in unbearbeitetem oder bearbeitetem Zustand sind
-    oder enthalten, soweit die Bearbeitung nicht über eine Zerkleinerung,
-    eine Mischung und beziehungsweise oder erste Verarbeitungsschritte
-    hinausgeht,
+3.  (weggefallen)
 
 
-4.  Wirkstoffe, die zur Herstellung von Testallergenen zur Epicutantestung
-    bestimmt sind,
+4.  (weggefallen)
 
 
-5.  Wirkstoffe, die natürlich vorkommende Mineralien in unbearbeitetem
-    Zustand oder in bearbeitetem Zustand sind oder als Wirkstoffe
-    enthalten, soweit die Bearbeitung nicht über die Gewinnung oder
-    Zerkleinerung hinausgeht,
+5.  (weggefallen)
 
 
 6.  Wirkstoffe für Ektoparasitika zur Anwendung an Tieren sowie
@@ -146,6 +144,13 @@ Richtlinie 2004/28/EG des Europäischen Parlaments und des Rates vom
 Verordnung befördert werden oder in ein Zolllagerverfahren oder eine
 Freizone des Kontrolltyps I oder II übergeführt werden (Transit).
 
+(6) Die Vorschriften der Durchführungsverordnung (EU) Nr. 520/2012 der
+Kommission vom 19. Juni 2012 über die Durchführung der in der
+Verordnung (EG) Nr. 726/2004 des Europäischen Parlaments und des Rates
+und der Richtlinie 2001/83/EG des Europäischen Parlaments und des
+Rates vorgesehenen Pharmakovigilanz-Aktivitäten (ABl. L 159 vom
+20\.6.2012, S. 5) bleiben unberührt.
+
 
 ### § 2 Begriffsbestimmungen
 
@@ -161,27 +166,25 @@ Im Sinne dieser Verordnung
     2007 (BGBl. I S. 2169) und andere Blutbestandteile,
 
 
-2.  sind bestimmte Hilfsstoffe für die Arzneimittelherstellung bestimmte
-    Ausgangsstoffe im Sinne von Artikel 46 Buchstabe f Satz 2 (bestimmte
-    Arzneiträgerstoffe) der Richtlinie 2001/83/EG,
+2.  ist Hilfsstoff jeder Bestandteil eines Arzneimittels, mit Ausnahme des
+    Wirkstoffs oder des Verpackungsmaterials,
 
 
-3.  ist der EG-GMP Leitfaden (BAnz. S. 6887) der Leitfaden für die Gute
+3.  ist der EU-GMP-Leitfaden (BAnz. S. 6887) der Leitfaden für die Gute
     Herstellungspraxis für Arzneimittel und Prüfpräparate einschließlich
-    seiner Anhänge, mit dem die Kommission der Europäischen Gemeinschaften
-    die ausführlichen Leitlinien nach Artikel 47 der Richtlinie 2001/83/EG
-    und nach Artikel 51 der Richtlinie 2001/82/EG veröffentlicht hat und
-    der zur Auslegung der Grundsätze und Leitlinien der Guten
-    Herstellungspraxis gemäß Artikel 3 Abs. 2 der Richtlinie 2003/94/EG
-    der Kommission vom 8. Oktober 2003 zur Festlegung der Grundsätze und
-    Leitlinien der Guten Herstellungspraxis für Humanarzneimittel und für
-    zur Anwendung beim Menschen bestimmte Prüfpräparate (ABl. EU Nr. L 262
-    S. 22) und gemäß Artikel 3 der Richtlinie 91/412/EWG der Kommission
-    vom 23. Juli 1991 zur Festlegung der Grundsätze und Leitlinien der
-    Guten Herstellungspraxis für Tierarzneimittel (ABl. EG Nr. L 228 S.
-    70) dient; das Bundesministerium für Gesundheit macht die jeweils
-    aktuelle Fassung des Leitfadens in deutscher Sprache im Bundesanzeiger
-    bekannt,
+    seiner Anhänge, mit dem die Europäische Kommission die ausführlichen
+    Leitlinien nach Artikel 47 der Richtlinie 2001/83/EG und nach Artikel
+    51 der Richtlinie 2001/82/EG veröffentlicht hat und der zur Auslegung
+    der Grundsätze und Leitlinien der Guten Herstellungspraxis gemäß
+    Artikel 3 Abs. 2 der Richtlinie 2003/94/EG der Kommission vom 8.
+    Oktober 2003 zur Festlegung der Grundsätze und Leitlinien der Guten
+    Herstellungspraxis für Humanarzneimittel und für zur Anwendung beim
+    Menschen bestimmte Prüfpräparate (ABl. EU Nr. L 262 S. 22) und gemäß
+    Artikel 3 der Richtlinie 91/412/EWG der Kommission vom 23. Juli 1991
+    zur Festlegung der Grundsätze und Leitlinien der Guten
+    Herstellungspraxis für Tierarzneimittel (ABl. EG Nr. L 228 S. 70)
+    dient; das Bundesministerium für Gesundheit macht die jeweils aktuelle
+    Fassung des Leitfadens in deutscher Sprache im Bundesanzeiger bekannt,
 
 
 4.  ist Qualitätsmanagementsystem (QM-System) ein System, das die
@@ -220,13 +223,13 @@ Im Sinne dieser Verordnung
     Arzneimittelgesetzes verbringt,
 
 
-10. ist Gewebeeinrichtung eine Einrichtung, die die in § 20c Abs. 1 oder §
-    72b Abs. 1 des Arzneimittelgesetzes aufgeführten Tätigkeiten ausübt
-    oder die Gewebe oder Gewebezubereitungen aus Mitgliedstaaten der
-    Europäischen Union oder anderer Vertragsstaaten des Abkommens über den
-    Europäischen Wirtschaftsraum in den oder aus dem Geltungsbereich des
-    Arzneimittelgesetzes verbringt oder ausführt; sofern die
-    Gewebeeinrichtung auch Gewebe gewinnt, ist sie auch eine
+10. ist Gewebeeinrichtung eine Einrichtung, die die in § 20c Absatz 1, §
+    72b Absatz 1 oder § 72c Absatz 1 des Arzneimittelgesetzes aufgeführten
+    Tätigkeiten ausübt oder die Gewebe oder Gewebezubereitungen aus
+    Mitgliedstaaten der Europäischen Union oder anderer Vertragsstaaten
+    des Abkommens über den Europäischen Wirtschaftsraum in den oder aus
+    dem Geltungsbereich des Arzneimittelgesetzes verbringt oder ausführt;
+    sofern die Gewebeeinrichtung auch Gewebe gewinnt, ist sie auch eine
     Entnahmeeinrichtung im Sinne von Nummer 11; sofern die
     Gewebeeinrichtung auch die für die Gewinnung erforderlichen
     Laboruntersuchungen durchführt, ist sie auch ein Gewebespenderlabor im
@@ -249,16 +252,17 @@ Im Sinne dieser Verordnung
     erforderlichen Laboruntersuchungen durchführt,
 
 
-14. sind Arbeitsplatzbeschreibungen schriftliche Festlegungen über die
-    spezifischen Aufgaben, Zuständigkeiten und Verantwortlichkeiten, die
-    den einzelnen Mitarbeitern oder Mitarbeiterinnen eines Betriebs oder
-    einer Einrichtung von ihren jeweiligen Leitungen zugewiesen wurden,
+14. sind Arbeitsplatzbeschreibungen schriftliche oder elektronische
+    Festlegungen über die spezifischen Aufgaben, Zuständigkeiten und
+    Verantwortlichkeiten, die den einzelnen Mitarbeitern oder
+    Mitarbeiterinnen eines Betriebs oder einer Einrichtung von ihren
+    jeweiligen Leitungen zugewiesen wurden,
 
 
-15. ist Standardarbeitsanweisung (SOP) eine schriftliche Anweisung zur
-    Beschreibung der einzelnen Schritte wiederkehrender Arbeitsgänge
-    (Standardarbeitsverfahren), einschließlich der zu verwendenden
-    Materialien und Methoden,
+15. ist Standardarbeitsanweisung (SOP) eine schriftliche oder
+    elektronische Anweisung zur Beschreibung der einzelnen Schritte
+    wiederkehrender Arbeitsgänge (Standardarbeitsverfahren),
+    einschließlich der zu verwendenden Materialien und Methoden,
 
 
 16. ist Validierung das Erbringen eines dokumentierten Nachweises, der mit
@@ -283,6 +287,64 @@ Im Sinne dieser Verordnung
 19. sind kritische Ausrüstungsgegenstände oder Geräte solche, die mit den
     Produkten in Berührung kommen oder einen anderen Einfluss auf die
     Qualität oder Sicherheit der Produkte haben können.
+
+
+20. ist Spendenkennungssequenz der erste Teil des Einheitlichen
+    Europäischen Codes, bestehend aus dem EU-Gewebeeinrichtungs-Code und
+    der eindeutigen Spendennummer,
+
+
+21. ist eindeutige Spendennummer die eindeutige Nummer gemäß Anhang VII
+    der Richtlinie 2006/86/EG der Kommission vom 24. Oktober 2006 zur
+    Umsetzung der Richtlinie 2004/23/EG des Europäischen Parlaments und
+    des Rates hinsichtlich der Anforderungen an die Rückverfolgbarkeit,
+    der Meldung schwerwiegender Zwischenfälle und unerwünschter Reaktionen
+    sowie bestimmter technischer Anforderungen an die Kodierung,
+    Verarbeitung, Konservierung, Lagerung und Verteilung von menschlichen
+    Geweben und Zellen (ABl. L 294 vom 25.10.2006, S. 32), die zuletzt
+    durch die Richtlinie (EU) 2015/565 (ABl. L 93 vom 9.4.2015, S. 43)
+    geändert worden ist, die einer bestimmten Gewebespende nach dem von
+    der Entnahme- oder Gewebeeinrichtung festzulegenden Zuteilungssystem
+    zugewiesen wird,
+
+
+22. ist Produktkennungssequenz der zweite Teil des Einheitlichen
+    Europäischen Codes, bestehend aus dem Produktcode, der Splitnummer und
+    dem Verfallsdatum,
+
+
+23. ist Produktcode die Kennung der spezifischen Art der Gewebe oder
+    Gewebezubereitung im EU-Kompendium der Gewebe- und Zellprodukte gemäß
+    § 4 Absatz 30d des Arzneimittelgesetzes; der Produktcode besteht aus
+
+    a)  der Kennung des Systems für die Produktkodierung, das die Einrichtung
+        verwendet („E“ für EUTC, „A“ für ISBT128, „B“ für Eurocode), und
+
+
+    b)  der Produktnummer für Gewebe oder Gewebezubereitungen im betreffenden
+        Produktkodierungssystem für das Gewebe oder die Gewebezubereitungsart,
+
+
+
+
+
+24. ist Splitnummer die Nummer gemäß Anhang VII der Richtlinie 2006/86/EG,
+    die der Unterscheidung und eindeutigen Kennzeichnung von Geweben oder
+    Gewebezubereitungen dient, die mit derselben eindeutigen Spendennummer
+    und demselben Produktcode gekennzeichnet sind und aus derselben
+    Einrichtung stammen,
+
+
+25. ist Verfallsdatum das Datum gemäß Anhang VII der Richtlinie
+    2006/86/EG, bis zu dem die Gewebe oder Gewebezubereitungen verwendet
+    werden können,
+
+
+26. ist EUTC das von der Europäischen Union entwickelte
+    Produktkodierungssystem für Gewebe und Gewebezubereitungen, das aus
+    einem Register aller in der Europäischen Union im Verkehr befindlichen
+    Gewebe, Gewebezubereitungen und Gewebezubereitungsarten mit den
+    jeweiligen Produktcodes besteht.
 
 
 
@@ -310,12 +372,27 @@ Funktionstüchtigkeit kontrolliert werden.
 (2) Zur Auslegung der Grundsätze der Guten Herstellungspraxis gilt für
 Arzneimittel, Blutprodukte im Sinne von § 2 Nr. 3 des
 Transfusionsgesetzes und andere Blutbestandteile sowie für Produkte
-menschlicher Herkunft der Teil I und für Wirkstoffe der Teil II des
-EG-GMP Leitfadens.
+menschlicher Herkunft der Teil I des EU-GMP-Leitfadens. Zur Auslegung
+der Grundsätze der Guten Herstellungspraxis gilt für Arzneimittel für
+neuartige Therapien Teil IV des EU-GMP-Leitfadens. Zur Auslegung der
+Grundsätze der Guten Herstellungspraxis und der Guten Vertriebspraxis
+gilt für Wirkstoffe der Teil II des EU-GMP-Leitfadens. Zur Auslegung
+der Grundsätze und zur Risikobewertung einer angemessenen guten
+Herstellungspraxis für Hilfsstoffe sind die hierzu von der
+Europäischen Kommission nach Artikel 47 Absatz 5 der Richtlinie
+2001/83/EG erlassenen Leitlinien zu beachten. Das Bundesministerium
+für Gesundheit macht die jeweils aktuelle Fassung der Leitlinien im
+Bundesanzeiger bekannt.
 
 (3) Absatz 2 findet keine Anwendung auf Entnahme- und
 Gewebeeinrichtungen sowie Gewebespenderlabore, die ihre Tätigkeiten
 nach den Standards der guten fachlichen Praxis ausüben.
+
+(4) Soweit nach dieser Verordnung anstelle der Schriftform
+elektronische Verfahren eingesetzt werden dürfen, ist sicherzustellen,
+dass die elektronischen Dokumente für die jeweiligen Empfänger
+jederzeit leicht zugänglich sind und dass sie in hinreichender Weise
+vor unbefugten Manipulationen geschützt sind.
 
 
 ### § 4 Personal
@@ -381,8 +458,8 @@ sonstigen Materialien sind.
 
 (1) Betriebsräume und ihre Ausrüstungen müssen regelmäßig gereinigt
 und, soweit erforderlich, desinfiziert oder sterilisiert werden. Es
-soll nach einem schriftlichen Hygieneplan verfahren werden, in dem
-insbesondere
+soll nach einem schriftlichen oder elektronischen Hygieneplan
+verfahren werden, in dem insbesondere
 
 1.  die Häufigkeit der Maßnahmen,
 
@@ -405,10 +482,10 @@ Sterilisationsverfahren ist zu validieren, soweit es das
 Herstellungsverfahren oder das Produkt erfordert.
 
 (2) Unbeschadet des Hygieneplans nach Absatz 1 müssen schriftliche
-Hygieneprogramme vorhanden sein, die den durchzuführenden Tätigkeiten
-angepasst sind. Sie sollen insbesondere Vorschriften zur Gesundheit,
-über hygienisches Verhalten und zur Schutzkleidung des Personals
-enthalten.
+oder elektronische Hygieneprogramme vorhanden sein, die den
+durchzuführenden Tätigkeiten angepasst sind. Sie sollen insbesondere
+Vorschriften zur Gesundheit, über hygienisches Verhalten und zur
+Schutzkleidung des Personals enthalten.
 
 (3) Soweit zur Herstellung und Prüfung von Produkten, auf die sich
 diese Verordnung bezieht, Tiere verwendet werden, müssen bei ihrer
@@ -431,12 +508,13 @@ Verpackungs- und Kennzeichnungsmaterialien einzuhalten.
 Transportbehältnisse müssen so beschaffen sein, dass die Qualität des
 Inhalts nicht beeinträchtigt wird. Sie müssen mit deutlichen
 Aufschriften versehen sein, die den Inhalt eindeutig bezeichnen.
-Soweit Bezeichnungen durch Rechtsverordnung nach § 10 Abs. 6 Nr. 1 des
-Arzneimittelgesetzes vorgeschrieben sind, sind diese zu verwenden. Der
-Inhalt ist durch zusätzliche Angaben zu kennzeichnen, soweit dies zur
-Vermeidung von Verwechslungen erforderlich ist. Die
-Zugriffsberechtigung zu den Behältnissen nach Satz 1 ist durch
-entsprechende Maßnahmen auf dafür befugte Personen einzuschränken.
+Soweit Bezeichnungen nach § 10 Abs. 6 Nr. 1 des Arzneimittelgesetzes
+durch das Bundesinstitut für Arzneimittel und Medizinprodukte bestimmt
+und veröffentlicht sind, sind diese zu verwenden. Der Inhalt ist durch
+zusätzliche Angaben zu kennzeichnen, soweit dies zur Vermeidung von
+Verwechslungen erforderlich ist. Die Zugriffsberechtigung zu den
+Behältnissen nach Satz 1 ist durch entsprechende Maßnahmen auf dafür
+befugte Personen einzuschränken.
 
 (3) Absatz 2 findet entsprechende Anwendung auf Behältnisse für die
 Auslieferung der Zwischen- oder Endprodukte. Sofern Produkte für die
@@ -450,10 +528,10 @@ regelmäßigen Abständen davon zu überzeugen, dass die Produkte und
 Materialien ordnungsgemäß gelagert werden.
 
 (5) Die Verfahren für die Lagerung und den Transport sind schriftlich
-festzulegen. Soweit sie einen Einfluss auf die Qualität der
-Ausgangsstoffe und Zwischenprodukte für die Arzneimittelherstellung
-oder für die Arzneimittel haben können, ist die Geeignetheit der
-Verfahren nachzuweisen.
+oder elektronisch festzulegen. Soweit sie einen Einfluss auf die
+Qualität der Ausgangsstoffe und Zwischenprodukte für die
+Arzneimittelherstellung oder für die Arzneimittel haben können, ist
+die Geeignetheit der Verfahren nachzuweisen.
 
 (6) Während des Transports bis zur Übergabe in den
 Verantwortungsbereich des Empfängers ist dafür Sorge zu tragen, dass
@@ -533,8 +611,8 @@ Abs. 3 geregelt sein.
 
 (2) Der Auftraggeber hat sich zu vergewissern, dass der Auftragnehmer
 die Tätigkeit entsprechend der vorgegebenen Anweisungen durchführt und
-über eine Erlaubnis verfügt, soweit diese nach den §§ 13 und 72 des
-Arzneimittelgesetzes erforderlich ist.
+über eine Erlaubnis verfügt, soweit diese nach den §§ 13, 20b, 20c,
+72, 72b und 72c des Arzneimittelgesetzes erforderlich ist.
 
 (3) Der Auftragnehmer darf keine ihm vom Auftraggeber vertraglich
 übertragene Arbeit ohne dessen schriftliche Genehmigung an Dritte
@@ -587,19 +665,48 @@ müssen Aufzeichnungen geführt und aufbewahrt werden.
 (2) Die Qualifizierung von Lieferanten für Ausgangsstoffe und primäre
 und sekundäre Verpackungsmaterialien, die zur Arzneimittelherstellung
 eingesetzt werden, ist im Rahmen des QM-Systems des verarbeitenden
-Betriebs nach schriftlich festgelegtem Verfahren durchzuführen. Das
-Verfahren nach Satz 1 muss grundsätzlich die Durchführung von
-Überprüfungen vor Ort (Audits) durch hierzu ausreichend geschultes
-Personal des Arzneimittelherstellers vorsehen, soweit es sich um
-Hersteller von Wirkstoffen oder gegebenenfalls auch anderen kritischen
-Ausgangsmaterialien für die Arzneimittelherstellung handelt. Anstelle
-eigener Audits kann der Arzneimittelhersteller auf geeignete
-Kenntnisse Dritter zurückgreifen, sofern die Anforderungen für die
-Durchführung der Audits denen des eigenen QM-Systems entsprechen. Die
-Spezifikationen sollen die betriebsintern akzeptierten Hersteller und
-Lieferanten wiedergeben. Die Sätze 1 und 4 gelten entsprechend für
-kritische Ausgangsstoffe, die für die Wirkstoffherstellung eingesetzt
-werden.
+Betriebs nach schriftlich oder elektronisch festgelegtem Verfahren
+durchzuführen.
+
+(3) Das Verfahren nach Absatz 2 muss, soweit es sich um Wirkstoffe zur
+Arzneimittelherstellung handelt, zur Feststellung der ordnungsgemäßen
+Herstellung
+
+1.  die Durchführung von Überprüfungen des Herstellers vor Ort (Audits)
+    durch hierzu ausreichend geschultes Personal des
+    Arzneimittelherstellers vorsehen; anstelle eigener Audits kann der
+    Arzneimittelhersteller auf geeignete Kenntnisse Dritter zurückgreifen,
+    sofern die Anforderungen für die Durchführung der Audits denen des
+    eigenen QM-Systems entsprechen, und
+
+
+2.  die Überprüfungen beinhalten, dass der Hersteller des Wirkstoffs zur
+    Herstellung von Arzneimitteln zur Anwendung bei Menschen, sofern
+    dieser seinen Sitz in einem Land, das Mitgliedstaat der Europäischen
+    Union oder anderer Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum ist, bei der zuständigen Behörde registriert ist.
+
+
+
+Satz 1 Nummer 1 und 2 gilt auch für Importeure und Vertreiber, soweit
+es sich um Wirkstoffe zur Herstellung von Arzneimitteln, die zur
+Anwendung am Menschen bestimmt sind, handelt.
+
+(4) Zur Sicherstellung der Geeignetheit der Hilfsstoffe für die
+Herstellung von Arzneimitteln, die zur Anwendung beim Menschen
+bestimmt sind, muss das Verfahren nach Absatz 2 eine formalisierte
+Risikobewertung durch den Arzneimittelhersteller vorsehen. Die
+Risikobewertung muss insbesondere die Nachprüfung der Einhaltung der
+Regelungen einer angemessenen guten Herstellungspraxis bei der
+Herstellung der Hilfsstoffe, deren Herkunft und die beabsichtigte
+Verwendung sowie etwaige Kenntnisse über Vorkommnisse der
+Vergangenheit beinhalten.
+
+(5) Die Spezifikationen der Arzneimittel und Wirkstoffe sollen die
+betriebsintern akzeptierten Hersteller und Lieferanten wiedergeben.
+
+(6) Die Absätze 2, 3 Nummer 1 und Absatz 5 gelten für andere kritische
+Ausgangsmaterialien für die Wirkstoffherstellung entsprechend.
 
 
 ## Abschnitt 3 - Arzneimittel, Blutprodukte und andere Blutbestandteile sowie Produkte menschlicher Herkunft
@@ -609,10 +716,11 @@ werden.
 ### § 12 Personal in leitender und in verantwortlicher Stellung
 
 (1) Der Verantwortungsbereich der sachkundigen Person ist nach Maßgabe
-von § 19 des Arzneimittelgesetzes schriftlich festzulegen. Die
-Aufgaben der Leitung der Herstellung und der Leitung der
-Qualitätskontrolle sind ebenfalls schriftlich festzulegen. Zu den
-Aufgaben der Leitung der Herstellung gehören insbesondere
+von § 19 des Arzneimittelgesetzes schriftlich oder elektronisch
+festzulegen. Die Aufgaben der Leitung der Herstellung und der Leitung
+der Qualitätskontrolle sind ebenfalls schriftlich oder elektronisch
+festzulegen. Zu den Aufgaben der Leitung der Herstellung gehören
+insbesondere
 
 1.  Sicherstellung, dass die Produkte vorschriftsmäßig hergestellt und
     gelagert werden,
@@ -669,8 +777,7 @@ insbesondere
 
 
 Die Leitung der Herstellung und die Leitung der Qualitätskontrolle
-muss, abgesehen von den Fällen des § 14 Abs. 2 des
-Arzneimittelgesetzes, voneinander unabhängig sein.
+muss voneinander unabhängig sein.
 
 (2) Soweit Fertigarzneimittel in den Verkehr gebracht werden, sind
 zusätzlich die Verantwortungsbereiche von Stufenplanbeauftragten nach
@@ -679,37 +786,48 @@ Informationsbeauftragten nach Maßgabe des § 74a des
 Arzneimittelgesetzes festzulegen.
 
 (3) Wer Arzneimittel oder Produkte menschlicher Herkunft herstellt
-oder einführt, ohne einer Erlaubnis nach § 13 oder § 72 des
-Arzneimittelgesetzes zu bedürfen, hat Personen festzulegen, die für
-die Herstellung einschließlich der Freigabe, für die Lagerung und für
-die Qualitätskontrolle verantwortlich sind.
+oder einführt, ohne einer Erlaubnis nach § 13, § 72 oder § 72c Absatz
+4 des Arzneimittelgesetzes zu bedürfen, hat Personen festzulegen, die
+für die Herstellung einschließlich der Freigabe, für die Lagerung und
+für die Qualitätskontrolle verantwortlich sind.
 
 
 ### § 13 Herstellung
 
 (1) Die Herstellungsvorgänge sind mit Ausnahme der Freigabe unter
 Verantwortung der Leitung der Herstellung nach vorher erstellten
-schriftlichen Anweisungen und Verfahrensbeschreibungen
-(Herstellungsanweisung) durchzuführen. Sie müssen in Übereinstimmung
-mit der Guten Herstellungspraxis sowie den anerkannten
-pharmazeutischen Regeln erfolgen.
+schriftlichen oder elektronischen Anweisungen und
+Verfahrensbeschreibungen (Herstellungsanweisung) durchzuführen. Sie
+müssen in Übereinstimmung mit der Guten Herstellungspraxis sowie den
+anerkannten pharmazeutischen Regeln erfolgen.
 
 (2) Bei Arzneimitteln, die zugelassen oder registriert sind, muss die
 Herstellungsanweisung den Zulassungs- oder Registrierungsunterlagen,
 bei Prüfpräparaten den Genehmigungsunterlagen für die klinische
 Prüfung, in der sie zur Anwendung kommen, entsprechen. Bei
-Blutstammzellzubereitungen, die nach § 21a des Arzneimittelgesetzes
+hämatopoetischen Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut, die nach § 21a des Arzneimittelgesetzes
 genehmigt worden sind, muss die Herstellungsanweisung den
 Genehmigungsunterlagen entsprechen.
 
 (3) Zur Herstellung von Arzneimitteln sind nur Wirkstoffe und
-bestimmte Hilfsstoffe im Sinne von § 1 Abs. 1 Nr. 5 als Ausgangsstoffe
-zu verwenden, die gemäß der Guten Herstellungspraxis hergestellt
-wurden. Satz 1 gilt für die Herstellung von Prüfpräparaten
-entsprechend, wobei die Anforderungen an den Wirkstoff dem jeweiligen
-Entwicklungsstadium des Prüfpräparates anzupassen sind. Es dürfen nur
-Ausgangsstoffe und Arzneimittel verwendet werden, deren Qualität
-festgestellt und entsprechend kenntlich gemacht worden ist.
+Hilfsstoffe im Sinne von § 2 Nummer 2 als Ausgangsstoffe zu verwenden,
+die gemäß der Guten Herstellungspraxis hergestellt wurden. Satz 1 gilt
+für die Herstellung von Prüfpräparaten entsprechend, wobei die
+Anforderungen an den Wirkstoff dem jeweiligen Entwicklungsstadium des
+Prüfpräparates anzupassen sind. Es dürfen nur Ausgangsstoffe und
+Arzneimittel verwendet werden, deren Qualität festgestellt und
+entsprechend kenntlich gemacht worden ist.
+
+(3a) Soweit Fertigarzneimittel, die ein Sicherheitsmerkmal im Sinne
+von § 10 Absatz 1c des Arzneimittelgesetzes tragen, von einem anderen
+Hersteller umverpackt werden sollen, hat sich der Hersteller vor der
+teilweisen oder vollständigen Entfernung oder Überdeckung der
+Sicherheitsmerkmale von der Echtheit des Arzneimittels zu überzeugen.
+Die Sicherheitsmerkmale dürfen nur durch solche ersetzt werden, die in
+gleichwertiger Weise die Prüfung auf Echtheit und Unversehrtheit der
+äußeren Umhüllung erlauben. Dabei darf die Primärverpackung nicht
+geöffnet werden.
 
 (4) Durch räumliche oder zeitliche Trennung der einzelnen
 Herstellungsvorgänge oder durch andere geeignete technische oder
@@ -748,20 +866,22 @@ Herstellungsanweisung hergestellt wurde.
 
 (1) Ausgangsstoffe und Endprodukte sowie erforderlichenfalls auch
 Zwischenprodukte sind unter Verantwortung der Leitung der
-Qualitätskontrolle nach vorher erstellten schriftlichen Anweisungen
-und Verfahrensbeschreibungen (Prüfanweisung) zu prüfen. Die Prüfung
-muss in Übereinstimmung mit der Guten Herstellungspraxis sowie den
-anerkannten pharmazeutischen Regeln erfolgen. Die Sätze 1 und 2 gelten
-entsprechend für Behältnisse, äußere Umhüllungen, Verpackungs- und
-Kennzeichnungsmaterialien sowie Packungsbeilagen.
+Qualitätskontrolle nach vorher erstellten schriftlichen oder
+elektronischen Anweisungen und Verfahrensbeschreibungen
+(Prüfanweisung) zu prüfen. Die Prüfung muss in Übereinstimmung mit der
+Guten Herstellungspraxis sowie den anerkannten pharmazeutischen Regeln
+erfolgen. Die Sätze 1 und 2 gelten entsprechend für Behältnisse,
+äußere Umhüllungen, Verpackungs- und Kennzeichnungsmaterialien sowie
+Packungsbeilagen.
 
 (2) Bei Arzneimitteln, die zugelassen oder registriert sind, muss die
 Prüfanweisung den Zulassungs- oder Registrierungsunterlagen, bei
 Prüfpräparaten den Genehmigungsunterlagen für die klinische Prüfung,
-in der sie zur Anwendung kommen, entsprechen. Bei
-Blutstammzellzubereitungen, die nach § 21a des Arzneimittelgesetzes
-genehmigt worden sind, muss die Prüfanweisung den
-Genehmigungsunterlagen entsprechen.
+in der sie zur Anwendung kommen, entsprechen. Bei hämatopoetischen
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut, die nach § 21a des Arzneimittelgesetzes genehmigt
+worden sind, muss die Prüfanweisung den Genehmigungsunterlagen
+entsprechen.
 
 (3) Die zur Prüfung angewandten Verfahren sind nach dem jeweiligen
 Stand von Wissenschaft und Technik zu validieren. Kritische
@@ -856,7 +976,7 @@ wie folgt zu kennzeichnen:
     internationale Kurzbezeichnung der Weltgesundheitsorganisation,
 
 
-3.  soweit zutreffend, Inhalt nach Gewicht oder Rauminhalt; sind
+3.  soweit zutreffend, Inhalt nach Gewicht oder Nennvolumen; sind
     biologische Einheiten oder andere Angaben zur Wertigkeit
     wissenschaftlich gebräuchlich, so sind diese zu verwenden,
 
@@ -885,8 +1005,9 @@ Kennzeichnung zulassen.
 sachkundigen Person nach § 14 des Arzneimittelgesetzes, die mit dem
 Produkt und mit den für dessen Herstellung und Prüfung eingesetzten
 Verfahren vertraut ist, nur nach von ihr vorher erstellten
-schriftlichen Anweisungen und Verfahrensbeschreibungen nach Absatz 2
-oder 3 Satz 2 vorgenommen werden.
+schriftlichen oder elektronischen Anweisungen und
+Verfahrensbeschreibungen nach Absatz 2 oder 3 Satz 2 vorgenommen
+werden.
 
 (2) Die Freigabe darf nur erfolgen, wenn
 
@@ -904,11 +1025,14 @@ oder 3 Satz 2 vorgenommen werden.
     der Endverpackung, bestätigt hat und
 
 
-4.  bei zugelassenen oder registrierten Arzneimitteln die Übereinstimmung
-    mit den Zulassungs- oder Registrierungsunterlagen und bei
-    Prüfpräparaten die Übereinstimmung mit den Unterlagen für die
-    Genehmigung für die klinische Prüfung, in der sie zur Anwendung
-    kommen, vorliegt.
+4.  bei zugelassenen, registrierten oder nach § 4b Absatz 3 des
+    Arzneimittelgesetzes genehmigten Arzneimitteln und bei nach § 21a
+    Absatz 1 des Arzneimittelgesetzes genehmigten hämatopoetischen
+    Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+    Nabelschnurblut die Übereinstimmung mit den Zulassungs-, Genehmigungs-
+    oder Registrierungsunterlagen und bei Prüfpräparaten die
+    Übereinstimmung mit den Unterlagen für die Genehmigung für die
+    klinische Prüfung, in der sie zur Anwendung kommen, vorliegt.
 
 
 
@@ -918,9 +1042,9 @@ Arzneimittelgesetzes umgefüllt werden, ist abweichend von Absatz 2 nur
 das Lieferbehältnis des Tankfahrzeuges vor dem Inverkehrbringen
 freizugeben. Die Dokumentation zur Befüllung des Endbehältnisses ist
 der Leitung der Herstellung und der sachkundigen Person nachträglich
-unverzüglich vorzulegen und von diesen schriftlich zu bestätigen. Der
-in § 19 des Arzneimittelgesetzes definierte Verantwortungsbereich der
-sachkundigen Person bleibt unberührt.
+unverzüglich vorzulegen und von diesen schriftlich oder elektronisch
+zu bestätigen. Der in § 19 des Arzneimittelgesetzes definierte
+Verantwortungsbereich der sachkundigen Person bleibt unberührt.
 
 (4) Sofern die Herstellung oder Qualitätskontrolle in mehreren Stufen,
 gegebenenfalls auch an unterschiedlichen Orten oder bei
@@ -945,9 +1069,9 @@ Herstellungs- und Prüfanweisung herzustellen und zu prüfen. Die
 Herstellung muss in einem Land, das nicht Mitgliedstaat der
 Europäischen Union oder anderer Vertragsstaat des Abkommens über den
 Europäischen Wirtschaftsraum ist, nachweislich nach Standards
-erfolgen, die den von der Europäischen Gemeinschaft festgelegten
-Standards der Guten Herstellungspraxis zumindest gleichwertig sind.
-Der Hersteller muss für die Durchführung der jeweiligen Tätigkeit nach
+erfolgen, die den von der Europäischen Union festgelegten Standards
+der Guten Herstellungspraxis zumindest gleichwertig sind. Der
+Hersteller muss für die Durchführung der jeweiligen Tätigkeit nach
 nationaler Regelung befugt sein.
 
 (6) Die sachkundige Person nach § 14 des Arzneimittelgesetzes kann
@@ -955,8 +1079,8 @@ sich in Fällen kurzfristiger Verhinderung, insbesondere durch
 Krankheit oder Urlaub, nur von Personen vertreten lassen, die über die
 Sachkenntnis nach § 15 des Arzneimittelgesetzes verfügen.
 
-(7) Der Inhaber einer Erlaubnis nach § 13 oder § 72 des
-Arzneimittelgesetzes hat der sachkundigen Person nach § 14 des
+(7) Der Inhaber einer Erlaubnis nach § 13, § 72 oder § 72c Absatz 4
+des Arzneimittelgesetzes hat der sachkundigen Person nach § 14 des
 Arzneimittelgesetzes die Durchführung ihrer Aufgabe zu ermöglichen und
 ihr insbesondere alle erforderlichen Mittel zur Verfügung zu stellen.
 
@@ -988,15 +1112,16 @@ Vertragsstaat nach den dort geltenden Rechtsvorschriften durchgeführt
 und die von der sachkundigen Person unterzeichneten Kontrollberichte
 beigefügt wurden.
 
-(3) Bei einer Einfuhr aus Ländern, die nicht Mitgliedstaaten der
+(3) Bei einer Einfuhr aus Staaten, die nicht Mitgliedstaaten der
 Europäischen Union oder andere Vertragsstaaten des Abkommens über den
 Europäischen Wirtschaftsraum sind, kann von der Prüfung nach Absatz 1
-abgesehen werden, wenn die Voraussetzungen nach § 72a Satz 1 Nr. 1 des
-Arzneimittelgesetzes, bei Blutprodukten, die keine Arzneimittel sind
-und bei Produkten menschlicher Herkunft auch nach § 72a Satz 1 Nr. 2
-des Arzneimittelgesetzes erfüllt sind oder die Prüfung schon in einem
-anderen Mitgliedstaat der Europäischen Union durchgeführt wurde und
-entsprechende Kontrollberichte übermittelt wurden.
+abgesehen werden, wenn die Voraussetzungen nach § 72a Absatz 1 Satz 1
+Nummer 1 des Arzneimittelgesetzes, bei Blutprodukten, die keine
+Arzneimittel sind und bei Produkten menschlicher Herkunft auch nach §
+72a Absatz 1 Satz 1 Nummer 2 des Arzneimittelgesetzes erfüllt sind
+oder die Prüfung schon in einem anderen Mitgliedstaat der Europäischen
+Union durchgeführt wurde und entsprechende Kontrollberichte
+übermittelt wurden.
 
 (4) Sofern Prüfpräparate, die in einem Land hergestellt wurden, das
 nicht Mitgliedstaat der Europäischen Union oder anderer Vertragsstaat
@@ -1011,7 +1136,7 @@ klinische Prüfung, in der sie zur Anwendung kommen, zu bestätigen.
 Satz 1 gilt auch dann, wenn der sachkundigen Person nach § 14 des
 Arzneimittelgesetzes keine Unterlagen erhältlich sind, die bestätigen,
 dass jede Produktionscharge nach Standards hergestellt wurde, die den
-von der Gemeinschaft festgelegten Standards der Guten
+von der Europäischen Union festgelegten Standards der Guten
 Herstellungspraxis mindestens gleichwertig sind.
 
 (5) Die sachkundige Person nach § 14 des Arzneimittelgesetzes hat
@@ -1025,14 +1150,14 @@ vergleichbaren Dokument zu vermerken.
 
 (6) Soweit durch Rechtsvorschrift nichts anderes zugelassen ist,
 dürfen Fertigarzneimittel nur an Betriebe und Einrichtungen geliefert
-werden, die über eine Erlaubnis nach § 13, § 52a oder § 72 des
-Arzneimittelgesetzes verfügen oder zur Abgabe an den Endverbraucher
-befugt sind oder an andere Einrichtungen oder Personen, die gemäß § 47
-des Arzneimittelgesetzes Arzneimittel beziehen dürfen. Satz 1 gilt
-entsprechend für Betriebe, die im Besitz einer Erlaubnis nach Artikel
-40 oder einer Genehmigung nach Artikel 77 der Richtlinie 2001/83/EG
-oder einer Erlaubnis nach Artikel 44 oder einer Genehmigung nach
-Artikel 65 der Richtlinie 2001/82/EG sind. Den Lieferungen sind
+werden, die über eine Erlaubnis nach § 13, § 52a, § 72 oder § 72c
+Absatz 4 des Arzneimittelgesetzes verfügen oder zur Abgabe an den
+Endverbraucher befugt sind oder an andere Einrichtungen oder Personen,
+die gemäß § 47 des Arzneimittelgesetzes Arzneimittel beziehen dürfen.
+Satz 1 gilt entsprechend für Betriebe, die im Besitz einer Erlaubnis
+nach Artikel 40 oder einer Genehmigung nach Artikel 77 der Richtlinie
+2001/83/EG oder einer Erlaubnis nach Artikel 44 oder einer Genehmigung
+nach Artikel 65 der Richtlinie 2001/82/EG sind. Den Lieferungen sind
 ausreichende Unterlagen beizufügen, aus denen insbesondere das Datum
 der Auslieferung, die Bezeichnung und Menge des Arzneimittels sowie
 Name und Anschrift des Lieferanten und des Empfängers hervorgehen. Im
@@ -1041,8 +1166,8 @@ Satz 1 oder Satz 2 über eine Erlaubnis oder eine Genehmigung verfügen,
 muss zusätzlich die Chargenbezeichnung des jeweiligen Arzneimittels
 angegeben werden. Darüber hinaus muss unter Angabe der ausstellenden
 Behörde und des Ausstellungsdatums bestätigt werden, dass der
-Lieferant über eine Erlaubnis nach § 13, § 52a oder § 72 des
-Arzneimittelgesetzes verfügt. Die Verpflichtung zur zusätzlichen
+Lieferant über eine Erlaubnis nach § 13, § 52a, § 72 oder § 72c Absatz
+4 des Arzneimittelgesetzes verfügt. Die Verpflichtung zur zusätzlichen
 Angabe der Chargenbezeichnung gilt auch
 
 1.  bei der Abgabe von Arzneimitteln an Krankenhausapotheken und
@@ -1054,14 +1179,24 @@ Angabe der Chargenbezeichnung gilt auch
     Zubereitungen aus anderen Stoffen menschlicher Herkunft sowie
     gentechnisch hergestellten Blutbestandteilen, die fehlende
     Blutbestandteile ersetzen, auch bei Lieferung an Betriebe und
-    Einrichtungen zur Abgabe an den Endverbraucher sowie
+    Einrichtungen zur Abgabe an den Endverbraucher,
 
 
 3.  bei Abgabe von zur Anwendung bei Tieren bestimmten
-    verschreibungspflichtigen Arzneimitteln.
+    verschreibungspflichtigen Arzneimitteln sowie
+
+
+4.  im Falle von Arzneimitteln, die Sicherheitsmerkmale im Sinne von § 10
+    Absatz 1c des Arzneimittelgesetzes tragen müssen.
 
 
 
+Die nach den Sätzen 3 bis 6 beizufügenden Unterlagen und
+erforderlichen Angaben können dem Empfänger auch elektronisch
+übermittelt werden. Bei einer elektronischen Übermittlung hat der
+Absender sicherzustellen, dass die elektronischen Unterlagen und
+Angaben für die jeweiligen Empfänger jederzeit abrufbar sind und dass
+sie in hinreichender Weise vor Manipulationen geschützt sind.
 
 
 ### § 18 Rückstellmuster
@@ -1088,7 +1223,7 @@ parallel vertriebenen Arzneimitteln findet Satz 4 nur Anwendung,
 sofern deren Sekundärverpackung zum Zwecke der Änderung der
 Kennzeichnung oder der Packungsbeilage geöffnet wird. Bei
 Arzneimitteln, deren Herstellung für den Einzelfall oder in kleinen
-Mengen erfolgt und deren Lagerung besondere Probleme bereitet, kann
+Mengen erfolgt oder deren Lagerung besondere Probleme bereitet, kann
 die zuständige Behörde Ausnahmen über die Muster und ihre Aufbewahrung
 zulassen.
 
@@ -1123,24 +1258,27 @@ gelagert werden.
 
 (1) Der oder die Stufenplanbeauftragte ist dafür verantwortlich, dass
 alle bekannt gewordenen Meldungen über Arzneimittelrisiken nach
-schriftlich festgelegtem Verfahren gesammelt sowie alle Beanstandungen
-systematisch aufgezeichnet werden. Dabei ist die sofortige Überprüfung
-der Meldungen unverzüglich zu veranlassen und daraufhin zu bewerten,
-ob ein Arzneimittelrisiko vorliegt, wie schwerwiegend es ist und
-welche Maßnahmen zur Risikoabwehr geboten sind. Die notwendigen
-Maßnahmen sind zu koordinieren und der sachkundigen Person nach § 14
-des Arzneimittelgesetzes zur Kenntnis zu bringen, damit diese
-erforderlichenfalls die ihrerseits notwendigen Maßnahmen ergreifen
-kann, insbesondere, wenn es sich um ein Qualitätsproblem handeln
-könnte. Die Wirksamkeit der Verfahren ist regelmäßig zu überprüfen.
+schriftlich oder elektronisch festgelegtem Verfahren gesammelt sowie
+alle Beanstandungen systematisch aufgezeichnet werden. Dabei ist die
+sofortige Überprüfung der Meldungen unverzüglich zu veranlassen und
+daraufhin zu bewerten, ob ein Arzneimittelrisiko vorliegt, wie
+schwerwiegend es ist und welche Maßnahmen zur Risikoabwehr geboten
+sind. Die notwendigen Maßnahmen sind zu koordinieren und der
+sachkundigen Person nach § 14 des Arzneimittelgesetzes zur Kenntnis zu
+bringen, damit diese erforderlichenfalls die ihrerseits notwendigen
+Maßnahmen ergreifen kann, insbesondere, wenn es sich um ein
+Qualitätsproblem handeln könnte. Die Wirksamkeit der Verfahren ist
+regelmäßig zu überprüfen.
 
 (2) Der oder die Stufenplanbeauftragte hat die zuständige Behörde über
 jeden Mangel, der zu einem Rückruf oder zu einer ungewöhnlichen
 Einschränkung des Vertriebs führen könnte, unverzüglich zu
 unterrichten und dabei auch mitzuteilen, in welche Staaten das
 Arzneimittel verbracht oder ausgeführt wurde. Darüber hinaus ist die
-Behörde auch über jeden begründeten Verdacht einer
-Arzneimittelfälschung unverzüglich zu unterrichten.
+Behörde auch über jeden Verdacht einer Arzneimittel- oder
+Wirkstofffälschung unverzüglich zu unterrichten; bei Arzneimitteln,
+die zur Anwendung bei Menschen bestimmt sind, ist auch der Inhaber der
+Zulassung zu unterrichten.
 
 (3) Der oder die Stufenplanbeauftragte hat die nach dem
 Arzneimittelgesetz bestehenden Anzeigepflichten zu erfüllen, soweit
@@ -1170,10 +1308,10 @@ Stufenplanbeauftragte Aufzeichnungen zu führen.
 
 (6) Der oder die Stufenplanbeauftragte soll von den Verkaufs- oder
 Vertriebseinheiten unabhängig sein und kann sich nur von Personen
-vertreten lassen, die über die Sachkenntnis nach § 63a Abs. 2 des
-Arzneimittelgesetzes verfügen und muss im Geltungsbereich des
+vertreten lassen, die über die Sachkenntnis nach § 63a Absatz 1 Satz 1
+des Arzneimittelgesetzes verfügen, und muss im Geltungsbereich des
 Arzneimittelgesetzes oder in einem anderen Mitgliedstaat der
-Europäischen Union ansässig sein.
+Europäischen Union ansässig und tätig sein.
 
 (7) Soweit ein pharmazeutischer Unternehmer andere als die in § 63a
 Abs. 1 Satz 1 des Arzneimittelgesetzes genannten Produkte in den
@@ -1201,14 +1339,14 @@ des Stufenplanbeauftragten oder der nach § 19 Abs. 7 Satz 1
 entsprechend beauftragten Person sind vollständig und mindestens bis
 ein Jahr nach Ablauf des Verfalldatums, jedoch nicht weniger als fünf
 Jahre aufzubewahren. Die Aufbewahrung muss in einem geeigneten Bereich
-der von der Erlaubnis nach § 13 oder § 72 des Arzneimittelgesetzes
-erfassten Räume erfolgen. Die Zugriffsberechtigung zu den
-Aufzeichnungen nach Satz 1 ist durch geeignete Maßnahmen auf dazu
-befugte Personen einzuschränken. Für den Fall einer Schließung des
-Hersteller- oder Prüfbetriebs, in dem die Aufbewahrung der
-Dokumentation nach Satz 1 erfolgt, hat der pharmazeutische Unternehmer
-Vorsorge zu treffen, dass die Dokumentation während der gesamten
-Aufbewahrungszeit vorgehalten wird.
+der von der Erlaubnis nach § 13, § 72 oder § 72c Absatz 4 des
+Arzneimittelgesetzes erfassten Räume erfolgen. Die
+Zugriffsberechtigung zu den Aufzeichnungen nach Satz 1 ist durch
+geeignete Maßnahmen auf dazu befugte Personen einzuschränken. Für den
+Fall einer Schließung des Hersteller- oder Prüfbetriebs, in dem die
+Aufbewahrung der Dokumentation nach Satz 1 erfolgt, hat der
+pharmazeutische Unternehmer Vorsorge zu treffen, dass die
+Dokumentation während der gesamten Aufbewahrungszeit vorgehalten wird.
 
 (2) Abweichend von Absatz 1 sind bei Blutzubereitungen, Sera aus
 menschlichem Blut und gentechnisch hergestellten Plasmaproteinen zur
@@ -1243,7 +1381,9 @@ damit verbundenen Maßnahmen gemäß § 11 Abs. 1 des Transfusionsgesetzes
 mindestens 15 Jahre aufzubewahren oder zu speichern. Die Angaben
 müssen gelöscht werden, wenn die Aufbewahrung oder Speicherung nicht
 mehr erforderlich ist. Werden die Aufzeichnungen länger als 30 Jahre
-aufbewahrt oder gespeichert, sind sie zu anonymisieren.
+aufbewahrt oder gespeichert, sind sie zu anonymisieren. Ist kein
+pharmazeutischer Unternehmer vorhanden, hat der Erlaubnisinhaber die
+Vorsorge nach Absatz 1 Satz 4 zu treffen.
 
 (3) (weggefallen)
 
@@ -1251,6 +1391,13 @@ aufbewahrt oder gespeichert, sind sie zu anonymisieren.
 Unterlagen mindestens fünf Jahre nach Abschluss oder Abbruch der
 letzten klinischen Prüfung, bei der die betreffende Charge zur
 Anwendung kam, aufzubewahren sind.
+
+(5) Abweichend von den Absätzen 1 und 2 sind bei hämatopoetischen
+Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut zum Zweck der Rückverfolgbarkeit zumindest
+Aufzeichnungen mit den Angaben nach Anhang VI Teil A der Richtlinie
+2006/86/EG in der jeweils geltenden Fassung in einem geeigneten
+Speichermedium mindestens 30 Jahre aufzubewahren.
 
 
 ## Abschnitt 4 - Wirkstoffe nicht menschlicher Herkunft
@@ -1280,9 +1427,9 @@ entsprechend festzulegen.
 ### § 22 Herstellung
 
 (1) Die Herstellungsvorgänge einschließlich der Inprozesskontrollen
-sind nach vorher erstellten schriftlichen Anweisungen und
-Verfahrensbeschreibungen (Herstellungsanweisung) und in
-Übereinstimmung mit der Guten Herstellungspraxis durchzuführen.
+sind nach vorher erstellten schriftlichen oder elektronischen
+Anweisungen und Verfahrensbeschreibungen (Herstellungsanweisung) und
+in Übereinstimmung mit der Guten Herstellungspraxis durchzuführen.
 
 (2) Bei der nach § 13 des Arzneimittelgesetzes erlaubnispflichtigen
 Wirkstoffherstellung ist die Leitung der Herstellung verantwortlich
@@ -1325,9 +1472,9 @@ verantwortlich sind.
 ### § 23 Prüfung
 
 (1) Ausgangsstoffe, Zwischenprodukte und Wirkstoffe sind nach vorher
-erstellten schriftlichen Anweisungen und Verfahrensbeschreibungen
-(Prüfanweisung) und in Übereinstimmung mit der Guten
-Herstellungspraxis zu prüfen. Satz 1 gilt entsprechend für
+erstellten schriftlichen oder elektronischen Anweisungen und
+Verfahrensbeschreibungen (Prüfanweisung) und in Übereinstimmung mit
+der Guten Herstellungspraxis zu prüfen. Satz 1 gilt entsprechend für
 Behältnisse, Packmittel und Kennzeichnungsmaterial der Wirkstoffe.
 
 (2) Bei Wirkstoffen, deren Herstellung einer Erlaubnis nach § 13 des
@@ -1367,7 +1514,7 @@ befugtem Personal zu entscheiden. Die Maßnahmen sind zu dokumentieren.
 ### § 24 Kennzeichnung
 
 (1) Die Kennzeichnung der Zwischenprodukte und Wirkstoffe ist nach
-vorher erstellten schriftlichen Anweisungen und
+vorher erstellten schriftlichen oder elektronischen Anweisungen und
 Verfahrensbeschreibungen und in Übereinstimmung mit der Guten
 Herstellungspraxis durchzuführen. Bei der nach § 13 des
 Arzneimittelgesetzes erlaubnispflichtigen Wirkstoffherstellung ist die
@@ -1389,7 +1536,7 @@ mindestens wie folgt zu kennzeichnen:
     Weltgesundheitsorganisation,
 
 
-3.  Inhalt nach Gewicht oder Rauminhalt; sind biologische Einheiten oder
+3.  Inhalt nach Gewicht oder Nennvolumen; sind biologische Einheiten oder
     andere Angaben zur Wertigkeit wissenschaftlich gebräuchlich, so sind
     diese zu verwenden,
 
@@ -1440,10 +1587,10 @@ Verlangen der zuständigen Behörde vorzulegen.
 ### § 25 Freigabe zum Inverkehrbringen
 
 (1) Die Freigabe zum Inverkehrbringen darf nur nach vorher erstellten
-schriftlichen Anweisungen und Verfahrensbeschreibungen nach Absatz 3
-oder Absatz 4 Satz 1 von Personen vorgenommen werden, die mit den
-Produkten und mit den für deren Herstellung und Prüfung eingesetzten
-Verfahren vertraut sind.
+schriftlichen oder elektronischen Anweisungen und
+Verfahrensbeschreibungen nach Absatz 3 oder Absatz 4 Satz 1 von
+Personen vorgenommen werden, die mit den Produkten und mit den für
+deren Herstellung und Prüfung eingesetzten Verfahren vertraut sind.
 
 (2) In Betrieben und Einrichtungen, die der Erlaubnispflicht nach § 13
 oder § 72 des Arzneimittelgesetzes unterliegen, ist die sachkundige
@@ -1451,7 +1598,8 @@ Person nach § 14 des Arzneimittelgesetzes verantwortlich für die
 Freigabe derjenigen Produkte, die die Erlaubnispflicht auslösen; § 16
 Abs. 1 und 4 bis 7 findet entsprechende Anwendung. Im Übrigen ist für
 die Freigabe die Qualitätssicherungseinheit verantwortlich; die zur
-Freigabe berechtigten Personen sind schriftlich festzulegen.
+Freigabe berechtigten Personen sind schriftlich oder elektronisch
+festzulegen.
 
 (3) Die Freigabe nach Absatz 1 darf nur erfolgen, wenn das
 Herstellungsprotokoll und das Prüfprotokoll ordnungsgemäß
@@ -1496,7 +1644,9 @@ anhand von zusätzlichen Stabilitätsdaten zu überprüfen und
 erforderlichenfalls entsprechend anzupassen. Bei Zwischenprodukten und
 Wirkstoffen, die ausschließlich freigegeben werden, darf die Freigabe
 nach Absatz 1 nur erfolgen, wenn die Anforderungen von Satz 1 Nr. 3
-bis 5 erfüllt sind.
+bis 5 erfüllt sind. Bei einer ausschließlichen Freigabe ist eine
+zusätzliche Kennzeichnung nach § 24 Absatz 3 Satz 1 nicht
+erforderlich.
 
 
 ### § 26 Inverkehrbringen und Einfuhr
@@ -1545,18 +1695,20 @@ aufzubewahren.
 Einrichtungen, die Wirkstoffe im Geltungsbereich des
 Arzneimittelgesetzes herstellen oder in den Geltungsbereich des
 Gesetzes verbringen oder einführen, von der Qualitätssicherungseinheit
-nach schriftlich festgelegtem Verfahren zu dokumentieren, zu
-untersuchen und zu bewerten. Soweit erforderlich, ist auch der
-Originalhersteller über die Beanstandungen zu informieren.
+nach schriftlich oder elektronisch festgelegtem Verfahren zu
+dokumentieren, zu untersuchen und zu bewerten. Soweit erforderlich,
+ist auch der Originalhersteller über die Beanstandungen zu
+informieren.
 
 (2) Sofern der Verdacht besteht, dass es sich um einen schwerwiegenden
 Mangel handelt, ist die Notwendigkeit eines Rückrufs nach schriftlich
-festgelegtem Verfahren zu prüfen. Die Voraussetzungen, unter denen ein
-Produktrückruf in Betracht zu ziehen ist, sowie das Rückrufverfahren
-selbst sind schriftlich festzulegen. Im Falle einer schwerwiegenden
-oder lebensbedrohlichen Situation sind die zuständige Behörde sowie
-die betroffenen Arzneimittelhersteller oder anderen Empfänger, an die
-der Wirkstoff geliefert wurde, unverzüglich zu informieren.
+oder elektronisch festgelegtem Verfahren zu prüfen. Die
+Voraussetzungen, unter denen ein Produktrückruf in Betracht zu ziehen
+ist, sowie das Rückrufverfahren selbst sind schriftlich oder
+elektronisch festzulegen. Im Falle einer schwerwiegenden oder
+lebensbedrohlichen Situation sind die zuständige Behörde sowie die
+betroffenen Arzneimittelhersteller oder anderen Empfänger, an die der
+Wirkstoff geliefert wurde, unverzüglich zu informieren.
 
 (3) Über den Inhalt der Meldungen, die Art der Überprüfung und die
 dabei gewonnenen Erkenntnisse, das Ergebnis der Bewertung, die
@@ -1660,9 +1812,9 @@ Kenntnisse verfügt, Fütterungsarzneimittel vorläufig für das
 Inverkehrbringen freigeben. Diese vorläufige Freigabe ist nachträglich
 der sachkundigen Person, die auch in diesem Falle neben der
 beauftragten Person die Verantwortung für die Freigabe trägt,
-vorzulegen und von dieser schriftlich zu bestätigen. Die sachkundige
-Person hat unmittelbar im Anschluss an die Bestätigung den Eintrag
-nach § 17 Abs. 5 durchzuführen.
+vorzulegen und von dieser schriftlich oder elektronisch zu bestätigen.
+Die sachkundige Person hat unmittelbar im Anschluss an die Bestätigung
+den Eintrag nach § 17 Abs. 5 durchzuführen.
 
 (6) Abweichend von § 18 Abs. 1 müssen Muster von jeder Charge
 mindestens sechs Monate über den Ablauf des Verfalldatums hinaus
@@ -1702,8 +1854,9 @@ der vom Bestimmungsland geforderten Form beizugeben.
 Richtlinie 2005/62/EG der Kommission vom 30. September 2005 zur
 Durchführung der Richtlinie 2002/98/EG des Europäischen Parlaments und
 des Rates in Bezug auf gemeinschaftliche Standards und Spezifikationen
-für ein Qualitätssystem für Blutspendeeinrichtungen (ABl. EU Nr. L 256
-S. 41) aufgeführten Standards eingerichtet werden und insbesondere
+für ein Qualitätssystem für Blutspendeeinrichtungen (ABl. L 256 vom
+1\.10.2005, S. 41) in der jeweils geltenden Fassung aufgeführten
+Standards eingerichtet werden und insbesondere
 
 1.  gewährleisten, dass alle kritischen Arbeitsabläufe und die
     Standardarbeitsverfahren in geeigneten Standardarbeitsanweisungen
@@ -1711,9 +1864,14 @@ S. 41) aufgeführten Standards eingerichtet werden und insbesondere
 
 
 2.  ausreichende Verfahren zum Rückruf und zur Rückverfolgbarkeit nach
-    Absatz 4 Satz 3 und bei Blutzubereitungen im Sinne von § 63b Abs. 2
-    Satz 3 des Arzneimittelgesetzes zur Meldung schwerwiegender
-    Zwischenfälle, 1schwerwiegender unerwünschter Reaktionen und zu deren
+    Absatz 4 Satz 3 und bei Blutzubereitungen im Sinne der Richtlinie
+    2002/98/EG des Europäischen Parlaments und des Rates vom 27. Januar
+    2003 zur Festlegung von Qualitäts- und Sicherheitsstandards für die
+    Gewinnung, Testung, Verarbeitung, Lagerung und Verteilung von
+    menschlichem Blut und Blutbestandteilen und zur Änderung der
+    Richtlinie 2001/83/EG (ABl. L 33 vom 8.2.2003, S. 30) sowie nach § 21a
+    Absatz 1 Satz 3 des Arzneimittelgesetzes zur Meldung schwerwiegender
+    Zwischenfälle, schwerwiegender unerwünschter Reaktionen und zu deren
     Verdachtsfällen beinhalten,
 
 
@@ -1728,14 +1886,31 @@ S. 41) aufgeführten Standards eingerichtet werden und insbesondere
     werden, die insbesondere für die Genehmigung aller qualitätsbezogenen
     Unterlagen verantwortlich ist und in alle qualitätsbezogenen Fragen
     einbezogen werden soll, soweit nicht die Leitung der Herstellung oder
-    die Leitung der Qualitätskontrolle zuständig ist, sowie
+    die Leitung der Qualitätskontrolle zuständig ist,
 
 
 5.  von der Leitung der Betriebe und Einrichtungen regelmäßig auf
-    Effizienz überprüft und erforderlichenfalls angepasst werden.
+    Effizienz überprüft und erforderlichenfalls angepasst werden,
+
+
+6.  sicherstellen, dass ein schriftlicher Vertrag nach Maßgabe des
+    Absatzes 1a geschlossen wurde,
+
+
+7.  sicherstellen, dass ein schriftlicher Vertrag nach Maßgabe des
+    Absatzes 1c geschlossen wurde.
 
 
 
+Zur Auslegung der gemeinschaftlichen Standards und Spezifikationen im
+Anhang der Richtlinie 2005/62/EG berücksichtigen die
+Blutspendeeinrichtungen die Leitlinien für bewährte Verfahren des
+Anhangs der Empfehlung Nr. R (95) 15 des Ministerkomitees des
+Europarats betreffend die Zubereitung, Anwendung und
+Qualitätssicherung von Blutbestandteilen vom 12. Oktober 1995 in der
+jeweils vom Bundesministerium für Gesundheit in deutscher Sprache im
+Bundesanzeiger bekannt gemachten Fassung. Strengere Anforderungen, die
+durch Gesetz oder aufgrund eines Gesetzes bestehen, bleiben unberührt.
 Die mit der Qualitätssicherung beauftragte Person kann mit der
 sachkundigen Person nach § 14 des Arzneimittelgesetzes identisch sein,
 soweit diese nicht gleichzeitig Leitung der Herstellung ist. Soweit
@@ -1745,8 +1920,42 @@ Union oder andere Vertragsstaaten über den Europäischen
 Wirtschaftsraum sind, muss sich die sachkundige Person nach § 14 des
 Arzneimittelgesetzes rückversichern, dass diese
 Blutspendeeinrichtungen über ein QM-System verfügen, das nach
-Standards eingerichtet ist, die den von der Europäischen Gemeinschaft
+Standards eingerichtet ist, die den von der Europäischen Union
 festgelegten Standards zumindest gleichwertig sind.
+
+(1a) Für die Einfuhr von hämatopoetischen Stammzellen oder
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut aus Staaten, die weder Mitgliedstaaten der
+Europäischen Union noch andere Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum sind, hat die einführende Einrichtung
+einen schriftlichen Vertrag mit dem jeweiligen Drittstaatlieferanten
+zu schließen, wenn dieser Tätigkeiten im Zusammenhang mit der
+Herstellung oder Ausfuhr in die Europäische Union von hämatopoetischen
+Stammzellen oder Stammzellzubereitungen aus dem peripheren Blut oder
+aus dem Nabelschnurblut, die in die Europäische Union eingeführt
+werden sollen, durchführt. In dem Vertrag sind die Qualitäts- und
+Sicherheitsanforderungen festzulegen, die zu erfüllen sind, damit
+sichergestellt ist, dass die Standards der Guten Herstellungspraxis
+bei den einzuführenden Stammzellen oder Stammzellzubereitungen
+eingehalten wurden. § 32 Absatz 2a Satz 3 und 4 ist entsprechend
+anzuwenden.
+
+(1b) Absatz 1 Satz 1 Nummer 6 und Absatz 1a gelten nicht für die
+einmalige Einfuhr nach § 72c des Arzneimittelgesetzes.
+
+(1c) Abweichend von § 20 Absatz 1 Satz 2 kann die Aufbewahrung der
+Aufzeichnungen nach § 20 Absatz 2 auch außerhalb der von der Erlaubnis
+nach den §§ 13 oder 72 oder 72c Absatz 4 des Arzneimittelgesetzes
+erfassten Räumen aufbewahrt werden, und zwar in geeigneten Räumen im
+Geltungsbereich des Arzneimittelgesetzes eines darauf spezialisierten
+gewerblichen Anbieters (externes Archiv). Die Zugriffsberechtigung zu
+den Aufzeichnungen nach Satz 1 ist durch geeignete Maßnahmen auf dazu
+befugte Personen einzuschränken. Der Erlaubnisinhaber hat einen
+schriftlichen Vertrag mit dem Betreiber des externen Archives zu
+schließen. In dem Vertrag sind die technischen und organisatorischen
+Maßnahmen festzulegen, um die Aufzeichnungen während der gesetzlichen
+Aufbewahrungsfristen vor Umwelteinflüssen sowie dem unbefugten Zugriff
+Dritter zu schützen.
 
 (2) Abweichend von § 4 Abs. 2 Satz 1 sind in Blutspendeeinrichtungen
 Arbeitsplatzbeschreibungen für das gesamte Personal vorzuhalten,
@@ -1798,7 +2007,9 @@ die
     Richtlinie 2004/33/EG der Kommission vom 22. März 2004 zur
     Durchführung der Richtlinie 2002/98/EG des Europäischen Parlaments und
     des Rates hinsichtlich bestimmter technischer Anforderungen für Blut
-    und Blutbestandteile (ABl. EU Nr. L 91 S. 25),
+    und Blutbestandteile (ABl. L 91 vom 30.3.2004, S. 25), die durch die
+    Durchführungsrichtlinie 2011/38/EU (ABl. L 97 vom 12.4.2011, S. 28)
+    geändert worden ist, in der jeweils geltenden Fassung,
 
 
 2.  Art und Weise einer sicheren Identifizierung der spendenden Person bei
@@ -1841,6 +2052,10 @@ Spenden. Der Spendenentnahme- und Verarbeitungsprozess ist angemessen
 mikrobiologisch zu überwachen. Für die Gewinnung von Eigenblutspenden
 findet darüber hinaus der allgemein anerkannte Stand der medizinischen
 Wissenschaft und Technik Anwendung.
+
+(4a) Bei hämatopoetischen Stammzellen aus dem peripheren Blut oder aus
+dem Nabelschnurblut ist über die Entnahme ein Entnahmebericht zu
+erstellen. § 34 Absatz 7 Satz 2 bis 6 ist entsprechend anzuwenden.
 
 (5) Die Prüfanweisung nach § 14 Abs. 1 muss den Besonderheiten der
 Blutspenden und Blutzubereitungen Rechnung tragen und insbesondere
@@ -1896,9 +2111,14 @@ andere Maßnahmen sichergestellt wird.
 
 (8) Zubereitungen aus Frischplasma und aus Blutzellen müssen, soweit
 sie nach § 21 Abs. 2 Nr. 1a des Arzneimittelgesetzes nicht der
-Zulassung bedürfen, der Kennzeichnung nach § 10 Abs. 8 Satz 4 des
+Zulassung bedürfen, der Kennzeichnung nach § 10 Abs. Absatz 8a des
 Arzneimittelgesetzes entsprechen. Eigenblutspenden müssen eindeutig
 als solche gekennzeichnet werden.
+
+(8a) Unbeschadet der Anforderungen des § 10 Absatz 8a des
+Arzneimittelgesetzes ist für hämatopoetische Stammzellzubereitungen
+aus dem peripheren Blut oder aus dem Nabelschnurblut § 36 Absatz 8
+entsprechend anzuwenden.
 
 (9) Vor der Freigabe nach § 16 sind die Produkte verwaltungsmäßig und
 physisch von freigegebenen Produkten getrennt zu lagern.
@@ -1923,7 +2143,7 @@ Eintrag nach § 17 Abs. 5 vornehmen. Diese vorläufige Freigabe und der
 vorläufige Eintrag nach § 17 Abs. 5 sind nachträglich der sachkundigen
 Person, die auch in diesem Falle neben der beauftragten Person die
 Verantwortung für die Freigabe trägt, vorzulegen und von dieser
-schriftlich zu bestätigen.
+schriftlich oder elektronisch zu bestätigen.
 
 (11) § 18 findet auf Zubereitungen aus Blutzellen oder Frischplasma
 keine Anwendung. Die sachkundige Person nach § 14 des
@@ -1933,12 +2153,11 @@ erforderlichen analytischen Nachtestung aufzubewahren.
 
 (12) Unbeschadet des § 19 ist der oder die Stufenplanbeauftragte dafür
 verantwortlich, dass alle Meldungen über schwerwiegende unerwünschte
-Reaktionen, die die Qualität und Sicherheit der Blutzubereitungen
-beeinflussen oder auf diese zurückgeführt werden können, nach
-schriftlich festgelegtem Verfahren gesammelt, bewertet und der
-zuständigen Bundesoberbehörde oder der zuständigen Behörde
-entsprechend § 63c des Arzneimittelgesetzes gemeldet werden. Satz 1
-gilt auch für Verdachtsfälle solcher Reaktionen. Dabei muss
+Reaktionen nach schriftlich oder elektronisch festgelegtem Verfahren
+gesammelt, bewertet und der zuständigen Bundesoberbehörde oder der
+zuständigen Behörde entsprechend § 63i Absatz 2 oder Absatz 3 des
+Arzneimittelgesetzes gemeldet werden. Satz 1 gilt auch für
+Verdachtsfälle solcher Reaktionen. Dabei muss
 
 1.  die Erstmeldung alle notwendigen Angaben enthalten, insbesondere zur
     Identifizierung der Blutspendeeinrichtung, der betroffenen spendenden
@@ -1948,10 +2167,10 @@ gilt auch für Verdachtsfälle solcher Reaktionen. Dabei muss
     2005 zur Durchführung der Richtlinie 2002/98/EG des Europäischen
     Parlaments und des Rates in Bezug auf die Anforderungen an die
     Rückverfolgbarkeit und die Meldung ernster Zwischenfälle und ernster
-    unerwünschter Reaktionen (ABl. EU Nr. L 256 S. 32); sie muss auch den
-    Grad der Wahrscheinlichkeit für einen Zusammenhang zwischen
-    Verabreichung der Blutzubereitung und der Empfängerreaktion
-    (Zuordnungsstufe) angeben,
+    unerwünschter Reaktionen (ABl. L 256 vom 1.10.2005, S. 32) in der
+    jeweils geltenden Fassung; sie muss auch den Grad der
+    Wahrscheinlichkeit für einen Zusammenhang zwischen Verabreichung der
+    Blutzubereitung und der Empfängerreaktion (Zuordnungsstufe) angeben,
 
 
 2.  die Erstmeldung konkretisiert werden, sobald ausreichende Erkenntnisse
@@ -1971,8 +2190,7 @@ Spezifikationen und Formaten der Meldungen an die zuständige
 Bundesoberbehörde, können in einer Bekanntmachung der zuständigen
 Bundesoberbehörde geregelt werden.
 
-(13) Absatz 12 Satz 1 bis 3 gilt entsprechend für schwerwiegende
-Zwischenfälle:
+(13) Absatz 12 gilt entsprechend für schwerwiegende Zwischenfälle:
 
 1.  Die Erstmeldung muss alle notwendigen Angaben enthalten, insbesondere,
     ob es sich um Produktfehler, defekte Ausrüstung oder um menschliches
@@ -1988,6 +2206,58 @@ Zwischenfälle:
 
 
 
+
+(14) (weggefallen)
+
+
+### § 31a Verbringen von Arzneimitteln nach § 73 Absatz 3a des Arzneimittelgesetzes
+
+(1) Wer Fertigarzneimittel nach § 73 Absatz 3a des
+Arzneimittelgesetzes in den Geltungsbereich dieser Verordnung
+verbringt, hat folgende Angaben aufzuzeichnen:
+
+1.  die Bezeichnung des verbrachten Arzneimittels,
+
+
+2.  den Namen oder die Firma und die Anschrift des pharmazeutischen
+    Unternehmers,
+
+
+3.  die Chargenbezeichnung oder die Bezeichnung und die Menge des
+    Arzneimittels,
+
+
+4.  sofern vorhanden, den Einheitlichen Europäischen Code nach § 4 Absatz
+    30a des Arzneimittelgesetzes,
+
+
+5.  den Namen oder die Firma und die Anschrift des Lieferanten,
+
+
+6.  den Namen und die Anschrift der Person, für die das Arzneimittel
+    bestimmt ist,
+
+
+7.  den Namen und die Anschrift der verschreibenden Ärztin oder des
+    verschreibenden Arztes, an die oder den das Arzneimittel abgegeben
+    wird,
+
+
+8.  das Datum der Bestellung und der Abgabe und
+
+
+9.  den Namen und die Anschrift des Krankenhauses, der Ärztin oder des
+    Arztes, an die oder den das Arzneimittel abgegeben wird.
+
+
+
+Soweit aus Gründen der Arzneimittelsicherheit besondere Hinweise
+geboten sind, sind diese bei der Abgabe mitzuteilen. Diese Mitteilung
+ist aufzuzeichnen.
+
+(2) Die Abgabe erfolgt unter der Verantwortung der sachkundigen Person
+nach § 14 des Arzneimittelgesetzes oder der verantwortlichen Person
+nach § 20c des Arzneimittelgesetzes. § 41 gilt entsprechend.
 
 
 ## Abschnitt 5a - Sondervorschriften für Entnahme- und Gewebeeinrichtungen sowie für Gewebespenderlabore
@@ -2026,11 +2296,19 @@ Arzneimittelgesetzes insbesondere
     oder für deren Sicherheit oder das Rückverfolgungsverfahren relevante
     Unterlagen von einer Einrichtung, die ihre Tätigkeit beendet, an
     andere Einrichtungen, die über eine Erlaubnis im Sinne von § 20c des
-    Arzneimittelgesetzes verfügen, übergeben werden und
+    Arzneimittelgesetzes verfügen, übergeben werden,
 
 
 6.  regelmäßig im Hinblick auf kontinuierliche und systematische
-    Verbesserungen überprüft und erforderlichenfalls angepasst werden.
+    Verbesserungen überprüft und erforderlichenfalls angepasst werden,
+
+
+7.  sicherstellen, dass ein schriftlicher Vertrag nach Maßgabe des
+    Absatzes 2a geschlossen wurde, und
+
+
+8.  sicherstellen, dass ein schriftlicher Vertrag nach Maßgabe des
+    Absatzes 2c geschlossen wurde.
 
 
 
@@ -2040,7 +2318,7 @@ andere Vertragsstaaten über den Europäischen Wirtschaftsraum sind,
 muss sich die verantwortliche Person nach § 20c des
 Arzneimittelgesetzes rückversichern, dass diese Einrichtungen über ein
 Qualitätssystem verfügen, das nach Standards eingerichtet ist, die den
-von der Europäischen Gemeinschaft festgelegten Standards zumindest
+von der Europäischen Union festgelegten Standards zumindest
 gleichwertig sind. Abweichend von § 3 Abs. 1 Satz 1 müssen
 Entnahmeeinrichtungen und Gewebespenderlabore über ein an ihre
 Tätigkeiten angepasstes System der Qualitätssicherung nach den
@@ -2060,6 +2338,46 @@ schwerwiegender unerwünschter Reaktionen und schwerwiegender
 Zwischenfälle. Die Verträge sind in der be- oder verarbeitenden
 Gewebeeinrichtung in einer vollständigen Liste zu führen und auf
 Verlangen der zuständigen Behörde vorzulegen.
+
+(2a) Für die Einfuhr von Geweben oder Gewebezubereitungen aus Staaten,
+die weder Mitgliedstaaten der Europäischen Union noch andere
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+sind, hat die Gewebeeinrichtung einen schriftlichen Vertrag mit dem
+jeweiligen Drittstaatlieferanten zu schließen, wenn dieser Tätigkeiten
+im Zusammenhang mit der Entnahme oder Gewinnung, mit den für die
+Gewinnung erforderlichen Laboruntersuchungen, mit der Be- und
+Verarbeitung, Konservierung, Prüfung, Lagerung oder Ausfuhr in die
+Europäische Union von Geweben und Gewebezubereitungen, die in die
+Europäische Union eingeführt werden sollen, durchführt. In dem Vertrag
+sind die Qualitäts- und Sicherheitsanforderungen festzulegen, die zu
+erfüllen sind, damit sichergestellt ist, dass die Standards der Guten
+fachlichen Praxis bei den einzuführenden Geweben und
+Gewebezubereitungen eingehalten wurden. Der Vertrag entspricht
+mindestens den Anforderungen, die in Anhang IV der Richtlinie (EU)
+2015/566 der Kommission vom 8. April 2015 zur Durchführung der
+Richtlinie 2004/23/EG hinsichtlich der Verfahren zur Prüfung der
+Gleichwertigkeit von Qualitäts- und Sicherheitsstandards bei
+eingeführten Geweben und Zellen (ABl. L 93 vom 9.4.2015, S. 56) in der
+jeweils geltenden Fassung aufgeführt sind. In dem Vertrag ist das
+Recht der zuständigen Behörde festzulegen, während der Laufzeit des
+Vertrages und für die Dauer von zwei Jahren nach Beendigung des
+Vertrages die Einrichtungen des Drittstaatlieferanten einschließlich
+seiner Tätigkeiten durch Inspektion zu überprüfen.
+
+(2b) Absatz 1 Satz 1 Nummer 7 und Absatz 2a gelten nicht für die
+einmalige Einfuhr nach § 72c des Arzneimittelgesetzes.
+
+(2c) Abweichend von § 41 Absatz 2 Satz 1 kann die Aufbewahrung der
+Aufzeichnungen nach § 41 Absatz 1 auch außerhalb der von der Erlaubnis
+nach den §§ 20b, 20c, 72b oder 72c Absatz 1 des Arzneimittelgesetzes
+erfassten Räume aufbewahrt werden, und zwar in einem externen Archiv.
+Die Zugriffsberechtigung zu den Aufzeichnungen nach Satz 1 ist durch
+geeignete Maßnahmen auf dazu befugte Personen einzuschränken. Der
+Erlaubnisinhaber hat einen schriftlichen Vertrag mit dem Betreiber des
+externen Archives zu schließen. In dem Vertrag sind die technischen
+und organisatorischen Maßnahmen festzulegen, um die Aufzeichnungen
+während der gesetzlichen Aufbewahrungsfristen vor Umwelteinflüssen
+sowie dem unbefugten Zugriff Dritter zu schützen.
 
 (3) Unbeschadet des § 10 muss durch das Dokumentationssystem einer
 Gewebeeinrichtung mindestens sichergestellt werden, dass
@@ -2146,36 +2464,31 @@ den Umgang mit den Medizinprodukten für die Gewebeentnahme beinhalten.
 (2) Die §§ 5 und 6 finden für Entnahmeeinrichtungen mit der Maßgabe
 Anwendung, dass die Betriebsräume und Ausrüstungen sowie die
 Hygienemaßnahmen geeignet sein müssen, die Eigenschaften des Gewebes
-zu schützen, die für seine Verwendung erforderlich sind und das Risiko
-einer mikrobiellen Verunreinigung während der Entnahme minimieren:
+zu schützen, die für seine Verwendung erforderlich sind, und das
+Risiko einer Verunreinigung, insbesondere einer mikrobiellen
+Verunreinigung, während der Entnahme zu minimieren. Dabei sind
 
-1.  Für die Gewebeentnahme sind sterile Medizinprodukte zu verwenden.
-    Soweit Medizinprodukte erneut angewendet werden, muss deren
-    Aufbereitung nach § 4 Abs. 2 der Medizinprodukte-Betreiberverordnung
-    erfolgt sein.
+1.  Gewebeentnahmen mit sterilen Medizinprodukten durchzuführen,
 
 
-2.  Die Entnahme bei lebenden Spendern muss in einer Umgebung erfolgen,
-    die dem Ausmaß und dem Gefährdungsgrad der Eingriffe angepasst ist.
-    Die Räume gelten grundsätzlich als geeignet, wenn diese für eine
-    vergleichbare medizinische Behandlung unter Einhaltung der dort
-    üblichen Anforderungen einschließlich der Hygienemaßnahmen eingesetzt
-    werden.
+2.  erneut angewendete Medizinprodukte nach § 8 Absatz 2 der
+    Medizinprodukte-Betreiberverordnung aufzubereiten,
 
 
-3.  Die Spendeentnahme bei verstorbenen Spendern soll in sauberen Räumen
-    erfolgen, in denen der Entnahmebereich mit sterilen Tüchern abgedeckt
-    wird.
+3.  Gewebeentnahmen bei lebenden Spendern in Räumen und in einer Umgebung
+    vorzunehmen, die für eine vergleichbare medizinische Behandlung unter
+    Einhaltung des Standes der Wissenschaft und Technik einschließlich der
+    Hygienemaßnahmen eingesetzt werden,
 
 
-4.  Sofern die Gewebeentnahme durch von der Entnahmeeinrichtung entsandtes
-    Personal (mobile Teams) außerhalb der von der Erlaubnis nach § 20b des
-    Arzneimittelgesetzes erfassten Räume erfolgen muss und die Möglichkeit
-    der Entnahme durch mobile Teams grundsätzlich in der Erlaubnis
-    vorgesehen ist, finden die Nummern 1 und 3 entsprechende Anwendung.
+4.  Gewebeentnahmen bei verstorbenen Spendern in sauberen Räumen unter
+    Abdeckung des Entnahmebereichs mit sterilen Tüchern vorzunehmen.
 
 
 
+Auf die Gewebeentnahme durch von der Entnahmeeinrichtung entsandtes
+Personal nach § 20b Absatz 1 Satz 5 des Arzneimittelgesetzes findet
+Satz 2 entsprechende Anwendung.
 
 (3) Die Gewebeentnahme einschließlich aller Maßnahmen, die dazu
 bestimmt sind, das Gewebe in einem be- oder verarbeitungsfähigen
@@ -2234,15 +2547,18 @@ Regelungen enthalten:
 
 Das Entnahmeverfahren muss der spendenden Person und der Art der
 Spende angemessen sein, die für ihre Verwendung erforderlichen
-Eigenschaften der Gewebe bewahren sowie das Risiko einer mikrobiellen
-Verunreinigung der Spende minimieren.
+Eigenschaften der Gewebe bewahren sowie das Risiko einer
+Verunreinigung, insbesondere einer mikrobiellen Verunreinigung, der
+Spende minimieren.
 
 (6) Die Gewebespenden sind zum Zeitpunkt ihrer Entnahme mindestens mit
 folgenden Angaben zu versehen:
 
-1.  Art der Spende und Spenderidentität oder, soweit zuerkannt, die von
-    der Entnahmeeinrichtung für die spendende Person vergebene
-    Zuordnungsnummer,
+1.  Art der Spende und Angabe zur Rückverfolgbarkeit des Spenders/der
+    Spenderin bei der Entnahmeeinrichtung, die mit dem Datenschutz
+    vereinbar ist, sowie Kennzeichnung des Spenders als Organspender, wenn
+    bei dem Spender Organe zum Zwecke der Übertragung entnommen worden
+    sind,
 
 
 2.  Tag und, sofern möglich, Uhrzeit der Entnahme,
@@ -2255,7 +2571,11 @@ folgenden Angaben zu versehen:
 
 
 5.  bei autologen Spenden der Hinweis „Nur zur autologen Verwendung“ und
-    bei gerichteten Spenden die Angaben zum Empfänger.
+    bei gerichteten Spenden die Angaben zum Empfänger,
+
+
+6.  sofern erforderlich, der Spendenkennungssequenz nach § 41b Absatz 1
+    oder der eindeutigen Spendennummer nach § 41b Absatz 2.
 
 
 
@@ -2279,10 +2599,14 @@ Der Entnahmebericht muss mindestens folgende Angaben enthalten:
 2.  Spenderidentität mit Angaben zu Familienname, Vorname, Geschlecht, Tag
     der Geburt und bei lebenden Spendern Anschrift oder, soweit zuerkannt,
     die von der Entnahmeeinrichtung für den Gewebespender vergebene
-    Zuordnungsnummer;
+    Zuordnungsnummer sowie Kennzeichnung des Spenders als Organspender,
+    wenn bei dem Spender Organe zum Zwecke der Übertragung entnommen
+    worden sind;
 
 
-3.  Beschreibung und Kennzeichnungscode des entnommenen Gewebes;
+3.  Beschreibung und sofern erforderlich, die Spendenkennungssequenz nach
+    § 41b Absatz 1 oder die eindeutige Spendennummer nach § 41b Absatz 2,
+    ansonsten der Kennzeichnungscode des entnommenen Gewebes;
 
 
 4.  Familienname, Vorname und Anschrift des für die Entnahme
@@ -2324,11 +2648,11 @@ bleiben unberührt.
 (1) Der Transport ist nach vorher erstellter Standardarbeitsanweisung
 durchzuführen. Das Verfahren muss der Spende angemessen sein und die
 Eigenschaften der Gewebe schützen, die für ihre Verwendung
-erforderlich sind, sowie das Risiko einer mikrobiellen Verunreinigung
-der Spende minimieren. Es muss die Art des Transportbehältnisses und
-dessen Kennzeichnung nach Absatz 2, die Mitgabe eventueller Proben
-sowie des Entnahmeberichts nach § 34 Abs. 7 an die be- oder
-verarbeitende Gewebeeinrichtung festlegen.
+erforderlich sind, sowie das Risiko einer Verunreinigung, insbesondere
+einer mikrobiellen Verunreinigung, der Spende minimieren. Es muss die
+Art des Transportbehältnisses und dessen Kennzeichnung nach Absatz 2,
+die Mitgabe eventueller Proben sowie des Entnahmeberichts nach § 34
+Abs. 7 an die be- oder verarbeitende Gewebeeinrichtung festlegen.
 
 (2) Unbeschadet des § 7 Abs. 3 sind die Behältnisse für den Transport
 des Gewebes zur Be- oder Verarbeitung mindestens mit folgenden Angaben
@@ -2375,7 +2699,13 @@ insbesondere die Überprüfung der
 erfassen. Die Gewebe sind in Quarantäne zu halten, bis über ihre
 Verwendungsfähigkeit entschieden worden ist. Soweit sie den
 Anforderungen nicht entsprechen, sind sie zu verwerfen. Die Annahme
-oder Ablehnung entgegengenommener Gewebe ist zu dokumentieren.
+oder Ablehnung entgegengenommener Gewebe ist zu dokumentieren. Wurde
+das Gewebe einem Spender entnommen, bei dem auch Organe zum Zwecke der
+Übertragung entnommen worden sind, unterrichtet die Gewebeeinrichtung
+die Koordinierungsstelle nach § 11 Absatz 1 des
+Transplantationsgesetzes unverzüglich über die Spenderidentität nach §
+34 Absatz 7 Satz 2 Nummer 2; dabei ist anzugeben, ob das
+entgegengenommene Gewebe angenommen oder abgelehnt worden ist.
 
 
 ### § 36 Be- oder Verarbeitung und Lagerung durch die Gewebeeinrichtung
@@ -2388,9 +2718,9 @@ Arbeitsplatzbeschreibungen für das gesamte Personal vorzuhalten.
 
 (2) Die Betriebsräume und Ausrüstungen nach § 5 und die
 Hygienemaßnahmen nach § 6 müssen geeignet sein, die Eigenschaften des
-Gewebes zu schützen, die für seine Verwendung erforderlich sind und
-das Risiko einer mikrobiellen Verunreinigung während der Be- oder
-Verarbeitung minimieren:
+Gewebes zu schützen, die für seine Verwendung erforderlich sind, und
+das Risiko einer Verunreinigung, insbesondere einer mikrobiellen
+Verunreinigung, während der Be- oder Verarbeitung zu minimieren:
 
 1.  Soweit die Gewebe während ihrer Be- oder Verarbeitung der Umgebung
     ausgesetzt werden, muss dies in einer Umgebung mit festgelegter
@@ -2401,7 +2731,7 @@ Verarbeitung minimieren:
 2.  Sofern die Gewebe nach Nummer 1 keinem Inaktivierungs- oder
     Sterilisationsverfahren unterzogen werden, ist während der Be- oder
     Verarbeitung ein Luftreinheitsgrad für Keimzahl und Partikelzahl
-    entsprechend Klasse A der Definition des EG-GMP Leitfadens, Anhang 1
+    entsprechend Klasse A der Definition des EU-GMP-Leitfadens, Anhang 1
     (Bekanntmachung vom 12. März 2008, BAnz. S. 1217), mit einer für die
     Be- oder Verarbeitung des Gewebes geeigneten Hintergrundumgebung, die
     in Bezug auf Partikel- und Keimzahl mindestens der Klasse D des
@@ -2475,7 +2805,7 @@ Gewebezubereitungen von spendenden Personen, die auf Infektionen
 positiv getestet wurden oder deren Laboruntersuchungsergebnisse noch
 nicht verfügbar sind, sind entsprechend zu kennzeichnen.
 
-(8) Unbeschadet der Anforderungen des § 10 Abs. 8 Satz 5 und 6 des
+(8) Unbeschadet der Anforderungen des § 10 Absatz 8b des
 Arzneimittelgesetzes müssen Gewebe und Gewebezubereitungen vor ihrem
 Inverkehrbringen mit folgenden Angaben und Informationen auf dem
 äußeren Behältnis und, soweit verwendet, auf den äußeren Umhüllungen
@@ -2501,7 +2831,12 @@ oder in einem Begleitdokument versehen werden:
 6.  Verfalldatum nach Öffnung oder nach der vorgegebenen Handhabung,
 
 
-7.  soweit zutreffend, Vorliegen potenziell schädlicher Rückstände.
+7.  soweit zutreffend, Vorliegen potenziell schädlicher Rückstände,
+
+
+8.  bei eingeführten Geweben und Gewebezubereitungen der Staat, in dem sie
+    entnommen wurden, sowie der Ausfuhrstaat, sofern dieser nicht der
+    Staat der Entnahme ist.
 
 
 
@@ -2587,12 +2922,12 @@ Verarbeitungs- oder der Testverfahren oder der Spenderauswahlkriterien
 oder der Laboruntersuchungsverfahren mit dem Ziel einer
 Qualitätsverbesserung geführt haben. Die Gewebe und
 Gewebezubereitungen dürfen nur nach positivem Abschluss der
-Risikobewertung und schriftlicher Bestätigung der Freigabe
-ausgeliefert werden. Die Risikobewertung ist zu dokumentieren. Bereits
-ausgelieferte Gewebe und Gewebezubereitungen dürfen nur wieder in den
-Bestand zurückgenommen werden, wenn sie nach schriftlich festgelegtem
-Verfahren beurteilt und als übereinstimmend mit der Spezifikation
-eingestuft wurden.
+Risikobewertung und schriftlicher oder elektronischer Bestätigung der
+Freigabe ausgeliefert werden. Die Risikobewertung ist zu
+dokumentieren. Bereits ausgelieferte Gewebe und Gewebezubereitungen
+dürfen nur wieder in den Bestand zurückgenommen werden, wenn sie nach
+schriftlich oder elektronisch festgelegtem Verfahren beurteilt und als
+übereinstimmend mit der Spezifikation eingestuft wurden.
 
 
 ### § 39 Inverkehrbringen, Einfuhr und Transport durch die Gewebeeinrichtung
@@ -2613,16 +2948,17 @@ die nicht Mitgliedstaaten der Europäischen Union oder andere
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 sind, muss sich die verantwortliche Person nach § 20c des
 Arzneimittelgesetzes vor der Freigabe nach § 38 insbesondere
-rückversichern, dass die Voraussetzungen nach § 72b Abs. 1 und 2 des
-Arzneimittelgesetzes erfüllt sind. § 32 Abs. 1 Satz 2 bleibt
-unberührt.
+rückversichern, dass die Voraussetzungen nach § 72b Absatz 1 und 2 und
+§ 72c Absatz 1 des Arzneimittelgesetzes erfüllt sind. § 32 Abs. 1 Satz
+2 bleibt unberührt.
 
 (4) Der Transport ist nach vorher festgelegter
 Standardarbeitsanweisung durchzuführen. Das Verfahren muss dem Gewebe
 oder der Gewebezubereitung angemessen sein und die Eigenschaften des
 Gewebes oder der Gewebezubereitung schützen, die für ihre Verwendung
-erforderlich sind sowie das Risiko einer mikrobiellen Verunreinigung
-des Gewebes oder der Gewebezubereitung minimieren.
+erforderlich sind, sowie das Risiko einer Verunreinigung, insbesondere
+einer mikrobiellen Verunreinigung, des Gewebes oder der
+Gewebezubereitung minimieren.
 
 (5) Unbeschadet des § 7 Abs. 3 sind die Transportbehältnisse
 mindestens mit folgenden Angaben zu versehen:
@@ -2648,18 +2984,18 @@ mindestens mit folgenden Angaben zu versehen:
 
 (1) Unbeschadet des § 13c des Transplantationsgesetzes ist in
 Entnahmeeinrichtungen im Sinne des § 20b Abs. 1 des
-Arzneimittelgesetzes die dort in Satz 3 Nr. 1 genannte Person
+Arzneimittelgesetzes die verantwortliche Person nach § 20b
 verantwortlich, dass die betroffenen Gewebeeinrichtungen nach vorher
 erstellter Standardarbeitsanweisung über alle bekannt gewordenen
-schwerwiegenden unerwünschten Reaktionen im Sinne von § 63c Abs. 7 des
-Arzneimittelgesetzes und entsprechende Verdachtsfälle, die die
+schwerwiegenden unerwünschten Reaktionen im Sinne von § 63i Absatz 7
+des Arzneimittelgesetzes und entsprechende Verdachtsfälle, die die
 Qualität und Sicherheit der Gewebe oder Gewebezubereitungen
 beeinflussen oder auf diese zurückgeführt werden können, unverzüglich
 in Kenntnis gesetzt werden. Absatz 3 Satz 2 gilt entsprechend.
 
 (2) Absatz 1 gilt entsprechend für Entnahmeeinrichtungen und für
 Gewebespenderlabore im Falle von schwerwiegenden Zwischenfällen im
-Sinne von § 63c Abs. 6 des Arzneimittelgesetzes und entsprechenden
+Sinne von § 63i Absatz 6 des Arzneimittelgesetzes und entsprechenden
 Verdachtsfällen, die im Zusammenhang mit der Gewinnung oder den für
 die Gewinnung erforderlichen Laboruntersuchungen aufgetreten sind.
 Absatz 3 Satz 2 gilt entsprechend.
@@ -2669,52 +3005,63 @@ des Arzneimittelgesetzes dafür verantwortlich, dass alle bekannt
 gewordenen Meldungen über schwerwiegende unerwünschte Reaktionen nach
 Absatz 1 nach vorher erstellter Standardarbeitsanweisung gesammelt und
 bewertet werden. Die Meldungen sind der zuständigen Bundesoberbehörde
-oder der zuständigen Behörde entsprechend § 63c Abs. 2 oder Abs. 3 des
-Arzneimittelgesetzes unverzüglich zu übermitteln. Satz 1 gilt auch für
-Verdachtsfälle solcher Reaktionen. Dabei muss
+oder der zuständigen Behörde entsprechend § 63i Absatz 2 oder 3 des
+Arzneimittelgesetzes und, soweit der Gewebespender auch Organspender
+ist, der Koordinierungsstelle nach § 11 des Transplantationsgesetzes
+unverzüglich zu übermitteln. Satz 1 gilt auch für Verdachtsfälle
+solcher Reaktionen. Dabei muss
 
-1.  die Erstmeldung alle notwendigen Angaben enthalten, insbesondere zur
-    Identifizierung der Entnahme- und der Gewebeeinrichtung, des
-    Gewebespenderlabors, der betroffenen spendenden Person und der Spende,
-    zum Meldedatum sowie zum Datum der Spendengewinnung und der vermuteten
-    Reaktion, zur Art der an der vermuteten Reaktion beteiligten Gewebe
-    oder Gewebezubereitung und der vermuteten Reaktion sowie den Grad der
-    Wahrscheinlichkeit für einen Zusammenhang zwischen Verabreichung des
-    Gewebes oder der Gewebezubereitung und der Empfängerreaktion,
+1.  die Erstmeldung alle notwendigen Angaben gemäß Anhang III Teil A der
+    Richtlinie 2006/86/EG in der jeweils geltenden Fassung enthalten,
+    insbesondere zur Identifizierung der Entnahme- und der
+    Gewebeeinrichtung, des Gewebespenderlabors, der betroffenen spendenden
+    Person und der Spende, zum Meldedatum sowie zum Datum der
+    Spendengewinnung und der vermuteten Reaktion, zur Art der an der
+    vermuteten Reaktion beteiligten Gewebe oder Gewebezubereitung und der
+    vermuteten Reaktion sowie den Grad der Wahrscheinlichkeit für einen
+    Zusammenhang zwischen Verabreichung des Gewebes oder der
+    Gewebezubereitung und der Empfängerreaktion sowie, sofern vorhanden,
+    den Einheitlichen Europäischen Code gemäß § 4 Absatz 30a des
+    Arzneimittelgesetzes,
 
 
-2.  die Erstmeldung konkretisiert werden, sobald ausreichende Erkenntnisse
-    dafür vorliegen; insbesondere ist anzugeben, ob die Erstmeldung zu
-    bestätigen oder ob und gegebenenfalls in welcher Weise eine Änderung
-    der ersten Einstufung zu vermelden ist; soweit bekannt, sind dabei
-    auch der klinische Verlauf beim Empfänger oder bei der Empfängerin und
-    eventuelle weitere Schlussfolgerungen anzugeben, einschließlich
-    eventueller Korrekturmaßnahmen und Maßnahmen, die in Bezug auf andere
-    betroffene, zur Verwendung beim Menschen ausgelieferte Gewebe und
-    Gewebezubereitungen ergriffen wurden.
+2.  die Erstmeldung gemäß Anhang III Teil B der Richtlinie 2006/86/EG in
+    der jeweils geltenden Fassung konkretisiert werden, sobald
+    ausreichende Erkenntnisse dafür vorliegen; insbesondere ist anzugeben,
+    ob die Erstmeldung zu bestätigen oder ob und gegebenenfalls in welcher
+    Weise eine Änderung der ersten Einstufung zu vermelden ist; soweit
+    bekannt, sind dabei auch der klinische Verlauf beim Empfänger oder bei
+    der Empfängerin und eventuelle weitere Schlussfolgerungen anzugeben,
+    einschließlich eventueller Korrekturmaßnahmen und Maßnahmen, die in
+    Bezug auf andere betroffene, zur Verwendung beim Menschen
+    ausgelieferte Gewebe und Gewebezubereitungen ergriffen wurden.
 
 
 
 
 (4) Absatz 3 Satz 1 bis 3 findet auf schwerwiegende Zwischenfälle im
-Sinne von § 63c Abs. 6 des Arzneimittelgesetzes entsprechende
+Sinne von § 63i Absatz 6 des Arzneimittelgesetzes entsprechende
 Anwendung. Dabei muss:
 
-1.  die Erstmeldung alle notwendigen Angaben enthalten, insbesondere zur
-    Identifizierung der Entnahme- und der Gewebeeinrichtung, des
-    Gewebespenderlabors, der betroffenen Spende, zum Meldedatum und zum
-    Datum des schwerwiegenden Zwischenfalls, ob es sich um Defekte bei dem
-    Gewebe oder der Gewebezubereitung, defekte Ausrüstung oder um
-    menschliches Versagen handelt, und ob der Fehler bei der Gewinnung,
-    der für die Gewinnung erforderlichen Laboruntersuchung, dem Transport
-    zur be- oder verarbeitenden Gewebeeinrichtung, der Be- oder
-    Verarbeitung, der Testung, der Freigabe, der Lagerung, dem Transport,
-    dem Inverkehrbringen oder einer anderen Tätigkeit aufgetreten ist,
+1.  die Erstmeldung alle notwendigen Angaben gemäß Anhang IV Teil A der
+    Richtlinie 2006/86/EG in der jeweils geltenden Fassung enthalten,
+    insbesondere zur Identifizierung der Entnahme- und der
+    Gewebeeinrichtung, des Gewebespenderlabors, der betroffenen Spende,
+    zum Meldedatum und zum Datum des schwerwiegenden Zwischenfalls, ob es
+    sich um Defekte bei dem Gewebe oder der Gewebezubereitung, defekte
+    Ausrüstung oder um menschliches Versagen handelt, und ob der Fehler
+    bei der Gewinnung, der für die Gewinnung erforderlichen
+    Laboruntersuchung, dem Transport zur be- oder verarbeitenden
+    Gewebeeinrichtung, der Be- oder Verarbeitung, der Testung, der
+    Freigabe, der Lagerung, dem Transport, dem Inverkehrbringen oder einer
+    anderen Tätigkeit aufgetreten ist,
 
 
-2.  die Erstmeldung konkretisiert werden, sobald ausreichende Erkenntnisse
-    dafür vorliegen. Insbesondere ist die Hauptursache zu analysieren und
-    über getroffene Korrekturmaßnahmen zu berichten.
+2.  die Erstmeldung gemäß Anhang IV Teil B der Richtlinie 2006/86/EG in
+    der jeweils geltenden Fassung konkretisiert werden, sobald
+    ausreichende Erkenntnisse dafür vorliegen. Insbesondere ist die
+    Hauptursache zu analysieren und über getroffene Korrekturmaßnahmen zu
+    berichten.
 
 
 
@@ -2723,11 +3070,11 @@ Anwendung. Dabei muss:
 dafür verantwortlich, dass Gewebe und Gewebezubereitungen, die von
 Meldungen nach den Absätzen 1 bis 4 betroffen sind oder betroffen sein
 könnten, identifiziert, ausgesondert und zurückgerufen werden können.
-Sie hat nach schriftlich festgelegtem Verfahren die Notwendigkeit
-eines Rückrufs zu bewerten und die nötigen Maßnahmen innerhalb vorher
-festgelegter Zeiträume zu koordinieren sowie die zuständige Behörde
-über jeden Rückruf unverzüglich zu unterrichten und dabei auch
-mitzuteilen, an welche Einrichtungen die Gewebe oder
+Sie hat nach schriftlich oder elektronisch festgelegtem Verfahren die
+Notwendigkeit eines Rückrufs zu bewerten und die nötigen Maßnahmen
+innerhalb vorher festgelegter Zeiträume zu koordinieren sowie die
+zuständige Behörde über jeden Rückruf unverzüglich zu unterrichten und
+dabei auch mitzuteilen, an welche Einrichtungen die Gewebe oder
 Gewebezubereitungen ausgeliefert wurden und welche Maßnahmen sie in
 Bezug auf andere möglicherweise betroffene Gewebe und
 Gewebezubereitungen ergriffen hat. Die Wirksamkeit der Verfahren ist
@@ -2743,8 +3090,8 @@ dabei gewonnenen Erkenntnisse, das Ergebnis der Bewertung, die
 koordinierten Maßnahmen und die Benachrichtigungen sowie den Umgang
 mit zurückgegebenen Gewebe oder Gewebezubereitungen hat die
 verantwortliche Person nach § 20c des Arzneimittelgesetzes
-Aufzeichnungen zu führen. Satz 1 gilt für die Personen nach § 20b Abs.
-1 Satz 3 Nr. 1 des Arzneimittelgesetzes entsprechend.
+Aufzeichnungen zu führen. Satz 1 gilt für die verantwortliche Person
+nach § 20b des Arzneimittelgesetzes entsprechend.
 
 
 ### § 41 Aufbewahrung der Dokumentation
@@ -2757,20 +3104,271 @@ Inverkehrbringen einschließlich der Auslieferung und der endgültigen
 Bestimmung des Gewebes oder der Gewebezubereitung sowie von
 Aufzeichnungen der verantwortlichen Person nach § 20c des
 Arzneimittelgesetzes findet § 15 des Transplantationsgesetzes
-Anwendung.
+Anwendung. Zum Zweck der Rückverfolgbarkeit sind mindestens die
+Angaben nach Anhang VI Teil A der Richtlinie 2006/86/EG in der jeweils
+geltenden Fassung in einem geeigneten Speichermedium mindestens 30
+Jahre aufzubewahren.
 
 (2) Die Aufbewahrung muss unbeschadet des § 14 des
 Transplantationsgesetzes in einem geeigneten Bereich der von der
-Genehmigung nach § 20b oder § 20c des Arzneimittelgesetzes erfassten
-Räume erfolgen. Die Zugriffsberechtigung zu den Aufzeichnungen nach
-Absatz 1 ist durch geeignete Maßnahmen auf dazu befugte Personen
-einzuschränken.
+Erlaubnis nach §§ 20b, 20c, 72b oder 72c Absatz 1 des
+Arzneimittelgesetzes erfassten Räume erfolgen. Die
+Zugriffsberechtigung zu den Aufzeichnungen nach Absatz 1 ist durch
+geeignete Maßnahmen auf dazu befugte Personen einzuschränken.
 
 (3) Für den Fall einer Schließung der Entnahme- oder
 Gewebeeinrichtungen oder der Gewebespenderlabore, in denen die
 Aufbewahrung der Dokumentation nach Absatz 1 erfolgt, hat der
 pharmazeutische Unternehmer Vorsorge zu treffen, dass die
 Dokumentation während der gesamten Aufbewahrungszeit vorgehalten wird.
+Ist kein pharmazeutischer Unternehmer vorhanden, hat der
+Erlaubnisinhaber die Vorsorge nach Satz 1 zu treffen.
+
+
+## Abschnitt 5b - Ergänzende Vorschriften für die Kodierung von Gewebe und Gewebezubereitungen
+
+
+
+### § 41a Europäisches Kodierungssystem für Gewebe und Gewebezubereitungen
+
+(1) Gewebe oder Gewebezubereitungen, die zum Zweck der Anwendung beim
+Menschen in Verkehr gebracht werden, müssen mit einem Einheitlichen
+Europäischen Code gekennzeichnet sein.
+
+(2) Eine Freigabe zum Inverkehrbringen von Geweben oder
+Gewebezubereitungen nach Absatz 1 darf nur erfolgen, wenn die
+Endverpackung mit dem Einheitlichen Europäischen Code gekennzeichnet
+ist. Bei Geweben oder Gewebezubereitungen, die für einen anderen als
+den in Absatz 1 genannten Zweck in Verkehr gebracht werden, müssen die
+Kennzeichnung des Gewebes oder der Gewebezubereitung und das
+Begleitdokument zumindest die Spendenkennungssequenz enthalten.
+
+(3) Die Absätze 1 und 2 gelten nicht für
+
+1.  Keimzellen aus Partnerspenden und imprägnierte Eizellen aus
+    Partnerspenden,
+
+
+2.  Gewebe oder Gewebezubereitungen, die von der Gewinnung bis zur
+    Anwendung innerhalb derselben Einrichtung verbleiben,
+
+
+3.  Gewebezubereitungen, die aus Staaten eingeführt wurden, die weder
+    Mitgliedstaaten der Europäischen Union noch andere Vertragsstaaten des
+    Abkommens über den Europäischen Wirtschaftsraum sind, sofern sie von
+    der Einfuhr bis zur Anwendung beim Menschen innerhalb derselben
+    Einrichtung verbleiben und die Einrichtung eine Erlaubnis für die
+    Einfuhr dieser Gewebe oder Gewebezubereitungen nach § 72 Absatz 1 oder
+    Absatz 2, § 72b Absatz 1 oder § 72c Absatz 1 des Arzneimittelgesetzes
+    hat, und
+
+
+4.  Gewebezubereitungen, die aufgrund eines Notfalls eingeführt werden;
+    Notfall ist eine unvorhergesehene Situation, in der es keine andere
+    Möglichkeit gibt, als schnellstmöglich eine Gewebezubereitung
+    einzuführen, um diese unverzüglich bei einer bestimmten Person
+    anzuwenden, deren Gesundheit ohne eine solche Einfuhr erheblich
+    gefährdet wäre.
+
+
+
+Innerhalb derselben Einrichtung nach Satz 1 Nummer 2 und 3 bedeutet,
+dass alle Tätigkeiten von der Gewinnung oder der Einfuhr bis zur
+Anwendung beim Menschen unter der Verantwortung derselben
+verantwortlichen Person und im Rahmen desselben Systems für das
+Qualitätsmanagement und desselben Systems für die Rückverfolgbarkeit
+in einer Einrichtung der Krankenversorgung durchgeführt werden.
+Unbeschadet von Satz 1 können Einrichtungen diese Gewebe und
+Gewebezubereitungen mit der Spendenkennungssequenz oder mit dem
+Einheitlichen Europäischen Code kennzeichnen.
+
+
+### § 41b Bestimmungen für die Verwendung des Einheitlichen Europäischen Codes; Meldepflichten
+
+(1) Sofern Gewebe oder Gewebezubereitungen gemäß § 41a mit einem
+Einheitlichen Europäischen Code zu kennzeichnen sind, sind
+Gewebespenden unbeschadet des § 34 Absatz 6 zum Zeitpunkt ihrer
+Entnahme mit einer eindeutigen Spendennummer zu kennzeichnen. Die
+Entnahmeeinrichtung legt das Zuteilungssystem, das für die
+Kennzeichnung mit der eindeutigen Spendennummer erforderlich ist, in
+einer vorher erstellten Standardarbeitsanweisung fest. Sie ergänzt die
+eindeutige Spendennummer mit ihrem EU-Gewebeeinrichtungs-Code gemäß §
+4 Absatz 30b des Arzneimittelgesetzes zu einer Spendenkennungssequenz.
+Der an die Gewebeeinrichtung zu übermittelnde Entnahmebericht ist mit
+der Spendenkennungssequenz zu versehen.
+
+(2) Bei einer Entnahmeeinrichtung, die gemäß § 20b Absatz 2 oder § 14
+Absatz 4 des Arzneimittelgesetzes für ihre Tätigkeiten keiner
+Erlaubnis bedarf, hat die vertraglich verbundene Gewebeeinrichtung
+sicherzustellen, dass die Entnahmeeinrichtung ein geeignetes
+Zuteilungssystem für die eindeutige Spendennummer verwendet. Absatz 1
+Satz 1 und 2 gilt entsprechend. Der an die Gewebeeinrichtung zu
+übermittelnde Entnahmebericht ist von der Entnahmeeinrichtung mit der
+eindeutigen Spendennummer zu versehen.
+
+(3) Die Gewebeeinrichtung, die eine Gewebespende von einer
+Entnahmeeinrichtung nach Absatz 2 erhalten hat, ergänzt die eindeutige
+Spendennummer mit ihrem EU-Gewebeeinrichtungs-Code zu einer
+Spendenkennungssequenz.
+
+(3a) Bei gepoolten Gewebezubereitungen teilt die Gewebeeinrichtung der
+endgültigen Gewebezubereitung vor der Freigabe zum Inverkehrbringen
+eine neue Spendenkennungssequenz zu. Gepoolte Gewebezubereitungen sind
+Gewebezubereitungen, bei denen sich in ein und demselben Behältnis
+nebeneinander oder vermischt Gewebe oder Zellen aus mehr als einer
+Spende befinden. Die Spenden wurden zu unterschiedlichen Zeitpunkten
+entnommen und können von einem Spender oder von mehreren Spendern
+stammen. Die Gewebeeinrichtung gewährleistet die Rückverfolgbarkeit zu
+den einzelnen Spenden. Sie legt das Zuteilungssystem, das für die
+Rückverfolgbarkeit zu den einzelnen Spenden erforderlich ist, in einer
+vorher von ihr erstellten Standardarbeitsanweisung fest.
+
+(4) Gewebe oder Gewebezubereitungen, die aus Staaten eingeführt
+werden, die weder Mitgliedstaaten der Europäischen Union noch andere
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+sind, sind von der einführenden Gewebeeinrichtung mit der
+Spendenkennungssequenz zu kennzeichnen.
+
+(5) Die Gewebeeinrichtung kennzeichnet Gewebe oder Gewebezubereitungen
+spätestens vor der Freigabe zum Inverkehrbringen zur Anwendung beim
+Menschen mit dem Einheitlichen Europäischen Code. Die Kennzeichnung
+mit dem Einheitlichen Europäischen Code ist wie folgt vorzunehmen:
+
+1.  die von der Entnahmeeinrichtung nach Absatz 1 oder von der
+    Gewebeeinrichtung nach Absatz 3 oder Absatz 4 zugeteilte
+    Spendenkennungssequenz wird als erster Teil des Einheitlichen
+    Europäischen Codes verwendet,
+
+
+2.  die Gewebeeinrichtung legt das für die Produktkennungssequenz
+    verwendete Produktkodierungssystem in einer Standardarbeitsanweisung
+    fest,
+
+
+3.  für den zweiten Teil des Einheitlichen Europäischen Codes wird aus dem
+    EU-Kompendium der Gewebe- und Zellprodukte gemäß § 4 Absatz 30d des
+    Arzneimittelgesetzes mit dem festgelegten Produktkodierungssystem die
+    Produktnummer für das Gewebe oder die Gewebezubereitung ermittelt und
+    mit der Kennung des Produktkodierungssystems zum Produktcode als
+    ersten Teil der Produktkennungssequenz vervollständigt,
+
+
+4.  die Produktkennungssequenz wird durch eine geeignete Splitnummer und
+    das Verfallsdatum vervollständigt; bei Geweben oder
+    Gewebezubereitungen, für die kein Verfallsdatum erforderlich ist, ist
+    spätestens vor ihrem Inverkehrbringen zur Anwendung beim Menschen als
+    Verfallsdatum „00000000“ anzugeben.
+
+
+
+Der Einheitliche Europäische Code wird unlöschbar auf dem Etikett des
+Gewebes oder der Gewebezubereitung dauerhaft angebracht. Dieser
+Einheitliche Europäische Code wird außerdem in dem Begleitdokument
+nach § 36 Absatz 8 Satz 1 vermerkt. Kann der Einheitliche Europäische
+Code aus Platzmangel nicht auf dem Etikett untergebracht werden, muss
+er durch das Begleitdokument eindeutig den mit diesem Etikett
+verpackten Geweben oder Gewebezubereitungen zuzuordnen sein.
+
+(6) Die Spendenkennungssequenz darf nach der Freigabe zum
+Inverkehrbringen der Gewebe oder Gewebezubereitungen nicht mehr
+geändert werden. Dies gilt nicht für die Berichtigung eines
+Kodierungsfehlers. Jede Berichtigung ist vollständig zu dokumentieren.
+
+
+### § 41c Kodierung in anderen Fällen und sonstige Pflichten der Gewebeeinrichtungen
+
+(1) Werden Gewebe oder Gewebezubereitungen, die nach § 41a der Pflicht
+zur Kodierung unterliegen, von einer Gewebeeinrichtung zu anderen
+Zwecken als der Anwendung beim Menschen in Verkehr gebracht, so sind
+die Gewebe oder Gewebezubereitungen und das Begleitdokument vor der
+Freigabe zum Inverkehrbringen zumindest mit der Spendenkennungssequenz
+zu kennzeichnen. Die Produktkennungssequenz wird in diesem Fall von
+einer nachfolgenden Gewebeeinrichtung spätestens vor der Freigabe zum
+Inverkehrbringen zur Anwendung beim Menschen nach § 41b Absatz 5
+ergänzt. Sofern die Produktkennungssequenz bereits vorhanden ist, aber
+aufgrund einer Veränderung des Gewebes oder der Gewebezubereitung
+nicht mehr zutreffend ist, aktualisiert die nachfolgende
+Gewebeeinrichtung den Produktcode entsprechend dem von ihr
+festgelegten Produktkodierungssystem und ergänzt diesen, sofern
+erforderlich, durch eine geeignete Splitnummer und das Verfallsdatum
+zu einer neuen Produktkennungssequenz.
+
+(2) Die Einrichtungen informieren die zuständige Behörde, wenn
+
+1.  Angaben im EU-Kompendium der Gewebeeinrichtungen nach § 4 Absatz 30c
+    des Arzneimittelgesetzes aktualisiert oder berichtigt werden müssen,
+
+
+2.  Angaben im EU-Kompendium der Gewebe- und Zellprodukte nach § 4 Absatz
+    30d des Arzneimittelgesetzes aktualisiert werden müssen oder
+
+
+3.  die Gewebeeinrichtung bei Geweben und Gewebezubereitungen, die sie von
+    anderen Einrichtungen in der Europäischen Union erhält, einen
+    erheblichen Verstoß gegen die Bestimmungen über den Einheitlichen
+    Europäischen Code feststellt.
+
+
+
+
+(3) Ist der Einheitliche Europäische Code nicht vorschriftsmäßig auf
+dem Etikett angebracht, so treffen die Gewebeeinrichtungen die
+erforderlichen Maßnahmen, damit die Anforderungen des § 41b und des
+Absatzes 1 Satz 2 und 3 erfüllt werden.
+
+
+### § 41d Format des Einheitlichen Europäischen Codes
+
+(1) Der Einheitliche Europäische Code muss die folgenden Anforderungen
+erfüllen:
+
+1.  der Einheitliche Europäische Code wird in visuell lesbarer Form
+    angezeigt; ihm ist das Akronym „SEC“ vorangestellt;
+
+
+2.  der Einheitliche Europäische Code wird mit der Spendenkennungssequenz
+    und der Produktkennungssequenz, getrennt durch eine Leerstelle oder in
+    zwei aufeinanderfolgenden Zeilen, gedruckt.
+
+
+
+
+(2) Andere Systeme für die Kennzeichnung und Rückverfolgbarkeit können
+zusätzlich verwendet werden.
+
+
+## Abschnitt 5c - Sondervorschriften für Einrichtungen mit einer Erlaubnis nach § 13 des Arzneimittelgesetzes oder § 72 des Arzneimittelgesetzes
+
+
+
+### § 41e Ergänzende Anforderungen an die Gewebevigilanz
+
+Die Vorschriften des Abschnitts 5b gelten entsprechend für
+Einrichtungen, die Tätigkeiten mit Geweben oder Gewebezubereitungen
+oder mit hämatopoetischen Stammzellen oder Stammzellzubereitungen aus
+dem peripheren Blut oder dem Nabelschnurblut durchführen und dabei der
+Erlaubnispflicht nach § 13 Absatz 1 des Arzneimittelgesetzes oder § 72
+Absatz 1 des Arzneimittelgesetzes unterliegen. § 40 Absatz 3 und 4 und
+§ 41 gelten entsprechend mit der Maßgabe, dass die dort genannten
+Verpflichtungen der verantwortlichen Person nach § 20c des
+Arzneimittelgesetzes von der oder dem Stufenplanbeauftragten zu
+erfüllen sind.
+
+
+### § 41f Ergänzende Anforderungen zur Kennzeichnung
+
+Unbeschadet der Anforderungen des § 10 Absatz 8b des
+Arzneimittelgesetzes ist für Gewebezubereitungen § 36 Absatz 8
+entsprechend anzuwenden.
+
+
+### § 41g Ergänzende Anforderungen zur Einfuhr
+
+Für die Einfuhr von Gewebezubereitungen nach § 72 Absatz 1 des
+Arzneimittelgesetzes aus Staaten, die weder Mitgliedstaaten der
+Europäischen Union noch andere Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum sind, gilt § 32 Absatz 1 Satz 1 Nummer 7
+und Absatz 2a entsprechend.
 
 
 ## Abschnitt 6 - Ordnungswidrigkeiten
@@ -2782,35 +3380,50 @@ Dokumentation während der gesamten Aufbewahrungszeit vorgehalten wird.
 Ordnungswidrig im Sinne des § 97 Abs. 2 Nr. 31 des
 Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 16 Abs. 1 oder § 25 Abs. 1 eine Charge oder einen Wirkstoff
+1.  entgegen § 13 Absatz 3a Sicherheitsmerkmale teilweise oder vollständig
+    entfernt oder überdeckt, ohne sich vorher von der Echtheit des
+    Arzneimittels zu überzeugen oder diese durch solche ersetzt, die nicht
+    in gleichwertiger Weise die Prüfung auf Echtheit und Unversehrtheit
+    der äußeren Umhüllung erlauben,
+
+
+2.  entgegen § 16 Abs. 1 oder § 25 Abs. 1 eine Charge oder einen Wirkstoff
     nicht menschlicher Herkunft zum Inverkehrbringen freigibt,
 
 
-2.  entgegen § 17 Abs. 1 Satz 1 oder § 26 Abs. 1 Satz 1 ein dort genanntes
+3.  entgegen § 17 Abs. 1 Satz 1 oder § 26 Abs. 1 Satz 1 ein dort genanntes
     Produkt ohne vorherige Freigabe in den Verkehr bringt,
 
 
-3.  entgegen § 18 Abs. 1 Satz 1 oder Abs. 2 Satz 1 nicht sicherstellt,
+4.  entgegen § 18 Abs. 1 Satz 1 oder Abs. 2 Satz 1 nicht sicherstellt,
     dass ein dort genanntes Rückstellmuster aufbewahrt wird,
 
 
-4.  entgegen § 18 Abs. 3 Satz 1 nicht sicherstellt, dass ein dort
+5.  entgegen § 18 Abs. 3 Satz 1 nicht sicherstellt, dass ein dort
     genanntes Muster aufbewahrt wird,
 
 
-5.  entgegen § 30 Abs. 1 ein Mischfuttermittel verwendet,
+5a. entgegen § 19 Absatz 2 die zuständige Behörde oder den
+    Zulassungsinhaber nicht oder nicht rechtzeitig informiert,
 
 
-6.  entgegen § 30 Abs. 4 ein Fütterungsarzneimittel in Verkehr bringt,
+6.  entgegen § 30 Abs. 1 ein Mischfuttermittel verwendet,
 
 
-7.  entgegen § 30 Abs. 7 Satz 3 eine Verschreibung nicht, nicht richtig,
-    nicht vollständig oder nicht rechtzeitig ergänzt oder
+7.  entgegen § 30 Abs. 4 ein Fütterungsarzneimittel in Verkehr bringt,
 
 
-8.  entgegen § 30 Abs. 7 Satz 4 das Original nicht oder nicht mindestens
+8.  entgegen § 30 Abs. 7 Satz 3 eine Verschreibung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig ergänzt,
+
+
+9.  entgegen § 30 Abs. 7 Satz 4 das Original nicht oder nicht mindestens
     fünf Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt und
-    nicht oder nicht rechtzeitig aushändigt.
+    nicht oder nicht rechtzeitig aushändigt oder
+
+
+10. entgegen § 31a Absatz 1 Satz 1 eine Aufzeichnung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig fertigt.
 
 
 
@@ -2820,12 +3433,24 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-### § 43 Übergangsregelung
+### § 43 Übergangsvorschrift aus Anlass des Gesetzes zur Umsetzung der Richtlinien (EU) 2015/566 und (EU) 2015/565 zur Einfuhr und zur Kodierung menschlicher Gewebe und Gewebezubereitungen
 
-Diese Verordnung findet keine Anwendung auf Wirkstoffe, die zum
-Zeitpunkt des Inkrafttretens dieser Verordnung im Geltungsbereich des
-Arzneimittelgesetzes gelagert oder aufgrund einer bestehenden
-vertraglichen Verpflichtung bezogen werden und die bis zum 9. November
-2008 in Staaten außerhalb der Europäischen Union oder des Europäischen
-Wirtschaftsraums ausgeführt werden.
+(1) Auf Gewebe, Gewebezubereitungen sowie hämatopoetische Stammzellen
+und Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut, die bereits am 29. Oktober 2016 gelagert sind und die
+bis zum 28. Oktober 2021 in den Verkehr gebracht werden, sind § 20
+Absatz 3, § 31 Absatz 4a und 8a Satz 2, § 31 Absatz 14 und Abschnitt
+5b nicht anzuwenden und sind § 34 Absatz 6 Satz 1 und Absatz 7 Satz 2,
+§ 40 Absatz 3 Satz 4 und Absatz 4 Satz 2 und § 41 Absatz 1 in der
+jeweils bis zum 25. November 2016 geltenden Fassung bis zum 28.
+Oktober 2021 weiter anzuwenden. Sofern diese Gewebe, diese
+Gewebezubereitungen oder diese hämatopoetischen Stammzellen oder
+Stammzellzubereitungen aus dem peripheren Blut oder aus dem
+Nabelschnurblut nicht bis zum 28. Oktober 2021 in den Verkehr gebracht
+werden und bei ihnen der Einheitliche Europäische Code nicht
+angebracht werden kann, sind sie nach § 41b Absatz 5 Satz 4 zu
+kennzeichnen.
+
+(2) § 31 Absatz 8a Satz 2 und Abschnitt 5b sind ab dem 29. April 2017
+anzuwenden.
 

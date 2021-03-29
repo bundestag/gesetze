@@ -3,7 +3,7 @@ Title: Erlaß über die Ermächtigung des Präsidenten der Deutschen Reichsbank 
   von ständigen Vertretern
 jurabk: RBkPräsErl
 layout: default
-origslug: rbkpr_serl
+origslug: rbkpraeserl
 slug: rbkpraeserl
 
 ---

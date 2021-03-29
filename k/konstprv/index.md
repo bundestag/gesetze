@@ -2021,8 +2021,9 @@ Wiederholungsprüfung anmeldet.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 7 Abs. 3)
 
-## Anlage (zu § 7 Abs. 3) Muster
+## Anlage Muster
 
 (Inhalt: nicht erfaßtes Muster eines Zeugnisses
 Fundstelle: BGBl. I 1994, 1160 - 1161)

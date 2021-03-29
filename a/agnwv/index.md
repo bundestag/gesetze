@@ -134,8 +134,7 @@ Die Vorschriften dieser Verordnung gelten nicht, wenn der Agent ein im
 Inland oder in einem anderen Mitgliedstaat der Europäischen Union oder
 einem anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum beaufsichtigtes Kredit-,
-E-Geld-,              Finanzdienstleistungs- oder Zahlungsinstitut
-ist.
+E-Geld-, Finanzdienstleistungs- oder Zahlungsinstitut ist.
 
 
 ## § 4 Inkrafttreten

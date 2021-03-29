@@ -4,7 +4,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 22. Januar 1965 zur Verhü
   gesendet werden
 jurabk: EuRFVerhÜbkG
 layout: default
-origslug: eurfverh_bkg
+origslug: eurfverhuebkg
 slug: eurfverhuebkg
 
 ---

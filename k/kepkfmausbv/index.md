@@ -341,8 +341,9 @@ Ausbildungsjahr fortgeführt wird.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 873 - 876)
 
@@ -1028,8 +1029,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Kaufmann für Kurier-, Express- und Postdienstleistungen/zur Kauffrau für Kurier-, Express- und Postdienstleistungen - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 877 - 878)
 

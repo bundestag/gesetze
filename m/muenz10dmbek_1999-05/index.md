@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "50 Jahre Grundgesetz der Bundesrepublik Deutschland")
 jurabk: Münz10DMBek 1999-05
 layout: default
-origslug: m_nz10dmbek_1999-05
+origslug: muenz10dmbek_1999-05
 slug: muenz10dmbek_1999-05
 
 ---

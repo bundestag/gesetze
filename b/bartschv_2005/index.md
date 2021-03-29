@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 258 (896)
 
 Zuletzt geändert durch
-:   Art. 3 V v. 3.10.2012 I 2108
+:   Art. 10 G v. 21.1.2013 I 95
 
 
 ## Abschnitt 1 - Unterschutzstellung, Ausnahmen und Verbote
@@ -203,10 +203,9 @@ Ausnahmen von den Verboten des Absatzes 1 zulassen, soweit dies
 erforderlich ist, der Bestand und die Verbreitung der betreffenden
 Population oder Art dadurch nicht nachteilig beeinflusst wird und
 sonstige Belange des Artenschutzes, insbesondere Artikel 9 Abs. 1 der
-Richtlinie 79/409/EWG des Rates vom 2. April 1979 über die Erhaltung
-der wild lebenden Vogelarten (ABl. L 103 vom 25.4.1979, S. 1), die
-zuletzt durch die Richtlinie 2008/102/EG (ABl. L 323 vom 3.12.2008, S.
-31) geändert worden ist, und Artikel 16 Abs. 1 der Richtlinie 92/43/
+Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom
+30\. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl.
+L 20 vom 26.1.2010, S. 7) und Artikel 16 Abs. 1 der Richtlinie 92/43/
 EWG des Rates nicht entgegenstehen.
 
 (4) Artikel 2 der Verordnung (EWG) Nr. 3254/91 des Rates vom 4.
@@ -687,8 +686,10 @@ Die nach Landesrecht zuständigen Behörden können nach § 2 Abs. 1 Satz
 14 Abs. 1 Satz 2 unter den jeweils genannten Voraussetzungen Ausnahmen
 auch allgemein zulassen.
 
+(zu § 1)
+Schutzstatus wild lebender Tier- und Pflanzenarten \*)
 
-### Anlage 1 (zu § 1) Schutzstatus wild lebender Tier- und Pflanzenarten Erläuterungen zur Anlage 1
+### Anlage 1 Erläuterungen zur Anlage 1
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 264 - 285;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -7449,8 +7450,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 2 Abs. 3 Nr. 2)
 
-### Anlage 2 (zu § 2 Abs. 3 Nr. 2) Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
+### Anlage 2 Liste der Tier- und Pflanzenarten, die als gezüchtete Tiere oder künstlich vermehrte Pflanzen von den Besitz- und Vermarktungsverboten des § 44 Absatz 2 Satz 1 des Bundesnaturschutzgesetzes sowie den Vorschriften der §§ 6, 7 und 12 freigestellt sind
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 286 - 288;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -8074,8 +8076,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 5 Nr. 2)
 
-### Anlage 3 (zu § 5 Nr. 2) Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
+### Anlage 3 Ohne weiteres erkennbare Teile von Tieren und Pflanzen wild lebender Arten sowie ohne weiteres erkennbar aus ihnen gewonnene Erzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8122,8 +8125,10 @@ gelten:
 
 
 
+(zu § 6 Abs. 1 Satz 2)
+Muster für das Aufnahme- und Auslieferungsbuch
 
-### Anlage 4 (zu § 6 Abs. 1 Satz 2) Muster für das Aufnahme- und Auslieferungsbuch nach § 6 Abs. 1 Satz 2
+### Anlage 4 nach § 6 Abs. 1 Satz 2
 
 Fundstelle des Originaltextes: BGBl. I 2005, 289
 
@@ -8146,8 +8151,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
 
 
+(zu § 7 Abs. 2)
 
-### Anlage 5 (zu § 7 Abs. 2) Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
+### Anlage 5 Von der Anzeigepflicht des § 7 Abs. 2 ausgenommene Arten
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 290 - 291)
 
@@ -8582,15 +8588,11830 @@ Fundstelle des Originaltextes: BGBl. I 2005, 289
 
 
 
+(zu § 12 Satz 1 und
 
-### Anlage 6 (zu § 12 Satz 1 und § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
+### Anlage 6 § 13 Abs. 1 Satz 1, 6 und 9 und Abs. 2 Satz 2) Kennzeichnungsmethoden
 
-Fundstelle des Originaltextes: BGBl. I 2005, 292 - 316
+(Fundstelle: BGBl. I 2005, 292 - 316)
 
-(Inhalt: nicht darstellbare Tabelle)
+## **Kennzeichnungsmethoden**
 
 
-### Anlage 7 (zu § 15 Abs. 3 Satz 1) Anforderungen an die Beschriftung von Ringen
+*    *   Wissenschaftlicher Name
+
+    *   Deutscher Name
+
+    *   Geschlos-
+        sener Ring
+
+    *   Ring-
+        größe
+
+    *   Trans-
+        ponder
+
+    *   Doku-
+        mentation
+
+    *   Sonstige
+        Kenn-
+        zeichen
+
+
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *   **Mammalia**
+
+    *   **Säugetiere**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Acerodon jubatus
+
+    *   Luzon-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Acerodon lucifer
+
+    *   Panay-Riesenflughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Acinonyx jubatus
+
+    *   Gepard
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_1]
+   +
+[^BJNR025810005BJNE002300000_2]
+
+    *
+
+*    *   Addax nasomaculatus
+
+    *   Addax oder Mendesantilope
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Ailuropoda melanoleuca
+
+    *   Riesen-Panda
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ailurus fulgens
+
+    *   Kleiner Panda
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Allocebus trichotis
+
+    *   Büschelohriger Katzenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Alouatta coibensis
+
+    *   Brüllaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Alouatta palliata
+
+    *   Mantelbrüllaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Alouatta pigra
+
+    *   Guatemala-Brüllaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Antilocapra americana
+
+    *   Niederkalifornischer Gabelbock
+
+    *
+    *
+    *
+    *
+    *
+
+*    *[^BJNR025810005BJNE002300000_16]
+   Aonyx congicus
+
+    *   Kleinkrallenotter
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Arctocephalus philippii
+
+    *   Juan Fernandez-Seebär
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Arctocephalus townsendi
+
+    *   Guadeloupe-Seebär
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ateles geoffroyi frontatus
+
+    *   Schwarzbrauen-Geoffroy-Klammeraffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ateles geoffroyi panamensis
+
+    *   Panama-Klammeraffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Axis kuhlii
+
+    *   Bawean-Schweinshirsch, Kuhlhirsch
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Axis porcinus annamiticus
+
+    *   Hinterindischer Schweinshirsch
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Axis calamianensis
+
+    *   Calamian-Schweinshirsch
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Babyrousa babyrussa
+
+    *   Hirscheber
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Bettongia penicillata
+
+    *   Pinselschwanz-Bürstenkänguruh, Ogilby- Bürstenkänguruh
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Bettongia spp.
+
+    *   Bürstenkänguruhs
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Blastocerus dichotomus
+
+    *   Sumpfhirsch
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Bos gaurus
+
+    *   Gaur
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bos mutus
+
+    *   Wildyak, Grunzochse
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bos sauveli
+
+    *   Kouprey
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Brachyteles arachnoides
+
+    *   Spinnenaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bubalus depressicornis
+
+    *   Tieflandanoa, Gemsbüffel
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Bubalus mindorensis
+
+    *   Tamarau, Mindorobüffel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Bubalus quarlesi
+
+    *   Berganoa
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cacajao calvus
+
+    *   Roter Uakari
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cacajao melanocephalus
+
+    *   Schwarzer Uakari
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cacajao spp.
+
+    *   Uakaris, Kurzschwanzaffen
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Callicebus personatus
+
+    *   Springaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Callimico goeldii
+
+    *   Goeldi-Springtamarin
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Callithrix aurita
+
+    *   Weißohrseidenäffchen
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Callithrix flaviceps
+
+    *   Gelbkopfbüschelseidenäffchen
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Caloprymnus campestris
+
+    *   Nacktbrust-Känguruh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Canis lupus
+
+    *   Wolf
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Canis simensis
+
+    *   Abessinischer Fuchs
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Capra falconeri
+
+    *   Schraubenziege
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Caprolagus hispidus
+
+    *   Borstenkaninchen
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Caracal caracal
+
+    *   Karakal, Wüstenluchs
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Castor canadensis
+
+    *   Amerikanischer Biber
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Catagonus wagneri
+
+    *   Chaco-Pekari
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Catopuma temminckii
+
+    *   Asiatische Goldkatze
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cephalophus jentinki
+
+    *   Jentinducker
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cephalorhynchus commersonii
+
+    *   Emmerson-Delphin, Jacobita
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Cercocebus galeritus
+
+    *   Tana-Haubenmangabe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cercopithecus diana
+
+    *   Dianameerkatze
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cercopithecus solatus
+
+    *   Gabun-Meerkatze
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cervus duvaucelii
+
+    *   Barasingha
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cervus elaphus hanglu
+
+    *   Kaschmirhirsch
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cervus eldii
+
+    *   Leierhirsch
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cetacea spp.
+
+    *   Wale
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Chaeropus ecaudatus
+
+    *   Schweinsfuß
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cheirogaleidae spp.
+
+    *   Katzenmakis
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cheirogaleus major
+
+    *   Großer Katzenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Cheirogaleus medius
+
+    *   Mittlerer Katzenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Chinchilla brevicaudata
+
+    *   Kurzschwanz-Chinchilla
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Chinchilla lanigera
+
+    *   Langschwanz-Chinchilla
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Chinchilla spp.
+
+    *   Chinchillas
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Chiropotes albinasus
+
+    *   Weißnasensaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Colobus satanas
+
+    *   Schwarzer Colobus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Cynomys mexicanus
+
+    *   Mexikanischer Präriehund
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Dama mesopotamica
+
+    *   Mesopotamischer Damhirsch
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Daubentonia madagascariensis
+
+    *   Fingertier
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Delphinapterus leucas
+
+    *   Weißwal, Beluga
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Dugong dugong
+
+    *   Dugong, Pazifische Seekuh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Elephas maximus
+
+    *   Asiatischer Elefant
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *[^BJNR025810005BJNE002300000_9]
+   +
+
+
+*    *   Enhydra lutris nereis
+
+    *   Seeotter
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Equus africanus
+
+    *   Afrikanischer Wildesel
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_7]
+   +
+
+    *
+
+*    *   Equus grevyi
+
+    *   Grevyzebra
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Equus hemionus hemionus
+
+    *   Dschiggetai
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Equus kiang
+
+    *   Kiang
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Equus onager khur
+
+    *   Indischer Halbesel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Equus przewalskii
+
+    *   Przewalskipferd
+
+    *
+    *
+    *   +
+
+    *
+    *   +
+
+
+*    *   Equus zebra zebra
+
+    *   Kap-Bergzebra
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Eulemur coronatus
+
+    *   Kronenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Eulemur fulvus
+
+    *   Brauner Lemur
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Eulemur macaco
+
+    *   Mohrenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Eulemur mongoz
+
+    *   Mongozmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Eulemur rubriventer
+
+    *   Rotbauchmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Felis nigripes
+
+    *   Schwarzfußkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Felis silvestris
+
+    *   Wildkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gazella dama
+
+    *   Damagazelle
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gorilla gorilla
+
+    *   Gorilla
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_3]
+   +
+
+    *
+
+*    *   Hapalemur aureus
+
+    *   Goldener Bambuslemur
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hapalemur griseus
+
+    *   Grauer Halbmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hapalemur simus
+
+    *   Großer Halbmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Helarctos malayanus
+
+    *   Malayenbär
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Herpailurus yaguarondi
+
+    *   Wieselkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Hippocamelus spp.
+
+    *   Andenhirsche
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hippotragus niger variani
+
+    *   Riesen-Rappenantilope
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hylobates agilis
+
+    *   Ungka
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates concolor
+
+    *   Schwarzer Schopfgibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates gabriellae
+
+    *   Gelbwangen-Schopf-gibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates lar
+
+    *   Lar, Weißhandgibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates leucogenys
+
+    *   Weißwangen-Schopf-gibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates moloch
+
+    *   Silbergibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates muelleri
+
+    *   Borneo-Silbergibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates pileatus
+
+    *   Kappengibbon
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobates syndactylus
+
+    *   Siamang
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Hylobatidae spp.
+
+    *   Gibbons
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hystrix cristata
+
+    *   Stachelschwein
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Indridae spp.
+
+    *   Indriartige
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Inia geoffrensis
+
+    *   Orinoko-Flussdelphin
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Lagorchestes hirsutus
+
+    *   Zottelhasen-Känguruh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lagostrophus fasciatus
+
+    *   Bänder-Känguruh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lagothrix flavicauda
+
+    *   Gelbschwanzwollaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lasiorhinus krefftii
+
+    *   Moonie-Wombat
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lemur catta
+
+    *   Katta
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Lemuridae spp.
+
+    *   Lemuren
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Leontopithecus chrysomelas
+
+    *   Goldkopf-Löwenäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *[^BJNR025810005BJNE002300000_8]
+   +
+
+
+*    *   Leontopithecus rosalia
+
+    *   Goldgelbes Löwenäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *   +
+
+
+*    *   Leontopithecus spp.
+
+    *   Löwenäffchen
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Leopardus pardalis
+
+    *   Ozelot
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Leopardus tigrinus
+
+    *   Tigerkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Leopardus wiedii
+
+    *   Langschwanzkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Leporillus conditor
+
+    *   Langohr-Häschenratte
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lontra felina
+
+    *   Meerotter
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lontra longicaudis
+
+    *   Südamerika-Fischotter
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Lontra provocax
+
+    *   Südlicher Flussotter
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Loxodonta africana
+
+    *   Afrikanischer Elefant
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Lutra lutra
+
+    *   Eurasischer Fischotter
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Lynx lynx
+
+    *   Luchs
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Lynx pardinus
+
+    *   Pardelluchs
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Macaca silenus
+
+    *   Wanderu, Bartaffe
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Macrotis lagotis
+
+    *   Großer Kaninchennasenbeutler
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Macrotis leucura
+
+    *   Kleiner Kaninchennasenbeutler
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Mandrillus leucophaeus
+
+    *   Drill
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Mandrillus sphinx
+
+    *   Mandrill
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Megaladapidae spp.
+
+    *   Wieselmakis
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Megamuntiacus vuquanghensis
+
+    *   Riesenmuntjak
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Melursus ursinus
+
+    *   Lippenbär
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Monachus spp.
+
+    *   Mönchsrobben
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Moschus spp.
+
+    *   Moschustiere
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Muntiacus crinifrons
+
+    *   Schwarzer Muntjak
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Mustela nigripes
+
+    *   Schwarzfußiltis
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Naemorhedus baileyi
+
+    *   Goral
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Naemorhedus caudatus
+
+    *   Langschwanz-Goral
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Naemorhedus goral
+
+    *   Goral, Waldziegenantilope
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Naemorhedus sumatraensis
+
+    *   Seran
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Nasalis concolor
+
+    *   Pageh-Stumpfnasenaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Nasalis larvatus
+
+    *   Nasenaffe
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Neofelis nebulosa
+
+    *   Nebelparder
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Oncifelis geoffroyi
+
+    *   Geoffroy-Katze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Onychogalea fraenata
+
+    *   Zügel-Känguruh, Kurznagel-Känguruh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Onychogalea lunata
+
+    *   Mondnagel-Känguruh
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Orcinus orca
+
+    *   Schwertwal
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Oreailurus jacobita
+
+    *   Bergkatze
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Oryx dammah
+
+    *   Säbelantilope
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Oryx leucoryx
+
+    *   Weiße Oryx
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_10]
+   +
+
+    *
+
+*    *   Ovis ammon hodgsonii
+
+    *   Himalayaschaf
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ovis ammon nigrimontana
+
+    *   Kara-Tau-Wildschaf
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ovis orientalis ophion
+
+    *   Zyprisches Mufflon
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ovis vignei vignei
+
+    *   Steppenschaf, Ladakschaf
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Ozotoceros bezoarticus
+
+    *   Pampashirsch
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pan paniscus
+
+    *   Zwergschimpanse, Bonobo
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pan troglodytes
+
+    *   Schimpanse
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Panthera leo persica
+
+    *   Persischer Löwe
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Panthera onca
+
+    *   Jaguar
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Panthera pardus
+
+    *   Leopard
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Panthera tigris
+
+    *   Tiger
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pantholops hodgsonii
+
+    *   Tschiru (Orongo), Tibetantilope
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pardofelis marmorata
+
+    *   Marmorkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Perameles bougainville
+
+    *   Westaustralischer Streifenbeuteldachs
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Phaner furcifer
+
+    *   Gabelstreif-Katzenmaki
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pongo pygmaeus
+
+    *   Orang-Utan
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *   +
+
+
+*    *   Presbytis potenziani
+
+    *   Mentalwilangur
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Priodontes maximus
+
+    *   Riesengürteltier
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_4]
+   +
+
+    *
+
+*    *   Prionailurus bengalensis bengalensis
+
+    *   Indische Bengalkatze, Leopardkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Prionailurus bengalensis iriomotensis
+
+    *   Iriomotokatze
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Prionailurus planiceps
+
+    *   Flachkopfkatze
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Prionailurus rubiginosus
+
+    *   Rostkatze
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Prionodon pardicolor
+
+    *   Fleckenlingsang
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Procolobus pennantii
+
+    *   Sansibarstummelaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Procolobus preussi
+
+    *   Kamerun-Stummelaffe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Procolobus rufomitratus
+
+    *   Rotkopfstummelaffe, Roter Colobus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pseudomys praeconis
+
+    *   Shark Bay-Falschmaus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pseudoryx nghetinhensis
+
+    *   Vietnamesisches Waldrind, Vu-Quang-Rind
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteronura brasiliensis
+
+    *   Riesenotter
+
+    *
+    *
+    *
+    *[^BJNR025810005BJNE002300000_6]
+   +
+
+    *
+
+*    *   Pteropus insularis
+
+    *   Truk-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus livingstonei
+
+    *   Komoren-Flughund
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pteropus mariannus
+
+    *   Marianen-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus molossinus
+
+    *   Ponape-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus phaeocephalus
+
+    *   Mortloch-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus pilosus
+
+    *   Palau-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus rodricensis
+
+    *   Rodrigez-Flughund
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pteropus samoensis
+
+    *   Samoa-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus tonganus
+
+    *   Tonga-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pteropus voeltzkowi
+
+    *   Pemba-Flughund
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pudu puda
+
+    *   Südpudu
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puma concolor coryi
+
+    *   Florida-Puma
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puma concolor costaricensis
+
+    *   Costa-Rica-Puma
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puma concolor couguar
+
+    *   Ostamerikanischer Puma
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pygathrix nemaeus
+
+    *   Kleideraffe
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pygathrix spp.
+
+    *   Stumpfnasenaffen, Kleideraffen
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Rhinocerotidae spp.
+
+    *   Nashörner
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Romerolagus diazi
+
+    *   Mexikanisches Vulkankaninchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Rupicapra pyrenaica ornata
+
+    *   Abruzzengemse
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Saguinus bicolor
+
+    *   Manteläffchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Saguinus geoffroyi
+
+    *   Geoffroy-Perückenäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Saguinus leucopus
+
+    *   Weißfußäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Saguinus oedipus
+
+    *   Lisztäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Saimiri oerstedii
+
+    *   Gelbes Totenkopfäffchen
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Semnopithecus entellus
+
+    *   Hulman
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Sminthopsis longicaudata
+
+    *   Langschwanz-Schmalfußbeutelmaus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sminthopsis psammophila
+
+    *   Große Wüsten-Schmalfußbeutelmaus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sotalia spp.
+
+    *   Sotalias
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Speothos venaticus
+
+    *   Waldhund
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Sus salvanius
+
+    *   Zwergwildschwein
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tapiridae spp.
+
+    *   Tapire
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tapirus bairdii
+
+    *   Mittelamerikanischer Tapir
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Tapirus indicus
+
+    *   Schabrackentapir
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Tapirus pinchaque
+
+    *   Bergtapir
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Tarsius spp.
+
+    *   Koboldmakis
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Thylacinus cynocephalus
+
+    *   Beutelwolf
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Trachypithecus francoisi
+
+    *   Francois-Langur
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Trachypithecus geei
+
+    *   Gee’s Langur
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Trachypithecus johnii
+
+    *   Tonkin Langur
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Trachypithecus pileatus
+
+    *   Schopflangur
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tremarctos ornatus
+
+    *   Brillenbär
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Trichechus manatus
+
+    *   Karibische Seekuh
+
+    *
+    *
+    *
+    *
+    *   +
+
+
+*    *   Trichechidae spp.
+
+    *   Seekühe
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tursiops truncatus
+
+    *   Großer Tümmler
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Uncia uncia
+
+    *   Schneeleopard
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ursus arctos
+
+    *   Braunbär
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Ursus thibetanus
+
+    *   Kragenbär
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_5]
+   +
+
+    *
+
+*    *   Varecia variegata
+
+    *   Vari
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Vicugna vicugna
+
+    *   Vicunja
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Xeromys myoides
+
+    *   Australische Landmaus
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Zyzomys pedunculatus
+
+    *   Dickschwanzratte
+
+    *
+    *
+    *
+    *
+    *
+
+*    *[^BJNR025810005BJNE002300000_15]
+   **Aves**
+
+    *   **Vögel**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Accipiter brevipes
+
+    *   Kurzfangsperber
+
+    *   +
+
+    *   10.0
+
+    *[^BJNR025810005BJNE002300000_13]
+   +
+
+    *
+    *
+
+*    *   Accipiter gentilis
+
+    *   Habicht
+
+    *   +
+
+    *   1,0 = 12.0
+        0,1 = 14.0
+
+    *   +
+
+    *[^BJNR025810005BJNE002300000_14]
+   +
+
+    *
+
+*    *   Accipiter nisus
+
+    *   Sperber
+
+    *   +
+
+    *   1,0 = 7.0
+        0,1 = 8.0
+
+    *
+    *   +
+
+    *
+
+*    *[^BJNR025810005BJNE002300000_24]
+   Aceros nipalensis
+
+    *   Nepalhornvogel
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aceros subruficollis
+
+    *   Sundajahrvogel
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Acrocephalus arundinaceus
+
+    *   Drosselrohrsänger
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus dumetorum
+
+    *   Buschrohrsänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus melanopogon
+
+    *   Mariskensänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus paludicola
+
+    *   Seggenrohrsänger
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus palustris
+
+    *   Sumpfrohrsänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus schoenobaenus
+
+    *   Schilfrohrsänger
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Acrocephalus scirpaceus
+
+    *   Teichrohrsänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aegithalos caudatus
+
+    *   Schwanzmeise
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Aegolius funereus
+
+    *   Rauhfußkauz
+
+    *   +
+
+    *   1,0 = 6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Aegypius monachus
+
+    *   Mönchsgeier
+
+    *   +
+
+    *   28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Agapornis lilianae
+
+    *   Erdbeerköpfchen
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Agelaius flavus
+
+    *   Gilbstarling
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Alauda arvensis
+
+    *   Feldlerche
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Alca torda
+
+    *   Tordalk
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Alcedo atthis
+
+    *   Eisvogel
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Alectoris barbara
+
+    *   Felsenhuhn
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Alectoris chukar
+
+    *   Chukarhuhn
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Alectoris graeca
+
+    *   Steinhuhn
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Alectoris rufa
+
+    *   Rothuhn
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Alisterus amboinensis
+
+    *   Amboina-Königssittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Alisterus chloropterus
+
+    *   Grünflügel-Königssittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Alle alle
+
+    *   Krabbentaucher
+
+    *   +
+
+    *   4.5
+
+    *
+    *
+    *
+
+*    *   Amazona aestiva
+
+    *   Blaustirnamazone
+
+    *   +
+
+    *   11.0
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona agilis
+
+    *   Rotspiegelamazone
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona albifrons
+
+    *   Weißstirnamazone
+
+    *   +
+
+    *   8.5
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona amazonica
+
+    *   Venezuela-Amazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona arausiaca
+
+    *   Blaukopfamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona autumnalis
+
+    *   Gelbwangenamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona autumnalis diadema
+
+    *   Diadem-Amazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona barbadensis
+
+    *   Gelbschulteramazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona brasiliensis
+
+    *   Rotschwanzamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona collaria
+
+    *   Jamaika-Amazone
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona dufresniana
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Amazona dufresniana dufresniana
+
+    *   Dufresnes Amazone
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona farinosa
+
+    *   Mülleramazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona festiva
+
+    *   Blaubartamazone
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Amazona festiva bodini
+
+    *   Bodini Amazone
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Amazona festiva festiva
+
+    *   Blaubartamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona finschi
+
+    *   Blaukappenamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona guildingii
+
+    *   Königsamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona imperialis
+
+    *   Kaiseramazone
+
+    *   +
+
+    *   13.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona kawalli
+
+    *   Kawallaamazone
+
+    *   +
+
+    *   11.0
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona leucocephala
+
+    *   Kubaamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona mercenaria
+
+    *   Soldatenamazone
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Amazona ochrocephala
+
+    *   Gelbscheitelamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona ochrocephala auropalliata
+
+    *   Gelbnackenamazone
+
+    *   +
+
+    *   11.0
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona ochrocephala oratrix
+
+    *   Doppelgelbkopf-Amazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona pretrei
+
+    *   Prachtamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona rhodocorytha
+
+    *   Granadaamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona tucumana
+
+    *   Tucumanamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona ventralis
+
+    *   Blaukronenamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona versicolor
+
+    *   Blaumaskenamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona vinacea
+
+    *   Taubenhalsamazone
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona viridigenalis
+
+    *   Grünwangenamazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona vittata
+
+    *   Puerto-Rico-Amazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Amazona xantholora
+
+    *   Goldzügelamazone
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Amazona xanthops
+
+    *   Gelbbauch-Amazone
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Anas aucklandica
+
+    *   Auckland-Ente, Auckland-Kastanienente
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *
+    *
+
+*    *   Anas oustaleti
+
+    *   Marianen-Stockente
+
+    *   +
+
+    *   12.0
+
+    *
+    *
+    *
+
+*    *   Anodorhynchus hyacinthinus
+
+    *   Hyazinth-Ara
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Anodorhynchus spp.
+
+    *   Blauaras
+        – soweit nicht im Einzelnen aufgeführt
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *[^BJNR025810005BJNE002300000_12]
+   +
+
+    *
+
+*    *   Anser erythropus
+
+    *   Zwergblässgans, Zwerggans
+
+    *   +
+
+    *   15.0
+
+    *   +
+
+    *
+    *
+
+*    *   Anthus berthelotii
+
+    *   Kanarenpieper
+
+    *   +
+
+    *   2.7
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus campestris
+
+    *   Brachpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus cervinus
+
+    *   Rotkehlpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus petrosus
+
+    *   Strandpieper, Wasserpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus pratensis
+
+    *   Wiesenpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus richardi
+
+    *   Spornpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus spinoletta
+
+    *   Bergpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Anthus trivialis
+
+    *   Baumpieper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Apus apus
+
+    *   Mauersegler
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Apus caffer
+
+    *   Kaffernsegler
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Apus pallidus
+
+    *   Fahlsegler
+
+    *   +
+
+    *   3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Apus unicolor
+
+    *   Einfarbsegler
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Aquila adalberti
+
+    *   Spanischer Kaiseradler
+
+    *   +
+
+    *   24.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aquila chrysaetos
+
+    *   Steinadler
+
+    *   +
+
+    *   28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aquila clanga
+
+    *   Schelladler
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aquila heliaca
+
+    *   Kaiseradler
+
+    *   +
+
+    *   24.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aquila nipalensis
+
+    *   Steppenadler
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Aquila pomarina
+
+    *   Schreiadler
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aquila rapax
+
+    *   Raubadler
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Ara ambigua
+
+    *   Großer Soldaten-Ara, Bechstein-Ara
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara ararauna
+
+    *   Gelbbrust-Ara
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara chloroptera
+
+    *   Dunkelroter Ara
+
+    *   +
+
+    *   15.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara glaucogularis
+
+    *   Caninde-Ara, Blaukehl-Ara
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara macao
+
+    *   Hellroter Ara
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara militaris
+
+    *   Kleiner Soldaten-Ara
+
+    *   +
+
+    *   13.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara rubrogenys
+
+    *   Rotohrara
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ara severa
+
+    *   Rotbugara
+
+    *   +
+
+    *   9.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga acuticaudata
+
+    *   Blaustirn-Sittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga erythrogenys
+
+    *   Guayaquilsittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga euops
+
+    *   Kubasittich
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga jandaya
+
+    *   Jendayasittich
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga leucophthalmus
+
+    *   Weißwangensittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Aratinga solstitialis
+
+    *   Sonnensittich
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Ardea purpurea
+
+    *   Purpurreiher
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ardeola ralloides
+
+    *   Rallenreiher
+
+    *   +
+
+    *   8.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ardeotis nigriceps
+
+    *   Indische Trappe
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Arenaria interpres
+
+    *   Steinwälzer
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Asio flammeus
+
+    *   Sumpfohreule
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Asio otus
+
+    *   Waldohreule
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Athene blewitti
+
+    *   Bänder-Steinkauz
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Athene noctua
+
+    *   Steinkauz
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Atrichornis clamosus
+
+    *   Großer Dickichtschlüpfer
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Aythya innotata
+
+    *   Malegassen-Moorente
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *
+    *
+
+*    *   Bebrornis rodericanus
+
+    *   Mauritius-Sänger
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Bombycilla garrulus
+
+    *   Seidenschwanz
+
+    *   +
+
+    *   3.2 — 4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Botaurus stellaris
+
+    *   Rohrdommel
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Branta canadensis leucopareia
+
+    *   Aleuten-Zwergkanadagans
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *
+    *
+
+*    *   Bubo bubo
+
+    *   Uhu
+
+    *   +
+
+    *   1,0 = 16.0
+        0,1 = 22.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Bubulcus ibis
+
+    *   Kuhreiher
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Buceros bicornis
+
+    *   Homrai-Doppelhornvogel
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Buceros vigil
+
+    *   Schildhornvogel
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Bulweria bulwerii
+
+    *   Bulwersturmvogel
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Burhinus oedicnemus
+
+    *   Triel
+
+    *   +
+
+    *   6.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Buteo buteo
+
+    *   Mäusebussard
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Buteo lagopus
+
+    *   Rauhfußbussard
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Buteo rufinus
+
+    *   Adlerbussard
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua alba
+
+    *   Weißhaubenkakadu
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua ducorpsii
+
+    *   Salomonen-Kakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua galerita
+
+    *   Großer Gelbhaubenkakadu
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua galerita triton
+
+    *   Triton-Geldhaubenkakadu
+
+    *   +
+
+    *   13.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua goffini
+
+    *   Goffinikakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua haematuropygia
+
+    *   Rotsteißkakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua leadbeateri
+
+    *   Inka-Kakadu
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua moluccensis
+
+    *   Molukken-Kakadu
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua pastinator
+
+    *   Wühler Kakadu
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua sanguinea
+
+    *   Nacktaugenkakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua sulphurea
+
+    *   Kleiner Gelbhaubenkakadu
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cacatua sulphurea citrinocristata
+
+    *   Orangenhaubenkakadu
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cairina scutulata
+
+    *   Malayenente, Weißflügelente
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *
+    *
+
+*    *   Calandrella brachydactyla
+
+    *   Kurzzehenlerche
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Calandrella rufescens
+
+    *   Stummellerche
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Calcarius lapponicus
+
+    *   Spornammer
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Calidris alba
+
+    *   Sanderling
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Calidris alpina
+
+    *   Alpenstrandläufer
+
+    *   +
+
+    *   2.8 — 3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Calidris canutus
+
+    *   Knutt
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Calidris ferruginea
+
+    *   Sichelstrandläufer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Calidris maritima
+
+    *   Meerstrandläufer
+
+    *   +
+
+    *   3.3
+
+    *
+    *
+    *
+
+*    *   Calidris minuta
+
+    *   Zwergstrandläufer
+
+    *   +
+
+    *   3.5
+
+    *
+    *
+    *
+
+*    *   Calidris temminckii
+
+    *   Temminckstrandläufer
+
+    *   +
+
+    *   2.5
+
+    *
+    *
+    *
+
+*    *   Callocephalon fimbriatum
+
+    *   Helmkakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Caloenas nicobarica
+
+    *   Kragentaube
+
+    *   +
+
+    *   11.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Calonectris diomedea
+
+    *   Gelbschnabel-Sturmtaucher
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Calyptorhynchus baudinii
+
+    *   Weißohr-Rabenkakadu
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Calyptorhynchus funereus
+
+    *   Gelbohr-Rabenkakadu
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Calyptorhynchus banksii
+
+    *   Banks-Rabenkakadu
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Campephilus imperialis
+
+    *   Kaiserspecht
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Caprimulgus europaeus
+
+    *   Ziegenmelker
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Caprimulgus ruficollis
+
+    *   Rothals-Ziegenmelker
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Carduelis cannabina
+
+    *   Hänfling
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis carduelis
+
+    *   Stieglitz
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis chloris
+
+    *   Grünling
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis flammea
+
+    *   Birkenzeisig
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis flavirostris
+
+    *   Berghänfling
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis hornemanni
+
+    *   Polarbirkenzeisig
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Carduelis spinus
+
+    *   Erlenzeisig
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Carpodacus erythrinus
+
+    *   Karmingimpel
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Casmerodius albus
+
+    *   Silberreiher
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Catharacta skua
+
+    *   Skua
+
+    *
+    *   13.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cepphus grylle
+
+    *   Gryllteiste
+
+    *   +
+
+    *   12.0
+
+    *
+    *   +
+
+    *
+
+*    *   Cercotrichas galactotes
+
+    *   Heckensänger
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Certhia brachydactyla
+
+    *   Gartenbaumläufer
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Certhia familiaris
+
+    *   Waldbaumläufer
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Cettia cetti
+
+    *   Seidensänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Chalcopsitta cardinalis
+
+    *   Kardinallori
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Charadrius alexandrinus
+
+    *   Seeregenpfeifer
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Charadrius dubius
+
+    *   Flussregenpfeifer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Charadrius hiaticula
+
+    *   Sandregenpfeifer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Charadrius leschenaultii
+
+    *   Wüstenregenpfeifer
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Chersophilus duponti
+
+    *   Dupont-Lerche
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Chlamydotis undulata
+
+    *   Kragentrappe
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Chlidonias hybridus
+
+    *   Weißbartseeschwalbe
+
+    *   +
+
+    *   3.5
+
+    *
+    *
+    *
+
+*    *   Chlidonias leucopterus
+
+    *   Weißflügelseeschwalbe
+
+    *   +
+
+    *   3.0
+
+    *
+    *
+    *
+
+*    *   Chlidonias niger
+
+    *   Trauerseeschwalbe
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Chondrohierax uncinatus wilsonii
+
+    *   Wilsons Langschnabelweihe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ciconia boyciana
+
+    *   Schwarzschnabelstorch
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ciconia ciconia
+
+    *   Weißstorch
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ciconia nigra
+
+    *   Schwarzstorch
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ciconia stormi
+
+    *   Höckerstorch
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cinclus cinclus
+
+    *   Wasseramsel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Circaetus gallicus
+
+    *   Schlangenadler
+
+    *   +
+
+    *   24.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Circus aeruginosus
+
+    *   Rohrweihe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Circus cyaneus
+
+    *   Kornweihe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Circus macrourus
+
+    *   Steppenweihe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Circus pygargus
+
+    *   Wiesenweihe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cisticola juncidis
+
+    *   Cistensänger
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Clamator glandarius
+
+    *   Häherkuckuck
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Claravis godefrida
+
+    *   Purpurbindentäubchen
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Coccothraustes coccothraustes
+
+    *   Kernbeißer
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Columba bollii
+
+    *   Bolles Lorbeertaube
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Columba junoniae
+
+    *   Lorbeertaube
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Columba trocaz
+
+    *   Silberhalstaube
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Coracias garrulus
+
+    *   Blauracke
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Corvus corone
+
+    *   Aaskrähe
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Corvus frugilegus
+
+    *   Saatkrähe
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Corvus monedula
+
+    *   Dohle
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Cotinga maculata
+
+    *   Halsbandkotinga
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Crax alberti
+
+    *   Blaulappenhokko
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crax blumenbachii
+
+    *   Blumenbach-Hokko
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crex crex
+
+    *   Wachtelkönig
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Cuculus canorus
+
+    *   Kuckuck
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Cursorius cursor
+
+    *   Rennvogel
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Cyanoliseus patagonus
+
+    *   Felsensittich
+
+    *   +
+
+    *   7.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cyanopica cyana
+
+    *   Blauelster
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Cyanopsitta spixii
+
+    *   Spix-Blauara
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cyanoramphus novaezelandiae cookii
+
+    *   Norfolk-Laufsittich
+
+    *   +
+
+    *   4.5
+
+    *
+    *
+    *
+
+*    *   Cyclopsitta d. diophthalma
+
+    *   Maskenzwergpapagei
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Cyclopsitta diophthalma coxeni
+
+    *   Coxens Rotwangen-Zwergpapagei
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Cygnus columbianus
+
+    *   Zwergschwan
+
+    *   +
+
+    *   26.0
+
+    *   +
+
+    *
+    *
+
+*    *   Cygnus cygnus
+
+    *   Singschwan
+
+    *   +
+
+    *   26.0
+
+    *   +
+
+    *
+    *
+
+*    *   Dasyornis broadbenti litoralis
+
+    *   Westliche Rötlichbraune Grasmücke
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Dasyornis longirostris
+
+    *   Westliche Langschnabelgrasmücke
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Delichon urbica
+
+    *   Mehlschwalbe
+
+    *   +
+
+    *   2.0
+
+    *
+    *
+    *
+
+*    *   Dendrocopos leucotos
+
+    *   Weißrückenspecht
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Dendrocopos major
+
+    *   Buntspecht
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Dendrocopos medius
+
+    *   Mittelspecht
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Dendrocopos minor
+
+    *   Kleinspecht
+
+    *   +
+
+    *   2.7
+
+    *
+    *   +
+
+    *
+
+*    *   Dendrocopos syriacus
+
+    *   Blutspecht
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Deroptyus accipitrinus
+
+    *   Fächerpapagei
+
+    *   +
+
+    *   8.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Deroptyus accipitrinus fuscifrons
+
+    *   Fächerpapagei
+
+    *   +
+
+    *   8.0
+
+    *
+    *   +
+
+    *
+
+*    *   Diomedea albatrus
+
+    *   Kurzschwanzalbatros
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Diopsittaca nobilis
+
+    *   Hahns Zwergara
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Dryocopus javensis richardsi
+
+    *   Korea-Weißbauch-Schwarzspecht
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Dryocopus martius
+
+    *   Schwarzspecht
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Ducula mindorensis
+
+    *   Mindoro-Bronze-fruchttaube
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *
+    *
+
+*    *   Eclectus roratus
+
+    *   Edelpapagei
+
+    *   +
+
+    *   11.0
+
+    *
+    *   +
+
+    *
+
+*    *   Egretta garzetta
+
+    *   Seidenreiher
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Elanus caeruleus
+
+    *   Gleitaar
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Emberiza aureola
+
+    *   Weidenammer
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza caesia
+
+    *   Grauortolan
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza cia
+
+    *   Zippammer
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza cirlus
+
+    *   Zaunammer
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza citrinella
+
+    *   Goldammer
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza hortulana
+
+    *   Ortolan
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza melanocephala
+
+    *   Kappenammer
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza pusilla
+
+    *   Zwergammer
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza rustica
+
+    *   Waldammer
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Emberiza schoeniclus
+
+    *   Rohrammer
+
+    *   +
+
+    *   2.3 — 2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Eolophus roseicapillus
+
+    *   Rosakakadu
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Eos bornea
+
+    *   Rotlori
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eos cyanogenia
+
+    *   Blauohrlori
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eos histrio
+
+    *   Diademlori
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eos squamata
+
+    *   Kapuzenlori
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eos reticulata
+
+    *   Blaustrichellori
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eremophila alpestris
+
+    *   Ohrenlerche
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Erithacus rubecula
+
+    *   Rotkehlchen
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Eudromias morinellus
+
+    *   Mornellregenpfeifer
+
+    *   +
+
+    *   4.5
+
+    *
+    *
+    *
+
+*    *   Eunymphicus cornutus
+
+    *   Hornsittich
+
+    *   +
+
+    *   6.0
+
+    *
+    *
+    *
+
+*    *   Eupodotis bengalensis
+
+    *   Barttrappe
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Eupodotis indica
+
+    *   Flaggentrappe
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Eutriorchis astur
+
+    *   Schlangenhabicht
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco amurensis
+
+    *   Amur-Falke
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Falco araea
+
+    *   Seychellen-Turmfalke
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco biarmicus
+
+    *   Lannerfalke
+
+    *   +
+
+    *   1,0 = 12.0
+        0,1 = 14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco cherrug
+
+    *   Würgfalke, Sakerfalke
+
+    *   +
+
+    *   1,0 = 13.0
+        0,1 = 14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco columbarius
+
+    *   Merlin
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Falco eleonorae
+
+    *   Eleonorenfalke
+
+    *   +
+
+    *   8.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco jugger
+
+    *   Laggarfalke
+
+    *   +
+
+    *   1,0 = 13.0
+        0,1 = 14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco naumanni
+
+    *   Rötelfalke
+
+    *   +
+
+    *   7.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco newtoni
+
+    *   Madagaskarfalke
+
+    *   +
+
+    *   8.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco pelegrinoides
+
+    *   Wüstenfalke, Berberfalke
+
+    *   +
+
+    *   1,0 = 12.0
+        0,1 = 14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco peregrinus
+
+    *   Wanderfalke
+
+    *   +
+
+    *   1,0 = 12.0
+        0,1 = 13.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco punctatus
+
+    *   Mauritius-Turmfalke
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco rusticolus
+
+    *   Gerfalke
+
+    *   +
+
+    *   1,0 = 14.0
+        0,1 = 15.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Falco sparverius
+
+    *   Buntfalke
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Falco subbuteo
+
+    *   Baumfalke
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Falco tinnunculus
+
+    *   Turmfalke
+
+    *   +
+
+    *   8.0
+
+    *
+    *   +
+
+    *
+
+*    *   Falco vespertinus
+
+    *   Rotfußfalke
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Ficedula albicollis
+
+    *   Halsbandschnäpper
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Ficedula hypoleuca
+
+    *   Trauerschnäpper
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Ficedula parva
+
+    *   Zwergschnäpper
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Ficedula semitorquata
+
+    *   Halbringschnäpper
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Fratercula arctica
+
+    *   Papageitaucher
+
+    *   +
+
+    *   4.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Fregata andrewsi
+
+    *   Fregattvogel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Fringilla coelebs
+
+    *   Buchfink
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Fringilla montifringilla
+
+    *   Bergfink
+
+    *
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Fringilla teydea
+
+    *   Teydefink
+
+    *   +
+
+    *   3.2
+
+    *
+    *
+    *
+
+*    *   Fulica cristata
+
+    *   Kammblässhuhn
+
+    *   +
+
+    *   12.0
+
+    *
+    *   +
+
+    *
+
+*    *   Fulmarus glacialis
+
+    *   Eissturmvogel
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Galerida cristata
+
+    *   Haubenlerche
+
+    *   +
+
+    *   3.0 – 3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Galerida theklae
+
+    *   Theklalerche
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Gallinago gallinago
+
+    *   Bekassine
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Gallinago media
+
+    *   Doppelschnepfe
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Gallinula chloropus
+
+    *   Teichhuhn
+
+    *   +
+
+    *   8.0
+
+    *   +
+
+    *
+    *
+
+*    *   Gallirallus sylvestris
+
+    *   Lord-Howe-Waldralle
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Garrulus glandarius
+
+    *   Eichelhäher
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Gavia arctica
+
+    *   Prachttaucher
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Gavia immer
+
+    *   Eistaucher
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gavia stellata
+
+    *   Sterntaucher
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Geoffroyus geoffroyi
+
+    *   Rotkopfpapagei
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Geopsittacus occidentalis
+
+    *   Nachtsittich
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Geronticus calvus
+
+    *   Glattnackenibis
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Geronticus eremita
+
+    *   Waldrapp
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Glareola pratincola
+
+    *   Brachschwalbe
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Glaucidium passerinum
+
+    *   Sperlingskauz
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Glaucis dorhnii
+
+    *   Hakenschnabel-Kolibri
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Grus americana
+
+    *   Schreikranich
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus canadensis
+
+    *   Kanadakranich
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Grus grus
+
+    *   Kranich
+
+    *   +
+
+    *   19.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus japonensis
+
+    *   Mandschurenkranich
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus leucogeranus
+
+    *   Nonnenkranich
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus monacha
+
+    *   Mönchskranich
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus nigricollis
+
+    *   Schwarzhalskranich
+
+    *
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Grus virgo
+
+    *   Jungfernkranich
+
+    *
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Grus vipio
+
+    *   Weißnackenkranich
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Guarouba guarouba
+
+    *   Goldsittich
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Gymnogyps californianus
+
+    *   Kalifornischer Kondor
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Gypaetus barbatus
+
+    *   Bartgeier
+
+    *   +
+
+    *   28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gyps fulvus
+
+    *   Gänsegeier
+
+    *   +
+
+    *   28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haematopus ostralegus
+
+    *   Austernfischer
+
+    *   +
+
+    *   8.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus albicilla
+
+    *   Seeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 26.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus leucocephalus
+
+    *   Weißkopfseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus leucogaster
+
+    *   Weißbauchseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus leucoryphus
+
+    *   Bindenseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus pelagicus
+
+    *   Riesenseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus sanfordi
+
+    *   Salomonenseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus vocifer
+
+    *   Schreiseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Haliaeetus vociferoides
+
+    *   Madagaskarseeadler
+
+    *   +
+
+    *   1,0 = 24.0
+        0,1 = 28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Harpia harpyja
+
+    *   Harpyie
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Hieraaetus fasciatus
+
+    *   Habichtsadler
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Hieraaetus pennatus
+
+    *   Zwergadler
+
+    *   +
+
+    *   22.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Himantopus himantopus
+
+    *   Stelzenläufer
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Hippolais icterina
+
+    *   Gelbspötter
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Hippolais olivetorum
+
+    *   Olivenspötter
+
+    *   +
+
+    *   2.7
+
+    *
+    *   +
+
+    *
+
+*    *   Hippolais pallida
+
+    *   Blassspötter
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Hippolais polyglotta
+
+    *   Orpheusspötter
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Hirundo daurica
+
+    *   Rötelschwalbe
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Hirundo rupestris
+
+    *   Felsenschwalbe
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Hirundo rustica
+
+    *   Rauchschwalbe
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Histrionicus histrionicus
+
+    *   Kragenente
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Hydrobates pelagicus
+
+    *   Sturmschwalbe
+
+    *   +
+
+    *   2.5
+
+    *
+    *
+    *
+
+*    *   Ixobrychus minutus
+
+    *   Zwergdommel
+
+    *   +
+
+    *   6.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Jabiru mycteria
+
+    *   Jabiru
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Jynx torquilla
+
+    *   Wendehals
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Lagopus lagopus
+
+    *   Moorschneehuhn
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Lanius collurio
+
+    *   Neuntöter
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Lanius excubitor
+
+    *   Raubwürger
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Lanius minor
+
+    *   Schwarzstirnwürger
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Lanius nubicus
+
+    *   Maskenwürger
+
+    *   +
+
+    *   3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Lanius senator
+
+    *   Rotkopfwürger
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Larus audouinii
+
+    *   Korallenmöwe
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Larus cachinnans
+
+    *   Weißkopfmöwe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Larus genei
+
+    *   Dünnschnabelmöwe
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Larus glaucoides
+
+    *   Polarmöwe
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Larus hyperboreus
+
+    *   Eismöwe
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Larus melanocephalus
+
+    *   Schwarzkopfmöwe
+
+    *   +
+
+    *   1,0 = 6.5
+        0,1 = 7.0
+
+    *
+    *
+    *
+
+*    *   Larus relictus
+
+    *   Gobi-Schwarzkopfmöwe
+
+    *   +
+
+    *   7.0
+
+    *
+    *
+    *
+
+*    *   Leptoptilos dubius
+
+    *   Argala
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Leptotila wellsi
+
+    *   Wellstaube
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Leucopsar rothschildi
+
+    *   Balistar, Rotschild-Mynah
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Leucopternis occidentalis
+
+    *   Graurückenbussard
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Lichenostomus melanops cassidix
+
+    *   Büschelohr-Honigfresser
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Limicola falcinellus
+
+    *   Sumpfläufer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Limosa lapponica
+
+    *   Pfuhlschnepfe
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Limosa limosa
+
+    *   Uferschnepfe
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Locustella fluviatilis
+
+    *   Schlagschwirl
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Locustella luscinioides
+
+    *   Rohrschwirl
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Locustella naevia
+
+    *   Feldschwirl
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Lophophorus lhuysii
+
+    *   Grünschwanz-Glanzfasan
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Lophophorus sclateri
+
+    *   Weißschwanz-Glanzfasan
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Lophura imperialis
+
+    *   Kaiserfasan
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Loriculus galgulus
+
+    *   Blaukrönchen
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Loxia curvirostra
+
+    *   Fichtenkreuzschnabel
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Loxia leucoptera
+
+    *   Bindenkreuzschnabel
+
+    *   +
+
+    *   3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Loxia pytyopsittacus
+
+    *   Kiefernkreuzschnabel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Loxia scotica
+
+    *   Schottischer Fichtenkreuzschnabel
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Lullula arborea
+
+    *   Heidelerche
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Luscinia luscinia
+
+    *   Sprosser
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Luscinia megarhynchos
+
+    *   Nachtigall
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Luscinia svecica
+
+    *   Blaukehlchen
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Lymnocryptes minimus
+
+    *   Zwergschnepfe
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Macrocephalon maleo
+
+    *   Hammerhuhn
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Melanitta perspicillata
+
+    *   Brillenente
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Melanocorypha calandra
+
+    *   Kalanderlerche
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Meleagris gallopavo
+
+    *   Wildtruthuhn
+
+    *   +
+
+    *   20.0
+
+    *
+    *
+    *
+
+*    *   Mergus octosetaceus
+
+    *   Dunkelsäger
+
+    *   +
+
+    *   1,0 = 10.0
+        0,1 = 11.0
+
+    *
+    *
+    *
+
+*    *   Merops apiaster
+
+    *   Bienenfresser
+
+    *
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Miliaria calandra
+
+    *   Grauammer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Milvus migrans
+
+    *   Schwarzmilan
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Milvus milvus
+
+    *   Rotmilan
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Mimizuku gurneyi
+
+    *   Riesen-Zwergohreule, Rotohreule
+
+    *
+    *   8.0
+
+    *
+    *
+    *
+
+*    *   Mitu mitu mitu
+
+    *   Nordwest-Mitu
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Monticola saxatilis
+
+    *   Steinrötel
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Monticola solitarius
+
+    *   Blaumerle
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Montifringilla nivalis
+
+    *   Schneefink
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Morus bassanus
+
+    *   Basstölpel
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *
+    *
+
+*    *   Motacilla alba
+
+    *   Bachstelze
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Motacilla cinerea
+
+    *   Gebirgsstelze
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Motacilla citreola
+
+    *   Zitronenstelze
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Motacilla flava
+
+    *   Schafstelze
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Muscicapa striata
+
+    *   Grauschnäpper
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Mycteria cinerea
+
+    *   Malaien-Nimmersatt-Milchstorch
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Nandayus nenday
+
+    *   Nandaysittich
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Neophema chrysogaster
+
+    *   Gold- oder Orangebauchsittich
+
+    *   +
+
+    *   3.8
+
+    *
+    *   +
+
+    *
+
+*    *   Neophron percnopterus
+
+    *   Schmutzgeier
+
+    *   +
+
+    *   20.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Nestor notabilis
+
+    *   Kea
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Ninox novaeseelandiae undulata
+
+    *   Kuckuckskauz, nur ssp. undulata
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Ninox squamipila natalis
+
+    *   Weihnachtsinselkauz
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Nipponia nippon
+
+    *   Japanischer Ibis
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   Nucifraga caryocatactes
+
+    *   Tannenhäher
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Numenius arquata
+
+    *   Großer Brachvogel
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Numenius borealis
+
+    *   Eskimo-Brachvogel
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Numenius phaeopus
+
+    *   Regenbrachvogel
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Numenius tenuirostris
+
+    *   Dünnschnabel-Brachvogel
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Nyctea scandiaca
+
+    *   Schnee-Eule
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Nycticorax nycticorax
+
+    *   Nachtreiher
+
+    *   +
+
+    *   9.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Oceanodroma castro
+
+    *   Madeirawellenläufer
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Oceanodroma leucorhoa
+
+    *   Wellenläufer
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Odontophorus strophium
+
+    *   Kragenwachtel
+
+    *   +
+
+    *   6.5
+
+    *
+    *
+    *
+
+*    *   Oenanthe hispanica
+
+    *   Mittelmeer-Steinschmätzer
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Oenanthe isabellina
+
+    *   Isabellsteinschmätzer
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Oenanthe leucura
+
+    *   Trauersteinschmätzer
+
+    *   +
+
+    *   3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Oenanthe oenanthe
+
+    *   Steinschmätzer
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Oenanthe pleschanka
+
+    *   Nonnensteinschmätzer
+
+    *   +
+
+    *   2.2
+
+    *
+    *   +
+
+    *
+
+*    *   Ognorhynchus icterotis
+
+    *   Gelbohrsittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Ophrysia superciliosa
+
+    *   Hangwachtel
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Oreophasis derbianus
+
+    *   Bergguan
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Oriolus oriolus
+
+    *   Pirol
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Orthopsittaca manilata
+
+    *   Rotbauchara
+
+    *   +
+
+    *   8.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Otis tarda
+
+    *   Großtrappe
+
+    *
+    *   26.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Otus ireneae
+
+    *   Sokoko-Eule
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Otus scops
+
+    *   Zwergohreule
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Oxyura jamaicensis
+
+    *   Schwarzkopfruderente
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Oxyura leucocephala
+
+    *   Weißkopfruderente
+
+    *   +
+
+    *   9.0
+
+    *
+    *
+    *
+
+*    *   Pandion haliaetus
+
+    *   Fischadler
+
+    *   +
+
+    *   19.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Panurus biarmicus
+
+    *   Bartmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Papasula abbotti
+
+    *   Graufußtölpel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Parus ater
+
+    *   Tannenmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Parus caeruleus
+
+    *   Blaumeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Parus cinctus
+
+    *   Lapplandmeise
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Parus cristatus
+
+    *   Haubenmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Parus lugubris
+
+    *   Trauermeise
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Parus major
+
+    *   Kohlmeise
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Parus montanus
+
+    *   Weidenmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Parus palustris
+
+    *   Sumpfmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Passer domesticus
+
+    *   Haussperling
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Passer hispaniolensis
+
+    *   Weidensperling
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Passer montanus
+
+    *   Feldsperling
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Pelagodroma marina
+
+    *   Fregatt-Sturmschwalbe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pelecanus crispus
+
+    *   Krauskopfpelikan
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Pelecanus onocrotalus
+
+    *   Rosapelikan
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Penelope albipennis
+
+    *   Weißschwingenguan
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Perisoreus infaustus
+
+    *   Unglückshäher
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pernis apivorus
+
+    *   Wespenbussard
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Petronia petronia
+
+    *   Steinsperling
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Pezoporus wallicus
+
+    *   Erdsittich
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Phaethon aethereus
+
+    *   Rotschnabel-Tropikvogel
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Phalacrocorax aristotelis
+
+    *   Krähenscharbe
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *
+    *
+
+*    *   Phalacrocorax carbo
+
+    *   Kormoran
+
+    *   +
+
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Phalacrocorax pygmeus
+
+    *   Zwergscharbe
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Phalaropus fulicaria
+
+    *   Thorshühnchen
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Phalaropus lobatus
+
+    *   Odinshühnchen
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Pharomachrus mocinno
+
+    *   Quetzal
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Philomachus pugnax
+
+    *   Kampfläufer
+
+    *   +
+
+    *   1,0 = 5.0
+        0,1 = 4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Phoenicopterus ruber
+
+    *   Flamingo
+
+    *
+    *   18.0
+
+    *   +
+
+    *
+    *
+
+*    *   Phoenicurus ochruros
+
+    *   Hausrotschwanz
+
+    *   +
+
+    *   2.5 – 2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Phoenicurus phoenicurus
+
+    *   Gartenrotschwanz
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus bonelli
+
+    *   Berglaubsänger
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus borealis
+
+    *   Wanderlaubsänger
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus collybita
+
+    *   Zilpzalp
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus sibilatrix
+
+    *   Waldlaubsänger
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus trochilus
+
+    *   Fitis
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Phylloscopus trochiloides
+
+    *   Grünlaubsänger
+
+    *   +
+
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pica pica
+
+    *   Elster
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Picathartes gymnocephalus
+
+    *   Gelbkopf-Felshüpfer
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Picathartes oreas
+
+    *   Buntkopf-Felshüpfer
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Picoides tridactylus
+
+    *   Dreizehenspecht
+
+    *
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Picus canus
+
+    *   Grauspecht
+
+    *
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Picus viridis
+
+    *   Grünspecht
+
+    *
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pinicola enucleator
+
+    *   Hakengimpel
+
+    *   +
+
+    *   3.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pionites melanocephala
+
+    *   Grünzügelpapagei
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pionopsitta pileata
+
+    *   Scharlachkopfpapagei
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pionus fuscus
+
+    *   Veilchenpapagei
+
+    *   +
+
+    *   8.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pionus maximiliani
+
+    *   Maximilians Papagei
+
+    *   +
+
+    *   7.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pionus menstruus
+
+    *   Schwarzohrpapagei
+
+    *   +
+
+    *   8.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pipile jacutinga
+
+    *   Schakutinga
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pipile pipile pipile
+
+    *   Schakuhuhn
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pithecophaga jefferyi
+
+    *   Affenadler
+
+    *   +
+
+    *   28.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pitta gurneyi
+
+    *   Goldkehlpitta
+
+    *   +
+
+    *
+    *
+    *
+    *
+
+*    *   Pitta kochi
+
+    *   Kochs Pitta
+
+    *   +
+
+    *
+    *
+    *
+    *
+
+*    *   Platalea leucorodia
+
+    *   Löffler
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *
+    *
+
+*    *   Plectrophenax nivalis
+
+    *   Schneeammer
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Plegadis falcinellus
+
+    *   Braunsichler
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pluvialis apricaria
+
+    *   Goldregenpfeifer
+
+    *   +
+
+    *   5.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pluvialis squatarola
+
+    *   Kiebitzregenpfeifer
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Podiceps auritus
+
+    *   Ohrentaucher
+
+    *   +
+
+    *   10.0
+
+    *
+    *   +
+
+    *
+
+*    *   Podiceps grisegena
+
+    *   Rothalstaucher
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Podiceps nigricollis
+
+    *   Schwarzhalstaucher
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Podilymbus gigas
+
+    *   Atitlantaucher
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Poicephalus cryptoxanthus
+
+    *   Braunkopfpapagei
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Poicephalus gulielmi
+
+    *   Grüner Kongopapagei
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Poicephalus meyeri
+
+    *   Goldbugpapagei
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Poicephalus rueppellii
+
+    *   Rüppells Papagei
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Poicephalus rufiventris
+
+    *   Rotbauchpapagei
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Poicephalus senegalus
+
+    *   Mohrenkopfpapagei
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Polyplectron emphanum
+
+    *   Palawan-Spiegelpfau, Palawan-Pfaufasan
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Polysticta stelleri
+
+    *   Scheckente
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Porphyrio porphyrio
+
+    *   Purpurhuhn
+
+    *   +
+
+    *   12.0
+
+    *
+    *   +
+
+    *
+
+*    *   Porzana parva
+
+    *   Kleines Sumpfhuhn, Kleinralle
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Porzana porzana
+
+    *   Tüpfelsumpfhuhn, Tüpfelralle
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Porzana pusilla
+
+    *   Zwergsumpfhuhn, Zwergralle
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Probosciger aterrimus
+
+    *   Ara-Kakadu, Palmkakadu
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Propyrrhura auricollis
+
+    *   Halsbandara
+
+    *   +
+
+    *   7.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Propyrrhura couloni
+
+    *   Blaukopfara
+
+    *   +
+
+    *   9.5
+
+    *
+    *   +
+
+    *
+
+*    *   Propyrrhura maracana
+
+    *   Rotrücken-Ara
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Prosopeia tabuensis
+
+    *   Pompadoursittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Prunella collaris
+
+    *   Alpenbraunelle
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Prunella modularis
+
+    *   Heckenbraunelle
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psephotus chrysopterygius
+
+    *   Goldschultersittich
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psephotus pulcherrimus
+
+    *   Paradiessittich
+
+    *   +
+
+    *   4.5
+
+    *
+    *
+    *
+
+*    *   Pseudibis gigantea
+
+    *   Riesenibis
+
+    *   +
+
+    *
+    *
+    *
+    *
+
+*    *   Pseudochelidon sirintarae
+
+    *   Sirintaraschwalbe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Psittacula alexandri
+
+    *   Rosenbrustbartsittich
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psittacula columboides
+
+    *   Taubensittich
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psittacula cyanocephala
+
+    *   Pflaumenkopfsittich
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psittacula echo
+
+    *   Mauritiussittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psittacula longicauda
+
+    *   Langschwanzedelsittich
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Psittacus erithacus
+
+    *   Graupapagei
+
+    *   +
+
+    *   11.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Psittacus erithacus timneh
+
+    *   Timneh Graupapagei
+
+    *   +
+
+    *   9.5
+
+    *   +
+
+    *
+    *
+
+*    *   Psittrichas fulgidus
+
+    *   Borstenkopf
+
+    *   +
+
+    *   14.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pterocles alchata
+
+    *   Spießflughuhn
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pterocles orientalis
+
+    *   Sandflughuhn
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pterodroma feae
+
+    *   Weichfeder-Sturmvogel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Pterodroma madeira
+
+    *   Madeirasturmvogel
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Puffinus assimilis
+
+    *   Kleiner Sturmtaucher
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puffinus gravis
+
+    *   Großer Sturmtaucher
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puffinus griseus
+
+    *   Dunkler Sturmtaucher
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Puffinus puffinus
+
+    *   Schwarzschnabel-Sturmtaucher
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Puffinus yelkouan
+
+    *   Yelkouan-Sturmtaucher
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Pyrrhocorax graculus
+
+    *   Alpendohle
+
+    *   +
+
+    *   7.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pyrrhocorax pyrrhocorax
+
+    *   Alpenkrähe
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pyrrhula pyrrhula
+
+    *   Gimpel
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Pyrrhura cruentata
+
+    *   Blaulatzsittich
+
+    *   +
+
+    *   6.0
+
+    *
+    *   +
+
+    *
+
+*    *   Pyrrhura picta
+
+    *   Blaustirn-Rotschwanzsittich
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Pyrrhura perlata
+
+    *   Rotbauchsittich
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Rallus aquaticus
+
+    *   Wasserralle
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Recurvirostra avosetta
+
+    *
+    *   +
+
+    *   6.5 – 7.5
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Regulus ignicapillus
+
+    *   Sommergoldhähnchen
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Regulus regulus
+
+    *   Wintergoldhähnchen
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Regulus teneriffae
+
+    *   Teneriffa-Goldhähnchen
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Remiz pendulinus
+
+    *   Beutelmeise
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Rhea pennata
+
+    *   Darwin-Nandu
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Rheinardia ocellata
+
+    *   Rheinartfasan
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *
+    *
+
+*    *   Rhodonessa caryophyllacea
+
+    *   Rosenkopf- oder Nelkenente
+
+    *   +
+
+    *   10.0
+
+    *
+    *
+    *
+
+*    *   Rhodopechys githaginea
+
+    *   Wüstengimpel
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Rhynchopsitta spp.
+
+    *   Arasittiche
+
+    *   +
+
+    *   7.5
+
+    *
+    *   +
+
+    *
+
+*    *   Rhynochetos jubatus
+
+    *   Kagu
+
+    *
+    *
+    *   +
+
+    *
+    *
+
+*    *   Riparia riparia
+
+    *   Uferschwalbe
+
+    *
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Saxicola dacotiae
+
+    *   Kanarenschmätzer
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Saxicola rubetra
+
+    *   Braunkehlchen
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Saxicola torquata
+
+    *   Schwarzkehlchen
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Serinus canaria
+
+    *   Kanarengirlitz
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Serinus citrinella
+
+    *   Zitronengirlitz
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Serinus serinus
+
+    *   Girlitz
+
+    *   +
+
+    *   2.3
+
+    *
+    *   +
+
+    *
+
+*    *   Sitta europaea
+
+    *   Kleiber
+
+    *   +
+
+    *   3.0
+
+    *
+    *   +
+
+    *
+
+*    *   Sitta neumayer
+
+    *   Felsenkleiber
+
+    *
+    *   3.2
+
+    *
+    *   +
+
+    *
+
+*    *   Sitta whiteheadi
+
+    *   Korsenkleiber
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Somateria spectabilis
+
+    *   Prachteiderente
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Spheniscus humboldti
+
+    *   Humboldtpinguin
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Stercorarius longicaudus
+
+    *   Falkenraubmöwe
+
+    *   +
+
+    *   6.5
+
+    *
+    *   +
+
+    *
+
+*    *   Stercorarius parasiticus
+
+    *   Schmarotzerraubmöwe
+
+    *   +
+
+    *   6.5
+
+    *
+    *
+    *
+
+*    *   Stercorarius pomarinus
+
+    *   Spatelraubmöwe
+
+    *   +
+
+    *   8.5
+
+    *   +
+
+    *
+    *
+
+*    *   Sterna albifrons
+
+    *   Zwergseeschwalbe
+
+    *   +
+
+    *   2.8
+
+    *
+    *
+    *
+
+*    *   Sterna caspia
+
+    *   Rauchseeschwalbe
+
+    *   +
+
+    *   9.0
+
+    *
+    *   +
+
+    *
+
+*    *   Sterna dougallii
+
+    *   Rosenseeschwalbe
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Sterna fuscata
+
+    *   Rußseeschwalbe
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Sterna hirundo
+
+    *   Flussseeschwalbe
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Sterna nilotica
+
+    *   Lachseeschwalbe
+
+    *   +
+
+    *   5.0
+
+    *   +
+
+    *
+    *
+
+*    *   Sterna paradisaea
+
+    *   Küstenseeschwalbe
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Sterna sandvicensis
+
+    *   Brandseeschwalbe
+
+    *   +
+
+    *   5.0
+
+    *
+    *
+    *
+
+*    *   Strigops habroptilus
+
+    *   Eulenpapagei
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Strix aluco
+
+    *   Waldkauz
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Strix nebulosa
+
+    *   Bartkauz
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Strix uralensis
+
+    *   Habichtskauz
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Struthio camelus
+
+    *   Strauß
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Sturnus roseus
+
+    *   Rosenstar
+
+    *   +
+
+    *   4.0 – 4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sturnus unicolor
+
+    *   Einfarbstar
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Sturnus vulgaris
+
+    *   Star
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Surnia ulula
+
+    *   Sperbereule
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Sylvia atricapilla
+
+    *   Mönchsgrasmücke
+
+    *   +
+
+    *   2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia borin
+
+    *   Gartengrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia cantillans
+
+    *   Weißbartgrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia communis
+
+    *   Dorngrasmücke
+
+    *   +
+
+    *   2.5 – 2.8
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia conspicillata
+
+    *   Brillengrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia curruca
+
+    *   Klappergrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia hortensis
+
+    *   Orpheusgrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia melanocephala
+
+    *   Samtkopfgrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia nisoria
+
+    *   Sperbergrasmücke
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia rueppelli
+
+    *   Maskengrasmücke
+
+    *   +
+
+    *   2.7
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia sarda
+
+    *   Sardengrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Sylvia undata
+
+    *   Provencegrasmücke
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Tachybaptus ruficollis
+
+    *   Zwergtaucher
+
+    *   +
+
+    *   8.0
+
+    *
+    *
+    *
+
+*    *   Tachymarptis melba
+
+    *   Alpensegler
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Tadorna cristata
+
+    *   Schopfkasarka
+
+    *   +
+
+    *   14.0
+
+    *
+    *
+    *
+
+*    *   Tarsiger cyanurus
+
+    *   Blauschwanz
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tauraco bannermani
+
+    *   Bannermanturako
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tetraogallus caspius
+
+    *   Kaspisches Königshuhn
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tetraogallus tibetanus
+
+    *   Tibet-Königshuhn
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tetrax tetrax
+
+    *   Zwergtrappe
+
+    *   +
+
+    *   16.0
+
+    *   +
+
+    *
+    *
+
+*    *   Tichodroma muraria
+
+    *   Mauerläufer
+
+    *   +
+
+    *   2.5
+
+    *
+    *   +
+
+    *
+
+*    *   Tinamus solitarius
+
+    *   Grausteißtao
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tragopan blythii
+
+    *   Blyth-Satyrhuhn
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tragopan caboti
+
+    *   Cabot-Satyrhuhn, Cabot-Tragopan
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tragopan melanocephalus
+
+    *   West-Satyrhuhn
+
+    *   +
+
+    *   14.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Trichoglossus haematodus
+
+    *   Allfarblori
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Tringa cinerea
+
+    *   Terekwasserläufer
+
+    *   +
+
+    *   3.3
+
+    *
+    *
+    *
+
+*    *   Tringa erythropus
+
+    *   Dunkelwasserläufer
+
+    *   +
+
+    *   5.0
+
+    *
+    *
+    *
+
+*    *   Tringa glareola
+
+    *   Bruchwasserläufer
+
+    *   +
+
+    *   4.0
+
+    *
+    *
+    *
+
+*    *   Tringa guttifer
+
+    *   Sachalin-Grünschenkel
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Tringa hypoleucos
+
+    *   Flussuferläufer
+
+    *   +
+
+    *   3.3
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tringa nebularia
+
+    *   Grünschenkel
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Tringa ochropus
+
+    *   Waldwasserläufer
+
+    *   +
+
+    *   3.3
+
+    *
+    *   +
+
+    *
+
+*    *   Tringa stagnatilis
+
+    *   Teichwasserläufer
+
+    *   +
+
+    *   3.5
+
+    *
+    *
+    *
+
+*    *   Tringa totanus
+
+    *   Rotschenkel
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Troglodytes troglodytes
+
+    *   Zaunkönig
+
+    *
+    *   2.0
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus iliacus
+
+    *   Rotdrossel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus merula
+
+    *   Amsel
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus philomelos
+
+    *   Singdrossel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus pilaris
+
+    *   Wacholderdrossel
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus torquatus
+
+    *   Ringdrossel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Turdus viscivorus
+
+    *   Misteldrossel
+
+    *   +
+
+    *   4.0
+
+    *
+    *   +
+
+    *
+
+*    *   Turnix sylvatica
+
+    *   Laufhühnchen
+
+    *   +
+
+    *
+    *
+    *   +
+
+    *
+
+*    *   Tympanuchus cupido attwateri
+
+    *   Attwaters-Präriehuhn
+
+    *   +
+
+    *   12.0
+
+    *   +
+
+    *
+    *
+
+*    *   Tyto alba
+
+    *   Schleiereule
+
+    *   +
+
+    *   10.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tyto soumagnei
+
+    *   Madagaskar-Schleiereule
+
+    *   +
+
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Upupa epops
+
+    *   Wiedehopf
+
+    *   +
+
+    *   4.5
+
+    *
+    *   +
+
+    *
+
+*    *   Uria aalge
+
+    *   Trottellumme
+
+    *   +
+
+    *   12.0
+
+    *
+    *   +
+
+    *
+
+*    *   Vanellus spinosus
+
+    *   Spornkiebitz
+
+    *   +
+
+    *   5.5
+
+    *
+    *   +
+
+    *
+
+*    *   Vanellus vanellus
+
+    *   Kiebitz
+
+    *   +
+
+    *   5.0 – 7.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Vini spp.,
+
+    *   Maidloris
+        – soweit nicht im Einzelnen aufgeführt
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Vini australis
+
+    *   Blaukappenlori
+
+    *   +
+
+    *   5.0
+
+    *
+    *
+    *
+
+*    *   Vini peruviana
+
+    *   Saphir-Lori
+
+    *   +
+
+    *   5.0
+
+    *
+    *   +
+
+    *
+
+*    *   Vultur gryphus
+
+    *   Andenkondor
+
+    *
+    *   30.0
+
+    *   +
+
+    *   +
+
+    *
+
+*    *   Xema sabini
+
+    *   Schwalbenmöwe
+
+    *   +
+
+    *   5.0
+
+    *
+    *
+    *
+
+*    *   Xipholena atropurpurea
+
+    *   Weißflügelkotinga
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Zosterops albogularis
+
+    *   Weißkehlbrillenvogel
+
+    *   +
+
+    *
+    *   +
+
+    *
+    *
+
+*    *   **Reptilia**
+
+    *   **Kriechtiere**
+
+    *
+    *
+    *
+    *
+    *
+
+*    *[^BJNR025810005BJNE002300000_17]
+   Acrantophis spp.
+
+    *   Madagaskar-Boas
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Acrantophis dumerili
+
+    *   Südliche Madagaskarboa
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_18]
+   +
+
+    *
+
+*    *   Acrantophis madagascariensis
+
+    *   Nördliche Madagaskarboa
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_19]
+   +
+
+    *
+
+*    *   Alligator sinensis
+
+    *   China-Alligator
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Apalone ater
+
+    *   Schwarze Weichschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aspideretes gangeticus
+
+    *   Ganges-Weichschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aspideretes hurum
+
+    *   Pfauenaugen-Weichschildtkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Aspideretes nigricans
+
+    *   Dunkle Weichschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Batagur baska
+
+    *   Batagur Schildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Boa constrictor occidentalis
+
+    *   Südboa
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Bolyeria multocarinata
+
+    *   Mauritius-Boa
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Brachylophus spp.
+
+    *   Fidji-Leguane
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Brookesia perarmata
+
+    *   Panzerchamäleon
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   Caiman crocodilus apaporiensis
+
+    *   Rio-Apaporis-Brillenkaiman
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Caiman latirostris
+
+    *   Breitschnauzenkaiman
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Casarea dussumieri
+
+    *   Rundinsel-Boa
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Chamaeleo chamaeleon
+
+    *   Europäisches Chamäleon
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Cheloniidae spp.
+
+    *   Meeresschildkröten
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Chelydra serpentina
+
+    *   Schnappschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Clemmys muhlenbergii
+
+    *   Mühlenberg-Schildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Crocodylus acutus
+
+    *   Spitzkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus cataphractus
+
+    *   Panzerkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus intermedius
+
+    *   Orinokokrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus moreletii
+
+    *   Beulenkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus niloticus
+
+    *   Nilkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus mindorensis
+
+    *   Mindorokrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus palustris
+
+    *   Sumpfkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus porosus
+
+    *   Leistenkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus rhombifer
+
+    *   Rautenkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Crocodylus siamensis
+
+    *   Siamkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Cyclura spp.
+
+    *   Wirtelschwanzleguane
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Dermochelys coriacea
+
+    *   Lederschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Epicrates inornatus
+
+    *   Puerto-Rico-Boa
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Epicrates monensis
+
+    *   Mona-Schlankboa
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Epicrates subflavus
+
+    *   Jamaika-Boa
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Eryx jaculus
+
+    *   Sandboa
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Gallotia simonyi
+
+    *   Hierro-Rieseneidechse
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gavialis gangeticus
+
+    *   Gangesgavial
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Geochelone nigra
+
+    *   Elefantenschildkröte, Galapagos-Riesenschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Geochelone radiata
+
+    *   Strahlenschildkröte
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_21]
+   +
+
+    *
+
+*    *   Geochelone yniphora
+
+    *   Madagassische Schnabelbrustschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Geoclemys hamiltonii
+
+    *   Strahlen-Dreikielschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Gopherus flavomarginatus
+
+    *   Mexikanische Gopherschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Homopus bergeri
+
+    *   Bergers Flachschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Kachuga tecta
+
+    *   Indische Dachschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Macroclemys temminckii
+
+    *   Geierschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Malacochersus tornieri
+
+    *   Spaltenschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Melanochelys tricarinata
+
+    *   Dreikiel-Erdschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Melanosuchus niger
+
+    *   Mohrenkaiman
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Morenia ocellata
+
+    *   Hinterindische Pfauenaugen-Sumpfschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Osteolaemus tetraspis
+
+    *   Stumpfkrokodil
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Phelsuma guentheri
+
+    *   Günthers Plattschwanzgecko
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Podarcis lilfordi
+
+    *   Baleareneidechse
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Podarcis pityusensis
+
+    *   Pityuseneidechse
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Psammobates geometricus
+
+    *   Geometrische Landschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pseudemydura umbrina
+
+    *   Falsche Spitzkopfschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Python molurus molurus
+
+    *   Heller Tigerpython
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Pyxis planicauda
+
+    *   Madagassische Flachrückenschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Sanzinia madagascariensis
+
+    *   Madagaskar-Hundskopfboa
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_20]
+   +
+
+    *
+
+*    *   Sauromalus varius
+
+    *   St. Esteban-Chuckwalla
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Sphenodon spp.
+
+    *   Brückenechsen
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Terrapene coahuila
+
+    *   Wasser-Dosenschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Testudo graeca
+
+    *   Maurische Landschildkröte
+
+    *
+    *
+    *   +
+
+    *[^BJNR025810005BJNE002300000_22]
+   +
+
+    *
+
+*    *   Testudo hermanni
+
+    *   Griechische Landschildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Testudo kleinmanni
+
+    *   Ägyptische Landschildkröte
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Testudo marginata
+
+    *   Breitrand-Schildkröte
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Tomistoma schlegelii
+
+    *   Sundagavial
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Varanus bengalensis
+
+    *   Bengalwaran
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Varanus flavescens
+
+    *   Gelbwaran
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Varanus griseus
+
+    *   Wüstenwaran
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Varanus komodoensis
+
+    *   Komodowaran
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Varanus olivaceus
+
+    *   Gray-Waran
+
+    *
+    *
+    *   +
+
+    *   +
+
+    *
+
+*    *   Vipera latifii
+
+    *   Latifi-Otter
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+*    *   Vipera ursinii
+
+    *   Wiesenotter
+
+    *
+    *
+    *
+    *   +
+
+    *
+
+
+
+[^BJNR025810005BJNE002300000_11]
+[^BJNR025810005BJNE002300000_23]
+
+   **Hinweis zur Ringgröße**
+1,0 = Männchen
+0,1 = Weibchen
+
+    Fell
+[^BJNR025810005BJNE002300000_1]:     Kopf
+[^BJNR025810005BJNE002300000_2]:     Gesicht
+[^BJNR025810005BJNE002300000_3]:     Schuppen
+[^BJNR025810005BJNE002300000_4]:     Halskragen
+[^BJNR025810005BJNE002300000_5]:     Brust
+[^BJNR025810005BJNE002300000_6]:     Beine
+[^BJNR025810005BJNE002300000_7]:     Tätowierung
+[^BJNR025810005BJNE002300000_8]:     Kaltbrand
+[^BJNR025810005BJNE002300000_9]:     Hornskelett
+[^BJNR025810005BJNE002300000_10]: [^BJNR025810005BJNE002300000_11]:     Daumenring
+    Kraniogramm
+[^BJNR025810005BJNE002300000_12]:     Nicht für im Freiflug jagdlich oder vergleichbar eingesetzte
+    Greifvögel.
+[^BJNR025810005BJNE002300000_13]:     Pedigramm
+[^BJNR025810005BJNE002300000_14]:     Durch die Aufnahme in Spalte 1 werden auch Bastarde dieser Vogelarten
+    mit anderen Arten erfasst.
+[^BJNR025810005BJNE002300000_15]:     Soweit im Anhang A der Verordnung (EG) Nr. 338/97 aufgenommen.
+[^BJNR025810005BJNE002300000_16]:     Soweit nicht im Einzelnen aufgeführt.
+[^BJNR025810005BJNE002300000_17]:     Kopfzeichnung (Oberseite)
+[^BJNR025810005BJNE002300000_18]:     Kopfzeichnung (beide Seiten und Unterkiefer)
+[^BJNR025810005BJNE002300000_19]:     Fleckenmuster des Körpers (erste fünf Flecken beiderseits).
+[^BJNR025810005BJNE002300000_20]:     Zeichnung des dritten Wirbelschildes und des vierten
+    Bauchschildpaares.
+[^BJNR025810005BJNE002300000_21]:     Konturen von Rückenschildern und Kreuzungspunkte der Bauchschilder.
+[^BJNR025810005BJNE002300000_22]: [^BJNR025810005BJNE002300000_23]:     Nicht für den menschlichen Verzehr gezüchtete Arten.
+    Nicht mit einem offenen Ring zu kennzeichnen.
+[^BJNR025810005BJNE002300000_24]: 
+(zu § 15 Abs. 3 Satz 1)
+
+### Anlage 7 Anforderungen an die Beschriftung von Ringen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 317
 

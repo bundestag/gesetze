@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1583, 1588
 
+Geändert durch
+:   Art. 8 G v. 13.5.2015 I 706
+
 
 ## Abschnitt 1 - Allgemeines
 
@@ -105,7 +108,7 @@ unberührt, soweit sich aus den nachfolgenden Vorschriften nichts
 anderes ergibt.
 
 
-### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses
+### § 5 Begründung und Beginn des Reservewehrdienstverhältnisses; Beförderungen
 
 (1) Für die Berufung in ein Reservewehrdienstverhältnis gelten die
 Vorschriften über die Berufung in das Dienstverhältnis einer Soldatin
@@ -116,6 +119,9 @@ auf Zeit“ die Wörter „in ein Reservewehrdienstverhältnis“ sowie die
 Angabe der Berufungsdauer.
 
 (2) Das Reservewehrdienstverhältnis beginnt mit der Ernennung.
+
+(3) Für Beförderungen im Reservewehrdienstverhältnis gilt § 42 des
+Soldatengesetzes entsprechend.
 
 
 ### § 6 Diensteid
@@ -211,12 +217,14 @@ zugezogen werden. § 1 Absatz 6 des Wehrsoldgesetzes gilt entsprechend.
 
 ### § 10 Benachteiligungsverbot
 
-§ 6 Absatz 1 und § 9 Absatz 7 des Arbeitsplatzschutzgesetzes gelten
-entsprechend. Eine Kündigung oder Entlassung aus einem Dienst- oder
-Arbeitsverhältnis, eine Versetzung an einen anderen Beschäftigungsort
-und jede sonstige berufliche Benachteiligung auf Grund der Berufung in
-ein Reservewehrdienstverhältnis und der damit verbundenen Tätigkeit
-sind unzulässig.
+Für Arbeitnehmerinnen und Arbeitnehmer, Beamtinnen und Beamte sowie
+Richterinnen und Richter gelten § 6 Absatz 1 und § 9 Absatz 7 des
+Arbeitsplatzschutzgesetzes entsprechend. Eine Kündigung oder
+Entlassung aus einem Dienst- oder Arbeitsverhältnis, eine Versetzung
+an einen anderen Beschäftigungsort und jede sonstige berufliche
+Benachteiligung auf Grund der Berufung in ein
+Reservewehrdienstverhältnis und der damit verbundenen Tätigkeit sind
+unzulässig.
 
 
 ### § 11 Versorgung

@@ -16,6 +16,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2152
 
+V aufgeh. durch
+:   Art. 4 Abs. 124 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 52 V v. 2.6.2016 I 1257
+
+V aufgeh. durch
+:   Art. 4 Abs. 131 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018, dadurch ist die Geltung der V über den 14.8.2018 hinaus verlängert worden
+
 
 ## Eingangsformel
 
@@ -111,14 +120,14 @@ aufzurunden.
 
 ## § 4 Abgabenerhebung und Fälligkeit
 
-Das Hafengeld wird durch das örtlich zuständige Wasser- und
+Das Hafengeld wird durch das örtlich zuständige Wasserstraßen- und
 Schifffahrtsamt erhoben. Die Abgabenschuld entsteht mit dem Einlaufen
 in das abgabenpflichtige Hafengebiet. Es ist auf volle zehn Eurocent
 aufzurunden und wird mit der Bekanntgabe der Abgabenrechnung an den
 Abgabenschuldner oder die Abgabenschuldnerin fällig, wenn nicht das
-Wasser- und Schifffahrtsamt einen späteren Zeitpunkt bestimmt. Das
-Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften der
-§§ 286, 288 und 247 des Bürgerlichen Gesetzbuches zu verzinsen.
+Wasserstraßen- und Schifffahrtsamt einen späteren Zeitpunkt bestimmt.
+Das Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften
+der §§ 286, 288 und 247 des Bürgerlichen Gesetzbuches zu verzinsen.
 
 
 ## § 5 Befreiungen und Ermäßigungen
@@ -129,10 +138,10 @@ Hafengeld ist ab dem 15. Tag nach Fälligkeit nach den Vorschriften der
     Bundes oder der Länder, die zur Kontrolle oder zur Unterhaltung der
     Strom-, Kanal- oder Hafenanlagen eingesetzt sind, sowie für
     Wasserfahrzeuge, schwimmendes Arbeitsgerät und Schwimmkörper privater
-    Unternehmen, die im Auftrag der Wasser- und Schifffahrtsverwaltung des
-    Bundes Unterhaltungs- und Bauarbeiten durchführen und dem Wasser- und
-    Schifffahrtsamt darüber eine Bescheinigung des Auftraggebers oder der
-    Auftraggeberin vorlegen,
+    Unternehmen, die im Auftrag der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes Unterhaltungs- und Bauarbeiten
+    durchführen und dem Wasserstraßen- und Schifffahrtsamt darüber eine
+    Bescheinigung des Auftraggebers oder der Auftraggeberin vorlegen,
 
 
 2.  für Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger,
@@ -162,9 +171,9 @@ einer Liegezeit von weniger als zwölf Stunden ermäßigt sich das
 Hafengeld für Wasserfahrzeuge nach § 3 Nr. 1 bis 4 und 6 Buchstabe a
 auf 25 Prozent.
 
-(3) Weitere Befreiungen und Ermäßigungen kann die zuständige Wasser-
-und Schifffahrtsdirektion im Einzelfall zulassen, wenn das öffentliche
-Interesse es erfordert.
+(3) Weitere Befreiungen und Ermäßigungen kann die Generaldirektion
+Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das
+öffentliche Interesse es erfordert.
 
 
 ## § 6 Pauschalen
@@ -181,7 +190,7 @@ größeren Fahrzeug zu berechnen.
 
 ## § 7 Anmeldung
 
-Wer den Hafen benutzt, hat dies unverzüglich dem Wasser- und
+Wer den Hafen benutzt, hat dies unverzüglich dem Wasserstraßen- und
 Schifffahrtsamt anzuzeigen; dabei sind die für die Abgabenberechnung
 oder -befreiung erforderlichen Unterlagen vorzulegen.
 
@@ -190,102 +199,211 @@ oder -befreiung erforderlichen Unterlagen vorzulegen.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu den §§ 2 und 6)
 
-## Anlage (zu den §§ 2 und 6) Hafengeld und Pauschalen
+## Anlage Hafengeld und Pauschalen
 
 (Fundstelle: BGBl. I 2008, 2154)
-(1) Das Hafengeld beträgt
 
-1.  für Fahrgastschiffe und sonstige Fahrzeuge, die Personenbeförderung
-    gegen Entgelt durchführen, unabhängig davon, ob Güter mitgeführt
-    werden,
+*    *
+    *   (1)
 
-    a)  je zugelassenen Fahrgast und Benutzung bis zu drei Kalendertagen
+    *   Das Hafengeld beträgt
 
-        im **Hafen Helgoland**
+    *
+    *
 
-        -   in der Zeit vom 15. April
-            bis zum 15. Oktober
-            nach Ablauf einer hafengeld-
-            freien Zeit von 24 Stunden
-            0,23 €,
+*    *   1.
 
-
-        -   in der übrigen Zeit
-            nach Ablauf einer hafengeld-
-            freien Zeit von 24 Stunden
-            0,23 €,
-            mindestens
-            17,00 €
-            pro Benutzung,
+    *   für Fahrgastschiffe und sonstige Fahrzeuge, die Personenbeförderung
+        gegen Entgelt durchführen, unabhängig davon, ob Güter mitgeführt
+        werden,
 
 
+*    *
+    *   a)
+
+    *   je zugelassenen Fahrgast und Benutzung bis zu drei Kalendertagen
 
 
-        im **Hafen Borkum**
-        0,43 €,
-
-        in den **übrigen Häfen**
-        0,23 €;
+*    *
+    *
+    *   im **Hafen Helgoland**
 
 
-    b)  je zugelassenen Fahrgast und Benutzung pro angefangene 24 Stunden
+*    *
+    *
+    *   -
 
-        im **Hafen Holtenau**
-        0,23 €,
+    *   in der Zeit vom 15. April
+        bis zum 15. Oktober
+        nach Ablauf einer hafengeld-
+        freien Zeit von 24 Stunden
+
+    *
+    *   0,23 €,
+
+
+*    *
+    *
+    *   -
+
+    *   in der übrigen Zeit
+        nach Ablauf einer hafengeld-
+        freien Zeit von 24 Stunden
+
+    *
+    *   0,23 €,
+        mindestens
+        17,00 €
+
+
+*    *
+    *
+    *   im **Hafen Borkum**
+
+    *
+    *   0,43 €,
+
+
+*    *
+    *
+    *   in den **übrigen Häfen**
+
+    *
+    *   0,23 €;
+
+
+*    *
+    *   b)
+
+    *   je zugelassenen Fahrgast und Benutzung pro angefangene 24 Stunden
+
+
+*    *
+    *
+    *   im **Hafen Holtenau**
+
+    *
+    *   0,23 €,
         mindestens
         27,00 €
         pro Benutzung;
 
 
+*    *   2.
+
+    *   für Bäderboote, Sportanglerfahrzeuge und Personenfähren, unabhängig
+        davon, ob Güter mitgeführt werden bzw. Personen befördert werden,
 
 
-
-2.  für Bäderboote, Sportanglerfahrzeuge und Personenfähren, unabhängig
-    davon, ob Güter mitgeführt werden bzw. Personen befördert werden,
-
-    je zugelassenen Fahrgast und Benutzung bis zu drei Kalendertagen
-
-    im **Hafen Borkum**
-    0,43 €,
-
-    in den **übrigen Häfen**
-    0,23 €;
+*    *
+    *   je zugelassenen Fahrgast und Benutzung bis zu drei Kalendertagen
 
 
-3.  für Fracht- und Tankschiffe (einschließlich Wagen- und Güterfähren)
-    und sonstige Wasserfahrzeuge – mit Ausnahme der in § 3 Abs. 1 Nr. 6
-    genannten – je Bemessungseinheit
+*    *
+    *   im **Hafen Borkum**
 
-    -   in den                           Häfen am Nord-Ostsee-
-        **Kanal**                          bei Benutzung für
+    *
+    *   0,43 €,
+
+
+*    *
+    *   in den **übrigen Häfen**
+
+    *
+    *   0,23 €;
+
+
+*    *   3.
+
+    *   für Fracht- und Tankschiffe (einschließlich Wagen- und Güterfähren)
+        und sonstige Wasserfahrzeuge
+
+
+*    *
+    *   -
+
+    *   mit Ausnahme der in § 3 Abs. 1 Nr. 6 genannten – je Bemessungseinheit
+
+
+*    *
+    *   -
+
+    *   in denHäfen am Nord-Ostsee-
+        **Kanal** bei Benutzung für
         je angefangene 24 Stunden
-        0,13 €,
+
+    *
+    *   0,13 €,
 
 
-    -   in den **übrigen Häfen**                          bei Benut-
+*    *
+    *   -
+
+    *   in den **übrigen Häfen** bei Benut-
         zung bis zu drei Kalendertagen
-        0,40 €.
+
+    *
+    *   0,40 €.
 
 
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   (2)
+
+    *   Das Hafengeld beträgt nach Ablauf einer Liegezeit von drei
+        Kalendertagen für Wasserfahrzeuge nach Absatz 1
 
 
+*    *
+    *   je Bemessungseinheit oder je zugelassenen Fahrgast und je Kalendertag
 
 
+*    *
+    *   in den **Häfen am Nord-Ostsee-Kanal**
 
-(2) Das Hafengeld beträgt nach Ablauf einer Liegezeit von drei
-Kalendertagen für Wasserfahrzeuge nach Absatz 1
-je Bemessungseinheit oder je zugelassenen Fahrgast und je Kalendertag
-in den **Häfen am Nord-Ostsee-Kanal**
-0,13 €,
-in den **übrigen Häfen**
-0,40 €.
+    *
+    *   0,13 €,
 
-(3) Für Fischereifahrzeuge beträgt das Hafengeld ohne Rücksicht auf
-die Anzahl der täglichen Benutzungen je angefangene 24 Stunden
-bei einer Länge von
 
-*    *   bis zu
+*    *
+    *   in den **übrigen Häfen**
+
+    *
+    *   0,40 €.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   (3)
+
+    *   Für Fischereifahrzeuge beträgt das Hafengeld ohne Rücksicht auf die
+        Anzahl der täglichen Benutzungen je angefangene 24 Stunden
+
+
+*    *
+    *
+    *   bei einer Länge von
+
+    *
+    *
+
+*    *
+    *
+    *   bis zu
 
     *   7 m
 
@@ -293,7 +411,9 @@ bei einer Länge von
     *   1,30 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   7 m
 
@@ -302,7 +422,9 @@ bei einer Länge von
     *   2,00 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   10 m
 
@@ -311,7 +433,9 @@ bei einer Länge von
     *   2,60 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   12 m
 
@@ -320,7 +444,9 @@ bei einer Länge von
     *   3,00 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   14 m
 
@@ -329,7 +455,9 @@ bei einer Länge von
     *   3,20 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   16 m
 
@@ -338,7 +466,9 @@ bei einer Länge von
     *   4,00 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   18 m
 
@@ -347,7 +477,9 @@ bei einer Länge von
     *   6,00 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   20 m
 
@@ -356,7 +488,9 @@ bei einer Länge von
     *   8,00 €,
 
 
-*    *   über
+*    *
+    *
+    *   über
 
     *   26 m
 
@@ -365,152 +499,254 @@ bei einer Länge von
     *   12,00 €,
 
 
+*    *
+    *
+    *   für jeden weiteren angefangenen
 
-für jeden weiteren angefangenen
-Meter Länge zusätzlich
-1,10 €.
+    *
 
-(4) Für Wasserfahrzeuge nach § 3 Abs. 1 Nr. 6 Buchstabe b beträgt das
-Hafengeld ohne Rücksicht auf die Anzahl der täglichen Benutzungen
-je angefangene 24 Stunden
+*    *
+    *
+    *   Meter Länge zusätzlich
 
--   im **Hafen Helgoland**                    bei einer Länge
+    *   1,10 €.
 
-    *        *   bis zu
 
-        *   8 m
+*    *
+    *
+    *
+    *
+    *
+    *
 
-        *
-        *   6,50 €,
+*    *
+    *   (4)
 
+    *   Für Wasserfahrzeuge nach § 3 Abs. 1 Nr. 6 Buchstabe b beträgt das
+        Hafengeld ohne Rücksicht auf die Anzahl der täglichen Benutzungen
 
-    *        *   über
 
-        *   8 m
+*    *
+    *   -
 
-        *   bis zu 10 m
+    *   im **Hafen Helgoland** bei einer Länge
 
-        *   10,00 €,
+    *
+    *
 
+*    *
+    *
+    *   bis zu
 
-    *        *   über
+    *   8 m
 
-        *   10 m
+    *
+    *   6,50 €,
 
-        *   bis zu 14 m
 
-        *   13,00 €,
+*    *
+    *
+    *   über
 
+    *   8 m
 
-    *        *   über
+    *   bis zu 10 m
 
-        *   14 m
+    *   10,00 €,
 
-        *   bis zu 17 m
 
-        *   15,00 €,
+*    *
+    *
+    *   über
 
+    *   10 m
 
-    *        *   über
+    *   bis zu 14 m
 
-        *   17 m
+    *   13,00 €,
 
-        *   bis zu 20 m
 
-        *   18,00 €,
+*    *
+    *
+    *   über
 
+    *   14 m
 
+    *   bis zu 17 m
 
+    *   15,00 €,
 
-    für jeden weiteren angefangenen
-    Meter Länge zusätzlich
-    1,10 €,
 
+*    *
+    *
+    *   über
 
-*   in den **übrigen Häfen**                    bei einer Länge
+    *   17 m
 
-    *        *   bis zu
+    *   bis zu 20 m
 
-        *   8 m
+    *   18,00 €,
 
-        *
-        *   5,50 €,
 
+*    *
+    *
+    *   für jeden weiteren angefangenen
 
-    *        *   über
+    *
 
-        *   8 m
+*    *
+    *
+    *   Meter Länge zusätzlich
 
-        *   bis zu 10 m
+    *   1,10 €,
 
-        *   8,00 €,
 
+*    *
+    *   -
 
-    *        *   über
+    *   in den **übrigen Häfen** bei einer Länge
 
-        *   10 m
+    *
+    *
 
-        *   bis zu 14 m
+*    *
+    *
+    *   bis zu
 
-        *   10,00 €,
+    *   8 m
 
+    *
+    *   5,50 €,
 
-    *        *   über
 
-        *   14 m
+*    *
+    *
+    *   über
 
-        *   bis zu 17 m
+    *   8 m
 
-        *   11,00 €,
+    *   bis zu 10 m
 
+    *   8,00 €,
 
-    *        *   über
 
-        *   17 m
+*    *
+    *
+    *   über
 
-        *   bis zu 20 m
+    *   10 m
 
-        *   14,00 €,
+    *   bis zu 14 m
 
+    *   10,00 €,
 
 
+*    *
+    *
+    *   über
 
-    für jeden weiteren angefangenen
-    Meter Länge zusätzlich
-    1,10 €,
+    *   14 m
 
+    *   bis zu 17 m
 
+    *   11,00 €,
 
-bei Mehrrumpfbooten erhöhen sich diese Beträge jeweils um die Hälfte.
 
-(5) Die Pauschale nach § 6 beträgt
+*    *
+    *
+    *   über
 
-1.  für Fahrgastschiffe und Frachtschiffe für ein Kalenderjahr bis zu
-    jährlich
+    *   17 m
 
+    *   bis zu 20 m
+
+    *   14,00 €,
+
+
+*    *
+    *
+    *   für jeden weiteren angefangenen
+
+    *
+    *
+
+*    *
+    *
+    *   Meter Länge zusätzlich
+
+    *
+    *   1,10 €,
+
+
+*    *
+    *   bei Mehrrumpfbooten erhöhen sich diese Beträge jeweils um die Hälfte.
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   (5)
+
+    *   Die Pauschale nach § 6 beträgt
+
+    *
+    *
+
+*    *   1.
+
+    *   für Fahrgastschiffe und Frachtschiffe für ein Kalenderjahr bis zu
+        jährlich
+
+
+*    *
+    *
     *   20 Benutzungen das 15-Fache,
 
 
+*    *
+    *
     *   40 Benutzungen das 30-Fache,
 
 
+*    *
+    *
     *   80 Benutzungen das 45-Fache,
 
 
+*    *
+    *
     *   250 Benutzungen das 90-Fache,
 
 
-    über 250 Benutzungen das 100-Fache
+*    *
+    *
+    *   250 Benutzungen das 100-Fache
 
 
+*    *
+    *   über
 
-    des Hafengeldes nach Absatz 1,
+    *   250 Benutzungen das 100-Fache
 
 
-2.  für Fischereifahrzeuge
-    für jeweils drei aufeinanderfolgende Monate 20 und für ein
-    Kalenderjahr 60 Tagessätze nach Absatz 3.
+*    *
+    *   des Hafengeldes nach Absatz 1,
 
+
+*    *   2.
+
+    *   für Fischereifahrzeuge
+
+
+*    *
+    *   für jeweils drei aufeinanderfolgende Monate 20 und für ein
+        Kalenderjahr 60 Tagessätze nach Absatz 3.
 
 
 

@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen über die zivilrechtliche Haftung für Sch
   durch Bunkerölverschmutzung
 jurabk: ZivHaftBkÖlVerschmSchÜbk
 layout: default
-origslug: zivhaftbk_lverschmsch_bk
+origslug: zivhaftbkoelverschmschuebk
 slug: zivhaftbkoelverschmschuebk
 
 ---

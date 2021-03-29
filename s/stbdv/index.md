@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1979, 1922
 
-Zuletzt geändert durch
-:   Art. 20 G v. 6.12.2011 I 2515
-
+Stand: Zuletzt geändert Art. 14 G v. 18.7.2016 I 1679
 
 ## Eingangsformel
 
@@ -118,7 +116,8 @@ Wirtschaftsprüfer oder vereidigter Buchprüfer ist oder die Prüfung als
 Wirtschaftsprüfer oder vereidigter Buchprüfer bestanden hat.
 
 (2) In den Fällen des § 37a Abs. 2 des Gesetzes sind dem Antrag
-zusätzlich beizufügen
+zusätzlich zu den in § 4 Absatz 3 Nummer 1, 2 und 4 genannten
+Unterlagen beizufügen
 
 1.  (weggefallen)
 
@@ -128,17 +127,17 @@ zusätzlich beizufügen
     Europäischen Wirtschaftsraum (Mitgliedstaat oder Vertragsstaat) oder
     der Schweiz, durch die nachgewiesen wird, dass der Bewerber ein Diplom
     erlangt hat, mit dem er in diesem Mitgliedstaat oder Vertragsstaat
-    oder der Schweiz zur Hilfe in Steuersachen berechtigt ist,
+    oder der Schweiz zur Hilfe in Steuersachen berechtigt ist, oder eine
+    Bescheinigung im Sinne des § 37a Absatz 3 Satz 3 und 4 des Gesetzes,
 
 
-3.  soweit erforderlich ein Nachweis über die dreijährige Tätigkeit in
+3.  soweit erforderlich ein Nachweis über die einjährige Tätigkeit in
     einem Umfang von mindestens 16 Wochenstunden im steuerberatenden Beruf
     sowie ein oder mehrere Ausbildungsnachweise im Sinne des Artikels 7
     Abs. 2 Buchstabe c der Richtlinie 2005/36/EG des Europäischen
     Parlaments und des Rates vom 7. September 2005 über die Anerkennung
-    von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, ABl. EU 2007 Nr. L
-    271 S. 18), geändert durch die Richtlinie 2006/100/EG des Rates vom
-    20\. November 2006 (ABl. EU Nr. L 363 S. 141),
+    von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) in der jeweils
+    geltenden Fassung,
 
 
 4.  eine Bescheinigung über eine mindestens dreijährige Berufsausübung in
@@ -1090,7 +1089,8 @@ In das Berufsregister sind einzutragen:
         und von Bezeichnungen nach der Fachberaterordnung,
 
 
-    d)  Anschrift der beruflichen Niederlassung,
+    d)  Anschrift der beruflichen Niederlassung und die geschäftliche E-Mail-
+        Adresse,
 
 
     e)  berufliche Zusammenschlüsse im Sinne von § 56 Abs. 1 bis 3 des
@@ -1102,12 +1102,18 @@ In das Berufsregister sind einzutragen:
 
 
     g)  Name und Anschrift des Zustellungsbevollmächtigten im Sinne von § 46
-        Abs. 2 Nr. 5 des Gesetzes
+        Abs. 2 Nr. 5 des Gesetzes,
+
+
+    h)  Bestehen eines Berufs- oder Vertretungsverbotes im Sinne von § 90
+        Absatz 1 Nummer 4 oder § 134 des Gesetzes und, sofern ein Vertreter
+        bestellt ist, die Vertreterbestellung unter Angabe von Familiennamen
+        und Vornamen des Vertreters
 
 
 
 
-    sowie alle Veränderungen zu den Buchstaben a und c bis g;
+    sowie alle Veränderungen zu den Buchstaben a und c bis h;
 
 
 2.  Steuerberatungsgesellschaften, wenn sie im Registerbezirk anerkannt
@@ -1125,7 +1131,7 @@ In das Berufsregister sind einzutragen:
     c)  Befugnis zur Führung der Bezeichnung "Landwirtschaftliche Buchstelle",
 
 
-    d)  Sitz und Anschrift,
+    d)  Sitz und Anschrift und die geschäftliche E-Mail-Adresse,
 
 
     e)  berufliche Zusammenschlüsse im Sinne von § 56 Abs. 2 des Gesetzes,
@@ -1347,13 +1353,17 @@ des Gesetzes.
 ### § 51 Versicherungspflicht
 
 (1) Selbständige Steuerberater und Steuerbevollmächtigte sowie
-Steuerberatungsgesellschaften sind verpflichtet, sich gegen die aus
-ihrer Berufstätigkeit (§§ 33, 57 Abs. 3 Nr. 2 und 3 des Gesetzes)
-ergebenden Haftpflichtgefahren für Vermögensschäden zu versichern und
-die Versicherung während der Dauer ihrer Bestellung oder Anerkennung
-aufrechtzuerhalten. Der Versicherungsschutz muß sich auch auf solche
-Vermögensschäden erstrecken, für die der Versicherungsnehmer nach §
-278 oder § 831 des Bürgerlichen Gesetzbuchs einzustehen hat.
+Steuerberatungsgesellschaften sind verpflichtet, sich gegen die sich
+aus ihrer Berufstätigkeit (§§ 33, 57 Absatz 3 Nummer 2 und 3 des
+Gesetzes) ergebenden Haftpflichtgefahren für Vermögensschäden zu
+versichern und die Versicherung während der Dauer ihrer Bestellung
+oder Anerkennung aufrechtzuerhalten. Satz 1 gilt sinngemäß für
+Partnerschaftsgesellschaften, auch solche mit beschränkter
+Berufshaftung nach § 8 Absatz 4 des
+Partnerschaftsgesellschaftsgesetzes. Der Versicherungsschutz muss sich
+auch auf solche Vermögensschäden erstrecken, für die der
+Versicherungsnehmer nach § 278 oder § 831 des Bürgerlichen Gesetzbuchs
+einzustehen hat.
 
 (2) Selbständige Steuerberater und Steuerbevollmächtigte, die
 ausschließlich als freie Mitarbeiter für Auftraggeber, die die
@@ -1368,7 +1378,10 @@ eigene Mandate betreut werden.
 
 (3) Absatz 2 gilt sinngemäß auch für Steuerberater und
 Steuerbevollmächtigte, die ausschließlich als Angestellte nach § 58
-des Gesetzes tätig sind.
+des Gesetzes tätig sind, sowie für Partner einer
+Partnerschaftsgesellschaft mit beschränkter Berufshaftung nach § 8
+Absatz 4 des Partnerschaftsgesellschaftsgesetzes, die ausschließlich
+für die Partnerschaftsgesellschaft tätig sind.
 
 (4) Die Versicherung muß bei einem im Inland zum Geschäftsbetrieb
 befugten Versicherungsunternehmen zu den nach Maßgabe des
@@ -1390,6 +1403,14 @@ Steuerberatungsgesellschaft erloschen ist.
 (3) Wird eine Jahreshöchstleistung für alle in einem Versicherungsjahr
 verursachten Schäden vereinbart, muß sie mindestens eine Million Euro
 betragen.
+
+(4) Die Absätze 1 und 3 gelten für Partnerschaftsgesellschaften mit
+beschränkter Berufshaftung nach § 8 Absatz 4 des
+Partnerschaftsgesellschaftsgesetzes mit der Maßgabe, dass die
+Mindestversicherungssumme für den einzelnen Versicherungsfall eine
+Million Euro und die Jahreshöchstleistung für alle in einem
+Versicherungsjahr verursachten Schäden mindestens vier Millionen Euro
+betragen muss.
 
 
 ### § 53 Weiterer Inhalt des Versicherungsvertrages
@@ -1455,7 +1476,8 @@ c)  bezüglich sämtlicher Folgen eines Verstoßes. Dabei gilt mehrfaches,
 
 2.  Ersatzansprüche wegen Schäden, die durch Fehlbeträge bei der
     Kassenführung, durch Verstöße beim Zahlungsakt oder durch Veruntreuung
-    durch das Personal des Versicherungsnehmers entstehen,
+    durch das Personal, Angehörige oder Sozien des Versicherungsnehmers
+    entstehen,
 
 
 3.  Ersatzansprüche, die aus Tätigkeiten entstehen, die über
@@ -1493,14 +1515,12 @@ geschäftsmäßigen Hilfeleistung in Steuersachen entstehen.
 
 (1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt,
 niedergelassener europäischer Rechtsanwalt, Wirtschaftsprüfer oder
-vereidigter Buchprüfer bestellt oder nach § 131b Abs. 2 oder § 131f
-Abs. 2 der Wirtschaftsprüferordnung vorläufig bestellt oder ist eine
-versicherungspflichtige Gesellschaft zugleich als
-Rechtsanwaltsgesellschaft, Wirtschaftsprüfungsgesellschaft oder
-Buchprüfungsgesellschaft anerkannt, wird der Versicherungspflicht auch
-mit einer diesen Berufen vorgeschriebenen
-Berufshaftpflichtversicherung genügt, sofern der Versicherungsvertrag
-die Voraussetzungen der §§ 52 bis 53a erfüllt.
+vereidigter Buchprüfer bestellt oder ist eine versicherungspflichtige
+Gesellschaft zugleich als Rechtsanwaltsgesellschaft,
+Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft
+anerkannt, wird der Versicherungspflicht auch mit einer diesen Berufen
+vorgeschriebenen Berufshaftpflichtversicherung genügt, sofern der
+Versicherungsvertrag die Voraussetzungen der §§ 52 bis 53a erfüllt.
 
 (2) Erfolgt die Bestellung zum Steuerberater auf Grund des Bestehens
 einer Eignungsprüfung im Sinne des § 37a Abs. 2 des Gesetzes, so sind
@@ -1525,7 +1545,7 @@ Bescheinigung des Versicherers vorzulegen, aus der sich die
 Versicherungsbedingungen und der Deckungsumfang ergeben.
 
 
-### § 55 Nachweis des Versicherungsabschlusses vor der Bestellung
+### § 55 Nachweis des Versicherungsabschlusses
 
 (1) Bewerber, die ihre Bestellung zum Steuerberater oder zum
 Steuerbevollmächtigten beantragen und den Beruf selbständig ausüben
@@ -1543,6 +1563,11 @@ nachzuweisen.
 
 (2) Absatz 1 gilt sinngemäß für die Anerkennung als
 Steuerberatungsgesellschaft.
+
+(3) Absatz 1 gilt sinngemäß für Partnerschaftsgesellschaften mit der
+Maßgabe, dass eine entsprechende Versicherungsbescheinigung mit der
+Anmeldung zum Partnerschaftsregister der Steuerberaterkammer, in deren
+Bezirk die Partnerschaftsgesellschaft ihren Sitz hat, vorzulegen ist.
 
 
 ### § 56 Anzeige von Veränderungen

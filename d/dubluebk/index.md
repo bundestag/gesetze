@@ -3,7 +3,7 @@ Title: Übereinkommen über die Bestimmung des zuständigen Staates für die Pr�
   in einem Mitgliedstaat der Europäischen Gemeinschaften gestellten Asylantrags
 jurabk: DublÜbk
 layout: default
-origslug: dubl_bk
+origslug: dubluebk
 slug: dubluebk
 
 ---

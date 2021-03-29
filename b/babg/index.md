@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1951, 157
 
 Geändert durch
-:   Art. 3 G v. 30.8.1971 I 1426
+:   Art. 18 G v. 14.8.2017 I 3122
 
 
 ## § 1

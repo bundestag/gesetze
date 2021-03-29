@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3520
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.9.2012 I 2093
+:   Art. 167 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung des Beschlusses 2003/48/JI des
 Rates vom 19. Dezember 2002 über die Anwendung besonderer Maßnahmen im
@@ -131,7 +131,7 @@ Rahmenbeschlusses 2002/475/JI beziehen.
 
 Bei der Erfüllung der ihm nach dieser Verordnung übertragenen Aufgaben
 unterliegt der Generalbundesanwalt der fachlichen Aufsicht des
-Bundesministeriums der Justiz.
+Bundesministeriums der Justiz und für Verbraucherschutz.
 
 
 ## § 7 Inkrafttreten, Außerkrafttreten

@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "100 Jahre U-Bahn in Deutschland")
 jurabk: Münz10EuroBek 2002
 layout: default
-origslug: m_nz10eurobek_2002
+origslug: muenz10eurobek_2002
 slug: muenz10eurobek_2002
 
 ---
@@ -50,7 +50,7 @@ Münzzeichen "D" des Bayerischen Hauptmünzamtes und die Umschrift:
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 *   "HISTORISCH UND ZUKUNFTSWEISEND
-    \*\*\**\*\**\*\*\*\*"
+    *\*\**\*\**\*\*\*\*"
 
 
 

@@ -862,8 +862,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Bootsbauer/zur
 Bootsbauerin vom 26. Juni 2000 (BGBl. I S. 987) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bootsbauer und zur Bootsbauerin
 
 (Fundstelle: BGBl. I 2011, 1063 - 1074)
 

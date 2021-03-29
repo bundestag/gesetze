@@ -5,7 +5,7 @@ Title: Erste Verordnung zur Regelung der Besoldung, der Reisekosten, der Umzugsk
   weiterverwendet werden
 jurabk: BezAnpÜV 1
 layout: default
-origslug: bezanp_v_1
+origslug: bezanpuev_1
 slug: bezanpuev_1
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 469 (1975 I 1916)(1976 I 507)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.12.2012 I 2756
+:   Art. 2 G v. 11.6.2017 I 1612
 
 
 ## Übersicht
@@ -299,7 +299,8 @@ Rechtsfolgen vorsehen als
     Strafgesetzbuches),
 
 
-2.  Einziehung von Gegenständen.
+2.  Einziehung von Gegenständen im Sinne der §§ 74 bis 74b und 74d des
+    Strafgesetzbuches.
 
 
 
@@ -604,7 +605,7 @@ Strafgesetzbuch abschließend geregelte Materie zum Gegenstand haben,
 sind nicht mehr anzuwenden, soweit sie nicht nach Artikel 4 Abs. 3 bis
 5 unberührt bleiben.
 
-(2) u. (3)
+(2) u. (3) (Aufhebungsvorschriften)
 
 
 ## Siebenter Abschnitt - Ergänzende strafrechtliche Regelungen
@@ -1080,8 +1081,10 @@ etwas anderes ergibt.
 Strafrecht der Bundesrepublik Deutschland schon vor dem Wirksamwerden
 des Beitritts gegolten hat.
 
+Vollstreckungs- und Verfolgungsverjährung für in der Deutschen
+Demokratischen Republik verfolgte und abgeurteilte Taten;
 
-### Art 315a Vollstreckungs- und Verfolgungsverjährung für in der Deutschen Demokratischen Republik verfolgte und abgeurteilte Taten; Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
+### Art 315a Verjährung für während der Herrschaft des SED-Unrechtsregimes nicht geahndete Taten
 
 (1) Soweit die Verjährung der Verfolgung oder der Vollstreckung nach
 dem Recht der Deutschen Demokratischen Republik bis zum Wirksamwerden
@@ -1212,7 +1215,8 @@ nur anzuwenden, wenn die Tat oder mindestens eine der Taten, wegen
 deren Begehung die Sicherungsverwahrung angeordnet oder vorbehalten
 werden soll, nach dem 31. Dezember 2010 begangen worden ist. In allen
 anderen Fällen ist das bisherige Recht anzuwenden, soweit in den
-Absätzen 2 und 3 nichts anderes bestimmt ist.
+Absätzen 2 und 3 sowie in Artikel 316f Absatz 2 und 3 nichts anderes
+bestimmt ist.
 
 (2) Sind die Taten, wegen deren Begehung die Sicherungsverwahrung nach
 § 66 des Strafgesetzbuches angeordnet werden soll, vor dem 1. Januar
@@ -1249,6 +1253,91 @@ berücksichtigendes Verbot rückwirkender Verschärfungen im Recht der
 Sicherungsverwahrung dem entgegenstand, ohne dass es dabei auf den
 Grad der Gefährlichkeit des Betroffenen für die Allgemeinheit
 angekommen wäre.
+
+
+### Art 316f Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung
+
+(1) Die bisherigen Vorschriften über die Sicherungsverwahrung sind in
+der ab dem 1. Juni 2013 geltenden Fassung anzuwenden, wenn die Tat
+oder mindestens eine der Taten, wegen deren Begehung die
+Sicherungsverwahrung angeordnet oder vorbehalten werden soll
+(Anlasstat), nach dem 31. Mai 2013 begangen worden ist.
+
+(2) In allen anderen Fällen sind, soweit Absatz 3 nichts anderes
+bestimmt, die bis zum 31. Mai 2013 geltenden Vorschriften über die
+Sicherungsverwahrung nach Maßgabe der Sätze 2 bis 4 anzuwenden. Die
+Anordnung oder Fortdauer der Sicherungsverwahrung auf Grund einer
+gesetzlichen Regelung, die zur Zeit der letzten Anlasstat noch nicht
+in Kraft getreten war, oder eine nachträgliche Anordnung der
+Sicherungsverwahrung, die nicht die Erledigung einer Unterbringung in
+einem psychiatrischen Krankenhaus voraussetzt, oder die Fortdauer
+einer solchen nachträglich angeordneten Sicherungsverwahrung ist nur
+zulässig, wenn beim Betroffenen eine psychische Störung vorliegt und
+aus konkreten Umständen in seiner Person oder seinem Verhalten eine
+hochgradige Gefahr abzuleiten ist, dass er infolge dieser Störung
+schwerste Gewalt- oder Sexualstraftaten begehen wird. Auf Grund einer
+gesetzlichen Regelung, die zur Zeit der letzten Anlasstat noch nicht
+in Kraft getreten war, kann die Anordnung der Sicherungsverwahrung nur
+vorbehalten werden, wenn beim Betroffenen eine psychische Störung
+vorliegt und die in Satz 2 genannte Gefahr wahrscheinlich ist oder,
+wenn es sich bei dem Betroffenen um einen Heranwachsenden handelt,
+feststeht. Liegen die Voraussetzungen für eine Fortdauer der
+Sicherungsverwahrung in den in Satz 2 genannten Fällen nicht mehr vor,
+erklärt das Gericht die Maßregel für erledigt; mit der Entlassung aus
+dem Vollzug der Unterbringung tritt Führungsaufsicht ein.
+
+(3) Die durch die Artikel 1, 2 Nummer 1 Buchstabe c Doppelbuchstabe cc
+und Nummer 4 sowie die Artikel 3 bis 6 des Gesetzes zur
+bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der
+Sicherungsverwahrung vom 5. Dezember 2012 (BGBl. I S. 2425) geänderten
+Vorschriften sind auch auf die in Absatz 2 Satz 1 genannten Fälle
+anzuwenden, § 67c Absatz 1 Satz 1 Nummer 2 des Strafgesetzbuches
+jedoch nur dann, wenn nach dem 31. Mai 2013 keine ausreichende
+Betreuung im Sinne des § 66c des Strafgesetzbuches angeboten worden
+ist. Die Frist des § 119a Absatz 3 des Strafvollzugsgesetzes für die
+erste Entscheidung von Amts wegen beginnt am 1. Juni 2013 zu laufen,
+wenn die Freiheitsstrafe zu diesem Zeitpunkt bereits vollzogen wird.
+
+
+### Art 316g Übergangsvorschrift zum Gesetz zur Verbesserung des Schutzes der sexuellen Selbstbestimmung
+
+Als Straftat im Sinne von § 66 Absatz 3 Satz 1 des Strafgesetzbuches
+in der Fassung des Gesetzes zur Verbesserung des Schutzes der
+sexuellen Selbstbestimmung vom 4. November 2016 (BGBl. I S. 2460) gilt
+auch eine Straftat nach § 179 Absatz 1 bis 4 des Strafgesetzbuches in
+der bis zum 9. November 2016 geltenden Fassung.
+
+
+### Art 316h Übergangsvorschrift zum Gesetz zur Reform der strafrechtlichen Vermögensabschöpfung
+
+Wird über die Anordnung der Einziehung des Tatertrages oder des Wertes
+des Tatertrages wegen einer Tat, die vor dem 1. Juli 2017 begangen
+worden ist, nach diesem Zeitpunkt entschieden, sind abweichend von § 2
+Absatz 5 des Strafgesetzbuches die §§ 73 bis 73c, 75 Absatz 1 und 3
+sowie die §§ 73d, 73e, 76, 76a, 76b und 78 Absatz 1 Satz 2 des
+Strafgesetzbuches in der Fassung des Gesetzes zur Reform der
+strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S.
+872) anzuwenden. Die Vorschriften des Gesetzes zur Reform der
+strafrechtlichen Vermögensabschöpfung vom 13. April 2017 (BGBl. I S.
+872) sind nicht in Verfahren anzuwenden, in denen bis zum 1. Juli 2017
+bereits eine Entscheidung über die Anordnung des Verfalls oder des
+Verfalls von Wertersatz ergangen ist.
+
+
+### Art 316i Übergangsvorschrift zum Dreiundfünfzigsten Gesetz zur Änderung des Strafgesetzbuches – Ausweitung des Maßregelrechts bei extremistischen Straftätern
+
+§ 66 Absatz 3 Satz 1 des Strafgesetzbuches in der Fassung des
+Dreiundfünfzigsten Gesetzes zur Änderung des Strafgesetzbuches vom 11.
+Juni 2017 (BGBl. I S. 1612), auch in Verbindung mit § 66 Absatz 3 Satz
+2, § 66a Absatz 1 Nummer 1 und § 66b Satz 1 Nummer 1 des
+Strafgesetzbuches, ist nur anzuwenden, wenn die letzte Anlasstat nach
+dem 30. Juni 2017 begangen worden ist; in allen anderen Fällen ist das
+bisherige Recht anzuwenden. Soweit in anderen als den in Satz 1
+genannten Vorschriften auf § 66 Absatz 3 Satz 1 des Strafgesetzbuches
+verwiesen wird, ist § 66 Absatz 3 Satz 1 des Strafgesetzbuches in der
+Fassung des Dreiundfünfzigsten Gesetzes zur Änderung des
+Strafgesetzbuches vom 11. Juni 2017 (BGBl. I S. 1612) anwendbar.
+Artikel 316g bleibt unberührt.
 
 
 ### Art 317 Überleitung des Verfahrens wegen Ordnungswidrigkeiten nach neuem Recht
@@ -1338,7 +1427,7 @@ durch ihn geänderte Gesetz vom Land Berlin übernommen ist.
 (2) Die §§ 113 und 114 des Strafgesetzbuches in der Fassung des
 Artikels 19 Nr. 43 und 44 sind auch im Land Berlin anzuwenden.
 
-(3)
+(3) (Änderungsvorschrift)
 
 (4) Die zugunsten des Bundes und der Länder, ihrer verfassungsmäßigen
 Ordnung, ihrer Staatsorgane und deren Mitglieder geltenden
@@ -1389,10 +1478,16 @@ Verkündung in Kraft.
 361 Nr. 3 bis 5, 7 und 8 des Strafgesetzbuches aufgehoben wird, sowie
 Artikel 313 treten einen Monat nach der Verkündung in Kraft.
 
-(4) bis (6)
+(4) (weggefallen)
 
+(5) (weggefallen)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 957) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+(6) (gegenstandslos)
+
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet C Abschnitt III
+(BGBl. II 1990, 889, 957)
+
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

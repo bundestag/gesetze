@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Gesetzes über die Errichtung einer Stiftung "Hi
   für behinderte Kinder"
 jurabk: HiWerkBehKGÄndG
 layout: default
-origslug: hiwerkbehkg_ndg
+origslug: hiwerkbehkgaendg
 slug: hiwerkbehkgaendg
 
 ---

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 94
 
+Zuletzt geändert durch
+:   Art. 69 V v. 2.6.2016 I 1257
+
 
 ## Eingangsformel
 
@@ -58,15 +61,15 @@ praxisorientierten Grundausbildung, wenn
 (3) Die Zulassung als Seelotsenanwärter ist nur im Seelotsrevier Nord-
 Ostsee-Kanal I zulässig.
 
-(4) Zuständige Aufsichtsbehörde ist die Wasser- und
-Schifffahrtsdirektion Nord.
+(4) Zuständige Aufsichtsbehörde ist die Generaldirektion Wasserstraßen
+und Schifffahrt.
 
 
 ## § 3 Ausbildungsrahmenplan
 
 (1) Die Bundeslotsenkammer erstellt für die Grundausbildung einen
 Ausbildungsrahmenplan, der der Genehmigung durch das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung bedarf.
+für Verkehr und digitale Infrastruktur bedarf.
 
 (2) Der Ausbildungsrahmenplan soll sicherstellen, dass durch die
 Grundausbildung eine nautische, praxisorientierte Zusatzausbildung
@@ -90,9 +93,9 @@ geschaffen wird. Der Ausbildungsrahmenplan hat insbesondere zu regeln:
 (3) Der Ausbildungsrahmenplan ist im Bedarfsfall, insbesondere bei
 technischen oder wissenschaftlichen Entwicklungen auf dem Gebiet der
 Schifffahrtskunde, zu aktualisieren und dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung zur erneuten Genehmigung vorzulegen.
-Die Genehmigung kann widerrufen werden, wenn die erforderlichen
-Anpassungen nicht vorgenommen werden.
+Verkehr und digitale Infrastruktur zur erneuten Genehmigung
+vorzulegen. Die Genehmigung kann widerrufen werden, wenn die
+erforderlichen Anpassungen nicht vorgenommen werden.
 
 
 ## § 4 Zulassung der Bewerber
@@ -264,11 +267,6 @@ Lotsenbrüderschaft zu erfüllen.
 
 ## § 10 Kosten der Grundausbildung
 
-Die Kosten der Ausbildung an einem in Abstimmung mit der
-Aufsichtsbehörde anerkannten Schiffsführungs- und Radarsimulator
-werden dem Teilnehmer erstattet. Sie sind zurückzuzahlen, wenn der
-Teilnehmer die Grundausbildung abbricht oder die Prüfung nicht
-bestanden hat.
 
 
 ## § 11 Inkrafttreten

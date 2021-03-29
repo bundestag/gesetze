@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1892, 477
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 51 G v. 22.12.2011 I 3044
+:   Art. 10 G v. 17.7.2017 I 2446
 
 
 ## Abschnitt 1 - Errichtung der Gesellschaft
@@ -81,7 +81,9 @@ Die Firma der Gesellschaft muß, auch wenn sie nach § 22 des
 Handelsgesetzbuchs oder nach anderen gesetzlichen Vorschriften
 fortgeführt wird, die Bezeichnung "Gesellschaft mit beschränkter
 Haftung" oder eine allgemein verständliche Abkürzung dieser
-Bezeichnung enthalten.
+Bezeichnung enthalten. Verfolgt die Gesellschaft ausschließlich und
+unmittelbar steuerbegünstigte Zwecke nach den §§ 51 bis 68 der
+Abgabenordnung kann die Abkürzung „gGmbH“ lauten.
 
 
 ### § 4a Sitz der Gesellschaft
@@ -254,10 +256,8 @@ daß sie endgültig zur freien Verfügung der Geschäftsführer stehen.
     Gesellschaftsvertrag bestellt sind,
 
 
-3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter, aus
-    welcher Name, Vorname, Geburtsdatum und Wohnort der letzteren sowie
-    die Nennbeträge und die laufenden Nummern der von einem jeden
-    derselben übernommenen Geschäftsanteile ersichtlich sind,
+3.  eine von den Anmeldenden unterschriebene Liste der Gesellschafter nach
+    den Vorgaben des § 40,
 
 
 4.  im Fall des § 5 Abs. 4 die Verträge, die den Festsetzungen zugrunde
@@ -746,11 +746,9 @@ festgesetzt werden.
 Gewinnverteilungsabreden nach Absatz 3 Satz 2 können die
 Geschäftsführer mit Zustimmung des Aufsichtsrats oder der
 Gesellschafter den Eigenkapitalanteil von Wertaufholungen bei
-Vermögensgegenständen des Anlage- und Umlaufvermögens und von bei der
-steuerrechtlichen Gewinnermittlung gebildeten Passivposten, die nicht
-im Sonderposten mit Rücklageanteil ausgewiesen werden dürfen, in
-andere Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist
-entweder in der Bilanz gesondert auszuweisen oder im Anhang anzugeben.
+Vermögensgegenständen des Anlage- und Umlaufvermögens in andere
+Gewinnrücklagen einstellen. Der Betrag dieser Rücklagen ist in der
+Bilanz gesondert auszuweisen; er kann auch im Anhang angegeben werden.
 
 
 ### § 30 Kapitalerhaltung
@@ -937,8 +935,15 @@ sich die ausländische Gesellschaft in Liquidation, so sind auch diese
 Tatsache sowie alle Liquidatoren anzugeben.
 
 
-### § 36 (weggefallen)
+### § 36 Zielgrößen und Fristen zur gleichberechtigten Teilhabe von Frauen und Männern
 
+Die Geschäftsführer einer Gesellschaft, die der Mitbestimmung
+unterliegt, legen für den Frauenanteil in den beiden Führungsebenen
+unterhalb der Geschäftsführer Zielgrößen fest. Liegt der Frauenanteil
+bei Festlegung der Zielgrößen unter 30 Prozent, so dürfen die
+Zielgrößen den jeweils erreichten Anteil nicht mehr unterschreiten.
+Gleichzeitig sind Fristen zur Erreichung der Zielgrößen festzulegen.
+Die Fristen dürfen jeweils nicht länger als fünf Jahre sein.
 
 
 ### § 37 Beschränkungen der Vertretungsbefugnis
@@ -989,16 +994,26 @@ sind. § 8 Abs. 3 Satz 2 ist anzuwenden.
 (4) (weggefallen)
 
 
-### § 40 Liste der Gesellschafter
+### § 40 Liste der Gesellschafter, Verordnungsermächtigung
 
 (1) Die Geschäftsführer haben unverzüglich nach Wirksamwerden jeder
 Veränderung in den Personen der Gesellschafter oder des Umfangs ihrer
 Beteiligung eine von ihnen unterschriebene Liste der Gesellschafter
 zum Handelsregister einzureichen, aus welcher Name, Vorname,
-Geburtsdatum und Wohnort der letzteren sowie die Nennbeträge und die
+Geburtsdatum und Wohnort derselben sowie die Nennbeträge und die
 laufenden Nummern der von einem jeden derselben übernommenen
-Geschäftsanteile zu entnehmen sind. Die Änderung der Liste durch die
-Geschäftsführer erfolgt auf Mitteilung und Nachweis.
+Geschäftsanteile sowie die durch den jeweiligen Nennbetrag eines
+Geschäftsanteils vermittelte jeweilige prozentuale Beteiligung am
+Stammkapital zu entnehmen sind. Ist ein Gesellschafter selbst eine
+Gesellschaft, so sind bei eingetragenen Gesellschaften in die Liste
+deren Firma, Satzungssitz, zuständiges Register und Registernummer
+aufzunehmen, bei nicht eingetragenen Gesellschaften deren jeweilige
+Gesellschafter unter einer zusammenfassenden Bezeichnung mit Name,
+Vorname, Geburtsdatum und Wohnort. Hält ein Gesellschafter mehr als
+einen Geschäftsanteil, ist in der Liste der Gesellschafter zudem der
+Gesamtumfang der Beteiligung am Stammkapital als Prozentsatz gesondert
+anzugeben. Die Änderung der Liste durch die Geschäftsführer erfolgt
+auf Mitteilung und Nachweis.
 
 (2) Hat ein Notar an Veränderungen nach Absatz 1 Satz 1 mitgewirkt,
 hat er unverzüglich nach deren Wirksamwerden ohne Rücksicht auf
@@ -1015,6 +1030,22 @@ Inhalt der zuletzt im Handelsregister aufgenommenen Liste
 verletzen, haften denjenigen, deren Beteiligung sich geändert hat, und
 den Gläubigern der Gesellschaft für den daraus entstandenen Schaden
 als Gesamtschuldner.
+
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Bestimmungen über die Ausgestaltung der Gesellschafterliste zu
+treffen.
+
+(5) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass bestimmte in der Liste der Gesellschafter enthaltene
+Angaben in strukturierter maschinenlesbarer Form an das
+Handelsregister zu übermitteln sind, soweit nicht durch das
+Bundesministerium der Justiz und für Verbraucherschutz nach § 387
+Absatz 2 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechende
+Vorschriften erlassen werden. Die Landesregierungen können die
+Ermächtigung durch Rechtsverordnung auf die Landesjustizverwaltungen
+übertragen.
 
 
 ### § 41 Buchführung
@@ -1279,7 +1310,7 @@ abgewichen werden.
 ### § 51b Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht
 
 Für die gerichtliche Entscheidung über das Auskunfts- und
-Einsichtsrecht findet § 132 Abs. 1, 3 bis 5 des Aktiengesetzes
+Einsichtsrecht findet § 132 Abs. 1, 3 und 4 des Aktiengesetzes
 entsprechende Anwendung. Antragsberechtigt ist jeder Gesellschafter,
 dem die verlangte Auskunft nicht gegeben oder die verlangte Einsicht
 nicht gestattet worden ist.
@@ -1290,12 +1321,26 @@ nicht gestattet worden ist.
 (1) Ist nach dem Gesellschaftsvertrag ein Aufsichtsrat zu bestellen,
 so sind § 90 Abs. 3, 4, 5 Satz 1 und 2, § 95 Satz 1, § 100 Abs. 1 und
 2 Nr. 2 und Abs. 5, § 101 Abs. 1 Satz 1, § 103 Abs. 1 Satz 1 und 2, §§
-105, 107 Abs. 4, §§ 110 bis 114, 116 des Aktiengesetzes in Verbindung
-mit § 93 Abs. 1 und 2 Satz 1 und 2 des Aktiengesetzes, § 124 Abs. 3
-Satz 2, §§ 170, 171 des Aktiengesetzes entsprechend anzuwenden, soweit
-nicht im Gesellschaftsvertrag ein anderes bestimmt ist.
+105, 107 Absatz 3 Satz 2 und 3 und Absatz 4, §§ 110 bis 114, 116 des
+Aktiengesetzes in Verbindung mit § 93 Abs. 1 und 2 Satz 1 und 2 des
+Aktiengesetzes, § 124 Abs. 3 Satz 2, §§ 170, 171, 394 und 395 des
+Aktiengesetzes entsprechend anzuwenden, soweit nicht im
+Gesellschaftsvertrag ein anderes bestimmt ist.
 
-(2) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der
+(2) Ist nach dem Drittelbeteiligungsgesetz ein Aufsichtsrat zu
+bestellen, so legt die Gesellschafterversammlung für den Frauenanteil
+im Aufsichtsrat und unter den Geschäftsführern Zielgrößen fest, es sei
+denn, sie hat dem Aufsichtsrat diese Aufgabe übertragen. Ist nach dem
+Mitbestimmungsgesetz, dem Montan-Mitbestimmungsgesetz oder dem
+Mitbestimmungsergänzungsgesetz ein Aufsichtsrat zu bestellen, so legt
+der Aufsichtsrat für den Frauenanteil im Aufsichtsrat und unter den
+Geschäftsführern Zielgrößen fest. Liegt der Frauenanteil bei
+Festlegung der Zielgrößen unter 30 Prozent, so dürfen die Zielgrößen
+den jeweils erreichten Anteil nicht mehr unterschreiten. Gleichzeitig
+sind Fristen zur Erreichung der Zielgrößen festzulegen. Die Fristen
+dürfen jeweils nicht länger als fünf Jahre sein.
+
+(3) Werden die Mitglieder des Aufsichtsrats vor der Eintragung der
 Gesellschaft in das Handelsregister bestellt, gilt § 37 Abs. 4 Nr. 3
 und 3a des Aktiengesetzes entsprechend. Die Geschäftsführer haben bei
 jeder Änderung in den Personen der Aufsichtsratsmitglieder
@@ -1305,7 +1350,7 @@ ist, zum Handelsregister einzureichen; das Gericht hat nach § 10 des
 Handelsgesetzbuchs einen Hinweis darauf bekannt zu machen, dass die
 Liste zum Handelsregister eingereicht worden ist.
 
-(3) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats
+(4) Schadensersatzansprüche gegen die Mitglieder des Aufsichtsrats
 wegen Verletzung ihrer Obliegenheiten verjähren in fünf Jahren.
 
 
@@ -2299,6 +2344,136 @@ Aufsichtsrat und, wenn kein Aufsichtsrat vorhanden ist, von den
 Gesellschaftern bestellte besondere Vertreter antragsberechtigt. Hat
 ein Mitglied des Aufsichtsrats die Tat begangen, so sind die
 Geschäftsführer oder die Liquidatoren antragsberechtigt.
+
+
+### § 86 Verletzung der Pflichten bei Abschlussprüfungen
+
+(1) Mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe wird
+bestraft, wer als Mitglied eines Aufsichtsrats oder als Mitglied eines
+Prüfungsausschusses einer Gesellschaft, die kapitalmarktorientiert im
+Sinne des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme
+der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten
+Institute, oder die Versicherungsunternehmen ist im Sinne des Artikels
+2 Absatz 1 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991
+über den Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist,
+
+1.  eine in § 87 Absatz 1 bezeichnete Handlung begeht und dafür einen
+    Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 87 Absatz 1 bezeichnete Handlung beharrlich wiederholt.
+
+
+
+
+(2) Ebenso wird bestraft, wer als Mitglied eines Aufsichtsrats oder
+als Mitglied eines Prüfungsausschusses einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute,
+
+1.  eine in § 87 Absatz 2 oder 3 bezeichnete Handlung begeht und dafür
+    einen Vermögensvorteil erhält oder sich versprechen lässt oder
+
+
+2.  eine in § 87 Absatz 2 oder 3 bezeichnete Handlung beharrlich
+    wiederholt.
+
+
+
+
+
+### § 87 Bußgeldvorschriften
+
+(1) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats oder
+als Mitglied eines Prüfungsausschusses einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs, die
+CRR-Kreditinstitut im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, oder die
+Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den
+Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist,
+
+1.  die Unabhängigkeit des Abschlussprüfers oder der Prüfungsgesellschaft
+    nicht nach Maßgabe des Artikels 4 Absatz 3 Unterabsatz 2, des Artikels
+    5 Absatz 4 Unterabsatz 1 Satz 1 oder des Artikels 6 Absatz 2 der
+    Verordnung (EU) Nr. 537/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über spezifische Anforderungen an die
+    Abschlussprüfung bei Unternehmen von öffentlichem Interesse und zur
+    Aufhebung des Beschlusses 2005/909/EG der Kommission (ABl. L 158 vom
+    27\.5.2014, S. 77, L 170 vom 11.6.2014, S. 66) überwacht oder
+
+
+2.  eine Empfehlung für die Bestellung eines Abschlussprüfers oder einer
+    Prüfungsgesellschaft vorlegt, die nicht auf einem Verlangen der
+    Aufsichtsbehörde nach § 36 Absatz 1 Satz 2 des
+    Versicherungsaufsichtsgesetzes beruht und
+
+    a)  die den Anforderungen nach Artikel 16 Absatz 2 Unterabsatz 2 oder 3
+        der Verordnung (EU) Nr. 537/2014 nicht entspricht oder
+
+
+    b)  der ein Auswahlverfahren nach Artikel 16 Absatz 3 Unterabsatz 1 der
+        Verordnung (EU) Nr. 537/2014 nicht vorangegangen ist.
+
+
+
+
+
+
+
+(2) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss nicht bestellt hat, einer Gesellschaft, die
+kapitalmarktorientiert im Sinne des § 264d des Handelsgesetzbuchs oder
+die CRR-Kreditinstitut ist im Sinne des § 1 Absatz 3d Satz 1 des
+Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1 Nummer 1 und 2
+des Kreditwesengesetzes genannten Institute, den Gesellschaftern einen
+Vorschlag für die Bestellung eines Abschlussprüfers oder einer
+Prüfungsgesellschaft vorlegt, der den Anforderungen nach Artikel 16
+Absatz 5 Unterabsatz 1 der Verordnung (EU) Nr. 537/2014 nicht
+entspricht.
+
+(3) Ordnungswidrig handelt, wer als Mitglied eines Aufsichtsrats, der
+einen Prüfungsausschuss bestellt hat, einer in Absatz 2 genannten
+Gesellschaft den Gesellschaftern einen Vorschlag für die Bestellung
+eines Abschlussprüfers oder einer Prüfungsgesellschaft vorlegt, der
+den Anforderungen nach Artikel 16 Absatz 5 Unterabsatz 1 oder
+Unterabsatz 2 Satz 1 oder Satz 2 der Verordnung (EU) Nr. 537/2014
+nicht entspricht.
+
+(4) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
+fünfzigtausend Euro geahndet werden.
+
+(5) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist bei CRR-Kreditinstituten im
+Sinne des § 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme
+der in § 2 Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten
+Institute, und bei Versicherungsunternehmen im Sinne des Artikels 2
+Absatz 1 der Richtlinie 91/674/EWG die Bundesanstalt für
+Finanzdienstleistungsaufsicht, im Übrigen das Bundesamt für Justiz.
+
+
+### § 88 Mitteilungen an die Abschlussprüferaufsichtsstelle
+
+(1) Die nach § 87 Absatz 5 zuständige Verwaltungsbehörde übermittelt
+der Abschlussprüferaufsichtsstelle beim Bundesamt für Wirtschaft und
+Ausfuhrkontrolle alle Bußgeldentscheidungen nach § 87 Absatz 1 bis 3.
+
+(2) In Strafverfahren, die eine Straftat nach § 86 zum Gegenstand
+haben, übermittelt die Staatsanwaltschaft im Falle der Erhebung der
+öffentlichen Klage der Abschlussprüferaufsichtsstelle die das
+Verfahren abschließende Entscheidung. Ist gegen die Entscheidung ein
+Rechtsmittel eingelegt worden, ist die Entscheidung unter Hinweis auf
+das eingelegte Rechtsmittel zu übermitteln.
 
 
 ### Anlage (zu § 2 Abs. 1a)

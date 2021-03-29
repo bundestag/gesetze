@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 718
 
+Geändert durch
+:   Art. 27 Abs. 3 G v. 4.7.2013 I 1981
+
 
 
 ## Eingangsformel
@@ -339,8 +342,11 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Investmentfondskaufmann/zur Investmentfondskauffrau
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 721 - 725)
 
@@ -400,9 +406,9 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   f)
 
-    *   rechtliche Grundlagen für Kapitalanlagegesellschaften anwenden und
-        deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen des
-        Ausbildungsbetriebes beachten
+    *   rechtliche Grundlagen für Kapitalverwaltungsgesellschaften anwenden
+        und deren Auswirkungen auf die Geschäftsfelder und den Handlungsrahmen
+        des Ausbildungsbetriebes beachten
 
 
 *    *   1.2
@@ -860,8 +866,9 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 *    *   o)
 
-    *   Aufgabenverteilung zwischen Depotbank und Kapitalanlagegesellschaft
-        begründen und bei der Fondsbuchhaltung berücksichtigen
+    *   Aufgabenverteilung zwischen Verwahrstelle und
+        Kapitalverwaltungsgesellschaft begründen und bei der Fondsbuchhaltung
+        berücksichtigen
 
 
 *    *   4.3
@@ -1156,8 +1163,11 @@ Diese Verordnung tritt am 1. August 2003 in Kraft.
 
 
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Investmentfondskaufmann/zur Investmentfondskauffrau
 
-## Anlage 2 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Investmentfondskaufmann/zur Investmentfondskauffrau - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2003, 726 - 727)
 

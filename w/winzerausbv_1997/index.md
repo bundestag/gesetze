@@ -435,8 +435,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 5)
 
-## Anlage I (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - sachliche Gliederung -
+## Anlage I Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1997, 164 - 169)
 
@@ -1331,8 +1332,9 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage II (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - zeitliche Gliederung -
+## Anlage II Ausbildungsrahmenplan für die Berufsausbildung zum Winzer/zur Winzerin - zeitliche Gliederung -
 
 
 *

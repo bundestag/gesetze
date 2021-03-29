@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 2.1.2002 I 42, 2909; 2003, 738;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 20.12.2012 I 2749
+:   Art. 6 G v. 12.7.2018 I 1151
 
 Dieses Gesetz dient der Umsetzung folgender Richtlinien:
 
@@ -140,12 +140,9 @@ Willen aufgehoben wird, sie aufzugeben.
 
 ##### § 8 Wohnsitz nicht voll Geschäftsfähiger
 
-(1) Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt
-ist, kann ohne den Willen seines gesetzlichen Vertreters einen
-Wohnsitz weder begründen noch aufheben.
-
-(2) Ein Minderjähriger, der verheiratet ist oder war, kann selbständig
-einen Wohnsitz begründen und aufheben.
+Wer geschäftsunfähig oder in der Geschäftsfähigkeit beschränkt ist,
+kann ohne den Willen seines gesetzlichen Vertreters einen Wohnsitz
+weder begründen noch aufheben.
 
 
 ##### § 9 Wohnsitz eines Soldaten
@@ -185,15 +182,9 @@ Unterlassung klagen.
 
 ##### § 13 Verbraucher
 
-[^BJNR001950896BJNE244601377]
-
 Verbraucher ist jede natürliche Person, die ein Rechtsgeschäft zu
-einem Zwecke abschließt, der weder ihrer gewerblichen noch ihrer
-selbständigen beruflichen Tätigkeit zugerechnet werden kann.
-
-[^BJNR001950896BJNE244601377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
-    Umsetzung der eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten
-    Richtlinien.
+Zwecken abschließt, die überwiegend weder ihrer gewerblichen noch
+ihrer selbständigen beruflichen Tätigkeit zugerechnet werden können.
 
 
 ##### § 14 Unternehmer
@@ -209,9 +200,8 @@ beruflichen Tätigkeit handelt.
 Personengesellschaft, die mit der Fähigkeit ausgestattet ist, Rechte
 zu erwerben und Verbindlichkeiten einzugehen.
 
-[^BJNR001950896BJNE244701377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
-    Umsetzung der eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten
-    Richtlinien.
+[^BJNR001950896BJNE244701377]:     **Amtlicher Hinweis:** Diese Vorschrift dient der Umsetzung der
+    eingangs zu den Nummern 3, 4, 6, 7, 9 und 11 genannten Richtlinien.
 
 
 ##### (XXXX) §§ 15 bis 20 (weggefallen)
@@ -290,7 +280,8 @@ grobe Pflichtverletzung oder Unfähigkeit zur ordnungsmäßigen
 Geschäftsführung.
 
 (3) Auf die Geschäftsführung des Vorstands finden die für den Auftrag
-geltenden Vorschriften der §§ 664 bis 670 entsprechende Anwendung.
+geltenden Vorschriften der §§ 664 bis 670 entsprechende Anwendung. Die
+Mitglieder des Vorstands sind unentgeltlich tätig.
 
 
 ###### § 28 Beschlussfassung des Vorstands
@@ -326,20 +317,41 @@ begangene, zum Schadensersatz verpflichtende Handlung einem Dritten
 zufügt.
 
 
-###### § 31a Haftung von Vorstandsmitgliedern
+###### § 31a Haftung von Organmitgliedern und besonderen Vertretern
 
-(1) Ein Vorstand, der unentgeltlich tätig ist oder für seine Tätigkeit
-eine Vergütung erhält, die 500 Euro jährlich nicht übersteigt, haftet
-dem Verein für einen in Wahrnehmung seiner Vorstandspflichten
-verursachten Schaden nur bei Vorliegen von Vorsatz oder grober
-Fahrlässigkeit. Satz 1 gilt auch für die Haftung gegenüber den
-Mitgliedern des Vereins.
+(1) Sind Organmitglieder oder besondere Vertreter unentgeltlich tätig
+oder erhalten sie für ihre Tätigkeit eine Vergütung, die 720 Euro
+jährlich nicht übersteigt, haften sie dem Verein für einen bei der
+Wahrnehmung ihrer Pflichten verursachten Schaden nur bei Vorliegen von
+Vorsatz oder grober Fahrlässigkeit. Satz 1 gilt auch für die Haftung
+gegenüber den Mitgliedern des Vereins. Ist streitig, ob ein
+Organmitglied oder ein besonderer Vertreter einen Schaden vorsätzlich
+oder grob fahrlässig verursacht hat, trägt der Verein oder das
+Vereinsmitglied die Beweislast.
 
-(2) Ist ein Vorstand nach Absatz 1 Satz 1 einem anderen zum Ersatz
-eines in Wahrnehmung seiner Vorstandspflichten verursachten Schadens
-verpflichtet, so kann er von dem Verein die Befreiung von der
-Verbindlichkeit verlangen. Satz 1 gilt nicht, wenn der Schaden
-vorsätzlich oder grob fahrlässig verursacht wurde.
+(2) Sind Organmitglieder oder besondere Vertreter nach Absatz 1 Satz 1
+einem anderen zum Ersatz eines Schadens verpflichtet, den sie bei der
+Wahrnehmung ihrer Pflichten verursacht haben, so können sie von dem
+Verein die Befreiung von der Verbindlichkeit verlangen. Satz 1 gilt
+nicht, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht
+wurde.
+
+
+###### § 31b Haftung von Vereinsmitgliedern
+
+(1) Sind Vereinsmitglieder unentgeltlich für den Verein tätig oder
+erhalten sie für ihre Tätigkeit eine Vergütung, die 720 Euro jährlich
+nicht übersteigt, haften sie dem Verein für einen Schaden, den sie bei
+der Wahrnehmung der ihnen übertragenen satzungsgemäßen Vereinsaufgaben
+verursachen, nur bei Vorliegen von Vorsatz oder grober Fahrlässigkeit.
+§ 31a Absatz 1 Satz 3 ist entsprechend anzuwenden.
+
+(2) Sind Vereinsmitglieder nach Absatz 1 Satz 1 einem anderen zum
+Ersatz eines Schadens verpflichtet, den sie bei der Wahrnehmung der
+ihnen übertragenen satzungsgemäßen Vereinsaufgaben verursacht haben,
+so können sie von dem Verein die Befreiung von der Verbindlichkeit
+verlangen. Satz 1 gilt nicht, wenn die Vereinsmitglieder den Schaden
+vorsätzlich oder grob fahrlässig verursacht haben.
 
 
 ###### § 32 Mitgliederversammlung; Beschlussfassung
@@ -958,7 +970,13 @@ Landes erforderlich, in dem die Stiftung ihren Sitz haben soll.
 (2) Die Stiftung ist als rechtsfähig anzuerkennen, wenn das
 Stiftungsgeschäft den Anforderungen des § 81 Abs. 1 genügt, die
 dauernde und nachhaltige Erfüllung des Stiftungszwecks gesichert
-erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet.
+erscheint und der Stiftungszweck das Gemeinwohl nicht gefährdet. Bei
+einer Stiftung, die für eine bestimmte Zeit errichtet und deren
+Vermögen für die Zweckverfolgung verbraucht werden soll
+(Verbrauchsstiftung), erscheint die dauernde Erfüllung des
+Stiftungszwecks gesichert, wenn die Stiftung für einen im
+Stiftungsgeschäft festgelegten Zeitraum bestehen soll, der mindestens
+zehn Jahre umfasst.
 
 (3) Vorschriften der Landesgesetze über kirchliche Stiftungen bleiben
 unberührt. Das gilt entsprechend für Stiftungen, die nach den
@@ -969,9 +987,10 @@ Landesgesetzen kirchlichen Stiftungen gleichgestellt sind.
 
 (1) Das Stiftungsgeschäft unter Lebenden bedarf der schriftlichen
 Form. Es muss die verbindliche Erklärung des Stifters enthalten, ein
-Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen.
-Durch das Stiftungsgeschäft muss die Stiftung eine Satzung erhalten
-mit Regelungen über
+Vermögen zur Erfüllung eines von ihm vorgegebenen Zweckes zu widmen,
+das auch zum Verbrauch bestimmt werden kann. Durch das
+Stiftungsgeschäft muss die Stiftung eine Satzung erhalten mit
+Regelungen über
 
 1.  den Namen der Stiftung,
 
@@ -1549,8 +1568,7 @@ ersetzt.
 (1) Soll die gesetzlich vorgeschriebene schriftliche Form durch die
 elektronische Form ersetzt werden, so muss der Aussteller der
 Erklärung dieser seinen Namen hinzufügen und das elektronische
-Dokument mit einer qualifizierten elektronischen Signatur nach dem
-Signaturgesetz versehen.
+Dokument mit einer qualifizierten elektronischen Signatur versehen.
 
 (2) Bei einem Vertrag müssen die Parteien jeweils ein gleichlautendes
 Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
@@ -1558,11 +1576,21 @@ Dokument in der in Absatz 1 bezeichneten Weise elektronisch signieren.
 
 ##### § 126b Textform
 
-Ist durch Gesetz Textform vorgeschrieben, so muss die Erklärung in
-einer Urkunde oder auf andere zur dauerhaften Wiedergabe in
-Schriftzeichen geeignete Weise abgegeben, die Person des Erklärenden
-genannt und der Abschluss der Erklärung durch Nachbildung der
-Namensunterschrift oder anders erkennbar gemacht werden.
+Ist durch Gesetz Textform vorgeschrieben, so muss eine lesbare
+Erklärung, in der die Person des Erklärenden genannt ist, auf einem
+dauerhaften Datenträger abgegeben werden. Ein dauerhafter Datenträger
+ist jedes Medium, das
+
+1.  es dem Empfänger ermöglicht, eine auf dem Datenträger befindliche, an
+    ihn persönlich gerichtete Erklärung so aufzubewahren oder zu
+    speichern, dass sie ihm während eines für ihren Zweck angemessenen
+    Zeitraums zugänglich ist, und
+
+
+2.  geeignet ist, die Erklärung unverändert wiederzugeben.
+
+
+
 
 
 ##### § 127 Vereinbarte Form
@@ -2360,12 +2388,14 @@ die Ansprüche auf die Gegenleistung verjähren in zehn Jahren.
 
 (1) In 30 Jahren verjähren, soweit nicht ein anderes bestimmt ist,
 
-1.  Herausgabeansprüche aus Eigentum, anderen dinglichen Rechten, den §§
+1.  Schadensersatzansprüche, die auf der vorsätzlichen Verletzung des
+    Lebens, des Körpers, der Gesundheit, der Freiheit oder der sexuellen
+    Selbstbestimmung beruhen,
+
+
+2.  Herausgabeansprüche aus Eigentum, anderen dinglichen Rechten, den §§
     2018, 2130 und 2362 sowie die Ansprüche, die der Geltendmachung der
     Herausgabeansprüche dienen,
-
-
-2.  (weggefallen)
 
 
 3.  rechtskräftig festgestellte Ansprüche,
@@ -2498,6 +2528,13 @@ Monate nach dem Ende der Hemmung ein.
     Vollstreckungsurteils,
 
 
+1a. die Erhebung einer Musterfeststellungsklage für einen Anspruch, den
+    ein Gläubiger zu dem zu der Klage geführten Klageregister wirksam
+    angemeldet hat, wenn dem angemeldeten Anspruch derselbe
+    Lebenssachverhalt zugrunde liegt wie den Feststellungszielen der
+    Musterfeststellungsklage,
+
+
 2.  die Zustellung des Antrags im vereinfachten Verfahren über den
     Unterhalt Minderjähriger,
 
@@ -2509,13 +2546,20 @@ Monate nach dem Ende der Hemmung ein.
     Mahnverfahrens (ABl. EU Nr. L 399 S. 1),
 
 
-4.  die Veranlassung der Bekanntgabe des Güteantrags, der bei einer durch
-    die Landesjustizverwaltung eingerichteten oder anerkannten Gütestelle
-    oder, wenn die Parteien den Einigungsversuch einvernehmlich
-    unternehmen, bei einer sonstigen Gütestelle, die Streitbeilegungen
-    betreibt, eingereicht ist; wird die Bekanntgabe demnächst nach der
-    Einreichung des Antrags veranlasst, so tritt die Hemmung der
-    Verjährung bereits mit der Einreichung ein,
+4.  die Veranlassung der Bekanntgabe eines Antrags, mit dem der Anspruch
+    geltend gemacht wird, bei einer
+
+    a)  staatlichen oder staatlich anerkannten Streitbeilegungsstelle oder
+
+
+    b)  anderen Streitbeilegungsstelle, wenn das Verfahren im Einvernehmen mit
+        dem Antragsgegner betrieben wird;
+
+
+
+    die Verjährung wird schon durch den Eingang des Antrags bei der
+    Streitbeilegungsstelle gehemmt, wenn der Antrag demnächst bekannt
+    gegeben wird,
 
 
 5.  die Geltendmachung der Aufrechnung des Anspruchs im Prozess,
@@ -2558,8 +2602,8 @@ Monate nach dem Ende der Hemmung ein.
     der Klage von der Vorentscheidung dieser Behörde abhängt und innerhalb
     von drei Monaten nach Erledigung des Gesuchs die Klage erhoben wird;
     dies gilt entsprechend für bei einem Gericht oder bei einer in Nummer
-    4 bezeichneten Gütestelle zu stellende Anträge, deren Zulässigkeit von
-    der Vorentscheidung einer Behörde abhängt,
+    4 bezeichneten Streitbeilegungsstelle zu stellende Anträge, deren
+    Zulässigkeit von der Vorentscheidung einer Behörde abhängt,
 
 
 13. die Einreichung des Antrags bei dem höheren Gericht, wenn dieses das
@@ -2578,12 +2622,13 @@ Monate nach dem Ende der Hemmung ein.
 
 (2) Die Hemmung nach Absatz 1 endet sechs Monate nach der
 rechtskräftigen Entscheidung oder anderweitigen Beendigung des
-eingeleiteten Verfahrens. Gerät das Verfahren dadurch in Stillstand,
-dass die Parteien es nicht betreiben, so tritt an die Stelle der
-Beendigung des Verfahrens die letzte Verfahrenshandlung der Parteien,
-des Gerichts oder der sonst mit dem Verfahren befassten Stelle. Die
-Hemmung beginnt erneut, wenn eine der Parteien das Verfahren weiter
-betreibt.
+eingeleiteten Verfahrens. Die Hemmung nach Absatz 1 Nummer 1a endet
+auch sechs Monate nach der Rücknahme der Anmeldung zum Klageregister.
+Gerät das Verfahren dadurch in Stillstand, dass die Parteien es nicht
+betreiben, so tritt an die Stelle der Beendigung des Verfahrens die
+letzte Verfahrenshandlung der Parteien, des Gerichts oder der sonst
+mit dem Verfahren befassten Stelle. Die Hemmung beginnt erneut, wenn
+eine der Parteien das Verfahren weiter betreibt.
 
 (3) Auf die Frist nach Absatz 1 Nr. 6a, 9, 12 und 13 finden die §§
 206, 210 und 211 entsprechende Anwendung.
@@ -2767,10 +2812,10 @@ geltende besondere Verjährung noch nicht eingetreten ist.
 (1) Der Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter
 Leistung ist unwirksam, wenn der Anspruch auf die Leistung oder der
 Nacherfüllungsanspruch verjährt ist und der Schuldner sich hierauf
-beruft. Dies gilt auch, wenn der Schuldner nach § 275 Abs. 1 bis 3, §
-439 Abs. 3 oder § 635 Abs. 3 nicht zu leisten braucht und der Anspruch
-auf die Leistung oder der Nacherfüllungsanspruch verjährt wäre. § 216
-Abs. 2 Satz 2 bleibt unberührt.
+beruft. Dies gilt auch, wenn der Schuldner nach § 275 Absatz 1 bis 3,
+§ 439 Absatz 4 oder § 635 Absatz 3 nicht zu leisten braucht und der
+Anspruch auf die Leistung oder der Nacherfüllungsanspruch verjährt
+wäre. § 216 Abs. 2 Satz 2 bleibt unberührt.
 
 (2) § 214 Abs. 2 findet entsprechende Anwendung.
 
@@ -2971,11 +3016,14 @@ verpflichten.
 
 ##### § 241a Unbestellte Leistungen
 
-[^BJNR001950896BJNE244802377]
+[^BJNR001950896BJNE244802377_BJNR001950896BJNE244803360]
 
-(1) Durch die Lieferung unbestellter Sachen oder durch die Erbringung
-unbestellter sonstiger Leistungen durch einen Unternehmer an einen
-Verbraucher wird ein Anspruch gegen diesen nicht begründet.
+(1) Durch die Lieferung beweglicher Sachen, die nicht auf Grund von
+Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen
+verkauft werden (Waren), oder durch die Erbringung sonstiger
+Leistungen durch einen Unternehmer an den Verbraucher wird ein
+Anspruch gegen den Verbraucher nicht begründet, wenn der Verbraucher
+die Waren oder sonstigen Leistungen nicht bestellt hat.
 
 (2) Gesetzliche Ansprüche sind nicht ausgeschlossen, wenn die Leistung
 nicht für den Empfänger bestimmt war oder in der irrigen Vorstellung
@@ -2983,16 +3031,14 @@ einer Bestellung erfolgte und der Empfänger dies erkannt hat oder bei
 Anwendung der im Verkehr erforderlichen Sorgfalt hätte erkennen
 können.
 
-(3) Eine unbestellte Leistung liegt nicht vor, wenn dem Verbraucher
-statt der bestellten eine nach Qualität und Preis gleichwertige
-Leistung angeboten und er darauf hingewiesen wird, dass er zur Annahme
-nicht verpflichtet ist und die Kosten der Rücksendung nicht zu tragen
-hat.
+(3) Von den Regelungen dieser Vorschrift darf nicht zum Nachteil des
+Verbrauchers abgewichen werden. Die Regelungen finden auch Anwendung,
+wenn sie durch anderweitige Gestaltungen umgangen werden.
 
-[^BJNR001950896BJNE244802377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
-    Umsetzung von Artikel 9 der Richtlinie 97/7/EG des Europäischen
-    Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz
-    bei Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19).
+[^BJNR001950896BJNE244802377_BJNR001950896BJNE244803360]:     **Amtlicher Hinweis:** Diese Vorschrift dient der Umsetzung von
+    Artikel 9 der Richtlinie 97/7/EG des Europäischen Parlaments und des
+    Rates vom 20. Mai 1997 über den Verbraucherschutz bei
+    Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19).
 
 
 ##### § 242 Leistung nach Treu und Glauben
@@ -3050,10 +3096,10 @@ dem ersten Kalendertag des betreffenden Halbjahrs.
 unverzüglich nach den in Absatz 1 Satz 2 genannten Zeitpunkten im
 Bundesanzeiger bekannt.
 
-[^BJNR001950896BJNE024003377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
-    Umsetzung von Artikel 3 der Richtlinie 2000/35/EG des Europäischen
-    Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
-    Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+[^BJNR001950896BJNE024003377]:     **Amtlicher Hinweis:** Diese Vorschrift dient der Umsetzung von
+    Artikel 3 der Richtlinie 2000/35/EG des Europäischen Parlaments und
+    des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im
+    Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
 
 ##### § 248 Zinseszinsen
@@ -3336,6 +3382,19 @@ Mehrkosten, im letzteren Falle die Gefahr zu tragen.
 (4) Die Vorschriften über den Leistungsort bleiben unberührt.
 
 
+##### § 270a Vereinbarungen über Entgelte für die Nutzung bargeldloser Zahlungsmittel
+
+Eine Vereinbarung, durch die der Schuldner verpflichtet wird, ein
+Entgelt für die Nutzung einer SEPA-Basislastschrift, einer SEPA-
+Firmenlastschrift, einer SEPA-Überweisung oder einer Zahlungskarte zu
+entrichten, ist unwirksam. Satz 1 gilt für die Nutzung von
+Zahlungskarten nur bei Zahlungsvorgängen mit Verbrauchern, wenn auf
+diese Kapitel II der Verordnung (EU) 2015/751 des Europäischen
+Parlaments und des Rates vom 29. April 2015 über Interbankenentgelte
+für kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1)
+anwendbar ist.
+
+
 ##### § 271 Leistungszeit
 
 (1) Ist eine Zeit für die Leistung weder bestimmt noch aus den
@@ -3345,6 +3404,68 @@ verlangen, der Schuldner sie sofort bewirken.
 (2) Ist eine Zeit bestimmt, so ist im Zweifel anzunehmen, dass der
 Gläubiger die Leistung nicht vor dieser Zeit verlangen, der Schuldner
 aber sie vorher bewirken kann.
+
+
+##### § 271a Vereinbarungen über Zahlungs-, Überprüfungs- oder Abnahmefristen
+
+(1) Eine Vereinbarung, nach der der Gläubiger die Erfüllung einer
+Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der
+Gegenleistung verlangen kann, ist nur wirksam, wenn sie ausdrücklich
+getroffen und im Hinblick auf die Belange des Gläubigers nicht grob
+unbillig ist. Geht dem Schuldner nach Empfang der Gegenleistung eine
+Rechnung oder gleichwertige Zahlungsaufstellung zu, tritt der
+Zeitpunkt des Zugangs dieser Rechnung oder Zahlungsaufstellung an die
+Stelle des in Satz 1 genannten Zeitpunkts des Empfangs der
+Gegenleistung. Es wird bis zum Beweis eines anderen Zeitpunkts
+vermutet, dass der Zeitpunkt des Zugangs der Rechnung oder
+Zahlungsaufstellung auf den Zeitpunkt des Empfangs der Gegenleistung
+fällt; hat der Gläubiger einen späteren Zeitpunkt benannt, so tritt
+dieser an die Stelle des Zeitpunkts des Empfangs der Gegenleistung.
+
+(2) Ist der Schuldner ein öffentlicher Auftraggeber im Sinne von § 99
+Nummer 1 bis 3 des Gesetzes gegen Wettbewerbsbeschränkungen, so ist
+abweichend von Absatz 1
+
+1.  eine Vereinbarung, nach der der Gläubiger die Erfüllung einer
+    Entgeltforderung erst nach mehr als 30 Tagen nach Empfang der
+    Gegenleistung verlangen kann, nur wirksam, wenn die Vereinbarung
+    ausdrücklich getroffen und aufgrund der besonderen Natur oder der
+    Merkmale des Schuldverhältnisses sachlich gerechtfertigt ist;
+
+
+2.  eine Vereinbarung, nach der der Gläubiger die Erfüllung einer
+    Entgeltforderung erst nach mehr als 60 Tagen nach Empfang der
+    Gegenleistung verlangen kann, unwirksam.
+
+
+
+Absatz 1 Satz 2 und 3 ist entsprechend anzuwenden.
+
+(3) Ist eine Entgeltforderung erst nach Überprüfung oder Abnahme der
+Gegenleistung zu erfüllen, so ist eine Vereinbarung, nach der die Zeit
+für die Überprüfung oder Abnahme der Gegenleistung mehr als 30 Tage
+nach Empfang der Gegenleistung beträgt, nur wirksam, wenn sie
+ausdrücklich getroffen und im Hinblick auf die Belange des Gläubigers
+nicht grob unbillig ist.
+
+(4) Ist eine Vereinbarung nach den Absätzen 1 bis 3 unwirksam, bleibt
+der Vertrag im Übrigen wirksam.
+
+(5) Die Absätze 1 bis 3 sind nicht anzuwenden auf
+
+1.  die Vereinbarung von Abschlagszahlungen und sonstigen Ratenzahlungen
+    sowie
+
+
+2.  ein Schuldverhältnis, aus dem ein Verbraucher die Erfüllung der
+    Entgeltforderung schuldet.
+
+
+
+
+(6) Die Absätze 1 bis 3 lassen sonstige Vorschriften, aus denen sich
+Beschränkungen für Vereinbarungen über Zahlungs-, Überprüfungs- oder
+Abnahmefristen ergeben, unberührt.
 
 
 ##### § 272 Zwischenzinsen
@@ -3408,11 +3529,10 @@ Leistungsinteresse des Gläubigers nicht zugemutet werden kann.
 (4) Die Rechte des Gläubigers bestimmen sich nach den §§ 280, 283 bis
 285, 311a und 326.
 
-[^BJNR001950896BJNE026802377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient auch der
-    Umsetzung der Richtlinie 1999/44/EG des Europäischen Parlaments und
-    des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
-    Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
-    Nr. L 171 S. 12).
+[^BJNR001950896BJNE026802377]:     **Amtlicher Hinweis:** Diese Vorschrift dient auch der Umsetzung der
+    Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom
+    25\. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+    Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
 
 ##### § 276 Verantwortlichkeit des Schuldners
@@ -3536,7 +3656,7 @@ Ersatzanspruchs.
 
 ##### § 286 Verzug des Schuldners
 
-[^BJNR001950896BJNE027902377]
+[^BJNR001950896BJNE027902377_BJNR001950896BJNE027903360]
 
 (1) Leistet der Schuldner auf eine Mahnung des Gläubigers nicht, die
 nach dem Eintritt der Fälligkeit erfolgt, so kommt er durch die
@@ -3576,10 +3696,13 @@ Gegenleistung in Verzug.
 (4) Der Schuldner kommt nicht in Verzug, solange die Leistung infolge
 eines Umstands unterbleibt, den er nicht zu vertreten hat.
 
-[^BJNR001950896BJNE027902377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient zum Teil
-    auch der Umsetzung der Richtlinie 2000/35/EG des Europäischen
-    Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
-    Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+(5) Für eine von den Absätzen 1 bis 3 abweichende Vereinbarung über
+den Eintritt des Verzugs gilt § 271a Absatz 1 bis 5 entsprechend.
+
+[^BJNR001950896BJNE027902377_BJNR001950896BJNE027903360]:     **Amtlicher Hinweis:** Diese Vorschrift dient zum Teil auch der
+    Umsetzung der Richtlinie 2000/35/EG des Europäischen Parlaments und
+    des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im
+    Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
 
 ##### § 287 Verantwortlichkeit während des Verzugs
@@ -3590,16 +3713,16 @@ dass der Schaden auch bei rechtzeitiger Leistung eingetreten sein
 würde.
 
 
-##### § 288 Verzugszinsen
+##### § 288 Verzugszinsen und sonstiger Verzugsschaden
 
-[^BJNR001950896BJNE028103377]
+[^BJNR001950896BJNE028103377_BJNR001950896BJNE028104360]
 
 (1) Eine Geldschuld ist während des Verzugs zu verzinsen. Der
 Verzugszinssatz beträgt für das Jahr fünf Prozentpunkte über dem
 Basiszinssatz.
 
 (2) Bei Rechtsgeschäften, an denen ein Verbraucher nicht beteiligt
-ist, beträgt der Zinssatz für Entgeltforderungen acht Prozentpunkte
+ist, beträgt der Zinssatz für Entgeltforderungen neun Prozentpunkte
 über dem Basiszinssatz.
 
 (3) Der Gläubiger kann aus einem anderen Rechtsgrund höhere Zinsen
@@ -3608,10 +3731,31 @@ verlangen.
 (4) Die Geltendmachung eines weiteren Schadens ist nicht
 ausgeschlossen.
 
-[^BJNR001950896BJNE028103377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient zum Teil
-    auch der Umsetzung der Richtlinie 2000/35/EG des Europäischen
-    Parlaments und des Rates vom 29. Juni 2000 zur Bekämpfung von
-    Zahlungsverzug im Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
+(5) Der Gläubiger einer Entgeltforderung hat bei Verzug des
+Schuldners, wenn dieser kein Verbraucher ist, außerdem einen Anspruch
+auf Zahlung einer Pauschale in Höhe von 40 Euro. Dies gilt auch, wenn
+es sich bei der Entgeltforderung um eine Abschlagszahlung oder
+sonstige Ratenzahlung handelt. Die Pauschale nach Satz 1 ist auf einen
+geschuldeten Schadensersatz anzurechnen, soweit der Schaden in Kosten
+der Rechtsverfolgung begründet ist.
+
+(6) Eine im Voraus getroffene Vereinbarung, die den Anspruch des
+Gläubigers einer Entgeltforderung auf Verzugszinsen ausschließt, ist
+unwirksam. Gleiches gilt für eine Vereinbarung, die diesen Anspruch
+beschränkt oder den Anspruch des Gläubigers einer Entgeltforderung auf
+die Pauschale nach Absatz 5 oder auf Ersatz des Schadens, der in
+Kosten der Rechtsverfolgung begründet ist, ausschließt oder
+beschränkt, wenn sie im Hinblick auf die Belange des Gläubigers grob
+unbillig ist. Eine Vereinbarung über den Ausschluss der Pauschale nach
+Absatz 5 oder des Ersatzes des Schadens, der in Kosten der
+Rechtsverfolgung begründet ist, ist im Zweifel als grob unbillig
+anzusehen. Die Sätze 1 bis 3 sind nicht anzuwenden, wenn sich der
+Anspruch gegen einen Verbraucher richtet.
+
+[^BJNR001950896BJNE028103377_BJNR001950896BJNE028104360]:     **Amtlicher Hinweis:** Diese Vorschrift dient zum Teil auch der
+    Umsetzung der Richtlinie 2000/35/EG des Europäischen Parlaments und
+    des Rates vom 29. Juni 2000 zur Bekämpfung von Zahlungsverzug im
+    Geschäftsverkehr (ABl. EG Nr. L 200 S. 35).
 
 
 ##### § 289 Zinseszinsverbot
@@ -3761,10 +3905,9 @@ musste.
 
 ### Abschnitt 2 - Gestaltung rechtsgeschäftlicher Schuldverhältnisse durch Allgemeine Geschäftsbedingungen
 
-[^BJNR001950896BJNG023401377_001]:     **Amtlicher Hinweis:**              Dieser Abschnitt dient auch der
-    Umsetzung der Richtlinie 93/13/EWG des Rates vom 5. April 1993 über
-    missbräuchliche Klauseln in Verbraucherverträgen (ABl. EG Nr. L 95 S.
-    29).
+[^BJNR001950896BJNG023401377_001]:     **Amtlicher Hinweis:** Dieser Abschnitt dient auch der Umsetzung der
+    Richtlinie 93/13/EWG des Rates vom 5. April 1993 über missbräuchliche
+    Klauseln in Verbraucherverträgen (ABl. EG Nr. L 95 S. 29).
 
 
 #### § 305 Einbeziehung Allgemeiner Geschäftsbedingungen in den Vertrag
@@ -3920,8 +4063,30 @@ In Allgemeinen Geschäftsbedingungen ist insbesondere unwirksam
     eine Bestimmung, durch die sich der Verwender unangemessen lange oder
     nicht hinreichend bestimmte Fristen für die Annahme oder Ablehnung
     eines Angebots oder die Erbringung einer Leistung vorbehält;
-    ausgenommen hiervon ist der Vorbehalt, erst nach Ablauf der Widerrufs-
-    oder Rückgabefrist nach § 355 Abs. 1 bis 3 und § 356 zu leisten;
+    ausgenommen hiervon ist der Vorbehalt, erst nach Ablauf der
+    Widerrufsfrist nach § 355 Absatz 1 und 2 zu leisten;
+
+
+1a. (Zahlungsfrist)
+
+    eine Bestimmung, durch die sich der Verwender eine unangemessen lange
+    Zeit für die Erfüllung einer Entgeltforderung des Vertragspartners
+    vorbehält; ist der Verwender kein Verbraucher, ist im Zweifel
+    anzunehmen, dass eine Zeit von mehr als 30 Tagen nach Empfang der
+    Gegenleistung oder, wenn dem Schuldner nach Empfang der Gegenleistung
+    eine Rechnung oder gleichwertige Zahlungsaufstellung zugeht, von mehr
+    als 30 Tagen nach Zugang dieser Rechnung oder Zahlungsaufstellung
+    unangemessen lang ist;
+
+
+1b. (Überprüfungs- und Abnahmefrist)
+
+    eine Bestimmung, durch die sich der Verwender vorbehält, eine
+    Entgeltforderung des Vertragspartners erst nach unangemessen langer
+    Zeit für die Überprüfung oder Abnahme der Gegenleistung zu erfüllen;
+    ist der Verwender kein Verbraucher, ist im Zweifel anzunehmen, dass
+    eine Zeit von mehr als 15 Tagen nach Empfang der Gegenleistung
+    unangemessen lang ist;
 
 
 2.  (Nachfrist)
@@ -4151,9 +4316,8 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
         cc) (Aufwendungen bei Nacherfüllung)
 
             die Verpflichtung des Verwenders ausgeschlossen oder beschränkt wird,
-            die zum Zwecke der Nacherfüllung erforderlichen Aufwendungen,
-            insbesondere Transport-, Wege-, Arbeits- und Materialkosten, zu
-            tragen;
+            die zum Zweck der Nacherfüllung erforderlichen Aufwendungen nach § 439
+            Absatz 2 und 3 oder § 635 Absatz 2 zu tragen oder zu ersetzen;
 
 
         dd) (Vorenthalten der Nacherfüllung)
@@ -4207,10 +4371,7 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 
 
     dies gilt nicht für Verträge über die Lieferung als zusammengehörig
-    verkaufter Sachen, für Versicherungsverträge sowie für Verträge
-    zwischen den Inhabern urheberrechtlicher Rechte und Ansprüche und
-    Verwertungsgesellschaften im Sinne des Gesetzes über die Wahrnehmung
-    von Urheberrechten und verwandten Schutzrechten;
+    verkaufter Sachen sowie für Versicherungsverträge;
 
 
 10. (Wechsel des Vertragspartners)
@@ -4270,9 +4431,44 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 13. (Form von Anzeigen und Erklärungen)
 
     eine Bestimmung, durch die Anzeigen oder Erklärungen, die dem
-    Verwender oder einem Dritten gegenüber abzugeben sind, an eine
-    strengere Form als die Schriftform oder an besondere
-    Zugangserfordernisse gebunden werden.
+    Verwender oder einem Dritten gegenüber abzugeben sind, gebunden werden
+
+    a)  an eine strengere Form als die schriftliche Form in einem Vertrag, für
+        den durch Gesetz notarielle Beurkundung vorgeschrieben ist oder
+
+
+    b)  an eine strengere Form als die Textform in anderen als den in
+        Buchstabe a genannten Verträgen oder
+
+
+    c)  an besondere Zugangserfordernisse;
+
+
+
+
+
+14. (Klageverzicht)
+
+    eine Bestimmung, wonach der andere Vertragsteil seine Ansprüche gegen
+    den Verwender gerichtlich nur geltend machen darf, nachdem er eine
+    gütliche Einigung in einem Verfahren zur außergerichtlichen
+    Streitbeilegung versucht hat;
+
+
+15. (Abschlagszahlungen und Sicherheitsleistung)
+
+    eine Bestimmung, nach der der Verwender bei einem Werkvertrag
+
+    a)  für Teilleistungen Abschlagszahlungen vom anderen Vertragsteil
+        verlangen kann, die wesentlich höher sind als die nach § 632a Absatz 1
+        und § 650m Absatz 1 zu leistenden Abschlagszahlungen, oder
+
+
+    b)  die Sicherheitsleistung nach § 650m Absatz 2 nicht oder nur in
+        geringerer Höhe leisten muss.
+
+
+
 
 
 
@@ -4280,18 +4476,19 @@ ist, ist in Allgemeinen Geschäftsbedingungen unwirksam
 
 #### § 310 Anwendungsbereich
 
-(1) § 305 Abs. 2 und 3 und die §§ 308 und 309 finden keine Anwendung
-auf Allgemeine Geschäftsbedingungen, die gegenüber einem Unternehmer,
-einer juristischen Person des öffentlichen Rechts oder einem
-öffentlich-rechtlichen Sondervermögen verwendet werden. § 307 Abs. 1
-und 2 findet in den Fällen des Satzes 1 auch insoweit Anwendung, als
-dies zur Unwirksamkeit von in den §§ 308 und 309 genannten
-Vertragsbestimmungen führt; auf die im Handelsverkehr geltenden
-Gewohnheiten und Gebräuche ist angemessen Rücksicht zu nehmen. In den
-Fällen des Satzes 1 findet § 307 Abs. 1 und 2 auf Verträge, in die die
-Vergabe- und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der
-jeweils zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne
-inhaltliche Abweichungen insgesamt einbezogen ist, in Bezug auf eine
+(1) § 305 Absatz 2 und 3, § 308 Nummer 1, 2 bis 8 und § 309 finden
+keine Anwendung auf Allgemeine Geschäftsbedingungen, die gegenüber
+einem Unternehmer, einer juristischen Person des öffentlichen Rechts
+oder einem öffentlich-rechtlichen Sondervermögen verwendet werden. §
+307 Abs. 1 und 2 findet in den Fällen des Satzes 1 auch insoweit
+Anwendung, als dies zur Unwirksamkeit von in § 308 Nummer 1, 2 bis 8
+und § 309 genannten Vertragsbestimmungen führt; auf die im
+Handelsverkehr geltenden Gewohnheiten und Gebräuche ist angemessen
+Rücksicht zu nehmen. In den Fällen des Satzes 1 finden § 307 Absatz 1
+und 2 sowie § 308 Nummer 1a und 1b auf Verträge, in die die Vergabe-
+und Vertragsordnung für Bauleistungen Teil B (VOB/B) in der jeweils
+zum Zeitpunkt des Vertragsschlusses geltenden Fassung ohne inhaltliche
+Abweichungen insgesamt einbezogen ist, in Bezug auf eine
 Inhaltskontrolle einzelner Bestimmungen keine Anwendung.
 
 (2) Die §§ 308 und 309 finden keine Anwendung auf Verträge der
@@ -4428,386 +4625,467 @@ so erstreckt sich diese Verpflichtung im Zweifel auch auf das Zubehör
 der Sache.
 
 
-##### Untertitel 2 - Besondere Vertriebsformen
-
-[^BJNR001950896BJNG023601377]
-
-[^BJNR001950896BJNG023601377]:     **Amtlicher Hinweis:**              Dieser Untertitel dient der
-    Umsetzung                                             1.
-    der Richtlinie 85/577/EWG des Rates vom 20. Dezember 1985 betreffend
-    den Verbraucherschutz im Falle von außerhalb von Geschäftsräumen
-    geschlossenen Verträgen (ABl. EG Nr. L 372 S. 31),
+##### Untertitel 2 - Grundsätze bei Verbraucherverträgen und besondere Vertriebsformen
 
 
-    2\.                                                   der Richtlinie
-    97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997
-    über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl.
-    EG Nr. L 144 S. 19) und
+###### Kapitel 1 - Anwendungsbereich und Grundsätze bei Verbraucherverträgen
 
 
-    3\.                                                   der Artikel 10,
-    11 und 18 der Richtlinie 2000/31/EG des Europäischen Parlaments und
-    des Rates vom 8. Juni 2000 über bestimmte rechtliche Aspekte der
-    Dienste der Informationsgesellschaft, insbesondere des elektronischen
-    Geschäftsverkehrs, im Binnenmarkt ("Richtlinie über den elektronischen
-    Geschäftsverkehr", ABl. EG Nr. L 178 S. 1).
+###### § 312 Anwendungsbereich
+
+(1) Die Vorschriften der Kapitel 1 und 2 dieses Untertitels sind nur
+auf Verbraucherverträge im Sinne des § 310 Absatz 3 anzuwenden, die
+eine entgeltliche Leistung des Unternehmers zum Gegenstand haben.
+
+(2) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist
+nur § 312a Absatz 1, 3, 4 und 6 auf folgende Verträge anzuwenden:
+
+1.  notariell beurkundete Verträge
+
+    a)  über Finanzdienstleistungen, die außerhalb von Geschäftsräumen
+        geschlossen werden,
 
 
-
-
-
-###### § 312 Widerrufsrecht bei Haustürgeschäften
-
-(1) Bei einem Vertrag zwischen einem Unternehmer und einem
-Verbraucher, der eine entgeltliche Leistung zum Gegenstand hat und zu
-dessen Abschluss der Verbraucher
-
-1.  durch mündliche Verhandlungen an seinem Arbeitsplatz oder im Bereich
-    einer Privatwohnung,
-
-
-2.  anlässlich einer vom Unternehmer oder von einem Dritten zumindest auch
-    im Interesse des Unternehmers durchgeführten Freizeitveranstaltung
-    oder
-
-
-3.  im Anschluss an ein überraschendes Ansprechen in Verkehrsmitteln oder
-    im Bereich öffentlich zugänglicher Verkehrsflächen
-
-
-
-bestimmt worden ist (Haustürgeschäft), steht dem Verbraucher ein
-Widerrufsrecht gemäß § 355 zu. Dem Verbraucher kann anstelle des
-Widerrufsrechts ein Rückgaberecht nach § 356 eingeräumt werden, wenn
-zwischen dem Verbraucher und dem Unternehmer im Zusammenhang mit
-diesem oder einem späteren Geschäft auch eine ständige Verbindung
-aufrechterhalten werden soll.
-
-(2) Der Unternehmer ist verpflichtet, den Verbraucher gemäß § 360 über
-sein Widerrufs- oder Rückgaberecht zu belehren. Die Belehrung muss auf
-die Rechtsfolgen des § 357 Abs. 1 und 3 hinweisen. Der Hinweis ist
-nicht erforderlich, soweit diese Rechtsfolgen tatsächlich nicht
-eintreten können.
-
-(3) Das Widerrufs- oder Rückgaberecht besteht unbeschadet anderer
-Vorschriften nicht bei Versicherungsverträgen oder wenn
-
-1.  im Falle von Absatz 1 Nr. 1 die mündlichen Verhandlungen, auf denen
-    der Abschluss des Vertrags beruht, auf vorhergehende Bestellung des
-    Verbrauchers geführt worden sind oder
-
-
-2.  die Leistung bei Abschluss der Verhandlungen sofort erbracht und
-    bezahlt wird und das Entgelt 40 Euro nicht übersteigt oder
-
-
-3.  die Willenserklärung des Verbrauchers von einem Notar beurkundet
-    worden ist.
+    b)  die keine Verträge über Finanzdienstleistungen sind; für Verträge, für
+        die das Gesetz die notarielle Beurkundung des Vertrags oder einer
+        Vertragserklärung nicht vorschreibt, gilt dies nur, wenn der Notar
+        darüber belehrt, dass die Informationspflichten nach § 312d Absatz 1
+        und das Widerrufsrecht nach § 312g Absatz 1 entfallen,
 
 
 
 
 
-###### § 312a Verhältnis zu anderen Vorschriften
-
-Steht dem Verbraucher zugleich nach Maßgabe anderer Vorschriften ein
-Widerrufs- oder Rückgaberecht nach § 355 oder § 356 dieses Gesetzes,
-nach § 126 des Investmentgesetzes zu, ist das Widerrufs- oder
-Rückgaberecht nach § 312 ausgeschlossen.
+2.  Verträge über die Begründung, den Erwerb oder die Übertragung von
+    Eigentum oder anderen Rechten an Grundstücken,
 
 
-###### § 312b Fernabsatzverträge
-
-(1) Fernabsatzverträge sind Verträge über die Lieferung von Waren oder
-über die Erbringung von Dienstleistungen, einschließlich
-Finanzdienstleistungen, die zwischen einem Unternehmer und einem
-Verbraucher unter ausschließlicher Verwendung von
-Fernkommunikationsmitteln abgeschlossen werden, es sei denn, dass der
-Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten
-Vertriebs- oder Dienstleistungssystems erfolgt. Finanzdienstleistungen
-im Sinne des Satzes 1 sind Bankdienstleistungen sowie Dienstleistungen
-im Zusammenhang mit einer Kreditgewährung, Versicherung,
-Altersversorgung von Einzelpersonen, Geldanlage oder Zahlung.
-
-(2) Fernkommunikationsmittel sind Kommunikationsmittel, die zur
-Anbahnung oder zum Abschluss eines Vertrags zwischen einem Verbraucher
-und einem Unternehmer ohne gleichzeitige körperliche Anwesenheit der
-Vertragsparteien eingesetzt werden können, insbesondere Briefe,
-Kataloge, Telefonanrufe, Telekopien, E-Mails sowie Rundfunk, Tele- und
-Mediendienste.
-
-(3) Die Vorschriften über Fernabsatzverträge finden keine Anwendung
-auf Verträge
-
-1.  über Fernunterricht (§ 1 des Fernunterrichtsschutzgesetzes),
+3.  Verbraucherbauverträge nach § 650i Absatz 1,
 
 
-2.  über die Teilzeitnutzung von Wohngebäuden, langfristige
-    Urlaubsprodukte sowie auf Vermittlungsverträge oder
-    Tauschsystemverträge (§§ 481 bis 481b),
+4.  (weggefallen)
 
 
-3.  über Versicherungen sowie deren Vermittlung,
+5.  Verträge über die Beförderung von Personen,
 
 
-4.  über die Veräußerung von Grundstücken und grundstücksgleichen Rechten,
-    die Begründung, Veräußerung und Aufhebung von dinglichen Rechten an
-    Grundstücken und grundstücksgleichen Rechten sowie über die Errichtung
-    von Bauwerken,
+6.  Verträge über Teilzeit-Wohnrechte, langfristige Urlaubsprodukte,
+    Vermittlungen und Tauschsysteme nach den §§ 481 bis 481b,
 
 
-5.  über die Lieferung von Lebensmitteln, Getränken oder sonstigen
-    Haushaltsgegenständen des täglichen Bedarfs, die am Wohnsitz, am
-    Aufenthaltsort oder am Arbeitsplatz eines Verbrauchers von
-    Unternehmern im Rahmen häufiger und regelmäßiger Fahrten geliefert
+7.  Behandlungsverträge nach § 630a,
+
+
+8.  Verträge über die Lieferung von Lebensmitteln, Getränken oder
+    sonstigen Haushaltsgegenständen des täglichen Bedarfs, die am
+    Wohnsitz, am Aufenthaltsort oder am Arbeitsplatz eines Verbrauchers
+    von einem Unternehmer im Rahmen häufiger und regelmäßiger Fahrten
+    geliefert werden,
+
+
+9.  Verträge, die unter Verwendung von Warenautomaten und automatisierten
+    Geschäftsräumen geschlossen werden,
+
+
+10. Verträge, die mit Betreibern von Telekommunikationsmitteln mit Hilfe
+    öffentlicher Münz- und Kartentelefone zu deren Nutzung geschlossen
     werden,
 
 
-6.  über die Erbringung von Dienstleistungen in den Bereichen
-    Unterbringung, Beförderung, Lieferung von Speisen und Getränken sowie
-    Freizeitgestaltung, wenn sich der Unternehmer bei Vertragsschluss
-    verpflichtet, die Dienstleistungen zu einem bestimmten Zeitpunkt oder
-    innerhalb eines genau angegebenen Zeitraums zu erbringen,
+11. Verträge zur Nutzung einer einzelnen von einem Verbraucher
+    hergestellten Telefon-, Internet- oder Telefaxverbindung,
 
 
-7.  die geschlossen werden
+12. außerhalb von Geschäftsräumen geschlossene Verträge, bei denen die
+    Leistung bei Abschluss der Verhandlungen sofort erbracht und bezahlt
+    wird und das vom Verbraucher zu zahlende Entgelt 40 Euro nicht
+    überschreitet, und
 
-    a)  unter Verwendung von Warenautomaten oder automatisierten
-        Geschäftsräumen oder
 
-
-    b)  mit Betreibern von Telekommunikationsmitteln auf Grund der Benutzung
-        von öffentlichen Fernsprechern, soweit sie deren Benutzung zum
-        Gegenstand haben.
+13. Verträge über den Verkauf beweglicher Sachen auf Grund von
+    Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen.
 
 
 
 
+(3) Auf Verträge über soziale Dienstleistungen, wie Kinderbetreuung
+oder Unterstützung von dauerhaft oder vorübergehend hilfsbedürftigen
+Familien oder Personen, einschließlich Langzeitpflege, sind von den
+Vorschriften der Kapitel 1 und 2 dieses Untertitels nur folgende
+anzuwenden:
+
+1.  die Definitionen der außerhalb von Geschäftsräumen geschlossenen
+    Verträge und der Fernabsatzverträge nach den §§ 312b und 312c,
+
+
+2.  § 312a Absatz 1 über die Pflicht zur Offenlegung bei Telefonanrufen,
+
+
+3.  § 312a Absatz 3 über die Wirksamkeit der Vereinbarung, die auf eine
+    über das vereinbarte Entgelt für die Hauptleistung hinausgehende
+    Zahlung gerichtet ist,
+
+
+4.  § 312a Absatz 4 über die Wirksamkeit der Vereinbarung eines Entgelts
+    für die Nutzung von Zahlungsmitteln,
+
+
+5.  § 312a Absatz 6,
+
+
+6.  § 312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 2 und 3 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche über die Pflicht zur
+    Information über das Widerrufsrecht und
+
+
+7.  § 312g über das Widerrufsrecht.
 
 
 
-(4) Bei Vertragsverhältnissen, die eine erstmalige Vereinbarung mit
-daran anschließenden aufeinander folgenden Vorgängen oder eine daran
+
+(4) Auf Verträge über die Vermietung von Wohnraum sind von den
+Vorschriften der Kapitel 1 und 2 dieses Untertitels nur die in Absatz
+3 Nummer 1 bis 7 genannten Bestimmungen anzuwenden. Die in Absatz 3
+Nummer 1, 6 und 7 genannten Bestimmungen sind jedoch nicht auf die
+Begründung eines Mietverhältnisses über Wohnraum anzuwenden, wenn der
+Mieter die Wohnung zuvor besichtigt hat.
+
+(5) Bei Vertragsverhältnissen über Bankdienstleistungen sowie
+Dienstleistungen im Zusammenhang mit einer Kreditgewährung,
+Versicherung, Altersversorgung von Einzelpersonen, Geldanlage oder
+Zahlung (Finanzdienstleistungen), die eine erstmalige Vereinbarung mit
+daran anschließenden aufeinanderfolgenden Vorgängen oder eine daran
 anschließende Reihe getrennter, in einem zeitlichen Zusammenhang
-stehender Vorgänge der gleichen Art umfassen, finden die Vorschriften
-über Fernabsatzverträge nur Anwendung auf die erste Vereinbarung. Wenn
-derartige Vorgänge ohne eine solche Vereinbarung aufeinander folgen,
-gelten die Vorschriften über Informationspflichten des Unternehmers
-nur für den ersten Vorgang. Findet jedoch länger als ein Jahr kein
-Vorgang der gleichen Art mehr statt, so gilt der nächste Vorgang als
-der erste Vorgang einer neuen Reihe im Sinne von Satz 2.
+stehender Vorgänge gleicher Art umfassen, sind die Vorschriften der
+Kapitel 1 und 2 dieses Untertitels nur auf die erste Vereinbarung
+anzuwenden. § 312a Absatz 1, 3, 4 und 6 ist daneben auf jeden Vorgang
+anzuwenden. Wenn die in Satz 1 genannten Vorgänge ohne eine solche
+Vereinbarung aufeinanderfolgen, gelten die Vorschriften über
+Informationspflichten des Unternehmers nur für den ersten Vorgang.
+Findet jedoch länger als ein Jahr kein Vorgang der gleichen Art mehr
+statt, so gilt der nächste Vorgang als der erste Vorgang einer neuen
+Reihe im Sinne von Satz 3.
 
-(5) Weitergehende Vorschriften zum Schutz des Verbrauchers bleiben
-unberührt.
+(6) Von den Vorschriften der Kapitel 1 und 2 dieses Untertitels ist
+auf Verträge über Versicherungen sowie auf Verträge über deren
+Vermittlung nur § 312a Absatz 3, 4 und 6 anzuwenden.
 
-
-###### § 312c Unterrichtung des Verbrauchers bei Fernabsatzverträgen
-
-(1) Der Unternehmer hat den Verbraucher bei Fernabsatzverträgen nach
-Maßgabe des Artikels 246 §§ 1 und 2 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche zu unterrichten.
-
-(2) Der Unternehmer hat bei von ihm veranlassten Telefongesprächen
-seine Identität und den geschäftlichen Zweck des Kontakts bereits zu
-Beginn eines jeden Gesprächs ausdrücklich offenzulegen.
-
-(3) Bei Finanzdienstleistungen kann der Verbraucher während der
-Laufzeit des Vertrags jederzeit vom Unternehmer verlangen, dass ihm
-dieser die Vertragsbestimmungen einschließlich der Allgemeinen
-Geschäftsbedingungen in einer Urkunde zur Verfügung stellt.
-
-(4) Weitergehende Einschränkungen bei der Verwendung von
-Fernkommunikationsmitteln und weitergehende Informationspflichten auf
-Grund anderer Vorschriften bleiben unberührt.
+(7) Auf Pauschalreiseverträge nach den §§ 651a und 651c sind von den
+Vorschriften dieses Untertitels nur § 312a Absatz 3 bis 6, die §§
+312i, 312j Absatz 2 bis 5 und § 312k anzuwenden; diese Vorschriften
+finden auch Anwendung, wenn der Reisende kein Verbraucher ist. Ist der
+Reisende ein Verbraucher, ist auf Pauschalreiseverträge nach § 651a,
+die außerhalb von Geschäftsräumen geschlossen worden sind, auch § 312g
+Absatz 1 anzuwenden, es sei denn, die mündlichen Verhandlungen, auf
+denen der Vertragsschluss beruht, sind auf vorhergehende Bestellung
+des Verbrauchers geführt worden.
 
 
-###### § 312d Widerrufs- und Rückgaberecht bei Fernabsatzverträgen
+###### § 312a Allgemeine Pflichten und Grundsätze bei Verbraucherverträgen; Grenzen der Vereinbarung von Entgelten
 
-(1) Dem Verbraucher steht bei einem Fernabsatzvertrag ein
-Widerrufsrecht nach § 355 zu. Anstelle des Widerrufsrechts kann dem
-Verbraucher bei Verträgen über die Lieferung von Waren ein
-Rückgaberecht nach § 356 eingeräumt werden.
+(1) Ruft der Unternehmer oder eine Person, die in seinem Namen oder
+Auftrag handelt, den Verbraucher an, um mit diesem einen Vertrag zu
+schließen, hat der Anrufer zu Beginn des Gesprächs seine Identität und
+gegebenenfalls die Identität der Person, für die er anruft, sowie den
+geschäftlichen Zweck des Anrufs offenzulegen.
 
-(2) Die Widerrufsfrist beginnt abweichend von § 355 Abs. 3 Satz 1
-nicht vor Erfüllung der Informationspflichten gemäß Artikel 246 § 2 in
-Verbindung mit § 1 Abs. 1 und 2 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche, bei der Lieferung von Waren nicht vor deren
-Eingang beim Empfänger, bei der wiederkehrenden Lieferung
-gleichartiger Waren nicht vor Eingang der ersten Teillieferung und bei
-Dienstleistungen nicht vor Vertragsschluss.
+(2) Der Unternehmer ist verpflichtet, den Verbraucher nach Maßgabe des
+Artikels 246 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu
+informieren. Der Unternehmer kann von dem Verbraucher Fracht-, Liefer-
+oder Versandkosten und sonstige Kosten nur verlangen, soweit er den
+Verbraucher über diese Kosten entsprechend den Anforderungen aus
+Artikel 246 Absatz 1 Nummer 3 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche informiert hat. Die Sätze 1 und 2 sind weder auf außerhalb
+von Geschäftsräumen geschlossene Verträge noch auf Fernabsatzverträge
+noch auf Verträge über Finanzdienstleistungen anzuwenden.
 
-(3) Das Widerrufsrecht erlischt bei einer Dienstleistung auch dann,
-wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des
-Verbrauchers vollständig erfüllt ist, bevor der Verbraucher sein
-Widerrufsrecht ausgeübt hat.
+(3) Eine Vereinbarung, die auf eine über das vereinbarte Entgelt für
+die Hauptleistung hinausgehende Zahlung des Verbrauchers gerichtet
+ist, kann ein Unternehmer mit einem Verbraucher nur ausdrücklich
+treffen. Schließen der Unternehmer und der Verbraucher einen Vertrag
+im elektronischen Geschäftsverkehr, wird eine solche Vereinbarung nur
+Vertragsbestandteil, wenn der Unternehmer die Vereinbarung nicht durch
+eine Voreinstellung herbeiführt.
 
-(4) Das Widerrufsrecht besteht, soweit nicht ein anderes bestimmt ist,
-nicht bei Fernabsatzverträgen
+(4) Eine Vereinbarung, durch die ein Verbraucher verpflichtet wird,
+ein Entgelt dafür zu zahlen, dass er für die Erfüllung seiner
+vertraglichen Pflichten ein bestimmtes Zahlungsmittel nutzt, ist
+unwirksam, wenn
 
-1.  zur Lieferung von Waren, die nach Kundenspezifikation angefertigt
-    werden oder eindeutig auf die persönlichen Bedürfnisse zugeschnitten
-    sind oder die auf Grund ihrer Beschaffenheit nicht für eine
-    Rücksendung geeignet sind oder schnell verderben können oder deren
-    Verfalldatum überschritten würde,
-
-
-2.  zur Lieferung von Audio- oder Videoaufzeichnungen oder von Software,
-    sofern die gelieferten Datenträger vom Verbraucher entsiegelt worden
-    sind,
+1.  für den Verbraucher keine gängige und zumutbare unentgeltliche
+    Zahlungsmöglichkeit besteht oder
 
 
-3.  zur Lieferung von Zeitungen, Zeitschriften und Illustrierten, es sei
+2.  das vereinbarte Entgelt über die Kosten hinausgeht, die dem
+    Unternehmer durch die Nutzung des Zahlungsmittels entstehen.
+
+
+
+
+(5) Eine Vereinbarung, durch die ein Verbraucher verpflichtet wird,
+ein Entgelt dafür zu zahlen, dass der Verbraucher den Unternehmer
+wegen Fragen oder Erklärungen zu einem zwischen ihnen geschlossenen
+Vertrag über eine Rufnummer anruft, die der Unternehmer für solche
+Zwecke bereithält, ist unwirksam, wenn das vereinbarte Entgelt das
+Entgelt für die bloße Nutzung des Telekommunikationsdienstes
+übersteigt. Ist eine Vereinbarung nach Satz 1 unwirksam, ist der
+Verbraucher auch gegenüber dem Anbieter des Telekommunikationsdienstes
+nicht verpflichtet, ein Entgelt für den Anruf zu zahlen. Der Anbieter
+des Telekommunikationsdienstes ist berechtigt, das Entgelt für die
+bloße Nutzung des Telekommunikationsdienstes von dem Unternehmer zu
+verlangen, der die unwirksame Vereinbarung mit dem Verbraucher
+geschlossen hat.
+
+(6) Ist eine Vereinbarung nach den Absätzen 3 bis 5 nicht
+Vertragsbestandteil geworden oder ist sie unwirksam, bleibt der
+Vertrag im Übrigen wirksam.
+
+
+###### Kapitel 2 - Außerhalb von Geschäftsräumen geschlossene Verträge und Fernabsatzverträge
+
+
+###### § 312b Außerhalb von Geschäftsräumen geschlossene Verträge
+
+(1) Außerhalb von Geschäftsräumen geschlossene Verträge sind Verträge,
+
+1.  die bei gleichzeitiger körperlicher Anwesenheit des Verbrauchers und
+    des Unternehmers an einem Ort geschlossen werden, der kein
+    Geschäftsraum des Unternehmers ist,
+
+
+2.  für die der Verbraucher unter den in Nummer 1 genannten Umständen ein
+    Angebot abgegeben hat,
+
+
+3.  die in den Geschäftsräumen des Unternehmers oder durch
+    Fernkommunikationsmittel geschlossen werden, bei denen der Verbraucher
+    jedoch unmittelbar zuvor außerhalb der Geschäftsräume des Unternehmers
+    bei gleichzeitiger körperlicher Anwesenheit des Verbrauchers und des
+    Unternehmers persönlich und individuell angesprochen wurde, oder
+
+
+4.  die auf einem Ausflug geschlossen werden, der von dem Unternehmer oder
+    mit seiner Hilfe organisiert wurde, um beim Verbraucher für den
+    Verkauf von Waren oder die Erbringung von Dienstleistungen zu werben
+    und mit ihm entsprechende Verträge abzuschließen.
+
+
+
+Dem Unternehmer stehen Personen gleich, die in seinem Namen oder
+Auftrag handeln.
+
+(2) Geschäftsräume im Sinne des Absatzes 1 sind unbewegliche
+Gewerberäume, in denen der Unternehmer seine Tätigkeit dauerhaft
+ausübt, und bewegliche Gewerberäume, in denen der Unternehmer seine
+Tätigkeit für gewöhnlich ausübt. Gewerberäume, in denen die Person,
+die im Namen oder Auftrag des Unternehmers handelt, ihre Tätigkeit
+dauerhaft oder für gewöhnlich ausübt, stehen Räumen des Unternehmers
+gleich.
+
+
+###### § 312c Fernabsatzverträge
+
+(1) Fernabsatzverträge sind Verträge, bei denen der Unternehmer oder
+eine in seinem Namen oder Auftrag handelnde Person und der Verbraucher
+für die Vertragsverhandlungen und den Vertragsschluss ausschließlich
+Fernkommunikationsmittel verwenden, es sei denn, dass der
+Vertragsschluss nicht im Rahmen eines für den Fernabsatz organisierten
+Vertriebs- oder Dienstleistungssystems erfolgt.
+
+(2) Fernkommunikationsmittel im Sinne dieses Gesetzes sind alle
+Kommunikationsmittel, die zur Anbahnung oder zum Abschluss eines
+Vertrags eingesetzt werden können, ohne dass die Vertragsparteien
+gleichzeitig körperlich anwesend sind, wie Briefe, Kataloge,
+Telefonanrufe, Telekopien, E-Mails, über den Mobilfunkdienst
+versendete Nachrichten (SMS) sowie Rundfunk und Telemedien.
+
+
+###### § 312d Informationspflichten
+
+(1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei
+Fernabsatzverträgen ist der Unternehmer verpflichtet, den Verbraucher
+nach Maßgabe des Artikels 246a des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu informieren. Die in Erfüllung dieser
+Pflicht gemachten Angaben des Unternehmers werden Inhalt des Vertrags,
+es sei denn, die Vertragsparteien haben ausdrücklich etwas anderes
+vereinbart.
+
+(2) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei
+Fernabsatzverträgen über Finanzdienstleistungen ist der Unternehmer
+abweichend von Absatz 1 verpflichtet, den Verbraucher nach Maßgabe des
+Artikels 246b des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu
+informieren.
+
+
+###### § 312e Verletzung von Informationspflichten über Kosten
+
+Der Unternehmer kann von dem Verbraucher Fracht-, Liefer- oder
+Versandkosten und sonstige Kosten nur verlangen, soweit er den
+Verbraucher über diese Kosten entsprechend den Anforderungen aus §
+312d Absatz 1 in Verbindung mit Artikel 246a § 1 Absatz 1 Satz 1
+Nummer 4 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+informiert hat.
+
+
+###### § 312f Abschriften und Bestätigungen
+
+(1) Bei außerhalb von Geschäftsräumen geschlossenen Verträgen ist der
+Unternehmer verpflichtet, dem Verbraucher alsbald auf Papier zur
+Verfügung zu stellen
+
+1.  eine Abschrift eines Vertragsdokuments, das von den
+    Vertragsschließenden so unterzeichnet wurde, dass ihre Identität
+    erkennbar ist, oder
+
+
+2.  eine Bestätigung des Vertrags, in der der Vertragsinhalt wiedergegeben
+    ist.
+
+
+
+Wenn der Verbraucher zustimmt, kann für die Abschrift oder die
+Bestätigung des Vertrags auch ein anderer dauerhafter Datenträger
+verwendet werden. Die Bestätigung nach Satz 1 muss die in Artikel 246a
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Angaben
+nur enthalten, wenn der Unternehmer dem Verbraucher diese
+Informationen nicht bereits vor Vertragsschluss in Erfüllung seiner
+Informationspflichten nach § 312d Absatz 1 auf einem dauerhaften
+Datenträger zur Verfügung gestellt hat.
+
+(2) Bei Fernabsatzverträgen ist der Unternehmer verpflichtet, dem
+Verbraucher eine Bestätigung des Vertrags, in der der Vertragsinhalt
+wiedergegeben ist, innerhalb einer angemessenen Frist nach
+Vertragsschluss, spätestens jedoch bei der Lieferung der Ware oder
+bevor mit der Ausführung der Dienstleistung begonnen wird, auf einem
+dauerhaften Datenträger zur Verfügung zu stellen. Die Bestätigung nach
+Satz 1 muss die in Artikel 246a des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche genannten Angaben enthalten, es sei denn, der
+Unternehmer hat dem Verbraucher diese Informationen bereits vor
+Vertragsschluss in Erfüllung seiner Informationspflichten nach § 312d
+Absatz 1 auf einem dauerhaften Datenträger zur Verfügung gestellt.
+
+(3) Bei Verträgen über die Lieferung von nicht auf einem körperlichen
+Datenträger befindlichen Daten, die in digitaler Form hergestellt und
+bereitgestellt werden (digitale Inhalte), ist auf der Abschrift oder
+in der Bestätigung des Vertrags nach den Absätzen 1 und 2
+gegebenenfalls auch festzuhalten, dass der Verbraucher vor Ausführung
+des Vertrags
+
+1.  ausdrücklich zugestimmt hat, dass der Unternehmer mit der Ausführung
+    des Vertrags vor Ablauf der Widerrufsfrist beginnt, und
+
+
+2.  seine Kenntnis davon bestätigt hat, dass er durch seine Zustimmung mit
+    Beginn der Ausführung des Vertrags sein Widerrufsrecht verliert.
+
+
+
+
+(4) Diese Vorschrift ist nicht anwendbar auf Verträge über
+Finanzdienstleistungen.
+
+
+###### § 312g Widerrufsrecht
+
+(1) Dem Verbraucher steht bei außerhalb von Geschäftsräumen
+geschlossenen Verträgen und bei Fernabsatzverträgen ein Widerrufsrecht
+gemäß § 355 zu.
+
+(2) Das Widerrufsrecht besteht, soweit die Parteien nichts anderes
+vereinbart haben, nicht bei folgenden Verträgen:
+
+1.  Verträge zur Lieferung von Waren, die nicht vorgefertigt sind und für
+    deren Herstellung eine individuelle Auswahl oder Bestimmung durch den
+    Verbraucher maßgeblich ist oder die eindeutig auf die persönlichen
+    Bedürfnisse des Verbrauchers zugeschnitten sind,
+
+
+2.  Verträge zur Lieferung von Waren, die schnell verderben können oder
+    deren Verfallsdatum schnell überschritten würde,
+
+
+3.  Verträge zur Lieferung versiegelter Waren, die aus Gründen des
+    Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind,
+    wenn ihre Versiegelung nach der Lieferung entfernt wurde,
+
+
+4.  Verträge zur Lieferung von Waren, wenn diese nach der Lieferung auf
+    Grund ihrer Beschaffenheit untrennbar mit anderen Gütern vermischt
+    wurden,
+
+
+5.  Verträge zur Lieferung alkoholischer Getränke, deren Preis bei
+    Vertragsschluss vereinbart wurde, die aber frühestens 30 Tage nach
+    Vertragsschluss geliefert werden können und deren aktueller Wert von
+    Schwankungen auf dem Markt abhängt, auf die der Unternehmer keinen
+    Einfluss hat,
+
+
+6.  Verträge zur Lieferung von Ton- oder Videoaufnahmen oder
+    Computersoftware in einer versiegelten Packung, wenn die Versiegelung
+    nach der Lieferung entfernt wurde,
+
+
+7.  Verträge zur Lieferung von Zeitungen, Zeitschriften oder Illustrierten
+    mit Ausnahme von Abonnement-Verträgen,
+
+
+8.  Verträge zur Lieferung von Waren oder zur Erbringung von
+    Dienstleistungen, einschließlich Finanzdienstleistungen, deren Preis
+    von Schwankungen auf dem Finanzmarkt abhängt, auf die der Unternehmer
+    keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten
+    können, insbesondere Dienstleistungen im Zusammenhang mit Aktien, mit
+    Anteilen an offenen Investmentvermögen im Sinne von § 1 Absatz 4 des
+    Kapitalanlagegesetzbuchs und mit anderen handelbaren Wertpapieren,
+    Devisen, Derivaten oder Geldmarktinstrumenten,
+
+
+9.  Verträge zur Erbringung von Dienstleistungen in den Bereichen
+    Beherbergung zu anderen Zwecken als zu Wohnzwecken, Beförderung von
+    Waren, Kraftfahrzeugvermietung, Lieferung von Speisen und Getränken
+    sowie zur Erbringung weiterer Dienstleistungen im Zusammenhang mit
+    Freizeitbetätigungen, wenn der Vertrag für die Erbringung einen
+    spezifischen Termin oder Zeitraum vorsieht,
+
+
+10. Verträge, die im Rahmen einer Vermarktungsform geschlossen werden, bei
+    der der Unternehmer Verbrauchern, die persönlich anwesend sind oder
+    denen diese Möglichkeit gewährt wird, Waren oder Dienstleistungen
+    anbietet, und zwar in einem vom Versteigerer durchgeführten, auf
+    konkurrierenden Geboten basierenden transparenten Verfahren, bei dem
+    der Bieter, der den Zuschlag erhalten hat, zum Erwerb der Waren oder
+    Dienstleistungen verpflichtet ist (öffentlich zugängliche
+    Versteigerung),
+
+
+11. Verträge, bei denen der Verbraucher den Unternehmer ausdrücklich
+    aufgefordert hat, ihn aufzusuchen, um dringende Reparatur- oder
+    Instandhaltungsarbeiten vorzunehmen; dies gilt nicht hinsichtlich
+    weiterer bei dem Besuch erbrachter Dienstleistungen, die der
+    Verbraucher nicht ausdrücklich verlangt hat, oder hinsichtlich solcher
+    bei dem Besuch gelieferter Waren, die bei der Instandhaltung oder
+    Reparatur nicht unbedingt als Ersatzteile benötigt werden,
+
+
+12. Verträge zur Erbringung von Wett- und Lotteriedienstleistungen, es sei
     denn, dass der Verbraucher seine Vertragserklärung telefonisch
-    abgegeben hat,
+    abgegeben hat oder der Vertrag außerhalb von Geschäftsräumen
+    geschlossen wurde, und
 
 
-4.  zur Erbringung von Wett- und Lotterie-Dienstleistungen, es sei denn,
-    dass der Verbraucher seine Vertragserklärung telefonisch abgegeben
-    hat,
-
-
-5.  die in der Form von Versteigerungen (§ 156) geschlossen werden,
-
-
-6.  die die Lieferung von Waren oder die Erbringung von
-    Finanzdienstleistungen zum Gegenstand haben, deren Preis auf dem
-    Finanzmarkt Schwankungen unterliegt, auf die der Unternehmer keinen
-    Einfluss hat und die innerhalb der Widerrufsfrist auftreten können,
-    insbesondere Dienstleistungen im Zusammenhang mit Aktien,
-    Anteilsscheinen, die von einer Kapitalanlagegesellschaft oder einer
-    ausländischen Investmentgesellschaft ausgegeben werden, und anderen
-    handelbaren Wertpapieren, Devisen, Derivaten oder
-    Geldmarktinstrumenten, oder
-
-
-7.  zur Erbringung telekommunikationsgestützter Dienste, die auf
-    Veranlassung des Verbrauchers unmittelbar per Telefon oder Telefax in
-    einem Mal erbracht werden, sofern es sich nicht um
-    Finanzdienstleistungen handelt.
+13. notariell beurkundete Verträge; dies gilt für Fernabsatzverträge über
+    Finanzdienstleistungen nur, wenn der Notar bestätigt, dass die Rechte
+    des Verbrauchers aus § 312d Absatz 2 gewahrt sind.
 
 
 
 
-(5) Das Widerrufsrecht besteht ferner nicht bei Fernabsatzverträgen,
-bei denen dem Verbraucher bereits auf Grund der §§ 495, 506 bis 512
-ein Widerrufs- oder Rückgaberecht nach § 355 oder § 356 zusteht. Bei
-Ratenlieferungsverträgen gelten Absatz 2 und § 312e Absatz 1
-entsprechend.
-
-(6) (weggefallen)
-
-
-###### § 312e Wertersatz bei Fernabsatzverträgen
-
-(1) Bei Fernabsatzverträgen über die Lieferung von Waren hat der
-Verbraucher abweichend von § 357 Absatz 1 Wertersatz für Nutzungen
-nach den Vorschriften über den gesetzlichen Rücktritt nur zu leisten,
-
-1.  soweit er die Ware in einer Art und Weise genutzt hat, die über die
-    Prüfung der Eigenschaften und der Funktionsweise hinausgeht, und
-
-
-2.  wenn er zuvor vom Unternehmer auf diese Rechtsfolge hingewiesen und
-    nach § 360 Absatz 1 oder 2 über sein Widerrufs- oder Rückgaberecht
-    belehrt worden ist oder von beidem anderweitig Kenntnis erlangt hat.
-
-
-
-§ 347 Absatz 1 Satz 1 ist nicht anzuwenden.
-
-(2) Bei Fernabsatzverträgen über Dienstleistungen hat der Verbraucher
-abweichend von § 357 Absatz 1 Wertersatz für die erbrachte
-Dienstleistung nach den Vorschriften über den gesetzlichen Rücktritt
-nur zu leisten,
-
-1.  wenn er vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge
-    hingewiesen worden ist und
-
-
-2.  wenn er ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der
-    Widerrufsfrist mit der Ausführung der Dienstleistung beginnt.
-
-
-
-
-
-###### § 312f Zu Fernabsatzverträgen über Finanzdienstleistungen hinzugefügte Verträge
-
-Hat der Verbraucher seine Willenserklärung, die auf den Abschluss
-eines Fernabsatzvertrags über eine Finanzdienstleistung gerichtet ist,
-wirksam widerrufen, so ist er auch nicht mehr an seine
-Willenserklärung hinsichtlich eines hinzugefügten Fernabsatzvertrags
-gebunden, der eine weitere Dienstleistung des Unternehmers oder eines
-Dritten auf der Grundlage einer Vereinbarung zwischen dem Unternehmer
-und dem Dritten zum Gegenstand hat. § 357 gilt für den hinzugefügten
-Vertrag entsprechend; § 312e gilt entsprechend, wenn für den
-hinzugefügten Vertrag ein Widerrufsrecht gemäß § 312d besteht oder
-bestand.
-
-
-###### § 312g Pflichten im elektronischen Geschäftsverkehr
-
-(1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines
-Vertrags über die Lieferung von Waren oder über die Erbringung von
-Dienstleistungen der Telemedien (Vertrag im elektronischen
-Geschäftsverkehr), hat er dem Kunden
-
-1.  angemessene, wirksame und zugängliche technische Mittel zur Verfügung
-    zu stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner
-    Bestellung erkennen und berichtigen kann,
-
-
-2.  die in Artikel 246 § 3 des Einführungsgesetzes zum Bürgerlichen
-    Gesetzbuche bestimmten Informationen rechtzeitig vor Abgabe von dessen
-    Bestellung klar und verständlich mitzuteilen,
-
-
-3.  den Zugang von dessen Bestellung unverzüglich auf elektronischem Wege
-    zu bestätigen und
-
-
-4.  die Möglichkeit zu verschaffen, die Vertragsbestimmungen
-    einschließlich der Allgemeinen Geschäftsbedingungen bei
-    Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern.
-
-
-
-Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nr. 3 gelten
-als zugegangen, wenn die Parteien, für die sie bestimmt sind, sie
-unter gewöhnlichen Umständen abrufen können.
-
-(2) Bei einem Vertrag im elektronischen Geschäftsverkehr zwischen
-einem Unternehmer und einem Verbraucher, der eine entgeltliche
-Leistung des Unternehmers zum Gegenstand hat, muss der Unternehmer dem
-Verbraucher die Informationen gemäß Artikel 246 § 1 Absatz 1 Nummer 4
-erster Halbsatz und Nummer 5, 7 und 8 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche, unmittelbar bevor der Verbraucher seine
-Bestellung abgibt, klar und verständlich in hervorgehobener Weise zur
-Verfügung stellen. Diese Pflicht gilt nicht für Verträge über die in §
-312b Absatz 1 Satz 2 genannten Finanzdienstleistungen.
-
-(3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach
-Absatz 2 Satz 1 so zu gestalten, dass der Verbraucher mit seiner
-Bestellung ausdrücklich bestätigt, dass er sich zu einer Zahlung
-verpflichtet. Erfolgt die Bestellung über eine Schaltfläche, ist die
-Pflicht des Unternehmers aus Satz 1 nur erfüllt, wenn diese
-Schaltfläche gut lesbar mit nichts anderem als den Wörtern
-„zahlungspflichtig bestellen“ oder mit einer entsprechenden
-eindeutigen Formulierung beschriftet ist.
-
-(4) Ein Vertrag nach Absatz 2 Satz 1 kommt nur zustande, wenn der
-Unternehmer seine Pflicht aus Absatz 3 erfüllt.
-
-(5) Absatz 1 Satz 1 Nr. 1 bis 3 und die Absätze 2 bis 4 finden keine
-Anwendung, wenn der Vertrag ausschließlich durch individuelle
-Kommunikation geschlossen wird. Absatz 1 Satz 1 Nr. 1 bis 3 und Satz 2
-findet keine Anwendung, wenn zwischen Vertragsparteien, die nicht
-Verbraucher sind, etwas anderes vereinbart wird.
-
-(6) Weitergehende Informationspflichten auf Grund anderer Vorschriften
-bleiben unberührt. Steht dem Kunden ein Widerrufsrecht gemäß § 355 zu,
-beginnt die Widerrufsfrist abweichend von § 355 Abs. 3 Satz 1 nicht
-vor Erfüllung der in Absatz 1 Satz 1 geregelten Pflichten.
+(3) Das Widerrufsrecht besteht ferner nicht bei Verträgen, bei denen
+dem Verbraucher bereits auf Grund der §§ 495, 506 bis 513 ein
+Widerrufsrecht nach § 355 zusteht, und nicht bei außerhalb von
+Geschäftsräumen geschlossenen Verträgen, bei denen dem Verbraucher
+bereits nach § 305 Absatz 1 bis 6 des Kapitalanlagegesetzbuchs ein
+Widerrufsrecht zusteht.
 
 
 ###### § 312h Kündigung und Vollmacht zur Kündigung
@@ -4834,13 +5112,99 @@ bedarf die Kündigung des Verbrauchers oder die Vollmacht zur Kündigung
 der Textform.
 
 
-###### § 312i Abweichende Vereinbarungen
+###### Kapitel 3 - Verträge im elektronischen Geschäftsverkehr
 
-Von den Vorschriften dieses Untertitels darf, soweit nicht ein anderes
-bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden
+
+###### § 312i Allgemeine Pflichten im elektronischen Geschäftsverkehr
+
+(1) Bedient sich ein Unternehmer zum Zwecke des Abschlusses eines
+Vertrags über die Lieferung von Waren oder über die Erbringung von
+Dienstleistungen der Telemedien (Vertrag im elektronischen
+Geschäftsverkehr), hat er dem Kunden
+
+1.  angemessene, wirksame und zugängliche technische Mittel zur Verfügung
+    zu stellen, mit deren Hilfe der Kunde Eingabefehler vor Abgabe seiner
+    Bestellung erkennen und berichtigen kann,
+
+
+2.  die in Artikel 246c des Einführungsgesetzes zum Bürgerlichen
+    Gesetzbuche bestimmten Informationen rechtzeitig vor Abgabe von dessen
+    Bestellung klar und verständlich mitzuteilen,
+
+
+3.  den Zugang von dessen Bestellung unverzüglich auf elektronischem Wege
+    zu bestätigen und
+
+
+4.  die Möglichkeit zu verschaffen, die Vertragsbestimmungen
+    einschließlich der Allgemeinen Geschäftsbedingungen bei
+    Vertragsschluss abzurufen und in wiedergabefähiger Form zu speichern.
+
+
+
+Bestellung und Empfangsbestätigung im Sinne von Satz 1 Nummer 3 gelten
+als zugegangen, wenn die Parteien, für die sie bestimmt sind, sie
+unter gewöhnlichen Umständen abrufen können.
+
+(2) Absatz 1 Satz 1 Nummer 1 bis 3 ist nicht anzuwenden, wenn der
+Vertrag ausschließlich durch individuelle Kommunikation geschlossen
+wird. Absatz 1 Satz 1 Nummer 1 bis 3 und Satz 2 ist nicht anzuwenden,
+wenn zwischen Vertragsparteien, die nicht Verbraucher sind, etwas
+anderes vereinbart wird.
+
+(3) Weitergehende Informationspflichten auf Grund anderer Vorschriften
+bleiben unberührt.
+
+
+###### § 312j Besondere Pflichten im elektronischen Geschäftsverkehr gegenüber Verbrauchern
+
+(1) Auf Webseiten für den elektronischen Geschäftsverkehr mit
+Verbrauchern hat der Unternehmer zusätzlich zu den Angaben nach § 312i
+Absatz 1 spätestens bei Beginn des Bestellvorgangs klar und deutlich
+anzugeben, ob Lieferbeschränkungen bestehen und welche Zahlungsmittel
+akzeptiert werden.
+
+(2) Bei einem Verbrauchervertrag im elektronischen Geschäftsverkehr,
+der eine entgeltliche Leistung des Unternehmers zum Gegenstand hat,
+muss der Unternehmer dem Verbraucher die Informationen gemäß Artikel
+246a § 1 Absatz 1 Satz 1 Nummer 1, 4, 5, 11 und 12 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche, unmittelbar bevor
+der Verbraucher seine Bestellung abgibt, klar und verständlich in
+hervorgehobener Weise zur Verfügung stellen.
+
+(3) Der Unternehmer hat die Bestellsituation bei einem Vertrag nach
+Absatz 2 so zu gestalten, dass der Verbraucher mit seiner Bestellung
+ausdrücklich bestätigt, dass er sich zu einer Zahlung verpflichtet.
+Erfolgt die Bestellung über eine Schaltfläche, ist die Pflicht des
+Unternehmers aus Satz 1 nur erfüllt, wenn diese Schaltfläche gut
+lesbar mit nichts anderem als den Wörtern „zahlungspflichtig
+bestellen“ oder mit einer entsprechenden eindeutigen Formulierung
+beschriftet ist.
+
+(4) Ein Vertrag nach Absatz 2 kommt nur zustande, wenn der Unternehmer
+seine Pflicht aus Absatz 3 erfüllt.
+
+(5) Die Absätze 2 bis 4 sind nicht anzuwenden, wenn der Vertrag
+ausschließlich durch individuelle Kommunikation geschlossen wird. Die
+Pflichten aus den Absätzen 1 und 2 gelten weder für Webseiten, die
+Finanzdienstleistungen betreffen, noch für Verträge über
+Finanzdienstleistungen.
+
+
+###### Kapitel 4 - Abweichende Vereinbarungen und Beweislast
+
+
+###### § 312k Abweichende Vereinbarungen und Beweislast
+
+(1) Von den Vorschriften dieses Untertitels darf, soweit nichts
+anderes bestimmt ist, nicht zum Nachteil des Verbrauchers oder Kunden
 abgewichen werden. Die Vorschriften dieses Untertitels finden, soweit
-nicht ein anderes bestimmt ist, auch Anwendung, wenn sie durch
+nichts anderes bestimmt ist, auch Anwendung, wenn sie durch
 anderweitige Gestaltungen umgangen werden.
+
+(2) Der Unternehmer trägt gegenüber dem Verbraucher die Beweislast für
+die Erfüllung der in diesem Untertitel geregelten
+Informationspflichten.
 
 
 ##### Untertitel 3 - Anpassung und Beendigung von Verträgen
@@ -4880,8 +5244,13 @@ nicht zugemutet werden kann.
 
 (2) Besteht der wichtige Grund in der Verletzung einer Pflicht aus dem
 Vertrag, ist die Kündigung erst nach erfolglosem Ablauf einer zur
-Abhilfe bestimmten Frist oder nach erfolgloser Abmahnung zulässig. §
-323 Abs. 2 findet entsprechende Anwendung.
+Abhilfe bestimmten Frist oder nach erfolgloser Abmahnung zulässig. Für
+die Entbehrlichkeit der Bestimmung einer Frist zur Abhilfe und für die
+Entbehrlichkeit einer Abmahnung findet § 323 Absatz 2 Nummer 1 und 2
+entsprechende Anwendung. Die Bestimmung einer Frist zur Abhilfe und
+eine Abmahnung sind auch entbehrlich, wenn besondere Umstände
+vorliegen, die unter Abwägung der beiderseitigen Interessen die
+sofortige Kündigung rechtfertigen.
 
 (3) Der Berechtigte kann nur innerhalb einer angemessenen Frist
 kündigen, nachdem er vom Kündigungsgrund Kenntnis erlangt hat.
@@ -5007,7 +5376,7 @@ Anwendung.
 
 ##### § 323 Rücktritt wegen nicht oder nicht vertragsgemäß erbrachter Leistung
 
-[^BJNR001950896BJNE031602377]
+[^BJNR001950896BJNE031602377_BJNR001950896BJNE031603360]
 
 (1) Erbringt bei einem gegenseitigen Vertrag der Schuldner eine
 fällige Leistung nicht oder nicht vertragsgemäß, so kann der
@@ -5019,14 +5388,17 @@ Leistung oder Nacherfüllung bestimmt hat, vom Vertrag zurücktreten.
 1.  der Schuldner die Leistung ernsthaft und endgültig verweigert,
 
 
-2.  der Schuldner die Leistung zu einem im Vertrag bestimmten Termin oder
-    innerhalb einer bestimmten Frist nicht bewirkt und der Gläubiger im
-    Vertrag den Fortbestand seines Leistungsinteresses an die
-    Rechtzeitigkeit der Leistung gebunden hat oder
+2.  der Schuldner die Leistung bis zu einem im Vertrag bestimmten Termin
+    oder innerhalb einer im Vertrag bestimmten Frist nicht bewirkt, obwohl
+    die termin- oder fristgerechte Leistung nach einer Mitteilung des
+    Gläubigers an den Schuldner vor Vertragsschluss oder auf Grund anderer
+    den Vertragsabschluss begleitenden Umstände für den Gläubiger
+    wesentlich ist, oder
 
 
-3.  besondere Umstände vorliegen, die unter Abwägung der beiderseitigen
-    Interessen den sofortigen Rücktritt rechtfertigen.
+3.  im Falle einer nicht vertragsgemäß erbrachten Leistung besondere
+    Umstände vorliegen, die unter Abwägung der beiderseitigen Interessen
+    den sofortigen Rücktritt rechtfertigen.
 
 
 
@@ -5050,11 +5422,10 @@ Umstand, der ihn zum Rücktritt berechtigen würde, allein oder weit
 vertretende Umstand zu einer Zeit eintritt, zu welcher der Gläubiger
 im Verzug der Annahme ist.
 
-[^BJNR001950896BJNE031602377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient auch der
-    Umsetzung der Richtlinie 1999/44/EG des Europäischen Parlaments und
-    des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
-    Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
-    Nr. L 171 S. 12).
+[^BJNR001950896BJNE031602377_BJNR001950896BJNE031603360]:     **Amtlicher Hinweis:** Diese Vorschrift dient auch der Umsetzung der
+    Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom
+    25\. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+    Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
 
 ##### § 324 Rücktritt wegen Verletzung einer Pflicht nach § 241 Abs. 2
@@ -5106,11 +5477,10 @@ kann der Gläubiger zurücktreten; auf den Rücktritt findet § 323 mit
 der Maßgabe entsprechende Anwendung, dass die Fristsetzung entbehrlich
 ist.
 
-[^BJNR001950896BJNE031902377]:     **Amtlicher Hinweis:**              Diese Vorschrift dient auch der
-    Umsetzung der Richtlinie 1999/44/EG des Europäischen Parlaments und
-    des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
-    Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
-    Nr. L 171 S. 12).
+[^BJNR001950896BJNE031902377]:     **Amtlicher Hinweis:** Diese Vorschrift dient auch der Umsetzung der
+    Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom
+    25\. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+    Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
 
 ##### § 327
@@ -5303,7 +5673,7 @@ Verbindlichkeit erfüllt habe, so hat er die Erfüllung zu beweisen,
 sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
 
 
-#### Titel 5 - Rücktritt; Widerrufs- und Rückgaberecht bei Verbraucherverträgen
+#### Titel 5 - Rücktritt; Widerrufsrecht bei Verbraucherverträgen
 
 
 
@@ -5311,11 +5681,10 @@ sofern nicht die geschuldete Leistung in einem Unterlassen besteht.
 
 [^BJNR001950896BJNG023901377]
 
-[^BJNR001950896BJNG023901377]:     **Amtlicher Hinweis:**              Dieser Untertitel dient auch der
-    Umsetzung der Richtlinie 1999/44/EG des Europäischen Parlaments und
-    des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
-    Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
-    Nr. L 171 S. 12).
+[^BJNR001950896BJNG023901377]:     **Amtlicher Hinweis:** Dieser Untertitel dient auch der Umsetzung der
+    Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom
+    25\. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+    Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
 
 ###### § 346 Wirkungen des Rücktritts
@@ -5440,155 +5809,392 @@ Verbindlichkeit nicht erfüllt, so ist der Gläubiger bei dem Eintritt
 dieses Falles zum Rücktritt von dem Vertrag berechtigt.
 
 
-##### Untertitel 2 - Widerrufs- und Rückgaberecht bei Verbraucherverträgen
-
-[^BJNR001950896BJNG024001377]
-
-[^BJNR001950896BJNG024001377]:     **Amtlicher Hinweis:**              Dieser Untertitel dient der
-    Umsetzung                                             1.
-    der Richtlinie 85/577/EWG des Rates vom 20. Dezember 1985 betreffend
-    den Verbraucherschutz im Falle von außerhalb von Geschäftsräumen
-    geschlossenen Verträgen (ABl. EG Nr. L 372 S. 31),
-
-
-    2\.                                                   der Richtlinie
-    94/47/EG des Europäischen Parlaments und des Rates vom 26. Oktober
-    1994 zum Schutz der Erwerber im Hinblick auf bestimmte Aspekte von
-    Verträgen über den Erwerb von Teilzeitnutzungsrechten an Immobilien
-    (ABl. EG Nr. L 280 S. 82) und
-
-
-    3\.                                                   Richtlinie
-    97/7/EG des Europäischen Parlaments und des Rates vom 20. Mai 1997
-    über den Verbraucherschutz bei Vertragsabschlüssen im Fernabsatz (ABl.
-    EG Nr. L 144 S. 19).
-
-
-
+##### Untertitel 2 - Widerrufsrecht bei Verbraucherverträgen
 
 
 ###### § 355 Widerrufsrecht bei Verbraucherverträgen
 
 (1) Wird einem Verbraucher durch Gesetz ein Widerrufsrecht nach dieser
-Vorschrift eingeräumt, so ist er an seine auf den Abschluss des
-Vertrags gerichtete Willenserklärung nicht mehr gebunden, wenn er sie
-fristgerecht widerrufen hat. Der Widerruf muss keine Begründung
-enthalten und ist in Textform oder durch Rücksendung der Sache
-innerhalb der Widerrufsfrist gegenüber dem Unternehmer zu erklären;
-zur Fristwahrung genügt die rechtzeitige Absendung.
+Vorschrift eingeräumt, so sind der Verbraucher und der Unternehmer an
+ihre auf den Abschluss des Vertrags gerichteten Willenserklärungen
+nicht mehr gebunden, wenn der Verbraucher seine Willenserklärung
+fristgerecht widerrufen hat. Der Widerruf erfolgt durch Erklärung
+gegenüber dem Unternehmer. Aus der Erklärung muss der Entschluss des
+Verbrauchers zum Widerruf des Vertrags eindeutig hervorgehen. Der
+Widerruf muss keine Begründung enthalten. Zur Fristwahrung genügt die
+rechtzeitige Absendung des Widerrufs.
 
-(2) Die Widerrufsfrist beträgt 14 Tage, wenn dem Verbraucher
-spätestens bei Vertragsschluss eine den Anforderungen des § 360 Abs. 1
-entsprechende Widerrufsbelehrung in Textform mitgeteilt wird. Bei
-Fernabsatzverträgen steht eine unverzüglich nach Vertragsschluss in
-Textform mitgeteilte Widerrufsbelehrung einer solchen bei
-Vertragsschluss gleich, wenn der Unternehmer den Verbraucher gemäß
-Artikel 246 § 1 Abs. 1 Nr. 10 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche unterrichtet hat. Wird die Widerrufsbelehrung dem
-Verbraucher nach dem gemäß Satz 1 oder Satz 2 maßgeblichen Zeitpunkt
-mitgeteilt, beträgt die Widerrufsfrist einen Monat. Dies gilt auch
-dann, wenn der Unternehmer den Verbraucher über das Widerrufsrecht
-gemäß Artikel 246 § 2 Abs. 1 Satz 1 Nr. 2 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche zu einem späteren als dem in Satz 1 oder Satz
-2 genannten Zeitpunkt unterrichten darf.
+(2) Die Widerrufsfrist beträgt 14 Tage. Sie beginnt mit
+Vertragsschluss, soweit nichts anderes bestimmt ist.
 
-(3) Die Widerrufsfrist beginnt, wenn dem Verbraucher eine den
-Anforderungen des § 360 Abs. 1 entsprechende Belehrung über sein
-Widerrufsrecht in Textform mitgeteilt worden ist. Ist der Vertrag
-schriftlich abzuschließen, so beginnt die Frist nicht, bevor dem
-Verbraucher auch eine Vertragsurkunde, der schriftliche Antrag des
-Verbrauchers oder eine Abschrift der Vertragsurkunde oder des Antrags
-zur Verfügung gestellt wird. Ist der Fristbeginn streitig, so trifft
-die Beweislast den Unternehmer.
-
-(4) Das Widerrufsrecht erlischt spätestens sechs Monate nach
-Vertragsschluss. Diese Frist beginnt bei der Lieferung von Waren nicht
-vor deren Eingang beim Empfänger. Abweichend von Satz 1 erlischt das
-Widerrufsrecht nicht, wenn der Verbraucher nicht entsprechend den
-Anforderungen des § 360 Abs. 1 über sein Widerrufsrecht in Textform
-belehrt worden ist, bei Fernabsatzverträgen über
-Finanzdienstleistungen ferner nicht, wenn der Unternehmer seine
-Mitteilungspflichten gemäß Artikel 246 § 2 Abs. 1 Satz 1 Nr. 1 und
-Satz 2 Nr. 1 bis 3 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche nicht ordnungsgemäß erfüllt hat.
+(3) Im Falle des Widerrufs sind die empfangenen Leistungen
+unverzüglich zurückzugewähren. Bestimmt das Gesetz eine Höchstfrist
+für die Rückgewähr, so beginnt diese für den Unternehmer mit dem
+Zugang und für den Verbraucher mit der Abgabe der Widerrufserklärung.
+Ein Verbraucher wahrt diese Frist durch die rechtzeitige Absendung der
+Waren. Der Unternehmer trägt bei Widerruf die Gefahr der Rücksendung
+der Waren.
 
 
-###### § 356 Rückgaberecht bei Verbraucherverträgen
+###### § 356 Widerrufsrecht bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen
 
-(1) Das Widerrufsrecht nach § 355 kann, soweit dies ausdrücklich durch
-Gesetz zugelassen ist, beim Vertragsschluss auf Grund eines
-Verkaufsprospekts im Vertrag durch ein uneingeschränktes Rückgaberecht
-ersetzt werden. Voraussetzung ist, dass
+(1) Der Unternehmer kann dem Verbraucher die Möglichkeit einräumen,
+das Muster-Widerrufsformular nach Anlage 2 zu Artikel 246a § 1 Absatz
+2 Satz 1 Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+oder eine andere eindeutige Widerrufserklärung auf der Webseite des
+Unternehmers auszufüllen und zu übermitteln. Macht der Verbraucher von
+dieser Möglichkeit Gebrauch, muss der Unternehmer dem Verbraucher den
+Zugang des Widerrufs unverzüglich auf einem dauerhaften Datenträger
+bestätigen.
 
-1.  im Verkaufsprospekt eine den Anforderungen des § 360 Abs. 2
-    entsprechende Belehrung über das Rückgaberecht enthalten ist und
+(2) Die Widerrufsfrist beginnt
 
+1.  bei einem Verbrauchsgüterkauf,
 
-2.  der Verbraucher den Verkaufsprospekt in Abwesenheit des Unternehmers
-    eingehend zur Kenntnis nehmen konnte.
-
-
-
-
-(2) Das Rückgaberecht kann innerhalb der Widerrufsfrist, die jedoch
-nicht vor Erhalt der Sache beginnt, und nur durch Rücksendung der
-Sache oder, wenn die Sache nicht als Paket versandt werden kann, durch
-Rücknahmeverlangen ausgeübt werden. Im Übrigen sind die Vorschriften
-über das Widerrufsrecht entsprechend anzuwenden. An die Stelle von §
-360 Abs. 1 tritt § 360 Abs. 2.
+    a)  der nicht unter die Buchstaben b bis d fällt, sobald der Verbraucher
+        oder ein von ihm benannter Dritter, der nicht Frachtführer ist, die
+        Waren erhalten hat,
 
 
-###### § 357 Rechtsfolgen des Widerrufs und der Rückgabe
-
-(1) Auf das Widerrufs- und das Rückgaberecht finden, soweit nicht ein
-anderes bestimmt ist, die Vorschriften über den gesetzlichen Rücktritt
-entsprechende Anwendung. § 286 Abs. 3 gilt für die Verpflichtung zur
-Erstattung von Zahlungen nach dieser Vorschrift entsprechend; die dort
-bestimmte Frist beginnt mit der Widerrufs- oder Rückgabeerklärung des
-Verbrauchers. Dabei beginnt die Frist im Hinblick auf eine
-Erstattungsverpflichtung des Verbrauchers mit Abgabe dieser Erklärung,
-im Hinblick auf eine Erstattungsverpflichtung des Unternehmers mit
-deren Zugang.
-
-(2) Der Verbraucher ist bei Ausübung des Widerrufsrechts zur
-Rücksendung verpflichtet, wenn die Sache durch Paket versandt werden
-kann. Kosten und Gefahr der Rücksendung trägt bei Widerruf und
-Rückgabe der Unternehmer. Wenn ein Widerrufsrecht nach § 312d Abs. 1
-Satz 1 besteht, dürfen dem Verbraucher die regelmäßigen Kosten der
-Rücksendung vertraglich auferlegt werden, wenn der Preis der
-zurückzusendenden Sache einen Betrag von 40 Euro nicht übersteigt oder
-wenn bei einem höheren Preis der Sache der Verbraucher die
-Gegenleistung oder eine Teilzahlung zum Zeitpunkt des Widerrufs noch
-nicht erbracht hat, es sei denn, dass die gelieferte Ware nicht der
-bestellten entspricht.
-
-(3) Der Verbraucher hat abweichend von § 346 Absatz 2 Satz 1 Nummer 3
-Wertersatz für eine Verschlechterung der Sache zu leisten,
-
-1.  soweit die Verschlechterung auf einen Umgang mit der Sache
-    zurückzuführen ist, der über die Prüfung der Eigenschaften und der
-    Funktionsweise hinausgeht, und
+    b)  bei dem der Verbraucher mehrere Waren im Rahmen einer einheitlichen
+        Bestellung bestellt hat und die Waren getrennt geliefert werden,
+        sobald der Verbraucher oder ein von ihm benannter Dritter, der nicht
+        Frachtführer ist, die letzte Ware erhalten hat,
 
 
-2.  wenn er spätestens bei Vertragsschluss in Textform auf diese
-    Rechtsfolge hingewiesen worden ist.
+    c)  bei dem die Ware in mehreren Teilsendungen oder Stücken geliefert
+        wird, sobald der Verbraucher oder ein vom Verbraucher benannter
+        Dritter, der nicht Frachtführer ist, die letzte Teilsendung oder das
+        letzte Stück erhalten hat,
+
+
+    d)  der auf die regelmäßige Lieferung von Waren über einen festgelegten
+        Zeitraum gerichtet ist, sobald der Verbraucher oder ein von ihm
+        benannter Dritter, der nicht Frachtführer ist, die erste Ware erhalten
+        hat,
 
 
 
-Bei Fernabsatzverträgen steht ein unverzüglich nach Vertragsschluss in
-Textform mitgeteilter Hinweis einem solchen bei Vertragsschluss
-gleich, wenn der Unternehmer den Verbraucher rechtzeitig vor Abgabe
-von dessen Vertragserklärung in einer dem eingesetzten
-Fernkommunikationsmittel entsprechenden Weise über die
-Wertersatzpflicht unterrichtet hat. § 346 Absatz 3 Satz 1 Nummer 3 ist
-nicht anzuwenden, wenn der Verbraucher über sein Widerrufsrecht
-ordnungsgemäß belehrt worden ist oder hiervon anderweitig Kenntnis
-erlangt hat.
-
-(4) Weitergehende Ansprüche bestehen nicht.
 
 
-###### § 358 Verbundene Verträge
+2.  bei einem Vertrag, der die nicht in einem begrenzten Volumen oder in
+    einer bestimmten Menge angebotene Lieferung von Wasser, Gas oder
+    Strom, die Lieferung von Fernwärme oder die Lieferung von nicht auf
+    einem körperlichen Datenträger befindlichen digitalen Inhalten zum
+    Gegenstand hat, mit Vertragsschluss.
+
+
+
+
+(3) Die Widerrufsfrist beginnt nicht, bevor der Unternehmer den
+Verbraucher entsprechend den Anforderungen des Artikels 246a § 1
+Absatz 2 Satz 1 Nummer 1 oder des Artikels 246b § 2 Absatz 1 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet hat. Das
+Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach dem
+in Absatz 2 oder § 355 Absatz 2 Satz 2 genannten Zeitpunkt. Satz 2 ist
+auf Verträge über Finanzdienstleistungen nicht anwendbar.
+
+(4) Das Widerrufsrecht erlischt bei einem Vertrag zur Erbringung von
+Dienstleistungen auch dann, wenn der Unternehmer die Dienstleistung
+vollständig erbracht hat und mit der Ausführung der Dienstleistung
+erst begonnen hat, nachdem der Verbraucher dazu seine ausdrückliche
+Zustimmung gegeben hat und gleichzeitig seine Kenntnis davon bestätigt
+hat, dass er sein Widerrufsrecht bei vollständiger Vertragserfüllung
+durch den Unternehmer verliert. Bei einem außerhalb von
+Geschäftsräumen geschlossenen Vertrag muss die Zustimmung des
+Verbrauchers auf einem dauerhaften Datenträger übermittelt werden. Bei
+einem Vertrag über die Erbringung von Finanzdienstleistungen erlischt
+das Widerrufsrecht abweichend von Satz 1, wenn der Vertrag von beiden
+Seiten auf ausdrücklichen Wunsch des Verbrauchers vollständig erfüllt
+ist, bevor der Verbraucher sein Widerrufsrecht ausübt.
+
+(5) Das Widerrufsrecht erlischt bei einem Vertrag über die Lieferung
+von nicht auf einem körperlichen Datenträger befindlichen digitalen
+Inhalten auch dann, wenn der Unternehmer mit der Ausführung des
+Vertrags begonnen hat, nachdem der Verbraucher
+
+1.  ausdrücklich zugestimmt hat, dass der Unternehmer mit der Ausführung
+    des Vertrags vor Ablauf der Widerrufsfrist beginnt, und
+
+
+2.  seine Kenntnis davon bestätigt hat, dass er durch seine Zustimmung mit
+    Beginn der Ausführung des Vertrags sein Widerrufsrecht verliert.
+
+
+
+
+
+###### § 356a Widerrufsrecht bei Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, bei Vermittlungsverträgen und Tauschsystemverträgen
+
+(1) Der Widerruf ist in Textform zu erklären.
+
+(2) Die Widerrufsfrist beginnt mit dem Zeitpunkt des Vertragsschlusses
+oder des Abschlusses eines Vorvertrags. Erhält der Verbraucher die
+Vertragsurkunde oder die Abschrift des Vertrags erst nach
+Vertragsschluss, beginnt die Widerrufsfrist mit dem Zeitpunkt des
+Erhalts.
+
+(3) Sind dem Verbraucher die in § 482 Absatz 1 bezeichneten
+vorvertraglichen Informationen oder das in Artikel 242 § 1 Absatz 2
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete
+Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in
+der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so
+beginnt die Widerrufsfrist abweichend von Absatz 2 erst mit dem
+vollständigen Erhalt der vorvertraglichen Informationen und des
+Formblatts in der vorgeschriebenen Sprache. Das Widerrufsrecht
+erlischt spätestens drei Monate und 14 Tage nach dem in Absatz 2
+genannten Zeitpunkt.
+
+(4) Ist dem Verbraucher die in § 482a bezeichnete Widerrufsbelehrung
+vor Vertragsschluss nicht, nicht vollständig oder nicht in der in §
+483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt
+die Widerrufsfrist abweichend von Absatz 2 erst mit dem vollständigen
+Erhalt der Widerrufsbelehrung in der vorgeschriebenen Sprache. Das
+Widerrufsrecht erlischt gegebenenfalls abweichend von Absatz 3 Satz 2
+spätestens zwölf Monate und 14 Tage nach dem in Absatz 2 genannten
+Zeitpunkt.
+
+(5) Hat der Verbraucher einen Teilzeit-Wohnrechtevertrag und einen
+Tauschsystemvertrag abgeschlossen und sind ihm diese Verträge zum
+gleichen Zeitpunkt angeboten worden, so beginnt die Widerrufsfrist für
+beide Verträge mit dem nach Absatz 2 für den Teilzeit-
+Wohnrechtevertrag geltenden Zeitpunkt. Die Absätze 3 und 4 gelten
+entsprechend.
+
+
+###### § 356b Widerrufsrecht bei Verbraucherdarlehensverträgen
+
+(1) Die Widerrufsfrist beginnt auch nicht, bevor der Darlehensgeber
+dem Darlehensnehmer eine für diesen bestimmte Vertragsurkunde, den
+schriftlichen Antrag des Darlehensnehmers oder eine Abschrift der
+Vertragsurkunde oder seines Antrags zur Verfügung gestellt hat.
+
+(2) Enthält bei einem Allgemein-Verbraucherdarlehensvertrag die dem
+Darlehensnehmer nach Absatz 1 zur Verfügung gestellte Urkunde die
+Pflichtangaben nach § 492 Absatz 2 nicht, beginnt die Frist erst mit
+Nachholung dieser Angaben gemäß § 492 Absatz 6. Enthält bei einem
+Immobiliar-Verbraucherdarlehensvertrag die dem Darlehensnehmer nach
+Absatz 1 zur Verfügung gestellte Urkunde die Pflichtangaben zum
+Widerrufsrecht nach § 492 Absatz 2 in Verbindung mit Artikel 247 § 6
+Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht,
+beginnt die Frist erst mit Nachholung dieser Angaben gemäß § 492
+Absatz 6. In den Fällen der Sätze 1 und 2 beträgt die Widerrufsfrist
+einen Monat. Das Widerrufsrecht bei einem Immobiliar-
+Verbraucherdarlehensvertrag erlischt spätestens zwölf Monate und 14
+Tage nach dem Vertragsschluss oder nach dem in Absatz 1 genannten
+Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
+
+(3) Die Widerrufsfrist beginnt im Falle des § 494 Absatz 7 bei einem
+Allgemein-Verbraucherdarlehensvertrag erst, wenn der Darlehensnehmer
+die dort bezeichnete Abschrift des Vertrags erhalten hat.
+
+
+###### § 356c Widerrufsrecht bei Ratenlieferungsverträgen
+
+(1) Bei einem Ratenlieferungsvertrag, der weder im Fernabsatz noch
+außerhalb von Geschäftsräumen geschlossenen wird, beginnt die
+Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß
+Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche über sein Widerrufsrecht unterrichtet hat.
+
+(2) § 356 Absatz 1 gilt entsprechend. Das Widerrufsrecht erlischt
+spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2
+genannten Zeitpunkt.
+
+
+###### § 356d Widerrufsrecht des Verbrauchers bei unentgeltlichen Darlehensverträgen und unentgeltlichen Finanzierungshilfen
+
+Bei einem Vertrag, durch den ein Unternehmer einem Verbraucher ein
+unentgeltliches Darlehen oder eine unentgeltliche Finanzierungshilfe
+gewährt, beginnt die Widerrufsfrist abweichend von § 355 Absatz 2 Satz
+2 nicht, bevor der Unternehmer den Verbraucher entsprechend den
+Anforderungen des § 514 Absatz 2 Satz 3 über dessen Widerrufsrecht
+unterrichtet hat. Das Widerrufsrecht erlischt spätestens zwölf Monate
+und 14 Tage nach dem Vertragsschluss oder nach dem in Satz 1 genannten
+Zeitpunkt, wenn dieser nach dem Vertragsschluss liegt.
+
+
+###### § 356e Widerrufsrecht bei Verbraucherbauverträgen
+
+Bei einem Verbraucherbauvertrag (§ 650i Absatz 1) beginnt die
+Widerrufsfrist nicht, bevor der Unternehmer den Verbraucher gemäß
+Artikel 249 § 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+über sein Widerrufsrecht belehrt hat. Das Widerrufsrecht erlischt
+spätestens zwölf Monate und 14 Tage nach dem in § 355 Absatz 2 Satz 2
+genannten Zeitpunkt.
+
+
+###### § 357 Rechtsfolgen des Widerrufs von außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+
+(1) Die empfangenen Leistungen sind spätestens nach 14 Tagen
+zurückzugewähren.
+
+(2) Der Unternehmer muss auch etwaige Zahlungen des Verbrauchers für
+die Lieferung zurückgewähren. Dies gilt nicht, soweit dem Verbraucher
+zusätzliche Kosten entstanden sind, weil er sich für eine andere Art
+der Lieferung als die vom Unternehmer angebotene günstigste
+Standardlieferung entschieden hat.
+
+(3) Für die Rückzahlung muss der Unternehmer dasselbe Zahlungsmittel
+verwenden, das der Verbraucher bei der Zahlung verwendet hat. Satz 1
+gilt nicht, wenn ausdrücklich etwas anderes vereinbart worden ist und
+dem Verbraucher dadurch keine Kosten entstehen.
+
+(4) Bei einem Verbrauchsgüterkauf kann der Unternehmer die Rückzahlung
+verweigern, bis er die Waren zurückerhalten hat oder der Verbraucher
+den Nachweis erbracht hat, dass er die Waren abgesandt hat. Dies gilt
+nicht, wenn der Unternehmer angeboten hat, die Waren abzuholen.
+
+(5) Der Verbraucher ist nicht verpflichtet, die empfangenen Waren
+zurückzusenden, wenn der Unternehmer angeboten hat, die Waren
+abzuholen.
+
+(6) Der Verbraucher trägt die unmittelbaren Kosten der Rücksendung der
+Waren, wenn der Unternehmer den Verbraucher nach Artikel 246a § 1
+Absatz 2 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche von dieser Pflicht unterrichtet hat. Satz 1 gilt nicht,
+wenn der Unternehmer sich bereit erklärt hat, diese Kosten zu tragen.
+Bei außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen
+die Waren zum Zeitpunkt des Vertragsschlusses zur Wohnung des
+Verbrauchers geliefert worden sind, ist der Unternehmer verpflichtet,
+die Waren auf eigene Kosten abzuholen, wenn die Waren so beschaffen
+sind, dass sie nicht per Post zurückgesandt werden können.
+
+(7) Der Verbraucher hat Wertersatz für einen Wertverlust der Ware zu
+leisten, wenn
+
+1.  der Wertverlust auf einen Umgang mit den Waren zurückzuführen ist, der
+    zur Prüfung der Beschaffenheit, der Eigenschaften und der
+    Funktionsweise der Waren nicht notwendig war, und
+
+
+2.  der Unternehmer den Verbraucher nach Artikel 246a § 1 Absatz 2 Satz 1
+    Nummer 1 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche über
+    sein Widerrufsrecht unterrichtet hat.
+
+
+
+
+(8) Widerruft der Verbraucher einen Vertrag über die Erbringung von
+Dienstleistungen oder über die Lieferung von Wasser, Gas oder Strom in
+nicht bestimmten Mengen oder nicht begrenztem Volumen oder über die
+Lieferung von Fernwärme, so schuldet der Verbraucher dem Unternehmer
+Wertersatz für die bis zum Widerruf erbrachte Leistung, wenn der
+Verbraucher von dem Unternehmer ausdrücklich verlangt hat, dass dieser
+mit der Leistung vor Ablauf der Widerrufsfrist beginnt. Der Anspruch
+aus Satz 1 besteht nur, wenn der Unternehmer den Verbraucher nach
+Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und 3 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche ordnungsgemäß
+informiert hat. Bei außerhalb von Geschäftsräumen geschlossenen
+Verträgen besteht der Anspruch nach Satz 1 nur dann, wenn der
+Verbraucher sein Verlangen nach Satz 1 auf einem dauerhaften
+Datenträger übermittelt hat. Bei der Berechnung des Wertersatzes ist
+der vereinbarte Gesamtpreis zu Grunde zu legen. Ist der vereinbarte
+Gesamtpreis unverhältnismäßig hoch, ist der Wertersatz auf der
+Grundlage des Marktwerts der erbrachten Leistung zu berechnen.
+
+(9) Widerruft der Verbraucher einen Vertrag über die Lieferung von
+nicht auf einem körperlichen Datenträger befindlichen digitalen
+Inhalten, so hat er keinen Wertersatz zu leisten.
+
+
+###### § 357a Rechtsfolgen des Widerrufs von Verträgen über Finanzdienstleistungen
+
+(1) Die empfangenen Leistungen sind spätestens nach 30 Tagen
+zurückzugewähren.
+
+(2) Im Falle des Widerrufs von außerhalb von Geschäftsräumen
+geschlossenen Verträgen oder Fernabsatzverträgen über
+Finanzdienstleistungen ist der Verbraucher zur Zahlung von Wertersatz
+für die vom Unternehmer bis zum Widerruf erbrachte Dienstleistung
+verpflichtet, wenn er
+
+1.  vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge hingewiesen
+    worden ist und
+
+
+2.  ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der
+    Widerrufsfrist mit der Ausführung der Dienstleistung beginnt.
+
+
+
+Im Falle des Widerrufs von Verträgen über eine entgeltliche
+Finanzierungshilfe, die von der Ausnahme des § 506 Absatz 4 erfasst
+sind, gilt auch § 357 Absatz 5 bis 8 entsprechend. Ist Gegenstand des
+Vertrags über die entgeltliche Finanzierungshilfe die Lieferung von
+nicht auf einem körperlichen Datenträger befindlichen digitalen
+Inhalten, hat der Verbraucher Wertersatz für die bis zum Widerruf
+gelieferten digitalen Inhalte zu leisten, wenn er
+
+1.  vor Abgabe seiner Vertragserklärung auf diese Rechtsfolge hingewiesen
+    worden ist und
+
+
+2.  ausdrücklich zugestimmt hat, dass der Unternehmer vor Ende der
+    Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnt.
+
+
+
+Ist im Vertrag eine Gegenleistung bestimmt, ist sie bei der Berechnung
+des Wertersatzes zu Grunde zu legen. Ist der vereinbarte Gesamtpreis
+unverhältnismäßig hoch, ist der Wertersatz auf der Grundlage des
+Marktwerts der erbrachten Leistung zu berechnen.
+
+(3) Im Falle des Widerrufs von Verbraucherdarlehensverträgen hat der
+Darlehensnehmer für den Zeitraum zwischen der Auszahlung und der
+Rückzahlung des Darlehens den vereinbarten Sollzins zu entrichten. Bei
+einem Immobiliar-Verbraucherdarlehen kann nachgewiesen werden, dass
+der Wert des Gebrauchsvorteils niedriger war als der vereinbarte
+Sollzins. In diesem Fall ist nur der niedrigere Betrag geschuldet. Im
+Falle des Widerrufs von Verträgen über eine entgeltliche
+Finanzierungshilfe, die nicht von der Ausnahme des § 506 Absatz 4
+erfasst sind, gilt auch Absatz 2 entsprechend mit der Maßgabe, dass an
+die Stelle der Unterrichtung über das Widerrufsrecht die
+Pflichtangaben nach Artikel 247 § 12 Absatz 1 in Verbindung mit § 6
+Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche, die das
+Widerrufsrecht betreffen, treten. Darüber hinaus hat der
+Darlehensnehmer dem Darlehensgeber nur die Aufwendungen zu ersetzen,
+die der Darlehensgeber gegenüber öffentlichen Stellen erbracht hat und
+nicht zurückverlangen kann.
+
+
+###### § 357b Rechtsfolgen des Widerrufs von Teilzeit-Wohnrechteverträgen, Verträgen über ein langfristiges Urlaubsprodukt, Vermittlungsverträgen und Tauschsystemverträgen
+
+(1) Der Verbraucher hat im Falle des Widerrufs keine Kosten zu tragen.
+Die Kosten des Vertrags, seiner Durchführung und seiner Rückabwicklung
+hat der Unternehmer dem Verbraucher zu erstatten. Eine Vergütung für
+geleistete Dienste sowie für die Überlassung von Wohngebäuden zur
+Nutzung ist ausgeschlossen.
+
+(2) Der Verbraucher hat für einen Wertverlust der Unterkunft im Sinne
+des § 481 nur Wertersatz zu leisten, soweit der Wertverlust auf einer
+nicht bestimmungsgemäßen Nutzung der Unterkunft beruht.
+
+
+###### § 357c Rechtsfolgen des Widerrufs von weder im Fernabsatz noch außerhalb von Geschäftsräumen geschlossenen Ratenlieferungsverträgen
+
+Für die Rückgewähr der empfangenen Leistungen gilt § 357 Absatz 1 bis
+5 entsprechend. Der Verbraucher trägt die unmittelbaren Kosten der
+Rücksendung der empfangenen Sachen, es sei denn, der Unternehmer hat
+sich bereit erklärt, diese Kosten zu tragen. § 357 Absatz 7 ist mit
+der Maßgabe entsprechend anzuwenden, dass an die Stelle der
+Unterrichtung nach Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche die Unterrichtung
+nach Artikel 246 Absatz 3 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche tritt.
+
+
+###### § 357d Rechtsfolgen des Widerrufs bei Verbraucherbauverträgen
+
+Ist die Rückgewähr der bis zum Widerruf erbrachten Leistung ihrer
+Natur nach ausgeschlossen, schuldet der Verbraucher dem Unternehmer
+Wertersatz. Bei der Berechnung des Wertersatzes ist die vereinbarte
+Vergütung zugrunde zu legen. Ist die vereinbarte Vergütung
+unverhältnismäßig hoch, ist der Wertersatz auf der Grundlage des
+Marktwertes der erbrachten Leistung zu berechnen.
+
+
+###### § 358 Mit dem widerrufenen Vertrag verbundener Vertrag
 
 (1) Hat der Verbraucher seine auf den Abschluss eines Vertrags über
 die Lieferung einer Ware oder die Erbringung einer anderen Leistung
@@ -5598,151 +6204,113 @@ Vertrag verbundenen Darlehensvertrags gerichtete Willenserklärung
 nicht mehr gebunden.
 
 (2) Hat der Verbraucher seine auf den Abschluss eines
-Verbraucherdarlehensvertrags gerichtete Willenserklärung auf Grund des
-§ 495 Absatz 1 wirksam widerrufen, so ist er auch an seine auf den
-Abschluss eines mit diesem Verbraucherdarlehensvertrag verbundenen
-Vertrags über die Lieferung einer Ware oder die Erbringung einer
-anderen Leistung gerichtete Willenserklärung nicht mehr gebunden.
+Darlehensvertrags gerichtete Willenserklärung auf Grund des § 495
+Absatz 1 oder des § 514 Absatz 2 Satz 1 wirksam widerrufen, so ist er
+auch nicht mehr an diejenige Willenserklärung gebunden, die auf den
+Abschluss eines mit diesem Darlehensvertrag verbundenen Vertrags über
+die Lieferung einer Ware oder die Erbringung einer anderen Leistung
+gerichtet ist.
 
-(3) Ein Vertrag über die Lieferung einer Ware oder die Erbringung
-einer anderen Leistung und ein Darlehensvertrag gemäß Absatz 1 oder 2
-sind verbunden, wenn das Darlehen ganz oder teilweise der Finanzierung
-des anderen Vertrags dient und beide Verträge eine wirtschaftliche
-Einheit bilden. Eine wirtschaftliche Einheit ist insbesondere
-anzunehmen, wenn der Unternehmer selbst die Gegenleistung des
-Verbrauchers finanziert, oder im Falle der Finanzierung durch einen
-Dritten, wenn sich der Darlehensgeber bei der Vorbereitung oder dem
-Abschluss des Darlehensvertrags der Mitwirkung des Unternehmers
+(3) Ein Vertrag über die Lieferung einer Ware oder über die Erbringung
+einer anderen Leistung und ein Darlehensvertrag nach den Absätzen 1
+oder 2 sind verbunden, wenn das Darlehen ganz oder teilweise der
+Finanzierung des anderen Vertrags dient und beide Verträge eine
+wirtschaftliche Einheit bilden. Eine wirtschaftliche Einheit ist
+insbesondere anzunehmen, wenn der Unternehmer selbst die Gegenleistung
+des Verbrauchers finanziert, oder im Falle der Finanzierung durch
+einen Dritten, wenn sich der Darlehensgeber bei der Vorbereitung oder
+dem Abschluss des Darlehensvertrags der Mitwirkung des Unternehmers
 bedient. Bei einem finanzierten Erwerb eines Grundstücks oder eines
 grundstücksgleichen Rechts ist eine wirtschaftliche Einheit nur
-anzunehmen, wenn der Darlehensgeber selbst das Grundstück oder das
-grundstücksgleiche Recht verschafft oder wenn er über die
-Zurverfügungstellung von Darlehen hinaus den Erwerb des Grundstücks
-oder grundstücksgleichen Rechts durch Zusammenwirken mit dem
-Unternehmer fördert, indem er sich dessen Veräußerungsinteressen ganz
-oder teilweise zu Eigen macht, bei der Planung, Werbung oder
+anzunehmen, wenn der Darlehensgeber selbst dem Verbraucher das
+Grundstück oder das grundstücksgleiche Recht verschafft oder wenn er
+über die Zurverfügungstellung von Darlehen hinaus den Erwerb des
+Grundstücks oder grundstücksgleichen Rechts durch Zusammenwirken mit
+dem Unternehmer fördert, indem er sich dessen Veräußerungsinteressen
+ganz oder teilweise zu Eigen macht, bei der Planung, Werbung oder
 Durchführung des Projekts Funktionen des Veräußerers übernimmt oder
 den Veräußerer einseitig begünstigt.
 
-(4) § 357 gilt für den verbundenen Vertrag entsprechend; § 312e gilt
-entsprechend, wenn für den verbundenen Vertrag ein Widerrufsrecht
-gemäß § 312d besteht oder bestand. Im Falle des Absatzes 1 sind jedoch
-Ansprüche auf Zahlung von Zinsen und Kosten aus der Rückabwicklung des
-Darlehensvertrags gegen den Verbraucher ausgeschlossen. Der
-Darlehensgeber tritt im Verhältnis zum Verbraucher hinsichtlich der
-Rechtsfolgen des Widerrufs oder der Rückgabe in die Rechte und
-Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn das
-Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs oder der
-Rückgabe bereits zugeflossen ist.
+(4) Auf die Rückabwicklung des verbundenen Vertrags sind unabhängig
+von der Vertriebsform § 355 Absatz 3 und, je nach Art des verbundenen
+Vertrags, die §§ 357 bis 357b entsprechend anzuwenden. Ist der
+verbundene Vertrag ein Vertrag über die Lieferung von nicht auf einem
+körperlichen Datenträger befindlichen digitalen Inhalten und hat der
+Unternehmer dem Verbraucher eine Abschrift oder Bestätigung des
+Vertrags nach § 312f zur Verfügung gestellt, hat der Verbraucher
+abweichend von § 357 Absatz 9 unter den Voraussetzungen des § 356
+Absatz 5 zweiter und dritter Halbsatz Wertersatz für die bis zum
+Widerruf gelieferten digitalen Inhalte zu leisten. Ist der verbundene
+Vertrag ein im Fernabsatz oder außerhalb von Geschäftsräumen
+geschlossener Ratenlieferungsvertrag, ist neben § 355 Absatz 3 auch §
+357 entsprechend anzuwenden; im Übrigen gelten für verbundene
+Ratenlieferungsverträge § 355 Absatz 3 und § 357c entsprechend. Im
+Falle des Absatzes 1 sind jedoch Ansprüche auf Zahlung von Zinsen und
+Kosten aus der Rückabwicklung des Darlehensvertrags gegen den
+Verbraucher ausgeschlossen. Der Darlehensgeber tritt im Verhältnis zum
+Verbraucher hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte
+und Pflichten des Unternehmers aus dem verbundenen Vertrag ein, wenn
+das Darlehen dem Unternehmer bei Wirksamwerden des Widerrufs bereits
+zugeflossen ist.
 
-(5) Die erforderliche Belehrung über das Widerrufs- oder Rückgaberecht
-muss auf die Rechtsfolgen nach den Absätzen 1 und 2 hinweisen.
+(5) Die Absätze 2 und 4 sind nicht anzuwenden auf Darlehensverträge,
+die der Finanzierung des Erwerbs von Finanzinstrumenten dienen.
 
 
 ###### § 359 Einwendungen bei verbundenen Verträgen
 
-Der Verbraucher kann die Rückzahlung des Darlehens verweigern, soweit
-Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem
+(1) Der Verbraucher kann die Rückzahlung des Darlehens verweigern,
+soweit Einwendungen aus dem verbundenen Vertrag ihn gegenüber dem
 Unternehmer, mit dem er den verbundenen Vertrag geschlossen hat, zur
 Verweigerung seiner Leistung berechtigen würden. Dies gilt nicht bei
-Einwendungen, die auf einer zwischen diesem Unternehmer und dem
-Verbraucher nach Abschluss des Verbraucherdarlehensvertrags
-vereinbarten Vertragsänderung beruhen. Kann der Verbraucher
-Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
-verweigern, wenn die Nacherfüllung fehlgeschlagen ist.
+Einwendungen, die auf einer Vertragsänderung beruhen, welche zwischen
+diesem Unternehmer und dem Verbraucher nach Abschluss des
+Darlehensvertrags vereinbart wurde. Kann der Verbraucher Nacherfüllung
+verlangen, so kann er die Rückzahlung des Darlehens erst verweigern,
+wenn die Nacherfüllung fehlgeschlagen ist.
+
+(2) Absatz 1 ist nicht anzuwenden auf Darlehensverträge, die der
+Finanzierung des Erwerbs von Finanzinstrumenten dienen, oder wenn das
+finanzierte Entgelt weniger als 200 Euro beträgt.
 
 
-###### § 359a Anwendungsbereich
+###### § 360 Zusammenhängende Verträge
 
-(1) Liegen die Voraussetzungen für ein verbundenes Geschäft nicht vor,
-ist § 358 Abs. 1 und 4 entsprechend anzuwenden, wenn die Ware oder die
-Leistung des Unternehmers aus dem widerrufenen Vertrag in einem
-Verbraucherdarlehensvertrag genau angegeben ist.
+(1) Hat der Verbraucher seine auf den Abschluss eines Vertrags
+gerichtete Willenserklärung wirksam widerrufen und liegen die
+Voraussetzungen für einen verbundenen Vertrag nicht vor, so ist er
+auch an seine auf den Abschluss eines damit zusammenhängenden Vertrags
+gerichtete Willenserklärung nicht mehr gebunden. Auf die
+Rückabwicklung des zusammenhängenden Vertrags ist § 358 Absatz 4 Satz
+1 bis 3 entsprechend anzuwenden. Widerruft der Verbraucher einen
+Teilzeit-Wohnrechtevertrag oder einen Vertrag über ein langfristiges
+Urlaubsprodukt, hat er auch für den zusammenhängenden Vertrag keine
+Kosten zu tragen; § 357b Absatz 1 Satz 2 und 3 gilt entsprechend.
 
-(2) Liegen die Voraussetzungen für ein verbundenes Geschäft nicht vor,
-ist § 358 Absatz 2 und 4 entsprechend auf Verträge über
-Zusatzleistungen anzuwenden, die der Verbraucher in unmittelbarem
-Zusammenhang mit dem Verbraucherdarlehensvertrag geschlossen hat.
-
-(3) § 358 Abs. 2, 4 und 5 sowie § 359 sind nicht anzuwenden auf
-Darlehensverträge, die der Finanzierung des Erwerbs von
-Finanzinstrumenten dienen.
-
-(4) § 359 ist nicht anzuwenden, wenn das finanzierte Entgelt weniger
-als 200 Euro beträgt.
-
-
-###### § 360 Widerrufs- und Rückgabebelehrung
-
-(1) Die Widerrufsbelehrung muss deutlich gestaltet sein und dem
-Verbraucher entsprechend den Erfordernissen des eingesetzten
-Kommunikationsmittels seine wesentlichen Rechte deutlich machen. Sie
-muss Folgendes enthalten:
-
-1.  einen Hinweis auf das Recht zum Widerruf,
+(2) Ein zusammenhängender Vertrag liegt vor, wenn er einen Bezug zu
+dem widerrufenen Vertrag aufweist und eine Leistung betrifft, die von
+dem Unternehmer des widerrufenen Vertrags oder einem Dritten auf der
+Grundlage einer Vereinbarung zwischen dem Dritten und dem Unternehmer
+des widerrufenen Vertrags erbracht wird. Ein Darlehensvertrag ist auch
+dann ein zusammenhängender Vertrag, wenn das Darlehen, das ein
+Unternehmer einem Verbraucher gewährt, ausschließlich der Finanzierung
+des widerrufenen Vertrags dient und die Leistung des Unternehmers aus
+dem widerrufenen Vertrag in dem Darlehensvertrag genau angegeben ist.
 
 
-2.  einen Hinweis darauf, dass der Widerruf keiner Begründung bedarf und
-    in Textform oder durch Rücksendung der Sache innerhalb der
-    Widerrufsfrist erklärt werden kann,
+###### § 361 Weitere Ansprüche, abweichende Vereinbarungen und Beweislast
 
+(1) Über die Vorschriften dieses Untertitels hinaus bestehen keine
+weiteren Ansprüche gegen den Verbraucher infolge des Widerrufs.
 
-3.  den Namen und die ladungsfähige Anschrift desjenigen, gegenüber dem
-    der Widerruf zu erklären ist, und
+(2) Von den Vorschriften dieses Untertitels darf, soweit nicht ein
+anderes bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen
+werden. Die Vorschriften dieses Untertitels finden, soweit nichts
+anderes bestimmt ist, auch Anwendung, wenn sie durch anderweitige
+Gestaltungen umgangen werden.
 
-
-4.  einen Hinweis auf Dauer und Beginn der Widerrufsfrist sowie darauf,
-    dass zur Fristwahrung die rechtzeitige Absendung der
-    Widerrufserklärung oder der Sache genügt.
-
-
-
-
-(2) Auf die Rückgabebelehrung ist Absatz 1 Satz 1 entsprechend
-anzuwenden. Sie muss Folgendes enthalten:
-
-1.  einen Hinweis auf das Recht zur Rückgabe,
-
-
-2.  einen Hinweis darauf, dass die Ausübung des Rückgaberechts keiner
-    Begründung bedarf,
-
-
-3.  einen Hinweis darauf, dass das Rückgaberecht nur durch Rücksendung der
-    Sache oder, wenn die Sache nicht als Paket versandt werden kann, durch
-    Rücknahmeverlangen in Textform innerhalb der Rückgabefrist ausgeübt
-    werden kann,
-
-
-4.  den Namen und die ladungsfähige Anschrift desjenigen, an den die
-    Rückgabe zu erfolgen hat oder gegenüber dem das Rücknahmeverlangen zu
-    erklären ist, und
-
-
-5.  einen Hinweis auf Dauer und Beginn der Rückgabefrist sowie darauf,
-    dass zur Fristwahrung die rechtzeitige Absendung der Sache oder des
-    Rücknahmeverlangens genügt.
-
-
-
-
-(3) Die dem Verbraucher gemäß § 355 Abs. 3 Satz 1 mitzuteilende
-Widerrufsbelehrung genügt den Anforderungen des Absatzes 1 und den
-diesen ergänzenden Vorschriften dieses Gesetzes, wenn das Muster der
-Anlage 1 zum Einführungsgesetz zum Bürgerlichen Gesetzbuche in
-Textform verwendet wird. Die dem Verbraucher gemäß § 356 Abs. 2 Satz 2
-in Verbindung mit § 355 Abs. 3 Satz 1 mitzuteilende Rückgabebelehrung
-genügt den Anforderungen des Absatzes 2 und den diesen ergänzenden
-Vorschriften dieses Gesetzes, wenn das Muster der Anlage 2 zum
-Einführungsgesetz zum Bürgerlichen Gesetzbuche in Textform verwendet
-wird. Der Unternehmer darf unter Beachtung von Absatz 1 Satz 1 in
-Format und Schriftgröße von den Mustern abweichen und Zusätze wie die
-Firma oder ein Kennzeichen des Unternehmers anbringen.
-
-
-###### § 361 (weggefallen)
-
--
+(3) Ist der Beginn der Widerrufsfrist streitig, so trifft die
+Beweislast den Unternehmer.
 
 
 ### Abschnitt 4 - Erlöschen der Schuldverhältnisse
@@ -6513,10 +7081,10 @@ Gläubiger eintritt, nicht für und gegen die übrigen Gläubiger.
 
 [^BJNR001950896BJNG004102377]
 
-[^BJNR001950896BJNG004102377]:     **Amtlicher Hinweis:**              Dieser Titel dient der Umsetzung
-    der Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates
-    vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und
-    der Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
+[^BJNR001950896BJNG004102377]:     **Amtlicher Hinweis:** Dieser Titel dient der Umsetzung der Richtlinie
+    1999/44/EG des Europäischen Parlaments und des Rates vom 25. Mai 1999
+    zu bestimmten Aspekten des Verbrauchsgüterkaufs und der Garantien für
+    Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
 
 
 ##### Untertitel 1 - Allgemeine Vorschriften
@@ -6675,7 +7243,17 @@ des Mangels oder die Lieferung einer mangelfreien Sache verlangen.
 Aufwendungen, insbesondere Transport-, Wege-, Arbeits- und
 Materialkosten zu tragen.
 
-(3) Der Verkäufer kann die vom Käufer gewählte Art der Nacherfüllung
+(3) Hat der Käufer die mangelhafte Sache gemäß ihrer Art und ihrem
+Verwendungszweck in eine andere Sache eingebaut oder an eine andere
+Sache angebracht, ist der Verkäufer im Rahmen der Nacherfüllung
+verpflichtet, dem Käufer die erforderlichen Aufwendungen für das
+Entfernen der mangelhaften und den Einbau oder das Anbringen der
+nachgebesserten oder gelieferten mangelfreien Sache zu ersetzen. § 442
+Absatz 1 ist mit der Maßgabe anzuwenden, dass für die Kenntnis des
+Käufers an die Stelle des Vertragsschlusses der Einbau oder das
+Anbringen der mangelhaften Sache durch den Käufer tritt.
+
+(4) Der Verkäufer kann die vom Käufer gewählte Art der Nacherfüllung
 unbeschadet des § 275 Abs. 2 und 3 verweigern, wenn sie nur mit
 unverhältnismäßigen Kosten möglich ist. Dabei sind insbesondere der
 Wert der Sache in mangelfreiem Zustand, die Bedeutung des Mangels und
@@ -6686,20 +7264,21 @@ die andere Art der Nacherfüllung; das Recht des Verkäufers, auch diese
 unter den Voraussetzungen des Satzes 1 zu verweigern, bleibt
 unberührt.
 
-(4) Liefert der Verkäufer zum Zwecke der Nacherfüllung eine
+(5) Liefert der Verkäufer zum Zwecke der Nacherfüllung eine
 mangelfreie Sache, so kann er vom Käufer Rückgewähr der mangelhaften
 Sache nach Maßgabe der §§ 346 bis 348 verlangen.
 
 
 ###### § 440 Besondere Bestimmungen für Rücktritt und Schadensersatz
 
-Außer in den Fällen des § 281 Abs. 2 und des § 323 Abs. 2 bedarf es
-der Fristsetzung auch dann nicht, wenn der Verkäufer beide Arten der
-Nacherfüllung gemäß § 439 Abs. 3 verweigert oder wenn die dem Käufer
-zustehende Art der Nacherfüllung fehlgeschlagen oder ihm unzumutbar
-ist. Eine Nachbesserung gilt nach dem erfolglosen zweiten Versuch als
-fehlgeschlagen, wenn sich nicht insbesondere aus der Art der Sache
-oder des Mangels oder den sonstigen Umständen etwas anderes ergibt.
+Außer in den Fällen des § 281 Absatz 2 und des § 323 Absatz 2 bedarf
+es der Fristsetzung auch dann nicht, wenn der Verkäufer beide Arten
+der Nacherfüllung gemäß § 439 Absatz 4 verweigert oder wenn die dem
+Käufer zustehende Art der Nacherfüllung fehlgeschlagen oder ihm
+unzumutbar ist. Eine Nachbesserung gilt nach dem erfolglosen zweiten
+Versuch als fehlgeschlagen, wenn sich nicht insbesondere aus der Art
+der Sache oder des Mangels oder den sonstigen Umständen etwas anderes
+ergibt.
 
 
 ###### § 441 Minderung
@@ -6736,19 +7315,26 @@ Beschaffenheit der Sache übernommen hat.
 beseitigen, auch wenn es der Käufer kennt.
 
 
-###### § 443 Beschaffenheits- und Haltbarkeitsgarantie
+###### § 443 Garantie
 
-(1) Übernimmt der Verkäufer oder ein Dritter eine Garantie für die
-Beschaffenheit der Sache oder dafür, dass die Sache für eine bestimmte
-Dauer eine bestimmte Beschaffenheit behält (Haltbarkeitsgarantie), so
-stehen dem Käufer im Garantiefall unbeschadet der gesetzlichen
-Ansprüche die Rechte aus der Garantie zu den in der Garantieerklärung
-und der einschlägigen Werbung angegebenen Bedingungen gegenüber
-demjenigen zu, der die Garantie eingeräumt hat.
+(1) Geht der Verkäufer, der Hersteller oder ein sonstiger Dritter in
+einer Erklärung oder einschlägigen Werbung, die vor oder bei Abschluss
+des Kaufvertrags verfügbar war, zusätzlich zu der gesetzlichen
+Mängelhaftung insbesondere die Verpflichtung ein, den Kaufpreis zu
+erstatten, die Sache auszutauschen, nachzubessern oder in ihrem
+Zusammenhang Dienstleistungen zu erbringen, falls die Sache nicht
+diejenige Beschaffenheit aufweist oder andere als die Mängelfreiheit
+betreffende Anforderungen nicht erfüllt, die in der Erklärung oder
+einschlägigen Werbung beschrieben sind (Garantie), stehen dem Käufer
+im Garantiefall unbeschadet der gesetzlichen Ansprüche die Rechte aus
+der Garantie gegenüber demjenigen zu, der die Garantie gegeben hat
+(Garantiegeber).
 
-(2) Soweit eine Haltbarkeitsgarantie übernommen worden ist, wird
-vermutet, dass ein während ihrer Geltungsdauer auftretender Sachmangel
-die Rechte aus der Garantie begründet.
+(2) Soweit der Garantiegeber eine Garantie dafür übernommen hat, dass
+die Sache für eine bestimmte Dauer eine bestimmte Beschaffenheit
+behält (Haltbarkeitsgarantie), wird vermutet, dass ein während ihrer
+Geltungsdauer auftretender Sachmangel die Rechte aus der Garantie
+begründet.
 
 
 ###### § 444 Haftungsausschluss
@@ -6766,6 +7352,46 @@ Versteigerung unter der Bezeichnung als Pfand verkauft, so stehen dem
 Käufer Rechte wegen eines Mangels nur zu, wenn der Verkäufer den
 Mangel arglistig verschwiegen oder eine Garantie für die
 Beschaffenheit der Sache übernommen hat.
+
+
+###### § 445a Rückgriff des Verkäufers
+
+(1) Der Verkäufer kann beim Verkauf einer neu hergestellten Sache von
+dem Verkäufer, der ihm die Sache verkauft hatte (Lieferant), Ersatz
+der Aufwendungen verlangen, die er im Verhältnis zum Käufer nach § 439
+Absatz 2 und 3 sowie § 475 Absatz 4 und 6 zu tragen hatte, wenn der
+vom Käufer geltend gemachte Mangel bereits beim Übergang der Gefahr
+auf den Verkäufer vorhanden war.
+
+(2) Für die in § 437 bezeichneten Rechte des Verkäufers gegen seinen
+Lieferanten bedarf es wegen des vom Käufer geltend gemachten Mangels
+der sonst erforderlichen Fristsetzung nicht, wenn der Verkäufer die
+verkaufte neu hergestellte Sache als Folge ihrer Mangelhaftigkeit
+zurücknehmen musste oder der Käufer den Kaufpreis gemindert hat.
+
+(3) Die Absätze 1 und 2 finden auf die Ansprüche des Lieferanten und
+der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer
+entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
+
+(4) § 377 des Handelsgesetzbuchs bleibt unberührt.
+
+
+###### § 445b Verjährung von Rückgriffsansprüchen
+
+(1) Die in § 445a Absatz 1 bestimmten Aufwendungsersatzansprüche
+verjähren in zwei Jahren ab Ablieferung der Sache.
+
+(2) Die Verjährung der in den §§ 437 und 445a Absatz 1 bestimmten
+Ansprüche des Verkäufers gegen seinen Lieferanten wegen des Mangels
+einer verkauften neu hergestellten Sache tritt frühestens zwei Monate
+nach dem Zeitpunkt ein, in dem der Verkäufer die Ansprüche des Käufers
+erfüllt hat. Diese Ablaufhemmung endet spätestens fünf Jahre nach dem
+Zeitpunkt, in dem der Lieferant die Sache dem Verkäufer abgeliefert
+hat.
+
+(3) Die Absätze 1 und 2 finden auf die Ansprüche des Lieferanten und
+der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer
+entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
 
 
 ###### § 446 Gefahr- und Lastenübergang
@@ -7086,21 +7712,60 @@ vererblich.
 
 
 
-###### § 474 Begriff des Verbrauchsgüterkaufs
+###### § 474 Verbrauchsgüterkauf
 
-(1) Kauft ein Verbraucher von einem Unternehmer eine bewegliche Sache
-(Verbrauchsgüterkauf), gelten ergänzend die folgenden Vorschriften.
-Dies gilt nicht für gebrauchte Sachen, die in einer öffentlichen
-Versteigerung verkauft werden, an der der Verbraucher persönlich
-teilnehmen kann.
+(1) Verbrauchsgüterkäufe sind Verträge, durch die ein Verbraucher von
+einem Unternehmer eine bewegliche Sache kauft. Um einen
+Verbrauchsgüterkauf handelt es sich auch bei einem Vertrag, der neben
+dem Verkauf einer beweglichen Sache die Erbringung einer
+Dienstleistung durch den Unternehmer zum Gegenstand hat.
 
-(2) Auf die in diesem Untertitel geregelten Kaufverträge ist § 439
-Abs. 4 mit der Maßgabe anzuwenden, dass Nutzungen nicht herauszugeben
-oder durch ihren Wert zu ersetzen sind. Die §§ 445 und 447 sind nicht
-anzuwenden.
+(2) Für den Verbrauchsgüterkauf gelten ergänzend die folgenden
+Vorschriften dieses Untertitels. Dies gilt nicht für gebrauchte
+Sachen, die in einer öffentlich zugänglichen Versteigerung verkauft
+werden, an der der Verbraucher persönlich teilnehmen kann.
 
 
-###### § 475 Abweichende Vereinbarungen
+###### § 475 Anwendbare Vorschriften
+
+(1) Ist eine Zeit für die nach § 433 zu erbringenden Leistungen weder
+bestimmt noch aus den Umständen zu entnehmen, so kann der Gläubiger
+diese Leistungen abweichend von § 271 Absatz 1 nur unverzüglich
+verlangen. Der Unternehmer muss die Sache in diesem Fall spätestens 30
+Tage nach Vertragsschluss übergeben. Die Vertragsparteien können die
+Leistungen sofort bewirken.
+
+(2) § 447 Absatz 1 gilt mit der Maßgabe, dass die Gefahr des
+zufälligen Untergangs und der zufälligen Verschlechterung nur dann auf
+den Käufer übergeht, wenn der Käufer den Spediteur, den Frachtführer
+oder die sonst zur Ausführung der Versendung bestimmte Person oder
+Anstalt mit der Ausführung beauftragt hat und der Unternehmer dem
+Käufer diese Person oder Anstalt nicht zuvor benannt hat.
+
+(3) § 439 Absatz 5 ist mit der Maßgabe anzuwenden, dass Nutzungen
+nicht herauszugeben oder durch ihren Wert zu ersetzen sind. Die §§ 445
+und 447 Absatz 2 sind nicht anzuwenden.
+
+(4) Ist die eine Art der Nacherfüllung nach § 275 Absatz 1
+ausgeschlossen oder kann der Unternehmer diese nach § 275 Absatz 2
+oder 3 oder § 439 Absatz 4 Satz 1 verweigern, kann er die andere Art
+der Nacherfüllung nicht wegen Unverhältnismäßigkeit der Kosten nach §
+439 Absatz 4 Satz 1 verweigern. Ist die andere Art der Nacherfüllung
+wegen der Höhe der Aufwendungen nach § 439 Absatz 2 oder Absatz 3 Satz
+1 unverhältnismäßig, kann der Unternehmer den Aufwendungsersatz auf
+einen angemessenen Betrag beschränken. Bei der Bemessung dieses
+Betrages sind insbesondere der Wert der Sache in mangelfreiem Zustand
+und die Bedeutung des Mangels zu berücksichtigen.
+
+(5) § 440 Satz 1 ist auch in den Fällen anzuwenden, in denen der
+Verkäufer die Nacherfüllung gemäß Absatz 4 Satz 2 beschränkt.
+
+(6) Der Verbraucher kann von dem Unternehmer für Aufwendungen, die ihm
+im Rahmen der Nacherfüllung gemäß § 439 Absatz 2 und 3 entstehen und
+die vom Unternehmer zu tragen sind, Vorschuss verlangen.
+
+
+###### § 476 Abweichende Vereinbarungen
 
 (1) Auf eine vor Mitteilung eines Mangels an den Unternehmer
 getroffene Vereinbarung, die zum Nachteil des Verbrauchers von den §§
@@ -7120,7 +7785,7 @@ für den Ausschluss oder die Beschränkung des Anspruchs auf
 Schadensersatz.
 
 
-###### § 476 Beweislastumkehr
+###### § 477 Beweislastumkehr
 
 Zeigt sich innerhalb von sechs Monaten seit Gefahrübergang ein
 Sachmangel, so wird vermutet, dass die Sache bereits bei
@@ -7128,13 +7793,35 @@ Gefahrübergang mangelhaft war, es sei denn, diese Vermutung ist mit
 der Art der Sache oder des Mangels unvereinbar.
 
 
-###### § 477 Sonderbestimmungen für Garantien
+###### § 478 Sonderbestimmungen für den Rückgriff des Unternehmers
+
+(1) Ist der letzte Vertrag in der Lieferkette ein Verbrauchsgüterkauf
+(§ 474), findet § 477 in den Fällen des § 445a Absatz 1 und 2 mit der
+Maßgabe Anwendung, dass die Frist mit dem Übergang der Gefahr auf den
+Verbraucher beginnt.
+
+(2) Auf eine vor Mitteilung eines Mangels an den Lieferanten
+getroffene Vereinbarung, die zum Nachteil des Unternehmers von Absatz
+1 sowie von den §§ 433 bis 435, 437, 439 bis 443, 445a Absatz 1 und 2
+sowie von § 445b abweicht, kann sich der Lieferant nicht berufen, wenn
+dem Rückgriffsgläubiger kein gleichwertiger Ausgleich eingeräumt wird.
+Satz 1 gilt unbeschadet des § 307 nicht für den Ausschluss oder die
+Beschränkung des Anspruchs auf Schadensersatz. Die in Satz 1
+bezeichneten Vorschriften finden auch Anwendung, wenn sie durch
+anderweitige Gestaltungen umgangen werden.
+
+(3) Die Absätze 1 und 2 finden auf die Ansprüche des Lieferanten und
+der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer
+entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
+
+
+###### § 479 Sonderbestimmungen für Garantien
 
 (1) Eine Garantieerklärung (§ 443) muss einfach und verständlich
-abgefasst sein. Sie muss enthalten
+abgefasst sein. Sie muss enthalten:
 
 1.  den Hinweis auf die gesetzlichen Rechte des Verbrauchers sowie darauf,
-    dass sie durch die Garantie nicht eingeschränkt werden und
+    dass sie durch die Garantie nicht eingeschränkt werden, und
 
 
 2.  den Inhalt der Garantie und alle wesentlichen Angaben, die für die
@@ -7150,61 +7837,6 @@ Textform mitgeteilt wird.
 
 (3) Die Wirksamkeit der Garantieverpflichtung wird nicht dadurch
 berührt, dass eine der vorstehenden Anforderungen nicht erfüllt wird.
-
-
-###### § 478 Rückgriff des Unternehmers
-
-(1) Wenn der Unternehmer die verkaufte neu hergestellte Sache als
-Folge ihrer Mangelhaftigkeit zurücknehmen musste oder der Verbraucher
-den Kaufpreis gemindert hat, bedarf es für die in § 437 bezeichneten
-Rechte des Unternehmers gegen den Unternehmer, der ihm die Sache
-verkauft hatte (Lieferant), wegen des vom Verbraucher geltend
-gemachten Mangels einer sonst erforderlichen Fristsetzung nicht.
-
-(2) Der Unternehmer kann beim Verkauf einer neu hergestellten Sache
-von seinem Lieferanten Ersatz der Aufwendungen verlangen, die der
-Unternehmer im Verhältnis zum Verbraucher nach § 439 Abs. 2 zu tragen
-hatte, wenn der vom Verbraucher geltend gemachte Mangel bereits beim
-Übergang der Gefahr auf den Unternehmer vorhanden war.
-
-(3) In den Fällen der Absätze 1 und 2 findet § 476 mit der Maßgabe
-Anwendung, dass die Frist mit dem Übergang der Gefahr auf den
-Verbraucher beginnt.
-
-(4) Auf eine vor Mitteilung eines Mangels an den Lieferanten
-getroffene Vereinbarung, die zum Nachteil des Unternehmers von den §§
-433 bis 435, 437, 439 bis 443 sowie von den Absätzen 1 bis 3 und von §
-479 abweicht, kann sich der Lieferant nicht berufen, wenn dem
-Rückgriffsgläubiger kein gleichwertiger Ausgleich eingeräumt wird.
-Satz 1 gilt unbeschadet des § 307 nicht für den Ausschluss oder die
-Beschränkung des Anspruchs auf Schadensersatz. Die in Satz 1
-bezeichneten Vorschriften finden auch Anwendung, wenn sie durch
-anderweitige Gestaltungen umgangen werden.
-
-(5) Die Absätze 1 bis 4 finden auf die Ansprüche des Lieferanten und
-der übrigen Käufer in der Lieferkette gegen die jeweiligen Verkäufer
-entsprechende Anwendung, wenn die Schuldner Unternehmer sind.
-
-(6) § 377 des Handelsgesetzbuchs bleibt unberührt.
-
-
-###### § 479 Verjährung von Rückgriffsansprüchen
-
-(1) Die in § 478 Abs. 2 bestimmten Aufwendungsersatzansprüche
-verjähren in zwei Jahren ab Ablieferung der Sache.
-
-(2) Die Verjährung der in den §§ 437 und 478 Abs. 2 bestimmten
-Ansprüche des Unternehmers gegen seinen Lieferanten wegen des Mangels
-einer an einen Verbraucher verkauften neu hergestellten Sache tritt
-frühestens zwei Monate nach dem Zeitpunkt ein, in dem der Unternehmer
-die Ansprüche des Verbrauchers erfüllt hat. Diese Ablaufhemmung endet
-spätestens fünf Jahre nach dem Zeitpunkt, in dem der Lieferant die
-Sache dem Unternehmer abgeliefert hat.
-
-(3) Die vorstehenden Absätze finden auf die Ansprüche des Lieferanten
-und der übrigen Käufer in der Lieferkette gegen die jeweiligen
-Verkäufer entsprechende Anwendung, wenn die Schuldner Unternehmer
-sind.
 
 
 ##### Untertitel 4 - Tausch
@@ -7371,64 +8003,10 @@ Staaten befinden.
 
 ##### § 485 Widerrufsrecht
 
-(1) Dem Verbraucher steht bei einem Teilzeit-Wohnrechtevertrag, einem
+Dem Verbraucher steht bei einem Teilzeit-Wohnrechtevertrag, einem
 Vertrag über ein langfristiges Urlaubsprodukt, einem
 Vermittlungsvertrag oder einem Tauschsystemvertrag ein Widerrufsrecht
 nach § 355 zu.
-
-(2) Der Verbraucher hat im Falle des Widerrufs keine Kosten zu tragen.
-Die Kosten des Vertrags, seiner Durchführung und seiner Rückabwicklung
-hat der Unternehmer dem Verbraucher zu erstatten. Eine Vergütung für
-geleistete Dienste sowie für die Überlassung von Wohngebäuden zur
-Nutzung ist abweichend von § 357 Absatz 1 und 3 ausgeschlossen.
-
-(3) Hat der Verbraucher einen Teilzeit-Wohnrechtevertrag oder einen
-Vertrag über ein langfristiges Urlaubsprodukt wirksam widerrufen, ist
-er an seine Willenserklärung zum Abschluss eines Tauschsystemvertrags,
-der sich auf diesen Vertrag bezieht, nicht mehr gebunden. Satz 1 gilt
-entsprechend für Willenserklärungen des Verbrauchers zum Abschluss von
-Verträgen, welche Leistungen an den Verbraucher im Zusammenhang mit
-einem Teilzeit-Wohnrechtevertrag oder einem Vertrag über ein
-langfristiges Urlaubsprodukt zum Gegenstand haben, die von dem
-Unternehmer oder auf Grund eines Vertrags des Unternehmers mit einem
-Dritten erbracht werden. § 357 gilt entsprechend. Der Verbraucher hat
-jedoch keine Kosten auf Grund der fehlenden Bindung an seine
-Willenserklärung zu tragen.
-
-
-##### § 485a Widerrufsfrist
-
-(1) Abweichend von § 355 Absatz 3 beginnt die Widerrufsfrist mit dem
-Zeitpunkt des Vertragsschlusses oder des Abschlusses eines
-Vorvertrags. Erhält der Verbraucher die Vertragsurkunde oder die
-Abschrift des Vertrags erst nach Vertragsschluss, beginnt die
-Widerrufsfrist mit dem Zeitpunkt des Erhalts.
-
-(2) Sind dem Verbraucher die in § 482 Absatz 1 bezeichneten
-vorvertraglichen Informationen oder das in Artikel 242 § 1 Absatz 2
-des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bezeichnete
-Formblatt vor Vertragsschluss nicht, nicht vollständig oder nicht in
-der in § 483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so
-beginnt die Widerrufsfrist abweichend von Absatz 1 erst mit dem
-vollständigen Erhalt der vorvertraglichen Informationen und des
-Formblatts in der vorgeschriebenen Sprache. Das Widerrufsrecht
-erlischt abweichend von § 355 Absatz 4 spätestens drei Monate und zwei
-Wochen nach dem in Absatz 1 genannten Zeitpunkt.
-
-(3) Ist dem Verbraucher die in § 482a bezeichnete Widerrufsbelehrung
-vor Vertragsschluss nicht, nicht vollständig oder nicht in der in §
-483 Absatz 1 vorgeschriebenen Sprache überlassen worden, so beginnt
-die Widerrufsfrist abweichend von Absatz 1 erst mit dem vollständigen
-Erhalt der Widerrufsbelehrung in der vorgeschriebenen Sprache. Das
-Widerrufsrecht erlischt abweichend von § 355 Absatz 4 sowie
-gegebenenfalls abweichend von Absatz 2 Satz 2 spätestens ein Jahr und
-zwei Wochen nach dem in Absatz 1 genannten Zeitpunkt.
-
-(4) Hat der Verbraucher einen Teilzeit-Wohnrechtevertrag und einen
-Tauschsystemvertrag abgeschlossen und sind ihm diese zum gleichen
-Zeitpunkt angeboten worden, so beginnt die Widerrufsfrist für beide
-Verträge mit dem nach Absatz 1 für den Teilzeit-Wohnrechtevertrag
-geltenden Zeitpunkt. Die Absätze 2 und 3 gelten entsprechend.
 
 
 ##### § 486 Anzahlungsverbot
@@ -7473,8 +8051,8 @@ anderweitige Gestaltungen umgangen werden.
 
 [^BJNR001950896BJNG024902140]
 
-[^BJNR001950896BJNG024902140]:     **Amtlicher Hinweis:**              Dieser Titel dient der Umsetzung
-    der Richtlinie 87/102/EWG des Rates zur Angleichung der Rechts- und
+[^BJNR001950896BJNG024902140]:     **Amtlicher Hinweis:** Dieser Titel dient der Umsetzung der Richtlinie
+    87/102/EWG des Rates zur Angleichung der Rechts- und
     Verwaltungsvorschriften der Mitgliedstaaten über den Verbraucherkredit
     (ABl. EG Nr. L 42 S. 48), zuletzt geändert durch die Richtlinie
     98/7/EG des Europäischen Parlaments und des Rates vom 16. Februar 1998
@@ -7590,13 +8168,16 @@ Schaden zu ersetzen, der diesem aus der vorzeitigen Kündigung entsteht
 
 ###### § 491 Verbraucherdarlehensvertrag
 
-(1) Die Vorschriften dieses Kapitels gelten für entgeltliche
-Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und
-einem Verbraucher als Darlehensnehmer (Verbraucherdarlehensvertrag),
-soweit in den Absätzen 2 oder 3 oder in den §§ 503 bis 505 nichts
-anderes bestimmt ist.
+(1) Die Vorschriften dieses Kapitels gelten für
+Verbraucherdarlehensverträge, soweit nichts anderes bestimmt ist.
+Verbraucherdarlehensverträge sind Allgemein-
+Verbraucherdarlehensverträge und Immobiliar-
+Verbraucherdarlehensverträge.
 
-(2) Keine Verbraucherdarlehensverträge sind Verträge,
+(2) Allgemein-Verbraucherdarlehensverträge sind entgeltliche
+Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und
+einem Verbraucher als Darlehensnehmer. Keine Allgemein-
+Verbraucherdarlehensverträge sind Verträge,
 
 1.  bei denen der Nettodarlehensbetrag (Artikel 247 § 3 Abs. 2 des
     Einführungsgesetzes zum Bürgerlichen Gesetzbuche) weniger als 200 Euro
@@ -7621,33 +8202,75 @@ anderes bestimmt ist.
     Rechtsvorschriften in öffentlichem Interesse abgeschlossen werden,
     wenn im Vertrag für den Darlehensnehmer günstigere als marktübliche
     Bedingungen und höchstens der marktübliche Sollzinssatz vereinbart
-    sind.
+    sind,
+
+
+6.  bei denen es sich um Immobiliar-Verbraucherdarlehensverträge oder
+    Immobilienverzehrkreditverträge gemäß Absatz 3 handelt.
 
 
 
 
-(3) § 358 Abs. 2, 4 und 5 sowie die §§ 491a bis 495 sind nicht auf
-Darlehensverträge anzuwenden, die in ein nach den Vorschriften der
-Zivilprozessordnung errichtetes gerichtliches Protokoll aufgenommen
-oder durch einen gerichtlichen Beschluss über das Zustandekommen und
-den Inhalt eines zwischen den Parteien geschlossenen Vergleichs
-festgestellt sind, wenn in das Protokoll oder den Beschluss der
-Sollzinssatz, die bei Abschluss des Vertrags in Rechnung gestellten
-Kosten des Darlehens sowie die Voraussetzungen aufgenommen worden
-sind, unter denen der Sollzinssatz oder die Kosten angepasst werden
-können.
+(3) Immobiliar-Verbraucherdarlehensverträge sind entgeltliche
+Darlehensverträge zwischen einem Unternehmer als Darlehensgeber und
+einem Verbraucher als Darlehensnehmer, die
+
+1.  durch ein Grundpfandrecht oder eine Reallast besichert sind oder
+
+
+2.  für den Erwerb oder die Erhaltung des Eigentumsrechts an Grundstücken,
+    an bestehenden oder zu errichtenden Gebäuden oder für den Erwerb oder
+    die Erhaltung von grundstücksgleichen Rechten bestimmt sind.
+
+
+
+Keine Immobiliar-Verbraucherdarlehensverträge sind Verträge gemäß
+Absatz 2 Satz 2 Nummer 4. Auf Immobiliar-Verbraucherdarlehensverträge
+gemäß Absatz 2 Satz 2 Nummer 5 ist nur § 491a Absatz 4 anwendbar.
+Keine Immobiliar-Verbraucherdarlehensverträge sind
+Immobilienverzehrkreditverträge, bei denen der Kreditgeber
+
+1.  pauschale oder regelmäßige Zahlungen leistet oder andere Formen der
+    Kreditauszahlung vornimmt und im Gegenzug nur einen Betrag aus dem
+    künftigen Erlös des Verkaufs einer Wohnimmobilie erhält oder ein Recht
+    an einer Wohnimmobilie erwirbt und
+
+
+2.  erst nach dem Tod des Verbrauchers eine Rückzahlung fordert, außer der
+    Verbraucher verstößt gegen die Vertragsbestimmungen, was dem
+    Kreditgeber erlaubt, den Vertrag zu kündigen.
+
+
+
+
+(4) § 358 Abs. 2 und 4 sowie die §§ 491a bis 495 und 505a bis 505e
+sind nicht auf Darlehensverträge anzuwenden, die in ein nach den
+Vorschriften der Zivilprozessordnung errichtetes gerichtliches
+Protokoll aufgenommen oder durch einen gerichtlichen Beschluss über
+das Zustandekommen und den Inhalt eines zwischen den Parteien
+geschlossenen Vergleichs festgestellt sind, wenn in das Protokoll oder
+den Beschluss der Sollzinssatz, die bei Abschluss des Vertrags in
+Rechnung gestellten Kosten des Darlehens sowie die Voraussetzungen
+aufgenommen worden sind, unter denen der Sollzinssatz oder die Kosten
+angepasst werden können.
 
 
 ###### § 491a Vorvertragliche Informationspflichten bei Verbraucherdarlehensverträgen
 
-(1) Der Darlehensgeber hat den Darlehensnehmer bei einem
-Verbraucherdarlehensvertrag über die sich aus Artikel 247 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden
-Einzelheiten in der dort vorgesehenen Form zu unterrichten.
+(1) Der Darlehensgeber ist verpflichtet, den Darlehensnehmer nach
+Maßgabe des Artikels 247 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche zu informieren.
 
 (2) Der Darlehensnehmer kann vom Darlehensgeber einen Entwurf des
 Verbraucherdarlehensvertrags verlangen. Dies gilt nicht, solange der
-Darlehensgeber zum Vertragsabschluss nicht bereit ist.
+Darlehensgeber zum Vertragsabschluss nicht bereit ist. Unterbreitet
+der Darlehensgeber bei einem Immobiliar-Verbraucherdarlehensvertrag
+dem Darlehensnehmer ein Angebot oder einen bindenden Vorschlag für
+bestimmte Vertragsbestimmungen, so muss er dem Darlehensnehmer
+anbieten, einen Vertragsentwurf auszuhändigen oder zu übermitteln;
+besteht kein Widerrufsrecht nach § 495, ist der Darlehensgeber dazu
+verpflichtet, dem Darlehensnehmer einen Vertragsentwurf auszuhändigen
+oder zu übermitteln.
 
 (3) Der Darlehensgeber ist verpflichtet, dem Darlehensnehmer vor
 Abschluss eines Verbraucherdarlehensvertrags angemessene Erläuterungen
@@ -7657,7 +8280,19 @@ Vermögensverhältnissen gerecht wird. Hierzu sind gegebenenfalls die
 vorvertraglichen Informationen gemäß Absatz 1, die Hauptmerkmale der
 vom Darlehensgeber angebotenen Verträge sowie ihre vertragstypischen
 Auswirkungen auf den Darlehensnehmer, einschließlich der Folgen bei
-Zahlungsverzug, zu erläutern.
+Zahlungsverzug, zu erläutern. Werden mit einem Immobiliar-
+Verbraucherdarlehensvertrag Finanzprodukte oder -dienstleistungen im
+Paket angeboten, so muss dem Darlehensnehmer erläutert werden, ob sie
+gesondert gekündigt werden können und welche Folgen die Kündigung hat.
+
+(4) Bei einem Immobiliar-Verbraucherdarlehensvertrag entsprechend §
+491 Absatz 2 Satz 2 Nummer 5 ist der Darlehensgeber verpflichtet, den
+Darlehensnehmer rechtzeitig vor Abgabe von dessen Vertragserklärung
+auf einem dauerhaften Datenträger über die Merkmale gemäß den
+Abschnitten 3, 4 und 13 des in Artikel 247 § 1 Absatz 2 Satz 2 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannten Musters zu
+informieren. Artikel 247 § 1 Absatz 2 Satz 6 des Einführungsgesetzes
+zum Bürgerlichen Gesetzbuche findet Anwendung.
 
 
 ###### § 492 Schriftform, Vertragsinhalt
@@ -7685,23 +8320,112 @@ erteilt. Satz 1 gilt nicht für die Prozessvollmacht und eine
 Vollmacht, die notariell beurkundet ist.
 
 (5) Erklärungen des Darlehensgebers, die dem Darlehensnehmer gegenüber
-nach Vertragsabschluss abzugeben sind, bedürfen der Textform.
+nach Vertragsabschluss abzugeben sind, müssen auf einem dauerhaften
+Datenträger erfolgen.
 
 (6) Enthält der Vertrag die Angaben nach Absatz 2 nicht oder nicht
 vollständig, können sie nach wirksamem Vertragsschluss oder in den
-Fällen des § 494 Absatz 2 Satz 1 nach Gültigwerden des Vertrags in
-Textform nachgeholt werden. Hat das Fehlen von Angaben nach Absatz 2
-zu Änderungen der Vertragsbedingungen gemäß § 494 Absatz 2 Satz 2 bis
-Absatz 6 geführt, kann die Nachholung der Angaben nur dadurch
-erfolgen, dass der Darlehensnehmer die nach § 494 Absatz 7
-erforderliche Abschrift des Vertrags erhält. In den sonstigen Fällen
-muss der Darlehensnehmer spätestens im Zeitpunkt der Nachholung der
-Angaben eine der in § 355 Absatz 3 Satz 2 genannten Unterlagen
-erhalten. Werden Angaben nach diesem Absatz nachgeholt, beträgt die
-Widerrufsfrist abweichend von § 495 einen Monat. Mit der Nachholung
-der Angaben nach Absatz 2 ist der Darlehensnehmer in Textform darauf
-hinzuweisen, dass die Widerrufsfrist von einem Monat nach Erhalt der
-nachgeholten Angaben beginnt.
+Fällen des § 494 Absatz 2 Satz 1 nach Gültigwerden des Vertrags auf
+einem dauerhaften Datenträger nachgeholt werden. Hat das Fehlen von
+Angaben nach Absatz 2 zu Änderungen der Vertragsbedingungen gemäß §
+494 Absatz 2 Satz 2 bis Absatz 6 geführt, kann die Nachholung der
+Angaben nur dadurch erfolgen, dass der Darlehensnehmer die nach § 494
+Absatz 7 erforderliche Abschrift des Vertrags erhält. In den sonstigen
+Fällen muss der Darlehensnehmer spätestens im Zeitpunkt der Nachholung
+der Angaben eine der in § 356b Absatz 1 genannten Unterlagen erhalten.
+Mit der Nachholung der Angaben nach Absatz 2 ist der Darlehensnehmer
+auf einem dauerhaften Datenträger darauf hinzuweisen, dass die
+Widerrufsfrist von einem Monat nach Erhalt der nachgeholten Angaben
+beginnt.
+
+(7) Die Vereinbarung eines veränderlichen Sollzinssatzes, der sich
+nach einem Index oder Referenzzinssatz richtet, ist nur wirksam, wenn
+der Index oder Referenzzinssatz objektiv, eindeutig bestimmt und für
+Darlehensgeber und Darlehensnehmer verfügbar und überprüfbar ist.
+
+
+###### § 492a Kopplungsgeschäfte bei Immobiliar-Verbraucherdarlehensverträgen
+
+(1) Der Darlehensgeber darf den Abschluss eines Immobiliar-
+Verbraucherdarlehenvertrags unbeschadet des § 492b nicht davon
+abhängig machen, dass der Darlehensnehmer oder ein Dritter weitere
+Finanzprodukte oder -dienstleistungen erwirbt (Kopplungsgeschäft). Ist
+der Darlehensgeber zum Abschluss des Immobiliar-
+Verbraucherdarlehensvertrags bereit, ohne dass der Verbraucher weitere
+Finanzprodukte oder -dienstleistungen erwirbt, liegt ein
+Kopplungsgeschäft auch dann nicht vor, wenn die Bedingungen für den
+Immobiliar-Verbraucherdarlehensvertrag von denen abweichen, zu denen
+er zusammen mit den weiteren Finanzprodukten oder -dienstleistungen
+angeboten wird.
+
+(2) Soweit ein Kopplungsgeschäft unzulässig ist, sind die mit dem
+Immobiliar-Verbraucherdarlehensvertrag gekoppelten Geschäfte nichtig;
+die Wirksamkeit des Immobiliar-Verbraucherdarlehensvertrags bleibt
+davon unberührt.
+
+
+###### § 492b Zulässige Kopplungsgeschäfte
+
+(1) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den
+Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig
+macht, dass der Darlehensnehmer, ein Familienangehöriger des
+Darlehensnehmers oder beide zusammen
+
+1.  ein Zahlungs- oder ein Sparkonto eröffnen, dessen einziger Zweck die
+    Ansammlung von Kapital ist, um
+
+    a)  das Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen,
+
+
+    b)  die erforderlichen Mittel für die Gewährung des Darlehens
+        bereitzustellen oder
+
+
+    c)  als zusätzliche Sicherheit für den Darlehensgeber für den Fall eines
+        Zahlungsausfalls zu dienen;
+
+
+
+
+
+2.  ein Anlageprodukt oder ein privates Rentenprodukt erwerben oder
+    behalten, das
+
+    a)  in erster Linie als Ruhestandseinkommen dient und
+
+
+    b)  bei Zahlungsausfall als zusätzliche Sicherheit für den Darlehensgeber
+        dient oder das der Ansammlung von Kapital dient, um damit das
+        Immobiliar-Verbraucherdarlehen zurückzuzahlen oder zu bedienen oder um
+        damit die erforderlichen Mittel für die Gewährung des Darlehens
+        bereitzustellen;
+
+
+
+
+
+3.  einen weiteren Darlehensvertrag abschließen, bei dem das
+    zurückzuzahlende Kapital auf einem vertraglich festgelegten
+    Prozentsatz des Werts der Immobilie beruht, die diese zum Zeitpunkt
+    der Rückzahlung oder Rückzahlungen des Kapitals (Darlehensvertrag mit
+    Wertbeteiligung) hat.
+
+
+
+
+(2) Ein Kopplungsgeschäft ist zulässig, wenn der Darlehensgeber den
+Abschluss eines Immobiliar-Verbraucherdarlehensvertrags davon abhängig
+macht, dass der Darlehensnehmer im Zusammenhang mit dem Immobiliar-
+Verbraucherdarlehensvertrag eine einschlägige Versicherung abschließt
+und dem Darlehensnehmer gestattet ist, diese Versicherung auch bei
+einem anderen als bei dem vom Darlehensgeber bevorzugten Anbieter
+abzuschließen.
+
+(3) Ein Kopplungsgeschäft ist zulässig, wenn die für den
+Darlehensgeber zuständige Aufsichtsbehörde die weiteren Finanzprodukte
+oder -dienstleistungen sowie deren Kopplung mit dem Immobiliar-
+Verbraucherdarlehensvertrag nach § 18a Absatz 8a des
+Kreditwesengesetzes genehmigt hat.
 
 
 ###### § 493 Informationen während des Vertragsverhältnisses
@@ -7727,11 +8451,68 @@ wirksam, nachdem der Darlehensgeber den Darlehensnehmer über die
 Einzelheiten unterrichtet hat, die sich aus Artikel 247 § 15 des
 Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergeben. Abweichende
 Vereinbarungen über die Wirksamkeit sind im Rahmen des Artikels 247 §
-15 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+15 Absatz 2 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 zulässig.
 
-(4) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen
-die Pflichten aus den Absätzen 1 bis 3 auch den neuen Gläubiger, wenn
+(4) Bei einem Vertrag über ein Immobiliar-Verbraucherdarlehen in
+Fremdwährung gemäß § 503 Absatz 1 Satz 1, auch in Verbindung mit Satz
+3, hat der Darlehensgeber den Darlehensnehmer unverzüglich zu
+informieren, wenn der Wert des noch zu zahlenden Restbetrags oder der
+Wert der regelmäßigen Raten in der Landeswährung des Darlehensnehmers
+um mehr als 20 Prozent gegenüber dem Wert steigt, der bei
+Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre.
+Die Information
+
+1.  ist auf einem dauerhaften Datenträger zu übermitteln,
+
+
+2.  hat die Angabe über die Veränderung des Restbetrags in der
+    Landeswährung des Darlehensnehmers zu enthalten,
+
+
+3.  hat den Hinweis auf die Möglichkeit einer Währungsumstellung aufgrund
+    des § 503 und die hierfür geltenden Bedingungen und gegebenenfalls die
+    Erläuterung weiterer Möglichkeiten zur Begrenzung des
+    Wechselkursrisikos zu enthalten und
+
+
+4.  ist so lange in regelmäßigen Abständen zu erteilen, bis die Differenz
+    von 20 Prozent wieder unterschritten wird.
+
+
+
+Die Sätze 1 und 2 sind entsprechend anzuwenden, wenn ein Immobiliar-
+Verbraucherdarlehensvertrag in der Währung des Mitgliedstaats der
+Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss
+seinen Wohnsitz hat, geschlossen wurde und der Darlehensnehmer zum
+Zeitpunkt der maßgeblichen Kreditwürdigkeitsprüfung in einer anderen
+Währung überwiegend sein Einkommen bezieht oder Vermögenswerte hält,
+aus denen das Darlehen zurückgezahlt werden soll.
+
+(5) Wenn der Darlehensnehmer eines Immobiliar-
+Verbraucherdarlehensvertrags dem Darlehensgeber mitteilt, dass er eine
+vorzeitige Rückzahlung des Darlehens beabsichtigt, ist der
+Darlehensgeber verpflichtet, ihm unverzüglich die für die Prüfung
+dieser Möglichkeit erforderlichen Informationen auf einem dauerhaften
+Datenträger zu übermitteln. Diese Informationen müssen insbesondere
+folgende Angaben enthalten:
+
+1.  Auskunft über die Zulässigkeit der vorzeitigen Rückzahlung,
+
+
+2.  im Fall der Zulässigkeit die Höhe des zurückzuzahlenden Betrags und
+
+
+3.  gegebenenfalls die Höhe einer Vorfälligkeitsentschädigung.
+
+
+
+Soweit sich die Informationen auf Annahmen stützen, müssen diese
+nachvollziehbar und sachlich gerechtfertigt sein und als solche dem
+Darlehensnehmer gegenüber offengelegt werden.
+
+(6) Wurden Forderungen aus dem Darlehensvertrag abgetreten, treffen
+die Pflichten aus den Absätzen 1 bis 5 auch den neuen Gläubiger, wenn
 nicht der bisherige Darlehensgeber mit dem neuen Gläubiger vereinbart
 hat, dass im Verhältnis zum Darlehensnehmer weiterhin allein der
 bisherige Darlehensgeber auftritt.
@@ -7742,9 +8523,9 @@ bisherige Darlehensgeber auftritt.
 (1) Der Verbraucherdarlehensvertrag und die auf Abschluss eines
 solchen Vertrags vom Verbraucher erteilte Vollmacht sind nichtig, wenn
 die Schriftform insgesamt nicht eingehalten ist oder wenn eine der in
-Artikel 247 §§ 6 und 9 bis 13 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche für den Verbraucherdarlehensvertrag vorgeschriebenen
-Angaben fehlt.
+Artikel 247 §§ 6 und 10 bis 13 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche für den Verbraucherdarlehensvertrag
+vorgeschriebenen Angaben fehlt.
 
 (2) Ungeachtet eines Mangels nach Absatz 1 wird der
 Verbraucherdarlehensvertrag gültig, soweit der Darlehensnehmer das
@@ -7770,51 +8551,23 @@ berechnen.
 
 (6) Fehlen im Vertrag Angaben zur Laufzeit oder zum Kündigungsrecht,
 ist der Darlehensnehmer jederzeit zur Kündigung berechtigt. Fehlen
-Angaben zu Sicherheiten, können sie nicht gefordert werden. Satz 2
-gilt nicht, wenn der Nettodarlehensbetrag 75 000 Euro übersteigt.
+Angaben zu Sicherheiten, so können Sicherheiten nicht gefordert
+werden; dies gilt nicht bei Allgemein-Verbraucherdarlehensverträgen,
+wenn der Nettodarlehensbetrag 75 000 Euro übersteigt. Fehlen Angaben
+zum Umwandlungsrecht bei Immobiliar-Verbraucherdarlehen in
+Fremdwährung, so kann das Umwandlungsrecht jederzeit ausgeübt werden.
 
 (7) Der Darlehensgeber stellt dem Darlehensnehmer eine Abschrift des
 Vertrags zur Verfügung, in der die Vertragsänderungen berücksichtigt
-sind, die sich aus den Absätzen 2 bis 6 ergeben. Abweichend von § 495
-beginnt die Widerrufsfrist in diesem Fall, wenn der Darlehensnehmer
-diese Abschrift des Vertrags erhalten hat.
+sind, die sich aus den Absätzen 2 bis 6 ergeben.
 
 
-###### § 495 Widerrufsrecht
+###### § 495 Widerrufsrecht; Bedenkzeit
 
 (1) Dem Darlehensnehmer steht bei einem Verbraucherdarlehensvertrag
 ein Widerrufsrecht nach § 355 zu.
 
-(2) Die §§ 355 bis 359a gelten mit der Maßgabe, dass
-
-1.  an die Stelle der Widerrufsbelehrung die Pflichtangaben nach Artikel
-    247 § 6 Absatz 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
-    treten,
-
-
-2.  die Widerrufsfrist auch nicht beginnt
-
-    a)  vor Vertragsschluss und
-
-
-    b)  bevor der Darlehensnehmer die Pflichtangaben nach § 492 Absatz 2
-        erhält, und
-
-
-
-
-
-3.  der Darlehensnehmer abweichend von § 346 Absatz 1 dem Darlehensgeber
-    auch die Aufwendungen zu ersetzen hat, die der Darlehensgeber an
-    öffentliche Stellen erbracht hat und nicht zurückverlangen kann; § 346
-    Absatz 2 Satz 2 zweiter Halbsatz ist nur anzuwenden, wenn das Darlehen
-    durch ein Grundpfandrecht gesichert ist.
-
-
-
-§ 355 Absatz 2 Satz 3 und Absatz 4 ist nicht anzuwenden.
-
-(3) Ein Widerrufsrecht besteht nicht bei Darlehensverträgen,
+(2) Ein Widerrufsrecht besteht nicht bei Darlehensverträgen,
 
 1.  die einen Darlehensvertrag, zu dessen Kündigung der Darlehensgeber
     wegen Zahlungsverzugs des Darlehensnehmers berechtigt ist, durch
@@ -7833,6 +8586,13 @@ ein Widerrufsrecht nach § 355 zu.
 
 
 
+(3) Bei Immobiliar-Verbraucherdarlehensverträgen ist dem
+Darlehensnehmer in den Fällen des Absatzes 2 vor Vertragsschluss eine
+Bedenkzeit von zumindest sieben Tagen einzuräumen. Während des Laufs
+der Frist ist der Darlehensgeber an sein Angebot gebunden. Die
+Bedenkzeit beginnt mit der Aushändigung des Vertragsangebots an den
+Darlehensnehmer.
+
 
 ###### § 496 Einwendungsverzicht, Wechsel- und Scheckverbot
 
@@ -7842,17 +8602,17 @@ zustehen, gemäß § 404 einem Abtretungsgläubiger entgegenzusetzen oder
 eine ihm gegen den Darlehensgeber zustehende Forderung gemäß § 406
 auch dem Abtretungsgläubiger gegenüber aufzurechnen, ist unwirksam.
 
-(2) Wird eine Forderung des Darlehensgebers aus einem Darlehensvertrag
-an einen Dritten abgetreten oder findet in der Person des
-Darlehensgebers ein Wechsel statt, ist der Darlehensnehmer
-unverzüglich darüber sowie über die Kontaktdaten des neuen Gläubigers
-nach Artikel 246 § 1 Abs. 1 Nr. 1 bis 3 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche zu unterrichten. Die Unterrichtung ist bei
-Abtretungen entbehrlich, wenn der bisherige Darlehensgeber mit dem
-neuen Gläubiger vereinbart hat, dass im Verhältnis zum Darlehensnehmer
-weiterhin allein der bisherige Darlehensgeber auftritt. Fallen die
-Voraussetzungen des Satzes 2 fort, ist die Unterrichtung unverzüglich
-nachzuholen.
+(2) Wird eine Forderung des Darlehensgebers aus einem
+Verbraucherdarlehensvertrag an einen Dritten abgetreten oder findet in
+der Person des Darlehensgebers ein Wechsel statt, ist der
+Darlehensnehmer unverzüglich darüber sowie über die Kontaktdaten des
+neuen Gläubigers nach Artikel 246b § 1 Absatz 1 Nummer 1, 3 und 4 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu unterrichten. Die
+Unterrichtung ist bei Abtretungen entbehrlich, wenn der bisherige
+Darlehensgeber mit dem neuen Gläubiger vereinbart hat, dass im
+Verhältnis zum Darlehensnehmer weiterhin allein der bisherige
+Darlehensgeber auftritt. Fallen die Voraussetzungen des Satzes 2 fort,
+ist die Unterrichtung unverzüglich nachzuholen.
 
 (3) Der Darlehensnehmer darf nicht verpflichtet werden, für die
 Ansprüche des Darlehensgebers aus dem Verbraucherdarlehensvertrag eine
@@ -7894,20 +8654,30 @@ auf Zinsen findet § 197 Abs. 2 keine Anwendung. Die Sätze 1 bis 4
 finden keine Anwendung, soweit Zahlungen auf Vollstreckungstitel
 geleistet werden, deren Hauptforderung auf Zinsen lautet.
 
-(4) (weggefallen)
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen beträgt der
+Verzugszinssatz abweichend von Absatz 1 für das Jahr 2,5 Prozentpunkte
+über dem Basiszinssatz. Die Absätze 2 und 3 Satz 1, 2, 4 und 5 sind
+auf Immobiliar-Verbraucherdarlehensverträge nicht anzuwenden.
 
 
 ###### § 498 Gesamtfälligstellung bei Teilzahlungsdarlehen
 
-Wegen Zahlungsverzugs des Darlehensnehmers kann der Darlehensgeber den
-Verbraucherdarlehensvertrag bei einem Darlehen, das in Teilzahlungen
-zu tilgen ist, nur kündigen, wenn
+(1) Der Darlehensgeber kann den Verbraucherdarlehensvertrag bei einem
+Darlehen, das in Teilzahlungen zu tilgen ist, wegen Zahlungsverzugs
+des Darlehensnehmers nur dann kündigen, wenn
 
-1.  der Darlehensnehmer mit mindestens zwei aufeinander folgenden
-    Teilzahlungen ganz oder teilweise und mit mindestens 10 Prozent, bei
-    einer Laufzeit des Verbraucherdarlehensvertrags von mehr als drei
-    Jahren mit mindestens 5 Prozent des Nennbetrags des Darlehens in
-    Verzug ist und
+1.  der Darlehensnehmer
+
+    a)  mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder
+        teilweise in Verzug ist,
+
+
+    b)  bei einer Vertragslaufzeit bis zu drei Jahren mit mindestens 10
+        Prozent oder bei einer Vertragslaufzeit von mehr als drei Jahren mit
+        mindestens 5 Prozent des Nennbetrags des Darlehens in Verzug ist und
+
+
+
 
 
 2.  der Darlehensgeber dem Darlehensnehmer erfolglos eine zweiwöchige
@@ -7921,34 +8691,55 @@ Der Darlehensgeber soll dem Darlehensnehmer spätestens mit der
 Fristsetzung ein Gespräch über die Möglichkeiten einer
 einverständlichen Regelung anbieten.
 
+(2) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der
+Darlehensnehmer abweichend von Absatz 1 Satz 1 Nummer 1 Buchstabe b
+mit mindestens 2,5 Prozent des Nennbetrags des Darlehens in Verzug
+sein.
+
 
 ###### § 499 Kündigungsrecht des Darlehensgebers; Leistungsverweigerung
 
-(1) In einem Verbraucherdarlehensvertrag ist eine Vereinbarung über
-ein Kündigungsrecht des Darlehensgebers unwirksam, wenn eine bestimmte
-Vertragslaufzeit vereinbart wurde oder die Kündigungsfrist zwei Monate
-unterschreitet.
+(1) In einem Allgemein-Verbraucherdarlehensvertrag ist eine
+Vereinbarung über ein Kündigungsrecht des Darlehensgebers unwirksam,
+wenn eine bestimmte Vertragslaufzeit vereinbart wurde oder die
+Kündigungsfrist zwei Monate unterschreitet.
 
 (2) Der Darlehensgeber ist bei entsprechender Vereinbarung berechtigt,
-die Auszahlung eines Darlehens, bei dem eine Zeit für die Rückzahlung
-nicht bestimmt ist, aus einem sachlichen Grund zu verweigern.
-Beabsichtigt der Darlehensgeber dieses Recht auszuüben, hat er dies
-dem Darlehensnehmer unverzüglich mitzuteilen und ihn über die Gründe
-möglichst vor, spätestens jedoch unverzüglich nach der Rechtsausübung
-zu unterrichten. Die Unterrichtung über die Gründe unterbleibt, soweit
-hierdurch die öffentliche Sicherheit oder Ordnung gefährdet würde.
+die Auszahlung eines Allgemein-Verbraucherdarlehens, bei dem eine Zeit
+für die Rückzahlung nicht bestimmt ist, aus einem sachlichen Grund zu
+verweigern. Beabsichtigt der Darlehensgeber dieses Recht auszuüben,
+hat er dies dem Darlehensnehmer unverzüglich mitzuteilen und ihn über
+die Gründe möglichst vor, spätestens jedoch unverzüglich nach der
+Rechtsausübung zu unterrichten. Die Unterrichtung über die Gründe
+unterbleibt, soweit hierdurch die öffentliche Sicherheit oder Ordnung
+gefährdet würde.
+
+(3) Der Darlehensgeber kann einen Verbraucherdarlehensvertrag nicht
+allein deshalb kündigen, auf andere Weise beenden oder seine Änderung
+verlangen, weil die vom Darlehensnehmer vor Vertragsschluss gemachten
+Angaben unvollständig waren oder weil die Kreditwürdigkeitsprüfung des
+Darlehensnehmers nicht ordnungsgemäß durchgeführt wurde. Satz 1 findet
+keine Anwendung, soweit der Mangel der Kreditwürdigkeitsprüfung darauf
+beruht, dass der Darlehensnehmer dem Darlehensgeber für die
+Kreditwürdigkeitsprüfung relevante Informationen wissentlich
+vorenthalten oder diese gefälscht hat.
 
 
 ###### § 500 Kündigungsrecht des Darlehensnehmers; vorzeitige Rückzahlung
 
-(1) Der Darlehensnehmer kann einen Verbraucherdarlehensvertrag, bei
-dem eine Zeit für die Rückzahlung nicht bestimmt ist, ganz oder
-teilweise kündigen, ohne eine Frist einzuhalten. Eine Vereinbarung
-über eine Kündigungsfrist von mehr als einem Monat ist unwirksam.
+(1) Der Darlehensnehmer kann einen Allgemein-
+Verbraucherdarlehensvertrag, bei dem eine Zeit für die Rückzahlung
+nicht bestimmt ist, ganz oder teilweise kündigen, ohne eine Frist
+einzuhalten. Eine Vereinbarung über eine Kündigungsfrist von mehr als
+einem Monat ist unwirksam.
 
 (2) Der Darlehensnehmer kann seine Verbindlichkeiten aus einem
 Verbraucherdarlehensvertrag jederzeit ganz oder teilweise vorzeitig
-erfüllen.
+erfüllen. Abweichend von Satz 1 kann der Darlehensnehmer eines
+Immobiliar-Verbraucherdarlehensvertrags, für den ein gebundener
+Sollzinssatz vereinbart wurde, seine Verbindlichkeiten im Zeitraum der
+Sollzinsbindung nur dann ganz oder teilweise vorzeitig erfüllen, wenn
+hierfür ein berechtigtes Interesse des Darlehensnehmers besteht.
 
 
 ###### § 501 Kostenermäßigung
@@ -7966,22 +8757,10 @@ Fälligkeit oder Erfüllung entfallen.
 (1) Der Darlehensgeber kann im Fall der vorzeitigen Rückzahlung eine
 angemessene Vorfälligkeitsentschädigung für den unmittelbar mit der
 vorzeitigen Rückzahlung zusammenhängenden Schaden verlangen, wenn der
-Darlehensnehmer zum Zeitpunkt der Rückzahlung Zinsen zu einem bei
-Vertragsabschluss vereinbarten, gebundenen Sollzinssatz schuldet. Die
-Vorfälligkeitsentschädigung darf folgende Beträge jeweils nicht
-überschreiten:
-
-1.  1 Prozent beziehungsweise, wenn der Zeitraum zwischen der vorzeitigen
-    und der vereinbarten Rückzahlung ein Jahr nicht übersteigt, 0,5
-    Prozent des vorzeitig zurückgezahlten Betrags,
-
-
-2.  den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum
-    zwischen der vorzeitigen und der vereinbarten Rückzahlung entrichtet
-    hätte.
-
-
-
+Darlehensnehmer zum Zeitpunkt der Rückzahlung Zinsen zu einem
+gebundenen Sollzinssatz schuldet. Bei Allgemein-
+Verbraucherdarlehensverträgen gilt Satz 1 nur, wenn der gebundene
+Sollzinssatz bei Vertragsabschluss vereinbart wurde.
 
 (2) Der Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen,
 wenn
@@ -7998,25 +8777,47 @@ wenn
 
 
 
+(3) Bei Allgemein-Verbraucherdarlehensverträgen darf die
+Vorfälligkeitsentschädigung folgende Beträge jeweils nicht
+überschreiten:
 
-###### § 503 Immobiliardarlehensverträge
+1.  1 Prozent des vorzeitig zurückgezahlten Betrags oder, wenn der
+    Zeitraum zwischen der vorzeitigen und der vereinbarten Rückzahlung ein
+    Jahr nicht überschreitet, 0,5 Prozent des vorzeitig zurückgezahlten
+    Betrags,
 
-(1) § 497 Abs. 2 und 3 Satz 1, 2, 4 und 5 sowie die §§ 499, 500 und
-502 sind nicht anzuwenden auf Verträge, bei denen die
-Zurverfügungstellung des Darlehens von der Sicherung durch ein
-Grundpfandrecht abhängig gemacht wird und zu Bedingungen erfolgt, die
-für grundpfandrechtlich abgesicherte Verträge und deren
-Zwischenfinanzierung üblich sind; der Sicherung durch ein
-Grundpfandrecht steht es gleich, wenn von einer solchen Sicherung nach
-§ 7 Abs. 3 bis 5 des Gesetzes über Bausparkassen abgesehen wird.
 
-(2) Der Verzugszinssatz beträgt abweichend von § 497 Abs. 1 für das
-Jahr 2,5 Prozentpunkte über dem Basiszinssatz.
+2.  den Betrag der Sollzinsen, den der Darlehensnehmer in dem Zeitraum
+    zwischen der vorzeitigen und der vereinbarten Rückzahlung entrichtet
+    hätte.
 
-(3) § 498 Satz 1 Nr. 1 gilt mit der Maßgabe, dass der Darlehensnehmer
-mit mindestens zwei aufeinander folgenden Teilzahlungen ganz oder
-teilweise und mit mindestens 2,5 Prozent des Nennbetrags des Darlehens
-in Verzug sein muss.
+
+
+
+
+###### § 503 Umwandlung bei Immobiliar-Verbraucherdarlehen in Fremdwährung
+
+(1) Bei einem nicht auf die Währung des Mitgliedstaats der
+Europäischen Union, in dem der Darlehensnehmer bei Vertragsschluss
+seinen Wohnsitz hat (Landeswährung des Darlehensnehmers),
+geschlossenen Immobiliar-Verbraucherdarlehensvertrag (Immobiliar-
+Verbraucherdarlehensvertrag in Fremdwährung) kann der Darlehensnehmer
+die Umwandlung des Darlehens in die Landeswährung des Darlehensnehmers
+verlangen. Das Recht auf Umwandlung besteht dann, wenn der Wert des
+ausstehenden Restbetrags oder der Wert der regelmäßigen Raten in der
+Landeswährung des Darlehensnehmers auf Grund der Änderung des
+Wechselkurses um mehr als 20 Prozent über dem Wert liegt, der bei
+Zugrundelegung des Wechselkurses bei Vertragsabschluss gegeben wäre.
+Im Darlehensvertrag kann abweichend von Satz 1 vereinbart werden, dass
+die Landeswährung des Darlehensnehmers ausschließlich oder ergänzend
+die Währung ist, in der er zum Zeitpunkt der maßgeblichen
+Kreditwürdigkeitsprüfung überwiegend sein Einkommen bezieht oder
+Vermögenswerte hält, aus denen das Darlehen zurückgezahlt werden soll.
+
+(2) Die Umstellung des Darlehens hat zu dem Wechselkurs zu erfolgen,
+der dem am Tag des Antrags auf Umstellung geltenden Marktwechselkurs
+entspricht. Satz 1 gilt nur, wenn im Darlehensvertrag nicht etwas
+anderes vereinbart wurde.
 
 
 ###### § 504 Eingeräumte Überziehungsmöglichkeit
@@ -8033,15 +8834,48 @@ ist nur bei einer Erhöhung des Sollzinssatzes anzuwenden und gilt
 entsprechend bei einer Erhöhung der vereinbarten sonstigen Kosten. §
 499 Abs. 1 ist nicht anzuwenden.
 
-(2) Ist in einer Überziehungsmöglichkeit vereinbart, dass nach der
-Auszahlung die Laufzeit höchstens drei Monate beträgt oder der
-Darlehensgeber kündigen kann, ohne eine Frist einzuhalten, sind § 491a
-Abs. 3, die §§ 495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht
-anzuwenden. § 492 Abs. 1 ist nicht anzuwenden, wenn außer den
-Sollzinsen keine weiteren laufenden Kosten vereinbart sind, die
-Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig werden
-und der Darlehensgeber dem Darlehensnehmer den Vertragsinhalt
-spätestens unverzüglich nach Vertragsabschluss in Textform mitteilt.
+(2) Ist in einer Überziehungsmöglichkeit in Form des Allgemein-
+Verbraucherdarlehensvertrags vereinbart, dass nach der Auszahlung die
+Laufzeit höchstens drei Monate beträgt oder der Darlehensgeber
+kündigen kann, ohne eine Frist einzuhalten, sind § 491a Abs. 3, die §§
+495, 499 Abs. 2 und § 500 Abs. 1 Satz 2 nicht anzuwenden. § 492 Abs. 1
+ist nicht anzuwenden, wenn außer den Sollzinsen keine weiteren
+laufenden Kosten vereinbart sind, die Sollzinsen nicht in kürzeren
+Zeiträumen als drei Monaten fällig werden und der Darlehensgeber dem
+Darlehensnehmer den Vertragsinhalt spätestens unverzüglich nach
+Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
+
+
+###### § 504a Beratungspflicht bei Inanspruchnahme der Überziehungsmöglichkeit
+
+(1) Der Darlehensgeber hat dem Darlehensnehmer eine Beratung gemäß
+Absatz 2 anzubieten, wenn der Darlehensnehmer eine ihm eingeräumte
+Überziehungsmöglichkeit ununterbrochen über einen Zeitraum von sechs
+Monaten und durchschnittlich in Höhe eines Betrags in Anspruch
+genommen hat, der 75 Prozent des vereinbarten Höchstbetrags
+übersteigt. Wenn der Rechnungsabschluss für das laufende Konto
+vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das
+Vorliegen der Voraussetzungen nach Satz 1 der jeweilige
+Rechnungsabschluss. Das Beratungsangebot ist dem Darlehensnehmer in
+Textform auf dem Kommunikationsweg zu unterbreiten, der für den
+Kontakt mit dem Darlehensnehmer üblicherweise genutzt wird. Das
+Beratungsangebot ist zu dokumentieren.
+
+(2) Nimmt der Darlehensnehmer das Angebot an, ist eine Beratung zu
+möglichen kostengünstigen Alternativen zur Inanspruchnahme der
+Überziehungsmöglichkeit und zu möglichen Konsequenzen einer weiteren
+Überziehung des laufenden Kontos durchzuführen sowie gegebenenfalls
+auf geeignete Beratungseinrichtungen hinzuweisen. Die Beratung hat in
+Form eines persönlichen Gesprächs zu erfolgen. Für dieses können auch
+Fernkommunikationsmittel genutzt werden. Der Ort und die Zeit des
+Beratungsgesprächs sind zu dokumentieren.
+
+(3) Nimmt der Darlehensnehmer das Beratungsangebot nicht an oder wird
+ein Vertrag über ein geeignetes kostengünstigeres Finanzprodukt nicht
+geschlossen, hat der Darlehensgeber das Beratungsangebot bei erneutem
+Vorliegen der Voraussetzungen nach Absatz 1 zu wiederholen. Dies gilt
+nicht, wenn der Darlehensnehmer ausdrücklich erklärt, keine weiteren
+entsprechenden Beratungsangebote erhalten zu wollen.
 
 
 ###### § 505 Geduldete Überziehung
@@ -8050,27 +8884,206 @@ spätestens unverzüglich nach Vertragsabschluss in Textform mitteilt.
 über ein laufendes Konto ohne eingeräumte Überziehungsmöglichkeit ein
 Entgelt für den Fall, dass er eine Überziehung des Kontos duldet,
 müssen in diesem Vertrag die Angaben nach Artikel 247 § 17 Abs. 1 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche in Textform enthalten
-sein und dem Verbraucher in regelmäßigen Zeitabständen in Textform
-mitgeteilt werden. Satz 1 gilt entsprechend, wenn ein Darlehensgeber
-mit einem Darlehensnehmer in einem Vertrag über ein laufendes Konto
-mit eingeräumter Überziehungsmöglichkeit ein Entgelt für den Fall
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche auf einem dauerhaften
+Datenträger enthalten sein und dem Verbraucher in regelmäßigen
+Zeitabständen auf einem dauerhaften Datenträger mitgeteilt werden.
+Satz 1 gilt entsprechend, wenn ein Darlehensgeber mit einem
+Darlehensnehmer in einem Vertrag über ein laufendes Konto mit
+eingeräumter Überziehungsmöglichkeit ein Entgelt für den Fall
 vereinbart, dass er eine Überziehung des Kontos über die vertraglich
 bestimmte Höhe hinaus duldet.
 
 (2) Kommt es im Fall des Absatzes 1 zu einer erheblichen Überziehung
 von mehr als einem Monat, unterrichtet der Darlehensgeber den
-Darlehensnehmer unverzüglich in Textform über die sich aus Artikel 247
-§ 17 Abs. 2 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
-ergebenden Einzelheiten.
+Darlehensnehmer unverzüglich auf einem dauerhaften Datenträger über
+die sich aus Artikel 247 § 17 Abs. 2 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche ergebenden Einzelheiten. Wenn es im Fall des
+Absatzes 1 zu einer ununterbrochenen Überziehung von mehr als drei
+Monaten gekommen ist und der durchschnittliche Überziehungsbetrag die
+Hälfte des durchschnittlichen monatlichen Geldeingangs innerhalb der
+letzten drei Monate auf diesem Konto übersteigt, so gilt § 504a
+entsprechend. Wenn der Rechnungsabschluss für das laufende Konto
+vierteljährlich erfolgt, ist der maßgebliche Zeitpunkt für das
+Vorliegen der Voraussetzungen nach Satz 1 der jeweilige
+Rechnungsabschluss.
 
 (3) Verstößt der Unternehmer gegen Absatz 1 oder Absatz 2, kann der
 Darlehensgeber über die Rückzahlung des Darlehens hinaus Kosten und
 Zinsen nicht verlangen.
 
-(4) Die §§ 491a bis 496 und 499 bis 502 sind auf
+(4) Die §§ 491a bis 496 und 499 bis 502 sind auf Allgemein-
 Verbraucherdarlehensverträge, die unter den in Absatz 1 genannten
 Voraussetzungen zustande kommen, nicht anzuwenden.
+
+
+###### § 505a Pflicht zur Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+
+(1) Der Darlehensgeber hat vor dem Abschluss eines
+Verbraucherdarlehensvertrags die Kreditwürdigkeit des Darlehensnehmers
+zu prüfen. Der Darlehensgeber darf den Verbraucherdarlehensvertrag nur
+abschließen, wenn aus der Kreditwürdigkeitsprüfung hervorgeht, dass
+bei einem Allgemein-Verbraucherdarlehensvertrag keine erheblichen
+Zweifel daran bestehen und dass es bei einem Immobiliar-
+Verbraucherdarlehensvertrag wahrscheinlich ist, dass der
+Darlehensnehmer seinen Verpflichtungen, die im Zusammenhang mit dem
+Darlehensvertrag stehen, vertragsgemäß nachkommen wird.
+
+(2) Wird der Nettodarlehensbetrag nach Abschluss des Darlehensvertrags
+deutlich erhöht, so ist die Kreditwürdigkeit auf aktualisierter
+Grundlage neu zu prüfen, es sei denn, der Erhöhungsbetrag des
+Nettodarlehens wurde bereits in die ursprüngliche
+Kreditwürdigkeitsprüfung einbezogen.
+
+(3) Bei Immobiliar-Verbraucherdarlehensverträgen, die
+
+1.  im Anschluss an einen zwischen den Vertragsparteien abgeschlossenen
+    Darlehensvertrag ein neues Kapitalnutzungsrecht zur Erreichung des von
+    dem Darlehensnehmer mit dem vorangegangenen Darlehensvertrag
+    verfolgten Zweckes einräumen oder
+
+
+2.  einen anderen Darlehensvertrag zwischen den Vertragsparteien zur
+    Vermeidung von Kündigungen wegen Zahlungsverzugs des Darlehensnehmers
+    oder zur Vermeidung von Zwangsvollstreckungsmaßnahmen gegen den
+    Darlehensnehmer ersetzen oder ergänzen,
+
+
+
+bedarf es einer erneuten Kreditwürdigkeitsprüfung nur unter den
+Voraussetzungen des Absatzes 2. Ist danach keine
+Kreditwürdigkeitsprüfung erforderlich, darf der Darlehensgeber den
+neuen Immobiliar-Verbraucherdarlehensvertrag nicht abschließen, wenn
+ihm bereits bekannt ist, dass der Darlehensnehmer seinen
+Verpflichtungen, die im Zusammenhang mit diesem Darlehensvertrag
+stehen, dauerhaft nicht nachkommen kann. Bei Verstößen gilt § 505d
+entsprechend.
+
+
+###### § 505b Grundlage der Kreditwürdigkeitsprüfung bei Verbraucherdarlehensverträgen
+
+(1) Bei Allgemein-Verbraucherdarlehensverträgen können Grundlage für
+die Kreditwürdigkeitsprüfung Auskünfte des Darlehensnehmers und
+erforderlichenfalls Auskünfte von Stellen sein, die geschäftsmäßig
+personenbezogene Daten, die zur Bewertung der Kreditwürdigkeit von
+Verbrauchern genutzt werden dürfen, zum Zweck der Übermittlung
+erheben, speichern, verändern oder nutzen.
+
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der
+Darlehensgeber die Kreditwürdigkeit des Darlehensnehmers auf der
+Grundlage notwendiger, ausreichender und angemessener Informationen zu
+Einkommen, Ausgaben sowie anderen finanziellen und wirtschaftlichen
+Umständen des Darlehensnehmers eingehend zu prüfen. Dabei hat der
+Darlehensgeber die Faktoren angemessen zu berücksichtigen, die für die
+Einschätzung relevant sind, ob der Darlehensnehmer seinen
+Verpflichtungen aus dem Darlehensvertrag voraussichtlich nachkommen
+kann. Die Kreditwürdigkeitsprüfung darf sich nicht hauptsächlich
+darauf stützen, dass der Wert der Wohnimmobilie den Darlehensbetrag
+übersteigt, oder auf die Annahme, dass der Wert der Wohnimmobilie
+zunimmt, es sei denn, der Darlehensvertrag dient zum Bau oder zur
+Renovierung der Wohnimmobilie.
+
+(3) Der Darlehensgeber ermittelt die gemäß Absatz 2 erforderlichen
+Informationen aus einschlägigen internen oder externen Quellen, wozu
+auch Auskünfte des Darlehensnehmers gehören. Der Darlehensgeber
+berücksichtigt auch die Auskünfte, die einem Darlehensvermittler
+erteilt wurden. Der Darlehensgeber ist verpflichtet, die Informationen
+in angemessener Weise zu überprüfen, soweit erforderlich auch durch
+Einsichtnahme in unabhängig nachprüfbare Unterlagen.
+
+(4) Bei Immobiliar-Verbraucherdarlehensverträgen ist der
+Darlehensgeber verpflichtet, die Verfahren und Angaben, auf die sich
+die Kreditwürdigkeitsprüfung stützt, festzulegen, zu dokumentieren und
+die Dokumentation aufzubewahren.
+
+(5) Die Bestimmungen zum Schutz personenbezogener Daten bleiben
+unberührt.
+
+
+###### § 505c Weitere Pflichten bei grundpfandrechtlich oder durch Reallast besicherten Immobiliar-Verbraucherdarlehensverträgen
+
+Darlehensgeber, die grundpfandrechtlich oder durch Reallast besicherte
+Immobiliar-Verbraucherdarlehen vergeben, haben
+
+1.  bei der Bewertung von Wohnimmobilien zuverlässige Standards anzuwenden
+    und
+
+
+2.  sicherzustellen, dass interne und externe Gutachter, die
+    Immobilienbewertungen für sie vornehmen, fachlich kompetent und so
+    unabhängig vom Darlehensvergabeprozess sind, dass sie eine objektive
+    Bewertung vornehmen können, und
+
+
+3.  Bewertungen für Immobilien, die als Sicherheit für Immobiliar-
+    Verbraucherdarlehen dienen, auf einem dauerhaften Datenträger zu
+    dokumentieren und aufzubewahren.
+
+
+
+
+
+###### § 505d Verstoß gegen die Pflicht zur Kreditwürdigkeitsprüfung
+
+(1) Hat der Darlehensgeber gegen die Pflicht zur
+Kreditwürdigkeitsprüfung verstoßen, so ermäßigt sich
+
+1.  ein im Darlehensvertrag vereinbarter gebundener Sollzins auf den
+    marktüblichen Zinssatz am Kapitalmarkt für Anlagen in
+    Hypothekenpfandbriefe und öffentliche Pfandbriefe, deren Laufzeit
+    derjenigen der Sollzinsbindung entspricht und
+
+
+2.  ein im Darlehensvertrag vereinbarter veränderlicher Sollzins auf den
+    marktüblichen Zinssatz, zu dem europäische Banken einander Anleihen in
+    Euro mit einer Laufzeit von drei Monaten gewähren.
+
+
+
+Maßgeblicher Zeitpunkt für die Bestimmung des marktüblichen Zinssatzes
+gemäß Satz 1 ist der Zeitpunkt des Vertragsschlusses sowie
+gegebenenfalls jeweils der Zeitpunkt vertraglich vereinbarter
+Zinsanpassungen. Der Darlehensnehmer kann den Darlehensvertrag
+jederzeit fristlos kündigen; ein Anspruch auf eine
+Vorfälligkeitsentschädigung besteht nicht. Der Darlehensgeber stellt
+dem Darlehensnehmer eine Abschrift des Vertrags zur Verfügung, in der
+die Vertragsänderungen berücksichtigt sind, die sich aus den Sätzen 1
+bis 3 ergeben. Die Sätze 1 bis 4 finden keine Anwendung, wenn bei
+einer ordnungsgemäßen Kreditwürdigkeitsprüfung der Darlehensvertrag
+hätte geschlossen werden dürfen.
+
+(2) Kann der Darlehensnehmer Pflichten, die im Zusammenhang mit dem
+Darlehensvertrag stehen, nicht vertragsgemäß erfüllen, so kann der
+Darlehensgeber keine Ansprüche wegen Pflichtverletzung geltend machen,
+wenn die Pflichtverletzung auf einem Umstand beruht, der bei
+ordnungsgemäßer Kreditwürdigkeitsprüfung dazu geführt hätte, dass der
+Darlehensvertrag nicht hätte geschlossen werden dürfen.
+
+(3) Die Absätze 1 und 2 finden keine Anwendung, soweit der Mangel der
+Kreditwürdigkeitsprüfung darauf beruht, dass der Darlehensnehmer dem
+Darlehensgeber vorsätzlich oder grob fahrlässig Informationen im Sinne
+des § 505b Absatz 1 bis 3 unrichtig erteilt oder vorenthalten hat.
+
+
+###### § 505e Verordnungsermächtigung
+
+Das Bundesministerium der Finanzen und das Bundesministerium der
+Justiz und für Verbraucherschutz werden ermächtigt, durch gemeinsame
+Rechtsverordnung ohne Zustimmung des Bundesrates Leitlinien zu den
+Kriterien und Methoden der Kreditwürdigkeitsprüfung bei Immobiliar-
+Verbraucherdarlehensverträgen nach den §§ 505a und 505b Absatz 2 bis 4
+festzulegen. Durch die Rechtsverordnung können insbesondere Leitlinien
+festgelegt werden
+
+1.  zu den Faktoren, die für die Einschätzung relevant sind, ob der
+    Darlehensnehmer seinen Verpflichtungen aus dem Darlehensvertrag
+    voraussichtlich nachkommen kann,
+
+
+2.  zu den anzuwendenden Verfahren und der Erhebung und Prüfung von
+    Informationen.
+
+
+
 
 
 ##### Untertitel 2 - Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
@@ -8079,11 +9092,24 @@ Voraussetzungen zustande kommen, nicht anzuwenden.
 
 ###### § 506 Zahlungsaufschub, sonstige Finanzierungshilfe
 
-(1) Die Vorschriften der §§ 358 bis 359a und 491a bis 502 sind mit
-Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und 4 auf
-Verträge entsprechend anzuwenden, durch die ein Unternehmer einem
-Verbraucher einen entgeltlichen Zahlungsaufschub oder eine sonstige
-entgeltliche Finanzierungshilfe gewährt.
+(1) Die für Allgemein-Verbraucherdarlehensverträge geltenden
+Vorschriften der §§ 358 bis 360 und 491a bis 502 sowie 505a bis 505e
+sind mit Ausnahme des § 492 Abs. 4 und vorbehaltlich der Absätze 3 und
+4 auf Verträge entsprechend anzuwenden, durch die ein Unternehmer
+einem Verbraucher einen entgeltlichen Zahlungsaufschub oder eine
+sonstige entgeltliche Finanzierungshilfe gewährt. Bezieht sich der
+entgeltliche Zahlungsaufschub oder die sonstige entgeltliche
+Finanzierungshilfe auf den Erwerb oder die Erhaltung des
+Eigentumsrechts an Grundstücken, an bestehenden oder zu errichtenden
+Gebäuden oder auf den Erwerb oder die Erhaltung von
+grundstücksgleichen Rechten oder ist der Anspruch des Unternehmers
+durch ein Grundpfandrecht oder eine Reallast besichert, so sind die
+für Immobiliar-Verbraucherdarlehensverträge geltenden, in Satz 1
+genannten Vorschriften sowie § 503 entsprechend anwendbar. Ein
+unentgeltlicher Zahlungsaufschub gilt als entgeltlicher
+Zahlungsaufschub gemäß Satz 2, wenn er davon abhängig gemacht wird,
+dass die Forderung durch ein Grundpfandrecht oder eine Reallast
+besichert wird.
 
 (2) Verträge zwischen einem Unternehmer und einem Verbraucher über die
 entgeltliche Nutzung eines Gegenstandes gelten als entgeltliche
@@ -8110,26 +9136,26 @@ Gegenstand haben (Teilzahlungsgeschäfte), gelten vorbehaltlich des
 Absatzes 4 zusätzlich die in den §§ 507 und 508 geregelten
 Besonderheiten.
 
-(4) Die Vorschriften dieses Untertitels sind in dem in § 491 Abs. 2
-und 3 bestimmten Umfang nicht anzuwenden. Soweit nach der Vertragsart
-ein Nettodarlehensbetrag (§ 491 Abs. 2 Nr. 1) nicht vorhanden ist,
-tritt an seine Stelle der Barzahlungspreis oder, wenn der Unternehmer
-den Gegenstand für den Verbraucher erworben hat, der
-Anschaffungspreis.
+(4) Die Vorschriften dieses Untertitels sind in dem in § 491 Absatz 2
+Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten Umfang
+nicht anzuwenden. Soweit nach der Vertragsart ein Nettodarlehensbetrag
+(§ 491 Absatz 2 Satz 2 Nummer 1) nicht vorhanden ist, tritt an seine
+Stelle der Barzahlungspreis oder, wenn der Unternehmer den Gegenstand
+für den Verbraucher erworben hat, der Anschaffungspreis.
 
 
 ###### § 507 Teilzahlungsgeschäfte
 
-(1) § 494 Abs. 1 bis 3 und 6 Satz 3 ist auf Teilzahlungsgeschäfte
-nicht anzuwenden. Gibt der Verbraucher sein Angebot zum
-Vertragsabschluss im Fernabsatz auf Grund eines Verkaufsprospekts oder
-eines vergleichbaren elektronischen Mediums ab, aus dem der
-Barzahlungspreis, der Sollzinssatz, der effektive Jahreszins, ein
-Tilgungsplan anhand beispielhafter Gesamtbeträge sowie die zu
-stellenden Sicherheiten und Versicherungen ersichtlich sind, ist auch
-§ 492 Abs. 1 nicht anzuwenden, wenn der Unternehmer dem Verbraucher
-den Vertragsinhalt spätestens unverzüglich nach Vertragsabschluss in
-Textform mitteilt.
+(1) § 494 Abs. 1 bis 3 und 6 Satz 2 zweiter Halbsatz ist auf
+Teilzahlungsgeschäfte nicht anzuwenden. Gibt der Verbraucher sein
+Angebot zum Vertragsabschluss im Fernabsatz auf Grund eines
+Verkaufsprospekts oder eines vergleichbaren elektronischen Mediums ab,
+aus dem der Barzahlungspreis, der Sollzinssatz, der effektive
+Jahreszins, ein Tilgungsplan anhand beispielhafter Gesamtbeträge sowie
+die zu stellenden Sicherheiten und Versicherungen ersichtlich sind,
+ist auch § 492 Abs. 1 nicht anzuwenden, wenn der Unternehmer dem
+Verbraucher den Vertragsinhalt spätestens unverzüglich nach
+Vertragsabschluss auf einem dauerhaften Datenträger mitteilt.
 
 (2) Das Teilzahlungsgeschäft ist nichtig, wenn die vorgeschriebene
 Schriftform des § 492 Abs. 1 nicht eingehalten ist oder im Vertrag
@@ -8155,16 +9181,11 @@ Kostenermäßigung der gesetzliche Zinssatz (§ 246) zugrunde zu legen.
 Ein Anspruch auf Vorfälligkeitsentschädigung ist ausgeschlossen.
 
 
-###### § 508 Rückgaberecht, Rücktritt bei Teilzahlungsgeschäften
+###### § 508 Rücktritt bei Teilzahlungsgeschäften
 
-(1) Anstelle des dem Verbraucher gemäß § 495 Abs. 1 zustehenden
-Widerrufsrechts kann dem Verbraucher bei Verträgen über die Lieferung
-einer bestimmten Sache ein Rückgaberecht nach § 356 eingeräumt werden.
-§ 495 Abs. 2 gilt für das Rückgaberecht entsprechend.
-
-(2) Der Unternehmer kann von einem Teilzahlungsgeschäft wegen
-Zahlungsverzugs des Verbrauchers nur unter den in § 498 Satz 1
-bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht
+Der Unternehmer kann von einem Teilzahlungsgeschäft wegen
+Zahlungsverzugs des Verbrauchers nur unter den in § 498 Absatz 1 Satz
+1 bezeichneten Voraussetzungen zurücktreten. Dem Nennbetrag entspricht
 der Gesamtbetrag. Der Verbraucher hat dem Unternehmer auch die infolge
 des Vertrags gemachten Aufwendungen zu ersetzen. Bei der Bemessung der
 Vergütung von Nutzungen einer zurückzugewährenden Sache ist auf die
@@ -8181,16 +9202,7 @@ zwischen dem Darlehensgeber und dem Verbraucher nach den Sätzen 3 und
 4\.
 
 
-###### § 509 Prüfung der Kreditwürdigkeit
-
-Vor dem Abschluss eines Vertrags über eine entgeltliche
-Finanzierungshilfe hat der Unternehmer die Kreditwürdigkeit des
-Verbrauchers zu bewerten. Grundlage für die Bewertung können Auskünfte
-des Verbrauchers und erforderlichenfalls Auskünfte von Stellen sein,
-die geschäftsmäßig personenbezogene Daten, die zur Bewertung der
-Kreditwürdigkeit von Verbrauchern genutzt werden dürfen, zum Zweck der
-Übermittlung erheben, speichern oder verändern. Die Bestimmungen zum
-Schutz personenbezogener Daten bleiben unberührt.
+###### § 509 (weggefallen)
 
 
 ##### Untertitel 3 - Ratenlieferungsverträge zwischen einem Unternehmer und einem Verbraucher
@@ -8199,13 +9211,12 @@ Schutz personenbezogener Daten bleiben unberührt.
 
 ###### § 510 Ratenlieferungsverträge
 
-(1) Dem Verbraucher steht vorbehaltlich des Satzes 2 bei Verträgen mit
-einem Unternehmer, in denen die Willenserklärung des Verbrauchers auf
-den Abschluss eines Vertrags gerichtet ist, der
+(1) Der Vertrag zwischen einem Verbraucher und einem Unternehmer
+bedarf der schriftlichen Form, wenn der Vertrag
 
 1.  die Lieferung mehrerer als zusammengehörend verkaufter Sachen in
-    Teilleistungen zum Gegenstand hat und bei dem das Entgelt für die
-    Gesamtheit der Sachen in Teilzahlungen zu entrichten ist oder
+    Teilleistungen zum Gegenstand hat und das Entgelt für die Gesamtheit
+    der Sachen in Teilzahlungen zu entrichten ist,
 
 
 2.  die regelmäßige Lieferung von Sachen gleicher Art zum Gegenstand hat
@@ -8213,39 +9224,74 @@ den Abschluss eines Vertrags gerichtet ist, der
 
 
 3.  die Verpflichtung zum wiederkehrenden Erwerb oder Bezug von Sachen zum
-    Gegenstand hat,
+    Gegenstand hat.
 
 
 
-ein Widerrufsrecht gemäß § 355 zu. Dies gilt nicht in dem in § 491
-Abs. 2 und 3 bestimmten Umfang. Dem in § 491 Abs. 2 Nr. 1 genannten
+Dies gilt nicht, wenn dem Verbraucher die Möglichkeit verschafft wird,
+die Vertragsbestimmungen einschließlich der Allgemeinen
+Geschäftsbedingungen bei Vertragsschluss abzurufen und in
+wiedergabefähiger Form zu speichern. Der Unternehmer hat dem
+Verbraucher den Vertragsinhalt in Textform mitzuteilen.
+
+(2) Dem Verbraucher steht vorbehaltlich des Absatzes 3 bei Verträgen
+nach Absatz 1, die weder im Fernabsatz noch außerhalb von
+Geschäftsräumen geschlossen werden, ein Widerrufsrecht nach § 355 zu.
+
+(3) Das Widerrufsrecht nach Absatz 2 gilt nicht in dem in § 491 Absatz
+2 Satz 2 Nummer 1 bis 5, Absatz 3 Satz 2 und Absatz 4 bestimmten
+Umfang. Dem in § 491 Absatz 2 Satz 2 Nummer 1 genannten
 Nettodarlehensbetrag entspricht die Summe aller vom Verbraucher bis
 zum frühestmöglichen Kündigungszeitpunkt zu entrichtenden
 Teilzahlungen.
 
-(2) Der Ratenlieferungsvertrag nach Absatz 1 bedarf der schriftlichen
-Form. Satz 1 gilt nicht, wenn dem Verbraucher die Möglichkeit
-verschafft wird, die Vertragsbestimmungen einschließlich der
-Allgemeinen Geschäftsbedingungen bei Vertragsschluss abzurufen und in
-wiedergabefähiger Form zu speichern. Der Unternehmer hat dem
-Verbraucher den Vertragsinhalt in Textform mitzuteilen.
 
-
-##### Untertitel 4 - Unabdingbarkeit, Anwendung auf Existenzgründer
+##### Untertitel 4 - Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
 
 
 
-###### § 511 Abweichende Vereinbarungen
+###### § 511 Beratungsleistungen bei Immobiliar-Verbraucherdarlehensverträgen
 
-Von den Vorschriften der §§ 491 bis 510 darf, soweit nicht ein anderes
-bestimmt ist, nicht zum Nachteil des Verbrauchers abgewichen werden.
-Diese Vorschriften finden auch Anwendung, wenn sie durch anderweitige
-Gestaltungen umgangen werden.
+(1) Bevor der Darlehensgeber dem Darlehensnehmer individuelle
+Empfehlungen zu einem oder mehreren Geschäften erteilt, die im
+Zusammenhang mit einem Immobiliar-Verbraucherdarlehensvertrag stehen
+(Beratungsleistungen), hat er den Darlehensnehmer über die sich aus
+Artikel 247 § 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+ergebenden Einzelheiten in der dort vorgesehenen Form zu informieren.
+
+(2) Vor Erbringung der Beratungsleistung hat sich der Darlehensgeber
+über den Bedarf, die persönliche und finanzielle Situation sowie über
+die Präferenzen und Ziele des Darlehensnehmers zu informieren, soweit
+dies für eine passende Empfehlung eines Darlehensvertrags erforderlich
+ist. Auf Grundlage dieser aktuellen Informationen und unter
+Zugrundelegung realistischer Annahmen hinsichtlich der Risiken, die
+für den Darlehensnehmer während der Laufzeit des Darlehensvertrags zu
+erwarten sind, hat der Darlehensgeber eine ausreichende Zahl an
+Darlehensverträgen zumindest aus seiner Produktpalette auf ihre
+Geeignetheit zu prüfen.
+
+(3) Der Darlehensgeber hat dem Darlehensnehmer auf Grund der Prüfung
+gemäß Absatz 2 ein geeignetes oder mehrere geeignete Produkte zu
+empfehlen oder ihn darauf hinzuweisen, dass er kein Produkt empfehlen
+kann. Die Empfehlung oder der Hinweis ist dem Darlehensnehmer auf
+einem dauerhaften Datenträger zur Verfügung zu stellen.
 
 
-###### § 512 Anwendung auf Existenzgründer
+##### Untertitel 5 - Unabdingbarkeit, Anwendung auf Existenzgründer
 
-Die §§ 491 bis 511 gelten auch für natürliche Personen, die sich ein
+
+
+###### § 512 Abweichende Vereinbarungen
+
+Von den Vorschriften der §§ 491 bis 511, 514 und 515 darf, soweit
+nicht ein anderes bestimmt ist, nicht zum Nachteil des Verbrauchers
+abgewichen werden. Diese Vorschriften finden auch Anwendung, wenn sie
+durch anderweitige Gestaltungen umgangen werden.
+
+
+###### § 513 Anwendung auf Existenzgründer
+
+Die §§ 491 bis 512 gelten auch für natürliche Personen, die sich ein
 Darlehen, einen Zahlungsaufschub oder eine sonstige Finanzierungshilfe
 für die Aufnahme einer gewerblichen oder selbständigen beruflichen
 Tätigkeit gewähren lassen oder zu diesem Zweck einen
@@ -8253,8 +9299,36 @@ Ratenlieferungsvertrag schließen, es sei denn, der
 Nettodarlehensbetrag oder Barzahlungspreis übersteigt 75 000 Euro.
 
 
-###### (XXXX) §§ 513 bis 515 (weggefallen)
+##### Untertitel 6 - Unentgeltliche Darlehensverträge und unentgeltliche Finanzierungshilfen zwischen einem Unternehmer und einem Verbraucher
 
+
+
+###### § 514 Unentgeltliche Darlehensverträge
+
+(1) § 497 Absatz 1 und 3 sowie § 498 und die §§ 505a bis 505c sowie
+505d Absatz 2 und 3 sowie § 505e sind entsprechend auf Verträge
+anzuwenden, durch die ein Unternehmer einem Verbraucher ein
+unentgeltliches Darlehen gewährt. Dies gilt nicht in dem in § 491
+Absatz 2 Satz 2 Nummer 1 bestimmten Umfang.
+
+(2) Bei unentgeltlichen Darlehensverträgen gemäß Absatz 1 steht dem
+Verbraucher ein Widerrufsrecht nach § 355 zu. Dies gilt nicht, wenn
+bereits ein Widerrufsrecht nach § 312g Absatz 1 besteht, und nicht bei
+Verträgen, die § 495 Absatz 2 Nummer 1 entsprechen. Der Unternehmer
+hat den Verbraucher rechtzeitig vor der Abgabe von dessen
+Willenserklärung gemäß Artikel 246 Absatz 3 des Einführungsgesetzes
+zum Bürgerlichen Gesetzbuche über sein Widerrufsrecht zu unterrichten.
+Der Unternehmer kann diese Pflicht dadurch erfüllen, dass er dem
+Verbraucher das in der Anlage 9 zum Einführungsgesetz zum Bürgerlichen
+Gesetzbuche vorgesehene Muster für die Widerrufsbelehrung
+ordnungsgemäß ausgefüllt in Textform übermittelt.
+
+
+###### § 515 Unentgeltliche Finanzierungshilfen
+
+§ 514 sowie die §§ 358 bis 360 gelten entsprechend, wenn ein
+Unternehmer einem Verbraucher einen unentgeltlichen Zahlungsaufschub
+oder eine sonstige unentgeltliche Finanzierungshilfe gewährt.
 
 
 #### Titel 4 - Schenkung
@@ -8503,6 +9577,11 @@ Entrichtung der Miete befreit. Für die Zeit, während der die
 Tauglichkeit gemindert ist, hat er nur eine angemessen herabgesetzte
 Miete zu entrichten. Eine unerhebliche Minderung der Tauglichkeit
 bleibt außer Betracht.
+
+(1a) Für die Dauer von drei Monaten bleibt eine Minderung der
+Tauglichkeit außer Betracht, soweit diese auf Grund einer Maßnahme
+eintritt, die einer energetischen Modernisierung nach § 555b Nummer 1
+dient.
 
 (2) Absatz 1 Satz 1 und 2 gilt auch, wenn eine zugesicherte
 Eigenschaft fehlt oder später wegfällt.
@@ -8806,11 +9885,12 @@ nach der Beendigung des Mietverhältnisses.
 (1) Für Mietverhältnisse über Wohnraum gelten die §§ 535 bis 548,
 soweit sich nicht aus den §§ 549 bis 577a etwas anderes ergibt.
 
-(2) Die Vorschriften über die Mieterhöhung (§§ 557 bis 561) und über
-den Mieterschutz bei Beendigung des Mietverhältnisses sowie bei der
-Begründung von Wohnungseigentum (§ 568 Abs. 2, §§ 573, 573a, 573d Abs.
-1, §§ 574 bis 575, 575a Abs. 1 und §§ 577, 577a) gelten nicht für
-Mietverhältnisse über
+(2) Die Vorschriften über die Miethöhe bei Mietbeginn in Gebieten mit
+angespannten Wohnungsmärkten (§§ 556d bis 556g), über die Mieterhöhung
+(§§ 557 bis 561) und über den Mieterschutz bei Beendigung des
+Mietverhältnisses sowie bei der Begründung von Wohnungseigentum (§ 568
+Abs. 2, §§ 573, 573a, 573d Abs. 1, §§ 574 bis 575, 575a Abs. 1 und §§
+577, 577a) gelten nicht für Mietverhältnisse über
 
 1.  Wohnraum, der nur zum vorübergehenden Gebrauch vermietet ist,
 
@@ -8832,7 +9912,7 @@ Mietverhältnisse über
 
 
 (3) Für Wohnraum in einem Studenten- oder Jugendwohnheim gelten die §§
-557 bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs.
+556d bis 561 sowie die §§ 573, 573a, 573d Abs. 1 und §§ 575, 575a Abs.
 1, §§ 577, 577a nicht.
 
 
@@ -8854,7 +9934,9 @@ betragen.
 
 (2) Ist als Sicherheit eine Geldsumme bereitzustellen, so ist der
 Mieter zu drei gleichen monatlichen Teilzahlungen berechtigt. Die
-erste Teilzahlung ist zu Beginn des Mietverhältnisses fällig.
+erste Teilzahlung ist zu Beginn des Mietverhältnisses fällig. Die
+weiteren Teilzahlungen werden zusammen mit den unmittelbar folgenden
+Mietzahlungen fällig.
 
 (3) Der Vermieter hat eine ihm als Sicherheit überlassene Geldsumme
 bei einem Kreditinstitut zu dem für Spareinlagen mit dreimonatiger
@@ -8898,39 +9980,8 @@ erklärt.
 unwirksam.
 
 
-###### § 554 Duldung von Erhaltungs- und Modernisierungsmaßnahmen
+###### § 554 (weggefallen)
 
-(1) Der Mieter hat Maßnahmen zu dulden, die zur Erhaltung der
-Mietsache erforderlich sind.
-
-(2) Maßnahmen zur Verbesserung der Mietsache, zur Einsparung von
-Energie oder Wasser oder zur Schaffung neuen Wohnraums hat der Mieter
-zu dulden. Dies gilt nicht, wenn die Maßnahme für ihn, seine Familie
-oder einen anderen Angehörigen seines Haushalts eine Härte bedeuten
-würde, die auch unter Würdigung der berechtigten Interessen des
-Vermieters und anderer Mieter in dem Gebäude nicht zu rechtfertigen
-ist. Dabei sind insbesondere die vorzunehmenden Arbeiten, die
-baulichen Folgen, vorausgegangene Aufwendungen des Mieters und die zu
-erwartende Mieterhöhung zu berücksichtigen. Die zu erwartende
-Mieterhöhung ist nicht als Härte anzusehen, wenn die Mietsache
-lediglich in einen Zustand versetzt wird, wie er allgemein üblich ist.
-
-(3) Bei Maßnahmen nach Absatz 2 Satz 1 hat der Vermieter dem Mieter
-spätestens drei Monate vor Beginn der Maßnahme deren Art sowie
-voraussichtlichen Umfang und Beginn, voraussichtliche Dauer und die zu
-erwartende Mieterhöhung in Textform mitzuteilen. Der Mieter ist
-berechtigt, bis zum Ablauf des Monats, der auf den Zugang der
-Mitteilung folgt, außerordentlich zum Ablauf des nächsten Monats zu
-kündigen. Diese Vorschriften gelten nicht bei Maßnahmen, die nur mit
-einer unerheblichen Einwirkung auf die vermieteten Räume verbunden
-sind und nur zu einer unerheblichen Mieterhöhung führen.
-
-(4) Aufwendungen, die der Mieter infolge einer Maßnahme nach Absatz 1
-oder 2 Satz 1 machen musste, hat der Vermieter in angemessenem Umfang
-zu ersetzen. Auf Verlangen hat er Vorschuss zu leisten.
-
-(5) Eine zum Nachteil des Mieters von den Absätzen 2 bis 4 abweichende
-Vereinbarung ist unwirksam.
 
 
 ###### § 554a Barrierefreiheit
@@ -8958,6 +10009,173 @@ Vereinbarung ist unwirksam.
 
 Eine Vereinbarung, durch die sich der Vermieter eine Vertragsstrafe
 vom Mieter versprechen lässt, ist unwirksam.
+
+
+###### Kapitel 1a - Erhaltungs- und Modernisierungsmaßnahmen
+
+
+
+###### § 555a Erhaltungsmaßnahmen
+
+(1) Der Mieter hat Maßnahmen zu dulden, die zur Instandhaltung oder
+Instandsetzung der Mietsache erforderlich sind (Erhaltungsmaßnahmen).
+
+(2) Erhaltungsmaßnahmen sind dem Mieter rechtzeitig anzukündigen, es
+sei denn, sie sind nur mit einer unerheblichen Einwirkung auf die
+Mietsache verbunden oder ihre sofortige Durchführung ist zwingend
+erforderlich.
+
+(3) Aufwendungen, die der Mieter infolge einer Erhaltungsmaßnahme
+machen muss, hat der Vermieter in angemessenem Umfang zu ersetzen. Auf
+Verlangen hat er Vorschuss zu leisten.
+
+(4) Eine zum Nachteil des Mieters von Absatz 2 oder 3 abweichende
+Vereinbarung ist unwirksam.
+
+
+###### § 555b Modernisierungsmaßnahmen
+
+Modernisierungsmaßnahmen sind bauliche Veränderungen,
+
+1.  durch die in Bezug auf die Mietsache Endenergie nachhaltig eingespart
+    wird (energetische Modernisierung),
+
+
+2.  durch die nicht erneuerbare Primärenergie nachhaltig eingespart oder
+    das Klima nachhaltig geschützt wird, sofern nicht bereits eine
+    energetische Modernisierung nach Nummer 1 vorliegt,
+
+
+3.  durch die der Wasserverbrauch nachhaltig reduziert wird,
+
+
+4.  durch die der Gebrauchswert der Mietsache nachhaltig erhöht wird,
+
+
+5.  durch die die allgemeinen Wohnverhältnisse auf Dauer verbessert
+    werden,
+
+
+6.  die auf Grund von Umständen durchgeführt werden, die der Vermieter
+    nicht zu vertreten hat, und die keine Erhaltungsmaßnahmen nach § 555a
+    sind, oder
+
+
+7.  durch die neuer Wohnraum geschaffen wird.
+
+
+
+
+
+###### § 555c Ankündigung von Modernisierungsmaßnahmen
+
+(1) Der Vermieter hat dem Mieter eine Modernisierungsmaßnahme
+spätestens drei Monate vor ihrem Beginn in Textform anzukündigen
+(Modernisierungsankündigung). Die Modernisierungsankündigung muss
+Angaben enthalten über:
+
+1.  die Art und den voraussichtlichen Umfang der Modernisierungsmaßnahme
+    in wesentlichen Zügen,
+
+
+2.  den voraussichtlichen Beginn und die voraussichtliche Dauer der
+    Modernisierungsmaßnahme,
+
+
+3.  den Betrag der zu erwartenden Mieterhöhung, sofern eine Erhöhung nach
+    § 559 verlangt werden soll, sowie die voraussichtlichen künftigen
+    Betriebskosten.
+
+
+
+
+(2) Der Vermieter soll den Mieter in der Modernisierungsankündigung
+auf die Form und die Frist des Härteeinwands nach § 555d Absatz 3 Satz
+1 hinweisen.
+
+(3) In der Modernisierungsankündigung für eine Modernisierungsmaßnahme
+nach § 555b Nummer 1 und 2 kann der Vermieter insbesondere
+hinsichtlich der energetischen Qualität von Bauteilen auf allgemein
+anerkannte Pauschalwerte Bezug nehmen.
+
+(4) Die Absätze 1 bis 3 gelten nicht für Modernisierungsmaßnahmen, die
+nur mit einer unerheblichen Einwirkung auf die Mietsache verbunden
+sind und nur zu einer unerheblichen Mieterhöhung führen.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+unwirksam.
+
+
+###### § 555d Duldung von Modernisierungsmaßnahmen, Ausschlussfrist
+
+(1) Der Mieter hat eine Modernisierungsmaßnahme zu dulden.
+
+(2) Eine Duldungspflicht nach Absatz 1 besteht nicht, wenn die
+Modernisierungsmaßnahme für den Mieter, seine Familie oder einen
+Angehörigen seines Haushalts eine Härte bedeuten würde, die auch unter
+Würdigung der berechtigten Interessen sowohl des Vermieters als auch
+anderer Mieter in dem Gebäude sowie von Belangen der Energieeinsparung
+und des Klimaschutzes nicht zu rechtfertigen ist. Die zu erwartende
+Mieterhöhung sowie die voraussichtlichen künftigen Betriebskosten
+bleiben bei der Abwägung im Rahmen der Duldungspflicht außer Betracht;
+sie sind nur nach § 559 Absatz 4 und 5 bei einer Mieterhöhung zu
+berücksichtigen.
+
+(3) Der Mieter hat dem Vermieter Umstände, die eine Härte im Hinblick
+auf die Duldung oder die Mieterhöhung begründen, bis zum Ablauf des
+Monats, der auf den Zugang der Modernisierungsankündigung folgt, in
+Textform mitzuteilen. Der Lauf der Frist beginnt nur, wenn die
+Modernisierungsankündigung den Vorschriften des § 555c entspricht.
+
+(4) Nach Ablauf der Frist sind Umstände, die eine Härte im Hinblick
+auf die Duldung oder die Mieterhöhung begründen, noch zu
+berücksichtigen, wenn der Mieter ohne Verschulden an der Einhaltung
+der Frist gehindert war und er dem Vermieter die Umstände sowie die
+Gründe der Verzögerung unverzüglich in Textform mitteilt. Umstände,
+die eine Härte im Hinblick auf die Mieterhöhung begründen, sind nur zu
+berücksichtigen, wenn sie spätestens bis zum Beginn der
+Modernisierungsmaßnahme mitgeteilt werden.
+
+(5) Hat der Vermieter in der Modernisierungsankündigung nicht auf die
+Form und die Frist des Härteeinwands hingewiesen (§ 555c Absatz 2), so
+bedarf die Mitteilung des Mieters nach Absatz 3 Satz 1 nicht der dort
+bestimmten Form und Frist. Absatz 4 Satz 2 gilt entsprechend.
+
+(6) § 555a Absatz 3 gilt entsprechend.
+
+(7) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+unwirksam.
+
+
+###### § 555e Sonderkündigungsrecht des Mieters bei Modernisierungsmaßnahmen
+
+(1) Nach Zugang der Modernisierungsankündigung kann der Mieter das
+Mietverhältnis außerordentlich zum Ablauf des übernächsten Monats
+kündigen. Die Kündigung muss bis zum Ablauf des Monats erfolgen, der
+auf den Zugang der Modernisierungsankündigung folgt.
+
+(2) § 555c Absatz 4 gilt entsprechend.
+
+(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+unwirksam.
+
+
+###### § 555f Vereinbarungen über Erhaltungs- oder Modernisierungsmaßnahmen
+
+Die Vertragsparteien können nach Abschluss des Mietvertrags aus Anlass
+von Erhaltungs- oder Modernisierungsmaßnahmen Vereinbarungen treffen,
+insbesondere über die
+
+1.  zeitliche und technische Durchführung der Maßnahmen,
+
+
+2.  Gewährleistungsrechte und Aufwendungsersatzansprüche des Mieters,
+
+
+3.  künftige Höhe der Miete.
+
+
+
 
 
 ###### Kapitel 2 - Die Miete
@@ -9041,6 +10259,144 @@ angezeigt hat. Eine zum Nachteil des Mieters abweichende Vereinbarung
 ist unwirksam.
 
 
+###### § 556c Kosten der Wärmelieferung als Betriebskosten, Verordnungsermächtigung
+
+(1) Hat der Mieter die Betriebskosten für Wärme oder Warmwasser zu
+tragen und stellt der Vermieter die Versorgung von der Eigenversorgung
+auf die eigenständig gewerbliche Lieferung durch einen
+Wärmelieferanten (Wärmelieferung) um, so hat der Mieter die Kosten der
+Wärmelieferung als Betriebskosten zu tragen, wenn
+
+1.  die Wärme mit verbesserter Effizienz entweder aus einer vom
+    Wärmelieferanten errichteten neuen Anlage oder aus einem Wärmenetz
+    geliefert wird und
+
+
+2.  die Kosten der Wärmelieferung die Betriebskosten für die bisherige
+    Eigenversorgung mit Wärme oder Warmwasser nicht übersteigen.
+
+
+
+Beträgt der Jahresnutzungsgrad der bestehenden Anlage vor der
+Umstellung mindestens 80 Prozent, kann sich der Wärmelieferant
+anstelle der Maßnahmen nach Nummer 1 auf die Verbesserung der
+Betriebsführung der Anlage beschränken.
+
+(2) Der Vermieter hat die Umstellung spätestens drei Monate zuvor in
+Textform anzukündigen (Umstellungsankündigung).
+
+(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates Vorschriften für Wärmelieferverträge, die
+bei einer Umstellung nach Absatz 1 geschlossen werden, sowie für die
+Anforderungen nach den Absätzen 1 und 2 zu erlassen. Hierbei sind die
+Belange von Vermietern, Mietern und Wärmelieferanten angemessen zu
+berücksichtigen.
+
+(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+unwirksam.
+
+
+###### Unterkapitel 1a - Vereinbarungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten
+
+
+
+###### § 556d Zulässige Miethöhe bei Mietbeginn; Verordnungsermächtigung
+
+(1) Wird ein Mietvertrag über Wohnraum abgeschlossen, der in einem
+durch Rechtsverordnung nach Absatz 2 bestimmten Gebiet mit einem
+angespannten Wohnungsmarkt liegt, so darf die Miete zu Beginn des
+Mietverhältnisses die ortsübliche Vergleichsmiete (§ 558 Absatz 2)
+höchstens um 10 Prozent übersteigen.
+
+(2) Die Landesregierungen werden ermächtigt, Gebiete mit angespannten
+Wohnungsmärkten durch Rechtsverordnung für die Dauer von höchstens
+fünf Jahren zu bestimmen. Gebiete mit angespannten Wohnungsmärkten
+liegen vor, wenn die ausreichende Versorgung der Bevölkerung mit
+Mietwohnungen in einer Gemeinde oder einem Teil der Gemeinde zu
+angemessenen Bedingungen besonders gefährdet ist. Dies kann
+insbesondere dann der Fall sein, wenn
+
+1.  die Mieten deutlich stärker steigen als im bundesweiten Durchschnitt,
+
+
+2.  die durchschnittliche Mietbelastung der Haushalte den bundesweiten
+    Durchschnitt deutlich übersteigt,
+
+
+3.  die Wohnbevölkerung wächst, ohne dass durch Neubautätigkeit insoweit
+    erforderlicher Wohnraum geschaffen wird, oder
+
+
+4.  geringer Leerstand bei großer Nachfrage besteht.
+
+
+
+Eine Rechtsverordnung nach Satz 1 muss spätestens am 31. Dezember 2020
+in Kraft treten. Sie muss begründet werden. Aus der Begründung muss
+sich ergeben, auf Grund welcher Tatsachen ein Gebiet mit einem
+angespannten Wohnungsmarkt im Einzelfall vorliegt. Ferner muss sich
+aus der Begründung ergeben, welche Maßnahmen die Landesregierung in
+dem nach Satz 1 durch die Rechtsverordnung jeweils bestimmten Gebiet
+und Zeitraum ergreifen wird, um Abhilfe zu schaffen.
+
+
+###### § 556e Berücksichtigung der Vormiete oder einer durchgeführten Modernisierung
+
+(1) Ist die Miete, die der vorherige Mieter zuletzt schuldete
+(Vormiete), höher als die nach § 556d Absatz 1 zulässige Miete, so
+darf eine Miete bis zur Höhe der Vormiete vereinbart werden. Bei der
+Ermittlung der Vormiete unberücksichtigt bleiben Mietminderungen sowie
+solche Mieterhöhungen, die mit dem vorherigen Mieter innerhalb des
+letzten Jahres vor Beendigung des Mietverhältnisses vereinbart worden
+sind.
+
+(2) Hat der Vermieter in den letzten drei Jahren vor Beginn des
+Mietverhältnisses Modernisierungsmaßnahmen im Sinne des § 555b
+durchgeführt, so darf die nach § 556d Absatz 1 zulässige Miete um den
+Betrag überschritten werden, der sich bei einer Mieterhöhung nach §
+559 Absatz 1 bis 3 und § 559a Absatz 1 bis 4 ergäbe. Bei der
+Berechnung nach Satz 1 ist von der ortsüblichen Vergleichsmiete (§ 558
+Absatz 2) auszugehen, die bei Beginn des Mietverhältnisses ohne
+Berücksichtigung der Modernisierung anzusetzen wäre.
+
+
+###### § 556f Ausnahmen
+
+§ 556d ist nicht anzuwenden auf eine Wohnung, die nach dem 1. Oktober
+2014 erstmals genutzt und vermietet wird. Die §§ 556d und 556e sind
+nicht anzuwenden auf die erste Vermietung nach umfassender
+Modernisierung.
+
+
+###### § 556g Rechtsfolgen; Auskunft über die Miete
+
+(1) Eine zum Nachteil des Mieters von den Vorschriften dieses
+Unterkapitels abweichende Vereinbarung ist unwirksam. Für
+Vereinbarungen über die Miethöhe bei Mietbeginn gilt dies nur, soweit
+die zulässige Miete überschritten wird. Der Vermieter hat dem Mieter
+zu viel gezahlte Miete nach den Vorschriften über die Herausgabe einer
+ungerechtfertigten Bereicherung herauszugeben. Die §§ 814 und 817 Satz
+2 sind nicht anzuwenden.
+
+(2) Der Mieter kann von dem Vermieter eine nach den §§ 556d und 556e
+nicht geschuldete Miete nur zurückverlangen, wenn er einen Verstoß
+gegen die Vorschriften dieses Unterkapitels gerügt hat und die
+zurückverlangte Miete nach Zugang der Rüge fällig geworden ist. Die
+Rüge muss die Tatsachen enthalten, auf denen die Beanstandung der
+vereinbarten Miete beruht.
+
+(3) Der Vermieter ist auf Verlangen des Mieters verpflichtet, Auskunft
+über diejenigen Tatsachen zu erteilen, die für die Zulässigkeit der
+vereinbarten Miete nach den Vorschriften dieses Unterkapitels
+maßgeblich sind, soweit diese Tatsachen nicht allgemein zugänglich
+sind und der Vermieter hierüber unschwer Auskunft geben kann. Für die
+Auskunft über Modernisierungsmaßnahmen (§ 556e Absatz 2) gilt § 559b
+Absatz 1 Satz 2 und 3 entsprechend.
+
+(4) Sämtliche Erklärungen nach den Absätzen 2 und 3 bedürfen der
+Textform.
+
+
 ###### Unterkapitel 2 - Regelungen über die Miethöhe
 
 
@@ -9077,7 +10433,14 @@ Während der Laufzeit einer Staffelmiete ist eine Erhöhung nach den §§
 Abschluss der Staffelmietvereinbarung ausgeschlossen werden. Die
 Kündigung ist frühestens zum Ablauf dieses Zeitraums zulässig.
 
-(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+(4) Die §§ 556d bis 556g sind auf jede Mietstaffel anzuwenden.
+Maßgeblich für die Berechnung der nach § 556d Absatz 1 zulässigen Höhe
+der zweiten und aller weiteren Mietstaffeln ist statt des Beginns des
+Mietverhältnisses der Zeitpunkt, zu dem die erste Miete der jeweiligen
+Mietstaffel fällig wird. Die in einer vorangegangenen Mietstaffel
+wirksam begründete Miethöhe bleibt erhalten.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
 
@@ -9101,7 +10464,10 @@ des Preisindexes sowie die jeweilige Miete oder die Erhöhung in einem
 Geldbetrag anzugeben. Die geänderte Miete ist mit Beginn des
 übernächsten Monats nach dem Zugang der Erklärung zu entrichten.
 
-(4) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+(4) Die §§ 556d bis 556g sind nur auf die Ausgangsmiete einer
+Indexmietvereinbarung anzuwenden.
+
+(5) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
 
@@ -9117,14 +10483,21 @@ den §§ 559 bis 560 werden nicht berücksichtigt.
 (2) Die ortsübliche Vergleichsmiete wird gebildet aus den üblichen
 Entgelten, die in der Gemeinde oder einer vergleichbaren Gemeinde für
 Wohnraum vergleichbarer Art, Größe, Ausstattung, Beschaffenheit und
-Lage in den letzten vier Jahren vereinbart oder, von Erhöhungen nach §
-560 abgesehen, geändert worden sind. Ausgenommen ist Wohnraum, bei dem
-die Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage
+Lage einschließlich der energetischen Ausstattung und Beschaffenheit
+in den letzten vier Jahren vereinbart oder, von Erhöhungen nach § 560
+abgesehen, geändert worden sind. Ausgenommen ist Wohnraum, bei dem die
+Miethöhe durch Gesetz oder im Zusammenhang mit einer Förderzusage
 festgelegt worden ist.
 
 (3) Bei Erhöhungen nach Absatz 1 darf sich die Miete innerhalb von
 drei Jahren, von Erhöhungen nach den §§ 559 bis 560 abgesehen, nicht
-um mehr als 20 vom Hundert erhöhen (Kappungsgrenze).
+um mehr als 20 vom Hundert erhöhen (Kappungsgrenze). Der Prozentsatz
+nach Satz 1 beträgt 15 vom Hundert, wenn die ausreichende Versorgung
+der Bevölkerung mit Mietwohnungen zu angemessenen Bedingungen in einer
+Gemeinde oder einem Teil einer Gemeinde besonders gefährdet ist und
+diese Gebiete nach Satz 3 bestimmt sind. Die Landesregierungen werden
+ermächtigt, diese Gebiete durch Rechtsverordnung für die Dauer von
+jeweils höchstens fünf Jahren zu bestimmen.
 
 (4) Die Kappungsgrenze gilt nicht,
 
@@ -9269,21 +10642,43 @@ werden, die für einzelne Wohnungen einen Schluss auf die ortsübliche
 Vergleichsmiete zulassen.
 
 
-###### § 559 Mieterhöhung bei Modernisierung
+###### § 559 Mieterhöhung nach Modernisierungsmaßnahmen
 
-(1) Hat der Vermieter bauliche Maßnahmen durchgeführt, die den
-Gebrauchswert der Mietsache nachhaltig erhöhen, die allgemeinen
-Wohnverhältnisse auf Dauer verbessern oder nachhaltig Einsparungen von
-Energie oder Wasser bewirken (Modernisierung), oder hat er andere
-bauliche Maßnahmen auf Grund von Umständen durchgeführt, die er nicht
-zu vertreten hat, so kann er die jährliche Miete um 11 vom Hundert der
-für die Wohnung aufgewendeten Kosten erhöhen.
+(1) Hat der Vermieter Modernisierungsmaßnahmen im Sinne des § 555b
+Nummer 1, 3, 4, 5 oder 6 durchgeführt, so kann er die jährliche Miete
+um 11 Prozent der für die Wohnung aufgewendeten Kosten erhöhen.
 
-(2) Sind die baulichen Maßnahmen für mehrere Wohnungen durchgeführt
-worden, so sind die Kosten angemessen auf die einzelnen Wohnungen
-aufzuteilen.
+(2) Kosten, die für Erhaltungsmaßnahmen erforderlich gewesen wären,
+gehören nicht zu den aufgewendeten Kosten nach Absatz 1; sie sind,
+soweit erforderlich, durch Schätzung zu ermitteln.
 
-(3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
+(3) Werden Modernisierungsmaßnahmen für mehrere Wohnungen
+durchgeführt, so sind die Kosten angemessen auf die einzelnen
+Wohnungen aufzuteilen.
+
+(4) Die Mieterhöhung ist ausgeschlossen, soweit sie auch unter
+Berücksichtigung der voraussichtlichen künftigen Betriebskosten für
+den Mieter eine Härte bedeuten würde, die auch unter Würdigung der
+berechtigten Interessen des Vermieters nicht zu rechtfertigen ist.
+Eine Abwägung nach Satz 1 findet nicht statt, wenn
+
+1.  die Mietsache lediglich in einen Zustand versetzt wurde, der allgemein
+    üblich ist, oder
+
+
+2.  die Modernisierungsmaßnahme auf Grund von Umständen durchgeführt
+    wurde, die der Vermieter nicht zu vertreten hatte.
+
+
+
+
+(5) Umstände, die eine Härte nach Absatz 4 Satz 1 begründen, sind nur
+zu berücksichtigen, wenn sie nach § 555d Absatz 3 bis 5 rechtzeitig
+mitgeteilt worden sind. Die Bestimmungen über die Ausschlussfrist nach
+Satz 1 sind nicht anzuwenden, wenn die tatsächliche Mieterhöhung die
+angekündigte um mehr als 10 Prozent übersteigt.
+
+(6) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
 
 
@@ -9293,22 +10688,23 @@ unwirksam.
 übernommen oder die mit Zuschüssen aus öffentlichen Haushalten gedeckt
 werden, gehören nicht zu den aufgewendeten Kosten im Sinne des § 559.
 
-(2) Werden die Kosten für die baulichen Maßnahmen ganz oder teilweise
-durch zinsverbilligte oder zinslose Darlehen aus öffentlichen
-Haushalten gedeckt, so verringert sich der Erhöhungsbetrag nach § 559
-um den Jahresbetrag der Zinsermäßigung. Dieser wird errechnet aus dem
-Unterschied zwischen dem ermäßigten Zinssatz und dem marktüblichen
-Zinssatz für den Ursprungsbetrag des Darlehens. Maßgebend ist der
-marktübliche Zinssatz für erstrangige Hypotheken zum Zeitpunkt der
-Beendigung der Maßnahmen. Werden Zuschüsse oder Darlehen zur Deckung
-von laufenden Aufwendungen gewährt, so verringert sich der
-Erhöhungsbetrag um den Jahresbetrag des Zuschusses oder Darlehens.
+(2) Werden die Kosten für die Modernisierungsmaßnahmen ganz oder
+teilweise durch zinsverbilligte oder zinslose Darlehen aus
+öffentlichen Haushalten gedeckt, so verringert sich der
+Erhöhungsbetrag nach § 559 um den Jahresbetrag der Zinsermäßigung.
+Dieser wird errechnet aus dem Unterschied zwischen dem ermäßigten
+Zinssatz und dem marktüblichen Zinssatz für den Ursprungsbetrag des
+Darlehens. Maßgebend ist der marktübliche Zinssatz für erstrangige
+Hypotheken zum Zeitpunkt der Beendigung der Modernisierungsmaßnahmen.
+Werden Zuschüsse oder Darlehen zur Deckung von laufenden Aufwendungen
+gewährt, so verringert sich der Erhöhungsbetrag um den Jahresbetrag
+des Zuschusses oder Darlehens.
 
 (3) Ein Mieterdarlehen, eine Mietvorauszahlung oder eine von einem
-Dritten für den Mieter erbrachte Leistung für die baulichen Maßnahmen
-stehen einem Darlehen aus öffentlichen Haushalten gleich. Mittel der
-Finanzierungsinstitute des Bundes oder eines Landes gelten als Mittel
-aus öffentlichen Haushalten.
+Dritten für den Mieter erbrachte Leistung für die
+Modernisierungsmaßnahmen stehen einem Darlehen aus öffentlichen
+Haushalten gleich. Mittel der Finanzierungsinstitute des Bundes oder
+eines Landes gelten als Mittel aus öffentlichen Haushalten.
 
 (4) Kann nicht festgestellt werden, in welcher Höhe Zuschüsse oder
 Darlehen für die einzelnen Wohnungen gewährt worden sind, so sind sie
@@ -9324,14 +10720,22 @@ unwirksam.
 (1) Die Mieterhöhung nach § 559 ist dem Mieter in Textform zu
 erklären. Die Erklärung ist nur wirksam, wenn in ihr die Erhöhung auf
 Grund der entstandenen Kosten berechnet und entsprechend den
-Voraussetzungen der §§ 559 und 559a erläutert wird.
+Voraussetzungen der §§ 559 und 559a erläutert wird. § 555c Absatz 3
+gilt entsprechend.
 
 (2) Der Mieter schuldet die erhöhte Miete mit Beginn des dritten
 Monats nach dem Zugang der Erklärung. Die Frist verlängert sich um
-sechs Monate, wenn der Vermieter dem Mieter die zu erwartende Erhöhung
-der Miete nicht nach § 554 Abs. 3 Satz 1 mitgeteilt hat oder wenn die
-tatsächliche Mieterhöhung mehr als 10 vom Hundert höher ist als die
-mitgeteilte.
+sechs Monate, wenn
+
+1.  der Vermieter dem Mieter die Modernisierungsmaßnahme nicht nach den
+    Vorschriften des § 555c Absatz 1 und 3 bis 5 angekündigt hat oder
+
+
+2.  die tatsächliche Mieterhöhung die angekündigte um mehr als 10 Prozent
+    übersteigt.
+
+
+
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
@@ -9445,18 +10849,17 @@ Jahr vor der Pfändung geltend gemacht werden.
 
 ###### § 563 Eintrittsrecht bei Tod des Mieters
 
-(1) Der Ehegatte, der mit dem Mieter einen gemeinsamen Haushalt führt,
-tritt mit dem Tod des Mieters in das Mietverhältnis ein. Dasselbe gilt
-für den Lebenspartner.
+(1) Der Ehegatte oder Lebenspartner, der mit dem Mieter einen
+gemeinsamen Haushalt führt, tritt mit dem Tod des Mieters in das
+Mietverhältnis ein.
 
 (2) Leben in dem gemeinsamen Haushalt Kinder des Mieters, treten diese
 mit dem Tod des Mieters in das Mietverhältnis ein, wenn nicht der
-Ehegatte eintritt. Der Eintritt des Lebenspartners bleibt vom Eintritt
-der Kinder des Mieters unberührt. Andere Familienangehörige, die mit
-dem Mieter einen gemeinsamen Haushalt führen, treten mit dem Tod des
-Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder der
-Lebenspartner eintritt. Dasselbe gilt für Personen, die mit dem Mieter
-einen auf Dauer angelegten gemeinsamen Haushalt führen.
+Ehegatte oder Lebenspartner eintritt. Andere Familienangehörige, die
+mit dem Mieter einen gemeinsamen Haushalt führen, treten mit dem Tod
+des Mieters in das Mietverhältnis ein, wenn nicht der Ehegatte oder
+der Lebenspartner eintritt. Dasselbe gilt für Personen, die mit dem
+Mieter einen auf Dauer angelegten gemeinsamen Haushalt führen.
 
 (3) Erklären eingetretene Personen im Sinne des Absatzes 1 oder 2
 innerhalb eines Monats, nachdem sie vom Tod des Mieters Kenntnis
@@ -9686,6 +11089,15 @@ Abwägung der beiderseitigen Interessen die Fortsetzung des
 Mietverhältnisses bis zum Ablauf der Kündigungsfrist oder bis zur
 sonstigen Beendigung des Mietverhältnisses nicht zugemutet werden
 kann.
+
+(2a) Ein wichtiger Grund im Sinne des § 543 Absatz 1 liegt ferner vor,
+wenn der Mieter mit einer Sicherheitsleistung nach § 551 in Höhe eines
+Betrages im Verzug ist, der der zweifachen Monatsmiete entspricht. Die
+als Pauschale oder als Vorauszahlung ausgewiesenen Betriebskosten sind
+bei der Berechnung der Monatsmiete nach Satz 1 nicht zu
+berücksichtigen. Einer Abhilfefrist oder einer Abmahnung nach § 543
+Absatz 3 Satz 1 bedarf es nicht. Absatz 3 Nummer 2 Satz 1 sowie § 543
+Absatz 2 Satz 2 sind entsprechend anzuwenden.
 
 (3) Ergänzend zu § 543 Abs. 2 Satz 1 Nr. 3 gilt:
 
@@ -10133,13 +11545,36 @@ so kann sich ein Erwerber auf berechtigte Interessen im Sinne des §
 573 Abs. 2 Nr. 2 oder 3 erst nach Ablauf von drei Jahren seit der
 Veräußerung berufen.
 
-(2) Die Frist nach Absatz 1 beträgt bis zu zehn Jahre, wenn die
-ausreichende Versorgung der Bevölkerung mit Mietwohnungen zu
-angemessenen Bedingungen in einer Gemeinde oder einem Teil einer
-Gemeinde besonders gefährdet ist und diese Gebiete nach Satz 2
-bestimmt sind. Die Landesregierungen werden ermächtigt, diese Gebiete
-und die Frist nach Satz 1 durch Rechtsverordnung für die Dauer von
-jeweils höchstens zehn Jahren zu bestimmen.
+(1a) Die Kündigungsbeschränkung nach Absatz 1 gilt entsprechend, wenn
+vermieteter Wohnraum nach der Überlassung an den Mieter
+
+1.  an eine Personengesellschaft oder an mehrere Erwerber veräußert worden
+    ist oder
+
+
+2.  zu Gunsten einer Personengesellschaft oder mehrerer Erwerber mit einem
+    Recht belastet worden ist, durch dessen Ausübung dem Mieter der
+    vertragsgemäße Gebrauch entzogen wird.
+
+
+
+Satz 1 ist nicht anzuwenden, wenn die Gesellschafter oder Erwerber
+derselben Familie oder demselben Haushalt angehören oder vor
+Überlassung des Wohnraums an den Mieter Wohnungseigentum begründet
+worden ist.
+
+(2) Die Frist nach Absatz 1 oder nach Absatz 1a beträgt bis zu zehn
+Jahre, wenn die ausreichende Versorgung der Bevölkerung mit
+Mietwohnungen zu angemessenen Bedingungen in einer Gemeinde oder einem
+Teil einer Gemeinde besonders gefährdet ist und diese Gebiete nach
+Satz 2 bestimmt sind. Die Landesregierungen werden ermächtigt, diese
+Gebiete und die Frist nach Satz 1 durch Rechtsverordnung für die Dauer
+von jeweils höchstens zehn Jahren zu bestimmen.
+
+(2a) Wird nach einer Veräußerung oder Belastung im Sinne des Absatzes
+1a Wohnungseigentum begründet, so beginnt die Frist, innerhalb der
+eine Kündigung nach § 573 Absatz 2 Nummer 2 oder 3 ausgeschlossen ist,
+bereits mit der Veräußerung oder Belastung nach Absatz 1a.
 
 (3) Eine zum Nachteil des Mieters abweichende Vereinbarung ist
 unwirksam.
@@ -10155,10 +11590,13 @@ unwirksam.
 550, 562 bis 562d, 566 bis 567b sowie 570 entsprechend anzuwenden.
 
 (2) Auf Mietverhältnisse über Räume, die keine Wohnräume sind, sind
-die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 554 Abs.
-1 bis 4 und § 569 Abs. 2 entsprechend anzuwenden. Sind die Räume zum
-Aufenthalt von Menschen bestimmt, so gilt außerdem § 569 Abs. 1
-entsprechend.
+die in Absatz 1 genannten Vorschriften sowie § 552 Abs. 1, § 555a
+Absatz 1 bis 3, §§ 555b, 555c Absatz 1 bis 4, § 555d Absatz 1 bis 6, §
+555e Absatz 1 und 2, § 555f und § 569 Abs. 2 entsprechend anzuwenden.
+§ 556c Absatz 1 und 2 sowie die auf Grund des § 556c Absatz 3
+erlassene Rechtsverordnung sind entsprechend anzuwenden, abweichende
+Vereinbarungen sind zulässig. Sind die Räume zum Aufenthalt von
+Menschen bestimmt, so gilt außerdem § 569 Abs. 1 entsprechend.
 
 
 ###### § 578a Mietverhältnisse über eingetragene Schiffe
@@ -10180,13 +11618,13 @@ hat. § 566d gilt entsprechend.
 
 ###### § 579 Fälligkeit der Miete
 
-(1) Die Miete für ein Grundstück, ein im Schiffsregister eingetragenes
-Schiff und für bewegliche Sachen ist am Ende der Mietzeit zu
-entrichten. Ist die Miete nach Zeitabschnitten bemessen, so ist sie
-nach Ablauf der einzelnen Zeitabschnitte zu entrichten. Die Miete für
-ein Grundstück ist, sofern sie nicht nach kürzeren Zeitabschnitten
-bemessen ist, jeweils nach Ablauf eines Kalendervierteljahrs am ersten
-Werktag des folgenden Monats zu entrichten.
+(1) Die Miete für ein Grundstück und für bewegliche Sachen ist am Ende
+der Mietzeit zu entrichten. Ist die Miete nach Zeitabschnitten
+bemessen, so ist sie nach Ablauf der einzelnen Zeitabschnitte zu
+entrichten. Die Miete für ein Grundstück ist, sofern sie nicht nach
+kürzeren Zeitabschnitten bemessen ist, jeweils nach Ablauf eines
+Kalendervierteljahrs am ersten Werktag des folgenden Monats zu
+entrichten.
 
 (2) Für Mietverhältnisse über Räume gilt § 556b Abs. 1 entsprechend.
 
@@ -10202,8 +11640,7 @@ gesetzlichen Frist zu kündigen.
 ###### § 580a Kündigungsfristen
 
 (1) Bei einem Mietverhältnis über Grundstücke, über Räume, die keine
-Geschäftsräume sind, oder über im Schiffsregister eingetragene Schiffe
-ist die ordentliche Kündigung zulässig,
+Geschäftsräume sind, ist die ordentliche Kündigung zulässig,
 
 1.  wenn die Miete nach Tagen bemessen ist, an jedem Tag zum Ablauf des
     folgenden Tages;
@@ -10216,8 +11653,8 @@ ist die ordentliche Kündigung zulässig,
 3.  wenn die Miete nach Monaten oder längeren Zeitabschnitten bemessen
     ist, spätestens am dritten Werktag eines Kalendermonats zum Ablauf des
     übernächsten Monats, bei einem Mietverhältnis über gewerblich genutzte
-    unbebaute Grundstücke oder im Schiffsregister eingetragene Schiffe
-    jedoch nur zum Ablauf eines Kalendervierteljahrs.
+    unbebaute Grundstücke jedoch nur zum Ablauf eines
+    Kalendervierteljahrs.
 
 
 
@@ -11051,30 +12488,31 @@ Ein Entgelt hat der Darlehensnehmer spätestens bei Rückerstattung der
 (weggefallen)
 
 
-#### Titel 8 - Dienstvertrag
+#### Titel 8 - Dienstvertrag und ähnliche Verträge
 
-[^BJNR001950896BJNG005502377]
+[^BJNR001950896BJNG005502377_BJNR001950896BJNG005503377]
 
-[^BJNR001950896BJNG005502377]:     **Amtlicher Hinweis:**              Dieser Titel dient der Umsetzung
-    1\.                                                   der Richtlinie
-    76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung des
-    Grundsatzes der Gleichbehandlung von Männern und Frauen hinsichtlich
-    des Zugangs zur Beschäftigung, zur Berufsbildung und zum beruflichen
-    Aufstieg sowie in Bezug auf die Arbeitsbedingungen (ABl. EG Nr. L 39
-    S. 40) und
+[^BJNR001950896BJNG005502377_BJNR001950896BJNG005503377]:     **Amtlicher Hinweis:** Dieser Titel dient der Umsetzung1.der
+    Richtlinie 76/207/EWG des Rates vom 9. Februar 1976 zur Verwirklichung
+    des Grundsatzes der Gleichbehandlung von Männern und Frauen
+    hinsichtlich des Zugangs zur Beschäftigung, zur Berufsbildung und zum
+    beruflichen Aufstieg sowie in Bezug auf die Arbeitsbedingungen (ABl.
+    EG Nr. L 39 S. 40) und
 
 
-    2\.                                                   der Richtlinie
-    77/187/EWG des Rates vom 14. Februar 1977 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten über die Wahrung von Ansprüchen
-    der Arbeitnehmer beim Übergang von Unternehmen, Betrieben oder
-    Betriebsteilen (ABl. EG Nr. L 61 S. 26).
+    2\.der Richtlinie 77/187/EWG des Rates vom 14. Februar 1977 zur
+    Angleichung der Rechtsvorschriften der Mitgliedstaaten über die
+    Wahrung von Ansprüchen der Arbeitnehmer beim Übergang von Unternehmen,
+    Betrieben oder Betriebsteilen (ABl. EG Nr. L 61 S. 26).
 
 
 
 
 
-##### § 611 Vertragstypische Pflichten beim Dienstvertrag
+##### Untertitel 1 - Dienstvertrag
+
+
+###### § 611 Vertragstypische Pflichten beim Dienstvertrag
 
 (1) Durch den Dienstvertrag wird derjenige, welcher Dienste zusagt,
 zur Leistung der versprochenen Dienste, der andere Teil zur Gewährung
@@ -11083,10 +12521,29 @@ der vereinbarten Vergütung verpflichtet.
 (2) Gegenstand des Dienstvertrags können Dienste jeder Art sein.
 
 
-##### (XXXX) §§ 611a und 611b (weggefallen)
+###### § 611a Arbeitsvertrag
+
+(1) Durch den Arbeitsvertrag wird der Arbeitnehmer im Dienste eines
+anderen zur Leistung weisungsgebundener, fremdbestimmter Arbeit in
+persönlicher Abhängigkeit verpflichtet. Das Weisungsrecht kann Inhalt,
+Durchführung, Zeit und Ort der Tätigkeit betreffen. Weisungsgebunden
+ist, wer nicht im Wesentlichen frei seine Tätigkeit gestalten und
+seine Arbeitszeit bestimmen kann. Der Grad der persönlichen
+Abhängigkeit hängt dabei auch von der Eigenart der jeweiligen
+Tätigkeit ab. Für die Feststellung, ob ein Arbeitsvertrag vorliegt,
+ist eine Gesamtbetrachtung aller Umstände vorzunehmen. Zeigt die
+tatsächliche Durchführung des Vertragsverhältnisses, dass es sich um
+ein Arbeitsverhältnis handelt, kommt es auf die Bezeichnung im Vertrag
+nicht an.
+
+(2) Der Arbeitgeber ist zur Zahlung der vereinbarten Vergütung
+verpflichtet.
 
 
-##### § 612 Vergütung
+###### § 611b (weggefallen)
+
+
+###### § 612 Vergütung
 
 (1) Eine Vergütung gilt als stillschweigend vereinbart, wenn die
 Dienstleistung den Umständen nach nur gegen eine Vergütung zu erwarten
@@ -11099,21 +12556,21 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 (3) (weggefallen)
 
 
-##### § 612a Maßregelungsverbot
+###### § 612a Maßregelungsverbot
 
 Der Arbeitgeber darf einen Arbeitnehmer bei einer Vereinbarung oder
 einer Maßnahme nicht benachteiligen, weil der Arbeitnehmer in
 zulässiger Weise seine Rechte ausübt.
 
 
-##### § 613 Unübertragbarkeit
+###### § 613 Unübertragbarkeit
 
 Der zur Dienstleistung Verpflichtete hat die Dienste im Zweifel in
 Person zu leisten. Der Anspruch auf die Dienste ist im Zweifel nicht
 übertragbar.
 
 
-##### § 613a Rechte und Pflichten bei Betriebsübergang
+###### § 613a Rechte und Pflichten bei Betriebsübergang
 
 (1) Geht ein Betrieb oder Betriebsteil durch Rechtsgeschäft auf einen
 anderen Inhaber über, so tritt dieser in die Rechte und Pflichten aus
@@ -11175,14 +12632,14 @@ schriftlich widersprechen. Der Widerspruch kann gegenüber dem
 bisherigen Arbeitgeber oder dem neuen Inhaber erklärt werden.
 
 
-##### § 614 Fälligkeit der Vergütung
+###### § 614 Fälligkeit der Vergütung
 
 Die Vergütung ist nach der Leistung der Dienste zu entrichten. Ist die
 Vergütung nach Zeitabschnitten bemessen, so ist sie nach dem Ablauf
 der einzelnen Zeitabschnitte zu entrichten.
 
 
-##### § 615 Vergütung bei Annahmeverzug und bei Betriebsrisiko
+###### § 615 Vergütung bei Annahmeverzug und bei Betriebsrisiko
 
 Kommt der Dienstberechtigte mit der Annahme der Dienste in Verzug, so
 kann der Verpflichtete für die infolge des Verzugs nicht geleisteten
@@ -11195,7 +12652,7 @@ entsprechend in den Fällen, in denen der Arbeitgeber das Risiko des
 Arbeitsausfalls trägt.
 
 
-##### § 616 Vorübergehende Verhinderung
+###### § 616 Vorübergehende Verhinderung
 
 Der zur Dienstleistung Verpflichtete wird des Anspruchs auf die
 Vergütung nicht dadurch verlustig, dass er für eine verhältnismäßig
@@ -11206,7 +12663,7 @@ Verhinderung aus einer auf Grund gesetzlicher Verpflichtung
 bestehenden Kranken- oder Unfallversicherung zukommt.
 
 
-##### § 617 Pflicht zur Krankenfürsorge
+###### § 617 Pflicht zur Krankenfürsorge
 
 (1) Ist bei einem dauernden Dienstverhältnis, welches die
 Erwerbstätigkeit des Verpflichteten vollständig oder hauptsächlich in
@@ -11230,7 +12687,7 @@ durch eine Einrichtung der öffentlichen Krankenpflege Vorsorge
 getroffen ist.
 
 
-##### § 618 Pflicht zu Schutzmaßnahmen
+###### § 618 Pflicht zu Schutzmaßnahmen
 
 (1) Der Dienstberechtigte hat Räume, Vorrichtungen oder Gerätschaften,
 die er zur Verrichtung der Dienste zu beschaffen hat, so einzurichten
@@ -11253,14 +12710,14 @@ unerlaubte Handlungen geltenden Vorschriften der §§ 842 bis 846
 entsprechende Anwendung.
 
 
-##### § 619 Unabdingbarkeit der Fürsorgepflichten
+###### § 619 Unabdingbarkeit der Fürsorgepflichten
 
 Die dem Dienstberechtigten nach den §§ 617, 618 obliegenden
 Verpflichtungen können nicht im Voraus durch Vertrag aufgehoben oder
 beschränkt werden.
 
 
-##### § 619a Beweislast bei Haftung des Arbeitnehmers
+###### § 619a Beweislast bei Haftung des Arbeitnehmers
 
 Abweichend von § 280 Abs. 1 hat der Arbeitnehmer dem Arbeitgeber
 Ersatz für den aus der Verletzung einer Pflicht aus dem
@@ -11268,7 +12725,7 @@ Arbeitsverhältnis entstehenden Schaden nur zu leisten, wenn er die
 Pflichtverletzung zu vertreten hat.
 
 
-##### § 620 Beendigung des Dienstverhältnisses
+###### § 620 Beendigung des Dienstverhältnisses
 
 (1) Das Dienstverhältnis endigt mit dem Ablauf der Zeit, für die es
 eingegangen ist.
@@ -11281,7 +12738,7 @@ Teil das Dienstverhältnis nach Maßgabe der §§ 621 bis 623 kündigen.
 gilt das Teilzeit- und Befristungsgesetz.
 
 
-##### § 621 Kündigungsfristen bei Dienstverhältnissen
+###### § 621 Kündigungsfristen bei Dienstverhältnissen
 
 Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des §
 622 ist, ist die Kündigung zulässig,
@@ -11312,7 +12769,7 @@ Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des §
 
 
 
-##### § 622 Kündigungsfristen bei Arbeitsverhältnissen
+###### § 622 Kündigungsfristen bei Arbeitsverhältnissen
 
 (1) Das Arbeitsverhältnis eines Arbeiters oder eines Angestellten
 (Arbeitnehmers) kann mit einer Frist von vier Wochen zum Fünfzehnten
@@ -11384,14 +12841,14 @@ darf keine längere Frist vereinbart werden als für die Kündigung durch
 den Arbeitgeber.
 
 
-##### § 623 Schriftform der Kündigung
+###### § 623 Schriftform der Kündigung
 
 Die Beendigung von Arbeitsverhältnissen durch Kündigung oder
 Auflösungsvertrag bedürfen zu ihrer Wirksamkeit der Schriftform; die
 elektronische Form ist ausgeschlossen.
 
 
-##### § 624 Kündigungsfrist bei Verträgen über mehr als fünf Jahre
+###### § 624 Kündigungsfrist bei Verträgen über mehr als fünf Jahre
 
 Ist das Dienstverhältnis für die Lebenszeit einer Person oder für
 längere Zeit als fünf Jahre eingegangen, so kann es von dem
@@ -11399,7 +12856,7 @@ Verpflichteten nach dem Ablauf von fünf Jahren gekündigt werden. Die
 Kündigungsfrist beträgt sechs Monate.
 
 
-##### § 625 Stillschweigende Verlängerung
+###### § 625 Stillschweigende Verlängerung
 
 Wird das Dienstverhältnis nach dem Ablauf der Dienstzeit von dem
 Verpflichteten mit Wissen des anderen Teiles fortgesetzt, so gilt es
@@ -11407,7 +12864,7 @@ als auf unbestimmte Zeit verlängert, sofern nicht der andere Teil
 unverzüglich widerspricht.
 
 
-##### § 626 Fristlose Kündigung aus wichtigem Grund
+###### § 626 Fristlose Kündigung aus wichtigem Grund
 
 (1) Das Dienstverhältnis kann von jedem Vertragsteil aus wichtigem
 Grund ohne Einhaltung einer Kündigungsfrist gekündigt werden, wenn
@@ -11425,7 +12882,7 @@ Kündigende muss dem anderen Teil auf Verlangen den Kündigungsgrund
 unverzüglich schriftlich mitteilen.
 
 
-##### § 627 Fristlose Kündigung bei Vertrauensstellung
+###### § 627 Fristlose Kündigung bei Vertrauensstellung
 
 (1) Bei einem Dienstverhältnis, das kein Arbeitsverhältnis im Sinne
 des § 622 ist, ist die Kündigung auch ohne die in § 626 bezeichnete
@@ -11441,7 +12898,7 @@ er ohne solchen Grund zur Unzeit, so hat er dem Dienstberechtigten den
 daraus entstehenden Schaden zu ersetzen.
 
 
-##### § 628 Teilvergütung und Schadensersatz bei fristloser Kündigung
+###### § 628 Teilvergütung und Schadensersatz bei fristloser Kündigung
 
 (1) Wird nach dem Beginn der Dienstleistung das Dienstverhältnis auf
 Grund des § 626 oder des § 627 gekündigt, so kann der Verpflichtete
@@ -11462,14 +12919,14 @@ Teiles veranlasst, so ist dieser zum Ersatz des durch die Aufhebung
 des Dienstverhältnisses entstehenden Schadens verpflichtet.
 
 
-##### § 629 Freizeit zur Stellungssuche
+###### § 629 Freizeit zur Stellungssuche
 
 Nach der Kündigung eines dauernden Dienstverhältnisses hat der
 Dienstberechtigte dem Verpflichteten auf Verlangen angemessene Zeit
 zum Aufsuchen eines anderen Dienstverhältnisses zu gewähren.
 
 
-##### § 630 Pflicht zur Zeugniserteilung
+###### § 630 Pflicht zur Zeugniserteilung
 
 Bei der Beendigung eines dauernden Dienstverhältnisses kann der
 Verpflichtete von dem anderen Teil ein schriftliches Zeugnis über das
@@ -11480,11 +12937,223 @@ ausgeschlossen. Wenn der Verpflichtete ein Arbeitnehmer ist, findet §
 109 der Gewerbeordnung Anwendung.
 
 
+##### Untertitel 2 - Behandlungsvertrag
+
+
+###### § 630a Vertragstypische Pflichten beim Behandlungsvertrag
+
+(1) Durch den Behandlungsvertrag wird derjenige, welcher die
+medizinische Behandlung eines Patienten zusagt (Behandelnder), zur
+Leistung der versprochenen Behandlung, der andere Teil (Patient) zur
+Gewährung der vereinbarten Vergütung verpflichtet, soweit nicht ein
+Dritter zur Zahlung verpflichtet ist.
+
+(2) Die Behandlung hat nach den zum Zeitpunkt der Behandlung
+bestehenden, allgemein anerkannten fachlichen Standards zu erfolgen,
+soweit nicht etwas anderes vereinbart ist.
+
+
+###### § 630b Anwendbare Vorschriften
+
+Auf das Behandlungsverhältnis sind die Vorschriften über das
+Dienstverhältnis, das kein Arbeitsverhältnis im Sinne des § 622 ist,
+anzuwenden, soweit nicht in diesem Untertitel etwas anderes bestimmt
+ist.
+
+
+###### § 630c Mitwirkung der Vertragsparteien; Informationspflichten
+
+(1) Behandelnder und Patient sollen zur Durchführung der Behandlung
+zusammenwirken.
+
+(2) Der Behandelnde ist verpflichtet, dem Patienten in verständlicher
+Weise zu Beginn der Behandlung und, soweit erforderlich, in deren
+Verlauf sämtliche für die Behandlung wesentlichen Umstände zu
+erläutern, insbesondere die Diagnose, die voraussichtliche
+gesundheitliche Entwicklung, die Therapie und die zu und nach der
+Therapie zu ergreifenden Maßnahmen. Sind für den Behandelnden Umstände
+erkennbar, die die Annahme eines Behandlungsfehlers begründen, hat er
+den Patienten über diese auf Nachfrage oder zur Abwendung
+gesundheitlicher Gefahren zu informieren. Ist dem Behandelnden oder
+einem seiner in § 52 Absatz 1 der Strafprozessordnung bezeichneten
+Angehörigen ein Behandlungsfehler unterlaufen, darf die Information
+nach Satz 2 zu Beweiszwecken in einem gegen den Behandelnden oder
+gegen seinen Angehörigen geführten Straf- oder Bußgeldverfahren nur
+mit Zustimmung des Behandelnden verwendet werden.
+
+(3) Weiß der Behandelnde, dass eine vollständige Übernahme der
+Behandlungskosten durch einen Dritten nicht gesichert ist oder ergeben
+sich nach den Umständen hierfür hinreichende Anhaltspunkte, muss er
+den Patienten vor Beginn der Behandlung über die voraussichtlichen
+Kosten der Behandlung in Textform informieren. Weitergehende
+Formanforderungen aus anderen Vorschriften bleiben unberührt.
+
+(4) Der Information des Patienten bedarf es nicht, soweit diese
+ausnahmsweise aufgrund besonderer Umstände entbehrlich ist,
+insbesondere wenn die Behandlung unaufschiebbar ist oder der Patient
+auf die Information ausdrücklich verzichtet hat.
+
+
+###### § 630d Einwilligung
+
+(1) Vor Durchführung einer medizinischen Maßnahme, insbesondere eines
+Eingriffs in den Körper oder die Gesundheit, ist der Behandelnde
+verpflichtet, die Einwilligung des Patienten einzuholen. Ist der
+Patient einwilligungsunfähig, ist die Einwilligung eines hierzu
+Berechtigten einzuholen, soweit nicht eine Patientenverfügung nach §
+1901a Absatz 1 Satz 1 die Maßnahme gestattet oder untersagt.
+Weitergehende Anforderungen an die Einwilligung aus anderen
+Vorschriften bleiben unberührt. Kann eine Einwilligung für eine
+unaufschiebbare Maßnahme nicht rechtzeitig eingeholt werden, darf sie
+ohne Einwilligung durchgeführt werden, wenn sie dem mutmaßlichen
+Willen des Patienten entspricht.
+
+(2) Die Wirksamkeit der Einwilligung setzt voraus, dass der Patient
+oder im Fall des Absatzes 1 Satz 2 der zur Einwilligung Berechtigte
+vor der Einwilligung nach Maßgabe von § 630e Absatz 1 bis 4 aufgeklärt
+worden ist.
+
+(3) Die Einwilligung kann jederzeit und ohne Angabe von Gründen
+formlos widerrufen werden.
+
+
+###### § 630e Aufklärungspflichten
+
+(1) Der Behandelnde ist verpflichtet, den Patienten über sämtliche für
+die Einwilligung wesentlichen Umstände aufzuklären. Dazu gehören
+insbesondere Art, Umfang, Durchführung, zu erwartende Folgen und
+Risiken der Maßnahme sowie ihre Notwendigkeit, Dringlichkeit, Eignung
+und Erfolgsaussichten im Hinblick auf die Diagnose oder die Therapie.
+Bei der Aufklärung ist auch auf Alternativen zur Maßnahme hinzuweisen,
+wenn mehrere medizinisch gleichermaßen indizierte und übliche Methoden
+zu wesentlich unterschiedlichen Belastungen, Risiken oder
+Heilungschancen führen können.
+
+(2) Die Aufklärung muss
+
+1.  mündlich durch den Behandelnden oder durch eine Person erfolgen, die
+    über die zur Durchführung der Maßnahme notwendige Ausbildung verfügt;
+    ergänzend kann auch auf Unterlagen Bezug genommen werden, die der
+    Patient in Textform erhält,
+
+
+2.  so rechtzeitig erfolgen, dass der Patient seine Entscheidung über die
+    Einwilligung wohlüberlegt treffen kann,
+
+
+3.  für den Patienten verständlich sein.
+
+
+
+Dem Patienten sind Abschriften von Unterlagen, die er im Zusammenhang
+mit der Aufklärung oder Einwilligung unterzeichnet hat, auszuhändigen.
+
+(3) Der Aufklärung des Patienten bedarf es nicht, soweit diese
+ausnahmsweise aufgrund besonderer Umstände entbehrlich ist,
+insbesondere wenn die Maßnahme unaufschiebbar ist oder der Patient auf
+die Aufklärung ausdrücklich verzichtet hat.
+
+(4) Ist nach § 630d Absatz 1 Satz 2 die Einwilligung eines hierzu
+Berechtigten einzuholen, ist dieser nach Maßgabe der Absätze 1 bis 3
+aufzuklären.
+
+(5) Im Fall des § 630d Absatz 1 Satz 2 sind die wesentlichen Umstände
+nach Absatz 1 auch dem Patienten entsprechend seinem Verständnis zu
+erläutern, soweit dieser aufgrund seines Entwicklungsstandes und
+seiner Verständnismöglichkeiten in der Lage ist, die Erläuterung
+aufzunehmen, und soweit dies seinem Wohl nicht zuwiderläuft. Absatz 3
+gilt entsprechend.
+
+
+###### § 630f Dokumentation der Behandlung
+
+(1) Der Behandelnde ist verpflichtet, zum Zweck der Dokumentation in
+unmittelbarem zeitlichen Zusammenhang mit der Behandlung eine
+Patientenakte in Papierform oder elektronisch zu führen.
+Berichtigungen und Änderungen von Eintragungen in der Patientenakte
+sind nur zulässig, wenn neben dem ursprünglichen Inhalt erkennbar
+bleibt, wann sie vorgenommen worden sind. Dies ist auch für
+elektronisch geführte Patientenakten sicherzustellen.
+
+(2) Der Behandelnde ist verpflichtet, in der Patientenakte sämtliche
+aus fachlicher Sicht für die derzeitige und künftige Behandlung
+wesentlichen Maßnahmen und deren Ergebnisse aufzuzeichnen,
+insbesondere die Anamnese, Diagnosen, Untersuchungen,
+Untersuchungsergebnisse, Befunde, Therapien und ihre Wirkungen,
+Eingriffe und ihre Wirkungen, Einwilligungen und Aufklärungen.
+Arztbriefe sind in die Patientenakte aufzunehmen.
+
+(3) Der Behandelnde hat die Patientenakte für die Dauer von zehn
+Jahren nach Abschluss der Behandlung aufzubewahren, soweit nicht nach
+anderen Vorschriften andere Aufbewahrungsfristen bestehen.
+
+
+###### § 630g Einsichtnahme in die Patientenakte
+
+(1) Dem Patienten ist auf Verlangen unverzüglich Einsicht in die
+vollständige, ihn betreffende Patientenakte zu gewähren, soweit der
+Einsichtnahme nicht erhebliche therapeutische Gründe oder sonstige
+erhebliche Rechte Dritter entgegenstehen. Die Ablehnung der
+Einsichtnahme ist zu begründen. § 811 ist entsprechend anzuwenden.
+
+(2) Der Patient kann auch elektronische Abschriften von der
+Patientenakte verlangen. Er hat dem Behandelnden die entstandenen
+Kosten zu erstatten.
+
+(3) Im Fall des Todes des Patienten stehen die Rechte aus den Absätzen
+1 und 2 zur Wahrnehmung der vermögensrechtlichen Interessen seinen
+Erben zu. Gleiches gilt für die nächsten Angehörigen des Patienten,
+soweit sie immaterielle Interessen geltend machen. Die Rechte sind
+ausgeschlossen, soweit der Einsichtnahme der ausdrückliche oder
+mutmaßliche Wille des Patienten entgegensteht.
+
+
+###### § 630h Beweislast bei Haftung für Behandlungs- und Aufklärungsfehler
+
+(1) Ein Fehler des Behandelnden wird vermutet, wenn sich ein
+allgemeines Behandlungsrisiko verwirklicht hat, das für den
+Behandelnden voll beherrschbar war und das zur Verletzung des Lebens,
+des Körpers oder der Gesundheit des Patienten geführt hat.
+
+(2) Der Behandelnde hat zu beweisen, dass er eine Einwilligung gemäß §
+630d eingeholt und entsprechend den Anforderungen des § 630e
+aufgeklärt hat. Genügt die Aufklärung nicht den Anforderungen des §
+630e, kann der Behandelnde sich darauf berufen, dass der Patient auch
+im Fall einer ordnungsgemäßen Aufklärung in die Maßnahme eingewilligt
+hätte.
+
+(3) Hat der Behandelnde eine medizinisch gebotene wesentliche Maßnahme
+und ihr Ergebnis entgegen § 630f Absatz 1 oder Absatz 2 nicht in der
+Patientenakte aufgezeichnet oder hat er die Patientenakte entgegen §
+630f Absatz 3 nicht aufbewahrt, wird vermutet, dass er diese Maßnahme
+nicht getroffen hat.
+
+(4) War ein Behandelnder für die von ihm vorgenommene Behandlung nicht
+befähigt, wird vermutet, dass die mangelnde Befähigung für den
+Eintritt der Verletzung des Lebens, des Körpers oder der Gesundheit
+ursächlich war.
+
+(5) Liegt ein grober Behandlungsfehler vor und ist dieser
+grundsätzlich geeignet, eine Verletzung des Lebens, des Körpers oder
+der Gesundheit der tatsächlich eingetretenen Art herbeizuführen, wird
+vermutet, dass der Behandlungsfehler für diese Verletzung ursächlich
+war. Dies gilt auch dann, wenn es der Behandelnde unterlassen hat,
+einen medizinisch gebotenen Befund rechtzeitig zu erheben oder zu
+sichern, soweit der Befund mit hinreichender Wahrscheinlichkeit ein
+Ergebnis erbracht hätte, das Anlass zu weiteren Maßnahmen gegeben
+hätte, und wenn das Unterlassen solcher Maßnahmen grob fehlerhaft
+gewesen wäre.
+
+
 #### Titel 9 - Werkvertrag und ähnliche Verträge
 
 
 
 ##### Untertitel 1 - Werkvertrag
+
+
+
+###### Kapitel 1 - Allgemeine Vorschriften
 
 
 
@@ -11514,44 +13183,24 @@ einer Taxe die taxmäßige Vergütung, in Ermangelung einer Taxe die
 
 ###### § 632a Abschlagszahlungen
 
-(1) Der Unternehmer kann von dem Besteller für eine vertragsgemäß
-erbrachte Leistung eine Abschlagszahlung in der Höhe verlangen, in der
-der Besteller durch die Leistung einen Wertzuwachs erlangt hat. Wegen
-unwesentlicher Mängel kann die Abschlagszahlung nicht verweigert
-werden. § 641 Abs. 3 gilt entsprechend. Die Leistungen sind durch eine
-Aufstellung nachzuweisen, die eine rasche und sichere Beurteilung der
-Leistungen ermöglichen muss. Die Sätze 1 bis 4 gelten auch für
-erforderliche Stoffe oder Bauteile, die angeliefert oder eigens
-angefertigt und bereitgestellt sind, wenn dem Besteller nach seiner
-Wahl Eigentum an den Stoffen oder Bauteilen übertragen oder
-entsprechende Sicherheit hierfür geleistet wird.
+(1) Der Unternehmer kann von dem Besteller eine Abschlagszahlung in
+Höhe des Wertes der von ihm erbrachten und nach dem Vertrag
+geschuldeten Leistungen verlangen. Sind die erbrachten Leistungen
+nicht vertragsgemäß, kann der Besteller die Zahlung eines angemessenen
+Teils des Abschlags verweigern. Die Beweislast für die vertragsgemäße
+Leistung verbleibt bis zur Abnahme beim Unternehmer. § 641 Abs. 3 gilt
+entsprechend. Die Leistungen sind durch eine Aufstellung nachzuweisen,
+die eine rasche und sichere Beurteilung der Leistungen ermöglichen
+muss. Die Sätze 1 bis 5 gelten auch für erforderliche Stoffe oder
+Bauteile, die angeliefert oder eigens angefertigt und bereitgestellt
+sind, wenn dem Besteller nach seiner Wahl Eigentum an den Stoffen oder
+Bauteilen übertragen oder entsprechende Sicherheit hierfür geleistet
+wird.
 
-(2) Wenn der Vertrag die Errichtung oder den Umbau eines Hauses oder
-eines vergleichbaren Bauwerks zum Gegenstand hat und zugleich die
-Verpflichtung des Unternehmers enthält, dem Besteller das Eigentum an
-dem Grundstück zu übertragen oder ein Erbbaurecht zu bestellen oder zu
-übertragen, können Abschlagszahlungen nur verlangt werden, soweit sie
-gemäß einer Verordnung auf Grund von Artikel 244 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.
-
-(3) Ist der Besteller ein Verbraucher und hat der Vertrag die
-Errichtung oder den Umbau eines Hauses oder eines vergleichbaren
-Bauwerks zum Gegenstand, ist dem Besteller bei der ersten
-Abschlagszahlung eine Sicherheit für die rechtzeitige Herstellung des
-Werkes ohne wesentliche Mängel in Höhe von 5 vom Hundert des
-Vergütungsanspruchs zu leisten. Erhöht sich der Vergütungsanspruch
-infolge von Änderungen oder Ergänzungen des Vertrages um mehr als 10
-vom Hundert, ist dem Besteller bei der nächsten Abschlagszahlung eine
-weitere Sicherheit in Höhe von 5 vom Hundert des zusätzlichen
-Vergütungsanspruchs zu leisten. Auf Verlangen des Unternehmers ist die
-Sicherheitsleistung durch Einbehalt dergestalt zu erbringen, dass der
-Besteller die Abschlagszahlungen bis zu dem Gesamtbetrag der
-geschuldeten Sicherheit zurückhält.
-
-(4) Sicherheiten nach dieser Vorschrift können auch durch eine
-Garantie oder ein sonstiges Zahlungsversprechen eines im
-Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugten
-Kreditinstituts oder Kreditversicherers geleistet werden.
+(2) Die Sicherheit nach Absatz 1 Satz 6 kann auch durch eine Garantie
+oder ein sonstiges Zahlungsversprechen eines im Geltungsbereich dieses
+Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts oder
+Kreditversicherers geleistet werden.
 
 
 ###### § 633 Sach- und Rechtsmangel
@@ -11719,12 +13368,19 @@ oder eine Garantie für die Beschaffenheit des Werkes übernommen hat.
 (1) Der Besteller ist verpflichtet, das vertragsmäßig hergestellte
 Werk abzunehmen, sofern nicht nach der Beschaffenheit des Werkes die
 Abnahme ausgeschlossen ist. Wegen unwesentlicher Mängel kann die
-Abnahme nicht verweigert werden. Der Abnahme steht es gleich, wenn der
-Besteller das Werk nicht innerhalb einer ihm vom Unternehmer
-bestimmten angemessenen Frist abnimmt, obwohl er dazu verpflichtet
-ist.
+Abnahme nicht verweigert werden.
 
-(2) Nimmt der Besteller ein mangelhaftes Werk gemäß Absatz 1 Satz 1
+(2) Als abgenommen gilt ein Werk auch, wenn der Unternehmer dem
+Besteller nach Fertigstellung des Werks eine angemessene Frist zur
+Abnahme gesetzt hat und der Besteller die Abnahme nicht innerhalb
+dieser Frist unter Angabe mindestens eines Mangels verweigert hat. Ist
+der Besteller ein Verbraucher, so treten die Rechtsfolgen des Satzes 1
+nur dann ein, wenn der Unternehmer den Besteller zusammen mit der
+Aufforderung zur Abnahme auf die Folgen einer nicht erklärten oder
+ohne Angabe von Mängeln verweigerten Abnahme hingewiesen hat; der
+Hinweis muss in Textform erfolgen.
+
+(3) Nimmt der Besteller ein mangelhaftes Werk gemäß Absatz 1 Satz 1
 ab, obschon er den Mangel kennt, so stehen ihm die in § 634 Nr. 1 bis
 3 bezeichneten Rechte nur zu, wenn er sich seine Rechte wegen des
 Mangels bei der Abnahme vorbehält.
@@ -11840,31 +13496,202 @@ beweglichen Sachen des Bestellers, wenn sie bei der Herstellung oder
 zum Zwecke der Ausbesserung in seinen Besitz gelangt sind.
 
 
-###### § 648 Sicherungshypothek des Bauunternehmers
+###### § 647a Sicherungshypothek des Inhabers einer Schiffswerft
 
-(1) Der Unternehmer eines Bauwerks oder eines einzelnen Teiles eines
-Bauwerks kann für seine Forderungen aus dem Vertrag die Einräumung
-einer Sicherungshypothek an dem Baugrundstück des Bestellers
+Der Inhaber einer Schiffswerft kann für seine Forderungen aus dem Bau
+oder der Ausbesserung eines Schiffes die Einräumung einer
+Schiffshypothek an dem Schiffsbauwerk oder dem Schiff des Bestellers
 verlangen. Ist das Werk noch nicht vollendet, so kann er die
-Einräumung der Sicherungshypothek für einen der geleisteten Arbeit
+Einräumung der Schiffshypothek für einen der geleisteten Arbeit
+entsprechenden Teil der Vergütung und für die in der Vergütung nicht
+inbegriffenen Auslagen verlangen. § 647 findet keine Anwendung.
+
+
+###### § 648 Kündigungsrecht des Bestellers
+
+Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag
+kündigen. Kündigt der Besteller, so ist der Unternehmer berechtigt,
+die vereinbarte Vergütung zu verlangen; er muss sich jedoch dasjenige
+anrechnen lassen, was er infolge der Aufhebung des Vertrags an
+Aufwendungen erspart oder durch anderweitige Verwendung seiner
+Arbeitskraft erwirbt oder zu erwerben böswillig unterlässt. Es wird
+vermutet, dass danach dem Unternehmer 5 vom Hundert der auf den noch
+nicht erbrachten Teil der Werkleistung entfallenden vereinbarten
+Vergütung zustehen.
+
+
+###### § 648a Kündigung aus wichtigem Grund
+
+(1) Beide Vertragsparteien können den Vertrag aus wichtigem Grund ohne
+Einhaltung einer Kündigungsfrist kündigen. Ein wichtiger Grund liegt
+vor, wenn dem kündigenden Teil unter Berücksichtigung aller Umstände
+des Einzelfalls und unter Abwägung der beiderseitigen Interessen die
+Fortsetzung des Vertragsverhältnisses bis zur Fertigstellung des Werks
+nicht zugemutet werden kann.
+
+(2) Eine Teilkündigung ist möglich; sie muss sich auf einen
+abgrenzbaren Teil des geschuldeten Werks beziehen.
+
+(3) § 314 Absatz 2 und 3 gilt entsprechend.
+
+(4) Nach der Kündigung kann jede Vertragspartei von der anderen
+verlangen, dass sie an einer gemeinsamen Feststellung des
+Leistungsstandes mitwirkt. Verweigert eine Vertragspartei die
+Mitwirkung oder bleibt sie einem vereinbarten oder einem von der
+anderen Vertragspartei innerhalb einer angemessenen Frist bestimmten
+Termin zur Leistungsstandfeststellung fern, trifft sie die Beweislast
+für den Leistungsstand zum Zeitpunkt der Kündigung. Dies gilt nicht,
+wenn die Vertragspartei infolge eines Umstands fernbleibt, den sie
+nicht zu vertreten hat und den sie der anderen Vertragspartei
+unverzüglich mitgeteilt hat.
+
+(5) Kündigt eine Vertragspartei aus wichtigem Grund, ist der
+Unternehmer nur berechtigt, die Vergütung zu verlangen, die auf den
+bis zur Kündigung erbrachten Teil des Werks entfällt.
+
+(6) Die Berechtigung, Schadensersatz zu verlangen, wird durch die
+Kündigung nicht ausgeschlossen.
+
+
+###### § 649 Kostenanschlag
+
+(1) Ist dem Vertrag ein Kostenanschlag zugrunde gelegt worden, ohne
+dass der Unternehmer die Gewähr für die Richtigkeit des Anschlags
+übernommen hat, und ergibt sich, dass das Werk nicht ohne eine
+wesentliche Überschreitung des Anschlags ausführbar ist, so steht dem
+Unternehmer, wenn der Besteller den Vertrag aus diesem Grund kündigt,
+nur der im § 645 Abs. 1 bestimmte Anspruch zu.
+
+(2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat
+der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
+
+
+###### § 650 Anwendung des Kaufrechts
+
+Auf einen Vertrag, der die Lieferung herzustellender oder zu
+erzeugender beweglicher Sachen zum Gegenstand hat, finden die
+Vorschriften über den Kauf Anwendung. § 442 Abs. 1 Satz 1 findet bei
+diesen Verträgen auch Anwendung, wenn der Mangel auf den vom Besteller
+gelieferten Stoff zurückzuführen ist. Soweit es sich bei den
+herzustellenden oder zu erzeugenden beweglichen Sachen um nicht
+vertretbare Sachen handelt, sind auch die §§ 642, 643, 645, 648 und
+649 mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme der
+nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
+
+[^BJNR001950896BJNE066703377_001_BJNR001950896BJNE066704123]:     **Amtlicher Hinweis:** Diese Vorschrift dient der Umsetzung der
+    Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates vom
+    25\. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und der
+    Garantien für Verbrauchsgüter (ABl. EG Nr. L 171 S. 12).
+
+
+###### Kapitel 2 - Bauvertrag
+
+
+###### § 650a Bauvertrag
+
+(1) Ein Bauvertrag ist ein Vertrag über die Herstellung, die
+Wiederherstellung, die Beseitigung oder den Umbau eines Bauwerks,
+einer Außenanlage oder eines Teils davon. Für den Bauvertrag gelten
+ergänzend die folgenden Vorschriften dieses Kapitels.
+
+(2) Ein Vertrag über die Instandhaltung eines Bauwerks ist ein
+Bauvertrag, wenn das Werk für die Konstruktion, den Bestand oder den
+bestimmungsgemäßen Gebrauch von wesentlicher Bedeutung ist.
+
+
+###### § 650b Änderung des Vertrags; Anordnungsrecht des Bestellers
+
+(1) Begehrt der Besteller
+
+1.  eine Änderung des vereinbarten Werkerfolgs (§ 631 Absatz 2) oder
+
+
+2.  eine Änderung, die zur Erreichung des vereinbarten Werkerfolgs
+    notwendig ist,
+
+
+
+streben die Vertragsparteien Einvernehmen über die Änderung und die
+infolge der Änderung zu leistende Mehr- oder Mindervergütung an. Der
+Unternehmer ist verpflichtet, ein Angebot über die Mehr- oder
+Mindervergütung zu erstellen, im Falle einer Änderung nach Satz 1
+Nummer 1 jedoch nur, wenn ihm die Ausführung der Änderung zumutbar
+ist. Macht der Unternehmer betriebsinterne Vorgänge für die
+Unzumutbarkeit einer Anordnung nach Absatz 1 Satz 1 Nummer 1 geltend,
+trifft ihn die Beweislast hierfür. Trägt der Besteller die
+Verantwortung für die Planung des Bauwerks oder der Außenanlage, ist
+der Unternehmer nur dann zur Erstellung eines Angebots über die Mehr-
+oder Mindervergütung verpflichtet, wenn der Besteller die für die
+Änderung erforderliche Planung vorgenommen und dem Unternehmer zur
+Verfügung gestellt hat. Begehrt der Besteller eine Änderung, für die
+dem Unternehmer nach § 650c Absatz 1 Satz 2 kein Anspruch auf
+Vergütung für vermehrten Aufwand zusteht, streben die Parteien nur
+Einvernehmen über die Änderung an; Satz 2 findet in diesem Fall keine
+Anwendung.
+
+(2) Erzielen die Parteien binnen 30 Tagen nach Zugang des
+Änderungsbegehrens beim Unternehmer keine Einigung nach Absatz 1, kann
+der Besteller die Änderung in Textform anordnen. Der Unternehmer ist
+verpflichtet, der Anordnung des Bestellers nachzukommen, einer
+Anordnung nach Absatz 1 Satz 1 Nummer 1 jedoch nur, wenn ihm die
+Ausführung zumutbar ist. Absatz 1 Satz 3 gilt entsprechend.
+
+
+###### § 650c Vergütungsanpassung bei Anordnungen nach § 650b Absatz 2
+
+(1) Die Höhe des Vergütungsanspruchs für den infolge einer Anordnung
+des Bestellers nach § 650b Absatz 2 vermehrten oder verminderten
+Aufwand ist nach den tatsächlich erforderlichen Kosten mit
+angemessenen Zuschlägen für allgemeine Geschäftskosten, Wagnis und
+Gewinn zu ermitteln. Umfasst die Leistungspflicht des Unternehmers
+auch die Planung des Bauwerks oder der Außenanlage, steht diesem im
+Fall des § 650b Absatz 1 Satz 1 Nummer 2 kein Anspruch auf Vergütung
+für vermehrten Aufwand zu.
+
+(2) Der Unternehmer kann zur Berechnung der Vergütung für den Nachtrag
+auf die Ansätze in einer vereinbarungsgemäß hinterlegten Urkalkulation
+zurückgreifen. Es wird vermutet, dass die auf Basis der Urkalkulation
+fortgeschriebene Vergütung der Vergütung nach Absatz 1 entspricht.
+
+(3) Bei der Berechnung von vereinbarten oder gemäß § 632a geschuldeten
+Abschlagszahlungen kann der Unternehmer 80 Prozent einer in einem
+Angebot nach § 650b Absatz 1 Satz 2 genannten Mehrvergütung ansetzen,
+wenn sich die Parteien nicht über die Höhe geeinigt haben oder keine
+anderslautende gerichtliche Entscheidung ergeht. Wählt der Unternehmer
+diesen Weg und ergeht keine anderslautende gerichtliche Entscheidung,
+wird die nach den Absätzen 1 und 2 geschuldete Mehrvergütung erst nach
+der Abnahme des Werks fällig. Zahlungen nach Satz 1, die die nach den
+Absätzen 1 und 2 geschuldete Mehrvergütung übersteigen, sind dem
+Besteller zurückzugewähren und ab ihrem Eingang beim Unternehmer zu
+verzinsen. § 288 Absatz 1 Satz 2, Absatz 2 und § 289 Satz 1 gelten
+entsprechend.
+
+
+###### § 650d Einstweilige Verfügung
+
+Zum Erlass einer einstweiligen Verfügung in Streitigkeiten über das
+Anordnungsrecht gemäß § 650b oder die Vergütungsanpassung gemäß § 650c
+ist es nach Beginn der Bauausführung nicht erforderlich, dass der
+Verfügungsgrund glaubhaft gemacht wird.
+
+
+###### § 650e Sicherungshypothek des Bauunternehmers
+
+Der Unternehmer kann für seine Forderungen aus dem Vertrag die
+Einräumung einer Sicherungshypothek an dem Baugrundstück des
+Bestellers verlangen. Ist das Werk noch nicht vollendet, so kann er
+die Einräumung der Sicherungshypothek für einen der geleisteten Arbeit
 entsprechenden Teil der Vergütung und für die in der Vergütung nicht
 inbegriffenen Auslagen verlangen.
 
-(2) Der Inhaber einer Schiffswerft kann für seine Forderungen aus dem
-Bau oder der Ausbesserung eines Schiffes die Einräumung einer
-Schiffshypothek an dem Schiffsbauwerk oder dem Schiff des Bestellers
-verlangen; Absatz 1 Satz 2 gilt sinngemäß. § 647 findet keine
-Anwendung.
 
+###### § 650f Bauhandwerkersicherung
 
-###### § 648a Bauhandwerkersicherung
-
-(1) Der Unternehmer eines Bauwerks, einer Außenanlage oder eines Teils
-davon kann vom Besteller Sicherheit für die auch in Zusatzaufträgen
-vereinbarte und noch nicht gezahlte Vergütung einschließlich
-dazugehöriger Nebenforderungen, die mit 10 vom Hundert des zu
-sichernden Vergütungsanspruchs anzusetzen sind, verlangen. Satz 1 gilt
-in demselben Umfang auch für Ansprüche, die an die Stelle der
+(1) Der Unternehmer kann vom Besteller Sicherheit für die auch in
+Zusatzaufträgen vereinbarte und noch nicht gezahlte Vergütung
+einschließlich dazugehöriger Nebenforderungen, die mit 10 Prozent des
+zu sichernden Vergütungsanspruchs anzusetzen sind, verlangen. Satz 1
+gilt in demselben Umfang auch für Ansprüche, die an die Stelle der
 Vergütung treten. Der Anspruch des Unternehmers auf Sicherheit wird
 nicht dadurch ausgeschlossen, dass der Besteller Erfüllung verlangen
 kann oder das Werk abgenommen hat. Ansprüche, mit denen der Besteller
@@ -11889,16 +13716,15 @@ und die Voraussetzungen vorliegen, unter denen die Zwangsvollstreckung
 begonnen werden darf.
 
 (3) Der Unternehmer hat dem Besteller die üblichen Kosten der
-Sicherheitsleistung bis zu einem Höchstsatz von 2 vom Hundert für das
-Jahr zu erstatten. Dies gilt nicht, soweit eine Sicherheit wegen
+Sicherheitsleistung bis zu einem Höchstsatz von 2 Prozent für das Jahr
+zu erstatten. Dies gilt nicht, soweit eine Sicherheit wegen
 Einwendungen des Bestellers gegen den Vergütungsanspruch des
 Unternehmers aufrechterhalten werden muss und die Einwendungen sich
 als unbegründet erweisen.
 
 (4) Soweit der Unternehmer für seinen Vergütungsanspruch eine
-Sicherheit nach den Absätzen 1 oder 2 erlangt hat, ist der Anspruch
-auf Einräumung einer Sicherungshypothek nach § 648 Abs. 1
-ausgeschlossen.
+Sicherheit nach Absatz 1 oder 2 erlangt hat, ist der Anspruch auf
+Einräumung einer Sicherungshypothek nach § 650e ausgeschlossen.
 
 (5) Hat der Unternehmer dem Besteller erfolglos eine angemessene Frist
 zur Leistung der Sicherheit nach Absatz 1 bestimmt, so kann der
@@ -11908,300 +13734,1075 @@ Vergütung zu verlangen; er muss sich jedoch dasjenige anrechnen
 lassen, was er infolge der Aufhebung des Vertrages an Aufwendungen
 erspart oder durch anderweitige Verwendung seiner Arbeitskraft erwirbt
 oder böswillig zu erwerben unterlässt. Es wird vermutet, dass danach
-dem Unternehmer 5 vom Hundert der auf den noch nicht erbrachten Teil
-der Werkleistung entfallenden vereinbarten Vergütung zustehen.
+dem Unternehmer 5 Prozent der auf den noch nicht erbrachten Teil der
+Werkleistung entfallenden vereinbarten Vergütung zustehen.
 
-(6) Die Vorschriften der Absätze 1 bis 5 finden keine Anwendung, wenn
-der Besteller
+(6) Die Absätze 1 bis 5 finden keine Anwendung, wenn der Besteller
 
 1.  eine juristische Person des öffentlichen Rechts oder ein öffentlich-
     rechtliches Sondervermögen ist, über deren Vermögen ein
     Insolvenzverfahren unzulässig ist, oder
 
 
-2.  eine natürliche Person ist und die Bauarbeiten zur Herstellung oder
-    Instandsetzung eines Einfamilienhauses mit oder ohne Einliegerwohnung
-    ausführen lässt.
+2.  Verbraucher ist und es sich um einen Verbraucherbauvertrag nach § 650i
+    oder um einen Bauträgervertrag nach § 650u handelt.
 
 
 
-Satz 1 Nr. 2 gilt nicht bei Betreuung des Bauvorhabens durch einen zur
-Verfügung über die Finanzierungsmittel des Bestellers ermächtigten
+Satz 1 Nummer 2 gilt nicht bei Betreuung des Bauvorhabens durch einen
+zur Verfügung über die Finanzierungsmittel des Bestellers ermächtigten
 Baubetreuer.
 
-(7) Eine von den Vorschriften der Absätze 1 bis 5 abweichende
-Vereinbarung ist unwirksam.
+(7) Eine von den Absätzen 1 bis 5 abweichende Vereinbarung ist
+unwirksam.
 
 
-###### § 649 Kündigungsrecht des Bestellers
+###### § 650g Zustandsfeststellung bei Verweigerung der Abnahme; Schlussrechnung
 
-Der Besteller kann bis zur Vollendung des Werkes jederzeit den Vertrag
-kündigen. Kündigt der Besteller, so ist der Unternehmer berechtigt,
-die vereinbarte Vergütung zu verlangen; er muss sich jedoch dasjenige
-anrechnen lassen, was er infolge der Aufhebung des Vertrags an
-Aufwendungen erspart oder durch anderweitige Verwendung seiner
-Arbeitskraft erwirbt oder zu erwerben böswillig unterlässt. Es wird
-vermutet, dass danach dem Unternehmer 5 vom Hundert der auf den noch
-nicht erbrachten Teil der Werkleistung entfallenden vereinbarten
-Vergütung zustehen.
+(1) Verweigert der Besteller die Abnahme unter Angabe von Mängeln, hat
+er auf Verlangen des Unternehmers an einer gemeinsamen Feststellung
+des Zustands des Werks mitzuwirken. Die gemeinsame
+Zustandsfeststellung soll mit der Angabe des Tages der Anfertigung
+versehen werden und ist von beiden Vertragsparteien zu unterschreiben.
 
+(2) Bleibt der Besteller einem vereinbarten oder einem von dem
+Unternehmer innerhalb einer angemessenen Frist bestimmten Termin zur
+Zustandsfeststellung fern, so kann der Unternehmer die
+Zustandsfeststellung auch einseitig vornehmen. Dies gilt nicht, wenn
+der Besteller infolge eines Umstands fernbleibt, den er nicht zu
+vertreten hat und den er dem Unternehmer unverzüglich mitgeteilt hat.
+Der Unternehmer hat die einseitige Zustandsfeststellung mit der Angabe
+des Tages der Anfertigung zu versehen und sie zu unterschreiben sowie
+dem Besteller eine Abschrift der einseitigen Zustandsfeststellung zur
+Verfügung zu stellen.
 
-###### § 650 Kostenanschlag
+(3) Ist das Werk dem Besteller verschafft worden und ist in der
+Zustandsfeststellung nach Absatz 1 oder 2 ein offenkundiger Mangel
+nicht angegeben, wird vermutet, dass dieser nach der
+Zustandsfeststellung entstanden und vom Besteller zu vertreten ist.
+Die Vermutung gilt nicht, wenn der Mangel nach seiner Art nicht vom
+Besteller verursacht worden sein kann.
 
-(1) Ist dem Vertrag ein Kostenanschlag zugrunde gelegt worden, ohne
-dass der Unternehmer die Gewähr für die Richtigkeit des Anschlags
-übernommen hat, und ergibt sich, dass das Werk nicht ohne eine
-wesentliche Überschreitung des Anschlags ausführbar ist, so steht dem
-Unternehmer, wenn der Besteller den Vertrag aus diesem Grund kündigt,
-nur der im § 645 Abs. 1 bestimmte Anspruch zu.
+(4) Die Vergütung ist zu entrichten, wenn
 
-(2) Ist eine solche Überschreitung des Anschlags zu erwarten, so hat
-der Unternehmer dem Besteller unverzüglich Anzeige zu machen.
-
-
-###### § 651 Anwendung des Kaufrechts
-
-Auf einen Vertrag, der die Lieferung herzustellender oder zu
-erzeugender beweglicher Sachen zum Gegenstand hat, finden die
-Vorschriften über den Kauf Anwendung. § 442 Abs. 1 Satz 1 findet bei
-diesen Verträgen auch Anwendung, wenn der Mangel auf den vom Besteller
-gelieferten Stoff zurückzuführen ist. Soweit es sich bei den
-herzustellenden oder zu erzeugenden beweglichen Sachen um nicht
-vertretbare Sachen handelt, sind auch die §§ 642, 643, 645, 649 und
-650 mit der Maßgabe anzuwenden, dass an die Stelle der Abnahme der
-nach den §§ 446 und 447 maßgebliche Zeitpunkt tritt.
-
-[^BJNR001950896BJNE066703377_001]:     **Amtlicher Hinweis:**              Diese Vorschrift dient der
-    Umsetzung der Richtlinie 1999/44/EG des Europäischen Parlaments und
-    des Rates vom 25. Mai 1999 zu bestimmten Aspekten des
-    Verbrauchsgüterkaufs und der Garantien für Verbrauchsgüter (ABl. EG
-    Nr. L 171 S. 12).
+1.  der Besteller das Werk abgenommen hat oder die Abnahme nach § 641
+    Absatz 2 entbehrlich ist und
 
 
-##### Untertitel 2 - Reisevertrag
+2.  der Unternehmer dem Besteller eine prüffähige Schlussrechnung erteilt
+    hat.
 
 
-[^BJNR001950896BJNG005802377_001]:     **Amtlicher Hinweis:**              Dieser Untertitel dient der
-    Umsetzung der Richtlinie 90/314/EWG des Europäischen Parlaments und
-    des Rates vom 13. Juni 1990 über Pauschalreisen (ABl. EG Nr. L 158 S.
-    59).
+
+Die Schlussrechnung ist prüffähig, wenn sie eine übersichtliche
+Aufstellung der erbrachten Leistungen enthält und für den Besteller
+nachvollziehbar ist. Sie gilt als prüffähig, wenn der Besteller nicht
+innerhalb von 30 Tagen nach Zugang der Schlussrechnung begründete
+Einwendungen gegen ihre Prüffähigkeit erhoben hat.
 
 
-###### § 651a Vertragstypische Pflichten beim Reisevertrag
+###### § 650h Schriftform der Kündigung
 
-(1) Durch den Reisevertrag wird der Reiseveranstalter verpflichtet,
-dem Reisenden eine Gesamtheit von Reiseleistungen (Reise) zu
-erbringen. Der Reisende ist verpflichtet, dem Reiseveranstalter den
+Die Kündigung des Bauvertrags bedarf der schriftlichen Form.
+
+
+###### Kapitel 3 - Verbraucherbauvertrag
+
+
+###### § 650i Verbraucherbauvertrag
+
+(1) Verbraucherbauverträge sind Verträge, durch die der Unternehmer
+von einem Verbraucher zum Bau eines neuen Gebäudes oder zu erheblichen
+Umbaumaßnahmen an einem bestehenden Gebäude verpflichtet wird.
+
+(2) Der Verbraucherbauvertrag bedarf der Textform.
+
+(3) Für Verbraucherbauverträge gelten ergänzend die folgenden
+Vorschriften dieses Kapitels.
+
+
+###### § 650j Baubeschreibung
+
+Der Unternehmer hat den Verbraucher über die sich aus Artikel 249 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche ergebenden
+Einzelheiten in der dort vorgesehenen Form zu unterrichten, es sei
+denn, der Verbraucher oder ein von ihm Beauftragter macht die
+wesentlichen Planungsvorgaben.
+
+
+###### § 650k Inhalt des Vertrags
+
+(1) Die Angaben der vorvertraglich zur Verfügung gestellten
+Baubeschreibung in Bezug auf die Bauausführung werden Inhalt des
+Vertrags, es sei denn, die Vertragsparteien haben ausdrücklich etwas
+anderes vereinbart.
+
+(2) Soweit die Baubeschreibung unvollständig oder unklar ist, ist der
+Vertrag unter Berücksichtigung sämtlicher vertragsbegleitender
+Umstände, insbesondere des Komfort- und Qualitätsstandards nach der
+übrigen Leistungsbeschreibung, auszulegen. Zweifel bei der Auslegung
+des Vertrags bezüglich der vom Unternehmer geschuldeten Leistung gehen
+zu dessen Lasten.
+
+(3) Der Bauvertrag muss verbindliche Angaben zum Zeitpunkt der
+Fertigstellung des Werks oder, wenn dieser Zeitpunkt zum Zeitpunkt des
+Abschlusses des Bauvertrags nicht angegeben werden kann, zur Dauer der
+Bauausführung enthalten. Enthält der Vertrag diese Angaben nicht,
+werden die vorvertraglich in der Baubeschreibung übermittelten Angaben
+zum Zeitpunkt der Fertigstellung des Werks oder zur Dauer der
+Bauausführung Inhalt des Vertrags.
+
+
+###### § 650l Widerrufsrecht
+
+Dem Verbraucher steht ein Widerrufsrecht gemäß § 355 zu, es sei denn,
+der Vertrag wurde notariell beurkundet. Der Unternehmer ist
+verpflichtet, den Verbraucher nach Maßgabe des Artikels 249 § 3 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche über sein
+Widerrufsrecht zu belehren.
+
+
+###### § 650m Abschlagszahlungen; Absicherung des Vergütungsanspruchs
+
+(1) Verlangt der Unternehmer Abschlagszahlungen nach § 632a, darf der
+Gesamtbetrag der Abschlagszahlungen 90 Prozent der vereinbarten
+Gesamtvergütung einschließlich der Vergütung für Nachtragsleistungen
+nach § 650c nicht übersteigen.
+
+(2) Dem Verbraucher ist bei der ersten Abschlagszahlung eine
+Sicherheit für die rechtzeitige Herstellung des Werks ohne wesentliche
+Mängel in Höhe von 5 Prozent der vereinbarten Gesamtvergütung zu
+leisten. Erhöht sich der Vergütungsanspruch infolge einer Anordnung
+des Verbrauchers nach den §§ 650b und 650c oder infolge sonstiger
+Änderungen oder Ergänzungen des Vertrags um mehr als 10 Prozent, ist
+dem Verbraucher bei der nächsten Abschlagszahlung eine weitere
+Sicherheit in Höhe von 5 Prozent des zusätzlichen Vergütungsanspruchs
+zu leisten. Auf Verlangen des Unternehmers ist die Sicherheitsleistung
+durch Einbehalt dergestalt zu erbringen, dass der Verbraucher die
+Abschlagszahlungen bis zu dem Gesamtbetrag der geschuldeten Sicherheit
+zurückhält.
+
+(3) Sicherheiten nach Absatz 2 können auch durch eine Garantie oder
+ein sonstiges Zahlungsversprechen eines im Geltungsbereich dieses
+Gesetzes zum Geschäftsbetrieb befugten Kreditinstituts oder
+Kreditversicherers geleistet werden.
+
+(4) Verlangt der Unternehmer Abschlagszahlungen nach § 632a, ist eine
+Vereinbarung unwirksam, die den Verbraucher zu einer
+Sicherheitsleistung für die vereinbarte Vergütung verpflichtet, die
+die nächste Abschlagszahlung oder 20 Prozent der vereinbarten
+Vergütung übersteigt. Gleiches gilt, wenn die Parteien
+Abschlagszahlungen vereinbart haben.
+
+
+###### § 650n Erstellung und Herausgabe von Unterlagen
+
+(1) Rechtzeitig vor Beginn der Ausführung einer geschuldeten Leistung
+hat der Unternehmer diejenigen Planungsunterlagen zu erstellen und dem
+Verbraucher herauszugeben, die dieser benötigt, um gegenüber Behörden
+den Nachweis führen zu können, dass die Leistung unter Einhaltung der
+einschlägigen öffentlich-rechtlichen Vorschriften ausgeführt werden
+wird. Die Pflicht besteht nicht, soweit der Verbraucher oder ein von
+ihm Beauftragter die wesentlichen Planungsvorgaben erstellt.
+
+(2) Spätestens mit der Fertigstellung des Werks hat der Unternehmer
+diejenigen Unterlagen zu erstellen und dem Verbraucher herauszugeben,
+die dieser benötigt, um gegenüber Behörden den Nachweis führen zu
+können, dass die Leistung unter Einhaltung der einschlägigen
+öffentlich-rechtlichen Vorschriften ausgeführt worden ist.
+
+(3) Die Absätze 1 und 2 gelten entsprechend, wenn ein Dritter, etwa
+ein Darlehensgeber, Nachweise für die Einhaltung bestimmter
+Bedingungen verlangt und wenn der Unternehmer die berechtigte
+Erwartung des Verbrauchers geweckt hat, diese Bedingungen einzuhalten.
+
+
+###### Kapitel 4 - Unabdingbarkeit
+
+
+###### § 650o Abweichende Vereinbarungen
+
+Von § 640 Absatz 2 Satz 2, den §§ 650i bis 650l und 650n kann nicht
+zum Nachteil des Verbrauchers abgewichen werden. Diese Vorschriften
+finden auch Anwendung, wenn sie durch anderweitige Gestaltungen
+umgangen werden.
+
+
+##### Untertitel 2 - Architektenvertrag und Ingenieurvertrag
+
+
+###### § 650p Vertragstypische Pflichten aus Architekten- und Ingenieurverträgen
+
+(1) Durch einen Architekten- oder Ingenieurvertrag wird der
+Unternehmer verpflichtet, die Leistungen zu erbringen, die nach dem
+jeweiligen Stand der Planung und Ausführung des Bauwerks oder der
+Außenanlage erforderlich sind, um die zwischen den Parteien
+vereinbarten Planungs- und Überwachungsziele zu erreichen.
+
+(2) Soweit wesentliche Planungs- und Überwachungsziele noch nicht
+vereinbart sind, hat der Unternehmer zunächst eine Planungsgrundlage
+zur Ermittlung dieser Ziele zu erstellen. Er legt dem Besteller die
+Planungsgrundlage zusammen mit einer Kosteneinschätzung für das
+Vorhaben zur Zustimmung vor.
+
+
+###### § 650q Anwendbare Vorschriften
+
+(1) Für Architekten- und Ingenieurverträge gelten die Vorschriften des
+Kapitels 1 des Untertitels 1 sowie die §§ 650b, 650e bis 650h
+entsprechend, soweit sich aus diesem Untertitel nichts anderes ergibt.
+
+(2) Für die Vergütungsanpassung im Fall von Anordnungen nach § 650b
+Absatz 2 gelten die Entgeltberechnungsregeln der Honorarordnung für
+Architekten und Ingenieure in der jeweils geltenden Fassung, soweit
+infolge der Anordnung zu erbringende oder entfallende Leistungen vom
+Anwendungsbereich der Honorarordnung erfasst werden. Im Übrigen ist
+die Vergütungsanpassung für den vermehrten oder verminderten Aufwand
+auf Grund der angeordneten Leistung frei vereinbar. Soweit die
+Vertragsparteien keine Vereinbarung treffen, gilt § 650c entsprechend.
+
+
+###### § 650r Sonderkündigungsrecht
+
+(1) Nach Vorlage von Unterlagen gemäß § 650p Absatz 2 kann der
+Besteller den Vertrag kündigen. Das Kündigungsrecht erlischt zwei
+Wochen nach Vorlage der Unterlagen, bei einem Verbraucher jedoch nur
+dann, wenn der Unternehmer ihn bei der Vorlage der Unterlagen in
+Textform über das Kündigungsrecht, die Frist, in der es ausgeübt
+werden kann, und die Rechtsfolgen der Kündigung unterrichtet hat.
+
+(2) Der Unternehmer kann dem Besteller eine angemessene Frist für die
+Zustimmung nach § 650p Absatz 2 Satz 2 setzen. Er kann den Vertrag
+kündigen, wenn der Besteller die Zustimmung verweigert oder innerhalb
+der Frist nach Satz 1 keine Erklärung zu den Unterlagen abgibt.
+
+(3) Wird der Vertrag nach Absatz 1 oder 2 gekündigt, ist der
+Unternehmer nur berechtigt, die Vergütung zu verlangen, die auf die
+bis zur Kündigung erbrachten Leistungen entfällt.
+
+
+###### § 650s Teilabnahme
+
+Der Unternehmer kann ab der Abnahme der letzten Leistung des
+bauausführenden Unternehmers oder der bauausführenden Unternehmer eine
+Teilabnahme der von ihm bis dahin erbrachten Leistungen verlangen.
+
+
+###### § 650t Gesamtschuldnerische Haftung mit dem bauausführenden Unternehmer
+
+Nimmt der Besteller den Unternehmer wegen eines Überwachungsfehlers in
+Anspruch, der zu einem Mangel an dem Bauwerk oder an der Außenanlage
+geführt hat, kann der Unternehmer die Leistung verweigern, wenn auch
+der ausführende Bauunternehmer für den Mangel haftet und der Besteller
+dem bauausführenden Unternehmer noch nicht erfolglos eine angemessene
+Frist zur Nacherfüllung bestimmt hat.
+
+
+##### Untertitel 3 - Bauträgervertrag
+
+
+###### § 650u Bauträgervertrag; anwendbare Vorschriften
+
+(1) Ein Bauträgervertrag ist ein Vertrag, der die Errichtung oder den
+Umbau eines Hauses oder eines vergleichbaren Bauwerks zum Gegenstand
+hat und der zugleich die Verpflichtung des Unternehmers enthält, dem
+Besteller das Eigentum an dem Grundstück zu übertragen oder ein
+Erbbaurecht zu bestellen oder zu übertragen. Hinsichtlich der
+Errichtung oder des Umbaus finden die Vorschriften des Untertitels 1
+Anwendung, soweit sich aus den nachfolgenden Vorschriften nichts
+anderes ergibt. Hinsichtlich des Anspruchs auf Übertragung des
+Eigentums an dem Grundstück oder auf Übertragung oder Bestellung des
+Erbbaurechts finden die Vorschriften über den Kauf Anwendung.
+
+(2) Keine Anwendung finden die §§ 648, 648a, 650b bis 650e, 650k
+Absatz 1 sowie die §§ 650l und 650m Absatz 1.
+
+
+###### § 650v Abschlagszahlungen
+
+Der Unternehmer kann von dem Besteller Abschlagszahlungen nur
+verlangen, soweit sie gemäß einer Verordnung auf Grund von Artikel 244
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche vereinbart sind.
+
+
+##### Untertitel 4 - Pauschalreisevertrag, Reisevermittlung und Vermittlung verbundener Reiseleistungen
+
+
+###### § 651a Vertragstypische Pflichten beim Pauschalreisevertrag
+
+(1) Durch den Pauschalreisevertrag wird der Unternehmer
+(Reiseveranstalter) verpflichtet, dem Reisenden eine Pauschalreise zu
+verschaffen. Der Reisende ist verpflichtet, dem Reiseveranstalter den
 vereinbarten Reisepreis zu zahlen.
 
-(2) Die Erklärung, nur Verträge mit den Personen zu vermitteln, welche
-die einzelnen Reiseleistungen ausführen sollen (Leistungsträger),
-bleibt unberücksichtigt, wenn nach den sonstigen Umständen der
-Anschein begründet wird, dass der Erklärende vertraglich vorgesehene
-Reiseleistungen in eigener Verantwortung erbringt.
+(2) Eine Pauschalreise ist eine Gesamtheit von mindestens zwei
+verschiedenen Arten von Reiseleistungen für den Zweck derselben Reise.
+Eine Pauschalreise liegt auch dann vor, wenn
 
-(3) Der Reiseveranstalter hat dem Reisenden bei oder unverzüglich nach
-Vertragsschluss eine Urkunde über den Reisevertrag (Reisebestätigung)
-zur Verfügung zu stellen. Die Reisebestätigung und ein Prospekt, den
-der Reiseveranstalter zur Verfügung stellt, müssen die in der
-Rechtsverordnung nach Artikel 238 des Einführungsgesetzes zum
-Bürgerlichen Gesetzbuche bestimmten Angaben enthalten.
-
-(4) Der Reiseveranstalter kann den Reisepreis nur erhöhen, wenn dies
-mit genauen Angaben zur Berechnung des neuen Preises im Vertrag
-vorgesehen ist und damit einer Erhöhung der Beförderungskosten, der
-Abgaben für bestimmte Leistungen, wie Hafen- oder Flughafengebühren,
-oder einer Änderung der für die betreffende Reise geltenden
-Wechselkurse Rechnung getragen wird. Eine Preiserhöhung, die ab dem
-20\. Tage vor dem vereinbarten Abreisetermin verlangt wird, ist
-unwirksam. § 309 Nr. 1 bleibt unberührt.
-
-(5) Der Reiseveranstalter hat eine Änderung des Reisepreises nach
-Absatz 4, eine zulässige Änderung einer wesentlichen Reiseleistung
-oder eine zulässige Absage der Reise dem Reisenden unverzüglich nach
-Kenntnis von dem Änderungs- oder Absagegrund zu erklären. Im Falle
-einer Erhöhung des Reisepreises um mehr als fünf vom Hundert oder
-einer erheblichen Änderung einer wesentlichen Reiseleistung kann der
-Reisende vom Vertrag zurücktreten. Er kann stattdessen, ebenso wie bei
-einer Absage der Reise durch den Reiseveranstalter, die Teilnahme an
-einer mindestens gleichwertigen anderen Reise verlangen, wenn der
-Reiseveranstalter in der Lage ist, eine solche Reise ohne Mehrpreis
-für den Reisenden aus seinem Angebot anzubieten. Der Reisende hat
-diese Rechte unverzüglich nach der Erklärung durch den
-Reiseveranstalter diesem gegenüber geltend zu machen.
+1.  die von dem Vertrag umfassten Reiseleistungen auf Wunsch des Reisenden
+    oder entsprechend seiner Auswahl zusammengestellt wurden oder
 
 
-###### § 651b Vertragsübertragung
-
-(1) Bis zum Reisebeginn kann der Reisende verlangen, dass statt seiner
-ein Dritter in die Rechte und Pflichten aus dem Reisevertrag eintritt.
-Der Reiseveranstalter kann dem Eintritt des Dritten widersprechen,
-wenn dieser den besonderen Reiseerfordernissen nicht genügt oder
-seiner Teilnahme gesetzliche Vorschriften oder behördliche Anordnungen
-entgegenstehen.
-
-(2) Tritt ein Dritter in den Vertrag ein, so haften er und der
-Reisende dem Reiseveranstalter als Gesamtschuldner für den Reisepreis
-und die durch den Eintritt des Dritten entstehenden Mehrkosten.
+2.  der Reiseveranstalter dem Reisenden in dem Vertrag das Recht einräumt,
+    die Auswahl der Reiseleistungen aus seinem Angebot nach
+    Vertragsschluss zu treffen.
 
 
-###### § 651c Abhilfe
-
-(1) Der Reiseveranstalter ist verpflichtet, die Reise so zu erbringen,
-dass sie die zugesicherten Eigenschaften hat und nicht mit Fehlern
-behaftet ist, die den Wert oder die Tauglichkeit zu dem gewöhnlichen
-oder nach dem Vertrag vorausgesetzten Nutzen aufheben oder mindern.
-
-(2) Ist die Reise nicht von dieser Beschaffenheit, so kann der
-Reisende Abhilfe verlangen. Der Reiseveranstalter kann die Abhilfe
-verweigern, wenn sie einen unverhältnismäßigen Aufwand erfordert.
-
-(3) Leistet der Reiseveranstalter nicht innerhalb einer vom Reisenden
-bestimmten angemessenen Frist Abhilfe, so kann der Reisende selbst
-Abhilfe schaffen und Ersatz der erforderlichen Aufwendungen verlangen.
-Der Bestimmung einer Frist bedarf es nicht, wenn die Abhilfe von dem
-Reiseveranstalter verweigert wird oder wenn die sofortige Abhilfe
-durch ein besonderes Interesse des Reisenden geboten wird.
 
 
-###### § 651d Minderung
+(3) Reiseleistungen im Sinne dieses Gesetzes sind
 
-(1) Ist die Reise im Sinne des § 651c Abs. 1 mangelhaft, so mindert
-sich für die Dauer des Mangels der Reisepreis nach Maßgabe des § 638
-Abs. 3. § 638 Abs. 4 findet entsprechende Anwendung.
-
-(2) Die Minderung tritt nicht ein, soweit es der Reisende schuldhaft
-unterlässt, den Mangel anzuzeigen.
+1.  die Beförderung von Personen,
 
 
-###### § 651e Kündigung wegen Mangels
+2.  die Beherbergung, außer wenn sie Wohnzwecken dient,
 
-(1) Wird die Reise infolge eines Mangels der in § 651c bezeichneten
-Art erheblich beeinträchtigt, so kann der Reisende den Vertrag
-kündigen. Dasselbe gilt, wenn ihm die Reise infolge eines solchen
-Mangels aus wichtigem, dem Reiseveranstalter erkennbaren Grund nicht
-zuzumuten ist.
 
-(2) Die Kündigung ist erst zulässig, wenn der Reiseveranstalter eine
-ihm vom Reisenden bestimmte angemessene Frist hat verstreichen lassen,
-ohne Abhilfe zu leisten. Der Bestimmung einer Frist bedarf es nicht,
-wenn die Abhilfe unmöglich ist oder vom Reiseveranstalter verweigert
-wird oder wenn die sofortige Kündigung des Vertrags durch ein
-besonderes Interesse des Reisenden gerechtfertigt wird.
+3.  die Vermietung
 
-(3) Wird der Vertrag gekündigt, so verliert der Reiseveranstalter den
-Anspruch auf den vereinbarten Reisepreis. Er kann jedoch für die
-bereits erbrachten oder zur Beendigung der Reise noch zu erbringenden
-Reiseleistungen eine nach § 638 Abs. 3 zu bemessende Entschädigung
-verlangen. Dies gilt nicht, soweit diese Leistungen infolge der
-Aufhebung des Vertrags für den Reisenden kein Interesse haben.
+    a)  von vierrädrigen Kraftfahrzeugen gemäß § 3 Absatz 1 der EG-
+        Fahrzeuggenehmigungsverordnung vom 3. Februar 2011 (BGBl. I S. 126),
+        die zuletzt durch Artikel 7 der Verordnung vom 23. März 2017 (BGBl. I
+        S. 522) geändert worden ist, und
 
-(4) Der Reiseveranstalter ist verpflichtet, die infolge der Aufhebung
+
+    b)  von Krafträdern der Fahrerlaubnisklasse A gemäß § 6 Absatz 1 der
+        Fahrerlaubnis-Verordnung vom 13. Dezember 2010 (BGBl. I S. 1980), die
+        zuletzt durch Artikel 4 der Verordnung vom 18. Mai 2017 (BGBl. I S.
+        1282) geändert worden ist,
+
+
+
+
+
+4.  jede touristische Leistung, die nicht Reiseleistung im Sinne der
+    Nummern 1 bis 3 ist.
+
+
+
+Nicht als Reiseleistungen nach Satz 1 gelten Reiseleistungen, die
+wesensmäßig Bestandteil einer anderen Reiseleistung sind.
+
+(4) Keine Pauschalreise liegt vor, wenn nur eine Art von Reiseleistung
+im Sinne des Absatzes 3 Satz 1 Nummer 1 bis 3 mit einer oder mehreren
+touristischen Leistungen im Sinne des Absatzes 3 Satz 1 Nummer 4
+zusammengestellt wird und die touristischen Leistungen
+
+1.  keinen erheblichen Anteil am Gesamtwert der Zusammenstellung ausmachen
+    und weder ein wesentliches Merkmal der Zusammenstellung darstellen
+    noch als solches beworben werden oder
+
+
+2.  erst nach Beginn der Erbringung einer Reiseleistung im Sinne des
+    Absatzes 3 Satz 1 Nummer 1 bis 3 ausgewählt und vereinbart werden.
+
+
+
+Touristische Leistungen machen im Sinne des Satzes 1 Nummer 1 keinen
+erheblichen Anteil am Gesamtwert der Zusammenstellung aus, wenn auf
+sie weniger als 25 Prozent des Gesamtwertes entfallen.
+
+(5) Die Vorschriften über Pauschalreiseverträge gelten nicht für
+Verträge über Reisen, die
+
+1.  nur gelegentlich, nicht zum Zwecke der Gewinnerzielung und nur einem
+    begrenzten Personenkreis angeboten werden,
+
+
+2.  weniger als 24 Stunden dauern und keine Übernachtung umfassen
+    (Tagesreisen) und deren Reisepreis 500 Euro nicht übersteigt oder
+
+
+3.  auf der Grundlage eines Rahmenvertrags für die Organisation von
+    Geschäftsreisen mit einem Reisenden, der Unternehmer ist, für dessen
+    unternehmerische Zwecke geschlossen werden.
+
+
+
+
+
+###### § 651b Abgrenzung zur Vermittlung
+
+(1) Unbeschadet der §§ 651v und 651w gelten für die Vermittlung von
+Reiseleistungen die allgemeinen Vorschriften. Ein Unternehmer kann
+sich jedoch nicht darauf berufen, nur Verträge mit den Personen zu
+vermitteln, welche alle oder einzelne Reiseleistungen ausführen sollen
+(Leistungserbringer), wenn dem Reisenden mindestens zwei verschiedene
+Arten von Reiseleistungen für den Zweck derselben Reise erbracht
+werden sollen und
+
+1.  der Reisende die Reiseleistungen in einer einzigen Vertriebsstelle des
+    Unternehmers im Rahmen desselben Buchungsvorgangs auswählt, bevor er
+    sich zur Zahlung verpflichtet,
+
+
+2.  der Unternehmer die Reiseleistungen zu einem Gesamtpreis anbietet oder
+    zu verschaffen verspricht oder in Rechnung stellt oder
+
+
+3.  der Unternehmer die Reiseleistungen unter der Bezeichnung
+    „Pauschalreise“ oder unter einer ähnlichen Bezeichnung bewirbt oder
+    auf diese Weise zu verschaffen verspricht.
+
+
+
+In diesen Fällen ist der Unternehmer Reiseveranstalter. Der
+Buchungsvorgang im Sinne des Satzes 2 Nummer 1 beginnt noch nicht,
+wenn der Reisende hinsichtlich seines Reisewunsches befragt wird und
+zu Reiseangeboten lediglich beraten wird.
+
+(2) Vertriebsstellen im Sinne dieses Gesetzes sind
+
+1.  unbewegliche und bewegliche Gewerberäume,
+
+
+2.  Webseiten für den elektronischen Geschäftsverkehr und ähnliche Online-
+    Verkaufsplattformen,
+
+
+3.  Telefondienste.
+
+
+
+Wird bei mehreren Webseiten und ähnlichen Online-Verkaufsplattformen
+nach Satz 1 Nummer 2 der Anschein eines einheitlichen Auftritts
+begründet, handelt es sich um eine Vertriebsstelle.
+
+
+###### § 651c Verbundene Online-Buchungsverfahren
+
+(1) Ein Unternehmer, der mittels eines Online-Buchungsverfahrens mit
+dem Reisenden einen Vertrag über eine Reiseleistung geschlossen hat
+oder ihm auf demselben Weg einen solchen Vertrag vermittelt hat, ist
+als Reiseveranstalter anzusehen, wenn
+
+1.  er dem Reisenden für den Zweck derselben Reise mindestens einen
+    Vertrag über eine andere Art von Reiseleistung vermittelt, indem er
+    den Zugriff auf das Online-Buchungsverfahren eines anderen
+    Unternehmers ermöglicht,
+
+
+2.  er den Namen, die Zahlungsdaten und die E-Mail-Adresse des Reisenden
+    an den anderen Unternehmer übermittelt und
+
+
+3.  der weitere Vertrag spätestens 24 Stunden nach der Bestätigung des
+    Vertragsschlusses über die erste Reiseleistung geschlossen wird.
+
+
+
+
+(2) Kommen nach Absatz 1 ein Vertrag über eine andere Art von
+Reiseleistung oder mehrere Verträge über mindestens eine andere Art
+von Reiseleistung zustande, gelten vorbehaltlich des § 651a Absatz 4
+die vom Reisenden geschlossenen Verträge zusammen als ein
+Pauschalreisevertrag im Sinne des § 651a Absatz 1.
+
+(3) § 651a Absatz 5 Nummer 2 ist unabhängig von der Höhe des
+Reisepreises anzuwenden.
+
+
+###### § 651d Informationspflichten; Vertragsinhalt
+
+(1) Der Reiseveranstalter ist verpflichtet, den Reisenden, bevor
+dieser seine Vertragserklärung abgibt, nach Maßgabe des Artikels 250
+§§ 1 bis 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu
+informieren. Er erfüllt damit zugleich die Verpflichtungen des
+Reisevermittlers aus § 651v Absatz 1 Satz 1.
+
+(2) Dem Reisenden fallen zusätzliche Gebühren, Entgelte und sonstige
+Kosten nur dann zur Last, wenn er über diese vor Abgabe seiner
+Vertragserklärung gemäß Artikel 250 § 3 Nummer 3 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche informiert worden
+ist.
+
+(3) Die gemäß Artikel 250 § 3 Nummer 1, 3 bis 5 und 7 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche gemachten Angaben
+werden Inhalt des Vertrags, es sei denn, die Vertragsparteien haben
+ausdrücklich etwas anderes vereinbart. Der Reiseveranstalter hat dem
+Reisenden bei oder unverzüglich nach Vertragsschluss nach Maßgabe des
+Artikels 250 § 6 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+eine Abschrift oder Bestätigung des Vertrags zur Verfügung zu stellen.
+Er hat dem Reisenden rechtzeitig vor Reisebeginn gemäß Artikel 250 § 7
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche die notwendigen
+Reiseunterlagen zu übermitteln.
+
+(4) Der Reiseveranstalter trägt gegenüber dem Reisenden die Beweislast
+für die Erfüllung seiner Informationspflichten.
+
+(5) Bei Pauschalreiseverträgen nach § 651c gelten für den als
+Reiseveranstalter anzusehenden Unternehmer sowie für jeden anderen
+Unternehmer, dem nach § 651c Absatz 1 Nummer 2 Daten übermittelt
+werden, die besonderen Vorschriften des Artikels 250 §§ 4 und 8 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche. Im Übrigen bleiben
+die vorstehenden Absätze unberührt.
+
+
+###### § 651e Vertragsübertragung
+
+(1) Der Reisende kann innerhalb einer angemessenen Frist vor
+Reisebeginn auf einem dauerhaften Datenträger erklären, dass statt
+seiner ein Dritter in die Rechte und Pflichten aus dem
+Pauschalreisevertrag eintritt. Die Erklärung ist in jedem Fall
+rechtzeitig, wenn sie dem Reiseveranstalter nicht später als sieben
+Tage vor Reisebeginn zugeht.
+
+(2) Der Reiseveranstalter kann dem Eintritt des Dritten widersprechen,
+wenn dieser die vertraglichen Reiseerfordernisse nicht erfüllt.
+
+(3) Tritt ein Dritter in den Vertrag ein, haften er und der Reisende
+dem Reiseveranstalter als Gesamtschuldner für den Reisepreis und die
+durch den Eintritt des Dritten entstehenden Mehrkosten. Der
+Reiseveranstalter darf eine Erstattung von Mehrkosten nur fordern,
+wenn und soweit diese angemessen und ihm tatsächlich entstanden sind.
+
+(4) Der Reiseveranstalter hat dem Reisenden einen Nachweis darüber zu
+erteilen, in welcher Höhe durch den Eintritt des Dritten Mehrkosten
+entstanden sind.
+
+
+###### § 651f Änderungsvorbehalte; Preissenkung
+
+(1) Der Reiseveranstalter kann den Reisepreis einseitig nur erhöhen,
+wenn
+
+1.  der Vertrag diese Möglichkeit vorsieht und zudem einen Hinweis auf die
+    Verpflichtung des Reiseveranstalters zur Senkung des Reisepreises nach
+    Absatz 4 Satz 1 sowie die Angabe enthält, wie Änderungen des
+    Reisepreises zu berechnen sind, und
+
+
+2.  die Erhöhung des Reisepreises sich unmittelbar ergibt aus einer nach
+    Vertragsschluss erfolgten
+
+    a)  Erhöhung des Preises für die Beförderung von Personen aufgrund höherer
+        Kosten für Treibstoff oder andere Energieträger,
+
+
+    b)  Erhöhung der Steuern und sonstigen Abgaben für vereinbarte
+        Reiseleistungen, wie Touristenabgaben, Hafen- oder Flughafengebühren,
+        oder
+
+
+    c)  Änderung der für die betreffende Pauschalreise geltenden Wechselkurse.
+
+
+
+
+
+
+Der Reiseveranstalter hat den Reisenden auf einem dauerhaften
+Datenträger klar und verständlich über die Preiserhöhung und deren
+Gründe zu unterrichten und hierbei die Berechnung der Preiserhöhung
+mitzuteilen. Eine Preiserhöhung ist nur wirksam, wenn sie diesen
+Anforderungen entspricht und die Unterrichtung des Reisenden nicht
+später als 20 Tage vor Reisebeginn erfolgt.
+
+(2) Andere Vertragsbedingungen als den Reisepreis kann der
+Reiseveranstalter einseitig nur ändern, wenn dies im Vertrag
+vorgesehen und die Änderung unerheblich ist. Der Reiseveranstalter hat
+den Reisenden auf einem dauerhaften Datenträger klar, verständlich und
+in hervorgehobener Weise über die Änderung zu unterrichten. Eine
+Änderung ist nur wirksam, wenn sie diesen Anforderungen entspricht und
+vor Reisebeginn erklärt wird.
+
+(3) § 308 Nummer 4 und § 309 Nummer 1 sind auf Änderungsvorbehalte
+nach den Absätzen 1 und 2, die durch vorformulierte
+Vertragsbedingungen vereinbart werden, nicht anzuwenden.
+
+(4) Sieht der Vertrag die Möglichkeit einer Erhöhung des Reisepreises
+vor, kann der Reisende eine Senkung des Reisepreises verlangen, wenn
+und soweit sich die in Absatz 1 Satz 1 Nummer 2 genannten Preise,
+Abgaben oder Wechselkurse nach Vertragsschluss und vor Reisebeginn
+geändert haben und dies zu niedrigeren Kosten für den
+Reiseveranstalter führt. Hat der Reisende mehr als den hiernach
+geschuldeten Betrag gezahlt, ist der Mehrbetrag vom Reiseveranstalter
+zu erstatten. Der Reiseveranstalter darf von dem zu erstattenden
+Mehrbetrag die ihm tatsächlich entstandenen Verwaltungsausgaben
+abziehen. Er hat dem Reisenden auf dessen Verlangen nachzuweisen, in
+welcher Höhe Verwaltungsausgaben entstanden sind.
+
+
+###### § 651g Erhebliche Vertragsänderungen
+
+(1) Übersteigt die im Vertrag nach § 651f Absatz 1 vorbehaltene
+Preiserhöhung 8 Prozent des Reisepreises, kann der Reiseveranstalter
+sie nicht einseitig vornehmen. Er kann dem Reisenden jedoch eine
+entsprechende Preiserhöhung anbieten und verlangen, dass der Reisende
+innerhalb einer vom Reiseveranstalter bestimmten Frist, die angemessen
+sein muss,
+
+1.  das Angebot zur Preiserhöhung annimmt oder
+
+
+2.  seinen Rücktritt vom Vertrag erklärt.
+
+
+
+Satz 2 gilt für andere Vertragsänderungen als Preiserhöhungen
+entsprechend, wenn der Reiseveranstalter die Pauschalreise aus einem
+nach Vertragsschluss eingetretenen Umstand nur unter erheblicher
+Änderung einer der wesentlichen Eigenschaften der Reiseleistungen
+(Artikel 250 § 3 Nummer 1 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche) oder nur unter Abweichung von besonderen Vorgaben des
+Reisenden, die Inhalt des Vertrags geworden sind, verschaffen kann.
+Das Angebot zu einer Preiserhöhung kann nicht später als 20 Tage vor
+Reisebeginn, das Angebot zu sonstigen Vertragsänderungen nicht nach
+Reisebeginn unterbreitet werden.
+
+(2) Der Reiseveranstalter kann dem Reisenden in einem Angebot zu einer
+Preiserhöhung oder sonstigen Vertragsänderung nach Absatz 1 wahlweise
+auch die Teilnahme an einer anderen Pauschalreise (Ersatzreise)
+anbieten. Der Reiseveranstalter hat den Reisenden nach Maßgabe des
+Artikels 250 § 10 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
+zu informieren. Nach dem Ablauf der vom Reiseveranstalter bestimmten
+Frist gilt das Angebot zur Preiserhöhung oder sonstigen
+Vertragsänderung als angenommen.
+
+(3) Tritt der Reisende vom Vertrag zurück, findet § 651h Absatz 1 Satz
+2 und Absatz 5 entsprechende Anwendung; Ansprüche des Reisenden nach §
+651i Absatz 3 Nummer 7 bleiben unberührt. Nimmt er das Angebot zur
+Vertragsänderung oder zur Teilnahme an einer Ersatzreise an und ist
+die Pauschalreise im Vergleich zur ursprünglich geschuldeten nicht von
+mindestens gleichwertiger Beschaffenheit, gilt § 651m entsprechend;
+ist sie von gleichwertiger Beschaffenheit, aber für den
+Reiseveranstalter mit geringeren Kosten verbunden, ist im Hinblick auf
+den Unterschiedsbetrag § 651m Absatz 2 entsprechend anzuwenden.
+
+
+###### § 651h Rücktritt vor Reisebeginn
+
+(1) Vor Reisebeginn kann der Reisende jederzeit vom Vertrag
+zurücktreten. Tritt der Reisende vom Vertrag zurück, verliert der
+Reiseveranstalter den Anspruch auf den vereinbarten Reisepreis. Der
+Reiseveranstalter kann jedoch eine angemessene Entschädigung
+verlangen.
+
+(2) Im Vertrag können, auch durch vorformulierte Vertragsbedingungen,
+angemessene Entschädigungspauschalen festgelegt werden, die sich nach
+Folgendem bemessen:
+
+1.  Zeitraum zwischen der Rücktrittserklärung und dem Reisebeginn,
+
+
+2.  zu erwartende Ersparnis von Aufwendungen des Reiseveranstalters und
+
+
+3.  zu erwartender Erwerb durch anderweitige Verwendung der
+    Reiseleistungen.
+
+
+
+Werden im Vertrag keine Entschädigungspauschalen festgelegt, bestimmt
+sich die Höhe der Entschädigung nach dem Reisepreis abzüglich des
+Werts der vom Reiseveranstalter ersparten Aufwendungen sowie abzüglich
+dessen, was er durch anderweitige Verwendung der Reiseleistungen
+erwirbt. Der Reiseveranstalter ist auf Verlangen des Reisenden
+verpflichtet, die Höhe der Entschädigung zu begründen.
+
+(3) Abweichend von Absatz 1 Satz 3 kann der Reiseveranstalter keine
+Entschädigung verlangen, wenn am Bestimmungsort oder in dessen
+unmittelbarer Nähe unvermeidbare, außergewöhnliche Umstände auftreten,
+die die Durchführung der Pauschalreise oder die Beförderung von
+Personen an den Bestimmungsort erheblich beeinträchtigen. Umstände
+sind unvermeidbar und außergewöhnlich im Sinne dieses Untertitels,
+wenn sie nicht der Kontrolle der Partei unterliegen, die sich hierauf
+beruft, und sich ihre Folgen auch dann nicht hätten vermeiden lassen,
+wenn alle zumutbaren Vorkehrungen getroffen worden wären.
+
+(4) Der Reiseveranstalter kann vor Reisebeginn in den folgenden Fällen
+vom Vertrag zurücktreten:
+
+1.  für die Pauschalreise haben sich weniger Personen als die im Vertrag
+    angegebene Mindestteilnehmerzahl angemeldet; in diesem Fall hat der
+    Reiseveranstalter den Rücktritt innerhalb der im Vertrag bestimmten
+    Frist zu erklären, jedoch spätestens
+
+    a)  20 Tage vor Reisebeginn bei einer Reisedauer von mehr als sechs Tagen,
+
+
+    b)  sieben Tage vor Reisebeginn bei einer Reisedauer von mindestens zwei
+        und höchstens sechs Tagen,
+
+
+    c)  48 Stunden vor Reisebeginn bei einer Reisedauer von weniger als zwei
+        Tagen,
+
+
+
+
+
+2.  der Reiseveranstalter ist aufgrund unvermeidbarer, außergewöhnlicher
+    Umstände an der Erfüllung des Vertrags gehindert; in diesem Fall hat
+    er den Rücktritt unverzüglich nach Kenntnis von dem Rücktrittsgrund zu
+    erklären.
+
+
+
+Tritt der Reiseveranstalter vom Vertrag zurück, verliert er den
+Anspruch auf den vereinbarten Reisepreis.
+
+(5) Wenn der Reiseveranstalter infolge eines Rücktritts zur
+Rückerstattung des Reisepreises verpflichtet ist, hat er unverzüglich,
+auf jeden Fall aber innerhalb von 14 Tagen nach dem Rücktritt zu
+leisten.
+
+
+###### § 651i Rechte des Reisenden bei Reisemängeln
+
+(1) Der Reiseveranstalter hat dem Reisenden die Pauschalreise frei von
+Reisemängeln zu verschaffen.
+
+(2) Die Pauschalreise ist frei von Reisemängeln, wenn sie die
+vereinbarte Beschaffenheit hat. Soweit die Beschaffenheit nicht
+vereinbart ist, ist die Pauschalreise frei von Reisemängeln,
+
+1.  wenn sie sich für den nach dem Vertrag vorausgesetzten Nutzen eignet,
+    ansonsten
+
+
+2.  wenn sie sich für den gewöhnlichen Nutzen eignet und eine
+    Beschaffenheit aufweist, die bei Pauschalreisen der gleichen Art
+    üblich ist und die der Reisende nach der Art der Pauschalreise
+    erwarten kann.
+
+
+
+Ein Reisemangel liegt auch vor, wenn der Reiseveranstalter
+Reiseleistungen nicht oder mit unangemessener Verspätung verschafft.
+
+(3) Ist die Pauschalreise mangelhaft, kann der Reisende, wenn die
+Voraussetzungen der folgenden Vorschriften vorliegen und soweit nichts
+anderes bestimmt ist,
+
+1.  nach § 651k Absatz 1 Abhilfe verlangen,
+
+
+2.  nach § 651k Absatz 2 selbst Abhilfe schaffen und Ersatz der
+    erforderlichen Aufwendungen verlangen,
+
+
+3.  nach § 651k Absatz 3 Abhilfe durch andere Reiseleistungen
+    (Ersatzleistungen) verlangen,
+
+
+4.  nach § 651k Absatz 4 und 5 Kostentragung für eine notwendige
+    Beherbergung verlangen,
+
+
+5.  den Vertrag nach § 651l kündigen,
+
+
+6.  die sich aus einer Minderung des Reisepreises (§ 651m) ergebenden
+    Rechte geltend machen und
+
+
+7.  nach § 651n Schadensersatz oder nach § 284 Ersatz vergeblicher
+    Aufwendungen verlangen.
+
+
+
+
+
+###### § 651j Verjährung
+
+Die in § 651i Absatz 3 bezeichneten Ansprüche des Reisenden verjähren
+in zwei Jahren. Die Verjährungsfrist beginnt mit dem Tag, an dem die
+Pauschalreise dem Vertrag nach enden sollte.
+
+
+###### § 651k Abhilfe
+
+(1) Verlangt der Reisende Abhilfe, hat der Reiseveranstalter den
+Reisemangel zu beseitigen. Er kann die Abhilfe nur verweigern, wenn
+sie
+
+1.  unmöglich ist oder
+
+
+2.  unter Berücksichtigung des Ausmaßes des Reisemangels und des Werts der
+    betroffenen Reiseleistung mit unverhältnismäßigen Kosten verbunden
+    ist.
+
+
+
+
+(2) Leistet der Reiseveranstalter vorbehaltlich der Ausnahmen des
+Absatzes 1 Satz 2 nicht innerhalb einer vom Reisenden bestimmten
+angemessenen Frist Abhilfe, kann der Reisende selbst Abhilfe schaffen
+und Ersatz der erforderlichen Aufwendungen verlangen. Der Bestimmung
+einer Frist bedarf es nicht, wenn die Abhilfe vom Reiseveranstalter
+verweigert wird oder wenn sofortige Abhilfe notwendig ist.
+
+(3) Kann der Reiseveranstalter die Beseitigung des Reisemangels nach
+Absatz 1 Satz 2 verweigern und betrifft der Reisemangel einen
+erheblichen Teil der Reiseleistungen, hat der Reiseveranstalter
+Abhilfe durch angemessene Ersatzleistungen anzubieten. Haben die
+Ersatzleistungen zur Folge, dass die Pauschalreise im Vergleich zur
+ursprünglich geschuldeten nicht von mindestens gleichwertiger
+Beschaffenheit ist, hat der Reiseveranstalter dem Reisenden eine
+angemessene Herabsetzung des Reisepreises zu gewähren; die
+Angemessenheit richtet sich nach § 651m Absatz 1 Satz 2. Sind die
+Ersatzleistungen nicht mit den im Vertrag vereinbarten Leistungen
+vergleichbar oder ist die vom Reiseveranstalter angebotene
+Herabsetzung des Reisepreises nicht angemessen, kann der Reisende die
+Ersatzleistungen ablehnen. In diesem Fall oder wenn der
+Reiseveranstalter außerstande ist, Ersatzleistungen anzubieten, ist §
+651l Absatz 2 und 3 mit der Maßgabe anzuwenden, dass es auf eine
+Kündigung des Reisenden nicht ankommt.
+
+(4) Ist die Beförderung des Reisenden an den Ort der Abreise oder an
+einen anderen Ort, auf den sich die Parteien geeinigt haben
+(Rückbeförderung), vom Vertrag umfasst und aufgrund unvermeidbarer,
+außergewöhnlicher Umstände nicht möglich, hat der Reiseveranstalter
+die Kosten für eine notwendige Beherbergung des Reisenden für einen
+höchstens drei Nächte umfassenden Zeitraum zu tragen, und zwar
+möglichst in einer Unterkunft, die der im Vertrag vereinbarten
+gleichwertig ist.
+
+(5) Der Reiseveranstalter kann sich auf die Begrenzung des Zeitraums
+auf höchstens drei Nächte gemäß Absatz 4 in folgenden Fällen nicht
+berufen:
+
+1.  der Leistungserbringer hat nach unmittelbar anwendbaren Regelungen der
+    Europäischen Union dem Reisenden die Beherbergung für einen längeren
+    Zeitraum anzubieten oder die Kosten hierfür zu tragen,
+
+
+2.  der Reisende gehört zu einem der folgenden Personenkreise und der
+    Reiseveranstalter wurde mindestens 48 Stunden vor Reisebeginn von den
+    besonderen Bedürfnissen des Reisenden in Kenntnis gesetzt:
+
+    a)  Personen mit eingeschränkter Mobilität im Sinne des Artikels 2
+        Buchstabe a der Verordnung (EG) Nr. 1107/2006 des Europäischen
+        Parlaments und des Rates vom 5. Juli 2006 über die Rechte von
+        behinderten Flugreisenden und Flugreisenden mit eingeschränkter
+        Mobilität (ABl. L 204 vom 26.7.2006, S. 1; L 26 vom 26.1.2013, S. 34)
+        und deren Begleitpersonen,
+
+
+    b)  Schwangere,
+
+
+    c)  unbegleitete Minderjährige,
+
+
+    d)  Personen, die besondere medizinische Betreuung benötigen.
+
+
+
+
+
+
+
+
+###### § 651l Kündigung
+
+(1) Wird die Pauschalreise durch den Reisemangel erheblich
+beeinträchtigt, kann der Reisende den Vertrag kündigen. Die Kündigung
+ist erst zulässig, wenn der Reiseveranstalter eine ihm vom Reisenden
+bestimmte angemessene Frist hat verstreichen lassen, ohne Abhilfe zu
+leisten; § 651k Absatz 2 Satz 2 gilt entsprechend.
+
+(2) Wird der Vertrag gekündigt, so behält der Reiseveranstalter
+hinsichtlich der erbrachten und nach Absatz 3 zur Beendigung der
+Pauschalreise noch zu erbringenden Reiseleistungen den Anspruch auf
+den vereinbarten Reisepreis; Ansprüche des Reisenden nach § 651i
+Absatz 3 Nummer 6 und 7 bleiben unberührt. Hinsichtlich der nicht mehr
+zu erbringenden Reiseleistungen entfällt der Anspruch des
+Reiseveranstalters auf den vereinbarten Reisepreis; insoweit bereits
+geleistete Zahlungen sind dem Reisenden vom Reiseveranstalter zu
+erstatten.
+
+(3) Der Reiseveranstalter ist verpflichtet, die infolge der Aufhebung
 des Vertrags notwendigen Maßnahmen zu treffen, insbesondere, falls der
-Vertrag die Rückbeförderung umfasste, den Reisenden zurückzubefördern.
-Die Mehrkosten fallen dem Reiseveranstalter zur Last.
+Vertrag die Beförderung des Reisenden umfasste, unverzüglich für
+dessen Rückbeförderung zu sorgen; das hierfür eingesetzte
+Beförderungsmittel muss dem im Vertrag vereinbarten gleichwertig sein.
+Die Mehrkosten für die Rückbeförderung fallen dem Reiseveranstalter
+zur Last.
 
 
-###### § 651f Schadensersatz
+###### § 651m Minderung
+
+(1) Für die Dauer des Reisemangels mindert sich der Reisepreis. Bei
+der Minderung ist der Reisepreis in dem Verhältnis herabzusetzen, in
+welchem zur Zeit des Vertragsschlusses der Wert der Pauschalreise in
+mangelfreiem Zustand zu dem wirklichen Wert gestanden haben würde. Die
+Minderung ist, soweit erforderlich, durch Schätzung zu ermitteln.
+
+(2) Hat der Reisende mehr als den geminderten Reisepreis gezahlt, so
+ist der Mehrbetrag vom Reiseveranstalter zu erstatten. § 346 Absatz 1
+und § 347 Absatz 1 finden entsprechende Anwendung.
+
+
+###### § 651n Schadensersatz
 
 (1) Der Reisende kann unbeschadet der Minderung oder der Kündigung
-Schadensersatz wegen Nichterfüllung verlangen, es sei denn, der Mangel
-der Reise beruht auf einem Umstand, den der Reiseveranstalter nicht zu
-vertreten hat.
+Schadensersatz verlangen, es sei denn, der Reisemangel
 
-(2) Wird die Reise vereitelt oder erheblich beeinträchtigt, so kann
-der Reisende auch wegen nutzlos aufgewendeter Urlaubszeit eine
+1.  ist vom Reisenden verschuldet,
+
+
+2.  ist von einem Dritten verschuldet, der weder Leistungserbringer ist
+    noch in anderer Weise an der Erbringung der von dem
+    Pauschalreisevertrag umfassten Reiseleistungen beteiligt ist, und war
+    für den Reiseveranstalter nicht vorhersehbar oder nicht vermeidbar
+    oder
+
+
+3.  wurde durch unvermeidbare, außergewöhnliche Umstände verursacht.
+
+
+
+
+(2) Wird die Pauschalreise vereitelt oder erheblich beeinträchtigt,
+kann der Reisende auch wegen nutzlos aufgewendeter Urlaubszeit eine
 angemessene Entschädigung in Geld verlangen.
 
-
-###### § 651g Ausschlussfrist, Verjährung
-
-(1) Ansprüche nach den §§ 651c bis 651f hat der Reisende innerhalb
-eines Monats nach der vertraglich vorgesehenen Beendigung der Reise
-gegenüber dem Reiseveranstalter geltend zu machen. § 174 ist nicht
-anzuwenden. Nach Ablauf der Frist kann der Reisende Ansprüche nur
-geltend machen, wenn er ohne Verschulden an der Einhaltung der Frist
-verhindert worden ist.
-
-(2) Ansprüche des Reisenden nach den §§ 651c bis 651f verjähren in
-zwei Jahren. Die Verjährung beginnt mit dem Tage, an dem die Reise dem
-Vertrag nach enden sollte.
+(3) Wenn der Reiseveranstalter zum Schadensersatz verpflichtet ist,
+hat er unverzüglich zu leisten.
 
 
-###### § 651h Zulässige Haftungsbeschränkung
+###### § 651o Mängelanzeige durch den Reisenden
+
+(1) Der Reisende hat dem Reiseveranstalter einen Reisemangel
+unverzüglich anzuzeigen.
+
+(2) Soweit der Reiseveranstalter infolge einer schuldhaften
+Unterlassung der Anzeige nach Absatz 1 nicht Abhilfe schaffen konnte,
+ist der Reisende nicht berechtigt,
+
+1.  die in § 651m bestimmten Rechte geltend zu machen oder
+
+
+2.  nach § 651n Schadensersatz zu verlangen.
+
+
+
+
+
+###### § 651p Zulässige Haftungsbeschränkung; Anrechnung
 
 (1) Der Reiseveranstalter kann durch Vereinbarung mit dem Reisenden
-seine Haftung für Schäden, die nicht Körperschäden sind, auf den
-dreifachen Reisepreis beschränken,
+seine Haftung für solche Schäden auf den dreifachen Reisepreis
+beschränken, die
 
-1.  soweit ein Schaden des Reisenden weder vorsätzlich noch grob
-    fahrlässig herbeigeführt wird oder
+1.  keine Körperschäden sind und
 
 
-2.  soweit der Reiseveranstalter für einen dem Reisenden entstehenden
-    Schaden allein wegen eines Verschuldens eines Leistungsträgers
-    verantwortlich ist.
+2.  nicht schuldhaft herbeigeführt werden.
 
 
 
 
-(2) Gelten für eine von einem Leistungsträger zu erbringende
-Reiseleistung internationale Übereinkommen oder auf solchen beruhende
-gesetzliche Vorschriften, nach denen ein Anspruch auf Schadensersatz
-nur unter bestimmten Voraussetzungen oder Beschränkungen entsteht oder
-geltend gemacht werden kann oder unter bestimmten Voraussetzungen
+(2) Gelten für eine Reiseleistung internationale Übereinkünfte oder
+auf solchen beruhende gesetzliche Vorschriften, nach denen ein
+Anspruch auf Schadensersatz gegen den Leistungserbringer nur unter
+bestimmten Voraussetzungen oder Beschränkungen entsteht oder geltend
+gemacht werden kann oder unter bestimmten Voraussetzungen
 ausgeschlossen ist, so kann sich auch der Reiseveranstalter gegenüber
 dem Reisenden hierauf berufen.
 
+(3) Hat der Reisende gegen den Reiseveranstalter Anspruch auf
+Schadensersatz oder auf Erstattung eines infolge einer Minderung zu
+viel gezahlten Betrages, so muss sich der Reisende den Betrag
+anrechnen lassen, den er aufgrund desselben Ereignisses als
+Entschädigung oder als Erstattung infolge einer Minderung nach Maßgabe
+internationaler Übereinkünfte oder von auf solchen beruhenden
+gesetzlichen Vorschriften erhalten hat oder nach Maßgabe
 
-###### § 651i Rücktritt vor Reisebeginn
-
-(1) Vor Reisebeginn kann der Reisende jederzeit vom Vertrag
-zurücktreten.
-
-(2) Tritt der Reisende vom Vertrag zurück, so verliert der
-Reiseveranstalter den Anspruch auf den vereinbarten Reisepreis. Er
-kann jedoch eine angemessene Entschädigung verlangen. Die Höhe der
-Entschädigung bestimmt sich nach dem Reisepreis unter Abzug des Wertes
-der vom Reiseveranstalter ersparten Aufwendungen sowie dessen, was er
-durch anderweitige Verwendung der Reiseleistungen erwerben kann.
-
-(3) Im Vertrag kann für jede Reiseart unter Berücksichtigung der
-gewöhnlich ersparten Aufwendungen und des durch anderweitige
-Verwendung der Reiseleistungen gewöhnlich möglichen Erwerbs ein
-Vomhundertsatz des Reisepreises als Entschädigung festgesetzt werden.
+1.  der Verordnung (EG) Nr. 261/2004 des Europäischen Parlaments und des
+    Rates vom 11. Februar 2004 über eine gemeinsame Regelung für
+    Ausgleichs- und Unterstützungsleistungen für Fluggäste im Fall der
+    Nichtbeförderung und bei Annullierung oder großer Verspätung von
+    Flügen und zur Aufhebung der Verordnung (EWG) Nr. 295/91 (ABl. L 46
+    vom 17.2.2004, S. 1),
 
 
-###### § 651j Kündigung wegen höherer Gewalt
-
-(1) Wird die Reise infolge bei Vertragsabschluss nicht voraussehbarer
-höherer Gewalt erheblich erschwert, gefährdet oder beeinträchtigt, so
-können sowohl der Reiseveranstalter als auch der Reisende den Vertrag
-allein nach Maßgabe dieser Vorschrift kündigen.
-
-(2) Wird der Vertrag nach Absatz 1 gekündigt, so findet die Vorschrift
-des § 651e Abs. 3 Satz 1 und 2, Abs. 4 Satz 1 Anwendung. Die
-Mehrkosten für die Rückbeförderung sind von den Parteien je zur Hälfte
-zu tragen. Im Übrigen fallen die Mehrkosten dem Reisenden zur Last.
+2.  der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des
+    Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste
+    im Eisenbahnverkehr (ABl. L 315 vom 3.12.2007, S. 14),
 
 
-###### § 651k Sicherstellung, Zahlung
-
-(1) Der Reiseveranstalter hat sicherzustellen, dass dem Reisenden
-erstattet werden
-
-1.  der gezahlte Reisepreis, soweit Reiseleistungen infolge
-    Zahlungsunfähigkeit oder Eröffnung des Insolvenzverfahrens über das
-    Vermögen des Reiseveranstalters ausfallen, und
+3.  der Verordnung (EG) Nr. 392/2009 des Europäischen Parlaments und des
+    Rates vom 23. April 2009 über die Unfallhaftung von Beförderern von
+    Reisenden auf See (ABl. L 131 vom 28.5.2009, S. 24),
 
 
-2.  notwendige Aufwendungen, die dem Reisenden infolge Zahlungsunfähigkeit
-    oder Eröffnung des Insolvenzverfahrens über das Vermögen des
-    Reiseveranstalters für die Rückreise entstehen.
+4.  der Verordnung (EU) Nr. 1177/2010 des Europäischen Parlaments und des
+    Rates vom 24. November 2010 über die Fahrgastrechte im See- und
+    Binnenschiffsverkehr und zur Änderung der Verordnung (EG) Nr.
+    2006/2004 (ABl. L 334 vom 17.12.2010, S. 1) oder
+
+
+5.  der Verordnung (EU) Nr. 181/2011 des Europäischen Parlaments und des
+    Rates vom 16. Februar 2011 über die Fahrgastrechte im
+    Kraftomnibusverkehr und zur Änderung der Verordnung (EG) Nr. 2006/2004
+    (ABl. L 55 vom 28.2.2011, S. 1).
 
 
 
-Die Verpflichtungen nach Satz 1 kann der Reiseveranstalter nur
+Hat der Reisende vom Reiseveranstalter bereits Schadensersatz erhalten
+oder ist ihm infolge einer Minderung vom Reiseveranstalter bereits ein
+Betrag erstattet worden, so muss er sich den erhaltenen Betrag auf
+dasjenige anrechnen lassen, was ihm aufgrund desselben Ereignisses als
+Entschädigung oder als Erstattung infolge einer Minderung nach Maßgabe
+internationaler Übereinkünfte oder von auf solchen beruhenden
+gesetzlichen Vorschriften oder nach Maßgabe der in Satz 1 genannten
+Verordnungen geschuldet ist.
+
+
+###### § 651q Beistandspflicht des Reiseveranstalters
+
+(1) Befindet sich der Reisende im Fall des § 651k Absatz 4 oder aus
+anderen Gründen in Schwierigkeiten, hat der Reiseveranstalter ihm
+unverzüglich in angemessener Weise Beistand zu gewähren, insbesondere
+durch
+
+1.  Bereitstellung geeigneter Informationen über Gesundheitsdienste,
+    Behörden vor Ort und konsularische Unterstützung,
+
+
+2.  Unterstützung bei der Herstellung von Fernkommunikationsverbindungen
+    und
+
+
+3.  Unterstützung bei der Suche nach anderen Reisemöglichkeiten; § 651k
+    Absatz 3 bleibt unberührt.
+
+
+
+
+(2) Hat der Reisende die den Beistand erfordernden Umstände schuldhaft
+selbst herbeigeführt, kann der Reiseveranstalter Ersatz seiner
+Aufwendungen verlangen, wenn und soweit diese angemessen und ihm
+tatsächlich entstanden sind.
+
+
+###### § 651r Insolvenzsicherung; Sicherungsschein
+
+(1) Der Reiseveranstalter hat sicherzustellen, dass dem Reisenden der
+gezahlte Reisepreis erstattet wird, soweit im Fall der
+Zahlungsunfähigkeit des Reiseveranstalters
+
+1.  Reiseleistungen ausfallen oder
+
+
+2.  der Reisende im Hinblick auf erbrachte Reiseleistungen
+    Zahlungsaufforderungen von Leistungserbringern nachkommt, deren
+    Entgeltforderungen der Reiseveranstalter nicht erfüllt hat.
+
+
+
+Umfasst der Vertrag auch die Beförderung des Reisenden, hat der
+Reiseveranstalter zudem die vereinbarte Rückbeförderung und die
+Beherbergung bis zum Zeitpunkt der Rückbeförderung sicherzustellen.
+Der Zahlungsunfähigkeit stehen die Eröffnung des Insolvenzverfahrens
+über das Vermögen des Reiseveranstalters und die Abweisung eines
+Eröffnungsantrags mangels Masse gleich.
+
+(2) Die Verpflichtungen nach Absatz 1 kann der Reiseveranstalter nur
 erfüllen
 
 1.  durch eine Versicherung bei einem im Geltungsbereich dieses Gesetzes
@@ -12213,87 +14814,94 @@ erfüllen
 
 
 
+Der Reiseveranstalter muss ohne Rücksicht auf den Wohnsitz des
+Reisenden, den Ort der Abreise und den Ort des Vertragsschlusses
+Sicherheit leisten.
 
-(2) Der Versicherer oder das Kreditinstitut (Kundengeldabsicherer)
-kann seine Haftung für die von ihm in einem Jahre insgesamt nach
+(3) Der Versicherer oder das Kreditinstitut (Kundengeldabsicherer)
+kann dem Reisenden die Fortsetzung der Pauschalreise anbieten.
+Verlangt der Reisende eine Erstattung nach Absatz 1, hat der
+Kundengeldabsicherer den Anspruch unverzüglich zu erfüllen. Er kann
+seine Haftung für die von ihm in einem Geschäftsjahr insgesamt nach
 diesem Gesetz zu erstattenden Beträge auf 110 Millionen Euro
-begrenzen. Übersteigen die in einem Jahr von einem
+begrenzen. Übersteigen die in einem Geschäftsjahr von einem
 Kundengeldabsicherer insgesamt nach diesem Gesetz zu erstattenden
-Beträge die in Satz 1 genannten Höchstbeträge, so verringern sich die
+Beträge den in Satz 3 genannten Höchstbetrag, so verringern sich die
 einzelnen Erstattungsansprüche in dem Verhältnis, in dem ihr
 Gesamtbetrag zum Höchstbetrag steht.
 
-(3) Zur Erfüllung seiner Verpflichtung nach Absatz 1 hat der
+(4) Zur Erfüllung seiner Verpflichtungen nach Absatz 1 hat der
 Reiseveranstalter dem Reisenden einen unmittelbaren Anspruch gegen den
-Kundengeldabsicherer zu verschaffen und durch Übergabe einer von
-diesem oder auf dessen Veranlassung ausgestellten Bestätigung
-(Sicherungsschein) nachzuweisen. Der Kundengeldabsicherer kann sich
-gegenüber einem Reisenden, dem ein Sicherungsschein ausgehändigt
-worden ist, weder auf Einwendungen aus dem
-Kundengeldabsicherungsvertrag noch darauf berufen, dass der
-Sicherungsschein erst nach Beendigung des
-Kundengeldabsicherungsvertrags ausgestellt worden ist. In den Fällen
-des Satzes 2 geht der Anspruch des Reisenden gegen den
-Reiseveranstalter auf den Kundengeldabsicherer über, soweit dieser den
-Reisenden befriedigt. Ein Reisevermittler ist dem Reisenden gegenüber
-verpflichtet, den Sicherungsschein auf seine Gültigkeit hin zu
-überprüfen, wenn er ihn dem Reisenden aushändigt.
-
-(4) Reiseveranstalter und Reisevermittler dürfen Zahlungen des
-Reisenden auf den Reisepreis vor Beendigung der Reise nur fordern oder
-annehmen, wenn dem Reisenden ein Sicherungsschein übergeben wurde. Ein
-Reisevermittler gilt als vom Reiseveranstalter zur Annahme von
-Zahlungen auf den Reisepreis ermächtigt, wenn er einen
-Sicherungsschein übergibt oder sonstige dem Reiseveranstalter
-zuzurechnende Umstände ergeben, dass er von diesem damit betraut ist,
-Reiseverträge für ihn zu vermitteln. Dies gilt nicht, wenn die Annahme
-von Zahlungen durch den Reisevermittler in hervorgehobener Form
-gegenüber dem Reisenden ausgeschlossen ist.
-
-(5) Hat im Zeitpunkt des Vertragsschlusses der Reiseveranstalter seine
-Hauptniederlassung in einem anderen Mitgliedstaat der Europäischen
-Gemeinschaften oder in einem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum, so genügt der Reiseveranstalter
-seiner Verpflichtung nach Absatz 1 auch dann, wenn er dem Reisenden
-Sicherheit in Übereinstimmung mit den Vorschriften des anderen Staates
-leistet und diese den Anforderungen nach Absatz 1 Satz 1 entspricht.
-Absatz 4 gilt mit der Maßgabe, dass dem Reisenden die
-Sicherheitsleistung nachgewiesen werden muss.
-
-(6) Die Absätze 1 bis 5 gelten nicht, wenn
-
-1.  der Reiseveranstalter nur gelegentlich und außerhalb seiner
-    gewerblichen Tätigkeit Reisen veranstaltet,
+Kundengeldabsicherer zu verschaffen und durch eine von diesem oder auf
+dessen Veranlassung gemäß Artikel 252 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche ausgestellte Bestätigung (Sicherungsschein)
+nachzuweisen. Der im Vertrag gemäß Artikel 250 § 6 Absatz 2 Nummer 3
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche genannte
+Kundengeldabsicherer kann sich gegenüber dem Reisenden weder auf
+Einwendungen aus dem Kundengeldabsicherungsvertrag noch auf dessen
+Beendigung berufen, wenn die Beendigung nach Abschluss des
+Pauschalreisevertrags erfolgt ist. In den Fällen des Satzes 2 geht der
+Anspruch des Reisenden gegen den Reiseveranstalter auf den
+Kundengeldabsicherer über, soweit dieser den Reisenden befriedigt.
 
 
-2.  die Reise nicht länger als 24 Stunden dauert, keine Übernachtung
-    einschließt und der Reisepreis 75 Euro nicht übersteigt,
+###### § 651s Insolvenzsicherung der im Europäischen Wirtschaftsraum niedergelassenen Reiseveranstalter
+
+Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine
+Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung in einem
+anderen Mitgliedstaat der Europäischen Union oder in einem sonstigen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum, so
+genügt er seiner Verpflichtung zur Insolvenzsicherung auch dann, wenn
+er dem Reisenden Sicherheit in Übereinstimmung mit den Vorschriften
+dieses anderen Staates zur Umsetzung des Artikels 17 der Richtlinie
+(EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25.
+November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur
+Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie
+2011/83/EU des Europäischen Parlaments und des Rates sowie zur
+Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom
+11\.12.2015, S. 1) leistet.
 
 
-3.  der Reiseveranstalter eine juristische Person des öffentlichen Rechts
-    ist, über deren Vermögen ein Insolvenzverfahren unzulässig ist.
+###### § 651t Vorauszahlungen
 
+Der Reiseveranstalter darf Zahlungen des Reisenden auf den Reisepreis
+vor Beendigung der Pauschalreise nur fordern oder annehmen, wenn
+
+1.  ein wirksamer Kundengeldabsicherungsvertrag besteht oder, in den
+    Fällen des § 651s, der Reiseveranstalter nach § 651s Sicherheit
+    leistet und
+
+
+2.  dem Reisenden klar, verständlich und in hervorgehobener Weise Name und
+    Kontaktdaten des Kundengeldabsicherers oder, in den Fällen des § 651s,
+    Name und Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet,
+    sowie gegebenenfalls der Name und die Kontaktdaten der von dem
+    betreffenden Staat benannten zuständigen Behörde zur Verfügung
+    gestellt wurden.
 
 
 
 
-###### § 651l Gastschulaufenthalte
 
-(1) Für einen Reisevertrag, der einen mindestens drei Monate
-andauernden und mit dem geregelten Besuch einer Schule verbundenen
-Aufenthalt des Gastschülers bei einer Gastfamilie in einem anderen
-Staat (Aufnahmeland) zum Gegenstand hat, gelten die nachfolgenden
-Vorschriften. Für einen Reisevertrag, der einen kürzeren
+###### § 651u Gastschulaufenthalte
+
+(1) Für einen Vertrag, der einen mindestens drei Monate andauernden
+und mit dem geregelten Besuch einer Schule verbundenen Aufenthalt des
+Gastschülers bei einer Gastfamilie in einem anderen Staat
+(Aufnahmeland) zum Gegenstand hat, gelten § 651a Absatz 1, 2 und 5,
+die §§ 651b, 651d Absatz 1 bis 4 und die §§ 651e bis 651t entsprechend
+sowie die nachfolgenden Absätze. Für einen Vertrag, der einen kürzeren
 Gastschulaufenthalt (Satz 1) oder einen mit der geregelten
 Durchführung eines Praktikums verbundenen Aufenthalt bei einer
-Gastfamilie im Aufnahmeland zum Gegenstand hat, gelten sie nur, wenn
-dies vereinbart ist.
+Gastfamilie im Aufnahmeland zum Gegenstand hat, gelten diese
+Vorschriften nur, wenn dies vereinbart ist.
 
-(2) Der Reiseveranstalter ist verpflichtet,
+(2) Der Anbieter des Gastschulaufenthalts ist als Reiseveranstalter
+bei Mitwirkung des Gastschülers verpflichtet,
 
-1.  für eine bei Mitwirkung des Gastschülers und nach den Verhältnissen
-    des Aufnahmelands angemessene Unterbringung, Beaufsichtigung und
-    Betreuung des Gastschülers in einer Gastfamilie zu sorgen und
+1.  für eine nach den Verhältnissen des Aufnahmelands angemessene
+    Unterkunft, Beaufsichtigung und Betreuung des Gastschülers in einer
+    Gastfamilie zu sorgen und
 
 
 2.  die Voraussetzungen für einen geregelten Schulbesuch des Gastschülers
@@ -12302,40 +14910,177 @@ dies vereinbart ist.
 
 
 
-(3) Tritt der Reisende vor Reisebeginn zurück, findet § 651i Abs. 2
-Satz 2 und 3 und Abs. 3 keine Anwendung, wenn der Reiseveranstalter
-ihn nicht spätestens zwei Wochen vor Antritt der Reise jedenfalls über
+(3) Tritt der Reisende vor Reisebeginn vom Vertrag zurück, findet §
+651h Absatz 1 Satz 3, Absatz 2 nur Anwendung, wenn der
+Reiseveranstalter den Reisenden auf den Aufenthalt angemessen
+vorbereitet und spätestens zwei Wochen vor Antritt der Reise
+jedenfalls über Folgendes informiert hat:
 
-1.  Namen und Anschrift der für den Gastschüler nach Ankunft bestimmten
+1.  Name und Anschrift der für den Gastschüler nach Ankunft bestimmten
     Gastfamilie und
 
 
-2.  Namen und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei
-    dem auch Abhilfe verlangt werden kann,
+2.  Name und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei
+    dem auch Abhilfe verlangt werden kann.
 
 
 
-informiert und auf den Aufenthalt angemessen vorbereitet hat.
 
 (4) Der Reisende kann den Vertrag bis zur Beendigung der Reise
-jederzeit kündigen. Kündigt der Reisende, so ist der Reiseveranstalter
+jederzeit kündigen. Kündigt der Reisende, ist der Reiseveranstalter
 berechtigt, den vereinbarten Reisepreis abzüglich der ersparten
-Aufwendungen zu verlangen. Er ist verpflichtet, die infolge der
-Kündigung notwendigen Maßnahmen zu treffen, insbesondere, falls der
-Vertrag die Rückbeförderung umfasste, den Gastschüler
-zurückzubefördern. Die Mehrkosten fallen dem Reisenden zur Last. Die
-vorstehenden Sätze gelten nicht, wenn der Reisende nach § 651e oder §
-651j kündigen kann.
+Aufwendungen zu verlangen. Der Reiseveranstalter ist verpflichtet, die
+infolge der Kündigung notwendigen Maßnahmen zu treffen, insbesondere,
+falls der Vertrag die Beförderung des Gastschülers umfasste, für
+dessen Rückbeförderung zu sorgen. Die Mehrkosten fallen dem Reisenden
+zur Last. Die vorstehenden Sätze gelten nicht, wenn der Reisende nach
+§ 651l kündigen kann.
 
 
-###### § 651m Abweichende Vereinbarungen
+###### § 651v Reisevermittlung
 
-Von den Vorschriften der §§ 651a bis 651l kann vorbehaltlich des
-Satzes 2 nicht zum Nachteil des Reisenden abgewichen werden. Die in §
-651g Abs. 2 bestimmte Verjährung kann erleichtert werden, vor
-Mitteilung eines Mangels an den Reiseveranstalter jedoch nicht, wenn
-die Vereinbarung zu einer Verjährungsfrist ab dem in § 651g Abs. 2
-Satz 2 bestimmten Verjährungsbeginn von weniger als einem Jahr führt.
+(1) Ein Unternehmer, der einem Reisenden einen Pauschalreisevertrag
+vermittelt (Reisevermittler), ist verpflichtet, den Reisenden nach
+Maßgabe des Artikels 250 §§ 1 bis 3 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu informieren. Er erfüllt damit zugleich die
+Verpflichtungen des Reiseveranstalters aus § 651d Absatz 1 Satz 1. Der
+Reisevermittler trägt gegenüber dem Reisenden die Beweislast für die
+Erfüllung seiner Informationspflichten.
+
+(2) Für die Annahme von Zahlungen auf den Reisepreis durch den
+Reisevermittler gilt § 651t Nummer 2 entsprechend. Ein Reisevermittler
+gilt als vom Reiseveranstalter zur Annahme von Zahlungen auf den
+Reisepreis ermächtigt, wenn er dem Reisenden eine den Anforderungen
+des Artikels 250 § 6 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche entsprechende Abschrift oder Bestätigung des Vertrags zur
+Verfügung stellt oder sonstige dem Reiseveranstalter zuzurechnende
+Umstände ergeben, dass er von diesem damit betraut ist,
+Pauschalreiseverträge für ihn zu vermitteln. Dies gilt nicht, wenn die
+Annahme von Zahlungen durch den Reisevermittler in hervorgehobener
+Form gegenüber dem Reisenden ausgeschlossen ist.
+
+(3) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses
+seinen Sitz nicht in einem Mitgliedstaat der Europäischen Union oder
+einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum, treffen den Reisevermittler die sich aus den §§ 651i
+bis 651t ergebenden Pflichten des Reiseveranstalters, es sei denn, der
+Reisevermittler weist nach, dass der Reiseveranstalter seine Pflichten
+nach diesen Vorschriften erfüllt.
+
+(4) Der Reisevermittler gilt als vom Reiseveranstalter bevollmächtigt,
+Mängelanzeigen sowie andere Erklärungen des Reisenden bezüglich der
+Erbringung der Reiseleistungen entgegenzunehmen. Der Reisevermittler
+hat den Reiseveranstalter unverzüglich von solchen Erklärungen des
+Reisenden in Kenntnis zu setzen.
+
+
+###### § 651w Vermittlung verbundener Reiseleistungen
+
+(1) Ein Unternehmer ist Vermittler verbundener Reiseleistungen, wenn
+er für den Zweck derselben Reise, die keine Pauschalreise ist,
+
+1.  dem Reisenden anlässlich eines einzigen Besuchs in seiner
+    Vertriebsstelle oder eines einzigen Kontakts mit seiner
+    Vertriebsstelle Verträge mit anderen Unternehmern über mindestens zwei
+    verschiedene Arten von Reiseleistungen vermittelt und der Reisende
+    diese Leistungen getrennt auswählt und
+
+    a)  getrennt bezahlt oder
+
+
+    b)  sich bezüglich jeder Leistung getrennt zur Zahlung verpflichtet oder
+
+
+
+
+
+2.  dem Reisenden, mit dem er einen Vertrag über eine Reiseleistung
+    geschlossen hat oder dem er einen solchen Vertrag vermittelt hat, in
+    gezielter Weise mindestens einen Vertrag mit einem anderen Unternehmer
+    über eine andere Art von Reiseleistung vermittelt und der weitere
+    Vertrag spätestens 24 Stunden nach der Bestätigung des
+    Vertragsschlusses über die erste Reiseleistung geschlossen wird.
+
+
+
+Eine Vermittlung in gezielter Weise im Sinne des Satzes 1 Nummer 2
+liegt insbesondere dann nicht vor, wenn der Unternehmer den Reisenden
+lediglich mit einem anderen Unternehmer in Kontakt bringt. Im Übrigen
+findet auf Satz 1 § 651a Absatz 4 Satz 1 Nummer 1, Satz 2 und Absatz 5
+Nummer 1 und 3 entsprechende Anwendung. § 651a Absatz 5 Nummer 2 ist
+unabhängig von der Höhe des Reisepreises entsprechend anzuwenden.
+
+(2) Der Vermittler verbundener Reiseleistungen ist verpflichtet, den
+Reisenden nach Maßgabe des Artikels 251 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu informieren.
+
+(3) Nimmt der Vermittler verbundener Reiseleistungen Zahlungen des
+Reisenden auf Vergütungen für Reiseleistungen entgegen, hat er
+sicherzustellen, dass diese dem Reisenden erstattet werden, soweit
+Reiseleistungen von dem Vermittler verbundener Reiseleistungen selbst
+zu erbringen sind oder Entgeltforderungen anderer Unternehmer im Sinne
+des Absatzes 1 Satz 1 noch zu erfüllen sind und im Fall der
+Zahlungsunfähigkeit des Vermittlers verbundener Reiseleistungen
+
+1.  Reiseleistungen ausfallen oder
+
+
+2.  der Reisende im Hinblick auf erbrachte Reiseleistungen
+    Zahlungsaufforderungen nicht befriedigter anderer Unternehmer im Sinne
+    des Absatzes 1 Satz 1 nachkommt.
+
+
+
+Hat sich der Vermittler verbundener Reiseleistungen selbst zur
+Beförderung des Reisenden verpflichtet, hat er zudem die vereinbarte
+Rückbeförderung und die Beherbergung bis zum Zeitpunkt der
+Rückbeförderung sicherzustellen. Der Zahlungsunfähigkeit stehen die
+Eröffnung des Insolvenzverfahrens über das Vermögen des Vermittlers
+verbundener Reiseleistungen und die Abweisung eines Eröffnungsantrags
+mangels Masse gleich. § 651r Absatz 2 bis 4 sowie die §§ 651s und 651t
+sind entsprechend anzuwenden.
+
+(4) Erfüllt der Vermittler verbundener Reiseleistungen seine Pflichten
+aus den Absätzen 2 und 3 nicht, finden auf das Rechtsverhältnis
+zwischen ihm und dem Reisenden § 312 Absatz 7 Satz 2 sowie die §§
+651e, 651h bis 651q und 651v Absatz 4 entsprechende Anwendung.
+
+(5) Kommen infolge der Vermittlung nach Absatz 1 ein oder mehrere
+Verträge über Reiseleistungen mit dem Reisenden zustande, hat der
+jeweilige andere Unternehmer den Vermittler verbundener
+Reiseleistungen über den Umstand des Vertragsschlusses zu
+unterrichten. Die Pflicht nach Satz 1 besteht nicht, wenn der
+Vermittler verbundener Reiseleistungen den Vertrag als Vertreter des
+anderen Unternehmers geschlossen hat.
+
+
+###### § 651x Haftung für Buchungsfehler
+
+Der Reisende hat Anspruch auf Ersatz des Schadens,
+
+1.  der ihm durch einen technischen Fehler im Buchungssystem des
+    Reiseveranstalters, Reisevermittlers, Vermittlers verbundener
+    Reiseleistungen oder eines Leistungserbringers entsteht, es sei denn,
+    der jeweilige Unternehmer hat den technischen Fehler nicht zu
+    vertreten,
+
+
+2.  den einer der in Nummer 1 genannten Unternehmer durch einen Fehler
+    während des Buchungsvorgangs verursacht hat, es sei denn, der Fehler
+    ist vom Reisenden verschuldet oder wurde durch unvermeidbare,
+    außergewöhnliche Umstände verursacht.
+
+
+
+
+
+###### § 651y Abweichende Vereinbarungen
+
+Von den Vorschriften dieses Untertitels darf, soweit nichts anderes
+bestimmt ist, nicht zum Nachteil des Reisenden abgewichen werden. Die
+Vorschriften dieses Untertitels finden, soweit nichts anderes bestimmt
+ist, auch Anwendung, wenn sie durch anderweitige Gestaltungen umgangen
+werden.
 
 
 #### Titel 10 - Mäklervertrag
@@ -12388,29 +15133,57 @@ herabgesetzt werden. Nach der Entrichtung des Lohnes ist die
 Herabsetzung ausgeschlossen.
 
 
-##### Untertitel 2 - Vermittlung von Verbraucherdarlehensverträgen
+##### Untertitel 2 - Vermittlung von Verbraucherdarlehensverträgen und entgeltlichen Finanzierungshilfen
 
 
 
 ###### § 655a Darlehensvermittlungsvertrag
 
 (1) Für einen Vertrag, nach dem es ein Unternehmer unternimmt, einem
-Verbraucher gegen ein vom Verbraucher oder einem Dritten zu leistendes
-Entgelt einen Verbraucherdarlehensvertrag oder eine entgeltliche
-Finanzierungshilfe zu vermitteln oder ihm die Gelegenheit zum
-Abschluss eines solchen Vertrags nachzuweisen, gelten vorbehaltlich
-des Satzes 2 die folgenden Vorschriften. Dies gilt nicht in dem in §
-491 Abs. 2 bestimmten Umfang.
+Verbraucher
 
-(2) Der Darlehensvermittler hat den Verbraucher über die sich aus
-Artikel 247 § 13 Absatz 2 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche ergebenden Einzelheiten in der dort vorgesehenen Form zu
-unterrichten. Der Darlehensvermittler ist gegenüber dem Verbraucher
-zusätzlich wie ein Darlehensgeber gemäß § 491a verpflichtet. Satz 2
-gilt nicht für Warenlieferanten oder Dienstleistungserbringer, die in
-lediglich untergeordneter Funktion als Darlehensvermittler tätig
-werden, etwa indem sie als Nebenleistung den Abschluss eines
-verbundenen Verbraucherdarlehensvertrags vermitteln.
+1.  gegen eine vom Verbraucher oder einem Dritten zu leistende Vergütung
+    einen Verbraucherdarlehensvertrag oder eine entgeltliche
+    Finanzierungshilfe zu vermitteln,
+
+
+2.  die Gelegenheit zum Abschluss eines Vertrags nach Nummer 1
+    nachzuweisen oder
+
+
+3.  auf andere Weise beim Abschluss eines Vertrags nach Nummer 1
+    behilflich zu sein,
+
+
+
+gelten vorbehaltlich des Satzes 2 die folgenden Vorschriften dieses
+Untertitels. Bei entgeltlichen Finanzierungshilfen, die den Ausnahmen
+des § 491 Absatz 2 Satz 2 Nummer 1 bis 5 und Absatz 3 Satz 2
+entsprechen, gelten die Vorschriften dieses Untertitels nicht.
+
+(2) Der Darlehensvermittler ist verpflichtet, den Verbraucher nach
+Maßgabe des Artikels 247 § 13 Absatz 2 und § 13b Absatz 1 des
+Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Der
+Darlehensvermittler ist gegenüber dem Verbraucher zusätzlich wie ein
+Darlehensgeber gemäß § 491a verpflichtet. Satz 2 gilt nicht für
+Warenlieferanten oder Dienstleistungserbringer, die in lediglich
+untergeordneter Funktion als Darlehensvermittler von Allgemein-
+Verbraucherdarlehen oder von entsprechenden entgeltlichen
+Finanzierungshilfen tätig werden, etwa indem sie als Nebenleistung den
+Abschluss eines verbundenen Verbraucherdarlehensvertrags vermitteln.
+
+(3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung
+eines Immobiliar-Verbraucherdarlehensvertrags oder entsprechender
+entgeltlicher Finanzierungshilfen Beratungsleistungen gemäß § 511
+Absatz 1 an, so gilt § 511 entsprechend. § 511 Absatz 2 Satz 2 gilt
+entsprechend mit der Maßgabe, dass der Darlehensvermittler eine
+ausreichende Zahl von am Markt verfügbaren Darlehensverträgen zu
+prüfen hat. Ist der Darlehensvermittler nur im Namen und unter der
+unbeschränkten und vorbehaltlosen Verantwortung nur eines
+Darlehensgebers oder einer begrenzten Zahl von Darlehensgebern tätig,
+die am Markt keine Mehrheit darstellt, so braucht der
+Darlehensvermittler abweichend von Satz 2 nur Darlehensverträge aus
+der Produktpalette dieser Darlehensgeber zu berücksichtigen.
 
 
 ###### § 655b Schriftform bei einem Vertrag mit einem Verbraucher
@@ -12422,22 +15195,23 @@ Verbraucher den Vertragsinhalt in Textform mitzuteilen.
 
 (2) Ein Darlehensvermittlungsvertrag mit einem Verbraucher, der den
 Anforderungen des Absatzes 1 Satz 1 und 2 nicht genügt oder vor dessen
-Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht erfüllt worden
-sind, ist nichtig.
+Abschluss die Pflichten aus Artikel 247 § 13 Abs. 2 sowie § 13b Absatz
+1 und 3 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche nicht
+erfüllt worden sind, ist nichtig.
 
 
 ###### § 655c Vergütung
 
-Der Verbraucher ist zur Zahlung der Vergütung nur verpflichtet, wenn
-infolge der Vermittlung oder des Nachweises des Darlehensvermittlers
-das Darlehen an den Verbraucher geleistet wird und ein Widerruf des
-Verbrauchers nach § 355 nicht mehr möglich ist. Soweit der
-Verbraucherdarlehensvertrag mit Wissen des Darlehensvermittlers der
-vorzeitigen Ablösung eines anderen Darlehens (Umschuldung) dient,
-entsteht ein Anspruch auf die Vergütung nur, wenn sich der effektive
-Jahreszins nicht erhöht; bei der Berechnung des effektiven
-Jahreszinses für das abzulösende Darlehen bleiben etwaige
+Der Verbraucher ist zur Zahlung der Vergütung für die Tätigkeiten nach
+§ 655a Absatz 1 nur verpflichtet, wenn infolge der Vermittlung, des
+Nachweises oder auf Grund der sonstigen Tätigkeit des
+Darlehensvermittlers das Darlehen an den Verbraucher geleistet wird
+und ein Widerruf des Verbrauchers nach § 355 nicht mehr möglich ist.
+Soweit der Verbraucherdarlehensvertrag mit Wissen des
+Darlehensvermittlers der vorzeitigen Ablösung eines anderen Darlehens
+(Umschuldung) dient, entsteht ein Anspruch auf die Vergütung nur, wenn
+sich der effektive Jahreszins nicht erhöht; bei der Berechnung des
+effektiven Jahreszinses für das abzulösende Darlehen bleiben etwaige
 Vermittlungskosten außer Betracht.
 
 
@@ -12446,7 +15220,8 @@ Vermittlungskosten außer Betracht.
 Der Darlehensvermittler darf für Leistungen, die mit der Vermittlung
 des Verbraucherdarlehensvertrags oder dem Nachweis der Gelegenheit zum
 Abschluss eines Verbraucherdarlehensvertrags zusammenhängen, außer der
-Vergütung nach § 655c Satz 1 ein Entgelt nicht vereinbaren. Jedoch
+Vergütung nach § 655c Satz 1 sowie eines gegebenenfalls vereinbarten
+Entgelts für Beratungsleistungen ein Entgelt nicht vereinbaren. Jedoch
 kann vereinbart werden, dass dem Darlehensvermittler entstandene,
 erforderliche Auslagen zu erstatten sind. Dieser Anspruch darf die
 Höhe oder die Höchstbeträge, die der Darlehensvermittler dem
@@ -12462,7 +15237,7 @@ des Verbrauchers abgewichen werden. Die Vorschriften dieses
 Untertitels finden auch Anwendung, wenn sie durch anderweitige
 Gestaltungen umgangen werden.
 
-(2) Existenzgründer im Sinne des § 512 stehen Verbrauchern in diesem
+(2) Existenzgründer im Sinne des § 513 stehen Verbrauchern in diesem
 Untertitel gleich.
 
 
@@ -12698,17 +15473,16 @@ kennen muss.
 
 [^BJNR001950896BJNG021202377]
 
-[^BJNR001950896BJNG021202377]:     **Amtlicher Hinweis:**              Dieser Untertitel dient der
-    Umsetzung                                             1.
-    der Richtlinie 97/5/EG des Europäischen Parlaments und des Rates vom
-    27\. Januar 1997 über grenzüberschreitende Überweisungen (ABl. EG Nr. L
-    43 S. 25) und
+[^BJNR001950896BJNG021202377]:     **Amtlicher Hinweis:** Dieser Untertitel dient der Umsetzung1.der
+    Richtlinie 97/5/EG des Europäischen Parlaments und des Rates vom 27.
+    Januar 1997 über grenzüberschreitende Überweisungen (ABl. EG Nr. L 43
+    S. 25) und
 
 
-    2\.                                                   Artikel 3 bis 5
-    der Richtlinie 98/26/EG des Europäischen Parlaments und des Rates über
-    die Wirksamkeit von Abrechnungen in Zahlungs- und Wertpapierliefer-
-    und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG Nr. L 166 S. 45).
+    2\.Artikel 3 bis 5 der Richtlinie 98/26/EG des Europäischen Parlaments
+    und des Rates über die Wirksamkeit von Abrechnungen in Zahlungs- und
+    Wertpapierliefer- und -abrechnungssystemen vom 19. Mai 1998 (ABl. EG
+    Nr. L 166 S. 45).
 
 
 
@@ -12729,16 +15503,21 @@ Handlung oder einer sonstigen gesetzlichen Bestimmung ergebenden
 Verantwortlichkeit, zum Ersatz des aus der Befolgung des Rates oder
 der Empfehlung entstehenden Schadens nicht verpflichtet.
 
+(3) Ein Vertrag, durch den sich der eine Teil verpflichtet, die
+Anmeldung oder Registrierung des anderen Teils zur Teilnahme an
+Gewinnspielen zu bewirken, die von einem Dritten durchgeführt werden,
+bedarf der Textform.
+
 
 ###### § 675a Informationspflichten
 
 Wer zur Besorgung von Geschäften öffentlich bestellt ist oder sich
 dazu öffentlich erboten hat, stellt für regelmäßig anfallende
-standardisierte Geschäftsvorgänge (Standardgeschäfte) schriftlich, in
-geeigneten Fällen auch elektronisch, unentgeltlich Informationen über
-Entgelte und Auslagen der Geschäftsbesorgung zur Verfügung, soweit
-nicht eine Preisfestsetzung nach § 315 erfolgt oder die Entgelte und
-Auslagen gesetzlich verbindlich geregelt sind.
+standardisierte Geschäftsvorgänge (Standardgeschäfte) unentgeltlich
+Informationen über Entgelte und Auslagen der Geschäftsbesorgung in
+Textform zur Verfügung, soweit nicht eine Preisfestsetzung nach § 315
+erfolgt oder die Entgelte und Auslagen gesetzlich verbindlich geregelt
+sind.
 
 
 ###### § 675b Aufträge zur Übertragung von Wertpapieren in Systemen
@@ -12758,7 +15537,7 @@ bestimmten Zeitpunkt an nicht mehr widerrufen.
 
 
 
-###### § 675c Zahlungsdienste und elektronisches Geld
+###### § 675c Zahlungsdienste und E-Geld
 
 (1) Auf einen Geschäftsbesorgungsvertrag, der die Erbringung von
 Zahlungsdiensten zum Gegenstand hat, sind die §§ 663, 665 bis 670 und
@@ -12766,28 +15545,39 @@ Zahlungsdiensten zum Gegenstand hat, sind die §§ 663, 665 bis 670 und
 nichts Abweichendes bestimmt ist.
 
 (2) Die Vorschriften dieses Untertitels sind auch auf einen Vertrag
-über die Ausgabe und Nutzung von elektronischem Geld anzuwenden.
+über die Ausgabe und Nutzung von E-Geld anzuwenden.
 
 (3) Die Begriffsbestimmungen des Kreditwesengesetzes und des
 Zahlungsdiensteaufsichtsgesetzes sind anzuwenden.
+
+(4) Die Vorschriften dieses Untertitels sind mit Ausnahme von § 675d
+Absatz 2 Satz 2 sowie Absatz 3 nicht auf einen Vertrag über die
+Erbringung von Kontoinformationsdiensten anzuwenden.
 
 
 ###### § 675d Unterrichtung bei Zahlungsdiensten
 
 (1) Zahlungsdienstleister haben Zahlungsdienstnutzer bei der
-Erbringung von Zahlungsdiensten über die in Artikel 248 §§ 1 bis 16
-des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten
-Umstände in der dort vorgesehenen Form zu unterrichten. Dies gilt
-nicht für die Erbringung von Zahlungsdiensten in der Währung eines
-Staates außerhalb des Europäischen Wirtschaftsraums oder die
-Erbringung von Zahlungsdiensten, bei denen der Zahlungsdienstleister
-des Zahlers oder des Zahlungsempfängers außerhalb des Europäischen
-Wirtschaftsraums belegen ist.
+Erbringung von Zahlungsdiensten über die in Artikel 248 §§ 1 bis 12,
+13 Absatz 1, 3 bis 5 und §§ 14 bis 16 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche bestimmten Umstände in der dort vorgesehenen
+Form zu unterrichten.
 
-(2) Ist die ordnungsgemäße Unterrichtung streitig, so trifft die
+(2) Zahlungsauslösedienstleister haben Zahler ausschließlich über die
+in Artikel 248 § 13 Absatz 1 bis 3 und § 13a des Einführungsgesetzes
+zum Bürgerlichen Gesetzbuche bestimmten Umstände in der Form zu
+unterrichten, die in Artikel 248 §§ 2 und 12 des Einführungsgesetzes
+zum Bürgerlichen Gesetzbuche vorgesehen ist.
+Kontoinformationsdienstleister haben Zahlungsdienstnutzer über die in
+Artikel 248 §§ 4 und 13 Absatz 1 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche bestimmten Umstände zu unterrichten; sie
+können die Form und den Zeitpunkt der Unterrichtung mit dem
+Zahlungsdienstnutzer vereinbaren.
+
+(3) Ist die ordnungsgemäße Unterrichtung streitig, so trifft die
 Beweislast den Zahlungsdienstleister.
 
-(3) Für die Unterrichtung darf der Zahlungsdienstleister mit dem
+(4) Für die Unterrichtung darf der Zahlungsdienstleister mit dem
 Zahlungsdienstnutzer nur dann ein Entgelt vereinbaren, wenn die
 Information auf Verlangen des Zahlungsdienstnutzers erbracht wird und
 der Zahlungsdienstleister
@@ -12810,9 +15600,49 @@ der Zahlungsdienstleister
 Das Entgelt muss angemessen und an den tatsächlichen Kosten des
 Zahlungsdienstleisters ausgerichtet sein.
 
-(4) Zahlungsempfänger und Dritte unterrichten über die in Artikel 248
-§§ 17 und 18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
-bestimmten Umstände.
+(5) Zahlungsempfänger, Dienstleister, die Bargeldabhebungsdienste
+erbringen, und Dritte unterrichten über die in Artikel 248 §§ 17 bis
+18 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche bestimmten
+Umstände. Der Zahler ist nur dann verpflichtet, die Entgelte gemäß
+Artikel 248 § 17 Absatz 2 und § 18 des Einführungsgesetzes zum
+Bürgerlichen Gesetzbuche zu entrichten, wenn deren volle Höhe vor der
+Auslösung des Zahlungsvorgangs bekannt gemacht wurde.
+
+(6) Die Absätze 1 bis 5 sind nicht anzuwenden auf
+
+1.  die Bestandteile eines Zahlungsvorgangs, die außerhalb des
+    Europäischen Wirtschaftsraums getätigt werden, wenn
+
+    a)  der Zahlungsvorgang in der Währung eines Staates außerhalb des
+        Europäischen Wirtschaftsraums erfolgt und sowohl der
+        Zahlungsdienstleister des Zahlers als auch der Zahlungsdienstleister
+        des Zahlungsempfängers innerhalb des Europäischen Wirtschaftsraums
+        belegen ist oder
+
+
+    b)  bei Beteiligung mehrerer Zahlungsdienstleister an dem Zahlungsvorgang
+        von diesen Zahlungsdienstleistern mindestens einer innerhalb und
+        mindestens einer außerhalb des Europäischen Wirtschaftsraums belegen
+        ist;
+
+
+
+
+
+2.  Zahlungsvorgänge, bei denen keiner der beteiligten
+    Zahlungsdienstleister innerhalb des Europäischen Wirtschaftsraums
+    belegen ist.
+
+
+
+In den Fällen des Satzes 1 Nummer 1 sind die Informationspflichten
+nach Artikel 248 § 4 Absatz 1 Nummer 2 Buchstabe e, § 6 Nummer 1 sowie
+§ 13 Absatz 1 Satz 1 Nummer 2 des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche auch auf die innerhalb des Europäischen Wirtschaftsraums
+getätigten Bestandteile des Zahlungsvorgangs nicht anzuwenden.
+Gleiches gilt im Fall des Satzes 1 Nummer 1 Buchstabe b für die
+Informationspflicht nach Artikel 248 § 4 Absatz 1 Nummer 5 Buchstabe g
+des Einführungsgesetzes zum Bürgerlichen Gesetzbuche.
 
 
 ###### § 675e Abweichende Vereinbarungen
@@ -12821,19 +15651,17 @@ bestimmten Umstände.
 dieses Untertitels nicht zum Nachteil des Zahlungsdienstnutzers
 abgewichen werden.
 
-(2) Für Zahlungsdienste im Sinne des § 675d Abs. 1 Satz 2 sind § 675q
-Abs. 1 und 3, § 675s Abs. 1, § 675t Abs. 2, § 675x Abs. 1 und § 675y
-Abs. 1 und 2 sowie § 675z Satz 3 nicht anzuwenden; soweit solche
-Zahlungsdienste in der Währung eines Staates außerhalb des
-Europäischen Wirtschaftsraums erbracht werden, ist auch § 675t Abs. 1
-nicht anzuwenden. Im Übrigen darf für Zahlungsdienste im Sinne des §
-675d Abs. 1 Satz 2 zum Nachteil des Zahlungsdienstnutzers von den
-Vorschriften dieses Untertitels abgewichen werden; soweit solche
-Zahlungsdienste jedoch in Euro oder in der Währung eines
-Mitgliedstaats der Europäischen Union oder eines anderen
-Vertragsstaats des Abkommens über den Europäischen Wirtschaftsraum
-erbracht werden, gilt dies nicht für § 675t Abs. 1 Satz 1 und 2 sowie
-Abs. 3.
+(2) In den Fällen des § 675d Absatz 6 Satz 1 Nummer 1 und 2
+
+1.  sind § 675s Absatz 1, § 675t Absatz 2, § 675x Absatz 1, § 675y Absatz
+    1 bis 4 sowie § 675z Satz 3 nicht anzuwenden;
+
+
+2.  darf im Übrigen zum Nachteil des Zahlungsdienstnutzers von den
+    Vorschriften dieses Untertitels abgewichen werden.
+
+
+
 
 (3) Für Zahlungsvorgänge, die nicht in Euro erfolgen, können der
 Zahlungsdienstnutzer und sein Zahlungsdienstleister vereinbaren, dass
@@ -12841,11 +15669,11 @@ Zahlungsdienstnutzer und sein Zahlungsdienstleister vereinbaren, dass
 ist.
 
 (4) Handelt es sich bei dem Zahlungsdienstnutzer nicht um einen
-Verbraucher, so können die Parteien vereinbaren, dass § 675d Abs. 1
-Satz 1, Abs. 2 bis 4, § 675f Abs. 4 Satz 2, die §§ 675g, 675h, 675j
-Abs. 2 und § 675p sowie die §§ 675v bis 676 ganz oder teilweise nicht
-anzuwenden sind; sie können auch eine andere als die in § 676b
-vorgesehene Frist vereinbaren.
+Verbraucher, so können die Parteien vereinbaren, dass § 675d Absatz 1
+bis 5, § 675f Absatz 5 Satz 2, die §§ 675g, 675h, 675j Absatz 2, die
+§§ 675p sowie 675v bis 676 ganz oder teilweise nicht anzuwenden sind;
+sie können auch andere als die in § 676b Absatz 2 und 4 vorgesehenen
+Fristen vereinbaren.
 
 
 ###### Kapitel 2 - Zahlungsdienstevertrag
@@ -12867,14 +15695,24 @@ die Namen mehrerer Zahlungsdienstnutzer lautendes Zahlungskonto zu
 führen. Ein Zahlungsdiensterahmenvertrag kann auch Bestandteil eines
 sonstigen Vertrags sein oder mit einem anderen Vertrag zusammenhängen.
 
-(3) Zahlungsvorgang ist jede Bereitstellung, Übermittlung oder
+(3) Der Zahlungsdienstnutzer ist berechtigt, einen
+Zahlungsauslösedienst oder einen Kontoinformationsdienst zu nutzen, es
+sei denn, das Zahlungskonto des Zahlungsdienstnutzers ist für diesen
+nicht online zugänglich. Der kontoführende Zahlungsdienstleister darf
+die Nutzung dieser Dienste durch den Zahlungsdienstnutzer nicht davon
+abhängig machen, dass der Zahlungsauslösedienstleister oder der
+Kontoinformationsdienstleister zu diesem Zweck einen Vertrag mit dem
+kontoführenden Zahlungsdienstleister abschließt.
+
+(4) Zahlungsvorgang ist jede Bereitstellung, Übermittlung oder
 Abhebung eines Geldbetrags, unabhängig von der zugrunde liegenden
 Rechtsbeziehung zwischen Zahler und Zahlungsempfänger. Zahlungsauftrag
 ist jeder Auftrag, den ein Zahler seinem Zahlungsdienstleister zur
 Ausführung eines Zahlungsvorgangs entweder unmittelbar oder mittelbar
-über den Zahlungsempfänger erteilt.
+über einen Zahlungsauslösedienstleister oder den Zahlungsempfänger
+erteilt.
 
-(4) Der Zahlungsdienstnutzer ist verpflichtet, dem
+(5) Der Zahlungsdienstnutzer ist verpflichtet, dem
 Zahlungsdienstleister das für die Erbringung eines Zahlungsdienstes
 vereinbarte Entgelt zu entrichten. Für die Erfüllung von
 Nebenpflichten nach diesem Untertitel hat der Zahlungsdienstleister
@@ -12883,11 +15721,11 @@ zwischen dem Zahlungsdienstnutzer und dem Zahlungsdienstleister
 vereinbart worden ist; dieses Entgelt muss angemessen und an den
 tatsächlichen Kosten des Zahlungsdienstleisters ausgerichtet sein.
 
-(5) In einem Zahlungsdiensterahmenvertrag zwischen dem
+(6) In einem Zahlungsdiensterahmenvertrag zwischen dem
 Zahlungsempfänger und seinem Zahlungsdienstleister darf das Recht des
 Zahlungsempfängers, dem Zahler für die Nutzung eines bestimmten
-Zahlungsauthentifizierungsinstruments eine Ermäßigung anzubieten,
-nicht ausgeschlossen werden.
+Zahlungsinstruments eine Ermäßigung oder einen anderweitigen Anreiz
+anzubieten, nicht ausgeschlossen werden.
 
 
 ###### § 675g Änderung des Zahlungsdiensterahmenvertrags
@@ -12948,8 +15786,12 @@ anteilig bis zum Zeitpunkt der Beendigung des Vertrags zu entrichten.
 Im Voraus gezahlte Entgelte, die auf die Zeit nach Beendigung des
 Vertrags fallen, sind anteilig zu erstatten.
 
+(4) Der Zahlungsdienstleister darf mit dem Zahlungsdienstnutzer für
+die Kündigung des Zahlungsdiensterahmenvertrags kein Entgelt
+vereinbaren.
 
-###### § 675i Ausnahmen für Kleinbetragsinstrumente und elektronisches Geld
+
+###### § 675i Ausnahmen für Kleinbetragsinstrumente und E-Geld
 
 (1) Ein Zahlungsdienstevertrag kann die Überlassung eines
 Kleinbetragsinstruments an den Zahlungsdienstnutzer vorsehen. Ein
@@ -12976,13 +15818,14 @@ Zahlungsvorgänge genutzt werden kann.
     der in § 675g Abs. 1 vorgesehenen Form anbieten muss,
 
 
-2.  § 675l Satz 2, § 675m Abs. 1 Satz 1 Nr. 3, 4, Satz 2 und § 675v Abs. 3
-    nicht anzuwenden sind, wenn das Kleinbetragsinstrument nicht gesperrt
-    oder eine weitere Nutzung nicht verhindert werden kann,
+2.  § 675l Absatz 1 Satz 2, § 675m Absatz 1 Satz 1 Nummer 3 und 5 sowie
+    Satz 2 und § 675v Absatz 5 nicht anzuwenden sind, wenn das
+    Kleinbetragsinstrument nicht gesperrt oder eine weitere Nutzung nicht
+    verhindert werden kann,
 
 
-3.  die §§ 675u, 675v Abs. 1 und 2, die §§ 675w und 676 nicht anzuwenden
-    sind, wenn die Nutzung des Kleinbetragsinstruments keinem
+3.  die §§ 675u, 675v Absatz 1 bis 3 und 5, die §§ 675w und 676 nicht
+    anzuwenden sind, wenn die Nutzung des Kleinbetragsinstruments keinem
     Zahlungsdienstnutzer zugeordnet werden kann oder der
     Zahlungsdienstleister aus anderen Gründen, die in dem
     Kleinbetragsinstrument selbst angelegt sind, nicht nachweisen kann,
@@ -13005,18 +15848,19 @@ Zahlungsvorgänge genutzt werden kann.
 
 
 
-(3) Die §§ 675u und 675v sind für elektronisches Geld nicht
-anzuwenden, wenn der Zahlungsdienstleister des Zahlers nicht die
-Möglichkeit hat, das Zahlungskonto oder das Kleinbetragsinstrument zu
-sperren. Satz 1 gilt nur für Zahlungskonten oder
-Kleinbetragsinstrumente mit einem Wert von höchstens 200 Euro.
+(3) Die §§ 675u und 675v sind für E-Geld nicht anzuwenden, wenn der
+Zahlungsdienstleister des Zahlers nicht die Möglichkeit hat, das
+Zahlungskonto, auf dem das E-Geld gespeichert ist, oder das
+Kleinbetragsinstrument zu sperren. Satz 1 gilt nur für Zahlungskonten,
+auf denen das E-Geld gespeichert ist, oder Kleinbetragsinstrumente mit
+einem Wert von höchstens 200 Euro.
 
 
 ###### Kapitel 3 - Erbringung und Nutzung von Zahlungsdiensten
 
 
 
-###### Unterkapitel 1 - Autorisierung von Zahlungsvorgängen; Zahlungsauthentifizierungsinstrumente
+###### Unterkapitel 1 - Autorisierung von Zahlungsvorgängen; Zahlungsinstrumente; Verweigerung des Zugangs zum Zahlungskonto
 
 
 
@@ -13029,7 +15873,7 @@ Zahlungsdienstleister zuvor vereinbart, als Genehmigung erteilt
 werden. Art und Weise der Zustimmung sind zwischen dem Zahler und
 seinem Zahlungsdienstleister zu vereinbaren. Insbesondere kann
 vereinbart werden, dass die Zustimmung mittels eines bestimmten
-Zahlungsauthentifizierungsinstruments erteilt werden kann.
+Zahlungsinstruments erteilt werden kann.
 
 (2) Die Zustimmung kann vom Zahler durch Erklärung gegenüber dem
 Zahlungsdienstleister so lange widerrufen werden, wie der
@@ -13039,97 +15883,129 @@ werden, dass jeder nachfolgende Zahlungsvorgang nicht mehr autorisiert
 ist.
 
 
-###### § 675k Nutzungsbegrenzung
+###### § 675k Begrenzung der Nutzung eines Zahlungsinstruments; Verweigerung des Zugangs zum Zahlungskonto
 
 (1) In Fällen, in denen die Zustimmung mittels eines
-Zahlungsauthentifizierungsinstruments erteilt wird, können der Zahler
-und der Zahlungsdienstleister Betragsobergrenzen für die Nutzung
-dieses Zahlungsauthentifizierungsinstruments vereinbaren.
+Zahlungsinstruments erteilt wird, können der Zahler und der
+Zahlungsdienstleister Betragsobergrenzen für die Nutzung dieses
+Zahlungsinstruments vereinbaren.
 
 (2) Zahler und Zahlungsdienstleister können vereinbaren, dass der
-Zahlungsdienstleister das Recht hat, ein
-Zahlungsauthentifizierungsinstrument zu sperren, wenn
+Zahlungsdienstleister das Recht hat, ein Zahlungsinstrument zu
+sperren, wenn
 
 1.  sachliche Gründe im Zusammenhang mit der Sicherheit des
-    Zahlungsauthentifizierungsinstruments dies rechtfertigen,
+    Zahlungsinstruments dies rechtfertigen,
 
 
 2.  der Verdacht einer nicht autorisierten oder einer betrügerischen
-    Verwendung des Zahlungsauthentifizierungsinstruments besteht oder
+    Verwendung des Zahlungsinstruments besteht oder
 
 
-3.  bei einem Zahlungsauthentifizierungsinstrument mit Kreditgewährung ein
-    wesentlich erhöhtes Risiko besteht, dass der Zahler seiner
-    Zahlungspflicht nicht nachkommen kann.
+3.  bei einem Zahlungsinstrument mit Kreditgewährung ein wesentlich
+    erhöhtes Risiko besteht, dass der Zahler seiner Zahlungspflicht nicht
+    nachkommen kann.
 
 
 
 In diesem Fall ist der Zahlungsdienstleister verpflichtet, den Zahler
-über die Sperrung des Zahlungsauthentifizierungsinstruments möglichst
-vor, spätestens jedoch unverzüglich nach der Sperrung zu unterrichten.
-In der Unterrichtung sind die Gründe für die Sperrung anzugeben. Die
-Angabe von Gründen darf unterbleiben, soweit der Zahlungsdienstleister
+über die Sperrung des Zahlungsinstruments möglichst vor, spätestens
+jedoch unverzüglich nach der Sperrung zu unterrichten. In der
+Unterrichtung sind die Gründe für die Sperrung anzugeben. Die Angabe
+von Gründen darf unterbleiben, soweit der Zahlungsdienstleister
 hierdurch gegen gesetzliche Verpflichtungen verstoßen würde. Der
-Zahlungsdienstleister ist verpflichtet, das
-Zahlungsauthentifizierungsinstrument zu entsperren oder dieses durch
-ein neues Zahlungsauthentifizierungsinstrument zu ersetzen, wenn die
-Gründe für die Sperrung nicht mehr gegeben sind. Der
+Zahlungsdienstleister ist verpflichtet, das Zahlungsinstrument zu
+entsperren oder dieses durch ein neues Zahlungsinstrument zu ersetzen,
+wenn die Gründe für die Sperrung nicht mehr gegeben sind. Der
 Zahlungsdienstnutzer ist über eine Entsperrung unverzüglich zu
 unterrichten.
 
-
-###### § 675l Pflichten des Zahlers in Bezug auf Zahlungsauthentifizierungsinstrumente
-
-Der Zahler ist verpflichtet, unmittelbar nach Erhalt eines
-Zahlungsauthentifizierungsinstruments alle zumutbaren Vorkehrungen zu
-treffen, um die personalisierten Sicherheitsmerkmale vor unbefugtem
-Zugriff zu schützen. Er hat dem Zahlungsdienstleister oder einer von
-diesem benannten Stelle den Verlust, den Diebstahl, die
-missbräuchliche Verwendung oder die sonstige nicht autorisierte
-Nutzung eines Zahlungsauthentifizierungsinstruments unverzüglich
-anzuzeigen, nachdem er hiervon Kenntnis erlangt hat.
+(3) Hat der kontoführende Zahlungsdienstleister einem Zahlungsauslöse-
+oder Kontoinformationsdienstleister den Zugang zum Zahlungskonto des
+Zahlungsdienstnutzers verweigert, ist er verpflichtet, den
+Zahlungsdienstnutzer in einer im Zahlungsdiensterahmenvertrag zu
+vereinbarenden Form über die Gründe zu unterrichten. Die Unterrichtung
+muss möglichst vor, spätestens jedoch unverzüglich nach der
+Verweigerung des Zugangs erfolgen. Die Angabe von Gründen darf
+unterbleiben, soweit der kontoführende Zahlungsdienstleister hierdurch
+gegen gesetzliche Verpflichtungen verstoßen würde.
 
 
-###### § 675m Pflichten des Zahlungsdienstleisters in Bezug auf Zahlungsauthentifizierungsinstrumente; Risiko der Versendung
+###### § 675l Pflichten des Zahlungsdienstnutzers in Bezug auf Zahlungsinstrumente
 
-(1) Der Zahlungsdienstleister, der ein
-Zahlungsauthentifizierungsinstrument ausgibt, ist verpflichtet,
+(1) Der Zahlungsdienstnutzer ist verpflichtet, unmittelbar nach Erhalt
+eines Zahlungsinstruments alle zumutbaren Vorkehrungen zu treffen, um
+die personalisierten Sicherheitsmerkmale vor unbefugtem Zugriff zu
+schützen. Er hat dem Zahlungsdienstleister oder einer von diesem
+benannten Stelle den Verlust, den Diebstahl, die missbräuchliche
+Verwendung oder die sonstige nicht autorisierte Nutzung eines
+Zahlungsinstruments unverzüglich anzuzeigen, nachdem er hiervon
+Kenntnis erlangt hat. Für den Ersatz eines verlorenen, gestohlenen,
+missbräuchlich verwendeten oder sonst nicht autorisiert genutzten
+Zahlungsinstruments darf der Zahlungsdienstleister mit dem
+Zahlungsdienstnutzer ein Entgelt vereinbaren, das allenfalls die
+ausschließlich und unmittelbar mit dem Ersatz verbundenen Kosten
+abdeckt.
+
+(2) Eine Vereinbarung, durch die sich der Zahlungsdienstnutzer
+gegenüber dem Zahlungsdienstleister verpflichtet, Bedingungen für die
+Ausgabe und Nutzung eines Zahlungsinstruments einzuhalten, ist nur
+insoweit wirksam, als diese Bedingungen sachlich, verhältnismäßig und
+nicht benachteiligend sind.
+
+
+###### § 675m Pflichten des Zahlungsdienstleisters in Bezug auf Zahlungsinstrumente; Risiko der Versendung
+
+(1) Der Zahlungsdienstleister, der ein Zahlungsinstrument ausgibt, ist
+verpflichtet,
 
 1.  unbeschadet der Pflichten des Zahlungsdienstnutzers gemäß § 675l
-    sicherzustellen, dass die personalisierten Sicherheitsmerkmale des
-    Zahlungsauthentifizierungsinstruments nur der zur Nutzung berechtigten
-    Person zugänglich sind,
+    Absatz 1 sicherzustellen, dass die personalisierten
+    Sicherheitsmerkmale des Zahlungsinstruments nur der zur Nutzung
+    berechtigten Person zugänglich sind,
 
 
-2.  die unaufgeforderte Zusendung von
-    Zahlungsauthentifizierungsinstrumenten an den Zahlungsdienstnutzer zu
-    unterlassen, es sei denn, ein bereits an den Zahlungsdienstnutzer
-    ausgegebenes Zahlungsauthentifizierungsinstrument muss ersetzt werden,
+2.  die unaufgeforderte Zusendung von Zahlungsinstrumenten an den
+    Zahlungsdienstnutzer zu unterlassen, es sei denn, ein bereits an den
+    Zahlungsdienstnutzer ausgegebenes Zahlungsinstrument muss ersetzt
+    werden,
 
 
 3.  sicherzustellen, dass der Zahlungsdienstnutzer durch geeignete Mittel
-    jederzeit die Möglichkeit hat, eine Anzeige gemäß § 675l Satz 2
-    vorzunehmen oder die Aufhebung der Sperrung gemäß § 675k Abs. 2 Satz 5
-    zu verlangen, und
+    jederzeit die Möglichkeit hat, eine Anzeige gemäß § 675l Absatz 1 Satz
+    2 vorzunehmen oder die Aufhebung der Sperrung gemäß § 675k Absatz 2
+    Satz 5 zu verlangen,
 
 
-4.  jede Nutzung des Zahlungsauthentifizierungsinstruments zu verhindern,
-    sobald eine Anzeige gemäß § 675l Satz 2 erfolgt ist.
+4.  dem Zahlungsdienstnutzer eine Anzeige gemäß § 675l Absatz 1 Satz 2
+    kostenfrei zu ermöglichen und
+
+
+5.  jede Nutzung des Zahlungsinstruments zu verhindern, sobald eine
+    Anzeige gemäß § 675l Absatz 1 Satz 2 erfolgt ist.
 
 
 
 Hat der Zahlungsdienstnutzer den Verlust, den Diebstahl, die
 missbräuchliche Verwendung oder die sonstige nicht autorisierte
-Nutzung eines Zahlungsauthentifizierungsinstruments angezeigt, stellt
-sein Zahlungsdienstleister ihm auf Anfrage bis mindestens 18 Monate
-nach dieser Anzeige die Mittel zur Verfügung, mit denen der
+Nutzung eines Zahlungsinstruments angezeigt, stellt sein
+Zahlungsdienstleister ihm auf Anfrage bis mindestens 18 Monate nach
+dieser Anzeige die Mittel zur Verfügung, mit denen der
 Zahlungsdienstnutzer beweisen kann, dass eine Anzeige erfolgt ist.
 
-(2) Die Gefahr der Versendung eines
-Zahlungsauthentifizierungsinstruments und der Versendung
-personalisierter Sicherheitsmerkmale des
-Zahlungsauthentifizierungsinstruments an den Zahler trägt der
+(2) Die Gefahr der Versendung eines Zahlungsinstruments und der
+Versendung personalisierter Sicherheitsmerkmale des
+Zahlungsinstruments an den Zahlungsdienstnutzer trägt der
 Zahlungsdienstleister.
+
+(3) Hat ein Zahlungsdienstleister, der kartengebundene
+Zahlungsinstrumente ausgibt, den kontoführenden Zahlungsdienstleister
+des Zahlers um Bestätigung ersucht, dass ein für die Ausführung eines
+kartengebundenen Zahlungsvorgangs erforderlicher Betrag auf dem
+Zahlungskonto verfügbar ist, so kann der Zahler von seinem
+kontoführenden Zahlungsdienstleister verlangen, ihm die
+Identifizierungsdaten dieses Zahlungsdienstleisters und die erteilte
+Antwort mitzuteilen.
 
 
 ###### Unterkapitel 2 - Ausführung von Zahlungsvorgängen
@@ -13165,17 +16041,18 @@ Geschäftstag als Zeitpunkt des Zugangs.
 
 ###### § 675o Ablehnung von Zahlungsaufträgen
 
-(1) Lehnt der Zahlungsdienstleister die Ausführung eines
-Zahlungsauftrags ab, ist er verpflichtet, den Zahlungsdienstnutzer
-hierüber unverzüglich, auf jeden Fall aber innerhalb der Fristen gemäß
-§ 675s Abs. 1 zu unterrichten. In der Unterrichtung sind, soweit
-möglich, die Gründe für die Ablehnung sowie die Möglichkeiten
-anzugeben, wie Fehler, die zur Ablehnung geführt haben, berichtigt
-werden können. Die Angabe von Gründen darf unterbleiben, soweit sie
-gegen sonstige Rechtsvorschriften verstoßen würde. Der
-Zahlungsdienstleister darf mit dem Zahlungsdienstnutzer im
-Zahlungsdiensterahmenvertrag für die Unterrichtung über eine
-berechtigte Ablehnung ein Entgelt vereinbaren.
+(1) Lehnt der Zahlungsdienstleister die Ausführung oder Auslösung
+eines Zahlungsauftrags ab, ist er verpflichtet, den
+Zahlungsdienstnutzer hierüber unverzüglich, auf jeden Fall aber
+innerhalb der Fristen gemäß § 675s Abs. 1 zu unterrichten. In der
+Unterrichtung sind, soweit möglich, die Gründe für die Ablehnung sowie
+die Möglichkeiten anzugeben, wie Fehler, die zur Ablehnung geführt
+haben, berichtigt werden können. Die Angabe von Gründen darf
+unterbleiben, soweit sie gegen sonstige Rechtsvorschriften verstoßen
+würde. Der Zahlungsdienstleister darf mit dem Zahlungsdienstnutzer im
+Zahlungsdiensterahmenvertrag ein Entgelt für den Fall vereinbaren,
+dass er die Ausführung eines Zahlungsauftrags berechtigterweise
+ablehnt.
 
 (2) Der Zahlungsdienstleister des Zahlers ist nicht berechtigt, die
 Ausführung eines autorisierten Zahlungsauftrags abzulehnen, wenn die
@@ -13194,13 +16071,15 @@ als nicht zugegangen.
 der Absätze 2 bis 4 nach dessen Zugang beim Zahlungsdienstleister des
 Zahlers nicht mehr widerrufen.
 
-(2) Wurde der Zahlungsvorgang vom Zahlungsempfänger oder über diesen
-ausgelöst, so kann der Zahler den Zahlungsauftrag nicht mehr
-widerrufen, nachdem er den Zahlungsauftrag oder seine Zustimmung zur
-Ausführung des Zahlungsvorgangs an den Zahlungsempfänger übermittelt
-hat. Im Fall einer Lastschrift kann der Zahler den Zahlungsauftrag
-jedoch unbeschadet seiner Rechte gemäß § 675x bis zum Ende des
-Geschäftstags vor dem vereinbarten Fälligkeitstag widerrufen.
+(2) Wurde der Zahlungsvorgang über einen Zahlungsauslösedienstleister,
+vom Zahlungsempfänger oder über diesen ausgelöst, so kann der Zahler
+den Zahlungsauftrag nicht mehr widerrufen, nachdem er dem
+Zahlungsauslösedienstleister die Zustimmung zur Auslösung des
+Zahlungsvorgangs oder dem Zahlungsempfänger die Zustimmung zur
+Ausführung des Zahlungsvorgangs erteilt hat. Im Fall einer Lastschrift
+kann der Zahler den Zahlungsauftrag jedoch unbeschadet seiner Rechte
+gemäß § 675x bis zum Ende des Geschäftstags vor dem vereinbarten
+Fälligkeitstag widerrufen.
 
 (3) Ist zwischen dem Zahlungsdienstnutzer und seinem
 Zahlungsdienstleister ein bestimmter Termin für die Ausführung eines
@@ -13210,9 +16089,9 @@ Geschäftstags vor dem vereinbarten Tag widerrufen.
 
 (4) Nach den in den Absätzen 1 bis 3 genannten Zeitpunkten kann der
 Zahlungsauftrag nur widerrufen werden, wenn der Zahlungsdienstnutzer
-und sein Zahlungsdienstleister dies vereinbart haben. In den Fällen
-des Absatzes 2 ist zudem die Zustimmung des Zahlungsempfängers zum
-Widerruf erforderlich. Der Zahlungsdienstleister darf mit dem
+und der jeweilige Zahlungsdienstleister dies vereinbart haben. In den
+Fällen des Absatzes 2 ist zudem die Zustimmung des Zahlungsempfängers
+zum Widerruf erforderlich. Der Zahlungsdienstleister darf mit dem
 Zahlungsdienstnutzer im Zahlungsdiensterahmenvertrag für die
 Bearbeitung eines solchen Widerrufs ein Entgelt vereinbaren.
 
@@ -13237,9 +16116,25 @@ Zahlungsvorgangs und die Entgelte in den Informationen gemäß Artikel
 248 §§ 8 und 15 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche
 für den Zahlungsempfänger getrennt auszuweisen.
 
-(3) Bei einem Zahlungsvorgang, der mit keiner Währungsumrechnung
-verbunden ist, tragen Zahlungsempfänger und Zahler jeweils die von
-ihrem Zahlungsdienstleister erhobenen Entgelte.
+(3) Zahlungsempfänger und Zahler tragen jeweils die von ihrem
+Zahlungsdienstleister erhobenen Entgelte, wenn sowohl der
+Zahlungsdienstleister des Zahlers als auch der Zahlungsdienstleister
+des Zahlungsempfängers innerhalb des Europäischen Wirtschaftsraums
+belegen ist.
+
+(4) Wenn einer der Fälle des § 675d Absatz 6 Satz 1 Nummer 1 vorliegt,
+
+1.  ist § 675q Absatz 1 auf die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+    anzuwenden und
+
+
+2.  kann von § 675q Absatz 2 für die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs
+    abgewichen werden.
+
+
+
 
 
 ###### § 675r Ausführung eines Zahlungsvorgangs anhand von Kundenkennungen
@@ -13254,8 +16149,9 @@ Zahlungsempfänger als ordnungsgemäß ausgeführt.
 (2) Eine Kundenkennung ist eine Abfolge aus Buchstaben, Zahlen oder
 Symbolen, die dem Zahlungsdienstnutzer vom Zahlungsdienstleister
 mitgeteilt wird und die der Zahlungsdienstnutzer angeben muss, damit
-der andere am Zahlungsvorgang beteiligte Zahlungsdienstnutzer oder
-dessen Zahlungskonto zweifelsfrei ermittelt werden kann.
+ein anderer am Zahlungsvorgang beteiligter Zahlungsdienstnutzer oder
+dessen Zahlungskonto für einen Zahlungsvorgang zweifelsfrei ermittelt
+werden kann.
 
 (3) Ist eine vom Zahler angegebene Kundenkennung für den
 Zahlungsdienstleister des Zahlers erkennbar keinem Zahlungsempfänger
@@ -13269,14 +16165,12 @@ den Zahlungsbetrag wieder herauszugeben.
 (1) Der Zahlungsdienstleister des Zahlers ist verpflichtet
 sicherzustellen, dass der Zahlungsbetrag spätestens am Ende des auf
 den Zugangszeitpunkt des Zahlungsauftrags folgenden Geschäftstags beim
-Zahlungsdienstleister des Zahlungsempfängers eingeht; bis zum 1.
-Januar 2012 können ein Zahler und sein Zahlungsdienstleister eine
-Frist von bis zu drei Geschäftstagen vereinbaren. Für Zahlungsvorgänge
-innerhalb des Europäischen Wirtschaftsraums, die nicht in Euro
-erfolgen, können ein Zahler und sein Zahlungsdienstleister eine Frist
-von maximal vier Geschäftstagen vereinbaren. Für in Papierform
-ausgelöste Zahlungsvorgänge können die Fristen nach Satz 1 um einen
-weiteren Geschäftstag verlängert werden.
+Zahlungsdienstleister des Zahlungsempfängers eingeht. Für
+Zahlungsvorgänge innerhalb des Europäischen Wirtschaftsraums, die
+nicht in Euro erfolgen, können ein Zahler und sein
+Zahlungsdienstleister eine Frist von maximal vier Geschäftstagen
+vereinbaren. Für in Papierform ausgelöste Zahlungsvorgänge können die
+Fristen nach Satz 1 um einen weiteren Geschäftstag verlängert werden.
 
 (2) Bei einem vom oder über den Zahlungsempfänger ausgelösten
 Zahlungsvorgang ist der Zahlungsdienstleister des Zahlungsempfängers
@@ -13287,13 +16181,43 @@ einer Lastschrift ist der Zahlungsauftrag so rechtzeitig zu
 übermitteln, dass die Verrechnung an dem vom Zahlungsempfänger
 mitgeteilten Fälligkeitstag ermöglicht wird.
 
+(3) Wenn einer der Fälle des § 675d Absatz 6 Satz 1 Nummer 1 vorliegt,
+ist § 675s Absatz 1 Satz 1 und 3 auf die innerhalb des Europäischen
+Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+anzuwenden. Wenn ein Fall des § 675d Absatz 6 Satz 1 Nummer 1
+Buchstabe a vorliegt,
 
-###### § 675t Wertstellungsdatum und Verfügbarkeit von Geldbeträgen
+1.  ist auch § 675s Absatz 1 Satz 2 auf die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+    anzuwenden und
+
+
+2.  kann von § 675s Absatz 2 für die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs
+    abgewichen werden.
+
+
+
+
+
+###### § 675t Wertstellungsdatum und Verfügbarkeit von Geldbeträgen; Sperrung eines verfügbaren Geldbetrags
 
 (1) Der Zahlungsdienstleister des Zahlungsempfängers ist verpflichtet,
 dem Zahlungsempfänger den Zahlungsbetrag unverzüglich verfügbar zu
-machen, nachdem er auf dem Konto des Zahlungsdienstleisters
-eingegangen ist. Sofern der Zahlungsbetrag auf einem Zahlungskonto des
+machen, nachdem der Betrag auf dem Konto des Zahlungsdienstleisters
+eingegangen ist, wenn dieser
+
+1.  keine Währungsumrechnung vornehmen muss oder
+
+
+2.  nur eine Währungsumrechnung zwischen dem Euro und einer Währung eines
+    Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+    oder zwischen den Währungen zweier Vertragsstaaten des Abkommens über
+    den Europäischen Wirtschaftsraum vornehmen muss.
+
+
+
+Sofern der Zahlungsbetrag auf einem Zahlungskonto des
 Zahlungsempfängers gutgeschrieben werden soll, ist die Gutschrift,
 auch wenn sie nachträglich erfolgt, so vorzunehmen, dass der
 Zeitpunkt, den der Zahlungsdienstleister für die Berechnung der Zinsen
@@ -13314,7 +16238,43 @@ Geschäftstag verfügbar gemacht und wertgestellt werden.
 
 (3) Eine Belastung auf dem Zahlungskonto des Zahlers ist so
 vorzunehmen, dass das Wertstellungsdatum frühestens der Zeitpunkt ist,
-an dem dieses Zahlungskonto mit dem Zahlungsbetrag belastet wird.
+an dem dieses Zahlungskonto mit dem Zahlungsbetrag belastet wird. Das
+Zahlungskonto des Zahlers darf nicht belastet werden, bevor der
+Zahlungsauftrag seinem Zahlungsdienstleister zugegangen ist.
+
+(4) Unbeschadet sonstiger gesetzlicher oder vertraglicher Rechte ist
+der Zahlungsdienstleister des Zahlers im Fall eines kartengebundenen
+Zahlungsvorgangs berechtigt, einen verfügbaren Geldbetrag auf dem
+Zahlungskonto des Zahlers zu sperren, wenn
+
+1.  der Zahlungsvorgang vom oder über den Zahlungsempfänger ausgelöst
+    worden ist und
+
+
+2.  der Zahler auch der genauen Höhe des zu sperrenden Geldbetrags
+    zugestimmt hat.
+
+
+
+Den gesperrten Geldbetrag gibt der Zahlungsdienstleister des Zahlers
+unbeschadet sonstiger gesetzlicher oder vertraglicher Rechte
+unverzüglich frei, nachdem ihm entweder der genaue Zahlungsbetrag
+mitgeteilt worden oder der Zahlungsauftrag zugegangen ist.
+
+(5) Wenn ein Fall des § 675d Absatz 6 Satz 1 Nummer 1 Buchstabe a
+vorliegt,
+
+1.  kann von § 675t Absatz 1 Satz 3 für die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs
+    abgewichen werden und
+
+
+2.  ist § 675t Absatz 2 auf die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+    anzuwenden.
+
+
+
 
 
 ###### Unterkapitel 3 - Haftung
@@ -13329,45 +16289,97 @@ Erstattung seiner Aufwendungen. Er ist verpflichtet, dem Zahler den
 Zahlungsbetrag unverzüglich zu erstatten und, sofern der Betrag einem
 Zahlungskonto belastet worden ist, dieses Zahlungskonto wieder auf den
 Stand zu bringen, auf dem es sich ohne die Belastung durch den nicht
-autorisierten Zahlungsvorgang befunden hätte.
+autorisierten Zahlungsvorgang befunden hätte. Diese Verpflichtung ist
+unverzüglich, spätestens jedoch bis zum Ende des Geschäftstags zu
+erfüllen, der auf den Tag folgt, an welchem dem Zahlungsdienstleister
+angezeigt wurde, dass der Zahlungsvorgang nicht autorisiert ist, oder
+er auf andere Weise davon Kenntnis erhalten hat. Hat der
+Zahlungsdienstleister einer zuständigen Behörde berechtigte Gründe für
+den Verdacht, dass ein betrügerisches Verhalten des Zahlers vorliegt,
+schriftlich mitgeteilt, hat der Zahlungsdienstleister seine
+Verpflichtung aus Satz 2 unverzüglich zu prüfen und zu erfüllen, wenn
+sich der Betrugsverdacht nicht bestätigt. Wurde der Zahlungsvorgang
+über einen Zahlungsauslösedienstleister ausgelöst, so treffen die
+Pflichten aus den Sätzen 2 bis 4 den kontoführenden
+Zahlungsdienstleister.
 
 
-###### § 675v Haftung des Zahlers bei missbräuchlicher Nutzung eines Zahlungsauthentifizierungsinstruments
+###### § 675v Haftung des Zahlers bei missbräuchlicher Nutzung eines Zahlungsinstruments
 
 (1) Beruhen nicht autorisierte Zahlungsvorgänge auf der Nutzung eines
-verlorengegangenen, gestohlenen oder sonst abhanden gekommenen
-Zahlungsauthentifizierungsinstruments, so kann der
-Zahlungsdienstleister des Zahlers von diesem den Ersatz des hierdurch
-entstandenen Schadens bis zu einem Betrag von 150 Euro verlangen. Dies
-gilt auch, wenn der Schaden infolge einer sonstigen missbräuchlichen
-Verwendung eines Zahlungsauthentifizierungsinstruments entstanden ist
-und der Zahler die personalisierten Sicherheitsmerkmale nicht sicher
-aufbewahrt hat.
+verloren gegangenen, gestohlenen oder sonst abhandengekommenen
+Zahlungsinstruments oder auf der sonstigen missbräuchlichen Verwendung
+eines Zahlungsinstruments, so kann der Zahlungsdienstleister des
+Zahlers von diesem den Ersatz des hierdurch entstandenen Schadens bis
+zu einem Betrag von 50 Euro verlangen.
 
-(2) Der Zahler ist seinem Zahlungsdienstleister zum Ersatz des
-gesamten Schadens verpflichtet, der infolge eines nicht autorisierten
-Zahlungsvorgangs entstanden ist, wenn er ihn in betrügerischer Absicht
-ermöglicht hat oder durch vorsätzliche oder grob fahrlässige
-Verletzung
+(2) Der Zahler haftet nicht nach Absatz 1, wenn
 
-1.  einer oder mehrerer Pflichten gemäß § 675l oder
+1.  es ihm nicht möglich gewesen ist, den Verlust, den Diebstahl, das
+    Abhandenkommen oder eine sonstige missbräuchliche Verwendung des
+    Zahlungsinstruments vor dem nicht autorisierten Zahlungsvorgang zu
+    bemerken, oder
 
 
-2.  einer oder mehrerer vereinbarter Bedingungen für die Ausgabe und
-    Nutzung des Zahlungsauthentifizierungsinstruments
+2.  der Verlust des Zahlungsinstruments durch einen Angestellten, einen
+    Agenten, eine Zweigniederlassung eines Zahlungsdienstleisters oder
+    eine sonstige Stelle, an die Tätigkeiten des Zahlungsdienstleisters
+    ausgelagert wurden, verursacht worden ist.
 
 
 
-herbeigeführt hat.
 
-(3) Abweichend von den Absätzen 1 und 2 ist der Zahler nicht zum
+(3) Abweichend von den Absätzen 1 und 2 ist der Zahler seinem
+Zahlungsdienstleister zum Ersatz des gesamten Schadens verpflichtet,
+der infolge eines nicht autorisierten Zahlungsvorgangs entstanden ist,
+wenn der Zahler
+
+1.  in betrügerischer Absicht gehandelt hat oder
+
+
+2.  den Schaden herbeigeführt hat durch vorsätzliche oder grob fahrlässige
+    Verletzung
+
+    a)  einer oder mehrerer Pflichten gemäß § 675l Absatz 1 oder
+
+
+    b)  einer oder mehrerer vereinbarter Bedingungen für die Ausgabe und
+        Nutzung des Zahlungsinstruments.
+
+
+
+
+
+
+
+(4) Abweichend von den Absätzen 1 und 3 ist der Zahler seinem
+Zahlungsdienstleister nicht zum Schadensersatz verpflichtet, wenn
+
+1.  der Zahlungsdienstleister des Zahlers eine starke
+    Kundenauthentifizierung im Sinne des § 1 Absatz 24 des
+    Zahlungsdiensteaufsichtsgesetzes nicht verlangt oder
+
+
+2.  der Zahlungsempfänger oder sein Zahlungsdienstleister eine starke
+    Kundenauthentifizierung im Sinne des § 1 Absatz 24 des
+    Zahlungsdiensteaufsichtsgesetzes nicht akzeptiert.
+
+
+
+Satz 1 gilt nicht, wenn der Zahler in betrügerischer Absicht gehandelt
+hat. Im Fall von Satz 1 Nummer 2 ist derjenige, der eine starke
+Kundenauthentifizierung nicht akzeptiert, verpflichtet, dem
+Zahlungsdienstleister des Zahlers den daraus entstehenden Schaden zu
+ersetzen.
+
+(5) Abweichend von den Absätzen 1 und 3 ist der Zahler nicht zum
 Ersatz von Schäden verpflichtet, die aus der Nutzung eines nach der
-Anzeige gemäß § 675l Satz 2 verwendeten
-Zahlungsauthentifizierungsinstruments entstanden sind. Der Zahler ist
-auch nicht zum Ersatz von Schäden im Sinne des Absatzes 1
-verpflichtet, wenn der Zahlungsdienstleister seiner Pflicht gemäß §
-675m Abs. 1 Nr. 3 nicht nachgekommen ist. Die Sätze 1 und 2 sind nicht
-anzuwenden, wenn der Zahler in betrügerischer Absicht gehandelt hat.
+Anzeige gemäß § 675l Absatz 1 Satz 2 verwendeten Zahlungsinstruments
+entstanden sind. Der Zahler ist auch nicht zum Ersatz von Schäden im
+Sinne des Absatzes 1 verpflichtet, wenn der Zahlungsdienstleister
+seiner Pflicht gemäß § 675m Abs. 1 Nr. 3 nicht nachgekommen ist. Die
+Sätze 1 und 2 sind nicht anzuwenden, wenn der Zahler in betrügerischer
+Absicht gehandelt hat.
 
 
 ###### § 675w Nachweis der Authentifizierung
@@ -13378,13 +16390,13 @@ Authentifizierung erfolgt ist und der Zahlungsvorgang ordnungsgemäß
 aufgezeichnet, verbucht sowie nicht durch eine Störung beeinträchtigt
 wurde. Eine Authentifizierung ist erfolgt, wenn der
 Zahlungsdienstleister die Nutzung eines bestimmten
-Zahlungsauthentifizierungsinstruments, einschließlich seiner
-personalisierten Sicherheitsmerkmale, mit Hilfe eines Verfahrens
-überprüft hat. Wurde der Zahlungsvorgang mittels eines
-Zahlungsauthentifizierungsinstruments ausgelöst, reicht die
-Aufzeichnung der Nutzung des Zahlungsauthentifizierungsinstruments
+Zahlungsinstruments, einschließlich seiner personalisierten
+Sicherheitsmerkmale, mit Hilfe eines Verfahrens überprüft hat. Wurde
+der Zahlungsvorgang mittels eines Zahlungsinstruments ausgelöst,
+reicht die Aufzeichnung der Nutzung des Zahlungsinstruments
 einschließlich der Authentifizierung durch den Zahlungsdienstleister
-allein nicht notwendigerweise aus, um nachzuweisen, dass der Zahler
+und gegebenenfalls einen Zahlungsauslösedienstleister allein nicht
+notwendigerweise aus, um nachzuweisen, dass der Zahler
 
 1.  den Zahlungsvorgang autorisiert,
 
@@ -13392,16 +16404,17 @@ allein nicht notwendigerweise aus, um nachzuweisen, dass der Zahler
 2.  in betrügerischer Absicht gehandelt,
 
 
-3.  eine oder mehrere Pflichten gemäß § 675l verletzt oder
+3.  eine oder mehrere Pflichten gemäß § 675l Absatz 1 verletzt oder
 
 
 4.  vorsätzlich oder grob fahrlässig gegen eine oder mehrere Bedingungen
-    für die Ausgabe und Nutzung des Zahlungsauthentifizierungsinstruments
-    verstoßen
+    für die Ausgabe und Nutzung des Zahlungsinstruments verstoßen
 
 
 
-hat.
+hat. Der Zahlungsdienstleister muss unterstützende Beweismittel
+vorlegen, um Betrug, Vorsatz oder grobe Fahrlässigkeit des
+Zahlungsdienstnutzers nachzuweisen.
 
 
 ###### § 675x Erstattungsanspruch bei einem vom oder über den Zahlungsempfänger ausgelösten autorisierten Zahlungsvorgang
@@ -13423,23 +16436,25 @@ Zahlungsvorgang beruht, wenn
 
 
 
-Der Zahler ist auf Verlangen seines Zahlungsdienstleisters
-verpflichtet, die Sachumstände darzulegen, aus denen er sein
-Erstattungsverlangen herleitet.
+Ist der Zahlungsbetrag einem Zahlungskonto belastet worden, so ist die
+Gutschrift des Zahlungsbetrags auf diesem Zahlungskonto so
+vorzunehmen, dass das Wertstellungsdatum spätestens der Geschäftstag
+der Belastung ist. Auf Verlangen seines Zahlungsdienstleisters hat der
+Zahler nachzuweisen, dass die Voraussetzungen des Satzes 1 Nummer 1
+und 2 erfüllt sind.
 
-(2) Im Fall von Lastschriften können der Zahler und sein
-Zahlungsdienstleister vereinbaren, dass der Zahler auch dann einen
-Anspruch auf Erstattung gegen seinen Zahlungsdienstleister hat, wenn
-die Voraussetzungen für eine Erstattung nach Absatz 1 nicht erfüllt
-sind.
+(2) Unbeschadet des Absatzes 3 hat der Zahler bei SEPA-
+Basislastschriften und SEPA-Firmenlastschriften ohne Angabe von
+Gründen auch dann einen Anspruch auf Erstattung gegen seinen
+Zahlungsdienstleister, wenn die Voraussetzungen für eine Erstattung
+nach Absatz 1 nicht erfüllt sind.
 
 (3) Der Zahler kann mit seinem Zahlungsdienstleister vereinbaren, dass
 er keinen Anspruch auf Erstattung hat, wenn er seine Zustimmung zur
-Durchführung des Zahlungsvorgangs unmittelbar seinem
-Zahlungsdienstleister erteilt hat und er, sofern vereinbart, über den
-anstehenden Zahlungsvorgang mindestens vier Wochen vor dem
-Fälligkeitstermin vom Zahlungsdienstleister oder vom Zahlungsempfänger
-unterrichtet wurde.
+Ausführung des Zahlungsvorgangs direkt seinem Zahlungsdienstleister
+erteilt hat und er, sofern vereinbart, über den anstehenden
+Zahlungsvorgang mindestens vier Wochen vor dem Fälligkeitstermin vom
+Zahlungsdienstleister oder vom Zahlungsempfänger unterrichtet wurde.
 
 (4) Ein Anspruch des Zahlers auf Erstattung ist ausgeschlossen, wenn
 er ihn nicht innerhalb von acht Wochen ab dem Zeitpunkt der Belastung
@@ -13450,20 +16465,31 @@ Zahlungsdienstleister geltend macht.
 Geschäftstagen nach Zugang eines Erstattungsverlangens entweder den
 vollständigen Betrag des Zahlungsvorgangs zu erstatten oder dem Zahler
 die Gründe für die Ablehnung der Erstattung mitzuteilen. Im Fall der
-Ablehnung hat der Zahlungsdienstleister auf die Beschwerdemöglichkeit
-gemäß § 28 des Zahlungsdiensteaufsichtsgesetzes und auf die
-Möglichkeit, eine Schlichtungsstelle gemäß § 14 des
-Unterlassungsklagengesetzes anzurufen, hinzuweisen. Das Recht des
-Zahlungsdienstleisters, eine innerhalb der Frist nach Absatz 4 geltend
-gemachte Erstattung abzulehnen, erstreckt sich nicht auf den Fall nach
-Absatz 2.
+Ablehnung hat der Zahlungsdienstleister auf die
+Beschwerdemöglichkeiten gemäß den §§ 60 bis 62 des
+Zahlungsdiensteaufsichtsgesetzes und auf die Möglichkeit, eine
+Schlichtungsstelle gemäß § 14 des Unterlassungsklagengesetzes
+anzurufen, hinzuweisen. Das Recht des Zahlungsdienstleisters, eine
+innerhalb der Frist nach Absatz 4 geltend gemachte Erstattung
+abzulehnen, erstreckt sich nicht auf den Fall nach Absatz 2.
 
-(6) Absatz 1 ist nicht anzuwenden auf Lastschriften, sobald diese
-durch eine Genehmigung des Zahlers unmittelbar gegenüber seinem
-Zahlungsdienstleister autorisiert worden sind.
+(6) Wenn ein Fall des § 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b
+vorliegt,
+
+1.  ist § 675x Absatz 1 auf die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+    anzuwenden und
 
 
-###### § 675y Haftung der Zahlungsdienstleister bei nicht erfolgter oder fehlerhafter Ausführung eines Zahlungsauftrags; Nachforschungspflicht
+2.  kann von § 675x Absatz 2 bis 5 für die innerhalb des Europäischen
+    Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs
+    abgewichen werden.
+
+
+
+
+
+###### § 675y Haftung der Zahlungsdienstleister bei nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines Zahlungsauftrags; Nachforschungspflicht
 
 (1) Wird ein Zahlungsvorgang vom Zahler ausgelöst, kann dieser von
 seinem Zahlungsdienstleister im Fall einer nicht erfolgten oder
@@ -13471,12 +16497,14 @@ fehlerhaften Ausführung des Zahlungsauftrags die unverzügliche und
 ungekürzte Erstattung des Zahlungsbetrags verlangen. Wurde der Betrag
 einem Zahlungskonto des Zahlers belastet, ist dieses Zahlungskonto
 wieder auf den Stand zu bringen, auf dem es sich ohne den fehlerhaft
-ausgeführten Zahlungsvorgang befunden hätte. Soweit vom Zahlungsbetrag
-entgegen § 675q Abs. 1 Entgelte abgezogen wurden, hat der
-Zahlungsdienstleister des Zahlers den abgezogenen Betrag dem
-Zahlungsempfänger unverzüglich zu übermitteln. Weist der
-Zahlungsdienstleister des Zahlers nach, dass der Zahlungsbetrag
-rechtzeitig und ungekürzt beim Zahlungsdienstleister des
+ausgeführten Zahlungsvorgang befunden hätte. Wird ein Zahlungsvorgang
+vom Zahler über einen Zahlungsauslösedienstleister ausgelöst, so
+treffen die Pflichten aus den Sätzen 1 und 2 den kontoführenden
+Zahlungsdienstleister. Soweit vom Zahlungsbetrag entgegen § 675q Abs.
+1 Entgelte abgezogen wurden, hat der Zahlungsdienstleister des Zahlers
+den abgezogenen Betrag dem Zahlungsempfänger unverzüglich zu
+übermitteln. Weist der Zahlungsdienstleister des Zahlers nach, dass
+der Zahlungsbetrag ungekürzt beim Zahlungsdienstleister des
 Zahlungsempfängers eingegangen ist, entfällt die Haftung nach diesem
 Absatz.
 
@@ -13495,38 +16523,83 @@ wurden, hat der Zahlungsdienstleister des Zahlungsempfängers den
 abgezogenen Betrag dem Zahlungsempfänger unverzüglich verfügbar zu
 machen.
 
-(3) Ansprüche des Zahlungsdienstnutzers gegen seinen
+(3) Wird ein Zahlungsvorgang vom Zahler ausgelöst, kann dieser im Fall
+einer verspäteten Ausführung des Zahlungsauftrags verlangen, dass sein
+Zahlungsdienstleister gegen den Zahlungsdienstleister des
+Zahlungsempfängers den Anspruch nach Satz 2 geltend macht. Der
+Zahlungsdienstleister des Zahlers kann vom Zahlungsdienstleister des
+Zahlungsempfängers verlangen, die Gutschrift des Zahlungsbetrags auf
+dem Zahlungskonto des Zahlungsempfängers so vorzunehmen, als sei der
+Zahlungsvorgang ordnungsgemäß ausgeführt worden. Wird ein
+Zahlungsvorgang vom Zahler über einen Zahlungsauslösedienstleister
+ausgelöst, so trifft die Pflicht aus Satz 1 den kontoführenden
+Zahlungsdienstleister. Weist der Zahlungsdienstleister des Zahlers
+nach, dass der Zahlungsbetrag rechtzeitig beim Zahlungsdienstleister
+des Zahlungsempfängers eingegangen ist, entfällt die Haftung nach
+diesem Absatz.
+
+(4) Wird ein Zahlungsvorgang vom oder über den Zahlungsempfänger
+ausgelöst, kann dieser im Fall einer verspäteten Übermittlung des
+Zahlungsauftrags verlangen, dass sein Zahlungsdienstleister die
+Gutschrift des Zahlungsbetrags auf dem Zahlungskonto des
+Zahlungsempfängers so vornimmt, als sei der Zahlungsvorgang
+ordnungsgemäß ausgeführt worden. Weist der Zahlungsdienstleister des
+Zahlungsempfängers nach, dass er den Zahlungsauftrag rechtzeitig an
+den Zahlungsdienstleister des Zahlers übermittelt hat, ist der
+Zahlungsdienstleister des Zahlers verpflichtet, dem Zahler
+gegebenenfalls unverzüglich den ungekürzten Zahlungsbetrag nach Absatz
+1 Satz 1 und 2 zu erstatten. Dies gilt nicht, wenn der
+Zahlungsdienstleister des Zahlers nachweist, dass der Zahlungsbetrag
+lediglich verspätet beim Zahlungsdienstleister des Zahlungsempfängers
+eingegangen ist. In diesem Fall ist der Zahlungsdienstleister des
+Zahlungsempfängers verpflichtet, den Zahlungsbetrag entsprechend Satz
+1 auf dem Zahlungskonto des Zahlungsempfängers gutzuschreiben.
+
+(5) Ansprüche des Zahlungsdienstnutzers gegen seinen
 Zahlungsdienstleister nach Absatz 1 Satz 1 und 2 sowie Absatz 2 Satz 2
 bestehen nicht, soweit der Zahlungsauftrag in Übereinstimmung mit der
 vom Zahlungsdienstnutzer angegebenen fehlerhaften Kundenkennung
 ausgeführt wurde. In diesem Fall kann der Zahler von seinem
 Zahlungsdienstleister jedoch verlangen, dass dieser sich im Rahmen
 seiner Möglichkeiten darum bemüht, den Zahlungsbetrag
-wiederzuerlangen. Der Zahlungsdienstleister darf mit dem
-Zahlungsdienstnutzer im Zahlungsdiensterahmenvertrag für diese
-Wiederbeschaffung ein Entgelt vereinbaren.
+wiederzuerlangen. Der Zahlungsdienstleister des Zahlungsempfängers ist
+verpflichtet, dem Zahlungsdienstleister des Zahlers alle für die
+Wiedererlangung des Zahlungsbetrags erforderlichen Informationen
+mitzuteilen. Ist die Wiedererlangung des Zahlungsbetrags nach den
+Sätzen 2 und 3 nicht möglich, so ist der Zahlungsdienstleister des
+Zahlers verpflichtet, dem Zahler auf schriftlichen Antrag alle
+verfügbaren Informationen mitzuteilen, damit der Zahler einen Anspruch
+auf Erstattung des Zahlungsbetrags geltend machen kann. Der
+Zahlungsdienstleister kann mit dem Zahlungsdienstnutzer im
+Zahlungsdiensterahmenvertrag ein Entgelt für Tätigkeiten nach den
+Sätzen 2 bis 4 vereinbaren.
 
-(4) Ein Zahlungsdienstnutzer kann von seinem Zahlungsdienstleister
+(6) Ein Zahlungsdienstnutzer kann von seinem Zahlungsdienstleister
 über die Ansprüche nach den Absätzen 1 und 2 hinaus die Erstattung der
 Entgelte und Zinsen verlangen, die der Zahlungsdienstleister ihm im
 Zusammenhang mit der nicht erfolgten oder fehlerhaften Ausführung des
 Zahlungsvorgangs in Rechnung gestellt oder mit denen er dessen
 Zahlungskonto belastet hat.
 
-(5) Wurde ein Zahlungsauftrag nicht oder fehlerhaft ausgeführt, hat
+(7) Wurde ein Zahlungsauftrag nicht oder fehlerhaft ausgeführt, hat
 der Zahlungsdienstleister desjenigen Zahlungsdienstnutzers, der einen
 Zahlungsvorgang ausgelöst hat oder über den ein Zahlungsvorgang
 ausgelöst wurde, auf Verlangen seines Zahlungsdienstnutzers den
 Zahlungsvorgang nachzuvollziehen und seinen Zahlungsdienstnutzer über
 das Ergebnis zu unterrichten.
 
+(8) Wenn ein Fall des § 675d Absatz 6 Satz 1 Nummer 1 Buchstabe b
+vorliegt, ist § 675y Absatz 1 bis 4 auf die innerhalb des Europäischen
+Wirtschaftsraums getätigten Bestandteile des Zahlungsvorgangs nicht
+anzuwenden.
 
-###### § 675z Sonstige Ansprüche bei nicht erfolgter oder fehlerhafter Ausführung eines Zahlungsauftrags oder bei einem nicht autorisierten Zahlungsvorgang
+
+###### § 675z Sonstige Ansprüche bei nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines Zahlungsauftrags oder bei einem nicht autorisierten Zahlungsvorgang
 
 Die §§ 675u und 675y sind hinsichtlich der dort geregelten Ansprüche
 eines Zahlungsdienstnutzers abschließend. Die Haftung eines
 Zahlungsdienstleisters gegenüber seinem Zahlungsdienstnutzer für einen
-wegen nicht erfolgter oder fehlerhafter Ausführung eines
+wegen nicht erfolgter, fehlerhafter oder verspäteter Ausführung eines
 Zahlungsauftrags entstandenen Schaden, der nicht bereits von § 675y
 erfasst ist, kann auf 12 500 Euro begrenzt werden; dies gilt nicht für
 Vorsatz und grobe Fahrlässigkeit, den Zinsschaden und für Gefahren,
@@ -13538,8 +16611,11 @@ zwischengeschalteten Stelle liegt, die der Zahlungsdienstnutzer
 vorgegeben hat. In den Fällen von Satz 3 zweiter Halbsatz haftet die
 von dem Zahlungsdienstnutzer vorgegebene zwischengeschaltete Stelle
 anstelle des Zahlungsdienstleisters des Zahlungsdienstnutzers. § 675y
-Abs. 3 Satz 1 ist auf die Haftung eines Zahlungsdienstleisters nach
-den Sätzen 2 bis 4 entsprechend anzuwenden.
+Absatz 5 Satz 1 ist auf die Haftung eines Zahlungsdienstleisters nach
+den Sätzen 2 bis 4 entsprechend anzuwenden. Wenn ein Fall des § 675d
+Absatz 6 Satz 1 Nummer 1 Buchstabe b vorliegt, ist § 675z Satz 3 auf
+die innerhalb des Europäischen Wirtschaftsraums getätigten
+Bestandteile des Zahlungsvorgangs nicht anzuwenden.
 
 
 ###### § 676 Nachweis der Ausführung von Zahlungsvorgängen
@@ -13553,13 +16629,38 @@ Störung beeinträchtigt wurde.
 
 ###### § 676a Ausgleichsanspruch
 
-Liegt die Ursache für die Haftung eines Zahlungsdienstleisters gemäß
-den §§ 675y und 675z im Verantwortungsbereich eines anderen
-Zahlungsdienstleisters oder einer zwischengeschaltete Stelle, so kann
-er vom anderen Zahlungsdienstleister oder der zwischengeschalteten
-Stelle den Ersatz des Schadens verlangen, der ihm aus der Erfüllung
-der Ansprüche eines Zahlungsdienstnutzers gemäß den §§ 675y und 675z
-entsteht.
+(1) Liegt die Ursache für die Haftung eines Zahlungsdienstleisters
+gemäß den §§ 675u, 675y und 675z im Verantwortungsbereich eines
+anderen Zahlungsdienstleisters, eines Zahlungsauslösedienstleisters
+oder einer zwischengeschalteten Stelle, so kann der
+Zahlungsdienstleister von dem anderen Zahlungsdienstleister, dem
+Zahlungsauslösedienstleister oder der zwischengeschalteten Stelle den
+Ersatz des Schadens verlangen, der ihm aus der Erfüllung der Ansprüche
+eines Zahlungsdienstnutzers gemäß den §§ 675u, 675y und 675z entsteht.
+
+(2) Ist zwischen dem kontoführenden Zahlungsdienstleister des Zahlers
+und einem Zahlungsauslösedienstleister streitig, ob ein ausgeführter
+Zahlungsvorgang autorisiert wurde, muss der
+Zahlungsauslösedienstleister nachweisen, dass in seinem
+Verantwortungsbereich eine Authentifizierung erfolgt ist und der
+Zahlungsvorgang ordnungsgemäß aufgezeichnet sowie nicht durch eine
+Störung beeinträchtigt wurde.
+
+(3) Ist zwischen dem kontoführenden Zahlungsdienstleister des Zahlers
+und einem Zahlungsauslösedienstleister streitig, ob ein
+Zahlungsvorgang ordnungsgemäß ausgeführt wurde, muss der
+Zahlungsauslösedienstleister nachweisen, dass
+
+1.  der Zahlungsauftrag dem kontoführenden Zahlungsdienstleister gemäß §
+    675n zugegangen ist und
+
+
+2.  der Zahlungsvorgang im Verantwortungsbereich des
+    Zahlungsauslösedienstleisters ordnungsgemäß aufgezeichnet sowie nicht
+    durch eine Störung beeinträchtigt wurde.
+
+
+
 
 
 ###### § 676b Anzeige nicht autorisierter oder fehlerhaft ausgeführter Zahlungsvorgänge
@@ -13585,6 +16686,38 @@ nicht autorisierten oder fehlerhaft ausgeführten Zahlungsvorgangs gilt
 Absatz 2 mit der Maßgabe, dass der Zahlungsdienstnutzer diese
 Ansprüche auch nach Ablauf der Frist geltend machen kann, wenn er ohne
 Verschulden an der Einhaltung der Frist verhindert war.
+
+(4) Wurde der Zahlungsvorgang über einen Zahlungsauslösedienstleister
+ausgelöst, sind Ansprüche und Einwendungen des Zahlungsdienstnutzers
+gegen seinen kontoführenden Zahlungsdienstleister ausgeschlossen, wenn
+der Zahlungsdienstnutzer den kontoführenden Zahlungsdienstleister
+nicht spätestens 13 Monate nach dem Tag der Belastung mit einem nicht
+autorisierten oder fehlerhaften Zahlungsvorgang hiervon unterrichtet
+hat. Der Lauf der Frist beginnt nur, wenn der kontoführende
+Zahlungsdienstleister den Zahlungsdienstnutzer über die den
+Zahlungsvorgang betreffenden Angaben gemäß Artikel 248 §§ 7, 10 oder §
+14 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche unterrichtet
+hat; anderenfalls ist für den Fristbeginn der Tag der Unterrichtung
+durch den kontoführenden Zahlungsdienstleister maßgeblich.
+
+(5) Für andere als die in § 675z Satz 1 genannten Ansprüche des
+Zahlungsdienstnutzers gegen seinen kontoführenden
+Zahlungsdienstleister oder gegen den Zahlungsauslösedienstleister
+wegen eines nicht autorisierten oder fehlerhaft ausgeführten
+Zahlungsvorgangs gilt Absatz 4 mit der Maßgabe, dass
+
+1.  die Anzeige an den kontoführenden Zahlungsdienstleister auch zur
+    Erhaltung von Ansprüchen und Einwendungen des Zahlungsdienstnutzers
+    gegen den Zahlungsauslösedienstleister genügt und
+
+
+2.  der Zahlungsdienstnutzer seine Ansprüche gegen den kontoführenden
+    Zahlungsdienstleister oder gegen den Zahlungsauslösedienstleister auch
+    nach Ablauf der Frist geltend machen kann, wenn er ohne Verschulden an
+    der Einhaltung der Frist verhindert war.
+
+
+
 
 
 ###### § 676c Haftungsausschluss
@@ -15644,6 +18777,14 @@ Abs. 2 bis 4 finden entsprechende Anwendung. Die Ersatzpflicht tritt
 auch dann ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber
 noch nicht geboren war.
 
+(3) Der Ersatzpflichtige hat dem Hinterbliebenen, der zur Zeit der
+Verletzung zu dem Getöteten in einem besonderen persönlichen
+Näheverhältnis stand, für das dem Hinterbliebenen zugefügte seelische
+Leid eine angemessene Entschädigung in Geld zu leisten. Ein besonderes
+persönliches Näheverhältnis wird vermutet, wenn der Hinterbliebene der
+Ehegatte, der Lebenspartner, ein Elternteil oder ein Kind des
+Getöteten war.
+
 
 ##### § 845 Ersatzansprüche wegen entgangener Dienste
 
@@ -15945,7 +19086,9 @@ hat.
 Bei der Eintragung eines Rechts, mit dem ein Grundstück belastet wird,
 kann zur näheren Bezeichnung des Inhalts des Rechts auf die
 Eintragungsbewilligung Bezug genommen werden, soweit nicht das Gesetz
-ein anderes vorschreibt.
+ein anderes vorschreibt. Einer Bezugnahme auf die
+Eintragungsbewilligung steht die Bezugnahme auf die bisherige
+Eintragung nach § 44 Absatz 3 Satz 2 der Grundbuchordnung gleich.
 
 
 #### § 875 Aufhebung eines Rechts
@@ -16178,7 +19321,7 @@ später zustande kommt, die Zeit der Einigung maßgebend.
 
 #### § 893 Rechtsgeschäft mit dem Eingetragenen
 
-Die Vorschrift des § 892 finden entsprechende Anwendung, wenn an
+Die Vorschrift des § 892 findet entsprechende Anwendung, wenn an
 denjenigen, für welchen ein Recht im Grundbuch eingetragen ist, auf
 Grund dieses Rechts eine Leistung bewirkt oder wenn zwischen ihm und
 einem anderen in Ansehung dieses Rechts ein nicht unter die Vorschrift
@@ -17231,9 +20374,9 @@ bezeichneten Berechtigten.
 (1) Die Behörde oder die Verkehrsanstalt kann die an sie abgelieferte
 Sache öffentlich versteigern lassen. Die öffentlichen Behörden und die
 Verkehrsanstalten des
-Reichs,              der
-Bundesstaaten              und der Gemeinden können die Versteigerung
-durch einen ihrer Beamten vornehmen lassen.
+Reichs, der
+Bundesstaaten und der Gemeinden können die Versteigerung durch einen
+ihrer Beamten vornehmen lassen.
 
 (1a) Die Versteigerung kann nach Maßgabe der nachfolgenden
 Vorschriften auch als allgemein zugängliche Versteigerung im Internet
@@ -17273,13 +20416,12 @@ verbunden ist.
 bestimmten Frist drei Jahre verstrichen, so fällt der
 Versteigerungserlös, wenn nicht ein Empfangsberechtigter sein Recht
 angemeldet hat, bei
-Reichs             behörden und
-Reichs             anstalten an den
-Reichs             fiskus, bei Landesbehörden und Landesanstalten an
-den Fiskus des
-Bundesstaats,              bei Gemeindebehörden und Gemeindeanstalten
-an die Gemeinde, bei Verkehrsanstalten, die von einer Privatperson
-betrieben werden, an diese.
+Reichsbehörden und
+Reichsanstalten an den
+Reichsfiskus, bei Landesbehörden und Landesanstalten an den Fiskus des
+Bundesstaats, bei Gemeindebehörden und Gemeindeanstalten an die
+Gemeinde, bei Verkehrsanstalten, die von einer Privatperson betrieben
+werden, an diese.
 
 (2) Ist die Versteigerung ohne die öffentliche Bekanntmachung erfolgt,
 so beginnt die dreijährige Frist erst, nachdem die
@@ -17293,11 +20435,10 @@ wenn gefundenes Geld abgeliefert worden ist.
 ###### § 982 Ausführungsvorschriften
 
 Die in den §§ 980, 981 vorgeschriebene Bekanntmachung erfolgt bei
-Reichs             behörden und
-Reichs             anstalten nach den von dem
-Bundesrat,              in den übrigen Fällen nach den von der
-Zentralbehörde des
-Bundesstaats              erlassenen Vorschriften.
+Reichsbehörden und
+Reichsanstalten nach den von dem
+Bundesrat, in den übrigen Fällen nach den von der Zentralbehörde des
+Bundesstaats erlassenen Vorschriften.
 
 
 ###### § 983 Unanbringbare Sachen bei Behörden
@@ -20722,10 +23863,10 @@ Abs. 2 fällig werden.
 
 
 
-##### § 1297 Unklagbarkeit, Nichtigkeit eines Strafversprechens
+##### § 1297 Kein Antrag auf Eingehung der Ehe, Nichtigkeit eines Strafversprechens
 
-(1) Aus einem Verlöbnis kann nicht auf Eingehung der Ehe geklagt
-werden.
+(1) Aus einem Verlöbnis kann kein Antrag auf Eingehung der Ehe
+gestellt werden.
 
 (2) Das Versprechen einer Strafe für den Fall, dass die Eingehung der
 Ehe unterbleibt, ist nichtig.
@@ -20789,22 +23930,9 @@ beginnt mit der Auflösung des Verlöbnisses.
 
 ###### § 1303 Ehemündigkeit
 
-(1) Eine Ehe soll nicht vor Eintritt der Volljährigkeit eingegangen
-werden.
-
-(2) Das Familiengericht kann auf Antrag von dieser Vorschrift
-Befreiung erteilen, wenn der Antragsteller das 16. Lebensjahr
-vollendet hat und sein künftiger Ehegatte volljährig ist.
-
-(3) Widerspricht der gesetzliche Vertreter des Antragstellers oder ein
-sonstiger Inhaber der Personensorge dem Antrag, so darf das
-Familiengericht die Befreiung nur erteilen, wenn der Widerspruch nicht
-auf triftigen Gründen beruht.
-
-(4) Erteilt das Familiengericht die Befreiung nach Absatz 2, so bedarf
-der Antragsteller zur Eingehung der Ehe nicht mehr der Einwilligung
-des gesetzlichen Vertreters oder eines sonstigen Inhabers der
-Personensorge.
+Eine Ehe darf nicht vor Eintritt der Volljährigkeit eingegangen
+werden. Mit einer Person, die das 16. Lebensjahr nicht vollendet hat,
+kann eine Ehe nicht wirksam eingegangen werden.
 
 
 ###### § 1304 Geschäftsunfähigkeit
@@ -20879,6 +24007,10 @@ ausstellen. In besonderen Fällen darf sie auch Angehörigen anderer
 Staaten erteilt werden. Die Befreiung gilt nur für die Dauer von sechs
 Monaten.
 
+(3) Absatz 1 gilt nicht für Personen, die eine gleichgeschlechtliche
+Ehe eingehen wollen und deren Heimatstaat die Eingehung einer
+gleichgeschlechtlichen Ehe nicht vorsieht.
+
 
 ##### Untertitel 4 - Eheschließung
 
@@ -20889,9 +24021,19 @@ Monaten.
 (1) Die Ehe wird nur dadurch geschlossen, dass die Eheschließenden vor
 dem Standesbeamten erklären, die Ehe miteinander eingehen zu wollen.
 Der Standesbeamte darf seine Mitwirkung an der Eheschließung nicht
-verweigern, wenn die Voraussetzungen der Eheschließung vorliegen; er
-muss seine Mitwirkung verweigern, wenn offenkundig ist, dass die Ehe
-nach § 1314 Abs. 2 aufhebbar wäre.
+verweigern, wenn die Voraussetzungen der Eheschließung vorliegen. Der
+Standesbeamte muss seine Mitwirkung verweigern, wenn
+
+1.  offenkundig ist, dass die Ehe nach § 1314 Absatz 2 aufhebbar wäre,
+    oder
+
+
+2.  nach Artikel 13 Absatz 3 des Einführungsgesetzes zum Bürgerlichen
+    Gesetzbuche die beabsichtigte Ehe unwirksam wäre oder die Aufhebung
+    der Ehe in Betracht kommt.
+
+
+
 
 (2) Als Standesbeamter gilt auch, wer, ohne Standesbeamter zu sein,
 das Amt eines Standesbeamten öffentlich ausgeübt und die Ehe in das
@@ -20952,9 +24094,17 @@ werden kann, ergeben sich aus den folgenden Vorschriften.
 
 ##### § 1314 Aufhebungsgründe
 
-(1) Eine Ehe kann aufgehoben werden, wenn sie entgegen den
-Vorschriften der §§ 1303, 1304, 1306, 1307, 1311 geschlossen worden
-ist.
+(1) Eine Ehe kann aufgehoben werden, wenn sie
+
+1.  entgegen § 1303 Satz 1 mit einem Minderjährigen geschlossen worden
+    ist, der im Zeitpunkt der Eheschließung das 16. Lebensjahr vollendet
+    hatte, oder
+
+
+2.  entgegen den §§ 1304, 1306, 1307, 1311 geschlossen worden ist.
+
+
+
 
 (2) Eine Ehe kann ferner aufgehoben werden, wenn
 
@@ -20990,11 +24140,19 @@ ist.
 
 (1) Eine Aufhebung der Ehe ist ausgeschlossen
 
-1.  bei Verstoß gegen § 1303, wenn die Voraussetzungen des § 1303 Abs. 2
-    bei der Eheschließung vorlagen und das Familiengericht, solange der
-    Ehegatte nicht volljährig ist, die Eheschließung genehmigt oder wenn
-    der Ehegatte, nachdem er volljährig geworden ist, zu erkennen gegeben
-    hat, dass er die Ehe fortsetzen will (Bestätigung);
+1.  bei Verstoß gegen § 1303 Satz 1, wenn
+
+    a)  der minderjährige Ehegatte, nachdem er volljährig geworden ist, zu
+        erkennen gegeben hat, dass er die Ehe fortsetzen will (Bestätigung),
+        oder
+
+
+    b)  auf Grund außergewöhnlicher Umstände die Aufhebung der Ehe eine so
+        schwere Härte für den minderjährigen Ehegatten darstellen würde, dass
+        die Aufrechterhaltung der Ehe ausnahmsweise geboten erscheint;
+
+
+
 
 
 2.  bei Verstoß gegen § 1304, wenn der Ehegatte nach Wegfall der
@@ -21018,12 +24176,7 @@ ist.
 
 
 
-Die Bestätigung eines Geschäftsunfähigen ist unwirksam. Die
-Bestätigung eines Minderjährigen bedarf bei Verstoß gegen § 1304 und
-im Falle des § 1314 Abs. 2 Nr. 1 der Zustimmung des gesetzlichen
-Vertreters; verweigert der gesetzliche Vertreter die Zustimmung ohne
-triftige Gründe, so kann das Familiengericht die Zustimmung auf Antrag
-des Minderjährigen ersetzen.
+Die Bestätigung eines Geschäftsunfähigen ist unwirksam.
 
 (2) Eine Aufhebung der Ehe ist ferner ausgeschlossen
 
@@ -21047,8 +24200,8 @@ des Minderjährigen ersetzen.
 
 (1) Antragsberechtigt
 
-1.  sind bei Verstoß gegen die §§ 1303, 1304, 1306, 1307, 1311 sowie in
-    den Fällen des § 1314 Abs. 2 Nr. 1 und 5 jeder Ehegatte, die
+1.  sind bei Verstoß gegen § 1303 Satz 1, die §§ 1304, 1306, 1307, 1311
+    sowie in den Fällen des § 1314 Abs. 2 Nr. 1 und 5 jeder Ehegatte, die
     zuständige Verwaltungsbehörde und in den Fällen des § 1306 auch die
     dritte Person. Die zuständige Verwaltungsbehörde wird durch
     Rechtsverordnung der Landesregierungen bestimmt. Die Landesregierungen
@@ -21063,16 +24216,20 @@ des Minderjährigen ersetzen.
 
 
 (2) Der Antrag kann für einen geschäftsunfähigen Ehegatten nur von
-seinem gesetzlichen Vertreter gestellt werden. In den übrigen Fällen
-kann ein minderjähriger Ehegatte den Antrag nur selbst stellen; er
-bedarf dazu nicht der Zustimmung seines gesetzlichen Vertreters.
+seinem gesetzlichen Vertreter gestellt werden. Bei einem Verstoß gegen
+§ 1303 Satz 1 kann ein minderjähriger Ehegatte den Antrag nur selbst
+stellen; er bedarf dazu nicht der Zustimmung seines gesetzlichen
+Vertreters.
 
 (3) Bei Verstoß gegen die §§ 1304, 1306, 1307 sowie in den Fällen des
 § 1314 Abs. 2 Nr. 1 und 5 soll die zuständige Verwaltungsbehörde den
 Antrag stellen, wenn nicht die Aufhebung der Ehe für einen Ehegatten
 oder für die aus der Ehe hervorgegangenen Kinder eine so schwere Härte
 darstellen würde, dass die Aufrechterhaltung der Ehe ausnahmsweise
-geboten erscheint.
+geboten erscheint. Bei einem Verstoß gegen § 1303 Satz 1 muss die
+zuständige Behörde den Antrag stellen, es sei denn, der minderjährige
+Ehegatte ist zwischenzeitlich volljährig geworden und hat zu erkennen
+gegeben, dass er die Ehe fortsetzen will.
 
 
 ##### § 1317 Antragsfrist
@@ -21083,10 +24240,9 @@ binnen drei Jahren gestellt werden. Die Frist beginnt mit der
 Entdeckung des Irrtums oder der Täuschung oder mit dem Aufhören der
 Zwangslage; für den gesetzlichen Vertreter eines geschäftsunfähigen
 Ehegatten beginnt die Frist jedoch nicht vor dem Zeitpunkt, in welchem
-ihm die den Fristbeginn begründenden Umstände bekannt werden, für
-einen minderjährigen Ehegatten nicht vor dem Eintritt der
-Volljährigkeit. Auf den Lauf der Frist sind die §§ 206, 210 Abs. 1
-Satz 1 entsprechend anzuwenden.
+ihm die den Fristbeginn begründenden Umstände bekannt werden. Auf den
+Lauf der Frist sind die §§ 206, 210 Abs. 1 Satz 1 entsprechend
+anzuwenden.
 
 (2) Hat der gesetzliche Vertreter eines geschäftsunfähigen Ehegatten
 den Antrag nicht rechtzeitig gestellt, so kann der Ehegatte selbst
@@ -21183,9 +24339,10 @@ lebt. § 1317 Abs. 1 Satz 3, Abs. 2 gilt entsprechend.
 
 ##### § 1353 Eheliche Lebensgemeinschaft
 
-(1) Die Ehe wird auf Lebenszeit geschlossen. Die Ehegatten sind
-einander zur ehelichen Lebensgemeinschaft verpflichtet; sie tragen
-füreinander Verantwortung.
+(1) Die Ehe wird von zwei Personen verschiedenen oder gleichen
+Geschlechts auf Lebenszeit geschlossen. Die Ehegatten sind einander
+zur ehelichen Lebensgemeinschaft verpflichtet; sie tragen füreinander
+Verantwortung.
 
 (2) Ein Ehegatte ist nicht verpflichtet, dem Verlangen des anderen
 Ehegatten nach Herstellung der Gemeinschaft Folge zu leisten, wenn
@@ -21222,7 +24379,9 @@ mehreren Namen besteht. Besteht der Name eines Ehegatten aus mehreren
 Namen, so kann nur einer dieser Namen hinzugefügt werden. Die
 Erklärung kann gegenüber dem Standesamt widerrufen werden; in diesem
 Falle ist eine erneute Erklärung nach Satz 1 nicht zulässig. Die
-Erklärung und der Widerruf müssen öffentlich beglaubigt werden.
+Erklärung, wenn sie nicht bei der Eheschließung gegenüber einem
+deutschen Standesamt abgegeben wird, und der Widerruf müssen
+öffentlich beglaubigt werden.
 
 (5) Der verwitwete oder geschiedene Ehegatte behält den Ehenamen. Er
 kann durch Erklärung gegenüber dem Standesamt seinen Geburtsnamen oder
@@ -21816,7 +24975,7 @@ verlangen, wenn
 
 
 4.  der andere Ehegatte sich ohne ausreichenden Grund beharrlich weigert
-    oder sich ohne ausreichenden Grund bis zur Erhebung der Klage auf
+    oder sich ohne ausreichenden Grund bis zur Stellung des Antrags auf
     Auskunft beharrlich geweigert hat, ihn über den Bestand seines
     Vermögens zu unterrichten.
 
@@ -21835,7 +24994,7 @@ vorzeitige Aufhebung der Zugewinngemeinschaft verlangen.
 In den Fällen der §§ 1385 und 1386 tritt für die Berechnung des
 Zugewinns und für die Höhe der Ausgleichsforderung an die Stelle der
 Beendigung des Güterstands der Zeitpunkt, in dem die entsprechenden
-Klagen erhoben sind.
+Anträge gestellt sind.
 
 
 ###### § 1388 Eintritt der Gütertrennung
@@ -21919,27 +25078,21 @@ Der Ehevertrag muss bei gleichzeitiger Anwesenheit beider Teile zur
 Niederschrift eines Notars geschlossen werden.
 
 
-###### § 1411 Eheverträge beschränkt Geschäftsfähiger und Geschäftsunfähiger
+###### § 1411 Eheverträge Betreuter
 
-(1) Wer in der Geschäftsfähigkeit beschränkt ist, kann einen
-Ehevertrag nur mit Zustimmung seines gesetzlichen Vertreters
-schließen. Dies gilt auch für einen Betreuten, soweit für diese
-Angelegenheit ein Einwilligungsvorbehalt angeordnet ist. Ist der
-gesetzliche Vertreter ein Vormund, so ist außer der Zustimmung des
-gesetzlichen Vertreters die Genehmigung des Familiengerichts
-erforderlich, wenn der Ausgleich des Zugewinns ausgeschlossen oder
-eingeschränkt oder wenn Gütergemeinschaft vereinbart oder aufgehoben
-wird; ist der gesetzliche Vertreter ein Betreuer, ist die Genehmigung
-des Betreuungsgerichts erforderlich. Der gesetzliche Vertreter kann
-für einen in der Geschäftsfähigkeit beschränkten Ehegatten oder einen
-geschäftsfähigen Betreuten keinen Ehevertrag schließen.
+(1) Ein Betreuter kann einen Ehevertrag nur mit Zustimmung seines
+Betreuers schließen, soweit für diese Angelegenheit ein
+Einwilligungsvorbehalt angeordnet ist. Die Zustimmung des Betreuers
+bedarf der Genehmigung des Betreuungsgerichts, wenn der Ausgleich des
+Zugewinns ausgeschlossen oder eingeschränkt oder wenn
+Gütergemeinschaft vereinbart oder aufgehoben wird. Für einen
+geschäftsfähigen Betreuten kann der Betreuer keinen Ehevertrag
+schließen.
 
-(2) Für einen geschäftsunfähigen Ehegatten schließt der gesetzliche
-Vertreter den Vertrag; Gütergemeinschaft kann er nicht vereinbaren
-oder aufheben. Ist der gesetzliche Vertreter ein Vormund, so kann er
-den Vertrag nur mit Genehmigung des Familiengerichts schließen; ist
-der gesetzliche Vertreter ein Betreuer, ist die Genehmigung des
-Betreuungsgerichts erforderlich.
+(2) Für einen geschäftsunfähigen Ehegatten schließt der Betreuer den
+Ehevertrag; Gütergemeinschaft kann er nicht vereinbaren oder aufheben.
+Der Betreuer kann den Ehevertrag nur mit Genehmigung des
+Betreuungsgerichts schließen.
 
 
 ###### § 1412 Wirkung gegenüber Dritten
@@ -22391,10 +25544,10 @@ leisten; er hat die Schuld jedoch schon vorher zu berichtigen, soweit
 sein Vorbehaltsgut und sein Sondergut hierzu ausreichen.
 
 
-###### § 1447 Aufhebungsklage des nicht verwaltenden Ehegatten
+###### § 1447 Aufhebungsantrag des nicht verwaltenden Ehegatten
 
-Der Ehegatte, der das Gesamtgut nicht verwaltet, kann auf Aufhebung
-der Gütergemeinschaft klagen,
+Der Ehegatte, der das Gesamtgut nicht verwaltet, kann die Aufhebung
+der Gütergemeinschaft beantragen,
 
 1.  wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden
     können, dass der andere Ehegatte zur Verwaltung des Gesamtguts unfähig
@@ -22419,10 +25572,10 @@ der Gütergemeinschaft klagen,
 
 
 
-###### § 1448 Aufhebungsklage des Verwalters
+###### § 1448 Aufhebungsantrag des Verwalters
 
-Der Ehegatte, der das Gesamtgut verwaltet, kann auf Aufhebung der
-Gütergemeinschaft klagen, wenn das Gesamtgut infolge von
+Der Ehegatte, der das Gesamtgut verwaltet, kann die Aufhebung der
+Gütergemeinschaft beantragen, wenn das Gesamtgut infolge von
 Verbindlichkeiten des anderen Ehegatten, die diesem im Verhältnis der
 Ehegatten zueinander zur Last fallen, in solchem Maße überschuldet
 ist, dass ein späterer Erwerb erheblich gefährdet wird.
@@ -22572,11 +25725,8 @@ so ist die Bereicherung nach den Vorschriften über die
 ungerechtfertigte Bereicherung aus dem Gesamtgut herauszugeben.
 
 
-###### § 1458 Vormundschaft über einen Ehegatten
+###### § 1458 (weggefallen)
 
-Solange ein Ehegatte unter elterlicher Sorge oder unter Vormundschaft
-steht, verwaltet der andere Ehegatte das Gesamtgut allein; die
-Vorschriften der §§ 1422 bis 1449 sind anzuwenden.
 
 
 ###### § 1459 Gesamtgutsverbindlichkeiten; persönliche Haftung
@@ -22701,9 +25851,9 @@ Vorbehaltsgut und das Sondergut des Schuldners ausreichen, hat er die
 Schuld schon vorher zu berichtigen.
 
 
-###### § 1469 Aufhebungsklage
+###### § 1469 Aufhebungsantrag
 
-Jeder Ehegatte kann auf Aufhebung der Gütergemeinschaft klagen,
+Jeder Ehegatte kann die Aufhebung der Gütergemeinschaft beantragen,
 
 1.  wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden
     können, dass der andere Ehegatte ohne seine Mitwirkung
@@ -22877,7 +26027,7 @@ durch richterliche Entscheidung aufgehoben, so kann der Ehegatte, der
 die richterliche Entscheidung erwirkt hat, verlangen, dass die
 Auseinandersetzung so erfolgt, wie wenn der Anspruch auf
 Auseinandersetzung in dem Zeitpunkt rechtshängig geworden wäre, in dem
-die Klage auf Aufhebung der Gütergemeinschaft erhoben ist.
+der Antrag auf Aufhebung der Gütergemeinschaft gestellt ist.
 
 
 ###### § 1480 Haftung nach der Teilung gegenüber Dritten
@@ -22946,10 +26096,8 @@ Gütergemeinschaft ablehnen.
 
 (2) Auf die Ablehnung finden die für die Ausschlagung einer Erbschaft
 geltenden Vorschriften der §§ 1943 bis 1947, 1950, 1952, 1954 bis
-1957, 1959 entsprechende Anwendung. Steht der überlebende Ehegatte
-unter elterlicher Sorge oder unter Vormundschaft, so ist zur Ablehnung
-die Genehmigung des Familiengerichts erforderlich. Bei einer Ablehnung
-durch den Betreuer des überlebenden Ehegatten ist die Genehmigung des
+1957, 1959 entsprechende Anwendung. Bei einer Ablehnung durch den
+Betreuer des überlebenden Ehegatten ist die Genehmigung des
 Betreuungsgerichts erforderlich.
 
 (3) Lehnt der Ehegatte die Fortsetzung der Gütergemeinschaft ab, so
@@ -23073,11 +26221,8 @@ besteht, dem Betreuungsgericht mitteilen.
 Ehegatten und den anteilsberechtigten Abkömmlingen erfolgen. Der
 Vertrag bedarf der notariellen Beurkundung.
 
-(3) Steht der überlebende Ehegatte unter elterlicher Sorge oder unter
-Vormundschaft, so ist zu der Aufhebung die Genehmigung des
-Familiengerichts erforderlich. Bei einer Aufhebung durch den Betreuer
-des überlebenden Ehegatten ist die Genehmigung des Betreuungsgerichts
-erforderlich.
+(3) Bei einer Aufhebung durch den Betreuer des überlebenden Ehegatten
+ist die Genehmigung des Betreuungsgerichts erforderlich.
 
 
 ###### § 1493 Wiederverheiratung oder Begründung einer Lebenspartnerschaft des überlebenden Ehegatten
@@ -23112,10 +26257,11 @@ festgestellt, so endet die fortgesetzte Gütergemeinschaft mit dem
 Zeitpunkt, der als Zeitpunkt des Todes gilt.
 
 
-###### § 1495 Aufhebungsklage eines Abkömmlings
+###### § 1495 Aufhebungsantrag eines Abkömmlings
 
 Ein anteilsberechtigter Abkömmling kann gegen den überlebenden
-Ehegatten auf Aufhebung der fortgesetzten Gütergemeinschaft klagen,
+Ehegatten die Aufhebung der fortgesetzten Gütergemeinschaft
+beantragen,
 
 1.  wenn seine Rechte für die Zukunft dadurch erheblich gefährdet werden
     können, dass der überlebende Ehegatte zur Verwaltung des Gesamtguts
@@ -23144,7 +26290,7 @@ Ehegatten auf Aufhebung der fortgesetzten Gütergemeinschaft klagen,
 Die Aufhebung der fortgesetzten Gütergemeinschaft tritt in den Fällen
 des § 1495 mit der Rechtskraft der richterlichen Entscheidung ein. Sie
 tritt für alle Abkömmlinge ein, auch wenn die richterliche
-Entscheidung auf die Klage eines der Abkömmlinge ergangen ist.
+Entscheidung auf den Antrag eines der Abkömmlinge ergangen ist.
 
 
 ###### § 1497 Rechtsverhältnis bis zur Auseinandersetzung
@@ -23297,8 +26443,8 @@ Vorschriften über den Erbschein finden entsprechende Anwendung.
 Jeder Ehegatte kann für den Fall, dass die Ehe durch seinen Tod
 aufgelöst wird, die Fortsetzung der Gütergemeinschaft durch
 letztwillige Verfügung ausschließen, wenn er berechtigt ist, dem
-anderen Ehegatten den Pflichtteil zu entziehen oder auf Aufhebung der
-Gütergemeinschaft zu klagen. Das Gleiche gilt, wenn der Ehegatte
+anderen Ehegatten den Pflichtteil zu entziehen oder die Aufhebung der
+Gütergemeinschaft zu beantragen. Das Gleiche gilt, wenn der Ehegatte
 berechtigt ist, die Aufhebung der Ehe zu beantragen, und den Antrag
 gestellt hat. Auf die Ausschließung finden die Vorschriften über die
 Entziehung des Pflichtteils entsprechende Anwendung.
@@ -23388,9 +26534,7 @@ Verfügungen eines Ehegatten ist die Zustimmung des anderen Ehegatten
 erforderlich.
 
 (2) Die Zustimmung kann nicht durch einen Vertreter erteilt werden.
-Ist der Ehegatte in der Geschäftsfähigkeit beschränkt, so ist die
-Zustimmung seines gesetzlichen Vertreters nicht erforderlich. Die
-Zustimmungserklärung bedarf der notariellen Beurkundung. Die
+Die Zustimmungserklärung bedarf der notariellen Beurkundung. Die
 Zustimmung ist unwiderruflich.
 
 (3) Die Ehegatten können die in den §§ 1511 bis 1515 bezeichneten
@@ -23421,7 +26565,21 @@ Gütergemeinschaft vereinbart haben, durch Ehevertrag aufzuheben,
 bleibt unberührt.
 
 
-###### (XXXX) §§ 1519 bis 1557 (weggefallen)
+###### Kapitel 4 - Wahl-Zugewinngemeinschaft
+
+
+
+###### § 1519 Vereinbarung durch Ehevertrag
+
+Vereinbaren die Ehegatten durch Ehevertrag den Güterstand der Wahl-
+Zugewinngemeinschaft, so gelten die Vorschriften des Abkommens vom 4.
+Februar 2010 zwischen der Bundesrepublik Deutschland und der
+Französischen Republik über den Güterstand der Wahl-
+Zugewinngemeinschaft. § 1368 gilt entsprechend. § 1412 ist nicht
+anzuwenden.
+
+
+###### (XXXX) §§ 1520 bis 1557 (weggefallen)
 
 
 
@@ -23876,10 +27034,11 @@ unter Wahrung der Belange eines dem Berechtigten zur Pflege oder
 Erziehung anvertrauten gemeinschaftlichen Kindes unbillig wäre. Dabei
 ist insbesondere zu berücksichtigen, inwieweit durch die Ehe Nachteile
 im Hinblick auf die Möglichkeit eingetreten sind, für den eigenen
-Unterhalt zu sorgen. Solche Nachteile können sich vor allem aus der
-Dauer der Pflege oder Erziehung eines gemeinschaftlichen Kindes, aus
-der Gestaltung von Haushaltsführung und Erwerbstätigkeit während der
-Ehe sowie aus der Dauer der Ehe ergeben.
+Unterhalt zu sorgen, oder eine Herabsetzung des Unterhaltsanspruchs
+unter Berücksichtigung der Dauer der Ehe unbillig wäre. Nachteile im
+Sinne des Satzes 2 können sich vor allem aus der Dauer der Pflege oder
+Erziehung eines gemeinschaftlichen Kindes sowie aus der Gestaltung von
+Haushaltsführung und Erwerbstätigkeit während der Ehe ergeben.
 
 (2) Der Unterhaltsanspruch des geschiedenen Ehegatten ist zeitlich zu
 begrenzen, wenn ein zeitlich unbegrenzter Unterhaltsanspruch auch
@@ -24234,10 +27393,78 @@ gelten die Absätze 1 und 2 sowie § 1594 Abs. 3 und § 1596 Abs. 1, 3
 und 4 entsprechend.
 
 
+##### § 1597a Verbot der missbräuchlichen Anerkennung der Vaterschaft
+
+(1) Die Vaterschaft darf nicht gezielt gerade zu dem Zweck anerkannt
+werden, die rechtlichen Voraussetzungen für die erlaubte Einreise oder
+den erlaubten Aufenthalt des Kindes, des Anerkennenden oder der Mutter
+zu schaffen, auch nicht, um die rechtlichen Voraussetzungen für die
+erlaubte Einreise oder den erlaubten Aufenthalt des Kindes durch den
+Erwerb der deutschen Staatsangehörigkeit des Kindes nach § 4 Absatz 1
+oder Absatz 3 Satz 1 des Staatsangehörigkeitsgesetzes zu schaffen
+(missbräuchliche Anerkennung der Vaterschaft).
+
+(2) Bestehen konkrete Anhaltspunkte für eine missbräuchliche
+Anerkennung der Vaterschaft, hat die beurkundende Behörde oder die
+Urkundsperson dies der nach § 85a des Aufenthaltsgesetzes zuständigen
+Behörde nach Anhörung des Anerkennenden und der Mutter mitzuteilen und
+die Beurkundung auszusetzen. Ein Anzeichen für das Vorliegen konkreter
+Anhaltspunkte ist insbesondere:
+
+1.  das Bestehen einer vollziehbaren Ausreisepflicht des Anerkennenden
+    oder der Mutter oder des Kindes,
+
+
+2.  wenn der Anerkennende oder die Mutter oder das Kind einen Asylantrag
+    gestellt hat und die Staatsangehörigkeit eines sicheren
+    Herkunftsstaates nach § 29a des Asylgesetzes besitzt,
+
+
+3.  das Fehlen von persönlichen Beziehungen zwischen dem Anerkennenden und
+    der Mutter oder dem Kind,
+
+
+4.  der Verdacht, dass der Anerkennende bereits mehrfach die Vaterschaft
+    von Kindern verschiedener ausländischer Mütter anerkannt hat und
+    jeweils die rechtlichen Voraussetzungen für die erlaubte Einreise oder
+    den erlaubten Aufenthalt des Kindes oder der Mutter durch die
+    Anerkennung geschaffen hat, auch wenn das Kind durch die Anerkennung
+    die deutsche Staatsangehörigkeit erworben hat, oder
+
+
+5.  der Verdacht, dass dem Anerkennenden oder der Mutter ein
+    Vermögensvorteil für die Anerkennung der Vaterschaft oder die
+    Zustimmung hierzu gewährt oder versprochen worden ist.
+
+
+
+Die beurkundende Behörde oder die Urkundsperson hat die Aussetzung dem
+Anerkennenden, der Mutter und dem Standesamt mitzuteilen. Hat die nach
+§ 85a des Aufenthaltsgesetzes zuständige Behörde gemäß § 85a Absatz 1
+des Aufenthaltsgesetzes das Vorliegen einer missbräuchlichen
+Anerkennung der Vaterschaft festgestellt und ist diese Entscheidung
+unanfechtbar, so ist die Beurkundung abzulehnen.
+
+(3) Solange die Beurkundung gemäß Absatz 2 Satz 1 ausgesetzt ist, kann
+die Anerkennung auch nicht wirksam von einer anderen beurkundenden
+Behörde oder Urkundsperson beurkundet werden. Das Gleiche gilt, wenn
+die Voraussetzungen des Absatzes 2 Satz 4 vorliegen.
+
+(4) Für die Zustimmung der Mutter nach § 1595 Absatz 1 gelten die
+Absätze 1 bis 3 entsprechend.
+
+(5) Eine Anerkennung der Vaterschaft kann nicht missbräuchlich sein,
+wenn der Anerkennende der leibliche Vater des anzuerkennenden Kindes
+ist.
+
+
 ##### § 1598 Unwirksamkeit von Anerkennung, Zustimmung und Widerruf
 
 (1) Anerkennung, Zustimmung und Widerruf sind nur unwirksam, wenn sie
-den Erfordernissen der vorstehenden Vorschriften nicht genügen.
+den Erfordernissen nach § 1594 Absatz 2 bis 4 und der §§ 1595 bis 1597
+nicht genügen. Anerkennung und Zustimmung sind auch im Fall des §
+1597a Absatz 3 und im Fall des § 1597a Absatz 4 in Verbindung mit
+Absatz 3 unwirksam.
 
 (2) Sind seit der Eintragung in ein deutsches Personenstandsregister
 fünf Jahre verstrichen, so ist die Anerkennung wirksam, auch wenn sie
@@ -24290,14 +27517,14 @@ Vater des Kindes ist.
 (2) § 1592 Nr. 1 und § 1593 gelten auch nicht, wenn das Kind nach
 Anhängigkeit eines Scheidungsantrags geboren wird und ein Dritter
 spätestens bis zum Ablauf eines Jahres nach Rechtskraft des dem
-Scheidungsantrag stattgebenden Urteils die Vaterschaft anerkennt; §
-1594 Abs. 2 ist nicht anzuwenden. Neben den nach den §§ 1595 und 1596
-notwendigen Erklärungen bedarf die Anerkennung der Zustimmung des
+Scheidungsantrag stattgebenden Beschlusses die Vaterschaft anerkennt;
+§ 1594 Abs. 2 ist nicht anzuwenden. Neben den nach den §§ 1595 und
+1596 notwendigen Erklärungen bedarf die Anerkennung der Zustimmung des
 Mannes, der im Zeitpunkt der Geburt mit der Mutter des Kindes
 verheiratet ist; für diese Zustimmung gelten § 1594 Abs. 3 und 4, §
 1596 Abs. 1 Satz 1 bis 3, Abs. 3 und 4, § 1597 Abs. 1 und 2 und § 1598
 Abs. 1 entsprechend. Die Anerkennung wird frühestens mit Rechtskraft
-des dem Scheidungsantrag stattgebenden Urteils wirksam.
+des dem Scheidungsantrag stattgebenden Beschlusses wirksam.
 
 
 ##### § 1600 Anfechtungsberechtigte
@@ -24311,14 +27538,10 @@ des dem Scheidungsantrag stattgebenden Urteils wirksam.
     der Empfängniszeit beigewohnt zu haben,
 
 
-3.  die Mutter,
+3.  die Mutter und
 
 
-4.  das Kind und
-
-
-5.  die zuständige Behörde (anfechtungsberechtigte Behörde) in den Fällen
-    des § 1592 Nr. 2.
+4.  das Kind.
 
 
 
@@ -24328,33 +27551,18 @@ Kind und seinem Vater im Sinne von Absatz 1 Nr. 1 keine sozial-
 familiäre Beziehung besteht oder im Zeitpunkt seines Todes bestanden
 hat und dass der Anfechtende leiblicher Vater des Kindes ist.
 
-(3) Die Anfechtung nach Absatz 1 Nr. 5 setzt voraus, dass zwischen dem
-Kind und dem Anerkennenden keine sozial-familiäre Beziehung besteht
-oder im Zeitpunkt der Anerkennung oder seines Todes bestanden hat und
-durch die Anerkennung rechtliche Voraussetzungen für die erlaubte
-Einreise oder den erlaubten Aufenthalt des Kindes oder eines
-Elternteiles geschaffen werden.
-
-(4) Eine sozial-familiäre Beziehung nach den Absätzen 2 und 3 besteht,
-wenn der Vater im Sinne von Absatz 1 Nr. 1 zum maßgeblichen Zeitpunkt
-für das Kind tatsächliche Verantwortung trägt oder getragen hat. Eine
+(3) Eine sozial-familiäre Beziehung nach Absatz 2 besteht, wenn der
+Vater im Sinne von Absatz 1 Nr. 1 zum maßgeblichen Zeitpunkt für das
+Kind tatsächliche Verantwortung trägt oder getragen hat. Eine
 Übernahme tatsächlicher Verantwortung liegt in der Regel vor, wenn der
 Vater im Sinne von Absatz 1 Nr. 1 mit der Mutter des Kindes
 verheiratet ist oder mit dem Kind längere Zeit in häuslicher
 Gemeinschaft zusammengelebt hat.
 
-(5) Ist das Kind mit Einwilligung des Mannes und der Mutter durch
+(4) Ist das Kind mit Einwilligung des Mannes und der Mutter durch
 künstliche Befruchtung mittels Samenspende eines Dritten gezeugt
 worden, so ist die Anfechtung der Vaterschaft durch den Mann oder die
 Mutter ausgeschlossen.
-
-(6) Die Landesregierungen werden ermächtigt, die Behörden nach Absatz
-1 Nr. 5 durch Rechtsverordnung zu bestimmen. Die Landesregierungen
-können diese Ermächtigung durch Rechtsverordnung auf die zuständigen
-obersten Landesbehörden übertragen. Ist eine örtliche Zuständigkeit
-der Behörde nach diesen Vorschriften nicht begründet, so wird die
-Zuständigkeit durch den Sitz des Gerichts bestimmt, das für die Klage
-zuständig ist.
 
 
 ##### § 1600a Persönliche Anfechtung; Anfechtung bei fehlender oder beschränkter Geschäftsfähigkeit
@@ -24385,14 +27593,7 @@ von den Umständen erfährt, die gegen die Vaterschaft sprechen; das
 Vorliegen einer sozial-familiären Beziehung im Sinne des § 1600 Abs. 2
 erste Alternative hindert den Lauf der Frist nicht.
 
-(1a) Im Fall des § 1600 Abs. 1 Nr. 5 kann die Vaterschaft binnen eines
-Jahres gerichtlich angefochten werden. Die Frist beginnt, wenn die
-anfechtungsberechtigte Behörde von den Tatsachen Kenntnis erlangt, die
-die Annahme rechtfertigen, dass die Voraussetzungen für ihr
-Anfechtungsrecht vorliegen. Die Anfechtung ist spätestens nach Ablauf
-von fünf Jahren seit der Wirksamkeit der Anerkennung der Vaterschaft
-für ein im Bundesgebiet geborenes Kind ausgeschlossen; ansonsten
-spätestens fünf Jahre nach der Einreise des Kindes.
+(1a) (weggefallen)
 
 (2) Die Frist beginnt nicht vor der Geburt des Kindes und nicht, bevor
 die Anerkennung wirksam geworden ist. In den Fällen des § 1593 Satz 4
@@ -24452,7 +27653,15 @@ vor der Geburt des Kindes, mit Einschluss sowohl des 300. als auch des
 Satzes 1 empfangen worden ist, so gilt dieser abweichende Zeitraum als
 Empfängniszeit.
 
-(4) Die Rechtswirkungen der Vaterschaft können, soweit sich nicht aus
+(4) Ist das Kind durch eine ärztlich unterstützte künstliche
+Befruchtung in einer Einrichtung der medizinischen Versorgung im Sinne
+von § 1a Nummer 9 des Transplantationsgesetzes unter heterologer
+Verwendung von Samen gezeugt worden, der vom Spender einer
+Entnahmeeinrichtung im Sinne von § 2 Absatz 1 Satz 1 des
+Samenspenderregistergesetzes zur Verfügung gestellt wurde, so kann der
+Samenspender nicht als Vater dieses Kindes festgestellt werden.
+
+(5) Die Rechtswirkungen der Vaterschaft können, soweit sich nicht aus
 dem Gesetz anderes ergibt, erst vom Zeitpunkt ihrer Feststellung an
 geltend gemacht werden.
 
@@ -24476,10 +27685,10 @@ gewähren.
 (1) Unterhaltsberechtigt ist nur, wer außerstande ist, sich selbst zu
 unterhalten.
 
-(2) Ein minderjähriges unverheiratetes Kind kann von seinen Eltern,
-auch wenn es Vermögen hat, die Gewährung des Unterhalts insoweit
-verlangen, als die Einkünfte seines Vermögens und der Ertrag seiner
-Arbeit zum Unterhalt nicht ausreichen.
+(2) Ein minderjähriges Kind kann von seinen Eltern, auch wenn es
+Vermögen hat, die Gewährung des Unterhalts insoweit verlangen, als die
+Einkünfte seines Vermögens und der Ertrag seiner Arbeit zum Unterhalt
+nicht ausreichen.
 
 
 ###### § 1603 Leistungsfähigkeit
@@ -24489,16 +27698,15 @@ sonstigen Verpflichtungen außerstande ist, ohne Gefährdung seines
 angemessenen Unterhalts den Unterhalt zu gewähren.
 
 (2) Befinden sich Eltern in dieser Lage, so sind sie ihren
-minderjährigen unverheirateten Kindern gegenüber verpflichtet, alle
-verfügbaren Mittel zu ihrem und der Kinder Unterhalt gleichmäßig zu
-verwenden. Den minderjährigen unverheirateten Kindern stehen
-volljährige unverheiratete Kinder bis zur Vollendung des 21.
-Lebensjahres gleich, solange sie im Haushalt der Eltern oder eines
-Elternteils leben und sich in der allgemeinen Schulausbildung
-befinden. Diese Verpflichtung tritt nicht ein, wenn ein anderer
-unterhaltspflichtiger Verwandter vorhanden ist; sie tritt auch nicht
-ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme seines
-Vermögens bestritten werden kann.
+minderjährigen Kindern gegenüber verpflichtet, alle verfügbaren Mittel
+zu ihrem und der Kinder Unterhalt gleichmäßig zu verwenden. Den
+minderjährigen Kindern stehen volljährige unverheiratete Kinder bis
+zur Vollendung des 21. Lebensjahres gleich, solange sie im Haushalt
+der Eltern oder eines Elternteils leben und sich in der allgemeinen
+Schulausbildung befinden. Diese Verpflichtung tritt nicht ein, wenn
+ein anderer unterhaltspflichtiger Verwandter vorhanden ist; sie tritt
+auch nicht ein gegenüber einem Kind, dessen Unterhalt aus dem Stamme
+seines Vermögens bestritten werden kann.
 
 
 ###### § 1604 Einfluss des Güterstands
@@ -24538,9 +27746,9 @@ Linie haften die näheren vor den entfernteren.
 
 (3) Mehrere gleich nahe Verwandte haften anteilig nach ihren Erwerbs-
 und Vermögensverhältnissen. Der Elternteil, der ein minderjähriges
-unverheiratetes Kind betreut, erfüllt seine Verpflichtung, zum
-Unterhalt des Kindes beizutragen, in der Regel durch die Pflege und
-die Erziehung des Kindes.
+Kind betreut, erfüllt seine Verpflichtung, zum Unterhalt des Kindes
+beizutragen, in der Regel durch die Pflege und die Erziehung des
+Kindes.
 
 
 ###### § 1607 Ersatzhaftung und gesetzlicher Forderungsübergang
@@ -24583,8 +27791,7 @@ Sind mehrere Unterhaltsberechtigte vorhanden und ist der
 Unterhaltspflichtige außerstande, allen Unterhalt zu gewähren, gilt
 folgende Rangfolge:
 
-1.  minderjährige unverheiratete Kinder und Kinder im Sinne des § 1603
-    Abs. 2 Satz 2,
+1.  minderjährige Kinder und Kinder im Sinne des § 1603 Abs. 2 Satz 2,
 
 
 2.  Elternteile, die wegen der Betreuung eines Kindes unterhaltsberechtigt
@@ -24644,8 +27851,7 @@ Verpflichtung fällt ganz weg, wenn die Inanspruchnahme des
 Verpflichteten grob unbillig wäre.
 
 (2) Die Vorschriften des Absatzes 1 sind auf die Unterhaltspflicht von
-Eltern gegenüber ihren minderjährigen unverheirateten Kindern nicht
-anzuwenden.
+Eltern gegenüber ihren minderjährigen Kindern nicht anzuwenden.
 
 (3) Der Bedürftige kann wegen einer nach diesen Vorschriften
 eintretenden Beschränkung seines Anspruchs nicht andere
@@ -24672,15 +27878,14 @@ Verpflichtete schuldet den vollen Monatsbetrag auch dann, wenn der
 Berechtigte im Laufe des Monats stirbt.
 
 
-###### § 1612a Mindestunterhalt minderjähriger Kinder
+###### § 1612a Mindestunterhalt minderjähriger Kinder; Verordnungsermächtigung
 
 (1) Ein minderjähriges Kind kann von einem Elternteil, mit dem es
 nicht in einem Haushalt lebt, den Unterhalt als Prozentsatz des
 jeweiligen Mindestunterhalts verlangen. Der Mindestunterhalt richtet
-sich nach dem doppelten Freibetrag für das sächliche Existenzminimum
-eines Kindes (Kinderfreibetrag) nach § 32 Abs. 6 Satz 1 des
-Einkommensteuergesetzes. Er beträgt monatlich entsprechend dem Alter
-des Kindes
+sich nach dem steuerfrei zu stellenden sächlichen Existenzminimum des
+minderjährigen Kindes. Er beträgt monatlich entsprechend dem Alter des
+Kindes
 
 1.  für die Zeit bis zur Vollendung des sechsten Lebensjahrs (erste
     Altersstufe) 87 Prozent,
@@ -24694,7 +27899,8 @@ des Kindes
 
 
 
-eines Zwölftels des doppelten Kinderfreibetrags.
+des steuerfrei zu stellenden sächlichen Existenzminimums des
+minderjährigen Kindes.
 
 (2) Der Prozentsatz ist auf eine Dezimalstelle zu begrenzen; jede
 weitere sich ergebende Dezimalstelle wird nicht berücksichtigt. Der
@@ -24705,7 +27911,12 @@ Euro aufzurunden.
 Monats maßgebend, in dem das Kind das betreffende Lebensjahr
 vollendet.
 
-(4) u. (5) (weggefallen)
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz hat den
+Mindestunterhalt erstmals zum 1. Januar 2016 und dann alle zwei Jahre
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, festzulegen.
+
+(5) (weggefallen)
 
 
 ###### § 1612b Deckung des Barbedarfs durch Kindergeld
@@ -24903,13 +28114,13 @@ amtliches deutsches Identitätspapier erforderlich wird.
 nur einem Elternteil zu, so erhält das Kind den Namen, den dieser
 Elternteil im Zeitpunkt der Geburt des Kindes führt.
 
-(2) Der Elternteil, dem die elterliche Sorge für ein unverheiratetes
-Kind allein zusteht, kann dem Kind durch Erklärung gegenüber dem
-Standesamt den Namen des anderen Elternteils erteilen. Die Erteilung
-des Namens bedarf der Einwilligung des anderen Elternteils und, wenn
-das Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung
-des Kindes. Die Erklärungen müssen öffentlich beglaubigt werden. Für
-die Einwilligung des Kindes gilt § 1617c Abs. 1 entsprechend.
+(2) Der Elternteil, dem die elterliche Sorge für ein Kind allein
+zusteht, kann dem Kind durch Erklärung gegenüber dem Standesamt den
+Namen des anderen Elternteils erteilen. Die Erteilung des Namens
+bedarf der Einwilligung des anderen Elternteils und, wenn das Kind das
+fünfte Lebensjahr vollendet hat, auch der Einwilligung des Kindes. Die
+Erklärungen müssen öffentlich beglaubigt werden. Für die Einwilligung
+des Kindes gilt § 1617c Abs. 1 entsprechend.
 
 
 ##### § 1617b Name bei nachträglicher gemeinsamer Sorge oder Scheinvaterschaft
@@ -24936,19 +28147,21 @@ des Kindes gilt § 1617c Abs. 1 Satz 2 und 3 entsprechend.
 
 ##### § 1617c Name bei Namensänderung der Eltern
 
-(1) Bestimmen die Eltern einen Ehenamen, nachdem das Kind das fünfte
-Lebensjahr vollendet hat, so erstreckt sich der Ehename auf den
-Geburtsnamen des Kindes nur dann, wenn es sich der Namensgebung
-anschließt. Ein in der Geschäftsfähigkeit beschränktes Kind, welches
-das 14. Lebensjahr vollendet hat, kann die Erklärung nur selbst
-abgeben; es bedarf hierzu der Zustimmung seines gesetzlichen
-Vertreters. Die Erklärung ist gegenüber dem Standesamt abzugeben; sie
-muss öffentlich beglaubigt werden.
+(1) Bestimmen die Eltern einen Ehenamen oder
+Lebenspartnerschaftsnamen, nachdem das Kind das fünfte Lebensjahr
+vollendet hat, so erstreckt sich der Ehename oder
+Lebenspartnerschaftsname auf den Geburtsnamen des Kindes nur dann,
+wenn es sich der Namensgebung anschließt. Ein in der
+Geschäftsfähigkeit beschränktes Kind, welches das 14. Lebensjahr
+vollendet hat, kann die Erklärung nur selbst abgeben; es bedarf hierzu
+der Zustimmung seines gesetzlichen Vertreters. Die Erklärung ist
+gegenüber dem Standesamt abzugeben; sie muss öffentlich beglaubigt
+werden.
 
 (2) Absatz 1 gilt entsprechend,
 
-1.  wenn sich der Ehename, der Geburtsname eines Kindes geworden ist,
-    ändert oder
+1.  wenn sich der Ehename oder Lebenspartnerschaftsname, der Geburtsname
+    eines Kindes geworden ist, ändert oder
 
 
 2.  wenn sich in den Fällen der §§ 1617, 1617a und 1617b der Familienname
@@ -24967,23 +28180,22 @@ Absatz 1 Satz 3 gilt entsprechend.
 
 ##### § 1618 Einbenennung
 
-Der Elternteil, dem die elterliche Sorge für ein unverheiratetes Kind
-allein oder gemeinsam mit dem anderen Elternteil zusteht, und sein
-Ehegatte, der nicht Elternteil des Kindes ist, können dem Kind, das
-sie in ihren gemeinsamen Haushalt aufgenommen haben, durch Erklärung
-gegenüber dem Standesamt ihren Ehenamen erteilen. Sie können diesen
-Namen auch dem von dem Kind zur Zeit der Erklärung geführten Namen
-voranstellen oder anfügen; ein bereits zuvor nach Halbsatz 1
-vorangestellter oder angefügter Ehename entfällt. Die Erteilung,
-Voranstellung oder Anfügung des Namens bedarf der Einwilligung des
-anderen Elternteils, wenn ihm die elterliche Sorge gemeinsam mit dem
-den Namen erteilenden Elternteil zusteht oder das Kind seinen Namen
-führt, und, wenn das Kind das fünfte Lebensjahr vollendet hat, auch
-der Einwilligung des Kindes. Das Familiengericht kann die Einwilligung
-des anderen Elternteils ersetzen, wenn die Erteilung, Voranstellung
-oder Anfügung des Namens zum Wohl des Kindes erforderlich ist. Die
-Erklärungen müssen öffentlich beglaubigt werden. § 1617c gilt
-entsprechend.
+Der Elternteil, dem die elterliche Sorge für ein Kind allein oder
+gemeinsam mit dem anderen Elternteil zusteht, und sein Ehegatte, der
+nicht Elternteil des Kindes ist, können dem Kind, das sie in ihren
+gemeinsamen Haushalt aufgenommen haben, durch Erklärung gegenüber dem
+Standesamt ihren Ehenamen erteilen. Sie können diesen Namen auch dem
+von dem Kind zur Zeit der Erklärung geführten Namen voranstellen oder
+anfügen; ein bereits zuvor nach Halbsatz 1 vorangestellter oder
+angefügter Ehename entfällt. Die Erteilung, Voranstellung oder
+Anfügung des Namens bedarf der Einwilligung des anderen Elternteils,
+wenn ihm die elterliche Sorge gemeinsam mit dem den Namen erteilenden
+Elternteil zusteht oder das Kind seinen Namen führt, und, wenn das
+Kind das fünfte Lebensjahr vollendet hat, auch der Einwilligung des
+Kindes. Das Familiengericht kann die Einwilligung des anderen
+Elternteils ersetzen, wenn die Erteilung, Voranstellung oder Anfügung
+des Namens zum Wohl des Kindes erforderlich ist. Die Erklärungen
+müssen öffentlich beglaubigt werden. § 1617c gilt entsprechend.
 
 
 ##### § 1618a Pflicht zu Beistand und Rücksicht
@@ -25014,13 +28226,14 @@ Ersatz zu verlangen.
 
 ##### § 1624 Ausstattung aus dem Elternvermögen
 
-(1) Was einem Kind mit Rücksicht auf seine Verheiratung oder auf die
-Erlangung einer selbständigen Lebensstellung zur Begründung oder zur
-Erhaltung der Wirtschaft oder der Lebensstellung von dem Vater oder
-der Mutter zugewendet wird (Ausstattung), gilt, auch wenn eine
-Verpflichtung nicht besteht, nur insoweit als Schenkung, als die
-Ausstattung das den Umständen, insbesondere den Vermögensverhältnissen
-des Vaters oder der Mutter, entsprechende Maß übersteigt.
+(1) Was einem Kind mit Rücksicht auf seine Verheiratung, auf seine
+Begründung einer Lebenspartnerschaft oder auf die Erlangung einer
+selbständigen Lebensstellung zur Begründung oder zur Erhaltung der
+Wirtschaft oder der Lebensstellung von dem Vater oder der Mutter
+zugewendet wird (Ausstattung), gilt, auch wenn eine Verpflichtung
+nicht besteht, nur insoweit als Schenkung, als die Ausstattung das den
+Umständen, insbesondere den Vermögensverhältnissen des Vaters oder der
+Mutter, entsprechende Maß übersteigt.
 
 (2) Die Verpflichtung des Ausstattenden zur Gewährleistung wegen eines
 Mangels im Recht oder wegen eines Fehlers der Sache bestimmt sich,
@@ -25063,19 +28276,31 @@ seine Entwicklung förderlich ist.
 ##### § 1626a Elterliche Sorge nicht miteinander verheirateter Eltern; Sorgeerklärungen
 
 (1) Sind die Eltern bei der Geburt des Kindes nicht miteinander
-verheiratet, so steht ihnen die elterliche Sorge dann gemeinsam zu,
-wenn sie
+verheiratet, so steht ihnen die elterliche Sorge gemeinsam zu,
 
-1.  erklären, dass sie die Sorge gemeinsam übernehmen wollen
-    (Sorgeerklärungen), oder
-
-
-2.  einander heiraten.
+1.  wenn sie erklären, dass sie die Sorge gemeinsam übernehmen wollen
+    (Sorgeerklärungen),
 
 
+2.  wenn sie einander heiraten oder
 
 
-(2) Im Übrigen hat die Mutter die elterliche Sorge.
+3.  soweit ihnen das Familiengericht die elterliche Sorge gemeinsam
+    überträgt.
+
+
+
+
+(2) Das Familiengericht überträgt gemäß Absatz 1 Nummer 3 auf Antrag
+eines Elternteils die elterliche Sorge oder einen Teil der elterlichen
+Sorge beiden Eltern gemeinsam, wenn die Übertragung dem Kindeswohl
+nicht widerspricht. Trägt der andere Elternteil keine Gründe vor, die
+der Übertragung der gemeinsamen elterlichen Sorge entgegenstehen
+können, und sind solche Gründe auch sonst nicht ersichtlich, wird
+vermutet, dass die gemeinsame elterliche Sorge dem Kindeswohl nicht
+widerspricht.
+
+(3) Im Übrigen hat die Mutter die elterliche Sorge.
 
 
 ##### § 1626b Besondere Wirksamkeitsvoraussetzungen der Sorgeerklärung
@@ -25087,9 +28312,9 @@ Zeitbestimmung ist unwirksam.
 werden.
 
 (3) Eine Sorgeerklärung ist unwirksam, soweit eine gerichtliche
-Entscheidung über die elterliche Sorge nach den §§ 1671, 1672
-getroffen oder eine solche Entscheidung nach § 1696 Abs. 1 geändert
-wurde..
+Entscheidung über die elterliche Sorge nach den § 1626a Absatz 1
+Nummer 3 oder § 1671 getroffen oder eine solche Entscheidung nach §
+1696 Absatz 1 Satz 1 geändert wurde.
 
 
 ##### § 1626c Persönliche Abgabe; beschränkt geschäftsfähiger Elternteil
@@ -25113,9 +28338,8 @@ werden.
 Zustimmungen unter Angabe des Geburtsdatums und des Geburtsorts des
 Kindes sowie des Namens, den das Kind zur Zeit der Beurkundung seiner
 Geburt geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches
-Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der
-Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch
-unverzüglich mit.
+Sozialgesetzbuch zuständigen Jugendamt zu den in § 58a des Achten
+Buches Sozialgesetzbuch genannten Zwecken unverzüglich mit.
 
 
 ##### § 1626e Unwirksamkeit
@@ -25165,13 +28389,24 @@ der Vaterschaft.
 (2a) Der Vater und die Mutter können das Kind in einem gerichtlichen
 Verfahren nach § 1598a Abs. 2 nicht vertreten.
 
-(3) Sind die Eltern des Kindes miteinander verheiratet, so kann ein
-Elternteil, solange die Eltern getrennt leben oder eine Ehesache
-zwischen ihnen anhängig ist, Unterhaltsansprüche des Kindes gegen den
-anderen Elternteil nur im eigenen Namen geltend machen. Eine von einem
-Elternteil erwirkte gerichtliche Entscheidung und ein zwischen den
-Eltern geschlossener gerichtlicher Vergleich wirken auch für und gegen
-das Kind.
+(3) Sind die Eltern des Kindes miteinander verheiratet oder besteht
+zwischen ihnen eine Lebenspartnerschaft, so kann ein Elternteil
+Unterhaltsansprüche des Kindes gegen den anderen Elternteil nur im
+eigenen Namen geltend machen, solange
+
+1.  die Eltern getrennt leben oder
+
+
+2.  eine Ehesache oder eine Lebenspartnerschaftssache im Sinne von § 269
+    Absatz 1 Nummer 1 oder 2 des Gesetzes über das Verfahren in
+    Familiensachen und in den Angelegenheiten der freiwilligen
+    Gerichtsbarkeit zwischen ihnen anhängig ist.
+
+
+
+Eine von einem Elternteil erwirkte gerichtliche Entscheidung und ein
+zwischen den Eltern geschlossener gerichtlicher Vergleich wirken auch
+für und gegen das Kind.
 
 
 ##### § 1629a Beschränkung der Minderjährigenhaftung
@@ -25254,16 +28489,24 @@ Zweifel, so soll der Rat eines Lehrers oder einer anderen geeigneten
 Person eingeholt werden.
 
 
-##### § 1631b Mit Freiheitsentziehung verbundene Unterbringung
+##### § 1631b Freiheitsentziehende Unterbringung und freiheitsentziehende Maßnahmen
 
-Eine Unterbringung des Kindes, die mit Freiheitsentziehung verbunden
-ist, bedarf der Genehmigung des Familiengerichts. Die Unterbringung
-ist zulässig, wenn sie zum Wohl des Kindes, insbesondere zur Abwendung
-einer erheblichen Selbst- oder Fremdgefährdung, erforderlich ist und
-der Gefahr nicht auf andere Weise, auch nicht durch andere öffentliche
-Hilfen, begegnet werden kann. Ohne die Genehmigung ist die
-Unterbringung nur zulässig, wenn mit dem Aufschub Gefahr verbunden
-ist; die Genehmigung ist unverzüglich nachzuholen.
+(1) Eine Unterbringung des Kindes, die mit Freiheitsentziehung
+verbunden ist, bedarf der Genehmigung des Familiengerichts. Die
+Unterbringung ist zulässig, solange sie zum Wohl des Kindes,
+insbesondere zur Abwendung einer erheblichen Selbst- oder
+Fremdgefährdung, erforderlich ist und der Gefahr nicht auf andere
+Weise, auch nicht durch andere öffentliche Hilfen, begegnet werden
+kann. Ohne die Genehmigung ist die Unterbringung nur zulässig, wenn
+mit dem Aufschub Gefahr verbunden ist; die Genehmigung ist
+unverzüglich nachzuholen.
+
+(2) Die Genehmigung des Familiengerichts ist auch erforderlich, wenn
+dem Kind, das sich in einem Krankenhaus, einem Heim oder einer
+sonstigen Einrichtung aufhält, durch mechanische Vorrichtungen,
+Medikamente oder auf andere Weise über einen längeren Zeitraum oder
+regelmäßig in nicht altersgerechter Weise die Freiheit entzogen werden
+soll. Absatz 1 Satz 2 und 3 gilt entsprechend.
 
 
 ##### § 1631c Verbot der Sterilisation
@@ -25309,11 +28552,8 @@ anordnen, dass das Kind bei der Pflegeperson verbleibt, wenn und
 solange das Kindeswohl durch die Wegnahme gefährdet würde.
 
 
-##### § 1633 Personensorge für verheirateten Minderjährigen
+##### § 1633 (weggefallen)
 
-Die Personensorge für einen Minderjährigen, der verheiratet ist oder
-war, beschränkt sich auf die Vertretung in den persönlichen
-Angelegenheiten.
 
 
 ##### (XXXX) §§ 1634 bis 1637 (weggefallen)
@@ -25464,10 +28704,9 @@ Betrieb eines Erwerbsgeschäfts erwirbt.
 (2) Die Eltern können die Einkünfte des Vermögens, die zur
 ordnungsmäßigen Verwaltung des Vermögens und für den Unterhalt des
 Kindes nicht benötigt werden, für ihren eigenen Unterhalt und für den
-Unterhalt der minderjährigen unverheirateten Geschwister des Kindes
-verwenden, soweit dies unter Berücksichtigung der Vermögens- und
-Erwerbsverhältnisse der Beteiligten der Billigkeit entspricht. Diese
-Befugnis erlischt mit der Eheschließung des Kindes.
+Unterhalt der minderjährigen Geschwister des Kindes verwenden, soweit
+dies unter Berücksichtigung der Vermögens- und Erwerbsverhältnisse der
+Beteiligten der Billigkeit entspricht.
 
 
 ##### (XXXX) §§ 1650 bis 1663 (weggefallen)
@@ -25589,17 +28828,16 @@ sie veranlasst hat.
 
 
 
-##### § 1671 Getrenntleben bei gemeinsamer elterlicher Sorge
+##### § 1671 Übertragung der Alleinsorge bei Getrenntleben der Eltern
 
-(1) Leben Eltern, denen die elterliche Sorge gemeinsam zusteht, nicht
-nur vorübergehend getrennt, so kann jeder Elternteil beantragen, dass
-ihm das Familiengericht die elterliche Sorge oder einen Teil der
-elterlichen Sorge allein überträgt.
+(1) Leben Eltern nicht nur vorübergehend getrennt und steht ihnen die
+elterliche Sorge gemeinsam zu, so kann jeder Elternteil beantragen,
+dass ihm das Familiengericht die elterliche Sorge oder einen Teil der
+elterlichen Sorge allein überträgt. Dem Antrag ist stattzugeben,
+soweit
 
-(2) Dem Antrag ist stattzugeben, soweit
-
-1.  der andere Elternteil zustimmt, es sei denn, dass das Kind das 14.
-    Lebensjahr vollendet hat und der Übertragung widerspricht, oder
+1.  der andere Elternteil zustimmt, es sei denn, das Kind hat das 14.
+    Lebensjahr vollendet und widerspricht der Übertragung, oder
 
 
 2.  zu erwarten ist, dass die Aufhebung der gemeinsamen Sorge und die
@@ -25609,25 +28847,37 @@ elterlichen Sorge allein überträgt.
 
 
 
-(3) Dem Antrag ist nicht stattzugeben, soweit die elterliche Sorge auf
-Grund anderer Vorschriften abweichend geregelt werden muss.
+(2) Leben Eltern nicht nur vorübergehend getrennt und steht die
+elterliche Sorge nach § 1626a Absatz 3 der Mutter zu, so kann der
+Vater beantragen, dass ihm das Familiengericht die elterliche Sorge
+oder einen Teil der elterlichen Sorge allein überträgt. Dem Antrag ist
+stattzugeben, soweit
+
+1.  die Mutter zustimmt, es sei denn, die Übertragung widerspricht dem
+    Wohl des Kindes oder das Kind hat das 14. Lebensjahr vollendet und
+    widerspricht der Übertragung, oder
 
 
-##### § 1672 Getrenntleben bei elterlicher Sorge der Mutter
+2.  eine gemeinsame Sorge nicht in Betracht kommt und zu erwarten ist,
+    dass die Übertragung auf den Vater dem Wohl des Kindes am besten
+    entspricht.
 
-(1) Leben die Eltern nicht nur vorübergehend getrennt und steht die
-elterliche Sorge nach § 1626a Abs. 2 der Mutter zu, so kann der Vater
-mit Zustimmung der Mutter beantragen, dass ihm das Familiengericht die
-elterliche Sorge oder einen Teil der elterlichen Sorge allein
-überträgt. Dem Antrag ist stattzugeben, wenn die Übertragung dem Wohl
-des Kindes dient.
 
-(2) Soweit eine Übertragung nach Absatz 1 stattgefunden hat, kann das
-Familiengericht auf Antrag eines Elternteils mit Zustimmung des
-anderen Elternteils entscheiden, dass die elterliche Sorge den Eltern
-gemeinsam zusteht, wenn dies dem Wohl des Kindes nicht widerspricht.
-Das gilt auch, soweit die Übertragung nach Absatz 1 wieder aufgehoben
-wurde.
+
+
+(3) Ruht die elterliche Sorge der Mutter nach § 1751 Absatz 1 Satz 1,
+so gilt der Antrag des Vaters auf Übertragung der gemeinsamen
+elterlichen Sorge nach § 1626a Absatz 2 als Antrag nach Absatz 2. Dem
+Antrag ist stattzugeben, soweit die Übertragung der elterlichen Sorge
+auf den Vater dem Wohl des Kindes nicht widerspricht.
+
+(4) Den Anträgen nach den Absätzen 1 und 2 ist nicht stattzugeben,
+soweit die elterliche Sorge auf Grund anderer Vorschriften abweichend
+geregelt werden muss.
+
+
+##### § 1672 (weggefallen)
+
 
 
 ##### § 1673 Ruhen der elterlichen Sorge bei rechtlichem Hindernis
@@ -25654,6 +28904,15 @@ Sorge tatsächlich nicht ausüben kann.
 feststellt, dass der Grund des Ruhens nicht mehr besteht.
 
 
+##### § 1674a Ruhen der elterlichen Sorge der Mutter für ein vertraulich geborenes Kind
+
+Die elterliche Sorge der Mutter für ein nach § 25 Absatz 1 des
+Schwangerschaftskonfliktgesetzes vertraulich geborenes Kind ruht. Ihre
+elterliche Sorge lebt wieder auf, wenn das Familiengericht feststellt,
+dass sie ihm gegenüber die für den Geburtseintrag ihres Kindes
+erforderlichen Angaben gemacht hat.
+
+
 ##### § 1675 Wirkung des Ruhens
 
 Solange die elterliche Sorge ruht, ist ein Elternteil nicht
@@ -25678,14 +28937,13 @@ Zeitpunkt des Todes gilt.
 (1) Ist ein Elternteil tatsächlich verhindert, die elterliche Sorge
 auszuüben, oder ruht seine elterliche Sorge, so übt der andere Teil
 die elterliche Sorge allein aus; dies gilt nicht, wenn die elterliche
-Sorge dem Elternteil nach § 1626a Abs. 2, § 1671 oder § 1672 Abs. 1
-allein zustand.
+Sorge dem Elternteil nach § 1626a Absatz 3 oder § 1671 allein zustand.
 
-(2) Ruht die elterliche Sorge des Elternteils, dem sie nach § 1626a
-Abs. 2 allein zustand, und besteht keine Aussicht, dass der Grund des
-Ruhens wegfallen werde, so hat das Familiengericht die elterliche
-Sorge dem anderen Elternteil zu übertragen, wenn dies dem Wohl des
-Kindes dient.
+(2) Ruht die elterliche Sorge des Elternteils, dem sie gemäß § 1626a
+Absatz 3 oder § 1671 allein zustand, und besteht keine Aussicht, dass
+der Grund des Ruhens wegfallen werde, so hat das Familiengericht die
+elterliche Sorge dem anderen Elternteil zu übertragen, wenn dies dem
+Wohl des Kindes nicht widerspricht.
 
 
 ##### § 1679
@@ -25699,18 +28957,13 @@ Kindes dient.
 Elternteil gestorben, so steht die elterliche Sorge dem überlebenden
 Elternteil zu.
 
-(2) Ist ein Elternteil, dem die elterliche Sorge gemäß § 1671 oder §
-1672 Abs. 1 allein zustand, gestorben, so hat das Familiengericht die
-elterliche Sorge dem überlebenden Elternteil zu übertragen, wenn dies
-dem Wohl des Kindes nicht widerspricht. Stand die elterliche Sorge der
-Mutter gemäß § 1626a Abs. 2 allein zu, so hat das Familiengericht die
-elterliche Sorge dem Vater zu übertragen, wenn dies dem Wohl des
-Kindes dient.
+(2) Ist ein Elternteil, dem die elterliche Sorge gemäß § 1626a Absatz
+3 oder § 1671 allein zustand, gestorben, so hat das Familiengericht
+die elterliche Sorge dem überlebenden Elternteil zu übertragen, wenn
+dies dem Wohl des Kindes nicht widerspricht.
 
-(3) Absatz 1 und Absatz 2 Satz 2 gelten entsprechend, soweit einem
-Elternteil, dem die elterliche Sorge gemeinsam mit dem anderen
-Elternteil oder gemäß § 1626a Abs. 2 allein zustand, die elterliche
-Sorge entzogen wird.
+(3) Die Absätze 1 und 2 gelten entsprechend, soweit einem Elternteil
+die elterliche Sorge entzogen wird.
 
 
 ##### § 1681 Todeserklärung eines Elternteils
@@ -25802,8 +29055,30 @@ wenn die Voraussetzungen des § 1666 Abs. 1 erfüllt sind.
 
 Jeder Elternteil kann vom anderen Elternteil bei berechtigtem
 Interesse Auskunft über die persönlichen Verhältnisse des Kindes
-verlangen, soweit dies dem Wohl des Kindes nicht widerspricht. Über
-Streitigkeiten entscheidet das Familiengericht.
+verlangen, soweit dies dem Wohl des Kindes nicht widerspricht.
+
+
+##### § 1686a Rechte des leiblichen, nicht rechtlichen Vaters
+
+(1) Solange die Vaterschaft eines anderen Mannes besteht, hat der
+leibliche Vater, der ernsthaftes Interesse an dem Kind gezeigt hat,
+
+1.  ein Recht auf Umgang mit dem Kind, wenn der Umgang dem Kindeswohl
+    dient, und
+
+
+2.  ein Recht auf Auskunft von jedem Elternteil über die persönlichen
+    Verhältnisse des Kindes, soweit er ein berechtigtes Interesse hat und
+    dies dem Wohl des Kindes nicht widerspricht.
+
+
+
+
+(2) Hinsichtlich des Rechts auf Umgang mit dem Kind nach Absatz 1
+Nummer 1 gilt § 1684 Absatz 2 bis 4 entsprechend. Eine
+Umgangspflegschaft nach § 1684 Absatz 3 Satz 3 bis 5 kann das
+Familiengericht nur anordnen, wenn die Voraussetzungen des § 1666
+Absatz 1 erfüllt sind.
 
 
 ##### § 1687 Ausübung der gemeinsamen Sorge bei Getrenntleben
@@ -25904,8 +29179,10 @@ zu treffen.
 (1) Eine Entscheidung zum Sorge- oder Umgangsrecht oder ein
 gerichtlich gebilligter Vergleich ist zu ändern, wenn dies aus
 triftigen, das Wohl des Kindes nachhaltig berührenden Gründen
-angezeigt ist. § 1672 Abs. 2, § 1680 Abs. 2 Satz 1 sowie § 1681 Abs. 1
-und 2 bleiben unberührt.
+angezeigt ist. Entscheidungen nach § 1626a Absatz 2 können gemäß §
+1671 Absatz 1 geändert werden; § 1671 Absatz 4 gilt entsprechend. §
+1678 Absatz 2, § 1680 Absatz 2 sowie § 1681 Absatz 1 und 2 bleiben
+unberührt.
 
 (2) Eine Maßnahme nach den §§ 1666 bis 1667 oder einer anderen
 Vorschrift des Bürgerlichen Gesetzbuchs, die nur ergriffen werden
@@ -26138,29 +29415,33 @@ die Voraussetzung des § 1600d Abs. 2 Satz 1 glaubhaft macht.
 Wochen alt ist. Sie ist auch dann wirksam, wenn der Einwilligende die
 schon feststehenden Annehmenden nicht kennt.
 
-(3) Sind die Eltern nicht miteinander verheiratet und haben sie keine
-Sorgeerklärungen abgegeben,
+(3) Steht nicht miteinander verheirateten Eltern die elterliche Sorge
+nicht gemeinsam zu, so
 
 1.  kann die Einwilligung des Vaters bereits vor der Geburt erteilt
     werden;
 
 
-2.  darf, wenn der Vater die Übertragung der Sorge nach § 1672 Abs. 1
-    beantragt hat, eine Annahme erst ausgesprochen werden, nachdem über
-    den Antrag des Vaters entschieden worden ist;
+2.  kann der Vater durch öffentlich beurkundete Erklärung darauf
+    verzichten, die Übertragung der Sorge nach § 1626a Absatz 2 und § 1671
+    Absatz 2 zu beantragen; § 1750 gilt sinngemäß mit Ausnahme von Absatz
+    1 Satz 2 und Absatz 4 Satz 1;
 
 
-3.  kann der Vater darauf verzichten, die Übertragung der Sorge nach §
-    1672 Abs. 1 zu beantragen. Die Verzichtserklärung muss öffentlich
-    beurkundet werden. § 1750 gilt sinngemäß mit Ausnahme von Absatz 4
-    Satz 1.
+3.  darf, wenn der Vater die Übertragung der Sorge nach § 1626a Absatz 2
+    oder § 1671 Absatz 2 beantragt hat, eine Annahme erst ausgesprochen
+    werden, nachdem über den Antrag des Vaters entschieden worden ist.
 
 
 
 
 (4) Die Einwilligung eines Elternteils ist nicht erforderlich, wenn er
 zur Abgabe einer Erklärung dauernd außerstande oder sein Aufenthalt
-dauernd unbekannt ist.
+dauernd unbekannt ist. Der Aufenthalt der Mutter eines gemäß § 25
+Absatz 1 des Schwangerschaftskonfliktgesetzes vertraulich geborenen
+Kindes gilt als dauernd unbekannt, bis sie gegenüber dem
+Familiengericht die für den Geburtseintrag ihres Kindes erforderlichen
+Angaben macht.
 
 
 ###### § 1748 Ersetzung der Einwilligung eines Elternteils
@@ -26197,7 +29478,7 @@ Pflege und Erziehung des Kindes dauernd unfähig ist und wenn das Kind
 bei Unterbleiben der Annahme nicht in einer Familie aufwachsen könnte
 und dadurch in seiner Entwicklung schwer gefährdet wäre.
 
-(4) In den Fällen des § 1626a Abs. 2 hat das Familiengericht die
+(4) In den Fällen des § 1626a Absatz 3 hat das Familiengericht die
 Einwilligung des Vaters zu ersetzen, wenn das Unterbleiben der Annahme
 dem Kind zu unverhältnismäßigem Nachteil gereichen würde.
 
@@ -26210,10 +29491,7 @@ kann auf Antrag des Annehmenden die Einwilligung ersetzen. Die
 Einwilligung darf nicht ersetzt werden, wenn berechtigte Interessen
 des anderen Ehegatten und der Familie der Annahme entgegenstehen.
 
-(2) Zur Annahme eines Verheirateten ist die Einwilligung seines
-Ehegatten erforderlich.
-
-(3) Die Einwilligung des Ehegatten ist nicht erforderlich, wenn er zur
+(2) Die Einwilligung des Ehegatten ist nicht erforderlich, wenn er zur
 Abgabe der Erklärung dauernd außerstande oder sein Aufenthalt dauernd
 unbekannt ist.
 
@@ -26251,16 +29529,13 @@ Vormund; dies gilt nicht, wenn der andere Elternteil die elterliche
 Sorge allein ausübt oder wenn bereits ein Vormund bestellt ist. Eine
 bestehende Pflegschaft bleibt unberührt. Für den Annehmenden gilt
 während der Zeit der Adoptionspflege § 1688 Abs. 1 und 3 entsprechend.
-Hat die Mutter in die Annahme eingewilligt, so bedarf ein Antrag des
-Vaters nach § 1672 Abs. 1 nicht ihrer Zustimmung.
 
 (2) Absatz 1 ist nicht anzuwenden auf einen Ehegatten, dessen Kind vom
 anderen Ehegatten angenommen wird.
 
 (3) Hat die Einwilligung eines Elternteils ihre Kraft verloren, so hat
-das Vormundschaftsgericht die elterliche Sorge dem Elternteil zu
-übertragen, wenn und soweit dies dem Wohl des Kindes nicht
-widerspricht.
+das Familiengericht die elterliche Sorge dem Elternteil zu übertragen,
+wenn und soweit dies dem Wohl des Kindes nicht widerspricht.
 
 (4) Der Annehmende ist dem Kind vor den Verwandten des Kindes zur
 Gewährung des Unterhalts verpflichtet, sobald die Eltern des Kindes
@@ -26354,16 +29629,10 @@ ist die Bestimmung nur wirksam, wenn es sich der Bestimmung vor dem
 Ausspruch der Annahme durch Erklärung gegenüber dem Familiengericht
 anschließt; § 1617c Abs. 1 Satz 2 gilt entsprechend.
 
-(3) Die Änderung des Geburtsnamens erstreckt sich auf den Ehenamen des
-Kindes nur dann, wenn sich auch der Ehegatte der Namensänderung vor
-dem Ausspruch der Annahme durch Erklärung gegenüber dem
-Familiengericht anschließt; die Erklärung muss öffentlich beglaubigt
-werden.
-
-(4) Das Familiengericht kann auf Antrag des Annehmenden mit
+(3) Das Familiengericht kann auf Antrag des Annehmenden mit
 Einwilligung des Kindes mit dem Ausspruch der Annahme
 
-1.  Vornamen des Kindes ändern oer ihm einen oder mehrere neue Vornamen
+1.  Vornamen des Kindes ändern oder ihm einen oder mehrere neue Vornamen
     beigeben, wenn dies dem Wohl des Kindes entspricht;
 
 
@@ -26617,11 +29886,14 @@ Verhältnis bereits entstanden ist.
 
 (2) Für die Annahme Volljähriger gelten die Vorschriften über die
 Annahme Minderjähriger sinngemäß, soweit sich aus den folgenden
-Vorschriften nichts anderes ergibt. § 1757 Abs. 3 ist entsprechend
-anzuwenden, wenn der Angenommene eine Lebenspartnerschaft begründet
-hat und sein Geburtsname zum Lebenspartnerschaftsnamen bestimmt worden
-ist. Zur Annahme einer Person, die eine Lebenspartnerschaft führt, ist
-die Einwilligung des Lebenspartners erforderlich.
+Vorschriften nichts anderes ergibt. Zur Annahme eines Verheirateten
+oder einer Person, die eine Lebenspartnerschaft führt, ist die
+Einwilligung seines Ehegatten oder ihres Lebenspartners erforderlich.
+Die Änderung des Geburtsnamens erstreckt sich auf den Ehe- oder
+Lebenspartnerschaftsnamen des Angenommenen nur dann, wenn sich auch
+der Ehegatte oder Lebenspartner der Namensänderung vor dem Ausspruch
+der Annahme durch Erklärung gegenüber dem Familiengericht anschließt;
+die Erklärung muss öffentlich beglaubigt werden.
 
 
 ###### § 1768 Antrag
@@ -26792,10 +30064,7 @@ Zustimmung nur übergangen werden,
 Familiengericht nach dem Wegfall des Hindernisses auf seinen Antrag
 anstelle des bisherigen Vormunds zum Vormund zu bestellen.
 
-(3) Für einen minderjährigen Ehegatten darf der andere Ehegatte vor
-den nach § 1776 Berufenen zum Vormund bestellt werden.
-
-(4) Neben dem Berufenen darf nur mit dessen Zustimmung ein Mitvormund
+(3) Neben dem Berufenen darf nur mit dessen Zustimmung ein Mitvormund
 bestellt werden.
 
 
@@ -27155,7 +30424,7 @@ die Vormundschaft beziehenden Papiere zu gestatten.
 ###### § 1800 Umfang der Personensorge
 
 Das Recht und die Pflicht des Vormunds, für die Person des Mündels zu
-sorgen, bestimmen sich nach §§ 1631 bis 1633. Der Vormund hat die
+sorgen, bestimmen sich nach §§ 1631 bis 1632. Der Vormund hat die
 Pflege und Erziehung des Mündels persönlich zu fördern und zu
 gewährleisten.
 
@@ -28391,11 +31660,15 @@ Wertvorstellungen des Betreuten.
 (3) Die Absätze 1 und 2 gelten unabhängig von Art und Stadium einer
 Erkrankung des Betreuten.
 
-(4) Niemand kann zur Errichtung einer Patientenverfügung verpflichtet
+(4) Der Betreuer soll den Betreuten in geeigneten Fällen auf die
+Möglichkeit einer Patientenverfügung hinweisen und ihn auf dessen
+Wunsch bei der Errichtung einer Patientenverfügung unterstützen.
+
+(5) Niemand kann zur Errichtung einer Patientenverfügung verpflichtet
 werden. Die Errichtung oder Vorlage einer Patientenverfügung darf
 nicht zur Bedingung eines Vertragsschlusses gemacht werden.
 
-(5) Die Absätze 1 bis 3 gelten für Bevollmächtigte entsprechend.
+(6) Die Absätze 1 bis 3 gelten für Bevollmächtigte entsprechend.
 
 
 ##### § 1901b Gespräch zur Feststellung des Patientenwillens
@@ -28443,12 +31716,27 @@ den Aufgabenkreis des Betreuers betrifft, dessen Einwilligung bedarf
 (Einwilligungsvorbehalt). Die §§ 108 bis 113, 131 Abs. 2 und § 210
 gelten entsprechend.
 
-(2) Ein Einwilligungsvorbehalt kann sich nicht erstrecken auf
-Willenserklärungen, die auf Eingehung einer Ehe oder Begründung einer
-Lebenspartnerschaft gerichtet sind, auf Verfügungen von Todes wegen
-und auf Willenserklärungen, zu denen ein beschränkt Geschäftsfähiger
-nach den Vorschriften des Buches vier und fünf nicht der Zustimmung
-seines gesetzlichen Vertreters bedarf.
+(2) Ein Einwilligungsvorbehalt kann sich nicht erstrecken
+
+1.  auf Willenserklärungen, die auf Eingehung einer Ehe oder Begründung
+    einer Lebenspartnerschaft gerichtet sind,
+
+
+2.  auf Verfügungen von Todes wegen,
+
+
+3.  auf die Anfechtung eines Erbvertrags,
+
+
+4.  auf die Aufhebung eines Erbvertrags durch Vertrag und
+
+
+5.  auf Willenserklärungen, zu denen ein beschränkt Geschäftsfähiger nach
+    den Vorschriften der Bücher 4 und 5 nicht der Zustimmung seines
+    gesetzlichen Vertreters bedarf.
+
+
+
 
 (3) Ist ein Einwilligungsvorbehalt angeordnet, so bedarf der Betreute
 dennoch nicht der Einwilligung seines Betreuers, wenn die
@@ -28534,7 +31822,7 @@ Genehmigung durchgeführt werden. Bei der Sterilisation ist stets der
 Methode der Vorzug zu geben, die eine Refertilisierung zulässt.
 
 
-##### § 1906 Genehmigung des Betreuungsgerichts bei der Unterbringung
+##### § 1906 Genehmigung des Betreuungsgerichts bei freiheitsentziehender Unterbringung und bei freiheitsentziehenden Maßnahmen
 
 (1) Eine Unterbringung des Betreuten durch den Betreuer, die mit
 Freiheitsentziehung verbunden ist, ist nur zulässig, solange sie zum
@@ -28545,12 +31833,13 @@ Wohl des Betreuten erforderlich ist, weil
     tötet oder erheblichen gesundheitlichen Schaden zufügt, oder
 
 
-2.  eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder
-    ein ärztlicher Eingriff notwendig ist, ohne die Unterbringung des
-    Betreuten nicht durchgeführt werden kann und der Betreute auf Grund
-    einer psychischen Krankheit oder geistigen oder seelischen Behinderung
-    die Notwendigkeit der Unterbringung nicht erkennen oder nicht nach
-    dieser Einsicht handeln kann.
+2.  zur Abwendung eines drohenden erheblichen gesundheitlichen Schadens
+    eine Untersuchung des Gesundheitszustands, eine Heilbehandlung oder
+    ein ärztlicher Eingriff notwendig ist, die Maßnahme ohne die
+    Unterbringung des Betreuten nicht durchgeführt werden kann und der
+    Betreute auf Grund einer psychischen Krankheit oder geistigen oder
+    seelischen Behinderung die Notwendigkeit der Unterbringung nicht
+    erkennen oder nicht nach dieser Einsicht handeln kann.
 
 
 
@@ -28561,20 +31850,82 @@ wenn mit dem Aufschub Gefahr verbunden ist; die Genehmigung ist
 unverzüglich nachzuholen.
 
 (3) Der Betreuer hat die Unterbringung zu beenden, wenn ihre
-Voraussetzungen wegfallen. Er hat die Beendigung der Unterbringung dem
-Betreuungsgericht anzuzeigen.
+Voraussetzungen weggefallen sind. Er hat die Beendigung der
+Unterbringung dem Betreuungsgericht unverzüglich anzuzeigen.
 
 (4) Die Absätze 1 bis 3 gelten entsprechend, wenn dem Betreuten, der
-sich in einer Anstalt, einem Heim oder einer sonstigen Einrichtung
-aufhält, ohne untergebracht zu sein, durch mechanische Vorrichtungen,
-Medikamente oder auf andere Weise über einen längeren Zeitraum oder
-regelmäßig die Freiheit entzogen werden soll.
+sich in einem Krankenhaus, einem Heim oder einer sonstigen Einrichtung
+aufhält, durch mechanische Vorrichtungen, Medikamente oder auf andere
+Weise über einen längeren Zeitraum oder regelmäßig die Freiheit
+entzogen werden soll.
 
 (5) Die Unterbringung durch einen Bevollmächtigten und die
-Einwilligung eines Bevollmächtigten in Maßnahmen nach Absatz 4 setzt
+Einwilligung eines Bevollmächtigten in Maßnahmen nach Absatz 4 setzen
 voraus, dass die Vollmacht schriftlich erteilt ist und die in den
 Absätzen 1 und 4 genannten Maßnahmen ausdrücklich umfasst. Im Übrigen
 gelten die Absätze 1 bis 4 entsprechend.
+
+
+##### § 1906a Genehmigung des Betreuungsgerichts bei ärztlichen Zwangsmaßnahmen
+
+(1) Widerspricht eine Untersuchung des Gesundheitszustands, eine
+Heilbehandlung oder ein ärztlicher Eingriff dem natürlichen Willen des
+Betreuten (ärztliche Zwangsmaßnahme), so kann der Betreuer in die
+ärztliche Zwangsmaßnahme nur einwilligen, wenn
+
+1.  die ärztliche Zwangsmaßnahme zum Wohl des Betreuten notwendig ist, um
+    einen drohenden erheblichen gesundheitlichen Schaden abzuwenden,
+
+
+2.  der Betreute auf Grund einer psychischen Krankheit oder einer
+    geistigen oder seelischen Behinderung die Notwendigkeit der ärztlichen
+    Maßnahme nicht erkennen oder nicht nach dieser Einsicht handeln kann,
+
+
+3.  die ärztliche Zwangsmaßnahme dem nach § 1901a zu beachtenden Willen
+    des Betreuten entspricht,
+
+
+4.  zuvor ernsthaft, mit dem nötigen Zeitaufwand und ohne Ausübung
+    unzulässigen Drucks versucht wurde, den Betreuten von der
+    Notwendigkeit der ärztlichen Maßnahme zu überzeugen,
+
+
+5.  der drohende erhebliche gesundheitliche Schaden durch keine andere den
+    Betreuten weniger belastende Maßnahme abgewendet werden kann,
+
+
+6.  der zu erwartende Nutzen der ärztlichen Zwangsmaßnahme die zu
+    erwartenden Beeinträchtigungen deutlich überwiegt und
+
+
+7.  die ärztliche Zwangsmaßnahme im Rahmen eines stationären Aufenthalts
+    in einem Krankenhaus, in dem die gebotene medizinische Versorgung des
+    Betreuten einschließlich einer erforderlichen Nachbehandlung
+    sichergestellt ist, durchgeführt wird.
+
+
+
+§ 1846 ist nur anwendbar, wenn der Betreuer an der Erfüllung seiner
+Pflichten verhindert ist.
+
+(2) Die Einwilligung in die ärztliche Zwangsmaßnahme bedarf der
+Genehmigung des Betreuungsgerichts.
+
+(3) Der Betreuer hat die Einwilligung in die ärztliche Zwangsmaßnahme
+zu widerrufen, wenn ihre Voraussetzungen weggefallen sind. Er hat den
+Widerruf dem Betreuungsgericht unverzüglich anzuzeigen.
+
+(4) Kommt eine ärztliche Zwangsmaßnahme in Betracht, so gilt für die
+Verbringung des Betreuten gegen seinen natürlichen Willen zu einem
+stationären Aufenthalt in ein Krankenhaus § 1906 Absatz 1 Nummer 2,
+Absatz 2 und 3 Satz 1 entsprechend.
+
+(5) Die Einwilligung eines Bevollmächtigten in eine ärztliche
+Zwangsmaßnahme und die Einwilligung in eine Maßnahme nach Absatz 4
+setzen voraus, dass die Vollmacht schriftlich erteilt ist und die
+Einwilligung in diese Maßnahmen ausdrücklich umfasst. Im Übrigen
+gelten die Absätze 1 bis 3 entsprechend.
 
 
 ##### § 1907 Genehmigung des Betreuungsgerichts bei der Aufgabe der Mietwohnung
@@ -28688,8 +32039,9 @@ werden, wenn er gewährleistet, dass er
 
 
 2.  sich planmäßig um die Gewinnung ehrenamtlicher Betreuer bemüht, diese
-    in ihre Aufgaben einführt, fortbildet und sie sowie Bevollmächtigte
-    berät,
+    in ihre Aufgaben einführt, sie fortbildet und sie sowie
+    Bevollmächtigte bei der Wahrnehmung ihrer Aufgaben berät und
+    unterstützt,
 
 
 2a. planmäßig über Vorsorgevollmachten und Betreuungsverfügungen
@@ -29128,8 +32480,9 @@ ein Recht auf die Leistung zuzuwenden (Auflage).
 
 #### § 1941 Erbvertrag
 
-(1) Der Erblasser kann durch Vertrag einen Erben einsetzen sowie
-Vermächtnisse und Auflagen anordnen (Erbvertrag).
+(1) Der Erblasser kann durch Vertrag einen Erben einsetzen,
+Vermächtnisse und Auflagen anordnen sowie das anzuwendende Erbrecht
+wählen (Erbvertrag).
 
 (2) Als Erbe (Vertragserbe) oder als Vermächtnisnehmer kann sowohl der
 andere Vertragschließende als ein Dritter bedacht werden.
@@ -29848,16 +33201,15 @@ oder einen zuständigen Beamten oder Notar zuziehen.
 
 ###### § 2003 Amtliche Aufnahme des Inventars
 
-(1) Auf Antrag des Erben hat das Nachlassgericht entweder das Inventar
-selbst aufzunehmen oder die Aufnahme einer zuständigen Behörde oder
-einem zuständigen Beamten oder Notar zu übertragen. Durch die Stellung
+(1) Die amtliche Aufnahme des Inventars erfolgt auf Antrag des Erben
+durch einen vom Nachlassgericht beauftragten Notar. Durch die Stellung
 des Antrags wird die Inventarfrist gewahrt.
 
 (2) Der Erbe ist verpflichtet, die zur Aufnahme des Inventars
 erforderliche Auskunft zu erteilen.
 
-(3) Das Inventar ist von der Behörde, dem Beamten oder dem Notar bei
-dem Nachlassgericht einzureichen.
+(3) Das Inventar ist von dem Notar bei dem Nachlassgericht
+einzureichen.
 
 
 ###### § 2004 Bezugnahme auf ein vorhandenes Inventar
@@ -32809,8 +36161,9 @@ Fall des Überlebens des Bedachten eine Verfügung zugunsten einer
 Person getroffen wird, die mit dem anderen Ehegatten verwandt ist oder
 ihm sonst nahe steht.
 
-(3) Auf andere Verfügungen als Erbeinsetzungen, Vermächtnisse oder
-Auflagen findet die Vorschrift des Absatzes 1 keine Anwendung.
+(3) Auf andere Verfügungen als Erbeinsetzungen, Vermächtnisse,
+Auflagen und die Wahl des anzuwendenden Erbrechts findet Absatz 1
+keine Anwendung.
 
 
 ##### § 2271 Widerruf wechselbezüglicher Verfügungen
@@ -32855,17 +36208,8 @@ Der Erblasser kann einen Erbvertrag nur persönlich schließen.
 
 #### § 2275 Voraussetzungen
 
-(1) Einen Erbvertrag kann als Erblasser nur schließen, wer
-unbeschränkt geschäftsfähig ist.
-
-(2) Ein Ehegatte kann als Erblasser mit seinem Ehegatten einen
-Erbvertrag schließen, auch wenn er in der Geschäftsfähigkeit
-beschränkt ist. Er bedarf in diesem Falle der Zustimmung seines
-gesetzlichen Vertreters; ist der gesetzliche Vertreter ein Vormund, so
-ist auch die Genehmigung des Familiengerichts erforderlich.
-
-(3) Die Vorschriften des Absatzes 2 gelten entsprechend für Verlobte,
-auch im Sinne des Lebenspartnerschaftsgesetzes.
+Einen Erbvertrag kann als Erblasser nur schließen, wer unbeschränkt
+geschäftsfähig ist.
 
 
 #### § 2276 Form
@@ -32891,8 +36235,9 @@ die für den Ehevertrag vorgeschriebene Form.
 (1) In einem Erbvertrag kann jeder der Vertragschließenden
 vertragsmäßige Verfügungen von Todes wegen treffen.
 
-(2) Andere Verfügungen als Erbeinsetzungen, Vermächtnisse und Auflagen
-können vertragsmäßig nicht getroffen werden.
+(2) Andere Verfügungen als Erbeinsetzungen, Vermächtnisse, Auflagen
+und die Wahl des anzuwendenden Erbrechts können vertragsmäßig nicht
+getroffen werden.
 
 
 #### § 2279 Vertragsmäßige Zuwendungen und Auflagen; Anwendung von § 2077
@@ -32934,15 +36279,11 @@ mitteilen.
 #### § 2282 Vertretung, Form der Anfechtung
 
 (1) Die Anfechtung kann nicht durch einen Vertreter des Erblassers
-erfolgen. Ist der Erblasser in der Geschäftsfähigkeit beschränkt, so
-bedarf er zur Anfechtung nicht der Zustimmung seines gesetzlichen
-Vertreters.
+erfolgen.
 
-(2) Für einen geschäftsunfähigen Erblasser kann sein gesetzlicher
-Vertreter den Erbvertrag anfechten; steht der Erblasser unter
-elterlicher Sorge oder Vormundschaft, ist die Genehmigung des
-Familiengerichts erforderlich, ist der gesetzliche Vertreter ein
-Betreuer, die des Betreuungsgerichts.
+(2) Für einen geschäftsunfähigen Erblasser kann sein Betreuer den
+Erbvertrag anfechten; die Genehmigung des Betreuungsgerichts ist
+erforderlich.
 
 (3) Die Anfechtungserklärung bedarf der notariellen Beurkundung.
 
@@ -32968,8 +36309,7 @@ Weise anfechten, wie wenn er ohne gesetzlichen Vertreter gewesen wäre.
 #### § 2284 Bestätigung
 
 Die Bestätigung eines anfechtbaren Erbvertrags kann nur durch den
-Erblasser persönlich erfolgen. Ist der Erblasser in der
-Geschäftsfähigkeit beschränkt, so ist die Bestätigung ausgeschlossen.
+Erblasser persönlich erfolgen.
 
 
 #### § 2285 Anfechtung durch Dritte
@@ -33034,16 +36374,11 @@ durch Vertrag von den Personen aufgehoben werden, die den Erbvertrag
 geschlossen haben. Nach dem Tode einer dieser Personen kann die
 Aufhebung nicht mehr erfolgen.
 
-(2) Der Erblasser kann den Vertrag nur persönlich schließen. Ist er in
-der Geschäftsfähigkeit beschränkt, so bedarf er nicht der Zustimmung
-seines gesetzlichen Vertreters.
+(2) Der Erblasser kann den Vertrag nur persönlich schließen.
 
-(3) Steht der andere Teil unter Vormundschaft, so ist die Genehmigung
-des Familiengerichts erforderlich. Das Gleiche gilt, wenn er unter
-elterlicher Sorge steht, es sei denn, dass der Vertrag unter Ehegatten
-oder unter Verlobten, auch im Sinne des Lebenspartnerschaftsgesetzes,
-geschlossen wird. Wird die Aufhebung vom Aufgabenkreis eines Betreuers
-erfasst, ist die Genehmigung des Betreuungsgerichts erforderlich.
+(3) Ist für den anderen Teil ein Betreuer bestellt und wird die
+Aufhebung vom Aufgabenkreis des Betreuers erfasst, ist die Genehmigung
+des Betreuungsgerichts erforderlich.
 
 (4) Der Vertrag bedarf der in § 2276 für den Erbvertrag
 vorgeschriebenen Form.
@@ -33052,10 +36387,10 @@ vorgeschriebenen Form.
 #### § 2291 Aufhebung durch Testament
 
 (1) Eine vertragsmäßige Verfügung, durch die ein Vermächtnis oder eine
-Auflage angeordnet ist, kann von dem Erblasser durch Testament
-aufgehoben werden. Zur Wirksamkeit der Aufhebung ist die Zustimmung
-des anderen Vertragschließenden erforderlich; die Vorschrift des §
-2290 Abs. 3 findet Anwendung.
+Auflage angeordnet sowie eine Rechtswahl getroffen ist, kann von dem
+Erblasser durch Testament aufgehoben werden. Zur Wirksamkeit der
+Aufhebung ist die Zustimmung des anderen Vertragschließenden
+erforderlich; die Vorschrift des § 2290 Abs. 3 findet Anwendung.
 
 (2) Die Zustimmungserklärung bedarf der notariellen Beurkundung; die
 Zustimmung ist unwiderruflich.
@@ -33097,9 +36432,7 @@ Erblassers aufgehoben wird.
 
 #### § 2296 Vertretung, Form des Rücktritts
 
-(1) Der Rücktritt kann nicht durch einen Vertreter erfolgen. Ist der
-Erblasser in der Geschäftsfähigkeit beschränkt, so bedarf er nicht der
-Zustimmung seines gesetzlichen Vertreters.
+(1) Der Rücktritt kann nicht durch einen Vertreter erfolgen.
 
 (2) Der Rücktritt erfolgt durch Erklärung gegenüber dem anderen
 Vertragschließenden. Die Erklärung bedarf der notariellen Beurkundung.
@@ -33772,10 +37105,8 @@ Pflichtteilsrecht.
 
 (1) Zu dem Erbverzicht ist, wenn der Verzichtende unter Vormundschaft
 steht, die Genehmigung des Familiengerichts erforderlich; steht er
-unter elterlicher Sorge, so gilt das Gleiche, sofern nicht der Vertrag
-unter Ehegatten oder unter Verlobten geschlossen wird. Für den
-Verzicht durch den Betreuer ist die Genehmigung des Betreuungsgerichts
-erforderlich.
+unter elterlicher Sorge, so gilt das Gleiche. Für den Verzicht durch
+den Betreuer ist die Genehmigung des Betreuungsgerichts erforderlich.
 
 (2) Der Erblasser kann den Vertrag nur persönlich schließen; ist er in
 der Geschäftsfähigkeit beschränkt, so bedarf er nicht der Zustimmung
@@ -33805,8 +37136,8 @@ Fall gelten soll, dass der andere Erbe wird.
 
 (2) Verzichtet ein Abkömmling des Erblassers auf das gesetzliche
 Erbrecht, so ist im Zweifel anzunehmen, dass der Verzicht nur
-zugunsten der anderen Abkömmlinge und des Ehegatten des Erblassers
-gelten soll.
+zugunsten der anderen Abkömmlinge und des Ehegatten oder
+Lebenspartners des Erblassers gelten soll.
 
 
 #### § 2351 Aufhebung des Erbverzichts
@@ -33836,103 +37167,9 @@ Erbrecht und, wenn er nur zu einem Teil der Erbschaft berufen ist,
 über die Größe des Erbteils zu erteilen (Erbschein).
 
 
-#### § 2354 Angaben des gesetzlichen Erben im Antrag
+#### (XXXX) §§ 2354 bis 2359
 
-(1) Wer die Erteilung des Erbscheins als gesetzlicher Erbe beantragt,
-hat anzugeben:
-
-1.  die Zeit des Todes des Erblassers,
-
-
-2.  das Verhältnis, auf dem sein Erbrecht beruht,
-
-
-3.  ob und welche Personen vorhanden sind oder vorhanden waren, durch die
-    er von der Erbfolge ausgeschlossen oder sein Erbteil gemindert werden
-    würde,
-
-
-4.  ob und welche Verfügungen des Erblassers von Todes wegen vorhanden
-    sind,
-
-
-5.  ob ein Rechtsstreit über sein Erbrecht anhängig ist.
-
-
-
-
-(2) Ist eine Person weggefallen, durch die der Antragsteller von der
-Erbfolge ausgeschlossen oder sein Erbteil gemindert werden würde, so
-hat der Antragsteller anzugeben, in welcher Weise die Person
-weggefallen ist.
-
-
-#### § 2355 Angaben des gewillkürten Erben im Antrag
-
-Wer die Erteilung des Erbscheins auf Grund einer Verfügung von Todes
-wegen beantragt, hat die Verfügung zu bezeichnen, auf der sein
-Erbrecht beruht, anzugeben, ob und welche sonstigen Verfügungen des
-Erblassers von Todes wegen vorhanden sind, und die in § 2354 Abs. 1
-Nr. 1, 5, Abs. 2 vorgeschriebenen Angaben zu machen.
-
-
-#### § 2356 Nachweis der Richtigkeit der Angaben
-
-(1) Der Antragsteller hat die Richtigkeit der in Gemäßheit des § 2354
-Abs. 1 Nr. 1, 2, Abs. 2 gemachten Angaben durch öffentliche Urkunden
-nachzuweisen und im Falle des § 2355 die Urkunde vorzulegen, auf der
-sein Erbrecht beruht. Sind die Urkunden nicht oder nur mit
-unverhältnismäßigen Schwierigkeiten zu beschaffen, so genügt die
-Angabe anderer Beweismittel.
-
-(2) Zum Nachweis, dass der Erblasser zur Zeit seines Todes im
-Güterstand der Zugewinngemeinschaft gelebt hat, und in Ansehung der
-übrigen nach den §§ 2354, 2355 erforderlichen Angaben hat der
-Antragsteller vor Gericht oder vor einem Notar an Eides statt zu
-versichern, dass ihm nichts bekannt sei, was der Richtigkeit seiner
-Angaben entgegensteht. Das Nachlassgericht kann die Versicherung
-erlassen, wenn es sie für nicht erforderlich erachtet.
-
-(3) Diese Vorschriften finden keine Anwendung, soweit die Tatsachen
-bei dem Nachlassgericht offenkundig sind.
-
-
-#### § 2357 Gemeinschaftlicher Erbschein
-
-(1) Sind mehrere Erben vorhanden, so ist auf Antrag ein
-gemeinschaftlicher Erbschein zu erteilen. Der Antrag kann von jedem
-der Erben gestellt werden.
-
-(2) In dem Antrag sind die Erben und ihre Erbteile anzugeben.
-
-(3) Wird der Antrag nicht von allen Erben gestellt, so hat er die
-Angabe zu enthalten, dass die übrigen Erben die Erbschaft angenommen
-haben. Die Vorschrift des § 2356 gilt auch für die sich auf die
-übrigen Erben beziehenden Angaben des Antragstellers.
-
-(4) Die Versicherung an Eides statt ist von allen Erben abzugeben,
-sofern nicht das Nachlassgericht die Versicherung eines oder einiger
-von ihnen für ausreichend erachtet.
-
-
-#### § 2358 Ermittlungen des Nachlassgerichts
-
-(1) Das Nachlassgericht hat unter Benutzung der von dem Antragsteller
-angegebenen Beweismittel von Amts wegen die zur Feststellung der
-Tatsachen erforderlichen Ermittlungen zu veranstalten und die geeignet
-erscheinenden Beweise aufzunehmen.
-
-(2) Das Nachlassgericht kann eine öffentliche Aufforderung zur
-Anmeldung der anderen Personen zustehenden Erbrechte erlassen; die Art
-der Bekanntmachung und die Dauer der Anmeldungsfrist bestimmen sich
-nach den für das Aufgebotsverfahren geltenden Vorschriften.
-
-
-#### § 2359 Voraussetzungen für die Erteilung des Erbscheins
-
-Der Erbschein ist nur zu erteilen, wenn das Nachlassgericht die zur
-Begründung des Antrags erforderlichen Tatsachen für festgestellt
-erachtet.
+(weggefallen)
 
 
 #### § 2360 (weggefallen)
@@ -33942,19 +37179,9 @@ erachtet.
 
 #### § 2361 Einziehung oder Kraftloserklärung des unrichtigen Erbscheins
 
-(1) Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn
-das Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein
+Ergibt sich, dass der erteilte Erbschein unrichtig ist, so hat ihn das
+Nachlassgericht einzuziehen. Mit der Einziehung wird der Erbschein
 kraftlos.
-
-(2) Kann der Erbschein nicht sofort erlangt werden, so hat ihn das
-Nachlassgericht durch Beschluss für kraftlos zu erklären. Der
-Beschluss ist nach den für die öffentliche Zustellung einer Ladung
-geltenden Vorschriften der Zivilprozessordnung bekannt zu machen. Mit
-dem Ablauf eines Monats nach der letzten Einrückung des Beschlusses in
-die öffentlichen Blätter wird die Kraftloserklärung wirksam.
-
-(3) Das Nachlassgericht kann von Amts wegen über die Richtigkeit eines
-erteilten Erbscheins Ermittlungen veranstalten.
 
 
 #### § 2362 Herausgabe- und Auskunftsanspruch des wirklichen Erben
@@ -33967,26 +37194,14 @@ hat dem wirklichen Erben über den Bestand der Erbschaft und über den
 Verbleib der Erbschaftsgegenstände Auskunft zu erteilen.
 
 
-#### § 2363 Inhalt des Erbscheins für den Vorerben
+#### § 2363 Herausgabeanspruch des Nacherben und des Testamentsvollstreckers
 
-(1) In dem Erbschein, der einem Vorerben erteilt wird, ist anzugeben,
-dass eine Nacherbfolge angeordnet ist, unter welchen Voraussetzungen
-sie eintritt und wer der Nacherbe ist. Hat der Erblasser den Nacherben
-auf dasjenige eingesetzt, was von der Erbschaft bei dem Eintritt der
-Nacherbfolge übrig sein wird, oder hat er bestimmt, dass der Vorerbe
-zur freien Verfügung über die Erbschaft berechtigt sein soll, so ist
-auch dies anzugeben.
-
-(2) Dem Nacherben steht das in § 2362 Abs. 1 bestimmte Recht zu.
+Dem Nacherben sowie dem Testamentsvollstrecker steht das in § 2362
+Absatz 1 bestimmte Recht zu.
 
 
-#### § 2364 Angabe des Testamentsvollstreckers im Erbschein, Herausgabeanspruch des Testamentsvollstreckers
+#### § 2364 (weggefallen)
 
-(1) Hat der Erblasser einen Testamentsvollstrecker ernannt, so ist die
-Ernennung in dem Erbschein anzugeben.
-
-(2) Dem Testamentsvollstrecker steht das in § 2362 Abs. 1 bestimmte
-Recht zu.
 
 
 #### § 2365 Vermutung der Richtigkeit des Erbscheins
@@ -34021,30 +37236,15 @@ vorgenommen wird, das eine Verfügung über das Recht enthält.
 
 #### § 2368 Testamentsvollstreckerzeugnis
 
-(1) Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag
-ein Zeugnis über die Ernennung zu erteilen. Ist der
-Testamentsvollstrecker in der Verwaltung des Nachlasses beschränkt
-oder hat der Erblasser angeordnet, dass der Testamentsvollstrecker in
-der Eingehung von Verbindlichkeiten für den Nachlass nicht beschränkt
-sein soll, so ist dies in dem Zeugnis anzugeben.
-
-(2) (weggefallen)
-
-(3) Die Vorschriften über den Erbschein finden auf das Zeugnis
-entsprechende Anwendung; mit der Beendigung des Amts des
-Testamentsvollstreckers wird das Zeugnis kraftlos.
+Einem Testamentsvollstrecker hat das Nachlassgericht auf Antrag ein
+Zeugnis über die Ernennung zu erteilen. Die Vorschriften über den
+Erbschein finden auf das Zeugnis entsprechende Anwendung; mit der
+Beendigung des Amts des Testamentsvollstreckers wird das Zeugnis
+kraftlos.
 
 
-#### § 2369 Gegenständlich beschränkter Erbschein
+#### § 2369 (weggefallen)
 
-(1) Gehören zu einer Erbschaft auch Gegenstände, die sich im Ausland
-befinden, kann der Antrag auf Erteilung eines Erbscheins auf die im
-Inland befindlichen Gegenstände beschränkt werden.
-
-(2) Ein Gegenstand, für den von einer deutschen Behörde ein zur
-Eintragung des Berechtigten bestimmtes Buch oder Register geführt
-wird, gilt als im Inland befindlich. Ein Anspruch gilt als im Inland
-befindlich, wenn für die Klage ein deutsches Gericht zuständig ist.
 
 
 #### § 2370 Öffentlicher Glaube bei Todeserklärung

@@ -818,8 +818,9 @@ anzuwenden.
 
 Diese Verordnung tritt am 15. Oktober 2003 in Kraft.
 
+(zu § 11 Abs. 1 Satz 2)
 
-### Anlage 1 (zu § 11 Abs. 1 Satz 2) Standards für die Einreichung von Sequenzprotokollen
+### Anlage 1 Standards für die Einreichung von Sequenzprotokollen
 
 (Fundstelle: BGBl. I 2003, 1708 - 1725;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -932,11 +933,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     als ganze Zahlen fort. Gibt es zu einer Kennzahl keine Sequenz, so ist
     am Anfang der auf die SEQ ID NO folgenden Zeile unter der numerischen
     Kennzahl
-    400                    der Code 000 anzugeben. Unter der numerischen
-    Kennzahl
-    160                    ist die Gesamtzahl der SEQ ID NOs anzugeben,
-    und zwar unabhängig davon, ob im Anschluss an eine SEQ ID NO eine
-    Sequenzkennzahl oder der Code 000 folgt.
+    400 der Code 000 anzugeben. Unter der numerischen Kennzahl
+    160 ist die Gesamtzahl der SEQ ID NOs anzugeben, und zwar unabhängig
+    davon, ob im Anschluss an eine SEQ ID NO eine Sequenzkennzahl oder der
+    Code 000 folgt.
 
 
 5.  In der Beschreibung, in den Ansprüchen und in den Zeichnungen der
@@ -1127,25 +1127,23 @@ Zu verwendende Symbole
     diejenigen numerischen Kennzahlen angegeben zu werden, zu denen auch
     Angaben vorliegen. Die einzigen beiden Ausnahmen zu dieser Vorschrift
     bilden die numerischen Kennzahlen
-    220                    und
-    300                   , die für die Rubrik "Merkmal" bzw.
-    "Veröffentlichungsangaben" stehen und mit den Angaben unter den
-    numerischen Kennzahlen
-    221                    bis
-    223                    bzw.
-    301                    bis
-    313                    zusammenhängen. Werden unter diesen numerischen
-    Kennzahlen im Sequenzprotokoll Angaben zu den Merkmalen oder zur
-    Veröffentlichung gemacht, so sollte auch die numerische Kennzahl
-    220                    bzw.
-    300                    aufgeführt, die dazugehörige Rubrik aber nicht
-    ausgefüllt werden. Generell sollte zwischen den numerischen Kennzahlen
-    eine Leerzeile eingefügt werden, wenn sich die an erster oder zweiter
-    Position der numerischen Kennzahl stehende Ziffer ändert. Eine
-    Ausnahme von dieser allgemeinen Regel bildet die numerische Kennzahl
-    310                   , der keine Leerzeile vorausgehen darf. Auch vor
-    jeder Wiederholung der numerischen Kennzahl ist eine Leerzeile
-    einzufügen.
+    220 und
+    300, die für die Rubrik "Merkmal" bzw. "Veröffentlichungsangaben"
+    stehen und mit den Angaben unter den numerischen Kennzahlen
+    221 bis
+    223 bzw.
+    301 bis
+    313 zusammenhängen. Werden unter diesen numerischen Kennzahlen im
+    Sequenzprotokoll Angaben zu den Merkmalen oder zur Veröffentlichung
+    gemacht, so sollte auch die numerische Kennzahl
+    220 bzw.
+    300 aufgeführt, die dazugehörige Rubrik aber nicht ausgefüllt werden.
+    Generell sollte zwischen den numerischen Kennzahlen eine Leerzeile
+    eingefügt werden, wenn sich die an erster oder zweiter Position der
+    numerischen Kennzahl stehende Ziffer ändert. Eine Ausnahme von dieser
+    allgemeinen Regel bildet die numerische Kennzahl
+    310, der keine Leerzeile vorausgehen darf. Auch vor jeder Wiederholung
+    der numerischen Kennzahl ist eine Leerzeile einzufügen.
 
 
 
@@ -1204,21 +1202,20 @@ Zu verwendende Symbole
 
 
 *   Ist der Name des Anmelders (numerische Kennzahl
-    110                   ) nicht in Buchstaben des lateinischen Alphabets
-    geschrieben, so ist er - im Wege der Transliteration oder der
-    Übersetzung ins Englische - auch in lateinischen Buchstaben anzugeben.
+    110) nicht in Buchstaben des lateinischen Alphabets geschrieben, so
+    ist er - im Wege der Transliteration oder der Übersetzung ins
+    Englische - auch in lateinischen Buchstaben anzugeben.
 
     Die Datenelemente mit Ausnahme der Angaben unter den numerischen
     Kennzahlen
-    110                   ,
-    120                    und
-    160                    sind für jede im Sequenzprotokoll aufgeführte
-    Sequenz zu wiederholen. Gibt es zu einer Sequenzkennzahl keine
-    Sequenz, so müssen nur die Datenelemente unter den numerischen
-    Kennzahlen
-    210                    und
-    400                    angegeben werden (siehe Nr. 4 und SEQ ID NO:4
-    in dem am Ende dieses Standards enthaltenen Beispiel).
+    110,
+    120 und
+    160 sind für jede im Sequenzprotokoll aufgeführte Sequenz zu
+    wiederholen. Gibt es zu einer Sequenzkennzahl keine Sequenz, so müssen
+    nur die Datenelemente unter den numerischen Kennzahlen
+    210 und
+    400 angegeben werden (siehe Nr. 4 und SEQ ID NO:4 in dem am Ende
+    dieses Standards enthaltenen Beispiel).
 
 
 25. In Sequenzprotokolle, die zusammen mit der dazugehörigen Anmeldung
@@ -1305,8 +1302,8 @@ Zu verwendende Symbole
 
 
 29. Ist der Organismus (numerische Kennzahl
-    213                    eine "künstliche Sequenz" oder "unbekannt", so
-    müssen die folgenden Datenelemente angegeben werden:
+    213 eine "künstliche Sequenz" oder "unbekannt", so müssen die
+    folgenden Datenelemente angegeben werden:
 
 
 
@@ -1338,9 +1335,8 @@ Zu verwendende Symbole
 
 
 31. Merkmale, die (unter der numerischen Kennzahl
-    220                   ) zu einer Sequenz angegeben werden, sind durch
-    die in Nr. 48, Tabellen 5 und 6 1) aufgeführten "Merkmalschlüssel" zu
-    beschreiben.
+    220) zu einer Sequenz angegeben werden, sind durch die in Nr. 48,
+    Tabellen 5 und 6 1) aufgeführten "Merkmalschlüssel" zu beschreiben.
 
 
 
@@ -1360,7 +1356,7 @@ Zu verwendende Symbole
 32. Unter "freiem Text" ist eine verbale Beschreibung der Eigenschaften
     der Sequenz ohne Verwendung des sprachneutralen Vokabulars im Sinne
     der Nr. 1 vii) unter der numerischen Kennzahl
-    223                    (Sonstige Angaben) zu verstehen.
+    223 (Sonstige Angaben) zu verstehen.
 
 
 33. Der freie Text sollte sich auf einige kurze, für das Verständnis der
@@ -3728,10 +3724,11 @@ Zu verwendende Symbole
 
 
 
+   (zu § 12)
 
-### Anlage 2 (zu § 12) Standards für die Einreichung von Zeichnungen
+### Anlage 2 Standards für die Einreichung von Zeichnungen
 
-   (Fundstelle: BGBl. I 2003, 1726 - 1727;
+(Fundstelle: BGBl. I 2003, 1726 - 1727;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 A. Schriftliche Einreichung

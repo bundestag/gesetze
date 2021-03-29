@@ -4,7 +4,7 @@ Title: Gesetz über die Berufe des Psychologischen Psychotherapeuten und des Kin
   und anderer Gesetze
 jurabk: PsychThG/SGB5uaÄndG
 layout: default
-origslug: psychthg_sgb5ua_ndg
+origslug: psychthg_sgb5uaaendg
 slug: psychthg_sgb5uaaendg
 
 ---

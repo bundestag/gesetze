@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „50 Jahre Gorch Fock“)
 jurabk: Münz10EuroBek 2008-05-28
 layout: default
-origslug: m_nz10eurobek_2008-05-28
+origslug: muenz10eurobek_2008-05-28
 slug: muenz10eurobek_2008-05-28
 
 ---
@@ -47,7 +47,7 @@ Hamburgischen Münze.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„SEEFAHRT IST NOT*             “.
+„SEEFAHRT IST NOT*“.
 
 Hierbei handelt es sich um den Titel des Hauptwerkes des
 Schriftstellers Johann Kinau, dessen Pseudonym Gorch Fock der Name des

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1970, 1535
 
+Geändert durch
+:   Art. 94 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -37,8 +40,8 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 gegen Wettbewerbsbeschränkungen (Gesetz) zuständigen Kartellbehörden
 Kosten (Gebühren und Auslagen) nach § 80 des Gesetzes und nach dieser
 Verordnung. Ergänzend gelten die Vorschriften des 3. Abschnittes des
-Verwaltungskostengesetzes vom 23. Juni 1970 (Bundesgesetzbl. I S.
-821).
+Verwaltungskostengesetzes (Bundesgesetzbl. I S. 821) in der bis zum
+14\. August 2013 geltenden Fassung vom 23. Juni 1970.
 
 (2) Die Erstattung der Auslagen nach § 80 Abs. 2 Satz 3 des Gesetzes
 kann auch verlangt werden, wenn Gebührenfreiheit besteht oder von der
@@ -90,9 +93,9 @@ Sachentscheidung ergehen.
 
 
 Die Kostenentscheidung kann mündlich ergehen; sie ist auf Antrag
-schriftlich zu bestätigen. Soweit sie schriftlich ergeht oder
-schriftlich bestätigt wird, ist auch die Rechtsgrundlage für die
-Erhebung der Kosten sowie deren Berechnung anzugeben.
+schriftlich zu bestätigen. Soweit sie schriftlich oder elektronisch
+ergeht oder schriftlich bestätigt wird, ist auch die Rechtsgrundlage
+für die Erhebung der Kosten sowie deren Berechnung anzugeben.
 
 
 ### § 5
@@ -105,12 +108,12 @@ sowie auf Erstattung der Auslagen.
 letzten sechs Monate der Frist wegen höherer Gewalt nicht verfolgt
 werden kann.
 
-(3) Die Verjährung wird unterbrochen durch schriftliche
-Zahlungsaufforderung, durch Zahlungsaufschub, durch Stundung, durch
-Aussetzung der Vollziehung, durch Sicherheitsleistung, durch eine
-Vollstreckungsmaßnahme, durch Vollstreckungsaufschub, durch Anmeldung
-im Konkurs und durch Ermittlungen des Kostengläubigers über Wohnsitz
-oder Aufenthalt des Zahlungspflichtigen.
+(3) Die Verjährung wird unterbrochen durch schriftliche oder
+elektronische Zahlungsaufforderung, durch Zahlungsaufschub, durch
+Stundung, durch Aussetzung der Vollziehung, durch Sicherheitsleistung,
+durch eine Vollstreckungsmaßnahme, durch Vollstreckungsaufschub, durch
+Anmeldung im Konkurs und durch Ermittlungen des Kostengläubigers über
+Wohnsitz oder Aufenthalt des Zahlungspflichtigen.
 
 (4) Mit Ablauf des Kalenderjahres, in dem die Unterbrechung endet,
 beginnt eine neue Verjährung.
@@ -142,8 +145,8 @@ jedoch nicht vor der Unanfechtbarkeit der Kostenentscheidung.
 
 (1) Kostenentscheidungen der Kartellbehörden und Anforderungen von
 Vorschüssen oder Sicherheitsleistungen nach § 16 des
-Verwaltungskostengesetzes sind Verfügungen im Sinne des § 62 Abs. 1
-des Gesetzes.
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung sind Verfügungen im Sinne des § 62 Abs. 1 des Gesetzes.
 
 (2) Wird die Kostenentscheidung angefochten, so kann die
 Kostenforderung auf Antrag des Kostenschuldners gestundet werden, bis

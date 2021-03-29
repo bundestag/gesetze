@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2008, 520
 
+Zuletzt geändert durch
+:   Art. 112 V v. 31.8.2015 I 1474
+
 
 ## Eingangsformel
 
@@ -39,10 +42,10 @@ amtlichen deutschen Übersetzung veröffentlicht.
 (1) Der Hersteller eines zugelassenen, registrierten oder
 freigegebenen Bewuchsschutzsystems hat die Angaben nach Artikel 9 Abs.
 3 des Übereinkommens einer anderen Vertragspartei auf deren
-Anforderung zu liefern. § 22 Abs. 2 und  3 des Chemikaliengesetzes in
-der Fassung der Bekanntmachung vom 20. Juni 2002 (BGBl. I S. 2090),
-das zuletzt durch Artikel 1 des Gesetzes vom 20. Mai 2008 (BGBl. I S.
-922) geändert worden ist, gilt sinngemäß.
+Anforderung zu liefern. Artikel 66 Absatz 2 bis 4 der Verordnung (EU)
+Nr. 528/2012 des Europäischen Parlaments und des Rates vom 22. Mai
+2012 über die Bereitstellung auf dem Markt und die Verwendung von
+Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1) gilt sinngemäß.
 
 (2) Ordnungswidrig handelt, wer als Hersteller entgegen Absatz 1 Satz
 1 die dort genannten Angaben nicht, nicht richtig, nicht vollständig
@@ -55,12 +58,12 @@ Geldbuße bis zu zehntausend Euro geahndet werden.
 
 ## Art 3
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung  wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 Änderungen des Übereinkommens nach seinem Artikel 16, die sich im
 Rahmen der Ziele des Übereinkommens halten, in Kraft zu setzen.
 Rechtsverordnungen nach Satz 1 bedürfen der Zustimmung des
-Bundesrates, wenn sie Regelungen enthalten, die von  den Ländern als
+Bundesrates, wenn sie Regelungen enthalten, die von den Ländern als
 eigene Angelegenheit auszuführen sind.
 
 

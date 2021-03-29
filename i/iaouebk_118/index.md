@@ -3,7 +3,7 @@ Title: Übereinkommen Nr. 118 (der Internationalen Arbeitsorganisation) über di
   von Inländern und Ausländern in der Sozialen Sicherheit
 jurabk: IAOÜbk 118
 layout: default
-origslug: iao_bk_118
+origslug: iaouebk_118
 slug: iaouebk_118
 
 ---

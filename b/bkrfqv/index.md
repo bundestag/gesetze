@@ -15,12 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2108
 
+Zuletzt geändert durch
+:   Art. 3 V v. 14.8.2017 I 3232
+
 
 
 ## § 1 Erwerb der Grundqualifikation
 
-(1) Zum Erwerb der Grundqualifikation ist nur zugelassen, wer die
-jeweils erforderliche Fahrerlaubnis besitzt.
+(1) Für den Zugang zum Erwerb der Grundqualifikation ist der vorherige
+Erwerb der jeweiligen Fahrerlaubnis nicht erforderlich.
 
 (2) Die Prüfung über die Grundqualifikation besteht aus einer
 theoretischen und einer praktischen Prüfung nach Maßgabe der Anlage 2.
@@ -30,11 +33,12 @@ Fertigkeiten aus den in Anlage 1 aufgeführten Kenntnisbereichen für
 die betreffenden Fahrerlaubnisklassen besitzt.
 
 (3) Inhaber einer Fachkunde-Bescheinigung nach § 4 Abs. 6 der
-Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 4
-Abs. 6 der Berufszugangsverordnung für den Güterkraftverkehr sind von
-der theoretischen Prüfung insoweit befreit, als der Prüfungsgegenstand
-bereits Gegenstand der Prüfung nach diesen Verordnungen ist. Die Dauer
-der theoretischen Prüfung ist entsprechend zu verkürzen.
+Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5
+Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind
+von der theoretischen Prüfung insoweit befreit, als der
+Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen
+Verordnungen ist. Die Dauer der theoretischen Prüfung ist entsprechend
+zu verkürzen.
 
 (4) Die Prüfung wird bei der für den Wohnsitz des Bewerbers oder der
 Bewerberin zuständigen Industrie- und Handelskammer abgelegt, die für
@@ -61,24 +65,25 @@ theoretischen Teil mindestens ausreichende Leistungen erbracht sind.
 ist der vorherige Erwerb der jeweiligen Fahrerlaubnis nicht
 erforderlich.
 
-(2) Die Dauer des Unterrichts beträgt insgesamt 140 Stunden zu je 60
-Minuten. Während des Unterrichts sind jeweils die erforderlichen
-grundlegenden Kenntnisse und Fertigkeiten aus den in Anlage 1
-aufgeführten Kenntnisbereichen zu vermitteln.
+(2) Die Dauer des Unterrichts beträgt insgesamt 140
+Unterrichtseinheiten zu je 60 Minuten (Unterrichtseinheiten). Während
+des Unterrichts sind jeweils die erforderlichen grundlegenden
+Kenntnisse und Fertigkeiten aus den in Anlage 1 aufgeführten
+Kenntnisbereichen zu vermitteln.
 
 (3) Der Bewerber und die Bewerberin müssen im Verlauf des Unterrichts
-mindestens zehn Stunden ein Kraftfahrzeug der betreffenden Klasse
-unter Aufsicht einer Person führen, die eine gültige Fahrlehrerlaubnis
-für die jeweilige Fahrerlaubnisklasse nach dem Fahrlehrergesetz
-besitzt. Das Kraftfahrzeug muss den jeweiligen Kriterien für
-Prüfungsfahrzeuge der Nummern 2.2.6 bis 2.2.13 der Anlage 7 der
-Fahrerlaubnis-Verordnung entsprechen. Es muss außerdem den
-Anforderungen der Nummer 2.2.16 der Anlage 7 der Fahrerlaubnis-
+mindestens zehn Unterrichtseinheiten ein Kraftfahrzeug der
+betreffenden Klasse unter Aufsicht einer Person führen, die eine
+gültige Fahrlehrerlaubnis für die jeweilige Fahrerlaubnisklasse nach
+dem Fahrlehrergesetz besitzt. Das Kraftfahrzeug muss den jeweiligen
+Kriterien für Prüfungsfahrzeuge der Nummern 2.2.6 bis 2.2.13 der
+Anlage 7 der Fahrerlaubnis-Verordnung entsprechen. Es muss außerdem
+den Anforderungen der Nummer 2.2.16 der Anlage 7 der Fahrerlaubnis-
 Verordnung entsprechen, sofern der Bewerber oder die Bewerberin die
 Fahrerlaubnis der betreffenden Fahrerlaubnisklasse noch nicht besitzt.
-Von den Fahrstunden nach Satz 1 können bis zu vier auch auf Übungen
-auf einem besonderen Gelände im Rahmen eines Fahrertrainings oder in
-einem leistungsfähigen Simulator entfallen.
+Von den Unterrichtseinheiten nach Satz 1 können bis zu vier auch auf
+Übungen auf einem besonderen Gelände im Rahmen eines Fahrertrainings
+oder in einem leistungsfähigen Simulator entfallen.
 
 (4) Die Prüfung besteht aus einer schriftlichen Prüfung von 90 Minuten
 Dauer und umfasst mindestens eine Frage zu jedem der jeweils
@@ -100,9 +105,9 @@ wirtschaftliche Nachteile entstehen.
 erbracht sind.
 
 (7) Inhaber einer Fachkunde-Bescheinigung nach § 4 Abs. 6 der
-Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 4
-Abs. 6 der Berufszugangsverordnung für den Güterkraftverkehr sind von
-der Teilnahme am Unterricht und der Prüfung insoweit befreit, als
+Berufszugangsverordnung für den Straßenpersonenverkehr oder nach § 5
+Absatz 7 der Berufszugangsverordnung für den Güterkraftverkehr sind
+von der Teilnahme am Unterricht und der Prüfung insoweit befreit, als
 Prüfungsgegenstand bereits Gegenstand der Prüfung nach diesen
 Verordnungen sind. Die Dauer der Teilnahme am Unterricht und Prüfung
 sind entsprechend zu verkürzen.
@@ -118,29 +123,29 @@ müssen bei der theoretischen und praktischen Prüfung nach § 1 Abs. 2
 nur diejenigen Teile ablegen, welche Kraftfahrzeuge betreffen, die
 Gegenstand der neuen Grundqualifikation sind. Bei Absolvierung der
 beschleunigten Grundqualifikation beträgt die Unterrichtsdauer 35
-Stunden zu je 60 Minuten, von denen 2,5 Stunden auf das Führen eines
-Kraftfahrzeugs der betreffenden Klassen, das den Anforderungen nach §
-2 Abs. 3 Satz 2 entsprechen muss, entfallen müssen. Für die in Satz 1
-genannten Fahrer und Fahrerinnen beschränken sich darüber hinaus die
-theoretischen Prüfungen auf diejenigen in Anlage 1 genannten
-Kenntnisbereiche, welche die Kraftfahrzeuge betreffen, die Gegenstand
-der neuen Grundqualifikation sind.
+Unterrichtseinheiten, von denen 2,5 Unterrichtseinheiten auf das
+Führen eines Kraftfahrzeugs der betreffenden Klassen, das den
+Anforderungen nach § 2 Abs. 3 Satz 2 entsprechen muss, entfallen
+müssen. Für die in Satz 1 genannten Fahrer und Fahrerinnen beschränken
+sich darüber hinaus die theoretischen Prüfungen auf diejenigen in
+Anlage 1 genannten Kenntnisbereiche, welche die Kraftfahrzeuge
+betreffen, die Gegenstand der neuen Grundqualifikation sind.
 
 
 ## § 4 Weiterbildung
 
-(1) Durch die Weiterbildung sind die in Anlage 1 aufgeführten
-Kenntnisbereiche zu vertiefen und zu wiederholen, wobei besonderes
-Gewicht auf die Verkehrssicherheit und den sparsamen
-Kraftstoffverbrauch zu legen ist.
+(1) Durch die Weiterbildung sind alle in Anlage 1 aufgeführten
+Kenntnisbereiche zu vertiefen und zu wiederholen. Dabei genügt es,
+dass aus den Kenntnisbereichen 1, 2 und 3 der Anlage 1 jeweils
+mindestens ein Unterkenntnisbereich abgedeckt ist.
 
-(2) Die Dauer der Weiterbildung beträgt 35 Stunden zu je 60 Minuten,
-die in selbstständigen Ausbildungseinheiten (Zeiteinheiten) von
-jeweils mindestens sieben Stunden erteilt werden; die Zeiteinheiten
-können bei verschiedenen Ausbildungsstätten absolviert werden. Ein
-Teil der Weiterbildung kann auf Übungen auf einem besonderen Gelände
-im Rahmen eines Fahrertrainings oder in einem leistungsfähigen
-Simulator entfallen.
+(2) Die Dauer der Weiterbildung beträgt 35 Unterrichtseinheiten, die
+in selbstständigen Ausbildungseinheiten (Zeiteinheiten) von jeweils
+mindestens sieben Unterrichtseinheiten erteilt werden; die
+Unterrichtseinheiten können bei verschiedenen Ausbildungsstätten
+absolviert werden. Ein Teil der Weiterbildung kann auf Übungen auf
+einem besonderen Gelände im Rahmen eines Fahrertrainings oder in einem
+leistungsfähigen Simulator entfallen.
 
 
 ## § 5 Nachweise
@@ -151,52 +156,101 @@ Simulator entfallen.
     Handelskammer,
 
 
-2.  dem Abschluss von Zeiteinheiten nach § 4 Abs. 2 (Teilleistungen) sowie
-    nach dem Abschluss der Weiterbildung hat die Ausbildungsstätte
+2.  dem Abschluss des Unterrichts zum Erwerb der beschleunigten
+    Grundqualifikation, dem Abschluss von Unterrichtseinheiten nach § 4
+    Absatz 2 (Teilleistungen) sowie dem Abschluss der Weiterbildung hat
+    die Ausbildungsstätte
 
 
 
 eine Bescheinigung über die jeweils erbrachten Leistungen oder
-Teilleistungen auszustellen.
+Teilleistungen auszustellen und dem Teilnehmer oder der Teilnehmerin
+auszuhändigen.
+
+(1a) Die Bescheinigung zum Abschluss des Unterrichts zum Erwerb der
+beschleunigten Grundqualifikation ist nach dem Muster der Anlage 2a
+auszustellen und dem Teilnehmer oder der Teilnehmerin auszuhändigen;
+sie muss enthalten:
+
+1.  Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen
+    Anerkennungs- und Überwachungsbehörde und das Aktenzeichen des
+    Anerkennungsbescheides,
+
+
+2.  Name, Anschrift und Geburtsdatum des Teilnehmers oder der
+    Teilnehmerin,
+
+
+3.  Zeitraum und tatsächliche Dauer der Unterrichtsteilnahme,
+
+
+4.  Angaben zu den vermittelten Kenntnisbereichen (Güterverkehr oder
+    Personenverkehr).
+
+
+
+
+(1b) Die Bescheinigung über Teilleistungen und den Abschluss der
+Weiterbildung ist nach dem Muster der Anlage 2b auszustellen und dem
+Teilnehmer oder der Teilnehmerin auszuhändigen; sie muss enthalten:
+
+1.  Name und Anschrift der Ausbildungsstätte sowie Angaben zur zuständigen
+    Anerkennungs- und Überwachungsbehörde und das Aktenzeichen des
+    Anerkennungsbescheides,
+
+
+2.  Name, Anschrift und Geburtsdatum des Teilnehmers oder der
+    Teilnehmerin,
+
+
+3.  Zeitraum und tatsächliche Dauer der Unterrichtsteilnahme,
+
+
+4.  Angaben zu den vermittelten Unterkenntnisbereichen nach Anlage 1.
+
+
+
+
+(1c) Die Bescheinigung nach Absatz 1a ist im Original von einer zur
+Vertretung der Ausbildungsstätte berechtigten Person zu
+unterschreiben. Die Bescheinigung nach Absatz 1b ist im Original von
+einer zur Vertretung der Ausbildungsstätte berechtigten Person und von
+der zur Durchführung des Unterrichts eingesetzten Person zu
+unterschreiben. Die eigenhändige Unterschrift der zur Vertretung der
+Ausbildungsstätte berechtigten Person kann bei automatisierter
+Erstellung der Bescheinigung durch eine bildhafte Wiedergabe der
+Unterschrift ersetzt werden. Das gilt nicht, wenn der Unterricht
+ausschließlich von dieser Person durchgeführt wurde.
 
 (2) Die Grundqualifikation und die Weiterbildung werden durch den
 Eintrag der harmonisierten Schlüsselzahl der Europäischen Union auf
 dem Führerschein (Schlüsselzahl 95 nach Anlage 9 der Fahrerlaubnis-
 Verordnung) nachgewiesen, soweit ein deutscher Führerschein erteilt
 werden kann. Der von einem anderen Mitgliedstaat der Europäischen
-Union oder einem anderen Vertragsstaat des Abkommens über den
-Europäischen Wirtschaftsraum ausgestellte
+Union, einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum oder der Schweiz ausgestellte
 Fahrerqualifizierungsnachweis oder der Eintrag der harmonisierten
 Schlüsselzahl der Europäischen Union in den von einem anderen
-Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-des Abkommens über den Europäischen Wirtschaftsraum ausgestellten
-Führerschein stehen dem Nachweis nach Satz 1 gleich.
+Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
+ausgestellten Führerschein steht dem Nachweis nach Satz 1 gleich.
 
-(3) Fahrer und Fahrerinnen im Sinne des § 1 Abs. 1 Nr. 3 des
+(3) Fahrer und Fahrerinnen im Sinne des § 1 Absatz 1 Nummer 3 des
 Berufskraftfahrer-Qualifikations-Gesetzes, die Fahrten im
 
-1.  Güterkraftverkehr durchführen, müssen Grundqualifikation und
-    Weiterbildung nachweisen durch eine gültige Fahrerbescheinigung nach
-    Artikel 3 Abs. 1 der Verordnung (EWG) Nr. 881/92 des Rates vom 26.
-    März 1992 über den Zugang zum Güterkraftverkehrsmarkt in der
-    Gemeinschaft für Beförderungen aus oder nach einem Mitgliedstaat oder
-    durch einen oder mehrere Mitgliedstaaten (ABl. EG Nr. L 95 S. 1), die
-    zuletzt durch die Akte über die Bedingungen des Beitritts der
-    Tschechischen Republik, der Republik Estland, der Republik Zypern, der
-    Republik Lettland, der Republik Litauen, der Republik Ungarn, der
-    Republik Malta, der Republik Polen, der Republik Slowenien und der
-    Slowakischen Republik und die Anpassungen der die Europäische Union
-    begründenden Verträge - Anhang II: Liste nach Artikel 20 der
-    Beitrittsakte - 8. Verkehrspolitik - C. Straßenverkehr (ABl. EU 2003
-    Nr. L 236 S. 449) geändert worden ist, soweit diese Angaben hierzu
-    enthält;
+1.  Güterkraftverkehr durchführen, müssen die Grundqualifikation und die
+    Weiterbildung durch eine gültige Fahrerbescheinigung nach Artikel 5
+    Absatz 1 der Verordnung (EG) Nr. 1072/2009 des Europäischen Parlaments
+    und des Rates vom 21. Oktober 2009 über gemeinsame Regeln für den
+    Zugang zum Markt des grenzüberschreitenden Güterkraftverkehrs (ABl. L
+    300 vom 14.11.2009, S. 72) nachweisen,
 
 
-2.  Personenverkehr durchführen, können Grundqualifikation und
-    Weiterbildung auch nachweisen durch eine im Inland, von einem anderen
-    Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-    des Abkommens über den Europäischen Wirtschaftsraum ausgestellte
-    nationale Bescheinigung.
+2.  Personenverkehr durchführen, können die Grundqualifikation und die
+    Weiterbildung auch nachweisen durch eine Bescheinigung im Inland, die
+    von einem anderen Mitgliedstaat der Europäischen Union, einem anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
+    der Schweiz ausgestellt ist.
 
 
 
@@ -204,16 +258,15 @@ Berufskraftfahrer-Qualifikations-Gesetzes, die Fahrten im
 (4) Der Eintrag der harmonisierten Schlüsselzahl erfolgt durch die für
 die Erteilung von Fahrerlaubnissen zuständige Behörde, soweit sich aus
 den Bescheinigungen nach Absatz 1 ergibt, dass die jeweilige
-Grundqualifikation oder Weiterbildung erworben worden ist. Unter den
-Voraussetzungen nach Satz 1 wird auch der Eintrag in die
-Fahrerbescheinigung im Feld "Besondere Bemerkungen" durch die für
-deren Erteilung zuständige Behörde vorgenommen. Der Eintrag lautet:
-"95. Kraftfahrerin/Kraftfahrer ist Inhaberin/Inhaber eines
-Befähigungsnachweises und die Befähigungspflicht ist nach Artikel 3
-der Richtlinie 2003/59/EG vom 15. Juli 2003 bis zum ... erfüllt".
-Unter den Voraussetzungen nach Satz 1 Halbsatz 2 wird für Fahrer und
-Fahrerinnen nach Absatz 3 Nr. 2 die Bescheinigung nach Muster Anlage 3
-durch die nach Landesrecht zuständige Behörde erteilt.
+Grundqualifikation oder Weiterbildung erworben worden ist. Werden die
+Grundqualifikation oder die Weiterbildung nicht nachgewiesen, so ist
+dies in der Fahrerbescheinigung mit einem Eintrag im Feld „Besondere
+Bemerkungen“ zu kennzeichnen. Der Eintrag lautet: „Gilt ausschließlich
+für Fahrten, die nicht dem Anwendungsbereich der Richtlinie 2003/59/EG
+vom 15. Juli 2003 unterliegen“. Unter den Voraussetzungen nach Satz 1
+Halbsatz 2 wird für Fahrer und Fahrerinnen nach Absatz 3 Nr. 2 die
+Bescheinigung nach Muster Anlage 3 durch die nach Landesrecht
+zuständige Behörde erteilt.
 
 (5) Die Nachweise nach den Absätzen 2 und 3 sind bei der Durchführung
 von Fahrten den zuständigen Personen zur Kontrolle auszuhändigen.
@@ -221,11 +274,11 @@ von Fahrten den zuständigen Personen zur Kontrolle auszuhändigen.
 
 ## § 6 Anerkennung von Ausbildungsstätten
 
-Der Antrag auf Anerkennung einer Ausbildungsstätte für die
-beschleunigte Grundqualifikation und Weiterbildung ist schriftlich zu
-stellen. Dem Antrag sind die zur Prüfung der
-Anerkennungsvoraussetzungen erforderlichen Unterlagen beizufügen,
-insbesondere
+(1) Der Antrag auf Anerkennung einer Ausbildungsstätte für die
+beschleunigte Grundqualifikation und die Weiterbildung ist schriftlich
+oder in elektronischer Form zu stellen. Dem Antrag sind die zur
+Prüfung der Anerkennungsvoraussetzungen erforderlichen Unterlagen
+beizufügen, insbesondere
 
 1.  das Ausbildungsprogramm, in dem die unterrichteten Themengebiete auf
     der Grundlage der in Anlage 1 aufgeführten Kenntnisbereiche sowie die
@@ -233,14 +286,9 @@ insbesondere
     sind;
 
 
-2.  die Zahl, die Qualifikationen und Tätigkeitsbereiche der Ausbilder und
-    Ausbilderinnen, einschließlich eines Nachweises ihrer didaktischen und
-    pädagogischen Kenntnisse; Ausbilder und Ausbilderinnen im praktischen
-    Teil müssen eine Berufserfahrung als Berufskraftfahrer oder
-    Berufskraftfahrerin, als Fachkraft im Fahrbetrieb, als
-    Kraftverkehrsmeister oder Kraftverkehrsmeisterin oder eine
-    entsprechende Fahrerfahrung, insbesondere als Fahrlehrer für
-    Lastkraftwagen oder Busse, nachweisen;
+2.  über die Zahl, die Qualifikationen und Tätigkeitsbereiche der
+    Ausbilder und Ausbilderinnen, einschließlich eines Nachweises ihrer
+    didaktischen und pädagogischen Kenntnisse;
 
 
 3.  Angaben zu den Unterrichtsorten, zum Lehrmaterial, zu den für die
@@ -252,9 +300,120 @@ insbesondere
 
 
 
+Für Ausbilder und Ausbilderinnen im praktischen Teil muss eine
+Berufserfahrung als Berufskraftfahrer oder Berufskraftfahrerin, als
+Fachkraft im Fahrbetrieb, als Kraftverkehrsmeister oder
+Kraftverkehrsmeisterin, als Meister für Kraftverkehr oder Meisterin
+für Kraftverkehr oder eine entsprechende Fahrerfahrung, insbesondere
+als Fahrlehrer oder als Fahrlehrerin für Lastkraftwagen oder Busse,
+nachgewiesen werden.
+
+(2) Die Anerkennung bedarf der Schriftform. Vorbehaltlich besonderer
+Bestimmungen sind
+
+1.  das anerkannte Ausbildungsprogramm,
 
 
-## Anlage 1 (zu § 1 Abs. 2, § 2 Abs. 2, § 4 Abs. 1) Liste der Kenntnisbereiche
+2.  die zugelassenen Ausbilder und Ausbilderinnen,
+
+
+3.  die zugelassenen Räume, in denen Unterricht nach § 4 Absatz 2 und § 5
+    Absatz 1 des Berufskraftfahrer-Qualifikations-Gesetzes durchgeführt
+    werden darf, und
+
+
+4.  die jeweils höchstens zulässige Teilnehmerzahl
+
+
+
+zu benennen.
+
+
+## § 7 Anforderungen an den Unterricht
+
+(1) Die Teilnehmerzahl für die Vermittlung der Grundqualifikation und
+für die Weiterbildung ist auf höchstens 25 Personen je Unterricht zu
+beschränken. Die zuständige Behörde nach § 7b Absatz 1 Satz 1 des
+Berufskraftfahrer-Qualifikations-Gesetzes oder die zuständige Stelle
+nach § 7b Absatz 2 Satz 1 des Berufskraftfahrer-Qualifikations-
+Gesetzes kann eine abweichende Teilnehmerzahl genehmigen. Sie
+orientiert sich hierzu insbesondere an den baulichen Gegebenheiten des
+Unterrichtsraumes. Die Durchführung von Unterricht mit einer höheren
+als in Satz 1 genannten oder nach Satz 2 genehmigten Teilnehmerzahl
+ist unzulässig.
+
+(2) Die Ausbildungsstätte hat dafür zu sorgen, dass in den
+Unterrichtsräumen während des Unterrichts für jeden Teilnehmer
+geeignete und ausreichende Lehrmittel zur Gestaltung des Unterrichts
+und zur Visualisierung vorhanden sind.
+
+
+## § 8 Fortbildung der Ausbilder und Ausbilderinnen
+
+(1) Ausbilder und Ausbilderinnen, die Unterricht im Sinne des § 2
+Absatz 2 und des § 4 Absatz 2 durchführen, haben ihre Kenntnisse
+regelmäßig durch eine mindestens dreitägige Fortbildung, die alle
+Gebiete erfassen soll, die für diese berufliche Tätigkeit des
+Ausbilders oder der Ausbilderin von Bedeutung sind, zu aktualisieren.
+Die Fortbildung hat einen Gesamtumfang von mindestens 24
+Unterrichtseinheiten und ist spätestens alle vier Jahre zu
+absolvieren. Der Unterricht im Sinne des § 2 Absatz 2 und des § 4
+Absatz 2 darf nicht von Ausbildern oder Ausbilderinnen, die sich nicht
+regelmäßig fortbilden, durchgeführt werden.
+
+(2) Teilnahmebescheinigungen der Ausbilder und Ausbilderinnen der
+letzten beiden Fortbildungsmaßnahmen sind durch die Ausbildungsstätte
+aufzubewahren und der zuständigen Behörde nach § 7b Absatz 1 Satz 1
+des Berufskraftfahrer-Qualifikations-Gesetzes oder der zuständigen
+Stelle nach § 7b Absatz 2 Satz 1 des Berufskraftfahrer-Qualifikations-
+Gesetzes auf Verlangen unverzüglich vorzulegen. Sie sind spätestens
+acht Jahre nach Abschluss der Fortbildungsmaßnahme zu löschen oder zu
+vernichten.
+
+
+## § 9 Ordnungswidrigkeiten
+
+(1) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 4 Buchstabe a des
+Berufskraftfahrer-Qualifikations-Gesetzes handelt, wer vorsätzlich
+oder fahrlässig
+
+1.  entgegen § 7 Absatz 1 Satz 4 oder entgegen § 8 Absatz 1 Satz 3
+    Unterricht durchführt oder
+
+
+2.  entgegen § 7 Absatz 2 nicht dafür sorgt, dass die dort genannten
+    Lehrmittel vorhanden sind.
+
+
+
+
+(2) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 4 Buchstabe b des
+Berufskraftfahrer-Qualifikations-Gesetzes handelt, wer vorsätzlich
+oder fahrlässig
+
+1.  entgegen § 5 Absatz 1 Nummer 2 eine Bescheinigung nicht richtig
+    ausstellt oder
+
+
+2.  entgegen § 8 Absatz 2 Satz 1 eine Teilnahmebescheinigung nicht oder
+    nicht rechtzeitig vorlegt.
+
+
+
+
+
+## § 10 Übergangsvorschriften
+
+Nachweise über die Weiterbildungen, die nach den bis zum Ablauf des
+21\. Dezember 2016 geltenden Vorschriften ausgefertigt worden sind,
+bleiben bis zum Ablauf des 21. Dezember 2021 gültig. Nachweise über
+die Weiterbildungen, die nach den bis zum Ablauf des 23. August 2017
+geltenden Vorschriften ausgefertigt worden sind, bleiben bis zum
+Ablauf des 23. August 2022 gültig.
+
+(zu § 1 Abs. 2, § 2 Abs. 2, § 4 Abs. 1)
+
+## Anlage 1 Liste der Kenntnisbereiche
 
 
 1   Verbesserung des rationellen Fahrverhaltens auf der Grundlage der
@@ -453,8 +612,9 @@ Fahrerlaubnisklassen D1, D1E, D, DE
 
 
 
+(zu § 1 Abs. 2 Satz 1)
 
-## Anlage 2 (zu § 1 Abs. 2 Satz 1) Prüfungen zum Erwerb der Grundqualifikation
+## Anlage 2 Prüfungen zum Erwerb der Grundqualifikation
 
 
 1.  Die theoretische Prüfung besteht aus einer schriftlichen Prüfung zu
@@ -478,7 +638,13 @@ Fahrerlaubnisklassen D1, D1E, D, DE
 
 2.  Die praktische Prüfung besteht aus einer Fahrprüfung, einem
     praktischen Prüfungsteil und der Bewältigung kritischer
-    Fahrsituationen.
+    Fahrsituationen. Sofern im Rahmen des Erwerbs der Grundqualifikation
+    die für das Führen des Prüfungsfahrzeugs vorgeschriebene Fahrerlaubnis
+    nicht vorliegt, müssen der Bewerber und die Bewerberin von einer
+    Person begleitet werden, die eine gültige Fahrlehrerlaubnis nach dem
+    Fahrlehrergesetz für die jeweilige Fahrerlaubnisklasse besitzt. Bei
+    diesen Fahrten gilt die Begleitperson als Führer des Kraftfahrzeugs im
+    Sinne des Straßenverkehrsgesetzes.
 
     Ziel der Fahrprüfung ist die Bewertung der fahrpraktischen Fähigkeiten
     des Bewerbers. Sie muss auf Straßen innerhalb und außerhalb
@@ -505,11 +671,514 @@ Fahrerlaubnisklassen D1, D1E, D, DE
 
     Das bei der praktischen Prüfung eingesetzte Kraftfahrzeug muss den
     jeweiligen Kriterien für Prüfungsfahrzeuge der Nummern 2.2.6 bis
-    2\.2.13 der Anlage 7 der Fahrerlaubnis-Verordnung entsprechen.
+    2\.2.13 und 2.2.16 der Anlage 7 der Fahrerlaubnis-Verordnung
+    entsprechen.
 
 
 
 
+
+## Anlage 2a (zu § 5 Absatz 1 Nummer 2 in Verbindung mit Absatz 1a)
+
+(Fundstelle: BGBl. I 2017, 3241 – 3242)
+
+I)  Musterbescheinigung über die Teilnahme an einer Ausbildung zur
+    beschleunigten Grundqualifikation
+
+    *        *   Kopfbogen der Ausbildungsstätte
+
+        *   ** ,
+
+        *   den
+
+        *   **
+
+
+    *        *
+        *   Ort
+
+        *
+        *   Datum
+
+
+
+
+    **Bescheinigung über die Teilnahme an einer Ausbildung zur
+    beschleunigten Grundqualifikation gemäß § 4 des Berufskraftfahrer-
+    Qualifikations-Gesetzes (BKrFQG) in Verbindung mit**
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *   § 2 der Berufskraftfahrer-
+            Qualifikations-Verordnung (BKrFQV)\*
+
+        *
+        *   § 2 Absatz 7 der Berufskraftfahrer-Qualifikations-Verordnung
+            (BKrFQV)\* – Quereinsteiger
+
+        *
+        *   § 3 der Berufskraftfahrer-
+            Qualifikations-Verordnung (BKrFQV)\* – Umsteiger
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Güterkraftverkehr\*
+
+    Personenkraftverkehr\*
+
+    Herr/Frau
+
+    **, geb. am: ** in **
+    Vorname, Name
+
+    **
+    Wohnanschrift
+
+    hat in der Zeit vom ** bis **
+
+    *        *   mit einer Dauer von 140 Unterrichtseinheiten inkl. 10 Fahr-
+            Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur
+            beschleunigten Grundqualifikation teilgenommen. Der/Die o. g.
+            Teilnehmer/in hat an sämtlichen Zielen in Anlage 1 zu § 2 Absatz 2
+            BKrFQV teilgenommen, die den Fahrerlaubnisklassen C1, C1E, C, CE (bei
+            Grundqualifikation im Güterverkehr) bzw. D1, D1E, D, DE (bei
+            Grundqualifikation im Personenverkehr) zugeordnet sind.\*
+
+
+
+
+    *        *   mit einer Dauer von 96 Unterrichtseinheiten inkl. 10 Fahr-
+            Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur
+            beschleunigten Grundqualifikation für Quereinsteiger teilgenommen.
+            Der/Die o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu
+            § 2 Absatz 2 BKrFQV teilgenommen, welche nicht Gegenstand der Prüfung
+            gemäß § 4 der Berufszugangsverordnung für den Straßenpersonenverkehr
+            oder nach § 5 der Berufszugangsverordnung für den Güterkraftverkehr
+            sind.\*
+
+
+
+
+    *        *   mit einer Dauer von 35 Unterrichtseinheiten inkl. 2,5 Fahr-
+            Unterrichtseinheiten zu je 60 Minuten an der Ausbildung zur
+            beschleunigten Grundqualifikation für Umsteiger teilgenommen. Der/Die
+            o. g. Teilnehmer/in hat an denjenigen Zielen gemäß Anlage 1 zu § 2
+            Absatz 2 BKrFQV teilgenommen, welche die Kraftfahrzeuge betreffen, die
+            Gegenstand der neuen Grundqualifikation sind.\*
+
+
+
+
+    Angabe der Ausbildungsstätte:
+
+    **
+    Unterschrift Ausbildungsstätte\*\*
+    Stempel
+
+
+II) Anmerkungen zur Musterbescheinigung über die Teilnahme an einer
+    Ausbildung zur beschleunigten Grundqualifikation
+
+    1.  Anwendungshinweise
+
+        \*  Nichtzutreffendes bitte streichen.
+
+
+        \*\* Die eigenhändige Unterschrift der zur Vertretung der Ausbildungsstätte
+            berechtigten Person kann durch eine bildhafte Wiedergabe der
+            Unterschrift ersetzt werden (§ 5 Absatz 1c BKrFQV), sofern der
+            Unterricht nicht ausschließlich von dieser Person durchgeführt wurde.
+
+
+
+
+
+    2.  Verteiler
+
+        Original Teilnehmer/in
+
+        Eine Kopie Ausbildungsstätte
+
+        Hinweis: Die Bescheinigung ist dem Antrag auf Prüfung bei der IHK
+        beizufügen.
+
+
+    3.  Angaben zur Ausbildungsstätte
+
+        Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung
+        einzutragen.
+
+
+
+
+
+
+
+**Fahrschule**
+
+Die Fahrschule (bitte Name und Adresse der Fahrschule eintragen) hat
+eine Fahrschulerlaubnis der Klassen CE oder DE nach § 17 Absatz 2 des
+Fahrlehrergesetzes, erteilt von (bitte zuständige Erlaubnisbehörde
+eintragen), und ist damit als Ausbildungsstätte gemäß § 7 Absatz 1
+Satz 1 Nummer 1 BKrFQG anerkannt. Der Unterricht fand in dem
+Schulungsraum (bitte Adresse eintragen) der o. g. Ausbildungsstätte
+statt.
+
+**Fahrschule/Fahrlehrerausbildungsstätte bei einer Behörde**
+
+[^F799568_04_BJNR210810006BJNE001401360]
+Die Fahrschule
+/Fahrlehrerausbildungsstätte\* (bitte Name und Adresse der
+Fahrschule/Fahrlehrerausbildungsstätte eintragen) ist eine
+Fahrschule\*/Fahrlehrerausbildungsstätte\*, die nach § 44 Absatz 3 des
+Fahrlehrergesetzes keiner Fahrschulerlaubnis\*/Anerkennung\* bedarf
+und ist damit als Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 2
+BKrFQG anerkannt.
+
+**Ausbildungsbetrieb**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist ein
+Ausbildungsbetrieb, der eine Berufsausbildung in den
+Ausbildungsberufen „Berufskraftfahrer/Berufskraftfahrerin“ oder
+„Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten
+Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zur
+Durchführung von Fahrten mit Kraftfahrzeugen auf öffentlichen Straßen
+vermittelt werden, durchführt. Die Ausbildungsstätte gilt damit gemäß
+§ 7 Absatz 1 Satz 1 Nummer 3 BKrFQG als anerkannt. Der Unterricht fand
+in dem Schulungsraum (bitte Adresse eintragen) der o. g.
+Ausbildungsstätte statt.
+
+**Bildungseinrichtung**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist eine
+Bildungseinrichtung, die eine Umschulung zum Berufskraftfahrer/zur
+Berufskraftfahrerin oder zur Fachkraft im Fahrbetrieb auf der
+Grundlage einer nach § 58 oder § 59 des Berufsbildungsgesetzes (BBiG),
+jeweils in Verbindung mit § 60 BBiG, erlassenen Regelung durchführt,
+und damit als Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 4
+BKrFQG anerkannt. Der Unterricht fand in dem Schulungsraum (bitte
+Adresse eintragen) der o. g. Ausbildungsstätte statt.
+
+**Staatlich anerkannte Ausbildungsstätte**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist als
+Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 5, Absatz 2 BKrFQG
+in Verbindung mit § 6 BKrFQV von (bitte zuständige Erlaubnisbehörde
+eintragen) mit Bescheid vom (bitte Datum eintragen) staatlich
+anerkannt. Der Unterricht fand in dem Schulungsraum (bitte Adresse
+eintragen) der o. g. Ausbildungsstätte statt.
+
+    Nichtzutreffendes bitte streichen.
+[^F799568_04_BJNR210810006BJNE001401360]: 
+
+## Anlage 2b (zu § 5 Absatz 1 Nummer 2 in Verbindung mit Absatz 1b)
+
+(Fundstelle: BGBl. I 2017, 3242 – 3244)
+
+I)  Musterbescheinigung über die Teilnahme an einer Weiterbildung
+
+    *        *   Kopfbogen der Ausbildungsstätte
+
+        *   ** ,
+
+        *   den
+
+        *   **
+
+
+    *        *
+        *   Ort
+
+        *
+        *   Datum
+
+
+
+
+    **Bescheinigung über die Teilnahme an einer Weiterbildung gemäß § 5
+    des Berufskraftfahrer-Qualifikations-Gesetzes (BKrFQG) in Verbindung
+    mit § 4 der Berufskraftfahrer-Qualifikations-Verordnung (BKrFQV)**
+
+    Herr/Frau
+
+    **, geb. am: ** in **
+    Vorname, Name
+
+    **
+    Wohnanschrift
+
+    *        *   hat an fünf aufeinanderfolgenden Schulungstagen vom ** bis ** an einer
+            mehrtägigen Weiterbildung mit ** Unterrichtseinheiten (mindestens 35
+            Unterrichtseinheiten zu je
+            60 Minuten)\*
+
+
+
+
+    *        *   hat am ** an einer Weiterbildung mit **  Unterrichtseinheiten
+            (mindestens 7 Unterrichts-
+            einheiten zu je 60 Minuten)\*
+
+
+
+
+    mit folgenden Zielen gemäß Anlage 1 zu § 4 Absatz 1 BKrFQV
+    teilgenommen:
+
+    *        *   **Kenntnisbereich 1** Verbesserung des rationellen Fahrverhaltens auf
+            der Grundlage der Sicherheitsregeln\*
+
+
+    *        *
+        *   1.1
+
+        *   1.2
+
+        *   1.3
+
+        *   *
+
+        *
+        *
+        *
+
+    *        *   nur Fahrerlaubnisklassen C1, C1E, C, CE
+
+        *   1.4
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   nur Fahrerlaubnisklassen D1, D1E, D, DE
+
+        *   1.5
+
+        *   1.6
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   **Kenntnisbereich 2** Anwendung der Vorschriften\*
+
+        *
+
+    *        *
+        *   2.1
+
+        *   *
+
+        *
+        *
+        *
+        *
+        *
+
+    *        *   nur Fahrerlaubnisklassen C1, C1E, C, CE
+
+        *   2.2
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   nur Fahrerlaubnisklassen D1, D1E, D, DE
+
+        *   2.3
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   **Kenntnisbereich 3** Gesundheit, Verkehrs- und Umweltsicherheit,
+            Dienstleistung, Logistik\*
+
+        *
+
+    *        *
+        *   3.1
+
+        *   3.2
+
+        *   3.3
+
+        *   3.4
+
+        *   3.5
+
+        *   3.6\*
+
+        *
+
+    *        *   nur Fahrerlaubnisklassen C1, C1E, C, CE
+
+        *   3.7
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   nur Fahrerlaubnisklassen D1, D1E, D, DE
+
+        *   3.8
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+
+
+   Angabe der Ausbildungsstätte:
+
+    *        *   **
+            Unterschrift Ausbildungsstätte\*\*
+            Stempel
+
+        *
+        *   **
+            Unterschrift Ausbilder/in\*\*
+
+
+
+
+
+
+II) Anmerkungen zur Musterbescheinigung
+
+    1.  Anwendungshinweise
+
+        \*  Nichtzutreffendes bitte streichen.
+
+
+        \*\* Die Unterschrift des Ausbilders/der Ausbilderin hat eigenhändig im
+            Original zu erfolgen. Die eigenhändige Unterschrift der zur Vertretung
+            der Ausbildungsstätte berechtigten Person kann durch eine bildhafte
+            Wiedergabe der Unterschrift ersetzt werden (§ 5 Absatz 1c BKrFQV),
+            sofern der Unterricht nicht ausschließlich von dieser Person
+            durchgeführt wurde.
+
+
+
+
+        *Hinweise:*
+
+        Die Bescheinigung ist der Fahrerlaubnisbehörde zum Zweck der
+        Eintragung der Schlüsselzahl 95 in den Führerschein vorzulegen.
+
+        Insgesamt muss bei einer Weiterbildung an mindestens 35
+        Unterrichtseinheiten zu je 60 Minuten teilgenommen werden.
+
+
+    2.  Verteiler
+
+        Original – Teilnehmer/in
+
+        Eine Kopie Ausbildungsstätte
+
+
+    3.  Angabe zur Ausbildungsstätte
+
+        Es ist die jeweilige Ausbildungsstätte in die Musterbescheinigung
+        einzutragen.
+
+
+
+
+
+
+
+**Fahrschule**
+
+Die Fahrschule (bitte Name und Adresse der Fahrschule eintragen) hat
+eine Fahrschulerlaubnis der Klassen CE oder DE nach § 17 Absatz 2 des
+Fahrlehrergesetzes, erteilt von (bitte zuständige Erlaubnisbehörde
+eintragen), und ist damit als Ausbildungsstätte gemäß § 7 Absatz 1
+Satz 1 Nummer 1 BKrFQG anerkannt. Der Unterricht fand in dem
+Schulungsraum (bitte Adresse eintragen) der o. g. Ausbildungsstätte
+statt.
+
+**Fahrschule/Fahrlehrerausbildungsstätte bei einer Behörde**
+
+[^F799568_04_BJNR210810006BJNE001501360]
+Die Fahrschule
+/Fahrlehrerausbildungsstätte\* (bitte Name und Adresse der
+Fahrschule/Fahrlehrerausbildungsstätte eintragen) ist eine
+Fahrschule\*/Fahrlehrerausbildungsstätte\*, die nach § 44 Absatz 3 des
+Fahrlehrergesetzes keiner Fahrschulerlaubnis\*/Anerkennung\* bedarf
+und ist damit als Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 2
+BKrFQG anerkannt.
+
+**Ausbildungsbetrieb**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist ein
+Ausbildungsbetrieb, der eine Berufsausbildung in den
+Ausbildungsberufen „Berufskraftfahrer/Berufskraftfahrerin“ oder
+„Fachkraft im Fahrbetrieb“ oder einem staatlich anerkannten
+Ausbildungsberuf, in dem vergleichbare Fertigkeiten und Kenntnisse zur
+Durchführung von Fahrten mit Kraftfahrzeugen auf öffentlichen Straßen
+vermittelt werden, durchführt. Die Ausbildungsstätte gilt damit gemäß
+§ 7 Absatz 1 Satz 1 Nummer 3 BKrFQG als anerkannt. Der Unterricht fand
+in dem Schulungsraum (bitte Adresse eintragen) der o. g.
+Ausbildungsstätte statt.
+
+**Bildungseinrichtung**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist eine
+Bildungseinrichtung, die eine Umschulung zum Berufskraftfahrer/zur
+Berufskraftfahrerin oder zur Fachkraft im Fahrbetrieb auf der
+Grundlage einer nach § 58 oder § 59 des Berufsbildungsgesetzes (BBiG),
+jeweils in Verbindung mit § 60 BBiG, erlassenen Regelung durchführt,
+und damit als Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 4
+BKrFQG anerkannt. Der Unterricht fand in dem Schulungsraum (bitte
+Adresse eintragen) der o. g. Ausbildungsstätte statt.
+
+**Staatlich anerkannte Ausbildungsstätte**
+
+(Bitte Name und Adresse der Ausbildungsstätte eintragen) ist als
+Ausbildungsstätte gemäß § 7 Absatz 1 Satz 1 Nummer 5, Absatz 2 BKrFQG
+in Verbindung mit § 6 BKrFQV von (bitte zuständige Erlaubnisbehörde
+eintragen) mit Bescheid vom (bitte Datum eintragen) – Aktenzeichen
+(bitte Aktenzeichen des Anerkennungsbescheids eintragen) – staatlich
+anerkannt. Der Unterricht fand in dem Schulungsraum (bitte Adresse
+eintragen) der o. g. Ausbildungsstätte statt.
+
+    Nichtzutreffendes bitte streichen.
+[^F799568_04_BJNR210810006BJNE001501360]: 
 
 ## Anlage 3 (zu § 5 Abs. 4 Satz 4)
 
@@ -572,8 +1241,8 @@ der Bescheinigung angegeben ist, für den Zeitraum der Gültigkeit der
 Bescheinigung die Voraussetzungen hinsichtlich der Qualifikation oder
 Weiterbildung erfüllt, die die Richtlinie 2003/59/EG für die
 Durchführung von Fahrten im gewerblichen Personenverkehr auf dem
-Gebiet der Mitgliedstaaten der Europäischen Union oder den
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+Gebiet der Mitgliedstaaten der Europäischen Union, der Vertragsstaaten
+des Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz
 verlangt.
 Die Bescheinigung kann von der zuständigen deutschen Behörde, die sie
 ausgestellt hat, insbesondere dann entzogen werden, wenn die

@@ -4,7 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Vereinig
   anderen Übungen im Raum Soltau-Lüneburg
 jurabk: ManövAbk CANIGBR
 layout: default
-origslug: man_vabk_canigbr
+origslug: manoevabk_canigbr
 slug: manoevabk_canigbr
 
 ---

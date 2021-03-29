@@ -39,13 +39,16 @@ Bundesministerium der Justiz
 
 ## Anlage 1
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen des Königreichs
-Marokko,
 Fundstelle: BGBl. I 1999, 1724)
 
+## Prüf- und Gewährzeichen des Königreichs Marokko
+
+![bgbl1_1999_j1724_0010.jpg](bgbl1_1999_j1724_0010.jpg)
 
 ## Anlage 2
 
-(Inhalt: Nicht darstellbares Gewährzeichen der Republik Kuba für Rum,
 Fundstelle: BGBl. I 1999, 1725)
 
+## Gewährzeichen der Republik Kuba für Rum
+
+![bgbl1_1999_j1725_0010.jpg](bgbl1_1999_j1725_0010.jpg)

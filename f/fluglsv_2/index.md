@@ -68,20 +68,19 @@ Aufenthaltsräume sind
 
 (1) Bei der Errichtung baulicher Anlagen nach § 1 Satz 1 muss das
 resultierende bewertete Bauschalldämm-Maß R'
-w,res              der DIN 4109, Ausgabe November 1989, der
-Umfassungsbauteile von Aufenthaltsräumen abhängig von der
-Zugehörigkeit der baulichen Anlage zu den nachstehenden Isophonen-
-Bändern mindestens betragen:
+w,res der DIN 4109, Ausgabe November 1989, der Umfassungsbauteile von
+Aufenthaltsräumen abhängig von der Zugehörigkeit der baulichen Anlage
+zu den nachstehenden Isophonen-Bändern mindestens betragen:
 
 1.  in der Tag-Schutzzone 1 und in der Tag-Schutzzone 2:
 
     *        *   bei einem äquivalenten
             Dauerschallpegel für den
             Tag (L
-            Aeq Tag                             ) von
+            Aeq Tag) von
 
         *   R'
-            w,res                              für
+            w,res für
             Aufenthaltsräume
 
 
@@ -118,10 +117,10 @@ Bändern mindestens betragen:
     *        *   bei einem äquivalenten
             Dauerschallpegel für die
             Nacht (L
-            Aeq Nacht                             ) von
+            Aeq Nacht) von
 
         *   R'
-            w,res                              für
+            w,res für
             Schlafräume
 
 
@@ -157,7 +156,7 @@ Bändern mindestens betragen:
 Für Aufenthaltsräume einer baulichen Anlage, deren Grundfläche in zwei
 Isophonen-Bändern liegt, wird einheitlich das resultierende bewertete
 Bauschalldämm-Maß R'
-w,res              des höheren Isophonen-Bandes zugrunde gelegt.
+w,res des höheren Isophonen-Bandes zugrunde gelegt.
 
 (2) Umfassungsbauteile von Aufenthaltsräumen sind insbesondere Wände
 einschließlich Fenster, Türen, Rollladenkästen oder anderer
@@ -167,7 +166,7 @@ Aufenthaltsräumen aus Einzelflächen mit unterschiedlichen
 Bauschalldämm-Maßen, so ist das bewertete Bauschalldämm-Maß dieses
 Umfassungsbauteils das nach Gleichung 15 des Beiblatts 1 zur DIN 4109,
 Ausgabe November 1989, bestimmte resultierende Schalldämm-Maß R'
-w,R,res             .
+w,R,res.
 
 (3) Die in Absatz 1 Satz 1 genannten Isophonen-Bänder mit den
 äquivalenten Dauerschallpegeln für den Tag und für die Nacht werden
@@ -180,36 +179,36 @@ Maximalpegelkriteriums nach § 4 Absatz 1 Satz 2 Nummer 3 der genannten
 Verordnung zur Nacht-Schutzzone gehören.
 
 (4) Das resultierende bewertete Bauschalldämm-Maß R'
-w,res              nach Absatz 1 Satz 1 ist in Abhängigkeit vom
-Verhältnis der gesamten Außenfläche eines Raumes S
-(W+F)              zur Grundfläche des Raumes S
-G              nach Tabelle 9 der DIN 4109, Ausgabe November 1989, zu
-erhöhen oder zu vermindern.
+w,res nach Absatz 1 Satz 1 ist in Abhängigkeit vom Verhältnis der
+gesamten Außenfläche eines Raumes S
+(W+F) zur Grundfläche des Raumes S
+G nach Tabelle 9 der DIN 4109, Ausgabe November 1989, zu erhöhen oder
+zu vermindern.
 
 (5) Das resultierende bewertete Bauschalldämm-Maß R'
-w,res              nach Absatz 1 Satz 1 und Absatz 4 ist von den
+w,res nach Absatz 1 Satz 1 und Absatz 4 ist von den
 Umfassungsbauteilen einzuhalten, die Aufenthaltsräume unmittelbar nach
 außen abschließen. Soweit Aufenthaltsräume an nicht zu schützende
 Räume grenzen, muss das resultierende bewertete Bauschalldämm-Maß R'
-w,res              nach Absatz 1 Satz 1 und Absatz 4 von allen
-Umfassungsbauteilen zusammen eingehalten werden, die zwischen den
-betreffenden Aufenthaltsräumen und dem Freien liegen. Diese
-Anforderung ist als erfüllt anzusehen, wenn Umfassungsbauteile, die
-nicht zu schützende Räume nach außen abschließen, ein resultierendes
-bewertetes Bauschalldämm-Maß R'
-w,res              einhalten, das um nicht mehr als 20 Dezibel unter
-den in Absatz 1 Satz 1 angegebenen Bauschalldämm-Maßen liegt. Satz 3
-gilt nur, wenn die Umfassungsbauteile des Aufenthaltsraums keine
-unverschließbaren Öffnungen enthalten.
+w,res nach Absatz 1 Satz 1 und Absatz 4 von allen Umfassungsbauteilen
+zusammen eingehalten werden, die zwischen den betreffenden
+Aufenthaltsräumen und dem Freien liegen. Diese Anforderung ist als
+erfüllt anzusehen, wenn Umfassungsbauteile, die nicht zu schützende
+Räume nach außen abschließen, ein resultierendes bewertetes
+Bauschalldämm-Maß R'
+w,res einhalten, das um nicht mehr als 20 Dezibel unter den in Absatz
+1 Satz 1 angegebenen Bauschalldämm-Maßen liegt. Satz 3 gilt nur, wenn
+die Umfassungsbauteile des Aufenthaltsraums keine unverschließbaren
+Öffnungen enthalten.
 
 (6) Belüftungseinrichtungen dürfen nicht zu einer Minderung des
 resultierenden bewerteten Bauschalldämm-Maßes R'
-w,res              führen. Sie sind bei dem nach Absatz 1 Satz 1
-Nummer 2 und Absatz 4 erforderlichen Schallschutz von Schlafräumen in
-der Nacht-Schutzzone mit zu berücksichtigen. In der Tag-Schutzzone 1
-ist bei Aufenthaltsräumen für eine größere Zahl von Personen nach § 2
-Nummer 3 (zum Beispiel Schul- oder Gruppenräume) ebenfalls der Einbau
-von Belüftungseinrichtungen vorzusehen. Die Eigengeräusche von
+w,res führen. Sie sind bei dem nach Absatz 1 Satz 1 Nummer 2 und
+Absatz 4 erforderlichen Schallschutz von Schlafräumen in der Nacht-
+Schutzzone mit zu berücksichtigen. In der Tag-Schutzzone 1 ist bei
+Aufenthaltsräumen für eine größere Zahl von Personen nach § 2 Nummer 3
+(zum Beispiel Schul- oder Gruppenräume) ebenfalls der Einbau von
+Belüftungseinrichtungen vorzusehen. Die Eigengeräusche von
 Belüftungseinrichtungen in Schlafräumen dürfen nicht höher sein, als
 nach dem Stand der Schallschutztechnik im Hochbau unvermeidbar;
 maßgeblich ist der Zeitpunkt des Einbaus. Die Lüftungsleistung

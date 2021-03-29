@@ -2,7 +2,7 @@
 Title: Verordnung über Träger der Unfallversicherung
 jurabk: UVTrägerV
 layout: default
-origslug: uvtr_gerv
+origslug: uvtraegerv
 slug: uvtraegerv
 
 ---

@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der Amtsgehilfen
 jurabk: BPräsKldgAmtsgehAnO
 layout: default
-origslug: bpr_skldgamtsgehano
+origslug: bpraeskldgamtsgehano
 slug: bpraeskldgamtsgehano
 
 ---

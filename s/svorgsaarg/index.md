@@ -33,10 +33,10 @@ bis 8, Abs. 2 und 3, §§ 299 bis 305, 307 bis 309, 318 bis 327, 333,
 406 bis 415b, 476 bis 477 Nr. 3, §§ 478 bis 487, 488 Abs. 1, 2 und
 Abs. 4 bis 6, §§ 489 bis 493b, 504 bis 513, 516 bis 528 der
 Reichsversicherungsordnung und die zu ihrer Änderung, Ergänzung und
-Durchführung erlassenen Vorschriften gelten im Saarland.
-Soweit in ihnen auf andere Vorschriften verwiesen wird, die im
-Saarland in abweichender Fassung gelten, sind diese in der
-saarländischen Fassung anzuwenden.
+Durchführung erlassenen Vorschriften gelten im Saarland. Soweit in
+ihnen auf andere Vorschriften verwiesen wird, die im Saarland in
+abweichender Fassung gelten, sind diese in der saarländischen Fassung
+anzuwenden.
 
 
 ### § 2
@@ -346,13 +346,12 @@ sollen in der Bezirksverwaltung im Saarland (§ 16) beschäftigt werden.
 ### § 26
 
 Die §§ 1326 bis
-1343, 1348              bis
-1350, 1353 bis 1355, 1358 bis              1360 der
-Reichsversicherungsordnung sowie die zu ihrer Änderung, Ergänzung und
-Durchführung erlassenen Vorschriften gelten im Saarland. Soweit in
-ihnen auf andere Vorschriften verwiesen wird, die im Saarland in
-abweichender Fassung gelten, sind diese in der saarländischen Fassung
-anzuwenden.
+1343, 1348 bis
+1350, 1353 bis 1355, 1358 bis 1360 der Reichsversicherungsordnung
+sowie die zu ihrer Änderung, Ergänzung und Durchführung erlassenen
+Vorschriften gelten im Saarland. Soweit in ihnen auf andere
+Vorschriften verwiesen wird, die im Saarland in abweichender Fassung
+gelten, sind diese in der saarländischen Fassung anzuwenden.
 
 
 ### § 27
@@ -377,7 +376,7 @@ auf die Bundesbahn-Versicherungsanstalt über.
 ### § 29
 
 Die §§ 1
-bis 14,              17 und 29 des Gesetzes über die Errichtung der
+bis 14, 17 und 29 des Gesetzes über die Errichtung der
 Bundesversicherungsanstalt für Angestellte vom 7. August 1953
 (Bundesgesetzbl. I S. 857) sowie die zu ihrer Änderung, Ergänzung und
 Durchführung erlassenen Vorschriften gelten im Saarland. Soweit in

@@ -68,8 +68,11 @@ einem Kartenteil, festgelegt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
+Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in
+der Ostsee
 
-## Anlage (zu § 1) Raumordnungsplan für die deutsche ausschließliche Wirtschaftszone in der Ostsee (Textteil und Kartenteil)
+## Anlage (Textteil und Kartenteil)
 
 (Fundstelle: Anlageband zum BGBl. I 2009, Nr. 78, S. 3861 vom 18.
 Dezember 2009, S. 1 - 31, gesonderte Karte)
@@ -2310,28 +2313,27 @@ dieses zu beachten.
 
 *   Die festgelegten Vorranggebiete der Ostsee haben eine Ausdehnung von
     insgesamt ca. 130 km
-    2                   . In den Vorranggebieten sind drei Windparks mit
-    insgesamt 240 Anlagen genehmigt worden, wobei noch keine
-    Windenergieanlage (WEA) errichtet wurde (Stand: Oktober 2009). Für
-    weitere vier Windparks in den festgelegten Vorranggebieten mit
-    angestrebten 61 Anlagen liegen dem BSH Anträge vor. Dieses ergibt in
-    der Summe 301 WEA mit einer rechnerischen Leistung von bis zu 1 505 MW
-    (bei Verwendung von 5-MW-Anlagen). Somit kann mit den Vorranggebieten
-    ein wichtiger Beitrag zum Erreichen der kurz- bis mittelfristigen
-    Ausbauziele der Bundesregierung geleistet werden. Die Festlegung von
-    Vorranggebieten hat keinen Einfluss auf Windenergieparkgenehmigungen
-    außerhalb dieser Gebiete und ändert insbesondere nichts an der
-    Verpflichtung gemäß § 17 Absatz 2a EnWG, Windparks unabhängig davon an
-    das Netz anzuschließen, ob sie innerhalb oder außerhalb von
-    Vorranggebieten liegen. Eine zeitliche Reihenfolge der Netzanbindung
-    von Offshore-Windparks ist mit der Festlegung der Vorranggebiete nicht
-    vorgegeben.
+    2\. In den Vorranggebieten sind drei Windparks mit insgesamt 240
+    Anlagen genehmigt worden, wobei noch keine Windenergieanlage (WEA)
+    errichtet wurde (Stand: Oktober 2009). Für weitere vier Windparks in
+    den festgelegten Vorranggebieten mit angestrebten 61 Anlagen liegen
+    dem BSH Anträge vor. Dieses ergibt in der Summe 301 WEA mit einer
+    rechnerischen Leistung von bis zu 1 505 MW (bei Verwendung von 5-MW-
+    Anlagen). Somit kann mit den Vorranggebieten ein wichtiger Beitrag zum
+    Erreichen der kurz- bis mittelfristigen Ausbauziele der
+    Bundesregierung geleistet werden. Die Festlegung von Vorranggebieten
+    hat keinen Einfluss auf Windenergieparkgenehmigungen außerhalb dieser
+    Gebiete und ändert insbesondere nichts an der Verpflichtung gemäß § 17
+    Absatz 2a EnWG, Windparks unabhängig davon an das Netz anzuschließen,
+    ob sie innerhalb oder außerhalb von Vorranggebieten liegen. Eine
+    zeitliche Reihenfolge der Netzanbindung von Offshore-Windparks ist mit
+    der Festlegung der Vorranggebiete nicht vorgegeben.
 
 
 *
     *        *
         *   Gesamtgröße (km
-            2)                             )
+            2))
 
         *   Genehmigte Parks (WEA)
 
@@ -2825,18 +2827,18 @@ Behörde geeignete Sicherungsmaßnahmen durchgeführt werden.
         Erzeuger als auch der Verbraucher Rechnung getragen wird.
 
         Der Rechtsrahmen wird im Wesentlichen gesetzt durch
-        Verordnung (EG) Nr. 2731/02                          des Rates vom 20.
-        Dezember 2002 über die Erhaltung und nachhaltige Nutzung der
-        Fischereiressourcen im Rahmen der Gemeinsamen Fischereipolitik (ABl. L
-        358 vom 31.12.2002, S. 59) (GrundVO) sowie die Verordnung (EG) Nr.
-        894/97 des Rates vom 29. April 1997 über technische Maßnahmen zur
-        Erhaltung der Fischbestände (ABl. L 132 vom 23.5.1997, S. 1). Ergänzt
-        werden diese Verordnungen durch die Festlegung der Gesamtfangmengen
-        und Fangbedingungen bei der Ausübung der Fischerei. Insgesamt ergibt
-        sich innerhalb der 200-Meilen-Zonen ein Meeresgebiet im
-        Regelungsbereich der EG, zu dem alle Mitgliedstaaten freien Zugang
-        haben. Der Rat der Europäischen Union setzt jährlich die
-        Gesamtfangmenge, Quoten und Bestandsschutzmaßnahmen fest.
+        Verordnung (EG) Nr. 2731/02 des Rates vom 20. Dezember 2002 über die
+        Erhaltung und nachhaltige Nutzung der Fischereiressourcen im Rahmen
+        der Gemeinsamen Fischereipolitik (ABl. L 358 vom 31.12.2002, S. 59)
+        (GrundVO) sowie die Verordnung (EG) Nr. 894/97 des Rates vom 29. April
+        1997 über technische Maßnahmen zur Erhaltung der Fischbestände (ABl. L
+        132 vom 23.5.1997, S. 1). Ergänzt werden diese Verordnungen durch die
+        Festlegung der Gesamtfangmengen und Fangbedingungen bei der Ausübung
+        der Fischerei. Insgesamt ergibt sich innerhalb der 200-Meilen-Zonen
+        ein Meeresgebiet im Regelungsbereich der EG, zu dem alle
+        Mitgliedstaaten freien Zugang haben. Der Rat der Europäischen Union
+        setzt jährlich die Gesamtfangmenge, Quoten und Bestandsschutzmaßnahmen
+        fest.
 
         Neben Bewirtschaftungs- und Erhaltungsregeln werden durch die GFP auch
         Vermarktungsregeln für die gemeinsame Marktorganisation der

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3082
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.2.2012 I 148
+:   § 44 Abs. 1 G v. 22.5.2013 I 1324
 
 
 ## § 1 Rechtsform, Name
@@ -286,16 +286,15 @@ anzuwenden.
 
 (1) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und
 Veterinärmedizin tätigen Beamtinnen und Beamten werden vorbehaltlich
-des § 7 Abs. 1 und 2 des BVL-Gesetzes und des § 86 Abs. 1 des
-Tierseuchengesetzes mit dem Inkrafttreten dieses Gesetzes Beamtinnen
-und Beamte des Bundesinstitutes. § 136 Abs. 1 des
+des § 7 Abs. 1 und 2 des BVL-Gesetzes mit dem Inkrafttreten dieses
+Gesetzes Beamtinnen und Beamte des Bundesinstitutes. § 136 Abs. 1 des
 Bundesbeamtengesetzes ist entsprechend anzuwenden.
 
 (2) Die beim Bundesinstitut für gesundheitlichen Verbraucherschutz und
 Veterinärmedizin tätigen Arbeitnehmerinnen und Arbeitnehmer sind
-vorbehaltlich des § 7 Abs. 3 und 4 des BVL-Gesetzes und des § 86 Abs.
-2 des Tierseuchengesetzes mit dem Inkrafttreten dieses Gesetzes in den
-Dienst des Bundesinstitutes übernommen.
+vorbehaltlich des § 7 Abs. 3 und 4 des BVL-Gesetzes mit dem
+Inkrafttreten dieses Gesetzes in den Dienst des Bundesinstitutes
+übernommen.
 
 
 ## § 13 Übergangsmaßnahmen

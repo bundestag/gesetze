@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3037
 
 Zuletzt geändert durch
-:   Art. 14 V v. 23.7.2010 I 1010
+:   Art. 30 V v. 26.3.2014 I 274
 
 
 
@@ -1107,10 +1107,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Mechatronik
-vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 14
-der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 30
+der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -1141,9 +1145,9 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Mechatronik
-vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 14
-der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+vom 19. Oktober 2005 (BGBl. I S. 3037), die zuletzt durch Artikel 30
+der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 Note
 **I.   Fachrichtungsübergreifende Basisqualifikationen**
@@ -1179,6 +1183,10 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse durch die Prüfung am .......... in ..........
 vor .......... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)

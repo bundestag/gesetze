@@ -4,7 +4,7 @@ Title: Gesetz zu dem Vertrag vom 17. Juli 2003 zwischen der Bundesrepublik Deuts
   vom 13. Dezember 1957 und die Erleichterung seiner Anwendung
 jurabk: EuAuslfÜbkErgVtrPOLG
 layout: default
-origslug: euauslf_bkergvtrpolg
+origslug: euauslfuebkergvtrpolg
 slug: euauslfuebkergvtrpolg
 
 ---

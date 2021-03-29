@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen E
   vom 20. April 1959 und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkErgVtr CHE
 layout: default
-origslug: eurhi_bkergvtr_che
+origslug: eurhiuebkergvtr_che
 slug: eurhiuebkergvtr_che
 
 ---

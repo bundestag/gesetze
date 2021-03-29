@@ -1075,8 +1075,9 @@ staatlich anerkannt.
 -----
 \*) Bezeichnung der Einrichtung und Anschrift einfügen.
 
+(zu § 14 Abs. 1 und § 21 Abs. 1)
 
-### Anlage 4 (zu § 14 Abs. 1 und § 21 Abs. 1) Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
+### Anlage 4 Bewertungsskala für die Bildung der Noten in den einzelnen Prüfungsleistungen  der Prüfungen nach § 10 Abs. 1, § 11 Abs. 1 und § 18 Abs. 1
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 3216)
 

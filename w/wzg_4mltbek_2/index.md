@@ -36,7 +36,6 @@ Der Bundesminister der Justiz
 
 ## Anlage
 
-**Gewährzeichen des maltesischen "Board of Standards"**
-(Inhalt: Nicht darstellbares Gewährzeichen,
 BGBl. I 1972, 1890)
-
+**Gewährzeichen des maltesischen "Board of Standards"**
+![bgbl1_1972_j1890_0010.jpg](bgbl1_1972_j1890_0010.jpg)

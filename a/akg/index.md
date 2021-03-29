@@ -671,8 +671,8 @@ beantragen.
 
 (2) Für die Enteignung gelten die Vorschriften des Zweiten und des
 Dritten Teils sowie der §§ 67, 68, 71, 73,
-74              des Landbeschaffungsgesetzes vom 23. Februar 1957
-(Bundesgesetzbl. I S. 134) sinngemäß mit folgender Maßgabe:
+74 des Landbeschaffungsgesetzes vom 23. Februar 1957 (Bundesgesetzbl.
+I S. 134) sinngemäß mit folgender Maßgabe:
 
 1.  Abweichend von § 17 Abs. 3 des genannten Gesetzes ist für die
     Bemessung der Entschädigung der Zustand des Grundstücks in dem

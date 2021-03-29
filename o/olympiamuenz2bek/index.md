@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 1
   Mark (2. Motiv der Olympiamünze - Ausgabe 1970)
 jurabk: OlympiaMünz2Bek
 layout: default
-origslug: olympiam_nz2bek
+origslug: olympiamuenz2bek
 slug: olympiamuenz2bek
 
 ---

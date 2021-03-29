@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3478
 
 Zuletzt geändert durch
-:   Art. 9 G v. 8.11.2011 I 2178
+:   Art. 83 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -198,18 +198,18 @@ Informationen zur Verfügung zu stellen.
 
 (1) Die zuständige Landesbehörde teilt Marktüberwachungsmaßnahmen nach
 § 26 des Produktsicherheitsgesetzes dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit im Hinblick auf die nach Artikel 9
-Abs. 2 der Richtlinie 2000/14/EG erforderliche Unterrichtung der
-anderen Mitgliedstaaten der Europäischen Gemeinschaft und der
+Naturschutz, Bau und Reaktorsicherheit im Hinblick auf die nach
+Artikel 9 Abs. 2 der Richtlinie 2000/14/EG erforderliche Unterrichtung
+der anderen Mitgliedstaaten der Europäischen Gemeinschaft und der
 Europäischen Kommission unverzüglich mit.
 
 (2) Die zuständige Landesbehörde nach § 9 Absatz 1 des
 Produktsicherheitsgesetzes teilt dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit im Hinblick auf die nach Artikel 15
-Abs. 3 der Richtlinie 2000/14/EG erforderliche Meldung an die
-Mitgliedstaaten der Europäischen Gemeinschaft und an die Europäische
-Kommission mit, welche Stellen sie benannt hat. In der Mitteilung ist
-anzugeben, für welche Geräte und Maschinen sowie
+Naturschutz, Bau und Reaktorsicherheit im Hinblick auf die nach
+Artikel 15 Abs. 3 der Richtlinie 2000/14/EG erforderliche Meldung an
+die Mitgliedstaaten der Europäischen Gemeinschaft und an die
+Europäische Kommission mit, welche Stellen sie benannt hat. In der
+Mitteilung ist anzugeben, für welche Geräte und Maschinen sowie
 Konformitätsbewertungsverfahren die Benennung gilt. Satz 1 gilt
 entsprechend für einen Widerruf sowie eine Rücknahme, einen Ablauf
 oder ein Erlöschen der Benennung im Hinblick auf Artikel 15 Abs. 5 der

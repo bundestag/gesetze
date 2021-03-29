@@ -16,9 +16,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 667 (1957, 368)
 
-Zuletzt geändert durch
-:   Art. 297 V v. 31.10.2006 I 2407
-
+Stand: Zuletzt geändert Art. 496 V v. 31.8.2015 I 1474
 
 ## § 1 Notwendigkeit und Nachweis des Versicherungsschutzes
 
@@ -126,22 +124,23 @@ der ersten Prämie abhängig machen.
 
 ## § 6
 
-(1) § 3 Nrn. 1 bis 4 und 6 bis 11 des Pflichtversicherungsgesetzes ist
-anzuwenden; an die Stelle von § 3 Nr. 5 des
-Pflichtversicherungsgesetzes tritt die Regelung des Absatzes 2.
+(1) § 3 des Pflichtversicherungsgesetzes und die §§ 115, 116, 117
+Absatz 1, die §§ 119, 120 und 124 Absatz 1 und 2 des
+Versicherungsvertragsgesetzes finden Anwendung.
 
 (2) Ein Umstand, der das Nichtbestehen oder die Beendigung des
 Versicherungsverhältnisses zur Folge hat, kann dem Anspruch des
-Dritten nach § 3 Nr. 1 des Pflichtversicherungsgesetzes nur
-entgegengehalten werden, wenn er aus der Versicherungsbescheinigung
-ersichtlich oder wenn die Versicherungsbescheinigung dem Versicherer
-zurückgegeben worden ist. Weiterhin muß, wenn das
-Versicherungsverhältnis durch Zeitablauf beendet oder die
-Versicherungsbescheinigung dem Versicherer zurückgegeben worden ist,
-zwischen dem in der Versicherungsbescheinigung angegebenen Zeitpunkt
-der Beendigung des Versicherungsverhältnisses oder dem Zeitpunkt der
-Rückgabe der Versicherungsbescheinigung und dem Schadensereignis eine
-Frist von fünf Monaten, im Falle einer Gesamtlaufzeit des
+Dritten nach § 115 Absatz 1 Satz 1 des Versicherungsvertragsgesetzes
+nur entgegengehalten werden, wenn er aus der
+Versicherungsbescheinigung ersichtlich oder wenn die
+Versicherungsbescheinigung dem Versicherer zurückgegeben worden ist.
+Weiterhin muß, wenn das Versicherungsverhältnis durch Zeitablauf
+beendet oder die Versicherungsbescheinigung dem Versicherer
+zurückgegeben worden ist, zwischen dem in der
+Versicherungsbescheinigung angegebenen Zeitpunkt der Beendigung des
+Versicherungsverhältnisses oder dem Zeitpunkt der Rückgabe der
+Versicherungsbescheinigung und dem Schadensereignis eine Frist von
+fünf Monaten, im Falle einer Gesamtlaufzeit des
 Versicherungsverhältnisses von weniger als zehn Tagen eine Frist von
 fünf Wochen verstrichen sein.
 
@@ -150,7 +149,7 @@ fünf Wochen verstrichen sein.
 
 Zur Durchführung der §§ 1 bis 5 können erlassen
 
-a)  das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit
+a)  das Bundesministerium für Verkehr und digitale Infrastruktur mit
     Zustimmung des Bundesrates Rechtsverordnungen über den Inhalt und die
     Prüfung der Versicherungsbescheinigungen und die beim Fehlen der
     Bescheinigung nötigen Sicherungsmaßnahmen,
@@ -162,7 +161,7 @@ b)  das Bundesministerium der Finanzen ohne Zustimmung des Bundesrates
     Gesetz zu schließen,
 
 
-c)  das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit
+c)  das Bundesministerium für Verkehr und digitale Infrastruktur mit
     Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften.
 
 
@@ -173,11 +172,11 @@ c)  das Bundesministerium für Verkehr, Bau und Stadtentwicklung mit
 
 Zur Erfüllung völkerrechtlicher Verpflichtungen oder zur Durchführung
 von Rechtsakten des Rates oder der Kommission der Europäischen
-Gemeinschaften wird das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ermächtigt, für Fahrzeuge ohne regelmäßigen Standort
-im Geltungsbereich dieses Gesetzes durch Rechtsverordnung ohne
-Zustimmung des Bundesrates nach Anhörung der obersten Landesbehörden
-zu bestimmen, daß sie auf öffentlichen Straßen oder Plätzen im
+Gemeinschaften wird das Bundesministerium für Verkehr und digitale
+Infrastruktur ermächtigt, für Fahrzeuge ohne regelmäßigen Standort im
+Geltungsbereich dieses Gesetzes durch Rechtsverordnung ohne Zustimmung
+des Bundesrates nach Anhörung der obersten Landesbehörden zu
+bestimmen, daß sie auf öffentlichen Straßen oder Plätzen im
 Geltungsbereich dieses Gesetzes nur gebraucht werden dürfen und ihnen
 die Einreise hierhin nur gestattet werden darf, wenn die durch das
 Fahrzeug verursachten Schäden in allen Staaten, in die das Fahrzeug
@@ -193,7 +192,7 @@ Bescheinigung nötigen Sicherungsmaßnahmen enthalten.
 ## § 8 Ausnahmen
 
 (1) Zur Pflege der Beziehungen mit dem Ausland kann das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung
+Bundesministerium für Verkehr und digitale Infrastruktur
 Einzelausnahmen von diesem Gesetz oder den auf § 7 Buchstabe a
 beruhenden Rechtsverordnungen genehmigen, wenn die Entschädigung der
 Verkehrsopfer gewährleistet bleibt.
@@ -201,8 +200,8 @@ Verkehrsopfer gewährleistet bleibt.
 (2) Zur Pflege der Beziehungen mit dem Ausland, zur Erfüllung
 völkerrechtlicher Verpflichtungen oder zur Durchführung von
 Rechtsakten des Rates oder der Kommission der Europäischen
-Gemeinschaften kann das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung unter derselben Voraussetzung durch Rechtsverordnung
+Gemeinschaften kann das Bundesministerium für Verkehr und digitale
+Infrastruktur unter derselben Voraussetzung durch Rechtsverordnung
 ohne Zustimmung des Bundesrates nach Anhörung der obersten
 Landesbehörden allgemeine Ausnahmen von § 1 Abs. 1 bis 4 oder von den
 Vorschriften über den Inhalt von Versicherungsbescheinigungen
@@ -216,12 +215,11 @@ Kennzeichen eines bestimmten ausländischen Gebiets führen, ein im
 Geltungsbereich dieses Gesetzes zum Geschäftsbetrieb befugter
 Versicherer oder ein Verband solcher Versicherer die Pflichten eines
 Haftpflichtversicherers nach den Vorschriften dieses Gesetzes
-übernommen, so kann das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung durch Rechtsverordnung ohne Zustimmung des
-Bundesrates nach Anhörung der obersten Landesbehörden bestimmen, daß
-für die das vorgeschriebene Kennzeichen dieses Gebiets führenden
-Fahrzeuge die Ausstellung einer Versicherungsbescheinigung nicht
-erforderlich ist.
+übernommen, so kann das Bundesministerium für Verkehr und digitale
+Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+nach Anhörung der obersten Landesbehörden bestimmen, daß für die das
+vorgeschriebene Kennzeichen dieses Gebiets führenden Fahrzeuge die
+Ausstellung einer Versicherungsbescheinigung nicht erforderlich ist.
 
 (2) Ist nach Absatz 1 die Ausstellung einer Versicherungsbescheinigung
 nicht erforderlich, so kann abweichend von § 6 Abs. 2 ein Umstand, der
@@ -280,11 +278,7 @@ Entscheidung gehört.
 
 ## § 10 Geltung in Berlin
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
-im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen werden, gelten im Land Berlin nach § 14 des Dritten
-Überleitungsgesetzes.
+(weggefallen)
 
 
 ## § 11 Inkrafttreten

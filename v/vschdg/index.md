@@ -15,7 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3367
 
-Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
+Stand: Zuletzt geändert Art. 4 Abs. 48 G v. 18.7.2016 I 1666
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -28,8 +28,7 @@ Stand: Zuletzt geändert Art. 2 G v. 5.12.2012 I 2454
 2006/2004 des Europäischen Parlaments und des Rates vom 27. Oktober
 2004 über die Zusammenarbeit zwischen den für die Durchsetzung der
 Verbraucherschutzgesetze zuständigen nationalen Behörden (ABl. L 364
-vom 9.12.2004, S. 1), die zuletzt durch Artikel 3 der Richtlinie
-2009/136/EG (ABl. L 337 vom 18.12.2009, S. 11) geändert worden ist.
+vom 9.12.2004, S. 1) in der jeweils geltenden Fassung.
 
 (2) Unberührt von den Vorschriften dieses Gesetzes bleiben die
 Zuständigkeiten und Befugnisse nach
@@ -40,9 +39,9 @@ Zuständigkeiten und Befugnisse nach
     oder
 
 
-2.  dem in Nummer 15 des Anhanges der Verordnung (EG) Nr. 2006/2004
-    genannten unmittelbar geltenden Rechtsakt der Europäischen
-    Gemeinschaft oder der Europäischen Union und den zu seiner
+2.  den im Anhang der Verordnung (EG) Nr. 2006/2004 genannten unmittelbar
+    geltenden Rechtsakten der Europäischen Gemeinschaft oder der
+    Europäischen Union und nach den in ihrem Rahmen oder zu ihrer
     Durchführung erlassenen Rechtsvorschriften.
 
 
@@ -57,11 +56,11 @@ vorgesehen sind.
 
 Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
-1.  das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit im
-    Falle eines Verdachtes eines innergemeinschaftlichen Verstoßes gegen
-    die zur Umsetzung oder Durchführung
+1.  das Bundesministerium der Justiz und für Verbraucherschutz im Falle
+    eines Verdachtes eines innergemeinschaftlichen Verstoßes gegen die zur
+    Umsetzung oder Durchführung
 
-    a)  der in den Nummern 1 bis 3, 5 bis 9, 11, 12, 14, 16 und 17 des
+    a)  der in den Nummern 1 bis 3, 5 bis 9, 11, 12, 14, 16, 17, 20 und 21 des
         Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakte
         erlassenen Rechtsvorschriften,
 
@@ -69,9 +68,9 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
     b)  sonstiger Rechtsakte der Europäischen Gemeinschaft oder der
         Europäischen Union erlassenen Rechtsvorschriften, soweit die
         Rechtsakte in den Anwendungsbereich der Verordnung (EG) Nr. 2006/2004
-        einbezogen worden sind und dem Bundesamt für Verbraucherschutz und
-        Lebensmittelsicherheit die Zuständigkeit durch Rechtsverordnung nach §
-        12 Abs. 1 übertragen worden ist,
+        einbezogen worden sind und dem Bundesministerium der Justiz und für
+        Verbraucherschutz die Zuständigkeit durch Rechtsverordnung nach § 12
+        Abs. 1 übertragen worden ist,
 
 
 
@@ -83,8 +82,8 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
     a)  eines Unternehmens handelt, das
 
-        aa) eine Tätigkeit ausübt, die einer Erlaubnis nach § 5 Absatz 1, § 105
-            Absatz 2 oder § 112 Absatz 2 des Versicherungsaufsichtsgesetzes
+        aa) eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67
+            Absatz 1 oder § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
             bedarf, und der Aufsicht der Bundesanstalt für
             Finanzdienstleistungsaufsicht untersteht oder
 
@@ -128,8 +127,8 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
     soweit es sich um den Verdacht eines innergemeinschaftlichen Verstoßes
     eines Unternehmens handelt, das
 
-    a)  eine Tätigkeit ausübt, die einer Erlaubnis nach § 5 Absatz 1, § 105
-        Absatz 2 oder § 112 Absatz 2 des Versicherungsaufsichtsgesetzes
+    a)  eine Tätigkeit ausübt, die einer Erlaubnis nach § 8 Absatz 1, § 67
+        Absatz 1 oder § 236 Absatz 3 des Versicherungsaufsichtsgesetzes
         bedarf, und
 
 
@@ -141,10 +140,10 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
     Tätigkeit bezieht,
 
 
-5.  das Eisenbahn-Bundesamt im Fall eines Verdachtes eines
-    innergemeinschaftlichen Verstoßes gegen den in der Nummer 18 des
-    Anhanges der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakt und die
-    zu seiner Durchsetzung erlassenen Rechtsvorschriften,
+5.  das Eisenbahn-Bundesamt im Fall eines Verdachts eines
+    innergemeinschaftlichen Verstoßes gegen die in den Nummern 18 und 19
+    des Anhangs der Verordnung (EG) Nr. 2006/2004 genannten Rechtsakte und
+    die zu ihrer Durchführung erlassenen Rechtsvorschriften,
 
 
 6.  vorbehaltlich der Nummer 1 Buchstabe b die nach Landesrecht zuständige
@@ -156,9 +155,9 @@ Für die Durchführung der Verordnung (EG) Nr. 2006/2004 sind zuständig
 
 ### § 3 Zentrale Verbindungsstelle
 
-(1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit ist
-- auch in Fällen des § 2 Nr. 2 bis 5 - Zentrale Verbindungsstelle im
-Sinne des Artikels 3 Buchstabe d der Verordnung (EG) Nr. 2006/2004.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz ist
+Zentrale Verbindungsstelle im Sinne des Artikels 3 Buchstabe d der
+Verordnung (EG) Nr. 2006/2004.
 
 (2) Die Zentrale Verbindungsstelle berichtet den für den
 Verbraucherschutz zuständigen obersten Landesbehörden jährlich,
@@ -345,8 +344,8 @@ unter Beachtung des Absatzes 2 abschließen und den danach beauftragten
 Dritten nach Artikel 4 Abs. 2 Satz 2 der Verordnung (EG) Nr. 2006/2004
 benennen. Eine Rahmenvereinbarung bedarf der Genehmigung der
 zuständigen obersten Bundesbehörde, zu deren Geschäftsbereich die nach
-§ 2 Nr. 1 oder 2 zuständige Behörde gehört. Die Rahmenvereinbarung ist
-im Bundesanzeiger bekannt zu machen.
+§ 2 Nummer 2 zuständige Behörde gehört. Die Rahmenvereinbarung ist im
+Bundesanzeiger bekannt zu machen.
 
 (4) Die Landesregierungen werden ermächtigt, für ihre Behörden durch
 Rechtsverordnung den Absätzen 1 bis 3 entsprechende Regelungen zu
@@ -363,7 +362,7 @@ anderer Mitgliedstaaten der Europäischen Union wird der Zentralen
 Verbindungsstelle übertragen.
 
 
-## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Kosten
+## Abschnitt 3 - Bußgeldvorschriften, Vollstreckung, Gebühren, Auslagen, Umlagen und Kostenerstattung
 
 
 
@@ -386,8 +385,8 @@ Euro geahndet werden.
 
 (3) Verwaltungsbehörden im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
 über Ordnungswidrigkeiten sind im Rahmen ihrer jeweiligen
-Zuständigkeit die in § 2 Nr. 1, 2 oder 3 genannten Behörden, soweit
-das Gesetz durch diese Behörden ausgeführt wird.
+Zuständigkeit die in § 2 Nummer 1, 2, 3 oder 5 genannten Behörden,
+soweit das Gesetz durch diese Behörden ausgeführt wird.
 
 
 ### § 10 Vollstreckung
@@ -399,11 +398,11 @@ Abs. 1 Satz 2 Nr. 1 beträgt für jeden Einzelfall höchstens
 zweihundertfünfzigtausend Euro.
 
 
-### § 11 Kosten
+### § 11 Gebühren, Auslagen, Umlagen und Kostenerstattung
 
-(1) Die zuständige Behörde erhebt für Amtshandlungen nach diesem
-Gesetz oder der Verordnung (EG) Nr. 2006/2004 kostendeckende Gebühren
-und Auslagen.
+(1) Die zuständige Behörde erhebt für individuell zurechenbare
+öffentliche Leistungen nach diesem Gesetz oder der Verordnung (EG) Nr.
+2006/2004 kostendeckende Gebühren und Auslagen.
 
 (2) Soweit die Kosten der nach § 2 Nr. 2 zuständigen Behörde nicht
 durch Gebühren und Auslagen nach Absatz 1, gesonderte Erstattung nach
@@ -431,26 +430,30 @@ Finanzdienstleistungsinstitute nach § 2 Nr. 2 Buchstabe b dem
 Aufsichtsbereich des Kredit- und Finanzdienstleistungswesens
 zuzuordnen.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, das Bundesministerium der Finanzen und das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung werden jeweils
-für ihren Geschäftsbereich ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
-Gebührensätze zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen sowie Regelungen über Erhöhungen, Ermäßigungen und
-Befreiungen für bestimmte Arten von Amtshandlungen vorzusehen und den
+(4) Das Bundesministerium der Justiz und für Verbraucherschutz, das
+Bundesministerium der Finanzen und das Bundesministerium für Verkehr
+und digitale Infrastruktur werden jeweils für ihren Geschäftsbereich
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände und die Gebührensätze zu bestimmen und
+dabei feste Sätze oder Rahmensätze vorzusehen sowie Regelungen über
+Erhöhungen, Ermäßigungen und Befreiungen für bestimmte Arten von
+individuell zurechenbaren öffentlichen Leistungen vorzusehen und den
 Zeitpunkt des Entstehens und der Erhebung der Gebühr näher zu
-bestimmen, soweit dieses Gesetz durch die in § 2 Nr. 1, 2 oder 3
+bestimmen, soweit dieses Gesetz durch die in § 2 Nummer 1, 2, 3 oder 5
 genannten Behörden ausgeführt wird.
 
-(5) Die nach Absatz 4 zuständigen Bundesministerien können jeweils die
-Ermächtigung zum Erlass der Rechtsverordnung nach Absatz 4 durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auf die zu ihrem
-Geschäftsbereich gehörende zuständige Behörde nach § 2 Nr. 1, 2 oder 3
-übertragen.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz, das
+Bundesministerium der Finanzen und das Bundesministerium für Verkehr
+und digitale Infrastruktur werden jeweils ermächtigt, für den Bereich
+der Bundesverwaltung durch Besondere Gebührenverordnung nach § 22
+Absatz 4 des Bundesgebührengesetzes den Zeitpunkt des Entstehens und
+der Erhebung der Gebühr näher zu bestimmen.
 
-(6) Für die Amtshandlungen der nach Landesrecht zuständigen Behörden
-werden die Bestimmungen nach Absatz 4 durch Landesrecht getroffen.
+(6) Die nach Absatz 4 und 5 zuständigen Bundesministerien können
+jeweils die Ermächtigung zum Erlass der Rechtsverordnung nach Absatz 4
+und 5 durch Rechtsverordnung ohne Zustimmung des Bundesrates auf die
+zu ihrem Geschäftsbereich gehörende zuständige Behörde nach § 2 Nummer
+2, 3 oder 5 übertragen.
 
 
 ## Abschnitt 4 - Anpassung an geändertes Gemeinschaftsrecht
@@ -459,20 +462,18 @@ werden die Bestimmungen nach Absatz 4 durch Landesrecht getroffen.
 
 ### § 12 Ermächtigung zur Anpassung
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates dem Bundesamt für Verbraucherschutz und
-Lebensmittelsicherheit die Zuständigkeit für die Durchführung der
-Verordnung (EG) Nr. 2006/2004 zu übertragen, soweit weitere Rechtsakte
-der Europäischen Gemeinschaft oder der Europäischen Union in den
+(1) Soweit weitere Rechtsakte der Europäischen Union in den
 Anwendungsbereich der Verordnung (EG) Nr. 2006/2004 einbezogen worden
-sind. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2 Nummer 2
-und 4 unberührt.
+sind, wird das Bundesministerium der Justiz und für Verbraucherschutz
+ermächtigt, die Zuständigkeit für die Durchführung der Verordnung (EG)
+Nr. 2006/2004 im Einvernehmen mit dem Bundesministerium der Finanzen
+durch Rechtsverordnung ohne Zustimmung des Bundesrates auf sich zu
+übertragen. Im Falle einer Rechtsverordnung nach Satz 1 bleibt § 2
+Nummer 2 und 4 unberührt.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ferner ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ferner ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates
 
 1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 2006/2004 in
     diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser
@@ -510,8 +511,8 @@ bleiben die Vorschriften über Rechtsbehelfe bei Verwaltungsmaßnahmen
 unberührt.
 
 (2) Die zuständige Behörde hat einer Entscheidung im Sinne des
-Absatzes 1 Satz 1 eine Rechtsbehelfsbelehrung entsprechend § 59 der
-Verwaltungsgerichtsordnung beizufügen. § 58 der
+Absatzes 1 Satz 1 eine Rechtsbehelfsbelehrung nach § 37 Absatz 6 des
+Verwaltungsverfahrensgesetzes beizufügen. § 58 der
 Verwaltungsgerichtsordnung gilt entsprechend.
 
 (3) Die Beschwerde ist nur zulässig, wenn der Antragsteller geltend

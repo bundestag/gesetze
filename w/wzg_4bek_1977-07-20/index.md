@@ -23,8 +23,7 @@ Zuletzt geändert durch
 
 
 1.  Auf Grund des § 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung
-    der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29)
-    ...
+    der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) ...
 
 
 2.  Ferner wird auf Grund des § 4 Abs. 2 Nr. 3a desselben Gesetzes
@@ -59,9 +58,8 @@ Der Bundesminister der Justiz
 
 ## Anlage 2 Bezeichnungen und Kennzeichen der Europäischen Weltraumbehörde
 
-(Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
 Fundstelle: BGBl. I 1977, 1346)
-
+![bgbl1_1977_j1346_0010.jpg](bgbl1_1977_j1346_0010.jpg)
 
 ## Anlage 3
 

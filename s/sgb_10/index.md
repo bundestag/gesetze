@@ -20,7 +20,34 @@ Neugefasst durch
 :   Bek. v. 18. 1.2001 I 130;
 
 Zuletzt geändert durch
-:   Art. 8 G v. 21.7.2012 I 1566
+:   Art. 6 G v. 11.11.2016 I 2500
+
+Änderung durch
+:   Art. 20 Abs. 8 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 5 Abs. 7 G v. 10.3.2017 I 410 ist berücksichtigt
+
+Änderung durch
+:   Art. 166 G v. 29.3.2017 I 626 ist berücksichtigt
+
+Änderung durch
+:   Art. 6 Abs. 2 G v. 11.6.2017 I 1607 ist berücksichtigt
+
+Änderung durch
+:   Art. 11 G v. 23.6.2017 I 1822 ist berücksichtigt
+
+Änderung durch
+:   Art. 24 G v. 17.7.2017 I 2541 ist berücksichtigt
+
+Änderung durch
+:   Art. 2 Abs. 6 G v. 18.7.2017 I 2739 ist berücksichtigt
+
+Änderung durch
+:   Art. 10 Abs. 11 G v. 30.10.2017 I 3618 ist berücksichtigt
+
+Änderung durch
+:   Art. 1a G v. 10.7.2018 I 1117 ist berücksichtigt
 
 
 ## Erstes Kapitel - Verwaltungsverfahren
@@ -471,10 +498,10 @@ und Beschlussfassung nicht zugegen sein.
 
 (5) Angehörige im Sinne des Absatzes 1 Nr. 2 und 4 sind
 
-1.  der Verlobte,
+1.  der Verlobte, auch im Sinne des Lebenspartnerschaftsgesetzes,
 
 
-2.  der Ehegatte,
+2.  der Ehegatte oder Lebenspartner,
 
 
 3.  Verwandte und Verschwägerte gerader Linie,
@@ -486,7 +513,8 @@ und Beschlussfassung nicht zugegen sein.
 5.  Kinder der Geschwister,
 
 
-6.  Ehegatten der Geschwister und Geschwister der Ehegatten,
+6.  Ehegatten oder Lebenspartner der Geschwister und Geschwister der
+    Ehegatten oder Lebenspartner,
 
 
 7.  Geschwister der Eltern,
@@ -501,7 +529,7 @@ und Beschlussfassung nicht zugegen sein.
 Angehörige sind die in Satz 1 aufgeführten Personen auch dann, wenn
 
 1.  in den Fällen der Nummern 2, 3 und 6 die die Beziehung begründende Ehe
-    nicht mehr besteht,
+    oder Lebenspartnerschaft nicht mehr besteht,
 
 
 2.  in den Fällen der Nummern 3 bis 7 die Verwandtschaft oder
@@ -551,10 +579,18 @@ auf Grund von Rechtsvorschriften
 
 ##### § 19 Amtssprache
 
-(1) Die Amtssprache ist deutsch. Hörbehinderte Menschen haben das
-Recht, zur Verständigung in der Amtssprache Gebärdensprache zu
-verwenden; Aufwendungen für Dolmetscher sind von der Behörde oder dem
-für die Sozialleistung zuständigen Leistungsträger zu tragen.
+(1) Die Amtssprache ist deutsch. Menschen mit Hörbehinderungen und
+Menschen mit Sprachbehinderungen haben das Recht, in Deutscher
+Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere
+geeignete Kommunikationshilfen zu kommunizieren; Kosten für
+Kommunikationshilfen sind von der Behörde oder dem für die
+Sozialleistung zuständigen Leistungsträger zu tragen. § 5 der
+Kommunikationshilfenverordnung in der jeweils geltenden Fassung gilt
+entsprechend.
+
+(1a) § 11 des Behindertengleichstellungsgesetzes gilt in seiner
+jeweils geltenden Fassung für das Sozialverwaltungsverfahren
+entsprechend.
 
 (2) Werden bei einer Behörde in einer fremden Sprache Anträge gestellt
 oder Eingaben, Belege, Urkunden oder sonstige Dokumente vorgelegt,
@@ -567,8 +603,9 @@ angefertigten Übersetzung verlangt werden. Wird die verlangte
 Übersetzung nicht innerhalb der gesetzten Frist vorgelegt, kann die
 Behörde eine Übersetzung beschaffen und hierfür Ersatz ihrer
 Aufwendungen in angemessenem Umfang verlangen. Falls die Behörde
-Dolmetscher oder Übersetzer herangezogen hat, erhalten sie auf Antrag
-in entsprechender Anwendung des Justizvergütungs- und
+Dolmetscher oder Übersetzer herangezogen hat, die nicht
+Kommunikationshilfe im Sinne von Absatz 1 Satz 2 sind, erhalten sie
+auf Antrag in entsprechender Anwendung des Justizvergütungs- und
 -entschädigungsgesetzes eine Vergütung; mit Dolmetschern oder
 Übersetzern kann die Behörde eine Vergütung vereinbaren.
 
@@ -612,7 +649,8 @@ oder unbegründet hält.
 pflichtgemäßem Ermessen zur Ermittlung des Sachverhalts für
 erforderlich hält. Sie kann insbesondere
 
-1.  Auskünfte jeder Art einholen,
+1.  Auskünfte jeder Art, auch elektronisch und als elektronisches
+    Dokument, einholen,
 
 
 2.  Beteiligte anhören, Zeugen und Sachverständige vernehmen oder die
@@ -627,6 +665,9 @@ erforderlich hält. Sie kann insbesondere
 
 
 
+Urkunden und Akten können auch in elektronischer Form beigezogen
+werden, es sei denn, durch Rechtsvorschrift ist etwas anderes
+bestimmt.
 
 (2) Die Beteiligten sollen bei der Ermittlung des Sachverhalts
 mitwirken. Sie sollen insbesondere ihnen bekannte Tatsachen und
@@ -820,8 +861,13 @@ die Behörde, die die Akten führt, gestatten.
 
 (5) Soweit die Akteneinsicht zu gestatten ist, können die Beteiligten
 Auszüge oder Abschriften selbst fertigen oder sich Ablichtungen durch
-die Behörde erteilen lassen. Die Behörde kann Ersatz ihrer
-Aufwendungen in angemessenem Umfang verlangen.
+die Behörde erteilen lassen. Soweit die Akteneinsicht in eine
+elektronische Akte zu gestatten ist, kann die Behörde Akteneinsicht
+gewähren, indem sie Unterlagen ganz oder teilweise ausdruckt,
+elektronische Dokumente auf einem Bildschirm wiedergibt, elektronische
+Dokumente zur Verfügung stellt oder den elektronischen Zugriff auf den
+Inhalt der Akte gestattet. Die Behörde kann Ersatz ihrer Aufwendungen
+in angemessenem Umfang verlangen.
 
 
 #### Zweiter Titel - Fristen, Termine, Wiedereinsetzung
@@ -1018,6 +1064,11 @@ für das Ausgangsdokument enthalten.
 (6) Die nach Absatz 4 hergestellten Dokumente stehen, sofern sie
 beglaubigt sind, beglaubigten Abschriften gleich.
 
+(7) Soweit eine Behörde über die technischen Möglichkeiten verfügt,
+kann sie von Urkunden, die sie selbst ausgestellt hat, auf Verlangen
+ein elektronisches Dokument nach Absatz 4 Nummer 4 Buchstabe a oder
+eine elektronische Abschrift fertigen und beglaubigen.
+
 
 ##### § 30 Beglaubigung von Unterschriften
 
@@ -1092,6 +1143,16 @@ bestimmten oder bestimmbaren Personenkreis richtet oder die
 durch die Allgemeinheit betrifft.
 
 
+##### § 31a Vollständig automatisierter Erlass eines Verwaltungsaktes
+
+Ein Verwaltungsakt kann vollständig durch automatische Einrichtungen
+erlassen werden, sofern kein Anlass besteht, den Einzelfall durch
+Amtsträger zu bearbeiten. Setzt die Behörde automatische Einrichtungen
+zum Erlass von Verwaltungsakten ein, muss sie für den Einzelfall
+bedeutsame tatsächliche Angaben des Beteiligten berücksichtigen, die
+im automatischen Verfahren nicht ermittelt würden.
+
+
 ##### § 32 Nebenbestimmungen zum Verwaltungsakt
 
 (1) Ein Verwaltungsakt, auf den ein Anspruch besteht, darf mit einer
@@ -1151,7 +1212,10 @@ Beauftragten enthalten. Wird für einen Verwaltungsakt, für den durch
 Rechtsvorschrift die Schriftform angeordnet ist, die elektronische
 Form verwendet, muss auch das der Signatur zugrunde liegende
 qualifizierte Zertifikat oder ein zugehöriges qualifiziertes
-Attributzertifikat die erlassende Behörde erkennen lassen.
+Attributzertifikat die erlassende Behörde erkennen lassen. Im Fall des
+§ 36a Absatz 2 Satz 4 Nummer 3 des Ersten Buches muss die Bestätigung
+nach § 5 Absatz 5 des De-Mail-Gesetzes die erlassende Behörde als
+Nutzer des De-Mail-Kontos erkennen lassen.
 
 (4) Für einen Verwaltungsakt kann für die nach § 36a Abs. 2 des Ersten
 Buches erforderliche Signatur durch Rechtsvorschrift die dauerhafte
@@ -1240,7 +1304,10 @@ Erlässt die Behörde einen schriftlichen Verwaltungsakt oder bestätigt
 sie schriftlich einen Verwaltungsakt, ist der durch ihn beschwerte
 Beteiligte über den Rechtsbehelf und die Behörde oder das Gericht, bei
 denen der Rechtsbehelf anzubringen ist, deren Sitz, die einzuhaltende
-Frist und die Form schriftlich zu belehren.
+Frist und die Form schriftlich zu belehren. Erlässt die Behörde einen
+elektronischen Verwaltungsakt oder bestätigt sie elektronisch einen
+Verwaltungsakt, hat die Rechtsbehelfsbelehrung nach Satz 1
+elektronisch zu erfolgen.
 
 
 ##### § 37 Bekanntgabe des Verwaltungsaktes
@@ -1258,6 +1325,19 @@ als bekannt gegeben. Dies gilt nicht, wenn der Verwaltungsakt nicht
 oder zu einem späteren Zeitpunkt zugegangen ist; im Zweifel hat die
 Behörde den Zugang des Verwaltungsaktes und den Zeitpunkt des Zugangs
 nachzuweisen.
+
+(2a) Mit Einwilligung des Beteiligten können elektronische
+Verwaltungsakte dadurch bekannt gegeben werden, dass sie von dem
+Beteiligten oder seinem Bevollmächtigten über öffentlich zugängliche
+Netze abgerufen werden. Die Behörde hat zu gewährleisten, dass der
+Abruf nur nach Authentifizierung der berechtigten Person möglich ist
+und der elektronische Verwaltungsakt von ihr gespeichert werden kann.
+Der Verwaltungsakt gilt am Tag nach dem Abruf als bekannt gegeben.
+Wird der Verwaltungsakt nicht innerhalb von zehn Tagen nach Absenden
+einer Benachrichtigung über die Bereitstellung abgerufen, wird diese
+beendet. In diesem Fall ist die Bekanntgabe nicht bewirkt; die
+Möglichkeit einer erneuten Bereitstellung zum Abruf oder der
+Bekanntgabe auf andere Weise bleibt unberührt.
 
 (3) Ein Verwaltungsakt darf öffentlich bekannt gegeben werden, wenn
 dies durch Rechtsvorschrift zugelassen ist. Eine Allgemeinverfügung
@@ -1932,9 +2012,9 @@ Grundlage des § 74a Abs. 2 Satz 1 erteilte Auskunft eine Gebühr von
 
 (2) Geschäfte und Verhandlungen, die aus Anlass der Beantragung,
 Erbringung oder der Erstattung einer Sozialleistung nötig werden, sind
-kostenfrei. Dies gilt auch für die in der Kostenordnung bestimmten
-Gerichtskosten. Von Beurkundungs- und Beglaubigungskosten sind befreit
-Urkunden, die
+kostenfrei. Dies gilt auch für die im Gerichts- und Notarkostengesetz
+bestimmten Gerichtskosten. Von Beurkundungs- und Beglaubigungskosten
+sind befreit Urkunden, die
 
 1.  in der Sozialversicherung bei den Versicherungsträgern und
     Versicherungsbehörden erforderlich werden, um die Rechtsverhältnisse
@@ -1983,11 +2063,11 @@ bundesunmittelbaren Körperschaften, Anstalten und Stiftungen des
 öffentlichen Rechts vorgeschrieben sind, gelten die §§ 2 bis 10 des
 Verwaltungszustellungsgesetzes. § 5 Abs. 4 des
 Verwaltungszustellungsgesetzes und § 178 Abs. 1 Nr. 2 der
-Zivilprozessordnung sind auf die nach § 73 Abs. 6 Satz 3 und 4 des
-Sozialgerichtsgesetzes als Bevollmächtigte zugelassenen Personen
-entsprechend anzuwenden. Diese Vorschriften gelten auch, soweit
-Zustellungen durch Verwaltungsbehörden der Kriegsopferversorgung
-vorgeschrieben sind.
+Zivilprozessordnung sind auf die nach § 73 Absatz 2 Satz 2 Nummer 5
+bis 9 und Satz 3 des Sozialgerichtsgesetzes als Bevollmächtigte
+zugelassenen Personen entsprechend anzuwenden. Diese Vorschriften
+gelten auch, soweit Zustellungen durch Verwaltungsbehörden der
+Kriegsopferversorgung vorgeschrieben sind.
 
 (2) Für die übrigen Behörden gelten die jeweiligen landesrechtlichen
 Vorschriften über das Zustellungsverfahren.
@@ -2061,15 +2141,21 @@ Satz 3 an die Stelle der Aufsichtsbehörden der Vorstand.
 
 #### § 67 Begriffsbestimmungen
 
-(1) Sozialdaten sind Einzelangaben über persönliche oder sachliche
-Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person
-(Betroffener), die von einer in § 35 des Ersten Buches genannten
-Stelle im Hinblick auf ihre Aufgaben nach diesem Gesetzbuch erhoben,
-verarbeitet oder genutzt werden. Betriebs- und Geschäftsgeheimnisse
-sind alle betriebs- oder geschäftsbezogenen Daten, auch von
-juristischen Personen, die Geheimnischarakter haben.
+(1) Die nachfolgenden Begriffsbestimmungen gelten ergänzend zu Artikel
+4 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des
+Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72).
 
-(2) Aufgaben nach diesem Gesetzbuch sind, soweit dieses Kapitel
+(2) Sozialdaten sind personenbezogene Daten (Artikel 4 Nummer 1 der
+Verordnung (EU) 2016/679), die von einer in § 35 des Ersten Buches
+genannten Stelle im Hinblick auf ihre Aufgaben nach diesem Gesetzbuch
+verarbeitet werden. Betriebs- und Geschäftsgeheimnisse sind alle
+betriebs- oder geschäftsbezogenen Daten, auch von juristischen
+Personen, die Geheimnischarakter haben.
+
+(3) Aufgaben nach diesem Gesetzbuch sind, soweit dieses Kapitel
 angewandt wird, auch
 
 1.  Aufgaben auf Grund von Verordnungen, deren Ermächtigungsgrundlage sich
@@ -2080,142 +2166,59 @@ angewandt wird, auch
     der sozialen Sicherheit,
 
 
-3.  Aufgaben auf Grund von Rechtsvorschriften, die das Erste und Zehnte
-    Buch des Sozialgesetzbuches für entsprechend anwendbar erklären, und
+3.  Aufgaben auf Grund von Rechtsvorschriften, die das Erste und das
+    Zehnte Buch für entsprechend anwendbar erklären, und
 
 
 4.  Aufgaben auf Grund des Arbeitssicherheitsgesetzes und Aufgaben, soweit
     sie den in § 35 des Ersten Buches genannten Stellen durch Gesetz
-    zugewiesen sind. § 8 Abs. 1 Satz 3 des Arbeitssicherheitsgesetzes
+    zugewiesen sind. § 8 Absatz 1 Satz 3 des Arbeitssicherheitsgesetzes
     bleibt unberührt.
 
 
 
 
-(3) Automatisiert im Sinne dieses Gesetzbuches ist die Erhebung,
-Verarbeitung oder Nutzung von Sozialdaten, wenn sie unter Einsatz von
-Datenverarbeitungsanlagen durchgeführt wird (automatisierte
-Verarbeitung). Eine nicht automatisierte Datei ist jede nicht
-automatisierte Sammlung von Sozialdaten, die gleichartig aufgebaut ist
-und nach bestimmten Merkmalen zugänglich ist und ausgewertet werden
-kann.
-
-(4) (weggefallen)
-
-(5) Erheben ist das Beschaffen von Daten über den Betroffenen.
-
-(6) Verarbeiten ist das Speichern, Verändern, Übermitteln, Sperren und
-Löschen von Sozialdaten. Im Einzelnen ist, ungeachtet der dabei
-angewendeten Verfahren,
-
-1.  Speichern das Erfassen, Aufnehmen oder Aufbewahren von Sozialdaten auf
-    einem Datenträger zum Zwecke ihrer weiteren Verarbeitung oder Nutzung,
-
-
-2.  Verändern das inhaltliche Umgestalten gespeicherter Sozialdaten,
-
-
-3.  Übermitteln das Bekanntgeben gespeicherter oder durch
-    Datenverarbeitung gewonnener Sozialdaten an einen Dritten in der
-    Weise, dass
-
-    a)  die Daten an den Dritten weitergegeben werden oder
-
-
-    b)  der Dritte zur Einsicht oder zum Abruf bereitgehaltene Daten einsieht
-        oder abruft;
-
-
-
-
-    Übermitteln im Sinne dieses Gesetzbuches ist auch das Bekanntgeben
-    nicht gespeicherter Sozialdaten,
-
-
-4.  Sperren das vollständige oder teilweise Untersagen der weiteren
-    Verarbeitung oder Nutzung von Sozialdaten durch entsprechende
-    Kennzeichnung,
-
-
-5.  Löschen das Unkenntlichmachen gespeicherter Sozialdaten.
-
-
-
-
-(7) Nutzen ist jede Verwendung von Sozialdaten, soweit es sich nicht
-um Verarbeitung handelt, auch die Weitergabe innerhalb der
-verantwortlichen Stelle.
-
-(8) Anonymisieren ist das Verändern von Sozialdaten derart, dass die
-Einzelangaben über persönliche oder sachliche Verhältnisse nicht mehr
-oder nur mit einem unverhältnismäßig großen Aufwand an Zeit, Kosten
-und Arbeitskraft einer bestimmten oder bestimmbaren natürlichen Person
-zugeordnet werden können.
-
-(8a) Pseudonymisieren ist das Ersetzen des Namens und anderer
-Identifikationsmerkmale durch ein Kennzeichen zu dem Zweck, die
-Bestimmung des Betroffenen auszuschließen oder wesentlich zu
-erschweren.
-
-(9) Verantwortliche Stelle ist jede Person oder Stelle, die
-Sozialdaten für sich selbst erhebt, verarbeitet oder nutzt oder dies
-durch andere im Auftrag vornehmen lässt. Werden Sozialdaten von einem
-Leistungsträger im Sinne von § 12 des Ersten Buches erhoben,
-verarbeitet oder genutzt, ist verantwortliche Stelle der
+(4) Werden Sozialdaten von einem Leistungsträger im Sinne von § 12 des
+Ersten Buches verarbeitet, ist der Verantwortliche der
 Leistungsträger. Ist der Leistungsträger eine Gebietskörperschaft, so
-sind eine verantwortliche Stelle die Organisationseinheiten, die eine
-Aufgabe nach einem der besonderen Teile dieses Gesetzbuches funktional
+sind der Verantwortliche die Organisationseinheiten, die eine Aufgabe
+nach einem der besonderen Teile dieses Gesetzbuches funktional
 durchführen.
 
-(10) Empfänger ist jede Person oder Stelle, die Sozialdaten erhält.
-Dritter ist jede Person oder Stelle außerhalb der verantwortlichen
-Stelle. Dritte sind nicht der Betroffene sowie diejenigen Personen und
-Stellen, die im Inland, in einem anderen Mitgliedstaat der
-Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
-über den Europäischen Wirtschaftsraum Sozialdaten im Auftrag erheben,
-verarbeiten oder nutzen.
-
-(11) Nicht-öffentliche Stellen sind natürliche und juristische
+(5) Nicht-öffentliche Stellen sind natürliche und juristische
 Personen, Gesellschaften und andere Personenvereinigungen des privaten
-Rechts, soweit sie nicht unter § 81 Abs. 3 fallen.
-
-(12) Besondere Arten personenbezogener Daten sind Angaben über die
-rassische und ethnische Herkunft, politische Meinungen, religiöse oder
-philosophische Überzeugungen, Gewerkschaftszugehörigkeit, Gesundheit
-oder Sexualleben.
+Rechts, soweit sie nicht unter § 81 Absatz 3 fallen.
 
 
-### Zweiter Abschnitt - Datenerhebung, -verarbeitung und -nutzung
+### Zweiter Abschnitt - Verarbeitung von Sozialdaten
 
 
 
-#### § 67a Datenerhebung
+#### § 67a Erhebung von Sozialdaten
 
-(1) Das Erheben von Sozialdaten durch in § 35 des Ersten Buches
-genannte Stellen ist zulässig, wenn ihre Kenntnis zur Erfüllung einer
+(1) Die Erhebung von Sozialdaten durch die in § 35 des Ersten Buches
+genannten Stellen ist zulässig, wenn ihre Kenntnis zur Erfüllung einer
 Aufgabe der erhebenden Stelle nach diesem Gesetzbuch erforderlich ist.
-Dies gilt auch für besondere Arten personenbezogener Daten (§ 67 Abs.
-12). Angaben über die rassische Herkunft dürfen ohne Einwilligung des
-Betroffenen, die sich ausdrücklich auf diese Daten beziehen muss,
-nicht erhoben werden. Ist die Einwilligung des Betroffenen durch
-Gesetz vorgesehen, hat sie sich ausdrücklich auf besondere Arten
-personenbezogener Daten (§ 67 Abs. 12) zu beziehen.
+Dies gilt auch für die Erhebung der besonderen Kategorien
+personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der
+Verordnung (EU) 2016/679. § 22 Absatz 2 des Bundesdatenschutzgesetzes
+gilt entsprechend.
 
-(2) Sozialdaten sind beim Betroffenen zu erheben. Ohne seine
+(2) Sozialdaten sind bei der betroffenen Person zu erheben. Ohne ihre
 Mitwirkung dürfen sie nur erhoben werden
 
-1.  bei den in § 35 des Ersten Buches oder in § 69 Abs. 2 genannten
+1.  bei den in § 35 des Ersten Buches oder in § 69 Absatz 2 genannten
     Stellen, wenn
 
     a)  diese zur Übermittlung der Daten an die erhebende Stelle befugt sind,
 
 
-    b)  die Erhebung beim Betroffenen einen unverhältnismäßigen Aufwand
-        erfordern würde und
+    b)  die Erhebung bei der betroffenen Person einen unverhältnismäßigen
+        Aufwand erfordern würde und
 
 
     c)  keine Anhaltspunkte dafür bestehen, dass überwiegende schutzwürdige
-        Interessen des Betroffenen beeinträchtigt werden,
+        Interessen der betroffenen Person beeinträchtigt werden,
 
 
 
@@ -2232,14 +2235,13 @@ Mitwirkung dürfen sie nur erhoben werden
             anderen Personen oder Stellen erforderlich machen oder
 
 
-        bb) die Erhebung beim Betroffenen einen unverhältnismäßigen Aufwand
-            erfordern würde
-
+        bb) die Erhebung bei der betroffenen Person einen unverhältnismäßigen
+            Aufwand erfordern würde
 
 
 
         und keine Anhaltspunkte dafür bestehen, dass überwiegende
-        schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
+        schutzwürdige Interessen der betroffenen Person beeinträchtigt werden.
 
 
 
@@ -2247,161 +2249,70 @@ Mitwirkung dürfen sie nur erhoben werden
 
 
 
-(3) Werden Sozialdaten beim Betroffenen erhoben, ist er, sofern er
-nicht bereits auf andere Weise Kenntnis erlangt hat, über die
-Zweckbestimmungen der Erhebung, Verarbeitung oder Nutzung und die
-Identität der verantwortlichen Stelle zu unterrichten. Über Kategorien
-von Empfängern ist der Betroffene nur zu unterrichten, soweit
 
-1.  er nach den Umständen des Einzelfalles nicht mit der Nutzung oder der
-    Übermittlung an diese rechnen muss,
+#### § 67b Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung der Verarbeitung und Löschung von Sozialdaten
 
+(1) Die Speicherung, Veränderung, Nutzung, Übermittlung, Einschränkung
+der Verarbeitung und Löschung von Sozialdaten durch die in § 35 des
+Ersten Buches genannten Stellen ist zulässig, soweit die nachfolgenden
+Vorschriften oder eine andere Rechtsvorschrift in diesem Gesetzbuch es
+erlauben oder anordnen. Dies gilt auch für die besonderen Kategorien
+personenbezogener Daten im Sinne des Artikels 9 Absatz 1 der
+Verordnung (EU) 2016/679. Die Übermittlung von biometrischen,
+genetischen oder Gesundheitsdaten ist abweichend von Artikel 9 Absatz
+2 Buchstabe b, d bis j der Verordnung (EU) 2016/679 nur zulässig,
+soweit eine gesetzliche Übermittlungsbefugnis nach den §§ 68 bis 77
+oder nach einer anderen Rechtsvorschrift in diesem Gesetzbuch
+vorliegt. § 22 Absatz 2 des Bundesdatenschutzgesetzes gilt
+entsprechend.
 
-2.  es sich nicht um eine Verarbeitung oder Nutzung innerhalb einer in §
-    35 des Ersten Buches genannten Stelle oder einer Organisationseinheit
-    im Sinne von § 67 Abs. 9 Satz 3 handelt oder
+(2) Zum Nachweis im Sinne des Artikels 7 Absatz 1 der Verordnung (EU)
+2016/679, dass die betroffene Person in die Verarbeitung ihrer
+personenbezogenen Daten eingewilligt hat, soll die Einwilligung
+schriftlich oder elektronisch erfolgen. Wird die Einwilligung der
+betroffenen Person eingeholt, ist diese auf den Zweck der vorgesehenen
+Verarbeitung, auf die Folgen der Verweigerung der Einwilligung sowie
+auf die jederzeitige Widerrufsmöglichkeit gemäß Artikel 7 Absatz 3 der
+Verordnung (EU) 2016/679 hinzuweisen.
 
-
-3.  es sich nicht um eine Kategorie von in § 35 des Ersten Buches
-    genannten Stellen oder von Organisationseinheiten im Sinne von § 67
-    Abs. 9 Satz 3 handelt, die auf Grund eines Gesetzes zur engen
-    Zusammenarbeit verpflichtet sind.
-
-
-
-Werden Sozialdaten beim Betroffenen auf Grund einer Rechtsvorschrift
-erhoben, die zur Auskunft verpflichtet, oder ist die Erteilung der
-Auskunft Voraussetzung für die Gewährung von Rechtsvorteilen, ist der
-Betroffene hierauf sowie auf die Rechtsvorschrift, die zur Auskunft
-verpflichtet, und die Folgen der Verweigerung von Angaben, sonst auf
-die Freiwilligkeit seiner Angaben hinzuweisen.
-
-(4) Werden Sozialdaten statt beim Betroffenen bei einer nicht-
-öffentlichen Stelle erhoben, so ist die Stelle auf die
-Rechtsvorschrift, die zur Auskunft verpflichtet, sonst auf die
-Freiwilligkeit ihrer Angaben hinzuweisen.
-
-(5) Werden Sozialdaten weder beim Betroffenen noch bei einer in § 35
-des Ersten Buches genannten Stelle erhoben und hat der Betroffene
-davon keine Kenntnis, ist er von der Speicherung, der Identität der
-verantwortlichen Stelle sowie über die Zweckbestimmungen der Erhebung,
-Verarbeitung oder Nutzung zu unterrichten. Eine Pflicht zur
-Unterrichtung besteht nicht, wenn
-
-1.  der Betroffene bereits auf andere Weise Kenntnis von der Speicherung
-    oder der Übermittlung erlangt hat,
+(3) Die Einwilligung zur Verarbeitung personenbezogener Daten zu
+Forschungszwecken kann für ein bestimmtes Vorhaben oder für bestimmte
+Bereiche der wissenschaftlichen Forschung erteilt werden.
 
 
-2.  die Unterrichtung des Betroffenen einen unverhältnismäßigen Aufwand
-    erfordert oder
+#### § 67c Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken
 
+(1) Die Speicherung, Veränderung oder Nutzung von Sozialdaten durch
+die in § 35 des Ersten Buches genannten Stellen ist zulässig, wenn sie
+zur Erfüllung der in der Zuständigkeit des Verantwortlichen liegenden
+gesetzlichen Aufgaben nach diesem Gesetzbuch erforderlich ist und für
+die Zwecke erfolgt, für die die Daten erhoben worden sind. Ist keine
+Erhebung vorausgegangen, dürfen die Daten nur für die Zwecke geändert
+oder genutzt werden, für die sie gespeichert worden sind.
 
-3.  die Speicherung oder Übermittlung der Sozialdaten auf Grund eines
-    Gesetzes ausdrücklich vorgesehen ist.
-
-
-
-Über Kategorien von Empfängern ist der Betroffene nur zu unterrichten,
-soweit
-
-1.  er nach den Umständen des Einzelfalles nicht mit der Nutzung oder der
-    Übermittlung an diese rechnen muss,
-
-
-2.  es sich nicht um eine Verarbeitung oder Nutzung innerhalb einer in §
-    35 des Ersten Buches genannten Stelle oder einer Organisationseinheit
-    im Sinne von § 67 Abs. 9 Satz 3 handelt oder
-
-
-3.  es sich nicht um eine Kategorie von in § 35 des Ersten Buches
-    genannten Stellen oder von Organisationseinheiten im Sinne von § 67
-    Abs. 9 Satz 3 handelt, die auf Grund eines Gesetzes zur engen
-    Zusammenarbeit verpflichtet sind.
-
-
-
-Sofern eine Übermittlung vorgesehen ist, hat die Unterrichtung
-spätestens bei der ersten Übermittlung zu erfolgen. Die
-verantwortliche Stelle legt schriftlich fest, unter welchen
-Voraussetzungen von einer Unterrichtung nach Satz 2 Nr. 2 und 3
-abgesehen wird. § 83 Abs. 2 bis 4 gilt entsprechend.
-
-
-#### § 67b Zulässigkeit der Datenverarbeitung und -nutzung
-
-(1) Die Verarbeitung von Sozialdaten und deren Nutzung sind nur
-zulässig, soweit die nachfolgenden Vorschriften oder eine andere
-Rechtsvorschrift in diesem Gesetzbuch es erlauben oder anordnen oder
-soweit der Betroffene eingewilligt hat. § 67a Abs. 1 Satz 2 bis 4 gilt
-entsprechend mit der Maßgabe, dass die Übermittlung ohne Einwilligung
-des Betroffenen nur insoweit zulässig ist, als es sich um Daten über
-die Gesundheit oder das Sexualleben handelt oder die Übermittlung
-zwischen Trägern der gesetzlichen Rentenversicherung oder zwischen
-Trägern der gesetzlichen Rentenversicherung und deren
-Arbeitsgemeinschaften zur Erfüllung einer gesetzlichen Aufgabe
-erforderlich ist.
-
-(2) Wird die Einwilligung bei dem Betroffenen eingeholt, ist er auf
-den Zweck der vorgesehenen Verarbeitung oder Nutzung sowie auf die
-Folgen der Verweigerung der Einwilligung hinzuweisen. Die Einwilligung
-des Betroffenen ist nur wirksam, wenn sie auf dessen freier
-Entscheidung beruht. Die Einwilligung und der Hinweis bedürfen der
-Schriftform, soweit nicht wegen besonderer Umstände eine andere Form
-angemessen ist. Soll die Einwilligung zusammen mit anderen Erklärungen
-schriftlich erteilt werden, ist die Einwilligungserklärung im äußeren
-Erscheinungsbild der Erklärung hervorzuheben.
-
-(3) Im Bereich der wissenschaftlichen Forschung liegt ein besonderer
-Umstand im Sinne des Absatzes 2 Satz 3 auch dann vor, wenn durch die
-Schriftform der bestimmte Forschungszweck erheblich beeinträchtigt
-würde. In diesem Fall sind der Hinweis nach Absatz 2 Satz 1 und die
-Gründe, aus denen sich die erhebliche Beeinträchtigung des bestimmten
-Forschungszweckes ergibt, schriftlich festzuhalten.
-
-(4) Entscheidungen, die für den Betroffenen eine rechtliche Folge nach
-sich ziehen oder ihn erheblich beeinträchtigen, dürfen nicht
-ausschließlich auf eine automatisierte Verarbeitung von Sozialdaten
-gestützt werden, die der Bewertung einzelner Persönlichkeitsmerkmale
-dient.
-
-
-#### § 67c Datenspeicherung, -veränderung und -nutzung
-
-(1) Das Speichern, Verändern oder Nutzen von Sozialdaten durch die in
-§ 35 des Ersten Buches genannten Stellen ist zulässig, wenn es zur
-Erfüllung der in der Zuständigkeit der verantwortlichen Stelle
-liegenden gesetzlichen Aufgaben nach diesem Gesetzbuch erforderlich
-ist und es für die Zwecke erfolgt, für die die Daten erhoben worden
-sind. Ist keine Erhebung vorausgegangen, dürfen die Daten nur für die
-Zwecke geändert oder genutzt werden, für die sie gespeichert worden
-sind.
-
-(2) Die nach Absatz 1 gespeicherten Daten dürfen von derselben Stelle
-für andere Zwecke nur gespeichert, verändert oder genutzt werden, wenn
+(2) Die nach Absatz 1 gespeicherten Daten dürfen von demselben
+Verantwortlichen für andere Zwecke nur gespeichert, verändert oder
+genutzt werden, wenn
 
 1.  die Daten für die Erfüllung von Aufgaben nach anderen
     Rechtsvorschriften dieses Gesetzbuches als diejenigen, für die sie
     erhoben wurden, erforderlich sind,
 
 
-2.  der Betroffene im Einzelfall eingewilligt hat oder
-
-
-3.  es zur Durchführung eines bestimmten Vorhabens der wissenschaftlichen
+2.  es zur Durchführung eines bestimmten Vorhabens der wissenschaftlichen
     Forschung oder Planung im Sozialleistungsbereich erforderlich ist und
-    die Voraussetzungen des § 75 Abs. 1 vorliegen.
+    die Voraussetzungen des § 75 Absatz 1, 2 oder 4a Satz 1 vorliegen.
 
 
 
 
-(3) Eine Speicherung, Veränderung oder Nutzung für andere Zwecke liegt
-nicht vor, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und
+(3) Eine Speicherung, Veränderung oder Nutzung von Sozialdaten ist
+zulässig, wenn sie für die Wahrnehmung von Aufsichts-, Kontroll- und
 Disziplinarbefugnissen, der Rechnungsprüfung oder der Durchführung von
-Organisationsuntersuchungen für die verantwortliche Stelle
-erforderlich ist. Das gilt auch für die Veränderung oder Nutzung zu
-Ausbildungs- und Prüfungszwecken durch die verantwortliche Stelle,
-soweit nicht überwiegende schutzwürdige Interessen des Betroffenen
-entgegenstehen.
+Organisationsuntersuchungen für den Verantwortlichen erforderlich ist.
+Das gilt auch für die Veränderung oder Nutzung zu Ausbildungs- und
+Prüfungszwecken durch den Verantwortlichen, soweit nicht überwiegende
+schutzwürdige Interessen der betroffenen Person entgegenstehen.
 
 (4) Sozialdaten, die ausschließlich zu Zwecken der
 Datenschutzkontrolle, der Datensicherung oder zur Sicherstellung eines
@@ -2424,29 +2335,24 @@ Forschungs- oder Planungszweck dies erfordert.
 
 #### § 67d Übermittlungsgrundsätze
 
-(1) Eine Übermittlung von Sozialdaten ist nur zulässig, soweit eine
-gesetzliche Übermittlungsbefugnis nach den §§ 68 bis 77 oder nach
-einer anderen Rechtsvorschrift in diesem Gesetzbuch vorliegt.
+(1) Die Verantwortung für die Zulässigkeit der Bekanntgabe von
+Sozialdaten durch ihre Weitergabe an einen Dritten oder durch die
+Einsichtnahme oder den Abruf eines Dritten von zur Einsicht oder zum
+Abruf bereitgehaltenen Daten trägt die übermittelnde Stelle. Erfolgt
+die Übermittlung auf Ersuchen des Dritten, an den die Daten
+übermittelt werden, trägt dieser die Verantwortung für die Richtigkeit
+der Angaben in seinem Ersuchen.
 
-(2) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
-übermittelnde Stelle. Erfolgt die Übermittlung auf Ersuchen des
-Dritten, an den die Daten übermittelt werden, trägt dieser die
-Verantwortung für die Richtigkeit der Angaben in seinem Ersuchen.
-
-(3) Sind mit Sozialdaten, die nach Absatz 1 übermittelt werden dürfen,
-weitere personenbezogene Daten des Betroffenen oder eines Dritten so
+(2) Sind mit Sozialdaten, die übermittelt werden dürfen, weitere
+personenbezogene Daten der betroffenen Person oder eines Dritten so
 verbunden, dass eine Trennung nicht oder nur mit unvertretbarem
 Aufwand möglich ist, so ist die Übermittlung auch dieser Daten nur
-zulässig, wenn schutzwürdige Interessen des Betroffenen oder eines
-Dritten an deren Geheimhaltung nicht überwiegen; eine Veränderung oder
-Nutzung dieser Daten ist unzulässig.
+zulässig, wenn schutzwürdige Interessen der betroffenen Person oder
+eines Dritten an deren Geheimhaltung nicht überwiegen; eine
+Veränderung oder Nutzung dieser Daten ist unzulässig.
 
-(4) Die Übermittlung von Sozialdaten auf maschinell verwertbaren
-Datenträgern oder im Wege der Datenübertragung ist auch über
-Vermittlungsstellen zulässig. Für die Auftragserteilung an die
-Vermittlungsstelle gilt § 80 Abs. 2 Satz 1, für deren Anzeigepflicht §
-80 Abs. 3 und für die Verarbeitung und Nutzung durch die
-Vermittlungsstelle § 80 Abs. 4 entsprechend.
+(3) Die Übermittlung von Sozialdaten ist auch über Vermittlungsstellen
+im Rahmen einer Auftragsverarbeitung zulässig.
 
 
 #### § 67e Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung
@@ -2467,17 +2373,17 @@ zusätzlich erfragt werden,
 3.  ob und welche Art von Beiträgen nach diesem Gesetzbuch sie abführt und
 
 
-4.  ob und welche ausländischen Arbeitnehmer sie mit einer für ihre
-    Tätigkeit erforderlichen Genehmigung und nicht zu ungünstigeren
-    Arbeitsbedingungen als vergleichbare deutsche Arbeitnehmer
-    beschäftigt.
+4.  ob und welche ausländischen Arbeitnehmerinnen und Arbeitnehmer sie mit
+    einer für ihre Tätigkeit erforderlichen Genehmigung und nicht zu
+    ungünstigeren Arbeitsbedingungen als vergleichbare deutsche
+    Arbeitnehmerinnen und Arbeitnehmer beschäftigt.
 
 
 
-Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nr. 1 an
-den jeweils zuständigen Leistungsträger und nach Satz 1 Nr. 2 bis 4 an
-die jeweils zuständige Einzugsstelle und die Bundesagentur für Arbeit
-übermittelt werden. Der Empfänger hat die Prüfung unverzüglich
+Zu Prüfzwecken dürfen die Antworten auf Fragen nach Satz 1 Nummer 1 an
+den jeweils zuständigen Leistungsträger und nach Satz 1 Nummer 2 bis 4
+an die jeweils zuständige Einzugsstelle und die Bundesagentur für
+Arbeit übermittelt werden. Der Empfänger hat die Prüfung unverzüglich
 durchzuführen.
 
 
@@ -2486,38 +2392,43 @@ durchzuführen.
 (1) Zur Erfüllung von Aufgaben der Polizeibehörden, der
 Staatsanwaltschaften und Gerichte, der Behörden der Gefahrenabwehr und
 der Justizvollzugsanstalten dürfen im Einzelfall auf Ersuchen Name,
-Vorname, Geburtsdatum, Geburtsort, derzeitige Anschrift des
-Betroffenen, sein derzeitiger oder zukünftiger Aufenthaltsort sowie
-Namen, Vornamen oder Firma und Anschriften seiner derzeitigen
+Vorname, Geburtsdatum, Geburtsort, derzeitige Anschrift der
+betroffenen Person, ihr derzeitiger oder zukünftiger Aufenthaltsort
+sowie Namen, Vornamen oder Firma und Anschriften ihrer derzeitigen
 Arbeitgeber übermittelt werden, soweit kein Grund zu der Annahme
-besteht, dass dadurch schutzwürdige Interessen des Betroffenen
+besteht, dass dadurch schutzwürdige Interessen der betroffenen Person
 beeinträchtigt werden, und wenn das Ersuchen nicht länger als sechs
-Monate zurückliegt. Die ersuchte Stelle ist über § 4 Abs. 3 hinaus zur
-Übermittlung auch dann nicht verpflichtet, wenn sich die ersuchende
-Stelle die Angaben auf andere Weise beschaffen kann. Satz 2 findet
-keine Anwendung, wenn das Amtshilfeersuchen zur Durchführung einer
-Vollstreckung nach § 66 erforderlich ist.
+Monate zurückliegt. Die ersuchte Stelle ist über § 4 Absatz 3 hinaus
+zur Übermittlung auch dann nicht verpflichtet, wenn sich die
+ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Satz 2
+findet keine Anwendung, wenn das Amtshilfeersuchen zur Durchführung
+einer Vollstreckung nach § 66 erforderlich ist.
 
-(1a) Zu dem in § 7 Abs. 2 des Internationalen
+(1a) Zu dem in § 7 Absatz 2 des Internationalen
 Familienrechtsverfahrensgesetzes bezeichneten Zweck ist es zulässig,
 der in dieser Vorschrift bezeichneten Zentralen Behörde auf Ersuchen
-im Einzelfall den derzeitigen Aufenthalt des Betroffenen zu
+im Einzelfall den derzeitigen Aufenthalt der betroffenen Person zu
 übermitteln, soweit kein Grund zur Annahme besteht, dass dadurch
-schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
+schutzwürdige Interessen der betroffenen Person beeinträchtigt werden.
 
-(2) Über das Übermittlungsersuchen entscheidet der Leiter der
-ersuchten Stelle, sein allgemeiner Stellvertreter oder ein besonders
-bevollmächtigter Bediensteter.
+(2) Über das Übermittlungsersuchen entscheidet der Leiter oder die
+Leiterin der ersuchten Stelle, dessen oder deren allgemeiner
+Stellvertreter oder allgemeine Stellvertreterin oder eine besonders
+bevollmächtigte bedienstete Person.
 
 (3) Eine Übermittlung der in Absatz 1 Satz 1 genannten Sozialdaten,
 von Angaben zur Staats- und Religionsangehörigkeit, früherer
-Anschriften der Betroffenen, von Namen und Anschriften früherer
-Arbeitgeber der Betroffenen sowie von Angaben über an Betroffene
-erbrachte oder demnächst zu erbringende Geldleistungen ist zulässig,
-soweit sie zur Durchführung einer nach Bundes- oder Landesrecht
-zulässigen Rasterfahndung erforderlich ist. § 67d Abs. 2 Satz 1 findet
-keine Anwendung; § 15 Abs. 2 Satz 2 und 3 des
-Bundesdatenschutzgesetzes gilt entsprechend.
+Anschriften der betroffenen Personen, von Namen und Anschriften
+früherer Arbeitgeber der betroffenen Personen sowie von Angaben über
+an betroffene Personen erbrachte oder demnächst zu erbringende
+Geldleistungen ist zulässig, soweit sie zur Durchführung einer nach
+Bundes- oder Landesrecht zulässigen Rasterfahndung erforderlich ist.
+Die Verantwortung für die Zulässigkeit der Übermittlung trägt
+abweichend von § 67d Absatz 1 Satz 1 der Dritte, an den die Daten
+übermittelt werden. Die übermittelnde Stelle prüft nur, ob das
+Übermittlungsersuchen im Rahmen der Aufgaben des Dritten liegt, an den
+die Daten übermittelt werden, es sei denn, dass besonderer Anlass zur
+Prüfung der Zulässigkeit der Übermittlung besteht.
 
 
 #### § 69 Übermittlung für die Erfüllung sozialer Aufgaben
@@ -2525,8 +2436,8 @@ Bundesdatenschutzgesetzes gilt entsprechend.
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist
 
-1.  für die Erfüllung der Zwecke, für die sie erhoben worden sind oder für
-    die Erfüllung einer gesetzlichen Aufgabe der übermittelnden Stelle
+1.  für die Erfüllung der Zwecke, für die sie erhoben worden sind, oder
+    für die Erfüllung einer gesetzlichen Aufgabe der übermittelnden Stelle
     nach diesem Gesetzbuch oder einer solchen Aufgabe des Dritten, an den
     die Daten übermittelt werden, wenn er eine in § 35 des Ersten Buches
     genannte Stelle ist,
@@ -2537,8 +2448,8 @@ erforderlich ist
     Strafverfahrens oder
 
 
-3.  für die Richtigstellung unwahrer Tatsachenbehauptungen des Betroffenen
-    im Zusammenhang mit einem Verfahren über die Erbringung von
+3.  für die Richtigstellung unwahrer Tatsachenbehauptungen der betroffenen
+    Person im Zusammenhang mit einem Verfahren über die Erbringung von
     Sozialleistungen; die Übermittlung bedarf der vorherigen Genehmigung
     durch die zuständige oberste Bundes- oder Landesbehörde.
 
@@ -2562,9 +2473,9 @@ genannten Stellen gleichgestellt
 
 
 2.  die gemeinsamen Einrichtungen der Tarifvertragsparteien im Sinne des §
-    4 Abs. 2 des Tarifvertragsgesetzes, die Zusatzversorgungseinrichtungen
-    des öffentlichen Dienstes und die öffentlich-rechtlichen
-    Zusatzversorgungseinrichtungen,
+    4 Absatz 2 des Tarifvertragsgesetzes, die
+    Zusatzversorgungseinrichtungen des öffentlichen Dienstes und die
+    öffentlich-rechtlichen Zusatzversorgungseinrichtungen,
 
 
 3.  die Bezügestellen des öffentlichen Dienstes, soweit sie
@@ -2589,7 +2500,7 @@ zulässig.
 
 (5) Die Übermittlung von Sozialdaten ist zulässig für die Erfüllung
 der gesetzlichen Aufgaben der Rechnungshöfe und der anderen Stellen,
-auf die § 67c Abs. 3 Satz 1 Anwendung findet.
+auf die § 67c Absatz 3 Satz 1 Anwendung findet.
 
 
 #### § 70 Übermittlung für die Durchführung des Arbeitsschutzes
@@ -2598,9 +2509,9 @@ Eine Übermittlung von Sozialdaten ist zulässig, soweit sie zur
 Erfüllung der gesetzlichen Aufgaben der für den Arbeitsschutz
 zuständigen staatlichen Behörden oder der Bergbehörden bei der
 Durchführung des Arbeitsschutzes erforderlich ist und schutzwürdige
-Interessen des Betroffenen nicht beeinträchtigt werden oder das
+Interessen der betroffenen Person nicht beeinträchtigt werden oder das
 öffentliche Interesse an der Durchführung des Arbeitsschutzes das
-Geheimhaltungsinteresse des Betroffenen erheblich überwiegt.
+Geheimhaltungsinteresse der betroffenen Person erheblich überwiegt.
 
 
 #### § 71 Übermittlung für die Erfüllung besonderer gesetzlicher Pflichten und Mitteilungsbefugnisse
@@ -2613,12 +2524,12 @@ Mitteilungspflichten
 
 
 2.  zum Schutz der öffentlichen Gesundheit nach § 8 des
-    Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045),
+    Infektionsschutzgesetzes,
 
 
-3.  zur Sicherung des Steueraufkommens nach § 22a Abs. 4 des
-    Einkommensteuergesetzes und den §§ 93, 97, 105, 111 Abs. 1 und 5, §
-    116 der Abgabenordnung und § 32b Abs. 3 des Einkommensteuergesetzes,
+3.  zur Sicherung des Steueraufkommens nach § 22a des
+    Einkommensteuergesetzes und den §§ 93, 97, 105, 111 Absatz 1 und 5, §
+    116 der Abgabenordnung und § 32b Absatz 3 des Einkommensteuergesetzes,
     soweit diese Vorschriften unmittelbar anwendbar sind, und zur
     Mitteilung von Daten der ausländischen Unternehmen, die auf Grund
     bilateraler Regierungsvereinbarungen über die Beschäftigung von
@@ -2644,23 +2555,31 @@ Mitteilungspflichten
 
 
 8.  zur Erfüllung der Aufgaben der statistischen Ämter der Länder und des
-    Statistischen Bundesamtes gemäß § 3 Abs. 1 des
+    Statistischen Bundesamtes gemäß § 3 Absatz 1 des
     Statistikregistergesetzes zum Aufbau und zur Führung des
     Statistikregisters,
 
 
-9.  zur Aktualisierung des Betriebsregisters nach § 97 Abs. 5 des
+9.  zur Aktualisierung des Betriebsregisters nach § 97 Absatz 5 des
     Agrarstatistikgesetzes,
 
 
 10. zur Erfüllung der Aufgaben der Deutschen Rentenversicherung Bund als
-    zentraler Stelle nach § 22a und § 91 Abs. 1 Satz 1 des
-    Einkommensteuergesetzes oder
+    zentraler Stelle nach § 22a und § 91 Absatz 1 Satz 1 des
+    Einkommensteuergesetzes,
 
 
 11. zur Erfüllung der Aufgaben der Deutschen Rentenversicherung
     Knappschaft-Bahn-See, soweit sie bei geringfügig Beschäftigten
-    Aufgaben nach dem Einkommensteuergesetz durchführt.
+    Aufgaben nach dem Einkommensteuergesetz durchführt,
+
+
+12. zur Erfüllung der Aufgaben des Statistischen Bundesamtes nach § 5a
+    Absatz 1 in Verbindung mit Absatz 3 des Bundesstatistikgesetzes oder
+
+
+13. nach § 69a des Erneuerbare-Energien-Gesetzes zur Berechnung der
+    Bruttowertschöpfung im Verfahren zur Begrenzung der EEG-Umlage.
 
 
 
@@ -2672,16 +2591,16 @@ Sicherung und Nutzung von Archivgut nach den §§ 2 und 5 des
 Bundesarchivgesetzes oder entsprechenden gesetzlichen Vorschriften der
 Länder, die die Schutzfristen dieses Gesetzes nicht unterschreiten.
 Eine Übermittlung von Sozialdaten ist auch zulässig, soweit sie
-erforderlich ist, Meldebehörden nach § 4a Abs. 3 des
-Melderechtsrahmengesetzes über konkrete Anhaltspunkte für die
-Unrichtigkeit oder Unvollständigkeit von diesen auf Grund Melderechts
-übermittelter Daten zu unterrichten.
+erforderlich ist, Meldebehörden nach § 6 Absatz 2 des
+Bundesmeldegesetzes über konkrete Anhaltspunkte für die Unrichtigkeit
+oder Unvollständigkeit von diesen auf Grund Melderechts übermittelter
+Daten zu unterrichten.
 
 (2) Eine Übermittlung von Sozialdaten eines Ausländers ist auch
 zulässig, soweit sie erforderlich ist
 
 1.  im Einzelfall auf Ersuchen der mit der Ausführung des
-    Aufenthaltsgesetzes betrauten Behörden nach § 87 Abs. 1 des
+    Aufenthaltsgesetzes betrauten Behörden nach § 87 Absatz 1 des
     Aufenthaltsgesetzes mit der Maßgabe, dass über die Angaben nach § 68
     hinaus nur mitgeteilt werden können
 
@@ -2693,13 +2612,13 @@ zulässig, soweit sie erforderlich ist
 
     b)  für die Entscheidung über den Aufenthalt oder über die
         ausländerrechtliche Zulassung oder Beschränkung einer Erwerbstätigkeit
-        des Ausländers Daten über die Zustimmung nach § 4 Abs. 2 Satz 3, § 17
-        Satz 1, § 18 Absatz 2 Satz 1, § 18a Absatz 1, § 19 Absatz 1 Satz 1 und
-        § 19a Absatz 1 des Aufenthaltsgesetzes,
+        des Ausländers Daten über die Zustimmung nach § 4 Absatz 2 Satz 3, §
+        17 Absatz 1 Satz 1, § 18 Absatz 2 Satz 1, § 18a Absatz 1, § 19 Absatz
+        1 Satz 1 und § 19a Absatz 1 des Aufenthaltsgesetzes,
 
 
     c)  für eine Entscheidung über den Aufenthalt des Ausländers Angaben
-        darüber, ob die in § 55 Abs. 2 Nr. 4 des Aufenthaltsgesetzes
+        darüber, ob die in § 54 Absatz 2 Nummer 4 des Aufenthaltsgesetzes
         bezeichneten Voraussetzungen vorliegen, und
 
 
@@ -2712,18 +2631,22 @@ zulässig, soweit sie erforderlich ist
 
 
 
-2.  für die Erfüllung der in § 87 Abs. 2 des Aufenthaltsgesetzes
-    bezeichneten Mitteilungspflichten oder
+2.  für die Erfüllung der in § 87 Absatz 2 des Aufenthaltsgesetzes
+    bezeichneten Mitteilungspflichten,
 
 
 3.  für die Erfüllung der in § 99 Absatz 1 Nummer 14 Buchstabe d, f und j
     des Aufenthaltsgesetzes bezeichneten Mitteilungspflichten, wenn die
     Mitteilung die Erteilung, den Widerruf oder Beschränkungen der
-    Zustimmung nach § 4 Abs. 2 Satz 3, § 17 Satz 1, § 18 Absatz 2 Satz 1,
-    § 18a Absatz 1, § 19 Absatz 1 Satz 1 und § 19a Absatz 1 des
+    Zustimmung nach § 4 Absatz 2 Satz 3, § 17 Absatz 1 Satz 1, § 18 Absatz
+    2 Satz 1, § 18a Absatz 1, § 19 Absatz 1 Satz 1 und § 19a Absatz 1 des
     Aufenthaltsgesetzes oder eines Versicherungsschutzes oder die
     Gewährung von Leistungen zur Sicherung des Lebensunterhalts nach dem
-    Zweiten Buch betrifft.
+    Zweiten Buch betrifft, oder
+
+
+4.  für die Erfüllung der in § 6 Absatz 1 Nummer 8 des Gesetzes über das
+    Ausländerzentralregister bezeichneten Mitteilungspflichten.
 
 
 
@@ -2736,8 +2659,9 @@ werden,
 
 
 2.  soweit sie für die Feststellung erforderlich sind, ob die
-    Voraussetzungen des § 55 Abs. 2 Nr. 4 des Aufenthaltsgesetzes
+    Voraussetzungen des § 54 Absatz 2 Nummer 4 des Aufenthaltsgesetzes
     vorliegen.
+
 
 
 
@@ -2752,6 +2676,16 @@ dem Betreuungsgericht die Bestellung eines Betreuers oder eine andere
 Maßnahme in Betreuungssachen zu ermöglichen. § 7 des
 Betreuungsbehördengesetzes gilt entsprechend.
 
+(4) Eine Übermittlung von Sozialdaten ist außerdem zulässig, soweit
+sie im Einzelfall für die rechtmäßige Erfüllung der in der
+Zuständigkeit der Zentralstelle für Finanztransaktionsuntersuchungen
+liegenden Aufgaben nach § 28 Absatz 1 Satz 2 Nummer 2 des
+Geldwäschegesetzes erforderlich ist. Die Übermittlung ist auf Angaben
+über Name, Vorname sowie früher geführte Namen, Geburtsdatum,
+Geburtsort, derzeitige und frühere Anschriften der betroffenen Person
+sowie Namen und Anschriften seiner derzeitigen und früheren
+Arbeitgeber beschränkt.
+
 
 #### § 72 Übermittlung für den Schutz der inneren und äußeren Sicherheit
 
@@ -2761,18 +2695,19 @@ Behörden für Verfassungsschutz, des Bundesnachrichtendienstes, des
 Militärischen Abschirmdienstes und des Bundeskriminalamtes liegenden
 Aufgaben erforderlich ist. Die Übermittlung ist auf Angaben über Name
 und Vorname sowie früher geführte Namen, Geburtsdatum, Geburtsort,
-derzeitige und frühere Anschriften des Betroffenen sowie Namen und
-Anschriften seiner derzeitigen und früheren Arbeitgeber beschränkt.
+derzeitige und frühere Anschriften der betroffenen Person sowie Namen
+und Anschriften ihrer derzeitigen und früheren Arbeitgeber beschränkt.
 
 (2) Über die Erforderlichkeit des Übermittlungsersuchens entscheidet
-ein vom Leiter der ersuchenden Stelle bestimmter Beauftragter, der die
-Befähigung zum Richteramt haben oder die Voraussetzungen des § 110 des
-Deutschen Richtergesetzes erfüllen soll. Wenn eine oberste Bundes-
-oder Landesbehörde für die Aufsicht über die ersuchende Stelle
-zuständig ist, ist sie über die gestellten Übermittlungsersuchen zu
-unterrichten. Bei der ersuchten Stelle entscheidet über das
-Übermittlungsersuchen der Behördenleiter oder sein allgemeiner
-Stellvertreter.
+eine von dem Leiter oder der Leiterin der ersuchenden Stelle bestimmte
+beauftragte Person, die die Befähigung zum Richteramt haben oder die
+Voraussetzungen des § 110 des Deutschen Richtergesetzes erfüllen soll.
+Wenn eine oberste Bundes- oder Landesbehörde für die Aufsicht über die
+ersuchende Stelle zuständig ist, ist sie über die gestellten
+Übermittlungsersuchen zu unterrichten. Bei der ersuchten Stelle
+entscheidet über das Übermittlungsersuchen der Behördenleiter oder die
+Behördenleiterin oder dessen oder deren allgemeiner Stellvertreter
+oder allgemeine Stellvertreterin.
 
 
 #### § 73 Übermittlung für die Durchführung eines Strafverfahrens
@@ -2783,11 +2718,12 @@ einer sonstigen Straftat von erheblicher Bedeutung erforderlich ist.
 
 (2) Eine Übermittlung von Sozialdaten zur Durchführung eines
 Strafverfahrens wegen einer anderen Straftat ist zulässig, soweit die
-Übermittlung auf die in § 72 Abs. 1 Satz 2 genannten Angaben und die
+Übermittlung auf die in § 72 Absatz 1 Satz 2 genannten Angaben und die
 Angaben über erbrachte oder demnächst zu erbringende Geldleistungen
 beschränkt ist.
 
-(3) Die Übermittlung nach den Absätzen 1 und 2 ordnet der Richter an.
+(3) Die Übermittlung nach den Absätzen 1 und 2 ordnet der Richter oder
+die Richterin an.
 
 
 #### § 74 Übermittlung bei Verletzung der Unterhaltspflicht und beim Versorgungsausgleich
@@ -2813,16 +2749,16 @@ erforderlich ist
 2.  für die Geltendmachung
 
     a)  eines gesetzlichen oder vertraglichen Unterhaltsanspruchs außerhalb
-        eines Verfahrens nach Nummer 1 Buchstabe a, soweit der Betroffene nach
-        den Vorschriften des bürgerlichen Rechts, insbesondere nach § 1605
-        oder nach § 1361 Absatz 4 Satz 4, § 1580 Satz 2, § 1615a oder § 1615l
-        Absatz 3 Satz 1 in Verbindung mit § 1605 des Bürgerlichen Gesetzbuchs,
-        zur Auskunft verpflichtet ist, oder
+        eines Verfahrens nach Nummer 1 Buchstabe a, soweit die betroffene
+        Person nach den Vorschriften des bürgerlichen Rechts, insbesondere
+        nach § 1605 oder nach § 1361 Absatz 4 Satz 4, § 1580 Satz 2, § 1615a
+        oder § 1615l Absatz 3 Satz 1 in Verbindung mit § 1605 des Bürgerlichen
+        Gesetzbuchs, zur Auskunft verpflichtet ist, oder
 
 
     b)  eines Ausgleichsanspruchs im Rahmen des Versorgungsausgleichs
-        außerhalb eines Verfahrens nach Nummer 1 Buchstabe b, soweit der
-        Betroffene nach § 4 Absatz 1 Satz 1 des Versorgungsausgleichsgesetzes
+        außerhalb eines Verfahrens nach Nummer 1 Buchstabe b, soweit die
+        betroffene Person nach § 4 Absatz 1 des Versorgungsausgleichsgesetzes
         zur Auskunft verpflichtet ist, oder
 
 
@@ -2839,13 +2775,13 @@ erforderlich ist
 
 
 
-In den Fällen der Nummern 2 und 3 ist eine Übermittlung nur zulässig,
-wenn der Auskunftspflichtige seine Pflicht, nachdem er unter Hinweis
-auf die in diesem Buch enthaltene Übermittlungsbefugnis der in § 35
-des Ersten Buches genannten Stellen gemahnt wurde, innerhalb
-angemessener Frist, nicht oder nicht vollständig erfüllt hat. Diese
-Stellen dürfen die Anschrift des Auskunftspflichtigen zum Zwecke der
-Mahnung übermitteln.
+In den Fällen des Satzes 1 Nummer 2 und 3 ist eine Übermittlung nur
+zulässig, wenn die auskunftspflichtige Person ihre Pflicht, nachdem
+sie unter Hinweis auf die in diesem Buch enthaltene
+Übermittlungsbefugnis der in § 35 des Ersten Buches genannten Stellen
+gemahnt wurde, innerhalb angemessener Frist nicht oder nicht
+vollständig erfüllt hat. Diese Stellen dürfen die Anschrift der
+auskunftspflichtigen Person zum Zwecke der Mahnung übermitteln.
 
 (2) Eine Übermittlung von Sozialdaten durch die Träger der
 gesetzlichen Rentenversicherung und durch die Träger der
@@ -2860,31 +2796,31 @@ Auslandsunterhaltsgesetzes bezeichneten Zwecke erforderlich ist.
 
 (1) Zur Durchsetzung von öffentlich-rechtlichen Ansprüchen in Höhe von
 mindestens 500 Euro dürfen im Einzelfall auf Ersuchen Name, Vorname,
-Geburtsdatum, Geburtsort, derzeitige Anschrift des Betroffenen, sein
-derzeitiger oder zukünftiger Aufenthaltsort sowie Namen, Vornamen oder
-Firma und Anschriften seiner derzeitigen Arbeitgeber übermittelt
+Geburtsdatum, Geburtsort, derzeitige Anschrift der betroffenen Person,
+ihr derzeitiger oder zukünftiger Aufenthaltsort sowie Namen, Vornamen
+oder Firma und Anschriften ihrer derzeitigen Arbeitgeber übermittelt
 werden, soweit kein Grund zu der Annahme besteht, dass dadurch
-schutzwürdige Interessen des Betroffenen beeinträchtigt werden, und
-wenn das Ersuchen nicht länger als sechs Monate zurückliegt. Die
-ersuchte Stelle ist über § 4 Abs. 3 hinaus zur Übermittlung auch dann
-nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben auf
-andere Weise beschaffen kann. Satz 2 findet keine Anwendung, wenn das
-Amtshilfeersuchen zur Durchführung einer Vollstreckung nach § 66
+schutzwürdige Interessen der betroffenen Person beeinträchtigt werden,
+und wenn das Ersuchen nicht länger als sechs Monate zurückliegt. Die
+ersuchte Stelle ist über § 4 Absatz 3 hinaus zur Übermittlung auch
+dann nicht verpflichtet, wenn sich die ersuchende Stelle die Angaben
+auf andere Weise beschaffen kann. Satz 2 findet keine Anwendung, wenn
+das Amtshilfeersuchen zur Durchführung einer Vollstreckung nach § 66
 erforderlich ist.
 
 (2) Zur Durchführung eines Vollstreckungsverfahrens, dem zu
 vollstreckende Ansprüche von mindestens 500 Euro zugrunde liegen,
 dürfen die Träger der gesetzlichen Rentenversicherung im Einzelfall
-auf Ersuchen des Gerichtsvollziehers die derzeitige Anschrift des
-Betroffenen, seinen derzeitigen oder zukünftigen Aufenthaltsort sowie
-Namen, Vornamen oder Firma und Anschriften seiner derzeitigen
+auf Ersuchen des Gerichtsvollziehers die derzeitige Anschrift der
+betroffenen Person, ihren derzeitigen oder zukünftigen Aufenthaltsort
+sowie Namen, Vornamen oder Firma und Anschriften ihrer derzeitigen
 Arbeitgeber übermitteln, soweit kein Grund zu der Annahme besteht,
-dass dadurch schutzwürdige Interessen des Betroffenen beeinträchtigt
-werden und das Ersuchen nicht länger als sechs Monate zurückliegt. Die
-Träger der gesetzlichen Rentenversicherung sind über § 4 Abs. 3 hinaus
-zur Übermittlung auch dann nicht verpflichtet, wenn sich die
-ersuchende Stelle die Angaben auf andere Weise beschaffen kann. Die
-Übermittlung ist nur zulässig, wenn
+dass dadurch schutzwürdige Interessen der betroffenen Person
+beeinträchtigt werden, und das Ersuchen nicht länger als sechs Monate
+zurückliegt. Die Träger der gesetzlichen Rentenversicherung sind über
+§ 4 Absatz 3 hinaus zur Übermittlung auch dann nicht verpflichtet,
+wenn sich die ersuchende Stelle die Angaben auf andere Weise
+beschaffen kann. Die Übermittlung ist nur zulässig, wenn
 
 1.  der Schuldner seiner Pflicht zur Abgabe der Vermögensauskunft nach §
     802c der Zivilprozessordnung nicht nachkommt,
@@ -2909,7 +2845,8 @@ diese Voraussetzungen vorliegen.
 (1) Eine Übermittlung von Sozialdaten ist zulässig, soweit sie
 erforderlich ist für ein bestimmtes Vorhaben
 
-1.  der wissenschaftlichen Forschung im Sozialleistungsbereich oder
+1.  der wissenschaftlichen Forschung im Sozialleistungsbereich oder der
+    wissenschaftlichen Arbeitsmarkt- und Berufsforschung oder
 
 
 2.  der Planung im Sozialleistungsbereich durch eine öffentliche Stelle im
@@ -2917,94 +2854,143 @@ erforderlich ist für ein bestimmtes Vorhaben
 
 
 
-und schutzwürdige Interessen des Betroffenen nicht beeinträchtigt
-werden oder das öffentliche Interesse an der Forschung oder Planung
-das Geheimhaltungsinteresse des Betroffenen erheblich überwiegt. Eine
-Übermittlung ohne Einwilligung des Betroffenen ist nicht zulässig,
-soweit es zumutbar ist, die Einwilligung des Betroffenen nach § 67b
-einzuholen oder den Zweck der Forschung oder Planung auf andere Weise
-zu erreichen.
+und schutzwürdige Interessen der betroffenen Person nicht
+beeinträchtigt werden oder das öffentliche Interesse an der Forschung
+oder Planung das Geheimhaltungsinteresse der betroffenen Person
+erheblich überwiegt. Eine Übermittlung ohne Einwilligung der
+betroffenen Person ist nicht zulässig, soweit es zumutbar ist, ihre
+Einwilligung einzuholen. Angaben über den Namen und Vornamen, die
+Anschrift, die Telefonnummer sowie die für die Einleitung eines
+Vorhabens nach Satz 1 zwingend erforderlichen Strukturmerkmale der
+betroffenen Person können für Befragungen auch ohne Einwilligungen
+übermittelt werden. Der nach Absatz 4 Satz 1 zuständigen Behörde ist
+ein Datenschutzkonzept vorzulegen.
 
-(2) Die Übermittlung bedarf der vorherigen Genehmigung durch die
-oberste Bundes- oder Landesbehörde, die für den Bereich, aus dem die
-Daten herrühren, zuständig ist. Die oberste Bundesbehörde kann das
-Genehmigungsverfahren bei Anträgen von Versicherungsträgern nach § 1
-Absatz 1 Satz 1 des Vierten Buches auf das Bundesversicherungsamt
-übertragen. Die Genehmigung darf im Hinblick auf die Wahrung des
-Sozialgeheimnisses nur versagt werden, wenn die Voraussetzungen des
-Absatzes 1 nicht vorliegen. Sie muss
+(2) Ergibt sich aus dem Vorhaben nach Absatz 1 Satz 1 eine
+Forschungsfrage, die in einem inhaltlichen Zusammenhang mit diesem
+steht, können hierzu auf Antrag die Frist nach Absatz 4 Satz 5 Nummer
+4 zur Verarbeitung der erforderlichen Sozialdaten verlängert oder eine
+neue Frist festgelegt und weitere erforderliche Sozialdaten
+übermittelt werden.
+
+(3) Soweit nach Absatz 1 oder 2 besondere Kategorien von Daten im
+Sinne von Artikel 9 Absatz 1 der Verordnung (EU) 2016/679 an einen
+Dritten übermittelt oder nach Absatz 4a von einem Dritten verwendet
+werden, sieht dieser bei der Verarbeitung angemessene und spezifische
+Maßnahmen zur Wahrung der Interessen der betroffenen Person gemäß § 22
+Absatz 2 Satz 2 des Bundesdatenschutzgesetzes vor. Ergänzend zu den
+dort genannten Maßnahmen sind die besonderen Kategorien von Daten im
+Sinne des Artikels 9 Absatz 1 der Verordnung (EU) 2016/679 zu
+anonymisieren, sobald dies nach dem Forschungszweck möglich ist.
+
+(4) Die Übermittlung nach Absatz 1 und die weitere Verarbeitung sowie
+die Übermittlung nach Absatz 2 bedürfen der vorherigen Genehmigung
+durch die oberste Bundes- oder Landesbehörde, die für den Bereich, aus
+dem die Daten herrühren, zuständig ist. Die oberste Bundesbehörde kann
+das Genehmigungsverfahren bei Anträgen von Versicherungsträgern nach §
+1 Absatz 1 Satz 1 des Vierten Buches auf das Bundesversicherungsamt
+übertragen. Eine Übermittlung von Sozialdaten an eine nicht-
+öffentliche Stelle und eine weitere Verarbeitung durch diese nach
+Absatz 2 darf nur genehmigt werden, wenn sich die nicht-öffentliche
+Stelle gegenüber der Genehmigungsbehörde verpflichtet hat, die Daten
+nur für den vorgesehenen Zweck zu verarbeiten. Die Genehmigung darf im
+Hinblick auf die Wahrung des Sozialgeheimnisses nur versagt werden,
+wenn die Voraussetzungen des Absatzes 1, 2 oder 4a nicht vorliegen.
+Sie muss
 
 1.  den Dritten, an den die Daten übermittelt werden,
 
 
 2.  die Art der zu übermittelnden Sozialdaten und den Kreis der
-    Betroffenen,
+    betroffenen Personen,
 
 
 3.  die wissenschaftliche Forschung oder die Planung, zu der die
     übermittelten Sozialdaten verwendet werden dürfen, und
 
 
-4.  den Tag, bis zu dem die übermittelten Sozialdaten aufbewahrt werden
+4.  den Tag, bis zu dem die übermittelten Sozialdaten verarbeitet werden
     dürfen,
 
 
 
 genau bezeichnen und steht auch ohne besonderen Hinweis unter dem
 Vorbehalt der nachträglichen Aufnahme, Änderung oder Ergänzung einer
-Auflage.
+Auflage. Nach Ablauf der Frist nach Satz 5 Nummer 4 können die
+verarbeiteten Daten bis zu zehn Jahre lang gespeichert werden, um eine
+Nachprüfung der Forschungsergebnisse auf der Grundlage der
+ursprünglichen Datenbasis sowie eine Verarbeitung für weitere
+Forschungsvorhaben nach Absatz 2 zu ermöglichen.
 
-(3) Wird die Übermittlung von Daten an nicht-öffentliche Stellen
+(4a) Ergänzend zur Übermittlung von Sozialdaten zu einem bestimmten
+Forschungsvorhaben nach Absatz 1 Satz 1 kann die Verwendung dieser
+Sozialdaten auch für noch nicht bestimmte, aber inhaltlich
+zusammenhängende Forschungsvorhaben des gleichen Forschungsbereiches
+beantragt werden. Die Genehmigung ist unter den Voraussetzungen des
+Absatzes 4 zu erteilen, wenn sich der Datenempfänger gegenüber der
+genehmigenden Stelle verpflichtet, auch bei künftigen
+Forschungsvorhaben im Forschungsbereich die
+Genehmigungsvoraussetzungen einzuhalten. Die nach Absatz 4 Satz 1
+zuständige Behörde kann vom Antragsteller die Vorlage einer
+unabhängigen Begutachtung des Datenschutzkonzeptes verlangen. Der
+Antragsteller ist verpflichtet, der nach Absatz 4 Satz 1 zuständigen
+Behörde jedes innerhalb des genehmigten Forschungsbereiches
+vorgesehene Forschungsvorhaben vor dessen Beginn anzuzeigen und dabei
+die Erfüllung der Genehmigungsvoraussetzungen darzulegen. Mit dem
+Forschungsvorhaben darf acht Wochen nach Eingang der Anzeige bei der
+Genehmigungsbehörde begonnen werden, sofern nicht die
+Genehmigungsbehörde vor Ablauf der Frist mitteilt, dass für das
+angezeigte Vorhaben ein gesondertes Genehmigungsverfahren erforderlich
+ist.
+
+(5) Wird die Verarbeitung von Sozialdaten nicht-öffentlichen Stellen
 genehmigt, hat die genehmigende Stelle durch Auflagen sicherzustellen,
-dass die der Genehmigung durch Absatz 1 gesetzten Grenzen beachtet und
-die Daten nur für den Übermittlungszweck gespeichert, verändert oder
-genutzt werden.
+dass die der Genehmigung durch Absatz 1, 2 und 4a gesetzten Grenzen
+beachtet werden.
 
-(4) Ist der Dritte, an den Daten übermittelt werden, eine nicht
-öffentliche Stelle, gilt § 38 des Bundesdatenschutzgesetzes mit der
-Maßgabe, dass die Kontrolle auch erfolgen kann, wenn die Daten nicht
-automatisiert oder nicht in nicht automatisierten Dateien verarbeitet
-oder genutzt werden.
+(6) Ist der Dritte, an den Sozialdaten übermittelt werden, eine nicht-
+öffentliche Stelle, unterliegt dieser der Aufsicht der gemäß § 40
+Absatz 1 des Bundesdatenschutzgesetzes zuständigen Behörde.
 
 
 #### § 76 Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten
 
 (1) Die Übermittlung von Sozialdaten, die einer in § 35 des Ersten
-Buches genannten Stelle von einem Arzt oder einer anderen in § 203
-Abs. 1 und 3 des Strafgesetzbuches genannten Person zugänglich gemacht
-worden sind, ist nur unter den Voraussetzungen zulässig, unter denen
-diese Person selbst übermittlungsbefugt wäre.
+Buches genannten Stelle von einem Arzt oder einer Ärztin oder einer
+anderen in § 203 Absatz 1 und 4 des Strafgesetzbuches genannten Person
+zugänglich gemacht worden sind, ist nur unter den Voraussetzungen
+zulässig, unter denen diese Person selbst übermittlungsbefugt wäre.
 
 (2) Absatz 1 gilt nicht
 
-1.  im Rahmen des § 69 Abs. 1 Nr. 1 und 2 für Sozialdaten, die im
+1.  im Rahmen des § 69 Absatz 1 Nummer 1 und 2 für Sozialdaten, die im
     Zusammenhang mit einer Begutachtung wegen der Erbringung von
     Sozialleistungen oder wegen der Ausstellung einer Bescheinigung
-    übermittelt worden sind, es sei denn, dass der Betroffene der
-    Übermittlung widerspricht; der Betroffene ist von der verantwortlichen
-    Stelle zu Beginn des Verwaltungsverfahrens in allgemeiner Form
-    schriftlich auf das Widerspruchsrecht hinzuweisen,
+    übermittelt worden sind, es sei denn, dass die betroffene Person der
+    Übermittlung widerspricht; die betroffene Person ist von dem
+    Verantwortlichen zu Beginn des Verwaltungsverfahrens in allgemeiner
+    Form schriftlich oder elektronisch auf das Widerspruchsrecht
+    hinzuweisen,
 
 
-2.  im Rahmen des § 69 Abs. 4 und 5 und des § 71 Abs. 1 Satz 3,
+2.  im Rahmen des § 69 Absatz 4 und 5 und des § 71 Absatz 1 Satz 3,
 
 
-3.  im Rahmen des § 94 Abs. 2 Satz 2 des Elften Buches Sozialgesetzbuch.
+3.  im Rahmen des § 94 Absatz 2 Satz 2 des Elften Buches.
 
 
 
 
-(3) Ein Widerspruchsrecht besteht nicht in den Fällen des § 279 Abs. 5
-in Verbindung mit § 275 Abs. 1 bis 3 des Fünften Buches.
+(3) Ein Widerspruchsrecht besteht nicht in den Fällen des § 279 Absatz
+5 in Verbindung mit § 275 Absatz 1 bis 3 des Fünften Buches.
 
 
-#### § 77 Übermittlung ins Ausland und an über- oder zwischenstaatliche Stellen
+#### § 77 Übermittlung ins Ausland und an internationale Organisationen
 
 (1) Die Übermittlung von Sozialdaten an Personen oder Stellen in
-anderen Mitgliedstaaten der Europäischen Union oder in anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
-oder an Stellen der Organe und Einrichtungen der Europäischen
-Gemeinschaften ist zulässig, soweit
+anderen Mitgliedstaaten der Europäischen Union sowie in diesen nach §
+35 Absatz 7 des Ersten Buches gleichgestellten Staaten ist zulässig,
+soweit
 
 1.  dies für die Erfüllung einer gesetzlichen Aufgabe der in § 35 des
     Ersten Buches genannten übermittelnden Stelle nach diesem Gesetzbuch
@@ -3013,16 +2999,19 @@ Gemeinschaften ist zulässig, soweit
     35 des Ersten Buches genannten Stellen entsprechen,
 
 
-2.  die Voraussetzungen des § 69 Abs. 1 Nr. 3 oder des § 70 oder einer
-    Übermittlungsvorschrift nach dem Dritten Buch oder dem
+2.  die Voraussetzungen des § 69 Absatz 1 Nummer 2 oder Nummer 3 oder des
+    § 70 oder einer Übermittlungsvorschrift nach dem Dritten Buch oder dem
     Arbeitnehmerüberlassungsgesetz vorliegen und die Aufgaben der
-    ausländischen Stelle den in diesen Vorschriften genannten entsprechen
-    oder
+    ausländischen Stelle den in diesen Vorschriften genannten entsprechen,
 
 
 3.  die Voraussetzungen des § 74 vorliegen und die gerichtlich geltend
     gemachten Ansprüche oder die Rechte des Empfängers den in dieser
-    Vorschrift genannten entsprechen.
+    Vorschrift genannten entsprechen oder
+
+
+4.  die Voraussetzungen des § 73 vorliegen; für die Anordnung einer
+    Übermittlung nach § 73 ist ein inländisches Gericht zuständig.
 
 
 
@@ -3031,173 +3020,120 @@ Artikel 6 des Vertrages über die Europäische Union enthaltenen
 Grundsätzen in Widerspruch stünde.
 
 (2) Absatz 1 gilt entsprechend für die Übermittlung an Personen oder
-Stellen in einem Drittstaat sowie an über- oder zwischenstaatliche
-Stellen, wenn der Drittstaat oder die über- oder zwischenstaatliche
-Stelle ein angemessenes Datenschutzniveau gewährleistet. Die
-Angemessenheit des Datenschutzniveaus wird unter Berücksichtigung
-aller Umstände beurteilt, die bei einer Datenübermittlung oder einer
-Kategorie von Datenübermittlungen von Bedeutung sind; insbesondere
-können die Art der Sozialdaten, die Zweckbestimmung, die Dauer der
-geplanten Verarbeitung, das Herkunfts- und das Endbestimmungsland, die
-für den betreffenden Empfänger geltenden Rechtsnormen sowie die für
-ihn geltenden Standesregeln und Sicherheitsmaßnahmen herangezogen
-werden. Bis zur Feststellung der Kommission der Europäischen
-Gemeinschaften entscheidet das Bundesversicherungsamt, ob ein
-angemessenes Datenschutzniveau gewährleistet ist.
+Stellen in einem Drittstaat sowie an internationale Organisationen,
+wenn deren angemessenes Datenschutzniveau durch
+Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679
+festgestellt wurde.
 
-(3) Eine Übermittlung von Sozialdaten an Personen oder Stellen im
-Ausland oder an über- oder zwischenstaatliche Stellen ist auch
-zulässig, wenn
+(3) Liegt kein Angemessenheitsbeschluss vor, ist abweichend von
+Artikel 46 Absatz 2 Buchstabe a der Verordnung (EU) 2016/679 eine
+Übermittlung von Sozialdaten an Personen oder Stellen in einem
+Drittstaat oder an internationale Organisationen über die in Artikel
+49 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679 genannten Fälle
+hinaus nur zulässig, wenn
 
-1.  der Betroffene seine Einwilligung gegeben hat,
+1.  die Übermittlung in Anwendung zwischenstaatlicher Übereinkommen auf
+    dem Gebiet der sozialen Sicherheit erfolgt, oder
 
 
-2.  die Übermittlung in Anwendung zwischenstaatlicher Übereinkommen auf
-    dem Gebiet der sozialen Sicherheit erfolgt oder
-
-
-3.  die Voraussetzungen des § 69 Abs. 1 Nr. 2 oder des § 73 vorliegen, die
-    Aufgaben der ausländischen Stelle den in diesen Vorschriften genannten
-    entsprechen und der ausländische Staat oder die über- oder
-    zwischenstaatliche Stelle ein angemessenes Datenschutzniveau (Absatz
-    2) gewährleistet; für die Anordnung einer Übermittlung nach § 73 ist
-    ein Gericht im Inland zuständig.
-
-    Die Übermittlung ist nur zulässig, soweit der Betroffene kein
-    schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat.
+2.  soweit die Voraussetzungen des § 69 Absatz 1 Nummer 1 und 2 oder des §
+    70 vorliegen
 
 
 
+und soweit die betroffene Person kein schutzwürdiges Interesse an dem
+Ausschluss der Übermittlung hat.
 
-(4) Gewährleistet der Drittstaat oder die über- oder
-zwischenstaatliche Stelle ein angemessenes Datenschutzniveau (Absatz
-2) nicht, ist die Übermittlung von Sozialdaten an die Stelle im
-Drittstaat oder die über- oder zwischenstaatliche Stelle auch
-zulässig, soweit die Voraussetzungen des § 69 Abs. 1 Nr. 1 und 2, des
-§ 70 oder einer Übermittlungsvorschrift nach dem Dritten Buch oder dem
-Arbeitnehmerüberlassungsgesetz vorliegen und der Betroffene kein
-schutzwürdiges Interesse an dem Ausschluss der Übermittlung hat.
-
-(5) Die Stelle, an die die Sozialdaten übermittelt werden, ist auf den
+(4) Die Stelle, an die die Sozialdaten übermittelt werden, ist auf den
 Zweck hinzuweisen, zu dessen Erfüllung die Sozialdaten übermittelt
 werden.
-
-(6) Das Bundesversicherungsamt unterrichtet das Bundesministerium des
-Innern über Drittstaaten und über- oder zwischenstaatliche Stellen,
-die kein angemessenes Datenschutzniveau gewährleisten.
 
 
 #### § 78 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden
 
 (1) Personen oder Stellen, die nicht in § 35 des Ersten Buches genannt
 und denen Sozialdaten übermittelt worden sind, dürfen diese nur zu dem
-Zweck verarbeiten oder nutzen, zu dem sie ihnen befugt übermittelt
-worden sind. Die Dritten haben die Daten in demselben Umfang geheim zu
-halten wie die in § 35 des Ersten Buches genannten Stellen. Sind
-Sozialdaten an Gerichte oder Staatsanwaltschaften übermittelt worden,
-dürfen diese gerichtliche Entscheidungen, die Sozialdaten enthalten,
-weiter übermitteln, wenn eine in § 35 des Ersten Buches genannte
-Stelle zur Übermittlung an den weiteren Dritten befugt wäre.
-Abweichend von Satz 3 ist eine Übermittlung nach § 115 des
-Bundesbeamtengesetzes und nach Vorschriften, die auf diese Vorschrift
-verweisen, zulässig. Sind Sozialdaten an Polizeibehörden,
-Staatsanwaltschaften, Gerichte oder Behörden der Gefahrenabwehr
-übermittelt worden, dürfen diese die Daten unabhängig vom Zweck der
-Übermittlung sowohl für Zwecke der Gefahrenabwehr als auch für Zwecke
-der Strafverfolgung und der Strafvollstreckung verarbeiten und nutzen.
+Zweck speichern, verändern, nutzen, übermitteln, in der Verarbeitung
+einschränken oder löschen, zu dem sie ihnen befugt übermittelt worden
+sind. Eine Übermittlung von Sozialdaten an eine nicht-öffentliche
+Stelle ist nur zulässig, wenn diese sich gegenüber der übermittelnden
+Stelle verpflichtet hat, die Daten nur für den Zweck zu verarbeiten,
+zu dem sie ihr übermittelt werden. Die Dritten haben die Daten in
+demselben Umfang geheim zu halten wie die in § 35 des Ersten Buches
+genannten Stellen. Sind Sozialdaten an Gerichte oder
+Staatsanwaltschaften übermittelt worden, dürfen diese gerichtliche
+Entscheidungen, die Sozialdaten enthalten, weiter übermitteln, wenn
+eine in § 35 des Ersten Buches genannte Stelle zur Übermittlung an den
+weiteren Dritten befugt wäre. Abweichend von Satz 4 ist eine
+Übermittlung nach § 115 des Bundesbeamtengesetzes und nach
+Vorschriften, die auf diese Vorschrift verweisen, zulässig. Sind
+Sozialdaten an Polizeibehörden, Staatsanwaltschaften, Gerichte oder
+Behörden der Gefahrenabwehr übermittelt worden, dürfen diese die Daten
+unabhängig vom Zweck der Übermittlung sowohl für Zwecke der
+Gefahrenabwehr als auch für Zwecke der Strafverfolgung und der
+Strafvollstreckung speichern, verändern, nutzen, übermitteln, in der
+Verarbeitung einschränken oder löschen.
 
-(2) Werden Daten an eine nichtöffentliche Stelle übermittelt, so sind
-die dort beschäftigten Personen, welche diese Daten verarbeiten oder
-nutzen, von dieser Stelle vor, spätestens bei der Übermittlung auf die
-Einhaltung der Pflichten nach Absatz 1 hinzuweisen.
+(2) Werden Daten an eine nicht-öffentliche Stelle übermittelt, so sind
+die dort beschäftigten Personen, welche diese Daten speichern,
+verändern, nutzen, übermitteln, in der Verarbeitung einschränken oder
+löschen, von dieser Stelle vor, spätestens bei der Übermittlung auf
+die Einhaltung der Pflichten nach Absatz 1 hinzuweisen.
 
 (3) Ergibt sich im Rahmen eines Vollstreckungsverfahrens nach § 66 die
 Notwendigkeit, dass eine Strafanzeige zum Schutz des
-Vollstreckungsbeamten erforderlich ist, so dürfen die zum Zwecke der
+Vollstreckungsbeamten erforderlich ist, so dürfen die zum Zweck der
 Vollstreckung übermittelten Sozialdaten auch zum Zweck der
-Strafverfolgung verarbeitet oder genutzt werden, soweit dies
+Strafverfolgung gespeichert, verändert, genutzt, übermittelt, in der
+Verarbeitung eingeschränkt oder gelöscht werden, soweit dies
 erforderlich ist. Das Gleiche gilt auch für die Klärung von Fragen im
 Rahmen eines Disziplinarverfahrens.
 
 (4) Sind Sozialdaten an Gerichte oder Staatsanwaltschaften für die
 Durchführung eines Straf- oder Bußgeldverfahrens übermittelt worden,
-so dürfen sie nach Maßgabe der §§ 476, 487 Abs. 4 der
-Strafprozessordnung und der §§ 49b und 49c Abs. 1 des Gesetzes über
+so dürfen sie nach Maßgabe der §§ 476, 487 Absatz 4 der
+Strafprozessordnung und der §§ 49b und 49c Absatz 1 des Gesetzes über
 Ordnungswidrigkeiten für Zwecke der wissenschaftlichen Forschung
-verarbeitet oder genutzt werden.
+gespeichert, verändert, genutzt, übermittelt, in der Verarbeitung
+eingeschränkt oder gelöscht werden.
 
 
-### Dritter Abschnitt - Organisatorische Vorkehrungen zum Schutz der Sozialdaten, besondere Datenverarbeitungsarten
+### Dritter Abschnitt - Besondere Datenverarbeitungsarten
 
 
 
-#### § 78a Technische und organisatorische Maßnahmen
-
-Die in § 35 des Ersten Buches genannten Stellen, die selbst oder im
-Auftrag Sozialdaten erheben, verarbeiten oder nutzen, haben die
-technischen und organisatorischen Maßnahmen einschließlich der
-Dienstanweisungen zu treffen, die erforderlich sind, um die Ausführung
-der Vorschriften dieses Gesetzbuches, insbesondere die in der Anlage
-zu dieser Vorschrift genannten Anforderungen, zu gewährleisten.
-Maßnahmen sind nicht erforderlich, wenn ihr Aufwand in keinem
-angemessenen Verhältnis zu dem angestrebten Schutzzweck steht.
-
-
-#### § 78b Datenvermeidung und Datensparsamkeit
-
-Gestaltung und Auswahl von Datenverarbeitungssystemen haben sich an
-dem Ziel auszurichten, keine oder so wenig Sozialdaten wie möglich zu
-erheben, zu verarbeiten oder zu nutzen. Insbesondere ist von den
-Möglichkeiten der Anonymisierung und Pseudonymisierung Gebrauch zu
-machen, soweit dies möglich ist und der Aufwand in einem angemessenen
-Verhältnis zu dem angestrebten Schutzzweck steht.
-
-
-#### § 78c Datenschutzaudit
-
-Zur Verbesserung des Datenschutzes und der Datensicherheit können
-Anbieter von Datenverarbeitungssystemen und -programmen und
-datenverarbeitende Stellen ihr Datenschutzkonzept sowie ihre
-technischen Einrichtungen durch unabhängige und zugelassene Gutachter
-prüfen und bewerten lassen sowie das Ergebnis der Prüfung
-veröffentlichen. Die näheren Anforderungen an die Prüfung und
-Bewertung, das Verfahren sowie die Auswahl und Zulassung der Gutachter
-werden durch besonderes Gesetz geregelt. Die Sätze 1 und 2 gelten
-nicht für öffentliche Stellen der Länder mit Ausnahme der
-Sozialversicherungsträger und ihrer Verbände.
-
-
-#### § 79 Einrichtung automatisierter Abrufverfahren
+#### § 79 Einrichtung automatisierter Verfahren auf Abruf
 
 (1) Die Einrichtung eines automatisierten Verfahrens, das die
 Übermittlung von Sozialdaten durch Abruf ermöglicht, ist zwischen den
 in § 35 des Ersten Buches genannten Stellen sowie mit der Deutschen
 Rentenversicherung Bund als zentraler Stelle zur Erfüllung ihrer
-Aufgaben nach § 91 Abs. 1 Satz 1 des Einkommensteuergesetzes und der
+Aufgaben nach § 91 Absatz 1 Satz 1 des Einkommensteuergesetzes und der
 Deutschen Rentenversicherung Knappschaft-Bahn-See, soweit sie bei
 geringfügig Beschäftigten Aufgaben nach dem Einkommensteuergesetz
 durchführt, zulässig, soweit dieses Verfahren unter Berücksichtigung
-der schutzwürdigen Interessen der Betroffenen wegen der Vielzahl der
-Übermittlungen oder wegen ihrer besonderen Eilbedürftigkeit angemessen
-ist und wenn die jeweiligen Aufsichtsbehörden die Teilnahme der unter
-ihrer Aufsicht stehenden Stellen genehmigt haben. Das Gleiche gilt
-gegenüber den in § 69 Abs. 2 und 3 genannten Stellen.
+der schutzwürdigen Interessen der betroffenen Personen wegen der
+Vielzahl der Übermittlungen oder wegen ihrer besonderen
+Eilbedürftigkeit angemessen ist und wenn die jeweiligen Rechts- oder
+Fachaufsichtsbehörden die Teilnahme der unter ihrer Aufsicht stehenden
+Stellen genehmigt haben. Das Gleiche gilt gegenüber den in § 69 Absatz
+2 und 3 genannten Stellen.
 
-(1a) Die Einrichtung eines automatisierten Abrufverfahrens für eine
-Datei der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
-ist nur gegenüber den Trägern der gesetzlichen Rentenversicherung, der
-Deutschen Rentenversicherung Bund als zentraler Stelle zur Erfüllung
-ihrer Aufgaben nach § 91 Absatz 1 Satz 1 des Einkommensteuergesetzes,
-den Krankenkassen, der Bundesagentur für Arbeit und der Deutschen Post
-AG, soweit sie mit der Berechnung oder Auszahlung von Sozialleistungen
-betraut ist, zulässig; dabei dürfen auch Vermittlungsstellen
-eingeschaltet werden.
+(1a) Die Einrichtung eines automatisierten Verfahrens auf Abruf für
+ein Dateisystem der Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau ist nur gegenüber den Trägern der gesetzlichen
+Rentenversicherung, der Deutschen Rentenversicherung Bund als
+zentraler Stelle zur Erfüllung ihrer Aufgaben nach § 91 Absatz 1 Satz
+1 des Einkommensteuergesetzes, den Krankenkassen, der Bundesagentur
+für Arbeit und der Deutschen Post AG, soweit sie mit der Berechnung
+oder Auszahlung von Sozialleistungen betraut ist, zulässig; dabei
+dürfen auch Vermittlungsstellen eingeschaltet werden.
 
 (2) Die beteiligten Stellen haben zu gewährleisten, dass die
-Zulässigkeit des Abrufverfahrens kontrolliert werden kann. Hierzu
-haben sie schriftlich festzulegen:
+Zulässigkeit des Verfahrens auf Abruf kontrolliert werden kann. Hierzu
+haben sie schriftlich oder elektronisch festzulegen:
 
-1.  Anlass und Zweck des Abrufverfahrens,
+1.  Anlass und Zweck des Verfahrens auf Abruf,
 
 
 2.  Dritte, an die übermittelt wird,
@@ -3206,219 +3142,135 @@ haben sie schriftlich festzulegen:
 3.  Art der zu übermittelnden Daten,
 
 
-4.  nach § 78a erforderliche technische und organisatorische Maßnahmen.
+4.  nach Artikel 32 der Verordnung (EU) 2016/679 erforderliche technische
+    und organisatorische Maßnahmen.
 
 
 
 
-(3) Über die Einrichtung von Abrufverfahren ist in Fällen, in denen
-die in § 35 des Ersten Buches genannten Stellen beteiligt sind, die
-der Kontrolle des Bundesbeauftragten für den Datenschutz unterliegen,
-dieser, sonst die nach Landesrecht für die Kontrolle des Datenschutzes
-zuständige Stelle rechtzeitig vorher unter Mitteilung der Festlegungen
-nach Absatz 2 zu unterrichten.
+(3) Über die Einrichtung von Verfahren auf Abruf ist in Fällen, in
+denen die in § 35 des Ersten Buches genannten Stellen beteiligt sind,
+die der Kontrolle des oder der Bundesbeauftragten für den Datenschutz
+und die Informationsfreiheit (Bundesbeauftragte) unterliegen, dieser
+oder diese, sonst die nach Landesrecht für die Kontrolle des
+Datenschutzes zuständige Stelle rechtzeitig vorher unter Mitteilung
+der Festlegungen nach Absatz 2 zu unterrichten.
 
 (4) Die Verantwortung für die Zulässigkeit des einzelnen Abrufs trägt
 der Dritte, an den übermittelt wird. Die speichernde Stelle prüft die
 Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Sie hat
 mindestens bei jedem zehnten Abruf den Zeitpunkt, die abgerufenen
-Daten sowie Angaben zur Feststellung des Verfahrens und der für den
-Abruf verantwortlichen Personen zu protokollieren; die protokollierten
-Daten sind spätestens nach sechs Monaten zu löschen. Wird ein
-Gesamtbestand von Sozialdaten abgerufen oder übermittelt
-(Stapelverarbeitung), so bezieht sich die Gewährleistung der
-Feststellung und Überprüfung nur auf die Zulässigkeit des Abrufes oder
-der Übermittlung des Gesamtbestandes.
+Daten sowie Angaben zur Feststellung des Verfahrens und des für den
+Abruf Verantwortlichen zu protokollieren; die protokollierten Daten
+sind spätestens nach sechs Monaten zu löschen. Wird ein Gesamtbestand
+von Sozialdaten abgerufen oder übermittelt (Stapelverarbeitung), so
+bezieht sich die Gewährleistung der Feststellung und Überprüfung nur
+auf die Zulässigkeit des Abrufes oder der Übermittlung des
+Gesamtbestandes.
 
-(5) Die Absätze 1 bis 4 gelten nicht für den Abruf aus Datenbeständen,
-die mit Einwilligung der Betroffenen angelegt werden und die
+(5) Die Absätze 1 bis 4 gelten nicht für den Abruf aus Dateisystemen,
+die mit Einwilligung der betroffenen Personen angelegt werden und die
 jedermann, sei es ohne oder nach besonderer Zulassung, zur Benutzung
-offen stehen.
+offenstehen.
 
 
-#### § 80 Erhebung, Verarbeitung oder Nutzung von Sozialdaten im Auftrag
+#### § 80 Verarbeitung von Sozialdaten im Auftrag
 
-(1) Werden Sozialdaten im Auftrag durch andere Stellen erhoben,
-verarbeitet oder genutzt, ist der Auftraggeber für die Einhaltung der
-Vorschriften dieses Gesetzbuches und anderer Vorschriften über den
-Datenschutz verantwortlich. Die in den §§ 82 bis 84 genannten Rechte
-sind ihm gegenüber geltend zu machen.
+(1) Die Erteilung eines Auftrags im Sinne des Artikels 28 der
+Verordnung (EU) 2016/679 zur Verarbeitung von Sozialdaten ist nur
+zulässig, wenn der Verantwortliche seiner Rechts- oder
+Fachaufsichtsbehörde rechtzeitig vor der Auftragserteilung
 
-(2) Eine Auftragserteilung für die Erhebung, Verarbeitung oder Nutzung
-von Sozialdaten ist nur zulässig, wenn der Datenschutz beim
-Auftragnehmer nach der Art der zu erhebenden, zu verarbeitenden oder
-zu nutzenden Daten den Anforderungen genügt, die für den Auftraggeber
-gelten. Der Auftrag ist schriftlich zu erteilen, wobei insbesondere im
-Einzelnen festzulegen sind:
-
-1.  der Gegenstand und die Dauer des Auftrags,
+1.  den Auftragsverarbeiter, die bei diesem vorhandenen technischen und
+    organisatorischen Maßnahmen und ergänzenden Weisungen,
 
 
-2.  der Umfang, die Art und der Zweck der vorgesehenen Erhebung,
-    Verarbeitung oder Nutzung von Daten, die Art der Daten und der Kreis
-    der Betroffenen,
+2.  die Art der Daten, die im Auftrag verarbeitet werden sollen, und den
+    Kreis der betroffenen Personen,
 
 
-3.  die nach § 78a zu treffenden technischen und organisatorischen
-    Maßnahmen,
-
-
-4.  die Berichtigung, Löschung und Sperrung von Daten,
-
-
-5.  die bestehenden Pflichten des Auftragnehmers, insbesondere die von ihm
-    vorzunehmenden Kontrollen,
-
-
-6.  die etwaige Berechtigung zur Begründung von
-    Unterauftragsverhältnissen,
-
-
-7.  die Kontrollrechte des Auftraggebers und die entsprechenden Duldungs-
-    und Mitwirkungspflichten des Auftragnehmers,
-
-
-8.  mitzuteilende Verstöße des Auftragnehmers oder der bei ihm
-    beschäftigten Personen gegen Vorschriften zum Schutz von Sozialdaten
-    oder gegen die im Auftrag getroffenen Festlegungen,
-
-
-9.  der Umfang der Weisungsbefugnisse, die sich der Auftraggeber gegenüber
-    dem Auftragnehmer vorbehält,
-
-
-10. die Rückgabe überlassener Datenträger und die Löschung beim
-    Auftragnehmer gespeicherter Daten nach Beendigung des Auftrags.
-
-
-
-Der Auftraggeber ist verpflichtet, erforderlichenfalls Weisungen zur
-Ergänzung der beim Auftragnehmer vorhandenen technischen und
-organisatorischen Maßnahmen zu erteilen. Der Auftraggeber hat sich vor
-Beginn der Datenverarbeitung und sodann regelmäßig von der Einhaltung
-der beim Auftragnehmer getroffenen technischen und organisatorischen
-Maßnahmen zu überzeugen. Das Ergebnis ist zu dokumentieren. Die
-Auftragserteilung an eine nicht-öffentliche Stelle setzt außerdem
-voraus, dass der Auftragnehmer dem Auftraggeber schriftlich das Recht
-eingeräumt hat,
-
-1.  Auskünfte bei ihm einzuholen,
-
-
-2.  während der Betriebs- oder Geschäftszeiten seine Grundstücke oder
-    Geschäftsräume zu betreten und dort Besichtigungen und Prüfungen
-    vorzunehmen und
-
-
-3.  geschäftliche Unterlagen sowie die gespeicherten Sozialdaten und
-    Datenverarbeitungsprogramme einzusehen,
-
-
-
-soweit es im Rahmen des Auftrags für die Überwachung des Datenschutzes
-erforderlich ist.
-
-(3) Der Auftraggeber hat seiner Aufsichtsbehörde rechtzeitig vor der
-Auftragserteilung
-
-1.  den Auftragnehmer, die bei diesem vorhandenen technischen und
-    organisatorischen Maßnahmen und ergänzenden Weisungen nach Absatz 2
-    Satz 2 und 3,
-
-
-2.  die Art der Daten, die im Auftrag erhoben, verarbeitet oder genutzt
-    werden sollen, und den Kreis der Betroffenen,
-
-
-3.  die Aufgabe, zu deren Erfüllung die Erhebung, Verarbeitung oder
-    Nutzung der Daten im Auftrag erfolgen soll, sowie
+3.  die Aufgabe, zu deren Erfüllung die Verarbeitung der Daten im Auftrag
+    erfolgen soll, sowie
 
 
 4.  den Abschluss von etwaigen Unterauftragsverhältnissen
 
 
 
-schriftlich anzuzeigen. Wenn der Auftragnehmer eine öffentliche Stelle
-ist, hat er auch schriftliche Anzeige an seine Aufsichtsbehörde zu
-richten.
+schriftlich oder elektronisch anzeigt. Soll eine öffentliche Stelle
+mit der Verarbeitung von Sozialdaten beauftragt werden, hat diese
+rechtzeitig vor der Auftragserteilung die beabsichtigte Beauftragung
+ihrer Rechts- oder Fachaufsichtsbehörde schriftlich oder elektronisch
+anzuzeigen.
 
-(4) Der Auftragnehmer darf die zur Datenverarbeitung überlassenen
-Sozialdaten nicht für andere Zwecke verarbeiten oder nutzen und nicht
-länger speichern, als der Auftraggeber schriftlich bestimmt.
+(2) Der Auftrag zur Verarbeitung von Sozialdaten darf nur erteilt
+werden, wenn die Verarbeitung im Inland, in einem anderen
+Mitgliedstaat der Europäischen Union, in einem diesem nach § 35 Absatz
+7 des Ersten Buches gleichgestellten Staat, oder, sofern ein
+Angemessenheitsbeschluss gemäß Artikel 45 der Verordnung (EU) 2016/679
+vorliegt, in einem Drittstaat oder in einer internationalen
+Organisation erfolgt.
 
-(5) Die Erhebung, Verarbeitung oder Nutzung von Sozialdaten im Auftrag
+(3) Die Erteilung eines Auftrags zur Verarbeitung von Sozialdaten
 durch nicht-öffentliche Stellen ist nur zulässig, wenn
 
-1.  beim Auftraggeber sonst Störungen im Betriebsablauf auftreten können
-    oder
+1.  beim Verantwortlichen sonst Störungen im Betriebsablauf auftreten
+    können oder
 
 
-2.  die übertragenen Arbeiten beim Auftragnehmer erheblich kostengünstiger
-    besorgt werden können und der Auftrag nicht die Speicherung des
-    gesamten Datenbestandes des Auftraggebers umfasst. Der überwiegende
-    Teil der Speicherung des gesamten Datenbestandes muss beim
-    Auftraggeber oder beim Auftragnehmer, der eine öffentliche Stelle ist,
-    und die Daten zur weiteren Datenverarbeitung im Auftrag an nicht-
-    öffentliche Auftragnehmer weitergibt, verbleiben.
+2.  die übertragenen Arbeiten beim Auftragsverarbeiter erheblich
+    kostengünstiger besorgt werden können.
 
 
 
 
-(6) Ist der Auftragnehmer eine in § 35 des Ersten Buches genannte
-Stelle, gelten neben den §§ 85 und 85a nur § 4g Abs. 2, § 18 Abs. 2
-und die §§ 24 bis 26 des Bundesdatenschutzgesetzes. Bei den in § 35
-des Ersten Buches genannten Stellen, die nicht solche des Bundes sind,
-treten anstelle des Bundesbeauftragten für den Datenschutz insoweit
-die Landesbeauftragten für den Datenschutz. Ihre Aufgaben und
-Befugnisse richten sich nach dem jeweiligen Landesrecht. Ist der
-Auftragnehmer eine nicht-öffentliche Stelle, kontrolliert die
-Einhaltung der Absätze 1 bis 5 die nach Landesrecht zuständige
-Aufsichtsbehörde. Bei öffentlichen Stellen der Länder, die nicht
-Sozialversicherungsträger oder deren Verbände sind, gelten die
-landesrechtlichen Vorschriften über Verzeichnisse der eingesetzten
-Datenverarbeitungsanlagen und Dateien.
+(4) Ist der Auftragsverarbeiter eine in § 35 des Ersten Buches
+genannte Stelle, gelten neben den §§ 85 und 85a die §§ 9, 13, 14 und
+16 des Bundesdatenschutzgesetzes. Bei den in § 35 des Ersten Buches
+genannten Stellen, die nicht solche des Bundes sind, tritt anstelle
+des oder der Bundesbeauftragten insoweit die nach Landesrecht für die
+Kontrolle des Datenschutzes zuständige Stelle. Ist der
+Auftragsverarbeiter eine nicht-öffentliche Stelle, unterliegt dieser
+der Aufsicht der gemäß § 40 des Bundesdatenschutzgesetzes zuständigen
+Behörde.
 
-(7) Die Absätze 1, 2, 4 und 6 gelten entsprechend, wenn die Prüfung
-oder Wartung automatisierter Verfahren oder von
-Datenverarbeitungsanlagen durch andere Stellen im Auftrag vorgenommen
-wird und dabei ein Zugriff auf Sozialdaten nicht ausgeschlossen werden
-kann. Verträge über Wartungsarbeiten sind in diesem Falle rechtzeitig
-vor der Auftragserteilung der Aufsichtsbehörde mitzuteilen; sind
-Störungen im Betriebsablauf zu erwarten oder bereits eingetreten, ist
-der Vertrag unverzüglich mitzuteilen.
+(5) Absatz 3 gilt nicht bei Verträgen über die Prüfung oder Wartung
+automatisierter Verfahren oder von Datenverarbeitungsanlagen durch
+andere Stellen im Auftrag, bei denen ein Zugriff auf Sozialdaten nicht
+ausgeschlossen werden kann. Die Verträge sind bei zu erwartenden oder
+bereits eingetretenen Störungen im Betriebsablauf unverzüglich der
+Rechts- oder Fachaufsichtsbehörde mitzuteilen.
 
 
-### Vierter Abschnitt - Rechte des Betroffenen, Datenschutzbeauftragte und Schlussvorschriften
+### Vierter Abschnitt - Rechte der betroffenen Person, Beauftragte für den Datenschutz und Schlussvorschriften
 
 
 
-#### § 81 Rechte des Einzelnen, Datenschutzbeauftragte
+#### § 81 Recht auf Anrufung, Beauftragte für den Datenschutz
 
-(1) Ist jemand der Ansicht, bei der Erhebung, Verarbeitung oder
-Nutzung seiner personenbezogenen Sozialdaten in seinen Rechten
-verletzt worden zu sein, kann er sich
+(1) Ist eine betroffene Person der Ansicht, bei der Verarbeitung ihrer
+Sozialdaten in ihren Rechten verletzt worden zu sein, kann sie sich
 
-1.  an den Bundesbeauftragten für den Datenschutz wenden, wenn er eine
-    Verletzung seiner Rechte durch eine in § 35 des Ersten Buches
-    genannten Stelle des Bundes bei der Wahrnehmung von Aufgaben nach
+1.  an den Bundesbeauftragten oder die Bundesbeauftragte wenden, wenn sie
+    eine Verletzung ihrer Rechte durch eine in § 35 des Ersten Buches
+    genannte Stelle des Bundes bei der Wahrnehmung von Aufgaben nach
     diesem Gesetzbuch behauptet,
 
 
-2.  an die nach Landesrecht für die Kontrolle des Datenschutzes
-    zuständigen Stellen wenden, wenn er die Verletzung seiner Rechte durch
-    eine andere in § 35 des Ersten Buches genannte Stelle bei der
-    Wahrnehmung von Aufgaben nach diesem Gesetzbuch behauptet.
+2.  an die nach Landesrecht für die Kontrolle des Datenschutzes zuständige
+    Stelle wenden, wenn sie die Verletzung ihrer Rechte durch eine andere
+    in § 35 des Ersten Buches genannte Stelle bei der Wahrnehmung von
+    Aufgaben nach diesem Gesetzbuch behauptet.
 
 
 
 
 (2) Bei der Wahrnehmung von Aufgaben nach diesem Gesetzbuch gelten für
-die in § 35 des Ersten Buches genannten Stellen die §§ 24 bis 26 des
+die in § 35 des Ersten Buches genannten Stellen die §§ 14 bis 16 des
 Bundesdatenschutzgesetzes. Bei öffentlichen Stellen der Länder, die
-unter § 35 des Ersten Buches fallen, treten an die Stelle des
-Bundesbeauftragten für den Datenschutz die Landesbeauftragten für den
-Datenschutz. Ihre Aufgaben und Befugnisse richten sich nach dem
-jeweiligen Landesrecht.
+unter § 35 des Ersten Buches fallen, tritt an die Stelle des oder der
+Bundesbeauftragten die nach Landesrecht für die Kontrolle des
+Datenschutzes zuständige Stelle.
 
 (3) Verbände und Arbeitsgemeinschaften der in § 35 des Ersten Buches
 genannten Stellen oder ihrer Verbände gelten, soweit sie Aufgaben nach
@@ -3430,281 +3282,397 @@ Einrichtungen der in § 35 des Ersten Buches genannten Stellen oder
 ihrer Verbände gelten als öffentliche Stellen des Bundes, wenn die
 absolute Mehrheit der Anteile oder der Stimmen einer oder mehrerer
 öffentlicher Stellen dem Bund zusteht, anderenfalls als öffentliche
-Stellen der Länder. Die Datenstelle der Träger der Rentenversicherung
-nach § 145 Abs. 1 des Sechsten Buches gilt als öffentliche Stelle des
-Bundes.
+Stellen der Länder. Die Datenstelle der Rentenversicherung nach § 145
+Absatz 1 des Sechsten Buches gilt als öffentliche Stelle des Bundes.
 
-(4) Auf die in § 35 des Ersten Buches genannten Stellen und die
-Vermittlungsstellen nach § 67d Abs. 4 sind die §§ 4f, 4g mit Ausnahme
-des Absatzes 3 sowie § 18 Abs. 2 des Bundesdatenschutzgesetzes
-entsprechend anzuwenden. In räumlich getrennten Organisationseinheiten
-ist sicherzustellen, dass der Beauftragte für den Datenschutz bei der
-Erfüllung seiner Aufgaben unterstützt wird. Die Sätze 1 und 2 gelten
-nicht für öffentliche Stellen der Länder mit Ausnahme der
-Sozialversicherungsträger und ihrer Verbände. Absatz 2 Satz 2 und 3
-gilt entsprechend.
-
-
-#### § 82 Schadensersatz
-
-Fügt eine in § 35 des Ersten Buches genannte Stelle dem Betroffenen
-durch eine nach diesem Gesetzbuch oder nach anderen Vorschriften über
-den Datenschutz unzulässige oder unrichtige Erhebung, Verarbeitung
-oder Nutzung seiner personenbezogenen Sozialdaten einen Schaden zu,
-ist § 7 des Bundesdatenschutzgesetzes entsprechend anzuwenden. Für den
-Ersatz des Schadens bei unzulässiger oder unrichtiger automatisierter
-Erhebung, Verarbeitung oder Nutzung von personenbezogenen Sozialdaten
-gilt auch § 8 des Bundesdatenschutzgesetzes entsprechend.
-
-
-#### § 83 Auskunft an den Betroffenen
-
-(1) Dem Betroffenen ist auf Antrag Auskunft zu erteilen über
-
-1.  die zu seiner Person gespeicherten Sozialdaten, auch soweit sie sich
-    auf die Herkunft dieser Daten beziehen,
-
-
-2.  die Empfänger oder Kategorien von Empfängern, an die Daten
-    weitergegeben werden, und
-
-
-3.  den Zweck der Speicherung.
-
-
-
-In dem Antrag soll die Art der Sozialdaten, über die Auskunft erteilt
-werden soll, näher bezeichnet werden. Sind die Sozialdaten nicht
-automatisiert oder nicht in nicht automatisierten Dateien gespeichert,
-wird die Auskunft nur erteilt, soweit der Betroffene Angaben macht,
-die das Auffinden der Daten ermöglichen, und der für die Erteilung der
-Auskunft erforderliche Aufwand nicht außer Verhältnis zu dem vom
-Betroffenen geltend gemachten Informationsinteresse steht. Die
-verantwortliche Stelle bestimmt das Verfahren, insbesondere die Form
-der Auskunftserteilung, nach pflichtgemäßem Ermessen. § 25 Abs. 2 gilt
+(4) Auf die in § 35 des Ersten Buches genannten Stellen, die
+Vermittlungsstellen nach § 67d Absatz 3 und die Auftragsverarbeiter
+sind die §§ 5 bis 7 des Bundesdatenschutzgesetzes entsprechend
+anzuwenden. In räumlich getrennten Organisationseinheiten ist
+sicherzustellen, dass der oder die Beauftragte für den Datenschutz bei
+der Erfüllung seiner oder ihrer Aufgaben unterstützt wird. Die Sätze 1
+und 2 gelten nicht für öffentliche Stellen der Länder mit Ausnahme der
+Sozialversicherungsträger und ihrer Verbände. Absatz 2 Satz 2 gilt
 entsprechend.
 
-(2) Für Sozialdaten, die nur deshalb gespeichert sind, weil sie auf
-Grund gesetzlicher, satzungsmäßiger oder vertraglicher
-Aufbewahrungsvorschriften nicht gelöscht werden dürfen, oder die
-ausschließlich Zwecken der Datensicherung oder der
-Datenschutzkontrolle dienen, gilt Absatz 1 nicht, wenn eine
-Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern würde.
 
-(3) Bezieht sich die Auskunftserteilung auf die Übermittlung von
-Sozialdaten an Staatsanwaltschaften und Gerichte im Bereich der
-Strafverfolgung, an Polizeibehörden, Verfassungsschutzbehörden, den
-Bundesnachrichtendienst und den Militärischen Abschirmdienst, ist sie
-nur mit Zustimmung dieser Stellen zulässig.
+#### § 81a Gerichtlicher Rechtsschutz
 
-(4) Die Auskunftserteilung unterbleibt, soweit
+(1) Für Streitigkeiten zwischen einer natürlichen oder juristischen
+Person und dem oder der Bundesbeauftragten oder der nach Landesrecht
+für die Kontrolle des Datenschutzes zuständigen Stelle gemäß Artikel
+78 Absatz 1 und 2 der Verordnung (EU) 2016/679 aufgrund der
+Verarbeitung von Sozialdaten im Zusammenhang mit einer Angelegenheit
+nach § 51 Absatz 1 und 2 des Sozialgerichtsgesetzes ist der Rechtsweg
+zu den Gerichten der Sozialgerichtsbarkeit eröffnet. Für die übrigen
+Streitigkeiten gemäß Artikel 78 Absatz 1 und 2 der Verordnung (EU)
+2016/679 aufgrund der Verarbeitung von Sozialdaten gilt § 20 des
+Bundesdatenschutzgesetzes, soweit die Streitigkeiten nicht durch
+Bundesgesetz einer anderen Gerichtsbarkeit ausdrücklich zugewiesen
+sind. Satz 1 gilt nicht für Bußgeldverfahren.
 
-1.  die Auskunft die ordnungsgemäße Erfüllung der in der Zuständigkeit der
-    verantwortlichen Stelle liegenden Aufgaben gefährden würde,
+(2) Das Sozialgerichtsgesetz ist nach Maßgabe der Absätze 3 bis 7
+anzuwenden.
+
+(3) Abweichend von den Vorschriften über die örtliche Zuständigkeit
+der Sozialgerichte nach § 57 des Sozialgerichtsgesetzes ist für die
+Verfahren nach Absatz 1 Satz 1 das Sozialgericht örtlich zuständig, in
+dessen Bezirk der oder die Bundesbeauftragte oder die nach Landesrecht
+für die Kontrolle des Datenschutzes zuständige Stelle seinen oder
+ihren Sitz hat, wenn eine Körperschaft oder Anstalt des öffentlichen
+Rechts oder in Angelegenheiten des sozialen Entschädigungsrechts oder
+des Schwerbehindertenrechts ein Land klagt.
+
+(4) In den Verfahren nach Absatz 1 Satz 1 sind der oder die
+Bundesbeauftragte sowie die nach Landesrecht für die Kontrolle des
+Datenschutzes zuständige Stelle beteiligungsfähig.
+
+(5) Beteiligte eines Verfahrens nach Absatz 1 Satz 1 sind
+
+1.  die natürliche oder juristische Person als Klägerin oder
+    Antragstellerin und
 
 
-2.  die Auskunft die öffentliche Sicherheit gefährden oder sonst dem Wohle
-    des Bundes oder eines Landes Nachteile bereiten würde oder
+2.  der oder die Bundesbeauftragte oder die nach Landesrecht für die
+    Kontrolle des Datenschutzes zuständige Stelle als Beklagter oder
+    Beklagte oder als Antragsgegner oder Antragsgegnerin.
 
 
-3.  die Daten oder die Tatsache ihrer Speicherung nach einer
+
+§ 69 Nummer 3 des Sozialgerichtsgesetzes bleibt unberührt.
+
+(6) Ein Vorverfahren findet nicht statt.
+
+(7) Der oder die Bundesbeauftragte oder die nach Landesrecht für die
+Kontrolle des Datenschutzes zuständige Stelle darf gegenüber einer
+Behörde oder deren Rechtsträger nicht die sofortige Vollziehung (§ 86a
+Absatz 2 Nummer 5 des Sozialgerichtsgesetzes) anordnen.
+
+
+#### § 81b Klagen gegen den Verantwortlichen oder Auftragsverarbeiter
+
+(1) Für Klagen der betroffenen Person gegen einen Verantwortlichen
+oder einen Auftragsverarbeiter wegen eines Verstoßes gegen
+datenschutzrechtliche Bestimmungen im Anwendungsbereich der Verordnung
+(EU) 2016/679 oder der darin enthaltenen Rechte der betroffenen Person
+bei der Verarbeitung von Sozialdaten im Zusammenhang mit einer
+Angelegenheit nach § 51 Absatz 1 und 2 des Sozialgerichtsgesetzes ist
+der Rechtsweg zu den Gerichten der Sozialgerichtsbarkeit eröffnet.
+
+(2) Ergänzend zu § 57 Absatz 3 des Sozialgerichtsgesetzes ist für
+Klagen nach Absatz 1 das Sozialgericht örtlich zuständig, in dessen
+Bezirk sich eine Niederlassung des Verantwortlichen oder
+Auftragsverarbeiters befindet.
+
+(3) Hat der Verantwortliche oder Auftragsverarbeiter einen Vertreter
+nach Artikel 27 Absatz 1 der Verordnung (EU) 2016/679 benannt, gilt
+dieser auch als bevollmächtigt, Zustellungen in sozialgerichtlichen
+Verfahren nach Absatz 1 entgegenzunehmen. § 63 Absatz 3 des
+Sozialgerichtsgesetzes bleibt unberührt.
+
+
+#### § 81c Antrag auf gerichtliche Entscheidung bei angenommener Europarechtswidrigkeit eines Angemessenheitsbeschlusses der Europäischen Kommission
+
+Hält der oder die Bundesbeauftragte oder eine nach Landesrecht für die
+Kontrolle des Datenschutzes zuständige Stelle einen
+Angemessenheitsbeschluss der Europäischen Kommission, auf dessen
+Gültigkeit es bei der Entscheidung über die Beschwerde einer
+betroffenen Person hinsichtlich der Verarbeitung von Sozialdaten
+ankommt, für europarechtswidrig, so gilt § 21 des
+Bundesdatenschutzgesetzes.
+
+
+#### § 82 Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person
+
+(1) Die Pflicht zur Information der betroffenen Person gemäß Artikel
+13 Absatz 1 Buchstabe e der Verordnung (EU) 2016/679 über Kategorien
+von Empfängern besteht ergänzend zu der in Artikel 13 Absatz 4 der
+Verordnung (EU) 2016/679 genannten Ausnahme nur, soweit
+
+1.  sie nach den Umständen des Einzelfalles nicht mit der Nutzung oder der
+    Übermittlung von Sozialdaten an diese Kategorien von Empfängern
+    rechnen muss,
+
+
+2.  es sich nicht um Speicherung, Veränderung, Nutzung, Übermittlung,
+    Einschränkung der Verarbeitung oder Löschung von Sozialdaten innerhalb
+    einer in § 35 des Ersten Buches genannten Stelle oder einer
+    Organisationseinheit im Sinne von § 67 Absatz 4 Satz 2 handelt oder
+
+
+3.  es sich nicht um eine Kategorie von in § 35 des Ersten Buches
+    genannten Stellen oder von Organisationseinheiten im Sinne von § 67
+    Absatz 4 Satz 2 handelt, die auf Grund eines Gesetzes zur engen
+    Zusammenarbeit verpflichtet sind.
+
+
+
+
+(2) Die Pflicht zur Information der betroffenen Person gemäß Artikel
+13 Absatz 3 der Verordnung (EU) 2016/679 besteht ergänzend zu der in
+Artikel 13 Absatz 4 der Verordnung (EU) 2016/679 genannten Ausnahme
+dann nicht, wenn die Erteilung der Information über die beabsichtigte
+Weiterverarbeitung
+
+1.  die ordnungsgemäße Erfüllung der in der Zuständigkeit des
+    Verantwortlichen liegenden Aufgaben im Sinne des Artikels 23 Absatz 1
+    Buchstabe a bis e der Verordnung (EU) 2016/679 gefährden würde und die
+    Interessen des Verantwortlichen an der Nichterteilung der Information
+    die Interessen der betroffenen Person überwiegen,
+
+
+2.  die öffentliche Sicherheit oder Ordnung gefährden oder sonst dem Wohl
+    des Bundes oder eines Landes Nachteile bereiten würde und die
+    Interessen des Verantwortlichen an der Nichterteilung der Information
+    die Interessen der betroffenen Person überwiegen oder
+
+
+3.  eine vertrauliche Übermittlung von Daten an öffentliche Stellen
+    gefährden würde.
+
+
+
+
+(3) Unterbleibt eine Information der betroffenen Person nach Maßgabe
+des Absatzes 2, ergreift der Verantwortliche geeignete Maßnahmen zum
+Schutz der berechtigten Interessen der betroffenen Person,
+einschließlich der Bereitstellung der in Artikel 13 Absatz 1 und 2 der
+Verordnung (EU) 2016/679 genannten Informationen für die
+Öffentlichkeit in präziser, transparenter, verständlicher und leicht
+zugänglicher Form in einer klaren und einfachen Sprache. Der
+Verantwortliche hält schriftlich fest, aus welchen Gründen er von
+einer Information abgesehen hat. Die Sätze 1 und 2 finden in den
+Fällen des Absatzes 2 Nummer 3 keine Anwendung.
+
+(4) Unterbleibt die Benachrichtigung in den Fällen des Absatzes 2
+wegen eines vorübergehenden Hinderungsgrundes, kommt der
+Verantwortliche der Informationspflicht unter Berücksichtigung der
+spezifischen Umstände der Verarbeitung innerhalb einer angemessenen
+Frist nach Fortfall des Hinderungsgrundes, spätestens jedoch innerhalb
+von zwei Wochen, nach.
+
+(5) Bezieht sich die Informationserteilung auf die Übermittlung von
+Sozialdaten durch öffentliche Stellen an die Staatsanwaltschaften und
+Gerichte im Bereich der Strafverfolgung, an Polizeibehörden,
+Verfassungsschutzbehörden, den Bundesnachrichtendienst und den
+Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser Stelle
+zulässig.
+
+
+#### § 82a Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden
+
+(1) Die Pflicht einer in § 35 des Ersten Buches genannten Stelle zur
+Information der betroffenen Person gemäß Artikel 14 Absatz 1, 2 und 4
+der Verordnung (EU) 2016/679 besteht ergänzend zu den in Artikel 14
+Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht,
+
+1.  soweit die Erteilung der Information
+
+    a)  die ordnungsgemäße Erfüllung der in der Zuständigkeit des
+        Verantwortlichen liegenden Aufgaben gefährden würde oder
+
+
+    b)  die öffentliche Sicherheit oder Ordnung gefährden oder sonst dem Wohle
+        des Bundes oder eines Landes Nachteile bereiten würde, oder
+
+
+
+
+
+2.  soweit die Daten oder die Tatsache ihrer Speicherung nach einer
     Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der
-    überwiegenden berechtigten Interessen eines Dritten, geheim gehalten
-    werden müssen,
+    überwiegenden berechtigten Interessen eines Dritten geheim gehalten
+    werden müssen
 
 
 
-und deswegen das Interesse des Betroffenen an der Auskunftserteilung
-zurücktreten muss.
+und deswegen das Interesse der betroffenen Person an der
+Informationserteilung zurücktreten muss.
 
-(5) Die Ablehnung der Auskunftserteilung bedarf keiner Begründung,
-soweit durch die Mitteilung der tatsächlichen und rechtlichen Gründe,
-auf die die Entscheidung gestützt wird, der mit der
-Auskunftsverweigerung verfolgte Zweck gefährdet würde. In diesem Fall
-ist der Betroffene darauf hinzuweisen, dass er sich, wenn die in § 35
-des Ersten Buches genannten Stellen der Kontrolle des
-Bundesbeauftragten für den Datenschutz unterliegen, an diesen, sonst
-an die nach Landesrecht für die Kontrolle des Datenschutzes zuständige
-Stelle wenden kann.
+(2) Werden Sozialdaten bei einer nicht-öffentlichen Stelle erhoben, so
+ist diese auf die Rechtsvorschrift, die zur Auskunft verpflichtet,
+sonst auf die Freiwilligkeit hinzuweisen.
 
-(6) Wird einem Auskunftsberechtigten keine Auskunft erteilt, so kann,
+(3) Unterbleibt eine Information der betroffenen Person nach Maßgabe
+des Absatzes 1, ergreift der Verantwortliche geeignete Maßnahmen zum
+Schutz der berechtigten Interessen der betroffenen Person,
+einschließlich der Bereitstellung der in Artikel 14 Absatz 1 und 2 der
+Verordnung (EU) 2016/679 genannten Informationen für die
+Öffentlichkeit in präziser, transparenter, verständlicher und leicht
+zugänglicher Form in einer klaren und einfachen Sprache. Der
+Verantwortliche hält schriftlich fest, aus welchen Gründen er von
+einer Information abgesehen hat.
+
+(4) In Bezug auf die Pflicht zur Information nach Artikel 14 Absatz 1
+Buchstabe e der Verordnung (EU) 2016/679 gilt § 82 Absatz 1
+entsprechend.
+
+(5) Bezieht sich die Informationserteilung auf die Übermittlung von
+Sozialdaten durch öffentliche Stellen an Staatsanwaltschaften und
+Gerichte im Bereich der Strafverfolgung, an Polizeibehörden,
+Verfassungsschutzbehörden, den Bundesnachrichtendienst und den
+Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser
+Stellen zulässig.
+
+
+#### § 83 Auskunftsrecht der betroffenen Personen
+
+(1) Das Recht auf Auskunft der betroffenen Person gemäß Artikel 15 der
+Verordnung (EU) 2016/679 besteht nicht, soweit
+
+1.  die betroffene Person nach § 82a Absatz 1, 4 und 5 nicht zu
+    informieren ist oder
+
+
+2.  die Sozialdaten
+
+    a)  nur deshalb gespeichert sind, weil sie auf Grund gesetzlicher oder
+        satzungsmäßiger Aufbewahrungsvorschriften nicht gelöscht werden
+        dürfen, oder
+
+
+    b)  ausschließlich zu Zwecken der Datensicherung oder der
+        Datenschutzkontrolle dienen
+
+
+
+    und die Auskunftserteilung einen unverhältnismäßigen Aufwand erfordern
+    würde sowie eine Verarbeitung zu anderen Zwecken durch geeignete
+    technische und organisatorische Maßnahmen ausgeschlossen ist.
+
+
+
+
+(2) Die betroffene Person soll in dem Antrag auf Auskunft gemäß
+Artikel 15 der Verordnung (EU) 2016/679 die Art der Sozialdaten, über
+die Auskunft erteilt werden soll, näher bezeichnen. Sind die
+Sozialdaten nicht automatisiert oder nicht in nicht automatisierten
+Dateisystemen gespeichert, wird die Auskunft nur erteilt, soweit die
+betroffene Person Angaben macht, die das Auffinden der Daten
+ermöglichen, und der für die Erteilung der Auskunft erforderliche
+Aufwand nicht außer Verhältnis zu dem von der betroffenen Person
+geltend gemachten Informationsinteresse steht. Soweit Artikel 15 und
+12 Absatz 3 der Verordnung (EU) 2016/679 keine Regelungen enthalten,
+bestimmt der Verantwortliche das Verfahren, insbesondere die Form der
+Auskunftserteilung, nach pflichtgemäßem Ermessen. § 25 Absatz 2 gilt
+entsprechend.
+
+(3) Die Gründe der Auskunftsverweigerung sind zu dokumentieren. Die
+Ablehnung der Auskunftserteilung bedarf keiner Begründung, soweit
+durch die Mitteilung der tatsächlichen und rechtlichen Gründe, auf die
+die Entscheidung gestützt wird, der mit der Auskunftsverweigerung
+verfolgte Zweck gefährdet würde. In diesem Fall ist die betroffene
+Person darauf hinzuweisen, dass sie sich, wenn die in § 35 des Ersten
+Buches genannten Stellen der Kontrolle des oder der Bundesbeauftragten
+unterliegen, an diesen oder diese, sonst an die nach Landesrecht für
+die Kontrolle des Datenschutzes zuständige Stelle wenden kann.
+
+(4) Wird einer betroffenen Person keine Auskunft erteilt, so kann,
 soweit es sich um in § 35 des Ersten Buches genannte Stellen handelt,
-die der Kontrolle des Bundesbeauftragten für den Datenschutz
-unterliegen, dieser, sonst die nach Landesrecht für die Kontrolle des
-Datenschutzes zuständige Stelle auf Verlangen der
-Auskunftsberechtigten prüfen, ob die Ablehnung der Auskunftserteilung
-rechtmäßig war.
+die der Kontrolle des oder der Bundesbeauftragten unterliegen, diese,
+sonst die nach Landesrecht für die Kontrolle des Datenschutzes
+zuständige Stelle, auf Verlangen der betroffenen Person prüfen, ob die
+Ablehnung der Auskunftserteilung rechtmäßig war.
+
+(5) Bezieht sich die Informationserteilung auf die Übermittlung von
+Sozialdaten durch öffentliche Stellen an Staatsanwaltschaften und
+Gerichte im Bereich der Strafverfolgung, an Polizeibehörden,
+Verfassungsschutzbehörden, den Bundesnachrichtendienst und den
+Militärischen Abschirmdienst, ist sie nur mit Zustimmung dieser
+Stellen zulässig.
+
+
+#### § 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten
+
+Ergänzend zu den Meldepflichten gemäß den Artikeln 33 und 34 der
+Verordnung (EU) 2016/679 meldet die in § 35 des Ersten Buches genannte
+Stelle die Verletzung des Schutzes von Sozialdaten auch der Rechts-
+oder Fachaufsichtsbehörde.
+
+
+#### § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch
+
+(1) Ist eine Löschung von Sozialdaten im Fall nicht automatisierter
+Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder
+nur mit unverhältnismäßig hohem Aufwand möglich und ist das Interesse
+der betroffenen Person an der Löschung als gering anzusehen, besteht
+das Recht der betroffenen Person auf und die Pflicht des
+Verantwortlichen zur Löschung von Sozialdaten gemäß Artikel 17 Absatz
+1 der Verordnung (EU) 2016/679 ergänzend zu den in Artikel 17 Absatz 3
+der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall
+tritt an die Stelle einer Löschung die Einschränkung der Verarbeitung
+gemäß Artikel 18 der Verordnung (EU) 2016/679. Die Sätze 1 und 2
+finden keine Anwendung, wenn die Sozialdaten unrechtmäßig verarbeitet
+wurden.
+
+(2) Wird die Richtigkeit von Sozialdaten von der betroffenen Person
+bestritten und lässt sich weder die Richtigkeit noch die Unrichtigkeit
+der Daten feststellen, gilt ergänzend zu Artikel 18 Absatz 1 Buchstabe
+a der Verordnung (EU) 2016/679, dass dies keine Einschränkung der
+Verarbeitung bewirkt, soweit es um die Erfüllung sozialer Aufgaben
+geht; die ungeklärte Sachlage ist in geeigneter Weise festzuhalten.
+Die bestrittenen Daten dürfen nur mit einem Hinweis hierauf
+verarbeitet werden.
+
+(3) Ergänzend zu Artikel 18 Absatz 1 Buchstabe b und c der Verordnung
+(EU) 2016/679 gilt Absatz 1 Satz 1 und 2 entsprechend im Fall des
+Artikels 17 Absatz 1 Buchstabe a und d der Verordnung (EU) 2016/679,
+solange und soweit der Verantwortliche Grund zu der Annahme hat, dass
+durch eine Löschung schutzwürdige Interessen der betroffenen Person
+beeinträchtigt würden. Der Verantwortliche unterrichtet die betroffene
+Person über die Einschränkung der Verarbeitung, sofern sich die
+Unterrichtung nicht als unmöglich erweist oder einen
+unverhältnismäßigen Aufwand erfordern würde.
+
+(4) Sind Sozialdaten für die Zwecke, für die sie erhoben oder auf
+sonstige Weise verarbeitet wurden, nicht mehr notwendig, gilt
+ergänzend zu Artikel 17 Absatz 3 Buchstabe b der Verordnung (EU)
+2016/679 Absatz 1 entsprechend, wenn einer Löschung satzungsmäßige
+oder vertragliche Aufbewahrungsfristen entgegenstehen.
+
+(5) Das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
+(EU) 2016/679 gegenüber einer öffentlichen Stelle besteht nicht,
+soweit an der Verarbeitung ein zwingendes öffentliches Interesse
+besteht, das die Interessen der betroffenen Person überwiegt, oder
+eine Rechtsvorschrift zur Verarbeitung von Sozialdaten verpflichtet.
+
+(6) § 71 Absatz 1 Satz 3 bleibt unberührt.
+
+
+#### § 85 Strafvorschriften
+
+(1) Für Sozialdaten gelten die Strafvorschriften des § 42 Absatz 1 und
+2 des Bundesdatenschutzgesetzes entsprechend.
+
+(2) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind die
+betroffene Person, der Verantwortliche, der oder die Bundesbeauftragte
+oder die nach Landesrecht für die Kontrolle des Datenschutzes
+zuständige Stelle.
+
+(3) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
+2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
+Verordnung (EU) 2016/679 dürfen in einem Strafverfahren gegen die
+melde- oder benachrichtigungspflichtige Person oder gegen einen ihrer
+in § 52 Absatz 1 der Strafprozessordnung bezeichneten Angehörigen nur
+mit Zustimmung der melde- oder benachrichtigungspflichtigen Person
+verwendet werden.
+
+
+#### § 85a Bußgeldvorschriften
+
+(1) Für Sozialdaten gilt § 41 des Bundesdatenschutzgesetzes
+entsprechend.
+
+(2) Eine Meldung nach § 83a oder nach Artikel 33 der Verordnung (EU)
+2016/679 oder eine Benachrichtigung nach Artikel 34 Absatz 1 der
+Verordnung (EU) 2016/679 dürfen in einem Verfahren nach dem Gesetz
+über Ordnungswidrigkeiten gegen die melde- oder
+benachrichtigungspflichtige Person oder einen ihrer in § 52 Absatz 1
+der Strafprozessordnung bezeichneten Angehörigen nur mit Zustimmung
+der melde- oder benachrichtigungspflichtigen Person verwendet werden.
 
-(7) Die Auskunft ist unentgeltlich.
-
-
-#### § 83a Informationspflicht bei unrechtmäßiger Kenntniserlangung von Sozialdaten
-
-Stellt eine in § 35 des Ersten Buches genannte Stelle fest, dass bei
-ihr gespeicherte besondere Arten personenbezogener Daten (§ 67 Absatz
-12) unrechtmäßig übermittelt oder auf sonstige Weise Dritten
-unrechtmäßig zur Kenntnis gelangt sind und drohen schwerwiegende
-Beeinträchtigungen für die Rechte oder schutzwürdigen Interessen der
-Betroffenen, hat sie dies unverzüglich der nach § 90 des Vierten
-Buches zuständigen Aufsichtsbehörde, der zuständigen
-Datenschutzaufsichtsbehörde sowie den Betroffenen mitzuteilen. § 42a
-Satz 2 bis 6 des Bundesdatenschutzgesetzes gilt entsprechend.
-
-
-#### § 84 Berichtigung, Löschung und Sperrung von Daten; Widerspruchsrecht
-
-(1) Sozialdaten sind zu berichtigen, wenn sie unrichtig sind. Wird die
-Richtigkeit von Sozialdaten von dem Betroffenen bestritten und lässt
-sich weder die Richtigkeit noch die Unrichtigkeit der Daten
-feststellen, bewirkt dies keine Sperrung, soweit es um die Erfüllung
-sozialer Aufgaben geht; die ungeklärte Sachlage ist in geeigneter
-Weise festzuhalten. Die bestrittenen Daten dürfen nur mit einem
-Hinweis hierauf genutzt und übermittelt werden.
-
-(1a) § 20 Abs. 5 des Bundesdatenschutzgesetzes gilt entsprechend.
-
-(2) Sozialdaten sind zu löschen, wenn ihre Speicherung unzulässig ist.
-Sie sind auch zu löschen, wenn ihre Kenntnis für die verantwortliche
-Stelle zur rechtmäßigen Erfüllung der in ihrer Zuständigkeit liegenden
-Aufgaben nicht mehr erforderlich ist und kein Grund zu der Annahme
-besteht, dass durch die Löschung schutzwürdige Interessen des
-Betroffenen beeinträchtigt werden.
-
-(3) An die Stelle einer Löschung tritt eine Sperrung, soweit
-
-1.  einer Löschung gesetzliche, satzungsmäßige oder vertragliche
-    Aufbewahrungsfristen entgegenstehen,
-
-
-2.  Grund zu der Annahme besteht, dass durch eine Löschung schutzwürdige
-    Interessen des Betroffenen beeinträchtigt würden, oder
-
-
-3.  eine Löschung wegen der besonderen Art der Speicherung nicht oder
-    nicht mit angemessenem Aufwand möglich ist.
-
-
-
-
-(4) Gesperrte Sozialdaten dürfen ohne Einwilligung des Betroffenen nur
-übermittelt oder genutzt werden, wenn
-
-1.  es zu wissenschaftlichen Zwecken, zur Behebung einer bestehenden
-    Beweisnot oder aus sonstigen im überwiegenden Interesse der
-    verantwortlichen Stelle oder eines Dritten liegenden Gründen
-    unerlässlich ist und
-
-
-2.  die Sozialdaten hierfür übermittelt oder genutzt werden dürften, wenn
-    sie nicht gesperrt wären.
-
-
-
-
-(5) Von der Tatsache, dass Sozialdaten bestritten oder nicht mehr
-bestritten sind, von der Berichtigung unrichtiger Daten sowie der
-Löschung oder Sperrung wegen Unzulässigkeit der Speicherung sind die
-Stellen zu verständigen, denen im Rahmen einer Datenübermittlung diese
-Daten zur Speicherung weitergegeben worden sind, wenn dies keinen
-unverhältnismäßigen Aufwand erfordert und schutzwürdige Interessen des
-Betroffenen nicht entgegenstehen.
-
-(6) § 71 Abs. 1 Satz 3 bleibt unberührt.
-
-
-#### § 84a Unabdingbare Rechte des Betroffenen
-
-(1) Die Rechte des Betroffenen nach diesem Kapitel können nicht durch
-Rechtsgeschäft ausgeschlossen oder beschränkt werden.
-
-(2) Sind die Daten des Betroffenen automatisiert oder in einer nicht
-automatisierten Datei gespeichert und sind mehrere Stellen
-speicherungsberechtigt, kann der Betroffene sich an jede dieser
-Stellen wenden, wenn er nicht in der Lage ist festzustellen, welche
-Stelle die Daten gespeichert hat. Diese ist verpflichtet, das
-Vorbringen des Betroffenen an die Stelle, die die Daten gespeichert
-hat, weiterzuleiten. Der Betroffene ist über die Weiterleitung und
-jene Stelle zu unterrichten.
-
-
-#### § 85 Bußgeldvorschriften
-
-(1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 78 Abs. 1 Satz 1 Sozialdaten verarbeitet oder nutzt, wenn
-    die Handlung nicht nach Absatz 2 Nr. 5 geahndet werden kann,
-
-
-1a. entgegen § 80 Absatz 2 Satz 2 einen Auftrag nicht richtig, nicht
-    vollständig oder nicht in der vorgeschriebenen Weise erteilt,
-
-
-1b. entgegen § 80 Absatz 2 Satz 4 sich nicht vor Beginn der
-    Datenverarbeitung von der Einhaltung der beim Auftragnehmer
-    getroffenen technischen und organisatorischen Maßnahmen überzeugt,
-
-
-2.  entgegen § 80 Abs. 4, auch in Verbindung mit § 67d Abs. 4 Satz 2,
-    Sozialdaten anderweitig verarbeitet, nutzt oder länger speichert oder
-
-
-3.  entgegen § 81 Abs. 4 Satz 1 dieses Gesetzes in Verbindung mit § 4f
-    Abs. 1 Satz 1 oder 2 des Bundesdatenschutzgesetzes, diese jeweils auch
-    in Verbindung mit § 4f Abs. 1 Satz 3 und 6 des
-    Bundesdatenschutzgesetzes, einen Beauftragten für den Datenschutz
-    nicht oder nicht rechtzeitig bestellt.
-
-
-
-
-(2) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
-
-1.  unbefugt Sozialdaten, die nicht allgemein zugänglich sind, erhebt oder
-    verarbeitet,
-
-
-2.  unbefugt Sozialdaten, die nicht allgemein zugänglich sind, zum Abruf
-    mittels automatisierten Verfahrens bereithält,
-
-
-3.  unbefugt Sozialdaten, die nicht allgemein zugänglich sind, abruft oder
-    sich oder einem anderen aus automatisierten Verarbeitungen oder nicht
-    automatisierten Dateien verschafft,
-
-
-4.  die Übermittlung von Sozialdaten, die nicht allgemein zugänglich sind,
-    durch unrichtige Angaben erschleicht,
-
-
-5.  entgegen § 67c Abs. 5 Satz 1 oder § 78 Abs. 1 Satz 1 Sozialdaten für
-    andere Zwecke nutzt, indem er sie an Dritte weitergibt oder
-
-
-6.  entgegen § 83a Satz 1 eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht.
-
-
-
-
-(3) Die Ordnungswidrigkeit kann im Falle des Absatzes 1 mit einer
-Geldbuße bis zu fünfzigtausend Euro, in den Fällen des Absatzes 2 mit
-einer Geldbuße bis zu dreihunderttausend Euro geahndet werden. Die
-Geldbuße soll den wirtschaftlichen Vorteil, den der Täter aus den
-Ordnungswidrigkeiten gezogen hat, übersteigen. Reichen die in Satz 1
-genannten Beträge hierfür nicht aus, so können sie überschritten
-werden.
-
-
-#### § 85a Strafvorschriften
-
-(1) Wer eine in § 85 Abs. 2 bezeichnete vorsätzliche Handlung gegen
-Entgelt oder in der Absicht, sich oder einen anderen zu bereichern
-oder einen anderen zu schädigen, begeht, wird mit Freiheitsstrafe bis
-zu zwei Jahren oder mit Geldstrafe bestraft.
-
-(2) Die Tat wird nur auf Antrag verfolgt. Antragsberechtigt sind der
-Betroffene, die verantwortliche Stelle, der Bundesbeauftragte für den
-Datenschutz oder der zuständige Landesbeauftragte für den Datenschutz.
+(3) Gegen Behörden und sonstige öffentliche Stellen werden keine
+Geldbußen verhängt.
 
 
 ## Drittes Kapitel - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
@@ -4070,13 +4038,14 @@ Arbeitslosenversicherung oder dem sozialen Entschädigungsrecht
 gelten für diese Personen § 60 Abs. 1 Nr. 1 und 3 sowie § 65 Abs. 1
 des Ersten Buches entsprechend. Das Gleiche gilt für den in Satz 1
 genannten Anwendungsbereich in den Fällen, in denen
-Unterhaltspflichtige, Angehörige, der frühere Ehegatte oder Erben zum
-Ersatz der Aufwendungen des Leistungsträgers herangezogen werden.
-Auskünfte auf Fragen, deren Beantwortung einem nach Satz 1 oder Satz 2
-Auskunftspflichtigen oder einer ihm nahe stehenden Person (§ 383 Abs.
-1 Nr. 1 bis 3 der Zivilprozessordnung) die Gefahr zuziehen würde,
-wegen einer Straftat oder einer Ordnungswidrigkeit verfolgt zu werden,
-können verweigert werden.
+Unterhaltspflichtige, Angehörige, der frühere Ehegatte, der frühere
+Lebenspartner oder Erben zum Ersatz der Aufwendungen des
+Leistungsträgers herangezogen werden. Auskünfte auf Fragen, deren
+Beantwortung einem nach Satz 1 oder Satz 2 Auskunftspflichtigen oder
+einer ihm nahe stehenden Person (§ 383 Abs. 1 Nr. 1 bis 3 der
+Zivilprozessordnung) die Gefahr zuziehen würde, wegen einer Straftat
+oder einer Ordnungswidrigkeit verfolgt zu werden, können verweigert
+werden.
 
 
 ##### § 100 Auskunftspflicht des Arztes oder Angehörigen eines anderen Heilberufs
@@ -4093,8 +4062,10 @@ diesem Gesetzbuch erforderlich und
 
 
 
-Die Einwilligung bedarf der Schriftform, soweit nicht wegen besonderer
-Umstände eine andere Form angemessen ist. Die Sätze 1 und 2 gelten
+Die Einwilligung soll zum Nachweis im Sinne des Artikels 7 Absatz 1
+der Verordnung (EU) 2016/679, dass die betroffene Person in die
+Verarbeitung ihrer personenbezogenen Daten eingewilligt hat,
+schriftlich oder elektronisch erfolgen. Die Sätze 1 und 2 gelten
 entsprechend für Krankenhäuser sowie für Vorsorge- oder
 Rehabilitationseinrichtungen.
 
@@ -4115,13 +4086,13 @@ Mitteilung eingewilligt hat. § 100 Abs. 1 Satz 2 gilt entsprechend.
 
 ##### § 101a Mitteilungen der Meldebehörden
 
-(1) Die Datenstelle der Träger der Rentenversicherung übermittelt die
+(1) Die Datenstelle der Rentenversicherung übermittelt die
 Mitteilungen aller Sterbefälle und Anschriftenänderungen (§ 196 Abs. 2
 des Sechsten Buches) unverzüglich an die Deutsche Post AG.
 
-(2) Die Mitteilungen, die von der Datenstelle der Träger der
-Rentenversicherung an die Deutsche Post AG übermittelt werden, dürfen
-von der Deutschen Post AG
+(2) Die Mitteilungen, die von der Datenstelle der Rentenversicherung
+an die Deutsche Post AG übermittelt werden, dürfen von der Deutschen
+Post AG
 
 1.  nur dazu verwendet werden, um laufende Geldleistungen der
     Leistungsträger, der in § 69 Abs. 2 genannten Stellen sowie
@@ -4453,8 +4424,8 @@ Schadensereignisses mit dem Geschädigten oder seinen Hinterbliebenen
 in häuslicher Gemeinschaft leben, ausgeschlossen. Ein Ersatzanspruch
 nach Absatz 1 kann dann nicht geltend gemacht werden, wenn der
 Schädiger mit dem Geschädigten oder einem Hinterbliebenen nach
-Eintritt des Schadensereignisses die Ehe geschlossen hat und in
-häuslicher Gemeinschaft lebt.
+Eintritt des Schadensereignisses die Ehe geschlossen oder eine
+Lebenspartnerschaft begründet hat und in häuslicher Gemeinschaft lebt.
 
 (7) Haben der Geschädigte oder seine Hinterbliebenen von dem zum
 Schadenersatz Verpflichteten auf einen übergegangenen Anspruch mit

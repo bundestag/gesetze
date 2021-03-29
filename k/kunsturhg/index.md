@@ -109,24 +109,24 @@ bestraft, wer entgegen den §§ 22, 23 ein Bildnis verbreitet oder
 Die widerrechtlich hergestellten, verbreiteten oder vorgeführten
 Exemplare und die zur widerrechtlichen Vervielfältigung oder
 Vorführung ausschließlich bestimmten Vorrichtungen, wie Formen,
-Platten, Steine, unterliegen der Vernichtung.              Das gleiche
-gilt von den widerrechtlich verbreiteten oder öffentlich zur Schau
-gestellten Bildnissen und den zu deren Vervielfältigung ausschließlich
-bestimmten Vorrichtungen. Ist nur ein Teil des Werkes widerrechtlich
-hergestellt,              verbreitet
-oder vorgeführt,              so ist auf Vernichtung dieses Teiles und
-der entsprechenden Vorrichtungen zu erkennen.
+Platten, Steine, unterliegen der Vernichtung. Das gleiche gilt von den
+widerrechtlich verbreiteten oder öffentlich zur Schau gestellten
+Bildnissen und den zu deren Vervielfältigung ausschließlich bestimmten
+Vorrichtungen. Ist nur ein Teil des Werkes widerrechtlich
+hergestellt, verbreitet
+oder vorgeführt, so ist auf Vernichtung dieses Teiles und der
+entsprechenden Vorrichtungen zu erkennen.
 
 (2) Gegenstand der Vernichtung sind alle Exemplare und Vorrichtungen,
 welche sich im Eigentume der an
-der Herstellung,              der Verbreitung,
-der Vorführung              oder der Schaustellung Beteiligten sowie
-der Erben dieser Personen befinden.
+der Herstellung, der Verbreitung,
+der Vorführung oder der Schaustellung Beteiligten sowie der Erben
+dieser Personen befinden.
 
 (3) Auf die Vernichtung ist auch dann zu erkennen, wenn
-die Herstellung,              die Verbreitung,
-die Vorführung              oder die Schaustellung weder vorsätzlich
-noch fahrlässig erfolgt.
+die Herstellung, die Verbreitung,
+die Vorführung oder die Schaustellung weder vorsätzlich noch
+fahrlässig erfolgt.
 Das gleiche gilt, wenn die Herstellung noch nicht vollendet ist.
 
 (4) Die Vernichtung hat zu erfolgen, nachdem dem Eigentümer gegenüber
@@ -135,7 +135,7 @@ Vorrichtungen in anderer Weise als durch Vernichtung unschädlich
 gemacht werden können, hat dies zu geschehen, falls der Eigentümer die
 Kosten übernimmt.
 
-(5)
+(5) (weggefallen)
 
 
 ## § 38
@@ -176,8 +176,8 @@ zulässig.
 
 (2) Der Verletzte kann die Vernichtung von Exemplaren oder
 Vorrichtungen selbständig verfolgen. In diesem Falle finden die
-§§ 477 bis 479              der Strafprozeßordnung mit der Maßgabe
-Anwendung, daß der Verletzte als Privatkläger auftreten kann.
+§§ 477 bis 479 der Strafprozeßordnung mit der Maßgabe Anwendung, daß
+der Verletzte als Privatkläger auftreten kann.
 
 
 ## § 44
@@ -205,12 +205,12 @@ Rechtes entsprechende Anwendung.
 
 (1)
 Der Anspruch auf Schadensersatz und die Strafverfolgung wegen
-widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie
-die Strafverfolgung wegen widerrechtlicher Verbreitung oder
-Schaustellung eines Bildnisses verjähren in drei Jahren.
+widerrechtlicher Verbreitung oder Vorführung eines Werkes sowie die
+Strafverfolgung wegen widerrechtlicher Verbreitung oder Schaustellung
+eines Bildnisses verjähren in drei Jahren.
 
-(2) Die Verjährung beginnt mit dem Tag, an welchem die widerrechtliche
-Handlung zuletzt stattgefunden hat.
+(2) Die Verjährung beginnt mit dem Tage, an welchem die
+widerrechtliche Handlung zuletzt stattgefunden hat.
 
 
 ## § 49
@@ -249,5 +249,5 @@ sind.
 
 (1) Das Gesetz tritt mit dem 1. Juli 1907 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschrift)
 

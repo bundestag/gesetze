@@ -55,8 +55,8 @@ Fundstelle
     durch
     die Dritte Verordnung zur Änderung der Verordnung über die Gewährung
     von Jubiläumszuwendungen an Beamte und Richter des Bundes vom 22.
-    Januar 1980 (BGBl. I S. 88),                    Beamten
-    Jubiläumszuwendungen zu gewähren oder zu versagen.
+    Januar 1980 (BGBl. I S. 88), Beamten Jubiläumszuwendungen zu gewähren
+    oder zu versagen.
 
 
 

@@ -3,7 +3,7 @@ Title: Übereinkommen über die Erhaltung der europäischen wildlebenden Pflanze
   Tiere und ihrer natürlichen Lebensräume
 jurabk: EuLRaumÜbk
 layout: default
-origslug: eulraum_bk
+origslug: eulraumuebk
 slug: eulraumuebk
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 3675
 
 Zuletzt geändert durch
-:   Art. 6 G v. 30.7.2009 I 2479
+:   Art. 7 G v. 10.5.2016 I 1142
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -328,35 +328,48 @@ soll. § 38 Abs. 2 des SE-Beteiligungsgesetzes bleibt unberührt.
 
 (1) Das Aufsichtsorgan besteht aus drei Mitgliedern. Die Satzung kann
 eine bestimmte höhere Zahl festsetzen. Die Zahl muss durch drei
-teilbar sein. Die Höchstzahl beträgt bei Gesellschaften mit einem
-Grundkapital
+teilbar sein, wenn dies für die Beteiligung der Arbeitnehmer auf Grund
+des SE-Beteiligungsgesetzes erforderlich ist. Die Höchstzahl beträgt
+bei Gesellschaften mit einem Grundkapital
 
-*    *   bis zu 1.500.000 Euro
+*    *   bis zu 1 500 000 Euro
 
     *   neun,
 
 
-*    *   von mehr als 1.500.000 Euro
+*    *   von mehr als 1 500 000 Euro
 
     *   fünfzehn,
 
 
-*    *   von mehr als 10.000.000 Euro
+*    *   von mehr als 10 000 000 Euro
 
     *   einundzwanzig.
 
 
 
 
-(2) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz
+(2) Besteht bei einer börsennotierten SE das Aufsichtsorgan aus
+derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen
+in dem Aufsichtsorgan Frauen und Männer jeweils mit einem Anteil von
+mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30
+Prozent an Frauen und Männern im Aufsichtsorgan ist bei erforderlich
+werdenden Neubesetzungen einzelner oder mehrerer Sitze im
+Aufsichtsorgan zu beachten. Reicht die Zahl der neu zu besetzenden
+Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
+
+(3) Die Beteiligung der Arbeitnehmer nach dem SE-Beteiligungsgesetz
 bleibt unberührt.
 
-(3) Für Verfahren entsprechend den §§ 98, 99 oder 104 des
+(4) Für Verfahren entsprechend den §§ 98, 99 oder 104 des
 Aktiengesetzes ist auch der SE-Betriebsrat antragsberechtigt. Für
 Klagen entsprechend § 250 des Aktiengesetzes ist auch der SE-
 Betriebsrat parteifähig; § 252 des Aktiengesetzes gilt entsprechend.
 
-(4) § 251 des Aktiengesetzes findet mit der Maßgabe Anwendung, dass
+(5) § 251 des Aktiengesetzes findet mit der Maßgabe Anwendung, dass
 das gesetzeswidrige Zustandekommen von Wahlvorschlägen für die
 Arbeitnehmervertreter im Aufsichtsorgan nur nach den Vorschriften der
 Mitgliedstaaten über die Besetzung der ihnen zugewiesenen Sitze
@@ -500,6 +513,18 @@ Vorsitzenden des Verwaltungsrats oder in der gerichtlichen
 Entscheidung angegebenen vertraglichen oder gesetzlichen Vorschriften
 anzuwenden sind.
 
+(3) Besteht bei einer börsennotierten SE der Verwaltungsrat aus
+derselben Zahl von Anteilseigner- und Arbeitnehmervertretern, müssen
+in dem Verwaltungsrat Frauen und Männer jeweils mit einem Anteil von
+mindestens 30 Prozent vertreten sein. Der Mindestanteil von jeweils 30
+Prozent an Frauen und Männern im Verwaltungsrat ist bei erforderlich
+werdenden Neubesetzungen einzelner oder mehrerer Sitze im
+Verwaltungsrat zu beachten. Reicht die Zahl der neu zu besetzenden
+Sitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit
+Personen des unterrepräsentierten Geschlechts zu besetzen, um dessen
+Anteil sukzessive zu steigern. Bestehende Mandate können bis zu ihrem
+regulären Ende wahrgenommen werden.
+
 
 #### § 25 Bekanntmachung über die Zusammensetzung des Verwaltungsrats
 
@@ -601,9 +626,17 @@ Handelsgesellschaften, die gesetzlich einen Aufsichtsrat oder einen
 Verwaltungsrat zu bilden haben, inne hat. Auf die Höchstzahl nach Satz
 1 Nr. 1 sind Aufsichtsrats- oder Verwaltungsratsämter im Sinne der
 Nummer 1 doppelt anzurechnen, für die das Mitglied zum Vorsitzenden
-gewählt worden ist. Bei einer SE im Sinn des § 264d des
-Handelsgesetzbuchs muss mindestens ein Mitglied des Verwaltungsrats
-die Voraussetzungen des § 100 Abs. 5 des Aktiengesetzes erfüllen.
+gewählt worden ist. Bei einer SE, die kapitalmarktorientiert im Sinne
+des § 264d des Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des
+§ 1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2
+Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+oder die Versicherungsunternehmen ist im Sinne des Artikels 2 Absatz 1
+der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 über den
+Jahresabschluß und den konsolidierten Abschluß von
+Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die
+zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S.
+1) geändert worden ist, müssen die Voraussetzungen des § 100 Absatz 5
+des Aktiengesetzes erfüllt sein.
 
 (2) § 36 Abs. 3 Satz 2 in Verbindung mit § 6 Abs. 2 bis 4 des SE-
 Beteiligungsgesetzes oder eine Vereinbarung nach § 21 des SE-
@@ -785,13 +818,14 @@ an Stelle des Verwaltungsrats zur Beschlussfassung überwiesen werden.
 Dem Verwaltungsrat ist regelmäßig über die Arbeit der Ausschüsse zu
 berichten. Der Verwaltungsrat kann einen Prüfungsausschuss einrichten,
 dem insbesondere die Aufgaben nach § 107 Abs. 3 Satz 2 des
-Aktiengesetzes übertragen werden können. Er muss mehrheitlich mit
-nicht geschäftsführenden Mitgliedern besetzt werden. Richtet der
-Verwaltungsrat einer SE im Sinn des § 264d des Handelsgesetzbuchs
-einen Prüfungsausschuss ein, muss mindestens ein Mitglied des
-Prüfungsausschusses die Voraussetzungen des § 100 Abs. 5 des
-Aktiengesetzes erfüllen und darf der Vorsitzende des
-Prüfungsausschusses nicht geschäftsführender Direktor sein.
+Aktiengesetzes übertragen werden können. Richtet der Verwaltungsrat
+einer SE, die kapitalmarktorientiert im Sinne des § 264d des
+Handelsgesetzbuchs, die CRR-Kreditinstitut im Sinne des § 1 Absatz 3d
+Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1
+Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, oder die
+Versicherungsunternehmen im Sinne des Artikels 2 Absatz 1 der
+Richtlinie 91/674/EWG ist, einen Prüfungsausschuss ein, so muss dieser
+die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes erfüllen.
 
 
 #### § 35 Beschlussfassung
@@ -1154,7 +1188,7 @@ getroffen wird, findet die Beschwerde statt.
 ### § 53 Straf- und Bußgeldvorschriften
 
 (1) Die Strafvorschriften des § 399 Abs. 1 Nr. 1 bis 5 und Abs. 2, des
-§ 400 und der §§ 402 bis 404 des Aktiengesetzes, der §§ 331 bis 333
+§ 400 und der §§ 402 bis 404a des Aktiengesetzes, der §§ 331 bis 333
 des Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes
 sowie die Bußgeldvorschriften des § 405 des Aktiengesetzes und des §
 334 des Handelsgesetzbuchs gelten auch für die SE im Sinne des
@@ -1177,7 +1211,10 @@ Fällen der Nummern 1 und 3 für die Mitglieder des Leitungsorgans und
 in den Fällen der Nummer 2 für die Mitglieder des Aufsichtsorgans. Bei
 der SE mit monistischem System gelten sie in den Fällen der Nummern 1
 und 3 für die geschäftsführenden Direktoren und in den Fällen der
-Nummer 2 für die Mitglieder des Verwaltungsrats.
+Nummer 2 für die Mitglieder des Verwaltungsrats. § 407a des
+Aktiengesetzes gilt bei Anwendung der Strafvorschriften des § 404a des
+Aktiengesetzes sowie der Bußgeldvorschriften des § 405 Absatz 3b bis
+3d des Aktiengesetzes entsprechend.
 
 (2) Die Strafvorschriften des § 399 Abs. 1 Nr. 6 und des § 401 des
 Aktiengesetzes gelten im Sinne des Artikels 9 Abs. 1 Buchstabe c
@@ -1245,4 +1282,13 @@ und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 In den Fällen des § 6 Abs. 3 Satz 1 und des § 7 Abs. 2 Satz 2 bleibt
 es für die Zeit vor dem 1. September 2009 bei dem bis dahin geltenden
 Zinssatz.
+
+
+### § 56 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 27 Absatz 1 Satz 4 und § 34 Absatz 4 Satz 5 jeweils in der Fassung
+des Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+müssen so lange nicht angewandt werden, wie alle Mitglieder des
+Verwaltungsrates und des Prüfungsausschusses vor dem 17. Juni 2016
+bestellt worden sind.
 

@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 20. Juni 1956 über die Geltendmachung v
   im Ausland
 jurabk: UhAnsprAuslÜbkG
 layout: default
-origslug: uhansprausl_bkg
+origslug: uhansprausluebkg
 slug: uhansprausluebkg
 
 ---

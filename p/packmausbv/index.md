@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 988
 
+Geändert durch
+:   Art. 1 V v. 3.4.2018 I 429
+
 [^F775272_01_BJNR098800011]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -481,8 +484,9 @@ die Verordnung über die Berufsausbildung zum
 Verpackungsmittelmechaniker/zur Verpackungsmittelmechanikerin vom 5.
 April 2001 (BGBl. I S. 494) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Packmitteltechnologen und zur Packmitteltechnologin
 
 (Fundstelle: BGBl. I 2011, 991 - 995)
 

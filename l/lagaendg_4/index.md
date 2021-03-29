@@ -2,7 +2,7 @@
 Title: Viertes Gesetz zur Änderung des Lastenausgleichsgesetzes
 jurabk: LAGÄndG 4
 layout: default
-origslug: lag_ndg_4
+origslug: lagaendg_4
 slug: lagaendg_4
 
 ---
@@ -82,7 +82,7 @@ Gesetzes Schäden geltend machen können, gilt folgendes:
 
 2.  Beihilfen zur Beschaffung von Hausrat gelten als Leistungen der
     Hausrathilfe nach
-    § 297 Abs. 2                    des Lastenausgleichsgesetzes.
+    § 297 Abs. 2 des Lastenausgleichsgesetzes.
 
 
 3.  Aus dem Härtefonds gewährte Aufbaudarlehen gelten für die Anwendung

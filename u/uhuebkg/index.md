@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 24. Oktober 1956 über das auf Unterhalt
   gegenüber Kindern anzuwendende Recht
 jurabk: UhÜbkG
 layout: default
-origslug: uh_bkg
+origslug: uhuebkg
 slug: uhuebkg
 
 ---

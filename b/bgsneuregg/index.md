@@ -26,7 +26,7 @@ Der Bundestag hat das folgende Gesetz beschlossen:
 
 
 
-## Art 2 -
+## Art 2 - 
 
 
 

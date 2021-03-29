@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1998, 3831
 
 Zuletzt geändert durch
-:   § 22 Abs. 9 G v. 12.12.2007 I 2861
+:   Art. 3 Abs. 7 G v. 29.6.2015 I 1061
 
 
 ## Eingangsformel
@@ -53,16 +53,16 @@ Rentenversicherung vorgenommen.
 
 (2) Die Beiträge werden wie folgt berechnet:
 
-1.  für Dienstleistende, die eine Verdienstausfallentschädigung nach dem
-    Unterhaltssicherungsgesetz oder Dienstbezüge aufgrund eines
+1.  für Dienstleistende, die Leistungen an Nichtselbständige nach § 6 des
+    Unterhaltssicherungsgesetzes oder Dienstbezüge aufgrund eines
     versicherten Wehrdienstverhältnisses besonderer Art nach § 6 des
     Einsatz-Weiterverwendungsgesetzes erhalten:
 
     Summe der Arbeitsentgelte oder Dienstbezüge x Beitragssatz,
 
 
-2.  für Dienstleistende, die eine Verdienstausfallentschädigung nach dem
-    Unterhaltssicherungsgesetz nicht erhalten:
+2.  für Dienstleistende, die Leistungen an Nichtselbständige nach § 6 des
+    Unterhaltssicherungsgesetzes nicht erhalten:
 
 
 
@@ -76,13 +76,13 @@ grundlage
 ## § 3 Berechnungsgrundlagen
 
 (1) Summe der Arbeitsentgelte (§ 2 Abs. 2 Nr. 1) sind im Fall einer
-Verdienstausfallentschädigung (1. Alternative) die der
-Verdienstausfallentschädigung nach § 13 Abs. 2 des
-Unterhaltssicherungsgesetzes vor Abzug von Steuern und
-Beitragsanteilen zugrunde liegenden Arbeitsentgelte bis zur jeweiligen
-Beitragsbemessungsgrenze und im Fall von Dienstbezügen (2.
-Alternative) die beitragspflichtigen Einnahmen nach § 166 Abs. 1 Nr.
-1a des Sechsten Buches Sozialgesetzbuch.
+Verdienstausfallentschädigung (1. Alternative) die den Leistungen an
+Nichtselbständige nach § 6 Absatz 1 des Unterhaltssicherungsgesetzes
+vor Abzug von Steuern und Beitragsanteilen zugrunde liegenden
+Arbeitsentgelte bis zur jeweiligen Beitragsbemessungsgrenze und im
+Fall von Dienstbezügen (2. Alternative) die beitragspflichtigen
+Einnahmen nach § 166 Abs. 1 Nr. 1a des Sechsten Buches
+Sozialgesetzbuch.
 
 (2) Beitragsbemessungsgrundlage (§ 2 Abs. 2 Nr. 2) sind die aus der
 für das Kalenderjahr der Dienstleistung geltenden Bezugsgröße

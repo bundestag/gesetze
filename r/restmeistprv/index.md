@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 1576
 
 Zuletzt geändert durch
-:   Art. 4 V v. 23.7.2010 I 1010
+:   Art. 49 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -678,7 +678,7 @@ Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
 ## Anlage 1 (zu § 9 Abs. 4)
 
-(Fundstelle: BGBl. I 2003, 1581,
+(Fundstelle: BGBl. I 2003, 1581;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -698,9 +698,13 @@ Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin vom 5. August
 2003
-(BGBl. I S. 1576), die zuletzt durch Artikel 4 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+(BGBl. I S. 1576), die zuletzt durch Artikel 49 der Verordnung vom
+26\. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -708,7 +712,7 @@ Unterschrift(en) ...............................
 
 ## Anlage 2 (zu § 9 Abs. 4)
 
-(Fundstelle: BGBl. I 2003, 1582 - 1583,
+(Fundstelle: BGBl. I 2003, 1582 - 1583;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -728,8 +732,8 @@ Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Restaurantmeister/Geprüfte Restaurantmeisterin vom 5. August
 2003
-(BGBl. I S. 1576), die zuletzt durch Artikel 4 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit
+(BGBl. I S. 1576), die zuletzt durch Artikel 49 der Verordnung vom
+26\. März 2014 (BGBl. I S. 274) geändert worden ist, mit
 folgenden Ergebnissen bestanden:
 Note 1)
 I.   Wirtschaftsbezogene Qualifikationen
@@ -770,6 +774,10 @@ IV.  Berufs- und arbeitspädagogische Qualifikationen
 Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 4
 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Qualifikationen durch die Prüfung am .... in .... vor .... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .........................................
 Unterschrift(en) ..............................
 (Siegel der zuständigen Stelle)

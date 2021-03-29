@@ -3,7 +3,7 @@ Title: Erlaß über die Genehmigung einer Änderung der Benennung und der Form d
   der Bundesverkehrswacht"
 jurabk: BVerkEhrZÄndErl
 layout: default
-origslug: bverkehrz_nderl
+origslug: bverkehrzaenderl
 slug: bverkehrzaenderl
 
 ---

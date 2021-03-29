@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 1586
 
-Geändert durch
-:   Art. 1 V v. 17.6.2010 I 809
+Zuletzt geändert durch
+:   Art. 211 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -32,7 +32,7 @@ verordnet das Bundesministerium der Justiz:
 ## § 1 Geltungsbereich
 
 Für Amtshandlungen des Deutschen Patent- und Markenamts in Patent-,
-Gebrauchsmuster-, Topographieschutz-, Marken-, Geschmacksmuster- und
+Gebrauchsmuster-, Topographieschutz-, Marken-, Design- und
 Urheberrechtssachen werden Kosten (Gebühren und Auslagen), über die
 nicht anderweitig durch Gesetz oder aufgrund gesetzlicher
 Ermächtigungen Bestimmungen getroffen sind, nur nach den Vorschriften
@@ -75,9 +75,9 @@ Eurobeträge aufzurunden.
 
 
 4.  die Weltorganisation für geistiges Eigentum nach Maßgabe von
-    Verwaltungsvereinbarungen des Bundesministeriums der Justiz im Rahmen
-    der internationalen Zusammenarbeit auf dem Gebiet des gewerblichen
-    Rechtsschutzes.
+    Verwaltungsvereinbarungen des Bundesministeriums der Justiz und für
+    Verbraucherschutz im Rahmen der internationalen Zusammenarbeit auf dem
+    Gebiet des gewerblichen Rechtsschutzes.
 
 
 
@@ -144,8 +144,8 @@ Auslagen erhoben werden.
 (2) Für die Bestimmung der Zahlungsfristen gilt § 18 der DPMA-
 Verordnung entsprechend.
 
-(3) Bescheinigungen, Ausfertigungen und Abschriften sowie vom
-Antragsteller anlässlich der Amtshandlung eingereichte Unterlagen
+(3) Bescheinigungen, Ausfertigungen, Ablichtungen und Ausdrucke sowie
+vom Antragsteller anlässlich der Amtshandlung eingereichte Unterlagen
 können zurückbehalten werden, bis die in der Angelegenheit erwachsenen
 Kosten bezahlt sind. Von der Zurückbehaltung ist abzusehen,
 
@@ -218,8 +218,8 @@ entstanden sind.
 angesetzt hat, trifft auch die Entscheidungen nach den §§ 9 und 10.
 Die Anordnung nach § 9 Abs. 1, dass Kosten nicht erhoben werden, kann
 in Patent-, Gebrauchsmuster-, Topographieschutz-, Marken- und
-Geschmacksmustersachen auch im Aufsichtsweg erlassen werden, solange
-nicht das Bundespatentgericht entschieden hat.
+Designsachen auch im Aufsichtsweg erlassen werden, solange nicht das
+Bundespatentgericht entschieden hat.
 
 
 ## § 12 Erinnerung, Beschwerde, gerichtliche Entscheidung
@@ -233,9 +233,9 @@ Deutsche Patent- und Markenamt kann seine Entscheidung von Amts wegen
 
 (2) Gegen die Entscheidung des Deutschen Patent- und Markenamts über
 die Erinnerung in Patent-, Gebrauchsmuster-, Topographieschutz-,
-Marken- und Geschmacksmustersachen kann der Kostenschuldner Beschwerde
-einlegen. Eine Beschwerde gegen die Entscheidung des
-Bundespatentgerichts über den Kostenansatz findet nicht statt.
+Marken- und Designsachen kann der Kostenschuldner Beschwerde einlegen.
+Eine Beschwerde gegen die Entscheidung des Bundespatentgerichts über
+den Kostenansatz findet nicht statt.
 
 (3) Erinnerung und Beschwerde sind schriftlich oder zu Protokoll der
 Geschäftsstelle beim Deutschen Patent- und Markenamt einzulegen. Die
@@ -274,11 +274,12 @@ Gebühren erst mit Beendigung der Amtshandlung fällig.
 
 Diese Verordnung tritt am 1. Oktober 2006 in Kraft.
 
+(zu § 2 Abs. 1)
 
-## Anlage (zu § 2 Abs. 1) Kostenverzeichnis
+## Anlage Kostenverzeichnis
 
-(Fundstelle: BGBl. I 2006, 1589 - 1591; bzgl. der einzelnen Änderung
-vgl. Fußnote)
+(Fundstelle: BGBl. I 2006, 1589 - 1591;
+bzgl. der einzelnen Änderung vgl. Fußnote)
 
 *    *   Nr.
 
@@ -328,13 +329,15 @@ vgl. Fußnote)
 
 *    *   301 200
 
-    *   Beglaubigung von Abschriften für jede angefangene Seite
+    *   Beglaubigung von Ablichtungen und Ausdrucken für jede angefangene
+        Seite
 
     *   0,50 - mindestens 5
 
 
-*    *   (1) Die Beglaubigung von Abschriften der vom Deutschen Patent- und
-        Markenamt erlassenen Entscheidungen und Bescheide ist gebührenfrei.
+*    *   (1) Die Beglaubigung von Ablichtungen und Ausdrucken der vom Deutschen
+        Patent- und Markenamt erlassenen Entscheidungen und Bescheide ist
+        gebührenfrei.
 
         (2) Auslagen werden zusätzlich erhoben.
 
@@ -377,7 +380,7 @@ vgl. Fußnote)
 
         *
             -   die Erteilung von Patent-, Gebrauchsmuster-, Topographie-, Marken- und
-                Geschmacksmusterurkunden (§ 25 Abs. 1 DPMAV) und
+                Designurkunden (§ 25 Abs. 1 DPMAV) und
 
 
             -   das Anheften von Unterlagen an die Schmuckurkunde.
@@ -408,7 +411,7 @@ vgl. Fußnote)
 
 *    *
 
-*    *   **IV. Akteneinsicht, Erteilung von Abschriften**
+*    *   **IV. Akteneinsicht, Erteilung von Ablichtungen und Ausdrucken**
 
 
 *    *   301 400
@@ -427,13 +430,14 @@ vgl. Fußnote)
 
 *    *   301 410
 
-    *   Verfahren über Anträge auf Erteilung von Abschriften aus Akten
+    *   Verfahren über Anträge auf Erteilung von Ablichtungen und Ausdrucken
+        aus Akten
         (1) Gebührenfrei ist
 
         *
-            -   die Erteilung von Abschriften aus solchen Akten, deren Einsicht
-                jedermann freisteht, aus Akten der eigenen Anmeldung oder des eigenen
-                Schutzrechts, oder wenn
+            -   die Erteilung von Ablichtungen und Ausdrucken aus solchen Akten, deren
+                Einsicht jedermann freisteht, aus Akten der eigenen Anmeldung oder des
+                eigenen Schutzrechts, oder wenn
 
 
             -   der Antrag im Anschluss an ein Akteneinsichtsverfahren gestellt wird,
@@ -488,13 +492,18 @@ vgl. Fußnote)
 
     *   Pauschale für die Herstellung und Überlassung von Dokumenten:
 
-        1.  Ausfertigungen oder Abschriften, die auf Antrag erteilt, angefertigt,
-            per Telefax übermittelt oder die angefertigt worden sind, weil die
-            Beteiligten es unterlassen haben, Schriftstücke, die mehrere
-            Anmeldungen oder Schutzrechte betreffen, in der erforderlichen Zahl
-            einzureichen oder einem von Amts wegen zuzustellenden Schriftsatz die
-            erforderliche Zahl von Abschriften beizufügen:
-            für die ersten 50 Seiten je Seite
+        1.  Ausfertigungen, Ablichtungen und Ausdrucke, die auf Antrag
+            angefertigt, per Telefax übermittelt oder die angefertigt worden sind,
+            weil die Beteiligten es unterlassen haben, die erforderliche Zahl von
+            Mehrfertigungen beizufügen (Dokumentenpauschale):
+
+
+
+
+    *
+
+*    *
+        *   für die ersten 50 Seiten je Seite
 
 
 
@@ -513,7 +522,7 @@ vgl. Fußnote)
 
 *    *
         2.  Überlassung von elektronisch gespeicherten Dateien anstelle der in
-            Nummer 1 genannten Ausfertigungen und Abschriften:
+            Nummer 1 genannten Ausfertigungen, Ablichtungen und Ausdrucke:
             je Datei
 
 
@@ -523,8 +532,8 @@ vgl. Fußnote)
 
 
 *    *
-        3.  Datenträgerpauschale für die Übermittlung von elektronisch
-            gespeicherten Daten auf CD oder DVD:
+        3.  Pauschale für die Überlassung von elektronisch gespeicherten Daten auf
+            CD oder DVD (Datenträgerpauschale):
 
 
 
@@ -534,7 +543,7 @@ vgl. Fußnote)
 
 
 
-    *   7 EUR
+    *   7,00 EUR
 
 
 *    *
@@ -543,17 +552,19 @@ vgl. Fußnote)
 
 
 
-    *   12 EUR
+    *   12,00 EUR
 
 
 *    *   (1) Frei von der Dokumentenpauschale sind für jeden Beteiligten und
-        deren bevollmächtigte Vertreter
+        dessen bevollmächtigte Vertreter jeweils
 
-        -   eine vollständige Ausfertigung oder Abschrift der Entscheidungen und
-            Bescheide des Deutschen Patent- und Markenamts,
+        –   eine vollständige Ausfertigung oder Ablichtung oder ein vollständiger
+            Ausdruck der Entscheidungen und Bescheide des Deutschen Patent- und
+            Markenamts,
 
 
-        -   eine Abschrift jeder Niederschrift über eine Sitzung.
+        –   eine Ablichtung oder ein Ausdruck jeder Niederschrift über eine
+            Sitzung.
 
 
 

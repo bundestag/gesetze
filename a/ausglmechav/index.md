@@ -1,6 +1,5 @@
 ---
-Title: Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten
-  Ausgleichsmechanismus
+Title: Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung
 jurabk: AusglMechAV
 layout: default
 origslug: ausglmechav
@@ -8,7 +7,7 @@ slug: ausglmechav
 
 ---
 
-# Verordnung zur Ausführung der Verordnung zur Weiterentwicklung des bundesweiten Ausgleichsmechanismus (AusglMechAV)
+# Verordnung zur Ausführung der Erneuerbare-Energien-Verordnung (AusglMechAV)
 
 Ausfertigungsdatum
 :   2010-02-22
@@ -17,7 +16,7 @@ Fundstelle
 :   BGBl I: 2010, 134
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.8.2012 I 1754
+:   Art. 4 V v. 10.8.2017 I 3102
 
 
 ## Eingangsformel
@@ -32,227 +31,178 @@ Naturschutz und Reaktorsicherheit und dem Bundesministerium für
 Wirtschaft und Technologie:
 
 
-## § 1 Vortägige und untertägige Vermarktung
+## Abschnitt 1 - Ausführung des EEG-Ausgleichsmechanismus
 
-(1) Über den vortägigen Spotmarkt einer Strombörse ist für jede Stunde
-des Folgetages die gemäß Vortagesprognose vorhergesagte
-Einspeiseleistung des nach § 16 oder § 35 Absatz 1 des Erneuerbare-
-Energien-Gesetzes zu vergütenden Stroms zu veräußern. Sämtliche
-Verkaufsangebote sind preisunabhängig einzustellen.
 
-(2) Die Abweichungen zwischen den sich aus den untertägigen Prognosen
-ergebenden Einspeiseleistungen und den auf Basis der Vortagesprognose
-bereits veräußerten Strommengen sind über den untertägigen Spotmarkt
-einer Strombörse zu erwerben oder zu veräußern.
+### § 1 Vermarktung an Spotmärkten
 
-(3) Die vortägigen und untertägigen Prognosen des nach § 16 oder § 35
-Absatz 1 des Erneuerbare-Energien-Gesetzes zu vergütenden Stroms sind
-nach dem Stand von Wissenschaft und Technik zu erstellen.
+(1) Am vortägigen Spotmarkt einer Strombörse ist über eine
+marktgekoppelte Auktion mit stündlichen Handelsprodukten für jede
+Stunde des Folgetages die gemäß aktueller Prognose vorhergesagte
+stündliche Einspeisung des nach § 19 Absatz 1 Nummer 2 des
+Erneuerbare-Energien-Gesetzes zu vergütenden Stroms vollständig zu
+veräußern. Verkaufsangebote nach Satz 1 sind preisunabhängig
+einzustellen.
 
-(4) (weggefallen)
+(2) Differenzen zwischen der gemäß jeweils aktueller Prognose
+vorhergesagten viertelstündlichen Einspeisung und der nach Absatz 1 zu
+vermarktenden stündlichen Einspeisung können am Spotmarkt einer
+Strombörse für jede Viertelstunde des Folgetages über Auktionen mit
+viertelstündlichen Handelsprodukten erworben oder veräußert werden.
+Gebote nach Satz 1 können preislimitiert eingestellt werden.
+
+(3) Differenzen zwischen der nach aktualisierten Prognosen
+vorhergesagten viertelstündlichen Einspeisung und den bereits
+veräußerten und erworbenen Strommengen sind über den untertägigen
+kontinuierlichen Handel am Spotmarkt einer Strombörse zu erwerben oder
+zu veräußern. Mit Abschluss der letzten Handelsmöglichkeiten nach Satz
+1 müssen die Differenzen nach Satz 1 vollständig ausgeglichen sein.
+
+(4) Die Prognosen über den nach § 19 Absatz 1 Nummer 2 des
+Erneuerbare-Energien-Gesetzes zu vergütenden Strom sind nach dem Stand
+von Wissenschaft und Technik zu erstellen.
 
 (5) Eine gemeinsame Vermarktung nach § 2 Absatz 1 Satz 1 der
-Ausgleichsmechanismusverordnung schließt die Möglichkeit ein,
+Erneuerbare-Energien-Verordnung schließt die Möglichkeit ein,
 Vermarktungstätigkeiten auf einen anderen Übertragungsnetzbetreiber im
 Rahmen eines Dienstleistungsverhältnisses zu übertragen.
 
 
-## § 2 Transparenz der Vermarktungstätigkeiten
+### § 2 Transparenz der Vermarktungstätigkeiten
 
 Die Übertragungsnetzbetreiber sind verpflichtet, folgende Daten
-ergänzend zu den Daten nach Nummer 3 der Anlage 4 zum Erneuerbare-
-Energien-Gesetz auf einer gemeinsamen Internetseite in einheitlichem
+ergänzend zu den Daten nach der Anlage 1 Nummer 3 des Erneuerbare-
+Energien-Gesetzes auf einer gemeinsamen Internetseite in einheitlichem
 Format in nicht personenbezogener Form zu veröffentlichen:
 
-1.  die Vortagesprognose der erwarteten Einspeisung aus Windenergie und
-    aus solarer Strahlungsenergie in ihrer Regelzone in mindestens
-    stündlicher Auflösung; sie ist spätestens bis 18 Uhr zu
-    veröffentlichen;
+1.  die nach § 1 Absatz 1 veräußerte Einspeisung aufgeschlüsselt nach den
+    Technologiegruppen Windenergie, solare Strahlungsenergie und Sonstige
+    in mindestens stündlicher Auflösung; sie ist spätestens bis 18 Uhr
+    desselben Tages zu veröffentlichen;
 
 
-2.  die für jede Stunde am untertägigen Spotmarkt einer Strombörse
-    beschaffte oder veräußerte Strommenge; sie ist spätestens am Folgetag
-    bis 18 Uhr zu veröffentlichen;
+2.  die nach § 1 Absatz 1 veräußerte monatliche Einspeisung
+    aufgeschlüsselt nach den Technologiegruppen Windenergie an Land,
+    Windenergie auf See, solare Strahlungsenergie, Biomasse und Sonstige;
+    sie ist für jeden Kalendermonat bis zum Ablauf des zehnten Werktags
+    des Folgemonats zu veröffentlichen;
 
 
-3.  die Differenz zwischen den gemäß der jeweils aktuellen
-    Einspeiseprognose insgesamt zu veräußernden Strommengen und den
-    hierfür insgesamt über den vor- und untertägigen Spotmarkt beschafften
-    oder veräußerten Strommengen; sie ist in stündlicher Auflösung
-    spätestens am Folgetag bis 18 Uhr zu veröffentlichen;
+3.  die nach § 1 Absatz 2 veräußerten und erworbenen Strommengen
+    aufgeschlüsselt nach Handelsplätzen in viertelstündlicher Auflösung;
+    sie sind spätestens bis 18 Uhr desselben Tages zu veröffentlichen;
 
 
-4.  die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-
+4.  die nach § 1 Absatz 3 veräußerten und erworbenen Strommengen in
+    viertelstündlicher Auflösung; sie sind spätestens am Folgetag bis 18
+    Uhr zu veröffentlichen;
+
+
+5.  die Differenz zwischen den gemäß der jeweils aktuellsten vor
+    Handelsschluss verfügbaren Prognose insgesamt zu veräußernden
+    Strommengen und den hierfür insgesamt nach § 1 Absatz 1 bis 3
+    veräußerten und erworbenen Strommengen; sie ist in viertelstündlicher
+    Auflösung spätestens am Folgetag bis 18 Uhr zu veröffentlichen;
+
+
+6.  die in Anspruch genommene Ausgleichsenergie zum Ausgleich des EEG-
     Bilanzkreises in viertelstündlicher Auflösung; sie ist unverzüglich
-    nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen.
+    nach Vorlage der Bilanzkreisabrechnung zu veröffentlichen;
+
+
+7.  die Angaben nach § 72 Absatz 1 Nummer 1 Buchstabe c des Erneuerbare-
+    Energien-Gesetzes; sie sind für jeden Kalendermonat bis zum Ablauf des
+    zehnten Werktags des Folgemonats zu veröffentlichen.
 
 
 
 
 
-## § 3 Transparenz der EEG-Umlage
+### § 3 Transparenz der Einnahmen und Ausgaben
 
-(1) Die Pflicht zur Veröffentlichung und Vorhaltung der jeweils
-aufgeschlüsselten monatlichen und jährlichen Einnahmen und Ausgaben
-gemäß § 7 Absatz 1 Nummer 1 der Ausgleichsmechanismusverordnung
-umfasst auch die nach § 6 Absatz 1 und 3 als Einnahmen und Ausgaben
-geltenden Positionen. Die aufgeschlüsselten monatlichen Einnahmen und
-Ausgaben sind in Form der tatsächlichen Einnahmen und Ausgaben laut
-dem am letzten Tag des Monats aktuellen Kontostand unverzüglich,
-spätestens jedoch am dritten Werktag des Folgemonats, zu
-veröffentlichen.
+(1) Die Übertragungsnetzbetreiber müssen die kalendermonatlichen und
+kalenderjährlichen Einnahmen und Ausgaben jeweils aufgeschlüsselt nach
+den einzelnen in § 3 der Erneuerbare-Energien-Verordnung und in § 6
+dieser Verordnung aufgeführten Einnahmen- und Ausgabenpositionen auf
+einer gemeinsamen Internetseite in einheitlichem Format und in nicht
+personenbezogener Form veröffentlichen. Einnahmen und Ausgaben, die
+aus der Vermarktung des Stroms resultieren, sind aufzuschlüsseln nach
+den Spotmarktprodukten nach § 1, über die der Strom vermarktet wurde.
+Ferner ist die Liquiditätsreserve nach § 3 Absatz 8 der Erneuerbare-
+Energien-Verordnung gesondert auszuweisen.
 
-(2) Die Übertragungsnetzbetreiber sind verpflichtet, bis zum 15.
-Oktober eines Kalenderjahres die Ermittlung der EEG-Umlage für das
-folgende Kalenderjahr transparent zu veröffentlichen. Die Angaben
-müssen einen sachkundigen Dritten in die Lage versetzen, ohne weitere
-Informationen die Ermittlung der EEG-Umlage vollständig
-nachzuvollziehen. Die Veröffentlichungspflicht umfasst insbesondere
-die Datengrundlagen, Annahmen, Rechenwege, Berechnungen und Endwerte,
-die in die Ermittlung eingeflossen sind.
+(2) Die aufgeschlüsselten kalendermonatlichen Einnahmen und Ausgaben
+sind in Form der tatsächlichen Einnahmen und Ausgaben laut dem am
+letzten Tag des Monats aktuellen Kontostand für jeden Kalendermonat
+bis zum Ablauf des zehnten Werktags des Folgemonats zu
+veröffentlichen. Eine Veröffentlichung zusammengefasster Werte
+mehrerer Übertragungsnetzbetreiber ist zulässig.
 
-(3) Die Übertragungsnetzbetreiber sind verpflichtet, bis zum 15.
-November eines Kalenderjahres die realistische Bandbreite der EEG-
-Umlage des übernächsten Jahres zu prognostizieren und die Prognose zu
-veröffentlichen. Absatz 2 Satz 2 und 3 gilt entsprechend. Die Prognose
-ist nach dem Stand von Wissenschaft und Technik zu erstellen. Die
-verwendeten Prämissen sind anzugeben.
-
-(4) Die Übertragungsnetzbetreiber sind verpflichtet, eine Prognose für
-die folgenden fünf Kalenderjahre bis zum 15. November eines
-Kalenderjahres nach folgenden Maßgaben zu erstellen und zu
-veröffentlichen. Die Entwicklung der installierten Leistung, der
-Volllaststunden, der eingespeisten Jahresarbeit, der durchschnittlich
-an die Anlagenbetreiber zu zahlenden Vergütungen sowie der Höhe der
-vermiedenen Netzentgelte ist getrennt für die nach dem Erneuerbare-
-Energien-Gesetz geförderten Energieträger zu prognostizieren und zu
-veröffentlichen. Die Strommengen, die voraussichtlich nach § 33b des
-Erneuerbare-Energien-Gesetzes direkt vermarktet werden, sind zu
-berücksichtigen. Die Energieträger sind mindestens wie folgt zu
-differenzieren:
-
-1.  Windenergie
-
-    a)  nach den §§ 29 und 30 des Erneuerbare-Energien-Gesetzes,
+(3) Die einzelnen Einnahmen- und Ausgabenpositionen nach Absatz 1 sind
+ihrer Art nach abstrakt zu erläutern. Wenn Sondereffekte aufgetreten
+sind, die einen bedeutenden Einfluss auf die Einnahmen oder Ausgaben
+haben, sind diese konkret zu erläutern.
 
 
-    b)  nach § 31 des Erneuerbare-Energien-Gesetzes;
+### § 4 Mitteilungspflichten
 
+(1) Die Übertragungsnetzbetreiber müssen der Bundesnetzagentur die
+Einnahmen und Ausgaben des Vorjahres jeweils aufgeschlüsselt nach den
+einzelnen in § 3 der Erneuerbare-Energien-Verordnung und in § 6
+aufgeführten Einnahmen- und Ausgabenpositionen übermitteln.
 
-
-
-
-2.  Geothermie nach § 28 des Erneuerbare-Energien-Gesetzes;
-
-
-3.  solare Strahlungsenergie
-
-    a)  nach § 32 Absatz 2 Nummer 1 bis 3 des Erneuerbare-Energien-Gesetzes
-        unter Angabe der Annahmen bezüglich des Eigenverbrauchs nach § 33
-        Absatz 2 des Erneuerbare-Energien-Gesetzes in der am 31. März 2012
-        geltenden Fassung,
-
-
-    b)  nach § 32 Absatz 1 und 2 Nummer 4 des Erneuerbare-Energien-Gesetzes;
-
-
-
-
-
-4.  Biomasse nach § 27 des Erneuerbare-Energien-Gesetzes;
-
-
-5.  Wasserkraft nach § 23 des Erneuerbare-Energien-Gesetzes;
-
-
-6.  Gase nach den §§ 24 bis 26 des Erneuerbare-Energien-Gesetzes.
-
-
-
-Darüber hinaus sind der Letztverbraucherabsatz sowie der privilegierte
-Letztverbraucherabsatz zu prognostizieren und zu veröffentlichen. Die
-Prognose ist nach dem Stand von Wissenschaft und Technik zu erstellen.
-Die verwendeten Prämissen sind anzugeben.
-
-(5) Die Veröffentlichungen nach den vorhergehenden Absätzen und nach §
-7 Absatz 1 Nummer 1 der Ausgleichsmechanismusverordnung sind auf einer
-gemeinsamen Internetseite in einheitlichem Format vorzunehmen. Eine
-Veröffentlichung zusammengefasster Werte mehrerer
-Übertragungsnetzbetreiber ist zulässig.
-
-
-## § 4 Mitteilungspflichten
-
-(1) Die Pflicht zur Mitteilung der jeweils aufgeschlüsselten Einnahmen
-und Ausgaben des Vorjahres gemäß § 7 Absatz 2 der
-Ausgleichsmechanismusverordnung umfasst auch die nach § 6 Absatz 1 und
-3 als Einnahmen und Ausgaben geltenden Positionen.
-
-(2) Die Übertragungsnetzbetreiber sind verpflichtet, der
-Bundesnetzagentur bis zum 15. Oktober eines Kalenderjahres die
-Ermittlung der EEG-Umlage für das folgende Kalenderjahr transparent
-mitzuteilen. Die Mitteilungspflicht umfasst insbesondere die
-Datengrundlagen, Annahmen, Rechenwege, Berechnungen und Endwerte, die
-in die Ermittlung eingeflossen sind.
+(2) (weggefallen)
 
 (3) Die Übertragungsnetzbetreiber sind verpflichtet, auf Aufforderung
 der Bundesnetzagentur, jedenfalls aber bis zum 31. März eines
-Kalenderjahres, für das Vorjahr die Preise, Mengen und Stunden des im
-börslichen Handel beschafften oder veräußerten Stroms zu übermitteln.
+Kalenderjahres, für alle Viertelstunden des Vorjahres die Preise und
+Mengen des im börslichen Handel beschafften oder veräußerten Stroms zu
+übermitteln.
 
 (4) Die Übertragungsnetzbetreiber sind verpflichtet, die nach den
-Absätzen 2 und 3 und die nach § 7 Absatz 2 der
-Ausgleichsmechanismusverordnung mitzuteilenden Daten einschließlich
-der zu ihrer Überprüfung notwendigen Daten elektronisch zu
-übermitteln. Soweit die Bundesnetzagentur Formularvorlagen
-bereitstellt, sind sie verpflichtet, die Daten in dieser Form zu
-übermitteln. Die Angaben müssen einen sachkundigen Dritten in die Lage
-versetzen, ohne weitere Informationen die Ermittlung vollständig
-nachzuvollziehen.
+Absätzen 1 und 3 mitzuteilenden Daten einschließlich der zu ihrer
+Überprüfung notwendigen Daten elektronisch zu übermitteln. Soweit die
+Bundesnetzagentur Formularvorlagen bereitstellt, sind sie
+verpflichtet, die Daten in dieser Form zu übermitteln. Die Angaben
+müssen einen sachkundigen Dritten in die Lage versetzen, ohne weitere
+Informationen die Ermittlung vollständig nachzuvollziehen.
 
 
-## § 5 Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten
+### § 5 Gesonderte Buchführung und Rechnungslegung sowie Führung gesonderter Bankkonten
 
-(1) Die Übertragungsnetzbetreiber sind jeweils verpflichtet,
-spätestens ab dem 1. April 2010 ein separates Bankkonto für die
-Aufgaben nach der Ausgleichsmechanismusverordnung und für die Aufgaben
-nach der vorliegenden Verordnung zu führen. Sämtliche
-zahlungswirksamen Einnahmen und Ausgaben nach § 3 Absatz 3 und 4 der
-Ausgleichsmechanismusverordnung und § 6 Absatz 1 und 3 der
-vorliegenden Verordnung sind ab diesem Zeitpunkt über dieses Bankkonto
-abzuwickeln. Die Einnahmen und Ausgaben im Sinne von Satz 2, die bis
-zu der Einrichtung des separaten Bankkontos anfallen, sind nach der
-Einrichtung unverzüglich valutagerecht auf das Konto zu überführen.
-Die bis zur Einrichtung des separaten Bankkontos anfallenden Einnahmen
-und Ausgaben im Sinne von Satz 2 sind so zu dokumentieren, dass im
-Rahmen der Mitteilungen nach § 4 Absatz 2 und nach § 7 Absatz 2 der
-Ausgleichsmechanismusverordnung geeignete Nachweise zur Verfügung
-stehen.
+(1) Die Übertragungsnetzbetreiber sind jeweils verpflichtet, ein
+separates Bankkonto für die Aufgaben nach der Erneuerbare-Energien-
+Verordnung und für die Aufgaben nach der vorliegenden Verordnung zu
+führen. Sämtliche zahlungswirksamen Einnahmen und Ausgaben nach § 3
+der Erneuerbare-Energien-Verordnung und § 6 der vorliegenden
+Verordnung sind über dieses Bankkonto abzuwickeln. Die Einnahmen und
+Ausgaben im Sinne von Satz 2, die bis zu der Einrichtung des separaten
+Bankkontos anfallen, sind nach der Einrichtung unverzüglich
+valutagerecht auf das Konto zu überführen.
 
-(2) Die Einnahmen und Ausgaben nach § 3 Absatz 3 und 4 der
-Ausgleichsmechanismusverordnung und nach § 6 Absatz 1 und 3 dieser
-Verordnung sind von den sonstigen Tätigkeitsbereichen des
-Übertragungsnetzbetreibers eindeutig abzugrenzen. Hierzu sind eine
-gesonderte Buchführung und Rechnungslegung einzurichten. Diese müssen
-es ermöglichen, diejenigen Einnahmen und Ausgaben nach § 3 Absatz 3
-und 4 der Ausgleichsmechanismusverordnung und nach § 6 Absatz 1 und 3
-dieser Verordnung, bei denen es sich um nicht zahlungswirksame Kosten
-handelt, nachvollziehbar abzuleiten. Zu den nicht zahlungswirksamen
-Kosten zählen insbesondere Abschreibungen für Infrastruktur der
-Informationstechnologie und Zuführungen zu Pensionsrückstellungen.
+(2) Die Einnahmen und Ausgaben nach § 3 der Erneuerbare-Energien-
+Verordnung und nach § 6 dieser Verordnung sind von den sonstigen
+Tätigkeitsbereichen des Übertragungsnetzbetreibers eindeutig
+abzugrenzen. Hierzu sind eine gesonderte Buchführung und
+Rechnungslegung einzurichten. Diese müssen es ermöglichen, diejenigen
+Einnahmen und Ausgaben nach § 3 der Erneuerbare-Energien-Verordnung
+und nach § 6 dieser Verordnung, bei denen es sich um nicht
+zahlungswirksame Kosten handelt, nachvollziehbar abzuleiten. Zu den
+nicht zahlungswirksamen Kosten zählen insbesondere Abschreibungen für
+Infrastruktur der Informationstechnologie und Zuführungen zu
+Pensionsrückstellungen.
 
 (3) Die Kontoauszüge und die Daten der gesonderten Buchführung und
 Rechnungslegung sind der Bundesnetzagentur auf Anforderung vorzulegen.
 § 4 Absatz 4 gilt entsprechend.
 
 
-## § 6 Einnahmen und Ausgaben im Sinne der EEG-Umlage
+### § 6 Einnahmen und Ausgaben im Sinne der EEG-Umlage
 
-(1) Als Ausgaben im Sinne von § 3 Absatz 4 der
-Ausgleichsmechanismusverordnung gelten auch folgende Positionen,
-soweit sie zur Erfüllung der Aufgaben nach der
-Ausgleichsmechanismusverordnung und dieser Verordnung erforderlich
-sind:
+(1) Als Ausgaben im Sinne von § 3 Absatz 4 der Erneuerbare-Energien-
+Verordnung gelten auch folgende Positionen, soweit sie zur Erfüllung
+der Aufgaben nach der Erneuerbare-Energien-Verordnung und dieser
+Verordnung erforderlich sind:
 
 1.  notwendige Kosten für die Börsenzulassung und Handelsanbindung,
 
@@ -265,40 +215,36 @@ sind:
     Dienstleistungen,
 
 
-4.  notwendige Kosten für die Erstellung der Prognosen nach § 3 Absatz 3
-    und 4 und für die Ermittlung der EEG-Umlage nach § 3 Absatz 1 der
-    Ausgleichsmechanismusverordnung,
+4.  notwendige Kosten für die Ermittlung der EEG-Umlage nach § 3 Absatz 1
+    der Erneuerbare-Energien-Verordnung, für die Erstellung der Prognosen
+    nach § 5 der Erneuerbare-Energien-Verordnung und für die Erstellung
+    der EEG-Vorausschau nach § 6 der Erneuerbare-Energien-Verordnung,
 
 
 5.  notwendige Zahlungen von Zinsen zur Finanzierung von Differenzbeträgen
-    im Sinne von § 3 Absatz 5 Satz 1 der Ausgleichsmechanismusverordnung,
+    im Sinne von § 3 Absatz 5 Satz 1 der Erneuerbare-Energien-Verordnung,
     soweit der tatsächlich angefallene Soll-Zinssatz den in § 3 Absatz 5
-    Satz 2 der Ausgleichsmechanismusverordnung vorgesehenen Zinssatz
+    Satz 2 der Erneuerbare-Energien-Verordnung vorgesehenen Zinssatz
     übersteigt,
 
 
-6.  notwendige Kosten für Abweichungen zwischen den nach § 3 Absatz 5 Satz
-    2 der Ausgleichsmechanismusverordnung anzusetzenden Erträgen aus
+6.  notwendige Kosten für Differenzen zwischen den nach § 3 Absatz 5 Satz
+    2 der Erneuerbare-Energien-Verordnung anzusetzenden Erträgen aus
     Haben-Zinsen und den tatsächlich angefallenen Erträgen aus Haben-
     Zinsen,
 
 
 7.  notwendige Zahlungen für die Bereitstellung von Kreditlinien zur
     Finanzierung von Differenzbeträgen im Sinne von § 3 Absatz 5 Satz 1
-    der Ausgleichsmechanismusverordnung,
+    der Erneuerbare-Energien-Verordnung,
 
 
-8.  Bonuszahlungen nach § 7 Absatz 7 bis 9.
+8.  Bonuszahlungen nach § 7 Absatz 5 bis 7.
 
 
 
 
-(1a) Als Einnahmen im Sinne von § 3 Absatz 3 der
-Ausgleichsmechanismusverordnung gelten auch Einnahmen aus Zinsen auf
-Differenzbeträge im Sinne von § 3 Absatz 5 Satz 1 der
-Ausgleichsmechanismusverordnung, soweit der tatsächliche Zinssatz den
-in § 3 Absatz 5 Satz 2 der Ausgleichsmechanismusverordnung
-vorgesehenen Zinssatz übersteigt.
+(1a) (weggefallen)
 
 (2) Bevor bei der Ermittlung der EEG-Umlage Ausgaben nach Absatz 1
 Nummer 5, 6 und 7 angesetzt werden, ist der Bundesnetzagentur
@@ -313,21 +259,19 @@ Zeiten und Höhe der Inanspruchnahme, Kündigungsregelungen und
 Sicherheiten. Es ist sicherzustellen und nachzuweisen, dass die
 geltend gemachten Verträge ausschließlich der Verzinsung und
 Finanzierung von Differenzbeträgen nach § 3 Absatz 5 Satz 1 der
-Ausgleichsmechanismusverordnung dienen. Auf Aufforderung der
+Erneuerbare-Energien-Verordnung dienen. Auf Aufforderung der
 Bundesnetzagentur hat der Übertragungsnetzbetreiber seine sonstigen
 Vertragsbeziehungen, die der Verzinsung oder Finanzierung dienen,
 einschließlich der für die wirtschaftliche Bewertung wesentlichen
 Angaben nachzuweisen und die entsprechenden Verträge vorzulegen.
 
 (3) Als Einnahmen und Ausgaben im Sinne von § 3 Absatz 3 und 4 der
-Ausgleichsmechanismusverordnung gelten auch Differenzbeträge zwischen
-der EEG-Umlage in der vereinnahmten Höhe und der nach Maßgabe einer
-vollziehbaren Entscheidung der Bundesnetzagentur nach § 61 Absatz 1
-Nummer 3 und 4 des Erneuerbare-Energien-Gesetzes zulässigen Höhe. Die
+Erneuerbare-Energien-Verordnung gelten auch Differenzbeträge zwischen
+der EEG-Umlage in der vereinnahmten Höhe und der zulässigen Höhe. Die
 Differenzbeträge sind ab dem Zeitpunkt ihrer Vereinnahmung
-entsprechend § 3 Absatz 5 der Ausgleichsmechanismusverordnung zu
+entsprechend § 3 Absatz 5 der Erneuerbare-Energien-Verordnung zu
 verzinsen. Diese Zinsen gelten ebenfalls als Einnahmen und Ausgaben im
-Sinne von § 3 Absatz 3 und 4 der Ausgleichsmechanismusverordnung.
+Sinne von § 3 Absatz 3 und 4 der Erneuerbare-Energien-Verordnung.
 Soweit die Entscheidung der Bundesnetzagentur eine anderweitige
 Abhilfemaßnahme vorsieht, finden die Sätze 1 und 2 keine Anwendung.
 Soweit die Entscheidung der Bundesnetzagentur anschließend geändert
@@ -335,192 +279,146 @@ oder aufgehoben wird, finden die Sätze 1 bis 3 entsprechende Anwendung
 auf Differenzbeträge zwischen der EEG-Umlage in der vereinnahmten Höhe
 und der nach bestandskräftiger Entscheidung maßgeblichen Höhe.
 
-(4) Bei der Ermittlung der EEG-Umlage nach § 3 Absatz 1 der
-Ausgleichsmechanismusverordnung dürfen diejenigen Einnahmen und
-Ausgaben, die bereits im Rahmen der Bestimmung der Erlösobergrenzen
-nach § 4 Absatz 2 der Anreizregulierungsverordnung oder einer späteren
-Änderung der Erlösobergrenzen Berücksichtigung gefunden haben, nicht
-angesetzt werden. Hiervon ausgenommen sind Einnahmen und Ausgaben,
-soweit sie aufgrund der Ausgleichsmechanismusverordnung zusätzlich
-entstehen. Zusätzliche Einnahmen und Ausgaben im Sinne von Satz 2 sind
-gegenüber der Bundesnetzagentur nachzuweisen. § 4 Absatz 4 gilt
-entsprechend.
+(4) (weggefallen)
 
 
-## § 7 Anreize zur bestmöglichen Vermarktung
+### § 7 Anreize zur bestmöglichen Vermarktung
 
-(1) Um Anreize zu schaffen, den nach § 16 oder § 35 Absatz 1 des
+(1) Um Anreize zu schaffen, den nach § 19 Absatz 1 Nummer 2 des
 Erneuerbare-Energien-Gesetzes vergüteten Strom bestmöglich zu
-vermarkten, werden je Kalenderjahr (Anreizjahr) und
-Übertragungsnetzbetreiber die individuellen beeinflussbaren Ausgaben
-und Einnahmen pro zu vermarktender Menge des nach § 16 oder § 35
-Absatz 1 des Erneuerbare-Energien-Gesetzes vergüteten Stroms mit einem
-individuellen Basiswert verglichen.
+vermarkten, werden je Kalenderjahr (Anreizjahr) die spezifischen
+beeinflussbaren Differenzkosten eines Übertragungsnetzbetreibers mit
+einem Vergleichswert verglichen.
 
-(2) Als beeinflussbare Ausgaben im Sinne von Absatz 1 gelten
+(2) Beeinflussbare Differenzkosten bestehen aus einer Komponente,
+welche die Aktivitäten an einem untertägigen Spotmarkt abbildet, und
+einer Komponente, welche die Inanspruchnahme der Ausgleichsenergie
+abbildet. Die Ermittlung der beeinflussbaren Differenzkosten je
+Viertelstunde erfolgt, indem
 
-1.  die tatsächlichen Ausgaben nach § 3 Absatz 4 Nummer 4 und 5 der
-    Ausgleichsmechanismusverordnung pro zu vermarktender Menge des nach §
-    16 oder § 35 Absatz 1 des Erneuerbare-Energien-Gesetzes vergüteten
-    Stroms und
-
-
-2.  die tatsächlichen als Ausgaben geltenden Positionen nach § 6 Absatz 1
-    Nummer 1 bis 3 sowie Nummer 4 zweite Alternative pro zu vermarktender
-    Menge des nach § 16 oder § 35 Absatz 1 des Erneuerbare-Energien-
-    Gesetzes vergüteten Stroms.
+1.  bei untertägiger Beschaffung je Viertelstunde die beschaffte Menge (K
+    UT) mit der Differenz zwischen dem tatsächlich gezahlten Preis (P
+    UT) und dem Preis des Vortagshandels (P
+    VT) multipliziert wird,
 
 
+2.  bei untertägiger Veräußerung die veräußerte oder gelieferte Menge (VK
+    UT) mit der Differenz zwischen dem Preis des Vortageshandels (P
+    VT) und dem tatsächlich gezahlten Preis (P
+    UT) multipliziert wird,
 
 
-(3) Als beeinflussbare Einnahmen im Sinne von Absatz 1 gelten
-
-1.  die tatsächlichen Einnahmen aus der untertägigen Vermarktung nach § 3
-    Absatz 3 Nummer 1 zweite Alternative der
-    Ausgleichsmechanismusverordnung pro zu vermarktender Menge des nach §
-    16 oder § 35 Absatz 1 des Erneuerbare-Energien-Gesetzes vergüteten
-    Stroms und
+3.  bei Bezug von positiver Ausgleichsenergie je Viertelstunde die
+    bezogene Menge (K
+    AE) mit der Differenz zwischen dem tatsächlich gezahlten Preis (P
+    AE) und dem Preis des Vortageshandels (P
+    VT) multipliziert wird oder
 
 
-2.  die tatsächlichen Einnahmen gemäß § 3 Absatz 3 Nummer 4 der
-    Ausgleichsmechanismusverordnung pro zu vermarktender Menge des nach §
-    16 oder § 35 Absatz 1 des Erneuerbare-Energien-Gesetzes vergüteten
-    Stroms.
-
+4.  bei Bezug von negativer (gelieferter) Ausgleichsenergie die gelieferte
+    Menge (VK
+    AE) mit der Differenz zwischen dem Preis des Vortageshandels (P
+    VT) und dem tatsächlich gezahlten Preis (P
+    AE) multipliziert wird.
 
 
 
-(4) Zum Ausgleich etwaiger Schwankungen der Preise für
-Ausgleichsenergie werden die Ausgaben nach § 3 Absatz 4 Nummer 5 der
-Ausgleichsmechanismusverordnung und die Einnahmen nach § 3 Absatz 3
-Nummer 4 der Verordnung zur Weiterentwicklung des bundesweiten
-Ausgleichsmechanismus mit dem Quotienten
+Als Preis des Vortageshandels (P
+VT) gilt der Market-Clearing-Preis der jeweiligen Stunde der Day-
+Ahead-Auktion an der European Power Exchange. Als Aktivitäten an einem
+untertägigen Spotmarkt gelten für die Ermittlung der beeinflussbaren
+Differenzkosten die Handelsaktivitäten nach § 1 Absatz 2 und 3. Die
+beeinflussbaren Differenzkosten je Viertelstunde werden nach der
+folgenden Formel ermittelt:
 
-*    *   (
+K
+UT ∙ (P
+UT - P
+VT) + VK
+UT ∙ (P
+VT - P
+UT) + K
+AE ∙ (P
+AE - P
+VT) + VK
+AE ∙ (P
+VT - P
+AE).
 
-    *   P
-        2010
+(3) Für die Ermittlung der spezifischen beeinflussbaren
+Differenzkosten eines Übertragungsnetzbetreibers im Sinne von Absatz 1
+ist die Summe der nach Maßgabe des Absatzes 2 ermittelten
+Viertelstundenwerte eines Kalenderjahres durch die innerhalb dieses
+Zeitraums zu vermarktende Menge des nach § 19 Absatz 1 Nummer 2 des
+Erneuerbare-Energien-Gesetzes vergüteten Stroms zu dividieren. Unter
+zu vermarktender Menge ist die nach Durchführung des unverzüglichen
+horizontalen Belastungsausgleichs bei einem Übertragungsnetzbetreiber
+verbleibende Strommenge zu verstehen.
 
-    *   )
+(4) Der Vergleichswert im Sinne von Absatz 1 ist der arithmetische
+Mittelwert der jeweiligen spezifischen beeinflussbaren Differenzkosten
+aller Übertragungsnetzbetreiber der beiden Vorjahre.
 
+(5) Der Übertragungsnetzbetreiber hat Anspruch auf einen Bonus, sofern
+seine spezifischen beeinflussbaren Differenzkosten den Vergleichswert
+zuzüglich eines Zuschlags von 5 Cent pro Megawattstunde nicht
+übersteigen. Die Höhe des Bonus beträgt 25 Prozent der Differenz
+zwischen dem Vergleichswert zuzüglich des Zuschlags und den
+spezifischen beeinflussbaren Differenzkosten nach Absatz 3
+multipliziert mit der zu vermarktenden Menge im Sinne des Absatzes 3
+Satz 2. Die Auszahlung von Boni ist für alle Übertragungsnetzbetreiber
+zusammen auf 20 Millionen Euro je Kalenderjahr begrenzt. Die maximal
+in einem Kalenderjahr zu erreichende Höhe des Bonus eines einzelnen
+Übertragungsnetzbetreibers ergibt sich aus dem Anteil seiner nach dem
+horizontalen Belastungsausgleich zu vermarktenden Strommenge an der
+insgesamt zu vermarktenden Strommenge aller Übertragungsnetzbetreiber
+multipliziert mit 20 Millionen Euro.
 
-*    *   P
-        t
+(6) In dem auf das Anreizjahr folgenden Jahr verbuchen die
+Übertragungsnetzbetreiber den etwaigen Bonus im Rahmen der Ermittlung
+der Umlage nach § 60 Absatz 1 des Erneuerbare-Energien-Gesetzes (EEG-
+Umlage) als prognostizierte Ausgabenposition nach § 3 Absatz 1 Nummer
+1 der Erneuerbare-Energien-Verordnung in Verbindung mit § 6 Absatz 1
+Nummer 8. Übertragungsnetzbetreiber, die eine Bonuszahlung nach Absatz
+5 geltend machen, müssen dies bis zum 31. März des auf das Anreizjahr
+folgenden Jahres bei der Bundesnetzagentur anzeigen und die sachliche
+Richtigkeit der Berechnung nachweisen. § 4 Absatz 4 ist entsprechend
+anzuwenden.
 
-
-
-multipliziert und auf diese Weise gewichtet. Der durchschnittliche
-Preis für Ausgleichsenergie des Jahres 2010 (
-P
-2010             ) stellt dabei stets den Zähler des Quotienten dar.
-Der durchschnittliche Preis für Ausgleichsenergie des in Bezug
-genommenen Jahres (
-P
-t             ) bildet den Nenner des Quotienten. Die
-durchschnittlichen Preise für Ausgleichsenergie berechnen sich für
-jeden Übertragungsnetzbetreiber aus seinen durchschnittlichen Preisen
-der viertelstündlichen Beschaffung von Ausgleichsenergie für das in
-Bezug genommene Jahr. Bei der Berechnung sind die auf den
-Internetseiten der Übertragungsnetzbetreiber veröffentlichten Werte
-heranzuziehen.
-
-(5) Zum Ausgleich etwaiger Schwankungen der Preise für die untertägige
-Vermarktung des nach § 16 oder § 35 Absatz 1 des Erneuerbare-Energien-
-Gesetzes vergüteten Stroms werden die Ausgaben nach § 3 Absatz 4
-Nummer 4 der Ausgleichsmechanismusverordnung und die Einnahmen nach §
-3 Absatz 3 Nummer 1 zweite Alternative der Verordnung zur
-Weiterentwicklung des bundesweiten Ausgleichsmechanismus mit dem
-Quotienten
-
-*    *   (
-
-    *   Q
-        2010
-
-    *   )
-
-
-*    *   Q
-        t
-
-
-
-multipliziert und auf diese Weise gewichtet. Der durchschnittliche
-untertägige Stromhandelspreis der von dem Übertragungsnetzbetreiber am
-meisten genutzten Strombörse für das Jahr 2010 (
-Q
-2010             ) stellt dabei stets den Zähler dar. Der
-durchschnittliche untertägige Stromhandelspreis der von dem
-Übertragungsnetzbetreiber am meisten genutzten Strombörse des in Bezug
-genommenen Jahres (
-Q
-t             ) bildet den Nenner des Quotienten. Die
-durchschnittlichen untertägigen Stromhandelspreise berechnen sich für
-das in Bezug genommene Jahr aus den von der von dem
-Übertragungsnetzbetreiber am meisten genutzten Strombörse
-veröffentlichten gemittelten Stundenpreisen für den untertägigen
-Handel.
-
-(6) Der individuelle Basiswert im Sinne von Absatz 1 bezeichnet den
-bisher niedrigsten Saldo eines Jahres aus beeinflussbaren Ausgaben und
-beeinflussbaren Einnahmen im Sinne von Absatz 1 pro zu vermarktender
-Menge des nach § 16 oder § 35 Absatz 1 des Erneuerbare-Energien-
-Gesetzes vergüteten Stroms. Für das Anreizjahr 2010 beträgt der
-Basiswert 384,5 Millionen Euro, wobei die Aufteilung dieser
-Kostenposition der Übertragungsnetzbetreiber entsprechend ihrem
-jeweiligen Anteil an der zu vermarktenden Menge des nach § 16 oder §
-35 Absatz 1 des Erneuerbare-Energien-Gesetzes vergüteten Stroms
-erfolgt.
-
-(7) Ist bei einem Übertragungsnetzbetreiber der Saldo aus
-beeinflussbaren Ausgaben und beeinflussbaren Einnahmen im Sinne von
-Absatz 1 des Anreizjahres geringer als der Basiswert, so steht ihm ein
-Bonus zu. Zur Berechnung des Bonus werden 25 Prozent der erreichten
-Reduktion mit der von dem jeweiligen Übertragungsnetzbetreiber zu
-vermarktenden Menge des nach § 16 oder § 35 Absatz 1 des Erneuerbare-
-Energien-Gesetzes vergüteten Stroms des Anreizjahres multipliziert.
-
-(8) In dem auf das Anreizjahr folgenden Jahr verbuchen die
-Übertragungsnetzbetreiber die etwaige Bonuszahlung im Rahmen der
-Ermittlung der EEG-Umlage als prognostizierte Ausgabeposition nach § 3
-Absatz 1 Nummer 1 der Ausgleichsmechanismusverordnung in Verbindung
-mit § 6 Absatz 1 Nummer 8. Übertragungsnetzbetreiber, die einen Bonus
-geltend machen, müssen dies der Bundesnetzagentur – beginnend mit dem
-Jahr 2011 – jeweils bis zum 31. März des auf das Anreizjahr folgenden
-Jahres anzeigen und die sachliche Richtigkeit der Berechnung
-nachweisen. § 4 Absatz 4 gilt entsprechend.
-
-(9) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig
+(7) Die Vereinnahmung des Bonus erfolgt in zwölf gleichmäßig
 verteilten Monatsraten. Sie beginnt zum Anfang des übernächsten Jahres
 bezogen auf das Anreizjahr.
 
 
-## § 8 Preislimitierung in Ausnahmefällen
+### § 8 Preislimitierung in Ausnahmefällen
 
-(1) Der Übertragungsnetzbetreiber kann für diejenigen Stunden des
-folgenden Tages, für die im Fall von negativen Preisen an der EPEX
-Spot ein Aufruf zur zweiten Auktion ergeht, von der Verpflichtung
-abweichen, die vollständige in der Vortagesprognose vorhergesagte
-Einspeisung zu preisunabhängigen Geboten an dem vortägigen Spotmarkt
-einer Strombörse nach § 1 Absatz 1 zu veräußern. Der
-Übertragungsnetzbetreiber hat der Bundesnetzagentur die konkreten
-Stunden, in denen er von der Befugnis nach Satz 1 Gebrauch macht,
-unverzüglich anzuzeigen.
+(1) Der Übertragungsnetzbetreiber kann nach Maßgabe der folgenden
+Absätze für diejenigen Stunden des folgenden Tages, für die im Fall
+von negativen Preisen an der Strombörse ein Aufruf zur zweiten Auktion
+ergeht, von der Verpflichtung abweichen, die vollständige gemäß
+aktueller Prognose vorhergesagte stündliche Einspeisung zu
+preisunabhängigen Geboten an dem Spotmarkt einer Strombörse nach § 1
+Absatz 1 zu veräußern. Der Übertragungsnetzbetreiber hat der
+Bundesnetzagentur die konkreten Stunden, in denen er von der Befugnis
+nach Satz 1 Gebrauch macht, unverzüglich anzuzeigen. Die Sätze 1 und 2
+sind entsprechend anzuwenden auf diejenigen Stunden des Folgetages,
+für die aufgrund einer partiellen Entkopplung grenzüberschreitend
+gekoppelter Marktgebiete von der Strombörse zu einer Anpassung der
+Gebote aufgerufen wird.
 
 (2) In den Fällen des Absatzes 1 ist der Übertragungsnetzbetreiber
-berechtigt, preislimitierte Gebote am vortägigen Spotmarkt einer
-Strombörse abzugeben. Die zu veräußernde Strommenge ist in zehn gleich
+berechtigt, preislimitierte Gebote im Rahmen der Vermarktung nach § 1
+Absatz 1 abzugeben. Die zu veräußernde Strommenge ist in 20 gleich
 große Tranchen aufzuteilen und jeweils mit einem eigenen Preislimit
 anzubieten. Die Preislimits müssen bei mindestens –350 Euro je
-Megawattstunde und höchstens
-–150              Euro je Megawattstunde liegen. Jeder Betrag in
-Schritten von je einem Euro innerhalb dieses Rahmens wird
+Megawattstunde und höchstens –150 Euro je Megawattstunde liegen. Jeder
+Betrag in Schritten von je einem Euro innerhalb dieses Rahmens wird
 zufallsgesteuert mit gleicher Wahrscheinlichkeit als Preislimit
 gesetzt. Die Preislimits müssen für jeden Fall des Absatzes 1 neu
 bestimmt werden. Die Preislimits sind bis zur Veröffentlichung nach
 Satz 7 vertraulich zu behandeln. Der Übertragungsnetzbetreiber ist
-verpflichtet, zwei Werktage nach Ende der Auktion am vortägigen
-Spotmarkt auf seiner Internetseite Folgendes bekannt zu geben:
+verpflichtet, zwei Werktage nach Ende der Auktion auf seiner
+Internetseite Folgendes bekannt zu geben:
 
 1.  Stunden, für die er ein preislimitiertes Gebot abgegeben hat;
 
@@ -528,21 +426,21 @@ Spotmarkt auf seiner Internetseite Folgendes bekannt zu geben:
 2.  Höhe der Preislimits jeder Tranche;
 
 
-3.  am vortägigen Spotmarkt unverkaufte Energiemenge.
+3.  am Spotmarkt nach § 1 Absatz 1 unverkaufte Energiemenge.
 
 
 
 
-(3) Kann im Falle von preislimitierten Angeboten die nach der
-Vortagesprognose zu erwartende Strommenge nicht oder nicht vollständig
-veräußert werden, weil der börslich gebildete negative Preis unterhalb
-des negativen Preislimits liegt, hat eine notwendige anderweitige
-Veräußerung dieser Strommenge soweit möglich am untertägigen Spotmarkt
-einer Strombörse zu erfolgen. Der Übertragungsnetzbetreiber ist
-verpflichtet, gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7
-auf seiner Internetseite bekannt zu geben:
+(3) Kann im Falle von preislimitierten Angeboten die nach § 1 Absatz 1
+zu vermarktende Strommenge nicht oder nicht vollständig veräußert
+werden, weil der börslich gebildete negative Preis unterhalb des
+negativen Preislimits liegt, hat eine notwendige anderweitige
+Veräußerung dieser Strommenge soweit möglich nach § 1 Absatz 2 und 3
+zu erfolgen. Der Übertragungsnetzbetreiber ist verpflichtet,
+gleichzeitig mit der Bekanntgabe nach Absatz 2 Satz 7 auf seiner
+Internetseite bekannt zu geben:
 
-1.  Stunden, für welche Energie am untertägigen Spotmarkt unverkauft
+1.  Stunden, für welche Energie nach § 1 Absatz 2 und 3 unverkauft
     geblieben ist;
 
 
@@ -585,16 +483,97 @@ Sinne des Satzes 1 Gebrauch gemacht hat.
 
 (5) Die durch die in Absatz 4 genannten Maßnahmen entstehenden Kosten
 gelten als Kosten für den untertägigen Ausgleich im Sinne von § 3
-Absatz 4 Nummer 4 der Ausgleichsmechanismusverordnung. Sie können nur
+Absatz 4 Nummer 6 der Erneuerbare-Energien-Verordnung. Sie können nur
 dann in die EEG-Umlage einkalkuliert werden, wenn die in den
 vorstehenden Absätzen enthaltenen Vorschriften oder die in
 Aufsichtsmaßnahmen der Bundesnetzagentur enthalten Maßgaben
 eingehalten wurden.
 
 
-## § 9 Inkrafttreten, Außerkrafttreten
+### § 9 Übergangsregelung
 
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft. § 1 Absatz
-4 tritt mit Abschluss des Jahres 2010 außer Kraft. § 8 tritt am 28.
-Februar 2013 außer Kraft.
+Für die bis zum 31. April 2015 nach § 1 vermarkteten Strommengen
+können die Übertragungsnetzbetreiber die nach § 2 Nummer 1, 4 und 5 zu
+veröffentlichenden Daten erst zum 1. Mai 2015 veröffentlichen. Bis
+dahin sind die Vermarktungstätigkeiten insoweit nach § 2 Nummer 1 bis
+3 der Ausgleichsmechanismus-Ausführungsverordnung in der am 31. Januar
+2015 geltenden Fassung zu veröffentlichen.
+
+
+## Abschnitt 2 - Einrichtung und Ausgestaltung eines Netzausbaugebiets
+
+
+### § 10 Geografische Festlegung
+
+Das Netzausbaugebiet umfasst
+
+1.  im Land Schleswig-Holstein die Kreise Dithmarschen, Herzogtum
+    Lauenburg, Nordfriesland, Ostholstein, Pinneberg, Plön, Rendsburg-
+    Eckernförde, Schleswig-Flensburg, Segeberg, Steinburg und Stormarn
+    sowie die kreisfreien Städte Flensburg, Kiel, Lübeck und Neumünster,
+
+
+2.  im Land Niedersachsen die Landkreise Cuxhaven, Harburg, Lüneburg,
+    Osterholz, Rotenburg (Wümme), Stade, Ammerland, Aurich, Cloppenburg,
+    Emsland, Friesland, Leer, Oldenburg, Vechta, Wesermarsch und Wittmund
+    sowie die kreisfreien Städte Delmenhorst, Emden, Oldenburg und
+    Wilhelmshaven,
+
+
+3.  im Land Mecklenburg-Vorpommern die Landkreise Mecklenburgische
+    Seenplatte, Rostock, Vorpommern-Rügen, Nordwestmecklenburg,
+    Vorpommern-Greifswald, Ludwigslust-Parchim sowie die kreisfreien
+    Städte Rostock und Schwerin sowie
+
+
+4.  die Länder Bremen und Hamburg.
+
+
+
+
+
+### § 11 Obergrenze der installierten Leistung von Windenergieanlagen an Land
+
+Bei den Ausschreibungen aufgrund des Erneuerbare-Energien-Gesetzes
+dürfen im Netzausbaugebiet pro Kalenderjahr für höchstens 902 Megawatt
+zu installierender Leistung Zuschläge an Windenergieanlagen an Land
+erteilt werden.
+
+
+### § 12 Verteilung auf Ausschreibungen
+
+Die Obergrenze soll gleichmäßig auf die Gebotstermine eines jeden
+Kalenderjahres verteilt werden. Wird in einer einzelnen Ausschreibung
+die demnach zuschlagsfähige Leistung im Netzausbaugebiet nicht
+erreicht, wird diese Differenz gleichmäßig als zusätzliche Quote im
+Netzausbaugebiet auf die für das Kalenderjahr verbleibenden
+Gebotstermine verteilt.
+
+
+### § 13 Zeitliche Geltung; Außerkrafttreten
+
+Die §§ 10 bis 12 sind ab dem 1. März 2017 anzuwenden. Sie treten mit
+Ablauf des 31. Dezember 2020 außer Kraft.
+
+
+## Abschnitt 3 - Übertragung von Verordnungsermächtigungen
+
+
+### § 14 Subdelegation an das Bundesamt für Seeschifffahrt und Hydrographie
+
+Die Bundesnetzagentur überträgt dem Bundesamt für Seeschifffahrt und
+Hydrographie vollständig die Ermächtigung, durch Rechtsverordnung nach
+§ 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes für Flächen in
+der ausschließlichen Wirtschaftszone festzulegen
+
+1.  das Ergebnis der Eignungsprüfung, dass die Fläche zur Ausschreibung
+    nach Teil 3 Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet ist,
+    einschließlich der Vorgaben für das spätere Vorhaben nach § 12 Absatz
+    5 Satz 2 des Windenergie-auf-See-Gesetzes, und
+
+
+2.  die zu installierende Leistung auf dieser Fläche.
+
+
+
 

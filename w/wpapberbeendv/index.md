@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für Unterlagen
+Title: Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für  Unterlagen
   über die Wertpapierbereinigung
 jurabk: WPapBerBeendV
 layout: default
@@ -8,7 +8,7 @@ slug: wpapberbeendv
 
 ---
 
-# Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für Unterlagen über die Wertpapierbereinigung (WPapBerBeendV)
+# Verordnung über den Zeitpunkt der Beendigung der Aufbewahrungsfrist für  Unterlagen über die Wertpapierbereinigung (WPapBerBeendV)
 
 Ausfertigungsdatum
 :   2005-12-21

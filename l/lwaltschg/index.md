@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 1383
 
 Geändert durch
-:   Art. 4 V v. 31.10.2006 I 2407
+:   Art. 6 V v. 31.8.2015 I 1474
 
 
 ## Teil 1 - Allgemeine Grundsätze
@@ -328,8 +328,8 @@ Prüfungsverband testierte Unterlagen beizufügen:
 (1) Die Gläubigerbank entscheidet über Anträge auf Ablösung der
 landwirtschaftlichen Altschulden im Zusammenwirken mit einer vom
 Bundesministerium der Finanzen im Benehmen mit dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz beauftragten
-Stelle (beauftragte Stelle).
+für Ernährung und Landwirtschaft beauftragten Stelle (beauftragte
+Stelle).
 
 (2) Ergibt die Prüfung des Ablöseangebotes nach § 8 Abs. 1 Satz 2,
 dass dieses nicht angemessen ist und legt der Kreditnehmer nicht
@@ -351,8 +351,8 @@ Rangrücktrittsvereinbarung vom Kreditnehmer Entgelte in banküblicher
 Höhe erheben.
 
 (4) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz durch Rechtsverordnung Ausführungsbestimmungen
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft durch Rechtsverordnung Ausführungsbestimmungen
 
 1.  zu den gemäß § 2 Abs. 1 Satz 1 nicht zu berücksichtigenden
     Bewertungswahlrechten nach § 2 Abs. 1 Satz 2,

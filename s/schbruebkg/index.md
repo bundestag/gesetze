@@ -3,7 +3,7 @@ Title: Gesetz betreffend das Internationale Übereinkommen über die Gewährung 
   Entschädigung für Arbeitslosigkeit infolge von Schiffbruch
 jurabk: SchBrÜbkG
 layout: default
-origslug: schbr_bkg
+origslug: schbruebkg
 slug: schbruebkg
 
 ---
@@ -25,7 +25,7 @@ Fundstelle
 ## § 3
 
 (1) ... Für die Durchführung des Übereinkommens sind die
-Seemannsordnung              und das Handelsgesetzbuch maßgebend.
+Seemannsordnung und das Handelsgesetzbuch maßgebend.
 
 (2)
 

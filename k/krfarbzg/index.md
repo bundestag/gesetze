@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1479
 
+Änderung durch
+:   Art. 3 G v. 16.5.2017 I 1214 (Nr. 29) mWv 25.5.2017 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Anwendungsbereich
 
@@ -109,10 +112,14 @@ aufgeteilt werden.
 ## § 6 Aufzeichnungspflicht
 
 Der selbständige Kraftfahrer ist verpflichtet, seine Arbeitszeit
-täglich aufzuzeichnen, soweit sie nicht durch ein Kontrollgerät nach
-Anhang I oder Anhang I B der Verordnung (EWG) Nr. 3821/85 des Rates
-vom 20. Dezember 1985 über das Kontrollgerät im Straßenverkehr (ABl. L
-370 vom 31.12.1985, S. 8) aufgezeichnet wird. Die Aufzeichnungspflicht
+täglich aufzuzeichnen, soweit sie nicht durch einen Fahrtenschreiber
+nach der Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und
+des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr,
+zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das
+Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG)
+Nr. 561/2006 des Europäischen Parlaments und des Rates zur
+Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L
+60 vom 28.2.2014, S. 1) aufgezeichnet wird. Die Aufzeichnungspflicht
 gilt nicht für allgemeine administrative Tätigkeiten, die keinen
 direkten Zusammenhang mit der gerade ausgeführten spezifischen
 Transporttätigkeit aufweisen. Die Aufzeichnungen sind ab Erstellung

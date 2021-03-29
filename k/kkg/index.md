@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 2975
 
+Zuletzt geändert durch
+:   Art. 20 Abs. 1 G v. 23.12.2016 I 3234
+
 
 ## § 1 Kinderschutz und staatliche Mitverantwortung
 
@@ -83,14 +86,14 @@ Verfahren im Kinderschutz aufeinander abzustimmen.
 (2) In das Netzwerk sollen insbesondere Einrichtungen und Dienste der
 öffentlichen und freien Jugendhilfe, Einrichtungen und Dienste, mit
 denen Verträge nach § 75 Absatz 3 des Zwölften Buches Sozialgesetzbuch
-bestehen, Gesundheitsämter, Sozialämter, Gemeinsame Servicestellen,
-Schulen, Polizei- und Ordnungsbehörden, Agenturen für Arbeit,
-Krankenhäuser, Sozialpädiatrische Zentren, Frühförderstellen,
-Beratungsstellen für soziale Problemlagen, Beratungsstellen nach den
-§§ 3 und 8 des Schwangerschaftskonfliktgesetzes, Einrichtungen und
-Dienste zur Müttergenesung sowie zum Schutz gegen Gewalt in engen
-sozialen Beziehungen, Familienbildungsstätten, Familiengerichte und
-Angehörige der Heilberufe einbezogen werden.
+bestehen, Gesundheitsämter, Sozialämter, Schulen, Polizei- und
+Ordnungsbehörden, Agenturen für Arbeit, Krankenhäuser,
+Sozialpädiatrische Zentren, Frühförderstellen, Beratungsstellen für
+soziale Problemlagen, Beratungsstellen nach den §§ 3 und 8 des
+Schwangerschaftskonfliktgesetzes, Einrichtungen und Dienste zur
+Müttergenesung sowie zum Schutz gegen Gewalt in engen sozialen
+Beziehungen, Familienbildungsstätten, Familiengerichte und Angehörige
+der Heilberufe einbezogen werden.
 
 (3) Sofern Landesrecht keine andere Regelung trifft, soll die
 verbindliche Zusammenarbeit im Kinderschutz als Netzwerk durch den

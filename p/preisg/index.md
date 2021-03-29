@@ -27,17 +27,16 @@ Der Wirtschaftsrat hat das folgende Gesetz beschlossen:
 ## § 1
 
 Der
-Wirtschaftsrat              ist zuständig für die allgemeinen
-Grundsätze der Preispolitik für das
-Vereinigte Wirtschaftsgebiet.              Eine Veränderung der Preise
-von Waren und Leistungen, die eine grundlegende Bedeutung für den
-gesamten Preisstand, insbesondere die Lebenshaltung, hat, bedarf der
-Zustimmung
-des Wirtschaftsrates.              Dieser Zustimmung bedarf es nicht,
-wenn die Veränderung der Preise nur zu dem Zweck erfolgt, um auf dem
-Markt bestehende offensichtliche Mißstände zu beseitigen, ohne daß
-dadurch der gesamte Preisstand, insbesondere die Lebenshaltung
-ungünstig beeinflußt wird.
+Wirtschaftsrat ist zuständig für die allgemeinen Grundsätze der
+Preispolitik für das
+Vereinigte Wirtschaftsgebiet. Eine Veränderung der Preise von Waren
+und Leistungen, die eine grundlegende Bedeutung für den gesamten
+Preisstand, insbesondere die Lebenshaltung, hat, bedarf der Zustimmung
+des Wirtschaftsrates. Dieser Zustimmung bedarf es nicht, wenn die
+Veränderung der Preise nur zu dem Zweck erfolgt, um auf dem Markt
+bestehende offensichtliche Mißstände zu beseitigen, ohne daß dadurch
+der gesamte Preisstand, insbesondere die Lebenshaltung ungünstig
+beeinflußt wird.
 
 
 ## § 2
@@ -51,14 +50,14 @@ die der Preisstand aufrechterhalten werden soll.
 (2) Zuständig sind
 
 a)  der Direktor der Verwaltung für Wirtschaft des Vereinigten
-    Wirtschaftsgebietes (Direktor für Wirtschaft),                    wenn
-    Bestimmungen für mehr als ein Land erforderlich sind oder wenn die
-    Preisbildung den Verkehr mit Gütern und Leistung in mehr als einem
-    Land beeinflußt oder beeinflussen kann;
+    Wirtschaftsgebietes (Direktor für Wirtschaft), wenn Bestimmungen für
+    mehr als ein Land erforderlich sind oder wenn die Preisbildung den
+    Verkehr mit Gütern und Leistung in mehr als einem Land beeinflußt oder
+    beeinflussen kann;
 
 
 b)  die obersten Landesbehörden, soweit nicht
-    der Direktor für Wirtschaft                    zuständig ist.
+    der Direktor für Wirtschaft zuständig ist.
 
 
 
@@ -67,23 +66,22 @@ b)  die obersten Landesbehörden, soweit nicht
 ## § 3
 
 (1) Anordnungen nach § 2 Abs. 2a erläßt
-der Direktor für Wirtschaft.              Ist
-der Direktor einer anderen Verwaltung              sachlich zuständig,
-so erfolgt die Anordnung auf seinen Vorschlag und im Einvernehmen mit
-ihm.
+der Direktor für Wirtschaft. Ist
+der Direktor einer anderen Verwaltung sachlich zuständig, so erfolgt
+die Anordnung auf seinen Vorschlag und im Einvernehmen mit ihm.
 
 (2) Kommt in dem Fall des Absatzes 1 innerhalb vier Wochen keine
 Einigung zustande, so entscheidet
-der Vorsitzende des Verwaltungsrates,              der auch über die
-sachliche Zuständigkeit die Entscheidung trifft.
+der Vorsitzende des Verwaltungsrates, der auch über die sachliche
+Zuständigkeit die Entscheidung trifft.
 
 
 ## § 4
 
-Der Direktor für Wirtschaft              kann Anordnungen oder
-Verfügungen aufheben, die eine oberste Landesbehörde nach § 2 Abs. 2b
-erlassen hat. Er kann der obersten Landesbehörde bindende Weisungen
-erteilen. § 3 gilt entsprechend.
+Der Direktor für Wirtschaft kann Anordnungen oder Verfügungen
+aufheben, die eine oberste Landesbehörde nach § 2 Abs. 2b erlassen
+hat. Er kann der obersten Landesbehörde bindende Weisungen erteilen. §
+3 gilt entsprechend.
 
 
 ## § 5
@@ -91,15 +89,15 @@ erteilen. § 3 gilt entsprechend.
 (1) § 3 gilt auch für den Erlaß von Ausführungsanordnungen.
 
 (2)
-Der Direktor für Wirtschaft              kann den Erlaß von
-Ausführungsanordnungen den obersten Landesbehörden übertragen.
+Der Direktor für Wirtschaft kann den Erlaß von Ausführungsanordnungen
+den obersten Landesbehörden übertragen.
 
 
 ## § 6
 
 (1) Anordnungen
-des Direktors für Wirtschaft              werden im
-Amtsblatt der Verwaltung für Wirtschaft              verkündet.
+des Direktors für Wirtschaft werden im
+Amtsblatt der Verwaltung für Wirtschaft verkündet.
 
 (2) Abweichend hiervon werden verkündet:
 
@@ -117,16 +115,15 @@ c)  Binnenschiffahrtstarife in den
 
 
 d)  sonstige Verkehrstarife, die im Einvernehmen mit
-    dem Direktor der Verwaltung für Verkehr                    erlassen
-    werden, im
+    dem Direktor der Verwaltung für Verkehr erlassen werden, im
     Verkehrsblatt des Vereinigten Wirtschaftsgebietes.
 
 
 
 
 (3) Die nach den Absätzen 1 und 2 verkündeten Anordnungen hat
-der Direktor für Wirtschaft              dem
-Wirtschaftsrat              zur Kenntnis zu bringen.
+der Direktor für Wirtschaft dem
+Wirtschaftsrat zur Kenntnis zu bringen.
 
 (4) Die Anordnungen und Tarife treten am Tage nach der Verkündung in
 Kraft, soweit nichts anderes bestimmt wird.
@@ -135,13 +132,12 @@ Kraft, soweit nichts anderes bestimmt wird.
 ## § 7
 
 (1) Anordnungen
-des Direktors für Wirtschaft              werden durch die obersten
-Landesbehörden ausgeführt, soweit er sich die Ausführung nicht selbst
-vorbehält. Anordnungen, die sich auf Tarife der Eisenbahnen, der Post
-und des Fernmeldewesens beziehen, werden durch
-den Direktor              der sachlich zuständigen
-Verwaltung des Vereinigten Wirtschaftsgebietes
-ausgeführt.
+des Direktors für Wirtschaft werden durch die obersten Landesbehörden
+ausgeführt, soweit er sich die Ausführung nicht selbst vorbehält.
+Anordnungen, die sich auf Tarife der Eisenbahnen, der Post und des
+Fernmeldewesens beziehen, werden durch
+den Direktor der sachlich zuständigen
+Verwaltung des Vereinigten Wirtschaftsgebietes ausgeführt.
 
 (2) Soweit die Ausführung nach Absatz 1 den obersten Landesbehörden
 obliegt, überwacht sie
@@ -151,15 +147,14 @@ der Direktor für Wirtschaft.
 ## § 8
 
 (1) Die Preisüberwachung üben die obersten Landesbehörden aus.
-Der Direktor für Wirtschaft              kann hierzu allgemeine
-Anordnungen erlassen, bindende Richtlinien aufstellen und Weisungen
-erteilen.
+Der Direktor für Wirtschaft kann hierzu allgemeine Anordnungen
+erlassen, bindende Richtlinien aufstellen und Weisungen erteilen.
 
 (2) Ausgenommen von der Preisüberwachung durch die obersten
 Landesbehörden sind die Tarife der Eisenbahnen, der Post und des
 Fernmeldewesens. Diese werden von
-dem Direktor              der sachlich zuständigen
-Verwaltung des Vereinigten Wirtschaftsgebietes              überwacht.
+dem Direktor der sachlich zuständigen
+Verwaltung des Vereinigten Wirtschaftsgebietes überwacht.
 
 
 ## § 9
@@ -171,25 +166,24 @@ Verwaltung des Vereinigten Wirtschaftsgebietes              überwacht.
 
 Die obersten Landesbehörden können die Ausführung ihrer Befugnisse auf
 nachgeordnete Behörden übertragen. Entsprechendes gilt für die
-dem Direktor für Wirtschaft              zustehenden Befugnisse. Die
-Übertragung von Befugnissen, die vor Inkrafttreten dieses Gesetzes
-vorgenommen worden ist, bleibt unberührt.
+dem Direktor für Wirtschaft zustehenden Befugnisse. Die Übertragung
+von Befugnissen, die vor Inkrafttreten dieses Gesetzes vorgenommen
+worden ist, bleibt unberührt.
 
 
 ## § 11
 
 Die
-Direktoren der              sachlich zuständigen
-Verwaltungen              und die anderen für die Ausführung dieses
-Gesetzes zuständigen Behörden sind auskunftsberechtigte Stellen im
-Sinne der Verordnung über Auskunftspflicht vom 13. Juli 1923 (RGBl. I
-S. 723).
+Direktoren der sachlich zuständigen
+Verwaltungen und die anderen für die Ausführung dieses Gesetzes
+zuständigen Behörden sind auskunftsberechtigte Stellen im Sinne der
+Verordnung über Auskunftspflicht vom 13. Juli 1923 (RGBl. I S. 723).
 
 
 ## § 12
 
 Die Behörden und Gerichte leisten den in § 11 bezeichneten
-Direktoren              und Behörden Amts- und Rechtshilfe.
+Direktoren und Behörden Amts- und Rechtshilfe.
 
 
 ## § 13
@@ -206,7 +200,7 @@ Gefängnisstrafen findet nicht statt.
 ## § 14
 
 Die Durchführungsbestimmungen zu diesem Gesetz erläßt
-der Direktor für Wirtschaft              mit Zustimmung
+der Direktor für Wirtschaft mit Zustimmung
 des Verwaltungsrates.
 
 

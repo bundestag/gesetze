@@ -2,7 +2,7 @@
 Title: Übereinkommen über ein einheitliches System der Schiffsvermessung
 jurabk: SchVermssgÜbk
 layout: default
-origslug: schvermssg_bk
+origslug: schvermssguebk
 slug: schvermssguebk
 
 ---

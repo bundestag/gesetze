@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 242
 
 Zuletzt geändert durch
-:   § 22 Abs. 3 G v. 26.2.2008 I 220
+:   Art. 4 Abs. 109 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -579,9 +579,10 @@ Verträglichkeit von Betriebsmitteln bleiben unberührt.
 
 ## § 18 Gebühren und Auslagen
 
-Für Amtshandlungen nach dem Amateurfunkgesetz und dieser Verordnung
-werden Gebühren nach Anlage 2 dieser Verordnung und Auslagen nach § 10
-des Verwaltungskostengesetzes erhoben.
+Für individuell zurechenbare öffentliche Leistungen nach dem
+Amateurfunkgesetz und dieser Verordnung werden Gebühren nach Anlage 2
+dieser Verordnung und Auslagen nach § 23 Absatz 6 des
+Bundesgebührengesetzes erhoben.
 
 
 ## § 19 Übergangsregelungen
@@ -631,8 +632,9 @@ Verordnung gelten die in § 12 Abs. 3 und 4 der Verordnung zur
 Durchführung des Gesetzes über den Amateurfunk vom 13. März 1967
 (BGBl. I S. 284) festgelegten Richtwerte.
 
+(zu § 1 Nr. 6)
 
-## Anlage 1 (zu § 1 Nr. 6) Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
+## Anlage 1 Nutzungsbedingungen für die im Frequenznutzungsplan für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten ausgewiesenen Frequenzbereiche
 
 (Fundstelle: BGBl. I 2006, 2071 - 2073)
 
@@ -1485,8 +1487,9 @@ Nutzungsbestimmungen nach Buchstabe A und Buchstabe B.
 
 
 
+(zu § 1 Nr. 7 und § 18)
 
-## Anlage 2 (zu § 1 Nr. 7 und § 18) Gebührenverzeichnis
+## Anlage 2 Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2005, 250)
 

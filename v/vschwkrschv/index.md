@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 11.4.2001 I 604;
 
-Geändert durch
-:   Art. 1 V v. 6.7.2007 I 1262
+Zuletzt geändert durch
+:   Art. 133 G v. 29.3.2017 I 626
 
 Diese Verordnung dient der Umsetzung der Richtlinie 92/119/EWG des
 Rates vom 17. Dezember 1992 mit allgemeinen Gemeinschaftsmaßnahmen zur
@@ -111,9 +111,9 @@ Standort gilt vor der amtlichen Feststellung Folgendes:
 
 1.  Der Besitzer muss sämtliche Schweine in ihren Ställen oder an ihren
     sonstigen Standorten absondern. Er hat die Zahl der Schweine unter
-    Angabe der verendeten und nachgeborenen Tiere schriftlich zu erfassen.
-    Diese Kontrollaufzeichnung ist täglich auf dem neuesten Stand zu
-    halten.
+    Angabe der verendeten und nachgeborenen Tiere schriftlich oder
+    elektronisch zu erfassen. Diese Kontrollaufzeichnung ist täglich auf
+    dem neuesten Stand zu halten.
 
 
 2.  Schweineställe oder sonstige Standorte dürfen nur mit besonderer
@@ -496,8 +496,9 @@ verdächtigen Schweine muss der Besitzer die Schweineställe und
 sonstigen Standorte sowie sämtliche Gegenstände, die Träger des
 Seuchenerregers sein können, unverzüglich nach näherer Anweisung des
 beamteten Tierarztes reinigen und desinfizieren. In den Ställen oder
-sonstigen Standorten muss der Besitzer eine Schadnagerbekämpfung
-durchführen.
+sonstigen Standorten muss der Besitzer unverzüglich nach Tötung und
+unschädlicher Beseitigung der in Satz 1 bezeichneten Tiere eine
+Schadnagerbekämpfung durchführen.
 
 (2) Der Besitzer muss Dung von Schweinen an einen für Schweine
 unzugänglichen Ort packen, mit einem geeigneten Desinfektionsmittel
@@ -602,78 +603,84 @@ Anzeichen ergeben hat, die auf Vesikuläre Schweinekrankheit hinweisen.
 
 ### § 15 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer mit einer Genehmigung nach § 2 Abs. 2, § 4 Abs. 1 Nr. 4 Satz 2
-    oder Nr. 5, jeweils auch in Verbindung mit § 11 Abs. 2 Satz 5, § 6
-    Abs. 1 Nr. 6, 7 oder 8 Satz 1 oder 3, § 8, § 9 Abs. 2 Nr. 2 Satz 2,
-    Nr. 3 Satz 1 oder Nr. 5 Satz 2 oder Abs. 3 Satz 1, § 10 Abs. 2 Nr. 3
-    oder § 11 Abs. 2 Satz 2 verbundenen vollziehbaren Auflage oder
+1.  entgegen § 2 Absatz 1 eine Impfung oder einen Heilversuch vornimmt,
 
 
-2.  einer vollziehbaren Anordnung nach § 3, § 4 Abs. 2, § 6 Abs. 2, § 7
-    Abs. 1 oder 2, § 11 Abs. 1 oder 2 Satz 4 oder § 13 Abs. 1 oder 2 Nr. 1
+2.  einer mit einer Genehmigung nach § 2 Absatz 2, § 4 Absatz 1 Nummer 4
+    Satz 2 oder Nummer 5, jeweils auch in Verbindung mit § 11 Absatz 2
+    Satz 5, § 6 Absatz 1 Nummer 6, 7 oder Nummer 8 Satz 1 oder Satz 3, §
+    8, § 9 Absatz 2 Nummer 2 Satz 2, Nummer 3 Satz 1 oder Nummer 5 Satz 2,
+    § 9 Absatz 3 Satz 1, § 10 Absatz 2 Nummer 3 oder § 11 Absatz 2 Satz 2
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 Abs. 1 eine Impfung oder einen Heilversuch vornimmt,
+3.  einer vollziehbaren Anordnung nach § 3, § 4 Absatz 2, § 6 Absatz 1
+    Nummer 8 Satz 2 oder Absatz 2, § 7, § 11 Absatz 1 Satz 2 oder Absatz 2
+    Satz 4, § 12 Absatz 1 Satz 1 oder Absatz 2 Satz 2 oder § 13 Absatz 1
+    oder Absatz 2 Nummer 1 zuwiderhandelt,
 
 
-2.  entgegen § 4 Abs. 1 Nr. 1 Satz 1, auch in Verbindung mit § 11 Abs. 2
-    Satz 5, oder § 6 Abs. 1 Nr. 2 ein Schwein nicht absondert,
+4.  entgegen § 4 Absatz 1 Nummer 1 Satz 1, auch in Verbindung mit § 11
+    Absatz 2 Satz 5, oder § 6 Absatz 1 Nummer 2 ein Schwein nicht oder
+    nicht richtig absondert,
 
 
-3.  entgegen § 4 Abs. 1 Nr. 2 Satz 1 oder 3, jeweils auch in Verbindung
-    mit § 11 Abs. 2 Satz 5, oder § 6 Abs. 1 Nr. 3 Satz 1 oder 3 einen
-    Stall oder sonstigen Standort betritt,
+5.  entgegen § 4 Absatz 1 Nummer 2 Satz 1 oder Satz 3, jeweils auch in
+    Verbindung mit § 11 Absatz 2 Satz 5, oder § 6 Absatz 1 Nummer 3 Satz 1
+    oder Satz 3 einen Stall oder einen sonstigen Standort betritt,
 
 
-4.  einer Vorschrift des § 4 Abs. 1 Nr. 2 Satz 2, auch in Verbindung mit §
-    11 Abs. 2 Satz 5, oder des § 6 Abs. 1 Nr. 3 Satz 2 über das Ablegen,
-    die Reinigung oder die Desinfektion der Schutzkleidung zuwiderhandelt,
+6.  entgegen § 4 Absatz 1 Nummer 2 Satz 2, auch in Verbindung mit § 11
+    Absatz 2 Satz 5, oder § 6 Absatz 1 Nummer 3 Satz 2 Schutzkleidung
+    nicht oder nicht rechtzeitig ablegt, nicht oder nicht rechtzeitig
+    reinigt oder nicht oder nicht rechtzeitig desinfiziert,
 
 
-5.  entgegen § 4 Abs. 1 Nr. 2 Satz 4, auch in Verbindung mit § 11 Abs. 2
-    Satz 5, oder § 6 Abs. 1 Nr. 3 Satz 4 Einwegschutzkleidung nicht
+7.  entgegen § 4 Absatz 1 Nummer 2 Satz 4, auch in Verbindung mit § 11
+    Absatz 2 Satz 5, oder § 6 Absatz 1 Nummer 3 Satz 4
+    Einwegschutzkleidung nicht, nicht richtig oder nicht rechtzeitig
     beseitigt,
 
 
-6.  einer Vorschrift des § 4 Abs. 1 Nr. 3, 4 Satz 2 oder Nr. 5, jeweils
-    auch in Verbindung mit § 11 Abs. 2 Satz 5, des § 6 Abs. 1 Nr. 6, 7
-    oder 8 Satz 1 oder 3, § 9 Abs. 2 Nr. 2 Satz 1 oder 3 oder Nr. 3 Satz
-    1, § 10 Abs. 2 Nr. 2, § 11 Abs. 2 Satz 1 oder § 13 Abs. 2 Nr. 3 über
-    das Verbringen der dort genannten Tiere oder Gegenstände
-    zuwiderhandelt,
+8.  entgegen § 4 Absatz 1 Nummer 3, § 9 Absatz 2 Nummer 2 Satz 1 oder Satz
+    3, § 10 Absatz 2 Nummer 2, § 11 Absatz 2 Satz 1 oder § 13 Absatz 2
+    Nummer 3 ein Schwein verbringt,
 
 
-7.  der Vorschrift des § 4 Abs. 1 Nr. 4 Satz 1, auch in Verbindung mit §
-    11 Abs. 2 Satz 5, über die Aufbewahrung zuwiderhandelt,
+9.  entgegen § 4 Absatz 1 Nummer 4 Satz 1, auch in Verbindung mit § 11
+    Absatz 2 Satz 5, ein Schwein nicht oder nicht richtig aufbewahrt,
 
 
-8.  einer Vorschrift des § 6 Abs. 1 Nr. 1 über das Anbringen von Schildern
-    zuwiderhandelt,
+10. ohne Genehmigung nach § 4 Absatz 1 Nummer 4 Satz 2 oder Nummer 5,
+    jeweils auch in Verbindung mit § 11 Absatz 2 Satz 5, § 6 Absatz 1
+    Nummer 6, 7 oder Nummer 8 Satz 1 oder Satz 3 oder § 9 Absatz 2 Nummer
+    3 Satz 1 ein Tier oder einen Gegenstand verbringt,
 
 
-9.  einer Vorschrift des § 6 Abs. 1 Nr. 4 oder 8 Satz 2 oder des § 12 Abs.
-    1 Satz 1 oder Abs. 2 über die Reinigung oder Desinfektion
-    zuwiderhandelt,
+11. entgegen § 6 Absatz 1 Nummer 1 ein Schild nicht oder nicht rechtzeitig
+    anbringt,
 
 
-10. ein Schwein entgegen § 9 Abs. 2 Nr. 5 Satz 1 verbringt oder entgegen §
-    9 Abs. 2 Nr. 6 transportiert,
+12. entgegen § 6 Absatz 1 Nummer 4 Schuhwerk nicht oder nicht rechtzeitig
+    desinfiziert,
 
 
-11. entgegen § 9 Abs. 4 Satz 1, auch in Verbindung mit § 10 Abs. 3, das
-    Halten von Schweinen nicht oder nicht rechtzeitig anzeigt,
+13. entgegen § 9 Absatz 2 Nummer 5 Satz 1 ein Schwein verbringt,
 
 
-12. entgegen § 12 Abs. 1 Satz 2 keine Schadnagerbekämpfung durchführt.
+14. entgegen § 9 Absatz 2 Nummer 6 ein Schwein transportiert,
+
+
+15. entgegen § 9 Absatz 4 Satz 1, auch in Verbindung mit § 10 Absatz 3,
+    eine Anzeige nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstattet oder
+
+
+16. entgegen § 12 Absatz 1 Satz 2 eine Schadnagerbekämpfung nicht oder
+    nicht rechtzeitig durchführt.
 
 
 

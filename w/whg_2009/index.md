@@ -16,56 +16,50 @@ Fundstelle
 :   BGBl I: 2009, 2585
 
 Zuletzt geändert durch
-:   Art. 3 G v. 5.12.2012 I 2449
+:   Art. 1 G v. 18.7.2017 I 2771
 
-[^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der
-    –                                                         Richtlinie
-    80/68/EWG des Rates vom 17. Dezember 1979 über den Schutz des
-    Grundwassers gegen Verschmutzung durch bestimmte gefährliche Stoffe
-    (ABl. L 20 vom 26.1.1980, S. 43), die durch die Richtlinie 2000/60/EG
-    (ABl. L 327 vom 22.12.2000, S. 1) geändert worden ist,
+[^f772370_01_BJNR258510009]:     Dieses Gesetz dient der Umsetzung der –Richtlinie 80/68/EWG des Rates
+    vom 17. Dezember 1979 über den Schutz des Grundwassers gegen
+    Verschmutzung durch bestimmte gefährliche Stoffe (ABl. L 20 vom
+    26\.1.1980, S. 43), die durch die Richtlinie 2000/60/EG (ABl. L 327 vom
+    22\.12.2000, S. 1) geändert worden ist,
 
 
-    –                                                         Richtlinie
-    91/271/EWG des Rates vom 21. Mai 1991 über die Behandlung von
-    kommunalem Abwasser (ABl. L 135 vom 30.5.1991, S. 40), die zuletzt
+    –Richtlinie 91/271/EWG des Rates vom 21. Mai 1991 über die Behandlung
+    von kommunalem Abwasser (ABl. L 135 vom 30.5.1991, S. 40), die zuletzt
     durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S.
     1) geändert worden ist,
 
 
-    –                                                         Richtlinie
-    2000/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
-    2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
+    –Richtlinie 2000/60/EG des Europäischen Parlaments und des Rates vom
+    23\. Oktober 2000 zur Schaffung eines Ordnungsrahmens für Maßnahmen der
     Gemeinschaft im Bereich der Wasserpolitik (ABl. L 327 vom 22.12.2000,
     S. 1), die zuletzt durch die Richtlinie 2008/105/EG (ABl. L 348 vom
     24\.12.2008, S. 84) geändert worden ist,
 
 
-    –                                                         Richtlinie
-    2004/35/EG des Europäischen Parlaments und des Rates vom 21. April
-    2004 über Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden
-    (ABl. L 143 vom 30.4.2004, S. 56), die durch die Richtlinie 2006/21/EG
-    (ABl. L 102 vom 11.4.2006, S. 15) geändert worden ist,
+    –Richtlinie 2004/35/EG des Europäischen Parlaments und des Rates vom
+    21\. April 2004 über Umwelthaftung zur Vermeidung und Sanierung von
+    Umweltschäden (ABl. L 143 vom 30.4.2004, S. 56), die durch die
+    Richtlinie 2006/21/EG (ABl. L 102 vom 11.4.2006, S. 15) geändert
+    worden ist,
 
 
-    –                                                         Richtlinie
-    2006/11/EG des Europäischen Parlaments und des Rates vom 15. Februar
-    2006 betreffend die Verschmutzung infolge der Ableitung bestimmter
-    gefährlicher Stoffe in die Gewässer der Gemeinschaft (ABl. L 64 vom
-    4\.3.2006, S. 52),
+    –Richtlinie 2006/11/EG des Europäischen Parlaments und des Rates vom
+    15\. Februar 2006 betreffend die Verschmutzung infolge der Ableitung
+    bestimmter gefährlicher Stoffe in die Gewässer der Gemeinschaft (ABl.
+    L 64 vom 4.3.2006, S. 52),
 
 
-    –                                                         Richtlinie
-    2006/118/EG des Europäischen Parlaments und des Rates vom 12. Dezember
-    2006 zum Schutz des Grundwassers vor Verschmutzung und
+    –Richtlinie 2006/118/EG des Europäischen Parlaments und des Rates vom
+    12\. Dezember 2006 zum Schutz des Grundwassers vor Verschmutzung und
     Verschlechterung (ABl. L 372 vom 27.12.2006, S. 19, L 53 vom
     22\.2.2007, S. 30, L 139 vom 31.5.2007, S. 39),
 
 
-    –                                                         Richtlinie
-    2007/60/EG des Europäischen Parlaments und des Rates vom 23. Oktober
-    2007 über die Bewertung und das Management von Hochwasserrisiken (ABl.
-    L 288 vom 6.11.2007, S. 27).
+    –Richtlinie 2007/60/EG des Europäischen Parlaments und des Rates vom
+    23\. Oktober 2007 über die Bewertung und das Management von
+    Hochwasserrisiken (ABl. L 288 vom 6.11.2007, S. 27).
 
 
 
@@ -105,8 +99,8 @@ Tiere und Pflanzen sowie als nutzbares Gut zu schützen.
 
 Es gilt auch für Teile dieser Gewässer.
 
-(1a) Für Meeresgewässer gelten die Vorschriften des § 23 und des
-Kapitels 2 Abschnitt 3a. Die für die Bewirtschaftung der
+(1a) Für Meeresgewässer gelten die Vorschriften des § 23, des Kapitels
+2 Abschnitt 3a und des § 90. Die für die Bewirtschaftung der
 Küstengewässer geltenden Vorschriften bleiben unberührt.
 
 (2) Die Länder können kleine Gewässer von wasserwirtschaftlich
@@ -203,9 +197,9 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
 12. EMAS-Standort
     diejenige Einheit einer Organisation, die nach § 32 Absatz 1 Satz 1
     des Umweltauditgesetzes in der Fassung der Bekanntmachung vom 4.
-    September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 11 des
-    Gesetzes vom 17. März 2008 (BGBl. I S. 399) geändert worden ist, in
-    das EMAS-Register eingetragen ist;
+    September 2002 (BGBl. I S. 3490), das zuletzt durch Artikel 1 des
+    Gesetzes vom 6. Dezember 2011 (BGBl. I S. 2509) geändert worden ist,
+    in der jeweils geltenden Fassung in das EMAS-Register eingetragen ist;
 
 
 13. Einzugsgebiet
@@ -225,7 +219,27 @@ Für dieses Gesetz gelten folgende Begriffsbestimmungen:
     festgelegtes Land- oder Meeresgebiet, das aus einem oder mehreren
     benachbarten Einzugsgebieten, dem ihnen zugeordneten Grundwasser und
     den ihnen zugeordneten Küstengewässern im Sinne des § 7 Absatz 5 Satz
-    2 besteht.
+    2 besteht;
+
+
+16. Wasserdienstleistungen sind folgende Dienstleistungen für Haushalte,
+    öffentliche Einrichtungen oder wirtschaftliche Tätigkeiten jeder Art:
+
+    a)  Entnahme, Aufstauung, Speicherung, Behandlung und Verteilung von
+        Wasser aus einem Gewässer;
+
+
+    b)  Sammlung und Behandlung von Abwasser in Abwasseranlagen, die
+        anschließend in oberirdische Gewässer einleiten;
+
+
+
+
+
+17. Wassernutzungen sind alle Wasserdienstleistungen sowie andere
+    Handlungen mit Auswirkungen auf den Zustand eines Gewässers, die im
+    Hinblick auf die Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und
+    47 signifikant sind.
 
 
 
@@ -348,6 +362,36 @@ einen naturnahen Zustand zurückgeführt werden, wenn überwiegende
 Gründe des Wohls der Allgemeinheit dem nicht entgegenstehen.
 
 
+#### § 6a Grundsätze für die Kosten von Wasserdienstleistungen und Wassernutzungen
+
+(1) Bei Wasserdienstleistungen ist zur Erreichung der
+Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und 47 der Grundsatz
+der Kostendeckung zu berücksichtigen. Hierbei sind auch die Umwelt-
+und Ressourcenkosten zu berücksichtigen. Es sind angemessene Anreize
+zu schaffen, Wasser effizient zu nutzen, um so zur Erreichung der
+Bewirtschaftungsziele beizutragen.
+
+(2) Wenn bestimmte Wassernutzungen die Erreichung der in Absatz 1
+genannten Bewirtschaftungsziele gefährden, haben Wassernutzungen,
+insbesondere in den Bereichen Industrie, Haushalte und Landwirtschaft,
+zur Deckung der Kosten der Wasserdienstleistungen angemessen
+beizutragen.
+
+(3) Im Rahmen der Absätze 1 und 2 sind das Verursacherprinzip sowie
+die wirtschaftliche Analyse der Wassernutzungen nach der
+Oberflächengewässerverordnung und der Grundwasserverordnung zugrunde
+zu legen.
+
+(4) Von den Grundsätzen nach den Absätzen 1 und 2 kann im Hinblick auf
+soziale, ökologische und wirtschaftliche Auswirkungen der
+Kostendeckung sowie im Hinblick auf regionale geografische oder
+klimatische Besonderheiten abgewichen werden.
+
+(5) Weitergehende Regelungen des Bundes und der Länder zur Erhebung
+von Kosten und Entgelten im Bereich der Bewirtschaftung von Gewässern
+bleiben unberührt.
+
+
 #### § 7 Bewirtschaftung nach Flussgebietseinheiten
 
 (1) Die Gewässer sind nach Flussgebietseinheiten zu bewirtschaften.
@@ -410,12 +454,12 @@ Bewirtschaftungsziele
 
 (4) Soweit die Verwaltung der Bundeswasserstraßen berührt ist, ist bei
 der Koordinierung nach den Absätzen 2 und 3 das Einvernehmen der
-zuständigen Wasser- und Schifffahrtsdirektionen einzuholen. Soweit
+Generaldirektion Wasserstraßen und Schifffahrt einzuholen. Soweit
 gesamtstaatliche Belange bei der Pflege der Beziehungen zur
 Europäischen Union, zu auswärtigen Staaten oder zu internationalen
 Organisationen berührt sind, ist bei der Koordinierung nach Absatz 3
-das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz und
-Reaktorsicherheit einzuholen.
+das Einvernehmen des Bundesministeriums für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit einzuholen.
 
 (5) Die zuständigen Behörden der Länder ordnen innerhalb der
 Landesgrenzen die Einzugsgebiete oberirdischer Gewässer sowie
@@ -491,7 +535,8 @@ worden ist, mit diesem auf den Rechtsnachfolger über.
 
 
 
-(2) Als Benutzungen gelten auch
+(2) Soweit nicht bereits eine Benutzung nach Absatz 1 vorliegt, gelten
+als Benutzungen auch
 
 1.  das Aufstauen, Absenken und Umleiten von Grundwasser durch Anlagen,
     die hierfür bestimmt oder geeignet sind,
@@ -499,7 +544,17 @@ worden ist, mit diesem auf den Rechtsnachfolger über.
 
 2.  Maßnahmen, die geeignet sind, dauernd oder in einem nicht nur
     unerheblichen Ausmaß nachteilige Veränderungen der
-    Wasserbeschaffenheit herbeizuführen.
+    Wasserbeschaffenheit herbeizuführen,
+
+
+3.  das Aufbrechen von Gesteinen unter hydraulischem Druck zur Aufsuchung
+    oder Gewinnung von Erdgas, Erdöl oder Erdwärme, einschließlich der
+    zugehörigen Tiefbohrungen,
+
+
+4.  die untertägige Ablagerung von Lagerstättenwasser, das bei Maßnahmen
+    nach Nummer 3 oder anderen Maßnahmen zur Aufsuchung oder Gewinnung von
+    Erdgas oder Erdöl anfällt.
 
 
 
@@ -605,6 +660,229 @@ nachträglich nur Inhalts- und Nebenbestimmungen im Sinne von Absatz 2
 Nummer 1 bis 4 zulässig sind.
 
 
+#### § 13a Versagung und Voraussetzungen für die Erteilung der Erlaubnis für bestimmte Gewässerbenutzungen; unabhängige Expertenkommission
+
+(1) Eine Erlaubnis für eine Gewässerbenutzung nach § 9 Absatz 2 Nummer
+3 und 4 ist zu versagen, wenn
+
+1.  Schiefer-, Ton- oder Mergelgestein oder Kohleflözgestein zur
+    Aufsuchung oder Gewinnung von Erdgas oder Erdöl aufgebrochen werden
+    soll oder
+
+
+2.  die Gewässerbenutzung erfolgen soll in oder unter
+
+    a)  einem festgesetzten Wasserschutzgebiet,
+
+
+    b)  einem festgesetzten Heilquellenschutzgebiet,
+
+
+    c)  einem Gebiet, aus dem über oberirdische Gewässer Oberflächenabfluss
+
+        aa) in einen natürlichen See gelangt, aus dem unmittelbar Wasser für die
+            öffentliche Wasserversorgung entnommen wird oder
+
+
+        bb) in eine Talsperre gelangt, die der öffentlichen Wasserversorgung
+            dient,
+
+
+
+
+
+    d)  einem Einzugsgebiet einer Wasserentnahmestelle für die öffentliche
+        Wasserversorgung,
+
+
+    e)  einem Einzugsgebiet eines Brunnens nach dem
+        Wassersicherstellungsgesetz oder
+
+
+    f)  einem Einzugsgebiet
+
+        aa) eines Mineralwasservorkommens,
+
+
+        bb) einer Heilquelle oder
+
+
+        cc) einer Stelle zur Entnahme von Wasser zur Herstellung von
+            Lebensmitteln.
+
+
+
+
+
+
+
+
+
+Satz 1 Nummer 2 Buchstabe b und f Doppelbuchstabe bb gilt nicht, wenn
+Gesteine aufgebrochen werden sollen, um eine Heilquelle zu erschließen
+oder zu erhalten. Auf Antrag des Inhabers der Erlaubnis für die
+Wasserentnahme, der die erforderlichen Unterlagen enthält, weist die
+zuständige Behörde Gebiete nach Satz 1 Nummer 2 Buchstabe c bis f nach
+Maßgabe der allgemein anerkannten Regeln der Technik in Karten aus und
+veröffentlicht die Karten für die Gebiete nach Satz 1 Nummer 2
+Buchstabe c, d und f im Internet. Satz 1 Nummer 2 Buchstabe a und b
+und Satz 3 gelten entsprechend für Gebiete, die zur Festsetzung als
+Wasserschutzgebiete oder als Heilquellenschutzgebiete vorgesehen sind,
+für einen Zeitraum von 36 Monaten nach ihrer Ausweisung als
+vorgesehene Schutzgebiete entsprechend Satz 3. Die zuständige Behörde
+kann die Frist nach Satz 4 um bis zu zwölf Monate verlängern, wenn
+besondere Umstände dies erfordern.
+
+(2) Abweichend von Absatz 1 Satz 1 Nummer 1 können Erlaubnisse für
+vier Erprobungsmaßnahmen mit dem Zweck erteilt werden, die
+Auswirkungen auf die Umwelt, insbesondere den Untergrund und den
+Wasserhaushalt, wissenschaftlich zu erforschen. Die Erlaubnisse nach
+Satz 1 bedürfen der Zustimmung der jeweiligen Landesregierung. Bei der
+Entscheidung nach Satz 2 sind die geologischen Besonderheiten der
+betroffenen Gebiete und sonstige öffentliche Interessen abzuwägen.
+
+(3) Durch Landesrecht kann bestimmt werden, dass Erlaubnisse für
+Benutzungen nach § 9 Absatz 2 Nummer 3 und 4 auch in oder unter
+Gebieten, in denen untertägiger Bergbau betrieben wird oder betrieben
+worden ist, nur unter bestimmten Auflagen erteilt werden dürfen oder
+zu versagen sind. Die zuständige Behörde weist Gebiete nach Satz 1 in
+Karten aus.
+
+(4) Sofern die Erteilung einer Erlaubnis für eine Benutzung nach § 9
+Absatz 2 Nummer 3 nicht nach Absatz 1 oder Absatz 3 ausgeschlossen
+ist, darf die Erlaubnis nur erteilt werden, wenn
+
+1.  die verwendeten Gemische
+
+    a)  in den Fällen des Absatzes 2 als nicht wassergefährdend eingestuft
+        sind
+
+
+    b)  in den übrigen Fällen als nicht oder als schwach wassergefährdend
+        eingestuft sind und
+
+
+
+
+
+2.  sichergestellt ist, dass der Stand der Technik eingehalten wird.
+
+
+
+
+(5) Sofern die Erteilung einer Erlaubnis für eine Benutzung nach § 9
+Absatz 2 Nummer 4 nicht nach Absatz 1 oder Absatz 3 ausgeschlossen
+ist, darf die Erlaubnis nur erteilt werden, wenn sichergestellt ist,
+dass der Stand der Technik eingehalten wird und insbesondere die
+Anforderungen nach § 22c der Allgemeinen Bundesbergverordnung vom 23.
+Oktober 1995 (BGBl. I S. 1466), die zuletzt durch Artikel 2 der
+Verordnung vom 4. August 2016 (BGBl. I S. 1957) geändert worden ist,
+erfüllt werden.
+
+(6) Die Bundesregierung setzt eine unabhängige Expertenkommission ein,
+welche die nach Absatz 2 durchgeführten Erprobungsmaßnahmen
+wissenschaftlich begleitet und auswertet sowie hierzu und zum Stand
+der Technik Erfahrungsberichte zum 30. Juni eines Jahres, beginnend
+mit dem 30. Juni 2018, erstellt. Die Expertenkommission übermittelt
+die Erfahrungsberichte zu den in Satz 1 genannten Zeitpunkten dem
+Deutschen Bundestag und veröffentlicht sie im Internet. Die
+Expertenkommission unterrichtet die Öffentlichkeit in regelmäßigen
+Abständen über Verlauf und Ergebnisse der Erprobungsmaßnahmen nach
+Absatz 2; hierbei sowie zu den Entwürfen der Erfahrungsberichte nach
+Satz 1 ist der Öffentlichkeit Gelegenheit zur Stellungnahme zu geben.
+Die unabhängige Expertenkommission nach Satz 1 setzt sich zusammen aus
+
+1.  einem Vertreter der Bundesanstalt für Geowissenschaften und Rohstoffe,
+
+
+2.  einem Vertreter des Umweltbundesamtes,
+
+
+3.  einem vom Bundesrat benannten Vertreter eines Landesamtes für
+    Geologie, das nicht für die Zulassung der Erprobungsmaßnahmen
+    zuständig ist,
+
+
+4.  einem Vertreter des Helmholtz-Zentrums Potsdam Deutsches
+    GeoForschungsZentrum,
+
+
+5.  einem Vertreter des Helmholtz-Zentrums für Umweltforschung Leipzig
+    sowie
+
+
+6.  einem vom Bundesrat benannten Vertreter einer für Wasserwirtschaft
+    zuständigen Landesbehörde, die nicht für die Zulassung der
+    Erprobungsmaßnahmen zuständig ist.
+
+
+
+Die Mitglieder der Expertenkommission sind an Weisungen nicht
+gebunden. Die Expertenkommission gibt sich eine Geschäftsordnung und
+wählt aus ihrer Mitte einen Vorsitzenden.
+
+(7) Im Jahr 2021 überprüft der Deutsche Bundestag auf der Grundlage
+des bis dahin vorliegenden Standes von Wissenschaft und Technik die
+Angemessenheit des Verbots nach Absatz 1 Satz 1 Nummer 1.
+
+
+#### § 13b Antragsunterlagen und Überwachung bei bestimmten Gewässerbenutzungen; Stoffregister
+
+(1) Der Antrag auf Erteilung einer Erlaubnis für eine
+Gewässerbenutzung nach § 9 Absatz 2 Nummer 3 oder Nummer 4 muss
+insbesondere die Angaben nach § 2 Absatz 1 Nummer 3 der Verordnung
+über die Umweltverträglichkeitsprüfung bergbaulicher Vorhaben vom 13.
+Juli 1990 (BGBl. I S.1420), die zuletzt durch Artikel 1 der Verordnung
+vom 4. August 2016 (BGBl. I S. 1957) geändert worden ist, enthalten.
+Die zuständige Behörde hat die Angaben nach § 2 Absatz 1 Nummer 3
+Buchstabe a dieser Verordnung innerhalb von zwei Wochen nach
+Antragstellung im Internet zu veröffentlichen.
+
+(2) In der Erlaubnis für Gewässerbenutzungen nach § 9 Absatz 2 Nummer
+3 und 4 ist insbesondere zu regeln, wie
+
+1.  die Beschaffenheit des Grundwassers und oberirdischer Gewässer im
+    Einwirkungsbereich der Maßnahmen regelmäßig während und nach deren
+    Durchführung zu überwachen und
+
+
+2.  über die Ergebnisse der Überwachung der zuständigen Behörde
+    schriftlich oder elektronisch zu berichten ist.
+
+
+
+
+(3) In der Erlaubnis für Gewässerbenutzungen nach § 9 Absatz 2 Nummer
+3 ist darüber hinaus insbesondere die regelmäßige Überwachung nach §
+22b Satz 1 Nummer 2 und 3 der Allgemeinen Bundesbergverordnung sowie
+die Pflicht, der zuständigen Behörde über die Ergebnisse der
+Überwachung schriftlich oder elektronisch zu berichten, näher zu
+regeln.
+
+(4) Der Inhaber der Erlaubnis hat die zuständige Behörde unverzüglich
+zu unterrichten über nachteilige Veränderungen der Beschaffenheit des
+Grundwassers, eines oberirdischen Gewässers oder des Bodens infolge
+von
+
+1.  Benutzungen nach § 9 Absatz 2 Nummer 3 oder Nummer 4 oder
+
+
+2.  Benutzungen nach § 9 Absatz 1 Nummer 4 oder Nummer 5, die im
+    Zusammenhang mit Benutzungen nach § 9 Absatz 2 Nummer 3 oder Nummer 4
+    stehen.
+
+
+
+Die zuständige Behörde hat Informationen nach Satz 1 innerhalb von
+zwei Wochen nach der Unterrichtung im Internet zu veröffentlichen.
+
+(5) Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 11 kann die
+Errichtung und Führung eines für jedermann frei und unentgeltlich
+zugänglichen internetgestützten Registers für Stoffe geregelt werden,
+die bei Gewässerbenutzungen nach § 9 Absatz 2 Nummer 3 und 4 verwendet
+oder abgelagert werden.
+
+
 #### § 14 Besondere Vorschriften für die Erteilung der Bewilligung
 
 (1) Die Bewilligung darf nur erteilt werden, wenn die
@@ -619,7 +897,7 @@ Gewässerbenutzung
 
 
 3.  keine Benutzung im Sinne des § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer
-    2 ist, ausgenommen das Wiedereinleiten von nicht nachteilig
+    2 bis 4 ist, ausgenommen das Wiedereinleiten von nicht nachteilig
     verändertem Triebwasser bei Ausleitungskraftwerken.
 
 
@@ -687,7 +965,9 @@ vergangen sind.
 
 (1) Die Erlaubnis kann als gehobene Erlaubnis erteilt werden, wenn
 hierfür ein öffentliches Interesse oder ein berechtigtes Interesse des
-Gewässerbenutzers besteht.
+Gewässerbenutzers besteht. Eine gehobene Erlaubnis darf für
+Gewässerbenutzungen nach § 9 Absatz 2 Nummer 3 und 4 nicht erteilt
+werden.
 
 (2) Für die gehobene Erlaubnis gelten § 11 Absatz 2 und § 14 Absatz 3
 bis 5 entsprechend.
@@ -941,7 +1221,11 @@ Regelungen über
 
 
 12. die wirtschaftliche Analyse von Wassernutzungen, die Auswirkungen auf
-    Gewässer haben.
+    Gewässer haben,
+
+
+13. Maßnahmenprogramme und Bewirtschaftungspläne auf Grund bindender
+    Rechtsakte der Europäischen Union.
 
 
 
@@ -969,17 +1253,16 @@ Eigenverantwortung für EMAS-Standorte durch Rechtsverordnung mit
 Zustimmung des Bundesrates Erleichterungen zum Inhalt der
 Antragsunterlagen in wasserrechtlichen Verfahren sowie
 überwachungsrechtliche Erleichterungen vorzusehen, soweit die
-entsprechenden Anforderungen der Verordnung (EG) Nr. 761/2001 des
-Europäischen Parlaments und des Rates vom 19. März 2001 über die
-freiwillige Beteiligung von Organisationen an einem
-Gemeinschaftssystem für das Umweltmanagement und die
-Umweltbetriebsprüfung (EMAS) (ABl. L 114 vom 24.4.2001, S. 1, L 327
-vom 4.12.2002, S. 10, L 60 vom 27.2.2007, S. 1), die zuletzt durch die
-Verordnung (EG) Nr. 1791/2006 (ABl. L 363 vom 20.12.2006, S. 1)
-geändert worden ist, gleichwertig mit den Anforderungen sind, die zur
-Überwachung und zu den Antragsunterlagen nach den wasserrechtlichen
-Vorschriften vorgesehen sind, oder soweit die Gleichwertigkeit durch
-die Rechtsverordnung nach dieser Vorschrift sichergestellt wird; dabei
+entsprechenden Anforderungen der Verordnung (EG) Nr. 1221/2009 des
+Europäischen Parlaments und des Rates vom 25. November 2009 über die
+freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem
+für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der
+Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission
+2001/681/EG und 2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1)
+gleichwertig mit den Anforderungen sind, die zur Überwachung und zu
+den Antragsunterlagen nach den wasserrechtlichen Vorschriften
+vorgesehen sind, oder soweit die Gleichwertigkeit durch die
+Rechtsverordnung nach dieser Vorschrift sichergestellt wird; dabei
 können insbesondere Erleichterungen zu
 
 1.  Kalibrierungen, Ermittlungen, Prüfungen und Messungen,
@@ -999,9 +1282,8 @@ können insbesondere Erleichterungen zu
 
 (2) Ordnungsrechtliche Erleichterungen können gewährt werden, wenn ein
 Umweltgutachter die Einhaltung der Umweltvorschriften geprüft und
-keine Abweichungen festgestellt hat und dies in der
-Gültigkeitserklärung nach Artikel 3 Absatz 2 Buchstabe d der
-Verordnung (EG) Nr. 761/2001 bescheinigt.
+keine Abweichungen festgestellt hat und dies in der Erklärung nach
+Anhang VII der Verordnung (EG) Nr. 1221/2009 bescheinigt.
 
 (3) Solange und soweit die Bundesregierung von der Ermächtigung zum
 Erlass von Rechtsverordnungen nach Absatz 1 keinen Gebrauch gemacht
@@ -1141,7 +1423,10 @@ Gewässer im Sinne des § 3 Nummer 4 und 5 eingestuft werden, wenn
 (1) Ein guter ökologischer und ein guter chemischer Zustand der
 oberirdischen Gewässer sowie ein gutes ökologisches Potenzial und ein
 guter chemischer Zustand der künstlichen und erheblich veränderten
-Gewässer sind bis zum 22. Dezember 2015 zu erreichen.
+Gewässer sind bis zum 22. Dezember 2015 zu erreichen. Durch
+Rechtsverordnung nach § 23 Absatz 1 Nummer 1 können zur Umsetzung
+bindender Rechtsakte der Europäischen Union abweichende Fristen
+bestimmt werden.
 
 (2) Die zuständige Behörde kann die Frist nach Absatz 1 verlängern,
 wenn sich der Gewässerzustand nicht weiter verschlechtert und
@@ -1325,7 +1610,7 @@ Wiederherstellung der Durchgängigkeit zu treffen, die erforderlich
 sind, um die Bewirtschaftungsziele nach Maßgabe der §§ 27 bis 31 zu
 erreichen.
 
-(3) Die Wasser- und Schifffahrtsverwaltung des Bundes führt bei
+(3) Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes führt bei
 Stauanlagen an Bundeswasserstraßen, die von ihr errichtet oder
 betrieben werden, die nach den Absätzen 1 und 2 erforderlichen
 Maßnahmen im Rahmen ihrer Aufgaben nach dem Bundeswasserstraßengesetz
@@ -1351,7 +1636,7 @@ der Öffentlichkeit in geeigneter Weise zugänglich gemacht.
 
 #### § 36 Anlagen in, an, über und unter oberirdischen Gewässern
 
-Anlagen in, an, über und unter oberirdischen Gewässern sind so zu
+(1) Anlagen in, an, über und unter oberirdischen Gewässern sind so zu
 errichten, zu betreiben, zu unterhalten und stillzulegen, dass keine
 schädlichen Gewässerveränderungen zu erwarten sind und die
 Gewässerunterhaltung nicht mehr erschwert wird, als es den Umständen
@@ -1369,6 +1654,16 @@ nach unvermeidbar ist. Anlagen im Sinne von Satz 1 sind insbesondere
 
 
 Im Übrigen gelten die landesrechtlichen Vorschriften.
+
+(2) Stauanlagen und Stauhaltungsdämme sind nach den allgemein
+anerkannten Regeln der Technik zu errichten, zu betreiben und zu
+unterhalten; die Anforderungen an den Hochwasserschutz müssen gewahrt
+sein. Wer Stauanlagen und Stauhaltungsdämme betreibt, hat ihren
+ordnungsgemäßen Zustand und Betrieb auf eigene Kosten zu überwachen
+(Eigenüberwachung). Entsprechen vorhandene Stauanlagen oder
+Stauhaltungsdämme nicht den vorstehenden Anforderungen, so kann die
+zuständige Behörde die Durchführung der erforderlichen Maßnahmen
+innerhalb angemessener Fristen anordnen.
 
 
 #### § 37 Wasserabfluss
@@ -2000,11 +2295,11 @@ bestimmt werden. Absatz 3 gilt entsprechend.
 
 Innerhalb von sechs Monaten nach der Veröffentlichung kann die
 Öffentlichkeit zu den in Satz 1 genannten Unterlagen bei der
-zuständigen Behörde schriftlich Stellung nehmen; hierauf ist in der
-Veröffentlichung hinzuweisen. Für Maßnahmenprogramme nach § 45h ist
-die Beteiligung der Öffentlichkeit nach den Sätzen 1 und 2 Teil der
-strategischen Umweltprüfung nach § 14i des Gesetzes über die
-Umweltverträglichkeitsprüfung.
+zuständigen Behörde schriftlich oder elektronisch Stellung nehmen;
+hierauf ist in der Veröffentlichung hinzuweisen. Für
+Maßnahmenprogramme nach § 45h ist die Beteiligung der Öffentlichkeit
+nach den Sätzen 1 und 2 Teil der strategischen Umweltprüfung nach §
+14i des Gesetzes über die Umweltverträglichkeitsprüfung.
 
 (2) Bei Aktualisierungen nach § 45j und der vorzeitigen Aufstellung
 eines Maßnahmenprogramms nach § 45h Absatz 6 gilt Absatz 1
@@ -2054,17 +2349,18 @@ Meeresgewässer gelangt, für das die Maßnahmen ergriffen werden. Absatz
 
 #### § 45l Zuständigkeit im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, im Einvernehmen mit dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz, dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung und dem Bundesministerium der
-Finanzen durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-Zuständigkeit von Bundesbehörden im Geschäftsbereich der genannten
-Bundesministerien für die Durchführung der Vorschriften dieses
-Abschnitts und der auf Grund des § 23 für Meeresgewässer erlassenen
-Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone
-und des Festlandsockels sowie das Zusammenwirken von Bundesbehörden
-bei der Durchführung dieser Vorschriften in diesem Bereich zu regeln.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Ernährung und Landwirtschaft, dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
+Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
+des Bundesrates die Zuständigkeit von Bundesbehörden im
+Geschäftsbereich der genannten Bundesministerien für die Durchführung
+der Vorschriften dieses Abschnitts und der auf Grund des § 23 für
+Meeresgewässer erlassenen Vorschriften im Bereich der deutschen
+ausschließlichen Wirtschaftszone und des Festlandsockels sowie das
+Zusammenwirken von Bundesbehörden bei der Durchführung dieser
+Vorschriften in diesem Bereich zu regeln.
 
 
 ### Abschnitt 4 - Bewirtschaftung des Grundwassers
@@ -2350,7 +2646,7 @@ Rechtsverordnung auf andere Landesbehörden übertragen.
 ### Abschnitt 2 - Abwasserbeseitigung
 
 
-#### § 54 Abwasser, Abwasserbeseitigung
+#### § 54 Begriffsbestimmungen für die Abwasserbeseitigung
 
 (1) Abwasser ist
 
@@ -2373,6 +2669,51 @@ Einleiten, Versickern, Verregnen und Verrieseln von Abwasser sowie das
 Entwässern von Klärschlamm in Zusammenhang mit der
 Abwasserbeseitigung. Zur Abwasserbeseitigung gehört auch die
 Beseitigung des in Kleinkläranlagen anfallenden Schlamms.
+
+(3) BVT-Merkblatt ist ein Dokument, das auf Grund des
+Informationsaustausches nach Artikel 13 der Richtlinie 2010/75/EU des
+Europäischen Parlaments und des Rates vom 24. November 2010 über
+Industrieemissionen (integrierte Vermeidung und Verminderung der
+Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S. 17)
+für bestimmte Tätigkeiten erstellt wird und insbesondere die
+angewandten Techniken, die derzeitigen Emissions- und Verbrauchswerte
+sowie die Techniken beschreibt, die für die Festlegung der besten
+verfügbaren Techniken sowie der BVT-Schlussfolgerungen berücksichtigt
+wurden.
+
+(4) BVT-Schlussfolgerungen sind ein nach Artikel 13 Absatz 5 der
+Richtlinie 2010/75/EU von der Europäischen Kommission erlassenes
+Dokument, das die Teile eines BVT-Merkblatts mit den
+Schlussfolgerungen in Bezug auf Folgendes enthält:
+
+1.  die besten verfügbaren Techniken, ihre Beschreibung und Informationen
+    zur Bewertung ihrer Anwendbarkeit,
+
+
+2.  die mit den besten verfügbaren Techniken assoziierten Emissionswerte,
+
+
+3.  die zu den Nummern 1 und 2 gehörigen Überwachungsmaßnahmen,
+
+
+4.  die zu den Nummern 1 und 2 gehörigen Verbrauchswerte sowie
+
+
+5.  die gegebenenfalls einschlägigen Standortsanierungsmaßnahmen.
+
+
+
+
+(5) Emissionsbandbreiten sind die mit den besten verfügbaren Techniken
+assoziierten Emissionswerte.
+
+(6) Die mit den besten verfügbaren Techniken assoziierten
+Emissionswerte sind der Bereich von Emissionswerten, die unter
+normalen Betriebsbedingungen unter Verwendung einer besten verfügbaren
+Technik oder einer Kombination von besten verfügbaren Techniken
+entsprechend der Beschreibung in den BVT-Schlussfolgerungen erzielt
+werden, ausgedrückt als Mittelwert für einen vorgegebenen Zeitraum
+unter spezifischen Referenzbedingungen.
 
 
 #### § 55 Grundsätze der Abwasserbeseitigung
@@ -2430,15 +2771,59 @@ Pflichten Dritter bedienen.
 Einleiten von Abwasser in Gewässer Anforderungen festgelegt werden,
 die nach Absatz 1 Nummer 1 dem Stand der Technik entsprechen. Die
 Anforderungen können auch für den Ort des Anfalls des Abwassers oder
-vor seiner Vermischung festgelegt werden. Für vorhandene Einleitungen
-legt die Rechtsverordnung abweichende Anforderungen fest, soweit die
-danach erforderlichen Anpassungsmaßnahmen unverhältnismäßig wären.
+vor seiner Vermischung festgelegt werden.
 
-(3) Entsprechen vorhandene Abwassereinleitungen nicht den
-Anforderungen nach Absatz 2 oder entsprechenden Anforderungen der
+(3) Nach Veröffentlichung einer BVT-Schlussfolgerung ist bei der
+Festlegung von Anforderungen nach Absatz 2 Satz 1 unverzüglich zu
+gewährleisten, dass für Anlagen nach § 3 der Verordnung über
+genehmigungsbedürftige Anlagen und nach § 60 Absatz 3 Satz 1 Nummer 2
+die Einleitungen unter normalen Betriebsbedingungen die in den BVT-
+Schlussfolgerungen genannten Emissionsbandbreiten nicht überschreiten.
+Wenn in besonderen Fällen wegen technischer Merkmale der betroffenen
+Anlagenart die Einhaltung der in Satz 1 genannten Emissionsbandbreiten
+unverhältnismäßig wäre, können in der Rechtsverordnung für die
+Anlagenart geeignete Emissionswerte festgelegt werden, die im Übrigen
+dem Stand der Technik entsprechen müssen. Bei der Festlegung der
+abweichenden Anforderungen nach Satz 2 ist zu gewährleisten, dass die
+in den Anhängen V bis VIII der Richtlinie 2010/75/EU festgelegten
+Emissionsgrenzwerte nicht überschritten werden, keine erheblichen
+nachteiligen Auswirkungen auf den Gewässerzustand hervorgerufen werden
+und zu einem hohen Schutzniveau für die Umwelt insgesamt beigetragen
+wird. Die Notwendigkeit abweichender Anforderungen ist zu begründen.
+
+(4) Für vorhandene Abwassereinleitungen aus Anlagen nach § 3 der
+Verordnung über genehmigungsbedürftige Anlagen oder bei Anlagen nach §
+60 Absatz 3 Satz 1 Nummer 2 ist
+
+1.  innerhalb eines Jahres nach Veröffentlichung von BVT-
+    Schlussfolgerungen zur Haupttätigkeit eine Überprüfung und
+    gegebenenfalls Anpassung der Rechtsverordnung vorzunehmen und
+
+
+2.  innerhalb von vier Jahren nach Veröffentlichung von BVT-
+    Schlussfolgerungen zur Haupttätigkeit sicherzustellen, dass die
+    betreffenden Einleitungen oder Anlagen die Emissionsgrenzwerte der
+    Rechtsverordnung einhalten; dabei gelten die Emissionsgrenzwerte als
+    im Einleitungsbescheid festgesetzt, soweit der Bescheid nicht
+    weitergehende Anforderungen im Einzelfall festlegt.
+
+
+
+Sollte die Anpassung der Abwassereinleitung an die nach Satz 1 Nummer
+1 geänderten Anforderungen innerhalb der in Satz 1 bestimmten Frist
+wegen technischer Merkmale der betroffenen Anlage unverhältnismäßig
+sein, soll die zuständige Behörde einen längeren Zeitraum festlegen.
+
+(5) Entsprechen vorhandene Einleitungen, die nicht unter die Absätze 3
+bis 4 fallen, nicht den Anforderungen nach Absatz 2, auch in
+Verbindung mit Satz 2, oder entsprechenden Anforderungen der
 Abwasserverordnung in ihrer am 28. Februar 2010 geltenden Fassung, so
-sind die erforderlichen Anpassungsmaßnahmen innerhalb angemessener
-Fristen durchzuführen.
+hat der Betreiber die erforderlichen Anpassungsmaßnahmen innerhalb
+angemessener Fristen durchzuführen; Absatz 4 Satz 1 Nummer 2 zweiter
+Halbsatz gilt entsprechend. Für Einleitungen nach Satz 1 sind in der
+Rechtsverordnung nach Absatz 2 Satz 1 abweichende Anforderungen
+festzulegen, soweit die erforderlichen Anpassungsmaßnahmen
+unverhältnismäßig wären.
 
 
 #### § 58 Einleiten von Abwasser in öffentliche Abwasseranlagen
@@ -2511,25 +2896,103 @@ der Anforderungen nach § 58 Absatz 2 sichergestellt ist.
 
 (1) Abwasseranlagen sind so zu errichten, zu betreiben und zu
 unterhalten, dass die Anforderungen an die Abwasserbeseitigung
-eingehalten werden. Im Übrigen dürfen Abwasseranlagen nur nach den
-allgemein anerkannten Regeln der Technik errichtet, betrieben und
-unterhalten werden.
+eingehalten werden. Im Übrigen müssen Abwasserbehandlungsanlagen im
+Sinne von Absatz 3 Satz 1 Nummer 2 und 3 nach dem Stand der Technik,
+andere Abwasseranlagen nach den allgemein anerkannten Regeln der
+Technik errichtet, betrieben und unterhalten werden.
 
 (2) Entsprechen vorhandene Abwasseranlagen nicht den Anforderungen
 nach Absatz 1, so sind die erforderlichen Maßnahmen innerhalb
 angemessener Fristen durchzuführen.
 
 (3) Die Errichtung, der Betrieb und die wesentliche Änderung einer
-Abwasserbehandlungsanlage, für die nach dem Gesetz über die
-Umweltverträglichkeitsprüfung eine Verpflichtung zur Durchführung
-einer Umweltverträglichkeitsprüfung besteht, bedürfen einer
-Genehmigung. Die Genehmigung ist zu versagen oder mit den notwendigen
+Abwasserbehandlungsanlage bedürfen einer Genehmigung, wenn
+
+1.  für die Anlage nach dem Gesetz über die Umweltverträglichkeitsprüfung
+    eine Verpflichtung zur Durchführung einer
+    Umweltverträglichkeitsprüfung besteht oder
+
+
+2.  in der Anlage Abwasser behandelt wird, das
+
+    a)  aus Anlagen nach § 3 der Verordnung über genehmigungsbedürftige
+        Anlagen stammt, deren Genehmigungserfordernis sich nicht nach § 1
+        Absatz 2 der Verordnung über genehmigungsbedürftige Anlagen auf die
+        Abwasserbehandlungsanlage erstreckt, und
+
+
+    b)  nicht unter die Richtlinie 91/271/EWG des Rates vom 21. Mai 1991 über
+        die Behandlung von kommunalem Abwasser (ABl. L 135 vom 30.5.1991, S.
+        40), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311
+        vom 21.11.2008, S. 1) geändert worden ist, fällt oder
+
+
+
+
+
+3.  in der Anlage Abwasser behandelt wird, das
+
+    a)  aus einer Deponie im Sinne von § 3 Absatz 27 des
+        Kreislaufwirtschaftsgesetzes mit einer Aufnahmekapazität von
+        mindestens 10 Tonnen pro Tag oder mit einer Gesamtkapazität von
+        mindestens 25 000 Tonnen, ausgenommen Deponien für Inertabfälle,
+        stammt, sofern sich die Zulassung der Deponie nicht auf die Anlage
+        erstreckt, und
+
+
+    b)  nicht unter die Richtlinie
+        91/271/EWG fällt.
+
+
+
+
+
+
+Die Genehmigung ist zu versagen oder mit den notwendigen
 Nebenbestimmungen zu versehen, wenn die Anlage den Anforderungen des
 Absatzes 1 nicht entspricht oder sonstige öffentlich-rechtliche
 Vorschriften dies erfordern. § 13 Absatz 1, § 16 Absatz 1 und 3 und §
-17 gelten entsprechend.
+17 gelten entsprechend. Für die Anlagen, die die Voraussetzungen nach
+Satz 1 Nummer 2 oder Nummer 3 erfüllen, gelten auch die Anforderungen
+nach § 5 des Bundes-Immissionsschutzgesetzes entsprechend.
 
-(4) Die Länder können regeln, dass die Errichtung, der Betrieb und die
+(4) Sofern eine Genehmigung nicht beantragt wird, hat der Betreiber
+die Änderung der Lage, der Beschaffenheit oder des Betriebs einer
+Anlage, die die Voraussetzungen nach Absatz 3 Satz 1 Nummer 2 oder
+Nummer 3 erfüllt, der zuständigen Behörde mindestens einen Monat bevor
+mit der Änderung begonnen werden soll, schriftlich oder elektronisch
+anzuzeigen, wenn die Änderung Auswirkungen auf die Umwelt haben kann.
+Der Anzeige sind die zur Beurteilung der Auswirkungen notwendigen
+Unterlagen nach § 3 Absatz 1 und 2 der Industriekläranlagen-
+Zulassungs- und Überwachungsverordnung beizufügen, soweit diese für
+die Prüfung erforderlich sein können, ob das Vorhaben
+genehmigungsbedürftig ist. Die zuständige Behörde hat dem Betreiber
+unverzüglich mitzuteilen, ob ihr die für die Prüfung nach Satz 2
+erforderlichen Unterlagen vorliegen. Der Betreiber der Anlage darf die
+Änderung vornehmen, sobald die zuständige Behörde ihm mitgeteilt hat,
+dass die Änderung keiner Genehmigung bedarf oder wenn die zuständige
+Behörde sich innerhalb eines Monats nach Zugang der Mitteilung nach
+Satz 3, dass die erforderlichen Unterlagen vorliegen, nicht geäußert
+hat.
+
+(5) Kommt der Betreiber einer Anlage, die die Voraussetzungen nach
+Absatz 3 Satz 1 Nummer 2 oder Nummer 3 erfüllt, einer Nebenbestimmung
+oder einer abschließend bestimmten Pflicht aus einer Rechtsverordnung
+nach § 23 Absatz 1 Nummer 3 in Verbindung mit § 57 Absatz 2, 3, 4 Satz
+1 Nummer 1 oder Absatz 5 Satz 2, nach § 23 Absatz 1 Nummer 5 oder der
+Abwasserverordnung in ihrer am 28. Februar 2010 geltenden Fassung
+nicht nach und wird hierdurch eine unmittelbare Gefahr für die
+menschliche Gesundheit oder die Umwelt herbeigeführt, so hat die
+zuständige Behörde den Betrieb der Anlage oder den Betrieb des
+betreffenden Teils der Anlage bis zur Erfüllung der Nebenbestimmung
+oder der abschließend bestimmten Pflicht zu untersagen.
+
+(6) Wird eine Anlage, die die Voraussetzungen nach Absatz 3 Satz 1
+Nummer 2 oder Nummer 3 erfüllt, ohne die erforderliche Genehmigung
+betrieben oder wesentlich geändert, so ordnet die zuständige Behörde
+die Stilllegung der Anlage an.
+
+(7) Die Länder können regeln, dass die Errichtung, der Betrieb und die
 wesentliche Änderung von Abwasseranlagen, die nicht unter Absatz 3
 fallen, einer Anzeige oder Genehmigung bedürfen.
 Genehmigungserfordernisse nach anderen öffentlich-rechtlichen
@@ -2612,7 +3075,7 @@ nähere Regelungen erlassen werden über
 
 
 2.  die Einsetzung einer Kommission zur Beratung des Bundesministeriums
-    für Umwelt, Naturschutz und Reaktorsicherheit in Fragen der
+    für Umwelt, Naturschutz, Bau und Reaktorsicherheit in Fragen der
     Stoffeinstufung einschließlich hiermit zusammenhängender
     organisatorischer Fragen,
 
@@ -2661,23 +3124,45 @@ zum Umgang mit
 
 
 (7) Das Umweltbundesamt erhebt für in einer Rechtsverordnung nach
-Absatz 4 Nummer 1 aufgeführte Amtshandlungen Gebühren und Auslagen.
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände, die
-Gebührensätze und die Auslagenerstattung für Amtshandlungen nach Satz
-1 zu bestimmen. Die zu erstattenden Auslagen können abweichend vom
-Verwaltungskostengesetz geregelt werden.
+Absatz 4 Nummer 1 aufgeführte individuell zurechenbare öffentliche
+Leistungen Gebühren und Auslagen. Die Bundesregierung wird ermächtigt,
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände, die Gebührensätze und die
+Auslagenerstattung für individuell zurechenbare öffentliche Leistungen
+nach Satz 1 zu bestimmen. Die zu erstattenden Auslagen können
+abweichend vom Bundesgebührengesetz geregelt werden.
+
+Nationales Aktionsprogramm zum Schutz
+
+#### § 62a von Gewässern vor Nitrateinträgen aus Anlagen
+
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit erarbeitet im Einvernehmen mit dem Bundesministerium
+für Ernährung und Landwirtschaft ein nationales Aktionsprogramm im
+Sinne des Artikels 5 Absatz 1 in Verbindung mit Absatz 4 Buchstabe b,
+Artikel 4 Absatz 1 Buchstabe a und Anhang II Buchstabe A Nummer 5 der
+Richtlinie 91/676/EWG des Rates vom 12. Dezember 1991 zum Schutz der
+Gewässer vor Verunreinigung durch Nitrat aus landwirtschaftlichen
+Quellen (ABl. L 375 vom 31.12.1991, S. 1), die zuletzt durch die
+Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom 21.11.2008, S. 1)
+geändert worden ist. Dieses enthält insbesondere Angaben zur
+Beschaffenheit, zur Lage, zur Errichtung und zum Betrieb von Anlagen
+zum Lagern und Abfüllen von Jauche, Gülle und Silagesickersäften sowie
+von vergleichbaren in der Landwirtschaft anfallenden Stoffen. Zu dem
+Entwurf des Aktionsprogramms sowie zu Entwürfen zur Änderung des
+Aktionsprogramms wird eine Strategische Umweltprüfung nach dem Gesetz
+über die Umweltverträglichkeitsprüfung durchgeführt. Das
+Aktionsprogramm und seine Änderungen sind bei Erlass der
+Rechtsverordnung auf Grund des § 23 Absatz 1 Nummer 5 bis 11 in
+Verbindung mit § 62 Absatz 4 zu berücksichtigen.
 
 
 #### § 63 Eignungsfeststellung
 
 (1) Anlagen zum Lagern, Abfüllen oder Umschlagen wassergefährdender
-Stoffe dürfen nur errichtet und betrieben werden, wenn ihre Eignung
-von der zuständigen Behörde festgestellt worden ist. Eine
-Eignungsfeststellung kann auch für Anlagenteile oder technische
-Schutzvorkehrungen erteilt werden. Für die Errichtung von Anlagen,
-Anlagenteilen und technischen Schutzvorkehrungen nach den Sätzen 1 und
-2 gilt § 58 Absatz 4 entsprechend.
+Stoffe dürfen nur errichtet, betrieben und wesentlich geändert werden,
+wenn ihre Eignung von der zuständigen Behörde festgestellt worden ist.
+§ 13 Absatz 1 und § 17 gelten entsprechend.
 
 (2) Absatz 1 gilt nicht
 
@@ -2699,50 +3184,113 @@ Anlagenteilen und technischen Schutzvorkehrungen nach den Sätzen 1 und
 
 
     Durch Rechtsverordnung nach § 23 Absatz 1 Nummer 5, 6 und 10 kann
-    bestimmt werden, unter welchen Voraussetzungen darüber hinaus keine
-    Eignungsfeststellung erforderlich ist.
+    geregelt werden,
+
+    1.  unter welchen Voraussetzungen über die Regelungen nach Satz 1 hinaus
+        keine Eignungsfeststellung erforderlich ist,
+
+
+    2.  dass über die Regelungen nach Absatz 4 hinaus bestimmte Anlagenteile
+        als geeignet gelten, einschließlich hierfür zu erfüllender
+        Voraussetzungen.
 
 
 
 
-(3) Die Eignungsfeststellung entfällt für Anlagen, Anlagenteile oder
-technische Schutzvorkehrungen,
-
-1.  die nach den Vorschriften des Bauproduktengesetzes in der Fassung der
-    Bekanntmachung vom 28. April 1998 (BGBl. I S. 812), das zuletzt durch
-    Artikel 76 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407)
-    geändert worden ist, oder anderen Rechtsvorschriften zur Umsetzung von
-    Richtlinien der Europäischen Gemeinschaften oder der Europäischen
-    Union, deren Regelungen über die Brauchbarkeit auch Anforderungen zum
-    Schutz der Gewässer umfassen, in Verkehr gebracht werden dürfen und
-    das Kennzeichen der Europäischen Gemeinschaften (CE-Kennzeichen), das
-    sie tragen, nach diesen Vorschriften zulässige Klassen und
-    Leistungsstufen nach Maßgabe landesrechtlicher Vorschriften aufweist,
-
-
-2.  bei denen nach den bauordnungsrechtlichen Vorschriften über die
-    Verwendung von Bauprodukten, Bauarten oder Bausätzen auch die
-    Einhaltung der wasserrechtlichen Anforderungen sichergestellt wird,
-
-
-3.  die nach immissionsschutzrechtlichen Vorschriften unter
-    Berücksichtigung der wasserrechtlichen Anforderungen der Bauart nach
-    zugelassen sind oder einer Bauartzulassung bedürfen oder
-
-
-4.  für die eine Genehmigung nach baurechtlichen Vorschriften erteilt
-    worden ist, sofern bei Erteilung der Genehmigung die wasserrechtlichen
-    Anforderungen zu berücksichtigen sind.
 
 
 
-Soweit in den Fällen des Satzes 1 Nummer 2 auf Grund
-bauordnungsrechtlicher Vorschriften ein Zulassungs- oder
-Nachweiserfordernis oder eine Zulassungs- oder Nachweismöglichkeit für
-Bauprodukte, Bauarten oder Bausätze als Teil einer Anlage oder als
-technische Schutzvorkehrung besteht, ist die entsprechende Zulassung
-oder der entsprechende Nachweis vorzulegen und der
-Eignungsfeststellung für die Anlage zugrunde zu legen.
+(3) Die Eignungsfeststellung entfällt, wenn
+
+1.  für die Anlage eine Baugenehmigung erteilt worden ist und
+
+
+2.  die Baugenehmigung die Einhaltung der wasserrechtlichen Anforderungen
+    voraussetzt.
+
+
+
+
+(4) Folgende Anlagenteile gelten als geeignet:
+
+1.  Bauprodukte im Sinne von Artikel 2 Nummer 1 und 2 der Verordnung (EU)
+    Nr. 305/2011 des Europäischen Parlaments und des Rates vom 9. März
+    2011 zur Festlegung harmonisierter Bedingungen für die Vermarktung von
+    Bauprodukten und zur Aufhebung der Richtlinie 89/106/EWG des Rates
+    (ABl. L 88 vom 4.4.2011, S. 5), wenn
+
+    a)  die Bauprodukte von einer harmonisierten Norm im Sinne von Artikel 2
+        Nummer 11 der Verordnung (EU) Nr. 305/2011 erfasst sind oder einer
+        Europäischen Technischen Bewertung im Sinne von Artikel 2 Nummer 13
+        der Verordnung (EU) Nr. 305/2011 entsprechen und die CE-Kennzeichnung
+        angebracht wurde und
+
+
+    b)  die erklärten Leistungen alle wesentlichen Merkmale der harmonisierten
+        Norm oder der Europäischen Technischen Bewertung umfassen, die dem
+        Gewässerschutz dienen,
+
+
+
+
+
+2.  serienmäßig hergestellte Bauprodukte, die nicht unter Nummer 1 fallen
+    und für die nach bauordnungsrechtlichen Vorschriften ein
+    Verwendbarkeitsnachweis erteilt wurde, der die Einhaltung der
+    wasserrechtlichen Anforderungen gewährleistet,
+
+
+3.  Anlagenteile, die aus Bauprodukten zusammengefügt werden, sofern
+    hierfür nach bauordnungsrechtlichen Vorschriften eine
+    Bauartgenehmigung oder eine allgemeine bauaufsichtliche Zulassung
+    erteilt wurde, die jeweils die Einhaltung der wasserrechtlichen
+    Anforderungen gewährleistet,
+
+
+4.  Druckgeräte im Sinne von § 2 Satz 1 Nummer 3 der Druckgeräteverordnung
+    vom 13. Mai 2015 (BGBl. I S. 692), die durch Artikel 2 der Verordnung
+    vom 6. April 2016 (BGBl. I S. 597) geändert worden ist, und Baugruppen
+    im Sinne von § 2 Satz 1 Nummer 1 dieser Verordnung, sofern die CE-
+    Kennzeichnung angebracht wurde und die Druckgeräte und Baugruppen in
+    Übereinstimmung mit der Betriebsanleitung und den
+    Sicherheitsinformationen nach § 6 Absatz 3 dieser Verordnung in
+    Betrieb genommen werden, und
+
+
+5.  Maschinen im Sinne von § 2 Nummer 1 bis 4 der Maschinenverordnung vom
+    12\. Mai 1993 (BGBl. I S. 704), die zuletzt durch Artikel 19 des
+    Gesetzes vom 8. November 2011 (BGBl. I S. 2178) geändert worden ist,
+    sofern die CE-Kennzeichnung angebracht wurde und die Maschinen in
+    Übereinstimmung mit der Betriebsanleitung und den
+    Sicherheitsanforderungen nach § 3 Absatz 2 Nummer 1 dieser Verordnung
+    in Betrieb genommen werden.
+
+
+
+Entsprechen bei Bauprodukten nach Satz 1 Nummer 1 die erklärten
+Leistungen nicht den wasserrechtlichen Anforderungen an die jeweilige
+Verwendung, muss die Anlage insgesamt so beschaffen sein, dass die
+wasserrechtlichen Anforderungen erfüllt werden. Bei Anlagenteilen nach
+Satz 1 Nummer 4 und 5 bleiben die wasserrechtlichen Anforderungen an
+die Rückhaltung wassergefährdender Stoffe unberührt. Druckgeräte und
+Baugruppen nach Satz 1 Nummer 4, für die eine Betreiberprüfstelle eine
+EU-Konformitätserklärung nach § 2 Satz 1 Nummer 10 der
+Druckgeräteverordnung erteilt hat, bedürfen keiner CE-Kennzeichnung.
+
+(5) Bei serienmäßig hergestellten Bauprodukten, die nicht unter Absatz
+4 Satz 1 Nummer 1 fallen, sowie bei Anlagenteilen, die aus
+Bauprodukten zusammengefügt werden, stehen den
+Verwendbarkeitsnachweisen nach Absatz 4 Satz 1 Nummer 2 sowie den
+Bauartgenehmigungen oder allgemeinen bauaufsichtlichen Zulassungen
+nach Absatz 4 Satz 1 Nummer 3 Zulassungen aus einem anderen
+Mitgliedstaat der Europäischen Union, einem anderen Vertragsstaat des
+Abkommens über den Europäischen Wirtschaftsraum oder der Türkei
+gleich, wenn mit den Zulassungen dauerhaft das gleiche Schutzniveau
+erreicht wird. Das Ergebnis von Prüfungen von Anlagenteilen nach Satz
+1, die bereits in einem anderen Mitgliedstaat der Europäischen Union,
+einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum oder der Türkei vorgenommen worden sind, ist bei der
+Eignungsfeststellung zu berücksichtigen.
 
 
 ### Abschnitt 4 - Gewässerschutzbeauftragte
@@ -2825,13 +3373,13 @@ bedeutsam sein können. Sie sind berechtigt und verpflichtet,
 
 
 (2) Gewässerschutzbeauftragte erstatten dem Gewässerbenutzer jährlich
-einen schriftlichen Bericht über die nach Absatz 1 Satz 2 Nummer 1 bis
-4 getroffenen und beabsichtigten Maßnahmen. Bei EMAS-Standorten ist
-ein jährlicher Bericht nicht erforderlich, soweit sich gleichwertige
-Angaben aus dem Bericht über die Umweltbetriebsprüfung ergeben und die
-Gewässerschutzbeauftragten den Bericht mitgezeichnet haben und mit dem
-Verzicht auf die Erstellung eines gesonderten jährlichen Berichts
-einverstanden sind.
+einen schriftlichen oder elektronischen Bericht über die nach Absatz 1
+Satz 2 Nummer 1 bis 4 getroffenen und beabsichtigten Maßnahmen. Bei
+EMAS-Standorten ist ein jährlicher Bericht nicht erforderlich, soweit
+sich gleichwertige Angaben aus dem Bericht über die
+Umweltbetriebsprüfung ergeben und die Gewässerschutzbeauftragten den
+Bericht mitgezeichnet haben und mit dem Verzicht auf die Erstellung
+eines gesonderten jährlichen Berichts einverstanden sind.
 
 (3) Die zuständige Behörde kann im Einzelfall die in den Absätzen 1
 und 2 aufgeführten Aufgaben der Gewässerschutzbeauftragten
@@ -2938,15 +3486,56 @@ den Ausbauplan nicht zu erreichen, so soll die Bundesregierung auf
 Antrag eines beteiligten Landes zwischen den Ländern vermitteln.
 
 
-#### § 71 Enteignungsrechtliche Vorwirkung
+#### § 71 Enteignungsrechtliche Regelungen
 
-Dient der Gewässerausbau dem Wohl der Allgemeinheit, so kann bei der
-Feststellung des Plans bestimmt werden, dass für seine Durchführung
-die Enteignung zulässig ist. Satz 1 gilt für die Plangenehmigung
-entsprechend, wenn Rechte anderer nur unwesentlich beeinträchtigt
-werden. Der festgestellte oder genehmigte Plan ist dem
+(1) Dient der Gewässerausbau dem Wohl der Allgemeinheit, so kann bei
+der Feststellung des Plans bestimmt werden, dass für seine
+Durchführung die Enteignung zulässig ist. Satz 1 gilt für die
+Plangenehmigung entsprechend, wenn Rechte anderer nur unwesentlich
+beeinträchtigt werden. In den Fällen der Sätze 1 und 2 ist die
+Feststellung der Zulässigkeit der Enteignung nicht selbständig
+anfechtbar.
+
+(2) Die Enteignung ist zum Wohl der Allgemeinheit zulässig, soweit sie
+zur Durchführung eines festgestellten oder genehmigten Plans notwendig
+ist, der dem Küsten- oder Hochwasserschutz dient. Abweichend von
+Absatz 1 Satz 1, auch in Verbindung mit Satz 2, bedarf es keiner
+Bestimmung bei der Feststellung oder Genehmigung des Plans.
+Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
+
+(3) Der festgestellte oder genehmigte Plan ist dem
 Enteignungsverfahren zugrunde zu legen und für die Enteignungsbehörde
 bindend.
+
+(4) Im Übrigen gelten die Enteignungsgesetze der Länder.
+
+
+#### § 71a Vorzeitige Besitzeinweisung
+
+(1) Die zuständige Behörde hat den Träger eines Vorhabens zum Küsten-
+oder Hochwasserschutz auf Antrag nach der Feststellung des Plans oder
+nach der Erteilung der Plangenehmigung in den Besitz einzuweisen, wenn
+
+1.  der Eigentümer oder Besitzer eines Grundstücks, das für das Vorhaben
+    benötigt wird, sich weigert, den Besitz durch Vereinbarung unter
+    Vorbehalt aller Entschädigungsansprüche dem Träger des Vorhabens zu
+    überlassen,
+
+
+2.  der sofortige Beginn von Bauarbeiten aus Gründen eines wirksamen
+    Küsten- oder Hochwasserschutzes geboten ist und
+
+
+3.  der Planfeststellungsbeschluss oder die Plangenehmigung vollziehbar
+    ist.
+
+
+
+
+(2) § 20 Absatz 2 bis 7 des Bundeswasserstraßengesetzes gilt
+entsprechend.
+
+(3) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
 
 
 ### Abschnitt 6 - Hochwasserschutz
@@ -2954,9 +3543,11 @@ bindend.
 
 #### § 72 Hochwasser
 
-Hochwasser ist die zeitlich begrenzte Überschwemmung von normalerweise
-nicht mit Wasser bedecktem Land durch oberirdische Gewässer oder durch
-in Küstengebiete eindringendes Meerwasser.
+Hochwasser ist eine zeitlich beschränkte Überschwemmung von
+normalerweise nicht mit Wasser bedecktem Land, insbesondere durch
+oberirdische Gewässer oder durch in Küstengebiete eindringendes
+Meerwasser. Davon ausgenommen sind Überschwemmungen aus
+Abwasseranlagen.
 
 
 #### § 73 Bewertung von Hochwasserrisiken, Risikogebiete
@@ -3022,8 +3613,8 @@ geeignet ist.
 (2) Gefahrenkarten erfassen die Gebiete, die bei folgenden
 Hochwasserereignissen überflutet werden:
 
-1.  Hochwasser mit niedriger Wahrscheinlichkeit oder bei
-    Extremereignissen,
+1.  Hochwasser mit niedriger Wahrscheinlichkeit (voraussichtliches
+    Wiederkehrintervall mindestens 200 Jahre) oder bei Extremereignissen,
 
 
 2.  Hochwasser mit mittlerer Wahrscheinlichkeit (voraussichtliches
@@ -3035,7 +3626,9 @@ Hochwasserereignissen überflutet werden:
 
 
 Die Erstellung von Gefahrenkarten für ausreichend geschützte
-Küstengebiete kann auf Gebiete nach Satz 1 Nummer 1 beschränkt werden.
+Küstengebiete und für Gebiete, in denen Überschwemmungen aus
+Grundwasser stammen, kann auf Gebiete nach Satz 1 Nummer 1 beschränkt
+werden.
 
 (3) Gefahrenkarten müssen jeweils für die Gebiete nach Absatz 2 Satz 1
 Angaben enthalten
@@ -3131,10 +3724,11 @@ mit den Anforderungen der Absätze 2 bis 4.
 
 (1) Überschwemmungsgebiete sind Gebiete zwischen oberirdischen
 Gewässern und Deichen oder Hochufern und sonstige Gebiete, die bei
-Hochwasser überschwemmt oder durchflossen oder die für
-Hochwasserentlastung oder Rückhaltung beansprucht werden. Dies gilt
-nicht für Gebiete, die überwiegend von den Gezeiten beeinflusst sind,
-soweit durch Landesrecht nichts anderes bestimmt ist.
+Hochwasser eines oberirdischen Gewässers überschwemmt oder
+durchflossen oder die für Hochwasserentlastung oder Rückhaltung
+beansprucht werden. Dies gilt nicht für Gebiete, die überwiegend von
+den Gezeiten beeinflusst sind, soweit durch Landesrecht nichts anderes
+bestimmt ist.
 
 (2) Die Landesregierung setzt durch Rechtsverordnung
 
@@ -3165,66 +3759,42 @@ Schutzbestimmungen sowie über die Maßnahmen zur Vermeidung von
 nachteiligen Hochwasserfolgen zu informieren.
 
 
-#### § 77 Rückhalteflächen
+#### § 77 Rückhalteflächen, Bevorratung
 
-Überschwemmungsgebiete im Sinne des § 76 sind in ihrer Funktion als
-Rückhalteflächen zu erhalten. Soweit überwiegende Gründe des Wohls der
-Allgemeinheit dem entgegenstehen, sind rechtzeitig die notwendigen
-Ausgleichsmaßnahmen zu treffen. Frühere Überschwemmungsgebiete, die
-als Rückhalteflächen geeignet sind, sollen so weit wie möglich
-wiederhergestellt werden, wenn überwiegende Gründe des Wohls der
-Allgemeinheit dem nicht entgegenstehen.
+(1) Überschwemmungsgebiete im Sinne des § 76 sind in ihrer Funktion
+als Rückhalteflächen zu erhalten. Soweit überwiegende Gründe des Wohls
+der Allgemeinheit dem entgegenstehen, sind rechtzeitig die notwendigen
+Ausgleichsmaßnahmen zu treffen. Ausgleichsmaßnahmen nach Satz 2 können
+auch Maßnahmen mit dem Ziel des Küstenschutzes oder des Schutzes vor
+Hochwasser sein, die
 
-
-#### § 78 Besondere Schutzvorschriften für festgesetzte Überschwemmungsgebiete
-
-(1) In festgesetzten Überschwemmungsgebieten ist untersagt:
-
-1.  die Ausweisung von neuen Baugebieten in Bauleitplänen oder sonstigen
-    Satzungen nach dem Baugesetzbuch, ausgenommen Bauleitpläne für Häfen
-    und Werften,
+1.  zum Zweck des Ausgleichs künftiger Verluste an Rückhalteflächen
+    getroffen werden oder
 
 
-2.  die Errichtung oder Erweiterung baulicher Anlagen nach den §§ 30, 33,
-    34 und 35 des Baugesetzbuchs,
-
-
-3.  die Errichtung von Mauern, Wällen oder ähnlichen Anlagen quer zur
-    Fließrichtung des Wassers bei Überschwemmungen,
-
-
-4.  das Aufbringen und Ablagern von wassergefährdenden Stoffen auf dem
-    Boden, es sei denn, die Stoffe dürfen im Rahmen einer ordnungsgemäßen
-    Land- und Forstwirtschaft eingesetzt werden,
-
-
-5.  die nicht nur kurzfristige Ablagerung von Gegenständen, die den
-    Wasserabfluss behindern können oder die fortgeschwemmt werden können,
-
-
-6.  das Erhöhen oder Vertiefen der Erdoberfläche,
-
-
-7.  das Anlegen von Baum- und Strauchpflanzungen, soweit diese den Zielen
-    des vorsorgenden Hochwasserschutzes gemäß § 6 Absatz 1 Satz 1 Nummer 6
-    und § 75 Absatz 2 entgegenstehen,
-
-
-8.  die Umwandlung von Grünland in Ackerland,
-
-
-9.  die Umwandlung von Auwald in eine andere Nutzungsart.
+2.  zugleich als Ausgleichs- oder Ersatzmaßnahme nach § 15 Absatz 2 des
+    Bundesnaturschutzgesetzes dienen oder nach § 16 Absatz 1 des
+    Bundesnaturschutzgesetzes anzuerkennen sind.
 
 
 
-Satz 1 gilt nicht für Maßnahmen des Gewässerausbaus, des Baus von
-Deichen und Dämmen, der Gewässer- und Deichunterhaltung, des
-Hochwasserschutzes sowie für Handlungen, die für den Betrieb von
-zugelassenen Anlagen oder im Rahmen zugelassener Gewässerbenutzungen
-erforderlich sind.
 
-(2) Die zuständige Behörde kann abweichend von Absatz 1 Satz 1 Nummer
-1 die Ausweisung neuer Baugebiete ausnahmsweise zulassen, wenn
+(2) Frühere Überschwemmungsgebiete, die als Rückhalteflächen geeignet
+sind, sollen so weit wie möglich wiederhergestellt werden, wenn
+überwiegende Gründe des Wohls der Allgemeinheit dem nicht
+entgegenstehen.
+
+
+#### § 78 Bauliche Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+
+(1) In festgesetzten Überschwemmungsgebieten ist die Ausweisung neuer
+Baugebiete im Außenbereich in Bauleitplänen oder in sonstigen
+Satzungen nach dem Baugesetzbuch untersagt. Satz 1 gilt nicht, wenn
+die Ausweisung ausschließlich der Verbesserung des Hochwasserschutzes
+dient, sowie für Bauleitpläne für Häfen und Werften.
+
+(2) Die zuständige Behörde kann abweichend von Absatz 1 Satz 1 die
+Ausweisung neuer Baugebiete ausnahmsweise zulassen, wenn
 
 1.  keine anderen Möglichkeiten der Siedlungsentwicklung bestehen oder
     geschaffen werden können,
@@ -3234,8 +3804,8 @@ erforderlich sind.
     angrenzt,
 
 
-3.  eine Gefährdung von Leben oder erhebliche Gesundheits- oder
-    Sachschäden nicht zu erwarten sind,
+3.  eine Gefährdung von Leben oder Gesundheit oder erhebliche Sachschäden
+    nicht zu erwarten sind,
 
 
 4.  der Hochwasserabfluss und die Höhe des Wasserstandes nicht nachteilig
@@ -3257,67 +3827,171 @@ erforderlich sind.
 8.  die Belange der Hochwasservorsorge beachtet sind und
 
 
-9.  die Bauvorhaben so errichtet werden, dass bei dem
-    Bemessungshochwasser, das der Festsetzung des Überschwemmungsgebietes
-    zugrunde liegt, keine baulichen Schäden zu erwarten sind.
+9.  die Bauvorhaben so errichtet werden, dass bei dem Bemessungshochwasser
+    nach § 76 Absatz 2 Satz 1, das der Festsetzung des
+    Überschwemmungsgebietes zugrunde liegt, keine baulichen Schäden zu
+    erwarten sind.
+
+
+
+Bei der Prüfung der Voraussetzungen des Satzes 1 Nummer 3 bis 8 sind
+auch die Auswirkungen auf die Nachbarschaft zu berücksichtigen.
+
+(3) In festgesetzten Überschwemmungsgebieten hat die Gemeinde bei der
+Aufstellung, Änderung oder Ergänzung von Bauleitplänen für die
+Gebiete, die nach § 30 Absatz 1 und 2 oder § 34 des Baugesetzbuches zu
+beurteilen sind, in der Abwägung nach § 1 Absatz 7 des Baugesetzbuches
+insbesondere zu berücksichtigen:
+
+1.  die Vermeidung nachteiliger Auswirkungen auf Oberlieger und
+    Unterlieger,
+
+
+2.  die Vermeidung einer Beeinträchtigung des bestehenden
+    Hochwasserschutzes und
+
+
+3.  die hochwasserangepasste Errichtung von Bauvorhaben.
+
+
+
+Dies gilt für Satzungen nach § 34 Absatz 4 und § 35 Absatz 6 des
+Baugesetzbuches entsprechend. Die zuständige Behörde hat der Gemeinde
+die hierfür erforderlichen Informationen nach § 4 Absatz 2 Satz 4 des
+Baugesetzbuches zur Verfügung zu stellen.
+
+(4) In festgesetzten Überschwemmungsgebieten ist die Errichtung oder
+Erweiterung baulicher Anlagen nach den §§ 30, 33, 34 und 35 des
+Baugesetzbuches untersagt. Satz 1 gilt nicht für Maßnahmen des
+Gewässerausbaus, des Baus von Deichen und Dämmen, der Gewässer- und
+Deichunterhaltung und des Hochwasserschutzes sowie des Messwesens.
+
+(5) Die zuständige Behörde kann abweichend von Absatz 4 Satz 1 die
+Errichtung oder Erweiterung einer baulichen Anlage im Einzelfall
+genehmigen, wenn
+
+1.  das Vorhaben
+
+    a)  die Hochwasserrückhaltung nicht oder nur unwesentlich beeinträchtigt
+        und der Verlust von verloren gehendem Rückhalteraum umfang-,
+        funktions- und zeitgleich ausgeglichen wird,
+
+
+    b)  den Wasserstand und den Abfluss bei Hochwasser nicht nachteilig
+        verändert,
+
+
+    c)  den bestehenden Hochwasserschutz nicht beeinträchtigt und
+
+
+    d)  hochwasserangepasst ausgeführt wird oder
 
 
 
 
-(3) Die zuständige Behörde kann abweichend von Absatz 1 Satz 1 Nummer
-2 die Errichtung oder Erweiterung einer baulichen Anlage genehmigen,
-wenn im Einzelfall das Vorhaben
 
-1.  die Hochwasserrückhaltung nicht oder nur unwesentlich beeinträchtigt
-    und der Verlust von verloren gehendem Rückhalteraum zeitgleich
-    ausgeglichen wird,
+2.  die nachteiligen Auswirkungen durch Nebenbestimmungen ausgeglichen
+    werden können.
 
 
-2.  den Wasserstand und den Abfluss bei Hochwasser nicht nachteilig
-    verändert,
+
+Bei der Prüfung der Voraussetzungen des Satzes 1 sind auch die
+Auswirkungen auf die Nachbarschaft zu berücksichtigen.
+
+(6) Bei der Festsetzung nach § 76 Absatz 2 kann die Errichtung oder
+Erweiterung baulicher Anlagen auch allgemein zugelassen werden, wenn
+sie
+
+1.  in gemäß Absatz 2 neu ausgewiesenen Gebieten nach § 30 des
+    Baugesetzbuches den Vorgaben des Bebauungsplans entsprechen oder
 
 
-3.  den bestehenden Hochwasserschutz nicht beeinträchtigt und
+2.  ihrer Bauart nach so beschaffen sind, dass die Einhaltung der
+    Voraussetzungen des Absatzes 5 Satz 1 Nummer 1 gewährleistet ist.
 
 
-4.  hochwasserangepasst ausgeführt wird
+
+In den Fällen des Satzes 1 bedarf das Vorhaben einer Anzeige.
+
+(7) Bauliche Anlagen der Verkehrsinfrastruktur, die nicht unter Absatz
+4 fallen, dürfen nur hochwasserangepasst errichtet oder erweitert
+werden.
+
+(8) Für nach § 76 Absatz 3 ermittelte, in Kartenform dargestellte und
+vorläufig gesicherte Gebiete gelten die Absätze 1 bis 7 entsprechend.
+
+
+#### § 78a Sonstige Schutzvorschriften für festgesetzte Überschwemmungsgebiete
+
+(1) In festgesetzten Überschwemmungsgebieten ist Folgendes untersagt:
+
+1.  die Errichtung von Mauern, Wällen oder ähnlichen Anlagen, die den
+    Wasserabfluss behindern können,
+
+
+2.  das Aufbringen und Ablagern von wassergefährdenden Stoffen auf dem
+    Boden, es sei denn, die Stoffe dürfen im Rahmen einer ordnungsgemäßen
+    Land- und Forstwirtschaft eingesetzt werden,
+
+
+3.  die Lagerung von wassergefährdenden Stoffen außerhalb von Anlagen,
+
+
+4.  das Ablagern und das nicht nur kurzfristige Lagern von Gegenständen,
+    die den Wasserabfluss behindern können oder die fortgeschwemmt werden
+    können,
+
+
+5.  das Erhöhen oder Vertiefen der Erdoberfläche,
+
+
+6.  das Anlegen von Baum- und Strauchpflanzungen, soweit diese den Zielen
+    des vorsorgenden Hochwasserschutzes gemäß § 6 Absatz 1 Satz 1 Nummer 6
+    und § 75 Absatz 2 entgegenstehen,
+
+
+7.  die Umwandlung von Grünland in Ackerland,
+
+
+8.  die Umwandlung von Auwald in eine andere Nutzungsart.
+
+
+
+Satz 1 gilt nicht für Maßnahmen des Gewässerausbaus, des Baus von
+Deichen und Dämmen, der Gewässer- und Deichunterhaltung, des
+Hochwasserschutzes, einschließlich Maßnahmen zur Verbesserung oder
+Wiederherstellung des Wasserzuflusses oder des Wasserabflusses auf
+Rückhalteflächen, für Maßnahmen des Messwesens sowie für Handlungen,
+die für den Betrieb von zugelassenen Anlagen oder im Rahmen
+zugelassener Gewässerbenutzungen erforderlich sind.
+
+(2) Die zuständige Behörde kann im Einzelfall Maßnahmen nach Absatz 1
+Satz 1 zulassen, wenn
+
+1.  Belange des Wohls der Allgemeinheit dem nicht entgegenstehen,
+
+
+2.  der Hochwasserabfluss und die Hochwasserrückhaltung nicht wesentlich
+    beeinträchtigt werden und
+
+
+3.  eine Gefährdung von Leben oder Gesundheit oder erhebliche Sachschäden
+    nicht zu befürchten sind
 
 
 
 oder wenn die nachteiligen Auswirkungen durch Nebenbestimmungen
-ausgeglichen werden können. Bei der Festsetzung nach § 76 Absatz 2
-kann die Errichtung oder Erweiterung baulicher Anlagen auch allgemein
-zugelassen werden, wenn sie
+ausgeglichen werden können. Die Zulassung kann, auch nachträglich, mit
+Nebenbestimmungen versehen oder widerrufen werden. Bei der Prüfung der
+Voraussetzungen des Satzes 1 Nummer 2 und 3 sind auch die Auswirkungen
+auf die Nachbarschaft zu berücksichtigen.
 
-1.  in gemäß Absatz 2 neu ausgewiesenen Gebieten nach § 30 des
-    Baugesetzbuchs den Vorgaben des Bebauungsplans entsprechen oder
+(3) Im Falle einer unmittelbar bevorstehenden Hochwassergefahr sind
+Gegenstände nach Absatz 1 Nummer 4 durch ihren Besitzer unverzüglich
+aus dem Gefahrenbereich zu entfernen.
 
-
-2.  ihrer Bauart nach so beschaffen sind, dass die Einhaltung der
-    Voraussetzungen des Satzes 1 gewährleistet ist.
-
-
-
-In den Fällen des Satzes 2 bedarf das Vorhaben einer Anzeige.
-
-(4) Die zuständige Behörde kann Maßnahmen nach Absatz 1 Satz 1 Nummer
-3 bis 9 zulassen, wenn
-
-1.  Belange des Wohls der Allgemeinheit dem nicht entgegenstehen, der
-    Hochwasserabfluss und die Hochwasserrückhaltung nicht wesentlich
-    beeinträchtigt werden und
-
-
-2.  eine Gefährdung von Leben oder erhebliche Gesundheits- oder
-    Sachschäden nicht zu befürchten sind
-
-
-
-oder die nachteiligen Auswirkungen ausgeglichen werden können. Die
-Zulassung kann, auch nachträglich, mit Nebenbestimmungen versehen oder
-widerrufen werden. In der Rechtsverordnung nach § 76 Absatz 2 können
-Maßnahmen nach Absatz 1 Satz 1 Nummer 3 bis 9 auch allgemein
-zugelassen werden.
+(4) In der Rechtsverordnung nach § 76 Absatz 2 können Maßnahmen nach
+Absatz 1 Satz 1 Nummer 1 bis 8 auch allgemein zugelassen werden.
 
 (5) In der Rechtsverordnung nach § 76 Absatz 2 sind weitere Maßnahmen
 zu bestimmen oder Vorschriften zu erlassen, soweit dies erforderlich
@@ -3332,7 +4006,7 @@ ist
     landwirtschaftlich genutzten Flächen ausgehen,
 
 
-3.  zum Erhalt oder zur Gewinnung, insbesondere Rückgewinnung von
+3.  zum Erhalt oder zur Gewinnung, insbesondere Rückgewinnung, von
     Rückhalteflächen,
 
 
@@ -3340,9 +4014,6 @@ ist
 
 
 5.  zum hochwasserangepassten Umgang mit wassergefährdenden Stoffen,
-    einschließlich der hochwassersicheren Errichtung neuer und Nachrüstung
-    vorhandener Heizölverbraucheranlagen sowie des Verbots der Errichtung
-    neuer Heizölverbraucheranlagen,
 
 
 6.  zur Vermeidung von Störungen der Wasserversorgung und der
@@ -3350,13 +4021,174 @@ ist
 
 
 
-Werden bei der Rückgewinnung von Rückhalteflächen Anordnungen
-getroffen, die erhöhte Anforderungen an die ordnungsgemäße land- oder
-forstwirtschaftliche Nutzung eines Grundstücks festsetzen, so gilt §
-52 Absatz 5 entsprechend.
+Festlegungen nach Satz 1 können in Fällen der Eilbedürftigkeit auch
+durch behördliche Entscheidungen getroffen werden. Satz 2 gilt nicht
+für Anlagen der Verkehrsinfrastruktur. Werden bei der Rückgewinnung
+von Rückhalteflächen Anordnungen getroffen, die erhöhte Anforderungen
+an die ordnungsgemäße land- oder forstwirtschaftliche Nutzung eines
+Grundstücks festsetzen, so gilt § 52 Absatz 5 entsprechend.
 
 (6) Für nach § 76 Absatz 3 ermittelte, in Kartenform dargestellte und
 vorläufig gesicherte Gebiete gelten die Absätze 1 bis 5 entsprechend.
+
+(7) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
+
+Risikogebiete außerhalb von
+
+#### § 78b 
+
+(1) Risikogebiete außerhalb von Überschwemmungsgebieten sind Gebiete,
+für die nach § 74 Absatz 2 Gefahrenkarten zu erstellen sind und die
+nicht nach § 76 Absatz 2 oder Absatz 3 als Überschwemmungsgebiete
+festgesetzt sind oder vorläufig gesichert sind; dies gilt nicht für
+Gebiete, die überwiegend von den Gezeiten beeinflusst sind, soweit
+durch Landesrecht nichts anderes bestimmt ist. Für Risikogebiete
+außerhalb von Überschwemmungsgebieten gilt Folgendes:
+
+1.  bei der Ausweisung neuer Baugebiete im Außenbereich sowie bei der
+    Aufstellung, Änderung oder Ergänzung von Bauleitplänen für nach § 30
+    Absatz 1 und 2 oder nach § 34 des Baugesetzbuches zu beurteilende
+    Gebiete sind insbesondere der Schutz von Leben und Gesundheit und die
+    Vermeidung erheblicher Sachschäden in der Abwägung nach § 1 Absatz 7
+    des Baugesetzbuches zu berücksichtigen; dies gilt für Satzungen nach §
+    34 Absatz 4 und § 35 Absatz 6 des Baugesetzbuches entsprechend;
+
+
+2.  außerhalb der von Nummer 1 erfassten Gebiete sollen bauliche Anlagen
+    nur in einer dem jeweiligen Hochwasserrisiko angepassten Bauweise nach
+    den allgemein anerkannten Regeln der Technik errichtet oder wesentlich
+    erweitert werden, soweit eine solche Bauweise nach Art und Funktion
+    der Anlage technisch möglich ist; bei den Anforderungen an die
+    Bauweise sollen auch die Lage des betroffenen Grundstücks und die Höhe
+    des möglichen Schadens angemessen berücksichtigt werden.
+
+
+
+
+(2) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
+
+
+#### § 78c Heizölverbraucheranlagen in Überschwemmungsgebieten und in weiteren Risikogebieten
+
+(1) Die Errichtung neuer Heizölverbraucheranlagen in festgesetzten und
+vorläufig gesicherten Überschwemmungsgebieten ist verboten. Die
+zuständige Behörde kann auf Antrag Ausnahmen von dem Verbot nach Satz
+1 zulassen, wenn keine anderen weniger wassergefährdenden
+Energieträger zu wirtschaftlich vertretbaren Kosten zur Verfügung
+stehen und die Heizölverbraucheranlage hochwassersicher errichtet
+wird.
+
+(2) Die Errichtung neuer Heizölverbraucheranlagen in Gebieten nach §
+78b Absatz 1 Satz 1 ist verboten, wenn andere weniger
+wassergefährdende Energieträger zu wirtschaftlich vertretbaren Kosten
+zur Verfügung stehen oder die Anlage nicht hochwassersicher errichtet
+werden kann. Eine Heizölverbraucheranlage nach Satz 1 kann wie geplant
+errichtet werden, wenn das Vorhaben der zuständigen Behörde spätestens
+sechs Wochen vor der Errichtung mit den vollständigen Unterlagen
+angezeigt wird und die Behörde innerhalb einer Frist von vier Wochen
+nach Eingang der Anzeige weder die Errichtung untersagt noch
+Anforderungen an die hochwassersichere Errichtung festgesetzt hat.
+
+(3) Heizölverbraucheranlagen, die am 5. Januar 2018 in festgesetzten
+oder in vorläufig gesicherten Überschwemmungsgebieten vorhanden sind,
+sind vom Betreiber bis zum 5. Januar 2023 nach den allgemein
+anerkannten Regeln der Technik hochwassersicher nachzurüsten.
+Heizölverbraucheranlagen, die am 5. Januar 2018 in Gebieten nach § 78b
+Absatz 1 Satz 1 vorhanden sind, sind bis zum 5. Januar 2033 nach den
+allgemein anerkannten Regeln der Technik hochwassersicher
+nachzurüsten, soweit dies wirtschaftlich vertretbar ist. Sofern
+Heizölverbraucheranlagen wesentlich geändert werden, sind diese
+abweichend von den Sätzen 1 und 2 zum Änderungszeitpunkt
+hochwassersicher nachzurüsten.
+
+
+#### § 78d Hochwasserentstehungsgebiete
+
+(1) Hochwasserentstehungsgebiete sind Gebiete, in denen bei
+Starkniederschlägen oder bei Schneeschmelze in kurzer Zeit starke
+oberirdische Abflüsse entstehen können, die zu einer Hochwassergefahr
+an oberirdischen Gewässern und damit zu einer erheblichen Gefahr für
+die öffentliche Sicherheit und Ordnung führen können.
+
+(2) Die Länder können Kriterien für das Vorliegen eines
+Hochwasserentstehungsgebietes festlegen. Hierbei sind im Rahmen der
+hydrologischen und topographischen Gegebenheiten insbesondere das
+Verhältnis Niederschlag zu Abfluss, die Bodeneigenschaften, die
+Hangneigung, die Siedlungsstruktur und die Landnutzung zu
+berücksichtigen. Auf Grund dieser Kriterien kann die Landesregierung
+Hochwasserentstehungsgebiete durch Rechtsverordnung festsetzen.
+
+(3) In festgesetzten Hochwasserentstehungsgebieten ist zur Vermeidung
+oder Verringerung von Gefahren durch Hochwasser, das natürliche
+Wasserversickerungs- und Wasserrückhaltevermögen des Bodens zu
+erhalten oder zu verbessern, insbesondere durch die Entsiegelung von
+Böden oder durch die nachhaltige Aufforstung geeigneter Gebiete. Satz
+1 gilt nicht für Anlagen der öffentlichen Verkehrsinfrastruktur.
+
+(4) In festgesetzten Hochwasserentstehungsgebieten bedürfen folgende
+Vorhaben der Genehmigung durch die zuständige Behörde:
+
+1.  die Errichtung oder wesentliche Änderung baulicher Anlagen im
+    Außenbereich, einschließlich Nebenanlagen und sonstiger Flächen ab
+    einer zu versiegelnden Gesamtfläche von 1 500 Quadratmetern,
+
+
+2.  der Bau neuer Straßen,
+
+
+3.  die Beseitigung von Wald oder die Umwandlung von Wald in eine andere
+    Nutzungsart oder
+
+
+4.  die Umwandlung von Grünland in Ackerland.
+
+
+
+Die Genehmigung nach Satz 1 gilt als erteilt, wenn die zuständige
+Behörde den Antrag nicht innerhalb von sechs Monaten nach Eingang der
+vollständigen Antragsunterlagen ablehnt. Die zuständige Behörde kann
+die Frist aus wichtigem Grund um bis zu zwei Monate verlängern. Ist
+für das Vorhaben nach anderen Vorschriften ein Zulassungsverfahren
+vorgeschrieben, so hat die hierfür zuständige Behörde abweichend von
+Satz 1 im Rahmen dieses Zulassungsverfahrens über die
+Genehmigungsvoraussetzungen nach Absatz 5 im Benehmen mit der
+zuständigen Wasserbehörde zu entscheiden.
+
+(5) Die Genehmigung oder sonstige Zulassung nach Absatz 4 Satz 1 oder
+Satz 4 darf nur erteilt werden, wenn
+
+1.  das Wasserversickerungs- oder Wasserrückhaltevermögen des Bodens durch
+    das Vorhaben nicht beeinträchtigt wird oder
+
+
+2.  die Beeinträchtigung durch Maßnahmen wie das Anlegen von Wald oder die
+    Schaffung von Rückhalteräumen im Hochwasserentstehungsgebiet
+    angemessen ausgeglichen wird.
+
+
+
+Für den Ausgleich nach Satz 1 Nummer 2 gilt § 77 Absatz 1 Satz 3
+Nummer 2 entsprechend. Die Voraussetzungen nach Satz 1 gelten für die
+Zulassung von öffentlichen Verkehrsinfrastrukturvorhaben, für die ein
+Verfahren nach § 17 Absatz 1 des Bundesnaturschutzgesetzes
+durchgeführt wird, als erfüllt.
+
+(6) In festgesetzten Hochwasserentstehungsgebieten sind bei der
+Ausweisung neuer Baugebiete im Außenbereich in der Abwägung nach § 1
+Absatz 7 des Baugesetzbuches insbesondere zu berücksichtigen:
+
+1.  die Vermeidung einer Beeinträchtigung des Wasserversickerungs- oder
+    Wasserrückhaltevermögens des Bodens und
+
+
+2.  der Ausgleich einer Beeinträchtigung durch Maßnahmen wie das Anlegen
+    von Wald oder die Schaffung von Rückhalteräumen im
+    Hochwasserentstehungsgebiet.
+
+
+
+
+(7) Weitergehende Rechtsvorschriften der Länder bleiben unberührt.
 
 
 #### § 79 Information und aktive Beteiligung
@@ -3476,7 +4308,26 @@ Bewirtschaftungsplan aufzunehmen:
     vorübergehende Verschlechterungen nach § 31 Absatz 1, den §§ 44 und 47
     Absatz 3 Satz 1, die Auswirkungen der Umstände, auf denen die
     Verschlechterungen beruhen, sowie die Maßnahmen zur Wiederherstellung
-    des vorherigen Zustands.
+    des vorherigen Zustands,
+
+
+5.  eine Darstellung
+
+    a)  der geplanten Schritte zur Durchführung von § 6a, die zur Erreichung
+        der Bewirtschaftungsziele nach den §§ 27 bis 31, 44 und 47 beitragen
+        sollen,
+
+
+    b)  der Beiträge der verschiedenen Wassernutzungen zur Deckung der Kosten
+        der Wasserdienstleistungen sowie
+
+
+    c)  der Gründe dafür, dass bestimmte Wassernutzungen nach § 6a Absatz 2
+        nicht zur Deckung der Kosten der Wasserdienstleistungen beizutragen
+        haben, sowie die Gründe für Ausnahmen nach § 6a Absatz 4.
+
+
+
 
 
 
@@ -3509,11 +4360,11 @@ Bewirtschaftungsplan aufzunehmen.
 
 Innerhalb von sechs Monaten nach der Veröffentlichung kann jede Person
 bei der zuständigen Behörde zu den in Satz 1 bezeichneten Unterlagen
-schriftlich Stellung nehmen; hierauf ist in der Veröffentlichung
-hinzuweisen. Auf Antrag ist Zugang zu den bei der Aufstellung des
-Bewirtschaftungsplans herangezogenen Hintergrunddokumenten und
--informationen zu gewähren. Die Sätze 1 bis 3 gelten auch für
-aktualisierende Bewirtschaftungspläne.
+schriftlich oder elektronisch Stellung nehmen; hierauf ist in der
+Veröffentlichung hinzuweisen. Auf Antrag ist Zugang zu den bei der
+Aufstellung des Bewirtschaftungsplans herangezogenen
+Hintergrunddokumenten und -informationen zu gewähren. Die Sätze 1 bis
+3 gelten auch für aktualisierende Bewirtschaftungspläne.
 
 
 #### § 84 Fristen für Maßnahmenprogramme und Bewirtschaftungspläne
@@ -3703,10 +4554,13 @@ Auswirkungen auf
 
 2.  das ökologische Potenzial oder den chemischen Zustand eines
     künstlichen oder erheblich veränderten oberirdischen Gewässers oder
-    Küstengewässers oder
+    Küstengewässers,
 
 
-3.  den chemischen oder mengenmäßigen Zustand des Grundwassers;
+3.  den chemischen oder mengenmäßigen Zustand des Grundwassers oder
+
+
+4.  den Zustand eines Meeresgewässers;
 
 
 
@@ -3722,7 +4576,27 @@ Umweltschäden (ABl. L 143 vom 30.4.2004, S. 56), die durch die
 Richtlinie 2006/21/EG (ABl. L 102 vom 11.4.2006, S. 15) geändert
 worden ist.
 
-(3) Weitergehende Vorschriften über Schädigungen oder sonstige
+(3) Zuständige Behörde für den Vollzug dieser Vorschrift und der
+Vorschriften des Umweltschadensgesetzes ist, sofern nichts anderes
+bestimmt ist, im Hinblick auf die Schädigung der Meeresgewässer
+außerhalb der Küstengewässer und die unmittelbare Gefahr solcher
+Schäden im Bereich der deutschen ausschließlichen Wirtschaftszone und
+des Festlandsockels,
+
+1.  soweit ein Zusammenhang mit Tätigkeiten nach dem Bundesberggesetz
+    besteht, die nach § 136 des Bundesberggesetzes in Verbindung mit § 142
+    des Bundesberggesetzes bestimmte Behörde, sowie
+
+
+2.  im Übrigen das Bundesamt für Naturschutz; es bedient sich, soweit
+    sachdienlich, der Hilfe des Bundesamtes für Seeschifffahrt und
+    Hydrographie sowie des Umweltbundesamtes; es kann sich der Hilfe
+    weiterer Stellen bedienen, soweit diese zustimmen.
+
+
+
+
+(4) Weitergehende Vorschriften über Schädigungen oder sonstige
 Beeinträchtigungen von Gewässern und deren Sanierung bleiben
 unberührt.
 
@@ -3818,7 +4692,7 @@ das Eigentum unzumutbar beschränken, ist eine Entschädigung zu
 leisten.
 
 
-## Kapitel 4 - Entschädigung, Ausgleich
+## Kapitel 4 - Entschädigung, Ausgleich, Vorkaufsrecht
 
 
 ### § 96 Art und Umfang von Entschädigungspflichten
@@ -3895,6 +4769,41 @@ Einigung nicht zustande, so setzt die Behörde die Entschädigung fest.
 Ein Ausgleich nach § 52 Absatz 5 und § 78 Absatz 5 Satz 2 ist in Geld
 zu leisten. Im Übrigen gelten für einen Ausgleich nach Satz 1 § 96
 Absatz 1 und 5 und § 97 entsprechend.
+
+
+### § 99a Vorkaufsrecht
+
+(1) Den Ländern steht ein Vorkaufsrecht an Grundstücken zu, die für
+Maßnahmen des Hochwasser- oder Küstenschutzes benötigt werden. Liegen
+die Merkmale des Satzes 1 nur bei einem Teil des Grundstücks vor, so
+erstreckt sich das Vorkaufsrecht nur auf diesen Grundstücksteil. Der
+Eigentümer kann verlangen, dass sich der Vorkauf auf das gesamte
+Grundstück erstreckt, wenn ihm der weitere Verbleib des anderen
+Grundstücksteils in seinem Eigentum wirtschaftlich nicht zuzumuten
+ist.
+
+(2) Das Vorkaufsrecht steht den Ländern nicht zu beim Kauf von Rechten
+nach dem Wohnungseigentumsgesetz.
+
+(3) Das Vorkaufsrecht darf nur ausgeübt werden, wenn dies aus Gründen
+des Hochwasserschutzes oder des Küstenschutzes erforderlich ist.
+
+(4) Das Vorkaufsrecht bedarf nicht der Eintragung in das Grundbuch. Es
+geht rechtsgeschäftlich und landesrechtlich begründeten
+Vorkaufsrechten mit Ausnahme solcher auf dem Gebiet des land- und
+forstwirtschaftlichen Grundstücksverkehrs und des Siedlungswesens im
+Rang vor. Bei einem Eigentumserwerb auf Grund der Ausübung des
+Vorkaufsrechts erlöschen durch Rechtsgeschäft begründete
+Vorkaufsrechte. Das Vorkaufsrecht erstreckt sich nicht auf einen
+Verkauf an einen Ehegatten, einen eingetragenen Lebenspartner oder
+einen Verwandten ersten Grades. Die §§ 463 bis 469, 471, 1098 Absatz 2
+und die §§ 1099 bis 1102 des Bürgerlichen Gesetzbuchs sind anzuwenden.
+
+(5) Die Länder können das Vorkaufsrecht auf Antrag auch zugunsten von
+Körperschaften und Stiftungen des öffentlichen Rechts und von
+begünstigten Personen im Sinne von § 51 Absatz 1 Satz 2 ausüben.
+
+(6) Abweichende Rechtsvorschriften der Länder bleiben unberührt.
 
 
 ## Kapitel 5 - Gewässeraufsicht
@@ -4042,7 +4951,8 @@ Verteidigung gehörenden Stellen übertragen wird.
 
 
 
-    zuwiderhandelt,
+    zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist,
 
 
 8.  einer vollziehbaren Anordnung nach
@@ -4070,7 +4980,8 @@ Verteidigung gehörenden Stellen übertragen wird.
 
 
 
-    zuwiderhandelt,
+    zuwiderhandelt, soweit sie für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist,
 
 
 9.  ohne Genehmigung nach § 58 Absatz 1 Satz 1, auch in Verbindung mit §
@@ -4107,11 +5018,24 @@ Verteidigung gehörenden Stellen übertragen wird.
     Handlung in einem dort genannten Gebiet zuwiderhandelt,
 
 
-17. einer vollziehbaren Anordnung nach § 101 Absatz 1 Satz 1 Nummer 3
+17. entgegen § 78a Absatz 3 einen Gegenstand nicht oder nicht rechtzeitig
+    entfernt,
+
+
+18. entgegen § 78c Absatz 1 Satz 1 oder Absatz 2 Satz 1 eine
+    Heizölverbraucheranlage errichtet,
+
+
+19. entgegen § 78c Absatz 3 eine Heizölverbraucheranlage nicht, nicht
+    richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig
+    nachrüstet,
+
+
+20. einer vollziehbaren Anordnung nach § 101 Absatz 1 Satz 1 Nummer 3
     zuwiderhandelt oder
 
 
-18. entgegen § 101 Absatz 2 das Betreten eines Grundstücks nicht gestattet
+21. entgegen § 101 Absatz 2 das Betreten eines Grundstücks nicht gestattet
     oder eine Auskunft nicht, nicht richtig, nicht vollständig oder nicht
     rechtzeitig erteilt.
 
@@ -4137,6 +5061,66 @@ dieses Gesetzes über gehobene Erlaubnisse fort.
 (2) Bewilligungen, die vor dem 1. März 2010 nach § 8 des
 Wasserhaushaltsgesetzes erteilt worden sind, gelten als Bewilligungen
 nach diesem Gesetz fort.
+
+
+### § 104a Ausnahmen von der Erlaubnispflicht bei bestehenden Anlagen zur untertägigen Ablagerung von Lagerstättenwasser
+
+(1) Die Nutzung einer Anlage zur untertägigen Ablagerung von
+Lagerstättenwasser, das bei Maßnahmen nach § 9 Absatz 2 Nummer 3 oder
+bei anderen Maßnahmen zur Aufsuchung oder Gewinnung von Erdgas oder
+Erdöl anfällt, bedarf unbeschadet des Absatzes 2 keiner Erlaubnis nach
+§ 8 Absatz 1, wenn die Anlage vor dem 11. Februar 2017 in
+Übereinstimmung mit einem bestandskräftig zugelassenen Betriebsplan
+nach § 52 des Bundesberggesetzes errichtet worden ist oder zu diesem
+Zeitpunkt ein bestandskräftig zugelassener Betriebsplan für die Anlage
+vorliegt. In diesen Fällen sind die sich aus § 13b Absatz 2 und 3
+ergebenden Verpflichtungen in den jeweiligen Zulassungen von künftig
+gemäß § 52 Absatz 1 Satz 1 des Bundesberggesetzes aufzustellenden
+Hauptbetriebsplänen spätestens bis zum 11. Februar 2019 zu regeln. §
+13b Absatz 4 gilt für den Unternehmer im Sinne von § 4 Absatz 5 des
+Bundesberggesetzes in diesen Fällen entsprechend.
+
+(2) Die Nutzung einer Anlage nach Absatz 1 Satz 1, die nach § 22c
+Absatz 1 Satz 3 der Allgemeinen Bundesbergverordnung nicht mehr
+zulässig ist, bedarf keiner Erlaubnis nach § 8 Absatz 1, wenn der
+Anlagenbetreiber spätestens bis zum 11. Februar 2019 grundsätzlich
+zulassungsfähige Anträge für Zulassungen für eine anderweitige
+Entsorgung des Lagerstättenwassers (Entsorgungskonzept) vorlegt und
+hierfür eine behördliche Bestätigung nach Satz 4 vorliegt. Aus dem
+Entsorgungskonzept muss sich ergeben, wie das Lagerstättenwasser
+künftig entsorgt werden soll, sodass insbesondere folgende
+Anforderungen erfüllt sind:
+
+1.  die Anforderungen nach § 22c Absatz 1 Satz 3 der Allgemeinen
+    Bundesbergverordnung und
+
+
+2.  die Anforderungen nach § 13a Absatz 1 Satz 1 Nummer 2 Buchstabe a und
+    b.
+
+
+
+Die Sätze 1 und 2 gelten entsprechend, wenn die Anlage nach Absatz 1
+Satz 1 in einem Gebiet nach § 13a Absatz 1 Satz 1 Nummer 2 Buchstabe a
+oder Buchstabe b liegt. Sofern die zuständige Behörde die
+grundsätzliche Zulassungsfähigkeit der Anträge bestätigt, ist die
+Nutzung der Anlage in den Fällen der Sätze 1 und 3 spätestens am 11.
+Februar 2022 einzustellen. Andernfalls ist die Nutzung der Anlage in
+den Fällen der Sätze 1 und 3 spätestens am 11. Februar 2020
+einzustellen. Die Sätze 3 bis 5 gelten nicht, soweit die Ablagerung
+des Lagerstättenwassers für die Schutzzone III eines festgesetzten
+Wasserschutzgebietes oder eines festgesetzten
+Heilquellenschutzgebietes ausnahmsweise zugelassen wird
+
+1.  in einer Rechtsverordnung nach § 51 Absatz 1, auch in Verbindung mit §
+    53 Absatz 5 oder
+
+
+2.  durch behördliche Entscheidung; § 52 Absatz 1 Satz 2 und 3, auch in
+    Verbindung mit § 53 Absatz 5, gilt entsprechend.
+
+
+
 
 
 ### § 105 Überleitung bestehender sonstiger Zulassungen
@@ -4185,10 +5169,54 @@ oder vorläufig gesicherte Überschwemmungsgebiete im Sinne von § 76
 Absatz 2 oder Absatz 3.
 
 
-### Anlage 1 (zu § 3 Nummer 11) Kriterien zur Bestimmung des Standes der Technik
+### § 107 Übergangsbestimmung für industrielle Abwasserbehandlungsanlagen und Abwassereinleitungen aus Industrieanlagen
+
+(1) Eine Zulassung, die vor dem 2. Mai 2013 nach landesrechtlichen
+Vorschriften für Abwasserbehandlungsanlagen im Sinne des § 60 Absatz 3
+Satz 1 Nummer 2 erteilt worden ist, gilt als Genehmigung nach § 60
+Absatz 3 Satz 1 fort. Bis zum 7. Juli 2015 müssen alle in Satz 1
+genannten Anlagen den Anforderungen nach § 60 Absatz 1 bis 3
+entsprechen.
+
+(1a) Ist eine Anlage im Sinne von § 60 Absatz 3 Satz 1 Nummer 3 vor
+dem 28. Januar 2018 nach landesrechtlichen Vorschriften nicht im
+Rahmen einer Deponiezulassung, sondern anderweitig zugelassen worden,
+gilt diese Zulassung als Genehmigung nach § 60 Absatz 3 Satz 1 fort.
+Bis zum 28. Januar 2020 müssen alle in Satz 1 genannten Anlagen den
+Anforderungen nach § 60 Absatz 1 bis 3 entsprechen.
+
+(2) Soweit durch Artikel 2 des Gesetzes zur Umsetzung der Richtlinie
+über Industrieemissionen vom 8. April 2013 (BGBl. I S. 734) neue
+Anforderungen festgelegt worden sind, sind diese Anforderungen von
+Einleitungen aus Anlagen nach § 3 der Verordnung über
+genehmigungsbedürftige Anlagen, die sich zum Zeitpunkt des
+Inkrafttretens des genannten Gesetzes in Betrieb befanden, ab dem 7.
+Januar 2014 zu erfüllen, wenn vor diesem Zeitpunkt
+
+1.  eine Genehmigung nach § 4 des Bundes-Immissionsschutzgesetzes für die
+    Anlage erteilt wurde oder
+
+
+2.  von ihrem Betreiber ein vollständiger Genehmigungsantrag gestellt
+    wurde.
+
+
+
+Einleitungen aus bestehenden Anlagen nach Satz 1, die nicht von Anhang
+I der Richtlinie 2008/1/EG des Europäischen Parlaments und des Rates
+vom 15. Januar 2008 über die integrierte Vermeidung und Verminderung
+der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8), die durch die
+Richtlinie 2009/31/EG (ABl. L 140 vom 5.6.2009, S. 114) geändert
+worden ist, erfasst wurden, haben abweichend von Satz 1 die dort
+genannten Anforderungen ab dem 7. Juli 2015 zu erfüllen.
+
+(zu § 3 Nummer 11)
+
+### Anlage 1 Kriterien zur Bestimmung des Standes der Technik
 
 (Fundstelle: BGBl. I 2009, 2614;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 Bei der Bestimmung des Standes der Technik sind unter Berücksichtigung
 der Verhältnismäßigkeit zwischen Aufwand und Nutzen möglicher
 Maßnahmen sowie des Grundsatzes der Vorsorge und der Vorbeugung,
@@ -4237,11 +5265,11 @@ folgende Kriterien zu berücksichtigen:
     und die Umwelt zu verringern,
 
 
-12. Informationen, die von der Europäischen Kommission gemäß Artikel 17
-    Absatz 2 der Richtlinie 2008/1/EG des Europäischen Parlaments und des
-    Rates vom 15. Januar 2008 über die integrierte Vermeidung und
-    Verminderung der Umweltverschmutzung (ABl. L 24 vom 29.1.2008, S. 8)
-    oder von internationalen Organisationen veröffentlicht werden.
+12. Informationen, die von internationalen Organisationen veröffentlicht
+    werden,
+
+
+13. Informationen, die in BVT-Merkblättern enthalten sind.
 
 
 

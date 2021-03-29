@@ -22,18 +22,18 @@ Fundstelle
 
 (1) Bürgerlich-rechtliche Ansprüche gelten als vor dem 9. Mai 1945
 nicht verjährt, wenn die Verjährung noch nicht vollendet war, als
-zwischen dem Land, dem der Berechtigte angehörte oder in dem er seinen
-gewöhnlichen Aufenthalt hatte, und dem Land, dem der Verpflichtete
-angehörte oder in dem dieser seinen gewöhnlichen Aufenthalt hatte, der
-Kriegszustand eintrat.
+zwischen dem Lande, dem der Berechtigte angehörte oder in dem er
+seinen gewöhnlichen Aufenthalt hatte, und dem Lande, dem der
+Verpflichtete angehörte oder in dem dieser seinen gewöhnlichen
+Aufenthalt hatte, der Kriegszustand eintrat.
 
-(2) Für den Ablauf von Fristen auf dem Gebiet des bürgerlichen Rechts
+(2) Für den Ablauf von Fristen auf dem Gebiete des bürgerlichen Rechts
 und der bürgerlichen Rechtspflege, auf die § 203 des Bürgerlichen
 Gesetzbuches ganz oder teilweise entsprechend anzuwenden ist, gilt die
 Bestimmung des Absatzes 1 über die Verjährung entsprechend, wenn
 derjenige, der die befristete Rechtshandlung vorzunehmen hatte, einem
-mit dem Deutschen Reich im Kriegszustand befindlichen Land angehörte
-oder in einem solchen Land seinen gewöhnlichen Aufenthalt hatte.
+mit dem Deutschen Reich im Kriegszustand befindlichen Lande angehörte
+oder in einem solchen Lande seinen gewöhnlichen Aufenthalt hatte.
 
 
 ## § 2
@@ -52,7 +52,7 @@ der durch Kriegs- oder Nachkriegsvorschriften gehemmten Fristen,
 soweit nach diesen die in Absatz 1 bezeichneten Ansprüche erst später
 verjähren.
 
-(3) Für den Ablauf von Fristen auf dem Gebiet des bürgerlichen Rechts
+(3) Für den Ablauf von Fristen auf dem Gebiete des bürgerlichen Rechts
 und der bürgerlichen Rechtspflege, auf die § 203 des Bürgerlichen
 Gesetzbuches ganz oder teilweise entsprechend anzuwenden ist, und
 deren Lauf vor dem 21. November 1950 begonnen hat, gelten die

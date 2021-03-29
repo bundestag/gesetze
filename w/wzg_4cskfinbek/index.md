@@ -170,6 +170,5 @@ kennzeichnenden Nummer.
 
 ## Anlage 2 Nordisches Umweltzeichen als amtliches Prüf- und Gewährzeichen für Finnland
 
-(Inhalt: Nicht darstellbare Prüfzeichen,
 Fundstelle: BGBl. I 1992, 226)
-
+![bgbl1_1992_j0226_0010.jpg](bgbl1_1992_j0226_0010.jpg)

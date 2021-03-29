@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1977, 2625
 
 Zuletzt geändert durch
-:   Art. 19 Abs. 5 G v. 29.7.2009 I 2355
+:   Art. 5 G v. 11.3.2016 I 396
 
 
 ## Eingangsformel
@@ -103,17 +103,12 @@ Durchschrift des Widerspruchs versehen werden.
 
 ## § 1a Beschriftung mittels Schreibprogramm
 
-(1) Die in § 174 Abs. 1 der Zivilprozessordnung bezeichneten Personen
-und Stellen, die in § 11 Abs. 1 und 2 des Arbeitsgerichtsgesetzes
-bezeichneten Personen und die gemeinsamen Einrichtungen der
-Tarifvertragsparteien im Sinne des § 4 Abs. 2 des
-Tarifvertragsgesetzes können den in Anlage 1 bestimmten Vordruck in
-einem aus Blatt 1 bis 3 bestehenden Teil des Vordrucks für den Antrag
-auf Erlass des Mahnbescheids und in einem aus Blatt 3 bis 5
+(1) Der in Anlage 1 bestimmte Vordruck kann in einem aus Blatt 1 bis 3
 bestehenden Teil des Vordrucks für den Antrag auf Erlass des
-Vollstreckungsbescheids in einer Ausführung verwenden, in der die
-Blätter jeweils einzeln mit Hilfe eines Schreibprogramms beschriftet
-werden. Das Programm muss
+Mahnbescheids und in einem aus Blatt 3 bis 5 bestehenden Teil des
+Vordrucks für den Antrag auf Erlass des Vollstreckungsbescheids in
+einer Ausführung verwendet werden, in der die Blätter jeweils einzeln
+mithilfe eines Schreibprogramms zu beschriften sind. Das Programm muss
 
 1.  die Übereinstimmung der von Blatt 1 auf Blatt 2 bis 5 und der von
     Blatt 3 auf Blatt 4 und 5 zu übertragenden Angaben gewährleisten,
@@ -136,20 +131,21 @@ mindestens auf Blatt 1 und dem für den Antrag auf Erlass des
 Vollstreckungsbescheids verwendeten Blatt 3 erkennbar gemacht sein.
 Blatt 1 muss in dem freien Feld neben dem Raum für den Eingangsstempel
 des Gerichts anstelle des dort vorgesehenen Anschriftenfensters den
-Vermerk enthalten: "Die Angaben zum Inhalt des Mahnbescheids auf
+Vermerk enthalten: „Die Angaben zum Inhalt des Mahnbescheids auf
 diesem von mir unterschriebenen Blatt stimmen mit denen auf Blatt 2
-und 3 überein." In dem mit dem Antrag auf Erlass des Mahnbescheids
+und 3 überein.“ In dem mit dem Antrag auf Erlass des Mahnbescheids
 einzureichenden Blatt 3 entfallen in der Zustellungsnachricht der
 letzte Satz und der Vordruck auf der Rückseite. Das für den Antrag auf
 Erlass des Vollstreckungsbescheids verwendete Blatt 3 soll ohne die
 Zustellungsnachricht aufgeführt werden und muss in dem freien Feld
 neben dem Raum für den Eingangsstempel des Gerichts anstelle des dort
-vorgesehenen Anschriftenfensters den Vermerk enthalten: "Die Angaben
-in dem mir vom Gericht als Zustellungsnachricht übermittelten Blatt 3
-sind auf das hier von mir unterschriebene Blatt vollständig und
-richtig übertragen worden. Die Angaben zum Inhalt des
+vorgesehenen Anschriftenfensters den Vermerk enthalten: „Das mir vom
+Gericht mitgeteilte Zustellungsdatum des Mahnbescheids wurde richtig
+und vollständig auf das für den Erlass des Vollstreckungsbescheids
+verwendete Blatt 3 übertragen und durch meine Unterschrift oder meine
+elektronische Signatur bestätigt. Die Angaben zum Inhalt des
 Vollstreckungsbescheids auf diesem Blatt stimmen mit denen auf Blatt 4
-und 5 überein. Nach Abstimmung mit dem Gericht kann den beiden
+und 5 überein.“. Nach Abstimmung mit dem Gericht kann den beiden
 Teilvordrucken als jeweils zusätzliches Blatt das bereits vom
 Antragsteller vorbereitend mit Namen und Anschrift und beim zweiten
 Teilvordruck auch mit der Geschäftsnummer des Gerichts ausgefüllte
@@ -157,10 +153,20 @@ Formblatt der Postzustellungsurkunde beigefügt werden.
 
 (3) Die Blätter sollen mit einem Durchschreibemittel versehen sein,
 das auch bei handschriftlicher Bearbeitung durch das Gericht die
-Lesbarkeit der Durchschriften gewährleistet; § 1 Abs. 2 Satz 5 gilt
+Lesbarkeit der Durchschriften gewährleistet; § 1 Absatz 2 Satz 5 gilt
 entsprechend.
 
-(4) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die
+(4) Wird der Mahnantrag von einem Rechtsanwalt gestellt, ist nur die
+Form der Antragstellung nach den Absätzen 1 bis 3 zulässig.
+
+(5) Die Gerichte für Arbeitssachen können die in Absatz 1 bezeichnete
+Ausführung auch mithilfe eines Datenverarbeitungsprogramms erstellen.
+Das Programm muss die in Absatz 1 Satz 2 vorgesehenen Anforderungen
+erfüllen. Der Hersteller der Vordrucke muss mindestens auf Blatt 1 und
+dem für den Antrag auf Erlass des Vollstreckungsbescheids verwendeten
+Blatt 3 erkennbar sein.
+
+(6) Treten nicht dem Gericht zuzurechnende Mängel auf, ist die
 Anwendung der vorstehenden Vorschriften auszusetzen, bis die Ursache
 behoben ist.
 
@@ -168,16 +174,16 @@ behoben ist.
 ## § 2 Angaben bei Verbraucherdarlehen und -finanzierungshilfen
 
 (1) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
-Forderungen aus einem Vertrag gemäß den §§ 491 bis 509 des
+Forderungen aus einem Vertrag gemäß den §§ 491 bis 508 des
 Bürgerlichen Gesetzbuchs geltend, so hat der Unternehmer oder der
 Zessionar in dem für die Anspruchsbezeichnung vorgesehenen Feld des in
 Anlage 1 bestimmten Vordrucks zusätzlich folgende Angaben zu machen (§
 690 Abs. 1 Nr. 3 der Zivilprozessordnung):
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs vom .... Effektiver Jahreszins ... %".
-In den Fällen des § 504 des Bürgerlichen Gesetzbuchs genügt die
-Angabe:
-"Anspruch aus Vertrag gemäß den §§ 491 bis 509 des Bürgerlichen
+In den Fällen des § 504 und § 505 des Bürgerlichen Gesetzbuchs genügt
+die Angabe:
+"Anspruch aus Vertrag gemäß den §§ 491 bis 508 des Bürgerlichen
 Gesetzbuchs".
 
 (2) Macht ein Unternehmer oder im Fall der Abtretung der Zessionar
@@ -192,64 +198,8 @@ In den Fällen des § 5 des Verbraucherkreditgesetzes genügt die Angabe:
 "Anspruch aus Vertrag, für den das Verbraucherkreditgesetz gilt".
 
 
-## § 2a Übergang zum Euro
+## § 2a (weggefallen)
 
-(1) Der in Anlage 1 bestimmte Vordruck wird ab 1. Januar 2002 in einer
-Fassung eingeführt, in der die Bezeichnung "DM" nicht mehr enthalten
-ist.
-
-(2) Ist vor dem 1. Januar 2002 ein Mahnbescheid in der Währungseinheit
-Deutsche Mark unter Verwendung des als Durchschreibesatz ausgeführten
-Vordrucks erlassen worden, so kann der Antragsteller für den Antrag
-auf Erlass eines Vollstreckungsbescheids die Blätter 3, 4 und 5 eines
-neuen, mit der Währungsbezeichnung "Euro" oder "EUR" ausgeführten oder
-ausgefüllten Vordrucks verwenden, wenn er die in dem als
-Zustellungsnachricht verwendeten Blatt 3 enthaltenen Angaben zum
-Inhalt des Mahnbescheids auf die Blätter des neuen Vordrucks überträgt
-und diese nur insoweit vom Inhalt des Mahnbescheids abweichen, als die
-Geldbeträge unter Verwendung des in der Verordnung (EG) Nr. 2866/98
-des Rates vom 31. Dezember 1998 über die Umrechnungskurse zwischen dem
-Euro und den Währungen der Mitgliedstaaten, die den Euro einführen
-(ABl. EG Nr. L 359 S. 1), unwiderruflich festgelegten
-Umrechnungskurses von 1 Euro = 1,95583 Deutsche Mark in Euro
-umgerechnet sind. Bei der Umrechnung erforderliche Rundungen müssen
-unter Beachtung des Artikels 5 der Verordnung (EG) Nr. 1103/97 des
-Rates vom 17. Juni 1997 über bestimmte Vorschriften im Zusammenhang
-mit der Einführung des Euro (ABl. EG Nr. L 162 S. 1) erfolgen. In dem
-freien Feld neben dem Raum für den Eingangsstempel des Gerichts in dem
-Antrag auf Blatt 3 muss folgender Vermerk enthalten sein: "Die Angaben
-zum Inhalt des Mahnbescheids auf diesem von mir unterschriebenen Blatt
-stimmen mit denen auf Blatt 2 und 3 überein. Die Geldbeträge sind
-unter Verwendung des amtlichen Kurses von 1 Euro = 1,95583 Deutsche
-Mark umgerechnet. Einem auf diese Weise ausgefüllten Antrag auf Erlass
-des Vollstreckungsbescheids ist die Zustellungsnachricht beizufügen.
-
-(3) Ist vor dem 1. Januar 2002 ein Mahnbescheid in der Währungseinheit
-Deutsche Mark unter Verwendung des Vordrucks nach § 1a Abs. 1 erlassen
-worden, darf der Antrag auf Erlass eines Vollstreckungsbescheids von
-den Angaben zum Inhalt des Mahnbescheids auf Blatt 2 und 3 insoweit
-abweichen, als ein auf die Währungsbezeichnung "Euro" oder "EUR"
-lautender Vordruck verwendet wird und die Geldbeträge unter Verwendung
-des in der Verordnung (EG) Nr. 2866/98 des Rates vom 31. Dezember 1998
-über die Umrechnungskurse zwischen dem Euro und den Währungen der
-Mitgliedstaaten, die den Euro einführen (ABl. EG Nr. L 359 S. 1),
-unwiderruflich festgelegten Umrechnungskurses von 1 Euro = 1,95583
-Deutsche Mark in Euro umgerechnet sind. Bei der Umrechnung
-erforderliche Rundungen müssen unter Beachtung des Artikels 5 der
-Verordnung (EG) Nr. 1103/97 des Rates vom 17. Juni 1997 über bestimmte
-Vorschriften im Zusammenhang mit der Einführung des Euro (ABl. EG Nr.
-L 162 S. 1) erfolgen. Dem Vermerk gemäß § 1a Abs. 2 Satz 4 ist der
-Satz hinzuzufügen: "Die Geldbeträge sind unter Verwendung des
-amtlichen Kurses von 1 Euro = 1,95583 Deutsche Mark umgerechnet."
-
-
-## § 2b Überleitungsvorschrift
-
-Der bisher eingeführte Vordruck, in dem die Bezeichnung "DM" oder
-"Euro/EUR" gewählt werden kann, kann bis 31. Dezember 2002
-weiterverwendet werden. Alle Angaben auf diesem Vordruck, die die
-Zahlung einer bestimmten Geldsumme zum Gegenstand haben, sind in der
-Währungseinheit "Euro" vorzunehmen.
 
 
 ## § 3 Inkrafttreten
@@ -266,13 +216,16 @@ Ehrenberg
 
 ## Anlage 1
 
-(Inhalt: nicht darstellbare Vordrucke,
-Fundstelle: BGBl. I 1977, 2627 - 2646;
+(Fundstelle: BGBl. I 2014, 1568 - 1580;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+Vordruck
+für den Mahn- und Vollstreckungsbescheid
+
 
 
 ## Anlage 2
 
-(Inhalt: nicht darstellbare Vordrucke,
-Fundstelle: BGBl. I 2001, 379 - 382)
+(Fundstelle: BGBl. I 2001, 379 - 382)
+
 

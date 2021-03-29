@@ -17,35 +17,35 @@ Fundstelle
 :   BGBl I: 2002, 2247
 
 Zuletzt geändert durch
-:   Art. 3 V v. 24.4.2012 I 661
+:   Art. 5 V v. 2.12.2016 I 2770
 
 
 ## § 1 Begriffsbestimmung
 
-Im Sinne dieser Verordnung ist EMAS-Anlage eine Anlage, die
-Bestandteil einer nach Artikel 6 der Verordnung (EG) Nr. 761/ 2001 des
-Europäischen Parlaments und des Rates vom 19. März 2001 über die
-freiwillige Beteiligung von Organisationen an einem
-Gemeinschaftssystem für das Umweltmanagement und die
-Umweltbetriebsprüfung (EMAS) (ABl. EG Nr. L 114 S. 1) eingetragenen
-Organisation oder eines nach Artikel 17 Abs. 4 Satz 1 der Verordnung
-(EG) Nr. 761/2001 auf der EMAS-Eintragungsliste verbleibenden
-Standorts ist.
+Im Sinne dieser Verordnung ist eine EMAS-Anlage eine Anlage, die
+Bestandteil einer Organisation oder eines Standorts ist, die oder der
+nach den Artikeln 13 bis 15 in Verbindung mit Artikel 2 Nummer 22 der
+Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des
+Rates vom 25. November 2009 über die freiwillige Teilnahme von
+Organisationen an einem Gemeinschaftssystem für Umweltmanagement und
+Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr.
+761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und
+2006/193/EG (ABl. L 342 vom 22.12.2009, S. 1) registriert ist.
 
 
 ## § 2 Betriebsorganisation
 
 Die Anzeige- und Mitteilungspflichten zur Betriebsorganisation nach §
-52a des Bundes-Immissionsschutzgesetzes und § 58 des
-Kreislaufwirtschaftsgesetzes werden bezüglich EMAS-Anlagen und
-bezüglich Abfällen, die der Verpflichtete im Rahmen der Tätigkeiten
-einer nach Artikel 6 der Verordnung (EG) Nr. 761/2001 eingetragenen
-Organisation oder eines nach Artikel 17 Abs. 4 Satz 1 der Verordnung
-(EG) Nr. 761/2001 auf der EMAS-Eintragungsliste verbleibenden
-Standorts nach § 27 des Kreislaufwirtschaftsgesetzes in Besitz
-genommen hat, durch die Bereitstellung des Bescheides zur Standort-
-oder Organisationseintragung erfüllt. Die Behörde kann im Einzelfall
-die Vorlage weitergehender Unterlagen verlangen.
+52b des Bundes-Immissionsschutzgesetzes und § 58 des
+Kreislaufwirtschaftsgesetzes werden bezüglich EMAS-Anlagen durch die
+Bereitstellung des Bescheides zur Standort- oder
+Organisationseintragung erfüllt. Gleiches gilt für Abfälle, die der
+Verpflichtete im Rahmen der Tätigkeiten einer Organisation oder eines
+Standorts, die oder der nach den Artikeln 13 bis 15 in Verbindung mit
+Artikel 2 Nummer 22 der Verordnung (EG) Nr. 1221/2009 registriert ist,
+nach § 27 des Kreislaufwirtschaftsgesetzes in Besitz genommen hat. Die
+Behörde kann im Einzelfall die Vorlage weitergehender Unterlagen
+verlangen.
 
 
 ## § 3 Betriebsbeauftragte
@@ -55,16 +55,16 @@ Betriebsbeauftragten nach § 53 Abs. 2 des Bundes-
 Immissionsschutzgesetzes oder § 59 Absatz 2 des
 Kreislaufwirtschaftsgesetzes soll bei einer EMAS-Anlage oder bei einem
 Entsorgungsfachbetrieb im Sinne des § 56 Absatz 2 des
-Kreislaufwirtschaftsgesetzes in Verbindung mit § 2 Abs. 1 und 2 der
-Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S.
-1421) verzichtet werden. Satz 1 gilt entsprechend für eine Anordnung
-nach § 58a Abs. 2 des Bundes-Immissionsschutzgesetzes. Im Rahmen der
-Entscheidung über eine Befreiung nach § 6 der Verordnung über
-Immissionsschutz- und Störfallbeauftragte vom 30. Juli 1993 (BGBl. I
-S. 1433), die zuletzt durch Artikel 2 des Gesetzes vom 9. September
-2001 (BGBl. I S. 2331) geändert worden ist, in der jeweils geltenden
-Fassung, hat die zuständige Behörde zu berücksichtigen, dass es sich
-um eine EMAS-Anlage handelt.
+Kreislaufwirtschaftsgesetzes verzichtet werden. Satz 1 gilt
+entsprechend für eine Anordnung nach § 58a Abs. 2 des Bundes-
+Immissionsschutzgesetzes. Im Rahmen der Entscheidung über eine
+Befreiung nach § 6 der Verordnung über Immissionsschutz- und
+Störfallbeauftragte vom 30. Juli 1993 (BGBl. I S. 1433), die zuletzt
+durch Artikel 2 des Gesetzes vom 9. September 2001 (BGBl. I S. 2331)
+geändert worden ist, in der jeweils geltenden Fassung, oder nach § 7
+der Verordnung über Betriebsbeauftragte für Abfall vom 2. Dezember
+2016, in der jeweils geltenden Fassung, hat die zuständige Behörde zu
+berücksichtigen, dass es sich um eine EMAS-Anlage handelt.
 
 (2) Jährliche Berichte nach § 54 Abs. 2, § 58b Abs. 2 Satz 1 des
 Bundes-Immissionsschutzgesetzes und nach § 60 Absatz 2 des
@@ -103,32 +103,29 @@ und Einrichtungen eingesetzt werden.
 (1) Die zuständige Behörde soll dem Betreiber einer EMAS-Anlage auf
 Antrag gestatten, für diese Anlage wiederkehrende
 
-1.  Messungen nach § 12 Abs. 3 der Verordnung zur Emissionsbegrenzung von
-    leichtflüchtigen halogenierten organischen Verbindungen vom 10.
-    Dezember 1990 (BGBl. I S. 2694), die zuletzt durch Artikel 2 der
-    Verordnung vom 21. August 2001 (BGBl. I S. 2180) geändert worden ist,
-    in der jeweils geltenden Fassung,
-
-
-2.  Messungen nach § 22 Abs. 1 Satz 1 Nr. 2 der Verordnung über
-    Großfeuerungsanlagen vom 22. Juni 1983 (BGBl. I S. 719), die durch
-    Artikel 6 des Gesetzes vom 3. Mai 2000 (BGBl. I S. 632) geändert
-    worden ist, in der jeweils geltenden Fassung,
-
-
-3.  Messungen nach § 13 Abs. 2 Satz 2 der Verordnung über
-    Verbrennungsanlagen für Abfälle und ähnliche brennbare Stoffe vom 23.
-    November 1990 (BGBl. I S. 2545, 2832), die zuletzt durch Artikel 6 des
-    Gesetzes vom 27. Juli 2001 (BGBl. I S. 1950) geändert worden ist, in
+1.  Messungen nach § 12 Absatz 3 der Verordnung zur Emissionsbegrenzung
+    von leichtflüchtigen halogenierten organischen Verbindungen vom 10.
+    Dezember 1990 (BGBl. I S. 2694), die zuletzt durch Artikel 1 der
+    Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in
     der jeweils geltenden Fassung,
 
 
-4.  Messungen nach § 8 Abs. 3 der Verordnung zur Begrenzung der Emissionen
-    flüchtiger organischer Verbindungen beim Umfüllen oder Lagern von
-    Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin vom 27. Mai 1998
-    (BGBl. I S. 1174), die durch Artikel 3 der Verordnung vom 21. August
-    2001 (BGBl. I S. 2180) geändert worden ist, in der jeweils geltenden
-    Fassung
+2.  Wiederholungsmessungen nach § 23 Absatz 2 der Verordnung über
+    Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen vom 2. Mai
+    2013 (BGBl. I S. 1021, 1023), in der jeweils geltenden Fassung,
+
+
+3.  Wiederholungsmessungen nach § 18 Absatz 3 der Verordnung über die
+    Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl.
+    I S. 1021, 1044), in der jeweils geltenden Fassung,
+
+
+4.  Messungen nach § 8 Absatz 3 der Verordnung zur Begrenzung der
+    Emissionen flüchtiger organischer Verbindungen beim Umfüllen oder
+    Lagern von Ottokraftstoffen, Kraftstoffgemischen oder Rohbenzin vom
+    27\. Mai 1998 (BGBl. I S. 1174), die zuletzt durch Artikel 7 der
+    Verordnung vom 2. Mai 2013 (BGBl. I S. 1021) geändert worden ist, in
+    der jeweils geltenden Fassung
 
 
 
@@ -142,20 +139,19 @@ und Einrichtungen eingesetzt werden.
 Betreiber einer EMAS-Anlage auf Antrag gestatten, für diese Anlage
 Funktionsprüfungen nach
 
-1.  § 12 Abs. 7 Satz 2 der Verordnung zur Emissionsbegrenzung von
-    leichtflüchtigen halogenierten organischen Verbindungen in der jeweils
-    geltenden Fassung,
+1.  § 12 Absatz 7 Satz 2 der Verordnung zur Emissionsbegrenzung von
+    leichtflüchtigen halogenierten organischen Verbindungen,
 
 
-2.  § 28 Abs. 1 der Verordnung über Großfeuerungsanlagen in der jeweils
-    geltenden Fassung,
+2.  § 19 Absatz 4 Nummer 2 der Verordnung über Großfeuerungs-,
+    Gasturbinen- und Verbrennungsmotoranlagen,
 
 
-3.  § 10 Abs. 3 der Verordnung über Verbrennungsanlagen für Abfälle und
-    ähnliche brennbare Stoffe in der jeweils geltenden Fassung,
+3.  § 15 Absatz 4 Nummer 2 der Verordnung über Verbrennung und die
+    Mitverbrennung von Abfällen,
 
 
-4.  § 7 Abs. 3 der Verordnung über Anlagen zur Feuerbestattung vom 19.
+4.  § 7 Absatz 3 der Verordnung über Anlagen zur Feuerbestattung vom 19.
     März 1997 (BGBl. I S. 545), die durch Artikel 11 des Gesetzes vom 3.
     Mai 2000 (BGBl. I S. 632) geändert worden ist, in der jeweils
     geltenden Fassung
@@ -203,7 +199,7 @@ dass die Voraussetzungen nach Satz 1 eingehalten sind.
     Rohbenzin in der jeweils geltenden Fassung,
 
 
-3.  eine Durchschrift des Berichts nach § 6 Abs. 4 Satz 3 der Verordnung
+3.  eine Durchschrift des Berichts nach § 5 Absatz 5 Satz 3 der Verordnung
     zur Begrenzung der Kohlenwasserstoffemissionen bei der Betankung von
     Kraftfahrzeugen vom 7. Oktober 1992 (BGBl. I S. 1730) in der jeweils
     geltenden Fassung,

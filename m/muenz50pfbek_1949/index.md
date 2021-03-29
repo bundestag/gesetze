@@ -2,7 +2,7 @@
 Title: Bekanntmachung über die Ausgabe von Münzen im Nennwert von 50 Pfennig
 jurabk: Münz50PfBek 1949
 layout: default
-origslug: m_nz50pfbek_1949
+origslug: muenz50pfbek_1949
 slug: muenz50pfbek_1949
 
 ---

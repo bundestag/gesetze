@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 2317
 
 Zuletzt geändert durch
-:   Art. 20 G v. 17.12.2008 I 2586
+:   Art. 1 G v. 18.4.2018 I 478
 
 
 ## Eingangsformel
@@ -235,9 +235,29 @@ entstanden sind.
 
 (3) Können Erben oder sonstige Berechtigte nicht ermittelt werden, so
 können Nachlaßgegenstände oder Erlös aus deren Veräußerung an das
-Gericht des letzten Wohnsitzes des Erblassers im Inland oder - wenn
-sich ein solcher Wohnsitz nicht feststellen läßt - an das Amtsgericht
-Schöneberg in Berlin als Nachlaßgericht übergeben werden.
+Gericht des letzten gewöhnlichen Aufenthalts des Erblassers im Inland
+oder - wenn sich ein solcher gewöhnlicher Aufenthalt nicht feststellen
+läßt - an das Amtsgericht Schöneberg in Berlin als Nachlaßgericht
+übergeben werden.
+
+
+### § 9a ...
+
+(1) Die §§ 5 bis 7 und 9, mit Ausnahme des § 6 Absatz 3 und des § 9
+Absatz 2 und 3, sind entsprechend auf Unionsbürgerinnen und
+Unionsbürger anzuwenden, die im Drittland nicht vertreten sind.
+
+(2) Abweichend von § 5 Absatz 5 und § 6 Absatz 2 kann die
+Bundesrepublik Deutschland als hilfeleistender Mitgliedstaat der
+Europäischen Union (Mitgliedstaat) den Mitgliedstaat, dessen
+Staatsangehörigkeit die nicht vertretenen Unionsbürgerinnen und
+Unionsbürger besitzen, für die Auslagen in Anspruch nehmen.
+
+(3) Die Bundesrepublik Deutschland erstattet einem Mitgliedstaat, der
+einem Deutschen Hilfe leistet, die Auslagen, sofern dieser
+Mitgliedstaat die Bundesrepublik Deutschland für die Auslagen in
+Anspruch nimmt. Der deutsche Hilfeempfänger ist der Bundesrepublik
+Deutschland zum Ersatz dieser Auslagen verpflichtet.
 
 
 ### § 10 Beurkundungen im allgemeinen
@@ -323,9 +343,9 @@ Die Konsularbeamten sind befugt,
 
 
 2.  Versicherungen an Eides statt abzunehmen, die zur Erlangung eines
-    Erbscheins, eines Testamentsvollstreckerzeugnisses oder eines
-    Zeugnisses über die Fortsetzung der Gütergemeinschaft abgegeben
-    werden,
+    Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+    Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
+    Fortsetzung der Gütergemeinschaft abgegeben werden,
 
 
 3.  einem Deutschen auf dessen Antrag den Eid abzunehmen, wenn der Eid
@@ -538,12 +558,12 @@ Beamten in den Ruhestand gegeben sind.
 
 ### § 24 Erfordernis einer besonderen Ermächtigung
 
-(1) § 19 gilt für Honorarkonsularbeamte entsprechend; Eheschließungen
-können sie jedoch nicht vornehmen. Honorarkonsularbeamte sollen auch
-die Echtheit inländischer öffentlicher Urkunden nur dann bestätigen,
-wenn sie hierzu vom Auswärtigen Amt besonders ermächtigt worden sind.
-Diese Ermächtigung kann nur unter den in § 19 Abs. 3 Satz 2 genannten
-Voraussetzungen erteilt werden.
+(1) § 19 gilt für Honorarkonsularbeamte entsprechend.
+Honorarkonsularbeamte sollen auch die Echtheit inländischer
+öffentlicher Urkunden nur dann bestätigen, wenn sie hierzu vom
+Auswärtigen Amt besonders ermächtigt worden sind. Diese Ermächtigung
+kann nur unter den in § 19 Abs. 3 Satz 2 genannten Voraussetzungen
+erteilt werden.
 
 (2) Das Auswärtige Amt kann die Befugnis eines Honorarkonsularbeamten
 zur Wahrnehmung konsularischer Aufgaben weiteren Einschränkungen
@@ -558,6 +578,22 @@ unterwerfen.
 
 Für konsularische Amtshandlungen werden Kosten (Gebühren und Auslagen)
 nach besonderer gesetzlicher Regelung erhoben.
+
+
+### § 26 Gebühren und Auslagen der Honorarkonsularbeamten
+
+(1) Die Honorarkonsularbeamten beziehen die für ihre Amtshandlungen zu
+erhebenden Gebühren für sich. Sie dürfen sie nur nach Maßgabe
+derjenigen Bestimmungen herabsetzen oder erlassen, die allgemein für
+die Gebühren von amtlichen Auslandsvertretungen gelten.
+
+(2) Reichen die Gebühren zur Bestreitung der Verwaltungskosten nicht
+aus, so kann den Honorarkonsularbeamten ein pauschaler Zuschuß gewährt
+werden.
+
+(3) Entstehen dem Honorarkonsularbeamten durch die Ausführung eines
+dienstlichen Auftrags besondere, den Umständen nach erforderliche
+Auslagen, so kann er deren Erstattung beanspruchen.
 
 
 ### § 26 Gebühren und Auslagen der Honorarkonsularbeamten
@@ -609,6 +645,5 @@ erlassen werden, gelten im Land Berlin nach § 14 des Dritten
 
 Dieses Gesetz tritt drei Monate nach dem Tag seiner Verkündung in
 Kraft mit Ausnahme des § 8
-und des § 28 Abs. 1 Nr. 3,              die am 1. Januar 1975 in Kraft
-treten.
+und des § 28 Abs. 1 Nr. 3, die am 1. Januar 1975 in Kraft treten.
 

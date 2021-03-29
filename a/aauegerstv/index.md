@@ -4,7 +4,7 @@ Title: Verordnung über die Erstattung von Aufwendungen nach dem Gesetz zur Übe
   Beitrittsgebiets durch den Bund
 jurabk: AAÜGErstV
 layout: default
-origslug: aa_gerstv
+origslug: aauegerstv
 slug: aauegerstv
 
 ---
@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1992, 999
 
 Zuletzt geändert durch
-:   Art. 55 G v. 9.12.2004 I 3242
+:   Art. 11 G v. 17.7.2017 I 2575
 
 
 ## Eingangsformel
@@ -40,7 +40,7 @@ Anwartschaftsüberführungsgesetzes sind
 2.  Renten wegen Todes, einschließlich der Zuschläge bei Waisenrenten,
 
 
-3.  Zusatzleistungen nach den §§ 106, 106a und 107 des Sechsten Buches
+3.  Zusatzleistungen nach den §§ 106 und 107 des Sechsten Buches
     Sozialgesetzbuch,
 
 
@@ -49,10 +49,7 @@ Anwartschaftsüberführungsgesetzes sind
     zu tragen hat,
 
 
-4a. der Teil des Beitrags zur Pflegeversicherung, den nach § 59 Abs. 1 des
-    Elften Buches Sozialgesetzbuch in Verbindung mit § 249a des Fünften
-    Buches Sozialgesetzbuch die Deutsche Rentenversicherung Bund zu tragen
-    hat,
+4a. (weggefallen)
 
 
 5.  Rententeilbeträge aus Renten nach Artikel 2 des Renten-
@@ -87,7 +84,7 @@ der Rente, der aufgrund der aus einem Zusatz- oder
 Sonderversorgungssystem überführten Ansprüche oder Anwartschaften zu
 zahlen ist. Für Zeiten der Zugehörigkeit zu einem
 Zusatzversorgungssystem werden Entgeltpunkte (Ost), denen Verdienste
-von bis zu 7.200 Mark jährlich zugrunde liegen, bei der Berechnung des
+von bis zu 7 200 Mark jährlich zugrunde liegen, bei der Berechnung des
 erstattungsfähigen Betrages nicht berücksichtigt. Nach der
 Gesamtleistungsbewertung ermittelte Entgeltpunkte (Ost) werden in dem
 Verhältnis für die Berechnung des erstattungsfähigen Betrages
@@ -96,8 +93,8 @@ Gesamtleistungswertes zugrunde gelegten Entgeltpunkte (Ost) für Zeiten
 der Zugehörigkeit zu einem Zusatz- oder Sonderversorgungssystem zu
 allen zugrunde gelegten Entgeltpunkten (Ost) stehen. Zusatzleistungen
 und der von der Deutschen Rentenversicherung Bund zu tragende Teil der
-Beteiligung an den Beiträgen zur Kranken- und Pflegeversicherung sind
-in dem Verhältnis aufzuteilen, in dem die entsprechend ermittelten
+Beteiligung an den Beiträgen zur Krankenversicherung sind in dem
+Verhältnis aufzuteilen, in dem die entsprechend ermittelten
 persönlichen Entgeltpunkte (Ost) zu allen persönlichen Entgeltpunkten
 (Ost) stehen. Zuschläge bei Waisenrenten bestehen in dem Verhältnis
 aus erstattungsfähigen Aufwendungen, in dem die ihnen zugrunde
@@ -115,7 +112,7 @@ dem Sechsten Buch Sozialgesetzbuch berechnete Rente aufgeteilt worden
 war. Für die anteilige Erstattung der auf den Erhöhungsbetrag nach
 Satz 1 entfallenden Zusatzleistungen sowie den darauf entfallenden von
 der Deutschen Rentenversicherung Bund zu tragenden Teil des Beitrags
-zur Kranken- und Pflegeversicherung gilt Satz 1 entsprechend.
+zur Krankenversicherung gilt Satz 1 entsprechend.
 
 (2) Erstattungsbetrag ist bei Renten nach Artikel 2 des Renten-
 Überleitungsgesetzes der Monatsteilbetrag der Rente, der dem
@@ -123,7 +120,7 @@ Verhältnis entspricht, in dem die Steigerungsbeträge für Zeiten der
 Zugehörigkeit zu einem Sonderversorgungssystem zu allen
 Steigerungsbeträgen stehen. Zusatzleistungen und der von der Deutschen
 Rentenversicherung Bund zu tragende Teil der Beteiligung an den
-Beiträgen zur Kranken- und Pflegeversicherung sind in dem Verhältnis
+Beiträgen zur Krankenversicherung sind in dem Verhältnis
 erstattungsfähiger Aufwand, in dem der erstattungsfähige Gesamtbetrag
 zur Summe der Rentenzahlbeträge steht.
 
@@ -143,23 +140,14 @@ Betrag, um den der besitzgeschützte Betrag den Monatsbetrag der Rente
 übersteigt, jedoch begrenzt auf die Höhe der überführten Leistung aus
 dem Zusatz- oder Sonderversorgungssystem. Zusatzleistungen und der von
 der Deutschen Rentenversicherung Bund zu tragende Teil der Beteiligung
-an den Beiträgen zur Kranken- und Pflegeversicherung sind in dem
-Verhältnis erstattungsfähiger Aufwand, in dem die Leistung aus dem
-Zusatz- oder Sonderversorgungssystem zu dem nach § 307b Abs. 4 Satz 2
-des Sechsten Buches Sozialgesetzbuch maßgeblichen Betrag steht.
+an den Beiträgen zur Krankenversicherung sind in dem Verhältnis
+erstattungsfähiger Aufwand, in dem die Leistung aus dem Zusatz- oder
+Sonderversorgungssystem zu dem nach § 307b Abs. 4 Satz 2 des Sechsten
+Buches Sozialgesetzbuch maßgeblichen Betrag steht.
 
-(4) Die Erstattung bei Leistungen zur Teilhabe erfolgt in einem
-pauschalen Verfahren. Erstattungsbetrag ist der Teilbetrag, der zu den
-Ausgaben für Leistungen zur Rehabilitation im Beitrittsgebiet im
-gleichen Verhältnis steht, in dem im jeweiligen Kalenderjahr die nach
-dem Anspruchs- und Anwartschaftsüberführungsgesetz zu erstattenden
-Rentenleistungen zu den gesamten, der Berechnung des Bundeszuschusses
-zugrunde liegenden Rentenleistungen im Beitrittsgebiet stehen. Das
-Erstattungsverfahren ist im Abstand von 4 Jahren, erstmals im Jahre
-2001, daraufhin zu überprüfen, ob Daten zur Verfügung stehen, durch
-deren Verwendung der Erstattungsbetrag genauer und nicht wesentlich
-verwaltungsaufwendiger ermittelt werden kann. Für die Jahre 1992 bis
-1994 sind insgesamt 56 Millionen DM zu erstatten.
+(4) Der Erstattungsbetrag für Leistungen zur Teilhabe für das Jahr
+2016 beträgt 80 Millionen Euro. Dieser Betrag wird ab dem Jahr 2017
+jährlich um 4 Millionen Euro gemindert.
 
 (5) Erstattungsbetrag ist bei Leistungen nach den §§ 9 und 11 des
 Anspruchs- und Anwartschaftsüberführungsgesetzes die durch die
@@ -169,15 +157,13 @@ Versorgungsträger mitgeteilten Höhe.
 
 ## § 3 Erstattung der Verwaltungskosten
 
-Der Deutschen Rentenversicherung Bund werden die Verwaltungskosten,
-die zur Durchführung des Anspruchs- und
-Anwartschaftsüberführungsgesetzes erforderlich sind, im Rahmen einer
-Abrechnung erstattet. Die Deutsche Rentenversicherung Bund weist dem
-Bundesversicherungsamt spätestens bis zum 28. Februar nach Ablauf des
-Jahres, für das die Erstattung geltend gemacht wird, die für die
-Durchführung erforderlichen Verwaltungskosten nach. Für die Ermittlung
-der Personalkosten gelten die Personalkostensätze des Bundes
-entsprechend.
+Der Deutschen Rentenversicherung Bund werden zur Durchführung des
+Anspruchs- und Anwartschaftsüberführungsgesetzes erforderliche
+Verwaltungskosten im Jahre 2016 in Höhe von 10 Millionen Euro
+erstattet. Dieser Betrag wird ab dem Jahr 2017 jährlich um 0,5
+Millionen Euro vermindert. In einem Abstand von fünf Jahren, erstmals
+im Jahre 2021, ist der Erstattungsbetrag auf seine Angemessenheit zu
+überprüfen.
 
 
 ## § 4 Erfassung der Aufwendungen

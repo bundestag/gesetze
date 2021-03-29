@@ -3,7 +3,7 @@ Title: Gesetz zu Übergangsregelungen zur Eingliederung der Seemannskasse in die
   Rentenversicherung Knappschaft-Bahn-See
 jurabk: RVKnSeemannskasseÜG
 layout: default
-origslug: rvknseemannskasse_g
+origslug: rvknseemannskasseueg
 slug: rvknseemannskasseueg
 
 ---

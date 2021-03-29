@@ -3,7 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Büchsenmacher-Handwerk
 jurabk: BüchsMstrV
 layout: default
-origslug: b_chsmstrv
+origslug: buechsmstrv
 slug: buechsmstrv
 
 ---

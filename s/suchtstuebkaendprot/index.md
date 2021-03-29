@@ -2,7 +2,7 @@
 Title: Protokoll zur Änderung des Einheits-Übereinkommens von 1961 über Suchtstoffe
 jurabk: SuchtstÜbkÄndProt
 layout: default
-origslug: suchtst_bk_ndprot
+origslug: suchtstuebkaendprot
 slug: suchtstuebkaendprot
 
 ---

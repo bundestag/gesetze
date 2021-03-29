@@ -18,15 +18,6 @@ Fundstelle
 
 
 
-## Eingangsformel
-
-Die Proklamation der Bundesrepublik Deutschland vom 18. Mai 1978 über
-die Errichtung einer Fischereizone der Bundesrepublik Deutschland in
-der Ostsee wird hiermit bekanntgemacht.
-Bonn, den 2. Juni 1978
-Der Bundesminister des Auswärtigen
-
-
 ## (XXXX)
 
 In der Ostsee sind in den letzten Monaten tiefgreifende Veränderungen

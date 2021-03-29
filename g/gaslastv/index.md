@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1849
 
 Zuletzt geändert durch
-:   Art. 377 V v. 31.10.2006 I 2407
+:   Art. 264 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -58,7 +58,7 @@ Die Lastverteilung obliegt
     Aufgaben der Lastverteilung übertragen werden;
 
 
-2.  dem Bundesministerium für Wirtschaft und Technologie als
+2.  dem Bundesministerium für Wirtschaft und Energie als
     Bundeslastverteiler.
 
 
@@ -67,7 +67,7 @@ Die Lastverteilung obliegt
 
 ## § 3
 
-(1) Beim Bundesministerium für Wirtschaft und Technologie und bei den
+(1) Beim Bundesministerium für Wirtschaft und Energie und bei den
 obersten Wirtschaftsbehörden der Länder sind besondere Stellen
 einzurichten. Sie tragen die Bezeichnungen
 
@@ -97,7 +97,7 @@ besondere Stellen einzurichten. Sie tragen die Bezeichnungen
 (1) Die Grenzen der Gebietslastverteilung ergeben sich aus der Anlage
 zu dieser Verordnung. Die Befugnis, diese Grenzen durch
 Rechtsverordnung zu ändern, wird auf das Bundesministerium für
-Wirtschaft und Technologie übertragen.
+Wirtschaft und Energie übertragen.
 
 (2) Die Grenzen der Gruppen-, Bezirks- und Bereichslastverteilung
 bestimmen sich nach Landesrecht.
@@ -255,7 +255,7 @@ besonderen Verwaltungsaufbau ihrer Länder anzupassen.
 (2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes
 nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn es das Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung bestimmt.
+Energie durch Rechtsverordnung bestimmt.
 
 (3) Die §§ 2 und 4 sind mit dem Inkrafttreten anwendbar.
 

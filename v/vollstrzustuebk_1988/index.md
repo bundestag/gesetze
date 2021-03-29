@@ -4,7 +4,7 @@ Title: Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckun
   1988
 jurabk: VollstrZustÜbk 1988
 layout: default
-origslug: vollstrzust_bk_1988
+origslug: vollstrzustuebk_1988
 slug: vollstrzustuebk_1988
 
 ---

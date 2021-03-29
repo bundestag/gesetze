@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 1.2.1991 I 230;
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 3 G v. 12.4.2012 I 579
+:   Art. 2 G v. 4.11.2016 I 2464
 
 
 ## Erster Teil - Allgemeine Bewertungsvorschriften
@@ -176,9 +176,9 @@ der Kurswerte (Absatz 1) oder der gemeinen Werte (Absatz 2) für die
 einzelnen Anteile insgesamt ergibt, so ist der gemeine Wert der
 Beteiligung maßgebend.
 
-(4) Wertpapiere, die Rechte der Einleger (Anteilinhaber) gegen eine
-Kapitalanlagegesellschaft oder einen sonstigen Fonds verbriefen
-(Anteilscheine), sind mit dem Rücknahmepreis anzusetzen.
+(4) Anteile oder Aktien, die Rechte an einem Investmentvermögen im
+Sinne des Kapitalanlagegesetzbuchs verbriefen, sind mit dem
+Rücknahmepreis anzusetzen.
 
 
 ### § 12 Kapitalforderungen und Schulden
@@ -556,12 +556,13 @@ unberührt.
 entsprechend anzuwenden.
 
 
-##### § 26 Umfang der wirtschaftlichen Einheit bei Ehegatten
+##### § 26 Umfang der wirtschaftlichen Einheit bei Ehegatten oder Lebenspartnern
 
 Die Zurechnung mehrerer Wirtschaftsgüter zu einer wirtschaftlichen
 Einheit (§ 2) wird beim Grundbesitz im Sinne der §§ 33 bis 94, 99 und
 125 bis 133 nicht dadurch ausgeschlossen, daß die Wirtschaftsgüter zum
-Teil dem einen, zum Teil dem anderen Ehegatten gehören.
+Teil dem einen, zum Teil dem anderen Ehegatten oder Lebenspartner
+gehören.
 
 
 ##### § 27 Wertverhältnisse bei Fortschreibungen und Nachfeststellungen
@@ -1129,6 +1130,8 @@ berücksichtigen und für den Nutzungsberechtigten als selbständiger
 Einheitswert festzustellen. Ist ein Einheitswert für land- und
 forstwirtschaftliches Vermögen des Nutzungsberechtigten festzustellen,
 so ist der Unterschiedsbetrag in diesen Einheitswert einzubeziehen.
+Die Sätze 1 und 2 gelten nicht, wenn der Eigentümer die Flächen
+bereits intensiv im Sinne der Nummern 1 bis 3 genutzt hat.
 
 
 ###### § 49 (weggefallen)
@@ -1550,8 +1553,7 @@ und für Baumschulen.
     a)  ein Beamter des Bundesministeriums der Finanzen als Vorsitzender,
 
 
-    b)  ein Beamter des Bundesministeriums für Ernährung, Landwirtschaft und
-        Verbraucherschutz;
+    b)  ein Beamter des Bundesministeriums für Ernährung und Landwirtschaft;
 
 
 
@@ -1576,11 +1578,11 @@ und für Baumschulen.
 (3) Die Mitglieder nach Absatz 1 Nr. 2 bis 4 und nach Absatz 2 werden
 auf Vorschlag der obersten Finanzbehörden der Länder durch das
 Bundesministerium der Finanzen im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-berufen. Die Berufung kann mit Zustimmung der obersten Finanzbehörden
-der Länder zurückgenommen werden. Scheidet eines der nach Absatz 1 Nr.
-2 bis 4 berufenen Mitglieder aus, so ist ein neues Mitglied zu
-berufen. Die Mitglieder müssen sachkundig sein.
+Bundesministerium für Ernährung und Landwirtschaft berufen. Die
+Berufung kann mit Zustimmung der obersten Finanzbehörden der Länder
+zurückgenommen werden. Scheidet eines der nach Absatz 1 Nr. 2 bis 4
+berufenen Mitglieder aus, so ist ein neues Mitglied zu berufen. Die
+Mitglieder müssen sachkundig sein.
 
 (4) Die nach Absatz 3 berufenen Mitglieder haben bei den Verhandlungen
 des Bewertungsbeirats ohne Rücksicht auf Sonderinteressen nach bestem
@@ -1943,18 +1945,22 @@ Sachwertverfahrens (§§ 83 bis 90) zu ermitteln.
 
 ###### § 77 Mindestwert
 
+[^BJNR010350934BJNE011002301]
+
 Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
 sein als der Wert, mit dem der Grund und Boden allein als unbebautes
 Grundstück zu bewerten wäre. Müssen Gebäude oder Gebäudeteile wegen
 ihres baulichen Zustands abgebrochen werden, so sind die Abbruchkosten
 zu berücksichtigen.
+
 -----
-\*) Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August
-1969 (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in
-folgender Fassung anzuwenden:
-"Der für ein bebautes Grundstück anzusetzende Wert darf nicht geringer
-sein als 50 vom Hundert des Werts, mit dem der Grund und Boden allein
-als unbebautes Grundstück zu bewerten wäre."
+
+[^BJNR010350934BJNE011002301]:     Nach Artikel 7 des Steueränderungsgesetzes 1969 vom 18. August 1969
+    (BGBl. I S. 1211) ist § 77 im Hauptfeststellungszeitraum 1964 in
+    folgender Fassung anzuwenden: "Der für ein bebautes Grundstück
+    anzusetzende Wert darf nicht geringer sein als 50 vom Hundert des
+    Werts, mit dem der Grund und Boden allein als unbebautes Grundstück zu
+    bewerten wäre."
 
 
 ###### b) - Verfahren
@@ -2511,7 +2517,11 @@ vollständig eingezahlt ist. Richtet sich die Beteiligung am Vermögen
 und am Gewinn der Gesellschaft auf Grund einer ausdrücklichen
 Vereinbarung der Gesellschafter nach der jeweiligen Höhe des
 eingezahlten Nennkapitals, bezieht sich der gemeine Wert nur auf das
-tatsächlich eingezahlte Nennkapital.
+tatsächlich eingezahlte Nennkapital. Abweichend von Satz 1 sind bei
+der Wertermittlung des Anteils vorbehaltlich des § 9 Absatz 2 und 3
+Regelungen zu berücksichtigen, die sich auf den Wert des Anteils
+auswirken, wie insbesondere eine vom Verhältnis des Anteils am
+Nennkapital (Grund- oder Stammkapital) abweichende Gewinnverteilung.
 
 (2) Einen Gewerbebetrieb bilden auch die Wirtschaftsgüter, die den
 sonstigen juristischen Personen des privaten Rechts, den
@@ -4005,19 +4015,13 @@ von der Erklärungspflicht befreit.
     aufgefordert hat;
 
 
-3.  diejenigen, die eine Steuer schulden, für deren Festsetzung die
-    Feststellung von Bedeutung ist. Wird eine Steuer für eine Schenkung
-    unter Lebenden im Sinne des § 7 des Erbschaftsteuer- und
-    Schenkungsteuergesetzes geschuldet, ist der Erwerber Beteiligter, es
-    sei denn, der Schenker hat die Steuer selbst übernommen (§ 10 Absatz 2
-    des Erbschaftsteuer- und Schenkungsteuergesetzes) oder soll als
-    Schuldner der Steuer in Anspruch genommen werden. Der Schenker ist
-    Beteiligter am Feststellungsverfahren, wenn er die Steuer übernommen
-    hat oder als Schuldner für die Steuer in Anspruch genommen werden
-    soll.
+3.  diejenigen, die eine Steuer als Schuldner oder Gesamtschuldner
+    schulden und für deren Festsetzung die Feststellung von Bedeutung ist.
 
 
 
+Gegenüber mehreren Beteiligten nach Satz 1 erfolgt eine gesonderte und
+einheitliche Feststellung (§ 179 Absatz 2 Satz 2 der Abgabenordnung).
 
 (2) In den Fällen des § 151 Abs. 1 Satz 1 Nr. 3 ist der
 Feststellungsbescheid auch der Kapitalgesellschaft bekannt zu geben.
@@ -5230,27 +5234,40 @@ gemeinen Wert mit einer Wertzahl nach § 191 zu multiplizieren.
 (1) Bei der Ermittlung des Gebäudesachwerts ist von den
 Regelherstellungskosten des Gebäudes auszugehen.
 Regelherstellungskosten sind die gewöhnlichen Herstellungskosten je
-Flächeneinheit. Der Gebäuderegelherstellungswert ergibt sich durch
-Multiplikation der jeweiligen Regelherstellungskosten mit der Brutto-
-Grundfläche des Gebäudes. Die Regelherstellungskosten sind in der
-Anlage 24 enthalten. Das Bundesministerium der Finanzen wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Anlage 24 zu diesem Gesetz dadurch zu ändern, dass es die darin
-aufgeführten Regelherstellungskosten nach Maßgabe marktüblicher
-gewöhnlicher Herstellungskosten und des vom Statistischen Bundesamt
-veröffentlichten Baupreisindex aktualisiert, soweit dies zur
-Ermittlung des gemeinen Werts erforderlich ist.
+Flächeneinheit. Durch Multiplikation der jeweiligen nach Absatz 2 an
+den Bewertungsstichtag angepassten Regelherstellungskosten mit der
+Brutto-Grundfläche des Gebäudes ergibt sich der
+Gebäuderegelherstellungswert. Die Regelherstellungskosten sind in der
+Anlage 24 enthalten.
 
-(2) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung
+(2) Die Anpassung der Regelherstellungskosten erfolgt anhand der vom
+Statistischen Bundesamt veröffentlichten Baupreisindizes. Dabei ist
+auf die Preisindizes für die Bauwirtschaft abzustellen, die das
+Statistische Bundesamt für den Neubau in konventioneller Bauart von
+Wohn- und Nichtwohngebäuden jeweils als Jahresdurchschnitt ermittelt.
+Diese Preisindizes sind für alle Bewertungsstichtage des folgenden
+Kalenderjahres anzuwenden. Das Bundesministerium der Finanzen
+veröffentlicht die maßgebenden Baupreisindizes im Bundessteuerblatt.
+
+(3) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates die Anlage 24 zu
+diesem Gesetz dadurch zu ändern, dass es die darin aufgeführten
+Regelherstellungskosten nach Maßgabe marktüblicher gewöhnlicher
+Herstellungskosten aktualisiert, soweit dies zur Ermittlung des
+gemeinen Werts erforderlich ist.
+
+(4) Vom Gebäuderegelherstellungswert ist eine Alterswertminderung
 abzuziehen. Diese wird regelmäßig nach dem Verhältnis des Alters des
 Gebäudes am Bewertungsstichtag zur wirtschaftlichen
 Gesamtnutzungsdauer nach Anlage 22 bestimmt. Sind nach
 Bezugsfertigkeit des Gebäudes Veränderungen eingetreten, die die
-wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert oder
-verkürzt haben, ist von einem entsprechenden früheren oder späteren
-Baujahr auszugehen. Der nach Abzug der Alterswertminderung
-verbleibende Gebäudewert ist regelmäßig mit mindestens 40 Prozent des
-Gebäuderegelherstellungswerts anzusetzen.
+wirtschaftliche Gesamtnutzungsdauer des Gebäudes verlängert haben, so
+ist von einem entsprechenden späteren Baujahr auszugehen. Bei
+bestehender Abbruchverpflichtung für das Gebäude ist bei der
+Ermittlung der Alterswertminderung von der tatsächlichen
+Gesamtnutzungsdauer des Gebäudes auszugehen. Der nach Abzug der
+Alterswertminderung verbleibende Gebäudewert ist regelmäßig mit
+mindestens 30 Prozent des Gebäuderegelherstellungswerts anzusetzen.
 
 
 ###### § 191 Wertzahlen
@@ -5389,9 +5406,9 @@ Gebäudeertragswerts der Vervielfältiger nach Anlage 21 anzuwenden, der
 sich für die am Bewertungsstichtag verbleibende Nutzungsdauer ergibt.
 § 185 Abs. 3 Satz 5 ist nicht anzuwenden. Ist in diesen Fällen der
 Gebäudesachwert zu ermitteln, bemisst sich die Alterswertminderung im
-Sinne des § 190 Abs. 2 Satz 1 bis 3 nach dem Alter des Gebäudes am
+Sinne des § 190 Absatz 4 Satz 1 bis 3 nach dem Alter des Gebäudes am
 Bewertungsstichtag und der tatsächlichen Gesamtnutzungsdauer. § 190
-Abs. 2 Satz 4 ist nicht anzuwenden.
+Absatz 4 Satz 5 ist nicht anzuwenden.
 
 (3) Der Wert des belasteten Grundstücks ist der auf den
 Bewertungsstichtag abgezinste Bodenwert nach § 179 zuzüglich des über
@@ -5617,20 +5634,13 @@ Betriebsergebnis nach Absatz 1 oder Absatz 2 um 30 Prozent zu mindern.
 
 ##### § 203 Kapitalisierungsfaktor
 
-(1) Der in diesem Verfahren anzuwendende Kapitalisierungszinssatz
-setzt sich zusammen aus einem Basiszins und einem Zuschlag von 4,5
-Prozent.
+(1) Der in diesem Verfahren anzuwendende Kapitalisierungsfaktor
+beträgt 13,75.
 
-(2) Der Basiszins ist aus der langfristig erzielbaren Rendite
-öffentlicher Anleihen abzuleiten. Dabei ist auf den Zinssatz
-abzustellen, den die Deutsche Bundesbank anhand der Zinsstrukturdaten
-jeweils auf den ersten Börsentag des Jahres errechnet. Dieser Zinssatz
-ist für alle Wertermittlungen auf Bewertungsstichtage in diesem Jahr
-anzuwenden. Das Bundesministerium der Finanzen veröffentlicht den
-maßgebenden Zinssatz im Bundessteuerblatt.
-
-(3) Der Kapitalisierungsfaktor ist der Kehrwert des
-Kapitalisierungszinssatzes.
+(2) Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates den
+Kapitalisierungsfaktor an die Entwicklung der Zinsstrukturdaten
+anzupassen.
 
 
 ## Dritter Teil - Schlussbestimmungen
@@ -5664,8 +5674,37 @@ Dezember 2011 (BGBl. I S. 2592) sind auf Bewertungsstichtage nach dem
 Artikels 10 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2592) sind
 auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
+(5) § 11 Absatz 4 in der Fassung des Artikels 3 des Gesetzes vom 18.
+Dezember 2013 (BGBl. I S. 4318) ist auf Bewertungsstichtage ab dem 22.
+Juli 2013 anzuwenden.
 
-### Anlage 1 (zu § 51) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+(6) § 48a in der Fassung des Artikels 20 des Gesetzes vom 26. Juni
+2013 (BGBl. I S. 1809) ist auf Bewertungsstichtage ab dem 1. Januar
+2014 anzuwenden.
+
+(7) § 26 in der Fassung des Artikels 6 des Gesetzes vom 18. Juli 2014
+(BGBl. I S. 1042) ist auf Bewertungsstichtage ab dem 1. August 2001
+anzuwenden, soweit Feststellungsbescheide noch nicht bestandskräftig
+sind.
+
+(8) § 97 Absatz 1b Satz 4 in der am 6. November 2015 geltenden Fassung
+ist auf Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
+
+(9) § 154 Absatz 1 Satz 1 Nummer 3 und Satz 2 in der am 6. November
+2015 geltenden Fassung ist auf Bewertungsstichtage nach dem 31.
+Dezember 2015 anzuwenden.
+
+(10) Die §§ 190, 195 Absatz 2 Satz 4 und 5 sowie die Anlagen 22, 24
+und 25 in der am 6. November 2015 geltenden Fassung sind auf
+Bewertungsstichtage nach dem 31. Dezember 2015 anzuwenden.
+
+(11) § 203 in der Fassung des Artikels 2 des Gesetzes vom 4. November
+2016 (BGBl. I S. 2464) ist auf Bewertungsstichtage nach dem 31.
+Dezember 2015 anzuwenden.
+
+(zu § 51)
+
+### Anlage 1 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2619 - 2620)
 
@@ -6154,8 +6193,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Mietwohngrundstücke
 
-### Anlage 3 Mietwohngrundstücke Vervielfältiger
+### Anlage 3 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 264)
 
@@ -6683,8 +6723,10 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
+Jahresrohmiete bis zu 50 v. H.
 
-### Anlage 4 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete bis zu 50 v. H. Vervielfältiger
+### Anlage 4 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 265)
 
@@ -7212,8 +7254,10 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der
+Jahresrohmiete von mehr als 50 v. H.
 
-### Anlage 5 Gemischtgenutzte Grundstücke mit einem gewerblichen Anteil an der Jahresrohmiete von mehr als 50 v. H. Vervielfältiger
+### Anlage 5 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 266)
 
@@ -7631,8 +7675,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Geschäftsgrundstücke
 
-### Anlage 6 Geschäftsgrundstücke Vervielfältiger
+### Anlage 6 Vervielfältiger
 
 (Fundstelle des Originaltextes: BGBl. I 1991, 267)
 
@@ -8162,8 +8207,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Einfamilienhäuser
 
-### Anlage 7 Einfamilienhäuser Vervielfältiger
+### Anlage 7 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 268)
 
@@ -8581,8 +8627,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 
 
 
+Zweifamilienhäuser
 
-### Anlage 8 Zweifamilienhäuser Vervielfältiger
+### Anlage 8 Vervielfältiger
 
 (Fundstelle: BGBl. I 1991, 269)
 
@@ -9004,8 +9051,9 @@ auf Bewertungsstichtage nach dem 31. Dezember 2011 anzuwenden.
 ### Anlage 9 (weggefallen)
 
 
+(zu § 13)
 
-### Anlage 9a (zu § 13) Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
+### Anlage 9a Kapitalwert einer wiederkehrenden, zeitlich beschränkten Nutzung oder Leistung im Jahresbetrag von einem Euro
 
 (Fundstelle: BGBl. I 1992, 1860 u. 1861;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -9596,8 +9644,9 @@ nachschüssige Zahlungsweise.
 ### (XXXX) Anlagen 10 bis 13 (weggefallen)
 
 
+(zu § 163 Abs. 3, § 164 Abs. 2 und 4)
 
-### Anlage 14 (zu § 163 Abs. 3, § 164 Abs. 2 und 4) Landwirtschaftliche Nutzung
+### Anlage 14 Landwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3043 - 3059)
 
@@ -18089,8 +18138,9 @@ nachschüssige Zahlungsweise.
 
 
 
+(zu § 163 Abs. 4 und § 164 Abs. 2)
 
-### Anlage 15 (zu § 163 Abs. 4 und § 164 Abs. 2) Forstwirtschaftliche Nutzung
+### Anlage 15 Forstwirtschaftliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3060;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -18241,10 +18291,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *
 
 
+   (zu § 164 Abs. 4)
 
-### Anlage 15a (zu § 164 Abs. 4) Forstwirtschaftliche Nutzung
+### Anlage 15a Forstwirtschaftliche Nutzung
 
-   (Fundstelle: BGBl. I 2008, 3061)
+(Fundstelle: BGBl. I 2008, 3061)
 
 
 *    *   6
@@ -18299,7 +18350,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   161–180
 
-    *   *                     180
+    *   *180
 
 
 *    *   Buche
@@ -18611,8 +18662,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 5 und § 164 Abs. 2 und 4)
 
-### Anlage 16 (zu § 163 Abs. 5 und § 164 Abs. 2 und 4) Weinbauliche Nutzung
+### Anlage 16 Weinbauliche Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18679,8 +18731,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 6 und § 164 Abs. 2 und 4)
 
-### Anlage 17 (zu § 163 Abs. 6 und § 164 Abs. 2 und 4) Gärtnerische Nutzung
+### Anlage 17 Gärtnerische Nutzung
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18785,8 +18838,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 163 Abs. 7 und § 164 Abs. 2 und 4)
 
-### Anlage 18 (zu § 163 Abs. 7 und § 164 Abs. 2 und 4) Sondernutzungen
+### Anlage 18 Sondernutzungen
 
 (Fundstelle: BGBl. I 2008, 3062)
 
@@ -18850,8 +18904,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 169)
 
-### Anlage 19 (zu § 169) Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
+### Anlage 19 Umrechnungsschlüssel für Tierbestände in Vieheinheiten nach dem Futterbedarf
 
 (Fundstelle: BGBl. I 2011, 2621 - 2622)
 
@@ -19268,8 +19323,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 169 Abs. 5)
 
-### Anlage 20 (zu § 169 Abs. 5) Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
+### Anlage 20 Gruppen der Zweige des Tierbestands nach der Flächenabhängigkeit
 
 (Fundstelle: BGBl. I 2008, 3065)
 
@@ -19318,8 +19374,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 185 Abs. 3 Satz 1,
+§ 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und
+§ 195 Abs. 2 Satz 2 und Abs. 3 Satz 3)
 
-### Anlage 21 (zu § 185 Abs. 3 Satz 1, § 193 Abs. 3 Satz 2, § 194 Abs. 3 Satz 3 und § 195 Abs. 2 Satz 2 und Abs. 3 Satz 3) Vervielfältiger
+### Anlage 21 Vervielfältiger
 
 (Fundstelle: BGBl. I 2008, 3066 - 3068)
 
@@ -21873,7 +21932,7 @@ Vervielfältiger nach folgender Formel zu bilden:
     *   ×
 
     *   q
-        n                      – 1
+        n – 1
 
     *
     *   p = Zinssatz
@@ -21882,7 +21941,7 @@ Vervielfältiger nach folgender Formel zu bilden:
 *    *   q
         n
 
-    *   q                      – 1
+    *   q – 1
 
     *
 
@@ -21895,29 +21954,30 @@ Vervielfältiger nach folgender Formel zu bilden:
 
 
 
+(zu § 185 Absatz 3 Satz 3, § 190 Absatz 4 Satz 2)
 
-### Anlage 22 (zu § 185 Abs. 3 Satz 3, § 190 Abs. 2 Satz 2) Wirtschaftliche Gesamtnutzungsdauer
+### Anlage 22 Wirtschaftliche Gesamtnutzungsdauer
 
-(Fundstelle: BGBl. I 2008, 3069)
+(Fundstelle: BGBl. I 2015, 1846)
 
 
-*    *   **Einfamilien- und Zweifamilienhäuser**
+*    *   **Ein- und Zweifamilienhäuser**
 
-    *   80
+    *   70
 
     *   Jahre
 
 
-*    *   **Mietwohngrundstücke**
+*    *   **Mietwohngrundstücke, Mehrfamilienhäuser**
 
-    *   80
+    *   70
 
     *   Jahre
 
 
 *    *   **Wohnungseigentum**
 
-    *   80
+    *   70
 
     *   Jahre
 
@@ -21928,215 +21988,133 @@ Vervielfältiger nach folgender Formel zu bilden:
     *
     *
 
-*    *   Gemischt genutzte Grundstücke (mit Wohn- und Gewerbeflächen)
+*    *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
 
     *   70
 
     *   Jahre
 
 
-*    *   Hochschulen (Universitäten)
+*    *   Museen, Theater, Sakralbauten, Friedhofsgebäude
 
     *   70
 
     *   Jahre
 
 
-*    *   Saalbauten (Veranstaltungszentren)
-
-    *   70
-
-    *   Jahre
-
-
-*    *   Kur- und Heilbäder
-
-    *   70
-
-    *   Jahre
-
-
-*    *   Verwaltungsgebäude
+*    *   Bürogebäude/Verwaltungsgebäude
 
     *   60
 
     *   Jahre
 
 
-*    *   Bankgebäude
+*    *   Banken und ähnliche Geschäftshäuser
 
     *   60
 
     *   Jahre
 
 
-*    *   Schulen
+*    *   Einzelgaragen/Mehrfachgaragen
 
     *   60
 
     *   Jahre
 
 
-*    *   Kindergärten (Kindertagesstätten)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Altenwohnheime
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Personalwohnheime (Schwesternwohnheime)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Hotels
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Sporthallen (Turnhallen)
-
-    *   60
-
-    *   Jahre
-
-
-*    *   Kaufhäuser, Warenhäuser
+*    *   Kindergärten (Kindertagesstätten), Allgemeinbildende und
+        Berufsbildende Schulen, Hochschulen, Sonderschulen
 
     *   50
 
     *   Jahre
 
 
-*    *   Ausstellungsgebäude
+*    *   Wohnheime/Internate, Alten-/Pflegeheime
 
     *   50
 
     *   Jahre
 
 
-*    *   Krankenhäuser
+*    *   Kauf-/Warenhäuser
 
     *   50
 
     *   Jahre
 
 
-*    *   Vereinsheime (Jugendheime, Tagesstätten)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Parkhäuser (offene Ausführung, Parkpaletten)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Parkhäuser (geschlossene Ausführung)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Tiefgaragen
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Funktionsgebäude für Sportanlagen (z.B. Sanitär- und Umkleideräume)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Hallenbäder
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Industriegebäude, Werkstätten ohne Büro- und Sozialtrakt
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Industriegebäude, Werkstätten mit Büro- und Sozialtrakt
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Kaltlager)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Warmlager)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Lagergebäude (Warmlager mit Büro- und Sozialtrakt)
-
-    *   50
-
-    *   Jahre
-
-
-*    *   Einkaufsmärkte, Großmärkte, Läden
+*    *   Krankenhäuser, Tageskliniken, Ärztehäuser
 
     *   40
 
     *   Jahre
 
 
-*    *   Tennishallen
+*    *   Gemeindezentren, Saalbauten/Veranstaltungsgebäude, Vereinsheime
 
     *   40
 
     *   Jahre
 
 
-*    *   Reitsporthallen
+*    *   Beherbergungsstätten, Hotels, Verpflegungseinrichtungen
 
     *   40
 
     *   Jahre
 
 
+*    *   Sport-/Tennishallen, Freizeitbäder/Kur- und Heilbäder
 
-**Teileigentum**              ist in Abhängigkeit von der baulichen
-Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
+    *   40
+
+    *   Jahre
 
 
-### Anlage 23 (zu § 187 Abs. 2 Satz 2) Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
+*    *   Tief-,Hoch- und Nutzfahrzeuggaragen als Einzelbauwerke, Carports
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Betriebs-/Werkstätten, Industrie-/Produktionsgebäude
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Lager-/Versandgebäude
+
+    *   40
+
+    *   Jahre
+
+
+*    *   Verbrauchermärkte, Autohäuser
+
+    *   30
+
+    *   Jahre
+
+
+*    *   Reithallen, ehemalige landwirtschaftliche Mehrzweckhallen, u. Ä.
+
+    *   30
+
+    *   Jahre
+
+
+
+**Teileigentum** ist in Abhängigkeit von der baulichen Gestaltung den
+vorstehenden Gebäudearten zuzuordnen.
+
+(zu § 187 Abs. 2 Satz 2)
+
+### Anlage 23 Pauschalierte Bewirtschaftungskosten für Verwaltung, Instandhaltung und Mietausfallwagnis in Prozent der Jahresmiete oder üblichen Miete (ohne Betriebskosten)
 
 (Fundstelle: BGBl. I 2008, 3070)
 
@@ -22168,7 +22146,7 @@ Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
     *   Geschäftsgrundstück
 
 
-*    *   *                      60 Jahre
+*    *   * 60 Jahre
 
     *   21
 
@@ -22195,7 +22173,7 @@ Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
     *   22
 
 
-*    *   *                      20 Jahre
+*    *   * 20 Jahre
 
     *   29
 
@@ -22205,2118 +22183,2905 @@ Gestaltung den vorstehenden Gebäudeklassen zuzuordnen.
 
 
 
+(zu § 190 Absatz 1 Satz 4 und Absatz 3)
 
-### Anlage 24 (zu § 190 Abs. 1 Satz 4 und 5) Ermittlung des Gebäuderegelherstellungswerts
+### Anlage 24 Ermittlung des Gebäuderegelherstellungswerts
 
-(Fundstelle: BGBl. I 2008, 3071 - 3076;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2015, 1847 – 1862)
 
 **I. Begriff der Brutto-Grundfläche (BGF)**
 
-(1) Die Brutto-Grundfläche ist die Summe aus den Grundflächen aller
-Grundrissebenen eines Bauwerks mit Nutzungen nach DIN 277-2:2005-02,
-Tabelle 1, Nr. 1 bis Nr. 9, und aus deren konstruktiven
-Umschließungen. Für die Ermittlung der Brutto-Grundfläche (Summe aus
-Netto-Grundfläche und Konstruktions-Grundfläche) sind die äußeren Maße
-der Bauteile einschließlich Bekleidung, z. B. Putz, Außenschalen
-mehrschaliger Wandkonstruktionen in Höhe der Boden- bzw.
-Deckenbelagsoberkanten anzusetzen. Konstruktive und gestalterische
-Vor- und Rücksprünge, Fuß-Sockelleisten, Schrammborde und
-Unterschneidungen sowie vorstehende Teile von Fenster- und
-Türbekleidungen bleiben dabei unberücksichtigt.
+1.  Die BGF ist die Summe der bezogen auf die jeweilige Gebäudeart
+    marktüblich nutzbaren Grundflächen aller Grundrissebenen eines
+    Bauwerks. In Anlehnung an die DIN 277-1:2005-02 sind bei den
+    Grundflächen folgende Bereiche zu unterscheiden:
 
-(2) Nicht zur Brutto-Grundfläche gehören Flächen, die ausschließlich
-der Wartung, Inspektion und Instandsetzung von Baukonstruktionen und
-technischen Anlagen dienen, z. B. nicht nutzbare Dachflächen, fest
-installierte Dachleitern und -stege, Wartungsstege in abgehängten
-Decken.
+    Bereich a: überdeckt und allseitig in voller Höhe umschlossen,
+
+    Bereich b: überdeckt, jedoch nicht allseitig in voller Höhe
+    umschlossen,
+
+    Bereich c: nicht überdeckt.
+
+    Für die Anwendung der Regelherstellungskosten (RHK) sind im Rahmen der
+    Ermittlung der BGF nur die Grundflächen der Bereiche a und b zugrunde
+    zu legen. Balkone, auch wenn sie überdeckt sind, sind dem Bereich c
+    zuzuordnen.
+
+    Für die Ermittlung der BGF sind die äußeren Maße der Bauteile
+    einschließlich Bekleidung, z. B. Putz und Außenschalen mehrschaliger
+    Wandkonstruktionen, in Höhe der Bodenbelagsoberkanten anzusetzen.
+
+
+2.  Nicht zur BGF gehören z. B. Flächen von Spitzböden und Kriechkellern,
+    Flächen, die ausschließlich der Wartung, Inspektion und Instandsetzung
+    von Baukonstruktionen und technischen Anlagen dienen sowie Flächen
+    unter konstruktiven Hohlräumen, z. B. über abgehängten Decken.
+
+
+
 
 **II. Regelherstellungskosten (RHK)**
 
-## Regelherstellungskosten 2010 (RHK 2010)
+**Regelherstellungskosten**
 
-### **(einschließlich Baunebenkosten, Preisstand IV. Quartal 2010)**
-
-
-*    *   1.
-
-    *   Ein- und Zweifamilienhäuser (EUR/m
-        2                      BGF)
-        Typisierte Gesamtnutzungsdauer = 80 Jahre
+auf Grundlage der Normalherstellungskosten 2010 (NHK 2010) in Euro/m
+2 BGF einschließlich Baunebenkosten und Umsatzsteuer für die jeweilige
+Gebäudeart (Kostenstand 2010)
 
 
-*    *
-    *   Baujahr
+*    *   **1-3**
 
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Ein- und Zweifamilienhäuser**
 
 
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
 
 
 *    *
-    *   mit Keller
+    *   **Standardstufe**
 
 
-*    *   1.11
+*    *   **Keller- und Erdgeschoss**
 
+    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *        ![bgbl1_2015_j1834-1_0010.jpg](bgbl1_2015_j1834-1_0010.jpg)
     *   Dachgeschoss ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.01
+
+    *   freistehende Einfamilienhäuser
+
+    *   655
+
+    *   725
+
+    *   835
+
+    *   1005
+
+    *   1260
+
+
+*    *   1.011
+
+    *[^f791494_02_BJNR010350934BJNE027802116]
+   freistehende Zweifamilienhäuser
+
+    *   688
+
+    *   761
+
+    *   877
+
+    *   1055
+
+    *   1323
+
+
+*    *   2.01
+
+    *   Doppel- und Reihenendhäuser
+
+    *   615
+
+    *   685
+
+    *   785
+
+    *   945
+
+    *   1180
+
+
+*    *   3.01
+
+    *   Reihenmittelhäuser
+
+    *   575
 
     *   640
 
-    *   690
+    *   735
 
-    *   810
+    *   885
 
-    *   690
+    *   1105
 
-    *   740
 
-    *   880
+*    *        ![bgbl1_2015_j1834-1_0020.jpg](bgbl1_2015_j1834-1_0020.jpg)
+    *   Dachgeschoss nicht ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.02
+
+    *   freistehende Einfamilienhäuser
+
+    *   545
+
+    *   605
+
+    *   695
+
+    *   840
+
+    *   1050
+
+
+*    *   1.021
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   572
+
+    *   635
 
     *   730
 
-    *   790
+    *   882
 
-    *   940
-
-    *   780
-
-    *   840
-
-    *   990
-
-    *   840
-
-    *   910
-
-    *   1060
-
-    *   870
-
-    *   940
-
-    *   1110
+    *   1103
 
 
-*    *   1.12
+*    *   2.02
 
-    *   Dachgeschoss nicht ausgebaut
+    *   Doppel- und Reihenendhäuser
+
+    *   515
 
     *   570
 
-    *   620
-
-    *   730
-
-    *   620
-
-    *   670
+    *   655
 
     *   790
 
-    *   660
-
-    *   720
-
-    *   840
-
-    *   700
-
-    *   760
-
-    *   890
-
-    *   750
-
-    *   820
-
-    *   960
-
-    *   790
-
-    *   850
-
-    *   1010
+    *   985
 
 
-*    *   1.13
+*    *   3.02
 
-    *   Flachdach
+    *   Reihenmittelhäuser
 
-    *   640
+    *   480
 
-    *   700
+    *   535
 
-    *   810
-
-    *   700
-
-    *   750
-
-    *   880
+    *   615
 
     *   740
 
-    *   800
-
-    *   930
-
-    *   790
-
-    *   850
-
-    *   990
-
-    *   850
-
-    *   910
-
-    *   1060
-
-    *   880
-
-    *   950
-
-    *   1110
+    *   925
 
 
-*    *
-    *   ohne Keller
+*    *        ![bgbl1_2015_j1834-1_0030.jpg](bgbl1_2015_j1834-1_0030.jpg)
+    *   Flachdach oder flach geneigtes Dach
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.03
+
+    *   freistehende Einfamilienhäuser
+
+    *   705
+
+    *   785
+
+    *   900
+
+    *   1085
+
+    *   1360
 
 
-*    *   1.21
+*    *   1.031
 
-    *   Dachgeschoss ausgebaut
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   720
+    *   740
 
-    *   790
+    *   824
 
-    *   940
+    *   945
 
-    *   780
+    *   1139
 
-    *   850
+    *   1428
+
+
+*    *   2.03
+
+    *   Doppel- und Reihenendhäuser
+
+    *   665
+
+    *   735
+
+    *   845
 
     *   1020
 
-    *   830
-
-    *   910
-
-    *   1090
-
-    *   880
-
-    *   960
-
-    *   1150
-
-    *   950
-
-    *   1040
-
-    *   1250
-
-    *   990
-
-    *   1080
-
-    *   1300
+    *   1275
 
 
-*    *   1.22
+*    *   3.03
 
-    *   Dachgeschoss nicht ausgebaut
+    *   Reihenmittelhäuser
 
-    *   640
-
-    *   700
-
-    *   840
+    *   620
 
     *   690
 
-    *   760
+    *   795
 
-    *   910
+    *   955
 
-    *   740
-
-    *   800
-
-    *   960
-
-    *   780
-
-    *   850
-
-    *   1020
-
-    *   840
-
-    *   920
-
-    *   1100
-
-    *   880
-
-    *   960
-
-    *   1150
+    *   1195
 
 
-*    *   1.23
-
-    *   Flachdach
-
-    *   790
-
-    *   860
-
-    *   1020
-
-    *   850
-
-    *   930
-
-    *   1100
-
-    *   910
-
-    *   990
-
-    *   1180
-
-    *   850
-
-    *   920
-
-    *   1250
-
-    *   1040
-
-    *   1130
-
-    *   1350
-
-    *   1080
-
-    *   1180
-
-    *   1400
-
-
-
-
-*    *   2.
-
-    *   Wohnungseigentum und vergleichbares Teileigentum/ohne Tiefgaragenplatz
-        (EUR/m
-        2                      BGF)
-        Typisierte Gesamtnutzungsdauer = 80 Jahre
 
 
 *    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Standardstufe**
 
 
-*    *   GKL
+*    *   **Keller-, Erd- und Obergeschoss**
 
-    *   Ausstattungsstandard
+    *   **1**
 
-    *   einf.
+    *   **2**
 
-    *   mittel
+    *   **3**
 
-    *   geh.
+    *   **4**
 
-    *   einf.
+    *   **5**
 
-    *   mittel
 
-    *   geh.
+*    *        ![bgbl1_2015_j1834-1_0040.jpg](bgbl1_2015_j1834-1_0040.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   einf.
+    *
+    *
+    *
+    *
+    *
 
-    *   mittel
+*    *   1.11
 
-    *   geh.
+    *   freistehende Einfamilienhäuser
 
-    *   einf.
+    *   655
 
-    *   mittel
+    *   725
 
-    *   geh.
+    *   835
 
-    *   einf.
+    *   1005
 
-    *   mittel
+    *   1260
 
-    *   geh.
 
-    *   einf.
+*    *   1.111
 
-    *   mittel
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   geh.
+    *   688
+
+    *   761
+
+    *   877
+
+    *   1055
+
+    *   1323
 
 
 *    *   2.11
 
-    *   Alle Gebäude
+    *   Doppel- und Reihenendhäuser
 
-    *   750
+    *   615
 
-    *   760
+    *   685
 
-    *   770
+    *   785
 
-    *   760
+    *   945
 
-    *   800
-
-    *   870
-
-    *   810
-
-    *   850
-
-    *   920
-
-    *   860
-
-    *   900
-
-    *   980
-
-    *   920
-
-    *   970
-
-    *   1050
-
-    *   970
-
-    *   1010
-
-    *   1100
-
-
-*    *
-    *   Für Wohnungseigentum in Gebäuden, die wie Ein- und Zweifamilienhäuser
-        im Sinne des § 181 Absatz 2 BewG gestaltet sind, werden die
-        Gebäudenormalherstellungswerte der Ein- und Zweifamilienhäuser
-        zugrunde gelegt.
-        Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
-        Wohnungseigentum in Mehrfamilienhäusern (Mietwohngrundstücke): BGF =
-        1,55 x Wohnfläche
-
-
-
-
-*    *   3.
-
-    *   Geschäftsgrundstücke, gemischt genutzte Grundstücke und sonstige
-        bebaute Grundstücke (EUR/m
-        2                      BGF)
-
-
-*    *   3.1
-
-    *   Typisierte Gesamtnutzungsdauer = 70 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
+    *   1180
 
 
 *    *   3.11
 
-    *   Gemischt genutzte Grundstücke/Gebäude (mit Wohn- und Gewerbefläche)
+    *   Reihenmittelhäuser
 
-    *   750
+    *   575
 
-    *   1090
+    *   640
 
-    *   1090
+    *   735
 
-    *   800
+    *   885
 
-    *   1170
+    *   1105
 
-    *   1170
 
-    *   860
+*    *        ![bgbl1_2015_j1834-1_0050.jpg](bgbl1_2015_j1834-1_0050.jpg)
+    *   Dachgeschoss nicht ausgebaut
 
-    *   1250
+    *
+    *
+    *
+    *
+    *
 
-    *   1640
+*    *   1.12
 
-    *   910
+    *   freistehende Einfamilienhäuser
 
-    *   1320
+    *   570
 
-    *   1730
+    *   635
 
-    *   980
+    *   730
 
-    *   1420
+    *   880
 
-    *   1860
+    *   1100
 
-    *   1020
 
-    *   1480
+*    *   1.121
 
-    *   1940
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   599
+
+    *   667
+
+    *   767
+
+    *   924
+
+    *   1155
+
+
+*    *   2.12
+
+    *   Doppel- und Reihenendhäuser
+
+    *   535
+
+    *   595
+
+    *   685
+
+    *   825
+
+    *   1035
 
 
 *    *   3.12
 
-    *   Hochschulen, Universitäten
+    *   Reihenmittelhäuser
 
-    *   1610
+    *   505
 
-    *   1610
+    *   560
 
-    *   1920
+    *   640
 
-    *   1730
+    *   775
 
-    *   1730
+    *   965
 
-    *   2070
 
-    *   1850
+*    *        ![bgbl1_2015_j1834-1_0060.jpg](bgbl1_2015_j1834-1_0060.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   1850
+    *
+    *
+    *
+    *
+    *
 
-    *   2210
+*    *   1.13
 
-    *   1960
+    *   freistehende Einfamilienhäuser
 
-    *   1960
+    *   665
 
-    *   2340
+    *   740
 
-    *   2100
+    *   850
 
-    *   2100
+    *   1025
 
-    *   2510
+    *   1285
 
-    *   2190
 
-    *   2190
+*    *   1.131
 
-    *   2620
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   698
+
+    *   777
+
+    *   893
+
+    *   1076
+
+    *   1349
+
+
+*    *   2.13
+
+    *   Doppel- und Reihenendhäuser
+
+    *   625
+
+    *   695
+
+    *   800
+
+    *   965
+
+    *   1205
 
 
 *    *   3.13
 
-    *   Saalbauten, Veranstaltungszentren
+    *   Reihenmittelhäuser
 
-    *   1430
+    *   585
 
-    *   1760
+    *   650
 
-    *   1760
+    *   750
 
-    *   1430
-
-    *   1890
-
-    *   2380
-
-    *   1530
-
-    *   2020
-
-    *   2550
-
-    *   1630
-
-    *   2140
-
-    *   2690
-
-    *   1740
-
-    *   2290
-
-    *   2890
-
-    *   1820
-
-    *   2390
-
-    *   3020
-
-
-*    *   3.14
-
-    *   Kur- und Heilbäder
-
-    *   2820
-
-    *   2820
-
-    *   3130
-
-    *   3020
-
-    *   3020
-
-    *   3360
-
-    *   3240
-
-    *   3240
-
-    *   3600
-
-    *   3430
-
-    *   3430
-
-    *   3810
-
-    *   3680
-
-    *   3680
-
-    *   4090
-
-    *   3840
-
-    *   3840
-
-    *   4260
-
-
-
-
-*    *   3.2
-
-    *   Typisierte Gesamtnutzungsdauer = 60 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-
-*    *   3.211
-
-    *   Verwaltungsgebäude
-        (ein- bis zweigeschossig,
-        nicht unterkellert)
-
-    *   1060
-
-    *   1060
-
-    *   1060
-
-    *   1060
-
-    *   1240
-
-    *   1510
+    *   905
 
     *   1130
 
-    *   1320
-
-    *   1620
-
-    *   1200
-
-    *   1400
-
-    *   1710
-
-    *   1280
-
-    *   1500
-
-    *   1840
-
-    *   1340
-
-    *   1570
-
-    *   1910
 
 
-*    *   3.212
 
-    *   Verwaltungsgebäude
-        (zwei- bis fünfgeschossig)
-
-    *   1400
-
-    *   1400
-
-    *   1680
-
-    *   1270
-
-    *   1500
-
-    *   1810
-
-    *   1350
-
-    *   1610
-
-    *   1940
-
-    *   1430
-
-    *   1710
-
-    *   2050
-
-    *   1540
-
-    *   1830
-
-    *   2210
-
-    *   1600
-
-    *   1900
-
-    *   2290
+*    *
+    *   **Standardstufe**
 
 
-*    *   3.213
+*    *   **Erdgeschoss, nicht unterkellert**
 
-    *   Verwaltungsgebäude
-        (sechs- und mehrgeschossig)
+    *   **1**
 
-    *   1950
+    *   **2**
 
-    *   1950
+    *   **3**
 
-    *   1950
+    *   **4**
 
-    *   1950
+    *   **5**
 
-    *   1950
 
-    *   2440
+*    *        ![bgbl1_2015_j1834-1_0070.jpg](bgbl1_2015_j1834-1_0070.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   2090
+    *
+    *
+    *
+    *
+    *
 
-    *   2090
+*    *   1.21
 
-    *   2610
+    *   freistehende Einfamilienhäuser
 
-    *   2220
+    *   790
 
-    *   2220
+    *   875
 
-    *   2760
+    *   1005
 
-    *   2380
+    *   1215
 
-    *   2380
+    *   1515
 
-    *   2960
 
-    *   2470
+*    *   1.211
 
-    *   2470
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   3090
+    *   830
+
+    *   919
+
+    *   1055
+
+    *   1276
+
+    *   1591
+
+
+*    *   2.21
+
+    *   Doppel- und Reihenendhäuser
+
+    *   740
+
+    *   825
+
+    *   945
+
+    *   1140
+
+    *   1425
+
+
+*    *   3.21
+
+    *   Reihenmittelhäuser
+
+    *   695
+
+    *   770
+
+    *   885
+
+    *   1065
+
+    *   1335
+
+
+*    *        ![bgbl1_2015_j1834-1_0080.jpg](bgbl1_2015_j1834-1_0080.jpg)
+    *   Dachgeschoss nicht ausgebaut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.22
+
+    *   freistehende Einfamilienhäuser
+
+    *   585
+
+    *   650
+
+    *   745
+
+    *   900
+
+    *   1125
+
+
+*    *   1.221
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   614
+
+    *   683
+
+    *   782
+
+    *   945
+
+    *   1181
+
+
+*    *   2.22
+
+    *   Doppel- und Reihenendhäuser
+
+    *   550
+
+    *   610
+
+    *   700
+
+    *   845
+
+    *   1055
 
 
 *    *   3.22
 
-    *   Bankgebäude
+    *   Reihenmittelhäuser
 
-    *   2070
+    *   515
 
-    *   2070
+    *   570
 
-    *   2070
+    *   655
 
-    *   2070
+    *   790
 
-    *   2070
+    *   990
 
-    *   2380
 
-    *   2210
+*    *        ![bgbl1_2015_j1834-1_0090.jpg](bgbl1_2015_j1834-1_0090.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   2210
+    *
+    *
+    *
+    *
+    *
 
-    *   2510
+*    *   1.23
 
-    *   2340
+    *   freistehende Einfamilienhäuser
 
-    *   2340
+    *   920
 
-    *   2670
+    *   1025
 
-    *   2510
+    *   1180
 
-    *   2510
+    *   1420
 
-    *   2890
+    *   1775
 
-    *   2620
 
-    *   2620
+*    *   1.231
 
-    *   3010
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   966
+
+    *   1076
+
+    *   1239
+
+    *   1491
+
+    *   1864
+
+
+*    *   2.23
+
+    *   Doppel- und Reihenendhäuser
+
+    *   865
+
+    *   965
+
+    *   1105
+
+    *   1335
+
+    *   1670
 
 
 *    *   3.23
 
-    *   Schulen, Berufsschulen
+    *   Reihenmittelhäuser
 
-    *   1150
+    *   810
 
-    *   1300
+    *   900
 
-    *   1410
-
-    *   1240
-
-    *   1400
-
-    *   1520
-
-    *   1320
-
-    *   1500
-
-    *   1630
-
-    *   1400
-
-    *   1590
-
-    *   1720
-
-    *   1500
-
-    *   1710
-
-    *   1850
-
-    *   1570
-
-    *   1780
-
-    *   1930
-
-
-*    *   3.24
-
-    *   Kindergärten
-
-    *   1210
-
-    *   1210
-
-    *   1210
-
-    *   1210
-
-    *   1310
-
-    *   1680
-
-    *   1300
-
-    *   1410
-
-    *   1790
-
-    *   1370
-
-    *   1490
-
-    *   1900
-
-    *   1470
-
-    *   1600
-
-    *   2040
-
-    *   1530
-
-    *   1670
-
-    *   2130
-
-
-*    *   3.25
-
-    *   Altenwohnheime
-
-    *   1020
-
-    *   1200
-
-    *   1320
-
-    *   1100
-
-    *   1290
-
-    *   1420
-
-    *   1170
-
-    *   1380
-
-    *   1520
+    *   1035
 
     *   1250
 
-    *   1460
+    *   1560
 
-    *   1610
 
-    *   1340
-
-    *   1570
-
-    *   1730
-
-    *   1390
-
-    *   1640
-
-    *   1800
-
-
-*    *   3.26
-
-    *   Personalwohnheime
-
-    *   890
-
-    *   1090
-
-    *   1200
-
-    *   950
-
-    *   1170
-
-    *   1290
-
-    *   1020
-
-    *   1260
-
-    *   1380
-
-    *   1080
-
-    *   1330
-
-    *   1470
-
-    *   1160
-
-    *   1430
-
-    *   1570
-
-    *   1210
-
-    *   1490
-
-    *   1640
-
-
-*    *   3.27
-
-    *   Hotels
-
-    *   980
-
-    *   1280
-
-    *   1650
-
-    *   1050
-
-    *   1370
-
-    *   1780
-
-    *   1120
-
-    *   1470
-
-    *   1900
-
-    *   1200
-
-    *   1550
-
-    *   2010
-
-    *   1280
-
-    *   1670
-
-    *   2160
-
-    *   1330
-
-    *   1740
-
-    *   2250
-
-
-*    *   3.28
-
-    *   Sporthallen
-
-    *   1080
-
-    *   1080
-
-    *   1080
-
-    *   1080
-
-    *   1300
-
-    *   1390
-
-    *   1150
-
-    *   1390
-
-    *   1480
-
-    *   1220
-
-    *   1470
-
-    *   1570
-
-    *   1300
-
-    *   1580
-
-    *   1690
-
-    *   1360
-
-    *   1650
-
-    *   1760
-
-
-
-
-*    *   3.3
-
-    *   Typisierte Gesamtnutzungsdauer = 50 Jahre
 
 
 *    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
+    *   **Standardstufe**
 
 
-*    *   GKL
+*    *   **Erd- und Obergeschoss, nicht unterkellert**
 
-    *   Ausstattungsstandard
+    *   **1**
 
-    *   einf.
+    *   **2**
 
-    *   mittel
+    *   **3**
 
-    *   geh.
+    *   **4**
 
-    *   einf.
+    *   **5**
 
-    *   mittel
 
-    *   geh.
+*    *        ![bgbl1_2015_j1834-1_0100.jpg](bgbl1_2015_j1834-1_0100.jpg)
+    *   Dachgeschoss ausgebaut
 
-    *   einf.
+    *
+    *
+    *
+    *
+    *
 
-    *   mittel
+*    *   1.31
 
-    *   geh.
+    *   freistehende Einfamilienhäuser
 
-    *   einf.
+    *   720
 
-    *   mittel
+    *   800
 
-    *   geh.
+    *   920
 
-    *   einf.
+    *   1105
 
-    *   mittel
+    *   1385
 
-    *   geh.
 
-    *   einf.
+*    *   1.311
 
-    *   mittel
+    *   freistehende Zweifamilienhäuser
+        1
 
-    *   geh.
+    *   756
+
+    *   840
+
+    *   966
+
+    *   1160
+
+    *   1454
+
+
+*    *   2.31
+
+    *   Doppel- und Reihenendhäuser
+
+    *   675
+
+    *   750
+
+    *   865
+
+    *   1040
+
+    *   1300
 
 
 *    *   3.31
 
-    *   Kaufhäuser, Warenhäuser
+    *   Reihenmittelhäuser
 
-    *   1070
+    *   635
 
-    *   1260
+    *   705
 
-    *   1670
+    *   810
 
-    *   1150
+    *   975
 
-    *   1350
+    *   1215
 
-    *   1800
 
-    *   1230
+*    *        ![bgbl1_2015_j1834-1_0110.jpg](bgbl1_2015_j1834-1_0110.jpg)
+    *   Dachgeschoss nicht ausgebaut
 
-    *   1440
+    *
+    *
+    *
+    *
+    *
 
-    *   1920
+*    *   1.32
 
-    *   1300
+    *   freistehende Einfamilienhäuser
 
-    *   1530
+    *   620
 
-    *   2030
+    *   690
 
-    *   1400
+    *   790
 
-    *   1640
+    *   955
 
-    *   2180
+    *   1190
 
-    *   1450
 
-    *   1710
+*    *   1.321
 
-    *   2270
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   651
+
+    *   725
+
+    *   830
+
+    *   1003
+
+    *   1250
+
+
+*    *   2.32
+
+    *   Doppel- und Reihenendhäuser
+
+    *   580
+
+    *   645
+
+    *   745
+
+    *   895
+
+    *   1120
 
 
 *    *   3.32
 
-    *   Ausstellungsgebäude
+    *   Reihenmittelhäuser
 
-    *   1630
+    *   545
 
-    *   1630
+    *   605
 
-    *   1630
-
-    *   1630
-
-    *   1630
-
-    *   1630
-
-    *   1730
-
-    *   1730
-
-    *   1730
-
-    *   1840
-
-    *   1840
-
-    *   2310
-
-    *   1970
-
-    *   1970
-
-    *   2480
-
-    *   2050
-
-    *   2050
-
-    *   2580
-
-
-*    *   3.33
-
-    *   Krankenhäuser
-
-    *   1610
-
-    *   2060
-
-    *   2530
-
-    *   1730
-
-    *   2210
-
-    *   2720
-
-    *   1850
-
-    *   2360
-
-    *   2910
-
-    *   1950
-
-    *   2500
-
-    *   3080
-
-    *   2100
-
-    *   2680
-
-    *   3310
-
-    *   2180
-
-    *   2800
-
-    *   3450
-
-
-*    *   3.34
-
-    *   Vereinsheime, Jugendheime,
-        Tagesstätten
-
-    *   1140
-
-    *   1140
-
-    *   1140
-
-    *   1140
-
-    *   1260
-
-    *   1470
-
-    *   1220
-
-    *   1350
-
-    *   1570
-
-    *   1300
-
-    *   1430
-
-    *   1670
-
-    *   1390
-
-    *   1530
-
-    *   1790
-
-    *   1450
-
-    *   1600
-
-    *   1860
-
-
-*    *   3.351
-
-    *   Parkhäuser (offene Ausführung, Parkpaletten), Tankstellen
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   550
-
-    *   590
-
-    *   590
-
-    *   590
-
-    *   620
-
-    *   620
-
-    *   620
-
-    *   670
-
-    *   670
-
-    *   670
-
-    *   700
-
-    *   700
-
-    *   700
-
-
-*    *   3.352
-
-    *   Parkhäuser
-        (geschlossene Ausführung)
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   680
-
-    *   730
-
-    *   730
-
-    *   730
-
-    *   770
-
-    *   770
-
-    *   770
-
-    *   830
-
-    *   830
-
-    *   830
-
-    *   870
-
-    *   870
-
-    *   870
-
-
-*    *   3.353
-
-    *   Tiefgaragen\*)
-
-    *   600
-
-    *   600
-
-    *   600
-
-    *   600
-
-    *   780
-
-    *   780
-
-    *   650
+    *   695
 
     *   840
-
-    *   840
-
-    *   680
-
-    *   890
-
-    *   890
-
-    *   730
-
-    *   950
-
-    *   950
-
-    *   770
-
-    *   990
-
-    *   990
-
-
-*    *   3.36
-
-    *   Funktionsgebäude für Sport-
-        anlagen (z. B. Sanitär- und
-        Umkleideräume)
-
-    *   900
-
-    *   900
-
-    *   900
-
-    *   900
-
-    *   1140
-
-    *   1560
-
-    *   960
-
-    *   1210
-
-    *   1670
-
-    *   1020
-
-    *   1290
-
-    *   1770
-
-    *   1090
-
-    *   1380
-
-    *   1900
-
-    *   1140
-
-    *   1430
-
-    *   1980
-
-
-*    *   3.37
-
-    *   Hallenbäder
-
-    *   1550
-
-    *   1550
-
-    *   1550
-
-    *   1550
-
-    *   2050
-
-    *   2260
-
-    *   1660
-
-    *   2190
-
-    *   2420
-
-    *   1760
-
-    *   2320
-
-    *   2570
-
-    *   1890
-
-    *   2490
-
-    *   2750
-
-    *   1960
-
-    *   2600
-
-    *   2870
-
-
-*    *   3.381
-
-    *   Industriegebäude, Werkstätten ohne Büro- und Sozialtrakt
-
-    *   510
-
-    *   510
-
-    *   510
-
-    *   510
-
-    *   710
-
-    *   830
-
-    *   550
-
-    *   750
-
-    *   880
-
-    *   590
-
-    *   800
-
-    *   940
-
-    *   630
-
-    *   860
-
-    *   1020
-
-    *   680
-
-    *   890
 
     *   1050
 
 
-*    *   3.382
+*    *        ![bgbl1_2015_j1834-1_0120.jpg](bgbl1_2015_j1834-1_0120.jpg)
+    *   Flachdach oder flach geneigtes Dach
 
-    *   Industriegebäude, Werkstätten mit Büro- und Sozialtrakt
+    *
+    *
+    *
+    *
+    *
 
-    *   740
+*    *   1.33
 
-    *   740
+    *   freistehende Einfamilienhäuser
 
-    *   740
+    *   785
 
-    *   740
-
-    *   960
-
-    *   1100
-
-    *   780
-
-    *   1020
-
-    *   1160
-
-    *   830
-
-    *   1080
-
-    *   1250
-
-    *   880
-
-    *   1160
-
-    *   1330
-
-    *   940
-
-    *   1220
-
-    *   1410
-
-
-*    *   3.391
-
-    *   Lagergebäude (Kaltlager)
-
-    *   440
-
-    *   440
-
-    *   440
-
-    *   440
-
-    *   820
-
-    *   820
-
-    *   480
-
-    *   900
-
-    *   900
-
-    *   510
-
-    *   930
-
-    *   930
-
-    *   550
-
-    *   1010
-
-    *   1010
-
-    *   590
-
-    *   1060
-
-    *   1060
-
-
-*    *   3.392
-
-    *   Lagergebäude (Warmlager)
-
-    *   570
-
-    *   570
-
-    *   570
-
-    *   570
-
-    *   960
-
-    *   960
-
-    *   610
-
-    *   1040
-
-    *   1040
-
-    *   650
-
-    *   1090
-
-    *   1090
-
-    *   680
-
-    *   1180
-
-    *   1180
-
-    *   740
-
-    *   1220
-
-    *   1220
-
-
-*    *   3.393
-
-    *   Lagergebäude (Warmlager
-        mit Büro- und Sozialtrakt)
-
-    *   910
-
-    *   910
-
-    *   910
-
-    *   910
-
-    *   1230
-
-    *   1230
-
-    *   950
-
-    *   1320
-
-    *   1320
-
-    *   1030
-
-    *   1400
-
-    *   1400
-
-    *   1080
-
-    *   1510
-
-    *   1510
-
-    *   1160
-
-    *   1600
-
-    *   1600
-
-
-*    *
-    *   \*) Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
-        Tiefgaragen: BGF = tatsächliche Stellplatzfläche (Länge x Breite) x
-        1,55
-
-
-
-
-*    *   3.4
-
-    *   Typisierte Gesamtnutzungsdauer = 40 Jahre
-
-
-*    *
-    *   Baujahr
-
-    *   bis 1945
-
-    *   1946 – 1959
-
-    *   1960 – 1969
-
-    *   1970 – 1984
-
-    *   1985 – 1999
-
-    *   ab 2000
-
-
-*    *   GKL
-
-    *   Ausstattungsstandard
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-    *   einf.
-
-    *   mittel
-
-    *   geh.
-
-
-*    *   3.41
-
-    *   Einkaufsmärkte, Großmärkte,
-        Discountermärkte, Läden,
-        Apotheken, Boutiquen u. Ä.
-
-    *   710
-
-    *   710
-
-    *   710
-
-    *   710
-
-    *   950
-
-    *   950
-
-    *   760
-
-    *   1020
-
-    *   1020
-
-    *   800
-
-    *   1090
-
-    *   1220
-
-    *   860
-
-    *   1170
-
-    *   1310
-
-    *   900
-
-    *   1210
-
-    *   1370
-
-
-*    *   3.42
-
-    *   Tennishallen
-
-    *   580
-
-    *   580
-
-    *   580
-
-    *   580
-
-    *   680
-
-    *   680
-
-    *   620
-
-    *   730
-
-    *   730
-
-    *   650
-
-    *   770
-
-    *   890
-
-    *   700
-
-    *   830
-
-    *   950
-
-    *   730
-
-    *   860
+    *   870
 
     *   1000
 
+    *   1205
 
-*    *   3.43
-
-    *   Reitsporthallen mit Stallungen, andere Stallungen, ehemalige
-        landwirtschaftliche Mehrzweckhallen, Scheunen u. Ä.
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   220
-
-    *   240
-
-    *   290
-
-    *   240
-
-    *   260
-
-    *   310
-
-    *   250
-
-    *   270
-
-    *   330
+    *   1510
 
 
+*    *   1.331
+
+    *   freistehende Zweifamilienhäuser
+        1
+
+    *   824
+
+    *   914
+
+    *   1050
+
+    *   1265
+
+    *   1586
 
 
-*    *   4.
+*    *   2.33
 
-    *   Kleingaragen und Carports (EUR/m
-        2                      BGF)
+    *   Doppel- und Reihenendhäuser
+
+    *   735
+
+    *   820
+
+    *   940
+
+    *   1135
+
+    *   1415
+
+
+*    *   3.33
+
+    *   Reihenmittelhäuser
+
+    *   690
+
+    *   765
+
+    *   880
+
+    *   1060
+
+    *   1325
+
+
+
+
+
+*    *   **4**
+
+    *   Wohnungseigentum und vergleichbares Teileigentum in
+        Mehrfamilienhäusern
+        **(ohne Tiefgaragenplatz)/Mehrfamilienhäuser**
+        Für Wohnungseigentum in Gebäuden, die wie Ein- und Zweifamilienhäuser
+        im Sinne des § 181 Absatz 2 des Bewertungsgesetzes gestaltet sind,
+        werden die Regelherstellungskosten der Ein- und Zweifamilienhäuser
+        zugrunde gelegt.
+        Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für
+        Wohnungseigentum in Mehrfamilienhäusern: BGF = 1,55 x Wohnfläche
+
+
+
 
 
 *    *
-    *   Typisierte Gesamtnutzungsdauer = 50 Jahre
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   4.1
+
+    *   Mehrfamilienhäuser mit bis zu 6 WE
+
+    *   650
+
+    *   720
+
+    *   825
+
+    *   985
+
+    *   1190
+
+
+*    *   4.2
+
+    *   Mehrfamilienhäuser mit 7 bis 20 WE
+
+    *   600
+
+    *   665
+
+    *   765
+
+    *   915
+
+    *   1105
+
+
+*    *   4.3
+
+    *   Mehrfamilienhäuser mit mehr als 20 WE
+
+    *   590
+
+    *   655
+
+    *   755
+
+    *   900
+
+    *   1090
+
+
+
+
+*    *   **5-18**
+
+    *   **Gemischt genutzte Grundstücke, Geschäftsgrundstücke und sonstige
+        bebaute Grundstücke**
+
+
 
 
 *    *
-    *   Baujahr
+    *   **Standardstufe**
 
-    *   alle
 
-    *
+*    *   **1**
 
-*    *   GKL
+    *   **2**
 
-    *   Ausstattungsstandard
+    *   **3**
 
-    *   alle
+    *   **4**
 
-    *
+    *   **5**
 
-*    *   4.11
 
-    *   Kleingaragen, freistehend
+*    *   5.1
 
-    *   320
+    *   Gemischt genutzte Grundstücke (Wohnhäuser mit Mischnutzung)
 
-    *
+    *   605
 
-*    *   4.12
+    *   675
+
+    *   860
+
+    *   1085
+
+    *   1375
+
+
+*    *   5.2
+
+    *[^f791494_03_BJNR010350934BJNE027802116]
+   Banken und ähnliche Geschäftshäuser mit Wohnanteil
+
+    *   625
+
+    *   695
+
+    *   890
+
+    *   1375
+
+    *   1720
+
+
+*    *   5.3
+
+    *   Banken und ähnliche Geschäftshäuser ohne Wohnanteil
+
+    *   655
+
+    *   730
+
+    *   930
+
+    *   1520
+
+    *   1900
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   6.1
+
+    *   Bürogebäude/Verwaltungsgebäude
+
+    *   735
+
+    *   815
+
+    *   1040
+
+    *   1685
+
+    *   1900
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   7.1
+
+    *   Gemeindezentren/Vereinsheime
+
+    *   795
+
+    *   885
+
+    *   1130
+
+    *   1425
+
+    *   1905
+
+
+*    *   7.2
+
+    *   Saalbauten/Veranstaltungsgebäude
+
+    *   955
+
+    *   1060
+
+    *   1355
+
+    *   1595
+
+    *   2085
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   8.1
+
+    *   Kindergärten
+
+    *   915
+
+    *   1020
+
+    *   1300
+
+    *   1495
+
+    *   1900
+
+
+*    *   8.2
+
+    *   Allgemeinbildende Schulen, Berufsbildende Schulen, Hochschulen
+
+    *   1020
+
+    *   1135
+
+    *   1450
+
+    *   1670
+
+    *   2120
+
+
+*    *   8.3
+
+    *   Sonderschulen
+
+    *   1115
+
+    *   1240
+
+    *   1585
+
+    *   1820
+
+    *   2315
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   9.1
+
+    *   Wohnheime/Internate
+
+    *   705
+
+    *   785
+
+    *   1000
+
+    *   1225
+
+    *   1425
+
+
+*    *   9.2
+
+    *   Alten-/Pflegeheime
+
+    *   825
+
+    *   915
+
+    *   1170
+
+    *   1435
+
+    *   1665
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   10.1
+
+    *   Krankenhäuser/Kliniken
+
+    *   1210
+
+    *   1345
+
+    *   1720
+
+    *   2080
+
+    *   2765
+
+
+*    *   10.2
+
+    *   Tageskliniken/Ärztehäuser
+
+    *   1115
+
+    *   1240
+
+    *   1585
+
+    *   1945
+
+    *   2255
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   11.1
+
+    *   Beherbergungsstätten/Hotels/Verpflegungseinrichtungen
+
+    *   975
+
+    *   1085
+
+    *   1385
+
+    *   1805
+
+    *   2595
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   12.1
+
+    *   Sporthallen (Einfeldhallen)
+
+    *   930
+
+    *   1035
+
+    *   1320
+
+    *   1670
+
+    *   1955
+
+
+*    *   12.2
+
+    *   Sporthallen (Dreifeldhallen/Mehrzweckhallen)
+
+    *   1050
+
+    *   1165
+
+    *   1490
+
+    *   1775
+
+    *   2070
+
+
+*    *   12.3
+
+    *   Tennishallen
+
+    *   710
+
+    *   790
+
+    *   1010
+
+    *   1190
+
+    *   1555
+
+
+*    *   12.4
+
+    *   Freizeitbäder/Kur- und Heilbäder
+
+    *   1725
+
+    *   1920
+
+    *   2450
+
+    *   2985
+
+    *   3840
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   13.1
+
+    *   Verbrauchermärkte
+
+    *   510
+
+    *   565
+
+    *   720
+
+    *   870
+
+    *   1020
+
+
+*    *   13.2
+
+    *   Kauf-/Warenhäuser
+
+    *   930
+
+    *   1035
+
+    *   1320
+
+    *   1585
+
+    *   1850
+
+
+*    *   13.3
+
+    *   Autohäuser ohne Werkstatt
+
+    *   665
+
+    *   735
+
+    *   940
+
+    *   1240
+
+    *   1480
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   14.1
+
+    *[^f791494_04_BJNR010350934BJNE027802116]
+   Einzelgaragen/Mehrfachgaragen
+
+    *   245
+
+    *   485
+
+    *   780
+
+
+*    *   14.2
+
+    *[^f791494_05_BJNR010350934BJNE027802116]
+   Hochgaragen
+
+    *   480
+
+    *   655
+
+    *   780
+
+
+*    *   14.3
+
+    *   Tiefgaragen
+        4
+
+    *   560
+
+    *   715
+
+    *   850
+
+
+*    *   14.4
+
+    *   Nutzfahrzeuggaragen
+
+    *   530
+
+    *   680
+
+    *   810
+
+
+*    *   14.5
 
     *   Carports
 
     *   190
 
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   15.1
+
+    *   Betriebs-/Werkstätten, eingeschossig
+
+    *   685
+
+    *   760
+
+    *   970
+
+    *   1165
+
+    *   1430
+
+
+*    *   15.2
+
+    *   Betriebs-/Werkstätten, mehrgeschossig ohne Hallenanteil
+
+    *   640
+
+    *   715
+
+    *   910
+
+    *   1090
+
+    *   1340
+
+
+*    *   15.3
+
+    *   Betriebs-/Werkstätten, mehrgeschossig, hoher Hallenanteil
+
+    *   435
+
+    *   485
+
+    *   620
+
+    *   860
+
+    *   1070
+
+
+*    *   15.4
+
+    *   Industrielle Produktionsgebäude, Massivbauweise
+
+    *   670
+
+    *   745
+
+    *   950
+
+    *   1155
+
+    *   1440
+
+
+*    *   15.5
+
+    *   Industrielle Produktionsgebäude, überwiegend Skelettbauweise
+
+    *   495
+
+    *   550
+
+    *   700
+
+    *   965
+
+    *   1260
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   16.1
+
+    *   Lagergebäude ohne Mischnutzung, Kaltlager
+
+    *   245
+
+    *   275
+
+    *   350
+
+    *   490
+
+    *   640
+
+
+*    *   16.2
+
+    *[^f791494_06_BJNR010350934BJNE027802116]
+   Lagergebäude mit bis zu 25 % Mischnutzung
+
+    *   390
+
+    *   430
+
+    *   550
+
+    *   690
+
+    *   880
+
+
+*    *   16.3
+
+    *   Lagergebäude mit mehr als 25 % Mischnutzung
+        5
+
+    *   625
+
+    *   695
+
+    *   890
+
+    *   1095
+
+    *   1340
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   17.1
+
+    *   Museen
+
+    *   1325
+
+    *   1475
+
+    *   1880
+
+    *   2295
+
+    *   2670
+
+
+*    *   17.2
+
+    *   Theater
+
+    *   1460
+
+    *   1620
+
+    *   2070
+
+    *   2625
+
+    *   3680
+
+
+*    *   17.3
+
+    *   Sakralbauten
+
+    *   1185
+
+    *   1315
+
+    *   1510
+
+    *   2060
+
+    *   2335
+
+
+*    *   17.4
+
+    *   Friedhofsgebäude
+
+    *   1035
+
+    *   1150
+
+    *   1320
+
+    *   1490
+
+    *   1720
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   18.1
+
+    *   Reithallen
+
+    *   235
+
+    *   260
+
+    *   310
+
+
+*    *   18.2
+
+    *   ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen, u. Ä.
+
+    *   245
+
+    *   270
+
+    *   350
+
+
+
+
+
+*    *   **19**
+
+    *   **Teileigentum**
+        Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den
+        vorstehenden Gebäudearten zuzuordnen.
+
+
+
+
+*    *   **20**
+
+    *   **Auffangklausel**
+        Regelherstellungskosten für nicht aufgeführte Gebäudearten sind aus
+        den Regelherstellungskosten vergleichbarer Gebäudearten abzuleiten.
+
+
+
+
+**III. Beschreibung der Gebäudestandards**
+
+Die Beschreibung der Gebäudestandards ist beispielhaft und dient der
+Orientierung. Sie kann nicht alle in der Praxis auftretenden
+Standardmerkmale aufführen. Es müssen nicht alle aufgeführten Merkmale
+zutreffen. Die in der Tabelle angegebenen Jahreszahlen beziehen sich
+auf die im jeweiligen Zeitraum gültigen Wärmeschutzanforderungen; in
+Bezug auf das konkrete Bewertungsobjekt ist zu prüfen, ob von diesen
+Wärmeschutzanforderungen abgewichen wird. Die Beschreibung der
+Gebäudestandards basiert auf dem Bezugsjahr der
+Normalherstellungskosten (2010).
+
+*    *   **1-5.1**
+
+    *   * **1.01-3.33**
+
+    *   **Ein- und Zweifamilienhäuser**
+
+
+*    *
+    *   * **4.1-5.1**
+
+    *   Wohnungseigentum und vergleichbares Teileigentum in
+        Mehrfamilienhäusern (ohne Tiefgaragenplatz)/Mehrfamilienhäuser sowie
+        gemischt genutzte Grundstücke
+        **(Wohnhäuser mit Mischnutzung)**
+
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+    *   **Wägungsanteil**
+
+
+*    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *   **nicht zeitgemäß**
+
+    *   **zeitgemäß**
+
+
+*    *   **einfachst**
+
+    *   **einfach**
+
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Holzfachwerk, Ziegelmauerwerk;
+        Fugenglattstrich, Putz, Verkleidung mit Faserzementplatten,
+        Bitumenschindeln oder einfachen Kunststoffplatten; kein oder deutlich
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1980)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. Gitterziegel oder Hohlblocksteine;
+        verputzt und gestrichen oder Holzverkleidung;
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1995)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. aus Leichtziegeln,
+        Kalksandsteinen, Gasbetonsteinen;
+        Edelputz;
+        Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995)
+
+    *   Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B.
+        Naturschiefer);
+        Wärmedämmung (nach ca. 2005)
+
+    *   aufwendig gestaltete Fassaden mit konstruktiver Gliederung
+        (Säulenstellungen, Erker etc.), Sichtbeton-Fertigteile,
+        Natursteinfassade, Elemente aus Kupfer-/
+        Eloxalblech, mehrgeschossige Glasfassaden; hochwertigste Dämmung (z.
+        B. Passivhausstandard)
+
+    *   23
+
+
+*    *   **Dach**
+
+    *   Dachpappe, Faserzementplatten/Wellplatten;
+        keine bis geringe Dachdämmung
+
+    *   einfache Betondachsteine oder Tondachziegel, Bitumenschindeln;
+        nicht zeitgemäße Dachdämmung (vor ca. 1995)
+
+    *   Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel,
+        Folienabdichtung;
+        Dachdämmung (nach ca. 1995);
+        Rinnen und Fallrohre aus Zinkblech;
+
+    *   glasierte Tondachziegel, Flachdachausbildung tlw. als Dachterrassen;
+        Konstruktion in Brettschichtholz, schweres Massivflachdach; besondere
+        Dachformen, z. B. Mansarden-, Walmdach; Aufsparrendämmung,
+        überdurchschnittliche Dämmung (nach ca. 2005)
+
+    *   hochwertige Eindeckung, z. B. aus Schiefer oder Kupfer, Dachbegrünung,
+        befahrbares Flachdach; hochwertigste Dämmung (z. B.
+        Passivhausstandard); Rinnen und Fallrohre aus Kupfer
+        *aufwendig gegliederte Dachlandschaft, sichtbare Bogendach-
+        konstruktionen
+
+    *   15
+
+
+*    *   **Fenster und Außentüren**
+
+    *   Einfachverglasung;
+        einfache Holztüren
+
+    *   Zweifachverglasung (vor ca. 1995);
+        Haustür mit nicht zeitgemäßem Wärmeschutz (vor ca. 1995)
+
+    *   Zweifachverglasung (nach ca. 1995), Rollläden (manuell); Haustür mit
+        zeitgemäßem Wärmeschutz (nach ca. 1995)
+
+    *   Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen, Rollläden
+        (elektr.);
+        höherwertige Türanlage z. B. mit Seitenteil, besonderer Einbruchschutz
+
+    *   große, feststehende Fensterflächen, Spezialverglasung (Schall- und
+        Sonnenschutz);
+        Außentüren in hochwertigen Materialien
+
+    *   11
+
+
+*    *   **Innenwände und -türen**
+
+    *   Fachwerkwände, einfache Putze/Lehmputze, einfache Kalkanstriche;
+        Füllungstüren, gestrichen, mit einfachen Beschlägen ohne Dichtungen
+
+    *   massive tragende Innenwände, nicht tragende Wände in Leichtbauweise
+        (z. B. Holzständerwände mit Gipskarton), Gipsdielen;
+        leichte Türen, Stahlzargen
+
+    *   nicht tragende Innenwände in massiver Ausführung bzw. mit Dämmmaterial
+        gefüllte Ständerkonstruktionen;
+        schwere Türen
+        *Holzzargen
+
+    *   Sichtmauerwerk; Massivholztüren, Schiebetürelemente, Glastüren,
+        strukturierte Türblätter
+        *Wandvertäfelungen (Holzpaneele)
+
+    *   gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder
+        geschwungene Wandpartien); Brandschutzverkleidung; raumhohe aufwendige
+        Türelemente
+        *Vertäfelungen (Edelholz, Metall), Akustikputz
+
+    *   11
+
+
+*    *   **Deckenkonstruktion und Treppen**
+
+    *   Holzbalkendecken ohne Füllung, Spalierputz;
+        Weichholztreppen in einfacher Art und Ausführung;
+        kein Trittschallschutz
+        *Weichholztreppen in einfacher Art und Ausführung;
+        kein Trittschallschutz
+
+    *   Holzbalkendecken mit Füllung, Kappendecken;
+        Stahl- oder Hartholztreppen in einfacher Art und Ausführung
+        *Stahl- oder Hartholztreppen in einfacher Art und Ausführung
+
+    *   *Beton- und Holzbalkendecken mit Tritt- und Luftschallschutz (z. B.
+        schwimmender Estrich); geradläufige Treppen aus Stahlbeton oder Stahl,
+        Harfentreppe, Trittschallschutz
+        *Betondecken mit Tritt- und Luftschallschutz (z. B. schwimmender
+        Estrich); einfacher Putz
+
+    *   *Decken mit größerer Spannweite, Deckenverkleidung
+        (Holzpaneele/Kassetten);
+        gewendelte Treppen aus Stahlbeton oder Stahl, Hartholztreppenanlage in
+        besserer Art und Ausführung
+        *zusätzlich Deckenverkleidung
+
+    *   Deckenvertäfelungen (Edelholz, Metall)
+        *Decken mit großen Spannweiten, gegliedert;
+        breite Stahlbeton-, Metall- oder Hartholztreppenanlage mit
+        hochwertigem Geländer
+
+    *   11
+
+
+*    *   **Fußböden**
+
+    *   ohne Belag
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden einfacher Art und
+        Ausführung
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden besserer Art und
+        Ausführung, Fliesen, Kunststeinplatten
+
+    *   Natursteinplatten, Fertigparkett, hochwertige Fliesen, Terrazzobelag,
+        hochwertige Massivholzböden auf gedämmter Unterkonstruktion
+
+    *   hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige
+        Edelholzböden auf gedämmter Unterkonstruktion
+
+    *   5
+
+
+*    *   **Sanitäreinrichtungen**
+
+    *   einfaches Bad mit Stand-WC;
+        Installation auf Putz; Ölfarbenanstrich, einfache PVC-Bodenbeläge
+
+    *   1 Bad mit WC, Dusche oder Badewanne;
+        einfache Wand- und Bodenfliesen, teilweise gefliest
+
+    *   Wand- und Bodenfliesen, raumhoch gefliest; Dusche und Badewanne
+        *1 Bad mit WC, Gäste-WC
+        *1 Bad mit WC je Wohneinheit
+
+    *   1–2 Bäder (*je Wohneinheit) mit tlw. zwei Waschbecken, tlw.
+        Bidet/Urinal, Gäste-WC, bodengleiche Dusche; Wand- und Bodenfliesen;
+        jeweils in gehobener Qualität
+
+    *   hochwertige Wand- und Bodenplatten (oberflächenstrukturiert, Einzel-
+        und Flächendekors)
+        *mehrere großzügige, hochwertige Bäder, Gäste-WC;*2 und mehr Bäder je
+        Wohneinheit
+
+    *   9
+
+
+*    *   **Heizung**
+
+    *   Einzelöfen, Schwerkraftheizung
+
+    *   Fern- oder Zentralheizung, einfache Warmluftheizung, einzelne
+        Gasaußenwandthermen, Nachtstromspeicher-, Fußbodenheizung (vor ca.
+        1995)
+
+    *   elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur-
+        oder Brennwertkessel
+
+    *   Fußbodenheizung, Solarkollektoren für Warmwassererzeugung
+        *zusätzlicher Kaminanschluss
+
+    *   Solarkollektoren für Warmwassererzeugung und Heizung,
+        Blockheizkraftwerk, Wärmepumpe, Hybrid-Systeme
+        *aufwendige zusätzliche Kaminanlage
+
+    *   9
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   sehr wenige Steckdosen, Schalter und Sicherungen, kein
+        Fehlerstromschutzschalter (FI-Schalter), Leitungen teilweise auf Putz
+
+    *   wenige Steckdosen, Schalter und Sicherungen
+
+    *   zeitgemäße Anzahl an Steckdosen und Lichtauslässen, Zählerschrank (ab
+        ca. 1985) mit Unterverteilung und Kippsicherungen
+
+    *   zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen,
+        dezentrale Lüftung mit Wärmetauscher, mehrere LAN- und
+        Fernsehanschlüsse
+        *Personenaufzugsanlagen
+
+    *   Video- und zentrale Alarmanlage, zentrale Lüftung mit Wärmetauscher,
+        Klimaanlage, Bussystem
+        *aufwendige Personenaufzugsanlagen
+
+    *   6
+
+
+
+
+*    *   **5.2-17.4**
+
+    *   * **5.2-6.1**
+
+    *   **Banken und ähnliche Geschäftshäuser,
+        Bürogebäude/Verwaltungsgebäude**
+
+
+*    *
+    *   * **7.1-8.3**
+
+    *   **Gemeindezentren/Vereinsheime, Saalbauten/Veranstaltungsgebäude,
+        Kindergärten, Schulen**
+
+
+*    *
+    *   * **9.1-11.1**
+
+    *   **Wohnheime, Alten-/Pflegeheime, Krankenhäuser, Tageskliniken,
+        Beherbergungsstätten, Hotels, Verpflegungseinrichtungen**
+
+
+*    *
+    *   * **12.1-12.4**
+
+    *   **Sporthallen, Tennishallen, Freizeitbäder/Kur- und Heilbäder**
+
+
+*    *
+    *   * **13.1-13.3**
+
+    *   **Verbrauchermärkte, Kauf-/Warenhäuser, Autohäuser**
+
+
+*    *
+    *   * **15.1-16.3**
+
+    *   **Betriebs-/Werkstätten, Produktionsgebäude, Lagergebäude**
+
+
+*    *
+    *   * **17.1-17.4**
+
+    *   **Museen, Theater, Sakralbauten, Friedhofsgebäude**
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *
+    *   **1**
+
+    *   **2**
+
+    *   **3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **nicht zeitgemäß**
+
+    *   **zeitgemäß**
+
+
+*    *
+    *   **einfachst**
+
+    *   **einfach**
+
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Mauerwerk mit Putz oder mit Fugenglattstrich und Anstrich; einfache
+        Wände,
+        Holz-, Blech-, Faserzementbekleidung,
+        Bitumenschindeln oder einfache Kunststoffplatten; kein oder deutlich
+        nicht zeitgemäßer Wärmeschutz (vor ca. 1980)
+
+    *   ein-/zweischaliges Mauerwerk, z. B. Gitterziegel oder Hohlblocksteine;
+        verputzt und gestrichen oder Holzverkleidung; einfache Metall-
+        Sandwichelemente; nicht zeitgemäßer Wärmeschutz (vor ca. 1995)
+
+    *   Wärmedämmverbundsystem oder Wärmedämmputz (nach ca. 1995);
+        ein-/zweischalige Konstruktion, z. B. Mauerwerk aus Leichtziegeln,
+        Kalksandsteinen, Gasbetonsteinen;
+        Edelputz; gedämmte Metall-Sandwichelemente
+
+    *   Verblendmauerwerk, zweischalig, hinterlüftet, Vorhangfassade (z. B.
+        Naturschiefer);
+        Wärmedämmung (nach ca. 2005)
+
+    *   Sichtbeton-Fertigteile, Natursteinfassade, Elemente aus
+        Kupfer-/Eloxalblech, mehrgeschossige Glasfassaden; stark
+        überdurchschnittliche Dämmung
+        *****aufwendig gestaltete Fassaden mit konstruktiver Gliederung
+        (Säulenstellungen, Erker etc.)
+        *Vorhangfassade aus Glas
+
+
+*    *   Konstruktion* ****
+
+    *   Holzkonstruktion in nicht zeitgemäßer statischer Ausführung
+
+    *   Mauerwerk, Stahl- oder Stahlbetonkonstruktion in nicht zeitgemäßer
+        statischer Ausführung
+
+    *   Stahl- und Betonfertigteile
+
+    *   überwiegend Betonfertigteile; große stützenfreie Spannweiten; hohe
+        Deckenhöhen; hohe Belastbarkeit der Decken und Böden
+
+    *   größere stützenfreie Spannweiten; hohe Deckenhöhen; höhere
+        Belastbarkeit der Decken und Böden
+
+
+*    *   **Dach**
+
+    *   Dachpappe, Faserzementplatten/Wellplatten, Blecheindeckung;
+        kein Unterdach; keine bis geringe Dachdämmung
+
+    *   einfache Betondachsteine oder Tondachziegel, Bitumenschindeln;
+        nicht zeitgemäße Dachdämmung (vor ca. 1995)
+
+    *   Faserzement-Schindeln, beschichtete Betondachsteine und Tondachziegel,
+        Folienabdichtung; Dachdämmung (nach ca. 1995); Rinnen und Fallrohre
+        aus Zinkblech
+
+    *   besondere Dachformen; überdurchschnittliche Dämmung (nach ca. 2005)
+        *****glasierte Tondachziegel
+        **schweres Massivflachdach
+        *Biberschwänze
+
+    *   hochwertige Eindeckung z. B. aus Schiefer oder Kupfer; Dachbegrünung;
+        aufwendig gegliederte Dachlandschaft
+        ***befahrbares Flachdach
+        **stark überdurchschnittliche Dämmung
+        ****hochwertigste Dämmung
+
+
+*    *   **Fenster- und Außentüren**
+
+    *   Einfachverglasung;
+        einfache Holztüren
+
+    *   Isolierverglasung, Zweifachverglasung (vor ca. 1995);
+        Eingangstüren mit nicht zeitgemäßem Wärmeschutz (vor ca. 1995)
+
+    *   Zweifachverglasung (nach ca. 1995)
+        *nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und
+        Tageskliniken: Automatik-
+        Eingangstüren
+        *kunstvoll gestaltetes farbiges Fensterglas, Ornamentglas
+
+    *   Dreifachverglasung, Sonnenschutzglas, aufwendigere Rahmen
+        *****höherwertige Türanlagen
+        *nur Beherbergungsstätten und Verpflegungseinrichtungen: Automatik-
+        Eingangstüren
+        *besonders große kunstvoll gestaltete farbige Fensterflächen
+
+    *   große, feststehende Fensterflächen, Spezialverglasung (Schall- und
+        Sonnenschutz)
+        ****Außentüren in hochwertigen Materialien
+        *Automatiktüren
+        *Automatik-Eingangstüren
+        *Bleiverglasung mit Schutzglas, farbige Maßfenster
+
+
+*    *   **Innenwände und -türen**
+
+    *   Fachwerkwände, einfache Putze/Lehmputze, einfache Kalkanstriche;
+        Füllungstüren, gestrichen, mit einfachen Beschlägen ohne Dichtungen
+
+    *   massive tragende Innenwände, nicht tragende Wände in Leichtbauweise
+        (z. B. Holzständerwände mit Gipskarton), Gipsdielen;
+        leichte Türen, Kunststoff-/ Holztürblätter, Stahlzargen
+
+    *   ****nicht tragende Innenwände in massiver Ausführung bzw. mit
+        Dämmmaterial gefüllte Ständerkonstruktionen
+        ***schwere Türen
+        *nicht tragende Innenwände in massiver Ausführung; schwere Türen
+        *schwere und große Türen
+        *nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und
+        Tageskliniken: Automatik-Flurzwischentüren; rollstuhlgerechte
+        Bedienung
+        *Anstrich
+
+    *   *****Sichtmauerwerk
+        **Massivholztüren, Schiebetürelemente, Glastüren
+        *Innenwände für flexible Raumkonzepte (größere statische Spannweiten
+        der Decken)
+        *nur Beherbergungsstätten und Verpflegungseinrichtungen: Automatik-
+        Flurzwischentüren; rollstuhlgerechte Bedienung
+        *rollstuhlgerechte Bedienung
+        *tlw. gefliest, Sichtmauerwerk; Schiebetürelemente, Glastüren
+        *schmiedeeiserne Türen
+
+    *   *****gestaltete Wandabläufe (z. B. Pfeilervorlagen, abgesetzte oder
+        geschwungene Wandpartien)
+        *Vertäfelungen (Edelholz, Metall), Akustikputz
+        *Wände aus großformatigen Glaselementen, Akustikputz, tlw.
+        Automatiktüren, rollstuhlgerechte Bedienung
+        *raumhohe aufwendige Türelemente; tlw. Automatiktüren,
+        rollstuhlgerechte Bedienung
+        ***Akustikputz, raumhohe aufwendige Türelemente
+        *rollstuhlgerechte Bedienung, Automatiktüren
+        *überwiegend gefliest; Sichtmauerwerk; gestaltete Wandabläufe
+
+
+*    *   **Deckenkonstruktion und Treppen**
+
+    *   Weichholztreppen in einfacher Art und Ausführung; kein
+        Trittschallschutz
+        ***Holzbalkendecken ohne Füllung, Spalierputz
+
+    *   Stahl- oder Hartholztreppen in einfacher Art und Ausführung
+        ******Holzbalkendecken mit Füllung, Kappendecken
+
+    *   ****Betondecken mit
+        Tritt- und Luftschallschutz; einfacher Putz
+        **abgehängte Decken
+        **Deckenverkleidung
+        *Betondecke
+
+    *   *höherwertige abgehängte Decken
+        ****Decken mit großen Spannweiten
+        *Deckenverkleidung
+
+    *   hochwertige breite Stahlbeton-/Metalltreppenanlage mit hochwertigem
+        Geländer
+        **Deckenvertäfelungen (Edelholz, Metall)
+        ****Decken mit größeren Spannweiten
+
+
+*    *   **Fußböden**
+
+    *   ohne Belag
+
+    *   Linoleum-, Teppich-, Laminat- und PVC-Böden einfacher Art und
+        Ausführung
+        *Holzdielen
+
+    *   ****Fliesen, Kunststeinplatten
+        **Linoleum- oder Teppich-Böden besserer Art und Ausführung
+        **Linoleum- oder PVC-
+        Böden besserer Art und Ausführung
+        *nur Sporthallen: Beton, Asphaltbeton, Estrich oder Gussasphalt auf
+        Beton; Teppichbelag, PVC;
+        nur Freizeitbäder/Heilbäder: Fliesenbelag
+        *Beton
+        *Betonwerkstein, Sandstein
+
+    *   ***Natursteinplatten, hochwertige Fliesen, Terrazzobelag, hochwertige
+        Massivholzböden auf gedämmter Unterkonstruktion
+        **Fertigparkett
+        *nur Sporthallen: hochwertigere flächenstatische Fußbodenkonstruktion,
+        Spezialteppich mit Gummigranulatauflage; hochwertigerer Schwingboden
+        *Estrich, Gussasphalt
+
+    *   ****hochwertiges Parkett, hochwertige Natursteinplatten, hochwertige
+        Edelholzböden auf gedämmter Unterkonstruktion
+        *nur Sporthallen: hochwertigste flächenstatische Fußbodenkonstruktion,
+        Spezialteppich mit Gummigranulatauflage; hochwertigster Schwingboden;
+        nur Freizeitbäder/Heilbäder: hochwertiger Fliesenbelag und
+        Natursteinboden
+        *beschichteter Beton oder Estrichboden; Betonwerkstein,
+        Verbundpflaster
+        *Marmor, Granit
+
+
+*    *   **Sanitäreinrichtungen**
+
+    *   einfache Toilettenanlagen (Stand-WC); Installation auf Putz;
+        Ölfarbenanstrich, einfache PVC-Bodenbeläge, WC und Bäderanlage
+        geschossweise
+
+    *   Toilettenanlagen in einfacher Qualität; Installation unter Putz; WCs
+        und Duschräume je Geschoss; einfache Wand- und Bodenfliesen, tlw.
+        gefliest
+
+    *   Sanitäreinrichtung in Standard-Ausführung
+        **ausreichende Anzahl von Toilettenräumen
+        *mehrere WCs und Duschbäder je Geschoss; Waschbecken im Raum
+        *wenige Toilettenräume und Duschräume bzw. Waschräume
+
+    *   Sanitäreinrichtung in besserer Qualität
+        **höhere Anzahl Toilettenräume
+        *je Raum ein Duschbad mit WC
+        nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser und
+        Tageskliniken: behindertengerecht
+
+    *   Sanitäreinrichtung in gehobener Qualität
+        **großzügige Toilettenanlagen jeweils mit Sanitäreinrichtung in
+        gehobener Qualität
+        *je Raum ein Duschbad mit WC in guter Ausstattung;
+        nur Wohnheime, Altenheime, Pflegeheime, Krankenhäuser
+
+
+*    *
+    *
+    *
+    *   **wenige Toilettenräume
+
+    *   *ausreichende Anzahl von Toilettenräumen und Duschräumen
+        **ausreichende Anzahl von Toilettenräumen
+
+    *   und Tageskliniken: behindertengerecht
+        *großzügige Toilettenanlagen und Duschräume mit Sanitäreinrichtung in
+        gehobener Qualität
+        *großzügige Toilettenanlagen mit Sanitäreinrichtung in gehobener
+        Qualität
+        *großzügige Toilettenanlagen
+
+
+*    *   **Heizung**
+
+    *   Einzelöfen, Schwerkraftheizung, dezentrale Warmwasserversorgung
+        *Elektroheizung im Gestühl
+
+    *   Zentralheizung mit Radiatoren (Schwerkraftheizung); einfache
+        Warmluftheizung, mehrere Ausblasöffnungen; Lufterhitzer mit
+        Wärmetauscher mit zentraler Kesselanlage, Fußbodenheizung (vor ca.
+        1995)
+        *einfache Warmluftheizung, eine Ausblasöffnung
+
+    *   elektronisch gesteuerte Fern- oder Zentralheizung, Niedertemperatur-
+        oder Brennwertkessel
+
+    *   Solarkollektoren für Warmwassererzeugung
+        *****Fußbodenheizung
+        *zusätzlicher Kaminanschluss
+
+    *   Solarkollektoren für Warmwassererzeugung und Heizung,
+        Blockheizkraftwerk, Wärmepumpe, Hybrid-
+        Systeme
+        ****Klimaanlage
+        *Kaminanlage
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   sehr wenige Steckdosen, Schalter und Sicherungen, kein
+        Fehlerstromschutzschalter (FI-Schalter), Leitungen auf Putz, einfache
+        Leuchten
+
+    *   wenige Steckdosen, Schalter und Sicherungen, Installation unter Putz
+
+    *   ***zeitgemäße Anzahl an Steckdosen und Lichtauslässen, Zählerschrank
+        (ab ca. 1985) mit Unterverteilung und Kippsicherungen; Kabelkanäle;
+        Blitzschutz
+        ***zeitgemäße Anzahl an Steckdosen und Lichtauslässen; Blitzschutz
+        **Personenaufzugsanlagen
+        *Teeküchen
+
+    *   zahlreiche Steckdosen und Lichtauslässe, hochwertige Abdeckungen
+        *****dezentrale Lüftung mit Wärmetauscher
+        *Lüftung mit Wärmetauscher
+        **mehrere LAN- und Fernsehanschlüsse
+        ***hochwertige Beleuchtung; Doppelboden mit Bodentanks zur
+        Verkabelung; ausreichende Anzahl von LAN-Anschlüssen
+
+    *   Video- und zentrale Alarmanlage, Klimaanlage, Bussystem
+        *****zentrale Lüftung mit Wärmetauscher
+        *Doppelboden mit Bodentanks zur Verkabelung
+        *aufwendige Personenaufzugsanlagen
+        ***aufwendige Aufzugsanlagen
+        *Küchen, Kantinen
+
+
+*    *
+    *
+    *
+    *
+    *   *Messverfahren von Verbrauch, Regelung von Raumtemperatur und
+        Raumfeuchte
+        ***Sonnenschutzsteuerung
+        **elektronische Zugangskontrolle; Personenaufzugsanlagen
+        **Messverfahren von Raumtemperatur, Raumfeuchte, Verbrauch,
+        Einzelraumregelung
+        *Kabelkanäle; kleinere Einbauküchen mit Kochgelegenheit,
+        Aufenthaltsräume; Aufzugsanlagen
+
     *
 
 
 
-*    *   5.
 
-    *   Teileigentum
+*    *   **14.2-14.4**
+
+    *   **14.2-14.4**
+
+    *   **Hoch-,Tief- und Nutzfahrzeuggaragen**
+
+
+
 
 
 *    *
-    *   Teileigentum ist in Abhängigkeit von der baulichen Gestaltung den
-        vorstehenden Gebäudeklassen zuzuordnen.
-
-
-
-
-*    *   6.
-
-    *   Auffangklausel
+    *   **Standardstufe**
 
 
 *    *
-    *   Regelherstellungskosten für nicht aufgeführte Gebäudeklassen sind aus
-        den Regelherstellungskosten vergleichbarer Gebäudeklassen abzuleiten.
+    *   **1-3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   offene Konstruktion
+
+    *   Einschalige Konstruktion
+
+    *   aufwendig gestaltete Fassaden mit konstruktiver Gliederung
+        (Säulenstellungen, Erker etc.)
+
+
+*    *   **Konstruktion**
+
+    *   Stahl- und Betonfertigteile
+
+    *   überwiegend Betonfertigteile; große stützenfreie Spannweiten
+
+    *   größere stützenfreie Spannweiten
+
+
+*    *   **Dach**
+
+    *   Flachdach, Folienabdichtung
+
+    *   Flachdachausbildung; Wärmedämmung
+
+    *   befahrbares Flachdach (Parkdeck)
+
+
+*    *   **Fenster und Außentüren**
+
+    *   einfache Metallgitter
+
+    *   begrünte Metallgitter, Glasbausteine
+
+    *   Außentüren in hochwertigen Materialien
+
+
+*    *   **Fußböden**
+
+    *   Beton
+
+    *   Estrich, Gussasphalt
+
+    *   beschichteter Beton oder Estrichboden
+
+
+*    *   **Sonstige technische Ausstattung**
+
+    *   Strom- und Wasseranschluss; Löschwasseranlage;
+        Treppenhaus; Brandmelder
+
+    *   Sprinkleranlage; Rufanlagen; Rauch- und Wärmeabzugsanlagen;
+        mechanische Be- und Entlüftungsanlagen; Parksysteme für zwei PKWs
+        übereinander; Personenaufzugsanlagen
+
+    *   Video- und zentrale Alarmanlage; Beschallung; Parksysteme für drei
+        oder mehr PKWs übereinander; aufwendigere Aufzugsanlagen
 
 
 
 
-### Anlage 25 (zu § 191 Abs. 2) Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Abs. 1 Nr. 1 BewG und Wohnungseigentum nach § 181 Abs. 1 Nr. 3 BewG
 
-(Fundstelle: BGBl. I 2008, 3077)
+*    *   **18.1-18.2**
+
+    *   * **18.1**
+
+    *   **Reithallen**
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
+*    *
+    *   ** **18.2**
 
+    *   **Ehemalige landwirtschaftliche Mehrzweckhallen, Scheunen u. Ä.**
+
+
+
+
+
+*    *
+    *   **Standardstufe**
+
+
+*    *
+    *   **1-3**
+
+    *   **4**
+
+    *   **5**
+
+
+*    *
+    *   **Basis**
+
+    *   **gehoben**
+
+    *   **aufwendig**
+
+
+*    *   **Außenwände**
+
+    *   Holzfachwerkwand; Holzstützen, Vollholz; Brettschalung oder
+        Profilblech auf Holz-Unterkonstruktion
+
+    *   Kalksandstein- oder Ziegel-Mauerwerk; Metallstützen, Profil; Holz-
+        Blockbohlen zwischen Stützen, Wärmedämmverbundsystem, Putz
+
+    *   Betonwand, Fertigteile, mehrschichtig; Stahlbetonstützen, Fertigteil;
+        Kalksandstein-Vormauerung oder Klinkerverblendung mit Dämmung
+
+
+*    *   **Dach**
+
+    *   Holzkonstruktionen, Nagelbrettbinder; Bitumenwellplatten, Profilblech
+
+    *   Stahlrahmen mit Holzpfetten; Faserzementwellplatten; Hartschaumplatten
+
+    *   Brettschichtholzbinder; Betondachsteine oder Dachziegel; Dämmung mit
+        Profilholz oder
+        Paneelen
+
+
+*    *   **Fenster und**
+        **Außentüren bzw.**
+        **-tore**
+
+    *   Lichtplatten aus Kunststoff
+        *Holz-Brettertüren
+        **Holztore
+
+    *   Kunststofffenster
+        *Windnetze aus Kunststoff, Jalousien mit Motorantrieb
+        **Metall-Sektionaltore
+
+    *   Türen und Tore mehrschichtig mit Wärmedämmung, Holzfenster, hoher
+        Fensteranteil
+
+
+*    *   **Innenwände**
+
+    *   keine
+
+    *   tragende bzw. nicht tragende Innenwände aus Holz; Anstrich
+
+    *   tragende bzw. nicht tragende Innenwände als Mauerwerk; Sperrholz,
+        Gipskarton, Fliesen
+
+
+*    *   **Decken-konstruk-**
+        **tionen**
+
+    *   keine
+
+    *   Holzkonstruktionen über Nebenräumen; Hartschaumplatten
+
+    *   Stahlbetonplatte über Nebenräumen; Dämmung mit Profilholz oder
+        Paneelen
+
+
+*    *   **Fußböden**
+
+    *   *Tragschicht: Schotter,
+        Trennschicht: Vlies,
+        Tretschicht: Sand
+        **Beton-Verbundsteinpflaster
+
+    *   *zusätzlich/alternativ:
+        Tragschicht: Schotter,
+        Trennschicht: Kunststoffgewebe,
+        Tretschicht: Sand und Holzspäne
+        **zusätzlich/alternativ: Stahlbetonplatte
+
+    *   *Estrich auf Dämmung, Fliesen oder Linoleum in Nebenräumen;
+        zusätzlich/alternativ:
+        Tragschicht: Schotter, Trennschicht: Kunststoffplatten, Tretschicht:
+        Sand und Textilflocken, Betonplatte im Bereich der Nebenräume
+        **zusätzlich/alternativ: Oberfläche maschinell geglättet, Anstrich
+
+
+*    *   **baukonstruktive**
+        Einbauten* ****
+
+    *   *Reithallenbande aus Nadelholz zur Abgrenzung der Reitfläche
+
+    *   *zusätzlich/alternativ: Vollholztafeln fest eingebaut
+
+    *   *zusätzlich/alternativ: Vollholztafeln, Fertigteile zum Versetzen
+
+
+*    *   **Abwasser-,**
+        **Wasser-,**
+        **Gasanlagen**
+
+    *   Regenwasserableitung
+
+    *   zusätzlich/alternativ: Abwasserleitungen, Sanitärobjekte (einfache
+        Qualität)
+
+    *   zusätzlich/alternativ: Sanitärobjekte (gehobene Qualität),
+        Gasanschluss
+
+
+*    *   **Wärme-**
+        **versorgungs-**
+        **anlagen**
+
+    *   keine
+
+    *   Raumheizflächen in Nebenräumen, Anschluss an Heizsystem
+
+    *   zusätzlich/alternativ: Heizkessel
+
+
+*    *   **luft-**
+        **technische**
+        **Anlagen**
+
+    *   keine
+
+    *   Firstentlüftung
+
+    *   Be- und Entlüftungsanlage
+
+
+*    *   **Starkstrom-**
+        **Anlage**
+
+    *   Leitungen, Schalter, Dosen, Langfeldleuchten
+
+    *   zusätzlich/alternativ: Sicherungen und Verteilerschrank
+
+    *   zusätzlich/alternativ: Metall-Dampfleuchten
+
+
+*    *   **nutzungs-**
+        **spezifische**
+        **Anlagen**
+
+    *   keine
+
+    *   *Reitbodenbewässerung (einfache Ausführung)
+        **Schüttwände aus Holz zwischen Stahlstützen, Trocknungsanlage für
+        Getreide
+
+    *   *Reitbodenbewässerung (komfortable Ausführung)
+        **Schüttwände aus Beton-Fertigteilen
+
+
+
+
+    ermittelt mit Korrekturfaktor 1,05 bezogen auf die
+    Regelherstellungskosten für freistehende Einfamilienhäuser
+[^f791494_02_BJNR010350934BJNE027802116]:     Anteil der Wohnfläche bis 20 Prozent
+[^f791494_03_BJNR010350934BJNE027802116]:     Standardstufe 1–3: Fertiggaragen; Standardstufe 4: Garagen in
+    Massivbauweise; Standardstufe 5: individuelle Garagen in
+    Massivbauweise mit besonderen Ausführungen wie Ziegeldach, Gründach,
+    Bodenbeläge, Fliesen o. ä., Wasser, Abwasser und Heizung
+[^f791494_04_BJNR010350934BJNE027802116]:     Umrechnungsfaktor hinsichtlich der Brutto-Grundfläche (BGF) für Tief-
+    und Hochgaragen: BGF = tatsächliche Stellplatzfläche (Länge x Breite)
+    x 1,55
+[^f791494_05_BJNR010350934BJNE027802116]:     Lagergebäude mit Mischnutzung sind Gebäude mit einem überwiegenden
+    Anteil an Lagernutzung und einem geringeren Anteil an anderen
+    Nutzungen wie Büro, Sozialräume, Ausstellungs- oder Verkaufsflächen
+    etc.
+[^f791494_06_BJNR010350934BJNE027802116]: 
+(zu § 191 Absatz 2)
+
+### Anlage 25 Wertzahlen für Ein- und Zweifamilienhäuser nach § 181 Absatz 1 Nummer 1 BewG und Wohnungseigentum nach § 181 Absatz 1 Nummer 3 BewG
+
+(Fundstelle: BGBl. I 2015, 1863)
+
+
+*    *
     *   Bodenrichtwert
 
 
-*    *   bis
+*    *   Vorläufiger Sachwert § 189 Absatz 3
+
+    *   bis
 
 
-*    *   15 EUR/m²
+*    *
+    *   15 EUR/m
+        2
 
-    *   30 EUR/m²
+    *   30 EUR/m
+        2
 
-    *   50 EUR/m²
+    *   50 EUR/m
+        2
 
-    *   100 EUR/m²
+    *   100 EUR/m
+        2
 
-    *   150 EUR/m²
+    *   150 EUR/m
+        2
 
 
 *    *   bis
@@ -24327,27 +25092,29 @@ Decken.
 
     *   1,1
 
-    *   1,1
+    *   1,2
 
-    *   1,1
+    *   1,2
 
-    *   1,1
+    *   1,2
 
 
-*    *   100 000 EUR
+*    *
+    *   100 000 EUR
+
+    *   0,8
 
     *   0,9
 
     *   1,0
 
-    *   1,0
-
     *   1,1
 
     *   1,1
 
 
-*    *   150 000 EUR
+*    *
+    *   150 000 EUR
 
     *   0,8
 
@@ -24357,10 +25124,11 @@ Decken.
 
     *   1,0
 
-    *   1,1
+    *   1,0
 
 
-*    *   200 000 EUR
+*    *
+    *   200 000 EUR
 
     *   0,7
 
@@ -24370,10 +25138,11 @@ Decken.
 
     *   0,9
 
-    *   1,0
+    *   0,9
 
 
-*    *   300 000 EUR
+*    *
+    *   300 000 EUR
 
     *   0,6
 
@@ -24383,10 +25152,25 @@ Decken.
 
     *   0,8
 
-    *   0,9
+    *   0,8
 
 
-*    *   400 000 EUR
+*    *
+    *   400 000 EUR
+
+    *   0,5
+
+    *   0,6
+
+    *   0,7
+
+    *   0,7
+
+    *   0,8
+
+
+*    *
+    *   500 000 EUR
 
     *   0,5
 
@@ -24397,66 +25181,57 @@ Decken.
     *   0,7
 
     *   0,8
-
-
-*    *   500 000 EUR
-
-    *   0,4
-
-    *   0,5
-
-    *   0,5
-
-    *   0,6
-
-    *   0,7
 
 
 *    *   über
 
     *   500 000 EUR
 
-    *   0,3
+    *   0,5
 
-    *   0,4
-
-    *   0,4
+    *   0,5
 
     *   0,5
 
     *   0,6
 
+    *   0,7
 
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
 
+
+*    *
     *   Bodenrichtwert
 
 
-*    *   bis
+*    *   Vorläufiger Sachwert § 189 Absatz 3
+
+    *   bis
 
     *   über
 
 
-*    *   200 EUR/m²
+*    *
+    *   200 EUR/m
+        2
 
-    *   300 EUR/m²
+    *   300 EUR/m
+        2
 
-    *   400 EUR/m²
+    *   400 EUR/m
+        2
 
-    *   500 EUR/m²
+    *   500 EUR/m
+        2
 
-    *   500 EUR/m²
+    *   500 EUR/m
+        2
 
 
 *    *   bis
 
     *   50 000 EUR
-
-    *   1,2
-
-    *   1,2
 
     *   1,3
 
@@ -24464,34 +25239,27 @@ Decken.
 
     *   1,4
 
+    *   1,4
 
-*    *   100 000 EUR
-
-    *   1,1
-
-    *   1,2
-
-    *   1,2
-
-    *   1,3
-
-    *   1,3
+    *   1,5
 
 
-*    *   150 000 EUR
-
-    *   1,1
-
-    *   1,1
+*    *
+    *   100 000 EUR
 
     *   1,1
 
     *   1,2
 
+    *   1,2
+
+    *   1,3
+
     *   1,3
 
 
-*    *   200 000 EUR
+*    *
+    *   150 000 EUR
 
     *   1,0
 
@@ -24504,7 +25272,22 @@ Decken.
     *   1,2
 
 
-*    *   300 000 EUR
+*    *
+    *   200 000 EUR
+
+    *   1,0
+
+    *   1,1
+
+    *   1,1
+
+    *   1,2
+
+    *   1,2
+
+
+*    *
+    *   300 000 EUR
 
     *   0,9
 
@@ -24517,7 +25300,8 @@ Decken.
     *   1,2
 
 
-*    *   400 000 EUR
+*    *
+    *   400 000 EUR
 
     *   0,8
 
@@ -24530,42 +25314,44 @@ Decken.
     *   1,1
 
 
-*    *   500 000 EUR
-
-    *   0,7
+*    *
+    *   500 000 EUR
 
     *   0,8
 
     *   0,9
 
-    *   0,9
+    *   1,0
 
     *   1,0
+
+    *   1,1
 
 
 *    *   über
 
     *   500 000 EUR
 
-    *   0,6
-
     *   0,7
-
-    *   0,8
 
     *   0,8
 
     *   0,9
 
+    *   0,9
+
+    *   1,0
 
 
-**Wertzahlen für Teileigentum,**
-**Geschäftsgrundstücke, gemischt genutzte Grundstücke**
-## **und sonstige bebaute Grundstücke nach § 181 Abs. 1 Nr. 3 bis 6
-BewG**
 
 
-*    *   Vorläufiger Sachwert § 189 Abs. 3
+Wertzahlen für Teileigentum,
+Geschäftsgrundstücke, gemischt genutzte Grundstücke und
+## sonstige bebaute Grundstücke nach § 181 Absatz 1 Nummer 3 bis 6
+BewG
+
+
+*    *   Vorläufiger Sachwert § 189 Absatz 3
 
     *
 
@@ -24573,24 +25359,51 @@ BewG**
 
     *   500 000 EUR
 
-    *   0,9
+    *   0,90
 
 
-*    *   3 000 000 EUR
+*    *
+    *   750 000 EUR
 
-    *   0,8
+    *   0,85
+
+
+*    *
+    *   1 000 000 EUR
+
+    *   0,80
+
+
+*    *
+    *   1 500 000 EUR
+
+    *   0,75
+
+
+*    *
+    *   2 000 000 EUR
+
+    *   0,70
+
+
+*    *
+    *   3 000 000 EUR
+
+    *   0,65
 
 
 *    *   über
 
     *   3 000 000 EUR
 
-    *   0,7
+    *   0,60
 
 
 
 
-### Anlage 26 (zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2) Abzinsungsfaktoren
+(zu § 194 Abs. 3 Satz 2 und Abs. 4 sowie § 195 Abs. 3 Satz 2)
+
+### Anlage 26 Abzinsungsfaktoren
 
 (Fundstelle: BGBl. I 2008, 3078 - 3080;
 bezüglich der einzelnen Änderungen vgl. Fußnote)

@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Controller/Geprüfte
   Controllerin
 jurabk: ContrPrV
 layout: default
@@ -8,13 +8,16 @@ slug: contrprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin (ContrPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Controller/Geprüfte Controllerin (ContrPrV)
 
 Ausfertigungsdatum
 :   2006-07-12
 
 Fundstelle
 :   BGBl I: 2006, 1579
+
+Geändert durch
+:   Art. 63 V v. 26.3.2014 I 274
 
 
 
@@ -386,7 +389,8 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 ## Anlage 1 (zu § 6 Abs. 3)
 
-(Fundstelle: BGBl. I 2006, 1582)
+(Fundstelle: BGBl. I 2006, 1582;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 ........
@@ -403,8 +407,15 @@ Abschluss
 Geprüfter Controller/Geprüfte Controllerin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
-Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579)
+Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579),
+die durch Artikel 63 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2) in Verbindung mit der Bekanntmachung
+vom 26. März 2014 (BAnz AT 02.04.2014 B1).
 Datum ............................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
@@ -412,7 +423,8 @@ Unterschrift(en) .................................
 
 ## Anlage 2 (zu § 6 Abs. 3)
 
-Fundstelle des Originaltextes: BGBl. I 2006, 1583
+(Fundstelle des Originaltextes: BGBl. I 2006, 1583;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 ........
@@ -429,9 +441,9 @@ Abschluss
 Geprüfter Controller/Geprüfte Controllerin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
-Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579)
-mit
-folgenden Ergebnissen bestanden:
+Controller/Geprüfte Controllerin vom 12. Juli 2006 (BGBl. I S. 1579),
+die durch Artikel 63 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist, mit folgenden Ergebnissen bestanden:
 Punkte \*)    Note
 1\.  Kostenrechnung und Kostenmanagement                .........
 .........
@@ -453,9 +465,14 @@ wurde gemäß
 abgelegte Prüfung in dem Handlungsbereich
 ....................................
 freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2) in Verbindung mit der Bekanntmachung
+vom 26. März 2014 (BAnz AT 02.04.2014 B1).
 Datum .....................................
 Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
+(Siegel der zuständigen Stelle)-----
 
 \*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     ................

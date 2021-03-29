@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3000
 
+Geändert durch
+:   Art. 9 Abs. 16 G v. 3.12.2015 I 2178
+
 
 ## Eingangsformel
 
@@ -25,9 +28,9 @@ Finanzen:
 
 ## § 1 Meldestelle
 
-Die Bundesfinanzdirektion West ist zuständige Behörde der
-Zollverwaltung im Sinne von § 18 Absatz 1 Satz 1 und Absatz 3 Satz 1
-des Arbeitnehmer-Entsendegesetzes.
+Die Generalzolldirektion ist zuständige Behörde der Zollverwaltung im
+Sinne von § 18 Absatz 1 Satz 1 und Absatz 3 Satz 1 des Arbeitnehmer-
+Entsendegesetzes.
 
 
 ## § 2 Inkrafttreten, Außerkrafttreten

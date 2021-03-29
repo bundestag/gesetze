@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Zweiten Staa
   Landesgrenze
 jurabk: GrÄndStVtrBW/BY2Bek
 layout: default
-origslug: gr_ndstvtrbw_by2bek
+origslug: graendstvtrbw_by2bek
 slug: graendstvtrbw_by2bek
 
 ---

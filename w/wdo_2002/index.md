@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2093
 
 Zuletzt geändert durch
-:   Art. 13 G v. 21.7.2012 I 1583
+:   Art. 6 Abs. 31 G v. 13.4.2017 I 872
 
 
 ## Einleitende Bestimmungen
@@ -34,10 +34,11 @@ in einem Wehrdienstverhältnis gestanden haben (frühere Soldaten),
 soweit sich aus diesem Gesetz nichts anderes ergibt.
 
 (3) Frühere Soldaten, die keinen Anspruch auf Ruhegehalt, jedoch einen
-sonstigen Anspruch auf Dienstzeitversorgung oder auf Berufsförderung
-haben, gelten bis zur Beendigung der Gewährung dieser Leistungen im
-Sinne dieses Gesetzes als Soldaten im Ruhestand. Die Leistungen, die
-sie erhalten, gelten als Ruhegehalt.
+sonstigen Anspruch auf Dienstzeitversorgung, Altersgeld nach dem
+Altersgeldgesetz vom 28. August 2013 (BGBl. I S. 3386) oder auf
+Berufsförderung haben, gelten bis zur Beendigung der Gewährung dieser
+Leistungen im Sinne dieses Gesetzes als Soldaten im Ruhestand. Die
+Leistungen, die sie erhalten, gelten als Ruhegehalt.
 
 
 ### § 2 Früher begangene Dienstvergehen
@@ -77,7 +78,7 @@ dürfen weder beigezogen noch verwertet werden.
 ### § 4 Beteiligung der Vertrauensperson
 
 Für die Beteiligung der Vertrauensperson bei Entscheidungen nach
-diesem Gesetz gelten die §§ 27 und 28 des
+diesem Gesetz gelten die §§ 28 und 29 des
 Soldatenbeteiligungsgesetzes. Das Ergebnis der Anhörung der
 Vertrauensperson ist dem Soldaten vor dessen Anhörung nach § 14 Abs. 1
 Satz 3, § 32 Abs. 5 Satz 1 oder nach § 93 Abs. 1 Satz 2 bekannt zu
@@ -482,8 +483,8 @@ richterliche Anordnung ergangen ist, auch die Tatsachen ergeben
 müssen, die zur Annahme einer Gefahr im Verzug geführt haben. Dem
 Soldaten ist auf Verlangen eine Abschrift auszuhändigen.
 
-(5) Im Übrigen gelten § 94 Abs. 1 und 2, § 95 Abs. 1, §§ 97, 109 und
-111k der Strafprozessordnung entsprechend.
+(5) Im Übrigen gelten § 94 Abs. 1 und 2, § 95 Abs. 1, §§ 97, 109, 111n
+und 111o der Strafprozessordnung entsprechend.
 
 
 #### § 21 Vorläufige Festnahme
@@ -745,7 +746,8 @@ Disziplinarvorgesetzte die Disziplinarbefugnis aus. Nächster
 Disziplinarvorgesetzter ist der unterste Vorgesetzte mit
 Disziplinarbefugnis, dem der Soldat unmittelbar unterstellt ist. Die
 Zuständigkeit für die disziplinare Ahndung von Dienstvergehen der
-Vertrauensperson regelt § 14 Abs. 2 des Soldatenbeteiligungsgesetzes.
+Vertrauensperson regelt § 15 Absatz 2 des
+Soldatenbeteiligungsgesetzes.
 
 (2) Wechselt vor Erledigung eines Falles das Unterstellungsverhältnis,
 wird der neue Disziplinarvorgesetzte zuständig. Dies gilt insbesondere
@@ -773,12 +775,12 @@ kann, weil
 
 
 3.  die Tat von einer Vertrauensperson begangen worden ist, es sei denn,
-    dass die Voraussetzungen des § 14 Abs. 2 Satz 2 des
+    dass die Voraussetzungen des § 15 Absatz 2 Satz 2 des
     Soldatenbeteiligungsgesetzes vorliegen,
 
 
 4.  der nächste Disziplinarvorgesetzte nicht erreichbar ist und die
-    militärische Disziplin ein sofortiges Einschreiten erfordert. Solche
+    militärische Disziplin ein sofortiges Einschreiten erfordert; solche
     Fälle sind unverzüglich dem sonst zuständigen Disziplinarvorgesetzten
     mitzuteilen.
 
@@ -1756,14 +1758,16 @@ Dienst befände. § 63 Abs. 1 Satz 3 gilt entsprechend.
 
 (1) Bei früheren Soldaten, die als Soldaten im Ruhestand gelten (§ 1
 Abs. 3), besteht die Kürzung des Ruhegehalts in der Kürzung der
-Übergangsbeihilfe, der Übergangsgebührnisse, der Ausgleichsbezüge oder
-des Unterhaltsbeitrags. Neben oder anstelle der Kürzung der
-Übergangsgebührnisse oder der Ausgleichsbezüge kann auf Kürzung der
-Übergangsbeihilfe erkannt werden.
+Übergangsbeihilfe, der Übergangsgebührnisse, der Ausgleichsbezüge, des
+Altersgelds nach dem Altersgeldgesetz oder des Unterhaltsbeitrags.
+Neben oder anstelle der Kürzung der Übergangsgebührnisse oder der
+Ausgleichsbezüge kann auf Kürzung der Übergangsbeihilfe erkannt
+werden.
 
-(2) Für die Kürzung der Übergangsgebührnisse, der Ausgleichsbezüge
-oder des Unterhaltsbeitrags gilt § 59 entsprechend. Die
-Übergangsbeihilfe kann bis zur Hälfte gekürzt werden.
+(2) Für die Kürzung der Übergangsgebührnisse, der Ausgleichsbezüge,
+des Altersgelds nach dem Altersgeldgesetz oder des Unterhaltsbeitrags
+gilt § 59 entsprechend. Die Übergangsbeihilfe kann bis zur Hälfte
+gekürzt werden.
 
 (3) Durch die Dienstgradherabsetzung erlöschen die Rechte aus einem
 Eingliederungs- oder Zulassungsschein, sofern der frühere Soldat noch
@@ -1773,9 +1777,9 @@ bleibt ein Anspruch auf Berufsförderung unberührt.
 (4) Mit der Aberkennung des Ruhegehalts verliert der frühere Soldat
 den Anspruch auf eine noch nicht gezahlte Übergangsbeihilfe sowie
 Ansprüche auf Übergangsgebührnisse, Ausgleichsbezüge,
-Unterhaltsbeitrag und Berufsförderung. Er verliert ferner seinen
-Dienstgrad und die sich daraus ergebenden Befugnisse. § 63 Abs. 4 gilt
-entsprechend.
+Unterhaltsbeitrag, Altersgeld nach dem Altersgeldgesetz und
+Berufsförderung. Er verliert ferner seinen Dienstgrad und die sich
+daraus ergebenden Befugnisse. § 63 Abs. 4 gilt entsprechend.
 
 
 #### 2. - Wehrdienstgerichte
@@ -2120,14 +2124,15 @@ Verwaltungsgerichtsordnung, soweit sich aus diesem Gesetz nichts
 anderes ergibt.
 
 (2) Bei den Wehrdienstsenaten können nur Richter mitwirken, die vom
-Bundesministerium der Justiz hierfür bestimmt sind. Die Bestimmung
-wird bei der Übertragung des Richteramtes beim
-Bundesverwaltungsgericht getroffen. Sie kann auf Vorschlag oder mit
-Zustimmung des Präsidiums des Bundesverwaltungsgerichts auch später
-ergehen oder aufgehoben werden. Durch Beschluss des Präsidiums können
-Richter anderer Senate auch zu zeitweiligen Mitgliedern eines
-Wehrdienstsenats bestellt werden, wenn dieser infolge Verhinderung
-seiner Mitglieder oder regelmäßigen Vertreter beschlussunfähig ist.
+Bundesministerium der Justiz und für Verbraucherschutz hierfür
+bestimmt sind. Die Bestimmung wird bei der Übertragung des
+Richteramtes beim Bundesverwaltungsgericht getroffen. Sie kann auf
+Vorschlag oder mit Zustimmung des Präsidiums des
+Bundesverwaltungsgerichts auch später ergehen oder aufgehoben werden.
+Durch Beschluss des Präsidiums können Richter anderer Senate auch zu
+zeitweiligen Mitgliedern eines Wehrdienstsenats bestellt werden, wenn
+dieser infolge Verhinderung seiner Mitglieder oder regelmäßigen
+Vertreter beschlussunfähig ist.
 
 (3) Die Wehrdienstsenate entscheiden in der Besetzung von drei
 Richtern und zwei ehrenamtlichen Richtern, bei Beschlüssen außerhalb

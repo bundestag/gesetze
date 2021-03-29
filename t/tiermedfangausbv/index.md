@@ -591,8 +591,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 2526 - 2532)
 
@@ -1536,8 +1537,9 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Tiermedizinischen Fachangestellten/zur Tiermedizinischen Fachangestellten - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 2533 - 2536)
 

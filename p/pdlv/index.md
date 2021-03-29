@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2178
 
+Geändert durch
+:   Art. 170 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -159,7 +162,7 @@ Verfahrens Streitfälle angemessen und zügig geregelt werden können.
 gütlichen Einigung an. Das Verfahren endet mit einer Einigung der
 Parteien oder mit der Feststellung der Regulierungsbehörde, dass eine
 Einigung der Parteien nicht zustande gekommen ist. Dieses Ergebnis ist
-den Parteien schriftlich mitzuteilen.
+den Parteien schriftlich oder elektronisch mitzuteilen.
 
 (4) Jede Partei trägt die ihr durch die Teilnahme am Verfahren
 entstandenen Kosten.

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 3107
 
 Zuletzt geändert durch
-:   Art. 10 V v. 22.2.2006 I 444
+:   Art. 6 V v. 5.7.2017 I 2272
 
 Mit dieser Verordnung werden Bestimmungen der Richtlinie 1999/4/EG
 des Europäischen Parlaments und des Rates vom 22. Februar 1999 über
@@ -61,8 +61,18 @@ gewerbsmäßig in den Verkehr gebracht zu werden.
 ## § 2 Kennzeichnung
 
 (1) Für die in der Anlage aufgeführten Erzeugnisse sind die dort
-genannten Bezeichnungen Verkehrsbezeichnungen im Sinne der
-Lebensmittel-Kennzeichnungsverordnung.
+genannten Bezeichnungen Bezeichnungen der Lebensmittel nach der
+Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung.
 
 (2) Die Angabe "konzentriert" darf für die Kennzeichnung von Kaffee-
 Extrakten und Zichorien-Extrakten nur bei
@@ -77,12 +87,12 @@ Extrakten und Zichorien-Extrakten nur bei
 
 
 in einem Kilogramm enthält, verwendet werden. Die Angabe nach Satz 1
-ist in Verbindung mit der Verkehrsbezeichnung anzugeben.
+ist in Verbindung mit der Bezeichnung des Lebensmittels anzugeben.
 
 (3) In der Anlage aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in
 den Verkehr gebracht werden, wenn zusätzlich zu den nach der
-Lebensmittel-Kennzeichnungsverordnung vorgeschriebenen Angaben gemäß
-Absatz 4 Satz 1 Nr. 1 und Satz 2 angegeben sind:
+Verordnung (EU) Nr. 1169/2011 vorgeschriebenen Angaben gemäß Absatz 4
+Satz 1 Nr. 1 und Satz 2 angegeben sind:
 
 1.  das Wort "entkoffeiniert" bei
 
@@ -128,18 +138,12 @@ Werden andere Zuckerarten als Saccharose verwendet, gilt Satz 1 Nr. 5
 und 6 entsprechend mit der Maßgabe, dass statt des Wortes "Zucker" die
 betreffende Zuckerart anzugeben ist.
 
-(4) Für die Art und Weise der Kennzeichnung nach Absatz 3 gilt
-
-1.  § 3 Abs. 3 Satz 1, 2 und 3 erster Halbsatz und
-
-
-2.  § 3 Abs. 4
-
-
-
-der Lebensmittel-Kennzeichnungsverordnung entsprechend. Die Angaben
-nach Absatz 3 Nr. 1, 5 und 6 sind im gleichen Sichtfeld wie die
-Verkehrsbezeichnung anzubringen.
+(4) Für die Art und Weise der Kennzeichnung nach Absatz 3 gelten
+Artikel 8 Absatz 7, Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1
+bis 3 der Verordnung (EU) Nr. 1169/2011 und § 2 der
+Lebensmittelinformations-Durchführungsverordnung entsprechend. Die
+Angaben nach Absatz 3 Nummer 1, 5 und 6 sind im gleichen Sichtfeld wie
+die Bezeichnung des Lebensmittels anzubringen.
 
 
 ## § 3 Verkehrsverbote
@@ -162,9 +166,9 @@ Gewerbsmäßig dürfen nicht in den Verkehr gebracht werden
 
 
 Im Falle des Satzes 1 Nr. 2 bleiben der Gehalt an zugelassenen
-Zusatzstoffen in Röstkaffee und der Gehalt an Kandiermitteln in
-kandiertem Kaffee bei der Anwendung dieser Vorschrift
-unberücksichtigt.
+Lebensmittelzusatzstoffen in Röstkaffee und der Gehalt an
+Kandiermitteln in kandiertem Kaffee bei der Anwendung dieser
+Vorschrift unberücksichtigt.
 
 
 ## § 4 Analysenmethoden
@@ -203,7 +207,7 @@ Erzeugnisse dürfen bis zum Abbau der Vorräte in den Verkehr gebracht
 werden.
 
 
-## § 8 Inkrafttreten, Außerkrafttreten
+## § 7 Inkrafttreten, Außerkrafttreten
 
 (1) Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
@@ -214,8 +218,9 @@ werden.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 1 und § 2)
 
-## Anlage (zu § 1 und § 2) Bezeichnungen und Begriffsbestimmungen
+## Anlage Bezeichnungen und Begriffsbestimmungen
 
 Fundstelle des Originaltextes: BGBl. I 2001, 3109
 

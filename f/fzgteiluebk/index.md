@@ -4,7 +4,7 @@ Title: Übereinkommen über die Annahme einheitlicher Bedingungen für die Geneh
   die gegenseitige Anerkennung der Genehmigung
 jurabk: FzgTeilÜbk
 layout: default
-origslug: fzgteil_bk
+origslug: fzgteiluebk
 slug: fzgteiluebk
 
 ---

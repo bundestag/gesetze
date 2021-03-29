@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 21.6.2002 I 2214;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 18 G v. 24.2.2012 I 212
+:   Art. 3 V v. 2.12.2016 I 2770
 
 
 ## § 1 Anwendungsbereich
@@ -462,10 +462,10 @@ die
 (4) Absatz 3 Satz 1 bis 6 gilt bei der Anerkennung gemäß § 2 Abs. 2
 Nr. 2 entsprechend.
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und
+(5) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie Empfehlungen zur einheitlichen Durchführung
-der Überprüfung bekanntgeben.
+Wirtschaft und Energie Empfehlungen zur einheitlichen Durchführung der
+Überprüfung bekanntgeben.
 
 
 ## § 6 Sachverständige
@@ -1033,9 +1033,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     Die Anforderungen gemäß TA Abfall Nummer 5.4 (GMBl. 1991 S. 147)
     gelten entsprechend. An die Stelle von Nummer 5.4.3.1 der TA Abfall
-    treten die Anforderungen nach § 5 Abs. 1 der
-    Entsorgungsfachbetriebeverordnung vom 10. September 1996 (BGBl. I S.
-    1421).
+    treten die Anforderungen nach § 5 Absatz 1 der
+    Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils
+    geltenden Fassung.
 
 
 3.2.2 Vorbehandlung
@@ -1113,9 +1113,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     stoffundurchlässigen Fläche gelagert werden, die den allgemein
     anerkannten Regeln nach Wasserrecht entspricht.
 
-    Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-    kann im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-    Technologie den jeweiligen Stand der Technik bekannt geben.
+    Das Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit kann im Einvernehmen mit dem Bundesministerium für
+    Wirtschaft und Energie den jeweiligen Stand der Technik bekannt geben.
 
 
 3.2.2.3 Für die Entnahme der Kraftstoffe sind dem Stand der Technik
@@ -1289,10 +1289,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     wesentlichen Daten festzuhalten, die zur Transparenz und
     Nachvollziehbarkeit einer umweltverträglichen Altfahrzeugverwertung
     erforderlich sind. Sämtliche ein- und ausgehenden Mengenströme mit
-    entsprechenden Entsorgungsnachweisen, Begleitscheinen,
-    Transportgenehmigungen und Übernahmescheinen sowie Betriebsstörungen,
-    deren Ursache und daraus gezogene Konsequenzen müssen im
-    Betriebstagebuch notiert werden.
+    entsprechenden Entsorgungsnachweisen, Begleitscheinen, Anzeigen und
+    Erlaubnissen zum Sammeln und Befördern von Abfällen und
+    Übernahmescheinen sowie Betriebsstörungen, deren Ursache und daraus
+    gezogene Konsequenzen müssen im Betriebstagebuch notiert werden.
 
 
 3.3.3 Zu den erforderlichen Dokumentationspflichten gehören insbesondere
@@ -1412,5 +1412,5 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
-[^bjnr166610997bjne001107310_01_BJNR166610997BJNE001107310]:     Zu beziehen bei Beuth-Verlag GmbH, Berlin.
+[^bjnr166610997bjne001107310_01_BJNR166610997BJNE001110116]:     Zu beziehen bei Beuth-Verlag GmbH, Berlin.
 

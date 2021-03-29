@@ -483,8 +483,9 @@ Republik**
 
 
 
+Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage II Kapitel XII Abschnitt III (BGBl. II 1990, 885, 1226)
+## Anhang EV (BGBl. II 1990, 885, 1226)
 
 Abschnitt III
 Fortgeltendes Recht der Deutschen Demokratischen Republik

@@ -1,5 +1,5 @@
 ---
-Title: Gebührenverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
+Title: Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 jurabk: StBGebV
 layout: default
 origslug: stbgebv
@@ -7,7 +7,7 @@ slug: stbgebv
 
 ---
 
-# Gebührenverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBGebV)
+# Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften (StBGebV)
 
 Ausfertigungsdatum
 :   1981-12-17
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1442
 
 Zuletzt geändert durch
-:   Art. 5 G v. 8.4.2008 I 666
+:   Art. 7 V v. 12.7.2017 I 2360
 
 
 ## Eingangsformel
@@ -33,9 +33,11 @@ verordnet:
 
 ### § 1 Anwendungsbereich
 
-(1) Die Vergütung (Gebühren und Auslagenersatz) des Steuerberaters für
-seine selbständig ausgeübte Berufstätigkeit (§ 33 des Gesetzes) bemißt
-sich nach dieser Verordnung.
+(1) Die Vergütung (Gebühren und Auslagenersatz) des Steuerberaters mit
+Sitz im Inland für seine im Inland selbständig ausgeübte
+Berufstätigkeit (§ 33 des Steuerberatungsgesetzes) bemisst sich nach
+dieser Verordnung. Dies gilt für die Höhe der Vergütung nur, soweit
+nicht etwas anderes vereinbart wird.
 
 (2) Für die Vergütung der Steuerbevollmächtigten und der
 Steuerberatungsgesellschaften gelten die Vorschriften über die
@@ -49,14 +51,12 @@ des Steuerberaters nichts bestimmt, so sind die Gebühren in
 sinngemäßer Anwendung der Vorschriften dieser Verordnung zu bemessen.
 
 
-### § 3 Mindestgebühr, Auslagen
+### § 3 Auslagen
 
-(1) Der Mindestbetrag einer Gebühr ist 10 Euro.
-
-(2) Mit den Gebühren werden auch die allgemeinen Geschäftskosten
+(1) Mit den Gebühren werden auch die allgemeinen Geschäftskosten
 entgolten.
 
-(3) Der Anspruch auf Zahlung der auf die Vergütung entfallenden
+(2) Der Anspruch auf Zahlung der auf die Vergütung entfallenden
 Umsatzsteuer und auf Ersatz für Post- und
 Telekommunikationsdienstleistungen zu zahlende Entgelte, der
 Dokumentenpauschale und der Reisekosten bestimmt sich nach den §§ 15
@@ -67,19 +67,38 @@ bis 20.
 
 (1) Aus einer Vereinbarung kann der Steuerberater eine höhere als die
 gesetzliche Vergütung nur fordern, wenn die Erklärung des
-Auftraggebers schriftlich abgegeben und nicht in der Vollmacht
-enthalten ist. Ist das Schriftstück nicht vom Auftraggeber verfasst,
-muss es als Vergütungsvereinbarung bezeichnet und die
-Vergütungsvereinbarung von anderen Vereinbarungen deutlich abgesetzt
-sein; Art und Umfang des Auftrags sind zu bezeichnen. Hat der
+Auftraggebers in Textform abgegeben ist. Ist das Schriftstück nicht
+vom Auftraggeber verfasst, muss
+
+1.  das Schriftstück als Vergütungsvereinbarung oder in vergleichbarer
+    Weise bezeichnet sein,
+
+
+2.  das Schriftstück von anderen Vereinbarungen mit Ausnahme der
+    Auftragserteilung deutlich abgesetzt sein und darf nicht in der
+    Vollmacht enthalten sein.
+
+
+
+Art und Umfang des Auftrags nach Satz 2 sind zu bezeichnen. Hat der
 Auftraggeber freiwillig und ohne Vorbehalt geleistet, kann er das
 Geleistete nicht deshalb zurückfordern, weil seine Erklärung den
-Vorschriften der Sätze 1 und 2 nicht entspricht.
+Vorschriften der Sätze 1 bis 3 nicht entspricht.
 
 (2) Ist eine vereinbarte Vergütung unter Berücksichtigung aller
 Umstände unangemessen hoch, so kann sie im Rechtsstreit auf den
 angemessenen Betrag bis zur Höhe der sich aus dieser Verordnung
 ergebenden Vergütung herabgesetzt werden.
+
+(3) In außergerichtlichen Angelegenheiten kann eine niedrigere als die
+gesetzliche Vergütung unter den Formerfordernissen des Absatzes 1
+vereinbart werden. Sie muss in einem angemessenen Verhältnis zu der
+Leistung, der Verantwortung und dem Haftungsrisiko des Steuerberaters
+stehen.
+
+(4) Der Steuerberater hat den Auftraggeber in Textform darauf
+hinzuweisen, dass eine höhere oder niedrigere als die gesetzliche
+Vergütung in Textform vereinbart werden kann.
 
 
 ### § 5 Mehrere Steuerberater
@@ -215,14 +234,14 @@ Die Zeitgebühr ist zu berechnen
 
 
 
-Sie beträgt 19 bis 46 Euro je angefangene halbe Stunde.
+Sie beträgt 30 bis 70 Euro je angefangene halbe Stunde.
 
 
 ### § 14 Pauschalvergütung
 
 (1) Für einzelne oder mehrere für denselben Auftraggeber laufend
 auszuführende Tätigkeiten kann der Steuerberater eine
-Pauschalvergütung vereinbaren. Die Vereinbarung ist schriftlich und
+Pauschalvergütung vereinbaren. Die Vereinbarung ist in Textform und
 für einen Zeitraum von mindestens einem Jahr zu treffen. In der
 Vereinbarung sind die vom Steuerberater zu übernehmenden Tätigkeiten
 und die Zeiträume, für die sie geleistet werden, im einzelnen
@@ -381,21 +400,17 @@ Zehntel bis 10 Zehntel der vollen Gebühr nach Tabelle A (Anlage 1).
 Beschränkt sich die Tätigkeit nach Satz 1 auf ein erstes
 Beratungsgespräch und ist der Auftraggeber Verbraucher, so kann der
 Steuerberater, der erstmals von diesem Ratsuchenden in Anspruch
-genommen wird, keine höhere Gebühr als 180 Euro fordern. Bezieht sich
-der Rat oder die Auskunft nur auf steuerstrafrechtliche,
-bußgeldrechtliche oder sonstige Angelegenheiten, in denen die Gebühren
-nicht nach dem Gegenstandswert berechnet werden, so beträgt die Gebühr
-19 bis 180 Euro. Die Gebühr ist auf eine Gebühr anzurechnen, die der
-Steuerberater für eine sonstige Tätigkeit erhält, die mit der
-Raterteilung oder Auskunft zusammenhängt.
+genommen wird, keine höhere Gebühr als 190 Euro fordern. Die Gebühr
+ist auf eine Gebühr anzurechnen, die der Steuerberater für eine
+sonstige Tätigkeit erhält, die mit der Raterteilung oder Auskunft
+zusammenhängt.
 
 (2) Wird ein Steuerberater, der mit der Angelegenheit noch nicht
 befaßt gewesen ist, beauftragt zu prüfen, ob eine Berufung oder
 Revision Aussicht auf Erfolg hat, so erhält er 13 Zwanzigstel einer
 Gebühr nach Tabelle E (Anlage 5), wenn er von der Einlegung der
 Berufung oder Revision abrät und eine Berufung oder Revision durch ihn
-nicht eingelegt wird. Dies gilt nicht für die in Absatz 1 Satz 3
-genannten Angelegenheiten.
+nicht eingelegt wird.
 
 
 ### § 22 Gutachten
@@ -455,7 +470,7 @@ Die Gebühr beträgt für
 *    *   7.
 
     *   einen Antrag auf Aufhebung oder Änderung eines Steuerbescheides oder
-        auf Aufhebung einer Steueranmeldung
+        einer Steueranmeldung
 
     *   2/10 bis 10/10
 
@@ -503,7 +518,7 @@ Gebührenrahmen.
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;
+        Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;
 
     *
 
@@ -516,60 +531,29 @@ Gebührenrahmen.
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        Summe der positiven Einkünfte, jedoch mindestens 6 000 Euro;
+        Summe der positiven Einkünfte, jedoch mindestens 8 000 Euro;
 
     *
 
 *    *   3.
 
-    *   der Körperschaftsteuererklärung ohne die Erklärung zur gesonderten
-        Feststellung nach den §§ 27, 28, 37 und 38 des
-        Körperschaftsteuergesetzes
+    *   der Körperschaftsteuererklärung
 
     *   2/10 bis 8/10
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das
         Einkommen vor Berücksichtigung eines Verlustabzugs, jedoch mindestens
-        12 500 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für
+        16 000 Euro; bei der Anfertigung einer Körperschaftsteuererklärung für
         eine Organgesellschaft ist das Einkommen der Organgesellschaft vor
         Zurechnung maßgebend; das entsprechende Einkommen ist bei der
-        Gegenstandsberechnung des Organträgers zu kürzen;
+        Gegenstandswertberechnung des Organträgers zu kürzen;
 
     *
 
 *    *   4.
 
-    *   der Erklärung zur gesonderten Feststellung nach den §§ 27, 28, 37 und
-        38 des Körperschaftsteuergesetzes
-
-    *   1/10 bis 5/10
-
-
-*    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        Summe
-
-        a)  des steuerlichen Einlagenkontos (§ 27 Abs. 2 Satz 1 des
-            Körperschaftsteuergesetzes),
-
-
-        b)  des durch Umwandlung von Rücklagen entstandenen Nennkapitals (§ 28
-            Abs. 1 Satz 3 des Körperschaftsteuergesetzes),
-
-
-        c)  des Körperschaftsteuerguthabens (§ 37 Abs. 2 Satz 4 des
-            Körperschaftsteuergesetzes) und
-
-
-        d)  des Endbetrags/fortgeschriebenen Endbetrags im Sinne des § 36 Abs. 7
-            des Körperschaftsteuergesetzes aus dem Teilbetrag im Sinne des § 30
-            Abs. 2 Nr. 2 des Körperschaftsteuergesetzes in der Fassung des
-            Artikels 4 des Gesetzes vom 14. Juli 2000 (BGBl. I S. 1034) - (§ 38
-            Abs. 1 Satz 1 und 2 des Körperschaftsteuergesetzes), jedoch mindestens
-            12 500 Euro;
-
-
-
+    *   (weggefallen)
 
     *
 
@@ -582,7 +566,7 @@ Gebührenrahmen.
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
         Gewerbeertrag vor Berücksichtigung des Freibetrags und eines
-        Gewerbeverlustes, jedoch mindestens 6 000 Euro;
+        Gewerbeverlustes, jedoch mindestens 8 000 Euro;
 
     *
 
@@ -594,22 +578,24 @@ Gebührenrahmen.
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10
-        Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne und
-        Betriebseinnahmen, jedoch mindestens 4 000 Euro;
+        Prozent der als Zerlegungsmaßstab erklärten Arbeitslöhne, jedoch
+        mindestens 4 000 Euro;
 
     *
 
 *    *   7.
 
-    *   der Umsatzsteuer-Voranmeldung
+    *   der Umsatzsteuer-Voranmeldung sowie hierzu ergänzender Anträge und
+        Meldungen
 
-    *   1/10 bis 6/10
+    *   1/10 bis
+        6/10
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10
         Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte,
         für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens
-        500 Euro;
+        650 Euro;
 
     *
 
@@ -624,20 +610,13 @@ Gebührenrahmen.
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert sind 10
         Prozent der Summe aus dem Gesamtbetrag der Entgelte und der Entgelte,
         für die der Leistungsempfänger Steuerschuldner ist, jedoch mindestens
-        6 000 Euro;
+        8 000 Euro;
 
     *
 
 *    *   9.
 
-    *   der Vermögensaufstellung zur Ermittlung des Einheitswertes des
-        Betriebsvermögens
-
-    *   1/20 bis 14/20
-
-
-*    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist das
-        Rohbetriebsvermögen, jedoch mindestens 12 500 Euro;
+    *   (weggefallen)
 
     *
 
@@ -658,28 +637,30 @@ Gebührenrahmen.
 
 *    *   11.
 
-    *   der Erklärung zur gesonderten Feststellung des gemeinen Wertes nicht
-        notierter Anteile an Kapitalgesellschaften
-
-    *   1/20 bis 18/20
-
-
-*    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        Summe der Anteilswerte, jedoch mindestens 25 000 Euro;
+    *   der Erklärung zur Feststellung nach dem Bewertungsgesetz oder dem
+        Erbschaftsteuergesetzes
 
     *
+
+*    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
+        erklärte Wert, jedoch mindestens 25 000 Euro;
+
+    *   1/20 bis
+        18/20
+
 
 *    *   12.
 
     *   der Erbschaftsteuererklärung ohne Ermittlung der
-        Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuergesetzes
+        Zugewinnausgleichsforderung nach § 5 des Erbschaftsteuer- und
+        Schenkungsteuergesetzes
 
     *   2/10 bis 10/10
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
         Wert des Erwerbs von Todes wegen vor Abzug der Schulden und Lasten,
-        jedoch mindestens 12 500 Euro;
+        jedoch mindestens 16 000 Euro;
 
     *
 
@@ -691,20 +672,22 @@ Gebührenrahmen.
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
-        Rohwert der Schenkung, jedoch mindestens 12 500 Euro;
+        Rohwert der Schenkung, jedoch mindestens 16 000 Euro;
 
     *
 
 *    *   14.
 
-    *   der Kapitalertragsteuererklärung
+    *   der Kapitalertragsteueranmeldung sowie für jede weitere Erklärung in
+        Zusammenhang mit Kapitalerträgen
 
-    *   1/20 bis 6/20
+    *   1/20 bis
+        6/20
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
         Summe der kapitalertragsteuerpflichtigen Kapitalerträge, jedoch
-        mindestens 3 000 Euro;
+        mindestens 4 000 Euro;
 
     *
 
@@ -739,7 +722,7 @@ Gebührenrahmen.
 *    *   17.
 
     *   von Anmeldungen oder Erklärungen auf dem Gebiete der Verbrauchsteuern,
-        die nicht als Einfuhrabgaben erhoben werden,
+        die nicht als Einfuhrabgaben geschuldet werden,
 
     *   1/10 bis 3/10
 
@@ -791,14 +774,13 @@ Gebührenrahmen.
 
 *    *   21.
 
-    *   von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge an im
-        Ausland ansässige Unternehmer
+    *   von Anträgen auf Vergütung der abziehbaren Vorsteuerbeträge
 
     *   1/10 bis 6/10
 
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        beantragte Vergütung, jedoch mindestens 1 000 Euro;
+        beantragte Vergütung, jedoch mindestens 1 300 Euro;
 
     *
 
@@ -827,9 +809,7 @@ Gebührenrahmen.
 
 *    *   24.
 
-    *   von Anträgen nach dem Eigenheimzulagengesetz 2/10 bis 10/10 einer
-        vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
-        beantragte Eigenheimzulage;
+    *   (weggefallen)
 
     *
 
@@ -842,16 +822,31 @@ Gebührenrahmen.
 
 *    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist der
         angemeldete Steuerabzugsbetrag (§§ 48 ff. des
-        Einkommensteuergesetzes), jedoch mindestens 1 000 Euro.
+        Einkommensteuergesetzes), jedoch mindestens 1 000 Euro;
 
     *
 
+*    *   26.
+
+    *   sonstiger Steuererklärungen
+
+    *
+
+*    *
+    *   einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert ist die
+        jeweilige Bemessungsgrundlage, jedoch mindestens 8 000 Euro.
+
+    *   1/10 bis
+        6/10
 
 
-   (2) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des
-Erbschaftsteuergesetzes erhält der Steuerberater 5 Zehntel bis 15
-Zehntel einer vollen Gebühr nach Tabelle A (Anlage 1); Gegenstandswert
-ist der ermittelte Betrag, jedoch mindestens 12 500 Euro.
+
+
+(2) Für die Ermittlung der Zugewinnausgleichsforderung nach § 5 des
+Erbschaftsteuer- und Schenkungsteuergesetzes erhält der Steuerberater
+5 Zehntel bis 15 Zehntel einer vollen Gebühr nach Tabelle A (Anlage
+1); Gegenstandswert ist der ermittelte Betrag, jedoch mindestens 12
+500 Euro.
 
 (3) Für einen Antrag auf Lohnsteuer-Ermäßigung (Antrag auf Eintragung
 von Freibeträgen) erhält der Steuerberater 1/20 bis 4/20 einer vollen
@@ -860,9 +855,7 @@ voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
 
 (4) Der Steuerberater erhält die Zeitgebühr
 
-1.  für die Anfertigung einer Erklärung zur Hauptfeststellung,
-    Fortschreibung oder Nachfeststellung der Einheitswerte für Grundbesitz
-    oder einer Feststellungserklärung nach § 138 des Bewertungsgesetzes;
+1.  (weggefallen)
 
 
 2.  für Arbeiten zur Feststellung des verrechenbaren Verlustes gemäß § 15a
@@ -874,43 +867,42 @@ voraussichtliche Jahresarbeitslohn; er beträgt mindestens 4 500 Euro.
     Personenvereinigungen und an ausländischen Personengesellschaften;
 
 
-4.  für die Anfertigung eines Erstattungsantrages nach § 50 Abs. 5 Satz 2
-    Nr. 3 des Einkommensteuergesetzes;
+4.  (weggefallen)
 
 
-5.  für die Anfertigung einer Anmeldung nach § 50a Abs. 5 des
-    Einkommensteuergesetzes, § 73e der Einkommensteuer-
-    Durchführungsverordnung;
+5.  für sonstige Anträge und Meldungen nach dem Einkommensteuergesetz;
 
 
-6.  für die Anfertigung eines Antrags auf Erteilung einer
-    Freistellungsbescheinigung nach § 48b des Einkommensteuergesetzes;
+6.  (weggefallen)
 
 
-7.  für die Anfertigung eines Antrags auf Altersvorsorgezulage nach § 89
-    des Einkommensteuergesetzes;
+7.  (weggefallen)
 
 
-8.  für die Anfertigung eines Antrags auf Festsetzung der Zulage nach § 90
-    Abs. 4 des Einkommensteuergesetzes;
+8.  (weggefallen)
 
 
-9.  für die Anfertigung eines Antrags auf Verwendung für eine eigenen
-    Wohnzwecken dienende Wohnung im eigenen Haus nach den §§ 92a, 92b Abs.
-    1 des Einkommensteuergesetzes;
+9.  (weggefallen)
 
 
-10. für die Anfertigung eines Antrags auf Festsetzung des
-    Rückzahlungsbetrags nach § 94 Abs. 2 des Einkommensteuergesetzes;
+10. (weggefallen)
 
 
-11. für die Anfertigung eines Antrags auf Stundung nach § 95 Abs. 2 des
-    Einkommensteuergesetzes;
+11. (weggefallen)
 
 
-12. für die Anfertigung eines Antrags auf Gewährung der Zulage nach
-    Neubegründung der unbeschränkten Steuerpflicht nach § 95 Abs. 3 des
-    Einkommensteuergesetzes.
+12. (weggefallen)
+
+
+13. für die Überwachung und Meldung der Lohnsumme sowie der Behaltensfrist
+    im Sinne von § 13a Absatz 1 in Verbindung mit Absatz 6 Satz 1, Absatz
+    5 in Verbindung mit Absatz 6 Satz 2 des Erbschaftsteuer- und
+    Schenkungsteuergesetzes;
+
+
+14. für die Berechnung des Begünstigungsgewinnes im Sinne von § 34a Absatz
+    1 Satz 1 des Einkommensteuergesetzes (Begünstigung der nicht
+    entnommenen Gewinne).
 
 
 
@@ -961,7 +953,7 @@ Kapitalvermögen, Vermietung und Verpachtung oder sonstigen Einkünften
 beträgt 1 Zwanzigstel bis 12 Zwanzigstel einer vollen Gebühr nach
 Tabelle A (Anlage 1). Gegenstandswert ist der jeweils höhere Betrag,
 der sich aus der Summe der Einnahmen oder der Summe der Werbungskosten
-ergibt, jedoch mindestens 6.000 Euro.
+ergibt, jedoch mindestens 8 000 Euro.
 
 (2) Beziehen sich die Einkünfte aus Vermietung und Verpachtung auf
 mehrere Grundstücke oder sonstige Wirtschaftsgüter und ist der
@@ -969,7 +961,8 @@ mehrere Grundstücke oder sonstige Wirtschaftsgüter und ist der
 ermitteln, so erhält der Steuerberater die Gebühr nach Absatz 1 für
 jede Überschußrechnung.
 
-(3) (weggefallen)
+(3) Für Vorarbeiten, die über das übliche Maß erheblich hinausgehen,
+erhält der Steuerberater die Zeitgebühr.
 
 
 ### § 28 Prüfung von Steuerbescheiden
@@ -983,17 +976,16 @@ Zeitgebühr.
 Der Steuerberater erhält
 
 1.  für die Teilnahme an einer Prüfung, insbesondere an einer Außen- oder
-    Zollprüfung (§ 193 der Abgabenordnung, Artikel 78 der Verordnung (EWG)
-    Nr. 2913/92 des Rates vom 12. Oktober 1992 zur Festlegung des
-    Zollkodex der Gemeinschaften (ABl. EG Nr. L 302 S. 1, 1993 Nr. L 79 S.
-    84, 1996 Nr. L 97 S. 38), die zuletzt durch die Verordnung (EG) Nr.
-    648/2005 des Europäischen Parlaments und des Rates vom 13. April 2005
-    (ABl. EU Nr. L 117 S. 13) geändert worden ist, in der jeweils
-    geltenden Fassung) einschließlich der Schlußbesprechung und der
-    Prüfung des Prüfungsberichts, an einer Ermittlung der
-    Besteuerungsgrundlagen (§ 208 der Abgabenordnung) oder an einer
-    Maßnahme der Steueraufsicht (§§ 209 bis 217 der Abgabenordnung) die
-    Zeitgebühr;
+    Zollprüfung (§ 193 der Abgabenordnung, Artikel 48 der Verordnung (EU)
+    Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober
+    2013 zur Festlegung des Zollkodex der Union (ABl. L 269 vom
+    10\.10.2013, S. 1; L 287 vom 29.10.2013, S. 90), die durch die
+    Verordnung (EU) 2016/2339 (ABl. L 354 vom 23.12.2016, S. 32) geändert
+    worden ist, in der jeweils geltenden Fassung) einschließlich der
+    Schlussbesprechung und der Prüfung des Prüfungsberichts, für die
+    Teilnahme an einer Ermittlung der Besteuerungsgrundlagen (§ 208 der
+    Abgabenordnung) oder für die Teilnahme an einer Maßnahme der
+    Steueraufsicht (§§ 209 bis 217 der Abgabenordnung) die Zeitgebühr;
 
 
 2.  für schriftliche Einwendungen gegen den Prüfungsbericht 5 Zehntel bis
@@ -1005,11 +997,15 @@ Der Steuerberater erhält
 
 ### § 30 Selbstanzeige
 
-Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378 Abs.
-3 der Abgabenordnung) einschließlich der Ermittlungen zur
+(1) Für die Tätigkeit im Verfahren der Selbstanzeige (§§ 371 und 378
+Absatz 3 der Abgabenordnung) einschließlich der Ermittlungen zur
 Berichtigung, Ergänzung oder Nachholung der Angaben erhält der
-Steuerberater 10 Zehntel bis 30 Zehntel einer vollen Gebühr nach
-Tabelle A (Anlage 1).
+Steuerberater 10/10 bis 30/10 einer vollen Gebühr nach Tabelle A
+(Anlage 1).
+
+(2) Der Gegenstandswert bestimmt sich nach der Summe der berichtigten,
+ergänzten und nachgeholten Angaben, er beträgt jedoch mindestens 8 000
+Euro.
 
 
 ### § 31 Besprechungen
@@ -1032,8 +1028,8 @@ fernmündlichen Nachfrage der Behörde.
 
 ### § 32 Einrichtung einer Buchführung
 
-Für die Hilfeleistung bei der Einrichtung einer Buchführung erhält der
-Steuerberater die Zeitgebühr.
+Für die Hilfeleistung bei der Einrichtung einer Buchführung im Sinne
+der §§ 33 und 34 erhält der Steuerberater die Zeitgebühr.
 
 
 ### § 33 Buchführung
@@ -1041,8 +1037,8 @@ Steuerberater die Zeitgebühr.
 
 *    *   (1)
 
-    *   Für die Buchführung einschließlich des Kontierens der Belege beträgt
-        die Monatsgebühr
+    *   Für die Buchführung oder das Führen steuerlicher Aufzeichnungen
+        einschließlich des Kontierens der Belege beträgt die Monatsgebühr
 
     *   2/10 bis 12/10
 
@@ -1072,8 +1068,9 @@ Steuerberater die Zeitgebühr.
 
 *    *   (3)
 
-    *   Für die Buchführung nach vom Auftraggeber kontierten Belegen oder
-        erstellten Kontierungsunterlagen beträgt die Monatsgebühr
+    *   Für die Buchführung oder das Führen steuerlicher Aufzeichnungen nach
+        vom Auftraggeber kontierten Belegen oder erstellten
+        Kontierungsunterlagen beträgt die Monatsgebühr
 
     *   1/10 bis 6/10
 
@@ -1085,18 +1082,19 @@ Steuerberater die Zeitgebühr.
 
 
 
-   (4) Für die Buchführung nach vom Auftraggeber erstellten Eingaben für
-die Datenverarbeitung und mit beim Auftraggeber eingesetzten
-Datenverarbeitungsprogrammen des Steuerberaters erhält der
-Steuerberater neben der Vergütung für die Datenverarbeitung und für
-den Einsatz der Datenverarbeitungsprogramme eine Monatsgebühr von 1/20
-bis 10/20 einer vollen Gebühr nach Tabelle C (Anlage 3).
+   (4) Für die Buchführung oder das Führen steuerlicher Aufzeichnungen
+nach vom Auftraggeber erstellten Eingaben für die Datenverarbeitung
+und mit beim Auftraggeber eingesetzten Datenverarbeitungsprogrammen
+des Steuerberaters erhält der Steuerberater neben der Vergütung für
+die Datenverarbeitung und für den Einsatz der
+Datenverarbeitungsprogramme eine Monatsgebühr von 1/20 bis 10/20 einer
+vollen Gebühr nach Tabelle C (Anlage 3).
 
 
 *    *   (5)
 
-    *   Für die laufende Überwachung der Buchführung des Auftraggebers beträgt
-        die Monatsgebühr
+    *   Für die laufende Überwachung der Buchführung oder der steuerlichen
+        Aufzeichnungen des Auftraggebers beträgt die Monatsgebühr
 
     *   1/10 bis 6/10
 
@@ -1112,7 +1110,8 @@ bis 10/20 einer vollen Gebühr nach Tabelle C (Anlage 3).
 Jahresumsatz oder aus der Summe des Aufwandes ergibt.
 
 (7) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang
-mit der Buchführung erhält der Steuerberater die Zeitgebühr.
+mit der Buchführung oder dem Führen steuerlicher Aufzeichnungen erhält
+der Steuerberater die Zeitgebühr.
 
 (8) Mit der Gebühr nach den Absätzen 1, 3 und 4 sind die Gebühren für
 die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
@@ -1121,16 +1120,16 @@ die Umsatzsteuervoranmeldung (§ 24 Abs. 1 Nr. 7) abgegolten.
 ### § 34 Lohnbuchführung
 
 (1) Für die erstmalige Einrichtung von Lohnkonten und die Aufnahme der
-Stammdaten erhält der Steuerberater eine Gebühr von 2,60 bis 9 Euro je
+Stammdaten erhält der Steuerberater eine Gebühr von 5 bis 16 Euro je
 Arbeitnehmer.
 
 (2) Für die Führung von Lohnkonten und die Anfertigung der
-Lohnabrechnung erhält der Steuerberater eine Gebühr von 2,60 bis 15
-Euro je Arbeitnehmer und Abrechnungszeitraum.
+Lohnabrechnung erhält der Steuerberater eine Gebühr von 5 bis 25 Euro
+je Arbeitnehmer und Abrechnungszeitraum.
 
 (3) Für die Führung von Lohnkonten und die Anfertigung der
 Lohnabrechnung nach vom Auftraggeber erstellten Buchungsunterlagen
-erhält der Steuerberater eine Gebühr von 1 bis 5 Euro je Arbeitnehmer
+erhält der Steuerberater eine Gebühr von 2 bis 9 Euro je Arbeitnehmer
 und Abrechnungszeitraum.
 
 (4) Für die Führung von Lohnkonten und die Anfertigung der
@@ -1138,8 +1137,8 @@ Lohnabrechnung nach vom Auftraggeber erstellten Eingaben für die
 Datenverarbeitung und mit beim Auftraggeber eingesetzten
 Datenverarbeitungsprogrammen des Steuerberaters erhält der
 Steuerberater neben der Vergütung für die Datenverarbeitung und für
-den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 0,50 bis
-2,60 Euro je Arbeitnehmer und Abrechnungszeitraum.
+den Einsatz der Datenverarbeitungsprogramme eine Gebühr von 1 bis 4
+Euro je Arbeitnehmer und Abrechnungszeitraum.
 
 (5) Für die Hilfeleistung bei sonstigen Tätigkeiten im Zusammenhang
 mit dem Lohnsteuerabzug und der Lohnbuchführung erhält der
@@ -1171,10 +1170,9 @@ Lohnsteueranmeldung (§ 24 Abs. 1 Nr. 15) abgegolten.
 
     *        *   c)
 
-        *   die Erstellung eines Lageberichts
+        *   (weggefallen)
 
-        *   2/10 bis 12/10
-
+        *
 
 
 
@@ -1184,7 +1182,7 @@ Lohnsteueranmeldung (§ 24 Abs. 1 Nr. 15) abgegolten.
         *   die Aufstellung eines Zwischenabschlusses oder eines vorläufigen
             Abschlusses (Bilanz und Gewinn- und Verlustrechnung)
 
-        *   5/10 bis 12/10
+        *   10/10 bis 40/10
 
 
 
@@ -1268,22 +1266,19 @@ Lohnsteueranmeldung (§ 24 Abs. 1 Nr. 15) abgegolten.
 
 8.
     *        *
-        *   die Zusammenstellung eines Jahresabschlusses (Bilanz und Gewinn- und
-            Verlustrechnung) aus übergebenen Endzahlen (ohne Vornahme von
-            Prüfungsarbeiten)
+        *   (weggefallen)
 
-        *   2/10 bis 6/10
+        *
 
 
 
 
 
-
-einer vollen Gebühr nach Tabelle B (Anlage 2).
+   einer vollen Gebühr nach Tabelle B (Anlage 2).
 
 (2) Gegenstandswert ist
 
-1.  in den Fällen des Absatzes 1 Nr. 1 bis 3, 7 und 8 das Mittel zwischen
+1.  in den Fällen des Absatzes 1 Nummer 1 bis 3 und 7 das Mittel zwischen
     der berichtigten Bilanzsumme und der betrieblichen Jahresleistung;
 
 
@@ -1337,11 +1332,12 @@ Zeitgebühr.
 1.  für die Prüfung einer Bilanz, einer Gewinn- und Verlustrechnung, eines
     Anhangs, eines Lageberichts oder einer sonstigen Vermögensrechnung für
     steuerliche Zwecke 2/10 bis 10/10 einer vollen Gebühr nach Tabelle B
-    (Anlage 2) sowie die Zeitgebühr;
+    (Anlage 2) sowie die Zeitgebühr; der Gegenstandswert bemisst sich nach
+    § 35 Absatz 2;
 
 
 2.  für die Berichterstattung über eine Tätigkeit nach Nummer 1 die
-    Zeitgebühr. Der Gegenstandswert bemißt sich nach § 35 Abs. 2.
+    Zeitgebühr.
 
 
 
@@ -1652,10 +1648,10 @@ I S. 1426), in der jeweils geltenden Fassung sinngemäß anzuwenden.
 ### § 45 Vergütung in gerichtlichen und anderen Verfahren
 
 Auf die Vergütung des Steuerberaters im Verfahren vor den Gerichten
-der Finanzgerichtsbarkeit und der Verwaltungsgerichtsbarkeit, im
-Strafverfahren, berufsgerichtlichen Verfahren, Bußgeldverfahren und in
-Gnadensachen sind die Vorschriften des Rechtsanwaltsvergütungsgesetzes
-sinngemäß anzuwenden.
+der Finanzgerichtsbarkeit, der Sozialgerichtsbarkeit und der
+Verwaltungsgerichtsbarkeit, im Strafverfahren, berufsgerichtlichen
+Verfahren, Bußgeldverfahren und in Gnadensachen sind die Vorschriften
+des Rechtsanwaltsvergütungsgesetzes sinngemäß anzuwenden.
 
 
 ### § 46 Vergütung bei Prozeßkostenhilfe
@@ -1719,769 +1715,763 @@ Diese Verordnung tritt am 1. April 1982 in Kraft.
 
 Der Bundesminister der Finanzen
 
+Tabelle A
 
-### Anlage 1 Tabelle A (Beratungstabelle)
+### Anlage 1 (Beratungstabelle)
 
-(Fundstelle: BGBl. I 2001, 766)
+(Fundstelle: BGBl. I 2012, 2642 - 2643)
 
 
-*    *   Gegenstandswert Euro
+*    *   Gegenstandswert bis … Euro
 
-    *   volle Gebühr (10/10) Euro
+    *   Volle Gebühr (
+        10/10) Euro
 
 
-*    *   bis 300
+*    *   300
 
-    *   25
+    *   26
 
 
-*    *   bis 600
+*    *   600
 
-    *   45
+    *   47
 
 
-*    *   bis 900
+*    *   900
 
-    *   65
+    *   68
 
 
-*    *   bis 1.200
+*    *   1 200
 
-    *   85
+    *   89
 
 
-*    *   bis 1.500
-
-    *   105
-
-
-*    *   bis 2.000
-
-    *   133
-
-
-*    *   bis 2.500
-
-    *   161
-
-
-*    *   bis 3.000
-
-    *   189
-
-
-*    *   bis 3.500
-
-    *   217
-
-
-*    *   bis 4.000
-
-    *   245
-
-
-*    *   bis 4.500
-
-    *   273
-
-
-*    *   bis 5.000
-
-    *   301
-
-
-*    *   bis 6.000
-
-    *   338
-
-
-*    *   bis 7.000
-
-    *   375
-
-
-*    *   bis 8.000
-
-    *   412
-
-
-*    *   bis 9.000
-
-    *   449
-
-
-*    *   bis 10.000
-
-    *   486
-
-
-*    *   bis 13.000
-
-    *   526
-
-
-*    *   bis 16.000
-
-    *   566
-
-
-*    *   bis 19.000
-
-    *   606
-
-
-*    *   bis 22.000
-
-    *   646
-
-
-*    *   bis 25.000
-
-    *   686
-
-
-*    *   bis 30.000
-
-    *   758
-
-
-*    *   bis 35.000
-
-    *   830
-
-
-*    *   bis 40.000
-
-    *   902
-
-
-*    *   bis 45.000
-
-    *   974
-
-
-*    *   bis 50.000
-
-    *   1.046
-
-
-*    *   bis 65.000
-
-    *   1.123
-
-
-*    *   bis 80.000
-
-    *   1.200
-
-
-*    *   bis 95.000
-
-    *   1.277
-
-
-*    *   bis 110.000
-
-    *   1.354
-
-
-*    *   bis 125.000
-
-    *   1.431
-
-
-*    *   bis 140.000
-
-    *   1.508
-
-
-*    *   bis 155.000
-
-    *   1.585
-
-
-*    *   bis 170.000
-
-    *   1.662
-
-
-*    *   bis 185.000
-
-    *   1.739
-
-
-*    *   bis 200.000
-
-    *   1.816
-
-
-*    *   bis 230.000
-
-    *   1.934
-
-
-*    *   bis 260.000
-
-    *   2.052
-
-
-*    *   bis 290.000
-
-    *   2.170
-
-
-*    *   bis 320.000
-
-    *   2.293
-
-
-*    *   bis 350.000
-
-    *   2.347
-
-
-*    *   bis 380.000
-
-    *   2.399
-
-
-*    *   bis 410.000
-
-    *   2.450
-
-
-*    *   bis 440.000
-
-    *   2.499
-
-
-*    *   bis 470.000
-
-    *   2.547
-
-
-*    *   bis 500.000
-
-    *   2.594
-
-
-*    *   bis 550.000
-
-    *   2.663
-
-
-*    *   bis 600.000
-
-    *   2.730
-
-
-*    *   vom Mehrbetrag bis 5.000.000 Euro
-
-    *
-
-*    *   je angefangene 50.000 Euro
-
-    *   120
-
-
-*    *   vom Mehrbetrag über 5.000.000 Euro bis 25.000.000 Euro
-
-    *
-
-*    *   je angefangene 50.000 Euro
-
-    *   90
-
-
-*    *   vom Mehrbetrag über 25.000.000 Euro
-
-    *
-
-*    *   je angefangene 50.000 Euro
-
-    *   70
-
-
-
-
-
-### Anlage 2 Tabelle B (Abschlusstabelle)
-
-(Fundstelle: BGBl. I 2001, 767)
-
-
-*    *   Gegenstandswert Euro
-
-    *   volle Gebühr (10/10) Euro
-
-
-*    *   bis 3.000
-
-    *   39
-
-
-*    *   bis 3.500
-
-    *   46
-
-
-*    *   bis 4.000
-
-    *   54
-
-
-*    *   bis 4.500
-
-    *   61
-
-
-*    *   bis 5.000
-
-    *   69
-
-
-*    *   bis 6.000
-
-    *   77
-
-
-*    *   bis 7.000
-
-    *   84
-
-
-*    *   bis 8.000
-
-    *   92
-
-
-*    *   bis 9.000
-
-    *   97
-
-
-*    *   bis 10.000
-
-    *   103
-
-
-*    *   bis 12.500
-
-    *   108
-
-
-*    *   bis 15.000
-
-    *   121
-
-
-*    *   bis 17.500
-
-    *   133
-
-
-*    *   bis 20.000
-
-    *   143
-
-
-*    *   bis 22.500
-
-    *   153
-
-
-*    *   bis 25.000
-
-    *   162
-
-
-*    *   bis 37.500
-
-    *   172
-
-
-*    *   bis 50.000
-
-    *   210
-
-
-*    *   bis 62.500
-
-    *   243
-
-
-*    *   bis 75.000
-
-    *   271
-
-
-*    *   bis 87.500
-
-    *   283
-
-
-*    *   bis 100.000
-
-    *   296
-
-
-*    *   bis 125.000
-
-    *   339
-
-
-*    *   bis 150.000
-
-    *   377
-
-
-*    *   bis 175.000
-
-    *   410
-
-
-*    *   bis 200.000
-
-    *   440
-
-
-*    *   bis 225.000
-
-    *   467
-
-
-*    *   bis 250.000
-
-    *   491
-
-
-*    *   bis 300.000
-
-    *   514
-
-
-*    *   bis 350.000
-
-    *   559
-
-
-*    *   bis 400.000
-
-    *   599
-
-
-*    *   bis 450.000
-
-    *   634
-
-
-*    *   bis 500.000
-
-    *   668
-
-
-*    *   bis 625.000
-
-    *   699
-
-
-*    *   bis 750.000
-
-    *   776
-
-
-*    *   bis 875.000
-
-    *   843
-
-
-*    *   bis 1.000.000
-
-    *   903
-
-
-*    *   bis 1.250.000
-
-    *   957
-
-
-*    *   bis 1.500.000
-
-    *   1.062
-
-
-*    *   bis 1.750.000
-
-    *   1.154
-
-
-*    *   bis 2.000.000
-
-    *   1.237
-
-
-*    *   bis 2.250.000
-
-    *   1.311
-
-
-*    *   bis 2.500.000
-
-    *   1.378
-
-
-*    *   bis 3.000.000
-
-    *   1.441
-
-
-*    *   bis 3.500.000
-
-    *   1.566
-
-
-*    *   bis 4.000.000
-
-    *   1.676
-
-
-*    *   bis 4.500.000
-
-    *   1.776
-
-
-*    *   bis 5.000.000
-
-    *   1.868
-
-
-*    *   bis 7.500.000
-
-    *   2.182
-
-
-*    *   bis 10.000.000
-
-    *   2.536
-
-
-*    *   bis 12.500.000
-
-    *   2.824
-
-
-*    *   bis 15.000.000
-
-    *   3.064
-
-
-*    *   bis 17.500.000
-
-    *   3.268
-
-
-*    *   bis 20.000.000
-
-    *   3.444
-
-
-*    *   bis 22.500.000
-
-    *   3.669
-
-
-*    *   bis 25.000.000
-
-    *   3.876
-
-
-*    *   bis 30.000.000
-
-    *   4.264
-
-
-*    *   bis 35.000.000
-
-    *   4.620
-
-
-*    *   bis 40.000.000
-
-    *   4.951
-
-
-*    *   bis 45.000.000
-
-    *   5.261
-
-
-*    *   bis 50.000.000
-
-    *   5.554
-
-
-*    *   vom Mehrbetrag bis 125.000.000 Euro
-
-    *
-
-*    *   je angefangene 5.000.000 Euro
-
-    *   219
-
-
-*    *   vom Mehrbetrag über 125.000.000 Euro bis 250.000.000 Euro
-
-    *
-
-*    *   je angefangene 12.500.000 Euro
-
-    *   383
-
-
-*    *   vom Mehrbetrag über 250.000.000 Euro
-
-    *
-
-*    *   je angefangene 25.000.000 Euro
-
-    *   546
-
-
-
-
-
-### Anlage 3 Tabelle C (Buchführungstabelle)
-
-(Fundstelle: BGBl. I 2001, 768)
-
-
-*    *   Gegenstandswert Euro
-
-    *   Volle Gebühr (10/10) Euro
-
-
-*    *   bis 15.000
-
-    *   58
-
-
-*    *   bis 17.500
-
-    *   64
-
-
-*    *   bis 20.000
-
-    *   70
-
-
-*    *   bis 22.500
-
-    *   75
-
-
-*    *   bis 25.000
-
-    *   81
-
-
-*    *   bis 30.000
-
-    *   87
-
-
-*    *   bis 35.000
-
-    *   93
-
-
-*    *   bis 40.000
-
-    *   98
-
-
-*    *   bis 45.000
-
-    *   104
-
-
-*    *   bis 50.000
+*    *   1 500
 
     *   110
 
 
-*    *   bis 62.500
+*    *   2 000
 
-    *   116
+    *   140
 
 
-*    *   bis 75.000
+*    *   2 500
+
+    *   169
+
+
+*    *   3 000
+
+    *   198
+
+
+*    *   3 500
+
+    *   228
+
+
+*    *   4 000
+
+    *   257
+
+
+*    *   4 500
+
+    *   287
+
+
+*    *   5 000
+
+    *   316
+
+
+*    *   6 000
+
+    *   355
+
+
+*    *   7 000
+
+    *   394
+
+
+*    *   8 000
+
+    *   433
+
+
+*    *   9 000
+
+    *   471
+
+
+*    *   10 000
+
+    *   510
+
+
+*    *   13 000
+
+    *   552
+
+
+*    *   16 000
+
+    *   594
+
+
+*    *   19 000
+
+    *   636
+
+
+*    *   22 000
+
+    *   678
+
+
+*    *   25 000
+
+    *   720
+
+
+*    *   30 000
+
+    *   796
+
+
+*    *   35 000
+
+    *   872
+
+
+*    *   40 000
+
+    *   947
+
+
+*    *   45 000
+
+    *   1 023
+
+
+*    *   50 000
+
+    *   1 098
+
+
+*    *   65 000
+
+    *   1 179
+
+
+*    *   80 000
+
+    *   1 260
+
+
+*    *   95 000
+
+    *   1 341
+
+
+*    *   110 000
+
+    *   1 422
+
+
+*    *   125 000
+
+    *   1 503
+
+
+*    *   140 000
+
+    *   1 583
+
+
+*    *   155 000
+
+    *   1 664
+
+
+*    *   170 000
+
+    *   1 745
+
+
+*    *   185 000
+
+    *   1 826
+
+
+*    *   200 000
+
+    *   1 907
+
+
+*    *   230 000
+
+    *   2 031
+
+
+*    *   260 000
+
+    *   2 155
+
+
+*    *   290 000
+
+    *   2 279
+
+
+*    *   320 000
+
+    *   2 408
+
+
+*    *   350 000
+
+    *   2 464
+
+
+*    *   380 000
+
+    *   2 519
+
+
+*    *   410 000
+
+    *   2 573
+
+
+*    *   440 000
+
+    *   2 624
+
+
+*    *   470 000
+
+    *   2 674
+
+
+*    *   500 000
+
+    *   2 724
+
+
+*    *   550 000
+
+    *   2 796
+
+
+*    *   600 000
+
+    *   2 867
+
+
+*    *   vom Mehrbetrag
+        bis 5 000 000 Euro
+        je angefangene 50 000 Euro
+
+    *   126
+
+
+*    *   vom Mehrbetrag
+        über 5 000 000 Euro
+        bis 25 000 000 Euro
+        je angefangene 50 000 Euro
+
+    *   95
+
+
+*    *   vom Mehrbetrag
+        über 25 000 000 Euro
+        je angefangene 50 000 Euro
+
+    *   74
+
+
+
+
+Tabelle B
+
+### Anlage 2 (Abschlusstabelle)
+
+(Fundstelle: BGBl. I 2012, 2644 -2645)
+
+
+*    *   Gegenstandswert bis … Euro
+
+    *   Volle Gebühr (
+        10/10) Euro
+
+
+*    *   3 000
+
+    *   41
+
+
+*    *   3 500
+
+    *   48
+
+
+*    *   4 000
+
+    *   57
+
+
+*    *   4 500
+
+    *   64
+
+
+*    *   5 000
+
+    *   72
+
+
+*    *   6 000
+
+    *   81
+
+
+*    *   7 000
+
+    *   88
+
+
+*    *   8 000
+
+    *   97
+
+
+*    *   9 000
+
+    *   102
+
+
+*    *   10 000
+
+    *   108
+
+
+*    *   12 500
+
+    *   113
+
+
+*    *   15 000
 
     *   127
 
 
-*    *   bis 87.500
+*    *   17 500
 
-    *   139
+    *   140
 
 
-*    *   bis 100.000
+*    *   20 000
 
     *   150
 
 
-*    *   bis 125.000
+*    *   22 500
 
-    *   168
-
-
-*    *   bis 150.000
-
-    *   185
+    *   161
 
 
-*    *   bis 200.000
+*    *   25 000
 
-    *   220
-
-
-*    *   bis 250.000
-
-    *   254
+    *   170
 
 
-*    *   bis 300.000
+*    *   37 500
 
-    *   289
-
-
-*    *   bis 350.000
-
-    *   324
+    *   181
 
 
-*    *   bis 400.000
+*    *   50 000
 
-    *   353
-
-
-*    *   bis 450.000
-
-    *   381
+    *   221
 
 
-*    *   bis 500.000
+*    *   62 500
 
-    *   410
+    *   255
 
 
-*    *   vom Mehrbetrag über Euro 500.000
+*    *   75 000
 
-    *
+    *   285
 
-*    *   je angefangene 50.000 Euro
 
-    *   29
+*    *   87 500
+
+    *   297
+
+
+*    *   100 000
+
+    *   311
+
+
+*    *   125 000
+
+    *   356
+
+
+*    *   150 000
+
+    *   396
+
+
+*    *   175 000
+
+    *   431
+
+
+*    *   200 000
+
+    *   462
+
+
+*    *   225 000
+
+    *   490
+
+
+*    *   250 000
+
+    *   516
+
+
+*    *   300 000
+
+    *   540
+
+
+*    *   350 000
+
+    *   587
+
+
+*    *   400 000
+
+    *   629
+
+
+*    *   450 000
+
+    *   666
+
+
+*    *   500 000
+
+    *   701
+
+
+*    *   625 000
+
+    *   734
+
+
+*    *   750 000
+
+    *   815
+
+
+*    *   875 000
+
+    *   885
+
+
+*    *   1 000 000
+
+    *   948
+
+
+*    *   1 250 000
+
+    *   1 005
+
+
+*    *   1 500 000
+
+    *   1 115
+
+
+*    *   1 750 000
+
+    *   1 212
+
+
+*    *   2 000 000
+
+    *   1 299
+
+
+*    *   2 250 000
+
+    *   1 377
+
+
+*    *   2 500 000
+
+    *   1 447
+
+
+*    *   3 000 000
+
+    *   1 513
+
+
+*    *   3 500 000
+
+    *   1 644
+
+
+*    *   4 000 000
+
+    *   1 760
+
+
+*    *   4 500 000
+
+    *   1 865
+
+
+*    *   5 000 000
+
+    *   1 961
+
+
+*    *   7 500 000
+
+    *   2 291
+
+
+*    *   10 000 000
+
+    *   2 663
+
+
+*    *   12 500 000
+
+    *   2 965
+
+
+*    *   15 000 000
+
+    *   3 217
+
+
+*    *   17 500 000
+
+    *   3 431
+
+
+*    *   20 000 000
+
+    *   3 616
+
+
+*    *   22 500 000
+
+    *   3 852
+
+
+*    *   25 000 000
+
+    *   4 070
+
+
+*    *   30 000 000
+
+    *   4 477
+
+
+*    *   35 000 000
+
+    *   4 851
+
+
+*    *   40 000 000
+
+    *   5 199
+
+
+*    *   45 000 000
+
+    *   5 524
+
+
+*    *   50 000 000
+
+    *   5 832
+
+
+*    *   vom Mehrbetrag
+        bis 125 000 000 Euro
+        je angefangene 5 000 000 Euro
+
+    *   230
+
+
+*    *   vom Mehrbetrag
+        über 125 000 000 Euro
+        bis 250 000 000 Euro
+        je angefangene 12 500 000 Euro
+
+    *   402
+
+
+*    *   vom Mehrbetrag
+        über 250 000 000 Euro
+        je angefangene 25 000 000 Euro
+
+    *   573
+
+
+
+
+Tabelle C
+
+### Anlage 3 (Buchführungstabelle)
+
+(Fundstelle: BGBl. I 2012, 2646)
+
+
+*    *   Gegenstandswert bis … Euro
+
+    *   Volle Gebühr (
+        10/10) Euro
+
+
+*    *   15 000
+
+    *   61
+
+
+*    *   17 500
+
+    *   67
+
+
+*    *   20 000
+
+    *   74
+
+
+*    *   22 500
+
+    *   79
+
+
+*    *   25 000
+
+    *   85
+
+
+*    *   30 000
+
+    *   91
+
+
+*    *   35 000
+
+    *   98
+
+
+*    *   40 000
+
+    *   103
+
+
+*    *   45 000
+
+    *   109
+
+
+*    *   50 000
+
+    *   116
+
+
+*    *   62 500
+
+    *   122
+
+
+*    *   75 000
+
+    *   133
+
+
+*    *   87 500
+
+    *   146
+
+
+*    *   100 000
+
+    *   158
+
+
+*    *   125 000
+
+    *   176
+
+
+*    *   150 000
+
+    *   194
+
+
+*    *   200 000
+
+    *   231
+
+
+*    *   250 000
+
+    *   267
+
+
+*    *   300 000
+
+    *   303
+
+
+*    *   350 000
+
+    *   340
+
+
+*    *   400 000
+
+    *   371
+
+
+*    *   450 000
+
+    *   400
+
+
+*    *   500 000
+
+    *   431
+
+
+*    *   vom Mehrbetrag
+        über 500 000 Euro
+        je angefangene 50 000 Euro
+
+    *   30
 
 
 
@@ -2489,1071 +2479,1215 @@ Der Bundesminister der Finanzen
 
 ### Anlage 4 Tabelle D
 
-(Fundstelle: BGBl. I 2001, 769 - 770)
-
+(Fundstelle: BGBl. I 2012, 2647 - 2650;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Teil a
-## (Landwirtschaftliche Tabelle - Betriebsfläche)
-
-*    *   Betriebsfläche Hektar
-
-    *   Volle Gebühr (10/10) Euro
+## (Landwirtschaftliche Tabelle – Betriebsfläche)
 
 
-*    *   bis 40
+*    *   Betriebsfläche bis … Hektar
 
-    *   296
-
-
-*    *   bis 45
-
-    *   317
+    *   Volle Gebühr (
+        10/
+        10) Euro
 
 
-*    *   bis 50
+*    *   40
 
-    *   337
+    *
+    *   311
 
+    *
 
-*    *   bis 55
+*    *   45
 
-    *   356
+    *
+    *   333
 
+    *
 
-*    *   bis 60
+*    *   50
 
-    *   375
+    *
+    *   354
 
+    *
 
-*    *   bis 65
+*    *   55
 
-    *   392
+    *
+    *   374
 
+    *
 
-*    *   bis 70
+*    *   60
 
-    *   408
+    *
+    *   394
 
+    *
 
-*    *   bis 75
+*    *   65
 
-    *   423
+    *
+    *   412
 
+    *
 
-*    *   bis 80
+*    *   70
 
-    *   437
+    *
+    *   428
 
+    *
 
-*    *   bis 85
+*    *   75
 
-    *   450
+    *
+    *   444
 
+    *
 
-*    *   bis 90
+*    *   80
 
-    *   462
+    *
+    *   459
 
+    *
 
-*    *   bis 95
+*    *   85
 
-    *   472
+    *
+    *   473
 
+    *
 
-*    *   bis 100
+*    *   90
 
-    *   482
+    *
+    *   485
 
+    *
 
-*    *   bis 110
+*    *   95
 
+    *
+    *   496
+
+    *
+
+*    *   100
+
+    *
     *   506
 
+    *
 
-*    *   bis 120
+*    *   110
 
-    *   529
+    *
+    *   531
 
+    *
 
-*    *   bis 130
+*    *   120
 
-    *   551
+    *
+    *   555
 
+    *
 
-*    *   bis 140
+*    *   130
 
-    *   573
+    *
+    *   579
 
+    *
 
-*    *   bis 150
+*    *   140
 
-    *   595
+    *
+    *   602
 
+    *
 
-*    *   bis 160
+*    *   150
 
-    *   616
+    *
+    *   625
 
+    *
 
-*    *   bis 170
+*    *   160
 
-    *   636
+    *
+    *   647
 
+    *
 
-*    *   bis 180
+*    *   170
 
-    *   656
+    *
+    *   668
 
+    *
 
-*    *   bis 190
+*    *   180
 
-    *   675
+    *
+    *   689
 
+    *
 
-*    *   bis 200
+*    *   190
 
-    *   694
+    *
+    *   709
 
+    *
 
-*    *   bis 210
+*    *   200
 
-    *   712
+    *
+    *   729
 
+    *
 
-*    *   bis 220
+*    *   210
 
-    *   730
-
-
-*    *   bis 230
-
+    *
     *   748
 
+    *
 
-*    *   bis 240
+*    *   220
 
-    *   764
+    *
+    *   767
 
+    *
 
-*    *   bis 250
+*    *   230
 
-    *   780
+    *
+    *   785
 
+    *
 
-*    *   bis 260
+*    *   240
 
-    *   796
+    *
+    *   802
 
+    *
 
-*    *   bis 270
+*    *   250
 
-    *   811
+    *
+    *   819
 
+    *
 
-*    *   bis 280
+*    *   260
 
-    *   825
+    *
+    *   836
 
+    *
 
-*    *   bis 290
+*    *   270
 
-    *   839
-
-
-*    *   bis 300
-
+    *
     *   852
 
+    *
 
-*    *   bis 320
+*    *   280
 
-    *   880
+    *
+    *   866
 
+    *
 
-*    *   bis 340
+*    *   290
 
-    *   908
+    *
+    *   881
 
+    *
 
-*    *   bis 360
+*    *   300
 
-    *   935
+    *
+    *   895
 
+    *
 
-*    *   bis 380
+*    *   320
 
-    *   961
+    *
+    *   924
 
+    *
 
-*    *   bis 400
+*    *   340
 
-    *   987
+    *
+    *   953
 
+    *
 
-*    *   bis 420
+*    *   360
 
-    *   1.012
+    *
+    *   982
 
+    *
 
-*    *   bis 440
+*    *   380
 
-    *   1.037
+    *
+    *   1 009
 
+    *
 
-*    *   bis 460
+*    *   400
 
-    *   1.061
+    *
+    *   1 036
 
+    *
 
-*    *   bis 480
+*    *   420
 
-    *   1.084
+    *
+    *   1 063
 
+    *
 
-*    *   bis 500
+*    *   440
 
-    *   1.107
+    *
+    *   1 089
 
+    *
 
-*    *   bis 520
+*    *   460
 
-    *   1.130
+    *
+    *   1 114
 
+    *
 
-*    *   bis 540
+*    *   480
 
-    *   1.152
+    *
+    *   1 138
 
+    *
 
-*    *   bis 560
+*    *   500
 
-    *   1.173
+    *
+    *   1 162
 
+    *
 
-*    *   bis 580
+*    *   520
 
-    *   1.194
+    *
+    *   1 187
 
+    *
 
-*    *   bis 600
+*    *   540
 
-    *   1.215
+    *
+    *   1 210
 
+    *
 
-*    *   bis 620
+*    *   560
 
-    *   1.235
+    *
+    *   1 232
 
+    *
 
-*    *   bis 640
+*    *   580
 
-    *   1.254
+    *
+    *   1 254
 
+    *
 
-*    *   bis 660
+*    *   600
 
-    *   1.273
+    *
+    *   1 276
 
+    *
 
-*    *   bis 680
+*    *   620
 
-    *   1.291
+    *
+    *   1 297
 
+    *
 
-*    *   bis 700
+*    *   640
 
-    *   1.309
+    *
+    *   1 317
 
+    *
 
-*    *   bis 750
+*    *   660
 
-    *   1.349
+    *
+    *   1 337
 
+    *
 
-*    *   bis 800
+*    *   680
 
-    *   1.385
+    *
+    *   1 356
 
+    *
 
-*    *   bis 850
+*    *   700
 
-    *   1.415
+    *
+    *   1 374
 
+    *
 
-*    *   bis 900
+*    *   750
 
-    *   1.441
+    *
+    *   1 416
 
+    *
 
-*    *   bis 950
+*    *   800
 
-    *   1.462
+    *
+    *   1 454
 
+    *
 
-*    *   bis 1.000
+*    *   850
 
-    *   1.478
+    *
+    *   1 486
 
+    *
 
-*    *   bis 2.000 je ha
+*    *   900
 
-    *   1,35 mehr
+    *
+    *   1 513
 
+    *
 
-*    *   bis 3.000 je ha
+*    *   950
 
-    *   1,23 mehr
+    *
+    *   1 535
 
+    *
 
-*    *   bis 4.000 je ha
+*    *   1 000
 
-    *   1.10 mehr
+    *
+    *   1 552
 
+    *
 
-*    *   bis 5.000 je ha
+*    *   2 000 je ha
 
-    *   0,98 mehr
+    *
+    *   1,42 mehr
 
+    *
 
-*    *   bis 6.000 je ha
+*    *   3 000 je ha
 
-    *   0,86 mehr
+    *
+    *   1,29 mehr
 
+    *
 
-*    *   bis 7.000 je ha
+*    *   4 000 je ha
 
-    *   0,74 mehr
+    *
+    *   1,16 mehr
 
+    *
 
-*    *   bis 8.000 je ha
+*    *   5 000 je ha
 
-    *   0,61 mehr
+    *
+    *   1,03 mehr
 
+    *
 
-*    *   bis 9.000 je ha
+*    *   6 000 je ha
 
-    *   0,49 mehr
+    *
+    *   0,90 mehr
 
+    *
 
-*    *   bis 10.000 je ha
+*    *   7 000 je ha
 
-    *   0,36 mehr
+    *
+    *   0,78 mehr
 
+    *
 
-*    *   bis 11.000 je ha
+*    *   8 000 je ha
 
-    *   0,24 mehr
+    *
+    *   0,64 mehr
 
+    *
 
-*    *   bis 12.000 je ha
+*    *   9 000 je ha
 
-    *   0,12 mehr
+    *
+    *   0,51 mehr
 
+    *
 
-*    *   ab 12.000 je ha
+*    *   10 000 je ha
 
-    *   0,12 mehr
+    *
+    *   0,38 mehr
 
+    *
 
+*    *   11 000 je ha
 
+    *
+    *   0,25 mehr
 
-Teil b
-## (Landwirtschaftliche Tabelle - Jahresumsatz)
+    *
 
-*    *   Jahresumsatz i.S.v. § 39 Abs. 5 Euro
+*    *   12 000 je ha
 
-    *   Volle Gebühr (10/10) Euro
+    *
+    *   0,13 mehr
 
+    *
 
-*    *   bis 40.000
+*    *   ab 12 000 je ha
 
-    *   308
+    *
+    *   0,13 mehr
 
+    *
 
-*    *   bis 42,500
+
+   Teil b
+## (Landwirtschaftliche Tabelle – Jahresumsatz)
+
+
+*    *   Jahresumsatz im Sinne von
+        § 39 Absatz 5 bis … Euro
+
+    *   Volle Gebühr (
+        10/10) Euro
+
+
+*    *   40 000
 
     *   323
 
 
-*    *   bis 45.000
+*    *   42 500
 
-    *   338
+    *   339
 
 
-*    *   bis 47.500
+*    *   45 000
 
-    *   354
+    *   355
 
 
-*    *   bis 50.000
+*    *   47 500
 
-    *   369
+    *   372
 
 
-*    *   bis 55.000
+*    *   50 000
 
-    *   399
+    *   387
 
 
-*    *   bis 60.000
+*    *   55 000
 
-    *   428
+    *   419
 
 
-*    *   bis 65.000
-
-    *   458
-
-
-*    *   bis 70.000
-
-    *   486
-
-
-*    *   bis 75.000
-
-    *   515
-
-
-*    *   bis 80.000
-
-    *   544
-
-
-*    *   bis 85.000
-
-    *   572
-
-
-*    *   bis 90.000
-
-    *   600
-
-
-*    *   bis 95.000
-
-    *   628
-
-
-*    *   bis 100.000
-
-    *   655
-
-
-*    *   bis 105.000
-
-    *   682
-
-
-*    *   bis 110.000
-
-    *   709
-
-
-*    *   bis 115.000
-
-    *   736
-
-
-*    *   bis 120.000
-
-    *   763
-
-
-*    *   bis 125.000
-
-    *   789
-
-
-*    *   bis 130.000
-
-    *   815
-
-
-*    *   bis 135.000
-
-    *   841
-
-
-*    *   bis 140.000
-
-    *   868
-
-
-*    *   bis 145.000
-
-    *   893
-
-
-*    *   bis 150.000
-
-    *   919
-
-
-*    *   bis 155.000
-
-    *   945
-
-
-*    *   bis 160.000
-
-    *   970
-
-
-*    *   bis 165.000
-
-    *   996
-
-
-*    *   bis 170.000
-
-    *   1.021
-
-
-*    *   bis 175.000
-
-    *   1.046
-
-
-*    *   bis 180.000
-
-    *   1.071
-
-
-*    *   bis 185.000
-
-    *   1.096
-
-
-*    *   bis 190.000
-
-    *   1.121
-
-
-*    *   bis 195.000
-
-    *   1.146
-
-
-*    *   bis 200.000
-
-    *   1.170
-
-
-*    *   bis 205.000
-
-    *   1.195
-
-
-*    *   bis 210.000
-
-    *   1.219
-
-
-*    *   bis 215.000
-
-    *   1.243
-
-
-*    *   bis 220.000
-
-    *   1.268
-
-
-*    *   bis 225.000
-
-    *   1.292
-
-
-*    *   bis 230.000
-
-    *   1.315
-
-
-*    *   bis 235.000
-
-    *   1.339
-
-
-*    *   bis 240.000
-
-    *   1.363
-
-
-*    *   bis 245.000
-
-    *   1.386
-
-
-*    *   bis 250.000
-
-    *   1.409
-
-
-*    *   bis 255.000
-
-    *   1.432
-
-
-*    *   bis 260.000
-
-    *   1.456
-
-
-*    *   bis 265.000
-
-    *   1.478
-
-
-*    *   bis 270.000
-
-    *   1.501
-
-
-*    *   bis 275.000
-
-    *   1.523
-
-
-*    *   bis 280.000
-
-    *   1.545
-
-
-*    *   bis 285.000
-
-    *   1.567
-
-
-*    *   bis 290.000
-
-    *   1.589
-
-
-*    *   bis 295.000
-
-    *   1.610
-
-
-*    *   bis 300.000
-
-    *   1.631
-
-
-*    *   bis 305.000
-
-    *   1.652
-
-
-*    *   bis 310.000
-
-    *   1.673
-
-
-*    *   bis 315.000
-
-    *   1.693
-
-
-*    *   bis 320.000
-
-    *   1.713
-
-
-*    *   bis 325.000
-
-    *   1.733
-
-
-*    *   bis 330.000
-
-    *   1.753
-
-
-*    *   bis 335.000
-
-    *   1.772
-
-
-*    *   bis 340.000
-
-    *   1.791
-
-
-*    *   bis 345.000
-
-    *   1.810
-
-
-*    *   bis 350.000
-
-    *   1.828
-
-
-*    *   bis 355.000
-
-    *   1.847
-
-
-*    *   bis 360.000
-
-    *   1.865
-
-
-*    *   bis 365.000
-
-    *   1.882
-
-
-*    *   bis 370.000
-
-    *   1.900
-
-
-*    *   bis 375.000
-
-    *   1.917
-
-
-*    *   bis 380.000
-
-    *   1.929
-
-
-*    *   bis 385.000
-
-    *   1.951
-
-
-*    *   bis 390.000
-
-    *   1.967
-
-
-*    *   bis 395.000
-
-    *   1.983
-
-
-*    *   bis 400.000
-
-    *   1.999
-
-
-*    *   bis 410.000
-
-    *   2.030
-
-
-*    *   bis 420.000
-
-    *   2.061
-
-
-*    *   bis 430.000
-
-    *   2.092
-
-
-*    *   bis 440.000
-
-    *   2.122
-
-
-*    *   bis 450.000
-
-    *   2.151
-
-
-*    *   bis 460.000
-
-    *   2.180
-
-
-*    *   bis 470.000
-
-    *   2.208
-
-
-*    *   bis 480.000
-
-    *   2.235
-
-
-*    *   bis 490.000
-
-    *   2.260
-
-
-*    *   bis 500.000
-
-    *   2.285
-
-
-*    *   vom Mehrbetrag über 500.000 Euro
-
-    *
-
-*    *   je angefangene 50.000 Euro
-
-    *   132
-
-
-
-
-
-### Anlage 5 Tabelle E (Rechtsbehelfstabelle)
-
-(Fundstelle: BGBl. I 2001, 771)
-
-
-*    *   Gegenstandswert Euro
-
-    *   volle Gebühr (10/10) Euro
-
-
-*    *   bis 300
-
-    *   25
-
-
-*    *   bis 600
-
-    *   45
-
-
-*    *   bis 900
-
-    *   65
-
-
-*    *   bis 1.200
-
-    *   85
-
-
-*    *   bis 1.500
-
-    *   105
-
-
-*    *   bis 2.000
-
-    *   133
-
-
-*    *   bis 2.500
-
-    *   161
-
-
-*    *   bis 3.000
-
-    *   189
-
-
-*    *   bis 3.500
-
-    *   217
-
-
-*    *   bis 4.000
-
-    *   245
-
-
-*    *   bis 4.500
-
-    *   273
-
-
-*    *   bis 5.000
-
-    *   301
-
-
-*    *   bis 6.000
-
-    *   338
-
-
-*    *   bis 7.000
-
-    *   375
-
-
-*    *   bis 8.000
-
-    *   412
-
-
-*    *   bis 9.000
+*    *   60 000
 
     *   449
 
 
-*    *   bis 10.000
+*    *   65 000
 
-    *   486
+    *   481
 
 
-*    *   bis 13.000
+*    *   70 000
 
-    *   526
+    *   510
 
 
-*    *   bis 16.000
+*    *   75 000
 
-    *   566
+    *   541
 
 
-*    *   bis 19.000
+*    *   80 000
 
-    *   606
+    *   571
 
 
-*    *   bis 22.000
+*    *   85 000
 
-    *   646
+    *   601
 
 
-*    *   bis 25.000
+*    *   90 000
 
-    *   686
+    *   630
 
 
-*    *   bis 30.000
+*    *   95 000
 
-    *   758
+    *   659
 
 
-*    *   bis 35.000
+*    *   100 000
 
-    *   830
+    *   688
 
 
-*    *   bis 40.000
+*    *   105 000
 
-    *   902
+    *   716
 
 
-*    *   bis 45.000
+*    *   110 000
 
-    *   974
+    *   744
 
 
-*    *   bis 50.000
+*    *   115 000
 
-    *   1.046
+    *   773
 
 
-*    *   bis 65.000
+*    *   120 000
 
-    *   1.123
+    *   801
 
 
-*    *   bis 80.000
+*    *   125 000
 
-    *   1.200
+    *   828
 
 
-*    *   bis 95.000
+*    *   130 000
 
-    *   1.277
+    *   856
 
 
-*    *   bis 110.000
+*    *   135 000
 
-    *   1.354
+    *   883
 
 
-*    *   bis 125.000
+*    *   140 000
 
-    *   1.431
+    *   911
 
 
-*    *   bis 140.000
+*    *   145 000
 
-    *   1.508
+    *   938
 
 
-*    *   bis 155.000
+*    *   150 000
 
-    *   1.585
+    *   965
 
 
-*    *   bis 170.000
+*    *   155 000
 
-    *   1.662
+    *   992
 
 
-*    *   bis 185.000
+*    *   160 000
 
-    *   1.739
+    *   1 019
 
 
-*    *   bis 200.000
+*    *   165 000
 
-    *   1.816
+    *   1 046
 
 
-*    *   bis 230.000
+*    *   170 000
 
-    *   1.934
+    *   1 072
 
 
-*    *   bis 260.000
+*    *   175 000
 
-    *   2.052
+    *   1 098
 
 
-*    *   bis 290.000
+*    *   180 000
 
-    *   2.170
+    *   1 125
 
 
-*    *   bis 320.000
+*    *   185 000
 
-    *   2.288
+    *   1 151
 
 
-*    *   bis 350.000
+*    *   190 000
 
-    *   2.406
+    *   1 177
 
 
-*    *   bis 380.000
+*    *   195 000
 
-    *   2.524
+    *   1 203
 
 
-*    *   bis 410.000
+*    *   200 000
 
-    *   2.642
+    *   1 229
 
 
-*    *   bis 440.000
+*    *   205 000
 
-    *   2.760
+    *   1 255
 
 
-*    *   bis 470.000
+*    *   210 000
 
-    *   2.878
+    *   1 280
 
 
-*    *   bis 500.000
+*    *   215 000
 
-    *   2.996
+    *   1 305
 
 
-*    *   vom Mehrbetrag über 500.000 Euro
+*    *   220 000
 
-    *
+    *   1 331
 
-*    *   je angefangene 50.000 Euro
 
-    *   150
+*    *   225 000
+
+    *   1 357
+
+
+*    *   230 000
+
+    *   1 381
+
+
+*    *   235 000
+
+    *   1 406
+
+
+*    *   240 000
+
+    *   1 431
+
+
+*    *   245 000
+
+    *   1 455
+
+
+*    *   250 000
+
+    *   1 479
+
+
+*    *   255 000
+
+    *   1 504
+
+
+*    *   260 000
+
+    *   1 529
+
+
+*    *   265 000
+
+    *   1 552
+
+
+*    *   270 000
+
+    *   1 576
+
+
+*    *   275 000
+
+    *   1 599
+
+
+*    *   280 000
+
+    *   1 622
+
+
+*    *   285 000
+
+    *   1 645
+
+
+*    *   290 000
+
+    *   1 668
+
+
+*    *   295 000
+
+    *   1 691
+
+
+*    *   300 000
+
+    *   1 713
+
+
+*    *   305 000
+
+    *   1 735
+
+
+*    *   310 000
+
+    *   1 757
+
+
+*    *   315 000
+
+    *   1 778
+
+
+*    *   320 000
+
+    *   1 799
+
+
+*    *   325 000
+
+    *   1 820
+
+
+*    *   330 000
+
+    *   1 841
+
+
+*    *   335 000
+
+    *   1 861
+
+
+*    *   340 000
+
+    *   1 881
+
+
+*    *   345 000
+
+    *   1 901
+
+
+*    *   350 000
+
+    *   1 919
+
+
+*    *   355 000
+
+    *   1 939
+
+
+*    *   360 000
+
+    *   1 958
+
+
+*    *   365 000
+
+    *   1 976
+
+
+*    *   370 000
+
+    *   1 995
+
+
+*    *   375 000
+
+    *   2 013
+
+
+*    *   380 000
+
+    *   2 025
+
+
+*    *   385 000
+
+    *   2 049
+
+
+*    *   390 000
+
+    *   2 065
+
+
+*    *   395 000
+
+    *   2 082
+
+
+*    *   400 000
+
+    *   2 099
+
+
+*    *   410 000
+
+    *   2 132
+
+
+*    *   420 000
+
+    *   2 164
+
+
+*    *   430 000
+
+    *   2 197
+
+
+*    *   440 000
+
+    *   2 228
+
+
+*    *   450 000
+
+    *   2 259
+
+
+*    *   460 000
+
+    *   2 289
+
+
+*    *   470 000
+
+    *   2 318
+
+
+*    *   480 000
+
+    *   2 347
+
+
+*    *   490 000
+
+    *   2 373
+
+
+*    *   500 000
+
+    *   2 399
+
+
+*    *   vom Mehrbetrag
+        über 500 000 Euro
+        je angefangene 50 000 Euro
+
+    *   139
+
+
+
+Tabelle E
+
+### Anlage 5 (Rechtsbehelfstabelle)
+
+(Fundstelle: BGBl. I 2012, 2651 - 2652;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+
+*    *   Gegenstandswert bis … Euro
+
+    *   Volle Gebühr (
+        10/10) Euro
+
+
+*    *   300
+
+    *   26
+
+
+*    *   600
+
+    *   47
+
+
+*    *   900
+
+    *   68
+
+
+*    *   1 200
+
+    *   89
+
+
+*    *   1 500
+
+    *   110
+
+
+*    *   2 000
+
+    *   140
+
+
+*    *   2 500
+
+    *   169
+
+
+*    *   3 000
+
+    *   198
+
+
+*    *   3 500
+
+    *   228
+
+
+*    *   4 000
+
+    *   257
+
+
+*    *   4 500
+
+    *   287
+
+
+*    *   5 000
+
+    *   316
+
+
+*    *   6 000
+
+    *   355
+
+
+*    *   7 000
+
+    *   394
+
+
+*    *   8 000
+
+    *   433
+
+
+*    *   9 000
+
+    *   471
+
+
+*    *   10 000
+
+    *   510
+
+
+*    *   13 000
+
+    *   552
+
+
+*    *   16 000
+
+    *   594
+
+
+*    *   19 000
+
+    *   636
+
+
+*    *   22 000
+
+    *   678
+
+
+*    *   25 000
+
+    *   720
+
+
+*    *   30 000
+
+    *   796
+
+
+*    *   35 000
+
+    *   872
+
+
+*    *   40 000
+
+    *   947
+
+
+*    *   45 000
+
+    *   1 023
+
+
+*    *   50 000
+
+    *   1 098
+
+
+*    *   65 000
+
+    *   1 179
+
+
+*    *   80 000
+
+    *   1 260
+
+
+*    *   95 000
+
+    *   1 341
+
+
+*    *   110 000
+
+    *   1 422
+
+
+*    *   125 000
+
+    *   1 503
+
+
+*    *   140 000
+
+    *   1 583
+
+
+*    *   155 000
+
+    *   1 664
+
+
+*    *   170 000
+
+    *   1 745
+
+
+*    *   185 000
+
+    *   1 826
+
+
+*    *   200 000
+
+    *   1 907
+
+
+*    *   230 000
+
+    *   2 031
+
+
+*    *   260 000
+
+    *   2 155
+
+
+*    *   290 000
+
+    *   2 279
+
+
+*    *   320 000
+
+    *   2 402
+
+
+*    *   350 000
+
+    *   2 526
+
+
+*    *   380 000
+
+    *   2 650
+
+
+*    *   410 000
+
+    *   2 774
+
+
+*    *   440 000
+
+    *   2 898
+
+
+*    *   470 000
+
+    *   3 022
+
+
+*    *   500 000
+
+    *   3 146
+
+
+*    *   vom Mehrbetrag über 500 000 Euro
+        je angefangene 50 000 Euro
+
+    *   158
 
 
 

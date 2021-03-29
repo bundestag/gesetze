@@ -69,11 +69,11 @@ maßgebend:
 2.  Der Bestand aller Anschriften mit Wohnraum ist regional nach
     Erhebungsgebieten zu gliedern. Erhebungsgebiete sind Gemeinden mit
     mindestens
-    10 000                    Einwohnern, in Städten mit mindestens
-    400 000                    Einwohnern auch Teile der Stadt mit
-    durchschnittlich etwa 200 000 Einwohnern und die auf der Kreisebene
-    zusammengefassten Gemeinden unter
-    10 000                    Einwohnern.
+    10 000 Einwohnern, in Städten mit mindestens
+    400 000 Einwohnern auch Teile der Stadt mit durchschnittlich etwa 200
+    000 Einwohnern und die auf der Kreisebene zusammengefassten Gemeinden
+    unter
+    10 000 Einwohnern.
 
 
 3.  Für jedes Erhebungsgebiet ist der jeweilige Anschriftenbestand

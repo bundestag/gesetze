@@ -2,7 +2,7 @@
 Title: Vollzugsordnung zum Postanweisungsübereinkommen
 jurabk: PostAnwÜbkVollzO
 layout: default
-origslug: postanw_bkvollzo
+origslug: postanwuebkvollzo
 slug: postanwuebkvollzo
 
 ---

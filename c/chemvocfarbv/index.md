@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2004, 3508
 
 Zuletzt geändert durch
-:   Art. 4 V v. 20.12.2010 I 2194
+:   Art. 432 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -218,15 +218,15 @@ b)  der maximale Gehalt an flüchtigen organischen Verbindungen des
 (1) Der Hersteller oder Einführer eines in Anhang I aufgeführten
 Produktes hat die für die Berichterstattung an die Europäische
 Kommission nach Absatz 2 benötigten Informationen der zuständigen
-Behörde mitzuteilen. Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit gibt die zur Erfüllung dieser Verpflichtung
+Behörde mitzuteilen. Das Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit gibt die zur Erfüllung dieser Verpflichtung
 anzuwendenden Verfahren bekannt, sobald das Format für die
 Übermittlung der Daten gemäß Artikel 7 der Richtlinie 2004/42/EG von
 der Kommission erstellt ist. Die Informationen schließen Angaben über
 Kategorien und Mengen von Produkten ein, für die eine Erlaubnis gemäß
 § 3 Abs. 3 Buchstabe b erteilt wurde.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit übermittelt auf der Grundlage der Stellungnahmen der
 Länder entsprechend den Anforderungen des Artikels 7 der Richtlinie
 2004/42/EG Berichte über die Überwachung dieser Verordnung sowie über
@@ -814,17 +814,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-## Anhang III Methoden gemäß § 3 Abs. 2
+## Anhang III Methoden gemäß § 3 Absatz 2
 
-Fundstelle des Originaltextes: BGBl. I 2004, 3514
+(Fundstelle: BGBl. I 2013, 775)
+Zulässige Methode für Erzeugnisse mit einem VOC-Gehalt von weniger als
+15 Massenhundertteilen, wenn keine reaktiven Verdünnungsmittel
+vorhanden sind:
 
 *    *   Parameter
 
     *   Einheit
 
-    *   Analysemethoden
+    *   Test
 
-    *   Veröffentlicht
+
+*    *   Methode
+
+    *   veröffentlicht
 
 
 *    *   VOC-Gehalt
@@ -833,10 +839,61 @@ Fundstelle des Originaltextes: BGBl. I 2004, 3514
 
     *   ISO 11890-2
 
-    *   2002
+    *   2006
 
 
-*    *   VOC-Gehalt, wenn reaktive Verdünnungsmittel vorhanden sind
+
+Zulässige Methoden für Produkte mit einem VOC-Gehalt von wenigstens 15
+Massenhundertteilen, wenn keine reaktiven Verdünnungsmittel vorhanden
+sind:
+
+*    *   Parameter
+
+    *   Einheit
+
+    *   Test
+
+
+*    *   Methode
+
+    *   veröffentlicht
+
+
+*    *   VOC-Gehalt
+
+    *   g/l
+
+    *   ISO 11890-1
+
+    *   2007
+
+
+*    *   VOC-Gehalt
+
+    *   g/l
+
+    *   ISO 11890-2
+
+    *   2006
+
+
+
+Zulässige Methode für VOC-haltige Produkte, wenn reaktive
+Verdünnungsmittel vorhanden sind:
+
+*    *   Parameter
+
+    *   Einheit
+
+    *   Test
+
+
+*    *   Methode
+
+    *   veröffentlicht
+
+
+*    *   VOC-Gehalt
 
     *   g/l
 

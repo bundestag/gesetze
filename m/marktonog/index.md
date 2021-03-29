@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 26.11.2008 I 2260;
 
-Geändert durch
-:   Art. 25 G v. 9.12.2010 I 1934
+Zuletzt geändert durch
+:   Art. 402 V v. 31.8.2015 I 1474
 
 
 ## (XXXX) §§ 1 bis 14 (weggefallen)
@@ -28,11 +28,11 @@ Geändert durch
 
 ## § 15 Aufzeichnungs- und Meldepflichten
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nach Anhörung der
-zuständigen obersten Landesbehörden zum Zwecke der Marktbeobachtung
-und Marktberichterstattung
+(1) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates nach Anhörung der zuständigen obersten
+Landesbehörden zum Zwecke der Marktbeobachtung und
+Marktberichterstattung
 
 1.  Erzeuger und Vereinigungen von Erzeugern, Be- und
     Verarbeitungsbetriebe sowie Handelsbetriebe, deren Tätigkeit sich auf

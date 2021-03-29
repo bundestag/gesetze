@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.9.1998 I 2765;
 
 Zuletzt geändert durch
-:   Art. 78 G v. 17.12.2008 I 2586
+:   Art. 24 Abs. 20 G v. 23.6.2017 I 1693
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -69,10 +69,14 @@ geprüften Bilanz ergibt.
 
 ### § 2 Anforderungen an Rechtsform, Unternehmensgegenstand, Sitz und Kapital
 
-(1) Eine Unternehmensbeteiligungsgesellschaft darf in der Rechtsform
-der Aktiengesellschaft, der Gesellschaft mit beschränkter Haftung, der
-Kommanditgesellschaft und der Kommanditgesellschaft auf Aktien
-betrieben werden.
+(1) Soweit sich aus den Vorschriften des Kapitalanlagegesetzbuchs
+nichts anderes ergibt, darf eine Unternehmensbeteiligungsgesellschaft
+in der Rechtsform der Aktiengesellschaft, der Gesellschaft mit
+beschränkter Haftung, der Kommanditgesellschaft und der
+Kommanditgesellschaft auf Aktien oder in einer nach dem Recht eines
+anderen Mitgliedstaates der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+vergleichbaren Rechtsform betrieben werden.
 
 (2) Satzungsmäßig oder gesellschaftsvertraglich festgelegter
 Unternehmensgegenstand der Unternehmensbeteiligungsgesellschaft muß
@@ -82,10 +86,17 @@ Veräußerung von Unternehmensbeteiligungen sein. Im
 Gesellschaftsvertrag oder in der Satzung der
 Unternehmensbeteiligungsgesellschaft ist festzulegen, ob sie eine
 offene oder eine integrierte Unternehmensbeteiligungsgesellschaft sein
-soll.
+soll. Sofern die Unternehmensbeteiligungsgesellschaft vollständig den
+Regeln des Kapitalanlagegesetzbuchs unterfällt, gilt Satz 1 abweichend
+von § 142 Satz 1 und § 150 Absatz 2 Satz 1 des
+Kapitalanlagegesetzbuchs.
 
 (3) Die Unternehmensbeteiligungsgesellschaft muß ihren Sitz und ihre
-Geschäftsleitung im Inland haben.
+Geschäftsleitung im Inland (inländische
+Unternehmensbeteiligungsgesellschaft) oder ihren Sitz in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum (EU-
+Unternehmensbeteiligungsgesellschaft) haben.
 
 (4) Das Grund- oder Stammkapital der
 Unternehmensbeteiligungsgesellschaft muß mindestens eine Million Euro
@@ -119,7 +130,10 @@ Schuldverschreibungen begeben, darf die
 Unternehmensbeteiligungsgesellschaft Darlehen nach Absatz 2 nur mit
 der Maßgabe gewähren, daß diese im Fall der Insolvenz des Unternehmens
 erst nach Befriedigung aller nicht nachrangigen Gläubiger
-zurückgezahlt werden.
+zurückgezahlt werden. Sofern die Unternehmensbeteiligungsgesellschaft
+vollständig den Regeln des Kapitalanlagegesetzbuchs unterfällt, gilt
+für die Kreditaufnahme nach Satz 1 § 215 oder § 274 des
+Kapitalanlagegesetzbuchs.
 
 (5) Der Erwerb von Grundstücken ist der
 Unternehmensbeteiligungsgesellschaft nur zur Beschaffung von
@@ -147,7 +161,7 @@ Unternehmensbeteiligungsgesellschaft von der Einschränkung des Satzes
 (2) Die Unternehmensbeteiligungsgesellschaft darf
 Unternehmensbeteiligungen an Unternehmen, deren Aktien oder
 Genußrechte zum Handel an einem organisierten Markt im Sinne des § 2
-Abs. 5 des Wertpapierhandelsgesetzes zugelassen oder die in den
+Absatz 11 des Wertpapierhandelsgesetzes zugelassen oder die in den
 Freiverkehr einbezogen oder die Mutterunternehmen solcher Unternehmen
 sind (börsennotierte Unternehmen), nur erwerben, soweit zum Zeitpunkt
 des Erwerbs dieser Unternehmensbeteiligungen die Anschaffungskosten
@@ -250,7 +264,7 @@ Unternehmensbeteiligungsgesellschaft unmittelbar oder über ein
 kontrolliertes Unternehmen mehr als 40 vom Hundert des Kapitals hält
 oder wem unmittelbar oder über ein kontrolliertes Unternehmen mehr als
 40 vom Hundert der Stimmrechte der
-Unternehmensbeteiligungsgesellschaft zustehen. § 22 Abs. 1 und 3 des
+Unternehmensbeteiligungsgesellschaft zustehen. § 34 Absatz 1 und 3 des
 Wertpapierhandelsgesetzes gilt für die Berechnung des
 Stimmrechtsanteils entsprechend, für die Berechnung des Kapitalanteils
 mit der Maßgabe entsprechend, daß an die Stelle der Stimmrechte die
@@ -299,15 +313,17 @@ betreiben, wenn sie die Anlagegrenzen des § 4 Abs. 4 beachtet.
 
 #### § 8 Jahresabschluß, Lagebericht und Abschlußprüfung
 
-(1) Auf Unternehmensbeteiligungsgesellschaften, die kleine
-Kapitalgesellschaften im Sinne des § 267 Abs. 1 des Handelsgesetzbuchs
-sind und die nicht die Voraussetzungen des § 267 Abs. 3 Satz 2 des
-Handelsgesetzbuchs erfüllen, sind die für mittelgroße
-Kapitalgesellschaften (§ 267 Abs. 2 des Handelsgesetzbuchs) geltenden
-Vorschriften des Zweiten Abschnitts des Dritten Buches des
-Handelsgesetzbuchs anzuwenden.
+(1) Auf inländische Unternehmensbeteiligungsgesellschaften, auf die §§
+148 und 158 des Kapitalanlagegesetzbuchs nicht anzuwenden sind, die
+kleine Kapitalgesellschaften im Sinne des § 267 Abs. 1 des
+Handelsgesetzbuchs sind und die nicht die Voraussetzungen des § 267
+Abs. 3 Satz 2 des Handelsgesetzbuchs erfüllen, sind die für
+mittelgroße Kapitalgesellschaften (§ 267 Abs. 2 des
+Handelsgesetzbuchs) geltenden Vorschriften des Zweiten Abschnitts des
+Dritten Buches des Handelsgesetzbuchs anzuwenden.
 
-(2) Unternehmensbeteiligungsgesellschaften, die
+(2) Inländische Unternehmensbeteiligungsgesellschaften auf die § 158
+des Kapitalanlagegesetzbuchs nicht anzuwenden ist und, die
 Kommanditgesellschaften sind, haben einen Jahresabschluß und einen
 Lagebericht entsprechend den für mittelgroße Kapitalgesellschaften (§
 267 Abs. 2 des Handelsgesetzbuchs) geltenden Vorschriften des Zweiten
@@ -315,14 +331,16 @@ Abschnitts des Dritten Buches des Handelsgesetzbuchs mit Ausnahme der
 die Offenlegung betreffenden Vorschriften der §§ 325 bis 329
 aufzustellen. Als Feststellung des Jahresabschlusses ist die Billigung
 des Jahresabschlusses durch den oder die vertretungsberechtigten
-Gesellschafter anzusehen. Soweit eine
-Unternehmensbeteiligungsgesellschaft, die Kommanditgesellschaft ist,
-zur Rechnungslegung nach den Bestimmungen des Gesetzes über die
-Rechnungslegung von bestimmten Unternehmen und Konzernen vom 15.
-August 1969 (BGBl. I S. 1189, 1970 I S. 1113), zuletzt geändert durch
-Artikel 9 des Gesetzes vom 28. Oktober 1994 (BGBl. I S. 3210),
-verpflichtet ist, verbleibt es bei dieser Verpflichtung mit der
-Maßgabe, daß sie einen Lagebericht aufzustellen hat.
+Gesellschafter anzusehen. Soweit eine inländische
+Unternehmensbeteiligungsgesellschaft, auf die § 158 des
+Kapitalanlagegesetzbuchs nicht anzuwenden ist und, die
+Kommanditgesellschaft ist, zur Rechnungslegung nach den Bestimmungen
+des Gesetzes über die Rechnungslegung von bestimmten Unternehmen und
+Konzernen vom 15. August 1969 (BGBl. I S. 1189, 1970 I S. 1113),
+zuletzt geändert durch Artikel 9 des Gesetzes vom 28. Oktober 1994
+(BGBl. I S. 3210), verpflichtet ist, verbleibt es bei dieser
+Verpflichtung mit der Maßgabe, daß sie einen Lagebericht aufzustellen
+hat.
 
 (3) Die Prüfung des Jahresabschlusses und des Lageberichts durch den
 Abschlußprüfer hat sich auch auf die Einhaltung der Vorschriften
@@ -354,7 +372,26 @@ aufzunehmen.
 ### § 14 Zuständigkeit
 
 (1) Die Aufgaben der Behörde nach den Vorschriften dieses Gesetzes
-werden von den zuständigen obersten Landesbehörden wahrgenommen.
+werden von den zuständigen obersten Landesbehörden wahrgenommen. Die
+zuständige oberste Landesbehörde bestimmt sich
+
+1.  im Fall einer inländischen Unternehmensbeteiligungsgesellschaft nach
+    dem Sitz der Unternehmensbeteiligungsgesellschaft;
+
+
+2.  im Fall einer EU-Unternehmensbeteiligungsgesellschaft, die ihre
+    Geschäftsleitung oder eine Betriebsstätte im Inland hat, nach dem Sitz
+    der Geschäftsleitung oder der Betriebsstätte;
+
+
+3.  im Fall einer EU-Unternehmensbeteiligungsgesellschaft, die keine
+    Geschäftsleitung oder Betriebsstätte im Inland hat und die nach
+    Maßgabe des § 2 Absatz 2 Beteiligungen an inländischen Unternehmen
+    erwirbt, hält, verwaltet und veräußert, nach dem Land, in dem die EU-
+    Unternehmensbeteiligungsgesellschaft schwerpunktmäßig investiert.
+
+
+
 
 (2) Die Behörde entscheidet über die Anerkennung als
 Unternehmensbeteiligungsgesellschaft und über die Rücknahme und den
@@ -364,7 +401,7 @@ und ihrer Aktionäre oder Gesellschafter aus der Anerkennung und kann
 die zur Durchsetzung dieses Gesetzes geeigneten und erforderlichen
 Anordnungen treffen.
 
-(3) Es kann ein Zwangsgeld bis zu 250.000 Euro festgesetzt werden.
+(3) Es kann ein Zwangsgeld bis zu 250 000 Euro festgesetzt werden.
 
 
 ### § 15 Anerkennung
@@ -391,10 +428,49 @@ schriftlich zu beantragen. Dem Antrag sind in Urschrift oder
 3.  ein Handelsregisterauszug nach neuestem Stand oder eine Bestätigung
     des Registergerichts, daß die Eintragung der Gesellschaft in das
     Handelsregister nur noch von der Anerkennung als
-    Unternehmensbeteiligungsgesellschaft abhängt.
+    Unternehmensbeteiligungsgesellschaft abhängt und
+
+
+4.  sofern die die Unternehmensbeteiligungsgesellschaft verwaltende
+    Verwaltungsgesellschaft nach dem Kapitalanlagegesetzbuch erlaubnis-
+    oder registrierungspflichtig ist, ein Nachweis über
+
+    a)  die Erteilung der Erlaubnis nach § 20 Absatz 1 in Verbindung mit § 22
+        des Kapitalanlagegesetzbuchs oder
+
+
+    b)  die Registrierung nach § 44 Absatz 1 des Kapitalanlagegesetzbuchs.
 
 
 
+
+
+
+
+Eine EU-Unternehmensbeteiligungsgesellschaft hat dem Antrag anstelle
+der in Satz 2 Nummer 2 und 3 genannten Dokumente vergleichbare
+Dokumente nach dem geltenden Recht ihres Herkunftsmitgliedstaates
+beizufügen. Sofern die die EU-Unternehmensbeteiligungsgesellschaft
+verwaltende Verwaltungsgesellschaft nach den von ihrem
+Herkunftsmitgliedstaat zur Umsetzung der Richtlinie 2011/61/EU des
+Europäischen Parlaments und des Rates vom 8. Juni 2011 über die
+Verwalter alternativer Investmentfonds und zur Änderung der
+Richtlinien 2003/41/EG und 2009/65/EG und der Verordnungen (EG) Nr.
+1060/2009 und (EU) Nr. 1095/2010 (ABl. L 174 vom 1.7.2011, S. 1)
+erlassenen Rechtsvorschriften erlaubnis- oder registrierungspflichtig
+ist, hat sie zusätzlich dem Antrag einen Nachweis beizufügen, dass die
+Verwaltungsgesellschaft bei der zuständigen Behörde ihres
+Herkunftsmitgliedstaates registriert ist oder sie eine Erlaubnis hat.
+Die EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in
+deutscher Sprache oder in einer in internationalen Finanzkreisen
+üblichen Sprache einzureichen.
+
+
+### § 15a Mitteilung der zuständigen Landesbehörden an die Bundesanstalt
+
+Die zuständige oberste Landesbehörde übermittelt der Bundesanstalt für
+Finanzdienstleistungsaufsicht (Bundesanstalt) jährlich eine Liste
+aller von ihr anerkannten Unternehmensbeteiligungsgesellschaften.
 
 
 ### § 16 Voraussetzungen der Anerkennung, Erlöschen
@@ -514,6 +590,9 @@ unverzüglich
 
 
 
+Eine EU-Unternehmensbeteiligungsgesellschaft hat die Dokumente in
+deutscher Sprache oder in einer in internationalen Finanzkreisen
+üblichen Sprache einzureichen.
 
 (2) Während der üblichen Arbeitszeit ist den Bediensteten der Behörde,
 soweit dies zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz
@@ -549,8 +628,9 @@ erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes
 2.  kraft Gesetzes oder im öffentlichen Auftrag mit der Überwachung von
     Unternehmensbeteiligungsgesellschaften, Börsen oder anderen
     Wertpapiermärkten, des Wertpapierhandels, von Kreditinstituten,
-    Finanzinstituten oder Versicherungsunternehmen betraute Stellen sowie
-    von diesen beauftragte Personen,
+    Finanzdienstleistungsinstituten, AIF-Kapitalverwaltungsgesellschaften
+    oder Versicherungsunternehmen betraute Stellen sowie von diesen
+    beauftragte Personen,
 
 
 3.  mit der Liquidation oder der Insolvenz einer
@@ -568,8 +648,8 @@ unterliegen. Die in Satz 3 Nr. 3 genannten Stellen, die direkt oder
 indirekt Informationen von zuständigen Stellen anderer Staaten
 erhalten, dürfen diese nur mit ausdrücklicher Zustimmung der
 übermittelnden Stellen weiter übermitteln. Im übrigen sind die
-Vorschriften des § 9 Abs. 2 des Gesetzes über das Kreditwesen
-entsprechend anzuwenden.
+Vorschriften des § 9 Absatz 5 des Kreditwesengesetzes entsprechend
+anzuwenden.
 
 
 ### § 22 Mitteilungen und Bekanntmachungen
@@ -681,6 +761,17 @@ Finanzmarktförderungsgesetzes geltenden Fassung bereits abgelaufen
 war.
 
 
+#### § 26a Übergangsvorschrift für den Nachweis nach § 15 Absatz 2 Nummer 4
+
+Eine Unternehmensbeteiligungsgesellschaft, die vor dem 22. Juli 2013
+als Unternehmensbeteiligungsgesellschaft nach Maßgabe dieses Gesetzes
+anerkannt ist und deren AIF-Kapitalverwaltungsgesellschaft nach den
+Vorschriften des Kapitalanlagegesetzbuchs erlaubnis- oder
+registrierungspflichtig ist, muss spätestens bis zum 21. Januar 2015
+der zuständigen Behörde einen Nachweis nach § 15 Absatz 2 Nummer 4
+vorlegen.
+
+
 #### § 27 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
@@ -694,12 +785,12 @@ war.
     1 zuwiderhandelt,
 
 
-3.  entgegen § 21 Abs. 1 Nr. 1 eine Anzeige nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig erstattet oder
+3.  entgegen § 21 Abs. 1 Satz 1 Nr. 1 eine Anzeige nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig erstattet oder
 
 
-4.  entgegen § 21 Abs. 1 Nr. 2 eine dort genannte Unterlage nicht, nicht
-    richtig, nicht vollständig oder nicht rechtzeitig einreicht oder
+4.  entgegen § 21 Abs. 1 Satz 1 Nr. 2 eine dort genannte Unterlage nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig einreicht oder
 
 
 5.  entgegen § 21 Abs. 2 Satz 2 eine Maßnahme nicht duldet.

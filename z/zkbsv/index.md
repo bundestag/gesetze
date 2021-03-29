@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 5.8.1996 I 1232;
 
 Zuletzt geändert durch
-:   Art. 354 V v. 31.10.2006 I 2407
+:   Art. 56 V v. 31.8.2015 I 1474
 
 
 ## § 1 Aufgaben
@@ -54,10 +54,9 @@ Bundesanzeiger bekannt.
 
 (3) Die Kommission wird angehört
 
-1.  zur Aktualisierung der vom Bundesministerium für Ernährung,
-    Landwirtschaft und Verbraucherschutz nach § 5 Abs. 6 der Gentechnik-
-    Sicherheitsverordnung im Bundesanzeiger veröffentlichten
-    Organismenlisten und
+1.  zur Aktualisierung der vom Bundesministerium für Ernährung und
+    Landwirtschaft nach § 5 Abs. 6 der Gentechnik-Sicherheitsverordnung im
+    Bundesanzeiger veröffentlichten Organismenlisten und
 
 
 2.  zu den vom Bundesministerium für Arbeit und Soziales im
@@ -72,17 +71,17 @@ Bundesanzeiger bekannt.
 
 ## § 2 Berufung der Mitglieder
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz beruft gemäß § 4 Abs. 2 des Gentechnikgesetzes die
-Mitglieder und die stellvertretenden Mitglieder im Benehmen mit den
-Landesregierungen. Bei den Berufungen nach § 4 Abs. 1 Satz 2 Nr. 1 des
-Gentechnikgesetzes sind Vorschläge des Wissenschaftsrates, bei
-Berufungen nach § 4 Abs. 1 Satz 2 Nr. 2 des Gentechnikgesetzes
-Vorschläge aus den dort genannten Bereichen einzuholen.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft beruft
+gemäß § 4 Abs. 2 des Gentechnikgesetzes die Mitglieder und die
+stellvertretenden Mitglieder im Benehmen mit den Landesregierungen.
+Bei den Berufungen nach § 4 Abs. 1 Satz 2 Nr. 1 des Gentechnikgesetzes
+sind Vorschläge des Wissenschaftsrates, bei Berufungen nach § 4 Abs. 1
+Satz 2 Nr. 2 des Gentechnikgesetzes Vorschläge aus den dort genannten
+Bereichen einzuholen.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz macht die Namen der Mitglieder und der
-stellvertretenden Mitglieder im Bundesanzeiger bekannt.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft macht die
+Namen der Mitglieder und der stellvertretenden Mitglieder im
+Bundesanzeiger bekannt.
 
 
 ## § 3 Mitglieder und stellvertretende Mitglieder
@@ -93,9 +92,8 @@ Reisekosten nach dem Bundesreisekostenrecht sowie eine
 Sitzungsentschädigung.
 
 (2) Die Mitglieder und die stellvertretenden Mitglieder können durch
-schriftliche Erklärung gegenüber dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz ihre Mitgliedschaft jederzeit
-beenden.
+schriftliche Erklärung gegenüber dem Bundesministerium für Ernährung
+und Landwirtschaft ihre Mitgliedschaft jederzeit beenden.
 
 
 ## § 4 Beteiligung anderer Personen und Stellen
@@ -304,8 +302,8 @@ enthalten.
 ## § 15 Tätigkeitsbericht und Unterrichtung der Öffentlichkeit
 
 (1) Die Kommission erstellt einen jährlichen Tätigkeitsbericht, der
-vom Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz veröffentlicht wird.
+vom Bundesministerium für Ernährung und Landwirtschaft veröffentlicht
+wird.
 
 (2) Die Kommission kann der Öffentlichkeit in geeigneter Weise über
 Stellungnahmen von allgemeiner Bedeutung berichten, jedoch nicht vor
@@ -315,10 +313,9 @@ Abschluß des jeweiligen Verfahrens nach dem Gentechnikgesetz.
 ## § 16 Geschäftsordnung
 
 Die Kommission gibt sich eine Geschäftsordnung. Die Geschäftsordnung
-bedarf der Zustimmung des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz, das seine Entscheidung im
-Einvernehmen mit den in § 4 Abs. 2 des Gentechnikgesetzes genannten
-Bundesministerien trifft.
+bedarf der Zustimmung des Bundesministeriums für Ernährung und
+Landwirtschaft, das seine Entscheidung im Einvernehmen mit den in § 4
+Abs. 2 des Gentechnikgesetzes genannten Bundesministerien trifft.
 
 
 ## § 17

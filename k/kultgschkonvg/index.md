@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1967, 1233
 
 Zuletzt geändert durch
-:   Art. 4 G v. 27.4.2004 I 630
+:   Art. 3 G v. 31.7.2016 I 1914
 
 
 ## Art 1
@@ -73,9 +73,18 @@ b)  die Verbreitung des Wortlauts der Konvention und ihrer
 
 
 (5) Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe ist
-zuständig für die Verbreitung des Wortlauts der Konvention und ihrer
-Ausführungsbestimmungen nach Artikel 25 der Konvention, soweit sie
-nicht nach Absatz 4 Buchstabe b erfolgt.
+zuständig für
+
+1.  die Verbreitung des Wortlauts der Konvention und ihrer
+    Ausführungsbestimmungen nach Artikel 25 der Konvention, soweit sie
+    nicht nach Absatz 4 Buchstabe b erfolgt,
+
+
+2.  die Verpackung, Dokumentation, Einlagerung und Aufbewahrung von
+    Sicherungsmedien an einem zentralen Bergungsort.
+
+
+
 
 (6) Die Ausführung des Artikels 5 der Konvention und des Protokolls
 wird besonders geregelt.

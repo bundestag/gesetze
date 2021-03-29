@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Dienstflagge der Seestreitkrä
   Bundeswehr
 jurabk: BPräsFlaggenAnO
 layout: default
-origslug: bpr_sflaggenano
+origslug: bpraesflaggenano
 slug: bpraesflaggenano
 
 ---

@@ -5,7 +5,7 @@ Title: Gesetz zu dem Protokoll vom 28. Juni 1984 zur Änderung des am 18. März 
   des Einkommens
 jurabk: DBAÄndProtG IND
 layout: default
-origslug: dba_ndprotg_ind
+origslug: dbaaendprotg_ind
 slug: dbaaendprotg_ind
 
 ---

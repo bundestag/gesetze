@@ -3,7 +3,7 @@ Title: Übereinkommen über den Status der Nordatlantikvertrags-Organisation, de
   Vertreter und des internationalen Personals
 jurabk: NATOStatÜbk
 layout: default
-origslug: natostat_bk
+origslug: natostatuebk
 slug: natostatuebk
 
 ---

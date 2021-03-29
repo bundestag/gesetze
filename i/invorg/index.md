@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 4. 8.1997 I 1996;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.12.2006 I 3230
+:   Art. 588 V v. 31.8.2015 I 1474
 
 
 ## Abschnitt 1 - Vorrang für Investitionen
@@ -647,8 +647,8 @@ nicht anzuwenden, die Gegenstand eines Vorhaben- und
 Erschließungsplans sind, der Bestandteil einer beschlossenen, nicht
 notwendig auch genehmigten Satzung
 nach § 246a Abs. 1 Satz 1 Nr. 6 des Baugesetzbuchs in Verbindung mit §
-55 der Bauplanungs- und Zulassungsverordnung              geworden
-ist. Ein Vorgehen nach den Abschnitten 1 bis 5 bleibt unberührt.
+55 der Bauplanungs- und Zulassungsverordnung geworden ist. Ein
+Vorgehen nach den Abschnitten 1 bis 5 bleibt unberührt.
 
 (2) Anmelder sind nur
 nach Maßgabe von § 246a Abs. 1 Satz 1 Nr. 6 des Baugesetzbuchs in
@@ -658,9 +658,9 @@ Rechtsbehelfen gegen die Satzung geltend machen. Das Amt zur Regelung
 offener Vermögensfragen, in dessen Bezirk das Gebiet liegt, ist von
 der Einleitung des Verfahrens
 nach § 246a Abs. 1 Satz 1 Nr. 6 des Baugesetzbuchs in Verbindung mit §
-55 der Bauplanungs- und Zulassungsverordnung              zu
-benachrichtigen. Es unterrichtet hierüber umgehend alle ihm bekannten
-Anmelder von Ansprüchen für die in dem Gebiet liegenden Grundstücke.
+55 der Bauplanungs- und Zulassungsverordnung zu benachrichtigen. Es
+unterrichtet hierüber umgehend alle ihm bekannten Anmelder von
+Ansprüchen für die in dem Gebiet liegenden Grundstücke.
 
 (3) Das Rückübertragungsverfahren nach dem Vermögensgesetz ist bis zum
 Beschluß über die Satzung weiterzuführen. Nach diesem Beschluß ist es
@@ -1074,14 +1074,15 @@ ist.
 
 ### § 29 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
-Bundesrates weitere Einzelheiten des Verfahrens nach den Abschnitten 2
-bis 6 regeln, insbesondere zum Inhalt des Vorhabensplans, zu weiteren
-zu übersendenden Unterlagen und zur Zuständigkeit der Behörden, wobei
-von den darin enthaltenen Bestimmungen abgewichen werden kann. Die
-Ermächtigung nach Satz 1 kann das Bundesministerium der Justiz durch
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates weitere Einzelheiten des Verfahrens
+nach den Abschnitten 2 bis 6 regeln, insbesondere zum Inhalt des
+Vorhabensplans, zu weiteren zu übersendenden Unterlagen und zur
+Zuständigkeit der Behörden, wobei von den darin enthaltenen
+Bestimmungen abgewichen werden kann. Die Ermächtigung nach Satz 1 kann
+das Bundesministerium der Justiz und für Verbraucherschutz durch
 Rechtsverordnung mit Zustimmung des Bundesrates auf die
 Landesregierungen übertragen. Unbeschadet der vorstehenden
 Vorschriften und des § 24 Abs. 3 werden die Landesregierungen

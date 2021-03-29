@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 666
 
 Zuletzt geändert durch
-:   Art. 3 G v. 17.8.2012 I 1726
+:   Art. 4 G v. 4.8.2016 I 1972
 
 
 ## § 1 Verhältnis zu anderen Vorschriften
@@ -130,11 +130,12 @@ Im Sinne dieses Gesetzes sind
 
 
 
-(2) Für Schädigungen von Arten und natürlichen Lebensräumen und die
-unmittelbare Gefahr solcher Schäden gilt dieses Gesetz im Rahmen der
-Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10.
-Dezember 1982 (BGBl. 1994 II S. 1799) auch im Bereich der
-ausschließlichen Wirtschaftszone und des Festlandsockels.
+(2) Für Schädigungen von Arten und natürlichen Lebensräumen sowie der
+Meeresgewässer außerhalb der Küstengewässer und die unmittelbare
+Gefahr solcher Schäden gilt dieses Gesetz im Rahmen der Vorgaben des
+Seerechtsübereinkommens der Vereinten Nationen vom 10. Dezember 1982
+(BGBl. 1994 II S. 1799) auch im Bereich der ausschließlichen
+Wirtschaftszone und des Festlandsockels.
 
 (3) Dieses Gesetz findet keine Anwendung auf Umweltschäden oder die
 unmittelbare Gefahr solcher Schäden, wenn sie durch
@@ -265,13 +266,17 @@ Landesbehörden erlassen die Länder die zur Umsetzung der Richtlinie
 2004/35/EG des Europäischen Parlaments und des Rates vom 21. April
 2004 über Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden
 (ABl. EU Nr. L 143 S. 56) notwendigen Kostenregelungen, Regelungen
-über Kostenbefreiungen und Kostenerstattungen einschließlich der
-Fristenregelungen; dabei können die Länder insbesondere vorsehen, dass
-der Verantwortliche unter den Voraussetzungen des Artikels 8 Abs. 4
-der Richtlinie 2004/35/EG die Kosten der durchgeführten
-Sanierungsmaßnahmen nicht zu tragen hat. Dabei berücksichtigen die
-Länder die besondere Situation der Landwirtschaft bei der Anwendung
-von Pflanzenschutzmitteln.
+über Kostenbefreiungen und Kostenerstattungen; dabei können die Länder
+insbesondere vorsehen, dass der Verantwortliche unter den
+Voraussetzungen des Artikels 8 Abs. 4 der Richtlinie 2004/35/EG die
+Kosten der durchgeführten Sanierungsmaßnahmen nicht zu tragen hat.
+Dabei berücksichtigen die Länder die besondere Situation der
+Landwirtschaft bei der Anwendung von Pflanzenschutzmitteln. Die
+Behörde ist befugt, ein Verfahren zur Kostenerstattung bis zu fünf
+Jahre ab dem Zeitpunkt des Abschlusses der Maßnahme oder der
+Ermittlung des Kostenschuldners einzuleiten, wobei diese Frist ab dem
+jeweils späteren Zeitpunkt beginnt; Rechtsvorschriften der Länder, die
+längere oder keine Fristen vorsehen, bleiben unberührt.
 
 (2) Mehrere Verantwortliche haben unabhängig von ihrer Heranziehung
 untereinander einen Ausgleichsanspruch. Soweit nichts anderes
@@ -291,7 +296,7 @@ der Maßnahme. Für Streitigkeiten steht der Rechtsweg vor den
 ordentlichen Gerichten offen.
 
 (3) Dieses Gesetz berührt nicht das Recht des Verantwortlichen, seine
-Haftung nach § 486 Abs. 1, 4 und 5, §§ 487 bis 487e des
+Haftung nach § 611 Absatz 1, 4 und 5, den §§ 612 bis 617 des
 Handelsgesetzbuchs oder nach den §§ 4 bis 5m des
 Binnenschifffahrtsgesetzes zu beschränken.
 
@@ -311,12 +316,9 @@ lassen.
 (1) Ein Verwaltungsakt nach diesem Gesetz ist zu begründen und mit
 einer Rechtsbehelfsbelehrung zu versehen.
 
-(2) Für Vereinigungen, die gemäß § 3 Abs. 1 des Umwelt-
-Rechtsbehelfsgesetzes vom 7. Dezember 2006 (BGBl. I S. 2816) anerkannt
-sind oder als anerkannt gelten, gilt für Rechtsbehelfe gegen eine
-Entscheidung oder das Unterlassen einer Entscheidung der zuständigen
-Behörde nach diesem Gesetz § 2 des Umwelt-Rechtsbehelfsgesetzes
-entsprechend.
+(2) Für Rechtsbehelfe von Vereinigungen gegen eine Entscheidung oder
+das Unterlassen einer Entscheidung der zuständigen Behörde nach diesem
+Gesetz gilt das Umwelt-Rechtsbehelfsgesetz.
 
 
 ## § 12 Zusammenarbeit mit den Mitgliedstaaten der Europäischen Union
@@ -366,17 +368,19 @@ Parlaments und des Rates über die Umwelthaftung zur Vermeidung und
 Sanierung von Umweltschäden vom 10. Mai 2007 (BGBl. I S. 666)
 anzuwenden.
 
+(zu § 3 Abs. 1)
 
-## Anlage 1 (zu § 3 Abs. 1) Berufliche Tätigkeiten
+## Anlage 1 Berufliche Tätigkeiten
 
 
 1.  Betrieb von Anlagen, für den eine Genehmigung gemäß der Richtlinie
-    96/61/EG des Rates vom 24. September 1996 über die integrierte
-    Vermeidung und Verminderung der Umweltverschmutzung erforderlich ist.
-    Dies umfasst alle in Anhang 1 der Richtlinie 96/61/EG aufgeführten
-    Tätigkeiten, mit Ausnahme von Anlagen oder Anlagenteilen, die für
-    Zwecke der Forschung, Entwicklung und Prüfung neuer Erzeugnisse und
-    Verfahren genutzt werden.
+    2010/75/EU des Europäischen Parlaments und des Rates vom 24. November
+    2010 über Industrieemissionen (integrierte Vermeidung und Verminderung
+    der Umweltverschmutzung) (Neufassung) (ABl. L 334 vom 17.12.2010, S.
+    17) erforderlich ist. Dies umfasst alle in Anhang I der Richtlinie
+    2010/75/EU aufgeführten Tätigkeiten, mit Ausnahme von Anlagen oder
+    Anlagenteilen, die für Zwecke der Forschung, Entwicklung und Prüfung
+    neuer Erzeugnisse und Verfahren genutzt werden.
 
 
 2.  Abfallbewirtschaftungsmaßnahmen (die Sammlung, die Beförderung, die
@@ -398,14 +402,14 @@ anzuwenden.
 
 3.  Einbringung, Einleitung und sonstige Einträge von Schadstoffen in
     Oberflächengewässer gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2
-    des Wasserhaushaltsgesetzes, die einer Erlaubnis gemäß § 8 Absatz 1
-    des Wasserhaushaltsgesetzes bedürfen.
+    bis 4 des Wasserhaushaltsgesetzes, die einer Erlaubnis gemäß § 8
+    Absatz 1 des Wasserhaushaltsgesetzes bedürfen.
 
 
 4.  Einbringung, Einleitung und sonstige Einträge von Schadstoffen in das
-    Grundwasser gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 des
-    Wasserhaushaltsgesetzes, die einer Erlaubnis gemäß § 8 Absatz 1 des
-    Wasserhaushaltsgesetzes bedürfen.
+    Grundwasser gemäß § 9 Absatz 1 Nummer 4 und Absatz 2 Nummer 2 bis 4
+    des Wasserhaushaltsgesetzes, die einer Erlaubnis gemäß § 8 Absatz 1
+    des Wasserhaushaltsgesetzes bedürfen.
 
 
 5.  Entnahmen von Wasser aus Gewässern gemäß § 9 Absatz 1 Nummer 1 und 5
@@ -437,7 +441,10 @@ anzuwenden.
         (ABl. L 309 vom 24.11.2009, S. 1);
 
 
-    d)  Biozid-Produkten im Sinn des § 3b Abs. 1 Nr. 1 Buchstabe a ChemG.
+    d)  Biozid-Produkten im Sinn des Artikel 3 Absatz 1 Buchstabe a der
+        Verordnung (EU) Nr. 528/2012 des Europäischen Parlaments und des Rates
+        vom 22. Mai 2012 über die Bereitstellung auf dem Markt und die
+        Verwendung von Biozidprodukten (ABl. L 167 vom 27.6.2012, S. 1).
 
 
 
@@ -484,8 +491,9 @@ anzuwenden.
 
 
 
+(zu § 3 Abs. 3 Nr. 3)
 
-## Anlage 2 (zu § 3 Abs. 3 Nr. 3) Internationale Abkommen
+## Anlage 2 Internationale Abkommen
 
 
 a)  Internationales Übereinkommen vom 27. November 1992 über die
@@ -515,8 +523,9 @@ e)  Übereinkommen vom 10. Oktober 1989 über die zivilrechtliche Haftung
 
 
 
+(zu § 3 Abs. 3 Nr. 5)
 
-## Anlage 3 (zu § 3 Abs. 3 Nr. 5) Internationale Übereinkünfte
+## Anlage 3 Internationale Übereinkünfte
 
 
 a)  Pariser Übereinkommen vom 29. Juli 1960 über die Haftung gegenüber

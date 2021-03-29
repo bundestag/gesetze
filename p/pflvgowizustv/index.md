@@ -30,12 +30,12 @@ Die Zuständigkeit für die Verfolgung und Ahndung von
 Ordnungswidrigkeiten nach § 11 des Pflichtversicherungsgesetzes vom 5.
 April 1965 (Bundesgesetzbl. I S. 213), zuletzt geändert durch das
 Einführungsgesetz zum Gesetz über Ordnungswidrigkeiten vom 24. Mai
-1968 (Bundesgesetzbl. I S. 503),              wird dem
-Bundesaufsichtsamt für das Versicherungs-
-und Bauspar             wesen übertragen, soweit es zuständige
-Genehmigungsbehörde für die Tarife, für die Ermittlung und Verteilung
-technischer Überschüsse sowie für die Provisionen in der
-Kraftfahrtversicherung ist.
+1968 (Bundesgesetzbl. I S. 503), wird dem Bundesaufsichtsamt für das
+Versicherungs-
+und Bausparwesen übertragen, soweit es zuständige Genehmigungsbehörde
+für die Tarife, für die Ermittlung und Verteilung technischer
+Überschüsse sowie für die Provisionen in der Kraftfahrtversicherung
+ist.
 
 
 ## § 2

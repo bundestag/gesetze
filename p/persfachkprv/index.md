@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 930
 
 Zuletzt geändert durch
-:   Art. 7 V v. 23.7.2010 I 1010
+:   Art. 60 V v. 26.3.2014 I 274
 
 
 
@@ -381,10 +381,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter
 Personalfachkaufmann/Geprüfte Personalfachkauffrau" vom 11. Februar
 2002
-(BGBl. I S. 930), die zuletzt durch Artikel 7 der Verordnung vom 23.
-Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+(BGBl. I S. 930), die zuletzt durch Artikel 60 der Verordnung vom 26.
+März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .............................................
 Unterschrift(en) ..................................
 (Siegel der zuständigen Stelle)
@@ -413,9 +417,9 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter
 Personalfachkaufmann/Geprüfte Personalfachkauffrau" vom 11. Februar
 2002
-(BGBl. I S. 930), die zuletzt durch Artikel 7 der Verordnung vom 23.
-Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
+(BGBl. I S. 930), die zuletzt durch Artikel 60 der Verordnung vom 26.
+März 2014
+(BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
 bestanden:
 Punkte 1)       Note
 Personalarbeit organisieren und durchführen            ..........
@@ -435,6 +439,10 @@ wurde nach
 § 5 im Hinblick auf die am .......... in .......... vor ..........
 abgelegte
 Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Ort, Datum ........................................
 Unterschrift(en) ..................................
 (Siegel der zuständigen Stelle)

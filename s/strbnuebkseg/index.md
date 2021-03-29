@@ -5,7 +5,7 @@ Title: Gesetz zu dem Protokoll vom 18. September 1997 über den Beitritt des Kö
   vom 18. September 1997 zu dem vorgenannten Übereinkommen
 jurabk: StrBNÜbkSEG
 layout: default
-origslug: strbn_bkseg
+origslug: strbnuebkseg
 slug: strbnuebkseg
 
 ---

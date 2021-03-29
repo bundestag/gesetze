@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2000, 572
 
 Zuletzt geändert durch
-:   Art. 4 V v. 2.10.2012 I 2102
+:   Art. 4 V v. 3.5.2017 I 1016
+
+Änderung durch
+:   Art. 2 § 6 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -71,11 +74,21 @@ Teilnahme am Verkehr auf den Binnenschifffahrtsstraßen.
 
 5.  Vermietung:
 
-    gewerbsmäßige Überlassung eines Sportbootes gegen Zahlung eines
-    Entgelts. Wird ein Boot ausschließlich zu Testzwecken einem
-    Kaufinteressenten überlassen, liegt keine Vermietung im Sinne dieser
-    Verordnung vor, wenn die Testfahrt den Zeitraum von 48 Stunden nicht
-    überschreitet.
+    die gegen Entgelt erfolgende Überlassung eines Sportbootes zum
+    Gebrauch an wechselnde Mieter; wird ein Sportboot ausschließlich zu
+    Testzwecken einem Kaufinteressenten überlassen, liegt keine Vermietung
+    im Sinne dieser Verordnung vor, wenn die Testfahrt den Zeitraum von 48
+    Stunden nicht überschreitet,
+
+
+6.  Gelegenheitsverkehr:
+
+    die Beförderung von Personen gegen Entgelt (Fahrgäste) unter
+    Gestellung eines Bootsführers durch das Unternehmen mit einem in Gänze
+    angemieteten Sportboot zur Ausführung einer Fahrt, deren Zweck, Ziel
+    und Ablauf ausschließlich der Mieter bestimmt und die keine
+    regelmäßige Verkehrsverbindung zwischen bestimmten Ausgangs- und
+    Endpunkten darstellt.
 
 
 
@@ -93,10 +106,8 @@ bedeuten
 
 2.  Binnenschiffsuntersuchungsordnung:
 
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450), die zuletzt durch § 38 Absatz 2 der Verordnung vom 16. Dezember
-    2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils geltenden
-    und anzuwendenden Fassung,
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung,
 
 
 3.  Binnenschifffahrt-Kennzeichnungsverordnung:
@@ -121,18 +132,19 @@ bedeuten
     anzuwendenden Fassung,
 
 
-6.  Rheinschiffsuntersuchungsordnung:
+6.  ES-TRIN:
 
-    die in § 1 Absatz 8 der Binnenschiffsuntersuchungsordnung bezeichneten
-    Vorschriften,
+    Europäischer Standard der technischen Vorschriften für Binnenschiffe
+    in der Edition 2017/1, der vom Europäischen Ausschuss für die
+    Ausarbeitung von Standards im Bereich der Binnenschifffahrt (CESNI)
+    angenommen wurde (Bekanntmachung des Bundesministeriums für Verkehr
+    und digitale Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)),
 
 
-7.  Sportbootführerscheinverordnung-Binnen:
+7.  Sportbootführerscheinverordnung:
 
-    Sportbootführerscheinverordnung-Binnen vom 22. März 1989 (BGBl. I S.
-    536, 1102), die zuletzt durch § 38 Absatz 5 der Verordnung vom 16.
-    Dezember 2011 (BGBl. 2012 I S. 2) geändert worden ist, in der jeweils
-    geltenden Fassung,
+    Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016) in
+    der jeweils geltenden Fassung,
 
 
 8.  Binnenschifffahrtsstraßen-Ordnung:
@@ -150,14 +162,24 @@ Markenamt archivmäßig gesichert niedergelegt. Sie sind über den Beuth
 Verlag GmbH, 10772 Berlin, zu beziehen.
 
 
+## § 2a Rechtsverordnung mit vorübergehender Geltungsdauer
+
+Der Generaldirektion Wasserstraßen und Schifffahrt wird die Befugnis
+nach § 3 Absatz 1, auch in Verbindung mit Absatz 2 und 6, des
+Binnenschifffahrtsaufgabengesetzes übertragen, durch Rechtsverordnung
+zu Versuchszwecken oder bis zu einer Änderung eine von dieser
+Verordnung abweichende Regelung bis zur Dauer von drei Jahren zu
+treffen.
+
+
 ## § 3 Grundregel, Zuständigkeit
 
 (1) Ein Sportboot darf nur vermietet werden, wenn es dafür technisch
 zugelassen ist. Die technische Zulassung wird auf Antrag des
-Unternehmens vom Wasser- und Schifffahrtsamt durch das Bootszeugnis
-nach dem Muster der Anlage 1 erteilt.
+Unternehmens vom Wasserstraßen- und Schifffahrtsamt durch das
+Bootszeugnis nach dem Muster der Anlage 1 erteilt.
 
-(2) Zur Durchführung dieser Verordnung ist das Wasser- und
+(2) Zur Durchführung dieser Verordnung ist das Wasserstraßen- und
 Schifffahrtsamt zuständig,
 
 1.  in dessen Amtsbezirk das Sportboot seinen ständigen Liegeplatz hat
@@ -175,7 +197,11 @@ Schifffahrtsamt zuständig,
 (1) Ein Bootszeugnis darf nur erteilt oder seine Gültigkeit verlängert
 werden, wenn das Unternehmen nachgewiesen hat, dass das Sportboot
 fahrtauglich ist (§ 5). Es wird für die Dauer der Gültigkeit des
-Nachweises über die Fahrtauglichkeit erteilt.
+Nachweises über die Fahrtauglichkeit erteilt. Sofern das Sportboot
+auch für den Gelegenheitsverkehr im Sinne des § 8a eingesetzt werden
+soll, ist der zuständigen Berufsgenossenschaft vor der Erteilung oder
+Verlängerung des Bootszeugnisses die Gelegenheit zur Stellungnahme zu
+geben.
 
 (2) Unbeschadet des Absatzes 1 darf für ein Sportboot, das keine
 gültige Konformitätserklärung nach dem Muster des Anhangs XV der
@@ -189,13 +215,14 @@ Maßnahmen, wie zum Beispiel verstärkte Ausrüstung mit Rettungsmitteln
 oder Fahrtbeschränkungen, ein für das jeweilige Fahrtgebiet
 gleichwertiges Sicherheitsniveau gewährleistet wird.
 
-(3) Das Unternehmen muss dem Wasser- und Schifffahrtsamt jede bauliche
-oder sonstige Veränderung des Sportbootes, die dessen Fahrtauglichkeit
-beeinflussen kann, mitteilen. Sie ist vom Wasser- und Schifffahrtsamt
-im Bootszeugnis einzutragen, wenn das Unternehmen nachgewiesen hat,
-dass das Sportboot weiterhin fahrtauglich ist. Ist eine der in Satz 1
-genannten Veränderungen nicht gemeldet worden, kann das Wasser- und
-Schifffahrtsamt die Erteilung des Bootszeugnisses widerrufen.
+(3) Das Unternehmen muss dem Wasserstraßen- und Schifffahrtsamt jede
+bauliche oder sonstige Veränderung des Sportbootes, die dessen
+Fahrtauglichkeit beeinflussen kann, mitteilen. Sie ist vom
+Wasserstraßen- und Schifffahrtsamt im Bootszeugnis einzutragen, wenn
+das Unternehmen nachgewiesen hat, dass das Sportboot weiterhin
+fahrtauglich ist. Ist eine der in Satz 1 genannten Veränderungen nicht
+gemeldet worden, kann das Wasserstraßen- und Schifffahrtsamt die
+Erteilung des Bootszeugnisses widerrufen.
 
 (4) Für Sportboote, die auch im Geltungsbereich der
 Sportbootvermietungsverordnung-See eingesetzt werden, kann an die
@@ -204,7 +231,7 @@ Abs. 1 Nr. 2 oder § 18 Abs. 1 der See-Sportbootverordnung treten,
 sofern darin als Fahrtbereich auch die zu befahrenden
 Binnenschifffahrtsstraßen eingetragen sind.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 Bootszeugnisse oder andere Zulassungsurkunden anerkennen, die nach
 landesrechtlichen Vorschriften erteilt werden. Die Muster dieser
 Urkunden werden im Verkehrsblatt bekannt gemacht.
@@ -236,16 +263,16 @@ Urkunden werden im Verkehrsblatt bekannt gemacht.
 (2) Abweichend von Absatz 1 kann die Fahrtauglichkeit für Sportboote
 ohne Antriebsmaschine und für Sportboote mit einer elektrischen
 Antriebsmaschine mit einer Antriebsleistung von weniger als 1 kW durch
-ein Abnahmeprotokoll mit dem Inhalt der Anlage 3 vom Wasser- und
-Schifffahrtsamt bescheinigt werden. Bei neuen Booten, die in Serie
+ein Abnahmeprotokoll mit dem Inhalt der Anlage 3 vom Wasserstraßen-
+und Schifffahrtsamt bescheinigt werden. Bei neuen Booten, die in Serie
 hergestellt werden und die mit einer Seriennummerierung versehen sind,
-kann der Hersteller einen Prototypen vom Wasser- und Schifffahrtsamt
-überprüfen lassen. Der Nachweis der Fahrtauglichkeit ist für Fahrzeuge
-dieser Baureihe die Kopie des Abnahmeprotokolls für den Prototypen
-zusammen mit der Herstellerbescheinigung, die die Baugleichheit mit
-den übrigen Fahrzeugen dieser Baureihe bestätigt, wenn im
-Abnahmeprotokoll die Seriennummern der Fahrzeuge aufgeführt sind, für
-die er gelten soll.
+kann der Hersteller einen Prototypen vom Wasserstraßen- und
+Schifffahrtsamt überprüfen lassen. Der Nachweis der Fahrtauglichkeit
+ist für Fahrzeuge dieser Baureihe die Kopie des Abnahmeprotokolls für
+den Prototypen zusammen mit der Herstellerbescheinigung, die die
+Baugleichheit mit den übrigen Fahrzeugen dieser Baureihe bestätigt,
+wenn im Abnahmeprotokoll die Seriennummern der Fahrzeuge aufgeführt
+sind, für die er gelten soll.
 
 (3) Durch den Nachweis über die Fahrtauglichkeit wird bescheinigt,
 dass das Sportboot zum Zeitpunkt der Abnahme oder im Falle des
@@ -258,22 +285,22 @@ Gültigkeitsdauer der Abnahmeprotokolle für die übrigen Fahrzeuge nach
 Absatz 1 Nr. 2 wird vom Germanischen Lloyd oder vom Sachverständigen
 festgelegt, längstens jedoch für zehn Jahre. Abnahmeprotokolle nach
 Absatz 2 für Neufahrzeuge gelten sechs Jahre. Für die übrigen
-Fahrzeuge bestimmt das Wasser- und Schifffahrtsamt die
+Fahrzeuge bestimmt das Wasserstraßen- und Schifffahrtsamt die
 Gültigkeitsdauer; sie beträgt längstens sechs Jahre.
 
 (5) Abnahmeprotokolle aus anderen Mitgliedstaaten der Europäischen
 Gemeinschaft oder aus den Mitgliedstaaten des Europäischen
 Wirtschaftsraumes sind einschließlich der durchgeführten Prüfungen und
-Überwachungen von dem Wasser- und Schifffahrtsamt als gleichwertig
-anzuerkennen, wenn in ihnen das Schutzniveau der Nachweise nach den
-Absätzen 1 bis 4 bescheinigt ist.
+Überwachungen von dem Wasserstraßen- und Schifffahrtsamt als
+gleichwertig anzuerkennen, wenn in ihnen das Schutzniveau der
+Nachweise nach den Absätzen 1 bis 4 bescheinigt ist.
 
 
 ## § 6 Verfahren
 
 (1) Der Antrag auf Ausstellung und Verlängerung des Bootszeugnisses (§
 4 Abs. 1) sowie dessen Änderung (§ 4 Abs. 3) ist vom Unternehmen bei
-dem nach § 3 Abs. 2 zuständigen Wasser- und Schifffahrtsamt zu
+dem nach § 3 Abs. 2 zuständigen Wasserstraßen- und Schifffahrtsamt zu
 stellen.
 
 (2) Im Antrag auf Erteilung des Bootszeugnisses sind anzugeben:
@@ -330,14 +357,14 @@ sind nur die Angaben nach Absatz 2 zu machen, die sich seit der
 letzten Antragstellung geändert haben.
 
 (5) Soweit Zweifel an der Fahrtauglichkeit im Sinne des § 5 bestehen,
-kann das Wasser- und Schifffahrtsamt die Vorlage weiterer Unterlagen
-und Gutachten verlangen. Es kann auch verlangen, dass das Sportboot
-zur Untersuchung auf dem Trockenen vorgeführt wird.
+kann das Wasserstraßen- und Schifffahrtsamt die Vorlage weiterer
+Unterlagen und Gutachten verlangen. Es kann auch verlangen, dass das
+Sportboot zur Untersuchung auf dem Trockenen vorgeführt wird.
 
 (6) Unbeschadet der Verpflichtung des Unternehmens nach den Absätzen 1
 bis 4 hat dieses auch Änderungen bei den Angaben nach Absatz 2 Nr. 1
-bis 4 innerhalb von vier Wochen schriftlich gegenüber dem Wasser- und
-Schifffahrtsamt anzuzeigen.
+bis 4 innerhalb von vier Wochen schriftlich gegenüber dem
+Wasserstraßen- und Schifffahrtsamt anzuzeigen.
 
 
 ## § 7 Kennzeichen
@@ -351,7 +378,7 @@ Kennzeichnungsverordnung entsprechen muss, besteht aus einer
 Kombination von
 
 1.  einem oder mehreren Kennbuchstaben nach Maßgabe der Anlage 1 der
-    Kennzeichnungsverordnung für das zuständige Wasser- und
+    Kennzeichnungsverordnung für das zuständige Wasserstraßen- und
     Schifffahrtsamt,
 
 
@@ -374,9 +401,9 @@ nicht fahrtauglich ist.
 
 (2) Das Unternehmen darf ein Sportboot nur vermieten, wenn
 
-1.  für das Sportboot ein gültiges von einem Wasser- und Schifffahrtsamt
-    ausgestelltes Bootszeugnis oder eine nach § 4 Abs. 5 anerkannte
-    Zulassungsurkunde erteilt ist,
+1.  für das Sportboot ein gültiges von einem Wasserstraßen- und
+    Schifffahrtsamt ausgestelltes Bootszeugnis oder eine nach § 4 Abs. 5
+    anerkannte Zulassungsurkunde erteilt ist,
 
 
 2.  die im Bootszeugnis oder der Zulassungsurkunde festgelegten
@@ -418,74 +445,17 @@ nicht fahrtauglich ist.
 
 Nummer 3 gilt nicht auf der Eder- und der Diemeltalsperre.
 
-(4) Das Unternehmen darf ein Sportboot
+(4) Das Unternehmen darf ein Sportboot nur an Personen vermieten, die
+nach den jeweils einschlägigen Vorschriften zum Führen eines
+Sportbootes auf den Binnenschifffahrtsstraßen berechtigt sind.
 
-1.  mit einer Länge von weniger als 15 m nur an Personen vermieten, die
-    nach der Sportbootführerscheinverordnung-Binnen zum Führen eines
-    Sportbootes berechtigt sind,
-
-    a)  über die nach der Sportbootführerscheinverordnung-Binnen erforderliche
-        Fahrerlaubnis verfügen, wobei deren § 3 Abs. 1 Nr. 1 nicht anzuwenden
-        ist,
-
-
-    b)  auf dem Rhein unabhängig vom Wohnsitz über ein Befähigungszeugnis
-        verfügen, das den nationalen Vorschriften der Rheinuferstaaten und
-        Belgiens für Binnengewässer entspricht, sofern das Sportboot mit einer
-        Antriebsmaschine mit einer effektiven Nutzleistung von mehr als 3,68
-        kW (5 PS) ausgerüstet ist,
-
-
-    c)  bei ausländischem Wohnsitz über die Fahrerlaubnis nach Buchstabe a
-        oder über ein amtliches Befähigungszeugnis für Binnengewässer ihres
-        Wohnsitzstaates oder, sofern ein solches dort nicht erteilt wird, über
-        ein Befähigungszeugnis für Binnengewässer eines Wassersportverbandes
-        ihres Wohnsitzstaates verfügen,
-
-
-
-
-
-2.  mit einer Länge von 15 m und mehr nur an Personen vermieten, die
-
-    a)  auf dem Rhein mindestens über ein Sportpatent nach § 6.04 Nummer 1
-        Buchstabe c der Schiffspersonalverordnung-Rhein,
-
-
-    b)  auf den übrigen Binnenschifffahrtsstraßen über die erforderliche
-        Fahrerlaubnis nach § 3 Abs. 1 oder ein Befähigungszeugnis nach § 4
-        Abs. 3 Nr. 1, § 5 Abs. 1 Nr. 1 bis 3, Abs. 3, § 6 Abs. 1 der
-        Binnenschifferpatentverordnung
-
-
-
-
-
-
-verfügen.
-
-(5) Verfügt der Mieter nicht über die erforderliche Fahrerlaubnis oder
-das erforderliche Befähigungszeugnis, kann er einen Bootsführer
-benennen, der die Anforderungen des Absatzes 4 erfüllt. Unbeschadet
-der Rheinschiffsuntersuchungsordnung kann auch das Unternehmen auf
-ausdrückliches Verlangen des Mieters auf Fahrzeugen, die nicht eigens
-zur Beförderung von Fahrgästen gebaut und eingerichtet sind, einen
-Bootsführer einsetzen. Das Unternehmen hat über das Verlangen des
-Mieters nach Satz 2 unverzüglich eine Bescheinigung auszustellen, die
-vom Mieter gegenzuzeichnen ist. Der Bootsführer hat eine Kopie dieser
-Bescheinigung an Bord mitzuführen und den zur Kontrolle befugten
-Personen auf Verlangen zur Prüfung auszuhändigen. Der Unternehmer hat
-die Bescheinigung mindestens für ein Jahr ab dem Tag der Ausstellung
-aufzubewahren und den zur Kontrolle befugten Personen auf Verlangen
-zur Prüfung auszuhändigen.
-
-(6) An der Liegestelle hat das Unternehmen ein fahrbereites Boot nach
+(5) An der Liegestelle hat das Unternehmen ein fahrbereites Boot nach
 der Norm DIN EN 1914 : 1997 und mindestens einen Rettungsring nach der
 DIN EN 14144 : 2003 bereitzuhalten. Je nach Art und Umfang des
-Vermietbetriebs kann das Wasser- und Schifffahrtsamt davon
+Vermietbetriebs kann das Wasserstraßen- und Schifffahrtsamt davon
 Abweichendes bestimmen.
 
-(7) Das Unternehmen hat dafür zu sorgen, dass
+(6) Das Unternehmen hat dafür zu sorgen, dass
 
 1.
     a)  der Wortlaut dieser Verordnung an der Betriebsstätte deutlich sichtbar
@@ -518,12 +488,40 @@ Abweichendes bestimmen.
     naturschutzgerechte Verhalten hingewiesen wird,
 
 
-5.  an der Liegestelle das Ein- und Aussteigen überwacht wird.
+5.  an der Liegestelle das Ein- und Aussteigen überwacht wird und
+
+
+6.  im Gelegenheitsverkehr
+
+    a)  nicht mehr als 12 Fahrgäste befördert werden,
+
+
+    b)  die vorgeschriebene Ausrüstung nach § 8a Absatz 2 an Bord vorhanden
+        ist,
+
+
+    c)  Flüssiggasanlagen an Bord nur betrieben werden, wenn das Sportboot
+        über einen elektrischen Antrieb oder einen Antrieb mit
+        Verbrennungsmotoren oder über andere Verbrennungsmotoren verfügt, die
+        mit einem Brennstoff betrieben werden, dessen Flammpunkt über 55 °C
+        liegt,
+
+
+    d)  Flüssiggasanlagen an Bord dem Kapitel 17 ES-TRIN entsprechen und
+
+
+    e)  Flüssiggasanlagen an Bord in geschlossenen Räumen mit
+        Warneinrichtungen für gesundheitsgefährdende Konzentrationen von
+        Kohlenmonoxid sowie für explosionsfähige Gas-Luftgemische ausgestattet
+        sind.
 
 
 
 
-(8) Das Unternehmen hat den Mieter oder den Bootsführer vor
+
+
+
+(7) Das Unternehmen hat den Mieter oder den Bootsführer vor
 Fahrtantritt darauf hinzuweisen, dass
 
 1.  die Zahl der zugelassenen Personen nicht überschritten werden darf und
@@ -535,7 +533,7 @@ Fahrtantritt darauf hinzuweisen, dass
 
 
 
-(9) Sofern das Bootszeugnis für ein Sportboot eine Ausrüstungspflicht
+(8) Sofern das Bootszeugnis für ein Sportboot eine Ausrüstungspflicht
 mit Rettungswesten nicht oder nichts anderes vorschreibt, hat das
 Unternehmen an der Betriebsstätte eine ausreichende Anzahl von
 Rettungswesten in verschiedenen Größen, die mindestens der Norm DIN EN
@@ -544,14 +542,113 @@ Wunsch kostenlos zur Verfügung zu stellen. Hierauf hat das Unternehmen
 deutlich sichtbar durch einen Aushang hinzuweisen.
 
 
+## § 8a Gelegenheitsverkehr
+
+(1) Eine Fahrt im Gelegenheitsverkehr ist auf die Beförderung von
+höchstens zwölf Fahrgästen und auf die Wasserstraßen der Zone 3, mit
+Ausnahme der Wasserstraße Rhein, und der Zone 4, mit Ausnahme der
+Wasserstraße Oder, des Anhangs I der Binnenschiffsuntersuchungsordnung
+beschränkt.
+
+(2) Unbeschadet der Festlegungen in dem Bootszeugnis oder der nach § 4
+Absatz 5 anerkannten Zulassungsurkunde muss an Bord eines Sportbootes
+bei einer Fahrt im Gelegenheitsverkehr folgende Ausrüstung an Bord
+vorhanden sein:
+
+1.  je nach befahrener Wasserstraße eine Sprechfunkanlage nach § 4.05 der
+    Binnenschifffahrtsstraßen-Ordnung, der
+    Moselschifffahrtspolizeiverordnung oder der Anlage A zur
+    Donauschifffahrtspolizeiverordnung;
+
+
+2.  mindestens zwei Rettungsringe entsprechend Artikel 19.09 Nummer 1 ES-
+    TRIN, die sich verwendungsbereit an geeigneter Stelle an Deck befinden
+    und in ihrer Halterung nicht befestigt sind;
+
+
+3.  für jeden beförderten Fahrgast und jedes Besatzungsmitglied eine
+    Rettungsweste nach Artikel 13.08 Nummer 2 ES-TRIN, wobei für die
+    Fahrgäste auch Feststoff- oder halbautomatisch aufblasbare
+    Rettungswesten zulässig sind;
+
+
+4.  Geräte und Vorrichtungen, die zum Geben der vorgeschriebenen Sicht-
+    und Schallzeichen und zur Bezeichnung der Fahrzeuge entsprechend ihrer
+    Länge erforderlich sind;
+
+
+5.  Festmacheleinen, Schleppleinen, Wurfleinen, Fender;
+
+
+6.  ein geeigneter Verbandkasten mit einem Inhalt entsprechend der Norm
+    DIN 13157, Ausgabe November 2009 oder DIN 13169, Ausgabe November
+    2009, der so untergebracht sein muss, dass er im Bedarfsfall leicht
+    und sicher erreicht werden kann; sind Verbandkästen verdeckt
+    aufgestellt, muss die Abdeckung durch das nachstehende Symbol mit
+    einer Kantenlänge von mindestens 10 cm gekennzeichnet sein:
+
+    *        *            ![bgbl1_2018_j1398-1_0010.jpg](bgbl1_2018_j1398-1_0010.jpg)   ;
+
+
+
+
+
+
+7.  ein Bootshaken;
+
+
+8.  ein Doppelglas, 7 x 50 oder größerer Linsendurchmesser.
+
+
+
+
+(3) Offene Feuerstellen dürfen an Bord nicht betrieben werden.
+
+(4) Flüssiggasanlagen dürfen an Bord nur betrieben werden, wenn das
+Sportboot über einen elektrischen Antrieb oder einen Antrieb mit
+Verbrennungsmotoren oder über andere Verbrennungsmotoren verfügt, die
+mit einem Brennstoff betrieben werden, dessen Flammpunkt über 55 °C
+liegt. Die Flüssiggasanlagen müssen Kapitel 17 ES-TRIN entsprechen;
+Artikel 17.13 Satz 3 und Artikel 17.15 Nummer 1 und 2 ES-TRIN sind
+nicht anzuwenden. Flüssiggasanlagen in geschlossenen Räumen müssen mit
+geeigneten Warneinrichtungen für gesundheitsgefährdende
+Konzentrationen von Kohlenmonoxid und für explosionsfähige Gas-
+Luftgemische ausgestattet sein. Die gültige Bescheinigung des
+Sachverständigen über die Prüfung der Flüssiggasanlagen ist an Bord
+mitzuführen und auf Verlangen den zur Kontrolle befugten Personen
+auszuhändigen.
+
+(5) Bei einer Geschwindigkeit des Sportbootes von 40 km/h oder mehr
+haben alle Personen an Bord Rettungswesten anzulegen und der
+Sportbootführer seine Aufgaben im Steuerstand sitzend auszuüben.
+
+(6) Ein Sportboot darf während der Anwesenheit Beschäftigter im Sinne
+des § 2 Absatz 2 des Arbeitsschutzgesetzes nur betrieben werden, wenn
+dabei sichergestellt ist, dass den Anforderungen der Artikel 14.01 bis
+14\.06, 14.08, 14.09, 14.11 und 14.13 ES-TRIN unter Beachtung der
+baulichen und sonstigen technischen Besonderheiten des eingesetzten
+Sportbootes sinngemäß entsprochen wird. Weitergehende
+arbeitsschutzrechtliche Vorschriften bleiben unberührt. Die zuständige
+Behörde erteilt das Bootszeugnis auf Vorschlag der zuständigen
+Berufsgenossenschaft mit den erforderlichen Auflagen.
+
+(7) Das Unternehmen hat den im Rahmen des Gelegenheitsverkehrs
+abgeschlossenen Mietvertrag dem Wasserstraßen- und Schifffahrtsamt auf
+Verlangen zur Prüfung auszuhändigen. Das Wasserstraßen- und
+Schifffahrtsamt kann dem Unternehmen die Ausübung des
+Gelegenheitsverkehrs verbieten, wenn Tatsachen die Annahme
+rechtfertigen, dass es wiederholt oder grob pflichtwidrig gegen die
+Bestimmungen der Absätze 2 bis 6 oder Satz 1 verstoßen hat.
+
+
 ## § 9 Charterbescheinigung
 
-(1) In den Fällen des § 8 Abs. 4 Nr. 1 Buchstabe a und c genügt
-anstelle der dort genannten Fahrerlaubnisse und Befähigungszeugnisse
-die amtlich anerkannte Bescheinigung des zuverlässigen Unternehmens
-über die ausreichende Befähigung des Mieters oder des von ihm
-bestimmten Bootsführers (Charterbescheinigung) nach dem Muster der
-Anlage 4 nach Maßgabe der Absätze 2, 4 und 5.
+(1) Abweichend von § 8 Absatz 4 darf ein Unternehmen ein Sportboot von
+weniger als 15 Metern Länge auch vermieten an Personen, denen es eine
+amtlich anerkannte Bescheinigung über die ausreichende Befähigung des
+Mieters oder des von ihm bestimmten Bootsführers
+(Charterbescheinigung) nach dem Muster der Anlage 4 nach Maßgabe der
+Absätze 2, 4 und 5 ausgestellt hat.
 
 (2) Das zuverlässige Unternehmen darf eine Charterbescheinigung nur
 ausstellen:
@@ -581,17 +678,17 @@ ausstellen:
 
 Das zuverlässige Unternehmen hat eine Zweitschrift der
 Charterbescheinigung zu fertigen sowie diese für einen Zeitraum von
-sechs Monaten nach Ausstellung aufzubewahren und dem Wasser- und
-Schifffahrtsamt auf Verlangen zur Prüfung auszuhändigen.
+sechs Monaten nach Ausstellung aufzubewahren und dem Wasserstraßen-
+und Schifffahrtsamt auf Verlangen zur Prüfung auszuhändigen.
 
-(3) Das Wasser- und Schifffahrtsamt kann dem Unternehmen die
+(3) Das Wasserstraßen- und Schifffahrtsamt kann dem Unternehmen die
 Ausstellung von Charterbescheinigungen verbieten, wenn Tatsachen die
 Annahme rechtfertigen, dass es die erforderliche Zuverlässigkeit nicht
 besitzt. Die erforderliche Zuverlässigkeit besitzt in der Regel ein
 Unternehmen nicht, das wiederholt oder grob pflichtwidrig gegen die
 Bestimmungen des Absatzes 2 oder des § 8 verstoßen oder Bediensteten
-des Wasser- und Schifffahrtsamtes die Überprüfung einer Einweisung im
-Rahmen der Überwachung nach § 6 Abs. 2 des
+des Wasserstraßen- und Schifffahrtsamtes die Überprüfung einer
+Einweisung im Rahmen der Überwachung nach § 6 Abs. 2 des
 Binnenschifffahrtsaufgabengesetzes verweigert hat. Das Unternehmen hat
 das Verbot nach Satz 1 zu beachten.
 
@@ -602,26 +699,66 @@ Sportbootführer als weiterer Verantwortlicher für dessen Pflichten.
 eingetragenen Beschränkungen beachten.
 
 
-## § 10 Pflichten des Mieters und des Sportbootführers
+## § 10 Pflichten des Sportbootführers
 
-(1) Der Mieter darf nicht zulassen, dass ein Sportboot von Personen
-geführt wird, denen nach § 8 Abs. 3 oder 4 ein Sportboot nicht
-vermietet werden darf.
-
-(2) Der Sportbootführer hat dafür zu sorgen, dass
+(1) Der Sportbootführer hat dafür zu sorgen, dass
 
 1.  die Zahl der zugelassenen Personen nicht überschritten wird,
 
 
 2.  die nach dem Bootszeugnis vorgeschriebene Mindestbesatzung während der
-    Fahrt an Bord ist und
+    Fahrt an Bord ist,
 
 
 3.  die im Bootszeugnis eingetragenen Fahrtbereiche nicht verlassen
-    werden.
+    werden,
+
+
+4.  im Gelegenheitsverkehr
+
+    a)  nicht mehr als zwölf Fahrgäste befördert werden,
+
+
+    b)  die vorgeschriebene Ausrüstung nach § 8a Absatz 2 an Bord vorhanden
+        ist,
+
+
+    c)  an Bord keine offene Feuerstelle betrieben wird,
+
+
+    d)  Flüssiggasanlagen an Bord nur betrieben werden, wenn das Sportboot
+        über einen elektrischen Antrieb oder einen Antrieb mit
+        Verbrennungsmotoren oder über andere Verbrennungsmotoren verfügt, die
+        mit einem Brennstoff betrieben werden, dessen Flammpunkt über 55 °C
+        liegt,
+
+
+    e)  Flüssiggasanlagen an Bord dem Kapitel 17 ES-TRIN entsprechen,
+
+
+    f)  Flüssiggasanlagen an Bord in geschlossenen Räumen mit
+        Warneinrichtungen für gesundheitsgefährdende Konzentrationen von
+        Kohlenmonoxid sowie für explosionsfähige Gas-Luftgemische ausgestattet
+        sind,
+
+
+    g)  die gültige Bescheinigung des Sachverständigen über die Prüfung der
+        Flüssiggasanlagen an Bord mitgeführt und auf Verlangen den zur
+        Kontrolle befugten Personen ausgehändigt wird und
+
+
+    h)  bei einer Geschwindigkeit des Sportbootes von 40 km/h oder mehr alle
+        Personen an Bord Rettungswesten anlegen.
 
 
 
+
+
+
+
+(2) Der Sportbootführer hat im Gelegenheitsverkehr bei einer
+Geschwindigkeit des Sportbootes von 40 km/h oder mehr seine Aufgaben
+im Steuerstand sitzend auszuüben.
 
 
 ## § 11 Ordnungswidrigkeiten
@@ -644,78 +781,132 @@ fahrlässig
     c)  entgegen § 8 Abs. 2, 3 Satz 1 oder Abs. 4 ein Sportboot vermietet,
 
 
-    d)  entgegen § 8 Abs. 5 Satz 3 nicht oder nicht rechtzeitig ausstellt,
-
-
-    e)  entgegen § 8 Abs. 5 Satz 5 eine Bescheinigung nicht mindestens ein
-        Jahr aufbewahrt oder nicht rechtzeitig den zur Kontrolle befugten
-        Personen aushändigt,
-
-
-    f)  entgegen § 8 Abs. 6 Satz 1 ein dort genanntes Boot oder einen dort
+    d)  entgegen § 8 Absatz 5 Satz 1 ein dort genanntes Boot oder einen dort
         genannten Rettungsring nicht bereithält,
 
 
-    g)  entgegen § 8 Abs. 7 Nr. 1 Buchstabe a nicht dafür sorgt, dass der dort
-        genannte Aushang angebracht ist,
+    e)  entgegen § 8 Absatz 6 Nr. 1 Buchstabe a nicht dafür sorgt, dass der
+        dort genannte Aushang angebracht ist,
 
 
-    h)  entgegen § 8 Abs. 7 Nr. 1 Buchstabe b, Nr. 2 oder 4 nicht dafür sorgt,
-        dass die dort genannten Hinweise gegeben werden,
+    f)  entgegen § 8 Absatz 6 Nr. 1 Buchstabe b, Nr. 2 oder 4 nicht dafür
+        sorgt, dass die dort genannten Hinweise gegeben werden,
 
 
-    i)  entgegen § 8 Abs. 7 Nr. 2 nicht dafür sorgt, dass sich die dort
+    g)  entgegen § 8 Absatz 6 Nr. 2 nicht dafür sorgt, dass sich die dort
         genannten Unterlagen und eine beglaubigte Kopie des Bootszeugnisses an
         Bord befinden,
 
 
-    j)  entgegen § 8 Abs. 7 Nr. 3 nicht dafür sorgt, dass das Sportboot mit
+    h)  entgegen § 8 Absatz 6 Nr. 3 nicht dafür sorgt, dass das Sportboot mit
         den dort genannten Angaben versehen ist,
 
 
-    k)  entgegen § 8 Abs. 8 einen Hinweis nicht, nicht richtig, nicht
+    i)  entgegen § 8 Absatz 6 Nummer 4 nicht dafür sorgt, dass ein Hinweis
+        gegeben wird,
+
+
+    j)  entgegen § 8 Absatz 6 Nummer 5 nicht dafür sorgt, dass das Ein- oder
+        Aussteigen überwacht wird,
+
+
+    k)  entgegen § 8 Absatz 6 Nummer 6 Buchstabe a nicht dafür sorgt, dass
+        nicht mehr als zwölf Fahrgäste befördert werden,
+
+
+    l)  entgegen § 8 Absatz 6 Nummer 6 Buchstabe b nicht dafür sorgt, dass die
+        dort genannte Ausrüstung vorhanden ist,
+
+
+    m)  entgegen § 8 Absatz 6 Nummer 6 Buchstabe c nicht dafür sorgt, dass
+        eine Flüssiggasanlage nur in einem dort genannten Fall betrieben wird,
+
+
+    n)  entgegen § 8 Absatz 6 Nummer 6 Buchstabe d nicht dafür sorgt, dass
+        eine Flüssiggasanlage den dort genannten Vorschriften entspricht,
+
+
+    o)  entgegen § 8 Absatz 6 Nummer 6 Buchstabe e nicht dafür sorgt, dass
+        eine Flüssiggasanlage mit den dort genannten Warneinrichtungen
+        ausgestattet ist,
+
+
+    p)  entgegen § 8 Absatz 7 einen Hinweis nicht, nicht richtig, nicht
         vollständig oder nicht rechtzeitig gibt,
 
 
-    l)  entgegen § 9 Abs. 2 Satz 1 eine Charterbescheinigung ausstellt,
+    q)  entgegen § 8a Absatz 7 Satz 1 den dort genannten Mietvertrag nicht,
+        nicht richtig, nicht vollständig oder nicht rechtzeitig aushändigt,
 
 
-    m)  entgegen § 9 Abs. 2 Satz 2 eine dort genannte Zweitschrift nicht oder
+    r)  entgegen § 9 Abs. 2 Satz 1 eine Charterbescheinigung ausstellt,
+
+
+    s)  entgegen § 9 Abs. 2 Satz 2 eine dort genannte Zweitschrift nicht oder
         nicht mindestens sechs Monate aufbewahrt oder nicht oder nicht
         rechtzeitig aushändigt oder
 
 
-    n)  einer vollziehbaren Anordnung nach § 9 Abs. 3 Satz 1 zuwiderhandelt.
+    t)  einer vollziehbaren Anordnung nach § 9 Abs. 3 Satz 1 zuwiderhandelt.
 
 
 
 
 
-2.  als Mieter entgegen § 10 Abs. 1 zulässt, dass das Sportboot von einer
-    dort genannten Person geführt wird oder
+2.  als Sportbootführer
 
-
-3.  als Sportbootführer
-
-    a)  entgegen § 8 Abs. 5 Satz 4 eine Kopie der dort genannten Bescheinigung
-        nicht an Bord mitführt oder den zur Kontrolle befugten Personen nicht
-        zur Prüfung aushändigt,
-
-
-    b)  entgegen § 9 Abs. 5 eine im Charterschein eingetragene Beschränkung
+    a)  entgegen § 9 Absatz 5 eine im Charterschein eingetragene Beschränkung
         nicht beachtet,
 
 
-    c)  entgegen § 10 Abs. 2 Nr. 1 nicht dafür sorgt, dass die Zahl der
+    b)  entgegen § 10 Absatz 1 Nummer 1 nicht dafür sorgt, dass die Zahl der
         zugelassenen Personen nicht überschritten wird,
 
 
-    d)  entgegen § 10 Abs. 2 Nr. 2 nicht dafür sorgt, dass die vorgeschriebene
-        Mindestbesatzung während der Fahrt an Bord ist oder
+    c)  entgegen § 10 Absatz 1 Nummer 2 nicht dafür sorgt, dass die
+        vorgeschriebene Mindestbesatzung während der Fahrt an Bord ist,
 
 
-    e)  entgegen § 10 Abs. 2 Nr. 3 nicht dafür sorgt, dass die eingetragenen
-        Fahrtbereiche nicht verlassen werden.
+    d)  entgegen § 10 Absatz 1 Nummer 3 nicht dafür sorgt, dass die
+        eingetragenen Fahrtbereiche nicht verlassen werden,
+
+
+    e)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe a nicht dafür sorgt, dass
+        nicht mehr als zwölf Fahrgäste befördert werden,
+
+
+    f)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe b nicht dafür sorgt, dass
+        eine dort genannte Ausrüstung vorhanden ist,
+
+
+    g)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe c nicht dafür sorgt, dass
+        keine offene Feuerstelle betrieben wird,
+
+
+    h)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe d nicht dafür sorgt, dass
+        eine Flüssiggasanlage nur in einem dort genannten Fall betrieben wird,
+
+
+    i)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe e nicht dafür sorgt, dass
+        eine Flüssiggasanlage den dort genannten Vorschriften entspricht,
+
+
+    j)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe f nicht dafür sorgt, dass
+        eine Flüssiggasanlage mit den dort genannten Warneinrichtungen
+        ausgestattet ist,
+
+
+    k)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe g nicht dafür sorgt, dass
+        die dort genannte Bescheinigung an Bord mitgeführt oder den zur
+        Kontrolle befugten Personen ausgehändigt wird,
+
+
+    l)  entgegen § 10 Absatz 1 Nummer 4 Buchstabe h nicht dafür sorgt, dass
+        eine Rettungsweste angelegt wird oder
+
+
+    m)  entgegen § 10 Absatz 2 eine Aufgabe nicht, nicht richtig, nicht
+        vollständig oder nicht in der vorgeschriebenen Weise ausübt.
 
 
 
@@ -743,7 +934,7 @@ Amtliche Vermerke (z.B. Veränderungen):
 ..
 ......................................................................
 ..
-Wasser- und Schifffahrtsamt
+Wasserstraßen- und Schifffahrtsamt
 ..................................
 ...................................   Im Auftrag
 Ort, Datum
@@ -753,7 +944,7 @@ Unterschrift
 ----------------------------------------------------------------------
 --
 Die Gültigkeit des Bootszeugnisses wird verlängert bis:
-Wasser- und Schifffahrtsamt
+Wasserstraßen- und Schifffahrtsamt
 ..................................
 ...................................   Im Auftrag
 Ort, Datum
@@ -763,8 +954,8 @@ Unterschrift
 ----------------------------------------------------------------------
 --
 Bundesrepublik Deutschland
-Wasser- und Schifffahrtsverwaltung
-des Bundes
+Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes
 (... Bundesadler)
 Bootszeugnis
 Nr.
@@ -826,7 +1017,7 @@ Prototypenabnahme:            --- ja     --- nein
 .....................................................................
 Das Bootszeugnis ist gültig bis:
 .......................................
-Wasser- und Schifffahrtsamt
+Wasserstraßen- und Schifffahrtsamt
 ..................................
 ...................................   Im Auftrag
 Ort, Datum
@@ -1138,17 +1329,16 @@ Das Abnahmeprotokoll ist gültig bis
 Die Abnahme erfolgte durch:
 ............................................
 Ort und Datum .....................
-Stempel            Unterschrift .......................
------
+Stempel            Unterschrift .......................-----
 
-1)  Amtliche Kennzeichen sind: Die von den Wasser- und Schifffahrtsämtern
-    (WSÄ) erteilten, die Binnenschiffsregistriernummer (gefolgt von dem
-    Kennbuchstaben B) mit Namen und Heimat- oder Registerort,
-    Funkrufzeichen (einschl. Unterscheidungssignal),
+1)  Amtliche Kennzeichen sind: Die von den Wasserstraßen- und
+    Schifffahrtsämtern (WSÄ) erteilten, die Binnenschiffsregistriernummer
+    (gefolgt von dem Kennbuchstaben B) mit Namen und Heimat- oder
+    Registerort, Funkrufzeichen (einschl. Unterscheidungssignal),
     Seeschiffsregisternummer (mit Schiffsnamen und Heimathafen) oder IMO-
     Nummer, die Nummer des Flaggenzertifikats (gefolgt von dem
     Kennbuchstaben F), das Vermietungskennzeichen und die vom
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung anerkannten,
+    Bundesministerium für Verkehr und digitale Infrastruktur anerkannten,
     nach landesrechtlichen Vorschriften zugeteilten amtlichen Kennzeichen.
 
 
@@ -1163,8 +1353,8 @@ Stempel            Unterschrift .......................
 ## Anlage 3 (zu § 5 Abs. 2)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 4588 - 4589
-Wasser- und Schifffahrtsamt
-...........................
+Wasserstraßen- und Schifffahrtsamt
+..................................
 Abnahmeprotokoll und Fahrtauglichkeitsbescheinigung
 gemäß § 5 Abs. 2 der Binnenschifffahrt-Sportbootvermietungsverordnung
 ... Erste Untersuchung   ... Nachuntersuchung   ... Sonderuntersuchung
@@ -1244,8 +1434,9 @@ Die Fahrtauglichkeitsbescheinigung ist gültig bis
 ........................
 Untersuchungsort        Datum                    Unterschrift
 
+(zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b)
 
-## Anlage 4 (zu § 9 Abs. 1 und 2 Nr. 3 Buchstabe b) Charterbescheinigung und Einweisung
+## Anlage 4 Charterbescheinigung und Einweisung
 
 Fundstelle des Originaltextes: BGBl. I 20030, 2527 -2529;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1822,10 +2013,13 @@ I
 
 
 
+(zu § 9 Abs. 2 Nr. 1)
 
-## Anlage 5 (zu § 9 Abs. 2 Nr. 1) Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
+## Anlage 5 Binnenschifffahrtsstraßen, die mit Charterbescheinigung befahren werden dürfen
 
-(Fundstelle: BGBl I 2009, 889 - 892)
+(Fundstelle: BGBl I 2009, 889 - 892);
+bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 
 *    *   Lfd.
         Nr.
@@ -1861,6 +2055,26 @@ I
 
 *    *   2.1
 
+    *   Oranienburger Kanal
+
+    *   21,01
+
+    *   28,77
+
+    *
+
+*    *   2.2
+
+    *   Oranienburger Havel
+
+    *   0,13
+
+    *   3,91
+
+    *
+
+*    *   2.3
+
     *   Finowkanal
 
     *   89,3 (Schleuse Liepe)
@@ -1869,7 +2083,7 @@ I
 
     *
 
-*    *   2.2
+*    *   2.4
 
     *   Werbelliner Gewässer
 
@@ -1879,10 +2093,9 @@ I
 
     *   Querung der Havel-Oder-Wasserstraße nur, wenn auf der Havel-Oder-
         Wasserstraße kein Fahrzeug in Sicht ist
-        Die Strecke entfällt mit Ablauf des 30. Juni 2014
 
 
-*    *   2.3
+*    *   2.5
 
     *   Werbelliner Gewässer
 
@@ -1972,7 +2185,7 @@ I
 
     *   152,50 (Klink an der Müritz)
 
-    *   167 (Ausfahrt Hafendorf Claassee)
+    *   167 (Ausfahrt Hafendorf Mueritz am Claassee)
 
     *
         1.  Fahrt nur entlang der Fahrrinnenbezeichnung des westlichen Ufers
@@ -1999,7 +2212,7 @@ I
 
     *   MEW
 
-    *   167 (Ausfahrt Hafendorf Claassee)
+    *   167 (Ausfahrt Hafendorf Mueritz am Claassee)
 
     *   180 (Buchholz)
 
@@ -2082,17 +2295,10 @@ I
 
     *   2,50 (Malchin)
 
-    *
-        a)  34,9 (Demmin)
-
-
-        b)  104,60 (Peenestrom) für Inhaber des Sportbootführerscheins-See oder
-            eines gleichgestellten Befähigungszeugnisses
-
-
-
+    *   98,16 (Peenestrom)
 
     *   Kummerower See: Fahrverbot ab Windstärke 4 Beaufort
+        Hinweis: die letzten Bootsliegestellen befinden sich bei km 90,85
 
 
 *    *   8
@@ -2128,7 +2334,27 @@ I
 
     *   Saale
 
-    *   89,2 (Schleuse Trotha)
+    *
+    *
+    *
+
+*    *   9.1
+
+    *   Saale
+
+    *   20,00 (Calbe)
+
+    *   89,20 (Schleuse Trotha)
+
+    *   Fahrverbot bei einem Wasserstand von mehr als 300 cm am Unterpegel
+        Halle – Trotha
+
+
+*    *   9.2
+
+    *   Saale
+
+    *   89,20 (Schleuse Trotha)
 
     *   115,22 (Rischmühlenschleuse)
 
@@ -2151,15 +2377,17 @@ I
 
 *    *   11.1
 
-    *   Drahendorfer Spree
+    *   SOW
 
-    *   Gesamtstrecke
+    *   45,11 (Einfahrt Oder-Spree-Kanal)
+
+    *   130,16 (Einmündung in die Oder)
 
     *
 
 *    *   11.2
 
-    *   Gosener Kanal
+    *   Drahendorfer Spree
 
     *   Gesamtstrecke
 
@@ -2167,13 +2395,21 @@ I
 
 *    *   11.3
 
-    *   Neuhauser Speise-kanal
+    *   Gosener Kanal
 
     *   Gesamtstrecke
 
     *
 
 *    *   11.4
+
+    *   Neuhauser Speise-kanal
+
+    *   Gesamtstrecke
+
+    *
+
+*    *   11.5
 
     *   Seddinsee
 
@@ -2249,17 +2485,19 @@ I
 
     *   67,50 (Plaue)
 
-    *   104,20
-        (Einmündung der Rathenower Havel)
+    *   112,00 (unmittelbar unterhalb der Einmündung der Hohennauener
+        Wasserstraße)
 
     *
         1.  Fahrverbot bei Wasserständen am Unterpegel Rathenow von mehr als 190
-            cm
+            cm (ausgenommen hiervon ist die Fahrt auf der Hohennauener
+            Wasserstraße zwischen km 1,10 und km 10,00)
 
 
         2.  Fahrverbot bei fehlendem Karten- und Informationsmaterial über
             Gefahrenstellen, wie Fahrwasserkrümmungen und Unterwasserhindernisse,
-            und den Verlauf des Hauptfahrwassers an Bord
+            und den Verlauf des Hauptfahrwassers mit seinen Bauwerken und
+            unterschiedlichen Strömungsverhältnissen an Bord
 
 
 
@@ -2271,7 +2509,8 @@ I
         gehörenden Haupt- und Nebenstrecken nach § 22.01 Nummer 1 der
         Binnenschifffahrtsstraßen-Ordnung
 
-    *   104,20 (Einmündung der Rathenower Havel)
+    *   112,00 (unmittelbar unterhalb der Einmündung der Hohennauener
+        Wasserstraße)
 
     *   156,00 (Quitzöbel)
 
@@ -2280,8 +2519,9 @@ I
 
 
 
+(zu § 9 Abs. 2 Nr. 2)
 
-## Anlage 6 (zu § 9 Abs. 2 Nr. 2) Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
+## Anlage 6 Anforderungen an Fahrzeuge, die mit Charterbescheinigung geführt werden dürfen
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2533;
 bzgl. der einzelnen Änderungen vgl. Fußnote

@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl I: 1933, 399
 
 Zuletzt geändert durch
-:   Art. 156 G v. 19.4.2006 I 866
+:   Art. 201 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -38,7 +38,7 @@ das folgende Gesetz beschlossen, das hiermit verkündet wird:
 
 Der gezogene Wechsel enthält:
 
-1.  die Bezeichnung als Wechsel im Text der Urkunde, und zwar in der
+1.  die Bezeichnung als Wechsel im Texte der Urkunde, und zwar in der
     Sprache, in der sie ausgestellt ist;
 
 
@@ -51,7 +51,7 @@ Der gezogene Wechsel enthält:
 4.  die Angabe der Verfallzeit;
 
 
-5.  die Angabe des Zahlungsorts;
+5.  die Angabe des Zahlungsortes;
 
 
 6.  den Namen dessen, an den oder an dessen Order gezahlt werden soll;
@@ -78,7 +78,7 @@ der in den folgenden Absätzen bezeichneten Fälle.
 Bezogenen angegebene Ort als Zahlungsort und zugleich als Wohnort des
 Bezogenen.
 
-(4) Ein Wechsel ohne Angabe des Ausstellungsorts gilt als ausgestellt
+(4) Ein Wechsel ohne Angabe des Ausstellungsortes gilt als ausgestellt
 an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 
 
@@ -94,7 +94,7 @@ an dem Ort, der bei dem Namen des Ausstellers angegeben ist.
 #### Art 4
 
 Der Wechsel kann bei einem Dritten, am Wohnort des Bezogenen oder an
-einem anderen Ort, zahlbar gestellt werden.
+einem anderen Orte, zahlbar gestellt werden.
 
 
 #### Art 5
@@ -125,7 +125,7 @@ Ziffern angegeben, so gilt bei Abweichungen die geringste Summe.
 Trägt ein Wechsel Unterschriften von Personen, die eine
 Wechselverbindlichkeit nicht eingehen können, gefälschte
 Unterschriften, Unterschriften erdichteter Personen oder
-Unterschriften, die aus irgendeinem anderen Grund für die Personen,
+Unterschriften, die aus irgendeinem anderen Grunde für die Personen,
 die unterschrieben haben oder mit deren Namen unterschrieben worden
 ist, keine Verbindlichkeit begründen, so hat dies auf die Gültigkeit
 der übrigen Unterschriften keinen Einfluß.
@@ -198,7 +198,7 @@ unterschrieben werden.
 
 (2) Das Indossament braucht den Indossatar nicht zu bezeichnen und
 kann selbst in der bloßen Unterschrift des Indossanten bestehen
-(Blankoindossament). In diesem letzteren Fall muß das Indossament, um
+(Blankoindossament). In diesem letzteren Falle muß das Indossament, um
 gültig zu sein, auf die Rückseite des Wechsels oder auf den Anhang
 gesetzt werden.
 
@@ -230,7 +230,7 @@ gesetzt werden.
 die Annahme und die Zahlung.
 
 (2) Er kann untersagen, daß der Wechsel weiter indossiert wird; in
-diesem Fall haftet er denen nicht, an die der Wechsel weiter
+diesem Falle haftet er denen nicht, an die der Wechsel weiter
 indossiert wird.
 
 
@@ -268,7 +268,7 @@ ausdrückenden Vermerk, so kann der Inhaber alle Rechte aus dem Wechsel
 geltend machen; aber er kann ihn nur durch ein weiteres
 Vollmachtsindossament übertragen.
 
-(2) Die Wechselverpflichteten können in diesem Fall dem Inhaber nur
+(2) Die Wechselverpflichteten können in diesem Falle dem Inhaber nur
 solche Einwendungen entgegensetzen, die ihnen gegen den Indossanten
 zustehen.
 
@@ -280,7 +280,7 @@ Vollmachtgebers.
 #### Art 19
 
 (1) Enthält das Indossament den Vermerk "Wert zur Sicherheit", "Wert
-zum Pfand" oder einen anderen eine Verpfändung ausdrückenden Vermerk,
+zum Pfande" oder einen anderen eine Verpfändung ausdrückenden Vermerk,
 so kann der Inhaber alle Rechte aus dem Wechsel geltend machen; ein
 von ihm ausgestelltes Indossament hat aber nur die Wirkung eines
 Vollmachtsindossaments.
@@ -295,12 +295,12 @@ Wechsels bewußt zum Nachteil des Schuldners gehandelt hat.
 
 (1) Ein Indossament nach Verfall hat dieselben Wirkungen wie ein
 Indossament vor Verfall. Ist jedoch der Wechsel erst nach Erhebung des
-Protests mangels Zahlung oder nach Ablauf der hierfür bestimmten Frist
-indossiert worden, so hat das Indossament nur die Wirkungen einer
-gewöhnlichen Abtretung.
+Protestes mangels Zahlung oder nach Ablauf der hierfür bestimmten
+Frist indossiert worden, so hat das Indossament nur die Wirkungen
+einer gewöhnlichen Abtretung.
 
 (2) Bis zum Beweis des Gegenteils wird vermutet, daß ein nicht
-datiertes Indossament vor Ablauf der für die Erhebung des Protests
+datiertes Indossament vor Ablauf der für die Erhebung des Protestes
 bestimmten Frist auf den Wechsel gesetzt worden ist.
 
 
@@ -495,15 +495,15 @@ kann eine kürzere oder eine längere Frist bestimmen. Die Indossanten
 können die Vorlegungsfristen abkürzen.
 
 (2) Der Aussteller kann vorschreiben, daß der Sichtwechsel nicht vor
-einem bestimmten Tag zur Zahlung vorgelegt werden darf. In diesem Fall
-beginnt die Vorlegungsfrist mit diesem Tag.
+einem bestimmten Tag zur Zahlung vorgelegt werden darf. In diesem
+Falle beginnt die Vorlegungsfrist mit diesem Tag.
 
 
 #### Art 35
 
 (1) Der Verfall eines Wechsels, der auf eine bestimmte Zeit nach Sicht
 lautet, richtet sich nach dem in der Annahmeerklärung angegebenen Tag
-oder nach dem Tag des Protests.
+oder nach dem Tag des Protestes.
 
 (2) Ist in der Annahmeerklärung ein Tag nicht angegeben und ein
 Protest nicht erhoben worden, so gilt dem Annehmer gegenüber der
@@ -566,9 +566,9 @@ zur Zahlung vorzulegen.
 (2) Die Einlieferung in eine Abrechnungsstelle steht der Vorlegung zur
 Zahlung gleich.
 
-(3) Das Bundesministerium der Justiz bestimmt, welche Einrichtungen
-als Abrechnungsstellen anzusehen sind und unter welchen
-Voraussetzungen die Einlieferung erfolgen kann.
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz
+bestimmt, welche Einrichtungen als Abrechnungsstellen anzusehen sind
+und unter welchen Voraussetzungen die Einlieferung erfolgen kann.
 
 
 #### Art 39
@@ -601,21 +601,21 @@ aber nicht die Unterschriften der Indossanten zu prüfen.
 gilt, so kann die Wechselsumme in der Landeswährung nach dem Wert
 gezahlt werden, den sie am Verfalltag besitzt. Wenn der Schuldner die
 Zahlung verzögert, so kann der Inhaber wählen, ob die Wechselsumme
-nach dem Kurs des Verfalltags oder nach dem Kurs des Zahlungstags in
+nach dem Kurs des Verfalltages oder nach dem Kurs des Zahlungstags in
 die Landeswährung umgerechnet werden soll.
 
 (2) Der Wert der fremden Währung bestimmt sich nach den
-Handelsgebräuchen des Zahlungsorts. Der Aussteller kann jedoch im
+Handelsgebräuchen des Zahlungsortes. Der Aussteller kann jedoch im
 Wechsel für die zu zahlende Summe einen Umrechnungskurs bestimmen.
 
 (3) Die Vorschriften der beiden ersten Absätze finden keine Anwendung,
 wenn der Aussteller die Zahlung in einer bestimmten Währung
 vorgeschrieben hat (Effektivvermerk).
 
-(4) Lautet der Wechsel auf eine Geldsorte, die im Land der Ausstellung
-dieselbe Bezeichnung, aber einen anderen Wert hat als in dem der
-Zahlung, so wird vermutet, daß die Geldsorte des Zahlungsorts gemeint
-ist.
+(4) Lautet der Wechsel auf eine Geldsorte, die im Lande der
+Ausstellung dieselbe Bezeichnung, aber einen anderen Wert hat als in
+dem der Zahlung, so wird vermutet, daß die Geldsorte des Zahlungsorts
+gemeint ist.
 
 
 #### Art 42
@@ -663,9 +663,9 @@ festgestellt werden.
 
 (2) Der Protest mangels Annahme muß innerhalb der Frist erhoben
 werden, die für die Vorlegung zur Annahme gilt. Ist im Fall des
-Artikels 24 Abs. 1 der Wechsel am letzten Tag der Frist zum ersten Mal
-vorgelegt worden, so kann der Protest noch am folgenden Tag erhoben
-werden.
+Artikels 24 Abs. 1 der Wechsel am letzten Tage der Frist zum ersten
+Mal vorgelegt worden, so kann der Protest noch am folgenden Tag
+erhoben werden.
 
 (3) Der Protest mangels Zahlung muß bei einem Wechsel, der an einem
 bestimmten Tag oder bestimmte Zeit nach der Ausstellung oder nach
@@ -689,9 +689,9 @@ eines Wechsels, dessen Vorlegung zur Annahme untersagt ist, das
 Insolvenzverfahren eröffnet worden, so genügt es zur Ausübung des
 Rückgriffsrechts, daß der gerichtliche Beschluß über die Eröffnung des
 Insolvenzverfahrens vorgelegt wird. Die Vorlegung der Bekanntmachung
-des gerichtlichen Beschlusses im Bundesanzeiger oder in dem zur
-Veröffentlichung amtlicher Bekanntmachungen des Gerichts bestimmten
-Blatt ist der Vorlegung des gerichtlichen Beschlusses gleichzuachten.
+des gerichtlichen Beschlusses im Internet oder der Veröffentlichung
+nach § 9 Absatz 2 Satz 1 der Insolvenzordnung ist der Vorlegung des
+gerichtlichen Beschlusses gleichzuachten.
 
 
 #### Art 45
@@ -785,7 +785,7 @@ desjenigen, der zuerst in Anspruch genommen worden ist.
     des Bürgerlichen Gesetzbuches, mindestens aber sechs vom Hundert;
 
 
-3.  die Kosten des Protests und der Nachrichten sowie die anderen
+3.  die Kosten des Protestes und der Nachrichten sowie die anderen
     Auslagen;
 
 
@@ -849,20 +849,20 @@ Protest aushändigen, um den weiteren Rückgriff zu ermöglichen.
 #### Art 52
 
 (1) Wer zum Rückgriff berechtigt ist, kann mangels eines
-entgegenstehenden Vermerks den Rückgriff dadurch nehmen, daß er auf
+entgegenstehenden Vermerkes den Rückgriff dadurch nehmen, daß er auf
 einen seiner Vormänner einen neuen Wechsel (Rückwechsel) zieht, der
-auf Sicht lautet und am Wohnort dieses Vormanns zahlbar ist.
+auf Sicht lautet und am Wohnort dieses Vormannes zahlbar ist.
 
 (2) Der Rückwechsel umfaßt, außer den in den Artikeln 48 und 49
 angegebenen Beträgen, die Maklergebühr und die Stempelsteuer für den
 Rückwechsel.
 
 (3) Wird der Rückwechsel vom Inhaber gezogen, so richtet sich die Höhe
-der Wechselsumme nach dem Kurs, den ein vom Zahlungsort des
-ursprünglichen Wechsels auf den Wohnort des Vormanns gezogener
+der Wechselsumme nach dem Kurse, den ein vom Zahlungsort des
+ursprünglichen Wechsels auf den Wohnort des Vormannes gezogener
 Sichtwechsel hat. Wird der Rückwechsel von einem Indossanten gezogen,
-so richtet sich die Höhe der Wechselsumme nach dem Kurs, den ein vom
-Wohnort des Ausstellers des Rückwechsels auf den Wohnort des Vormanns
+so richtet sich die Höhe der Wechselsumme nach dem Kurse, den ein vom
+Wohnort des Ausstellers des Rückwechsels auf den Wohnort des Vormannes
 gezogener Sichtwechsel hat.
 
 
@@ -872,9 +872,9 @@ gezogener Sichtwechsel hat.
 (1) Mit der Versäumung der Fristen für die Vorlegung eines Wechsels, der auf Sicht oder auf eine
     bestimmte Zeit nach Sicht lautet,
 
-    für die Erhebung des Protests mangels Annahme oder mangels Zahlung,
+    für die Erhebung des Protestes mangels Annahme oder mangels Zahlung,
 
-    für die Vorlegung zur Zahlung im Falle des Vermerks "ohne Kosten"
+    für die Vorlegung zur Zahlung im Falle des Vermerkes "ohne Kosten"
 
 
 
@@ -885,7 +885,7 @@ Annehmers.
 (2) Versäumt der Inhaber die vom Aussteller für die Vorlegung zur
 Annahme vorgeschriebene Frist, so verliert er das Recht, mangels
 Annahme und mangels Zahlung Rückgriff zu nehmen, sofern nicht der
-Wortlaut des Vermerks ergibt, daß der Aussteller nur die Haftung für
+Wortlaut des Vermerkes ergibt, daß der Aussteller nur die Haftung für
 die Annahme hat ausschließen wollen.
 
 (3) Ist die Frist für die Vorlegung in einem Indossament enthalten, so
@@ -895,13 +895,13 @@ kann sich nur der Indossant darauf berufen.
 #### Art 54
 
 (1) Steht der rechtzeitigen Vorlegung des Wechsels oder der
-rechtzeitigen Erhebung des Protests ein unüberwindliches Hindernis
+rechtzeitigen Erhebung des Protestes ein unüberwindliches Hindernis
 entgegen (gesetzliche Vorschrift eines Staates oder ein anderer Fall
 höherer Gewalt), so werden die für diese Handlungen bestimmten Fristen
 verlängert.
 
 (2) Der Inhaber ist verpflichtet, seinen unmittelbaren Vormann von dem
-Fall der höheren Gewalt unverzüglich zu benachrichtigen und die
+Falle der höheren Gewalt unverzüglich zu benachrichtigen und die
 Benachrichtigung unter Beifügung des Tages und Ortes sowie seiner
 Unterschrift auf dem Wechsel oder einem Anhang zu vermerken; im
 übrigen finden die Vorschriften des Artikels 45 Anwendung.
@@ -915,7 +915,7 @@ kann Rückgriff genommen werden, ohne daß es der Vorlegung oder der
 Protesterhebung bedarf.
 
 (5) Bei Wechseln, die auf Sicht oder auf eine bestimmte Zeit nach
-Sicht lauten, läuft die dreißigtägige Frist von dem Tag, an dem der
+Sicht lauten, läuft die dreißigtägige Frist von dem Tage, an dem der
 Inhaber seinen Vormann von dem Fall der höheren Gewalt benachrichtigt
 hat; diese Nachricht kann schon vor Ablauf der Vorlegungsfrist gegeben
 werden. Bei Wechseln, die auf bestimmte Zeit nach Sicht lauten,
@@ -996,7 +996,7 @@ dieser selbst.
 (2) Trotz der Ehrenannahme können der Wechselverpflichtete, zu dessen
 Ehren der Wechsel angenommen worden ist, und seine Vormänner vom
 Inhaber gegen Erstattung des in Artikel 48 angegebenen Betrags die
-Aushändigung des Wechsels und gegebenenfalls des erhobenen Protests
+Aushändigung des Wechsels und gegebenenfalls des erhobenen Protestes
 sowie einer quittierten Rechnung verlangen.
 
 
@@ -1063,8 +1063,9 @@ Wer entgegen dieser Vorschrift in Kenntnis der Sachlage zu Ehren
 zahlt, verliert den Rückgriff gegen diejenigen, die sonst frei
 geworden wären.
 
+Ausfertigung mehrerer Stücke eines Wechsels,
 
-### Neunter Abschnitt - Ausfertigung mehrerer Stücke eines Wechsels, Wechselabschriften
+### Neunter Abschnitt - Wechselabschriften
 
 
 
@@ -1172,7 +1173,7 @@ nichtig.
 
 Wird der Text eines Wechsels geändert, so haften diejenigen, die nach
 der Änderung ihre Unterschrift auf den Wechsel gesetzt haben,
-entsprechend dem geänderten Text; wer früher unterschrieben hat,
+entsprechend dem geänderten Texte; wer früher unterschrieben hat,
 haftet nach dem ursprünglichen Text.
 
 
@@ -1186,11 +1187,11 @@ haftet nach dem ursprünglichen Text.
 Jahren vom Verfalltag.
 
 (2) Die Ansprüche des Inhabers gegen die Indossanten und gegen den
-Aussteller verjähren in einem Jahr vom Tag des rechtzeitig erhobenen
-Protests oder im Falle des Vermerkes "ohne Kosten" vom Verfalltag.
+Aussteller verjähren in einem Jahre vom Tage des rechtzeitig erhobenen
+Protestes oder im Falle des Vermerkes "ohne Kosten" vom Verfalltag.
 
 (3) Die Ansprüche eines Indossanten gegen andere Indossanten und gegen
-den Aussteller verjähren in sechs Monaten von dem Tag, an dem der
+den Aussteller verjähren in sechs Monaten von dem Tage, an dem der
 Wechsel vom Indossanten eingelöst oder ihm gegenüber gerichtlich
 geltend gemacht worden ist.
 
@@ -1209,15 +1210,15 @@ oder die Hemmung bewirkt.
 
 #### Art 72
 
-(1) Verfällt der Wechsel an einem gesetzlichen Feiertag oder einem
-Sonnabend, so kann die Zahlung erst am nächsten Werktag verlangt
+(1) Verfällt der Wechsel an einem gesetzlichen Feiertage oder einem
+Sonnabend, so kann die Zahlung erst am nächsten Werktage verlangt
 werden. Auch alle anderen auf den Wechsel bezüglichen Handlungen,
 insbesondere die Vorlegung zur Annahme und die Protesterhebung, können
 nur an einem Werktag, jedoch nicht an einem Sonnabend, stattfinden.
 
 (2) Fällt der letzte Tag einer Frist, innerhalb deren eine dieser
 Handlungen vorgenommen werden muß, auf einen gesetzlichen Feiertag
-oder einen Sonnabend, so wird die Frist bis zum nächsten Werktag
+oder einen Sonnabend, so wird die Frist bis zum nächsten Werktage
 verlängert. Feiertage, die in den Lauf einer Frist fallen, werden bei
 der Berechnung der Frist mitgezählt.
 
@@ -1241,7 +1242,7 @@ Weder gesetzliche noch richterliche Respekttage werden anerkannt.
 
 Der eigene Wechsel enthält:
 
-1.  die Bezeichnung als Wechsel im Text der Urkunde, und zwar in der
+1.  die Bezeichnung als Wechsel im Texte der Urkunde, und zwar in der
     Sprache, in der sie ausgestellt ist;
 
 
@@ -1251,7 +1252,7 @@ Der eigene Wechsel enthält:
 3.  die Angabe der Verfallzeit;
 
 
-4.  die Angabe des Zahlungsorts;
+4.  die Angabe des Zahlungsortes;
 
 
 5.  den Namen dessen, an den oder an dessen Order gezahlt werden soll;
@@ -1278,8 +1279,8 @@ Sichtwechsel.
 (3) Mangels einer besonderen Angabe gilt der Ausstellungsort als
 Zahlungsort und zugleich als Wohnort des Ausstellers.
 
-(4) Ein eigener Wechsel ohne Angabe des Ausstellungsorts gilt als
-ausgestellt an dem Ort, der bei dem Namen des Ausstellers angegeben
+(4) Ein eigener Wechsel ohne Angabe des Ausstellungsortes gilt als
+ausgestellt an dem Orte, der bei dem Namen des Ausstellers angegeben
 ist.
 
 
@@ -1338,7 +1339,7 @@ Wechsel unter Angabe des Tages und Beifügung der Unterschrift zu
 bestätigen. Die Nachsichtfrist läuft vom Tag des Sichtvermerks.
 Weigert sich der Aussteller, die Sicht unter Angabe des Tages zu
 bestätigen, so ist dies durch einen Protest festzustellen (Artikel
-25); die Nachsichtfrist läuft dann vom Tag des Protests.
+25); die Nachsichtfrist läuft dann vom Tage des Protestes.
 
 
 ## Dritter Teil - Ergänzende Vorschriften
@@ -1354,7 +1355,7 @@ bestätigen, so ist dies durch einen Protest festzustellen (Artikel
 (1) Jeder Protest muß durch einen Notar oder Gerichtsbeamten
 aufgenommen werden.
 
-(2)
+(2) (weggefallen)
 
 
 #### Art 80
@@ -1543,7 +1544,7 @@ fordern, wenn er bis zur Kraftloserklärung Sicherheit leistet.
 (2) Eine abhanden gekommene oder vernichtete Protesturkunde kann durch
 ein Zeugnis über die Protesterhebung ersetzt werden, das von der die
 beglaubigte Abschrift der Urkunde verwahrenden Stelle zu erteilen ist.
-In dem Zeugnis muß der Inhalt des Protests und des gemäß Artikel 85
+In dem Zeugnis muß der Inhalt des Protestes und des gemäß Artikel 85
 Abs. 2 aufgenommenen Vermerks angegeben sein.
 
 
@@ -1586,7 +1587,7 @@ den Formerfordernissen des inländischen Rechts genügt.
 
 (1) Die Wirkungen der Verpflichtungserklärungen des Annehmers eines
 gezogenen Wechsels und des Ausstellers eines eigenen Wechsels
-bestimmen sich nach dem Recht des Zahlungsorts.
+bestimmen sich nach dem Recht des Zahlungsortes.
 
 (2) Die Wirkungen der übrigen Wechselerklärungen bestimmen sich nach
 dem Recht des Landes, in dessen Gebiet die Erklärungen unterschrieben
@@ -1602,14 +1603,14 @@ Wechsel ausgestellt worden ist.
 
 ### Art 95
 
-Das Recht des Ausstellungsorts bestimmt, ob der Inhaber eines
+Das Recht des Ausstellungsortes bestimmt, ob der Inhaber eines
 gezogenen Wechsels die seiner Ausstellung zugrunde liegende Forderung
 erwirbt.
 
 
 ### Art 96
 
-(1) Das Recht des Zahlungsorts bestimmt, ob die Annahme eines
+(1) Das Recht des Zahlungsortes bestimmt, ob die Annahme eines
 gezogenen Wechsels auf einen Teil der Summe beschränkt werden kann und
 ob der Inhaber verpflichtet oder nicht verpflichtet ist, eine
 Teilzahlung anzunehmen.
@@ -1628,6 +1629,6 @@ vorzunehmen ist.
 
 ### Art 98
 
-Das Recht des Zahlungsorts bestimmt die Maßnahmen, die bei Verlust
+Das Recht des Zahlungsortes bestimmt die Maßnahmen, die bei Verlust
 oder Diebstahl eines Wechsels zu ergreifen sind.
 

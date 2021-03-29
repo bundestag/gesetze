@@ -3,7 +3,7 @@ Title: Zusatzprotokoll zum Übereinkommen über die Haftung gegenüber Dritten a
   Gebiet der Kernenergie
 jurabk: AtHaftÜbkZProt
 layout: default
-origslug: athaft_bkzprot
+origslug: athaftuebkzprot
 slug: athaftuebkzprot
 
 ---

@@ -16,9 +16,9 @@ Fundstelle
 :   BGBl I: 1976, 1181
 
 Neugefasst durch
-:   Bek. v. 7. 1.1985 I 1;
+:   Bek. v. 7.1.1985 I 1;
 
-Stand: zuletzt geändert Art. 3 G v. 20.6.2011 I 1114
+Stand: zuletzt geändert Art. 28 G v. 17.7.2017 I 2541
 
 ## § 1 Anspruch auf Versorgung
 
@@ -276,23 +276,23 @@ hinaus erhalten Geschädigte
 ab einem Grad
 der Schädigungsfolgen (GdS)
 von 10 bis zu einem GdS von 20
-eine Einmalzahlung von 714 Euro,
+eine Einmalzahlung von 800 Euro,
 bei einem GdS
 von 30 und 40
-eine Einmalzahlung von 1 428 Euro,
+eine Einmalzahlung von 1 600 Euro,
 bei einem GdS
 von 50 und 60
-eine Einmalzahlung von 5 256 Euro,
+eine Einmalzahlung von 5 800 Euro,
 bei einem GdS
 von 70 bis 90
-eine Einmalzahlung von 9 192 Euro
+eine Einmalzahlung von 10 200 Euro
 und bei einem GdS
 von 100
-eine Einmalzahlung von 14 976 Euro.
+eine Einmalzahlung von 16 500 Euro.
 Bei Verlust mehrerer Gliedmaßen, bei Verlust von Gliedmaßen in
 Kombination mit einer Schädigung von Sinnesorganen oder in Kombination
 mit einer Hirnschädigung oder bei schweren Verbrennungen beträgt die
-Einmalzahlung 25 632 Euro. Ist die Gliedmaße noch vorhanden aber nicht
+Einmalzahlung 28 500 Euro. Ist die Gliedmaße noch vorhanden aber nicht
 funktionsfähig, ist dies nur dann wie ein Verlust der Gliedmaße zu
 bewerten, wenn sich ausschließlich aus der Funktionsunfähigkeit
 mindestens ein GdS ergibt, der auch bei Verlust der gleichen Gliedmaße
@@ -303,12 +303,12 @@ vorliegen, an den Folgen der Schädigung gestorben, erhalten
 Hinterbliebene im Sinne von § 38 des Bundesversorgungsgesetzes mit
 Ausnahme der Verwandten der aufsteigenden Linie sowie
 Betreuungsunterhaltsberechtigte eine Einmalzahlung. Diese beträgt bei
-Vollwaisen 2 364 Euro, bei Halbwaisen 1 272 Euro und ansonsten 4 488
+Vollwaisen 2 600 Euro, bei Halbwaisen 1 400 Euro und ansonsten 5 000
 Euro. Darüber hinaus haben Hinterbliebene einschließlich der Eltern,
 deren minderjährige Kinder an den Folgen einer Gewalttat im Ausland
 verstorben sind, Anspruch auf die notwendigen psychotherapeutischen
 Maßnahmen. Zu den Überführungs- und Beerdigungskosten wird ein
-Zuschuss bis zu 1 506 Euro gewährt, soweit nicht Dritte die Kosten
+Zuschuss bis zu 1 700 Euro gewährt, soweit nicht Dritte die Kosten
 übernehmen.
 
 (4) Leistungsansprüche aus anderen öffentlichen oder privaten
@@ -398,8 +398,8 @@ Landesregierung durch Rechtsverordnung.
 
 (3) Das Gesetz über das Verwaltungsverfahren der
 Kriegsopferversorgung, mit Ausnahme der §§ 3 bis
-5,              sowie die Vorschriften des Sozialgerichtsgesetzes über
-das Vorverfahren sind anzuwenden.
+5, sowie die Vorschriften des Sozialgerichtsgesetzes über das
+Vorverfahren sind anzuwenden.
 
 (4) Absatz 3 gilt nicht, soweit die Versorgung in der Gewährung von
 Leistungen besteht, die den Leistungen der Kriegsopferfürsorge nach
@@ -561,71 +561,4 @@ Fassung, wird der Jahresdurchschnitt ermittelt.
 ## § 11 (Inkrafttreten)
 
 -
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet K Abschnitt III (BGBl. II 1990, 889, 1069) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-18. Opferentschädigungsgesetz in der Fassung der Bekanntmachung vom 7.
-    Januar 1985 (BGBl. I S. 1), zuletzt geändert durch Artikel 6 des
-    Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),
-
-    mit folgenden Maßgaben:
-
-    a)  Auf Berechtigte nach § 1 Abs. 1 Satz 1, die ihren Wohnsitz oder
-        gewöhnlichen Aufenthalt in dem in Artikel 3 des Vertrages genannten
-        Gebiet haben, sowie auf Berechtigte aus dem vorgenannten Gebiet, die
-        nach der Schädigung ihren Wohnsitz oder gewöhnlichen Aufenthalt in das
-        Gebiet, in dem das Opferentschädigungsgesetz schon vor dem Beitritt
-        gegolten hat, verlegt haben, sind die Vorschriften des
-        Bundesversorgungsgesetzes mit den unter Nummer 1 aufgeführten Maßgaben
-        anzuwenden.
-
-
-    b)  § 6 ist in dem in Artikel 3 des Vertrages genannten Gebiet mit den
-        unter Nummer 2 aufgeführten Maßgaben anzuwenden.
-
-
-    c)  § 10 gilt für Ansprüche aus Taten, die in dem in Artikel 3 des
-        Vertrages genannten Gebiet nach dem 31. Dezember 1990 begangen worden
-        sind. Darüber hinaus gelten die §§ 1 bis 7 für Ansprüche aus Taten,
-        die in dem in Satz 1 genannten Gebiet in der Zeit vom 7. Oktober 1949
-        bis zum 31. Dezember 1990 begangen worden sind, nach Maßgabe des §
-        10a.
-
-
-    d)  § 10a gilt für Personen, die in dem in Artikel 3 des Vertrages
-        genannten Gebiet ihren Wohnsitz oder gewöhnlichen Aufenthalt haben
-        oder zur Zeit der Schädigung hatten, wenn die Schädigung in der Zeit
-        vom 7. Oktober 1949 bis zum 31. Dezember 1990 in dem vorgenannten
-        Gebiet eingetreten ist.
-
-
-    e)  Die sich nach diesem Gesetz ergebenden neuen Versorgungsansprüche
-        werden auf Antrag festgestellt. Wird der Antrag bis zum 31. Dezember
-        1993 gestellt, so beginnen die Versorgungsansprüche mit dem Monat, in
-        dem ihre Voraussetzungen erfüllt sind, frühestens mit dem Monat Januar
-        1991\.
-
-
-    f)  Leistungen nach dem Schadensersatzvorauszahlungsgesetz vom 14.
-        Dezember 1988 (GBl. I Nr. 29 S. 345), die auf der gleichen Ursache
-        beruhen und wegen einer gesundheitlichen Schädigung für Zeiträume nach
-        dem 31. Dezember 1990 gewährt worden sind oder gewährt werden, werden
-        auf Leistungen nach dem Opferentschädigungsgesetz angerechnet.
-
-
-    g)  Das Opferentschädigungsgesetz tritt in dem in Artikel 3 des Vertrages
-        genannten Gebiet mit den vorgenannten Maßgaben am 1. Januar 1991 in
-        Kraft.
-
-
-
-
-
-
 

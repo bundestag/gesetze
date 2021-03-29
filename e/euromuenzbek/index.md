@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Gestaltung der nationalen Münzseiten der für d
   bestimmten deutschen Euro-Münzen
 jurabk: EuroMünzBek
 layout: default
-origslug: eurom_nzbek
+origslug: euromuenzbek
 slug: euromuenzbek
 
 ---

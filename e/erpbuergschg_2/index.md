@@ -3,7 +3,7 @@ Title: Gesetz zur Ergänzung des Dritten Gesetzes über die Übernahme von Siche
   und Gewährleistungen zur Förderung der deutschen Wirtschaft
 jurabk: ERPBürgschG 2
 layout: default
-origslug: erpb_rgschg_2
+origslug: erpbuergschg_2
 slug: erpbuergschg_2
 
 ---
@@ -33,8 +33,7 @@ Verwaltung der allgemeinen Bundesschuld jeweils geltenden gesetzlichen
 Vorschriften durch die Bundesschuldenverwaltung verwaltet. Befugnisse,
 die danach dem Bundesminister der Finanzen zustehen, werden von diesem
 und dem
-Bundesminister für wirtschaftliche Zusammenarbeit
-gemeinsam ausgeübt.
+Bundesminister für wirtschaftliche Zusammenarbeit gemeinsam ausgeübt.
 
 
 ## § 2

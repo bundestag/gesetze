@@ -23,7 +23,7 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 bis 11 -
+## Art 1 bis 11 - 
 
 
 

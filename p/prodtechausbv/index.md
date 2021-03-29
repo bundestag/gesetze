@@ -504,8 +504,9 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 3 Abs. 1 Satz 1)
 
-## Anlage 1 (zu § 3 Abs. 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 1037 - 1043)
 
@@ -1416,8 +1417,9 @@ Fähigkeiten
 
 
 
+(zu § 3 Abs. 1 Satz 2)
 
-## Anlage 2 (zu § 3 Abs. 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Produktionstechnologen/zur Produktionstechnologin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2008, 1044 - 1051 (2009, 3850))
 ## Abschnitt 1

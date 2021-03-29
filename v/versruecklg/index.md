@@ -2,7 +2,7 @@
 Title: Gesetz über eine Versorgungsrücklage des Bundes
 jurabk: VersRücklG
 layout: default
-origslug: versr_cklg
+origslug: versruecklg
 slug: versruecklg
 
 ---
@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 27.3.2007 I 482
 
-Geändert durch
-:   Art. 4 G v. 22.12.2007 I 3245
+Zuletzt geändert durch
+:   Art. 1 G v. 5.1.2017 I 17
 
 
 ## Abschnitt 1 - Sondervermögen "Versorgungsrücklage des Bundes"
@@ -50,18 +50,17 @@ gesetzlicher Vorschriften gebildet werden.
 
 ### § 2 Errichtung
 
-Zur Durchführung von § 14a des Bundesbesoldungsgesetzes wird zur
-Sicherung der Versorgungsaufwendungen ein Sondervermögen unter dem
-Namen "Versorgungsrücklage des Bundes" errichtet.
+Aus den Zuführungen nach § 14a Absatz 1 bis 3 des
+Bundesbesoldungsgesetzes wird eine „Versorgungsrücklage des Bundes“
+als Sondervermögen des Bundes errichtet.
 
 
 ### § 3 Zweck
 
-Das Sondervermögen dient der Sicherung der Versorgungsaufwendungen. Es
-darf nach Maßgabe des § 7 nur zur Entlastung von
-Versorgungsaufwendungen der Einrichtungen im Sinne des § 1 Abs. 1
-verwendet werden, die Versorgungsbezüge zahlen. Ansprüche Dritter
-gegen das Sondervermögen werden nicht begründet.
+Das Sondervermögen dient der Entlastung der in § 1 Absatz 1 genannten
+Stellen von Versorgungsaufwendungen. Es darf nach Maßgabe des § 7 nur
+für diesen Zweck verwendet werden. Ansprüche Dritter gegen das
+Sondervermögen werden nicht begründet.
 
 
 ### § 4 Rechtsform
@@ -79,18 +78,47 @@ Bundesbank übertragen. Für die Verwaltung der Mittel werden keine
 Kosten erstattet.
 
 (2) Die dem Sondervermögen zufließenden Mittel einschließlich der
-Erträge können bei Wahrung der Anlagegrundsätze Sicherheit, Liquidität
-und Rendite in Euro-denominierten, handelbaren Schuldverschreibungen
-angelegt werden. Das Bundesministerium des Innern erlässt im
-Einvernehmen mit dem Bundesministerium der Finanzen Anlagerichtlinien.
-Soweit Belange der bundesunmittelbaren Sozialversicherungsträger
-berührt sind, ist das Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales herzustellen.
+Erträge werden unter Wahrung der Anlagegrundsätze Sicherheit,
+Liquidität und Rendite nach Maßgabe der Rechtsverordnung nach § 217
+Satz 1 Nummer 6 des Versicherungsaufsichtsgesetzes in der Regel in
+handelbaren Schuldverschreibungen und in Aktien angelegt. Der Anteil
+an Aktien darf 20 Prozent des Sondervermögens nicht übersteigen.
+Änderungen der Marktpreise können vorübergehend zu einem höheren
+Anteil an Aktien führen.
+
+
+### § 5a Anlagerichtlinien und Anlageausschuss
+
+(1) Das Bundesministerium des Innern erlässt im Einvernehmen mit dem
+Bundesministerium der Finanzen und im Benehmen mit der Deutschen
+Bundesbank Anlagerichtlinien. Sofern bezüglich der Verwaltung von
+Mitteln anderer Sondervermögen auf die Anlagerichtlinien Bezug
+genommen wird, sind die zuständigen Bundesministerien zu beteiligen.
+
+(2) Die Anlagerichtlinien enthalten nach Maßgabe der Rechtsverordnung
+nach § 217 Satz 1 Nummer 6 des Versicherungsaufsichtsgesetzes
+insbesondere nähere Vorgaben zu den für Investments in Frage kommenden
+Anlageklassen und Anlageformen. Sie sind maßgeblich für die Verwaltung
+der Mittel durch die Deutsche Bundesbank.
+
+(3) Bei der Anlage der Mittel wirkt ein Anlageausschuss mit, dessen
+Aufgaben die Anlagerichtlinien bestimmen. Der Vorsitz im
+Anlageausschuss obliegt der fachlich zuständigen Abteilungsleitung des
+Bundesministeriums des Innern. Die von Absatz 1 erfassten
+Bundesministerien sind im Anlageausschuss als Mitglieder vertreten.
+Zudem können durch die Anlagerichtlinien beratende Mitglieder bestimmt
+werden.
+
+(4) Der Anlageausschuss ist für den Entwurf und die Überprüfung der
+Anlagerichtlinien zuständig. Er kann konkretisierende Vorgaben zur
+Anlage der Mittel im Rahmen der in der Rechtsverordnung nach § 217
+Satz 1 Nummer 6 des Versicherungsaufsichtsgesetzes und der in den
+Anlagerichtlinien vorgesehenen Spielräume machen.
 
 
 ### § 6 Zuführung der Mittel
 
-(1) Die sich nach § 14a Abs. 2 bis 3 des Bundesbesoldungsgesetzes
+(1) Die sich nach § 14a Absatz 2 und 3 des Bundesbesoldungsgesetzes
 durch die Verminderung der Besoldungs- und Versorgungsausgaben des
 laufenden Jahres und der Vorjahre ergebenden Beträge sind von den in §
 1 Abs. 1 genannten Einrichtungen jährlich nachträglich zum 15. Mai des
@@ -119,32 +147,37 @@ Interesse der Rentabilität der Anlage der Mittel zweckmäßig ist. Die
 Teilzahlungen sind am 15. Februar, 15. Juni und 15. September zu
 leisten.
 
+(4) Beträge, die von einem in § 1 Absatz 1 genannten Dienstherren als
+Versorgungszuschläge nach § 6 Absatz 1 Satz 2 Nummer 5 Buchstabe b des
+Beamtenversorgungsgesetzes oder nach § 20 Absatz 1 Satz 2 Nummer 1
+Buchstabe b des Soldatenversorgungsgesetzes vereinnahmt werden, sind
+dem Sondervermögen zuzuführen.
+
+(5) Beträge, die von einem in § 1 Absatz 1 genannten Dienstherren als
+Abfindungen nach dem Versorgungslastenteilungs-Staatsvertrag
+vereinnahmt werden, sind dem Sondervermögen zuzuführen. Ein in § 1
+Absatz 1 genannter Dienstherr, der für einen Beamten bereits eine
+Abfindung dem Sondervermögen zugeführt hatte, kann denselben Betrag
+aus dem Sondervermögen entnehmen, wenn er für denselben Beamten eine
+Abfindung nach dem Versorgungslastenteilungs-Staatsvertrag gezahlt
+hat.
+
+(6) Kapitalbeträge sind der Versorgungsrücklage zuzuführen, wenn sie
+an den Dienstherren abgeführt werden, um eine nach den Bestimmungen
+des Beamtenversorgungsgesetzes oder des Soldatenversorgungsgesetzes
+durchzuführende Ruhensregelung zu vermeiden. Dies gilt nur für jene
+Personenkreise, die nicht dem § 14 Satz 1 unterfallen.
+
 
 ### § 7 Verwendung des Sondervermögens
 
 Das Sondervermögen ist nach Abschluss der Zuführung der Mittel (§ 14a
-Abs. 2 bis 3 des Bundesbesoldungsgesetzes) ab 1. Januar 2018 über
+Absatz 2 und 3 des Bundesbesoldungsgesetzes) ab 1. Januar 2032 über
 einen Zeitraum von 15 Jahren zur schrittweisen Entlastung von
 Versorgungsaufwendungen einzusetzen. Die Entnahme von Mitteln ist
 durch Gesetz zu regeln. Die Entnahme der gesondert ausgewiesenen
 Mittel der bundesunmittelbaren Sozialversicherungsträger erfolgt auf
 der Grundlage von Beschlüssen der Selbstverwaltungsorgane.
-
-
-### § 7a Entnahme von Mitteln durch die Bundesanstalt für Finanzdienstleistungsaufsicht
-
-Die von der Bundesanstalt für Finanzdienstleistungsaufsicht in das
-Sondervermögen eingezahlten Mittel werden in voller Höhe
-einschließlich Zinsen entnommen und der nach § 19 Abs. 2 des
-Finanzdienstleistungsaufsichtsgesetzes gebildeten Rücklage zugeführt.
-
-
-### § 7b Entnahme von Mitteln durch die Bundesagentur für Arbeit
-
-Die von der Bundesagentur für Arbeit in das Sondervermögen
-eingezahlten Mittel werden in voller Höhe einschließlich der Zinsen
-entnommen und dem nach § 366a des Dritten Buches Sozialgesetzbuch
-gebildeten Versorgungsfonds der Bundesagentur für Arbeit zugeführt.
 
 
 ### § 8 Vermögenstrennung
@@ -165,7 +198,7 @@ Finanzen einen Wirtschaftsplan auf.
 (1) Die Deutsche Bundesbank legt dem Bundesministerium des Innern
 jährlich einen Bericht über die Verwaltung der Mittel des
 Sondervermögens vor. Auf dessen Grundlage stellt das Bundesministerium
-des Innern am Ende jeden Rechnungsjahres die Jahresrechnung des
+des Innern am Ende eines jeden Rechnungsjahres die Jahresrechnung des
 Sondervermögens auf.
 
 (2) In der Jahresrechnung sind der Bestand des Sondervermögens
@@ -180,7 +213,12 @@ allen wichtigen Fragen mit, insbesondere bei den Anlagerichtlinien und
 dem Wirtschaftsplan. Zur Jahresrechnung ist seine Stellungnahme
 einzuholen.
 
-(2) Der Beirat besteht aus 13 Mitgliedern, die das Bundesministerium
+(1a) Soweit andere Gesetze auf den Anlageausschuss oder die
+Anlagerichtlinien Bezug nehmen, erstreckt sich die Mitwirkung des
+Beirats auch auf die dadurch ebenfalls in Bezug genommenen
+Sondervermögen.
+
+(2) Der Beirat besteht aus 14 Mitgliedern, die das Bundesministerium
 des Innern für fünf Jahre beruft. Mitglieder sind
 
 1.  eine Vertreterin oder ein Vertreter des Bundesministeriums des Innern
@@ -188,7 +226,8 @@ des Innern für fünf Jahre beruft. Mitglieder sind
 
 
 2.  je eine Vertreterin oder ein Vertreter des Bundesministeriums der
-    Finanzen und des Bundesministeriums für Arbeit und Soziales,
+    Finanzen, des Bundesministeriums für Arbeit und Soziales und des
+    Bundesministeriums für Gesundheit,
 
 
 3.  je drei Vertreterinnen oder Vertreter des Deutschen Beamtenbundes und
@@ -220,7 +259,7 @@ Das Sondervermögen gilt nach Auszahlung seines Vermögens (§ 7) als
 aufgelöst.
 
 
-## Abschnitt 2 - Sondervermögen "Versorgungsfonds des Bundes"
+## Abschnitt 2 - Sondervermögen  "Versorgungsfonds des Bundes"
 
 
 
@@ -238,33 +277,26 @@ entsprechend.
 
 ### § 14 Errichtung
 
-Zur Finanzierung der Versorgungsausgaben (Versorgungsaufwendungen und
-Beihilfen) für Beamtinnen, Beamte, Richterinnen, Richter,
-Berufssoldatinnen, Berufssoldaten und Beschäftigte, denen eine
-Anwartschaft auf Versorgung nach beamtenrechtlichen Vorschriften oder
-Grundsätzen gewährleistet wird, deren Dienst- oder
-Beschäftigungsverhältnis zu einem der in § 13 Abs. 1 genannten
-Dienstherren erstmals nach dem 31. Dezember 2006 begründet worden ist,
-wird ein Sondervermögen unter dem Namen "Versorgungsfonds des Bundes"
-errichtet. Dies gilt nicht für Personen im Beamtenverhältnis auf
-Widerruf.
+Zur anteiligen Finanzierung der Versorgungsausgaben
+(Versorgungsaufwendungen und Beihilfen) für Beamtinnen, Beamte,
+Richterinnen, Richter, Berufssoldatinnen, Berufssoldaten und
+Beschäftigte, denen eine Anwartschaft auf Versorgung nach
+beamtenrechtlichen Vorschriften oder Grundsätzen gewährleistet wird,
+deren Dienst- oder Beschäftigungsverhältnis zu einem der in § 13 Abs.
+1 genannten Dienstherren erstmals nach dem 31. Dezember 2006 begründet
+worden ist, wird ein Sondervermögen unter dem Namen "Versorgungsfonds
+des Bundes" errichtet. Dies gilt nicht für Personen im
+Beamtenverhältnis auf Widerruf.
 
 
 ### § 15 Anzuwendende Vorschriften
 
 Für die Rechtsform, Vermögenstrennung, Jahresrechnung und den Beirat
 des Sondervermögens "Versorgungsfonds des Bundes" gelten die §§ 4, 8,
-10 und 11 entsprechend. Für die Verwaltung und Anlage der Mittel gilt
-§ 5 entsprechend mit der Maßgabe, dass eine Anlage auch in Euro-
-denominierten Aktien im Rahmen eines passiven, indexorientierten
-Managements zulässig ist. Die Anlageentscheidungen sind jeweils so zu
-treffen, dass der Anteil an Aktien maximal 10 Prozent des
-Sondervermögens "Versorgungsfonds des Bundes" beträgt. Änderungen des
-Aktienkurses können vorübergehend zu einem höheren Anteil an Aktien an
-dem Sondervermögen "Versorgungsfonds des Bundes" führen. § 9 gilt
-entsprechend mit der Maßgabe, dass ein Wirtschaftsplan für das
-Sondervermögen "Versorgungsfonds des Bundes" ab 1. Januar 2007
-aufgestellt wird.
+10 und 11 entsprechend. Für die Verwaltung der Mittel gelten die §§ 5
+und 5a entsprechend. § 9 gilt entsprechend mit der Maßgabe, dass ein
+Wirtschaftsplan für das Sondervermögen "Versorgungsfonds des Bundes"
+ab 1. Januar 2007 aufgestellt wird.
 
 
 ### § 16 Zuweisung der Mittel
@@ -273,16 +305,12 @@ aufgestellt wird.
 regelmäßigen Zuweisungen und den daraus erzielten Erträgen gebildet.
 Die Zuweisungen werden von den die Dienstbezüge- oder Entgeltzahlung
 anordnenden Dienststellen der in § 13 Abs. 1 genannten Dienstherren
-geleistet. Die Höhe der Zuweisungen für den in § 14 Satz 1 genannten
-Personenkreis bestimmt sich laufbahnabhängig auf der Grundlage
-versicherungsmathematischer Berechnungen nach Prozentsätzen der
-jeweiligen ruhegehaltfähigen Dienstbezüge oder Entgeltzahlungen und
-wird alle drei Jahre überprüft. Das Bundesministerium des Innern
-regelt im Einvernehmen mit dem Bundesministerium der Finanzen das
-Nähere zur Höhe der für die Deckung der Versorgungsausgaben
-erforderlichen Zuweisungssätze, zum Zahlverfahren der Zuweisungen
-sowie zur Überprüfung der Höhe der Zuweisungssätze durch
-Rechtsverordnung.
+geleistet. Das Bundesministerium des Innern regelt durch
+Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
+Finanzen das Nähere über die Bestimmung der Zuweisungen, insbesondere
+über deren Höhe. Die Höhe der Zuweisungen wird durch die
+Rechtsverordnung nach Satz 3 zum 1. Januar 2020 festgelegt und alle
+fünf Jahre überprüft.
 
 (2) Für beurlaubte Beamtinnen, Beamte, Richterinnen, Richter,
 Berufssoldatinnen und Berufssoldaten im Sinne des § 14 Satz 1, denen
@@ -299,26 +327,30 @@ Personenkreises sind an das Sondervermögen "Versorgungsfonds des
 Bundes" abzuführen. Dies gilt nicht, wenn die Erstattung für Zeiten
 erfolgt, für die von einem der in § 13 Abs. 1 genannten Dienstherren
 bereits Zuweisungen an das Sondervermögen "Versorgungsfonds des
-Bundes" geleistet wurden.
+Bundes" geleistet wurden. § 6 Absatz 5 Satz 2 gilt entsprechend.
+
+(4) Kapitalbeträge sind dem Versorgungsfonds zuzuführen, wenn sie an
+den Dienstherrn abgeführt werden, um eine nach den Bestimmungen des
+Beamtenversorgungsgesetzes durchzuführende Ruhensregelung zu
+vermeiden. Dies gilt nur für Personenkreise im Sinne des § 14 Satz 1.
 
 
-### § 17 Verwendung des Sondervermögens "Versorgungsfonds des Bundes"
+### § 17 Verwendung des Sondervermögens „Versorgungsfonds des Bundes“; Verordnungsermächtigung
 
 Ab dem Jahr 2020 entstehende Versorgungsausgaben für den in § 14 Satz
 1 genannten Personenkreis sowie Ausgaben, die anstelle von
 Versorgungsausgaben für diesen Personenkreis geleistet werden, werden
-den die Versorgungsausgaben anordnenden Dienststellen der in § 13 Abs.
-1 genannten Dienstherren aus dem Sondervermögen "Versorgungsfonds des
-Bundes" erstattet. Das Bundesministerium des Innern regelt im
-Einvernehmen mit dem Bundesministerium der Finanzen das Nähere zum
-Erstattungsverfahren durch Rechtsverordnung.
+den die Versorgungsausgaben anordnenden Dienststellen der in § 13
+Absatz 1 genannten Dienstherren aus dem Sondervermögen
+„Versorgungsfonds des Bundes“ nach Maßgabe der Sätze 2 und 3
+erstattet. Das Bundesministerium des Innern regelt durch
+Rechtsverordnung im Einvernehmen mit dem Bundesministerium der
+Finanzen das Nähere über die Erstattung der Versorgungsausgaben,
+insbesondere über die Berechnung und die Höhe der Erstattung sowie
+über das Erstattungsverfahren. Die Höhe der Erstattungssätze wird
+durch die Rechtsverordnung nach Satz 2 erstmals zum 1. Januar 2020
+festgelegt und alle fünf Jahre überprüft.
 
 
-### § 18 Entnahme von Mitteln durch die Bundesagentur für Arbeit
-
-Die von der Bundesagentur für Arbeit in das Sondervermögen
-„Versorgungsfonds des Bundes“ eingezahlten Mittel werden in voller
-Höhe einschließlich der Zinsen entnommen und dem nach § 366a des
-Dritten Buches Sozialgesetzbuch gebildeten Versorgungsfonds der
-Bundesagentur für Arbeit zugeführt.
+### § 18 (weggefallen)
 

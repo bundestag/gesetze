@@ -52,20 +52,18 @@ Fundstelle: BGBl. I 1980, 2352)
 
 ## Anlage 2
 
+Fundstelle: BGBl. I 1980, 2353)
 Ergänzung der Bezeichnungen, Abkürzungen und Kennzeichen der
 Internationalen Entwicklungsorganisation
 (Ergänzung von Abschnitt II Nr. 12 der Anlage zu der Bekanntmachung
 vom 12. September 1963, BGBl. I S. 781):
-(Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
-Fundstelle: BGBl. I 1980, 2353)
-
+![bgbl1_1980_j2353_0010.jpg](bgbl1_1980_j2353_0010.jpg)
 
 ## Anlage 3
 
+Fundstelle: BGBl. I 1980, 2353)
 Ergänzung der Bezeichnungen, Abkürzungen und Kennzeichen der
 Internationalen Finanz-Corporation
 (Ergänzung von Abschnitt II Nr. 13 der Anlage zu der Bekanntmachung
 vom 12. September 1963, BGBl. I S. 781):
-(Inhalt: Nicht darstellbare Bezeichnungen und Kennzeichen,
-Fundstelle: BGBl. I 1980, 2353)
-
+![bgbl1_1980_j2353_0020.jpg](bgbl1_1980_j2353_0020.jpg)

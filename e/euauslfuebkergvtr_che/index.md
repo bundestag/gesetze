@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Schweizerischen E
   1957 und die Erleichterung seiner Anwendung
 jurabk: EuAuslfÜbkErgVtr CHE
 layout: default
-origslug: euauslf_bkergvtr_che
+origslug: euauslfuebkergvtr_che
 slug: euauslfuebkergvtr_che
 
 ---

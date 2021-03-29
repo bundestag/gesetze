@@ -4,7 +4,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch von Ausbildung
   Assistentinnen und Assistenten
 jurabk: AfögLTAV
 layout: default
-origslug: af_gltav
+origslug: afoegltav
 slug: afoegltav
 
 ---

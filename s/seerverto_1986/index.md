@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 23.3.1999 I 530; 2000 I 149;
 
 Zuletzt geändert durch
-:   Art. 78 Abs. 5 G v. 23.11.2007 I 2614 mWv 30.11.2007
+:   Art. 3 G v. 5.7.2016 I 1578
 
 Stand: In Kraft gem. Bek. v. 30.7.1987 I 2083 mWv 1.9.1987
 
@@ -80,22 +80,22 @@ angehörenden Schuldners eröffnet worden ist.
 
 
 sofern diese Personen ihre Haftung für die aus einem bestimmten
-Ereignis entstandenen Ansprüche nach § 486 Abs. 1 oder 3, §§ 487 bis
-487d des Handelsgesetzbuchs beschränken können und wegen eines solchen
+Ereignis entstandenen Ansprüche nach § 611 Absatz 1 oder 3, §§ 612 bis
+616 des Handelsgesetzbuchs beschränken können und wegen eines solchen
 Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses
 Gesetzes eingeleitet wird;
 
 3a. ein nicht an Bord des gelotsten Schiffes tätiger Lotse, sofern er
     seine Haftung für die aus einem bestimmten Ereignis entstandenen
-    Ansprüche nach § 487c Abs. 4 des Handelsgesetzbuchs beschränken kann
-    und wegen eines solchen Anspruchs ein gerichtliches Verfahren im
-    Geltungsbereich dieses Gesetzes eingeleitet wird;
+    Ansprüche nach § 615 des Handelsgesetzbuchs beschränken kann und wegen
+    eines solchen Anspruchs ein gerichtliches Verfahren im Geltungsbereich
+    dieses Gesetzes eingeleitet wird;
 
 
 4.  der Eigentümer eines Schiffes im Sinne des Artikels I Nr. 3 des
     Haftungsübereinkommens von 1992, sofern er seine Haftung für die aus
-    einem bestimmten Ereignis entstandenen Ansprüche nach § 486 Abs. 2, §
-    487d des Handelsgesetzbuchs beschränken kann.
+    einem bestimmten Ereignis entstandenen Ansprüche nach § 611 Absatz 2,
+    § 616 des Handelsgesetzbuchs beschränken kann.
 
 
 
@@ -284,8 +284,9 @@ des § 1 Abs. 5 vorliegen.
 (4) Der Antrag kann bis zum Beginn des allgemeinen Prüfungstermins
 zurückgenommen werden.
 
+Festsetzung der Haftungssumme.
 
-#### § 5 Festsetzung der Haftungssumme. Zulassung von Sicherheiten
+#### § 5 Zulassung von Sicherheiten
 
 (1) Das Gericht setzt durch Beschluß die Summe fest, die zur
 Errichtung des Fonds einzuzahlen ist (Haftungssumme).
@@ -457,7 +458,7 @@ Personenkreis gehören, für alle Ansprüche, die
 1.  aus dem im Eröffnungsbeschluß bezeichneten Ereignis entstanden sind,
 
 
-2.  der Haftungsbeschränkung nach den §§ 486 bis 487d des
+2.  der Haftungsbeschränkung nach den §§ 611 bis 616 des
     Handelsgesetzbuchs unterliegen und
 
 
@@ -750,7 +751,7 @@ Tabelle kann auch in elektronischer Form hergestellt und bearbeitet
 werden. Sie ist zusammen mit den Anmeldungen auf der Geschäftsstelle
 des Gerichts zur Einsicht der Beteiligten niederzulegen. Von einer
 Tabelle in elektronischer Form ist ein Ausdruck zur Einsicht
-niederzulegen, der den Anforderungen des § 298 Abs. 2 der
+niederzulegen, der den Anforderungen des § 298 Absatz 3 der
 Zivilprozessordnung entspricht.
 
 (4) Die Anmeldung kann zurückgenommen werden, solange nicht der
@@ -761,12 +762,11 @@ oder zu Protokoll der Geschäftsstelle erklärt werden.
 
 #### § 14 Gegenstand der Anmeldung
 
-(1) Die Ansprüche sind mit dem Wert in Deutscher Mark geltend zu
-machen, der ihnen am Tag der Eröffnung des Verteilungsverfahrens
-zukommt. Ansprüche, die nicht auf einen Geldbetrag gerichtet sind oder
-deren Geldbetrag unbestimmt oder ungewiß ist oder nicht in Deutscher
-Mark feststeht, sind nach ihrem Schätzungswert in Deutscher Mark
-geltend zu machen.
+(1) Die Ansprüche sind mit dem Wert in Euro geltend zu machen, der
+ihnen am Tag der Eröffnung des Verteilungsverfahrens zukommt.
+Ansprüche, die nicht auf einen Geldbetrag gerichtet sind oder deren
+Geldbetrag unbestimmt oder ungewiß ist oder nicht in Euro feststeht,
+sind nach ihrem Schätzungswert in Euro geltend zu machen.
 
 (2) Zinsen können im Verteilungsverfahren nur insoweit geltend gemacht
 werden, als sie bis zur Eröffnung des Verfahrens aufgelaufen sind.
@@ -1121,9 +1121,9 @@ nieder und macht die Summe der Ansprüche öffentlich bekannt; § 11 Abs.
 2 bis 4 gilt entsprechend. Das Verzeichnis kann auch in elektronischer
 Form hergestellt und bearbeitet werden. Von einem Verzeichnis in
 elektronischer Form ist ein Ausdruck zur Einsicht niederzulegen, der
-den Anforderungen des § 298 Abs. 2 der Zivilprozessordnung entspricht.
-Für Einwendungen gegen das Verzeichnis gilt § 194 der Insolvenzordnung
-entsprechend.
+den Anforderungen des § 298 Absatz 3 der Zivilprozessordnung
+entspricht. Für Einwendungen gegen das Verzeichnis gilt § 194 der
+Insolvenzordnung entsprechend.
 
 (3) Gläubiger, deren Ansprüche nicht festgestellt sind und für deren
 Ansprüche ein mit der Vollstreckungsklausel versehener Schuldtitel,
@@ -1185,8 +1185,9 @@ Sobald nach einer ersten Verteilung ein weiterer hinreichender Betrag
 der Haftungssumme verfügbar wird, soll eine weitere Verteilung
 erfolgen.
 
+Aufhebung des Verfahrens.
 
-#### § 29 Aufhebung des Verfahrens. Nachtragsverteilung
+#### § 29 Nachtragsverteilung
 
 (1) Das Gericht beschließt die Aufhebung des Verteilungsverfahrens,
 wenn die Haftungssumme verteilt ist oder wenn nur noch Anteile nach §
@@ -1557,7 +1558,7 @@ Auf die Eröffnung des Binnenschiffahrtsrechtlichen
 Verteilungsverfahrens ist § 8 mit der Maßgabe anzuwenden, daß an die
 Stelle
 
-1.  der Ansprüche, die der Haftungsbeschränkung nach den §§ 486 bis 487d
+1.  der Ansprüche, die der Haftungsbeschränkung nach den §§ 611 bis 616
     des Handelsgesetzbuchs unterliegen, die Ansprüche treten, die der
     Haftungsbeschränkung nach den §§ 4 bis 5m des
     Binnenschiffahrtsgesetzes unterliegen, und
@@ -1769,8 +1770,9 @@ Anspruch gegen den Fonds vor dem Gericht geltend machen kann, das den
 Fonds verwaltet, und wenn der Fonds für den Anspruch tatsächlich zur
 Verfügung steht und frei transferierbar ist.
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960)
+### Anhang EV (BGBl. II 1990, 889, 960)
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

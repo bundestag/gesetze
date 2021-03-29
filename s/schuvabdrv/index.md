@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1658
 
+Geändert durch
+:   Art. 7 G v. 21.11.2016 I 2591
+
 
 ## Eingangsformel
 
@@ -474,14 +477,14 @@ Absatz 2 und 3 der Zivilprozessordnung in das Schuldnerverzeichnis
 aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
 übermittelnder Daten mit anderen Daten ist nur zulässig, wenn
 
-1.  die Verknüpfung für die Zwecke des § 882f der Zivilprozessordnung
-    notwendig ist,
+1.  die Verknüpfung für die Zwecke des § 882f Absatz 1 der
+    Zivilprozessordnung notwendig ist,
 
 
 2.  die Daten, mit denen die Daten aus dem Schuldnerverzeichnis verknüpft
-    werden sollen, rechtmäßig und ausschließlich zu den in § 882f der
-    Zivilprozessordnung genannten Zwecken erhoben, verarbeitet und genutzt
-    werden,
+    werden sollen, rechtmäßig und ausschließlich zu den in § 882f Absatz 1
+    der Zivilprozessordnung genannten Zwecken erhoben, verarbeitet und
+    genutzt werden,
 
 
 3.  der Bezieher der Abdrucke die Herkunft der Daten nachweisen kann und
@@ -491,8 +494,8 @@ aufzunehmenden Eintragungen übermittelt werden. Die Verknüpfung zu
     Auskunft im Wege des Abrufs von Daten, die mit Daten aus dem
     Schuldnerverzeichnis verknüpft sind, nur dann Kenntnis von verknüpften
     Daten aus Schuldnerverzeichnissen erhält, wenn er dazu berechtigt ist
-    oder wenn dies für die Zwecke des § 882f der Zivilprozessordnung
-    notwendig ist.
+    oder wenn dies für die Zwecke des § 882f Absatz 1 der
+    Zivilprozessordnung notwendig ist.
 
 
 
@@ -518,8 +521,8 @@ Regelungen zu gewährleisten. § 9 Absatz 2 gilt entsprechend.
 Abrufverfahren auszuschließen, wenn ihr Tatsachen bekannt werden, die
 erkennen lassen, dass
 
-1.  die abgerufenen Daten vom Abrufberechtigten nicht zu den in § 882f der
-    Zivilprozessordnung genannten Zwecken verwendet werden,
+1.  die abgerufenen Daten vom Abrufberechtigten nicht zu den in § 882f
+    Absatz 1 der Zivilprozessordnung genannten Zwecken verwendet werden,
 
 
 2.  kein berechtigtes Interesse nach § 882g Absatz 2 Nummer 3 der

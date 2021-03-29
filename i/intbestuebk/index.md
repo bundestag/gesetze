@@ -3,7 +3,7 @@ Title: Übereinkommen über die Bekämpfung der Bestechung ausländischer Amtstr
   internationalen Geschäftsverkehr
 jurabk: IntBestÜbk
 layout: default
-origslug: intbest_bk
+origslug: intbestuebk
 slug: intbestuebk
 
 ---

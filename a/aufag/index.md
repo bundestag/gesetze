@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 3686
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 6 G v. 12.4.2012 I 579
+:   Art. 6 Abs. 10 G v. 23.5.2017 I 1228
 
 
 ## § 1 Erstattungsanspruch
@@ -45,11 +45,11 @@ als 30 Arbeitnehmer und Arbeitnehmerinnen beschäftigen, 80 Prozent
 (2) Die Krankenkassen mit Ausnahme der landwirtschaftlichen
 Krankenkasse erstatten den Arbeitgebern in vollem Umfang
 
-1.  den vom Arbeitgeber nach § 14 Abs. 1 des Mutterschutzgesetzes
+1.  den vom Arbeitgeber nach § 20 Absatz 1 des Mutterschutzgesetzes
     gezahlten Zuschuss zum Mutterschaftsgeld,
 
 
-2.  das vom Arbeitgeber nach § 11 des Mutterschutzgesetzes bei
+2.  das vom Arbeitgeber nach § 18 des Mutterschutzgesetzes bei
     Beschäftigungsverboten gezahlte Arbeitsentgelt,
 
 
@@ -73,8 +73,8 @@ die nur Auszubildende beschäftigen.
 
 (1) Die zu gewährenden Beträge werden dem Arbeitgeber von der
 Krankenkasse ausgezahlt, bei der die Arbeitnehmer und
-Arbeitnehmerinnen, die Auszubildenden oder die nach § 11 oder § 14
-Abs. 1 des Mutterschutzgesetzes anspruchsberechtigten Frauen
+Arbeitnehmerinnen, die Auszubildenden oder die nach § 18 oder § 20
+Absatz 1 des Mutterschutzgesetzes anspruchsberechtigten Frauen
 versichert sind. Für geringfügig Beschäftigte nach dem Vierten Buch
 Sozialgesetzbuch ist zuständige Krankenkasse die Deutsche
 Rentenversicherung Knappschaft-Bahn-See als Träger der
@@ -84,24 +84,29 @@ Arbeitnehmerinnen, die nicht Mitglied einer Krankenkasse sind, gilt §
 
 (2) Die Erstattung wird auf Antrag erbracht. Sie ist zu gewähren,
 sobald der Arbeitgeber Arbeitsentgelt nach § 3 Abs. 1 und 2 und § 9
-Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach § 11 des
-Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach § 14
-Abs. 1 des Mutterschutzgesetzes gezahlt hat.
+Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach § 18 des
+Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach § 20
+Absatz 1 des Mutterschutzgesetzes gezahlt hat. Stellt die Krankenkasse
+eine inhaltliche Abweichung zwischen ihrer Berechnung der Erstattung
+und dem Antrag des Arbeitgebers fest, hat sie diese Abweichung und die
+Gründe hierfür dem Arbeitgeber durch Datenübertragung nach § 28a
+Absatz 1 Satz 3 des Vierten Buches Sozialgesetzbuch unverzüglich zu
+melden; dies gilt auch, wenn dem Antrag vollständig entsprochen wird.
+§ 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt
+entsprechend.
 
 (3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch
-gesicherte und verschlüsselte Datenfernübertragung aus systemgeprüften
-Programmen oder mittels maschineller Ausfüllhilfe an die zuständige
-Krankenkasse zu übermitteln. Dabei ist zu gewährleisten, dass dem
-jeweiligen Stand der Technik entsprechende Maßnahmen zur
-Sicherstellung von Datenschutz und Datensicherheit getroffen werden,
-die insbesondere die Vertraulichkeit und Unversehrtheit der Daten
-sowie die Authentifizierung der übermittelnden und empfangenden Stelle
-gewährleisten. Bei der Nutzung allgemein zugänglicher Netze sind
-Verschlüsselungsverfahren zu verwenden. Den Übertragungsweg und die
-Einzelheiten des Verfahrens wie den Aufbau des Datensatzes legt der
-Spitzenverband Bund der Krankenkassen in Grundsätzen fest, die vom
-Bundesministerium für Arbeit und Soziales im Einvernehmen mit dem
-Bundesministerium für Gesundheit zu genehmigen sind; die
+Datenübertragung nach § 28a Absatz 1 Satz 3 und 4 des Vierten Buches
+Sozialgesetzbuch an die zuständige Krankenkasse zu übermitteln. § 28a
+Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt für die
+Meldung nach Satz 1 entsprechend.
+
+(4) Den Übertragungsweg und die Einzelheiten des Verfahrens wie den
+Aufbau der Datensätze für die maschinellen Meldungen der Krankenkassen
+nach Absatz 2 und die maschinellen Anträge der Arbeitgeber nach Absatz
+3 legt der Spitzenverband Bund der Krankenkassen in Grundsätzen fest,
+die vom Bundesministerium für Arbeit und Soziales im Einvernehmen mit
+dem Bundesministerium für Gesundheit zu genehmigen sind; die
 Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
 
 
@@ -157,7 +162,7 @@ insbesondere zurückzufordern, soweit der Arbeitgeber
 
 2.  Erstattungsbeträge gefordert hat, obwohl er wusste oder wissen musste,
     dass ein Anspruch nach § 3 Abs. 1 und 2 oder § 9 Abs. 1 des
-    Entgeltfortzahlungsgesetzes oder nach § 11 oder § 14 Abs. 1 des
+    Entgeltfortzahlungsgesetzes oder nach § 18 oder § 20 Absatz 1 des
     Mutterschutzgesetzes nicht besteht.
 
 
@@ -278,7 +283,7 @@ enthalten über die
 
 
 2.  eine pauschale Erstattung des von den Arbeitgebern zu tragenden Teils
-    des Gesamtsozialversicherungsbeitrags für das nach § 11 des
+    des Gesamtsozialversicherungsbeitrags für das nach § 18 des
     Mutterschutzgesetzes gezahlte Arbeitsentgelt vorsehen,
 
 

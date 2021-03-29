@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 31.7.1996 I 1198;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 11.7.2006 I 1575
+:   Art. 4 G v. 18.7.2017 I 2774
 
 
 ## § 1 Anwendungsbereich
@@ -28,9 +28,9 @@ Zuletzt geändert durch
 Diese Verordnung trifft nähere Bestimmungen über Art, Umfang, Inhalt
 und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
-1.  die derjenige, der bestimmte Zubereitungen oder ein Biozid-Produkt in
-    den Verkehr bringt, nach § 16e Abs. 1 des Chemikaliengesetzes
-    abzugeben hat,
+1.  die derjenige, der bestimmte Gemische oder ein Biozid-Produkt in den
+    Verkehr bringt, nach § 16e Abs. 1 des Chemikaliengesetzes abzugeben
+    hat,
 
 
 2.  die ein Arzt nach § 16e Abs. 2 des Chemikaliengesetzes bei
@@ -40,46 +40,38 @@ und Form von Mitteilungen an das Bundesinstitut für Risikobewertung,
 
 
 
-## § 2 Mitteilungspflicht beim Inverkehrbringen von Zubereitungen und Biozid-Produkten (§ 16e Abs. 1 des Chemikaliengesetzes)
+## § 2 Mitteilungspflicht beim Inverkehrbringen von Gemischen und Biozid-Produkten
 
-(1) Die Mitteilung nach § 16e Abs. 1 des Chemikaliengesetzes hat
+(1) Die Mitteilung nach § 16e Absatz 1 des Chemikaliengesetzes hat bei
+erstmaliger Mitteilung vor dem Inverkehrbringen und bei einer
+Änderungsmitteilung unverzüglich nach den Vorgaben des Anhangs VIII
+der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des
+Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und
+Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der
+Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung
+(EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1; L 16 vom
+20\.1.2011, S. 1; L 94 vom 10.4.2015, S. 9), in der jeweils geltenden
+Fassung, unter Verwendung des in Anhang VIII Teil C der genannten
+Verordnung festgelegten Formats, zu erfolgen. Das Bundesinstitut für
+Risikobewertung bestätigt dem Mitteilenden den Eingang der Mitteilung.
 
-1.  bei erstmaliger Mitteilung vor dem Inverkehrbringen unter Verwendung
-    des Formblattes nach Anlage 1,
-
-
-2.  bei einer Änderungsmitteilung unverzüglich unter Verwendung des
-    Formblattes nach Anlage 2 unter Nennung der vom Bundesinstitut für
-    Risikobewertung vergebenen Mitteilungsnummer
-
-
-
-zu erfolgen. Bei erstmaliger Mitteilung sind zumindest die Angaben zu
-den Nummern 1 bis 8 des Formblattes nach Anlage 1 mitzuteilen. Das
-Bundesinstitut für Risikobewertung bestätigt dem Mitteilenden den
-Eingang der Mitteilung und teilt ihm die entsprechende
-Mitteilungsnummer mit.
-
-(2) Wer eine Zubereitung oder ein Biozid-Produkt unverändert oder als
-Bestandteil einer eigenen Zubereitung unter eigenem Handelsnamen in
-den Verkehr bringt, kann die Angaben zu Nummer 3 des Formblattes nach
-Anlage 1 durch eine Bezugnahme auf die Mitteilung einschließlich einer
-Änderungsmitteilung des Herstellers oder Einführers dieser Zubereitung
-oder dieses Biozid-Produkts ersetzen, wenn er Namen und Anschrift des
-Herstellers oder Einführers, den Handelsnamen der Zubereitung oder des
-Biozid-Produkts sowie die vom Bundesinstitut für Risikobewertung
-vergebene Mitteilungsnummer angibt.
-
-(3) Das Bundesinstitut für Risikobewertung kann die Übermittlung der
-Angaben nach den Absätzen 1 und 2 auch auf einem anderen geeigneten
-Datenträger zulassen.
+(2) Bis zu drei Monate nachdem die Europäische Chemikalienagentur das
+in Absatz 1 genannte Format zur Verfügung gestellt hat, kann die
+Mitteilung abweichend von Absatz 1 unter Verwendung eines vom
+Bundesinstitut für Risikobewertung auf seiner Internetseite zur
+Verfügung zu stellenden Formats erfolgen, das inhaltlich den Vorgaben
+der bis zum 28. Juli 2017 geltenden Fassung dieser Verordnung
+entspricht. Das Bundesinstitut für Risikobewertung gibt den Zeitpunkt,
+zu dem die Europäische Chemikalienagentur das Format zur Verfügung
+gestellt hat, unverzüglich im elektronischen Bundesanzeiger bekannt.
 
 
 ## § 3 Ärztliche Mitteilungspflicht bei Vergiftungen (§ 16e Abs. 2 des Chemikaliengesetzes)
 
 (1) Die Mitteilung nach § 16e Abs. 2 des Chemikaliengesetzes hat unter
-Verwendung des Formblattes nach Anlage 3 zu erfolgen und muß zumindest
-die Angaben zu den Nummern 1 bis 4 des Formblattes umfassen. Sie hat
+Verwendung des Formblattes nach der Anlage zu erfolgen und muß
+zumindest die Angaben zu den Nummern 1 bis 4 des Formblattes umfassen.
+Sie hat
 
 1.  bei akuten Erkrankungen nach Abschluß der Behandlung,
 
@@ -106,9 +98,9 @@ Angaben nach Absatz 1 auch auf andere geeignete Weise zulassen.
 
 ## § 4 Vertraulichkeit
 
-Alle auf den Formblättern nach den Anlagen 1, 2 und 3 übermittelten
+Alle nach § 2 und auf dem Formblatt nach der Anlage übermittelten
 Daten, einschließlich der freiwilligen Angaben, sind vertraulich zu
-behandeln. Die Angaben im Formblatt nach Anlage 3 dürfen nicht zur
+behandeln. Die Angaben im Formblatt nach der Anlage dürfen nicht zur
 Herstellung eines Personenbezuges zum Patienten verarbeitet oder
 genutzt werden.
 
@@ -123,233 +115,7 @@ genutzt werden.
 (Inkrafttreten)
 
 
-## Anlage 1 (zu § 2 Abs. 1 Satz 1 Nr. 1)
-
-(Fundstelle: BGBl. I 2002, 2519 - 2521;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-Bitte deutlich lesbar ausfüllen.
-An das
-Bundesinstitut für Risikobewertung
-Dokumentations- und Bewertungsstelle für Vergiftungen
-Postfach 33 00 13
-14191 Berlin
-Mitteilung () einer Zubereitung () eines Biozid-Produkts
-(Erstmalige Mitteilung nach § 16e Abs. 1 des Chemikaliengesetzes)
-1\. a) Name der Firma, Anschrift
-.................................................................
-b) Telefonnummer der Firma
-.................................................................
-c) Zuständige Stelle der Firma für Auskünfte über die Zubereitung/
-das Biozid-Produkt
-.................................................................
-Tel.-Nr.: .......................................................
-Tel.-Nr. nach Geschäftsschluss ..................................
-2\. a) Handelsname der Zubereitung/des Biozid-Produkts
-.................................................................
-b) Die Zubereitung/das Biozid Produkt wird von der mitteilenden Firma
-----                         ----
-I  I  hergestellt            I  I  eingeführt
-----                         ----
-----
-I  I  von einer anderen Firma bezogen und unverändert in den
-----  Verkehr gebracht
-3\. Inhaltsstoffe
-a) Besondere Inhaltsstoffe
-Anzugeben sind
-aa) Biozid-Wirkstoffe (bei Mitteilungen zu Biozid-Produkten),
-bb) sehr giftige, giftige, krebserzeugende, fruchtschädigende,
-erbgutverändernde oder sensibilisierende Stoffe ab der
-Konzentration, mit der sie zur Kennzeichnung einer Zubereitung
-oder eines Biozid-Produkts beitragen, mindestens aber ab 0,1%,
-cc) stark ätzende Säuren und Laugen, wie Salpetersäure,
-Salzsäure, Schwefelsäure, Kalilauge, Natronlauge,
-sowie quarternäre Ammoniumverbindungen und Phenole ab
-0,1%, soweit diese Stoffe nicht unter aa oder bb) fallen,
-dd) ätzende Stoffe
-bei Raumtemperatur flüssige
-- Halogenkohlenwasserstoffe,
-- Petroldestillate einschließlich Mischungen unter
-Angabe der CAS-Nummern,
-- Glykole, jedoch nicht Polyglykole,
-ab 1%, soweit diese Stoffe nicht unter aa), bb) oder cc)
-fallen.
-Die Konzentration des Stoffes in der Zubereitung/dem Biozid-Produkt
-ist auf 10% genau (relativ) anzugeben. Soweit Gehalte von
-unter 5% anzugeben sind und zur Beurteilung des
-Gefahrenpotentials der Zubereitung nicht die Kenntnis
-der genauen Konzentration des Stoffes notwendig ist,
-kann die Konzentrationsangabe in folgenden
-Konzentrationsstufen erfolgen: bis unter 0,1%, 0,1% bis
-unter 0,5%, 0,5% bis unter 1,0%, 1,0% bis unter 1,5%,
-1,5% bis unter 2,0%, 2,0% bis unter 3,0%, 3,0% bis unter
-4,0%, 4,0% bis unter 5,0%. Bei produktionsbedingt
-üblichen Schwankungen sind auch abweichende
-Konzentrationsbereichsangaben zulässig.
-----------------------------------------------------------------------
---
-I Stoffe                I CAS-   I Konzentration bzw.  I R-Sätze
-I
-I                       I Nummer I Konzentrationsstufe I
-I
-I
-----------------------------------------------------------------------
-I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-----------------------------------------------------------------------
---
-b) Sonstige Inhaltsstoffe
-Anzugeben sind alle anderen Inhaltsstoffe bei einem Gehalt
-ab 1,0 bis 100 Gewichtsprozenten.
-Sofern zur Beurteilung des Gefahrenpotentials der
-Zubereitung/des Biozid-Produkts nicht die Kenntnis des einzelnen
-Stoffes notwendig ist und vergleichbare physikalische/chemische
-und toxikologische Eigenschaften vorliegen, kann statt
-der Bezeichnung des einzelnen Stoffes eine
-Gruppenbezeichnung verwandt werden, z.B.
-- kationische Tenside,
-- anionische Tenside,
-- nicht ionische Tenside,
-- Fettsäuren,
-- Pflanzenöle.
-Die Konzentration des Stoffes in der Zubereitung/im Biozid-Produkt
-ist auf 20% genau (relativ) anzugeben. Soweit Gehalte
-von unter 10% anzugeben sind und zur Beurteilung des
-Gefahrenpotentials der Zubereitung/des Biozid-Produkts nicht die
-Kenntnis der genauen Konzentration des Stoffes notwendig ist,
-kann die Konzentrationsangabe in folgenden
-Konzentrationsstufen erfolgen: 1,0% bis unter 2,0%,
-2,0% bis unter 4,0%, 4,0% bis unter 7,0%, 7,0% bis
-unter 10,0%. Bei produktionsbedingt üblichen
-Schwankungen sind auch abweichende
-Konzentrationsbereichsangaben zulässig.
-----------------------------------------------------------------------
---
-I Stoffe                I CAS-   I Konzentration bzw.  I R-Sätze
-I
-I                       I Nummer I Konzentrationsstufe I
-I
-I
-----------------------------------------------------------------------
-I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-I-----------------------I--------I---------------------I
----------------I
-----------------------------------------------------------------------
---
-4\. Kennzeichnung der Zubereitung
-a) Gefahrensymbole .................................................
-b) Gefahrenbezeichnungen ...........................................
-c) Hinweise auf besondere Gefahren (R-Sätze) .......................
-.................................................................
-d) Sicherheitsratschläge (S-Sätze) .................................
-.................................................................
-e) Weitere Kennzeichnungen .........................................
-.................................................................
-f) Einstufung
-aufgrund der Prüfung der Zubereitung/des Biozid-Produkts ........
-aufgrund von Berechnungsverfahren ...............................
-.................................................................
-5\. Verwendungsart, Verwendungszweck sowie bei Biozid-Produkten
-Hauptgruppe und Produktart gemäß Anhang V der Richtlinie 98/8/EG
-in ihrer jeweils jüngsten im Amtsblatt der Europäischen
-Gemeinschaften veröffentlichten Fassung
-....................................................................
-....................................................................
-6\. Angaben zur Verpackung
-a) Gebindeformen (z. B. Dose, Spraydose, Flasche mit
-Schraubverschluss, Tropfflasche, etc.)
-.................................................................
-b) Füllmengen (ml oder g) ..........................................
-----
-c) I  I Das Gebinde trägt einen kindergesicherten Verschluss
-----
-----
-d) I  I Das Gebinde trägt ein fühlbares Warnzeichen
-----
-7\. Empfehlungen über Vorsichtsmaßnahmen bei Vergiftungen
-und Sofortmaßnahmen bei Unfällen
-....................................................................
-....................................................................
-....................................................................
-8\. pH-Wert einer Mischung Wasser/Zubereitung im Verhältnis 1:1,
-sofern der Wert unter 2,5 oder über 10,0 liegt
-....................................................................
-----------------------------------------------------------------------
---
-Zusätzliche Angaben (freiwillig)
-9\. Analytik der wichtigsten Inhaltsstoffe (Methode, Matrix)
-....................................................................
-10\. Konsistenz der Zubereitung/des Biozid-Produkts
-(z. B. leichtbewegliche Flüssigkeit, zähflüssig, Pulver,
-Paste, etc.)
-....................................................................
-11\. Farbe der Zubereitung/des Biozid-Produkts
-....................................................................
-12\. Gefährliche Reaktionen mit anderen Zubereitungen/Biozid-Produkten,
-die für den Verbraucher bestimmt sind
-....................................................................
-13\. Sonstige Angaben
-....................................................................
-
-
-## Anlage 2 (zu § 2 Abs. 1 Satz 1 Nr. 2)
-
-(Fundstelle: BGBl. I 2002, 2522;
-bzgl. der einzelnen Änderung vgl. Fußnote)
-Bitte deutlich lesbar ausfüllen.
-An das
-Bundesinstitut für Risikobewertung
-Dokumentations- und Bewertungsstelle für Vergiftungen
-Postfach 33 00 13
-14191 Berlin
-Änderungsmitteilung einer Zubereitung/eines Biozid-Produkts
-(Änderungsmitteilung nach § 16e Abs. 1 des Chemikaliengesetzes)
-A. Name der Firma, Anschrift
-.....................................................................
-Handelsname der Zubereitung/des Biozid-Produkts
-.....................................................................
-B. Vom Bundesinstitut für Risikobewertung
-erteilte Mitteilungsnummer
-.................
-----
-C. I  I Die Zubereitung/das Biozid-Produkt wird ab dem ... endgültig
----- nicht mehr in den Verkehr gebracht.
-----
-I  I Die Zubereitung/das Biozid-Produkt wird ab dem ... erstmalig
----- in der nachfolgend dargestellten Form in den Verkehr gebracht.
-D. Angaben zu den Nummern 1 bis 13 des Formblattes zur erstmaligen
-Mitteilung, die sich gegenüber der letzten Mitteilung
-geändert haben. Geänderte Konzentrationen sind nur
-anzugeben, wenn sich die Konzentration bei Stoffen nach
-3a) um mehr als 10%, bei Stoffen nach 3b) um mehr als
-20% des angegebenen Wertes (relativ) geändert hat. Ist
-eine Angabe in einer der unter 3a) oder 3b) angegebenen
-Konzentrationsstufen erfolgt, ist eine Änderungsmeldung
-notwendig, wenn diese Konzentrationsstufe verlassen
-wurde. Ist wegen produktionsbedingt üblicher Schwankungen
-eine Konzentrationsbereichsangabe erfolgt, ist eine
-Änderungsmitteilung notwendig, wenn der angegebene
-Konzentrationsbereich verlassen wurde.
-E. Merkmale, an denen sich die ursprüngliche und die geänderte
-Zubereitung/das ursprüngliche und das geänderte Biozid-Produkt
-eindeutig unterscheiden lassen (z. B. Verpackungscode, Farbe)
-.....................................................................
-.....................................................................
-
-
-## Anlage 3 (zu § 3 Abs. 1)
+## Anlage (zu § 3 Absatz 1)
 
 (Fundstelle: BGBl. I 2002, 2523;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -365,9 +131,9 @@ Dokumentations- und Bewertungsstelle    I
 I
 für Vergiftungen                        I
 I
-Postfach 33 00 13                       I
+Postfach 12 69 42                      I
 I
-14191 Berlin                            I        Originalstempel,
+10609 Berlin                           I        Originalstempel,
 I
 I         Tel.-Nr. und           I
 I    Unterschrift des Arztes     I
@@ -375,8 +141,8 @@ I                                I
 ----------------------------------
 Mitteilung bei Vergiftungen
 nach § 16e Abs. 2 des Chemikaliengesetzes
-(BgVV: Telefon: 01888 412-3460, Fax: 01888-412-3929, E-Mail:
-giftdok§bgvv.de)
+(BfR: Telefon: +49 30 18412-3460, Fax: +49 30 18412-3929, E-Mail:
+giftdok@bfr.bund.de)
 1\.
 ----------------------------------------------------------------------
 ---------
@@ -403,7 +169,7 @@ I  I                                               I  I
 ----                                               ----
 ----------------------------------------------------------------------
 ---------
-I Unbedingt Handelsname der Zubereitung/des Biozid-Produkts oder
+I Unbedingt Handelsname des Gemischs/des Biozid-Produkts oder
 I
 I Stoffname, aufgenommene Menge und Hersteller (Vertreiber) angeben;
 I

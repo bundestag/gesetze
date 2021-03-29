@@ -19,14 +19,14 @@ Zuletzt geändert durch
 :   Art. 64 G v. 8.12.2010 I 1864
 
 
-## Erster Abschnitt -
+## Erster Abschnitt - 
 
 
 
 ### (XXXX) Art 1 bis 19 (weggefallen)
 
 
-## Zweiter Abschnitt -
+## Zweiter Abschnitt - 
 
 
 
@@ -34,7 +34,7 @@ Zuletzt geändert durch
 
 
 
-## Dritter Abschnitt -
+## Dritter Abschnitt - 
 
 
 
@@ -42,7 +42,7 @@ Zuletzt geändert durch
 
 
 
-## Vierter Abschnitt -
+## Vierter Abschnitt - 
 
 
 
@@ -50,7 +50,7 @@ Zuletzt geändert durch
 
 
 
-## Fünfter Abschnitt -
+## Fünfter Abschnitt - 
 
 
 

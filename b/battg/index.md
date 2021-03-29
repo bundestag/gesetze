@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 1582
 
 Zuletzt geändert durch
-:   Art. 4 G v. 24.2.2012 I 212
+:   Art. 6 Abs. 10 G v. 13.4.2017 I 872
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -29,13 +29,11 @@ Zuletzt geändert durch
 Form, Größe, Masse, stofflicher Zusammensetzung oder Verwendung. Es
 gilt auch für Batterien, die in andere Produkte eingebaut oder anderen
 Produkten beigefügt sind. Das Elektro- und Elektronikgerätegesetz vom
-16\. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 3 des
-Gesetzes vom 19. Juli 2007 (BGBl. I S. 1462) geändert worden ist, in
-der jeweils geltenden Fassung und die Altfahrzeug-Verordnung in der
-Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214), die
-zuletzt durch die Verordnung vom 3. April 2009 (BGBl. I S. 738)
-geändert worden ist, in der jeweils geltenden Fassung bleiben
-unberührt.
+20\. Oktober 2015 (BGBl. I S. 1739) in der jeweils geltenden Fassung
+und die Altfahrzeug-Verordnung in der Fassung der Bekanntmachung vom
+21\. Juni 2002 (BGBl. I S. 2214), die zuletzt durch die Verordnung vom
+3\. April 2009 (BGBl. I S. 738) geändert worden ist, in der jeweils
+geltenden Fassung bleiben unberührt.
 
 (2) Dieses Gesetz ist nicht anzuwenden auf Batterien, die verwendet
 werden
@@ -61,8 +59,13 @@ enthalten, sind das Kreislaufwirtschaftsgesetz mit Ausnahme von § 17
 Absatz 4 und § 54 und die auf Grund des Kreislaufwirtschaftsgesetzes
 oder des bis zum 1. Juni 2012 geltenden Kreislaufwirtschafts- und
 Abfallgesetzes erlassenen Rechtsverordnungen in der jeweils geltenden
-Fassung anzuwenden. Die §§ 27, 50 Absatz 3, § 59 Absatz 1 Satz 1 und §
-66 des Kreislaufwirtschaftsgesetzes gelten entsprechend.
+Fassung anzuwenden. Die §§ 27, 50 Absatz 3, § 59 Absatz 1 Satz 1 und
+Absatz 2 sowie die §§ 60 und 66 des Kreislaufwirtschaftsgesetzes
+gelten entsprechend. Rechtsvorschriften, die besondere Anforderungen
+an die Rücknahme, Wiederverwendung oder Entsorgung von Altbatterien
+enthalten, sowie solche, die aus Gründen der Sicherheit im
+Zusammenhang mit der Beförderung gefährlicher Güter erlassen sind,
+bleiben unberührt.
 
 
 ### § 2 Begriffsbestimmungen
@@ -217,18 +220,17 @@ von Batterien mit dem gleichen chemischen System.
 ### § 3 Verkehrsverbote
 
 (1) Das Inverkehrbringen von Batterien, die mehr als 0,0005
-Gewichtsprozent Quecksilber enthalten, ist verboten. Von dem Verbot
-ausgenommen sind Knopfzellen und aus Knopfzellen aufgebaute
-Batteriesätze mit einem Quecksilbergehalt von höchstens 2
-Gewichtsprozent.
+Gewichtsprozent Quecksilber enthalten, ist verboten.
 
 (2) Das Inverkehrbringen von Gerätebatterien, die mehr als 0,002
 Gewichtsprozent Cadmium enthalten, ist verboten. Von dem Verbot
 ausgenommen sind Gerätebatterien, die für Not- oder Alarmsysteme
-einschließlich Notbeleuchtung, medizinische Ausrüstung oder schnurlose
-Elektrowerkzeuge bestimmt sind. Satz 1 gilt nicht für Batterien, die
-nach Anhang II der Richtlinie 2000/53/EG des Europäischen Parlaments
-und des Rates vom 18. September 2000 über Altfahrzeuge (ABl. L 269 vom
+einschließlich Notbeleuchtung und für medizinische Ausrüstung bestimmt
+sind. Batterien, die für die Verwendung in schnurlosen
+Elektrowerkzeugen bestimmt sind, sind bis zum 31. Dezember 2016 von
+dem Verbot ausgenommen. Satz 1 gilt nicht für Batterien, die nach
+Anhang II der Richtlinie 2000/53/EG des Europäischen Parlaments und
+des Rates vom 18. September 2000 über Altfahrzeuge (ABl. L 269 vom
 21\.10.2000, S. 34), die zuletzt durch die Richtlinie 2008/33/EG (ABl.
 L 81 vom 20.3.2008, S. 62) geändert worden ist, in der jeweils
 geltenden Fassung vom Cadmiumverbot des Artikels 4 Absatz 2 Buchstabe
@@ -246,7 +248,7 @@ Maßgabe dieses Gesetzes zurückgegeben werden können.
 den Endnutzer nur anbieten, wenn sie durch Erfüllung der ihnen nach §
 9 Absatz 1 Satz 1 obliegenden Rücknahmepflichten sicherstellen, dass
 der Endnutzer Altbatterien nach Maßgabe dieses Gesetzes zurückgeben
-kann; das Anbieten von Batterien, deren Hersteller sich entgegen § 4
+kann. Das Anbieten von Batterien, deren Hersteller sich entgegen § 4
 Absatz 1 Satz 1 nicht oder nicht ordnungsgemäß angezeigt haben, ist
 untersagt.
 
@@ -312,9 +314,9 @@ Verlangen bereitzustellen. Hersteller, die aus dem Gemeinsamen
 Rücknahmesystem austreten, haben dies der in § 7 Absatz 1 genannten
 Behörde unverzüglich anzuzeigen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit stellt im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie verbindlich fest, ob das Gemeinsame
+Wirtschaft und Energie verbindlich fest, ob das Gemeinsame
 Rücknahmesystem nach Absatz 1 in Verbindung mit Absatz 3 eingerichtet
 ist. Die Feststellung nach Satz 1 ist den Herstellern nach Absatz 1
 Satz 1 durch Veröffentlichung im Bundesanzeiger öffentlich bekannt zu
@@ -457,9 +459,10 @@ die zurückgenommenen Altbatterien nach § 14 verwerten. Eine
 Verpflichtung der Vertreiber oder der Behandlungseinrichtungen zur
 Überlassung dieser Altbatterien an die Hersteller besteht nicht.
 
-(2) Für Industrie-Altbatterien können die jeweils betroffenen
-Hersteller, Vertreiber, Behandlungseinrichtungen nach § 12 Absatz 1
-und 2 und Endnutzer von Absatz 1 abweichende Vereinbarungen treffen.
+(2) Für Fahrzeug- und Industrie-Altbatterien können die jeweils
+betroffenen Hersteller, Vertreiber, Behandlungseinrichtungen nach § 12
+Absatz 1 und 2 und Endnutzer von Absatz 1 Satz 1 abweichende
+Vereinbarungen treffen.
 
 (3) Soweit Fahrzeug- und Industrie-Altbatterien durch Vertreiber,
 Behandlungseinrichtungen nach § 12 Absatz 1 und 2, öffentlich-
@@ -471,15 +474,15 @@ nach § 14 verwertet werden, gilt die Verpflichtung der Hersteller aus
 ### § 9 Pflichten der Vertreiber
 
 (1) Jeder Vertreiber ist verpflichtet, vom Endnutzer Altbatterien an
-oder in unmittelbarer Nähe der Verkaufsstelle unentgeltlich
+oder in unmittelbarer Nähe der Handelsgeschäft unentgeltlich
 zurückzunehmen. Die Rücknahmeverpflichtung nach Satz 1 beschränkt sich
 auf Altbatterien der Art, die der Vertreiber als Neubatterien in
 seinem Sortiment führt oder geführt hat, sowie auf die Menge, derer
 sich Endnutzer üblicherweise entledigen. Satz 1 erstreckt sich nicht
 auf Produkte mit eingebauten Altbatterien; das Elektro- und
 Elektronikgerätegesetz und die Altfahrzeug-Verordnung bleiben
-unberührt. Im Versandhandel ist Verkaufsstelle im Sinne von Satz 1 das
-Versandlager.
+unberührt. Im Versandhandel ist Handelsgeschäft im Sinne von Satz 1
+das Versandlager.
 
 (2) Die Vertreiber nach Absatz 1 sind verpflichtet, zurückgenommene
 Geräte-Altbatterien dem Gemeinsamen Rücknahmesystem zur Abholung
@@ -512,10 +515,20 @@ werden.
 verpflichtet, je Fahrzeugbatterie ein Pfand in Höhe von 7,50 Euro
 einschließlich Umsatzsteuer zu erheben, wenn der Endnutzer zum
 Zeitpunkt des Kaufs einer neuen Fahrzeugbatterie keine Fahrzeug-
-Altbatterie zurückgibt. Das Pfand ist bei Rückgabe einer Fahrzeug-
-Altbatterie zu erstatten. Der Vertreiber kann bei der Pfanderhebung
-eine Pfandmarke ausgeben und die Pfanderstattung von der Rückgabe der
-Pfandmarke abhängig machen.
+Altbatterie zurückgibt. Der Vertreiber, der das Pfand erhoben hat, ist
+bei Rückgabe einer Fahrzeug-Altbatterie zur Erstattung des Pfandes
+verpflichtet. Der Vertreiber kann bei der Pfanderhebung eine
+Pfandmarke ausgeben und die Pfanderstattung von der Rückgabe der
+Pfandmarke abhängig machen. Wird die Fahrzeug-Altbatterie nicht dem
+Pfand erhebenden Vertreiber zurückgegeben, ist derjenige
+Erfassungsberechtigte nach § 11 Absatz 3, der die Fahrzeug-Altbatterie
+zurücknimmt, verpflichtet, auf Verlangen des Endnutzers die Rücknahme
+ohne Pfanderstattung schriftlich oder elektronisch zu bestätigen. Ein
+Vertreiber, der Fahrzeugbatterien unter Verwendung von
+Fernkommunikationsmitteln anbietet, ist abweichend von Satz 2 zur
+Erstattung des Pfandes auch bei Vorlage eines schriftlichen oder
+elektronischen Rückgabenachweises nach Satz 4, der zum Zeitpunkt der
+Vorlage nicht älter als zwei Wochen ist, verpflichtet.
 
 (2) Werden in Fahrzeuge eingebaute Fahrzeugbatterien an den Endnutzer
 ab- oder weitergegeben, so entfällt die Pfandpflicht.
@@ -580,17 +593,21 @@ anzuwenden.
 
 ### § 13 Mitwirkung der öffentlich-rechtlichen Entsorgungsträger
 
-(1) Soweit sich öffentlich-rechtliche Entsorgungsträger an der
-Sammlung von Geräte-Altbatterien beteiligen, sind die erfassten
-Geräte-Altbatterien dem Gemeinsamen Rücknahmesystem zur Abholung
-bereitzustellen. Abweichend von Satz 1 können öffentlich-rechtliche
-Entsorgungsträger für einen Zeitraum von jeweils mindestens einem
-Kalenderjahr verbindlich auf die Abholung der erfassten Geräte-
-Altbatterien durch das Gemeinsame Rücknahmesystem verzichten und die
-Geräte-Altbatterien stattdessen einem oder mehreren herstellereigenen
-Rücknahmesystemen überlassen. Der Verzicht ist dem Gemeinsamen
-Rücknahmesystem jeweils mindestens drei Monate vor Beginn des
-Zeitraums schriftlich anzuzeigen.
+(1) Die öffentlich-rechtlichen Entsorgungsträger sind verpflichtet,
+Geräte-Altbatterien, die gemäß § 10 Absatz 1 Satz 2 des Elektro- und
+Elektronikgerätegesetzes durch den Endnutzer vom Elektro- oder
+Elektronikgerät zu trennen sind, unentgeltlich zurückzunehmen. Diese
+Geräte-Altbatterien sind dem Gemeinsamen Rücknahmesystem zur Abholung
+bereitzustellen. Satz 2 gilt auch, soweit sich öffentlich-rechtliche
+Entsorgungsträger freiwillig an der Sammlung von anderen Geräte-
+Altbatterien beteiligen. Abweichend von den Sätzen 2 und 3 können
+öffentlich-rechtliche Entsorgungsträger für einen Zeitraum von jeweils
+mindestens einem Kalenderjahr verbindlich auf die Abholung der
+erfassten Geräte-Altbatterien durch das Gemeinsame Rücknahmesystem
+verzichten und die Geräte-Altbatterien stattdessen einem oder mehreren
+herstellereigenen Rücknahmesystemen überlassen. Der Verzicht ist dem
+Gemeinsamen Rücknahmesystem jeweils mindestens drei Monate vor Beginn
+des Zeitraums schriftlich anzuzeigen.
 
 (2) Soweit sich öffentlich-rechtliche Entsorgungsträger an der
 Sammlung von Fahrzeug-Altbatterien beteiligen, sind sie verpflichtet,
@@ -599,16 +616,22 @@ die erfassten Fahrzeug-Altbatterien gemäß § 14 zu verwerten.
 
 ### § 14 Verwertung und Beseitigung
 
-(1) Alle gesammelten und identifizierbaren Altbatterien sind, soweit
-technisch möglich und wirtschaftlich zumutbar, nach dem Stand der
-Technik zu behandeln und stofflich zu verwerten. Dabei sind
+(1) Alle gesammelten und identifizierbaren Altbatterien sind nach dem
+Stand der Technik zu behandeln und stofflich zu verwerten. Dabei sind
 insbesondere die durch Rechtsverordnung nach § 20 Nummer 2
-festgelegten Mindestanforderungen zu beachten. Identifizierbare
-Altbatterien, deren Behandlung und Verwertung technisch nicht möglich
-oder wirtschaftlich nicht zumutbar ist, nicht identifizierbare
-Altbatterien sowie Rückstände von zuvor ordnungsgemäß behandelten und
-stofflich verwerteten Altbatterien sind nach dem Stand der Technik
-gemeinwohlverträglich zu beseitigen.
+festgelegten Mindestanforderungen und die durch die Verordnung (EU)
+Nr. 493/2012 der Kommission vom 11. Juni 2012 mit
+Durchführungsbestimmungen zur Berechnung der Recyclingeffizienzen von
+Recyclingverfahren für Altbatterien und Altakkumulatoren gemäß der
+Richtlinie 2006/66/EG des Europäischen Parlaments und des Rates (ABl.
+L 151 vom 12.6.2012, S. 9) vorgegebene Berechnung der
+Recyclingeffizienzen zu beachten. Zuständige Behörde im Sinne von
+Artikel 3 Absatz 4 der Verordnung ist das Umweltbundesamt. Das
+Umweltbundesamt übermittelt die Meldungen nach Artikel 3 Absatz 4 der
+Verordnung (EU) Nr. 493/2012 nachrichtlich den Ländern. Nicht
+identifizierbare Altbatterien sowie Rückstände von zuvor ordnungsgemäß
+behandelten und stofflich verwerteten Altbatterien sind nach dem Stand
+der Technik gemeinwohlverträglich zu beseitigen.
 
 (2) Die Beseitigung von Fahrzeug- und Industrie-Altbatterien durch
 Verbrennung oder Deponierung ist untersagt. Dies gilt nicht für
@@ -738,12 +761,11 @@ Inverkehrbringen gemäß den Vorgaben nach den Absätzen 4 und 5 mit dem
 Symbol nach der Anlage zu kennzeichnen.
 
 (2) Das Symbol nach Absatz 1 muss mindestens 3 Prozent der größten
-Fläche der Batterie oder des Vertriebsgebindes, höchstens jedoch eine
-Fläche von 5 Zentimeter Länge und 5 Zentimeter Breite, einnehmen. Bei
-zylindrischer Form des zu kennzeichnenden Objekts muss das Symbol nach
-Absatz 1 mindestens 1,5 Prozent der Oberfläche des Objekts, höchstens
-jedoch eine Fläche von 5 Zentimeter Länge und 5 Zentimeter Breite,
-einnehmen.
+Fläche der Batterie, höchstens jedoch eine Fläche von 5 Zentimeter
+Länge und 5 Zentimeter Breite, einnehmen. Bei zylindrischer Form des
+zu kennzeichnenden Objekts muss das Symbol nach Absatz 1 mindestens
+1,5 Prozent der Oberfläche des Objekts, höchstens jedoch eine Fläche
+von 5 Zentimeter Länge und 5 Zentimeter Breite, einnehmen.
 
 (3) Der Hersteller ist verpflichtet, Batterien, die mehr als 0,0005
 Masseprozent Quecksilber, mehr als 0,002 Masseprozent Cadmium oder
@@ -771,7 +793,13 @@ aufgebracht werden.
 dem erstmaligen Inverkehrbringen mit einer sichtbaren, lesbaren und
 unauslöschlichen Kapazitätsangabe zu versehen. Bei der Bestimmung der
 Kapazität und der Gestaltung der Kapazitätsangabe sind die durch
-Rechtsverordnung nach § 20 Nummer 4 festgelegten Vorgaben zu beachten.
+Rechtsverordnung nach § 20 Nummer 4 und nach der Verordnung (EU) Nr.
+1103/2010 der Kommission vom 29. November 2010 zur Festlegung – gemäß
+der Richtlinie 2006/66/EG des Europäischen Parlaments und des Rates –
+von Vorschriften für die Angabe der Kapazität auf sekundären
+(wiederaufladbaren) Gerätebatterien und -akkumulatoren sowie auf
+Fahrzeugbatterien und -akkumulatoren (ABl. L 313 vom 30.11.2010, S. 3)
+festgelegten Vorgaben zu beachten.
 
 (7) Zusätzliche freiwillige Kennzeichnungen sind zulässig, soweit sie
 nicht im Widerspruch zu einer Kennzeichnung nach Absatz 1, 3 oder 6
@@ -784,7 +812,7 @@ stehen.
 unmittelbaren Sichtbereich des Hauptkundenstroms platzierte Schrift-
 oder Bildtafeln darauf hinzuweisen,
 
-1.  dass Batterien nach Gebrauch an der Verkaufsstelle unentgeltlich
+1.  dass Batterien nach Gebrauch im Handelsgeschäft unentgeltlich
     zurückgegeben werden können,
 
 
@@ -834,9 +862,9 @@ kann auch das Gemeinsame Rücknahmesystem sein.
 
 ### § 20 Ermächtigung zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf,
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf,
 
 1.  die für eine Anzeige nach § 4 Absatz 1 Satz 1 erforderlichen Daten
     über die Identität und eindeutige Identifizierungsmerkmale des
@@ -893,7 +921,10 @@ Grundgesetzes) wird insoweit eingeschränkt.
 2.  entgegen § 3 Absatz 3 Batterien in den Verkehr bringt,
 
 
-3.  entgegen § 3 Absatz 4 Batterien anbietet,
+3.  entgegen § 3 Absatz 4 Satz 1 Batterien anbietet,
+
+
+3a. entgegen § 3 Absatz 4 Satz 2 Batterien anbietet,
 
 
 4.  entgegen § 4 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung
@@ -933,8 +964,8 @@ Grundgesetzes) wird insoweit eingeschränkt.
 11. entgegen § 9 Absatz 4 die dort genannten Kosten getrennt ausweist,
 
 
-12. entgegen § 10 Absatz 1 Satz 1 oder Satz 2 ein Pfand nicht erhebt oder
-    nicht erstattet,
+12. entgegen § 10 Absatz 1 Satz 1, 2 oder Satz 5 ein Pfand nicht erhebt
+    oder nicht erstattet,
 
 
 13. entgegen § 14 Absatz 2 Satz 1 Fahrzeug- oder Industrie-Altbatterien
@@ -952,7 +983,7 @@ Grundgesetzes) wird insoweit eingeschränkt.
 
 
 16. entgegen § 17 Absatz 6 in Verbindung mit einer Rechtsverordnung nach §
-    22 Nummer 4 eine Fahrzeug- oder Gerätebatterie nicht, nicht richtig,
+    20 Nummer 4 eine Fahrzeug- oder Gerätebatterie nicht, nicht richtig,
     nicht vollständig oder nicht rechtzeitig mit einer Kapazitätsangabe
     versieht oder
 
@@ -971,12 +1002,13 @@ werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist in den Fällen des Absatzes 1
-Nummer 2 bis 5, 8 und 14 das Umweltbundesamt.
+Nummer 2, 3a bis 5, 8 und 14 das Umweltbundesamt.
 
 (4) In den Fällen des Absatzes 3 fließen auch die im gerichtlichen
-Verfahren angeordneten Geldbußen und die Geldbeträge, deren Verfall
-gerichtlich angeordnet wurde, der Bundeskasse zu, die auch die der
-Staatskasse auferlegten Kosten trägt.
+Verfahren angeordneten Geldbußen und die Geldbeträge, deren Einziehung
+nach § 29a des Gesetzes über Ordnungswidrigkeiten gerichtlich
+angeordnet wurde, der Bundeskasse zu, die auch die der Staatskasse
+auferlegten Kosten trägt.
 
 
 ### § 23 Übergangsvorschriften
@@ -984,7 +1016,13 @@ Staatskasse auferlegten Kosten trägt.
 (1) § 2 Absatz 15 Satz 2, § 3 Absatz 1 und 2 und § 17 Absatz 1, 3 und
 6 Satz 1 gelten nicht für Batterien, die bereits vor dem 1. Dezember
 2009 in einem Mitgliedstaat der Europäischen Union erstmals in den
-Verkehr gebracht worden sind.
+Verkehr gebracht worden sind. § 3 Absatz 1 Satz 1 gilt nicht für
+Knopfzellen und aus Knopfzellen aufgebaute Batteriesätze mit einem
+Quecksilbergehalt von höchstens 2 Gewichtsprozent, die vor dem 1.
+Oktober 2015 erstmalig in Verkehr gebracht worden sind. § 3 Absatz 2
+Satz 1 gilt nicht für Batterien, die für die Verwendung in schnurlosen
+Elektrowerkzeugen bestimmt sind und die vor dem 1. Januar 2017
+erstmalig in Verkehr gebracht worden sind.
 
 (2) Bei der Pfanderstattung nach § 10 Absatz 1 Satz 2 ist für
 Pfandbeträge, die vor dem 1. Januar 2002 erhoben wurden, der

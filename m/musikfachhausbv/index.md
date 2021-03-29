@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 654
 
+Geändert durch
+:   Art. 1 V v. 29.5.2015 I 893, 1832
+
 [^F771963_01_BJNR065400009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -283,78 +286,59 @@ Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
 
-## § 6 Zwischenprüfung
-
-(1) Zur Ermittlung des Ausbildungsstandes ist eine Zwischenprüfung
-durchzuführen. Sie soll zum Anfang des zweiten Ausbildungsjahres
-stattfinden.
-
-(2) Die Zwischenprüfung erstreckt sich auf die in der Anlage 2 für das
-erste Ausbildungsjahr aufgeführten Fertigkeiten, Kenntnisse und
-Fähigkeiten sowie auf den im Berufsschulunterricht zu vermittelnden
-Lehrstoff, soweit er für die Berufsausbildung wesentlich ist.
-
-(3) Die Zwischenprüfung findet im Prüfungsbereich Verkauf, Marketing
-und Kassieren statt.
-
-(4) Für den Prüfungsbereich Verkauf, Marketing und Kassieren bestehen
-folgende Vorgaben:
-
-1.  Der Prüfling soll nachweisen, dass er
-
-    a)  Produkte verkaufen und bewerben,
-
-
-    b)  kassieren und Berechnungen durchführen sowie
-
-
-    c)  wirtschaftliche und soziale Prozesse berücksichtigen
-
-
-
-    kann;
-
-
-2.  der Prüfling soll berufstypische Aufgaben schriftlich bearbeiten;
-
-
-3.  die Prüfungszeit beträgt 90 Minuten.
-
-
-
-
-
-## § 7 Abschlussprüfung
+## § 6 Abschlussprüfung
 
 (1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
 berufliche Handlungsfähigkeit erworben hat. In der Abschlussprüfung
-soll der Prüfling nachweisen, dass er die dafür erforderlichen
-beruflichen Fertigkeiten beherrscht, die notwendigen beruflichen
-Kenntnisse und Fähigkeiten besitzt und mit dem im
-Berufsschulunterricht zu vermittelnden, für die Berufsausbildung
-wesentlichen Lehrstoff vertraut ist. Die Ausbildungsordnung ist
-zugrunde zu legen.
+soll der Prüfling nachweisen, dass er
 
-(2) Die Abschlussprüfung erstreckt sich auf die in der Anlage 1
-aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+1.  die erforderlichen beruflichen Fertigkeiten beherrscht,
 
-(3) Die Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+2.  die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und
+
+
+3.  mit dem im Berufsschulunterricht zu vermittelnden, für die
+    Berufsausbildung wesentlichen Lehrstoff vertraut ist.
+
+
+
+Die Ausbildungsordnung ist zugrunde zu legen.
+
+(2) Die Abschlussprüfung besteht aus den zeitlich auseinanderfallenden
+Teilen 1 und 2. In Teil 2 der Abschlussprüfung sollen Fertigkeiten,
+Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der
+Abschlussprüfung waren, nur insoweit einbezogen werden, als dies für
+die Feststellung der Berufsbefähigung erforderlich ist.
+
+(3) Bei der Ermittlung des Gesamtergebnisses werden Teil 1 der
+Abschlussprüfung mit 40 Prozent und Teil 2 der Abschlussprüfung mit 60
+Prozent gewichtet.
+
+
+## § 7 Teil 1 der Abschlussprüfung
+
+(1) Teil 1 der Abschlussprüfung soll am Ende des zweiten
+Ausbildungsjahres stattfinden.
+
+(2) Teil 1 der Abschlussprüfung erstreckt sich
+
+1.  auf die in den Anlagen 1 und 2 für die ersten zwei Ausbildungsjahre
+    aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
+
+
+2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
+    für die Berufsausbildung wesentlich ist.
+
+
+
+
+(3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
 1.  Warenwirtschaft und Rechnungswesen,
 
 
-2.  Musikkundlicher Beratungshintergrund,
-
-
-3.  Geschäftsprozesse im Musikhandel,
-
-
-4.  Wirtschafts- und Sozialkunde,
-
-
-5.  Kundenberatung.
+2.  Musikkundlicher Beratungshintergrund.
 
 
 
@@ -424,7 +408,38 @@ bestehen folgende Vorgaben:
 
 
 
-(6) Für den Prüfungsbereich Geschäftsprozesse im Musikhandel bestehen
+
+## § 8 Teil 2 der Abschlussprüfung
+
+(1) Teil 2 der Abschlussprüfung soll am Ende der Berufsausbildung
+stattfinden.
+
+(2) Teil 2 der Abschlussprüfung erstreckt sich
+
+1.  auf die in den Anlagen 1 und 2 aufgeführten Fertigkeiten, Kenntnisse
+    und Fähigkeiten sowie
+
+
+2.  auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
+    für die Berufsausbildung wesentlich ist.
+
+
+
+
+(3) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
+
+1.  Geschäftsprozesse im Musikhandel,
+
+
+2.  Wirtschafts- und Sozialkunde,
+
+
+3.  Kundenberatung.
+
+
+
+
+(4) Für den Prüfungsbereich Geschäftsprozesse im Musikhandel bestehen
 folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
@@ -451,7 +466,7 @@ folgende Vorgaben:
     b)  Marketing,
 
 
-    c)  Warenbeschaffung,
+    c)  Warenbeschaffung sowie
 
 
     d)  Serviceleistungen;
@@ -468,7 +483,7 @@ folgende Vorgaben:
 
 
 
-(7) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
+(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
 folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche
@@ -484,7 +499,7 @@ folgende Vorgaben:
 
 
 
-(8) Für den Prüfungsbereich Kundenberatung bestehen folgende Vorgaben:
+(6) Für den Prüfungsbereich Kundenberatung bestehen folgende Vorgaben:
 
 1.  Der Prüfling soll nachweisen, dass er
 
@@ -519,74 +534,106 @@ folgende Vorgaben:
 
 
 
-(9) Die Prüfungsbereiche sind wie folgt zu gewichten:
 
-*    *   1.
+## § 9 Gewichtung der Prüfungsbereiche, Bestehen der Abschlussprüfung
 
-    *   Warenwirtschaft und Rechnungswesen
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
+gewichten:
 
-    *   10 Prozent,
+1.
+    *        *   Warenwirtschaft und Rechnungs-
+            wesen
 
-
-*    *   2.
-
-    *   Musikkundlicher Beratungshintergrund
-
-    *   30 Prozent,
-
-
-*    *   3.
-
-    *   Geschäftsprozesse im Musikhandel
-
-    *   20 Prozent,
-
-
-*    *   4.
-
-    *   Wirtschafts- und Sozialkunde
-
-    *   10 Prozent,
-
-
-*    *   5.
-
-    *   Kundenberatung
-
-    *   30 Prozent.
+        *   mit 10 Prozent,
 
 
 
 
-(10) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis mit mindestens „ausreichend“,
+2.
+    *        *   Musikkundlicher Beratungs-
+            hintergrund
 
-
-2.  im Prüfungsbereich Kundenberatung mit mindestens „ausreichend“,
-
-
-3.  in mindestens drei der übrigen Prüfungsbereiche mit mindestens
-    „ausreichend“ und
-
-
-4.  in keinem Prüfungsbereich mit „ungenügend“
+        *   mit 30 Prozent,
 
 
 
-bewertet worden sind.
-
-(11) Auf Antrag des Prüflings ist die Prüfung in einem der mit
-schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
-Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
-zu erbringen sind, durch eine mündliche Prüfung von etwa 15 Minuten zu
-ergänzen, wenn dies für das Bestehen der Prüfung den Ausschlag geben
-kann. Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich
-sind das bisherige Ergebnis und das Ergebnis der mündlichen
-Ergänzungsprüfung im Verhältnis von 2 : 1 zu gewichten.
 
 
-## § 8 Zusatzqualifikationen
+3.
+    *        *   Geschäftsprozesse im
+            Musikhandel
+
+        *   mit 20 Prozent,
+
+
+
+
+
+4.
+    *        *   Wirtschafts- und Sozialkunde
+
+        *   mit 10 Prozent,
+
+
+
+
+
+5.
+    *        *   Kundenberatung
+
+        *   mit 30 Prozent.
+
+
+
+
+
+
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
+wie folgt bewertet worden sind:
+
+1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
+    mindestens „ausreichend“,
+
+
+2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
+    „ausreichend“,
+
+
+3.  im Prüfungsbereich Kundenberatung mit mindestens „ausreichend“,
+
+
+4.  in mindestens einem der übrigen Prüfungsbereiche von Teil 2 der
+    Abschlussprüfung mit mindestens „ausreichend“ und
+
+
+5.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
+    „ungenügend“.
+
+
+
+
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der
+Prüfungsbereiche „Geschäftsprozesse im Musikhandel“ oder „Wirtschafts-
+und Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
+ergänzen, wenn
+
+1.  der Prüfungsbereich schlechter als „ausreichend“ bewertet worden ist
+    und
+
+
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
+    den Ausschlag geben kann.
+
+
+
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
+bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
+im Verhältnis 2:1 zu gewichten.
+
+
+## § 10 Zusatzqualifikationen
 
 (1) Im Rahmen der Berufsausbildung nicht gewählte
 Wahlqualifikationseinheiten nach § 4 Absatz 2 Abschnitt B können als
@@ -596,33 +643,22 @@ Zusatzqualifikationen vermittelt werden.
 Anlage 1 Abschnitt B enthaltene sachliche Gliederung entsprechend.
 
 
-## § 9 Prüfung der Zusatzqualifikationen
+## § 11 Prüfung der Zusatzqualifikationen
 
 (1) Zusatzqualifikationen werden im Rahmen der Abschlussprüfung
 gesondert geprüft, wenn die Auszubildenden glaubhaft machen, dass die
 dafür erforderlichen Fertigkeiten, Kenntnisse und Fähigkeiten
 vermittelt worden sind.
 
-(2) Für die Prüfung der jeweiligen Zusatzqualifikation gilt § 7 Absatz
-8 entsprechend.
+(2) Für die Prüfung der jeweiligen Zusatzqualifikation gilt § 8 Absatz
+6 entsprechend.
 
 (3) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
 der Prüfling mindestens ausreichende Leistungen erbracht hat.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## § 10 Nichtanwendung von Vorschriften
-
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für den Ausbildungsberuf
-Musikalienhändler/Musikalienhändlerin sind nicht mehr anzuwenden.
-
-
-## § 11 Inkrafttreten
-
-Diese Verordnung tritt am 1. August 2009 in Kraft.
-
-
-## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
 (Fundstelle: BGBl. I 2009, 658 - 665)
 ## – Sachliche Gliederung –
@@ -1870,8 +1906,9 @@ Abschnitt C: Integrative Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
 
+(zu § 4 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Musikfachhändler/zur Musikfachhändlerin
 
 (Fundstelle: BGBl. I 2009, 666 - 667)
 ## – Zeitliche Gliederung –

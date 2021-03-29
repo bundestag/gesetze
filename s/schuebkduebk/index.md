@@ -5,7 +5,7 @@ Title: Übereinkommen zur Durchführung des Übereinkommens von Schengen vom 14.
   Kontrollen an den gemeinsamen Grenzen
 jurabk: SchÜbkDÜbk
 layout: default
-origslug: sch_bkd_bk
+origslug: schuebkduebk
 slug: schuebkduebk
 
 ---

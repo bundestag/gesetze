@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1627
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 19 G v. 12.4.2012 I 579
+:   Art. 11 Abs. 42 G v. 18.7.2017 I 2745
 
 
 ## Eingangsformel
@@ -57,11 +57,11 @@ Sozialversicherung, die Körperschaften des öffentlichen Rechts sind.
 Sie gilt ferner nach § 281 Abs. 2 des Fünften Buches Sozialgesetzbuch
 entsprechend für die Medizinischen Dienste der Krankenversicherung.
 
-(2) Für Unfallversicherungsträger nach § 114 Abs. 1 Nr. 6, 7 und 9 des
-Siebten Buches Sozialgesetzbuch, deren Rechnungsführung auf die einer
-Gebietskörperschaft abgestellt ist, und für Feuerwehr-Unfallkassen
-kann die Aufsichtsbehörde Ausnahmen von den Vorschriften der §§ 2 bis
-17, 19 und 20 zulassen.
+(2) Für Unfallversicherungsträger nach § 114 Abs. 1 Nummer 4, 5 und 7
+des Siebten Buches Sozialgesetzbuch, deren Rechnungsführung auf die
+einer Gebietskörperschaft abgestellt ist, und für Feuerwehr-
+Unfallkassen kann die Aufsichtsbehörde Ausnahmen von den Vorschriften
+der §§ 2 bis 17, 19 und 20 zulassen.
 
 
 ## Zweiter Abschnitt - Zahlungsverkehr
@@ -191,7 +191,10 @@ Zahlungsanordnung) erteilt werden.
 
 (3) Die Zahlungsanordnung ist von dem zur Anordnung Befugten zu
 unterschreiben oder mit einer qualifizierten elektronischen Signatur
-nach dem Signaturgesetz zu versehen.
+zu versehen. Die qualifizierte elektronische Signatur kann durch
+gleichwertige sichere elektronische Verfahren ersetzt werden. Die
+Gleichwertigkeit des elektronischen Verfahrens ist vom Bundesamt für
+Sicherheit in der Informationstechnik festzustellen.
 
 (4) In der Zahlungsanordnung dürfen die Höhe des Betrages, der
 anzunehmen oder auszuzahlen ist, und die Bezeichnung des Einzahlers
@@ -275,14 +278,21 @@ technischen Anlagen sowie von Gegenständen der beweglichen Einrichtung
 sind, wenn sie zu einer erheblichen Werterhöhung führen, nach Maßgabe
 allgemeiner Verwaltungsvorschriften zu aktivieren.
 
-(3) Gebäude, technische Anlagen sowie Gegenstände der beweglichen
-Einrichtung sind nach Maßgabe allgemeiner Verwaltungsvorschriften
-jährlich linear abzuschreiben.
+(2a) Selbsterstellte und selbst genutzte Software kann nach Maßgabe
+allgemeiner Verwaltungsvorschriften mit den Herstellungskosten
+aktiviert werden.
 
-(4) Wird der Wert von Grundstücken, Gebäuden, technischen Anlagen
-sowie von Gegenständen der beweglichen Einrichtung dauerhaft erheblich
-gemindert, so ist eine außerplanmäßige Abschreibung nach Maßgabe
-allgemeiner Verwaltungsvorschriften vorzunehmen.
+(3) Gebäude, technische Anlagen, Herstellungskosten für selbst
+erstellte und selbst genutzte Software sowie Gegenstände der
+beweglichen Einrichtung sind nach Maßgabe allgemeiner
+Verwaltungsvorschriften jährlich linear abzuschreiben.
+
+(4) Wird der Wert von Grundstücken, Gebäuden, technischen Anlagen,
+aktivierten Herstellungskosten für selbst erstellte und selbst
+genutzte Software sowie von Gegenständen der beweglichen Einrichtung
+dauerhaft erheblich gemindert, so ist eine außerplanmäßige
+Abschreibung nach Maßgabe allgemeiner Verwaltungsvorschriften
+vorzunehmen.
 
 (5) Technische Anlagen im Sinne der Absätze 1 bis 4 sind alle im
 Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen

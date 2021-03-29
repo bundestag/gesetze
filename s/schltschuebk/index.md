@@ -2,7 +2,7 @@
 Title: Europäisches Übereinkommen über den Schutz von Schlachttieren
 jurabk: SchlTSchÜbk
 layout: default
-origslug: schltsch_bk
+origslug: schltschuebk
 slug: schltschuebk
 
 ---

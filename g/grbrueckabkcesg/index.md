@@ -4,7 +4,7 @@ Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deuts
   Staatsgrenze im Zuge der Europastraße E 49
 jurabk: GrBrückAbkCESG
 layout: default
-origslug: grbr_ckabkcesg
+origslug: grbrueckabkcesg
 slug: grbrueckabkcesg
 
 ---

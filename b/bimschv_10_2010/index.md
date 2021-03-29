@@ -15,21 +15,22 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1849
 
-[^F1_774781_BJNR184900010]:     Diese Verordnung dient der Umsetzung der:
-    –                                                         Richtlinie
-    98/70/EG des Europäischen Parlaments und des Rates vom 13. Oktober
-    1998 über die Qualität von Otto- und Dieselkraftstoffen und zur
-    Änderung der Richtlinie 93/12/EWG des Rates (ABl. L 350 vom
-    28\.12.1998, S. 58), die zuletzt durch die Richtlinie 2009/30/EG (ABl.
-    L 140 vom 5.6.2009, S. 88) geändert worden ist,
+Geändert durch
+:   Art. 1 V v. 1.12.2014 I 1890
+
+[^F1_774781_BJNR184900010]:     Diese Verordnung dient der Umsetzung der:–Richtlinie 98/70/EG des
+    Europäischen Parlaments und des Rates vom 13. Oktober 1998 über die
+    Qualität von Otto- und Dieselkraftstoffen und zur Änderung der
+    Richtlinie 93/12/EWG des Rates (ABl. L 350 vom 28.12.1998, S. 58), die
+    zuletzt durch die Richtlinie 2009/30/EG (ABl. L 140 vom 5.6.2009, S.
+    88) geändert worden ist,
 
 
-    –                                                         Richtlinie
-    1999/32/EG des Rates vom 26. April 1999 über eine Verringerung des
-    Schwefelgehalts bestimmter flüssiger Kraft- oder Brennstoffe und zur
-    Änderung der Richtlinie 93/12/EWG (ABl. L 121 vom 11.5.1999, S. 13),
-    die zuletzt durch die Richtlinie 2009/30/EG (ABl. L 140 vom 5.6.2009,
-    S. 88) geändert worden ist.
+    –Richtlinie 1999/32/EG des Rates vom 26. April 1999 über eine
+    Verringerung des Schwefelgehalts bestimmter flüssiger Kraft- oder
+    Brennstoffe und zur Änderung der Richtlinie 93/12/EWG (ABl. L 121 vom
+    11\.5.1999, S. 13), die zuletzt durch die Richtlinie 2009/30/EG (ABl. L
+    140 vom 5.6.2009, S. 88) geändert worden ist.
 
 
 
@@ -84,67 +85,100 @@ Es verordnen
 (1) Für diese Verordnung gelten die in den Absätzen 2 bis 15
 geregelten Begriffsbestimmungen.
 
-(2) „Ottokraftstoff“ ist jedes flüchtige Mineralölerzeugnis, das zum
-Betrieb von Fahrzeugverbrennungsmotoren mit Fremdzündung bestimmt ist
-und unter die Unterpositionen 2710 11 41, 2710 11 45, 2710 11 49, 2710
-11 51 oder 2710 11 59 der Kombinierten Nomenklatur fällt.
+(2) „Ottokraftstoff“ ist jedes flüchtige Mineralölerzeugnis,
+einschließlich der Zubereitungen mit einem Gehalt an Mineralöl von
+mindestens 70 Gewichtshundertteilen, in denen diese Öle
+Grundbestandteil sind, das
 
-(3) „Dieselkraftstoffe“ sind Gasölerzeugnisse, die unter die
-Unterposition 2710 19 41 der Kombinierten Nomenklatur fallen und zum
-Antrieb von Fahrzeugen im Sinne der folgenden Richtlinien verwendet
-werden:
-
-1.  Richtlinie 70/220/EWG des Rates vom 20. März 1970 zur Angleichung der
-    Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die
-    Verunreinigung der Luft durch Abgase von Kraftfahrzeugmotoren mit
-    Fremdzündung (ABl. L 76 vom 6.4.1970, S. 1), die zuletzt durch die
-    Richtlinie 2006/96/EG (ABl. L 363 vom 20.12.2006, S. 81) geändert
-    worden ist, sowie
+1.  unter die Unterpositionen 2710 12 41, 2710 12 45, 2710 12 49, 2710 12
+    51 oder 2710 12 59 der Kombinierten Nomenklatur fällt und
 
 
-2.  Richtlinie 88/77/EWG des Rates vom 3. Dezember 1987 zur Angleichung
-    der Rechtsvorschriften der Mitgliedstaaten über Maßnahmen gegen die
-    Emission gasförmiger Schadstoffe und luftverunreinigender Partikel aus
-    Selbstzündungsmotoren zum Antrieb von Fahrzeugen und die Emission
-    gasförmiger Schadstoffe aus mit Erdgas oder Flüssiggas betriebenen
-    Fremdzündungsmotoren zum Antrieb von Fahrzeugen (ABl. L 36 vom
-    9\.2.1988, S. 33), die zuletzt durch die Richtlinie 2001/27/EG (ABl. L
-    107 vom 18.4.2001, S. 10) geändert worden ist.
+2.  zum Betrieb von Fahrzeugverbrennungsmotoren mit Fremdzündung bestimmt
+    ist.
 
 
 
 
-(4) „Dieselkraftstoffe, die zur Verwendung für mobile Maschinen und
-Geräte, für land- und forstwirtschaftliche Zugmaschinen sowie für
-Binnenschiffe und Sportboote bestimmt sind“, sind alle aus Erdöl
-gewonnenen flüssigen Kraftstoffe, die unter die Unterpositionen 2710
-19 41 oder 2710 19 45 der Kombinierten Nomenklatur fallen und für den
-Betrieb in Kompressionszündungsmotoren bestimmt sind, welche in den
-folgenden Richtlinien genannt werden:
+(3) „Dieselkraftstoff“ ist jedes Gasölerzeugnis, einschließlich der
+Zubereitungen mit einem Gehalt an Mineralöl von mindestens 70
+Gewichtshundertteilen, in denen diese Öle Grundbestandteil sind, das
 
-1.  Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16.
-    Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der
-    Mitgliedstaaten über Sportboote (ABl. L 164 vom 30.6.1994, S. 15), die
-    zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L 311 vom
-    21\.11.2008, S. 1) geändert worden ist,
+1.  unter die Unterpositionen 2710 20 11, 2710 20 15, 2710 20 17 (bis zu
+    einem Schwefelgehalt von 0,05 Gewichtshundertteilen), 2710 19 43, 2710
+    19 46 oder 2710 19 47 (bis zu einem Schwefelgehalt von 0,05
+    Gewichtshundertteilen) der Kombinierten Nomenklatur fällt und
 
 
-2.  Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16.
-    Dezember 1997 zur Angleichung der Rechtsvorschriften der
-    Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
-    gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
-    Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. L 59 vom
-    27\.2.1998, S. 1), die zuletzt durch die Richtlinie 2010/26/EU (ABl. L
-    86 vom 1.4.2010, S. 29) geändert worden ist, oder
+2.  verwendet wird zum Antrieb von Fahrzeugen im Sinne der Verordnungen
+
+    a)  Verordnung (EG) Nr. 715/2007 des Europäischen Parlaments und des Rates
+        vom 20. Juni 2007 über die Typgenehmigung von Kraftfahrzeugen
+        hinsichtlich der Emissionen von leichten Personenkraftwagen und
+        Nutzfahrzeugen (Euro 5 und Euro 6) und über den Zugang zu Reparatur-
+        und Wartungsinformationen für Fahrzeuge (ABl. L 171 vom 29.6.2007, S.
+        1), die zuletzt durch die Verordnung (EU) Nr. 459/2012 (ABl. L 142 vom
+        1\.6.2012, S. 16) geändert worden ist, sowie
 
 
-3.  Richtlinie 2000/25/EG des Europäischen Parlaments und des Rates vom
-    22\. Mai 2000 über Maßnahmen zur Bekämpfung der Emission gasförmiger
-    Schadstoffe und luftverunreinigender Partikel aus Motoren, die für den
-    Antrieb von land- und forstwirtschaftlichen Zugmaschinen bestimmt
-    sind, und zur Änderung der Richtlinie 74/150/EWG des Rates (ABl. L 173
-    vom 12.7.2000, S. 1), die zuletzt durch die Richtlinie 2010/22/EU
-    (ABl. L 91 vom 10.4.2010, S. 1) geändert worden ist.
+    b)  Verordnung (EG) Nr. 595/2009 des Europäischen Parlaments und des Rates
+        vom 18. Juni 2009 über die Typgenehmigung von Kraftfahrzeugen und
+        Motoren hinsichtlich der Emissionen von schweren Nutzfahrzeugen (Euro
+        VI) und über den Zugang zu Fahrzeugreparatur- und
+        -wartungsinformationen, zur Änderung der Verordnung (EG) Nr. 715/2007
+        und der Richtlinie 2007/46/EG sowie zur Aufhebung der Richtlinien
+        80/1269/EWG, 2005/55/EG und 2005/78/EG (ABl. L 188 vom 18.7.2009, S.
+        1, L 200 vom 31.7.2009, S. 52), die zuletzt durch die Verordnung (EU)
+        Nr. 133/2014 (ABl. L 47 vom 18.2.2014, S. 1) geändert worden ist.
+
+
+
+
+
+
+
+(4) Dieselkraftstoff zur Verwendung für mobile Maschinen und Geräte,
+für land- und forstwirtschaftliche Zugmaschinen sowie für
+Binnenschiffe und Sportboote, ist jeder aus Erdöl gewonnene flüssige
+Kraftstoff, einschließlich der Zubereitungen mit einem Gehalt an
+Mineralöl von mindestens 70 Gewichtshundertteilen, in denen diese Öle
+der Grundbestandteil sind, der
+
+1.  unter die Unterpositionen 2710 20 11, 2710 20 15, 2710 20 17 (bis zu
+    einem Schwefelgehalt von 0,05 Gewichtshundertteilen), 2710 19 43, 2710
+    19 46 oder 2710 19 47 (bis zu einem Schwefelgehalt von 0,05
+    Gewichtshundertteilen) der Kombinierten Nomenklatur fällt und
+
+
+2.  für den Betrieb in von Kompressionszündungsmotoren bestimmt ist, die
+    in den folgenden Richtlinien genannt werden:
+
+    a)  Richtlinie 94/25/EG des Europäischen Parlaments und des Rates vom 16.
+        Juni 1994 zur Angleichung der Rechts- und Verwaltungsvorschriften der
+        Mitgliedstaaten über Sportboote (ABl. L 164 vom 30.6.1994, S. 15), die
+        zuletzt durch die Verordnung (EU) Nr. 1025/2012 (ABl. L 316 vom
+        14\.11.2012, S. 12) geändert worden ist,
+
+
+    b)  Richtlinie 97/68/EG des Europäischen Parlaments und des Rates vom 16.
+        Dezember 1997 zur Angleichung der Rechtsvorschriften der
+        Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
+        gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
+        Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. L 59 vom
+        27\.2.1998, S. 1), die zuletzt durch die Richtlinie 2012/46/EU (ABl. L
+        353 vom 21.12.2012, S. 80) geändert worden ist, oder
+
+
+    c)  Richtlinie 2000/25/EG des Europäischen Parlaments und des Rates vom
+        22\. Mai 2000 über Maßnahmen zur Bekämpfung der Emission gasförmiger
+        Schadstoffe und luftverunreinigender Partikel aus Motoren, die für den
+        Antrieb von land- und forstwirtschaftlichen Zugmaschinen bestimmt
+        sind, und zur Änderung der Richtlinie 74/150/EWG des Rates (ABl. L 173
+        vom 12.7.2000, S. 1), die zuletzt durch die Richtlinie 2013/15/EU
+        (ABl. L 158 vom 10.6.2013, S. 172) geändert worden ist.
+
+
+
 
 
 
@@ -152,23 +186,24 @@ folgenden Richtlinien genannt werden:
 (5) „Schiffskraftstoff“ ist jeder aus Erdöl gewonnene flüssige Kraft-
 oder Brennstoff, der zur Verwendung auf einem Schiff bestimmt ist oder
 auf einem Schiff verwendet wird, einschließlich Kraft-oder
-Brennstoffen im Sinne der Definition nach DIN ISO 8217, Ausgabe August
-2009\.
+Brennstoffen im Sinne der Definition nach DIN ISO 8217, Ausgabe
+Dezember 2013.
 
-(6) „Gasöl für den Seeverkehr“ ist jeder Schiffskraftstoff, dessen
-Viskosität und Dichte im Rahmen der Werte für Viskosität und Dichte
-der Güteklassen DMX und DMA nach Tabelle 1 der DIN ISO 8217, Ausgabe
-August 2009, liegen.
+(6) „Gasöl für den Seeverkehr“ ist jeder Schiffskraftstoff gemäß der
+Definition der Güteklassen DMX, DMA und DMZ nach Tabelle 1 der DIN ISO
+8217, Ausgabe Dezember 2013, ohne Berücksichtigung des
+Schwefelgehalts.
 
-(7) „Schiffsdiesel“ ist jeder Schiffskraftstoff, dessen Viskosität und
-Dichte im Rahmen der Werte für Viskosität und Dichte der Güteklassen
-DMB und DMC nach Tabelle 1 der DIN ISO 8217, Ausgabe August 2009,
-liegen.
+(7) „Schiffsdiesel“ ist jeder Schiffskraftstoff gemäß der Definition
+der Güteklasse DMB nach Tabelle 1 der DIN ISO 8217, Ausgabe Dezember
+2013, ohne Berücksichtigung des Schwefelgehalts.
 
 (8) „Sonstige Schiffskraftstoffe“ sind die nicht in den Absätzen 6 und
 7 genannten Schiffskraftstoffe.
 
-(9) „Leichtes Heizöl“ ist jedes Erdölerzeugnis mit Ausnahme der in den
+(9) „Leichtes Heizöl“ ist jedes Erdölerzeugnis, einschließlich der
+Zubereitungen, die Komponenten aus Synthese oder Hydrotreatment oder
+Komponenten biogener Herkunft enthalten, mit Ausnahme der in den
 Absätzen 3 bis 8 genannten Kraft- und Brennstoffe, das nach dem
 Prüfverfahren der DIN EN ISO 3405, Ausgabe August 2001, bei 350 Grad
 Celsius mindestens 85 oder bei 360 Grad Celsius mindestens 95
@@ -176,9 +211,9 @@ Raumhundertteile Destillat ergibt.
 
 (10) „Schweres Heizöl“ ist jeder aus Erdöl gewonnene flüssige Kraft-
 oder Brennstoff mit Ausnahme der in den Absätzen 3 bis 9 genannten
-Kraft- und Brennstoffe, der nach dem Prüfverfahren der
-DIN EN ISO 3405,              Ausgabe August 2001, bei 250 Grad
-Celsius weniger als 65 Raumhundertteile Destillat ergibt.
+Kraft- und Brennstoffe, der nach dem Prüfverfahren der DIN EN ISO
+3405, Ausgabe August 2001, bei 250 Grad Celsius weniger als 65
+Raumhundertteile Destillat ergibt.
 
 (11) „Einführer“ ist, wer Kraft- oder Brennstoffe gewerbsmäßig oder im
 Rahmen wirtschaftlicher Unternehmungen einführt.
@@ -199,8 +234,8 @@ der Verordnung (EWG) Nr. 2658/87 des Rates vom 23. Juli 1987 über die
 zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen
 Zolltarif (ABl. L 256 vom 7.9.1987, S. 1, L 341 vom 3.12.1987, S. 38,
 L 378 vom 31.12.1987, S. 120, L 130 vom 26.5.1988, S. 42), die zuletzt
-durch die Verordnung (EG) Nr. 1031/2008 (ABl. L 291 vom 31.10.2008, S.
-1) geändert worden ist, in der am 1. Januar 2002 geltenden Fassung.
+durch die Verordnung (EU) Nr. 1001/2013 (ABl. L 290 vom 31.10.2013, S.
+1) geändert worden ist, in der am 1. Januar 2014 geltenden Fassung.
 
 
 ## § 2 Chlor- und Bromverbindungen
@@ -223,15 +258,13 @@ Zweck der Forschung, Entwicklung oder Analyse.
 (1) Ottokraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn er den Anforderungen der DIN EN 228,
-Ausgabe November 2008, oder der E DIN 51626-1, Ausgabe November 2010,
-genügt.
+Ausgabe Oktober 2014, genügt.
 
-(2) Wer Ottokraftstoffe nach Absatz 1 der Qualität „Normal“ oder
-„Super“ mit mehr als 5 Volumenprozent Ethanol anbietet, ist
-verpflichtet, an derselben Abgabestelle auch Ottokraftstoffe nach
-Absatz 1 der Qualität „Super“ mit einem maximalen Sauerstoffgehalt von
-2,7 Massenprozent und einem maximalen Ethanolgehalt von 5
-Volumenprozent anzubieten.
+(2) Wer Ottokraftstoffe nach Absatz 1 der Qualität „Super“ mit mehr
+als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an derselben
+Abgabestelle auch Ottokraftstoffe nach Absatz 1 der Qualität „Super“
+mit einem maximalen Sauerstoffgehalt von 2,7 Massenprozent und einem
+maximalen Ethanolgehalt von 5 Volumenprozent anzubieten.
 
 (3) Wer Ottokraftstoffe nach Absatz 1 der Qualität „Super Plus“ mit
 mehr als 5 Volumenprozent Ethanol anbietet, ist verpflichtet, an
@@ -253,31 +286,29 @@ zuständigen Behörde auf Verlangen nachzuweisen.
 (1) Dieselkraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn er den Anforderungen der DIN EN 590,
-Ausgabe Mai 2010, genügt.
+Ausgabe April 2014, genügt.
 
 (2) Dieselkraftstoff zur Verwendung für mobile Maschinen und Geräte,
 für land- und forstwirtschaftliche Zugmaschinen sowie für
 Binnenschiffe und Sportboote darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn sein Gehalt an Schwefelverbindungen,
-berechnet als Schwefel, 1 000 Milligramm pro Kilogramm
-Dieselkraftstoff nicht überschreitet. Ab dem 1. Januar 2011 beträgt
-der zulässige Schwefelgehalt höchstens 10 Milligramm pro Kilogramm
-Dieselkraftstoff. Für Binnenschiffe und Sportboote dürfen andere
+berechnet als Schwefel, 10 Milligramm pro Kilogramm Dieselkraftstoff
+nicht überschreitet. Für Binnenschiffe und Sportboote dürfen andere
 flüssige Kraftstoffe nicht verwendet werden, es sei denn ihr
-Schwefelgehalt überschreitet den für Dieselkraftstoff nach den Sätzen
-1 und 2 zulässigen Schwefelgehalt nicht.
+Schwefelgehalt überschreitet den für Dieselkraftstoff nach Satz 1
+zulässigen Schwefelgehalt nicht.
 
 (3) Gasöl für den Seeverkehr darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn sein Gehalt an Schwefelverbindungen,
-berechnet als Schwefel, 1 Gramm pro Kilogramm Gasöl für den Seeverkehr
-nicht überschreitet.
+berechnet als Schwefel, 1,0 Gramm pro Kilogramm Gasöl für den
+Seeverkehr nicht überschreitet.
 
 (4) Schiffsdiesel darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn sein Gehalt an Schwefelverbindungen,
-berechnet als Schwefel, 15 Gramm pro Kilogramm Schiffsdiesel nicht
+berechnet als Schwefel, 15,0 Gramm pro Kilogramm Schiffsdiesel nicht
 überschreitet.
 
 
@@ -285,9 +316,8 @@ berechnet als Schwefel, 15 Gramm pro Kilogramm Schiffsdiesel nicht
 
 Biodiesel darf nur dann gewerbsmäßig oder im Rahmen wirtschaftlicher
 Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht
-werden, wenn er den Anforderungen der DIN EN 14214, Ausgabe April
-2010, genügt. Das gilt auch für Biodiesel als Zusatz zum
-Dieselkraftstoff.
+werden, wenn er den Anforderungen der DIN EN 14214, Ausgabe Juni 2014,
+genügt. Das gilt auch für Biodiesel als Zusatz zum Dieselkraftstoff.
 
 
 ## § 6 Anforderungen an Ethanolkraftstoff (E85)
@@ -303,7 +333,7 @@ Anforderungen der DIN 51625, Ausgabe August 2008, genügt.
 Flüssiggaskraftstoff darf nur dann gewerbsmäßig oder im Rahmen
 wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
 Verkehr gebracht werden, wenn er den Anforderungen der DIN EN 589,
-Ausgabe November 2008, genügt.
+Ausgabe Juni 2012, genügt.
 
 
 ## § 8 Anforderungen an Erdgas und Biogas als Kraftstoffe
@@ -320,12 +350,17 @@ werden, wenn das fertige Produkt den Anforderungen der DIN 51624,
 Ausgabe Februar 2008, genügt.
 
 
-## § 9 Anforderungen an Pflanzenölkraftstoff
+## § 9 Anforderung an Pflanzenölkraftstoffe
 
-Pflanzenölkraftstoff darf nur dann gewerbsmäßig oder im Rahmen
-wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher in den
-Verkehr gebracht werden, wenn er den Anforderungen der DIN V 51605,
-Ausgabe Juli 2006, genügt.
+(1) Pflanzenölkraftstoff – Rapsöl – darf nur dann gewerbsmäßig oder im
+Rahmen wirtschaftlicher Unternehmungen gegenüber dem Letztverbraucher
+in den Verkehr gebracht werden, wenn er den Anforderungen der DIN
+51605, Ausgabe September 2010, genügt.
+
+(2) Pflanzenölkraftstoff – alle Saaten – darf nur dann gewerbsmäßig
+oder im Rahmen wirtschaftlicher Unternehmungen gegenüber dem
+Letztverbraucher in den Verkehr gebracht werden, wenn er den
+Anforderungen der DIN SPEC 51623, Ausgabe Juni 2012, genügt.
 
 
 ## § 10 Schwefelgehalt von Heizöl
@@ -346,7 +381,7 @@ Unternehmungen gegenüber dem Letztverbraucher in den Verkehr gebracht
 werden, soweit dieses Heizöl:
 
 1.  in Übereinstimmung mit den Anforderungen der Verordnung über
-    Großfeuerungs- und Gasturbinenanlagen oder
+    Großfeuerungs-, Gasturbinen- und Verbrennungsmotoranlagen oder
 
 
 2.  in Übereinstimmung mit den Anforderungen zur Vorsorge gegen schädliche
@@ -372,31 +407,31 @@ des Abkommens über den Europäischen Wirtschaftsraum oder in der Türkei
 oder einem anderen Mitglied der Welthandelsorganisation in Kraft sind,
 sofern
 
-1.  diese Normen oder technischen Spezifikationen mit den folgenden Normen
-    übereinstimmen:
+1.  diese Normen oder technischen Spezifikationen mit einer der folgenden
+    Normen übereinstimmen:
 
-    a)  DIN EN 228, Ausgabe November 2008,
-
-
-    b)  E DIN 51626-1, Ausgabe November 2010,
+    a)  DIN EN 228, Ausgabe Oktober 2014,
 
 
-    c)  DIN EN 590, Ausgabe Mai 2010,
+    b)  DIN EN 590, Ausgabe April 2014,
 
 
-    d)  DIN EN 14214, Ausgabe April 2010,
+    c)  DIN EN 14214, Ausgabe Juni 2014,
 
 
-    e)  DIN 51625, Ausgabe August 2008,
+    d)  DIN 51625, Ausgabe August 2008,
 
 
-    f)  DIN EN 589, Ausgabe November 2008,
+    e)  DIN EN 589, Ausgabe Juni 2012,
 
 
-    g)  DIN 51624, Ausgabe Februar 2008 oder
+    f)  DIN 51624, Ausgabe Februar 2008,
 
 
-    h)  DIN V 51605, Ausgabe Juli 2006 und
+    g)  DIN 51605, Ausgabe September 2010, oder
+
+
+    h)  DIN SPEC 51623, Ausgabe Juni 2012, und
 
 
 
@@ -434,42 +469,37 @@ Weise deutlich sichtbar zu machen:
 
 1.  Schwefelfreier Ottokraftstoff mit einem maximalen Sauerstoffgehalt von
     2,7 Massenprozent und einem maximalen Ethanolgehalt von 5
-    Volumenprozent, der den Anforderungen der DIN EN 228, Ausgabe November
-    2008, oder der E DIN 51626-1, Ausgabe November 2010, genügt oder
-    gleichwertig nach § 11 ist, wird mit der Bezeichnung „Super
-    schwefelfrei“, „Super Plus schwefelfrei“ oder „Normal schwefelfrei“
-    und dem jeweils zutreffenden Zeichen nach Anlage 1a, 1b oder 1c
-    gekennzeichnet; statt der Bezeichnung „Normal schwefelfrei“ kann auch
-    „Benzin schwefelfrei“ verwendet werden; an den Zapfsäulen ist
-    zusätzlich der Hinweis „Enthält bis zu 5 % Bioethanol“ deutlich
-    sichtbar anzubringen.
+    Volumenprozent, der den Anforderungen der DIN EN 228, Ausgabe Oktober
+    2014, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung
+    „Super schwefelfrei“ oder „Super Plus schwefelfrei“ und dem jeweils
+    zutreffenden Zeichen nach Anlage 1a oder 1b gekennzeichnet; an den
+    Zapfsäulen ist zusätzlich der Hinweis „Enthält bis zu 5 % Bioethanol“
+    deutlich sichtbar anzubringen.
 
 
-2.  Schwefelfreier Ottokraftstoff, der den Anforderungen der E DIN
-    51626-1, Ausgabe November 2010, genügt oder gleichwertig nach § 11 ist
-    und dessen Sauerstoffgehalt 2,7 Massenprozent oder dessen
-    Ethanolgehalt 5 Volumenprozent überschreiten kann, wird mit der
-    Bezeichnung „Super E10 schwefelfrei“, „Super Plus E10 schwefelfrei“
-    oder „Normal E10 schwefelfrei“ und dem jeweils zutreffenden Zeichen
-    nach Anlage 2a, 2b oder 2c gekennzeichnet; statt der Bezeichnung
-    „Normal E10 schwefelfrei“ kann auch „Benzin E10 schwefelfrei“
-    verwendet werden; an den Zapfsäulen sind zusätzlich die Hinweise
-    „Enthält bis zu 10 % Bioethanol“ und „Verträgt Ihr Fahrzeug E10?
-    Herstellerinformation einholen! Im Zweifel Super oder Super Plus
-    tanken!“ deutlich sichtbar anzubringen.
+2.  Schwefelfreier Ottokraftstoff, der den Anforderungen der DIN EN 228,
+    Ausgabe Oktober 2014, genügt oder gleichwertig nach § 11 ist und
+    dessen Sauerstoffgehalt 2,7 Massenprozent oder dessen Ethanolgehalt 5
+    Volumenprozent überschreiten kann, wird mit der Bezeichnung „Super E10
+    schwefelfrei“ oder „Super Plus E10 schwefelfrei“ und dem jeweils
+    zutreffenden Zeichen nach Anlage 2a oder 2b gekennzeichnet; an den
+    Zapfsäulen sind zusätzlich die Hinweise „Enthält bis zu 10 %
+    Bioethanol“ und „Verträgt Ihr Fahrzeug E10? Herstellerinformation
+    einholen! Im Zweifel Super oder Super Plus tanken!“ deutlich sichtbar
+    anzubringen.
 
 
-3.  Dieselkraftstoff, der den Anforderungen der DIN EN 590, Ausgabe Mai
-    2010, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung
+3.  Dieselkraftstoff, der den Anforderungen der DIN EN 590, Ausgabe April
+    2014, genügt oder gleichwertig nach § 11 ist, wird mit der Bezeichnung
     „Dieselkraftstoff schwefelfrei“ und dem Zeichen nach Anlage 3
     gekennzeichnet; an den Zapfsäulen ist zusätzlich der Hinweis „Enthält
     bis zu 7 % Biodiesel“ deutlich sichtbar anzubringen.
 
 
 4.  Fettsäure-Methylester für Dieselmotoren, die den Anforderungen der DIN
-    EN 14214, Ausgabe April 2010, genügen oder gleichwertig nach § 11
-    sind, werden mit der Bezeichnung „Biodiesel“ und dem Zeichen nach
-    Anlage 4 gekennzeichnet.
+    EN 14214, Ausgabe Juni 2014, genügen oder gleichwertig nach § 11 sind,
+    werden mit der Bezeichnung „Biodiesel“ und dem Zeichen nach Anlage 4
+    gekennzeichnet.
 
 
 5.  Ethanol für Kraftfahrzeuge, das den Anforderungen der DIN 51625,
@@ -479,7 +509,7 @@ Weise deutlich sichtbar zu machen:
 
 
 6.  Flüssiggaskraftstoff, der den Anforderungen der DIN EN 589, Ausgabe
-    November 2008, genügt oder gleichwertig nach § 11 ist, wird mit der
+    Juni 2012, genügt oder gleichwertig nach § 11 ist, wird mit der
     Bezeichnung „Flüssiggas“ und dem Zeichen nach Anlage 6 gekennzeichnet.
 
 
@@ -489,10 +519,16 @@ Weise deutlich sichtbar zu machen:
     Zeichen nach Anlage 7a oder 7b gekennzeichnet.
 
 
-8.  Pflanzenölkraftstoff, der den Anforderungen der DIN V 51605, Ausgabe
-    Juli 2006, genügt oder gleichwertig nach § 11 ist, wird mit der
-    Bezeichnung „Pflanzenölkraftstoff“ und dem Zeichen nach Anlage 8
-    gekennzeichnet.
+8.  Pflanzenölkraftstoff, der den Anforderungen der DIN 51605, Ausgabe
+    September 2010, genügt oder gleichwertig nach § 11 ist, wird mit der
+    Bezeichnung „Pflanzenölkraftstoff – Rapsöl –“ und dem Zeichen nach
+    Anlage 8a gekennzeichnet.
+
+
+9.  Pflanzenölkraftstoff, der den Anforderungen der DIN SPEC 51623,
+    Ausgabe Juni 2012, genügt oder gleichwertig nach § 11 ist, wird mit
+    der Bezeichnung „Pflanzenölkraftstoff – alle Saaten –“ und dem Zeichen
+    nach Anlage 8b gekennzeichnet.
 
 
 
@@ -563,7 +599,7 @@ empfohlenen und verwendbaren Kraftstoffqualitäten
 
 (2) Um die Verpflichtungen nach Absatz 1 zu erfüllen, genügt es, dass
 die Bezeichnungen nach § 13 für die Qualität der Kraftstoffe verwendet
-werden. Auf die Zeichen nach den Anlagen 1a bis 8 kann verzichtet
+werden. Auf die Zeichen nach den Anlagen 1a bis 8b kann verzichtet
 werden.
 
 
@@ -595,14 +631,14 @@ nicht mehr vorliegen.
 
 ## § 17 Zugänglichkeit der Normen
 
-DIN-, E DIN-, DIN EN- und DIN V-, ISO-, DIN ISO- und DIN EN ISO-
-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der
-Beuth-Verlag GmbH, Berlin und Köln, erschienen. Das in § 18 Absatz 1
-genannte DVGW-Arbeitsblatt ist bei der Wirtschafts- und
-Verlagsgesellschaft Gas und Wasser mbH, Bonn, erschienen. Die DIN-, E
-DIN-, DIN EN- und DIN V-, ISO-, DIN ISO- und DIN EN ISO-Normen und das
-DVGW-Arbeitsblatt sind beim Deutschen Patent- und Markenamt in München
-archivmäßig gesichert niedergelegt.
+DIN-, DIN EN- und DIN SPEC, ISO-, DIN ISO- und DIN EN ISO-Normen, auf
+die in dieser Verordnung verwiesen wird, sind bei der Beuth-Verlag
+GmbH, Berlin und Köln, erschienen. Das in § 18 Absatz 1 genannte DVGW-
+Arbeitsblatt ist bei der Wirtschafts- und Verlagsgesellschaft Gas und
+Wasser mbH, Bonn, erschienen. Die DIN-, DIN EN- und DIN SPEC, ISO-,
+DIN ISO- und DIN EN ISO-Normen und das DVGW-Arbeitsblatt sind beim
+Deutschen Patent- und Markenamt in München archivmäßig gesichert
+niedergelegt.
 
 
 ## § 18 Überwachung
@@ -610,11 +646,16 @@ archivmäßig gesichert niedergelegt.
 (1) Die zuständigen Behörden überwachen die in den §§ 3 bis 9
 gestellten Anforderungen an Kraftstoffe sowie die in § 13 gestellten
 Anforderungen an die Auszeichnungspflicht dieser Kraftstoffe anhand
-der in den §§ 3 bis 9 genannten DIN-, E DIN-, DIN EN- und DIN V-Normen
+der in den §§ 3 bis 9 genannten DIN-, DIN EN- und DIN SPEC-Normen
 angegebenen Prüfverfahren und nach den in DIN EN 14274, Ausgabe Mai
-2004, DIN 51750 Teil 1, Ausgabe Dezember 1990, und Teil 2, Ausgabe
+2013, DIN 51750 Teil 1, Ausgabe Dezember 1990, und Teil 2, Ausgabe
 Dezember 1990, DIN 51610, Ausgabe Juni 1983 sowie in dem DVGW
 Arbeitsblatt G 264, Ausgabe Mai 2009, vorgeschriebenen Verfahren.
+Abweichend von den Angaben in DIN EN 590, Ausgabe April 2014, und DIN
+EN 14214, Ausgabe Juni 2014, findet für die Bestimmung der
+Gesamtverschmutzung bei der Überprüfung des in Verkehr gebrachten
+Kraftstoffes die Prüfmethode nach DIN EN 12662, Ausgabe Juli 2008,
+weiterhin Anwendung.
 
 (2) Der Auszeichnungspflichtige nach § 13 hat auf Verlangen der
 zuständigen Behörde den nach § 14 Absatz 1 erhaltenen
@@ -630,27 +671,88 @@ Behörde kann dem Auskunftspflichtigen für die Vorlage der Erklärung
 eine Frist setzen.
 
 (3) Die zuständigen Behörden überwachen durch Probenahmen, ob der
-Schwefelgehalt der verwendeten und in den Verkehr gebrachten Kraft-
-und Brennstoffe dem § 4 Absatz 2 bis 4 und des § 10 entspricht. Die
-Probenahmen müssen mit ausreichender Häufigkeit vorgenommen werden, so
-dass die Ergebnisse für den geprüften Kraft- und Brennstoff
-repräsentativ sind. Für die Bestimmung des Schwefelgehalts sind
-folgende Prüfverfahren zu verwenden:
+Schwefelgehalt der verwendeten und der in Verkehr gebrachten Kraft-
+und Brennstoffe den Anforderungen nach § 4 Absatz 2 bis 4 und nach §
+10 entspricht. Die Probenahmen müssen mit ausreichender Häufigkeit und
+ausreichenden Mengen vorgenommen werden, so dass die Ergebnisse für
+den geprüften Kraft- und Brennstoff repräsentativ sind.
 
-1.  schweres Heizöl und Schiffskraftstoff: DIN EN ISO 8754, Ausgabe
-    Dezember 2003, oder DIN EN ISO 14596, Ausgabe Dezember 2007;
+(4) Der Schwefelgehalt in Dieselkraftstoff zur Verwendung für mobile
+Maschinen und Geräte, für land- und forstwirtschaftliche Zugmaschinen
+sowie für Binnenschiffe und Sportboote ist im Rahmen der Überwachung
+nach Absatz 3 durch eines der folgenden Prüfverfahren zu bestimmen:
+
+1.  nach DIN EN ISO 20846, Ausgabe Januar 2012,
 
 
-2.  leichtes Heizöl und Dieselkraftstoff: DIN EN 24260, Ausgabe Mai 1994,
-    DIN EN ISO 8754, Ausgabe Dezember 2003, oder DIN EN ISO 14596, Ausgabe
-    Dezember 2007.
+2.  nach DIN EN ISO 20884, Ausgabe Juli 2011, oder
+
+
+3.  nach DIN EN ISO 13032, Ausgabe Juni 2012.
+
+
+
+Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 20846,
+Ausgabe Januar 2012, oder nach DIN EN ISO 20884, Ausgabe Juli 2011.
+
+(5) Für die Bestimmung des Schwefelgehalts in leichtem Heizöl ist im
+Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren
+zu verwenden:
+
+1.  nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
+
+
+2.  nach DIN EN ISO 14596, Ausgabe Dezember 2007.
+
+
+
+Als Referenzverfahren dient das Prüfverfahren nach ISO 8754, Ausgabe
+Dezember 2003.
+Bei leichtem Heizöl, das zusätzlich nach § 13 Absatz 3 mit dem Begriff
+„schwefelarm“ ausgezeichnet ist, ist eines der folgenden Prüfverfahren
+zu verwenden:
+
+1.  nach DIN EN ISO 20846, Ausgabe Januar 2012, oder
+
+
+2.  nach DIN EN ISO 20884, Ausgabe Juli 2011.
+
+
+
+
+(6) Für die Bestimmung des Schwefelgehalts in schwerem Heizöl ist im
+Rahmen der Überwachung nach Absatz 3 eines der folgenden Prüfverfahren
+zu verwenden:
+
+1.  nach DIN 51400-3, Ausgabe Juni 2001,
+
+
+2.  nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
+
+
+3.  nach DIN EN ISO 14596, Ausgabe Dezember 2007.
 
 
 
 Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 14596,
 Ausgabe Dezember 2007.
 
-(4) Die nach Landesrecht zuständigen obersten Landesbehörden oder die
+(7) Für die Bestimmung des Schwefelgehalts in Gasöl für den
+Seeverkehr, für Schiffsdiesel und für sonstige Schiffskraftstoffe nach
+§ 1 Absatz 8 ist im Rahmen der Überwachung nach Absatz 3 eines der
+folgenden Prüfverfahren zu verwenden:
+
+1.  nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder
+
+
+2.  nach DIN EN ISO 14596, Ausgabe Dezember 2007.
+
+
+
+Als Referenzverfahren dient das Prüfverfahren nach DIN EN ISO 8754,
+Ausgabe Dezember 2003.
+
+(8) Die nach Landesrecht zuständigen obersten Landesbehörden oder die
 von ihnen bestimmten Behörden übermitteln dem Umweltbundesamt bis
 spätestens zum 30. April eine jährliche Übersicht der
 Überwachungsergebnisse nach Absatz 1 und 3 zur Weiterleitung an die
@@ -683,8 +785,8 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen
 
-    a)  § 2 Absatz 1, § 4 Absatz 2 Satz 1 oder Satz 2, Absatz 3 oder Absatz 4
-        oder § 10 Absatz 1 oder Absatz 2 Satz 1 oder
+    a)  § 2 Absatz 1, § 4 Absatz 2 Satz 1, Absatz 3 oder Absatz 4 oder § 10
+        Absatz 1 oder Absatz 2 Satz 1 oder
 
 
     b)  § 3 Absatz 1, § 4 Absatz 1, §§ 5 bis 8 oder § 9, jeweils auch in
@@ -740,7 +842,7 @@ Immissionsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 (2) Ordnungswidrig im Sinne des § 7 Absatz 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
-fahrlässig entgegen § 4 Absatz 2 Satz 3 flüssige Kraftstoffe
+fahrlässig entgegen § 4 Absatz 2 Satz 2 flüssige Kraftstoffe
 verwendet.
 
 
@@ -765,82 +867,41 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage 1a (zu § 13 Absatz 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2010, 1856)
+(Fundstelle: BGBl. I 2014, 1894)
 
-
-*    *        ![bgbl1_2010_j1849-1_0010.jpg](bgbl1_2010_j1849-1_0010.jpg)
-    *        ![bgbl1_2010_j1849-1_0020.jpg](bgbl1_2010_j1849-1_0020.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
-    *   Ø = 85 mm bis 100 mm
-
-
+![bgbl1_2014_j1890-1_0010.jpg](bgbl1_2014_j1890-1_0010.jpg)
+Ø = 85 mm bis 100 mm
 
 
 ## Anlage 1b (zu § 13 Absatz 1 Nummer 1)
 
-(Fundstelle: BGBl. I 2010, 1856)
+(Fundstelle: BGBl. I 2014, 1894)
+
+![bgbl1_2014_j1890-1_0020.jpg](bgbl1_2014_j1890-1_0020.jpg)
+Ø = 85 mm bis 100 mm
 
 
-*    *        ![bgbl1_2010_j1849-1_0030.jpg](bgbl1_2010_j1849-1_0030.jpg)
-    *        ![bgbl1_2010_j1849-1_0040.jpg](bgbl1_2010_j1849-1_0040.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
-    *   Ø = 85 mm bis 100 mm
-
-
-
-
-## Anlage 1c (zu § 13 Absatz 1 Nummer 1)
-
-(Fundstelle: BGBl. I 2010, 1856)
-
-
-*    *        ![bgbl1_2010_j1849-1_0050.jpg](bgbl1_2010_j1849-1_0050.jpg)
-    *        ![bgbl1_2010_j1849-1_0060.jpg](bgbl1_2010_j1849-1_0060.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
-    *   Ø = 85 mm bis 100 mm
-
+## Anlage 1c (weggefallen)
 
 
 
 ## Anlage 2a (zu § 13 Absatz 1 Nummer 2)
 
-(Fundstelle: BGBl. I 2010, 1857)
+(Fundstelle: BGBl. I 2014, 1894)
 
-
-*    *        ![bgbl1_2010_j1849-1_0070.jpg](bgbl1_2010_j1849-1_0070.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
-
+![bgbl1_2014_j1890-1_0030.jpg](bgbl1_2014_j1890-1_0030.jpg)
+Ø = 85 mm bis 100 mm
 
 
 ## Anlage 2b (zu § 13 Absatz 1 Nummer 2)
 
-(Fundstelle: BGBl. I 2010, 1857)
+(Fundstelle: BGBl. I 2014, 1895)
+
+![bgbl1_2014_j1890-1_0040.jpg](bgbl1_2014_j1890-1_0040.jpg)
+Ø = 85 mm bis 100 mm
 
 
-*    *        ![bgbl1_2010_j1849-1_0080.jpg](bgbl1_2010_j1849-1_0080.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
-
-
-
-## Anlage 2c (zu § 13 Absatz 1 Nummer 2)
-
-(Fundstelle: BGBl. I 2010, 1857)
-
-
-*    *        ![bgbl1_2010_j1849-1_0090.jpg](bgbl1_2010_j1849-1_0090.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
-
+## Anlage 2c (weggefallen)
 
 
 
@@ -917,21 +978,23 @@ Der Bundesrat hat zugestimmt.
 
 
 
-## Anlage 8 (zu § 13 Absatz 1 Nummer 8)
+## Anlage 8a (zu § 13 Absatz 1 Nummer 8)
 
-(Fundstelle: BGBl. I 2010, 1860)
+(Fundstelle: BGBl. I 2014, 1895)
 
-
-*    *        ![bgbl1_2010_j1849-1_0160.jpg](bgbl1_2010_j1849-1_0160.jpg)
-
-*    *   Ø = 85 mm bis 100 mm
+![bgbl1_2014_j1890-1_0050.jpg](bgbl1_2014_j1890-1_0050.jpg)
+Ø = 85 mm bis 100 mm
 
 
+## Anlage 8b (zu § 13 Absatz 1 Nummer 9)
+
+![bgbl1_2014_j1890-1_0060.jpg](bgbl1_2014_j1890-1_0060.jpg)
+Ø = 85 mm bis 100 mm
 
 
 ## Anlage 9 (zu § 18 Absatz 2 Satz 4)
 
-(Fundstelle: BGBl. I 2010, 1861)
+(Fundstelle: BGBl. I 2014, 1896)
 
 
 1.  Erklärung des Herstellers oder Vermischers über die Beschaffenheit
@@ -944,7 +1007,8 @@ Der Bundesrat hat zugestimmt.
             gemäß § 1 Absatz 4
 
         *   Gasöl für
-            den Seeverkehr
+            den See-
+            verkehr
             gemäß § 1 Absatz 6
 
         *   Schiffs-
@@ -952,7 +1016,8 @@ Der Bundesrat hat zugestimmt.
             gemäß § 1
             Absatz 7
 
-        *   Sonstige Schiffskraftstoffe
+        *   Sonstige Schiffs-
+            kraftstoffe
             gemäß § 1 Absatz 8
 
         *   Leichtes Heizöl
@@ -993,9 +1058,11 @@ Der Bundesrat hat zugestimmt.
 
     *        *   a)
 
-        *   Dichte bei 15 Grad C nach
-            DIN EN ISO 3675 (1999) und
-            DIN EN ISO 12185 (1997) in kg/cbm:
+        *[^F787661_03_BJNR184900010BJNE003701116]
+   Dichte bei 15 Grad C nach DIN EN ISO 3675
+            , Ausgabe November 1999, oder
+            DIN EN ISO 12185, Ausgabe November 1997, in kg/cbm; bei schwerem
+            Heizöl DIN 51757, Ausgabe Januar 2011, in kg/cbm:
 
         *
         *
@@ -1006,44 +1073,99 @@ Der Bundesrat hat zugestimmt.
 
     *        *   b)
 
-        *   Viskosität bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Dezember 1999:
+        *   Viskosität in mm
+            2/s:
 
-        *
-        *
-        *
-        *
-        *
-        *
+        *   bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Dezember 1999:
+
+        *   bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Dezember 1999:
+
+        *   bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Dezember 1999:
+
+        *   bei 40 Grad C nach DIN EN ISO 3104, Ausgabe Dezember 1999:
+
+        *   bei 20 Grad C nach DIN 51562-1, Ausgabe Januar 1999:
+
+        *   bei 100 und 150 Grad C nach DIN EN ISO 3104, Ausgabe Januar 1999, DIN
+            51366, Ausgabe Dezember 2013, oder DIN 51562-1, Ausgabe Januar 1999:
+
 
     *        *   c)
 
-        *   Siedeverlauf nach DIN EN ISO 3405 Ausgabe August 2001:
-            Bis 250 Grad C aufgefangene
-            Destillatmenge in Vol.-%:
-            Bis 350 Grad C aufgefangene
-            Destillatmenge in Vol.-%:
-            Bis 360 Grad C aufgefangene
-            Destillatmenge in Vol.-%:
+        *   Siedeverlauf; aufgefangene Destillatmenge in Vol.-%:
+
+        *   nach DIN EN ISO 3405, Ausgabe April 2011, oder DIN EN ISO 3924,
+            Ausgabe Juni 2006:
 
         *
         *
         *
+        *   nach DIN EN ISO 3405, Ausgabe April 2011:
+
+        *
+
+    *        *
+        *
+        *   bis 180 Grad C:
+
         *
         *
+        *
+        *   bis 250 Grad C:
+
+        *
+
+    *        *
+        *
+        *   bis 340 Grad C:
+
+        *
+        *
+        *
+        *   bis 350 Grad C:
+
         *
 
     *        *   d)
 
-        *   Schwefelgehalt nach
-            DIN EN ISO 8754 (2003),
-            DIN EN ISO 14596 (2007) und
-            DIN EN 24260 (1994) in Gew.-%:
+        *   Schwefelgehalt
 
+        *   nach DIN EN ISO 20846, Ausgabe Januar 2012, oder DIN EN ISO 20884,
+            Ausgabe Juli 2011, oder DIN EN ISO 13032, Ausgabe Juni 2012,
+            in mg/kg:
+
+        *   nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder DIN EN ISO 14596,
+            Ausgabe Dezember 2007,
+            in Gew.-%:
+
+        *   nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder DIN EN ISO 14596,
+            Ausgabe Dezember 2007,
+            in Gew.-%:
+
+        *   nach DIN EN ISO 8754, Ausgabe Dezember 2003, oder DIN EN ISO 14596,
+            Ausgabe Dezember 2007,
+            in Gew.-%:
+
+        *   nach DIN EN 24260, Ausgabe Mai 1994, DIN EN ISO 8754, Ausgabe Dezember
+            2003, oder DIN EN ISO 14596, Ausgabe Dezember 2007,
+            in % (m/m) in mg/kg;
+
+        *   nach DIN 51400-3, Ausgabe Juni 2001, DIN EN ISO 8754, Ausgabe Dezember
+            2003, oder DIN EN ISO 14596, Ausgabe Dezember 2007,
+            in Gew.-%:
+
+
+    *        *
         *
         *
         *
         *
         *
+        *   bzw. bei Auszeichnung als „Schwefelarm“ nach DIN EN ISO 20846, Ausgabe
+            Januar 2012, oder DIN EN ISO 20884, Ausgabe Juli 2011,
+            in % (m/m) oder
+            mg/kg:
+
         *
 
 
@@ -1072,3 +1194,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
+_\_\__\_\__\_\__\_\__
+
+    Referenzverfahren im Streitfall.
+[^F787661_03_BJNR184900010BJNE003701116]: 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 972; 1995, 979
 
 Zuletzt geändert durch
-:   Art. 79 V v. 31.10.2006 I 2407
+:   Art. 6a G v. 18.7.2017 I 2757
 
 
 ## Eingangsformel
@@ -115,9 +115,10 @@ anzunehmen.
 Die Stiftung erhält eine Satzung, die vom Stiftungsrat (§ 8) mit den
 Stimmen der Mehrheit seiner Mitglieder beschlossen wird und der
 Genehmigung des Bundesministeriums für Gesundheit im Einvernehmen mit
-dem Bundesministerium der Justiz bedarf. Der Stiftungsrat kann die
-Satzung mit Genehmigung des Bundesministeriums für Gesundheit im
-Einvernehmen mit dem Bundesministerium der Justiz ändern.
+dem Bundesministerium der Justiz und für Verbraucherschutz bedarf. Der
+Stiftungsrat kann die Satzung mit Genehmigung des Bundesministeriums
+für Gesundheit im Einvernehmen mit dem Bundesministerium der Justiz
+und für Verbraucherschutz ändern.
 
 
 #### § 7 Organe

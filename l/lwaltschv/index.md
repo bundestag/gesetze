@@ -380,20 +380,60 @@ Dabei wird unterstellt, dass die jährlichen Zahlungen auf die
 Rangrücktrittsvereinbarung am Ende des Kalenderjahres erfolgen, in dem
 das abzurechnende Geschäftsjahr endet. Der Barwert der einzelnen
 jährlichen Zahlung wird nach folgender Formel berechnet:
-B(tief)L
-BW((tief)L = ----------------------------  .
-(1 + Z/100)(hoch)(L-2004)
-BW(tief)L = Barwert der Zahlung im Kalenderjahr L
-B(tief)L  = Zahlung im Kalenderjahr L
-Z         = EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2
-des Landwirtschafts-Altschuldengesetzes in Verbindung
-mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung
-L         = Kalenderjahr
+
+*    *
+    *
+    *        ![bgbl1_2004_j2864_0010.jpg](bgbl1_2004_j2864_0010.jpg)
+    *
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *   BW
+        L
+
+    *   =
+
+    *   Barwert der Zahlung im Kalenderjahr L
+
+    *
+
+*    *   B
+        L
+
+    *   =
+
+    *   Zahlung im Kalenderjahr L
+
+    *
+
+*    *   Z
+
+    *   =
+
+    *   EU-Referenzzinssatz in vom Hundert gemäß § 7 Abs. 2
+        des Landwirtschafts-Altschuldengesetzes in Verbindung
+        mit § 3 Abs. 2 Satz 2 und 3 dieser Verordnung
+
+    *
+
+*    *   L
+
+    *   =
+
+    *   Kalenderjahr
+
+    *
+
+
 
 
 ## § 9 Verfahrensgrundsätze zur Bestimmung des Ablösebetrages
 
-(1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten
+   (1) Die Gläubigerbanken haben im Zusammenwirken mit der beauftragten
 Stelle zu gewährleisten, dass die Prüfung der Angemessenheit des
 Ablöseangebotes des Kreditnehmers nach einheitlichen Kriterien
 erfolgt. Wesentlich zur Beurteilung der Angemessenheit des

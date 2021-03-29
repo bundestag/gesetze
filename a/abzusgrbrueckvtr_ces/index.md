@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Tschechischen Rep
   D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 jurabk: ABZusGrBrückVtr CES
 layout: default
-origslug: abzusgrbr_ckvtr_ces
+origslug: abzusgrbrueckvtr_ces
 slug: abzusgrbrueckvtr_ces
 
 ---

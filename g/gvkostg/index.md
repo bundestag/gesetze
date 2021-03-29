@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 623
 
 Zuletzt geändert durch
-:   Art. 11 G v. 5.12.2012 I 2418
+:   Art. 12 G v. 21.11.2016 I 2591
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -75,9 +75,9 @@ Amtsgerichtsbezirken haben, gilt die Tätigkeit jedes
 Gerichtsvollziehers als Durchführung eines besonderen Auftrags.
 Jeweils verschiedene Aufträge sind die Zustellung auf Betreiben der
 Parteien, die Vollstreckung einschließlich der Verwertung und
-besondere Geschäfte nach dem 4. Abschnitt des Kostenverzeichnisses,
-soweit sie nicht Nebengeschäft sind. Die Vollziehung eines Haftbefehls
-ist ein besonderer Auftrag.
+besondere Geschäfte nach Abschnitt 4 des Kostenverzeichnisses, soweit
+sie nicht Nebengeschäft sind. Die Vollziehung eines Haftbefehls ist
+ein besonderer Auftrag.
 
 (2) Es handelt sich jedoch um denselben Auftrag, wenn der
 Gerichtsvollzieher gleichzeitig beauftragt wird,
@@ -92,12 +92,25 @@ Gerichtsvollzieher gleichzeitig beauftragt wird,
 
 3.  mehrere Vollstreckungshandlungen gegen denselben
     Vollstreckungsschuldner oder Verpflichteten (Schuldner) oder
-    Vollstreckungshandlungen gegen Gesamtschuldner auszuführen; der
-    Gerichtsvollzieher gilt als gleichzeitig beauftragt, wenn der Auftrag
-    zur Abnahme der Vermögensauskunft mit einem Vollstreckungsauftrag
-    verbunden ist (§ 807 Abs. 1 der Zivilprozessordnung), es sei denn, der
-    Gerichtsvollzieher nimmt die Vermögensauskunft nur deshalb nicht ab,
-    weil der Schuldner nicht anwesend ist.
+    Vollstreckungshandlungen gegen Gesamtschuldner auszuführen.
+
+
+
+Der Gerichtsvollzieher gilt auch dann als gleichzeitig beauftragt,
+wenn
+
+1.  der Auftrag zur Abnahme der Vermögensauskunft mit einem
+    Vollstreckungsauftrag verbunden ist (§ 807 Absatz 1 der
+    Zivilprozessordnung), es sei denn, der Gerichtsvollzieher nimmt die
+    Vermögensauskunft nur deshalb nicht ab, weil der Schuldner nicht
+    anwesend ist, oder
+
+
+2.  der Auftrag, eine gütliche Erledigung der Sache zu versuchen, in der
+    Weise mit einem Auftrag auf Vornahme einer Amtshandlung nach § 802a
+    Absatz 2 Satz 1 Nummer 2 oder Nummer 4 der Zivilprozessordnung
+    verbunden ist, dass diese Amtshandlung nur im Fall des Scheiterns des
+    Versuchs der gütlichen Einigung vorgenommen werden soll.
 
 
 
@@ -137,6 +150,14 @@ Absendung der Vorschussanforderung folgenden Kalendermonats beim
 Gerichtsvollzieher eingegangen ist.
 
 
+### § 3a Rechtsbehelfsbelehrung
+
+Jede Kostenrechnung und jede anfechtbare Entscheidung hat eine
+Belehrung über den statthaften Rechtsbehelf sowie über die Stelle, bei
+der dieser Rechtsbehelf einzulegen ist, über deren Sitz und über die
+einzuhaltende Form zu enthalten.
+
+
 ### § 4 Vorschuss
 
 (1) Der Auftraggeber ist zur Zahlung eines Vorschusses verpflichtet,
@@ -164,7 +185,7 @@ eingegangen ist.
 zur Zahlung der vorzuschießenden Beträge bestehen.
 
 
-### § 5 Zuständigkeit für den Kostenansatz, Erinnerung, Beschwerde
+### § 5 Kostenansatz, Erinnerung, Beschwerde, Gehörsrüge
 
 (1) Die Kosten werden von dem Gerichtsvollzieher angesetzt, der den
 Auftrag durchgeführt hat. Der Kostenansatz kann im Verwaltungswege
@@ -175,9 +196,9 @@ getroffen ist.
 den Kostenansatz entscheidet, soweit nicht nach § 766 Abs. 2 der
 Zivilprozessordnung das Vollstreckungsgericht zuständig ist, das
 Amtsgericht, in dessen Bezirk der Gerichtsvollzieher seinen Amtssitz
-hat. Auf die Erinnerung und die Beschwerde sind die §§ 5a und 66 Abs.
-2 bis 8 des Gerichtskostengesetzes, auf die Rüge wegen Verletzung des
-Anspruchs auf rechtliches Gehör ist § 69a des Gerichtskostengesetzes
+hat. Auf die Erinnerung und die Beschwerde ist § 66 Absatz 2 bis 8 des
+Gerichtskostengesetzes, auf die Rüge wegen Verletzung des Anspruchs
+auf rechtliches Gehör ist § 69a des Gerichtskostengesetzes
 entsprechend anzuwenden.
 
 (3) Auf die Erinnerung des Kostenschuldners gegen die Anordnung des
@@ -185,6 +206,10 @@ Gerichtsvollziehers, die Durchführung des Auftrags oder die
 Aufrechterhaltung einer Vollstreckungsmaßnahme von der Zahlung eines
 Vorschusses abhängig zu machen, und auf die Beschwerde ist Absatz 2
 entsprechend anzuwenden.
+
+(4) Für Verfahren nach den Absätzen 1 bis 3 sind die Vorschriften der
+Zivilprozessordnung über die elektronische Akte und über das
+elektronische Dokument anzuwenden.
 
 
 ### § 6 Nachforderung
@@ -246,7 +271,7 @@ erhoben, soweit nichts anderes bestimmt ist.
 
 (1) Bei Durchführung desselben Auftrags wird eine Gebühr nach
 derselben Nummer des Kostenverzeichnisses nur einmal erhoben. Dies
-gilt nicht für die nach dem 6. Abschnitt des Kostenverzeichnisses zu
+gilt nicht für die nach Abschnitt 6 des Kostenverzeichnisses zu
 erhebenden Gebühren, wenn für die Erledigung mehrerer Amtshandlungen
 Gebühren nach verschiedenen Nummern des Kostenverzeichnisses zu
 erheben wären. Eine Gebühr nach dem genannten Abschnitt wird nicht
@@ -260,23 +285,35 @@ der Gerichtsvollzieher auch ohne ausdrückliche Weisung des
 Auftraggebers die weitere Vollstreckung betreibt, weil nach dem
 Ergebnis der Verwertung der Pfandstücke die Vollstreckung nicht zur
 vollen Befriedigung des Auftraggebers führt oder Pfandstücke bei dem
-Schuldner abhanden gekommen oder beschädigt worden sind. Gebühren nach
-dem 1. Abschnitt des Kostenverzeichnisses sind für jede Zustellung,
-die Gebühr für die Entgegennahme einer Zahlung (Nummer 430 des
-Kostenverzeichnisses) ist für jede Zahlung und die Gebühr für die
-Einholung von Auskünften (Nummer 440 des Kostenverzeichnisses) ist für
-jede Auskunft gesondert zu erheben. Das Gleiche gilt für die Gebühr
-nach Nummer 600 des Kostenverzeichnisses, wenn eine Zustellung nicht
-erledigt wird.
+Schuldner abhanden gekommen oder beschädigt worden sind. Gesondert zu
+erheben sind
+
+1.  eine Gebühr nach Abschnitt 1 des Kostenverzeichnisses für jede
+    Zustellung,
+
+
+2.  eine Gebühr nach Nummer 430 des Kostenverzeichnisses für jede Zahlung,
+
+
+3.  eine Gebühr nach Nummer 440 oder Nummer 441 des Kostenverzeichnisses
+    für die Erhebung von Daten bei jeder der in den §§ 755 und 802l der
+    Zivilprozessordnung genannten Stellen und
+
+
+4.  eine Gebühr nach Nummer 600 des Kostenverzeichnisses für jede nicht
+    erledigte Zustellung.
+
+
+
 
 (3) Ist der Gerichtsvollzieher gleichzeitig beauftragt,
 Vollstreckungshandlungen gegen Gesamtschuldner auszuführen, sind die
-Gebühren nach den Nummern 200, 205, 260 und 270 des
+Gebühren nach den Nummern 200, 205, 260, 261, 262 und 270 des
 Kostenverzeichnisses für jeden Gesamtschuldner gesondert zu erheben.
-Das gleiche gilt für die im 6. Abschnitt des Kostenverzeichnisses
-bestimmten Gebühren, wenn Amtshandlungen der in den Nummern 205, 260
-und 270 des Kostenverzeichnisses genannten Art nicht erledigt worden
-sind.
+Das Gleiche gilt für die in Abschnitt 6 des Kostenverzeichnisses
+bestimmten Gebühren, wenn Amtshandlungen der in den Nummern 205, 260,
+261, 262 und 270 des Kostenverzeichnisses genannten Art nicht erledigt
+worden sind.
 
 
 ### § 11 Tätigkeit zur Nachtzeit, an Sonnabenden, Sonn- und Feiertagen
@@ -288,20 +325,40 @@ Feiertag tätig, so werden die doppelten Gebühren erhoben.
 
 ### § 12 Siegelungen, Vermögensverzeichnisse, Proteste und ähnliche Geschäfte
 
-(1) Die Gebühren für Wechsel- und Scheckproteste, für Siegelungen und
+Die Gebühren für Wechsel- und Scheckproteste, für Siegelungen und
 Entsiegelungen, für die Aufnahme von Vermögensverzeichnissen sowie für
 die Mitwirkung als Urkundsperson bei der Aufnahme von
-Vermögensverzeichnissen bestimmen sich nach den §§ 18 bis 35, 51, 52,
-130 Abs. 2 bis 4 der Kostenordnung. Das Wegegeld (Nummer 711 des
-Kostenverzeichnisses) wird auf die nach § 51 Abs. 2 Satz 1 der
-Kostenordnung zu erhebende Wegegebühr angerechnet.
-
-(2) Für die Empfangnahme der Wechsel- oder Schecksumme (Artikel 84 des
-Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) wird die in §
-149 der Kostenordnung bestimmte Gebühr erhoben.
+Vermögensverzeichnissen bestimmen sich nach den für Notare geltenden
+Regelungen des Gerichts- und Notarkostengesetzes.
 
 
-## Abschnitt 3 - Kostenzahlung
+## Abschnitt 3 - Auslagenvorschriften
+
+
+
+### § 12a Erhöhtes Wegegeld
+
+(1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+eine höhere Stufe nach Nummer 711 des Kostenverzeichnisses für Wege
+festzusetzen, die von bestimmten Gerichtsvollziehern in bestimmte
+Regionen des Bezirks eines Amtsgerichts zurückzulegen sind, wenn die
+kürzeste öffentlich nutzbare Wegstrecke erheblich von der nach der
+Luftlinie bemessenen Entfernung abweicht, weil ein nicht nur
+vorübergehendes Hindernis besteht.
+
+(2) Eine erhebliche Abweichung nach Absatz 1 liegt vor, wenn die
+kürzeste öffentlich nutzbare Wegstrecke sowohl vom Amtsgericht als
+auch vom Geschäftszimmer des Gerichtsvollziehers mindestens doppelt so
+weit ist wie die nach der Luftlinie bemessene Entfernung.
+
+(3) In der Rechtsverordnung ist die niedrigste Stufe festzusetzen, bei
+der eine erhebliche Abweichung nach Absatz 2 nicht mehr vorliegt.
+
+(4) Die Landesregierungen können die Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltung übertragen.
+
+
+## Abschnitt 4 - Kostenzahlung
 
 
 
@@ -320,6 +377,8 @@ Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) wird die in §
 
 
 
+Schuldner der Auslagen nach den Nummern 714 und 715 des
+Kostenverzeichnisses ist nur der Ersteher.
 
 (2) Mehrere Kostenschuldner haften als Gesamtschuldner.
 
@@ -348,7 +407,8 @@ eines Dritten, ferner für die Kosten des Transports und der Lagerung.
 
 (2) Andere als die in Absatz 1 genannten Kosten oder ein hierauf zu
 zahlender Vorschuss können bei der Ablieferung von Geld an den
-Auftraggeber entnommen werden.
+Auftraggeber oder bei der Hinterlegung von Geld für den Auftraggeber
+entnommen werden.
 
 (3) Die Absätze 1 und 2 gelten nicht, soweit § 459b der
 Strafprozessordnung oder § 94 des Gesetzes über Ordnungswidrigkeiten
@@ -375,11 +435,11 @@ der gleichzeitigen Durchführung mehrerer Aufträge entstehen, sind nach
 der Zahl der Aufträge zu verteilen, soweit die Auslagen nicht
 ausschließlich bei der Durchführung eines Auftrags entstanden sind.
 Das Wegegeld (Nummer 711 des Kostenverzeichnisses) und die
-Auslagenpauschale (Nummer 713 des Kostenverzeichnisses) sind für jeden
+Auslagenpauschale (Nummer 716 des Kostenverzeichnisses) sind für jeden
 Auftrag gesondert zu erheben.
 
 
-## Abschnitt 4 - Übergangs- und Schlussvorschriften
+## Abschnitt 5 - Übergangs- und Schlussvorschriften
 
 
 
@@ -419,26 +479,70 @@ sind.
 
 (weggefallen)
 
+(zu § 9)
 
-### Anlage (zu § 9) Kostenverzeichnis
+### Anlage Kostenverzeichnis
 
 (Fundstelle: BGBl. I 2001, 634 - 637;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+*    *   Gliederung
+
+
+*    *   Abschnitt 1
+
+    *   Zustellung auf Betreiben der Parteien (§ 191 ZPO)
+
+
+*    *   Abschnitt 2
+
+    *   Vollstreckung
+
+
+*    *   Abschnitt 3
+
+    *   Verwertung
+
+
+*    *   Abschnitt 4
+
+    *   Besondere Geschäfte
+
+
+*    *   Abschnitt 5
+
+    *   Zeitzuschlag
+
+
+*    *   Abschnitt 6
+
+    *   Nicht erledigte Amtshandlung
+
+
+*    *   Abschnitt 7
+
+    *   Auslagen
+
+
+
 
 *    *   Nr.
 
     *   Gebührentatbestand
 
-    *   Gebührenbetrag
+    *   Gebühr
 
 
-*    *   1.
-
-    *   Zustellung auf Betreiben der Parteien
+*    *   Abschnitt 1
 
 
-*    *
-    *   (1) Die Zustellung an den Zustellungsbevollmächtigten mehrerer
+*    *   Zustellung auf Betreiben der Parteien (§ 191 ZPO)
+
+
+*    *   Vorbemerkung 1:
+
+
+*    *   (1) Die Zustellung an den Zustellungsbevollmächtigten mehrerer
         Beteiligter gilt als eine Zustellung.
 
 
@@ -451,16 +555,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   100
 
-    *   Persönliche Zustellung durch den Gerichtsvollzieher
+    *   Persönliche Zustellung durch den Gerichtsvollzieher ..........
 
-    *   7,50 EUR
+    *   10,00 €
 
 
 *    *   101
 
-    *   Sonstige Zustellung
+    *   Sonstige Zustellung ..........
 
-    *   2,50 EUR
+    *   3,00 €
 
 
 *    *   102
@@ -471,7 +575,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   je Seite
+    *   je Seite ..........
 
     *   Gebühr in Höhe der Dokumentenpauschale
 
@@ -480,24 +584,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Eine angefangene Seite wird voll berechnet.
 
 
-*    *   2.
+*    *   Abschnitt 2
 
-    *   Vollstreckung
+
+*    *   Vollstreckung
 
 
 *    *   200
 
-    *   Amtshandlung nach § 845 Abs. 1 Satz 2 ZPO (Vorpfändung)
+    *   Amtshandlung nach § 845 Abs. 1 Satz 2 ZPO (Vorpfändung) ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *   205
 
     *   Bewirkung einer Pfändung (§ 808 Abs. 1, 2 Satz 2, §§ 809, 826 oder §
-        831 ZPO)
+        831 ZPO) ..........
 
-    *   20,00 EUR
+    *   26,00 €
 
 
 *    *
@@ -509,40 +614,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   206
 
     *   Übernahme beweglicher Sachen zum Zwecke der Verwertung in den Fällen
-        der §§ 847 und 854 ZPO
+        der §§ 847 und 854 ZPO ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *   207
 
     *   Versuch einer gütlichen Erledigung der Sache (§ 802b ZPO) ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
-*    *   Die Gebühr entsteht auch im Fall der gütlichen Erledigung. Sie
-        entsteht nicht, wenn der Gerichtsvollzieher gleichzeitig mit einer auf
-        eine Maßnahme nach § 802a Abs. 2 Satz 1 Nr. 2 und 4 ZPO gerichteten
-        Amtshandlung beauftragt ist.
+*    *   Die Gebühr entsteht auch im Fall der gütlichen Erledigung.
 
     *
+
+*    *   208
+
+    *   Der Gerichtsvollzieher ist gleichzeitig mit einer auf eine Maßnahme
+        nach § 802a Abs. 2 Satz 1 Nr. 2 oder Nr. 4 ZPO gerichteten
+        Amtshandlung beauftragt:
+
+    *
+
+*    *
+    *   Die Gebühr 207 ermäßigt sich auf ..........
+
+    *   8,00 €
+
 
 *    *   210
 
     *   Übernahme des Vollstreckungsauftrags von einem anderen
         Gerichtsvollzieher, wenn der Schuldner unter Mitnahme der Pfandstücke
-        in einen anderen Amtsgerichtsbezirk verzogen ist
+        in einen anderen Amtsgerichtsbezirk verzogen ist ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *   220
 
     *   Entfernung von Pfandstücken, die im Gewahrsam des Schuldners, des
-        Gläubigers oder eines Dritten belassen waren
+        Gläubigers oder eines Dritten belassen waren ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *
@@ -555,9 +671,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   221
 
     *   Wegnahme oder Entgegennahme beweglicher Sachen durch den zur
-        Vollstreckung erschienenen Gerichtsvollzieher
+        Vollstreckung erschienenen Gerichtsvollzieher ..........
 
-    *   20,00 EUR
+    *   26,00 €
 
 
 *    *
@@ -569,9 +685,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   230
 
     *   Wegnahme oder Entgegennahme einer Person durch den zur Vollstreckung
-        erschienenen Gerichtsvollzieher
+        erschienenen Gerichtsvollzieher ..........
 
-    *   40,00 EUR
+    *   52,00 €
 
 
 *    *
@@ -585,9 +701,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Entsetzung aus dem Besitz unbeweglicher Sachen oder eingetragener
         Schiffe oder Schiffsbauwerke und die Einweisung in den Besitz (§ 885
-        ZPO)
+        ZPO) ..........
 
-    *   75,00 EUR
+    *   98,00 €
 
 
 *    *
@@ -598,11 +714,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   241
 
+    *   In dem Protokoll sind die frei ersichtlichen beweglichen Sachen zu
+        dokumentieren und der Gerichtsvollzieher bedient sich elektronischer
+        Bildaufzeichnungsmittel (§ 885a Abs. 2 ZPO):
+        Die Gebühr 240 erhöht sich auf ..........
+
+    *   108,00 €
+
+
+*    *   242
+
     *   Wegnahme ausländischer Schiffe, die in das Schiffsregister eingetragen
         werden müssten, wenn sie deutsche Schiffe wären, und ihre Übergabe an
-        den Gläubiger
+        den Gläubiger ..........
 
-    *   100,00 EUR
+    *   130,00 €
 
 
 *    *
@@ -611,12 +737,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   242
+*    *   243
 
     *   Übergabe unbeweglicher Sachen an den Verwalter im Falle der
-        Zwangsversteigerung oder Zwangsverwaltung
+        Zwangsversteigerung oder Zwangsverwaltung ..........
 
-    *   75,00 EUR
+    *   98,00 €
 
 
 *    *
@@ -630,9 +756,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zuziehung zur Beseitigung des Widerstandes (§ 892 ZPO) oder zur
         Beseitigung einer andauernden Zuwiderhandlung gegen eine Anordnung
         nach § 1 GewSchG (§ 96 Abs. 1 FamFG) sowie Anwendung von unmittelbarem
-        Zwang auf Anordnung des Gerichts im Fall des § 90 FamFG
+        Zwang auf Anordnung des Gerichts im Fall des § 90 FamFG ..........
 
-    *   40,00 EUR
+    *   52,00 €
 
 
 *    *
@@ -646,7 +772,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Abnahme der Vermögensauskunft nach den §§ 802c, 802d Abs. 1 oder nach
         § 807 ZPO ..........
 
-    *   25,00 EUR
+    *   33,00 €
 
 
 *    *   261
@@ -655,23 +781,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Vermögensverzeichnisses an einen Drittgläubiger (§ 802d Abs. 1 Satz 2,
         Abs. 2 ZPO) ..........
 
-    *   25,00 EUR
+    *   33,00 €
+
+
+*    *   262
+
+    *   Abnahme der eidesstattlichen Versicherung nach § 836 Abs. 3 oder § 883
+        Abs. 2 ZPO ..........
+
+    *   38,00 €
 
 
 *    *   270
 
-    *   Verhaftung, Nachverhaftung, zwangsweise Vorführung
+    *   Verhaftung, Nachverhaftung, zwangsweise Vorführung ..........
 
-    *   30,00 EUR
-
-
-*    *   3.
-
-    *   Verwertung
+    *   39,00 €
 
 
-*    *
-    *   Die Gebühren werden bei jeder Verwertung nur einmal erhoben. Dieselbe
+*    *   Abschnitt 3
+
+
+*    *   Verwertung
+
+
+*    *   Vorbemerkung 3:
+
+
+*    *   Die Gebühren werden bei jeder Verwertung nur einmal erhoben. Dieselbe
         Verwertung liegt auch vor, wenn der Gesamterlös aus der Versteigerung
         oder dem Verkauf mehrerer Gegenstände einheitlich zu verteilen ist
         oder zu verteilen wäre und wenn im Falle der Versteigerung oder des
@@ -681,7 +818,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   300
 
-    *   Versteigerung oder Verkauf von
+    *   Versteigerung, Verkauf oder Verwertung in anderer Weise nach § 825
+        Abs. 1 ZPO von
 
     *
 
@@ -700,9 +838,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   -
 
-    *   Forderungen oder anderen Vermögensrechten
+    *   Forderungen oder anderen Vermögensrechten ..........
 
-    *   40,00 EUR
+    *   52,00 €
 
 
 *    *   Neben dieser Gebühr wird gegebenenfalls ein Zeitzuschlag nach Nummer
@@ -712,9 +850,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   301
 
-    *   Öffentliche Verpachtung an den Meistbietenden
+    *   Öffentliche Verpachtung an den Meistbietenden ..........
 
-    *   40,00 EUR
+    *   52,00 €
 
 
 *    *
@@ -726,23 +864,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   302
 
     *   Anberaumung eines neuen Versteigerungs- oder Verpachtungstermins oder
-        das nochmalige Ausgebot bei einer Versteigerung im Internet
+        das nochmalige Ausgebot bei einer Versteigerung im Internet ..........
 
-    *   7,50 EUR
+    *   10,00 €
 
 
 *    *
     *   (1) Die Gebühr wird für die Anberaumung eines neuen Versteigerungs-
         oder Verpachtungstermins nur erhoben, wenn der vorherige Termin auf
         Antrag des Gläubigers oder des Antragstellers oder nach den
-        Vorschriften der §§ 765a, 775, 813a, 813b ZPO nicht stattgefunden hat
-        oder wenn der Termin infolge des Ausbleibens von Bietern oder wegen
+        Vorschriften der §§ 765a, 775, 802b ZPO nicht stattgefunden hat oder
+        wenn der Termin infolge des Ausbleibens von Bietern oder wegen
         ungenügender Gebote erfolglos geblieben ist.
         (2) Die Gebühr wird für das nochmalige Ausgebot bei einer
         Versteigerung im Internet nur erhoben, wenn das vorherige Ausgebot auf
         Antrag des Gläubigers oder des Antragstellers oder nach den
-        Vorschriften der §§ 765a, 775, 813a, 813b ZPO abgebrochen worden ist
-        oder wenn das Ausgebot infolge des Ausbleibens von Geboten oder wegen
+        Vorschriften der §§ 765a, 775, 802b ZPO abgebrochen worden ist oder
+        wenn das Ausgebot infolge des Ausbleibens von Geboten oder wegen
         ungenügender Gebote erfolglos geblieben ist.
 
     *
@@ -750,9 +888,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   310
 
     *   Mitwirkung bei der Versteigerung durch einen Dritten (§ 825 Abs. 2
-        ZPO)
+        ZPO) ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *
@@ -761,9 +899,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   4.
+*    *   Abschnitt 4
 
-    *   Besondere Geschäfte
+
+*    *   Besondere Geschäfte
 
 
 *    *   400
@@ -771,9 +910,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Bewachung und Verwahrung eines Schiffes, eines Schiffsbauwerks oder
         eines Luftfahrzeugs (§§ 165, 170, 170a, 171, 171c, 171g, 171h ZVG, §
         99 Abs. 2, § 106 Abs. 1 Nr. 1 des Gesetzes über Rechte an
-        Luftfahrzeugen)
+        Luftfahrzeugen) ..........
 
-    *   75,00 EUR
+    *   98,00 €
 
 
 *    *
@@ -785,9 +924,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   401
 
     *   Feststellung der Mieter oder Pächter von Grundstücken im Auftrag des
-        Gerichts je festgestellte Person
+        Gerichts je festgestellte Person ..........
 
-    *   5,00 EUR
+    *   7,00 €
 
 
 *    *
@@ -799,16 +938,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   410
 
     *   Tatsächliches Angebot einer Leistung (§§ 293, 294 BGB) außerhalb der
-        Zwangsvollstreckung
+        Zwangsvollstreckung ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *   411
 
-    *   Beurkundung eines Leistungsangebots
+    *   Beurkundung eines Leistungsangebots ..........
 
-    *   5,00 EUR
+    *   7,00 €
 
 
 *    *
@@ -820,34 +959,36 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Entfernung von Gegenständen aus dem Gewahrsam des Inhabers zum Zwecke
         der Versteigerung oder Verwahrung außerhalb der Zwangsvollstreckung
+        ..........
 
-    *   12,50 EUR
+    *   16,00 €
 
 
 *    *   430
 
     *   Entgegennahme einer Zahlung, wenn diese nicht ausschließlich auf
         Kosten nach diesem Gesetz entfällt, die bei der Durchführung des
-        Auftrags entstanden sind
+        Auftrags entstanden sind ..........
 
-    *   3,00 EUR
+    *   4,00 €
 
 
 *    *
     *   Die Gebühr wird auch erhoben, wenn der Gerichtsvollzieher einen
         entgegengenommenen Scheck selbst einzieht oder einen Scheck aufgrund
         eines entsprechenden Auftrags des Auftraggebers an diesen
-        weiterleitet. Die Gebühr wird nicht im Falle des § 12 Abs. 2 GvKostG
-        erhoben.
+        weiterleitet. Die Gebühr wird nicht bei Wechsel- oder Scheckprotesten
+        für die Entgegennahme der Wechsel- oder Schecksumme (Artikel 84 des
+        Wechselgesetzes, Artikel 55 Abs. 3 des Scheckgesetzes) erhoben.
 
     *
 
 *    *   440
 
-    *   Einholung einer Auskunft bei einer der in den §§ 755, 802l ZPO
+    *   Erhebung von Daten bei einer der in § 755 Abs. 2, § 802l Abs. 1 ZPO
         genannten Stellen ..........
 
-    *   10,00 EUR
+    *   13,00 €
 
 
 *    *
@@ -856,9 +997,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   5.
+*    *   441
 
-    *   Zeitzuschlag
+    *   Erhebung von Daten bei einer der in § 755 Abs. 1 ZPO genannten Stellen
+        ..........
+
+    *
+
+*    *
+    *   Die Gebühr entsteht nicht, wenn die Auskunft nach § 882c Abs. 3 Satz 2
+        ZPO eingeholt wird.
+
+    *   5,00 €
+
+
+*    *   442
+
+    *   Übermittlung von Daten nach § 802l Abs. 4 ZPO ..........
+
+    *   5,00 €
+
+
+*    *   Abschnitt 5
+
+
+*    *   Zeitzuschlag
 
 
 *    *   500
@@ -866,8 +1029,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Zeitzuschlag, sofern dieser bei der Gebühr vorgesehen ist, wenn die
         Erledigung der Amtshandlung nach dem Inhalt des Protokolls mehr als 3
         Stunden in Anspruch nimmt, für jede weitere angefangene Stunde
+        ..........
 
-    *   15,00 EUR
+    *   20,00 €
 
 
 *    *
@@ -875,13 +1039,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   6.
-
-    *   Nicht erledigte Amtshandlung
+*    *   Abschnitt 6
 
 
-*    *
-    *   Gebühren nach diesem Abschnitt werden erhoben, wenn eine Amtshandlung,
+*    *   Nicht erledigte Amtshandlung
+
+
+*    *   Vorbemerkung 6:
+
+    *
+
+*    *   Gebühren nach diesem Abschnitt werden erhoben, wenn eine Amtshandlung,
         mit deren Erledigung der Gerichtsvollzieher beauftragt worden ist, aus
         Rechtsgründen oder infolge von Umständen, die weder in der Person des
         Gerichtsvollziehers liegen noch von seiner Entschließung abhängig
@@ -894,6 +1062,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *
+
+*    *
     *   Nicht erledigte
 
     *
@@ -902,18 +1072,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   -
 
-    *   Zustellung (Nummern 100 und 101)
+    *   Zustellung (Nummern 100 und 101) ..........
 
-    *   2,50 EUR
+    *   3,00 €
 
 
 *    *   601
 
     *   -
 
-    *   Wegnahme einer Person (Nummer 230)
+    *   Wegnahme einer Person (Nummer 230) ..........
 
-    *   20,00 EUR
+    *   26,00 €
 
 
 *    *   602
@@ -921,40 +1091,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   -
 
     *   Entsetzung aus dem Besitz (Nummer 240), Wegnahme ausländischer Schiffe
-        (Nummer 241) oder Übergabe an den Verwalter (Nummer 242)
+        (Nummer 242) oder Übergabe an den Verwalter (Nummer 243) ..........
 
-    *   25,00 EUR
+    *   32,00 €
 
 
 *    *   603
 
     *   -
 
-    *   Beurkundung eines Leistungsangebots (Nummer 411)
+    *   Beurkundung eines Leistungsangebots (Nummer 411) ..........
 
-    *   5,00 EUR
+    *   6,00 €
 
 
 *    *   604
 
     *   -
 
-    *   Amtshandlung der in den Nummern 205 bis 221, 250 bis 301, 310, 400,
-        410 und 420 genannten Art
+    *   Amtshandlung der in den Nummern 205 bis 207, 210 bis 221, 250 bis 301,
+        310, 400, 410 und 420 genannten Art ..........
 
-    *   12,50 EUR
+    *   15,00 €
 
 
 *    *
     *
     *   Die Gebühr für die nicht abgenommene Vermögensauskunft wird nicht
         erhoben, wenn diese deshalb nicht abgenommen wird, weil der Schuldner
-        sie innerhalb der letzten drei Jahre bereits abgegeben hat (§ 802d
-        Abs. 1 Satz 1 ZPO).
+        sie innerhalb der letzten zwei Jahre bereits abgegeben hat (§ 802d
+        Abs. 1 Satz 1 ZPO). Für einen nicht erledigten Versuch einer gütlichen
+        Erledigung der Sache wird in dem in Nummer 208 genannten Fall eine
+        Gebühr nicht erhoben.
 
     *
 
-*    *
+
 
 *    *   Nr.
 
@@ -963,9 +1135,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Höhe
 
 
-*    *   7.
+*    *   Abschnitt 7
 
-    *   Auslagen
+
+*    *   Auslagen
 
 
 *    *   700
@@ -977,7 +1150,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *   1.
 
-    *   Ablichtungen und Ausdrucke,
+    *   Kopien und Ausdrucke,
 
     *
 
@@ -995,27 +1168,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   für die ersten 50 Seiten je Seite
+*    *   für die ersten 50 Seiten je Seite ..........
 
-    *   0,50 EUR
+    *   0,50 €
 
 
-*    *   für jede weitere Seite
+*    *   für jede weitere Seite ..........
 
-    *   0,15 EUR
+    *   0,15 €
+
+
+*    *
+    *   für die ersten 50 Seiten in Farbe je Seite ..........
+
+    *   1,00 €
+
+
+*    *
+    *   für jede weitere Seite in Farbe ..........
+
+    *   0,30 €
 
 
 *    *   2.
 
-    *   Überlassung von elektronisch gespeicherten Dateien anstelle der in
-        Nummer 1 genannten Ablichtungen und Ausdrucke:
+    *   Überlassung von elektronisch gespeicherten Dateien oder deren
+        Bereitstellung zum Abruf anstelle der in Nummer 1 genannten Kopien und
+        Ausdrucke:
 
     *
 
 *    *
-    *   je Datei
+    *   je Datei ..........
 
-    *   2,50 EUR
+    *   1,50 €
+
+
+*    *
+    *   für die in einem Arbeitsgang überlassenen, bereitgestellten oder in
+        einem Arbeitsgang auf denselben Datenträger übertragenen Dokumente
+        insgesamt höchstens ..........
+
+    *   5,00 €
 
 
 *    *   (1) Die Höhe der Dokumentenpauschale nach Nummer 1 ist bei
@@ -1025,23 +1219,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   (2) § 191a Abs. 1 Satz 2 GVG bleibt unberührt.
+*    *   (2) Werden zum Zweck der Überlassung von elektronisch gespeicherten
+        Dateien Dokumente zuvor auf Antrag von der Papierform in die
+        elektronische Form übertragen, beträgt die Dokumentenpauschale nach
+        Nummer 2 nicht weniger als die Dokumentenpauschale im Fall der Nummer
+        1 betragen würde.
 
     *
 
-*    *   (3) Eine Dokumentenpauschale für die erste Ablichtung oder den ersten
+*    *   (3) § 191a Abs. 1 Satz 5 GVG bleibt unberührt.
+
+    *
+
+*    *   (4) Eine Dokumentenpauschale für die erste Kopie oder den ersten
         Ausdruck des Vermögensverzeichnisses und der Niederschrift über die
         Abgabe der Vermögensauskunft wird von demjenigen Kostenschuldner nicht
         erhoben, von dem die Gebühr 260 oder 261 zu erheben ist.
-        Entsprechendes gilt, wenn anstelle der in Satz 1 genannten
-        Ablichtungen oder Ausdrucke elektronisch gespeicherte Dateien
-        überlassen werden (§ 802d Abs. 2 ZPO).
+        Entsprechendes gilt, wenn anstelle der in Satz 1 genannten Kopien oder
+        Ausdrucke elektronisch gespeicherte Dateien überlassen werden (§ 802d
+        Abs. 2 ZPO).
 
     *
 
 *    *   701
 
-    *   Entgelte für Zustellungen mit Zustellungsurkunde
+    *   Entgelte für Zustellungen mit Zustellungsurkunde ..........
 
     *   in voller Höhe
 
@@ -1050,31 +1252,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Auslagen für öffentliche Bekanntmachungen und Einstellung eines
         Ausgebots auf einer Versteigerungsplattform zur Versteigerung im
-        Internet
+        Internet ..........
+        Auslagen werden nicht erhoben für die Bekanntmachung oder Einstellung
+        in einem elektronischen Informations- und Kommunikationssystem, wenn
+        das Entgelt nicht für den Einzelfall oder nicht für ein einzelnes
+        Verfahren berechnet wird.
 
-        1.  bei Veröffentlichung in einem elektronischen Informations- und
-            Kommunikationssystem oder Einstellung in einer
-            Versteigerungsplattform, wenn ein Entgelt nicht zu zahlen ist oder das
-            Entgelt nicht für den Einzelfall oder ein einzelnes Verfahren
-            berechnet wird:
-            je Veröffentlichung oder Einstellung pauschal
-
-
-        2.  in sonstigen Fällen
-
-
-
-
-    *   1,00 EUR
-
-
-*    *   in voller Höhe
+    *   in voller Höhe
 
 
 *    *   703
 
     *   Nach dem JVEG an Zeugen, Sachverständige, Dolmetscher und Übersetzer
-        zu zahlende Beträge
+        zu zahlende Beträge ..........
 
     *   in voller Höhe
 
@@ -1097,6 +1287,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   An die zum Öffnen von Türen und Behältnissen sowie an die zur
         Durchsuchung von Schuldnern zugezogenen Personen zu zahlende Beträge
+        ..........
 
     *   in voller Höhe
 
@@ -1104,7 +1295,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   705
 
     *   Kosten für die Umschreibung eines auf den Namen lautenden Wertpapiers
-        oder für die Wiederinkurssetzung eines Inhaberpapiers
+        oder für die Wiederinkurssetzung eines Inhaberpapiers ..........
 
     *   in voller Höhe
 
@@ -1112,7 +1303,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   706
 
     *   Kosten, die von einem Kreditinstitut erhoben werden, weil ein Scheck
-        des Schuldners nicht eingelöst wird
+        des Schuldners nicht eingelöst wird ..........
 
     *   in voller Höhe
 
@@ -1122,21 +1313,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   An Dritte zu zahlende Beträge für die Beförderung von Personen, Tieren
         und Sachen, das Verwahren von Tieren und Sachen, das Füttern von
         Tieren, die Beaufsichtigung von Sachen sowie das Abernten von Früchten
+        ..........
 
     *   in voller Höhe
 
 
+*    *
+    *   Diese Vorschrift ist nicht anzuwenden bei dem Transport von Sachen
+        oder Tieren an den Ersteher oder an einen von diesem benannten Dritten
+        im Rahmen der Verwertung.
+
+    *
+
 *    *   708
 
-    *   An die in §§ 755 und 802l Abs. 1 Satz 1 ZPO genannten Stellen für
-        Auskünfte zu zahlende Beträge …
+    *   An deutsche Behörden für die Erfüllung von deren eigenen Aufgaben zu
+        zahlende Gebühren sowie diejenigen Auslagen, die diesen Behörden,
+        öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für
+        Auslagen der in den Nummern 700 und 701 bezeichneten Art zustehen
+        ..........
 
     *   in voller Höhe
 
 
 *    *   709
 
-    *   Kosten für Arbeitshilfen
+    *   Kosten für Arbeitshilfen ..........
 
     *   in voller Höhe
 
@@ -1145,43 +1347,52 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Pauschale für die Benutzung von eigenen Beförderungsmitteln des
         Gerichtsvollziehers zur Beförderung von Personen und Sachen je Fahrt
+        ..........
 
-    *   5,00 EUR
+    *   6,00 €
 
 
 *    *   711
 
-    *   Wegegeld je Auftrag für zurückgelegte Wegstrecken
+    *   Wegegeld je Auftrag für zurückgelegte Wegstrecken, wenn sich aus einer
+        Rechtsverordnung nach § 12a GvKostG nichts anderes ergibt,
 
     *
 
 *    *
     *   -
 
-    *   bis zu 10 Kilometer
+    *   Stufe 1: bis zu 10 Kilometer ..........
 
-    *   2,50 EUR
-
-
-*    *   -
-
-    *   von mehr als 10 Kilometern bis 20 Kilometer
-
-    *   5,00 EUR
+    *   3,25 €
 
 
 *    *   -
 
-    *   von mehr als 20 Kilometern bis 30 Kilometer
+    *   Stufe 2: von mehr als 10 Kilometern bis 20 Kilometer ..........
 
-    *   7,50 EUR
+    *   6,50 €
 
 
 *    *   -
 
-    *   von mehr als 30 Kilometern
+    *   Stufe 3: von mehr als 20 Kilometern bis 30 Kilometer ..........
 
-    *   10,00 EUR
+    *   9,75 €
+
+
+*    *   -
+
+    *   Stufe 4: von mehr als 30 Kilometern bis 40 Kilometer ..........
+
+    *   13,00 €
+
+
+*    *   -
+
+    *   Stufe 5: von mehr als 40 Kilometern ..........
+
+    *   16,25 €
 
 
 *    *   (1) Das Wegegeld wird erhoben, wenn der Gerichtsvollzieher zur
@@ -1192,10 +1403,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
 
-*    *   (2) Maßgebend ist die Entfernung vom Amtsgericht zum Ort der
-        Amtshandlung, wenn nicht die Entfernung vom Geschäftszimmer des
-        Gerichtsvollziehers geringer ist. Werden mehrere Wege zurückgelegt,
-        ist der Weg mit der weitesten Entfernung maßgebend.
+*    *   (2) Maßgebend ist die Entfernung von dem Amtsgericht, dem der
+        Gerichtsvollzieher zugewiesen ist, zum Ort der Amtshandlung, wenn
+        nicht die Entfernung vom Geschäftszimmer des Gerichtsvollziehers
+        geringer ist. Werden mehrere Wege zurückgelegt, ist der Weg mit der
+        weitesten Entfernung maßgebend.
 
     *
 
@@ -1230,9 +1442,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   (4) In den Fällen des § 10 Abs. 2 Satz 1 und 2 GvKostG wird das
         Wegegeld für jede Vollstreckungshandlung, im Falle der Vorpfändung für
         jede Zustellung an einen Drittschuldner gesondert erhoben. Zieht der
-        Gerichtsvollzieher Teilbeträge ein (§§ 806b, 813a, 900 Abs. 3 ZPO),
-        wird das Wegegeld für den Einzug des zweiten und jedes weiteren
-        Teilbetrages gesondert erhoben.
+        Gerichtsvollzieher Teilbeträge ein (§ 802b ZPO), wird das Wegegeld für
+        den Einzug des zweiten und sodann jedes weiteren Teilbetrages je
+        einmal gesondert erhoben. Das Wegegeld für den Einzug einer Rate
+        entsteht bereits mit dem ersten Versuch, die Rate einzuziehen.
 
     *
 
@@ -1242,17 +1455,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Gerichtsvollzieher zugewiesen ist, oder außerhalb des dem
         Gerichtsvollzieher zugewiesenen Bezirks eines anderen Amtsgerichts,
         Reisekosten nach den für den Gerichtsvollzieher geltenden
-        beamtenrechtlichen Vorschriften
+        beamtenrechtlichen Vorschriften ..........
 
     *   in voller Höhe
 
 
 *    *   713
 
+    *   Pauschale für die Dokumentation mittels geeigneter elektronischer
+        Bildaufzeichnungsmittel (§ 885a Abs. 2 Satz 2 ZPO) ..........
+
+    *   5,00 €
+
+
+*    *
+    *   Mit der Pauschale sind insbesondere die Aufwendungen für die
+        elektronische Datenaufbewahrung abgegolten.
+
+    *
+
+*    *   714
+
+    *   An Dritte zu zahlende Beträge für den Versand oder den Transport von
+        Sachen oder Tieren im Rahmen der Verwertung an den Ersteher oder an
+        einen von diesem benannten Dritten und für eine von dem Ersteher
+        beantragte Versicherung für den Versand oder den Transport ..........
+
+    *   in voller Höhe
+
+
+*    *   715
+
+    *   Kosten für die Verpackung im Fall der Nummer 714 ..........
+
+    *   in voller Höhe – mindestens 3,00 €
+
+
+*    *   716
+
     *   Pauschale für sonstige bare Auslagen je Auftrag
 
-    *   20% der zu erhebenden Gebühren - mindestens 3,00 EUR, höchstens 10,00
-        EUR
+    *   20% der zu erhebenden Gebühren - mindestens 3,00 €, höchstens 10,00 €
 
 
 

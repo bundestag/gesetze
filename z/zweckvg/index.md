@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2363
 
-Geändert durch
-:   Art. 175 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 350 V v. 31.8.2015 I 1474
 
 
 
@@ -47,9 +47,8 @@ verwendet werden, wobei die jeweiligen Zuständigkeiten des Bundes und
 der Länder zu beachten sind. Die Förderung umfasst die
 vorwettbewerbliche Entwicklung sowie die Markt- und Praxiseinführung
 von Innovationen. Die Verwaltungsvorschriften zur Durchführung dieser
-Vorschrift erlässt das Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz im Einvernehmen mit dem Bundesministerium der
-Finanzen.
+Vorschrift erlässt das Bundesministerium für Ernährung und
+Landwirtschaft im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 (2) Die Verwendung des Zweckvermögens unterliegt der Prüfung durch den
 Bundesrechnungshof.

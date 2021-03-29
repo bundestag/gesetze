@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 642
 
+Geändert durch
+:   Art. 1 V v. 16.10.2017 I 3564
+
 
 
 ## Eingangsformel
@@ -334,7 +337,8 @@ Diese Verordnung tritt am 1. August 2001 in Kraft.
 
 ## Anlage (zu § 4 Abs. 1)
 
-(Fundstelle: BGBl. I 2001, 645 - 647)
+(Fundstelle: BGBl. I 2001, 645 - 647; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 ## Ausbildungsrahmenplan für die Berufsausbildung zum
 Berufskraftfahrer/zur Berufskraftfahrerin
@@ -700,7 +704,9 @@ Berufskraftfahrer/zur Berufskraftfahrerin
 
 *    *   e)
 
-    *   betriebliche Erfordernisse und Kundenwünsche in Einklang bringen
+    *   betriebliche Erfordernisse und Kundenwünsche in Einklang bringen,
+        dabei Belange mobilitätseingeschränkter Fahrgäste, insbesondere von
+        Menschen mit Behinderungen, berücksichtigen
 
 
 *    *   10
@@ -757,7 +763,7 @@ Berufskraftfahrer/zur Berufskraftfahrerin
 
 *    *   c)
 
-    *   Straßenkarten und Stadtpläne anwenden
+    *   Straßenkarten, Straßenpläne sowie digitale Systeme anwenden
 
 
 *    *   d)

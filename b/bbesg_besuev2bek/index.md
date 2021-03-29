@@ -3,7 +3,7 @@ Title: Bekanntmachung nach § 77 Abs. 1 bis 3 des Bundesbesoldungsgesetzes und n
   § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 jurabk: BBesG/BesÜV2Bek
 layout: default
-origslug: bbesg_bes_v2bek
+origslug: bbesg_besuev2bek
 slug: bbesg_besuev2bek
 
 ---

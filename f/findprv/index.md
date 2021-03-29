@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 274 (510)
 
+Geändert durch
+:   Art. 13 V v. 30.11.2017 I 3827
+
 
 ## Eingangsformel
 
@@ -329,10 +332,41 @@ zu einer Note zusammengefasst.
 (3) Die Gesamtnote der Prüfung ergibt sich aus dem arithmetischen
 Mittel der Summe der Punktebewertungen.
 
-(4) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 1 und 2 auszustellen. Im Fall der Freistellung nach § 6 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+(4) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 2 Absatz 3 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung, das nach Absatz 2 Satz 1 errechnete arithmetische
+    Mittel und die Note des schriftlichen Teils sowie die Benennung und
+    die jeweilige Punktebewertung der Handlungsbereiche nach § 4 Absatz 2,
+
+
+2.  die Benennung, die Punktebewertung und die Note des mündlichen Teils
+    sowie die Angabe, dass die Prüfung ein fallbezogenes Beratungsgespräch
+    ist,
+
+
+3.  die Gesamtnote nach Absatz 3 und
+
+
+4.  gegebenenfalls die Befreiungen nach § 6.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 4 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## Teil 3 - Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Finanzberatung und Geprüfte Fachwirtin für Finanzberatung
@@ -860,10 +894,65 @@ nach Punkten zu bewerten und auszuweisen. Die Gesamtnote der Prüfung
 ergibt sich aus dem arithmetischen Mittel der Summe der
 Punktebewertungen.
 
-(3) Über das Bestehen der Prüfung ist jeweils ein Zeugnis nach der
-Anlage 3 und 4 auszustellen. Im Fall der Freistellung nach § 13 sind
-Ort und Datum der anderweitig abgelegten Prüfung sowie die Bezeichnung
-des Prüfungsgremiums anzugeben.
+(3) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 8 Absatz 3 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  zu Teil A der Prüfung
+
+    a)  die Benennung, das nach Absatz 2 Satz 1 errechnete arithmetische
+        Mittel und die Note von Teil A der Prüfung,
+
+
+    b)  die Benennung und die jeweilige Punktebewertung der vier
+        Handlungsbereiche nach § 10 Absatz 3 sowie
+
+
+    c)  die Benennung und die Punktebewertung des fallbezogenen
+        Beratungsgesprächs,
+
+
+
+
+
+2.  zu Teil B der Prüfung
+
+    a)  die Benennung, das nach Absatz 2 Satz 2 errechnete arithmetische
+        Mittel und die Note von Teil B der Prüfung,
+
+
+    b)  die Benennung und die jeweilige Punktebewertung der drei
+        Handlungsbereiche nach § 10 Absatz 4 sowie
+
+
+    c)  die Benennung und die Punktebewertung der Präsentation und des
+        Fachgesprächs,
+
+
+
+
+
+3.  die Gesamtnote nach Absatz 2 Satz 5 und
+
+
+4.  gegebenenfalls die Befreiungen nach § 13.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 4 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ### § 15 Ausbildereignung
@@ -916,446 +1005,4 @@ Anwendung.
 ### § 18 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
-
-
-### Anlage 1 (zu § 7 Absatz 4) Muster
-
-(Fundstelle: BGBl. I 2012, 281)
-
-
-*    *   .........................................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) bestanden.
-
-
-*    *   Datum ................................................................
-        ........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-### Anlage 2 (zu § 7 Absatz 4) Muster
-
-(Fundstelle: BGBl. I 2012, 282)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-
-*    *   Herr/Frau ............................................................
-        ..................
-
-
-*    *   geboren am ......................................
-
-    *   in ...................................................
-
-
-*    *   hat am ..............................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachberater für Finanzdienstleistungen
-## Geprüfte Fachberaterin für Finanzdienstleistungen
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
-
-
-*    *   Gesamtnote: ..............................
-
-    *
-    *
-    *
-
-*    *
-    *
-    *[^f1775540_01_BJNR027400012BJNE002100000]
-   Punkte
-
-    *
-    *   Note
-
-
-*    *   Schriftlicher Teil
-
-    *   ..........
-
-    *
-    *   ...........
-
-
-*    *   1.
-
-    *   Organisation und Steuerung der eigenen Vertriebsaktivitäten
-
-    *   ..........
-
-    *
-    *
-
-*    *   2.
-
-    *   Privatkundenberatung zu Geld- und Vermögensanlagen
-
-    *   ..........
-
-    *
-    *
-
-*    *   3.
-
-    *   Privatkundenberatung zu Immobilien und Finanzierungen
-
-    *   ..........
-
-    *
-    *
-
-*    *   4.
-
-    *   Privatkundenberatung zur Absicherung von Personen-, Sach- und
-        Vermögensrisiken
-
-    *   ..........
-
-    *
-    *
-
-*    *
-    *
-    *   Punkte
-
-    *
-    *   Note
-
-
-*    *   Mündlicher Teil
-
-    *
-    *
-    *
-
-*    *   Fallbezogenes Beratungsgespräch
-
-    *   ............
-
-    *
-    *   ...........
-
-
-*    *   (Im Fall des § 6: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 6 im Hinblick auf die am  ...................
-        in ..................................
-        vor .....................................
-        abgelegte Prüfung vom Prüfungsbestandteil
-        .................................................
-        freigestellt.“)
-
-
-
-
-*    *   Datum ................................................................
-        .......
-
-
-*    *   Unterschrift(en)
-        ........................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-[^f1775540_01_BJNR027400012BJNE002100000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
-
-
-### Anlage 3 (zu § 14 Absatz 3) Muster
-
-(Fundstelle: BGBl. I 2012, 283)
-
-
-*    *   .........................................
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
-
-
-*    *   Herr/Frau ...........................
-
-
-*    *   geboren am .........................
-
-    *   in .......................
-
-
-*    *   hat am ............................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) bestanden.
-
-
-*    *   Datum ................................................................
-        ...........
-
-
-*    *   Unterschrift(en)
-        .............................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-
-### Anlage 4 (zu § 14 Absatz 3) Muster
-
-(Fundstelle: BGBl. I 2012, 284 - 285)
-
-
-*    *   ......................................................................
-        .........
-
-
-*    *   (Bezeichnung der zuständigen Stelle)
-
-
-
-## Zeugnis
-
-über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
-
-
-*    *   Herr/Frau ............................................................
-        ..................
-
-
-*    *   geboren am ...........................................
-
-    *   in ...................................
-
-
-*    *   hat am ...................................................
-
-    *   die Prüfung zum anerkannten Fortbildungsabschluss
-
-
-
-Geprüfter Fachwirt für Finanzberatung
-## Geprüfte Fachwirtin für Finanzberatung
-
-nach der Verordnung über die Prüfung zu anerkannten
-Fortbildungsabschlüssen in der Finanzdienstleistungswirtschaft vom 9.
-Februar 2012 (BGBl. I S. 274) mit folgenden Ergebnissen bestanden:
-
-
-*    *   Gesamtnote: ..............................
-
-    *
-    *
-    *
-
-*    *
-    *
-    *[^f1775540_01_BJNR027400012BJNE002300000]
-   Punkte
-
-    *
-    *   Note
-
-
-*    *   Teil A (Privatkunden)
-
-    *   ..........
-
-    *
-    *   ...........
-
-
-*    *   1.
-
-    *   Organisation und Steuerung der eigenen Vertriebsaktivitäten
-
-    *   ..........
-
-    *
-    *
-
-*    *   2.
-
-    *   Privatkundenberatung zu Geld- und Vermögensanlagen
-
-    *   ..........
-
-    *
-    *
-
-*    *   3.
-
-    *   Privatkundenberatung zu Immobilien und Finanzierungen
-
-    *   ..........
-
-    *
-    *
-
-*    *   4.
-
-    *   Privatkundenberatung zur Absicherung von Personen-, Sach- und
-        Vermögensrisiken
-
-    *   ..........
-
-    *
-    *
-
-*    *   Fallbezogenes Beratungsgespräch
-
-    *   ..........
-
-    *
-    *
-
-*    *
-    *
-    *   Punkte
-
-    *
-    *   Note
-
-
-*    *   Teil B (Geschäftskunden)
-
-    *   ............
-
-    *
-    *   ...........
-
-
-*    *   Unternehmens- und Personalführung, Vertriebsplanung und -steuerung
-
-    *   ............
-
-    *
-    *
-
-*    *   Beratung zur Unternehmensfinanzierung
-
-    *   ............
-
-    *
-    *
-
-*    *   Risikoanalyse und Beratung zu Deckungskonzepten für Unternehmen,
-        Beratung zur betrieblichen Altersversorgung
-
-    *   ............
-
-    *
-    *
-
-*    *   Präsentation und Fachgespräch
-
-    *   ............
-
-    *
-    *
-
-*    *   (Im Fall des § 13: „Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-        wurde nach § 13 im Hinblick auf die am  .......
-        in ..................................
-        vor .....................................
-        abgelegte Prüfung
-        ..........................................................
-        freigestellt.“)
-
-
-
-
-*    *   Datum ................................................................
-        .......
-
-
-*    *   Unterschrift(en)
-        .........................................................
-
-
-*    *   (Siegel der zuständigen Stelle)
-
-
-
-[^f1775540_01_BJNR027400012BJNE002300000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    .......................
 

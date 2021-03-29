@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21. 3.2002 I 1181;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.12.2012 I 2466
+:   Art. 271 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -38,7 +38,7 @@ Erhebungen als Bundesstatistik durchgeführt.
 ### § 2 Erhebungen bei Betrieben
 
 Die Erhebungen werden durchgeführt bei den produzierenden Betrieben
-von höchstens 68.000 Unternehmen des Bergbaus und der Gewinnung von
+von höchstens 68 000 Unternehmen des Bergbaus und der Gewinnung von
 Steinen und Erden, des Verarbeitenden Gewerbes sowie bei den
 produzierenden Betrieben der Unternehmen anderer Wirtschaftszweige,
 jeweils ohne Baubetriebe und Betriebe der Energieversorgung,
@@ -64,16 +64,19 @@ A.  bei Betrieben mit 50 und mehr tätigen Personen
         5.  den Auftragseingang,
 
 
-        6.  die gesamte Produktion,
+        6.  den Auftragsbestand,
 
 
-        7.  die Reparatur-, Montage- und Lohnveredelungsarbeiten,
+        7.  die gesamte Produktion,
+
+
+        8.  die Reparatur-, Montage- und Lohnveredelungsarbeiten,
 
 
 
 
-        die Sachverhalte nach den Nummern 1, 4 und 5 werden auch für fachliche
-        Betriebsteile erfasst;
+        die Sachverhalte nach den Nummern 1, 4, 5 und 6 werden auch für
+        fachliche Betriebsteile erfasst;
 
 
     II. jährlich
@@ -723,7 +726,23 @@ B.  jährlich
 (3) Im Sinne dieses Gesetzes ist
 
 1.  ein Unternehmen die kleinste rechtlich selbständige Einheit, die aus
-    handels- oder steuerrechtlichen Gründen Bücher führt;
+    handels- oder steuerrechtlichen Gründen Bücher führt; folgende
+    statistische Einheiten sind bei Erhebungen nach den §§ 6 und 6a
+    Unternehmen gleichzustellen:
+
+    a)  Einheiten ohne eigene Rechtspersönlichkeit (Eigenbetriebe),
+
+
+    b)  kommunale Körperschaften,
+
+
+    c)  Zweckverbände sowie
+
+
+    d)  andere juristische Personen zwischengemeindlicher Zusammenarbeit;
+
+
+
 
 
 2.  ein Betrieb ein an einem Standort gelegenes Unternehmen oder ein Teil
@@ -737,7 +756,7 @@ B.  jährlich
 
 ### § 8 Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates
 
 1.  die Erhebung von Sachverhalten auszusetzen, sofern die Ergebnisse
@@ -758,14 +777,21 @@ den §§ 2 bis 6a bezeichneten Betriebe und Unternehmen sowie der in § 7
 Abs. 2 Nr. 4 bezeichneten Einheiten. Die Auskunftserteilung zu den
 Angaben nach § 7 Abs. 2 Nr. 2 ist freiwillig.
 
-(2) Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g
-Abs. 7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von
-Absatz 1 Satz 1 und 2 keine Auskunftspflicht. In den beiden folgenden
-Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
-Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
-von weniger als 500.000 Euro erwirtschaftet hat.
+(2) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 Satz 1 und 2 keine
+Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
+keine Auskunftspflicht, wenn das Unternehmen im letzten
+abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 800 000
+Euro erwirtschaftet hat. Gesellschaften können sich auf die Befreiung
+von der Auskunftspflicht berufen, wenn alle an der Gesellschaft
+Beteiligten Existenzgründer oder Existenzgründerinnen sind.
+
+(3) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 2
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
 
 
 ### § 10 Übermittlungsregelung

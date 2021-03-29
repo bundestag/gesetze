@@ -38,5 +38,4 @@ Der Bundesminister der Justiz
 ## Anlage Ungarische Prüf- und Gewährzeichen
 
 (Fundstelle: BGBl. I 1967, 1123 - 1124)
-(Inhalt: nicht darstellbare Prüf- und Gewährzeichen)
-
+![bgbl1_1967_j1123_0010.jpg](bgbl1_1967_j1123_0010.jpg)![bgbl1_1967_j1124_0010.jpg](bgbl1_1967_j1124_0010.jpg)

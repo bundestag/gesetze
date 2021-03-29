@@ -6,7 +6,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und dem Sc
   Büsingen am Hochrhein erhobenen leistungsabhängigen Schwerverkehrsabgabe
 jurabk: LSVAAbk Büs
 layout: default
-origslug: lsvaabk_b_s
+origslug: lsvaabk_bues
 slug: lsvaabk_bues
 
 ---

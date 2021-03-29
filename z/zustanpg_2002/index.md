@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3165
 
+Geändert durch
+:   Art. 7 V v. 31.8.2015 I 1474
+
 
 
 ## § 1 Zuständigkeitsübergang
@@ -38,16 +41,16 @@ machen.
 
 ## § 2 Anpassung der Gesetze und Rechtsverordnungen
 
-Das Bundesministerium der Justiz kann durch Rechtsverordnung ohne
-Zustimmung des Bundesrates im Einvernehmen mit den beteiligten
-obersten Bundesbehörden in Gesetzen und Rechtsverordnungen bei
-Änderungen von Zuständigkeiten nach § 1 Abs. 1 die Behördenbezeichnung
-der bisher zuständigen obersten Bundesbehörde durch die
-Behördenbezeichnung der neu zuständigen obersten Bundesbehörde und bei
-Änderungen von Behördenbezeichnungen nach § 1 Abs. 2 die bisherige
-Behördenbezeichnung durch die neue Behördenbezeichnung ersetzen sowie
-dadurch veranlasste Anpassungen des Wortlauts der Vorschriften
-vornehmen.
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
+Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit
+den beteiligten obersten Bundesbehörden in Gesetzen und
+Rechtsverordnungen bei Änderungen von Zuständigkeiten nach § 1 Abs. 1
+die Behördenbezeichnung der bisher zuständigen obersten Bundesbehörde
+durch die Behördenbezeichnung der neu zuständigen obersten
+Bundesbehörde und bei Änderungen von Behördenbezeichnungen nach § 1
+Abs. 2 die bisherige Behördenbezeichnung durch die neue
+Behördenbezeichnung ersetzen sowie dadurch veranlasste Anpassungen des
+Wortlauts der Vorschriften vornehmen.
 
 
 ## § 3 Neufassung der Gesetze und Rechtsverordnungen

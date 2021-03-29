@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 225, 438
 
 Zuletzt geändert durch
-:   Art. 5 G v. 5.4.2011 I 554
-
-G aufgeh. durch
-:   Art. 8 § 1 Nr. 1 G v. 27.12.1993 I 2378 mWv 1.1.1994; die §§ 6a, 6c, 6e Abs. 1 und die §§ 6f und 6g gelten gemäß Art. 8 § 2 G v. 27.12.1993 I 2378 fort.
+:   Art. 2 G v. 14.12.2012 I 2598
 
 
 ## § 6a Ausgleichspflicht
@@ -64,6 +61,14 @@ Verkehrsleistungen zu verbessern. Kommt die Eisenbahn einer Auflage
 nach Satz 2 nicht in vollem Umfang nach, so ist der Ausgleich in dem
 Umfang zu ändern, wie er sich im Falle der Befolgung der Auflagen
 errechnet hätte.
+
+(4) Ausgleichszahlungen für die Beförderungen von Personen mit
+Zeitfahrausweisen des Ausbildungsverkehrs nach § 6a sind aus dem
+Anwendungsbereich der Verordnung (EG) Nr. 1370/2007 des Europäischen
+Parlaments und des Rates vom 23. Oktober 2007 über öffentliche
+Personenverkehrsdienste auf Schiene und Straße und zur Aufhebung der
+Verordnungen (EWG) Nr. 1191/69 und (EWG) Nr. 1107/70 des Rates (ABl. L
+315 vom 3.12.2007, S. 1) ausgenommen.
 
 
 ## § 6c Ausgleichspflichtiger
@@ -127,41 +132,4 @@ keine Anwendung.
 Die Länder können mit Wirkung ab dem 1. Januar 2007 die Vorschriften
 der §§ 6a, 6c, 6e und 6f sowie die Vorschriften, zu deren Erlass § 6e
 ermächtigt, durch Landesrecht ersetzen.
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Allgemeines Eisenbahngesetz in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 930-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert gemäß Verordnung vom 26. November 1986 (BGBl. I S. 2089),
-
-    mit folgenden Maßgaben:
-
-    a)  § 6a gilt erst ab 1. Januar 1992.
-
-
-    b)  In den in § 4 Abs. 2, § 5 Abs. 1, § 6 Abs. 4 und 5, §§ 6g, 7 Abs. 2, §
-        8a Abs. 3 und § 9 genannten Fällen steht die Deutsche Reichsbahn der
-        Deutschen Bundesbahn gleich.
-
-
-
-
-
-
-...
-
-11. Soweit einzelne Bestimmungen der unter den Nummern 1 bis 9 genannten
-    Rechtsvorschriften unter Berücksichtigung besonderer Gegebenheiten
-    nicht oder nicht unmittelbar Anwendung finden können, gelten sie für
-    die Deutsche Reichsbahn sinngemäß. Gleiches gilt für sonstige Gesetze
-    und Rechtsverordnungen des Bundes, die besondere Regelungen für die
-    Deutsche Bundesbahn vorsehen.
-
-
-
 

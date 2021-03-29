@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.3.1997 I 734;
 
 Zuletzt geändert durch
-:   Art. 22 G v. 19.12.2008 I 2794
+:   Art. 8 G v. 18.7.2014 I 1042
 
 
 ## § 1 Anspruchsberechtigter
@@ -494,6 +494,14 @@ Rechtsakts angeschafft hat. § 17 in der Fassung des Artikels 6 des
 Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) ist erstmals
 anzuwenden, wenn der Anspruchsberechtigte nach dem 31. Dezember 2003
 einer Genossenschaft beigetreten ist.
+
+(8a) Bei Lebenspartnern ist auf gemeinsamen Antrag die für das
+jeweilige Jahr geltende Fassung des Eigenheimzulagengesetzes mit der
+Maßgabe anzuwenden, dass die für Ehegatten geltenden Regelungen
+sinngemäß anzuwenden sind. Satz 1 ist in allen Fällen anzuwenden, in
+denen die Eigenheimzulage für die begünstigten Objekte entweder noch
+nicht bestandskräftig festgesetzt wurde oder eine Neufestsetzung nach
+§ 11 Absatz 5 zulässig ist.
 
 (9) Dieses Gesetz ist letztmals anzuwenden, wenn der
 Anspruchsberechtigte im Fall der Herstellung vor dem 1. Januar 2006

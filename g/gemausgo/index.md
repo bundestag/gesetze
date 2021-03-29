@@ -10,7 +10,7 @@ slug: gemausgo
 # Geschäftsordnung für den Gemeinsamen Ausschuß (GemAusGO)
 
 Ausfertigungsdatum
-:   1969-07-23
+:   1969-07-02
 
 Fundstelle
 :   BGBl I: 1969, 1102

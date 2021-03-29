@@ -353,7 +353,7 @@ verboten,
     in den vorgeschriebenen Fällen abzugeben;
 
 
-3.  Schweinwerfer außer in notwendigen Fällen zu gebrauchen;
+3.  Scheinwerfer außer in notwendigen Fällen zu gebrauchen;
 
 
 4.  schädliche oder störende Stoffe einzubringen, einzuleiten oder

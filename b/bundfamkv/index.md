@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3694
 
+V aufgeh. durch
+:   Art. 10 G v. 8.12.2016 I 2835 mWv 1.1.2022
+
 
 
 ## Eingangsformel

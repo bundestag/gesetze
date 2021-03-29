@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 3294
 
 Zuletzt geändert durch
-:   Art. 272 V v. 31.10.2006 I 2407
+:   Art. 169 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -117,7 +117,7 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     geschäftsmäßig befördert werden.
 
 
-6.  Marktbeherrschend ist jedes Unternehmen, das nach § 19 des Gesetzes
+6.  Marktbeherrschend ist jedes Unternehmen, das nach § 18 des Gesetzes
     gegen Wettbewerbsbeschränkungen als marktbeherrschend anzusehen ist.
 
 
@@ -227,7 +227,7 @@ Geschäftsanteile der Gesellschaft verfügt, dies der
 Regulierungsbehörde unverzüglich anzuzeigen.
 
 
-### § 8 Lizenzierungskosten
+### § 8 Gebühren und Auslagen für die Lizenzierung
 
 Für die Entscheidung über die Erteilung einer Lizenz und über die
 Zustimmung zur Übertragung einer Lizenz werden Gebühren und Auslagen
@@ -235,11 +235,12 @@ erhoben. Es werden auch dann Gebühren und Auslagen erhoben, wenn ein
 Antrag auf Erteilung einer Lizenz oder auf Zustimmung zur Übertragung
 einer Lizenz nach Beginn der sachlichen Bearbeitung, jedoch vor deren
 Beendigung zurückgenommen wird. Das Bundesministerium für Wirtschaft
-und Technologie wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium des Innern, dem Bundesministerium der Finanzen und
-dem Bundesministerium der Justiz durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, nach Maßgabe des
-Verwaltungskostengesetzes die Höhe der Gebühren zu regeln.
+und Energie wird ermächtigt, im Einvernehmen mit dem Bundesministerium
+des Innern, dem Bundesministerium der Finanzen und dem
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nach Maßgabe des Bundesgebührengesetzes die Höhe der Gebühren zu
+regeln.
 
 
 ### § 9 Widerruf der Lizenz
@@ -480,18 +481,20 @@ Vertragspartner und der sonstigen am Postverkehr Beteiligten
 einschließlich Haftungsregelungen und Bestimmungen zur
 Haftungsbeschränkung festgelegt werden.
 
-(2) Für die außergerichtlichen Streitbeilegungsverfahren nach der
-Verordnung nach Absatz 1 werden Kosten (Gebühren und Auslagen)
-erhoben. Die Gebühr für das Verfahren beträgt 0,1 vom Hundert des
-Wertes der Streitfrage, mindestens jedoch 25 Euro. Auf die Bestimmung
-des Wertes der Streitfrage finden die §§ 3 bis 9 der
-Zivilprozessordnung entsprechende Anwendung. Über die Kosten
-entscheidet die Streitbeilegungsstelle unter Berücksichtigung des
-Sach- und Streitstandes nach billigem Ermessen. Die Kostenentscheidung
-ist in den Streitbeilegungsvorschlag aufzunehmen. Jede Partei trägt
-die ihr durch die Teilnahme am Verfahren entstandenen Kosten selbst.
-Im Übrigen finden die §§ 8 bis 21 des Verwaltungskostengesetzes
-entsprechende Anwendung.
+(2) Für die außergerichtliche Streitbeilegung nach der Verordnung nach
+Absatz 1 werden Gebühren und Auslagen nicht erhoben. Jede Partei trägt
+die ihr durch die Teilnahme am Verfahren entstehenden Kosten selbst.
+Unbeschadet der Regelungen der Verordnung nach Absatz 1 regelt die
+Streitbeilegungsstelle die weiteren Einzelheiten des
+außergerichtlichen Streitbeilegungsverfahrens in einer
+Schlichtungsordnung, die sie veröffentlicht. Die außergerichtliche
+Beilegung von Streitigkeiten zwischen einem Verbraucher und einem
+Postdienstleister muss den Anforderungen des
+Verbraucherstreitbeilegungsgesetzes vom 19. Februar 2016 (BGBl. I S.
+254) entsprechen. Das Bundesministerium für Wirtschaft und Energie
+übermittelt der Zentralen Anlaufstelle für Verbraucherschlichtung die
+Mitteilungen nach § 32 Absatz 3 und 5 des
+Verbraucherstreitbeilegungsgesetzes.
 
 
 ## Abschnitt 5 - Entgeltregulierung
@@ -844,8 +847,9 @@ einschließlich der hoheitlichen Beurkundung und Rücksendung der
 Beurkundungsunterlagen an die auftraggebende Stelle abgegolten. Das
 Entgelt hat den Maßstäben des § 20 Abs. 1 und 2 zu entsprechen. Es
 bedarf der Genehmigung durch die Regulierungsbehörde. Das
-Bundesministerium der Justiz und das Bundesministerium des Innern sind
-unverzüglich über beabsichtigte Entgeltgenehmigungen zu informieren.
+Bundesministerium der Justiz und für Verbraucherschutz und das
+Bundesministerium des Innern sind unverzüglich über beabsichtigte
+Entgeltgenehmigungen zu informieren.
 
 
 ### § 35 Haftung bei der Durchführung der förmlichen Zustellung
@@ -865,9 +869,9 @@ Bereich.
 
 Wer Postdienstleistungen erbringt, ohne einer Lizenz zu bedürfen, hat
 die Aufnahme, Änderung und Beendigung des Betriebs innerhalb eines
-Monats der Regulierungsbehörde schriftlich anzuzeigen. Die
-Regulierungsbehörde kann die eingegangenen Anzeigen in ihrem Amtsblatt
-veröffentlichen.
+Monats der Regulierungsbehörde schriftlich oder elektronisch
+anzuzeigen. Die Regulierungsbehörde kann die eingegangenen Anzeigen in
+ihrem Amtsblatt veröffentlichen.
 
 
 ### § 37 Berichtspflicht
@@ -1063,16 +1067,16 @@ Bundesbeauftragten für den Datenschutz entsprechend den §§ 21 und 24
 bis 26 Abs. 1 bis 4 des Bundesdatenschutzgesetzes. Absatz 1 Satz 3
 gilt entsprechend. Der Bundesbeauftragte für den Datenschutz richtet
 seine Beanstandungen an das Bundesministerium für Wirtschaft und
-Technologie und übermittelt diesem nach pflichtgemäßem Ermessen
-weitere Ergebnisse seiner Kontrolle.
+Energie und übermittelt diesem nach pflichtgemäßem Ermessen weitere
+Ergebnisse seiner Kontrolle.
 
 (4) Durch Auskünfte und Überprüfungen dürfen die Regulierungsbehörde
 nach Absatz 1 und der Bundesbeauftragte für den Datenschutz sowie das
-Bundesministerium für Wirtschaft und Technologie nach Absatz 3
-Kenntnis über die näheren Umstände des Postverkehrs bestimmter
-Personen erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben
-erforderlich ist. Das Postgeheimnis gemäß Artikel 10 des Grundgesetzes
-wird insoweit eingeschränkt.
+Bundesministerium für Wirtschaft und Energie nach Absatz 3 Kenntnis
+über die näheren Umstände des Postverkehrs bestimmter Personen
+erlangen, soweit dies zur Ausübung ihrer Kontrollaufgaben erforderlich
+ist. Das Postgeheimnis gemäß Artikel 10 des Grundgesetzes wird
+insoweit eingeschränkt.
 
 
 ## Abschnitt 10 - Postwertzeichen, Regulierungsbehörde
@@ -1340,7 +1344,7 @@ Exklusivlizenz ausschließlich der Deutschen Post AG zu.
 
 ### § 55 Rechtsverordnung zur Einschränkung des Beförderungsverbots
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, zur
 Durchführung von Marktuntersuchungen und zur Erprobung neuer
 Dienstleistungen das sich aus § 51 ergebende Beförderungsverbot

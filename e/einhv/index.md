@@ -97,8 +97,9 @@ Diese Verordnung tritt am 1. Januar 1986 in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 1)
 
-## Anlage 1 (zu § 1) Gesetzliche Einheiten mit besonderem Namen
+## Anlage 1 Gesetzliche Einheiten mit besonderem Namen
 
 (Fundstelle: BGBl. I 1985, 2273 - 2274;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -585,8 +586,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 1)
 
-## Anlage 2 (zu § 1) Vorsätze und Vorsatzzeichen zur Bezeichnung von dezimalen Vielfachen und Teilen von Einheiten
+## Anlage 2 Vorsätze und Vorsatzzeichen zur Bezeichnung von dezimalen Vielfachen und Teilen von Einheiten
 
 (Fundstelle: BGBl. I 2000, 214)
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 105
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 36 V v. 12.2.2009 I 320
+:   Art. 6 Abs. 1 V v. 12.4.2016
 
 
 ## Eingangsformel
@@ -124,8 +124,9 @@ Selbststudium ist zu fördern.
 
 Einstellungsbehörden sind
 
-1.  für den Geschäftsbereich des Bundesministeriums für Verkehr, Bau- und
-    Wohnungswesen das Bundesamt für Bauwesen und Raumordnung und
+1.  für den Geschäftsbereich des Bundesministeriums für Umwelt,
+    Naturschutz, Bau und Reaktorsicherheit das Bundesamt für Bauwesen und
+    Raumordnung und
 
 
 2.  für den Geschäftsbereich des Bundesministeriums der Verteidigung die
@@ -292,8 +293,9 @@ weitere Unterlagen beizubringen:
     Nachweis der Staatsangehörigkeit,
 
 
-4.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+4.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 5.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
@@ -858,16 +860,16 @@ Teil.
 
 (5) Die Prüfung ist nicht öffentlich. Angehörige des Prüfungsamtes
 können teilnehmen. Das Prüfungsamt kann Vertreterinnen und Vertretern
-des Bundesministeriums für Verkehr, Bau- und Wohnungswesen, des
-Bundesministeriums der Verteidigung und der Einstellungsbehörden, in
-Ausnahmefällen auch anderen mit der Ausbildung befassten Personen, die
-Anwesenheit in der mündlichen Prüfung allgemein oder im Einzelfall
-gestatten. Auf Wunsch von schwerbehinderten Anwärterinnen und
-Anwärtern kann während des sie betreffenden mündlichen Teils der
-Prüfung die Schwerbehindertenvertretung anwesend sein. Bei den
-Beratungen der Prüfungskommission dürfen, mit Ausnahme einer
-Protokollführerin oder eines Protokollführers, nur deren Mitglieder
-anwesend sein.
+des Bundesministeriums für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit, des Bundesministeriums der Verteidigung und der
+Einstellungsbehörden, in Ausnahmefällen auch anderen mit der
+Ausbildung befassten Personen, die Anwesenheit in der mündlichen
+Prüfung allgemein oder im Einzelfall gestatten. Auf Wunsch von
+schwerbehinderten Anwärterinnen und Anwärtern kann während des sie
+betreffenden mündlichen Teils der Prüfung die
+Schwerbehindertenvertretung anwesend sein. Bei den Beratungen der
+Prüfungskommission dürfen, mit Ausnahme einer Protokollführerin oder
+eines Protokollführers, nur deren Mitglieder anwesend sein.
 
 
 ### § 20 Prüfungsort, Prüfungstermin
@@ -922,7 +924,7 @@ Arbeiten sind aus folgenden Aufgabenbereichen auszuwählen:
         einschließlich Kostenermittlung und
 
 
-    b)  Auswahlverfahren nach Verdingungsordnung für freiberufliche Leistungen
+    b)  Auswahlverfahren nach den Abschnitten 5 und 6 der Vergabeverordnung
         (Grundsätzliches) und Entwurf eines Vertrages mit einem freiberuflich
         Tätigen einschließlich Vermerk und Honorarberechnung.
 
@@ -1070,40 +1072,34 @@ aus:
 
     a)  Vertrags- und Verdingungswesen:
 
-        aa) Gesetz gegen Wettbewerbsbeschränkungen, Vergabeordnung:
+        aa) Gesetz gegen Wettbewerbsbeschränkungen, Abschnitt 5 und 6 der
+            Vergabeverordnung:
 
-            -   inhaltlich wichtige Regelungen,
-
-
-            -   Anwendungsbereich, Auswirkungen,
+            aaa) inhaltlich wichtige Regelungen,
 
 
+            bbb) Anwendungsbereich, Auswirkungen,
 
 
-
-        bb) freiberufliche Leistungen im Rahmen der Verdingungsordnung für
-            freiberufliche Leistungen und der Honorarordnung für Architekten und
-            Ingenieure:
-
-            -   Bedeutung der Schwellenwerte,
+            ccc) Bedeutung der Schwellenwerte,
 
 
-            -   Vergabebedingungen,
+            ddd) Vergabebedingungen,
 
 
-            -   Vergabearten,
+            eee) Vergabearten,
 
 
-            -   Vertragsarten,
+            fff) Vertragsarten,
 
 
-            -   Vertragsbedingungen,
+            ggg) Vertragsbedingungen,
 
 
 
 
 
-        cc) Bau- und Lieferleistungen im Rahmen der Vergabe- und Vertragsordnung
+        bb) Bau- und Lieferleistungen im Rahmen der Vergabe- und Vertragsordnung
             für Bauleistungen, der Verdingungsordnung für Leistungen und des
             Vergabehandbuches:
 
@@ -1125,10 +1121,10 @@ aus:
 
 
 
-        dd) Sicherheitsleistungen und
+        cc) Sicherheitsleistungen und
 
 
-        ee) Aufmaßfragen,
+        dd) Aufmaßfragen,
 
 
 

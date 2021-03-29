@@ -18,6 +18,9 @@ Fundstelle
 Zuletzt geändert durch
 :   Art. 1 V v. 4.12.2009 I 3854; 2010 I 940
 
+Änderung durch
+:   Art. 173 G v. 29.3.2017 I 626 (Nr. 16) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -547,10 +550,11 @@ Bestehens der Prüfung anzugeben.
 ### § 22 Nichtbestandene Prüfung
 
 (1) Der Vorsitzende des Prüfungsausschusses erteilt bei
-nichtbestandener Prüfung dem Kandidaten einen schriftlichen Bescheid.
-Darin sind die Fächer anzugeben, in denen nicht mindestens
-ausreichende Leistungen erreicht worden sind. Auf die besonderen
-Bedingungen der Wiederholungsprüfung nach § 23 ist hinzuweisen.
+nichtbestandener Prüfung dem Kandidaten einen schriftlichen oder
+elektronischen Bescheid. Darin sind die Fächer anzugeben, in denen
+nicht mindestens ausreichende Leistungen erreicht worden sind. Auf die
+besonderen Bedingungen der Wiederholungsprüfung nach § 23 ist
+hinzuweisen.
 
 (2) Der Bescheid nach Absatz 1 ist mit einer Rechtsbehelfsbelehrung zu
 versehen.

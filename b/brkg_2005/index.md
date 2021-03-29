@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 1418
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 51 G v. 5.2.2009 I 160
+:   Art. 3 G v. 20.2.2013 I 285
 
 
 ## § 1 Geltungsbereich
@@ -155,10 +155,11 @@ wenn sie
 
 (1) Als Ersatz von Mehraufwendungen für Verpflegung erhalten
 Dienstreisende ein Tagegeld. Die Höhe des Tagegeldes bemisst sich nach
-§ 4 Abs. 5 Satz 1 Nr. 5 Satz 2 des Einkommensteuergesetzes. Besteht
-zwischen der Dienststätte oder der Wohnung und der Stelle, an der das
-Dienstgeschäft erledigt wird, nur eine geringe Entfernung, wird
-Tagegeld nicht gewährt.
+der Verpflegungspauschale zur Abgeltung tatsächlich entstandener,
+beruflich veranlasster Mehraufwendungen im Inland nach dem
+Einkommensteuergesetz. Besteht zwischen der Dienststätte oder der
+Wohnung und der Stelle, an der das Dienstgeschäft erledigt wird, nur
+eine geringe Entfernung, wird Tagegeld nicht gewährt.
 
 (2) Erhalten Dienstreisende ihres Amtes wegen unentgeltlich
 Verpflegung, werden von dem zustehenden Tagegeld für das Frühstück 20

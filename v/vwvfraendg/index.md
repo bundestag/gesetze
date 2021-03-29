@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung verwaltungsverfahrensrechtlicher Vorschriften
 jurabk: VwVfRÄndG
 layout: default
-origslug: vwvfr_ndg
+origslug: vwvfraendg
 slug: vwvfraendg
 
 ---

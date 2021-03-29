@@ -3,7 +3,7 @@ Title: Gesetz über die Überführung der Anteilsrechte an der Volkswagenwerk Ge
   mit beschränkter Haftung in private Hand
 jurabk: VWGmbHÜG
 layout: default
-origslug: vwgmbh_g
+origslug: vwgmbhueg
 slug: vwgmbhueg
 
 ---

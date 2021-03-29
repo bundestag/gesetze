@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Strafgesetzbuches, der Strafprozeßordnung, des 
   der Bundesrechtsanwaltsordnung und des Strafvollzugsgesetzes
 jurabk: StGBuaÄndG
 layout: default
-origslug: stgbua_ndg
+origslug: stgbuaaendg
 slug: stgbuaaendg
 
 ---

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 725, 729
 
-Geändert durch
-:   Art. 2 Abs. 60 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 24 Abs. 26 G v. 23.6.2017 I 1693
 
 
 ## § 1 Enteignung zur Sicherung der Finanzmarktstabilität
@@ -229,7 +229,7 @@ zugelassen, so gilt für die Ermittlung des Verkehrswertes Folgendes:
     Börsenpreis zugrunde zu legen. Der gewichtete durchschnittliche
     inländische Börsenpreis ist der nach Umsätzen gewichtete
     Durchschnittspreis der der Bundesanstalt für
-    Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 9 des
+    Finanzdienstleistungsaufsicht (Bundesanstalt) nach § 22 des
     Wertpapierhandelsgesetzes als börslich gemeldeten Geschäfte. Die
     Bundesanstalt übermittelt der Enteignungsbehörde den
     Durchschnittspreis unverzüglich nach der Eröffnungsentscheidung.

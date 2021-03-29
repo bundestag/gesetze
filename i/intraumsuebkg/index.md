@@ -5,7 +5,7 @@ Title: Gesetz zu dem Übereinkommen vom 29. Januar 1998 zwischen der Regierung K
   Staaten von Amerika über Zusammenarbeit bei der zivilen internationalen Raumstation
 jurabk: IntRaumsÜbkG
 layout: default
-origslug: intraums_bkg
+origslug: intraumsuebkg
 slug: intraumsuebkg
 
 ---

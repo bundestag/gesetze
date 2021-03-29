@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 18. Oktober 1969 zur Errichtung der Kari
   Entwicklungsbank
 jurabk: KaEntwBkÜbkG
 layout: default
-origslug: kaentwbk_bkg
+origslug: kaentwbkuebkg
 slug: kaentwbkuebkg
 
 ---

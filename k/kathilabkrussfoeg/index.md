@@ -4,7 +4,7 @@ Title: Gesetz zu dem Abkommen vom 16. Dezember 1992 zwischen der Regierung der B
   bei Katastrophen oder schweren Unglücksfällen
 jurabk: KatHiLAbkRussFöG
 layout: default
-origslug: kathilabkrussf_g
+origslug: kathilabkrussfoeg
 slug: kathilabkrussfoeg
 
 ---

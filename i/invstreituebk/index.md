@@ -3,7 +3,7 @@ Title: Übereinkommen zur Beilegung von Investitionsstreitigkeiten zwischen Staa
   und Angehörigen anderer Staaten
 jurabk: InvStreitÜbk
 layout: default
-origslug: invstreit_bk
+origslug: invstreituebk
 slug: invstreituebk
 
 ---

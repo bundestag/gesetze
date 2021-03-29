@@ -658,8 +658,9 @@ Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Verfahrensmechaniker/zur Verfahrensmechanikerin in der Steine- und Erdenindustrie
 
 (Fundstelle: BGBl. I 2004, 184 - 198)
 

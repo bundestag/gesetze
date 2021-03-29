@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für die
+Title: Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für  die
   Abfrage des Europol-Informationssystems
 jurabk: Europol-AbfrageV
 layout: default
@@ -8,7 +8,7 @@ slug: europol-abfragev
 
 ---
 
-# Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für die Abfrage des Europol-Informationssystems (Europol-AbfrageV)
+# Verordnung zur innerstaatlichen Bestimmung der zuständigen Behörden für  die Abfrage des Europol-Informationssystems (Europol-AbfrageV)
 
 Ausfertigungsdatum
 :   2007-05-22

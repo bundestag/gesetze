@@ -16,7 +16,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2920
 
-Stand: Diese V tritt gem. § 10 am 31.12.2015 außer Kraft
+Stand: Diese V tritt gem. § 10 idF d. Art. 45 Nr. 2 V v. 26.3.2014 I 274 am 31.12.2018 außer Kraft
+Geändert durch
+:   Art. 45 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -410,9 +413,8 @@ o)  Einleiten von Maßnahmen der Schadensabwicklung.
 
 
 Zum Nachweis der Befähigungen sollen in 180
-bis 240 Minuten              Dokumente, die der beruflichen Praxis bei
-der technischen Leitung von Veranstaltungen entsprechen, erstellt
-werden.
+bis 240 Minuten Dokumente, die der beruflichen Praxis bei der
+technischen Leitung von Veranstaltungen entsprechen, erstellt werden.
 
 (5) Im Handlungsbereich „Sicherheitsmanagement“ soll die Fähigkeit
 nachgewiesen werden, unter Berücksichtigung der künstlerischen oder
@@ -455,11 +457,11 @@ h)  Durchsetzen von vorbeugenden Maßnahmen gegen Gefahren, insbesondere zu
 
 
 Zum Nachweis der Befähigungen sollen in 180
-bis 240 Minuten              Dokumente, die der beruflichen Praxis
-entsprechen, erstellt werden; zusätzlich soll das Spannungsverhältnis
-zwischen Intentionen der Auftraggeber und der Sicherheit in einem
-Fachgespräch von zehn
-bis 20 Minuten              reflektiert werden.
+bis 240 Minuten Dokumente, die der beruflichen Praxis entsprechen,
+erstellt werden; zusätzlich soll das Spannungsverhältnis zwischen
+Intentionen der Auftraggeber und der Sicherheit in einem Fachgespräch
+von zehn
+bis 20 Minuten reflektiert werden.
 
 (6) Wurde in einer der Prüfungen nach Absatz 3 (Handlungsbereich
 „Veranstaltungsplanung“) und nach Absatz 4 (Handlungsbereich
@@ -602,19 +604,21 @@ werden. In diesem Fall gilt das Ergebnis der letzten Prüfung.
 ## § 9 Anwendungsregelung
 
 Für Fortbildungsprüfungsverfahren, die bis zum Ablauf des 31. Dezember
-2015 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
-Ablauf des 31. Dezember 2017 weiter anzuwenden.
+2018 begonnen werden, sind die Vorschriften dieser Verordnung bis zum
+Ablauf des 31. Dezember 2020 weiter anzuwenden.
 
 
 ## § 10 Inkrafttreten, Außerkrafttreten
 
 Diese Verordnung tritt am 1. September 2009 in Kraft und am 31.
-Dezember 2015 außer Kraft.
+Dezember 2018 außer Kraft.
 
+(zu § 6 Absatz 4)
 
-## Anlage 1 (zu § 6 Absatz 4) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. 2009, 2925)
+(Fundstelle: BGBl. 2009, 2925;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   ...........................
         (Bezeichnung der zuständigen Stelle)
@@ -647,7 +651,8 @@ Veranstaltungstechnik
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Meister für
 Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
-21\. August 2009 (BGBl. I S. 2920)
+21\. August 2009 (BGBl. I S. 2920), die durch Artikel 45 der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 
 
 *    *   bestanden.
@@ -666,6 +671,10 @@ Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum ...........................
 
@@ -677,10 +686,12 @@ Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
 
 
 
+(zu § 6 Absatz 4)
 
-## Anlage 2 (zu § 6 Absatz 4) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. 2009, 2926)
+(Fundstelle: BGBl. 2009, 2926;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   ...........................
         (Bezeichnung der zuständigen Stelle)
@@ -714,14 +725,16 @@ Veranstaltungstechnik
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Meister für
 Veranstaltungstechnik/Geprüfte Meisterin für Veranstaltungstechnik vom
-21\. August 2009 (BGBl. I S. 2920) mit folgenden Ergebnissen bestanden:
+21\. August 2009 (BGBl. I S. 2920), die durch Artikel 45 der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
+Ergebnissen bestanden:
 
 
 *    *
     *   Punkte
 
     *
-    *[^f772428_01_BJNR292000009BJNE001300000]
+    *[^f772428_01_BJNR292000009BJNE001301377]
    Note
 
 
@@ -787,6 +800,10 @@ Eignung durch die Prüfung am ........................... in
 ...........................
 vor ........................... erbracht.
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum ...........................
 
@@ -800,4 +817,4 @@ vor ........................... erbracht.
 
     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     ...........................
-[^f772428_01_BJNR292000009BJNE001300000]: 
+[^f772428_01_BJNR292000009BJNE001301377]: 

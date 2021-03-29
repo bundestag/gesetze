@@ -177,8 +177,7 @@ knappschaftlichen Rentenversicherung gewährt wird, werden die vom
 Inkrafttreten dieses Abschnitts bis zur Zustellung des Rentenbescheids
 entrichteten Beiträge zurückgezahlt, wenn sie nach § 165 Abs. 1 Nr. 3
 oder 4 der Reichsversicherungsordnung oder nach § 5 dieses Gesetzes
-oder nach § 16 Abs. 1 des Saarknappschaftsgesetzes
-versichert sind.
+oder nach § 16 Abs. 1 des Saarknappschaftsgesetzes versichert sind.
 
 
 #### § 9

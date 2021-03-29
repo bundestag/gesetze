@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1971, 157
 
 Zuletzt geändert durch
-:   Art. 22 G v. 8.12.2010 I 1864
+:   Art. 6 Abs. 19 G v. 13.4.2017 I 872
 
 
 ## Eingangsformel
@@ -60,10 +60,9 @@ Hauptverfahrens gegen ihn ablehnt.
     116 der Strafprozeßordnung),
 
 
-4.  die Sicherstellung, die Beschlagnahme, der Arrest nach den §§ 111d und
-    111o der Strafprozeßordnung sowie die Vermögensbeschlagnahme nach §
-    111p der Strafprozeßordnung und die Durchsuchung, soweit die
-    Entschädigung nicht in anderen Gesetzen geregelt ist,
+4.  die Sicherstellung, die Beschlagnahme, der Vermögensarrest nach § 111e
+    der Strafprozeßordnung und die Durchsuchung, soweit die Entschädigung
+    nicht in anderen Gesetzen geregelt ist,
 
 
 5.  die vorläufige Entziehung der Fahrerlaubnis,
@@ -133,12 +132,8 @@ wird.
     vorlagen,
 
 
-4.  für die Beschlagnahme und den Arrest (§§ 111b bis 111d der
-    Strafprozeßordnung), wenn der Verfall oder die Einziehung einer Sache
-    angeordnet oder von einer solchen Anordnung nur deshalb abgesehen
-    worden ist, weil durch den Verfall die Erfüllung eines Anspruchs
-    beseitigt oder gemindert worden wäre, der dem Verletzten aus der Tat
-    erwachsen ist.
+4.  für die Beschlagnahme und den Vermögensarrest (§§ 111b bis 111h der
+    Strafprozeßordnung), wenn die Einziehung einer Sache angeordnet ist.
 
 
 

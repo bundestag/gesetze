@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze 150 Jahre Eisenbahn in Deutschland)
 jurabk: Münz5DMBek 1985-10
 layout: default
-origslug: m_nz5dmbek_1985-10
+origslug: muenz5dmbek_1985-10
 slug: muenz5dmbek_1985-10
 
 ---

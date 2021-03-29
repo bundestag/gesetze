@@ -1342,8 +1342,9 @@ Stimmabgabe anordnen.
 hat der Wahlvorstand den wahlberechtigten Beschäftigten die in § 17
 Abs. 1 bezeichneten Unterlagen zu übersenden.
 
+Vertrauensmann der Ortskräfte
 
-### § 51 Vertrauensmann der Ortskräfte (§ 91 Abs. 2 des Gesetzes)
+### § 51 (§ 91 Abs. 2 des Gesetzes)
 
 (1) Der Personalrat bestellt spätestens drei Wochen vor dem Ablauf der
 Amtszeit des Vertrauensmannes der Ortskräfte drei Ortskräfte als

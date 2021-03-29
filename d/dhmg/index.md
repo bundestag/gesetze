@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2891
 
-Geändert durch
-:   Art. 1 G v. 14.6.2010 I 784
+Zuletzt geändert durch
+:   Art. 79 G v. 29.3.2017 I 626
 
 
 ## Abschnitt 1 - Stiftung „Deutsches Historisches Museum“
@@ -193,7 +193,8 @@ Museum-GmbH.
 
 (2) Die Präsidentin oder der Präsident hat dem Kuratorium entsprechend
 § 90 des Aktiengesetzes zu berichten. Die in § 90 Abs. 1 Satz 1 des
-Aktiengesetzes genannten Berichte sind schriftlich zu erstatten.
+Aktiengesetzes genannten Berichte sind schriftlich oder elektronisch
+zu erstatten.
 
 (3) Die Präsidentin oder der Präsident führt die Geschäfte der
 Stiftung, vollzieht die Beschlüsse des Kuratoriums, entscheidet in

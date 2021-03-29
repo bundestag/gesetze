@@ -4,7 +4,7 @@ Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektionen Berlin
   Münster, Rostock, Saarbrücken und Stuttgart
 jurabk: OFDAufgÜbertrV
 layout: default
-origslug: ofdaufg_bertrv
+origslug: ofdaufguebertrv
 slug: ofdaufguebertrv
 
 ---

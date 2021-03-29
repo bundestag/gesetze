@@ -2,7 +2,7 @@
 Title: Fünftes Gesetz zur Änderung und Ergänzung des Hypothekenbankgesetzes
 jurabk: HypBkGÄndG 5
 layout: default
-origslug: hypbkg_ndg_5
+origslug: hypbkgaendg_5
 slug: hypbkgaendg_5
 
 ---
@@ -62,6 +62,6 @@ Für die Münchener Hypothekenbank eG gelten folgende Vorschriften:
 ## Art VI
 
 Dieses Gesetz tritt mit Wirkung vom 1. Januar 1963 in Kraft,
-Artikel I Nr. 28 bis 31              jedoch erst am Tage nach der
-Verkündung des Gesetzes.
+Artikel I Nr. 28 bis 31 jedoch erst am Tage nach der Verkündung des
+Gesetzes.
 

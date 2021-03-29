@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Haftung gegenüber Dritten auf dem Gebiet der Kernenergie
 jurabk: AtHaftÜbk
 layout: default
-origslug: athaft_bk
+origslug: athaftuebk
 slug: athaftuebk
 
 ---

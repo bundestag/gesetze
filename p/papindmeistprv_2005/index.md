@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2501
 
-Geändert durch
-:   Art. 26 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 33 V v. 26.3.2014 I 274
 
 
 
@@ -952,10 +952,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Papiererzeugung
-vom 22. August 2005 (BGBl. I S. 2501), die durch Artikel 26 der
-Verordnung
-vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist,
+vom 22. August 2005 (BGBl. I S. 2501), die zuletzt durch Artikel 33
+der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .......................................
 Unterschrift ................................
 (Siegel der zuständigen Stelle)
@@ -988,10 +992,9 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Industriemeister/Geprüfte Industriemeisterin - Fachrichtung
 Papiererzeugung
-vom 22. August 2005 (BGBl. I S. 2501), die durch Artikel 26 der
-Verordnung
-vom 25. August 2009 (BGBl. I S. 2960) geändert worden ist, mit
-folgenden
+vom 22. August 2005 (BGBl. I S. 2501), die zuletzt durch Artikel 33
+der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
 Ergebnissen 1) bestanden:
 -----
 1) Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
@@ -1037,9 +1040,13 @@ Kenntnisse
 durch die Prüfung am .................. in
 .............................
 vor ............. erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .......................................
 Unterschrift ................................
-(Siegel der zuständigen Stelle)             -----
+(Siegel der zuständigen Stelle)-----
 
 1)  Bei der Ermittlung der Punktzahl sind die Punktebewertungen wie folgt
     zu gewichten: schriftliche Präsentationsunterlagen 30 Prozent,

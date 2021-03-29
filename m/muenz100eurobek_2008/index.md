@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze „UNESCO Welterbe Altstadt Goslar – Bergwerk Rammelsberg“)
 jurabk: Münz100EuroBek 2008
 layout: default
-origslug: m_nz100eurobek_2008
+origslug: muenz100eurobek_2008
 slug: muenz100eurobek_2008
 
 ---

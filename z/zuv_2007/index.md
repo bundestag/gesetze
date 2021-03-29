@@ -1155,8 +1155,9 @@ zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010 (BGBl. I S.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 4 Abs. 3)
 
-### Anhang 1 (zu § 4 Abs. 3) Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
+### Anhang 1 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
 
 Fundstelle des (Originaltextes: BGBl. I 2004, 2264)
 Formel
@@ -1167,8 +1168,9 @@ EF        heizwertbezogener CO(tief)2-Emissionsfaktor in t
 CO(tief)2/GJ
 H(tief)u  unterer Heizwert des Brennstoffs in GJ/t
 
+(zu § 6 Abs. 3)
 
-### Anhang 2 (zu § 6 Abs. 3) Berechnung der prozessbedingten Kohlendioxid-Emissionen für den Hochofenprozess
+### Anhang 2 Berechnung der prozessbedingten Kohlendioxid-Emissionen für den Hochofenprozess
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2264
 Formel 1
@@ -1195,8 +1197,9 @@ Rohstoffeinsatz (Kalkstein, Dolomit) in t
 G(tief)ges       gesamter Gichtgasanfall
 G(tief)abg       Abgabe von Gichtgas an Anlagen Dritter
 
+(zu § 6 Abs. 4)
 
-### Anhang 3 (zu § 6 Abs. 4) Berechnung der prozessbedingten Kohlendioxid-Emissionen für Oxygenstahlwerke
+### Anhang 3 Berechnung der prozessbedingten Kohlendioxid-Emissionen für Oxygenstahlwerke
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2265
 Formel 1
@@ -1231,8 +1234,9 @@ Rohstoffeinsatz in t
 G(tief)ges       gesamter Konvertergasanfall
 G(tief)abg       Abgabe von Konvertergas an Anlagen Dritter
 
+(zu § 6 Abs. 5)
 
-### Anhang 4 (zu § 6 Abs. 5) Berechnung der prozessbedingten Kohlendioxid-Emissionen für Anlagen, die Kuppelgase aus Hochofenanlagen und Oxygenstahlwerken nutzen
+### Anhang 4 Berechnung der prozessbedingten Kohlendioxid-Emissionen für Anlagen, die Kuppelgase aus Hochofenanlagen und Oxygenstahlwerken nutzen
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2266
 Formel
@@ -1268,8 +1272,9 @@ G(tief)KonvG;abg  Abgabe von Konvertergas an die jeweilige Drittanlage
 G(tief)GichtG;ges  gesamter Gichtgasanfall im Hochofen
 G(tief)GichtG;abg  Abgabe von Gichtgas an die jeweilige Drittanlage
 
+(zu § 6 Abs. 6)
 
-### Anhang 5 (zu § 6 Abs. 6) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren in Erdölraffinerien
+### Anhang 5 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren in Erdölraffinerien
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2267
 Formel 1
@@ -1327,8 +1332,9 @@ in Vol-%
 c(tief)O2       gemessener Sauerstoffgehalt des trockenen Abgases in
 Vol-%
 
+(zu § 6 Abs. 7)
 
-### Anhang 6 (zu § 6 Abs. 7) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Kalzinierung von Petrolkoks in Erdölraffinerien
+### Anhang 6 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Kalzinierung von Petrolkoks in Erdölraffinerien
 
 (Fundstelle: BGBl. I 2004, 2268)
 
@@ -1385,8 +1391,9 @@ Vol-%
 
 
 
+(zu § 6 Abs. 8)
 
-### Anhang 7 (zu § 6 Abs. 8) Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Wasserstoffherstellung in Erdölraffinerien
+### Anhang 7 Ermittlung der prozessbedingten Kohlendioxid-Emissionen aus der Wasserstoffherstellung in Erdölraffinerien
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2268
 Formel 1
@@ -1410,8 +1417,9 @@ H(tief)in;H2O    Input an Wasserstoff im Wasserdampf in kmol
 k(tief)C/H       Kohlenstoff-Wasserstoff-Verhältnis der eingesetzten
 Kohlenwasserstoffe insgesamt in mol/mol
 
+(zu § 10)
 
-### Anhang 8 (zu § 10) Emissionshochrechnung ohne zusätzliche Einflüsse
+### Anhang 8 Emissionshochrechnung ohne zusätzliche Einflüsse
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 2269 - 2270)
 
@@ -1605,8 +1613,9 @@ Behörde auf ihrer Internetseite zur Verfügung gestellt wird.
 
 
 
+(zu § 13 Abs. 6)
 
-### Anhang 9 (zu § 13 Abs. 6) Berechnung der relativen Emissionsminderung bei Kraft-Wärme-Kopplungsanlagen
+### Anhang 9 Berechnung der relativen Emissionsminderung bei Kraft-Wärme-Kopplungsanlagen
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2271 - 2272
 

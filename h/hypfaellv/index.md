@@ -2,7 +2,7 @@
 Title: Verordnung zur Regelung der Fälligkeit alter Hypotheken
 jurabk: HypFällV
 layout: default
-origslug: hypf_llv
+origslug: hypfaellv
 slug: hypfaellv
 
 ---

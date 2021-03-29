@@ -94,8 +94,8 @@ Beitragsbemessungsgrundlage gilt Absatz 5 Satz 3 entsprechend.
 ### § 2 Versetzung in den Ruhestand vor Erreichen der Altersgrenze
 
 (1) Bis zum 31. Dezember 2017 können bis zu
-2 170 Berufssoldatinnen              und Berufssoldaten mit ihrer
-Zustimmung in den Ruhestand versetzt werden, wenn
+2 170 Berufssoldatinnen und Berufssoldaten mit ihrer Zustimmung in den
+Ruhestand versetzt werden, wenn
 
 1.  dies zur Verringerung der Zahl der Soldatinnen und Soldaten
     erforderlich ist,

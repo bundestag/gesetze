@@ -2,7 +2,7 @@
 Title: Gesetz über die Wahl des Bundespräsidenten durch die Bundesversammlung
 jurabk: BPräsWahlG
 layout: default
-origslug: bpr_swahlg
+origslug: bpraeswahlg
 slug: bpraeswahlg
 
 ---
@@ -43,15 +43,15 @@ Bundesgesetzblatt bekannt.
 
 (2) Die Landtage haben die Wahl unverzüglich vorzunehmen. Besteht am
 Tage der Bekanntmachung nach Absatz 1 Satz
-3              kein Landtag oder hat ein Landtag vor Ablauf seiner
-Wahlperiode die Wahl nicht mehr vorgenommen, so wählt der neue Landtag
-die Mitglieder. Kann der neue Landtag die Wahl nicht mehr rechtzeitig
-vornehmen, so tritt an seine Stelle der Ausschuß, der verfassungsgemäß
-die Rechte des Landtages gegenüber der Regierung bis zum Zusammentritt
-des neuen Landtages wahrnimmt, oder ein vom Landtag für die Wahl der
-Mitglieder der Bundesversammlung gebildeter Ausschuß. Kommt eine
-rechtzeitige Wahl nicht zustande, so bleiben die auf das Land
-entfallenden Sitze unbesetzt.
+3 kein Landtag oder hat ein Landtag vor Ablauf seiner Wahlperiode die
+Wahl nicht mehr vorgenommen, so wählt der neue Landtag die Mitglieder.
+Kann der neue Landtag die Wahl nicht mehr rechtzeitig vornehmen, so
+tritt an seine Stelle der Ausschuß, der verfassungsgemäß die Rechte
+des Landtages gegenüber der Regierung bis zum Zusammentritt des neuen
+Landtages wahrnimmt, oder ein vom Landtag für die Wahl der Mitglieder
+der Bundesversammlung gebildeter Ausschuß. Kommt eine rechtzeitige
+Wahl nicht zustande, so bleiben die auf das Land entfallenden Sitze
+unbesetzt.
 
 
 ### § 3

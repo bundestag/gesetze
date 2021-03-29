@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 860
 
 Zuletzt geändert durch
-:   Art. 6 V v. 8.3.2012 I 483
+:   Art. 58 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -38,9 +38,10 @@ Das Seeamt Kiel ist zuständig im Sinne des § 43 des Seesicherheits-
 Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der
 Wasser- und Schifffahrtsdirektion Nord oder vom oder im Land
 Schleswig-Holstein erteilt worden ist oder wenn in besonderem Maße die
-Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
-Schifffahrtsämter Lübeck, Kiel-Holtenau, Brunsbüttel oder Tönning oder
-in den angrenzenden Häfen berührt ist.
+Sicherheit der Seefahrt im Zuständigkeitsbereich der der vom
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und
+Schifffahrtsämter berührt ist.
 
 
 ### § 2 Zuständigkeit des Seeamtes Hamburg
@@ -48,9 +49,10 @@ in den angrenzenden Häfen berührt ist.
 Das Seeamt Hamburg ist zuständig im Sinne des § 43 des Seesicherheits-
 Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder
 im Land Hamburg erteilt worden ist oder wenn in besonderem Maße die
-Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
-Schifffahrtsämter Hamburg oder Cuxhaven oder in den angrenzenden Häfen
-berührt ist.
+Sicherheit der Seefahrt im Zuständigkeitsbereich der vom
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und
+Schifffahrtsämter berührt ist.
 
 
 ### § 3 Zuständigkeit des Seeamtes Bremerhaven
@@ -59,8 +61,9 @@ Das Seeamt Bremerhaven ist zuständig im Sinne des § 43 des
 Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder
 Befugnis vom oder im Land Bremen erteilt worden ist oder wenn in
 besonderem Maße die Sicherheit der Seefahrt im Zuständigkeitsbereich
-der Wasser- und Schifffahrtsämter Bremen oder Bremerhaven oder in den
-angrenzenden Häfen berührt ist.
+der vom Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und
+Schifffahrtsämter berührt ist.
 
 
 ### § 4 Zuständigkeit des Seeamtes Emden
@@ -69,9 +72,10 @@ Das Seeamt Emden ist zuständig im Sinne des § 43 des Seesicherheits-
 Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der
 Wasser- und Schifffahrtsdirektion Nordwest oder vom oder im Land
 Niedersachsen erteilt worden ist oder wenn in besonderem Maße die
-Sicherheit der Seefahrt im Zuständigkeitsbereich der Wasser- und
-Schifffahrtsämter Emden oder Wilhelmshaven oder in den angrenzenden
-Häfen berührt ist.
+Sicherheit der Seefahrt im Zuständigkeitsbereich der der vom
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstraßen- und
+Schifffahrtsämter berührt ist.
 
 
 ### § 4a Zuständigkeit des Seeamtes Rostock
@@ -81,8 +85,9 @@ Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder
 im Land Mecklenburg-Vorpommern oder von einer Dienststelle der
 ehemaligen Deutschen Demokratischen Republik erteilt worden ist oder
 wenn in besonderem Maße die Sicherheit der Seefahrt im
-Zuständigkeitsbereich des Wasser- und Schifffahrtsamts Stralsund oder
-in den angrenzenden Häfen berührt ist.
+Zuständigkeitsbereich des vom Bundesministerium für Verkehr und
+digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger
+bekanntgemachten Wasserstraßen- und Schifffahrtsamtes berührt ist.
 
 
 ### § 4b Mehrere Zuständigkeiten
@@ -121,17 +126,18 @@ Personengruppen auszuwählen:
     und der Wasserschutzpolizei,
 
 
--   Bedienstete der Wasser- und Schiffahrtsverwaltung des Bundes und der
-    Länder mit besonderen Fachkenntnissen insbesondere auf den Gebieten
-    des Wasserbaus und der Seezeichen-Technik sowie des Hafenbetriebes,
+-   Bedienstete der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+    und der Länder mit besonderen Fachkenntnissen insbesondere auf den
+    Gebieten des Wasserbaus und der Seezeichen-Technik sowie des
+    Hafenbetriebes,
 
 
 -   Bedienstete des Bundesamtes für Seeschifffahrt und Hydrographie,
 
 
 -   Technische Aufsichtsbeamte und ihnen fachlich gleichgestellte
-    Bedienstete der Berufsgenossenschaft für Transport und
-    Verkehrswirtschaft,
+    Bedienstete der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+    Telekommunikation,
 
 
 -   Bedienstete der Arbeitsschutzbehörden (§ 102 Seemannsgesetz),
@@ -190,15 +196,11 @@ sind zu bezeichnen. Die Stelle, die den Beisitzer benannt hat, ist
 anzugeben.
 
 
-## Abschnitt 3 - Kosten der Seeunfalluntersuchung
+## Abschnitt 3 - (weggefallen)
 
 
 
-### § 7 Gebühren
-
-Die Seeämter erheben für Amtshandlungen auf dem Gebiet der
-Untersuchung von Seeunfällen Gebühren nach der Anlage zu dieser
-Verordnung.
+### § 7 (weggefallen)
 
 
 ## Abschnitt 4 - Schlußvorschriften
@@ -215,50 +217,11 @@ Verordnung.
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 
-### Anlage (zu § 7) Gebührenverzeichnis
+### Anlage (weggefallen)
 
-(Fundstelle: BGBl. I 2002, 1827;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-
-*    *   Nr.
-
-    *   Gebührentatbestand/Rechtsgrundlage
-
-    *   Gebühr Euro
-
-
-*    *   1
-
-    *   Entzug einer Berechtigung im Sinne des § 39 Nummer 1 SUG oder
-        Untersagung der Ausübung von Befugnissen hieraus (§ 50 Absatz 1, 2 und
-        4 SUG)
-
-    *   250
-
-
-*    *   2
-
-    *   Entzug einer Fahrerlaubnis für Sportboote Sportboote oder sonstige
-        Fahrzeuge im Sinne des § 39 Nummer 2 SUG oder Untersagung der Ausübung
-        von Befugnissen hieraus (§ 50 Absatz 1, 2 und 4 SUG)
-
-    *   200
-
-
-*    *   3
-
-    *   Erfolgloser Widerspruch gegen die Anordnung der Herausgabe von für die
-        Untersuchung erheblichen Unterlagen und Gegenständen (§ 47 Absatz 1
-        Satz 2 SUG)
-
-    *   75
-
-
-
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1107)
+### Anhang EV (BGBl. II 1990, 889, 1107)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertra
   Landesgrenze
 jurabk: GrÄndStVtrBB/SNBek
 layout: default
-origslug: gr_ndstvtrbb_snbek
+origslug: graendstvtrbb_snbek
 slug: graendstvtrbb_snbek
 
 ---

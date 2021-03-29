@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3962
 
+Zuletzt geändert durch
+:   Art. 1 V v. 3.11.2017 I 3732
+
 
 ## Eingangsformel
 
@@ -47,6 +50,9 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
     Informationstechnik;
 
 
+1a. Bundesministerium der Finanzen im Bereich des Finanzmarktes;
+
+
 2.  Bundesministerium für Arbeit und Soziales oder der von ihm benannten
     Behörden in den Bereichen Arbeit und Soziales; hierzu gehört
     insbesondere der Bereich
@@ -69,15 +75,16 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
 
 
-3.  Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-    oder der von ihm benannten Behörde in den Bereichen Ernährung,
-    Landwirtschaft und Verbraucherschutz einschließlich
-    Lebensmittelsicherheit; hierzu gehört insbesondere der Bereich der
+3.  Bundesministerium für Ernährung und Landwirtschaft oder der von ihm
+    benannten Behörde in den Bereichen Ernährung, Landwirtschaft und
+    Verbraucherschutz einschließlich Lebensmittelsicherheit; hierzu gehört
+    insbesondere der Bereich der
 
     a)  Futter- und Lebensmittel,
 
 
-    b)  kosmetische Mittel, Bedarfsgegenstände und Tabakprodukte sowie
+    b)  kosmetische Mittel, Bedarfsgegenstände und Erzeugnisse im Sinne von §
+        2 Nummer 1 des Tabakerzeugnisgesetzes sowie
 
 
     c)  Erzeugnisse im Sinne des Artikels 1 der Verordnung (EG) Nr. 1234/2007
@@ -109,7 +116,7 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
 
 
-5.  Bundesministerium für Verkehr, Bau und Stadtentwicklung bei
+5.  Bundesministerium für Verkehr und digitale Infrastruktur bei
     Bauprodukten sowie im Bereich Verkehr; hierzu gehört insbesondere der
     Bereich
 
@@ -128,8 +135,8 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
 
 
-6.  Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit oder
-    der von ihm benannten Behörde im Bereich des Umweltrechts; hierzu
+6.  Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+    oder der von ihm benannten Behörde im Bereich des Umweltrechts; hierzu
     gehört insbesondere der Bereich
 
     a)  des Immissionsschutzes,
@@ -147,13 +154,13 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
     e)  der Chemikaliensicherheit und
 
 
-    f)  des Umwelt- und Energiemanagements;
+    f)  des Umweltmanagements;
 
 
 
 
 
-7.  Bundesministerium für Wirtschaft und Technologie im Bereich
+7.  Bundesministerium für Wirtschaft und Energie im Bereich
 
     a)  der elektronischen Signaturen,
 
@@ -176,13 +183,13 @@ Die Aufsicht über die Akkreditierungsstelle wird ausgeübt vom
 
 Soweit ein Bereich nicht dem Satz 1 Nummer 1 bis 7 unterfällt, wird
 die Aufsicht über die Akkreditierungsstelle vom Bundesministerium für
-Wirtschaft und Technologie ausgeübt.
+Wirtschaft und Energie ausgeübt.
 
 
 ## § 3 Berichtspflichten der Akkreditierungsstelle
 
 Die Akkreditierungsstelle hat dem Bundesministerium für Wirtschaft und
-Technologie und nachrichtlich den in § 2 genannten weiteren
+Energie und nachrichtlich den in § 2 genannten weiteren
 Bundesministerien jährlich zum 1. April einen Bericht vorzulegen, in
 dem konkret und substantiiert nachzuweisen ist, dass sie:
 
@@ -218,7 +225,7 @@ dem konkret und substantiiert nachzuweisen ist, dass sie:
 ## § 4 Öffentlich-rechtlicher Vertrag
 
 Die Deutsche Akkreditierungsstelle GmbH und das Bundesministerium für
-Wirtschaft und Technologie vereinbaren in einem öffentlich-rechtlichen
+Wirtschaft und Energie vereinbaren in einem öffentlich-rechtlichen
 Vertrag, wie die nach dieser Verordnung übertragenen Aufgaben im
 Einzelnen auszuführen sind. Dabei ist in den in § 1 Absatz 2 Satz 2
 des Akkreditierungsstellengesetzes genannten Bereichen die
@@ -242,10 +249,10 @@ einzuholen.
 
 (3) Bei der Interessenwahrnehmung durch die Akkreditierungsstelle auf
 europäischer Ebene nach Absatz 1 kann das Bundesministerium für
-Wirtschaft und Technologie der Akkreditierungsstelle im Einzelfall
+Wirtschaft und Energie der Akkreditierungsstelle im Einzelfall
 Weisungen erteilen. Soweit die Belange einzelner Fachressorts
 betroffen sind, hat sich das Bundesministerium für Wirtschaft und
-Technologie mit den betroffenen Fachressorts abzustimmen.
+Energie mit den betroffenen Fachressorts abzustimmen.
 
 
 ## § 6 Inkrafttreten

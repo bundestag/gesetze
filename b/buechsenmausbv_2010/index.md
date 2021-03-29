@@ -2,7 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 jurabk: BüchsenmAusbV 2010
 layout: default
-origslug: b_chsenmausbv_2010
+origslug: buechsenmausbv_2010
 slug: buechsenmausbv_2010
 
 ---
@@ -484,8 +484,9 @@ Diese Verordnung tritt am 1. August 2010 in Kraft. Gleichzeitig tritt
 die Büchsenmacher-Ausbildungsverordnung vom 6. April 1989 (BGBl. I S.
 682) außer Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Büchsenmacher und zur Büchsenmacherin
 
 (Fundstelle: BGBl. I 2010, 680 - 686)
 

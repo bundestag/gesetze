@@ -21,6 +21,9 @@ Neugefasst durch
 Geändert durch
 :   Art. 54 G v. 19.6.2001 I 1046
 
+Änderung durch
+:   Art. 19 Abs. 21 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Erster Teil - Wahl der Schwerbehindertenvertretung in Betrieben und Dienststellen
 
@@ -44,7 +47,7 @@ schwerbehinderten und diesen gleichgestellten behinderten Menschen
 (Wahlberechtigte) gewählt. Zu dieser Versammlung können drei
 Wahlberechtigte oder der Betriebs- oder Personalrat einladen. Das
 Recht des Integrationsamtes, zu einer solchen Versammlung einzuladen
-(§ 94 Abs. 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
+(§ 177 Absatz 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
 unberührt.
 
 
@@ -595,7 +598,7 @@ zustande, entscheidet das Los.
 
 (3) Sofern rechtzeitig vor Ablauf der Amtszeit der Konzern-, Gesamt-,
 Bezirks- oder Hauptschwerbehindertenvertretung eine Versammlung nach §
-97 Abs. 8 des Neunten Buches Sozialgesetzbuch stattfindet, kann die
+180 Absatz 8 des Neunten Buches Sozialgesetzbuch stattfindet, kann die
 Wahl abweichend von Absatz 1 im Rahmen dieser Versammlung durchgeführt
 werden. § 20 findet entsprechende Anwendung.
 
@@ -608,9 +611,9 @@ werden. § 20 findet entsprechende Anwendung.
 
 Für die Wahl der Schwerbehindertenvertretung, der Bezirks- und
 Hauptschwerbehindertenvertretung der schwerbehinderten Staatsanwälte
-und Staatsanwältinnen in den Fällen des § 94 Abs. 1 Satz 3 des Neunten
-Buches Sozialgesetzbuch gelten die Vorschriften des Ersten und Zweiten
-Teils entsprechend.
+und Staatsanwältinnen in den Fällen des § 177 Absatz 1 Satz 3 des
+Neunten Buches Sozialgesetzbuch gelten die Vorschriften des Ersten und
+Zweiten Teils entsprechend.
 
 
 ## Vierter Teil - Wahl der Schwerbehindertenvertretung, Bezirks- und Hauptschwerbehindertenvertretung der schwerbehinderten Richter und Richterinnen
@@ -645,8 +648,9 @@ enthalten:
 schwerbehinderten Richter und Richterinnen nicht vorhanden, laden drei
 wahlberechtigte Richter und Richterinnen, der Richterrat oder der
 Präsidialrat zu der Wahlversammlung ein. Das Recht des
-Integrationsamtes, zu einer solchen Versammlung einzuladen (§ 94 Abs.
-6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt unberührt.
+Integrationsamtes, zu einer solchen Versammlung einzuladen (§ 177
+Absatz 6 Satz 4 des Neunten Buches Sozialgesetzbuch), bleibt
+unberührt.
 
 
 ### § 25 Durchführung der Wahl

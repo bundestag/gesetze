@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (5. Motiv der Olympiamünze)
 jurabk: OlympiaMünz5Bek
 layout: default
-origslug: olympiam_nz5bek
+origslug: olympiamuenz5bek
 slug: olympiamuenz5bek
 
 ---

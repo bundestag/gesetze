@@ -7,7 +7,7 @@ Title: Gesetz zu dem Änderungsprotokoll vom 21. Januar 2010 zum Abkommen vom 11
   vom 5. November 2002
 jurabk: DBAAbkÄndProtBELG
 layout: default
-origslug: dbaabk_ndprotbelg
+origslug: dbaabkaendprotbelg
 slug: dbaabkaendprotbelg
 
 ---

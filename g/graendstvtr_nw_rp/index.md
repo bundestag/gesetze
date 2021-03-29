@@ -3,7 +3,7 @@ Title: Staatsvertrag zwischen dem Land Nordrhein-Westfalen und dem Land Rheinlan
   über die Änderung der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtr NW/RP
 layout: default
-origslug: gr_ndstvtr_nw_rp
+origslug: graendstvtr_nw_rp
 slug: graendstvtr_nw_rp
 
 ---

@@ -35,15 +35,13 @@ Als Verbindungsstelle für die Familienbeihilfen nach Artikel 2 Abs.
 (1) Nr. 1 Buchstabe g) der Vereinbarung wird die
 
 -   Hauptstelle der Bundesanstalt für Arbeits
-    vermittlung und Arbeitslosenversicherung
-    (Kindergeldkasse), Nürnberg,
+    vermittlung und Arbeitslosenversicherung (Kindergeldkasse), Nürnberg,
 
     und als zuständiger Träger für die Familienbeihilfen nach Artikel 4
     Abs. (1) Nr. 7 der Vereinbarung wird die
 
     -   Bundesanstalt für Arbeits
-        vermittlung und Arbeitslosenversicherung,
-        Nürnberg,
+        vermittlung und Arbeitslosenversicherung, Nürnberg,
 
 
 

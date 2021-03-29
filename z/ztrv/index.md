@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1386
 
+Zuletzt geändert durch
+:   Art. 6 Abs. 1 G v. 1.6.2017 I 1396
+
 
 ## Eingangsformel
 
@@ -71,7 +74,7 @@ Auffinden der erbfolgerelevanten Urkunde erforderlich sind.
 (1) Notare und Gerichte (Melder) übermitteln nach § 34a Absatz 1 und 2
 des Beurkundungsgesetzes, nach § 347 des Gesetzes über das Verfahren
 in Familiensachen und in den Angelegenheiten der freiwilligen
-Gerichtsbarkeit und nach § 78b Absatz 4 der Bundesnotarordnung die
+Gerichtsbarkeit und nach § 78d Absatz 4 der Bundesnotarordnung die
 Verwahrangaben an die Registerbehörde. Betrifft eine erbfolgerelevante
 Urkunde mehrere Erblasser, sind die Verwahrangaben für jeden Erblasser
 zu übermitteln.
@@ -153,7 +156,7 @@ bestätigt ist. § 3 Absatz 2 gilt entsprechend.
 
 ## § 6 Inhalt der Sterbefallmitteilungen
 
-(1) Die Sterbefallmitteilung nach § 78c Satz 1 der Bundesnotarordnung
+(1) Die Sterbefallmitteilung nach § 78e Satz 1 der Bundesnotarordnung
 enthält folgende Daten:
 
 1.  Registrierungsdaten des übermittelnden Standesamts,
@@ -193,7 +196,7 @@ enthält folgende Daten:
 
 
 
-(2) Die Sterbefallmitteilung nach § 78c Satz 1 der Bundesnotarordnung
+(2) Die Sterbefallmitteilung nach § 78e Satz 1 der Bundesnotarordnung
 enthält außerdem sonstige Angaben, die zur Erfüllung gesetzlicher
 Aufgaben des Nachlassgerichts erforderlich sind. Sonstige Angaben
 können insbesondere sein:
@@ -256,15 +259,28 @@ Benachrichtigung nach Absatz 1 an die nun zuständige Stelle.
 Hilfsweise ist das Amtsgericht zu benachrichtigen, in dessen Bezirk
 die aufgehobene Verwahrstelle lag.
 
-(3) Die Registerbehörde übersendet die Sterbefallmitteilung an das
-nach § 343 des Gesetzes über das Verfahren in Familiensachen und in
-den Angelegenheiten der freiwilligen Gerichtsbarkeit zuständige
-Nachlassgericht und teilt diesem mit, welche Verwahrangaben im
-Zentralen Testamentsregister enthalten sind und welche Verwahrstelle
-sie benachrichtigt hat. Die Landesjustizverwaltungen können gegenüber
-der Registerbehörde auf die Übersendung und Benachrichtigung nach Satz
-1 für den Fall verzichten, dass im Zentralen Testamentsregister keine
-Verwahrangaben registriert sind.
+(3) Sind im Zentralen Testamentsregister Verwahrangaben registriert,
+teilt die Registerbehörde dem nach § 343 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit zuständigen Nachlassgericht mit, welche
+Verwahrangaben im Zentralen Testamentsregister enthalten sind und
+welche Verwahrstelle sie benachrichtigt hat, und übersendet die
+Sterbefallmitteilung. Lässt sich das zuständige Nachlassgericht
+mithilfe der Sterbefallmitteilung (§ 6) nicht eindeutig bestimmen,
+wird vermutet, dass das zu benachrichtigende Nachlassgericht dasjenige
+ist, das für den letzten inländischen Wohnsitz des Erblassers örtlich
+zuständig ist. Wenn die Sterbefallmitteilung keinen inländischen
+Wohnsitz nennt, wird als zu benachrichtigendes Nachlassgericht das
+Amtsgericht Schöneberg in Berlin vermutet. Ist im Zentralen
+Testamentsregister neben einer Verwahrangabe eine Mitteilung nach §
+78d Absatz 1 Satz 1 Nummer 2 der Bundesnotarordnung gespeichert, teilt
+die Registerbehörde auch diese Daten mit. Sind im Zentralen
+Testamentsregister Verwahrangaben nicht registriert, übersendet die
+Registerbehörde die Sterbefallmitteilung oder vorhandene Mitteilungen
+nach § 78d Absatz 1 Satz 1 Nummer 2 der Bundesnotarordnung nur auf
+Antrag. Die Landesjustizverwaltungen können gegenüber der
+Registerbehörde erklären, dass eine Benachrichtigung und Übermittlung
+nach Satz 5 in jedem Sterbefall erfolgen soll.
 
 (4) Das Nachlassgericht bestätigt der Registerbehörde den Eingang
 einer erbfolgerelevanten Urkunde unter Angabe des Datums des Eingangs
@@ -280,19 +296,19 @@ Registerbehörde nach § 4 des Testamentsverzeichnis-
 ## § 8 Registerauskünfte
 
 (1) Die Registerbehörde erteilt Auskunft aus dem Zentralen
-Testamentsregister nach § 78d Absatz 1 der Bundesnotarordnung, wenn
+Testamentsregister nach § 78f Absatz 1 der Bundesnotarordnung, wenn
 die ersuchende Stelle
 
 1.  ihr Geschäftszeichen und zur Person des Erblassers mindestens seinen
     Geburtsnamen, sein Geburtsdatum und seinen Geburtsort angibt und
 
 
-2.  erklärt, dass die in § 78d Absatz 1 der Bundesnotarordnung genannten
+2.  erklärt, dass die in § 78f Absatz 1 der Bundesnotarordnung genannten
     Voraussetzungen vorliegen.
 
 
 
-Das Vorliegen der Voraussetzungen des § 78d Absatz 1 Satz 2 und 3 der
+Das Vorliegen der Voraussetzungen des § 78f Absatz 1 Satz 2 und 3 der
 Bundesnotarordnung prüft die Registerbehörde nur, wenn sie dazu nach
 den Umständen des Einzelfalls Anlass hat.
 
@@ -309,9 +325,9 @@ Registerbetriebs verwendet werden. Sie sind gegen zweckfremde
 Verwendung besonders zu schützen und fünf Jahre nach Ablauf des
 Kalenderjahres der Auskunftserteilung zu löschen.
 
-(4) Die Befugnis der Gerichte und Notare zur Einsicht in
+(4) Die Befugnis der Gerichte, Notare und Notarkammern zur Einsicht in
 Registrierungen, die von ihnen verwahrte erbfolgerelevante Urkunden
-betreffen (§ 78d Absatz 2 der Bundesnotarordnung), und das Recht des
+betreffen (§ 78f Absatz 2 der Bundesnotarordnung), und das Recht des
 Erblassers auf Auskunft (§ 19 des Bundesdatenschutzgesetzes) bleiben
 unberührt.
 
@@ -331,7 +347,7 @@ in einheitlich strukturierten Datensätzen.
 nach Maßgabe der von der Registerbehörde getroffenen Festlegungen
 erfolgen, insbesondere
 
-1.  im Zusammenhang mit nach § 78b Absatz 4 der Bundesnotarordnung zu
+1.  im Zusammenhang mit nach § 78d Absatz 4 der Bundesnotarordnung zu
     registrierenden Vergleichen und mit von Konsularbeamten aufgenommenen
     erbfolgerelevanten Urkunden,
 
@@ -359,7 +375,7 @@ Registerbehörde zu löschen, wenn keine die Sterbefallmitteilung
 betreffenden Verwahrangaben im Zentralen Testamentsregister
 registriert sind. In allen übrigen Fällen gilt für die Löschung von
 Sterbefallmitteilungen und der Daten, die Verwahrangaben gemäß § 1
-betreffen, § 78b Absatz 1 Satz 2 der Bundesnotarordnung entsprechend.
+betreffen, § 78d Absatz 1 Satz 2 der Bundesnotarordnung entsprechend.
 § 8 Absatz 3 Satz 2 bleibt unberührt.
 
 

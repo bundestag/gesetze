@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2009, 2118
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 21 G v. 22.12.2011 I 3044
+:   Art. 106 V v. 31.8.2015 I 1474
 
 [^f772437_01_BJNR211800009]:     Diese Verordnung dient der Umsetzung der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
@@ -247,9 +247,9 @@ der in Absatz 1 Satz 1 und Absatz 5 Satz 1 genannten Emissionen
 beziehen, hat der Luftfahrzeugbetreiber nach Maßgabe der geänderten
 Monitoring-Leitlinien den Überwachungsplan zu erstellen sowie die
 Emissionen zu ermitteln und über sie zu berichten. Das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt
-die für den Luftfahrzeugbetreiber maßgeblichen Änderungen nach Satz 1
-und 2 im Bundesanzeiger bekannt.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+gibt die für den Luftfahrzeugbetreiber maßgeblichen Änderungen nach
+Satz 1 und 2 im Bundesanzeiger bekannt.
 
 
 ### § 5 Ermittlung von Flugstrecke und Nutzlast, Berichterstattung sowie Erstellung des Überwachungsplans
@@ -571,8 +571,10 @@ Zuständige Behörde im Sinne dieser Verordnung ist das Umweltbundesamt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1
+und § 6)
 
-### Anlage 1 (zu § 1 Absatz 2 Nummer 2, § 4 Absatz 5 Satz 2, § 5 Absatz 1 Satz 1 und § 6) Privilegierte Flüge
+### Anlage 1 Privilegierte Flüge
 
 (Fundstelle BGBl. I 2009, 2123)
 
@@ -660,24 +662,25 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
+(zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8)
 
-### Anlage 2 (zu § 8 Absatz 1 Satz 1 und Absatz 2 Nummer 3 bis 8) Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
+### Anlage 2 Ermittlung und Berichterstattung von perfluorierten Kohlenwasserstoffen (PFC)
 
 (Fundstelle BGBl. I 2009, 2124 - 2125)
 ## Teil 1
 
 Bestimmung der Emissionen von Tetrafluormethan (CF
-## 4             )
+## 4)
 
 
 1.  Die Gesamtemissionen von Tetrafluormethan sind nach Formel 1 zu
     bestimmen. Dabei sind die für jede Anlage zelltypspezifisch
     ermittelten Emissionsmengen E
-    CF4, i                    in Abhängigkeit von der Prozessführung
-    entweder nach Formel 2 oder nach Formel 3 zu bestimmen. Für die im
-    Rahmen der Ermittlung der Emissionsmengen notwendigen Angaben zur
-    Produktionsmenge in Tonnen Aluminium gilt § 10 Absatz 1 und 2 der
-    Zuteilungsverordnung 2012 entsprechend.
+    CF4, i in Abhängigkeit von der Prozessführung entweder nach Formel 2
+    oder nach Formel 3 zu bestimmen. Für die im Rahmen der Ermittlung der
+    Emissionsmengen notwendigen Angaben zur Produktionsmenge in Tonnen
+    Aluminium gilt § 10 Absatz 1 und 2 der Zuteilungsverordnung 2012
+    entsprechend.
 
 
 2.  Wurde in einem Berichtsjahr nach einem anerkannten Messverfahren ein
@@ -712,14 +715,14 @@ Bestimmung der Emissionen von Tetrafluormethan (CF
 ## Teil 2
 
 Bestimmung der Emissionen von Hexafluorethan (C
-2             F
-## 6             )
+2F
+## 6)
 
 
 1.  Die Gesamtemissionen von Hexafluorethan sind nach Formel 4 zu
     bestimmen. Dabei sind die zelltypbezogenen Emissionsmengen von C
-    2                   F
-    6                    anhand von Formel 5 zu bestimmen.
+    2F
+    6 anhand von Formel 5 zu bestimmen.
 
 
 2.  Für den Gewichtungsfaktor können die Standardfaktoren aus Spalte 4 der
@@ -737,8 +740,8 @@ Formel 1 (Gesamtemissionen von CF
 4 **)**
 
 EMIS
-CF4              = ∑
-i              E
+CF4 = ∑
+i E
 CF4, i
 
 
@@ -754,7 +757,7 @@ CF4, i
         CF4
 
     *   Gesamtemissionsmenge von CF
-        4                      in kg CF
+        4 in kg CF
         4
 
 
@@ -763,8 +766,8 @@ CF4, i
         CF4, i
 
     *   Emissionsmenge von CF
-        4                      in kg CF
-        4                      je Zelltyp i
+        4 in kg CF
+        4 je Zelltyp i
 
 
 
@@ -772,9 +775,9 @@ Formel 2 (Emissionsmengen von CF
 4 **je Zelltyp über die Dauer der Anodeneffekte)**
 
 E
-CF4, i              = S
-CF4, i              \* AEM
-i              \* MP
+CF4, i = S
+CF4, i \* AEM
+i \* MP
 i
 
 
@@ -784,7 +787,7 @@ i
         CF4, i
 
     *   Emissionsmenge CF
-        4                      für Zelltyp i in kg CF
+        4 für Zelltyp i in kg CF
         4
 
 
@@ -793,7 +796,7 @@ i
         CF4, i
 
     *   Steigungskoeffizient für Zelltyp i in (kg CF
-        4                      / Tonne Al) / (AE-Min / Zelltag)
+        4 / Tonne Al) / (AE-Min / Zelltag)
 
 
 *    *
@@ -815,11 +818,11 @@ Formel 3 (Emissionsmengen von CF
 4 **je Zelltyp über die Höhe der Überspannungseffekte)**
 
 E
-CF4, i              = OVC
-i              \* AEO
-i              \* MP
-i              / CE
-i              \* 100 %
+CF4, i = OVC
+i \* AEO
+i \* MP
+i / CE
+i \* 100 %
 
 
 *    *   mit
@@ -828,7 +831,7 @@ i              \* 100 %
         CF4, i
 
     *   Emissionsmenge CF
-        4                      für Zelltyp i in kg CF
+        4 für Zelltyp i in kg CF
         4
 
 
@@ -837,7 +840,7 @@ i              \* 100 %
         i
 
     *   Überspannungskoeffizient für Zelltyp i in (kg CF
-        4                      / Tonne Al) / mV
+        4 / Tonne Al) / mV
 
 
 *    *
@@ -864,12 +867,12 @@ i              \* 100 %
 
 
 Formel 4 (Berechnung der Gesamtemissionen von C
-2               F
+2F
 6 **)**
 
 EMIS
-C2F6              = ∑
-i              E
+C2F6 = ∑
+i E
 C2F6, i
 
 
@@ -885,9 +888,9 @@ C2F6, i
         C2F6
 
     *   Gesamtemissionsmenge von C
-        2                     F
-        6                      in kg C
-        2                     F
+        2F
+        6 in kg C
+        2F
         6
 
 
@@ -896,18 +899,18 @@ C2F6, i
         C2F6, i
 
     *   Emissionsmenge von C
-        2                     F
-        6                      je Zelltyp i
+        2F
+        6 je Zelltyp i
 
 
 
 Formel 5 (Berechnung der Emissionsmengen von C
-2               F
+2F
 6 **je Zelltyp)**
 
 E
-C2F6, i              = E
-CF4, i              \* F
+C2F6, i = E
+CF4, i \* F
 C2F6/CF4, i
 
 
@@ -917,9 +920,9 @@ C2F6/CF4, i
         C2F6, i
 
     *   Emissionsmenge C
-        2                     F
-        6                      für Zelltyp i gemessen in kg C
-        2                     F
+        2F
+        6 für Zelltyp i gemessen in kg C
+        2F
         6
 
 
@@ -928,7 +931,7 @@ C2F6/CF4, i
         CF4, i
 
     *   Emissionsmenge CF
-        4                      für Zelltyp i gemessen in kg CF
+        4 für Zelltyp i gemessen in kg CF
         4
 
 
@@ -937,11 +940,11 @@ C2F6/CF4, i
         C2F6/CF4, i
 
     *   Gewichtungsfaktor, welcher das Verhältnis von E
-        C2F6                      zu E
-        CF4                      in kg C
-        2                     F
-        6                      / kg CF
-        4                      für Zelltyp i angibt
+        C2F6 zu E
+        CF4 in kg C
+        2F
+        6 / kg CF
+        4 für Zelltyp i angibt
 
 
 
@@ -954,19 +957,19 @@ C2F6/CF4, i
         Steigungs-
         koeffizient
         (S
-        CF4, i                     )
+        CF4, i)
 
     *   Standardfaktor
         Überspannungs-
         koeffizient
         (OVC
-        i                     )
+        i)
 
     *   Standardfaktor
         Gewichtungs-
         faktor
         (F
-        C2F6/CF4,i                     )
+        C2F6/CF4,i)
 
 
 *    *   Mittenbedienter Ofen mit vorgebrannten Anoden

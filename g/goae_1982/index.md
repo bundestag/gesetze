@@ -2,7 +2,7 @@
 Title: Gebührenordnung für Ärzte
 jurabk: GOÄ 1982
 layout: default
-origslug: go__1982
+origslug: goae_1982
 slug: goae_1982
 
 ---
@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.2.1996 I 210;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 4.12.2001 I 3320
+:   Art. 7 G v. 27.6.2017 I 1966
 
 
 ## § 1 Anwendungsbereich
@@ -48,7 +48,7 @@ abhängig gemacht werden.
 
 (2) Eine Vereinbarung nach Absatz 1 Satz 1 ist nach persönlicher
 Absprache im Einzelfall zwischen Arzt und Zahlungspflichtigem vor
-Einbringung der Leistung des Arztes in einem Schriftstück zu treffen.
+Erbringung der Leistung des Arztes in einem Schriftstück zu treffen.
 Dieses muß neben der Nummer und der Bezeichnung der Leistung, dem
 Steigerungssatz und dem vereinbarten Betrag auch die Feststellung
 enthalten, daß eine Erstattung der Vergütung durch Erstattungsstellen
@@ -460,10 +460,9 @@ abweichende Regelung getroffen werden.
 (Inkrafttreten und Übergangsvorschrift)
 
 
-## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil I)
+## Anlage Gebührenverzeichnis für ärztliche Leistungen
 
-(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 67)
-Teil I der Anlage, Fortsetzung siehe Teil II
+(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 3 - 157)
 
 *    *   Nummer
 
@@ -13733,16 +13732,10 @@ Vergütungssatz nach Nummer 2990 oder 3135 zu kürzen.
 
 *    *
 
-*    *   Fortsetzung siehe Teil II
+*    *
 
 
 
-
-
-## Anlage Gebührenverzeichnis für ärztliche Leistungen (Teil II)
-
-(Fundstelle: Anlageband zu BGBl. I 1996, Nr. 10, S. 67 - 157)
-Teil II der Anlage, Fortsetzung von Teil I
 
 *    *   Nummer
 
@@ -30421,7 +30414,7 @@ Pilz oder Parasit) in der Rechnung anzugeben.
     *   345,42
 
 
-*    *   **0. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
+*    *   **O. Strahlendiagnostik, Nuklearmedizin, Magnetresonanztomographie und
         Strahlentherapie**
 
     *

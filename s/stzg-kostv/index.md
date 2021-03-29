@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3115
 
+V aufgeh. durch
+:   Art. 4 Abs. 16 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Geändert durch
+:   Art. 2 Abs. 30 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 17 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 17 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
+
 
 
 ## Eingangsformel
@@ -30,8 +39,9 @@ Bildung und Forschung:
 
 ## § 1 Anwendungsbereich
 
-Für Amtshandlungen nach dem Stammzellgesetz erhebt das Robert Koch-
-Institut Gebühren nach dieser Verordnung.
+Für individuell zurechenbare öffentliche Leistungen nach dem
+Stammzellgesetz erhebt das Robert Koch-Institut Gebühren nach dieser
+Verordnung.
 
 
 ## § 2 Genehmigung
@@ -54,7 +64,8 @@ niedrigen Aufwand, kann die Gebühr bis auf 100 Euro ermäßigt werden.
 (1) Wird
 
 1.  ein Antrag auf Genehmigung nach Beginn der sachlichen Bearbeitung und
-    vor Beendigung der Amtshandlung zurückgenommen oder
+    vor Beendigung der individuell zurechenbaren öffentlichen Leistung
+    zurückgenommen oder
 
 
 2.  ein Antrag aus anderen Gründen als wegen Unzuständigkeit abgelehnt
@@ -65,28 +76,29 @@ niedrigen Aufwand, kann die Gebühr bis auf 100 Euro ermäßigt werden.
 
 
 
-werden Gebühren nach Maßgabe des § 15 Abs. 2 des
-Verwaltungskostengesetzes erhoben.
+werden Gebühren nach Maßgabe des § 15 Absatz 2 des
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung erhoben.
 
 (2) Sofern der Antragsteller dazu Anlass gegeben hat, beträgt
 abweichend von Absatz 1 Nr. 3 die Gebühr für die Rücknahme oder den
 Widerruf der Genehmigung mindestens 50 Euro, höchstens jedoch die für
 die zurückgenommene oder widerrufene Genehmigung festgesetzte Gebühr.
 
-(3) Wird gegen eine Amtshandlung Widerspruch erhoben, ist eine Gebühr
-zu erheben, wenn der Widerspruch vollständig oder teilweise
+(3) Wird gegen einen Verwaltungsakt Widerspruch erhoben, ist eine
+Gebühr zu erheben, wenn der Widerspruch vollständig oder teilweise
 zurückgewiesen wird; dies gilt nicht, wenn der Widerspruch nur deshalb
 keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder
 Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes
 unbeachtlich ist. Die Gebühr beträgt mindestens 50 Euro, höchstens die
-für die Amtshandlung festgesetzte Gebühr. Wird ein Widerspruch nach
+für den Verwaltungsakt festgesetzte Gebühr. Wird ein Widerspruch nach
 Beginn seiner sachlichen Bearbeitung, jedoch vor deren Beendigung
-zurückgenommen, beträgt die Gebühr höchstens 75 vom Hundert der Gebühr
+zurückgenommen, beträgt die Gebühr höchstens 75 Prozent der Gebühr
 nach Satz 2; erfolgt die Gebührenberechnung nach dem Zeitaufwand, kann
 der bis zur Zurücknahme des Widerspruchs entstandene Zeitaufwand
 zugrunde gelegt werden. Richtet sich der Widerspruch ausschließlich
-gegen die Kostenentscheidung, beträgt die Gebühr mindestens 30 Euro,
-höchstens 10 vom Hundert des Betrages, der mit der Kostenentscheidung
+gegen die Gebührenfestsetzung, beträgt die Gebühr mindestens 30 Euro,
+höchstens 10 Prozent des Betrages, der mit der Gebührenfestsetzung
 geltend gemacht wurde.
 
 
@@ -106,11 +118,11 @@ Gebührenzahlung befreiten Einrichtung tätig ist.
 
 ## § 5 Übergangsregelung
 
-Für nach dieser Verordnung kostenpflichtige Amtshandlungen, die vor
-Inkrafttreten dieser Verordnung vorgenommen worden sind, können
-Gebühren nach Maßgabe der vorstehenden Vorschriften erhoben werden,
-soweit bei den Amtshandlungen eine Kostenentscheidung ausdrücklich
-vorbehalten worden ist.
+Für nach dieser Verordnung gebührenpflichtige individuell zurechenbare
+öffentliche Leistungen, die vor Inkrafttreten dieser Verordnung
+vorgenommen worden sind, können Gebühren nach Maßgabe der vorstehenden
+Vorschriften erhoben werden, soweit bei diesen Leistungen eine
+Gebührenfestsetzung ausdrücklich vorbehalten worden ist.
 
 
 ## § 6 Inkrafttreten

@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "50 Jahre Volksaufstand 17. Juni 1953")
 jurabk: Münz10EuroBek 2003-04
 layout: default
-origslug: m_nz10eurobek_2003-04
+origslug: muenz10eurobek_2003-04
 slug: muenz10eurobek_2003-04
 
 ---

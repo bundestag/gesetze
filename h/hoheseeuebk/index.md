@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Hohe See
 jurabk: HoheSeeÜbk
 layout: default
-origslug: hohesee_bk
+origslug: hoheseeuebk
 slug: hoheseeuebk
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 1547
 
 Zuletzt geändert durch
-:   Art. 1 V v. 23.7.2010 I 1010
+:   Art. 55 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -447,8 +447,9 @@ Teilen 3 und 4 dieser Verordnung durchführen.
 ### Abschnitt 1 - Gemeinsame Vorschriften für die Prüfung der operativen Professionals
 
 
+Zulassungsvoraussetzungen
 
-#### § 2 Zulassungsvoraussetzungen (Operative Professionals)
+#### § 2 (Operative Professionals)
 
 (1) Zur Prüfung der operativen Professionals ist zuzulassen, wer
 Folgendes nachweist:
@@ -480,8 +481,9 @@ wer durch Vorlage von Zeugnissen oder auf andere Weise glaubhaft
 macht, dass er Qualifikationen erworben hat, die die Zulassung zur
 Prüfung rechtfertigen.
 
+Gliederung der Prüfung
 
-#### § 3 Gliederung der Prüfung (Operative Professionals)
+#### § 3 (Operative Professionals)
 
 Die Prüfung für die operativen Professionals gliedert sich jeweils in
 die Prüfungsteile:
@@ -1047,7 +1049,7 @@ thematisiert wird:
 
 
 
-#### § 11 Ziel der Prüfung und Bezeichnung des Abschlusses
+#### § 11 Ziel der Prüfung und  Bezeichnung des Abschlusses
 
 (1) Ziel der Prüfung ist der Nachweis der Qualifikation zum Geprüften
 IT-Projektleiter/zur Geprüften IT-Projektleiterin (Certified IT
@@ -1754,7 +1756,7 @@ h)  qualitätswirksame Aktivitäten zu planen, zu sichern und zu lenken
 
 
 
-#### § 19 Prüfungsinhalte im Prüfungsteil "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
+#### § 19 Prüfungsinhalte im Prüfungsteil  "Profilspezifische IT-Fachaufgaben" (IT-Ökonom)
 
 (1) Es sind drei Situationsaufgaben aus folgenden Geschäftsprozessen
 schriftlich zu bearbeiten:
@@ -1973,7 +1975,7 @@ letzten Prüfungsteil spätestens zwei Jahre nach dem ersten Prüfungstag
 des ersten Prüfungsteils zu beginnen.
 
 
-#### § 24 Durchführung der Prüfung im Prüfungsteil "Strategische Prozesse"
+#### § 24 Durchführung der Prüfung im  Prüfungsteil "Strategische Prozesse"
 
 (1) Im Prüfungsteil "Strategische Prozesse" soll der
 Prüfungsteilnehmer/die Prüfungsteilnehmerin eine Fallstudie (Business-
@@ -2054,7 +2056,7 @@ d)  Durchführen von strategischen Allianzen und Fusionen, Bilden von
 
 
 
-#### § 26 Durchführung der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
+#### § 26 Durchführung  der Prüfung im Prüfungsteil "Strategisches Personalmanagement"
 
 (1) Der Prüfungsteilnehmer/die Prüfungsteilnehmerin soll im
 Prüfungsteil "Strategisches Personalmanagement" ein
@@ -2509,10 +2511,14 @@ Geprüfter ................./Geprüfte .......................
 gemäß der Verordnung über die berufliche Fortbildung im Bereich der
 Informations- und Telekommunikationstechnik (IT-
 Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
+vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 55 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ........................................
 Unterschrift(en) .............................
 (Siegel der zuständigen Stelle)
@@ -2520,7 +2526,7 @@ Unterschrift(en) .............................
 
 ### Anlage 2 (zu § 20 Abs. 5)
 
-(Fundstelle: BGBl. I 2002, 1563
+(Fundstelle: BGBl. I 2002, 1563;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -2539,9 +2545,9 @@ Geprüfter ................./Geprüfte .......................
 gemäß der Verordnung über die berufliche Fortbildung im Bereich der
 Informations- und Telekommunikationstechnik (IT-
 Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
+vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 55 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
 Ergebnissen bestanden:
 Punkte 1)     Note
 I.   Betriebliche IT-Prozesse
@@ -2571,6 +2577,10 @@ wurde gemäß § 32 im Hinblick auf die am
 in ..................... vor .............................. abgelegte
 Prüfung
 in dem Prüfungsteil/Prüfungsbereich .................. freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ............................................
 Unterschrift(en) .................................
 (Siegel der zuständigen Stelle)
@@ -2606,10 +2616,14 @@ Geprüfter ................./Geprüfte .......................
 gemäß der Verordnung über die berufliche Fortbildung im Bereich der
 Informations- und Telekommunikationstechnik (IT-
 Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
+vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 55 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 7 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -2636,9 +2650,9 @@ Geprüfter ................./Geprüfte .......................
 gemäß der Verordnung über die berufliche Fortbildung im Bereich der
 Informations- und Telekommunikationstechnik (IT-
 Fortbildungsverordnung)
-vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 1 der
+vom 3. Mai 2002 (BGBl. I S. 1547), die zuletzt durch Artikel 55 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
 Ergebnissen bestanden:
 Punkte 1)    Note
 I.   Strategische Prozesse
@@ -2657,6 +2671,10 @@ wurde gemäß § 32 im Hinblick auf die am
 in ........................... vor ....................... abgelegte
 Prüfung
 in dem Prüfungsteil/Prüfungsbereich ................. freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 7 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -2671,8 +2689,9 @@ Prüfungsteil "Strategische Prozesse" das doppelte Gewicht gegenüber
 den
 beiden anderen Prüfungsteilen.
 
+(zu § 2 Absatz 2)
 
-### Anlage 5 (zu § 2 Absatz 2) Spezialistenprofile in der IT-Fortbildung
+### Anlage 5 Spezialistenprofile in der IT-Fortbildung
 
 (Fundstelle: BGBl I 2010, 1010 - 1029)
 
@@ -3857,14 +3876,14 @@ zu geben und darüber ein Fachgespräch zu führen.
     Anbietern als auch firmenintern in größeren Rechenzentren oder
     Support-Centern tätig sein. Ihre Aufgabe sind Service beziehungsweise
     Supportleistungen auf höheren Leveln (2
-    nd                    Level Support oder höher). IT Service Advisor
-    leisten technischen Service für komplexe SW- oder HW-Produkte wie für
-    IT-Systeme oder -Netze. In der Regel sind sie auf bestimmte Produkte
-    oder Systeme spezialisiert. Der Service beinhaltet sowohl das reaktive
-    Beheben komplexer Störungen und Probleme als auch die proaktive
-    Überwachung und Wartung von Produkten und Lösungen, um Engpässe oder
-    potentielle Fehlerquellen früh zu erkennen und entsprechende Maßnahmen
-    zu ergreifen.
+    nd Level Support oder höher). IT Service Advisor leisten technischen
+    Service für komplexe SW- oder HW-Produkte wie für IT-Systeme oder
+    -Netze. In der Regel sind sie auf bestimmte Produkte oder Systeme
+    spezialisiert. Der Service beinhaltet sowohl das reaktive Beheben
+    komplexer Störungen und Probleme als auch die proaktive Überwachung
+    und Wartung von Produkten und Lösungen, um Engpässe oder potentielle
+    Fehlerquellen früh zu erkennen und entsprechende Maßnahmen zu
+    ergreifen.
 
 
 **6.2** **Profiltypische Arbeitsprozesse:**
@@ -4728,14 +4747,13 @@ zu geben und darüber ein Fachgespräch zu führen.
     notwendig, begleiten sie die Einführung von QMS. IT Quality Management
     Coordinator begleiten die Umsetzung des Unternehmensleitbildes im
     Hinblick auf Qualitätsziele und
-    -politik,                    überwachen ihre Einhaltung sowie die
-    Konformität des QMS zu den zugrunde liegenden Rahmenwerken
-    (insbesondere ITIL, Spice, ISO 9001, ISO 20000). Dabei halten sie
-    Ergebnisse fest und erarbeiten bei Abweichungen entsprechende
-    Korrekturmaßnahmen. Sie unterstützen die oberste Leitung bei der
-    Weiterentwicklung der Qualitätsstrategie und -politik sowie bei der
-    Schaffung von Qualitätsbewusstsein bei den Mitarbeiterinnen und
-    Mitarbeitern.
+    -politik, überwachen ihre Einhaltung sowie die Konformität des QMS zu
+    den zugrunde liegenden Rahmenwerken (insbesondere ITIL, Spice, ISO
+    9001, ISO 20000). Dabei halten sie Ergebnisse fest und erarbeiten bei
+    Abweichungen entsprechende Korrekturmaßnahmen. Sie unterstützen die
+    oberste Leitung bei der Weiterentwicklung der Qualitätsstrategie und
+    -politik sowie bei der Schaffung von Qualitätsbewusstsein bei den
+    Mitarbeiterinnen und Mitarbeitern.
 
 
 **10.2** **Profiltypische Arbeitsprozesse:**

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 177
 
 Zuletzt geändert durch
-:   Art. 9 V v. 25.8.2009 I 2960
+:   Art. 3 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -691,7 +691,7 @@ Der Bundesminister für Bildung und Wissenschaft
 
 ## Anlage
 
-(Fundstelle: BGBl. I 1985, 183 - 184,
+(Fundstelle: BGBl. I 1985, 183 - 184;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Seite 1
 **Muster**
@@ -712,9 +712,13 @@ Geprüfter Baumaschinenmeister
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter
 Baumaschinenmeister vom 23. Januar 1985 (BGBl. I S. 177),
-die zuletzt durch Artikel 9 der Verordnung vom 25. August 2009
-(BGBl. I S. 2960) geändert worden ist,
+die zuletzt durch Artikel 3 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum
 ............................................................
 Unterschrift
@@ -756,8 +760,9 @@ Eignung durch die Prüfung am ...... in ...... vor .......... erbracht.
 -----
 \*) Nichtzutreffendes streichen
 
+Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

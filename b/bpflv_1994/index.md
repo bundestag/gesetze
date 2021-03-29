@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2750
 
 Zuletzt geändert durch
-:   Art. Art. 2 G v. 21.7.2012 I 1613
+:   Art. 6ba G v. 17.7.2017 I 2581
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -25,11 +25,18 @@ Zuletzt geändert durch
 
 ### § 1 Anwendungsbereich
 
-(1) Nach dieser Verordnung werden die vollstationären und
-teilstationären Leistungen der Krankenhäuser oder
-Krankenhausabteilungen vergütet, die nach § 17b Abs. 1 Satz 1 zweiter
-Halbsatz des Krankenhausfinanzierungsgesetzes nicht in das DRG-
-Vergütungssystem einbezogen sind.
+(1) Nach dieser Verordnung werden die vollstationären,
+stationsäquivalenten und teilstationären Leistungen der Krankenhäuser
+und selbständigen, gebietsärztlich geleiteten Abteilungen für die
+Fachgebiete Psychiatrie und Psychotherapie, Kinder- und
+Jugendpsychiatrie und -psychotherapie sowie Psychosomatische Medizin
+und Psychotherapie vergütet, die nicht in das DRG-Vergütungssystem
+einbezogen sind. Krankenhaus im Sinne dieser Verordnung ist auch die
+Gesamtheit der selbstständigen, gebietsärztlich geleiteten Abteilungen
+für die Fachgebiete Psychiatrie und Psychotherapie, Kinder- und
+Jugendpsychiatrie und -psychotherapie (psychiatrische Einrichtungen)
+und für die Psychosomatische Medizin und Psychotherapie
+(psychosomatische Einrichtungen) an einem somatischen Krankenhaus.
 
 (2) Diese Verordnung gilt nicht für
 
@@ -50,13 +57,13 @@ einheitlich nach § 115a des Fünften Buches Sozialgesetzbuch vergütet.
 ### § 2 Krankenhausleistungen
 
 (1) Krankenhausleistungen nach § 1 Abs. 1 sind insbesondere ärztliche
-Behandlung, Krankenpflege, Versorgung mit Arznei-, Heil- und
-Hilfsmitteln, die für die Versorgung im Krankenhaus notwendig sind,
-sowie Unterkunft und Verpflegung; sie umfassen allgemeine
+Behandlung, auch durch nicht fest angestellte Ärztinnen und Ärzte,
+Krankenpflege, Versorgung mit Arznei-, Heil- und Hilfsmitteln, die für
+die Versorgung im Krankenhaus oder durch das Krankenhaus notwendig
+sind, sowie Unterkunft und Verpflegung; sie umfassen allgemeine
 Krankenhausleistungen und Wahlleistungen. Zu den Krankenhausleistungen
 gehören nicht die Leistungen der Belegärzte (§ 18 des
-Krankenhausentgeltgesetzes) sowie der Beleghebammen und
--entbindungspfleger.
+Krankenhausentgeltgesetzes).
 
 (2) Allgemeine Krankenhausleistungen sind die Krankenhausleistungen,
 die unter Berücksichtigung der Leistungsfähigkeit des Krankenhauses im
@@ -77,485 +84,576 @@ Unter diesen Voraussetzungen gehören dazu auch
     nach § 11 Absatz 3 des Fünften Buches Sozialgesetzbuch,
 
 
-4.  das Entlassmanagement im Sinne des § 39 Absatz 1 Satz 4 des Fünften
-    Buches Sozialgesetzbuch.
+4.  das Entlassmanagement im Sinne des § 39 Absatz 1a des Fünften Buches
+    Sozialgesetzbuch.
 
 
 
 Nicht zu den Krankenhausleistungen gehört eine Dialyse.
 
+(3) Bei der Erbringung von allgemeinen Krankenhausleistungen durch
+nicht im Krankenhaus fest angestellte Ärztinnen und Ärzte hat das
+Krankenhaus sicherzustellen, dass diese für ihre Tätigkeit im
+Krankenhaus die gleichen Anforderungen erfüllen, wie sie auch für fest
+im Krankenhaus angestellte Ärztinnen und Ärzte gelten.
 
-## Zweiter Abschnitt - Grundlagen der Entgeltbemessung
 
+## Zweiter Abschnitt - Vergütung der Krankenhausleistungen
 
 
-### § 3 Allgemeine Grundlagen
-
-(1) Das Budget und die Pflegesätze sind für einen zukünftigen Zeitraum
-(Pflegesatzzeitraum) zu vereinbaren. Grundlage ihrer Bemessung sind
-die allgemeinen Krankenhausleistungen im Rahmen des
-Versorgungsauftrags des Krankenhauses (§ 4). Das Budget und die
-Pflegesätze nach § 10 müssen medizinisch leistungsgerecht sein und
-einem Krankenhaus bei wirtschaftlicher Betriebsführung ermöglichen,
-den Versorgungsauftrag zu erfüllen. Die Abgrenzungsverordnung in der
-durch Artikel 3 der Verordnung vom 9. Dezember 1997 (BGBl. I S. 2874)
-geänderten Fassung und die Psychiatrie-Personalverordnung in der durch
-Artikel 4 der Verordnung vom 26. September 1994 (BGBl. I S. 2750)
-geänderten Fassung sind anzuwenden. Der Grundsatz der
-Beitragssatzstabilität ist nach den Vorgaben des § 6 zu beachten.
-
-(2) Bei der Bemessung des Budgets und der tagesgleichen Pflegesätze (§
-10 Abs. 1 Nr. 2) nach den Vorgaben des Absatzes 1 haben die
-Vertragsparteien nach § 18 Abs. 2 des Krankenhausfinanzierungsgesetzes
-(Vertragsparteien) Orientierungsmaßstäbe, die sich aus einem
-Krankenhausvergleich nach § 5 ergeben, angemessen zu berücksichtigen.
-Dabei sind insbesondere Unterschiede der Krankenhäuser in Art und
-Anzahl der Leistungen sowie die medizinischen Besonderheiten bei der
-Behandlung der Patienten zu beachten. Bei der Beurteilung, ob das
-Budget und die tagesgleichen Pflegesätze medizinisch leistungsgerecht
-sind, bleiben die in das Budget einzurechnenden Ausgleiche und
-Berichtigungen für vorhergehende Pflegesatzzeiträume außer Ansatz.
-Abweichend von Absatz 1 Satz 3 kann das Budget mit Ausnahme der
-Ausgleiche und Zuschläge mit der Veränderungsrate nach § 6 Abs. 1
-fortgeschrieben werden.
 
-(3) Die pflegesatzfähigen Leistungen und Kosten sind nach den §§ 7 bis
-9 abzugrenzen. Die Vorlage von Unterlagen für die
-Pflegesatzverhandlungen richtet sich nach § 17 Abs. 4 und 5.
+### § 3 Vereinbarung eines Gesamtbetrags
 
-(4) Auf Verlangen des Krankenhauses werden Leistungen für ausländische
-Patienten, die mit dem Ziel einer Krankenhausbehandlung in die
-Bundesrepublik Deutschland einreisen, nicht durch das Budget vergütet.
-§ 14 Abs. 1 Satz 1 bleibt unberührt.
+(1) Das Vergütungssystem nach § 17d des
+Krankenhausfinanzierungsgesetzes wird für die Jahre 2013 bis 2019
+budgetneutral für das Krankenhaus eingeführt. Für die Jahre 2013,
+2014, 2015, 2016 oder 2017 (Optionsjahre) erfolgt die Einführung auf
+Verlangen des Krankenhauses. Das Krankenhaus hat sein Verlangen zum
+Zeitpunkt der Aufforderung zur Verhandlung durch die
+Sozialleistungsträger, frühestens jedoch zum 31. Dezember des
+jeweiligen Vorjahres, den anderen Vertragsparteien nach § 18 Absatz 2
+Nummer 1 oder 2 des Krankenhausfinanzierungsgesetzes schriftlich
+mitzuteilen. Ab dem 1. Januar 2018 ist die Anwendung des
+Vergütungssystems für alle Krankenhäuser verbindlich. Für die Jahre
+2013 bis 2019 dürfen die nach § 11 Absatz 4 vorzulegenden Nachweise
+über Art und Anzahl der Entgelte nach § 7 Satz 1 Nummer 1 und 2 nur
+verwendet werden, um den krankenhausindividuellen Basisentgeltwert
+nach den Vorgaben des Absatzes 5 zu ermitteln und die Veränderung der
+medizinischen Leistungsstruktur zu erörtern.
 
+(2) Ab dem krankenhausindividuellen Einführungsjahr bis zum Jahr 2019
+ist für ein Krankenhaus ein Gesamtbetrag in entsprechender Anwendung
+des § 6 Absatz 1 der Bundespflegesatzverordnung in der am 31. Dezember
+2012 geltenden Fassung zu vereinbaren; ab dem 1. Januar 2017 bildet
+der Veränderungswert nach § 9 Absatz 1 Nummer 5 die maßgebliche Rate
+für den Anstieg des Gesamtbetrags. Ausgangsgrundlage der Vereinbarung
+ist der für das jeweilige Vorjahr vereinbarte Gesamtbetrag. Dieser
+wird bei der Vereinbarung nach Satz 1 insbesondere
 
-### § 4 Versorgungsauftrag
+1.  vermindert um
 
-Der nach § 17 Abs. 1 Satz 3 des Krankenhausfinanzierungsgesetzes bei
-der Bemessung der Pflegesätze zugrunde zu legende Versorgungsauftrag
-des Krankenhauses ergibt sich
+    a)  anteilige Kosten für Leistungen, die im Vereinbarungszeitraum in
+        andere Versorgungsbereiche verlagert werden,
 
-1.  bei den Plankrankenhäusern aus den Festlegungen des Krankenhausplans
-    in Verbindung mit den Bescheiden zu seiner Durchführung nach § 6 Abs.
-    1 in Verbindung mit § 8 Abs. 1 Satz 3 des
-    Krankenhausfinanzierungsgesetzes sowie ergänzenden Vereinbarungen nach
-    § 109 Abs. 1 Satz 4 des Fünften Buches Sozialgesetzbuch,
 
+    b)  darin enthaltene Kosten für Leistungen für ausländische Patientinnen
+        und Patienten sowie Leistungen für Empfänger von Gesundheitsleistungen
+        nach dem Asylbewerberleistungsgesetz, soweit sie nach Absatz 8 aus dem
+        Gesamtbetrag ausgegliedert werden,
 
-2.  bei Hochschulkliniken aus der Anerkennung nach den landesrechtlichen
-    Vorschriften und dem Krankenhausplan nach § 6 Abs. 1 des
-    Krankenhausfinanzierungsgesetzes sowie ergänzenden Vereinbarungen nach
-    § 109 Abs. 1 Satz 4 des Fünften Buches Sozialgesetzbuch,
 
 
-3.  bei anderen Krankenhäusern aus dem Versorgungsvertrag nach § 108 Nr. 3
-    des Fünften Buches Sozialgesetzbuch.
 
 
-4.  (weggefallen)
+2.  bereinigt um darin enthaltene Ausgleiche sowie Ausgleichszahlungen
+    aufgrund von Berichtigungen für Vorjahre,
 
 
+3.  verändert um die Ausgliederung oder Wiedereingliederung von
 
+    a)  sonstigen Zu- und Abschlägen nach § 7 Satz 1 Nummer 3,
 
 
-### § 5 Krankenhausvergleich
+    b)  Kosten für Leistungen, die im Vereinbarungszeitraum erstmals im Rahmen
+        von Modellvorhaben nach § 63 des Fünften Buches Sozialgesetzbuch oder
+        von Verträgen zur integrierten Versorgung nach § 140a des Fünften
+        Buches Sozialgesetzbuch oder erstmals im Rahmen des Krankenhausbudgets
+        vergütet werden.
 
-(1) Zur Unterstützung der Vertragsparteien bei der Ermittlung
-vergleichbarer Krankenhäuser oder Abteilungen und der Bemessung von
-medizinisch leistungsgerechten Budgets und tagesgleichen Pflegesätzen
-erstellen die Deutsche Krankenhausgesellschaft oder die Bundesverbände
-der Krankenhausträger gemeinsam und der Spitzenverband Bund der
-Krankenkassen einen Krankenhausvergleich. Die Krankenhäuser sollen
-länderbezogen verglichen werden, soweit dies ausreichend ist, um die
-in Satz 1 genannten Zwecke zu erreichen. Bis zum 31. März 1998 ist
-eine Vereinbarung insbesondere über die Maßstäbe und Grundsätze für
-den Vergleich sowie die organisatorische Einrichtung, Durchführung und
-Finanzierung des Vergleiches zu schließen. In die Vereinbarung ist
-eine Regelung über den maschinellen Datenträgeraustausch von Daten der
-Leistungs- und Kalkulationsaufstellung der Krankenhäuser sowie eine
-Regelung über die Anonymisierung der Daten vor ihrer Herausgabe für
-Vergleichszwecke aufzunehmen. Zur Durchführung des
-Krankenhausvergleichs bilden die Vertragsparteien nach Satz 1 eine
-Arbeitsgemeinschaft.
 
-(2) In den Krankenhausvergleich sollen insbesondere die Leistungen,
-die der letzten Budgetvereinbarung zugrunde liegenden Beträge und die
-Pflegesätze einbezogen werden. Der Vergleich soll das notwendige Maß
-nicht überschreiten. Er kann auf eine sachgerechte Auswahl von
-Krankenhäusern begrenzt werden.
 
-(3) Die für den Vergleich wesentlichen Ergebnisse der letzten
-Vereinbarung sind von den Vertragsparteien gemeinsam festzulegen; das
-Krankenhaus nimmt eine weitere sachgerechte Untergliederung vor. Die
-Krankenhäuser sind verpflichtet, die nach Absatz 1 vereinbarten Daten
-bis zum 30. April jeden Jahres an die Arbeitsgemeinschaft nach Absatz
-1 Satz 5 zu übermitteln. Die Arbeitsgemeinschaft stellt den
-Vertragsparteien und den Beteiligten nach § 18 Abs. 1 Satz 2 des
-Krankenhausfinanzierungsgesetzes die Vergleichsdaten zur Verfügung.
-Sie sind so rechtzeitig zu übermitteln, daß die Vorklärungen nach § 17
-Abs. 6 durchgeführt werden können.
 
-(4) Bis zum Vorliegen der Orientierungsdaten auf Grund des gemeinsamen
-Krankenhausvergleichs sind diejenigen Orientierungsdaten angemessen zu
-berücksichtigen, die sich aus den Vergleichen der Krankenhäuser
-ergeben, die jeweils von den Verbänden oder Arbeitsgemeinschaften der
-Krankenkassen und Krankenhäuser erstellt werden.
 
 
-### § 6 Grundsatz der Beitragssatzstabilität
+Der vereinbarte Gesamtbetrag ist sachgerecht aufzuteilen auf
 
-(1) Ab dem Jahr 2000 ist nach den Vorgaben des § 3 ein Gesamtbetrag
-für die Erlöse eines Krankenhauses aus dem Budget nach § 12 sowie auf
-Grund von Modellvorhaben nach § 24 zu vereinbaren. Bei der
-Vereinbarung sind insbesondere zu berücksichtigen:
+1.  Erlöse für Entgelte nach § 7 Satz 1 Nummer 1 und 2 (Erlösbudget),
+    einschließlich noch nicht ausgegliederter sonstiger Zu- und Abschläge
+    nach § 7 Satz 1 Nummer 3; das Erlösbudget umfasst auch die effektiven
+    Bewertungsrelationen,
 
-1.  Verkürzungen der Verweildauern,
 
+2.  Erlöse für Entgelte nach § 7 Satz 1 Nummer 4 (Erlössumme).
 
-2.  die Ergebnisse von Fehlbelegungsprüfungen,
 
 
-3.  Leistungsverlagerungen, zum Beispiel in die ambulante Versorgung,
+Der Gesamtbetrag und das Erlösbudget nach Satz 4 Nummer 1 sind um
+Ausgleiche und Berichtigungen für Vorjahre zu verändern; bei einer
+Berichtigung ist zusätzlich zu der Berichtigung des bisherigen Budgets
+(Basisberichtigung) ein entsprechender Ausgleich durchzuführen.
 
+(3) Für die Jahre ab 2020 ist für ein Krankenhaus ein Gesamtbetrag
+nach den folgenden Vorgaben zu vereinbaren; Besonderheiten der
+Versorgung von Kindern und Jugendlichen sind zu berücksichtigen.
+Ausgangsgrundlage für die Vereinbarung des Gesamtbetrags für das Jahr
+2020 ist der nach Absatz 2 vereinbarte Gesamtbetrag für das Jahr 2019.
+In den Folgejahren ist Ausgangsgrundlage der für das jeweilige Vorjahr
+vereinbarte Gesamtbetrag. Bei der Vereinbarung sind insbesondere zu
+berücksichtigen:
 
-4.  Leistungen, die im Rahmen von Modellvorhaben nach § 63 des Fünften
-    Buches Sozialgesetzbuch vergütet werden, und ab dem Jahr 2009 auch
-    Leistungen im Rahmen von Integrationsverträgen nach § 140a des Fünften
-    Buches Sozialgesetzbuch, und
+1.  Veränderungen von Art und Menge der Leistungen des Krankenhauses, die
+    von den auf Bundesebene vereinbarten Katalogen nach § 9 Absatz 1
+    Nummer 1 und 2 umfasst sind,
+
+
+2.  Veränderungen von Art und Menge der krankenhausindividuell zu
+    vereinbarenden Leistungen, einschließlich regionaler oder
+    struktureller Besonderheiten in der Leistungserbringung,
+
+
+3.  Kostenentwicklungen sowie Verkürzungen von Verweildauern, Ergebnisse
+    von Fehlbelegungsprüfungen und Leistungsverlagerungen, zum Beispiel in
+    die ambulante Versorgung,
+
+
+4.  die Ergebnisse des leistungsbezogenen Vergleichs nach § 4,
+
+
+5.  die Umsetzung der vom Gemeinsamen Bundesausschuss nach § 136a Absatz 2
+    des Fünften Buches Sozialgesetzbuch festgelegten Anforderungen zur
+    Ausstattung mit dem für die Behandlung erforderlichen therapeutischen
+    Personal,
+
+
+6.  eine Anpassungsvereinbarung nach Satz 6.
+
+
+
+Der Gesamtbetrag darf den um den Veränderungswert nach § 9 Absatz 1
+Nummer 5 veränderten Gesamtbetrag des Vorjahres nur überschreiten,
+soweit der Tatbestand nach Satz 4 Nummer 5 dies erfordert oder im
+Rahmen einer Anpassungsvereinbarung nach Satz 6 eine entsprechende
+Überschreitung als notwendig vereinbart wurde; eine Überschreitung
+aufgrund der Tatbestände nach Satz 4 Nummer 1 oder Nummer 2 ist nur
+zulässig, wenn die Veränderung von Art und Menge der Leistungen durch
+zusätzliche Kapazitäten für medizinische Leistungen aufgrund der
+Krankenhausplanung oder des Investitionsprogramms des Landes begründet
+oder wenn dies aufgrund von Veränderungen der medizinischen
+Leistungsstruktur oder der Fallzahlen erforderlich ist. Sofern die
+Vertragsparteien unter Berücksichtigung der Erkrankungsschwere der
+Patientinnen oder Patienten, möglicher Leistungsverlagerungen,
+regionaler oder struktureller Besonderheiten in der
+Leistungserbringung sowie der Ergebnisse des Vergleichs nach § 4
+vereinbaren, dass der Gesamtbetrag zu vermindern oder zu erhöhen ist,
+haben sie für die Jahre ab 2020 über Umfang, Dauer und weitere
+Einzelheiten der Anpassung eine Anpassungsvereinbarung zu treffen.
+Entgelte, die die maßgeblichen Vergleichswerte nach § 4 deutlich
+überschreiten, dürfen nur vereinbart werden, wenn der
+Krankenhausträger schlüssig darlegt, aus welchen Gründen die
+Überschreitung unabweisbar ist. Sofern sich auf Grundlage der
+Nachweise nach § 18 Absatz 2 ergibt, dass eine vereinbarte
+Stellenbesetzung nicht vorgenommen wurde, haben die Vertragsparteien
+zu vereinbaren, inwieweit der Gesamtbetrag abzusenken ist. Eine
+Absenkung des Gesamtbetrags nach Satz 8 ist nicht vorzunehmen, wenn
+das Krankenhaus nachweist, dass nur eine vorübergehende und keine
+dauerhafte Unterschreitung der vereinbarten Stellenzahl vorliegt. Wird
+nach einer Absenkung des Gesamtbetrags eine Stellenbesetzung
+vorgenommen, ist der Gesamtbetrag für den nächsten
+Vereinbarungszeitraum in Höhe der entstehenden zusätzlichen Kosten zu
+erhöhen. Der vereinbarte Gesamtbetrag ist sachgerecht aufzuteilen auf
+
+1.  das Erlösbudget und
+
+
+2.  die Erlössumme.
+
+
+
+Der Gesamtbetrag und das Erlösbudget nach Satz 9 Nummer 1 sind um
+Ausgleiche und Berichtigungen für Vorjahre zu verändern; bei einer
+Berichtigung ist zusätzlich zu der Basisberichtigung ein
+entsprechender Ausgleich durchzuführen.
+
+(4) Bei der Vereinbarung einer Erhöhungsrate für Tariferhöhungen nach
+§ 9 Absatz 1 Nummer 7 des Krankenhausentgeltgesetzes ist der von den
+Vertragsparteien vereinbarte Gesamtbetrag nach Absatz 2 oder Absatz 3
+um 40 Prozent der nach § 9 Absatz 1 Nummer 7 des
+Krankenhausentgeltgesetzes vereinbarten Erhöhungsrate für
+Tariferhöhungen erhöhend zu berichtigen, wobei der Berichtigungsbetrag
+über das Budget des nächstmöglichen Pflegesatzzeitraums abzuwickeln
+ist; Absatz 2 Satz 5 zweiter Halbsatz und Absatz 3 Satz 12 sind zu
+beachten. Eine Begrenzung nach Absatz 3 Satz 5 gilt insoweit nicht.
+
+(5) Für die Abrechnung der Entgelte nach § 7 Satz 1 Nummer 1 ist ein
+krankenhausindividueller Basisentgeltwert zu ermitteln. Dazu wird von
+dem jeweiligen veränderten Erlösbudget nach Absatz 2 Satz 5 oder
+Absatz 3 Satz 12 die Summe der Zusatzentgelte abgezogen und der sich
+ergebende Betrag wird durch die vereinbarte Summe der effektiven
+Bewertungsrelationen dividiert. Der für das jeweilige Jahr geltende
+Basisentgeltwert ist der Abrechnung der mit Bewertungsrelationen
+bewerteten Entgelte zugrunde zu legen.
+
+(6) Auf Antrag eines nicht nach dem Krankenhausfinanzierungsgesetz
+geförderten Krankenhauses sind Investitionskosten für neue
+Investitionsmaßnahmen in dem Gesamtbetrag nach Absatz 2 Satz 1 oder
+Absatz 3 Satz 1 zusätzlich zu berücksichtigen, soweit der
+krankenhausindividuelle Basisentgeltwert niedriger ist als der
+geschätzte durchschnittliche Basisentgeltwert der Krankenhäuser in dem
+Land. Die Berücksichtigung erfolgt nach Maßgabe des § 17 Absatz 5 Satz
+3 des Krankenhausfinanzierungsgesetzes in Verbindung mit § 8 der
+Bundespflegesatzverordnung in der am 31. Dezember 2012 geltenden
+Fassung. Die Sätze 1 und 2 gelten entsprechend für Krankenhäuser, die
+aufgrund einer Vereinbarung nach § 8 Absatz 1 Satz 2 des
+Krankenhausfinanzierungsgesetzes nur teilweise gefördert werden.
 
+(7) Weicht die Summe der auf das Kalenderjahr entfallenden Erlöse des
+Krankenhauses aus Entgelten nach § 7 Satz 1 Nummer 1, 2 und 4 von dem
+veränderten Gesamtbetrag nach Absatz 2 Satz 5 oder Absatz 3 Satz 12
+ab, so werden die Mehr- oder Mindererlöse wie folgt ausgeglichen:
 
-5.  die Ergebnisse von Krankenhausvergleichen nach § 5.
+1.  Mindererlöse werden für die Jahre 2013, 2014, 2015 und 2016 zu 95
+    Prozent und ab dem Jahr 2017 zu 50 Prozent ausgeglichen,
 
 
+2.  Mehrerlöse, die infolge einer veränderten Kodierung von Diagnosen und
+    Prozeduren entstehen, werden vollständig ausgeglichen,
 
-Der Grundsatz der Beitragssatzstabilität ist zu beachten; Maßstab für
-die Beachtung ist die Veränderungsrate der beitragspflichtigen
-Einnahmen aller Mitglieder der Krankenkassen je Mitglied nach § 71
-Abs. 3 Satz 1 in Verbindung mit Absatz 2 des Fünften Buches
-Sozialgesetzbuch, wobei für das Jahr 2011 die um 0,25 Prozentpunkte
-und für das Jahr 2012 die um 0,5 Prozentpunkte verminderte
-Veränderungsrate anzuwenden ist. Der Gesamtbetrag darf den um die
-maßgebliche Rate veränderten Gesamtbetrag des Vorjahres nur
-überschreiten, soweit die folgenden Tatbestände dies erforderlich
-machen:
-
-1.  Veränderungen der medizinischen Leistungsstruktur oder der Fallzahlen,
-
-
-2.  zusätzliche Kapazitäten für medizinische Leistungen auf Grund der
-    Krankenhausplanung oder des Investitionsprogramms des Landes,
-
-
-3.  die Finanzierung von Rationalisierungsinvestitionen nach § 18b des
-    Krankenhausfinanzierungsgesetzes in der bis zum 31. Dezember 2003
-    geltenden Fassung,
-
-
-4.  die Vorgaben der Psychiatrie-Personalverordnung zur Zahl der
-    Personalstellen, wobei sicherzustellen ist, dass das Personal nicht
-    anderweitig eingesetzt wird; Absatz 4 ist zusätzlich anzuwenden,
-
 
-5.  in den in Artikel 3 des Einigungsvertrags genannten Ländern die
-    Auswirkungen einer Angleichung der Höhe der Vergütung nach dem
-    Tarifvertrag für den öffentlichen Dienst (TVöD) an die im übrigen
-    Bundesgebiet geltende Höhe,
+3.  sonstige Mehrerlöse werden für die Jahre 2013, 2014, 2015 und 2016 zu
+    65 Prozent ausgeglichen, ab dem Jahr 2017 werden sonstige Mehrerlöse
+    bis zur Höhe von 5 Prozent des veränderten Gesamtbetrags nach Absatz 2
+    Satz 5 oder Absatz 3 Satz 12 zu 85 Prozent und darüber hinaus zu 90
+    Prozent ausgeglichen.
 
 
-6.  zusätzliche Leistungen aufgrund des Abschlusses eines Vertrages zur
-    Durchführung eines strukturierten Behandlungsprogramms nach § 137g
-    Abs. 1 Satz 1 des Fünften Buches Sozialgesetzbuch oder des Beitritts
-    zu einem solchen Vertrag, soweit diese Leistungen erforderlich sind,
-    um die Anforderungen des Sechsten Abschnitts der Risikostruktur-
-    Ausgleichsverordnung zu erfüllen oder
 
+Die Vertragsparteien können im Voraus abweichende Ausgleichssätze
+vereinbaren, wenn dies der angenommenen Entwicklung von Leistungen und
+deren Kosten besser entspricht. Für den Bereich der mit
+Bewertungsrelationen bewerteten Entgelte werden die sonstigen
+Mehrerlöse nach Satz 1 Nummer 3 vereinfacht ermittelt, indem folgende
+Faktoren miteinander multipliziert werden:
 
-7.  (weggefallen)
+1.  Anzahl der Berechnungs- und Belegungstage, die zusätzlich zu
+    denjenigen Berechnungs- und Belegungstagen erbracht werden, die bei
+    der Ermittlung des krankenhausindividuellen Basisentgeltwerts nach
+    Absatz 5 Satz 3 zugrunde gelegt werden,
 
 
-8.  zusätzliche Kosten infolge der Abschaffung des Arztes im Praktikum;
-    wenn Mehrkosten für das Jahr 2004 nicht in dem Gesamtbetrag des Jahres
-    2004 berücksichtigt wurden, sind diese Mehrkosten in den Gesamtbetrag
-    für das Jahr 2005 mit Wirkung nur für dieses Jahr einzubeziehen;
+2.  Mittelwert der vereinbarten Bewertungsrelationen je Berechnungs- und
+    Belegungstag; der Mittelwert wird ermittelt, indem die Summe der
+    effektiven Bewertungsrelationen nach Absatz 5 Satz 2 durch die
+    vereinbarten Berechnungs- und Belegungstage dividiert wird, und
 
 
+3.  krankenhausindividueller Basisentgeltwert nach Absatz 5 Satz 3.
 
-vorgeschriebene Ausgleiche und Berichtigungen für Vorjahre sind
-unabhängig von der Veränderungsrate gesondert durchzuführen. Satz 4
-Nr. 2 gilt entsprechend für Hochschulkliniken, wenn die nach
-Landesrecht zuständigen Stellen zusätzliche Kapazitäten für
-medizinische Leistungen beschlossen oder genehmigt haben, und für
-Krankenhäuser mit Versorgungsvertrag nach § 109 in Verbindung mit §
-108 Nr. 3 des Fünften Buches Sozialgesetzbuch, wenn die zusätzlichen
-Kapazitäten für medizinische Leistungen den Festlegungen des
-Versorgungsvertrages entsprechen. Der Gesamtbetrag ist zusätzlich
-pauschal um 1,1 vom Hundert für Instandhaltungskosten gemäß § 17 Abs.
-4b Satz 2 des Krankenhausfinanzierungsgesetzes für den
-Pflegesatzzeitraum zu erhöhen, in dem die bisher vom Land gewährte
-Förderung der Instandhaltungskosten nach § 17 Abs. 4b Satz 4 des
-Krankenhausfinanzierungsgesetzes wegfällt. Auch die Tatbestände nach
-Absatz 1 Satz 4, Absatz 2 und 3 sind Gegenstand der
-Pflegesatzverhandlungen.
 
-(2) Übersteigen die durchschnittlichen Auswirkungen der
-tarifvertraglich vereinbarten Erhöhung der Vergütungstarifverträge und
-vereinbarter Einmalzahlungen (Tarifrate) die Veränderungsrate nach §
-71 Abs. 3 Satz 1 in Verbindung mit Absatz 2 des Fünften Buches
-Sozialgesetzbuch, werden auf die Personalkosten bezogen 50 Prozent des
-Unterschieds zwischen beiden Raten nach Maßgabe des Satzes 4
-zusätzlich im Budget berücksichtigt; für das Jahr 2011 ist die um 0,25
-Prozentpunkte und für das Jahr 2012 die um 0,5 Prozentpunkte
-verminderte Veränderungsrate maßgeblich. Maßstäbe für die Ermittlung
-der Tarifrate nach Satz 1 sind für den nichtärztlichen Personalbereich
-einerseits und den ärztlichen Personalbereich andererseits jeweils
-diejenige tarifvertragliche Vereinbarung, die in dem jeweiligen
-Bereich für die meisten Beschäftigten maßgeblich ist. Die
-Vertragsparteien auf Bundesebene vereinbaren nach § 15 Abs. 1 in Höhe
-des Unterschieds zwischen beiden Raten eine entsprechende
-Berichtigungsrate. Das Budget nach § 12 wird von den Vertragsparteien
-um 40 Prozent der Berichtigungsrate erhöht. Für den
-Berichtigungsbetrag gilt § 12 Abs. 2 Satz 5 bis 6 entsprechend.
 
-(3) Zur Verbesserung der Arbeitszeitbedingungen vereinbaren die
-Vertragsparteien für die Jahre 2003 bis 2009 jährlich einen
-zusätzlichen Betrag bis zur Höhe von 0,2 vom Hundert des
-Gesamtbetrags. Wurde für ein Kalenderjahr ein Betrag nicht vereinbart,
-kann für das Folgejahr ein zusätzlicher Betrag bis zur Höhe von 0,4
-vom Hundert vereinbart werden. Voraussetzung für die Vereinbarung ist,
-dass das Krankenhaus nachweist, dass auf Grund einer schriftlichen
-Vereinbarung mit der Arbeitnehmervertretung, die eine Verbesserung der
-Arbeitszeitbedingungen zum Gegenstand hat, zusätzliche Personalkosten
-zur Einhaltung der Regelungen des Arbeitszeitrechts zu finanzieren
-sind. Der für das jeweilige Jahr vereinbarte Betrag wird zu dem nach
-den Vorgaben des Absatzes 1 verhandelten Gesamtbetrag hinzugerechnet;
-dabei darf abweichend von Absatz 1 Satz 4 die Veränderungsrate
-überschritten werden. Die für die einzelnen Jahre vereinbarten Beträge
-verbleiben kumulativ im Gesamtbetrag. Kommt eine Vereinbarung nicht
-zustande, entscheidet die Schiedsstelle nach § 19 auf Antrag einer
-Vertragspartei. Soweit die in der Betriebsvereinbarung festgelegten
-und mit dem zusätzlichen Betrag finanzierten Maßnahmen nicht umgesetzt
-werden, ist der Betrag ganz oder teilweise zurückzuzahlen.
+Soweit das Krankenhaus oder eine andere Vertragspartei nachweist, dass
+die sonstigen Mehrerlöse nach Satz 1 Nummer 3 infolge von
+Veränderungen der Leistungsstruktur mit der vereinfachten Ermittlung
+nach Satz 3 zu niedrig oder zu hoch bemessen sind, ist der Betrag der
+sonstigen Mehrerlöse entsprechend anzupassen. Die Mehrerlöse nach Satz
+1 Nummer 2 werden ermittelt, indem von den insgesamt angefallenen
+Mehrerlösen für Entgelte, die mit Bewertungsrelationen bewertet sind,
+die Mehrerlöse nach Satz 3 oder Satz 4 abgezogen werden. Zur
+Ermittlung der Mehr- oder Mindererlöse hat der Krankenhausträger eine
+vom Jahresabschlussprüfer bestätigte Aufstellung über die Erlöse des
+Krankenhauses aus Entgelten nach § 7 Satz 1 Nummer 1, 2 und 4
+vorzulegen.
 
-(4) Soweit die Vorgaben der Psychiatrie-Personalverordnung zur Zahl
-der Personalstellen bei einem Krankenhaus bis zum 31. Dezember 2008
-nicht in vollem Umfang umgesetzt wurden, sollen nach Aufforderung
-einer Vertragspartei die zu diesem Stichtag fehlenden Personalstellen
-nach Maßgabe der folgenden Sätze verhandelt und zusätzlich im
-Gesamtbetrag berücksichtigt werden:
+(8) Auf Verlangen des Krankenhauses werden Leistungen für ausländische
+Patientinnen und Patienten, die mit dem Ziel einer
+Krankenhausbehandlung in die Bundesrepublik Deutschland einreisen,
+sowie Leistungen für Empfänger von Gesundheitsleistungen nach dem
+Asylbewerberleistungsgesetz nicht im Rahmen des Gesamtbetrags
+vergütet. Das Verlangen kann für im Jahr 2015 zusätzlich erbrachte
+Leistungen für Empfänger von Gesundheitsleistungen nach dem
+Asylbewerberleistungsgesetz, die in einem nachfolgenden
+Vereinbarungszeitraum zu Mehrerlösausgleichen führen, nachträglich
+geäußert werden.
 
-1.  Bei einer Umsetzung nach Satz 1 unterhalb von 90 Prozent ist ab dem 1.
-    Januar 2009 eine Umsetzung zu 90 Prozent zu vereinbaren; darüber
-    hinaus kann auch eine Vereinbarung nach Nummer 2 geschlossen werden.
+(9) Die Vertragsparteien sind an den Gesamtbetrag gebunden. Auf
+Verlangen einer Vertragspartei ist bei wesentlichen Änderungen der
+Annahmen, die der Vereinbarung des Gesamtbetrags zugrunde liegen, der
+Gesamtbetrag für das laufende Kalenderjahr neu zu vereinbaren. Die
+Vertragsparteien können im Voraus vereinbaren, dass in bestimmten
+Fällen der Gesamtbetrag nur teilweise neu vereinbart wird. Der
+Unterschiedsbetrag zum bisherigen Gesamtbetrag ist über den neu
+vereinbarten Gesamtbetrag abzurechnen; § 15 Absatz 2 Satz 3 gilt
+entsprechend.
 
 
-2.  Bei einer Umsetzung nach Satz 1 zwischen 90 und 100 Prozent ist bei
-    Nachweis eines entsprechenden Personalbedarfs nach der Psychiatrie-
-    Personalverordnung eine höhere Personalbesetzung zu vereinbaren; § 3
-    Abs. 4 der Psychiatrie-Personalverordnung bleibt unberührt.
+### § 4 Leistungsbezogener Vergleich
 
+(1) Zur Unterstützung der Vertragsparteien nach § 11 bei der
+Vereinbarung eines leistungsgerechten Gesamtbetrags, eines
+leistungsgerechten krankenhausindividuellen Basisentgeltwerts und
+sonstiger leistungsgerechter krankenhausindividueller Entgelte,
+erstellen die Vertragsparteien auf Bundesebene einen
+leistungsbezogenen Vergleich. In die Ermittlung der Ergebnisse des
+leistungsbezogenen Vergleichs sind insbesondere einzubeziehen
+
+1.  die der letzten Budgetvereinbarung zugrunde gelegten Leistungen,
+
 
+2.  die regionalen oder strukturellen Besonderheiten in der
+    Leistungserbringung nach § 6 Absatz 2,
+
+
+3.  die vereinbarten Entgelte sowie
+
+
+4.  die Ergebnisse der Nachweise nach § 18 Absatz 2 zur personellen
+    Ausstattung für die Erbringung der jeweiligen Leistungen.
+
+
+
+Auf der Grundlage der Daten nach Satz 2 und der Vorgaben der
+Vereinbarung nach § 9 Absatz 1 Nummer 9 sind als Ergebnisse des
+leistungsbezogenen Vergleichs insbesondere auszuweisen
+
+1.  nach Leistungen oder Leistungsgruppen differenzierend die Bandbreite
+    der vereinbarten Entgelte und statistische Lage- und Streumaße zu
+    diesen Entgelten,
+
+
+2.  die regionalen oder strukturellen Besonderheiten in der
+    Leistungserbringung nach § 6 Absatz 2 sowie
+
+
+3.  der Umfang der personellen Ausstattung.
 
-Im Falle der Nichteinigung entscheidet die Schiedsstelle nach § 19.
-Die Zahl der nach Satz 1 fehlenden Personalstellen bemisst sich nach
-der tatsächlichen Personalbesetzung zum Stichtag.
 
 
-### § 7 Pflegesatzfähige Kosten bei geförderten Krankenhäusern
+Die Ergebnisse des leistungsbezogenen Vergleichs sind grundsätzlich
+bundes- und landesweit auszuweisen und unter gesonderter
+Berücksichtigung der Kinder- und Jugendpsychiatrie nach Fachgebieten
+zu untergliedern.
 
-(1) Mit dem Budget und den Pflegesätzen nach § 10 werden die
-allgemeinen Krankenhausleistungen vergütet, soweit die Kosten nach dem
-Krankenhausfinanzierungsgesetz dem Grunde nach pflegesatzfähig sind.
-Zu den pflegesatzfähigen Kosten gehören auch
+(2) Die Krankenhäuser übermitteln die Daten nach Absatz 1 Satz 2 an
+das Institut für das Entgeltsystem im Krankenhaus. Dieses ermittelt
+die Ergebnisse des leistungsbezogenen Vergleichs nach Absatz 1 Satz 3
+und stellt sie den Vertragsparteien nach § 11 und den Beteiligten nach
+§ 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes zur
+Verfügung. Die Ergebnisse sind so rechtzeitig zu übermitteln, dass sie
+für die Vorklärung nach § 11 Absatz 5 genutzt werden können.
 
-1.  Kosten der Qualitätssicherung,
 
+### § 5 Vereinbarung von Zu- und Abschlägen
 
-2.  (weggefallen)
+(1) Die nach § 9 Absatz 1 Nummer 3 vereinbarten Regelungen für
+bundeseinheitliche Zu- und Abschläge nach § 17d Absatz 2 Satz 4 des
+Krankenhausfinanzierungsgesetzes sind für die Vertragsparteien nach §
+11 verbindlich. Auf Antrag einer Vertragspartei ist zu prüfen, ob bei
+dem Krankenhaus die Voraussetzungen für einen Zu- oder Abschlag
+vorliegen. Wurde für einen Tatbestand ein bundeseinheitlicher Zu- oder
+Abschlagsbetrag festgelegt, der für die Zwecke der Abrechnung
+gegenüber den Patientinnen und Patienten oder den Kostenträgern auf
+eine krankenhausindividuelle Bezugsgröße umgerechnet werden muss, so
+vereinbaren die Vertragsparteien gemäß den bundeseinheitlichen
+Vereinbarungen den sich daraus ergebenden krankenhausindividuellen
+Abrechnungsbetrag oder -prozentsatz.
 
+(2) Für die Vereinbarung von Sicherstellungszuschlägen gilt § 17d
+Absatz 2 Satz 5 des Krankenhausfinanzierungsgesetzes.
 
-3.  Kosten für Prüfungen nach § 17 Abs. 6 Satz 3 und
-    Wirtschaftlichkeitsprüfungen nach § 113 des Fünften Buches
+(3) Für die Vereinbarung von Qualitätszu- und -abschlägen auf der
+Grundlage der Vorgaben des Gemeinsamen Bundesausschusses nach § 136b
+Absatz 1 Satz 1 Nummer 5 und Absatz 9 des Fünften Buches
+Sozialgesetzbuch sind § 5 Absatz 3a des Krankenhausentgeltgesetzes und
+§ 9 Absatz 1a Nummer 4 des Krankenhausentgeltgesetzes entsprechend
+anzuwenden.
+
+(4) Für die Vereinbarung von befristeten Zuschlägen für die
+Finanzierung von Mehrkosten auf Grund von Richtlinien des Gemeinsamen
+Bundesausschusses ist § 5 Absatz 3c des Krankenhausentgeltgesetzes
+entsprechend anzuwenden.
+
+
+### § 6 Vereinbarung sonstiger Entgelte
+
+(1) Für Leistungen, die mit den nach § 17d des
+Krankenhausfinanzierungsgesetzes auf Bundesebene bewerteten Entgelten
+noch nicht sachgerecht vergütet werden können, vereinbaren die
+Vertragsparteien nach § 11 tages-, fall- oder zeitraumbezogene
+Entgelte, sofern die Leistungen nach Feststellung der Vertragsparteien
+nach § 9 oder in einer Verordnung nach § 17d Absatz 6 Satz 1 Nummer 3
+des Krankenhausfinanzierungsgesetzes von der Anwendung der auf
+Bundesebene bewerteten Entgelte ausgenommen sind.
+
+(2) Für regionale oder strukturelle Besonderheiten in der
+Leistungserbringung, die nicht bereits mit den Entgelten nach § 7 Satz
+1 Nummer 1 bis 3 und 5 sachgerecht vergütet werden, vereinbaren die
+Vertragsparteien nach § 11 tages-, fall- oder zeitraumbezogene
+Entgelte oder ergänzende Zuschläge; hierzu hat das Krankenhaus die
+Besonderheiten und die damit verbundenen Zusatzkosten darzulegen. Nach
+der Vereinbarung eines Entgelts für eine regionale oder strukturelle
+Besonderheit in der Leistungserbringung haben die an der Vereinbarung
+beteiligten gesetzlichen Krankenkassen Art und Höhe des Entgelts an
+das Institut für das Entgeltsystem im Krankenhaus zu melden; dabei
+haben sie auch die der Vereinbarung zugrunde liegenden
+Kalkulationsunterlagen und die vom Krankenhaus vorzulegende Darlegung
+der Besonderheit zu übermitteln.
+
+(3) Die Entgelte nach den Absätzen 1 und 2 sind sachgerecht zu
+kalkulieren. Das Krankenhaus hat die Empfehlungen nach § 9 Absatz 1
+Nummer 4 zu beachten und den anderen Vertragsparteien nach § 11
+entsprechende Kalkulationsunterlagen vorzulegen. In eng begrenzten
+Ausnahmefällen vereinbaren die Vertragsparteien Zusatzentgelte.
+
+(4) Für die Vergütung neuer Untersuchungs- und Behandlungsmethoden,
+die mit den nach § 17d des Krankenhausfinanzierungsgesetzes auf
+Bundesebene bewerteten Entgelten noch nicht sachgerecht vergütet
+werden können und nicht gemäß § 137c des Fünften Buches
+Sozialgesetzbuch von der Finanzierung ausgeschlossen worden sind,
+sollen die Vertragsparteien nach § 11 erstmals für das Kalenderjahr
+2020 zeitlich befristete Entgelte außerhalb des Gesamtbetrags nach § 3
+Absatz 3 vereinbaren. Für die Einzelheiten des Verfahrens ist § 6
+Absatz 2 Satz 2 bis 9 des Krankenhausentgeltgesetzes entsprechend
+anzuwenden.
+
+(5) Werden krankenhausindividuelle Entgelte nach Absatz 1, Absatz 2
+oder Absatz 3 Satz 3 vereinbart, so ist für diese Entgelte im Rahmen
+des Gesamtbetrags nach § 3 Absatz 2 oder Absatz 3 eine Erlössumme zu
+bilden.
+
+
+## Dritter Abschnitt - Entgeltarten und Abrechnung
+
+
+
+### § 7 Entgelte für allgemeine Krankenhausleistungen
+
+Die allgemeinen Krankenhausleistungen werden gegenüber den
+Patientinnen und Patienten oder ihren Kostenträgern mit folgenden
+Entgelten abgerechnet:
+
+1.  mit Bewertungsrelationen bewertete Entgelte nach dem auf Bundesebene
+    vereinbarten Entgeltkatalog (§ 9),
+
+
+2.  Zusatzentgelte nach dem auf Bundesebene vereinbarten Entgeltkatalog (§
+    9),
+
+
+3.  Ausbildungszuschlag (§ 17a Absatz 6 des
+    Krankenhausfinanzierungsgesetzes) und sonstige Zu- und Abschläge (§
+    17d Absatz 2 Satz 4 und 5 des Krankenhausfinanzierungsgesetzes und
+    Qualitätssicherungsabschläge nach § 8 Absatz 4),
+
+
+4.  Entgelte für Leistungen, die noch nicht von den auf Bundesebene
+    vereinbarten Entgelten erfasst werden (§ 6 Absatz 1 oder Absatz 3 Satz
+    3), und für regionale oder strukturelle Besonderheiten in der
+    Leistungserbringung (§ 6 Absatz 2),
+
+
+5.  Entgelte für neue Untersuchungs- und Behandlungsmethoden, die noch
+    nicht in die Entgeltkataloge nach § 9 aufgenommen worden sind (§ 6
+    Absatz 4).
+
+
+
+Mit diesen Entgelten werden alle für die Versorgung der Patientinnen
+und Patienten erforderlichen allgemeinen Krankenhausleistungen
+vergütet. Darüber hinaus werden folgende Zuschläge abgerechnet:
+
+1.  der DRG-Systemzuschlag nach § 17b Absatz 5 des
+    Krankenhausfinanzierungsgesetzes,
+
+
+2.  der Systemzuschlag für den Gemeinsamen Bundesausschuss und das
+    Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen nach
+    § 91 Absatz 3 Satz 1 in Verbindung mit § 139c des Fünften Buches
+    Sozialgesetzbuch und
+
+
+3.  der Telematikzuschlag nach § 291a Absatz 7a Satz 1 und 2 des Fünften
+    Buches Sozialgesetzbuch.
+
+
+
+
+
+### § 8 Berechnung der Entgelte
+
+(1) Die Entgelte für allgemeine Krankenhausleistungen sind für alle
+Patientinnen und Patienten des Krankenhauses einheitlich zu berechnen;
+§ 17 Absatz 5 des Krankenhausfinanzierungsgesetzes bleibt unberührt.
+Bei Patientinnen und Patienten, die im Rahmen einer klinischen Studie
+behandelt werden, sind die Entgelte für allgemeine
+Krankenhausleistungen nach § 7 zu berechnen; dies gilt auch bei
+klinischen Studien mit Arzneimitteln. Die Entgelte dürfen nur im
+Rahmen des Versorgungsauftrags berechnet werden; dies gilt nicht für
+die Behandlung von Notfallpatientinnen und -patienten. Der
+Versorgungsauftrag des Krankenhauses ergibt sich
+
+1.  bei einem Plankrankenhaus aus den Festlegungen des Krankenhausplans in
+    Verbindung mit den Bescheiden zu seiner Durchführung nach § 6 Absatz 1
+    in Verbindung mit § 8 Absatz 1 Satz 3 des
+    Krankenhausfinanzierungsgesetzes sowie aus einer ergänzenden
+    Vereinbarung nach § 109 Absatz 1 Satz 4 des Fünften Buches
     Sozialgesetzbuch,
 
 
-4.  Kosten für die Instandhaltung der Anlagegüter des Krankenhauses nach
-    Maßgabe der Abgrenzungsverordnung; die Instandhaltungskosten nach § 4
-    Abs. 2 der Abgrenzungsverordnung sind pauschal in Höhe von 1,1 vom
-    Hundert des Budgets einzurechnen, wie es ohne Ausgleiche,
-    Berichtigungen und Zuschläge und nach dem gesetzlich vorgeschriebenen
-    Abzug für Fehlbelegungen vereinbart würde,
+2.  bei einer Hochschulklinik aus der Anerkennung nach den
+    landesrechtlichen Vorschriften, aus dem Krankenhausplan nach § 6
+    Absatz 1 des Krankenhausfinanzierungsgesetzes sowie aus einer
+    ergänzenden Vereinbarung nach § 109 Absatz 1 Satz 4 des Fünften Buches
+    Sozialgesetzbuch,
 
 
-5.  Kosten der betriebsnotwendigen Fort- und Weiterbildung der
-    Beschäftigten des Krankenhauses.
-
-
-
-
-(2) Mit dem Budget und den Pflegesätzen nach § 10 dürfen Leistungen,
-die nicht zu den allgemeinen Krankenhausleistungen gehören, nicht
-vergütet werden. Von den nach Blatt K 3 der Leistungs- und
-Kalkulationsaufstellung vereinbarten Gesamtbeträgen sind die nicht
-pflegesatzfähigen Kosten insbesondere folgender Leistungen abzuziehen:
-
-1.  vor- und nachstationäre Behandlung nach § 115a des Fünften Buches
-    Sozialgesetzbuch einschließlich der Behandlung von Privatpatienten;
-    als Kosten sind 90 vom Hundert der vorauskalkulierten Erlöse
-    abzuziehen; die Vertragsparteien können im voraus einen niedrigeren
-    Vomhundertsatz oder eine im Ergebnis niedrigere Kostenausgliederung
-    vereinbaren,
-
-
-2.  (weggefallen)
-
-
-3.  belegärztliche Leistungen nach § 18 des Krankenhausentgeltgesetzes,
-
-
-4.  wahlärztliche Leistungen bei Verpflichtung zur Erstattung nach § 19
-    Abs. 2 Satz 1 des Krankenhausentgeltgesetzes (Neuverträge und diesen
-    vergleichbare Rechtsverhältnisse) oder wahlärztliche Leistungen, die
-    das Krankenhaus in Rechnung stellt; als Kosten sind a)
-
-    *   40 vom Hundert der Gebühren für die in den Abschnitten A, E, M und O
-        des Gebührenverzeichnisses der Gebührenordnung für Ärzte genannten
-        Leistungen und
-
-
-    b)  20 vom Hundert der Gebühren für die in den übrigen Abschnitten des
-        Gebührenverzeichnisses der Gebührenordnung für Ärzte sowie die im
-        Gebührenverzeichnis der Gebührenordnung für Zahnärzte genannten
-        Leistungen abzuziehen;
-
-
-
-    maßgebend sind jeweils die Gebühren vor Abzug der Gebührenminderung
-    nach § 6a Abs. 1 Satz 1 der Gebührenordnung für Ärzte oder § 7 Satz 1
-    der Gebührenordnung für Zahnärzte; für nach § 6 Abs. 2 der
-    Gebührenordnung für Ärzte und nach § 6 Abs. 2 der Gebührenordnung für
-    Zahnärzte berechnete Gebühren ist dem Kostenabzug der Vomhundertsatz
-    zugrunde zu legen, der für die als gleichwertig herangezogene Leistung
-    des Gebührenverzeichnisses der Gebührenordnung für Ärzte oder der
-    Gebührenordnung für Zahnärzte gilt,
-
-
-5.  wahlärztliche Leistungen bei Verpflichtung zur Erstattung nach § 19
-    Abs. 2 Satz 2 des Krankenhausentgeltgesetzes (Altverträge und diesen
-    vergleichbare Rechtsverhältnisse); als Kosten sind 85 vom Hundert des
-    für diese Leistungen vor dem 1. Januar 1993 zwischen dem Krankenhaus
-    und dem Arzt vereinbarten oder auf Grund beamtenrechtlicher
-    Vorschriften zu entrichtenden Nutzungsentgelts (Kostenerstattung und
-    Vorteilsausgleich sowie diesen vergleichbare Abgaben) abzuziehen,
-    höchstens jedoch ein dem Abzug nach Nummer 4 entsprechender Betrag,
-
-
-6.  sonstige vollstationäre oder teilstationäre ärztliche Leistungen,
-    soweit diese von Ärzten berechnet werden können,
-
-
-7.  gesondert berechenbare Unterkunft; als Kosten sind für die darauf
-    entfallenden Berechnungstage folgende Anteile des Betrages nach
-    Abschnitt K 6 lfd. Nr. 18 Spalte 4 der Leistungs- und
-    Kalkulationsaufstellung abzuziehen:
+3.  bei anderen Krankenhäusern aus dem Versorgungsvertrag nach § 108
+    Nummer 3 des Fünften Buches Sozialgesetzbuch.
 
 
 
 
-*    *   a)
+(2) Tagesbezogene Entgelte für voll- oder teilstationäre Leistungen
+werden für den Aufnahmetag und jeden weiteren Tag des
+Krankenhausaufenthalts berechnet (Berechnungstag); der Verlegungstag,
+der nicht zugleich Aufnahmetag ist, wird nur bei teilstationärer
+Behandlung berechnet. Satz 1 erster Halbsatz gilt entsprechend bei
+internen Verlegungen; wird ein Patient oder eine Patientin an einem
+Tag mehrfach intern verlegt, berechnet nur die zuletzt aufnehmende
+Abteilung das tagesbezogene Entgelt. Für die zusätzlich zu
+tagesbezogenen Entgelten berechenbaren Entgelte gelten die Vorgaben
+des § 8 Absatz 2 Satz 3 Nummer 1, 2 und 4 des
+Krankenhausentgeltgesetzes entsprechend. Sofern fallbezogene Entgelte
+zu berechnen sind, gelten die Vorgaben des § 8 Absatz 2 Satz 3, Absatz
+5 und 6 des Krankenhausentgeltgesetzes entsprechend. Näheres oder
+Abweichendes wird von den Vertragsparteien nach § 17b Absatz 2 Satz 1
+des Krankenhausfinanzierungsgesetzes vereinbart oder in einer
+Rechtsverordnung nach § 17d Absatz 6 des
+Krankenhausfinanzierungsgesetzes geregelt. Für die Patientinnen und
+Patienten von Belegärzten werden gesonderte Entgelte berechnet.
 
-    *   Einbettzimmer:
+(3) Hält das Krankenhaus seine Verpflichtungen zur Qualitätssicherung
+nicht ein, so sind von den Entgelten nach § 7 Satz 1 Nummer 1 und 2
+Abschläge nach § 137 Absatz 1 oder Absatz 2 des Fünften Buches
+Sozialgesetzbuch vorzunehmen.
 
-    *   65 vom Hundert,
+(4) Das Krankenhaus kann von Patientinnen und Patienten eine
+angemessene Vorauszahlung verlangen, soweit ein
+Krankenversicherungsschutz nicht nachgewiesen wird. Ab dem achten Tag
+des Krankenhausaufenthalts kann das Krankenhaus eine angemessene
+Abschlagszahlung verlangen, deren Höhe sich an den bisher erbrachten
+Leistungen in Verbindung mit den voraussichtlich zu zahlenden
+Entgelten orientiert. Die Sätze 1 bis 2 gelten nicht, soweit andere
+Regelungen über eine zeitnahe Vergütung der allgemeinen
+Krankenhausleistungen in für das Krankenhaus verbindlichen Regelungen
+nach den §§ 112 bis 114 des Fünften Buches Sozialgesetzbuch oder in
+der Vereinbarung nach § 11 Absatz 1 getroffen werden.
 
-
-*    *   b)
-
-    *   Einbettzimmer in Krankenhäusern, bei denen die Unterbringung im
-        Zweibettzimmer zu den allgemeinen Krankenhausleistungen gehört:
-
-    *   35 vom Hundert,
-
-
-*    *   c)
-
-    *   Zweibettzimmer:
-
-    *   25 vom Hundert,
-
-
-
-
-8.  sonstige nichtärztliche Wahlleistungen nach § 22.
-
-
-
-Übt das Krankenhaus sein Wahlrecht nach § 3 Abs. 4 aus, sind
-abweichend von Satz 2 Nr. 4 bis 7 die entsprechenden Kosten des
-einzelnen Krankenhauses bereits vor Erstellung der Leistungs- und
-Kalkulationsaufstellung auszugliedern (Nettoprinzip); anstelle der
-Kostenausgliederung können die Vertragsparteien einen einmaligen
-Erlösabzug vereinbaren.
-
-
-### § 8 Investitionskosten bei nicht oder teilweise geförderten Krankenhäusern
-
-(1) Bei Krankenhäusern oder Teilen von Krankenhäusern, deren
-Investitionskosten weder nach dem Krankenhausfinanzierungsgesetz noch
-nach den landesrechtlichen Vorschriften für den Hochschulbau gefördert
-werden, sowie bei anteilig öffentlich geförderten Maßnahmen mit
-Restfinanzierung durch den Krankenhausträger, sind in dem Budget nach
-§ 12 und den Pflegesätzen nach § 13 zusätzlich zu den nach § 7
-pflegesatzfähigen Kosten Abschreibungen auf Anlagegüter (Absetzungen
-für Abnutzung) nach denselben Grundsätzen zu berücksichtigen, wie sie
-für dieselben Anlagegüter nach steuerrechtlichen Vorschriften zulässig
-sind; Sonderabschreibungen bleiben unberücksichtigt. Ferner können
-berücksichtigt werden:
-
-1.  Rücklagen zur Anpassung an die diagnostisch-therapeutische Entwicklung
-    in Höhe eines Vomhundertsatzes der Absetzungen für Abnutzung,
+(5) Das Krankenhaus hat selbstzahlenden Patientinnen und Patienten
+oder deren gesetzlichem Vertreter die voraussichtlich maßgebenden
+Entgelte so bald wie möglich schriftlich bekannt zu geben, es sei
+denn, die Patientin oder der Patient ist in vollem Umfang für die
+Krankenhausbehandlung versichert. Im Übrigen kann jede Patientin und
+jeder Patient verlangen, dass die voraussichtlich abzurechnenden
+Entgelte unverbindlich mitgeteilt werden. Stehen bei der Aufnahme
+einer selbstzahlenden Patientin oder eines selbstzahlenden Patienten
+die Entgelte noch nicht endgültig fest, so ist hierauf hinzuweisen.
+Dabei ist mitzuteilen, dass das zu zahlende Entgelt sich erhöht, wenn
+das neue Entgelt während der stationären Behandlung der Patientin oder
+des Patienten in Kraft tritt. Die voraussichtliche Erhöhung ist
+anzugeben.
 
 
-2.  Zinsen für Fremdkapital,
+## Vierter Abschnitt - Vereinbarungsverfahren
 
-
-3.  Zinsen für Eigenkapital.
-
-
-
-Nutzungsentgelte für Anlagegüter können bis zur Höhe der Aufwendungen
-berücksichtigt werden, die bei Anschaffung oder Herstellung der
-Anlagegüter nach Satz 1 oder 2 zu berücksichtigen wären. Eine
-außerhalb des Krankenhausfinanzierungsgesetzes oder der
-landesrechtlichen Vorschriften für den Hochschulbau gewährte
-öffentliche Förderung für berücksichtigte pflegesatzfähige Kosten ist
-von den pflegesatzfähigen Kosten abzusetzen.
-
-(2) An Stelle des Verfahrens nach Absatz 1 Satz 1 können pauschale
-Abschreibungsbeträge vereinbart werden, die unter Berücksichtigung der
-durchschnittlichen Nutzungsdauer der Anlagegüter bei sparsamer und
-wirtschaftlicher Betriebsführung angemessen sind.
-
-(3) Für die pflegesatzfähigen Kosten nach Absatz 1 oder 2 ist eine
-Ergänzung zur Leistungs- und Kalkulationsaufstellung nach dem Muster
-der Anlage 2 zu erstellen.
-
-(4) Zu den nach § 7 Abs. 2 abzuziehenden Kosten gehören auch die auf
-die genannten Leistungen entfallenden Investitionskosten. Dies gilt
-nicht im Fall des Erlösabzugs für vor- und nachstationäre Behandlung.
-
-(5) Die nach Absatz 1 oder 2 im Budget zu berücksichtigenden
-Investitionskosten werden anteilig den tagesgleichen Pflegesätzen und
-den Fallpauschalen zugerechnet.
-
-(6) Für Krankenhäuser oder Teile von Krankenhäusern, die auf Grund
-einer Vereinbarung nach § 8 Abs. 1 Satz 2 des
-Krankenhausfinanzierungsgesetzes nur teilweise gefördert werden,
-gelten die Absätze 1 bis 5 entsprechend.
-
-(7) Eine Berechnung der nach den Absätzen 1 bis 6 ermittelten
-Pflegesätze ist nur im Rahmen des § 17 Abs. 5 des
-Krankenhausfinanzierungsgesetzes möglich. Dabei bleiben Ausgleiche und
-Berichtigungen für vorhergehende Pflegesatzzeiträume außer Ansatz.
 
 
 ### § 9 Vereinbarung auf Bundesebene
@@ -578,609 +676,340 @@ für die Vertragsparteien nach § 11 insbesondere
 
 
 3.  die Abrechnungsbestimmungen für die Entgelte nach den Nummern 1 und 2
-    sowie die Regelungen zu Zu- und Abschlägen,
+    sowie die Regelungen zu Zu- und Abschlägen; § 9 Absatz 1a Nummer 1, 2,
+    4 und 5 des Krankenhausentgeltgesetzes gilt entsprechend,
 
 
 4.  Empfehlungen für die Kalkulation und die krankenhausindividuelle
-    Vergütung von Leistungen und neuen Untersuchungs- und
-    Behandlungsmethoden, für die nach § 6 gesonderte Entgelte vereinbart
-    werden können,
+    Vergütung von Leistungen, von regionalen oder strukturellen
+    Besonderheiten in der Leistungserbringung und von neuen Untersuchungs-
+    und Behandlungsmethoden, für die nach § 6 gesonderte Entgelte
+    vereinbart werden können,
 
 
-5.  bis zum 31. Oktober jeden Jahres, erstmals für das Jahr 2013, den
-    Veränderungswert nach Maßgabe des § 10 Absatz 6 Satz 5 oder 6 des
-    Krankenhausentgeltgesetzes für die Begrenzung der Entwicklung des
-    Basisentgeltwerts nach § 10 Absatz 3, wobei bereits anderweitig
-    finanzierte Kostensteigerungen zu berücksichtigen sind, soweit dadurch
-    die Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
-    Sozialgesetzbuch nicht unterschritten wird; im Falle des § 10 Absatz 6
-    Satz 6 des Krankenhausentgeltgesetzes ist die Veränderungsrate nach §
-    71 Absatz 3 des Fünften Buches Sozialgesetzbuch um 40 Prozent dieser
-    Differenz zu erhöhen,
+5.  bis zum 31. Oktober jeden Jahres den Veränderungswert nach Maßgabe des
+    § 10 Absatz 6 Satz 2 oder Satz 3 des Krankenhausentgeltgesetzes, wobei
+    bereits anderweitig finanzierte Kostensteigerungen zu berücksichtigen
+    sind, soweit dadurch die Veränderungsrate nach § 71 Absatz 3 des
+    Fünften Buches Sozialgesetzbuch nicht unterschritten wird; im Falle
+    des § 10 Absatz 6 Satz 3 des Krankenhausentgeltgesetzes ist die
+    Veränderungsrate nach § 71 Absatz 3 des Fünften Buches
+    Sozialgesetzbuch um 40 Prozent dieser Differenz zu erhöhen,
 
 
 6.  den einheitlichen Aufbau der Datensätze und das Verfahren für die
     Übermittlung der Daten nach § 11 Absatz 4 Satz 1 sowie die
-    Weiterentwicklung der Abschnitte E1 bis E3 und B1 und B2 nach der
-    Anlage dieser Verordnung.
-
-
-
-
-(2) Kommt eine Vereinbarung zu Absatz 1 Nummer 1 bis 3 ganz oder
-teilweise nicht zustande, gilt § 17d Absatz 6 des
-Krankenhausfinanzierungsgesetzes. In den übrigen Fällen entscheidet
-auf Antrag einer Vertragspartei die Schiedsstelle nach § 18a Absatz 6
-des Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1
-Nummer 5 hat die Schiedsstelle bis zum 15. November des jeweiligen
-Jahres zu treffen.
-
-
-## Dritter Abschnitt - Entgeltarten und Abrechnung
-
-
-
-### § 10 Vergütung der allgemeinen Krankenhausleistungen
-
-(1) Die allgemeinen Krankenhausleistungen werden vergütet durch
-
-1.  einen Gesamtbetrag nach § 12 (Budget) sowie tagesgleiche Pflegesätze
-    nach § 13, durch die das Budget den Patienten oder ihren Kostenträgern
-    anteilig berechnet wird,
-
-
-2.  einen Zuschlag nach § 17a Abs. 6 des Krankenhausfinanzierungsgesetzes
-    für die Finanzierung der Ausbildungskosten nach § 17a des
-    Krankenhausfinanzierungsgesetzes für den Behandlungsfall.
-
-
-
-
-(2) Mit den Pflegesätzen werden alle für die Versorgung des Patienten
-erforderlichen allgemeinen Krankenhausleistungen vergütet.
-
-(3) Bei Patienten, die im Rahmen einer klinischen Studie behandelt
-werden, sind die Entgelte für allgemeine Krankenhausleistungen nach
-den Absätzen 1 und 2 zu berechnen; dies gilt auch für klinische
-Studien mit Arzneimitteln.
-
-
-### § 11
-
-(aufgehoben)
-
-
-### § 12 Flexibles Budget
-
-(1) Die Vertragsparteien vereinbaren für den Pflegesatzzeitraum das
-Budget auf der Grundlage der voraussichtlichen Leistungsstruktur und
--entwicklung des Krankenhauses.
-
-(2) Weicht die Summe der auf den Pflegesatzzeitraum entfallenden
-Gesamterlöse des Krankenhauses aus den Pflegesätzen nach § 13 von dem
-Budget ab, werden die durch eine abweichende Belegung entstandenen
-Mindererlöse ab dem Jahr 2007 zu 20 vom Hundert, Mehrerlöse bis zur
-Höhe von 5 vom Hundert zu 85 vom Hundert und Mehrerlöse über 5 vom
-Hundert zu 90 vom Hundert ausgeglichen (flexible Budgetierung); die
-auf Grund von § 14 Abs. 7 Satz 1 berechneten Pflegesätze sind
-einzubeziehen, Erlöse nach § 3 Abs. 4 sowie Zu- und Abschläge nach §
-21 Abs. 2 Satz 1 erster Halbsatz bleiben außer Betracht; Mindererlöse
-werden nicht ausgeglichen, soweit diese darauf zurückzuführen sind,
-dass Leistungen im Rahmen von Modellvorhaben nach § 63 oder auf Grund
-vertraglicher Vereinbarungen über integrierte Versorgung nach § 140b
-des Fünften Buches Sozialgesetzbuch vergütet wurden. Die
-Vertragsparteien können im voraus andere Vomhundertsätze vereinbaren,
-wenn dies der Struktur oder der angenommenen Entwicklung von
-Leistungen und Kosten des Krankenhauses besser entspricht. Die
-Vertragsparteien können ergänzend oder anstelle des Ausgleichs nach
-Satz 1 einen Ausgleich vereinbaren, bei dem Veränderungen der Fallzahl
-und der Verweildauer berücksichtigt werden. Mehr- oder Mindererlöse im
-Sinne des Satzes 1, die einem Zuschlag nach § 18b des
-Krankenhausfinanzierungsgesetzes in der bis zum 31. Dezember 2003
-geltenden Fassung zuzurechnen sind, werden abweichend von Satz 1 in
-voller Höhe ausgeglichen. Der Ausgleichsbetrag ist über das Budget des
-folgenden Pflegesatzzeitraums abzurechnen. Steht bei der
-Pflegesatzverhandlung der Ausgleichsbetrag noch nicht fest, sind
-Teilbeträge als Abschlagszahlung auf den Ausgleich zu berücksichtigen.
-
-(3) Die Vertragsparteien sind an das Budget gebunden. Auf Verlangen
-einer Vertragspartei ist bei wesentlichen Änderungen der der
-Vereinbarung eines Budgets zugrunde gelegten Annahmen das Budget für
-den laufenden Pflegesatzzeitraum neu zu vereinbaren. Die
-Vertragsparteien können im voraus vereinbaren, daß in bestimmten
-Fällen das Budget nur teilweise neu vereinbart wird. Der
-Unterschiedsbetrag zum bisherigen Budget ist über das neu vereinbarte
-Budget abzurechnen; § 21 Abs. 2 Satz 3 gilt entsprechend.
-
-(4) Kann der Ausgleichsbetrag nach Absatz 2 Satz 1 wegen der
-Schließung des Krankenhauses durch einen Zu- oder Abschlag nicht oder
-nicht im notwendigen Umfang abgerechnet werden, wird der auf die
-gesetzliche Krankenversicherung entfallende Anteil des noch
-auszugleichenden Betrags den gesetzlichen Krankenkassen, deren
-Versicherte im Vorjahr im Krankenhaus voll- und teilstationär
-behandelt wurden, gesondert in Rechnung gestellt oder an diese
-zurückgezahlt. Auf die einzelne Krankenkasse entfällt davon der
-Teilbetrag, der ihrem entsprechenden Anteil an der Summe der Entgelte
-im Vorjahr entspricht. Die Vertragsparteien nach § 11 können eine
-abweichende Vereinbarung schließen.
-
-
-### § 13 Tagesgleiche Pflegesätze
-
-(1) Die Vertragsparteien vereinbaren auf der Grundlage des Budgets und
-der voraussichtlichen Belegung Abteilungspflegesätze, einen
-Basispflegesatz und entsprechende teilstationäre Pflegesätze. Die
-Pflegesätze sind nach Maßgabe der Leistungs- und
-Kalkulationsaufstellung zu ermitteln.
-
-(2) Als Entgelt für ärztliche und pflegerische Tätigkeit und die durch
-diese veranlassten Leistungen ist für jede organisatorisch
-selbständige bettenführende Abteilung, die von einem fachlich nicht
-weisungsgebundenen Arzt mit entsprechender Fachgebietsbezeichnung
-geleitet wird, ein Abteilungspflegesatz zu vereinbaren. Pflegesätze
-nach Satz 1 sind auch für die Behandlung von Belegpatienten zu
-vereinbaren; für Fachbereiche mit sehr geringer Bettenzahl kann ein
-gemeinsamer Belegpflegesatz vereinbart werden.
-
-(3) Als Entgelt für nicht durch ärztliche und pflegerische Tätigkeit
-veranlaßte Leistungen des Krankenhauses ist ein Basispflegesatz zu
-vereinbaren.
-
-(4) Soweit die nach den Absätzen 2 und 3 zu vergütenden Leistungen
-teilstationär erbracht werden, sind entsprechende Pflegesätze zu
-vereinbaren. Sie sollen vereinfacht aus den vollstationären
-Pflegesätzen abgeleitet werden. Eine Kalkulationsaufstellung nach
-Abschnitt K 6 oder K 7 der Anlage 1 ist nicht vorzulegen.
-
-
-### § 14 Berechnung der Pflegesätze
-
-(1) Die Pflegesätze für allgemeine Krankenhausleistungen sind für alle
-Benutzer des Krankenhauses einheitlich zu berechnen; § 17 Abs. 5 des
-Krankenhausfinanzierungsgesetzes bleibt unberührt. Sie dürfen nur im
-Rahmen des Versorgungsauftrags berechnet werden; dies gilt nicht für
-die Behandlung von Notfallpatienten.
-
-(2) Die Abteilungspflegesätze und der Basispflegesatz sowie die
-entsprechenden teilstationären Pflegesätze werden für den Aufnahmetag
-und jeden weiteren Tag des Krankenhausaufenthalts berechnet
-(Berechnungstag); der Entlassungs- oder Verlegungstag, der nicht
-zugleich Aufnahmetag ist, wird nur bei teilstationärer Behandlung
-berechnet. Satz 1 erster Halbsatz gilt entsprechend bei internen
-Verlegungen; wird ein Patient an einem Tag mehrfach intern verlegt,
-berechnet nur die zuletzt aufnehmende Abteilung den Pflegesatz.
-
-(3) Krankenhäuser in dem in Artikel 3 des Einigungsvertrages genannten
-Gebiet berechnen für jeden Berechnungstag den Investitionszuschlag
-nach Artikel 14 Abs. 3 des Gesundheitsstrukturgesetzes bis zum 31.
-Dezember 2014. Absatz 2 Satz 1 gilt entsprechend.
-
-(4) Für Krankenhausaufenthalte, die voraussichtlich länger als eine
-Woche dauern, kann das Krankenhaus angemessene Vorauszahlungen
-verlangen. Soweit Kostenübernahmeerklärungen von
-Sozialleistungsträgern, sonstigen öffentlich-rechtlichen Kostenträgern
-oder privaten Krankenversicherungen vorliegen, können Vorauszahlungen
-nur von diesen verlangt werden. Die Sätze 1 und 2 gelten nicht, soweit
-andere Regelungen über eine zeitnahe Vergütung der allgemeinen
-Krankenhausleistungen in für das Krankenhaus verbindlichen Regelungen
-nach den §§ 112 bis 114 des Fünften Buches Sozialgesetzbuch oder in
-der Pflegesatzvereinbarung getroffen werden.
-
-(5) Das Krankenhaus hat dem selbstzahlenden Patienten oder seinem
-gesetzlichen Vertreter die für ihn voraussichtlich maßgebenden
-Pflegesätze so bald wie möglich schriftlich bekanntzugeben; gesetzlich
-versicherte Patienten können dies verlangen. Dabei ist mitzuteilen,
-welcher Teilbetrag für Unterkunft und Verpflegung in dem
-Basispflegesatz nach § 13 Abs. 3 enthalten ist. Stehen bei der
-Aufnahme eines selbstzahlenden Patienten die Pflegesätze nach § 13
-noch nicht endgültig fest, ist hierauf hinzuweisen. Dabei ist
-mitzuteilen, daß der Unterschiedsbetrag zum neuen Pflegesatz
-auszugleichen ist, wenn dieser rückwirkend in Kraft tritt, oder daß
-der zu zahlende Pflegesatz sich erhöht, wenn der neue Pflegesatz
-während der stationären Behandlung des Patienten in Kraft tritt. Die
-voraussichtliche Pflegesatzsteigerung ist anzugeben.
-
-(6) Hält das Krankenhaus seine Verpflichtungen zur Qualitätssicherung
-nicht ein, sind von den Pflegesätzen nach § 10 Abschläge nach § 137
-Abs. 1 Satz 3 Nr. 5 des Fünften Buches Sozialgesetzbuch vorzunehmen.
-
-
-## Vierter Abschnitt - Pflegesatzverfahren
-
-
-
-### § 15 Vereinbarung auf Bundesebene
-
-(1) Der Spitzenverband Bund der Krankenkassen und der Verband der
-privaten Krankenversicherung gemeinsam vereinbaren mit der Deutschen
-Krankenhausgesellschaft (Vertragsparteien auf Bundesebene) die
-Berichtigungsrate nach § 6 Abs. 2 Satz 3. Abweichend von Satz 1 ist
-für das Jahr 2009 die nach § 9 Abs. 1 Satz 1 Nr. 5 des
-Krankenhausentgeltgesetzes vereinbarte Rate zu übernehmen.
-
-(2) Der Spitzenverband Bund der Krankenkassen und die Deutsche
-Krankenhausgesellschaft vereinbaren den einheitlichen Aufbau der
-Datensätze und die Grundsätze für die Übermittlung
-
-1.  der Diagnosestatistik nach § 17 Abs. 4 Satz 5 und
-
-
-2.  der weiteren Teile der Leistungs- und Kalkulationsaufstellung.
-
-
-
-Für die Verbindlichkeit der Vereinbarungen gilt § 17 Abs. 2a Satz 6
-des Krankenhausfinanzierungsgesetzes entsprechend.
-
-(3) Kommt in den Fällen des Absatzes 1 und des Absatzes 2 eine
-Vereinbarung nicht zustande, entscheidet auf Antrag einer der
-Vertragsparteien die Schiedsstelle nach § 18a Abs. 6 des
-Krankenhausfinanzierungsgesetzes.
-
-
-### § 16
-
-(aufgehoben)
-
-
-### § 17 Pflegesatzvereinbarung der Vertragsparteien
-
-(1) Die Vertragsparteien regeln in der Pflegesatzvereinbarung das
-Budget sowie Art, Höhe und Laufzeit der tagesgleichen Pflegesätze
-sowie die Berücksichtigung der Ausgleiche und Berichtigungen nach
-dieser Verordnung; bei einer Berichtigung ist zusätzlich zu der
-Berichtigung des bisherigen Budgets (Basisberichtigung) ein
-entsprechender Ausgleich durchzuführen. Sie stellen auch Art und
-Anzahl der Ausbildungsplätze fest. Die Pflegesatzvereinbarung muß auch
-Bestimmungen enthalten, die eine zeitnahe Zahlung der Pflegesätze an
-das Krankenhaus gewährleisten; hierzu sollen insbesondere Regelungen
-über angemessene monatliche Teilzahlungen und Verzugszinsen bei
-verspäteter Zahlung getroffen werden. Die Pflegesatzvereinbarung kommt
-durch Einigung zwischen den Vertragsparteien zustande, die an der
-Pflegesatzverhandlung teilgenommen haben; sie ist schriftlich
-abzuschließen.
-
-(2) Der Pflegesatzzeitraum beträgt ein Kalenderjahr, wenn das
-Krankenhaus ganzjährig betrieben wird. Ein Pflegesatzzeitraum, der
-mehrere Kalenderjahre umfaßt, kann vereinbart werden.
-
-(3) Die Vertragsparteien nehmen die Pflegesatzverhandlung unverzüglich
-auf, nachdem eine Vertragspartei dazu schriftlich aufgefordert hat.
-Die Verhandlung soll unter Berücksichtigung der Sechswochenfrist des §
-18 Abs. 4 des Krankenhausfinanzierungsgesetzes so rechtzeitig
-abgeschlossen werden, daß das neue Budget und die neuen Pflegesätze
-mit Ablauf des laufenden Pflegesatzzeitraumes in Kraft treten können.
-
-(4) Der Pflegesatzverhandlung sind insbesondere die Daten zugrunde zu
-legen, die nach § 5 Abs. 1 für den Krankenhausvergleich zu übermitteln
-sind. Der Krankenhausträger übermittelt auf Verlangen einer
-Vertragspartei zur Vorbereitung der Pflegesatzverhandlung den anderen
-Vertragsparteien, den in § 18 Abs. 1 Satz 2 des
+    Weiterentwicklung der von den Vertragsparteien auf Bundesebene
+    vereinbarten Aufstellung der Entgelte und Budgetermittlung, wobei den
+    Zwecken des leistungsbezogenen Vergleichs nach § 4 Rechnung zu tragen
+    ist,
+
+
+7.  erstmals zum 31. März 2017 und ab 2018 bis zum 28. Februar jeden
+    Jahres die Beschreibung von Leistungen, die für den Zweck des
+    Vergütungssystems nach § 17d des Krankenhausfinanzierungsgesetzes in
+    den Prozedurenschlüssel nach § 301 Absatz 2 des Fünften Buches
+    Sozialgesetzbuch einzuführen sind, sowie die Benennung von Schlüsseln,
+    die zu streichen sind, da sie sich für diesen Zweck als nicht
+    erforderlich erwiesen haben; das Deutsche Institut für Medizinische
+    Dokumentation und Information soll erforderliche Änderungen im
+    Prozedurenschlüssel nach § 301 Absatz 2 des Fünften Buches
+    Sozialgesetzbuch zum nächstmöglichen Zeitpunkt umsetzen,
+
+
+8.  bis zum 31. März 2017 die Ausgestaltung des Nachweises nach § 18
+    Absatz 2 Satz 2 und 3, insbesondere den einheitlichen Aufbau der
+    Datensätze sowie das Verfahren für die Übermittlung der Daten,
+
+
+9.  bis zum 1. Januar 2019 auf der Grundlage eines Konzepts des Instituts
+    für das Entgeltsystem im Krankenhaus die näheren Einzelheiten des
+    leistungsbezogenen Vergleichs nach § 4, insbesondere zu dessen
+    Ausgestaltung, Organisation, Durchführung, Finanzierung und Anwendung;
+    in die Vereinbarung ist eine Regelung zum Verfahren für die
+    Übermittlung der Daten nach § 4 Absatz 1 Satz 2 an das Institut für
+    das Entgeltsystem im Krankenhaus zum Zweck der Ermittlung der
+    Ergebnisse des leistungsbezogenen Vergleichs und zum Verfahren für die
+    Übermittlung der Ergebnisse des leistungsbezogenen Vergleichs nach § 4
+    Absatz 1 Satz 3 an die Vertragsparteien nach § 11 und die Beteiligten
+    nach § 18 Absatz 1 Satz 2 des Krankenhausfinanzierungsgesetzes
+    aufzunehmen.
+
+
+
+
+(2) Kommt eine Vereinbarung zu Absatz 1 Nummer 1 und 2 sowie die
+Abrechnungsbestimmungen nach Nummer 3 ganz oder teilweise nicht
+zustande, gilt § 17d Absatz 6 des Krankenhausfinanzierungsgesetzes. In
+den übrigen Fällen entscheidet auf Antrag einer Vertragspartei die
+Schiedsstelle nach § 18a Absatz 6 des
+Krankenhausfinanzierungsgesetzes; eine Entscheidung zu Absatz 1 Nummer
+5 hat die Schiedsstelle bis zum 15. November des jeweiligen Jahres zu
+treffen.
+
+
+### § 10 (weggefallen)
+
+
+### § 11 Vereinbarung für das einzelne Krankenhaus
+
+(1) Nach Maßgabe der §§ 3 bis 6 und unter Beachtung des
+Versorgungsauftrags des Krankenhauses (§ 8 Absatz 1 Satz 3 und 4)
+regeln die Vertragsparteien nach § 18 Absatz 2 des
+Krankenhausfinanzierungsgesetzes (Vertragsparteien) in der
+Vereinbarung den Gesamtbetrag, das Erlösbudget, die Summe der
+Bewertungsrelationen, den krankenhausindividuellen Basisentgeltwert,
+die Erlössumme, die sonstigen Entgelte, die Zu- und Abschläge und die
+Mehr- und Mindererlösausgleiche. Die Vereinbarung ist für einen
+zukünftigen Zeitraum (Vereinbarungszeitraum) zu treffen. Die
+Vereinbarung muss auch Bestimmungen enthalten, die eine zeitnahe
+Zahlung der Entgelte an das Krankenhaus gewährleisten; hierzu sollen
+insbesondere Regelungen zu angemessenen monatlichen Teilzahlungen und
+Verzugszinsen bei verspäteter Zahlung getroffen werden. Die
+Vereinbarung kommt durch Einigung zwischen den Vertragsparteien
+zustande, die an der Verhandlung teilgenommen haben; sie ist
+schriftlich abzuschließen und unter Verwendung der in Absatz 4 Satz 1
+genannten Unterlagen auf maschinenlesbaren Datenträgern zu
+dokumentieren.
+
+(2) Der Vereinbarungszeitraum beträgt ein Kalenderjahr, wenn das
+Krankenhaus ganzjährig betrieben wird. Ein Zeitraum, der mehrere
+Kalenderjahre umfasst, kann vereinbart werden.
+
+(3) Die Vertragsparteien nehmen die Verhandlung unverzüglich auf,
+nachdem eine Vertragspartei dazu schriftlich aufgefordert hat. Die
+Verhandlung soll unter Berücksichtigung der Sechswochenfrist des § 18
+Absatz 4 des Krankenhausfinanzierungsgesetzes so rechtzeitig
+abgeschlossen werden, dass das neue Budget und die neuen Entgelte mit
+Ablauf des laufenden Vereinbarungszeitraums in Kraft treten können.
+
+(4) Der Krankenhausträger übermittelt zur Vorbereitung der Verhandlung
+den anderen Vertragsparteien, den in § 18 Absatz 1 Satz 2 des
 Krankenhausfinanzierungsgesetzes genannten Beteiligten und der
-zuständigen Landesbehörde die Leistungs- und Kalkulationsaufstellung
-nach dem Muster der Anlagen 1 und 2 oder Teile davon. Die Leistungs-
-und Kalkulationsaufstellung enthält insbesondere Angaben zu den
-vereinbarten Vergütungen, den Leistungen und den Kalkulationen von
-Budget und tagesgleichen Pflegesätzen des Krankenhauses. Die
-Leistungsaufstellung umfasst insbesondere eine anonymisierte,
-abteilungsbezogene Diagnosestatistik nach dem Schlüssel der
-Internationalen statistischen Klassifikation der Krankheiten und
-verwandter Gesundheitsprobleme (ICD) mit Angaben zu Verweildauer und
-Alter der Patienten sowie dazu, ob der Patient im Zusammenhang mit der
-Hauptdiagnose operiert wurde, in der jeweils vom Bundesministerium für
-Gesundheit nach § 301 Abs. 2 Satz 3 des Fünften Buches
-Sozialgesetzbuch bekannt gegebenen Fassung. Die Diagnosestatistik ist
-auf maschinenlesbaren Datenträgern vorzulegen. Übt das Krankenhaus
-sein Wahlrecht nach § 3 Abs. 4 aus, werden die Kosten und Leistungen
-für diese Patienten nicht in der allgemeinen Leistungs- und
-Kalkulationsaufstellung, sondern nach deren Anhang 3 ausgewiesen.
+zuständigen Landesbehörde
 
-(5) Soweit dies zur Beurteilung der Leistungen des Krankenhauses im
-Rahmen seines Versorgungsauftrags im Einzelfall erforderlich ist, hat
-das Krankenhaus auf gemeinsames Verlangen der anderen Vertragsparteien
-nach § 18 Abs. 2 Nr. 1 und 2 Krankenhausfinanzierungsgesetz
-zusätzliche Unterlagen vorzulegen und Auskünfte zu erteilen. Bei dem
-Verlangen nach Satz 1 muß der zu erwartende Nutzen den verursachten
-Aufwand deutlich übersteigen.
-
-(6) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum
-Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses sowie
-zur Höhe der medizinisch leistungsgerechten Vergütung eines
-Krankenhauses so frühzeitig gemeinsam vorzuklären, daß die
-Pflegesatzverhandlung zügig durchgeführt werden kann. Können
-wesentliche Fragen bis zur Pflegesatzverhandlung nicht geklärt werden,
-sollen das Budget und die Pflegesätze auf der Grundlage der
-verfügbaren Daten vereinbart werden. Soweit erforderlich, kann eine
-Prüfung dieser Fragen vereinbart werden. Das Ergebnis der Prüfung ist
-in der nächsten Pflegesatzverhandlung zu berücksichtigen.
-
-(7) Die Vertragsparteien können auch Rahmenvereinbarungen abschließen,
-die insbesondere ihre Rechte und Pflichten, die Vorbereitung, den
-Beginn und das Verfahren der Pflegesatzverhandlung näher bestimmen
-sowie festlegen, welche Krankenhäuser vergleichbar sind.
-
-(8) Absatz 1 Satz 3, Absatz 5 und Absatz 7 gelten nicht, soweit für
-das Krankenhaus verbindliche Regelungen nach den §§ 112 bis 115 des
-Fünften Buches Sozialgesetzbuch getroffen worden sind.
-
-(9) Die im Rahmen einer Vereinbarung von Pflegesätzen übermittelten
-Einzelangaben über persönliche oder sachliche Verhältnisse einer
-bestimmten oder bestimmbaren natürlichen Person dürfen von den
-Empfängern nicht zu anderen Zwecken verarbeitet oder genutzt werden.
+1.  ab dem krankenhausindividuellen Einführungsjahr des Vergütungssystems
+    und bis einschließlich des Jahres 2019 die Unterlagen der Vereinbarung
+    nach § 9 Absatz 1 Nummer 6 in ihrer jeweils aktuellen Fassung sowie
+    die Leistungs- und Kalkulationsaufstellung nach Anlage 1 in der am 31.
+    Dezember 2012 geltenden Fassung mit Ausnahme der Abschnitte V1, V4, L4
+    und K4,
 
 
-### § 18 Vorläufige Pflegesatzvereinbarung
+2.  für die Jahre ab 2020 die Unterlagen der Vereinbarung nach § 9 Absatz
+    1 Nummer 6 in ihrer jeweils aktuellen Fassung.
 
-(1) Können sich die Vertragsparteien über die Höhe des Budgets nicht
-einigen und soll wegen der Gegenstände, über die keine Einigung
-erzielt werden konnte, die Schiedsstelle angerufen werden, vereinbaren
-die Vertragsparteien ein vorläufiges Budget in der unstrittigen Höhe.
 
-(2) Die auf dem vorläufigen Budget beruhenden tagesgleichen
-Pflegesätze sind zu erheben, bis die endgültig maßgebenden
-tagesgleichen Pflegesätze in Kraft treten. Mehr- oder Mindererlöse des
-Krankenhauses infolge der nach Satz 1 erhobenen vorläufigen
-tagesgleichen Pflegesätze werden durch Zu- oder Abschläge auf die
-Pflegesätze des laufenden oder eines folgenden Pflegesatzzeitraumes
+
+Die Daten sind auf maschinenlesbaren Datenträgern vorzulegen. Das
+Krankenhaus hat auf gemeinsames Verlangen der anderen Vertragsparteien
+nach § 18 Absatz 2 Nummer 1 und 2 des Krankenhausfinanzierungsgesetzes
+zusätzliche Unterlagen vorzulegen und Auskünfte zu erteilen, soweit
+dies zur Beurteilung der Leistungen des Krankenhauses im Rahmen seines
+Versorgungsauftrags im Einzelfall erforderlich ist und wenn der zu
+erwartende Nutzen den verursachten Aufwand deutlich übersteigt.
+
+(5) Die Vertragsparteien sind verpflichtet, wesentliche Fragen zum
+Versorgungsauftrag und zur Leistungsstruktur des Krankenhauses,
+einschließlich regionaler oder struktureller Besonderheiten in der
+Leistungserbringung, sowie zur Höhe der Zu- und Abschläge nach § 5 so
+frühzeitig gemeinsam vorzuklären, dass die Verhandlung zügig
+durchgeführt werden kann.
+
+
+### § 12 Vorläufige Vereinbarung
+
+Können sich die Vertragsparteien insbesondere über die Höhe des
+Gesamtbetrags, des Erlösbudgets, des krankenhausindividuellen
+Basisentgeltwerts oder über die Höhe sonstiger Entgelte nicht einigen
+und soll deswegen die Schiedsstelle nach § 13 angerufen werden,
+schließen die Vertragsparteien eine Vereinbarung, soweit die Höhe
+unstrittig ist. Die auf dieser Vereinbarung beruhenden Entgelte sind
+so lange zu erheben, bis die endgültig maßgebenden Entgelte
+verbindlich werden. Mehr- oder Mindererlöse des Krankenhauses infolge
+der erhobenen vorläufigen Entgelte werden durch Zu- oder Abschläge auf
+die Entgelte des laufenden oder eines folgenden Vereinbarungszeitraums
 ausgeglichen.
 
 
-### § 19 Schiedsstelle
+### § 13 Schiedsstelle
 
-(1) Kommt eine Pflegesatzvereinbarung ganz oder teilweise nicht
+(1) Kommt eine Vereinbarung nach § 11 ganz oder teilweise nicht
 zustande, entscheidet die Schiedsstelle nach § 18a Abs. 1 des
-Krankenhausfinanzierungsgesetzes auf Antrag einer der in § 17
+Krankenhausfinanzierungsgesetzes auf Antrag einer der in § 11
 genannten Vertragsparteien. Sie ist dabei an die für die
 Vertragsparteien geltenden Rechtsvorschriften gebunden.
 
 (2) Die Schiedsstelle entscheidet innerhalb von sechs Wochen über die
 Gegenstände, über die keine Einigung erreicht werden konnte.
 
-(3) Die Schiedsstelle entscheidet nicht über die Anwendung folgender
-Vorschriften: § 3 Abs. 2 Satz 4, § 8 Abs. 2, § 12 Abs. 2 Satz 2 und 3,
-Abs. 3 Satz 3, § 17 Abs. 2 Satz 2, Abs. 6 Satz 3 und Abs. 7 und § 24.
+(3) (weggefallen)
 
 
-### § 20 Genehmigung
+### § 14 Genehmigung
 
-(1) Die Genehmigung der nach § 12 Abs. 3 und den §§ 16 bis 18
-vereinbarten oder von der Schiedsstelle festgesetzten Pflegesätze ist
-von einer der in § 16 oder § 17 genannten Vertragsparteien bei der
-zuständigen Landesbehörde zu beantragen.
+(1) Die Genehmigung des vereinbarten oder von der Schiedsstelle nach §
+13 festgesetzten krankenhausindividuellen Basisentgeltwerts, des
+Erlösbudgets, der Erlössumme, der sonstigen Entgelte und der
+krankenhausindividuell ermittelten Zu- und Abschläge ist von einer der
+Vertragsparteien bei der zuständigen Landesbehörde zu beantragen. Die
+zuständige Landesbehörde erteilt die Genehmigung, wenn die
+Vereinbarung oder Festsetzung den Vorschriften dieser Verordnung sowie
+sonstigem Recht entspricht.
 
 (2) Die Vertragsparteien und die Schiedsstellen haben der zuständigen
 Landesbehörde die Unterlagen vorzulegen und die Auskünfte zu erteilen,
 die für die Prüfung der Rechtmäßigkeit erforderlich sind. Im übrigen
-sind die für die Vertragsparteien bezüglich der Pflegesatzverhandlung
-geltenden Rechtsvorschriften entsprechend anzuwenden. Die Genehmigung
-kann mit Nebenbestimmungen verbunden werden, soweit dies erforderlich
-ist, um rechtliche Hindernisse zu beseitigen, die einer
-uneingeschränkten Genehmigung entgegenstehen.
+sind die für die Vertragsparteien bezüglich der Vereinbarung geltenden
+Rechtsvorschriften entsprechend anzuwenden. Die Genehmigung kann mit
+Nebenbestimmungen verbunden werden, soweit dies erforderlich ist, um
+rechtliche Hindernisse zu beseitigen, die einer uneingeschränkten
+Genehmigung entgegenstehen.
 
 (3) Wird die Genehmigung eines Schiedsspruches versagt, ist die
 Schiedsstelle auf Antrag verpflichtet, unter Beachtung der
 Rechtsauffassung der Genehmigungsbehörde erneut zu entscheiden.
 
+(4) (weggefallen)
 
-### § 21 Laufzeit
 
-(1) Die neuen tagesgleichen Pflegesätze werden vom Beginn des neuen
-Pflegesatzzeitraums an erhoben. Wird das neue Budget erst nach diesem
-Zeitpunkt genehmigt, sind die Pflegesätze ab dem ersten Tag des Monats
-zu erheben, der auf die Genehmigung folgt, soweit in der
-Pflegesatzvereinbarung oder Schiedsstellenentscheidung kein anderer
-zukünftiger Zeitpunkt bestimmt ist. Bis dahin sind die bisher
-geltenden tagesgleichen Pflegesätze weiter zu erheben. Sie sind jedoch
-um die darin enthaltenen Ausgleichsbeträge zu bereinigen, wenn und
-soweit dies in der bisherigen Pflegesatzvereinbarung oder -festsetzung
-so bestimmt worden ist. Ein rückwirkendes Erheben der Pflegesätze ist
-bei der Schließung eines Krankenhauses zulässig.
+### § 15 Laufzeit
+
+(1) Die mit Bewertungsrelationen bewerteten Entgelte und sonstigen
+Entgelte werden in der für das Kalenderjahr vereinbarten
+krankenhausindividuellen Höhe vom Beginn des neuen
+Vereinbarungszeitraums an erhoben. Wird die Vereinbarung erst nach
+diesem Zeitpunkt genehmigt, so sind die Entgelte ab dem ersten Tag des
+Monats zu erheben, der auf die Genehmigung folgt, sofern in der
+Vereinbarung oder Schiedsstellenentscheidung kein anderer zukünftiger
+Zeitpunkt bestimmt ist. Bis dahin sind die bisher geltenden Entgelte
+weiter zu erheben; dies gilt auch bei der Einführung des
+Vergütungssystems nach § 17d des Krankenhausfinanzierungsgesetzes im
+Jahr 2013, 2014, 2015, 2016, 2017 oder 2018. Sie sind jedoch um die
+darin enthaltenen Ausgleichsbeträge zu bereinigen, wenn und soweit
+dies in der bisherigen Vereinbarung oder Festsetzung so bestimmt
+worden ist.
 
 (2) Mehr- oder Mindererlöse infolge der Weitererhebung der bisherigen
-tagesgleichen Pflegesätze nach Absatz 1 Satz 3 werden durch Zu- und
-Abschläge auf die im restlichen Pflegesatzzeitraum zu erhebenden neuen
-tagesgleichen Pflegesätze ausgeglichen; wird der Ausgleichsbetrag
-durch die Erlöse aus Zu- und Abschlägen im restlichen
-Pflegesatzzeitraum über- oder unterschritten, wird der abweichende
-Betrag über das nächste Budget ausgeglichen. Wird das neue Budget erst
-nach Ablauf des neuen Pflegesatzzeitraums genehmigt, erfolgt der
-Ausgleich über das nächste Budget. Würden die tagesgleichen
-Pflegesätze durch diesen Ausgleich und einen Betrag nach § 12 Abs. 3
-Satz 4 insgesamt um mehr als 30 vom Hundert erhöht, sind übersteigende
-Beträge bis jeweils zu dieser Grenze in nachfolgenden Budgets
-auszugleichen. Ein Ausgleich von Mindererlösen entfällt, soweit die
-verspätete Genehmigung des Budgets von dem Krankenhaus zu vertreten
-ist. Kann der Ausgleichsbetrag nach Satz 1 wegen der Schließung des
-Krankenhauses durch einen Zu- oder Abschlag nicht oder nicht im
-notwendigen Umfang abgerechnet werden, gilt § 12 Abs. 4 entsprechend.
-
-(3) u. (4) (weggefallen)
+Entgelte werden durch Zu- und Abschläge auf die im restlichen
+Vereinbarungszeitraum zu erhebenden neuen Entgelte ausgeglichen. Wird
+der Ausgleichsbetrag durch die Erlöse aus diesen Zu- und Abschlägen im
+restlichen Vereinbarungszeitraum über- oder unterschritten, so wird
+der abweichende Betrag über die Entgelte des nächsten
+Vereinbarungszeitraums ausgeglichen; es ist ein einfaches
+Ausgleichsverfahren zu vereinbaren. Würden die Entgelte durch diesen
+Ausgleich und einen Betrag nach § 3 Absatz 9 insgesamt um mehr als 30
+Prozent erhöht, sind übersteigende Beträge bis jeweils zu dieser
+Grenze in nachfolgenden Budgets auszugleichen. Ein Ausgleich von
+Mindererlösen entfällt, soweit die verspätete Genehmigung der
+Vereinbarung von dem Krankenhaus zu vertreten ist.
 
 
 ## Fünfter Abschnitt - Sonstige Vorschriften
 
 
 
-### § 22 Gesondert berechenbare ärztliche und andere Leistungen
+### § 16 Gesondert berechenbare ärztliche und andere Leistungen
 
-(1) Ab dem 1. Januar 2005 gilt für Belegeärzte § 18 des
+Die Berechnung belegärztlicher Leistungen richtet sich nach § 18 des
 Krankenhausentgeltgesetzes. Die Vereinbarung und Berechnung von
-Wahlleistungen richtet sich ab dem 1. Januar 2005 nach den §§ 17 und
-19 des Krankenhausentgeltgesetzes.
-
-(2) Bis zum 31. Dezember 2004 sind die §§ 22 bis 24 in der am 31.
-Dezember 2003 geltenden Fassung weiter anzuwenden.
+Wahlleistungen auch für stationsäquivalente Behandlung richten sich
+nach den §§ 17 und 19 des Krankenhausentgeltgesetzes.
 
 
-### § 23 Landespflegesatzausschüsse
-
-(1) Zur Beratung über Pflegesatzfragen wird auf Landesebene ein
-Pflegesatzausschuß gebildet. Der Ausschuß setzt sich neben dem
-Vertreter des Landes aus sechs Vertretern der Krankenhäuser, fünf
-Vertretern der Sozialleistungsträger und einem Vertreter der privaten
-Krankenversicherung zusammen. Die Vertreter der Krankenhäuser und der
-beteiligten Organisationen werden jeweils durch die
-Krankenhausgesellschaft, die Verbände oder Arbeitsgemeinschaften der
-Sozialleistungsträger und den Ausschuß des Verbandes der privaten
-Krankenversicherung im Lande benannt und von der zuständigen
-Landesbehörde bestellt. Diese beruft die Vertreter, falls die
-Berechtigten keine Vorschläge machen.
-
-(2) Die zuständige Landesbehörde führt die Geschäfte des Ausschusses.
-Der Ausschuß gibt sich eine Geschäftsordnung.
-
-(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
-bestimmen, daß
-
-1.  der Ausschuß sich aus sieben Vertretern der Krankenhäuser, sechs
-    Vertretern der Sozialleistungsträger und einem Vertreter der privaten
-    Krankenversicherung zusammensetzt,
-
-
-2.  neben oder an Stelle des Ausschusses auf Landesebene mehrere
-    Ausschüsse für Pflegesatzfragen auf regionaler Ebene gebildet werden.
-
-
-
-Die Landesregierungen können diese Ermächtigung durch Rechtsverordnung
-auf oberste Landesbehörden übertragen.
-
-
-### § 24 Modellvorhaben
-
-Die Vertragsparteien können im Einvernehmen mit den Vertragsparteien
-nach § 17b Abs. 2 Satz 1 des Krankenhausfinanzierungsgesetzes ein
-zeitlich begrenztes Modellvorhaben zur Entwicklung pauschalierter
-Vergütungen vereinbaren. Für das Modellvorhaben ist eine
-wissenschaftliche Begleitung zu vereinbaren; deren Kosten sind
-pflegesatzfähig. Die Ergebnisse des Vorhabens und der Begleitung sowie
-eine Beurteilung durch die Vertragsparteien sind nach Abschluss des
-Vorhabens, spätestens nach drei Jahren, den Vertragsparteien nach §
-17b Abs. 2 Satz 1 des Krankenhausfinanzierungsgesetzes, der für die
-Genehmigung zuständigen Landesbehörde und dem Bundesministerium für
-Gesundheit mitzuteilen.
-
-
-### § 25 Zuständigkeit der Krankenkassen auf Landesebene
+### § 17 Zuständigkeit der Krankenkassen auf Landesebene
 
 Die in dieser Verordnung den Landesverbänden der Krankenkassen
 zugewiesenen Aufgaben nehmen für die Ersatzkassen die nach § 212 Abs.
 5 des Fünften Buches Sozialgesetzbuch benannten Bevollmächtigten, für
 die knappschaftliche Krankenversicherung die Deutsche
 Rentenversicherung Knappschaft-Bahn-See und für die
-Krankenversicherung der Landwirte die örtlich zuständigen
-landwirtschaftlichen Krankenkassen wahr.
+Krankenversicherung der Landwirte die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau wahr.
 
 
-### § 26 Übergangsvorschriften
+### § 18 Übergangsvorschriften
 
-Das Budget nach § 12 für das Jahr 2005 wird um die Kosten der
-Ausbildungsstätten und die Mehrkosten der Ausbildungsvergütungen in
-Höhe des Betrags nach § 17a Abs. 4 Satz 3 des
-Krankenhausfinanzierungsgesetzes vermindert. Bei der Vereinbarung des
-Budgets für das Jahr 2006 ist die Berichtigung einer Fehlschätzung
-nach § 17a Abs. 4 Satz 4 des Krankenhausfinanzierungsgesetzes zu
-berücksichtigen.
+(1) Krankenhäuser, die in den Jahren 2013, 2014, 2015, 2016 oder 2017
+nach § 3 Absatz 1 Satz 2 das Vergütungssystem nach § 17d des
+Krankenhausfinanzierungsgesetzes nicht einführen, haben in diesen
+Jahren die Bundespflegesatzverordnung in der am 31. Dezember 2012
+geltenden Fassung mit der Maßgabe anzuwenden, dass
 
-
-### Anlage 1 (zu § 17 Abs. 4) Leistungs- und Kalkulationsaufstellung
-
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 27 - 43;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+1.  anstelle der Veränderungsrate nach § 6 Absatz 1 Satz 3 ab dem Jahr
+    2013 der Veränderungswert nach § 9 Absatz 1 Nummer 5 der
+    Bundespflegesatzverordnung in der ab dem 1. Januar 2013 jeweils
+    geltenden Fassung als maßgebliche Rate für den Anstieg des
+    Gesamtbetrags gilt,
 
 
-### Anhang 1 (zu Anlage 1) zur Leistungs- und Kalkulationsaufstellung
-
-Fundstelle des Originaltextes: BGBl. I 2002, 1421
-
-*    *   lfd. Nr.
-
-    *   Bettenführende Fachabteilungen \*)
+2.  § 6 Absatz 2 zum 31. Dezember 2012 aufgehoben wird,
 
 
-*    *   1
-
-    *   Psychiatrie und Psychotherapie
+3.  § 15 Absatz 1 Satz 1 letztmalig für das Jahr 2012 gilt,
 
 
-*    *   2
-
-    *   Kinder- und Jugendpsychiatrie und -psychotherapie
-
-
-*    *   3
-
-    *   Psychosomatik
-
-
-*    *   4
-
-    *   Psychotherapeutische Medizin
+4.  § 3 Absatz 4 Satz 1 auf Leistungen für Empfänger von
+    Gesundheitsleistungen nach dem Asylbewerberleistungsgesetz
+    entsprechend anzuwenden ist, wobei das Verlangen für im Jahr 2015
+    zusätzlich erbrachte Leistungen für Empfänger von
+    Gesundheitsleistungen nach dem Asylbewerberleistungsgesetz, die in
+    einem nachfolgenden Vereinbarungszeitraum zu Mehrerlösausgleichen
+    führen, nachträglich geäußert werden kann und
 
 
-*    *   5
-
-    *   Sonstige
+5.  § 3 Absatz 4 in der ab dem 1. Januar 2017 jeweils geltenden Fassung
+    entsprechend anzuwenden ist.
 
 
 
 
-\*) Nur Abteilungen, die von einem fachlich nicht weisungsgebundenen Arzt
-    mit entsprechender Fachgebietsbezeichnung geleitet werden und die für
-    dieses Fachgebiet überwiegend genutzt werden.
+(2) Für die Jahre 2013 bis 2019 haben die Krankenhäuser, die eine
+Vereinbarung nach § 6 Absatz 4 in der am 31. Dezember 2012 geltenden
+Fassung abschließen, den anderen Vertragsparteien nach § 11 eine
+Bestätigung des Jahresabschlussprüfers über die tatsächliche
+jahresdurchschnittliche Stellenbesetzung in Vollkräften sowie über die
+zweckentsprechende Mittelverwendung vorzulegen; nicht
+zweckentsprechend verwendete Mittel sind zurückzuzahlen. Für die Jahre
+2016, 2017, 2018 und 2019 hat das Krankenhaus dem Institut für das
+Entgeltsystem im Krankenhaus und den anderen Vertragsparteien nach §
+11 nachzuweisen, inwieweit die Vorgaben der Psychiatrie-
+Personalverordnung zur Zahl der Personalstellen eingehalten werden.
+Für die Jahre ab 2020 hat das Krankenhaus dem Institut für das
+Entgeltsystem im Krankenhaus und den anderen Vertragsparteien nach §
+11 die Einhaltung der von dem Gemeinsamen Bundesausschuss nach § 136a
+Absatz 2 des Fünften Buches Sozialgesetzbuch festgelegten Vorgaben zur
+Ausstattung mit dem für die Behandlung erforderlichen therapeutischen
+Personal nachzuweisen. Für den Nachweis nach den Sätzen 2 und 3 hat
+das Krankenhaus eine Bestätigung des Jahresabschlussprüfers über die
+zweckentsprechende Mittelverwendung vorzulegen. Aus dem Nachweis nach
+den Sätzen 2 und 3 müssen insbesondere die vereinbarte
+Stellenbesetzung in Vollkräften, die tatsächliche
+jahresdurchschnittliche Stellenbesetzung in Vollkräften, jeweils
+gegliedert nach Berufsgruppen, sowie der Umsetzungsgrad der
+personellen Anforderungen hervorgehen. Das Krankenhaus übermittelt den
+Nachweis nach den Sätzen 2 und 3 zum 31. März jeden Jahres für das
+jeweils vorangegangene Kalenderjahr an die anderen Vertragsparteien
+nach § 11 und an das Institut für das Entgeltsystem im Krankenhaus für
+die Weiterentwicklung des Entgeltsystems nach § 17d des
+Krankenhausfinanzierungsgesetzes und für die Ermittlung der Ergebnisse
+des leistungsbezogenen Vergleichs nach § 4; die Angaben für das Jahr
+2016 sind bis zum 1. August 2017 zu übermitteln.
 
-
-
-
-
-### Anhang 2 (zu Anlage 1) zur Leistungs- und Kalkulationsaufstellung
-
-(Inhalt: nicht erfaßte Tabelle,
-Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67, S. 45 - 46;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-### Anhang 3 zur Leistungs- und Kalkulationsaufstellung Gesonderter Ausweis für ausländische Patienten nach § 3 Abs. 4
-
-Fundstelle des Originaltextes: BGBl. I 1997, 2880;
-bzgl. der einzelnen Änderungen vgl. Fußnote
-
-Die Leistungen des Krankenhauses und seiner Abteilungen für
-ausländische Patienten nach § 3 Abs. 4 sind in gesonderten Abschnitten
-"L1" und "L3" auszuweisen, begrenzt auf folgende Inhalte:
-
-*    *   - lfd. Nr. 4
-
-    *   BT mit tagesgleichen Pflegesätzen 4),
-
-
-*    *   - lfd. Nr. 8
-
-    *   Belegungstage FP-Bereich 9),
-
-
-*    *   - lfd. Nr. 13
-
-    *   Vollstationäre Fälle mit tagesgleichen Pflegesätzen 11),
-
-
-*    *   - lfd. Nr. 18
-
-    *   Teilstationäre Fälle mit tagesgleichen Pflegesätzen 11a),
-
-
-*    *   - lfd. Nr. 19
-
-    *   Fälle mit Fallpauschalen.
-
-
-
-
-
-### Anlage 2 (zu § 17 Abs. 4) Ergänzende Kalkulationsaufstellung für nicht oder teilweise geförderte Krankenhäuser
-
-(Inhalt: nicht darstellbare Tabelle,
-Fundstelle: Anlageband zum BGBl. I 1994 Nr. 67 S. 47 - 50;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(3) Soweit der Nachweis nach Absatz 2 Satz 2 bei der tatsächlichen
+jahresdurchschnittlichen Stellenbesetzung für das Jahr 2016 eine
+Unterschreitung der Vorgaben der Psychiatrie-Personalverordnung zur
+Zahl der Personalstellen ausweist, ist der Gesamtbetrag nach § 3
+Absatz 2 für die Jahre 2017 bis 2019 in Höhe der entstehenden Kosten
+für zusätzlich zu besetzende Stellen zur Erreichung der Vorgaben der
+Psychiatrie-Personalverordnung zu erhöhen. Die Begrenzung des Anstiegs
+des Gesamtbetrags durch den Veränderungswert nach § 9 Absatz 1 Nummer
+5 findet keine Anwendung. Eine Rückzahlung von Mitteln und eine
+Absenkung des Gesamtbetrags ist für die Jahre 2017 bis 2019 nicht
+vorzunehmen, wenn das Krankenhaus nachweist, dass die im Gesamtbetrag
+vereinbarten Mittel für Personal vollständig für die Finanzierung von
+Personal verwendet wurden. Wurden Personalmittel abweichend von Satz 3
+nicht zweckentsprechend verwendet, ist § 3 Absatz 3 Satz 8
+entsprechend anzuwenden. Die Sätze 1 bis 4 gelten entsprechend für
+Krankenhäuser nach Absatz 1.
 

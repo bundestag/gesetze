@@ -3,7 +3,7 @@ Title: Erlaß über die Genehmigung von Änderungen der Satzung des Ordens Pour 
   für Wissenschaften und Künste
 jurabk: PMeriteSaÄndErl 1990
 layout: default
-origslug: pmeritesa_nderl_1990
+origslug: pmeritesaaenderl_1990
 slug: pmeritesaaenderl_1990
 
 ---

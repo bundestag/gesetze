@@ -4,7 +4,7 @@ Title: Gesetz über den Staatsvertrag betreffend den Übergang der Wasserstraße
   der Bundeswasserstraßen)
 jurabk: WaStrÜbgVtrG
 layout: default
-origslug: wastr_bgvtrg
+origslug: wastruebgvtrg
 slug: wastruebgvtrg
 
 ---

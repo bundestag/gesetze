@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1911
 
 Zuletzt geändert durch
-:   Art. 7 G v. 30.7.2009 I 2479
+:   Art. 7 G v. 5.6.2017 I 1476
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -61,7 +61,7 @@ nicht in Frage kommen, als investierende Mitglieder zugelassen werden
 können.
 
 
-## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch Verschmelzung
+## Abschnitt 2 - Gründung einer Europäischen Genossenschaft durch  Verschmelzung
 
 
 
@@ -282,9 +282,9 @@ Satzung kann eine höhere Zahl vorsehen.
 Satzung kann eine höhere Zahl vorsehen. Die Beteiligung der
 Arbeitnehmer nach dem SCE-Beteiligungsgesetz bleibt unberührt.
 
-(2) Auf die Zusammensetzung des Aufsichtsorgans sind § 96 Abs. 2 sowie
-die §§ 97 bis 99 und 104 des Aktiengesetzes entsprechend anzuwenden,
-wobei auch der SCE-Betriebsrat antragsberechtigt ist.
+(2) Auf die Zusammensetzung des Aufsichtsorgans sind § 96 Absatz 4
+sowie die §§ 97 bis 99 und 104 des Aktiengesetzes entsprechend
+anzuwenden, wobei auch der SCE-Betriebsrat antragsberechtigt ist.
 
 (3) § 51 des Genossenschaftsgesetzes ist mit der Maßgabe anzuwenden,
 dass das gesetzwidrige Zustandekommen von Wahlvorschlägen für die
@@ -368,14 +368,16 @@ Direktoren besondere Regelungen enthalten sind.
 Europäischen Genossenschaft, die nicht mehr als 20 Mitglieder hat, aus
 mindestens drei Personen. Die Beteiligung der Arbeitnehmer nach dem
 SCE-Beteiligungsgesetz bleibt unberührt. Bei einer Europäischen
-Genossenschaft, die kapitalmarktorientiert im Sinn des § 264d des
-Handelsgesetzbuchs ist, muss mindestens ein unabhängiges Mitglied des
-Verwaltungsrats über Sachverstand in Rechnungslegung oder
-Abschlussprüfung verfügen.
+Genossenschaft, die kapitalmarktorientiert im Sinne des § 264d des
+Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des § 1 Absatz
+3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2 Absatz 1
+Nummer 1 und 2 des Kreditwesengesetzes genannten Institute, ist,
+müssen die Voraussetzungen des § 100 Absatz 5 des Aktiengesetzes
+erfüllt sein.
 
-(2) Auf die Zusammensetzung des Verwaltungsrats sind § 96 Abs. 2 sowie
-die §§ 97 bis 99 und 104 des Aktiengesetzes entsprechend anzuwenden,
-wobei
+(2) Auf die Zusammensetzung des Verwaltungsrats sind § 96 Absatz 4
+sowie die §§ 97 bis 99 und 104 des Aktiengesetzes entsprechend
+anzuwenden, wobei
 
 1.  die dem Vorstand zugewiesenen Rechte und Pflichten vom Vorsitzenden
     des Verwaltungsrats wahrzunehmen sind;
@@ -395,17 +397,19 @@ Europäischen Union über die Besetzung der ihnen zugewiesenen Sitze
 geltend gemacht werden kann. Für die Arbeitnehmervertreter aus dem
 Inland gilt § 37 Abs. 2 des SCE-Beteiligungsgesetzes.
 
-(4) Der Verwaltungsrat kann einen Prüfungsausschuss bestellen, der
-sich mit der Überwachung des Rechnungslegungsprozesses sowie der
-Wirksamkeit des internen Kontrollsystems, des Risikomanagementsystems
-und des internen Revisionssystems befasst. Er muss mehrheitlich mit
-nicht geschäftsführenden Mitgliedern besetzt werden. Richtet der
-Verwaltungsrat einer Europäischen Genossenschaft, die
-kapitalmarktorientiert im Sinn des § 264d des Handelsgesetzbuchs ist,
-einen Prüfungsausschuss ein, so muss diesem mindestens ein Mitglied
-angehören, welches die Voraussetzungen nach § 19 Abs. 1 Satz 2
-erfüllt, und darf der Vorsitzende des Prüfungsausschusses kein
-geschäftsführender Direktor sein.
+(4) Der Verwaltungsrat kann aus seiner Mitte einen Prüfungsausschuss
+bestellen, der sich mit der Überwachung des Rechnungslegungsprozesses
+sowie der Wirksamkeit des internen Kontrollsystems, des
+Risikomanagementsystems und des internen Revisionssystems sowie der
+Abschlussprüfung befasst. Der Prüfungsausschuss kann Empfehlungen oder
+Vorschläge zur Gewährleistung der Integrität des
+Rechnungslegungsprozesses unterbreiten. Richtet der Aufsichtsrat einer
+Europäischen Genossenschaft, die kapitalmarktorientiert im Sinne des §
+264d des Handelsgesetzbuchs oder die CRR-Kreditinstitut im Sinne des §
+1 Absatz 3d Satz 1 des Kreditwesengesetzes, mit Ausnahme der in § 2
+Absatz 1 Nummer 1 und 2 des Kreditwesengesetzes genannten Institute,
+ist, einen Prüfungsausschuss ein, so muss dieser die Voraussetzungen
+des § 100 Absatz 5 des Aktiengesetzes erfüllen.
 
 
 #### § 20 Abberufung der Mitglieder des Verwaltungsrats
@@ -646,12 +650,12 @@ Genossenschaft ihren Sitz hat.
 
 ### § 36 Straf- und Bußgeldvorschriften
 
-(1) Die Strafvorschriften der §§ 147 bis 151 des
-Genossenschaftsgesetzes, des § 15a Abs. 4 und 5 der Insolvenzordnung,
-des § 340m in Verbindung mit den §§ 331 bis 333 des Handelsgesetzbuchs
-und der §§ 313 bis 315 des Umwandlungsgesetzes sowie die
-Bußgeldvorschriften des § 152 des Genossenschaftsgesetzes und des §
-340n des Handelsgesetzbuchs gelten auch für die Europäische
+(1) Die Strafvorschriften der §§ 147 bis 151a des
+Genossenschaftsgesetzes, des § 15a Absatz 4 bis 6 der
+Insolvenzordnung, des § 340m in Verbindung mit den §§ 331 bis 333 des
+Handelsgesetzbuchs und der §§ 313 bis 315 des Umwandlungsgesetzes
+sowie die Bußgeldvorschriften des § 152 des Genossenschaftsgesetzes
+und des § 340n des Handelsgesetzbuchs gelten auch für die Europäische
 Genossenschaft im Sinn des Artikels 8 Abs. 1 Buchstabe c Nr. ii der
 Verordnung (EG) Nr. 1435/2003. Soweit sie
 
@@ -671,7 +675,11 @@ und 3 für die Mitglieder des Leitungsorgans und in den Fällen der
 Nummer 2 für die Mitglieder des Aufsichtsorgans. Bei der Europäischen
 Genossenschaft mit monistischem System gelten sie in den Fällen des
 Satzes 2 Nr. 1 und 3 für die geschäftsführenden Direktoren und in den
-Fällen des Satzes 2 Nr. 2 für die Mitglieder des Verwaltungsrats.
+Fällen des Satzes 2 Nr. 2 für die Mitglieder des Verwaltungsrats. §
+153 des Genossenschaftsgesetzes gilt bei Anwendung der
+Strafvorschriften des § 151a des Genossenschaftsgesetzes sowie der
+Bußgeldvorschriften des § 152 Absatz 1a des Genossenschaftsgesetzes
+entsprechend.
 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer
@@ -710,4 +718,13 @@ und des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
 
 Im Fall des § 7 Abs. 3 Satz 1 bleibt es für die Zeit vor dem 1.
 September 2009 bei dem bis dahin geltenden Zinssatz.
+
+
+### § 39 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 19 Absatz 1 Satz 3 und Absatz 4 Satz 3 in der Fassung des
+Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+muss so lange nicht angewandt werden, wie alle Mitglieder des
+Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016
+bestellt worden sind.
 

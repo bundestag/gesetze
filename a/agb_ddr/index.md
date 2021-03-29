@@ -433,17 +433,17 @@ Wochenurlaub zu gewähren.
 **Der Vorsitzende des Staatsrates der Deutschen Demokratischen
 Republik**
 
+Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel III und Kapitel X (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
+### Anhang EV (BGBl. II 1990, 889, 1207, 1208, 1216, 1218, 1220)
 
 - Kapitel VIII Sachgebiet A Abschnitt II (BGBl. II 1990, 1207) -
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
 
-1.  § 115b                      des Arbeitsgesetzbuches der Deutschen
-    Demokratischen Republik vom 16. Juni 1977 (GBl. I Nr. 18 S. 185),
-    zuletzt geändert durch Gesetz vom 22. Juni 1990 (GBl. I Nr. 35 S.
-    371):
+1.  § 115b des Arbeitsgesetzbuches der Deutschen Demokratischen Republik
+    vom 16. Juni 1977 (GBl. I Nr. 18 S. 185), zuletzt geändert durch
+    Gesetz vom 22. Juni 1990 (GBl. I Nr. 35 S. 371):
 
     a)  § 115b Abs. 1 wird durch folgende Absätze 1 bis 3 ersetzt:
 
@@ -491,7 +491,7 @@ folgenden Maßgaben in Kraft:
     371):
 
     a)  §§ 55, 58 Abs. 1 Buchstabe a und Abs. 2, § 59 Abs. 2,
-        §§ 115a, 115c bis e                            gelten fort.
+        §§ 115a, 115c bis e gelten fort.
 
 
     b)  § 58 Abs. 1 Buchstabe b gilt bis zum 31. Dezember 1990. Über diesen

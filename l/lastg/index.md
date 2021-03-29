@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von supranationalen
+Title: Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von  supranationalen
   oder völkerrechtlichen Verpflichtungen
 jurabk: LastG
 layout: default
@@ -8,7 +8,7 @@ slug: lastg
 
 ---
 
-# Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von supranationalen oder völkerrechtlichen Verpflichtungen (LastG)
+# Gesetz zur Lastentragung im Bund-Länder-Verhältnis bei Verletzung von  supranationalen oder völkerrechtlichen Verpflichtungen (LastG)
 
 Ausfertigungsdatum
 :   2006-09-05

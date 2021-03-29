@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2349
 
+Zuletzt geändert durch
+:   Art. 2 V v. 27.6.2018 I 891
+
 
 ## Eingangsformel
 
@@ -29,11 +32,10 @@ und dem Bundesministerium der Finanzen:
 ## Abschnitt 1 - Allgemeines
 
 
-### § 1 Regelungsgegenstand
+### § 1 Anwendungsbereich
 
-Diese Verordnung regelt die bei Auslandsumzügen erforderlichen
-Abweichungen von den allgemein für Beamtinnen und Beamte des Bundes
-geltenden Vorschriften über die Umzugskostenvergütung.
+Diese Verordnung regelt die bei Auslandsumzügen geltenden Abweichungen
+von den allgemeinen Vorschriften des Bundesumzugskostenrechts.
 
 
 ### § 2 Begriffsbestimmungen
@@ -74,7 +76,7 @@ geltenden Vorschriften über die Umzugskostenvergütung.
 
 
 soweit sie nach dem Umzug zur häuslichen Gemeinschaft der berechtigten
-Person gehören. Die Personen nach Satz 1 Nummer 3, 4 und 6 sind nur
+Person gehören. Die Personen nach Satz 1 Nummer 4 und 6 sind nur
 berücksichtigungsfähig, wenn sie auch vor dem Umzug zur häuslichen
 Gemeinschaft der berechtigten Person gehören.
 
@@ -102,7 +104,7 @@ von dritter Seite sind anzurechnen.
 persönlichen Verhältnissen der berechtigten Person am Tag des
 Dienstantritts am neuen Dienstort. Bei Umzügen aus dem Ausland ins
 Inland und bei Umzügen aus Anlass der Beendigung des
-Beamtenverhältnisses (§ 28) sind die persönlichen Verhältnisse an dem
+Dienstverhältnisses (§ 28) sind die persönlichen Verhältnisse an dem
 Tag, für den zuletzt Auslandsdienstbezüge gewährt worden sind,
 maßgeblich.
 
@@ -113,7 +115,9 @@ die Umzugskosten erstattet, die bei einem Umzug an den neuen Dienstort
 entstanden wären; Maklerkosten werden nicht erstattet;
 Mietentschädigung wird nicht gewährt. Wird ein Umzug ins Ausland oder
 im Ausland an einen anderen Ort als den neuen Dienstort oder dessen
-Einzugsgebiet durchgeführt, werden keine Umzugskosten erstattet.
+Einzugsgebiet durchgeführt, werden keine Umzugskosten erstattet. Die
+oberste Dienstbehörde oder die von ihr bestimmte Behörde kann
+Ausnahmen in besonderen Fällen zulassen.
 
 (3) Wird eine eigene Wohnung nicht innerhalb eines Jahres nach dem
 Dienstantritt der berechtigten Person am neuen Dienstort bezogen, kann
@@ -135,6 +139,12 @@ geplant durchgeführt wird.
 
 (5) Kosten werden nur berücksichtigt, soweit sie notwendig und
 nachgewiesen sind.
+
+(6) Bei einer Beurlaubung im anerkannt dienstlichen Interesse unter
+Wegfall der Besoldung kann mit Zustimmung der obersten Dienstbehörde
+Umzugskostenvergütung zugesagt werden. Die oberste Dienstbehörde kann
+die Befugnis zur Erteilung der Zustimmung auf eine andere Behörde
+übertragen.
 
 
 ## Abschnitt 2 - Erstattungsfähige Kosten
@@ -427,8 +437,8 @@ Prozent der Gewichtsgrenzen nach Absatz 1 erstattet, wenn
     in einem zumutbaren Zeitraum ausgelöst werden kann, und
 
 
-2.  die oberste Dienstbehörde vor der Aufgabe des Gepäcks der Erstattung
-    zugestimmt hat.
+2.  vor der Aufgabe des Gepäcks die oberste Dienstbehörde oder die von ihr
+    ermächtigte Behörde der Erstattung zugestimmt hat.
 
 
 
@@ -439,14 +449,21 @@ Prozent der Gewichtsgrenzen nach Absatz 1 erstattet, wenn
 
 #### § 14 Vorübergehende Unterkunft
 
-(1) Auslagen für eine vorübergehende Unterkunft am bisherigen und am
-neuen Dienstort werden für die Zeit vom Tag des Einladens des
-Umzugsguts bis zum Tag nach dem Ausladen des Umzugsguts in der
-endgültigen Wohnung auf Antrag erstattet, soweit sie 25 Prozent der
-Bezüge übersteigen, die für die Berechnung des Mietzuschusses nach §
-54 des Bundesbesoldungsgesetzes maßgeblich sind. Bei Umzügen mit
-Umzugskostenvergütung nach § 26 gilt Satz 1 für die Zeit vom Tag nach
-Beendigung der Hinreise bis zum Tag vor Antritt der Rückreise.
+(1) Auslagen für eine vorübergehende Unterkunft am bisherigen oder am
+neuen Dienstort werden für die Zeit vom letzten Tag des Einladens des
+Umzugsgutes bis zum ersten Tag des Ausladens des Umzugsgutes in der
+endgültigen Wohnung auf Antrag gegen Nachweis erstattet, soweit sie 25
+Prozent der Bezüge übersteigen, die für die Berechnung des
+Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes maßgeblich sind.
+Wird als vorübergehende Unterkunft leerer Wohnraum angemietet, werden
+die notwendigen Auslagen erstattet, soweit sie 18 Prozent der Bezüge
+übersteigen, die für die Berechnung des Mietzuschusses nach § 54 des
+Bundesbesoldungsgesetzes maßgeblich sind; die §§ 18 und 19 dieser
+Verordnung sind anzuwenden. Bei Umzügen mit Umzugskostenvergütung nach
+§ 26 gilt Satz 1 für die Zeit vom Tag nach Beendigung der Hinreise bis
+zum Tag vor Antritt der Rückreise. In diesen Fällen werden auch die
+notwendigen Auslagen nach dem Tag des Ausladens bis zum Tag vor
+Antritt der Rückreise erstattet.
 
 (2) Zum Ausgleich des Mehraufwands für die Verpflegung der
 berechtigten Person und der berücksichtigungsfähigen Personen während
@@ -527,9 +544,9 @@ wird die Miete für die endgültige Wohnung höchstens für drei Monate
 erstattet. Wenn die im oder ins Ausland versetzte berechtigte Person
 eine Wohnung nach Satz 1 schon vor Dienstantritt nutzt und noch keine
 Auslandsdienstbezüge für den neuen Dienstort erhält, kann mit
-Zustimmung der obersten Dienstbehörde ein Zuschuss gewährt werden, für
-dessen Höhe § 54 Absatz 1 des Bundesbesoldungsgesetzes entsprechend
-gilt.
+Zustimmung der obersten Dienstbehörde oder der von ihr ermächtigten
+Behörde ein Zuschuss gewährt werden, für dessen Höhe § 54 Absatz 1 des
+Bundesbesoldungsgesetzes entsprechend gilt.
 
 (4) Zu der Miete für die bisherige Wohnung im Ausland kann auch ohne
 Anmietung einer neuen Wohnung ein Zuschuss für die Zeit gewährt
@@ -604,6 +621,14 @@ zu warten.
 (3) Beim Auszug hat die berechtigte Person die Geräte dem Dienstherrn
 zur Verfügung zu stellen oder den nach Absatz 1 erstatteten Betrag
 zurückzuzahlen.
+
+(4) Werden anlässlich des Umzugs an einen Dienstort mit besonderer
+gesundheitlicher Belastung durch hohe Luftverschmutzung Luftreiniger
+angeschafft, so wird auf Antrag ein Zuschuss zu den Anschaffungskosten
+der Geräte gewährt. Der Zuschuss beträgt 80 Prozent des
+Anschaffungspreises einschließlich eventuell anfallender
+Transportkosten. Bei Versetzung an einen anderen Ort verbleibt das
+Gerät bei der berechtigten Person.
 
 
 ### Unterabschnitt 4 - Pauschalen und zusätzlicher Unterricht
@@ -964,8 +989,8 @@ Umzug nach § 3 Absatz 1 Nummer 1, 3 oder Nummer 4, nach § 4 Absatz 1
 Nummer 2 bis 4 des Bundesumzugskostengesetzes oder in den Fällen des §
 28 Absatz 1 und 2 dieser Verordnung zugesagt worden ist, erhält für
 den Umzug in eine vorläufige Wohnung Umzugskostenvergütung, wenn der
-Dienstherr die neue Wohnung vorher schriftlich als vorläufige Wohnung
-anerkannt hat.
+Dienstherr die neue Wohnung vorher schriftlich oder elektronisch als
+vorläufige Wohnung anerkannt hat.
 
 
 ### § 24 Umzugsbeihilfe
@@ -1244,14 +1269,14 @@ werden müssen und sich die Zusage der Umzugskostenvergütung hierauf
 erstreckt.
 
 
-### § 28 Umzug bei Beendigung des Beamtenverhältnisses
+### § 28 Umzug bei Beendigung des Dienstverhältnisses
 
 (1) Einer berechtigten Person mit Dienstort im Ausland, die in den
-Ruhestand tritt oder deren Beamtenverhältnis auf Zeit endet, ist
+Ruhestand tritt oder deren Dienstverhältnis auf Zeit endet, ist
 Umzugskostenvergütung für einen Umzug an einen Ort ihrer Wahl im
 Inland zuzusagen. Umzugskostenvergütung wird nur gezahlt, wenn der
 Umzug spätestens zwei Jahre nach der Beendigung des
-Beamtenverhältnisses durchgeführt wird. Die oberste Dienstbehörde kann
+Dienstverhältnisses durchgeführt wird. Die oberste Dienstbehörde kann
 diese Frist in Ausnahmefällen um ein Jahr verlängern.
 
 (2) Absatz 1 gilt nach dem Tod einer berechtigten Person, deren
@@ -1276,10 +1301,10 @@ Inland durchgeführt, ist der nach Satz 1 erstattete Betrag auf die
 nach Absatz 1 oder Absatz 2 zustehende Umzugskostenvergütung
 anzurechnen.
 
-(4) Endet das Beamtenverhältnis einer berechtigten Person mit
-Dienstort im Ausland aus einem von ihr zu vertretenden Grund und zieht
-diese Person spätestens sechs Monate danach ins Inland um, können ihr
-und den berücksichtigungsfähigen Personen für diesen Umzug die
+(4) Endet das Dienstverhältnis einer berechtigten Person mit Dienstort
+im Ausland aus einem von ihr zu vertretenden Grund und zieht diese
+Person spätestens sechs Monate danach ins Inland um, können ihr und
+den berücksichtigungsfähigen Personen für diesen Umzug die
 Beförderungsauslagen und Fahrtkosten bis zur Höhe der Kosten der
 billigsten Fahrkarte für ein regelmäßig verkehrendes
 Beförderungsmittel erstattet werden, höchstens jedoch die
@@ -1293,26 +1318,25 @@ Sitz der obersten Dienstbehörde entstanden wären.
 ### § 29 Übergangsregelungen
 
 (1) Die Kosten für die Beförderung und die Einlagerung von Umzugsgut
-werden der berechtigten Person, die bereits vor Inkrafttreten dieser
-Verordnung über höheres Umzugsvolumen verfügt als nach dieser
-Verordnung berücksichtigt werden kann, bis zum nächsten Umzug ins
-Inland mit Zusage der Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1
-des Bundesumzugskostengesetzes in dem Umfang erstattet, in dem sie vor
-Inkrafttreten dieser Verordnung erstattungsfähig waren. Reisekosten
-für Hausangestellte, deren Kosten für die Reise zum bisherigen
-Dienstort im Rahmen der Auslandsumzugskostenverordnung vor
-Inkrafttreten dieser Verordnung erstattet wurden, können beim nächsten
-Umzug mit Zusage der Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1
-des Bundesumzugskostengesetzes im Rahmen der Kosten einer Reise ins
-Inland geltend gemacht werden.
+werden der berechtigten Person, die bereits vor dem 1. Dezember 2012
+über höheres Umzugsvolumen verfügt als nach dieser Verordnung
+berücksichtigt werden kann, bis zum nächsten Umzug ins Inland mit
+Zusage der Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1 des
+Bundesumzugskostengesetzes in dem Umfang erstattet, in dem sie vor dem
+1\. Dezember 2012 erstattungsfähig waren. Reisekosten für
+Hausangestellte, deren Kosten für die Reise zum bisherigen Dienstort
+im Rahmen der Auslandsumzugskostenverordnung vor dem 1. Dezember 2012
+erstattet wurden, können beim nächsten Umzug mit Zusage der
+Umzugskostenvergütung nach § 3 Absatz 1 Nummer 1 des
+Bundesumzugskostengesetzes im Rahmen der Kosten einer Reise ins Inland
+geltend gemacht werden.
 
 (2) Hat die berechtigte Person den Dienst am neuen Dienstort infolge
 einer Maßnahme, für die Umzugskostenvergütung zugesagt worden ist,
-nach dem 30. Juni 2010, aber vor dem Inkrafttreten dieser Verordnung
-angetreten, bemisst sich die Höhe des Ausstattungs- und des
-Einrichtungsbeitrags nach den §§ 12 und 13 der
-Auslandsumzugskostenverordnung in der am 30. Juni 2010 geltenden
-Fassung und dem Bundesbesoldungsgesetz.
+nach dem 30. Juni 2010, aber vor dem 1. Dezember 2012 angetreten,
+bemisst sich die Höhe des Ausstattungs- und des Einrichtungsbeitrags
+nach den §§ 12 und 13 der Auslandsumzugskostenverordnung in der am 30.
+Juni 2010 geltenden Fassung und dem Bundesbesoldungsgesetz.
 
 
 ### § 30 Inkrafttreten, Außerkrafttreten

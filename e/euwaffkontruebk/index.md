@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen über die Kontrolle des Erwerbs und des Besi
   von Schußwaffen durch Einzelpersonen
 jurabk: EuWaffKontrÜbk
 layout: default
-origslug: euwaffkontr_bk
+origslug: euwaffkontruebk
 slug: euwaffkontruebk
 
 ---

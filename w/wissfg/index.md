@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2457
 
+Geändert durch
+:   Art. 122 V v. 31.8.2015 I 1474
+
 
 ## § 1 Zweck des Gesetzes
 
@@ -139,9 +142,9 @@ insoweit sicherstellen kann, dass
 
 Das Nähere wird in einer Verwaltungsvorschrift geregelt, die vom
 zuständigen Bundesministerium im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung und dem
-Bundesministerium der Finanzen nach Anhörung des Bundesrechnungshofes
-erlassen wird.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+und dem Bundesministerium der Finanzen nach Anhörung des
+Bundesrechnungshofes erlassen wird.
 
 
 ## § 7 Verhältnis zur Bundeshaushaltsordnung

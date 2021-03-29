@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 5. September 1980 über die Ausstellung 
   Ehefähigkeitszeugnissen
 jurabk: EhefZeugnÜbkG
 layout: default
-origslug: ehefzeugn_bkg
+origslug: ehefzeugnuebkg
 slug: ehefzeugnuebkg
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1997, 1086
+
+Geändert durch
+:   Art. 189 V v. 31.8.2015 I 1474
 
 
 
@@ -35,14 +38,14 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 ## Art 2
 
 (1) Das Bundesministerium des Innern wird ermächtigt, im Benehmen mit
-dem Bundesministerium der Justiz und mit Zustimmung des Bundesrates
-durch Rechtsverordnung Vorschriften über die in die Formblätter
-aufzunehmenden Angaben zu erlassen.
+dem Bundesministerium der Justiz und für Verbraucherschutz und mit
+Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften über
+die in die Formblätter aufzunehmenden Angaben zu erlassen.
 
 (2) Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften erläßt das Bundesministerium des Innern im
-Benehmen mit dem Bundesministerium der Justiz und mit Zustimmung des
-Bundesrates.
+Benehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz und mit Zustimmung des Bundesrates.
 
 
 ## Art 3

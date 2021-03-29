@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "300 Jahre Franckesche Stiftungen")
 jurabk: Münz10DMBek 1998-08
 layout: default
-origslug: m_nz10dmbek_1998-08
+origslug: muenz10dmbek_1998-08
 slug: muenz10dmbek_1998-08
 
 ---

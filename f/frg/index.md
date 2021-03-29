@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1960, 93, 94
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 9 G v. 12.4.2012 I 579
+:   Art. 7 G v. 11.11.2016 I 2500
 
 
 ## Inhaltsverzeichnis
@@ -378,13 +378,13 @@ des Hinterbliebenen, der zuerst einen Anspruch anmeldet.
 (2) Ergibt sich nach Absatz 1 die Zuständigkeit der
 landwirtschaftlichen Berufsgenossenschaft oder eines
 Unfallversicherungsträgers der öffentlichen Hand, so ist die
-Unfallkasse des Bundes zuständig.
+Unfallversicherung Bund und Bahn zuständig.
 
-(3) Die Unfallkasse des Bundes ist zuständig für die Feststellung und
-Gewährung von Leistungen an Umsiedler im Sinne des § 1 Abs. 2 Nr. 2
-des Bundesvertriebenengesetzes, die einen Anspruch auf Zahlung einer
-Rente aus der gesetzlichen Unfallversicherung ihres Herkunftslands
-haben.
+(3) Die Unfallversicherung Bund und Bahn ist zuständig für die
+Feststellung und Gewährung von Leistungen an Umsiedler im Sinne des §
+1 Abs. 2 Nr. 2 des Bundesvertriebenengesetzes, die einen Anspruch auf
+Zahlung einer Rente aus der gesetzlichen Unfallversicherung ihres
+Herkunftslands haben.
 
 
 ### § 10
@@ -407,7 +407,7 @@ Unfallversicherung unverzüglich anzuzeigen, wenn ihm eine der in
 Absatz 1 genannten Stellen eine Rente oder eine andere Leistung
 gewährt.
 
-(3)
+(3) (weggefallen)
 
 
 ### § 12
@@ -586,7 +586,7 @@ versicherungsfrei gewesen ist. Auf die in § 1 Buchstaben b und d
 genannten Personen und deren Hinterbliebene findet § 16 keine
 Anwendung.
 
-(3)
+(3) (weggefallen)
 
 
 ### § 17a
@@ -657,10 +657,10 @@ sind.
 wenn sie sich bei einem Wechsel des Versicherungsträgers verringert
 hat.
 
-(2)
+(2) (weggefallen)
 
 (3) Beitragszeiten, die während des Bezugs einer Altersrente
-zurückgelegt sind, werden bis zur Vollendung des 65. Lebensjahres
+zurückgelegt sind, werden bis zum Erreichen der Regelaltersgrenze
 angerechnet; dies gilt auch für Beitragszeiten, die während des Bezugs
 einer Leistung zurückgelegt sind, die anstelle einer Altersrente
 erbracht wird.
@@ -937,7 +937,7 @@ Rentenversicherungen unverzüglich anzuzeigen, wenn ihm eine der in
 Absatz 1 genannten Stellen eine Rente oder eine andere Leistung
 gewährt.
 
-(3)
+(3) (weggefallen)
 
 
 ### Anlage 1 Definitionen der Leistungsgruppen
@@ -1004,15 +1004,14 @@ vollwertige Betriebsarbeiter, angelernte Hilfshandwerker,
 Betriebsarbeiter und ähnlich bezeichnet. Ergibt sich nicht nach den
 Merkmalen der ausgeübten Beschäftigung die Einstufung in eine andere
 Leistungsgruppe, so gehören hierzu unter anderem:
-Männliche Arbeiter              Bahnunterhaltungsarbeiter Betonwerker
-(angelernt) Bohrer Brenner (Gewinnung und Verarbeitung von Steinen und
-Erden) Chemiebetriebswerker Einschaler Eisenbieger und -flechter
-Former (angelernt) Fuhrmann (Kutscher) Hobler Hochbauhelfer
-Holländerarbeiter Kalander- und Querschneiderführer Kranführer
-Maschinenbauhelfer Metallschleifer Mitfahrer (Beifahrer)
-Papiermaschinengehilfe Rotten- und Gleisarbeiter Schiffsbauhelfer
-Schleifer (Putzer) Schweißer (angelernt) Steinbrecher (angelernt)
-Walzer
+Männliche Arbeiter Bahnunterhaltungsarbeiter Betonwerker (angelernt)
+Bohrer Brenner (Gewinnung und Verarbeitung von Steinen und Erden)
+Chemiebetriebswerker Einschaler Eisenbieger und -flechter Former
+(angelernt) Fuhrmann (Kutscher) Hobler Hochbauhelfer Holländerarbeiter
+Kalander- und Querschneiderführer Kranführer Maschinenbauhelfer
+Metallschleifer Mitfahrer (Beifahrer) Papiermaschinengehilfe Rotten-
+und Gleisarbeiter Schiffsbauhelfer Schleifer (Putzer) Schweißer
+(angelernt) Steinbrecher (angelernt) Walzer
 Weibliche Arbeiter
 Anlegerin (Papiererzeugung und -verarbeitung) Baumwollweberin Büglerin
 Einrichterin Fleyerin Keramformerin Näherin (Wirk- und Strickerei

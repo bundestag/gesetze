@@ -492,8 +492,9 @@ diese Wahlgeräte nicht anzuwenden.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 2)
 
-### Anlage 1 (zu § 2) Richtlinien für die Bauart von Wahlgeräten
+### Anlage 1 Richtlinien für die Bauart von Wahlgeräten
 
 Fundstelle des Originaltextes: BGBl. I 1999, 753 - 755
 
@@ -1006,63 +1007,240 @@ und
 
 ### Anlage 2 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
-Fundstelle des Originaltextes: BGBl. I 1999, 756 - 761
-Gemeinde ......................            Wahlbezirk (Name oder
-Nummer) ......
-Kreis .........................   ( ) 1)   Allgemeiner Wahlbezirk
-Wahlkreis .....................   ( ) 1)   Sonderwahlbezirk
-Land ..........................
---------------------------------
-I Diese Wahlniederschrift ist  I
-I auf der letzten Seite von    I
-I allen Mitgliedern des        I
-I Wahlvorstandes zu            I
-I unterschreiben.              I
---------------------------------
-Wahlniederschrift
-über die Wahl mit Wahlgeräten
-bei der Wahl zum Deutschen Bundestag
-am .............................
-1\.   Wahlvorstand
-Zu der Wahl waren für den Wahlbezirk vom Wahlvorstand
-erschienen:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Funktion      I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I als Wahlvorsteher I
-I 2. ................... I .................. I als               I
-I                        I                    I stellvertretender I
-I                        I                    I Wahlvorsteher     I
-I 3. ................... I .................. I als Schriftführer I
-I 4. ................... I .................. I als Beisitzer     I
-I 5. ................... I .................. I als Beisitzer     I
-I 6. ................... I .................. I als Beisitzer     I
-I 7. ................... I .................. I als Beisitzer     I
--------------------------------------------------------------------
-An Stelle des(r) nicht erschienenen - ausgefallenen 2) Mitglieds(er)
-des Wahlvorstandes ernannte der Wahlvorsteher den (die) folgenden
-anwesenden - herbeigerufenen - Wahlberechtigten zu(m) Mitglied(ern)
-des Wahlvorstandes und wies ihn (sie) auf ihre Verpflichtung zur
-unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit
-über die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen
-Angelegenheiten hin:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Uhrzeit       I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I ................. I
-I 2. ................... I .................. I ................. I
-I 3. ................... I .................. I ................. I
--------------------------------------------------------------------
-Als Hilfskräfte waren zugezogen:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Uhrzeit       I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I ................. I
-I 2. ................... I .................. I ................. I
-I 3. ................... I .................. I ................. I
--------------------------------------------------------------------
+(Fundstelle des Originaltextes: BGBl. I 1999, 756 - 761)
 
-2.  Wahlhandlung
+
+*    *   Gemeinde .............................................................
+        .........................
+
+    *
+    *   Wahlbezirk (Name oder Nummer)
+        ............................................
+
+
+*    *   Kreis ................................................................
+        ..............................
+
+    *[^BJNR024590975BJNE002701311_01]
+   *
+
+    *   Allgemeiner Wahlbezirk
+
+    *
+
+*    *   Wahlkreis ............................................................
+        ..........................
+
+    *   *
+
+    *   Sonderwahlbezirk
+
+    *
+
+*    *   Land .................................................................
+        .............................
+
+    *
+    *
+    *
+
+*    *
+    *
+    *   Diese Wahlniederschrift ist auf der
+        letzten Seite von allen Mitgliedern des
+        Wahlvorstandes zu unterschreiben.
+
+    *
+
+*    *
+    *
+    *
+    *
+
+
+
+   Wahlniederschrift
+## **über die Wahl mit Wahlgeräten**
+
+bei der Wahl zum Deutschen Bundestag
+### am ...............................................................
+............
+
+
+1.  **Wahlvorstand**
+    Zu der Wahl waren für den Wahlbezirk vom Wahlvorstand erschienen:
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Funktion**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Wahlvorsteher
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als stellvertretender Wahlvorsteher
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Schriftführer
+
+
+    *        *   4. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   5. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   6. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   7. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+
+
+    *        *[^BJNR024590975BJNE002701311_02]
+   An Stelle des(r) nicht erschienenen - ausgefallenen
+            Mitglieds(er) des Wahlvorstandes ernannte der Wahlvorsteher den (die)
+            folgenden anwesenden - herbeigerufenen - Wahlberechtigten zu(m)
+            Mitglied(ern) des Wahlvorstandes und wies ihn (sie) auf ihre
+            Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur
+            Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit
+            bekanntgewordenen Angelegenheiten hin:
+
+
+
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Uhrzeit**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+
+
+    *        *   Als Hilfskräfte waren zugezogen:
+
+
+
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Uhrzeit**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+
+
+
+
+
+2.  **Wahlhandlung**
 
 
 2.1 Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen
@@ -1081,17 +1259,17 @@ I 3. ................... I .................. I ................. I
 
 2.2 Der Wahlvorstand stellte fest, daß
 
+    *        *   das Wahlgerät Typ .............................
+
+        *   Fabrik-Nr. . ............................. für die Erststimmen und
+
+
+    *        *   das Wahlgerät Typ .............................
+
+        *   Fabrik-Nr. . ............................. für die Zweitstimmen
 
 
 
-*    *   das Wahlgerät Typ ........
-
-    *   Fabrik-Nr. . ....... für die Erststimmen und 2)
-
-
-*    *   das Wahlgerät Typ ........
-
-    *   Fabrik-Nr. . ....... für die Zweitstimmen 2)
 
 
 
@@ -1107,11 +1285,13 @@ I 3. ................... I .................. I ................. I
         gestellt oder gelöscht waren,
 
 
-    -   die zur Aufnahme von Wahlmarken bestimmten Behälter leer waren 2) und
+    -   die zur Aufnahme von Wahlmarken bestimmten Behälter leer waren
+        und
 
 
     -   nicht benötigte Zähl- und Speichervorrichtungen für die Stimmabgabe
-        gesperrt waren 2).
+        gesperrt waren
+        .
 
 
 
@@ -1127,7 +1307,8 @@ I 3. ................... I .................. I ................. I
     das (die) Wahlgerät(e) im Wahlraum in - einer - Wahlzelle(n) - in
     einem Nebenraum, der nur vom Wahlraum aus betretbar war und dessen
     Eingang vom Tisch des Wahlvorstandes aus überblickt werden konnte -
-    aufgestellt 2).
+    aufgestellt
+    .
 
 
 2.4 Mit der Stimmabgabe wurde um ............... Uhr ...............
@@ -1140,24 +1321,31 @@ I 3. ................... I .................. I ................. I
     versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den
     Vermerk "Wahlschein" oder den Buchstaben "W" eintrug. Der
     Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung
-    der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet 2).
+    der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet
+    .
 
     Der Wahlvorsteher berichtigte später entsprechend das
     Wählerverzeichnis und die dazugehörige Abschlußbescheinigung unter
     Berücksichtigung der noch am Wahltage an erkrankte Wahlberechtigte
-    erteilten Wahlscheine 2).
+    erteilten Wahlscheine
+    .
 
 
 2.6 Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht
-    unterrichtet 2).
+    unterrichtet
+    .
 
     Der Wahlvorstand wurde vom .........................................
     unterrichtet, daß folgende(r) Wahlschein(e) für ungültig erklärt
     worden ist (sind):
 
-    (Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nr.) 2)
+    (Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nr.)
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
 
 2.7 Während der Wahlhandlung überprüfte der Wahlvorsteher oder ein von ihm
@@ -1178,31 +1366,49 @@ I 3. ................... I .................. I ................. I
     ohne Gefahr für das Bekanntwerden oder Löschen der bereits abgegebenen
     Stimmen behoben werden konnten,:
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
     und die um ............ Uhr dazu führten, daß auf Beschluß des
     Wahlvorstandes zur Wahl mit dem
 
-    Wahlgerät-Typ ......... Fabrik-Nr. .......... übergegangen werden
-    mußte 2) 3).
+    Wahlgerät-Typ ................. Fabrik-Nr. ..................
+    übergegangen werden mußte
+[^BJNR024590975BJNE002701311_03]
+    .
 
     Die Feststellungen nach Nr. 2.2 wurden wiederholt.
 
     Während der Wahlhandlung traten an dem - den Wahlgerät(en) Typ
     ............... Fabrik-Nr. ............... folgende Funktionsstörungen
     auf, die um ............... Uhr dazu führten, daß zur Urnenwahl
-    übergegangen werden mußte 2) 4):
+    übergegangen werden mußte
+[^BJNR024590975BJNE002701311_04]
+    :
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
 
 2.9 Besondere Vorfälle während der Wahlhandlung waren - abgesehen von den
-    unter 2.8 genannten - nicht zu verzeichnen 2).
+    unter 2.8 genannten - nicht zu verzeichnen
+    .
 
     Als besondere Vorfälle waren - abgesehen von den unter 2.8 genannten -
-    zu verzeichnen 2) (z.B. Zurückweisung von Wählern in den Fällen des §
-    56 Abs. 7 und § 59 der Bundeswahlordnung):
+    zu verzeichnen
+    (z.B. Zurückweisung von Wählern in den Fällen des § 56 Abs. 7 und § 59
+    der Bundeswahlordnung):
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
     Über die Einzelheiten wurden Niederschriften gefertigt und als Anlagen
     Nr. ............... bis Nr. ............... beigefügt.
@@ -1216,110 +1422,374 @@ I 3. ................... I .................. I ................. I
 
     Um ............... Uhr ............... Minuten erklärte der
     Wahlvorsteher die Wahl für geschlossen. Er sperrte jedes Wahlgeräte
-    oder die Zähl- und Speichervorrichtungen 2) sofort gegen jede weitere
-    Stimmabgabe und versiegelte die Sperrung.
+    oder die Zähl- und Speichervorrichtungen
+    sofort gegen jede weitere Stimmabgabe und versiegelte die Sperrung.
 
 
-3.  Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
+3.  **Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk**
 
 
 3.1 Die Ermittlung und Feststellung des Wahlergebnisses wurden im
     unmittelbaren Anschluß an die Stimmabgabe und ohne Unterbrechung unter
     der Leitung des Wahlvorstehers/des Stellvertreters des Wahlvorstehers
-    vorgenommen. 2)
+    vorgenommen.
 
 
 3.2
-    a)  Zunächst wurden die im Wählerverzeichnis eingetragenen
-        Stimmabgabevermerke gezählt.
+    *        *   a)
+
+        *   Zunächst wurden die im Wählerverzeichnis eingetragenen
+            Stimmabgabevermerke gezählt.
+
+        *
+
+    *        *
+        *   Die Zählung ergab
+
+        *   ............................
+
+        *
+        *   Vermerke.
+
+        *
+        *
+        *
+
+    *        *   b)
+
+        *   Mit Wahlschein haben gewählt
+
+        *   *............................*
+
+        *
+        *   Personen
+
+        *
+            *                *   B 1
+
+
+
+
+        *   An entsprechender Stelle
+            in Abschnitt 4 eintragen.
+
+        *
+
+    *        *   c)
+
+        *   Gesamtzahl der Wähler – a) und b) zusammen –
+
+        *   ............................
+
+        *
+        *   Personen
+
+        *
+            *                *   B
+
+
+
+
+        *
+
+    *        *   d)
+
+        *   Sodann wurden die auf dem (den) Wahlgerät(en) insgesamt angezeigten
+            Zahlen für die Erst- und Zweitstimmen abgelesen.
+
+
+    *        *
+        *   Die Ablesung ergab
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *   bei Wahlgerät Typ .........................................
+
+        *   Fabrik-Nr. ..................
+
+        *
+        *   .............................
+
+        *   abgegebene Erststimmen,
+
+
+    *        *
+        *   bei Wahlgerät Typ .........................................
+
+        *   Fabrik-Nr. ...................
+
+        *
+        *   .............................
+
+        *   abgegebene Zweitstimmen.
+
+
+    *        *   e)
+
+        *   Aus den Zähllisten für die nicht abgegebenen Erst- und Zweitstimmen
+            ergaben sich folgende Zahlen:
+
+
+    *        *
+        *   ............................. als ungültig geltende Erststimmen,
+
+        *
+            *                *   C 2
+
+
+
+
+        *
+        *
+        *
+
+    *        *
+        *   ............................. als ungültig geltende Zweitstimmen.
+
+        *
+            *                *   E 2
+
+
+
+
+        *
+        *
+        *
+
+    *        *   f)
+
+        *   Gesamtzahl der Erststimmen (d) und e) zusammen): .....................
+            ......................................................................
+            ......................................................................
+            ................
+
+
+    *        *
+        *   Gesamtzahl der Zweitstimmen (d) und e) zusammen): ....................
+            ......................................................................
+            ......................................................................
+            ...............
+
+
+    *        *   g)
+
+        *   Die Gesamtzahl c) stimmte jeweils mit der Gesamtzahl der Erststimmen
+            und
+            der Zweitstimmen aus f) überein.
+
+        *   *
+
+        *
+        *
+
+    *        *
+        *   Die Gesamtzahl c) war um ............... größer – kleiner
+            – als die Gesamtzahl
+            der Erststimmen aus f).
+
+        *   *
+
+        *
+        *
+
+    *        *
+        *   Die Gesamtzahl c) war um ............... größer – kleiner
+            – als die Gesamtzahl
+            der Zweitstimmen aus f).
+
+        *   *
+
+        *
+        *
+
+    *        *
+        *   Die Verschiedenheit, die sich auch bei wiederholter Zählung
+            herausstellte, erklärt sich aus folgendem:
+
+        *
+
+    *        *
+        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
 
 
 
 
 
 
-Die Zählung ergab  ....... Vermerke.
--------  ------------------
-b)  Mit Wahlschein                       I B 1 I  I An             I
-haben gewählt      ....... Personen  -------  I entsprechender I
-c)  Gesamtzahl der     -------                    I Stelle in      I
-Wähler - a) und b)                   -------  I Abschnitt 4    I
-zusammen -         ....... Personen  I B   I  I eingetragen.   I
--------  ------------------
-d)  Sodann wurden die auf dem (den) Wahlgerät(en) insgesamt
-angezeigten Zahlen für die Erst- und Zweitstimmen abgelesen.
-Die Ablesung ergab
-bei Wahlgerät Typ ...... Fabrik-Nr. .....   ...... abgegebene
-Erststimmen,
-bei Wahlgerät Typ ...... Fabrik-Nr. .....   ...... abgegebene
-Zweitstimmen.
-e)  Aus den Zähllisten für die nicht abgegebenen Erst- und
-Zweitstimmen ergaben sich folgende Zahlen:
--------
-............... als ungültig geltende Erststimmen,   I C 2 I
--------
--------
-............... als ungültig geltende Zweitstimmen.  I E 2 I
--------
-f)  Gesamtzahl der Erststimmen (d) und e) zusammen):  ..............
-Gesamtzahl der Zweitstimmen (d) und e) zusammen): ..............
-g)  Die Gesamtzahl c) stimmte jeweils mit der Gesamtzahl      ( ) 1)
-der Erststimmen und der Zweitstimmen aus f) überein.
-Die Gesamtzahl c) war um ..... größer - kleiner 2) -      ( ) 1)
-als die Gesamtzahl der Erststimmen aus f).
-Die Gesamtzahl c) war um ..... größer - kleiner 2) -      ( ) 1)
-als die Gesamtzahl der Zweitstimmen aus f).
-Die Verschiedenheit, die sich auch bei wiederholter Zählung
-herausstellte, erklärt sich aus folgendem:
-................................................................
-3\.3 Nunmehr wurde(n) das (die) Wahlgerät(e) für die Zählung
-freigegeben.
-Ein Mitglied des Wahlvorstandes stellte die an dem (den) Wahlgerät(en)
-angezeigten oder ausgedruckten folgenden Zahlen fest, die es in die
-nachstehenden Zählkontrollvermerke eintrug:
-a)  Wahlgerät Typ ........  Fabrik-Nr. ........
-Nr. .... der Anzeigen   Zahl bei Schluß der  - Nicht vom
-Wahlhandlung         Wahlvorstand
-auszufüllen -
-......................  ...................  Die Übereinstimmung
-......................  ...................  der Angaben auf den
-......................  ...................  Anzeigen mit
-......................  ...................  nebenstehenden
-......................  ...................  Zählkontrollvermerken
-......................  ...................  wird hiermit bescheinigt.
-......................  ...................  Das (Die) Wahlgerät(e)
-ist
-......................  ...................  (sind) nach Prüfung
-wieder
-......................  ...................  versiegelt -
-......................  ...................  verschlossen und
-......................  ...................  die Behältnisse mit
-......................  ...................  den Schlüsseln -
-......................  ...................  Stimmenspeicher(n)
-......................  ...................  versiegelt 2) - worden.
-......................  ...................  ......., den ....... 19..
-......................  ...................    (Ort)
-......................  ...................  ....................
-......................  ...................  (Kreiswahlleiter
-......................  ...................  oder Beauftragter)
-......................  ...................  ....................
-......................  ...................     (erster Zeuge)
-......................  ...................  ....................
-......................  ...................     (zweiter Zeuge)
-b)  Wahlgerät Typ ........  Fabrik-Nr. ........
-Nr. .... der Anzeigen   Zahl bei Schluß der
-Wahlhandlung
-......................  ...................
-......................  ...................
-......................  ...................
-......................  ...................
-......................  ...................
-......................  ...................
-......................  ...................
+3.3 Nunmehr wurde(n) das (die) Wahlgerät(e) für die Zählung freigegeben.
+    Ein Mitglied des Wahlvorstandes stellte die an dem (den) Wahlgerät(en)
+    angezeigten oder ausgedruckten folgenden Zahlen fest, die es in die
+    nachstehenden Zählkontrollvermerke eintrug:
+
+    *        *   a)
+
+        *   Wahlgerät Typ ..................
+
+        *   Fabrik-Nr. ......................................
+
+        *
+
+    *        *
+        *   Nr. ............... der Anzeigen
+
+        *   Zahl bei Schluß der Wahlhandlung
+
+        *   – Nicht vom Wahlvorstand auszufüllen –
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *   Die Übereinstimmung der Angaben auf den Anzeigen mit nebenstehenden
+            Zählkontrollvermerken wird hiermit bescheinigt. Das (Die) Wahlgerät(e)
+            ist (sind) nach Prüfung wieder versiegelt – verschlossen und die
+            Behältnisse mit den Schlüsseln – Stimmenspeicher(n) versiegelt
+            – worden.
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *   ................................., den
+            .................................. 19....
+            (Ort)
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *   ......................................................................
+            ..............
+            (Kreiswahlleiter oder Beauftragter)
+
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *   ......................................................................
+            ..............
+            (erster Zeuge)
+
+
+    *        *
+        *
+        *
+        *   ......................................................................
+            ..............
+            (zweiter Zeuge)
+
+
+    *        *
+        *
+        *
+        *
+
+    *        *   b)
+
+        *   Wahlgerät Typ ..................
+
+        *   Fabrik-Nr. ......................................
+
+        *
+
+    *        *
+        *   Nr. ............... der Anzeigen
+
+        *   Zahl bei Schluß der Wahlhandlung
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+    *        *
+        *   ................................................
+
+        *   ......................................................
+
+        *
+
+
+
 
 3.4 Danach stellte der Wahlvorsteher - ein vom Wahlvorsteher bestimmtes
-    Mitglied des Wahlvorstandes 2) - durch lautes Ablesen der einzelnen
-    Anzeigen fest die Zahl der an den Wahlgeräten
+    Mitglied des Wahlvorstandes
+    - durch lautes Ablesen der einzelnen Anzeigen fest die Zahl der an den
+    Wahlgeräten
 
     1.  insgesamt abgegebenen Erststimmen,
 
@@ -1338,7 +1808,8 @@ Wahlhandlung
 
 
 
-    Die übrigen Mitglieder des Wahlvorstandes überzeugten sich von der
+
+*   Die übrigen Mitglieder des Wahlvorstandes überzeugten sich von der
     Richtigkeit dieser Feststellung und ihrer Übertragung in diese
     Wahlniederschrift.
 
@@ -1348,164 +1819,570 @@ Wahlhandlung
     festgestellt und vom Wahlvorsteher mündlich bekanntgegeben.
 
 
-4.  Wahlergebnis
+4.  **Wahlergebnis**
+
+    *        *
+            *                *
+                    *                        *   Kennbuchstaben für die Zahlenangaben
 
 
 
-----------------------------------------
-I Kennbuchstaben für die Zahlenangaben I 5)
-----------------------------------------
--------                                                  Personen
-I A 1 I       Wahlberechtigte laut Wählerverzeichnis
--------       ohne Sperrvermerk "W"
-(Wahlschein) 6)                          .............
--------
-I A 2 I       Wahlberechtigte laut Wählerverzeichnis
--------       mit Sperrvermerk "W"
-(Wahlschein) 6)                          .............
--------------
-I A 1 + A 2 I Im Wählerverzeichnis insgesamt
-------------- eingetragene Wahlberechtigte 6)          .............
--------
-I  B  I       Wähler insgesamt (vgl. oben 3.2 c)       .............
--------
--------
-I B 1 I       darunter Wähler mit Wahlschein
--------       (vgl. oben 3.2 b)                        .............
----------------------------------------
-I Ergebnis der Wahl im Wahlkreis      I
-I (Erststimmen)                       I 7) 9)
----------------------------------------
--------
-I C 1 I       Am Wahlgerät abgegebene
--------       ungültige Erststimmen     ............   .............
-(Nummer der
-Anzeige)
--------
-I C 2 I       Nach der Zählliste als
--------       ungültig geltende
-Erststimmen               ............
-------------
--------
-I  C  I       Ungültige Erststimmen
--------       zusammen                  ............
--------
-I  D  I       Gültige Erststimmen
--------       insgesamt                 ............   .............
-(Nummer der
-Anzeige)
----------------------------------------------------------------
-I Von den gültigen        I              I                    I
-I Erststimmen entfielen   I              I                    I
-I auf den Bewerber        I              I                    I
-I-------------------------------------------------------------I
-I                         I              I                    I
-I                         I Erststimmen  I Nummer der Anzeige I
----------------------------------------------------------------
--------
-I D 1 I       1. ....................   ............   .............
--------
--------
-I D 2 I       2. ....................   ............   .............
--------
--------
-I D 3 I       3. ....................   ............   .............
--------          (Vor- und Familien-    ------------
-name des Bewerbers
-sowie Kurzbezeichnung
-der Partei/bei anderen
-Kreiswahlvorschlägen
-das Kennwort - laut
-Stimmzettel -)
-usw.
----------------------------------------
-I Ergebnis der Wahl nach Landeslisten I
-I (Zweitstimmen)                      I 8) 9)
----------------------------------------
--------
-I E 1 I       Am Wahlgerät abgegebene
--------       ungültige Zweitstimmen    ............   .............
-(Nummer der
-Anzeige)
--------
-I E 2 I       Nach der Zählliste als
--------       ungültig geltende
-Zweitstimmen              ............
-------------
--------
-I  E  I       Ungültige Zweitstimmen
--------       zusammen                  ............
--------
-I  F  I       Gültige Zweitstimmen
--------       insgesamt                 ............   .............
-(Nummer der
-Anzeige)
----------------------------------------------------------------
-I Von den gültigen        I              I                    I
-I Zweitstimmen entfielen  I              I                    I
-I auf die Landesliste der I              I                    I
-I-------------------------------------------------------------I
-I                         I              I                    I
-I                         I Zweitstimmen I Nummer der Anzeige I
----------------------------------------------------------------
--------
-I F 1 I       1. ....................   ............   .............
--------
--------
-I F 2 I       2. ....................   ............   .............
--------
--------
-I F 3 I       3. ....................   ............   .............
--------          (Kurzbezeichnung       ------------
-der Partei - laut
-Stimmzettel -)
-usw.
-Zusammen   ............
 
-5.  Abschluß der Wahlergebnisfeststellung
+                *[^BJNR024590975BJNE002701311_05]
+
+
+
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *   Personen
+
+
+    *        *
+            *                *   A 1
+
+
+
+
+        *
+        *[^BJNR024590975BJNE002701311_06]
+   Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“
+            (Wahlschein)
+
+        *   ............................................
+
+
+    *        *
+            *                *   A 2
+
+
+
+
+        *
+        *   Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“
+            (Wahlschein)
+
+        *   ............................................
+
+
+    *        *
+            *                *   A 1 + A 2
+
+
+
+
+        *   Im Wählerverzeichnis insgesamt eingetragene Wahlberechtigte
+
+        *   ............................................
+
+
+    *        *
+            *                *   B
+
+
+
+
+        *
+        *   Wähler insgesamt (vgl. oben 3.2 c)
+
+        *   ............................................
+
+
+    *        *
+            *                *   B 1
+
+
+
+
+        *
+        *   darunter Wähler mit Wahlschein (vgl. oben 3.2 b)
+
+        *   ............................................
+
+
+    *        *
+        *
+        *
+            *                *
+                    *                        *   Ergebnis der Wahl im Wahlkreis (Erststimmen)
+
+
+
+
+                *[^BJNR024590975BJNE002701311_07]
+[^BJNR024590975BJNE002701311_09]
+
+
+
+
+        *
+
+    *        *
+            *                *   C 1
+
+
+
+
+        *
+        *   Am Wahlgerät abgegebene ungültige Erststimmen
+
+        *   ............................................
+
+        *   ............................................
+            (Nummer der Anzeige)
+
+
+    *        *
+            *                *   C 2
+
+
+
+
+        *
+        *   Nach der Zählliste als ungültig geltende Erststimmen
+
+        *   *............................................*
+
+        *
+
+    *        *
+            *                *   C
+
+
+
+
+        *
+        *   **Ungültige** Erststimmen zusammen
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   D
+
+
+
+
+        *
+        *   **Gültige** Erststimmen insgesamt
+
+        *   ............................................
+
+        *   ............................................
+            (Nummer der Anzeige)
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *   Von den **gültigen** Erststimmen entfielen
+            auf den Bewerber
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *   Erststimmen
+
+        *   Nummer der Anzeige
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+            *                *   D 1
+
+
+
+
+        *
+        *   1. ...................................................................
+            ........................
+
+        *   ............................................
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   D 2
+
+
+
+
+        *
+        *   2. ...................................................................
+            ........................
+
+        *   ............................................
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   D 3
+
+
+
+
+        *
+        *   3. ...................................................................
+            ........................
+            (Vor- und Familienname des Bewerbers sowie Kurzbezeichnung
+            der Partei/bei anderen Kreiswahlvorschlägen das Kennwort
+            – laut Stimmzettel –)
+
+        *   *............................................*
+
+        *   ............................................
+
+        *
+
+    *        *
+        *
+        *   usw.
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+            *                *
+                    *                        *   Ergebnis der Wahl nach Landeslisten **(Zweitstimmen)**
+
+
+
+
+                *[^BJNR024590975BJNE002701311_08]
+
+
+
+
+        *
+
+    *        *
+            *                *   E 1
+
+
+
+
+        *
+        *   Am Wahlgerät abgegebene ungültige Zweitstimmen
+
+        *   ............................................
+
+        *   ............................................
+            (Nummer der Anzeige)
+
+
+    *        *
+            *                *   E 2
+
+
+
+
+        *
+        *   Nach der Zählliste als ungültig geltende Zweitstimmen
+
+        *   *............................................*
+
+        *
+
+    *        *
+            *                *   E
+
+
+
+
+        *
+        *   **Ungültige** Zweitstimmen zusammen
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   F
+
+
+
+
+        *
+        *   **Gültige** Zweitstimmen insgesamt
+
+        *   ............................................
+
+        *   ............................................
+            (Nummer der Anzeige)
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *   Von den **gültigen** Zweitstimmen entfielen
+            auf die Landesliste der
+
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *   Zweitstimmen
+
+        *   Nummer der Anzeige
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+            *                *   F 1
+
+
+
+
+        *
+        *   1. ...................................................................
+            ........................
+
+        *   ............................................
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   F 2
+
+
+
+
+        *
+        *   2. ...................................................................
+            ........................
+
+        *   ............................................
+
+        *   ............................................
+
+        *
+
+    *        *
+            *                *   F 3
+
+
+
+
+        *
+        *   3. ...................................................................
+            ........................
+            (Kurzbezeichnung der Partei – laut Stimmzettel –)
+
+        *   *............................................*
+
+        *   ............................................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *   usw.
+
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *   Zusammen
+
+        *   ............................................
+
+        *
+        *
+
+
+
+
+
+
+5.  **Abschluß der Wahlergebnisfeststellung**
 
 
 5.1 Bei der Ermittlung und Feststellung des Wahlergebnisses waren als
     besondere Vorkommnisse zu verzeichnen (z.B. Aufklärung der
     Verschiedenheit der Summe der angezeigten einzelnen Zählergebnisse und
     der angezeigten Zahl der insgesamt abgegebenen Stimmen - § 14 Abs. 5
-    Bundeswahlgeräteverordnung -): 2)
+    Bundeswahlgeräteverordnung -):
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   Der Wahlvorstand faßte in diesem Zusammenhang folgende Beschlüsse:
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
 
 
 
-....................................................................
-Der Wahlvorstand faßte in diesem Zusammenhang folgende Beschlüsse: 2)
-....................................................................
-5\.2 Das (Die) Mitglied(er) des Wahlvorstandes
-..........................
-(Vor- und Familienname)
-beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute
-Zählung 10) der Stimmen, weil
-....................................................................
-(Angabe der Gründe)
-Daraufhin wurde der Zählvorgang (vgl. Abschnitte 3.2 bis 3.4)
-wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene
-Wahlergebnis für den Wahlbezirk wurde
----
-I I 1) mit dem gleichen Ergebnis erneut festgestellt
----
----
-I I 1) berichtigt 11)
----
-und vom Wahlvorsteher mündlich bekanntgegeben.
 
-5.3 Nach der Ermittlung des Wahlergebnisses wurden jedes verwendete
-    Wahlgerät geschlossen und versiegelt - geschlossen und die Behältnisse
-    mit den Schlüsseln / dem (den) Stimmenspeicher(n) versiegelt 2). Die
-    Zähllisten für die als ungültig geltenden Stimmen wurden vom
+5.2
+    *        *   Das (Die) Mitglied(er) des Wahlvorstandes ............................
+            ......................................................................
+            ......................................................................
+            ...........................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   (Vor- und Familienname)
+
+        *
+        *
+
+    *        *[^BJNR024590975BJNE002701311_10]
+   beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute
+            Zählung
+            der Stimmen, weil
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   (Angabe der Gründe)
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Daraufhin wurde der Zählvorgang (vgl. Abschnitte 3.2 bis 3.4)
+            wiederholt. Das in Abschnitt 4 der Wahlniederschrift enthaltene
+            Wahlergebnis für den Wahlbezirk wurde
+
+        *
+
+    *        *   *
+            mit dem gleichen Ergebnis erneut festgestellt
+
+        *
+        *
+
+    *        *   *
+[^BJNR024590975BJNE002701311_11]
+            berichtigt
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   und vom Wahlvorsteher mündlich bekanntgegeben.
+
+        *
+        *
+        *
+
+
+
+
+5.3 Nach der Ermittlung des Wahlergebnisses wurde jedes verwendete
+    Wahlgerät geschlossen und versiegelt – geschlossen und die Behältnisse
+    mit den Schlüsseln / dem (den) Stimmenspeicher(n) versiegelt
+    . Die Zähllisten für die als ungültig geltenden Stimmen wurden vom
     Listenführer und Wahlvorsteher unterschrieben und sind als Anlage Nr.
     .......... bis Nr. .......... beigefügt.
 
 
-5.4 Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die
-    Schnellmeldung 12) übertragen und auf schnellstem Wege telefonisch -
-    durch (Angabe der Übermittlung) ................. - 2) an
-    ..................... übermittelt.
+5.4[^BJNR024590975BJNE002701311_12]
+ Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die
+    Schnellmeldung
+    übertragen und auf schnellstem Wege telefonisch – durch (Angabe der
+    Übermittlung) .......................................... –
+    an ........................................................
+    übermittelt.
 
 
 5.5 Während der Wahlhandlung waren immer mindestens drei, während der
@@ -1521,176 +2398,585 @@ und vom Wahlvorsteher mündlich bekanntgegeben.
 5.7 Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes
     genehmigt und von ihnen unterschrieben.
 
+    *        *   .............................................. , den
+            .................................... 19 ....
+            (Ort)
+
+        *
 
 
-...................., den .......... 19 ...
-(Ort)
-Der Wahlvorsteher                  Die übrigen Beisitzer
-...............................    1. ..............................
-Der Stellvertreter                 2. ..............................
-...............................    3. ..............................
-Der Schriftführer                  4. ..............................
-...............................
-5\.8 Das (Die) Mitglied(er) des Wahlvorstandes
-..........................
-(Vor- und Familienname)
-verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
-....................................................................
-....................................................................
-(Angabe der Gründe)
-5\.9 Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand am
-..........,
-.......... Uhr, dem Beauftragten der Gemeindebehörde
-1\. diese Wahlniederschrift mit den darin verzeichneten Anlagen,
-2\. das (die) Wahlgerät(e) oder den (die) herausgenommene(n)
-Stimmenspeicher 2) nebst Schlüsseln und Zubehör,
-3\. das Wählerverzeichnis,
-4\. die eingenommenen Wahlscheine, soweit sie nicht der
-Wahlniederschrift beigefügt sind,
-5\. alle sonstigen ihm von der Gemeinde zur Verfügung gestellten
-Gegenstände und Unterlagen.
-Der Wahlvorsteher
-.................................
-Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift
-mit allen darin verzeichneten Anlagen, das Paket mit den verpackten
-und versiegelten Wahlscheinen sowie
-das (die) unter Nr. 5.3 genannte(n) Wahlgerät(e) oder der
-(die) Stimmenspeicher am ................., .......... Uhr
-auf Vollständigkeit überprüft und übernommen.
-.................................
-(Unterschrift des Beauftragten
-der Gemeindebehörde)
-Achtung: Es ist sicherzustellen, daß die Wahlniederschrift mit den
-Anlagen, das Wahlgerät oder herausgenommene Stimmenspeicher 2) sowie
-die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich
-sind.
-----------
 
-1)  Zutreffendes ankreuzen.
+    *        *   Der Wahlvorsteher
+
+        *   Die übrigen Beisitzer
 
 
-2)  Nichtzutreffendes streichen.
+    *        *   ......................................................................
+            ......................
+
+        *   1. ...................................................................
+            .............................
 
 
-3)  Die Wahl darf nur mit einem anderen Wahlgerät fortgesetzt werden, wenn
+    *        *   Der Stellvertreter
+
+        *   2. ...................................................................
+            .............................
+
+
+    *        *   ......................................................................
+            ......................
+
+        *   3. ...................................................................
+            .............................
+
+
+    *        *   Der Schriftführer
+
+        *   4. ...................................................................
+            .............................
+
+
+    *        *   ......................................................................
+            ......................
+
+        *
+
+
+
+
+5.8
+    *        *   Das (Die) Mitglied(er) des Wahlvorstandes ............................
+            ......................................................................
+            ......................................................................
+            ...........................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   (Vor- und Familienname)
+
+        *
+        *
+
+    *        *   verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *
+        *
+        *   (Angabe der Gründe)
+
+        *
+        *
+
+
+
+
+5.9
+    *        *   Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand am ............
+            ......................................................................
+            .................................................................. ,
+            ........................ Uhr, dem Beauftragten der Gemeindebehörde
+
+        *
+
+    *        *   1.
+
+        *   diese Wahlniederschrift mit den darin verzeichneten Anlagen,
+
+        *
+
+    *        *   2.
+
+        *   das (die) Wahlgerät(e) oder den (die) herausgenommene(n)
+            Stimmenspeicher
+            nebst Schlüsseln und Zubehör,
+
+        *
+
+    *        *   3.
+
+        *   das Wählerverzeichnis,
+
+        *
+
+    *        *   4.
+
+        *   die eingenommenen Wahlscheine, soweit sie nicht der Wahlniederschrift
+            beigefügt sind,
+
+        *
+
+    *        *   5.
+
+        *   alle sonstigen ihm von der Gemeinde zur Verfügung gestellten
+            Gegenstände und Unterlagen.
+
+        *
+
+    *        *
+        *
+        *   Der Wahlvorsteher
+
+
+    *        *
+        *
+        *
+        *
+        *   ......................................................................
+            ................
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Vom Beauftragten der Gemeindebehörde wurde die Wahlniederschrift mit
+            allen darin verzeichneten Anlagen, das Paket mit den verpackten und
+            versiegelten Wahlscheinen sowie
+
+        *
+
+    *        *   das (die) unter Nr. 5.3 genannte(n) Wahlgerät(e) oder der (die)
+            Stimmenspeicher am ............................................,
+            ........................................ Uhr
+
+
+    *        *   auf Vollständigkeit überprüft und übernommen.
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *   ......................................................................
+            ................
+
+
+    *        *
+        *
+        *   (Unterschrift des Beauftragten der Gemeindebehörde)
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   **Achtung**: Es ist sicherzustellen, daß die Wahlniederschrift mit den
+            Anlagen, das Wahlgerät oder herausgenommene Stimmenspeicher
+            sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht
+            zugänglich sind.
+
+        *
+
+
+
+
+
+
+   Zutreffendes ankreuzen.
+[^BJNR024590975BJNE002701311_01]:     Nichtzutreffendes streichen.
+[^BJNR024590975BJNE002701311_02]:     Die Wahl darf nur mit einem anderen Wahlgerät fortgesetzt werden, wenn
     dies ohne nennenswerte Verzögerung und ohne Gefährdung des
     Wahlgeheimnisses möglich ist. In diesem Falle sind die Feststellungen
     unter 2.2 für das Ersatzgerät durchzuführen. Dies ist unter 2.6 mit
     den Worten: "Die Feststellungen nach 2.2 wurden wiederholt." zu
     vermerken.
-
-
-4)  Wird die Wahl nach den allgemeinen Vorschriften mit Stimmzetteln
+[^BJNR024590975BJNE002701311_03]:     Wird die Wahl nach den allgemeinen Vorschriften mit Stimmzetteln
     fortgesetzt, ist ein Wahlgerät gegen jede weitere Stimmabgabe zu
     sperren und die Sperrung zu versiegeln. Die Wahlniederschrift nach
     Anlage 2 wird erst nach Schluß der Wahlhandlung abgeschlossen. Ihre
     Ergebnisse werden in die über die Urnenwahl aufzunehmende
     Wahlniederschrift übernommen. Die Wahlniederschrift nach Satz 2 wird
     der Wahlniederschrift nach Satz 3 beigefügt.
-
-
-5)  Wahlniederschriften und Meldevordrucke sind aufeinander abgestimmt.
+[^BJNR024590975BJNE002701311_04]:     Wahlniederschriften und Meldevordrucke sind aufeinander abgestimmt.
     Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung
     bei demselben Kennbuchstaben einzutragen, mit dem sie in der
     Wahlniederschrift bezeichnet sind.
+[^BJNR024590975BJNE002701311_05]: [^BJNR024590975BJNE002701311_06]:     Die Zahlenangaben für die Zeilen entnehmen.
 
-
-
--------  -------     -------------
-6) Die Zahlenangaben für die Zeilen I A 1 I, I A 2 I und I A 1 + A 2 I
--------  -------     -------------
-sind der berichtigten Bescheinigung über den Abschluß des
-Wählverzeichnisses zu entnehmen.
--------   -------
-7) Summe I C 1 I + I  D  I muß mit der Erststimmenzahl in 3.2 d)
--------   -------
-übereinstimmen.
--------   -------
-8) Summe I E 1 I + I  F  I muß mit der Zweitstimmenzahl in 3.2 d)
--------   -------
-übereinstimmen.
--------   -------          -------   -------
-9) Stimmt die Summe von I C 1 I + I  D  I bzw. von I E 1 I + I  F  I
--------   -------          -------   -------
-
-*   nicht mit den Zahlen in 3.2 d) überein, so liegen Unstimmigkeiten vor,
-    die vom Wahlvorstand mit der Kontrollvorrichtung des Wahlgerätes (§ 14
-    Abs. 4 der Bundeswahlgeräteverordnung) aufzuklären sind.
-
-
-10) Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt
-    5\.2 zu streichen.
-
-
-11) Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf
-    andere Weise kenntlich zu machen. Alte Zahlen nicht löschen oder
-    radieren.
-
-
-12) Nach dem Muster der Anlage 28 zur Bundeswahlordnung.
+A 1
 
 
 
 
+,
+
+A 2
+
+
+
+
+und
+
+A 1 + A 2
+
+
+
+
+, sind der berichtigten Bescheinigung über den Abschluß des
+Wählerverzeichnisses zu
+
+
+
+[^BJNR024590975BJNE002701311_07]: Summe
+
+C 1
+
+
+
+
++
+
+D
+
+
+
+
+muß mit der Erststimmenzahl in 3.2 d) übereinstimmen.
+
+
+
+[^BJNR024590975BJNE002701311_08]: Summe
+
+E 1
+
+
+
+
++
+
+F
+
+
+
+
+muß mit der Zweitstimmenzahl in 3.2 d) übereinstimmen.
+
+
+
+[^BJNR024590975BJNE002701311_09]: Summe
+
+C 1
+
+
+
+
++
+
+D
+
+
+
+
+bzw. von
+
+E 1
+
+
+
+
++
+
+F
+
+
+
+
+nicht mit den Zahlen in 3.2 d) überein, so liegen Unstimmigkeiten vor,
+die vom Wahlvorstand mit der
+
+
+Kontrollvorrichtung des Wahlgerätes (§ 14 Abs. 4 der
+Bundeswahlgeräteverordnung) aufzuklären sind.
+
+
+
+Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt
+5\.2 zu streichen.
+[^BJNR024590975BJNE002701311_10]: Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf
+andere Weise kenntlich zu machen. Alte Zahlen nicht löschen oder
+radieren.
+[^BJNR024590975BJNE002701311_11]: Nach dem Muster der Anlage 28 zur Bundeswahlordnung.
+[^BJNR024590975BJNE002701311_12]: 
 
 ### Anlage 3 (zu § 14 Abs. 2 und § 15 Abs. 1 Satz 1)
 
-Fundstelle des Originaltextes: BGBl. I 1999, 762 - 766
-Gemeinde ......................            Wahlbezirk (Name oder
-Nummer) ......
-Kreis .........................   ( ) 1)   Allgemeiner Wahlbezirk
-Land ..........................   ( ) 1)   Sonderwahlbezirk
---------------------------------
-I Diese Wahlniederschrift ist  I
-I auf der letzten Seite von    I
-I allen Mitgliedern des        I
-I Wahlvorstandes zu            I
-I unterschreiben.              I
---------------------------------
-Wahlniederschrift
-über die Wahl mit Wahlgeräten
-bei der Wahl zum Europäischen Parlament
-am .............................
-1\.   Wahlvorstand
-Zu der Wahl waren für den Wahlbezirk vom Wahlvorstand
-erschienen:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Funktion      I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I als Wahlvorsteher I
-I 2. ................... I .................. I als               I
-I                        I                    I stellvertretender I
-I                        I                    I Wahlvorsteher     I
-I 3. ................... I .................. I als Schriftführer I
-I 4. ................... I .................. I als Beisitzer     I
-I 5. ................... I .................. I als Beisitzer     I
-I 6. ................... I .................. I als Beisitzer     I
-I 7. ................... I .................. I als Beisitzer     I
--------------------------------------------------------------------
-An Stelle des(r) nicht erschienenen - ausgefallenen 2) Mitglieds(er)
-des Wahlvorstandes ernannte der Wahlvorsteher den (die) folgenden
-anwesenden - herbeigerufenen - Wahlberechtigten zu(m) Mitglied(ern)
-des Wahlvorstandes und wies ihn (sie) auf ihre Verpflichtung zur
-unparteiischen Wahrnehmung ihres Amtes und zur Verschwiegenheit über
-die ihnen bei ihrer amtlichen Tätigkeit bekanntgewordenen
-Angelegenheiten hin:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Uhrzeit       I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I ................. I
-I 2. ................... I .................. I ................. I
-I 3. ................... I .................. I ................. I
--------------------------------------------------------------------
-Als Hilfskräfte waren zugezogen:
--------------------------------------------------------------------
-I      Familienname      I      Vorname       I     Uhrzeit       I
-I-----------------------------------------------------------------I
-I 1. ................... I .................. I ................. I
-I 2. ................... I .................. I ................. I
-I 3. ................... I .................. I ................. I
--------------------------------------------------------------------
+(Fundstelle des Originaltextes: BGBl. I 1999, 762 - 766)
 
-2.  Wahlhandlung
+
+*    *   Gemeinde .............................................................
+        ........................
+
+    *
+    *   Wahlbezirk (Name oder Nummer)
+        ............................................
+
+
+*    *   Kreis ................................................................
+        ..............................
+
+    *[^BJNR024590975BJNE002800311_01]
+   *
+
+    *   Allgemeiner Wahlbezirk
+
+    *
+
+*    *   Land .................................................................
+        .............................
+
+    *   *
+
+    *   Sonderwahlbezirk
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Diese Wahlniederschrift ist auf der
+        letzten Seite von allen Mitgliedern des
+        Wahlvorstandes zu unterschreiben.
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+
+
+
+   Wahlniederschrift
+## **über die Wahl mit Wahlgeräten**
+
+bei der Wahl zum Europäischen Parlament
+### am ...............................................................
+............
+
+
+1.  **Wahlvorstand**
+    Zu der Wahl waren für den Wahlbezirk vom Wahlvorstand erschienen:
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Funktion**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Wahlvorsteher
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als stellvertretender Wahlvorsteher
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Schriftführer
+
+
+    *        *   4. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   5. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   6. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+    *        *   7. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   als Beisitzer
+
+
+
+
+    *        *[^BJNR024590975BJNE002800311_02]
+   An Stelle des(r) nicht erschienenen - ausgefallenen
+            Mitglieds(er) des Wahlvorstandes ernannte der Wahlvorsteher den (die)
+            folgenden anwesenden – herbeigerufenen – Wahlberechtigten zu(m)
+            Mitglied(ern) des Wahlvorstandes und wies ihn (sie) auf ihre
+            Verpflichtung zur unparteiischen Wahrnehmung ihres Amtes und zur
+            Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit
+            bekanntgewordenen Angelegenheiten hin:
+
+
+
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Uhrzeit**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+
+
+    *        *   Als Hilfskräfte waren zugezogen:
+
+
+
+
+    *        *   **Familienname**
+
+        *   **Vorname**
+
+        *   **Uhrzeit**
+
+
+    *        *   1. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   2. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+    *        *   3. ...................................................................
+            ........................
+
+        *   ......................................................................
+            .........................
+
+        *   ......................................................................
+            .........................
+
+
+
+
+
+
+
+2.  **Wahlhandlung**
 
 
 2.1 Der Wahlvorsteher eröffnete die Wahlhandlung damit, daß er die übrigen
@@ -1707,9 +2993,15 @@ I 3. ................... I .................. I ................. I
     waren im Wahlraum ausgehängt.
 
 
-2.2 Der Wahlvorstand stellte fest, daß das Wahlgerät Typ
-    ....................... Fabrik-Nr. .....................
+2.2 Der Wahlvorstand stellte fest, daß das Wahlgerät Typ .................
+    ............................................................. Fabrik-
+    Nr. ..................................................................
+    .................................
 
+
+
+
+*
     -   sich in ordnungsgemäßem Zustand befand,
 
 
@@ -1720,26 +3012,29 @@ I 3. ................... I .................. I ................. I
         gestellt oder gelöscht waren,
 
 
-    -   die zur Aufnahme von Wahlmarken bestimmten Behälter leer waren 2) und
+    -   die zur Aufnahme von Wahlmarken bestimmten Behälter leer waren
+        und
 
 
     -   nicht benötigte Zähl- und Speichervorrichtungen für die Stimmabgabe
-        gesperrt waren 2).
+        gesperrt waren
+        .
 
 
 
 
     Dann wurde jedes verwendete Wahlgerät oder dessen Zähl- und
     Speichervorrichtungen durch den Wahlvorsteher verschlossen. Die
-    Schüssel nahmen der Wahlvorsteher und ein anderes Mitglied des
+    Schlüssel nahmen der Wahlvorsteher und ein anderes Mitglied des
     Wahlvorstandes getrennt bis zur Beendigung der Wahlhandlung in
     Verwahrung.
 
 
 2.3 Damit die Wähler unbeobachtet ihre Stimme abgeben konnten, war das
-    Wahlgerät im Wahlraum in - einer - Wahlzelle - einem Nebenraum, der
+    Wahlgerät im Wahlraum in – einer – Wahlzelle – einem Nebenraum, der
     nur vom Wahlraum aus betretbar war und dessen Eingang vom Tisch des
-    Wahlvorstandes aus überblickt werden konnte - aufgestellt 2).
+    Wahlvorstandes aus überblickt werden konnte – aufgestellt
+    .
 
 
 2.4 Mit der Stimmabgabe wurde um ............... Uhr ...............
@@ -1750,26 +3045,33 @@ I 3. ................... I .................. I ................. I
     Wählerverzeichnis nach dem Verzeichnis der nachträglich erteilten
     Wahlscheine, indem er bei den Namen der nachträglich mit Wahlscheinen
     versehenen Wahlberechtigten in der Spalte für die Stimmabgabe den
-    Vermerk "Wahlschein" oder den Buchstaben "W" eintrug. Der
+    Vermerk „Wahlschein“ oder den Buchstaben „W“ eintrug. Der
     Wahlvorsteher berichtigte auch die Zahlen der Abschlußbescheinigung
-    der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet 2).
+    der Gemeindebehörde; diese Berichtigung wurde von ihm abgezeichnet
+    .
 
     Der Wahlvorsteher berichtigte später entsprechend das
     Wählerverzeichnis und die dazugehörige Abschlußbescheinigung unter
     Berücksichtigung der noch am Wahltage an erkrankte Wahlberechtigte
-    erteilten Wahlscheine 2).
+    erteilten Wahlscheine
+    .
 
 
 2.6 Der Wahlvorstand wurde über die Ungültigkeit von Wahlscheinen nicht
-    unterrichtet 2).
+    unterrichtet
+    .
 
     Der Wahlvorstand wurde vom .........................................
     unterrichtet, daß folgende(r) Wahlschein(e) für ungültig erklärt
     worden ist (sind):
 
-    (Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nr.) 2)
+    (Vor- und Familienname des Wahlscheininhabers sowie Wahlschein-Nr.)
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
 
 2.7 Während der Wahlhandlung überprüfte der Wahlvorsteher oder das von ihm
@@ -1778,7 +3080,7 @@ I 3. ................... I .................. I ................. I
     die Vorrichtungen zur Stimmabgabe sodann wieder gesperrt waren.
     Unterblieb die Abgabe der Stimme, so wurde der Stimmabgabevermerk im
     Wählerverzeichnis gestrichen und in der Spalte Bemerkungen
-    "Nichtwähler" oder "N" eingetragen.
+    „Nichtwähler“ oder „N“ eingetragen.
 
 
 2.8 Während der Wahlhandlung traten an dem Wahlgerät folgende
@@ -1786,92 +3088,226 @@ I 3. ................... I .................. I ................. I
     einfache Weise und nicht ohne Gefahr für das Bekanntwerden oder
     Löschen der bereits abgegebenen Stimmen behoben werden konnten,:
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
     und die um ............ Uhr dazu führten, daß auf Beschluß des
     Wahlvorstandes zur Wahl mit dem
 
-    Wahlgerät-Typ ......... Fabrik-Nr. .......... übergegangen werden
-    mußte 2) 3).
+    Wahlgerät-Typ ................. Fabrik-Nr. ..................
+    übergegangen werden mußte
+[^BJNR024590975BJNE002800311_03]
+    .
 
     Die Feststellungen nach Nr. 2.2 wurden wiederholt.
 
     Während der Wahlhandlung traten an dem Wahlgerät folgende
-    Funktionsstörungen auf, die um ............... Uhr dazu führten, daß
-    zur Urnenwahl übergegangen werden mußte 2) 4):
+    Funktionsstörungen auf, die um ................................... Uhr
+    dazu führten, daß zur Urnenwahl übergegangen werden mußte:
+[^BJNR024590975BJNE002800311_04]
+    :
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
 
-2.9 Besondere Vorfälle während der Wahlhandlung waren - abgesehen von den
-    in Abschnitt 2.8 genannten - nicht zu verzeichnen 2).
+2.9 Besondere Vorfälle während der Wahlhandlung waren – abgesehen von den
+    in Abschnitt 2.8 genannten – nicht zu verzeichnen
+    .
 
-    Als besondere Vorfälle waren - abgesehen von den unter 2.8 genannten -
-    zu verzeichnen 2) (z.B. Zurückweisung von Wählern in den Fällen des §
-    49 Abs. 7 und § 52 der Europawahlordnung):
+    Als besondere Vorfälle waren – abgesehen von den unter 2.8 genannten –
+    zu verzeichnen
+    (z.B. Zurückweisung von Wählern in den Fällen des § 49 Abs. 7 und § 52
+    der Europawahlordnung):
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
-    ....................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ......................................................................
+    ................
 
     Über die Einzelheiten wurden Niederschriften gefertigt und als Anlagen
-    Nr. ............... bis Nr. ............... beigefügt.
+    Nr. .................... bis Nr. .................... beigefügt.
 
 
-2.10 Um ..... Uhr gab der Wahlvorsteher den Ablauf der Wahlzeit bekannt.
-    Danach wurden nur noch die im Wahlraum anwesenden Wahlberechtigten zur
-    Stimmabgabe zugelassen. Der Zutritt zum Wahlraum wurde solange
-    gesperrt, bis der letzte der anwesenden Wähler seine Stimme abgegeben
-    hatte. Sodann wurde die Öffentlichkeit wieder hergestellt.
+2.10
+ Um .................... Uhr gab der Wahlvorsteher den Ablauf der
+    Wahlzeit bekannt. Danach wurden nur noch die im Wahlraum anwesenden
+    Wahlberechtigten zur Stimmabgabe zugelassen. Der Zutritt zum Wahlraum
+    wurde solange gesperrt, bis der letzte der anwesenden Wähler seine
+    Stimme abgegeben hatte. Sodann wurde die Öffentlichkeit wieder
+    hergestellt.
 
-    Um ............... Uhr ............... Minuten erklärte der
+    Um .................... Uhr .................... Minuten erklärte der
     Wahlvorsteher die Wahl für geschlossen. Er sperrte jedes Wahlgerät
-    oder die Zähl- und Speichervorrichtungen 2) sofort gegen jede weitere
-    Stimmabgabe und versiegelte die Sperrung.
+    oder die Zähl- und Speichervorrichtungen
+    sofort gegen jede weitere Stimmabgabe und versiegelte die Sperrung.
 
 
-3.  Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk
+3.  **Ermittlung und Feststellung des Wahlergebnisses im Wahlbezirk**
 
 
 3.1 Die Ermittlung und Feststellung des Wahlergebnisses wurden im
     unmittelbaren Anschluß an die Stimmabgabe und ohne Unterbrechung unter
     der Leitung des Wahlvorstehers/des Stellvertreters des Wahlvorstehers
-    2) vorgenommen.
+    vorgenommen.
 
 
 3.2
-    a)  Zunächst wurden die im Wählerverzeichnis eingetragenen
-        Stimmabgabevermerke gezählt.
+    *        *   a)
+
+        *   Zunächst wurden die im Wählerverzeichnis eingetragenen
+            Stimmabgabevermerke gezählt.
+
+        *
+
+    *        *
+        *   Die Zählung ergab
+
+        *   ............................
+
+        *
+        *   Vermerke.
+
+        *
+        *
+        *
+
+    *        *   b)
+
+        *   Mit Wahlschein haben gewählt
+
+        *   *..........................*
+
+        *
+        *   Personen
+
+        *
+            *                *   B 1
+
+
+
+
+        *   An entsprechender Stelle
+            in Abschnitt 4 eintragen.
+
+        *
+
+    *        *   c)
+
+        *   Gesamtzahl der Wähler – a) und b) zusammen –
+
+        *   ............................
+
+        *
+        *   Personen
+
+        *
+            *                *   B
+
+
+
+
+        *
+
+    *        *   d)
+
+        *   Sodann wurde die auf dem Wahlgerät insgesamt angezeigte Zahl für die
+            Stimmen abgelesen.
+
+
+    *        *
+        *   Die Ablesung ergab
+
+        *
+        *
+        *   .............................
+
+        *   abgegebene Stimmen.
+
+
+    *        *   e)
+
+        *   *
+            Die Gesamtzahl c) stimmte mit der Gesamtzahl der Stimmen aus d)
+            überein.
+
+        *
+
+    *        *
+        *   *
+            Die Gesamtzahl c) war um ............... größer – kleiner
+            – als die Gesamtzahl der Stimmen aus d).
+
+        *
+
+    *        *
+        *   Die Verschiedenheit, die sich auch bei wiederholter Zählung
+            herausstellte, erklärt sich aus folgenden Gründen:
+
+        *
+
+    *        *
+        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ......................................................................
+            ................
+
+        *
+
+    *        *
+        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ......................................................................
+            ................
+
+        *
+
+    *        *
+        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ......................................................................
+            ................
+
+        *
+
+
+
+
+3.3
+    *        *   Der Schriftführer übertrug aus der – berichtigten
+            – Bescheinigung über den Abschluß des Wählerverzeichnisses die Zahl
+            der Wahlberechtigten in Abschnitt 4
+
+
+    *        *   Kennbuchstaben
+
+        *
+            *                *   A 1 + A 2
+
+
+
+
+        *   der Wahlniederschrift.
 
 
 
 
 
-
-Die Zählung ergab  ....... Vermerke.
--------  ------------------
-b)  Mit Wahlschein                       I B 1 I  I An             I
-haben gewählt      ....... Personen  -------  I entsprechender I
-c)  Gesamtzahl der     -------                    I Stelle in      I
-Wähler - a) und b)                   -------  I Abschnitt 4    I
-zusammen -         ....... Personen  I B   I  I eingetragen.   I
--------  ------------------
-d)  Sodann wurde die auf dem Wahlgerät insgesamt
-angezeigte Zahl für die Stimmen abgelesen.
-Die Ablesung ergab                   ............ abgegebene Stimmen.
-e)  (  ) 1) Die Gesamtzahl c) stimmte mit der Gesamtzahl der
-Stimmen aus d) überein.
-(  ) 1) Die Gesamtzahl c) war um ............... größer
-- kleiner 2) - als die Gesamtzahl der Stimmen aus d).
-Die Verschiedenheit, die sich auch bei wiederholter Zählung
-herausstellte, erklärt sich aus folgenden Gründen: 2)
-...............................................................
-...............................................................
-...............................................................
-
-3.3 Der Schriftführer übertrug aus der - berichtigten 2) - Bescheinigung
-    über den Abschluß des Wählerverzeichnisses die Zahl der
-    Wahlberechtigten in Abschnitt 4 Kennbuchstaben I A 1 + A 2 I der
-    Wahlniederschrift.
 
 
 3.4 Nunmehr wurde das Wahlgerät für die Zählung freigegeben. Ein Mitglied
@@ -1879,40 +3315,86 @@ herausstellte, erklärt sich aus folgenden Gründen: 2)
     ausgedruckten folgenden Zahlen fest, die es in den nachstehenden
     Zählkontrollvermerk eintrug:
 
+    *        *   Wahlgerät Typ ..................
+
+        *   Fabrik-Nr. ......................................
+
+        *
+
+    *        *   Nr. ............... der Anzeigen
+
+        *   Zahl bei Schluß der Wahlhandlung
+
+        *   – Nicht vom Wahlvorstand auszufüllen –
 
 
-Wahlgerät Typ ........  Fabrik-Nr. ........
-Nr. .... der Anzeigen   Zahl bei Schluß der  - Nicht vom
-Wahlhandlung         Wahlvorstand
-auszufüllen -
-......................  ...................  Die Übereinstimmung
-......................  ...................  der Angaben auf den
-......................  ...................  Anzeigen mit
-......................  ...................  nebenstehenden
-......................  ...................  Zählkontrollvermerken
-wird
-......................  ...................  hiermit bescheinigt.
-......................  ...................  Das Wahlgerät ist
-......................  ...................  nach Prüfung wieder
-......................  ...................  versiegelt -
-......................  ...................  verschlossen und
-......................  ...................  das Behältnis mit
-......................  ...................  den Schlüsseln -
-......................  ...................  Stimmenspeicher(n)
-......................  ...................  versiegelt 2) - worden.
-......................  ...................  ......., den ....... 19..
-......................  ...................    (Ort)
-......................  ...................  ....................
-......................  ...................  (Kreiswahlleiter
-......................  ...................  oder Beauftragter)
-......................  ...................  ....................
-......................  ...................     (erster Zeuge)
-......................  ...................  ....................
-......................  ...................     (zweiter Zeuge)
+    *        *   ................................................
 
-3.5 Danach stellte der Wahlvorsteher - ein vom Wahlvorsteher bestimmtes
-    Mitglied des Wahlvorstandes 2) - durch lautes Ablesen der einzelnen
-    Anzeigen fest die Zahl der an dem Wahlgerät
+        *   ......................................................
+
+        *   Die Übereinstimmung der Angaben auf den Anzeigen mit nebenstehenden
+            Zählkontrollvermerken wird hiermit bescheinigt. Das Wahlgerät ist nach
+            Prüfung wieder versiegelt – verschlossen und das Behältnis mit den
+            Schlüsseln – Stimmenspeicher(n) versiegelt
+            – worden.
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+        *   ................................., den
+            .................................. 19....
+            (Ort)
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+        *   ......................................................................
+            ..............
+            (Kreiswahlleiter oder Beauftragter)
+
+
+    *        *   ................................................
+
+        *   ......................................................
+
+        *   ......................................................................
+            ..............
+            (erster Zeuge)
+
+
+    *        *
+        *
+        *   ......................................................................
+            ..............
+            (zweiter Zeuge)
+
+
+
+
+
+3.5 Danach stellte der Wahlvorsteher – ein vom Wahlvorsteher bestimmtes
+    Mitglied des Wahlvorstandes
+    durch lautes Ablesen der einzelnen Anzeigen fest die Zahl der an dem
+    Wahlgerät
 
     1.  insgesamt abgegebenen Stimmen,
 
@@ -1925,7 +3407,8 @@ wird
 
 
 
-    Die übrigen Mitglieder des Wahlvorstandes überzeugten sich von der
+
+*   Die übrigen Mitglieder des Wahlvorstandes überzeugten sich von der
     Richtigkeit dieser Feststellung und ihrer Übertragung in diese
     Wahlniederschrift.
 
@@ -1934,128 +3417,397 @@ wird
     Wahlvorsteher mündlich bekanntgegeben wurde.
 
 
-4.  Wahlergebnis
+4.  **Wahlergebnis**
+
+    *        *
+            *                *
+                    *                        *   Kennbuchstaben für die Zahlenangaben
 
 
 
-----------------------------------------
-I Kennbuchstaben für die Zahlenangaben I 5)
-----------------------------------------
--------
-I A 1 I       Wahlberechtigte laut Wählerverzeichnis
--------       ohne Sperrvermerk "W"
-(Wahlschein) 6)                          .............
--------
-I A 2 I       Wahlberechtigte laut Wählerverzeichnis
--------       mit Sperrvermerk "W"
-(Wahlschein) 6)                          .............
--------------
-I A 1 + A 2 I Im Wählerverzeichnis insgesamt
-------------- eingetragene Wahlberechtigte 6)          .............
--------
-I  B  I       Wähler insgesamt (vgl. 3.2 c))           .............
--------
--------
-I B 1 I       darunter Wähler mit Wahlschein
--------       (vgl. 3.2 b))                            .............
------
-I C I 7)      ungültige Stimmen      ...............   .............
------                                                 (Nummer der
-Anzeige)
-Von den gültigen Stimmen entfielen auf den Wahlvorschlag
----------------------------------------------------------------
-I Wahlvorschläge in der   I Stimmen      I Nummer der Anzeige I
-I im Stimmzettel          I              I                    I
-I aufgeführten            I              I                    I
-I Reihenfolge mit         I              I                    I
-I Kurzbezeichnung und     I              I                    I
-I Kennwort                I              I                    I
----------------------------------------------------------------
--------                               I              I
-I D 1 I       1. .................... I ............ I
-..................
--------                               I              I
--------                               I              I
-I D 2 I       2. .................... I ............ I
-..................
--------                               I              I
--------                               I              I
-I D 3 I       3. .................... I ............ I
-..................
--------                               I              I
--------                               I              I
-I D 4 I       4. .................... I ............ I
-..................
--------                               I ------------ I
-usw.                    I              I
-I              I
--------                               I              I
-I D   I       gültige Stimmen         I              I
--------       zusammen                I ............ I
-..................
-I              I
--------                               I              I
-I C   I       ungültige Stimmen       I ............ I
-..................
--------                               I ------------ I
-I              I
--------                               I              I
-IC + DI 7)    insgesamt abgegebene    I              I
--------       Stimmen                 I ............ I
-..................
-I              I
 
-5.  Abschluß der Wahlergebnisfeststellung
+                *[^BJNR024590975BJNE002800311_05]
+
+
+
+
+        *
+
+    *        *
+            *                *   A 1
+
+
+
+
+        *
+        *[^BJNR024590975BJNE002800311_06]
+   Wahlberechtigte laut Wählerverzeichnis ohne Sperrvermerk „W“
+            (Wahlschein)
+
+        *   ............................................
+
+
+    *        *
+            *                *   A 2
+
+
+
+
+        *
+        *   Wahlberechtigte laut Wählerverzeichnis mit Sperrvermerk „W“
+            (Wahlschein)
+
+        *   ............................................
+
+
+    *        *
+            *                *   A 1 + A 2
+
+
+
+
+        *   Im Wählerverzeichnis insgesamt eingetragene Wahlberechtigte
+
+        *   ............................................
+
+
+    *        *
+            *                *   B
+
+
+
+
+        *
+        *   Wähler insgesamt [vgl. 3.2 c)]
+
+        *   ............................................
+
+
+    *        *
+            *                *   B 1
+
+
+
+
+        *
+        *   darunter Wähler mit Wahlschein [vgl. 3.2 b)]
+
+        *   ............................................
+
+
+    *        *
+            *                *   C
+
+
+
+
+        *[^BJNR024590975BJNE002800311_07]
+
+        *   ungültige Stimmen
+
+        *
+        *   ............................................
+
+        *   ............................................
+            (Nummer der Anzeige)
+
+
+    *        *   Von den gültigen Stimmen entfielen auf den Wahlvorschlag
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+        *
+        *   Wahlvorschläge in der im Stimmzettel
+            aufgeführten Reihenfolge mit Kurz-
+            bezeichnung und Kennwort
+
+        *   Stimmen
+
+        *   Nummer der Anzeige
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *
+            *                *   D 1
+
+
+
+
+        *
+        *   1. ...................................................................
+            ...................................
+
+        *   ...................................................
+
+        *   ...............................................
+
+        *
+
+    *        *
+            *                *   D 2
+
+
+
+
+        *
+        *   2. ...................................................................
+            ...................................
+
+        *   ...................................................
+
+        *   ...............................................
+
+        *
+
+    *        *
+            *                *   D 3
+
+
+
+
+        *
+        *   3. ...................................................................
+            ...................................
+
+        *   ...................................................
+
+        *   ...............................................
+
+        *
+
+    *        *
+            *                *   D 4
+
+
+
+
+        *
+        *   4. ...................................................................
+            ...................................
+
+        *   *...................................................*
+
+        *   ...............................................
+
+        *
+
+    *        *
+        *
+        *   usw.
+
+        *
+        *
+        *
+        *
+
+    *        *
+            *                *   D
+
+
+
+
+        *
+        *   gültige Stimmen zusammen
+
+        *   ...................................................
+
+        *   ...............................................
+
+        *
+
+    *        *
+            *                *   C
+
+
+
+
+        *
+        *   ungültige Stimmen
+
+        *   *...................................................*
+
+        *   ...............................................
+
+        *
+
+    *        *
+            *                *   C + D
+
+
+
+
+        *
+        *   insgesamt abgegebene Stimmen
+
+        *   ...................................................
+
+        *
+        *
+
+
+
+
+
+
+5.  **Abschluß der Wahlergebnisfeststellung**
 
 
 5.1 Bei der Ermittlung und Feststellung des Wahlergebnisses waren als
     besondere Vorkommnisse zu verzeichnen (z.B. Aufklärung der
     Verschiedenheit der Summe der angezeigten einzelnen Zählergebnisse und
-    der angezeigten Zahl der insgesamt abgegebenen Stimmen - § 14 Abs. 5
-    Bundeswahlgeräteverordnung -): 2)
+    der angezeigten Zahl der insgesamt abgegebenen Stimmen – § 14 Abs. 5
+    Bundeswahlgeräteverordnung –):
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   Der Wahlvorstand faßte in diesem Zusammenhang folgende Beschlüsse:
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
 
 
 
-....................................................................
-....................................................................
-Der Wahlvorstand faßte in diesem Zusammenhang folgende Beschlüsse: 2)
-....................................................................
-....................................................................
-5\.2 Das (Die) Mitglied(er) des Wahlvorstandes
-..........................
-(Vor- und Familienname)
-beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute
-Zählung 8) der Stimmen, weil
-....................................................................
-....................................................................
-(Angabe der Gründe)
-Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.5) wiederholt.
-Das in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für
-den Wahlbezirk wurde
----
-I I 1) mit dem gleichen Ergebnis erneut festgestellt
----
----
-I I 1) berichtigt 9)
----
-und vom Wahlvorsteher mündlich bekanntgegeben.
+
+5.2
+    *        *   Das (Die) Mitglied(er) des Wahlvorstandes ............................
+            ......................................................................
+            ......................................................................
+            ...........................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   (Vor- und Familienname)
+
+        *
+        *
+
+    *        *[^BJNR024590975BJNE002800311_08]
+   beantragte(n) vor Unterzeichnung der Wahlniederschrift eine erneute
+            Zählung
+            der Stimmen, weil
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *
+        *
+        *
+        *   (Angabe der Gründe)
+
+        *
+        *
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   Daraufhin wurde der Zählvorgang (vgl. Abschnitt 3.5) wiederholt. Das
+            in Abschnitt 4 der Wahlniederschrift enthaltene Wahlergebnis für den
+            Wahlbezirk wurde
+
+        *
+
+    *        *   *
+            mit dem gleichen Ergebnis erneut festgestellt
+
+        *
+        *
+
+    *        *   *
+[^BJNR024590975BJNE002800311_09]
+            berichtigt
+
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   und vom Wahlvorsteher mündlich bekanntgegeben.
+
+        *
+        *
+        *
+
+
+
 
 5.3 Nach der Ermittlung des Wahlergebnisses wurde das Wahlgerät
-    geschlossen und versiegelt - geschlossen und die Behältnisse mit den
-    Schlüsseln / dem (den) Stimmenspeicher(n) versiegelt 2). Die Zählliste
-    für die als ungültig geltenden Stimmen wurde vom Listenführer und
-    Wahlvorsteher unterschrieben und ist als Anlage Nr. ..........
-    beigefügt.
+    geschlossen und versiegelt – geschlossen und die Behältnisse mit den
+    Schlüsseln / dem (den) Stimmenspeicher(n) versiegelt
+    . Die Zählliste für die als ungültig geltenden Stimmen wurde vom
+    Listenführer und Wahlvorsteher unterschrieben und ist als Anlage Nr.
+    .......... beigefügt.
 
 
 5.4 Das Wahlergebnis aus Abschnitt 4 wurde auf den Vordruck für die
-    Schnellmeldung übertragen und auf schnellstem Wege telefonisch - durch
+    Schnellmeldung übertragen und auf schnellstem Wege telefonisch – durch
+    .......................................... –
+    an ........................................................
+    übermittelt.
 
-
-
-.......................... - 2) an ............................
-übermittelt.
-(Angabe der Übermittlung)
 
 5.5 Während der Wahlhandlung waren immer drei, während der Ermittlung und
     Feststellung des Wahlergebnisses mindestens fünf Mitglieder des
@@ -2070,106 +3822,277 @@ und vom Wahlvorsteher mündlich bekanntgegeben.
 5.7 Vorstehende Niederschrift wurde von den Mitgliedern des Wahlvorstandes
     genehmigt und von ihnen unterschrieben.
 
+    *        *   .............................................. , den
+            .................................... 19 ....
+            (Ort)
+
+        *
 
 
-...................., den .......... 19 ...
-(Ort)
-Der Wahlvorsteher                  Die übrigen Beisitzer
-...............................    1. ..............................
-Der Stellvertreter                 2. ..............................
-...............................    3. ..............................
-Der Schriftführer                  4. ..............................
-...............................
-5\.8 Das (Die) Mitglied(er) des Wahlvorstandes
-..........................
-(Vor- und Familienname)
-verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil 2)
-....................................................................
-....................................................................
-(Angabe der Gründe)
-5\.9 Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand
-1\. diese Wahlniederschrift einschließlich der darin verzeichneten
-Anlagen,
-2\. das Wahlgerät oder die (den) herausgenommenen Stimmenspeicher 2)
-nebst Schlüsseln und Zubehör,
-3\. das Wählerverzeichnis,
-4\. die eingenommenen Wahlscheine, soweit sie nicht der
-Wahlniederschrift beigefügt sind,
-5\. alle ihm sonst zur Verfügung gestellten Gegenstände und Unterlagen
-dem Beauftragten der Gemeindebehörde.
-Der Wahlvorsteher
-.................................
-----------------------------------------------------------------------
--------
-Die Wahlniederschrift mit allen darin verzeichneten Anlagen, das Paket
-mit den verpackten und versiegelten Wahlscheinen sowie das unter Nr.
-5\.3
-genannte Wahlgerät oder der (die) Stimmenspeicher wurden am
-............................, .......................... Uhr von dem
-Unterzeichneten auf Vollständigkeit überprüft und übernommen.
-.................................
-(Unterschrift des Beauftragten
-der Gemeindebehörde)
-Achtung: Es ist sicherzustellen, daß die Wahlniederschrift mit den
-Anlagen, das Wahlgerät oder herausgenommene Stimmenspeicher 2) sowie
-die Pakete mit den weiteren Unterlagen Unbefugten nicht zugänglich
-sind.             ----------
 
-1)  Zutreffendes ankreuzen.
+    *        *   Der Wahlvorsteher
+
+        *   Die übrigen Beisitzer
 
 
-2)  Nichtzutreffendes streichen.
+    *        *   ......................................................................
+            .........................................................
+
+        *   1. ...................................................................
+            .............................
 
 
-3)  Die Wahl darf nur mit einem anderen Wahlgerät fortgesetzt werden, wenn
+    *        *   Der Stellvertreter
+
+        *   2. ...................................................................
+            .............................
+
+
+    *        *   ......................................................................
+            .........................................................
+
+        *   3. ...................................................................
+            .............................
+
+
+    *        *   Der Schriftführer
+
+        *   4. ...................................................................
+            .............................
+
+
+    *        *   ......................................................................
+            .........................................................
+
+        *
+
+
+
+
+5.8
+    *        *   Das (Die) Mitglied(er) des Wahlvorstandes ............................
+            ......................................................................
+            ......................................................................
+            ...........................
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   (Vor- und Familienname)
+
+        *
+        *
+
+    *        *   verweigerte(n) die Unterschrift unter der Wahlniederschrift, weil
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *   ......................................................................
+            ......................................................................
+            ......................................................................
+            ............................................................
+
+        *
+
+    *        *
+        *
+        *   (Angabe der Gründe)
+
+        *
+        *
+
+
+
+
+5.9
+    *        *   Nach Schluß des Wahlgeschäfts übergab der Wahlvorstand
+
+        *
+
+    *        *   1.
+
+        *   diese Wahlniederschrift einschließlich der darin verzeichneten
+            Anlagen,
+
+        *
+
+    *        *   2.
+
+        *   das Wahlgerät oder die (den) herausgenommenen Stimmenspeicher
+            nebst Schlüsseln und Zubehör,
+
+        *
+
+    *        *   3.
+
+        *   das Wählerverzeichnis,
+
+        *
+
+    *        *   4.
+
+        *   die eingenommenen Wahlscheine, soweit sie nicht der Wahlniederschrift
+            beigefügt sind,
+
+        *
+
+    *        *   5.
+
+        *   alle ihm sonst zur Verfügung gestellten Gegenstände und Unterlagen
+
+        *
+
+    *        *
+        *   dem Beauftragten der Gemeindebehörde.
+
+
+    *        *
+        *
+        *
+        *   Der Wahlvorsteher
+            ......................................................................
+            .................................
+
+        *
+
+    *        *   **_\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_
+            \__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_
+            \__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__**
+
+        *
+
+    *        *   Die Wahlniederschrift mit allen darin verzeichneten Anlagen, das Paket
+            mit den verpackten und versiegelten Wahlscheinen sowie
+
+        *
+
+    *        *   das unter Nr. 5.3 genannte Wahlgerät oder der (die) Stimmenspeicher
+            wurden am .....................................,
+            ................................... Uhr
+
+        *
+
+    *        *   von dem Unterzeichneten auf Vollständigkeit überprüft und übernommen.
+
+        *
+
+    *        *
+        *
+        *
+        *
+        *   ......................................................................
+            ................
+
+
+    *        *
+        *
+        *   (Unterschrift des Beauftragten der Gemeindebehörde)
+
+
+    *        *
+        *
+        *
+        *
+        *
+        *
+        *
+        *
+
+    *        *   **Achtung.** Es ist sicherzustellen, daß die Wahlniederschrift mit den
+            Anlagen, das Wahlgerät oder herausgenommene Stimmenspeicher
+            sowie die Pakete mit den weiteren Unterlagen Unbefugten nicht
+            zugänglich sind.
+
+        *
+
+
+
+
+
+
+   Zutreffendes ankreuzen.
+[^BJNR024590975BJNE002800311_01]:     Nichtzutreffendes streichen.
+[^BJNR024590975BJNE002800311_02]:     Die Wahl darf nur mit einem anderen Wahlgerät fortgesetzt werden, wenn
     dies ohne nennenswerte Verzögerung und ohne Gefährdung des
     Wahlgeheimnisses möglich ist. In diesem Fall sind die Feststellungen
     aus Abschnitt 2.2 für das Ersatzgerät durchzuführen. Dies ist in
-    Abschnitt 2.8 mit den Worten: "Die Feststellungen nach Abschnitt 2.2
-    wurden wiederholt." zu vermerken.
-
-
-4)  Wird die Wahl nach den allgemeinen Vorschriften mit Stimmzetteln
+    Abschnitt 2.8 mit den Worten: „Die Feststellungen nach Abschnitt 2.2
+    wurden wiederholt.“ zu vermerken.
+[^BJNR024590975BJNE002800311_03]:     Wird die Wahl nach den allgemeinen Vorschriften mit Stimmzetteln
     fortgesetzt, ist ein Wahlgerät gegen jede weitere Stimmabgabe zu
     sperren und die Sperrung zu versiegeln. Die Wahlniederschrift nach
     Anlage 3 wird erst nach Schluß der Wahlhandlung abgeschlossen. Ihre
     Ergebnisse werden in die über die Urnenwahl aufzunehmende
     Wahlniederschrift übernommen. Die Wahlniederschrift nach Satz 2 wird
     der Wahlniederschrift nach Satz 3 beigefügt.
-
-
-5)  Wahlniederschriften und Meldevordrucke sind aufeinander abgestimmt.
+[^BJNR024590975BJNE002800311_04]:     Wahlniederschriften und Meldevordrucke sind aufeinander abgestimmt.
     Die einzelnen Zahlen des Wahlergebnisses sind in die Schnellmeldung
     bei demselben Kennbuchstaben einzutragen, mit dem sie in der
     Wahlniederschrift bezeichnet sind.
+[^BJNR024590975BJNE002800311_05]: [^BJNR024590975BJNE002800311_06]:     Die Zahlenangaben für die Kennbuchstaben zu entnehmen (vgl. auch
+    Abschnitt 2.5).
+
+A 1
 
 
 
--------  -------     -------------
-6) Die Zahlenangaben für die Kennbuchstaben I A 1 I, I A 2 I und I A 1
-+ A 2 I
--------  -------     -------------
+
+,
+
+A 2
+
+
+
+
+und
+
+A 1 + A 2
+
+
+
+
 sind der berichtigten Bescheinigung über den Abschluß des
-Wählerverzeichnisses zu entnehmen (vgl. auch Abschnitt 2.5).
-----------
-7) Summe I C + D  I muß mit der Stimmenzahl in Abschnitt 3.2 d)
-----------
----------
-übereinstimmen. Stimmt die Summe von I C + D I nicht mit der Zahl
----------
-aus Abschnitt 3.2 d) überein, so liegen Unstimmigkeiten vor, die vom
-Wahlvorstand mit der Kontrollvorrichtung des Wahlgerätes (§ 14 Abs. 4
-der
+Wählerverzeichnisses
+
+
+
+[^BJNR024590975BJNE002800311_07]: Summe
+
+C + D
+
+
+
+
+muß mit der Stimmenzahl in Abschnitt 3.2 d) übereinstimmen. Stimmt die
+Summe von
+
+C + D
+
+
+
+
+nicht mit der Zahl aus Abschnitt 3.2 d) überein,
+
+
+so liegen Unstimmigkeiten vor, die vom Wahlvorstand mit der
+Kontrollvorrichtung des Wahlgerätes (§ 14 Abs. 4 der
 Bundeswahlgeräteverordnung) aufzuklären sind.
 
-8)  Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt
-    5\.2 zu streichen.
 
 
-9)  Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf
-    andere Weise kenntlich zu machen. Alte Zahlenangaben nicht löschen
-    oder radieren.
-
-
-
-
+Wenn keine Nachzählung stattgefunden hat, ist der gesamte Abschnitt
+5\.2 zu streichen.
+[^BJNR024590975BJNE002800311_08]: Die berichtigten Zahlen sind in Abschnitt 4 mit anderer Farbe oder auf
+andere Weise kenntlich zu machen. Alte Zahlenangaben nicht löschen
+oder radieren.
+[^BJNR024590975BJNE002800311_09]: 

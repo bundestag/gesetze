@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Übereinkommen vom 17. März 1992 zum Schutz und
   Nutzung grenzüberschreitender Wasserläufe und internationaler Seen
 jurabk: WassLÜbkÄndG
 layout: default
-origslug: wassl_bk_ndg
+origslug: wassluebkaendg
 slug: wassluebkaendg
 
 ---

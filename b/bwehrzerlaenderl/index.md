@@ -3,7 +3,7 @@ Title: Erlaß über die Genehmigung einer Änderung des Erlasses über die Stift
   Ehrenzeichens der Bundeswehr
 jurabk: BwEhrZErlÄndErl
 layout: default
-origslug: bwehrzerl_nderl
+origslug: bwehrzerlaenderl
 slug: bwehrzerlaenderl
 
 ---

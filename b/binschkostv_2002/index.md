@@ -1,6 +1,6 @@
 ---
-Title: Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf dem Gebiet der
-  Binnenschifffahrt
+Title: Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet
+  der Binnenschifffahrt
 jurabk: BinSchKostV 2002
 layout: default
 origslug: binschkostv_2002
@@ -8,7 +8,7 @@ slug: binschkostv_2002
 
 ---
 
-# Kostenverordnung der Wasser- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt (BinSchKostV 2002)
+# Kostenverordnung der Wasserstraßen- und Schifffahrtsverwaltung auf dem Gebiet der Binnenschifffahrt (BinSchKostV 2002)
 
 Ausfertigungsdatum
 :   2001-12-21
@@ -16,8 +16,17 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4218
 
+V aufgeh. durch
+:   Art. 4 Abs. 121 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   § 38 Abs. 1 V v. 16.12.2011; 2012 I 2 (1717)
+:   Art. 1 V v. 10.4.2017 I 833
+
+Änderung durch
+:   Art. 2 § 2 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+V aufgeh. durch
+:   Art. 4 Abs. 128 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -32,77 +41,81 @@ Bundesministerium der Finanzen:
 
 ## § 1 Gebühren und Auslagen
 
-(1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
-erheben für Amtshandlungen auf dem Gebiet der Binnenschifffahrt Kosten
-(Gebühren und Auslagen).
+(1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes erheben für individuell zurechenbare öffentliche Leistungen auf
+dem Gebiet der Binnenschifffahrt Gebühren und Auslagen.
 
 (2) Gebührenpflichtig sind die im Gebührenverzeichnis (Anlage)
-aufgeführten Amtshandlungen. Auslagen werden gesondert erhoben.
+aufgeführten individuell zurechenbaren öffentlichen Leistungen. Die
+Gebührenhöhe zur Berechnung einer Gebühr nach Zeitaufwand beträgt 50
+Euro pro Stunde und beteiligtem Mitglied der
+Schiffsuntersuchungskommission, der Schiffseichung oder der
+Generaldirektion Wasserstraßen und Schifffahrt. Für jede angefangene
+Viertelstunde ist ein Viertel dieses Stundensatzes zu berechnen.
+Auslagen werden gesondert erhoben.
 
-(3) Für die Vergütung nach § 26 Abs. 3 Satz 2 des
-Verwaltungsverfahrensgesetzes, die der Kostenschuldner nach § 10 Abs.
-1 Nr. 5 des Verwaltungskostengesetzes zu erstatten hat, gelten
-Personen, deren Hilfe sich die Behörden der Wasser- und
-Schifffahrtsverwaltung des Bundes bei der Vornahme von Amtshandlungen
-bedienen und die ihr nicht angehören, zum Beispiel Beisitzer eines
-Prüfungsausschusses, als Sachverständige. Dafür können diese Behörden
-mit Sachverständigen, die häufiger herangezogen werden, eine Vergütung
-vereinbaren, deren Höhe die nach dem Justizvergütungs- und
--entschädigungsgesetz zulässige Vergütung nicht überschreiten darf.
+(3) Für die Vergütung nach § 26 Absatz 3 Satz 2 des
+Verwaltungsverfahrensgesetzes, die der Gebührenschuldner nach § 10
+Absatz 1 Nummer 5 des Verwaltungskostengesetzes in der bis zum 14.
+August 2013 geltenden Fassung zu erstatten hat, gelten Personen, deren
+Hilfe sich die Behörden der Wasserstraßen- und Schifffahrtsverwaltung
+des Bundes bei der Vornahme von individuell zurechenbaren öffentlichen
+Leistungen bedienen und die ihr nicht angehören, zum Beispiel
+Beisitzer eines Prüfungsausschusses, als Sachverständige. Dafür können
+diese Behörden mit Sachverständigen, die häufiger herangezogen werden,
+eine Vergütung vereinbaren, deren Höhe die nach dem Justizvergütungs-
+und -entschädigungsgesetz zulässige Vergütung nicht überschreiten
+darf.
 
-(4) Wird eine Amtshandlung auf Antrag des Berechtigten oder aus
-Gründen, die nicht von einer Behörde der Wasser- und
-Schifffahrtsverwaltung des Bundes zu vertreten sind, nicht an dem
-dafür gewöhnlich vorgesehenen Ort oder dem dafür vorgesehenen Termin
-vorgenommen, so hat der Kostenschuldner außer den Auslagen nach Absatz
-2 auch die hierdurch entstehenden sonstigen Mehrkosten zu tragen. Zu
-diesen Mehrkosten gehört auch für jeden an der Amtshandlung
-Beteiligten ein Zuschlag für die tatsächliche Fahrzeit der Hin- und
-Rückfahrt zwischen dem gewöhnlichen und dem tatsächlichen Ort der
-Amtshandlung. Der Zuschlag wird nur erhoben, wenn die Fahrzeit nicht
-bereits nach § 4 des in Absatz 3 Satz 1 genannten Gesetzes
-berücksichtigt werden kann. Er beträgt für die erste angefangene
-Stunde 25 Euro und für jede weitere angefangene halbe Stunde 13 Euro.
+(4) Wird eine individuell zurechenbare öffentliche Leistung auf Antrag
+des Berechtigten oder aus Gründen, die nicht von einer Behörde der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes zu vertreten
+sind, nicht an dem dafür gewöhnlich vorgesehenen Ort oder dem dafür
+vorgesehenen Termin vorgenommen, so hat der Gebührenschuldner außer
+den Auslagen nach Absatz 2 auch die hierdurch entstehenden sonstigen
+Mehrkosten zu tragen. Zu diesen Mehrkosten gehört auch für jeden an
+der individuell zurechenbare öffentliche Leistung Beteiligten ein
+Zuschlag für die tatsächliche Fahrzeit der Hin- und Rückfahrt zwischen
+dem gewöhnlichen und dem tatsächlichen Ort der individuell
+zurechenbaren öffentlichen Leistung. Der Zuschlag wird nur erhoben,
+wenn die Fahrzeit nicht bereits nach § 4 des in Absatz 3 Satz 1
+genannten Gesetzes berücksichtigt werden kann. Er beträgt für die
+erste angefangene Stunde 50 Euro und für jede weitere angefangene
+halbe Stunde 25 Euro.
 
 
 ## § 2 Gebührenfreiheit, Gebührenermäßigung
 
-(1) Wird ein Antrag ausschließlich wegen Unzuständigkeit einer Behörde
-der Wasser- und Schifffahrtsverwaltung des Bundes abgelehnt, so wird
-keine Gebühr erhoben.
-
-(2) Wird ein Antrag auf Vornahme einer Amtshandlung zurückgenommen,
-nachdem mit der sachlichen Bearbeitung begonnen wurde, die
-Amtshandlung aber noch nicht beendet ist, oder wird ein Antrag aus
-anderen Gründen als wegen Unzuständigkeit abgelehnt, oder wird eine
-Amtshandlung zurückgenommen oder widerrufen, so ermäßigt sich die
-vorgesehene Gebühr um ein Viertel; sie kann bis auf ein Viertel der
-vorgesehenen Gebühr ermäßigt oder es kann von ihrer Erhebung abgesehen
-werden, wenn dies der Billigkeit entspricht.
+Wird ein Antrag ausschließlich wegen Unzuständigkeit einer Behörde der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes abgelehnt, so
+wird keine Gebühr erhoben.
 
 
 ## § 3 Zurückbehaltungsrecht an Urkunden
 
-Urkunden, die im Zusammenhang mit kostenpflichtigen Amtshandlungen
-erteilt werden, können bis zur Zahlung der Kosten zurückbehalten oder
-an den Kostenschuldner auf dessen Kosten unter Postnachnahme übersandt
+Urkunden, die im Zusammenhang mit gebührenpflichtigen individuell
+zurechenbaren öffentlichen Leistungen erteilt werden, können bis zur
+Zahlung der Gebühren und Auslagen zurückbehalten oder an den
+Gebührenschuldner auf dessen Kosten unter Postnachnahme übersandt
 werden.
 
 
 ## § 4 Doppelte Gebühr
 
-Erfordert die Amtshandlung ein Tätigwerden der Behörde außerhalb der
-Dienstzeit, so kann die doppelte Gebühr erhoben werden.
+Erfordert die individuell zurechenbare öffentliche Leistung ein
+Tätigwerden der Behörde außerhalb der Dienstzeit, so kann die doppelte
+Gebühr erhoben werden.
 
 
-## § 5 Kostenerhebung von Amts wegen angeordneten Untersuchungen
+## § 5 Gebühren- und Auslagenerhebung bei von Amts wegen angeordneten Untersuchungen
 
-Für eine von einer Behörde der Wasser- und Schifffahrtsverwaltung des
-Bundes von Amts wegen angeordnete Untersuchung eines Wasserfahrzeugs
-werden Kosten nur erhoben, wenn die Schiffsuntersuchungskommission die
-Anordnung als begründet anerkennt. Für eine von Amts wegen angeordnete
-Nachprüfung der Angaben eines von einem Schiffseichamt der
-Bundesrepublik Deutschland ausgestellten Eichscheins werden Kosten nur
+Für eine von einer Behörde der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes von Amts wegen angeordnete
+Untersuchung eines Wasserfahrzeugs werden Gebühren und Auslagen nur
+erhoben, wenn die Schiffsuntersuchungskommission die Anordnung als
+begründet anerkennt. Für eine von Amts wegen angeordnete Nachprüfung
+der Angaben eines von einem Schiffseichamt der Bundesrepublik
+Deutschland ausgestellten Eichscheins werden Gebühren und Auslagen nur
 erhoben, wenn sich die Annahme bestätigt, dass die Angaben nicht mehr
 zutreffen.
 
@@ -111,9 +124,9 @@ zutreffen.
 
 Entstehen der Schiffsuntersuchungskommission Wartezeiten, weil ein
 Wasserfahrzeug nicht zur vereinbarten oder festgesetzten Zeit zur
-Untersuchung bereitsteht, kann dem Kostenschuldner je angefangene
+Untersuchung bereitsteht, kann dem Gebührenschuldner je angefangene
 Wartestunde und je beteiligtem Angehörigen der
-Schiffsuntersuchungskommission ein Zuschlag von 25 Euro auferlegt
+Schiffsuntersuchungskommission ein Zuschlag von 50 Euro auferlegt
 werden. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
 
@@ -121,8 +134,12 @@ werden. Dies gilt für die Eichung von Binnenschiffen entsprechend.
 
 Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
+(zu § 1 Abs. 2)
 
-## Anlage (zu § 1 Abs. 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
+
+(Fundstelle: BGBl. I 2001, 4220 - 4233;
+bzgl. einzelner Änderungen vgl. Fußnote)
 
 
 *    *   Laufende
@@ -138,8 +155,9 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
         Euro
 
 
-*    *   **1. Amtshandlungen im Zusammenhang mit der Ausstellung von
-        Befähigungszeugnissen und Schifferdienstbüchern**
+*    *   **1. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
+        mit der Ausstellung von Befähigungszeugnissen und
+        Schifferdienstbüchern**
 
 
 *    *   101
@@ -158,8 +176,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 *    *   102
 
-    *   Rheinpatente, Schifferpatente, Sport-
-        schifferzeugnis, Feuerlöschbootpatent
+    *   Rheinpatente, Schifferpatente, Sportschifferzeugnis,
+        Feuerlöschbootpatent
 
     *
     *
@@ -196,7 +214,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
     *   Erteilung ohne Prüfung
 
     *   § 21 Satz 1 BinSchPatentV
-        § 7.13. Nr. 4, § 7.22 Nr. 5 RheinSchPersV
+        § 7.13 Nr. 4, § 7.22 Nr. 5 RheinSchPersV
 
     *   1
         2
@@ -386,7 +404,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   Prüfung einschließlich Erteilung
 
-    *   §§ 8, 12 Nr. 1 RheinLotsO
+    *   §§ 8, 12 Nr. 1 Lotsenordnung für den Rhein zwischen Basel und
+        Mannheim/Ludwigshafen
 
     *   4
 
@@ -398,7 +417,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
     *   Erweiterungsprüfung für eine bis drei Strecken einschließlich
         Erteilung
 
-    *   wie 1061
+    *   wie Nr. 1061
 
     *   4
 
@@ -554,7 +573,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   17,50
         Diese Gebühr ist als Vorschusszahlung zu leisten
-        (§ 16 Verwaltungskostengesetz)
+        (§ 15 Absatz 1 des Bundesgebührengesetzes)
 
 
 *    *   1142
@@ -568,7 +587,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   35
         Diese Gebühr ist als Vorschusszahlung zu leisten
-        (§ 16 Verwaltungskostengesetz)
+        (§ 15 Absatz 1 des Bundesgebührengesetzes)
 
 
 *    *   1143
@@ -582,7 +601,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   17,50
         Diese Gebühr ist als Vorschusszahlung zu leisten
-        (§ 16 Verwaltungskostengesetz)
+        (§ 15 Absatz 1 des Bundesgebührengesetzes)
 
 
 *    *   1144
@@ -610,7 +629,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 *    *   115
 
-    *   Amtshandlungen im Zusammenhang mit dem Sicherheitspersonal
+    *   Individuell zurechenbare öffentliche Leistung im Zusammenhang mit dem
+        Sicherheitspersonal
 
     *
     *
@@ -620,9 +640,9 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   Anerkennung eines Basislehrgangs
 
-    *   § 5.08 Nr. 1 RheinSchPersV
+    *   § 5.03 RheinSchPersV
 
-    *   21
+    *   2
 
     *   50
 
@@ -631,20 +651,20 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   Anerkennung eines Auffrischungslehrgangs
 
-    *   § 5.08 Nr. 1 RheinSchPersV
+    *   § 5.04 RheinSchPersV
 
-    *   21
+    *   2
 
     *   50
 
 
 *    *   1153
 
-    *   Aufstellung einer Bescheinigung als Ersthelfer
+    *   Ausstellung einer Bescheinigung als Ersthelfer
 
-    *   § 5.08 Nr. 2, 4 RheinSchPersV
+    *   § 5.08 Nummer 2 RheinSchPersV
 
-    *   21
+    *   2
 
     *   10
 
@@ -653,1317 +673,709 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   Ausstellung einer Bescheinigung als Atemschutzgeräteträger
 
-    *   § 5.08 Nr. 3, 4 RheinSchPersV
+    *   § 5.08 Nummer 3 Satz 1 RheinSchPersV
 
-    *   21
+    *   2
 
     *   10
 
 
-*    *   **2. Amtshandlungen im Zusammenhang mit der Ausstellung von
-        Bescheinigungen über Bau, Ausrüstung, Besatzung und Betrieb der
-        Wasserfahrzeuge**
+*    *   116
+
+    *   Individuell zurechenbare öffentliche Leistung im Zusammenhang mit der
+        Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff
+
+    *
+    *
+    *
+
+*    *   1161
+
+    *   Anerkennung eines Lehrgangs
+
+    *   § 4a.05 RheinSchPersV
+
+    *   2
+
+    *   55
+
+
+*    *   1162
+
+    *   Anerkennung eines Auffrischungslehrgangs
+
+    *   § 4a.05 Satz 2 RheinSchPersV
+
+    *   2
+
+    *   55
+
+
+*    *   1163
+
+    *   Ausstellung einer Sachkundebescheinigung
+
+    *   § 4a.02 i. V. m. § 4a.04 Nummer 2 oder § 9.05 RheinSchPersV
+
+    *   2
+
+    *   15
+
+
+*    *   **2. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
+        mit der Ausstellung von Bescheinigungen über Bau, Ausrüstung,
+        Besatzung und Betrieb der Wasserfahrzeuge**
 
 
 *    *   201
 
-    *   Erste Untersuchung von
+    *   Erst- und wiederkehrende Untersuchung von Fahrzeugen
 
-    *   §§ 9, 10 BinSchUO
-        Anhang II
-        § 2.04 BinSchUO
+    *   §§ 6, 11, 12, 13, 14, 15, 16, 17 BinSchUO
 
     *   7
 
-    *
-
-*    *   20101
-
-    *   Fahrzeugen ohne eigene Triebkraft mit einer Tragfähigkeit
-
-    *
-    *
-    *
-
-*    *   201011
-
-    *   bis 500 t
-
-    *
-    *
-    *   125
-
-
-*    *   201012
-
-    *   über 500 t bis 1 500 t
-
-    *
-    *
-    *   205
-
-
-*    *   201013
-
-    *   über 1 500 t
-
-    *
-    *
-    *   305
-
-
-*    *   20102
-
-    *   Güterschiffen mit eigener Triebkraft
-
-    *
-    *
-    *   Gebühr nach
-        Nummer 20101
-        zuzüglich 65
-
-
-*    *   20103
-
-    *   Tankschiffen nach Art des Fahrzeugs
-
-    *
-    *
-    *   Gebühr nach
-        Nummer 20101 oder 20102 zuzüglich 50
-
-
-*    *   20104
-
-    *   Schleppern, Schubbooten und Barkassen
-
-    *
-    *
-    *
-
-*    *   201041
-
-    *   bis 500 kW
-
-    *
-    *
-    *   170
-
-
-*    *   201042
-
-    *   über 500 kW bis 1 500 kW
-
-    *
-    *
-    *   320
-
-
-*    *   201043
-
-    *   über 1 500 kW
-
-    *
-    *
-    *   425
-
-
-*    *   20105
-
-    *   Motorbooten, Motoryachten und Segelyachten, auch motorisierten, mit
-        einer Wasserverdrängung
-
-    *
-    *
-    *
-
-*    *   201051
-
-    *   bis 60 m³
-
-    *
-    *
-    *   170
-
-
-*    *   201052
-
-    *   über 60 m³
-
-    *
-    *
-    *   320
-
-
-*    *   20106
-
-    *   Fahrgastschiffen
-
-    *
-    *
-    *
-
-*    *   201061
-
-    *   bis 75 Personen
-
-    *
-    *
-    *   170
-
-
-*    *   201062
-
-    *   über 75 bis 400 Personen
-
-    *
-    *
-    *   250
-
-
-*    *   201063
-
-    *   über 400 Personen
-
-    *
-    *
-    *   320
-
-
-*    *   20107
-
-    *   Kabinenschiffen
-
-    *
-    *
-    *
-
-*    *   201071
-
-    *   bis 75 Betten
-
-    *
-    *
-    *   320
-
-
-*    *   201072
-
-    *   über 75 Betten
-
-    *
-    *
-    *   485
-
-
-*    *   20108
-
-    *   schwimmenden Geräten
-
-    *
-    *
-    *
-
-*    *   201081
-
-    *   ohne eigene Maschinenanlagen, nach dem Inhalt des von dem
-        Schwimmkörper eingenommenen Raumes (Länge x Breite x Seitenhöhe)
-
-    *
-    *
-    *   125 zuzüglich
-        0,15 €/m³
-        Rauminhalt
-
-
-*    *   201082
-
-    *   mit eigenen Maschinenanlagen
-
-    *
-    *
-    *   Gebühr nach
-        Nummer 20181
-        zuzüglich 90
-
-
-*    *   20109
-
-    *   Fischereifahrzeugen mit eigener Triebkraft, nach dem Inhalt des von
-        dem Schwimmkörper eingenommenen Raumes (Länge x Breite x Seitenhöhe)
-
-    *
-    *
-    *   105 zuzüglich
-        0,10 €/m³
-        Rauminhalt
-
-
-*    *   2010
-
-    *   Fähren
-
-    *
-    *
-    *
-
-*    *   2011
-
-    *   seilgebundenen Fähren und Nachenfähren je nach Umfang
-
-    *
-    *
-    *   15 bis 155
-
-
-*    *   2012
-
-    *   freifahrenden Personenfähren
-
-    *
-    *
-    *
-
-*    *   20121
-
-    *   bis 75 Personen
-
-    *
-    *
-    *   170
-
-
-*    *   20122
-
-    *   über 75 bis 400 Personen
-
-    *
-    *
-    *   250
-
-
-*    *   20123
-
-    *   über 400 Personen
-
-    *
-    *
-    *   320
-
-
-*    *   2013
-
-    *   freifahrenden Wagenfähren
-
-    *
-    *
-    *
-
-*    *   20131
-
-    *   bis 75 Personen
-
-    *
-    *
-    *   170
-        zuzüglich 2 €/t
-        Tragfähigkeit
-
-
-*    *   20132
-
-    *   über 75 bis 400 Personen
-
-    *
-    *
-    *   250
-        zuzüglich 2 €/t
-        Tragfähigkeit
-
-
-*    *   20133
-
-    *   über 400 Personen
-
-    *
-    *
-    *   320
-        zuzüglich 2 €/t
-        Tragfähigkeit
+    *   nach
+        Zeitaufwand
 
 
 *    *   202
 
-    *   Sonderuntersuchung, Nachuntersuchung, freiwillige Untersuchung,
-        Untersuchung von Amts wegen, angesetzte oder angefangene
-        Untersuchungen, die nicht durchgeführt werden konnten, sowie
-        Untersuchungen nach Mängelbeseitigung
+    *   Sonderuntersuchung, freiwillige Untersuchung, Untersuchung von Amts
+        wegen, angesetzte oder angefangene Untersuchung, die nicht
+        durchgeführt werden konnte, sowie Untersuchungen nach
+        Mängelbeseitigung
 
-    *   §§ 9, 14 BinSchUO
-        Anhang II
-        §§ 2.08, 2.09, 2.10, 2.11, 2.13 BinSchUO
-        Anhang XII
-        Artikel 4 § 2.11 BinSchUO
-        § 4 FäV
+    *   § 5 Absatz 8, §§ 6, 16, 20, 24, 25 BinSchUO
 
     *   7
-        9
 
-    *   je nach dem Umfang der Untersuchung
-        1/5 bis 5/5
-        der Gebühr
-        nach Nummer 201...
+    *   nach
+        Zeitaufwand
 
 
 *    *   203
 
-    *   Gebühr nach Nummer 2031 bis 20362 jeweils je angefangene Stunde und je
-        beteiligtes Mitglied der Schiffsuntersuchungskommission
+    *   Andere Untersuchungen, Prüfungen und Zulassungen von
+        Gleichwertigkeiten und Abweichungen
 
-    *   § 3 Abs. 6 RheinSchPersV, § 3 Abs. 9,
-        § 15 BinSchUO
-        Anhang II
-        § 2.03 Nr. 2, §§ 2.19, 3.02, 6.09 Nr. 1, § 9.01 Nr. 2, § 17.07 Nr. 1,
-        § 22.01 Nr. 1 BinSchUO
+    *   § 3 Absatz 2 Nummer 1, § 10 Nummer 2 und 3, §§ 29, 30, 37 BinSchUO
 
     *   7
 
-    *
-
-*    *   2031
-
-    *   Untersuchung auf Helling (Bodenuntersuchungen)
-
-    *
-    *
-    *   35
+    *   nach
+        Zeitaufwand
 
 
-*    *   2032
+*    *   ES-TRIN
+        Artikel 3.02, Artikel 6.09 Nummer 1, Artikel 10.01 Nummer 2, Artikel
+        22\.07 Nummer 1, Artikel 27.01
 
-    *   Prüfung der Gleichwertigkeit
-
-    *
-    *
-    *   35
-
-
-*    *   2033
-
-    *   Zulassungsprüfung einzelner Bau-, Einrichtungs- und Ausrüstungsteile
-
-    *
-    *
-    *   35
-
-
-*    *   2034
-
-    *   Prüfung von Zeichnungen und E-Plänen
-
-    *
-    *
-    *   35
-
-
-*    *   2035
-
-    *   Prüfung von Festigkeitsberechnungen
-
-    *
-    *
-    *   35
-
-
-*    *   2036
-
-    *   Prüfungen von Berechnungen
-
-    *
-    *
-    *
-
-*    *   20361
-
-    *   der Stabilität des intakten Fahrzeugs und gegebenenfalls der
-        zulässigen Fahrgastzahl
-
-    *
-    *
-    *   35
-
-
-*    *   20362
-
-    *   der Sicherheit im Leckfall
-
-    *
-    *
-    *   35
+    *   8
 
 
 *    *   204
 
-    *   Gebühr nach Nummer 2041 bis 2047
+    *   Probefahrt
 
-    *   § 9 Abs. 1 BinSchUO
-        Anhang II
-        § 2.03 Nr. 2, § 3.04 Nr. 7, §§ 5.02, 6.09 Nr. 2, § 7.01 Nr. 2, § 7.07
-        Nr. 2 oder § 7.13,
-        § 7.09 Nr. 3, § 8.10 Nr. 2 und 3,
-        § 11.12 Nr. 6, § 12.02 Nr. 5, § 15.03 Nr. 1, § 16.06 Nr. 1, § 17. 02
-        Nr. 3, § 17.03 Nr. 1, § 17.06 BinSchUO
+    *   § 10 Nummer 2 und 3 BinSchUO
         Anhang IV
-        §§ 1.03, 3.05 BinSchUO
-        Anhang X
-        § 5.03 Nr. 2, § 9.05 BinSchUO
+        §§ 1.03, 3.05
 
     *   7
 
-    *   je angefangene Stunde und je beteiligtes Mitglied der
-        Schiffsuntersuchungskommission:
+    *   nach
+        Zeitaufwand
 
 
-*    *   2041
+*    *   ES-TRIN
+        Artikel 5.02, 6.09 Nummer 2, Artikel 21.06 Nummer 1
 
-    *   Durchführung von Probefahrten einschließlich Geräuschpegelmessung
-
-    *
-    *
-    *   35
-
-
-*    *   2042
-
-    *   Geräuschpegelmessung ohne Probefahrt
-
-    *
-    *
-    *   35
-
-
-*    *   2043
-
-    *   Überwachung eines Krängungs-
-        versuchs
-
-    *
-    *
-    *   35
-
-
-*    *   2044
-
-    *   Belastungsprobe
-
-    *
-    *
-    *   35
-
-
-*    *   2045
-
-    *   Prüfbelastung
-
-    *
-    *
-    *   35
-
-
-*    *   2046
-
-    *   Prüfung einer Freibordrechnung
-
-    *
-    *
-    *   35
-
-
-*    *   2047
-
-    *   sonstige Probefahrten
-
-    *
-    *
-    *   35
+    *   8
 
 
 *    *   205
 
-    *   Messen der Sicherheitsabstände
+    *   Geräuschpegelmessung
 
-    *   Anhang II
-        §§ 4.01, 4.05, 15.04 Nr. 1, §§ 17.04, 18.04 BinSchUO
-        Anhang III
-        §§ 1.02, 4.01, 5.01, 5.03,
-        7\.03 Nr. 1, § 10.02 BinSchUO
-        Anhang IV
-        § 3.02 BinSchUO
-        Anhang X
-        § 2.02 Nr. 1, § 3.02 Nr. 1,
-        §§ 5.05, 8.06, 9.05 BinSchUO
+    *   § 6 Absatz 1 BinSchUO
+        Anhang II
+        § 5.02 Nummer 2
 
     *   7
 
-    *   5
-        je angefangene
-        10 Minuten und je
-        beteiligtes Mitglied
-        der Schiffsunter-
-        suchungskommission
+    *   nach
+        Zeitaufwand
+
+
+*    *   ES-TRIN
+        Artikel 3.04 Nummer 7, Artikel 7.01 Nummer 2, Artikel 7.09 Nummer 3,
+        Artikel 8.10 Nummer 2 und 3, Artikel 15.02 Nummer 5
+
+    *   8
 
 
 *    *   206
 
-    *   Festsetzung der höchstzulässigen Belastungen und der höchstzulässigen
-        Anzahl der Fahrgäste, wenn keine Stabilitätsberechnungen gefordert
-        oder vorgeschrieben sind
+    *   Überwachung eines Krängungs- oder Belastungsversuches
 
-    *   Anhang X
-        § 9.05 BinSchUO
+    *   § 6 Absatz 1 BinSchUO
+        Anhang II
+        § 2.02 Nummer 9
 
     *   7
 
-    *   1/5 bis 2/5
-        der Gebühr
-        nach Nummer 201...
+    *   nach
+        Zeitaufwand
+
+
+*    *   ES-TRIN
+        Artikel 19.03 Nummer 1
+
+    *   8
 
 
 *    *   207
 
-    *   Festsetzung der Freiborde
+    *   Belastungsprobe
 
-    *   Anhang II
-        §§ 4.02, 4.03, 15.04 Nr. 3, §§ 17.05, 18.04, 22b.05, 24.04 Nr. 1
-        BinSchUO
-        Anhang III
-        §§ 4.02, 7.03 Nr. 2, § 10.03 BinSchUO
-        Anhang IV
-        § 3.03 BinSchUO
-        Anhang X
-        § 2.02 Nr. 1, § 3.02 Nr. 1, §§ 5.05, 8.06, 9.05 BinSchUO
+    *   § 6 Absatz 1 BinSchUO
 
     *   7
 
-    *   15
-        je Freibord
+    *   nach
+        Zeitaufwand
+
+
+*    *   ES-TRIN
+        Artikel 14.12 Nummer 6
+
+    *   8
 
 
 *    *   208
 
-    *   Anbringung oder Erneuerung der
-        Einsenkungsmarken einschließlich der Anbringung des Kennzeichens der
-        Schiffsuntersuchungskommission
+    *   Messen der Sicherheitsabstände
 
-    *   Anhang II
-        § 2.04 Nr. 3, § 4.04 Nr. 2, 5,
-        § 17.09 BinSchUO
-        Anhang X
-        §§ 2.03, 3.03 BinSchUO
-        Anhang XII
-        § 4.04 Nr. 2, 5, 7 BinSchUO
+    *   BinSchUO Anhang II
+        § 2.02 Nummer 1 und 9, § 3.02 Nummer 1, § 5.05
+        Anhang III
+        §§ 1.02, 4.01, 5.01, 5.03, 7.03 Nummer 1, § 10.02
+        Anhang IV
+        § 3.02
 
     *   7
 
-    *   10
-        je Marke und/
-        oder Zahl
+    *   nach
+        Zeitaufwand
 
+
+*    *   ES-TRIN
+        Artikel 4.01, 4.05, 19.04 Nummer 1, Artikel 22.04, 23.04
+
+    *   8
+
+    *
 
 *    *   209
 
-    *   Anbringung der Tiefgangsanzeiger
+    *   Prüfen und Berechnen der Freiborde
 
-    *   Anhang II
-        §§ 4.06, 17.09 BinSchUO
+    *   § 5 Absatz 2 BinSchUO i. V. m.
+        Anhang III
+        § 4.02
+        Anhang IV
+        § 3.03
 
     *   7
 
-    *   20
-        je Paar
+    *   75
+
+
+*    *   ES-TRIN
+        Artikel 4.02
+
+    *   8
 
 
 *    *   210
 
-    *   Befreiungsvermerk
+    *   Festsetzen der Freiborde
 
-    *   Anhang II
-        § 24.04 Nr. 4 BinSchUO
+    *   BinSchUO Anhang II
+        § 2.02 Nummer 1 und 9, § 3.02 Nummer 1, 7 und 10, § 5.05
         Anhang III
-        §§ 11.03, 11.04 Nr. 2
-        BinSchUO
+        §§ 4.02, 7.03 Nummer 2, § 10.03
         Anhang IV
-        §§ 5.03, 5.04 Nr. 2 BinSchUO
-        Anhang X
-        § 4.01 Nr. 2, § 4.02 BinSchUO
-        Anhang XII
-        Artikel 6 §§ 4, 6 Nr. 2
-        BinSchUO
+        § 3.03
 
     *   7
 
-    *   15 bis 75
+    *   155
+
+
+*    *   ES-TRIN
+        Artikel 4.02, 4.03, 19.04 Nummer 2, Artikel 22.05, 23.04, 29.04, 32.04
+        Nummer 2
+
+    *   8
 
 
 *    *   211
 
-    *   Ausstellung einer vorläufigen Fahrtauglichkeitsbescheinigung, jedoch
-        ohne befristete Verlängerung einer Fahrtauglichkeitsbescheinigung nach
-        Nummer 214
+    *   Anbringung oder Erneuerung der Einsenkungsmarken
 
-    *   § 14 BinSchUO
-        Anhang II
-        § 2.05 BinSchUO
+    *   BinSchUO Anhang II
+        §§ 2.03, 3.03
 
     *   7
 
-    *   15
+    *   nach
+        Zeitaufwand
+
+
+*    *   ES-TRIN
+        Artikel 4.04 Nummer 3 und 6, Artikel 22.09
+
+    *   8
 
 
 *    *   212
 
-    *   Fahrtauglichkeitsbescheinigungen wie: Schiffsattest, Zeugnis für
-        Kanalpenichen, Ersatzattest für Seeschiffe, Gemeinschaftszeugnis,
-        Zusätzliches Gemeinschaftszeugnis, Fährzeugnis
+    *   Anbringung der Tiefganganzeiger
 
-    *
-    *
-    *
+    *   ES-TRIN
+        Artikel 4.06, 22.09
 
-*    *   2121
+    *   8
 
-    *   Ausstellung
-
-    *   § 10 Abs. 1 BinSchUO
-        Anhang II
-        §§ 1.03 bis 1.05 BinSchUO
-        Anhang X
-        §§ 1.03, 1.04, 8.17, 9.17
-        BinSchUO
-        Anhang XII
-        Artikel 4 § 1.03 BinSchUO
-
-    *   7
-
-    *   30
-
-
-*    *   2122
-
-    *   Ausfertigung einer Zweitschrift oder Abschrift
-
-    *   Anhang II
-        § 2.14 BinSchUO
-
-    *   7
-
-    *   40
+    *   nach
+        Zeitaufwand
 
 
 *    *   213
 
-    *   Bescheinigung einer Nach- oder Sonderuntersuchung,
-        Bestätigung/Verlängerung der Gültigkeit eines unter Nummer 212
-        angegebenen Schiffspapieres
+    *   Fahrtauglichkeitsbescheinigung
 
-    *   Anhang II
-        §§ 2.08, 2.09 BinSchUO
+    *
+    *
+    *
+
+*    *   2131
+
+    *   Ausstellung einer vorläufigen Fahrtauglichkeitsbescheinigung
+
+    *   § 20 BinSchUO
 
     *   7
 
-    *   20
+    *   28
 
 
-*    *   214
+*    *   2132
 
-    *   Im Ausnahmefall Verlängerung der Gültigkeit eines unter Nummer 211
-        angegebenen Schiffspapieres auf begründeten Antrag ohne vorausgehende
-        Untersuchung
+    *   Prüfen und Erteilen einer Fahrtauglichkeitsbescheinigung
 
-    *   § 13 Abs. 3 BinSchUO
-        Anhang II
-        § 2.09 Nr. 2 BinSchUO
+    *   § 11 BinSchUO
 
     *   7
 
-    *   35
+    *   nach
+        Zeitaufwand
 
 
-*    *   215
+*    *   2133
 
-    *   Flüssiggasanlagen
+    *   Ausfertigung einer Zweitschrift oder Abschrift der
+        Fahrtauglichkeitsbescheinigung
 
-    *   Anhang II
-        § 14.15 Nr. 2 und 3 BinSchUO
-
-    *   7
-
-    *
-
-*    *   2151
-
-    *   Ausstellung oder Erneuerung der Bescheinigung im Schiffsattest
-
-    *
-    *
-    *   10
-
-
-*    *   2152
-
-    *   Verlängerung der Gültigkeit der Bescheinigung oder des Vermerks nach
-        vorausgegangener Abnahme der Flüssiggasanlage
-
-    *
-    *
-    *   10
-
-
-*    *   2153
-
-    *   Im Ausnahmefall Verlängerung der Gültigkeit der Bescheinigung oder des
-        Vermerks auf begründeten Antrag ohne vorausgehende Abnahme der
-        Flüssiggasanlage
-
-    *
-    *
-    *   10
-
-
-*    *   216
-
-    *   Eintragung (auch nachträgliche) von Vermerken oder Ausstellung von
-        Bescheinigungen
-
-    *
-    *
-    *
-
-*    *   2161
-
-    *   je Vermerk
-
-    *
-    *
-    *   10
-
-
-*    *   2162
-
-    *   je Bescheinigung
-
-    *
-    *
-    *   25
-
-
-*    *   217
-
-    *   Zuteilung einer amtlichen Schiffsnummer
-
-    *   Anhang II
-        § 2.18 BinSchUO
-        Anhang XII
-        Artikel 6 § 5 BinSchUO
+    *   § 17 BinSchUO
 
     *   7
 
-    *   25
+    *   28
 
 
-*    *   218
+*    *   2134
 
-    *   Jede Änderung eines unter den Nummern 212 und 213 angegebenen
-        Schiffspapieres
+    *   Bescheinigung einer wiederkehrenden oder einer Sonderuntersuchung
 
-    *   Anhang II
-        § 2. 07 Nr. 1 BinSchUO
+    *   §§ 24, 25 BinSchUO
 
     *   7
 
-    *   Für die erste
-        Änderung 10, zu-
-        züglich 5 für jede
-        weitere Änderung, höchstens 30
+    *   28
 
 
-*    *   219
+*    *   2135
 
-    *   Ausstellung einer Bescheinigung über zugelassene Abweichungen oder
-        Eintragung eines Vermerks über befristet zugelassene technische
-        Neuerungen in ein unter Nummer 212 angegebenes Schiffspapier
+    *   Jede Änderung einer Fahrtauglichkeitsbescheinigung
 
     *   § 15 BinSchUO
-        Anhang II
-        § 2.19 BinSchUO
+        Anhang VI § 1.01
 
     *   7
 
-    *   20 bis 155
+    *   28
 
 
-*    *   220
+*    *   2136
 
-    *   Eintragung von Vermerken auf Grund von vorübergehenden Anordnungen in
-        ein unter Nummer 212 angegebenes Schiffspapier
+    *   Jeder Vermerk über Abweichungen und Zulässigkeiten in der
+        Fahrtauglichkeitsbescheinigung
 
-    *   § 8 BinSchUO
-        Anhang II
-        § 1.06 BinSchUO
-        Anhang XII
-        Artikel 4 § 1.06 BinSchUO
+    *   §§ 7, 29 Absatz 3, §§ 30, 37 Absatz 3 BinSchUO i. V. m.
+        Anhang VI
+        § 1.01
 
     *   7
 
-    *   20 bis 155
+    *   28
 
 
-*    *   221
+*    *   ES-TRIN
+        Artikel 7.04 Nummer 9, Artikel 7.13, 9.02, 15.02 Nummer 5
 
-    *   Ausnahmebewilligung von den
-        Besatzungsvorschriften
-
-    *   Anhang XII
-        § 3.11 BinSchUO
-
-    *   7
-
-    *
-
-*    *   2211
-
-    *   wenn der Schiffsjunge die Schifferberufsschule besucht
-
-    *
-    *
-    *   13
+    *   8
 
 
-*    *   2212
+*    *   2137
 
-    *   in sonstigen Fällen
+    *   Verlängerung der Gültigkeit einer Fahrtauglichkeitsbescheinigung ohne
+        vorausgehende Untersuchung
 
-    *
-    *
-    *   75
-
-
-*    *   222
-
-    *   Ausstellen einer Bescheinigung über die Ausgabe eines Bordbuches
-
-    *   § 3.13 Nr. 4 RheinSchPersV
+    *   § 19 Absatz 5 BinSchUO
 
     *   7
 
-    *   10
+    *   28
 
 
-*    *   223
+*    *   2138
 
-    *   Prüfung der Übereinstimmung der auf der Tafel vermerkten Angaben mit
-        denen des Schiffsattestes und des Zulassungszeugnisses
+    *   Prüfung und Siegelung einer Metalltafel
 
-    *   § 1.10 Nr. 2 BinSchStrO
-        § 1.10 Nr. 2 RheinSchPV
-        § 1.10 Nr. 2 MoselSchPV
-        § 1.10 Nr. 5 Anlage A zur DonauSchPV
-        ADN 8.1.2.6, 8.1.2.7
+    *   § 1.10 Nummer 2 BinSchStrO
+        § 1.10 Nummer 2 RheinSchPV
+        § 1.10 Nummer 2 MoselSchPV
+        § 1.10 Nummer 5 der Anlage A zur DonauSchPV
 
     *   10
         11
         12
         13
-        14
 
-    *   10
+    *   13
+
+
+*    *   2139
+
+    *   Sonstige Bescheinigungen auf Grund von bilateralen oder
+        internationalen Verträgen
+        (z. B.: Ausrüsterbescheinigung, RZU)
+
+    *
+    *
+    *   28
+
+
+*    *   214
+
+    *   Flüssiggasanlage
+
+    *
+    *
+    *
+
+*    *   2141
+
+    *   Ausstellung, Änderung oder Erneuerung der Flüssiggas-Bescheinigung
+
+    *   BinSchUO Anhang II
+        § 7.02 Nummer 5, § 7.03 Nummer 4
+
+    *   7
+
+    *   26
+
+
+*    *   ES-TRIN
+        Artikel 17.15
+
+    *   8
+
+
+*    *   2142
+
+    *   Verlängerung der Gültigkeit ohne eine Flüssiggas-Bescheinigung
+
+    *   BinSchUO Anhang II
+        § 7.02 Nummer 5, § 7.03 Nummer 4
+
+    *   7
+
+    *   28
+
+
+*    *   ES-TRIN
+        Artikel 17.15
+
+    *   8
+
+
+*    *   215
+
+    *   Seil- und Kettenanlagen bei Fähren
+
+    *
+    *
+    *
+
+*    *   2151
+
+    *   Ausstellung, Änderung oder Erneuerung der Bescheinigung für Seil- und
+        Kettenanlagen
+
+    *   BinSchUO
+        Anhang II
+        § 3.07
+
+    *   7
+
+    *   26
+
+
+*    *   2152
+
+    *   Verlängerung der Gültigkeit ohne das Abnahmeprotokoll für Seil- und
+        Kettenanlagen
+
+    *   BinSchUO
+        Anhang II
+        § 3.07
+
+    *   7
+
+    *   28
+
+
+*    *   216
+
+    *   Eintragung (auch nachträgliche) von Vermerken auf Plänen oder
+        Zeichnungen
+
+    *   ES-TRIN
+        Artikel 10.01 Nummer 2, Artikel 19.13 Nummer 3, Artikel 27.01 Nummer 1
+
+    *   8
+
+    *   28
+
+
+*    *   217
+
+    *   Ausstellung oder Änderung des Bordbuches und der dazugehörigen
+        Bescheinigung
+
+    *   § 3.13 Nummer 1
+        RheinSchPersV
+
+    *   2
+
+    *   26
+
+
+*    *   218
+
+    *   Ausstellung oder Änderung des Ölkontrollbuches
+
+    *   Anlage 2 Teil A Kapitel 2 Artikel 2.03 Nummer 1 i. V. m. dem Muster
+        des Anhangs 1 CDNI
+
+    *   21
+
+    *   13
+
+
+*    *   § 15.04 Nummer 1 RheinSchPV
+        § 11.04 Nummer 1 MoselSchPV
+
+    *   11
+        12
+
+
+*    *   219
+
+    *   Verplomben von Einrichtungen, die nicht benutzt werden dürfen,
+        Erneuerungen von Plomben
+
+    *   ES-TRIN
+        Artikel 8.08 Nummer 10
+
+    *   8
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   220
+
+    *   Zuteilung einer einheitlichen europäischen Schiffsnummer
+
+    *   § 27 Absatz 3 BinSchUO
+
+    *   7
+
+    *   28
+
+
+*    *   221
+
+    *   Änderung eines erteilten Kostenbescheides aus Gründen, die der
+        Antragsteller zu vertreten hat
+
+    *   § 10 Absatz 6 BGebG
+
+    *   24
+
+    *   26
+
+
+*    *   222
+
+    *   Teilnahme an Bau- oder Projektbesprechungen
+
+    *   § 1 BGebG
+
+    *   24
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   223
+
+    *   Technische Dienste, Prüfstellen für Motoren, LNG und Bordkläranlagen
+
+    *
+    *
+    *
+
+*    *   2231
+
+    *   Prüfung und Anerkennung Technischer Dienste und Prüfstellen
+
+    *   § 3 BinSchAbgasV
+
+    *   20
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   § 28 BinSchUO i. V. m.
+        Anhang VIII
+        § 1.12 und
+        ES-TRIN
+        Artikel 18.10, 30.07
+
+    *   7
+        8
+
+
+*    *   2232
+
+    *   Verlängerung der Anerkennung Technischer Dienste und Prüfstellen
+
+    *   § 3 BinSchAbgasV
+
+    *   20
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   § 28 BinSchUO i. V. m.
+        ES-TRIN
+        Artikel 18.10
+
+    *   7
+        8
 
 
 *    *   224
 
-    *   Ausstellung des Ölkontrollbuches
+    *   Typgenehmigungen, Prüfungen für Motoren, Bordkläranlagen und LNG
 
-    *   Anlage 2 Teil A Kapitel II Artikel 2.03 Nr. 1 i. V. m. dem Muster des
-        Anhangs 1 CDNI
-        § 15.04 Nr. 1 RheinSchPV
-        § 11.04 Nr. 1 MoselSchPV
+    *
+    *
+    *
 
-    *   21
-        11
-        12
+*    *   2241
 
-    *   10
+    *   Erteilung, Änderung oder Entziehung einer Typgenehmigung
+
+    *   § 3 BinSchAbgasV
+
+    *   20
+
+    *   nach
+        Zeitaufwand
 
 
-*    *   225
-
-    *   Verplomben von Einrichtungen, die nicht benutzt werden dürfen
-
-    *   Anhang II
-        § 8.08 Nr. 10, § 20.01 Nr. 5 BinSchUO
+*    *   § 28 BinSchUO
 
     *   7
 
-    *   30
-        je angefangene Stunde und je beteiligtes Mitglied der
-        Schiffsuntersuchungs-
-        kommission
+
+*    *   ES-TRIN
+        Artikel 9.01, 18.03, 18.04, 18.08, 18.09
+
+    *   8
 
 
-*    *   226
+*    *   2242
 
-    *   Erteilung einer Typgenehmigung
-
-    *   § 3 BinSchAbgasV
-        Anhang II
-        § 8a.04 BinSchUO
-
-    *   20
-        7
-
-    *   1 826 bis 3 072
-
-
-*    *   227
-
-    *   Änderung einer Typgenehmigung
+    *   Prüfung der Konformität der Produktion
 
     *   § 3 BinSchAbgasV
-        Anhang II
-        § 8a.04 BinSchUO
 
     *   20
-        7
 
-    *
+    *   nach
+        Zeitaufwand
 
-*    *   2271
 
-    *   nach einer Prüfung
+*    *   ES-TRIN
+        Artikel 9.01, 18.07
 
-    *
-    *
-    *   165 bis 977
+    *   8
 
 
-*    *   2272
+*    *   2243
 
-    *   für mehrere Genehmigungen gleichzeitig auf Grund desselben
-        Sachverhalts
+    *   Einbau-,Zwischen-,Sonderprüfungen oder Stichprobenmessung
 
-    *
-    *
-    *   175
+    *   ES-TRIN
+        Artikel 9.05, 9.06, 9.07, 9.08, 18.09, 30.02
 
+    *   8
 
-*    *   227a
+    *   nach
+        Zeitaufwand
 
-    *   Entziehung einer Typgenehmigung
 
-    *   § 3 BinSchAbgasV
-        Anhang II
-        §§ 8a.10, 8a.11 BinSchUO
+*    *   2244
 
-    *   20
-        7
+    *   Prüfung der Proben(-nahme)
 
-    *   wie 226
+    *   ES-TRIN
+        Artikel 18.09
 
+    *   8
 
-*    *   228
-
-    *   Prüfung der Konformität der Produktion (Anfangsbewertung)
-
-    *   § 3 BinSchAbgasV
-        Anhang II
-        § 8a.09 BinSchUO
-
-    *   20
-        7
-
-    *
-
-*    *   2281
-
-    *   mit Verwaltungspersonal
-
-    *
-    *
-    *   802
-
-
-*    *   2282
-
-    *   mit technischen Diensten
-
-    *
-    *
-    *   400
-
-
-*    *   229
-
-    *   Prüfung der Übereinstimmung der Produktion mit der erteilten
-        Typgenehmigung, wenn
-
-    *   § 3 BinSchAbgasV
-        Anhang II
-        § 8a.09 BinSchUO
-
-    *   20
-        7
-
-    *
-
-*    *   2291
-
-    *   Verstöße gegen Mitteilungspflichten festgestellt werden
-
-    *
-    *
-    *   200
-
-
-*    *   2292
-
-    *   Abweichungen von Typgenehmigungen festgestellt werden
-
-    *
-    *
-    *   842
-
-
-*    *   2293
-
-    *   regelmäßige Überprüfung der Konformität der Produktion
-
-    *
-    *
-    *   802
-
-
-*    *   230
-
-    *   Prüfung von Abweichungen bei Ein-
-        bau-, Zwischen- oder Sonderprüfungen
-
-    *   Anhang II
-        § 8a.11 BinSchUO
-        Anhang XII
-        Artikel 4 § 8a.05 BinSchUO
-
-    *   7
-
-    *   460 bis 1 190
-
-
-*    *   231
-
-    *   Prüfung und Anerkennung
-
-    *   Anhang II
-        § 8a.11 BinSchUO
-        Anhang XII
-        Artikel 4 § 8a.05 BinSchUO
-
-    *   7
-
-    *
-
-*    *   2311
-
-    *   technischer Dienste
-
-    *
-    *
-    *   1 603
-
-
-*    *   2312
-
-    *   von Prüfstellen
-
-    *
-    *
-    *   401
-
-
-*    *   2313
-
-    *   Verlängerung der Anerkennung
-
-    *   Anhang II
-        § 8a.11 BinSchUO
-        Anhang XII
-        Artikel 4 § 8a.05 BinSchUO
-
-    *   7
-
-    *
-
-*    *   23131
-
-    *   technischer Dienste
-
-    *
-    *
-    *   200
-
-
-*    *   23132
-
-    *   von Prüfstellen
-
-    *
-    *
-    *   100
-
-
-*    *   240
-
-    *   Ausstellung eines Zulassungszeugnisses
-
-    *   ADN 8.1.8.3
-
-    *   14
-
-    *   25
-
-
-*    *   241
-
-    *   Im Ausnahmefall Verlängerung der Gültigkeitsdauer des
-        Zulassungszeugnisses
-
-    *   ADN 8.1.8.3
-
-    *   14
-
-    *   15
-
-
-*    *   242
-
-    *   Einziehung oder Berichtigung des Zulassungszeugnisses
-
-    *   ADN 8.1.8.6, 8.1.8.7, 8.1.8.8
-
-    *   14
-
-    *   25 bis 50
-
-
-*    *   243
-
-    *   Untersagung der Verwendung eines Schiffes
-
-    *   ADN 8.1.8.7
-
-    *   14
-
-    *   25 bis 50
-
-
-*    *   244
-
-    *   Ausstellung eines vorläufigen Zulassungszeugnisses
-
-    *   ADN 8.1.9.1
-
-    *   14
-
-    *   15 bis 100
-
-
-*    *   245
-
-    *   Genehmigung von Instandsetzungen mit elektrischem Strom
-
-    *   ADN 8.3.5
-
-    *   14
-
-    *   15 bis 40
-
-
-*    *   246
-
-    *   Genehmigung zum Befüllen und Entleeren von Behältern (Containern) oder
-        Tankcontainern auf dem Schiff
-
-    *   ADN 7.1.4.16
-
-    *   14
-
-    *   50
-
-
-*    *   247
-
-    *   Besondere Genehmigung zum Umladen der Ladung
-
-    *   ADN 7.1.4.9, 7.2.4.9
-
-    *   14
-
-    *   50 bis 305
-
-
-*    *   248
-
-    *   Genehmigung von Lade- und Löscharbeiten
-
-    *   ADN 7.1.4.8.1
-
-    *   14
-
-    *   25
-
-
-*    *   249
-
-    *   Genehmigung zum Be- und Entladen
-
-    *   Sondervorschrift HA06 gemäß ADN 7.1.6.14 i. V. m. Kap. 3.2 Tabelle A
-        Spalte 11
-
-    *   14
-
-    *   50
-
-
-*    *   250
-
-    *   Genehmigung zum Stillliegen außerhalb der besonderen Liegeplätze
-
-    *   ADN 7.1.5.4.4, 7.2.5.4.4
-
-    *   14
-
-    *   40
-
-
-*    *   251
-
-    *   Eintragung von Gleichwertigkeiten und Abweichungen in das
-        Zulassungszeugnis
-
-    *   ADN 1.5.1.3.3
-
-    *   14
-
-    *   25
-
-
-*    *   252
-
-    *   Zulassung von Gleichwertigkeiten und Abweichungen
-
-    *   ADN 1.5.3.1, 1.5.3.2
-
-    *   14
-
-    *   50 bis 305
+    *   nach
+        Zeitaufwand
 
 
 *    *   **3. Kennzeichnung der Kleinfahrzeuge**
@@ -1972,8 +1384,7 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 *    *   301
 
     *   Zuteilung des amtlichen Kennzeichens einschließlich Ausstellung des
-        Aus-
-        weises
+        Ausweises
 
     *   § 8 Abs. 1 Satz 1, Abs. 2 KlFzKV-BinSch
 
@@ -1984,8 +1395,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 *    *   302
 
-    *   Zuteilung der Wechselkennzeichen einschließlich Ausstellung des Aus-
-        weises
+    *   Zuteilung der Wechselkennzeichen einschließlich Ausstellung des
+        Ausweises
 
     *   § 8 Abs. 1 Satz 2, Abs. 2 KlFzKV-BinSch
 
@@ -2184,8 +1595,8 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
         der Gebühr nach Nummer 4023
 
 
-*    *   **5. Amtshandlungen im Zusammenhang mit dem sonstigen Verhalten im
-        Verkehr**
+*    *   **5. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
+        mit dem sonstigen Verhalten im Verkehr**
 
 
 *    *   501
@@ -2467,422 +1878,234 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
         je Fahrzeug
 
 
-*    *   **6. Amtshandlungen im Zusammenhang mit der Schiffseichung**
+*    *   **6. Individuell zurechenbare öffentliche Leistungen im Zusammenhang
+        mit der Schiffseichung**
 
 
-*    *   6011
+*    *   601
 
-    *   Eichung nach dem Zweiten Abschnitt der Verordnung über die Eichung von
-        Binnenschiffen einschließlich der Ausfertigung des Eichscheins (ohne
-        Tragfähigkeitstabelle), dem Einkörnen oder Einkerben der Eichmarken
-        und Eichzeichen
+    *   Eichung von Schiffen, die zur Güterbeförderung bestimmt sind
 
-    *   §§ 8, 14 bis 21 BinSchEO
+    *   § 6 Absatz 1, §§ 8, 14 bis 21
+        BinSchEO
 
-    *   17
+    *   13
 
-    *
-
-*    *   60111
-
-    *   bis zu 100 t
-        Grundbetrag
-        zuzüglich je Tonne
-
-    *
-    *
-    *   155
-        0,77
-
-
-*    *   60112
-
-    *   über 100 t bis 500 t
-        Grundbetrag
-        zuzüglich für jede weitere Tonne
-        über 100 t
-
-    *
-    *
-    *   235
-        0,56
-
-
-*    *   60113
-
-    *   über 500 t
-        Grundbetrag
-        zuzüglich für jede weitere Tonne
-        über 500 t
-
-    *
-    *
-    *   475
-        0,31
-
-
-*    *   6012
-
-    *   Bei gleichzeitiger Eichung mehrerer in Serie gebauter baugleicher
-        Fahrzeuge wie Schubleichter oder Trägerschiffsleichter
-        für das zweite und weitere Fahrzeuge
-
-    *
-    *
-    *   25 v. H. der
-        Gebühr nach Nr. 60111 bis 6011
-
-
-*    *   6013
-
-    *   Eichung nach dem Dritten Abschnitt der Verordnung über die Eichung von
-        Binnenschiffen bei Anwendung der Simpson-Regel einschließlich
-        Nebenarbeiten nach Nr. 6011
-
-    *   § 26 Abs. 1 Nr. 1 BinSchEO
-
-    *   17
-
-    *   615
-
-
-*    *   6014
-
-    *   Eichung nach dem Dritten Abschnitt der Verordnung über die Eichung von
-        Binnenschiffen bei Anwendung der Formel einschließlich Nebenarbeiten
-        nach Nr. 6011
-
-    *   § 26 Abs. 1 Nr. 2 BinSchEO
-
-    *   17
-
-    *
-
-*    *   60141
-
-    *   bis 100 m
-        3                      Wasserverdrängung
-
-    *
-    *
-    *   155
-
-
-*    *   60142
-
-    *   über 100 m
-        3                      Wasserverdrängung
-
-    *
-    *
-    *   190
-
-
-*    *   6015
-
-    *   Eichung einer Klappschute nach dem Zweiten Abschnitt der Verordnung
-        über die Eichung von Binnenschiffen und Lieferung einer
-        Laderaumtabelle,
-        wobei 1 Kubikmeter gleich 1 Tonne gerechnet wird
-
-    *   §§ 8, 14 bis 21 BinSchEO
-
-    *   17
-
-    *   Gebühr sowohl für Schiffsrumpf als
-        auch für Laderaum nach Nummer 6011
-
-
-*    *   6016
-
-    *   Eichung einer Klappschute nach dem Dritten Abschnitt der Verordnung
-        über die Eichung von Binnenschiffen bei Anwendung der Formel und
-        Lieferung einer Laderaumtabelle, wobei 1 Kubikmeter gleich 1 Tonne
-        gerechnet wird, einschließlich Nebenarbeiten nach Nr. 6011
-
-    *   § 26 Abs. 1 Nr. 2 BinSchEO
-
-    *   17
-
-    *   Gebühr sowohl für Schiffsrumpf nach Nummer 6014,
-        für Laderaum nach Nummer 6011
+    *   nach
+        Zeitaufwand
 
 
 *    *   602
 
-    *   Nachprüfung der Eichung
+    *   Eichung von Schiffen, die nicht zur Güterbeförderung bestimmt sind
 
-    *
-    *
-    *
+    *   § 6 Absatz 2, §§ 8, 24 bis 29 BinSchEO
 
-*    *   6021
+    *   13
 
-    *   auf Verlangen des Antragsberechtigten, wenn sich die Richtigkeit der
-        Eichung herausstellt
-
-    *   § 4 Abs. 2 Nr. 4 BinSchEO
-
-    *   17
-
-    *   Gebühr nach
-        Nummer 601…
-
-
-*    *   6022
-
-    *   von Amts wegen
-
-    *   § 8 Abs. 4 i. V. m. § 9 Abs. 2 BinSchEO
-
-    *   17
-
-    *   3/5 der Gebühr nach Nummer 6011
+    *   nach
+        Zeitaufwand
 
 
 *    *   603
 
-    *   Nacheichung,
+    *   Eichung von Klappschuten
 
-    *
-    *
-    *
+    *   §§ 8, 14 bis 21, § 26 Absatz 1 Nummer 2 BinSchEO
 
-*    *   6031
+    *   13
 
-    *   wenn die Geltungsdauer des Eichscheins abgelaufen ist
-
-    *   § 8 Abs. 3 i. V. m. § 38
-        BinSchEO
-
-    *   17
-
-    *   Gebühr nach
-        Nummer 6011
-
-
-*    *   6032
-
-    *   bei der die Aufstellung einer neuen Arealkurve erforderlich ist,
-        einschließlich Nebenarbeiten nach Nummer 6011
-
-    *   § 38 BinSchEO
-
-    *   17
-
-    *   Gebühr nach
-        Nummer 6011
-
-
-*    *   6033
-
-    *   bei der Ergebnisse früherer Eichungen weitgehend verwendet werden
-        konnten, einschließlich Nebenarbeiten nach Nummer 6011
-
-    *   § 38 Abs. 3 BinSchEO
-
-    *   17
-
-    *   4/5 der Gebühr nach Nummer 6011
+    *   nach
+        Zeitaufwand
 
 
 *    *   604
 
-    *   Angesetzte oder angefangene Eichung, die aus Gründen, die der
-        Antragsteller zu vertreten hat, nicht durchgeführt werden konnte oder
-        unterbrochen werden musste
+    *   Nacheichung einschließlich der Nachprüfung einer Eichung
 
-    *
-    *
-    *   2/5 bis 5/5
-        der Gebühr nach Nummer 6011
+    *   § 4 Absatz 2 Satz 1 Nummer 4, § 26 Absatz 1 Nummer 2, § 8 Absatz 4 i.
+        V. m. § 9 Absatz 2 BinSchEO
+
+    *   13
+
+    *   nach
+        Zeitaufwand
 
 
 *    *   605
 
-    *   Verlängerung der Geltungsdauer eines Eichscheins
+    *   Eichschein
 
-    *   § 9 Abs. 1 BinSchEO
+    *
+    *
+    *
 
-    *   17
+*    *   6051
 
-    *   3/5 der Gebühr nach Nummer 6011
+    *   Ausstellung der vorläufigen Eichbescheinigung
+
+    *   § 12 BinSchEO
+
+    *   13
+
+    *   42
+
+
+*    *   6052
+
+    *   Verlängerung der Geltungsdauer des Eichscheins
+
+    *   § 9 Absatz 1 BinSchEO
+
+    *   13
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   6053
+
+    *   Prüfen und Erteilen eines Eichscheins
+
+    *   § 8 Absatz 1 BinSchEO
+
+    *   13
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   6054
+
+    *   Erstellung der Tragfähigkeitstabelle im Eichschein
+
+    *   § 19 Absatz 10 BinSchEO
+
+    *   13
+
+    *   nach
+        Zeitaufwand
+
+
+*    *   6055
+
+    *   Ausfertigung einer Zweitschrift des Eichscheins
+
+    *   § 8 Absatz 1 BinSchEO
+
+    *   13
+
+    *   28
+
+
+*    *   6056
+
+    *   Befristete Verlängerung der Geltungsdauer eines Eichscheins
+
+    *   § 9 Absatz 5 BinSchEO
+
+    *   13
+
+    *   28
+
+
+*    *   6057
+
+    *   Jede Änderung der Eichbescheinigung
+
+    *   §§ 10, 11 BinSchEO
+
+    *   13
+
+    *   42
+
+
+*    *   6058
+
+    *   Erneuerung der Eichmarken einschließlich Anbringung des Eichzeichens
+        außerhalb der Eichung, Anbringung von Eichskalen, Anbringen des
+        Kennzeichens der Schiffsuntersuchungskommission
+
+    *   § 20 Absatz 1, §§ 21, 22, 28 BinSchEO
+
+    *   13
+
+    *   nach
+        Zeitaufwand
 
 
 *    *   606
 
-    *   Ausfertigung einer Zweitschrift des Eichscheins
+    *   Ausstellung einer Kiellegungsbescheinigung
 
-    *
-    *
-    *   75
+    *   § 69 Absatz 3 SchRegO i. V. m.
+        § 76 Absatz 2 SchRG
+
+    *   22
+        23
+
+    *   nach
+        Zeitaufwand
 
 
 *    *   607
 
-    *   Befristete Verlängerung der Geltungsdauer eines Eichscheins
+    *   Teilnahme an Projekt- und Baubesprechungen
 
-    *   § 9 Abs. 5 BinSchEO
+    *   § 1 BGebG
 
-    *   17
+    *   24
 
-    *   25
+    *   nach
+        Zeitaufwand
 
 
 *    *   608
 
-    *   Eintragung von Berichtigungen
+    *   Änderung eines erteilten Kostenbescheides, aus Gründen, die der
+        Antragsteller zu vertreten hat
 
-    *   § 11 BinSchEO
+    *   § 10 Absatz 6 BGebG
 
-    *   17
+    *   24
 
-    *   50
+    *   26
 
 
 *    *   609
 
-    *   Eintragung einer Änderung des Namens oder der Devise sowie endgültige
-        Eintragung einer Berichtigung nach vorangegangener vorläufiger
-        Eintragung
-
-    *   §§ 10, 11 BinSchEO
-
-    *   17
-
-    *   Für die erste
-        Änderung 18
-        zuzüglich 5 für jede weitere Änderung
-
-
-*    *   610
-
-    *   Ausstellung der vorläufigen
-        Eichbescheinigung für
-
-    *   § 12 BinSchEO
-
-    *   17
-
-    *
-
-*    *   6101
-
-    *   Fahrzeuge, die zur Güterbeförderung bestimmt sind
+    *   Sportboot-Eichverfahren
 
     *
     *
-    *   46
-
-
-*    *   6102
-
-    *   sonstige Fahrzeuge
-
-    *
-    *
-    *   35
-
-
-*    *   611
-
-    *   Erstellung der Tragfähigkeitstabelle im Eichschein (Rubrik 33) für
-        Fahrzeuge
-
-    *   § 19 Abs. 10 BinSchEO
-
-    *   17
-
     *
 
-*    *   6111
+*    *   6091
 
-    *   bis 100 t
-
-    *
-    *
-    *   25
-
-
-*    *   6112
-
-    *   über 100 t bis 500 t
-
-    *
-    *
-    *   50
-
-
-*    *   6113
-
-    *   über 500 t bis 1 000 t
-
-    *
-    *
-    *   85
-
-
-*    *   6114
-
-    *   über 1 000 t
-
-    *
-    *
-    *   100
-
-
-*    *   612
-
-    *   Erneuerung der Eichmarken einschließlich Anbringung des Eichzeichens
-        außerhalb einer Eichung
-
-    *   § 20 Abs. 1,
-        § 28 BinSchEO
-
-    *   17
-
-    *   10
-        je Marke und/oder Zeichen
-
-
-*    *   613
-
-    *   Anbringung von Eichskalen
-
-    *   § 22 BinSchEO
-
-    *   17
-
-    *   18
-        je Skala
-
-
-*    *   614
-
-    *   Sportboot-Eichung nach dem Vierten Abschnitt der Verordnung über die
-        Eichung von Binnenschiffen einschließlich Erteilung der
+    *   Eichung eines Sportbootes einschließlich Erteilung der
         Eichbescheinigung und Anbringung der Eichplakette
 
     *   § 32 BinSchEO
 
-    *   17
+    *   13
 
-    *   135
+    *   nach
+        Zeitaufwand
 
 
-*    *   615
+*    *   6092
 
-    *   Baumuster-Eichung nach dem Vierten Abschnitt der Verordnung über die
-        Eichung von Binnenschiffen
+    *   Baumuster-Eichung
 
     *   § 33 BinSchEO
 
-    *   17
+    *   13
 
-    *   265
+    *   nach
+        Zeitaufwand
 
 
-*    *   616
+*    *   6093
 
     *   Überprüfung von Sportbooten aus einer Serie, für die eine Baumuster-
         Eichung durchgeführt worden ist, einschließlich Erteilung der
@@ -2890,63 +2113,49 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
     *   § 34 BinSchEO
 
-    *   17
+    *   13
 
-    *   60
-
-
-*    *   617
-
-    *   Eichbescheinigung
-
-    *   § 35 Abs. 2 BinSchEO
-
-    *   17
-
-    *
-
-*    *   6171
-
-    *   erneute Ausstellung einschließlich
-        Erneuerung der Eichplakette
-
-    *
-    *
-    *   40
+    *   nach
+        Zeitaufwand
 
 
-*    *   6172
+*    *   6094
 
-    *   Ausfertigung einer Zweitschrift
+    *   Erstellung der Eichbescheinigung einschließlich Erneuerung der
+        Eichplakette
 
-    *
-    *
-    *   10
+    *   § 35 BinSchEO
+
+    *   13
+
+    *   28
 
 
-*    *   618
+*    *   6095
+
+    *   Ausfertigung einer Zweitschrift der Eichbescheinigung
+
+    *   § 35 Absatz 2 BinSchEO
+
+    *   13
+
+    *   26
+
+
+*    *   6096
 
     *   Berechnung bei Anwendung der Simpson-Regel einschließlich Erteilung
-        der Eichbescheinigung und Anbringung der Eichplakette unter Fortfall
-        der Gebühren nach Nummer 614 oder 615
+        der Eichbescheinigung und Anbringung der Eichplakette
 
-    *   § 37 i. V. m. § 26 Abs. 1 Nr. 1 BinSchEO
+    *   § 37 BinSchEO
 
-    *   17
+    *   13
 
-    *   560
-
-
-*    *   619
-
-    *   Ausstellung einer Kiellegungsbescheinigung
-
-    *
-    *
-    *   100
+    *   nach
+        Zeitaufwand
 
 
-*    *   **7. Sonstige Amtshandlungen**
+*    *   **7. Sonstige individuell zurechenbare öffentliche Leistungen**
 
 
 *    *   701
@@ -3003,129 +2212,146 @@ Diese Verordnung tritt am 1. Januar 2002 in Kraft.
 
 
 
-[^F771750_01_BJNR421800001BJNE000906305]:     1
-    Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S.
-    3066), zuletzt geändert durch Artikel 13 der Verordnung vom 16.
-    Dezember 2011 (BGBl. 2011 II S. 1300) – BinSchPatentV
+
+1.  Binnenschifferpatentverordnung vom 15. Dezember 1997 (BGBl. I S.
+    3066), die zuletzt durch Artikel 2 § 4 der Verordnung vom 16. Dezember
+    2016 (BGBl. I S. 2948) geändert worden ist, in der jeweils geltenden
+    und anzuwendenden Fassung – BinSchPatentV
 
 
-    2
-    Schiffspersonalverordnung-Rhein vom 2. Juni 2010 (BGBl. 2011 II S.
-    1300, Anlageband) - RheinSchPersV
+2.  Schiffspersonalverordnung-Rhein vom 16. Dezember 2011 (BGBl. 2011 II
+    S. 1300, Anlageband), die zuletzt durch Artikel 1 Nummer 1 der
+    Verordnung vom 17. Juni 2016 (BGBl. 2016 II S. 698) geändert worden
+    ist, in der jeweils geltenden und anzuwendenden Fassung –
+    RheinSchPersV
 
 
-    3                                                   (ohne Inhalt)
+3.  (ohne Inhalt)
 
 
-    4                                                   Lotsenordnung für
-    den Rhein zwischen Basel und Mannheim/Ludwigshafen, Anlage zu der
-    Verordnung zur Einführung der Lotsenordnung für den Oberrhein in der
-    im Bundesgesetzblatt Teil III, Gliederungsnummer 9503-6,
-    veröffentlichten bereinigten Fassung
+4.  Lotsenordnung für den Rhein zwischen Basel und Mannheim/Ludwigshafen
+    (Anlage 1 zu der Verordnung zur Einführung der Lotsenordnung für den
+    Oberrhein) in der im Bundesgesetzblatt Teil III, Gliederungsnummer
+    9503-7, veröffentlichten bereinigten Fassung, die durch Artikel 2 der
+    Verordnung vom 27. August 1968 (BGBl. 1968 II S. 813) geändert worden
+    ist – RheinLotsO
 
 
-    5                                                   (ohne Inhalt)
+5.  (ohne Inhalt)
 
 
-    6
-    Talsperrenverordnung vom 3. April 2003 (VkBl. 2003 S. 230) – TspV, die
-    zuletzt durch § 38 Absatz 8 der Verordnung vom 16. Dezember 2011
-    (BGBl. 2012 I S. 2) geändert worden ist
+6.  Talsperren-Verordnung vom 15. März 2013 (VkBl. S. 331), die zuletzt
+    durch Artikel 2 § 7 der Verordnung vom 16. Dezember 2016 (BGBl. I S.
+    2948) geändert worden ist, in der jeweils geltenden Fassung – TspV
 
 
-    7
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) - BinSchUO
+7.  Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung – BinSchUO
 
 
-    8                                                   Verordnung zur
-    Einführung der Binnenschiffsuntersuchungsordnung vom 19. Dezember 2008
-    (BGBl. I S. 2868)
+8.  Europäischer Standard der technischen Vorschriften für Binnenschiffe,
+    der vom Europäischen Ausschuss für die Ausarbeitung von Standards im
+    Bereich der Binnenschifffahrt (CESNI) angenommen wurde (Bekanntmachung
+    des Bundesministeriums für Verkehr und digitale Infrastruktur vom 7.
+    März 2018 (BAnz AT 13.03.2018 B4)) – ES-TRIN
 
 
-    9
-    Fährenbetriebsverordnung vom 24. Mai 1995 (BGBl. I S. 752), zuletzt
-    geändert durch Artikel 7 der Verordnung vom 20. Januar 2006 (BGBl. I
-    S. 220) – FäV
+9.  (ohne Inhalt)
 
 
-    10
-    Binnenschifffahrtsstraßen-Ordnung (Anlage zu § 1 Absatz 1 der
+10. Binnenschifffahrtsstraßen-Ordnung (Anlage zu § 1 Absatz 1 der
     Verordnung zur Einführung der Binnenschifffahrtsstraßen-Ordnung vom
-    16\. Dezember 2011 (BGBl. 2012 I S. 2) in der jeweils geltenden und
-    anzuwendenden Fassung – BinSchStrO
+    16\. Dezember 2011) (BGBl. 2012 I S. 2, 1666), die zuletzt durch
+    Artikel 2 § 2 der Verordnung vom 16. Dezember 2016 (BGBl. I S. 2948)
+    geändert worden ist, in der jeweils geltenden und anzuwendenden
+    Fassung – BinSchStrO
 
 
-    11
-    Rheinschifffahrtspolizeiverordnung (Anlage zu Artikel 1 Abs. 1 der
-    Verordnung vom 19. Dezember 1994, BGBl. 1994 II S. 3816), zuletzt
-    geändert durch Beschluss vom 31. Mai 2006 (BGBl. 2007 II S. 874) –
-    RheinSchPV
+11. Rheinschifffahrtspolizeiverordnung (Anlage zu Artikel 1 der Verordnung
+    zur Einführung der Rheinschifffahrtspolizeiverordnung vom 19. Dezember
+    1994 (BGBl. 1994 II S. 3816, Anlageband)), die zuletzt durch Artikel 1
+    Nummer 2 der Verordnung vom 17. Juni 2016 (BGBl. 2016 II S. 698)
+    geändert worden ist, in der jeweils geltenden und anzuwendenden
+    Fassung – RheinSchPV
 
 
-    12
-    Moselschifffahrtspolizeiverordnung (Anlage zu Artikel 1 Abs. 1 der
-    Verordnung vom 3. September 1997, BGBl. 1997 II S. 1670), zuletzt
-    geändert durch Beschluss vom 6. Dezember 2006 (BGBl. 2007 II S. 874) –
+12. Moselschifffahrtspolizeiverordnung (Anlage zu Artikel 1 der Verordnung
+    zur Einführung der Moselschifffahrtspolizeiverordnung vom 3. September
+    1997 (BGBl. 1997 II S. 1670, Anlageband)), die zuletzt durch Artikel 6
+    der Verordnung vom 17. Juni 2016 (BGBl. 2016 II S. 698) geändert
+    worden ist, in der jeweils geltenden und anzuwendenden Fassung –
     MoselSchPV
 
 
-    13                                                   Anlage A zur
-    Donauschifffahrtspolizeiverordnung vom 27. Mai 1993 (BGBl. I S. 741 -
-    Anlageband, 1994 I S. 523, 1995 I S. 95), zuletzt geändert durch
-    Artikel 62 des Gesetzes vom 19. September 2006 (BGBl. I S. 2146) –
-    DonauSchPV
+13. Anlage A zur Donauschifffahrtspolizeiverordnung vom 27. Mai 1993
+    (BGBl. I S. 741, Anlageband; 1994 I S. 523; 1995 I S. 95), die zuletzt
+    durch Artikel 2 § 3 der Verordnung vom 16. Dezember 2016 (BGBl. I S.
+    2948) geändert worden ist, in der jeweils geltenden und anzuwendenden
+    Fassung – DonauSchPV
 
 
-    14                                                   Die dem
-    Europäischen Übereinkommen über die internationale Beförderung von
-    gefährlichen Gütern auf Binnenwasserstraßen (ADN) vom 26. Mai 2000 in
-    der Anlage beigefügte Verordnung (BGBl. 2007 II S. 1906, 1908 –
-    Anlageband), die zuletzt durch Artikel 1 der Verordnung vom 17.
-    Dezember 2010 (BGBl. 2010 II S. 1550) geändert worden ist, in der
-    jeweils geltenden Fassung – ADN
+14. (ohne Inhalt)
 
 
-    15                                                   Verordnung über
-    die Kennzeichnung von auf Binnenschifffahrtsstraßen verkehrenden
-    Kleinfahrzeugen vom 21. Februar 1995 (BGBl. I S. 226), zuletzt
-    geändert durch Artikel 64 des Gesetzes vom 19. September 2006 (BGBl. I
-    S. 2146) – KlFzKV-BinSch
+15. Binnenschifffahrt-Kennzeichnungsverordnung vom 21. Februar 1995 (BGBl.
+    I S. 226), die zuletzt durch Artikel 2 § 1 der Verordnung vom 29.
+    November 2016 (BGBl. I S. 2668) geändert worden ist, in der jeweils
+    geltenden Fassung – KlFzKV-BinSch
 
 
-    16
-    Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000
-    (BGBl. I S. 572), zuletzt geändert durch Artikel 504 der Verordnung
-    vom 31. Oktober 2006 (BGBl. I S. 2407) – BinSch-SportbootVermV
+16. Binnenschifffahrt-Sportbootvermietungsverordnung vom 18. April 2000
+    (BGBl. I S. 572), die zuletzt durch Artikel 2 § 6 der Verordnung vom
+    16\. Dezember 2016 (BGBl. I S. 2948) geändert worden ist, in der
+    jeweils geltenden und anzuwendenden Fassung – BinSch-SportbootVermV
 
 
-    17                                                   Verordnung über
-    die Eichung von Binnenschiffen vom 30. Juni 1975 (BGBl. I S. 1785),
-    zuletzt geändert durch Artikel 67 des Gesetzes vom 19. September 2006
-    (BGBl. I S. 2146) – BinSchEO
+17. Binnenschiffseichordnung vom 30. Juni 1975 (BGBl. I S. 1785), die
+    zuletzt durch Artikel 2 § 1 der Verordnung vom 2. März 2017 (BGBl. I
+    S. 330) geändert worden ist, in der jeweils geltenden Fassung –
+    BinSchEO
 
 
-    18
-    Binnenschiffsgüter-Berufszugangsverordnung vom 30. September 1992
-    (BGBl. I S. 1760), geändert durch die Verordnung vom 30. Oktober 1997
-    (BGBl. I S. 2622) – BinSchZV
+18. Binnenschiffsgüter-Berufszugangsverordnung vom 30. September 1992
+    (BGBl. I S. 1760), die zuletzt durch Artikel 35 der Verordnung vom 2.
+    Juni 2016 (BGBl. I S. 1257) geändert worden ist, in der jeweils
+    geltenden Fassung – BinSchZV
 
 
-    19
-    Binnenschifffahrt-Sprechfunkverordnung vom 18. Dezember 2002 (BGBl. I
-    S. 4569, 2003 I S.130), geändert durch Artikel 10 der Verordnung vom
-    20\. Januar 2006 (BGBl. I S. 220)
+19. Binnenschifffahrt-Sprechfunkverordnung vom 18. Dezember 2002 (BGBl. I
+    S. 4569; 2003 I S. 130), die zuletzt durch Artikel 50 der Verordnung
+    vom 2. Juni 2016 (BGBl. I S. 1257) geändert worden ist, in der jeweils
+    geltenden Fassung – BinSchSprFunkV
 
 
-    20                                                   Binnenschiffs-
-    Abgasemissionsverordnung vom 20. August 2005 (BGBl. I S. 2487) –
-    BinSchAbgasV
+20. Binnenschiffs-Abgasemissionsverordnung vom 20. August 2005 (BGBl. I S.
+    2487), die zuletzt durch Artikel 118 des Gesetzes vom 8. Juli 2016
+    (BGBl. I S. 1594) geändert worden ist, in der jeweils geltenden
+    Fassung – BinSchAbgasV
 
 
-    21                                                   Übereinkommen vom
-    9\. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen
-    in der Rhein- und Binnenschifffahrt (BGBl. 2003 II S. 1799, 1800) –
-    CDNI
+21. Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und
+    Annahme von Abfällen in der Rhein- und Binnenschifffahrt (CDNI) (BGBl.
+    2003 II S. 1799, 1800), das zuletzt durch die Beschlüsse der Konferenz
+    der Vertragsparteien vom 12. Dezember 2013, vom 30. Juni 2015 und vom
+    18\. Dezember 2015 (BGBl. 2016 II S. 1274, 1275, 1291, 1293, 1294,
+    1295) geändert worden ist, in der jeweils geltenden Fassung – CDNI
+
+
+22. Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai
+    1994 (BGBl. I S. 1133), die zuletzt durch Artikel 156 der Verordnung
+    vom 31. August 2015 (BGBl. I S. 1474) geändert worden ist – SchRegO
+
+
+23. Gesetz über Rechte an eingetragenen Schiffen und Schiffsbauwerken in
+    der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-4,
+    veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 des
+    Gesetzes vom 21. Januar 2013 (BGBl. I S. 91) geändert worden ist –
+    SchRG
+
+
+24. Bundesgebührengesetz vom 7. August 2013 (BGBl. I S. 3154), das zuletzt
+    durch Artikel 1 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666)
+    geändert worden ist, in der jeweils geltenden Fassung – BGebG
 
 
 

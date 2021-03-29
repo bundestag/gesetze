@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Köln/Bonn
 jurabk: FluLärmKölnV
 layout: default
-origslug: flul_rmk_lnv
+origslug: flulaermkoelnv
 slug: flulaermkoelnv
 
 ---

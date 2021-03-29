@@ -1,5 +1,5 @@
 ---
-Title: Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik Deutschland
+Title: Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik  Deutschland
   und Rumänien über Soziale Sicherheit
 jurabk: SozSichAbkROMG
 layout: default
@@ -8,7 +8,7 @@ slug: sozsichabkromg
 
 ---
 
-# Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik Deutschland und Rumänien über Soziale Sicherheit (SozSichAbkROMG)
+# Gesetz zu dem Abkommen vom 8. April 2005 zwischen der Bundesrepublik  Deutschland und Rumänien über Soziale Sicherheit (SozSichAbkROMG)
 
 Ausfertigungsdatum
 :   2006-03-06

@@ -2,7 +2,7 @@
 Title: Erstes Gesetz zur Überleitung von Lasten und Deckungsmitteln auf den Bund
 jurabk: ÜblG 1
 layout: default
-origslug: _blg_1
+origslug: ueblg_1
 slug: ueblg_1
 
 ---
@@ -311,7 +311,7 @@ Fürsorgekosten sind die Pflichtleistungen, die im Rahmen der
 Verordnung über die Fürsorgepflicht in der Fassung vom 20. August 1953
 (Bundesgesetzblatt I S. 967), der Reichsgrundsätze über Voraussetzung,
 Art und Maß der öffentlichen Fürsorge in der Fassung vom 20. August
-1953 (Bundesgesetzbl. I S. 967)              und der hierzu ergangenen
+1953 (Bundesgesetzbl. I S. 967) und der hierzu ergangenen
 Ausführungsvorschriften in Verbindung mit den durch die
 Fürsorgerechtsprechung entwickelten Grundsätzen nach den örtlich
 maßgebenden, über Anordnungen des Landes nicht hinausgehenden
@@ -388,14 +388,13 @@ Werden auf Grund landesrechtlicher Bestimmungen, die nach dem 8. Mai
 1945 erlassen sind, an Stelle von Fürsorgeleistungen Leistungen
 gewährt, die nach anderen Grundsätzen als denen
 der Verordnung über die Fürsorgepflicht in der Fassung vom 20. August
-1953 (Bundesgesetzbl. I S. 967)              bemessen, insbesondere
-nicht von der im Einzelfall nachgewiesenen Hilfsbedürftigkeit abhängig
-gemacht worden sind, so übernimmt der Bund nur die Kosten, die bei
-Anwendung der Vorschriften der Fürsorgepflichtverordnung aufzuwenden
-gewesen wären. Das gleiche gilt für Fürsorgeleistungen, die
-Kriegsfolgenhilfe-Empfängern nach anderen Richtsätzen oder Richtlinien
-(§ 8) gewährt werden als den übrigen Empfängern der öffentlichen
-Fürsorge.
+1953 (Bundesgesetzbl. I S. 967) bemessen, insbesondere nicht von der
+im Einzelfall nachgewiesenen Hilfsbedürftigkeit abhängig gemacht
+worden sind, so übernimmt der Bund nur die Kosten, die bei Anwendung
+der Vorschriften der Fürsorgepflichtverordnung aufzuwenden gewesen
+wären. Das gleiche gilt für Fürsorgeleistungen, die Kriegsfolgenhilfe-
+Empfängern nach anderen Richtsätzen oder Richtlinien (§ 8) gewährt
+werden als den übrigen Empfängern der öffentlichen Fürsorge.
 
 
 #### § 13
@@ -421,9 +420,9 @@ Die Bundesregierung wird ermächtigt, mit Zustimmung des Bundesrates
 Sinne
 des § 2 der Verordnung über die Umsiedlung von Heimatvertriebenen aus
 den Ländern Bayern, Niedersachsen und Schleswig-Holstein vom 29.
-November 1949 (Bundesgesetzbl. 1950 S. 4)              und der
-Personen, die durch Gesetz oder durch Rechtsverordnung auf Grund des
-Artikels 119 des Grundgesetzes in die Umsiedlung einbezogen werden.
+November 1949 (Bundesgesetzbl. 1950 S. 4) und der Personen, die durch
+Gesetz oder durch Rechtsverordnung auf Grund des Artikels 119 des
+Grundgesetzes in die Umsiedlung einbezogen werden.
 
 (2) Als Umsiedlung gilt die Umsiedlung von Land zu Land, die
 Umsiedlung zum Zwecke der Familienzusammenführung und die Umsiedlung
@@ -446,7 +445,7 @@ Empfängern. Als Kriegsfolgenhilfe-Empfänger gelten die in § 7 Abs. 2
 genannten Personen auch dann, wenn sie nicht von den Fürsorgeverbänden
 unterstützt werden, aber andere Sozialleistungen erhalten, oder wenn
 sie hilfsbedürftig im Sinne
-der Fürsorgepflichtverordnung (§ 8)              sind.
+der Fürsorgepflichtverordnung (§ 8) sind.
 
 (2) Kosten der Auswanderung sind die Kosten des Transportes vom
 bisherigen Aufenthaltsort bis zum Grenzübertritt oder bis zur
@@ -693,10 +692,10 @@ einem Grundbetrag errechnet. Der Grundbetrag eines Landes ist die
 Summe der in den Monaten Juli 1953 bis Juni 1954 (Bezugszeitraum) in
 seinem Gebiet entstandenen Aufwendungen (Absatz 1). Hierbei werden die
 Aufwendungen für die in § 10 Ziff.
-1,              2,
-3a              und 3c bezeichneten Sachgebiete mit 110 vom Hundert
-angesetzt; zu den Aufwendungen in diesem Sinne gehören auch die
-Aufwendungen für die in § 7 Abs. 2 Ziff. 3 genannten Personen.
+1, 2,
+3a und 3c bezeichneten Sachgebiete mit 110 vom Hundert angesetzt; zu
+den Aufwendungen in diesem Sinne gehören auch die Aufwendungen für die
+in § 7 Abs. 2 Ziff. 3 genannten Personen.
 
 (3) Maßgebend für die Errechnung der Grundbeträge sind
 
@@ -825,8 +824,8 @@ Als Aufwendungen gelten auch Leistungen nach § 12 dieses Gesetzes und
 Lastenausgleichsgesetzes in der Fassung der Bekanntmachung vom 1.
 Oktober 1969 (BGBl. I S. 1909),
 zuletzt geändert durch Artikel 35 des Einführungsgesetzes zur
-Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341),
-für die in § 7 Abs. 2 Ziff. 3 genannten Personen.
+Abgabenordnung vom 14. Dezember 1976 (BGBl. I S. 3341), für die in § 7
+Abs. 2 Ziff. 3 genannten Personen.
 
 (2) Die Pauschbeträge sind in den Haushaltsjahren 1976 bis
 einschließlich 1981 in vierteljährlich im voraus fälligen Teilbeträgen
@@ -871,8 +870,10 @@ IV der Gesetze Nr. 67 und der Verordnung Nr. 223 der
 Militärregierungen von der Gebietskörperschaft Groß-Berlin
 auszustellenden Schuldverschreibungen in voller Höhe.
 
+Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 994)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel IV Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 994) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

@@ -162,8 +162,10 @@ außer Ansatz.
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III
+(BGBl. II 1990, 889, 1098)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1098) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

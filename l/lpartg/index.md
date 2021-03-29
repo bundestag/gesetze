@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 266
 
 Zuletzt geändert durch
-:   Art. 7 G v. 6.7.2009 I 1696
+:   Art. 2 Abs. 1 G v. 20.7.2017 I 2787
 
 
 ## Abschnitt 1 - Begründung der Lebenspartnerschaft
@@ -40,8 +40,9 @@ Lebenspartnerschaft kann in Gegenwart von bis zu zwei Zeugen erfolgen.
 
 (3) Eine Lebenspartnerschaft kann nicht wirksam begründet werden
 
-1.  mit einer Person, die minderjährig oder verheiratet ist oder bereits
-    mit einer anderen Person eine Lebenspartnerschaft führt;
+1.  mit einer Person, die minderjährig oder mit einer dritten Person
+    verheiratet ist oder bereits mit einer anderen Person eine
+    Lebenspartnerschaft führt;
 
 
 2.  zwischen Personen, die in gerader Linie miteinander verwandt sind;
@@ -58,9 +59,9 @@ Lebenspartnerschaft kann in Gegenwart von bis zu zwei Zeugen erfolgen.
 
 
 (4) Aus dem Versprechen, eine Lebenspartnerschaft zu begründen, kann
-nicht auf Begründung der Lebenspartnerschaft geklagt werden. § 1297
-Abs. 2 und die §§ 1298 bis 1302 des Bürgerlichen Gesetzbuchs gelten
-entsprechend.
+kein Antrag auf Begründung der Lebenspartnerschaft gestellt werden. §
+1297 Abs. 2 und die §§ 1298 bis 1302 des Bürgerlichen Gesetzbuchs
+gelten entsprechend.
 
 
 ## Abschnitt 2 - Wirkungen der Lebenspartnerschaft
@@ -95,8 +96,9 @@ Lebenspartnerschaftsname aus mehreren Namen besteht. Besteht der Name
 eines Lebenspartners aus mehreren Namen, so kann nur einer dieser
 Namen hinzugefügt werden. Die Erklärung kann gegenüber dem Standesamt
 widerrufen werden; in diesem Fall ist eine erneute Erklärung nach Satz
-1 nicht zulässig. Die Erklärung und der Widerruf müssen öffentlich
-beglaubigt werden.
+1 nicht zulässig. Die Erklärung, wenn sie nicht bei der Begründung der
+Lebenspartnerschaft gegenüber einem deutschen Standesamt abgegeben
+wird, und der Widerruf müssen öffentlich beglaubigt werden.
 
 (3) Ein Lebenspartner behält den Lebenspartnerschaftsnamen auch nach
 der Beendigung der Lebenspartnerschaft. Er kann durch Erklärung
@@ -181,15 +183,15 @@ ihren Lebenspartnerschaftsnamen erteilen. § 1618 Satz 2 bis 6 des
 Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 (6) Nimmt ein Lebenspartner ein Kind allein an, ist hierfür die
-Einwilligung des anderen Lebenspartners erforderlich. § 1749 Abs. 1
-Satz 2 und 3 sowie Abs. 3 des Bürgerlichen Gesetzbuchs gilt
+Einwilligung des anderen Lebenspartners erforderlich. § 1749 Absatz 1
+Satz 2 und 3 sowie Absatz 2 des Bürgerlichen Gesetzbuchs gilt
 entsprechend.
 
 (7) Ein Lebenspartner kann ein Kind seines Lebenspartners allein
-annehmen. Für diesen Fall gelten § 1743 Satz 1, § 1751 Abs. 2 und 4
-Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, § 1757 Abs.
-2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des Bürgerlichen
-Gesetzbuchs entsprechend.
+annehmen. Für diesen Fall gelten die §§ 1742, 1743 Satz 1, § 1751 Abs.
+2 und 4 Satz 2, § 1754 Abs. 1 und 3, § 1755 Abs. 2, § 1756 Abs. 2, §
+1757 Abs. 2 Satz 1 und § 1772 Abs. 1 Satz 1 Buchstabe c des
+Bürgerlichen Gesetzbuchs entsprechend.
 
 
 ### § 10 Erbrecht
@@ -249,7 +251,8 @@ verlangen. Die Vorschriften des Bürgerlichen Gesetzbuchs über den
 Pflichtteil gelten mit der Maßgabe entsprechend, dass der
 Lebenspartner wie ein Ehegatte zu behandeln ist.
 
-(7) Die Vorschriften des Bürgerlichen Gesetzbuchs über den Erbverzicht
+(7) Die Vorschriften des Bürgerlichen Gesetzbuchs über das Inventar
+für eine zum Gesamtgut gehörende Erbschaft und über den Erbverzicht
 gelten entsprechend.
 
 
@@ -385,8 +388,8 @@ Lebenspartnerschaft auch unter Berücksichtigung der Belange des
 Antragstellers ausnahmsweise geboten erscheint.
 
 (4) Die Aufhebung nach Absatz 2 Satz 2 ist bei einer Bestätigung der
-Lebenspartnerschaft ausgeschlossen; § 1315 Abs. 1 Nr. 3 und 4 und §
-1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.
+Lebenspartnerschaft ausgeschlossen; § 1315 Absatz 1 Satz 1 Nummer 3
+und 4 und § 1317 des Bürgerlichen Gesetzbuchs gelten entsprechend.
 
 (5) Die Lebenspartner leben getrennt, wenn zwischen ihnen keine
 häusliche Gemeinschaft besteht und ein Lebenspartner sie erkennbar
@@ -445,7 +448,21 @@ die Lebenspartner eine Erklärung nach § 21 Abs. 4 nicht abgegeben
 haben.
 
 
-## Abschnitt 5 - Übergangsvorschriften
+## Abschnitt 5 - Umwandlung einer Lebenspartnerschaft in eine Ehe
+
+
+
+### § 20a
+
+Eine Lebenspartnerschaft wird in eine Ehe umgewandelt, wenn zwei
+Lebenspartnerinnen oder Lebenspartner gegenseitig persönlich und bei
+gleichzeitiger Anwesenheit erklären, miteinander eine Ehe auf
+Lebenszeit führen zu wollen. Die Erklärungen können nicht unter einer
+Bedingung oder Zeitbestimmung abgegeben werden.Die Erklärungen werden
+wirksam, wenn sie vor dem Standesbeamten abgegeben werden.
+
+
+## Abschnitt 6 - Übergangsvorschriften
 
 
 
@@ -476,45 +493,24 @@ Lebenspartnerschaft begründet worden ist, in ein gesondertes
 Lebenspartnerschaftsregister einzutragen.
 
 
-## Abschnitt 6 - Länderöffnungsklausel
+## Abschnitt 7 - Länderöffnungsklausel
 
 
 
 ### § 23 Abweichende landesrechtliche Zuständigkeiten
 
-(1) Landesrechtliche Vorschriften, welche am 1. Januar 2009 bestehen
-und abweichend von den Vorschriften der §§ 1, 3 und 9 bestimmen, dass
-die jeweiligen Erklärungen nicht gegenüber dem Standesbeamten, sondern
+Die Länder können abweichend von den §§ 1, 3 und 9 bestimmen, dass die
+jeweiligen Erklärungen nicht gegenüber dem Standesbeamten, sondern
 gegenüber einer anderen Urkundsperson oder einer anderen Behörde
-abzugeben sind, und bestehende Regelungen für die Beurkundung und
-Dokumentation solcher Erklärungen bleiben unberührt. Das
-Personenstandsgesetz findet insoweit keine Anwendung. Durch die
-landesrechtliche Regelung ist sicherzustellen, dass die Beurkundungen
-fortlaufend dokumentiert werden und Mitteilungspflichten, die das
-Personenstandsgesetz voraussetzt, erfüllt werden. Die Abgabe von
-Vorgängen nach Maßgabe von § 22 entfällt.
-
-(2) Die Länder können auch nach dem 31. Dezember 2008 abweichend von
-den Vorschriften der §§ 1, 3 und 9 bestimmen, dass die jeweiligen
-Erklärungen nicht gegenüber dem Standesbeamten, sondern gegenüber
-einer anderen Urkundsperson oder einer anderen Behörde abzugeben sind.
-Das Personenstandsgesetz findet nach Inkrafttreten der
-landesrechtlichen Regelung insoweit keine Anwendung mehr. Durch die
-landesrechtliche Regelung ist jedoch sicherzustellen, dass ein
-Lebenspartnerschaftsregister eingerichtet wird, das gemäß den §§ 16,
-17 des Personenstandsgesetzes fortzuführen ist. Die Länder können auch
-die Zuständigkeit für die Fortführung von Beurkundungen sowie die
-Abgabe von Vorgängen regeln, die bis zum Inkrafttreten der
-landesrechtlichen Regelung angefallen sind.
-
-(3) Die nach den Absätzen 1 und 2 zuständigen Behörden sind
-berechtigt, personenbezogene Daten von Amts wegen an öffentliche
-Stellen des Bundes, der Länder und der Kommunen zu übermitteln, wenn
-die Kenntnis dieser Daten zur Ergänzung und Berichtigung sowie zur
-Fortführung von Unterlagen dieser Stellen im Rahmen ihrer Aufgaben
-erforderlich ist. Soweit nach Absatz 2 das Personenstandsgesetz nach
-Inkrafttreten der landesrechtlichen Regelung insoweit keine Anwendung
-mehr findet, wird das Bundesministerium des Innern ermächtigt, im
-Benehmen mit dem Bundesministerium der Justiz und mit Zustimmung des
-Bundesrates durch Rechtsverordnung das Weitere zu regeln.
+abzugeben sind; bereits bestehende landesrechtliche Regelungen bleiben
+unberührt. Das Personenstandsgesetz ist insoweit anzuwenden, als es
+die Anmeldung und die Begründung der Lebenspartnerschaft regelt (§ 17
+in Verbindung mit den §§ 12 bis 15 des Personenstandsgesetzes). Die
+zuständigen Behörden sind verpflichtet, dem zuständigen Standesamt die
+für die Eintragung in das Lebenspartnerschaftsregister erforderlichen
+Angaben mitzuteilen. Sie sind überdies berechtigt, personenbezogene
+Daten von Amts wegen an öffentliche Stellen des Bundes, der Länder und
+der Kommunen zu übermitteln, wenn die Kenntnis dieser Daten zur
+Ergänzung und Berichtigung sowie zur Fortführung von Unterlagen dieser
+Stellen im Rahmen ihrer Aufgaben erforderlich ist.
 

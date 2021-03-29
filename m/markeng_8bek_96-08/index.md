@@ -91,8 +91,8 @@ in verschiedenen Sprachen
         - portugiesisch -
 
 
-*    *   (nicht darstellbare griechische Buchstaben)
-        (EUROCONTROL) - griechisch -
+*    *   (nicht darstellbare griechische Buchstaben) (EUROCONTROL) - griechisch
+        -
 
 
 *    *   Avrupa Hava Seyrüsefer Güvenligi Teskilati (EUROCONTROL) - türkisch -

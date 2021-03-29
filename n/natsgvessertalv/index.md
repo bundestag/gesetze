@@ -150,9 +150,9 @@ Nutzung zu schützen, zu pflegen und zu entwickeln. Insbesondere sind
 (1) Das Biosphärenreservat wird in die Schutzzonen I, II und III
 gegliedert.
 
-(2) Die **Schutzzone I**              (Kernzone) wird als
-Naturschutzgebiet von zentraler Bedeutung ohne wirtschaftliche Nutzung
-ausgewiesen (Totalreservate). Sie umfaßt folgende Teilflächen:
+(2) Die **Schutzzone I** (Kernzone) wird als Naturschutzgebiet von
+zentraler Bedeutung ohne wirtschaftliche Nutzung ausgewiesen
+(Totalreservate). Sie umfaßt folgende Teilflächen:
 
 1.  Vessertal, Revier 3.15, Schmiedefeld, Abt. 936 a1-a3, 937 b1-b3, c,
     940 b1, 942 a2, b1, c, 943 außer NHB 14, 961 außer NHB 45, 961 a1-a4,
@@ -183,9 +183,9 @@ ausgewiesen (Totalreservate). Sie umfaßt folgende Teilflächen:
 
 
 
-(3) Die **Schutzzone II**              (Entwicklungs- und Pflegezone)
-wird als Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Sie
-umfaßt folgende Teilflächen:
+(3) Die **Schutzzone II** (Entwicklungs- und Pflegezone) wird als
+Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Sie umfaßt
+folgende Teilflächen:
 
 1.  Vessertal, zwischen Vesser und Breitenbach,
 
@@ -260,10 +260,9 @@ umfaßt folgende Teilflächen:
 
 
 
-(4) Die **Schutzzone III**              (Zone der harmonischen
-Kulturlandschaft) wird als Landschaftsschutzgebiet von zentraler
-Bedeutung ausgewiesen. Sie umfaßt die in den Abs. 2 und 3 nicht
-beschriebene Fläche.
+(4) Die **Schutzzone III** (Zone der harmonischen Kulturlandschaft)
+wird als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
+Sie umfaßt die in den Abs. 2 und 3 nicht beschriebene Fläche.
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
@@ -273,18 +272,18 @@ Karten eingetragen.
 
 (1) Im Biosphärenreservat ist es geboten,
 
-1.  in der **Schutzzone I**                    die natürliche Entwicklung
-    der Lebensräume zu gewährleisten,
+1.  in der **Schutzzone I** die natürliche Entwicklung der Lebensräume zu
+    gewährleisten,
 
 
-2.  in der **Schutzzone II**                    die gebietstypische
-    Vielfalt an Lebensgemeinschaften und Pflanzen- und Tierarten durch
-    geeignete Pflege- und Nutzungsmaßnahmen zu erhalten und zu entwickeln,
+2.  in der **Schutzzone II** die gebietstypische Vielfalt an
+    Lebensgemeinschaften und Pflanzen- und Tierarten durch geeignete
+    Pflege- und Nutzungsmaßnahmen zu erhalten und zu entwickeln,
 
 
-3.  in der **Schutzzone III**                    den natur- und
-    nutzungsbedingten Landschaftscharakter zu erhalten und im Sinne des
-    Schutzzwecks (§ 3) zu gestalten.
+3.  in der **Schutzzone III** den natur- und nutzungsbedingten
+    Landschaftscharakter zu erhalten und im Sinne des Schutzzwecks (§ 3)
+    zu gestalten.
 
 
 
@@ -297,54 +296,51 @@ Karten eingetragen.
     vorzunehmen,
 
 
-2.  in die **Schutzzone II**                    den Bau jagdlicher Anlagen
-    dem Schutzzweck (§ 3) unterzuordnen und mit natürlichen Materialien in
+2.  in die **Schutzzone II** den Bau jagdlicher Anlagen dem Schutzzweck (§
+    3) unterzuordnen und mit natürlichen Materialien in
     landschaftsangepaßter Bauweise vorzunehmen,
 
 
-3.  in der **Schutzzone II**                    Tanne und andere
-    Mischbaumarten in den Buchen- und Fichtenbeständen zu fördern,
+3.  in der **Schutzzone II** Tanne und andere Mischbaumarten in den
+    Buchen- und Fichtenbeständen zu fördern,
 
 
-4.  in den **Schutzzonen II und III**                    naturnahe
-    Waldbestände durch geeignete waldbauliche Maßnahmen zu entwickeln,
+4.  in den **Schutzzonen II und III** naturnahe Waldbestände durch
+    geeignete waldbauliche Maßnahmen zu entwickeln,
 
 
-5.  in den **Schutzzonen II und III**                    Biotopenschutz
-    entsprechend § 20c des Bundesnaturschutzgesetzes, erweitert auf
-    Höhlenbäume, Horstbäume von Greifvögeln sowie 100 m - Bereiche um
-    Vermehrungs- und Fortpflanzungsstätten der vom Aussterben bedrohten
-    Großvogelarten durchzuführen,
+5.  in den **Schutzzonen II und III** Biotopenschutz entsprechend § 20c
+    des Bundesnaturschutzgesetzes, erweitert auf Höhlenbäume, Horstbäume
+    von Greifvögeln sowie 100 m - Bereiche um Vermehrungs- und
+    Fortpflanzungsstätten der vom Aussterben bedrohten Großvogelarten
+    durchzuführen,
 
 
-6.  in der **Schutzzone II**                    durch zweischürige Mahd in
-    Verbindung mit teilweiser extensiver Beweidung das Grünland zu
-    erhalten und kleinflächig die historisch bekannte Berieselung der
-    Weiden wieder einzuführen,
+6.  in der **Schutzzone II** durch zweischürige Mahd in Verbindung mit
+    teilweiser extensiver Beweidung das Grünland zu erhalten und
+    kleinflächig die historisch bekannte Berieselung der Weiden wieder
+    einzuführen,
 
 
-7.  in der **Schutzzone III**                    den ökologischen Landbau
-    schrittweise einzuführen,
+7.  in der **Schutzzone III** den ökologischen Landbau schrittweise
+    einzuführen,
 
 
-8.  in den **Schutzzonen II und III**                    die Fließgewässer
-    zu pflegen,
+8.  in den **Schutzzonen II und III** die Fließgewässer zu pflegen,
 
 
-9.  für die **Schutzzonen II und III**                    innerhalb von
-    zwei Jahren einen Pflege- und Entwicklungsplan zu erstellen,
+9.  für die **Schutzzonen II und III** innerhalb von zwei Jahren einen
+    Pflege- und Entwicklungsplan zu erstellen,
 
 
-10. in der **Schutzzone III**                    zur Förderung des sanften
-    Tourismus in dem Pflege- und Entwicklungsplan geeignete Maßnahmen
-    vorzusehen,
+10. in der **Schutzzone III** zur Förderung des sanften Tourismus in dem
+    Pflege- und Entwicklungsplan geeignete Maßnahmen vorzusehen,
 
 
-11. in der **Schutzzone II**                    durch die Bewirtschafter
-    alle Voraussetzungen zu schaffen, daß die mit der Reservatsverwaltung
-    abgestimmten Freilandforschungen und die Nutzung des
-    Biosphärenreservats für Studien- und Demonstrationszwecke
-    gewährleistet ist.
+11. in der **Schutzzone II** durch die Bewirtschafter alle Voraussetzungen
+    zu schaffen, daß die mit der Reservatsverwaltung abgestimmten
+    Freilandforschungen und die Nutzung des Biosphärenreservats für
+    Studien- und Demonstrationszwecke gewährleistet ist.
 
 
 
@@ -352,7 +348,7 @@ Karten eingetragen.
 
 ## § 6 Verbote
 
-(1) In der **Schutzzone III**              ist es verboten,
+(1) In der **Schutzzone III** ist es verboten,
 
 1.  Grünlandflächen umzubrechen, aufzuforsten oder anderweitig
     zweckentfremdet zu nutzen,
@@ -377,8 +373,8 @@ Karten eingetragen.
 
 
 
-(2) Für die **Schutzzone II**              gelten die in Abs. 1
-aufgeführten Verbote. Weiterhin ist es verboten,
+(2) Für die **Schutzzone II** gelten die in Abs. 1 aufgeführten
+Verbote. Weiterhin ist es verboten,
 
 1.  Wege zu verlassen,
 
@@ -430,8 +426,8 @@ aufgeführten Verbote. Weiterhin ist es verboten,
 
 
 
-(3) Für die **Schutzzone I**              gelten die in Abs. 1 und 2
-aufgeführten Verbote. Weiterhin ist es verboten,
+(3) Für die **Schutzzone I** gelten die in Abs. 1 und 2 aufgeführten
+Verbote. Weiterhin ist es verboten,
 
 1.  jegliche wirtschaftlichen Maßnahmen durchzuführen,
 
@@ -471,10 +467,9 @@ aufgeführten Verbote. Weiterhin ist es verboten,
     einschließlich der dazugehörigen Flächen,
 
 
-6.  in der **Schutzzone III**                    Melkstände, Viehtränken,
-    Viehunterstände, ortsübliche Weidezäune, forstliche Kulturzäune,
-    Wildfutterstellen und Jagdsitze sowie baugenehmigungsfreie Vorhaben im
-    Haus- und Hofbereich,
+6.  in der **Schutzzone III** Melkstände, Viehtränken, Viehunterstände,
+    ortsübliche Weidezäune, forstliche Kulturzäune, Wildfutterstellen und
+    Jagdsitze sowie baugenehmigungsfreie Vorhaben im Haus- und Hofbereich,
 
 
 7.  ausschließlich dem Schutzzweck (§ 3) dienende Maßnahmen in den
@@ -572,8 +567,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1475)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

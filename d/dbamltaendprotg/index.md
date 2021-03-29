@@ -4,7 +4,7 @@ Title: Gesetz zu dem Protokoll vom 17. Juni 2010 zur Änderung des Abkommens vom
   auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
 jurabk: DBAMLTÄndProtG
 layout: default
-origslug: dbamlt_ndprotg
+origslug: dbamltaendprotg
 slug: dbamltaendprotg
 
 ---

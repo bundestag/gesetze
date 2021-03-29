@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2262, 2275
 
+Zuletzt geändert durch
+:   Art. 4 G v. 4.5.2017 I 1050
+
 
 ## § 1 Anspruch auf Abschläge
 
@@ -29,10 +32,27 @@ Kosten in Krankheitsfällen, die diese im Rahmen einer Absicherung im
 Krankheitsfall tragen, durch die eine Versicherungspflicht nach § 193
 Absatz 3 Satz 1 des Versicherungsvertragsgesetzes und nach § 5 Absatz
 1 Nummer 13 des Fünften Buches Sozialgesetzbuch ausgeschlossen wird.
-Die Abschläge nach Satz 1 dürfen von den Unternehmen der privaten
-Krankenversicherung ausschließlich zur Vermeidung oder Begrenzung von
-Prämienerhöhungen oder zur Prämienermäßigung bei den
+Zur Ermittlung der Abschläge nach Satz 1 sind Selbst- oder
+Eigenbehalte, die Unternehmen der privaten Krankenversicherung mit den
+Versicherungsnehmern vereinbart haben oder die auf beamtenrechtlichen
+Vorschriften oder anderen Vorschriften beruhen, nicht zu
+berücksichtigen. Die Abschläge nach Satz 1 dürfen von den Unternehmen
+der privaten Krankenversicherung ausschließlich zur Vermeidung oder
+Begrenzung von Prämienerhöhungen oder zur Prämienermäßigung bei den
 Versichertenbeständen verwendet werden.
+
+
+## § 1a Anspruch auf Ausgleich des Differenzbetrags zwischen Erstattungsbetrag und tatsächlichem Abgabepreis
+
+Für Arzneimittel, für die ein Erstattungsbetrag nach § 130b des
+Fünften Buches Sozialgesetzbuch gilt, haben die pharmazeutischen
+Unternehmer den Unternehmen der privaten Krankenversicherung und den
+Trägern der Kosten in Krankheits-, Pflege- und Geburtsfällen nach
+beamtenrechtlichen Vorschriften die Differenz zwischen dem
+Erstattungsbetrag und dem tatsächlichen Abgabepreis nach dem Anteil
+der Kostentragung auszugleichen, sofern der tatsächliche Abgabepreis
+über dem zum Zeitpunkt der Abgabe geltenden Erstattungsbetrag liegt. §
+1 Satz 2 bis 4 sowie die §§ 2, 3, 4 und 5 gelten entsprechend.
 
 
 ## § 2 Nachweis
@@ -64,6 +84,7 @@ Sie können den Vereinbarungen nach Satz 4 beitreten.
 
 Die pharmazeutischen Unternehmer können in begründeten Fällen sowie in
 Stichproben die Abrechnung der Abschläge durch einen Treuhänder
+innerhalb eines Jahres ab Geltendmachung des Anspruchs nach § 1
 überprüfen lassen. Hierfür dürfen an den Treuhänder die für den
 Prüfungszweck erforderlichen personenbezogenen Daten übermittelt
 werden. Zum Nachweis dürfen auch Reproduktionen von digitalisierten

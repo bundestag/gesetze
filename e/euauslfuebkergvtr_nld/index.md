@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der N
   1957 und die Erleichterung seiner Anwendung
 jurabk: EuAuslfÜbkErgVtr NLD
 layout: default
-origslug: euauslf_bkergvtr_nld
+origslug: euauslfuebkergvtr_nld
 slug: euauslfuebkergvtr_nld
 
 ---

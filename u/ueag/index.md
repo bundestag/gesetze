@@ -1,14 +1,15 @@
 ---
 Title: Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung
-  verurteilter Personen
+  verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener
+  Durchführungsübereinkommens
 jurabk: ÜAG
 layout: default
-origslug: _ag
+origslug: ueag
 slug: ueag
 
 ---
 
-# Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen (ÜAG)
+# Gesetz zur Ausführung des Übereinkommens vom 21. März 1983 über die Überstellung verurteilter Personen, des Zusatzprotokolls vom 18. Dezember 1997 und des Schengener Durchführungsübereinkommens (ÜAG)
 
 Ausfertigungsdatum
 :   1991-09-26

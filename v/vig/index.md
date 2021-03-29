@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 17.10.2012 I 2166, 2725
 
+Geändert durch
+:   Art. 2 Abs. 34 G v. 7.8.2013 I 3154
+
 
 ## § 1 Anwendungsbereich
 
@@ -450,23 +453,21 @@ erfolgen, in der die Information zugänglich gemacht wurde.
 
 ## § 7 Gebühren und Auslagen
 
-(1) Für Amtshandlungen der Behörden nach diesem Gesetz werden
-vorbehaltlich des Satzes 2 kostendeckende Gebühren und Auslagen
-erhoben. Der Zugang zu Informationen nach § 2 Absatz 1 Satz 1 Nummer 1
-ist bis zu einem Verwaltungsaufwand von 1 000 Euro kostenfrei, der
-Zugang zu sonstigen Informationen bis zu einem Verwaltungsaufwand von
-250 Euro. Sofern der Antrag nicht kostenfrei bearbeitet wird, ist der
-Antragsteller über die voraussichtliche Höhe der Kosten vorab zu
+(1) Für individuell zurechenbare öffentliche Leistungen der Behörden
+nach diesem Gesetz werden vorbehaltlich des Satzes 2 kostendeckende
+Gebühren und Auslagen erhoben. Der Zugang zu Informationen nach § 2
+Absatz 1 Satz 1 Nummer 1 ist bis zu einem Verwaltungsaufwand von 1 000
+Euro gebühren- und auslagenfrei, der Zugang zu sonstigen Informationen
+bis zu einem Verwaltungsaufwand von 250 Euro. Sofern der Antrag nicht
+gebühren- und auslagenfrei bearbeitet wird, ist der Antragsteller über
+die voraussichtliche Höhe der Gebühren und Auslagen vorab zu
 informieren. Er ist auf die Möglichkeit hinzuweisen, seinen Antrag
 zurücknehmen oder einschränken zu können.
 
-(2) Die nach Absatz 1 kostenpflichtigen Tatbestände werden durch
-Landesrecht bestimmt, soweit die Amtshandlungen nicht durch Behörden
-des Bundes vorgenommen werden.
-
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
+(2) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
 Gebührenhöhe zu bestimmen, soweit dieses Gesetz durch Stellen des
 Bundes ausgeführt wird. § 15 Absatz 2 des Verwaltungskostengesetzes
-findet keine Anwendung.
+vom 23. Juni 1970 (BGBl. I S. 821) in der am 14. August 2013 geltenden
+Fassung findet keine Anwendung.
 

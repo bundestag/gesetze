@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2477
 
 Zuletzt geändert durch
-:   Art. 4 V v. 3.9.2010 I 1261
+:   Art. 7 G v. 29.8.2016 I 2034
 
 
 
@@ -566,8 +566,9 @@ Vornahme betriebsnotwendiger Arbeiten oder zur Vermeidung eines
 drohenden Netzzusammenbruchs erforderlich ist. Der Netzbetreiber hat
 jede Unterbrechung oder Unregelmäßigkeit unverzüglich zu beheben. Eine
 notwendige Unterbrechung wegen eines vom Anschlussnutzer veranlassten
-Austauschs der Messeinrichtung durch einen Dritten nach § 21b des
-Energiewirtschaftsgesetzes hat der Netzbetreiber nicht zu vertreten.
+Austauschs der Messeinrichtung durch einen Messstellenbetreiber nach
+den Vorschriften des Messstellenbetriebsgesetzes hat der Netzbetreiber
+nicht zu vertreten.
 
 (2) Der Netzbetreiber hat die Anschlussnutzer bei einer beabsichtigten
 Unterbrechung der Anschlussnutzung rechtzeitig in geeigneter Weise zu
@@ -767,22 +768,24 @@ der technischen Anforderungen nach § 20 vorzusehen.
 
 (2) Der Netzbetreiber bestimmt den Anbringungsort von Mess- und
 Steuereinrichtungen. Bei der Wahl des Aufstellungsorts ist die
-Möglichkeit einer Fernauslesung der Messdaten zu berücksichtigen.
-Soweit dies technisch machbar und wirtschaftlich zumutbar ist, sind in
-Gebäuden, die neu an das Energieversorgungsnetz angeschlossen oder
-einer größeren Renovierung im Sinne der Richtlinie 2002/91/EG des
-Europäischen Parlaments und des Rates vom 16. Dezember 2002 über die
-Gesamtenergieeffizienz von Gebäuden (ABl. EU Nr. L 1 S. 65) unterzogen
-werden, die baulichen Voraussetzungen für den Einbau von
-Messeinrichtungen zu schaffen, die dem jeweiligen Anschlussnutzer den
-tatsächlichen Energieverbrauch und die tatsächliche Nutzungszeit
-widerspiegeln. Der Netzbetreiber hat den Anschlussnehmer anzuhören und
-dessen berechtigte Interessen zu wahren. Er ist verpflichtet, auf
-Verlangen des Anschlussnehmers einer Verlegung der Mess- und
-Steuereinrichtungen zuzustimmen, wenn dies ohne Beeinträchtigung einer
-einwandfreien Messung möglich ist. Der Anschlussnehmer hat die Kosten
-einer Verlegung der Mess- und Steuereinrichtungen nach Satz 4 zu
-tragen.
+Möglichkeit der Ausstattung mit einem intelligenten Messsystem nach
+dem Messstellenbetriebsgesetz zu berücksichtigen. In Gebäuden, die neu
+an das Energieversorgungsnetz angeschlossen werden, sind die
+Messstellen so anzulegen, dass Smart-Meter-Gateways nach dem
+Messstellenbetriebsgesetz nachträglich einfach eingebaut werden
+können; ausreichend in diesem Sinne ist ein Zählerschrank, der Platz
+für ein Smart-Meter-Gateway bietet. Dies ist auch in Gebäuden
+anzuwenden, die einer größeren Renovierung im Sinne der Richtlinie
+2010/31/EU des Europäischen Parlaments und des Rates vom 19. Mai 2010
+über die Gesamtenergieeffizienz von Gebäuden (ABl. L 153 vom
+18\.6.2010, S. 13) unterzogen werden, soweit dies technisch machbar und
+wirtschaftlich zumutbar ist. Der Netzbetreiber hat den Anschlussnehmer
+anzuhören und dessen berechtigte Interessen bei der Wahl des
+Aufstellungsorts zu wahren. Er ist verpflichtet, den bevorzugten
+Aufstellungsort des Anschlussnehmers zu wählen, wenn dies ohne
+Beeinträchtigung einer einwandfreien Messung möglich ist. Der
+Anschlussnehmer hat die Kosten einer Verlegung der Mess- und
+Steuereinrichtungen nach Satz 5 zu tragen.
 
 (3) Der Anschlussnehmer oder -nutzer hat dafür Sorge zu tragen, dass
 die Mess- und Steuereinrichtungen zugänglich sind. Er hat den Verlust,

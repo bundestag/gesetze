@@ -2,7 +2,7 @@
 Title: Internationales Übereinkommen über Maßnahmen auf Hoher See bei Ölverschmutzungs-Unfällen
 jurabk: ÖlUnfÜbk
 layout: default
-origslug: _lunf_bk
+origslug: oelunfuebk
 slug: oelunfuebk
 
 ---

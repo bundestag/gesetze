@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 14.3.1995 I 297;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 18.12.2008 I 2768
+:   Art. 57 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -251,13 +251,12 @@ ist eine Gesamtbewertung des Vektor-Empfänger-Systems vorzunehmen.
 nach den Absätzen 1 bis 4 ermittelte Gefährdungspotential des
 gentechnisch veränderten Organismus niedriger bewertet werden.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz veröffentlicht regelmäßig nach Anhörung der
-Zentralen Kommission für die Biologische Sicherheit im Bundesanzeiger
-eine Liste mit Legaleinstufungen von Mikroorganismen nach dem
-geltenden EG-Arbeitsschutzrecht sowie von Organismen, die den
-Risikogruppen nach den allgemeinen Kriterien gemäß Absatz 1 Satz 1
-zugeordnet wurden.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft
+veröffentlicht regelmäßig nach Anhörung der Zentralen Kommission für
+die Biologische Sicherheit im Bundesanzeiger eine Liste mit
+Legaleinstufungen von Mikroorganismen nach dem geltenden EG-
+Arbeitsschutzrecht sowie von Organismen, die den Risikogruppen nach
+den allgemeinen Kriterien gemäß Absatz 1 Satz 1 zugeordnet wurden.
 
 
 ### § 6 Biologische Sicherheitsmaßnahmen
@@ -442,7 +441,7 @@ Produktionsbereich sind
 
 
 (3) Gentechnische Arbeiten mit Mikroorganismen und Zellkulturen
-zu Forschungszwecken              sind
+zu Forschungszwecken sind
 
 1.  der Sicherheitsstufe 1 zuzuordnen, wenn sie die folgenden
     Voraussetzungen erfüllen:
@@ -3461,8 +3460,9 @@ IV. Stufe 4
 
 
 
+(zu § 12)
 
-### Anhang VI (zu § 12) Arbeitsmedizinische Präventionsmaßnahmen
+### Anhang VI Arbeitsmedizinische Präventionsmaßnahmen
 
 (Fundstelle des Originaltextes: BGBl. I 2007, 270;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

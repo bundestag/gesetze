@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2005, 2487
 
 Zuletzt geändert durch
-:   Art. 31 G v. 8.11.2011 I 2178
+:   Art. 118 G v. 8.7.2016 I 1594
+
+Änderung durch
+:   Art. 2 § 10 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 
@@ -59,8 +62,8 @@ Binnenschiffe und deren Einbau in Binnenschiffe.
 2.  Binnenwasserstraßen:
 
     a)  Bundeswasserstraßen der Zonen 1 bis 4 nach dem Anhang I der
-        Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-        2450) in der jeweils geltenden Fassung,
+        Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+        1398) in der jeweils geltenden Fassung,
 
 
     b)  Landesgewässer, soweit sie dem allgemeinen Verkehr dienen,
@@ -81,9 +84,9 @@ Binnenschiffe und deren Einbau in Binnenschiffe.
     Dezember 1997 zur Angleichung der Rechtsvorschriften der
     Mitgliedstaaten über Maßnahmen zur Bekämpfung der Emission von
     gasförmigen Schadstoffen und luftverunreinigenden Partikeln aus
-    Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG Nr. L 59
-    S. 1), zuletzt geändert durch die Richtlinie 2004/26/EG vom 21. April
-    2004 (ABl. EU Nr. L 146 S. 1, Nr. L 225 S. 3).
+    Verbrennungsmotoren für mobile Maschinen und Geräte (ABl. EG 1998 Nr.
+    L 59 S. 1), die zuletzt durch die Richtlinie 2012/46/EU (ABl. L 353
+    vom 21.12.2012, S. 80) geändert worden ist.
 
 
 
@@ -128,16 +131,19 @@ in Artikel 9 Abs. 3e der Richtlinie nicht berücksichtigt wird. § 6
 Absatz 1 und 2 des Produktsicherheitsgesetzes vom 8. November 2011
 (BGBl. I S. 2178, 2179) gilt entsprechend.
 
-(2) Ein Motor muss nach Maßgabe der Bestimmungen des Anhang XII
-Artikel 4 Kapitel 8a der Binnenschiffsuntersuchungsordnung vom 6.
-Dezember 2008 (BGBl. I S. 2450) in der jeweils geltenden Fassung
-eingebaut werden.
+(2) Ein Motor muss nach Maßgabe der Bestimmungen des Kapitels 9 des
+Europäischen Standards der technischen Vorschriften für Binnenschiffe
+(ES-TRIN) in der Edition 2017/1, der vom Europäischen Ausschuss für
+die Ausarbeitung von Standards im Bereich der Binnenschifffahrt
+(CESNI) angenommen wurde (Bekanntmachung des Bundesministeriums für
+Verkehr und digitale Infrastruktur vom 7. März 2018 (BAnz AT
+13\.03.2018 B4)), eingebaut werden.
 
 
 ## § 3 Zuständige Behörde und Aufgaben
 
-Die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei
-der Wasser- und Schifffahrtsdirektion Südwest als zuständige Behörde
+Die Generaldirektion Wasserstraßen und Schifffahrt als zuständige
+Behörde
 
 1.  überprüft die Konformität der Produktion und
 
@@ -157,12 +163,4 @@ Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschifffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
 fahrlässig entgegen § 2 Abs. 1 Satz 1 oder 2 einen Motor in den
 Verkehr bringt.
-
-
-## § 5 Übergangsbestimmungen
-
-Motoren dürfen bis zum 30. Juni 2007 in Verkehr gebracht und in ein
-Binnenschiff eingebaut werden, wenn sie nach Maßgabe des § 2 Abs. 1
-typgenehmigt sind, jedoch nur die Emissionsgrenzwerte der Stufe I nach
-Anhang XIV der Richtlinie einhalten.
 

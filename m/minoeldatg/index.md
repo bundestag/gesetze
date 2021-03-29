@@ -2,7 +2,7 @@
 Title: Gesetz über die Erhebung von Meldungen in der Mineralölwirtschaft
 jurabk: MinÖlDatG
 layout: default
-origslug: min_ldatg
+origslug: minoeldatg
 slug: minoeldatg
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 2353
 
 Zuletzt geändert durch
-:   Art. 2 G v. 16.1.2012 I 74
+:   Art. 2 G v. 14.12.2016 I 2874
 
 
 ## § 1 Erhebungszweck, Zuständigkeit
@@ -52,33 +52,31 @@ wirtschaftlicher Unternehmungen
 (2) Der Einfuhr oder Ausfuhr steht das sonstige Verbringen in den oder
 aus dem Geltungsbereich dieses Gesetzes gleich.
 
-(3) Liegt der Einfuhr ein Vertrag mit einem Gebietsfremden über den
-Erwerb des Erdöls oder der Erdölerzeugnisse zum Zwecke der Einfuhr
-(Einfuhrvertrag) zugrunde, so ist nur der gebietsansässige
-Vertragspartner Einführer im Sinne dieses Gesetzes und damit
-meldepflichtig. Wer lediglich als Spediteur oder Frachtführer oder in
-einer ähnlichen Stellung bei der Einfuhr der Waren tätig wird, ist
-nicht Einführer.
+(3) Liegt der Einfuhr ein Vertrag mit einem Ausländer über den Erwerb
+des Erdöls oder der Erdölerzeugnisse zum Zwecke der Einfuhr
+(Einfuhrvertrag) zugrunde, so ist nur der inländische Vertragspartner
+Einführer im Sinne dieses Gesetzes und damit meldepflichtig. Wer
+lediglich als Spediteur oder Frachtführer oder in einer ähnlichen
+Stellung bei der Einfuhr der Waren tätig wird, ist nicht Einführer.
 
-(4) Werden das Erdöl oder die Erdölerzeugnisse von einem
-Gebietsfremden eingeführt, so ist meldepflichtig derjenige mit Sitz im
+(4) Werden das Erdöl oder die Erdölerzeugnisse von einem Ausländer
+eingeführt, so ist meldepflichtig derjenige mit Sitz im
 Geltungsbereich dieses Gesetzes, der das Eigentum an dem Erdöl oder
-den Erdölerzeugnissen von dem Gebietsfremden erwirbt. Ist der
-vorgenannte Erwerber seinerseits nicht gebietsansässig, so ist
-insoweit der letzte gebietsansässige Lagerhalter meldepflichtig, der
-das Erdöl oder die Erdölerzeugnisse in sein Lager aufgenommen hat.
-Läßt ein Gebietsfremder die Erdölerzeugnisse für eigene Rechnung
-herstellen, so ist meldepflichtig derjenige, der sie für ihn im
-Geltungsbereich dieses Gesetzes herstellt. Meldepflichtig sind auch
-Gebietsfremde, denen durch einen ausländischen Staat eine
-Bevorratungspflicht für Erdöl oder Erdölerzeugnisse auferlegt ist,
-wenn sie die Voraussetzungen des Absatzes 1 Satz 1 Nummer 1 oder 2
-erfüllen oder Bestände an Erdöl oder Erdölerzeugnissen im
-Geltungsbereich dieses Gesetzes halten. Hält ein gebietsfremder
-Vorratspflichtiger im Sinne des Satzes 4 Bestände an Erdöl oder
-Erdölerzeugnissen im Geltungsbereich dieses Gesetzes, kann das
-Bundesamt für Wirtschaft und Ausfuhrkontrolle auch denjenigen, der von
-dem Gebietsfremden mit der Lagerung seiner Bestände beauftragt worden
+den Erdölerzeugnissen von dem Ausländer erwirbt. Ist der vorgenannte
+Erwerber seinerseits nicht Inländer, so ist insoweit der letzte
+inländische Lagerhalter meldepflichtig, der das Erdöl oder die
+Erdölerzeugnisse in sein Lager aufgenommen hat. Läßt ein Ausländer die
+Erdölerzeugnisse für eigene Rechnung herstellen, so ist meldepflichtig
+derjenige, der sie für ihn im Geltungsbereich dieses Gesetzes
+herstellt. Meldepflichtig sind auch Ausländer, denen durch einen
+ausländischen Staat eine Bevorratungspflicht für Erdöl oder
+Erdölerzeugnisse auferlegt ist, wenn sie die Voraussetzungen des
+Absatzes 1 Satz 1 Nummer 1 oder 2 erfüllen oder Bestände an Erdöl oder
+Erdölerzeugnissen im Geltungsbereich dieses Gesetzes halten. Hält ein
+ausländischer Vorratspflichtiger im Sinne des Satzes 4 Bestände an
+Erdöl oder Erdölerzeugnissen im Geltungsbereich dieses Gesetzes, kann
+das Bundesamt für Wirtschaft und Ausfuhrkontrolle auch denjenigen, der
+von dem Ausländer mit der Lagerung seiner Bestände beauftragt worden
 ist, zur Abgabe von Meldungen verpflichten.
 
 
@@ -156,7 +154,7 @@ gewähren.
 
 ## § 4 Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung die Meldepflichten nach § 3 Abs. 1 zu ändern
 oder auszuweiten, soweit es zur zeitnahen Erfassung von Erdöl und
 Erdölerzeugnissen nach Art und Menge für die in § 1 bestimmten Zwecke
@@ -167,17 +165,36 @@ erforderlich ist.
 
 (1) Die von den Meldepflichtigen erhobenen Einzelangaben sind
 geheimzuhalten. Sie dürfen nur zu den in diesem Gesetz bestimmten
-Zwecken verwendet werden.
+Zwecken verwendet werden, soweit in dieser Vorschrift nichts anderes
+bestimmt ist.
 
 (2) Einzelangaben können an das Bundesministerium für Wirtschaft und
-Technologie, das Bundesministerium der Finanzen, das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung, das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz, das Bundesministerium
-für Umwelt, Naturschutz und Reaktorsicherheit, die für die gewerbliche
+Energie, das Bundesministerium der Finanzen, das Bundesministerium für
+Verkehr und digitale Infrastruktur, das Bundesministerium für
+Ernährung und Landwirtschaft, das Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit, die für die gewerbliche
 Wirtschaft zuständigen obersten Landesbehörden, die Dienststellen der
 Europäischen Union und die Internationale Energie-Agentur
 weitergeleitet werden, soweit dies zur Erfüllung dieses Gesetzes
 erforderlich ist.
+
+(3) In § 3 Absatz 1 genannte Daten sind zum Zwecke der Energie- und
+Treibhausgasbilanzierung auf Antrag an das jeweilige statistische
+Landesamt für dessen Erhebungsbereich und nach Kalenderjahren
+zusammengefasst zu übermitteln, sofern
+
+1.  die Daten einem Bundesland zuordenbar sind und
+
+
+2.  die zusammengefassten Angaben keinen Rückschluss auf Einzelangaben
+    erlauben.
+
+
+
+Einzelangaben dürfen an das jeweilige statistische Landesamt zu den in
+Satz 1 genannten Zwecken nur übermittelt werden, sofern die
+Einzelangaben dort einem gesetzlichen Geheimhaltungsschutz
+unterliegen, der § 16 des Bundesstatistikgesetzes entspricht.
 
 
 ## § 6 Bußgeldvorschrift

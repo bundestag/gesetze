@@ -2,7 +2,7 @@
 Title: Gesetz zur Überleitung der sozialen Wohnraumförderung auf die Länder
 jurabk: WoFÜG
 layout: default
-origslug: wof_g
+origslug: wofueg
 slug: wofueg
 
 ---

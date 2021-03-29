@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 1643
 
+Geändert durch
+:   Art. 28 V v. 31.8.2015 I 1474
+
 
 
 ## Art 1
@@ -32,10 +35,10 @@ unmittelbar anzuwenden sind.
 
 ## Art 2
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung die nach Maßgabe des Artikels 20 des Übereinkommens
-beschlossenen Änderungen der Haftungshöchstbeträge und der
-Rechnungseinheit in Kraft zu setzen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung die nach Maßgabe des Artikels 20
+des Übereinkommens beschlossenen Änderungen der Haftungshöchstbeträge
+und der Rechnungseinheit in Kraft zu setzen.
 
 
 ## Art 3

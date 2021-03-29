@@ -225,8 +225,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 2 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 2) Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+## Anlage 1 Der Prüfung gemäß Abschnitt 2 der Hufbeschlagverordnung (Hufbeschlagschmied/Hufbeschlagschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 
 (Fundstelle: BGBl. I 2009, 488 - 489)
 
@@ -259,7 +260,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Beslagsmed
+        **Berufsbezeichnung** Beslagsmed
 
 
 *    *   Finnland
@@ -270,8 +271,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Kengityssepan
-        ammattitutkinto
+        **Berufsbezeichnung** Kengityssepan ammattitutkinto
 
 
 *    *   Frankreich
@@ -287,7 +287,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Maréchal-Ferrant
+        **Berufsbezeichnung** Maréchal-Ferrant
 
 
 *    *   Großbritannien und Nordirland
@@ -308,7 +308,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Farrier
+        **Berufsbezeichnung** Farrier
 
 
 *    *   Republik Irland
@@ -320,7 +320,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Farrier
+        **Berufsbezeichnung** Farrier
 
 
 *    *   Niederlande
@@ -349,8 +349,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Hoefsmid oder
-        Hofsmidspezialist
+        **Berufsbezeichnung** Hoefsmid oder Hofsmidspezialist
 
 
 *    *   Österreich
@@ -368,8 +367,8 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Staatlich geprüfter
-        Hufbeschlagschmied/Staatlich geprüfte Hufbeschlagschmiedin
+        **Berufsbezeichnung** Staatlich geprüfter Hufbeschlagschmied/Staatlich
+        geprüfte Hufbeschlagschmiedin
 
 
 *    *   Schweden
@@ -380,7 +379,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Hovslagar
+        **Berufsbezeichnung** Hovslagar
 
 
 *    *   Schweiz
@@ -399,8 +398,7 @@ Der Bundesrat hat zugestimmt.
 
         Gesetzliche Regelung: SR 412.10(d) / 412.101 (f) / 412.111 (i) (SR =
         systematische Rechtssammlung)
-        **ab 2013**                        auch Eidgenössisches
-        Fähigkeitszeugnis (EFZ/CFC/AFC)
+        **ab 2013** auch Eidgenössisches Fähigkeitszeugnis (EFZ/CFC/AFC)
         mit der Abschlussbezeichnung:
 
         •   Hufschmiedin/Hufschmied
@@ -420,13 +418,11 @@ Der Bundesrat hat zugestimmt.
 *    *   Tschechische
         Republik
 
-    *   Staatliches Zeugnis (Vysv*                       d*
-        ení o záv*                       re*                       né zkoušce)
-        und Lehrbrief (Vyu*                       ní list) mit dem Abschluss
-        Ková*                        a Podková*                        sowie
-        eine Bescheinigung (osvedceni) auf Vordruck SEVT 49 3420 über die
+    *   Staatliches Zeugnis (Vysv*d*ení o záv*re*né zkoušce) und Lehrbrief
+        (Vyu*ní list) mit dem Abschluss Ková* a Podková* sowie eine
+        Bescheinigung (osvedceni) auf Vordruck SEVT 49 3420 über die
         Fortbildung zum Podková*
-        **Berufsbezeichnung**                        Podková*
+        **Berufsbezeichnung** Podková*
 
 
 *    *   Ungarn
@@ -437,13 +433,14 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Patkolókovács
+        **Berufsbezeichnung** Patkolókovács
 
 
 
 
+(zu § 2 Absatz 3)
 
-## Anlage 2 (zu § 2 Absatz 3) Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
+## Anlage 2 Der Prüfung gemäß Abschnitt 3 der Hufbeschlagverordnung (Hufbeschlaglehrschmied/Hufbeschlaglehrschmiedin) gleichgestellte außerhalb des Anwendungsbereichs des Hufbeschlaggesetzes sowie im Ausland erworbene Prüfungszeugnisse
 
 (Fundstelle: BGBl. I 2009, 490)
 
@@ -462,8 +459,7 @@ Der Bundesrat hat zugestimmt.
 
 
 
-        **Berufsbezeichnung**                        Fellowship of the
-        Worshipful Company of Farriers
+        **Berufsbezeichnung** Fellowship of the Worshipful Company of Farriers
 
 
 *    *   Niederlande

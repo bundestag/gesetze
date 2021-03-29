@@ -82,8 +82,7 @@ Gesellschaften anzuwenden, wenn
     über die Kapitalerhöhung aus Gesellschaftsmitteln und über die Gewinn-
     und Verlustrechnung vom 23. Dezember 1959 (Bundesgesetzbl. I S. 789),
     zuletzt geändert durch das Einführungsgesetz zum Strafgesetzbuch vom
-    2\. März 1974 (Bundesgesetzbl. I S. 469),
-    entsprechen und
+    2\. März 1974 (Bundesgesetzbl. I S. 469), entsprechen und
 
 
 3.  die neuen Anteilsrechte wirtschaftlich den Anteilsrechten entsprechen,

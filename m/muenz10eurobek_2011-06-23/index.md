@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „500 Jahre Till Eulenspiegel“)
 jurabk: Münz10EuroBek 2011-06-23
 layout: default
-origslug: m_nz10eurobek_2011-06-23
+origslug: muenz10eurobek_2011-06-23
 slug: muenz10eurobek_2011-06-23
 
 ---

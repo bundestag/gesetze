@@ -15,9 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3955, 3956
 
-Stand: Das G tritt gem. § 20 mit Ablauf des 31.12.2019 außer Kraft
 Zuletzt geändert durch
-:   Art. 3 G v. 29.6.2012 I 1424
+:   Art. 2 G v. 14.8.2017 I 3122
+
+Das g tritt gem. § 20 mit ablauf des 31.12.2019 außer kraft; § 20 aufgeh. durch
+:   Art. 2 Nr. 21 G v. 14.8.2017 I 3122 mWv 1.1.2020
 
 
 ## Erster Abschnitt - Steuerverteilung zwischen Bund und Ländern sowie unter den Ländern
@@ -39,50 +41,109 @@ Bundeszuschusses an die Rentenversicherung der Arbeiter und
 Angestellten zu; bei einer Steuersatzerhöhung oder Steuersatzsenkung
 wird im Jahr ihres Wirksamwerdens der Vomhundertsatz in entsprechendem
 Umfang verringert oder erhöht. Vom verbleibenden Aufkommen der
-Umsatzsteuer stehen den Gemeinden ab 1998 2,2 vom Hundert zu. Vom
-danach verbleibenden Aufkommen der Umsatzsteuer stehen dem Bund 50,5
-vom Hundert zuzüglich des in Satz 5 genannten Betrages und den Ländern
-49,5 vom Hundert abzüglich des in Satz 5 genannten Betrages zu. Der in
-Satz 4 genannte Betrag beläuft sich auf:
+Umsatzsteuer stehen den Gemeinden ab 1998 2,2 vom Hundert zu,
+zuzüglich eines Betrages von jährlich 500 Millionen Euro in den Jahren
+2015 und 2016, 1 500 Millionen Euro im Jahr 2017, 2 760 Millionen Euro
+im Jahr 2018 und 2 400 Millionen Euro ab dem Jahr 2019; dieser Betrag
+ist zur Kompensation einer Minderung der Bundesbeteiligung an den
+Leistungen für Unterkunft und Heizung nach § 46 Absatz 10 des Zweiten
+Buches Sozialgesetzbuch im Folgejahr dieser Minderung ausschließlich
+zu Lasten des Bundes anzupassen. Vom danach verbleibenden Aufkommen
+der Umsatzsteuer stehen dem Bund 50,5 vom Hundert zuzüglich des in
+Satz 5 genannten Betrages und den Ländern 49,5 vom Hundert abzüglich
+des in Satz 5 genannten Betrages zu.
 
-*    *   in den Jahren 2005 und 2006
+*    *   Der in Satz 4 genannte Betrag beläuft sich
+        in den
+        Jahren 2005 und 2006 auf
 
     *   2 322 712 000 Euro,
 
 
-*    *   in den Jahren 2007 und 2008
+
+
+*    *   in den
+        Jahren 2007 und 2008 auf
 
     *   2 262 712 000 Euro,
 
 
-*    *   im Jahr 2009
+
+
+*    *   im Jahr 2009 auf
 
     *   1 727 712 000 Euro,
 
 
-*    *   im Jahr 2010
+
+
+*    *   im Jahr 2010 auf
 
     *   1 372 712 000 Euro,
 
 
-*    *   im Jahr 2011
+
+
+*    *   im Jahr 2011 auf
 
     *   1 912 712 000 Euro,
 
 
-*    *   im Jahr 2012
+
+
+*    *   im Jahr 2012 auf
 
     *   1 007 212 000 Euro,
 
 
-*    *   im Jahr 2013
-
-    *   966 212 000 Euro,
 
 
-*    *   ab dem Jahr 2014
+*    *   im Jahr 2013 auf
 
-    *   980 712 000 Euro.
+    *   947 462 000 Euro,
+
+
+
+
+*    *   im Jahr 2014 auf
+
+    *   1 115 212 000 Euro,
+
+
+
+
+*    *   im Jahr 2015 auf
+
+    *   minus 1 173 788 000 Euro,
+
+
+
+
+*    *   im Jahr 2016 auf
+
+    *   minus 7 365 216 248 Euro,
+
+
+
+
+*    *   im Jahr 2017 auf
+
+    *   minus 4 336 788 000 Euro,
+
+
+
+
+*    *   im Jahr 2018 auf
+
+    *   minus 4 903 568 000 Euro,
+
+
+
+
+*    *   ab dem
+        Jahr 2019 auf
+
+    *   minus 1 752 488 000 Euro.
 
 
 
@@ -602,7 +663,7 @@ für die Jahre 2005 bis 2011:
 
 
 
-für die Jahre ab 2012:
+für die Jahre 2012 und 2013:
 
 *    *   Brandenburg
 
@@ -626,12 +687,68 @@ für die Jahre ab 2012:
 
 *    *   Thüringen
 
-    *   142 032 000 Euro.
+    *   142 032 000 Euro;
+
+
+
+für die Jahre 2014 bis 2016:
+
+*    *   Brandenburg
+
+    *   147 630 000 Euro,
+
+
+*    *   Mecklenburg-Vorpommern
+
+    *   99 456 000 Euro,
+
+
+*    *   Sachsen
+
+    *   247 863 000 Euro,
+
+
+*    *   Sachsen-Anhalt
+
+    *   145 299 000 Euro,
+
+
+*    *   Thüringen
+
+    *   136 752 000 Euro;
+
+
+
+für die Jahre ab 2017:
+
+*    *   Brandenburg
+
+    *   95 760 000 Euro,
+
+
+*    *   Mecklenburg-Vorpommern
+
+    *   64 512 000 Euro,
+
+
+*    *   Sachsen
+
+    *   160 776 000 Euro,
+
+
+*    *   Sachsen-Anhalt
+
+    *   94 248 000 Euro,
+
+
+*    *   Thüringen
+
+    *   88 704 000 Euro.
 
 
 
 Für die Jahre 2012 und 2013 verringern sich die Beträge der Länder
-nach Satz 1 zweiter Halbsatz jährlich um:
+nach Satz 1 jeweils um:
 
 *    *   Brandenburg
 
@@ -749,6 +866,23 @@ Ausgleichszuweisungen und der Ausgleichsbeiträge nach § 10 durch
 Rechtsverordnung fest, die der Zustimmung des Bundesrates bedarf.
 
 
+### § 12a Abweichende Bestimmungen für die Ausgleichsjahre 2011 und 2012
+
+Für die Ausgleichsjahre 2011 und 2012 sind in der Rechtsverordnung
+nach § 12 die Unterschiede zwischen den fortgeschriebenen
+Einwohnerzahlen der Länder auf der Grundlage des Zensus 2011
+einerseits und den fortgeschriebenen Einwohnerzahlen der Länder auf
+der Grundlage des Auszugs des zentralen Einwohnerregisters der
+Deutschen Demokratischen Republik vom 3. Oktober 1990 für das
+Beitrittsgebiet sowie auf der Grundlage der Volkszählung vom 25. Mai
+1987 für das übrige Bundesgebiet (Einwohnerzahlen auf der alten Basis)
+andererseits wie folgt zu berücksichtigen: Die Einwohnerzahlen der
+Länder nach § 2 Absatz 3, § 7 Absatz 3 und § 9 Absatz 1 werden
+ermittelt, indem den Einwohnerzahlen der Länder auf der alten Basis
+für das Ausgleichsjahr 2011 ein Drittel und für das Ausgleichsjahr
+2012 zwei Drittel der Unterschiede nach Satz 1 hinzugerechnet werden.
+
+
 ### § 13 Vollzug des Finanzausgleichs während des Ausgleichsjahres
 
 Der Finanzausgleich wird während des Ausgleichsjahres aufgrund
@@ -795,7 +929,10 @@ Soweit die Verpflichtung eines Landes aus diesen Verrechnungen über
 dem Aufkommen der von Landesfinanzbehörden verwalteten Umsatzsteuer
 liegt, ist der darüber liegende Teil von dem Land dem
 Bundesministerium der Finanzen in monatlichen Teilbeträgen zu
-überweisen.
+überweisen. Unterjährige Gesetzesänderungen mit Auswirkungen auf die
+Umsatzsteueranteile nach § 1 im laufenden Ausgleichsjahr werden
+gesondert im Rahmen des Zahlungsverkehrs der Einfuhrumsatzsteuer nach
+Absatz 2 berücksichtigt.
 
 (2) Der Länderanteil an der durch Bundesfinanzbehörden verwalteten
 Einfuhrumsatzsteuer wird auf die Länder nach der Einwohnerzahl
@@ -840,7 +977,7 @@ einem Viertel ihres Betrages am 15. März, 15. Juni, 15. September und
 
 (1) Die Höhe des Gemeindeanteils am Aufkommen der durch
 Bundesfinanzbehörden und Landesfinanzbehörden verwalteten Umsatzsteuer
-und seine Verteilung nach Ländern nach § 5c des
+und seine Verteilung nach Ländern nach § 5a des
 Gemeindefinanzreformgesetzes werden beim Bundesministerium der
 Finanzen jeweils nach Ablauf eines Monats berechnet. Der
 Gemeindeanteil an der durch Bundesfinanzbehörden verwalteten

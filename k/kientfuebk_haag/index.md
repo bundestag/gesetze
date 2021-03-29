@@ -2,7 +2,7 @@
 Title: Übereinkommen über die zivilrechtlichen Aspekte internationaler Kindesentführungen
 jurabk: KiEntfÜbk Haag
 layout: default
-origslug: kientf_bk_haag
+origslug: kientfuebk_haag
 slug: kientfuebk_haag
 
 ---

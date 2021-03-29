@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 109
 
-Geändert durch
-:   Art. 8 V v. 23.7.2010 I 1010
+Zuletzt geändert durch
+:   Art. 17 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -684,10 +684,11 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. Februar 2008 in Kraft.
 
+(zu § 7 Abs. 3)
 
-## Anlage 1 (zu § 7 Abs. 3) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2008, 114,
+(Fundstelle: BGBl. I 2008, 114;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
@@ -720,10 +721,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin vom
-25\. Januar 2008 (BGBl. I S. 109) , die durch Artikel 8 der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+25\. Januar 2008 (BGBl. I S. 109), die zuletzt durch Artikel 17 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum
@@ -736,10 +741,11 @@ bestanden.
 
 
 
+(zu § 7 Abs. 3)
 
-## Anlage 2 (zu § 7 Abs. 3) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2008, 115 - 116,
+(Fundstelle: BGBl. I 2008, 115 - 116;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
@@ -772,14 +778,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Veranstaltungsfachwirt/Geprüfte Veranstaltungsfachwirtin vom
-25\. Januar 2008 (BGBl. I S. 109) , die durch Artikel 8 der Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
-Ergebnissen bestanden:
+25\. Januar 2008 (BGBl. I S. 109), die zuletzt durch Artikel 17 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit
+folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f770798_01_BJNR010900008BJNE001501308]
+    *[^f770798_01_BJNR010900008BJNE001502377]
    Punkte
 
     *
@@ -886,7 +892,7 @@ Ergebnissen bestanden:
 
 *    *   (Im Fall des § 6: Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
         wurde nach § 6 im Hinblick auf die am
-        in **                      vor **
+        in ** vor **
         abgelegte Prüfung von der/den
         Prüfungsleistung/en **
         freigestellt.)
@@ -902,6 +908,10 @@ Teil der Prüfung nach der Ausbilder-Eignungsverordnung befreit.
 Es wurden die berufs- und arbeitspädagogischen Kenntnisse nach dem
 Berufsbildungsgesetz nachgewiesen.)
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
 
@@ -913,5 +923,5 @@ Berufsbildungsgesetz nachgewiesen.)
 
 
 
-[^f770798_01_BJNR010900008BJNE001501308]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
+[^f770798_01_BJNR010900008BJNE001502377]:     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
 

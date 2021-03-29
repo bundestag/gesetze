@@ -3,7 +3,7 @@ Title: Gesetz über die Haftung und Entschädigung für Ölverschmutzungsschäde
   Seeschiffe
 jurabk: ÖlSG
 layout: default
-origslug: _lsg
+origslug: oelsg
 slug: oelsg
 
 ---
@@ -17,7 +17,13 @@ Fundstelle
 :   BGBl I: 1988, 1770
 
 Zuletzt geändert durch
-:   Art. 65 V v. 31.10.2006 I 2407 u. Bek. v. 14.10.2008 I 2070
+:   Art. 7 G v. 25.11.2015 I 2095
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 (Nr. 35) ist berücksichtigt
+
+Änderung durch
+:   Art. 4 Abs. 23 G v. 18.7.2016 I 1666 ist wegen struktureller Unstimmigkeiten nicht ausführbar
 
 
 ## Erster Teil - Haftung und Entschädigung für Ölverschmutzungsschäden
@@ -63,7 +69,7 @@ Geltungsbereich dieses Gesetzes befindet.
 (2) Der Eigentümer eines weder im Schiffsregister eines Vertragsstaats
 des Bunkeröl-Übereinkommens eingetragenen noch die Flagge eines
 Vertragsstaats des Bunkeröl-Übereinkommens führenden Seeschiffs mit
-einer Bruttoraumzahl von mehr als 1.000 hat eine Artikel 7 Abs. 1 des
+einer Bruttoraumzahl von mehr als 1 000 hat eine Artikel 7 Abs. 1 des
 Bunkeröl-Übereinkommens entsprechende Versicherung oder sonstige
 finanzielle Sicherheit für die Zeit aufrecht zu erhalten, in der sich
 das Schiff im Geltungsbereich dieses Gesetzes befindet. Die
@@ -94,8 +100,8 @@ dem Eigentümer nicht bereits eine Bescheinigung ausgestellt worden
 ist, die nach Artikel VII Abs. 7 des Haftungsübereinkommens von 1992
 oder Artikel 7 Abs. 9 des Bunkeröl-Übereinkommens anzuerkennen ist.
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt
-im Einvernehmen mit dem Bundesministerium der Finanzen durch
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur
+erläßt im Einvernehmen mit dem Bundesministerium der Finanzen durch
 Rechtsverordnung nähere Bestimmungen über
 
 1.  die Voraussetzungen für die Ausstellung, Gültigkeit und Einziehung der
@@ -106,11 +112,10 @@ Rechtsverordnung nähere Bestimmungen über
     Einziehung der Bescheinigung,
 
 
-3.  die gebührenpflichtigen Tatbestände für Amtshandlungen auf Grund
-    dieses Gesetzes oder einer Rechtsverordnung nach diesem Absatz, die
-    Gebührensätze sowie die Auslagenerstattung. Die Gebühr darf im
-    Einzelfall 25 Euro nicht unterschreiten und 2.000 Euro nicht
-    überschreiten.
+3.  die gebührenpflichtigen Tatbestände für individuell zurechenbare
+    öffentliche Leistungen auf Grund dieses Gesetzes oder einer
+    Rechtsverordnung nach diesem Absatz, die Gebührensätze sowie die
+    Auslagenerstattung.
 
 
 
@@ -176,7 +181,7 @@ Fassung ist entsprechend anzuwenden.
 
 ### § 5 Mitteilung der erhaltenen Ölmengen
 
-(1) Das Bundesministerium für Wirtschaft und Technologie teilt dem
+(1) Das Bundesministerium für Wirtschaft und Energie teilt dem
 Direktor des Internationalen Entschädigungsfonds für
 Ölverschmutzungsschäden (Fonds) die in Artikel 15 Abs. 2 des
 Fondsübereinkommens von 1992 und dem Direktor des
@@ -188,22 +193,21 @@ des im Geltungsbereich dieses Gesetzes erhaltenen beitragspflichtigen
 (2) Personen, die wegen des Erhalts von Öl im Geltungsbereich dieses
 Gesetzes zur Zahlung von Beiträgen an den Fonds und an den Zusatzfonds
 von 2003 verpflichtet sind, haben dem Bundesministerium für Wirtschaft
-und Technologie die für dessen Mitteilung nach Absatz 1 erforderlichen
+und Energie die für dessen Mitteilung nach Absatz 1 erforderlichen
 Angaben über ihren Erhalt von Öl zu machen und deren Richtigkeit auf
-Verlangen des Bundesministeriums für Wirtschaft und Technologie zu
+Verlangen des Bundesministeriums für Wirtschaft und Energie zu
 beweisen.
 
 (3) Macht eine nach Absatz 2 mitteilungspflichtige Person über den
 Erhalt beitragspflichtigen Öls nicht oder nicht rechtzeitig die
 vorgeschriebenen Angaben oder erbringt sie nicht die verlangten
-Beweise, so kann das Bundesministerium für Wirtschaft und Technologie
-nach Ablauf einer angemessenen Nachfrist seiner Mitteilung eine im
-Wege der Schätzung ermittelte Menge beitragspflichtigen Öls zugrunde
-legen.
+Beweise, so kann das Bundesministerium für Wirtschaft und Energie nach
+Ablauf einer angemessenen Nachfrist seiner Mitteilung eine im Wege der
+Schätzung ermittelte Menge beitragspflichtigen Öls zugrunde legen.
 
 (4) Außer für die in Absatz 1 vorgesehene Mitteilung dürfen die nach
 Absatz 2 gemachten Angaben Dritten weder vom Bundesministerium für
-Wirtschaft und Technologie noch von nachgeordneten Behörden zugänglich
+Wirtschaft und Energie noch von nachgeordneten Behörden zugänglich
 gemacht werden.
 
 (5) "Assoziierte Personen" im Sinne von Artikel 10 Abs. 2 Buchstabe b
@@ -215,14 +219,15 @@ stehende Unternehmen und mit Mehrheit beteiligte Unternehmen sind,
 bestimmt sich nach dem sinngemäß anzuwendenden § 16 des
 Aktiengesetzes.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie kann die ihm
-nach den Absätzen 1 bis 3 zugewiesenen Aufgaben auf eine nachgeordnete
+(6) Das Bundesministerium für Wirtschaft und Energie kann die ihm nach
+den Absätzen 1 bis 3 zugewiesenen Aufgaben auf eine nachgeordnete
 Behörde übertragen.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie erläßt im
-Einvernehmen mit dem Bundesministerium der Justiz durch
-Rechtsverordnung nähere Bestimmungen über die in Absatz 2 vorgesehenen
-Angaben, ihre Form und die zu wahrenden Fristen.
+(7) Das Bundesministerium für Wirtschaft und Energie erläßt im
+Einvernehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz durch Rechtsverordnung nähere Bestimmungen über die
+in Absatz 2 vorgesehenen Angaben, ihre Form und die zu wahrenden
+Fristen.
 
 
 ### § 6 Gerichtliche Zuständigkeiten

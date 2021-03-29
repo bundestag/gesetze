@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1998, 2142
 
 Zuletzt geändert durch
-:   Art. 5 V v. 19.10.2012 I 2232
+:   Art. 2 V v. 26.7.2013 I 2803
+
+Änderung durch
+:   Art. 171 (Nr. 16) G v. 29.3.2017 I 626 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -109,8 +112,9 @@ sind entsprechend anzuwenden.
 ### § 3 Anträge auf Bauartgenehmigung und Prüfung
 
 (1) Der Antrag auf Erteilung einer Bauartgenehmigung ist schriftlich
-unter Angabe der Typbezeichnung beim Kraftfahrt-Bundesamt zu stellen.
-Dem Antrag ist das Gutachten der Prüfstelle nach § 6 beizufügen.
+oder elektronisch unter Angabe der Typbezeichnung beim Kraftfahrt-
+Bundesamt zu stellen. Dem Antrag ist das Gutachten der Prüfstelle nach
+§ 6 beizufügen.
 
 (2) Abweichend von Absatz 1 kann der Antrag an das Kraftfahrt-
 Bundesamt über die zuständige Prüfstelle nach § 5 mit dem an die
@@ -128,17 +132,17 @@ beizufügen.
 
 ### § 4 Erteilung der Bauartgenehmigung
 
-(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung
-schriftlich. In der Bauartgenehmigung werden der genehmigte Typ, das
-zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des
+(1) Das Kraftfahrt-Bundesamt erteilt die Bauartgenehmigung schriftlich
+oder elektronisch. In der Bauartgenehmigung werden der genehmigte Typ,
+das zugeteilte Prüfzeichen sowie Nebenbestimmungen (§ 36 des
 Verwaltungsverfahrensgesetzes) und, soweit erforderlich, Ausnahmen von
 den Bestimmungen der Straßenverkehrs-Zulassungs-Ordnung festgelegt.
 
 (2) Abweichungen vom genehmigten Typ sind nur zulässig, wenn die
 Bauartgenehmigung durch einen entsprechenden Nachtrag ergänzt worden
-ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich
-erklärt, daß für die vorgesehene Änderung eine Nachtragsgenehmigung
-nicht erforderlich ist.
+ist oder wenn das Kraftfahrt-Bundesamt auf Anfrage schriftlich oder
+elektronisch erklärt, daß für die vorgesehene Änderung eine
+Nachtragsgenehmigung nicht erforderlich ist.
 
 
 ### § 5 Prüfstellen
@@ -207,8 +211,7 @@ E   für Fahrtschreiber
 F   für Auflaufbremsen und Teile davon
 
 
-G   für Sicherheitsgurte, Rückhalteeinrichtungen für Kinder in
-    Kraftfahrzeugen
+G   (weggefallen)
 
 
 K   für lichttechnische Einrichtungen
@@ -454,8 +457,9 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 (2)
 
+(zu § 3 Abs. 2)
 
-### Anlage 1 (zu § 3 Abs. 2) Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
+### Anlage 1 Bei Antrag auf Erteilung der Allgemeinen Bauartgenehmigung einzureichende Muster und Unterlagen
 
 (Fundstelle: BGBl. I 1998, 2146 - 2152)
 
@@ -975,8 +979,8 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 *    *
 
 *    *
-        *   Kennleuchten für blaues und für gelbes Blinklicht (§ 52 Abs. 3 und 4
-            StVZO)
+        *   Kennleuchten für blaues, rotes und gelbes Blinklicht (§ 52 Abs. 3, 3a
+            und 4 StVZO)
 
 
 
@@ -1116,7 +1120,9 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 *    *
-        10. Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 60 Abs. 4 StVZO)
+        10. Beleuchtungseinrichtungen für amtliche Kennzeichen (§ 10 Abs. 6 Satz 2
+            FZV) Beleuchtungseinrichtungen für transparente amtliche Kennzeichen
+            (§ 10 FZV)
 
 
 
@@ -1264,16 +1270,12 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 *    *
-        16. Rückhalteeinrichtungen für Kinder in Kraftfahrzeugen (§ 21 Abs. 1a
-            StVO)
+        16. (weggefallen)
 
 
 
 
-    *   Muster, Zeichnungen und Beschreibungen sind nach der von der
-        Prüfstelle angewandten Vorschrift und den darin enthaltenen
-        Bestimmungen über den Antrag beizufügen.
-
+    *
 
 *    *
         17. Reifen (§ 36 Abs. 1a StVZO)
@@ -1298,13 +1300,28 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 *    *
+        19. Warneinrichtungen mit einer Folge von Klängen verschiedener
+            Grundfrequenz
+            (§ 55 Abs. 3 und 3a StVZO)
 
 
 
 
-### Anlage 2 Teil 1 (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3) Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+    *   2 Muster
 
-   Fundstelle des Originaltextes: BGBl. I 1998, 2153
+    *   Zeichnung(en) und Beschreibung der Wirkungsweise in zweifacher
+        Ausfertigung.
+
+
+*    *
+
+
+
+   (zu § 5 Abs. 1 Satz 2 Nr. 1 und 2, § 7 Abs. 3)
+
+### Anlage 2 Teil 1 Zuständige Prüfstellen für bestimmte Fahrzeugteile und ihre bisher zugeteilten Kennbuchstaben
+
+Fundstelle des Originaltextes: BGBl. I 1998, 2153
 
 *    *   bisher zugeteilter Kennbuchstabe
 
@@ -1331,20 +1348,20 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 *    *   E
 
-    *   Landeseichdirektion
+    *   TÜV NORD Mobilität GmbH & Co. KG
 
     *   -
 
     *   Fahrtschreiber
 
 
-*    *   Nordrhein-Westfalen
+*    *   IFM – Institut für Fahrzeugtechnik und Mobilität
 
 
-*    *   Postfach 30 08 33
+*    *   Am TÜV 1
 
 
-*    *   50778 Köln
+*    *   30519 Hannover
 
 
 *    *   F
@@ -1517,8 +1534,9 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 
+(zu § 7 Abs. 3)
 
-### Anlage 2 Teil 2 (zu § 7 Abs. 3) Kennbuchstaben, die nicht mehr zugeteilt werden
+### Anlage 2 Teil 2 Kennbuchstaben, die nicht mehr zugeteilt werden
 
 (Fundstelle: BGBl. I 1998, 2154)
 
@@ -1567,8 +1585,9 @@ Allgemeine Bauartgenehmigungen und Einzelgenehmigungen, die vor dem
 
 
 
+(zu § 7 Abs. 1)
 
-### Anlage 3 (zu § 7 Abs. 1) Muster für das Prüfzeichen
+### Anlage 3 Muster für das Prüfzeichen
 
 Fundstelle des Originaltextes: BGBl. I 1998, 2155
 

@@ -438,8 +438,8 @@ Leiden in einen bis zum Tod anhaltenden Zustand der Wahrnehmungs- und
 Empfindungslosigkeit versetzt werden.
 
 (2) Artikel 4 Absatz 4 der Verordnung (EG)
-Nr. 1099/2009              gilt nur für das Schlachten ohne
-vorausgegangene Betäubung.
+Nr. 1099/2009 gilt nur für das Schlachten ohne vorausgegangene
+Betäubung.
 
 (3) Wer ein Wirbeltier tötet, hat es zuvor nach Maßgabe des Artikels 4
 Absatz 1 in Verbindung mit Anhang I der Verordnung (EG) Nr. 1099/2009
@@ -904,8 +904,9 @@ Diese Verordnung tritt am 1. Januar 2013 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12 Absatz 3 und 10)
 
-### Anlage 1 (zu § 12 Absatz 3 und 10) Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
+### Anlage 1 Abweichende und zusätzliche Bestimmungen zu den zulässigen Betäubungsverfahren nach Anhang I der Verordnung (EG) Nr. 1099/2009
 
 (Fundstelle: BGBl. I 2012, 2989 - 2992)
 
@@ -1035,7 +1036,6 @@ Der Bundesrat hat zugestimmt.
 
 
 **4.** **Genickbruch**
-
     Abweichend von Anhang I Kapitel I Tabelle 1 Nummer 5 der Verordnung
     (EG) Nr. 1099/2009 darf der Genickbruch bei Geflügel nur außerhalb von
     Schlachthöfen im Falle der Nottötung nach Artikel 2 Buchstabe d der
@@ -1204,16 +1204,14 @@ Der Bundesrat hat zugestimmt.
 
     6.11 Bei der Elektrobetäubung von Aalen ist Trinkwasser mit einer
         elektrischen Leitfähigkeit von unter
-        1 000 Mikrosiemens                          pro Zentimeter (mikroS/cm)
-        zu verwenden. Vor Beginn der Betäubung ist die elektrische
-        Leitfähigkeit des Wassers in der Betäubungsanlage zu messen und die
-        zur Betäubung erforderliche Stromdichte einzustellen. Hierzu ist die
-        angelegte Spannung so einzustellen, dass zwischen den Elektroden ein
-        Wechselstrom in Ampere pro Quadratdezimeter stromzuführender
-        Elektrodenfläche
-        (A/qdm)                          fließt, welcher der in der folgenden
-        Tabelle für die gemessene elektrische Leitfähigkeit angegebenen
-        Stromdichte entspricht:
+        1 000 Mikrosiemens pro Zentimeter (mikroS/cm) zu verwenden. Vor Beginn
+        der Betäubung ist die elektrische Leitfähigkeit des Wassers in der
+        Betäubungsanlage zu messen und die zur Betäubung erforderliche
+        Stromdichte einzustellen. Hierzu ist die angelegte Spannung so
+        einzustellen, dass zwischen den Elektroden ein Wechselstrom in Ampere
+        pro Quadratdezimeter stromzuführender Elektrodenfläche
+        (A/qdm) fließt, welcher der in der folgenden Tabelle für die gemessene
+        elektrische Leitfähigkeit angegebenen Stromdichte entspricht:
 
         *            *   Elektrische Leitfähigkeit des Wassers (mikroS/cm)
 
@@ -1314,9 +1312,9 @@ Der Bundesrat hat zugestimmt.
         mindestens 80 Volumenprozent, die aus einer Quelle hundertprozentigen
         Kohlendioxids erzeugt wird, und darin bis zum Eintritt ihres Todes,
         mindestens jedoch
-        10 Minuten,                          verbleiben. Vor dem Einbringen
-        der Tiere muss die Gaskonzentration überprüft werden. Lebende Tiere
-        dürfen nicht übereinanderliegend eingebracht werden.
+        10 Minuten, verbleiben. Vor dem Einbringen der Tiere muss die
+        Gaskonzentration überprüft werden. Lebende Tiere dürfen nicht
+        übereinanderliegend eingebracht werden.
 
 
     7.10 Abweichend von Anhang I Kapitel I Tabelle 3 Nummer 1 bis 4 der
@@ -1346,9 +1344,10 @@ Der Bundesrat hat zugestimmt.
 
 
 **9.** **Betäubungsverfahren für Fische**
-
     Für die Betäubung von Fischen sind folgende Verfahren zulässig:
 
+
+*
     9.1 Elektrobetäubung,
 
 
@@ -1367,8 +1366,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 12 Absatz 6)
 
-### Anlage 2 (zu § 12 Absatz 6) Höchstdauer zwischen Betäuben und Entblutungsschnitt
+### Anlage 2 Höchstdauer zwischen Betäuben und Entblutungsschnitt
 
 (Fundstelle: BGBl. I 2012, 2993)
 
@@ -1418,7 +1418,7 @@ Der Bundesrat hat zugestimmt.
 
     *   20 (nach Verlassen der Betäubungsanlage)
         30 (nach dem letzten Halt in der CO
-        2                     -Atmosphäre)
+        2-Atmosphäre)
 
 
 

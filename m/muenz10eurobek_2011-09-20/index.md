@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „100 Jahre Hamburger Elbtunnel“)
 jurabk: Münz10EuroBek 2011-09-20
 layout: default
-origslug: m_nz10eurobek_2011-09-20
+origslug: muenz10eurobek_2011-09-20
 slug: muenz10eurobek_2011-09-20
 
 ---
@@ -51,7 +51,7 @@ Prägeaufdruck „SILBER 625“.
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„VERBINDUNG VON STADT UND HAFEN*             “.
+„VERBINDUNG VON STADT UND HAFEN*“.
 
 Der Entwurf stammt vom Künstler Herwig Otto, Rodenbach.
 

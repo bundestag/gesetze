@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2286
 
-Geändert durch
-:   Art. 1 V v. 2.12.2011 I 2634
+Zuletzt geändert durch
+:   Art. 1 V v. 7.2.2018 I 192
 
 
 
@@ -36,10 +36,10 @@ und Technologie:
 
 Im Sinne dieser Verordnung sind:
 
-1.  Getreide: Weichweizen einschließlich Spelz und Dinkel, Hartweizen,
-    Roggen einschließlich Wintermenggetreide, Braugerste, andere Gerste,
-    Hafer einschließlich Sommermenggetreide, Mais, Triticale, Sorghum und
-    andere Hirsearten sowie Reis,
+1.  Getreide: Weichweizen einschließlich Emmer und Einkorn, Dinkel,
+    Hartweizen, Roggen einschließlich Wintermenggetreide, Braugerste,
+    andere Gerste, Hafer einschließlich Sommermenggetreide, Mais,
+    Triticale, Sorghum und andere Hirsearten sowie Reis,
 
 
 2.  Getreideerzeugnisse: Mühlenerzeugnisse, Malz, Quellmehl, Backmittel
@@ -59,11 +59,23 @@ Im Sinne dieser Verordnung sind:
     Tierernährung verfüttert zu werden,
 
 
-5.  Zucker: die aus Zuckerrüben oder Zuckerrohr hergestellten Zucker und
-    Sirupe sowie Invertzucker,
+5.  Zucker: Erzeugnisse im Sinne des Anhangs III Nummer 2 Buchstabe B
+    Unterabsatz 4 Buchstabe a der Durchführungsverordnung (EU) 2017/1185
+    der Kommission vom 20. April 2017 mit Durchführungsbestimmungen zu den
+    Verordnungen (EU) Nr. 1307/2013 und (EU) Nr. 1308/2013 des
+    Europäischen Parlaments und des Rates in Bezug auf die Übermittlung
+    von Informationen und Dokumenten an die Kommission und zur Änderung
+    und Aufhebung mehrerer Verordnungen der Kommission (ABl. L 171 vom
+    4\.7.2017, S. 113) in der jeweils geltenden Fassung mit Ausnahme des in
+    Buchstabe b genannten Weißzuckers,
 
 
-5a. Hülsenfrüchte: Erbsen, Süßlupinen, Ackerbohnen und sonstige
+5a. Isoglucose: Erzeugnisse im Sinne des Anhangs III Nummer 2 Buchstabe C
+    Unterabsatz 4 Satz 1 der Durchführungsverordnung (EU) 2017/1185 in der
+    jeweils geltenden Fassung,
+
+
+5b. Hülsenfrüchte: Erbsen, Süßlupinen, Ackerbohnen und sonstige
     Hülsenfrüchte,
 
 
@@ -95,31 +107,48 @@ Im Sinne dieser Verordnung sind:
     10 vom Hundert bis 80 vom Hundert des Gesamtfettgehalts aufweisen,
 
 
-12. Molkereien: Unternehmen, die im Durchschnitt eines Jahres täglich
-    mindestens 3 000 Liter Milch zur Herstellung von Erzeugnissen im Sinne
-    der Nummern 15 und 16 Buchstabe a bis d verarbeiten oder nach einer
-    Wärmebehandlung zur weiteren Be- oder Verarbeitung an andere
-    Unternehmen abgeben; als Molkereien gelten auch Unternehmen, die
-    Schmelzkäse, Schmelzkäsezubereitungen, Kochkäse, Sauermilchkäse oder
-    Erzeugnisse aus Molke herstellen und keine Milch verarbeiten,
+12. Bioethanol aus Zucker: Ethylalkohol, der aus einem der Erzeugnisse im
+    Sinne des Anhangs III Nummer 2 Buchstabe B Unterabsatz 4 Buchstabe a
+    der Durchführungsverordnung (EU) 2017/1185 gewonnen wurde,
 
 
-13. Abnehmer von Milch: Abnehmer im Sinne von § 1 Absatz 3 der Milch-
+13. Ethylalkohol landwirtschaftlichen Ursprungs: Erzeugnisse im Sinne des
+    Anhangs I Teil XXI der Verordnung (EU) Nr. 1308/2013 des Europäischen
+    Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame
+    Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+    Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+    Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+    671; L 189 vom 27.6.2014, S. 261; L 130 vom 19.5.2016, S. 18; L 34 vom
+    9\.2.2017, S. 41), die zuletzt durch die Delegierte Verordnung (EU)
+    2016/1226 (ABl. L 202 vom 28.7.2016, S. 5) geändert worden ist, in der
+    jeweils geltenden Fassung; Rohalkohol mit einem Alkoholgehalt von
+    unter 96 Volumenprozent, der nach einer Rektifikation als neutraler
+    Ethylalkohol landwirtschaftlichen Ursprungs vermarktet wird, gilt
+    ebenfalls als Ethylalkohol landwirtschaftlichen Ursprungs im Sinne
+    dieser Verordnung,
+
+
+14. Molkereien: Unternehmen, die im Durchschnitt eines Jahres täglich
+    mindestens 3 000 Liter Milch verarbeiten oder nach einer Bearbeitung
+    zur weiteren Be- und Verarbeitung an andere Unternehmen abgeben; als
+    Molkereien im Sinne dieser Verordnung gelten auch Unternehmen, die
+    Erzeugnisse im Sinne von Nummer 17 und Nummer 18 Buchstabe a bis d
+    herstellen,
+
+
+15. Abnehmer von Milch: Abnehmer im Sinne von § 1 Absatz 3 der Milch-
     Güteverordnung,
 
 
-14. Milch: das Gemelk einer oder mehrerer Kühe, Schafe, Ziegen oder
+16. Milch: das Gemelk einer oder mehrerer Kühe, Schafe, Ziegen oder
     Büffel,
 
 
-15. Konsummilch: Milch im Sinne des Anhangs XIII Ziffer III Nummer 1
-    Buchstabe b bis d der Verordnung (EG) Nr. 1234/2007 des Rates vom 22.
-    Oktober 2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-    Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse (ABl.
-    L 299 vom 16.11.2007, S. 1) in der jeweils geltenden Fassung,
+17. Konsummilch: Milch im Sinne des Anhangs VII Teil IV Ziffer III
+    Unterabsatz 1 Buchstabe b bis d der Verordnung (EU) Nr. 1308/2013,
 
 
-16. Milcherzeugnisse:
+18. Milcherzeugnisse:
 
     a)  Butter und andere Milchstreichfette im Sinne der Butterverordnung,
 
@@ -142,14 +171,18 @@ Im Sinne dieser Verordnung sind:
 
 
 
-17. jährliche Meldungen: Meldungen, deren Angaben für einen Jahreszeitraum
+19. jährliche Meldungen: Meldungen, deren Angaben für einen Jahreszeitraum
     zusammengefasst sind; diese Jahreszeiträume umfassen bezüglich
 
-    a)  der Meldepflichten nach § 2 die Monate Juli bis einschließlich Juni
-        des darauffolgenden Jahres,
+    a)  der Meldepflichten nach § 2 Absatz 2 bis 9 die Monate Juli bis
+        einschließlich Juni des darauffolgenden Jahres,
 
 
-    b)  der Meldepflichten nach den §§ 4 und 5 das Kalenderjahr.
+    b)  der Meldepflichten nach den §§ 4, 5 und 5a das Kalenderjahr,
+
+
+    c)  der Meldepflichten nach § 3 die Monate Oktober bis einschließlich
+        September des darauffolgenden Jahres.
 
 
 
@@ -160,14 +193,14 @@ Im Sinne dieser Verordnung sind:
 
 ## § 2 Meldepflichten der Getreide-, Stärke- und Futtermittelwirtschaft
 
-(1) Die in den folgenden Absätzen 2 bis 8 aufgeführten Unternehmen
+(1) Die in den folgenden Absätzen 2 bis 10 aufgeführten Unternehmen
 haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 1
 bis 3 zu melden.
 
 (2) Die Meldungen der Mühlen sind
 
 1.  im Fall einer jährlichen Verarbeitung von 1 000 bis unter 5 000 Tonnen
-    Getreide jährlich nach Maßgabe des § 7 Nummer 1,
+    Getreide jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a,
 
 
 2.  ab einer jährlichen Verarbeitung von 5 000 Tonnen monatlich nach
@@ -233,7 +266,7 @@ jeweils geltenden Fassung erzeugt wurde.
 (3) Die Meldungen der Hersteller von Braumalz sind
 
 1.  im Fall einer jährlichen Herstellung von 1 000 bis unter 10 000 Tonnen
-    Malz jährlich nach Maßgabe des § 7 Nummer 1,
+    Malz jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a,
 
 
 2.  ab einer jährlichen Herstellung von 10 000 Tonnen Malz monatlich nach
@@ -266,21 +299,30 @@ abzugeben. In ihnen sind folgende Angaben jeweils in Tonnen zu machen:
 
 
 
-(4) Die Meldungen der Hersteller von Stärke sind ab einer jährlichen
-Herstellung von 1 000 Tonnen Stärke jährlich nach Maßgabe des § 7
-Nummer 1 mit folgenden Angaben jeweils in Tonnen abzugeben:
+(4) Die Meldungen der Hersteller von Stärke sind
+
+1.  im Fall einer jährlichen Herstellung von 1 000 bis unter 5 000 Tonnen
+    Stärke jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a,
+
+
+2.  ab einer jährlichen Herstellung von 5 000 Tonnen Stärke monatlich nach
+    Maßgabe des § 7 Nummer 2
+
+
+
+abzugeben. In ihnen sind folgende Angaben jeweils in Tonnen zu machen:
 
 1.  für Rohstoffe zur Stärkeherstellung jeweils gesondert nach
     Stärketräger:
 
-    a)  den Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
+    a)  der Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
 
 
-    b)  den Zugang nach Lieferantengruppen, jeweils untergliedert nach Inland
+    b)  der Zugang nach Lieferantengruppen, jeweils untergliedert nach Inland
         und Ausland,
 
 
-    c)  den Abgang nach Verwendungszwecken einschließlich der Ausfuhr,
+    c)  der Abgang nach Verwendungszwecken einschließlich der Ausfuhr,
 
 
 
@@ -289,14 +331,14 @@ Nummer 1 mit folgenden Angaben jeweils in Tonnen abzugeben:
 2.  für stärke- und kohlenhydrathaltige Erzeugnisse gesondert nach dem
     jeweiligen Erzeugnis sowie für Nebenerzeugnisse der Stärkeherstellung:
 
-    a)  den Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
+    a)  der Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
 
 
-    b)  die Herstellung nach Verwendungszwecken sowie den sonstigen Zugang aus
+    b)  die Herstellung nach Verwendungszwecken sowie der sonstige Zugang aus
         dem Inland und Ausland,
 
 
-    c)  den Abgang nach Verwendungszwecken einschließlich der Ausfuhr.
+    c)  der Abgang nach Verwendungszwecken einschließlich der Ausfuhr.
 
 
 
@@ -306,8 +348,8 @@ Nummer 1 mit folgenden Angaben jeweils in Tonnen abzugeben:
 
 (5) Die Meldungen der Hersteller von Teigwaren sind ab einer
 jährlichen Herstellung von 1 000 Tonnen Teigwaren jährlich nach
-Maßgabe des § 7 Nummer 1 mit folgenden Angaben jeweils in Tonnen
-abzugeben:
+Maßgabe des § 7 Nummer 1 Buchstabe a mit folgenden Angaben jeweils in
+Tonnen abzugeben:
 
 1.  für jede Getreideart gesondert die Angaben nach Absatz 2 Satz 2 Nummer
     1,
@@ -353,8 +395,8 @@ abzugeben:
 (6) Die Meldungen der Hersteller von Nähr- und Backmitteln sowie von
 Kaffeeersatz und sonstigen Getreideerzeugnissen sind ab einer
 jährlichen Verarbeitungsmenge von 1 000 Tonnen an Rohstoffen jährlich
-nach Maßgabe des § 7 Nummer 1 mit folgenden Angaben jeweils in Tonnen
-abzugeben:
+nach Maßgabe des § 7 Nummer 1 Buchstabe a mit folgenden Angaben
+jeweils in Tonnen abzugeben:
 
 1.  für Arten von Getreide, Hülsenfrüchten und sonstigen pflanzlichen
     Rohstoffen gesondert nach dem jeweiligen Erzeugnis:
@@ -394,7 +436,7 @@ abzugeben:
 (7) Die Meldungen der Hersteller von Mischfutter für Nutztiere sind
 
 1.  im Fall einer jährlichen Herstellung von 1 000 bis unter 10 000 Tonnen
-    Mischfutter jährlich nach Maßgabe des § 7 Nummer 1,
+    Mischfutter jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a,
 
 
 2.  ab einer jährlichen Herstellung von 10 000 Tonnen monatlich nach
@@ -444,7 +486,8 @@ abzugeben. In ihnen sind folgende Angaben jeweils in Tonnen zu machen:
 Ölsaaten, Ölkuchen, Ölschroten oder Expeller handeln, sind
 
 1.  im Fall eines jährlichen Absatzes von insgesamt 1 000 bis unter 10 000
-    Tonnen dieser Erzeugnisse jährlich nach Maßgabe des § 7 Nummer 1,
+    Tonnen dieser Erzeugnisse jährlich nach Maßgabe des § 7 Nummer 1
+    Buchstabe a,
 
 
 2.  ab einem jährlichen Absatz von insgesamt 10 000 Tonnen monatlich nach
@@ -469,23 +512,65 @@ folgende Angaben jeweils in Tonnen zu machen:
 
 Darüber hinaus melden Unternehmen nach Satz 1 Nummer 1 jährlich und
 Unternehmen nach Satz 1 Nummer 2 für Kalenderhalbjahre nach Maßgabe
-des § 7 Nummer 1 den Bestand des jeweiligen Erzeugnisses in Tonnen am
-Ende des Meldezeitraums sowie eine Bestandskorrektur.
+des § 7 Nummer 1 Buchstabe a den Bestand des jeweiligen Erzeugnisses
+in Tonnen am Ende des Meldezeitraums sowie eine Bestandskorrektur.
+
+(9) Die Meldungen der Hersteller von Ethylalkohol aus Getreide sind
+
+1.  im Fall einer jährlichen Herstellung von 1 000 bis unter 10 000
+    Hektoliter Ethylalkohol jährlich nach Maßgabe des § 7 Nummer 1
+    Buchstabe a,
+
+
+2.  ab einer jährlichen Herstellung von 10 000 Hektoliter Ethylalkohol
+    monatlich nach Maßgabe des § 7 Nummer 2
+
+
+
+abzugeben. In ihnen sind folgende Angaben zu machen:
+
+1.  für jede Getreideart gesondert, jeweils in Tonnen, die Angaben nach
+    Absatz 2 Satz 2 Nummer 1,
+
+
+2.  für Ethylalkohol jeweils in Hektoliter reiner Alkohol:
+
+    a)  die hergestellte Menge, aufgeschlüsselt nach den verwendeten
+        Getreidearten,
+
+
+    b)  die abgegebene Menge nach Verwendungszwecken einschließlich der
+        Ausfuhr.
+
+
+
+
+
+
+
+(10) Reismühlen mit einer jährlichen Verarbeitungsmenge von mehr als 1
+000 Tonnen haben unbeschadet des Absatzes 2 nach Maßgabe des § 7
+Nummer 1 Buchstabe b die Reisbestände nach Maßgabe des Anhangs III
+Nummer 1 Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU)
+2017/1185 zu melden.
 
 
 ## § 3 Meldepflichten der Zuckerwirtschaft
 
-(1) Die Unternehmen nach
+(1) Die Unternehmen nach Absatz 2, 4, 6 oder 7 melden:
 
-1.  Absatz 2, Absatz 3 Satz 1 oder Absatz 4,
-
-
-2.  Absatz 3 Satz 2
-
+a)  die Angaben nach Absatz 2 Nummer 1 Buchstabe a Doppelbuchstabe aa,
+    Buchstabe b bis d, Nummer 2 und 3 und Absatz 4 nach Maßgabe des § 6
+    Absatz 1 und 3,
 
 
-haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 1
-und 3 zu melden.
+b)  die Angaben nach Absatz 2 Nummer 1 Buchstabe a Doppelbuchstabe bb,
+    Nummer 4, Absatz 2a und Absatz 5 bis 7 nach Maßgabe des § 6 Absatz 3.
+
+
+
+Die Unternehmen nach Absatz 3 Satz 1 melden nach Maßgabe des § 6
+Absatz 1 Satz 1 und Absatz 3.
 
 (2) Die Meldungen der Unternehmen, die Zucker herstellen, sind ab
 einer jährlichen Herstellung von 1 000 Tonnen Weißzuckerwert monatlich
@@ -494,8 +579,18 @@ nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben abzugeben:
 1.  für Zucker und Zwischenerzeugnisse der Zuckerherstellung jeweils
     gesondert nach Erzeugniskategorien:
 
-    a)  den Bestand am Ende des Meldezeitraums sowie eine Bestandskorrektur,
-        jeweils in Tonnen Weißzuckerwert,
+    a)  nach Maßgabe von Anhang III Nummer 2 Buchstabe D Unterabsatz 1
+        Buchstabe a der Durchführungsverordnung (EU) 2017/1185 den Bestand am
+        Ende des Meldezeitraums sowie eine Bestandskorrektur, jeweils in
+        Tonnen Weißzuckerwert, getrennt nach Beständen und Bestandskorrekturen
+
+        aa) im Inland und
+
+
+        bb) in anderen Mitgliedstaaten der Europäischen Union,
+
+
+
 
 
     b)  die Herstellung aus Rüben und aus Einwurfzucker, jeweils in Tonnen
@@ -535,13 +630,26 @@ nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
 
     e)  den Verkauf nach Abnehmergruppen und Verwendungszwecken einschließlich
-        der Ausfuhr.
+        der Ausfuhr,
 
 
 
 
 
+4.  für Weißzucker ab Fabrik nach Maßgabe von Anhang II Nummer 1
+    Unterabsatz 1 Buchstabe a der Durchführungsverordnung (EU) 2017/1185
+    den durchschnittlichen Verkaufspreis je Tonne sowie die verkaufte
+    Menge in Tonnen Weißzuckerwert.
 
+
+
+
+(2a) Für den jeweils laufenden Monat haben die Unternehmen nach Absatz
+2 nach Maßgabe des § 7 Nummer 3 den voraussichtlichen Verkaufspreis je
+Tonne für Weißzucker ab Fabrik nach Maßgabe des Anhangs II Nummer 1
+Unterabsatz 1 Buchstabe a der Durchführungsverordnung (EU) 2017/1185
+sowie die voraussichtlich verkaufte Menge in Tonnen Weißzuckerwert zu
+melden.
 
 (3) Die Meldungen der Unternehmen des Groß- und Außenhandels mit
 Zucker sind ab einem jährlichen Bezug von 1 000 und mehr Tonnen
@@ -587,6 +695,36 @@ nach Maßgabe des § 7 Nummer 2 mit folgenden Angaben abzugeben:
 
 
 
+(5) Die Unternehmen nach Absatz 2 haben jährlich für das
+vorangegangene Wirtschaftsjahr nach Maßgabe des § 7 Nummer 1 Buchstabe
+c den von ihnen gezahlten Durchschnittspreis für Zuckerrüben sowie die
+entsprechenden Gesamtmengen nach Maßgabe des Anhangs II Nummer 1
+Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2017/1185
+zu melden.
+
+(6) Die Hersteller von Bioethanol aus Zucker mit einer jährlichen
+Herstellung von mehr als 1 000 Hektoliter haben jährlich für das
+vorangegangene Wirtschaftsjahr nach Maßgabe des § 7 Nummer 1 Buchstabe
+d die erzeugte Menge an Bioethanol aus Zucker nach Maßgabe des Anhangs
+III Nummer 2 Buchstabe B Unterabsatz 4 Buchstabe e der
+Durchführungsverordnung (EU) 2017/1185 zu melden.
+
+(7) Die Meldungen der Hersteller von Isoglucose mit einer jährlichen
+Herstellung von mehr als 1 000 Tonnen Isoglucose sind mit folgenden
+Angaben abzugeben:
+
+1.  monatlich nach Maßgabe des § 7 Nummer 2 die Mengen an Isoglucose nach
+    Maßgabe des Anhangs III Nummer 2 Buchstabe C Unterabsatz 1 Buchstabe b
+    der Durchführungsverordnung (EU) 2017/1185,
+
+
+2.  jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe d der Bestand an
+    Isoglucose nach Maßgabe des Anhangs III Nummer 2 Buchstabe D
+    Unterabsatz 1 Buchstabe b der Durchführungsverordnung (EU) 2017/1185.
+
+
+
+
 
 ## § 4 Meldepflichten der Fettwirtschaft
 
@@ -600,7 +738,8 @@ haben folgende Meldungen abzugeben:
 1.  Ölmühlen
 
     a)  im Fall einer jährlichen Verarbeitung von 1 000 bis unter 10 000
-        Tonnen Ölsaaten Jahresmeldungen nach Maßgabe des § 7 Nummer 1,
+        Tonnen Ölsaaten Jahresmeldungen nach Maßgabe des § 7 Nummer 1
+        Buchstabe a,
 
 
     b)  ab einer jährlichen Verarbeitung von 10 000 Tonnen monatliche
@@ -613,7 +752,7 @@ haben folgende Meldungen abzugeben:
 2.  Raffinerien, Härtungsbetriebe und Hersteller von Fischöl
 
     a)  im Fall einer jährlichen Herstellung von bis zu 1 000 Tonnen Ölen und
-        Fetten Jahresmeldungen nach Maßgabe des § 7 Nummer 1,
+        Fetten Jahresmeldungen nach Maßgabe des § 7 Nummer 1 Buchstabe a,
 
 
     b)  ab einer jährlichen Herstellung von 1 000 Tonnen monatliche Meldungen
@@ -685,7 +824,8 @@ Zu melden sind:
 Margarinezubereitungen, Speisefett und Speiseöl sind
 
 1.  im Fall einer jährlichen Herstellungsmenge von insgesamt bis zu 1 000
-    Tonnen dieser Erzeugnisse jährlich nach Maßgabe des § 7 Nummer 1,
+    Tonnen dieser Erzeugnisse jährlich nach Maßgabe des § 7 Nummer 1
+    Buchstabe a,
 
 
 2.  ab einer jährlichen Herstellungsmenge von insgesamt 1 000 Tonnen
@@ -729,8 +869,8 @@ abzugeben. In ihnen sind folgende Angaben jeweils in Tonnen zu machen:
 
 
 (4) Die Meldungen der Talgschmelzen und Schmalzsiedereien sind
-jährlich nach Maßgabe des § 7 Nummer 1 mit folgenden Angaben jeweils
-in Tonnen abzugeben:
+jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a mit folgenden
+Angaben jeweils in Tonnen abzugeben:
 
 1.  die Verarbeitung von tierischen Rohfetten nach Fettarten,
 
@@ -756,7 +896,7 @@ in Tonnen abzugeben:
 Mischfetterzeugnissen und Zubereitungen von Mischfetterzeugnissen sind
 
 1.  im Fall einer jährlichen Herstellungsmenge von bis zu 1 000 Tonnen
-    jährlich nach Maßgabe des § 7 Nummer 1,
+    jährlich nach Maßgabe des § 7 Nummer 1 Buchstabe a,
 
 
 2.  ab einer jährlichen Herstellungsmenge von 1 000 Tonnen monatlich nach
@@ -785,11 +925,14 @@ abzugeben:
 1.  bezüglich des Zugangs und Abgangs von Milch und Rahm jeweils in
     Kilogramm:
 
-    a)  die Anlieferung von inländischen landwirtschaftlichen Betrieben
-        untergliedert nach Ländern und Tierarten, jeweils unter gesonderter
-        Angabe der Anlieferung der Milch, die nach unionsrechtlichen
-        Vorschriften über die ökologische Produktion nach Maßgabe der
-        Verordnung (EG) Nr. 834/2007 erzeugt wurde,
+    a)  die Anlieferung von landwirtschaftlichen Betrieben, untergliedert nach
+        Tierarten, jeweils unter gesonderter Angabe der Anlieferung der Milch,
+        die nach unionsrechtlichen Vorschriften über die ökologische
+        Produktion nach Maßgabe der Verordnung (EG) Nr. 834/2007 erzeugt
+        wurde; die Anlieferung von landwirtschaftlichen Betrieben aus dem
+        Ausland ist zusätzlich nach Herkunftsland zu untergliedern, die
+        Anlieferung von landwirtschaftlichen Betrieben aus dem Inland nach
+        Ländern,
 
 
     b)  die Anlieferung von inländischen landwirtschaftlichen Betrieben
@@ -838,8 +981,8 @@ zusätzlich der jeweilige Eiweißgehalt in Eiweißeinheiten anzugeben.
 Meldungen nach § 6 Absatz 1 Satz 1 und Absatz 3 und § 7 Nummer 2 mit
 folgenden Angaben abzugeben:
 
-1.  die Herstellung von Konsummilch im Sinne des § 1 Nummer 15 und von
-    Milcherzeugnissen im Sinne des § 1 Nummer 16 Buchstabe a bis d,
+1.  die Herstellung von Konsummilch im Sinne des § 1 Nummer 17 und von
+    Milcherzeugnissen im Sinne des § 1 Nummer 18 Buchstabe a bis d,
     gesondert nach dem jeweiligen Erzeugnis in Kilogramm unter Angabe des
     jeweiligen Fettgehalts in Fetteinheiten und des Eiweißgehalts in
     Eiweißeinheiten, bei Konsummilch, Buttermilcherzeugnissen und
@@ -924,13 +1067,31 @@ Meldung für den Berichtsmonat Dezember abzugeben. Für die Meldung über
 die Herstellung von Mischfetterzeugnissen gilt § 4 Absatz 5.
 
 
+## § 5a Meldepflichten der Alkoholwirtschaft
+
+(1) Die in den folgenden Absätzen 2 und 3 aufgeführten Unternehmen
+haben jeweils die dort genannten Angaben nach Maßgabe des § 6 Absatz 3
+und des § 7 Nummer 1 Buchstabe a jährlich zu melden, soweit die
+Angaben nicht bereits nach § 2 Absatz 9 Satz 1 zu melden sind.
+
+(2) Hersteller von Ethylalkohol landwirtschaftlichen Ursprungs mit
+einer jährlichen Herstellung von mehr als 1 000 Hektolitern haben eine
+Meldung nach Maßgabe des Anhangs III Nummer 11 Unterabsatz 1 Buchstabe
+a und b der Durchführungsverordnung (EU) 2017/1185 abzugeben.
+
+(3) Einführer von Ethylalkohol landwirtschaftlichen Ursprungs mit
+einer jährlich gehandelten Menge von mehr als 1 000 Hektolitern haben
+eine Meldung nach Maßgabe des Anhangs III Nummer 11 Unterabsatz 1
+Buchstabe b der Durchführungsverordnung (EU) 2017/1185 abzugeben.
+
+
 ## § 6 Meldepflichtige, Gesamtmeldung
 
-(1) Unternehmen mit mehreren Betrieben haben für jeden Betrieb
-gesondert zu melden. Liegen mehrere Betriebe eines Unternehmens nach §
-2 Absatz 8 in einem Land, so kann für diese eine zusammengefasste
-Meldung abgegeben werden. Die in diese Meldung einbezogenen Standorte
-sind zu benennen.
+(1) Soweit auf diese Vorschrift Bezug genommen wird, haben Unternehmen
+mit mehreren Betrieben für jeden Betrieb gesondert zu melden. Liegen
+mehrere Betriebe eines Unternehmens nach § 2 Absatz 8 in einem Land,
+so kann für diese eine zusammengefasste Meldung abgegeben werden. Die
+in diese Meldung einbezogenen Standorte sind zu benennen.
 
 (2) Erstreckt sich die Tätigkeit eines Unternehmens auf mehrere der in
 den §§ 2 oder 4 genannten Betriebsarten, hat die Meldung des
@@ -964,24 +1125,53 @@ verwenden ist. Sofern das Unternehmen aus mehreren Betrieben besteht,
 können für einzelne Betriebe Identifikationskennzeichen erteilt
 werden.
 
-(5) Soweit keine nach § 2 Absatz 2 bis 8, § 3 Absatz 2 bis 4, § 4
-Absatz 2 bis 5 oder § 5 Abs. 1 oder 2 meldepflichtigen Tatbestände
-vorliegen, haben die jeweils Betroffenen dies nach Maßgabe des § 7 zu
-melden.
+(5) Soweit keine nach § 2 Absatz 2 bis 10, § 3 Absatz 2 bis 4, § 4
+Absatz 2 bis 5, § 5 Absatz 1 oder 2 oder § 5a Absatz 2 oder 3
+meldepflichtigen Tatbestände vorliegen, haben die jeweils Betroffenen
+dies nach Maßgabe des § 7 zu melden.
 
 
 ## § 7 Zeitpunkt der Meldungen
 
-Bei der
-zuständige              Stelle haben einzugehen:
+Bei der zuständigen Stelle haben einzugehen:
 
-1.  die nach den §§ 2 und 4 abzugebenden Halbjahres- und Jahresmeldungen
-    spätestens am 30. Tag nach Ablauf des jeweiligen Berichtszeitraums,
+1.  die abzugebenden Jahres- und Halbjahresmeldungen
+
+    a)  nach § 2 Absatz 2 Satz 1 Nummer 1, Absatz 3 Satz 1 Nummer 1, Absatz 4
+        Satz 1 Nummer 1, Absatz 5, Absatz 6, Absatz 7 Satz 1 Nummer 1, Absatz
+        8 Satz 1 Nummer 1 und Absatz 9 Satz 1 Nummer 1, § 4 Absatz 2 Satz 1
+        Nummer 1 Buchstabe a, Nummer 2 Buchstabe a, Absatz 3 Satz 1 Nummer 1,
+        Absatz 4 und Absatz 5 Satz 1 Nummer 1, § 5 Absatz 2 Satz 3 und § 5a
+        Absatz 1 spätestens am 30. Tag nach Ablauf des jeweiligen
+        Berichtszeitraums,
 
 
-2.  die nach den §§ 2 bis 4 und § 5 Absatz 1 und 2 abzugebenden
-    monatlichen Meldungen spätestens am 20. Tag nach Ablauf des
-    Berichtsmonats.
+    b)  nach § 2 Absatz 10 spätestens am 30. November eines Jahres für den
+        vorangegangenen Berichtszeitpunkt,
+
+
+    c)  nach § 3 Absatz 5 spätestens am 31. Mai eines Jahres für das
+        vorangegangene Wirtschaftsjahr,
+
+
+    d)  nach § 3 Absatz 6 und Absatz 7 Nummer 2 spätestens am 30. Oktober für
+        das vorangegangene Wirtschaftsjahr,
+
+
+
+
+
+2.  die nach § 2 Absatz 2 Satz 1 Nummer 2, Absatz 3 Satz 1 Nummer 2,
+    Absatz 4 Satz 1 Nummer 2, Absatz 7 Satz 1 Nummer 2, Absatz 8 Satz 1
+    Nummer 2 und Absatz 9 Satz 1 Nummer 2, § 3 Absatz 2 bis 4, § 4 Absatz
+    2 Satz 1 Nummer 1 Buchstabe b, Absatz 2 Satz 1 Nummer 2 Buchstabe b,
+    Absatz 3 Satz 1 Nummer 2 und Absatz 5 Satz 1 Nummer 2, § 5 Absatz 1
+    Satz 1 Nummer 1 bis 3 und Absatz 2 Satz 2 abzugebenden monatlichen
+    Meldungen spätestens am 20. Tag nach Ablauf des Berichtsmonats,
+
+
+3.  die nach § 3 Absatz 2a abzugebenden monatlichen Meldungen spätestens
+    am 20. Tag des laufenden Monats.
 
 
 
@@ -989,8 +1179,13 @@ zuständige              Stelle haben einzugehen:
 
 ## § 8 Form der Meldungen
 
-(1) Die Meldungen sind unter Beachtung von § 9 und der Anlage des
-Bundesdatenschutzgesetzes nach vorgeschriebenem Datensatzaufbau durch
+(1) Die Meldungen sind unter Beachtung von Artikel 24, 25 und 32 der
+Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden
+Fassung nach vorgeschriebenem Datensatzaufbau durch
 Datenfernübertragung an die zuständige Stelle zu übermitteln. Die
 zuständige Stelle legt den Aufbau des Datensatzes und den
 Übertragungsweg fest und veröffentlicht diese Angaben im
@@ -1005,11 +1200,11 @@ abzugeben, die von der zuständigen Stelle bereitgestellt werden.
 ## § 9 Aufzeichnungspflichten
 
 Die Meldepflichtigen haben die für die Meldungen nach § 2 Absatz 1, §
-3 Absatz 1, § 4 Absatz 1 und § 5 Absatz 1 oder 2 erforderlichen
-Aufzeichnungen fortlaufend zu führen. Die Aufzeichnungen sind für
-einen Zeitraum von drei Jahren ab dem Zeitpunkt des Erstellens der
-Aufzeichnung aufzubewahren. Längere Aufbewahrungsfristen nach anderen
-Vorschriften bleiben unberührt.
+3 Absatz 1, § 4 Absatz 1, § 5 Absatz 1 oder 2 und § 5a Absatz 1
+erforderlichen Aufzeichnungen fortlaufend zu führen. Die
+Aufzeichnungen sind für einen Zeitraum von drei Jahren ab dem
+Zeitpunkt des Erstellens der Aufzeichnung aufzubewahren. Längere
+Aufbewahrungsfristen nach anderen Vorschriften bleiben unberührt.
 
 
 ## § 10 Ordnungswidrigkeiten
@@ -1018,10 +1213,10 @@ Ordnungswidrig im Sinne des § 17 Abs. 1 Nr. 3 des Gesetzes über
 Meldungen über Marktordnungswaren handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  entgegen § 2 Absatz 1 oder § 3 Absatz 1 Nummer 1 oder § 4 Absatz 1
-    oder § 5 Absatz 1 Satz 1 oder Absatz 2 oder § 6 Absatz 5 eine Meldung
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht
-    oder
+1.  entgegen § 2 Absatz 1, § 3 Absatz 1 oder Absatz 2a, § 4 Absatz 1, § 5
+    Absatz 1 Satz 1 oder Absatz 2 oder § 5a Absatz 1 oder § 6 Absatz 5
+    eine Meldung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht oder
 
 
 2.  entgegen § 9 Satz 1 oder 2 eine Aufzeichnung nicht, nicht richtig oder
@@ -1033,25 +1228,18 @@ fahrlässig
 
 ## § 11 Übergangsregelung
 
-Abweichend von den Vorschriften dieser Verordnung gelten folgende
-Meldepflichten nach den Bestimmungen der Marktordnungswaren-
-Meldeverordnung in der bis zum Ablauf des 14. Dezember 2011 geltenden
-Fassung weiter:
+Abweichend von den Vorschriften dieser Verordnung
 
-1.  Meldepflichten nach § 2 Absatz 1 für vor dem 1. Juli 2012 endende
-    Meldezeiträume,
-
-
-2.  Meldepflichten nach § 3 Absatz 1 für vor dem 1. Oktober 2012 endende
-    Meldezeiträume,
+1.  gelten die Bestimmungen der Marktordnungswaren-Meldeverordnung in der
+    bis zum Ablauf des 15. Februar 2018 geltenden Fassung für Meldungen
+    nach § 2 Absatz 4 für vor dem 1. Juli 2018 endende Meldezeiträume
+    weiter und
 
 
-3.  Meldepflichten nach § 3 Absatz 3 für vor dem 1. Februar 2012 endende
-    Meldezeiträume,
-
-
-4.  Meldepflichten nach den §§ 4 und 5 für vor dem 1. Januar 2012 endende
-    Meldezeiträume.
+2.  sind die monatlichen Meldungen nach § 2 Absatz 9 Satz 1 Nummer 2
+    erstmals für den Meldezeitraum Juli 2018 abzugeben; mit der ersten
+    Monatsmeldung haben die Meldepflichtigen zusätzlich eine
+    zusammenfassende Meldung für das erste Halbjahr 2018 abzugeben.
 
 
 

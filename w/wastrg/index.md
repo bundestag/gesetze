@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.5.2007 I 962; 2008, 1980;
 
 Zuletzt geändert durch
-:   Art. 4 G v. 6.10.2011 I 1986
+:   Art. 2 Abs. 8 G v. 20.7.2017 I 2808; 2018 I 472
 
 
 ## Abschnitt 1 - Bundeswasserstraßen
@@ -100,13 +100,13 @@ Dritter bleiben unberührt.
 
 3.  bundeseigene Einrichtungen oder Gewässerteile, die der Erhaltung oder
     Wiederherstellung der Durchgängigkeit bei Stauanlagen, die von der
-    Wasser- und Schifffahrtsverwaltung des Bundes errichtet oder betrieben
-    werden, dienen.
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes errichtet oder
+    betrieben werden, dienen.
 
 
 
 
-(5) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(5) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 vorbehaltlich des § 2 ermächtigt, die Anlage 1 durch Rechtsverordnung
 mit Zustimmung des Bundesrates so zu ändern, dass dort aufgeführte
 Bundeswasserstraßen ganz oder teilweise zusammengefasst oder getrennt,
@@ -119,7 +119,7 @@ Bezeichnungen für sie festgesetzt oder geändert werden.
 die Eigenschaft als Bundeswasserstraße verlieren, bedarf es einer
 Vereinbarung zwischen dem Bund, dem Land und dem bisherigen oder dem
 künftigen Eigentümer. Den Übergang bewirkt ein Bundesgesetz; das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen den
 Übergang von Gewässern oder Gewässerstrecken mit nur örtlicher
 Bedeutung durch Rechtsverordnung zu bewirken.
@@ -165,9 +165,9 @@ Das Befahren der bundeseigenen Talsperren und Speicherbecken ist nur
 zulässig, soweit es durch Rechtsverordnung nach § 46 Nr. 2 gestattet
 wird. Das Befahren der Bundeswasserstraßen in Naturschutzgebieten und
 Nationalparken nach den §§ 23 und 24 des Bundesnaturschutzgesetzes
-kann durch Rechtsverordnung, die das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit erlässt, geregelt,
+kann durch Rechtsverordnung, die das Bundesministerium für Verkehr und
+digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit erlässt, geregelt,
 eingeschränkt oder untersagt werden, soweit dies zur Erreichung des
 Schutzzweckes erforderlich ist.
 
@@ -178,8 +178,9 @@ Durch Rechtsverordnung nach § 46 Nr. 3 kann der Gemeingebrauch
 geregelt, beschränkt oder untersagt werden, soweit es zur Erhaltung
 der Bundeswasserstraßen in einem für die Schifffahrt erforderlichen
 Zustand notwendig ist. Unter der gleichen Voraussetzung können die
-Behörden der Wasser- und Schifffahrtsverwaltung des Bundes durch
-Verfügung den Gemeingebrauch regeln, beschränken oder untersagen.
+Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+durch Verfügung den Gemeingebrauch regeln, beschränken oder
+untersagen.
 
 
 ## Abschnitt 4 - Unterhaltung der Bundeswasserstraßen und Betrieb der bundeseigenen Schifffahrtsanlagen
@@ -238,11 +239,11 @@ entstanden sind oder entstehen können, soweit die Schäden den Bestand
 der Ufergrundstücke gefährden.
 
 (5) Die Unterhaltung der Seewasserstraßen (§ 1 Abs. 1 Nr. 2) umfasst
-nur die Erhaltung der Schiffbarkeit der von der Wasser- und
+nur die Erhaltung der Schiffbarkeit der von der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes gekennzeichneten Schifffahrtswege,
 soweit es wirtschaftlich zu vertreten ist. Hierzu gehören auch
 Arbeiten und Maßnahmen zur Sicherung des Bestandes der Inseln
-Helgoland (ohne Düne), Wangerooge und Borkum. Absatz 1 Satz 2 und 3
+Helgoland (ohne Düne), Wangerooge und Borkum. Absatz 1 Satz 3 und 4
 ist anzuwenden.
 
 (6) Weitergehende Verpflichtungen zur Unterhaltung nach dem Nachtrag
@@ -282,7 +283,7 @@ werden können.
 
 (2) Die Anlieger haben das Bepflanzen der Ufer zu dulden, soweit es
 für die Unterhaltung der Bundeswasserstraße erforderlich ist. Die
-Anlieger können durch Verfügung der Behörden der Wasser- und
+Anlieger können durch Verfügung der Behörden der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes verpflichtet werden, die
 Ufergrundstücke in erforderlicher Breite so zu bewirtschaften, dass
 die Unterhaltung nicht beeinträchtigt wird; sie haben bei der Nutzung
@@ -347,7 +348,7 @@ auf den Hochwasserschutz vermieden werden.
 
 ### § 13 Planungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt im Einvernehmen mit der zuständigen Landesbehörde die Planung
 und Linienführung der Bundeswasserstraßen. Bei der Bestimmung der
 Linienführung sind die von dem Vorhaben berührten öffentlichen Belange
@@ -371,38 +372,35 @@ Bundeswasserstraßen bedarf der vorherigen Planfeststellung. Bei der
 Planfeststellung sind die von dem Vorhaben berührten öffentlichen und
 privaten Belange einschließlich der Umweltverträglichkeit im Rahmen
 der Abwägung zu berücksichtigen. Anhörungs- und
-Planfeststellungsbehörde ist die Wasser- und Schifffahrtsdirektion;
-sie ist auch Genehmigungsbehörde. Erstreckt sich das Vorhaben auf den
-Bereich mehrerer Wasser- und Schifffahrtsdirektionen, bestimmt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung eine der
-beteiligten Wasser- und Schifffahrtsdirektionen zur zuständigen
-Behörde. Für das Planfeststellungsverfahren gelten die §§ 72 bis 78
-des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
+Planfeststellungsbehörde ist die Generaldirektion Wasserstraßen und
+Schifffahrt; sie ist auch Genehmigungsbehörde. Für das
+Planfeststellungsverfahren gelten die §§ 72 bis 78 des
+Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
 
 (1a) und (1b) (weggefallen)
 
-(2) Ist das Planfeststellungsverfahren eingeleitet, kann die Wasser-
-und Schifffahrtsdirektion nach Zustimmung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung und nach Anhörung der zuständigen
-Landesbehörde und der anliegenden Gemeinden und Gemeindeverbände eine
-vorläufige Anordnung erlassen, in der Teilmaßnahmen zum Ausbau oder
-Neubau festgesetzt werden, wenn Gründe des Wohls der Allgemeinheit den
-alsbaldigen Beginn der Arbeiten erfordern und die nach § 74 Abs. 2 des
-Verwaltungsverfahrensgesetzes und nach § 14b Nr. 6 zu
-berücksichtigenden Interessen gewahrt werden. In der vorläufigen
-Anordnung sind die Auflagen zur Sicherung dieser Interessen und der
-Umfang der vorläufig zulässigen Bauarbeiten festzulegen. Die
-vorläufige Anordnung berechtigt nicht zu einer wesentlichen
-Veränderung des Wasserstandes oder der Strömungsverhältnisse. Sie ist
-den anliegenden Gemeinden und Gemeindeverbänden sowie den Beteiligten
-zuzustellen und ortsüblich öffentlich bekannt zu machen. Die
-vorläufige Anordnung tritt außer Kraft, wenn nicht binnen sechs
-Monaten nach ihrem Erlass mit den Arbeiten begonnen wird. Sie ersetzt
-nicht die Planfeststellung. Soweit die Teilmaßnahmen durch die
-Planfeststellung für unzulässig erklärt sind, ist der frühere Zustand
-wiederherzustellen. Der Betroffene ist zu entschädigen, soweit ein
-Schaden eingetreten ist, der durch die Wiederherstellung des früheren
-Zustandes nicht ausgeglichen wird.
+(2) Ist das Planfeststellungsverfahren eingeleitet, kann die
+Generaldirektion Wasserstraßen und Schifffahrt nach Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur und nach
+Anhörung der zuständigen Landesbehörde und der anliegenden Gemeinden
+und Gemeindeverbände eine vorläufige Anordnung erlassen, in der
+Teilmaßnahmen zum Ausbau oder Neubau festgesetzt werden, wenn Gründe
+des Wohls der Allgemeinheit den alsbaldigen Beginn der Arbeiten
+erfordern und die nach § 74 Abs. 2 des Verwaltungsverfahrensgesetzes
+und nach § 14b Nummer 1 zu berücksichtigenden Interessen gewahrt
+werden. In der vorläufigen Anordnung sind die Auflagen zur Sicherung
+dieser Interessen und der Umfang der vorläufig zulässigen Bauarbeiten
+festzulegen. Die vorläufige Anordnung berechtigt nicht zu einer
+wesentlichen Veränderung des Wasserstandes oder der
+Strömungsverhältnisse. Sie ist den anliegenden Gemeinden und
+Gemeindeverbänden sowie den Beteiligten zuzustellen und ortsüblich
+öffentlich bekannt zu machen. Die vorläufige Anordnung tritt außer
+Kraft, wenn nicht binnen sechs Monaten nach ihrem Erlass mit den
+Arbeiten begonnen wird. Sie ersetzt nicht die Planfeststellung. Soweit
+die Teilmaßnahmen durch die Planfeststellung für unzulässig erklärt
+sind, ist der frühere Zustand wiederherzustellen. Der Betroffene ist
+zu entschädigen, soweit ein Schaden eingetreten ist, der durch die
+Wiederherstellung des früheren Zustandes nicht ausgeglichen wird.
 
 (3) Soweit das Vorhaben Belange der Landeskultur oder der
 Wasserwirtschaft berührt, bedürfen die Feststellung des Planes, die
@@ -417,70 +415,13 @@ zu entscheiden.
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
 
-1.  Die Auslegung nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes
-    erfolgt in den Gemeinden, in denen sich das Vorhaben voraussichtlich
-    auswirkt.
+1.  Die Anhörungsbehörde kann auf eine Erörterung verzichten.
 
 
-2.  Die Anhörungsbehörde benachrichtigt innerhalb der Frist des § 73 Abs.
-    2 des Verwaltungsverfahrensgesetzes die vom Bund oder Land anerkannten
-    Naturschutzvereinigungen sowie sonstige Vereinigungen, soweit diese
-    sich für den Umweltschutz einsetzen und nach in anderen gesetzlichen
-    Vorschriften zur Einlegung von Rechtsbehelfen in Umweltangelegenheiten
-    vorgesehenen Verfahren anerkannt sind, (Vereinigungen) von der
-    Auslegung des Plans und gibt ihnen Gelegenheit zur Stellungnahme. Die
-    Benachrichtigung erfolgt durch die ortsübliche Bekanntmachung der
-    Auslegung nach § 73 Abs. 5 Satz 1 des Verwaltungsverfahrensgesetzes in
-    den Gemeinden nach Nummer 1. Unbeschadet davon bleibt die Beteiligung
-    anderer Vereinigungen nach den allgemeinen Vorschriften.
-
-
-3.  Für Vereinigungen gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes
-    entsprechend. § 73 Abs. 6 des Verwaltungsverfahrensgesetzes gilt
-    entsprechend, wenn die Vereinigungen fristgerecht Stellung genommen
-    haben. Sie sind von dem Erörterungstermin zu benachrichtigen.
-
-
-4.  Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt
-    sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung
-    in der Gemeinde mit dem Hinweis nach § 73 Abs. 5 Satz 2 des
-    Verwaltungsverfahrensgesetzes benachrichtigt werden.
-
-
-5.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet eine
-    Erörterung statt, so hat die Anhörungsbehörde die Erörterung innerhalb
-    von drei Monaten nach Ablauf der Einwendungsfrist abzuschließen.
-
-
-6.  Soll ein ausgelegter Plan geändert werden, so sind auch Vereinigungen
-    entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu
-    beteiligen. Für Vereinigungen, die sich nicht in der sich aus Nummer 3
-    in Verbindung mit § 73 Abs. 4 Satz 1 des Verwaltungsverfahrensgesetzes
-    ergebenden Frist geäußert haben, und im Falle des § 73 Abs. 8 Satz 2
-    des Verwaltungsverfahrensgesetzes erfolgt die Benachrichtigung von der
-    Planänderung und der Frist zur Stellungnahme in entsprechender
-    Anwendung der Nummer 2 Satz 2. Im Regelfall kann von der Erörterung im
-    Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9
-    Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    abgesehen werden.
-
-
-7.  Einwendungen gegen den Plan oder – im Falle des § 73 Abs. 8 des
-    Verwaltungsverfahrensgesetzes – dessen Änderung sind nach Ablauf der
-    Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der
-    Vereinigungen sind nach Ablauf der Äußerungsfrist nach den Nummern 3
-    und 6 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in
-    der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-    Einwendungs- oder Stellungnahmefrist sowie in der Benachrichtigung der
-    Vereinigungen hinzuweisen. Abweichend von § 73 Abs. 3a Satz 2 des
-    Verwaltungsverfahrensgesetzes können Stellungnahmen der Behörden, die
-    nach Ablauf der Frist des § 73 Abs. 3a Satz 1 des
-    Verwaltungsverfahrensgesetzes eingehen, auch noch nach Fristablauf
-    berücksichtigt werden; sie sind stets zu berücksichtigen, wenn später
-    von einer Behörde vorgebrachte öffentliche Belange der
-    Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
-    hätten bekannt sein müssen oder für die Rechtmäßigkeit der
-    Entscheidung von Bedeutung sind.
+2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 
@@ -491,37 +432,7 @@ mit folgenden Maßgaben:
 Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
 Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
-1.  § 74 Abs. 6 des Verwaltungsverfahrensgesetzes – auch in Verbindung mit
-    Nummer 2 – gilt nur, wenn zusätzlich zu den dort genannten
-    Voraussetzungen für das Vorhaben nach dem Gesetz über die
-    Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung
-    durchzuführen ist.
-
-
-2.  Ergänzend zu § 74 Abs. 6 Satz 1 Nr. 1 des
-    Verwaltungsverfahrensgesetzes kann eine Plangenehmigung auch dann
-    erteilt werden, wenn Rechte anderer nur unwesentlich beeinträchtigt
-    werden.
-
-
-3.  Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung.
-
-
-4.  Fälle unwesentlicher Bedeutung im Sinne des § 74 Abs. 7 des
-    Verwaltungsverfahrensgesetzes liegen nur vor, wenn es sich bei dem
-    Vorhaben zusätzlich nicht um ein Vorhaben handelt, für das nach dem
-    Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung durchzuführen ist.
-
-
-5.  Planfeststellungsbeschluss und Plangenehmigung sind dem Träger des
-    Vorhabens, den Vereinigungen, über deren Einwendungen und
-    Stellungnahmen entschieden worden ist, und denjenigen, über deren
-    Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
-    zuzustellen.
-
-
-6.  Die Planfeststellungsbehörde hat dem Träger des Vorhabens Vorkehrungen
+1.  Die Planfeststellungsbehörde hat dem Träger des Vorhabens Vorkehrungen
     oder die Errichtung und Unterhaltung von Anlagen auch dann
     aufzuerlegen, wenn erhebliche Nachteile dadurch zu erwarten sind, dass
 
@@ -535,16 +446,16 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
 
 
 
-7.  Die Regelung einer Entschädigung bleibt dem Entschädigungsverfahren
+2.  Die Regelung einer Entschädigung bleibt dem Entschädigungsverfahren
     vorbehalten.
 
 
-8.  Müssen vorhandene Anlagen infolge des Planfeststellungsbeschlusses
+3.  Müssen vorhandene Anlagen infolge des Planfeststellungsbeschlusses
     oder der Plangenehmigung ersetzt oder geändert werden, hat der Träger
     des Vorhabens die Mehrkosten der Unterhaltung zu tragen.
 
 
-9.  Zur Sicherung des Beweises von Tatsachen, die für den
+4.  Zur Sicherung des Beweises von Tatsachen, die für den
     Planfeststellungsbeschluss oder eine Plangenehmigung von Bedeutung
     sein können, besonders zur Feststellung des Zustandes einer Sache,
     kann die Planfeststellungsbehörde – auch vor Erlass des
@@ -554,18 +465,18 @@ Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
     erschwert werden würde.
 
 
-10. Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen
+5.  Für Anträge auf Fortsetzung des Verfahrens bei vorbehaltenen
     Entscheidungen ist § 75 Abs. 3 des Verwaltungsverfahrensgesetzes
     anzuwenden.
 
 
-11. Die Planfeststellung ist zu versagen, wenn von dem Ausbau oder Neubau
+6.  Die Planfeststellung ist zu versagen, wenn von dem Ausbau oder Neubau
 
     a)  eine Beeinträchtigung des Wohls der Allgemeinheit zu erwarten ist, die
         nicht durch Auflagen verhütet oder ausgeglichen werden kann, oder
 
 
-    b)  nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 6
+    b)  nachteilige Wirkungen auf das Recht eines anderen oder der in Nummer 1
         bezeichneten Art zu erwarten sind, die nicht durch Auflagen verhütet
         oder ausgeglichen werden können, der Berechtigte fristgemäß
         Einwendungen erhoben hat und der Ausbau oder Neubau nicht dem Wohl der
@@ -599,11 +510,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Planfeststellungsbeschluss entsprechend anzuwenden.
 
 
-4.  Als Beginn der Durchführung des Plans gilt jede erstmals nach außen
-    erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur
-    plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung
-    der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
-    nicht.
+4.  (weggefallen)
 
 
 
@@ -616,8 +523,8 @@ Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
 Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
 Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
-Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
 
@@ -682,15 +589,7 @@ Begründung seiner Klage dienenden Tatsachen und Beweismittel
 anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt
 entsprechend.
 
-(6) Mängel bei der Abwägung der von dem Vorhaben berührten
-öffentlichen und privaten Belange sind nur erheblich, wenn sie
-offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
-Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
-Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
-durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
-bleiben unberührt.
+(6) (weggefallen)
 
 
 ### § 15 Veränderungssperre, Vorkaufsrecht
@@ -705,7 +604,7 @@ zulässiger Weise vorher begonnen worden sind, Unterhaltungsarbeiten
 und die Fortführung einer bisher ausgeübten Nutzung werden davon nicht
 berührt. Unzulässige Veränderungen bleiben bei der Anordnung von
 Vorkehrungen und Anlagen (§ 74 Abs. 2 des
-Verwaltungsverfahrensgesetzes, § 14b Nr. 6) und im
+Verwaltungsverfahrensgesetzes, § 14b Nummer 1) und im
 Entschädigungsverfahren unberücksichtigt.
 
 (2) Dauert die Veränderungssperre über vier Jahre, können die
@@ -714,10 +613,6 @@ Entschädigung verlangen.
 
 (3) In den Fällen des Absatzes 1 Satz 1 steht dem Bund an den
 betroffenen Flächen ein Vorkaufsrecht zu.
-
-
-### (XXXX) §§ 17 bis 19 (weggefallen)
-
 
 
 ### § 16 Besondere Pflichten im Interesse des Vorhabens
@@ -742,6 +637,10 @@ Entschädigung verlangen, wenn ihm durch eine Maßnahme nach Absatz 1
 unmittelbare Vermögensnachteile entstehen.
 
 (4) § 11 Abs. 4 gilt entsprechend.
+
+
+### (XXXX) §§ 17 bis 19 (weggefallen)
+
 
 
 ### § 20 Vorzeitige Besitzeinweisung
@@ -810,13 +709,13 @@ Besitzeinweisungsbeschlusses gestellt und begründet werden.
 
 (1) Dient der Ausbau oder der Neubau dem Wohl der Allgemeinheit und
 ist der festgestellte Plan unanfechtbar, sind Ansprüche wegen
-nachteiliger Wirkungen gegen den Inhaber des festgestellten Plans,die
+nachteiliger Wirkungen gegen den Inhaber des festgestellten Plans, die
 auf die Unterlassung oder Beseitigung der Aus- oder Neubaumaßnahme,
 auf die Herstellung von Schutzeinrichtungen oder auf Schadensersatz
 gerichtet sind, ausgeschlossen. Hierdurch werden
 Schadensersatzansprüche wegen nachteiliger Wirkungen nicht
-ausgeschlossen, dia darauf beruhen, dass der Inhaber des
-festgesteöllten Plans angeordnete Auflagen nicht erfüllt hat.
+ausgeschlossen, die darauf beruhen, dass der Inhaber des
+festgestellten Plans angeordnete Auflagen nicht erfüllt hat.
 
 (2) Absatz 1 Satz 1 gilt nicht für vertragliche Ansprüche.
 
@@ -837,13 +736,13 @@ festgesteöllten Plans angeordnete Auflagen nicht erfüllt hat.
 
 ### § 24 Strompolizei
 
-(1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
-haben die Aufgabe, zur Gefahrenabwehr Maßnahmen zu treffen, die nötig
-sind, um die Bundeswasserstraßen in einem für die Schifffahrt
+(1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes haben die Aufgabe, zur Gefahrenabwehr Maßnahmen zu treffen, die
+nötig sind, um die Bundeswasserstraßen in einem für die Schifffahrt
 erforderlichen Zustand zu erhalten (Strompolizei).
 
 (2) Zur strompolizeilichen Überwachung der Bundeswasserstraßen dürfen
-Beauftragte der Wasser- und Schifffahrtsverwaltung Grundstücke,
+Beauftragte der Wasserstraßen- und Schifffahrtsverwaltung Grundstücke,
 Anlagen und Einrichtungen sowie Wasserfahrzeuge betreten. Das
 Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des
 Grundgesetzes) wird insoweit eingeschränkt.
@@ -878,17 +777,18 @@ allein verantwortlich anerkannt worden ist.
 
 (1) Zur Abwehr einer unmittelbar bevorstehenden Gefahr oder zur
 Beseitigung einer bereits eingetretenen Störung können die Behörden
-der Wasser- und Schifffahrtsverwaltung des Bundes strompolizeiliche
-Maßnahmen auch gegen andere als die in § 25 bezeichneten Personen
-treffen und sie besonders zur Hilfeleistung anhalten, wenn
+der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
+strompolizeiliche Maßnahmen auch gegen andere als die in § 25
+bezeichneten Personen treffen und sie besonders zur Hilfeleistung
+anhalten, wenn
 
 a)  nach § 25 verantwortliche Personen nicht in Anspruch genommen werden
     können,
 
 
-b)  Maßnahmen durch die Behörden der Wasser- und Schifffahrtsverwaltung
-    des Bundes selbst oder durch beauftragte Dritte nicht möglich oder
-    ausreichend sind und
+b)  Maßnahmen durch die Behörden der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes selbst oder durch beauftragte Dritte
+    nicht möglich oder ausreichend sind und
 
 
 c)  die heranzuziehenden Personen ohne erhebliche eigene Gefahr oder
@@ -907,13 +807,13 @@ Beseitigung der Gefahr oder der Störung getroffen werden können.
 
 ### § 27 Strompolizeiverordnungen
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Rechtsverordnungen zur Gefahrenabwehr nach § 24 Abs. 1
 (Strompolizeiverordnungen) zu erlassen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
-durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die Wasser-
-und Schifffahrtsdirektionen übertragen.
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die
+Generaldirektion Wasserstraßen und Schifffahrt übertragen.
 
 (3) Strompolizeiverordnungen müssen in ihrem Inhalt bestimmt sein.
 
@@ -924,22 +824,22 @@ Aufhebung für ihren Erlass zuständige Behörde.
 
 ### § 28 Strompolizeiliche Verfügungen
 
-(1) Die Wasser- und Schifffahrtsämter können zur Erfüllung der
+(1) Die Wasserstraßen- und Schifffahrtsämter können zur Erfüllung der
 Aufgaben nach § 24 Abs. 1 Anordnungen erlassen, die an bestimmte
 Personen oder an einen bestimmten Personenkreis gerichtet sind und ein
 Gebot oder Verbot enthalten (Strompolizeiliche Verfügungen).
 
-(2) Strompolizeiliche Verfügungen können mündlich, schriftlich oder
-durch Zeichen erlassen werden. Sie müssen inhaltlich hinreichend
-bestimmt sein. Schriftlich erlassene Verfügungen sind zu begründen.
+(2) Strompolizeiliche Verfügungen können mündlich, schriftlich,
+elektronisch oder durch Zeichen erlassen werden. Sie müssen inhaltlich
+hinreichend bestimmt sein.
 
 (3) Ist der nach § 25 Verantwortliche nicht oder nicht rechtzeitig zu
-erreichen, kann das Wasser- und Schifffahrtsamt die notwendige
+erreichen, kann das Wasserstraßen- und Schifffahrtsamt die notwendige
 Maßnahme ausführen. Der Verantwortliche ist von der Maßnahme
 unverzüglich zu unterrichten. Entstehen durch die Maßnahme Kosten,
 können sie ihm auferlegt werden.
 
-(4) Die Vorschriften der §§ 486 bis 487e des Handelsgesetzbuchs sowie
+(4) Die Vorschriften der §§ 611 bis 617 des Handelsgesetzbuchs sowie
 der §§ 4 bis 5m des Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
@@ -947,13 +847,13 @@ der §§ 4 bis 5m des Binnenschifffahrtsgesetzes bleiben unberührt.
 
 (1) Eine strompolizeiliche Verfügung darf nicht zu einem Schaden
 führen, der zu dem beabsichtigten Erfolg erkennbar außer Verhältnis
-steht. Die Wasser- und Schifffahrtsämter sollen das Mittel zur Abwehr
-der Gefahr oder zur Beseitigung der Störung bestimmen, wenn dieses für
-den Betroffenen nach den Umständen nicht ohne weiteres erkennbar ist.
-Kommen für die Erfüllung einer Aufgabe mehrere Maßnahmen in Betracht,
-haben die Wasser- und Schifffahrtsämter nach pflichtgemäßem Ermessen
-die Maßnahmen zu wählen, die den einzelnen und die Allgemeinheit am
-wenigsten beeinträchtigen.
+steht. Die Wasserstraßen- und Schifffahrtsämter sollen das Mittel zur
+Abwehr der Gefahr oder zur Beseitigung der Störung bestimmen, wenn
+dieses für den Betroffenen nach den Umständen nicht ohne weiteres
+erkennbar ist. Kommen für die Erfüllung einer Aufgabe mehrere
+Maßnahmen in Betracht, haben die Wasserstraßen- und Schifffahrtsämter
+nach pflichtgemäßem Ermessen die Maßnahmen zu wählen, die den
+einzelnen und die Allgemeinheit am wenigsten beeinträchtigen.
 
 (2) Dem Betroffenen ist auf Antrag zu gestatten, an Stelle eines durch
 strompolizeiliche Verfügung angedrohten oder festgesetzten Mittels ein
@@ -972,23 +872,25 @@ Bundeswasserstraße oder die Sicherheit oder Leichtigkeit des Verkehrs
 auf einer Bundeswasserstraße durch in der Bundeswasserstraße hilflos
 treibende, festgekommene, gestrandete oder gesunkene Fahrzeuge oder
 schwimmende Anlagen oder durch andere treibende oder auf Grund
-geratene Gegenstände beeinträchtigt, können die Behörden der Wasser-
-und Schifffahrtsverwaltung des Bundes das Hindernis beseitigen, wenn
-ein sofortiges Einschreiten erforderlich ist und wenn ein nach § 25
-Verantwortlicher nicht oder nicht rechtzeitig herangezogen werden kann
-oder wenn zu besorgen ist, dass dieser Verantwortliche das Hindernis
-nicht oder nicht wirksam beseitigen wird.
+geratene Gegenstände beeinträchtigt, können die Behörden der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes das Hindernis
+beseitigen, wenn ein sofortiges Einschreiten erforderlich ist und wenn
+ein nach § 25 Verantwortlicher nicht oder nicht rechtzeitig
+herangezogen werden kann oder wenn zu besorgen ist, dass dieser
+Verantwortliche das Hindernis nicht oder nicht wirksam beseitigen
+wird.
 
-(2) Hat das Wasser- und Schifffahrtsamt erkennbar mit der Beseitigung
-begonnen, so dürfen ohne seine Zustimmung das Hindernis nicht mehr
-beseitigt und Gegenstände nicht mehr von diesem fortgeschafft werden.
-Soweit möglich, sind die nach § 25 Verantwortlichen und die Eigentümer
-der beseitigten Gegenstände darüber unverzüglich zu unterrichten.
+(2) Hat das Wasserstraßen- und Schifffahrtsamt erkennbar mit der
+Beseitigung begonnen, so dürfen ohne seine Zustimmung das Hindernis
+nicht mehr beseitigt und Gegenstände nicht mehr von diesem
+fortgeschafft werden. Soweit möglich, sind die nach § 25
+Verantwortlichen und die Eigentümer der beseitigten Gegenstände
+darüber unverzüglich zu unterrichten.
 
 (3) Ist das Hindernis beseitigt, ist den nach § 25 Verantwortlichen,
 den Eigentümern der beseitigten Gegenstände und den Inhabern von
 Rechten an den Gegenständen, soweit sie bekannt und alsbald zu
-erreichen sind, von der Wasser- und Schiffahrtsdirektion
+erreichen sind, von der Generaldirektion Wasserstraßen und Schifffahrt
 anheimzugeben, binnen einer von ihr zu bestimmenden Frist zur
 Vermeidung der Zwangsvollstreckung die Kosten der Beseitigung zu
 erstatten oder für sie Sicherheit zu leisten.
@@ -998,9 +900,10 @@ nicht Sicherheit für sie geleistet wird, sind sie aus den beseitigten
 Gegenständen zu zahlen. Absatz 12 bleibt unberührt.
 
 (5) Die Vollstreckung in die Gegenstände erfolgt im Wege des
-Verwaltungszwangsverfahrens. Vollstreckungsbehörde ist die Wasser- und
-Schiffahrtsdirektion. Vollstreckungsschuldner sind die Eigentümer der
-beseitigten Gegenstände, die als solche jedoch nur zur Duldung der
+Verwaltungszwangsverfahrens. Vollstreckungsbehörde ist die
+Generaldirektion Wasserstraßen und Schifffahrt.
+Vollstreckungsschuldner sind die Eigentümer der beseitigten
+Gegenstände, die als solche jedoch nur zur Duldung der
 Zwangsvollstreckung in die Gegenstände verpflichtet sind. Der Anspruch
 des Bundes wegen der Kosten der Beseitigung und der Verwertung geht
 allen anderen Rechten an dem Erlös vor.
@@ -1011,10 +914,10 @@ den in Absatz 3 genannten Personen zur Abwendung der
 Zwangsvollstreckung gesetzt ist.
 
 (7) Beseitigte Gegenstände, die nicht der Zwangsvollstreckung in das
-unbewegliche Vermögen unterliegen, kann die Wasser- und
-Schifffahrtsdirektion auch öffentlich versteigern lassen. Die §§ 979
-und 980 des Bürgerlichen Gesetzbuches gelten entsprechend. Aus dem
-Erlös sind die Kosten der Beseitigung und der Verwertung vorweg zu
+unbewegliche Vermögen unterliegen, kann die Generaldirektion
+Wasserstraßen und Schifffahrt auch öffentlich versteigern lassen. Die
+§§ 979 und 980 des Bürgerlichen Gesetzbuches gelten entsprechend. Aus
+dem Erlös sind die Kosten der Beseitigung und der Verwertung vorweg zu
 entnehmen.
 
 (8) Ein Überschuss bei der Verwertung der beseitigten Gegenstände ist
@@ -1023,9 +926,9 @@ unter Verzicht auf das Recht der Rücknahme zu hinterlegen.
 (9) Die Absätze 2 bis 7 gelten nicht für die Habe der Besatzung, für
 das Reisegut der Reisenden und die Post.
 
-(10) Verfahren die Behörden der Wasser- und Schifffahrtsverwaltung des
-Bundes nach den Vorschriften der Absätze 2 bis 8, ist § 28 Abs. 3
-Sätze 2 und 3 nicht anzuwenden.
+(10) Verfahren die Behörden der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes nach den Vorschriften der Absätze 2
+bis 8, ist § 28 Abs. 3 Sätze 2 und 3 nicht anzuwenden.
 
 (11) (weggefallen)
 
@@ -1045,14 +948,14 @@ Sätze 2 und 3 nicht anzuwenden.
 
 
 Mehrere Verpflichtete haften als Gesamtschuldner. Die Vorschriften der
-§§ 486 bis 487e des Handelsgesetzbuchs sowie der §§ 4 bis 5m des
+§§ 611 bis 617 des Handelsgesetzbuchs sowie der §§ 4 bis 5m des
 Binnenschifffahrtsgesetzes bleiben unberührt.
 
 
 ### § 31 Strom- und schifffahrtspolizeiliche Genehmigung
 
-(1) Einer strom- und schifffahrtspolizeilichen Genehmigung des Wasser-
-und Schiffahrtsamtes bedürfen
+(1) Einer strom- und schifffahrtspolizeilichen Genehmigung des
+Wasserstraßen- und Schifffahrtsamtes bedürfen
 
 1.  Benutzungen (§ 9 des Wasserhaushaltsgesetzes) einer
     Bundeswasserstraße,
@@ -1069,21 +972,13 @@ wenn durch die beabsichtigte Maßnahme eine Beeinträchtigung des für
 die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße oder
 der Sicherheit und Leichtigkeit des Verkehrs zu erwarten ist.
 
-(1a) Anlagen, die am 31. Dezember 1994 im Bereich der Erweiterung des
-Küstenmeeres nach dem Beschluss der Bundesregierung vom 19. Oktober
-1994 (BGBl. I S. 3428) vorhanden sind, sind dem Wasser- und
-Schifffahrtsamt anzuzeigen. Sie bedürfen keiner strom- und
-schifffahrtspolizeilichen Genehmigung, wenn das Wasser- und
-Schifffahrtsamt binnen eines Monates nach Eingang der Anzeige nichts
-anderes mitteilt. Ist eine strom- und schifffahrtspolizeiliche
-Genehmigung erforderlich, ersetzt die Anzeige den Antrag auf Erteilung
-dieser Genehmigung.
+(1a) (weggefallen)
 
 (2) Wer eine Bundeswasserstraße benutzen oder Anlagen in, über oder
 unter einer solchen Wasserstraße oder an ihrem Ufer errichten,
-verändern oder betreiben will, hat dies dem Wasser- und
+verändern oder betreiben will, hat dies dem Wasserstraßen- und
 Schifffahrtsamt anzuzeigen. Die Maßnahme bedarf keiner strom- und
-schifffahrtspolizeilichen Genehmigung, wenn das Wasser- und
+schifffahrtspolizeilichen Genehmigung, wenn das Wasserstraßen- und
 Schifffahrtsamt binnen eines Monats nach Eingang der Anzeige nichts
 anderes mitteilt. Telekommunikationslinien im Sinne des § 3 Nr. 26 des
 Telekommunikationsgesetzes sind anzeigepflichtig, aber
@@ -1129,7 +1024,7 @@ erforderlichen Verwaltungsakte.
 
 ### § 32 Rücknahme und Widerruf der strom- und schifffahrtspolizeilichen Genehmigung
 
-(1) Das Wasser- und Schifffahrtsamt kann die strom- und
+(1) Das Wasserstraßen- und Schifffahrtsamt kann die strom- und
 schifffahrtspolizeiliche Genehmigung ganz oder teilweise widerrufen,
 wenn es zur Erhaltung der Bundeswasserstraße in einem für die
 Schifffahrt erforderlichen Zustand oder zur Abwehr von Gefahren für
@@ -1140,13 +1035,13 @@ teilweise widerrufen werden kann, ist auch bei gänzlichem oder
 teilweisem Widerruf der strom- und schifffahrtspolizeilichen
 Genehmigung Entschädigung zu leisten.
 
-(2) Das Wasser- und Schifffahrtsamt kann die Genehmigung ferner ohne
-Entschädigung ganz oder teilweise zurücknehmen, wenn der Unternehmer
-den Zweck der Maßnahme so geändert hat, dass er mit den
+(2) Das Wasserstraßen- und Schifffahrtsamt kann die Genehmigung ferner
+ohne Entschädigung ganz oder teilweise zurücknehmen, wenn der
+Unternehmer den Zweck der Maßnahme so geändert hat, dass er mit den
 Antragsunterlagen nicht mehr übereinstimmt.
 
-(3) Das Wasser- und Schifffahrtsamt kann die Genehmigung ferner ohne
-Entschädigung widerrufen, wenn der Unternehmer
+(3) Das Wasserstraßen- und Schifffahrtsamt kann die Genehmigung ferner
+ohne Entschädigung widerrufen, wenn der Unternehmer
 
 1.  die Benutzung über den Rahmen der Genehmigung erheblich ausgedehnt
     hat,
@@ -1162,13 +1057,13 @@ Entschädigung widerrufen, wenn der Unternehmer
 
 ### § 33 Besondere Pflichten im Interesse der Überwachung
 
-(1) Überprüft das Wasser- und Schifffahrtsamt, ob die Bedingungen und
-Auflagen der strom- und schifffahrtspolizeilichen Genehmigung erfüllt
-werden, hat der Inhaber der Genehmigung das Betreten von Grundstücken
-zu gestatten, die Anlagen und Einrichtungen zugänglich zu machen,
-Auskünfte zu erteilen, die erforderlichen Arbeitskräfte, Unterlagen
-und Werkzeuge zur Verfügung zu stellen und technische Ermittlungen und
-Prüfungen zu dulden.
+(1) Überprüft das Wasserstraßen- und Schifffahrtsamt, ob die
+Bedingungen und Auflagen der strom- und schifffahrtspolizeilichen
+Genehmigung erfüllt werden, hat der Inhaber der Genehmigung das
+Betreten von Grundstücken zu gestatten, die Anlagen und Einrichtungen
+zugänglich zu machen, Auskünfte zu erteilen, die erforderlichen
+Arbeitskräfte, Unterlagen und Werkzeuge zur Verfügung zu stellen und
+technische Ermittlungen und Prüfungen zu dulden.
 
 (2) Werden besondere Überwachungsmaßnahmen, vor allem fachtechnische
 Untersuchungen, erforderlich, können dem Inhaber der strom- und
@@ -1205,15 +1100,15 @@ Bundes.
 (2) Rechtliche Verpflichtungen Dritter, bestimmte Schifffahrtszeichen
 zu setzen oder zu betreiben, bleiben unberührt. Wer ein
 Schifffahrtszeichen setzen oder betreiben will, ohne dazu rechtlich
-verpflichtet zu sein, bedarf einer Genehmigung der Wasser- und
-Schifffahrtsdirektion. Die Wasser- und Schifffahrtsdirektion kann die
-Zuständigkeit zur Erteilung der Genehmigung auf das Wasser- und
-Schifffahrtsamt übertragen. Die Genehmigung kann unter Bedingungen und
-Auflagen erteilt werden, die eine Beeinträchtigung der Sicherheit und
-Leichtigkeit des Verkehrs oder des für die Schifffahrt erforderlichen
-Zustandes der Bundeswasserstraße verhüten oder ausgleichen. Die
-Genehmigung kann befristet werden. Für die Überwachung gilt § 33
-entsprechend.
+verpflichtet zu sein, bedarf einer Genehmigung der Generaldirektion
+Wasserstraßen und Schifffahrt. Die Generaldirektion Wasserstraßen und
+Schifffahrt kann die Zuständigkeit zur Erteilung der Genehmigung auf
+das Wasserstraßen- und Schifffahrtsamt übertragen. Die Genehmigung
+kann unter Bedingungen und Auflagen erteilt werden, die eine
+Beeinträchtigung der Sicherheit und Leichtigkeit des Verkehrs oder des
+für die Schifffahrt erforderlichen Zustandes der Bundeswasserstraße
+verhüten oder ausgleichen. Die Genehmigung kann befristet werden. Für
+die Überwachung gilt § 33 entsprechend.
 
 (3) Wer auf Grund einer rechtlichen Verpflichtung oder einer
 Genehmigung ein Schifffahrtszeichen setzt oder betreibt, nimmt damit
@@ -1231,21 +1126,21 @@ Schifffahrtszeichen gelten § 7 Abs. 3 und § 16 entsprechend.
 
 (6) Für die Ablieferung besitzlos gewordener bundeseigener
 Schifffahrtszeichen einschließlich Zubehör und Anlageteile sowie
-bundeseigener meereskundlicher Messgeräte setzt das zuständige Wasser-
-und Schifffahrtsamt auf Antrag des Bergers dieser Gegenstände einen
-von dem Amt zu erstattenden Bergelohn nach Maßgabe der vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+bundeseigener meereskundlicher Messgeräte setzt das zuständige
+Wasserstraßen- und Schifffahrtsamt auf Antrag des Bergers dieser
+Gegenstände einen von dem Amt zu erstattenden Bergelohn nach Maßgabe
+der vom Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Wirtschaft und Technologie festgelegten
+Bundesministerium für Wirtschaft und Energie festgelegten
 Vergütungssätze fest.
 
 
 ### § 35 Wasserstands- und Hochwassermeldedienst, Eisbekämpfung und Feuerschutz
 
-(1) Die Wasser- und Schifffahrtsverwaltung des Bundes unterhält neben
-der ihr nach § 8 obliegenden Unterhaltung, soweit möglich und
+(1) Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes unterhält
+neben der ihr nach § 8 obliegenden Unterhaltung, soweit möglich und
 zumutbar, einen Wasserstands- und Hochwassermeldedienst im Benehmen
-mit den Ländern, um zu einer rechtzeitigen und zuverlässigen
+mit den Ländern, auch um zu einer rechtzeitigen und zuverlässigen
 Hochwasserwarnung und -vorhersage beizutragen. Sie soll, unbeschadet
 anderer besonderer Verpflichtungen, für die Eisbekämpfung auf den
 Bundeswasserstraßen sorgen, soweit sie wirtschaftlich zu vertreten
@@ -1300,11 +1195,11 @@ das Grundstück zum Verkehrswert erwirbt.
 
 ### § 37 Einigung, Festsetzungsbescheid
 
-(1) Zuständig für die Festsetzung der Entschädigung ist die Wasser-
-und Schifffahrtsdirektion. Sie hat auf eine gütliche Einigung
-hinzuwirken. Kommt vor Festsetzung der Entschädigung eine Einigung
-zustande, ist eine Niederschrift aufzunehmen. Die Niederschrift
-enthält:
+(1) Zuständig für die Festsetzung der Entschädigung ist die
+Generaldirektion Wasserstraßen und Schifffahrt. Sie hat auf eine
+gütliche Einigung hinzuwirken. Kommt vor Festsetzung der Entschädigung
+eine Einigung zustande, ist eine Niederschrift aufzunehmen. Die
+Niederschrift enthält:
 
 1.  Ort und Zeit der Verhandlung;
 
@@ -1322,8 +1217,8 @@ Die Niederschrift ist den Beteiligten vorzulesen oder zur Durchsicht
 vorzulegen. In der Niederschrift ist zu vermerken, dass es geschehen
 und die Genehmigung erteilt ist.
 
-(2) Kommt keine Einigung zustande, setzt die Wasser- und
-Schifffahrtsdirektion die Entschädigung fest. In den
+(2) Kommt keine Einigung zustande, setzt die Generaldirektion
+Wasserstraßen und Schifffahrt die Entschädigung fest. In den
 Festsetzungsbescheid sind die Angaben nach Absatz 1 Satz 4 Nr. 2
 aufzunehmen. Er ist zu begründen und den Beteiligten mit einer
 Belehrung über den Rechtsweg (§ 39) zuzustellen; § 58 der
@@ -1345,10 +1240,10 @@ Verwaltungsgerichtsordnung gilt entsprechend.
 
 
 (2) Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der
-Geschäftsstelle des Amtsgerichts erteilt, in dessen Bezirk die Wasser-
-und Schifffahrtsdirektion ihren Sitz hat. In den Fällen der §§ 731,
-767 bis 770, 785, 786 und 791 der Zivilprozessordnung entscheidet das
-in Satz 1 bezeichnete Gericht.
+Geschäftsstelle des Amtsgerichts erteilt, in dessen Bezirk die
+Generaldirektion Wasserstraßen und Schifffahrt ihren Sitz hat. In den
+Fällen der §§ 731, 767 bis 770, 785, 786 und 791 der
+Zivilprozessordnung entscheidet das in Satz 1 bezeichnete Gericht.
 
 (3) Die vollstreckbare Ausfertigung des Festsetzungsbescheides wird
 nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
@@ -1360,16 +1255,18 @@ nur erteilt, wenn und soweit er für die Beteiligten unanfechtbar ist.
 binnen einer Frist von drei Monaten nach Zustellung des Bescheides
 Klage vor den ordentlichen Gerichten erheben. Diese Frist ist eine
 Notfrist im Sinne der Zivilprozessordnung. Die Klage kann auch erhoben
-werden, wenn die Wasser- und Schifffahrtsdirektion binnen sechs
-Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang, der
-die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht
-festgesetzt hat; ist eine Entschädigung nach § 22 Abs. 2 festzusetzen,
-beginnt die Frist von sechs Monaten mit der Antragstellung.
+werden, wenn die Generaldirektion Wasserstraßen und Schifffahrt binnen
+sechs Monaten nach Erlass des Verwaltungsaktes oder nach dem Vorgang,
+der die Beeinträchtigung herbeigeführt hat, eine Entschädigung nicht
+festgesetzt hat; ist eine Entschädigung nach § 75 Absatz 2 Satz 4 des
+Verwaltungsverfahrensgesetzes festzusetzen, beginnt die Frist von
+sechs Monaten mit der Antragstellung.
 
 (2) Für die Klage ist das Landgericht ohne Rücksicht auf den Wert des
 Streitgegenstandes ausschließlich zuständig. Örtlich zuständig ist
 ausschließlich das Landgericht, in dessen Bezirk die Beeinträchtigung
-eintritt; § 36 Nr. 4 der Zivilprozessordnung gilt entsprechend.
+eintritt; § 36 Absatz 1 Nr. 4 der Zivilprozessordnung gilt
+entsprechend.
 
 (3) Die Klage gegen den Entschädigungspflichtigen wegen der
 Entschädigung in Geld ist auf Zahlung des verlangten Betrages oder
@@ -1415,12 +1312,12 @@ Kreuzungsanlagen.
 
 ### § 41 Kosten der Herstellung von Kreuzungsanlagen
 
-(1) Werden Bundeswasserstraßen ausgebaut oder neugebaut und müssen
+(1) Werden Bundeswasserstraßen ausgebaut oder neu gebaut und müssen
 neue Kreuzungen mit öffentlichen Verkehrswegen hergestellt oder
-bestehende geändert werden, hat die Wasser- und Schifffahrtsverwaltung
-des Bundes die Kosten der Kreuzungsanlagen oder ihrer Änderung zu
-tragen, soweit nicht ein anderer auf Grund eines bestehenden
-Rechtsverhältnisses dazu verpflichtet ist.
+bestehende geändert werden, hat die Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes die Kosten der Kreuzungsanlagen oder
+ihrer Änderung zu tragen, soweit nicht ein anderer auf Grund eines
+bestehenden Rechtsverhältnisses dazu verpflichtet ist.
 
 (2) Werden öffentliche Verkehrswege verändert oder neu angelegt und
 müssen neue Kreuzungen mit Bundeswasserstraßen hergestellt oder
@@ -1456,7 +1353,7 @@ Beseitigung öffentlicher Verkehrswege verbunden sind. Kommt über die
 Aufteilung der Kosten keine Einigung zustande, so ist hierüber im
 Planfeststellungsbeschluss (§ 14b) zu entscheiden.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten näher bestimmt wird und für die
@@ -1494,22 +1391,22 @@ entstehen.
 Mehrkosten zu erstatten, die anderen bei der Erfüllung ihrer
 Unterhaltungsaufgaben durch die Kreuzungsanlagen erwachsen.
 
-(4) Ist die Wasser- und Schifffahrtsverwaltung des Bundes zur
+(4) Ist die Wasserstraßen- und Schifffahrtsverwaltung des Bundes zur
 Unterhaltung nach Absatz 1 verpflichtet, erstreckt sich ihre
 Verpflichtung nur auf das Kreuzungsbauwerk. Die übrigen Teile der
 Kreuzungsanlagen haben die Beteiligten zu unterhalten, zu deren
-öffentlichen Verkehrswegen sie gehören. Die Wasser- und
+öffentlichen Verkehrswegen sie gehören. Die Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes hat den Beteiligten die Mehrkosten
 der Unterhaltung an den Kreuzungsanlagen außerhalb des
 Kreuzungsbauwerks zu erstatten.
 
 (4a) In den Fällen der Absätze 2, 3 und 4 Satz 3 sind die Mehrkosten
 und die anteiligen Unterhaltungskosten auf Verlangen eines Beteiligten
-abzulösen. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-wird ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
-die Berechnung und die Zahlung von Ablösungsbeträgen näher zu
-bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung von
-Streitigkeiten festzulegen.
+abzulösen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, mit Zustimmung des Bundesrates durch
+Rechtsverordnung die Berechnung und die Zahlung von Ablösungsbeträgen
+näher zu bestimmen sowie dazu ein Verfahren zur gütlichen Beilegung
+von Streitigkeiten festzulegen.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten
 dieses Gesetzes die Tragung der Kosten nach bestehenden
@@ -1526,37 +1423,37 @@ hat der Rechtsträger, auf dessen Kosten die Brücke errichtet oder
 geändert wird, auch die Kosten der Herstellung dieser Einrichtungen zu
 tragen.
 
-(2) Die Unterhaltung der Einrichtungen obliegt der Wasser- und
+(2) Die Unterhaltung der Einrichtungen obliegt der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes. Die Unterhaltung umfasst auch
 spätere Erneuerungen und den Betrieb der Einrichtungen. Der
 Rechtsträger, auf dessen Kosten die Einrichtungen hergestellt sind,
-hat der Wasser- und Schifffahrtsverwaltung des Bundes die
+hat der Wasserstraßen- und Schifffahrtsverwaltung des Bundes die
 Unterhaltungskosten zu erstatten.
 
 (3) Sind die Einrichtungen wegen der Entwicklung der Schifffahrt oder
 bei einer Änderung von Rechtsvorschriften durch andere Einrichtungen
-zu ersetzen, hat die Wasser- und Schifffahrtsverwaltung des Bundes die
-neuen Einrichtungen auf ihre Kosten herzustellen und zu unterhalten.
-Der nach Absatz 2 Satz 3 Verpflichtete hat zu den weiteren
-Unterhaltungskosten bis zur Höhe seiner bisherigen Verpflichtungen
-beizutragen.
+zu ersetzen, hat die Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes die neuen Einrichtungen auf ihre Kosten herzustellen und zu
+unterhalten. Der nach Absatz 2 Satz 3 Verpflichtete hat zu den
+weiteren Unterhaltungskosten bis zur Höhe seiner bisherigen
+Verpflichtungen beizutragen.
 
 (4) Werden die Einrichtungen erst nach der Errichtung der Brücke
-notwendig, hat sie die Wasser- und Schifffahrtsverwaltung des Bundes
-auf ihre Kosten herzustellen und zu unterhalten.
+notwendig, hat sie die Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes auf ihre Kosten herzustellen und zu unterhalten.
 
 (5) Die Absätze 1 bis 4 gelten nicht, wenn bei dem Inkrafttreten
 dieses Gesetzes die Tragung der Kosten nach bestehenden
 Rechtsverhältnissen anders geregelt ist.
 
 (6) Wenn es die besonderen Verhältnisse einer Brücke erfordern, kann
-die Wasser- und Schifffahrtsverwaltung des Bundes mit dem für die
-Brücke zuständigen Rechtsträger vereinbaren, dass dieser Einrichtungen
-ganz oder teilweise herstellt, betreibt oder andere Aufgaben der
-Wasser- und Schifffahrtsverwaltung des Bundes zu ihrer Unterhaltung
-wahrnimmt. Durch die Vereinbarung werden die Obliegenheiten der
-Wasser- und Schifffahrtsverwaltung des Bundes nach den Absätzen 2 bis
-4 nicht berührt.
+die Wasserstraßen- und Schifffahrtsverwaltung des Bundes mit dem für
+die Brücke zuständigen Rechtsträger vereinbaren, dass dieser
+Einrichtungen ganz oder teilweise herstellt, betreibt oder andere
+Aufgaben der Wasserstraßen- und Schifffahrtsverwaltung des Bundes zu
+ihrer Unterhaltung wahrnimmt. Durch die Vereinbarung werden die
+Obliegenheiten der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes nach den Absätzen 2 bis 4 nicht berührt.
 
 
 ## Abschnitt 10 - Durchführung des Gesetzes
@@ -1583,19 +1480,18 @@ Landesrecht durchgeführt.
 
 ### § 45 Zuständigkeiten
 
-(1) Die Behörden der Wasser- und Schifffahrtsverwaltung des Bundes
-führen dieses Gesetz durch, wenn es nichts anderes bestimmt.
+(1) Die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes führen dieses Gesetz durch, wenn es nichts anderes bestimmt.
 
 (2) (weggefallen)
 
-(3) Als fachtechnische Behörden stehen der Wasser- und
+(3) Als fachtechnische Behörden stehen der Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes die Bundesanstalt für Wasserbau, die
 Bundesanstalt für Gewässerkunde und, soweit Fragen der Fischerei
 berührt werden, auch das Johann Heinrich von Thünen-Institut,
 Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei, eine
 selbständige Bundesoberbehörde im Geschäftsbereich des
-Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz, zur Verfügung.
+Bundesministeriums für Ernährung und Landwirtschaft, zur Verfügung.
 
 (4) Die nach diesem Gesetz begründeten Zuständigkeiten bestehen auch
 in den Teilen einer Bundeswasserstraße, die in einen Hafen einbezogen
@@ -1623,7 +1519,7 @@ unberührt.
 
 ### § 46 Rechtsverordnungen
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, Rechtsverordnungen zu erlassen über
 
 1.  die Regelung des Betriebs von Anlagen nach § 1 Abs. 4 Nr. 1,
@@ -1637,39 +1533,41 @@ ermächtigt, Rechtsverordnungen zu erlassen über
     Rahmen des § 6,
 
 
-4.  die Zuständigkeiten der Behörden der Wasser- und
+4.  die Zuständigkeiten der Behörden der Wasserstraßen- und
     Schifffahrtsverwaltung des Bundes, wenn ihre Zuständigkeiten nicht
     bereits im Gesetz festgelegt sind.
 
 
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
-Rechtsverordnung diese Ermächtigung auf die Wasser- und
-Schifffahrtsdirektionen übertragen.
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+durch Rechtsverordnung diese Ermächtigung auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
-### § 47 Kostenregelung
+### § 47 Gebühren- und Auslagenregelung
 
-(1) Für Amtshandlungen nach den §§ 14, 14b, 14d, 28, 31, 32, 34, 37
-dieses Gesetzes und § 75 Abs. 2 Satz 2 und 4 des
-Verwaltungsverfahrensgesetzes sowie nach den auf Grund der §§ 5, 27
-und 46 erlassenen Rechtsverordnungen werden Kosten (Gebühren und
-Auslagen) erhoben.
+(1) Für individuell zurechenbare öffentliche Leistungen nach den §§
+14, 14b, 14d, 28, 31, 32, 34, 37 dieses Gesetzes und § 75 Abs. 2 Satz
+2 und 4 des Verwaltungsverfahrensgesetzes sowie nach den auf Grund der
+§§ 5, 27 und 46 erlassenen Rechtsverordnungen werden Gebühren und
+Auslagen erhoben.
 
 (2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung die Gebühren für die einzelnen Amtshandlungen
-im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-der mit den Amtshandlungen verbundene Personal- und Sachaufwand
-gedeckt wird; bei begünstigenden Amtshandlungen kann daneben die
-Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den
+durch Rechtsverordnung die Gebühren für die einzelnen individuell
+zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu
+bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
+Gebührensätze sind so zu bemessen, dass der mit den individuell
+zurechenbaren öffentlichen Leistungen verbundene Personal- und
+Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren
+öffentlichen Leistungen kann daneben die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
 
 ### § 48 Anforderungen der Sicherheit und Ordnung
 
-Die Wasser- und Schifffahrtsverwaltung des Bundes ist dafür
+Die Wasserstraßen- und Schifffahrtsverwaltung des Bundes ist dafür
 verantwortlich, dass die bundeseigenen Schifffahrtsanlagen und
 Schifffahrtszeichen sowie die bundeseigenen wasserbaulichen Anlagen
 allen Anforderungen der Sicherheit und Ordnung genügen. Behördlicher
@@ -1742,10 +1640,118 @@ Genehmigungen, Erlaubnisse und Abnahmen bedarf es nicht.
 Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist die Wasser- und Schifffahrtsdirektion.
+über Ordnungswidrigkeiten ist die Generaldirektion Wasserstraßen und
+Schifffahrt.
 
 
-### (XXXX) §§ 51 bis 55 (weggefallen)
+### § 51 Ordnungswidrigkeitendatei
+
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt führt eine
+Datei über die von ihr verfolgten Ordnungswidrigkeiten gemäß § 50 zum
+Zweck der Bearbeitung von Ordnungswidrigkeitenverfahren und der
+Vorgangsverwaltung.
+
+(2) Zu den in Absatz 1 genannten Zwecken können folgende Daten
+gespeichert werden:
+
+1.  zum Betroffenen:
+
+    a)  Familienname, Geburtsname und Vornamen,
+
+
+    b)  Tag und Ort der Geburt,
+
+
+    c)  Anschrift,
+
+
+    d)  gegebenenfalls Name und Anschrift des gesetzlichen Vertreters,
+
+
+    e)  gegebenenfalls Name und Anschrift des Unternehmens sowie
+
+
+    f)  gegebenenfalls Name und Anschrift des Zustellungsbevollmächtigten,
+
+
+
+
+
+2.  die zuständige Bußgeldstelle und das Aktenzeichen,
+
+
+3.  die Tatzeiten und Tatorte sowie Merkmale von Tatwerkzeugen,
+
+
+4.  die Tatvorwürfe durch Angabe der gesetzlichen Vorschriften und die
+    nähere Bezeichnung der Ordnungswidrigkeiten,
+
+
+5.  das Datum der Einleitung des Verfahrens sowie das Datum der
+    Verfahrenserledigung durch die Bußgeldstelle, die Staatsanwaltschaft
+    und das Gericht unter Angabe der gesetzlichen Vorschriften,
+
+
+6.  die für die ordnungsgemäße Vorgangsverwaltung erforderlichen Daten,
+    insbesondere die Höhe der Geldbuße.
+
+
+
+
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung Folgendes zu bestimmen:
+
+1.  das Nähere über Art und Umfang der zu speichernden Daten nach Absatz 2
+    Nummer 3 bis 6,
+
+
+2.  Verfahren von besonderer Bedeutung nach Absatz 5 und die dabei
+    einzuhaltenden Löschungsfristen.
+
+
+
+
+(4) Die nach Absatz 2 gespeicherten personenbezogenen Daten dürfen,
+soweit dies erforderlich ist, zu folgenden Zwecken folgenden Stellen
+auch in elektronischer Form übermittelt werden:
+
+1.  zur Durchführung von Verwaltungsaufgaben
+
+    a)  nach diesem Gesetz oder
+
+
+    b)  nach Rechtsvorschriften, die auf Grund dieses Gesetzes erlassen
+        wurden,
+
+
+
+    den Dienststellen der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes und der Wasserschutzpolizeien der Länder sowie der Bundeskasse,
+
+
+2.  zur Verfolgung von Straftaten oder Ordnungswidrigkeiten, die im
+    Zusammenhang mit der als Ordnungswidrigkeit verfolgten Tat stehen, den
+    Gerichten, Staatsanwaltschaften sowie den Dienststellen der
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes und der
+    Wasserschutzpolizeien der Länder oder
+
+
+3.  zur Vollstreckung von Bußgeldbescheiden oder von Anordnungen der
+    Einziehung des Wertes von Taterträgen im Sinne des § 29a des Gesetzes
+    über Ordnungswidrigkeiten den Gerichten, Staatsanwaltschaften und
+    Hauptzollämtern.
+
+
+
+
+(5) Die nach Absatz 2 gespeicherten personenbezogenen Daten sind zu
+löschen, soweit sie für die Aufgaben nach Absatz 1 nicht mehr
+erforderlich sind, spätestens jedoch nach dem Ende der
+Vollstreckungsverjährung. Dies gilt nicht, soweit bei Verfahren von
+besonderer Bedeutung eine längere Frist erforderlich ist.
+
+
+### (XXXX) §§ 52 bis 55 (weggefallen)
 
 
 
@@ -1797,8 +1803,9 @@ soweit der Plan noch nicht außer Kraft getreten ist.
 
 (Inkrafttreten)
 
+(zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2)
 
-### Anlage 1 (zu § 1 Abs. 1 Nr. 1 und Abs. 5 und § 2 Abs. 2) Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
+### Anlage 1 Verzeichnis der dem allgemeinen Verkehr dienenden Binnenwasserstraßen des Bundes
 
 Fundstelle des Originaltextes: BGBl. I 2007, 977 - 984;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1966,9 +1973,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
     *   Hanekenfähr (km 84,41)
 
     *   Nordsee, Verbindungslinie der nordöstlichen Deichecke bei Het Oude
-        Schip (ungefähre Lage 53 Grad 26' 5" N und 6 Grad 52' 4" O) und der
-        vorspringenden Deichecke westlich Pilsum (ungefähre Lage 53 Grad 29'
-        8" N und 7 Grad 1' 52" O)
+        Schip (geografische Koordinaten im Bezugssystem WGS84: 53° 25' 59"
+        N/006° 52' 01" E) und der vorspringenden Deichecke westlich Pilsum
+        (geografische Koordinaten im Bezugssystem WGS84: 53° 29' 02" N/007°
+        01' 49" E)
 
 
 *    *
@@ -2175,7 +2183,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Lühe
 
-    *   Unterwasser der Au-Mühle in Horneburg (km 0,00)
+    *   Nordkante der Marschdammbrücke in Horneburg (km 0,26)
 
     *   Elbe
 
@@ -2586,9 +2594,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
     *   Ostsee (Unterwarnow), Verbindungslinie zwischen der nördlichen
         Böschungsunterkante auf der Landzunge zwischen Osthafen und Warnow
-        (ungefähre Lage 54 Grad 05' 41" N und 12 Grad 09' 09" O) und der
-        nordwestlichen Böschungsunterkante am östlichen Ende des Stadthafens
-        Rostock (ungefähre Lage 54 Grad 05' 47" N und 12 Grad 09' 14" O)
+        (geografische Koordinaten im Bezugssystem WGS84: 54° 05' 40" N/012°
+        09' 03" E) und der nordwestlichen Böschungsunterkante am östlichen
+        Ende des Stadthafens Rostock (geografische Koordinaten im Bezugssystem
+        WGS84: 54° 05' 45" N/012° 09' 07" E)
 
 
 *    *
@@ -2629,8 +2638,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 14e Abs. 1)
 
-### Anlage 2 (zu § 14e Abs. 1) Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+### Anlage 2 Bundeswasserstraßen mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
 
 Fundstelle des Originaltextes: BGBl. I 2007, 985
 
@@ -2672,8 +2682,10 @@ Fundstelle des Originaltextes: BGBl. I 2007, 985
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III
+(BGBl. II 1990, 889, 1111)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1111) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

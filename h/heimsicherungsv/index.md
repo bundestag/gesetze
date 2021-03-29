@@ -153,7 +153,7 @@ Das Kreditinstitut muß eine Erlaubnis zum Geschäftsbetrieb nach dem
 Gesetz über das Kreditwesen in der Fassung der Bekanntmachung vom 3.
 Mai 1976 (BGBl. I S. 1121),
 geändert durch Artikel 72 des Einführungsgesetzes zur Abgabenordnung
-vom 14. Dezember 1976 (BGBl. I S. 3341),              besitzen.
+vom 14. Dezember 1976 (BGBl. I S. 3341), besitzen.
 
 (2) Der Träger hat das Kreditinstitut zu verpflichten, den Bewohner
 oder Bewerber unverzüglich zu benachrichtigen, wenn die Einlage von
@@ -250,8 +250,7 @@ kommen nur in Betracht:
     Versicherungsunternehmungen in der im Bundesgesetzblatt Teil III,
     Gliederungsnummer 7631-1, veröffentlichten bereinigten Fassung,
     zuletzt geändert durch Artikel 1 des Ersten Durchführungsgesetzes/EWG
-    zum VAG vom 18. Dezember 1975 (BGBl. I S. 3139),
-    besitzen.
+    zum VAG vom 18. Dezember 1975 (BGBl. I S. 3139), besitzen.
 
 
 

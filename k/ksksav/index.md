@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 1149
 
 Zuletzt geändert durch
-:   Art. 9 u. 10 G v. 13.6.2001 I 1027
+:   Art. 154 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -74,9 +74,9 @@ stellvertretenden Vorsitz ab.
 
 #### § 6 Einberufung
 
-(1) Der Vorsitzende beruft die Mitglieder des Beirats durch
-schriftliche Einladung zu den Sitzungen ein; dabei soll nach
-Möglichkeit eine Frist von einem Monat eingehalten werden.
+(1) Der Vorsitzende beruft die Mitglieder des Beirats durch Einladung
+zu den Sitzungen ein; dabei soll nach Möglichkeit eine Frist von einem
+Monat eingehalten werden.
 
 (2) Der Beirat ist einzuberufen, wenn ein Drittel der Mitglieder dies
 verlangt.
@@ -116,8 +116,8 @@ baren Auslagen. Die Erstattung richtet sich nach den für Bundesbeamte
 geltenden Vorschriften.
 
 (2) Die Mitglieder des Beirats erhalten für jeden Kalendertag einer
-Sitzung einen Pauschbetrag für Zeitaufwand in Höhe von 39 Euro. Für
-den Vorsitzenden beträgt der Pauschbetrag 75 Euro.
+Sitzung einen Pauschbetrag für Zeitaufwand in Höhe von 70 Euro. Für
+den Vorsitzenden beträgt der Pauschbetrag 140 Euro.
 
 
 ### Zweiter Abschnitt - Ausschüsse
@@ -222,17 +222,19 @@ Vorsitzenden zu unterzeichnen.
 
 #### § 20 Widerspruchsbescheid
 
-Der Widerspruchsbescheid ist vom Vorsitzenden zu unterzeichnen und,
-sofern er nicht nach § 21 beanstandet wird, zuzustellen.
+Der Widerspruchsbescheid ist vom Vorsitzenden zu unterzeichnen, wobei
+die elektronische Namenswiedergabe genügt. Sofern der
+Widerspruchsbescheid nicht nach § 21 beanstandet wird, ist er
+zuzustellen.
 
 
 #### § 21 Beanstandung von Rechtsverstößen
 
 (1) Verstößt eine Entscheidung eines Widerspruchsausschusses gegen
 Gesetz oder sonstiges für die Künstlersozialkasse maßgebendes Recht,
-hat die Künstlersozialkasse die Entscheidung schriftlich und mit
-Begründung zu beanstanden und dabei eine angemessene Frist zur
-erneuten Entscheidung zu setzen.
+hat die Künstlersozialkasse die Entscheidung schriftlich oder
+elektronisch und mit Begründung zu beanstanden und dabei eine
+angemessene Frist zur erneuten Entscheidung zu setzen.
 
 (2) Verbleibt der Ausschuß bei seiner Entscheidung, hat die
 Künstlersozialkasse die Aufsichtsbehörde zu unterrichten. Hat die

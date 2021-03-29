@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1259
 
 Zuletzt geändert durch
-:   Nr. 8 Bek. v. 30.9.1995 I 1246
+:   Nr. 8 Beschluß d. Bundestages gem. Bek. v. 30.9.1995 I 1246
 
 
 ## I. Fragerecht

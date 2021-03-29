@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2131
 
 Zuletzt geändert durch
-:   Art. 3 V v. 10.5.2010 I 555
+:   Art. 5 V v. 2.7.2018 I 1080
 
 
 ## Abschnitt 1 - Anwendungsbereich, Begriffsbestimmungen
@@ -34,32 +34,33 @@ Medizinprodukte.
 
 Im Sinne dieser Verordnung ist
 
-1.  "Vorkommnis" eine Funktionsstörung, ein Ausfall oder eine Änderung der
-    Merkmale oder der Leistung oder eine Unsachgemäßheit der Kennzeichnung
-    oder der Gebrauchsanweisung eines Medizinprodukts, die unmittelbar
+1.  Vorkommnis eine Funktionsstörung, ein Ausfall, eine Änderung der
+    Merkmale oder der Leistung oder eine unsachgemäße Kennzeichnung oder
+    Gebrauchsanweisung eines Medizinproduktes, die oder der unmittelbar
     oder mittelbar zum Tod oder zu einer schwerwiegenden Verschlechterung
     des Gesundheitszustands eines Patienten, eines Anwenders oder einer
-    anderen Person geführt hat, geführt haben könnte oder führen könnte,
+    anderen Person geführt hat, geführt haben könnte oder führen könnte;
+    als Funktionsstörung gilt auch ein Mangel der Gebrauchstauglichkeit,
+    der eine Fehlanwendung verursacht,
 
 
-2.  "korrektive Maßnahme" eine Maßnahme zur Beseitigung, Verringerung oder
+2.  korrektive Maßnahme eine Maßnahme zur Beseitigung, Verringerung oder
     Verhinderung des erneuten Auftretens eines von einem Medizinprodukt
     ausgehenden Risikos,
 
 
-3.  "Rückruf" eine korrektive Maßnahme, mit der die Rücksendung, der
+3.  Rückruf eine korrektive Maßnahme, mit der die Rücksendung, der
     Austausch, die Um- oder Nachrüstung, die Aussonderung oder Vernichtung
     eines Medizinprodukts veranlasst wird oder Anwendern, Betreibern oder
     Patienten Hinweise für die weitere sichere Anwendung oder den Betrieb
     von Medizinprodukten gegeben werden,
 
 
-4.  "Maßnahmenempfehlung" eine Mitteilung des Verantwortlichen nach § 5
-    des Medizinproduktegesetzes, mit der eine korrektive Maßnahme
-    veranlasst wird,
+4.  Maßnahmenempfehlung eine Mitteilung des Verantwortlichen nach § 5 des
+    Medizinproduktegesetzes, mit der ein Rückruf veranlasst wird,
 
 
-5.  Schwerwiegendes unerwünschtes Ereignis jedes in einer
+5.  schwerwiegendes unerwünschtes Ereignis jedes in einer
     genehmigungspflichtigen klinischen Prüfung oder einer
     genehmigungspflichtigen Leistungsbewertungsprüfung auftretende
     ungewollte Ereignis, das unmittelbar oder mittelbar zum Tod oder zu
@@ -111,32 +112,34 @@ In allen anderen Fällen informieren Vertreiber und Händler den
 Verantwortlichen nach § 5 des Medizinproduktegesetzes über ihnen
 mitgeteilte Vorkommnisse.
 
-(4) Die Verpflichtungen nach den Absätzen 2 und 3 gelten für
-Angehörige der Heilberufe als erfüllt, soweit Meldungen an
-Kommissionen oder andere Einrichtungen der Heilberufe, die im Rahmen
-ihrer Aufgaben Risiken von Medizinprodukten erfassen, erfolgen und
-dort eine unverzügliche Weiterleitung an die zuständige
-Bundesoberbehörde sichergestellt ist.
+(4) Der Prüfer oder der Hauptprüfer hat dem Sponsor jedes
+schwerwiegende unerwünschte Ereignis zu melden.
 
-(5) Schwerwiegende unerwünschte Ereignisse sind vom Sponsor und vom
-Prüfer oder Hauptprüfer der zuständigen Bundesoberbehörde zu melden.
-Wird die klinische Prüfung auch in anderen Vertragsstaaten des
-Abkommens über den Europäischen Wirtschaftsraum durchgeführt, hat der
-Sponsor den dort zuständigen Behörden ebenfalls Meldung zu erstatten.
-Wird eine klinische Prüfung oder eine Leistungsbewertungsprüfung auch
-in Deutschland durchgeführt, hat der Sponsor der zuständigen
-Bundesoberbehörde auch schwerwiegende unerwünschte Ereignisse
-außerhalb von Deutschland zu melden.
+(5) Der Sponsor hat schwerwiegende unerwünschte Ereignisse der
+zuständigen Bundesoberbehörde zu melden. Dies gilt auch, wenn sie
+außerhalb von Deutschland aufgetreten sind. Wird eine klinische
+Prüfung auch in anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum durchgeführt, hat der Sponsor den dort
+zuständigen Behörden ebenfalls Meldung über in Deutschland
+aufgetretene schwerwiegende unerwünschte Ereignisse zu erstatten.
 
 (6) Die zuständige Bundesoberbehörde bestätigt der nach den Absätzen 1
-bis 5 meldenden Person oder Stelle den Eingang der Meldung. Sie
+bis 3 und 5 meldenden Person oder Stelle den Eingang der Meldung. Sie
 informiert unverzüglich den Verantwortlichen nach § 5 des
-Medizinproduktegesetzes über Meldungen nach den Absätzen 2 bis 4, der
+Medizinproduktegesetzes über Meldungen nach den Absätzen 2 und 3, der
 daraufhin eine Meldung nach Absatz 1 mit allen erforderlichen Angaben
 oder eine Begründung übermittelt, warum kein Vorkommnis im Sinne des §
 2 Abs. 1 vorliegt oder die Voraussetzungen nach § 4 erfüllt sind.
 Schließt sich die zuständige Bundesoberbehörde dieser Begründung nicht
 an, kann sie eine Meldung nach Absatz 1 verlangen.
+
+(7) Stellt ein schwerwiegendes unerwünschtes Ereignis zugleich ein
+Vorkommnis dar, so kann der Verantwortliche nach § 5 des
+Medizinproduktegesetzes seine Verpflichtung zur Meldung von
+Vorkommnissen nach Absatz 1 auch erfüllen, indem er eine Meldung nach
+Absatz 5 vornimmt. In der Meldung ist kenntlich zu machen, dass damit
+auch die Verpflichtung zur Meldung eines Vorkommnisses nach Absatz 1
+erfüllt ist.
 
 
 ### § 4 Ausnahmen von der Meldepflicht und besondere Verfahren
@@ -164,12 +167,19 @@ nach § 5 des Medizinproduktegesetzes abgesprochen.
 Vorkommnisse entsprechend der Eilbedürftigkeit der durchzuführenden
 Risikobewertung zu melden, spätestens jedoch innerhalb von 30 Tagen,
 nachdem er Kenntnis hiervon erhalten hat. Bei Gefahr im Verzug hat die
-Meldung unverzüglich zu erfolgen. Rückrufe sowie Vorkommnisse im Sinne
-des § 3 Abs. 1 Satz 3 sind spätestens mit Beginn der Umsetzung der
-Maßnahmen zu melden.
+Meldung unverzüglich zu erfolgen. Rückrufe sind spätestens mit Beginn
+der Umsetzung der Maßnahmen zu melden.
 
-(2) Die Meldungen und Mitteilungen nach § 3 Absatz 2 bis 5 haben
-unverzüglich zu erfolgen.
+(2) Die Meldungen und Mitteilungen nach § 3 Absatz 2 bis 4 und 5 Satz
+3 haben unverzüglich zu erfolgen. Dies gilt auch für Meldungen von
+schwerwiegenden unerwünschten Ereignissen, für die ein Zusammenhang
+mit dem zu prüfenden Medizinprodukt, einem Vergleichsprodukt oder den
+in der klinischen Prüfung angewandten therapeutischen oder
+diagnostischen Maßnahmen oder den sonstigen Bedingungen der
+Durchführung der klinischen Prüfung nicht ausgeschlossen werden kann.
+Alle anderen schwerwiegenden unerwünschten Ereignisse sind vollständig
+zu dokumentieren und in zusammenfassender Form vierteljährlich oder
+auf Aufforderung der zuständigen Bundesoberbehörde zu melden.
 
 
 ### § 6 Meldung durch Vertreiber
@@ -191,11 +201,36 @@ sowie Hinweise zur Erreichbarkeit außerhalb der üblichen Dienstzeiten
 auf seiner Internetseite bekannt und sorgt für eine fortlaufende
 Aktualisierung dieser Bekanntmachung.
 
-(2) Die Meldungen nach § 3 Absatz 1 und 5 erfolgen elektronisch als
-Datei in der Originalformatierung. Die zuständigen Bundesoberbehörden
-machen die Informationen zur elektronischen Übermittlung der sonstigen
-Meldungen sowie die zur Verwendung empfohlenen Formblätter und deren
-Bezugsquellen auch auf ihren Internetseiten bekannt.
+(2) Die Meldungen nach § 3, mit Ausnahme der Meldungen nach § 3 Absatz
+4, erfolgen elektronisch und maschinenlesbar im Sinne von § 12 des E
+-Government-Gesetzes. Die zuständigen Bundesoberbehörden
+veröffentlichen Informationen zur elektronischen Übermittlung sowie
+die dabei zu verwendenden Formblätter auf ihren Internetseiten.
+
+(3) Der Meldung eines Rückrufs nach § 3 Absatz 1 sind insbesondere
+folgende Informationen beizufügen:
+
+1.  die Maßnahmenempfehlung gemäß § 14 Absatz 2 in deutscher und, soweit
+    vorhanden, in englischer Sprache,
+
+
+2.  der relevante Auszug aus der Risikoanalyse des Produktes,
+
+
+3.  eine Begründung, dass die geplante korrektive Maßnahme erforderlich
+    und ausreichend ist, um das von dem Medizinprodukt ausgehende Risiko
+    zu beseitigen oder zu verringern oder dessen erneutes Auftreten zu
+    verhindern; dies schließt die Begründung und Darlegung des Zeitplans
+    für die Durchführung des Rückrufs sowie, sofern zutreffend, die
+    Begründung für seine Beschränkung auf bestimmte Chargen oder
+    Produktserien ein.
+
+
+
+
+(4) Das Format der zusammenfassenden Meldung von schwerwiegenden
+unerwünschten Ereignissen nach § 5 Absatz 2 Satz 3 ist mit der
+zuständigen Bundesoberbehörde abzustimmen.
 
 
 ## Abschnitt 3 - Risikobewertung durch die zuständige Bundesoberbehörde
@@ -219,10 +254,20 @@ vorliegt und welche korrektiven Maßnahmen geboten sind. Sofern der
 Verantwortliche nach § 5 des Medizinproduktegesetzes
 eigenverantwortliche korrektive Maßnahmen trifft, schließt die
 Risikobewertung durch die zuständige Bundesoberbehörde die Prüfung
-ein, ob diese Maßnahmen angemessen sind. Satz 2 gilt für
-eigenverantwortliche korrektive Maßnahmen des Sponsors oder der die
-klinische Prüfung oder Leistungsbewertungsprüfung durchführenden
-Personen entsprechend.
+ein, ob
+
+1.  diese Maßnahmen angemessen sind und
+
+
+2.  sie den Grundsätzen der integrierten Sicherheit entsprechen, die in
+    den Grundlegenden Anforderungen nach § 7 Absatz 1 des
+    Medizinproduktegesetzes einschlägigen Richtlinien formuliert sind.
+
+
+
+Satz 2 gilt für eigenverantwortliche korrektive Maßnahmen des Sponsors
+oder der die klinische Prüfung oder Leistungsbewertungsprüfung
+durchführenden Personen entsprechend.
 
 
 ### § 10 Verfahren der Risikobewertung
@@ -258,13 +303,12 @@ Vorkommnis betroffenen Probenmaterials, zu Untersuchungszwecken
 verlangen. Patientendaten sind vor der Übermittlung an die zuständige
 Bundesoberbehörde so zu anonymisieren, dass ein Personenbezug nicht
 mehr hergestellt werden kann. Andere personenbezogene Daten dürfen nur
-erhoben, gespeichert, genutzt und übermittelt werden, soweit dies zur
-Durchführung der Aufgaben nach dieser Verordnung erforderlich ist. Die
-zuständige Bundesoberbehörde kann in begründeten Fällen und in
-Abstimmung mit der zuständigen Behörde Produktprüfungen und
-Überprüfungen der Produktionsverfahren im Betrieb des Verantwortlichen
-nach § 5 des Medizinproduktegesetzes oder bei dessen
-Unterauftragnehmer vornehmen.
+unverändert verarbeitet werden und nur, soweit dies zur Durchführung
+von Aufgaben nach dieser Verordnung erforderlich ist. Die zuständige
+Bundesoberbehörde kann in begründeten Fällen und in Abstimmung mit der
+zuständigen Behörde Produktprüfungen und Überprüfungen der
+Produktionsverfahren im Betrieb des Verantwortlichen nach § 5 des
+Medizinproduktegesetzes oder bei dessen Unterauftragnehmer vornehmen.
 
 (2) Wenn eine ordnungsgemäße Risikobewertung wegen unzureichender
 Mitwirkung des Verantwortlichen nach § 5 des Medizinproduktegesetzes,
@@ -304,10 +348,13 @@ Mitwirkungspflichten entsprechend für den Sponsor sowie die die
 klinische Prüfung oder die Leistungsbewertungsprüfung durchführenden
 Personen.
 
-(4) Anwender und Betreiber haben dafür Sorge zu tragen, dass
-Medizinprodukte und Probematerialien, die im Verdacht stehen, an einem
-Vorkommnis beteiligt zu sein, nicht verworfen werden, bis die
-Untersuchungen abgeschlossen sind.
+(4) Anwender und Betreiber tragen dafür Sorge, dass Medizinprodukte
+und Probematerialien, die im Verdacht stehen, an einem Vorkommnis
+beteiligt zu sein, nicht verworfen werden, bis die Risikobewertung der
+zuständigen Bundesoberbehörde abgeschlossen ist. Dies schließt nicht
+aus, dass sie diese Medizinprodukte und Probematerialien dem
+Verantwortlichen nach § 5 des Medizinproduktegesetzes oder dem Sponsor
+zum Zwecke der Untersuchung überlassen.
 
 (5) Der Verantwortliche nach § 5 des Medizinproduktegesetzes hat auf
 Verlangen der zuständigen Bundesoberbehörde Unterlagen, die für die
@@ -344,11 +391,11 @@ unvertretbare Risiken ausgehen, schnell und zuverlässig durchgeführt
 werden kann.
 
 (2) Der Verantwortliche nach § 5 des Medizinproduktegesetzes hat über
-korrektive Maßnahmen die sonstigen Inverkehrbringer, die betroffenen
-Betreiber und die Anwender durch eine Maßnahmenempfehlung schriftlich
-in deutscher Sprache zu informieren. Diese Maßnahmenempfehlungen haben
-für mögliche Rückfragen eine Kontaktperson oder eine Kontaktstelle mit
-Hinweisen zur Erreichbarkeit anzugeben, die betroffenen Produkte und
+Rückrufe die sonstigen Inverkehrbringer, die betroffenen Betreiber und
+die Anwender durch eine Maßnahmenempfehlung schriftlich in deutscher
+Sprache zu informieren. Diese Maßnahmenempfehlungen haben für mögliche
+Rückfragen eine Kontaktperson oder eine Kontaktstelle mit Hinweisen
+zur Erreichbarkeit anzugeben, die betroffenen Produkte und
 Produktchargen klar und eindeutig zu bezeichnen, den festgestellten
 Mangel oder die festgestellte Fehlfunktion und, soweit bekannt, deren
 Ursache zu beschreiben, das von den Produkten ausgehende Risiko und
@@ -362,7 +409,9 @@ Werbeaussagen sind unzulässig.
 (3) Der Verantwortliche nach § 5 des Medizinproduktegesetzes hat die
 ordnungsgemäße Durchführung der Maßnahmen nach Absatz 1
 sicherzustellen und deren Wirksamkeit zu überprüfen. Die Durchführung
-und die Überprüfungen sind zu dokumentieren.
+und die Überprüfungen sind zu dokumentieren. Der Verantwortliche nach
+§ 5 des Medizinproduktegesetzes mit Sitz in Deutschland hat der
+zuständigen Behörde den Abschluss eines Rückrufs mitzuteilen.
 
 (4) Die zuständige Behörde überwacht die vom Verantwortlichen nach § 5
 des Medizinproduktegesetzes durchgeführten Maßnahmen.
@@ -405,36 +454,13 @@ entsprechend.
 
 ### § 16 Verpflichtung zur Mitwirkung an den korrektiven Maßnahmen
 
-(1) Der in § 3 Absatz 2, 3 und 5 genannte Personenkreis hat an den
-korrektiven Maßnahmen entsprechend den eigenverantwortlich oder auf
-Anordnung der zuständigen Behörde herausgegebenen
-Maßnahmenempfehlungen des Verantwortlichen nach § 5 des
-Medizinproduktegesetzes mitzuwirken. Dies gilt für
+Der in § 3 Absatz 2, 3 und 5 genannte Personenkreis hat an den
+korrektiven Maßnahmen entsprechend den Maßnahmenempfehlungen
+mitzuwirken, die der Verantwortliche nach § 5 des
+Medizinproduktegesetzes eigenverantwortlich oder auf Anordnung der
+zuständigen Behörde herausgegeben hat. Dies gilt für
 Maßnahmenempfehlungen des Sponsors der klinischen Prüfung oder
 Leistungsbewertungsprüfung entsprechend.
-
-(2) Damit Patienten, die mit den in der Anlage aufgeführten
-implantierbaren Medizinprodukten versorgt worden sind, zum Zweck der
-Durchführung korrektiver Maßnahmen schnell identifiziert und erreicht
-werden können, haben die Betreiber und Anwender Aufzeichnungen zu
-führen über
-
-1.  den Namen, das Geburtsdatum und die Anschrift des Patienten,
-
-
-2.  das Datum der Implantation,
-
-
-3.  den Typ und die Chargen- oder Seriennummer des Implantats sowie
-
-
-4.  den Verantwortlichen nach § 5 des Medizinproduktegesetzes.
-
-
-
-Die Aufzeichnungen sind für die Dauer von 20 Jahren nach der
-Implantation aufzubewahren; danach sind sie unverzüglich zu
-vernichten.
 
 
 ### § 17 Maßnahmen der zuständigen Behörden gegen Betreiber und Anwender
@@ -460,7 +486,7 @@ dieser Bekanntmachung.
 
 
 
-### § 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige Bundesbehörde
+### § 19 Unterrichtung des Bundesministeriums für Gesundheit durch die zuständige  Bundesbehörde
 
 Die zuständige Bundesoberbehörde informiert das Bundesministerium für
 Gesundheit unverzüglich über alle eingehenden Meldungen, die
@@ -485,13 +511,14 @@ betreffen.
     Risikobewertung,
 
 
-2.  die für den Sitz des Sponsors oder, sofern dieser seinen Sitz nicht in
-    Deutschland hat, die für die Prüfstellen in Deutschland, sowie die für
-    den Ort des schwerwiegenden unerwünschten Ereignisses zuständige
-    oberste Landesbehörde oder die von dieser benannte zuständige Behörde
-    über eingehende Meldungen von schwerwiegenden unerwünschten
-    Ereignissen, über den Abschluss und das Ergebnis der durchgeführten
-    Risikobewertung.
+2.  die für den Sitz des Sponsors oder seines Vertreters nach § 20 Absatz
+    1 Satz 4 Nummer 1a des Medizinproduktegesetzes oder, sofern diese
+    ihren Sitz nicht in Deutschland haben, die für die Prüfstellen in
+    Deutschland sowie die für den Ort des schwerwiegenden unerwünschten
+    Ereignisses zuständige oberste Landesbehörde oder die von dieser
+    benannte zuständige Behörde über eingehende Meldungen von
+    schwerwiegenden unerwünschten Ereignissen, über den Abschluss und das
+    Ergebnis der durchgeführten Risikobewertung.
 
 
 
@@ -570,24 +597,22 @@ vorübergehende Unterbrechungen von klinischen Prüfungen. § 22a Absatz
 ### § 22 Unterrichtung sonstiger Behörden, Organisationen und Stellen
 
 (1) Die zuständige Bundesoberbehörde unterrichtet das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit über
-eingehende Meldungen von Vorkommnissen und Rückrufen sowie über den
-Abschluss und das Ergebnis der durchgeführten Risikobewertungen,
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+über eingehende Meldungen von Vorkommnissen und Rückrufen sowie über
+den Abschluss und das Ergebnis der durchgeführten Risikobewertungen,
 soweit der Strahlenschutz betroffen ist, und das Robert-Koch-Institut,
 soweit Medizinprodukte betroffen sind, die zu Desinfektionszwecken
 bestimmt sind.
 
 (2) Die zuständige Bundesoberbehörde unterrichtet das
-Bundesministerium der Verteidigung sowie die zuständige Behörde nach §
-15 des Medizinproduktegesetzes über eingehende Meldungen von
-Vorkommnissen und Rückrufen sowie über den Abschluss und das Ergebnis
-der durchgeführten Risikobewertungen. Die Unterrichtung kann auch
-erfolgen durch Gewährung des Zugriffs auf die dem Deutschen Institut
-für Medizinische Dokumentation und Information gemäß § 29 Abs. 1 Satz
-4 des Medizinproduktegesetzes zur zentralen Verarbeitung und Nutzung
-übermittelten Daten. Die zuständigen Behörden nach § 15 des
-Medizinproduktegesetzes unterrichten, soweit erforderlich, die
-Benannten Stellen.
+Bundesministerium der Verteidigung, die zuständige Behörde nach § 15
+des Medizinproduktegesetzes sowie die in der Vorkommnismeldung
+angegebene Benannte Stelle über eingehende Meldungen von Vorkommnissen
+und Rückrufen sowie über den Abschluss und das Ergebnis der
+durchgeführten Risikobewertungen. Die Unterrichtung kann auch durch
+Gewährung des Zugriffs auf die Daten erfolgen, die dem Deutschen
+Institut für Medizinische Dokumentation und Information gemäß § 29
+Absatz 1 Satz 5 des Medizinproduktegesetzes übermittelt worden sind.
 
 (3) Informationen und Auskünfte zu vorliegenden Meldungen,
 durchgeführten Risikobewertungen und korrektiven Maßnahmen dürfen auch
@@ -639,53 +664,6 @@ vertretungsberechtigt ausgewiesenen Personen keine personenbezogenen
 Daten enthalten.
 
 
-### Anlage (zu § 16 Abs. 2 Satz 1)
-
-
-*    *   1.
-
-    *   Aktive implantierbare Medizinprodukte
-
-
-*    *   1.1
-
-    *   Herzschrittmacher
-
-
-*    *   1.2
-
-    *   Defibrillatoren
-
-
-*    *   1.3
-
-    *   Infusionssysteme
-
-
-*    *   2.
-
-    *   Sonstige implantierbare Medizinprodukte
-
-
-*    *   2.1
-
-    *   Herzklappen
-
-
-*    *   2.2
-
-    *   Gefäßprothesen und Gefäßstützen
-
-
-*    *   2.3
-
-    *   Brustimplantate
-
-
-*    *   2.4
-
-    *   Hüftendoprothesen
-
-
+### Anlage (weggefallen)
 
 

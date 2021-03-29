@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2612
 
+Geändert durch
+:   Art. 1 V v. 16.10.2017 I 3565
+
 
 
 ## Eingangsformel
@@ -449,10 +452,12 @@ bestanden.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
+(zu § 4 Abs. 1)
 
-## Anlage (zu § 4 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft im Fahrbetrieb
 
-(Fundstelle: BGBl. I 2002, 2615 - 2621)
+(Fundstelle: BGBl. I 2002, 2615 - 2621; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Lfd. Nr.
 
@@ -895,7 +900,8 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
 
 
         d)  betriebliche Möglichkeiten zur Umsetzung von Kundenwünschen prüfen und
-            Kunden informieren
+            Kunden informieren, dabei Belange mobilitätseingeschränkter Fahrgäste,
+            insbesondere von Menschen mit Behinderungen, berücksichtigen
 
 
         e)  Korrespondenz führen
@@ -1248,8 +1254,9 @@ Diese Verordnung tritt am 1. August 2002 in Kraft.
         a)  fahrgastfreundliche Fahrtechniken anwenden
 
 
-        b)  An- und Abfahrtvorgänge an Haltestellen kundenfreundlich gestalten,
-            insbesondere Belange spezieller Personengruppen berücksichtigten
+        b)  An- und Abfahrtsvorgänge an Haltestellen kundenfreundlich gestalten,
+            dabei Belange spezieller Personengruppen, insbesondere von
+            mobilitätseingeschränkten Personen, berücksichtigen
 
 
 

@@ -3,7 +3,7 @@ Title: Fakultativprotokoll zum Übereinkommen gegen Folter und andere grausame, 
   oder erniedrigende Behandlung oder Strafe
 jurabk: FoltÜbkFakProt
 layout: default
-origslug: folt_bkfakprot
+origslug: foltuebkfakprot
 slug: foltuebkfakprot
 
 ---

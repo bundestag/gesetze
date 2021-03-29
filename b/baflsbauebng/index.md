@@ -2,7 +2,7 @@
 Title: Gesetz zur Übernahme der Beamten und Arbeitnehmer der Bundesanstalt für Flugsicherung
 jurabk: BAFlSBAÜbnG
 layout: default
-origslug: baflsba_bng
+origslug: baflsbauebng
 slug: baflsbauebng
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1370, 1376
 
 Zuletzt geändert durch
-:   Art. 8 G v. 29.7.2009 I 2424
+:   Art. 578 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -39,7 +39,7 @@ Bundesbesoldungsgesetz, nach der Verordnung zur vorläufigen Regelung
 von Erschwerniszulagen in besonderen Fällen vom 22. März 1974 (BGBl. I
 S. 774), zuletzt geändert durch Artikel 3 des Gesetzes vom 19. Juli
 1990 (BGBl. I S. 1451), nach den Richtlinien des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung für die Gewährung einer
+für Verkehr und digitale Infrastruktur für die Gewährung einer
 Aufwandsentschädigung für Betriebspersonal der Bundesanstalt für
 Flugsicherung und die entsprechenden tarifrechtlichen Regelungen, wie
 sie bis zum Zeitpunkt der Aufhebung des Gesetzes über die
@@ -66,13 +66,13 @@ bildet das vollendete 55. Lebensjahr die Altersgrenze.
 (2) Wenn dringende dienstliche Rücksichten die Fortführung des
 Dienstes erfordern und die Tauglichkeit für den dienstlichen Einsatz
 fortbesteht, kann abweichend von § 53 Abs. 2 Satz 2 des
-Bundesbeamtengesetzes das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung im Einzelfall mit Zustimmung des Beamten den Eintritt
-in den Ruhestand bis zu zwei Jahre hinausschieben. § 53 Abs. 2 Satz 2
-des Bundesbeamtengesetzes findet ebenfalls keine Anwendung, wenn der
-Eintritt in den Ruhestand auf Antrag des Beamten gemäß § 53 Abs. 1
-Satz 2 des Bundesbeamtengesetzes hinausgeschoben wurde. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung kann die
+Bundesbeamtengesetzes das Bundesministerium für Verkehr und digitale
+Infrastruktur im Einzelfall mit Zustimmung des Beamten den Eintritt in
+den Ruhestand bis zu zwei Jahre hinausschieben. § 53 Abs. 2 Satz 2 des
+Bundesbeamtengesetzes findet ebenfalls keine Anwendung, wenn der
+Eintritt in den Ruhestand auf Antrag des Beamten gemäß § 53 Absatz 1
+Satz 3 des Bundesbeamtengesetzes hinausgeschoben wurde. Das
+Bundesministerium für Verkehr und digitale Infrastruktur kann die
 Befugnis nach Satz 1 auf eine andere Behörde übertragen.
 
 (3) Das Ruhegehalt wird für Beamte im Flugverkehrskontrolldienst auf
@@ -80,7 +80,7 @@ Lebenszeit, die wegen Erreichens der Altersgrenze nach den Absätzen 1
 und 2 in den Ruhestand treten, erhöht. Entsprechendes gilt für das
 Ruhegehalt, wenn das Beamtenverhältnis wegen Dienstunfähigkeit oder
 durch Tod innerhalb der Zeit endet, in der der Eintritt in den
-Ruhestand nach Absatz 2 sowie nach § 53 Abs. 1 Satz 2 des
+Ruhestand nach Absatz 2 sowie nach § 53 Absatz 1 Satz 3 des
 Bundesbeamtengesetzes hinausgeschoben ist; dies gilt nicht, wenn die
 Dienstunfähigkeit oder der Tod die Folge eines Dienstunfalles im Sinne
 des § 31 des Beamtenversorgungsgesetzes ist. Die Erhöhung beträgt bei

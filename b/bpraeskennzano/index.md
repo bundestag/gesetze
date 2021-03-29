@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über die Kennzeichnung der Luftfahrzeug
   Kampffahrzeuge der Bundeswehr
 jurabk: BPräsKennzAnO
 layout: default
-origslug: bpr_skennzano
+origslug: bpraeskennzano
 slug: bpraeskennzano
 
 ---
@@ -25,8 +25,8 @@ Bundeswehr bestimme ich ein schwarzes Kreuz mit weißer Umrandung in
 der aus dem nachstehend abgebildeten Muster ersichtlichen Form.
 
 (2) Der Bundesminister
-für              Verteidigung wird ermächtigt, Ausführungsbestimmungen
-zu dieser Anordnung zu erlassen.
+für Verteidigung wird ermächtigt, Ausführungsbestimmungen zu dieser
+Anordnung zu erlassen.
 
 
 ## Muster

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2005, 2165
 
 Zuletzt geändert durch
-:   Art. 4 G v. 19.11.2010 I 1592
+:   Art. 130 G v. 29.3.2017 I 626
 
 
 
@@ -141,9 +141,9 @@ Barwerte zu ermitteln. Auf Fremdwährungspositionen ist anschließend §
 gebracht werden. Dieser ist mittels eines eigenen Risikomodells zu
 ermitteln, dessen Eignung die Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) auf Grundlage einer
-Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes schriftlich
-bestätigt hat.§ 313 Absatz 3 Satz 1 der Solvabilitätsverordnung gilt
-mit den folgenden Maßgaben entsprechend:
+Prüfung nach § 44 Abs. 1 Satz 2 des Kreditwesengesetzes bestätigt hat.
+§ 313 Absatz 3 Satz 1 der Solvabilitätsverordnung gilt mit den
+folgenden Maßgaben entsprechend:
 
 1.  Zur Anpassung an die Anforderungen des dynamischen Ansatzes müssen die
     gewählten Laufzeiten mindestens die in Absatz 1 Nr. 2 genannten

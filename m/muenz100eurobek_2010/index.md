@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze „UNESCO Welterbe Würzburger Residenz und Hofgarten“)
 jurabk: Münz100EuroBek 2010
 layout: default
-origslug: m_nz100eurobek_2010
+origslug: muenz100eurobek_2010
 slug: muenz100eurobek_2010
 
 ---

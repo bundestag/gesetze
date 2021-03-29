@@ -473,7 +473,7 @@ Angestelltenversicherungsgesetzes und § 93 Abs. 1 des
 Reichsknappschaftsgesetzes bleiben unberührt.
 
 
-### Fünfter Abschnitt -
+### Fünfter Abschnitt - 
 
 
 
@@ -481,7 +481,7 @@ Reichsknappschaftsgesetzes bleiben unberührt.
 
 
 
-## Art 2 -
+## Art 2 - 
 
 
 

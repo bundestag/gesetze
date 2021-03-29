@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 217
 
 Zuletzt geändert durch
-:   Art. 5 G v. 20.12.2012 I 2751
+:   Art. 11 Abs. 29 G v. 18.7.2017 I 2745
 
 
 
@@ -39,9 +39,10 @@ der Finanzen:
 Handelsgesetzbuchs zur Einstellung übermittelten Daten, mit Ausnahme
 der gemäß § 326 Absatz 2 des Handelsgesetzbuchs lediglich hinterlegten
 Bilanzen von Kleinstkapitalgesellschaften (§ 267a des
-Handelsgesetzbuchs), im Internet unmittelbar zugänglich gemacht. Die
-Daten werden strukturiert in Form der Extensible Markup Language (XML)
-oder einem nach dem Stand der Technik vergleichbaren Format
+Handelsgesetzbuchs) oder Kleinstgenossenschaften (§ 336 Absatz 2 Satz
+3 des Handelsgesetzbuchs), im Internet unmittelbar zugänglich gemacht.
+Die Daten werden strukturiert in Form der Extensible Markup Language
+(XML) oder einem nach dem Stand der Technik vergleichbaren Format
 gespeichert. Eine Speicherung in einem reinen Binärformat ist nur
 zulässig, soweit eine Umwandlung in Text nicht oder nur mit
 unvertretbarem Aufwand möglich ist. Das Unternehmensregister muss
@@ -260,14 +261,12 @@ des § 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs:
 ## § 9 Übermittlung von Unterlagen der Rechnungslegung
 
 Wird ein Antrag auf elektronische Übermittlung nach § 9 Abs. 2 des
-Handelsgesetzbuchs oder auf Offenlegung als elektronisches Dokument
-nach Artikel 61 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch
-gestellt, der sich auf Unterlagen der Rechnungslegung im Sinn des § 8b
-Abs. 2 Nr. 4 des Handelsgesetzbuchs bezieht, übermittelt das
-Registergericht dem Unternehmensregister die Schriftstücke, auf die
-sich der Antrag bezieht. Die Schriftstücke werden in ein
-elektronisches Dokument übertragen und im Unternehmensregister
-unmittelbar zugänglich gemacht; § 9 Abs. 4 der
+Handelsgesetzbuchs gestellt, der sich auf Unterlagen der
+Rechnungslegung im Sinn des § 8b Abs. 2 Nr. 4 des Handelsgesetzbuchs
+bezieht, übermittelt das Registergericht dem Unternehmensregister die
+Schriftstücke, auf die sich der Antrag bezieht. Die Schriftstücke
+werden in ein elektronisches Dokument übertragen und im
+Unternehmensregister unmittelbar zugänglich gemacht; § 9 Abs. 4 der
 Handelsregisterverordnung gilt entsprechend. Das Unternehmensregister
 übermittelt das elektronische Dokument zudem über eine nach dem Stand
 der Technik gesicherte, zwischen dem Betreiber und den
@@ -281,25 +280,26 @@ Landesjustizverwaltungen festgelegte Stelle.
 Unternehmensregister die Daten im Sinn des § 8b Abs. 3 Satz 1 Nr. 1
 des Handelsgesetzbuchs, mit Ausnahme der gemäß § 326 Absatz 2 des
 Handelsgesetzbuchs lediglich hinterlegten Bilanzen von
-Kleinstkapitalgesellschaften, unverzüglich nach ihrer
-Veröffentlichung, spätestens bis zum Ablauf des auf die
-Veröffentlichung folgenden Arbeitstages. Die Daten sind unter
-Verwendung einer vom Betreiber bestimmten, nach dem Stand der Technik
-gesicherten Verbindung sowie in einem vom Betreiber bestimmten, in
-Wirtschaftskreisen verbreiteten strukturierten Format, zum Beispiel in
-Form der Extensible Markup Language (XML), zu übermitteln. Der Eingang
-übermittelter Daten ist mit einem Zeitstempel unter Verwendung einer
-fortgeschrittenen elektronischen Signatur im Sinn des § 2 Nr. 2 des
-Signaturgesetzes zu dokumentieren.
+Kleinstkapitalgesellschaften oder Kleinstgenossenschaften,
+unverzüglich nach ihrer Veröffentlichung, spätestens bis zum Ablauf
+des auf die Veröffentlichung folgenden Arbeitstages. Die Daten sind
+unter Verwendung einer vom Betreiber bestimmten, nach dem Stand der
+Technik gesicherten Verbindung sowie in einem vom Betreiber
+bestimmten, in Wirtschaftskreisen verbreiteten strukturierten Format,
+zum Beispiel in Form der Extensible Markup Language (XML), zu
+übermitteln. Der Eingang übermittelter Daten ist mit einem Zeitstempel
+unter Verwendung einer fortgeschrittenen elektronischen Signatur zu
+dokumentieren.
 
 (2) Der Betreiber des Bundesanzeigers übermittelt dem
 Unternehmensregister unverzüglich die nach § 326 Absatz 2 des
-Handelsgesetzbuchs von Kleinstkapitalgesellschaften zur Hinterlegung
-eingereichten Bilanzen in einem Dateiformat, das die Archivierung der
-Daten ermöglicht. Reicht eine Kleinstkapitalgesellschaft ihre Bilanz
+Handelsgesetzbuchs von Kleinstkapitalgesellschaften oder
+Kleinstgenossenschaften zur Hinterlegung eingereichten Bilanzen in
+einem Dateiformat, das die Archivierung der Daten ermöglicht. Reicht
+eine Kleinstkapitalgesellschaft oder Kleinstgenossenschaft ihre Bilanz
 beim Betreiber des Bundesanzeigers in einem anderen, zur Archivierung
-der Daten nicht geeigneten Dateiformat ein, wandelt der Betreiber des
-Bundesanzeigers die Daten im Auftrag des Unternehmens um.
+der Daten nicht geeigneten Dateiformat ein, wandelt dieser die Daten
+im Auftrag des Unternehmens um.
 
 
 ## § 11 Datenübermittlung durch Veröffentlichungspflichtige oder mit der Veranlassung der Veröffentlichung beauftragte Dritte
@@ -307,11 +307,11 @@ Bundesanzeigers die Daten im Auftrag des Unternehmens um.
 Daten im Sinn des § 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind dem
 Unternehmensregister unverzüglich nach der Veröffentlichung sowie
 Daten im Sinn des § 8b Abs. 2 Nr. 10 des Handelsgesetzbuchs
-unverzüglich nach der Mitteilung zu übermitteln. § 10 Satz 2 und 3
-gilt entsprechend. Den Veröffentlichungspflichtigen und den von diesen
-mit der Veranlassung der Veröffentlichung beauftragten Dritten kann
-auch die Übermittlung über Formulare im Internet ermöglicht werden.
-Für die Übermittlung ist eine Registrierung des
+unverzüglich nach der Mitteilung zu übermitteln. § 10 Absatz 1 Satz 2
+und 3 gilt entsprechend. Den Veröffentlichungspflichtigen und den von
+diesen mit der Veranlassung der Veröffentlichung beauftragten Dritten
+kann auch die Übermittlung über Formulare im Internet ermöglicht
+werden. Für die Übermittlung ist eine Registrierung des
 Veröffentlichungspflichtigen oder des mit der Veranlassung der
 Veröffentlichung beauftragten Dritten nach § 3 erforderlich. Der
 Erfolg der Übermittlung wird elektronisch angezeigt.
@@ -360,7 +360,8 @@ kennzeichnen.
 
 (4) Der Antrag auf Übermittlung einer Kopie von lediglich hinterlegten
 Bilanzen von Kleinstkapitalgesellschaften (§ 267a des
-Handelsgesetzbuchs) an das Unternehmensregister ist nur nach
+Handelsgesetzbuchs) oder Kleinstgenossenschaften (§ 336 Absatz 2 Satz
+3 des Handelsgesetzbuchs) an das Unternehmensregister ist nur nach
 vorheriger Registrierung möglich. Die Übermittlung erfolgt in
 elektronischer Form. Die Kopie ist mit dem Herkunftsvermerk „Auszug
 aus dem Unternehmensregister“ und dem Datum, zu dem die Bilanz im
@@ -375,12 +376,12 @@ Daten sowie über sämtliche Indexdaten.
 
 ## § 15 Auskunftsdienstleistungen; Zahlungen und Rechnungsstellung
 
-(1) Der Betreiber kann mit den Daten im Sinn des § 1 Abs. 1 Satz 1 mit
-Ausnahme der nach § 326 Absatz 2 des Handelsgesetzbuchs lediglich
-hinterlegten Bilanzen von Kleinstkapitalgesellschaften über diese
-Verordnung hinausgehende weitere entgeltliche
-Auskunftsdienstleistungen anbieten, insbesondere kann er eine
-automatisierte Unterrichtung über neu zugänglich gemachte Daten
+(1) Der Betreiber kann mit den Daten im Sinn des § 1 Absatz 1 Satz 1
+mit Ausnahme der nach § 326 Absatz 2 des Handelsgesetzbuchs lediglich
+hinterlegten Bilanzen von Kleinstkapitalgesellschaften oder
+Kleinstgenossenschaften über diese Verordnung hinausgehende weitere
+entgeltliche Auskunftsdienstleistungen anbieten; insbesondere kann er
+eine automatisierte Unterrichtung über neu zugänglich gemachte Daten
 vorsehen. Der Betreiber kann vor der Nutzung von
 Auskunftsdienstleistungen eine Registrierung nach § 3 verlangen.
 
@@ -412,10 +413,10 @@ Aussageverweigerungsrechte sowie gesetzliche
 Verschwiegenheitspflichten bleiben unberührt. Sollte der Betreiber
 berechtigten Verlangen der Bundesanstalt für
 Finanzdienstleistungsaufsicht nicht nachkommen, kann diese gegenüber
-dem Bundesministerium der Justiz als der Kontroll- und
-Aufsichtsbehörde über das Unternehmensregister auf die Erfüllung der
-bestehenden Pflichten durch den Betreiber und die Beseitigung von
-Missständen hinwirken.
+dem Bundesministerium der Justiz und für Verbraucherschutz als der
+Kontroll- und Aufsichtsbehörde über das Unternehmensregister auf die
+Erfüllung der bestehenden Pflichten durch den Betreiber und die
+Beseitigung von Missständen hinwirken.
 
 
 ## § 17 Erstmalige Übermittlung der Indexdaten

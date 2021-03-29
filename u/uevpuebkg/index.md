@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 21. März 1983 über die Überstellung v
   Personen
 jurabk: ÜvPÜbkG
 layout: default
-origslug: _vp_bkg
+origslug: uevpuebkg
 slug: uevpuebkg
 
 ---

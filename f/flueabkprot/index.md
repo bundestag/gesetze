@@ -2,7 +2,7 @@
 Title: Protokoll über die Rechtsstellung der Flüchtlinge
 jurabk: FlüAbkProt
 layout: default
-origslug: fl_abkprot
+origslug: flueabkprot
 slug: flueabkprot
 
 ---

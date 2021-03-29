@@ -2,7 +2,7 @@
 Title: Zweites Gesetz zur Änderung des Heimgesetzes
 jurabk: HeimGÄndG 2
 layout: default
-origslug: heimg_ndg_2
+origslug: heimgaendg_2
 slug: heimgaendg_2
 
 ---

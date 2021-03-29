@@ -3,7 +3,7 @@ Title: Verwaltungsvereinbarung zur Durchführung des Übereinkommens vom 30. Nov
   1979 über die soziale Sicherheit der Rheinschiffer
 jurabk: SozSichRheinSchiffÜbkVwVbg
 layout: default
-origslug: sozsichrheinschiff_bkvwvbg
+origslug: sozsichrheinschiffuebkvwvbg
 slug: sozsichrheinschiffuebkvwvbg
 
 ---

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 955
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 111 G v. 5.2.2009 I 160
+:   Art. 512 V v. 31.8.2015 I 1474
 
 
 ## § 8 Zusammensetzung und Rechtsstellung des Vorstands
@@ -191,13 +191,13 @@ Abs. 1 Satz 4 und 5, Abs. 2 Satz 2, 3 und 5, Abs. 3 sowie die §§ 8a,
 ## § 23 Belohnungen und Vergütungen
 
 (1) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im
+Bundesministeriums für Verkehr und digitale Infrastruktur, die im
 Einvernehmen mit den Bundesministerien des Innern und der Finanzen
 erteilt wird, Richtlinien für die Gewährung von Belohnungen in
 besonderen Fällen und für besondere Leistungen erlassen.
 
 (2) Der Vorstand der Deutschen Bundesbahn kann mit Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung, die im
+Bundesministeriums für Verkehr und digitale Infrastruktur, die im
 Einvernehmen mit den Bundesministerien des Innern und der Finanzen
 erteilt wird, Richtlinien darüber erlassen, inwieweit für die
 Tätigkeit auf besonders schwierigen Dienstposten des Außendienstes

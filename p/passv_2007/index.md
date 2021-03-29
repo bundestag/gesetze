@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2386
 
-Zuletzt geändert durch
-:   Art. 1 V v. 25.10.2010 I 1440
-
+Stand: Zuletzt geändert Art. 1 V v. 15.2.2017 I 162
 
 ## Kapitel 1 - Passmuster
 
@@ -297,7 +295,7 @@ an der Belassung des amtlichen Passes vorliegt.
     *   eines Reisepasses nach Anlage 1 an Personen, die das 24. Lebensjahr
         vollendet haben,
 
-    *   59 Euro,
+    *   60 Euro,
 
 
 *    *
@@ -424,8 +422,8 @@ die Gebühren nach Absatz 1 Nummer 2 um 12 Euro anzuheben.
 ### § 16 Erstattung von Auslagen
 
 Als Auslagen erhebt die Passbehörde von der die Gebühren schuldenden
-Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes
-bezeichneten Aufwendungen.
+Person die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes in der
+bis zum 14. August 2013 geltenden Fassung bezeichneten Aufwendungen.
 
 
 ### § 17 Ermäßigung und Befreiung von Gebühren
@@ -447,51 +445,52 @@ Lichtbild versehen sind und vor Inkrafttreten dieser Verordnung
 ausgestellt wurden, behalten für den jeweiligen Gültigkeitszeitraum
 ihre Geltung und sind Pässe im Sinne des § 1 des Passgesetzes.
 
-(2) Vordrucke für Kinderreisepässe, die der Anlage 2 in der bis zum
-31\. Oktober 2010 geltenden Fassung entsprechen, Vordrucke für
-vorläufige Reisepässe, die der Anlage 3 in der bis zum 31. Oktober
-2010 geltenden Fassung entsprechen, Vordrucke für vorläufige
-Dienstpässe, die der Anlage 6 in der bis zum 31. Oktober 2010
-geltenden Fassung entsprechen und Vordrucke für vorläufige
-Diplomatenpässe, die der Anlage 7 in der bis zum 31. Oktober 2010
-geltenden Fassung entsprechen, können bis zum 31. Oktober 2011
-weiterverwendet werden.
+(2) Vordrucke für Reisepässe, vorläufige Reisepässe, Kinderreisepässe,
+Dienstpässe, vorläufige Dienstpässe, Diplomatenpässe und vorläufige
+Diplomatenpässe der in den Anlagen 1 bis 7 in der bis zum 31. Oktober
+2014 geltenden Fassung können bis zum 31. Oktober 2015 weiterverwendet
+werden.
+
+(3) Geht ein Antrag auf Ausstellung eines Passes vor dem 1. März 2017
+beim Passhersteller ein, kann der Pass auf Grundlage der bis zum 28.
+Februar 2017 geltenden Fassung dieser Verordnung ausgestellt werden.
 
 
-### Anlage 1
+### Anlage 1 Passmuster Reisepass (32 Seiten)
 
-(Fundstelle: BGBl. I 2007, 2390 - 2396;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *   Reisepass (32 Seiten)
-
-    *   Decke
-
-
-*    *        ![bgbl1_2007_j23860_0010.jpg](bgbl1_2007_j23860_0010.jpg)
-
+(Fundstelle: BGBl. I 2017, 163 — 172)
 
 
 *    *   Reisepass (32 Seiten)
 
-    *   Vorsatz und Passkartenrückseite
+    *   Einband
 
 
-*    *        ![bgbl1_2008_j2201-1_0010.jpg](bgbl1_2008_j2201-1_0010.jpg)
+*    *        ![bgbl1_2017_j0162-1_0010.jpg](bgbl1_2017_j0162-1_0010.jpg)
+    *        ![bgbl1_2017_j0162-1_0020.jpg](bgbl1_2017_j0162-1_0020.jpg)
+
 
 
 
 *    *   Reisepass (32 Seiten)
 
-    *   Passkartenvorderseite und Passbuchinnenseite 1
+    *   Vorsatz und Passkartentitelseite
 
 
-*    *        ![bgbl1_2010_j1440-1_0010.jpg](bgbl1_2010_j1440-1_0010.jpg)
-
-*    *   Die Seiten 1 bis 32 werden am unteren
-        Rand mit der Seriennummer versehen.
 
 
+![bgbl1_2017_j0162-1_0030.jpg](bgbl1_2017_j0162-1_0030.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passkartendatenseite und Passbuchinnenseite 1
+
+
+
+
+![bgbl1_2017_j0162-1_0040.jpg](bgbl1_2017_j0162-1_0040.jpg)
+Die Seiten 1 bis 32 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
 
 *    *   Reisepass (32 Seiten)
@@ -499,75 +498,180 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 2 und 3
 
 
-*    *        ![bgbl1_2007_j23860_0040.jpg](bgbl1_2007_j23860_0040.jpg)
 
 
+![bgbl1_2017_j0162-1_0050.jpg](bgbl1_2017_j0162-1_0050.jpg)
 
 *    *   Reisepass (32 Seiten)
 
     *   Passbuchinnenseiten 4 und 5
 
 
-*    *        ![bgbl1_2010_j1440-1_0020.jpg](bgbl1_2010_j1440-1_0020.jpg)
 
 
+![bgbl1_2017_j0162-1_0060.jpg](bgbl1_2017_j0162-1_0060.jpg)
 
 *    *   Reisepass (32 Seiten)
 
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2007_j23860_0060.jpg](bgbl1_2007_j23860_0060.jpg)
-
-*    *   Seiten 6 bis 31 gleichlautend
 
 
-
+![bgbl1_2017_j0162-1_0070.jpg](bgbl1_2017_j0162-1_0070.jpg)
 
 *    *   Reisepass (32 Seiten)
 
-    *   Passbuchinnenseite 32 und Vorsatz
-
-
-*    *        ![bgbl1_2007_j23860_0070.jpg](bgbl1_2007_j23860_0070.jpg)
+    *   Passbuchinnenseiten 8 und 9
 
 
 
 
-### Anlage 1a
+![bgbl1_2017_j0162-1_0080.jpg](bgbl1_2017_j0162-1_0080.jpg)
 
-   (Fundstelle: BGBl. I 2007, 2397 - 2403;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 10 und 11
+
+
+
+
+![bgbl1_2017_j0162-1_0090.jpg](bgbl1_2017_j0162-1_0090.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 12 und 13
+
+
+
+
+![bgbl1_2017_j0162-1_0100.jpg](bgbl1_2017_j0162-1_0100.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 14 und 15
+
+
+
+
+![bgbl1_2017_j0162-1_0110.jpg](bgbl1_2017_j0162-1_0110.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 16 und 17
+
+
+
+
+![bgbl1_2017_j0162-1_0120.jpg](bgbl1_2017_j0162-1_0120.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 18 und 19
+
+
+
+
+![bgbl1_2017_j0162-1_0130.jpg](bgbl1_2017_j0162-1_0130.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 20 und 21
+
+
+
+
+![bgbl1_2017_j0162-1_0140.jpg](bgbl1_2017_j0162-1_0140.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 22 und 23
+
+
+
+
+![bgbl1_2017_j0162-1_0150.jpg](bgbl1_2017_j0162-1_0150.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 24 und 25
+
+
+
+
+![bgbl1_2017_j0162-1_0160.jpg](bgbl1_2017_j0162-1_0160.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 26 und 27
+
+
+
+
+![bgbl1_2017_j0162-1_0170.jpg](bgbl1_2017_j0162-1_0170.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 28 und 29
+
+
+
+
+![bgbl1_2017_j0162-1_0180.jpg](bgbl1_2017_j0162-1_0180.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseiten 30 und 31
+
+
+
+
+![bgbl1_2017_j0162-1_0190.jpg](bgbl1_2017_j0162-1_0190.jpg)
+
+*    *   Reisepass (32 Seiten)
+
+    *   Passbuchinnenseite 32 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2017_j0162-1_0200.jpg](bgbl1_2017_j0162-1_0200.jpg)
+
+### Anlage 1a Passmuster Reisepass (48 Seiten)
+
+(Fundstelle: BGBl. I 2017, 173 — 186)
+
 
 *    *   Reisepass (48 Seiten)
 
-    *   Decke
+    *   Einband
 
 
-*    *        ![bgbl1_2007_j23860_0080.jpg](bgbl1_2007_j23860_0080.jpg)
+*    *        ![bgbl1_2017_j0162-1_0210.jpg](bgbl1_2017_j0162-1_0210.jpg)
+    *        ![bgbl1_2017_j0162-1_0220.jpg](bgbl1_2017_j0162-1_0220.jpg)
 
-
-
-*    *   Reisepass (48 Seiten)
-
-    *   Vorsatz und Passkartenrückseite
-
-
-*    *        ![bgbl1_2008_j2201-1_0020.jpg](bgbl1_2008_j2201-1_0020.jpg)
 
 
 
 *    *   Reisepass (48 Seiten)
 
-    *   Passkartenvorderseite und Passbuchinnenseite 1
+    *   Vorsatz und Passkartentitelseite
 
 
-*    *        ![bgbl1_2010_j1440-1_0030.jpg](bgbl1_2010_j1440-1_0030.jpg)
-
-*    *   Die Seiten 1 bis 48 werden am unteren
-        Rand mit der Seriennummer versehen.
 
 
+![bgbl1_2017_j0162-1_0230.jpg](bgbl1_2017_j0162-1_0230.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passkartendatenseite und Passbuchinnenseite 1
+
+
+
+
+![bgbl1_2017_j0162-1_0240.jpg](bgbl1_2017_j0162-1_0240.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
 
 *    *   Reisepass (48 Seiten)
@@ -575,62 +679,241 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 2 und 3
 
 
-*    *        ![bgbl1_2007_j23860_0110.jpg](bgbl1_2007_j23860_0110.jpg)
 
 
+![bgbl1_2017_j0162-1_0250.jpg](bgbl1_2017_j0162-1_0250.jpg)
 
 *    *   Reisepass (48 Seiten)
 
     *   Passbuchinnenseiten 4 und 5
 
 
-*    *        ![bgbl1_2010_j1440-1_0040.jpg](bgbl1_2010_j1440-1_0040.jpg)
 
 
+![bgbl1_2017_j0162-1_0260.jpg](bgbl1_2017_j0162-1_0260.jpg)
 
 *    *   Reisepass (48 Seiten)
 
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2007_j23860_0130.jpg](bgbl1_2007_j23860_0130.jpg)
-
-*    *   Seiten 6 bis 47 gleichlautend
 
 
-
+![bgbl1_2017_j0162-1_0270.jpg](bgbl1_2017_j0162-1_0270.jpg)
 
 *    *   Reisepass (48 Seiten)
 
-    *   Passbuchinnenseite 48 und Vorsatz
-
-
-*    *        ![bgbl1_2007_j23860_0140.jpg](bgbl1_2007_j23860_0140.jpg)
+    *   Passbuchinnenseiten 8 und 9
 
 
 
 
-### Anlage 2
+![bgbl1_2017_j0162-1_0280.jpg](bgbl1_2017_j0162-1_0280.jpg)
 
-   (Fundstelle: BGBl. I 2007, 2404 - 2412;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 10 und 11
+
+
+
+
+![bgbl1_2017_j0162-1_0290.jpg](bgbl1_2017_j0162-1_0290.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 12 und 13
+
+
+
+
+![bgbl1_2017_j0162-1_0300.jpg](bgbl1_2017_j0162-1_0300.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 14 und 15
+
+
+
+
+![bgbl1_2017_j0162-1_0310.jpg](bgbl1_2017_j0162-1_0310.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 16 und 17
+
+
+
+
+![bgbl1_2017_j0162-1_0320.jpg](bgbl1_2017_j0162-1_0320.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 18 und 19
+
+
+
+
+![bgbl1_2017_j0162-1_0330.jpg](bgbl1_2017_j0162-1_0330.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 20 und 21
+
+
+
+
+![bgbl1_2017_j0162-1_0340.jpg](bgbl1_2017_j0162-1_0340.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 22 und 23
+
+
+
+
+![bgbl1_2017_j0162-1_0350.jpg](bgbl1_2017_j0162-1_0350.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 24 und 25
+
+
+
+
+![bgbl1_2017_j0162-1_0360.jpg](bgbl1_2017_j0162-1_0360.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 26 und 27
+
+
+
+
+![bgbl1_2017_j0162-1_0370.jpg](bgbl1_2017_j0162-1_0370.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 28 und 29
+
+
+
+
+![bgbl1_2017_j0162-1_0380.jpg](bgbl1_2017_j0162-1_0380.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 30 und 31
+
+
+
+
+![bgbl1_2017_j0162-1_0390.jpg](bgbl1_2017_j0162-1_0390.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 32 und 33
+
+
+
+
+![bgbl1_2017_j0162-1_0400.jpg](bgbl1_2017_j0162-1_0400.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 34 und 35
+
+
+
+
+![bgbl1_2017_j0162-1_0410.jpg](bgbl1_2017_j0162-1_0410.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 36 und 37
+
+
+
+
+![bgbl1_2017_j0162-1_0420.jpg](bgbl1_2017_j0162-1_0420.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 38 und 39
+
+
+
+
+![bgbl1_2017_j0162-1_0430.jpg](bgbl1_2017_j0162-1_0430.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 40 und 41
+
+
+
+
+![bgbl1_2017_j0162-1_0440.jpg](bgbl1_2017_j0162-1_0440.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 42 und 43
+
+
+
+
+![bgbl1_2017_j0162-1_0450.jpg](bgbl1_2017_j0162-1_0450.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 44 und 45
+
+
+
+
+![bgbl1_2017_j0162-1_0460.jpg](bgbl1_2017_j0162-1_0460.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseiten 46 und 47
+
+
+
+
+![bgbl1_2017_j0162-1_0470.jpg](bgbl1_2017_j0162-1_0470.jpg)
+
+*    *   Reisepass (48 Seiten)
+
+    *   Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2017_j0162-1_0480.jpg](bgbl1_2017_j0162-1_0480.jpg)
+
+### Anlage 2 Passmuster Kinderreisepass
+
+(Fundstelle: BGBl. I 2017, 187 — 192)
+
 
 *    *   Kinderreisepass
 
-    *   Decke
+    *   Einband
 
 
-*    *        ![bgbl1_2007_j23860_0150.jpg](bgbl1_2007_j23860_0150.jpg)
 
 
+![bgbl1_2017_j0162-1_0490.jpg](bgbl1_2017_j0162-1_0490.jpg)
 
 *    *   Kinderreisepass
 
     *   Vorsatz und Passbuchinnenseite 1
 
 
-*    *        ![bgbl1_2007_j23860_0160.jpg](bgbl1_2007_j23860_0160.jpg)
 
+
+![bgbl1_2017_j0162-1_0500.jpg](bgbl1_2017_j0162-1_0500.jpg)
+Die Seiten 1 bis 16 sowie der hintere Einband
+werden am unteren Rand mit der Dokumentennummer perforiert.
 
 
 *    *   Kinderreisepass
@@ -638,42 +921,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 2 und 3
 
 
-*    *        ![bgbl1_2007_j23860_0170.jpg](bgbl1_2007_j23860_0170.jpg)
-
-*    *   Die Seiten 1 bis 16 und die hintere Passdecke werden
-        am unteren Rand mit der Dokumentennummer versehen
 
 
-
+![bgbl1_2017_j0162-1_0510.jpg](bgbl1_2017_j0162-1_0510.jpg)
 
 *    *   Kinderreisepass
 
     *   Passbuchinnenseiten 4 und 5
 
 
-*    *        ![bgbl1_2007_j23860_0180.jpg](bgbl1_2007_j23860_0180.jpg)
 
 
+![bgbl1_2017_j0162-1_0520.jpg](bgbl1_2017_j0162-1_0520.jpg)
 
 *    *   Kinderreisepass
 
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2010_j1440-1_0050.jpg](bgbl1_2010_j1440-1_0050.jpg)
 
 
+![bgbl1_2017_j0162-1_0530.jpg](bgbl1_2017_j0162-1_0530.jpg)
 
 *    *   Kinderreisepass
 
     *   Passbuchinnenseiten 8 und 9
 
 
-*    *        ![bgbl1_2007_j23860_0200.jpg](bgbl1_2007_j23860_0200.jpg)
-
-*    *   Seiten 8 bis 15 gleichlautend
 
 
+![bgbl1_2017_j0162-1_0540.jpg](bgbl1_2017_j0162-1_0540.jpg)
+Seiten 8 bis 15 gleichlautend.
 
 
 *    *   Kinderreisepass
@@ -681,32 +959,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseite 16 und Vorsatz
 
 
-*    *        ![bgbl1_2007_j23860_0210.jpg](bgbl1_2007_j23860_0210.jpg)
 
 
+![bgbl1_2017_j0162-1_0550.jpg](bgbl1_2017_j0162-1_0550.jpg)
 
 *    *   Kinderreisepass
 
     *   Aufkleber Personaldaten
 
 
-*    *        ![bgbl1_2010_j1440-1_0060.jpg](bgbl1_2010_j1440-1_0060.jpg)
 
 
+![bgbl1_2017_j0162-1_0560.jpg](bgbl1_2017_j0162-1_0560.jpg)
 
 *    *   Kinderreisepass
 
     *   Aufkleber Verlängerung/Änderung
 
 
-*    *        ![bgbl1_2010_j1440-1_0070.jpg](bgbl1_2010_j1440-1_0070.jpg)
 
 
-
+![bgbl1_2017_j0162-1_0570.jpg](bgbl1_2017_j0162-1_0570.jpg)
 
 ### Anlage 3
 
-   (Fundstelle: BGBl. I 2007, 2413 - 2420;
+(Fundstelle: BGBl. I 2007, 2413 - 2420;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Vorläufiger Reisepass
@@ -754,7 +1031,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2010_j1440-1_0080.jpg](bgbl1_2010_j1440-1_0080.jpg)
+*    *        ![bgbl1_2015_j0218-1_0100.jpg](bgbl1_2015_j0218-1_0100.jpg)
 
 
 
@@ -784,45 +1061,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aufkleber Personaldaten
 
 
-*    *        ![bgbl1_2010_j1440-1_0090.jpg](bgbl1_2010_j1440-1_0090.jpg)
+*    *        ![bgbl1_2013_j0330-1_0040.jpg](bgbl1_2013_j0330-1_0040.jpg)
 
 
 
 
-### Anlage 4
+### Anlage 4 Passmuster Dienstpass
 
-   (Fundstelle: BGBl. I 2007, 2421 - 2428;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-*    *   Dienstpass
-
-    *   Decke
-
-
-*    *        ![bgbl1_2007_j23860_0320.jpg](bgbl1_2007_j23860_0320.jpg)
-
+   (Fundstelle: BGBl. I 2017, 193 — 206)
 
 
 *    *   Dienstpass
 
-    *   Vorsatz und Passkartenrückseite
+    *   Einband
 
 
-*    *        ![bgbl1_2008_j2201-1_0030.jpg](bgbl1_2008_j2201-1_0030.jpg)
+*    *        ![bgbl1_2017_j0162-1_0580.jpg](bgbl1_2017_j0162-1_0580.jpg)
+    *        ![bgbl1_2017_j0162-1_0590.jpg](bgbl1_2017_j0162-1_0590.jpg)
+
 
 
 
 *    *   Dienstpass
 
-    *   Passkartenvorderseite und Passbuchinnenseite 1
+    *   Vorsatz und Passkartentitelseite
 
 
-*    *        ![bgbl1_2010_j1440-1_0100.jpg](bgbl1_2010_j1440-1_0100.jpg)
-
-*    *   Die Seiten 1 bis 48 werden am unteren
-        Rand mit der Seriennummer versehen.
 
 
+![bgbl1_2017_j0162-1_0600.jpg](bgbl1_2017_j0162-1_0600.jpg)
+
+*    *   Dienstpass
+
+    *   Passkartendatenseite und Passbuchinnenseite 1
+
+
+
+
+![bgbl1_2017_j0162-1_0610.jpg](bgbl1_2017_j0162-1_0610.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
 
 *    *   Dienstpass
@@ -830,84 +1108,252 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 2 und 3
 
 
-*    *        ![bgbl1_2007_j23860_0350.jpg](bgbl1_2007_j23860_0350.jpg)
 
 
+![bgbl1_2017_j0162-1_0620.jpg](bgbl1_2017_j0162-1_0620.jpg)
 
 *    *   Dienstpass
 
     *   Passbuchinnenseiten 4 und 5
 
 
-*    *        ![bgbl1_2010_j1440-1_0110.jpg](bgbl1_2010_j1440-1_0110.jpg)
 
 
+![bgbl1_2017_j0162-1_0630.jpg](bgbl1_2017_j0162-1_0630.jpg)
 
 *    *   Dienstpass
 
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2007_j23860_0370.jpg](bgbl1_2007_j23860_0370.jpg)
 
 
+![bgbl1_2017_j0162-1_0640.jpg](bgbl1_2017_j0162-1_0640.jpg)
 
 *    *   Dienstpass
 
     *   Passbuchinnenseiten 8 und 9
 
 
-*    *        ![bgbl1_2007_j23860_0380.jpg](bgbl1_2007_j23860_0380.jpg)
-
-*    *   Seiten 9 bis 47 gleichlautend
 
 
-
+![bgbl1_2017_j0162-1_0650.jpg](bgbl1_2017_j0162-1_0650.jpg)
 
 *    *   Dienstpass
 
-    *   Passbuchinnenseite 48 und Vorsatz
-
-
-*    *        ![bgbl1_2007_j23860_0390.jpg](bgbl1_2007_j23860_0390.jpg)
+    *   Passbuchinnenseiten 10 und 11
 
 
 
 
-### Anlage 5
+![bgbl1_2017_j0162-1_0660.jpg](bgbl1_2017_j0162-1_0660.jpg)
 
-   (Fundstelle: BGBl. I 2007, 2429 - 2436;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 12 und 13
+
+
+
+
+![bgbl1_2017_j0162-1_0670.jpg](bgbl1_2017_j0162-1_0670.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 14 und 15
+
+
+
+
+![bgbl1_2017_j0162-1_0680.jpg](bgbl1_2017_j0162-1_0680.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 16 und 17
+
+
+
+
+![bgbl1_2017_j0162-1_0690.jpg](bgbl1_2017_j0162-1_0690.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 18 und 19
+
+
+
+
+![bgbl1_2017_j0162-1_0700.jpg](bgbl1_2017_j0162-1_0700.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 20 und 21
+
+
+
+
+![bgbl1_2017_j0162-1_0710.jpg](bgbl1_2017_j0162-1_0710.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 22 und 23
+
+
+
+
+![bgbl1_2017_j0162-1_0720.jpg](bgbl1_2017_j0162-1_0720.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 24 und 25
+
+
+
+
+![bgbl1_2017_j0162-1_0730.jpg](bgbl1_2017_j0162-1_0730.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 26 und 27
+
+
+
+
+![bgbl1_2017_j0162-1_0740.jpg](bgbl1_2017_j0162-1_0740.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 28 und 29
+
+
+
+
+![bgbl1_2017_j0162-1_0750.jpg](bgbl1_2017_j0162-1_0750.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 30 und 31
+
+
+
+
+![bgbl1_2017_j0162-1_0760.jpg](bgbl1_2017_j0162-1_0760.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 32 und 33
+
+
+
+
+![bgbl1_2017_j0162-1_0770.jpg](bgbl1_2017_j0162-1_0770.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 34 und 35
+
+
+
+
+![bgbl1_2017_j0162-1_0780.jpg](bgbl1_2017_j0162-1_0780.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 36 und 37
+
+
+
+
+![bgbl1_2017_j0162-1_0790.jpg](bgbl1_2017_j0162-1_0790.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 38 und 39
+
+
+
+
+![bgbl1_2017_j0162-1_0800.jpg](bgbl1_2017_j0162-1_0800.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 40 und 41
+
+
+
+
+![bgbl1_2017_j0162-1_0810.jpg](bgbl1_2017_j0162-1_0810.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 42 und 43
+
+
+
+
+![bgbl1_2017_j0162-1_0820.jpg](bgbl1_2017_j0162-1_0820.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 44 und 45
+
+
+
+
+![bgbl1_2017_j0162-1_0830.jpg](bgbl1_2017_j0162-1_0830.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseiten 46 und 47
+
+
+
+
+![bgbl1_2017_j0162-1_0840.jpg](bgbl1_2017_j0162-1_0840.jpg)
+
+*    *   Dienstpass
+
+    *   Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2017_j0162-1_0850.jpg](bgbl1_2017_j0162-1_0850.jpg)
+
+### Anlage 5 Passmuster Diplomatenpass
+
+(Fundstelle: BGBl. I 2017, 207 — 220)
+
 
 *    *   Diplomatenpass
 
-    *   Decke
+    *   Einband
 
 
-*    *        ![bgbl1_2007_j23860_0400.jpg](bgbl1_2007_j23860_0400.jpg)
+*    *        ![bgbl1_2017_j0162-1_0860.jpg](bgbl1_2017_j0162-1_0860.jpg)
+    *        ![bgbl1_2017_j0162-1_0870.jpg](bgbl1_2017_j0162-1_0870.jpg)
 
-
-
-*    *   Diplomatenpass
-
-    *   Vorsatz und Passkartenrückseite
-
-
-*    *        ![bgbl1_2008_j2201-1_0040.jpg](bgbl1_2008_j2201-1_0040.jpg)
 
 
 
 *    *   Diplomatenpass
 
-    *   Passkartenvorderseite und Passbuchinnenseite 1
+    *   Vorsatz und Passkartentitelseite
 
 
-*    *        ![bgbl1_2010_j1440-1_0120.jpg](bgbl1_2010_j1440-1_0120.jpg)
-
-*    *   Die Seiten 1 bis 48 werden am unteren
-        Rand mit der Seriennummer versehen.
 
 
+![bgbl1_2017_j0162-1_0880.jpg](bgbl1_2017_j0162-1_0880.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passkartendatenseite und Passbuchinnenseite 1
+
+
+
+
+![bgbl1_2017_j0162-1_0890.jpg](bgbl1_2017_j0162-1_0890.jpg)
+Die Seiten 1 bis 48 sowie der hintere Einband
+werden am unteren Rand mit der Seriennummer perforiert.
 
 
 *    *   Diplomatenpass
@@ -915,53 +1361,220 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 2 und 3
 
 
-*    *        ![bgbl1_2007_j23860_0430.jpg](bgbl1_2007_j23860_0430.jpg)
 
 
+![bgbl1_2017_j0162-1_0900.jpg](bgbl1_2017_j0162-1_0900.jpg)
 
 *    *   Diplomatenpass
 
     *   Passbuchinnenseiten 4 und 5
 
 
-*    *        ![bgbl1_2010_j1440-1_0130.jpg](bgbl1_2010_j1440-1_0130.jpg)
 
 
+![bgbl1_2017_j0162-1_0910.jpg](bgbl1_2017_j0162-1_0910.jpg)
 
 *    *   Diplomatenpass
 
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2007_j23860_0450.jpg](bgbl1_2007_j23860_0450.jpg)
 
 
+![bgbl1_2017_j0162-1_0920.jpg](bgbl1_2017_j0162-1_0920.jpg)
 
 *    *   Diplomatenpass
 
     *   Passbuchinnenseiten 8 und 9
 
 
-*    *        ![bgbl1_2007_j23860_0460.jpg](bgbl1_2007_j23860_0460.jpg)
-
-*    *   Seiten 9 bis 47 gleichlautend
 
 
-
+![bgbl1_2017_j0162-1_0930.jpg](bgbl1_2017_j0162-1_0930.jpg)
 
 *    *   Diplomatenpass
 
-    *   Passbuchinnenseite 48 und Vorsatz
-
-
-*    *        ![bgbl1_2007_j23860_0470.jpg](bgbl1_2007_j23860_0470.jpg)
+    *   Passbuchinnenseiten 10 und 11
 
 
 
+
+![bgbl1_2017_j0162-1_0940.jpg](bgbl1_2017_j0162-1_0940.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 12 und 13
+
+
+
+
+![bgbl1_2017_j0162-1_0950.jpg](bgbl1_2017_j0162-1_0950.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 14 und 15
+
+
+
+
+![bgbl1_2017_j0162-1_0960.jpg](bgbl1_2017_j0162-1_0960.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 16 und 17
+
+
+
+
+![bgbl1_2017_j0162-1_0970.jpg](bgbl1_2017_j0162-1_0970.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 18 und 19
+
+
+
+
+![bgbl1_2017_j0162-1_0980.jpg](bgbl1_2017_j0162-1_0980.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 20 und 21
+
+
+
+
+![bgbl1_2017_j0162-1_0990.jpg](bgbl1_2017_j0162-1_0990.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 22 und 23
+
+
+
+
+![bgbl1_2017_j0162-1_1000.jpg](bgbl1_2017_j0162-1_1000.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 24 und 25
+
+
+
+
+![bgbl1_2017_j0162-1_1010.jpg](bgbl1_2017_j0162-1_1010.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 26 und 27
+
+
+
+
+![bgbl1_2017_j0162-1_1020.jpg](bgbl1_2017_j0162-1_1020.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 28 und 29
+
+
+
+
+![bgbl1_2017_j0162-1_1030.jpg](bgbl1_2017_j0162-1_1030.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 30 und 31
+
+
+
+
+![bgbl1_2017_j0162-1_1040.jpg](bgbl1_2017_j0162-1_1040.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 32 und 33
+
+
+
+
+![bgbl1_2017_j0162-1_1050.jpg](bgbl1_2017_j0162-1_1050.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 34 und 35
+
+
+
+
+![bgbl1_2017_j0162-1_1060.jpg](bgbl1_2017_j0162-1_1060.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 36 und 37
+
+
+
+
+![bgbl1_2017_j0162-1_1070.jpg](bgbl1_2017_j0162-1_1070.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 38 und 39
+
+
+
+
+![bgbl1_2017_j0162-1_1080.jpg](bgbl1_2017_j0162-1_1080.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 40 und 41
+
+
+
+
+![bgbl1_2017_j0162-1_1090.jpg](bgbl1_2017_j0162-1_1090.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 42 und 43
+
+
+
+
+![bgbl1_2017_j0162-1_1100.jpg](bgbl1_2017_j0162-1_1100.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 44 und 45
+
+
+
+
+![bgbl1_2017_j0162-1_1110.jpg](bgbl1_2017_j0162-1_1110.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseiten 46 und 47
+
+
+
+
+![bgbl1_2017_j0162-1_1120.jpg](bgbl1_2017_j0162-1_1120.jpg)
+
+*    *   Diplomatenpass
+
+    *   Passbuchinnenseite 48 und Vorsatz des hinteren Einbandes
+
+
+
+
+![bgbl1_2017_j0162-1_1130.jpg](bgbl1_2017_j0162-1_1130.jpg)
 
 ### Anlage 6
 
-   (Fundstelle: BGBl. I 2007, 2437 - 2444
+(Fundstelle: BGBl. I 2007, 2437 - 2444
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Vorläufiger Dienstpass
@@ -1009,7 +1622,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2010_j1440-1_0140.jpg](bgbl1_2010_j1440-1_0140.jpg)
+*    *        ![bgbl1_2015_j0218-1_0190.jpg](bgbl1_2015_j0218-1_0190.jpg)
 
 
 
@@ -1039,7 +1652,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aufkleber Personaldaten
 
 
-*    *        ![bgbl1_2010_j1440-1_0150.jpg](bgbl1_2010_j1440-1_0150.jpg)
+*    *        ![bgbl1_2013_j0330-1_0050.jpg](bgbl1_2013_j0330-1_0050.jpg)
 
 
 
@@ -1094,7 +1707,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Passbuchinnenseiten 6 und 7
 
 
-*    *        ![bgbl1_2010_j1440-1_0160.jpg](bgbl1_2010_j1440-1_0160.jpg)
+*    *        ![bgbl1_2015_j0218-1_0200.jpg](bgbl1_2015_j0218-1_0200.jpg)
 
 
 
@@ -1124,7 +1737,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Aufkleber Personaldaten
 
 
-*    *        ![bgbl1_2010_j1440-1_0170.jpg](bgbl1_2010_j1440-1_0170.jpg)
+*    *        ![bgbl1_2013_j0330-1_0060.jpg](bgbl1_2013_j0330-1_0060.jpg)
 
 
 
@@ -1310,276 +1923,668 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-### Anlage 11
+### Anlage 11 Formale Anforderungen an die Einträge in Pässe im Sinne des § 1 Absatz 2 des Passgesetzes
 
-   (Fundstelle: BGBl. I 2010, 1452 - 1454)
+   (Fundstelle: BGBl. I 2017, 221 — 225)
+
+**Vorbemerkung:**
+
+1.  Für den Reisepass sowie für den Dienst- und Diplomatenpass gelten die
+    in der nachstehenden Tabelle 1 beschriebenen Anforderungen an die
+    Einträge. Die in der nachstehenden Tabelle 2 beschriebenen
+    Anforderungen an die Einträge gelten für den Kinderreisepass,
+    vorläufigen Reisepass und für den vorläufigen Dienst- und
+    Diplomatenpass.
 
 
-## Formale Anforderungen an die Einträge im Reisepass
+2.  Die Passbehörden verwenden zur Personalisierung der Aufkleber
+    Personaldaten der Kinderreisepässe, der vorläufigen Reisepässe, der
+    vorläufigen Dienst- und Diplomatenpässe und der Aufkleber
+    Verlängerung/Änderung der Kinderreisepässe sowie der Aufkleber
+    Dienstort- und Dienstbezeichnungsänderung den Schriftfont
+    „UnicodeDoc“. Hierfür sind Tintenstrahldrucker einzusetzen. Die Tinte
+    hat die nach der ISO 1831 geforderten Eigenschaften hinsichtlich
+    maschineller Lesbarkeit im B900-Band zu erfüllen. Es ist
+    ausschließlich solches Schreibmaterial zu verwenden, das nach DIN
+    16554 urkunden- und kopierecht ist.
+
+
+3.  Als Zeichensatz ist der in der jeweils gültigen Fassung der
+    Technischen Richtlinie
+    des Bundesamtes für Sicherheit in der Informationstechnik, BSI:
+    Technische Richtlinie TR-03123, XML-Datenaustauschformat für
+    hoheitliche Dokumente (TR XhD), veröffentlichte Zeichensatz
+    „String.Latin“ zu verwenden.
+
+
+4.  Der maschinenlesbare Bereich in den Pässen sowie die Zugangsnummer
+    (CAN) sind im Schriftfont OCR-B zu beschriften.
+
+
+5.  In den Datenfeldern „Name“ (Familienname und Geburtsname) sowie
+    „Vornamen“ sind alle Namensbestandteile komplett darzustellen, soweit
+    dies technisch entsprechend den Vorgaben der nachstehenden Tabellen
+    umsetzbar ist.
+
+
+6.  Grundsätzlich sind alle Einträge in der Schriftgröße 1 gemäß den
+    Vorgaben der nachstehenden Tabellen vorzunehmen:
+
+    a)  Für den Reisepass sowie den Dienst- und Diplomatenpass gilt:
+
+        Wird in einem Datenfeld die zur Verfügung stehende Zeichenzahl in der
+        Schriftgröße 1 überschritten, sind sämtliche Zeichen des
+        entsprechenden Datenfeldes in Schriftgröße 2 einzutragen.
+
+        Sollte auch unter Ausnutzung der Schriftgröße 2 die nach Maßgabe der
+        nachstehenden Tabelle 1 maximal zur Verfügung stehende Zeichenzahl
+        nicht ausreichen, sind die Einträge des Datenfeldes (z. B. Vornamen)
+        entsprechend gekürzt vorzunehmen.
+
+
+    b)  Für den Kinderreisepass, den vorläufigen Reisepass sowie den
+        vorläufigen Dienst- und Diplomatenpass gilt:
+
+        Grundsätzlich sind alle Einträge in der Schriftgröße 1 im Fettsatz
+        gemäß den Vorgaben der nachstehenden Tabelle 2 vorzunehmen.
+
+        Einträge im Datenfeld „Name“ sind gemäß den Vorgaben der nachstehenden
+        Tabelle 2 in den Schriftgrößen 1 und 2 im Fettsatz zulässig. Einträge
+        in den sonstigen Datenfeldern sind nur in der Schriftgröße 1 zulässig.
+        Sollte unter Ausnutzung dieser Schriftgrößen die zur Verfügung
+        stehende Zeichenzahl nicht ausreichen, sind die Einträge des
+        Datenfeldes (z. B. Vornamen) entsprechend gekürzt vorzunehmen.
+
+
+
+
+    Unterschiedliche Schriftgrößen innerhalb eines Datenfeldes sind
+    unzulässig.
+
+    Bei der Personalisierung des Aufklebers zur Änderung der Dienstort-
+    und Dienstbezeichnung sind die Eintragungen in der Schriftgröße 1 im
+    Fettsatz vorzunehmen.
+
+
+7.  Sofern neben dem Familiennamen auch ein Geburtsname vorhanden ist,
+    gilt für den Reisepass sowie den Dienst- und Diplomatenpass:
+
+    Der Geburtsname ist in das Feld „Geburtsname“ einzutragen.
+
+    Für den Kinderreisepass, den vorläufigen Reisepass sowie den
+    vorläufigen Dienst- und Diplomatenpass gilt:
+
+    Der Geburtsname ist im Feld „Name“ in einer eigenen Zeile einzutragen.
+    Ihm ist die Zeichenfolge „GEB.“ bzw. „geb. “ unter Hinzufügung eines
+    Leerzeichens voranzustellen.
+
+
+8.  Soweit ein oder mehrere Doktorgrade vorhanden sind, wird dieser bzw.
+    werden diese im Datenfeld „Name“ eingetragen. Entsprechend der für die
+    Eintragung des Doktorgrades bzw. der Doktorgrade benötigten
+    Zeichenzahl verringert sich die Anzahl der verbleibenden Zeichen für
+    den Namenseintrag.
+
+
+9.  Die alphanumerische Seriennummer des Reisepasses, Dienstpasses und
+    Diplomatenpasses wird ausschließlich aus den Buchstaben C, F, G, H, J,
+    K, L, M, N, P, R, T, V, W, X, Y, Z und den Ziffern 0, 1, 2, 3, 4, 5,
+    6, 7, 8, 9 gebildet.
+
+    Beim Kinderreisepass, vorläufigen Reisepass, vorläufigen Dienstpass
+    und vorläufigen Diplomatenpass besteht die Seriennummer aus einem
+    Serienbuchstaben und sieben Ziffern.
+
+
+10. Das Lichtbild, das von der antragstellenden Person in den Abmaßen 35 x
+    45 mm vorzulegen ist, ist bei der Personalisierung im vorläufigen
+    Reisepass, im Dienstpass, im Diplomatenpass sowie im Kinderreisepass
+    in den Abmessungen 32 x 41 mm verkleinert darzustellen.
+
+
+11. Die Schriftgröße ist am Großbuchstaben E auszurichten.
+
+
+12. Die Eintragung zur Staatsangehörigkeit im Reisepass, Kinderreisepass
+    und vorläufigen Reisepass lautet „DEUTSCH“.
+
+    Für Dienstpass und Diplomatenpass sowie für vorläufigen Dienstpass und
+    vorläufigen Diplomatenpass gilt:
+
+    Ist die Staatsbürgerschaft deutsch, lautet der Eintrag „DEUTSCH“. In
+    allen anderen Fällen ist die Eintragung in Form des 3-Letter-Codes
+    gemäß ICAO Doc 9303 (3 Zeichen) vorzunehmen.
+
+
+
+
+**Tabelle 1: Reisepass, Dienst- und Diplomatenpass**
+
 
 *    *   Datenfelder
 
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *   Schriftgröße 1
-[^F774647_01_BJNR238610007BJNE003600310]
-        (2,12 mm)
-[^F774647_02_BJNR238610007BJNE003600310]
+*    *   Feld Nr.
+
+    *   Feldbezeichnung
+
+    *   Schriftgröße 1
+        Schriftfont des Passherstellers
+        Schriftgröße 2,0 mm
 
     *   Schriftgröße 2
-        (2,12 mm)
-        kleinerer Abstand
+        Schriftfont des Passherstellers
+        Schriftgröße 1,3 mm
 
-    *   Schriftgröße 3
-        (1,59 mm)
 
-    *   Schriftgröße 4
-        (1,06 mm)
+*    *   ohne
 
+    *   Typ
 
-*    *[^F774647_03_BJNR238610007BJNE003600310]
-   Seriennummer
+    *   2 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 2 Zeichen)
 
-    *   9 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        9 Zeichen)
+    *   Nicht zulässig
 
-    *[^F774647_04_BJNR238610007BJNE003600310]
-   –
 
-    *   –
+*    *   ohne
 
-    *   –
+    *   Kode
 
+    *   1 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 1 Zeichen)
 
-*    *[^F774647_05_BJNR238610007BJNE003600310]
-   Familienname
-        und
-[^F774647_06_BJNR238610007BJNE003600310]
-        Geburtsname
+    *   Nicht zulässig
 
-    *   36 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 72 Zeichen)
 
-    *   45 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 90 Zeichen)
+*    *   ohne
 
-    *   51 Zeichen pro Zeile;
-        3 Zeilen (insgesamt 153 Zeichen)
+    *   Pass-Nr.
 
-    *   59 Zeichen pro Zeile;
-        4 Zeilen (insgesamt 236 Zeichen)
+    *   9 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 9 Zeichen)
 
+    *   Nicht zulässig
 
-*    *   Vornamen
 
-    *   36 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        36 Zeichen)
+*    *   1
 
-    *   45 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        45 Zeichen)
+    *   [a]
 
-    *   51 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 102 Zeichen)
+    *[^F797417_01_BJNR238610007BJNE003602116]
+   Name
 
-    *   59 Zeichen pro Zeile;
-        3 Zeilen (insgesamt 177 Zeichen)
+    *   40 Zeichen pro Zeile; 2 Zeilen
+        (insgesamt 80 Zeichen)
 
+    *   62 Zeichen pro Zeile, 3 Zeilen
+        (insgesamt 186 Zeichen)
 
-*    *   Tag der Geburt
 
-    *   10 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        10 Zeichen)
+*    *   [a]
 
-    *   –
+    *[^F797417_02_BJNR238610007BJNE003602116]
+   Name
 
-    *   –
+    *   [a]
 
-    *   –
+    *   40 Zeichen pro Zeile; 1 Zeile
 
+    *   [a]
 
-*    *   Ort der Geburt
+    *   62 Zeichen pro Zeile, 2 Zeilen
 
-    *   27 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        27 Zeichen)
 
-    *   33 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        33 Zeichen)
+*    *
+    *   [b]
 
-    *   38 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 76 Zeichen)
+    *   40 Zeichen pro Zeile; 1 Zeile
 
-    *   45 Zeichen pro Zeile;
-        3 Zeilen (insgesamt 135 Zeichen)
+    *   [b]
 
+    *   62 Zeichen pro Zeile, 1 Zeile
 
-*    *   Geschlecht
 
-    *   1 Zeichen
+*    *   [b]
 
-    *   –
+    *   Geburtsname
 
-    *   –
+    *
+    *
 
-    *   –
+*    *
+    *   (insgesamt 80 Zeichen)
 
+    *   ODER
 
-*    *   Staatsangehörigkeit
 
-    *   20 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        20 Zeichen)
+*    *
+    *
+    *   [a]
 
-    *   25 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        25 Zeichen)
+    *   62 Zeichen pro Zeile, 1 Zeile
 
-    *   29 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        29 Zeichen)
 
-    *   33 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 66 Zeichen)
+*    *
+    *
+    *   [b]
 
+    *   62 Zeichen pro Zeile, 2 Zeilen
 
-*    *   Letzter Tag der
-        Gültigkeitsdauer
 
-    *   10 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        10 Zeichen)
+*    *
+    *
+    *   (insgesamt 186 Zeichen)
 
-    *   –
 
-    *   –
+*    *   2
 
-    *   –
+    *   Vornamen
 
+    *   40 Zeichen pro Zeile; 2 Zeilen
+        (insgesamt 80 Zeichen)
 
-*    *[^F774647_07_BJNR238610007BJNE003600310]
-   Wohnort
+    *   62 Zeichen pro Zeile, 3 Zeilen
+        (insgesamt 186 Zeichen)
 
-    *   35 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 70 Zeichen)
 
-    *   55 Zeichen pro Zeile;
-        2 Zeilen (insgesamt 110 Zeichen)
+*    *   3
 
-    *   –
+    *   Geburtstag
 
-    *   –
+    *   10 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 10 Zeichen)
 
+    *   Nicht zulässig
 
-*    *   Farbe der Augen
 
-    *   35 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        35 Zeichen)
+*    *   4
 
-    *   55 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        55 Zeichen)
+    *   Geschlecht
 
-    *   –
+    *   1 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 1 Zeichen)
 
-    *   –
+    *   Nicht zulässig
 
 
-*    *   Größe
+*    *   5
 
-    *   3 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        3 Zeichen)
+    *   Staatsangehörigkeit
 
-    *   3 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        3 Zeichen)
+    *   7 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 7 Zeichen)
 
-    *   –
+    *   Nicht zulässig
 
-    *   –
 
+*    *   6
 
-*    *   Ordensname,
-        Künstlername
+    *   Geburtsort
 
-    *   35 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        35 Zeichen)
+    *   40 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 40 Zeichen)
 
-    *   55 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        55 Zeichen)
+    *   62 Zeichen pro Zeile, 2 Zeilen
+        (insgesamt 124 Zeichen)
 
-    *   –
 
-    *   –
+*    *   7
 
+    *   Ausstellungsdatum
 
-*    *   Ausstellende Behörde
+    *   10 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 10 Zeichen)
 
-    *   28 Zeichen pro Zeile;
-        3 Zeilen (insgesamt 84 Zeichen)
+    *   Nicht zulässig
 
-    *   –
 
-    *   –
+*    *   8
 
-    *   –
+    *   Gültig bis
 
+    *   10 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 10 Zeichen)
 
-*    *   Dienstort und
-[^F774647_08_BJNR238610007BJNE003600310]
-        Dienstbezeichnung
+    *   Nicht zulässig
 
-    *   35 Zeichen pro Zeile;
-        5 Zeilen (insgesamt 175 Zeichen)
 
-    *   55 Zeichen pro Zeile;
-        5 Zeilen (insgesamt 275 Zeichen)
+*    *   9
 
-    *   –
+    *   Behörde
 
-    *   –
+    *   28 Zeichen pro Zeile; 2 Zeilen
+        (insgesamt 56 Zeichen)
 
+    *   35 Zeichen pro Zeile; 3 Zeilen
+        (insgesamt 105 Zeichen)
 
-*    *   Passaktennummer
 
-    *   35 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        35 Zeichen)
+*    *   11
 
-    *   55 Zeichen pro Zeile;
-        1 Zeile (insgesamt
-        55 Zeichen)
+    *   Wohnort (Seite 1)
 
-    *   –
+    *   35 Zeichen pro Zeile; 3 Zeilen
+        (insgesamt 105 Zeichen)
 
-    *   –
+    *   Nicht zulässig
 
 
+*    *   12
 
+    *   Größe (Seite 1)
 
-*    *   Datenfelder des Aufklebers für Änderungen des Dienstortes und der
-        Dienstbezeichnung
+    *   3 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 3 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   13
+
+    *   Augenfarbe (Seite 1)
+
+    *   35 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 35 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   14
+
+    *   Ordens- oder Künstlername
+        (Seite 1)
+
+    *   35 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 35 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   11
+
+    *[^F797417_03_BJNR238610007BJNE003602116]
+   Dienstort und Dienstbezeichnung
+        (Seite 1)
+
+    *   35 Zeichen pro Zeile; 9 Zeilen
+        (insgesamt 315 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *[^F797417_04_BJNR238610007BJNE003602116]
+   Passaktennummer
+        (Seite 1)
+
+    *   35 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 35 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Behörde bzw. Ausstellungsort
+        (Seite 2)
+
+    *   35 Zeichen pro Zeile; 3 Zeilen
+        (insgesamt 105 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Datum (Seite 2)
+
+    *   18 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 18 Zeichen)
+
+    *   Nicht zulässig
+
+
+
+
+**Tabelle 2: Kinderreisepass, vorläufiger Reisepass, vorläufiger
+Dienst- und Diplomatenpass**
+
+
+*    *   Datenfelder
 
     *   Anzahl der zur Verfügung stehenden Zeichen
 
 
-*    *[^F774647_09_BJNR238610007BJNE003600310]
-   Schriftgröße
+*    *   Feld Nr.
+
+    *   Feldbezeichnung
+
+    *   Schriftgröße 1
+        UnicodeDoc, Fettdruck
+        Schriftgröße 2,4 mm
+
+    *   Schriftgröße 2
+        UnicodeDoc, Fettdruck
+        Schriftgröße 2,0 mm
+
+
+*    *   ohne
+
+    *   Typ
+
+    *   2 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 2 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Kode
+
+    *   1 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 1 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Pass-Nr.
+
+    *   9 Zeichen pro Zeile, 1 Zeile
+
+    *   Nicht zulässig
+
+
+*    *   1
+
+    *   Name
+
+    *   36 Zeichen pro Zeile; 2 Zeilen
+        (insgesamt 72 Zeichen)
+
+    *   44 Zeichen pro Zeile; 3 Zeilen
+        (insgesamt 132 Zeichen)
+
+
+*    *   2
+
+    *   Vornamen
+
+    *   36 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 36 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   3
+
+    *   Staatsangehörigkeit
+
+    *   7 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 7 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   4
+
+    *   Geburtstag
+
+    *   10 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 10 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   5
+
+    *   Geschlecht
+
+    *   1 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 1 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   6
+
+    *   Geburtsort
+
+    *   23 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 23 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   7
+
+    *   Ausstellungsdatum
+
+    *   10 Zeichen pro Zeile; 1 Zeile
+        (insgesamt 10 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   8
+
+    *   Gültig bis
+
+    *   10 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 10 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   9
+
+    *   Ausstellende Behörde
+
+    *   23 Zeichen pro Zeile, 2 Zeilen
+        (insgesamt 46 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   11
+
+    *   Wohnort
+
+    *   24 Zeichen pro Zeile, 2 Zeilen
+        (insgesamt 48 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   12
+
+    *[^F797417_05_BJNR238610007BJNE003602116]
+   Größe
+
+    *   6 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 6 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   13
+
+    *   Augenfarbe
+
+    *   24 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 24 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   14
+
+    *   Ordens- oder Künstlername
+
+    *   24 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 24 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Ausstellende Behörde
+
+    *   24 Zeichen pro Zeile, 2 Zeilen
+        (insgesamt 48 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Ausgestellt (Ort)
+
+    *   25 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 25 Zeichen)
+
+    *   Nicht zulässig
+
+
+*    *   ohne
+
+    *   Datum
+
+    *   10 Zeichen pro Zeile, 1 Zeile
+        (insgesamt 10 Zeichen)
+
+    *   Nicht zulässig
+
+
+
+
+**Tabelle 3: Aufkleber für Änderungen des Dienstortes und der
+Dienstbezeichnung bei amtlichen Pässen**
+
+
+*    *   Datenfelder des Aufklebers
+        für Änderungen des Dienstortes
+        und der Dienstbezeichnung
+
+    *   Anzahl der zur Verfügung stehenden Zeichen
+
+
+*    *   Schriftgröße 1
+        UnicodeDoc, Fettdruck
+        Schriftgröße 2,4 mm
 
 
 *    *   Dienstort/Dienstbezeichnung
 
-    *   13 Zeilen à 33 Zeichen und 4 Zeilen à 26 Zeichen
-        (insgesamt 533 Zeichen)
+    *   11 Zeilen à 33 Zeichen und 4 Zeilen à 26 Zeichen
+        (insgesamt 467 Zeichen)
 
 
 *    *   Seriennummer
@@ -1589,40 +2594,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    Soweit nicht die maximale Anzahl der zur Verfügung stehenden Zeichen
-    ausgenutzt wird, werden die Daten im Normalschriftgrad (Schriftgröße
-    1; 2,12 mm) und in einer Zeile dargestellt. Die Datenfelder
-    „Familienname und gegebenenfalls Geburtsname“ können auch im
-    Normalschriftgrad zweizeilig dargestellt werden. Das Datenfeld
-    „Behörde“ kann im Normalschriftgrad dreizeilig dargestellt werden.
-    Falls erforderlich, können die Daten in den Feldern „Vorname“,
-    „Geburtsort“ auch in den Verkleinerungsschriftgraden mit jeweils einer
-    zusätzlichen Zeile dargestellt werden, in den Feldern „Familienname
-    und gegebenenfalls Geburtsname“ mit zwei zusätzlichen Zeilen.
-[^F774647_01_BJNR238610007BJNE003600310]:     Bei vorläufigen Pässen und Kinderreisepässen können die Passdaten
-    ausschließlich in der Schriftgröße 1 wiedergegeben werden. Dabei
-    werden einzelne Datenfelder mit einer eingeschränkten Zeichenanzahl
-    dargestellt.
-[^F774647_02_BJNR238610007BJNE003600310]:     Die Prüfziffer nach der neunstelligen alphanumerischen Seriennummer
-    wird in der Regel durch das Verfahren generiert.
-[^F774647_03_BJNR238610007BJNE003600310]:     Bei bestimmten Datenfeldern ist die Verwendung des
-    Verkleinerungsschriftgrades nicht vorgesehen.
-[^F774647_04_BJNR238610007BJNE003600310]:     Soweit ein Doktorgrad existiert, wird dieser im Feld „Name“
-    eingetragen und verkürzt dieses entsprechend (z. B. um 4 Stellen bei
-    Eintragung von „DR.“).
-[^F774647_05_BJNR238610007BJNE003600310]:     Soweit ein Geburtsname existiert, kommt diesem mindestens eine
-    vollständige Zeile zu. Am Beginn dieser Zeile werden fünf Zeichen
-    durch die Zeichenfolge „GEB.“ bzw. „geb.“ belegt.
-[^F774647_06_BJNR238610007BJNE003600310]:     Kommt in mindestens einem der Felder „Wohnort“, „Farbe der Augen“,
-    „Größe“ oder „Ordens- und Künstlername“ die Schriftgröße 2 zum
-    Einsatz, so werden diese Felder insgesamt mit der Schriftgröße 2
-    ausgegeben.
-[^F774647_07_BJNR238610007BJNE003600310]:     Felder, die nur für die amtlichen Pässe gelten. Kommt im Feld
-    „Dienstort und Dienstbezeichnung“ die Schriftgröße 2 zum Einsatz, so
-    wird auch das Feld „Passaktennummer“ mit dieser Schriftgröße
-    ausgegeben.
-[^F774647_08_BJNR238610007BJNE003600310]:     Für die Tintenstrahldrucker in den Passbehörden sind folgende
-    Einstellungen erforderlich: Für Dienstbezeichnung/Dienstort und
-    Seriennummer ist jeweils die Schriftart Courier Fett im Schriftgrad 10
-    Punkt zu verwenden.
-[^F774647_09_BJNR238610007BJNE003600310]: 
+
+    Fall: Es gibt keinen Geburtsnamen.
+[^F797417_01_BJNR238610007BJNE003602116]:     Fall: Es gibt einen Geburtsnamen.
+[^F797417_02_BJNR238610007BJNE003602116]:     Gilt nur für amtliche Pässe.
+[^F797417_03_BJNR238610007BJNE003602116]:     Gilt nur für amtliche Pässe.
+[^F797417_04_BJNR238610007BJNE003602116]:     Größenangabe im Format „123 CM“.
+[^F797417_05_BJNR238610007BJNE003602116]: 

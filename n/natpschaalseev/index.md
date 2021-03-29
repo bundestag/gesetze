@@ -47,54 +47,53 @@ und Hutungsresten. Außerdem gehört die stärker reliefierte vorwiegend
 ackerbaulich genutzte Moränenlandschaft zwischen Ratzeburger und
 Röggeliner See zum Naturpark.
 
-(2) Die **äußere Umgrenzung des Naturparks**              verläuft wie
-folgt:
+(2) Die **äußere Umgrenzung des Naturparks** verläuft wie folgt:
 
-1.  Im **Norden**                    folgt die Grenze dem Weg von der
-    Wakenitz bei Nädlershorst über den Abbau Lenschow zur Ortslage
-    Schattin, verläuft dann auf dem Ortsverbindungsweg von Schattin über
-    Schlagülsdorf nach Wendorf. Unter Ausklammerung der Ortslage Wendorf
-    führt sie am äußeren Rand der Bebauung zum Ortsverbindungsweg Wendorf-
-    Thandorf nach Thandorf, von dort auf der Straße weiter bis zum Abzweig
-    Heiligeland, diesem Weg folgend nach Heiligeland und weiter nach
-    Schlagresdorf, bis zur Einmündung in die Straße Schönberg - Ratzeburg.
-    Auf dieser Straße läuft die Grenze in nördlicher Richtung bis zu der
-    Gemeindegrenze Schlagsdorf (Straßendurchlaß), biegt hier nach Osten ab
-    und führt entlang der Wald-Feldgrenze des Steinbrink bis zum Weg nach
-    Cronskamp, diesem folgend nach Cronskamp entlang dem Südrand der
-    Bebauung zur Straße F 208 nach Stove. Auf dieser Straße verläuft die
-    Grenze bis nach Carlow.
-
-
-2.  Im **Osten**                    wird die Grenze von der Straße Carlow
-    - Klocksdorf gebildet, von Klocksdorf führt sie weiter bis zur
-    Kreuzung an der Nordweststrecke des Röggeliner Holzes, hier folgt sie
-    der Straße nach Demern bis zum Abzweig Woitendorf, dort nach Süden
-    abbiegend entlang der Straße durch das Röggeliner Holz bis zur
-    Einmündung in die F 208. Dieser Straße folgt sie in östlicher Richtung
-    bis nach Roggendorf. Unter Umgehung der bebauten Ortslage führt die
-    Grenze entlang der Straße Roggendorf - Kneese bis zur Kreuzung
-    Marienthal - Klein Salitz. Von dieser Kreuzung der Straße nach Groß
-    Salitz folgend biegt sie auf den Weg Groß Salitz - Schönwolde ab.
-    Diesem folgend führt sie bis zur Einmündung in die Landstraße bei
-    Schönwolde, von dort mit der Straße über Woldhof bis zum Abzweig nach
-    Neuenkirchen. Auf diesem Weg führt die Grenze über Neuenkirchen nach
-    Neuhof, unter Ausklammerung der bebauten Ortslage, von dort auf der
-    Straße weiter nach Boissow. Ab hier wird die Grenze durch den
-    östlichen oberen Talrand (Acker-Grünland bzw. -Waldgrenze) des
-    Hammerbachtales gebildet. Ab dem Haltepunkt Bantin verläuft sie
-    entlang des Weges zur Straße Wittenburg - Zarrentin.
+1.  Im **Norden** folgt die Grenze dem Weg von der Wakenitz bei
+    Nädlershorst über den Abbau Lenschow zur Ortslage Schattin, verläuft
+    dann auf dem Ortsverbindungsweg von Schattin über Schlagülsdorf nach
+    Wendorf. Unter Ausklammerung der Ortslage Wendorf führt sie am äußeren
+    Rand der Bebauung zum Ortsverbindungsweg Wendorf-Thandorf nach
+    Thandorf, von dort auf der Straße weiter bis zum Abzweig Heiligeland,
+    diesem Weg folgend nach Heiligeland und weiter nach Schlagresdorf, bis
+    zur Einmündung in die Straße Schönberg - Ratzeburg. Auf dieser Straße
+    läuft die Grenze in nördlicher Richtung bis zu der Gemeindegrenze
+    Schlagsdorf (Straßendurchlaß), biegt hier nach Osten ab und führt
+    entlang der Wald-Feldgrenze des Steinbrink bis zum Weg nach Cronskamp,
+    diesem folgend nach Cronskamp entlang dem Südrand der Bebauung zur
+    Straße F 208 nach Stove. Auf dieser Straße verläuft die Grenze bis
+    nach Carlow.
 
 
-3.  Im **Süden**                    führt die Grenze entlang der Straße
-    Wittenburg - Zarrentin über Schaalmühle nach Zarrentin.
+2.  Im **Osten** wird die Grenze von der Straße Carlow - Klocksdorf
+    gebildet, von Klocksdorf führt sie weiter bis zur Kreuzung an der
+    Nordweststrecke des Röggeliner Holzes, hier folgt sie der Straße nach
+    Demern bis zum Abzweig Woitendorf, dort nach Süden abbiegend entlang
+    der Straße durch das Röggeliner Holz bis zur Einmündung in die F 208.
+    Dieser Straße folgt sie in östlicher Richtung bis nach Roggendorf.
+    Unter Umgehung der bebauten Ortslage führt die Grenze entlang der
+    Straße Roggendorf - Kneese bis zur Kreuzung Marienthal - Klein Salitz.
+    Von dieser Kreuzung der Straße nach Groß Salitz folgend biegt sie auf
+    den Weg Groß Salitz - Schönwolde ab. Diesem folgend führt sie bis zur
+    Einmündung in die Landstraße bei Schönwolde, von dort mit der Straße
+    über Woldhof bis zum Abzweig nach Neuenkirchen. Auf diesem Weg führt
+    die Grenze über Neuenkirchen nach Neuhof, unter Ausklammerung der
+    bebauten Ortslage, von dort auf der Straße weiter nach Boissow. Ab
+    hier wird die Grenze durch den östlichen oberen Talrand (Acker-
+    Grünland bzw. -Waldgrenze) des Hammerbachtales gebildet. Ab dem
+    Haltepunkt Bantin verläuft sie entlang des Weges zur Straße Wittenburg
+    - Zarrentin.
 
 
-4.  Im **Westen**                    folgt die Grenze der Uferlinie des
-    Schaalsees bis zum nördlichen Ende der bebauten Ortslage Zarrentin.
-    Biegt dort nach Westen ab zur Straße Zarrentin - Marienstedt und folgt
-    dieser Straße bis zur Landesgrenze, um dann dieser Grenze bis
-    Nädlershorst zu folgen.
+3.  Im **Süden** führt die Grenze entlang der Straße Wittenburg -
+    Zarrentin über Schaalmühle nach Zarrentin.
+
+
+4.  Im **Westen** folgt die Grenze der Uferlinie des Schaalsees bis zum
+    nördlichen Ende der bebauten Ortslage Zarrentin. Biegt dort nach
+    Westen ab zur Straße Zarrentin - Marienstedt und folgt dieser Straße
+    bis zur Landesgrenze, um dann dieser Grenze bis Nädlershorst zu
+    folgen.
 
 
 5.  Alle in der Grenzbeschreibung berührten Wege und Straßen sind in den
@@ -147,9 +146,9 @@ Grenzregion gefördert werden.
 (1) Das Gebiet des Naturparkes wird zunächst nur in die Schutzzonen II
 und III gegliedert. Die Schutzzone I ist nicht ausgewiesen.
 
-(2) Die **Schutzzone II**              (Entwicklungs- und Pflegezone)
-umfaßt folgende Bereiche, die als Naturschutzgebiete von zentraler
-Bedeutung ausgewiesen werden:
+(2) Die **Schutzzone II** (Entwicklungs- und Pflegezone) umfaßt
+folgende Bereiche, die als Naturschutzgebiete von zentraler Bedeutung
+ausgewiesen werden:
 
 1.  Das Kammerbruch am Nordrand des Ratzeburger Sees ist ein Erlenwald-
     und Sumpfgebiet auf tiefgründigen Moorstandorten.
@@ -220,9 +219,9 @@ Bedeutung ausgewiesen werden:
 
 
 
-(3) Die **Schutzzone III**              (Erholungszone) umfaßt die
-übrigen nicht zur Zone II gehörenden Bereiche. Die Schutzzone III wird
-als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
+(3) Die **Schutzzone III** (Erholungszone) umfaßt die übrigen nicht
+zur Zone II gehörenden Bereiche. Die Schutzzone III wird als
+Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
 
 (4) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
@@ -346,8 +345,7 @@ verboten,
 
 
 
-(2) Darüber hinaus ist es in der **Schutzzone II**
-verboten,
+(2) Darüber hinaus ist es in der **Schutzzone II** verboten,
 
 1.  Flächen außerhalb der Straßen, Wege und gekennzeichneten Wanderwege zu
     betreten,
@@ -516,8 +514,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1477)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

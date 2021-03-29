@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2120
 
+Geändert durch
+:   Art. 4 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -40,11 +43,11 @@ Leitstellenbestandteil zertifiziert.
 
 (1) Die Erteilung eines Zertifikats durch die Bundesanstalt für den
 Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben
-(Bundesanstalt) erfolgt auf schriftlichen Antrag des Herstellers oder
-Lieferanten, der auch in einer elektronischen Fassung zu übermitteln
-ist. Für einen solchen Antrag sind ausschließlich die von der
-Bundesanstalt veröffentlichten Antragsformulare zu verwenden. Der
-Antrag muss Folgendes enthalten:
+(Bundesanstalt) erfolgt auf schriftlichen oder elektronischen Antrag
+des Herstellers oder Lieferanten. Ein schriftlicher Antrag ist auch in
+einer elektronischen Fassung zu übermitteln. Für einen solchen Antrag
+sind ausschließlich die von der Bundesanstalt veröffentlichten
+Antragsformulare zu verwenden. Der Antrag muss Folgendes enthalten:
 
 1.  Name und Anschrift des Antragstellers,
 
@@ -122,7 +125,7 @@ Antrag muss Folgendes enthalten:
 Funkleitstelle im Sinne des § 1 Satz 2, so hat der Antragsteller
 anzugeben, woraus sich dieser Bestandteil zusammensetzt.
 
-(3) Die Vorlage der in Absatz 1 Satz 3 Nummer 9 bis 11 genannten
+(3) Die Vorlage der in Absatz 1 Satz 4 Nummer 9 bis 11 genannten
 Unterlagen ist nicht erforderlich, wenn die Voraussetzungen des § 7
 Absatz 3 vorliegen. Der Antragsteller hat in diesem Fall im Antrag das
 Vorliegen dieser Voraussetzungen darzulegen.
@@ -164,7 +167,7 @@ vorliegt, welche Änderung an dem Endgerät vorgenommen wurde und welche
 technischen Auswirkungen mit der Änderung verbunden sind. Der Antrag
 auf Änderungszertifizierung ist vor Durchführung der Überprüfung nach
 § 7 zu stellen. Es ist nicht erforderlich, dem Antrag die in § 2
-Absatz 1 Satz 3 Nummer 9 bis 11 genannten Unterlagen beizufügen.
+Absatz 1 Satz 4 Nummer 9 bis 11 genannten Unterlagen beizufügen.
 
 (3) Die Bundesanstalt teilt dem Antragsteller schriftlich mit, ob die
 Voraussetzungen für eine Änderungszertifizierung vorliegen und legt
@@ -241,7 +244,7 @@ geschützten Bereich auf ihrer Internetseite und stellt sie auf
 schriftliche Anfrage zur Verfügung:
 
 1.  verbindliche Vorgaben für die Gestaltung des BOS-Prüfberichts nach § 2
-    Absatz 1 Satz 3 Nummer 9,
+    Absatz 1 Satz 4 Nummer 9,
 
 
 2.  verbindliche Vorgaben für die Anzeige unwesentlicher Änderungen nach §
@@ -292,7 +295,7 @@ Umfangs der Anforderungen, die an die Endgeräte zu stellen sind,
 können auch ältere Versionen der BOS-IOP-Richtlinien zugrunde gelegt
 werden, sofern diese noch dem Stand der Technik entsprechen. Die
 Ergebnisse der Überprüfung sind in dem BOS-Prüfbericht nach § 2 Absatz
-1 Satz 3 Nummer 9 festzuhalten.
+1 Satz 4 Nummer 9 festzuhalten.
 
 (2) Die Bundesanstalt kann bei Zweifeln am Sachverstand der Prüfstelle
 oder an der Richtigkeit oder Vollständigkeit des von der Prüfstelle
@@ -331,7 +334,7 @@ sicher.
 
 (2) Das Zertifikat umfasst mindestens folgende Angaben:
 
-1.  Bezeichnung des Endgerätes nach § 2 Absatz 1 Satz 3 Nummer 5 Buchstabe
+1.  Bezeichnung des Endgerätes nach § 2 Absatz 1 Satz 4 Nummer 5 Buchstabe
     a bis e,
 
 

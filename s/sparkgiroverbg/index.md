@@ -34,10 +34,9 @@ Reichs.
 ## § 2
 
 Der Verband hat binnen drei Monaten nach dem Inkrafttreten dieser
-Verordnung              seine Satzung der
-Reichsregierung              zur Genehmigung vorzulegen. Mit der
-Genehmigung der Satzung tritt die in § 1 bezeichnete Rechtswirkung
-ein.
+Verordnung seine Satzung der
+Reichsregierung zur Genehmigung vorzulegen. Mit der Genehmigung der
+Satzung tritt die in § 1 bezeichnete Rechtswirkung ein.
 
 
 ## § 3
@@ -54,13 +53,13 @@ Reichsregierung.
 ## § 4
 
 Die
-Reichsregierung              erläßt die zur Durchführung der
-Verordnung              erforderlichen Rechts- und allgemeinen
+Reichsregierung erläßt die zur Durchführung der
+Verordnung erforderlichen Rechts- und allgemeinen
 Verwaltungsvorschriften.
 
 
 ## § 5
 
 Die
-Verordnung              tritt mit ihrer Verkündung in Kraft.
+Verordnung tritt mit ihrer Verkündung in Kraft.
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2225
 
 Zuletzt geändert durch
-:   Art. 4 G v. 28.7.2011 I 1690
+:   Art. 1 V v. 20.6.2018 I 865
 
 
 ## Eingangsformel
@@ -41,58 +41,119 @@ Ermittlung der Entgelte für dezentrale Einspeisungen.
 
 ### § 2 Begriffsbestimmungen
 
-Im Sinne dieser Verordnung bedeutet
+Im Sinne dieser Verordnung ist:
 
-1.  Absatzstruktur
+1.  Abnahmestelle
 
-    Struktur und Menge der aus einer Netz- oder Umspannebene entnommenen
-    elektrischen Leistung und Arbeit;
+    die Summe aller räumlich und physikalisch zusammenhängenden
+    elektrischen Einrichtungen eines Letztverbrauchers, die sich auf einem
+    in sich abgeschlossenen Betriebsgelände befinden und über einen oder
+    mehrere Entnahmepunkte mit dem Netz des Netzbetreibers verbunden sind;
 
 
-2.  Benutzungsdauer
+2.  Absatzstruktur
 
-    Quotient aus pro Jahr entnommener oder eingespeister elektrischer
+    die Struktur und Menge der aus einer Netz- oder Umspannebene
+    entnommenen elektrischen Leistung und Arbeit;
+
+
+3.  Benutzungsdauer
+
+    der Quotient aus pro Jahr entnommener oder eingespeister elektrischer
     Arbeit und der in diesem Jahr höchsten Last der Entnahme oder
     Einspeisung;
 
 
-3.  Entnahmestelle
+3a. Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
 
-    Ort der Entnahme elektrischer Energie aus einer Netz- oder
+    die Unternehmen 50Hertz Transmission GmbH, Amprion GmbH, TenneT TSO
+    GmbH und TransnetBW GmbH sowie ihre Rechtsnachfolger;
+
+
+4.  Bezugszeitreihe
+
+    die Zeitreihe einer Lastgangzählung in Form einer viertelstündlichen
+    registrierenden Leistungsmessung, durch die die gemessenen
+    Ausspeisungen an einer Entnahmestelle ausgewiesen werden;
+
+
+5.  Einspeisezeitreihe
+
+    die Zeitreihe einer Lastgangzählung in Form einer viertelstündlichen
+    registrierenden Lastgangmessung, durch die die gemessenen
+    Einspeisungen an einer Entnahmestelle ausgewiesen werden;
+
+
+6.  Entnahmestelle
+
+    der Ort der Entnahme elektrischer Energie aus einer Netz- oder
     Umspannebene durch Letztverbraucher, Weiterverteiler oder die jeweils
     nachgelagerte Netz- oder Umspannebene;
 
 
-4.  Jahreshöchstlast
+7.  Jahreshöchstlast
 
-    höchster Leistungswert einer oder mehrerer Entnahmen aus einer Netz-
-    oder Umspannebene oder einer oder mehrerer Einspeisungen im Verlauf
-    eines Jahres;
+    der höchste Leistungswert einer oder mehrerer Entnahmen aus einer
+    Netz- oder Umspannebene oder einer oder mehrerer Einspeisungen im
+    Verlauf eines Jahres;
 
 
-5.  Kalkulationsperiode
+8.  Kalkulationsperiode
 
     das Geschäftsjahr des Betreibers eines Elektrizitätsübertragungs- oder
     Elektrizitätsverteilernetzes;
 
 
-6.  Netzebene
+9.  Lastgangzeitreihe
 
-    Bereiche von Elektrizitätsversorgungsnetzen, in welchen elektrische
-    Energie in Höchst-, Hoch-, Mittel- oder Niederspannung übertragen oder
-    verteilt wird;
+    die Zeitreihe einer Lastgangzählung in Form einer viertelstündlichen
+    registrierenden Leistungsmessung einer Entnahmestelle, bestehend aus
+    den zwei Zeitreihen für beide Energieflussrichtungen (Bezugszeitreihe
+    und Einspeisezeitreihe);
 
 
-7.  Umspannebene
+10. Netzebene
 
-    Bereiche von Elektrizitätsversorgungsnetzen, in welchen die Spannung
-    elektrischer Energie von Höchst- zu Hochspannung, Hoch- zu
+    die Bereiche von Elektrizitätsversorgungsnetzen, in welchen
+    elektrische Energie in Höchst-, Hoch-, Mittel- oder Niederspannung
+    übertragen oder verteilt wird;
+
+
+11. Netzknoten
+
+    der räumlich eng begrenzte Teil eines Elektrizitätsversorgungsnetzes,
+    der sich auf einem baulich zusammengehörenden Gebiet befindet und aus
+
+    a)  einem Umspannwerk, einer Umspannanlage, einer Umspannstation, einer
+        Ortsnetzstation oder einer Schaltanlage oder
+
+
+    b)  einer sonstigen Übergabestelle bei Vorliegen einer den in Buchstabe a
+        genannten Fällen vergleichbaren galvanischen Verbindung
+
+
+
+    besteht, mit der eine oder mehrere Entnahmestellen verbunden sind;
+
+
+12. Umspannebene
+
+    die Bereiche von Elektrizitätsversorgungsnetzen, in welchen die
+    Spannung elektrischer Energie von Höchst- zu Hochspannung, Hoch- zu
     Mittelspannung oder Mittel- zu Niederspannung geändert wird;
 
 
-8.  zeitgleiche Jahreshöchstlast
+12a. versorgte Fläche
 
-    höchste zeitgleiche Summe der Leistungswerte einer Anzahl von
+    in Niederspannung die aus der amtlichen Statistik zur Bodenfläche nach
+    Art der tatsächlichen Nutzung der Statistischen Landesämter
+    ermittelbare Fläche sowie in Mittel- und Hochspannung die geografische
+    Fläche des Netzgebietes;
+
+
+13. zeitgleiche Jahreshöchstlast
+
+    die höchste zeitgleiche Summe der Leistungswerte einer Anzahl von
     Entnahmen aus einer Netz- oder Umspannebene oder einer Anzahl von
     Einspeisungen in eine Netz- oder Umspannebene im Verlauf eines Jahres.
 
@@ -110,10 +171,14 @@ und Elektrizitätsverteilernetze widerspiegeln, zuzuordnen. Danach sind
 die Hauptkostenstellen im Wege der Kostenwälzung nach § 14 den
 Kostenträgern zuzuordnen. Unter Verwendung einer
 Gleichzeitigkeitsfunktion nach § 16 sind die Netzentgelte für jede
-Netz- und Umspannebene zu bestimmen. Die Ermittlung der Kosten und der
-Netzentgelte erfolgt auf der Basis der Daten des letzten
-abgeschlossenen Geschäftsjahres; gesicherte Erkenntnisse über das
-Planjahr können dabei berücksichtigt werden. Soweit hinsichtlich der
+Netz- und Umspannebene zu bestimmen. Die Ermittlung der Kosten erfolgt
+auf der Basis der Daten des letzten abgeschlossenen Geschäftsjahres;
+gesicherte Erkenntnisse über das Planjahr können dabei berücksichtigt
+werden. Die Ermittlung der Netzentgelte erfolgt nach Maßgabe des § 21.
+Für einen Netzbetreiber, für den noch keine kalenderjährliche
+Erlösobergrenze nach § 4 Absatz 1 der Anreizregulierungsverordnung
+bestimmt worden ist, erfolgt die Ermittlung der Netzentgelte auf
+Grundlage der Kosten nach Satz 5. Soweit hinsichtlich der
 Kostenermittlung keine besonderen Regelungen getroffen werden, sind
 die Leitsätze für die Preisermittlung auf Grund von Selbstkosten nach
 der Anlage zur Verordnung PR Nr. 30/53 vom 21. November 1953 (BAnz.
@@ -124,6 +189,15 @@ Verordnung vom 25. November 2003 (BGBl. I S. 2304), heranzuziehen.
 oder Umspannebene des jeweiligen Betreibers des
 Elektrizitätsversorgungsnetzes, an die der Netznutzer angeschlossen
 ist, und aller vorgelagerten Netz- und Umspannebenen abgegolten.
+
+(3) Mit Wirkung zum 1. Januar 2023 bestimmen die Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung jeweils ein
+bundeseinheitliches Netzentgelt nach Abschnitt 2a für die Netzebene
+Höchstspannungsnetz und die Umspannebene von Höchst- zu Hochspannung.
+Hierfür verwenden sie jeweils eine bundeseinheitliche
+Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2. Vom 1. Januar
+2019 bis zum 31. Dezember 2022 erfolgt die Bestimmung nach Satz 1 nach
+Maßgabe des § 32a.
 
 
 ## Teil 2 - Methode zur Ermittlung der Netzentgelte
@@ -142,7 +216,7 @@ strukturell vergleichbaren Netzbetreibers entsprechen.
 
 (2) Ausgehend von den Gewinn- und Verlustrechnungen für die
 Elektrizitätsübertragung und Elektrizitätsverteilung des letzten
-abgeschlossenen Geschäftsjahres nach § 10 Abs. 3 des
+abgeschlossenen Geschäftsjahres nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes ist zur Bestimmung der Netzkosten eine
 kalkulatorische Rechnung zu erstellen. Die Netzkosten setzen sich
 unter Beachtung von Absatz 1 aus den aufwandsgleichen Kosten nach § 5,
@@ -152,13 +226,13 @@ nach § 8 unter Abzug der kostenmindernden Erlöse und Erträge nach § 9
 zusammen. Netzverluste sind nach § 10 zu berücksichtigen.
 
 (3) Bis zur erstmaligen Erstellung der jeweiligen Gewinn- und
-Verlustrechnung nach § 10 Abs. 3 des Energiewirtschaftsgesetzes ist
+Verlustrechnung nach § 6b Absatz 3 des Energiewirtschaftsgesetzes ist
 abweichend von Absatz 2 der Bestimmung der Netzkosten jeweils eine auf
 die Tätigkeitsbereiche Elektrizitätsübertragung und
 Elektrizitätsverteilung beschränkte und nach handelsrechtlichen
 Grundsätzen ermittelte Gewinn- und Verlustrechnung des letzten
 abgeschlossenen Geschäftsjahres zu Grunde zu legen. Soweit Betreiber
-von Elektrizitätsversorgungsnetzen nicht nach § 10 Abs. 3 des
+von Elektrizitätsversorgungsnetzen nicht nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes verpflichtet sind, haben diese der
 Entgeltbildung jeweils eine auf die Tätigkeitsbereiche
 Elektrizitätsübertragung und Elektrizitätsverteilung beschränkte und
@@ -184,11 +258,41 @@ Eigentümer der Anlagen wäre. Der Betreiber des
 Elektrizitätsversorgungsnetzes hat die erforderlichen Nachweise zu
 führen.
 
-(5a) Betreiber von Stromversorgungsnetzen können Kosten oder
-Kostenbestandteile, die auf Grund von Dienstleistungen durch Dritte
-anfallen, maximal in der Höhe ansetzen, wie sie anfielen, wenn sie die
-Leistungen selbst erbringen würden. Der Betreiber des
-Stromversorgungsnetzes hat die erforderlichen Nachweise zu führen.
+(5a) Erbringen Unternehmen gegenüber einem Betreiber eines
+Elektrizitätsversorgungsnetzes Dienstleistungen, so sind die
+diesbezüglichen Kosten oder Kostenbestandteile nach Maßgabe dieses
+Absatzes bei der Netzkostenermittlung zu berücksichtigen. Gehören das
+die Dienstleistung erbringende Unternehmen und der Betreiber des
+Elektrizitätsversorgungsnetzes oder ein Gesellschafter des Betreibers
+des Elektrizitätsversorgungsnetzes zu einer Gruppe miteinander
+verbundener Elektrizitätsunternehmen, so darf der Betreiber des
+Elektrizitätsversorgungsnetzes die aus der Erbringung der
+Dienstleistung entstehenden Kosten oder Kostenbestandteile maximal in
+der Höhe ansetzen, wie sie bei dem die Dienstleistung erbringenden
+Unternehmen unter Anwendung der Grundsätze der Entgeltbestimmung im
+Sinne dieser Verordnung und gegebenenfalls unter Anwendung des § 6
+Absatz 2 der Anreizregulierungsverordnung tatsächlich angefallen sind.
+Beinhalten die nach Satz 2 für die Erbringung von Dienstleistungen
+angefallenen Kosten oder Kostenbestandteile Vorleistungen von
+Unternehmen, die ebenfalls zu der Gruppe miteinander verbundener
+Elektrizitätsunternehmen gehören, der das die Dienstleistung
+erbringende Unternehmen und der Betreiber des
+Elektrizitätsversorgungsnetzes oder dessen Gesellschafter angehören,
+können diese nur maximal in der Höhe einbezogen werden, wie sie
+jeweils bei dem die Vorleistung erbringenden Unternehmen unter
+Anwendung der Grundsätze der Entgeltbestimmung im Sinne dieser
+Verordnung und gegebenenfalls unter Anwendung des § 6 Absatz 2 der
+Anreizregulierungsverordnung tatsächlich angefallen sind. Gehören das
+die Dienstleistung erbringende Unternehmen und der Betreiber des
+Elektrizitätsversorgungsnetzes oder dessen Gesellschafter nicht zu
+einer Gruppe miteinander verbundener Elektrizitätsunternehmen, so darf
+der Betreiber des Elektrizitätsversorgungsnetzes die aus der
+Erbringung der Dienstleistung entstehenden Kosten oder
+Kostenbestandteile maximal in der Höhe ansetzen, wie sie anfallen
+würden, wenn der Betreiber des Elektrizitätsversorgungsnetzes die
+jeweiligen Leistungen selbst erbringen würde. Der Betreiber des
+Elektrizitätsversorgungsnetzes hat die erforderlichen Nachweise zu
+führen.
 
 (6) Soweit außerordentliche Aufwendungen und Erträge die Netzkosten
 einer Kalkulationsperiode beeinflussen, sind diese der
@@ -197,7 +301,7 @@ Regulierungsbehörde unverzüglich anzuzeigen.
 
 #### § 5 Aufwandsgleiche Kostenpositionen
 
-(1) Aufwandsgleiche Kostenpositionen sind den nach § 10 Abs. 3 des
+(1) Aufwandsgleiche Kostenpositionen sind den nach § 6b Absatz 3 des
 Energiewirtschaftsgesetzes oder nach § 4 Abs. 3 erstellten Gewinn- und
 Verlustrechnungen für die Elektrizitätsübertragung und
 Elektrizitätsverteilung zu entnehmen und nach Maßgabe des § 4 Abs. 1
@@ -282,17 +386,14 @@ ist die Differenz zwischen 100 Prozent und der Eigenkapitalquote.
 Entwicklung maßgebliche Anschaffungswert zum jeweiligen
 Bewertungszeitpunkt. Die Umrechnung der historischen Anschaffungs- und
 Herstellungskosten der betriebsnotwendigen Anlagegüter auf
-Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung
-anlagenspezifischer oder anlagengruppenspezifischer Preisindizes, die
-auf den Indexreihen des Statistischen Bundesamtes beruhen
-(Veröffentlichungen des Statistischen Bundesamtes "Preise und
-Preisindizes", Fachserie 16 und 17) \*). Im Falle der
-Elektrizitätsversorgungsnetze in Berlin, Brandenburg, Mecklenburg-
-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen können für jene
-Anlagegüter, deren Errichtung zeitlich vor ihrer erstmaligen Bewertung
-in Deutscher Mark liegt, die Anschaffungs- und Herstellungskosten
-unter Verwendung zeitnaher üblicher Anschaffungs- und
-Herstellungskosten und einer Rückrechnung mittels der anwendbaren
+Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung von
+Indexreihen des Statistischen Bundesamtes nach Maßgabe des § 6a. Im
+Falle der Elektrizitätsversorgungsnetze in Berlin, Brandenburg,
+Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen können
+für jene Anlagegüter, deren Errichtung zeitlich vor ihrer erstmaligen
+Bewertung in Deutscher Mark liegt, die Anschaffungs- und
+Herstellungskosten unter Verwendung zeitnaher üblicher Anschaffungs-
+und Herstellungskosten und einer Rückrechnung mittels der anwendbaren
 Preisindizes ermittelt werden.
 
 (4) Die kalkulatorischen Abschreibungen der Neuanlagen sind ausgehend
@@ -322,14 +423,167 @@ Restabschreibungsdauer. Es erfolgt keine Abschreibung unter Null.
 (7) Das Verbot von Abschreibungen unter Null gilt ungeachtet der
 Änderung von Eigentumsverhältnissen oder der Begründung von
 Schuldverhältnissen.
------
-
-\*) Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt,
-    Wiesbaden.
 
 
+#### § 6a Preisindizes zur Ermittlung der Tagesneuwerte
+
+[^F782159_01_BJNR222500005BJNE004200301]
+(1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind
+folgende Indexreihen des Statistischen Bundesamtes
+heranzuziehen:
+
+1.  für die Anlagengruppe der Grundstücksanlagen und Gebäude der Anlage 1
+    die Indexreihe Gewerbliche Betriebsgebäude, Bauleistungen am Bauwerk,
+    ohne Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes
+    für die Bauwirtschaft);
 
 
+2.  für die Anlagengruppe der Kabel der Anlage 1
+
+    a)  die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau), ohne
+        Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+        die Bauwirtschaft) mit einem Anteil von 70 Prozent und
+
+
+    b)  der Index Andere elektrische Leiter für eine Spannung von mehr als 1
+        000 Volt (Statistisches Bundesamt, Fachserie 17, Index der
+        Erzeugerpreise gewerblicher Produkte) mit einem Anteil von 30 Prozent;
+
+
+
+
+
+3.  für die Anlagengruppe der Freileitungen der Anlage 1
+
+    a)  die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau), ohne
+        Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+        die Bauwirtschaft) mit einem Anteil von 50 Prozent,
+
+
+    b)  der Index Andere elektrische Leiter für eine Spannung von mehr als 1
+        000 Volt (Statistisches Bundesamt, Fachserie 17, Index der
+        Erzeugerpreise gewerblicher Produkte) mit einem Anteil von 15 Prozent
+        und
+
+
+    c)  der Index Türme und Gittermaste, aus Eisen oder Stahl (Statistisches
+        Bundesamt, Fachserie 17, Index der Erzeugerpreise gewerblicher
+        Produkte) mit einem Anteil von 35 Prozent;
+
+
+
+
+
+4.  für die Anlagengruppe der Stationen der Anlage 1
+
+    a)  die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau), ohne
+        Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+        die Bauwirtschaft) mit einem Anteil von 35 Prozent und
+
+
+    b)  der Index für Erzeugerpreise gewerblicher Produkte gesamt (ohne
+        Mineralölerzeugnisse) (Statistisches Bundesamt, Fachserie 17, Index
+        der Erzeugerpreise gewerblicher Produkte) mit einem Anteil von 65
+        Prozent;
+
+
+
+
+
+5.  für alle übrigen Anlagengruppen, mit Ausnahme der Anlagengruppe I.1.
+    Grundstücke der Anlage 1, die Indexreihe für Erzeugerpreise
+    gewerblicher Produkte gesamt (ohne Mineralölerzeugnisse)
+    (Statistisches Bundesamt, Fachserie 17, Index der Erzeugerpreise
+    gewerblicher Produkte).
+
+
+
+
+(2) Sofern die in Absatz 1 genannten Indexreihen des Statistischen
+Bundesamtes nicht für den notwendigen Zeitraum der Vergangenheit
+verfügbar sind, sind der Ermittlung der Tagesneuwerte
+Ersatzindexreihen zu Grunde zu legen, die mit den in Absatz 1
+genannten Indexreihen zu verketten sind. Die Verkettungsfaktoren
+ergeben sich jeweils aus der Division des am weitesten in der
+Vergangenheit liegenden Indexwertes der Indexreihe nach Absatz 1 durch
+den Indexwert der Ersatzindexreihe für dasselbe Beobachtungsjahr. Es
+sind folgende Ersatzindexreihen heranzuziehen:
+
+1.  für die Indexreihe Gewerbliche Betriebsgebäude, Bauleistungen am
+    Bauwerk, ohne Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Gewerbliche
+        Betriebsgebäude, Bauleistungen am Bauwerk, mit Umsatzsteuer
+        (Statistisches Bundesamt, Fachserie 17, Preisindizes für die
+        Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+2.  für die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau) ohne
+    Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Ortskanäle,
+        Bauleistungen am Bauwerk (Tiefbau), mit Umsatzsteuer (Statistisches
+        Bundesamt, Fachserie 17, Preisindizes für die Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+3.  für die Indexreihe Erzeugerpreise gewerblicher Produkte gesamt (ohne
+    Mineralölerzeugnisse) für den Zeitraum vor 1976 die Indexreihe
+    Erzeugerpreise gewerblicher Produkte gesamt (Statistisches Bundesamt,
+    Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte);
+
+
+4.  für die Indexreihe Andere elektrische Leiter für eine Spannung von
+    mehr als 1 000 Volt für den Zeitraum vor 1995
+
+    a)  die Indexreihe Kabel für die Anlagengruppe Kabel (Statistisches
+        Bundesamt, Fachserie 17, Index der Erzeugnisse gewerblicher Produkte)
+        und
+
+
+    b)  für die Anlagengruppe Freileitungen die Indexreihe Isolierte Drähte
+        und Leitungen (Statistisches Bundesamt, Fachserie 17, Index der
+        Erzeugerpreise gewerblicher Produkte);
+
+
+
+
+
+5.  für die Indexreihe Türme und Gittermaste, aus Eisen oder Stahl, für
+    den Zeitraum vor 1976 die Indexreihe Fertigteilbauten überwiegend aus
+    Metall, Konstruktionen aus Stahl und Aluminium (Statistisches
+    Bundesamt, Fachserie 17, Index der Erzeugerpreise gewerblicher
+    Produkte).
+
+
+
+
+(3) Der Tagesneuwert im Basisjahr eines im Jahr t angeschafften
+Anlagegutes ergibt sich durch die Multiplikation des Indexfaktors des
+Jahres t mit den historischen Anschaffungs- und Herstellungskosten.
+Der Indexfaktor des Jahres t ergibt sich aus dem Quotienten des
+Indexwertes des Basisjahrs und dem Indexwert des Jahres t und ist auf
+vier Nachkommastellen zu runden.
+
+    Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-
+    Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über
+    www.destatis.de.
+[^F782159_01_BJNR222500005BJNE004200301]: 
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
 
@@ -367,8 +621,8 @@ ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand
 anzusetzen. Soweit das nach Satz 2 ermittelte betriebsnotwendige
 Eigenkapital einen Anteil von 40 Prozent des sich aus der Summe der
 Werte nach Satz 2 Nr. 1 bis 4 ergebenden betriebsnotwendigen Vermögens
-übersteigt, ist der übersteigende Anteil dieses Eigenkapitals nominal
-wie Fremdkapital zu verzinsen.
+übersteigt, ist der übersteigende Anteil dieses Eigenkapitals gemäß
+Absatz 7 zu verzinsen.
 
 (2) Als Abzugskapital ist das zinslos zur Verfügung stehende Kapital
 zu behandeln. Es ist jeweils der Mittelwert aus Jahresanfangs- und
@@ -445,14 +699,33 @@ Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die
 Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen
 7,91 Prozent vor Steuern und bei Altanlagen 6,5 Prozent vor Steuern.
 
+(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil
+des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als Mittelwert
+des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen
+Durchschnitts der folgenden von der Deutschen Bundesbank
+veröffentlichten Umlaufsrenditen:
+
+1.  Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten –
+    Anleihen der öffentlichen Hand,
+
+
+2.  Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten –
+    Anleihen von Unternehmen (Nicht-MFIs) und
+
+
+3.  Umlaufsrendite inländischer Inhaberschuldverschreibungen –
+    Hypothekenpfandbriefe.
+
+
+
+Weitere Zuschläge sind unzulässig.
+
 
 #### § 8 Kalkulatorische Steuern
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
 sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
-Kostenposition in Ansatz gebracht werden. Bei der Ermittlung der
-Gewerbesteuer ist die Abzugsfähigkeit der Gewerbesteuer bei sich
-selbst zu berücksichtigen.
+Kostenposition in Ansatz gebracht werden.
 
 
 #### § 9 Kostenmindernde Erlöse und Erträge
@@ -477,10 +750,11 @@ Netzbetrieb zuzurechnen und insbesondere den Positionen
 
 
 der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von
-den Netzkosten in Abzug zu bringen. Die von stromverbrauchenden
-Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer
-von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd
-anzusetzen.
+den Netzkosten in Abzug zu bringen. Einnahmen nach § 77f des
+Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb
+zuzurechnen. Die von stromverbrauchenden Anschlussnehmern entrichteten
+Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear
+aufzulösen und jährlich netzkostenmindernd anzusetzen.
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines
 Anschlusses für die Einspeisung elektrischer Energie entrichtet
@@ -510,8 +784,10 @@ Jahres auf ihrer Internetseite zu veröffentlichen.
 
 #### § 11 Periodenübergreifende Saldierung
 
-Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet, nach
-Abschluss einer Kalkulationsperiode die Differenz zwischen
+Sofern die Netzentgelte nicht im Wege der Anreizregulierung nach § 21a
+des Energiewirtschaftsgesetzes bestimmt werden, sind Betreiber von
+Elektrizitätsversorgungsnetzen verpflichtet, nach Abschluss einer
+Kalkulationsperiode die Differenz zwischen
 
 1.  den in dieser Kalkulationsperiode aus Netzentgelten erzielten Erlösen
     und
@@ -601,10 +877,92 @@ den vorhandenen Netz- und Umspannebenen des Betreibers von
 Elektrizitätsversorgungsnetzen zu orientieren und sind im Einzelnen
 nach Anlage 3 zu bilden.
 
-(4) Kostenträger der Kostenstellen Messung und Abrechnung sind die
+(4) Kostenträger der Kostenstelle Messstellenbetrieb sind die
 jeweiligen Netz- und Umspannebenen. Soweit sich Kosten dieser
 Kostenstellen nicht direkt einer Netz- oder Umspannebene zuordnen
 lassen, sind diese Kosten verursachungsgerecht zuzuordnen.
+
+(5) Für Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+sind ergänzend die Regelungen des Abschnitts 2a anzuwenden.
+
+
+### Abschnitt 2a - Bundeseinheitliche Übertragungsnetzentgelte
+
+
+
+#### § 14a Bildung bundeseinheitlicher Übertragungsnetzentgelte
+
+Mit Wirkung zum 1. Januar 2023 haben die Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung bundeseinheitliche
+Netzentgelte zu bilden. Nicht vereinheitlicht werden die Entgelte für
+den Messstellenbetrieb und für singulär genutzte Betriebsmittel nach §
+19 Absatz 3.
+
+
+#### § 14b Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
+
+(1) Grundlage der Ermittlung der bundeseinheitlichen
+Übertragungsnetzentgelte sind jeweils die nach § 32 Absatz 1 Nummer 1
+der Anreizregulierungsverordnung festgelegten Erlösobergrenzen, die
+kostenorientiert für jeden Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung getrennt ermittelt werden. Von diesen
+Erlösobergrenzen werden die Anteile, die für die Entgelte für den
+Messstellenbetrieb und für singulär genutzte Betriebsmittel nach § 19
+Absatz 3 anfallen, in Abzug gebracht.
+
+(2) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+bilden für die Zwecke der Ermittlung der bundeseinheitlichen
+Netzentgelte jeweils einen gemeinsamen Kostenträger nach Anlage 3 für
+die Höchstspannungsebene und für die Umspannebene von Höchst- zu
+Hochspannung. Ausgangspunkt der Zuordnung auf diese gemeinsamen
+bundeseinheitlichen Kostenträger ist die Kostenstellenrechnung jedes
+Betreibers von Übertragungsnetzen mit Regelzonenverantwortung. Bei der
+Zuordnung bleiben die Anteile nach Absatz 1 Satz 2 unberücksichtigt.
+
+(3) Auf Grundlage der Kosten, die auf dem gemeinsamen Kostenträger
+nach Absatz 2 addiert worden sind, und einer bundeseinheitlichen
+Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 2 werden die
+bundeseinheitlichen Übertragungsnetzentgelte für die betroffene Netz-
+und Umspannebene ermittelt.
+
+
+#### § 14c Ausgleich der Mehr- und Mindereinnahmen auf Grund bundeseinheitlicher Übertragungsnetzentgelte
+
+(1) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+haben Mehr- oder Mindereinnahmen, die sich auf Grund des
+bundeseinheitlichen Übertragungsnetzentgelts gegenüber ihren der
+Vereinheitlichung zugrunde liegenden Erlösobergrenzen nach § 14b
+Absatz 1 ergeben, untereinander auszugleichen.
+
+(2) Der Ausgleich nach Absatz 1 erfolgt auf Grundlage der
+prognostizierten Erlöse nach § 20 Absatz 1 Satz 3 Nummer 1, die sich
+aus den für das Folgejahr ermittelten bundeseinheitlichen
+Übertragungsnetzentgelten ergeben. Die Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung, die Mehreinnahmen
+erzielen, haben diese Mehreinnahmen durch Zahlungen in zwölf gleichen
+Raten bis spätestens zum 15. des jeweiligen Folgemonats anteilig an
+die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung, die
+Mindereinnahmen erzielen, auszugleichen.
+
+(3) Durch die Ausgleichszahlungen nach Absatz 2 Satz 2 erlöschen
+jeweils insoweit die Ansprüche nach Absatz 1. Ein Abgleich auf
+Grundlage der tatsächlich erzielbaren Erlöse erfolgt nicht.
+Abweichungen zwischen den nach § 4 der Anreizregulierungsverordnung
+zulässigen Erlösen und den erzielbaren Erlösen werden unter
+Einbeziehung der erhaltenen oder geleisteten Ausgleichszahlungen
+unternehmensindividuell über das jeweilige Regulierungskonto nach § 5
+der Anreizregulierungsverordnung des Betreibers von Übertragungsnetzen
+mit Regelzonenverantwortung ausgeglichen, bei dem sich eine Abweichung
+ergibt.
+
+
+#### § 14d Datenaustausch zur Bildung bundeseinheitlicher Übertragungsnetzentgelte
+
+Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung haben
+zur Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte nach §
+14b rechtzeitig für das jeweilige Folgejahr alle hierfür notwendigen
+Daten in anonymisierter Form untereinander elektronisch auszutauschen.
+Die Daten müssen einheitlich ermittelt werden.
 
 
 ### Abschnitt 3 - Kostenträgerrechnung
@@ -623,7 +981,9 @@ entrichten.
 dem Ende einer bevorstehenden Kalkulationsperiode die Differenz
 zwischen den aus Netzentgelten tatsächlich erzielten Erlösen und den
 nach § 4 ermittelten und in der bevorstehenden Kalkulationsperiode zu
-deckenden Netzkosten möglichst gering ist.
+deckenden Netzkosten möglichst gering ist. Satz 1 ist auch auf die
+nach § 14b zu ermittelnden bundeseinheitlichen
+Übertragungsnetzentgelte anzuwenden.
 
 
 #### § 16 Gleichzeitigkeitsgrad
@@ -635,12 +995,18 @@ alle Netz- und Umspannebenen die spezifischen Jahreskosten gebildet.
 Die spezifischen Jahreskosten ergeben sich aus dem Quotienten aus den
 Jahreskosten einer Netz- oder Umspannebene nach § 14 Abs. 2 und der
 zeitgleichen Jahreshöchstlast aller Entnahmen aus dieser Netz- oder
-Umspannebene.
+Umspannebene. Die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung bestimmen zur Bildung des bundeseinheitlichen
+Übertragungsnetzentgelts die zeitgleichen gemeinsamen
+Jahreshöchstlasten auf Grundlage der Daten nach § 14d.
 
 (2) Für die verursachungsgerechte Zuteilung der spezifischen
 Jahreskosten einer Netz- oder Umspannebene auf die Netzkunden dieser
 Netz- oder Umspannebene wird für alle Netz- und Umspannebenen jeweils
-eine Gleichzeitigkeitsfunktion nach Anlage 4 ermittelt.
+eine Gleichzeitigkeitsfunktion nach Anlage 4 ermittelt. Die Betreiber
+von Übertragungsnetzen mit Regelzonenverantwortung ermitteln für die
+betroffene Netz- und die Umspannebene jeweils eine bundeseinheitliche
+Gleichzeitigkeitsfunktion nach Anlage 4.
 
 
 #### § 17 Ermittlung der Netzentgelte
@@ -662,45 +1028,106 @@ Arbeitsentgelt ist das Produkt aus dem jeweiligen Arbeitspreis und der
 im Abrechnungsjahr jeweils entnommenen elektrischen Arbeit in
 Kilowattstunden.
 
+(2a) Eine zeitgleiche Zusammenführung mehrerer Entnahmestellen zu
+einer Entnahmestelle zum Zwecke der Ermittlung des
+Jahresleistungsentgeltes nach Absatz 2 Satz 2 (Pooling) ist unabhängig
+von einem entsprechenden Verlangen des jeweiligen Netznutzers
+durchzuführen, wenn all diese Entnahmestellen
+
+1.  durch denselben Netznutzer genutzt werden,
+
+
+2.  mit dem Elektrizitätsversorgungsnetz desselben Netzbetreibers
+    verbunden sind,
+
+
+3.  sich auf der gleichen Netz- oder Umspannebene befinden und
+
+
+4.  entweder Bestandteil desselben Netzknotens sind oder bei Vorliegen
+    einer kundenseitigen galvanischen Verbindung an das
+    Elektrizitätsversorgungsnetz angeschlossen sind.
+
+
+
+Im Übrigen ist ein Pooling mehrerer Entnahmestellen unzulässig. Das
+Vorliegen der in Satz 1 genannten Voraussetzungen hat der Netznutzer
+nachzuweisen. Das Pooling erfolgt
+
+1.  im Falle des Satzes 1 Nummer 4 erste Alternative durch eine
+    zeitgleiche und vorzeichengerechte Addition (Saldierung) der
+    Lastgangzeitreihen der Entnahmestellen innerhalb des zeitgleichen
+    Messintervalls der Lastgangzählung oder
+
+
+2.  im Falle des Satzes 1 Nummer 4 zweite Alternative durch eine
+    zeitgleiche Addition der richtungsgleichen Lastgangzeitreihen der
+    einzelnen Entnahmestellen innerhalb des zeitgleichen Messintervalls
+    der Lastgangzählung.
+
+
+
+
 (3) Zur Ermittlung der jeweiligen Netzentgelte einer Netz- oder
 Umspannebene in Form von Leistungs- und Arbeitspreisen werden die nach
 § 16 Abs. 1 ermittelten leistungsbezogenen Gesamtjahreskosten mit den
 Parametern der nach Anlage 4 ermittelten Geradengleichungen des
-Gleichzeitigkeitsgrades nach § 16 Abs. 2 multipliziert.
+Gleichzeitigkeitsgrades nach § 16 Absatz 2 Satz 1 oder im Fall der
+bundeseinheitlichen Übertragungsnetzentgelte nach § 16 Absatz 2 Satz 2
+multipliziert.
 
 (4) Die abschnittsweise festgelegten Jahresleistungspreise einer Netz-
 oder Umspannebene eines Betreibers von Elektrizitätsversorgungsnetzen
 in Euro pro Kilowatt ergeben sich jeweils als Produkt der
 Gesamtjahreskosten und der jeweiligen Anfangswerte der
-Geradengleichungen des Gleichzeitigkeitsgrades.
+Geradengleichungen des Gleichzeitigkeitsgrades. Satz 1 ist auch auf
+die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung bei
+der Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
+anzuwenden.
 
 (5) Die abschnittsweise festgelegten Arbeitspreise einer Netz- oder
 Umspannebene eines Betreibers von Elektrizitätsversorgungsnetzen in
 Cent pro Kilowattstunde ergeben sich jeweils als Produkt der
 Gesamtjahreskosten und der jeweiligen Steigung der Geradengleichungen
-der Gleichzeitigkeitsfunktion.
+der Gleichzeitigkeitsfunktion. Satz 1 ist auch auf die Betreiber von
+Übertragungsnetzen mit Regelzonenverantwortung bei der Ermittlung des
+bundeseinheitlichen Übertragungsnetzentgelts anzuwenden.
 
-(6) Für Entnahmen ohne Leistungsmessung mittels Lastgangmessung im
-Niederspannungsnetz ist anstelle des Leistungs- und Arbeitspreises ein
-Arbeitspreis in Cent pro Kilowattstunde festzulegen. Soweit zusätzlich
-ein monatlicher Grundpreis in Euro pro Monat festgelegt wird, haben
-Grundpreis und Arbeitspreis in einem angemessenen Verhältnis
-zueinander zu stehen. Das sich aus Grundpreis und Arbeitspreis
-ergebende Entgelt hat in einem angemessenen Verhältnis zu jenem
-Entgelt zu stehen, das bei einer leistungsgemessenen Entnahme im
-Niederspannungsnetz auf der Grundlage der Arbeits- und Leistungswerte
-nach dem Standardlastprofil des Netznutzers entstehen würde.
+(6) Für Entnahmestellen im Niederspannungsnetz mit einer jährlichen
+Entnahme von bis zu 100 000 Kilowattstunden ist bei
+Zählerstandsgangmessung oder einer anderen Form der Arbeitsmessung
+anstelle des Leistungs- und Arbeitspreises ein Arbeitspreis in Cent
+pro Kilowattstunde festzulegen. Soweit zusätzlich ein monatlicher
+Grundpreis in Euro pro Monat festgelegt wird, haben Grundpreis und
+Arbeitspreis in einem angemessenen Verhältnis zueinander zu stehen.
+Das sich aus Grundpreis und Arbeitspreis ergebende Entgelt hat in
+einem angemessenen Verhältnis zu jenem Entgelt zu stehen, das bei
+einer leistungsgemessenen Entnahme im Niederspannungsnetz auf der
+Grundlage der Arbeits- und Leistungswerte nach dem Standardlastprofil
+des Netznutzers entstehen würde. Abweichend von den Sätzen 1 bis 3
+sind die Netzentgelte im Falle von im Verteilernetz angeschlossenen
+Anlagen zur Straßenbeleuchtung auch ohne Vorliegen einer
+Leistungsmessung mittels Lastgangmessung nach den Vorgaben von Absatz
+2 zu ermitteln, wenn eine rechnerisch oder auf Grundlage einer
+Schätzung erfolgte Ermittlung von Arbeit und Leistung mit
+hinreichender Sicherheit zu vergleichbaren zuverlässigen Ergebnissen
+führt wie eine Leistungsmessung mittels Lastgangmessung.
 
-(7) Ferner ist für jede Entnahmestelle und getrennt nach Netz- und
-Umspannebenen jeweils ein Entgelt für den Messstellenbetrieb, ein
-Entgelt für die Messung und ein Entgelt für die Abrechnung
-festzulegen, wobei die nach § 14 Abs. 4 auf die Netz- und
-Umspannebenen verteilten Kosten jeweils vollständig durch die Summe
-der pro Entnahmestelle entrichteten Entgelte der jeweiligen Netz- oder
-Umspannebene zu decken sind. Die Entgelte nach Satz 1 sind jeweils für
-jede Entnahmestelle einer Netz- oder Umspannebene zu erheben. In der
-Niederspannung sind davon abweichend jeweils Entgelte für leistungs-
-und für nicht leistungsgemessene Entnahmestellen zu bilden.
+(7) Soweit es nicht den Messstellenbetrieb für moderne
+Messeinrichtungen und intelligente Messsysteme nach dem
+Messstellenbetriebsgesetz betrifft, ist für jede Entnahmestelle und
+getrennt nach Netz- und Umspannebenen ab dem 1. Januar 2017 jeweils
+ein Entgelt für den Messstellenbetrieb, zu dem auch die Messung
+gehört, festzulegen. Bei der Festlegung des Entgelts sind die nach §
+14 Absatz 4 auf die Netz- und Umspannebenen verteilten Kosten jeweils
+vollständig durch die Summe der pro Entnahmestelle entrichteten
+Entgelte der jeweiligen Netz- oder Umspannebene zu decken. Gesonderte
+Abrechnungsentgelte als Bestandteil der Netznutzungsentgelte sind ab
+dem 1. Januar 2017 nicht mehr festzulegen. Die Entgelte sind jeweils
+für jede Entnahmestelle einer Netz-oder Umspannebene zu erheben. In
+der Niederspannung sind davon abweichend jeweils Entgelte für
+leistungs- und für nicht leistungsgemessene Entnahmestellen
+festzulegen.
 
 (8) Andere als in dieser Verordnung genannte Entgelte sind nicht
 zulässig.
@@ -708,20 +1135,28 @@ zulässig.
 
 #### § 18 Entgelt für dezentrale Einspeisung
 
-(1) Betreiber von dezentralen Erzeugungsanlagen erhalten vom Betreiber
-des Elektrizitätsverteilernetzes, in dessen Netz sie einspeisen, ein
-Entgelt. Dieses Entgelt muss den gegenüber den vorgelagerten Netz-
-oder Umspannebenen durch die jeweilige Einspeisung vermiedenen
-Netzentgelten entsprechen. Das Entgelt nach Satz 1 wird nicht gewährt,
-wenn die Stromeinspeisung
+(1) Betreiber von dezentralen Erzeugungsanlagen, die vor dem 1. Januar
+2023 in Betrieb genommen worden sind, erhalten vom Betreiber des
+Elektrizitätsverteilernetzes, in dessen Netz sie einspeisen, ein
+Entgelt. Bei Anlagen mit volatiler Erzeugung ist Satz 1 mit der
+Maßgabe anzuwenden, dass sie nur dann ein Entgelt erhalten, wenn sie
+vor dem 1. Januar 2018 in Betrieb genommen worden sind. Dieses Entgelt
+muss den gegenüber den vorgelagerten Netz- oder Umspannebenen durch
+die jeweilige Einspeisung vermiedenen Netzentgelten entsprechen, die
+nach Maßgabe des § 120 des Energiewirtschaftsgesetzes ermittelt
+werden. Das Entgelt nach Satz 1 wird nicht gewährt, wenn die
+Stromeinspeisung
 
-1.  nach § 16 des Erneuerbare-Energien-Gesetzes vergütet oder in den
-    Formen des § 33b Nummer 1 oder Nummer 2 des Erneuerbare-Energien-
-    Gesetzes direkt vermarktet wird oder
+1.  nach § 19 des Erneuerbare-Energien-Gesetzes gefördert wird,
 
 
-2.  nach § 4 Abs. 3 Satz 1 des Kraft-Wärme-Kopplungsgesetzes vergütet wird
-    und in dieser Vergütung vermiedene Netzentgelte enthalten sind.
+2.  nach § 6 Absatz 4 Satz 1 des Kraft-Wärme-Kopplungsgesetzes und § 13
+    Absatz 5 vergütet wird und in dieser Vergütung vermiedene Netzentgelte
+    enthalten sind oder
+
+
+3.  aus KWK-Anlagen nach § 8a Absatz 1 des Kraft-Wärme-Kopplungsgesetzes
+    gefördert wird.
 
 
 
@@ -734,17 +1169,20 @@ vermiedenen gewälzten Kosten der vorgelagerten Netz- oder
 Umspannebenen werden für jede Netz- und Umspannebene einzeln
 ermittelt. Maßgeblich sind die tatsächliche Vermeidungsarbeit in
 Kilowattstunden, die tatsächliche Vermeidungsleistung in Kilowatt und
-die Netzentgelte der vorgelagerten Netz- oder Umspannebene. Die
-Vermeidungsarbeit ist unter Berücksichtigung der Netzverluste der
-jeweiligen Netz- oder Umspannebene die Differenz zwischen der durch
-Letztverbraucher, Weiterverteiler und nachgelagerte Netz- oder
-Umspannebene entnommenen elektrischen Energie in Kilowattstunden und
-der aus der vorgelagerten Netz- oder Umspannebene entnommenen
-elektrischen Energie in Kilowattstunden. Die Vermeidungsleistung ist
-die Differenz zwischen der zeitgleichen Jahreshöchstlast aller
-Entnahmen aus der Netz- oder Umspannebene und der maximalen Bezugslast
-dieses Jahres aus der vorgelagerten Netz- oder Umspannebene in
-Kilowatt.
+die Netzentgelte der vorgelagerten Netz- oder Umspannebene nach
+Maßgabe des § 120 Absatz 2 bis 6 des Energiewirtschaftsgesetzes. Bei
+der Ermittlung nach den Sätzen 1 und 2 sind die für die einzelnen
+Übertragungsnetzbetreiber in Anlage 4a angegebenen Werte zugrunde zu
+legen. Die Vermeidungsarbeit ist unter Berücksichtigung der
+Netzverluste der jeweiligen Netz- oder Umspannebene die Differenz
+zwischen der durch Letztverbraucher, Weiterverteiler und nachgelagerte
+Netz- oder Umspannebene entnommenen elektrischen Energie in
+Kilowattstunden und der aus der vorgelagerten Netz- oder Umspannebene
+entnommenen elektrischen Energie in Kilowattstunden. Die
+Vermeidungsleistung ist die Differenz zwischen der zeitgleichen
+Jahreshöchstlast aller Entnahmen aus der Netz- oder Umspannebene und
+der maximalen Bezugslast dieses Jahres aus der vorgelagerten Netz-
+oder Umspannebene in Kilowatt.
 
 (3) Die Aufteilung der nach Absatz 2 ermittelten vermiedenen Kosten
 der jeweils vorgelagerten Netz- oder Umspannebenen auf die einzelnen
@@ -764,6 +1202,13 @@ und den sich nach Absatz 2 rechnerisch ergebenden vermiedenen Kosten
 der vorgelagerten Netz- oder Umspannebene zu ermitteln. Der
 Differenzbetrag ist zuzüglich einer angemessenen Verzinsung in der
 nächsten Kalkulationsperiode in Ansatz zu bringen.
+
+(5) Die vermiedenen Netzentgelte nach Absatz 1, die sich auf Grund der
+Ermittlung nach den Absätzen 2 und 3 für die jeweilige
+Erzeugungsanlage ergeben, werden für Anlagen mit volatiler Erzeugung
+ab dem 1. Januar 2018 schrittweise jährlich, jeweils zum 1. Januar des
+Jahres, jeweils um einen Betrag von einem Drittel des ursprünglichen
+Ausgangswertes abgesenkt.
 
 
 #### § 19 Sonderformen der Netznutzung
@@ -785,31 +1230,88 @@ Betreiber von Elektrizitätsversorgungsnetzen diesem Letztverbraucher
 in Abweichung von § 16 ein individuelles Netzentgelt anzubieten, das
 dem besonderen Nutzungsverhalten des Netzkunden angemessen Rechnung zu
 tragen hat und nicht weniger als 20 Prozent des veröffentlichten
-Netzentgelts betragen darf. Erreicht die Stromabnahme aus dem Netz der
+Netzentgeltes betragen darf. Ein individuelles Netzentgelt ist
+außerdem auch anzubieten, wenn die Stromabnahme aus dem Netz der
 allgemeinen Versorgung für den eigenen Verbrauch an einer
-Abnahmestelle die Benutzungsstundenzahl von mindestens 7 000 Stunden
-und übersteigt der Stromverbrauch an dieser Abnahmestelle 10
-Gigawattstunden, soll der Letztverbraucher insoweit grundsätzlich von
-den Netzentgelten befreit werden. Die Vereinbarung eines individuellen
-Netzentgelts nach Satz 1 wie auch die Befreiung nach Satz 2 bedürfen
-der Genehmigung der Regulierungsbehörde. Der Antrag kann auch durch
-den Letztverbraucher gestellt werden. Der Netzbetreiber hat der
-Regulierungsbehörde unverzüglich alle zur Beurteilung der
-Voraussetzungen der Sätze 1 und 2 erforderlichen Unterlagen
-vorzulegen. Die Betreiber von Übertragungsnetzen sind verpflichtet,
-entgangene Erlöse, die aus individuellen Netzentgelten nach Satz 1 und
-Befreiungen von Netzentgelten nach Satz 2 resultieren, nachgelagerten
-Betreibern von Elektrizitätsverteilernetzen zu erstatten. Sie haben
-diese Zahlungen sowie eigene entgangene Erlöse durch individuelle
-Netzentgelte nach Satz 1 und Befreiungen von den Netzentgelten nach
-Satz 2 über eine finanzielle Verrechnung untereinander auszugleichen;
-§ 9 des Kraft-Wärme-Kopplungsgesetzes findet entsprechende Anwendung.
-§ 20 gilt entsprechend. Die Vereinbarung eines individuellen
-Netzentgelts wie auch die Befreiung von den Netzentgelten erfolgen
-unter dem Vorbehalt, dass die jeweiligen Voraussetzungen nach den
-Sätzen 1 und 2 tatsächlich eintreten. Ist dies nicht der Fall, erfolgt
-die Abrechnung der Netznutzung nach den allgemein gültigen
-Netzentgelten.
+Abnahmestelle pro Kalenderjahr sowohl die Benutzungsstundenzahl von
+mindestens 7 000 Stunden im Jahr erreicht als auch der Stromverbrauch
+an dieser Abnahmestelle pro Kalenderjahr zehn Gigawattstunden
+übersteigt. Das individuelle Netzentgelt nach Satz 2 beträgt bei einer
+Stromabnahme aus dem Netz der allgemeinen Versorgung für den eigenen
+Verbrauch an einer Abnahmestelle von mehr als zehn Gigawattstunden pro
+Kalenderjahr nicht weniger als:
+
+1.  20 Prozent des veröffentlichten Netzentgeltes, im Falle einer
+    Benutzungsstundenzahl von mindestens 7 000 Stunden im Jahr;
+
+
+2.  15 Prozent des veröffentlichten Netzentgeltes, im Falle einer
+    Benutzungsstundenzahl von mindestens 7 500 Stunden im Jahr oder
+
+
+3.  10 Prozent des veröffentlichten Netzentgeltes, im Falle einer
+    Benutzungsstundenzahl von mindestens 8 000 Stunden im Jahr.
+
+
+
+Die Bemessung des nach den Sätzen 2 und 3 gebildeten individuellen
+Netzentgeltes hat den Beitrag des Letztverbrauchers zu einer Senkung
+oder zu einer Vermeidung der Erhöhung der Kosten der Netz- oder
+Umspannebene, an die der Letztverbraucher angeschlossen ist,
+widerzuspiegeln. Die Vereinbarung individueller Netzentgelte nach den
+Sätzen 1 bis 4 bedarf der Genehmigung der Regulierungsbehörde. Die
+Genehmigung ist in der Regel bis zum Ende einer Regulierungsperiode im
+Sinne des § 3 der Anreizregulierungsverordnung vom 29. Oktober 2007
+(BGBl. I S. 2529), die zuletzt durch Artikel 4 der Verordnung vom 14.
+August 2013 (BGBl. I S. 3250) geändert worden ist, in der jeweils
+geltenden Fassung, zu befristen. Hat die Regulierungsbehörde durch
+Festlegung nach § 29 Absatz 1 des Energiewirtschaftsgesetzes die
+Kriterien der sachgerechten Ermittlung individueller Netzentgelte nach
+den
+Sätzen 1 bis 4 konkretisiert, genügt eine schriftliche Anzeige der
+getroffenen Vereinbarung eines individuellen Netzentgeltes gegenüber
+der Regulierungsbehörde. Ist im Falle von Satz 6 die gegenüber der
+Regulierungsbehörde angezeigte getroffene Vereinbarung individueller
+Netzentgelte rechtswidrig, insbesondere da sie nicht die
+Voraussetzungen der Sätze 1 bis 4 sowie der Festlegung der
+Regulierungsbehörde nach Satz 7 erfüllt oder im Hinblick auf ihre
+Rechtsfolgen von den Regelungen der Sätze 1 bis 4 abweicht, so kann
+die Regulierungsbehörde die angezeigte getroffene Vereinbarung
+individueller Netzentgelte untersagen. Die Regulierungsbehörde kann
+den Vertragsparteien alle Maßnahmen aufgeben, die erforderlich sind,
+um die festgestellten Zuwiderhandlungen wirksam abzustellen. § 33 des
+Energiewirtschaftsgesetzes ist anzuwenden. Die Antragstellung für die
+Erteilung der Genehmigung nach Satz 5 sowie die Anzeigeerstattung nach
+Satz 7 haben durch den Letztverbraucher zu erfolgen. Der
+Letztverbraucher hat der Regulierungsbehörde mit dem Antrag oder der
+Anzeige alle zur Beurteilung der Voraussetzungen der Sätze 1 bis 3
+erforderlichen Unterlagen vorzulegen; der Netzbetreiber hat diese dem
+Letztverbraucher unverzüglich zur Verfügung zu stellen. Die Betreiber
+von Übertragungsnetzen haben entgangene Erlöse, die aus individuellen
+Netzentgelten nach den Sätzen 1 und 2 resultieren, nachgelagerten
+Betreibern von Elektrizitätsverteilnetzen zu erstatten. Sie haben
+diese Zahlungen sowie eigene entgangene Erlöse aus individuellen
+Netzentgelten nach den Sätzen 1 und 2 durch Verrechnung untereinander
+auszugleichen. Die Kosten nach den Sätzen 13 und 14 können als
+Aufschlag auf die Netzentgelte anteilig auf die Letztverbraucher
+umgelegt werden; die §§ 26, 28 und 30 des Kraft-Wärme-
+Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S. 2498), das durch
+Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I S. 2034) geändert
+worden ist, sind entsprechend anzuwenden mit der Maßgabe, dass sich
+das Netzentgelt für selbstverbrauchte Strombezüge, die über 1
+Gigawattstunde hinausgehen, an dieser Abnahmestelle höchstens um 0,05
+Cent je Kilowattstunde und für Unternehmen des produzierenden
+Gewerbes, deren Stromkosten für selbstverbrauchten Strom im
+vorangegangenen Geschäftsjahr 4 Prozent des Umsatzes im Sinne von §
+277 Absatz 1 des Handelsgesetzbuches übersteigen, für die über 1
+Gigawattstunde hinausgehenden selbstverbrauchten Strombezüge um
+höchstens 0,025 Cent je Kilowattstunde erhöhen. Der Umlagemechanismus
+nach Satz 15 ist erstmalig zum 1. Januar 2012 anzuwenden. Die
+Vereinbarung eines individuellen Netzentgeltes erfolgt unter dem
+Vorbehalt, dass die jeweiligen Voraussetzungen nach den Sätzen 1 bis 4
+tatsächlich erfüllt werden. Ist dies nicht der Fall, erfolgt die
+Abrechnung der Netznutzung nach den angesichts der tatsächlich
+eingetretenen Verhältnisse zulässigen Netzentgelten.
 
 (3) Sofern ein Netznutzer sämtliche in einer Netz- oder Umspannebene
 von ihm genutzten Betriebsmittel ausschließlich selbst nutzt, ist
@@ -823,226 +1325,96 @@ Netzbetreiber nachzuweisen. Der Letztverbraucher ist bezüglich seines
 Entgelts im Übrigen so zu stellen, als sei er direkt an die
 vorgelagerte Netz- oder Umspannebene angeschlossen.
 
+(4) Betreiber von Elektrizitätsversorgungsnetzen haben
+Letztverbrauchern, die Strom dem Netz ausschließlich zur Speicherung
+in einem Stromspeicher entnehmen und den zurückgewonnenen Strom wieder
+in das Netz einspeisen, ein individuelles Netzentgelt anzubieten. Das
+Netzentgelt besteht abweichend von § 17 Absatz 2 nur aus einem
+Jahresleistungspreis in Euro pro Kilowatt, wobei der Netzbetreiber die
+Gleichzeitigkeitsfunktion des oberen Benutzungsdauerbereichs nach
+Anlage 4 anwendet und den Jahresleistungspreis auf den Anteil der
+entnommenen Strommenge reduziert, der nicht wieder in das Netz
+eingespeist wird. Der Anteil nach Satz 2 ist für jede Anlage in
+geeigneter Form nachzuweisen. Bei gleichzeitigem netzdienlichen
+Verhalten nach Absatz 2 Satz 1 darf das individuelle Netzentgelt für
+Letztverbraucher nach Satz 1 nicht weniger als 20 Prozent des nach
+Satz 2 ermittelten Jahresleistungspreises betragen.
+
 
 #### § 20 Verprobung
 
-(1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte und
-vor der Veröffentlichung nach § 21 sicherzustellen, dass ein zur
-Veröffentlichung anstehendes Entgeltsystem geeignet ist, die nach § 4
-ermittelten Kosten zu decken. Im Einzelnen ist sicherzustellen, dass
-die Anwendung
+(1) Netzbetreiber haben im Rahmen der Ermittlung der Netzentgelte
+sicherzustellen, dass ein zur Veröffentlichung anstehendes
+Entgeltsystem geeignet ist, die nach § 4 ermittelten Kosten zu decken.
+Satz 1 ist auch für die Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung in Bezug auf das bundeseinheitliche
+Übertragungsnetzentgelt nach Maßgabe der §§ 14a bis 14c anzuwenden. Im
+Einzelnen ist sicherzustellen, dass die Anwendung
 
 1.  des Entgeltsystems auf die prognostizierte Absatzstruktur in ihrem
     Netzgebiet einen prognostizierten Erlös ergibt, welcher der Höhe nach
     den zu deckenden Kosten entspricht, und
 
 
-2.  der Entgelte für Messstellenbetrieb, für Messung und für Abrechnung
-    auf die jeweiligen Entnahmestellen einen prognostizierten Erlös
-    ergibt, der den zu deckenden Kosten der Messung und der Abrechnung
-    nach § 13 entspricht.
+2.  der Entgelte für den Messstellenbetrieb auf die jeweiligen
+    Entnahmestellen einen prognostizierten Erlös ergibt, der den zu
+    deckenden Kosten des Messstellenbetriebs nach § 13 entspricht.
 
 
 
 
 (2) Die Verprobungen nach Absatz 1 sind vom Netzbetreiber in einer für
 sachkundige Dritte nachvollziehbaren Weise schriftlich zu
-dokumentieren und in den Bericht nach § 28 aufzunehmen.
+dokumentieren und in den Bericht nach § 28 aufzunehmen. Die Betreiber
+von Übertragungsnetzen mit Regelzonenverantwortung haben darüber
+hinaus die Ermittlung der bundeseinheitlichen Übertragungsnetzentgelte
+zu dokumentieren und in den Bericht nach § 28 aufzunehmen.
 
 
-#### § 21 Änderungen der Netzentgelte
+#### § 21 Netzentgeltbildung bei Anreizregulierung
 
-Ist ein Antrag nach § 23a Abs. 3 des Energiewirtschaftsgesetzes
-gestellt worden, hat der betreffende Betreiber von
-Elektrizitätsversorgungsnetzen dies unverzüglich auf seiner
-Internetseite bekannt zu geben.
+(1) Soweit die Kosten einer Regulierung nach der
+Anreizregulierungsverordnung unterliegen, werden die Entgelte für den
+Zugang zu den Energieversorgungsnetzen aus den nach § 32 Absatz 1
+Nummer 1 der Anreizregulierungsverordnung festgelegten
+Erlösobergrenzen ermittelt. Dies erfolgt entsprechend den Vorschriften
+der §§ 12 bis 20.
 
+(2) Der Netzbetreiber ist verpflichtet, bei einer Anpassung der
+Erlösobergrenze nach § 4 Absatz 3 bis 5 der
+Anreizregulierungsverordnung die Netzentgelte anzupassen, soweit sich
+daraus nach Absatz 1 eine Absenkung der Netzentgelte ergibt. Im
+Übrigen ist er bei einer Anpassung der Erlösobergrenzen nach § 4
+Absatz 3 bis 5 zur Anpassung der Netzentgelte berechtigt.
 
-## Teil 3 - Vergleichsverfahren
+(3) Die Anpassung der Netzentgelte nach Absatz 2 erfolgt zum 1. Januar
+eines Kalenderjahres. Vorgelagerte Netzbetreiber haben die Höhe der
+geplanten Anpassung der Netzentgelte den nachgelagerten Netzbetreibern
+rechtzeitig vor dem Zeitpunkt nach Satz 1 mitzuteilen.
 
 
+## Teil 3 - (weggefallen)
 
-### § 22 Verfahren
 
-(1) Die Regulierungsbehörde kann Vergleichsverfahren nach § 21 Abs. 3
-des Energiewirtschaftsgesetzes in regelmäßigen zeitlichen Abständen
-für jede Netz- und Umspannebene durchführen. Diese Vergleichsverfahren
-können sich nach Maßgabe des § 23 auf die von Betreibern von
-Elektrizitätsversorgungsnetzen erhobenen Netzentgelte, die Erlöse oder
-Kosten beziehen. Die Regulierungsbehörde macht die Ergebnisse der
-Vergleichsverfahren in ihrem Amtsblatt öffentlich bekannt.
 
-(2) Einzubeziehen in die Vergleichsverfahren sind alle Betreiber von
-Elektrizitätsversorgungsnetzen, soweit die in § 24 Abs. 4 aufgeführten
-Daten in der angegebenen Form der Regulierungsbehörde vorliegen. Zur
-Sicherstellung eines sachgerechten Vergleichs sind die Betreiber von
-Elektrizitätsversorgungsnetzen zunächst Strukturklassen zuzuordnen,
-die jedenfalls die in § 24 Abs. 1 bis 3 benannten Strukturmerkmale
-berücksichtigen.
+### § 22 (weggefallen)
 
-(3) Die Regulierungsbehörde kann zur Vorbereitung einer Entscheidung
-nach § 30 Abs. 3 auch Feststellungen treffen über die Erlöse oder
-Kosten von Betreibern von Elektrizitätsversorgungsnetzen in anderen
-Mitgliedstaaten der Europäischen Union.
 
 
-### § 23 Vergleich
+### § 23 (weggefallen)
 
-(1) Der Vergleich nach § 22 hat getrennt nach Netz- und Umspannebenen
-zu erfolgen und die folgenden Grundsätze einzuhalten:
 
-1.  Im Falle eines Vergleichs der Netzentgelte ist sicherzustellen, dass
-    dem Vergleich jeweils das durchschnittliche, mengengewichtete
-    Netzentgelt der betrachteten Netz- oder Umspannebene zu Grunde liegt;
-    ferner ist zu gewährleisten, dass das zu vergleichende Netzentgelt um
-    jenen Anteil bereinigt ist, der infolge des Kostenwälzungsprinzips
-    nach § 14 die Höhe des Netzentgelts der jeweiligen Netz- oder
-    Umspannebene beeinflusst; einer unterschiedlichen Auslastung der
-    verglichenen Netz- oder Umspannebenen ist Rechnung zu tragen.
 
+### § 24 (weggefallen)
 
-2.  Bei einem Vergleich der Erlöse aus Netzentgelten sind diese Erlöse um
-    jenen Anteil zu bereinigen, der infolge des Kostenwälzungsprinzips
-    nach § 14 die Höhe der Erlöse beeinflusst; ferner ist bei einem
-    Vergleich der insoweit bereinigten Erlöse einer Netzebene insbesondere
-    das Verhältnis dieser Erlöse zu der Stromkreislänge der jeweiligen
-    Netzebene zu berücksichtigen; bei einem Vergleich der Erlöse einer
-    Umspannebene ist insbesondere das Verhältnis der Erlöse zur
-    installierten Leistung zu berücksichtigen.
 
 
-3.  Bei einem Vergleich der Kosten einer Netzebene ist insbesondere das
-    Verhältnis der Kosten zu der Stromkreislänge der jeweiligen Netzebene
-    zu berücksichtigen; bei einem Vergleich der Kosten der Umspannebenen
-    ist insbesondere das Verhältnis der Kosten zur installierten Leistung
-    zu berücksichtigen.
+### § 25 (weggefallen)
 
 
 
+### § 26 (weggefallen)
 
-(2) Die nach Absatz 1 Satz 1 Nr. 1 und 2 erforderliche Bereinigung der
-Netzentgelte und der Erlöse um jenen Anteil, der infolge des
-Kostenwälzungsprinzips die Höhe des Netzentgelts oder der Erlöse
-beeinflusst, kann durch den Prozentsatz erfolgen, der sich aus dem
-Quotienten Kosten der Netz- oder Umspannebene nach § 13 geteilt durch
-Erlös der Netz- oder Umspannebene ergibt.
-
-
-### § 24 Strukturklassen
-
-(1) Für jede Netz- und Umspannebene ab Hochspannung abwärts sind
-jeweils sechs Strukturklassen zu bilden. Diese Strukturklassen richten
-sich
-
-1.  nach hoher, mittlerer und niedriger Absatzdichte einer Netz- oder
-    Umspannebene und
-
-
-2.  nach der Belegenheit des Netzes in Berlin, Brandenburg, Mecklenburg-
-    Vorpommern, Sachsen, Sachsen-Anhalt oder Thüringen (Strukturklasse
-    Ost) oder den übrigen Ländern (Strukturklasse West).
-
-
-
-Über die Abgrenzung zwischen hoher, mittlerer und niedriger
-Absatzdichte nach Satz 2 Nr. 1 entscheidet die Regulierungsbehörde.
-Soweit dies sachlich geboten ist, soll die Regulierungsbehörde ferner
-über die zeitliche Befristung der Anwendung der Strukturklassen Ost
-und West nach Satz 2 Nr. 2 entscheiden. Eine solche Entscheidung darf
-frühestens nach Ablauf von drei Regulierungsperioden nach § 21a Abs. 3
-Satz 1 des Energiewirtschaftsgesetzes ergehen.
-
-(2) Die Absatzdichte einer Netz- oder Umspannebene ist der Quotient
-aus der Gesamtentnahme eines Jahres aus dieser Netz- oder Umspannebene
-in Kilowattstunden und der versorgten Fläche in Quadratkilometer. Die
-versorgte Fläche ist in der Niederspannung die aus der amtlichen
-Statistik zur Bodenfläche nach Art der tatsächlichen Nutzung der
-Statistischen Landesämter ermittelbare Fläche. In der Mittel- und
-Hochspannung ist als versorgte Fläche die geographische Fläche des
-Netzgebietes zu Grunde zu legen.
-
-(3) Ist die Belegenheit des Netzes im Hinblick auf dessen Zuordnung zu
-der Strukturklasse Ost nicht eindeutig, ist das Netzgebiet dieser
-Strukturklasse zuzuordnen, wenn mehr als 50 Prozent der
-Stromkreislänge geographisch auf dem Gebiet dieser Strukturklasse
-liegen. Andernfalls ist das Netzgebiet der Strukturklasse West
-zuzuteilen.
-
-(4) Betreiber von Elektrizitätsversorgungsnetzen haben der
-Regulierungsbehörde jeweils jährlich zum 1. April getrennt nach Netz-
-und Umspannebenen folgende Angaben zu übermitteln:
-
-1.  die Kosten nach § 13 des letzten abgeschlossenen Geschäftsjahres,
-
-
-2.  die Erlöse aus Netzentgelten des Vorjahres,
-
-
-3.  die im Vorjahr entnommene Jahresarbeit in Kilowattstunden, getrennt
-    nach Abgabe an Entnahmestellen inklusive Weiterverteilern und Abgabe
-    an die nachgelagerte Netz- oder Umspannebene,
-
-
-4.  die Daten nach § 27 Abs. 2 Nr. 1 bis 7,
-
-
-5.  die zeitgleiche Jahreshöchstlast aller Entnahmen in Megawatt für jede
-    Netz- und Umspannebene, die Spannungsebene dieser Entnahme und den
-    Zeitpunkt des jeweiligen Auftretens und
-
-
-6.  die höchste zeitgleiche Entnahmelast des Vorjahres aus dem
-    vorgelagerten Netz in Kilowatt und den Zeitpunkt des Auftretens.
-
-
-
-Die Frist nach Satz 1 kann im Einzelfall auf Antrag des Betreibers von
-Elektrizitätsversorgungsnetzen von der Regulierungsbehörde um bis zu
-drei Monate verlängert werden.
-
-
-### § 25 Kostenstruktur
-
-Die Regulierungsbehörde kann im Rahmen von Vergleichen ermitteln, ob
-der Anteil der auf die Tätigkeiten Elektrizitätsübertragung und
-Elektrizitätsverteilung entfallenden Gemeinkosten des
-Gesamtunternehmens an den Kosten nach § 4 Abs. 1 sachgerecht ist. Die
-Regulierungsbehörde kann insbesondere überprüfen, ob die in Anwendung
-gebrachten Schlüssel sachgerecht sind.
-
-
-### § 26 Mitteilungspflichten gegenüber der Regulierungsbehörde
-
-(1) Im Rahmen der Vergleichsverfahren nach § 21 Abs. 3 des
-Energiewirtschaftsgesetzes sind Betreiber von
-Elektrizitätsversorgungsnetzen verpflichtet, der Regulierungsbehörde
-auf Verlangen
-
-1.  die nach § 4 Abs. 4 und § 12 dokumentierten Schlüssel mitzuteilen,
-
-
-2.  die Höhe der Einnahmen nach § 9 Abs. 3 sowie deren Verwendung
-    mitzuteilen,
-
-
-3.  die für die Beurteilung eines angemessenen Verhältnisses von
-    Gemeinkosten zu Einzelkosten des Netzes nach § 25 erforderlichen
-    Auskünfte zur Verfügung zu stellen,
-
-
-4.  den Bericht nach § 28 vorzulegen und
-
-
-5.  in dem Bericht nach § 28 dokumentierte Informationen mitzuteilen.
-
-
-
-Die Regulierungsbehörde kann weitere Auskünfte verlangen, soweit dies
-zur Durchführung des Vergleichsverfahrens erforderlich ist.
-
-(2) Betreiber von Elektrizitätsversorgungsnetzen sind verpflichtet,
-die für ihr Netz geltenden Netzentgelte und deren Änderungen der
-Regulierungsbehörde unverzüglich mitzuteilen.
 
 
 ## Teil 4 - Pflichten der Netzbetreiber
@@ -1084,15 +1456,29 @@ ihrer Internetseite zu veröffentlichen:
     Dezember des Vorjahres,
 
 
-6.  die versorgte Fläche nach § 24 Abs. 2 Satz 2 und 3 zum 31. Dezember
-    des Vorjahres und
+6.  die versorgte Fläche zum 31. Dezember des Vorjahres,
 
 
 7.  die geographische Fläche des Netzgebietes zum 31. Dezember des
-    Vorjahres.
+    Vorjahres,
+
+
+8.  jeweils zum 31. Dezember des Vorjahres die Anzahl der Entnahmestellen
+    mit einer viertelstündlichen registrierenden Leistungsmessung oder
+    einer Zählerstandsgangmessung und die Anzahl der sonstigen
+    Entnahmestellen sowie
+
+
+9.  den Namen des grundzuständigen Messstellenbetreibers.
 
 
 
+
+(3) Die Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+haben ab dem Jahr 2023 auf ihrer gemeinsamen Internetseite nach § 77
+Absatz 2 des Erneuerbare-Energien-Gesetzes das gemeinsame
+bundeseinheitliche Preisblatt und die diesem Preisblatt zugrunde
+liegende gemeinsame Jahreshöchstlast zu veröffentlichen.
 
 
 ### § 28 Dokumentation
@@ -1156,8 +1542,8 @@ Anhang muss enthalten:
     Gesamtbetrag und
 
 
-9.  im Vorjahr nach § 35 Abs. 2 des Erneuerbare-Energien-Gesetzes in Abzug
-    gebrachten Netzentgelte.
+9.  im Vorjahr nach § 57 Absatz 3 des Erneuerbare-Energien-Gesetzes in
+    Abzug gebrachten Netzentgelte.
 
 
 
@@ -1198,8 +1584,7 @@ Energiewirtschaftsgesetzes treffen über
 4.  die weitere Unterteilung der Entgelte nach § 17,
 
 
-5.  eine möglichst einheitliche Handhabung von Gemeinkostenzuordnungen
-    nach § 25,
+5.  (weggefallen)
 
 
 6.  zusätzliche Anforderungen an die Struktur und den Inhalt des Berichts
@@ -1210,8 +1595,10 @@ Energiewirtschaftsgesetzes treffen über
     von Entgelten für Netzreservekapazität und
 
 
-8.  die Höhe der sich aus dem Belastungsausgleich nach § 9 Abs. 7 des
-    Kraft-Wärme-Kopplungsgesetzes je Kalenderjahr ergebenden Zuschläge.
+8.  die Höhe der sich aus dem Belastungsausgleich nach den §§ 26, 28 und
+    30 des Kraft-Wärme-Kopplungsgesetzes vom 21. Dezember 2015 (BGBl. I S.
+    2498), das durch Artikel 14 des Gesetzes vom 29. August 2016 (BGBl. I
+    S. 2034) geändert worden ist, je Kalenderjahr ergebenden Zuschläge.
 
 
 
@@ -1226,10 +1613,10 @@ Gewährleistung
     Kalkulationsperiode spürbar beeinflussen würden,
 
 
-2.  einer sachgerechten Ermittlung der Tagesneuwerte nach § 6 Abs. 3 in
-    Bezug auf die in Anwendung zu bringenden Preisindizes oder die den
-    Preisindizes zu Grunde liegenden Indexreihen und deren Gewichtung, die
-    Bildung von Anlagengruppen sowie den zu Grunde zu legenden Zinssatz,
+2.  einer sachgerechten Gewichtung der bei der Ermittlung der
+    Tagesneuwerte anzuwendenden Indexreihen, soweit § 6a Mischindizes
+    vorsieht, insbesondere um Produktivitätsfortschritte in den relevanten
+    Wirtschaftsbereichen zu berücksichtigen,
 
 
 3.  einer sachgerechten Ermittlung der kalkulatorischen Steuern nach § 8,
@@ -1256,8 +1643,7 @@ Gewährleistung
 
 
 
-(3) Die Absätze 1 und 2 gelten für die Durchführung eines
-Vergleichsverfahrens entsprechend.
+(3) (weggefallen)
 
 
 ### § 31 Ordnungswidrigkeiten
@@ -1270,17 +1656,13 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     § 9 Abs. 3, § 12 Satz 4 oder 7 oder § 20 Abs. 2 zuwiderhandelt,
 
 
-2.  entgegen § 24 Abs. 4 eine dort genannte Angabe nicht, nicht richtig,
-    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
-    rechtzeitig übermittelt,
+2.  (weggefallen)
 
 
-3.  einer vollziehbaren Anordnung nach § 26 Abs. 1 zuwiderhandelt,
+3.  (weggefallen)
 
 
-4.  einer vollziehbaren Anordnung nach § 65 Abs. 2 des
-    Energiewirtschaftsgesetzes in Verbindung mit § 26 Abs. 2
-    zuwiderhandelt,
+4.  (weggefallen)
 
 
 5.  einer vollziehbaren Anordnung nach § 65 Abs. 2 des
@@ -1298,19 +1680,7 @@ Energiewirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 ### § 32 Übergangsregelungen
 
-(1) Betreiber von Elektrizitätsversorgungsnetzen haben der
-Regulierungsbehörde spätestens bis zum 1. November 2005 getrennt nach
-Netz- und Umspannebenen die Angaben nach § 24 Abs. 4 Nr. 1 bis 6 zu
-übermitteln.
-
-(2) Betreiber von Elektrizitätsversorgungsnetzen haben ihre
-Netzentgelte spätestens ab dem für sie maßgeblichen Zeitpunkt nach §
-118 Abs. 1b Satz 1 des Energiewirtschaftsgesetzes auf der Grundlage
-dieser Verordnung zu bestimmen. § 21 findet bei der erstmaligen
-Bildung nach Satz 1 keine Anwendung. § 118 Abs. 1b Satz 2 des
-Energiewirtschaftsgesetzes bleibt unberührt.
-
-(3) Zur erstmaligen Ermittlung der Netzentgelte nach Absatz 2 sind die
+(1) Zur erstmaligen Ermittlung der Netzentgelte sind die
 kalkulatorischen Restwerte des Sachanlagevermögens für den
 eigenfinanzierten Anteil auf Tagesneuwertbasis nach § 6 Abs. 3, für
 den fremdfinanzierten Anteil anschaffungsorientiert zu bestimmen und
@@ -1331,11 +1701,7 @@ unteren Werte der in Anlage 1 genannten Spannen von Nutzungsdauern zu
 Grunde gelegt worden sind, es sei denn, der Betreiber des
 Elektrizitätsversorgungsnetzes weist etwas anderes nach.
 
-(4) § 11 ist nicht mehr anzuwenden, sobald die Netzentgelte im Wege
-der Anreizregulierung nach § 21a des Energiewirtschaftsgesetzes
-bestimmt werden.
-
-(5) Netzbetreiber, die am vereinfachten Verfahren nach § 24 der
+(2) Netzbetreiber, die am vereinfachten Verfahren nach § 24 der
 Anreizregulierungsverordnung teilnehmen können, den hierzu
 erforderlichen Antrag rechtzeitig gestellt haben und die für das
 letzte der Anreizregulierung vorangehende Kalenderjahr keine Erhöhung
@@ -1344,17 +1710,110 @@ das letzte der Anreizregulierung vorangehende Kalenderjahr keine
 zusätzlichen oder neuen Unterlagen zu ihrem letzten geprüften
 Genehmigungsantrag vorlegen.
 
-(6) Soweit individuelle Netzentgelte im Sinne des § 19 Abs. 2 Satz 2
-für das Kalenderjahr 2008 von der Regulierungsbehörde genehmigt worden
-und die in § 19 Abs. 2 Satz 2 genannten Voraussetzungen im
-Kalenderjahr 2008 auch tatsächlich eingetreten sind, kann auf Antrag
-die Geltungsdauer dieser Genehmigung bis zum 31. Dezember 2010
-verlängert werden. In diesem Falle gelten für den
-Verlängerungszeitraum die Voraussetzungen des § 19 Abs. 2 Satz 2 und 3
-ohne erneute Prüfung als erfüllt; § 19 Abs. 2 Satz 10 findet insoweit
-keine Anwendung. § 19 Abs. 2 Satz 4 findet für den
-Verlängerungszeitraum in seiner ab dem 26. August 2009 geltenden
-Fassung Anwendung.
+(3) Wurde ein Letztverbraucher in Bezug auf eine durch ihn genutzte
+Abnahmestelle noch nicht durch eine Genehmigung einer
+Regulierungsbehörde auf Grund des § 19 Absatz 2 Satz 2 und 3 der
+Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S. 2225) in der
+zuletzt durch Artikel 4 des Gesetzes vom 28. Juli 2011 (BGBl. I S.
+1690) geänderten Fassung, von den Netzentgelten befreit, so ist für
+diesen Letztverbraucher in Bezug auf eine durch ihn genutzte
+Abnahmestelle § 19 Absatz 2 Satz 2 und 3 in der ab dem 22. August 2013
+geltenden Fassung mit Wirkung ab dem 1. Januar 2012 anzuwenden. Hat
+eine Regulierungsbehörde einem Letztverbraucher im Hinblick auf eine
+durch ihn genutzte Abnahmestelle auf Grund von § 19 Absatz 2 Satz 2
+und 3 der Stromnetzentgeltverordnung vom 25. Juli 2005 (BGBl. I S.
+2225) in der zuletzt durch Artikel 4 des Gesetzes vom 28. Juli 2011
+(BGBl. I S. 1690) geänderten Fassung eine Genehmigung der Befreiung
+von den Netzentgelten erteilt, so wird diese Genehmigung mit Ablauf
+des 31. Dezember 2013 unwirksam. Die Sätze 1 und 2 sind entsprechend
+anzuwenden, sofern eine Regulierungsbehörde einem Letztverbraucher im
+Hinblick auf eine durch ihn genutzte Abnahmestelle auf Grund von § 19
+Absatz 2 Satz 2 und 3 der Stromnetzentgeltverordnung vom 25. Juli 2005
+(BGBl. I S. 2225) in der zuletzt durch Artikel 4 des Gesetzes vom 28.
+Juli 2011 (BGBl. I S. 1690) geänderten Fassung eine Genehmigung der
+Befreiung von den Netzentgelten erteilt hat und diese Genehmigung
+durch eine rechtskräftige gerichtliche Entscheidung aufgehoben wurde.
+
+(4) Genehmigungen von Vereinbarungen individueller Netzentgelte auf
+Grund von § 19 Absatz 2 Satz 2 und 3 in der ab dem 22. August 2013
+geltenden Fassung werden mit Ablauf des 31. Dezember 2013 unwirksam.
+
+(5) Die Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 erfolgt
+ab dem 1. Januar 2013 unter Anwendung der Indexreihen des
+Statistischen Bundesamtes gemäß § 6a.
+
+(6) Die Verzinsung des die Eigenkapitalquote im Sinne des § 7 Absatz 1
+Satz 5 übersteigenden Anteils des Eigenkapitals erfolgt ab dem 1.
+Januar 2013 nach § 7 Absatz 7.
+
+(7) Die Regelung des § 17 Absatz 2a betreffend das Pooling mehrerer
+Entnahmestellen ist ab dem 1. Januar 2014 anzuwenden.
+
+
+### § 32a Übergangsregelung zur schrittweisen Vereinheitlichung der Übertragungsnetzentgelte
+
+(1) Die Regelungen zur Bildung bundeseinheitlicher
+Übertragungsnetzentgelte nach § 3 Absatz 3, den §§ 14a bis 14d, § 15
+Absatz 2 Satz 2, § 16 Absatz 1 Satz 4 und Absatz 2 Satz 2 sowie § 17
+Absatz 3, 4 Satz 2 und Absatz 5 Satz 2 sowie § 20 Absatz 1 Satz 2 und
+Absatz 2 Satz 2 sind in der Übergangszeit für die Bestimmung der
+Netzentgelte, die in dem Zeitraum vom 1. Januar 2019 bis zum 31.
+Dezember 2022 gelten, mit der Maßgabe anzuwenden, dass sich die
+Netzentgelte der Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung aus der Addition eines nach Maßgabe des
+Absatzes 2 bundeseinheitlich sowie eines nach Maßgabe des Absatzes 3
+unternehmensindividuell gebildeten Netzentgeltanteils zusammensetzen.
+Hierfür bilden diese Übertragungsnetzbetreiber nach § 16 Absatz 2 Satz
+1 eine unternehmensindividuelle Gleichzeitigkeitsfunktion und nach §
+16 Absatz 2 Satz 2 eine bundeseinheitliche Gleichzeitigkeitsfunktion.
+
+(2) Die Vereinheitlichung der Übertragungsnetzentgelte erfolgt in fünf
+Schritten von jeweils 20 Prozent. Der prozentuale bundeseinheitlich
+gebildete Anteil, der sich auf die Erlösobergrenzen nach § 14b Absatz
+1 der einzelnen Betreiber von Übertragungsnetzen mit
+Regelzonenverantwortung im jeweiligen Kalenderjahr bezieht, beträgt
+
+1.  für das Kalenderjahr 2019 jeweils 20 Prozent,
+
+
+2.  für das Kalenderjahr 2020 jeweils 40 Prozent,
+
+
+3.  für das Kalenderjahr 2021 jeweils 60 Prozent,
+
+
+4.  für das Kalenderjahr 2022 jeweils 80 Prozent.
+
+
+
+Die anteiligen Erlösobergrenzen nach Satz 1 der einzelnen Betreiber
+von Übertragungsnetzen mit Regelzonenverantwortung sind auf den
+gemeinsamen Kostenträgern nach § 14b Absatz 2 zusammenzuführen. Unter
+Verwendung der bundeseinheitlichen Gleichzeitigkeitsfunktion nach § 16
+Absatz 2 Satz 2 ist für die betroffene Netz- und Umspannebene jeweils
+der bundeseinheitlich gebildete Netzentgeltanteil zu bestimmen.
+
+(3) Grundlage des unternehmensindividuell gebildeten Anteils nach
+Absatz 1 Satz 1 ist der jeweils verbleibende Anteil der
+Erlösobergrenzen nach § 14b Absatz 1, der nicht Grundlage des
+bundeseinheitlich gebildeten Anteils ist. Diese Kosten sind den
+unternehmensindividuellen Kostenträgern nach Anlage 3 zuzuordnen.
+Unter Verwendung der unternehmensindividuellen
+Gleichzeitigkeitsfunktion nach § 16 Absatz 2 Satz 1 ist für die Netz-
+und Umspannebene jeweils der unternehmensindividuell gebildete
+Netzentgeltanteil zu bestimmen.
+
+(4) Die Höhe des bundeseinheitlich gebildeten Netzentgeltanteils und
+die Höhe des unternehmensindividuell gebildeten Netzentgeltanteils
+sind in die Veröffentlichung der Übertragungsnetzentgelte nach § 27
+Absatz 1 Satz 1 ergänzend aufzunehmen. Die Darstellung hat wie folgt
+zu erfolgen: Netzentgelt des Übertragungsnetzbetreibers ist gleich
+bundeseinheitlicher Anteil nach Absatz 2 Satz 3 zuzüglich
+unternehmensindividueller Anteil nach Absatz 3 Satz 3.
+
+(5) Der Ausgleich von Mehr- und Mindereinnahmen, die sich aufgrund des
+bundeseinheitlich gebildeten Netzentgeltanteils ergeben, erfolgt nach
+dem Mechanismus des § 14c.
 
 
 ### § 33 Inkrafttreten
@@ -1366,10 +1825,11 @@ Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 6 Abs. 5 Satz 1)
 
-### Anlage 1 (zu § 6 Abs. 5 Satz 1) Betriebsgewöhnliche Nutzungsdauern
+### Anlage 1 Betriebsgewöhnliche Nutzungsdauern
 
-(Fundstelle des Originaltextes: BGBl. I 2005, 2236 - 2237;
+(Fundstelle: BGBl. I 2005, 2236 - 2237;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Anlagengruppen
@@ -1734,22 +2194,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.7
 
-    *   Fernsprechleitungen
+    *   Telefonleitungen
 
     *   30-40
 
 
 *    *   2.8
 
-    *   Fahrbare Stromaggregate
+    *   fahrbare Stromaggregate
 
     *   15-25
 
 
+*    *   2.9
+
+    *   moderne Messeinrichtungen
+
+    *   13-18
+
+
+*    *   2.10
+
+    *   Smart-Meter-Gateway
+
+    *   8-13
 
 
 
-### Anlage 2 (zu § 13) Haupt- und Nebenkostenstellen
+
+(zu § 13)
+
+### Anlage 2 Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
@@ -1762,8 +2237,8 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
 
 
     1.2 Nebenkostenstelle "Systemführung": Kosten der Betriebsführung der
-        Regelzone (einschließlich Messung und Abrechnung zwischen Betreibern
-        von Elektrizitätsversorgungsnetzen), soweit sie nicht direkt den
+        Regelzone (einschließlich Messstellenbetrieb zwischen Betreibern von
+        Elektrizitätsversorgungsnetzen), soweit sie nicht direkt den
         Bilanzkreisverantwortlichen in Rechnung gestellt werden können.
 
 
@@ -1857,95 +2332,42 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2238 - 2239
     der Erstellung von Hausanschlüssen und Hausanschlussleitungen.
 
 
-10. Hauptkostenstelle "Messung":
-
-    10.1 Nebenkostenstelle "Messung Höchstspannungsnetz";
+10. Hauptkostenstelle „Messstellenbetrieb“
 
 
-    10.2 Nebenkostenstelle "Messung Umspannung 380/110 Kilovolt bzw. 220/110
-        Kilovolt";
+10.1 Nebenkostenstelle „Messstellenbetrieb Höchstspannungsnetz“;
 
 
-    10.3 Nebenkostenstelle "Messung Hochspannungsnetz 110 Kilovolt";
+10.2 Nebenkostenstelle „Messstellenbetrieb Umspannung 380/110 Kilovolt
+    beziehungsweise 220/110 Kilovolt“;
 
 
-    10.4 Nebenkostenstelle "Messung Umspannung 110 Kilovolt/Mittelspannung";
+10.3 Nebenkostenstelle „Messstellenbetrieb Hochspannungsnetz 110 Kilovolt“;
 
 
-    10.5 Nebenkostenstelle "Messung Mittelspannung";
+10.4 Nebenkostenstelle „Messstellenbetrieb Umspannung 110
+    Kilovolt/Mittelspannung“;
 
 
-    10.6 Nebenkostenstelle "Messung Umspannung Mittel-/Niederspannung";
+10.5 Nebenkostenstelle „Messstellenbetrieb Mittelspannung“;
 
 
-    10.7 Nebenkostenstelle "Messung Niederspannung".
+10.6 Nebenkostenstelle „Messstellenbetrieb Umspannung
+    Mittel-/Niederspannung“;
 
 
-
-
-
-10a. Hauptkostenstelle „Messstellenbetrieb“
-
-    10a.1 Nebenkostenstelle „Messstellenbetrieb Höchstspannungsnetz“;
-
-
-    10a.2 Nebenkostenstelle „Messstellenbetrieb Umspannung 380/110 Kilovolt bzw.
-        220/110 Kilovolt“;
-
-
-    10a.3 Nebenkostenstelle „Messstellenbetrieb Hochspannungsnetz 110 Kilovolt“;
-
-
-    10a.4 Nebenkostenstelle „Messstellenbetrieb Umspannung 110
-        Kilovolt/Mittelspannung“;
-
-
-    10a.5 Nebenkostenstelle „Messstellenbetrieb Mittelspannung“;
-
-
-    10a.6 Nebenkostenstelle „Messstellenbetrieb Umspannung
-        Mittel-/Niederspannung“;
-
-
-    10a.7 Nebenkostenstelle „Messstellenbetrieb Niederspannung“.
+10.7 Nebenkostenstelle „Messstellenbetrieb Niederspannung“.
 
 
 
+Soweit eine Umspannung von 380 Kilovolt oder 220 Kilovolt auf eine
+andere nachgelagerte Netzebene als 110 Kilovolt erfolgt, wird dies für
+die Zwecke dieser Verordnung regulatorisch wie eine Umspannung auf 110
+Kilovolt behandelt.
 
+(zu § 14 Abs. 3)
 
-11. Hauptkostenstelle "Abrechnung": Kosten der kaufmännischen Bearbeitung
-    der Zählerdaten; Kosten der Beibringung fälliger Entgelte für die
-    Netznutzung und Abrechnung;
-
-    11.1 Nebenkostenstelle "Abrechnung Höchstspannungsnetz";
-
-
-    11.2 Nebenkostenstelle "Abrechnung Umspannung 380/110 Kilovolt bzw. 220/110
-        Kilovolt";
-
-
-    11.3 Nebenkostenstelle "Abrechnung Hochspannungsnetz 110 Kilovolt";
-
-
-    11.4 Nebenkostenstelle "Abrechnung Umspannung 110 Kilovolt/Mittelspannung";
-
-
-    11.5 Nebenkostenstelle "Abrechnung Mittelspannung";
-
-
-    11.6 Nebenkostenstelle "Abrechnung Umspannung Mittel-/Niederspannung";
-
-
-    11.7 Nebenkostenstelle "Abrechnung Niederspannung".
-
-
-
-
-
-
-
-
-### Anlage 3 (zu § 14 Abs. 3) Kostenträger
+### Anlage 3 Kostenträger
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2240
 
@@ -1954,10 +2376,22 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2240
     380 und 220 Kilovolt".
 
 
+1a. Die gemeinsamen Kosten der Höchstspannungsebene der Betreiber von
+    Übertragungsnetzen mit Regelzonenverantwortung ergeben sich aus der
+    Addition ihrer jeweiligen Kosten nach Nummer 1 nach Maßgabe des § 14b
+    Absatz 2.
+
+
 2.  Die Kosten der Umspannung Höchst- zu Hochspannungsebene umfassen die
     gewälzten anteiligen Kosten der Höchstspannungsebene sowie die Kosten
     der Hauptkostenstelle "Umspannung 380/110 Kilovolt bzw. 220/110
     Kilovolt".
+
+
+2a. Die gemeinsamen Kosten der Umspannung Höchst- zu Hochspannungsebene
+    der Betreiber von Übertragungsnetzen mit Regelzonenverantwortung
+    ergeben sich aus der Addition ihrer jeweiligen Kosten nach Nummer 1
+    nach Maßgabe des § 14b Absatz 2.
 
 
 3.  Die Kosten der Hochspannungsebene umfassen die gewälzten anteiligen
@@ -1988,9 +2422,14 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2240
 
 
 
+Soweit eine Umspannung von 380 Kilovolt oder 220 Kilovolt auf eine
+andere nachgelagerte Netzebene als 110 Kilovolt erfolgt, wird dies für
+die Zwecke dieser Verordnung regulatorisch wie eine Umspannung auf 110
+Kilovolt behandelt.
 
+(zu § 16 Abs. 2)
 
-### Anlage 4 (zu § 16 Abs. 2) Gleichzeitigkeitsfunktion und -grad
+### Anlage 4 Gleichzeitigkeitsfunktion und -grad
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
@@ -2035,9 +2474,9 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
 
 4.  Der untere Benutzungsdauerbereich der Gleichzeitigkeitsfunktion liegt
-    zwischen 0 und 2.500 Jahresbenutzungsstunden. Der obere
-    Benutzungsdauerbereich beginnt bei 2.500 Jahresbenutzungsstunden und
-    endet bei 8.760 Jahresbenutzungsstunden. Der Betreiber von
+    zwischen 0 und 2 500 Jahresbenutzungsstunden. Der obere
+    Benutzungsdauerbereich beginnt bei 2 500 Jahresbenutzungsstunden und
+    endet bei 8 760 Jahresbenutzungsstunden. Der Betreiber von
     Elektrizitätsversorgungsnetzen legt die Koeffizienten der
     Geradengleichungen für die beiden Benutzungsdauerbereiche auf Basis
     der Entnahmeverhältnisse in seinem Netz sachgerecht fest. Dabei sind
@@ -2048,21 +2487,52 @@ Fundstelle des Originaltextes: BGBl. I 2005, 2241
 
 
     -   die beiden Geraden, die den Gleichzeitigkeitsgrad beschreiben,
-        schneiden sich in einem Punkt, der durch die Jahresbenutzungsdauer
-        2\.500 Stunden definiert ist;
+        schneiden sich in einem Punkt, der durch die Jahresbenutzungsdauer 2
+        500 Stunden definiert ist;
 
 
-    -   der Gleichzeitigkeitsgrad bei einer Jahresbenutzungsdauer von 8.760
+    -   der Gleichzeitigkeitsgrad bei einer Jahresbenutzungsdauer von 8 760
         Stunden beträgt 1.
 
 
 
+    Satz 4 ist für Betreiber von Übertragungsnetzen mit
+    Regelzonenverantwortung mit der Maßgabe anzuwenden, dass der
+    Gleichzeitigkeitsgrad bei einer Jahresbenutzungsdauer von null Stunden
+    in der Höchstspannung 0,1 und in der Umspannung von Höchst- zu
+    Hochspannung 0,15 beträgt.
 
 
 
 
+(zu § 18 Absatz 2)
 
-### Anlage 5 (zu § 28 Abs. 2 Nr. 6) Absatzstruktur
+### Anlage 4a Referenzpreisblatt für die Netzentgelte von Übertragungsnetzbetreibern zur Ermittlung vermiedener Netzentgelte nach § 18 Absatz 2
+
+(Fundstelle: BGBl. I 2017, 2507)
+Nach § 120 Absatz 4 Satz 1 des Energiewirtschaftsgesetzes sind zur
+Ermittlung vermiedener Netzentgelte für das Jahr 2018 jeweils die
+Preisblätter des Jahres 2016 zugrunde zu legen.
+
+Im Jahr 2018 werden auf der Basis der Preisblätter des Jahres 2016 die
+Kosten nach § 120 Absatz 5 des Energiewirtschaftsgesetzes vollständig
+herausgerechnet, soweit sie in den Erlösobergrenzen des Jahres 2016
+enthalten waren und damit in die Preisblätter des Jahres 2016
+eingeflossen sind. Diese Kosten werden ab dem Jahr 2018 nicht mehr bei
+der Ermittlung der vermiedenen Netzentgelte berücksichtigt.
+
+Daraus ergeben sich die Werte, die als Netzentgelte für die
+Übertragungsnetze der Berechnung der vermiedenen Netzentgelte im
+jeweiligen Jahr zugrunde zu legen sind. Sie sind bezogen auf die
+Netzentgelte für den Strombezug aus dem Höchstspannungsnetz, die in
+den Preisblättern der Übertragungsnetzbetreiber für einen Bezug von
+mehr als 2 500 Benutzungsstunden gelten. Ab dem Jahr 2018 bleiben die
+Werte für die Berechnungsgrundlage konstant. Sie sind die Obergrenzen
+im Sinne des § 120 Absatz 4 Satz 1 des Energiewirtschaftsgesetzes.
+
+(zu § 28 Abs. 2 Nr. 6)
+
+### Anlage 5 Absatzstruktur
 
 (Fundstelle: BGBl. I 2005, 2242)
 

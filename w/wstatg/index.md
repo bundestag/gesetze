@@ -17,8 +17,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 1023
 
-Geändert durch
-:   Art. 1 G v. 17.1.2002 I 412
+Zuletzt geändert durch
+:   Art. 1a G v. 27.4.2013 I 962
 
 
 ## 1. Abschnitt - Allgemeine Wahlstatistik
@@ -91,7 +91,7 @@ Geburtsjahresgruppen gebildet werden, in denen jeweils mindestens drei
 Geburtsjahrgänge zusammengefaßt sind. Erhebungsmerkmale für die
 Statistik nach § 2 Abs. 1 Buchstabe b sind abgegebene Stimme,
 ungültige Stimme, Ungültigkeitsgrund, Geburtsjahresgruppe und
-Geschlecht. Hierfür dürfen höchstens fünf Geburtsjahresgruppen
+Geschlecht. Hierfür dürfen höchstens sechs Geburtsjahresgruppen
 gebildet werden, in denen jeweils mindestens sieben Geburtsjahrgänge
 zusammengefaßt sind. Hilfsmerkmale für beide Statistiken sind
 Wahlbezirk oder Briefwahlbezirk und statistische Gemeindekennziffer,

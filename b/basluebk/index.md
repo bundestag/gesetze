@@ -3,7 +3,7 @@ Title: Basler Übereinkommen über die Kontrolle der grenzüberschreitenden Verb
   gefährlicher Abfälle und ihrer Entsorgung
 jurabk: BaslÜbk
 layout: default
-origslug: basl_bk
+origslug: basluebk
 slug: basluebk
 
 ---

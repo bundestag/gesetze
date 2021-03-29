@@ -3,7 +3,7 @@ Title: Gesetz zu dem Abkommen vom 18. März 1993 zur Änderung des Zusatzabkomme
   NATO-Truppenstatut und zu weiteren Übereinkünften
 jurabk: NATOTrStatZAbkÄndAbkG
 layout: default
-origslug: natotrstatzabk_ndabkg
+origslug: natotrstatzabkaendabkg
 slug: natotrstatzabkaendabkg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1994, 2594
 
 Zuletzt geändert durch
-:   Art. 112 V v. 31.10.2006 I 2407
+:   Art. 228 V v. 31.8.2015 I 1474
 
 Stand: Art. 1 dieses G ist am 13.10.1994 in Kraft getreten; im übrigen tritt dieses G gem. Art. 5 an dem Tage in Kraft, an dem das Abkommen zur Änderung des Zusatzabkommens in Kraft tritt\*.
 
@@ -79,7 +79,7 @@ und des zugehörigen Verwaltungsabkommens in den jeweils geltenden
 Fassungen zu erbringen. Die im Verwaltungsabkommen zu Artikel 60 des
 Zusatzabkommens zum NATO-Truppenstatut für die deutsche
 Fernmeldeverwaltung enthaltenen Vorschriften gelten entsprechend. Das
-Bundesministerium für Wirtschaft und Technologie und die von ihm
+Bundesministerium für Wirtschaft und Energie und die von ihm
 beauftragten Stellen können von dem nach Satz 1 Verpflichteten
 entgeltfrei Auskünfte im Hinblick auf die Erfüllung der genannten
 Verpflichtungen verlangen.

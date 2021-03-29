@@ -493,8 +493,8 @@ Die Kosten der Wahl trägt die Handwerkskammer.
 
 ### Anlage zur Wahlordnung für die Wahlen der Mitglieder der Handwerkskammern
 
-Fundstelle des Originaltextes: BGBl. I 1998, 3109;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 1998, 3109;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Anlage
 zur Wahlordnung für die Wahlen der Mitglieder
 der Vollversammlung der Handwerkskammer

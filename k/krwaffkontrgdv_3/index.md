@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 841
 
 Zuletzt geändert durch
-:   Art. 345 V v. 31.10.2006 I 2407
+:   Art. 32 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -32,8 +32,8 @@ S. 481) wird verordnet:
 ## § 1
 
 (1) Die Zuständigkeit des Bundesministeriums für Wirtschaft und
-Technologie zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach
-dem Gesetz über die Kontrolle von Kriegswaffen wird dem Bundesamt für
+Energie zur Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem
+Gesetz über die Kontrolle von Kriegswaffen wird dem Bundesamt für
 Wirtschaft und Ausfuhrkontrolle (BAFA) übertragen.
 
 (2) Die Zuständigkeit des Bundesministeriums der Finanzen zur

@@ -5,7 +5,7 @@ Title: Zweites Gesetz zur Änderung des Gesetzes vom 22. Juni 1954 über den Bei
   von Vorrechten und Befreiungen an andere zwischen-staatliche Organisationen
 jurabk: UNSOrgVorRAbkGÄndG 2
 layout: default
-origslug: unsorgvorrabkg_ndg_2
+origslug: unsorgvorrabkgaendg_2
 slug: unsorgvorrabkgaendg_2
 
 ---

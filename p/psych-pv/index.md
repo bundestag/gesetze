@@ -16,11 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1990, 2930
 
-Geändert durch
-:   Art. 4 V v. 26.9.1994 I 2750
-
 V aufgeh. durch
-:   Art. 7 G v. 21.7.2012 I 1613 mWv 1.1.2017
+:   Art. 7 G v. 21.7.2012 I 1613 iVm Art 8 Abs. 3 G v. 21.7.2012 I 1613 idF d. Art. 16c G v. 21.7.2014 I 1133 u. d. Art. 6 G v. 19.12.2016 I 2986 mWv 1.1.2020
+
+Zuletzt geändert durch
+:   Art. 54 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -195,7 +195,7 @@ folgenden Behandlungsbereichen zugeordnet:
 
 *    *   A4
 
-    *   Langdauernde Behandlung  Schwer- und Mehrfachkranker
+    *   Langdauernde Behandlung Schwer- und Mehrfachkranker
 
     *   S4
 
@@ -247,9 +247,9 @@ Vertragsparteien können abweichende Vereinbarungen treffen. Die
 Ergebnisse der Stichtagserhebungen hat die Einrichtung den anderen
 Vertragsparteien, den in § 18 Abs. 1 Satz 2 des
 Krankenhausfinanzierungsgesetzes genannten Beteiligten und der
-zuständigen Landesbehörde so rechtzeitig schriftlich mitzuteilen, daß
-Vorverhandlungen nach § 17 Abs. 6 der Bundespflegesatzverordnung
-durchgeführt werden können.
+zuständigen Landesbehörde so rechtzeitig schriftlich oder elektronisch
+mitzuteilen, daß Vorverhandlungen nach § 17 Abs. 6 der
+Bundespflegesatzverordnung durchgeführt werden können.
 
 (4) Die Vertragsparteien schließen nach § 17 Abs. 7 der
 Bundespflegesatzverordnung Rahmenvereinbarungen, die
@@ -1001,7 +1001,7 @@ Der Bundesrat hat zugestimmt.
 
 *    *   S2
 
-    *   IntensivBehandlung
+    *   Intensivbehandlung
 
     *   Alkohol-, Medikamenten- und Drogenabhängige, manifest selbstgefährdet,
         fremdgefährdend, somatisch vitalgefährdet
@@ -1051,7 +1051,7 @@ Der Bundesrat hat zugestimmt.
 
     *   Psychotherapie
 
-    *   Alkohol- und Medikamtenabhängige mit schweren Neurosen oder
+    *   Alkohol- und Medikamentenabhängige mit schweren Neurosen oder
         Persönlichkeitsstörungen, erhebliche Rückfallgefahr
 
     *   Erkennen der Abhängigkeit, Abstinenz, Befähigung zur ambulanten
@@ -1347,14 +1347,14 @@ Beschreibung der aufgabentypischen Schwerpunkte
 
 *    *   KJ7
 
-    *[^BJNR029300990BJNE001800308_001]
+    *[^BJNR029300990BJNE001800308_001_BJNR029300990BJNE001801116]
    Tagesklinische Behandlung
 
     *   Kinder und Jugendliche mit psychischen, psychosomatischen und
         neuropsychiatrischen Erkrankungen, die keiner vollstationären
         Behandlung bedürfen
 
-    *   Wahrung der Integration in Familie oder Heim;  Verbesserung der
+    *   Wahrung der Integration in Familie oder Heim; Verbesserung der
         psychosozialen Kompetenz; Befähigung zu Schulbesuch bzw. Fortsetzung
         der beruflichen Ausbildung
 
@@ -1365,7 +1365,7 @@ Beschreibung der aufgabentypischen Schwerpunkte
 
 
 
-    Integrierte Tages- oder Nachtklinikbehandlung soll im Einzelfall   von
+    Integrierte Tages- oder Nachtklinikbehandlung soll im Einzelfall von
     jeder Station aus möglich sein. Der Patient erhält teilstationären
     Status auf der Station, die ihn auch vollstationär behandeln würde.
-[^BJNR029300990BJNE001800308_001]: 
+[^BJNR029300990BJNE001800308_001_BJNR029300990BJNE001801116]: 

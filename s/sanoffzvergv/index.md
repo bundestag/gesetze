@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft von
-  Sanitätsoffizieren in Bundeswehrkrankenhäusern
+Title: Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im
+  Sanitätsdienst in Bundeswehrkrankenhäusern
 jurabk: SanOffzVergV
 layout: default
 origslug: sanoffzvergv
@@ -8,7 +8,7 @@ slug: sanoffzvergv
 
 ---
 
-# Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft von Sanitätsoffizieren in Bundeswehrkrankenhäusern (SanOffzVergV)
+# Verordnung über die Vergütung für Bereitschaftsdienst und Rufbereitschaft im Sanitätsdienst in Bundeswehrkrankenhäusern (SanOffzVergV)
 
 Ausfertigungsdatum
 :   2012-04-27
@@ -16,15 +16,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1000
 
+Geändert durch
+:   Art. 2 V v. 11.8.2017 I 3231
+
 
 ## § 1 Anspruchsvoraussetzungen
 
 Eine Vergütung für Bereitschaftsdienst und Rufbereitschaft erhalten
-Sanitätsoffiziere mit Dienstbezügen nach der Bundesbesoldungsordnung
-A,
+Sanitätsoffiziere, Sanitätsfeldwebel und Sanitätsunteroffiziere
+(Anspruchsberechtigte) mit Dienstbezügen nach der
+Bundesbesoldungsordnung A,
 
-1.  für die dieselbe regelmäßige wöchentliche Arbeitszeit gilt wie für
-    Beamte des Bundes,
+1.  für die die regelmäßige wöchentliche Arbeitszeit gilt,
 
 
 2.  deren Arbeitszeit automatisiert erfasst wird und
@@ -43,8 +46,8 @@ A,
 
 (1) Die während eines Kalendermonats geleisteten Zeiten eines
 Bereitschaftsdienstes werden entsprechend der durchschnittlich
-anfallenden tatsächlichen Inanspruchnahme der Sanitätsoffiziere
-während des Bereitschaftsdienstes wie folgt berücksichtigt:
+anfallenden tatsächlichen Inanspruchnahme während des
+Bereitschaftsdienstes wie folgt berücksichtigt:
 
 *    *   Stufe
 
@@ -79,16 +82,17 @@ während des Bereitschaftsdienstes wie folgt berücksichtigt:
 Die tatsächliche Inanspruchnahme während des Bereitschaftsdienstes ist
 damit abgegolten.
 
-(2) Die Sanitätsoffiziere werden einer der in Absatz 1 Satz 1
-genannten Stufen zugeordnet. Die Zuordnung richtet sich nach der
-durchschnittlich anfallenden tatsächlichen Inanspruchnahme aller
-Sanitätsoffiziere in einer Abteilung oder Sektion während aller
-Bereitschaftsdienste. Der Berechnung werden drei zusammenhängende
-Kalendermonate zugrunde gelegt. Nicht berücksichtigt werden Zeiten
-einer Tätigkeit, für die Gebühren nach der Gebührenordnung für Ärzte
-oder nach der Gebührenordnung für Zahnärzte berechnet werden können.
-Die Zuordnung ist mindestens einmal jährlich zu überprüfen. Sie kann
-nur mit Wirkung für die Zukunft geändert werden.
+(2) Die Anspruchsberechtigten werden jeweils einer der in Absatz 1
+Satz 1 genannten Stufen zugeordnet. Die Zuordnung richtet sich nach
+der jeweils durchschnittlich anfallenden tatsächlichen Inanspruchnahme
+aller Anspruchsberechtigten in einer Abteilung oder Sektion während
+aller Bereitschaftsdienste der betroffenen Dienstgradgruppen. Der
+Berechnung werden drei zusammenhängende Kalendermonate zugrunde
+gelegt. Nicht berücksichtigt werden Zeiten einer Tätigkeit, für die
+Gebühren nach der Gebührenordnung für Ärzte oder nach der
+Gebührenordnung für Zahnärzte berechnet werden können. Die Zuordnung
+ist mindestens einmal jährlich zu überprüfen. Sie kann nur mit Wirkung
+für die Zukunft geändert werden.
 
 
 ## § 3 Rufbereitschaft
@@ -115,7 +119,8 @@ von mindestens 30 Minuten wird aufgerundet; ansonsten wird abgerundet.
 Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
 1.
-    *        *   der Besoldungsgruppe A 13
+    *        *   der Besoldungsgruppen A 5
+            bis A 8
 
         *   14,00 Euro,
 
@@ -124,18 +129,38 @@ Je Stunde der Gesamtzeit erhalten Vollzeitbeschäftigte
 
 
 2.
-    *        *   der Besoldungsgruppe A 14
+    *        *   der Besoldungsgruppen A 9
+            bis A 12
 
-        *   19,00 Euro,
+        *   18,00 Euro,
 
 
 
 
 
 3.
-    *        *   der Besoldungsgruppen A 15 und A 16
+    *        *   der Besoldungsgruppe A 13
 
-        *   24,00 Euro.
+        *   24,00 Euro,
+
+
+
+
+
+4.
+    *        *   der Besoldungsgruppe A 14
+
+        *   26,00 Euro,
+
+
+
+
+
+5.
+    *        *   der Besoldungsgruppen A 15
+            und A 16
+
+        *   28,00 Euro.
 
 
 

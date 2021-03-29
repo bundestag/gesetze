@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 302
 
+Geändert durch
+:   Art. 16 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -464,10 +467,12 @@ Anwendung.
 
 Diese Verordnung tritt am 1. Juli 2012 in Kraft.
 
+(zu § 6 Absatz 3)
 
-## Anlage 1 (zu § 6 Absatz 3) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2012, 306)
+(Fundstelle: BGBl. I 2012, 306;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   .........................................
@@ -503,7 +508,13 @@ Geprüfter Tourismusfachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte
-Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
+Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302), die durch
+Artikel 16 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist, bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -518,10 +529,12 @@ Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) bestanden.
 
 
 
+(zu § 6 Absatz 3)
 
-## Anlage 2 (zu § 6 Absatz 3) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2012, 307)
+(Fundstelle: BGBl. I 2012, 307;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -563,8 +576,9 @@ Geprüfter Tourismusfachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Tourismusfachwirt und Geprüfte
-Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302) mit folgenden
-Ergebnissen bestanden:
+Tourismusfachwirtin vom 9. Februar 2012 (BGBl. I S. 302), die durch
+Artikel 16 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *
@@ -621,7 +635,7 @@ Ergebnissen bestanden:
 
 *    *   Prüfungsergebnis:
 
-    *[^f776164_01_BJNR030200012BJNE001300000]
+    *[^f776164_01_BJNR030200012BJNE001301377]
    Punkte
 
     *
@@ -669,6 +683,10 @@ Ergebnissen bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
         ......................................................................
@@ -686,4 +704,4 @@ Ergebnissen bestanden:
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     ……………………………………….
-[^f776164_01_BJNR030200012BJNE001300000]: 
+[^f776164_01_BJNR030200012BJNE001301377]: 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 413
 
 Zuletzt geändert durch
-:   Art. 10 G v. 25.4.2007 I 594
+:   Art. 116 G v. 29.3.2017 I 626
 
 
 ## § 1
@@ -36,7 +36,7 @@ Seeschiffen.
 
 (2) Das Erhebungsgebiet umfaßt den Geltungsbereich dieses Gesetzes
 ohne die
-badischen              Zollausschlüsse. Die Zollanschlüsse gehören zum
+badischen Zollausschlüsse. Die Zollanschlüsse gehören zum
 Erhebungsgebiet.
 
 (3) Waren im Sinne dieses Gesetzes sind alle beweglichen Sachen und
@@ -47,10 +47,9 @@ elektrischer Strom.
 
 Bei der Anmeldung werden folgende Tatbestände erfaßt:
 
-1.  Anschrift der Auskunftspflichtigen nach § 4; Name des Schiffes oder
-    Zulassungszeichen des Luftfahrzeuges; Ankunfts- oder Verladetag; Ein-,
-    Um- oder Ausladehafen; im Freihafenverkehr das Lager oder der Betrieb;
-    Anlaß der Warenbewegung; Verkehrsart;
+1.  Name des Schiffes oder Zulassungszeichen des Luftfahrzeuges; Ankunfts-
+    oder Verladetag; Ein-, Um- oder Ausladehafen; im Freihafenverkehr das
+    Lager oder der Betrieb; Anlaß der Warenbewegung; Verkehrsart;
 
 
 2.  Benennung der Ware; Menge; Wert; Wertstellung; für den Warenverkehr
@@ -87,6 +86,58 @@ Bei der Anmeldung werden folgende Tatbestände erfaßt:
 
 
 
+
+
+## § 3a
+
+Hilfsmerkmale der Erhebungen sind
+
+1.  für den Bereich der Statistiken über den Warenverkehr zwischen den
+    Mitgliedstaaten der Europäischen Union (Intrahandelsstatistik)
+
+    a)  Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für
+        elektronische Post der Auskunftspflichtigen nach § 4,
+
+
+    b)  Steuernummer aus der Umsatzsteuer-Voranmeldung und die Umsatzsteuer-
+        Identifikationsnummer der Auskunftspflichtigen,
+
+
+    c)  Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden
+        Personen;
+
+
+
+
+
+2.  für den Bereich der Statistiken über den Warenverkehr mit Drittländern
+    (Extrahandelsstatistik)
+
+    a)  Name, Anschrift, Telefon- und Telefaxnummern sowie Adresse für
+        elektronische Post der Auskunftspflichtigen nach § 4,
+
+
+    b)  EORI-Nummer, TCUI, Steuernummer aus der Umsatzsteuer-Voranmeldung und
+        Umsatzsteuer-Identifikationsnummer der Auskunftspflichtigen nach § 4,
+
+
+    c)  Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden
+        Personen.
+
+
+
+
+
+
+
+
+## § 3b
+
+Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 3a
+Nummer 1 werden gegenüber dem Statistischen Bundesamt erteilt, die
+Angaben zu § 3a Nummer 2 gegenüber dem Statistischen Bundesamt oder
+den Anmeldestellen nach § 5 Absatz 1. Die Angaben zu § 3a Nummer 1
+Buchstabe c und Nummer 2 Buchstabe c sind freiwillig.
 
 
 ## § 4
@@ -194,14 +245,14 @@ den Konnossementen sind diese Nummern anzugeben. Die
 Ladungsverzeichnisse müssen die Erklärung des Verfrachters oder
 Frachtführers enthalten, daß in ihnen alle in den Schiffen verladenen
 Waren verzeichnet sind. Bei unbeladenen Schiffen ist vom Schiffsführer
-schriftlich zu erklären, daß das Schiff unbeladen ist. Die
-Ladungsverzeichnisse der von See in einen Freihafen zum Löschen
-eingehenden Schiffe sind innerhalb acht Tagen nach der Ankunft der
-Schiffe einzureichen. Für die aus den Freihäfen nach See ausgehenden
-Schiffe sind die Ladungsverzeichnisse binnen acht Tagen, für die aus
-anderen Seehäfen nach See ausgehenden Schiffe binnen drei Tagen nach
-der Abfahrt der Schiffe einzureichen, falls der Verfrachter eine
-Niederlassung oder eine ständige Vertretung (Makler, Agentur) im
+schriftlich oder elektronisch zu erklären, daß das Schiff unbeladen
+ist. Die Ladungsverzeichnisse der von See in einen Freihafen zum
+Löschen eingehenden Schiffe sind innerhalb acht Tagen nach der Ankunft
+der Schiffe einzureichen. Für die aus den Freihäfen nach See
+ausgehenden Schiffe sind die Ladungsverzeichnisse binnen acht Tagen,
+für die aus anderen Seehäfen nach See ausgehenden Schiffe binnen drei
+Tagen nach der Abfahrt der Schiffe einzureichen, falls der Verfrachter
+eine Niederlassung oder eine ständige Vertretung (Makler, Agentur) im
 Ausgangshafen hat. In anderen Fällen ist das Ladungsverzeichnis der
 ausgehenden Schiffe sogleich nach Beendigung der Verladung
 einzureichen. Auf Anfordern sind den Anmeldestellen auch über die
@@ -238,8 +289,7 @@ Statistischen Bundesamtes verfügt werden.
 
 (1) Zur Auskunft verpflichtet nach
 § 10 des Gesetzes über die Statistik für Bundeszwecke vom 3. September
-1953 (Bundesgesetzbl. I S. 1314)              sind Personen, die
-verpflichtet sind
+1953 (Bundesgesetzbl. I S. 1314) sind Personen, die verpflichtet sind
 
 1.  nach § 4 Abs. 1 zur Anmeldung;
 
@@ -275,8 +325,8 @@ Auskunftsverpflichtung entsprochen haben.
 ## § 10
 
 (1) Die Außenhandelsstatistik ist vom Statistischen Bundesamt nach
-§ 2 Nr. 2 des Gesetzes über die Statistik für Bundeszwecke
-zu erheben und aufzubereiten.
+§ 2 Nr. 2 des Gesetzes über die Statistik für Bundeszwecke zu erheben
+und aufzubereiten.
 
 (2) Das Statistische Bundesamt kann den Statistischen Ämtern in
 Hamburg, Bremen und Lübeck die für deren statistische Zwecke
@@ -286,15 +336,19 @@ stellen.
 
 ## § 11
 
-(1) Die Weiterleitung von Einzelangaben für den Dienstgebrauch der
-fachlich zuständigen obersten Bundes- und Landesbehörden ist
-zugelassen, wenn der Name der Auskunftspflichtigen nicht
-bekanntgegeben wird.
+(1) Das Statistische Bundesamt darf für die Verwendung gegenüber den
+gesetzgebenden Körperschaften und für Zwecke der Planung, jedoch nicht
+für die Regelung von Einzelfällen, Tabellen mit statistischen
+Ergebnissen an die fachlich zuständigen obersten Bundes- und
+Landesbehörden übermitteln, auch soweit Tabellenfelder nur einen
+einzigen Fall ausweisen.
 
-(2) Die Ergebnisse der Außenhandelsstatistik können nach Waren, nach
-fremden Ländern und nach Bundesländern gegliedert veröffentlicht
-werden, wenn der Name der Auskunftspflichtigen nicht bekanntgegeben
-wird.
+(2) Das Statistische Bundesamt darf zur Berichterstattung der
+Bundesregierung über ihre Exportpolitik für konventionelle
+Rüstungsgüter die Angaben nach § 3 Nummer 2 zur Benennung der Ware an
+die fachlich zuständigen obersten Bundesbehörden übermitteln, soweit
+sie der Einordnung der Ware als ziviles Gut oder konventionelles
+Rüstungsgut dienen.
 
 
 ## § 12
@@ -304,7 +358,7 @@ Abkommen mit fremden Staaten bleiben unberührt.
 
 ## § 13
 
-Das Bundesministerium für Wirtschaft und Technologie und das
+Das Bundesministerium für Wirtschaft und Energie und das
 Bundesministerium der Finanzen werden ermächtigt, im Einvernehmen
 miteinander
 

@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   Landesgrenze
 jurabk: GrÄndStVtrSN/THBek
 layout: default
-origslug: gr_ndstvtrsn_thbek
+origslug: graendstvtrsn_thbek
 slug: graendstvtrsn_thbek
 
 ---

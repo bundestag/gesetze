@@ -2,7 +2,7 @@
 Title: Siebentes Gesetz zur Änderung des Soldatengesetzes
 jurabk: SGÄndG 7
 layout: default
-origslug: sg_ndg_7
+origslug: sgaendg_7
 slug: sgaendg_7
 
 ---

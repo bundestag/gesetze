@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Betriebswirt/Geprüfte
+Title: Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betriebswirt/Geprüfte
   Betriebswirtin nach dem Berufsbildungsgesetz
 jurabk: BetrWPrV
 layout: default
@@ -8,13 +8,16 @@ slug: betrwprv
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz (BetrWPrV)
+# Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter  Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz (BetrWPrV)
 
 Ausfertigungsdatum
 :   2006-07-12
 
 Fundstelle
 :   BGBl I: 2006, 1625
+
+Geändert durch
+:   Art. 4 V v. 16.10.2016 I 2390
 
 
 
@@ -530,10 +533,59 @@ Projektarbeit und dem projektarbeitsbezogenen Fachgespräch zu bilden.
 Das projektarbeitsbezogene Fachgespräch ist nach Inhalt und Form
 gesondert zu bewerten; dabei wird der Inhalt doppelt gewichtet.
 
-(6) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-sowie ein Zeugnis gemäß der Anlage 2 auszustellen, aus dem die in den
-Prüfungsteilen erzielten Noten und die in den Prüfungsleistungen
-erzielten Punkte hervorgehen.
+(6) Aus den nach den Absätzen 2 bis 5 ermittelten Punktebewertungen
+der Prüfungsteile ist eine Gesamtpunktzahl zu bilden unter
+Berücksichtigung folgender Gewichtungen:
+
+*    *   „Wirtschaftliches Handeln und betriebliche Leistungsprozesse“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Führung und Management im Unternehmen“
+
+    *   mit 30 Prozent,
+
+
+*    *   „Projektarbeit und projektarbeitsbezogenes Fachgespräch“
+
+    *   mit 40 Prozent.
+
+
+
+
+Aus der gewichteten Gesamtpunktzahl ist eine Gesamtnote zu bilden.
+
+(7) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. In dem einen Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 3,
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis wird darüber hinaus mindestens angegeben:
+
+1.  die Benennung und Bewertung der Prüfungsteile nach § 3 Absatz 2, der
+    Prüfungsbereiche nach § 4 Absatz 2 und der Handlungsbereiche nach § 5
+    Absatz 2, das Thema der Projektarbeit nach § 6 Absatz 3 jeweils in
+    Verbindung mit den vorstehenden Absätzen 1 bis 4,
+
+
+2.  die Gesamtnote nach Absatz 6,
+
+
+3.  die Befreiungen nach § 8; jede Befreiung ist mit Ort, Datum und der
+    Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+    anzugeben.
+
+
+
 
 
 ## § 8 Anrechnung anderer Prüfungsleistungen
@@ -584,111 +636,4 @@ bis zum 30. Juni 2010 beantragt werden.
 ## § 11 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
-
-
-## Anlage 1 (zu § 1 Abs. 3 und zu § 7 Abs. 6)
-
-(Fundstelle: BGBl. I 2006, 1630)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Betriebswirt/Geprüfte Betriebswirtin
-Herr/Frau
-....................................................................
-geboren am ............................ in
-...................................
-hat am ................................ die Prüfung zum anerkannten
-Abschluss
-Geprüfter Betriebswirt/Geprüfte Betriebswirtin \*)
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz vom
-12\. Juli 2006 (BGBl. I S. 1625)
-bestanden.
-Datum ............................................
-Unterschrift(en) .................................
-(Siegel der zuständigen Stelle)             -----
-
-\*) Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem
-    Berufsbildungsgesetz für die Bereiche der Industrie, des Handels und
-    der Dienstleistungen.
-
-
-
-
-
-## Anlage 2 (zu § 1 Abs. 3 und zu § 7 Abs. 6)
-
-(Fundstelle: BGBl. I 2006, 1631)
-Muster
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Betriebswirt/Geprüfte Betriebswirtin
-Herr/Frau
-....................................................................
-geboren am ........................... in
-....................................
-hat am ............................... die Prüfung zum anerkannten
-Abschluss
-Geprüfter Betriebswirt/Geprüfte Betriebswirtin 1)
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Betriebswirt/Geprüfte Betriebswirtin nach dem Berufsbildungsgesetz vom
-12\. Juli 2006 (BGBl. I S. 1625) mit folgenden Ergebnissen bestanden:
-Punkte 2)    Note
-1\.  Wirtschaftliches Handeln und betriebliche
-Leistungsprozesse
-.........
-1\.1 Marketing-Management                            .........
-1\.2 Bilanz- und Steuerpolitik des Unternehmens      .........
-1\.3 Finanzwirtschaftliche Steuerung des
-Unternehmens                                    .........
-1\.4 Rechtliche Rahmenbedingungen der
-Unternehmensführung                             .........
-1\.5 Europäische und internationale
-Wirtschaftsbeziehungen                          .........
-2\.  Führung und Management im Unternehmen
-.........
-2\.1 Integrative, schriftliche Situationsaufgaben
-mit Schwerpunkt im
-Handlungsbereich: Unternehmensführung           .........
-Handlungsbereich: Unternehmensorganisation
-und Projektmanagement                           .........
-2\.2 Situationsbezogenes Fachgespräch mit
-Schwerpunkt im
-Handlungsbereich: Personalmanagement            .........
-3\.  Projektarbeit und projektarbeitsbezogenes
-Fachgespräch
-.........
-Projektarbeit/Thema                                 .........
-.................................................
-.................................................
-Projektarbeitsbezogenes Fachgespräch                .........
-(Im Fall des § 8: "Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin
-wurde gemäß
-§ 8 im Hinblick auf die am ............. in .............. vor
-...............
-................ abgelegte Prüfung im Prüfungsbereich/Handlungsbereich
-.......
-freigestellt.")
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
-
-1)  Geprüfter Betriebswirt/Geprüfte Betriebswirtin nach dem
-    Berufsbildungsgesetz für die Bereiche der Industrie, des Handels und
-    der Dienstleistungen.
-
-
-2)  Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
-    .............
-
-
-
 

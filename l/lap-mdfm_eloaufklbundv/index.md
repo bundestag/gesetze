@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 935
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 22 V v. 12.2.2009 I 320
+:   Art. 19 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -677,8 +677,8 @@ Ausführung angekündigt. Der Leistungsnachweis wird von der oder dem
 jeweiligen Lehrenden nach § 34 bewertet und der oder dem Vorgesetzten
 oder der Leitung der jeweiligen Verwaltungsfachschule vorgelegt. Diese
 können Rangpunkte ändern, um eine einheitliche Bewertung
-sicherzustellen; eine Änderung der Rangpunktzahl ist schriftlich zu
-begründen.
+sicherzustellen; eine Änderung der Rangpunktzahl ist schriftlich oder
+elektronisch zu begründen.
 
 (7) Die Leistungsnachweise während des Grundlehrgangs sollen
 spätestens in der zweiten Hälfte des fünften Lehrgangsmonats, im
@@ -721,13 +721,13 @@ Leistungsnachweises bestimmt hat.
 Anwärter während der praktischen Ausbildung wird für jedes
 Ausbildungsgebiet, dem Anwärterinnen und Anwärter nach dem
 Ausbildungsplan mindestens für einen Monat zugewiesen werden, eine
-schriftliche Bewertung nach § 34 abgegeben.
+schriftliche oder elektronische Bewertung nach § 34 abgegeben.
 
 (2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
-Ausfertigung der Bewertung und können schriftlich zu ihr Stellung
-nehmen.
+Ausfertigung der Bewertung und können schriftlich oder elektronisch zu
+ihr Stellung nehmen.
 
 (3) Zum Abschluss der praktischen Ausbildung erstellen die
 Ausbildungsbeauftragten der Bedarfsträger ein zusammenfassendes
@@ -950,9 +950,9 @@ Sprachprüfungen und Leistungsstufen festgestellt. Die Hörleistung nach
 Absatz 1 Nr. 1 und die Sprachleistung nach Absatz 1 Nr. 2 sind in
 Leistungspunkte und Rangpunkte umzurechnen.
 
-(3) Über den Ablauf der praktischen Prüfung wird eine Niederschrift
-gefertigt, die die Mitglieder der jeweiligen Prüfungskommission
-unterschreiben.
+(3) Über den Ablauf der praktischen Prüfung wird ein Protokoll durch
+die Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 28 Zulassung zur schriftlichen Prüfung
@@ -1001,10 +1001,11 @@ nicht vor der endgültigen Bewertung der Prüfungsarbeiten bekannt
 gegeben werden.
 
 (6) Die Prüfungsarbeiten werden unter Aufsicht gefertigt. Die
-Aufsichtführenden fertigen eine Niederschrift und vermerken darin die
-Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit,
-in Anspruch genommene Prüfungserleichterungen im Sinne des § 12 sowie
-etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
+Aufsichtführenden fertigen ein schriftliches oder elektronisches
+Protokoll und vermerken darin die Zeitpunkte des Beginns, der
+Unterbrechung und der Abgabe der Arbeit, in Anspruch genommene
+Prüfungserleichterungen im Sinne des § 12 sowie etwaige besondere
+Vorkommnisse.
 
 (7) Jede Prüfungsarbeit wird von zwei Prüfenden unabhängig voneinander
 nach § 34 bewertet. Die oder der Zweitprüfende kann Kenntnis von der
@@ -1054,8 +1055,9 @@ mündlichen Prüfung ist in einer Durchschnittspunktzahl auszudrücken,
 die sich aus der Summe der Rangpunkte, geteilt durch die Anzahl der
 Einzelbewertungen, ergibt.
 
-(5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der jeweiligen Prüfungskommission unterschreiben.
+(5) Über den Ablauf der Prüfung wird ein Protokoll durch die
+Mitglieder der jeweiligen Prüfungskommission schriftlich oder
+elektronisch gefertigt.
 
 
 ### § 32 Verhinderung, Rücktritt, Säumnis
@@ -1423,8 +1425,8 @@ der Vorsitzende den Prüfungsteilnehmerinnen und Prüfungsteilnehmern
 die erreichten Rangpunkte mit und erläutert sie auf Wunsch kurz
 mündlich.
 
-(4) Über das Gesamtergebnis der Laufbahnprüfung ist eine Niederschrift
-zu fertigen.
+(4) Über das Gesamtergebnis der Laufbahnprüfung ist ein schriftliches
+oder elektronisches Protokoll zu fertigen.
 
 
 ### § 36 Zeugnis

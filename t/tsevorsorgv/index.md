@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für
-  die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme
+Title: Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge  für
+  die menschliche und tierische Gesundheit im Hinblick auf Transmissible  Spongiforme
   Enzephalopathien
 jurabk: TSEVorsorgV
 layout: default
@@ -9,7 +9,7 @@ slug: tsevorsorgv
 
 ---
 
-# Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge für die menschliche und tierische Gesundheit im Hinblick auf Transmissible Spongiforme Enzephalopathien (TSEVorsorgV)
+# Verordnung über die Tötung von Rindern, Schafen und Ziegen zur Vorsorge  für die menschliche und tierische Gesundheit im Hinblick auf Transmissible  Spongiforme Enzephalopathien (TSEVorsorgV)
 
 Ausfertigungsdatum
 :   2005-12-20

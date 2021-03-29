@@ -1136,8 +1136,8 @@ Tabelle 1: Geschwindigkeitsabhängige Maße des Lichtraums
 
 Berechnung der Breite des Streckenquerschnitts für Doppelspur b und
 Einzelspur b
-E              sowie der Höhe des Streckenquerschnitts a in
-Abhängigkeit von der Querneigung α:
+E sowie der Höhe des Streckenquerschnitts a in Abhängigkeit von der
+Querneigung α:
 ![bgbl1_1997_j2337_0010.jpg](bgbl1_1997_j2337_0010.jpg)Das geschwindigkeitsabhängige Maß des Spurmittenabstands und die
 Vergrößerung des Abstands der Begrenzungslinie an der Bogenaußenseite
 in Gleisbogen mit einem Radius von 350 m bis 3500 m sind der Tabelle 1

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1528
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 20.12.2012 I 2751
+:   Art. 1 V v. 21.12.2016 I 3076
 
 
 ## Eingangsformel
@@ -95,9 +95,9 @@ Umschlüsselung auf den Kontenrahmen nach Satz 1 zu gewährleisten.
 Der Jahresabschluß ist innerhalb von sechs Monaten nach Ablauf des
 Geschäftsjahres aufzustellen. Für die Aufstellung und den Inhalt des
 Jahresabschlusses gelten § 242, § 243 Abs. 1 und 2, die §§ 244 bis
-256a, § 264 Abs. 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 3, die §§ 272,
-274, 275 Absatz 4, § 277 Abs. 3 Satz 1 und Abs. 4, § 284 Abs. 2 Nr. 1
-und 3 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des
+256a, 264 Absatz 1a und 2, § 265 Abs. 2, 5 und 8, § 268 Abs. 3, die §§
+272, 274, 275 Absatz 4, § 277 Absatz 1 und 3 Satz 1, § 284 Absatz 2
+Nummer 1 und 2 des Handelsgesetzbuchs sowie Artikel 28, 42 bis 44 des
 Einführungsgesetzes zum Handelsgesetzbuch.
 
 (2) Soweit ein Träger mehrere Pflegeeinrichtungen betreibt, die keine
@@ -231,21 +231,26 @@ folgende Mindestanforderungen:
 Zweiten Abschnitts des Dritten Buches des Handelsgesetzbuchs sind,
 brauchen auch für Zwecke des Handelsrechts bei der Aufstellung,
 Feststellung und Offenlegung ihres Jahresabschlusses nach dem
-Handelsgesetzbuch die Gliederungsvorschriften der §§ 266, 268 Abs. 2
-und § 275 des Handelsgesetzbuchs nicht anzuwenden. Sehen sie von der
-Anwendung ab, so haben sie bei der Aufstellung, Feststellung und
-Offenlegung die Bilanz nach Anlage 1, die Gewinn- und Verlustrechnung
-nach Anlage 2 und den Anlagennachweis nach Anlage 3a zu gliedern. Die
-im Anlagennachweis vorgeschriebenen Angaben sind auch für den Posten
-"Immaterielle Vermögensgegenstände" und jeweils für die Posten des
+Handelsgesetzbuch die Gliederungsvorschriften der §§ 266 und 275 des
+Handelsgesetzbuchs nicht anzuwenden. Nehmen die Pflegeeinrichtungen
+nach Satz 1 das Wahlrecht nach Satz 1 in Anspruch, so haben sie bei
+der Aufstellung, Feststellung und Offenlegung die Bilanz nach Anlage
+1, die Gewinn- und Verlustrechnung nach Anlage 2 und den
+Anlagennachweis nach Anlage 3a zu gliedern. Nehmen die
+Pflegeeinrichtungen nach Satz 1 das Wahlrecht nach Satz 1 nicht in
+Anspruch, haben sie außerhalb des handelsrechtlichen Jahresabschlusses
+zusätzlich gesonderte Dokumente bestehend aus den in Satz 2 näher
+bezeichneten Unterlagen zu erstellen. Die im Anlagennachweis
+vorgeschriebenen Angaben sind auch für den Posten "Immaterielle
+Vermögensgegenstände" und jeweils für die Posten des
 Finanzanlagevermögens zu machen.
 
-(2) Bei Inanspruchnahme des Wahlrechts nach Absatz 1 für Zwecke des
-Handelsrechts gelten die Erleichterungen für kleine und mittelgroße
-Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276 des
-Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei der
-Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen §
-266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
+(2) Bei Inanspruchnahme des Wahlrechts nach Absatz 1 Satz 1 für Zwecke
+des Handelsrechts gelten die Erleichterungen für kleine und
+mittelgroße Kapitalgesellschaften nach § 266 Abs. 1 Satz 3 und § 276
+des Handelsgesetzbuchs bei der Aufstellung und Feststellung nicht; bei
+der Offenlegung nach den §§ 325 bis 328 des Handelsgesetzbuchs dürfen
+§ 266 Abs. 1 Satz 3 und § 276 des Handelsgesetzbuchs mit der Maßgabe
 angewendet werden, daß in der Bilanz nach Anlage 1 und im
 Anlagennachweis nach Anlage 3a nur die mit Buchstaben und römischen
 Zahlen bezeichneten Posten ausgewiesen werden müssen und daß in der
@@ -335,7 +340,7 @@ bei der Aufstellung oder Feststellung des Jahresabschlusses
     gliedert oder
 
 
-2.  entgegen § 8 Abs. 1 Satz 3 die dort bezeichneten zusätzlichen Angaben
+2.  entgegen § 8 Abs. 1 Satz 4 die dort bezeichneten zusätzlichen Angaben
     im Anlagennachweis nicht, nicht in der vorgeschriebenen Form oder
     nicht mit dem vorgeschriebenen Inhalt macht.
 
@@ -347,57 +352,7 @@ bei der Aufstellung oder Feststellung des Jahresabschlusses
 
 (1) Diese Verordnung tritt am 1. Januar 1996 in Kraft.
 
-(2) Der Jahresabschluß nach § 4 ist erstmals aufzustellen:
-
-1.  bei stationären Pflegeeinrichtungen zum 31. Dezember 1997 für das
-    Geschäftsjahr 1997 bis spätestens zum 30. Juni 1998,
-
-
-2.  bei ambulanten Pflegeeinrichtungen zum 31. Dezember 1998 für das
-    Geschäftsjahr 1998 bis spätestens zum 30. Juni 1999.
-
-
-
-
-(3) Stichtag für die Eröffnungsbilanz sowie für die erstmalige
-Aufstellung des Anlagen- und Fördernachweises (Anlagen 3a und 3b)
-sind:
-
-1.  bei stationären Pflegeeinrichtungen der 1. Januar 1997,
-
-
-2.  bei ambulanten Pflegeeinrichtungen der 1. Januar 1998.
-
-
-
-Wird die Pflegeeinrichtung erst nach dem 1. Januar des jeweiligen
-Geschäftsjahres in Betrieb genommen, ist Stichtag für die
-Eröffnungsbilanz der Tag der Betriebsaufnahme. Die Eröffnungsbilanz
-ist binnen sechs Monaten nach dem jeweiligen Stichtag aufzustellen.
-
-(4) Die Vorschriften über Buchführung und Inventar (§ 3) sowie über
-die Kosten- und Leistungsrechnung (§ 7) sind auf stationäre
-Pflegeeinrichtungen erstmals für das Geschäftsjahr 1997 und auf
-ambulante Pflegeeinrichtungen erstmals für das Geschäftsjahr 1998
-anzuwenden.
-
-(5) Wird eine Pflegeeinrichtung im Jahr 1996 an einen
-freigemeinnützigen oder privaten Träger veräußert, können die in
-Absatz 2 bis 4 genannten Fristen auf Antrag des neuen Trägers gemäß §
-9 Abs. 2 Satz 3 jeweils um ein Jahr verlängert werden.
-
-(6) Sofern für ein Geschäftsjahr, das nach dem 31. Dezember 1998 und
-spätestens im Jahre 2001 endet, der Jahresabschluß und der
-Konzernabschluß nach Artikel 42 Abs. 1 Satz 2 des Einführungsgesetzes
-zum Handelsgesetzbuch in Deutscher Mark aufgestellt werden, sind auch
-die in den Formblättern gemäß Anlage 1 und 2 für die Bilanz und die
-Gewinn- und Verlustrechnung sowie die im Anlagennachweis gemäß Anlage
-3a und im Fördernachweis gemäß Anlage 3b vorgeschriebenen Angaben in
-Deutscher Mark und unter der Bezeichnung "DM" zu machen. Für ein
-Geschäftsjahr, das spätestens am 31. Dezember 1998 endet, ist diese
-Verordnung in der an diesem Tage geltenden Fassung anzuwenden.
-
-(7) § 279 des Handelsgesetzbuchs ist letztmals auf einen
+(2) § 279 des Handelsgesetzbuchs ist letztmals auf einen
 Jahresabschluss anzuwenden, der für ein Geschäftsjahr aufzustellen
 ist, das vor dem 1. Januar 2010 beginnt. Die Anlagen 1 und 4 mit den
 Änderungen, die durch das Bilanzrechtsmodernisierungsgesetz vom 25.
@@ -418,13 +373,37 @@ Einführungsgesetzes zum Handelsgesetzbuch enthaltenen
 Übergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des
 Einführungsgesetzes zum Handelsgesetzbuch gilt entsprechend.
 
+(3) Die §§ 4, 8 und 10, das Formblatt für die Bilanz (Anlage 1), die
+Gliederung der Gewinn- und Verlustrechnung (Anlage 2) sowie die
+Kontenrahmen für die Buchführung in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals
+auf Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende
+Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach
+§ 8 Absatz 1 Satz 3 anzuwenden.
+
+(4) § 4 Absatz 1 Satz 3 und die Nummern 4a, 8, 22 und 28 der
+Gliederung der Gewinn- und Verlustrechnung (Anlage 2) in der Fassung
+der Zweiten Verordnung zur Änderung von Rechnungslegungsverordnungen
+vom 21. Dezember 2016 (BGBl. I S. 3076) sind erstmals auf
+Jahresabschlüsse für nach dem 31. Dezember 2015 beginnende
+Geschäftsjahre und die gegebenenfalls hierauf bezogenen Dokumente nach
+§ 8 Absatz 1 Satz 3 anzuwenden.
+
+(5) Die Nummern 1 bis 3 der Gliederung der Gewinn- und Verlustrechnung
+(Anlage 2), der Kontenrahmen für die Buchführung (Anlage 4) sowie die
+Anlagen 5 und 6 in der Fassung der Zweiten Verordnung zur Änderung von
+Rechnungslegungsverordnungen vom 21. Dezember 2016 (BGBl. I S. 3076)
+sind erstmals auf Jahresabschlüsse für nach dem 31. Dezember 2016
+beginnende Geschäftsjahre und die gegebenenfalls hierauf bezogenen
+Dokumente nach § 8 Absatz 1 Satz 3 anzuwenden.
+
 
 ## Schlußformel
 
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 Gliederung der Bilanz
+## Anlage 1 Gliederung der Bilanz\*)
 
 (Fundstelle: BGBl. I 1995, 1532 - 1534;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -538,13 +517,18 @@ G. Nicht durch Eigenkapital gedeckter Fehlbetrag
 ========
 ----------
 \*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Bilanz.
-\*\*) Ausweis dieser Posten nur bei Kapitalgesellschaften
+*\*) Ausweis dieser Posten nur bei Kapitalgesellschaften
 Passivseite
 A. Eigenkapital
 1\. Eingefordertes Kapital (KUGr.2003)
 Gezeichnetes Kapital (KUGr.2001)
 abzüglich nicht eingeforderter ausstehender
 Einlagen (KUGr.2002) ..................................  ......
+........
+2\. Kapitalrücklagen (KUGr.201) ...........................  ......
+3\. Gewinnrücklagen (KUGr.202) ............................  ......
+4\. Gewinnvortrag/Verlustvortrag (KUGr.203) ...............  ......
+5\. Jahresüberschuß/Jahresfehlbetrag (KUGr.204) ...........  ......
 ........
 ------
 B. Sonderposten aus Zuschüssen und Zuweisungen
@@ -573,12 +557,12 @@ bis zu einem Jahr ....................................
 Träger der Einrichtung (KUGr.354), ...................  ......
 davon mit einer Restlaufzeit
 bis zu einem Jahr ....................................
-5\. Verbindlichkeiten gegenüber verbundenen Unternehmen\*)
+5\. Verbindlichkeiten gegenüber verbundenen Unternehmen\*\*)
 (KUGr.355), ..........................................  ......
 davon mit einer Restlaufzeit
 bis zu einem Jahr ....................................
 6\. Verbindlichkeiten gegenüber Unternehmen, mit denen ein
-Beteiligungsverhältnis besteht\*) (KUGr.356), .........  ......
+Beteiligungsverhältnis besteht\*\*) (KUGr.356), ........  ......
 davon mit einer Restlaufzeit
 bis zu einem Jahr ....................................
 7\. Verbindlichkeiten aus öffentlichen Fördermitteln
@@ -598,7 +582,7 @@ davon im Rahmen der sozialen Sicherheit ..............
 ------
 E. Ausgleichsposten aus Darlehensförderung (KGr.23) .........
 ........
-F. Renungsabgrenzungsposten (KGr.38) ........................
+F. Rechnungsabgrenzungsposten (KGr.38) ........................
 ........
 G. Passive latente Steuern (KGr.39)\*\*) ......................
 ........
@@ -609,41 +593,47 @@ G. Passive latente Steuern (KGr.39)\*\*) ......................
 Eventualverbindlichkeiten aus Ansprüchen auf
 Erstattung von Fördermitteln
 ----------
-\*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
+\*) Die Klammerhinweise auf den Kontenrahmen entfallen in der Bilanz.
+*\*) Ausweis dieser Posten nur bei Kapitalgesellschaften.
 
 
 ## Anlage 2 Gliederung der Gewinn- und Verlustrechnung
 
 (Fundstelle: BGBl. I 1995, 1535 - 1536;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-1\. Erträge aus allgemeinen Pflegeleistungen gemäß
-PflegeVG (KGr.40 bis 43) .............................  ......
+1\. Erträge aus ambulanter, teilstationärer und vollstationärer
+Pflege sowie aus Kurzzeitpflege
+(KGr. 40 bis 43) .....................................  ......
 2\. Erträge aus Unterkunft und Verpflegung
-(KUGr.413, 424, 433) .................................  ......
+(KUGr. 416, 426, 436) ................................  ......
 3\. Erträge aus Zusatzleistungen und Transportleistungen
-nach PflegeVG
-(KUGr.414 bis 416, 425, 426, 434, 435) ...............  ......
+(KUGr. 417, 4191, 427, 437) ..........................  ......
 4\. Erträge aus gesonderter Berechnung von Investitionskosten
-gegenüber Pflegebedürftigen (KUGr.464) ...............  ......
+gegenüber Pflegebedürftigen
+(KUGr. 464) ..........................................  ......
+4a. Umsatzerlöse nach § 277 Absatz 1 des Handelsgesetzbuchs
+(KUGr. 480 bis 485, 488; KGr. 55),
+soweit nicht in den Nummern 1 bis 4 enthalten ........  ......
 5\. Zuweisungen und Zuschüsse zu Betriebskosten
-(KGr.44) .............................................  ......
+(KGr. 44) ............................................  ......
 6\. Erhöhung oder Verminderung des Bestandes an
 fertigen/unfertigen Erzeugnissen und Leistungen
-(KUGr.540) ...........................................  ......
+(KUGr. 540) ..........................................  ......
 7\. Andere aktivierte Eigenleistungen
-(KUGr.541) ...........................................  ......
-8\. Sonstige betriebliche Erträge (KGr.48, 55) ...........  ......
+(KUGr. 541) ..........................................  ......
+8\. Sonstige betriebliche Erträge
+(KUGr. 486, 487; KGr. 52, 53) ........................  ......
 ........
 ------
 9\. Personalaufwand
-a) Löhne und Gehälter (KGr.60) .......................  ......
+a) Löhne und Gehälter (KGr. 60) ......................  ......
 b) Sozialabgaben, Altersversorgung und sonstige
-Aufwendungen (KGr.61 bis 64) ......................  ......
+Aufwendungen (KGr. 61 bis 64) .....................  ......
 10\. Materialaufwand
-a) Lebensmittel (KGr.65) .............................  ......
-b) Aufwendungen für Zusatzleistungen (KGr.66) ........  ......
-c) Wasser, Energie, Brennstoffe (KGr.67) .............  ......
-d) Wirtschaftsbedarf/Verwaltungsbedarf (KGr.68, 70) ..  ......
+a) Lebensmittel (KGr. 65) ............................  ......
+b) Aufwendungen für Zusatzleistungen (KGr. 66) .......  ......
+c) Wasser, Energie, Brennstoffe (KGr. 67) ............  ......
+d) Wirtschaftsbedarf/Verwaltungsbedarf (KGr. 68, 70) .  ......
 11\. Aufwendungen für zentrale Dienstleistungen
 (KUGr.685) ...........................................  ......
 12\. Steuern, Abgaben, Versicherungen (KGr.71) ............  ......
@@ -671,7 +661,7 @@ b) Abschreibungen auf Forderungen und sonstige
 Vermögensgegenstände (KUGr. 753, 754) .............  ......
 21\. Aufwendungen für Instandhaltung und
 Instandsetzung (KUGr.771) ............................  ......
-22\. Sonstige ordentliche Aufwendungen (KUGr.772) .........  ......
+22\. Sonstige betriebliche Aufwendungen (KUGr.772) ........  ......
 ........
 ------  --------
 Zwischenergebnis .........................................
@@ -684,15 +674,8 @@ des Umlaufvermögens (KUGr.752) .......................  ......
 27\. Zinsen und ähnliche Aufwendungen (KGr.72) ............  ......
 ........
 ------  --------
-28\. Ergebnis der gewöhnlichen Geschäftstätigkeit .........
-........
-29\. Außerordentliche Erträge (KGr.56) ....................  ......
-30\. Außerordentliche Aufwendungen (KGr.78) ...............  ......
-31\. Weitere Erträge (KGr.52, 53) .........................  ......
-------
-32\. Außerordentliches Ergebnis ...........................  ......
-........
-33\. Jahresüberschuß/Jahresfehlbetrag .....................
+28\. (weggefallen)
+29\. Jahresüberschuss/Jahresfehlbetrag ....................
 ........
 ========
 ----------
@@ -718,11 +701,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 (Fundstelle: BGBl. I 1995, 1539 - 1546;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-*    *   Kontenklasse
+*    *   Konten-
+        klasse
 
-    *   Kontengruppe
+    *   Konten-
+        gruppe
 
-    *   Kontenuntergruppe
+    *   Konten-
+        unter-
+        gruppe
 
     *   Text-Erläuterung
 
@@ -1481,11 +1468,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   400
 
-    *   Erträge aus Pflegeleistungen: Pflegestufe I
+    *   Erträge aus Leistungen der häuslichen Pflegehilfe bei Pflegegrad 1
 
 
 *    *
-    *
     *
     *   4000
 
@@ -1494,7 +1480,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4001
 
     *   Sozialhilfeträger
@@ -1502,14 +1487,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4002
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4003
 
@@ -1520,12 +1503,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   401
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegestufe II
+    *   Erträge aus Leistungen der häuslichen Pflegehilfe bei Pflegegrad 2
 
 
 *    *
-    *
     *
     *   4010
 
@@ -1534,7 +1515,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4011
 
     *   Sozialhilfeträger
@@ -1542,14 +1522,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4012
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4013
 
@@ -1560,12 +1538,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   402
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegestufe III
+    *   Erträge aus Leistungen der häuslichen Pflegehilfe bei Pflegegrad 3
 
 
 *    *
-    *
     *
     *   4020
 
@@ -1574,7 +1550,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4021
 
     *   Sozialhilfeträger
@@ -1582,14 +1557,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4022
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4023
 
@@ -1600,12 +1573,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   403
 
-    *
-    *   Erträge aus Pflegeleistungen: Härtefälle
+    *   Erträge aus Leistungen der häuslichen Pflegehilfe bei Pflegegrad 4
 
 
 *    *
-    *
     *
     *   4030
 
@@ -1614,7 +1585,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4031
 
     *   Sozialhilfeträger
@@ -1622,14 +1592,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4032
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4033
 
@@ -1640,30 +1608,83 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   404
 
+    *   Erträge aus Leistungen der häuslichen Pflegehilfe bei Pflegegrad 5
+
+
+*    *
     *
-    *   Erträge aufgrund häuslicher Pflege bei Verhinderung der Pflegeperson
+    *   4040
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4041
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4042
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4043
+
+    *   Übrige
 
 
 *    *
     *
     *   405
 
-    *
-    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+    *   Erträge aufgrund häuslicher Pflege bei Verhinderung der Pflegeperson
 
 
 *    *
     *
     *   406
 
+    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+
+
+*    *
     *
-    *   Sonstige Erträge
+    *   407
+
+    *   Sonstige Erträge aus ambulanten Pflegeleistungen
+
+
+*    *
+    *
+    *   4070
+
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
+        SGB XI
+
+
+*    *
+    *
+    *   4071
+
+    *   Weitere sonstige Erträge aus ambulanten Pflegeleistungen
+
+
+*    *
+    *
+    *   4072
+
+    *   Erträge aus ambulanten Pflegedienstleistungen in anderen Ländern
 
 
 *    *
     *   41
 
-    *
     *
     *   Erträge aus teilstationären Pflegeleistungen
 
@@ -1672,12 +1693,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   410
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse I
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 1
 
 
 *    *
-    *
     *
     *   4100
 
@@ -1686,7 +1705,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4101
 
     *   Sozialhilfeträger
@@ -1694,14 +1712,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4102
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4103
 
@@ -1712,12 +1728,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   411
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse II
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 2
 
 
 *    *
-    *
     *
     *   4110
 
@@ -1726,7 +1740,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4111
 
     *   Sozialhilfeträger
@@ -1734,14 +1747,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4112
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4113
 
@@ -1752,12 +1763,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   412
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse III
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 3
 
 
 *    *
-    *
     *
     *   4120
 
@@ -1766,7 +1775,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4121
 
     *   Sozialhilfeträger
@@ -1774,14 +1782,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4122
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4123
 
@@ -1792,54 +1798,160 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   413
 
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 4
+
+
+*    *
     *
-    *   Erträge aus Unterkunft und Verpflegung
+    *   4130
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4131
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4132
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4133
+
+    *   Übrige
 
 
 *    *
     *
     *   414
 
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 5
+
+
+*    *
     *
-    *   Erträge aus Zusatzleistungen: Pflege
+    *   4140
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4141
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4142
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4143
+
+    *   Übrige
 
 
 *    *
     *
     *   415
 
+    *   Erträge aus zusätzlicher Betreuung und Aktivierung (§ 43b SGB XI)
+
+
+*    *
     *
-    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
+    *   4150
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4151
+
+    *   Sozialhilfeträger
 
 
 *    *
     *
     *   416
 
-    *
-    *   Erträge aus Transportleistungen
+    *   Erträge aus Unterkunft und Verpflegung
 
 
 *    *
     *
     *   417
 
+    *   Erträge aus Zusatzleistungen
+
+
+*    *
     *
-    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+    *   4170
+
+    *   Erträge aus Zusatzleistungen: Pflege
+
+
+*    *
+    *
+    *   4171
+
+    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
 
 
 *    *
     *
     *   418
 
+    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+
+
+*    *
     *
-    *   Sonstige Erträge
+    *   419
+
+    *   Sonstige Erträge aus teilstationären Pflegeleistungen
+
+
+*    *
+    *
+    *   4190
+
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
+        SGB XI
+
+
+*    *
+    *
+    *   4191
+
+    *   Erträge aus Transportleistungen
+
+
+*    *
+    *
+    *   4192
+
+    *   Weitere sonstige Erträge aus teilstationären Pflegeleistungen
 
 
 *    *
     *   42
 
-    *
     *
     *   Erträge aus vollstationären Pflegeleistungen
 
@@ -1848,12 +1960,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   420
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse I
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 1
 
 
 *    *
-    *
     *
     *   4200
 
@@ -1862,7 +1972,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4201
 
     *   Sozialhilfeträger
@@ -1870,14 +1979,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4202
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4203
 
@@ -1888,12 +1995,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   421
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse II
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 2
 
 
 *    *
-    *
     *
     *   4210
 
@@ -1902,7 +2007,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4211
 
     *   Sozialhilfeträger
@@ -1910,14 +2014,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4212
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4213
 
@@ -1928,12 +2030,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   422
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse III
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 3
 
 
 *    *
-    *
     *
     *   4220
 
@@ -1942,7 +2042,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4221
 
     *   Sozialhilfeträger
@@ -1950,14 +2049,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4222
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4223
 
@@ -1968,12 +2065,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   423
 
-    *
-    *   Erträge aus Pflegeleistungen: Härtefälle
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 4
 
 
 *    *
-    *
     *
     *   4230
 
@@ -1982,7 +2077,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4231
 
     *   Sozialhilfeträger
@@ -1990,14 +2084,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4232
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4233
 
@@ -2008,60 +2100,115 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   424
 
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 5
+
+
+*    *
     *
-    *   Erträge aus Unterkunft und Verpflegung
+    *   4240
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4241
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4242
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4243
+
+    *   Übrige
 
 
 *    *
     *
     *   425
 
+    *   Erträge aus zusätzlicher Betreuung und Aktivierung (§ 43b SGB XI)
+
+
+*    *
     *
-    *   Erträge aus Zusatzleistungen: Pflege
+    *   4250
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4251
+
+    *   Sozialhilfeträger
 
 
 *    *
     *
     *   426
 
-    *
-    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
+    *   Erträge aus Unterkunft und Verpflegung
 
 
 *    *
     *
     *   427
 
+    *   Erträge aus Zusatzleistungen
+
+
+*    *
     *
-    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+    *   4270
+
+    *   Erträge aus Zusatzleistungen: Pflege
+
+
+*    *
+    *
+    *   4271
+
+    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
 
 
 *    *
     *
     *   428
 
+    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+
+
+*    *
     *
-    *   Sonstige Erträge
+    *   429
+
+    *   Sonstige Erträge aus vollstationären Pflegeleistungen
 
 
 *    *
     *   43
 
     *
-    *
-    *   Erträge aus Leistungen der Kurzzeitpflege
+    *   Erträge aus Kurzzeitpflegeleistungen
 
 
 *    *
     *
     *   430
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse I
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 1
 
 
 *    *
-    *
     *
     *   4300
 
@@ -2070,7 +2217,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4301
 
     *   Sozialhilfeträger
@@ -2078,14 +2224,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4302
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4303
 
@@ -2096,12 +2240,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   431
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse II
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 2
 
 
 *    *
-    *
     *
     *   4310
 
@@ -2110,7 +2252,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4311
 
     *   Sozialhilfeträger
@@ -2118,14 +2259,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4312
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4313
 
@@ -2136,12 +2275,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   432
 
-    *
-    *   Erträge aus Pflegeleistungen: Pflegeklasse III
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 3
 
 
 *    *
-    *
     *
     *   4320
 
@@ -2150,7 +2287,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4321
 
     *   Sozialhilfeträger
@@ -2158,14 +2294,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *
     *   4322
 
     *   Selbstzahler
 
 
 *    *
-    *
     *
     *   4323
 
@@ -2176,46 +2310,153 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   433
 
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 4
+
+
+*    *
     *
-    *   Erträge aus Unterkunft und Verpflegung
+    *   4330
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4331
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4332
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4333
+
+    *   Übrige
 
 
 *    *
     *
     *   434
 
+    *   Erträge aus Pflegeleistungen bei Pflegegrad 5
+
+
+*    *
     *
-    *   Erträge aus Zusatzleistungen: Pflege
+    *   4340
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4341
+
+    *   Sozialhilfeträger
+
+
+*    *
+    *
+    *   4342
+
+    *   Selbstzahler
+
+
+*    *
+    *
+    *   4343
+
+    *   Übrige
 
 
 *    *
     *
     *   435
 
+    *   Erträge aus zusätzlicher Betreuung und Aktivierung (§ 43b SGB XI)
+
+
+*    *
     *
-    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
+    *   4350
+
+    *   Pflegekasse
+
+
+*    *
+    *
+    *   4351
+
+    *   Sozialhilfeträger
 
 
 *    *
     *
     *   436
 
-    *
-    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+    *   Erträge aus Unterkunft und Verpflegung
 
 
 *    *
     *
     *   437
 
+    *   Erträge aus Zusatzleistungen
+
+
+*    *
     *
-    *   Sonstige Erträge
+    *   4370
+
+    *   Erträge aus Zusatzleistungen: Pflege
+
+
+*    *
+    *
+    *   4371
+
+    *   Erträge aus Zusatzleistungen: Unterkunft und Verpflegung
+
+
+*    *
+    *
+    *   438
+
+    *   Erträge aufgrund von Regelungen über Pflegehilfsmittel
+
+
+*    *
+    *
+    *   439
+
+    *   Sonstige Erträge aus Kurzzeitpflegeleistungen
+
+
+*    *
+    *
+    *   4390
+
+    *   Erträge aus der Erbringung von Leistungen nach § 45b Absatz 1 Satz 3
+        SGB XI
+
+
+*    *
+    *
+    *   4391
+
+    *   Weitere sonstige Erträge aus Kurzzeitpflegeleistungen
 
 
 *    *
     *   44
 
-    *
     *
     *   Zuweisungen und Zuschüsse zu Betriebskosten
 
@@ -2224,7 +2465,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   440
 
-    *
     *   für ambulante Pflegeleistungen
 
 
@@ -2232,7 +2472,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   441
 
-    *
     *   für teilstationäre Pflegeleistungen
 
 
@@ -2240,7 +2479,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   442
 
-    *
     *   für vollstationäre Pflegeleistungen
 
 
@@ -2248,14 +2486,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   443
 
-    *
     *   für Leistungen der Kurzzeitpflege
 
 
 *    *
     *   45
 
-    *
     *
     *   Erträge aus öffentlicher Förderung für Investitionen
 
@@ -2264,7 +2500,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   450
 
-    *
     *   in ambulanten Pflegeeinrichtungen
 
 
@@ -2272,7 +2507,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   451
 
-    *
     *   in teilstationären Pflegeeinrichtungen
 
 
@@ -2280,7 +2514,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   452
 
-    *
     *   in vollstationären Pflegeeinrichtungen
 
 
@@ -2288,14 +2521,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   453
 
-    *
     *   in Einrichtungen der Kurzzeitpflege
 
 
 *    *
     *   46
 
-    *
     *
     *   Erträge aus nicht-öffentlicher Förderung für Investitionen
 
@@ -2304,7 +2535,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   460
 
-    *
     *   in ambulanten Pflegeeinrichtungen
 
 
@@ -2312,7 +2542,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   461
 
-    *
     *   in teilstationären Pflegeeinrichtungen
 
 
@@ -2320,7 +2549,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   462
 
-    *
     *   in vollstationären Pflegeeinrichtungen
 
 
@@ -2328,7 +2556,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   463
 
-    *
     *   in Einrichtungen der Kurzzeitpflege
 
 
@@ -2336,7 +2563,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   464
 
-    *
     *   Erträge aus gesonderter Berechnung von Investitionsaufwendungen
         gegenüber Pflegebedürftigen
         (§ 82 Abs. 3 und 4 SGB XI)
@@ -2346,7 +2572,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   47
 
     *
-    *
     *   Erträge aus der Auflösung von Sonderposten
 
 
@@ -2354,7 +2579,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   470
 
-    *
     *   bei ambulanten Pflegeeinrichtungen
 
 
@@ -2362,7 +2586,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   471
 
-    *
     *   bei teilstationären Pflegeeinrichtungen
 
 
@@ -2370,7 +2593,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   472
 
-    *
     *   bei vollstationären Pflegeeinrichtungen
 
 
@@ -2378,14 +2600,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   473
 
-    *
     *   bei Einrichtungen der Kurzzeitpflege
 
 
 *    *
     *   48
 
-    *
     *
     *   Rückvergütungen, Erstattungen, Sachbezüge, Erträge aus
         Sonderrechnungen
@@ -2395,7 +2615,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   480
 
-    *
     *   Erstattungen des Personals für freie Station
 
 
@@ -2403,7 +2622,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   481
 
-    *
     *   Erstattungen des Personals für Unterkunft
 
 
@@ -2411,7 +2629,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   482
 
-    *
     *   Erstattungen des Personals für Verpflegung
 
 
@@ -2419,7 +2636,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   483
 
-    *
     *   Sonstige Erstattungen
 
 
@@ -2427,7 +2643,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   484
 
-    *
     *   Erträge aus Hilfsbetrieben
 
 
@@ -2435,7 +2650,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   485
 
-    *
     *   Erträge aus Nebenbetrieben
 
 
@@ -2443,7 +2657,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   486
 
-    *
     *   Erträge aus Betriebskostenzuschüssen für sonstige ambulante Leistungen
         (außerhalb des SGB XI)
 
@@ -2452,7 +2665,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   487
 
-    *
     *   Erträge aus der Erstattung von Ausgleichsposten aus Darlehens- und
         Eigenmittelförderung
 
@@ -2461,14 +2673,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   488
 
-    *
     *   Sonstige Erträge aus Sonderrechnungen
 
 
 *    *
     *   49
 
-    *
     *
     *   frei
 
@@ -2600,35 +2810,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   55
 
     *
-    *   Sonstige ordentliche Erträge
+    *   Sonstige Erträge
 
 
 *    *
     *   56
 
     *
-    *   Außerordentliche Erträge
+    *   frei
 
 
 *    *
     *
     *   560
 
-    *   Periodenfremde Erträge
+    *   frei
 
 
 *    *
     *
     *   561
 
-    *   Spenden und ähnliche Zuwendungen
+    *   frei
 
 
 *    *
     *
     *   562
 
-    *   Sonstige außerordentliche Erträge
+    *   frei
 
 
 *    *
@@ -2686,26 +2896,33 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   602
 
-    *   Hauswirtschaftlicher Dienst
+    *   Betreuungsdienst
 
 
 *    *
     *
     *   603
 
-    *   Verwaltungsdienst
+    *   Hauswirtschaftlicher Dienst
 
 
 *    *
     *
     *   604
 
-    *   Technischer Dienst
+    *   Verwaltungsdienst
 
 
 *    *
     *
     *   605
+
+    *   Technischer Dienst
+
+
+*    *
+    *
+    *   606
 
     *   Sonstige Dienste
 
@@ -2714,28 +2931,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   61
 
     *
-    *   Gesetzliche Sozialabgaben (Aufteilung wie 600 bis 605)
+    *   Gesetzliche Sozialabgaben (Aufteilung wie 600 bis 606)
 
 
 *    *
     *   62
 
     *
-    *   Altersversorgung (Aufteilung wie 600 bis 605)
+    *   Altersversorgung (Aufteilung wie 600 bis 606)
 
 
 *    *
     *   63
 
     *
-    *   Beihilfen und Unterstützungen (Aufteilung wie 600 bis 605)
+    *   Beihilfen und Unterstützungen (Aufteilung wie 600 bis 606)
 
 
 *    *
     *   64
 
     *
-    *   Sonstige Personalaufwendungen (Aufteilung wie 600 bis 605)
+    *   Sonstige Personalaufwendungen (Aufteilung wie 600 bis 606)
 
 
 *    *
@@ -2993,7 +3210,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *   Aufwendungen für Instandhaltung und Instandsetzung, sonstige
-        ordentliche Aufwendungen
+        Aufwendungen
 
 
 *    *
@@ -3007,57 +3224,56 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
     *   772
 
-    *   Sonstige ordentliche Aufwendungen
+    *   Sonstige Aufwendungen
 
 
 *    *
     *   78
 
     *
-    *   Außerordentliche Aufwendungen
+    *   frei
 
 
 *    *
     *
     *   780
 
-    *   Aufwendungen aus dem Abgang von Gegenständen des Anlagevermögens
+    *   frei
 
 
 *    *
     *
     *   781
 
-    *   Periodenfremde Aufwendungen
+    *   frei
 
 
 *    *
     *
     *   782
 
-    *   Spenden und ähnliche Aufwendungen
+    *   frei
 
 
 *    *
     *
     *   783
 
-    *   Aufwendungen für Verbandsumlagen
+    *   frei
 
 
 *    *
     *
     *   784
 
-    *   Aufwendungen aus der Zuführung zu Ausgleichsposten aus
-        Darlehensförderung
+    *   frei
 
 
 *    *
     *
     *   785
 
-    *   Sonstige außerordentliche Aufwendungen
+    *   frei
 
 
 *    *
@@ -3161,7 +3377,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 5 Muster, Kostenstellenrahmen für die Kosten- und Leistungsrechnung
 
-Fundstelle des Originaltextes: BGBl. I 1995, 1547
+(Fundstelle: BGBl. I 1995, 1547;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   90
 
@@ -3254,22 +3471,27 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 *    *   920
 
-    *   Pflegebereich - Pflegestufe I
+    *   Pflegebereich – Pflegegrad 1
 
 
 *    *   921
 
-    *   Pflegebereich - Pflegestufe II
+    *   Pflegebereich – Pflegegrad 2
 
 
 *    *   922
 
-    *   Pflegebereich - Pflegestufe III
+    *   Pflegebereich – Pflegegrad 3
 
 
 *    *   923
 
-    *   Pflegebereich - Pflegestufe III - Härtefälle
+    *   Pflegebereich – Pflegegrad 4
+
+
+*    *   924
+
+    *   Pflegebereich – Pflegegrad 5
 
 
 *    *
@@ -3281,22 +3503,27 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 *    *   930
 
-    *   Pflegebereich - Pflegeklasse I
+    *   Pflegebereich – Pflegegrad 1
 
 
 *    *   931
 
-    *   Pflegebereich - Pflegeklasse II
+    *   Pflegebereich – Pflegegrad 2
 
 
 *    *   932
 
-    *   Pflegebereich - Pflegeklasse III
+    *   Pflegebereich – Pflegegrad 3
 
 
 *    *   933
 
-    *   Pflegebereich - Pflegeklasse III - Härtefälle
+    *   Pflegebereich – Pflegegrad 4
+
+
+*    *   934
+
+    *   Pflegebereich – Pflegegrad 5
 
 
 *    *
@@ -3308,22 +3535,27 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 *    *   940
 
-    *   Pflegebereich - Pflegeklasse I
+    *   Pflegebereich – Pflegegrad 1
 
 
 *    *   941
 
-    *   Pflegebereich - Pflegeklasse II
+    *   Pflegebereich – Pflegegrad 2
 
 
 *    *   942
 
-    *   Pflegebereich - Pflegeklasse III
+    *   Pflegebereich – Pflegegrad 3
 
 
 *    *   943
 
-    *   Pflegebereich - Pflegeklasse III - Härtefälle
+    *   Pflegebereich – Pflegegrad 4
+
+
+*    *   944
+
+    *   Pflegebereich – Pflegegrad 5
 
 
 *    *
@@ -3335,22 +3567,27 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 *    *   950
 
-    *   Pflegebereich - Pflegeklasse I
+    *   Pflegebereich – Pflegegrad 1
 
 
 *    *   951
 
-    *   Pflegebereich - Pflegeklasse II
+    *   Pflegebereich – Pflegegrad 2
 
 
 *    *   952
 
-    *   Pflegebereich - Pflegeklasse III
+    *   Pflegebereich – Pflegegrad 3
 
 
 *    *   953
 
-    *   Pflegebereich - Pflegeklasse III - Härtefälle
+    *   Pflegebereich – Pflegegrad 4
+
+
+*    *   954
+
+    *   Pflegebereich – Pflegegrad 5
 
 
 *    *
@@ -3362,27 +3599,49 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 *    *   960
 
-    *   Pflegebereich - Pflegeklasse I
+    *   Pflegebereich – Pflegegrad 1
 
 
 *    *   961
 
-    *   Pflegebereich - Pflegeklasse II
+    *   Pflegebereich – Pflegegrad 2
 
 
 *    *   962
 
-    *   Pflegebereich - Pflegeklasse III
+    *   Pflegebereich – Pflegegrad 3
 
 
 *    *   963
 
-    *   Pflegebereich - Pflegeklasse III - Härtefälle
+    *   Pflegebereich – Pflegegrad 4
+
+
+*    *   964
+
+    *   Pflegebereich – Pflegegrad 5
 
 
 *    *
 
-*    *   97-99
+*    *   97
+
+    *   Weitere Leistungen
+
+
+*    *   970
+
+    *   Zusätzliche Betreuung und Aktivierung nach § 43b SGB XI
+
+
+*    *   971
+
+    *   Leistungen nach § 45b Absatz 1 Satz 3 SGB XI
+
+
+*    *
+
+*    *   98, 99
 
     *   freibleibend
 
@@ -3392,7 +3651,8 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1547
 
 ## Anlage 6 Muster, Kostenträgerübersicht
 
-Fundstelle des Originaltextes: BGBl. I 1995, 1548
+(Fundstelle: BGBl. I 1995, 1548;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Für teil- und vollstationäre Pflegeeinrichtungen
@@ -3400,7 +3660,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1548
 
 *    *
 
-*    *   Pflegeklasse I
+*    *   Pflegegrad 1
 
 
 *    *   - Pflegeleistungen
@@ -3411,7 +3671,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1548
 
 *    *
 
-*    *   Pflegeklasse II
+*    *   Pflegegrad 2
 
 
 *    *   - Pflegeleistungen
@@ -3422,7 +3682,7 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1548
 
 *    *
 
-*    *   Pflegeklasse III
+*    *   Pflegegrad 3
 
 
 *    *   - Pflegeleistungen
@@ -3433,10 +3693,32 @@ Fundstelle des Originaltextes: BGBl. I 1995, 1548
 
 *    *
 
-*    *   Zusatzleistung Pflege
+*    *   Pflegegrad 4
 
 
-*    *   Zusatzleistung Unterkunft und Verpflegung
+*    *   - Pflegeleistungen
+
+
+*    *   - Unterkunft und Verpflegung
+
+
+*    *
+
+*    *   Pflegegrad 5
+
+
+*    *   - Pflegeleistungen
+
+
+*    *   - Unterkunft und Verpflegung
+
+
+*    *
+
+*    *   Zusatzleistungen Pflege
+
+
+*    *   Zusatzleistungen Unterkunft und Verpflegung
 
 
 *    *

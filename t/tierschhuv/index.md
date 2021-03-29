@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 838
 
 Geändert durch
-:   Art. 3 G v. 19.4.2006 I 900
+:   Art. 3 V v. 12.12.2013 I 4145
 
 
 ## Eingangsformel
@@ -37,7 +37,7 @@ Tierschutzkommission:
 ## § 1 Anwendungsbereich
 
 (1) Diese Verordnung gilt für das Halten und Züchten von Hunden
-(Canis lupus              f. familiaris).
+(Canis lupus f. familiaris).
 
 (2) Die Vorschriften dieser Verordnung sind nicht anzuwenden
 
@@ -49,10 +49,8 @@ Tierschutzkommission:
     sind,
 
 
-3.  bei einer Haltung zu Versuchszwecken im Sinne des § 7 Abs. 1 des
-    Tierschutzgesetzes oder bei Eingriffen oder Behandlungen zu den in § 6
-    Abs. 1 Satz 2 Nr. 4, § 10 Abs. 1 oder § 10a des Tierschutzgesetzes
-    genannten Zwecken, soweit für den verfolgten wissenschaftlichen Zweck
+3.  bei einer Haltung zu Versuchszwecken im Sinne des § 7 Absatz 2 des
+    Tierschutzgesetzes, soweit für den verfolgten wissenschaftlichen Zweck
     andere Anforderungen an die Haltung unerlässlich sind.
 
 
@@ -334,12 +332,12 @@ die weitere Aufnahme solcher Hunde gefährdet ist.
 ## § 10 Ausstellungsverbot
 
 Es ist verboten, Hunde, bei denen Körperteile, insbesondere Ohren oder
-Rute, zum Erreichen bestimmter Rassenmerkmale vollständig oder
-teilweise amputiert wurden, auszustellen oder Ausstellungen solcher
-Hunde zu veranstalten. Das Ausstellungsverbot nach Satz 1 gilt nicht,
-sofern der Eingriff vor dem 1. September 2001 und in Übereinstimmung
-mit den Vorschriften des Tierschutzgesetzes in der zum Zeitpunkt des
-Eingriffs geltenden Fassung vorgenommen wurde.
+Rute, tierschutzwidrig vollständig oder teilweise amputiert wurden,
+auszustellen oder Ausstellungen solcher Hunde zu veranstalten. Das
+Ausstellungsverbot nach Satz 1 gilt nicht, sofern der Eingriff vor dem
+1\. September 2001 und in Übereinstimmung mit den Vorschriften des
+Tierschutzgesetzes in der zum Zeitpunkt des Eingriffs geltenden
+Fassung vorgenommen wurde.
 
 
 ## § 11 (weggefallen)
@@ -379,31 +377,15 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig entgegen §
 10 Satz 1 einen Hund ausstellt oder eine Ausstellung veranstaltet.
 
 
-## § 13 Übergangsvorschrift
-
-(1) Für Züchter, die eine Erlaubnis nach § 11 Abs. 1 Nr. 3 Buchstabe a
-des Tierschutzgesetzes am 14. Mai 2001 haben, gilt § 3 ab dem 1.
-September 2002.
-
-(2) Wer einen Hund am 14. Mai 2001 in einem Raum hält, der nicht der
-Anforderung des § 5 Abs. 1 Satz 1 entspricht, muss das Einhalten
-dieser Anforderung spätestens bis zum 1. September 2004 sicherstellen.
-
-(3) Abweichend von § 6 Abs. 1 in Verbindung mit Abs. 2 oder 3 Satz 5
-sowie Abs. 5 dürfen Hunde noch bis zum 31. August 2004 in Zwingern
-gehalten werden, die am 31. August 2001 bereits in Benutzung genommen
-worden sind und die die Anforderungen des § 4 Abs. 2 der Verordnung
-über das Halten von Hunden im Freien vom 6. Juni 1974 (BGBl. I S.
-1265), geändert durch Artikel 2 des Gesetzes vom 12. August 1986
-(BGBl. I S. 1309), erfüllen.
-
-(4) Abweichend von § 10 Satz 1 dürfen Hunde noch bis zum 1. Mai 2002
-ausgestellt werden.
+## § 13 (weggefallen)
 
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. September 2001 in Kraft.
+Diese Verordnung tritt am 1. September 2001 in Kraft. Gleichzeitig
+tritt die Verordnung über das Halten von Hunden im Freien vom 6. Juni
+1974 (BGBl. I S. 1265), geändert durch Artikel 2 Nr. 1 des Gesetzes
+vom 12. August 1986 (BGBl. I S. 1309), außer Kraft.
 
 
 ## Schlussformel

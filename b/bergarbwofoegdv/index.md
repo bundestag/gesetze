@@ -3,7 +3,7 @@ Title: Verordnung zur Durchführung des Gesetzes zur Förderung des Bergarbeiter
   im Kohlenbergbau
 jurabk: BergArbWoFöGDV
 layout: default
-origslug: bergarbwof_gdv
+origslug: bergarbwofoegdv
 slug: bergarbwofoegdv
 
 ---

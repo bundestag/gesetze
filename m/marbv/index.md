@@ -1,5 +1,6 @@
 ---
-Title: Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamte
+Title: Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte
+  des Bundes
 jurabk: MArbV
 layout: default
 origslug: marbv
@@ -7,7 +8,7 @@ slug: marbv
 
 ---
 
-# Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamte (MArbV)
+# Verordnung über die Gewährung von Mehrarbeitsvergütung für Beamtinnen und Beamte des Bundes (MArbV)
 
 Ausfertigungsdatum
 :   1972-04-26
@@ -16,10 +17,10 @@ Fundstelle
 :   BGBl I: 1972, 747
 
 Neugefasst durch
-:   Bek. v. 4.11.2009 I 3701
+:   Bek. v. 4.11.2009 I 3701;
 
 Zuletzt geändert durch
-:   Art. 10, 11 u. 12 G v. 15.8.2012 I 1670
+:   Art. 34 G v. 29.3.2017 I 626
 
 
 ## § 1
@@ -85,11 +86,11 @@ Mehrarbeit geleistet wird im Rahmen eines
 
 (3) Eine Mehrarbeitsvergütung wird nicht gewährt neben
 
-1.  (weggefallen)
+1.  einer Vergütung nach § 79 des Bundesbesoldungsgesetzes,
 
 
-2.  Auslandsdienstbezügen oder Auslandsverwendungszuschlag nach dem 5.
-    Abschnitt des Bundesbesoldungsgesetzes,
+2.  Auslandsdienstbezügen oder Auslandsverwendungszuschlag nach Abschnitt
+    5 des Bundesbesoldungsgesetzes,
 
 
 3.  einer Zulage nach Nummer 7 der Vorbemerkungen zu den
@@ -110,10 +111,11 @@ Mehrarbeit geleistet wird im Rahmen eines
 
 Beamtinnen und Beamte des Observations- und Ermittlungsdienstes, die
 überwiegend im Außendienst eingesetzt sind, erhalten eine
-Mehrarbeitsvergütung neben der in Nummer 3 oder 4 genannten Zulage. Im
-Übrigen erhalten Beamtinnen und Beamte der Besoldungsgruppen A 2 bis A
-8 neben den in Nummer 3, 4 oder 4a genannten Zulagen eine
-Mehrarbeitsvergütung in Höhe des die Zulage übersteigenden Betrages.
+Mehrarbeitsvergütung neben der in Satz 1 Nummer 3 oder 4 genannten
+Zulage. Im Übrigen erhalten Beamtinnen und Beamte der
+Besoldungsgruppen A 2 bis A 8 neben den in Satz 1 Nummer 3, 4 oder 4a
+genannten Zulagen eine Mehrarbeitsvergütung in Höhe des die Zulage
+übersteigenden Betrages.
 
 (4) Ist die Gewährung einer Mehrarbeitsvergütung neben einer Zulage
 ganz oder teilweise ausgeschlossen, gilt dies auch für eine nach
@@ -129,7 +131,7 @@ bis zur Hälfte aufgezehrt ist.
     Arbeitszeitregelungen gelten,
 
 
-2.  schriftlich angeordnet oder genehmigt wurde,
+2.  schriftlich oder elektronisch angeordnet oder genehmigt wurde,
 
 
 3.  aus zwingenden dienstlichen Gründen nicht durch Dienstbefreiung
@@ -158,27 +160,38 @@ Kalendermonat fällt, diesem zuzurechnen.
 
 ## § 4
 
-(1) Die Vergütung beträgt je Stunde bei Beamtinnen und Beamten in den
-Besoldungsgruppen
+(1) Die Vergütung beträgt je Stunde
 
-*    *   A 2 bis A 4
+*    *   1.
 
-    *   11,27 Euro,
+    *   in den Besoldungsgruppen
+        A 2 bis A 4
 
-
-*    *   A 5 bis A 8
-
-    *   13,32 Euro,
+    *   12,54 Euro,
 
 
-*    *   A 9 bis A 12
+*    *   2.
 
-    *   18,28 Euro,
+    *   in den Besoldungsgruppen
+        A 5 bis A 8
+
+    *   14,81 Euro,
 
 
-*    *   A 13 bis A 16
+*    *   3.
 
-    *   25,18 Euro.
+    *   in den Besoldungsgruppen
+        A 9 bis A 12
+
+    *   20,34 Euro,
+
+
+*    *   4.
+
+    *   in den Besoldungsgruppen
+        A 13 bis A 16
+
+    *   28,00 Euro.
 
 
 
@@ -194,14 +207,14 @@ Fachschulen des Bundes
 
     *   im gehobenen Dienst
 
-    *   25,02 Euro,
+    *   27,83 Euro,
 
 
 *    *   2.
 
     *   im höheren Dienst
 
-    *   29,23 Euro.
+    *   32,51 Euro.
 
 
 

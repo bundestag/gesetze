@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3680
 
-Geändert durch
-:   Art. 2 V v. 9.6.2011 I 1041
+Zuletzt geändert durch
+:   Art. 8 Abs. 8 G v. 17.7.2015 I 1245
 
 [^F772692_BJNR368000009]:     Diese Verordnung dient der Umsetzung des Artikels 15 Absatz 1 und 3
     der Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates
@@ -87,11 +87,11 @@ betroffenen Posten gemacht werden.
 
 (1) Als Wertpapiere sind auszuweisen:
 
-1.  Aktien, Zwischenscheine, Investmentanteile, Optionsscheine, Zins- und
-    Gewinnanteilscheine, börsenfähige Inhaber- und Ordergenussscheine,
-    börsenfähige Inhaberschuldverschreibungen, auch wenn sie vinkuliert
-    sind, unabhängig davon, ob sie in Wertpapierurkunden verbrieft oder
-    als Wertrechte ausgestaltet sind,
+1.  Aktien, Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+    Optionsscheine, Zins- und Gewinnanteilscheine, börsenfähige Inhaber-
+    und Ordergenussscheine, börsenfähige Inhaberschuldverschreibungen,
+    auch wenn sie vinkuliert sind, unabhängig davon, ob sie in
+    Wertpapierurkunden verbrieft oder als Wertrechte ausgestaltet sind,
 
 
 2.  börsenfähige Orderschuldverschreibungen, soweit sie Teile einer
@@ -275,10 +275,10 @@ auszuweisen:
     „Anteile an verbundenen Unternehmen“ auszuweisen sind,
 
 
-2.  Zwischenscheine, Investmentanteile, Optionsscheine,
-    Gewinnanteilscheine, als Inhaber- oder Orderpapiere ausgestaltete
-    börsenfähige Genussscheine sowie andere nicht festverzinsliche
-    Wertpapiere, soweit sie börsennotiert sind, und
+2.  Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+    Optionsscheine, Gewinnanteilscheine, als Inhaber- oder Orderpapiere
+    ausgestaltete börsenfähige Genussscheine sowie andere nicht
+    festverzinsliche Wertpapiere, soweit sie börsennotiert sind, und
 
 
 3.  vor Fälligkeit hereingenommene Gewinnanteilscheine.
@@ -526,9 +526,8 @@ werden. Eine teilweise Verrechnung ist nicht zulässig.
 ### § 28 Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 340a in Verbindung mit § 284
-Absatz 1, 2 Nummer 1, 2, 3
-und 5,              § 285 Nummer 3, 3a, 6, 7, 9 Buchstabe a
-und b,              Nummer 10, 11, 13, 14, 16 bis 26 und 29, § 340b
+Absatz 1, 2 Nummer 1, 2 und 4, § 285 Nummer 3, 3a, 7, 9 Buchstabe a
+und b, Nummer 10 bis 11b, 13 bis 26, 28 bis 30 und 32 bis 34, § 340b
 Absatz 4 Satz 4, § 340e Absatz 2 des Handelsgesetzbuchs und den in
 dieser Verordnung zu den einzelnen Posten der Bilanz oder der Gewinn-
 und Verlustrechnung vorgeschriebenen Angaben die in diesem Abschnitt
@@ -579,7 +578,7 @@ Institut im Sinn des § 1 Absatz 2a des
 Zahlungsdiensteaufsichtsgesetzes mindestens den fünften Teil der
 Anteile besitzt, einen erheblichen Nachteil zuzufügen.
 
-(3) Die in § 268 Absatz 2 des Handelsgesetzbuchs verlangten Angaben
+(3) Die in § 284 Absatz 3 des Handelsgesetzbuchs verlangten Angaben
 sind für Vermögensgegenstände im Sinn des § 340e Absatz 1 des
 Handelsgesetzbuchs zu machen. Die Zuschreibungen, Abschreibungen und
 Wertberichtigungen auf Beteiligungen, Anteile an verbundenen
@@ -889,18 +888,29 @@ die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz
 6 des Einführungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember
 2008 beginnen. Absatz 2 bleibt unberührt.
 
+(7) Die §§ 5 und 13 in der Fassung des AIFM-Umsetzungsgesetzes vom 4.
+Juli 2013 (BGBl. I S. 1981) sind erstmals auf Jahres- und
+Konzernabschlüsse für nach dem 21. Juli 2013 beginnende Geschäftsjahre
+anzuwenden.
+
+(8) § 28 Absatz 1 und 3 in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ist erstmals
+auf Jahres- und Konzernabschlüsse für nach dem 31. Dezember 2015
+beginnende Geschäftsjahre anzuwenden.
+
 
 ### § 34 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 31. Oktober 2009 in Kraft.
 
+(zu § 2)
 
-### Anlage 1 (zu § 2) Formblatt 1
+### Anlage 1 Formblatt 1
 
 (Fundstelle: BGBl. I 2009, 3687 - 3688;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
-**Jahresbilanz**              zum .........................
+**Jahresbilanz** zum .........................
 
 der .....................
 
@@ -2272,10 +2282,11 @@ der .....................
     *
 
 
+   (zu § 2)
 
-### Anlage 2 (zu § 2) Formblatt 2
+### Anlage 2 Formblatt 2
 
-   (Fundstelle: BGBl. I 2009, 3689 - 3691;
+(Fundstelle: BGBl. I 2009, 3689 - 3691;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Gewinn- und Verlustrechnung**

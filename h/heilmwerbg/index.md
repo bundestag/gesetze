@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.10.1994 I 3068;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 19.10.2012 I 2192
+:   Art. 12 G v. 20.12.2016 I 3048
 
 
 ## § 1
@@ -43,13 +43,21 @@ Zuletzt geändert durch
 
 
 (2) Andere Mittel im Sinne des Absatzes 1 Nr. 2 sind kosmetische
-Mittel im Sinne des § 2 Absatz 5 Satz 1 des Lebensmittel- und
-Futtermittelgesetzbuches. Gegenstände im Sinne des Absatzes 1 Nr. 2
-sind auch Gegenstände zur Körperpflege im Sinne des § 2 Absatz 6
-Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
+Mittel im Sinne des Artikels 2 Absatz 1 Buchstabe a der Verordnung
+(EG) Nr. 1223/2009 des Europäischen Parlaments und des Rates vom 30.
+November 2009 über kosmetische Mittel (ABl. L 342 vom 22.12.2009, S.
+59), die zuletzt durch die Verordnung (EU) 2015/1298 (ABl. L 199 vom
+29\.7.2015, S. 22) geändert worden ist. Gegenstände im Sinne des
+Absatzes 1 Nr. 2 sind auch Gegenstände zur Körperpflege im Sinne des §
+2 Absatz 6 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches.
 
 (3) Eine Werbung im Sinne dieses Gesetzes ist auch das Ankündigen oder
 Anbieten von Werbeaussagen, auf die dieses Gesetz Anwendung findet.
+
+(3a) Teleshopping im Sinne dieses Gesetzes ist die Sendung direkter
+Angebote an die Öffentlichkeit für den Absatz von Arzneimitteln gegen
+Entgelt oder die Erbringung von ärztlichen, zahnärztlichen und
+tierärztlichen Behandlungen und Verfahren gegen Entgelt.
 
 (4) Dieses Gesetz findet keine Anwendung auf die Werbung für
 Gegenstände zur Verhütung von Unfallschäden.
@@ -72,10 +80,11 @@ jeweiligen Arzneimittels notwendigen Angaben hinausgehen.
 (8) Das Gesetz findet ferner keine Anwendung auf die auf Anforderung
 einer Person erfolgende Übermittlung der nach den §§ 10 bis 11a des
 Arzneimittelgesetzes für Arzneimittel vorgeschriebenen vollständigen
-Informationen und des öffentlichen Beurteilungsberichts für
-Arzneimittel nach § 34 Absatz 1a Satz 1 Nummer 2 des
-Arzneimittelgesetzes und auf die Bereitstellung dieser Informationen
-im Internet.
+Informationen, des genehmigten und veröffentlichten Schulungsmaterials
+für Arzneimittel nach § 34 Absatz 1f des Arzneimittelgesetzes und des
+öffentlichen Beurteilungsberichts für Arzneimittel nach § 34 Absatz 1a
+Satz 1 Nummer 2 des Arzneimittelgesetzes und auf die Bereitstellung
+dieser Informationen im Internet.
 
 
 ## § 2
@@ -281,6 +290,9 @@ Angehöriger der Fachkreise anzunehmen, es sei denn, dass
     geringem Wert, die durch eine dauerhafte und deutlich sichtbare
     Bezeichnung des Werbenden oder des beworbenen Produktes oder beider
     gekennzeichnet sind, oder um geringwertige Kleinigkeiten handelt;
+    Zuwendungen oder Werbegaben sind für Arzneimittel unzulässig, soweit
+    sie entgegen den Preisvorschriften gewährt werden, die auf Grund des
+    Arzneimittelgesetzes gelten;
 
 
 2.  die Zuwendungen oder Werbegaben in
@@ -345,16 +357,17 @@ werben.
 
 ## § 8
 
-Unzulässig ist die Werbung, Arzneimittel im Wege des Teleshopping oder
-bestimmte Arzneimittel im Wege der Einzeleinfuhr nach § 73 Abs. 2 Nr.
-6a oder § 73 Abs. 3 des Arzneimittelgesetzes zu beziehen. Die
-Übersendung von Listen nicht zugelassener oder nicht registrierter
-Arzneimittel, deren Einfuhr aus einem anderen Mitgliedstaat oder aus
-einem anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum nur ausnahmsweise zulässig ist, an Apotheker oder
-Betreiber einer tierärztlichen Hausapotheke ist zulässig, soweit die
-Listen nur Informationen über die Bezeichnung, die Packungsgrößen, die
-Wirkstärke und den Preis dieses Arzneimittels enthalten.
+Das Teleshopping im Sinne des § 1 Absatz 3a sowie die Werbung für das
+Teleshopping sind unzulässig. Die Werbung für das Beziehen bestimmter
+Arzneimittel im Wege der Einzeleinfuhr nach § 73 Absatz 2 Nummer 6a
+oder Absatz 3 des Arzneimittelgesetzes ist unzulässig. Die Übersendung
+von Listen nicht zugelassener oder nicht registrierter Arzneimittel,
+deren Einfuhr aus einem anderen Mitgliedstaat oder aus einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum nur
+ausnahmsweise zulässig ist, an Apotheker oder Betreiber einer
+tierärztlichen Hausapotheke ist zulässig, soweit die Listen nur
+Informationen über die Bezeichnung, die Packungsgrößen, die Wirkstärke
+und den Preis dieses Arzneimittels enthalten.
 
 
 ## § 9
@@ -375,7 +388,8 @@ Arzneimitteln erlaubterweise Handel treiben, geworben werden.
 Abhängigkeit enthalten und die dazu bestimmt sind, bei Menschen die
 Schlaflosigkeit oder psychische Störungen zu beseitigen oder die
 Stimmungslage zu beeinflussen, darf außerhalb der Fachkreise nicht
-geworben werden.
+geworben werden. Dies gilt auch für Arzneimittel, die zur
+Notfallkontrazeption zugelassen sind.
 
 
 ## § 11
@@ -527,7 +541,8 @@ mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.
     sonstige Werbegabe annimmt,
 
 
-5.  entgegen § 8 eine dort genannte Werbung betreibt,
+5.  entgegen § 8 Satz 1 oder Satz 2 Teleshopping oder eine dort genannte
+    Werbung betreibt,
 
 
 6.  entgegen § 9 für eine Fernbehandlung wirbt,
@@ -573,8 +588,9 @@ Das Gesetz gegen den unlauteren Wettbewerb bleibt unberührt.
 
 (weggefallen)
 
+(zu § 12)
 
-## Anlage (zu § 12) Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
+## Anlage Krankheiten und Leiden, auf die sich die Werbung gemäß § 12 nicht beziehen darf
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2599
 

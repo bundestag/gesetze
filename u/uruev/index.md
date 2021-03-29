@@ -2,7 +2,7 @@
 Title: Verordnung zum Vermögensgesetz über die Rückgabe von Unternehmen
 jurabk: URüV
 layout: default
-origslug: ur_v
+origslug: uruev
 slug: uruev
 
 ---

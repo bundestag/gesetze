@@ -2,7 +2,7 @@
 Title: Verordnung zur Änderung der Lebensmittel-Kennzeichnungsverordnung und der Bierverordnung
 jurabk: LMKV/BierVÄndV
 layout: default
-origslug: lmkv_bierv_ndv
+origslug: lmkv_biervaendv
 slug: lmkv_biervaendv
 
 ---

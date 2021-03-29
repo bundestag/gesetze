@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1714
 
+Zuletzt geändert durch
+:   Art. 1 V v. 7.7.2017 I 2294
+
 
 ## Eingangsformel
 
@@ -94,15 +97,14 @@ je Beschäftigtem aus dem Anteil
 
 
 
+Das Vollzeitäquivalent ist auf die vierte Nachkommastelle zu runden.
 
 
 ## § 5 Personalkosten
 
-(1) Personalkosten sind die Aufwendungen für Bezüge des gesamten in
-der gemeinsamen Einrichtung eingesetzten Personals. Zum Personal
-gehören auch die zu ihrer Ausbildung Beschäftigten, soweit sie im
-Bereich der Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
-Sozialgesetzbuch eingesetzt sind.
+(1) Personalkosten sind die Aufwendungen für Bezüge der Beamtinnen und
+Beamten sowie Arbeitnehmerinnen und Arbeitnehmer, denen Tätigkeiten in
+den gemeinsamen Einrichtungen zugewiesen sind.
 
 (2) Bezüge sind alle nach besoldungsrechtlichen und tarifvertraglichen
 sowie vergleichbaren außertariflichen Regelungen laufend gezahlten
@@ -136,9 +138,8 @@ Arbeitnehmerinnen und Arbeitnehmer. Dazu gehören insbesondere:
 ## § 6 Personalnebenkosten
 
 Personalnebenkosten sind die über die Personalkosten hinausgehenden
-Aufwendungen für aktive Beamtinnen und Beamte, Arbeitnehmerinnen und
-Arbeitnehmer sowie für die zu ihrer Ausbildung Beschäftigten,
-insbesondere für
+Aufwendungen für aktive Beamtinnen und Beamte sowie für
+Arbeitnehmerinnen und Arbeitnehmer, insbesondere für
 
 1.  die Beihilfen und Beihilfeumlagen,
 
@@ -155,13 +156,10 @@ insbesondere für
 5.  das Trennungsgeld,
 
 
-6.  die Fahrkostenzuschüsse,
+6.  die Fahrkostenzuschüsse sowie
 
 
-7.  die Umzugskostenvergütungen sowie
-
-
-8.  die Fortbildungsmaßnahmen.
+7.  die Umzugskostenvergütungen.
 
 
 
@@ -169,17 +167,19 @@ insbesondere für
 
 ## § 7 Versorgungsaufwendungen für Beamtinnen und Beamte
 
-Versorgungsaufwendungen sind die durch das Dienstverhältnis der im
-Haushaltsjahr in der gemeinsamen Einrichtung eingesetzten Beamtinnen
-und Beamten bedingten kalkulatorischen Kosten für künftige
-Versorgungsleistungen und Beihilfen.
+Versorgungsaufwendungen sind die durch das Dienstverhältnis bedingten
+kalkulatorischen Kosten für künftige Versorgungsleistungen und
+Beihilfen für die Beamtinnen und Beamten, denen im Haushaltsjahr
+Tätigkeiten in den gemeinsamen Einrichtungen zugewiesen sind.
 
 
 ## § 8 Kosten der Personalverwaltung
 
 Kosten der Personalverwaltung sind die Aufwendungen der Träger zur
 Erfüllung ihrer Pflichten als Arbeitgeber und Dienstherr der
-Beschäftigten in der gemeinsamen Einrichtung.
+Beschäftigten in der gemeinsamen Einrichtung. Aufwendungen der Träger
+für die zu ihrer Ausbildung Beschäftigten sind Kosten der
+Personalverwaltung.
 
 
 ## § 9 Sachkosten
@@ -273,12 +273,9 @@ folgenden Monats nachgewiesen werden.
 
 (1) Personalkosten nach § 5 werden in tatsächlicher Höhe anerkannt.
 Die Personalkosten sind aufgegliedert nach Besoldungs- und
-Vergütungsgruppen mit den entsprechenden Vollzeitäquivalenten
-nachzuweisen. Dabei können die auf die jeweilige Besoldungs- und
-Vergütungsgruppe anfallenden jahresdurchschnittlichen Personalkosten
-der Träger für den Abrechnungsmonat anerkannt werden. Die Ermittlung
-der Durchschnittskostensätze ist bei Bedarf für eine Prüfung
-nachzuweisen.
+Vergütungsgruppen nachzuweisen. Umlagebestandteile sind entsprechend
+ihrem jeweiligen Anteil für jede Beschäftigte und jeden Beschäftigten
+zu berücksichtigen.
 
 (2) Für Beschäftigte, die Altersteilzeitarbeit im Sinne des
 Altersteilzeitgesetzes leisten, werden als Personalkosten nach § 5 die
@@ -294,26 +291,25 @@ Personalkosten während der Freistellungsphase werden nicht anerkannt.
 
 ## § 15 Bestimmung der Personalnebenkosten
 
-Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt.
-Für Personalnebenkosten nach § 6 Nummer 1 bis 7 können die
-jahresdurchschnittlichen Personalnebenkosten der Träger für den
-Abrechnungsmonat anerkannt werden. Die Ermittlung der
-Durchschnittskostensätze ist bei Bedarf für eine Prüfung nachzuweisen.
+Personalnebenkosten nach § 6 werden in tatsächlicher Höhe anerkannt. §
+14 Absatz 1 Satz 3 gilt entsprechend.
 
 
 ## § 16 Versorgungsaufwendungen für Beamtinnen und Beamte
 
 Für Versorgungsaufwendungen nach § 7 wird ein Zuschlag von bis zu 30
 Prozent der nach § 14 bestimmten Personalkosten für Beamtinnen und
-Beamte anerkannt.
+Beamte anerkannt. Abweichend von Satz 1 gilt vom 1. Januar 2015 bis
+31\. Dezember 2018 ein Zuschlag von bis zu 35 Prozent.
 
 
 ## § 17 Bestimmung der Kosten für die Personalverwaltung
 
 Für Kosten der Personalverwaltung nach § 8 wird ein Zuschlag von bis
-zu 2 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um die
-Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung nach §
-5 Absatz 2 Satz 2 Nummer 7 geminderten Personalkosten anerkannt.
+zu 2,2 Prozent der nach § 14 vom jeweiligen Träger bestimmten und um
+die Arbeitgeberanteile zur Sozialversicherung und Zusatzversorgung
+nach § 5 Absatz 2 Satz 2 Nummer 7 geminderten Personalkosten
+anerkannt.
 
 
 ## § 18 Bestimmung der Sachkosten und der Kosten für Amtshilfe und Arbeitnehmerüberlassung
@@ -346,14 +342,15 @@ veröffentlichen.
 
 ## § 21 Monitoring
 
-Das Bundesministerium für Arbeit und Soziales wird erstmals auf Basis
-des Haushaltsjahres 2012 unter Beteiligung der Länder einen Bericht
-zur Umsetzung der Regelungen dieser Verordnung vorlegen.
+Das Bundesministerium für Arbeit und Soziales legt anlassbezogen unter
+Beteiligung der Länder einen Bericht zur Umsetzung der Regelungen
+dieser Verordnung vor.
 
 
-## § 22 Inkrafttreten
+## § 22 Außerkrafttreten
 
-Diese Verordnung tritt am 1. Januar 2012 in Kraft.
+§ 14 Absatz 1 Satz 4 und 5 sowie § 15 Satz 3 und 4 treten am 31.
+Dezember 2015 außer Kraft.
 
 
 ## Schlussformel

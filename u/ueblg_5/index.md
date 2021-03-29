@@ -3,7 +3,7 @@ Title: Gesetz zur Überleitung von Lasten und Deckungsmitteln vom Saarland auf d
   Bund
 jurabk: ÜblG 5
 layout: default
-origslug: _blg_5
+origslug: ueblg_5
 slug: ueblg_5
 
 ---
@@ -23,8 +23,8 @@ Fundstelle
 Das Erste Gesetz zur Überleitung von Lasten und Deckungsmitteln auf
 den Bund (Erstes Überleitungsgesetz)
 in der Fassung der Bekanntmachung vom 28. April 1955 (Bundesgesetzbl.
-I S. 193)              tritt im Saarland am 1. Januar 1960 mit den
-nachstehenden Änderungen in Kraft:
+I S. 193) tritt im Saarland am 1. Januar 1960 mit den nachstehenden
+Änderungen in Kraft:
 
 1.  § 1 Abs. 1 Ziff. 1, 2 und 7, die §§ 3, 5, 6, 18 bis 20 finden im
     Saarland keine Anwendung.
@@ -64,10 +64,10 @@ nachstehenden Änderungen in Kraft:
         knappschaftliche Krankenversicherung
         (§ 15 des Sozialversicherungs-Anpassungsgesetzes vom 17. Juni 1949 -
         WiGBl. S. 99 - und § 5 Abs. 3 des Knappschaftsversicherungs-
-        Anpassungsgesetzes vom 30. Juli 1949 - WiGBl. S. 202)
-        nach § 1 des saarländischen Gesetzes über die Gewährung eines
-        Zuschusses zur knappschaftlichen Krankenversicherung aus Mitteln des
-        Saarlandes vom 14. April 1959;
+        Anpassungsgesetzes vom 30. Juli 1949 - WiGBl. S. 202) nach § 1 des
+        saarländischen Gesetzes über die Gewährung eines Zuschusses zur
+        knappschaftlichen Krankenversicherung aus Mitteln des Saarlandes vom
+        14\. April 1959;
 
 
     3.  Erstattung der Mehrausgaben der Träger der Krankenversicherung im

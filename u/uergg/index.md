@@ -186,9 +186,9 @@ sind von der Umwandlung ausgeschlossen.
 Soweit Gutschriften oder Wiedergutschriften in Reichsmark zu
 vollziehen gewesen wären, dürfen sie noch vorgenommen werden. Hierzu
 bedarf es der Zustimmung des für das Bankwesen zuständigen
-Berliner Senators (Berliner Bankaufsichtsbehörde),              es sei
-denn, daß eine rechtskräftige Gerichtsentscheidung vorliegt. Die
-Gutschrift ist mit Wirkung vom 8. Mai 1945 vorzunehmen.
+Berliner Senators (Berliner Bankaufsichtsbehörde), es sei denn, daß
+eine rechtskräftige Gerichtsentscheidung vorliegt. Die Gutschrift ist
+mit Wirkung vom 8. Mai 1945 vorzunehmen.
 
 
 ### § 10
@@ -301,7 +301,7 @@ April 1945 oder eines späteren Zeitpunktes hervorgehen.
 bezeichneten Unterlagen oder hat die Verwaltungsstelle Zweifel, ob die
 Voraussetzungen der Umwandlung gegeben sind, so darf sie die
 Umwandlungsfähigkeit des Uraltguthabens nur mit Zustimmung der
-Berliner Bankaufsichtsbehörde              anerkennen.
+Berliner Bankaufsichtsbehörde anerkennen.
 
 
 ### § 17
@@ -316,7 +316,7 @@ anerkennen, wenn die Voraussetzungen des § 1 Abs. 1 in der Person
 desjenigen gegeben sind, der die Umwandlung beansprucht. Für
 Uraltguthaben von mehr als fünftausend Reichsmark gilt das gleiche,
 wenn die
-Berliner Bankaufsichtsbehörde              zustimmt.
+Berliner Bankaufsichtsbehörde zustimmt.
 
 
 ### § 18
@@ -332,9 +332,9 @@ Inhabers, die der Verwaltungsstelle bekannt sind, zu vermerken.
 ### § 19
 
 (1) Die
-Berliner Bankaufsichtsbehörde              überwacht die Anerkennung
-der Umwandlungsfähigkeit von Uraltguthaben. Die Anerkennung bedarf
-ihrer Bestätigung.
+Berliner Bankaufsichtsbehörde überwacht die Anerkennung der
+Umwandlungsfähigkeit von Uraltguthaben. Die Anerkennung bedarf ihrer
+Bestätigung.
 
 (2) Durch die Überwachung und Bestätigung der Anerkennung wird die
 Verantwortlichkeit der Verwaltungsstelle des Alten Instituts nicht
@@ -364,8 +364,8 @@ Institut noch nicht zum Neugeschäft zugelassen ist.
 teilweise anerkannt, so hat die Verwaltungsstelle des Alten Instituts
 dies dem Anmelder durch eingeschriebenen Brief oder gegen
 Empfangsbescheinigung unter Angabe der Gründe mitzuteilen. Der
-Berliner Bankaufsichtsbehörde              und dem Neuen Institut ist
-eine Abschrift dieser Mitteilung zu übersenden.
+Berliner Bankaufsichtsbehörde und dem Neuen Institut ist eine
+Abschrift dieser Mitteilung zu übersenden.
 
 (2) Der Anmelder kann binnen sechs Monaten nach Zugang der in Absatz 1
 bezeichneten Mitteilung gerichtliche Entscheidung beantragen; hierüber
@@ -377,7 +377,7 @@ ist er in der Mitteilung zu belehren.
 (1) Über den Antrag nach § 21 Abs. 2 entscheidet eine Zivilkammer des
 Landgerichts Berlin. Der Bund ist am Verfahren beteiligt;
 Entscheidungen sind dem Bundesminister der Finanzen zu Händen der
-Berliner Bankaufsichtsbehörde              zuzustellen.
+Berliner Bankaufsichtsbehörde zuzustellen.
 
 (2) Für das gerichtliche Verfahren gelten die Vorschriften des
 Gesetzes über das Verfahren in Familiensachen und in den
@@ -421,7 +421,7 @@ Welche Beteiligten die Kosten zu tragen haben, bestimmt das Gericht
 nach billigem Ermessen. Es kann dabei auch bestimmen, daß die
 außergerichtlichen Kosten ganz oder teilweise zu erstatten sind. Die
 Vorschriften der §§
-102              bis 107 der Zivilprozeßordnung gelten entsprechend.
+102 bis 107 der Zivilprozeßordnung gelten entsprechend.
 
 
 ### § 27
@@ -485,16 +485,16 @@ Vergütung von zwei Deutschen Mark, es sei denn, daß das Neue Institut
 gleichzeitig Altes Institut ist.
 
 (3) Anträge auf Zahlung von Vergütungen gemäß Absatz 2 sind an die
-Berliner Bankaufsichtsbehörde              zu richten. Sie können
-erstmals sechs Monate nach Inkrafttreten des Gesetzes, im übrigen
-jeweils nach Ablauf von weiteren sechs Monaten gestellt werden. Dem
-Antrag ist eine Nachweisung beizufügen. Das Neue Institut hat in der
-Nachweisung zu erklären, daß für die in ihr erfaßten Guthaben
-Gutschrift in Deutscher Mark gemäß § 29 erfolgt ist.
+Berliner Bankaufsichtsbehörde zu richten. Sie können erstmals sechs
+Monate nach Inkrafttreten des Gesetzes, im übrigen jeweils nach Ablauf
+von weiteren sechs Monaten gestellt werden. Dem Antrag ist eine
+Nachweisung beizufügen. Das Neue Institut hat in der Nachweisung zu
+erklären, daß für die in ihr erfaßten Guthaben Gutschrift in Deutscher
+Mark gemäß § 29 erfolgt ist.
 
 (4) Die
-Berliner Bankaufsichtsbehörde              überprüft die Anträge und
-die Nachweisungen an Hand ihrer Unterlagen und stellt den Anspruch auf
+Berliner Bankaufsichtsbehörde überprüft die Anträge und die
+Nachweisungen an Hand ihrer Unterlagen und stellt den Anspruch auf
 Vergütung fest. Die Feststellungen sind mit den Anträgen und
 Nachweisungen an den Bundesminister der Finanzen weiterzuleiten.
 
@@ -506,11 +506,10 @@ Liquiditätsausstattung von 15 vom Hundert gewährt.
 
 (2) Die Liquiditätsausstattung ist dem Neuen Institut von der
 zuständigen
-Landeszentralbank (Berliner Zentralbank)              jeweils für die
-in einem Monat gutgeschriebenen Neugeldguthaben zu gewähren. Der
-Landeszentralbank (Berliner Zentralbank)              ist von der
-Bank Deutscher Länder              ein entsprechender Betrag
-gutzuschreiben.
+Landeszentralbank (Berliner Zentralbank) jeweils für die in einem
+Monat gutgeschriebenen Neugeldguthaben zu gewähren. Der
+Landeszentralbank (Berliner Zentralbank) ist von der
+Bank Deutscher Länder ein entsprechender Betrag gutzuschreiben.
 
 
 ### § 33
@@ -520,8 +519,7 @@ Ausgleichsforderungen.
 
 (2) Die Ausgleichsforderungen sind in Höhe der Liquiditätsausstattung
 der
-Bank deutscher Länder              und im übrigen den Neuen Instituten
-zu gewähren.
+Bank deutscher Länder und im übrigen den Neuen Instituten zu gewähren.
 
 (3) Das Neue Institut hat die ihm gewährte Liquiditätsausstattung und
 die ihm gewährte Ausgleichsforderung zurückzuerstatten, wenn die
@@ -535,34 +533,33 @@ Verschulden.
 ### § 34
 
 (1) Anträge auf Gewährung von Ausgleichsforderungen sind an die
-Berliner Bankaufsichtsbehörde              zu richten. Sie können
-erstmals sechs Monate nach Inkrafttreten des Gesetzes, im übrigen
-jeweils nach Ablauf von weiteren sechs Monaten gestellt werden. Dem
-Antrag ist eine Nachweisung über die Neugeldguthaben beizufügen, für
-welche die Gewährung einer Ausgleichsforderung beantragt wird. Das
-Neue Institut hat zu erklären, daß für die in der Nachweisung
-aufgeführten Neugeldguthaben Gutschrift erteilt ist.
+Berliner Bankaufsichtsbehörde zu richten. Sie können erstmals sechs
+Monate nach Inkrafttreten des Gesetzes, im übrigen jeweils nach Ablauf
+von weiteren sechs Monaten gestellt werden. Dem Antrag ist eine
+Nachweisung über die Neugeldguthaben beizufügen, für welche die
+Gewährung einer Ausgleichsforderung beantragt wird. Das Neue Institut
+hat zu erklären, daß für die in der Nachweisung aufgeführten
+Neugeldguthaben Gutschrift erteilt ist.
 
 (2) Wird die Eintragung der Ausgleichsforderung auf den Namen einer
 Girozentrale oder Zentralkasse beantragt, so ist die Nachweisung von
 dem Neuen Institut der
-Berliner Bankaufsichtsbehörde              über die Girozentrale oder
-Zentralkasse zuzuleiten. Die Girozentrale oder die Zentralkasse faßt
-die Anträge und Nachweisungen der angeschlossenen Institute zusammen
-und leitet sie mit einem Antrag auf Eintragung der Ausgleichsforderung
-auf ihren Namen an die Berliner Bankaufsichtsbehörde weiter.
+Berliner Bankaufsichtsbehörde über die Girozentrale oder Zentralkasse
+zuzuleiten. Die Girozentrale oder die Zentralkasse faßt die Anträge
+und Nachweisungen der angeschlossenen Institute zusammen und leitet
+sie mit einem Antrag auf Eintragung der Ausgleichsforderung auf ihren
+Namen an die Berliner Bankaufsichtsbehörde weiter.
 
 (3) Die
-Berliner Bankaufsichtsbehörde              überprüft die Anträge und
-die Nachweisungen an Hand ihrer Unterlagen und stellt den Anspruch auf
+Berliner Bankaufsichtsbehörde überprüft die Anträge und die
+Nachweisungen an Hand ihrer Unterlagen und stellt den Anspruch auf
 Gewährung der Ausgleichsforderungen fest. Die Feststellungen sind mit
 den Anträgen und Nachweisungen an den Bundesminister der Finanzen
 weiterzuleiten.
 
 (4) Den Anspruch auf Gewährung der Ausgleichsforderungen an die Post
 und an die
-Bank deutscher Länder              stellt der Bundesminister der
-Finanzen fest.
+Bank deutscher Länder stellt der Bundesminister der Finanzen fest.
 
 
 ### § 35
@@ -585,10 +582,10 @@ Durchführungsverordnung zum Umstellungsgesetz anzuwenden.
 3 vom Hundert zu verzinsen. Ausgleichsforderungen der Deutschen
 Bundesbank gegen den Bund sind vom 1. Januar 1983 an mit jährlich 1
 vom Hundert zu verzinsen. Die
-Bank deutscher Länder              hat von den Zinserträgen, die sie
-für ihr zu gewährende Ausgleichsforderungen erhält, den Anteil an das
-Neue Institut zu zahlen, der auf die Zeit zwischen dem 1. Januar 1953
-und dem Zeitpunkt der Gewährung der Liquiditätsausstattung entfällt.
+Bank deutscher Länder hat von den Zinserträgen, die sie für ihr zu
+gewährende Ausgleichsforderungen erhält, den Anteil an das Neue
+Institut zu zahlen, der auf die Zeit zwischen dem 1. Januar 1953 und
+dem Zeitpunkt der Gewährung der Liquiditätsausstattung entfällt.
 
 (2) Die Zinsen sind nach Eintragung der Ausgleichsforderung am Ende
 eines jeden Kalenderhalbjahres, erstmals am Ende des bei Eintragung
@@ -920,17 +917,17 @@ a)  die Altbank zum Neugeschäft zugelassen ist oder zum Neugeschäft
 
 
 b)  die
-    Berliner Bankaufsichtsbehörde                    im Einvernehmen mit
-    dem Bundesminister der Finanzen nach Anhörung der
-    Berliner Zentralbank                    ein allgemeinwirtschaftliches
-    Bedürfnis für die Ausübung des Neugeschäfts anerkennt.
+    Berliner Bankaufsichtsbehörde im Einvernehmen mit dem Bundesminister
+    der Finanzen nach Anhörung der
+    Berliner Zentralbank ein allgemeinwirtschaftliches Bedürfnis für die
+    Ausübung des Neugeschäfts anerkennt.
 
 
 
 
 (6) Die
-Berliner Bankaufsichtsbehörde              soll im Einvernehmen mit
-dem Bundesminister der Finanzen zulassen, daß die Beschränkungen des
+Berliner Bankaufsichtsbehörde soll im Einvernehmen mit dem
+Bundesminister der Finanzen zulassen, daß die Beschränkungen des
 Absatzes 5 insoweit keine Anwendung finden, als
 
 a)  der Altbank durch die Wertpapierbereinigung für Wertpapierarten mit
@@ -951,9 +948,8 @@ b)  nachgewiesen wird, daß die durch eigene Erträge der Altbank nicht
     zur Wertpapierbereinigung über den Betrag von einer Million Deutsche
     Mark hinausgehen. Die Voraussetzungen des Satzes 1 werden durch
     Bestätigung eines von der Altbank im Einvernehmen mit der
-    Berliner Bankaufsichtsbehörde                    und dem
-    Bundesminister der Finanzen zu beauftragenden Wirtschaftsprüfers
-    nachgewiesen.
+    Berliner Bankaufsichtsbehörde und dem Bundesminister der Finanzen zu
+    beauftragenden Wirtschaftsprüfers nachgewiesen.
 
 
 
@@ -1033,11 +1029,11 @@ Umstellungsgesetz als verlagert anerkannte Niederlassung.
 
 (6) Der Betrag des früheren Eigenkapitals nach Maßgabe der Absätze 1
 bis 5 wird durch die
-Berliner Bankaufsichtsbehörde              nach Anhörung der
-Berliner Zentralbank              festgestellt. Die
-Berliner Bankaufsichtsbehörde              kann im Einvernehmen mit
-dem Bundesminister der Finanzen das frühere Eigenkapital abweichend
-von den Vorschriften der Absätze 1 bis 4 feststellen, wenn dies durch
+Berliner Bankaufsichtsbehörde nach Anhörung der
+Berliner Zentralbank festgestellt. Die
+Berliner Bankaufsichtsbehörde kann im Einvernehmen mit dem
+Bundesminister der Finanzen das frühere Eigenkapital abweichend von
+den Vorschriften der Absätze 1 bis 4 feststellen, wenn dies durch
 besondere Umstände gerechtfertigt ist.
 
 
@@ -1088,10 +1084,10 @@ verwandt werden.
 
 Der Anspruch auf Gewährung der Ausgleichsforderung gemäß § 45 wird auf
 Grund der bestätigten Altbankenrechnung von der
-Berliner Bankaufsichtsbehörde              festgestellt. Wird die
-Altbankenrechnung berichtigt, so ist auch die nach Satz 1 getroffene
-Feststellung zu berichtigen. Die Feststellung und eine etwaige
-Berichtigung sind dem Bundesminister der Finanzen mitzuteilen.
+Berliner Bankaufsichtsbehörde festgestellt. Wird die Altbankenrechnung
+berichtigt, so ist auch die nach Satz 1 getroffene Feststellung zu
+berichtigen. Die Feststellung und eine etwaige Berichtigung sind dem
+Bundesminister der Finanzen mitzuteilen.
 
 
 ### § 50
@@ -1149,7 +1145,7 @@ Ausgleichsforderungen erhält, hat ihre Rechte aus Ansprüchen der in §
 14 des Umstellungsgesetzes bezeichneten Art auf den Bund zu
 übertragen, soweit nicht bereits eine Übertragung gemäß § 11 Abs. 1
 Satz
-3              des Umstellungsgesetzes auf ein Land erforderlich ist.
+3 des Umstellungsgesetzes auf ein Land erforderlich ist.
 
 
 ### § 54

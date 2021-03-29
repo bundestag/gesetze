@@ -34,10 +34,10 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
         das Siebente Gesetz zur Änderung beamtenrechtlicher und
         besoldungsrechtlicher Vorschriften (Dienstrechtlicher Teil des
         Familienlastenausgleichs) vom 20. Dezember 1974 (Bundesgesetzbl. I S.
-        3716)                          Disziplinarentscheidungen der obersten
-        Dienstbehörde mit dem Zusatz "Im Auftrag" zu unterzeichnen, soweit es
-        sich um Beamte der Besoldungsgruppen 1 bis 15 der Besoldungsordnung A
-        des Bundesbesoldungsgesetzes handelt;
+        3716) Disziplinarentscheidungen der obersten Dienstbehörde mit dem
+        Zusatz "Im Auftrag" zu unterzeichnen, soweit es sich um Beamte der
+        Besoldungsgruppen 1 bis 15 der Besoldungsordnung A des
+        Bundesbesoldungsgesetzes handelt;
 
 
 
@@ -59,14 +59,14 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
 
     *   nach § 46 Abs. 2 des Bundesbeamtengesetzes (BBG) in der Fassung der
         Bekanntmachung vom
-        17\. Juli 1971                          (Bundesgesetzbl. I S.
-        1181),                          zuletzt geändert durch
+        17\. Juli 1971 (Bundesgesetzbl. I S.
+        1181), zuletzt geändert durch
         das Gesetz zur Verbesserung der Haushaltsstruktur
         (Haushaltsstrukturgesetz - HStruktG) vom 18. Dezember 1975
-        (Bundesgesetzbl. I S. 3091),                          im Einvernehmen
-        mit dem Bundesminister des Innern die Befugnis, einen Beamten auf
-        Probe des einfachen, mittleren oder gehobenen Dienstes in den
-        Ruhestand zu versetzen, sofern der Beamte auf Probe
+        (Bundesgesetzbl. I S. 3091), im Einvernehmen mit dem Bundesminister
+        des Innern die Befugnis, einen Beamten auf Probe des einfachen,
+        mittleren oder gehobenen Dienstes in den Ruhestand zu versetzen,
+        sofern der Beamte auf Probe
 
         1.  eine ruhegehaltfähige Dienstzeit von zehn Jahren abgeleistet,
 
@@ -109,13 +109,12 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
     d)  nach § 126 Abs. 3 Nr. 2 des Rahmengesetzes zur Vereinheitlichung des
         Beamtenrechts (Beamtenrechtsrahmengesetz - BRRG) in der Fassung der
         Bekanntmachung vom
-        17\. Juli 1971                          (Bundesgesetzbl. I S.
-        1025),                          zuletzt geändert durch
-        das HStruktG,                          über den Widerspruch eines
-        Beamten, Ruhestandsbeamten, früheren Beamten oder eines
-        Hinterbliebenen gegen den Erlaß oder die Ablehnung eines
-        Verwaltungsaktes zu entscheiden, soweit diese Behörden oder ihnen
-        nachgeordnete Stellen zum Erlaß oder zur Ablehnung des
+        17\. Juli 1971 (Bundesgesetzbl. I S.
+        1025), zuletzt geändert durch
+        das HStruktG, über den Widerspruch eines Beamten, Ruhestandsbeamten,
+        früheren Beamten oder eines Hinterbliebenen gegen den Erlaß oder die
+        Ablehnung eines Verwaltungsaktes zu entscheiden, soweit diese Behörden
+        oder ihnen nachgeordnete Stellen zum Erlaß oder zur Ablehnung des
         Verwaltungsaktes zuständig waren,
 
 
@@ -133,8 +132,8 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
         (Bundesgesetzbl. I S. 1173), zuletzt geändert durch
         das Gesetz zur Änderung von Bezeichnungen der Richter und
         ehrenamtlichen Richter vom 22. Dezember 1975 (Bundesgesetzbl. I S.
-        3176),                          die Befugnis, den dienstlichen
-        Wohnsitz nach § 15 Abs. 2 Satz 1 BBesG anzuweisen,
+        3176), die Befugnis, den dienstlichen Wohnsitz nach § 15 Abs. 2 Satz 1
+        BBesG anzuweisen,
 
 
     g)  nach § 8 Abs. 1 der Verordnung über die Gewährung von
@@ -143,17 +142,17 @@ Dienstvorgesetzten - je für ihren Geschäftsbereich -:
         geändert durch
         die Zweite Verordnung zur Änderung der Verordnung über die Gewährung
         von Jubiläumszuwendungen an Beamte und Richter des Bundes vom 12. Mai
-        1967 (Bundesgesetzblatt I S. 537),                          die
-        Befugnis, Beamten Jubiläumszuwendungen zu gewähren oder zu versagen,
+        1967 (Bundesgesetzblatt I S. 537), die Befugnis, Beamten
+        Jubiläumszuwendungen zu gewähren oder zu versagen,
 
 
     h)  nach § 6 Abs. 3 der Bundeslaufbahnverordnung vom
-        27\. April 1970                          (Bundesgesetzbl. I S.
-        422),                          geändert durch
+        27\. April 1970 (Bundesgesetzbl. I S.
+        422), geändert durch
         die Änderungsverordnung vom 14. September 1972 (Bundesgesetzblatt I S.
-        1765),                          beim Laufbahnwechsel eines Beamten des
-        einfachen, mittleren oder gehobenen Dienstes über die Anerkennung der
-        Befähigung für die neue Laufbahn zu entscheiden;
+        1765), beim Laufbahnwechsel eines Beamten des einfachen, mittleren
+        oder gehobenen Dienstes über die Anerkennung der Befähigung für die
+        neue Laufbahn zu entscheiden;
 
 
 
@@ -179,8 +178,7 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
         Rechtsverhältnisse der unter Artikel 131 des Grundgesetzes fallenden
         Personen (G 131) in der Fassung der Bekanntmachung vom 13. Oktober
         1965 (Bundesgesetzbl. I S. 1685), zuletzt geändert durch
-        das 2. BesVNG,                          die Anerkennung als Aussiedler
-        auszusprechen,
+        das 2. BesVNG, die Anerkennung als Aussiedler auszusprechen,
 
 
     b)  nach § 4 Abs. 2 G 131 Personen den in § 4 Abs. 1 Satz 1 Nr. 1 G 131
@@ -202,8 +200,7 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
     a)  nach § 9 Abs. 5 des Bundesreisekostengesetzes (BRKG) in der Fassung
         der Bekanntmachung vom 13. November 1973 (Bundesgesetzbl. I S. 1621),
         zuletzt geändert durch
-        das HStruktG,                          Zuschüsse zum Tagegeld zu
-        bewilligen,
+        das HStruktG, Zuschüsse zum Tagegeld zu bewilligen,
 
 
     b)  nach § 11 Abs. 2 BRKG das Tage- und Übernachtungsgeld (§§ 9, 10) in
@@ -219,9 +216,8 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
         Fassung der Bekanntmachung vom 13. November 1973 (Bundesgesetzbl. I S.
         1628), zuletzt geändert durch
         das Siebente Gesetz zur Änderung beamtenrechtlicher und
-        besoldungsrechtlicher Vorschriften,                          die
-        Umzugskostenvergütung aus Anlaß der Räumung einer Dienstwohnung des
-        Bundes zuzusagen,
+        besoldungsrechtlicher Vorschriften, die Umzugskostenvergütung aus
+        Anlaß der Räumung einer Dienstwohnung des Bundes zuzusagen,
 
 
     e)  nach § 2 Abs. 3 Nr. 3 BUKG die Umzugskostenvergütung aus Anlaß der
@@ -230,11 +226,11 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
 
 
     f)  nach §
-        8                          Abs.
-        6                          der Trennungsgeldverordnung (TGV) vom
-        22\. November 1973                          (Bundesgesetzbl. I S.
-        1715)                          das Trennungsgeld bei Zusage der
-        Umzugskostenvergütung zu genehmigen,
+        8 Abs.
+        6 der Trennungsgeldverordnung (TGV) vom
+        22\. November 1973 (Bundesgesetzbl. I S.
+        1715) das Trennungsgeld bei Zusage der Umzugskostenvergütung zu
+        genehmigen,
 
 
     g)  nach Nummer 5 der Richtlinien des Bundesministers des Innern für die
@@ -252,10 +248,9 @@ Wir ermächtigen - je für ihren Geschäftsbereich -
     Bundesbahndirektionen und die Bundesbahn-Ausbesserungswerke
 
     *   nach §
-        8                          Abs.
-        6                          TGV das Trennungsgeld in den Fällen zu
-        genehmigen, in denen die Umzugskostenvergütung nicht zugesagt worden
-        ist.
+        8 Abs.
+        6 TGV das Trennungsgeld in den Fällen zu genehmigen, in denen die
+        Umzugskostenvergütung nicht zugesagt worden ist.
 
 
 
@@ -301,9 +296,8 @@ Wir bestimmen, daß
         (Bundesgesetzbl. I S. 955), zuletzt geändert durch
         das Vierte Gesetz zur Änderung des Gesetzes über das
         Bundesverfassungsgericht vom 21. Dezember 1970 (Bundesgesetzbl. I S.
-        1765),                          Maßnahmen nach § 21 des
-        Bundesbahngesetzes - mit Ausnahme der Beamten des höheren Dienstes -
-        treffen,
+        1765), Maßnahmen nach § 21 des Bundesbahngesetzes - mit Ausnahme der
+        Beamten des höheren Dienstes - treffen,
 
 
     g)  nach Teil C Nr. 14 der Richtlinien des Bundesministers des Innern über
@@ -311,9 +305,9 @@ Wir bestimmen, daß
         Neufassung vom 23. Dezember 1968 (Gemeinsames Ministerialblatt 1969 S.
         52), zuletzt geändert durch
         Rundschreiben des Bundesministers des Innern vom 20. Februar 1975 - D
-        III 7 - 213 361/5 - (Gemeinsames Ministerialblatt S. 280),
-        für die Entscheidung über die Gewährung an Bundesbahnbedienstete im
-        Inland zuständig sind;
+        III 7 - 213 361/5 - (Gemeinsames Ministerialblatt S. 280), für die
+        Entscheidung über die Gewährung an Bundesbahnbedienstete im Inland
+        zuständig sind;
 
 
 

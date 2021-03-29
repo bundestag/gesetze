@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1970, 805, 818
 
 Zuletzt geändert durch
-:   Art. 29 V v. 31.10.2006 I 2407
+:   Art. 37 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -31,12 +31,14 @@ darf 200 Deutsche Mark nicht übersteigen.
 
 ## § 2
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, die Höhe der Gebühren im Benehmen mit dem Kuratorium des
-Oberprüfungsamtes durch Rechtsverordnung zu bestimmen. In der
-Rechtsverordnung können die Stundung, der Erlaß und die Erstattung der
-Gebühren abweichend von den Vorschriften des Verwaltungskostengesetzes
-vom 23. Juni 1970 (Bundesgesetzbl. I S. 821) geregelt werden.
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit, die Höhe der Gebühren im
+Benehmen mit dem Kuratorium des Oberprüfungsamtes durch
+Rechtsverordnung zu bestimmen. In der Rechtsverordnung können die
+Stundung, der Erlaß und die Erstattung der Gebühren abweichend von den
+Vorschriften des Verwaltungskostengesetzes vom 23. Juni 1970
+(Bundesgesetzbl. I S. 821) geregelt werden.
 
 
 ## § 3

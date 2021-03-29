@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2722
 
+Geändert durch
+:   Art. 2 Abs. 6 G v. 7.8.2013 I 3154
+
 
 
 ## § 1 Grundsatz
@@ -263,18 +266,19 @@ Bundesbehörde getroffen wurde.
 
 ## § 10 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach diesem Gesetz werden Gebühren und Auslagen
-erhoben. Dies gilt nicht für die Erteilung einfacher Auskünfte.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz werden Gebühren und Auslagen erhoben. Dies gilt nicht für die
+Erteilung einfacher Auskünfte.
 
 (2) Die Gebühren sind auch unter Berücksichtigung des
 Verwaltungsaufwandes so zu bemessen, dass der Informationszugang nach
 § 1 wirksam in Anspruch genommen werden kann.
 
-(3) Das Bundesministerium des Innern wird ermächtigt, für
-Amtshandlungen nach diesem Gesetz die Gebührentatbestände und
-Gebührensätze durch Rechtsverordnung ohne Zustimmung des Bundesrates
-zu bestimmen. § 15 Abs. 2 des Verwaltungskostengesetzes findet keine
-Anwendung.
+(3) Das Bundesministerium des Innern wird ermächtigt, für individuell
+zurechenbare öffentliche Leistungen nach diesem Gesetz die
+Gebührentatbestände und Gebührensätze durch Rechtsverordnung ohne
+Zustimmung des Bundesrates zu bestimmen. § 10 des
+Bundesgebührengesetzes findet keine Anwendung.
 
 
 ## § 11 Veröffentlichungspflichten

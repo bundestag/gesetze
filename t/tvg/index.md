@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25. 8.1969 I 1323;
 
 Zuletzt geändert durch
-:   Art. 88 G v. 8.12.2010 I 1864
+:   Art. 1 G v. 3.7.2015 I 1130
 
 
 ## § 1 Inhalt und Form des Tarifvertrags
@@ -92,27 +92,113 @@ im Tarifvertrag vereinbart werden.
 bis sie durch eine andere Abmachung ersetzt werden.
 
 
+## § 4a Tarifkollision
+
+(1) Zur Sicherung der Schutzfunktion, Verteilungsfunktion,
+Befriedungsfunktion sowie Ordnungsfunktion von Rechtsnormen des
+Tarifvertrags werden Tarifkollisionen im Betrieb vermieden.
+
+(2) Der Arbeitgeber kann nach § 3 an mehrere Tarifverträge
+unterschiedlicher Gewerkschaften gebunden sein. Soweit sich die
+Geltungsbereiche nicht inhaltsgleicher Tarifverträge verschiedener
+Gewerkschaften überschneiden (kollidierende Tarifverträge), sind im
+Betrieb nur die Rechtsnormen des Tarifvertrags derjenigen Gewerkschaft
+anwendbar, die zum Zeitpunkt des Abschlusses des zuletzt
+abgeschlossenen kollidierenden Tarifvertrags im Betrieb die meisten in
+einem Arbeitsverhältnis stehenden Mitglieder hat. Kollidieren die
+Tarifverträge erst zu einem späteren Zeitpunkt, ist dieser für die
+Mehrheitsfeststellung maßgeblich. Als Betriebe gelten auch ein Betrieb
+nach § 1 Absatz 1 Satz 2 des Betriebsverfassungsgesetzes und ein durch
+Tarifvertrag nach § 3 Absatz 1 Nummer 1 bis 3 des
+Betriebsverfassungsgesetzes errichteter Betrieb, es sei denn, dies
+steht den Zielen des Absatzes 1 offensichtlich entgegen. Dies ist
+insbesondere der Fall, wenn die Betriebe von Tarifvertragsparteien
+unterschiedlichen Wirtschaftszweigen oder deren Wertschöpfungsketten
+zugeordnet worden sind.
+
+(3) Für Rechtsnormen eines Tarifvertrags über eine
+betriebsverfassungsrechtliche Frage nach § 3 Absatz 1 und § 117 Absatz
+2 des Betriebsverfassungsgesetzes gilt Absatz 2 Satz 2 nur, wenn diese
+betriebsverfassungsrechtliche Frage bereits durch Tarifvertrag einer
+anderen Gewerkschaft geregelt ist.
+
+(4) Eine Gewerkschaft kann vom Arbeitgeber oder von der Vereinigung
+der Arbeitgeber die Nachzeichnung der Rechtsnormen eines mit ihrem
+Tarifvertrag kollidierenden Tarifvertrags verlangen. Der Anspruch auf
+Nachzeichnung beinhaltet den Abschluss eines die Rechtsnormen des
+kollidierenden Tarifvertrags enthaltenden Tarifvertrags, soweit sich
+die Geltungsbereiche und Rechtsnormen der Tarifverträge überschneiden.
+Die Rechtsnormen eines nach Satz 1 nachgezeichneten Tarifvertrags
+gelten unmittelbar und zwingend, soweit der Tarifvertrag der
+nachzeichnenden Gewerkschaft nach Absatz 2 Satz 2 nicht zur Anwendung
+kommt.
+
+(5) Nimmt ein Arbeitgeber oder eine Vereinigung von Arbeitgebern mit
+einer Gewerkschaft Verhandlungen über den Abschluss eines
+Tarifvertrags auf, ist der Arbeitgeber oder die Vereinigung von
+Arbeitgebern verpflichtet, dies rechtzeitig und in geeigneter Weise
+bekanntzugeben. Eine andere Gewerkschaft, zu deren satzungsgemäßen
+Aufgaben der Abschluss eines Tarifvertrags nach Satz 1 gehört, ist
+berechtigt, dem Arbeitgeber oder der Vereinigung von Arbeitgebern ihre
+Vorstellungen und Forderungen mündlich vorzutragen.
+
+
 ## § 5 Allgemeinverbindlichkeit
 
 (1) Das Bundesministerium für Arbeit und Soziales kann einen
 Tarifvertrag im Einvernehmen mit einem aus je drei Vertretern der
 Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer bestehenden
-Ausschuß auf Antrag einer Tarifvertragspartei für allgemeinverbindlich
-erklären, wenn
+Ausschuss (Tarifausschuss) auf gemeinsamen Antrag der
+Tarifvertragsparteien für allgemeinverbindlich erklären, wenn die
+Allgemeinverbindlicherklärung im öffentlichen Interesse geboten
+erscheint. Die Allgemeinverbindlicherklärung erscheint in der Regel im
+öffentlichen Interesse geboten, wenn
 
-1.  die tarifgebundenen Arbeitgeber nicht weniger als 50 vom Hundert der
-    unter den Geltungsbereich des Tarifvertrags fallenden Arbeitnehmer
-    beschäftigen und
-
-
-2.  die Allgemeinverbindlicherklärung im öffentlichen Interesse geboten
-    erscheint.
+1.  der Tarifvertrag in seinem Geltungsbereich für die Gestaltung der
+    Arbeitsbedingungen überwiegende Bedeutung erlangt hat oder
 
 
+2.  die Absicherung der Wirksamkeit der tarifvertraglichen Normsetzung
+    gegen die Folgen wirtschaftlicher Fehlentwicklung eine
+    Allgemeinverbindlicherklärung verlangt.
 
-Von den Voraussetzungen der Nummern 1 und 2 kann abgesehen werden,
-wenn die Allgemeinverbindlicherklärung zur Behebung eines sozialen
-Notstands erforderlich erscheint.
+
+
+
+(1a) Das Bundesministerium für Arbeit und Soziales kann einen
+Tarifvertrag über eine gemeinsame Einrichtung zur Sicherung ihrer
+Funktionsfähigkeit im Einvernehmen mit dem Tarifausschuss auf
+gemeinsamen Antrag der Tarifvertragsparteien für allgemeinverbindlich
+erklären, wenn der Tarifvertrag die Einziehung von Beiträgen und die
+Gewährung von Leistungen durch eine gemeinsame Einrichtung mit
+folgenden Gegenständen regelt:
+
+1.  den Erholungsurlaub, ein Urlaubsgeld oder ein zusätzliches
+    Urlaubsgeld,
+
+
+2.  eine betriebliche Altersversorgung im Sinne des
+    Betriebsrentengesetzes,
+
+
+3.  die Vergütung der Auszubildenden oder die Ausbildung in
+    überbetrieblichen Bildungsstätten,
+
+
+4.  eine zusätzliche betriebliche oder überbetriebliche Vermögensbildung
+    der Arbeitnehmer,
+
+
+5.  Lohnausgleich bei Arbeitszeitausfall, Arbeitszeitverkürzung oder
+    Arbeitszeitverlängerung.
+
+
+
+Der Tarifvertrag kann alle mit dem Beitragseinzug und der
+Leistungsgewährung in Zusammenhang stehenden Rechte und Pflichten
+einschließlich der dem Verfahren zugrunde liegenden Ansprüche der
+Arbeitnehmer und Pflichten der Arbeitgeber regeln. § 7 Absatz 2 des
+Arbeitnehmer-Entsendegesetzes findet entsprechende Anwendung.
 
 (2) Vor der Entscheidung über den Antrag ist Arbeitgebern und
 Arbeitnehmern, die von der Allgemeinverbindlicherklärung betroffen
@@ -129,7 +215,10 @@ Zustimmung der Bundesregierung stattgeben.
 
 (4) Mit der Allgemeinverbindlicherklärung erfassen die Rechtsnormen
 des Tarifvertrags in seinem Geltungsbereich auch die bisher nicht
-tarifgebundenen Arbeitgeber und Arbeitnehmer.
+tarifgebundenen Arbeitgeber und Arbeitnehmer. Ein nach Absatz 1a für
+allgemeinverbindlich erklärter Tarifvertrag ist vom Arbeitgeber auch
+dann einzuhalten, wenn er nach § 3 an einen anderen Tarifvertrag
+gebunden ist.
 
 (5) Das Bundesministerium für Arbeit und Soziales kann die
 Allgemeinverbindlicherklärung eines Tarifvertrags im Einvernehmen mit
@@ -144,7 +233,9 @@ Allgemeinverbindlicherklärung sowie zur Aufhebung der
 Allgemeinverbindlichkeit übertragen.
 
 (7) Die Allgemeinverbindlicherklärung und die Aufhebung der
-Allgemeinverbindlichkeit bedürfen der öffentlichen Bekanntmachung.
+Allgemeinverbindlichkeit bedürfen der öffentlichen Bekanntmachung. Die
+Bekanntmachung umfasst auch die von der Allgemeinverbindlicherklärung
+erfassten Rechtsnormen des Tarifvertrages.
 
 
 ## § 6 Tarifregister
@@ -183,8 +274,10 @@ nach Absatz 1 zu erfüllen ist.
 
 ## § 8 Bekanntgabe des Tarifvertrags
 
-Die Arbeitgeber sind verpflichtet, die für ihren Betrieb maßgebenden
-Tarifverträge an geeigneter Stelle im Betrieb auszulegen.
+Der Arbeitgeber ist verpflichtet, die im Betrieb anwendbaren
+Tarifverträge sowie rechtskräftige Beschlüsse nach § 99 des
+Arbeitsgerichtsgesetzes über den nach § 4a Absatz 2 Satz 2 anwendbaren
+Tarifvertrag im Betrieb bekanntzumachen.
 
 
 ## § 9 Feststellung der Rechtswirksamkeit
@@ -295,15 +388,6 @@ zusteht.
 Sinne des § 84 des Handelsgesetzbuchs.
 
 
-## § 12b Berlin-Klausel
-
-Dieses Gesetz gilt auch im Land Berlin, sofern es im Land Berlin in
-Kraft gesetzt wird. Rechtsverordnungen, die auf Grund dieses Gesetzes
-erlassen worden sind oder erlassen werden, gelten im Land Berlin nach
-§ 14 des Dritten Überleitungsgesetzes vom 4. Januar 1952
-(Bundesgesetzbl. I S. 1).
-
-
 ## § 13 Inkrafttreten
 
 (1) Dieses Gesetz tritt mit seiner Verkündung in Kraft.
@@ -311,8 +395,13 @@ erlassen worden sind oder erlassen werden, gelten im Land Berlin nach
 (2) Tarifverträge, die vor dem Inkrafttreten dieses Gesetzes
 abgeschlossen sind, unterliegen diesem Gesetz.
 
+(3) § 4a ist nicht auf Tarifverträge anzuwenden, die am 10. Juli 2015
+gelten.
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1023) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III
+(BGBl. II 1990, 889, 1023)
+
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

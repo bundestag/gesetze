@@ -7,7 +7,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland, vertreten durch den Bund
   Deutschland – Körperschaft des öffentlichen Rechts –
 jurabk: ZJDVtrÄndVtr 2011
 layout: default
-origslug: zjdvtr_ndvtr_2011
+origslug: zjdvtraendvtr_2011
 slug: zjdvtraendvtr_2011
 
 ---

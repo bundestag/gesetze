@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1273
 
+Geändert durch
+:   Art. 2 V v. 23.9.2014 I 1533
+
 
 ## Eingangsformel
 
@@ -302,8 +305,8 @@ selbstständiger Tätigkeit gehören insbesondere
     Dienstleistungen,
 
 
-2.  Renten aus den gesetzlichen Rentenversicherungen einschließlich den
-    auf Kindererziehungszeiten beruhenden Rentenanteilen, mit Ausnahme des
+2.  Renten aus den gesetzlichen Rentenversicherungen mit Ausnahme der auf
+    Kindererziehungszeiten beruhenden Rentenanteile sowie mit Ausnahme des
     Rentenanteils, der auf freiwilligen Beiträgen beruht, die Beschädigte
     nicht – auch nicht mittelbar – aus Einkünften aus einer
     Erwerbstätigkeit entrichtet haben,

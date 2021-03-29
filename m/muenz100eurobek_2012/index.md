@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze „UNESCO Welterbe - Dom zu Aachen“)
 jurabk: Münz100EuroBek 2012
 layout: default
-origslug: m_nz100eurobek_2012
+origslug: muenz100eurobek_2012
 slug: muenz100eurobek_2012
 
 ---
@@ -55,6 +55,8 @@ Der Bundesminister der Finanzen
 
 
 ## (XXXX)
+
+(Fundstelle: BGBl. I S. 2174)
 
 
 *    *        ![bgbl1_2012_j2174-1_0010.jpg](bgbl1_2012_j2174-1_0010.jpg)

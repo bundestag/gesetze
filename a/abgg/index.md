@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21. 2.1996 I 326;
 
 Zuletzt geändert durch
-:   G v. 8.11.2011 I 2218
+:   Art. 12 G v. 5.1.2017 I 17
 
 
 ## Erster Abschnitt - Erwerb und Verlust der Mitgliedschaft im Bundestag
@@ -214,29 +214,42 @@ abweichende Regelungen treffen.
 
 ### § 11 Abgeordnetenentschädigung
 
-(1) Ein Mitglied des Bundestages erhält eine monatliche
-Abgeordnetenentschädigung, die sich an den Monatsbezügen
-
-–   eines Richters bei einem obersten Gerichtshof des Bundes
-    (Besoldungsgruppe R 6),
-
-
-–   eines kommunalen Wahlbeamten auf Zeit (Besoldungsgruppe B 6)
-
-
-
-orientiert. Die Abgeordnetenentschädigung beträgt mit Wirkung vom 1.
-Januar 2012 7 960 Euro und vom 1. Januar 2013 8 252 Euro. Für spätere
-Anpassungen gilt das in § 30 geregelte Verfahren.
+(1) Die monatliche Entschädigung eines Mitglieds des Deutschen
+Bundestages orientiert sich an den Bezügen eines Richters an einem
+obersten Gerichtshof des Bundes (Besoldungsgruppe R 6 gemäß der Anlage
+IV des Bundesbesoldungsgesetzes mit Zulage für Richter und
+Staatsanwälte bei obersten Gerichtshöfen des Bundes). Die
+Abgeordnetenentschädigung beträgt mit Wirkung vom 1. Juli 2014 8 667
+Euro und vom 1. Januar 2015 9 082 Euro. Für die Anpassung der
+Entschädigung gilt das in den Absätzen 4 und 5 geregelte Verfahren.
 
 (2) Der Präsident erhält eine monatliche Amtszulage in Höhe eines
 Monatsbetrages nach Absatz 1, seine Stellvertreter in Höhe der Hälfte
-eines Monatsbetrages nach Absatz 1.
+des Monatsbetrages nach Absatz 1 und die Vorsitzenden der Ausschüsse,
+der Untersuchungsausschüsse, der Enquete-Kommissionen sowie des
+Parlamentarischen Kontrollgremiums in Höhe von 15 vom Hundert des
+Monatsbetrages nach Absatz 1.
 
 (3) Der Auszahlungsbetrag der Abgeordnetenentschädigung und der
 Amtszulage vermindert sich in Ansehung der zu den Kosten in
 Pflegefällen nach § 27 gewährten Zuschüsse vom 1. Januar 1995 an um
 ein Dreihundertfünfundsechzigstel.
+
+(4) Die monatliche Entschädigung nach Absatz 1 wird jährlich zum 1.
+Juli, erstmals zum 1. Juli 2016, angepasst. Grundlage ist die
+Entwicklung des vom Statistischen Bundesamt ermittelten
+Nominallohnindex, den der Präsident des Statistischen Bundesamtes
+jährlich bis zum 31. März an den Präsidenten des Deutschen Bundestages
+übermittelt. Dieser veröffentlicht den angepassten Betrag der
+Entschädigung in einer Bundestagsdrucksache.
+
+(5) Das Anpassungsverfahren nach Absatz 4 bleibt für eine neue
+Wahlperiode nur wirksam, wenn der Deutsche Bundestag innerhalb von
+drei Monaten nach der konstituierenden Sitzung einen entsprechenden
+Beschluss fasst. Wird innerhalb dieser Frist kein Beschluss gefasst,
+gilt für die Entschädigung der letzte nach Absatz 4 ermittelte Betrag,
+bis der Deutsche Bundestag das Anpassungsverfahren in einem Gesetz
+bestätigt oder ändert.
 
 
 ### § 12 Amtsausstattung
@@ -342,8 +355,8 @@ bereits abgeschlossen hat.
 Präsident bestimmt im Benehmen mit dem Ältestenrat, welche Tage als
 Sitzungstage gelten und in welcher Zeit die Anwesenheitsliste
 ausgelegt wird. Trägt sich ein Mitglied des Bundestages nicht in die
-Anwesenheitsliste ein, werden ihm 50 Euro von der Kostenpauschale
-einbehalten. Der einzubehaltende Betrag erhöht sich auf 100 Euro, wenn
+Anwesenheitsliste ein, werden ihm 100 Euro von der Kostenpauschale
+einbehalten. Der einzubehaltende Betrag erhöht sich auf 200 Euro, wenn
 ein Mitglied an einem Plenarsitzungstag sich nicht in die
 Anwesenheitsliste eingetragen hat und nicht beurlaubt war. Der
 Kürzungsbetrag verringert sich auf 20 Euro, wenn ein Mitglied des
@@ -367,10 +380,10 @@ Anwesenheitsliste des Ältestenrates oder durch eine für den
 Sitzungstag genehmigte und durchgeführte Dienstreise.
 
 (2) Einem Mitglied des Bundestages, das an einer namentlichen
-Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden 50
-Euro von der monatlichen Kostenpauschale abgezogen. Das gilt nicht,
-wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach Absatz 1
-erfolgt oder in den Fällen des Absatzes 1 Satz 6.
+Abstimmung oder einer Wahl mit Namensaufruf nicht teilnimmt, werden
+100 Euro von der monatlichen Kostenpauschale abgezogen. Das gilt
+nicht, wenn der Präsident das Mitglied beurlaubt hat, ein Abzug nach
+Absatz 1 erfolgt oder in den Fällen des Absatzes 1 Satz 6.
 
 
 ### § 15 Bezug anderer Tage- oder Sitzungsgelder
@@ -473,8 +486,9 @@ monatlicher Zahlung ruhen würde, zu erstatten. Der Präsident bestimmt,
 in welchen Teilbeträgen zu erstatten ist.
 
 (5) Stirbt ein ehemaliges Mitglied, werden die Leistungen nach Absatz
-1 an den überlebenden Ehegatten, die leiblichen Abkömmlinge sowie die
-als Kind angenommenen Kinder fortgesetzt oder ihnen belassen, wenn
+1 an den überlebenden Ehegatten, die eingetragene Lebenspartnerin/den
+eingetragenen Lebenspartner, die leiblichen Abkömmlinge sowie die als
+Kind angenommenen Kinder fortgesetzt oder ihnen belassen, wenn
 Versorgungsansprüche nach diesem Gesetz nicht entstehen.
 
 (6) Ein ehemaliges Mitglied, das dem Europäischen Parlament angehört,
@@ -667,11 +681,16 @@ sind, wird die Altersgrenze wie folgt angehoben:
 
 
 (3) Gehörte ein ausgeschiedenes Mitglied dem Bundestag mehrmals mit
-Unterbrechung an, so sind die Zeitabschnitte zusammenzurechnen. Mit
-jedem über das achte Jahr hinausgehenden Jahr bis zum 18. Jahr der
-Mitgliedschaft im Bundestag entsteht der Anspruch auf
-Altersentschädigung ein Lebensjahr früher. § 18 Abs. 1 Satz 4 gilt
-entsprechend.
+Unterbrechung an, so sind die Zeitabschnitte zusammenzurechnen. § 18
+Abs. 1 Satz 4 gilt entsprechend.
+
+(4) Auf Antrag kann die Altersentschädigung vorzeitig ab Vollendung
+des 63. Lebensjahres in Anspruch genommen werden. Die
+Altersentschädigung vermindert sich in diesem Fall um 0,3 vom Hundert
+für jeden Monat, für den die Altersentschädigung vor dem in den
+Absätzen 1 und 2 genannten Zeitpunkt in Anspruch genommen wird.
+Anrechnungen nach § 29 erfolgen bezogen auf den nach Satz 2
+verminderten Betrag der Altersentschädigung.
 
 
 ### § 20 Höhe der Altersentschädigung
@@ -680,7 +699,7 @@ Die Altersentschädigung bemißt sich nach der monatlichen
 Abgeordnetenentschädigung (§ 11 Abs. 1). Der Steigerungssatz beträgt
 vom 1. Januar 2008 an für jedes Jahr der Mitgliedschaft je 2,5 vom
 Hundert der Abgeordnetenentschädigung nach § 11 Abs. 1. Der
-Höchstbemessungssatz der Altersentschädigung beträgt 67,5 vom Hundert.
+Höchstbemessungssatz der Altersentschädigung beträgt 65 vom Hundert.
 Die Zeit der Wahrnehmung der Ämter des Präsidenten und seiner
 Stellvertreter wird der Berechnung der Altersentschädigung nach den
 Sätzen 1 und 2 mit der Abgeordnetenentschädigung nach § 11 Abs. 1
@@ -792,7 +811,8 @@ entsprechend.
 
 (1) Die Hinterbliebenen eines Mitglieds des Bundestages erhalten die
 noch nicht abgerechneten Leistungen nach diesem Gesetz, soweit sie im
-Zeitpunkt des Todes fällig waren. Der überlebende Ehegatte und die
+Zeitpunkt des Todes fällig waren. Der überlebende Ehegatte, die
+eingetragene Lebenspartnerin/der eingetragene Lebenspartner und die
 Abkömmlinge erhalten ein Überbrückungsgeld in Höhe einer
 Abgeordnetenentschädigung nach § 11 Abs. 1. Das Überbrückungsgeld
 beträgt bei einer Dauer der Mitgliedschaft von mehr als acht Jahren
@@ -801,7 +821,7 @@ Abgeordnetenentschädigung nach § 11 Abs. 1. Sind Hinterbliebene im
 Sinne des Satzes 2 nicht vorhanden, wird sonstigen Personen, die die
 Kosten der letzten Krankheit getragen haben, das Überbrückungsgeld bis
 zur Höhe ihrer Aufwendungen gewährt. Der Auszahlungsbetrag des
-Überbrückungsgeldes vermindert sich vom 31. März 2004 an um 1.050
+Überbrückungsgeldes vermindert sich vom 31. März 2004 an um 1 050
 Euro.
 
 (2) Das gleiche gilt beim Tod eines ehemaligen Mitglieds des
@@ -920,18 +940,20 @@ Krankenversicherungsbeitrag nach § 249a des Fünften Buches
 Sozialgesetzbuch nur zur Hälfte tragen oder gemäß § 106 des Sechsten
 Buches Sozialgesetzbuch einen Beitragszuschuß beziehen, erhalten für
 diesen rentenbezogenen Krankenversicherungsbeitrag keinen Zuschuß. Als
-Zuschuß ist die Hälfte des aus eigenen Mitteln geleisteten
-Krankenversicherungsbeitrages zu zahlen. Besteht die Mitgliedschaft
-nicht ausschließlich in einer gesetzlichen Krankenkasse gemäß § 4 des
-Fünften Buches Sozialgesetzbuch, beträgt der Zuschuß höchstens die
-Hälfte des Höchstbeitrages der im Falle der Versicherungspflicht
-zuständigen Allgemeinen Ortskrankenkasse.
+Zuschuss ist die Hälfte des aus eigenen Mitteln geleisteten
+Krankenversicherungsbeitrages in Anlehnung an § 249 des Fünften Buches
+Sozialgesetzbuch zu zahlen. Besteht die Mitgliedschaft nicht
+ausschließlich in einer gesetzlichen Krankenkasse gemäß § 4 des
+Fünften Buches Sozialgesetzbuch, beträgt der Zuschuss höchstens die
+Hälfte des Beitrages nach § 249 des Fünften Buches Sozialgesetzbuch.
 
 (3) Der Anspruch auf den Zuschuß zu den Krankenversicherungsbeiträgen
 nach Absatz 2 schließt bei Mitgliedern des Bundestages ein den
 Anspruch auf einen Zuschuß in Höhe der Hälfte des aus eigenen Mitteln
 geleisteten Pflegeversicherungsbeitrages, höchstens jedoch die Hälfte
-des Höchstbeitrages der sozialen Pflegeversicherung.
+des Höchstbeitrages der sozialen Pflegeversicherung. Der Zuschuss
+umfasst nicht den Beitragszuschlag für Kinderlose nach § 55 des Elften
+Buches Sozialgesetzbuch.
 
 (4) Die Entscheidung darüber, ob das Mitglied anstelle der Leistungen
 nach Absatz 1 den Zuschuß nach Absatz 2 in Anspruch nehmen will, ist
@@ -978,20 +1000,20 @@ landesrechtliche Vorschriften oder seitens der zwischen- oder
 Verwendung im öffentlichen Dienst ruhen neben der
 Abgeordnetenentschädigung nach § 11 Abs. 1 um 80 vom Hundert,
 höchstens jedoch in Höhe der Abgeordnetenentschädigung nach § 11 Abs.
-1 und 3. Entsprechendes gilt für Renten im Sinne des § 55 Abs. 1 Satz
-2 des Beamtenversorgungsgesetzes mit Ausnahme von Renten aus einer
-freiwilligen Pflichtversicherung auf Antrag gemäß § 4 Abs. 2 des
-Sechsten Buches Sozialgesetzbuch; § 55 Abs. 3 und 4 des
-Beamtenversorgungsgesetzes ist sinngemäß anzuwenden. Das nach
-Anwendung sonstiger Anrechnungs- und Ruhensvorschriften verbleibende
-Übergangsgeld nach dem Gesetz über die Rechtsverhältnisse der
-Mitglieder der Bundesregierung und nach dem Gesetz über die
+1 und 3. Entsprechendes gilt in Höhe von 50 vom Hundert für Renten im
+Sinne des § 55 Abs. 1 Satz 2 des Beamtenversorgungsgesetzes mit
+Ausnahme von Renten aus einer freiwilligen Pflichtversicherung auf
+Antrag gemäß § 4 Abs. 2 des Sechsten Buches Sozialgesetzbuch; § 55
+Abs. 3 und 4 des Beamtenversorgungsgesetzes ist sinngemäß anzuwenden.
+Das nach Anwendung sonstiger Anrechnungs- und Ruhensvorschriften
+verbleibende Übergangsgeld nach dem Gesetz über die Rechtsverhältnisse
+der Mitglieder der Bundesregierung und nach dem Gesetz über die
 Rechtsverhältnisse der Parlamentarischen Staatssekretäre ruht neben
 der Abgeordnetenentschädigung nach § 11 ab dem zweiten Monat nach dem
 Ausscheiden aus dem Amt. Beruht ein Versorgungsanspruch nach Satz 1
-oder 2 auf Landesrecht, so tritt an die Stelle des Ruhens des
+oder Satz 2 auf Landesrecht, so tritt an die Stelle des Ruhens des
 Versorgungsanspruches das Ruhen der Abgeordnetenentschädigung um den
-sich aus Satz 1 ergebenden Betrag. Entsprechendes gilt für
+sich aus Satz 1 oder Satz 2 ergebenden Betrag. Entsprechendes gilt für
 Versorgungsansprüche aus einem Amtsverhältnis beziehungsweise einer
 Verwendung im öffentlichen Dienst einer zwischen- oder überstaatlichen
 Einrichtung.
@@ -1054,14 +1076,8 @@ hierzu erlassenen Vorschriften.
 
 
 
-### § 30 Anpassungsverfahren
+### § 30 (weggefallen)
 
-Der Bundestag beschließt über die Anpassung der
-Abgeordnetenentschädigung nach Maßgabe des § 11 Abs. 1 Satz 1.
-Gleichzeitig bestimmt er unter Anwendung des nach Satz 1 beschlossenen
-Anpassungsfaktors die fiktiven Bemessungsbeträge nach § 35a Abs. 2 und
-§ 35b Satz 1. Der Präsident leitet den Fraktionen den entsprechenden
-Gesetzesvorschlag zu.
 
 
 ### § 31 Verzicht, Übertragbarkeit
@@ -1126,10 +1142,8 @@ Ist nur ein Teil zu leisten, so wird für jeden Kalendertag ein
 Dreißigstel gezahlt; § 33 gilt entsprechend.
 
 
-### § 33 Aufrundung
+### § 33 (weggefallen)
 
-Die Leistungen des Fünften und Sechsten Abschnitts werden auf volle
-Euro aufgerundet.
 
 
 ### § 34 Ausführungsbestimmungen
@@ -1200,9 +1214,11 @@ Bemessungsbetrag für die Altersentschädigung wird mit Wirkung vom 1.
 Juli 2000 auf 11 683 Deutsche Mark, vom 1. Januar 2001 auf 11 868
 Deutsche Mark, vom 1. Januar 2002 auf 6 165 Euro, vom 1. Januar 2003
 auf 6 263 Euro, vom 1. Januar 2008 auf 6 411 Euro, vom 1. Januar 2009
-auf 6 555 Euro, vom 1. Januar 2012 auf 6 805 Euro und vom 1. Januar
-2013 auf 7 055 Euro festgesetzt. Für spätere Anpassungen gilt das in §
-30 geregelte Verfahren.
+auf 6 555 Euro, vom 1. Januar 2012 auf 6 805 Euro, vom 1. Januar 2013
+auf 7 055 Euro, vom 1. Juli 2014 auf 7 410 Euro und vom 1. Januar 2015
+auf 7 765 Euro festgesetzt. Für spätere Anpassungen wird der
+Anpassungsfaktor anhand des in § 11 Absatz 4 und 5 geregelten
+Verfahrens ermittelt.
 
 (3) Bei der Anwendung des § 29 auf Versorgungsansprüche nach diesem
 Gesetz wird in den Fällen des Absatzes 1 statt der
@@ -1231,9 +1247,10 @@ entsprechend.
 des Absatzes 1 ein gesonderter fiktiver Bemessungsbetrag. Dieser
 fiktive Bemessungsbetrag wird mit Wirkung vom 1. Januar 2008 auf 7 174
 Euro, vom 1. Januar 2009 auf 7 335 Euro, vom 1. Januar 2012 auf 7 615
-Euro und vom 1. Januar 2013 auf 7 895 Euro festgesetzt. § 35a bleibt
-unberührt. Für spätere Anpassungen gilt das in § 30 geregelte
-Verfahren.
+Euro, vom 1. Januar 2013 auf 7 895 Euro, vom 1. Juli 2014 auf 8 292
+Euro und vom 1. Januar 2015 auf 8 689 Euro festgesetzt. § 35a bleibt
+unberührt. Für spätere Anpassungen wird der Anpassungsfaktor anhand
+des in § 11 Absatz 4 und 5 geregelten Verfahrens ermittelt.
 
 (3) Bei der Berechnung von Ansprüchen und Anwartschaften von
 Mitgliedern des 16. Deutschen Bundestages gemäß Absatz 1 findet die
@@ -1251,6 +1268,17 @@ jeweils der Betrag zugrunde zu legen, der sich unter Berücksichtigung
 des jeweiligen prozentualen Verhältnisses ergibt, mit dem die
 Versorgung auf der Grundlage des fiktiven Berechnungsbetrages nach
 Absatz 2 und der Entschädigung nach § 11 errechnet wird.
+
+
+### § 35c Übergangsregelungen zum Dreißigsten Änderungsgesetz
+
+Auf alle bis zum Tag der ersten Sitzung des 19. Deutschen Bundestages
+entstandenen Ansprüche und Anwartschaften von Mitgliedern des
+Deutschen Bundestages, ehemaligen Mitgliedern und ihren
+Hinterbliebenen finden die Regelungen des Fünften und des Neunten
+Abschnitts in der bis zum Tag der ersten Sitzung des 19. Deutschen
+Bundestages geltenden Fassung Anwendung. Die §§ 35a und 35b bleiben
+unberührt.
 
 
 ### § 36 Übergangsregelung für die Angehörigen des öffentlichen Dienstes

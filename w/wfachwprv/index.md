@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1752
 
-Geändert durch
-:   Art. 34 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 18 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -578,8 +578,9 @@ Fall keine Anwendung.
 
 Diese Verordnung tritt am 1. September 2008 in Kraft.
 
+(zu § 7 Abs. 6)
 
-## Anlage 1 (zu § 7 Abs. 6) Muster
+## Anlage 1 Muster
 
 (Fundstelle: BGBl. I 2008, 1756;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -625,8 +626,13 @@ Prüfung zum anerkannten Abschluss
 
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin vom 26.
-August 2008 (BGBl. I S. 1752), die durch Artikel 34 der Verordnung vom
-25\. August 2009 (BGBl. I S. 2960) geändert worden ist, bestanden.
+August 2008 (BGBl. I S. 1752), die zuletzt durch Artikel 18 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
+bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum  ...............................................................
@@ -641,8 +647,9 @@ August 2008 (BGBl. I S. 1752), die durch Artikel 34 der Verordnung vom
 
 
 
+(zu § 7 Abs. 6)
 
-## Anlage 2 (zu § 7 Abs. 6) Muster
+## Anlage 2 Muster
 
 (Fundstelle: BGBl. I 2008, 1757;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -688,9 +695,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   nach der Verordnung über die Prüfung zum anerkannten Abschluss
         Geprüfter Wirtschaftsfachwirt/Geprüfte Wirtschaftsfachwirtin vom 26.
-        August 2008 (BGBl. I S. 1752), die durch Artikel 34 der Verordnung vom
-        25\. August 2009 (BGBl. I S. 2960) geändert worden ist, mit folgenden
-        Ergebnissen bestanden:
+        August 2008 (BGBl. I S. 1752), die zuletzt durch Artikel 18 der
+        Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit
+        folgenden Ergebnissen bestanden:
 
 
 
@@ -698,7 +705,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *[^f771396_01_BJNR175200008BJNE001501308]
+    *[^f771396_01_BJNR175200008BJNE001502377]
    Punkte
 
     *   Note
@@ -779,6 +786,10 @@ in dem Handlungsbereich
 ......................................................................
 freigestellt.“)
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum ................................................................
         ............... .....................
@@ -795,5 +806,5 @@ freigestellt.“)
     *
 
 
-[^f771396_01_BJNR175200008BJNE001501308]:    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^f771396_01_BJNR175200008BJNE001502377]:    Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
 

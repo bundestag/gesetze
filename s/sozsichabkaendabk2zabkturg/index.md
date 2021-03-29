@@ -4,7 +4,7 @@ Title: Gesetz zu dem Zusatzabkommen vom 2. November 1984 zum Abkommen vom 30. Ap
   Sicherheit und zu der Vereinbarung vom 2. November 1984 zur Durchführung des Abkommens
 jurabk: SozSichAbkÄndAbk2ZAbkTURG
 layout: default
-origslug: sozsichabk_ndabk2zabkturg
+origslug: sozsichabkaendabk2zabkturg
 slug: sozsichabkaendabk2zabkturg
 
 ---

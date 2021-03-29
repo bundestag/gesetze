@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landsc
   von zentraler Bedeutung als Naturpark "Drömling"
 jurabk: NatPDrömlV
 layout: default
-origslug: natpdr_mlv
+origslug: natpdroemlv
 slug: natpdroemlv
 
 ---
@@ -55,37 +55,37 @@ bedeutsame Zeugen der Kulturgeschichte geschaffen.
 
 (2) Die Grenze des Naturparks bildet:
 
-1.  Im **Westen:**                    Die Landesgrenze zu Niedersachsen
-    von der Straße Breitenrode-Grafhorst im Süden bis zur Straße Böckwitz-
-    Zicherie im Norden.
+1.  Im **Westen:** Die Landesgrenze zu Niedersachsen von der Straße
+    Breitenrode-Grafhorst im Süden bis zur Straße Böckwitz-Zicherie im
+    Norden.
 
 
-2.  Im **Norden:**                    Die Straße von Böckwitz Richtung
-    Jahrstedt bis 250 m hinter dem Ortsausgang Böckwitz, dann ein in
-    Richtung Südost verlaufender Feldweg, der nach 1.250 m nach Osten
-    abbiegt und bis Jahrstedt führt. Von Jahrstedt aus die Straße zum
-    Ortsteil Germenau. Germenau 500 m die Straße in Richtung Süden, dann
-    ein in Richtung Osten im Abstand von 500 m zur Straße Germau-Kunrau
-    verlaufender Weg über Kunrau bis zur Bahnlinie Oebisfelde-Salzwedel.
-    Weiter der südlich der Bahnlinie verlaufende Weg bis zur Landstraße
-    Neuferchau - Röwitz und diese bis Röwitz. Von hier der 2.500 m
-    Richtung Osten verlaufende und dann nach Nordosten abbiegende Weg nach
-    Wenze. In Wenze die Hauptstraße nach Klötze bis zur nach rechts
-    abbiegenden Landstraße nach Quarnebeck und diese bis Quarnebeck. Von
-    hier der Weg in Richtung Eigentum, nach 2.000 m der von diesem in
-    Richtung Süden abzweigende Weg nach Jeggau.
+2.  Im **Norden:** Die Straße von Böckwitz Richtung Jahrstedt bis 250 m
+    hinter dem Ortsausgang Böckwitz, dann ein in Richtung Südost
+    verlaufender Feldweg, der nach 1.250 m nach Osten abbiegt und bis
+    Jahrstedt führt. Von Jahrstedt aus die Straße zum Ortsteil Germenau.
+    Germenau 500 m die Straße in Richtung Süden, dann ein in Richtung
+    Osten im Abstand von 500 m zur Straße Germau-Kunrau verlaufender Weg
+    über Kunrau bis zur Bahnlinie Oebisfelde-Salzwedel. Weiter der südlich
+    der Bahnlinie verlaufende Weg bis zur Landstraße Neuferchau - Röwitz
+    und diese bis Röwitz. Von hier der 2.500 m Richtung Osten verlaufende
+    und dann nach Nordosten abbiegende Weg nach Wenze. In Wenze die
+    Hauptstraße nach Klötze bis zur nach rechts abbiegenden Landstraße
+    nach Quarnebeck und diese bis Quarnebeck. Von hier der Weg in Richtung
+    Eigentum, nach 2.000 m der von diesem in Richtung Süden abzweigende
+    Weg nach Jeggau.
 
 
-3.  Im **Osten:**                    Ab Jeggau die Landstraße nach
-    Trippigleben, von dort der nach SSD führende Weg nach Peckfitz, der
-    nach 2.100 m auf die Landstraße Köckte-Peckfitz trifft, weiter diese
-    bis Peckfitz. Von dort die Straße über die Kolonie Himmelreich nach
-    Mieste, die westlich des Ortes die Bahnlinie Gardelegen-Oebisfelde
-    überquert und dann auf die F 188 trifft. Weiter die F 188 bis Wernitz,
-    dort ab Bahnübergang die nach Süden abbiegende Landstraße nach Sachau.
-    Nach 800 m der von dieser nach links abbiegende Weg in Richtung Solpke
-    bis zur Bahnlinie (Oebisfelde-Gardelegen), diese bis zur Straße
-    Solpke-Sachau und weiter diese bis Sachau.
+3.  Im **Osten:** Ab Jeggau die Landstraße nach Trippigleben, von dort der
+    nach SSD führende Weg nach Peckfitz, der nach 2.100 m auf die
+    Landstraße Köckte-Peckfitz trifft, weiter diese bis Peckfitz. Von dort
+    die Straße über die Kolonie Himmelreich nach Mieste, die westlich des
+    Ortes die Bahnlinie Gardelegen-Oebisfelde überquert und dann auf die F
+    188 trifft. Weiter die F 188 bis Wernitz, dort ab Bahnübergang die
+    nach Süden abbiegende Landstraße nach Sachau. Nach 800 m der von
+    dieser nach links abbiegende Weg in Richtung Solpke bis zur Bahnlinie
+    (Oebisfelde-Gardelegen), diese bis zur Straße Solpke-Sachau und weiter
+    diese bis Sachau.
 
     Von Sachau über 1.500 m der in Richtung Kolonie Breiteiche II führende
     Weg, dann der über das Einzelgehöft Jerchel (südöstlich Kämeritz)
@@ -96,15 +96,14 @@ bedeutsame Zeugen der Kulturgeschichte geschaffen.
     Calvörde.
 
 
-4.  Im **Süden:**                    Die Landstraße Lössewitz-Calvörde bis
-    200 m hinter der Ohre-Brücke, dann der parallel zur Ohre in Richtung
-    Nordwesten verlaufende Weg. Weiter der nach 2.300 m von diesem
-    abbiegende Weg zur Velsdorfer-Kanalbrücke. Dann der südlich des
-    Mittellandkanals verlaufende Fanggraben Richtung West bis zur
-    Kanalbrücke Piplockenburg. Von dort 1.500 m der Weg in Richtung
-    Etingen bis zur Waldkante, weiter der nördlich des Waldes in
-    westlicher Richtung verlaufende Weg, der nach 1.400 m auf die Straße
-    nach Etingen stößt.
+4.  Im **Süden:** Die Landstraße Lössewitz-Calvörde bis 200 m hinter der
+    Ohre-Brücke, dann der parallel zur Ohre in Richtung Nordwesten
+    verlaufende Weg. Weiter der nach 2.300 m von diesem abbiegende Weg zur
+    Velsdorfer-Kanalbrücke. Dann der südlich des Mittellandkanals
+    verlaufende Fanggraben Richtung West bis zur Kanalbrücke
+    Piplockenburg. Von dort 1.500 m der Weg in Richtung Etingen bis zur
+    Waldkante, weiter der nördlich des Waldes in westlicher Richtung
+    verlaufende Weg, der nach 1.400 m auf die Straße nach Etingen stößt.
 
     Danach diese Straße bis zur Bahnlinie Magdeburg-Oebisfelde und weiter
     die genannte Bahnlinie bis zum diese überquerenden Niendorfer Weg, der
@@ -207,7 +206,7 @@ Mit der Festsetzung als Naturpark "Drömling" wird bezweckt:
 
 
 
-(2) Als **Schutzzone I**              (Kernzone) werden nachfolgende
+(2) Als **Schutzzone I** (Kernzone) werden nachfolgende
 Naturschutzgebiete von zentraler Bedeutung ohne jegliche Nutzung
 (Totalreservat) ausgeschieden:
 
@@ -262,52 +261,49 @@ Naturschutzgebiete von zentraler Bedeutung ohne jegliche Nutzung
 
 
 
-(3) Als **Schutzzone II**              (Entwicklungs- und Pflegezone)
-werden nachfolgende Naturschutzgebiete von zentraler Bedeutung
-ausgewiesen:
+(3) Als **Schutzzone II** (Entwicklungs- und Pflegezone) werden
+nachfolgende Naturschutzgebiete von zentraler Bedeutung ausgewiesen:
 
 1.  **Naturschutzgebiet "Nördlicher Drömling".**
 
     Die Grenze bildet:
 
-    a)  Im **Westen**                          von der Einmündung des
-        Ohreentlasters in den Mittellandkanal die Ostgrenze des unter Punkt
-        (2) 1. beschriebenen Totalreservats "Breitenroder-Oebisfelder
-        Drömling". Weiter die Süd-, Ost- und Nordgrenze des unter Punkt (2) 2.
-        beschriebenen Totalreservats "Böckwitz-Jahrstedter Drömling". Dann die
-        Landesgrenze zu Niedersachsen nach Norden bis 3.650 m nördlich des
-        Grenzknicks.
+    a)  Im **Westen** von der Einmündung des Ohreentlasters in den
+        Mittellandkanal die Ostgrenze des unter Punkt (2) 1. beschriebenen
+        Totalreservats "Breitenroder-Oebisfelder Drömling". Weiter die Süd-,
+        Ost- und Nordgrenze des unter Punkt (2) 2. beschriebenen
+        Totalreservats "Böckwitz-Jahrstedter Drömling". Dann die Landesgrenze
+        zu Niedersachsen nach Norden bis 3.650 m nördlich des Grenzknicks.
 
 
-    b)  Im **Norden**                          der Weg 1.100 m nach Norden bis
-        zum Verbindungsweg Böckwitz-Schwarze Brücke und dieser bis zur
-        Schwarzen Brücke, dann der Weg 700 m nach Ost-Südost bis zur
-        Wegegabelung, weiter der Weg nach Nordosten bis auf den von Germenau
-        kommenden Weg, dieser nach Norden bis zum Steimker Graben. Das
-        Westufer des Steimker Grabens bildet die Grenze bis zur Bahnlinie.
-        Östlich des Bahndamms verläuft sie weiter 1.150 m nach Norden, von wo
-        sie dem Weg in Richtung Südost bis Belfort folgt. Das Grundstück
-        Belfort wird in seinen umfriedeten Grenzen ausgenommen. Im weiteren
-        bildet der Weg von Belfort in östlicher Richtung bis zum Kunrauer
-        Vorflutgraben 200 m nach Südost bis Höhe Bauerndamm (Mareitsdamm) und
-        Richtung Nordost entlang des Bauerndamms (Mareitsdamm) bis zum
-        Plattenweg, welcher als Grenze Richtung Südost bis zur Rowitz-
-        Buchhorster Straßenabbiegung nach Norden verläuft.
+    b)  Im **Norden** der Weg 1.100 m nach Norden bis zum Verbindungsweg
+        Böckwitz-Schwarze Brücke und dieser bis zur Schwarzen Brücke, dann der
+        Weg 700 m nach Ost-Südost bis zur Wegegabelung, weiter der Weg nach
+        Nordosten bis auf den von Germenau kommenden Weg, dieser nach Norden
+        bis zum Steimker Graben. Das Westufer des Steimker Grabens bildet die
+        Grenze bis zur Bahnlinie. Östlich des Bahndamms verläuft sie weiter
+        1\.150 m nach Norden, von wo sie dem Weg in Richtung Südost bis Belfort
+        folgt. Das Grundstück Belfort wird in seinen umfriedeten Grenzen
+        ausgenommen. Im weiteren bildet der Weg von Belfort in östlicher
+        Richtung bis zum Kunrauer Vorflutgraben 200 m nach Südost bis Höhe
+        Bauerndamm (Mareitsdamm) und Richtung Nordost entlang des Bauerndamms
+        (Mareitsdamm) bis zum Plattenweg, welcher als Grenze Richtung Südost
+        bis zur Rowitz-Buchhorster Straßenabbiegung nach Norden verläuft.
 
 
-    c)  Im **Osten**                          der anschließende Weg nach Süden
-        bis zum Flötgraben, das östliche Flötgrabenufer bis zu den Schleusen
-        an der Einmündung des Wilhelmkanal, das Ostufer des Wilhelmkanals bis
-        zum Zufluß des Kalten Moorgrabens.
+    c)  Im **Osten** der anschließende Weg nach Süden bis zum Flötgraben, das
+        östliche Flötgrabenufer bis zu den Schleusen an der Einmündung des
+        Wilhelmkanal, das Ostufer des Wilhelmkanals bis zum Zufluß des Kalten
+        Moorgrabens.
 
 
-    d)  Im **Süden**                          das Südufer des Kalten
-        Moorgrabens bis zum trigonometrischen Punkt 56,3, das Südufer des
-        Verbindungsgrabens zum Schöpfwerk Buchhorst bis zur Straße Röwitz-
-        Buchhorst, diese bis zur Ohre, das Südufer der Ohre bis zur Bahnlinie
-        Oebisfelde-Salzwedel, der Fuß des westlichen Bahndamms bis zum
-        trigonometrischen Punkt 57,9, die Straße Richtung Wolmirshorst bis zum
-        südlichen Dammfuß des Mittellandkanals, dieser bis zur Grenze.
+    d)  Im **Süden** das Südufer des Kalten Moorgrabens bis zum
+        trigonometrischen Punkt 56,3, das Südufer des Verbindungsgrabens zum
+        Schöpfwerk Buchhorst bis zur Straße Röwitz-Buchhorst, diese bis zur
+        Ohre, das Südufer der Ohre bis zur Bahnlinie Oebisfelde-Salzwedel, der
+        Fuß des westlichen Bahndamms bis zum trigonometrischen Punkt 57,9, die
+        Straße Richtung Wolmirshorst bis zum südlichen Dammfuß des
+        Mittellandkanals, dieser bis zur Grenze.
 
 
 
@@ -317,38 +313,37 @@ ausgewiesen:
 
     Die Grenze bildet:
 
-    a)  Im **Westen**                          der Mannhauser Damm ab TP 55,8
-        (Brücke Allerkanal), nach Norden die weiterführende Straße über
-        Breiteiche I und Breiteiche II in Richtung Mieste bis zur Sichauer
-        Beeke.
+    a)  Im **Westen** der Mannhauser Damm ab TP 55,8 (Brücke Allerkanal), nach
+        Norden die weiterführende Straße über Breiteiche I und Breiteiche II
+        in Richtung Mieste bis zur Sichauer Beeke.
 
 
-    b)  Im **Norden**                          die Sichauer Beeke 400 m nach
-        Südost bis zum Weg, der nach Nordost auf den Wernitzer Wiesenweg
-        trifft, dieser nach Süden bis zum Hauptflutgraben, dieser bis zur
-        Werbnitz-Sachauer-Straße, der Straße nach Sachau folgend bis 200 m
-        nach der Rechtskurve, von dort der Graben nach Nordosten bis zum
-        Melkstandweg, dieser bis zum Melkstand, dann 10 m südwestlich der
-        Graben bis zum Wallgraben (Solpker Wiesengraben).
+    b)  Im **Norden** die Sichauer Beeke 400 m nach Südost bis zum Weg, der
+        nach Nordost auf den Wernitzer Wiesenweg trifft, dieser nach Süden bis
+        zum Hauptflutgraben, dieser bis zur Werbnitz-Sachauer-Straße, der
+        Straße nach Sachau folgend bis 200 m nach der Rechtskurve, von dort
+        der Graben nach Nordosten bis zum Melkstandweg, dieser bis zum
+        Melkstand, dann 10 m südwestlich der Graben bis zum Wallgraben
+        (Solpker Wiesengraben).
 
 
-    c)  Im **Osten**                          der Wallgraben (Solpker
-        Wiesengraben) und in dessen direkter Verlängerung der Sachauer
-        Grenzgraben bis auf Höhe des Beginns des Sachauer Moorgrabens, folgt
-        dann dem Verbindungsgraben nach Süd-Südost bis zum Moorgraben und dem
-        Moorgraben bis zur Sichauer Beeke, der Sichauer Beeke bis zum
-        Jeseritzer Weg, folgt diesem Richtung Osten 1.500 m bis zum Melkstand,
-        dann einem Weg 1.000 m nach Südosten und bis zum Bauerngraben.
+    c)  Im **Osten** der Wallgraben (Solpker Wiesengraben) und in dessen
+        direkter Verlängerung der Sachauer Grenzgraben bis auf Höhe des
+        Beginns des Sachauer Moorgrabens, folgt dann dem Verbindungsgraben
+        nach Süd-Südost bis zum Moorgraben und dem Moorgraben bis zur Sichauer
+        Beeke, der Sichauer Beeke bis zum Jeseritzer Weg, folgt diesem
+        Richtung Osten 1.500 m bis zum Melkstand, dann einem Weg 1.000 m nach
+        Südosten und bis zum Bauerngraben.
 
         Der Bauerngraben bildet dann die Grenze bis zur Asphaltstraße. Die
         Grenze wird auf der Asphaltstraße bis 200 m südlich der
         Spohnstiegbrücke fortgesetzt.
 
 
-    d)  Im **Süden**                          der Weg südlich der Ohre auf
-        einer Länge von 3.100 m, danach der Graben 600 m nach Norden bis zur
-        Ohre und das südliche Ohreufer 50 m nach Westen sowie der Graben
-        südlich des Allerkanals bis zum Mannhauser Damm.
+    d)  Im **Süden** der Weg südlich der Ohre auf einer Länge von 3.100 m,
+        danach der Graben 600 m nach Norden bis zur Ohre und das südliche
+        Ohreufer 50 m nach Westen sowie der Graben südlich des Allerkanals bis
+        zum Mannhauser Damm.
 
 
 
@@ -358,23 +353,23 @@ ausgewiesen:
 
     Die Grenze bildet:
 
-    a)  Im **Norden**                          das Nordufer des Flötgrabens ab
-        1\. durchgehendem Dammgraben (420 m östlich der Straße Trippigleben-
-        Quarnebeck) bis zum TP 61,8 und das Nordufer des Grabens in
-        südöstlicher Richtung bis vor den Melkstand.
+    a)  Im **Norden** das Nordufer des Flötgrabens ab 1. durchgehendem
+        Dammgraben (420 m östlich der Straße Trippigleben-Quarnebeck) bis zum
+        TP 61,8 und das Nordufer des Grabens in südöstlicher Richtung bis vor
+        den Melkstand.
 
 
-    b)  Im **Osten**                          ab Melkstand (den Melkstand
-        ausnehmend) der Weg nach Süden bis zu seiner Gabelung.
+    b)  Im **Osten** ab Melkstand (den Melkstand ausnehmend) der Weg nach
+        Süden bis zu seiner Gabelung.
 
 
-    c)  Im **Süden**                          anschließend der nach West
-        führende Weg bis zum Flötgraben und dieser 20 m nach Süden, dann der
-        nach Westen führende Graben.
+    c)  Im **Süden** anschließend der nach West führende Weg bis zum
+        Flötgraben und dieser 20 m nach Süden, dann der nach Westen führende
+        Graben.
 
 
-    d)  Im **Westen**                          der von der Nordgrenze
-        (Flötgraben) bis zur Südgrenze durchgehende 1. Dammgraben.
+    d)  Im **Westen** der von der Nordgrenze (Flötgraben) bis zur Südgrenze
+        durchgehende 1. Dammgraben.
 
 
 
@@ -384,25 +379,24 @@ ausgewiesen:
 
     Die Grenze bildet:
 
-    a)  Im **Westen**                          der am Dammfuß des
-        Mittellandkanals beginnende Weg, der östlich einer etwa 3 m über
-        Geländeoberfläche anstehenden Aufspülung 550 m Richtung Nord zum TP
-        56,2 am Südufer der Ohre führt.
+    a)  Im **Westen** der am Dammfuß des Mittellandkanals beginnende Weg, der
+        östlich einer etwa 3 m über Geländeoberfläche anstehenden Aufspülung
+        550 m Richtung Nord zum TP 56,2 am Südufer der Ohre führt.
 
 
-    b)  Im **Norden**                          das Südufer der Ohre von TP
-        56,2 875 m Richtung Südost bis zum Graben, der die Gemarkungsgrenze
-        zwischen Lockstedt und Rätzlingen bildet.
+    b)  Im **Norden** das Südufer der Ohre von TP 56,2 875 m Richtung Südost
+        bis zum Graben, der die Gemarkungsgrenze zwischen Lockstedt und
+        Rätzlingen bildet.
 
 
-    c)  Im **Osten**                          der Graben vom südlichen
-        Ohreufer entlang der Gemarkungsgrenze Lockstedt-Rätzlingen nach Süden
-        bis zum Dammfuß des Mittellandkanals.
+    c)  Im **Osten** der Graben vom südlichen Ohreufer entlang der
+        Gemarkungsgrenze Lockstedt-Rätzlingen nach Süden bis zum Dammfuß des
+        Mittellandkanals.
 
 
-    d)  Im **Süden**                          der nördliche Dammfuß des
-        Mittellandkanals von der Gemarkungsgrenze Lockstedt-Rätzlingen 770 m
-        nach Nordwesten bis zur ca. 3 m über Gelände anstehenden Aufspülung.
+    d)  Im **Süden** der nördliche Dammfuß des Mittellandkanals von der
+        Gemarkungsgrenze Lockstedt-Rätzlingen 770 m nach Nordwesten bis zur
+        ca. 3 m über Gelände anstehenden Aufspülung.
 
 
 
@@ -412,24 +406,22 @@ ausgewiesen:
 
     Die Grenze bildet:
 
-    a)  Im **Süden**                          der 2. Weg von Stauanlage bis
-        Grenzweg zwischen den Gemarkungen Wassensdorf und Breitenrode.
+    a)  Im **Süden** der 2. Weg von Stauanlage bis Grenzweg zwischen den
+        Gemarkungen Wassensdorf und Breitenrode.
 
 
-    b)  Im **Westen**                          dieser Grenzweg vom 2. Weg 470
-        m nach Norden bis zu einem Graben.
+    b)  Im **Westen** dieser Grenzweg vom 2. Weg 470 m nach Norden bis zu
+        einem Graben.
 
 
-    c)  Im **Norden**                          dieser Graben 340 m nach Osten
-        und Verlängerung an der Ackergrenze entlang um 110 m bis zum Ende des
-        Ödlandes (Moor).
+    c)  Im **Norden** dieser Graben 340 m nach Osten und Verlängerung an der
+        Ackergrenze entlang um 110 m bis zum Ende des Ödlandes (Moor).
 
 
-    d)  Im **Osten**                          die Ackergrenze 190 m nach
-        Südwest, dann 140 m nach West bis zum Graben, dann der östliche
-        Grabenrand 290 m nach Süden bis zur Stauanlage. Das Gebiet liegt 2 km
-        nördlich Wassensdorf und umfaßt in der Gemarkung Wassensdorf in der
-        Flur 7 die Flurstücke 43, 44 und 46.
+    d)  Im **Osten** die Ackergrenze 190 m nach Südwest, dann 140 m nach West
+        bis zum Graben, dann der östliche Grabenrand 290 m nach Süden bis zur
+        Stauanlage. Das Gebiet liegt 2 km nördlich Wassensdorf und umfaßt in
+        der Gemarkung Wassensdorf in der Flur 7 die Flurstücke 43, 44 und 46.
 
 
 
@@ -437,7 +429,7 @@ ausgewiesen:
 
 
 
-(4) Die **Schutzzone III**              (Erholungszone) wird als
+(4) Die **Schutzzone III** (Erholungszone) wird als
 Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen. Sie
 umfaßt alle übrigen Flächen des Naturparks in seiner äußeren
 Umgrenzung außer den Flächen der Schutzzonen I und II.
@@ -685,7 +677,7 @@ In Schutzzone II ist es grundsätzlich verboten:
 
 
 
-(4) Spezielle Verbote in **Schutzzone III**              sind:
+(4) Spezielle Verbote in **Schutzzone III** sind:
 
 1.  Das Angeln in Gebieten, die im Rahmen des
     Fischotterartenschutzprogramms ausgewiesen werden.
@@ -819,8 +811,10 @@ Diese Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1478)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

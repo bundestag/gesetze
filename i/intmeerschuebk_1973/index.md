@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen von 1973 zur Verhütung der Meeresverschmu
   durch Schiffe
 jurabk: IntMeerSchÜbk 1973
 layout: default
-origslug: intmeersch_bk_1973
+origslug: intmeerschuebk_1973
 slug: intmeerschuebk_1973
 
 ---

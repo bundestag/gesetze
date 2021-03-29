@@ -22,6 +22,9 @@ Zuletzt geändert durch
 Fünfter teil kapitel viii prüfungspflicht der wirtschaftsbetriebe der öffentlichen hand - bgbl 63-6 - aufgeh. durch
 :   § 119 Abs. 2 Nr. 5 BHO 63-1 v. 19.8.1969 I 1284 mWv 1.1.1970
 
+Vierter teil - bgbl 2331-8 - aufgeh. durch
+:   Art. 18 G v. 8.12.2010 I 1864 mWv 15.12.2010
+
 
 ## Vierter Teil - (weggefallen)
 
@@ -146,10 +149,10 @@ Die Girozentralen sind zu Anstalten mit eigener Rechtspersönlichkeit
 umzugestalten; sie unterliegen der Aufsicht der für ihren Hauptsitz
 zuständigen obersten Landesbehörde oder der von ihr bestimmten Stelle.
 Die Vorschriften des § 2 Abs. 1 Satz 2,
-Abs. 2              finden entsprechende Anwendung. Im übrigen sind
-Organisation und Geschäftsbetrieb der Girozentralen so zu regeln, wie
-es die Liquidität, insbesondere die Sicherheit der Liquiditätsreserven
-der Spar- und Girokassen, erfordert.
+Abs. 2 finden entsprechende Anwendung. Im übrigen sind Organisation
+und Geschäftsbetrieb der Girozentralen so zu regeln, wie es die
+Liquidität, insbesondere die Sicherheit der Liquiditätsreserven der
+Spar- und Girokassen, erfordert.
 
 
 #### § 9
@@ -220,10 +223,10 @@ Verbindlichkeit.
 #### Art 3
 
 Für die aus Anlaß einer Auseinandersetzung nach
-Artikel 1 § 2 Abs. 2,              § 8, Artikel 2 § 1 Abs. 3 Satz 5
-erforderlichen Rechtshandlungen werden von
-Reich,              Ländern und Gemeinden keine Steuern, Abgaben oder
-Gebühren erhoben.
+Artikel 1 § 2 Abs. 2, § 8, Artikel 2 § 1 Abs. 3 Satz 5 erforderlichen
+Rechtshandlungen werden von
+Reich, Ländern und Gemeinden keine Steuern, Abgaben oder Gebühren
+erhoben.
 
 
 #### Art 4
@@ -245,9 +248,8 @@ Ausnahmen von den Vorschriften dieser Verordnung zulassen.
 #### Art 7
 
 Die
-Reichsregierung              ist ermächtigt, zur Durchführung dieses
-Kapitels Rechtsverordnungen und allgemeine Verwaltungsvorschriften zu
-erlassen.
+Reichsregierung ist ermächtigt, zur Durchführung dieses Kapitels
+Rechtsverordnungen und allgemeine Verwaltungsvorschriften zu erlassen.
 
 
 #### Art 8

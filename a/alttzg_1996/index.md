@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1078
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 7 G v. 12.4.2012 I 579
+:   Art. 151 G v. 29.3.2017 I 626
 
 
 ## § 1 Grundsatz
@@ -524,9 +524,9 @@ nicht in Betracht.
 
 ## § 12 Verfahren
 
-(1) Die Agentur für Arbeit entscheidet auf schriftlichen Antrag des
-Arbeitgebers, ob die Voraussetzungen für die Erbringung von Leistungen
-nach § 4 vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der
+(1) Die Agentur für Arbeit entscheidet auf Antrag des Arbeitgebers, ob
+die Voraussetzungen für die Erbringung von Leistungen nach § 4
+vorliegen. Der Antrag wirkt vom Zeitpunkt des Vorliegens der
 Anspruchsvoraussetzungen, wenn er innerhalb von drei Monaten nach
 deren Vorliegen gestellt wird, andernfalls wirkt er vom Beginn des
 Monats der Antragstellung. In den Fällen des § 3 Abs. 3 kann die
@@ -701,6 +701,26 @@ Ausnahme des § 15 weiterhin anzuwenden. Auf Antrag des Arbeitgebers
 erbringt die Bundesagentur abweichend von Satz 1 Leistungen nach § 4
 in der ab dem 1. Juli 2004 geltenden Fassung, wenn die hierfür ab dem
 1\. Juli 2004 maßgebenden Voraussetzungen erfüllt sind.
+
+
+## § 15h Übergangsregelung zum Gesetz über Leistungsverbesserungen in der gesetzlichen Rentenversicherung
+
+Abweichend von § 5 Absatz 1 Nummer 2 erlischt der Anspruch auf die
+Leistungen nach § 4 nicht, wenn mit der Altersteilzeit vor dem 1.
+Januar 2010 begonnen worden ist und die Voraussetzungen für einen
+Anspruch auf eine Rente für besonders langjährig Versicherte nach §
+236b des Sechsten Buches Sozialgesetzbuch erfüllt sind.
+
+
+## § 15i Übergangsregelung zum Gesetz zu Änderungen im Bereich der geringfügigen Beschäftigung
+
+Wurde mit der Altersteilzeit vor dem 1. Januar 2013 begonnen, gelten
+Arbeitnehmerinnen und Arbeitnehmer, die bis zu diesem Zeitpunkt in
+einer versicherungspflichtigen Beschäftigung nach dem Dritten Buch
+Sozialgesetzbuch gestanden haben, auch nach dem 31. Dezember 2012 als
+versicherungspflichtig beschäftigt, wenn sie die bis zum 31. Dezember
+2012 geltenden Voraussetzungen für das Vorliegen einer
+versicherungspflichtigen Beschäftigung weiterhin erfüllen.
 
 
 ## § 16 Befristung der Förderungsfähigkeit

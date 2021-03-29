@@ -161,9 +161,9 @@ bekanntgegeben hat oder Vordrucke bereithält, sind diese zu verwenden.
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Verordnung über die Gewährung von Beihilfen für
 Saatgut vom 23. Februar 1973 (BGBl. I S. 118), zuletzt geändert durch
-die Verordnung vom 17. April 1975 (BGBl. I S. 965), außer Kraft;
-ihre Vorschriften sind jedoch hinsichtlich der Gewährung von Beihilfen
-für Saatgut im Wirtschaftsjahr 1993/94 weiter anzuwenden.
+die Verordnung vom 17. April 1975 (BGBl. I S. 965), außer Kraft; ihre
+Vorschriften sind jedoch hinsichtlich der Gewährung von Beihilfen für
+Saatgut im Wirtschaftsjahr 1993/94 weiter anzuwenden.
 
 
 ## Schlußformel

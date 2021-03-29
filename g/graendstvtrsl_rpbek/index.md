@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluss und das Inkrafttreten des Staatsvertra
   Landesgrenze
 jurabk: GrÄndStVtrSL/RPBek
 layout: default
-origslug: gr_ndstvtrsl_rpbek
+origslug: graendstvtrsl_rpbek
 slug: graendstvtrsl_rpbek
 
 ---

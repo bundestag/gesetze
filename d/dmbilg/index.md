@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl II: 1990, 885, 1169, 1239
 
 Neugefasst durch
-:   Bek. v. 28.7.1994 I 1842,
+:   Bek. v. 28.7.1994 I 1842;
 
 Zuletzt geändert durch
-:   Art. 12 Abs. 13 G v. 10.11.2006 I 2553
+:   Art. 14 Abs. 1 G v. 10.5.2016 I 1142
 
 
 ## Abschnitt 1 - Inventar. Eröffnungsbilanz. Anhang
@@ -2001,7 +2001,7 @@ entsprechend anzuwenden.
 (1) Versicherungsunternehmen haben die Vorschriften dieses Gesetzes zu
 beachten, soweit in diesem Unterabschnitt nichts anderes bestimmt ist.
 Sie dürfen die in diesem Gesetz größenabhängig zugelassenen
-Erleichterungen nicht in Anspruch nehmen. Die §§ 55, 56 Abs. 1 des
+Erleichterungen nicht in Anspruch nehmen. Die §§ 37 und 38 des
 Versicherungsaufsichtsgesetzes sind nicht anzuwenden.
 
 (2) Versicherungsunternehmen sind Unternehmen, die den Betrieb von
@@ -2023,11 +2023,7 @@ Rechnungslegung von Versicherungsunternehmen vom 11. Juli 1973,
 zuletzt geändert durch Verordnung vom 23. Dezember 1986 (BGBl. 1987 I
 S. 2), aufzustellen.
 
-(2) Versicherungsunternehmen haben die Rückstellungen gemäß § 56 Abs.
-3 des Versicherungsaufsichtsgesetzes zu bilden. § 56 Abs. 4 des
-Versicherungsaufsichtsgesetzes ist anzuwenden. § 17 Abs. 4 ist auch
-auf versicherungstechnische Rückstellungen mit Ausnahme der
-Beitragsüberträge anzuwenden.
+(2) (weggefallen)
 
 (3) Versicherungsunternehmen haben im Anhang zusätzlich die in § 12
 Nr. 3 der Verordnung über die Rechnungslegung von
@@ -2157,8 +2153,8 @@ Konzernanhang, die auf Grund gesetzlicher Vorschriften zu prüfen sind,
 einen Vermerk nach § 322 des Handelsgesetzbuchs erteilt, obwohl nach §
 34 Abs. 5 in Verbindung mit § 319 Abs. 2, 3, 5, § 319a Abs. 1 Satz 1,
 Abs. 2 des Handelsgesetzbuchs er oder nach § 34 Abs. 5 in Verbindung
-mit § 319 Abs. 4, auch in Verbindung mit § 319a Abs. 1 Satz 2, oder §
-319a Abs. 1 Satz 4 des Handelsgesetzbuchs die
+mit § 319 Absatz 4 des Handelsgesetzbuchs, auch in Verbindung mit §
+319a Absatz 1 Satz 2 des Handelsgesetzbuchs, die
 Wirtschaftsprüfungsgesellschaft oder Buchprüfungsgesellschaft, für die
 er tätig wird, nicht Prüfer sein darf.
 

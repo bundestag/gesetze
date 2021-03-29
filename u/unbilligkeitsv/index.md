@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 734
 
+Geändert durch
+:   V v. 4.10.2016 I 2210
+
 
 ## Eingangsformel
 
@@ -71,7 +74,20 @@ Beschäftigung oder Erwerbstätigkeit anzunehmen, dass diese nicht zu
 Stande kommen wird, entfällt die Unbilligkeit.
 
 
-## § 6 Inkrafttreten
+## § 6 Hilfebedürftigkeit im Alter
+
+Unbillig ist die Inanspruchnahme, wenn Leistungsberechtigte dadurch
+hilfebedürftig im Sinne der Grundsicherung im Alter und bei
+Erwerbsminderung nach dem Vierten Kapitel des Zwölften Buches
+Sozialgesetzbuch werden würden. Dies ist insbesondere anzunehmen, wenn
+der Betrag in Höhe von 70 Prozent der bei Erreichen der Altersgrenze
+(§ 7a des Zweiten Buches Sozialgesetzbuch) zu erwartenden monatlichen
+Regelaltersrente niedriger ist als der zum Zeitpunkt der Entscheidung
+über die Unbilligkeit maßgebende Bedarf der leistungsberechtigten
+Person nach dem Zweiten Buch Sozialgesetzbuch.
+
+
+## § 7 Inkrafttreten
 
 Diese Verordnung tritt mit Wirkung vom 1. Januar 2008 in Kraft.
 

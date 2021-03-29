@@ -241,7 +241,7 @@ b)  bei mehrtägiger amtlicher Tätigkeit außerhalb des dienstlichen
 Bundesreisekostengesetzes in der Fassung der Bekanntmachung vom 13.
 November 1973 (BGBl. I S. 1621),
 zuletzt geändert durch Verordnung vom 23. Dezember 1977 (BGBl. I S.
-3155),              gelten entsprechend.
+3155), gelten entsprechend.
 
 (3) Hat eine auswärtige amtliche Tätigkeit nachweislich
 außergewöhnlichen Aufwand für Verpflegung erfordert, der aus dem

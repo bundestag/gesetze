@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 481
 
 Zuletzt geändert durch
-:   Art. 8 V v. 25.4.2006 I 988
+:   Art. 1 V v. 13.6.2013 I 1609
 
 
 ## Eingangsformel
@@ -69,9 +69,7 @@ durch das Gutachten eines amtlich anerkannten Sachverständigen oder
 Prüfers für den Kraftfahrzeugverkehr bescheinigt wird, daß keine
 Bedenken gegen die Verkehrssicherheit des Fahrzeugs auf solchen
 Veranstaltungen bestehen. Abweichend von § 17 Abs. 1 Satz 2 der
-Straßenverkehrs-Ordnung vom 16. November 1970 (BGBl. I S. 1565; 1971 I
-S. 38), die zuletzt durch die Verordnung vom 19. März 1992 (BGBl. I S.
-678) geändert worden ist, und § 49a Abs. 1 Satz 1 der Straßenverkehrs-
+Straßenverkehrs-Ordnung und § 49a Abs. 1 Satz 1 der Straßenverkehrs-
 Zulassungs-Ordnung dürfen an Fahrzeugen bei der Verwendung nach Absatz
 1 Satz 1 Nr. 1 die vorgeschriebenen oder für zulässig erklärten
 lichttechnischen Einrichtungen verdeckt und zusätzliche
@@ -84,18 +82,18 @@ der Straßenverkehrs-Zulassungs-Ordnung ist nicht erforderlich.
 die Fahrerlaubnis der Klasse L oder T auch zum Führen von Zugmaschinen
 und Anhängern im Sinne von Absatz 1 Satz 1, bei Klasse L jedoch nur
 bis zu einer durch die Bauart bestimmten Höchstgeschwindigkeit der
-Zugmaschine von nicht mehr als 32 km/h, wenn die Zugmaschinen und
+Zugmaschine von nicht mehr als 40 km/h, wenn die Zugmaschinen und
 Anhänger gemäß dieser Vorschrift eingesetzt werden und der
 Fahrzeugführer das 18. Lebensjahr vollendet hat.
 
-(3) Abweichend von § 21 Abs. 2 Satz 2 der Straßenverkehrs-Ordnung
-dürfen beim Einsatz von Fahrzeugen auf örtlichen
+(3) Abweichend von § 21 Absatz 2 Satz 4 der Straßenverkehrs-Ordnung
+dürfen beim Einsatz von Fahrzeugen nach Absatz 1 Satz 1 auf örtlichen
 Brauchtumsveranstaltungen, nicht jedoch auf den An- und Abfahrten,
-nach Absatz 1 Satz 1 Personen auf Anhängern befördert werden, wenn
-deren Ladefläche eben, tritt- und rutschfest ist, für jeden Sitz- und
-Stehplatz eine ausreichende Sicherung gegen Verletzungen und
-Herunterfallen des Platzinhabers besteht und die Aufbauten sicher
-gestaltet und am Anhänger fest angebracht sind.
+Personen auf Anhängern befördert werden, wenn deren Ladefläche eben,
+tritt- und rutschfest ist, für jeden Sitz- und Stehplatz eine
+ausreichende Sicherung gegen Verletzungen und Herunterfallen des
+Platzinhabers besteht und die Aufbauten sicher gestaltet und am
+Anhänger fest angebracht sind.
 
 (4) Die Ausnahmen nach den Absätzen 1 bis 3 gelten nur, wenn
 

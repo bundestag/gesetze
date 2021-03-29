@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1931
 
-Geändert durch
-:   Art. 1 V v. 23.12.2009 I 3972
+Zuletzt geändert durch
+:   Art. 577 V v. 31.8.2015 I 1474
 
 [^f771489_01_BJNR193100008]:     Die Abschnitte 1 und 2 dieser Verordnung dienen der Umsetzung der
     Richtlinie 2006/23/EG des Europäischen Parlaments und des Rates vom 5.
@@ -1450,7 +1450,7 @@ Voraussetzungen:
 (1) Für das Flugsicherungspersonal nach § 1 Nr. 2 und 3 ist die
 medizinische Tauglichkeit vor der Einstellung in einer
 Erstuntersuchung nach der entsprechenden Tauglichkeitsrichtlinie des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung vom 25.
+Bundesministeriums für Verkehr und digitale Infrastruktur vom 25.
 August 2001, NfL II 78/01, in der jeweils gültigen Fassung
 nachzuweisen.
 
@@ -1478,7 +1478,7 @@ genannten Richtlinie in folgenden Zeiträumen festzustellen:
 
 
 (3) Falls von dem nach der in Absatz 1 genannten Richtlinie des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+Bundesministeriums für Verkehr und digitale Infrastruktur
 untersuchenden Arzt eine kürzere Frist für erforderlich gehalten wird,
 kann eine vorzeitige Nachuntersuchung veranlasst werden. Auch beim
 Vorliegen besonderer Gründe, die Zweifel an dem Fortbestehen der
@@ -2137,8 +2137,10 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 (1) Diese Verordnung tritt am 17. Oktober 2008 in Kraft.
 
+(zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5
+und 8)
 
-### Anlage 1 (zu den §§ 9, 10 Abs. 1 und 2, § 11 Abs. 1, 2, 3 und 5, § 47 Abs. 5 und 8) Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
+### Anlage 1 Grundlegende Ausbildung für Fluglotsen – Leistungsnachweise; Sprachenvermerke
 
 (Fundstelle: BGBl. I 2008, 1949 - 1957)
 
@@ -2384,7 +2386,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Menschliche Leistungsfähigkeit
 
@@ -2400,7 +2402,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Nationales Recht,**                          insbesondere:
+        **Nationales Recht,** insbesondere:
 
         –   Allgemeine rechtliche Grundlagen der Tätigkeit
 
@@ -2416,7 +2418,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Luftrecht,**                          insbesondere:
+        **Luftrecht,** insbesondere:
 
         –   Luftraumordnung
 
@@ -2444,8 +2446,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Betriebsverfahren für die Flugverkehrskontrolle,**
-        insbesondere:
+        **Betriebsverfahren für die Flugverkehrskontrolle,** insbesondere:
 
         –   Allgemeine Kontrollverfahren
 
@@ -2479,7 +2480,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Flugwetterkunde,**                          insbesondere:
+        **Flugwetterkunde,** insbesondere:
 
         –   Organisation des Wetterdienstes
 
@@ -2498,7 +2499,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Navigation,**                          insbesondere:
+        **Navigation,** insbesondere:
 
         –   Erde
 
@@ -2514,8 +2515,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Luftfahrzeuge und Luftfahrtkunde,**
-        insbesondere:
+        **Luftfahrzeuge und Luftfahrtkunde,** insbesondere:
 
         –   Aerodynamik
 
@@ -2534,8 +2534,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Technische Flugsicherungssysteme,**
-        insbesondere:
+        **Technische Flugsicherungssysteme,** insbesondere:
 
         –   Funk- und Kommunikationssysteme
 
@@ -2551,7 +2550,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Flugfunkdienst,**                          insbesondere:
+        **Flugfunkdienst,** insbesondere:
 
         –   Grundlagen
 
@@ -2564,7 +2563,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Luftfahrtenglisch,**                          insbesondere:
+        **Luftfahrtenglisch,** insbesondere:
 
         –   Luftfahrtspezifische Sprachkommunikation
 
@@ -2574,7 +2573,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Flugdatenbearbeitung,**                          insbesondere:
+        **Flugdatenbearbeitung,** insbesondere:
 
         –   Flugpläne
 
@@ -2596,7 +2595,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Betriebliches Umfeld,**                          insbesondere:
+        **Betriebliches Umfeld,** insbesondere:
 
         –   Betriebsstätten der zivilen Flugsicherung
 
@@ -2679,8 +2678,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Flugsicherungsdienste in Flugplatzkontrollstellen,**
-        insbesondere:
+        Flugsicherungsdienste in Flugplatzkontrollstellen,** insbesondere:
 
         –   Einweisung in das Simulationssystem
 
@@ -2829,8 +2827,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Radarkontrolle in Flugplatzkontrollstellen,**
-        insbesondere:
+        Radarkontrolle in Flugplatzkontrollstellen,** insbesondere:
 
 
         –   Einweisung in das Simulationssystem
@@ -2899,8 +2896,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
         Februar 2002 nicht oder nur eingeschränkt vermittelt worden sind.
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Flugsicherungsdienste in Flugplatzkontrollstellen,**
-        insbesondere:
+        Flugsicherungsdienste in Flugplatzkontrollstellen,** insbesondere:
 
         –   Einweisung in das Simulationssystem
 
@@ -2925,7 +2921,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Menschliche Leistungsfähigkeit
 
@@ -2989,8 +2985,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Nutzung von elektronischer
-        Rollverkehrsdarstellung in Flugplatzkontrollstellen,**
-        insbesondere:
+        Rollverkehrsdarstellung in Flugplatzkontrollstellen,** insbesondere:
 
 
         –   Grundsätzliche Funktionsweise und Verwendung von Radar
@@ -3067,7 +3062,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Anflugkontrolle,**                          insbesondere:
+        Anflugkontrolle,** insbesondere:
 
         –   Einweisung in das Simulationssystem und die Simulationsübungen
 
@@ -3090,7 +3085,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Psychologische Faktoren
 
@@ -3173,7 +3168,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Streckenkontrolle,**                          insbesondere:
+        Streckenkontrolle,** insbesondere:
 
         –   Einweisung in das Simulationssystem und die Simulationsübungen
 
@@ -3196,7 +3191,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Psychologische Faktoren
 
@@ -3281,8 +3276,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Flugsicherungsdienste im Nahverkehrsbereich,**
-        insbesondere:
+        Flugsicherungsdienste im Nahverkehrsbereich,** insbesondere:
 
         –   Einweisung in die Simulationsübungen
 
@@ -3395,7 +3389,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Streckenkontrolle,**                          insbesondere:
+        Streckenkontrolle,** insbesondere:
 
         –   Einweisung in die Simulationsübungen
 
@@ -3476,7 +3470,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     b)  Ausbildungsinhalte (Wesentliches Themengebiet)
 
         **Betriebliche Kenntnisse und Verfahren zur Durchführung der
-        Anflugkontrolle,**                          insbesondere:
+        Anflugkontrolle,** insbesondere:
 
         –   Einweisung in die Simulationsübungen
 
@@ -3532,8 +3526,9 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
     (ADS) und Ozeankontrolle (OCN) werden zurzeit in Deutschland nicht
     genutzt. Deshalb sind hierfür keine Ausbildungskurse beschrieben.
 [^f771489_02_BJNR193100008BJNE005200000]: 
+(zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3)
 
-### Anlage 2 (zu § 13 Abs. 6 und 7, § 14 Abs. 1, 2 und 3) Betriebliche Ausbildung für Fluglotsen
+### Anlage 2 Betriebliche Ausbildung für Fluglotsen
 
 (Fundstelle: BGBl. I 2008, 1958 - 1959)
 
@@ -3564,7 +3559,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
     a)  Ausbildungsinhalte
 
-        **Organisatorische Inhalte,**                          insbesondere:
+        **Organisatorische Inhalte,** insbesondere:
 
         –   Organisation der Flugsicherungsstelle
 
@@ -3592,8 +3587,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
-        **Abschnittsübergreifende fachliche Inhalte,**
-        insbesondere:
+        **Abschnittsübergreifende fachliche Inhalte,** insbesondere:
 
         –   Örtliche Luftraumordnung
 
@@ -3628,8 +3622,7 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
     a)  Ausbildungsinhalte
 
-        **Abschnittsbezogene fachliche Einweisungsinhalte,**
-        insbesondere:
+        **Abschnittsbezogene fachliche Einweisungsinhalte,** insbesondere:
 
         –   Zuständigkeitsbereiche und Arbeitsplätze des Trainingsabschnitts
 
@@ -3685,8 +3678,9 @@ Jahre nach Inkrafttreten dieser Verordnung nachzuweisen.
 
 
 
+(zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6)
 
-### Anlage 3 (zu § 10 Abs. 2, 3, 5 und 7, § 34 Abs. 4 und 6) Einstufungstabelle für Sprachkompetenz
+### Anlage 3 Einstufungstabelle für Sprachkompetenz
 
 (Fundstelle: BGBl. I 2008, 1960 - 1961)
 Die in § 10 Abs. 2 und 3 und § 34 Abs. 4 festgelegten Anforderungen an
@@ -3941,8 +3935,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 5 Abs. 2)
 
-### Anlage 4 (zu § 5 Abs. 2) Anforderungen an Lizenzscheine
+### Anlage 4 Anforderungen an Lizenzscheine
 
 (Fundstelle: BGBl. I 2008, 1962)
 
@@ -4017,8 +4012,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3)
 
-### Anlage 5 (zu § 33 Abs. 1 und 3, § 34 Abs. 3, § 35 Abs. 3) Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+### Anlage 5 Grundlegende Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 (Fundstelle: BGBl. I 2008, 1963 - 1968)
 
@@ -4125,7 +4121,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
         **Einführung in den Grundkurs für Flugverkehrsmanagement-
-        Spezialisten,**                           insbesondere:
+        Spezialisten,**  insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4138,8 +4134,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Einführung in das Flugsicherungsunternehmen DFS,**
-        insbesondere:
+        **Einführung in das Flugsicherungsunternehmen DFS,** insbesondere:
 
         –   Aufgaben und Organisation der DFS
 
@@ -4152,7 +4147,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Menschliche Leistung
 
@@ -4168,7 +4163,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Luftrecht,**                          insbesondere:
+        **Luftrecht,** insbesondere:
 
         –   Nationale und internationale Organisationen
 
@@ -4181,8 +4176,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugsicherungsbetriebsverfahren,**
-        insbesondere:
+        **Flugsicherungsbetriebsverfahren,** insbesondere:
 
         –   Flugverkehrskontrolldienst
 
@@ -4201,7 +4195,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Wetterkunde,**                          insbesondere:
+        **Wetterkunde,** insbesondere:
 
         –   Erdatmosphäre
 
@@ -4217,7 +4211,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Navigation,**                          insbesondere:
+        **Navigation,** insbesondere:
 
         –   Erde
 
@@ -4233,8 +4227,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Luftfahrzeuge und Luftfahrtkunde,**
-        insbesondere:
+        **Luftfahrzeuge und Luftfahrtkunde,** insbesondere:
 
         –   Grundprinzipien des Fliegens
 
@@ -4247,8 +4240,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Technische Flugsicherungssysteme,**
-        insbesondere:
+        **Technische Flugsicherungssysteme,** insbesondere:
 
         –   Funk- und Kommunikationssysteme
 
@@ -4261,7 +4253,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugfunkdienst,**                          insbesondere:
+        **Flugfunkdienst,** insbesondere:
 
         –   Grundlagen
 
@@ -4271,7 +4263,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Luftfahrtenglisch,**                          insbesondere:
+        **Luftfahrtenglisch,** insbesondere:
 
         –   Grammatik
 
@@ -4284,8 +4276,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Praktische Flugdatenbearbeitung,**
-        insbesondere:
+        **Praktische Flugdatenbearbeitung,** insbesondere:
 
         –   Flugpläne
 
@@ -4360,7 +4351,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Psychologische Faktoren
 
@@ -4382,8 +4373,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Betriebsverfahren in der Flugdatenbearbeitung,**
-        insbesondere:
+        **Betriebsverfahren in der Flugdatenbearbeitung,** insbesondere:
 
         –   Regelungen zur Flugdatenbearbeitung
 
@@ -4411,8 +4401,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Praktische Flugdatenbearbeitung,**
-        insbesondere:
+        **Praktische Flugdatenbearbeitung,** insbesondere:
 
         –   Fertigkeiten in der Flugdatenbearbeitung
 
@@ -4487,7 +4476,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Psychologische Faktoren
 
@@ -4509,8 +4498,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Betriebsverfahren im Fluginformationsdienst,**
-        insbesondere:
+        **Betriebsverfahren im Fluginformationsdienst,** insbesondere:
 
         –   Regelungen für den Fluginformationsdienst
 
@@ -4532,15 +4520,14 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugwetterkunde,**                          insbesondere:
+        **Flugwetterkunde,** insbesondere:
 
         –   Gefährliche Wettererscheinungen
 
 
 
 
-        **Technische Flugsicherungssysteme,**
-        insbesondere:
+        **Technische Flugsicherungssysteme,** insbesondere:
 
         –   Elektronische Luftverkehrsdarstellung
 
@@ -4550,7 +4537,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugfunkdienst,**                          insbesondere:
+        **Flugfunkdienst,** insbesondere:
 
         –   Sprechgruppen im Fluginformationsdienst
 
@@ -4560,7 +4547,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Luftfahrtenglisch,**                          insbesondere:
+        **Luftfahrtenglisch,** insbesondere:
 
         –   Luftfahrtspezifisches Vokabular
 
@@ -4570,8 +4557,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Praktischer Fluginformationsdienst ohne Radar,**
-        insbesondere:
+        **Praktischer Fluginformationsdienst ohne Radar,** insbesondere:
 
         –   Allgemeine Informationen
 
@@ -4593,8 +4579,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Praktischer Fluginformationsdienst mit Radar,**
-        insbesondere:
+        **Praktischer Fluginformationsdienst mit Radar,** insbesondere:
 
         –   Identifizierung
 
@@ -4658,8 +4643,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
         •   verfügen die Teilnehmer über die Fertigkeiten zum Umgang mit
             Flugplanverarbeitungs- und NOTAM-Datenbanksystemen und können
             Flugplan- und
-            NOTAM-Daten                                im Rahmen ihrer Aufgaben
-            richtig bearbeiten und aktualisieren;
+            NOTAM-Daten im Rahmen ihrer Aufgaben richtig bearbeiten und
+            aktualisieren;
 
 
         •   besitzen die Teilnehmer die notwendigen Fähigkeiten zur Ausübung
@@ -4676,8 +4661,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
     b)  Ausbildungsinhalte (Wesentliche Themengebiete)
 
-        **Einführung in den Erlaubniskurs für Flugberatung,**
-        insbesondere:
+        **Einführung in den Erlaubniskurs für Flugberatung,** insbesondere:
 
         –   Kursmanagement und -verwaltung
 
@@ -4690,7 +4674,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Menschliche Faktoren,**                          insbesondere:
+        **Menschliche Faktoren,** insbesondere:
 
         –   Psychologische Faktoren
 
@@ -4712,8 +4696,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Betriebsverfahren in der Flugberatung,**
-        insbesondere:
+        **Betriebsverfahren in der Flugberatung,** insbesondere:
 
         –   Regelungen zur Flugberatung
 
@@ -4738,14 +4721,14 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugplanbearbeitung,**                          insbesondere:
+        **Flugplanbearbeitung,** insbesondere:
 
         –   Kenntnisse und Umsetzung nationaler und internationaler Anforderungen
 
 
 
 
-        **NOTAM,**                          insbesondere:
+        **NOTAM,** insbesondere:
 
         –   Kenntnisse über internationale Anforderungen an NOTAM
 
@@ -4758,7 +4741,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Praktische Flugberatung,**                          insbesondere:
+        **Praktische Flugberatung,** insbesondere:
 
         –   Fertigkeiten in der Flugberatung
 
@@ -4837,8 +4820,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Betriebsverfahren in der Platzkoordination,**
-        insbesondere:
+        **Betriebsverfahren in der Platzkoordination,** insbesondere:
 
         –   Anlassverfahren
 
@@ -4854,8 +4836,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Technische Flugsicherungssysteme,**
-        insbesondere:
+        **Technische Flugsicherungssysteme,** insbesondere:
 
         –   Integrierte Flugplanverarbeitung
 
@@ -4865,7 +4846,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Flugfunkdienst,**                          insbesondere:
+        **Flugfunkdienst,** insbesondere:
 
         –   Sprechgruppen in der Platzkoordination
 
@@ -4875,15 +4856,14 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Navigation,**                          insbesondere:
+        **Navigation,** insbesondere:
 
         –   Instrumenten-Abflugverfahren
 
 
 
 
-        **Praktische Platzkoordination,**
-        insbesondere:
+        **Praktische Platzkoordination,** insbesondere:
 
         –   Anlasserlaubnis
 
@@ -4930,8 +4910,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3)
 
-### Anlage 6 (zu § 33 Abs. 3, § 34 Abs. 3, § 35 Abs. 3) Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+### Anlage 6 Grundlegende Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 (Fundstelle: BGBl. I 2008, 1969 - 1970)
 
@@ -4993,8 +4974,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-    **Technische Grundlagen der Datenübertragungstechnik,**
-    insbesondere:
+    **Technische Grundlagen der Datenübertragungstechnik,** insbesondere:
 
     –   Netzwerke
 
@@ -5016,7 +4996,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
     **Technische Grundlagen der Sprachübertragungs- und
-    Vermittlungstechnik,**                    insbesondere:
+    Vermittlungstechnik,** insbesondere:
 
     –   Übertragungstechniken und -verfahren
 
@@ -5029,8 +5009,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-    **Technische Grundlagen der Navigationstechnik,**
-    insbesondere:
+    **Technische Grundlagen der Navigationstechnik,** insbesondere:
 
     –   Begriffe der Navigation
 
@@ -5043,8 +5022,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-    **Technische Grundlagen der Radartechnik,**
-    insbesondere:
+    **Technische Grundlagen der Radartechnik,** insbesondere:
 
     –   Begriffe und Definitionen
 
@@ -5063,8 +5041,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-    **Technische Grundlagen der Flugsicherungssysteme,**
-    insbesondere:
+    **Technische Grundlagen der Flugsicherungssysteme,** insbesondere:
 
     –   Funktion, Arbeitsweise, Zusammenhänge und Bedeutung von
         Flugsicherungssystemen
@@ -5072,7 +5049,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-    **Betriebliches Praktikum,**                    insbesondere:
+    **Betriebliches Praktikum,** insbesondere:
 
     –   Betrieblicher Einsatz und logistische Betreuung technischer
         Flugsicherungssysteme
@@ -5098,8 +5075,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
-### Anlage 7 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4) Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
+### Anlage 7 Betriebliche Ausbildung für Flugsicherungsbetriebspersonal nach § 1 Nr. 2
 
 (Fundstelle: BGBl. I 2008, 1971)
 
@@ -5130,7 +5108,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
     a)  Ausbildungsinhalte
 
-        **Organisatorische Inhalte,**                          insbesondere:
+        **Organisatorische Inhalte,** insbesondere:
 
         –   Organisation der Flugsicherungsstelle
 
@@ -5158,8 +5136,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
-        **Abschnittsübergreifende fachliche Inhalte,**
-        insbesondere:
+        **Abschnittsübergreifende fachliche Inhalte,** insbesondere:
 
         –   Örtliche Luftraumordnung
 
@@ -5194,8 +5171,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
     a)  Ausbildungsinhalte
 
-        **Abschnittsbezogene fachliche Einweisungsinhalte,**
-        insbesondere:
+        **Abschnittsbezogene fachliche Einweisungsinhalte,** insbesondere:
 
         –   Zuständigkeitsbereiche und Arbeitsplätze des Trainingsabschnitts
 
@@ -5232,8 +5208,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4)
 
-### Anlage 8 (zu § 37 Abs. 5, § 38 Abs. 1, 3 und 4) Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
+### Anlage 8 Betriebliche Ausbildung für flugsicherungstechnisches Personal nach § 1 Nr. 3
 
 (Fundstelle: BGBl. I 2008, 1972)
 
@@ -5335,8 +5312,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2)
 
-### Anlage 9 (zu § 18 Abs. 1, den §§ 20 und 35 Abs. 2) Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
+### Anlage 9 Bewertung der Leistungen in Leistungsnachweisen, Teilprüfungen und Prüfungen, Ermittlung des Ergebnisses einer Prüfung aus den Ergebnissen der Teilprüfungen, Erbringen von Leistungsnachweisen und Bestehen von Prüfungen
 
 ( Fundstelle: BGBl. I 2008, 1973 - 1974 )
 
@@ -5586,8 +5564,9 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 
+(zu § 7 Abs. 2 und 6, § 47 Abs. 11)
 
-### Anlage 10 (zu § 7 Abs. 2 und 6, § 47 Abs. 11) Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
+### Anlage 10 Anforderungen für das Tauglichkeitszeugnis Klasse 3 für Fluglotsen
 
 (Fundstelle: BGBl. I 2008, 1975 - 1979)
 
@@ -5864,8 +5843,8 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 *    *
     *
 
-*    *   **Einschränkungen/**                       Limitations
-        **Beschreibung/**                       Description
+*    *   **Einschränkungen/**Limitations
+        **Beschreibung/**Description
 
     *   Hier ist eine Beschreibung aller Einschränkungen
         des Zeugnisses einzugeben.
@@ -5882,15 +5861,15 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 *    *
     *
 
-*    *   **Ausstellungsstaat/**                     State of Issue
+*    *   **Ausstellungsstaat/**State of Issue
 
     *   Jedem Zeugnis wird eine eigene Nummer zugewiesen.
 
 
-*    *   **Deutschland/**                     Germany
+*    *   **Deutschland/**Germany
 
 
-*    *   **Referenznummer/**                     Reference Number
+*    *   **Referenznummer/**Reference Number
         ..........
 
 
@@ -5902,18 +5881,18 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
 
 *    *   Geburtsort und -datum/
-        ****                      Date and place of birth
+        **** Date and place of birth
         ..........
 
     *   Hier wird das normale Datumsformat verwendet,
         d. h. Tag-Monat-Jahr (z. B. 19-09-1973).
 
 
-*    *   **Staatsangehörigkeit/**                     Nationality
+*    *   **Staatsangehörigkeit/**Nationality
 
     *
 
-*    *   **Unterschrift des Inhabers/**                     Signature of holder
+*    *   **Unterschrift des Inhabers/**Signature of holder
         ..........
 
     *
@@ -5933,11 +5912,11 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
 
     *
 
-*    *   **Gültig bis/**                       Expiry Date
+*    *   **Gültig bis/**Expiry Date
         ..........
 
 
-*    *   **Ausstellungsdatum/**                       Date of Issue
+*    *   **Ausstellungsdatum/**Date of Issue
         ...........
 
 
@@ -5948,7 +5927,7 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
         ..........
 
 
-*    *   **Siegel oder Stempel/**                       Stamp
+*    *   **Siegel oder Stempel/**Stamp
 
     *   Siegel oder Stempel können elektronisch oder manuell
         eingefügt werden.
@@ -5962,42 +5941,41 @@ e)  sprechen einen Dialekt oder mit einem Akzent, der in Luftfahrtkreisen
    **Seiten 5 und 6**
 
 
-*    *   **Erstuntersuchung/**                     Initial Medical Examination:
-        **Datum/**                     Date: ..........
+*    *   **Erstuntersuchung/**Initial Medical Examination:
+        **Datum/**Date: ..........
 
-    *   **Land/**                     State: **Deutschland/**
-        Germany
-
-
-*    *   **Datum der/**                     Date of
-
-    *   **Letzten/**                     Last
-
-    *   **Nächsten/**                     Next
+    *   **Land/**State: **Deutschland/**Germany
 
 
-*    *   **Allgemeinen Untersuchung**                     /General Examination
+*    *   **Datum der/**Date of
 
-    *   ..........
+    *   **Letzten/**Last
 
-    *   ..........
+    *   **Nächsten/**Next
 
 
-*    *   **Elektrokardiographie/**                     Electrocardiogram
+*    *   **Allgemeinen Untersuchung**/General Examination
 
     *   ..........
 
     *   ..........
 
 
-*    *   **Audiometrie/**                     Audiogram
+*    *   **Elektrokardiographie/**Electrocardiogram
 
     *   ..........
 
     *   ..........
 
 
-*    *   **Augenuntersuchung/**                     Ophthalmology
+*    *   **Audiometrie/**Audiogram
+
+    *   ..........
+
+    *   ..........
+
+
+*    *   **Augenuntersuchung/**Ophthalmology
 
     *   ..........
 
@@ -6012,7 +5990,7 @@ Anforderungen/**
 Medical Certification summary of Minimum Periodic Requirements
 
 
-*    *   **Erstuntersuchung/**                     Initial Examination
+*    *   **Erstuntersuchung/**Initial Examination
 
     *   Anerkanntes flugmedizinisches Zentrum/
         Aeromedical Centre (AMC)
@@ -6039,7 +6017,7 @@ Medical Certification summary of Minimum Periodic Requirements
         Ab 40 Jahre/Over 40 – 1 Jahr/1 year
 
 
-*    *   **Blutuntersuchung/**                     Blood Tests
+*    *   **Blutuntersuchung/**Blood Tests
 
     *   Bei der Erstuntersuchung/At initial examination
         Bis 40 Jahre/Under 40 – alle 4 Jahre/4 yearly
@@ -6052,14 +6030,14 @@ Medical Certification summary of Minimum Periodic Requirements
     *   Wenn medizinisch indiziert/If medically indicated
 
 
-*    *   **Elektrokardiographie/**                     Electrocardiogram
+*    *   **Elektrokardiographie/**Electrocardiogram
 
     *   Bei der Erstuntersuchung/At initial examination
         Bis 30 Jahre/Under 30 – alle 4 Jahre/4 yearly
         Ab 30 Jahre/Over 30 – alle 2 Jahre/2 yearly
 
 
-*    *   **Audiometrie/**                     Audiogram
+*    *   **Audiometrie/**Audiogram
 
     *   Bei der Erstuntersuchung/At initial examination
         Bis 40 Jahre/Under 40 – alle 4 Jahre/4 yearly
@@ -6077,7 +6055,7 @@ Medical Certification summary of Minimum Periodic Requirements
         0,7, 1,0) nur mit Sehhilfe erreicht werden können.
 
 
-*    *   **Tonometrie/**                     Tonometry
+*    *   **Tonometrie/**Tonometry
 
     *   Ab 40 Jahre/Over 40 – alle 2 Jahre/2 yearly
 
@@ -6090,7 +6068,7 @@ Medical Certification summary of Minimum Periodic Requirements
         At renewal if medically indicated
 
 
-*    *   **Harnanalyse/**                     Urinanalysis
+*    *   **Harnanalyse/**Urinanalysis
 
     *   Bei jeder Untersuchung/At every examination
 

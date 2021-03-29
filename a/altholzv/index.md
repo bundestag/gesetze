@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3302
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 26 G v. 24.2.2012 I 212
+:   Art. 62 G v. 29.3.2017 I 626
 
 
 ## § 1 Anwendungsbereich
@@ -272,8 +272,8 @@ der Proben erfolgt nach den in Anhang IV beschriebenen Verfahren.
 Altholzbehandlungsanlagen mit Zustimmung der zuständigen Behörde
 einfache Prüfverfahren mit ausreichender Empfindlichkeit nach dem
 Stand der Technik einsetzen. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit gibt entsprechende Prüfverfahren im
-Bundesanzeiger bekannt.
+Naturschutz, Bau und Reaktorsicherheit gibt entsprechende
+Prüfverfahren im Bundesanzeiger bekannt.
 
 (4) Holzhackschnitzel oder Holzspäne dürfen nachfolgend der Verwendung
 in der Holzwerkstoffherstellung nur zugeführt werden, wenn die Prüfung
@@ -497,8 +497,9 @@ sind, können die erforderlichen Angaben in einem Betriebstagebuch
 zusammengefasst werden.
 
 (5) Die Vorschriften der Nachweisverordnung, § 4 der PCB/PCT-
-Abfallverordnung sowie § 5 der Entsorgungsfachbetriebeverordnung
-bleiben unberührt.
+Abfallverordnung sowie § 5 Absatz 1 der
+Entsorgungsfachbetriebeverordnung vom 2. Dezember 2016 in der jeweils
+geltenden Fassung bleiben unberührt.
 
 
 ## § 13 Ordnungswidrigkeiten
@@ -565,8 +566,9 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
+(zu § 3 Abs. 1)
 
-## Anhang I (zu § 3 Abs. 1) Verfahren für die stoffliche Verwertung von Altholz
+## Anhang I Verfahren für die stoffliche Verwertung von Altholz
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -647,8 +649,9 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
 
 
+(zu § 3 Abs. 1)
 
-## Anhang II (zu § 3 Abs. 1) Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+## Anhang II Grenzwerte für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
@@ -714,8 +717,9 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3306
 
 
 
+(zu § 5 Abs. 1)
 
-## Anhang III (zu § 5 Abs. 1) Zuordnung gängiger Altholzsortimente im Regelfall
+## Anhang III Zuordnung gängiger Altholzsortimente im Regelfall
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
@@ -1011,10 +1015,12 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 
 
+(zu § 6)
 
-## Anhang IV (zu § 6) Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
+## Anhang IV Vorgaben zur Analytik für Holzhackschnitzel und Holzspäne zur Herstellung von Holzwerkstoffen
 
-(Fundstelle: BGBl. I 2002, 3309 - 3313)
+(Fundstelle: BGBl. I 2002, 3309 - 3313;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
@@ -1030,11 +1036,10 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             entnehmen. Aus dem Materialstrom ist wenigstens alle 10 t eine
             Einzelprobe von mindestens 2 l zu entnehmen, zum Beispiel mit einem
             Gefäß mit Stiel, das in den Abwurf des Förderbandes gehalten wird. Die
-            Probenahme ist zu dokumentieren. Die Dokumentation enthält mindestens
-            das Datum der Probenahme, die Angabe der beprobten Charge sowie Namen
-            und Unterschrift des Probenehmers, mit welcher dieser die
-            Ordnungsgemäßheit der Probenahme versichert. Probentransport und
-            Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der
+            Probenahme ist schriftlich oder elektronisch zu dokumentieren. Die
+            Dokumentation enthält mindestens das Datum der Probenahme, die Angabe
+            der beprobten Charge sowie den Namen des Probenehmers. Probentransport
+            und Probenlagerung haben so zu erfolgen, dass eine Beeinflussung der
             chemischen, physikalischen und biologischen Beschaffenheit des
             Probenmaterials soweit wie möglich ausgeschlossen wird.
 
@@ -1468,7 +1473,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 *    *
     *
-    *   \*
+    *   *
 
     *   Chemikalienblindwert (Durchführung des gesamten Verfahrens ohne
         Holzprobe)
@@ -1476,7 +1481,7 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 *    *
     *
-    *   \*
+    *   *
 
     *   Analyse eines kontaminationsfreien Holzes
 
@@ -1686,10 +1691,11 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
             bezogen auf die Trockenmasse der Altholzprobe, multipliziert mit dem
             Faktor fünf und auf 0,1 mg/kg gerundet.
 
-            Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-            kann für die Bestimmung von polychlorierten Biphenylen andere
-            wissenschaftlich anerkannte Prüfverfahren im Bundesanzeiger bekannt
-            geben, wenn entsprechende wissenschaftliche Erkenntnisse vorliegen.
+            Das Bundesministerium für Umwelt, Naturschutz, Bau und
+            Reaktorsicherheit kann für die Bestimmung von polychlorierten
+            Biphenylen andere wissenschaftlich anerkannte Prüfverfahren im
+            Bundesanzeiger bekannt geben, wenn entsprechende wissenschaftliche
+            Erkenntnisse vorliegen.
 
 
         1.5 Andere Methoden
@@ -1741,8 +1747,9 @@ Fundstelle des Originaltextes: BGBl. I 2002, 3307 - 3308
 
 
 
+(zu § 7)
 
-## Anhang V (zu § 7) Untersuchung von Altholz zur energetischen Verwertung
+## Anhang V Untersuchung von Altholz zur energetischen Verwertung
 
 Die Probenahme nach § 7 ist von Personen durchzuführen, die über die
 für die Durchführung der Probenahme erforderliche Fachkunde verfügen.
@@ -1754,8 +1761,9 @@ entnommenen Altholzprobe sind Altholzanteile nicht zugelassener
 Altholzkategorien entsprechend den Vorgaben nach § 5 auszusortieren
 und deren Masse festzustellen.
 
+(zu § 11)
 
-## Anhang VI (zu § 11) Anlieferungsschein für Altholz
+## Anhang VI Anlieferungsschein für Altholz
 
 Fundstelle des Originaltextes: BGBl. I 2002, 3314 - 3315
 ----------------------------------------------------------------------

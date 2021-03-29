@@ -5,7 +5,7 @@ Title: Übereinkommen zwischen der Bundesrepublik Deutschland, Kanada und dem Ve
   in der durch das Abkommen vom 12. Mai 1970 geänderten Fassung
 jurabk: ManövAbkCANIGBRÜbk
 layout: default
-origslug: man_vabkcanigbr_bk
+origslug: manoevabkcanigbruebk
 slug: manoevabkcanigbruebk
 
 ---

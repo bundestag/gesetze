@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2298
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 27 G v. 24.2.2012 I 212
+:   Art. 11 Abs. 11 G v. 18.7.2017 I 2745
 
 
 ## Teil 1 - Allgemeine Bestimmungen
@@ -32,12 +32,15 @@ elektronisch oder unter Verwendung von Formblättern durch
 1.  Erzeuger oder Besitzer von Abfällen (Abfallerzeuger),
 
 
-2.  Einsammler oder Beförderer von Abfällen (Abfallbeförderer) und
+2.  Einsammler oder Beförderer von Abfällen (Abfallbeförderer),
 
 
 3.  Betreiber von Anlagen oder Unternehmen, welche Abfälle in einem
     Verfahren nach Anlage 1 oder Anlage 2 des Kreislaufwirtschaftsgesetzes
-    entsorgen (Abfallentsorger).
+    entsorgen (Abfallentsorger), sowie
+
+
+4.  Händler und Makler von Abfällen.
 
 
 
@@ -92,7 +95,7 @@ und unter Verwendung von Formblättern, soweit nichts anderes bestimmt
 ist.
 
 
-### Abschnitt 1 - Nachweis über die Zulässigkeit der vorgesehenen Entsorgung
+### Abschnitt 1 - Nachweis über die Zulässigkeit  der vorgesehenen Entsorgung
 
 
 
@@ -303,12 +306,14 @@ Verwertung, Lagerung oder Ablagerung
 
 § 5 Abs. 1 Satz 1 Nr. 3 findet entsprechende Anwendung.
 
-(2) Die Freistellung nach Absatz 1 Nr. 1 gilt nur, wenn im
-Überwachungszertifikat die zertifizierten Tätigkeiten des Betriebes
-bezogen auf seine Standorte und Anlagen einschließlich der jeweiligen
-Abfallarten und dazugehörigen Abfallschlüssel bezeichnet sind. Hat der
-Entsorgungsfachbetrieb seine Fachbetriebstätigkeit nach § 2 Abs. 2
-Satz 2 der Entsorgungsfachbetriebeverordnung beschränkt, so sind im
+(2) Die Freistellung nach Absatz 1 Nr. 1 gilt nur, wenn der für die
+Entsorgungsanlage zuständigen Behörde ein gültiges
+Überwachungszertifikat vorliegt, in dem die zertifizierten Tätigkeiten
+des Betriebes bezogen auf seine Standorte und Anlagen einschließlich
+der jeweiligen Abfallarten und dazugehörigen Abfallschlüssel
+bezeichnet sind. Hat der Entsorgungsfachbetrieb seine
+Fachbetriebstätigkeit nach § 2 Abs. 2 Satz 2 der
+Entsorgungsfachbetriebeverordnung beschränkt, so sind im
 Überwachungszertifikat zusätzlich die von der Fachbetriebstätigkeit
 umfassten Abfälle nach ihrem jeweiligen Herkunftsbereich sowie die
 umfassten Verwertungs- oder Beseitigungsverfahren zu bezeichnen. Die
@@ -476,7 +481,7 @@ Entsorgung auch dann einen Sammelentsorgungsnachweis nach den Absätzen
 (6) Der Sammelentsorgungsnachweis nach Absatz 1 ist nicht übertragbar.
 
 
-### Abschnitt 2 - Nachweisführung über die durchgeführte Entsorgung
+### Abschnitt 2 - Nachweisführung über die durchgeführte  Entsorgung
 
 
 
@@ -494,7 +499,10 @@ oder Abfallbeförderer und Abfallentsorger ganz oder teilweise
 personengleich sind. Bei einem Wechsel des Abfallbeförderers ist die
 Übergabe der Abfälle dem Übergebenden vom übernehmenden
 Abfallbeförderer mittels Übernahmeschein in entsprechender Anwendung
-des § 12 oder in anderer geeigneter Weise zu bescheinigen.
+des § 12 oder in anderer geeigneter Weise zu bescheinigen. Satz 3 gilt
+entsprechend für die Übergabe der Abfälle an den Betreiber eines
+Geländes zur kurzfristigen Lagerung oder zum Umschlag und von diesem
+Betreiber an den weiteren Beförderer.
 
 (3) Von den Ausfertigungen der Begleitscheine sind
 
@@ -521,15 +529,31 @@ bestimmt.
 
 #### § 11 Ausfüllen und Handhabung der Begleitscheine
 
-(1) Nach Maßgabe der für sie bestimmten Aufdrucke auf den
-Ausfertigungen hat der Abfallerzeuger spätestens bei Übergabe, der
-Beförderer oder der Einsammler spätestens bei Übernahme sowie der
-Abfallentsorger spätestens bei Annahme der Abfälle die Begleitscheine
-auszufüllen. Liegt ein Entsorgungsnachweis für die Entsorgung von
-Altölen oder Althölzern mit mehr als einem Abfallschlüssel vor, hat
-der Abfallerzeuger im Abfallschlüsselfeld des Begleitscheins den
-prägenden Abfallschlüssel einzutragen und im Mehrzweckfeld "Frei für
-Vermerke" die Abfallschlüssel der tatsächlich auf der Grundlage dieses
+(1) Die Begleitscheine sind nach Maßgabe der für die jeweilige Person
+bestimmten Aufdrucke auf den Ausfertigungen auszufüllen und zu
+unterschreiben, und zwar
+
+1.  vom Abfallerzeuger: spätestens bei Übergabe,
+
+
+2.  vom Beförderer oder Einsammler sowie von jedem weiteren Beförderer:
+    spätestens bei Übernahme,
+
+
+3.  vom Betreiber eines Geländes zur kurzfristigen Lagerung oder zum
+    Umschlag: spätestens bei Übernahme und
+
+
+4.  vom Abfallentsorger: unverzüglich nach Annahme der Abfälle zur
+    ordnungsgemäßen Entsorgung.
+
+
+
+Liegt ein Entsorgungsnachweis für die Entsorgung von Altölen oder
+Althölzern mit mehr als einem Abfallschlüssel vor, hat der
+Abfallerzeuger im Abfallschlüsselfeld des Begleitscheins den prägenden
+Abfallschlüssel einzutragen und im Mehrzweckfeld "Frei für Vermerke"
+die Abfallschlüssel der tatsächlich auf der Grundlage dieses
 Begleitscheins entsorgten Abfälle. Zu den in den Sätzen 1 und 2
 bezeichneten Zwecken sind die Begleitscheine als Begleitscheinsatz im
 Durchschreibeverfahren zu verwenden. Der Begleitscheinsatz beginnt mit
@@ -548,7 +572,12 @@ und die erforderlichen Ergänzungen vorgenommen hat. Die Ausfertigungen
 2 bis 6 hat der Abfallbeförderer während des Beförderungsvorganges
 mitzuführen und dem Abfallentsorger bei Übergabe der Abfälle
 auszuhändigen sowie auf Verlangen den zur Überwachung und Kontrolle
-Befugten vorzulegen.
+Befugten vorzulegen. Satz 2 gilt entsprechend für weitere an der
+Beförderung Beteiligte. Bei einer kurzfristigen Lagerung oder einem
+Umschlag sind die Ausfertigungen 2 bis 6 vom Abfallbeförderer dem
+Betreiber des Lager- oder Umschlagplatzes und von diesem dem
+übernehmenden Beförderer jeweils bei Übergabe der Abfälle
+auszuhändigen.
 
 (3) Spätestens zehn Kalendertage nach Annahme der Abfälle vom
 Abfallbeförderer übergibt oder übersendet der Abfallentsorger die
@@ -570,6 +599,11 @@ entfällt die Pflicht zur Mitführung der in Absatz 2 genannten
 Ausfertigungen während des Beförderungsvorganges. In diesem Fall hat
 der Beförderer sicherzustellen, dass bei einem Wechsel des Beförderers
 die in Absatz 2 genannten Ausfertigungen übergeben werden.
+
+(6) Wird der Begleitschein geändert oder ergänzt, muss der geänderte
+oder ergänzte Begleitschein unverzüglich erneut den zuständigen
+Behörden und den übrigen am Begleitscheinverfahren Beteiligten
+übersandt werden.
 
 
 #### § 12 Übernahmeschein bei Sammelentsorgung
@@ -595,7 +629,7 @@ des § 10 geführt. Auf den Übernahmeschein finden die Bestimmungen des
 
 bestimmt.
 
-(3) Der Abfallerzeuger sowie der Einsammler hat die Übernahmescheine
+(3) Der Abfallerzeuger sowie der Einsammler haben die Übernahmescheine
 nach Maßgabe der für ihn bestimmten Aufdrucke auf den Ausfertigungen
 spätestens bei Übernahme der Abfälle durch den Einsammler auszufüllen.
 Liegt ein Sammelentsorgungsnachweis für die Entsorgung von Altölen
@@ -639,7 +673,7 @@ entsprechender Anwendung von § 11 Abs. 3 und 4 der für das jeweilige
 Land, in dem gesammelt wurde, zuständigen Behörde zuzuleiten.
 
 
-### Abschnitt 3, Sonderfälle -
+### Abschnitt 3, Sonderfälle - 
 
 
 
@@ -682,6 +716,73 @@ und der Abfallentsorger durch die Führung eines Übernahmescheins
 entsprechend den Bestimmungen des § 12 zu führen.
 
 
+#### § 16a Vorlage von Belegen auf Verlangen eines früheren Besitzers
+
+(1) Sofern keine Nachweispflichten nach § 2 Absatz 1 und Absatz 2 Satz
+2 bestehen, sind dem Erzeuger oder früheren Besitzer von gefährlichen
+Abfällen auf dessen Verlangen bei der Übergabe Belege über die
+Durchführung der Abfallbewirtschaftung von demjenigen vorzulegen, dem
+der Erzeuger oder Besitzer die gefährlichen Abfälle zur weiteren
+Bewirtschaftung übergibt. Der Erzeuger oder frühere Besitzer von
+gefährlichen Abfällen kann die Belege auch noch innerhalb von drei
+Jahren nach der Übergabe der gefährlichen Abfälle verlangen.
+
+(2) Der Beleg nach Absatz 1 Satz 1 wird mit Hilfe des Formblatts
+„Begleitschein“ nach Anlage 1 in einfacher Ausfertigung vorgelegt.
+
+(3) Verlangt der Erzeuger oder der frühere Besitzer der Abfälle die
+Vorlage eines Belegs nach Absatz 1 Satz 2 erst nach Übergabe der
+Abfälle, so füllt er den Begleitschein im Sinne des Absatzes 2 nach
+Maßgabe der für den Abfallerzeuger bestimmten Aufdrucke aus,
+unterschreibt und übersendet ihn an denjenigen, dem er die Abfälle zur
+weiteren Bewirtschaftung übergeben hat. Dieser füllt den übersandten
+Begleitschein im Falle der Beförderung nach Maßgabe der für den
+Abfallbeförderer bestimmten Aufdrucke und in allen anderen Fällen nach
+Maßgabe der für den Abfallentsorger bestimmten Aufdrucke aus,
+unterschreibt ihn und übersendet ihn spätestens zehn Kalendertage nach
+Eingang dem Erzeuger oder früheren Besitzer der Abfälle.
+
+(4) Die Vorlagepflicht nach Absatz 1 kann auch durch die Vorlage von
+Praxisbelegen, wie Wiege- oder Lieferscheinen erfüllt werden, wenn
+diese die im Begleitschein nach Absatz 2 vorgesehenen Angaben
+enthalten. Absatz 3 findet entsprechende Anwendung.
+
+
+#### § 16b Mitführungspflicht
+
+Bei der Beförderung nicht nachweispflichtiger gefährlicher Abfälle hat
+der Abfallbeförderer Unterlagen mit folgenden Angaben mitzuführen und
+auf Verlangen den zur Überwachung und Kontrolle Befugten vorzulegen:
+
+1.  Menge des beförderten Abfalls in Tonnen,
+
+
+2.  Bezeichnung des Abfalls und der Abfallschlüssel laut
+    Abfallverzeichnis-Verordnung,
+
+
+3.  Angaben zum Beförderer, insbesondere Name und Anschrift sowie die
+    Beförderernummer, sofern vorhanden,
+
+
+4.  Datum der Übernahme der Abfälle zur Beförderung,
+
+
+5.  Angaben zum Abfallerzeuger oder Abfallbesitzer, von dem die Abfälle
+    zur Beförderung übernommen wurden, insbesondere Name und Anschrift
+    sowie die Erzeugernummer, sofern vorhanden, und
+
+
+6.  Angaben zur Entsorgungsanlage oder zum Gelände zur kurzfristigen
+    Lagerung oder zum Umschlag, zu der oder zu dem die Abfälle befördert
+    werden, insbesondere Anschrift und Inhaber sowie dessen
+    Entsorgernummer, sofern vorhanden.
+
+
+
+§ 11 Absatz 5 ist entsprechend anzuwenden.
+
+
 ### Abschnitt 4 - Elektronische Nachweisführung
 
 
@@ -695,15 +796,15 @@ Fällen die zur Nachweisführung erforderlichen Erklärungen, Vermerke
 zum Fristablauf, Bestätigungen und Entscheidungen, Ablichtungen,
 Anträge und Freistellungen entsprechend nach Maßgabe dieses
 Abschnittes elektronisch zu übermitteln, mit einer qualifizierten
-elektronischen Signatur im Sinne des Signaturgesetzes zu versehen
-sowie die für den Empfang erforderlichen Zugänge zu eröffnen, soweit
-nicht nach den Bestimmungen dieses Abschnitts oder einer auf Grund des
-§ 26 ergangenen Entscheidung der zuständigen Behörde eine andere Form
-der Übermittlung unter Verwendung von Formblättern ausdrücklich
-zugelassen wird.
+elektronischen Signatur zu versehen sowie die für den Empfang
+erforderlichen Zugänge zu eröffnen und zu unterhalten, soweit nicht
+nach den Bestimmungen dieses Abschnitts oder einer auf Grund des § 26
+ergangenen Entscheidung der zuständigen Behörde eine andere Form der
+Übermittlung unter Verwendung von Formblättern ausdrücklich zugelassen
+wird.
 
 (2) Absatz 1 gilt auch für die nach § 2 Abs. 1 Nr. 2 Verpflichteten,
-soweit nach § 44 des Kreislaufwirtschafts- und Abfallgesetzes die
+soweit nach § 51 Absatz 1 Satz 2 des Kreislaufwirtschaftsgesetzes die
 elektronische Nachweisführung zugelassen oder angeordnet ist.
 
 
@@ -716,13 +817,13 @@ Ausfertigungen, Ablichtungen, Anträge und Freistellungen als
 strukturierte Nachrichten unter Verwendung standardisierter
 Schnittstellen nach den Vorgaben der Anlage 3, jeweils unter Angabe
 des von ihnen eröffneten Empfangszugangs zu übermitteln. Das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit gibt
-die aus der Anlage 3 folgenden Definitionen der Schnittstellen bis zum
-Ablauf des fünften auf die Verkündung der Verordnung zur Vereinfachung
-der abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S.
-2298) folgenden Kalendermonats sowie nachfolgend erforderlich werdende
-Änderungen oder Berichtigungen dieser Definitionen im Internet unter
-www.bmu.bund.de bekannt.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+gibt die aus der Anlage 3 folgenden Definitionen der Schnittstellen
+bis zum Ablauf des fünften auf die Verkündung der Verordnung zur
+Vereinfachung der abfallrechtlichen Überwachung vom 20. Oktober 2006
+(BGBl. I S. 2298) folgenden Kalendermonats sowie nachfolgend
+erforderlich werdende Änderungen oder Berichtigungen dieser
+Definitionen im Internet unter www.bmu.bund.de bekannt.
 
 (2) Der Abfallbeförderer hat zu gewährleisten, dass die Angaben aus
 dem Begleitschein und Übernahmeschein, einschließlich der Angabe des
@@ -751,28 +852,28 @@ vorgesehen ist. Insbesondere haben Abfallerzeuger, Abfallbeförderer
 und Abfallentsorger
 
 1.  gemäß § 3 Abs. 2 und 3 vor Einholung einer Bestätigung nach § 5 oder
-    Erstattung einer Anzeige nach § 7 Abs. 4 die den Nachweiserklärungen
-    entsprechenden elektronischen Dokumente sowie
+    Übersendung von Nachweiserklärungen und Ablichtungen nach § 7 Abs. 4
+    die den Nachweiserklärungen entsprechenden elektronischen Dokumente
+    sowie
 
 
 2.  die den Begleitscheinen entsprechenden elektronischen Dokumente
-    spätestens zu den für das Ausfüllen, die Übergabe oder die Übersendung
-    der Begleitscheine gemäß § 11 Abs. 1 Satz 1 und § 11 Abs. 3 Satz 1
-    vorgesehenen Zeitpunkten
+    spätestens zu den für das Ausfüllen und Unterschreiben der
+    Begleitscheine gemäß § 11 Absatz 1 Satz 1 vorgesehenen Zeitpunkten
 
 
 
 qualifiziert elektronisch zu signieren.
 
-(2) Abweichend von § 11 Abs. 1 Satz 1 und § 12 Abs. 3 kann die
-Bestätigung der Übernahme der Abfälle vom Abfallerzeuger durch den
-Abfallbeförderer mittels des Begleitscheins auch nach der Übernahme
-der Abfälle durch den Abfallbeförderer, spätestens aber vor Übergabe
-der Abfälle an den Abfallentsorger mit der erforderlichen Signatur
-versehen werden, wenn dies zwischen Abfallerzeuger und
-Abfallbeförderer schriftlich vereinbart wird. Die Vereinbarung ist der
-zuständigen Behörde auf Verlangen vorzulegen. Die Sätze 1 und 2 gelten
-entsprechend für die elektronische Führung des Übernahmescheins.
+(2) Abweichend von § 11 Absatz 1 Satz 1 Nummer 2 und 3 kann der
+Begleitschein durch den Beförderer oder Einsammler, den weiteren
+Beförderer oder den Betreiber eines Geländes zur kurzfristigen
+Lagerung oder zum Umschlag auch nach der Übernahme, aber vor Übergabe
+der Abfälle mit der erforderlichen Signatur versehen werden, wenn dies
+mit demjenigen, von dem die Abfälle übernommen werden, schriftlich
+vereinbart ist. Die Vereinbarung ist der zuständigen Behörde auf
+Verlangen vorzulegen. Die Sätze 1 und 2 gelten entsprechend für die
+elektronische Führung des Übernahmescheins.
 
 (3) Abweichend von § 6 Abs. 1 Satz 2 übersendet die für den
 Abfallentsorger zuständige Behörde den bestätigten Entsorgungsnachweis
@@ -783,20 +884,44 @@ Behörde die Nachweiserklärungen an die für den Abfallerzeuger
 zuständige Behörde. Damit entfällt die Pflicht für den Abfallerzeuger
 zur Vorlage einer Ablichtung des bestätigten Entsorgungsnachweises
 nach § 6 Abs. 1 Satz 2 oder der Nachweiserklärungen nach § 7 Abs. 4
-Satz 2 an die für ihn zuständige Behörde.
+Satz 2 an die für ihn zuständige Behörde. Die Sätze 1 bis 3 gelten
+entsprechend für die Übersendung
 
-(4) Zur Übermittlung der elektronischen Dokumente dürfen nur
-gesicherte Übertragungswege genutzt werden, die während der
-Übertragung einen Zugriff Unbefugter auf die übermittelten Dokumente
-ausschließen.
+1.  des bestätigten Sammelentsorgungsnachweises nach § 9 Absatz 3 Satz 1
+    in Verbindung mit § 6 Absatz 1 Satz 2,
+
+
+2.  der vollständigen Nachweiserklärungen nach § 9 Absatz 3 Satz 2 in
+    Verbindung mit § 7 Absatz 4 Satz 2 sowie
+
+
+3.  der in den Nummern 1 und 2 genannten Unterlagen nach § 9 Absatz 4.
+
+
+
+
+(4) Die Übernahme der Abfälle ist abweichend von § 10 Absatz 2 Satz 3
+und 4 mittels Begleitschein zu bescheinigen. Der Abfallentsorger hat
+abweichend von § 11 Absatz 3 den Begleitschein gleichzeitig mit der
+Übersendung an die zuständige Behörde auch an den Abfallerzeuger und
+an alle Abfallbeförderer zu übersenden. Der Einsammler hat abweichend
+von § 13 Absatz 1 Satz 4 die Nummern der Übernahmescheine in das dafür
+vorgesehene Feld des elektronischen Begleitscheins einzutragen.
+
+(5) Für die Übermittlung der elektronischen Dokumente sind § 9 des
+Bundesdatenschutzgesetzes entsprechende technische und
+organisatorische Sicherungsmaßnahmen zu ergreifen.
 
 
 #### § 20 Koordinierung
 
-Die Länder stellen sicher, dass die elektronische Nachweisführung von
-den Verpflichteten sowie den zuständigen Behörden auch im Falle einer
-Ländergrenzen überschreitenden Entsorgung von Abfällen eingehalten
-werden kann. Insoweit ist insbesondere zu gewährleisten, dass die zur
+(1) Die Länder stellen sicher, insbesondere durch den
+gemeinschaftlichen Betrieb informationstechnischer Systeme und durch
+die Errichtung einer jeweils dazu bestimmten Einrichtung, dass die
+elektronische Nachweisführung von den Verpflichteten sowie den
+zuständigen Behörden auch im Falle einer Ländergrenzen
+überschreitenden Entsorgung von Abfällen eingehalten werden kann.
+Insoweit ist insbesondere zu gewährleisten, dass die zur
 Nachweisführung erforderlichen Erklärungen, Vermerke zum Fristablauf,
 Bestätigungen und Entscheidungen, Ablichtungen, Anträge und
 Freistellungen
@@ -813,39 +938,59 @@ Freistellungen
 
 
 
-Soweit die Länder in Erfüllung der Pflichten nach den Sätzen 1 und 2
-Einrichtungen zur elektronischen Kommunikation zur Verfügung stellen,
-dürfen diese von den Nachweispflichtigen nur zum Zweck der
-Nachweisführung genutzt werden, soweit die Länder nichts anderes
-bestimmen.
+
+(2) Die von den Ländern in Erfüllung der Pflichten nach Absatz 1
+betriebenen informationstechnischen Systeme und Einrichtungen zur
+elektronischen Kommunikation dürfen von den Nachweispflichtigen nur
+zum Zweck der Nachweis- und Registerführung genutzt werden, sofern die
+Länder nichts anderes bestimmen.
+
+(3) Sofern Erzeuger, Besitzer, Einsammler, Beförderer und Entsorger
+die ordnungsgemäße Entsorgung nicht nachweispflichtiger Abfälle
+untereinander nachweisen oder Belege nach § 16a vorlegen und dabei
+Nachweise nach dieser Verordnung verwenden oder informationstechnische
+Systeme sowie die dazu bestimmten Einrichtungen der Länder im Sinne
+des Absatzes 2 nutzen, sind § 17 Absatz 1, § 18 Absatz 1 sowie die §§
+19, 20 und 28 entsprechend anzuwenden.
 
 
 #### § 21 Ausnahmen
 
-Abweichend von § 17 darf die Führung der Übernahmescheine nach § 12
-auch unter Verwendung der hierfür vorgesehenen Formblätter der Anlage
-1 erfolgen. Die Pflichten zur Einhaltung der elektronischen
-Nachweisführung im Übrigen bleiben unberührt.
+Abweichend von § 17 darf die Führung der Übernahmescheine nach den §§
+12 und 16 auch unter Verwendung der hierfür vorgesehenen Formblätter
+der Anlage 1 erfolgen. Die Pflichten zur Einhaltung der elektronischen
+Nachweisführung im Übrigen bleiben unberührt. Satz 1 gilt entsprechend
+für die Vorlage von Belegen nach § 16a.
 
 
 #### § 22 Störung des Kommunikationssystems
 
 (1) Soweit infolge einer Störung des Kommunikationssystems oder aus
 anderen Gründen die elektronische Nachweisführung nicht
-uneingeschränkt möglich ist, sind die erforderlichen Nachweise unter
-Verwendung der nach den Abschnitten 1 bis 3 vorgesehenen Formblätter
-oder mittels eines Quittungsbeleges an Stelle des Begleitscheins zu
-führen. Der Quittungsbeleg sieht von Form und Inhalt die für die
-Führung des Begleitscheins erforderlichen Angaben vor und wird in
-einer Ausfertigung verwendet. Die Bestimmungen nach § 10 Abs. 2 Satz 1
-und 3, § 11 Abs. 1 Satz 1 und Abs. 5 sowie § 13 finden entsprechende
+uneingeschränkt möglich ist, sind die erforderlichen Nachweise nach
+den Abschnitten 1 bis 3, ausgenommen § 11 Absatz 3 und 4, unter
+Verwendung der dort vorgesehenen Formblätter oder mittels eines
+Quittungsbeleges an Stelle des Begleitscheins zu führen. Der
+Quittungsbeleg sieht von Form und Inhalt die für die Führung des
+Begleitscheins erforderlichen Angaben vor und wird in einer
+Ausfertigung verwendet. Die Bestimmungen nach § 10 Abs. 2 Satz 1 und
+3, § 11 Abs. 1 Satz 1 und Abs. 5 sowie § 13 finden entsprechende
 Anwendung. Nach Abschluss der Verbringung der Abfälle verbleibt der
 Quittungsbeleg beim Abfallentsorger, der ihn entsprechend den
 Bestimmungen des § 24 Abs. 1 und 2 sowie des § 25 Abs. 1 aufbewahrt.
-Der Nachweispflichtige, der die Störung feststellt, hat diese den am
-Nachweisverfahren Beteiligten sowie den zuständigen Behörden
-unverzüglich zu melden, soweit die Störung nicht innerhalb
-angemessener Frist behebbar ist.
+Der Nachweispflichtige, der die Störung oder die sonstigen
+Hinderungsgründe feststellt, hat diese unverzüglich den am
+Nachweisverfahren Beteiligten sowie den zuständigen Behörden zu
+melden, es sei denn,
+
+1.  die Störung ist innerhalb einer angemessenen Frist behebbar oder
+
+
+2.  es ist absehbar, dass die sonstigen Hinderungsgründe innerhalb einer
+    angemessenen Frist wegfallen.
+
+
+
 
 (2) Soweit eine Störung des Kommunikationssystems wiederholt oder
 nicht nur kurzfristig eintritt und Tatsachen die Annahme
@@ -877,10 +1022,22 @@ anordnen, dass der Nachweispflichtige
 einem Dritten, den der Nachweispflichtige mit der elektronischen
 Führung von Nachweisen und Registern beauftragt.
 
-(4) Spätestens zehn Kalendertage nach Behebung der Störung des
-Kommunikationssystems haben die Nachweispflichtigen die nach Absatz 1
-mittels Formblättern oder Quittungsbelegen übermittelten Nachweisdaten
-nochmals elektronisch zu übermitteln.
+(4) Spätestens zehn Kalendertage nachdem die Störung des
+Kommunikationssystems behoben worden ist oder die sonstigen
+Hinderungsgründe weggefallen sind, haben die Nachweispflichtigen
+
+1.  die nach Absatz 1 mittels Formblättern oder Quittungsbelegen
+    übermittelten Nachweisdaten nochmals im Verfahren nach den Abschnitten
+    1 bis 4 elektronisch zu übermitteln oder
+
+
+2.  für den Fall, dass bei Eintritt der Störung oder bei Feststellung der
+    sonstigen Hinderungsgründe bereits mit der elektronischen
+    Nachweisführung begonnen worden war, das Verfahren ordnungsgemäß
+    fortzuführen.
+
+
+
 
 
 ## Teil 3 - Registerführung über die Entsorgung von Abfällen
@@ -889,10 +1046,10 @@ nochmals elektronisch zu übermitteln.
 
 ### § 23 Kreis der Registerpflichtigen
 
-Zur Führung von elektronischen Registern und unter Verwendung von
-Formblättern nach den Bestimmungen dieses Teils verpflichtet sind
-Erzeuger, Einsammler, Beförderer und Entsorger von Abfällen, soweit
-eine Pflicht zur Führung von Registern nach
+Zur Führung von Registern nach den Bestimmungen dieses Teils
+verpflichtet sind Erzeuger, Einsammler, Beförderer, Händler, Makler
+und Entsorger von Abfällen, soweit eine Pflicht zur Führung von
+Registern nach
 
 1.  § 49 des Kreislaufwirtschaftsgesetzes oder
 
@@ -910,7 +1067,9 @@ besteht.
 (1) Die Register bestehen aus einer den Anforderungen des § 49 Absatz
 1 und 2 des Kreislaufwirtschaftsgesetzes sowie dieser Verordnung
 entsprechend sachlich und zeitlich geordneten Darstellung der
-registerpflichtigen Entsorgungsvorgänge.
+registerpflichtigen Entsorgungsvorgänge, wobei die entsprechenden
+Belege oder Angaben vollständig und in der jeweils aktuellen Version
+im Register enthalten sein müssen.
 
 (2) Unbeschadet des Absatzes 3 werden die Register über
 nachweispflichtige Abfälle geführt, indem
@@ -967,8 +1126,9 @@ erstellen, in welchem sie
 
 
 2.  unterhalb dieser Angaben fortlaufend für jede angenommene Abfallcharge
-    spätestens zehn Kalendertage nach ihrer Annahme ihre Menge und das
-    Datum ihrer Annahme angeben und diese Angaben unterschreiben.
+    spätestens zehn Kalendertage nach ihrer Annahme ihre Menge, das Datum
+    ihrer Annahme und den Namen und die Anschrift der Person, von der die
+    Abfälle angenommen wurden, angeben und diese Angaben unterschreiben.
 
 
 
@@ -981,7 +1141,10 @@ genannten Angaben auch das Formblatt Annahmeerklärung AE und für die
 Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt
 Begleitschein nach Anlage 1 verwenden. Soweit Abfallentsorger die
 Register nach § 25 Abs. 2 Satz 2 elektronisch führen, müssen sie die
-Register unter Zugrundelegung dieser Formblätter führen.
+Register unter Zugrundelegung dieser Formblätter in entsprechender
+Anwendung der §§ 17 bis 20 führen. Mit Zustimmung der zuständigen
+Behörde können zur Registrierung nicht nachweispflichtiger Abfälle
+Praxisbelege abweichend von den Sätzen 1 und 2 geordnet werden.
 
 (5) Abfallentsorger, die Abfälle behandeln und lagern und zur Führung
 von Nachweisen nicht verpflichtet sind, registrieren zusätzlich jede
@@ -1022,16 +1185,16 @@ erstellen, in welchem sie
 
 
 
-Absatz 4 Satz 2 gilt entsprechend. Die Abfallerzeuger können für die
-Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt
+Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallerzeuger können für
+die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt
 Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem Formblatt
 Verantwortliche Erklärung VE, Aufdruck 1, und für die Erfassung der in
 Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage
 1 verwenden. Soweit Abfallerzeuger die Register nach § 25 Abs. 2 Satz
 2 elektronisch führen, müssen sie die Register unter Zugrundelegung
-dieser Formblätter führen, wobei im elektronischen Begleitschein die
-die Abfallcharge übernehmende Person im Feld "Frei für Vermerke"
-anzugeben ist.
+dieser Formblätter in entsprechender Anwendung der §§ 17 bis 20
+führen, wobei im elektronischen Begleitschein die die Abfallcharge
+übernehmende Person im Feld "Frei für Vermerke" anzugeben ist.
 
 (7) Abfallbeförderer, die zur Führung von Nachweisen nicht
 verpflichtet sind, registrieren jede Beförderung von Abfällen, indem
@@ -1049,17 +1212,18 @@ sie
 
 
 
-Absatz 4 Satz 2 gilt entsprechend. Die Abfallbeförderer können für die
-Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt
-Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem Formblatt
-Verantwortliche Erklärung VE, Aufdruck 2, und für die Erfassung der in
-Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage
-1 verwenden. Soweit Abfallbeförderer die Register nach § 25 Abs. 2
-Satz 2 elektronisch führen, müssen sie die Register unter
-Zugrundelegung dieser Formblätter führen.
+Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallbeförderer können
+für die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das
+Formblatt Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem
+Formblatt Verantwortliche Erklärung VE, Aufdruck 2, und für die
+Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt
+Begleitschein nach Anlage 1 verwenden. Soweit Abfallbeförderer die
+Register nach § 25 Abs. 2 Satz 2 elektronisch führen, müssen sie die
+Register unter Zugrundelegung dieser Formblätter in entsprechender
+Anwendung der §§ 17 bis 20 führen.
 
 
-### § 25 Dauer der Registrierung, elektronische Registrierung
+### § 25 Dauer der Registrierung, elektronische Registerführung
 
 (1) Die zur Einrichtung und Führung der Register Verpflichteten haben
 die nach § 24 Abs. 2 bis 4, Abs. 5 Satz 1, Abs. 6 oder 7 in die
@@ -1073,17 +1237,85 @@ Satz 1 vorgesehen.
 führen, soweit für die in die Register einzustellenden Nachweise die
 elektronische Nachweisführung zwingend bestimmt ist. Im Übrigen können
 die Register elektronisch geführt werden. Werden die Register
-elektronisch geführt, so sind die Belege oder Angaben in
-entsprechender Anwendung des Absatzes 1 und des § 24 dauerhaft und
-geordnet zu speichern. Soweit die zuständige Behörde gemäß § 49 Absatz
-4 des Kreislaufwirtschaftsgesetzes die Vorlage des Registers oder
-einzelner Angaben aus dem Register anordnet, finden auf die Erfüllung
-dieser Anordnung die §§ 17 bis 20 sowie § 22 entsprechende Anwendung.
+elektronisch geführt, so sind jeweils die aktuellen Versionen der
+Belege oder Angaben in entsprechender Anwendung des Absatzes 1 und des
+§ 24 dauerhaft und geordnet zu speichern. Soweit die zuständige
+Behörde gemäß § 49 Absatz 4 des Kreislaufwirtschaftsgesetzes die
+elektronische Vorlage des Registers oder einzelner Angaben aus dem
+Register anordnet, finden auf die Erfüllung dieser Anordnung die §§ 17
+bis 20 sowie § 22 entsprechende Anwendung.
 
 (3) Absatz 2 Satz 1 gilt für die vom Einsammler in sein Register
 einzustellenden Ausfertigungen des Übernahmescheins auch dann, wenn
 der Übernahmeschein nach § 21 unter Verwendung der hierfür
 vorgesehenen Formblätter der Anlage 1 geführt wird.
+
+
+### § 25a Registerführung durch Händler und Makler
+
+(1) Die Händler registrieren die von ihnen erworbenen Abfälle, indem
+sie für jede Abfallart ein eigenes Verzeichnis erstellen, in welchem
+sie
+
+1.  als Überschrift den Abfallschlüssel dieser Abfallart laut
+    Abfallverzeichnis-Verordnung, den Firmennamen und die Anschrift und
+    (soweit vorhanden) die Händlernummer angeben und
+
+
+2.  unterhalb dieser Angaben fortlaufend für jede erworbene Abfallcharge
+    spätestens zehn Kalendertage nach ihrem Erwerb ihre Menge, das Datum
+    ihres Erwerbs und den Namen und die Anschrift der Person, von der die
+    Abfälle erworben wurden, angeben und diese Angaben unterschreiben.
+
+
+
+Die Händler registrieren ferner die von ihnen veräußerten Abfälle,
+indem sie für jede Abfallart ein eigenes Verzeichnis erstellen, in
+welchem sie
+
+1.  als Überschrift die in Satz 1 Nummer 1 aufgeführten Angaben angeben
+    und
+
+
+2.  unterhalb dieser Angaben fortlaufend für jede Abfallcharge spätestens
+    zehn Kalendertage nach ihrer Veräußerung ihre Menge, das Datum ihrer
+    Veräußerung und den Namen und die Anschrift der Person, an die die
+    Abfälle veräußert wurden, angeben und diese Angaben unterschreiben.
+
+
+
+§ 24 Absatz 4 Satz 2 und 5 ist entsprechend anzuwenden.
+
+(2) Die Makler von Abfällen registrieren in zeitlicher Reihenfolge
+jeden vermittelten Vertragsabschluss über die Bewirtschaftung von
+Abfällen und geben dabei das Datum des Vertragsabschlusses an.
+Spätestens zehn Kalendertage nach Abschluss verzeichnen sie zu jedem
+registrierten Vertrag:
+
+1.  die Vertragsparteien mit Namen und Anschrift,
+
+
+2.  die Art, den Umfang und die voraussichtliche Dauer der vermittelten
+    Bewirtschaftungstätigkeit sowie
+
+
+3.  die Art und die Beschaffenheit der Abfälle unter Angabe des
+    Abfallschlüssels, auf die sich die vermittelte
+    Bewirtschaftungstätigkeit bezieht.
+
+
+
+Die Richtigkeit der in das Register eingestellten Angaben hat der
+Makler durch Unterschrift zu bestätigen.
+
+(3) Die nach den Absätzen 1 und 2 Verpflichteten haben die in das
+Register eingestellten Angaben drei Jahre, jeweils vom Datum der
+Einstellung in das Register an gerechnet, in dem Register zu belassen.
+Anschließend sind die Daten unverzüglich beziehungsweise im Falle der
+Speicherung in elektronischer Form automatisiert zu löschen.
+
+(4) Auf die Registerführung nach den Absätzen 1 und 2 findet § 25
+Absatz 2 Satz 2 keine Anwendung.
 
 
 ## Teil 4 - Gemeinsame Bestimmungen
@@ -1119,18 +1351,18 @@ ist, hat dessen Namen und Anschrift in den nach dieser Verordnung zu
 führenden Nachweisen anzugeben.
 
 (2) Ist wegen anderer als der in Absatz 1 genannten Besonderheiten
-eine uneingeschränkte Bestimmung über die Führung von Nachweisen nicht
-möglich, so hat der betroffene Nachweispflichtige die Nachweise in
-einer von der zuständigen Behörde bestimmten Weise zu verwenden. Sind
-mehrere Behörden zuständig, so treffen diese die Entscheidung nach
-Satz 1 im Einvernehmen.
+eine uneingeschränkte Anwendung der Bestimmungen über die Führung von
+Nachweisen nicht möglich, so hat der betroffene Nachweispflichtige die
+Nachweise in einer von der zuständigen Behörde bestimmten Weise zu
+verwenden. Sind mehrere Behörden zuständig, so treffen diese die
+Entscheidung nach Satz 1 im Einvernehmen.
 
 
 ### § 28 Vergabe von Kennnummern
 
 (1) Die zur Führung von Nachweisen und Registern erforderlichen
-Identifikations-, Erzeuger-, Beförderer- und Entsorgernummern werden
-durch die zuständige Behörde erteilt.
+Identifikations-, Erzeuger-, Beförderer-, Sammler-, Händler-, Makler-
+und Entsorgernummern werden durch die zuständige Behörde erteilt.
 
 (2) Die zur Unterscheidung der einzelnen Nachweisvorgänge
 erforderlichen Nummern sowie die Freistellungsnummern erteilt die für
@@ -1139,9 +1371,9 @@ Einzelnachweisen nach § 50 Absatz 2 des Kreislaufwirtschaftsgesetzes
 erforderliche Registriernummer erteilt die für den Erzeuger zuständige
 Behörde. Die zuständige Behörde kann zulassen, dass die nach Satz 1
 erforderlichen Kennnummern von einem Dritten, insbesondere einem
-freigestellten Entsorger, erteilt werden. Die nach Satz 1 zu
-erteilenden Kennnummern erhalten in den ersten beiden Stellen folgende
-Kennbuchstaben:
+freigestellten Entsorger, erteilt werden. Die nach den Sätzen 1 und 2
+zu erteilenden Kennnummern erhalten in den ersten beiden Stellen
+folgende Kennbuchstaben:
 
 1.  "EN" für Entsorgungsnachweis,
 
@@ -1234,8 +1466,9 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 2.  entgegen § 6 Abs. 3 Satz 2, auch in Verbindung mit § 9 Abs. 3 Satz 1,
-    § 11 Abs. 2 Satz 2 oder § 12 Abs. 4 Satz 2 eine dort genannte
-    Unterlage nicht mitführt oder nicht oder nicht rechtzeitig vorlegt,
+    § 11 Abs. 2 Satz 2, § 12 Abs. 4 Satz 2 oder § 16b Satz 1 eine dort
+    genannte Unterlage nicht mitführt oder nicht oder nicht rechtzeitig
+    vorlegt,
 
 
 3.  einer vollziehbaren Anordnung nach § 8 Abs. 1 Satz 1 oder Abs. 2 Nr.
@@ -1243,8 +1476,7 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Verbindung mit Abs. 3, zuwiderhandelt,
 
 
-4.  entgegen § 17 Abs. 1 keinen Zugang eröffnet, der für den Empfang der
-    dort genannten elektronischen Dokumente erforderlich ist,
+4.  entgegen § 17 Absatz 1 einen dort genannten Zugang nicht unterhält,
 
 
 5.  entgegen § 18 Abs. 1 Satz 1 eine Nachricht ohne Angabe des eröffneten
@@ -1255,17 +1487,14 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
     genannte Angabe vorgelegt oder mitgeteilt werden kann,
 
 
-7.  entgegen § 19 Abs. 4 bei der Übermittlung elektronischer Dokumente
-    keinen gesicherten Übertragungsweg nutzt,
+7.  (weggefallen)
 
 
 8.  entgegen § 22 Abs. 1 Satz 5 eine Meldung nicht, nicht richtig, nicht
-    vollständig oder nicht rechtzeitig macht,
+    vollständig oder nicht rechtzeitig macht oder
 
 
-9.  entgegen § 25 Abs. 1 Satz 1, auch in Verbindung mit Satz 2, einen
-    Beleg oder eine Angabe nicht oder nicht für die vorgeschriebene Dauer
-    aufbewahrt oder
+9.  (weggefallen)
 
 
 10. entgegen § 28 Abs. 5 Satz 2 eine Nummer verwendet.
@@ -1278,33 +1507,9 @@ Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
-### § 30 Übergangsbestimmungen für geltende Nachweise
+### § 30 Übergangsbestimmungen für geltende Freistellungen
 
-(1) Entsorgungsnachweise und Sammelentsorgungsnachweise, die bei dem
-nach Artikel 8 Abs. 1 der Verordnung zur Vereinfachung der
-abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298)
-bestimmten Inkrafttreten bereits nach der Nachweisverordnung in der
-Fassung der Bekanntmachung vom 17. Juni 2002 (BGBl. I S. 2374),
-zuletzt geändert durch Artikel 4 der Verordnung vom 15. August 2002
-(BGBl. I S. 3302), bestätigt worden sind, gelten bis zum Ablauf ihrer
-Geltungsdauer als Entsorgungsnachweise und Sammelentsorgungsnachweise
-nach dieser Verordnung fort.
-
-(2) Nachweiserklärungen, die bei dem nach Artikel 8 Abs. 1 der
-Verordnung zur Vereinfachung der abfallrechtlichen Überwachung vom 20.
-Oktober 2006 (BGBl. I S. 2298) bestimmten Inkrafttreten bereits nach
-der Nachweisverordnung in der Fassung der Bekanntmachung vom 17. Juni
-2002 (BGBl. I S. 2374), zuletzt geändert durch Artikel 4 der
-Verordnung vom 15. August 2002 (BGBl. I S. 3302), im privilegierten
-Verfahren erbracht worden sind, gelten als Nachweiserklärungen im
-Sinne des § 7 Abs. 4 bis zum Ablauf ihrer Geltungsdauer fort, wenn sie
-spätestens 30 Kalendertage vor Inkrafttreten der Verordnung zur
-Vereinfachung der abfallrechtlichen Überwachung vom 20. Oktober 2006
-(BGBl. I S. 2298) oder spätestens 30 Kalendertage nach ihrer
-Erbringung der für die Entsorgungsanlage zuständigen Behörde
-zugeleitet werden.
-
-(3) Eine Freistellung von der Bestätigungspflicht auf Antrag des
+Eine Freistellung von der Bestätigungspflicht auf Antrag des
 Abfallentsorgers, die bei dem nach Artikel 8 Abs. 1 der Verordnung zur
 Vereinfachung der abfallrechtlichen Überwachung vom 20. Oktober 2006
 (BGBl. I S. 2298) bestimmten Inkrafttreten bereits nach der
@@ -1314,95 +1519,8 @@ Nachweisverordnung in der Fassung der Bekanntmachung vom 17. Juni 2002
 Ablauf ihrer Geltungsdauer als Freistellung nach § 7 Abs. 1 Nr. 2
 fort.
 
-(4) Abfallwirtschaftskonzepte und Abfallbilanzen, die bis zu dem nach
-Artikel 8 Abs. 1 der Verordnung zur Vereinfachung der
-abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298)
-bestimmten Inkrafttreten Nachweise über besonders
-überwachungsbedürftige Abfälle ersetzt haben, gelten bis zum Ablauf
-ihrer Geltungsdauer als Register im Sinne dieser Verordnung fort.
 
-(5) Eine Gestattung nach § 32 Abs. 4 der Nachweisverordnung in der
-Fassung der Bekanntmachung vom 17. Juni 2002 (BGBl. I S. 2374),
-zuletzt geändert durch Artikel 4 der Verordnung vom 15. August 2002
-(BGBl. I S. 3302), zur Erprobung der elektronischen Nachweisführung
-gilt bis zum Ablauf ihrer Geltungsdauer längstens bis zu dem in
-Artikel 8 Abs. 2 der Verordnung zur Vereinfachung der
-abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298)
-bestimmten Inkrafttreten des Abschnitts 4 des Teils 2 fort. Die
-zuständige Behörde kann eine Gestattung nach Satz 1 nachträglich mit
-Nebenbestimmungen versehen.
-
-
-### § 31 Übergangsbestimmungen zur elektronischen Nachweisführung
-
-(1) Die Nachweispflichtigen können mit Zustimmung der zuständigen
-Behörde die Nachweise und Register nach dieser Verordnung bereits ab
-dem in Artikel 8 Abs. 1 der Verordnung zur Vereinfachung der
-abfallrechtlichen Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298)
-bestimmten Inkrafttreten dieser Verordnung elektronisch, auch unter
-Anwendung der Absätze 2 bis 5, führen. Eine dem Abfallentsorger
-erteilte Zustimmung schließt die nachweispflichtigen Erzeuger,
-Beförderer und Einsammler mit ein, die nach Maßgabe und nach Umfang
-der erteilten Zustimmung an dem elektronischen Nachweisverfahren
-teilnehmen wollen. Die Zustimmung durch die zuständige Behörde soll
-erteilt werden, soweit bei den betroffenen Vollzugsbehörden bereits
-während des in Satz 1 genannten Übergangszeitraumes die technischen
-Voraussetzungen für die elektronische Nachweisführung bestehen.
-Insbesondere zur Umsetzung des § 20 kann die Zustimmung mit
-Nebenbestimmungen oder Auflagen versehen oder befristet werden. Sind
-mehrere Behörden zuständig, entscheidet die für die Entsorgungsanlage
-zuständige Behörde.
-
-(2) Längstens bis zum Ablauf von vier Jahren nach dem in Artikel 8
-Abs. 1 der Verordnung zur Vereinfachung der abfallrechtlichen
-Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298) bestimmten
-Inkrafttreten kann die Übergabe, Übernahme oder Annahme gefährlicher
-Abfälle im Rahmen des Beförderungsvorgangs durch den Abfallerzeuger,
-den Einsammler, den Beförderer und den Abfallentsorger unter
-Verwendung eines Quittungsbelegs gemäß § 22 Abs. 1 Satz 2 bis 4
-nachgewiesen werden.
-
-(3) Wird ein Quittungsbeleg nach Absatz 2 geführt, entfällt für den
-Abfallerzeuger und den Abfallbeförderer die Pflicht zur Verwendung
-einer qualifizierten elektronischen Signatur nach § 19 Abs. 1. Im
-Übrigen bleiben die Pflichten zur elektronischen Führung der
-Begleitscheine unberührt und sind mit der Maßgabe zu erfüllen, dass in
-den von § 11 Abs. 2 bis 4 bestimmten Fällen lediglich eine
-nachträgliche Übersendung des Begleitscheins innerhalb der dort
-bestimmten Fristen erfolgt. Der Aushändigung einer Ausfertigung des
-Quittungsbelegs an den Abfallerzeuger, den Einsammler oder den
-Beförderer bei Übernahme oder Annahme der Abfälle bedarf es nicht.
-
-(4) Der Abfallentsorger hat mit der elektronischen Übermittlung des
-Begleitscheins an die zuständige Behörde zu versichern, dass der
-Quittungsbeleg vollständig ausgefüllt, insbesondere ordnungsgemäß
-unterschrieben ist, die Angaben aus diesem Beleg mit denen des
-Begleitscheins übereinstimmen oder Änderungen kenntlich gemacht worden
-sind und er den Beleg ordnungsgemäß aufbewahrt. Diese Versicherung
-muss von der qualifizierten elektronischen Signatur des
-Abfallentsorgers gedeckt sein.
-
-(5) Längstens bis zum Ablauf von vier Jahren nach dem in Artikel 8
-Abs. 1 der Verordnung zur Vereinfachung der abfallrechtlichen
-Überwachung vom 20. Oktober 2006 (BGBl. I S. 2298) bestimmten
-Inkrafttreten kann der Abfallerzeuger die verantwortliche Erklärung
-über die Entsorgung gefährlicher Abfälle auch ohne Verwendung einer
-qualifizierten elektronischen Signatur erbringen. In diesem Fall hat
-er zusätzlich dem Abfallentsorger eine aus dem Kommunikationssystem
-heraus erzeugte, die vorgesehenen Angaben enthaltende und
-handschriftlich unterschriebene verantwortliche Erklärung zu
-übersenden. § 3 Abs. 2 Satz 1 findet entsprechende Anwendung. Im
-Übrigen bleiben die Pflichten zur elektronischen Führung der Nachweise
-unberührt. Für die weitere Handhabung der verantwortlichen Erklärung
-durch den Abfallentsorger gelten Absatz 2 Satz 3 und Absatz 4
-entsprechend.
-
-(6) Soweit nach dieser Verordnung die Verwendung von Formblättern
-vorgeschrieben ist, sind bis zum 1. April 2010 die Formblätter nach
-der Anlage 1 der Nachweisverordnung in der Fassung der Bekanntmachung
-vom 17. Juni 2002 (BGBl. I S. 2374), die zuletzt durch Artikel 4 der
-Verordnung vom 15. August 2002 (BGBl. I S. 3302) geändert worden ist,
-zu verwenden.
+### § 31 (weggefallen)
 
 
 ### Anlage 1 Formblätter zu Teil 2 Abschnitt 1 und 2 sowie § 24 Abs. 4
@@ -1753,22 +1871,24 @@ b)  **Verzeichnis der Abfälle nach § 9 Abs. 3 Satz 2**
 
 ### Anlage 3 Vorgaben für strukturierte Nachrichten/Schnittstellen nach § 18 Abs. 1
 
-Fundstelle des Originaltextes: BGBl. I 2006, 2329 - 2330
+(Fundstelle: BGBl. I 2006, 2329 - 2330)
 
 Diese Anlage enthält die Vorgaben für die strukturierten Nachrichten
 und Schnittstellen gemäß § 18 Abs. 1 Satz 1 (elektronische Formulare),
 die in den von der Verordnung geregelten Fällen der Führung von
 Nachweisen, der Erstattung von Anzeigen, der Einrichtung und Führung
 von Registern, der Freistellung und der Übermittlung weiterer im
-Rahmen der Nachweisführung erforderlicher Angaben zu verwenden sind.
+Rahmen der Nachweisführung erforderlicher Angaben und Mitteilungen zu
+verwenden sind.
 
 1.  **Allgemeine Vorgaben**
 
     -   Die elektronischen Formulare enthalten die nach der Verordnung,
         insbesondere in Verbindung mit der Anlage 1, erforderlichen Angaben
         zur Führung von Nachweisen, Erstattung von Anzeigen, Einrichtung und
-        Führung von Registern, Freistellung und Übermittlung weiterer
-        erforderlicher Angaben im Rahmen der Nachweisführung.
+        Führung von Registern und zur Freistellung sowie zur Übermittlung
+        weiterer Angaben und Mitteilungen, die zur einfachen, zweckmäßigen und
+        zügigen Durchführung der Nachweisverfahren erforderlich sind.
 
 
     -   Die elektronischen Formulare werden nach dem Stand der Technik auf der

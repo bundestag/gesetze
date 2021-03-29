@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1963, 49
 
 Zuletzt geändert durch
-:   Art. 8 G v. 19.12.1997 I 3158
+:   Art. 3 G v. 21.7.2016 I 1768
 
 
 ## § 1
@@ -51,16 +51,29 @@ zweijährlich erfragt
 
 ## § 4
 
--
+Hilfsmerkmale für die Bundesstatistik nach § 1 sind
+
+1.  Name, Anschrift, Telefonnummer und Adresse für elektronische Post der
+    nach § 5 Absatz 2 auskunftgebenden Stelle,
+
+
+2.  Name und Kontaktdaten der für Rückfragen zur Verfügung stehenden
+    Personen.
+
+
+
 
 
 ## § 5
 
-(1) Für die Angaben nach § 3 sind die für die Durchführung der
-Kriegsopferfürsorge sachlich zuständigen Stellen auskunftspflichtig.
+(1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 4
+Nummer 2 sind freiwillig.
 
-(2) Die Zusatzstatistiken nach § 1 Abs. 2 werden repräsentativ für bis
-zu 20 v.H. der Empfänger dieser Hilfen durchgeführt. Werden die
+(2) Auskunftspflichtig sind die für die Durchführung der
+Kriegsopferfürsorge sachlich zuständigen Stellen.
+
+(3) Die Zusatzstatistiken nach § 1 Absatz 2 werden repräsentativ für
+bis zu 20 Prozent der Empfänger dieser Hilfen durchgeführt. Werden die
 Zusatzstatistiken auf einen Teilbereich dieser Hilfen beschränkt, kann
 von dem bezeichneten Auswahlsatz abgewichen werden, wenn dies für die
 Gewinnung zuverlässiger Ergebnisse notwendig ist.

@@ -4,7 +4,7 @@ Title: Verordnung über die Pauschale für Anlegung, Instandsetzung und Pflege d
   2004 und 2005
 jurabk: GräbPauschV 2004/2005
 layout: default
-origslug: gr_bpauschv_2004_2005
+origslug: graebpauschv_2004_2005
 slug: graebpauschv_2004_2005
 
 ---

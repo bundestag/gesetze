@@ -551,9 +551,9 @@ Abs. 2 der Zivilprozeßordnung ist mit der Maßgabe sinngemäß
 anzuwenden, daß auch Patentanwälte und Erlaubnisscheininhaber
 (Artikel 3 des Zweiten Gesetzes zur Änderung und Überleitung von
 Vorschriften auf dem Gebiet des gewerblichen Rechtsschutzes vom 2.
-Juli 1949 - WiGBl. S. 179)              sowie Verbandsvertreter im
-Sinne des § 11 des Arbeitsgerichtsgesetzes von der Schiedsstelle nicht
-zurückgewiesen werden dürfen.
+Juli 1949 - WiGBl. S. 179) sowie Verbandsvertreter im Sinne des § 11
+des Arbeitsgerichtsgesetzes von der Schiedsstelle nicht zurückgewiesen
+werden dürfen.
 
 (2) Im übrigen bestimmt die Schiedsstelle das Verfahren selbst.
 

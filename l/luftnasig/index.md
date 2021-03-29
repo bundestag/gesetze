@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1997, 1322
 
 Zuletzt geändert durch
-:   Art. 5 G v. 5.12.2012 I 2415
+:   Art. 24 Abs. 17 G v. 23.6.2017 I 1693
 
 
 
@@ -58,7 +58,7 @@ hinaus anzugeben:
     Maßgabe ihres Sitzes;
 
 
-3.  Meldepflichtige nach den §§ 21ff. des Wertpapierhandelsgesetzes das
+3.  Meldepflichtige nach den §§ 33 ff. des Wertpapierhandelsgesetzes das
     Bestehen oder die Veränderung des Bestehens eines unmittelbaren oder
     mittelbaren Mehrheitsbesitzes oder einer beherrschenden Beteiligung an
     ihnen in ausländischem Eigentum unter Benennung des ausländischen
@@ -131,7 +131,7 @@ anderes ergibt.
 
 (3) Die nach Absatz 2 durch die Hauptversammlung erteilte Ermächtigung
 darf nur ausgeübt werden, wenn aus dem Aktienbuch oder aus einer
-Meldung nach den §§ 21ff. des Wertpapierhandelsgesetzes hervorgeht,
+Meldung nach den §§ 33 ff. des Wertpapierhandelsgesetzes hervorgeht,
 daß sich
 
 1.  45 vom Hundert oder mehr der nach den ausgegebenen Aktien insgesamt
@@ -166,7 +166,7 @@ kann eine größere Kapitalmehrheit und weitere Erfordernisse bestimmen.
 (2) Die nach Absatz 1 durch die Hauptversammlung erteilte Ermächtigung
 darf nur ausgeübt werden, wenn
 
-1.  aus dem Aktienbuch oder aus einer Meldung nach den §§ 21ff. des
+1.  aus dem Aktienbuch oder aus einer Meldung nach den §§ 33 ff. des
     Wertpapierhandelsgesetzes hervorgeht, daß sich eine Stimmenmehrheit
     oder eine beherrschende Beteiligung im Sinne des § 17 des
     Aktiengesetzes im Besitz solcher Aktionäre befindet, deren
@@ -249,7 +249,7 @@ Aktienbestand nicht anzuwenden.
 
 ## § 6 Unterrichtung der Aktionäre
 
-(1) Der Vorstand hat mit Einberufung der Hauptversammlung nach § 30b
+(1) Der Vorstand hat mit Einberufung der Hauptversammlung nach § 49
 Absatz 1 Satz 1 Nummer 1 des Wertpapierhandelsgesetzes die
 Stimmenverhältnisse nach Nationalitäten bekanntzugeben. Der Vorstand
 ist verpflichtet, den jeweiligen Stand des Anteils der Stimmen im
@@ -258,7 +258,12 @@ veröffentlichen.
 
 (2) Der Vorstand hat unverzüglich den Eintritt von Tatsachen, die
 gemäß § 4 zum Erwerb eigener Aktien oder zur Vornahme der
-Kapitalmaßnahmen befugen, gemäß § 15 des Wertpapierhandelsgesetzes zu
+Kapitalmaßnahmen befugen, gemäß Artikel 17 der Verordnung (EU) Nr.
+596/2014 des Europäischen Parlaments und des Rates vom 16. April 2014
+über Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung
+der Richtlinie 2003/6/EG des Europäischen Parlaments und des Rates und
+der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+(ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung zu
 veröffentlichen.
 
 

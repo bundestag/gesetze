@@ -4,7 +4,7 @@ Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über die
   zusammenhängenden Ereignissen
 jurabk: SchZusStrZustÜbk
 layout: default
-origslug: schzusstrzust_bk
+origslug: schzusstrzustuebk
 slug: schzusstrzustuebk
 
 ---

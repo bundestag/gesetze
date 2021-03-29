@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3117
 
-Geändert durch
-:   Art. 13 G v. 1.3.2011 I 288
+Zuletzt geändert durch
+:   Art. 1 V v. 22.12.2017 I 4033
 
 § 9 dieser Verordnung dient der Umsetzung von Artikel 5 und 6 der
 Richtlinie 2000/46/EG des Europäischen Parlaments und des Rates vom
@@ -37,7 +37,14 @@ Spitzenverbände der Institute:
 
 (1) Diese Verordnung ist anzuwenden auf
 
-1.  Kreditinstitute und
+1.  Kreditinstitute, auf die die Vorschriften der Artikel 411 bis 428 der
+    Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates
+    vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und
+    Wertpapierfirmen und zur Änderung der Verordnung (EU) Nr. 648/2012
+    (ABl. L 176 vom 27.6.2013, S. 1; L 208 vom 2.8.2013, S. 68; L 321 vom
+    30\.11.2013, S. 6; L 193 vom 21.7.2015, S. 166; L 20 vom 25.1.2017, S.
+    3), die zuletzt durch die Verordnung (EU) 2016/1014 (ABl. L 171 vom
+    29\.6.2016, S. 153) geändert worden ist, nicht anzuwenden sind, und
 
 
 2.  Finanzdienstleistungsinstitute, die
@@ -56,27 +63,10 @@ Spitzenverbände der Institute:
 
 
 
-(2) Diese Verordnung gilt nicht für Zweigniederlassungen nach § 53b
-Abs. 1 Satz 1 des Kreditwesengesetzes, wenn
-
-1.  die zuständige ausländische Aufsichtsbehörde und die Bundesanstalt für
-    Finanzdienstleistungsaufsicht (Bundesanstalt) eine Vereinbarung über
-    die gegenseitige Anerkennung der Liquiditätsregeln getroffen haben,
-
-
-2.  die Zweigniederlassung vollständig in das Liquiditätsmanagement der
-    Zentrale eingebunden ist,
-
-
-3.  die Zentrale gegenüber der Bundesanstalt schriftlich erklärt, dass die
-    Liquidität der Zweigniederlassung jederzeit sichergestellt wird und
-
-
-4.  die Bundesanstalt das Vorliegen der Voraussetzungen nach den Nummern 1
-    bis 3 schriftlich bestätigt hat.
-
-
-
+(2) CRR-Wertpapierfirmen, die die Vorschriften der Artikel 411 bis 428
+der Verordnung (EU) Nr. 575/2013 auf Gruppenebene konsolidiert oder
+teilkonsolidiert einhalten müssen, können durch die Bundesanstalt auf
+Antrag von den Anforderungen dieser Verordnung befreit werden.
 
 
 ## § 2 Ausreichende Liquidität
@@ -133,26 +123,20 @@ zu erfassen
     Kreditinstitut oder der Kreditanstalt für Wiederaufbau erhalten hat,
 
 
-5.  nicht wie Anlagevermögen bewertete Wertpapiere, die zum Handel auf
-    einem geregelten Markt im Sinne des Artikels 4 Abs. 1 Nr. 14 der
-    Richtlinie 2004/39/EG des Europäischen Parlaments und des Rates vom
-    21\. April 2004 über Märkte für Finanzinstrumente, zur Änderung der
-    Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie
-    2000/12/EG des Europäischen Parlaments und des Rates und zur Aufhebung
-    der Richtlinie 93/22/EWG des Rates (ABl. EU Nr. L 145 S. 1), zuletzt
-    geändert durch die Richtlinie 2006/31/EG des Europäischen Parlaments
-    und des Rates vom 5. April 2006 (ABl. EU Nr. L 114 S. 60) in einem
-    Staat des Europäischen Wirtschaftsraums oder an einer Wertpapierbörse
-    nach § 1 Abs. 3e des Kreditwesengesetzes zugelassen sind
-    (börsennotierte Wertpapiere), einschließlich der dem Institut als
-    Pensionsnehmer oder Entleiher im Rahmen von Pensionsgeschäften oder
-    Leihgeschäften übertragenen Papiere,
+5.  nicht wie Anlagevermögen bewertete Wertpapiere, die zum Handel an
+    einer anerkannten Börse im Sinne des Artikels 4 Absatz 1 Nummer 72 der
+    Verordnung (EU) Nr. 575/2013 in einem Staat des Europäischen
+    Wirtschaftsraums oder an einer Wertpapierbörse nach § 1 Absatz 3e des
+    Kreditwesengesetzes zugelassen sind (börsennotierte Wertpapiere),
+    einschließlich der dem Institut als Pensionsnehmer oder Entleiher im
+    Rahmen von Pensionsgeschäften oder Leihgeschäften übertragenen
+    Papiere,
 
 
 6.  Vermögensgegenstände, die von der Europäischen Zentralbank oder der
     Zentralnotenbank eines Staates, dessen unbesicherte
-    Zahlungsverpflichtungen ein KSA-Risikogewicht nach § 26 Nr. 1 oder 2
-    der Solvabilitätsverordnung von 0 Prozent erhalten würden, nach dem
+    Zahlungsverpflichtungen ein Risikogewicht nach Artikel 114 der
+    Verordnung (EU) Nr. 575/2013 von 0 Prozent erhalten würden, nach dem
     jeweiligen Verzeichnis als refinanzierungsfähige Sicherheiten
     anerkannt werden, wobei das Kreditinstitut im Sitzland der
     Zentralnotenbank eine Zweigniederlassung haben muss, wenn diese nicht
@@ -165,24 +149,22 @@ zu erfassen
 
 
 7.  nicht wie Anlagevermögen bewertete gedeckte Schuldverschreibungen nach
-    § 20a des Kreditwesengesetzes, einschließlich der dem Institut als
-    Pensionsnehmer oder Entleiher im Rahmen von Pensionsgeschäften oder
-    Leihgeschäften übertragenen gedeckten Schuldverschreibungen, und
+    Artikel 129 der Verordnung (EU) Nr. 575/2013, einschließlich der dem
+    Institut als Pensionsnehmer oder Entleiher im Rahmen von
+    Pensionsgeschäften oder Leihgeschäften übertragenen gedeckten
+    Schuldverschreibungen, und
 
 
 8.  in Höhe von 90 Prozent der jeweiligen Rücknahmepreise nicht wie
-    Anlagevermögen bewertete Anteile an richtlinienkonformen
-    Sondervermögen im Sinne von §§ 46 bis 65 des Investmentgesetzes,
-    Spezial-Sondervermögen im Sinne von §§ 91 bis 95 des
-    Investmentgesetzes, deren Vertragsbedingungen Anlagegrundsätze und
-    -grenzen vorsehen, die denen richtlinienkonformer Sondervermögen im
-    Sinne von §§ 46 bis 65 des Investmentgesetzes entsprechen, und EG-
-    Investmentanteile im Sinne von § 2 Abs. 10 des Investmentgesetzes, die
-    denen richtlinienkonformer Sondervermögen im Sinne von §§ 46 bis 65
-    des Investmentgesetzes entsprechen, soweit für die Anteile an
-    ausländischen Sondervermögen die Rücknahme- und Abwicklungsregelungen
-    entsprechend den Regeln für Anteile an den vorgenannten inländischen
-    Sondervermögen (Investmentanteile) gelten.
+    Anlagevermögen bewertete Anteile an inländischen OGAW-Sondervermögen,
+    inländischen Spezialsondervermögen, deren Anlagebedingungen
+    Anlagegrundsätze und -grenzen vorsehen, die denen von inländischen
+    OGAW entsprechen, und EU-OGAW, soweit deren Rücknahme- und
+    Abwicklungsregelungen denen für Publikumssondervermögen entsprechen;
+    die Anlagebedingungen der Sondervermögen müssen sicherstellen, dass
+    die Anteilseigner ihre Anteile börsentäglich zurückgeben können und
+    die Rücknahme entgegen § 98 Absatz 2 des Kapitalanlagegesetzbuchs
+    nicht verweigert werden kann.
 
 
 
@@ -243,7 +225,8 @@ und 2 sind
 
 
 3.  zurückgekaufte Schuldverschreibungen eigener Emissionen, die die
-    Voraussetzungen des § 20a des Kreditwesengesetzes nicht erfüllen,
+    Voraussetzungen des Artikels 129 der Verordnung (EU) Nr. 575/2013
+    nicht erfüllen,
 
 
 4.  im Rahmen von Pensionsgeschäften oder Leihgeschäften übertragene
@@ -306,14 +289,10 @@ in den Laufzeitbändern 1 bis 4 zu erfassen
 1.  Verbindlichkeiten gegenüber einer Zentralnotenbank,
 
 
-2.  Verbindlichkeiten gegenüber Kreditinstituten, soweit sie nicht unter
-    Nummer 3 fallen,
+2.  Verbindlichkeiten gegenüber Kreditinstituten,
 
 
-3.  20 Prozent der Verbindlichkeiten von Zentralbanken gegenüber ihren
-    Girozentralen und Zentralkassen sowie von Girozentralen und
-    Zentralbanken gegenüber angeschlossenen Sparkassen und
-    Kreditgenossenschaften,
+3.  (weggefallen)
 
 
 4.  Verbindlichkeiten gegenüber Kunden, soweit sie nicht unter Nummer 12
@@ -346,9 +325,9 @@ in den Laufzeitbändern 1 bis 4 zu erfassen
 11. sonstige Verbindlichkeiten und
 
 
-12. 20 Prozent des nicht in Anspruch genommenen Teils qualifizierter
-    Verbriefungs-Liquiditätsfazilitäten im Sinne des § 230 Abs. 2 der
-    Solvabilitätsverordnung, die nicht jederzeit fristlos und
+12. 20 Prozent des nicht in Anspruch genommenen Teils von Verbriefungs-
+    Liquiditätsfazilitäten im Sinne des Artikels 255 Absatz 1 der
+    Verordnung (EU) Nr. 575/2013, die nicht jederzeit fristlos und
     bedingungslos vom Institut gekündigt werden können, wenn eine
     Inanspruchnahme zwischen den Refinanzierungsterminen für die
     Verbriefungstransaktion ausgeschlossen ist,
@@ -498,8 +477,19 @@ dass die aus Wertberichtigungen resultierenden
 liquiditätseinschränkenden Effekte nicht ausreichend abgebildet
 werden.
 
-(3) Für die Umrechnung von auf fremde Währungen lautenden Aktiv- und
-Passivposten gilt § 5 der Solvabilitätsverordnung entsprechend.
+(3) Eine auf eine fremde Währung lautende Position ist zu dem
+Referenzkurs, der von der Europäischen Zentralbank am Meldestichtag
+festgestellt und von der Deutschen Bundesbank veröffentlicht worden
+ist (Euro-Referenzkurs), in Euro umzurechnen. Bei der Umrechnung von
+Währungen, für die kein Euro-Referenzkurs veröffentlicht wird, sind
+die Mittelkurse aus feststellbaren An- und Verkaufskursen des
+Stichtages zugrunde zu legen.
+
+(4) Institute dürfen abweichend von Absatz 3 intern verwendete
+Fremdwährungsumrechnungskurse aus eigenen Risikomodellen, die für
+aufsichtliche Zwecke zugelassen sind, weiterhin berücksichtigen, wenn
+sie diese bereits vor dem 1. Januar 2014 konsistent berücksichtigt
+haben.
 
 
 ## § 7 Restlaufzeiten
@@ -550,14 +540,8 @@ täglicher Kündigung gelten nicht als täglich fällig. Sie werden wie
 Festgelder mit eintägiger Laufzeit behandelt.
 
 
-## § 8 Regelung für Bausparkassen
+## § 8 (weggefallen)
 
-Bausparkassen müssen abweichend von den §§ 3 bis 7 den
-Unterschiedsbetrag zwischen Bauspareinlagen und Bauspardarlehen in
-Höhe von 10 Prozent der Buchwerte unter den Zahlungsverpflichtungen
-nach § 4 Abs. 1 im Laufzeitband 1 anrechnen. Die Zahlungsmittel und
-Zahlungsverpflichtungen aus dem außerkollektiven Geschäft der
-Bausparkassen sind nach den §§ 3 bis 7 zu erfassen.
 
 
 ## § 9 (weggefallen)
@@ -569,7 +553,7 @@ Bausparkassen sind nach den §§ 3 bis 7 zu erfassen.
 
 (1) Zur Beurteilung der ausreichenden Liquidität darf das Institut
 nach dauerhafter Wahl mit Zustimmung der Bundesanstalt anstelle der §§
-2 bis 8 ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren
+2 bis 7 ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren
 verwenden, wenn die Voraussetzungen nach Absatz 3 erfüllt werden und
 die Bundesanstalt dessen Eignung für die Zwecke dieser Verordnung auf
 Antrag des Instituts schriftlich bestätigt hat. Die Bundesanstalt kann
@@ -595,7 +579,7 @@ die Verwendung eines eigenen Liquiditätsrisikomess- und
     Verhältnisse, der Art und Komplexität der betriebenen Geschäfte und
     der Größe des Instituts eine adäquate laufende Ermittlung und
     Überwachung des Liquiditätsrisikos und stellt die Liquiditätslage
-    eingehender und angemessener dar, als bei Anwendung der §§ 2 bis 8.
+    eingehender und angemessener dar, als bei Anwendung der §§ 2 bis 7.
     Insbesondere soll das Liquiditätsrisikomess- und -steuerungsverfahren
     dabei auch Aufschluss über zu erwartende kurzfristige
     Nettomittelabflüsse, die Möglichkeit zur Aufnahme unbesicherter
@@ -636,15 +620,14 @@ die Verwendung eines eigenen Liquiditätsrisikomess- und
 
 (4) Ein Institut mit Sitz im Inland, das nachgeordnetes Unternehmen
 einer Institutsgruppe oder einer Finanzholding-Gruppe ist und die
-Voraussetzungen nach § 2a Abs. 1 Nr. 1 bis 5 des Kreditwesengesetzes
-erfüllt, oder das übergeordnetes Unternehmen ist und die
-Voraussetzungen nach § 2a Abs. 6 Satz 1 Nr. 1 und 2 des
-Kreditwesengesetzes erfüllt, darf nach dauerhafter Wahl mit Zustimmung
-der Bundesanstalt von der Anwendung der §§ 2 bis 8 absehen, wenn die
-Institutsgruppe oder die Finanzholding-Gruppe, der das Institut
-angehört, ein eigenes Liquiditätsrisikomess- und -steuerungsverfahren
-verwendet und die Bundesanstalt dessen Eignung schriftlich bestätigt
-hat. Die Absätze 1 bis 3 gelten entsprechend.
+Voraussetzungen nach § 2a Absatz 5 des Kreditwesengesetzes erfüllt,
+oder das übergeordnetes Unternehmen ist und die Voraussetzungen nach §
+2a Absatz 5 des Kreditwesengesetzes erfüllt, darf nach dauerhafter
+Wahl mit Zustimmung der Bundesanstalt von der Anwendung der §§ 2 bis 7
+absehen, wenn die Institutsgruppe oder die Finanzholding-Gruppe, der
+das Institut angehört, ein eigenes Liquiditätsrisikomess- und
+-steuerungsverfahren verwendet und die Bundesanstalt dessen Eignung
+schriftlich bestätigt hat. Die Absätze 1 bis 3 gelten entsprechend.
 
 
 ## § 11 Meldungen der Kennzahlen
@@ -690,17 +673,22 @@ Diese Verordnung tritt am 1. Januar 2007 in Kraft.
 
 -
 
+(zu § 11 Abs. 1 Satz 1)
 
-## Anlage 2 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 1
+## Anlage 2 Meldevordruck LV 1
 
-...
-(nicht darstellbare Abbildung des "Meldevordrucks LV 1"
-Fundstelle: BGBl. I 2006, 3124 - 3129)
+(Fundstelle: BGBl. I 2017, 4035 — 4040)
 
 
-## Anlage 3 (zu § 11 Abs. 1 Satz 1) Meldevordruck LV 2
 
-...
-(nicht darstellbare Abbildung des "Meldevordrucks LV 2"
-Fundstelle: BGBl. I 2006, 3130 - 3131)
+
+
+
+
+(zu § 11 Abs. 1 Satz 1)
+
+## Anlage 3 Meldevordruck LV 2
+
+(Fundstelle: BGBl. I 2017, 4041)
+
 

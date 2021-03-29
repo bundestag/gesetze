@@ -5,7 +5,7 @@ Title: Gesetz zur Änderung des Einkommensteuergesetzes, des Körperschaftsteuer
   Gesetzes zur Förderung der Wirtschaft von Berlin (West) und andere Gesetze
 jurabk: StÄndG 1961
 layout: default
-origslug: st_ndg_1961
+origslug: staendg_1961
 slug: staendg_1961
 
 ---
@@ -65,8 +65,8 @@ Ansatz bleiben.
 
 ### Art 23
 
-Artikel 22              gilt nicht für Personen, die ein
-handwerksähnliches Gewerbe betreiben.
+Artikel 22 gilt nicht für Personen, die ein handwerksähnliches Gewerbe
+betreiben.
 
 
 ### Art 24

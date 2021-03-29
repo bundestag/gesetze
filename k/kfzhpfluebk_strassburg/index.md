@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen über die obligatorische Haftpflichtversiche
   für Kraftfahrzeuge
 jurabk: KfzHPflÜbk Straßburg
 layout: default
-origslug: kfzhpfl_bk_stra_burg
+origslug: kfzhpfluebk_strassburg
 slug: kfzhpfluebk_strassburg
 
 ---

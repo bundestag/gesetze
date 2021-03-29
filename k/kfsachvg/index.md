@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1971, 2086
 
 Zuletzt geändert durch
-:   Art. 60 G v. 6.12.2011 I 2515
+:   Art. 4 G v. 28.11.2016 I 2722
 
 
 ## Eingangsformel
@@ -208,7 +208,7 @@ maßgebenden gesetzlichen Vorschriften. Für den Bewerber um die
 amtliche Anerkennung als Prüfer mit Teilbefugnissen genügen die
 Kenntnisse des für seine Tätigkeit erforderlichen Wissensstoffs.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu
 erlassen
 
@@ -256,6 +256,21 @@ Zustimmung der zuständigen Aufsichtsbehörden.
 (2) Der Sachverständige und der Prüfer darf personenbezogene Daten,
 die ihm bei seiner Tätigkeit bekanntgeworden sind, nur für diese
 Tätigkeit verwenden.
+
+(3) Nimmt der Sachverständige oder Prüfer Fahrerlaubnisprüfungen für
+die Klasse B ab, muss er seit mindestens drei Jahren die Fahrerlaubnis
+der Klasse B besitzen. Nimmt der Sachverständige oder Prüfer
+Fahrerlaubnisprüfungen sonstiger Fahrerlaubnisklassen ab, muss er seit
+mindestens drei Jahren als Sachverständiger oder Prüfer bei der
+Abnahme von Fahrerlaubnisprüfungen der Klasse B tätig sein, es sei
+denn, er verfügt über eine mindestens fünfjährige Fahrpraxis in der
+betreffenden Klasse oder hat im Rahmen der Prüfung zur Anerkennung als
+Sachverständiger oder Prüfer eine vorschriftsmäßige, sichere und
+gewandte Fahrweise auf einem Fahrzeug der entsprechenden Klasse
+nachgewiesen. Ein Sachverständiger oder Prüfer, der
+Fahrerlaubnisprüfungen abnimmt, darf nicht gleichzeitig im Rahmen
+eines Beschäftigungsverhältnisses als Fahrlehrer tätig oder Inhaber
+einer Fahrschulerlaubnis sein.
 
 
 ## § 7 Ruhen und Erlöschen der Anerkennung
@@ -393,7 +408,7 @@ und nach gleichen Maßstäben
 
 Qualitätssicherungssysteme zu unterhalten und dies der
 Aufsichtsbehörde (§ 13) nachzuweisen. Das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung wird ermächtigt, Rechtsverordnungen
+Verkehr und digitale Infrastruktur wird ermächtigt, Rechtsverordnungen
 und allgemeine Verwaltungsvorschriften mit Zustimmung des Bundesrates
 über den Inhalt der Maßnahmen zur Qualitätssicherung einschließlich
 der hierfür erforderlichen Verarbeitung und Nutzung personenbezogener
@@ -488,7 +503,7 @@ Die Landesregierungen bestimmen durch Rechtsverordnung
 
 (1) Das Bundesministerium des Innern, das Bundesministerium der
 Finanzen, das Bundesministerium der Verteidigung, das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung, können für
+Bundesministerium für Verkehr und digitale Infrastruktur, können für
 den Bereich ihrer Verwaltungen und die zuständigen obersten
 Landesbehörden für den Dienstbereich der Polizei bestimmen, welche
 Stellen die Ausbildung und Prüfung nach § 2 Abs. 1 Nr. 5 und 7
@@ -561,7 +576,7 @@ dienstlichen Gründen geboten ist.
 Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften
 werden Kosten (Gebühren und Auslagen) erhoben.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt mit Zustimmung des Bundesrates durch Rechtsverordnung die
 gebührenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder
 Rahmensätze vor. Die Gebührensätze sind so zu bemessen, daß der mit
@@ -569,13 +584,20 @@ den Amtshandlungen, Prüfungen oder Untersuchungen verbundene Personal-
 und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann
 daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige
 Nutzen für die Gebührenschuldner angemessen berücksichtigt werden. Im
-übrigen findet das Verwaltungskostengesetz vom 23. Juni 1970 (BGBl. I
-S. 821), geändert durch Artikel 41 des Gesetzes vom 14. Dezember 1976
-(BGBl. I S. 3341), Anwendung. In den Rechtsverordnungen nach Satz 1
-können jedoch die Kostenbefreiung, die Kostengläubigerschaft, die
+übrigen findet das Verwaltungskostengesetz in der bis zum 14. August
+2013 geltenden Fassung, Anwendung. In den Rechtsverordnungen nach Satz
+1 können jedoch die Kostenbefreiung, die Kostengläubigerschaft, die
 Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die
 Kostenerhebung abweichend von den Vorschriften des
-Verwaltungskostengesetzes geregelt werden.
+Verwaltungskostengesetzes geregelt werden. Im Bereich der Gebühren der
+Landesbehörden übt das Bundesministerium für Verkehr und digitale
+Infrastruktur seine Ermächtigung auf der Grundlage eines Antrags oder
+einer Stellungnahme von mindestens fünf Ländern beim Bundesministerium
+für Verkehr, Bau und Stadtentwicklung aus. Der Antrag oder die
+Stellungnahme sind mit einer Schätzung des Personal- und Sachaufwands
+zu begründen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur kann die übrigen Länder ebenfalls zur Beibringung einer
+Schätzung des Personal- und Sachaufwands auffordern.
 
 (3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, daß
 die für die Prüfung oder Untersuchung zulässige Gebühr auch erhoben
@@ -752,8 +774,7 @@ Prüfingenieure (§ 22 Abs. 2 Nr. 2) sind und welche Behörde den
 Sachverständigen oder Prüfer anerkannt oder der Betrauung des
 Prüfingenieurs zugestimmt hat.
 
-(2) Im Verkehrszentralregister (§ 28 des Straßenverkehrsgesetzes)
-werden
+(2) Im Fahreignungsregister (§ 28 des Straßenverkehrsgesetzes) werden
 
 1.  rechtskräftige Entscheidungen wegen einer Ordnungswidrigkeit nach
     diesem Gesetz, wenn gegen den Betroffenen eine Geldbuße von mindestens
@@ -829,7 +850,15 @@ oder die Anerkennungsbehörden haben dem Kraftfahrt-Bundesamt die nach
 § 23 zu speichernden Daten (einschließlich jeder Änderung dieser Daten
 und des Zeitpunkts der Änderung) zu übermitteln. Werden keine
 örtlichen Register geführt, so ist zur Übermittlung die Behörde
-verpflichtet, die gemäß § 22 Abs. 3 Nr. 2 bis 4 befaßt ist.
+verpflichtet, die gemäß § 22 Abs. 3 Nr. 2 bis 4 befaßt ist. Die
+Datenübermittlung nach den Sätzen 1 und 2 kann auch im Wege der
+Datenfernübertragung durch Direkteinstellung unter entsprechender
+Anwendung des § 30a Absatz 2 bis 4 des Straßenverkehrsgesetzes
+erfolgen. Das Bundesministerium für Verkehr und digitale Infrastruktur
+wird ermächtigt, Rechtsverordnungen mit Zustimmung des Bundesrates
+über die Art und den Umfang der zu übermittelnden Daten, die Maßnahmen
+zur Sicherung gegen Missbrauch, die weiteren Aufzeichnungen und die
+Einzelheiten des Übermittlungsverfahrens zu erlassen.
 
 (3) Ist ein amtlich anerkannter Sachverständiger oder Prüfer oder ein
 Prüfingenieur im Bereich mehrerer Anerkennungsbehörden tätig, so teilt
@@ -865,30 +894,29 @@ jeweils erforderlich ist.
 gilt § 43 des Straßenverkehrsgesetzes.
 
 
-## § 28 Abgleich mit dem Verkehrszentralregister
+## § 28 Abgleich mit dem Fahreignungsregister
 
-(1) Das Kraftfahrt-Bundesamt prüft, ob die im Verkehrszentralregister
+(1) Das Kraftfahrt-Bundesamt prüft, ob die im Fahreignungsregister
 enthaltenen Eintragungen Sachverständige, Prüfer oder Prüfingenieure
 betreffen.
 
 (2) Die nach Absatz 1 ermittelten auf Sachverständige, Prüfer oder
-Prüfingenieure bezogenen Daten aus dem Verkehrszentralregister teilt
-das Amt den zuständigen Anerkennungsbehörden, den für die Zustimmung
-zur Betrauung zuständigen Behörden oder den zuständigen
-Aufsichtsbehörden mit. Hierbei werden die Personendaten des
-Betreffenden, Art und Umfang der Eintragung, Datum der betreffenden
-Maßnahme, Entscheidung oder Erklärung sowie Aktenzeichen der Behörde
-oder des Gerichts mitgeteilt.
+Prüfingenieure bezogenen Daten aus dem Fahreignungsregister teilt das
+Amt den zuständigen Anerkennungsbehörden, den für die Zustimmung zur
+Betrauung zuständigen Behörden oder den zuständigen Aufsichtsbehörden
+mit. Hierbei werden die Personendaten des Betreffenden, Art und Umfang
+der Eintragung, Datum der betreffenden Maßnahme, Entscheidung oder
+Erklärung sowie Aktenzeichen der Behörde oder des Gerichts mitgeteilt.
 
 
 ## § 29 Datenvergleich zur Beseitigung von Fehlern
 
 (1) Die nach § 22 gespeicherten Daten dürfen von der örtlichen
-Registerbehörde an das Kraftfahrt-Bundesamt zum
-Verkehrszentralregister und zum Zentralen Fahrerlaubnisregister
-übermittelt werden, soweit dies erforderlich ist, um Fehler und
-Abweichungen in diesen Registern festzustellen und zu beseitigen und
-um diese Register zu vervollständigen.
+Registerbehörde an das Kraftfahrt-Bundesamt zum Fahreignungsregister
+und zum Zentralen Fahrerlaubnisregister übermittelt werden, soweit
+dies erforderlich ist, um Fehler und Abweichungen in diesen Registern
+festzustellen und zu beseitigen und um diese Register zu
+vervollständigen.
 
 (2) Die nach § 23 gespeicherten Daten dürfen vom Kraftfahrt-Bundesamt
 an die zuständigen örtlichen Registerbehörden übermittelt werden,
@@ -978,6 +1006,13 @@ Fahrerlaubnis zur Fahrgastbeförderung in Kraftomnibussen abgenommen
 haben, benötigen abweichend von § 2 Abs. 1 Satz 2 keine Fahrerlaubnis
 der Klasse D, wenn sie Fahrerlaubnisprüfungen abnehmen.
 
+(5) Amtlich anerkannte Sachverständige oder Prüfer, die vor dem 19.
+Januar 2013 zur Abnahme von Fahrerlaubnisprüfungen berechtigt waren,
+sind danach unabhängig vom Vorliegen der Anforderungen in § 6 Absatz 3
+weiter zur Abnahme von Fahrerlaubnisprüfungen berechtigt. Sie
+unterliegen der regelmäßigen Überwachung und den Regelungen zur
+Qualitätssicherung nach diesem Gesetz.
+
 
 ## § 33 Inkrafttreten
 
@@ -985,8 +1020,10 @@ der Klasse D, wenn sie Fahrerlaubnisprüfungen abnehmen.
 
 (2)
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 1103)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 1103) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

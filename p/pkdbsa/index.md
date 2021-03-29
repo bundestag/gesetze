@@ -3980,7 +3980,7 @@ welchem die Leistung verlangt werden kann. § 12 Abs. 2 und 3 des
 Versicherungsvertragsgesetzes gilt entsprechend.
 
 
-### 3. - Finanzierung der Versicherungsleistungen, Altersvorsorgezulage
+### 3. - Finanzierung der Versicherungsleistungen,  Altersvorsorgezulage
 
 
 
@@ -4426,7 +4426,7 @@ Hinterbliebenenrenten aus den übergeleiteten
 Versicherungsverhältnissen gelten die §§ 15, 19 und 20.
 
 
-## VI. - Bestimmungen über die Abwicklung von Versicherungsverhältnissen
+## VI. - Bestimmungen über die Abwicklung von  Versicherungsverhältnissen
 
 
 
@@ -4508,11 +4508,11 @@ Anlage XV festgesetzten Versicherungsbedingungen. Die Anlage ist
 Bestandteil dieser Satzung.
 
 
-## VII. - Gemeinsame Bestimmungen für die Versicherten der Abteilungen A und A 2000
+## VII. - Gemeinsame Bestimmungen für die Versicherten der  Abteilungen A und A 2000
 
 
 
-### 1. - Pflichten der Versicherten und Hinterbliebenen, Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
+### 1. - Pflichten der Versicherten und Hinterbliebenen,  Auskunftsanspruch und Rechte bei ruhendem Arbeitsverhältnis
 
 
 
@@ -7358,21 +7358,21 @@ Ersten des Monats an, in dem der Kapitalbetrag eingezahlt worden ist.
 
 
 **7. Rückwirkender Wegfall der Kürzung bei vorzeitigem Tod des
-berechtigten Ehegatten**              Hat der ausgleichsberechtigte
-Ehegatte aus der in der gesetzlichen Rentenversicherung begründeten
-Anwartschaft vor seinem Tod keine Leistungen erhalten, so wird auf
-Antrag die Kürzung der Versichertenrente von Anfang an aufgehoben. Ist
-der ausgleichsberechtigte Ehegatte gestorben und wurden oder werden
-aus der in der gesetzlichen Rentenversicherung begründeten
-Anwartschaft Leistungen gewährt, die insgesamt zwei Jahresbeträge
-einer auf das Ende des Leistungsbezuges ohne Berücksichtigung des
-Zugangsfaktors berechneten Vollrente wegen Alters aus der
-Rentenversicherung der Arbeiter und der Angestellten aus der
-begründeten Anwartschaft nicht übersteigen, gilt Satz 1 entsprechend;
-jedoch sind Leistungen, die der Träger der gesetzlichen
-Rentenversicherung auf Grund des Versorgungsausgleichs gewährt hat,
-auf die sich aus dem rückwirkenden Wegfall der Kürzung ergebende
-Erhöhung der Versichertenrente anzurechnen.
+berechtigten Ehegatten** Hat der ausgleichsberechtigte Ehegatte aus
+der in der gesetzlichen Rentenversicherung begründeten Anwartschaft
+vor seinem Tod keine Leistungen erhalten, so wird auf Antrag die
+Kürzung der Versichertenrente von Anfang an aufgehoben. Ist der
+ausgleichsberechtigte Ehegatte gestorben und wurden oder werden aus
+der in der gesetzlichen Rentenversicherung begründeten Anwartschaft
+Leistungen gewährt, die insgesamt zwei Jahresbeträge einer auf das
+Ende des Leistungsbezuges ohne Berücksichtigung des Zugangsfaktors
+berechneten Vollrente wegen Alters aus der Rentenversicherung der
+Arbeiter und der Angestellten aus der begründeten Anwartschaft nicht
+übersteigen, gilt Satz 1 entsprechend; jedoch sind Leistungen, die der
+Träger der gesetzlichen Rentenversicherung auf Grund des
+Versorgungsausgleichs gewährt hat, auf die sich aus dem rückwirkenden
+Wegfall der Kürzung ergebende Erhöhung der Versichertenrente
+anzurechnen.
 Antragsberechtigt sind der ausgleichsverpflichtete Ehegatte und seine
 Hinterbliebenen, soweit sie belastet sind.
 
@@ -7399,16 +7399,16 @@ sind.
 
 **9. Rückwirkender Wegfall der Kürzung auf Grund von
 Unterhaltsverpflichtungen gegenüber dem ausgleichsberechtigten
-Ehegatten**              Solange der ausgleichsberechtigte Ehegatte
-aus der in der gesetzlichen Rentenversicherung begründeten
-Anwartschaft keine Rente erhalten kann und er gegen den
-ausgleichsverpflichteten Ehegatten einen Anspruch auf Unterhalt hat
-oder nur deshalb nicht hat, weil der ausgleichsverpflichtete Ehegatte
-zur Unterhaltsleistung wegen der auf dem Versorgungsausgleich
-beruhenden Kürzung seiner Versichertenrente außer Stande ist, wird auf
-Antrag die Versichertenrente des ausgleichsverpflichteten Ehegatten
-nicht auf Grund des Versorgungsausgleichs gekürzt. Den Antrag können
-der ausgleichsverpflichtete und der ausgleichsberechtigte Ehegatte
+Ehegatten** Solange der ausgleichsberechtigte Ehegatte aus der in der
+gesetzlichen Rentenversicherung begründeten Anwartschaft keine Rente
+erhalten kann und er gegen den ausgleichsverpflichteten Ehegatten
+einen Anspruch auf Unterhalt hat oder nur deshalb nicht hat, weil der
+ausgleichsverpflichtete Ehegatte zur Unterhaltsleistung wegen der auf
+dem Versorgungsausgleich beruhenden Kürzung seiner Versichertenrente
+außer Stande ist, wird auf Antrag die Versichertenrente des
+ausgleichsverpflichteten Ehegatten nicht auf Grund des
+Versorgungsausgleichs gekürzt. Den Antrag können der
+ausgleichsverpflichtete und der ausgleichsberechtigte Ehegatte
 stellen.
 Nachzahlungen, die die Pensionskasse auf Grund einer Entscheidung nach
 Satz 1 leistet, werden dem ausgleichsverpflichteten Ehegatten und dem

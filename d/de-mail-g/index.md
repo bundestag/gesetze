@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 666
 
-Geändert durch
-:   Art. 2 Abs. 3 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 3 G v. 18.7.2017 I 2745
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -43,8 +43,8 @@ dienen, bleiben unberührt.
 
 ### § 2 Zuständige Behörde
 
-Zuständige Behörde nach diesem Gesetz und der Rechtsverordnung nach §
-24 ist das Bundesamt für Sicherheit in der Informationstechnik.
+Zuständige Behörde nach diesem Gesetz ist das Bundesamt für Sicherheit
+in der Informationstechnik.
 
 
 ## Abschnitt 2 - Pflichtangebote und optionale Angebote des Diensteanbieters
@@ -87,25 +87,53 @@ und speichert er folgende Angaben:
 (3) Der akkreditierte Diensteanbieter hat die Angaben nach Absatz 2
 vor Freischaltung des De-Mail-Kontos des Nutzers zu überprüfen:
 
-1.  bei natürlichen Personen anhand eines gültigen amtlichen Ausweises,
-    der ein Lichtbild des Inhabers enthält und mit dem die Pass- und
-    Ausweispflicht im Inland erfüllt wird, insbesondere anhand eines
-    inländischen oder nach ausländerrechtlichen Bestimmungen anerkannten
-    oder zugelassenen Passes, Personalausweises oder Pass- oder
-    Ausweisersatzes oder anhand von Dokumenten mit gleichwertiger
-    Sicherheit; die Identität der Person kann auch anhand des
-    elektronischen Identitätsnachweises nach § 18 des
-    Personalausweisgesetzes oder anhand einer qualifizierten
-    elektronischen Signatur nach § 2 Nummer 3 des Signaturgesetzes
-    überprüft werden;
+1.  bei natürlichen Personen
+
+    a)  anhand eines gültigen amtlichen Ausweises, der ein Lichtbild des
+        Inhabers enthält und mit dem die Pass- und Ausweispflicht im Inland
+        erfüllt wird, insbesondere anhand eines inländischen oder nach
+        ausländerrechtlichen Bestimmungen anerkannten oder zugelassenen
+        Passes, Personalausweises oder Pass- oder Ausweisersatzes,
 
 
-2.  bei juristischen Personen oder Personengesellschaften oder
-    öffentlichen Stellen anhand eines Auszugs aus dem Handels- oder
-    Genossenschaftsregister oder einem vergleichbaren amtlichen Register
-    oder Verzeichnis, der Gründungsdokumente oder gleichwertiger
-    beweiskräftiger Dokumente oder durch Einsichtnahme in die Register-
-    oder Verzeichnisdaten.
+    b)  anhand von Dokumenten, die bezüglich ihrer Sicherheit einem Dokument
+        nach Buchstabe a gleichwertig sind,
+
+
+    c)  anhand eines elektronischen Identitätsnachweises nach § 18 des
+        Personalausweisgesetzes oder nach § 78 Absatz 5 des
+        Aufenthaltsgesetzes,
+
+
+    d)  anhand einer qualifizierten elektronischen Signatur oder
+
+
+    e)  anhand sonstiger geeigneter technischer Verfahren mit gleichwertiger
+        Sicherheit zu einer Identifizierung anhand der Dokumente nach
+        Buchstabe a;
+
+
+
+
+
+2.  bei juristischen Personen oder Personengesellschaften oder bei
+    öffentlichen Stellen
+
+    a)  anhand eines Auszugs aus dem Handels- oder Genossenschaftsregister
+        oder aus einem vergleichbaren amtlichen Register oder Verzeichnis,
+
+
+    b)  anhand der Gründungsdokumente,
+
+
+    c)  anhand von Dokumenten, die bezüglich ihrer Beweiskraft den Dokumenten
+        nach den Buchstaben a oder b gleichwertig sind, oder
+
+
+    d)  durch Einsichtnahme in die Register- oder Verzeichnisdaten.
+
+
+
 
 
 
@@ -119,9 +147,8 @@ früheren Zeitpunkt erhoben hat, sofern diese Daten die zuverlässige
 Identitätsfeststellung des Nutzers gewährleisten.
 
 (4) Eine Nutzung der De-Mail-Dienste ist erst möglich, nachdem der
-akkreditierte Diensteanbieter das
-De-Mail-Konto              des Nutzers freigeschaltet hat. Die
-Freischaltung erfolgt, sobald
+akkreditierte Diensteanbieter das De-Mail-Konto des Nutzers
+freigeschaltet hat. Die Freischaltung erfolgt, sobald
 
 1.  der akkreditierte Diensteanbieter den Nutzer eindeutig identifiziert
     hat und die Identitätsdaten des Nutzers und bei Absatz 2 Nummer 2 auch
@@ -240,8 +267,19 @@ seine sichere Anmeldung im Sinne von § 4 in der Nachricht so
 bestätigen zu lassen, dass die Unverfälschtheit der Bestätigung
 jederzeit nachprüfbar ist. Um dieses dem Empfänger der Nachricht
 kenntlich zu machen, bestätigt der akkreditierte Diensteanbieter des
-Senders die Verwendung der sicheren Anmeldung nach § 4 durch eine
-qualifizierte elektronische Signatur.
+Senders die Verwendung der sicheren Anmeldung nach § 4. Hierzu
+versieht er im Auftrag des Senders die Nachricht mit einer dauerhaft
+überprüfbaren qualifizierten elektronischen Signatur; sind der
+Nachricht eine oder mehrere Dateien beigefügt, bezieht sich die
+qualifizierte elektronische Signatur auch auf diese. Die Bestätigung
+enthält bei natürlichen Personen den Namen und die Vornamen, bei
+juristischen Personen, Personengesellschaften oder öffentlichen
+Stellen die Firma, den Namen oder die Bezeichnung des Senders in der
+Form, in der diese nach § 3 Absatz 2 hinterlegt sind. Die Tatsache,
+dass der Absender diese Versandart genutzt hat, muss sich aus der
+Nachricht in der Form, wie sie beim Empfänger ankommt, ergeben. Die
+Bestätigung nach Satz 1 ist nicht zulässig bei Verwendung einer
+pseudonymen De-Mail-Adresse nach Absatz 2.
 
 (6) Der akkreditierte Diensteanbieter mit Ausnahme der Diensteanbieter
 nach § 19 ist verpflichtet, elektronische Nachrichten nach den
@@ -270,8 +308,8 @@ Angaben enthalten:
 
 
 Der akkreditierte Diensteanbieter des Senders hat die
-Versandbestätigung mit einer qualifizierten elektronischen Signatur
-nach dem Signaturgesetz zu versehen.
+Versandbestätigung mit einer qualifizierten elektronischen Signatur zu
+versehen.
 
 (8) Auf Antrag des Senders wird der Eingang einer Nachricht im De-
 Mail-Postfach des Empfängers bestätigt. Hierbei wirken der
@@ -297,8 +335,8 @@ Eingangsbestätigung enthält folgende Angaben:
 
 Der akkreditierte Diensteanbieter des Empfängers hat die
 Eingangsbestätigung mit einer qualifizierten elektronischen Signatur
-nach dem Signaturgesetz zu versehen. Der akkreditierte Diensteanbieter
-des Empfängers sendet diesem ebenfalls die Eingangsbestätigung zu.
+zu versehen. Der akkreditierte Diensteanbieter des Empfängers sendet
+diesem ebenfalls die Eingangsbestätigung zu.
 
 (9) Eine öffentliche Stelle, welche zur förmlichen Zustellung nach den
 Vorschriften der Prozessordnungen und der Gesetze, die die
@@ -332,12 +370,11 @@ enthalten:
 
 
 Der akkreditierte Diensteanbieter des Empfängers hat die
-Abholbestätigung mit einer qualifizierten elektronischen Signatur nach
-dem Signaturgesetz zu versehen. Der akkreditierte Diensteanbieter des
-Empfängers sendet diesem ebenfalls die Abholbestätigung zu. Die in
-Satz 5 genannten Daten dürfen ausschließlich zum Nachweis der
-förmlichen Zustellung im Sinne von § 5 Absatz 6 verarbeitet und
-genutzt werden.
+Abholbestätigung mit einer qualifizierten elektronischen Signatur zu
+versehen. Der akkreditierte Diensteanbieter des Empfängers sendet
+diesem ebenfalls die Abholbestätigung zu. Die in Satz 5 genannten
+Daten dürfen ausschließlich zum Nachweis der förmlichen Zustellung im
+Sinne von § 5 Absatz 6 verarbeitet und genutzt werden.
 
 (10) Der akkreditierte Diensteanbieter stellt sicher, dass
 Nachrichten, für die eine Eingangsbestätigung nach Absatz 8 oder eine
@@ -370,7 +407,7 @@ Nachricht, die der akkreditierte Diensteanbieter im Auftrag des
 Nutzers an den Dritten, welchem gegenüber er seine Identitätsdaten
 mitteilen möchte, sendet. Die De-Mail-Nachricht wird durch den
 akkreditierten Diensteanbieter mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz versehen.
+Signatur versehen.
 
 (2) Der akkreditierte Diensteanbieter hat Vorkehrungen dafür zu
 treffen, dass Identitätsdaten nicht unbemerkt gefälscht oder
@@ -409,6 +446,15 @@ ein Verlangen des Nutzers als Verbraucher nach Absatz 1 allein gilt
 nicht als Eröffnung des Zugangs im Sinne von § 3a Absatz 1 des
 Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
 Sozialgesetzbuch oder des § 87a Absatz 1 Satz 1 der Abgabenordnung.
+Auf Verlangen des Nutzers muss der akkreditierte Diensteanbieter durch
+einen geeigneten Zusatz die Erklärung des Nutzers im Verzeichnisdienst
+veröffentlichen, den Zugang im Sinne von § 3a des
+Verwaltungsverfahrensgesetzes, § 36a Absatz 1 des Ersten Buches
+Sozialgesetzbuch und des § 87a Absatz 1 Satz 1 der Abgabenordnung
+eröffnen zu wollen. Die Veröffentlichung der De-Mail-Adresse des
+Nutzers als Verbraucher mit diesem Zusatz im Verzeichnisdienst gilt
+als Zugangseröffnung. Satz 2 gilt entsprechend für die Entscheidung
+des Nutzers, die Zugangseröffnung zurückzunehmen.
 
 (4) § 47 des Telekommunikationsgesetzes gilt entsprechend.
 
@@ -426,7 +472,7 @@ für den Zugriff erforderliche sichere Anmeldung nach § 4 festlegen.
 Auf Verlangen des Nutzers hat der akkreditierte Diensteanbieter ein
 Protokoll über die Einstellung und Herausnahme von Dokumenten
 bereitzustellen, das mit einer qualifizierten elektronischen Signatur
-nach dem Signaturgesetz gesichert ist.
+gesichert ist.
 
 
 ## Abschnitt 3 - De-Mail-Dienste-Nutzung
@@ -1069,8 +1115,8 @@ der Informationstechnik.
 
 (1) Gebühren und Auslagen erheben zur Deckung des Verwaltungsaufwands
 
-1.  die zuständige Behörde für Amtshandlungen nach den §§ 17, 19 Absatz 2
-    und § 20 Absatz 3 sowie
+1.  die zuständige Behörde für individuell zurechenbare öffentliche
+    Leistungen nach den §§ 17, 19 Absatz 2 und § 20 Absatz 3 sowie
 
 
 2.  der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
@@ -1082,11 +1128,10 @@ der Informationstechnik.
 (2) Das Bundesministerium des Innern wird ermächtigt, durch
 Rechtsverordnung ohne Zustimmung des Bundesrates die
 gebührenpflichtigen Tatbestände nach Absatz 1 und die Gebührensätze
-näher zu bestimmen und dabei feste Sätze, auch in Form von
-Zeitgebühren, vorzusehen. In der Rechtsverordnung kann die Erstattung
-von Auslagen abweichend von § 10 des Verwaltungskostengesetzes
-geregelt werden. Ermäßigungen und Befreiungen von Gebühren und
-Auslagen können zugelassen werden.
+näher zu bestimmen und dabei Fest- oder Zeitgebühren vorzusehen. In
+der Rechtsverordnung kann die Erstattung von Auslagen abweichend von §
+23 Absatz 6 des Bundesgebührengesetzes geregelt werden. Ermäßigungen
+und Befreiungen von Gebühren und Auslagen können zugelassen werden.
 
 
 ### § 25 Verfahren über eine einheitliche Stelle

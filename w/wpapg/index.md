@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.1.1995 I 34;
 
 Zuletzt geändert durch
-:   Art. 5 G v. 31.7.2009 I 2512
+:   Art. 12 G v. 30.6.2016 I 1514; 2017 I 559
 
 
 ## § 1 Allgemeine Vorschriften
@@ -36,13 +36,15 @@ Wertpapiersammelbank ausgestellt wurden.
 (2) Verwahrer im Sinne dieses Gesetzes ist, wem im Betrieb seines
 Gewerbes Wertpapiere unverschlossen zur Verwahrung anvertraut werden.
 
-(3) Wertpapiersammelbanken sind Kreditinstitute, die von der nach
-Landesrecht zuständigen Stelle des Landes, in dessen Gebiet das
-Kreditinstitut seinen Sitz hat, als solche anerkannt sind. Die
-Anerkennung des Kreditinstituts als Wertpapiersammelbank kann, auch
-nachträglich, im Interesse des Anlegerschutzes von der Erfüllung von
-Auflagen abhängig gemacht werden. Die Anerkennung und deren Aufhebung
-sowie Auflagen sind öffentlich bekanntzugeben.
+(3) Wertpapiersammelbanken sind Kreditinstitute, die nach Artikel 16
+Absatz 1 der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments
+und des Rates vom 23. Juli 2014 zur Verbesserung der
+Wertpapierlieferungen und -abrechnungen in der Europäischen Union und
+über Zentralverwahrer sowie zur Änderung der Richtlinien 98/26/EG und
+2014/65/EU und der Verordnung (EU) Nr. 236/2012 (ABl. L 257 vom
+28\.8.2014, S. 1) als Zentralverwahrer zugelassen sind und die die in
+Abschnitt A Nummer 2 des Anhangs zu dieser Verordnung genannte
+Kerndienstleistung im Inland erbringen.
 
 
 ## 1. Abschnitt - Verwahrung
@@ -597,7 +599,7 @@ Bestimmungen des bürgerlichen Rechts schon früher auf ihn übergegangen
 ist. Der Kommissionär hat dem Kommittenten die Verschaffung des
 Miteigentums unverzüglich mitzuteilen.
 
-(3) Kreditinstitute und Kapitalanlagegesellschaften brauchen die
+(3) Kreditinstitute und Kapitalverwaltungsgesellschaften brauchen die
 Verschaffung des Miteigentums an einem Wertpapiersammelbestand und die
 Ausführung der Geschäftsbesorgung abweichend von Absatz 2 Satz 2 sowie
 von den §§ 675 und 666 des Bürgerlichen Gesetzbuchs und von § 384 Abs.
@@ -606,7 +608,7 @@ Monaten mitzuteilen, sofern das Miteigentum jeweils auf Grund einer
 vertraglich vereinbarten gleichbleibenden monatlichen, zweimonatlichen
 oder vierteljährlichen Zahlung erworben wird und diese Zahlungen
 jährlich das Dreifache des höchsten Betrags nicht übersteigen, bis zu
-dem nach dem Vierten Vermögensbildungsgesetz in der jeweils geltenden
+dem nach dem Fünften Vermögensbildungsgesetz in der jeweils geltenden
 Fassung vermögenswirksame Leistungen gefördert werden können.
 
 
@@ -745,8 +747,8 @@ Vorschriften der Insolvenzordnung über Insolvenzgläubiger.
 (5) Das Insolvenzgericht hat, wenn es nach Lage des Falles
 erforderlich ist, den vorrangigen Gläubigern zur Wahrung der ihnen
 zustehenden Rechte einen Pfleger zu bestellen. Für die Pflegschaft
-tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 78
-Abs. 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß
+tritt an die Stelle des Betreuungsgerichts das Insolvenzgericht. § 317
+Absatz 2 bis 5 des Versicherungsaufsichtsgesetzes ist sinngemäß
 anzuwenden.
 
 
@@ -875,18 +877,25 @@ Durchführung eines solchen Anspruchs erschwert wird.
 
 ### § 42 Anwendung auf Treuhänder, Erlass weiterer Bestimmungen
 
-Das Bundesministerium der Justiz kann im Einvernehmen mit dem
-Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die Anwendung von Vorschriften
-dieses Gesetzes für Fälle vorschreiben, in denen Kaufleute als
-Treuhänder für Dritte Wertpapiere besitzen oder erwerben oder
-Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
+Das Bundesministerium der Justiz und für Verbraucherschutz kann im
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, die Anwendung von
+Vorschriften dieses Gesetzes für Fälle vorschreiben, in denen
+Kaufleute als Treuhänder für Dritte Wertpapiere besitzen oder erwerben
+oder Beteiligungen oder Gläubigerrechte ausüben oder erwerben oder in
 öffentliche Schuldbücher oder sonstige Register eingetragen sind.
 
 
-### § 43
+### § 43 Übergangsregelung zum Ersten Finanzmarktnovellierungsgesetz
 
-(Inkrafttreten, Außerkrafttreten anderer Vorschriften,
-Überleitungsvorschrift)
+Ein Kreditinstitut, das am Tag, den die Bundesregierung nach Artikel
+17 Absatz 3 Satz 2 des Gesetzes vom 30. Juni 2016 (BGBl. I S. 1514) im
+Bundesgesetzblatt bekannt gibt, über eine Anerkennung als
+Wertpapiersammelbank von der nach Landesrecht zuständigen Stelle des
+Landes, in dessen Gebiet das Kreditinstitut seinen Sitz hat, verfügt,
+gilt bis zur Bestandskraft der Entscheidung über den Antrag auf
+Zulassung als Zentralverwahrer nach Artikel 17 Absatz 1 der Verordnung
+(EU) Nr. 909/2014 weiterhin als Wertpapiersammelbank im Sinne dieses
+Gesetzes.
 

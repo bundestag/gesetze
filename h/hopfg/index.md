@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1996, 1530
 
 Zuletzt geändert durch
-:   Art. 11 G v. 9.12.2010 I 1934
+:   Art. 371 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -110,11 +110,10 @@ Vorschriften über
 
 erlassen.
 
-(4) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates zur Durchführung der in § 1 genannten
-Rechtsakte Bestimmungen über den Endtermin der Zertifizierung von
-Hopfen zu erlassen.
+(4) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
+Durchführung der in § 1 genannten Rechtsakte Bestimmungen über den
+Endtermin der Zertifizierung von Hopfen zu erlassen.
 
 
 ## § 3 Bußgeldvorschriften
@@ -136,11 +135,11 @@ Hopfen zu erlassen.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfundzwanzigtausend Euro geahndet werden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit es zur Durchsetzung der in §
-1 genannten Rechtsakte erforderlich ist, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als
-Ordnungswidrigkeit nach Absatz 1 Nr. 2 geahndet werden können.
+(3) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit es zur Durchsetzung der in § 1 genannten Rechtsakte
+erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die Tatbestände zu bezeichnen, die als Ordnungswidrigkeit
+nach Absatz 1 Nr. 2 geahndet werden können.
 
 (4) Erzeugnisse im Sinne des § 1 und Gegenstände, auf die sich eine
 Ordnungswidrigkeit nach Absatz 1 bezieht, können eingezogen werden. §

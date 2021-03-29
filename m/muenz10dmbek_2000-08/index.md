@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "10 Jahre Deutsche Einheit")
 jurabk: Münz10DMBek 2000-08
 layout: default
-origslug: m_nz10dmbek_2000-08
+origslug: muenz10dmbek_2000-08
 slug: muenz10dmbek_2000-08
 
 ---

@@ -51,8 +51,9 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesminister für Wirtschaft
 
+(zu § 1)
 
-## Anlage (zu § 1) Verzeichnis der verwandten Handwerke
+## Anlage Verzeichnis der verwandten Handwerke
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2952;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -179,8 +180,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
+(BGBl. II 1990, 889, 998)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

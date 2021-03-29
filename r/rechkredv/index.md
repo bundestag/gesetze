@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 11.12.1998 I 3658;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 9.6.2011 I 1041
+:   Art. 8 Abs. 13 G v. 17.7.2015 I 1245
 
 Diese Verordnung dient der Umsetzung der Richtlinie 86/635/EWG des
 Rates vom 8. Dezember 1986 über den Jahresabschluß und den
@@ -40,9 +40,9 @@ Offenlegung von Jahresabschlußunterlagen (ABl. EG Nr. L 44 S. 40).
 Diese Verordnung ist auf Institute (Kreditinstitute und
 Finanzdienstleistungsinstitute) sowie Zweigstellen anzuwenden, für die
 nach § 340 Abs. 1 Satz 1 und Abs. 4 Satz 1 des Handelsgesetzbuchs der
-Vierte Abschnitt des Dritten Buchs des Handelsgesetzbuchs anzuwenden
-ist. Diese Verordnung ist auf Wohnungsunternehmen mit Spareinrichtung
-nicht anzuwenden.
+Erste Unterabschnitt des Vierten Abschnitts des Dritten Buchs des
+Handelsgesetzbuchs anzuwenden ist. Diese Verordnung ist auf
+Wohnungsunternehmen mit Spareinrichtung nicht anzuwenden.
 
 
 ## Abschnitt 2 - Bilanz und Gewinn- und Verlustrechnung
@@ -174,24 +174,25 @@ und bei Passivposten Nr. 4 auszuweisen.
 Namen für fremde Rechnung hält, dürfen in seine Bilanz nicht
 aufgenommen werden.
 
-(4) Kapitalanlagegesellschaften haben die Summe der Inventarwerte und
-die Zahl der verwalteten Sondervermögen in der Bilanz auf der
+(4) Kapitalverwaltungsgesellschaften haben die Summe der Inventarwerte
+und die Zahl der verwalteten Investmentvermögen in der Bilanz auf der
 Passivseite unter dem Strich in einem Posten mit der Bezeichnung "Für
-Anteilinhaber verwaltete Sondervermögen" auszuweisen.
+Anteilinhaber verwaltete Investmentvermögen" auszuweisen.
 
 
 ### § 7 Wertpapiere
 
-(1) Als Wertpapiere sind Aktien, Zwischenscheine, Investmentanteile,
-Optionsscheine, Zins- und Gewinnanteilscheine, börsenfähige Inhaber-
-und Ordergenußscheine, börsenfähige Inhaberschuldverschreibungen
-auszuweisen, auch wenn sie vinkuliert sind, unabhängig davon, ob sie
-in Wertpapierurkunden verbrieft oder als Wertrechte ausgestaltet sind,
-börsenfähige Orderschuldverschreibungen, soweit sie Teile einer
-Gesamtemission sind, ferner andere festverzinsliche Inhaberpapiere,
-soweit sie börsenfähig sind, und andere nicht festverzinsliche
-Wertpapiere, soweit sie börsennotiert sind. Hierzu rechnen auch
-ausländische Geldmarktpapiere, die zwar auf den Namen lauten, aber wie
+(1) Als Wertpapiere sind Aktien, Zwischenscheine, Anteile oder Aktien
+an Investmentvermögen, Optionsscheine, Zins- und Gewinnanteilscheine,
+börsenfähige Inhaber- und Ordergenußscheine, börsenfähige
+Inhaberschuldverschreibungen auszuweisen, auch wenn sie vinkuliert
+sind, unabhängig davon, ob sie in Wertpapierurkunden verbrieft oder
+als Wertrechte ausgestaltet sind, börsenfähige
+Orderschuldverschreibungen, soweit sie Teile einer Gesamtemission
+sind, ferner andere festverzinsliche Inhaberpapiere, soweit sie
+börsenfähig sind, und andere nicht festverzinsliche Wertpapiere,
+soweit sie börsennotiert sind. Hierzu rechnen auch ausländische
+Geldmarktpapiere, die zwar auf den Namen lauten, aber wie
 Inhaberpapiere gehandelt werden.
 
 (2) Als börsenfähig gelten Wertpapiere, die die Voraussetzungen einer
@@ -501,11 +502,12 @@ Im Posten "Aktien und andere nicht festverzinsliche Wertpapiere" sind
 Aktien auszuweisen, soweit sie nicht im Posten "Beteiligungen"
 (Aktivposten Nr. 7) oder im Posten "Anteile an verbundenen
 Unternehmen" (Aktivposten Nr. 8) auszuweisen sind, ferner
-Zwischenscheine, Investmentanteile, Optionsscheine,
-Gewinnanteilscheine, als Inhaber- oder Orderpapiere ausgestaltete
-börsenfähige Genußscheine sowie andere nicht festverzinsliche
-Wertpapiere, soweit sie börsennotiert sind. Vor Fälligkeit
-hereingenommene Gewinnanteilscheine sind ebenfalls hier aufzunehmen.
+Zwischenscheine, Anteile oder Aktien an Investmentvermögen,
+Optionsscheine, Gewinnanteilscheine, als Inhaber- oder Orderpapiere
+ausgestaltete börsenfähige Genußscheine sowie andere nicht
+festverzinsliche Wertpapiere, soweit sie börsennotiert sind. Vor
+Fälligkeit hereingenommene Gewinnanteilscheine sind ebenfalls hier
+aufzunehmen.
 
 
 #### § 18 Beteiligungen (Nr. 7)
@@ -552,8 +554,9 @@ befinden.
 ### Unterabschnitt 2 - Posten der Passivseite
 
 
+Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1),
 
-#### § 21 Verbindlichkeiten gegenüber Kreditinstituten (Nr. 1), Verbindlichkeiten gegenüber Kunden (Nr. 2)
+#### § 21 Verbindlichkeiten gegenüber Kunden (Nr. 2)
 
 (1) Als Verbindlichkeiten gegenüber Kreditinstituten sind alle Arten
 von Verbindlichkeiten aus Bankgeschäften sowie alle Verbindlichkeiten
@@ -865,14 +868,14 @@ werden. Eine teilweise Verrechnung ist nicht zulässig.
 ### § 34 Zusätzliche Erläuterungen
 
 (1) In den Anhang sind neben den nach § 340a in Verbindung mit § 284
-Abs. 1, 2 Nr. 1, 2, 3 und 5, § 285 Nr. 3, 3a, 6, 7, 9 Buchstabe a und
-b, Nr. 10, 11, 13, 14, 16 bis 26 und 29, § 340b Abs. 4 Satz 4, § 340e
-Abs. 2 des Handelsgesetzbuchs und den in dieser Verordnung zu den
-einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung
-vorgeschriebenen Angaben die in diesem Abschnitt vorgeschriebenen
-Angaben aufzunehmen. § 285 Nr. 3a des Handelsgesetzbuchs braucht nicht
-angewendet zu werden, soweit diese Angaben in der Bilanz unter dem
-Strich gemacht werden.
+Absatz 1, 2 Nummer 1, 2 und 4, § 285 Nummer 3, 3a, 7, 9 Buchstabe a
+und b, Nummer 10 bis 11b, 13 bis 26 und 28 bis 30, 32 bis 34, § 340b
+Abs. 4 Satz 4, § 340e Abs. 2 des Handelsgesetzbuchs und den in dieser
+Verordnung zu den einzelnen Posten der Bilanz oder der Gewinn- und
+Verlustrechnung vorgeschriebenen Angaben die in diesem Abschnitt
+vorgeschriebenen Angaben aufzunehmen. § 285 Nr. 3a des
+Handelsgesetzbuchs braucht nicht angewendet zu werden, soweit diese
+Angaben in der Bilanz unter dem Strich gemacht werden.
 
 (2) An Stelle der in § 285 Nr. 4, 9 Buchstabe c, Nr. 27 des
 Handelsgesetzbuchs vorgeschriebenen Angaben sind die folgenden Angaben
@@ -941,8 +944,8 @@ zu machen:
 
 
 
-(3) Die in § 268 Abs. 2 des Handelsgesetzbuchs verlangten Angaben sind
-für Vermögensgegenstände im Sinne des § 340e Abs. 1 des
+(3) Die in § 284 Absatz 3 des Handelsgesetzbuchs verlangten Angaben
+sind für Vermögensgegenstände im Sinne des § 340e Abs. 1 des
 Handelsgesetzbuchs zu machen. Die Zuschreibungen, Abschreibungen und
 Wertberichtigungen auf Beteiligungen, Anteile an verbundenen
 Unternehmen sowie auf andere Wertpapiere, die wie Anlagevermögen
@@ -1346,9 +1349,7 @@ Konzernabschluß im Sinne des § 37.
 
 ### § 39 Übergangsvorschriften
 
-(1) bis (5) (weggefallen)
-
-(6) Vor dem 1. Juli 1993 begründete Spareinlagen nach § 21 des
+(1) Vor dem 1. Juli 1993 begründete Spareinlagen nach § 21 des
 Gesetzes über das Kreditwesen in der Fassung der Bekanntmachung vom
 11\. Juli 1985 (BGBl. I S. 1472) und dafür gutgeschriebene oder danach
 gutzuschreibende Zinsen gelten weiterhin als Spareinlagen, wenn für
@@ -1357,27 +1358,7 @@ dieser Verordnung zutreffen und sie die Vorschriften des § 22 Abs. 1
 Satz 1 und Abs. 2 des Gesetzes über das Kreditwesen in der Fassung der
 Bekanntmachung vom 11. Juli 1985 (BGBl. I S. 1472) erfüllt haben.
 
-(7) Sofern für ein Geschäftsjahr, das nach dem 31. Dezember 1998 und
-spätestens im Jahre 2001 endet, der Jahresabschluß und der
-Konzernabschluß nach Artikel 42 Abs. 1 Satz 2 des Einführungsgesetzes
-zum Handelsgesetzbuch in Deutscher Mark aufgestellt werden, sind auch
-die in § 35 Abs. 1 Nr. 6 vorgeschriebenen und die in den Formblättern
-1 bis 3 für die Bilanz und die Gewinn- und Verlustrechnung
-vorgesehenen Angaben in Deutscher Mark und unter der Bezeichnung "DM"
-zu machen. Für ein Geschäftsjahr, das spätestens am 31. Dezember 1998
-endet, ist diese Verordnung in der an diesem Tage geltenden Fassung
-anzuwenden.
-
-(8) Sofern Kreditinstitute einen gesonderten Passivposten in Anwendung
-von Artikel 43 Abs. 1 Satz 2, Abs. 2 des Einführungsgesetzes zum
-Handelsgesetzbuch bilden, haben sie diesen im Formblatt 1 als
-Passivposten 8a. nach dem Sonderposten mit Rücklageanteil auszuweisen.
-Sofern sie eine Bilanzierungshilfe in Anwendung von Artikel 44 Abs. 1
-Satz 1 des Einführungsgesetzes zum Handelsgesetzbuch in ihre Bilanz
-aufnehmen, haben sie diese im Formblatt 1 als Aktivposten 11a. nach
-dem Posten Immaterielle Anlagewerte auszuweisen.
-
-(9) Die Vorschriften dieser Verordnung in der Fassung der Zweiten
+(2) Die Vorschriften dieser Verordnung in der Fassung der Zweiten
 Verordnung zur Änderung der Verordnung über die Rechnungslegung der
 Kreditinstitute sind erstmals auf den Jahresabschluß und den
 Lagebericht sowie den Konzernabschluß und den Konzernlagebericht für
@@ -1389,16 +1370,7 @@ Kreditinstitute sind erstmals auf den Jahresabschluß und den
 Lagebericht sowie den Konzernabschluß und den Konzernlagebericht für
 das nach dem 31. Dezember 1998 endende Geschäftsjahr anzuwenden.
 
-(10) Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-3d Satz 1 des Gesetzes über das Kreditwesen sind, brauchen die jeweils
-in Fußnote 7 Satz 2 des Formblatts 2 oder 3 für die Gewinn- und
-Verlustrechnung vorgeschriebenen Darunterposten der Buchstaben a bis d
-beim Aufwand und Ertrag des Handelsbestands erstmals in einem
-Jahresabschluß für das nach dem 31. Dezember 1998 beginnende
-Geschäftsjahr aufzuführen.
-
-(11) §§ 20, 29 Satz 2, § 34 Absatz 2 Satz 1 Nummer 1 Buchstabe d,
+(3) §§ 20, 29 Satz 2, § 34 Absatz 2 Satz 1 Nummer 1 Buchstabe d,
 Nummer 4, § 35 Absatz 1 Nummer 1a, 6a bis 6c und 7 in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 sowie die Formblätter 1 bis 3 mit den Änderungen, die durch das
@@ -1421,26 +1393,39 @@ der Formblätter für die Gewinn- und Verlustrechnung sind erstmals auf
 Jahresabschlüsse für Geschäftsjahre anzuwenden, die nach dem 31.
 Dezember 2010 beginnen.
 
-(12) Auf die Formblätter 2 und 3 in der Fassung der Verordnung zur
+(4) Auf die Formblätter 2 und 3 in der Fassung der Verordnung zur
 Änderung der Versicherungsunternehmens-Rechnungslegungsverordnung
 sowie zur Änderung weiterer Rechnungslegungsverordnungen vom 18.
-Dezember 2009 (BGBl. I S. 3934) ist Absatz 11 Satz 1, 2 und 4
+Dezember 2009 (BGBl. I S. 3934) ist Absatz 10 Satz 1, 2 und 4
 entsprechend anzuwenden.
+
+(5) Die §§ 6, 7 und 17 in der Fassung des AIFM-Umsetzungsgesetzes vom
+4\. Juli 2013 (BGBl. I S. 1981) sind erstmals auf Jahres- und
+Konzernabschlüsse für nach dem 21. Juli 2013 beginnende Geschäftsjahre
+anzuwenden.
+
+(6) § 34 Absatz 1 und 3 in der Fassung des Bilanzrichtlinie-
+Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) ist erstmals
+auf Jahres- und Konzernabschlüsse für Geschäftsjahre anzuwenden, die
+nach dem 31. Dezember 2015 beginnen.
 
 
 ### § 40
 
 (Inkrafttreten, Aufhebung von Rechtsvorschriften)
 
+\*Fe Jahresbilanz \*/ zum ..........................
 
-### Formblatt 1 *Fe Jahresbilanz */ zum .......................... der .............................................
+### Formblatt 1 der .............................................
 
 (Inhalt: nicht darstellbares Formblatt)
 (Fundstelle: BGBl. I 1998, 3672 - 3675;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
 
+(Kontoform)
+Gewinn- und Verlustrechnung
 
-### Formblatt 2 (Kontoform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
+### Formblatt 2 der ................................................ für die Zeit vom ............... bis ...............
 
 (Fundstelle: BGBl. I 1998, S. 3676 - 3678;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2199,9 +2184,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben den
-        Aufwandposten 2 Provisionsaufwendungen wie folgt zu untergliedern:
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben den Aufwandposten
+        2 Provisionsaufwendungen wie folgt zu untergliedern:
 
 
 *    *
@@ -2289,9 +2274,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben den
-        Ertragsposten 4 Provisionserträge wie folgt zu untergliedern:
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben den Ertragsposten
+        4 Provisionserträge wie folgt zu untergliedern:
 
 
 *    *
@@ -2365,13 +2350,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   "5. Ertrag des Handelsbestands
 
     *
-    *   ... Euro"
+    *   ... Euro".
 
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben anstatt des
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben anstatt des
         Aufwandpostens 3 Nettoaufwand des Handelsbestands in der Gewinn- und
         Verlustrechnung folgende Posten aufzuführen:
 
@@ -2544,8 +2529,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(Staffelform)
+Gewinn- und Verlustrechnung
 
-### Formblatt 3 (Staffelform) Gewinn- und Verlustrechnung der ................................................ für die Zeit vom ............... bis ...............
+### Formblatt 3 der ................................................ für die Zeit vom ............... bis ...............
 
 (Fundstelle: BGBl. I 1998, S. 3679 - 3681;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -3369,9 +3356,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben den
-        Ertragsposten 5 Provisionserträge wie folgt zu untergliedern:
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben den Ertragsposten
+        5 Provisionserträge wie folgt zu untergliedern:
 
     *
     *
@@ -3431,9 +3418,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben den
-        Aufwandposten 6 Provisionsaufwendungen wie folgt zu untergliedern:
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben den Aufwandposten
+        6 Provisionsaufwendungen wie folgt zu untergliedern:
 
     *
     *
@@ -3506,14 +3493,14 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *   Aufwand des Handelsbestands
 
-    *   ... Euro"
+    *   ... Euro".
 
     *
 
 *    *
     *   Institute, die Skontroführer im Sinne des § 27 Abs. 1 des
-        Börsengesetzes und nicht Einlagenkreditinstitute im Sinne des § 1 Abs.
-        3d Satz 1 des Gesetzes über das Kreditwesen sind, haben anstatt des
+        Börsengesetzes und nicht CRR-Kreditinstitute im Sinne des § 1 Abs. 3d
+        Satz 1 des Gesetzes über das Kreditwesen sind, haben anstatt des
         Aufwand- oder Ertragspostens 7 Nettoertrag oder Nettoaufwand des
         Handelsbestands in der Gewinn- und Verlustrechnung folgende Posten
         aufzuführen:

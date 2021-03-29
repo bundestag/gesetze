@@ -2,7 +2,7 @@
 Title: Ausführungsverordnung zum Chemiewaffenübereinkommen
 jurabk: CWÜV
 layout: default
-origslug: cw_v
+origslug: cwuev
 slug: cwuev
 
 ---
@@ -715,7 +715,7 @@ Chemiewaffenübereinkommen im Bundesgesetzblatt bekanntgegeben wird. Im
 übrigen tritt diese Verordnung am Tage nach der Verkündung in Kraft.
 
 
-## Anhang 1 Chemikalienlisten*)
+## Anhang 1 Chemikalienlisten\*)
 
 Fundstelle des Originaltextes: BGBl. I 1996, S. 1799 - 1801
 

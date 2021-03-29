@@ -2,7 +2,7 @@
 Title: Internationales Kaffee-Übereinkommen von 1983
 jurabk: KaffeeÜbk 1983
 layout: default
-origslug: kaffee_bk_1983
+origslug: kaffeeuebk_1983
 slug: kaffeeuebk_1983
 
 ---

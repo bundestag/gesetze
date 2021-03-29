@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   Ausgabe 2005 -)
 jurabk: Münz10EuroBek 2004-12-16
 layout: default
-origslug: m_nz10eurobek_2004-12-16
+origslug: muenz10eurobek_2004-12-16
 slug: muenz10eurobek_2004-12-16
 
 ---

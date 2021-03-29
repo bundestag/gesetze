@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 29.10.1996 I 1581;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 16.5.2012 I 1126
+:   Art. 5 V v. 22.12.2014 I 2392
 
 
 ## Teil 1 - Ausbildung
@@ -895,7 +895,7 @@ die neue Laufbahn erforderlichen Kenntnisse und Fähigkeiten besitzt.
 
 ### § 33 Allgemeines
 
-(1) Die Vorschriften des Vierten Teils gelten für alle nach dem
+(1) Die Vorschriften dieses Teils gelten für alle nach dem
 Steuerbeamten-Ausbildungsgesetz abzulegenden Prüfungen (Absätze 2 und
 3). Für die Bewertung der Prüfungsleistungen gilt § 6.
 
@@ -1238,9 +1238,19 @@ zugrundeliegenden Unterlagen gewährt.
 ### § 43 Zulassung zur mündlichen Prüfung
 
 (1) Die oder der Vorsitzende des Prüfungsausschusses setzt die
-Zulassungspunktzahl fest. Ihr oder ihm müssen Beurteilungen und
-Beurteilungsblätter nach den Anlagen 2 oder 3, 6 oder 8 und 9 sowie 13
-oder 14 vorliegen.
+Zulassungspunktzahl fest. Ihr oder ihm müssen vorliegen:
+
+1.  die Beurteilung nach Anlage 2 oder Anlage 3,
+
+
+2.  die Beurteilung nach Anlage 6 oder die Beurteilungen nach den Anlagen
+    8 und 9 sowie
+
+
+3.  das Beurteilungsblatt nach Anlage 13 oder Anlage 14.
+
+
+
 
 (2) Für die Ermittlung der Zulassungspunktzahl ist
 
@@ -1274,7 +1284,7 @@ zugelassen, wenn
 
 
 3.  die Zulassungspunktzahl im mittleren Dienst mindestens 160 Punkte und
-    im gehobenen Dienst mindestens 155 Punkte beträgt.
+    im gehobenen Dienst mindestens 170 Punkte beträgt.
 
 
 
@@ -1547,26 +1557,30 @@ Laufbahnen des mittleren und gehobenen Dienstes, die vor dem 1. Juli
 
 (weggefallen)
 
+(zu § 5 Absatz 1)
 
-### Anlage 1 (zu § 5 Absatz 1) – mittlerer/gehobener Dienst – Plan für die praktische Ausbildung
+### Anlage 1 – mittlerer/gehobener Dienst – Plan für die praktische Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1133)
 
 
+(zu § 5 Absatz 2)
 
-### Anlage 2 (zu § 5 Absatz 2) – mittlerer Dienst – Beurteilung in der berufspraktischen Ausbildung
+### Anlage 2 – mittlerer Dienst – Beurteilung in der berufspraktischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1134)
 
 
+(zu § 5 Absatz 2)
 
-### Anlage 3 (zu § 5 Absatz 2) – gehobener Dienst – Beurteilung in den berufspraktischen Studienzeiten
+### Anlage 3 – gehobener Dienst – Beurteilung in den berufspraktischen Studienzeiten
 
 (Fundstelle: BGBl. I 2012, 1135)
 
 
+(zu § 15 )
 
-### Anlage 4 (zu § 15 ) – mittlerer Dienst – Fächer/Mindeststunden in der fachtheoretischen Ausbildung
+### Anlage 4 – mittlerer Dienst – Fächer/Mindeststunden in der fachtheoretischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1136)
 
@@ -1745,38 +1759,44 @@ Laufbahnen des mittleren und gehobenen Dienstes, die vor dem 1. Juli
     *
 
 
+   (zu § 15 Absatz 3)
 
-### Anlage 5 (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im ersten Teilabschnitt der fachtheoretischen Ausbildung
+### Anlage 5 – mittlerer Dienst – Teilbeurteilung der Leistungen im ersten Teilabschnitt der fachtheoretischen Ausbildung
 
-   (Fundstelle : BGBl. I 2012, 1137)
+(Fundstelle : BGBl. I 2012, 1137)
 
 
+(zu § 15 Absatz 3)
 
-### Anlage 6 (zu § 15 Absatz 3) – mittlerer Dienst – Teilbeurteilung der Leistungen im zweiten Teilabschnitt der fachtheoretischen Ausbildung/ Abschließende Beurteilung der Leistungen in der fachtheoretischen Ausbildung
+### Anlage 6 – mittlerer Dienst – Teilbeurteilung der Leistungen im zweiten Teilabschnitt der fachtheoretischen Ausbildung/ Abschließende Beurteilung der Leistungen in der fachtheoretischen Ausbildung
 
 (Fundstelle: BGBl. I 2012, 1138 - 1139)
 
 
+(zu § 18 Absatz 10)
 
-### Anlage 7 (zu § 18 Absatz 10) – gehobener Dienst – Teilbeurteilung der Leistungen im Grundstudium bis zur Zwischenprüfung
+### Anlage 7 – gehobener Dienst – Teilbeurteilung der Leistungen im Grundstudium bis zur Zwischenprüfung
 
 (Fundstelle: BGBl. I 2012, 1140)
 
 
+(zu § 18 Absatz 10 und 11)
 
-### Anlage 8 (zu § 18 Absatz 10 und 11) – gehobener Dienst – Beurteilung der Leistungen im Grundstudium
+### Anlage 8 – gehobener Dienst – Beurteilung der Leistungen im Grundstudium
 
 (Fundstelle: BGBl. I 2012, 1141 - 1142)
 
 
+(zu § 18 Absatz 10 und 11)
 
-### Anlage 9 (zu § 18 Absatz 10 und 11) – gehobener Dienst – Beurteilung der Leistungen im Hauptstudium
+### Anlage 9 – gehobener Dienst – Beurteilung der Leistungen im Hauptstudium
 
 (Fundstelle: BGBl. I 2012, 1143 - 1144)
 
 
+(zu § 19)
 
-### Anlage 10 (zu § 19) – gehobener Dienst – Studienfächer, Unterrichtsstunden, Mindeststunden
+### Anlage 10 – gehobener Dienst – Studienfächer, Unterrichtsstunden, Mindeststunden
 
 (Fundstelle: BGBl. I 2012, 1145 - 1146)
 
@@ -2162,62 +2182,72 @@ Fachstudien
 
 
 
+(zu § 42 Absatz 1)
 
-### Anlage 11 (zu § 42 Absatz 1) – gehobener Dienst – Mitteilung über das Ergebnis der Zwischenprüfung
+### Anlage 11 – gehobener Dienst – Mitteilung über das Ergebnis der Zwischenprüfung
 
 (Fundstelle: BGBl. I 2012, 1147 - 1148)
 
 
+(zu § 42 Absatz 2 und § 46 Absatz 2)
 
-### Anlage 12 (zu § 42 Absatz 2 und § 46 Absatz 2) – mittlerer/gehobener Dienst – Prüfungszeugnis
+### Anlage 12 – mittlerer/gehobener Dienst – Prüfungszeugnis
 
 (Fundstelle: BGBl. I 2012, 1149)
 
 
+(zu § 43 Absatz 1 und § 45 Absatz 1)
 
-### Anlage 13 (zu § 43 Absatz 1 und § 45 Absatz 1) – mittlerer Dienst – Beurteilungsblatt für die Laufbahnprüfung
+### Anlage 13 – mittlerer Dienst – Beurteilungsblatt für die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1150 - 1151)
 
 
+(zu § 43 Absatz 1 und § 45 Absatz 1)
 
-### Anlage 14 (zu § 43 Absatz 1 und § 45 Absatz 1) – gehobener Dienst – Beurteilungsblatt für die Laufbahnprüfung
+### Anlage 14 – gehobener Dienst – Beurteilungsblatt für die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1152 - 1153)
 
 
+(zu § 43 Absatz 4)
 
-### Anlage 15 (zu § 43 Absatz 4) – mittlerer Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
+### Anlage 15 – mittlerer Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1154 - 1155)
 
 
+(zu § 43 Absatz 4)
 
-### Anlage 16 (zu § 43 Absatz 4) – gehobener Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
+### Anlage 16 – gehobener Dienst – Mitteilung über die Nichtzulassung zur mündlichen Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1156 - 1157)
 
 
+(zu § 46 Absatz 3)
 
-### Anlage 17 (zu § 46 Absatz 3) – mittlerer Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
+### Anlage 17 – mittlerer Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1158)
 
 
+(zu § 46 Absatz 3)
 
-### Anlage 18 (zu § 46 Absatz 3) – gehobener Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
+### Anlage 18 – gehobener Dienst – Mitteilung über das Nichtbestehen der Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1159)
 
 
+(zu § 48)
 
-### Anlage 19 (zu § 48) – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
+### Anlage 19 – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1160 - 1161)
 
 
+(zu § 48)
 
-### Anlage 20 (zu § 48) – mittlerer Dienst – Niederschrift über die Laufbahnprüfung
+### Anlage 20 – gehobener Dienst – Niederschrift über die Laufbahnprüfung
 
 (Fundstelle: BGBl. I 2012, 1162 - 1163)
 

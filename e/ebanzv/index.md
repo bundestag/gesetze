@@ -1,6 +1,5 @@
 ---
-Title: Verordnung über die Übertragung der Führung des Unternehmensregisters und die
-  Einreichung von Dokumenten beim Betreiber des Bundesanzeigers
+Title: Verordnung über die Übertragung der Führung des Unternehmensregisters
 jurabk: eBAnzV
 layout: default
 origslug: ebanzv
@@ -8,7 +7,7 @@ slug: ebanzv
 
 ---
 
-# Verordnung über die Übertragung der Führung des Unternehmensregisters und die Einreichung von Dokumenten beim Betreiber des Bundesanzeigers (eBAnzV)
+# Verordnung über die Übertragung der Führung des Unternehmensregisters (eBAnzV)
 
 Ausfertigungsdatum
 :   2006-12-15
@@ -16,10 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3202
 
-Geändert durch
-:   Art. 2 Abs. 41 G v. 22.12.2011 I 3044
-
-Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft.
+Stand: Die V tritt gem. § 5 Abs. 2 am 31.12.2016 außer Kraft; die Geltung dieser V ist gem. § 4 idF d. Art. 1 Nr. 4 V v. 14.1.2015 I 16 über den 31.12.2016 hinaus bis zum 31.12.2026 verlängert worden
+Zuletzt geändert durch
+:   Art. 1 V v. 14.1.2015 I 16
 
 
 ## Eingangsformel
@@ -34,17 +32,18 @@ Bundesministerium der Justiz:
 
 ## § 1 Übertragung der Führung des Unternehmensregisters
 
-Der Bundesanzeiger Verlagsgesellschaft mit beschränkter Haftung
-(Beliehene), eingetragen im Handelsregister beim Amtsgericht Köln, HRB
-31248, wird die Führung des Unternehmensregisters übertragen.
+Der Bundesanzeiger Verlag GmbH (Beliehene), eingetragen im
+Handelsregister beim Amtsgericht Köln, HRB 31248, wird die Führung des
+Unternehmensregisters übertragen.
 
 
 ## § 2 Führung eines Dienstsiegels
 
 Die Beliehene ist berechtigt, das kleine Bundessiegel zu führen. Es
-wird vom Bundesministerium der Justiz zur Verfügung gestellt. Das
-Dienstsiegel darf ausschließlich zur Beglaubigung von Ausdrucken aus
-dem Unternehmensregister genutzt werden.
+wird vom Bundesministerium der Justiz und für Verbraucherschutz zur
+Verfügung gestellt. Das Dienstsiegel darf ausschließlich zur
+Beglaubigung von Ausdrucken aus dem Unternehmensregister genutzt
+werden.
 
 
 ## § 3 Kündigungsrechte
@@ -53,7 +52,8 @@ dem Unternehmensregister genutzt werden.
 begründete Auftragsverhältnis kann vor Ablauf des Zeitpunkts des
 Außerkrafttretens dieser Verordnung nach § 5 Abs. 2 schriftlich von
 der Beliehenen mit einer Frist von einem Jahr, vom Bundesministerium
-der Justiz mit einer Frist von höchstens einem Jahr gekündigt werden.
+der Justiz und für Verbraucherschutz mit einer Frist von höchstens
+einem Jahr gekündigt werden.
 
 (2) Die Kündigung nach Absatz 1 ist nur aus wichtigem Grund zulässig.
 Ein wichtiger Grund liegt vor, wenn dem Kündigenden unter
@@ -95,23 +95,9 @@ die Übertragung der Führung des Unternehmensregisters nach § 1 und die
 Berechtigung zur Führung eines Dienstsiegels nach § 2 aufgehoben.
 
 
-## § 4 Einreichung von Dokumenten beim Betreiber des Bundesanzeigers
+## § 4 Außerkrafttreten
 
-Die auf der Grundlage von § 325 des Handelsgesetzbuchs oder anderen
-Bestimmungen, die wegen der Offenlegung auf § 325 des
-Handelsgesetzbuchs verweisen, sowie die auf der Grundlage von § 2 Abs.
-2 und 3, § 9 Abs. 1, § 12 Abs. 2 oder § 15 Abs. 1 des
-Publizitätsgesetzes beim Betreiber des Bundesanzeigers elektronisch
-einzureichenden Dokumente können bis zum 31. Dezember 2009 alternativ
-auch in Papierform eingereicht werden.
-
-
-## § 5 Inkrafttreten, Außerkrafttreten
-
-(1) § 4 tritt am 1. Januar 2007 in Kraft. Im Übrigen tritt diese
-Verordnung am Tag nach der Verkündung in Kraft.
-
-(2) Diese Verordnung tritt am 31. Dezember 2016 außer Kraft.
+Diese Verordnung tritt am 31. Dezember 2026 außer Kraft.
 
 
 ## Schlussformel

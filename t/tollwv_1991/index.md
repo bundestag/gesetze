@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1991, 1168
 
 Neugefasst durch
-:   Bek. v. 4.10.2010 I 1313
+:   Bek. v. 4.10.2010 I 1313;
+
+Zuletzt geändert durch
+:   Art. 3 V v. 29.12.2014 I 2481
 
 
 ## Abschnitt 1 - Begriffsbestimmungen
@@ -28,11 +31,11 @@ Neugefasst durch
 Im Sinne dieser Verordnung liegen vor:
 
 1.  Ausbruch der Tollwut, wenn diese durch virologische Untersuchung nach
-    einem in den vom Bundesministerium für Ernährung, Landwirtschaft und
-    Verbraucherschutz im Bundesanzeiger bekannt gemachten
-    Arbeitsanleitungen zur Labordiagnostik von anzeigepflichtigen
-    Tierseuchen (BAnz. S. 18304 vom 12. September 2000) beschriebenen
-    Untersuchungsverfahren festgestellt worden ist;
+    einem in den vom Bundesministerium für Ernährung und Landwirtschaft im
+    Bundesanzeiger bekannt gemachten Arbeitsanleitungen zur
+    Labordiagnostik von anzeigepflichtigen Tierseuchen (BAnz. S. 18304 vom
+    12\. September 2000) beschriebenen Untersuchungsverfahren festgestellt
+    worden ist;
 
 
 2.  Verdacht des Ausbruchs der Tollwut, wenn das Ergebnis der klinischen
@@ -45,8 +48,8 @@ Im Sinne dieser Verordnung liegen vor:
 3.  wirksamer Impfschutz bei Hunden und Katzen, wenn eine Impfung gegen
     Tollwut
 
-    a)  im Falle einer Erstimpfung bei Welpen im Alter von mindestens drei
-        Monaten mindestens 21 Tage nach Abschluss der Grundimmunisierung und
+    a)  im Falle einer Erstimpfung bei Welpen im Alter von mindestens zwölf
+        Wochen mindestens 21 Tage nach Abschluss der Grundimmunisierung und
         längstens um den Zeitraum zurückliegt, den der Impfstoffhersteller für
         eine Wiederholungsimpfung angibt, oder
 
@@ -448,75 +451,62 @@ als tollwutfrei bestimmen, soweit
 
 ### § 15
 
-(1) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer vollziehbaren Anordnung nach § 2 Absatz 2, § 3a Satz 2, § 4
+1.  entgegen § 2 Absatz 1 Satz 1 oder Satz 2 oder Absatz 3 eine Impfung
+    oder einen Heilversuch vornimmt,
+
+
+2.  einer vollziehbaren Anordnung nach § 2 Absatz 2, § 3a Satz 2, § 4
     Absatz 3, § 6 Nummer 3 Satz 1, § 7 Absatz 1, § 9 Absatz 1, § 10 Absatz
-    3 oder § 12 Absatz 1 Satz 1, auch in Verbindung mit § 12a oder
+    3 oder § 12 Absatz 1 Satz 1, auch in Verbindung mit § 12a, oder nach §
+    13 zuwiderhandelt,
 
 
-2.  einer mit einer Genehmigung nach § 3, § 6 Nummer 2 Satz 2, nach § 9
-    Absatz 3 Satz 3, auch in Verbindung mit § 10 Absatz 1 Satz 3, nach § 9
-    Absatz 4 oder § 10 Absatz 2 Satz 1 oder 2 verbundenen vollziehbaren
-    Auflage
+3.  einer mit einer Zulassung nach § 3, § 9 Absatz 3 Satz 3, auch in
+    Verbindung mit § 10 Absatz 1 Satz 3, oder nach § 9 Absatz 4
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Absatz 2 Nummer 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 Absatz 1 Satz 1 oder 2 eine Impfung oder entgegen § 2
-    Absatz 3 einen Heilversuch durchführt,
+4.  entgegen § 4 Absatz 1 oder Absatz 2 eine Anzeige nicht oder nicht
+    rechtzeitig erstattet,
 
 
-2.  entgegen § 4 Absatz 1 oder 2 eine Tierausstellung oder eine
-    Veranstaltung ähnlicher Art nicht oder nicht rechtzeitig anzeigt,
+5.  entgegen § 5 Satz 1 einen Hund frei laufen lässt oder mit sich führt,
 
 
-3.  entgegen § 5 Satz 1 einen Hund außerhalb geschlossener Räume ohne die
-    vorgeschriebene Kennzeichnung frei laufen lässt oder mit sich führt,
+6.  entgegen § 6 Nummer 1 ein Haustier nicht, nicht richtig oder nicht
+    rechtzeitig absondert,
 
 
-4.  entgegen § 6 Nummer 1 ein Haustier nicht absondert,
-
-
-5.  entgegen § 6 Nummer 2 Satz 1 ein verendetes oder getötetes Haustier
+7.  entgegen § 6 Nummer 2 Satz 1 ein Haustier nicht oder nicht richtig
     aufbewahrt,
 
 
-6.  ohne Genehmigung nach
-
-    a)  § 6 Nummer 2 Satz 2 ein verendetes oder getötetes Haustier verbringt,
+8.  ohne Genehmigung nach § 6 Nummer 2 Satz 2 ein Haustier verbringt,
 
 
-    b)  § 10 Absatz 2 Satz 1 ein Tier entfernt oder
+9.  einer mit einer Genehmigung nach § 6 Nummer 2 Satz 2 oder § 10 Absatz
+    2 Satz 1 oder Satz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-    c)  § 10 Absatz 2 Satz 2 einen Hund nutzt,
+10. entgegen § 7 Absatz 3 ein Tier schlachtet oder abhäutet oder ein Teil
+    oder ein Erzeugnis eines Tieres verkauft oder verbraucht,
 
 
+11. entgegen § 8 Absatz 3 Satz 1 einen Hund oder eine Katze frei laufen
+    lässt,
 
 
-
-7.  entgegen § 7 Absatz 3 ein seuchenverdächtiges Tier schlachtet oder
-    abhäutet oder einzelne Teile, Milch oder ein sonstiges Erzeugnis eines
-    solchen Tieres verkauft oder verbraucht,
+12. ohne Genehmigung nach § 10 Absatz 2 Satz 1 ein Tier entfernt,
 
 
-8.  entgegen § 8 Absatz 3 Satz 1 in einem gefährdeten Bezirk einen Hund
-    oder eine Katze frei laufen lässt,
+13. ohne Genehmigung nach § 10 Absatz 2 Satz 2 einen Hund nutzt oder
 
 
-9.  entgegen § 11 Satz 1 nicht dafür sorgt, dass einem seuchenverdächtigen
-    wild lebenden Tier sofort nachgestellt wird, dieses erlegt und
-    unschädlich beseitigt wird oder
-
-
-10. einer Vorschrift des § 13 über die Reinigung und Desinfektion
-    zuwiderhandelt.
+14. entgegen § 11 Satz 1 nicht dafür sorgt, dass einem wild lebenden Tier
+    nachgestellt wird, dieses erlegt und unschädlich beseitigt wird.
 
 
 
@@ -526,9 +516,9 @@ Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 Die Befugnis der zuständigen Behörde, bei Feststellung der Tollwut bei
 einem Haustier oder einem wild lebenden Tier weitergehende Maßnahmen
-nach § 79 Absatz 4 in Verbindung mit den §§ 17, 17b Absatz 1 Nummer 4
-und den §§ 18 bis 30 des Tierseuchengesetzes anzuordnen, soweit diese
-zur Tierseuchenbekämpfung erforderlich sind und Rechtsakte der
+nach § 38 Absatz 11 in Verbindung mit § 6 Absatz 1 und 3 bis 5 des
+Tiergesundheitsgesetzes anzuordnen, soweit diese zur
+Tierseuchenbekämpfung erforderlich sind und Rechtsakte der
 Europäischen Gemeinschaften oder der Europäischen Union nicht
 entgegenstehen, bleibt unberührt.
 
@@ -536,8 +526,9 @@ entgegenstehen, bleibt unberührt.
 ## Abschnitt 4 - (Inkrafttreten, Außerkrafttreten)
 
 
+(zu § 12 Absatz 1)
 
-### Anlage (zu § 12 Absatz 1) Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
+### Anlage Untersuchung wild lebender Tiere, ausgenommen Fledermäuse, zur Kontrolle des Impferfolges
 
 (Fundstelle: BGBl. I 2010, 1319)
 

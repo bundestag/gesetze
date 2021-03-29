@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „Hamburg“)
 jurabk: Münz2EuroBek 2007-12
 layout: default
-origslug: m_nz2eurobek_2007-12
+origslug: muenz2eurobek_2007-12
 slug: muenz2eurobek_2007-12
 
 ---
@@ -41,7 +41,7 @@ Ausgabeland „BUNDESREPUBLIK DEUTSCHLAND“ zu sehen.
 
 Das Münzzeichen der jeweiligen Prägestätte („A“, „D“, „F“, „G“, „J“)
 und die Initialen des Graveurs
-"OE"             befinden sich im rechten oberen Kernbereich.
+"OE"befinden sich im rechten oberen Kernbereich.
 
 Der Entwurf der nationalen Seite der Gedenkmünze stammt von Herrn
 Erich Ott aus München.

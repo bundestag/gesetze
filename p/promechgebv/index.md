@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 3166
 
-Geändert durch
-:   Art. 1 V v. 28.8.2008 I 1830
+V aufgeh. durch
+:   Art. 4 Abs. 30 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 51 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 33 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 33 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 
@@ -31,51 +37,55 @@ das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit:
 ## § 1 Gebühren und Auslagen
 
 (1) Die nach § 10 des Projekt-Mechanismen-Gesetzes zuständige Behörde
-erhebt für Amtshandlungen nach dem Projekt-Mechanismen-Gesetz Gebühren
-nach dem Gebührenverzeichnis im Anhang zu dieser Verordnung. Dabei
-unterfallen der Projektkategorie 1 alle Projekttätigkeiten, bei deren
-Durchführung nach Maßgabe der Projektdokumentation nicht mehr als 50
-000 Emissionsreduktionseinheiten oder zertifizierte
-Emissionsreduktionen pro Jahr erzeugt werden können. Alle anderen
-Projekttätigkeiten sind der Projektkategorie 2 zuzuordnen.
+erhebt für individuell zurechenbare öffentliche Leistungen nach dem
+Projekt-Mechanismen-Gesetz Gebühren nach dem Gebührenverzeichnis im
+Anhang zu dieser Verordnung. Dabei unterfallen der Projektkategorie 1
+alle Projekttätigkeiten, bei deren Durchführung nach Maßgabe der
+Projektdokumentation nicht mehr als 50 000
+Emissionsreduktionseinheiten oder zertifizierte Emissionsreduktionen
+pro Jahr erzeugt werden können. Alle anderen Projekttätigkeiten sind
+der Projektkategorie 2 zuzuordnen.
 
-(2) Für Amtshandlungen nach Absatz 1 Satz 1 werden Auslagen nach § 10
-des Verwaltungskostengesetzes erhoben.
+(2) Für Leistungen nach Absatz 1 Satz 1 werden Auslagen nach § 23
+Absatz 6 des Bundesgebührengesetzes erhoben.
 
 
 ## § 2 Widerspruch
 
 Im Falle des Widerspruchs gegen eine Sachentscheidung der Behörde oder
-gegen deren Kostenentscheidung wird eine Gebühr nach Nummer 8 des
+gegen deren Gebührenfestsetzung wird eine Gebühr nach Nummer 8 des
 Gebührenverzeichnisses erhoben, soweit der Widerspruch zurückgewiesen
 oder nach Beginn der sachlichen Bearbeitung zurückgenommen wird.
 
 
-## § 3 Widerruf und Rücknahme einer Amtshandlung, Ablehnung und Zurücknahme von Anträgen
+## § 3 Widerruf und Rücknahme eines Verwaltungsaktes, Ablehnung und Zurücknahme von Anträgen
 
-Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
-eines Antrags auf Vornahme einer Amtshandlung aus anderen Gründen als
-wegen Unzuständigkeit sowie in den Fällen der Zurücknahme eines
-Antrags auf Vornahme einer Amtshandlung nach Beginn der sachlichen
-Bearbeitung werden Gebühren nach Maßgabe des § 15 des
-Verwaltungskostengesetzes erhoben.
+Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die
+Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung aus anderen Gründen als wegen Unzuständigkeit
+sowie in den Fällen der Zurücknahme eines Antrags auf Vornahme einer
+individuell zurechenbaren öffentlichen Leistung nach Beginn der
+sachlichen Bearbeitung werden Gebühren nach Maßgabe des § 23 Absatz 5
+Satz 1 und 2 des Bundesgebührengesetzes erhoben.
 
 
 ## § 4 Inkrafttreten
 
-Für die bis zum 10. August 2007 entstandenen Gebühren für
-Amtshandlungen nach dem Projekt-Mechanismen-Gesetz gilt diese
-Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
+Für die bis zum 10. August 2007 entstandenen Gebühren für individuell
+zurechenbare öffentliche Leistungen nach dem Projekt-Mechanismen-
+Gesetz gilt diese Verordnung in ihrer bis zum 10. August 2007
+geltenden Fassung.
 
+(zu § 1 Abs. 1)
 
-## Anhang (zu § 1 Abs. 1) Gebührenverzeichnis
+## Anhang Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2008, 1831)
 
 *    *   Lfd.
         Nr.
 
-    *   Gebührenpflichtige Amtshandlung
+    *   Gebührenpflichtige individuell zurechenbare öffentliche Leistung
 
     *   Gebühr
 
@@ -181,10 +191,11 @@ Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 
 *    *   5
 
-    *   **Amtshandlungen nach Nr. 1 bis 4 für Projekt- tätigkeiten, bei deren
-        Durchführung nach Maßgabe der Projektdokumentation nicht mehr als
-        10\.000 Emissionsreduktionseinheiten oder zertifizierte
-        Emissionsreduktionen pro Jahr erzeugt werden können**
+    *   **Individuell zurechenbare öffentliche Leistungen nach Nr. 1 bis 4 für
+        Projekttätigkeiten, bei deren Durchführung nach Maßgabe der
+        Projektdokumentation nicht mehr als 10 000
+        Emissionsreduktionseinheiten oder zertifizierte Emissionsreduktionen
+        pro Jahr erzeugt werden können**
 
     *   50 bis 75 Prozent
         der entsprechenden Gebühr nach Nr. 1
@@ -194,8 +205,9 @@ Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 
 *    *   6
 
-    *   **Amtshandlungen nach Nr. 1 bis 4 für Projekttätigkeiten, die in den
-        am wenigsten entwickelten Ländern durchgeführt werden**
+    *   **Individuell zurechenbare öffentliche Leistungen nach Nr. 1 bis 4 für
+        Projekttätigkeiten, die in den am wenigsten entwickelten Ländern
+        durchgeführt werden**
 
     *   20 bis 50 Euro
 
@@ -215,8 +227,8 @@ Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 
 *    *   8.1
 
-    *   Teilweise oder vollständige Zurückweisung eines Widerspruchs gegen die
-        Amtshandlung, soweit der Widerspruch nicht nur deshalb keinen Erfolg
+    *   Teilweise oder vollständige Zurückweisung eines Widerspruchs gegen den
+        Verwaltungsakt, soweit der Widerspruch nicht nur deshalb keinen Erfolg
         hatte, weil die Verletzung einer Verfahrens- oder Formvorschrift
         unbeachtlich ist
 
@@ -236,7 +248,7 @@ Verordnung in ihrer bis zum 10. August 2007 geltenden Fassung.
 *    *   8.3
 
     *   Erfolgloser Widerspruch, der sich ausschließlich gegen eine
-        Kostenentscheidung richtet
+        Gebührenfestsetzung richtet
 
     *   bis zu 10 Prozent
         des streitigen Betrages.

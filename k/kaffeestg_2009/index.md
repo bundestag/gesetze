@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 1870, 1919
 
 Geändert durch
-:   Art. 5 G v. 21.12.2010 I 2221
+:   Art. 7 G v. 27.8.2017 I 3299 mWv 1.1.2018
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -117,8 +117,8 @@ Rechtsverordnung ohne Zustimmung des Bundesrates zur Sicherung des
 Steueraufkommens und zur Wahrung der Gleichmäßigkeit der Besteuerung
 die Art und Weise der Bestimmung der für die Besteuerung maßgebenden
 Kaffeemengen und
--arten              festzulegen und kaffeehaltige Waren nach dem
-tatsächlichen Kaffeegehalt zu besteuern.
+-arten festzulegen und kaffeehaltige Waren nach dem tatsächlichen
+Kaffeegehalt zu besteuern.
 
 
 ### § 3 Kaffeehaltige Waren
@@ -1056,17 +1056,32 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     Beteiligten die Steuer entsteht;
 
 
-4.  zur Erleichterung und zur Vereinfachung des automatisierten
-    Besteuerungsverfahrens zu bestimmen, dass Steuererklärungen,
-    Steueranmeldungen oder sonstige für das Besteuerungsverfahren
-    erforderliche Daten durch Datenfernübertragung übermittelt werden
-    können, und dabei insbesondere
+4.  im Benehmen mit dem Bundesministerium des Innern alternativ zur
+    qualifizierten elektronischen Signatur ein anderes sicheres Verfahren
+    zuzulassen, das den Datenübermittler authentifiziert und die
+    Vertraulichkeit und Integrität des elektronisch übermittelten
+    Datensatzes gewährleistet. § 87a Absatz 6 Satz 2 der Abgabenordnung
+    gilt entsprechend. In der Rechtsverordnung können auch Ausnahmen von
+    der Pflicht zur Verwendung des nach Satz 1 zugelassenen Verfahrens
+    vorgesehen werden. Die Datenübermittlung kann in der Rechtsverordnung
+    auch durch Verweis auf Veröffentlichungen sachverständiger Stellen
+    geregelt werden;
 
-    a)  die Voraussetzungen für die Anwendung des Verfahrens,
+
+5.  zur Verfahrensvereinfachung zu bestimmen, dass in diesem Gesetz oder
+    einer auf Grund dieses Gesetzes erlassenen Verordnung vorgesehene
+    Steuererklärungen oder sonstige Erklärungen, Steueranmeldungen,
+    Anträge, Anzeigen, Mitteilungen, Nachweise oder sonstige Daten, die
+    für das Verfahren erforderlich sind, ganz oder teilweise durch
+    Datenfernübertragung zu übermitteln sind oder übermittelt werden
+    können, und dabei insbesondere Folgendes zu regeln:
+
+    a)  die Voraussetzungen für die Anwendung des Verfahrens der
+        Datenfernübertragung,
 
 
-    b)  die Einzelheiten über Form, Inhalt, Verarbeitung und Sicherung der zu
-        übermittelnden Daten,
+    b)  das Nähere über Form, Verarbeitung und Sicherung der zu übermittelnden
+        Daten,
 
 
     c)  die Art und Weise der Übermittlung der Daten,
@@ -1075,38 +1090,30 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
     d)  die Zuständigkeit für die Entgegennahme der zu übermittelnden Daten,
 
 
-    e)  die Mitwirkungspflichten Dritter und deren Haftung für Steuern oder
-        Steuervorteile, die auf Grund unrichtiger Erhebung, Verarbeitung oder
-        Übermittlung der Daten verkürzt oder erlangt werden,
+    e)  die Mitwirkungspflichten Dritter und deren Haftung, wenn auf Grund
+        unrichtiger Erhebung, Verarbeitung oder Übermittlung der Daten Steuern
+        verkürzt oder Steuervorteile erlangt werden,
 
 
-    f)  den Umfang und die Form der für dieses Verfahren erforderlichen
-        besonderen Erklärungspflichten des Anmelde- oder Steuerpflichtigen
+    f)  die Haftung des Datenübermittlers für verkürzte Steuern oder für zu
+        Unrecht erlangte Steuervorteile, wenn der Datenübermittler sich keine
+        Gewissheit über die Identität des Auftraggebers verschafft hat,
 
 
-
-    zu regeln sowie
-
-    g)  im Benehmen mit dem Bundesministerium des Innern anstelle der
-        qualifizierten elektronischen Signatur ein anderes sicheres Verfahren,
-        das die Authentizität und die Integrität des übermittelten
-        elektronischen Dokuments sicherstellt, und
-
-
-    h)  Ausnahmen von der Pflicht zur Verwendung einer qualifizierten
-        elektronischen Signatur oder eines anderen sicheren Verfahrens nach
-        Buchstabe g
+    g)  den Umfang und die Form der für dieses Verfahren erforderlichen
+        besonderen Erklärungspflichten des Steuerpflichtigen oder
+        Antragstellers.
 
 
 
-    zuzulassen. Zur Regelung der Datenübermittlung kann in der
-    Rechtsverordnung auf Veröffentlichungen sachverständiger Stellen
-    verwiesen werden; hierbei sind das Datum der Veröffentlichung, die
-    Bezugsquelle und eine Stelle zu bezeichnen, bei der die
-    Veröffentlichung archivmäßig gesichert niedergelegt ist;
+    Bei der Datenübermittlung ist ein sicheres Verfahren zu verwenden, das
+    den Datenübermittler authentifiziert und die Vertraulichkeit und
+    Integrität des elektronisch übermittelten Datensatzes gewährleistet.
+    Die Datenübermittlung kann in der Rechtsverordnung auch durch Verweis
+    auf Veröffentlichungen sachverständiger Stellen geregelt werden;
 
 
-5.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
+6.  den Wortlaut des Gesetzes an geänderte Fassungen oder Neufassungen des
     Zollkodex anzupassen, soweit sich hieraus steuerliche Änderungen nicht
     ergeben.
 

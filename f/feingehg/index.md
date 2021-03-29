@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1884, 120
 
 Zuletzt geändert durch
-:   Art. 9 G v. 25.4.2007 I 594
+:   Art. 294 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -45,9 +45,9 @@ haben.
 Die Angabe des Feingehalts auf goldenen und silbernen Geräten
 geschieht durch ein Stempelzeichen, welches die Zahl der Tausendteile
 und die Firma des Geschäfts, für welches die Stempelung bewirkt ist,
-kenntlich macht. Das Bundesministerium für Wirtschaft und Technologie
-wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-die Form des Stempelzeichens zu bestimmen.
+kenntlich macht. Das Bundesministerium für Wirtschaft und Energie wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Form des Stempelzeichens zu bestimmen.
 
 
 ## § 4

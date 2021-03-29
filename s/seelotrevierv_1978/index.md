@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1978, 1515
 
 Zuletzt geändert durch
-:   Art. 527 V v. 31.10.2006 I 2407
+:   Art. 67 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ I S. 613), wird verordnet:
 Tätigkeit eines Seelotsen über See (Überseelotse) oder auf einer
 Seeschiffahrtstraße, die nicht zu den Revieren gehört, müssen die
 Voraussetzungen des §
-12 Abs. 2              des Gesetzes über das Seelotswesen erfüllen.
+12 Abs. 2 des Gesetzes über das Seelotswesen erfüllen.
 
 (2) Für die nachstehend aufgeführten Fahrtgebiete reichen folgende
 Anforderungen an den Grad des Befähigungszeugnisses aus:
@@ -131,7 +131,7 @@ Informationen enthalten:
 2.  wichtige Nachrichten für Seefahrer;
 
 
-3.  IMCO                   -Seefahrt-Standardvokabular.
+3.  IMCO-Seefahrt-Standardvokabular.
 
 
 
@@ -169,18 +169,16 @@ vorzulegen.
 ## § 5
 
 Entgelte für Leistungen der Seelotsen außerhalb der Reviere bedürfen
-der Genehmigung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung. Die Genehmigung kann mit Auflagen verbunden und mit
+der Genehmigung des Bundesministeriums für Verkehr und digitale
+Infrastruktur. Die Genehmigung kann mit Auflagen verbunden und mit
 einem Vorbehalt des Widerrufs erteilt werden.
 
 
 ## § 6
 
-(1) Aufsichtsbehörde für Überseelotsen ist die Wasser- und
-Schiffahrtsdirektion Nord. Aufsichtsbehörde für Seelotsen auf
-Seeschiffahrtstraßen außerhalb der Reviere sind die Wasser- und
-Schiffahrtsdirektionen Nord und Nordwest innerhalb ihres örtlichen
-Zuständigkeitsbereiches.
+(1) Aufsichtsbehörde für Überseelotsen und für Seelotsen auf
+Seeschifffahrtsstraßen außerhalb der Reviere ist die Generaldirektion
+Wasserstraßen und Schifffahrt.
 
 (2)
 
@@ -197,8 +195,7 @@ gültig. Ein Umtausch der Ausweise ist möglich.
 
 Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
 Verbindung mit §
-61              des Gesetzes über das Seelotswesen auch im Land
-Berlin.
+61 des Gesetzes über das Seelotswesen auch im Land Berlin.
 
 
 ## § 9
@@ -210,15 +207,15 @@ Diese Verordnung tritt am 1. September 1978 in Kraft.
 
 Der Bundesminister für Verkehr
 
+(zu § 4 Abs. 1)
 
-## Anlage 1 (zu § 4 Abs. 1) Ausweis für Überseelotsen
+## Anlage 1 Ausweis für Überseelotsen
 
-(Inhalt: nicht darstellbares Muster eines Ausweises,
-Fundstelle: BGBl. I 1978, 1517)
+(Fundstelle: BGBl. I 1978, 1517)
+![bgbl1_1978_j1517_0010.jpg](bgbl1_1978_j1517_0010.jpg)
+(zu § 4 Abs. 1)
 
+## Anlage 2 Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
 
-## Anlage 2 (zu § 4 Abs. 1) Ausweis für Seelotsen auf Seeschiffahrtstraßen außerhalb der Reviere
-
-(Inhalt: nicht darstellbares Muster eines Ausweises,
-Fundstelle: BGBl. I 1978, 1518)
-
+(Fundstelle: BGBl. I 1978, 1518)
+![bgbl1_1978_j1518_0010.jpg](bgbl1_1978_j1518_0010.jpg)

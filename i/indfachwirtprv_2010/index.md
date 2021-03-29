@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 833
 
+Geändert durch
+:   Art. 9 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -617,10 +620,12 @@ Industriefachwirt/Geprüfte Industriefachwirtin vom 8. März 1988 (BGBl.
 I S. 222), die zuletzt durch Artikel 30 der Verordnung vom 25. August
 2009 (BGBl. I S. 2960) geändert worden ist, außer Kraft.
 
+(zu § 7 Absatz 6)
 
-## Anlage 1 (zu § 7 Absatz 6) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2010, 838)
+(Fundstelle: BGBl. I 2010, 838;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -663,12 +668,18 @@ Geprüfter Industriefachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Industriefachwirt und Geprüfte
-Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833)
+Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833), die durch
+Artikel 9 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist,
 
 
 *    *   bestanden.
 
 
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -686,10 +697,12 @@ Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833)
 
 
 
+(zu § 7 Absatz 6)
 
-## Anlage 2 (zu § 7 Absatz 6) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2010, 839 - 840)
+(Fundstelle: BGBl. I 2010, 839 - 840;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -732,13 +745,14 @@ Geprüfter Industriefachwirt
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Industriefachwirt und Geprüfte
-Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833) mit folgenden
-Ergebnissen bestanden:
+Industriefachwirtin vom 25. Juni 2010 (BGBl. I S. 833), die durch
+Artikel 9 der Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert
+worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^F1_774340_BJNR083300010BJNE001400000]
+    *[^F1_774340_BJNR083300010BJNE001401377]
    Punkte
 
     *
@@ -846,7 +860,11 @@ Ergebnissen bestanden:
 Prüfungsteilnehmerin“ wurde nach § 6 im Hinblick auf die am
 ...................
 in ................... vor ................... abgelegte Prüfung in
-................... freigestellt. “)
+................... freigestellt.“)
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ...................................................
@@ -863,4 +881,4 @@ in ................... vor ................... abgelegte Prüfung in
 
     Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     .....................
-[^F1_774340_BJNR083300010BJNE001400000]: 
+[^F1_774340_BJNR083300010BJNE001401377]: 

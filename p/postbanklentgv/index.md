@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 2938
 
-Geändert durch
-:   Art. 2 V v. 25.7.2012 I 1702
+Zuletzt geändert durch
+:   Art. 1 V v. 14.8.2015 I 1432
 
 
 ## Eingangsformel
@@ -34,18 +34,14 @@ Bundesministerium des Innern:
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
 Postbank AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
-leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden. Daneben
-können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
-der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
-1833), die zuletzt durch § 14 Satz 2 der Verordnung vom 12. Dezember
-2005 (BGBl. I S. 3475) geändert worden ist, gewährt werden.
+leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
 
-(1) Das Leistungsentgelt nach § 1 Satz 1 wird als Jahresbetrag für
-erzielte Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe
-wird auf der Grundlage der Zielbewertung nach § 5 oder einer
+(1) Das Leistungsentgelt nach § 1 wird als Jahresbetrag für erzielte
+Leistungen im abgelaufenen Kalenderjahr gewährt. Seine Höhe wird auf
+der Grundlage der Zielbewertung nach § 5 oder einer
 Leistungsbeurteilung nach § 7 ermittelt.
 
 (2) Das Leistungsentgelt wird mit den Dienstbezügen für den Monat Mai
@@ -180,7 +176,7 @@ Elternzeitverordnung, im Fall von Elternzeit ohne Dienstbezüge jedoch
 nur auf die Zeit bis zur Vollendung des zwölften Lebensmonats des
 Kindes. Hat das Beamtenverhältnis im Beurteilungszeitraum aus Gründen,
 die die Beamtin oder der Beamte zu vertreten hat, weniger als drei
-Monate bestanden, ist der Faktor 0,5 nach Absatz 2 anzuwenden.
+Monate bestanden, ist der Faktor 0,5 nach Absatz 1 anzuwenden.
 
 
 ## § 5 Zielbewertung
@@ -309,7 +305,7 @@ Leistungsbeurteilung vorgenommen oder eröffnet haben, können nicht
 Mitglieder der Einigungskommission sein. Die Mitglieder sind für die
 Sitzungsteilnahme einschließlich erforderlicher Vorbereitungszeit
 unter Fortzahlung der Bezüge oder Arbeitsentgelte freizustellen. § 78
-Betriebsverfassungsgesetz ist entsprechend anzuwenden. Der
+des Betriebsverfassungsgesetzes ist entsprechend anzuwenden. Der
 Einigungskommission sind die für ihre Aufgabe erforderlichen
 Informationen zur Verfügung zu stellen. Die Kosten der
 Einigungskommission trägt die Deutsche Postbank AG.
@@ -351,63 +347,45 @@ Leistungsbeurteilung erfolgt, so gilt die Leistungsbewertungsstufe
 
 ## § 9 Übergangsregelung
 
-(1) Für das Jahr 2004 erhalten die Beamtinnen und Beamten eine
-Ausgleichszahlung in Höhe der Sonderzuwendung und des Urlaubsgeldes,
-die sie im Jahr 2004 erhalten hätten, wenn das Gesetz über die
-Gewährung einer jährlichen Sonderzuwendung und das Urlaubsgeldgesetz
-nicht durch das Bundessonderzahlungsgesetz ersetzt worden wären,
-abzüglich der im Jahre 2004 infolge des Artikels 5 des Ersten Gesetzes
-zur Änderung des Postpersonalrechtsgesetzes gewährten Sonderzahlung
-nach dem Bundessonderzahlungsgesetz. Die Ausgleichszahlung erhalten
-alle Beamtinnen und Beamten, denen im Jahr 2004 von der Deutschen
-Postbank AG eine Sonderzahlung nach dem Bundessonderzahlungsgesetz
-gewährt wurde. Die Ausgleichszahlung wird am ersten Tag des zweiten
-auf die Verkündung dieser Verordnung folgenden Kalendermonats fällig.
+(1) (weggefallen)
 
-(2) Für die Jahre 2005 und 2006 erhalten die Beamtinnen und Beamten
-der Bundesbesoldungsordnung A eine Sonderzahlung in Höhe von 60
-Prozent des monatlichen Endgrundgehaltes der Besoldungsgruppe, der sie
-am 1. Dezember des jeweiligen Jahres angehörten. Beamtinnen und Beamte
-der Bundesbesoldungsordnung B erhalten für die Jahre 2005 und 2006
-eine Sonderzahlung in Höhe von 60 Prozent des monatlichen
-Grundgehaltes der Besoldungsgruppe, der sie am 1. Dezember des
-jeweiligen Jahres angehörten. Beamtinnen und Beamte, die die Deutsche
-Postbank AG im Jahr 2006 verlassen haben und nach dem
-Bundessonderzahlungsgesetz anspruchsberechtigt sind, erhalten für
-jeden Kalendermonat, in dem sie mindestens 15 Kalendertage in einem
-aktiven Beamtenverhältnis bei der Postbank tätig waren und Bezüge
-erhalten haben, im Jahr 2006 eine anteilige Sonderzahlung in Höhe von
-einem Zwölftel des Betrages nach Satz 1 oder Satz 2. Bei
-Teilzeitbeschäftigung wird die Sonderzahlung im gleichen Verhältnis
-wie die Arbeitszeit gekürzt. Bei Altersteilzeit wird die Sonderzahlung
-nach der Arbeitszeit bemessen, die während der Altersteilzeit zugrunde
-gelegt wird. Ein Leistungsentgelt nach § 1 Satz 1 wird nicht gezahlt.
+(2) (weggefallen)
 
-(3) In den Jahren 2007 und 2008 gilt Absatz 2 Satz 1 und 2 mit der
-Maßgabe, dass die Sonderzahlung im Jahr 2007 um 25 Prozent und im Jahr
-2008 um 50 Prozent vermindert wird. Absatz 2 Satz 3 bis 5 gilt
-entsprechend.
+(3) (weggefallen)
 
-(4) Im Jahr 2007 werden der Berechnung des Leistungsbudgets abweichend
-von § 3 Abs. 1 Satz 1 15 Prozent und im Jahr 2008 30 Prozent der Summe
-der Endgrundgehälter oder Grundgehälter zugrunde gelegt.
+(4) (weggefallen)
 
-(5) Die Sonderzahlung nach den Absätzen 2 und 3 wird zusammen mit den
-Bezügen für den Monat Dezember des jeweiligen Jahres ausgezahlt,
-spätestens aber mit den Bezügen des zweiten auf die Verkündung dieser
-Verordnung folgenden Kalendermonats.
+(5) (weggefallen)
 
-(6) Abweichend von § 2 Abs. 1 Satz 3 und § 5 erfolgt die Ermittlung
-des Leistungsentgelts im Jahr 2007 auf der Basis einer
-Leistungsbeurteilung.
+(6) (weggefallen)
+
+(7) Das Leistungsbudget nach § 3 Absatz 1 Satz 1 vermindert sich in
+den Jahren 2013 bis 2017 im Vorstandsressort Filialvertrieb jeweils um
+die Summe der für das jeweilige Jahr geleisteten Filialzulagen nach §
+10\.
 
 
-## § 10 Inkrafttreten, Außerkrafttreten anderer Vorschriften
+## § 10 Leistungszulage für Tätigkeiten im Filialbetrieb
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft. Die §§
-4 und 5 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl.
-I S. 1833), die zuletzt durch § 14 Satz 2 der Verordnung vom 12.
-Dezember 2005 (BGBl. I S. 3475) geändert worden ist, treten am Tag der
-Verkündung dieser Verordnung für die bei der Deutschen Postbank AG
-beschäftigten Beamtinnen und Beamten außer Kraft.
+(1) Beamtinnen und Beamte, denen eine Tätigkeit im Filialvertrieb
+zugewiesen ist, erhalten eine monatliche Leistungszulage
+(Filialzulage).
+
+(2) Die Höhe der Filialzulage entspricht der Höhe der Sonderzahlung,
+die der Beamtin oder dem Beamten für Dezember 2007 nach § 1 Absatz 2
+der Postbanksonderzahlungsverordnung vom 15. August 2007 (BGBl. I S.
+2121)
+
+1.  zugestanden hat oder
+
+
+2.  im Fall einer Beurlaubung ohne Anspruch auf Dienstbezüge zugestanden
+    hätte.
+
+
+
+
+(3) § 6 Absatz 1 des Bundesbesoldungsgesetzes gilt entsprechend.
+
+(4) Die Filialzulage wird letztmalig für April 2017 gewährt.
 

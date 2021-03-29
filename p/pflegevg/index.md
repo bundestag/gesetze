@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 1014 (2797)
 
 Zuletzt geändert durch
-:   Art. 265 V v. 31.10.2006 I 2407
+:   Art. 14 G v. 23.12.2016 I 3191
 
 
 ## Eingangsformel
@@ -37,7 +37,7 @@ beschlossen:
 
 
 
-### Art 2 bis 5
+### Art 2 bis 5 - 
 
 
 
@@ -45,7 +45,7 @@ beschlossen:
 
 
 
-### Art 6 bis 21
+### Art 6 bis 21 - 
 
 
 
@@ -55,7 +55,7 @@ Für die Empfänger von Amtsbezügen des Bundes gilt § 3a des
 Bundesbesoldungsgesetzes sinngemäß.
 
 
-### Art 23 bis 35
+### Art 23 bis 35 - 
 
 
 
@@ -63,7 +63,7 @@ Bundesbesoldungsgesetzes sinngemäß.
 
 
 
-### Art 36 bis 38
+### Art 36 bis 38 - 
 
 
 
@@ -136,11 +136,11 @@ Versicherungsnehmer den Versicherungsvertrag, der nach Absatz 1 zur
 Versicherungsfreiheit geführt hat, nicht fortsetzt.
 
 (5) Der Anspruch des Versicherungsnehmers auf einen Beitragszuschuß
-richtet sich nach § 61 des Elften Buches Sozialgesetzbuch, § 106a des
-Sechsten Buches Sozialgesetzbuch, § 53a des Bundesversorgungsgesetzes,
-§ 13a des Bundesausbildungsförderungsgesetzes, § 23a des
-Arbeitssicherstellungsgesetzes, § 8a des Eignungsübungsgesetzes, § 7
-des Unterhaltssicherungsgesetzes, § 10a des
+richtet sich nach § 61 des Elften Buches Sozialgesetzbuch, § 53a des
+Bundesversorgungsgesetzes, § 13a des
+Bundesausbildungsförderungsgesetzes, § 23a des
+Arbeitssicherstellungsgesetzes, § 8a des Eignungsübungsgesetzes, den
+§§ 15 und 20 des Unterhaltssicherungsgesetzes, § 10a des
 Künstlersozialversicherungsgesetzes, § 276 des
 Lastenausgleichsgesetzes und § 15 des Flüchtlingshilfegesetzes. In der
 Zeit vom 1. Januar 1995 bis einschließlich 31. Dezember 1995 besteht
@@ -193,446 +193,16 @@ des Elften Buches Sozialgesetzbuch vorgesehen ist.
 -
 
 
-### Art 49 - Weitergeltung von Vergütungen und Pflegesätzen
+### Art 49 - (weggefallen)
 
-Die am 31. März 1995 geltenden Vergütungen für ambulante,
-teilstationäre Pflege und Kurzzeitpflege bleiben über diesen Zeitpunkt
-hinaus für längstens sechs Monate in Kraft, sofern nicht rechtzeitig
-vorher neue Vergütungsvereinbarungen nach Maßgabe des Achten Kapitels
-des Elften Buches Sozialgesetzbuch abgeschlossen worden sind; die
-Leistungen der Pflegekassen richten sich nach den Vorschriften des
-Vierten Kapitels des Elften Buches Sozialgesetzbuch.
 
 
-### Art 49a - Übergangsregelungen für die vollstationäre Pflege
+### Art 49a - (weggefallen)
 
 
 
-#### Erster Abschnitt - Übergangsregelung mit weitergeltenden Heimentgelten
+### Art 49b - (weggefallen)
 
-
-
-#### § 1 Leistungsrechtliche Vorschrift
-
-(1) In der Zeit vom 1. Juli 1996 bis 31. Dezember 1997 (Übergangszeit)
-übernimmt die Pflegekasse abweichend von § 43 Abs. 2 Satz 1 und Abs. 3
-des Elften Buches Sozialgesetzbuch die pflegebedingten Aufwendungen,
-die Aufwendungen für Leistungen der medizinischen Behandlungspflege
-und der sozialen Betreuung pauschal:
-
-1.  für Pflegebedürftige der Pflegestufe I in Höhe von 2.000 Deutsche Mark
-    monatlich,
-
-
-2.  für Pflegebedürftige der Pflegestufe II in Höhe von 2.500 Deutsche
-    Mark monatlich,
-
-
-3.  für Pflegebedürftige der Pflegestufe III in Höhe von 2.800 Deutsche
-    Mark monatlich,
-
-
-4.  für Pflegebedürftige, die nach § 43 Abs. 3 des Elften Buches
-    Sozialgesetzbuch als Härtefall anerkannt sind, in Höhe von 3.300
-    Deutsche Mark monatlich;
-
-
-
-insgesamt darf der von der Pflegekasse zu übernehmende Betrag jedoch
-75 vom Hundert des Heimentgeltes nicht übersteigen.
-
-(2) Absatz 1 gilt auch, wenn
-
-1.  das Pflegeheim sich gemäß § 5 an Stelle der Übergangsregelung nach dem
-    Ersten Abschnitt für die alternative Übergangsregelung nach dem
-    Zweiten Abschnitt entscheidet oder
-
-
-2.  vor Beginn oder während der Übergangszeit für das Pflegeheim eine
-    Pflegesatzvereinbarung nach dem Elften Buch Sozialgesetzbuch
-    geschlossen wird.
-
-
-
-Der von der Pflegekasse zu übernehmende Betrag darf im Fall des Satzes
-1 Nr. 1 75 vom Hundert des Heimgeldes nach § 9 Abs. 1 (ohne die
-gesonderten Zuschläge nach § 7 Abs. 1 Satz 2 Nr. 2), im Fall des
-Satzes 1 Nr. 2 75 vom Hundert des Gesamtbetrages aus Pflegesatz,
-Entgelt für Unterkunft und Verpflegung und gesondert berechenbaren
-Investitionskosten nach § 82 Abs. 3 und 4 des Elften Buches
-Sozialgesetzbuch nicht überschreiten.
-
-(3) Die jährlichen Ausgaben der einzelnen Pflegekasse für die bei ihr
-versicherten Pflegebedürftigen in vollstationärer Pflege dürfen im
-Durchschnitt 30.000 Deutsche Mark je Pflegebedürftigen nicht
-übersteigen; hierbei werden die Ausgaben für Pflegebedürftige, die als
-Härtefall anerkannt sind, nicht berücksichtigt. Die Pflegekasse hat
-jeweils zum 1. September und zum 1. März zu überprüfen, ob der
-Durchschnittsbetrag eingehalten ist. Stellt sie fest, daß sie die
-Pflegeleistungen nicht in vollem Umfang übernehmen kann, ohne den
-Durchschnittsbetrag zu überschreiten, hat sie die Leistungen nach
-Absatz 1 durch Leistungsbescheid jeweils mit Wirkung vom 1. November
-und 1. Mai entsprechend anzupassen.
-
-
-#### § 2 Vergütungsrechtliche Umsetzung
-
-(1) Die am 30. Juni 1996 geltenden Heimentgelte für vollstationäre
-Pflege in zugelassenen Pflegeheimen gelten bis zu ihrer Ablösung durch
-eine Pflegesatzvereinbarung nach dem Elften Buch Sozialgesetzbuch,
-längstens jedoch bis zum 31. Dezember 1997 weiter. Satz 1 gilt auch
-für nicht pflegebedürftige Heimbewohner, die vor dem 1. Juli 1996 in
-das Heim aufgenommen worden sind, und deren Kostenträger. Nicht
-pflegebedürftige Heimbewohner, die nach dem 30. Juni 1996 in das Heim
-aufgenommen werden, zahlen als Heimentgelt das nach Satz 1 am 30. Juni
-1996 für diese Bewohnergruppe geltende Entgelt.
-
-(2) Vorbehaltlich der Regelungen des zweiten Abschnitts gilt Absatz 1
-für pflegebedürftige Heimbewohner, die nach dem 30. Juni 1996 in das
-Pflegeheim aufgenommen werden, ab dem Tag ihrer Aufnahme in das Heim
-mit folgenden Maßgaben:
-
-1.  Soweit das weitergeltende Heimentgelt in zwei Vergütungsklassen (I bis
-    II) aufgeteilt ist, sind die pflegebedürftigen Heimbewohner der
-    Pflegestufe I und II der Vergütungsklasse I und die pflegebedürftigen
-    Heimbewohner der Pflegestufe III der Vergütungsklasse II zuzuordnen.
-
-
-2.  Soweit das weitergeltende Heimentgelt in drei Vergütungsklassen (I bis
-    III) aufgegliedert ist, sind die pflegebedürftigen Heimbewohner der
-    Pflegestufe I der Vergütungsklasse I, die pflegebedürftigen
-    Heimbewohner der Pflegestufe II der Vergütungsklasse II und die
-    pflegebedürftigen Heimbewohner der Pflegestufe III der
-    Vergütungsklasse III zuzuordnen.
-
-
-3.  Soweit das weitergeltende Heimentgelt in vier Vergütungsklassen (I bis
-    IV) aufgeteilt ist, gilt Nummer 2 mit der Maßgabe, daß der
-    Vergütungsklasse IV die pflegebedürftigen Heimbewohner zuzuordnen
-    sind, die als Härtefälle im Sinne des § 43 Abs. 3 des Elften Buches
-    Sozialgesetzbuch anerkannt sind. Das gleiche gilt für Heimbewohner,
-    für die wegen eines außergewöhnlich hohen und intensiven
-    Pflegeaufwands ein besonderer Zuschlag über die jeweils höchste
-    Vergütungsklasse nach den Nummern 1 und 2 hinaus berechnet wird.
-
-
-
-
-(3) Während der Dauer der Übergangsregelung darf ein pflegebedürftiger
-Heimbewohner nur dann einer höheren Vergütungsklasse zugeordnet
-werden, wenn er durch einen neuen Leistungsbescheid seiner Pflegekasse
-einer höheren Pflegestufe zugeordnet worden ist. Für die Zuordnung zu
-einer höheren Vergütungsklasse gilt in diesem Fall Absatz 2
-entsprechend.
-
-(4) Soweit ein Pflegeheim bereits vor dem 1. Juli 1996 eine
-Vergütungsvereinbarung nach dem Achten Kapitel des Elften Buches
-Sozialgesetzbuch abgeschlossen hat, gelten die darin vereinbarten
-Vergütungssätze von dem vereinbarten Zeitpunkt an.
-
-
-#### § 3 Unterrichtungspflicht des Pflegeheims
-
-Das Pflegeheim hat den Heimbewohnern und ihren Kostenträgern
-(Pflegekasse, Träger der Sozialhilfe, sonstige öffentlich-rechtliche
-Kostenträger) bis spätestens zum 31. Juli 1996 die in dem nach § 2
-Abs. 1 weitergeltenden Heimentgelt enthaltenen, nicht durch
-öffentliche Fördermittel gedeckten Investitionskostenanteile
-schriftlich mitzuteilen. Heimbewohnern, die nach dem 31. Juli 1996 in
-das Heim aufgenommen werden, ist die schriftliche Mitteilung nach Satz
-1 bei ihrer Aufnahme in das Heim auszuhändigen.
-
-
-#### § 4 Zahlungen und Ausgleiche
-
-(1) Der dem pflegebedürftigen Heimbewohner nach § 1 Abs. 1 zustehende
-Leistungsbetrag ist von seiner Pflegekasse mit befreiender Wirkung
-unmittelbar an das Pflegeheim zu zahlen. Maßgebend für die Höhe des zu
-zahlenden Leistungsbetrages ist der Leistungsbescheid der Pflegekasse,
-unabhängig davon, ob der Bescheid bestandskräftig ist oder nicht. Die
-von den Pflegekassen zu zahlenden Leistungsbeträge werden zum 15.
-eines jeden Monats fällig.
-
-(2) Heimbewohner, über deren Antrag auf Leistungen nach dem Elften
-Buch Sozialgesetzbuch am 30. Juni 1996 noch nicht entschieden worden
-ist, oder deren Kostenträger zahlen das nach § 2 Abs. 1 weitergeltende
-Heimentgelt in voller Höhe vorläufig weiter. Nach Bekanntgabe des
-Leistungsbescheides der Pflegekasse ist der darin festgelegte
-Leistungsbetrag dem Heimbewohner der seinem vorläufigen Kostenträger
-rückwirkend ab 1. Juli 1996, bei späterer Aufnahme in das Pflegeheim
-ab Beginn seines Leistungsanspruchs zu erstatten; Absatz 1 Satz 2 gilt
-entsprechend.
-
-
-#### Zweiter Abschnitt - Alternative Übergangsregelung
-
-
-
-#### § 5 Wahlrecht des Pflegeheims
-
-(1) An Stelle der Vergütungen nach dem Ersten Abschnitt kann das
-Pflegeheim für die Übergangszeit Vergütungen nach den nachfolgenden
-Vorschriften verlangen. Als Zeitpunkt für das Wirksamwerden der
-Vergütungen nach diesem Abschnitt kann das Pflegeheim einen Tag nach
-dem 30. Juni 1996 und spätestens den 1. Januar 1997
-(Umstellungszeitpunkt) wählen. Die Umstellung darf nicht für einen
-zurückliegenden Zeitraum erfolgen.
-
-(2) Hat das Pflegeheim sein Wahlrecht ausgeübt, ist es bis zum
-Inkrafttreten einer Pflegesatzvereinbarung nach dem Elften Buch
-Sozialgesetzbuch an seine Entscheidung gebunden. Das Pflegeheim hat
-die Entscheidung den nach § 85 Abs. 2 des Elften Buches
-Sozialgesetzbuch als Parteien der Pflegesatzvereinbarung
-(Vertragsparteien) beteiligten Kostenträgern unverzüglich schriftlich
-mitzuteilen. Es genügt die Mitteilung an einen als Vertragspartei
-beteiligten Kostenträger (Pflegekasse, Träger der Sozialhilfe); dieser
-stellt die unverzügliche Weiterleitung der Mitteilung an die übrigen
-als Vertragsparteien beteiligten Kostenträger sowie an die
-Landesverbände der Pflegekassen sicher.
-
-
-#### § 6 Grundsätze
-
-(1) Soweit das Pflegeheim sich für die Ermittlung der Pflegesätze nach
-den Vorschriften dieses Abschnitts entscheidet, werden die nach § 2
-Abs. 1 geltenden Heimentgelte durch folgende Teilentgelte abgelöst:
-
-1.  durch in drei Pflegeklassen abgestufte Pflegesätze für
-    pflegebedürftige Heimbewohner im Sinne des Elften Buches
-    Sozialgesetzbuch (Pflegeklassen I bis III), die in Höhe der in § 1
-    Abs. 1 genannten Beträge von den Pflegekassen zu zahlen sind, sowie
-    zusätzlich
-
-
-2.  durch einen einheitlichen Heimkostensatz, mit dem die durch die
-    Pflegesätze nicht abgegoltenen Kostenbestandteile im Heimentgelt
-    gleichmäßig auf alle Heimbewohner verteilt werden.
-
-
-
-Im übrigen gelten ergänzend zu den Regelungen in diesem Abschnitt die
-Vorschriften des Ersten Abschnitts mit Ausnahme des § 2 Abs. 1, 2 und
-3 Satz 2.
-
-(2) Die Rechtsbeziehungen zu Bewohnern von zugelassenen Pflegeheimen,
-die keinen pflegerischen Hilfebedarf haben, bleiben von den
-nachfolgenden Regelungen unberührt.
-
-(3) Bei Heimbewohnern, die pflegerischen Hilfebedarf haben, aber nach
-den Vorschriften des Elften Buches Sozialgesetzbuch nicht als
-pflegebedürftig anerkannt werden, tritt an die Stelle der Pflegesätze
-der allgemeine Vergütungssatz nach § 8 Abs. 2 Nr. 2 Buchstabe c.
-
-
-#### § 7 Grundlage für die Ermittlung der Teilentgelte nach § 6
-
-(1) Grundlage für die Ermittlung der nach § 6 Abs. 1 zu zahlenden
-Pflegesätze ist der Gesamtbetrag der Heimentgelte, die dem Pflegeheim
-für den 1. Juni 1996 für diejenigen Pflegeheimbewohner zustehen, die
-pflegerischen Hilfebedarf haben (Stichtagsbetrag). Hierbei sind nicht
-zu berücksichtigen:
-
-1.  Heimentgelte für Heimbewohner, die nicht versichert sind oder über
-    deren Antrag auf vollstationäre Pflegeleistungen nach dem Elften Buch
-    Sozialgesetzbuch von ihrer Pflegekasse oder ihrem privaten
-    Pflegeversicherungsunternehmen nicht entschieden ist,
-
-
-2.  gesonderte Zuschläge für eine besondere Unterkunft sowie für
-    Zusatzleistungen nach § 88 des Elften Buches Sozialgesetzbuch.
-
-
-
-Sofern die Zahl der Heimbewohner, über deren Antrag bereits
-entschieden ist, zusammen mit der Zahl der Heimbewohner, die keinen
-Antrag gestellt haben oder die nicht versichert sind, am 1. Juni 1996
-nicht wenigstens 75 vom Hundert aller pflegebedürftigen Heimbewohner
-beträgt, gilt als Stichtag der Tag, an dem dieser Vomhundertsatz
-erreicht ist.
-
-(2) Aus dem Stichtagsbetrag sind die darin enthaltenen Anteile für
-Investitionsaufwendungen und ihnen gleichstehende Aufwendungen im
-Sinne des § 82 Abs. 2 und 3 des Elften Buches Sozialgesetzbuch
-herauszurechnen. Von dem so bereinigten Stichtagsbetrag sind als
-Grundlage für die Ermittlung der von den Pflegekassen ab dem
-Umstellungszeitpunkt zu zahlenden Pflegesätze 65 vom Hundert
-anzusetzen (pflegesatzwirksamer Betrag).
-
-(3) Zur Ermittlung des einheitlichen Heimkostensatzes nach § 6 Abs. 1
-Satz 1 Nr. 2 wird der um den pflegesatzwirksamen Betrag geminderte
-Stichtagsbetrag durch die Zahl der nach Absatz 1 maßgeblichen
-Heimbewohner geteilt.
-
-
-#### § 8 Umrechnung des pflegesatzwirksamen Betrages in Pflegeklassen
-
-(1) Der pflegesatzwirksame Betrag ist in nach Pflegeklassen abgestufte
-Pflegesätze im Sinne des § 84 Abs. 2 Satz 2 des Elften Buches
-Sozialgesetzbuch sowie in eine allgemeine Vergütungsklasse
-umzurechnen. Dabei sind zuzuordnen:
-
-1.  den Pflegeklassen I bis III die pflegebedürftigen Heimbewohner in den
-    Pflegestufen I bis III im Sinne des Elften Buches Sozialgesetzbuch,
-    und zwar unabhängig davon, ob die Entscheidung der Pflegekasse über
-    die Einstufung bestandskräftig ist oder nicht,
-
-
-2.  der allgemeinen Vergütungsklasse die Heimbewohner, die keinen Antrag
-    auf vollstationäre Pflegeleistungen nach dem Elften Buch
-    Sozialgesetzbuch gestellt haben, obwohl sie pflegerischen Hilfebedarf
-    haben, oder deren Antrag abgelehnt worden ist.
-
-
-
-
-(2) Die Umrechnung wird wie folgt durchgeführt:
-
-1.  Der Pflegesatz in der Pflegeklasse I für die Heimbewohner in der
-    Pflegestufe I wird dadurch ermittelt, daß der pflegesatzwirksame
-    Betrag durch die Zahl geteilt wird, die sich aus der Addition der Zahl
-    der Heimbewohner in der Pflegestufe I, der mit 1,4 vervielfältigten
-    Zahl der Heimbewohner in der Pflegestufe II, der mit 2,1
-    vervielfältigten Zahl der Heimbewohner in der Pflegestufe III und der
-    mit 0,7 vervielfältigten Zahl der Heimbewohner der allgemeinen
-    Vergütungsklasse ergibt.
-
-
-2.  Der Pflegesatz beträgt:
-
-    a)  in der Pflegeklasse II für die Heimbewohner in der Pflegestufe II das
-        1,4fache,
-
-
-    b)  in der Pflegeklasse III für die Heimbewohner der Pflegestufe III das
-        2,1fache
-
-
-    c)  in der allgemeinen Vergütungsklasse für Heimbewohner nach § 8 Abs. 1
-        Nr. 2 das 0,7fache
-
-
-
-
-    des Pflegesatzes der Pflegestufe I.
-
-
-
-
-
-#### § 9 Ermittlung und Zahlung des neuen Heimentgeltes
-
-(1) Das ab dem Umstellungszeitpunkt von dem einzelnen Heimbewohner
-oder seinen Kostenträgern zu zahlende Heimentgelt ergibt sich aus der
-Addition des Pflege- oder Vergütungssatzes in der für ihn nach § 8
-Abs. 2 maßgeblichen Pflege- oder Vergütungsklasse und des nach § 7
-Abs. 3 ermittelten einheitlichen Heimkostensatzes zuzüglich der
-gesonderten Zuschläge nach § 7 Abs. 1 Satz 2 Nr. 2.
-
-(2) Heimbewohner, über deren Antrag auf Leistungen nach dem Elften
-Buch Sozialgesetzbuch am 30. Juni 1996 noch nicht entschieden worden
-ist, oder deren Kostenträger zahlen das bisherige Heimentgelt
-vorläufig weiter. Das gleiche gilt für Heimbewohner in Pflegeheimen,
-deren Stichtag gemäß § 7 Abs. 1 auf ein Datum nach dem 30. Juni 1996
-fällt. Nach Wirksamwerden der neuen Pflegesätze und Heimkostensätze im
-Sinne des § 6 Abs. 1 sind die Differenzbeträge zugunsten oder zu
-Lasten des Pflegebedürftigen rückwirkend ab dem Umstellungszeitpunkt,
-bei späterer Aufnahme in das Pflegeheim ab Beginn seines
-Leistungsanspruchs zu verrechnen.
-
-(3) Heimbewohner, die keinen Antrag auf vollstationäre
-Pflegeleistungen nach § 43 des Elften Buches Sozialgesetzbuch gestellt
-haben, obwohl sie pflegerischen Hilfebedarf haben, oder deren Antrag
-abgelehnt worden ist, oder deren Kostenträger zahlen ab dem
-Umstellungszeitpunkt den allgemeinen Vergütungssatz und den
-einheitlichen Heimkostensatz; Absatz 2 Satz 3 gilt entsprechend.
-
-
-#### § 10 Pflichten der Beteiligten
-
-(1) Das Pflegeheim teilt den nach § 85 Abs. 2 des Elften Buches
-Sozialgesetzbuch als Parteien der Pflegesatzvereinbarung
-(Vertragsparteien) beteiligten Kostenträgern spätestens vier Wochen
-vor dem Umstellungszeitpunkt die von ihm nach § 8 Abs. 2 ermittelten
-Pflegesätze in den Pflegeklassen I bis III und in der allgemeinen
-Vergütungsklasse sowie die nach § 7 Abs. 3 ermittelten einheitlichen
-Heimkostensätze zusammen mit folgenden Angaben mit, die durch
-geeignete Unterlagen zu belegen sind:
-
-1.  die bisher zu entrichtenden Heimentgelte mit gesondertem Ausweis von
-    Zuschlägen im Sinne des § 7 Abs. 1 Nr. 2,
-
-
-2.  die Aufteilung der nach § 7 Abs. 1 maßgeblichen Heimbewohnerzahl
-    entsprechend ihrer bisherigen Einstufung,
-
-
-3.  den Stichtagsbetrag (§ 7 Abs. 1).,
-
-
-4.  die Höhe der in dem Stichtagsbetrag enthaltenen Anteile für
-    Investitionsaufwendungen und diesen gleichstehende Aufwendungen (§ 7
-    Abs. 2 Satz 1),
-
-
-5.  den pflegesatzwirksamen Betrag (§ 7 Abs. 2 Satz 2),
-
-
-6.  die Gesamtzahl der Heimbewohner am Stichtag (§ 7 Abs. 1) sowie ihre
-    Aufteilung in
-
-    a)  Heimbewohner, die keinen Antrag auf Pflegeleistungen nach § 43 des
-        Elften Buches Sozialgesetzbuch gestellt haben,
-
-
-    b)  Heimbewohner, die einen Antrag gestellt haben, aber am Stichtag noch
-        nicht begutachtet worden sind,
-
-
-    c)  Heimbewohner, deren Antrag abgelehnt worden ist,
-
-
-    d)  Heimbewohner, die in die Pflegestufe I, II oder III eingestuft worden
-        sind.
-
-
-
-
-
-
-Es genügt die Mitteilung an eine als Vertragspartei beteiligte
-Pflegekasse; diese stellt die unverzügliche Weiterleitung der
-Mitteilung an die übrigen als Vertragsparteien beteiligten
-Kostenträger sowie an die Landesverbände der Pflegekassen sicher.
-
-(2) Über Beanstandungen der von dem Pflegeheim nach Absatz 1
-übermittelten Angaben befinden die Parteien nach § 85 Abs. 2 des
-Elften Buches Sozialgesetzbuch mit Mehrheit.
-
-
-### Art 49b - Begrenzung der Vergütung vollstationärer Pflegeeinrichtungen in den Jahren 1996 bis 1998
-
-Die nach Artikel 49a während der Übergangszeit vom 1. Juli 1996 bis
-zum 31. Dezember 1997 geltenden Heimentgelte sowie die für die Zeit
-nach dem 30. Juni 1996 nach dem Elften Buch Sozialgesetzbuch
-vereinbarten oder festgesetzten Heimentgelte dürfen in den Jahren
-1996, 1997 und 1998 jährlich nicht höher steigen als zwei vom Hundert
-im Beitrittsgebiet und ein vom Hundert im übrigen Bundesgebiet. In
-begründeten Einzelfällen, insbesondere um den Nachholbedarf bei der
-Anpassung der Personalstruktur zu berücksichtigen, kann im
-Beitrittsgebiet der jährliche Steigerungssatz um bis zu 0,5 vom
-Hundert erhöht werden. Werden nach dem 31. Dezember 1995 für
-Einrichtungen oder für Teile von Einrichtungen erstmals Vereinbarungen
-abgeschlossen, sind als Basis die Vereinbarungen des Jahres 1995 von
-vergleichbaren Einrichtungen zugrunde zu legen. Wird im Einvernehmen
-mit dem Träger der Sozialhilfe, mit dem eine Vereinbarung besteht, der
-Zweck der Einrichtung wesentlich geändert oder werden erhebliche
-bauliche Investitionen vorgenommen, gilt Satz 2 entsprechend. Werden
-nach dem 31. Dezember 1995 erstmals unterschiedliche Pflegesätze für
-einzelne Leistungsbereiche oder Leistungsangebote mit einer
-Einrichtung vereinbart, dürfen die sich hieraus ergebenden
-Veränderungen den Rahmen nicht übersteigen, der sich aus einer
-einheitlichen Veranlagung der Gesamtleistungsangebote nach Satz 1
-ergeben würde.
 
 
 ### Art 50 - Übergangsregelung zum Bundessozialhilfegesetz, Bundesversorgungsgesetz und Lastenausgleichsgesetz
@@ -832,18 +402,8 @@ anhand der entsprechenden Unterlagen jährlich in einem vereinfachten
 Verfahren nachzuweisen.
 
 
-### Art 52a - Durchführungsvorschrift zu Artikel 52
+### Art 52a - (weggefallen)
 
-(1) Der Bund richtet für die Finanzhilfen nach Artikel 52
-Verwahrkonten bei den Bundeskassen ein, auf die er die Jahrestranchen
-zur eigenen Bewirtschaftung durch die Länder überträgt.
-
-(2) Die Minister und Senatoren der Länder sind ermächtigt, die
-zuständigen Bundeskassen zur Auszahlung der benötigten Finanzhilfen
-anzuweisen, sobald die Bundesmittel zur anteiligen Begleichung
-fälliger Zahlungen benötigt werden. Die Länder leiten die Finanzhilfen
-unverzüglich, spätestens innerhalb von 30 Tagen, an die Letztempfänger
-weiter.
 
 
 ## Fünfter Teil - Änderung der Entgeltfortzahlung an Feiertagen und im Krankheitsfall
@@ -854,15 +414,15 @@ weiter.
 
 
 
-### Art 54 bis 61
+### Art 54 bis 61 - 
 
 
 
-### Art 62
+### Art 62 - 
 
 
 
-### Art 63 bis 65
+### Art 63 bis 65 - 
 
 
 
@@ -925,7 +485,7 @@ Artikel 1 § 46 Abs. 1, 2, 5 und 6, §§ 47, 52, 53, 93 bis 108, Artikel
 5 Nr. 5 und Artikel 43, 46, 52 bis 67.
 
 
-### Art 69 - Inkrafttreten der stationären Pflege
+### Art 69 - (weggefallen)
 
 -
 

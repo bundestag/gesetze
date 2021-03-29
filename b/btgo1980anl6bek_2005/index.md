@@ -1,6 +1,6 @@
 ---
-Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages
-  betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze
+Title: Bekanntmachung über die Übernahme des Beschlusses des Deutschen  Bundestages
+  betr. Aufhebung der Immunität von Mitgliedern des Bundestages und  der Grundsätze
   in Immunitätsangelegenheiten
 jurabk: BTGO1980Anl6Bek 2005
 layout: default
@@ -9,7 +9,7 @@ slug: btgo1980anl6bek_2005
 
 ---
 
-# Bekanntmachung über die Übernahme des Beschlusses des Deutschen Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und der Grundsätze in Immunitätsangelegenheiten (BTGO1980Anl6Bek 2005)
+# Bekanntmachung über die Übernahme des Beschlusses des Deutschen  Bundestages betr. Aufhebung der Immunität von Mitgliedern des Bundestages und  der Grundsätze in Immunitätsangelegenheiten (BTGO1980Anl6Bek 2005)
 
 Ausfertigungsdatum
 :   2005-12-28

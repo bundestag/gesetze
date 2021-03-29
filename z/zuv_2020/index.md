@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1921
 
+Geändert durch
+:   Art. 2 V v. 13.7.2017 I 2354
+
 
 ## Eingangsformel
 
@@ -35,13 +38,12 @@ Diese Verordnung gilt im Anwendungsbereich des Treibhausgas-
 Emissionshandelsgesetzes. Sie dient
 
 1.  der nationalen Umsetzung des Beschlusses
-    2011/278/EU                    der Kommission vom 27. April 2011 zur
-    Festlegung EU-weiter Übergangsvorschriften zur Harmonisierung der
-    kostenlosen Zuteilung von Emissionszertifikaten gemäß Artikel 10a der
-    Richtlinie 2003/87/EG des Europäischen Parlaments und des Rates (ABl.
-    L 130 vom 17.5.2011, S. 1) sowie der Festlegung der Angaben, die im
-    Zuteilungsverfahren nach § 9 des Treibhausgas-Emissionshandelsgesetzes
-    zu fordern sind, und
+    2011/278/EU der Kommission vom 27. April 2011 zur Festlegung EU-weiter
+    Übergangsvorschriften zur Harmonisierung der kostenlosen Zuteilung von
+    Emissionszertifikaten gemäß Artikel 10a der Richtlinie 2003/87/EG des
+    Europäischen Parlaments und des Rates (ABl. L 130 vom 17.5.2011, S. 1)
+    sowie der Festlegung der Angaben, die im Zuteilungsverfahren nach § 9
+    des Treibhausgas-Emissionshandelsgesetzes zu fordern sind, und
 
 
 2.  der Konkretisierung der Anforderungen nach den §§ 8, 24 und 27 des
@@ -169,19 +171,17 @@ Begriffsbestimmungen:
 13. Prodcom-Code 2007
 
     Code gemäß Anhang der Verordnung (EG)
-    Nr. 1165/2007                    der Kommission vom 3. September 2007
-    zur Erstellung der „Prodcom-Liste“ der Industrieprodukte für 2007
-    gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 268 vom
-    12\.10.2007, S. 1);
+    Nr. 1165/2007 der Kommission vom 3. September 2007 zur Erstellung der
+    „Prodcom-Liste“ der Industrieprodukte für 2007 gemäß der Verordnung
+    (EWG) Nr. 3924/91 des Rates (ABl. L 268 vom 12.10.2007, S. 1);
 
 
 14. Prodcom-Code 2010
 
     Code gemäß Anhang der Verordnung (EU)
-    Nr. 860/2010                    der Kommission vom 10. September 2010
-    zur Erstellung der „Prodcom-Liste“ der Industrieprodukte für 2010
-    gemäß der Verordnung (EWG) Nr. 3924/91 des Rates (ABl. L 262 vom
-    5\.10.2010, S. 1);
+    Nr. 860/2010 der Kommission vom 10. September 2010 zur Erstellung der
+    „Prodcom-Liste“ der Industrieprodukte für 2010 gemäß der Verordnung
+    (EWG) Nr. 3924/91 des Rates (ABl. L 262 vom 5.10.2010, S. 1);
 
 
 15. Produkt-Emissionswert
@@ -227,9 +227,9 @@ Begriffsbestimmungen:
     24\. Dezember 2009 zur Festlegung eines Verzeichnisses der Sektoren und
     Teilsektoren, von denen angenommen wird, dass sie einem erheblichen
     Risiko einer Verlagerung von CO
-    2                   -Emissionen ausgesetzt sind, gemäß der Richtlinie
-    2003/87/EG des Europäischen Parlaments und des Rates (ABl. L 1 vom
-    5\.1.2010, S. 10) in der jeweils geltenden Fassung;
+    2-Emissionen ausgesetzt sind, gemäß der Richtlinie 2003/87/EG des
+    Europäischen Parlaments und des Rates (ABl. L 1 vom 5.1.2010, S. 10)
+    in der jeweils geltenden Fassung;
 
 
 20. stillgelegte Kapazität
@@ -254,8 +254,8 @@ Begriffsbestimmungen:
     Wärmezähler im Sinne des Anhangs MI-004 der Richtlinie 2004/22/EG des
     Europäischen Parlaments und des Rates vom 31. März 2004 über
     Messgeräte (ABl. L 135 vom 30.4.2004, S. 1), die zuletzt durch
-    die Richtlinie                    2009/137/EG (ABl. L 294 vom
-    11\.11.2009, S. 7) geändert worden ist;
+    die Richtlinie 2009/137/EG (ABl. L 294 vom 11.11.2009, S. 7) geändert
+    worden ist;
 
 
 23. wesentliche Kapazitätsänderung
@@ -944,9 +944,9 @@ unterem Heizwert in dem nach Absatz 1 gewählten Bezugszeitraum.
 
 (5) Die maßgebliche Aktivitätsrate für ein Zuteilungselement mit
 Prozessemissionen ist der Medianwert
-der in              Tonnen Kohlendioxid-Äquivalent angegebenen
-Jahreswerte der nach § 2 Nummer 29 einbezogenen Prozessemissionen in
-dem nach Absatz 1 gewählten Bezugszeitraum.
+der in Tonnen Kohlendioxid-Äquivalent angegebenen Jahreswerte der nach
+§ 2 Nummer 29 einbezogenen Prozessemissionen in dem nach Absatz 1
+gewählten Bezugszeitraum.
 
 (6) Zur Bestimmung der Medianwerte nach den Absätzen 2 bis 5 werden
 nur die Kalenderjahre berücksichtigt, in denen die Anlage an
@@ -1476,8 +1476,8 @@ zu machen:
 (4) Die installierte Anfangskapazität für Neuanlagen entspricht für
 jedes Zuteilungselement abweichend von § 4 dem Durchschnitt der zwei
 höchsten Monatsproduktionsmengen innerhalb des durchgängigen
-90-Tage-Zeitraums,              auf dessen Grundlage die Aufnahme des
-Regelbetriebs bestimmt wird, hochgerechnet auf ein Kalenderjahr.
+90-Tage-Zeitraums, auf dessen Grundlage die Aufnahme des Regelbetriebs
+bestimmt wird, hochgerechnet auf ein Kalenderjahr.
 
 (5) Die zuständige Behörde bestätigt unverzüglich den Eingang des
 Antrags und der beigefügten Unterlagen und Nachweise. Im Fall einer
@@ -2170,12 +2170,57 @@ fahrlässig
 
 
 
-### § 32 Inkrafttreten
+### § 32 Übergangsregelung zur Einbeziehung von Polymerisationsanlagen
+
+Für Polymerisationsanlagen gelten für die Jahre 2018 bis 2020 folgende
+Übergangsregelungen:
+
+1.  Als Bestandsanlage gelten alle Anlagen, denen vor dem 1. Juli 2011
+    eine Genehmigung zur Emission von Treibhausgasen erteilt wurde; als
+    Neuanlage gelten alle Anlagen, denen zum ersten Mal nach dem 30. Juni
+    2011 eine Genehmigung zur Emission von Treibhausgasen erteilt wurde.
+
+
+2.  Abweichend von § 16 Absatz 1 sind Anträge auf kostenlose Zuteilung von
+    Berechtigungen für neue Marktteilnehmer, die ihren Regelbetrieb oder
+    ihren geänderten Betrieb in dem Zeitraum vom 1. Juli 2011 bis zum 30.
+    September 2016 aufgenommen haben, bis zum Ablauf der Frist nach § 36
+    Absatz 3 des Treibhausgas-Emissionshandelsgesetzes zu stellen.
+
+
+3.  Abweichend von § 18 Absatz 4 werden für Emissionen der
+    Zuteilungselemente, die vor Aufnahme des Regelbetriebs erfolgt sind,
+    zusätzliche Berechtigungen nur zugeteilt, wenn die Emissionen nach dem
+    31\. Dezember 2017 erfolgt sind.
+
+
+4.  Abweichend von § 21 Absatz 2 Satz 1 hebt die zuständige Behörde die
+    Entscheidung über die Zuteilung von Berechtigungen an eine Anlage, die
+    ihren Betrieb teilweise einstellt, ab dem auf die teilweise
+    Betriebseinstellung folgenden Kalenderjahr, bei teilweisen
+    Betriebseinstellungen vor dem 1. Januar 2017 ab dem Jahr 2018, von
+    Amts wegen auf und passt die Zuteilung nach den Vorgaben nach § 21 an.
+
+
+5.  Abweichend von § 22 Absatz 1 hat der Anlagenbetreiber der zuständigen
+    Behörde alle relevanten Informationen über geplante oder tatsächliche
+    Änderungen der Kapazität, der Aktivitätsraten und des Betriebs der
+    Anlage bis zum 31. Januar des Folgejahres, erstmals zum 31. Januar
+    2018, mitzuteilen.
+
+
+
+
+
+### § 33 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3
+Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5
+Buchstabe c, § 23 Absatz 4 Satz 2)
 
-### Anhang 1 (zu § 5 Absatz 1 Nummer 4 Buchstabe e, § 6 Absatz 6, § 10 Absatz 3 Satz 1, §§ 12, 13 Satz 1, § 15 Absatz 4 Satz 3, § 16 Absatz 2 Nummer 5 Buchstabe c, § 23 Absatz 4 Satz 2) Anwendung besonderer Zuteilungsregeln
+### Anhang 1 Anwendung besonderer Zuteilungsregeln
 
 (Fundstelle: BGBl. I 2011, 1938- 1939)
 
@@ -2216,29 +2261,27 @@ indirekt indirekte Emissionen aus dem Verbrauch von Strom innerhalb der
     HAR
 cWP,insg.,k historische Aktivitätsrate für die Gesamtproduktion an chemischen
     Wertprodukten im Jahr
-    k                    des gewählten Bezugszeitraums, ausgedrückt in
-    Tonnen chemische Wertprodukte;
+    k des gewählten Bezugszeitraums, ausgedrückt in Tonnen chemische
+    Wertprodukte;
 
 
     HZE
 H,k historische Wasserstoff-Produktion aus zusätzlichen Einsatzstoffen im
     Jahr
-    k                    des gewählten Bezugszeitraums, ausgedrückt in
-    Tonnen Wasserstoff;
+    k des gewählten Bezugszeitraums, ausgedrückt in Tonnen Wasserstoff;
 
 
     HZE
 E,k historische Ethen-Produktion aus zusätzlichen Einsatzstoffen im Jahr
-    k                    des gewählten Bezugszeitraums, ausgedrückt in
-    Tonnen Ethen;
+    k des gewählten Bezugszeitraums, ausgedrückt in Tonnen Ethen;
 
 
     HZE
 O,k historische Produktion anderer chemischer Wertprodukte aus
     zusätzlichen Einsatzstoffen im Jahr
-    k                    des gewählten Bezugszeitraums, ausgedrückt in
-    Tonnen anderer chemischer Wertprodukte, hier als Summe der Massen von
-    Ethin, Propen, Butadien und Benzol.
+    k des gewählten Bezugszeitraums, ausgedrückt in Tonnen anderer
+    chemischer Wertprodukte, hier als Summe der Massen von Ethin, Propen,
+    Butadien und Benzol.
 
 
 
@@ -2364,17 +2407,17 @@ Zuordnung der Eingangsströme und Emissionen
     Sofern diese Angaben nicht vorliegen oder nicht ermittelt werden
     können, ist für
     *
-    Q                    ein Wert von 0,7, für
+    Q ein Wert von 0,7, für
     *
-    el                    ein Wert von 0,525 anzunehmen.
+    el ein Wert von 0,525 anzunehmen.
 
 
 3.  Zur Anwendung der Formel nach Nummer 1 gelten für
     *
-    Q,ref                    und
+    Q,ref und
     *
-    el,ref                    die folgenden Referenzwirkungsgrad-Werte der
-    getrennten Strom- und Wärmeerzeugung:
+    el,ref die folgenden Referenzwirkungsgrad-Werte der getrennten Strom-
+    und Wärmeerzeugung:
 
     *        *
         *   Steinkohle, Koks und sonstige feste
@@ -2442,8 +2485,9 @@ Zuordnung der Eingangsströme und Emissionen
 
 
 
+(zu § 7 Absatz 3)
 
-### Anhang 2 (zu § 7 Absatz 3) Anforderungen an die sachverständigen Stellen und die Prüfung
+### Anhang 2 Anforderungen an die sachverständigen Stellen und die Prüfung
 
 (Fundstelle: BGBl. I 2011, 1940 - 1941)
 

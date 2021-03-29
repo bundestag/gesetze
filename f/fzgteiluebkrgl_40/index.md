@@ -4,7 +4,7 @@ Title: Regelung Nr. 40 - Einheitliche Vorschriften für die Genehmigung der Kraf
   Fremdzündung
 jurabk: FzgTeilÜbkRgl 40
 layout: default
-origslug: fzgteil_bkrgl_40
+origslug: fzgteiluebkrgl_40
 slug: fzgteiluebkrgl_40
 
 ---

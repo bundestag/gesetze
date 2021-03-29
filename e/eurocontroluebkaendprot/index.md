@@ -3,7 +3,7 @@ Title: Protokoll zur Änderung des Internationalen Übereinkommens über Zusamme
   zur Sicherung der Luftfahrt "EUROCONTROL" vom 13. Dezember 1960
 jurabk: EUROCONTROLÜbkÄndProt
 layout: default
-origslug: eurocontrol_bk_ndprot
+origslug: eurocontroluebkaendprot
 slug: eurocontroluebkaendprot
 
 ---

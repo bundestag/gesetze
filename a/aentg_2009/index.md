@@ -17,8 +17,9 @@ Fundstelle
 :   BGBl I: 2009, 799
 
 Zuletzt geändert durch
-:   Art. 1c G v. 25.11.2012 II 1381
+:   Art. 2 Abs. 5 G v. 18.7.2017 I 2739
 
+Stand: Außerkrafttreten gem. Art. 15 Abs. 2 G v. 11.8.2014 I 1348 ist berücksichtigt
 
 ## Eingangsformel
 
@@ -35,7 +36,8 @@ Ziele des Gesetzes sind die Schaffung und Durchsetzung angemessener
 Mindestarbeitsbedingungen für grenzüberschreitend entsandte und für
 regelmäßig im Inland beschäftigte Arbeitnehmer und Arbeitnehmerinnen
 sowie die Gewährleistung fairer und funktionierender
-Wettbewerbsbedingungen. Dadurch sollen zugleich
+Wettbewerbsbedingungen durch die Erstreckung der Rechtsnormen von
+Branchentarifverträgen. Dadurch sollen zugleich
 sozialversicherungspflichtige Beschäftigung erhalten und die Ordnungs-
 und Befriedungsfunktion der Tarifautonomie gewahrt werden.
 
@@ -88,17 +90,18 @@ Die Rechtsnormen eines bundesweiten Tarifvertrages finden unter den
 Voraussetzungen der §§ 4 bis 6 auch auf Arbeitsverhältnisse zwischen
 einem Arbeitgeber mit Sitz im Ausland und seinen im räumlichen
 Geltungsbereich dieses Tarifvertrages beschäftigten Arbeitnehmern und
-Arbeitnehmerinnen zwingend Anwendung, wenn der Tarifvertrag für
-allgemeinverbindlich erklärt ist oder eine Rechtsverordnung nach § 7
-vorliegt. Eines bundesweiten Tarifvertrages bedarf es nicht, soweit
+Arbeitnehmerinnen zwingend Anwendung, wenn der Tarifvertrag als
+Tarifvertrag nach § 4 Absatz 1 Nummer 1 für allgemeinverbindlich
+erklärt ist oder eine Rechtsverordnung nach § 7 oder § 7a vorliegt.
+Eines bundesweiten Tarifvertrages bedarf es nicht, soweit
 Arbeitsbedingungen im Sinne des § 5 Nr. 2 oder 3 Gegenstand
 tarifvertraglicher Regelungen sind, die zusammengefasst räumlich den
 gesamten Geltungsbereich dieses Gesetzes abdecken.
 
 
-### § 4 Einbezogene Branchen
+### § 4 Branchen
 
-§ 3 gilt für Tarifverträge
+(1) § 3 gilt für Tarifverträge
 
 1.  des Bauhauptgewerbes oder des Baunebengewerbes im Sinne der
     Baubetriebe-Verordnung vom 28. Oktober 1980 (BGBl. I S. 2033), zuletzt
@@ -122,15 +125,23 @@ gesamten Geltungsbereich dieses Gesetzes abdecken.
 6.  für Wäschereidienstleistungen im Objektkundengeschäft,
 
 
-7.  der Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst
-    und
+7.  der Abfallwirtschaft einschließlich Straßenreinigung und Winterdienst,
 
 
 8.  für Aus- und Weiterbildungsdienstleistungen nach dem Zweiten oder
-    Dritten Buch Sozialgesetzbuch.
+    Dritten Buch Sozialgesetzbuch und
+
+
+9.  für Schlachten und Fleischverarbeitung.
 
 
 
+
+(2) § 3 gilt darüber hinaus für Tarifverträge aller anderen als der in
+Absatz 1 genannten Branchen, wenn die Erstreckung der Rechtsnormen des
+Tarifvertrages im öffentlichen Interesse geboten erscheint, um die in
+§ 1 genannten Gesetzesziele zu erreichen und dabei insbesondere einem
+Verdrängungswettbewerb über die Lohnkosten entgegen zu wirken.
 
 
 ### § 5 Arbeitsbedingungen
@@ -163,6 +174,9 @@ Gegenstand eines Tarifvertrages nach § 3 können sein
 
 
 
+Die Arbeitsbedingungen nach Satz 1 Nummer 1 bis 3 umfassen auch
+Regelungen zur Fälligkeit entsprechender Ansprüche einschließlich
+hierzu vereinbarter Ausnahmen und deren Voraussetzungen.
 
 
 ### § 6 Besondere Regelungen
@@ -176,72 +190,85 @@ der Entsendung acht Tage nicht übersteigt. Satz 1 gilt nicht für
 Bauleistungen im Sinne des § 101 Abs. 2 des Dritten Buches
 Sozialgesetzbuch und nicht für Arbeitsbedingungen nach § 5 Nr. 4.
 
-(2) Im Falle eines Tarifvertrages nach § 4 Nr. 1 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(2) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 1 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung im Sinne des fachlichen Geltungsbereichs des
 Tarifvertrages überwiegend Bauleistungen gemäß § 101 Abs. 2 des
 Dritten Buches Sozialgesetzbuch erbringt.
 
-(3) Im Falle eines Tarifvertrages nach § 4 Nr. 2 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(3) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 2 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung überwiegend Gebäudereinigungsleistungen erbringt.
 
-(4) Im Falle eines Tarifvertrages nach § 4 Nr. 3 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(4) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 3 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung überwiegend gewerbs- oder geschäftsmäßig
 Briefsendungen für Dritte befördert.
 
-(5) Im Falle eines Tarifvertrages nach § 4 Nr. 4 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(5) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 4 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung überwiegend Dienstleistungen des Bewachungs- und
 Sicherheitsgewerbes oder Kontroll- und Ordnungsdienste erbringt, die
 dem Schutz von Rechtsgütern aller Art, insbesondere von Leben,
 Gesundheit oder Eigentum dienen.
 
-(6) Im Falle eines Tarifvertrages nach § 4 Nr. 5 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(6) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 5 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung im Auftrag eines Dritten überwiegend auf
 inländischen Steinkohlebergwerken Grubenräume erstellt oder sonstige
 untertägige bergbauliche Spezialarbeiten ausführt.
 
-(7) Im Falle eines Tarifvertrages nach § 4 Nr. 6 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(7) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 6 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung gewerbsmäßig überwiegend Textilien für gewerbliche
 Kunden sowie öffentlich-rechtliche oder kirchliche Einrichtungen
 wäscht, unabhängig davon, ob die Wäsche im Eigentum der Wäscherei oder
 des Kunden steht. Dieser Abschnitt findet keine Anwendung auf
 Wäschereidienstleistungen, die von Werkstätten für behinderte Menschen
-im Sinne des § 136 des Neunten Buches Sozialgesetzbuch erbracht
+im Sinne des § 219 des Neunten Buches Sozialgesetzbuch erbracht
 werden.
 
-(8) Im Falle eines Tarifvertrages nach § 4 Nr. 7 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(8) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 7 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung überwiegend Abfälle im Sinne des § 3 Absatz 1 Satz 1
 des Kreislaufwirtschaftsgesetzes sammelt, befördert, lagert, beseitigt
 oder verwertet oder Dienstleistungen des Kehrens und Reinigens
 öffentlicher Verkehrsflächen und Schnee- und Eisbeseitigung von
 öffentlichen Verkehrsflächen einschließlich Streudienste erbringt.
 
-(9) Im Falle eines Tarifvertrages nach § 4 Nr. 8 findet dieser
-Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
+(9) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nr. 8 findet
+dieser Abschnitt Anwendung, wenn der Betrieb oder die selbstständige
 Betriebsabteilung überwiegend Aus- und Weiterbildungsmaßnahmen nach
 dem Zweiten oder Dritten Buch Sozialgesetzbuch durchführt. Ausgenommen
-sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 35
-Abs. 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
+sind Einrichtungen der beruflichen Rehabilitation im Sinne des § 51
+Absatz 1 Satz 1 des Neunten Buches Sozialgesetzbuch.
+
+(10) Im Falle eines Tarifvertrages nach § 4 Absatz 1 Nummer 9 findet
+dieser Abschnitt Anwendung in Betrieben und selbstständigen
+Betriebsabteilungen, in denen überwiegend geschlachtet oder Fleisch
+verarbeitet wird (Betriebe der Fleischwirtschaft) sowie in Betrieben
+und selbstständigen Betriebsabteilungen, die ihre Arbeitnehmer und
+Arbeitnehmerinnen überwiegend in Betrieben der Fleischwirtschaft
+einsetzen. Das Schlachten umfasst dabei alle Tätigkeiten des
+Schlachtens und Zerlegens von Tieren mit Ausnahme von Fischen. Die
+Verarbeitung umfasst alle Tätigkeiten der Weiterverarbeitung von beim
+Schlachten gewonnenen Fleischprodukten zur Herstellung von
+Nahrungsmitteln sowie deren Portionierung und Verpackung. Nicht
+erfasst ist die Verarbeitung, wenn die Behandlung, die Portionierung
+oder die Verpackung beim Schlachten gewonnener Fleischprodukte direkt
+auf Anforderung des Endverbrauchers erfolgt.
 
 
-### § 7 Rechtsverordnung
+### § 7 Rechtsverordnung für die Fälle des § 4 Absatz 1
 
-(1) Ist für einen Tarifvertrag im Sinne dieses Abschnitts ein
-gemeinsamer Antrag der Parteien dieses Tarifvertrages auf
-Allgemeinverbindlicherklärung gestellt, kann das Bundesministerium für
+(1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne
+von § 4 Absatz 1 sowie §§ 5 und 6 kann das Bundesministerium für
 Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des
 Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf
 alle unter seinen Geltungsbereich fallenden und nicht an ihn
 gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen
-Anwendung finden. § 5 Abs. 1 Satz 1 Nr. 2 des Tarifvertragsgesetzes
-findet entsprechend Anwendung. Satz 1 gilt nicht für tarifvertragliche
-Arbeitsbedingungen nach § 5 Nr. 4.
+Anwendung finden, wenn dies im öffentlichen Interesse geboten
+erscheint, um die in § 1 genannten Gesetzesziele zu erreichen.
 
 (2) Kommen in einer Branche mehrere Tarifverträge mit zumindest
 teilweise demselben fachlichen Geltungsbereich zur Anwendung, hat der
@@ -272,59 +299,111 @@ Grundrechtsinteressen zu einem schonenden Ausgleich zu bringen.
 Arbeit und Soziales den in den Geltungsbereich der Rechtsverordnung
 fallenden Arbeitgebern sowie Arbeitnehmern und Arbeitnehmerinnen, den
 Parteien des Tarifvertrages sowie in den Fällen des Absatzes 2 den
-Parteien anderer Tarifverträge Gelegenheit zur schriftlichen
+Parteien anderer Tarifverträge und paritätisch besetzten Kommissionen,
+die auf der Grundlage kirchlichen Rechts Arbeitsbedingungen für den
+Bereich kirchlicher Arbeitgeber zumindest teilweise im Geltungsbereich
+der Rechtsverordnung festlegen, Gelegenheit zur schriftlichen
 Stellungnahme innerhalb von drei Wochen ab dem Tag der Bekanntmachung
 des Entwurfs der Rechtsverordnung.
 
-(5) Wird erstmals ein Antrag nach Absatz 1 gestellt, wird der Antrag
-im Bundesanzeiger veröffentlicht und mit ihm der Ausschuss nach § 5
-Abs. 1 Satz 1 des Tarifvertragsgesetzes (Tarifausschuss) befasst.
-Stimmen mindestens vier Ausschussmitglieder für den Antrag oder gibt
-der Tarifausschuss innerhalb von drei Monaten keine Stellungnahme ab,
-kann eine Rechtsverordnung nach Absatz 1 erlassen werden. Stimmen zwei
-oder drei Ausschussmitglieder für den Antrag, kann eine
-Rechtsverordnung nur von der Bundesregierung erlassen werden. Die
-Sätze 1 bis 3 gelten nicht für Tarifverträge nach § 4 Nr. 1 bis 3.
+(5) Wird in einer Branche nach § 4 Absatz 1 erstmals ein Antrag nach
+Absatz 1 gestellt, wird nach Ablauf der Frist nach Absatz 4 der
+Ausschuss nach § 5 Absatz 1 Satz 1 des Tarifvertragsgesetzes
+(Tarifausschuss) befasst. Stimmen mindestens vier Ausschussmitglieder
+für den Antrag oder gibt der Tarifausschuss innerhalb von zwei Monaten
+keine Stellungnahme ab, kann eine Rechtsverordnung nach Absatz 1
+erlassen werden. Stimmen zwei oder drei Ausschussmitglieder für den
+Antrag, kann eine Rechtsverordnung nur von der Bundesregierung
+erlassen werden. Die Sätze 1 bis 3 gelten nicht für Tarifverträge nach
+§ 4 Absatz 1 Nummer 1 bis 8.
+
+
+### § 7a Rechtsverordnung für die Fälle des § 4 Absatz 2
+
+(1) Auf gemeinsamen Antrag der Parteien eines Tarifvertrages im Sinne
+von § 4 Absatz 2 sowie §§ 5 und 6 Absatz 1 kann das Bundesministerium
+für Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des
+Bundesrates bestimmen, dass die Rechtsnormen dieses Tarifvertrages auf
+alle unter seinen Geltungsbereich fallenden und nicht an ihn
+gebundenen Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen
+Anwendung finden, wenn dies im öffentlichen Interesse geboten
+erscheint, um die in § 1 genannten Gesetzesziele zu erreichen und
+dabei insbesondere einem Verdrängungswettbewerb über die Lohnkosten
+entgegenzuwirken.
+
+(2) § 7 Absatz 2 und 3 findet entsprechende Anwendung.
+
+(3) Vor Erlass der Rechtsverordnung gibt das Bundesministerium für
+Arbeit und Soziales den in den Geltungsbereich der Rechtsverordnung
+fallenden und den möglicherweise von ihr betroffenen Arbeitgebern
+sowie Arbeitnehmern und Arbeitnehmerinnen, den Parteien des
+Tarifvertrages sowie allen am Ausgang des Verfahrens interessierten
+Gewerkschaften, Vereinigungen der Arbeitgeber und paritätisch
+besetzten Kommissionen, die auf der Grundlage kirchlichen Rechts
+Arbeitsbedingungen für den Bereich kirchlicher Arbeitgeber festlegen,
+Gelegenheit zur schriftlichen Stellungnahme innerhalb von drei Wochen
+ab dem Tag der Bekanntmachung des Entwurfs der Rechtsverordnung. Die
+Gelegenheit zur Stellungnahme umfasst insbesondere auch die Frage,
+inwieweit eine Erstreckung der Rechtsnormen des Tarifvertrages
+geeignet ist, die in § 1 genannten Gesetzesziele zu erfüllen und dabei
+insbesondere einem Verdrängungswettbewerb über die Lohnkosten
+entgegenzuwirken.
+
+(4) Wird ein Antrag nach Absatz 1 gestellt, wird nach Ablauf der Frist
+nach Absatz 3 der Ausschuss nach § 5 Absatz 1 Satz 1 des
+Tarifvertragsgesetzes (Tarifausschuss) befasst. Stimmen mindestens
+vier Ausschussmitglieder für den Antrag oder gibt der Tarifausschuss
+innerhalb von zwei Monaten keine Stellungnahme ab, kann eine
+Rechtsverordnung nach Absatz 1 erlassen werden. Stimmen zwei oder drei
+Ausschussmitglieder für den Antrag, kann eine Rechtsverordnung nur von
+der Bundesregierung erlassen werden.
 
 
 ### § 8 Pflichten des Arbeitgebers zur Gewährung von Arbeitsbedingungen
 
 (1) Arbeitgeber mit Sitz im In- oder Ausland, die unter den
 Geltungsbereich eines für allgemeinverbindlich erklärten
-Tarifvertrages nach den §§ 4 bis 6 oder einer Rechtsverordnung nach §
-7 fallen, sind verpflichtet, ihren Arbeitnehmern und Arbeitnehmerinnen
-mindestens die in dem Tarifvertrag für den Beschäftigungsort
-vorgeschriebenen Arbeitsbedingungen zu gewähren sowie einer
-gemeinsamen Einrichtung der Tarifvertragsparteien die ihr nach § 5 Nr.
-3 zustehenden Beiträge zu leisten. Satz 1 gilt unabhängig davon, ob
-die entsprechende Verpflichtung kraft Tarifbindung nach § 3 des
-Tarifvertragsgesetzes oder kraft Allgemeinverbindlicherklärung nach §
-5 des Tarifvertragsgesetzes oder aufgrund einer Rechtsverordnung nach
-§ 7 besteht.
+Tarifvertrages nach § 4 Absatz 1 Nummer 1 sowie §§ 5 und 6 Absatz 2
+oder einer Rechtsverordnung nach § 7 oder § 7a fallen, sind
+verpflichtet, ihren Arbeitnehmern und Arbeitnehmerinnen mindestens die
+in dem Tarifvertrag für den Beschäftigungsort vorgeschriebenen
+Arbeitsbedingungen zu gewähren sowie einer gemeinsamen Einrichtung der
+Tarifvertragsparteien die ihr nach § 5 Nr. 3 zustehenden Beiträge zu
+leisten. Satz 1 gilt unabhängig davon, ob die entsprechende
+Verpflichtung kraft Tarifbindung nach § 3 des Tarifvertragsgesetzes
+oder kraft Allgemeinverbindlicherklärung nach § 5 des
+Tarifvertragsgesetzes oder aufgrund einer Rechtsverordnung nach § 7
+oder § 7a besteht.
 
-(2) Ein Tarifvertrag nach den §§ 4 bis 6, der durch
-Allgemeinverbindlicherklärung oder Rechtsverordnung nach § 7 auf nicht
-an ihn gebundene Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen
-erstreckt wird, ist von einem Arbeitgeber auch dann einzuhalten, wenn
-er nach § 3 des Tarifvertragsgesetzes oder kraft
-Allgemeinverbindlicherklärung nach § 5 des Tarifvertragsgesetzes an
-einen anderen Tarifvertrag gebunden ist.
+(2) Ein Arbeitgeber ist verpflichtet, einen Tarifvertrag nach § 4
+Absatz 1 Nummer 1 sowie §§ 5 und 6 Absatz 2, der durch
+Allgemeinverbindlicherklärung sowie einen Tarifvertrag nach §§ 4 bis
+6, der durch Rechtsverordnung nach § 7 oder § 7a auf nicht an ihn
+gebundene Arbeitgeber sowie Arbeitnehmer und Arbeitnehmerinnen
+erstreckt wird, auch dann einzuhalten, wenn er nach § 3 des
+Tarifvertragsgesetzes oder kraft Allgemeinverbindlicherklärung nach §
+5 des Tarifvertragsgesetzes an einen anderen Tarifvertrag gebunden
+ist.
 
 (3) Wird ein Leiharbeitnehmer oder eine Leiharbeitnehmerin vom
 Entleiher mit Tätigkeiten beschäftigt, die in den Geltungsbereich
-eines für allgemeinverbindlich erklärten Tarifvertrages nach den §§ 4,
-5 Nr. 1 bis 3 und § 6 oder einer Rechtsverordnung nach § 7 fallen, hat
-der Verleiher zumindest die in diesem Tarifvertrag oder in dieser
-Rechtsverordnung vorgeschriebenen Arbeitsbedingungen zu gewähren sowie
-die der gemeinsamen Einrichtung nach diesem Tarifvertrag zustehenden
-Beiträge zu leisten.
+eines für allgemeinverbindlich erklärten Tarifvertrages nach § 4
+Absatz 1 Nummer 1 sowie §§ 5 und 6 Absatz 2 oder einer
+Rechtsverordnung nach § 7 oder § 7a fallen, hat der Verleiher
+zumindest die in diesem Tarifvertrag oder in dieser Rechtsverordnung
+vorgeschriebenen Arbeitsbedingungen zu gewähren sowie die der
+gemeinsamen Einrichtung nach diesem Tarifvertrag zustehenden Beiträge
+zu leisten; dies gilt auch dann, wenn der Betrieb des Entleihers nicht
+in den fachlichen Geltungsbereich dieses Tarifvertrages oder dieser
+Rechtsverordnung fällt.
 
 
 ### § 9 Verzicht, Verwirkung
 
-Ein Verzicht auf das Mindestentgelt nach § 8 ist nur durch
-gerichtlichen Vergleich zulässig. Die Verwirkung des Anspruchs der
-Arbeitnehmer und Arbeitnehmerinnen auf das Mindestentgelt nach § 8 ist
+Ein Verzicht auf den entstandenen Anspruch auf das Mindestentgelt nach
+§ 8 ist nur durch gerichtlichen Vergleich zulässig; im Übrigen ist ein
+Verzicht ausgeschlossen. Die Verwirkung des Anspruchs der Arbeitnehmer
+und Arbeitnehmerinnen auf das Mindestentgelt nach § 8 ist
 ausgeschlossen. Ausschlussfristen für die Geltendmachung des Anspruchs
 können ausschließlich in dem für allgemeinverbindlich erklärten
 Tarifvertrag nach den §§ 4 bis 6 oder dem der Rechtsverordnung nach §
@@ -438,6 +517,8 @@ Mehrheit von drei Vierteln der Mitglieder
 
 
 
+Die Sitzungen der Kommission sind nicht öffentlich; der Inhalt ihrer
+Beratungen ist vertraulich.
 
 (6) Mit Beschlussfassung über Empfehlungen nach Absatz 4 wird die
 Kommission aufgelöst.
@@ -498,7 +579,9 @@ ihr zustehenden Beiträge.
 ### § 16 Zuständigkeit
 
 Für die Prüfung der Einhaltung der Pflichten eines Arbeitgebers nach §
-8 sind die Behörden der Zollverwaltung zuständig.
+8, soweit sie sich auf die Gewährung von Arbeitsbedingungen nach § 5
+Satz 1 Nummer 1 bis 3 beziehen, sind die Behörden der Zollverwaltung
+zuständig.
 
 
 ### § 17 Befugnisse der Behörden der Zollverwaltung und anderer Behörden
@@ -530,10 +613,12 @@ Europäischen Wirtschaftsraums nach § 20 Abs. 2 dient, findet § 67 Abs.
 ### § 18 Meldepflicht
 
 (1) Soweit die Rechtsnormen eines für allgemeinverbindlich erklärten
-Tarifvertrages nach den §§ 4, 5 Nr. 1 bis 3 und § 6 oder einer
-Rechtsverordnung nach § 7 auf das Arbeitsverhältnis Anwendung finden,
-ist ein Arbeitgeber mit Sitz im Ausland, der einen Arbeitnehmer oder
-eine Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen
+Tarifvertrages nach § 4 Absatz 1 Nummer 1, § 5 Satz 1 Nummer 1 bis 3
+und § 6 Absatz 2 oder einer Rechtsverordnung nach § 7 oder § 7a,
+soweit sie Arbeitsbedingungen nach § 5 Satz 1 Nummer 1 bis 3
+vorschreibt, auf das Arbeitsverhältnis Anwendung finden, ist ein
+Arbeitgeber mit Sitz im Ausland, der einen Arbeitnehmer oder eine
+Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen
 innerhalb des Geltungsbereichs dieses Gesetzes beschäftigt,
 verpflichtet, vor Beginn jeder Werk- oder Dienstleistung eine
 schriftliche Anmeldung in deutscher Sprache bei der zuständigen
@@ -645,22 +730,25 @@ Satz 1 und Absatz 3 Satz 1 bestimmen.
 ### § 19 Erstellen und Bereithalten von Dokumenten
 
 (1) Soweit die Rechtsnormen eines für allgemeinverbindlich erklärten
-Tarifvertrages nach den §§ 4, 5 Nr. 1 bis 3 und § 6 oder einer
-entsprechenden Rechtsverordnung nach § 7 über die Zahlung eines
-Mindestentgelts oder die Einziehung von Beiträgen und die Gewährung
-von Leistungen im Zusammenhang mit Urlaubsansprüchen auf das
-Arbeitsverhältnis Anwendung finden, ist der Arbeitgeber verpflichtet,
-Beginn, Ende und Dauer der täglichen Arbeitszeit der Arbeitnehmer und
-Arbeitnehmerinnen aufzuzeichnen und diese Aufzeichnungen mindestens
-zwei Jahre aufzubewahren. Satz 1 gilt entsprechend für einen
-Entleiher, dem ein Verleiher einen Arbeitnehmer oder eine
-Arbeitnehmerin oder mehrere Arbeitnehmer oder Arbeitnehmerinnen zur
-Arbeitsleistung überlässt.
+Tarifvertrages nach § 4 Absatz 1 Nummer 1, § 5 Satz 1 Nummer 1 bis 3
+und § 6 Absatz 2 oder einer entsprechenden Rechtsverordnung nach § 7
+oder § 7a über die Zahlung eines Mindestentgelts oder die Einziehung
+von Beiträgen und die Gewährung von Leistungen im Zusammenhang mit
+Urlaubsansprüchen auf das Arbeitsverhältnis Anwendung finden, ist der
+Arbeitgeber verpflichtet, Beginn, Ende und Dauer der täglichen
+Arbeitszeit der Arbeitnehmer und Arbeitnehmerinnen spätestens bis zum
+Ablauf des siebten auf den Tag der Arbeitsleistung folgenden
+Kalendertages aufzuzeichnen und diese Aufzeichnungen mindestens zwei
+Jahre beginnend ab dem für die Aufzeichnung maßgeblichen Zeitpunkt
+aufzubewahren. Satz 1 gilt entsprechend für einen Entleiher, dem ein
+Verleiher einen Arbeitnehmer oder eine Arbeitnehmerin oder mehrere
+Arbeitnehmer oder Arbeitnehmerinnen zur Arbeitsleistung überlässt.
 
 (2) Jeder Arbeitgeber ist verpflichtet, die für die Kontrolle der
 Einhaltung eines für allgemeinverbindlich erklärten Tarifvertrages
-nach den §§ 4, 5 Nr. 1 bis 3 und § 6 oder einer Rechtsverordnung nach
-§ 7 erforderlichen Unterlagen im Inland für die gesamte Dauer der
+nach § 4 Absatz 1 Nummer 1, § 5 Satz 1 Nummer 1 bis 3 und § 6 Absatz 2
+oder einer entsprechenden Rechtsverordnung nach § 7 oder § 7a
+erforderlichen Unterlagen im Inland für die gesamte Dauer der
 tatsächlichen Beschäftigung der Arbeitnehmer und Arbeitnehmerinnen im
 Geltungsbereich dieses Gesetzes, mindestens für die Dauer der gesamten
 Werk- oder Dienstleistung, insgesamt jedoch nicht länger als zwei
@@ -668,11 +756,26 @@ Jahre in deutscher Sprache bereitzuhalten. Auf Verlangen der
 Prüfbehörde sind die Unterlagen auch am Ort der Beschäftigung
 bereitzuhalten, bei Bauleistungen auf der Baustelle.
 
+(3) Das Bundesministerium für Arbeit und Soziales kann durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die Verpflichtungen
+des Arbeitgebers oder eines Entleihers nach § 18 und den Absätzen 1
+und 2 hinsichtlich einzelner Branchen oder Gruppen von Arbeitnehmern
+und Arbeitnehmerinnen einschränken.
+
+(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium für Arbeit und Soziales ohne
+Zustimmung des Bundesrates bestimmen, wie die Verpflichtung des
+Arbeitgebers, die tägliche Arbeitszeit bei ihm beschäftigter
+Arbeitnehmer und Arbeitnehmerinnen aufzuzeichnen und diese
+Aufzeichnungen aufzubewahren, vereinfacht oder abgewandelt werden
+kann, sofern Besonderheiten der zu erbringenden Werk- oder
+Dienstleistungen oder Besonderheiten der Branche dies erfordern.
+
 
 ### § 20 Zusammenarbeit der in- und ausländischen Behörden
 
 (1) Die Behörden der Zollverwaltung unterrichten die zuständigen
-Finanzämter über Meldungen nach § 18 Abs. 1 und 3.
+örtlichen Landesfinanzbehörden über Meldungen nach § 18 Abs. 1 und 3.
 
 (2) Die Behörden der Zollverwaltung und die übrigen in § 2 des
 Schwarzarbeitsbekämpfungsgesetzes genannten Behörden dürfen nach
@@ -689,19 +792,13 @@ Gewerbezentralregister über rechtskräftige Bußgeldentscheidungen nach
 § 23 Abs. 1 bis 3, sofern die Geldbuße mehr als zweihundert Euro
 beträgt.
 
-(4) Gerichte und Staatsanwaltschaften sollen den nach diesem Gesetz
-zuständigen Behörden Erkenntnisse übermitteln, die aus ihrer Sicht zur
-Verfolgung von Ordnungswidrigkeiten nach § 23 Abs. 1 und 2
-erforderlich sind, soweit dadurch nicht überwiegende schutzwürdige
-Interessen des Betroffenen oder anderer Verfahrensbeteiligter
-erkennbar beeinträchtigt werden. Dabei ist zu berücksichtigen, wie
-gesichert die zu übermittelnden Erkenntnisse sind.
+(4) (weggefallen)
 
 
 ### § 21 Ausschluss von der Vergabe öffentlicher Aufträge
 
 (1) Von der Teilnahme an einem Wettbewerb um einen Liefer-, Bau- oder
-Dienstleistungsauftrag der in § 98 des Gesetzes gegen
+Dienstleistungsauftrag der in §§ 99 und 100 des Gesetzes gegen
 Wettbewerbsbeschränkungen genannten Auftraggeber sollen Bewerber oder
 Bewerberinnen für eine angemessene Zeit bis zur nachgewiesenen
 Wiederherstellung ihrer Zuverlässigkeit ausgeschlossen werden, die
@@ -712,9 +809,9 @@ angesichts der Beweislage kein vernünftiger Zweifel an einer
 schwerwiegenden Verfehlung im Sinne des Satzes 1 besteht.
 
 (2) Die für die Verfolgung oder Ahndung der Ordnungswidrigkeiten nach
-§ 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 98
-Nr. 1 bis 3 und 5 des Gesetzes gegen Wettbewerbsbeschränkungen und
-solchen Stellen, die von öffentlichen Auftraggebern zugelassene
+§ 23 zuständigen Behörden dürfen öffentlichen Auftraggebern nach § 99
+des Gesetzes gegen Wettbewerbsbeschränkungen und solchen Stellen, die
+von öffentlichen Auftraggebern zugelassene
 Präqualifikationsverzeichnisse oder Unternehmer- und
 Lieferantenverzeichnisse führen, auf Verlangen die erforderlichen
 Auskünfte geben.
@@ -739,25 +836,17 @@ Zuschlagserteilung eine Auskunft aus dem Gewerbezentralregister nach §
 Bewerberin zu hören.
 
 
-### § 22 Zustellung
+### § 22 (weggefallen)
 
-Für die Anwendung dieses Gesetzes gilt der im Inland gelegene Ort der
-Werk- oder Dienstleistung sowie das vom Arbeitgeber eingesetzte
-Fahrzeug als Geschäftsraum im Sinne des § 5 Abs. 2 des
-Verwaltungszustellungsgesetzes in Verbindung mit § 178 Abs. 1 Nr. 2
-der Zivilprozessordnung.
 
 
 ### § 23 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 8 Abs. 1 Satz 1 oder Abs. 3, jeweils in Verbindung mit
-    einem Tarifvertrag nach den §§ 4 bis 6, der nach § 5 des
-    Tarifvertragsgesetzes für allgemeinverbindlich erklärt oder durch
-    Rechtsverordnung nach § 7 Abs. 1 erstreckt worden ist, eine dort
-    genannte Arbeitsbedingung nicht gewährt oder einen Beitrag nicht
-    leistet,
+1.  entgegen § 8 Abs. 1 Satz 1 oder Abs. 3 eine dort genannte
+    Arbeitsbedingung nicht oder nicht rechtzeitig gewährt oder einen
+    Beitrag nicht oder nicht rechtzeitig leistet,
 
 
 2.  entgegen § 17 Satz 1 in Verbindung mit § 5 Abs. 1 Satz 1 des
@@ -788,11 +877,14 @@ der Zivilprozessordnung.
     in der vorgeschriebenen Weise oder nicht rechtzeitig macht,
 
 
-7.  entgegen § 18 Abs. 2 oder 4 eine Versicherung nicht beifügt,
+7.  entgegen § 18 Abs. 2 oder 4 eine Versicherung nicht, nicht richtig
+    oder nicht rechtzeitig beifügt,
 
 
-8.  entgegen § 19 Abs. 1 eine Aufzeichnung nicht, nicht richtig oder nicht
-    vollständig erstellt oder nicht mindestens zwei Jahre aufbewahrt oder
+8.  entgegen § 19 Absatz 1 Satz 1, auch in Verbindung mit Satz 2, eine
+    Aufzeichnung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig erstellt oder nicht oder nicht mindestens zwei Jahre
+    aufbewahrt oder
 
 
 9.  entgegen § 19 Abs. 2 eine Unterlage nicht, nicht richtig, nicht
@@ -806,21 +898,15 @@ erheblichem Umfang ausführen lässt, indem er als Unternehmer einen
 anderen Unternehmer beauftragt, von dem er weiß oder fahrlässig nicht
 weiß, dass dieser bei der Erfüllung dieses Auftrags
 
-1.  entgegen § 8 Abs. 1 Satz 1 oder Abs. 3, jeweils in Verbindung mit
-    einem Tarifvertrag nach den §§ 4 bis 6, der nach § 5 des
-    Tarifvertragsgesetzes für allgemeinverbindlich erklärt oder durch
-    Rechtsverordnung nach § 7 Abs. 1 erstreckt worden ist, eine dort
-    genannte Arbeitsbedingung nicht gewährt oder einen Beitrag nicht
-    leistet oder
+1.  entgegen § 8 Abs. 1 Satz 1 oder Abs. 3 eine dort genannte
+    Arbeitsbedingung nicht oder nicht rechtzeitig gewährt oder einen
+    Beitrag nicht oder nicht rechtzeitig leistet oder
 
 
 2.  einen Nachunternehmer einsetzt oder zulässt, dass ein Nachunternehmer
-    tätig wird, der entgegen § 8 Abs. 1 Satz 1 oder Abs. 3, jeweils in
-    Verbindung mit einem Tarifvertrag nach den §§ 4 bis 6, der nach § 5
-    des Tarifvertragsgesetzes für allgemeinverbindlich erklärt oder durch
-    Rechtsverordnung nach § 7 Abs. 1 erstreckt worden ist, eine dort
-    genannte Arbeitsbedingung nicht gewährt oder einen Beitrag nicht
-    leistet.
+    tätig wird, der entgegen § 8 Abs. 1 Satz 1 oder Abs. 3 eine dort
+    genannte Arbeitsbedingung nicht oder nicht rechtzeitig gewährt oder
+    einen Beitrag nicht oder nicht rechtzeitig leistet.
 
 
 
@@ -834,17 +920,12 @@ geahndet werden.
 über Ordnungswidrigkeiten sind die in § 16 genannten Behörden jeweils
 für ihren Geschäftsbereich.
 
-(5) Die Geldbußen fließen in die Kasse der Verwaltungsbehörde, die den
-Bußgeldbescheid erlassen hat. Für die Vollstreckung zugunsten der
-Behörden des Bundes und der unmittelbaren Körperschaften und Anstalten
-des öffentlichen Rechts sowie für die Vollziehung des dinglichen
-Arrestes nach § 111d der Strafprozessordnung in Verbindung mit § 46
-des Gesetzes über Ordnungswidrigkeiten durch die in § 16 genannten
-Behörden gilt das Verwaltungs-Vollstreckungsgesetz. Die nach Satz 1
-zuständige Kasse trägt abweichend von § 105 Abs. 2 des Gesetzes über
-Ordnungswidrigkeiten die notwendigen Auslagen; sie ist auch
-ersatzpflichtig im Sinne des § 110 Abs. 4 des Gesetzes über
-Ordnungswidrigkeiten.
+(5) Für die Vollstreckung zugunsten der Behörden des Bundes und der
+bundesunmittelbaren juristischen Personen des öffentlichen Rechts
+sowie für die Vollziehung des Vermögensarrestes nach § 111e der
+Strafprozessordnung in Verbindung mit § 46 des Gesetzes über
+Ordnungswidrigkeiten durch die in § 16 genannten Behörden gilt das
+Verwaltungs-Vollstreckungsgesetz des Bundes.
 
 
 ## Abschnitt 7 - Schlussvorschriften

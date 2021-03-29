@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1978, 30
 
 Zuletzt geändert durch
-:   Art. 352 V v. 31.10.2006 I 2407
+:   Art. 46 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -46,157 +46,182 @@ Erlaß einer Rechtsverordnung
 
 an. Soweit es sich um Arzneimittel handelt, die zur Anwendung bei
 Tieren bestimmt sind, tritt in den Fällen des Satzes 1 Nr. 2 und 3 an
-die Stelle des Bundesministeriums das Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz.
+die Stelle des Bundesministeriums das Bundesministerium für Ernährung
+und Landwirtschaft.
 
 
 ## § 2
 
-(1) Dem Ausschuß für Standardzulassungen gehören an -
+(1) Dem Ausschuss für Standardzulassungen gehören an
 
-*   drei Hochschullehrer der Pharmakologie, davon einer aus dem Fach
-    Veterinärmedizin
+1.  drei Hochschullehrer der Pharmakologie, davon ein Hochschullehrer des
+    Faches Veterinärmedizin,
 
 
--   zwei Hochschullehrer der Pharmazie
+2.  zwei Hochschullehrer der Pharmazie,
 
 
--   ein Vertreter der Deutsche Krankenhausgesellschaft
+3.  ein Vertreter der Deutschen Krankenhausgesellschaft,
 
 
--   ein Vertreter der Krankenhausapotheker
+4.  ein Vertreter der Krankenhausapotheker,
 
 
--   ein Vertreter der Arzneimittelkommission der Deutschen Ärzteschaft
+5.  ein Vertreter der Arzneimittelkommission der Deutschen Ärzteschaft,
 
 
--   ein Arzt für Allgemeinmedizin
+6.  ein Arzt für Allgemeinmedizin,
 
 
--   ein Zahnarzt
+7.  ein Zahnarzt,
 
 
--   ein Tierarzt
+8.  ein Tierarzt,
 
 
--   ein Heilpraktiker
+9.  ein Heilpraktiker,
 
 
--   drei Vertreter der Pharmazeutischen Industrie,
+10. drei Vertreter der Pharmazeutischen Industrie, davon ein Vertreter der
+    veterinärpharmazeutischen Industrie,
 
 
+11. ein Vertreter der Apothekerschaft,
 
-davon einer für die veterinärpharmazeutische Industrie
 
--   ein Vertreter der Apothekerschaft
+12. ein Vertreter der Reformwaren-Hersteller,
 
 
--   ein Vertreter der Reformwaren-Hersteller
+13. ein Vertreter des Einzelhandels außerhalb der Apotheken,
 
 
--   ein Vertreter des Einzelhandels außerhalb der Apotheken
+14. ein Vertreter der Arbeitsgemeinschaft der Verbraucher,
 
 
--   ein Vertreter der Arbeitsgemeinschaft der Verbraucher
+15. ein Vertreter der Gewerkschaften und
 
 
--   ein Vertreter der Gewerkschaften
+16. zwei Vertreter der Sozialversicherungsträger.
 
 
--   zwei Vertreter der Sozialversicherungsträger.
 
 
+(2) Dem Ausschuss für Apothekenpflicht gehören an
 
+1.  drei Hochschullehrer der Medizin, davon je ein Hochschullehrer der
+    Pharmakologie, der Inneren Medizin und des Faches Veterinärmedizin,
 
-(2) Dem Ausschuß für Apothekenpflicht gehören an
 
--   drei Hochschullehrer der Medizin,
+2.  ein Hochschullehrer der Pharmazie,
 
 
+3.  ein Vertreter der Deutschen Krankenhausgesellschaft,
 
-davon je ein Hochschullehrer der Pharmakologie, der Inneren Medizin
-und des Faches Veterinärmedizin
 
--   ein Hochschullehrer der Pharmazie
+4.  ein Arzt für Allgemeinmedizin,
 
 
--   ein Vertreter der Deutschen Krankenhausgesellschaft
+5.  ein Zahnarzt,
 
 
--   ein Arzt für Allgemeinmedizin
+6.  ein Tierarzt,
 
 
--   ein Zahnarzt
+7.  ein Heilpraktiker,
 
 
--   ein Tierarzt
+8.  zwei Vertreter der humanpharmazeutischen Industrie,
 
 
--   ein Heilpraktiker
+9.  zwei Vertreter der veterinärpharmazeutischen Industrie,
 
 
--   zwei Vertreter der humanpharmazeutischen Industrie
+10. ein Vertreter der Reformwaren-Hersteller,
 
 
--   zwei Vertreter der veterinärpharmazeutischen Industrie
+11. zwei Vertreter der Apothekerschaft,
 
 
--   ein Vertreter der Reformwaren-Hersteller
+12. zwei Vertreter des Einzelhandels außerhalb der Apotheken,
 
 
--   zwei Vertreter der Apothekerschaft
+13. ein Vertreter der Arbeitsgemeinschaft der Verbraucher und
 
 
--   zwei Vertreter des Einzelhandels außerhalb der Apotheken
+14. zwei Vertreter der Sozialversicherungsträger.
 
 
--   ein Vertreter der Arbeitsgemeinschaft der Verbraucher
 
 
--   zwei Vertreter der Sozialversicherungsträger.
+(3) Dem Ausschuss für Verschreibungspflicht gehören an
 
+1.  als stimmberechtigte Mitglieder
 
+    a)  zwei Hochschullehrer der Pharmakologie, davon ein Hochschullehrer des
+        Faches Veterinärmedizin, und ein Hochschullehrer der Klinischen
+        Pharmakologie,
 
 
-(3) Dem Ausschuß für Verschreibungspflicht gehören an
+    b)  zwei Hochschullehrer der Pharmazie, davon ein Hochschullehrer des
+        Faches Klinische Pharmazie,
 
--   drei Hochschullehrer der Pharmakologie,
 
+    c)  zwei Hochschullehrer des Faches Innere Medizin, davon ein
+        Hochschullehrer des Faches Veterinärmedizin,
 
 
-davon einer aus dem Fach Veterinärmedizin
+    d)  ein Hochschullehrer des Faches Allgemeinmedizin,
 
--   ein Hochschullehrer der Medizinischen Statistik oder Epidemiologie
 
+    e)  ein Hochschullehrer des Faches Kinder- und Jugendmedizin,
 
--   ein Hochschullehrer der Pharmazie
 
+    f)  ein Hochschullehrer der medizinischen Statistik oder der
+        Epidemiologie,
 
--   ein Arzt für Allgemeinmedizin
 
+    g)  ein Mitglied der Arzneimittelkommission der deutschen Ärzteschaft,
 
--   ein Facharzt für innere Medizin
 
+    h)  ein Mitglied der Arzneimittelkommission der Tierärzte und
 
--   ein Facharzt für Kinderkrankheiten
 
+    i)  ein Mitglied der Arzneimittelkommission der deutschen Apotheker sowie
 
--   ein Zahnarzt
 
 
--   ein Tierarzt
 
 
--   ein Heilpraktiker
+2.  als nicht stimmberechtigte Mitglieder
 
+    a)  ein Facharzt für Allgemeinmedizin,
 
--   ein Vertreter der Apothekerschaft
 
+    b)  ein Facharzt für Innere Medizin,
 
--   zwei Vertreter der humanpharmazeutischen Industrie
 
+    c)  ein Facharzt für Kinder- und Jugendmedizin,
 
--   ein Vertreter der veterinärpharmazeutischen Industrie.
+
+    d)  ein Zahnarzt,
+
+
+    e)  ein Tierarzt,
+
+
+    f)  ein Heilpraktiker,
+
+
+    g)  ein Vertreter der Apothekerschaft,
+
+
+    h)  zwei Vertreter der humanpharmazeutischen Industrie und
+
+
+    i)  ein Vertreter der veterinärpharmazeutischen Industrie.
+
+
+
 
 
 
@@ -208,16 +233,16 @@ davon einer aus dem Fach Veterinärmedizin
 
 (1) Die Mitglieder der Ausschüsse und deren Stellvertreter werden
 durch das Bundesministerium im Einvernehmen mit dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz einheitlich für
-den Zeitraum von jeweils fünf Jahren berufen. Nachfolger für vorzeitig
-ausscheidende Mitglieder oder Stellvertreter werden nur für den Rest
-des jeweiligen Berufungszeitraums berufen.
+für Ernährung und Landwirtschaft einheitlich für den Zeitraum von
+jeweils fünf Jahren berufen. Nachfolger für vorzeitig ausscheidende
+Mitglieder oder Stellvertreter werden nur für den Rest des jeweiligen
+Berufungszeitraums berufen.
 
 (2) Wiederholte Berufungen sind zulässig.
 
-(3) Mitglieder und Stellvertreter können durch Erklärung gegenüber dem
-Bundesministerium ihre Mitgliedschaft in einem Ausschuß jederzeit
-beenden.
+(3) Mitglieder und Stellvertreter können durch eine Erklärung
+gegenüber dem Bundesministerium ihre Mitgliedschaft in einem Ausschuß
+jederzeit beenden.
 
 (4) Die Tätigkeit in den Ausschüssen wird ehrenamtlich ausgeübt.
 
@@ -233,25 +258,30 @@ ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
 
 ## § 5
 
-(1) Die Ausschüsse beraten unter dem Vorsitz des Direktor und
-Professor des Bundesinstitutes für Arzneimittel und Medizinprodukte.
+(1) Die Ausschüsse beraten unter dem Vorsitz des Präsidenten des
+Bundesinstitutes für Arzneimittel und Medizinprodukte. Die Sitzungen
+sind nicht öffentlich.
 
 (2) Die Geschäfte der Ausschüsse führt das Bundesinstitut für
 Arzneimittel und Medizinprodukte.
 
+(3) Die Ausschüsse geben sich jeweils eine Geschäftsordnung, die der
+Zustimmung des Bundesministeriums und des Bundesministeriums für
+Ernährung und Landwirtschaft bedarf. Die Geschäftsordnungen werden vom
+Bundesinstitut für Arzneimittel und Medizinprodukte auf dessen
+Homepage im Internet veröffentlicht.
+
 
 ## § 6
 
-Die Ausschüsse verfahren nach der Geschäftsordnung, die der Verordnung
-als Anlage beigefügt ist.
+Die Anlage zu der Verordnung in der Fassung vom 19. April 2013 ist für
+den jeweiligen Ausschuss so lange weiter anzuwenden, bis für diesen
+eine neue Geschäftsordnung gemäß § 5 Absatz 3 Satz 2 öffentlich
+zugänglich gemacht wurde.
 
 
-## § 7
+## § 7 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit Artikel 8 des Gesetzes zur Neuordnung des
-Arzneimittelrechts vom 24. August 1976 (BGBl. I S. 2445) auch im Land
-Berlin.
 
 
 ## § 8

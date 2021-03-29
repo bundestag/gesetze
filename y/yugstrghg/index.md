@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 485
 
-Geändert durch
-:   Art. 7 G v. 21.6.2002 I 2144
+Zuletzt geändert durch
+:   Art. 4 G v. 17.7.2015 I 1349
 
 
 ## Eingangsformel
@@ -34,13 +34,25 @@ Nationen nach Kapitel VII der Charta der Vereinten Nationen
 beschlossenen Resolutionen 808 (1993) und 827 (1993) ergeben, nach
 Maßgabe dieses Gesetzes.
 
-(2) Im Sinne dieses Gesetzes bezeichnet das Wort "Gerichtshof" den
-durch Resolution 827 (1993) eingesetzten Internationalen
-Strafgerichtshof zur Verfolgung von Personen, die für schwere Verstöße
-gegen das humanitäre Völkerrecht verantwortlich sind, welche seit 1991
-im Hoheitsgebiet des ehemaligen Jugoslawien begangen wurden,
-einschließlich seiner Kammern, seiner Anklagebehörde und der
-Angehörigen des Gerichts und der Anklagebehörde.
+(2) Gerichtshof im Sinne dieses Gesetzes ist
+
+1.  der durch Resolution 827 (1993) des Sicherheitsrats der Vereinten
+    Nationen vom 25. Mai 1993 eingesetzte Internationale Strafgerichtshof
+    zur Verfolgung von Personen, die für schwere Verstöße gegen das
+    humanitäre Völkerrecht verantwortlich sind, welche seit 1991 im
+    Hoheitsgebiet des ehemaligen Jugoslawiens begangen wurden,
+    einschließlich seiner Kammern, seiner Anklagebehörde sowie der
+    Angehörigen des Gerichts und der Anklagebehörde, sowie
+
+
+2.  der durch Resolution 1966 (2010) des Sicherheitsrats der Vereinten
+    Nationen vom 22. Dezember 2010 eingesetzte Internationale
+    Residualmechanismus für die Ad-hoc-Strafgerichtshöfe, der die
+    verbliebenen Aufgaben des in Nummer 1 bezeichneten Internationalen
+    Strafgerichtshofs fortführt.
+
+
+
 
 
 ## § 2 Verhältnis zu nationalen Strafverfahren

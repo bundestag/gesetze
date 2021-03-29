@@ -2,7 +2,7 @@
 Title: Mineralölbewirtschaftungs-Verordnung
 jurabk: MinÖlBewV 1988
 layout: default
-origslug: min_lbewv_1988
+origslug: minoelbewv_1988
 slug: minoelbewv_1988
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1988, 530
 
 Zuletzt geändert durch
-:   Art. 378 V v. 31.10.2006 I 2407
+:   Art. 10 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -105,8 +105,8 @@ Sie sind auf das unerläßliche Maß zu beschränken.
 
 ### § 4 Allgemeine Verbrauchseinschränkung
 
-(1) Schränkt das Bundesministerium für Wirtschaft und Technologie
-durch Rechtsverordnung nach § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8 des
+(1) Schränkt das Bundesministerium für Wirtschaft und Energie durch
+Rechtsverordnung nach § 1 Abs. 1 Satz 1 Nr. 1, 2, 5 bis 8 des
 Wirtschaftssicherstellungsgesetzes den Verbrauch oder die Verwendung
 von Produkten zeitlich oder mengenmäßig ein (Bewirtschaftung), so darf
 der Unternehmer über diese Produkte nur verfügen, sie beziehen oder
@@ -163,7 +163,7 @@ deren Bezug oder Verwendung genehmigen, wenn die Voraussetzungen des
 Absatzes 1 Satz 1 vorliegen.
 
 (3) Wird der Verbrauch von Produkten nach § 4 Abs. 1 eingeschränkt, so
-kann das Bundesministerium für Wirtschaft und Technologie durch
+kann das Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung für die Übergangszeit bis zur Erteilung von
 Bezugscheinen allgemein genehmigen, daß in einem zu bestimmenden
 Zeitraum gegenüber dem Halter eines Kraftfahrzeugs eine festzulegende
@@ -192,17 +192,16 @@ ist.
 können die zuständigen Behörden zur Deckung des nach § 3 Nr. 1
 bestehenden Bedarfs auf Antrag Bezugscheine im Rahmen der gegebenen
 Versorgungslage erteilen. In den Fällen des § 9 Abs. 1 Nr. 1 Buchstabe
-b kann das Bundesministerium für Wirtschaft und Technologie die dort
+b kann das Bundesministerium für Wirtschaft und Energie die dort
 genannten obersten Bundesbehörden und Dienststellen ermächtigen, bis
 zur Höhe der ihnen zugewiesenen Mengen Bezugscheine selbst
-auszustellen. Das Bundesministerium für Wirtschaft und Technologie
-oder die für die gewerbliche Wirtschaft zuständige oberste
-Landesbehörde können ein anderes Verfahren zulassen, wenn der Nachweis
-der Lieferung und des Bezuges bewirtschafteter Produkte sichergestellt
-ist.
+auszustellen. Das Bundesministerium für Wirtschaft und Energie oder
+die für die gewerbliche Wirtschaft zuständige oberste Landesbehörde
+können ein anderes Verfahren zulassen, wenn der Nachweis der Lieferung
+und des Bezuges bewirtschafteter Produkte sichergestellt ist.
 
 (2) Die Bezugscheine gelten für die Dauer einer Versorgungsperiode.
-Diese wird vom Bundesministerium für Wirtschaft und Technologie durch
+Diese wird vom Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung bestimmt.
 
 (3) Die Bezugscheine dürfen nicht übertragen werden. Die Anträge auf
@@ -291,7 +290,7 @@ folgende Angaben zu melden:
     b)  der zur Weiterleitung von Produkten bestimmten Rohrleitungen,
 
 
-    c)  der Tanklager mit einem Fassungsvermögen ab 1.000 Kubikmeter.
+    c)  der Tanklager mit einem Fassungsvermögen ab 1 000 Kubikmeter.
 
 
 
@@ -303,23 +302,22 @@ Herstellung von Fertigprodukten erforderliche Einsatzstoffe sowie die
 aus anderen Rohstoffen gewonnenen, den Produkten gleichstehende
 Erzeugnisse.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie bestimmt
-durch Rechtsverordnung nach § 3 des
-Wirtschaftssicherstellungsgesetzes, zu welchen Zeitpunkten nach § 1
-Abs. 1 verpflichtete Unternehmer die Meldungen abzugeben haben.
-
-(3) Das Bundesministerium für Wirtschaft und Technologie bestimmt
-durch Rechtsverordnung nach § 3 des
-Wirtschaftssicherstellungsgesetzes, zu welchen Zeitpunkten nach § 1
-Abs. 3 verpflichtete Unternehmer meldepflichtig werden und die
+(2) Das Bundesministerium für Wirtschaft und Energie bestimmt durch
+Rechtsverordnung nach § 3 des Wirtschaftssicherstellungsgesetzes, zu
+welchen Zeitpunkten nach § 1 Abs. 1 verpflichtete Unternehmer die
 Meldungen abzugeben haben.
+
+(3) Das Bundesministerium für Wirtschaft und Energie bestimmt durch
+Rechtsverordnung nach § 3 des Wirtschaftssicherstellungsgesetzes, zu
+welchen Zeitpunkten nach § 1 Abs. 3 verpflichtete Unternehmer
+meldepflichtig werden und die Meldungen abzugeben haben.
 
 (4) Die zuständige Behörde kann von der Erhebung der Meldungen bei
 solchen Unternehmern absehen, deren Meldungen sie für die in Absatz 1
 genannten Zwecke nicht benötigt.
 
 (5) Die zuständige Behörde kann Einzelangaben an das Bundesministerium
-für Wirtschaft und Technologie weiterleiten, soweit dieses sie zur
+für Wirtschaft und Energie weiterleiten, soweit dieses sie zur
 Erfüllung der in Absatz 1 genannten Zwecke benötigt.
 
 
@@ -359,7 +357,7 @@ Zeitpunkt erneut Meldungen abzugeben sind.
 
 (1) Zuständig sind
 
-1.  das Bundesministerium für Wirtschaft und Technologie oder die von ihm
+1.  das Bundesministerium für Wirtschaft und Energie oder die von ihm
     bestimmte Stelle für
 
     a)  Verpflichtungen nach den §§ 1 und 2;
@@ -372,14 +370,14 @@ Zeitpunkt erneut Meldungen abzugeben sind.
 
         das Bundesministerium des Innern für die Bundespolizei,
 
-        das Bundesministerium für Wirtschaft und Technologie für die
-        Unternehmen gemäß § 2 des Post- und
-        Telekommunikationssicherstellungsgesetzes, soweit sie aufgrund einer
-        Rechtsverordnung gemäß § 3 des vorgenannten Gesetzes verpflichtet
-        sind, für das Bundesamt für Post und Telekommunikation und für das
-        Bundesamt für Zulassungen in der Telekommunikation,
+        das Bundesministerium für Wirtschaft und Energie für die Unternehmen
+        gemäß § 2 des Post- und Telekommunikationssicherstellungsgesetzes,
+        soweit sie aufgrund einer Rechtsverordnung gemäß § 3 des vorgenannten
+        Gesetzes verpflichtet sind, für das Bundesamt für Post und
+        Telekommunikation und für das Bundesamt für Zulassungen in der
+        Telekommunikation,
 
-        das Bundesministerium für Verkehr, Bau und Stadtentwicklung für die
+        das Bundesministerium für Verkehr und digitale Infrastruktur für die
         Eisenbahnen des Bundes und das Bundesamt für Güterverkehr
 
         sowie
@@ -396,7 +394,7 @@ Zeitpunkt erneut Meldungen abzugeben sind.
     Erhebung der Meldungen nach § 7;
 
 
-3.  die Behörden der Wasser- und Schiffahrtsverwaltung des Bundes
+3.  die Behörden der Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
     a)  für die Erteilung von Bezugscheinen nach § 6 Abs. 1 und die Anordnung
         nach § 6 Abs. 5 zur Deckung des Bedarfs an Produkten für Binnen- und
@@ -434,7 +432,7 @@ oder Gemeindeverbände übertragen.
 
 (3) Liegen die in § 9 des Wirtschaftssicherstellungsgesetzes genannten
 Voraussetzungen vor, so kann das Bundesministerium für Wirtschaft und
-Technologie Verfügungen erlassen.
+Energie Verfügungen erlassen.
 
 (4) Sind die in Absatz 1 Nr. 2, 3 und 5 genannten Behörden und die
 höheren Verwaltungsbehörden nach Absatz 1 Nr. 4 aus tatsächlichen
@@ -490,10 +488,10 @@ Nr. 1 die Behörde, die den Bescheid erlassen hat, in den Fällen des
 Absatzes 1 Nr. 3, 6 und 7 die für die Entgegennahme des Antrags oder
 der Meldung zuständige Behörde, in Fällen des Absatzes 1 Nr. 2, 4 und
 5, soweit die Zuwiderhandlungen mit dem Schiffsbetrieb auf
-Bundeswasserstraßen in Zusammenhang stehen, die Behörden der Wasser-
-und Schiffahrtsverwaltung des Bundes, im übrigen die Behörden der
-allgemeinen Verwaltung auf der Kreisstufe. Die übergeordnete Behörde
-ist in den Fällen des § 9 Abs. 4 zuständig.
+Bundeswasserstraßen in Zusammenhang stehen, die Behörden der
+Wasserstraßen- und Schifffahrtsverwaltung des Bundes, im übrigen die
+Behörden der allgemeinen Verwaltung auf der Kreisstufe. Die
+übergeordnete Behörde ist in den Fällen des § 9 Abs. 4 zuständig.
 
 
 ### § 11 Inkrafttreten und Anwendbarkeit
@@ -503,12 +501,13 @@ ist in den Fällen des § 9 Abs. 4 zuständig.
 (2) Sie darf gemäß § 2 Abs. 1 des Wirtschaftssicherstellungsgesetzes
 nur nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
 angewandt werden, wenn es das Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung bestimmt.
+Energie durch Rechtsverordnung bestimmt.
 
 (3) § 9 Abs. 2 und 5 ist mit dem Inkrafttreten anwendbar.
 
+zur Mineralölbewirtschaftungs-Verordnung
 
-### Anlage zur Mineralölbewirtschaftungs-Verordnung Liste der Produkte gemäß § 1 Abs. 1
+### Anlage Liste der Produkte gemäß § 1 Abs. 1
 
 Fundstelle des Originaltextes: BGBl. I 1988, 534
 Rohöl

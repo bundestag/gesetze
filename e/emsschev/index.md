@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1989, 1583
 
 Zuletzt geändert durch
-:   Art. 3 § 17 V v. 19.12.2008 I 2868; 2010, 380
+:   Art. 63 V v. 2.6.2016 I 1257
+
+Änderung durch
+:   Art. 2 § 13 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -87,8 +90,8 @@ dieser Verordnung:
 1.  Binnenschiffe
 
     Fahrzeuge, denen eine Fahrtauglichkeitsbescheinigung nach der
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) in der jeweils geltenden Fassung erteilt worden ist sowie
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden Fassung erteilt worden ist sowie
     Binnenfahrzeuge unter ausländischer Flagge,
 
 
@@ -528,17 +531,16 @@ Aufforderungssignal "Brücke öffnen" zwei lange Töne zu geben.
 
 (1) Zuständige Behörden sind
 
-1.  die Wasser- und Schiffahrtsdirektionen Nordwest und Nord sowie die
-    ihnen nachgeordneten Wasser- und Schiffahrtsämter als Strom- und
-    Schiffahrtspolizeibehörden; als Schiffahrtspolizeibehörden bedienen
-    sie sich der Vollzugshilfe der Wasserschutzpolizei, der Bundespolizei
-    und der Zollverwaltung nach Maßgabe der Vereinbarungen zwischen dem
-    Bund und den Ländern über die Ausübung der schiffahrtspolizeilichen
-    Vollzugsaufgaben, der zwischen dem Bund und den Küstenländern
-    geschlossenen Zusatzvereinbarung zur Vereinbarung über die Ausübung
-    der schiffahrtspolizeilichen Vollzugsaufgaben und der
-    Seeschiffahrtsaufgaben-Übertragungsverordnung vom 23. Juni 1982 (BGBl.
-    I S. 733),
+1.  die Generaldirektion Wasserstraßen und Schifffahrt sowie die ihr
+    nachgeordneten Wasserstraßen- und Schifffahrtsämter als
+    Schifffahrtspolizeibehörden; sie bedienen sich der Vollzugshilfe der
+    Wasserschutzpolizei, der Bundespolizei und der Zollverwaltung nach
+    Maßgabe der Vereinbarungen zwischen dem Bund und den Ländern über die
+    Ausübung der schiffahrtspolizeilichen Vollzugsaufgaben, der zwischen
+    dem Bund und den Küstenländern geschlossenen Zusatzvereinbarung zur
+    Vereinbarung über die Ausübung der schiffahrtspolizeilichen
+    Vollzugsaufgaben und der Seeschiffahrtsaufgaben-Übertragungsverordnung
+    vom 23. Juni 1982 (BGBl. I S. 733),
 
 
 2.  im Sinne des Artikels 5 Abs. 3 der Schiffahrtsordnung Emsmündung das
@@ -547,20 +549,22 @@ Aufforderungssignal "Brücke öffnen" zwei lange Töne zu geben.
 
 
 
-(2) Örtliche Maßnahmen der Strom- und Schiffahrtspolizei trifft das
-Wasser- und Schiffahrtsamt Emden. Wirkt sich eine Maßnahme über den
-Bezirk der Wasser- und Schiffahrtsdirektion Nordwest hinaus in den
-Bezirk der Wasser- und Schiffahrtsdirektion Nord aus, ist das Wasser-
-und Schiffahrtsamt Emden ebenfalls zuständig, wenn der zu regelnde
-Sachverhalt in seinem Bezirk zuerst eintritt. Wirkt sich eine Maßnahme
-im Bezirk der Wasser- und Schiffahrtsdirektion Nord im
-Anwendungsbereich dieser Verordnung aus, so ist das Wasser- und
-Schiffahrtsamt der Wasser- und Schiffahrtsdirektion Nord zuständig, in
-dessen Bezirk der zu regelnde Sachverhalt zuerst eintritt. Ist eine
-Maßnahme von grundsätzlicher Bedeutung, trifft sie die zuständige
-Wasser- und Schiffahrtsdirektion. Schiffahrtspolizeiliche Maßnahmen,
-die keinen Aufschub dulden, können auch von der Wasserschutzpolizei
-getroffen werden.
+(2) Örtliche Maßnahmen der Schifffahrtspolizei trifft das vom
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und
+Schifffahrtsamt. Wirkt sich eine Maßnahme in den Bezirk eines anderen
+Wasserstraßen- und Schifffahrtsamtes aus, ist das vom
+Bundesministerium für Verkehr und digitale Infrastruktur im
+Verkehrsblatt oder Bundesanzeiger bekanntgemachte Wasserstraßen- und
+Schifffahrtsamt ebenfalls zuständig, wenn der zu regelnde Sachverhalt
+in seinem Bezirk zuerst eintritt. Wirkt sich eine Maßnahme im Bezirk
+eines anderen Wasserstraßen- und Schifffahrtsamtes im
+Anwendungsbereich dieser Verordnung aus, so ist das Wasserstraßen- und
+Schifffahrtsamt zuständig, in dessen Bezirk der zu regelnde
+Sachverhalt zuerst eintritt. Ist eine Maßnahme von grundsätzlicher
+Bedeutung, trifft sie die Generaldirektion Wasserstraßen und
+Schifffahrt. Schifffahrtspolizeiliche Maßnahmen, die keinen Aufschub
+dulden, können auch von der Wasserschutzpolizei getroffen werden.
 
 
 ## § 11 Schiffahrtspolizeiliche Verfügungen
@@ -585,24 +589,24 @@ Einzelfall befreien.
 
 ## § 13 Ermächtigung zum Erlaß von strom- und schiffahrtspolizeilichen Bekanntmachungen und Rechtsverordnungen
 
-(1) Die Wasser- und Schiffahrtsdirektion Nordwest wird ermächtigt, die
-örtlichen Regelungen durch Bekanntmachungen zu erlassen, wenn und
-soweit dies zur Abwehr von Gefahren für die Sicherheit und
-Leichtigkeit des Verkehrs erforderlich ist. Die Bekanntmachungen sind
-im Bundesanzeiger zu veröffentlichen.
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, die örtlichen Regelungen durch Bekanntmachungen zu
+erlassen, wenn und soweit dies zur Abwehr von Gefahren für die
+Sicherheit und Leichtigkeit des Verkehrs erforderlich ist. Die
+Bekanntmachungen sind im Bundesanzeiger zu veröffentlichen.
 
-(2) Die Wasser- und Schiffahrtsdirektion Nordwest wird ermächtigt,
-Rechtsverordnungen über die Begrenzung von militärischen und zivilen
-Übungs- und Sperrgebieten sowie über das dadurch bedingte Verhalten
-von Fahrzeugen zu erlassen.
+(2) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, Rechtsverordnungen über die Begrenzung von militärischen
+und zivilen Übungs- und Sperrgebieten sowie über das dadurch bedingte
+Verhalten von Fahrzeugen zu erlassen.
 
-(3) Die Wasser- und Schiffahrtsdirektion Nordwest wird ermächtigt,
-durch Rechtsverordnung Anordnungen vorübergehender Art zu erlassen,
-die aus besonderen Anlässen für die Sicherheit und Leichtigkeit des
-Verkehrs auf den Seeschiffahrtsstraßen Ems und Leda erforderlich
-werden. Die Anordnungen können insbesondere veranlaßt sein durch
-Arbeiten in der Wasserstraße, öffentliche Veranstaltungen oder durch
-die Fahrwasserverhältnisse. Satz 1 ist auch auf Anordnungen
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt wird
+ermächtigt, durch Rechtsverordnung Anordnungen vorübergehender Art zu
+erlassen, die aus besonderen Anlässen für die Sicherheit und
+Leichtigkeit des Verkehrs auf den Seeschiffahrtsstraßen Ems und Leda
+erforderlich werden. Die Anordnungen können insbesondere veranlaßt
+sein durch Arbeiten in der Wasserstraße, öffentliche Veranstaltungen
+oder durch die Fahrwasserverhältnisse. Satz 1 ist auch auf Anordnungen
 anzuwenden, die notwendig sind, um bis zu einer Änderung dieser
 Verordnung oder der Schiffahrtsordnung Emsmündung oder zu
 Versuchszwecken schiffahrtspolizeiliche Maßnahmen zu treffen. Die
@@ -837,7 +841,8 @@ Ordnungswidrigkeiten
 
 
 
-wird auf die Wasser- und Schiffahrtsdirektion Nordwest übertragen.
+wird auf die Generaldirektion Wasserstraßen und Schifffahrt
+übertragen.
 
 
 ## § 16

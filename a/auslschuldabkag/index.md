@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1953, 1003
 
 Zuletzt geändert durch
-:   Art. 73 G v. 8.12.2010 I 1864
+:   Art. 301 V v. 31.8.2015 I 1474
 
 
 ## Gliederung
@@ -739,7 +739,7 @@ inländischer Schiedsspruch für vollstreckbar zu erklären ist.
 ##### § 24
 
 Für die Berechnung der Gerichts- ... kosten gelten
-§ 30a Abs. 2              des Gerichtskostengesetzes ... sinngemäß.
+§ 30a Abs. 2 des Gerichtskostengesetzes ... sinngemäß.
 
 
 #### II. - Vollstreckbarerklärung von Entscheidungen, die vor dem Inkrafttreten des Abkommens in einem Gläubigerstaat ergangen sind
@@ -980,10 +980,10 @@ Amtshilfe zu leisten.
 Vernehmung von Zeugen und Sachverständigen sowie die Erhebung
 sonstiger Beweise ersuchen. Für das Ersuchen gelten die §§ 157, 158,
 159 Abs. 1 Satz 1, Abs. 2, §§ 160, 164 und
-165              des Gerichtsverfassungsgesetzes, für die
-Beweisaufnahme die Vorschriften der Zivilprozeßordnung entsprechend.
-Das ersuchte Gericht entscheidet über die Fragen, deren Entscheidung
-sonst dem ersuchenden Gericht vorbehalten ist.
+165 des Gerichtsverfassungsgesetzes, für die Beweisaufnahme die
+Vorschriften der Zivilprozeßordnung entsprechend. Das ersuchte Gericht
+entscheidet über die Fragen, deren Entscheidung sonst dem ersuchenden
+Gericht vorbehalten ist.
 
 
 #### § 42
@@ -1830,14 +1830,13 @@ vom 25. November 1935 (Reichsgesetzbl. I S. 1371).
 
 (2) Für das gerichtliche Verfahren des ersten Rechtszuges wird vom
 Schuldner die dreifache Gebühr
-(§ 26              der Kostenordnung) erhoben. Der Geschäftswert
-bestimmt sich nach
-§ 24 Abs. 2              der Kostenordnung; er wird in jedem Falle von
-Amts wegen festgesetzt.
+(§ 26 der Kostenordnung) erhoben. Der Geschäftswert bestimmt sich nach
+§ 24 Abs. 2 der Kostenordnung; er wird in jedem Falle von Amts wegen
+festgesetzt.
 
 (3) Die Gebühr für das Beschwerdeverfahren (§ 86) bestimmt sich nach
-§ 123              der Kostenordnung, jedoch wird das Sechsfache der
-dort vorgesehenen Sätze erhoben.
+§ 123 der Kostenordnung, jedoch wird das Sechsfache der dort
+vorgesehenen Sätze erhoben.
 
 (4) Entscheidungen der Oberlandesgerichte über die Kosten können nicht
 angefochten werden.
@@ -1859,10 +1858,10 @@ die Vorschriften der Zivilprozeßordnung gelten entsprechend.
 #### § 90
 
 (1) Der bei der
-Bank deutscher Länder              bestehende Deutsche Ausschuß für
-internationale finanzielle Beziehungen nimmt die Aufgaben des
-Deutschen Ausschusses für Stillhalteschulden im Sinne des Deutschen
-Kreditabkommens 1952 wahr.
+Bank deutscher Länder bestehende Deutsche Ausschuß für internationale
+finanzielle Beziehungen nimmt die Aufgaben des Deutschen Ausschusses
+für Stillhalteschulden im Sinne des Deutschen Kreditabkommens 1952
+wahr.
 
 (2) In diesem Unterabschnitt haben die nachgenannten Ausdrücke, soweit
 nicht der Zusammenhang eine andere Auslegung erfordert, die
@@ -2008,7 +2007,7 @@ zur Zuständigkeit der ordentlichen Gerichte. Der Deutsche Ausschuß für
 Stillhalteschulden kann in einem solchen Rechtsstreit klagen oder
 verklagt werden; er wird durch seinen Vorsitzenden vertreten, der von
 dem Präsidenten des Direktoriums der
-Bank deutscher Länder              ernannt wird.
+Bank deutscher Länder ernannt wird.
 
 
 #### § 97
@@ -2224,19 +2223,18 @@ ausreichen.
 
 #### § 108
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt im
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt im
 Einvernehmen mit dem Bundesministerium der Finanzen und im Benehmen
 mit der
-Bank deutscher Länder              die im Hinblick auf die
-Beschränkungen
-der Devisenbewirtschaftungsgesetze              zur Ausführung des
-Abkommens erforderlichen Rechtsverordnungen. Sie bedürfen nicht der
-Zustimmung des Bundesrates.
+Bank deutscher Länder die im Hinblick auf die Beschränkungen
+der Devisenbewirtschaftungsgesetze zur Ausführung des Abkommens
+erforderlichen Rechtsverordnungen. Sie bedürfen nicht der Zustimmung
+des Bundesrates.
 
 (2) Die
-Bank deutscher Länder              ... erteilen die nach
-den Devisenbewirtschaftungsgesetzen              und nach den zu ihnen
-ergehenden Rechtsverordnungen erforderlichen Genehmigungen.
+Bank deutscher Länder ... erteilen die nach
+den Devisenbewirtschaftungsgesetzen und nach den zu ihnen ergehenden
+Rechtsverordnungen erforderlichen Genehmigungen.
 
 
 ### k) - Kostenrechtliche Bestimmungen
@@ -2252,7 +2250,7 @@ dienen, wird nur die Hälfte der in der Kostenordnung bestimmten
 Gebühren erhoben, wenn diese Geschäfte durch die Regelung auf Grund
 des Abkommens veranlaßt werden oder mit dieser Regelung
 zusammenhängen.
-§ 26 Abs. 3              der Kostenordnung bleibt unberührt.
+§ 26 Abs. 3 der Kostenordnung bleibt unberührt.
 
 (2) In den Fällen des Absatzes 1 ist der Höchstbetrag der vollen
 Gebühr 5.000 Deutsche Mark. Dies gilt auch, wenn der Umstellungsbetrag

@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2768
 
-Zuletzt geändert durch
-:   Art. 5 Abs. 8 V v. 26.11.2010 I 1643
-
+Stand: Zuletzt geändert Art. 3 Abs. 1 V v. 15.11.2016 I 2549
 
 ## § 1 Ziel und Anwendungsbereich
 
@@ -40,64 +38,58 @@ unberührt.
 
 ## § 2 Begriffsbestimmungen
 
-(1) Arbeitsmedizinische Vorsorge ist Teil der arbeitsmedizinischen
-Präventionsmaßnahmen im Betrieb. Sie umfasst die Beurteilung der
-individuellen Wechselwirkungen von Arbeit und Gesundheit, die
-individuelle arbeitsmedizinische Aufklärung und Beratung der
-Beschäftigten, arbeitsmedizinische Vorsorgeuntersuchungen sowie die
-Nutzung von Erkenntnissen aus diesen Untersuchungen für die
-Gefährdungsbeurteilung und für sonstige Maßnahmen des Arbeitsschutzes.
+(1) Arbeitsmedizinische Vorsorge im Sinne dieser Verordnung
 
-(2) Arbeitsmedizinische Vorsorgeuntersuchungen dienen der
-Früherkennung arbeitsbedingter Gesundheitsstörungen sowie der
-Feststellung, ob bei Ausübung einer bestimmten Tätigkeit eine erhöhte
-gesundheitliche Gefährdung besteht. Eine arbeitsmedizinische
-Vorsorgeuntersuchung kann sich auf ein Beratungsgespräch beschränken,
-wenn zur Beratung körperliche oder klinische Untersuchungen nicht
-erforderlich sind. Arbeitsmedizinische Vorsorgeuntersuchungen umfassen
-Pflichtuntersuchungen, Angebotsuntersuchungen und
-Wunschuntersuchungen.
-
-(3) Pflichtuntersuchungen sind arbeitsmedizinische
-Vorsorgeuntersuchungen, die bei bestimmten besonders gefährdenden
-Tätigkeiten zu veranlassen sind.
-
-(4) Angebotsuntersuchungen sind arbeitsmedizinische
-Vorsorgeuntersuchungen, die bei bestimmten gefährdenden Tätigkeiten
-anzubieten sind.
-
-(5) Wunschuntersuchungen sind arbeitsmedizinische
-Vorsorgeuntersuchungen, die der Arbeitgeber den Beschäftigten nach §
-11 des Arbeitsschutzgesetzes zu ermöglichen hat.
-
-(6) Entsprechend dem Zeitpunkt ihrer Durchführung sind
-
-1.  Erstuntersuchungen arbeitsmedizinische Vorsorgeuntersuchungen vor
-    Aufnahme einer bestimmten Tätigkeit,
+1.  ist Teil der arbeitsmedizinischen Präventionsmaßnahmen im Betrieb;
 
 
-2.  Nachuntersuchungen arbeitsmedizinische Vorsorgeuntersuchungen während
-    einer bestimmten Tätigkeit oder anlässlich ihrer Beendigung,
+2.  dient der Beurteilung der individuellen Wechselwirkungen von Arbeit
+    und physischer und psychischer Gesundheit und der Früherkennung
+    arbeitsbedingter Gesundheitsstörungen sowie der Feststellung, ob bei
+    Ausübung einer bestimmten Tätigkeit eine erhöhte gesundheitliche
+    Gefährdung besteht;
 
 
-3.  nachgehende Untersuchungen arbeitsmedizinische Vorsorgeuntersuchungen
-    nach Beendigung bestimmter Tätigkeiten, bei denen nach längeren
-    Latenzzeiten Gesundheitsstörungen auftreten können.
+3.  beinhaltet ein ärztliches Beratungsgespräch mit Anamnese
+    einschließlich Arbeitsanamnese sowie körperliche oder klinische
+    Untersuchungen, soweit diese für die individuelle Aufklärung und
+    Beratung erforderlich sind und der oder die Beschäftigte diese
+    Untersuchungen nicht ablehnt;
+
+
+4.  umfasst die Nutzung von Erkenntnissen aus der Vorsorge für die
+    Gefährdungsbeurteilung und für sonstige Maßnahmen des Arbeitsschutzes;
+
+
+5.  umfasst nicht den Nachweis der gesundheitlichen Eignung für berufliche
+    Anforderungen nach sonstigen Rechtsvorschriften oder individual- oder
+    kollektivrechtlichen Vereinbarungen.
 
 
 
+
+(2) Pflichtvorsorge ist arbeitsmedizinische Vorsorge, die bei
+bestimmten besonders gefährdenden Tätigkeiten veranlasst werden muss.
+
+(3) Angebotsvorsorge ist arbeitsmedizinische Vorsorge, die bei
+bestimmten gefährdenden Tätigkeiten angeboten werden muss.
+
+(4) Wunschvorsorge ist arbeitsmedizinische Vorsorge, die bei
+Tätigkeiten, bei denen ein Gesundheitsschaden nicht ausgeschlossen
+werden kann, auf Wunsch des oder der Beschäftigten ermöglicht werden
+muss.
 
 
 ## § 3 Allgemeine Pflichten des Arbeitgebers
 
 (1) Der Arbeitgeber hat auf der Grundlage der Gefährdungsbeurteilung
 für eine angemessene arbeitsmedizinische Vorsorge zu sorgen. Dabei hat
-er die Vorschriften dieser Verordnung einschließlich des Anhangs und
-die nach § 9 Abs. 4 bekannt gegebenen Regeln und Erkenntnisse zu
-berücksichtigen. Bei Einhaltung der Regeln und Erkenntnisse nach Satz
-2 ist davon auszugehen, dass die gestellten Anforderungen erfüllt
-sind. Arbeitsmedizinische Vorsorge kann auch weitere Maßnahmen der
-Gesundheitsvorsorge umfassen.
+er die Vorschriften dieser Verordnung einschließlich des Anhangs zu
+beachten und die nach § 9 Abs. 4 bekannt gegebenen Regeln und
+Erkenntnisse zu berücksichtigen. Bei Einhaltung der Regeln und
+Erkenntnisse nach Satz 2 ist davon auszugehen, dass die gestellten
+Anforderungen erfüllt sind. Arbeitsmedizinische Vorsorge kann auch
+weitere Maßnahmen der Gesundheitsvorsorge umfassen.
 
 (2) Der Arbeitgeber hat zur Durchführung der arbeitsmedizinischen
 Vorsorge einen Arzt oder eine Ärztin nach § 7 zu beauftragen. Ist ein
@@ -106,135 +98,172 @@ Arbeitssicherheitsgesetzes bestellt, soll der Arbeitgeber vorrangig
 diesen oder diese auch mit der arbeitsmedizinischen Vorsorge
 beauftragen. Dem Arzt oder der Ärztin sind alle erforderlichen
 Auskünfte über die Arbeitsplatzverhältnisse, insbesondere über den
-Anlass der jeweiligen Untersuchung und die Ergebnisse der
+Anlass der arbeitsmedizinischen Vorsorge und die Ergebnisse der
 Gefährdungsbeurteilung, zu erteilen und die Begehung des
 Arbeitsplatzes zu ermöglichen. Ihm oder ihr ist auf Verlangen Einsicht
-in die Unterlagen nach § 4 Abs. 3 Satz 1 zu gewähren.
+in die Unterlagen nach Absatz 4 Satz 1 zu gewähren.
 
-(3) Arbeitsmedizinische Vorsorgeuntersuchungen sollen während der
-Arbeitszeit stattfinden. Sie sollen nicht zusammen mit Untersuchungen
-zur Feststellung der Eignung für berufliche Anforderungen nach
-sonstigen Rechtsvorschriften oder individual- oder
-kollektivrechtlichen Vereinbarungen durchgeführt werden, es sei denn,
-betriebliche Gründe erfordern dies; in diesem Falle sind die
-unterschiedlichen Zwecke der Untersuchungen offenzulegen.
+(3) Arbeitsmedizinische Vorsorge soll während der Arbeitszeit
+stattfinden. Sie soll nicht zusammen mit Untersuchungen, die dem
+Nachweis der gesundheitlichen Eignung für berufliche Anforderungen
+dienen, durchgeführt werden, es sei denn, betriebliche Gründe
+erfordern dies; in diesem Fall hat der Arbeitgeber den Arzt oder die
+Ärztin zu verpflichten, die unterschiedlichen Zwecke von
+arbeitsmedizinischer Vorsorge und Eignungsuntersuchung gegenüber dem
+oder der Beschäftigten offenzulegen.
 
-
-## § 4 Pflichtuntersuchungen
-
-(1) Der Arbeitgeber hat nach Maßgabe des Anhangs Pflichtuntersuchungen
-der Beschäftigten zu veranlassen. Pflichtuntersuchungen nach Satz 1
-müssen als Erstuntersuchung und als Nachuntersuchungen in regelmäßigen
-Abständen veranlasst werden.
-
-(2) Der Arbeitgeber darf eine Tätigkeit nur ausüben lassen, wenn die
-nach Absatz 1 erforderlichen Pflichtuntersuchungen zuvor durchgeführt
-worden sind. Die Bescheinigung der gesundheitlichen Unbedenklichkeit
-ist Tätigkeitsvoraussetzung, soweit der Anhang dies für einzelne
-Tätigkeiten besonders vorschreibt.
-
-(3) Über Pflichtuntersuchungen hat der Arbeitgeber eine Vorsorgekartei
-mit Angaben über Anlass, Tag und Ergebnis jeder Untersuchung zu
-führen; die Kartei kann automatisiert geführt werden. Die Angaben sind
-bis zur Beendigung des Beschäftigungsverhältnisses aufzubewahren und
-anschließend zu löschen, es sei denn, dass Rechtsvorschriften oder die
-nach § 9 Abs. 4 bekannt gegebenen Regeln etwas anderes bestimmen. Der
-Arbeitgeber hat der zuständigen Behörde auf Anordnung eine Kopie der
-Vorsorgekartei zu übermitteln. Bei Beendigung des
-Beschäftigungsverhältnisses hat der Arbeitgeber der betroffenen Person
-eine Kopie der sie betreffenden Angaben auszuhändigen; § 34 des
-Bundesdatenschutzgesetzes bleibt unberührt.
+(4) Der Arbeitgeber hat eine Vorsorgekartei zu führen mit Angaben,
+dass, wann und aus welchen Anlässen arbeitsmedizinische Vorsorge
+stattgefunden hat; die Kartei kann automatisiert geführt werden. Die
+Angaben sind bis zur Beendigung des Beschäftigungsverhältnisses
+aufzubewahren und anschließend zu löschen, es sei denn, dass
+Rechtsvorschriften oder die nach § 9 Absatz 4 bekannt gegebenen Regeln
+etwas anderes bestimmen. Der Arbeitgeber hat der zuständigen Behörde
+auf Anordnung eine Kopie der Vorsorgekartei zu übermitteln. Bei
+Beendigung des Beschäftigungsverhältnisses hat der Arbeitgeber der
+betroffenen Person eine Kopie der sie betreffenden Angaben
+auszuhändigen; § 34 des Bundesdatenschutzgesetzes bleibt unberührt.
 
 
-## § 5 Angebotsuntersuchungen
+## § 4 Pflichtvorsorge
 
-(1) Der Arbeitgeber hat den Beschäftigten Angebotsuntersuchungen nach
-Maßgabe des Anhangs anzubieten. Angebotsuntersuchungen nach Satz 1
-müssen als Erstuntersuchung und anschließend als Nachuntersuchungen in
-regelmäßigen Abständen angeboten werden. Das Ausschlagen eines
-Angebots entbindet den Arbeitgeber nicht von der Verpflichtung, die
-Untersuchungen weiter regelmäßig anzubieten.
+(1) Der Arbeitgeber hat nach Maßgabe des Anhangs Pflichtvorsorge für
+die Beschäftigten zu veranlassen. Pflichtvorsorge muss vor Aufnahme
+der Tätigkeit und anschließend in regelmäßigen Abständen veranlasst
+werden.
+
+(2) Der Arbeitgeber darf eine Tätigkeit nur ausüben lassen, wenn der
+oder die Beschäftigte an der Pflichtvorsorge teilgenommen hat.
+
+(3) (weggefallen)
+
+
+## § 5 Angebotsvorsorge
+
+(1) Der Arbeitgeber hat den Beschäftigten Angebotsvorsorge nach
+Maßgabe des Anhangs anzubieten. Angebotsvorsorge muss vor Aufnahme der
+Tätigkeit und anschließend in regelmäßigen Abständen angeboten werden.
+Das Ausschlagen eines Angebots entbindet den Arbeitgeber nicht von der
+Verpflichtung, weiter regelmäßig Angebotsvorsorge anzubieten.
 
 (2) Erhält der Arbeitgeber Kenntnis von einer Erkrankung, die im
 ursächlichen Zusammenhang mit der Tätigkeit des oder der Beschäftigten
-stehen kann, so hat er ihm oder ihr unverzüglich eine
-arbeitsmedizinische Vorsorgeuntersuchung anzubieten. Dies gilt auch
-für Beschäftigte mit vergleichbaren Tätigkeiten, wenn Anhaltspunkte
-dafür bestehen, dass sie ebenfalls gefährdet sein können.
+stehen kann, so hat er ihm oder ihr unverzüglich Angebotsvorsorge
+anzubieten. Dies gilt auch für Beschäftigte mit vergleichbaren
+Tätigkeiten, wenn Anhaltspunkte dafür bestehen, dass sie ebenfalls
+gefährdet sein können.
 
 (3) Der Arbeitgeber hat Beschäftigten sowie ehemals Beschäftigten nach
-Maßgabe des Anhangs nachgehende Untersuchungen anzubieten. Nach
-Beendigung des Beschäftigungsverhältnisses kann der Arbeitgeber diese
-Verpflichtung mit Einwilligung der betroffenen Person auf den
-zuständigen gesetzlichen Unfallversicherungsträger übertragen.
-Voraussetzung dafür ist, dass er dem Unfallversicherungsträger die
-erforderlichen Unterlagen in Kopie überlässt.
+Maßgabe des Anhangs nach Beendigung bestimmter Tätigkeiten, bei denen
+nach längeren Latenzzeiten Gesundheitsstörungen auftreten können,
+nachgehende Vorsorge anzubieten. Am Ende des
+Beschäftigungsverhältnisses überträgt der Arbeitgeber diese
+Verpflichtung auf den zuständigen gesetzlichen
+Unfallversicherungsträger und überlässt ihm die erforderlichen
+Unterlagen in Kopie, sofern der oder die Beschäftigte eingewilligt
+hat.
+
+
+## § 5a Wunschvorsorge
+
+Über die Vorschriften des Anhangs hinaus hat der Arbeitgeber den
+Beschäftigten auf ihren Wunsch hin regelmäßig arbeitsmedizinische
+Vorsorge nach § 11 des Arbeitsschutzgesetzes zu ermöglichen, es sei
+denn, auf Grund der Beurteilung der Arbeitsbedingungen und der
+getroffenen Schutzmaßnahmen ist nicht mit einem Gesundheitsschaden zu
+rechnen.
 
 
 ## § 6 Pflichten des Arztes oder der Ärztin
 
 (1) Bei der arbeitsmedizinischen Vorsorge hat der Arzt oder die Ärztin
-die Vorschriften dieser Verordnung einschließlich des Anhangs und die
-dem Stand der Arbeitsmedizin entsprechenden Regeln und Erkenntnisse zu
-beachten. Vor Durchführung arbeitsmedizinischer Vorsorgeuntersuchungen
-muss er oder sie sich die notwendigen Kenntnisse über die
-Arbeitsplatzverhältnisse verschaffen und die zu untersuchende Person
-über die Untersuchungsinhalte und den Untersuchungszweck aufklären.
+die Vorschriften dieser Verordnung einschließlich des Anhangs zu
+beachten und die dem Stand der Arbeitsmedizin entsprechenden Regeln
+und Erkenntnisse zu berücksichtigen. Vor Durchführung der
+arbeitsmedizinischen Vorsorge muss er oder sie sich die notwendigen
+Kenntnisse über die Arbeitsplatzverhältnisse verschaffen. Vor
+Durchführung körperlicher oder klinischer Untersuchungen hat der Arzt
+oder die Ärztin deren Erforderlichkeit nach pflichtgemäßem ärztlichen
+Ermessen zu prüfen und den oder die Beschäftigte über die Inhalte, den
+Zweck und die Risiken der Untersuchung aufzuklären. Untersuchungen
+nach Satz 3 dürfen nicht gegen den Willen des oder der Beschäftigten
+durchgeführt werden. Der Arzt oder die Ärztin hat die ärztliche
+Schweigepflicht zu beachten.
 
-(2) Biomonitoring ist Bestandteil der arbeitsmedizinischen
-Vorsorgeuntersuchungen, soweit dafür arbeitsmedizinisch anerkannte
-Analyseverfahren und geeignete Werte zur Beurteilung zur Verfügung
-stehen.
+(2) Biomonitoring ist Bestandteil der arbeitsmedizinischen Vorsorge,
+soweit dafür arbeitsmedizinisch anerkannte Analyseverfahren und
+geeignete Werte zur Beurteilung zur Verfügung stehen. Biomonitoring
+darf nicht gegen den Willen der oder des Beschäftigten durchgeführt
+werden. Impfungen sind Bestandteil der arbeitsmedizinischen Vorsorge
+und den Beschäftigten anzubieten, soweit das Risiko einer Infektion
+tätigkeitsbedingt und im Vergleich zur Allgemeinbevölkerung erhöht
+ist. Satz 3 gilt nicht, wenn der oder die Beschäftigte bereits über
+einen ausreichenden Immunschutz verfügt.
 
-(3) Der Arzt oder die Ärztin hat den Untersuchungsbefund und das
-Untersuchungsergebnis der arbeitsmedizinischen Vorsorgeuntersuchung
-schriftlich festzuhalten, die untersuchte Person darüber zu beraten
-und ihr eine Bescheinigung auszustellen. Diese enthält Angaben über
-den Untersuchungsanlass und den Tag der Untersuchung sowie die
-ärztliche Beurteilung, ob und inwieweit bei Ausübung einer bestimmten
-Tätigkeit gesundheitliche Bedenken bestehen. Nur im Falle einer
-Pflichtuntersuchung erhält der Arbeitgeber eine Kopie der
-Bescheinigung.
+(3) Der Arzt oder die Ärztin hat
+
+1.  das Ergebnis sowie die Befunde der arbeitsmedizinischen Vorsorge
+    schriftlich festzuhalten und den oder die Beschäftigte darüber zu
+    beraten,
+
+
+2.  dem oder der Beschäftigten auf seinen oder ihren Wunsch hin das
+    Ergebnis zur Verfügung zu stellen sowie
+
+
+3.  der oder dem Beschäftigten und dem Arbeitgeber eine
+    Vorsorgebescheinigung darüber auszustellen, dass, wann und aus welchem
+    Anlass ein arbeitsmedizinischer Vorsorgetermin stattgefunden hat; die
+    Vorsorgebescheinigung enthält auch die Angabe, wann eine weitere
+    arbeitsmedizinische Vorsorge aus ärztlicher Sicht angezeigt ist.
+
+
+
 
 (4) Der Arzt oder die Ärztin hat die Erkenntnisse arbeitsmedizinischer
-Vorsorgeuntersuchungen auszuwerten. Ergibt die Auswertung
-Anhaltspunkte für unzureichende Schutzmaßnahmen, so hat der Arzt oder
-die Ärztin dies dem Arbeitgeber mitzuteilen und Schutzmaßnahmen
-vorzuschlagen.
+Vorsorge auszuwerten. Ergeben sich Anhaltspunkte dafür, dass die
+Maßnahmen des Arbeitsschutzes für den Beschäftigten oder die
+Beschäftigte oder andere Beschäftigte nicht ausreichen, so hat der
+Arzt oder die Ärztin dies dem Arbeitgeber mitzuteilen und Maßnahmen
+des Arbeitsschutzes vorzuschlagen. Hält der Arzt oder die Ärztin aus
+medizinischen Gründen, die ausschließlich in der Person des oder der
+Beschäftigten liegen, einen Tätigkeitswechsel für erforderlich, so
+bedarf diese Mitteilung an den Arbeitgeber der Einwilligung des oder
+der Beschäftigten.
 
 
 ## § 7 Anforderungen an den Arzt oder die Ärztin
 
-(1) Unbeschadet anderer Bestimmungen im Anhang für einzelne
-Untersuchungsanlässe muss der Arzt oder die Ärztin berechtigt sein,
-die Gebietsbezeichnung „Arbeitsmedizin“ oder die Zusatzbezeichnung
-„Betriebsmedizin“ zu führen. Er oder sie darf selbst keine
-Arbeitgeberfunktion gegenüber den zu untersuchenden Beschäftigten
+(1) Unbeschadet anderer Bestimmungen im Anhang für einzelne Anlässe
+arbeitsmedizinischer Vorsorge muss der Arzt oder die Ärztin berechtigt
+sein, die Gebietsbezeichnung „Arbeitsmedizin“ oder die
+Zusatzbezeichnung „Betriebsmedizin“ zu führen. Er oder sie darf selbst
+keine Arbeitgeberfunktion gegenüber dem oder der Beschäftigten
 ausüben. Verfügt der Arzt oder die Ärztin nach Satz 1 für bestimmte
-Untersuchungen nicht über die erforderlichen Fachkenntnisse oder die
-speziellen Anerkennungen oder Ausrüstungen, so hat er oder sie Ärzte
-oder Ärztinnen hinzuzuziehen, die diese Anforderungen erfüllen.
+Untersuchungsmethoden nicht über die erforderlichen Fachkenntnisse
+oder die speziellen Anerkennungen oder Ausrüstungen, so hat er oder
+sie Ärzte oder Ärztinnen hinzuzuziehen, die diese Anforderungen
+erfüllen.
 
 (2) Die zuständige Behörde kann für Ärzte oder Ärztinnen in
 begründeten Einzelfällen Ausnahmen von Absatz 1 Satz 1 zulassen.
 
 
-## § 8 Maßnahmen bei gesundheitlichen Bedenken
+## § 8 Maßnahmen nach der arbeitsmedizinischen Vorsorge
 
-(1) Ist dem Arbeitgeber bekannt, dass bei einem oder einer
-Beschäftigten gesundheitliche Bedenken gegen die Ausübung einer
-Tätigkeit bestehen, so hat er im Falle von § 6 Abs. 4 Satz 2 die
+(1) Im Fall von § 6 Absatz 4 Satz 2 hat der Arbeitgeber die
 Gefährdungsbeurteilung zu überprüfen und unverzüglich die
-erforderlichen zusätzlichen Schutzmaßnahmen zu treffen. Bleiben die
-gesundheitlichen Bedenken bestehen, so hat der Arbeitgeber nach
-Maßgabe der dienst- und arbeitsrechtlichen Regelungen dem oder der
-Beschäftigten eine andere Tätigkeit zuzuweisen, bei der diese Bedenken
-nicht bestehen. Dem Betriebs- oder Personalrat und der zuständigen
-Behörde sind die getroffenen Maßnahmen mitzuteilen.
+erforderlichen Maßnahmen des Arbeitsschutzes zu treffen. Wird ein
+Tätigkeitswechsel vorgeschlagen, so hat der Arbeitgeber nach Maßgabe
+der dienst- und arbeitsrechtlichen Regelungen dem oder der
+Beschäftigten eine andere Tätigkeit zuzuweisen.
 
-(2) Halten die untersuchte Person oder der Arbeitgeber das
-Untersuchungsergebnis für unzutreffend, so entscheidet auf Antrag die
-zuständige Behörde.
+(2) Dem Betriebs- oder Personalrat und der zuständigen Behörde sind
+die getroffenen Maßnahmen mitzuteilen.
+
+(3) Halten der oder die Beschäftigte oder der Arbeitgeber das Ergebnis
+der Auswertung nach § 6 Absatz 4 für unzutreffend, so entscheidet auf
+Antrag die zuständige Behörde.
 
 
 ## § 9 Ausschuss für Arbeitsmedizin
@@ -262,10 +291,11 @@ Bundesministeriums für Arbeit und Soziales.
 
 
 2.  Regeln und Erkenntnisse zu ermitteln, wie die in dieser Verordnung
-    gestellten Anforderungen erfüllt werden können,
+    gestellten Anforderungen insbesondere zu Inhalt und Umfang von
+    Pflicht-, Angebots- oder Wunschvorsorge erfüllt werden können,
 
 
-3.  Empfehlungen für Wunschuntersuchungen aufzustellen,
+3.  Empfehlungen zur arbeitsmedizinischen Vorsorge aufzustellen,
 
 
 4.  Empfehlungen für weitere Maßnahmen der Gesundheitsvorsorge
@@ -305,18 +335,18 @@ Arbeitsschutz und Arbeitsmedizin.
 (1) Ordnungswidrig im Sinne des § 25 Abs. 1 Nr. 1 des
 Arbeitsschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 4 Abs. 1 eine Pflichtuntersuchung nicht oder nicht
-    rechtzeitig veranlasst,
+1.  entgegen § 4 Abs. 1 eine Pflichtvorsorge nicht oder nicht rechtzeitig
+    veranlasst,
 
 
-2.  entgegen § 4 Abs. 2 Satz 1 eine Tätigkeit ausüben lässt,
+2.  entgegen § 4 Abs. 2 eine Tätigkeit ausüben lässt,
 
 
-3.  entgegen § 4 Abs. 3 Satz 1 Halbsatz 1 eine Vorsorgekartei nicht, nicht
-    richtig oder nicht vollständig führt oder
+3.  entgegen § 3 Absatz 4 Satz 1 Halbsatz 1 eine Vorsorgekartei nicht,
+    nicht richtig oder nicht vollständig führt oder
 
 
-4.  entgegen § 5 Abs. 1 Satz 1 eine Angebotsuntersuchung nicht oder nicht
+4.  entgegen § 5 Abs. 1 Satz 1 eine Angebotsvorsorge nicht oder nicht
     rechtzeitig anbietet.
 
 
@@ -327,20 +357,21 @@ oder Gesundheit eines oder einer Beschäftigten gefährdet, ist nach §
 26 Nr. 2 des Arbeitsschutzgesetzes strafbar.
 
 
-## Anhang Arbeitsmedizinische Pflicht- und Angebotsuntersuchungen sowie weitere Maßnahmen der arbeitsmedizinischen Vorsorge
+## Anhang Arbeitsmedizinische Pflicht- und Angebotsvorsorge
 
 (Fundstelle: BGBl. I 2008, 2771 - 2775;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
 **Teil 1**
 **Tätigkeiten mit Gefahrstoffen**
-**(1) Pflichtuntersuchungen bei:**
+**(1) Pflichtvorsorge bei:**
 
 1.  Tätigkeiten mit den Gefahrstoffen:
 
     –   Acrylnitril,
 
 
-    –   Alkylquecksilber,
+    –   Alkylquecksilberverbindungen,
 
 
     –   Alveolengängiger Staub (A-Staub),
@@ -359,9 +390,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     –   Beryllium,
-
-
-    –   Blei und anorganische Bleiverbindungen,
 
 
     –   Bleitetraethyl und Bleitetramethyl,
@@ -392,9 +420,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     –   Kohlenmonoxid,
-
-
-    –   Mehlstaub,
 
 
     –   Methanol,
@@ -437,13 +462,32 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     –   Vinylchlorid,
 
 
-    –   Xylol,
+    –   Xylol (alle Isomeren),
 
 
 
-    wenn der Arbeitsplatzgrenzwert nach der Gefahrstoffverordnung nicht
-    eingehalten wird oder, soweit die genannten Gefahrstoffe hautresorptiv
-    sind, eine Gesundheitsgefährdung durch direkten Hautkontakt besteht;
+
+
+*   wenn
+
+    a)  der Arbeitsplatzgrenzwert für den Gefahrstoff nach der
+        Gefahrstoffverordnung nicht eingehalten wird,
+
+
+    b)  eine wiederholte Exposition nicht ausgeschlossen werden kann und der
+        Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der
+        Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes
+        Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung
+        ist oder die Tätigkeiten mit dem Gefahrstoff als krebserzeugende
+        Tätigkeiten oder Verfahren Kategorie 1A oder 1B im Sinne der
+        Gefahrstoffverordnung bezeichnet werden oder
+
+
+    c)  der Gefahrstoff hautresorptiv ist und eine Gesundheitsgefährdung durch
+        Hautkontakt nicht ausgeschlossen werden kann;
+
+
+
 
 
 2.  Sonstige Tätigkeiten mit Gefahrstoffen:
@@ -461,14 +505,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     d)  Tätigkeiten mit Exposition gegenüber Isocyanaten, bei denen ein
-        regelmäßiger Hautkontakt nicht vermieden werden kann oder eine
+        regelmäßiger Hautkontakt nicht ausgeschlossen werden kann oder eine
         Luftkonzentration von 0,05 Milligramm pro Kubikmeter überschritten
         wird,
 
 
     e)  Tätigkeiten mit einer Exposition mit Gesundheitsgefährdung durch
-        Labortierstaub in Tierhaltungsräumen und
-        -anlagen,
+        Labortierstaub in Tierhaltungsräumen und -anlagen,
 
 
     f)  Tätigkeiten mit Benutzung von Naturgummilatexhandschuhen mit mehr als
@@ -476,25 +519,41 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     g)  Tätigkeiten mit dermaler Gefährdung oder inhalativer Exposition mit
-        Gesundheitsgefährdung, verursacht durch unausgehärtete Epoxidharze.
+        Gesundheitsgefährdung, verursacht durch Bestandteile unausgehärteter
+        Epoxidharze, insbesondere durch Versprühen von Epoxidharzen,
+
+
+    h)  Tätigkeiten mit Exposition gegenüber Blei und anorganischen
+        Bleiverbindungen bei Überschreitung einer Luftkonzentration von 0,075
+        Milligramm pro Kubikmeter,
+
+
+    i)  Tätigkeiten mit Hochtemperaturwollen, soweit dabei als krebserzeugend
+        Kategorie 1 oder 2 im Sinne der Gefahrstoffverordnung eingestufte
+        Faserstäube freigesetzt werden können,
+
+
+    j)  Tätigkeiten mit Exposition gegenüber Mehlstaub bei Überschreitung
+        einer Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft.
 
 
 
 
 
 
-**(2) Angebotsuntersuchungen bei:**
+**(2) Angebotsvorsorge bei:**
 
 1.  Tätigkeiten mit den in Absatz 1 Nr. 1 genannten Gefahrstoffen, wenn
-    eine Exposition besteht;
+    eine Exposition nicht ausgeschlossen werden kann und der Arbeitgeber
+    keine Pflichtvorsorge zu veranlassen hat;
 
 
 2.  Sonstige Tätigkeiten mit Gefahrstoffen:
 
-    a)  Schädlingsbekämpfung nach Anhang I Nummer 3 der Gefahrstoffverordnung,
+    a)  Schädlingsbekämpfung nach der Gefahrstoffverordnung,
 
 
-    b)  Begasungen nach Anhang I Nummer 4 der Gefahrstoffverordnung,
+    b)  Begasungen nach der Gefahrstoffverordnung,
 
 
     c)  Tätigkeiten mit folgenden Stoffen oder deren Gemischen: n-Hexan,
@@ -503,9 +562,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Trichlorethen, Tetrachlorethen,
 
 
-    d)  Tätigkeiten mit krebserzeugenden oder erbgutverändernden Stoffen oder
-        Zubereitungen der Kategorie 1 oder 2 im Sinne der
-        Gefahrstoffverordnung,
+    d)  Tätigkeiten mit einem Gefahrstoff, sofern der Gefahrstoff nicht in
+        Absatz 1 Nummer 1 genannt ist, eine wiederholte Exposition nicht
+        ausgeschlossen werden kann und
+
+        aa) der Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der
+            Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes
+            Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung
+            ist oder
+
+
+        bb) die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten
+            oder Verfahren Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung
+            bezeichnet werden,
+
+
+
 
 
     e)  Feuchtarbeit von regelmäßig mehr als zwei Stunden je Tag,
@@ -517,278 +589,386 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     g)  Tätigkeiten mit Exposition gegenüber Getreide- und Futtermittelstäuben
         bei Überschreitung einer Luftkonzentration von 1 Milligramm je
-        Kubikmeter einatembarem Staub;
+        Kubikmeter einatembarem Staub,
+
+
+    h)  Tätigkeiten mit Exposition gegenüber Isocyanaten, bei denen ein
+        Hautkontakt nicht ausgeschlossen werden kann oder eine
+        Luftkonzentration von 0,05 Milligramm pro Kubikmeter eingehalten wird,
+
+
+    i)  Tätigkeiten mit Exposition gegenüber Blei und anorganischen
+        Bleiverbindungen bei Einhaltung einer Luftkonzentration von 0,075
+        Milligramm pro Kubikmeter,
+
+
+    j)  Tätigkeiten mit Exposition gegenüber Mehlstaub bei Einhaltung einer
+        Mehlstaubkonzentration von 4 Milligramm pro Kubikmeter Luft,
+
+
+    k)  Tätigkeiten mit Exposition gegenüber sonstigen
+        atemwegssensibilisierend oder hautsensibilisierend wirkenden Stoffen,
+        für die nach Absatz 1, Nummer 1 oder Buchstabe a bis j keine
+        arbeitsmedizinische Vorsorge vorgesehen ist.
 
 
 
 
 
-3.  Untersuchungen nach den Nummern 1 und 2 müssen nicht angeboten werden,
-    wenn nach der Gefährdungsbeurteilung die Voraussetzungen des § 6
-    Absatz 11 der Gefahrstoffverordnung vorliegen und die nach § 8 der
-    Gefahrstoffverordnung ergriffenen Maßnahmen zum Schutz der
-    Beschäftigten ausreichen.
+3.  (weggefallen)
 
 
 
-**(3) Anlässe für nachgehende Untersuchungen:**
-Tätigkeiten mit Exposition gegenüber krebserzeugenden oder
-erbgutverändernden Stoffen und Zubereitungen der Kategorie 1 oder 2 im
-Sinne der Gefahrstoffverordnung.
+**(3) Anlässe für nachgehende Vorsorge:**
+
+1.  Tätigkeiten mit Exposition gegenüber einem Gefahrstoff, sofern
+
+    a)  der Gefahrstoff ein krebserzeugender oder keimzellmutagener Stoff der
+        Kategorie 1A oder 1B oder ein krebserzeugendes oder keimzellmutagenes
+        Gemisch der Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung
+        ist oder
+
+
+    b)  die Tätigkeiten mit dem Gefahrstoff als krebserzeugende Tätigkeiten
+        oder Verfahren Kategorie 1A oder 1B im Sinne der Gefahrstoffverordnung
+        bezeichnet werden;
+
+
+
+
+
+2.  Tätigkeiten mit Exposition gegenüber Blei oder anorganischen
+    Bleiverbindungen;
+
+
+3.  Tätigkeiten mit Hochtemperaturwollen nach Absatz 1 Nummer 2 Buchstabe
+    i.
+
+
+
+**(4) Abweichungen:**
+Vorsorge nach den Absätzen 1 bis 3 muss nicht veranlasst oder
+angeboten werden, wenn und soweit die auf der Grundlage von § 9 Absatz
+3 Satz 1 Nummer 1 ermittelten und nach § 9 Absatz 4 bekannt gegebenen
+Regeln etwas anderes bestimmen.
 
 **Teil 2**
 **Tätigkeiten mit biologischen Arbeitsstoffen einschließlich
 gentechnischen Arbeiten mit humanpathogenen Organismen**
 
-**(1) Pflichtuntersuchungen bei:**
+**(1) Pflichtvorsorge bei:**
 
-1.  gezielten Tätigkeiten mit den in nachfolgender Tabelle, Spalte 1,
-    genannten biologischen Arbeitsstoffen sowie
+1.  gezielten Tätigkeiten mit einem biologischen Arbeitsstoff der
+    Risikogruppe 4 oder mit
 
+    –   Bacillus anthracis,
 
-2.  nicht gezielten Tätigkeiten der Schutzstufe 4 der Biostoffverordnung
-    oder mit den in nachfolgender Tabelle genannten biologischen
-    Arbeitsstoffen in den in Spalte 2 bezeichneten Bereichen unter den
-    Expositionsbedingungen der Spalte 3.
 
+    –   Bartonella bacilliformis,
 
 
-Bei biologischen Arbeitsstoffen, die in nachfolgender Tabelle als
-impfpräventabel gekennzeichnet sind, hat der Arbeitgeber zu
-veranlassen, dass im Rahmen der Pflichtuntersuchung nach
-entsprechender ärztlicher Beratung ein Impfangebot unterbreitet wird.
-Eine Pflichtuntersuchung muss nicht durchgeführt werden, wenn der oder
-die Beschäftigte bereits über einen ausreichenden Immunschutz gegen
-diesen biologischen Arbeitsstoff verfügt. Die Ablehnung des
-Impfangebotes ist allein kein Grund, gesundheitliche Bedenken gegen
-die Ausübung einer Tätigkeit auszusprechen.
+    –   Bartonella henselae,
 
-*    *   Biologischer Arbeitsstoff
 
-    *   Bereich nicht gezielter Tätigkeiten
+    –   Bartonella quintana,
 
-    *   Expositionsbedingungen
 
+    –   Bordetella pertussis,
 
-*    *   Biologische Arbeitsstoffe der
-        Risikogruppe 4
 
-    *   Kompetenzzentren zur medizinischen Untersuchung, Behandlung und Pflege
-        von Menschen
+    –   Borelia burgdorferi,
 
-    *   Tätigkeiten mit Kontakt zu erkrankten oder krankheitsverdächtigen
-        Personen
 
+    –   Borelia burgdorferi sensu lato,
 
-*    *   Pathologie
 
-    *   Obduktion, Sektion von verstorbenen Menschen oder Tieren, bei denen
-        eine Erkrankung durch biologische Arbeitsstoffe der Risikogruppe 4
-        oder ein entsprechender Krankheitsverdacht vorlag
+    –   Brucella melitensis,
 
 
-*    *
-    *   Forschungseinrichtungen/Laboratorien
+    –   Burkholderia pseudomallei (Pseudomonas pseudomallei),
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien
 
+    –   Chlamydophila pneumoniae,
 
-*    *   Bordetella Pertussis\*)
-        Masernvirus\*)
-        Mumpsvirus\*)
-        Rubivirus\*)
-        Varizella-Zoster-Virus (VZV)\*)
 
-    *   Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege
-        von Kindern sowie zur vorschulischen Kinderbetreuung
+    –   Chlamydophila psittaci (aviäre Stämme),
 
-    *   regelmäßiger, direkter Kontakt zu Kindern
 
+    –   Coxiella burnetii,
 
-*    *
-    *   Forschungseinrichtungen/Laboratorien
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien
+    –   Francisella tularensis,
 
 
-*    *   Borrelia burgdorferi
+    –   Frühsommermeningoenzephalitis-(FSME)-Virus,
 
-    *   Tätigkeiten als Wald- oder Forstarbeiter
 
-    *   Tätigkeiten in niederer Vegetation
+    –   Gelbfieber-Virus,
 
 
-*    *   Bacillus anthracis\*)
-        Bartonella
-        – bacilliformis
-        – quintana
-        – henselae
-        Borrelia burgdorferi sensu lato
-        Brucella melitensis
-        Burkholderia pseudomallei
-        (Pseudomonas pseudomallei)
-        Chlamydophila pneumoniae
-        Chlamydophila psittaci (aviäre Stämme)
-        Coxiella burnetii
-        Francisella tularensis\*)
-        Gelbfieber-Virus
-        Helicobacter pylori
-        Influenza A+B-Virus\*)
-        Japanenzephalitisvirus\*)
-        Leptospira spp.\*)
-        Neisseria meningitidis\*)
-        Treponema pallidum (Lues)
-        Tropheryma whipplei
-        Trypanosoma cruzi
-        Yersinia pestis\*)
-        Poliomyelitisvirus\*)
-        Schistosoma mansoni
-        Streptococcus pneumoniae\*)
-        Vibrio cholerae\*)
+    –   Helicobacter pylori,
 
-    *   Forschungseinrichtungen/Laboratorien
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeiten zu infizierten
-        Tieren/Proben, Verdachtsproben bzw. krankheitsverdächtigen Tieren
-        sowie zu erregerhaltigen oder kontaminierten Gegenständen oder
-        Materialien, wenn dabei der Übertragungsweg gegeben ist
+    –   Hepatitis-A-Virus (HAV),
 
 
-*    *   Frühsommermeningoenzephalitis-(FSME)-Virus\*)
+    –   Hepatitis-B-Virus (HBV),
 
-    *   in Endemiegebieten:
-        Land-, Forst- und Holzwirtschaft,
-        Gartenbau,
-        Tierhandel, Jagd
 
-    *   regelmäßige Tätigkeiten in niederer Vegetation und in Wäldern,
-        Tätigkeiten mit regelmäßigem direkten Kontakt zu freilebenden Tieren
+    –   Hepatitis-C-Virus (HCV),
 
 
-*    *   Forschungseinrichtungen/Laboratorien
+    –   Influenzavirus A oder B,
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeiten zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien, wenn der Übertragungsweg gegeben ist
 
+    –   Japanenzephalitisvirus,
 
-*    *   Hepatitis-A-Virus (HAV)\*)
 
-    *   Einrichtungen für behinderte Menschen,Kinderstationen
+    –   Leptospira spp.,
 
-    *   Tätigkeiten mit regelmäßigem Kontakt mit Stuhl im Rahmen
-        – der Pflege von Kleinkindern,
-        – der Betreuung von behinderten Menschen
 
+    –   Masernvirus,
 
-*    *
-    *   Stuhllaboratorien
 
-    *   regelmäßige Tätigkeiten mit Stuhlproben
+    –   Mumpsvirus,
 
 
-*    *   Kläranlagen
-        Kanalisation
+    –   Mycobacterium bovis,
 
-    *   Tätigkeiten mit regelmäßigem Kontakt zu fäkalienhaltigen Abwässern
-        oder mit fäkalienkontaminierten Gegenständen
 
+    –   Mycobacterium tuberculosis,
 
-*    *
-    *   Forschungseinrichtungen/Laboratorien
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien
+    –   Neisseria meningitidis,
 
 
-*    *   Hepatitis-B-Virus (HBV)\*)
-        Hepatitis-C-Virus (HCV)
+    –   Poliomyelitisvirus,
 
-    *   Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege
-        von Menschen und Betreuung von behinderten Menschen einschließlich der
-        Bereiche, die der Versorgung bzw. der Aufrechterhaltung dieser
-        Einrichtungen dienen
 
-    *   Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt
-        mit Körperflüssigkeiten, -ausscheidungen oder -gewebe kommen kann;
-        insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr
-        von Verspritzen und Aerosolbildung
+    –   Rubivirus,
 
 
-*    *   Notfall- und Rettungsdienste
+    –   Salmonella typhi,
 
 
-*    *   Pathologie
+    –   Schistosoma mansoni,
 
 
-*    *   Forschungseinrichtungen/Laboratorien
+    –   Streptococcus pneumoniae,
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien
 
+    –   Tollwutvirus,
 
-*    *   Mycobacterium
-        – tuberculosis
-        – bovis
 
-    *   Tuberkuloseabteilungen und
-        andere pulmologische Einrichtungen
+    –   Treponema pallidum (Lues),
 
-    *   Tätigkeiten mit regelmäßigem Kontakt zu erkrankten oder
-        krankheitsverdächtigten Personen
 
+    –   Tropheryma whipplei,
 
-*    *   Forschungseinrichtungen/Laboratorien
 
-    *   regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu infizierten Proben
-        oder Verdachtsproben bzw. zu erregerhaltigen oder kontaminierten
-        Gegenständen oder Materialien
+    –   Trypanosoma cruzi,
 
 
-*    *   Salmonella Typhi\*)
+    –   Yersinia pestis,
 
-    *   Stuhllaboratorien
 
-    *   regelmäßige Tätigkeiten mit Stuhlproben
+    –   Varizelle-Zoster-Virus (VZV) oder
 
 
-*    *[^F771621_01_BJNR276810008BJNE001102308]
-   Tollwutvirus
+    –   Vibrio cholerae;
 
-    *   Forschungseinrichtungen/Laboratorien
 
-    *   Tätigkeiten mit regelmäßigem Kontakt zu erregerhaltigen oder
-        kontaminierten Gegenständen, Materialien und Proben oder infizierten
-        Tieren
 
 
-*    *   Gebiete mit Wildtollwut
 
-    *   Tätigkeiten mit regelmäßigem Kontakt zu freilebenden Tieren
+2.  nicht gezielten Tätigkeiten mit biologischen Arbeitsstoffen der
+    Risikogruppe 4 bei Kontaktmöglichkeit zu infizierten Proben oder
+    Verdachtsproben oder erkrankten oder krankheitsverdächtigen Personen
+    oder Tieren einschließlich deren Transport sowie
 
 
+3.  nachfolgend aufgeführten nicht gezielten Tätigkeiten
 
-**(2) Angebotsuntersuchungen:**
+    a)  in Forschungseinrichtungen oder Laboratorien: regelmäßige Tätigkeiten
+        mit Kontaktmöglichkeit zu infizierten Proben oder Verdachtsproben, zu
+        infizierten Tieren oder krankheitsverdächtigen Tieren beziehungsweise
+        zu erregerhaltigen oder kontaminierten Gegenständen oder Materialien
+        hinsichtlich eines biologischen Arbeitsstoffes nach Nummer 1;
 
-1.  Hat der Arbeitgeber keine Untersuchungen nach Absatz 1 zu veranlassen,
-    muss er den Beschäftigten Untersuchungen anbieten bei
+
+    b)  in Tuberkuloseabteilungen und anderen pulmologischen Einrichtungen:
+        Tätigkeiten mit regelmäßigem Kontakt zu erkrankten oder
+        krankheitsverdächtigen Personen hinsichtlich Mycobacterium bovis oder
+        Mycobacterium tuberculosis;
+
+
+    c)  in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege
+        von Menschen:
+
+        aa) Tätigkeiten mit regelmäßigem direkten Kontakt zu erkrankten oder
+            krankheitsverdächtigen Personen hinsichtlich
+
+            –   Bordetella pertussis,
+
+
+            –   Hepatitis-A-Virus (HAV),
+
+
+            –   Masernvirus,
+
+
+            –   Mumpsvirus oder
+
+
+            –   Rubivirus,
+
+
+
+
+
+        bb) Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt
+            mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen
+            kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder
+            Gefahr von Verspritzen und Aerosolbildung, hinsichtlich
+
+            –   Hepatitis-B-Virus (HBV) oder
+
+
+            –   Hepatitis-C-Virus (HCV);
+
+
+
+            dies gilt auch für Bereiche, die der Versorgung oder der
+            Aufrechterhaltung dieser Einrichtungen dienen;
+
+
+
+
+
+    d)  in Einrichtungen zur medizinischen Untersuchung, Behandlung und Pflege
+        von Kindern, ausgenommen Einrichtungen ausschließlich zur Betreuung
+        von Kindern: Tätigkeiten mit regelmäßigem direkten Kontakt zu
+        erkrankten oder krankheitsverdächtigen Kindern hinsichtlich Varizella-
+        Zoster-Virus (VZV); Buchstabe c bleibt unberührt;
+
+
+    e)  in Einrichtungen ausschließlich zur Betreuung von Menschen:
+        Tätigkeiten, bei denen es regelmäßig und in größerem Umfang zu Kontakt
+        mit Körperflüssigkeiten, Körperausscheidungen oder Körpergewebe kommen
+        kann, insbesondere Tätigkeiten mit erhöhter Verletzungsgefahr oder
+        Gefahr von Verspritzen und Aerosolbildung, hinsichtlich
+
+        –   Hepatitis-A-Virus (HAV),
+
+
+        –   Hepatitis-B-Virus (HBV) oder
+
+
+        –   Hepatitis-C-Virus (HCV);
+
+
+
+
+
+    f)  in Einrichtungen zur vorschulischen Betreuung von Kindern: Tätigkeiten
+        mit regelmäßigem direkten Kontakt zu Kindern hinsichtlich
+
+        –   Bordetella pertussis,
+
+
+        –   Masernvirus,
+
+
+        –   Mumpsvirus,
+
+
+        –   Rubivirus oder
+
+
+        –   Varizella-Zoster-Virus (VZV); Buchstabe e bleibt unberührt;
+
+
+
+
+
+    g)  in Notfall- und Rettungsdiensten: Tätigkeiten, bei denen es regelmäßig
+        und in größerem Umfang zu Kontakt mit Körperflüssigkeiten,
+        Körperausscheidungen oder Körpergewebe kommen kann, insbesondere
+        Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen
+        und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder
+        Hepatitis-C-Virus (HCV);
+
+
+    h)  in der Pathologie: Tätigkeiten, bei denen es regelmäßig und in
+        größerem Umfang zu Kontakt mit Körperflüssigkeiten,
+        Körperausscheidungen oder Körpergewebe kommen kann, insbesondere
+        Tätigkeiten mit erhöhter Verletzungsgefahr oder Gefahr von Verspritzen
+        und Aerosolbildung, hinsichtlich Hepatitis-B-Virus (HBV) oder
+        Hepatitis-C-Virus (HCV);
+
+
+    i)  in Kläranlagen oder in der Kanalisation: Tätigkeiten mit regelmäßigem
+        Kontakt zu fäkalienhaltigen Abwässern oder mit fäkalienkontaminierten
+        Gegenständen hinsichtlich Hepatitis-A-Virus (HAV);
+
+
+    j)  in Einrichtungen zur Aufzucht und Haltung von Vögeln oder zur
+        Geflügelschlachtung: regelmäßige Tätigkeiten mit Kontaktmöglichkeit zu
+        infizierten Proben oder Verdachtsproben, zu infizierten Tieren oder
+        krankheitsverdächtigen Tieren beziehungsweise zu erregerhaltigen oder
+        kontaminierten Gegenständen oder Materialien, wenn dabei der
+        Übertragungsweg gegeben ist, hinsichtlich Chlamydophila psittaci
+        (aviäre Stämme);
+
+
+    k)  in einem Tollwut gefährdeten Bezirk: Tätigkeiten mit regelmäßigem
+        Kontakt zu frei lebenden Tieren hinsichtlich Tollwutvirus;
+
+
+    l)  in oder in der Nähe von Fledermausunterschlupfen: Tätigkeiten mit
+        engem Kontakt zu Fledermäusen hinsichtlich Europäischem Fledermaus-
+        Lyssavirus (EBLV 1 und 2);
+
+
+    m)  auf Freiflächen, in Wäldern, Parks und Gartenanlagen, Tiergärten und
+        Zoos: regelmäßige Tätigkeiten in niederer Vegetation oder direkter
+        Kontakt zu frei lebenden Tieren hinsichtlich
+
+        aa) Borrellia burgdorferi oder
+
+
+        bb) in Endemiegebieten Frühsommermeningoenzephalitis-(FSME)-Virus.
+
+
+
+
+
+
+
+
+
+**(2) Angebotsvorsorge**
+
+1.  Hat der Arbeitgeber keine Pflichtvorsorge nach Absatz 1 zu
+    veranlassen, muss er den Beschäftigten Angebotsvorsorge anbieten bei
 
     a)  gezielten Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppe
         3 der Biostoffverordnung und nicht gezielten Tätigkeiten, die der
-        Schutzstufe 3 der Biostoffverordnung zuzuordnen sind,
+        Schutzstufe 3 der Biostoffverordnung zuzuordnen sind oder für die eine
+        vergleichbare Gefährdung besteht,
 
 
     b)  gezielten Tätigkeiten mit biologischen Arbeitsstoffen der Risikogruppe
         2 der Biostoffverordnung und nicht gezielten Tätigkeiten, die der
-        Schutzstufe 2 der Biostoffverordnung zuzuordnen sind, es sei denn,
-        nach der Gefährdungsbeurteilung und auf Grund der getroffenen
-        Schutzmaßnahmen ist nicht von einer Infektionsgefährdung auszugehen;
+        Schutzstufe 2 der Biostoffverordnung zuzuordnen sind oder für die eine
+        vergleichbare Gefährdung besteht, es sei denn, nach der
+        Gefährdungsbeurteilung und auf Grund der getroffenen Schutzmaßnahmen
+        ist nicht von einer Infektionsgefährdung auszugehen;
+
+
+    c)  Tätigkeiten mit Exposition gegenüber sensibilisierend oder toxisch
+        wirkenden biologischen Arbeitsstoffen, für die nach Absatz 1,
+        Buchstabe a oder b keine arbeitsmedizinische Vorsorge vorgesehen ist;
 
 
 
@@ -797,7 +977,7 @@ die Ausübung einer Tätigkeit auszusprechen.
 2.  § 5 Abs. 2 gilt entsprechend, wenn als Folge einer Exposition
     gegenüber biologischen Arbeitsstoffen
 
-    a)  mit einer schweren Infektion oder Erkrankung gerechnet werden muss und
+    a)  mit einer schweren Infektionskrankheit gerechnet werden muss und
         Maßnahmen der postexpositionellen Prophylaxe möglich sind oder
 
 
@@ -807,21 +987,18 @@ die Ausübung einer Tätigkeit auszusprechen.
 
 
 
-3.  Am Ende einer Tätigkeit, bei der eine Pflichtuntersuchung nach Absatz
-    1 zu veranlassen war, hat der Arbeitgeber eine Nachuntersuchung
-    anzubieten. Satz 1 gilt nicht für Tätigkeiten mit impfpräventablen
-    biologischen Arbeitsstoffen, wenn der oder die Beschäftigte insoweit
-    über einen ausreichenden Immunschutz verfügt.
+3.  Am Ende einer Tätigkeit, bei der eine Pflichtvorsorge nach Absatz 1 zu
+    veranlassen war, hat der Arbeitgeber eine Angebotsvorsorge anzubieten.
 
 
 
 **(3) Gentechnische Arbeiten mit humanpathogenen Organismen:**
-Die Absätze 1 und 2 zu Pflicht- und Angebotsuntersuchungen gelten
+Die Absätze 1 und 2 zu Pflicht- und Angebotsvorsorge gelten
 entsprechend bei gentechnischen Arbeiten mit humanpathogenen
 Organismen.
 **Teil 3**
 **Tätigkeiten mit physikalischen Einwirkungen**
-**(1) Pflichtuntersuchungen bei:**
+**(1) Pflichtvorsorge bei:**
 
 1.  Tätigkeiten mit extremer Hitzebelastung, die zu einer besonderen
     Gefährdung führen können;
@@ -831,10 +1008,9 @@ Organismen.
 
 
 3.  Tätigkeiten mit Lärmexposition, wenn die oberen Auslösewerte von L
-    ex,8h                    = 85 dB(A) beziehungsweise
+    ex,8h = 85 dB(A) beziehungsweise
     L
-    pC,peak                    = 137 dB(C) erreicht oder überschritten
-    werden.
+    pC,peak = 137 dB(C) erreicht oder überschritten werden.
 
     Bei der Anwendung der Auslösewerte nach Satz 1 wird die dämmende
     Wirkung eines persönlichen Gehörschutzes der Beschäftigten nicht
@@ -845,48 +1021,35 @@ Organismen.
     Expositionsgrenzwerte
 
     a)  A(8) = 5 m/s
-        2                          für Tätigkeiten mit Hand-Arm-Vibrationen
-        oder
+        2 für Tätigkeiten mit Hand-Arm-Vibrationen oder
 
 
     b)  A(8) = 1,15 m/s
-        2                          in X- und Y-Richtung und A(8) = 0,8 m/s
-        2                          in Z-Richtung für Tätigkeiten mit
-        Ganzkörper-Vibrationen
+        2 in X- oder Y-Richtung oder A(8) = 0,8 m/s
+        2 in Z-Richtung für Tätigkeiten mit Ganzkörper-Vibrationen
 
 
 
     erreicht oder überschritten werden;
 
 
-5.  Tätigkeiten in Druckluft (Luft mit einem Überdruck von mehr als 0,1
-    bar)
-
-    Tätigkeitsvoraussetzung für Druckluftarbeiten im Sinne von § 1 Abs. 1
-    i. V. m. § 2 Abs. 2 der Druckluftverordnung ist, dass die
-    gesundheitliche Unbedenklichkeit nach § 4 Abs. 2 Satz 2 innerhalb von
-    zwölf Wochen vor der Aufnahme der Beschäftigung und anschließend vor
-    Ablauf von zwölf Monaten bescheinigt ist. § 11 der Druckluftverordnung
-    bleibt unberührt;
-
-
-6.  Tätigkeiten unter Wasser, bei denen der oder die Beschäftigte über ein
+5.  Tätigkeiten unter Wasser, bei denen der oder die Beschäftigte über ein
     Tauchgerät mit Atemgas versorgt wird (Taucherarbeiten);
 
 
-7.  Tätigkeiten mit Exposition durch künstliche optische Strahlung, wenn
-    am Arbeitsplatz die Expositionsgrenzwerte nach § 6 der
+6.  Tätigkeiten mit Exposition durch inkohärente künstliche optische
+    Strahlung, wenn am Arbeitsplatz die Expositionsgrenzwerte nach § 6 der
     Arbeitsschutzverordnung zu künstlicher optischer Strahlung vom 19.
     Juli 2010 (BGBl. I S. 960) in der jeweils geltenden Fassung
     überschritten werden.
 
 
 
-**(2) Angebotsuntersuchungen bei:**
+**(2) Angebotsvorsorge bei:**
 
 1.  Tätigkeiten mit Lärmexposition, wenn die unteren Auslösewerte von L
-    ex,8h                    = 80 dB(A) beziehungsweise L
-    pC,peak                    = 135 dB(C) überschritten werden.
+    ex,8h = 80 dB(A) beziehungsweise L
+    pC,peak = 135 dB(C) überschritten werden.
 
     Bei der Anwendung der Auslösewerte nach Satz 1 wird die dämmende
     Wirkung eines persönlichen Gehörschutzes der Beschäftigten nicht
@@ -897,29 +1060,46 @@ Organismen.
     von
 
     a)  A(8) = 2,5 m/s
-        2                          für Tätigkeiten mit Hand-Arm-Vibrationen
-        oder
+        2 für Tätigkeiten mit Hand-Arm-Vibrationen oder
 
 
     b)  A(8) = 0,5 m/s
-        2                          für Tätigkeiten mit Ganzkörper-Vibrationen
+        2 für Tätigkeiten mit Ganzkörper-Vibrationen
 
 
 
     überschritten werden;
 
 
-3.  Tätigkeiten mit Exposition durch künstliche optische Strahlung, wenn
-    am Arbeitsplatz die Expositionsgrenzwerte nach § 6 der
+3.  Tätigkeiten mit Exposition durch inkohärente künstliche optische
+    Strahlung, wenn am Arbeitsplatz die Expositionsgrenzwerte nach § 6 der
     Arbeitsschutzverordnung zu künstlicher optischer Strahlung vom 19.
     Juli 2010 (BGBl. I S. 960) in der jeweils geltenden Fassung
-    überschritten werden können.
+    überschritten werden können;
+
+
+4.  Tätigkeiten mit wesentlich erhöhten körperlichen Belastungen, die mit
+    Gesundheitsgefährdungen für das Muskel-Skelett-System verbunden sind
+    durch
+
+    a)  Lastenhandhabung beim Heben, Halten, Tragen, Ziehen oder Schieben von
+        Lasten,
+
+
+    b)  repetitive manuelle Tätigkeiten oder
+
+
+    c)  Arbeiten in erzwungenen Körperhaltungen im Knien, in langdauerndem
+        Rumpfbeugen oder -drehen oder in vergleichbaren Zwangshaltungen.
+
+
+
 
 
 
 **Teil 4**
 **Sonstige Tätigkeiten**
-**(1) Pflichtuntersuchungen bei:**
+**(1) Pflichtvorsorge bei:**
 
 1.  Tätigkeiten, die das Tragen von Atemschutzgeräten der Gruppen 2 und 3
     erfordern;
@@ -933,28 +1113,29 @@ Organismen.
 
 
 
-**(2) Angebotsuntersuchungen bei:**
+**(2) Angebotsvorsorge bei:**
 
 1.  Tätigkeiten an Bildschirmgeräten
 
-    Die Pflicht zum Angebot einer Untersuchung beschränkt sich auf eine
-    angemessene Untersuchung der Augen und des Sehvermögens. Erweist sich
-    auf Grund der Ergebnisse dieser Untersuchung eine augenärztliche
-    Untersuchung als erforderlich, so ist diese zu ermöglichen. § 5 Abs. 2
-    gilt entsprechend für Sehbeschwerden. Abweichend von § 3 Abs. 2 Satz 1
-    in Verbindung mit § 7 Abs. 1 kann die Durchführung eines Sehtests auch
-    durch andere fachkundige Personen erfolgen. Den Beschäftigten sind im
+    Die Angebotsvorsorge enthält das Angebot auf eine angemessene
+    Untersuchung der Augen und des Sehvermögens. Erweist sich auf Grund
+    der Angebotsvorsorge eine augenärztliche Untersuchung als
+    erforderlich, so ist diese zu ermöglichen. § 5 Abs. 2 gilt
+    entsprechend für Sehbeschwerden. Den Beschäftigten sind im
     erforderlichen Umfang spezielle Sehhilfen für ihre Arbeit an
-    Bildschirmgeräten zur Verfügung zu stellen, wenn Untersuchungsergebnis
-    ist, dass spezielle Sehhilfen notwendig und normale Sehhilfen nicht
-    geeignet sind;
+    Bildschirmgeräten zur Verfügung zu stellen, wenn Ergebnis der
+    Angebotsvorsorge ist, dass spezielle Sehhilfen notwendig und normale
+    Sehhilfen nicht geeignet sind;
 
 
 2.  Tätigkeiten, die das Tragen von Atemschutzgeräten der Gruppe 1
-    erfordern.
+    erfordern;
+
+
+3.  Am Ende einer Tätigkeit, bei der nach Absatz 1 Nummer 2 eine
+    Pflichtvorsorge zu veranlassen war, hat der Arbeitgeber eine
+    Angebotsvorsorge anzubieten.
 
 
 
 
-    impfpräventabel
-[^F771621_01_BJNR276810008BJNE001102308]: 

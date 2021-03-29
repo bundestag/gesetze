@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2716
 
 Zuletzt geändert durch
-:   Art. 8 G v. 31.7.2009 I 2585
+:   Art. 22 G v. 23.7.2013 I 2586
 
 
 ## § 1 Anwendungsbereich
@@ -410,7 +410,8 @@ der festzusetzende Ausgleich nach den Regelungen dieses Gesetzes.
 ## § 12 Kosten
 
 Die Kosten des Vertrages und seiner Durchführung trägt der öffentliche
-Nutzer. Gerichtskosten nach der Kostenordnung werden nicht erhoben.
+Nutzer. Gerichtskosten nach dem Gerichts- und Notarkostengesetz werden
+nicht erhoben.
 
 
 ## § 13 Abweichende Vereinbarungen; Verhältnis zu anderen Vorschriften

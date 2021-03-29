@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1976, 3845
 
 Neugefasst durch
-:   Bek. v. 12.11.2009 I 3710 (3973) (2011 I 363)
+:   Bek. v. 12.11.2009 I 3710, 3973; 2011 I 363;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 5.12.2012 I 2474
+:   Art. 7a G v. 18.7.2017 I 2757
 
 
 ## Erster Abschnitt - Grundsätze und Begriffsbestimmungen
@@ -84,16 +84,15 @@ versichert
 nicht berechtigt ist, die Bundesflagge zu führen, werden auf Antrag
 des Reeders
 
-1.  in der gesetzlichen Kranken-, Renten- und Pflegeversicherung
-    versichert und in die Versicherungspflicht nach dem Dritten Buch
-    einbezogen,
+1.  in der gesetzlichen Kranken-,Renten- und Pflegeversicherung versichert
+    und in die Versicherungspflicht nach dem Dritten Buch einbezogen,
 
 
 2.  in der gesetzlichen Unfallversicherung versichert, wenn der Reeder das
     Seeschiff der Unfallverhütung und Schiffssicherheitsüberwachung durch
-    die Berufsgenossenschaft für Transport und Verkehrswirtschaft
-    unterstellt hat und der Staat, dessen Flagge das Seeschiff führt, dem
-    nicht widerspricht.
+    die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+    Telekommunikation unterstellt hat und der Staat, dessen Flagge das
+    Seeschiff führt, dem nicht widerspricht.
 
 
 
@@ -194,11 +193,11 @@ der Arbeitsleistung von mehr als einem Monat, wenn
 Satz 1 gilt entsprechend, wenn während einer bis zu dreimonatigen
 Freistellung Arbeitsentgelt aus einer Vereinbarung zur flexiblen
 Gestaltung der werktäglichen oder wöchentlichen Arbeitszeit oder dem
-Ausgleich betrieblicher Produktions- und Arbeitszeitzyklen fällig
-ist.Beginnt ein Beschäftigungsverhältnis mit einer Zeit der
-Freistellung, gilt Satz 1 Nummer 2 mit der Maßgabe, dass das monatlich
-fällige Arbeitsentgelt in der Zeit der Freistellung nicht unangemessen
-von dem für die Zeit der Arbeitsleistung abweichen darf, mit der das
+Ausgleich betrieblicher Produktions- und Arbeitszeitzyklen fällig ist.
+Beginnt ein Beschäftigungsverhältnis mit einer Zeit der Freistellung,
+gilt Satz 1 Nummer 2 mit der Maßgabe, dass das monatlich fällige
+Arbeitsentgelt in der Zeit der Freistellung nicht unangemessen von dem
+für die Zeit der Arbeitsleistung abweichen darf, mit der das
 Arbeitsentgelt später erzielt werden soll. Eine Beschäftigung gegen
 Arbeitsentgelt besteht während der Zeit der Freistellung auch, wenn
 die Arbeitsleistung, mit der das Arbeitsentgelt später erzielt werden
@@ -212,13 +211,12 @@ beansprucht werden kann, oder des Todes des Beschäftigten nicht mehr
 für Zeiten einer Freistellung von der Arbeitsleistung verwendet werden
 können, einen anderen Verwendungszweck vereinbaren. Die Sätze 1 bis 4
 gelten nicht für Beschäftigte, auf die Wertguthaben übertragen werden.
-Bis zur Herstellung einheitlicher Einkommensverhältnisse im Inland
-werden Wertguthaben, die durch Arbeitsleistung im Beitrittsgebiet
-erzielt werden, getrennt erfasst; sind für die Beitrags- oder
-Leistungsberechnung im Beitrittsgebiet und im übrigen Bundesgebiet
-unterschiedliche Werte vorgeschrieben, sind die Werte maßgebend, die
-für den Teil des Inlandes gelten, in dem das Wertguthaben erzielt
-worden ist.
+Bis zum 31. Dezember 2024 werden Wertguthaben, die durch
+Arbeitsleistung im Beitrittsgebiet erzielt werden, getrennt erfasst;
+sind für die Beitrags- oder Leistungsberechnung im Beitrittsgebiet und
+im übrigen Bundesgebiet unterschiedliche Werte vorgeschrieben, sind
+die Werte maßgebend, die für den Teil des Inlandes gelten, in dem das
+Wertguthaben erzielt worden ist.
 
 (1b) Die Möglichkeit eines Arbeitnehmers zur Vereinbarung flexibler
 Arbeitszeiten gilt nicht als eine die Kündigung des
@@ -234,11 +232,11 @@ fortdauert, jedoch nicht länger als einen Monat. Eine Beschäftigung
 gilt auch als fortbestehend, wenn Arbeitsentgelt aus einem der
 Deutschen Rentenversicherung Bund übertragenen Wertguthaben bezogen
 wird. Satz 1 gilt nicht, wenn Krankengeld, Krankentagegeld,
-Verletztengeld, Versorgungskrankengeld, Übergangsgeld oder
-Mutterschaftsgeld oder nach gesetzlichen Vorschriften Erziehungsgeld
-oder Elterngeld bezogen oder Elternzeit in Anspruch genommen oder
-Wehrdienst oder Zivildienst geleistet wird. Satz 1 gilt auch nicht für
-die Inanspruchnahme von Pflegezeit im Sinne des § 3 des
+Verletztengeld, Versorgungskrankengeld, Übergangsgeld,
+Pflegeunterstützungsgeld oder Mutterschaftsgeld oder nach gesetzlichen
+Vorschriften Erziehungsgeld oder Elterngeld bezogen oder Elternzeit in
+Anspruch genommen oder Wehrdienst oder Zivildienst geleistet wird.
+Satz 1 gilt auch nicht für die Freistellung nach § 3 des
 Pflegezeitgesetzes.
 
 (4) Beschäftigt ein Arbeitgeber einen Ausländer ohne die nach § 284
@@ -250,26 +248,27 @@ gegen Arbeitsentgelt für den Zeitraum von drei Monaten bestanden hat.
 
 #### § 7a Anfrageverfahren
 
-(1) Die Beteiligten können schriftlich eine Entscheidung beantragen,
-ob eine Beschäftigung vorliegt, es sei denn, die Einzugsstelle oder
-ein anderer Versicherungsträger hatte im Zeitpunkt der Antragstellung
-bereits ein Verfahren zur Feststellung einer Beschäftigung
-eingeleitet. Die Einzugsstelle hat einen Antrag nach Satz 1 zu
-stellen, wenn sich aus der Meldung des Arbeitgebers (§ 28a) ergibt,
-dass der Beschäftigte Ehegatte, Lebenspartner oder Abkömmling des
-Arbeitgebers oder geschäftsführender Gesellschafter einer Gesellschaft
-mit beschränkter Haftung ist. Über den Antrag entscheidet abweichend
-von § 28h Absatz 2 die Deutsche Rentenversicherung Bund.
+(1) Die Beteiligten können schriftlich oder elektronisch eine
+Entscheidung beantragen, ob eine Beschäftigung vorliegt, es sei denn,
+die Einzugsstelle oder ein anderer Versicherungsträger hatte im
+Zeitpunkt der Antragstellung bereits ein Verfahren zur Feststellung
+einer Beschäftigung eingeleitet. Die Einzugsstelle hat einen Antrag
+nach Satz 1 zu stellen, wenn sich aus der Meldung des Arbeitgebers (§
+28a) ergibt, dass der Beschäftigte Ehegatte, Lebenspartner oder
+Abkömmling des Arbeitgebers oder geschäftsführender Gesellschafter
+einer Gesellschaft mit beschränkter Haftung ist. Über den Antrag
+entscheidet abweichend von § 28h Absatz 2 die Deutsche
+Rentenversicherung Bund.
 
 (2) Die Deutsche Rentenversicherung Bund entscheidet auf Grund einer
 Gesamtwürdigung aller Umstände des Einzelfalles, ob eine Beschäftigung
 vorliegt.
 
 (3) Die Deutsche Rentenversicherung Bund teilt den Beteiligten
-schriftlich mit, welche Angaben und Unterlagen sie für ihre
-Entscheidung benötigt. Sie setzt den Beteiligten eine angemessene
-Frist, innerhalb der diese die Angaben zu machen und die Unterlagen
-vorzulegen haben.
+schriftlich oder elektronisch mit, welche Angaben und Unterlagen sie
+für ihre Entscheidung benötigt. Sie setzt den Beteiligten eine
+angemessene Frist, innerhalb der diese die Angaben zu machen und die
+Unterlagen vorzulegen haben.
 
 (4) Die Deutsche Rentenversicherung Bund teilt den Beteiligten mit,
 welche Entscheidung sie zu treffen beabsichtigt, bezeichnet die
@@ -349,9 +348,9 @@ Anspruch genommen werden
     von der Arbeitsleistung oder gesetzlich geregelte Verringerungen der
     Arbeitszeit, insbesondere für Zeiten,
 
-    a)  in denen der Beschäftigte nach § 3 des Pflegezeitgesetzes vom 28. Mai
-        2008 (BGBl. I S. 874, 896) in der jeweils geltenden Fassung einen
-        pflegebedürftigen nahen Angehörigen in häuslicher Umgebung pflegt,
+    a)  in denen der Beschäftigte eine Freistellung nach § 3 des
+        Pflegezeitgesetzes oder nach § 2 des Familienpflegezeitgesetzes
+        verlangen kann,
 
 
     b)  in denen der Beschäftigte nach § 15 des Bundeselterngeld- und
@@ -732,10 +731,9 @@ Recht der Arbeitsförderung.
 
 #### § 13 Reeder, Seeleute und Deutsche Seeschiffe
 
-(1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind Kapitäne
-und Besatzungsmitglieder von Seeschiffen sowie sonstige Arbeitnehmer,
-die an Bord von Seeschiffen während der Reise im Rahmen des
-Schiffsbetriebs beschäftigt sind, mit Ausnahme der Lotsen.
+(1) Reeder sind die Eigentümer von Seeschiffen. Seeleute sind alle
+abhängig beschäftigten Besatzungsmitglieder an Bord von Seeschiffen;
+Kanalsteurer auf dem Nord-Ostsee-Kanal stehen den Seeleuten gleich.
 
 (2) Als deutsche Seeschiffe gelten alle zur Seefahrt bestimmten
 Schiffe, die berechtigt sind, die Bundesflagge zu führen.
@@ -757,9 +755,7 @@ des Betriebsrentengesetzes für betriebliche Altersversorgung in den
 Durchführungswegen Direktzusage oder Unterstützungskasse verwendet
 werden, soweit sie 4 vom Hundert der jährlichen
 Beitragsbemessungsgrenze der allgemeinen Rentenversicherung
-übersteigen. Steuerfreie Aufwandsentschädigungen und die in § 3 Nummer
-26 und 26a des Einkommensteuergesetzes genannten steuerfreien
-Einnahmen gelten nicht als Arbeitsentgelt.
+übersteigen.
 
 (2) Ist ein Nettoarbeitsentgelt vereinbart, gelten als Arbeitsentgelt
 die Einnahmen des Beschäftigten einschließlich der darauf entfallenden
@@ -899,9 +895,10 @@ vorvergangenen Kalenderjahr, aufgerundet auf den nächsthöheren, durch
 verändert sich zum 1. Januar eines jeden Kalenderjahres auf den Wert,
 der sich ergibt, wenn der für das vorvergangene Kalenderjahr geltende
 Wert der Anlage 1 zum Sechsten Buch durch den für das Kalenderjahr der
-Veränderung bestimmten vorläufigen Wert der Anlage 10 zum Sechsten
-Buch geteilt wird, aufgerundet auf den nächsthöheren, durch 420
-teilbaren Betrag.
+Veränderung bestimmten Wert der Anlage 10 zum Sechsten Buch geteilt
+wird, aufgerundet auf den nächsthöheren, durch 420 teilbaren Betrag.
+Für die Zeit ab 1. Januar 2025 ist eine Bezugsgröße (Ost) nicht mehr
+zu bestimmen.
 
 (3) Beitrittsgebiet ist das in Artikel 3 des Einigungsvertrages
 genannte Gebiet.
@@ -922,23 +919,33 @@ genannte Gebiet.
     (Erwerbsersatzeinkommen),
 
 
-3.  Vermögenseinkommen und
+3.  Vermögenseinkommen,
 
 
-4.  Elterngeld.
+4.  Elterngeld und
+
+
+5.  Aufstockungsbeträge und Zuschläge nach § 3 Nummer 28 des
+    Einkommensteuergesetzes.
 
 
 
 Nicht zu berücksichtigen sind
 
-1.  steuerfreie Einnahmen nach § 3 des Einkommensteuergesetzes mit
-    Ausnahme der Aufstockungsbeträge und Zuschläge nach dessen Nummer 28
-    und der Einnahmen nach dessen Nummer 40 sowie Erwerbsersatzeinkommen
-    nach Absatz 3 Satz 1 Nummer 1 und 8 und
+1.  Arbeitsentgelt, das eine Pflegeperson von dem Pflegebedürftigen
+    erhält, wenn das Entgelt das dem Umfang der Pflegetätigkeit
+    entsprechende Pflegegeld nach § 37 des Elften Buches nicht übersteigt,
 
 
 2.  Einnahmen aus Altersvorsorgeverträgen, soweit sie nach § 10a oder
-    Abschnitt XI des Einkommensteuergesetzes gefördert worden sind.
+    Abschnitt XI des Einkommensteuergesetzes gefördert worden sind,
+
+
+3.  Renten nach § 3 Nummer 8a des Einkommensteuergesetzes und
+
+
+4.  Arbeitsentgelt, das ein behinderter Mensch von einem Träger einer in §
+    1 Satz 1 Nummer 2 des Sechsten Buches genannten Einrichtung erhält.
 
 
 
@@ -946,15 +953,7 @@ Die Sätze 1 und 2 gelten auch für vergleichbare ausländische
 Einkommen.
 
 (2) Erwerbseinkommen im Sinne des Absatzes 1 Satz 1 Nummer 1 sind
-Arbeitsentgelt, Arbeitseinkommen und vergleichbares Einkommen. Nicht
-als Erwerbseinkommen im Sinne des Absatzes 1 Satz 1 Nummer 1 gelten
-Arbeitsentgeltteile, die durch Entgeltumwandlung bis zu 4 vom Hundert
-der Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung für
-betriebliche Altersversorgung verwendet werden, sowie das
-Arbeitsentgelt, das eine Pflegeperson von dem Pflegebedürftigen
-erhält, wenn das Entgelt das dem Umfang der Pflegetätigkeit
-entsprechende Pflegegeld im Sinne des § 37 des Elften Buches nicht
-übersteigt.
+Arbeitsentgelt, Arbeitseinkommen und vergleichbares Einkommen.
 
 (2a) Arbeitseinkommen im Sinne des Absatzes 2 Satz 1 ist die positive
 Summe der Gewinne oder Verluste aus folgenden Arbeitseinkommensarten:
@@ -977,9 +976,9 @@ Summe der Gewinne oder Verluste aus folgenden Arbeitseinkommensarten:
 sind
 
 1.  das Krankengeld, das Verletztengeld, das Versorgungskrankengeld, das
-    Mutterschaftsgeld, das Übergangsgeld, das Kurzarbeitergeld, das
-    Arbeitslosengeld, das Insolvenzgeld, das Krankentagegeld und
-    vergleichbare Leistungen,
+    Mutterschaftsgeld, das Übergangsgeld, das Pflegeunterstützungsgeld,
+    das Kurzarbeitergeld, das Arbeitslosengeld, das Insolvenzgeld, das
+    Krankentagegeld und vergleichbare Leistungen,
 
 
 2.  Renten der Rentenversicherung wegen Alters oder verminderter
@@ -1007,8 +1006,11 @@ sind
 5.  das Ruhegehalt und vergleichbare Bezüge aus einem öffentlich-
     rechtlichen Dienst- oder Amtsverhältnis oder aus einem
     versicherungsfreien Arbeitsverhältnis mit Anspruch auf Versorgung nach
-    beamtenrechtlichen Vorschriften oder Grundsätzen sowie vergleichbare
-    Bezüge aus der Versorgung der Abgeordneten,
+    beamtenrechtlichen Vorschriften oder Grundsätzen, Altersgeld oder
+    vergleichbare Alterssicherungsleistungen sowie vergleichbare Bezüge
+    aus der Versorgung der Abgeordneten, Leistungen nach dem
+    Bundesversorgungsteilungsgesetz und vergleichbare Leistungen nach
+    entsprechenden länderrechtlichen Regelungen,
 
 
 6.  das Unfallruhegehalt und vergleichbare Bezüge aus einem öffentlich-
@@ -1031,7 +1033,8 @@ sind
 
 
 9.  Renten wegen Alters oder verminderter Erwerbsfähigkeit, die aus Anlass
-    eines Arbeitsverhältnisses zugesagt worden sind,
+    eines Arbeitsverhältnisses zugesagt worden sind sowie Leistungen aus
+    der Versorgungsausgleichskasse,
 
 
 10. Renten wegen Alters oder verminderter Erwerbsfähigkeit aus privaten
@@ -1118,7 +1121,9 @@ Vermögenseinkommen gilt als monatliches Einkommen im Sinne von Absatz
 1 Satz 1 ein Zwölftel dieses im letzten Kalenderjahr erzielten
 Einkommens; bei einmalig gezahltem Vermögenseinkommen gilt ein
 Zwölftel des gezahlten Betrages als monatliches Einkommen nach Absatz
-1 Satz 1.
+1 Satz 1. Steht das zu berücksichtigende Einkommen des vorigen
+Kalenderjahres noch nicht fest, so wird das voraussichtlich erzielte
+Einkommen zugrunde gelegt.
 
 (3) Ist im letzten Kalenderjahr Einkommen nach Absatz 2 nicht oder nur
 Erwerbsersatzeinkommen nach § 18a Absatz 3 Satz 1 Nummer 1 erzielt
@@ -1246,6 +1251,10 @@ gezahlten Erträge ausstellt.
 (1) Einkommensänderungen sind erst vom nächstfolgenden 1. Juli an zu
 berücksichtigen; einmalig gezahltes Vermögenseinkommen ist vom Beginn
 des Kalendermonats an zu berücksichtigen, für den es als erzielt gilt.
+Eine Änderung des Einkommens ist auch die Änderung des zu
+berücksichtigenden voraussichtlichen Einkommens oder die Feststellung
+des tatsächlichen Einkommens nach der Berücksichtigung
+voraussichtlichen Einkommens.
 
 (2) Minderungen des berücksichtigten Einkommens können vom Zeitpunkt
 ihres Eintritts an berücksichtigt werden, wenn das laufende Einkommen
@@ -1284,23 +1293,7 @@ mitzuteilen. Für Bezieher von Kapitalerträgen nach § 20 des
 Einkommensteuergesetzes haben die auszahlenden Stellen eine
 Bescheinigung über die von ihr gezahlten Erträge auszustellen.
 
-(4) Soweit dem Versicherungsträger das nach den Absätzen 2 und 3
-mitzuteilende Einkommen nicht bekannt ist, ist das bisher
-berücksichtigte Einkommen vom nächstfolgenden 1. Juli an vorläufig um
-den Vomhundertsatz anzupassen, um den sich die Renten in der
-Rentenversicherung verändern, wenn nicht Grund zur Annahme besteht,
-dass die Verhältnisse beim Berechtigten sich in anderer Weise
-verändern oder unverändert bleiben. Die §§ 66 und 67 des Ersten Buches
-bleiben unberührt. Wird dem Versicherungsträger das Arbeitsentgelt vom
-Arbeitgeber nicht rechtzeitig gemäß den Vorschriften über die
-Erfassung von Daten und Datenübermittlung gemeldet oder übersteigt das
-tatsächliche Entgelt die Beitragsbemessungsgrenze, ist der
-Verwaltungsakt mit Wirkung vom nächstfolgenden 1. Juli an aufzuheben,
-sobald dem Versicherungsträger das Arbeitsentgelt mitgeteilt wird;
-spätestens dann ist dem Berechtigten die Anpassung der Rente
-mitzuteilen. Ist das nach Satz 1 berücksichtigte Einkommen unrichtig,
-ist der Verwaltungsakt mit Wirkung vom nächstfolgenden 1. Juli an
-aufzuheben.
+(4) (weggefallen)
 
 (5) Im Fall des § 18d Absatz 2 findet § 18c für den erforderlichen
 Nachweis der Einkommensminderung entsprechende Anwendung.
@@ -1360,6 +1353,11 @@ erforderlich ist. Satz 1 gilt für die in § 69 Absatz 2 des Zehnten
 Buches genannten Stellen für die Erfüllung ihrer dort genannten
 Aufgaben entsprechend.
 
+(2a) Die Statistischen Ämter des Bundes und der Länder dürfen die
+Versicherungsnummer nur erheben, verarbeiten oder nutzen, soweit dies
+im Einzelfall für die Erfüllung einer gesetzlichen Aufgabe zur
+Erhebung statistischer Daten erforderlich ist.
+
 (3) Andere Behörden, Gerichte, Arbeitgeber oder Dritte dürfen die
 Versicherungsnummer nur erheben, verarbeiten oder nutzen, soweit dies
 für die Erfüllung einer gesetzlichen Aufgabe der in Absatz 1 genannten
@@ -1408,44 +1406,47 @@ Fällen zu speichern.
 
 
 
-#### § 18h Ausstellung und Pflicht zur Vorlage des Sozialversicherungsausweises
+#### § 18h Ausstellung des Sozialversicherungsausweises
 
-(1) Die Datenstelle der Träger der Rentenversicherung stellt für
-Personen, für die sie eine Versicherungsnummer vergibt, einen
-Sozialversicherungsausweis aus.
-
-(2) Der Sozialversicherungsausweis enthält folgende Angaben über die
-Inhaberin oder den Inhaber:
+(1) Die Datenstelle der Rentenversicherung stellt für jede Person, für
+die sie eine Versicherungsnummer vergibt, einen
+Sozialversicherungsausweis aus, der nur folgende personenbezogene
+Daten über die Inhaberin oder den Inhaber enthalten darf:
 
 1.  die Versicherungsnummer,
 
 
-2.  den Familiennamen und den Geburtsnamen,
+2.  den Familiennamen und den Geburtsnamen und
 
 
-3.  den Vornamen.
+3.  den Vornamen,
+
+
+4.  das Ausstellungsdatum.
 
 
 
-Weitere personenbezogene Daten darf der Ausweis nicht enthalten. Die
-Gestaltung des Sozialversicherungsausweises im Übrigen legt die
-Deutsche Rentenversicherung Bund in Grundsätzen fest, die vom
-Bundesministerium für Arbeit und Soziales zu genehmigen und im
-Bundesanzeiger zu veröffentlichen sind.
+Die Daten zu den Nummern 1 bis 4 sind außerdem codiert aufzubringen
+und digital zu signieren; § 95 gilt. Die Gestaltung und das Verfahren
+zur Ausstellung des Sozialversicherungsausweises legt die Deutsche
+Rentenversicherung Bund in Grundsätzen fest, die vom Bundesministerium
+für Arbeit und Soziales zu genehmigen und im Bundesanzeiger zu
+veröffentlichen sind.
 
-(3) Beschäftigte sind verpflichtet, den Sozialversicherungsausweis bei
+(2) Beschäftigte sind verpflichtet, den Sozialversicherungsausweis bei
 Beginn einer Beschäftigung dem Arbeitgeber vorzulegen. Kann der
 Beschäftigte dies nicht zum Zeitpunkt des Beschäftigungsbeginns, so
 hat er dies unverzüglich nachzuholen.
 
-(4) Die Inhaberin oder der Inhaber ist verpflichtet, der zuständigen
-Einzugsstelle (§ 28i) den Verlust des Sozialversicherungsausweises
-oder sein Wiederauffinden unverzüglich anzuzeigen. Ein neuer
-Sozialversicherungsausweis wird ausgestellt
+(3) Die Inhaberin oder der Inhaber ist verpflichtet, der zuständigen
+Einzugsstelle (§ 28i) oder dem Rentenversicherungsträger den Verlust
+des Sozialversicherungsausweises oder sein Wiederauffinden
+unverzüglich anzuzeigen. Ein neuer Sozialversicherungsausweis wird
+ausgestellt
 
-1.  auf Antrag bei der zuständigen Einzugsstelle, wenn der
-    Sozialversicherungsausweis zerstört worden, abhanden gekommen oder
-    unbrauchbar geworden ist,
+1.  auf Antrag bei der zuständigen Einzugsstelle oder beim
+    Rentenversicherungsträger, wenn der Sozialversicherungsausweis
+    zerstört worden, abhanden gekommen oder unbrauchbar geworden ist,
 
 
 2.  von Amts wegen, wenn sich die Versicherungsnummer, der Familienname
@@ -1455,8 +1456,132 @@ Sozialversicherungsausweis wird ausgestellt
 
 Eine Person darf nur einen auf ihren Namen ausgestellten
 Sozialversicherungsausweis besitzen; unbrauchbare und weitere
-Sozialversicherungsausweise sind an die zuständige Einzugsstelle
-zurückzugeben.
+Sozialversicherungsausweise sind an die zuständige Einzugsstelle oder
+den Rentenversicherungsträger zurückzugeben.
+
+
+### Siebter Titel - Betriebsnummer
+
+
+
+#### § 18i Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber
+
+(1) Der Arbeitgeber hat zur Teilnahme an den Meldeverfahren zur
+Sozialversicherung bei der Bundesagentur für Arbeit eine
+Betriebsnummer für jeden seiner Beschäftigungsbetriebe elektronisch zu
+beantragen.
+
+(2) Der Arbeitgeber hat zur Vergabe der Betriebsnummer der
+Bundesagentur für Arbeit die dazu notwendigen Angaben, insbesondere
+den Namen und die Anschrift des Beschäftigungsbetriebes, den
+Beschäftigungsort, die wirtschaftliche Tätigkeit des
+Beschäftigungsbetriebes und die Rechtsform des Betriebes elektronisch
+zu übermitteln.
+
+(3) Der Beschäftigungsbetrieb ist eine nach der Gemeindegrenze und der
+wirtschaftlichen Betätigung abgegrenzte Einheit, in der Beschäftigte
+für einen Arbeitgeber tätig sind. Für einen Arbeitgeber kann es
+mehrere Beschäftigungsbetriebe in einer Gemeinde geben, sofern diese
+Beschäftigungsbetriebe eine jeweils eigene, wirtschaftliche Einheit
+bilden. Für Beschäftigungsbetriebe desselben Arbeitgebers mit
+unterschiedlicher wirtschaftlicher Betätigung oder in verschiedenen
+Gemeinden sind jeweils eigene Betriebsnummern zu vergeben.
+
+(4) Änderungen zu den Angaben nach Absatz 2 sowie eine Meldung im Fall
+der vollständigen Beendigung der Betriebstätigkeit sind vom
+Arbeitgeber, nach Eröffnung des Insolvenzverfahrens vom
+Insolvenzverwalter, unverzüglich der Bundesagentur für Arbeit durch
+gesicherte und verschlüsselte Datenübertragung aus systemgeprüften
+Programmen oder mittels maschinell erstellter Ausfüllhilfen zu
+übermitteln.
+
+(5) Das Nähere zum Verfahren und zum Inhalt der zu übermittelnden
+Angaben, insbesondere der Datensätze, regeln die Gemeinsamen
+Grundsätze nach § 28b Absatz 1 Satz 1 Nummer 1 bis 3.
+
+(6) Die Betriebsnummern und alle Angaben nach den Absätzen 2 und 4
+werden bei der Bundesagentur für Arbeit in einer elektronischen Datei
+der Beschäftigungsbetriebe gespeichert.
+
+
+#### § 18k Betriebsnummer für Beschäftigungsbetriebe weiterer Meldepflichtiger
+
+(1) Arbeitgeber von knappschaftlichen Beschäftigungsbetrieben und von
+Beschäftigungsbetrieben der Seefahrt haben abweichend von § 18i Absatz
+1 die Betriebsnummer bei der Deutschen Rentenversicherung Knappschaft-
+Bahn-See zu beantragen, die diese im Auftrag der Bundesagentur für
+Arbeit vergibt. § 18i Absatz 4 gilt entsprechend.
+
+(2) Für Arbeitgeber von Beschäftigten in privaten Haushalten, die eine
+Meldung nach § 28a Absatz 7 abzugeben haben, vergibt die Deutsche
+Rentenversicherung Knappschaft-Bahn-See im Auftrag der Bundesagentur
+für Arbeit eine Betriebsnummer bei Eingang der ersten Meldung.
+
+(3) Die Deutsche Rentenversicherung Knappschaft-Bahn-See übermittelt
+die vergebenen Betriebsnummern mit den nach § 18i Absatz 2
+erforderlichen Angaben unverzüglich nach Vergabe oder Änderung an die
+Datei der Beschäftigungsbetriebe der Bundesagentur für Arbeit; § 18i
+Absatz 6 gilt entsprechend.
+
+
+#### § 18l Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren
+
+(1) Beauftragt der Arbeitgeber einen Dritten mit der Durchführung der
+Meldeverfahren nach diesem Gesetzbuch, hat diese Stelle unverzüglich
+eine Betriebsnummer nach § 18i Absatz 1 zu beantragen, soweit sie
+nicht schon über eine eigene Betriebsnummer verfügt. § 18i Absatz 2
+bis 6 gilt entsprechend.
+
+(2) Sonstige Verfahrensbeteiligte haben vor Teilnahme an den
+Meldeverfahren nach diesem Gesetzbuch eine Betriebsnummer nach § 18i
+Absatz 1 zu beantragen, soweit sie nicht schon über eine eigene
+Betriebsnummer verfügen. Diese Betriebsnummer gilt in den
+elektronischen Übertragungsverfahren als Kennzeichnung des
+Verfahrensbeteiligten. § 18i Absatz 2 bis 6 gilt entsprechend.
+
+
+#### § 18m Verarbeitung und Nutzung der Betriebsnummer
+
+(1) Die Bundesagentur für Arbeit übermittelt die Betriebsnummern und
+die Angaben nach § 18i Absatz 2 und 4 aus der Datei der
+Beschäftigungsbetriebe den Leistungsträgern nach den §§ 12 und 18 bis
+29 des Ersten Buches, der Künstlersozialkasse, der Datenstelle der
+Rentenversicherung, den berufsständischen Versorgungseinrichtungen und
+deren Datenannahmestelle und der Deutschen Gesetzlichen
+Unfallversicherung e. V. zur weiteren Verarbeitung und Nutzung, soweit
+dies für die Erfüllung ihrer Aufgaben nach diesem Gesetzbuch
+erforderlich ist.
+
+(2) Die Sozialversicherungsträger, ihre Verbände und ihre
+Arbeitsgemeinschaften, die Künstlersozialkasse, die Behörden der
+Zollverwaltung, soweit sie Aufgaben nach § 2 des
+Schwarzarbeitsbekämpfungsgesetzes oder nach § 66 des Zehnten Buches
+wahrnehmen, sowie die zuständigen Aufsichtsbehörden und die
+Arbeitgeber dürfen die Betriebsnummern verarbeiten, nutzen und
+übermitteln, soweit dies für die Erfüllung einer Aufgabe nach diesem
+Gesetzbuch oder dem Künstlersozialversicherungsgesetz erforderlich
+ist. Andere Behörden, Gerichte oder Dritte dürfen die Betriebsnummern
+verarbeiten, nutzen oder übermitteln, soweit dies für die Erfüllung
+einer gesetzlichen Aufgabe einer der in Satz 1 genannten Stellen
+erforderlich ist.
+
+
+#### § 18n Absendernummer
+
+(1) Eine meldende Stelle erhält auf elektronischen Antrag bei der
+Vergabe eines Zertifikates zur Sicherung der Datenübertragung von der
+das Zertifikat ausstellenden Stelle eine Absendernummer, die der
+Betriebsnummer der meldenden Stelle entspricht.
+
+(2) In den Fällen, in denen eine meldende Stelle für einen
+Beschäftigungsbetrieb für mehr als einen Abrechnungskreis Meldungen
+erstatten will, erhält sie auf elektronischen Antrag bei der Vergabe
+eines weiteren Zertifikates zur Sicherung der Datenübertragung von der
+das Zertifikat ausstellenden Stelle eine gesonderte Absendernummer.
+Für diese gesonderte achtstellige Absendernummer ist ein festgelegter
+alphanumerischer Nummernkreis zu nutzen. Das Nähere zum Aufbau der
+Nummer, zu den übermittelnden Angaben und zum Verfahren regeln die
+Gemeinsamen Grundsätze nach § 28b Absatz 1 Satz 1 Nummer 4.
 
 
 ## Zweiter Abschnitt - Leistungen und Beiträge
@@ -1591,26 +1716,22 @@ Tätigkeit, mit der das Arbeitsentgelt oder Arbeitseinkommen erzielt
 wird, ausgeübt worden ist oder als ausgeübt gilt; ein verbleibender
 Restbeitrag wird zum drittletzten Bankarbeitstag des Folgemonats
 fällig. Der Arbeitgeber kann abweichend von Satz 2 den Betrag in Höhe
-der Beiträge des Vormonats zahlen, wenn Änderungen der
-Beitragsabrechnung regelmäßig durch Mitarbeiterwechsel oder variable
-Entgeltbestandteile dies erfordern; für einen verbleibenden Restbetrag
+der Beiträge des Vormonats zahlen; für einen verbleibenden Restbetrag
 bleibt es bei der Fälligkeit zum drittletzten Bankarbeitstag des
-Folgemonats. Satz 3 gilt entsprechend in den Fällen, in denen die
-Krankenkasse dem Arbeitgeber das nach § 242b Absatz 3 des Fünften
-Buches anzuwendende Verfahren mitteilt. Sonstige Beiträge werden
-spätestens am Fünfzehnten des Monats fällig, der auf den Monat folgt,
-für den sie zu entrichten sind. Die erstmalige Fälligkeit der Beiträge
-für die nach § 3 Satz 1 Nummer 1a des Sechsten Buches versicherten
-Pflegepersonen ist abhängig von dem Zeitpunkt, zu dem die Pflegekasse,
-das private Versicherungsunternehmen, die Festsetzungsstelle für die
-Beihilfe oder der Dienstherr bei Heilfürsorgeberechtigten die
-Versicherungspflicht der Pflegeperson festgestellt hat oder ohne
-Verschulden hätte feststellen können. Wird die Feststellung in der
-Zeit vom Ersten bis zum Fünfzehnten eines Monats getroffen, werden die
-Beiträge erstmals spätestens am Fünfzehnten des folgenden Monats
-fällig; wird die Feststellung in der Zeit vom Sechzehnten bis zum Ende
-eines Monats getroffen, werden die Beiträge erstmals am Fünfzehnten
-des zweiten darauffolgenden Monats fällig; das Nähere vereinbaren die
+Folgemonats. Sonstige Beiträge werden spätestens am Fünfzehnten des
+Monats fällig, der auf den Monat folgt, für den sie zu entrichten
+sind. Die erstmalige Fälligkeit der Beiträge für die nach § 3 Satz 1
+Nummer 1a des Sechsten Buches versicherten Pflegepersonen ist abhängig
+von dem Zeitpunkt, zu dem die Pflegekasse, das private
+Versicherungsunternehmen, die Festsetzungsstelle für die Beihilfe oder
+der Dienstherr bei Heilfürsorgeberechtigten die Versicherungspflicht
+der Pflegeperson festgestellt hat oder ohne Verschulden hätte
+feststellen können. Wird die Feststellung in der Zeit vom Ersten bis
+zum Fünfzehnten eines Monats getroffen, werden die Beiträge erstmals
+spätestens am Fünfzehnten des folgenden Monats fällig; wird die
+Feststellung in der Zeit vom Sechzehnten bis zum Ende eines Monats
+getroffen, werden die Beiträge erstmals am Fünfzehnten des zweiten
+darauffolgenden Monats fällig; das Nähere vereinbaren die
 Spitzenverbände der beteiligten Träger der Sozialversicherung, der
 Verband der privaten Krankenversicherung e. V. und die
 Festsetzungsstellen für die Beihilfe.
@@ -1639,8 +1760,8 @@ Restbetrag zum nächsten Fälligkeitstermin gezahlt werden.
 
 (2a) Bei Verwendung eines Haushaltsschecks (§ 28a Absatz 7) sind die
 Beiträge für das in den Monaten Januar bis Juni erzielte
-Arbeitsentgelt am 15. Juli des laufenden Jahres und für das in den
-Monaten Juli bis Dezember erzielte Arbeitsentgelt am 15. Januar des
+Arbeitsentgelt am 31. Juli des laufenden Jahres und für das in den
+Monaten Juli bis Dezember erzielte Arbeitsentgelt am 31. Januar des
 folgenden Jahres fällig.
 
 (3) Geschuldete Beiträge der Unfallversicherung werden am Fünfzehnten
@@ -1678,17 +1799,16 @@ sie
     erbracht werden und monatlich in Anspruch genommen werden können,
 
 
-3.  als sonstige Sachbezüge oder
+3.  als sonstige Sachbezüge, die monatlich gewährt werden, oder
 
 
 4.  als vermögenswirksame Leistungen
 
 
 
-vom Arbeitgeber erbracht werden. Einmalig gezahltes Arbeitsentgelt
-versicherungspflichtig Beschäftigter ist dem
-Entgeltabrechnungszeitraum zuzuordnen, in dem es gezahlt wird, soweit
-die Absätze 2 und 4 nichts Abweichendes bestimmen.
+vom Arbeitgeber erbracht werden. Einmalig gezahltes Arbeitsentgelt ist
+dem Entgeltabrechnungszeitraum zuzuordnen, in dem es gezahlt wird,
+soweit die Absätze 2 und 4 nichts Abweichendes bestimmen.
 
 (2) Einmalig gezahltes Arbeitsentgelt, das nach Beendigung oder bei
 Ruhen des Beschäftigungsverhältnisses gezahlt wird, ist dem letzten
@@ -1696,17 +1816,16 @@ Entgeltabrechnungszeitraum des laufenden Kalenderjahres zuzuordnen,
 auch wenn dieser nicht mit Arbeitsentgelt belegt ist.
 
 (3) Das einmalig gezahlte Arbeitsentgelt ist bei der Feststellung des
-beitragspflichtigen Arbeitsentgelts für versicherungspflichtig
-Beschäftigte zu berücksichtigen, soweit das bisher gezahlte
-beitragspflichtige Arbeitsentgelt die anteilige
-Beitragsbemessungsgrenze nicht erreicht. Die anteilige
-Beitragsbemessungsgrenze ist der Teil der Beitragsbemessungsgrenze,
-der der Dauer aller Beschäftigungsverhältnisse bei demselben
-Arbeitgeber im laufenden Kalenderjahr bis zum Ablauf des
-Entgeltabrechnungszeitraumes entspricht, dem einmalig gezahltes
-Arbeitsentgelt zuzuordnen ist; auszunehmen sind Zeiten, die nicht mit
-Beiträgen aus laufendem (nicht einmalig gezahltem) Arbeitsentgelt
-belegt sind.
+beitragspflichtigen Arbeitsentgelts für Beschäftigte zu
+berücksichtigen, soweit das bisher gezahlte beitragspflichtige
+Arbeitsentgelt die anteilige Beitragsbemessungsgrenze nicht erreicht.
+Die anteilige Beitragsbemessungsgrenze ist der Teil der
+Beitragsbemessungsgrenze, der der Dauer aller
+Beschäftigungsverhältnisse bei demselben Arbeitgeber im laufenden
+Kalenderjahr bis zum Ablauf des Entgeltabrechnungszeitraumes
+entspricht, dem einmalig gezahltes Arbeitsentgelt zuzuordnen ist;
+auszunehmen sind Zeiten, die nicht mit Beiträgen aus laufendem (nicht
+einmalig gezahltem) Arbeitsentgelt belegt sind.
 
 (4) In der Zeit vom 1. Januar bis zum 31. März einmalig gezahltes
 Arbeitsentgelt ist dem letzten Entgeltabrechnungszeitraum des
@@ -1867,55 +1986,44 @@ erbringt.
 #### § 23c Sonstige nicht beitragspflichtige Einnahmen
 
 (1) Zuschüsse des Arbeitgebers zum Krankengeld, Verletztengeld,
-Übergangsgeld oder Krankentagegeld und sonstige Einnahmen aus einer
-Beschäftigung, die für die Zeit des Bezuges von Krankengeld,
-Krankentagegeld, Versorgungskrankengeld, Verletztengeld,
-Übergangsgeld, Mutterschaftsgeld, Erziehungsgeld oder Elterngeld
-weiter erzielt werden, gelten nicht als beitragspflichtiges
-Arbeitsentgelt, wenn die Einnahmen zusammen mit den genannten
-Sozialleistungen das Nettoarbeitsentgelt (§ 47 des Fünften Buches)
-nicht um mehr als 50 Euro im Monat übersteigen. Zur Berechnung des
-Nettoarbeitsentgelts bei freiwilligen Mitgliedern der gesetzlichen
-Krankenversicherung ist der um den Beitragszuschuss für Beschäftigte
-verminderte Beitrag des Versicherten zur Kranken- und
-Pflegeversicherung abzuziehen; dies gilt entsprechend für Personen und
-für ihre nicht selbstversicherten Angehörigen, die bei einem privaten
-Krankenversicherungsunternehmen versichert sind einschließlich der
-Versicherung für das Krankentagegeld. Für Beschäftigte, die nach § 6
-Absatz 1 Satz 1 Nummer 1 des Sechsten Buches von der
-Versicherungspflicht befreit sind und Pflichtbeiträge an eine
-berufsständische Versorgungseinrichtung entrichten, sind bei der
-Ermittlung des Nettoentgeltes die um den Arbeitgeberzuschuss nach §
-172a des Sechsten Buches verminderten Pflichtbeiträge des
-Beschäftigten entsprechend abzuziehen.
+Übergangsgeld, Pflegeunterstützungsgeld oder Krankentagegeld und
+sonstige Einnahmen aus einer Beschäftigung, die für die Zeit des
+Bezuges von Krankengeld, Krankentagegeld, Versorgungskrankengeld,
+Verletztengeld, Übergangsgeld, Pflegeunterstützungsgeld,
+Mutterschaftsgeld, Erziehungsgeld oder Elterngeld weiter erzielt
+werden, gelten nicht als beitragspflichtiges Arbeitsentgelt, wenn die
+Einnahmen zusammen mit den genannten Sozialleistungen das
+Nettoarbeitsentgelt (§ 47 des Fünften Buches) nicht um mehr als 50
+Euro im Monat übersteigen. Zur Berechnung des Nettoarbeitsentgelts bei
+freiwilligen Mitgliedern der gesetzlichen Krankenversicherung ist der
+um den Beitragszuschuss für Beschäftigte verminderte Beitrag des
+Versicherten zur Kranken- und Pflegeversicherung abzuziehen; dies gilt
+entsprechend für Personen und für ihre nicht selbstversicherten
+Angehörigen, die bei einem privaten Krankenversicherungsunternehmen
+versichert sind einschließlich der Versicherung für das
+Krankentagegeld. Für Beschäftigte, die nach § 6 Absatz 1 Satz 1 Nummer
+1 des Sechsten Buches von der Versicherungspflicht befreit sind und
+Pflichtbeiträge an eine berufsständische Versorgungseinrichtung
+entrichten, sind bei der Ermittlung des Nettoentgeltes die um den
+Arbeitgeberzuschuss nach § 172a des Sechsten Buches verminderten
+Pflichtbeiträge des Beschäftigten entsprechend abzuziehen.
 
-(2) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld
-oder Mutterschaftsgeld Angaben über das Beschäftigungsverhältnis
-notwendig und sind diese dem Leistungsträger aus anderem Grund nicht
-bekannt, sind sie durch eine Bescheinigung des Arbeitgebers
-nachzuweisen. Der Arbeitgeber hat dem Leistungsträger diese
-Bescheinigung im Einzelfall durch gesicherte und verschlüsselte
-Datenübertragung aus systemgeprüften Programmen oder mittels
-maschinell erstellter Ausfüllhilfen zu erstatten. Den Aufbau des
-Datensatzes, notwendige Schlüsselzahlen und Angaben bestimmen der
-Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung
-Bund, die Bundesagentur für Arbeit und die Spitzenverbände der
-Unfallversicherungsträger in Gemeinsamen Grundsätzen. Die Gemeinsamen
-Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit
-und Soziales im Einvernehmen mit dem Bundesministerium für Gesundheit;
-die Bundesvereinigung der Deutschen Arbeitgeberverbände ist anzuhören.
+(2) Einnahmen aus Tätigkeiten als Notärztin oder Notarzt im
+Rettungsdienst sind nicht beitragspflichtig, wenn diese Tätigkeiten
+neben
 
-(3) Übermittelt ein Arbeitgeber eine Bescheinigung nach Absatz 2, so
-hat in diesen Fällen der Leistungsträger alle Angaben gegenüber dem
-Arbeitgeber durch Datenübertragung zu erstatten. Absatz 2 Satz 3 und 4
-gilt entsprechend. Die Sätze 1 und 2 gelten entsprechend, wenn
-Krankenkassen auf Antrag des Arbeitgebers Mitteilungen über auf den
-Anspruch auf Entgeltfortzahlung anrechenbare Zeiten der
-Arbeitsunfähigkeit der Beschäftigten oder für Anträge nach Absatz 2
-Satz 1 die Krankenversicherungsnummer übermitteln. Im Falle der
-Zahlung von Krankentagegeld können private
-Krankenversicherungsunternehmen Angaben gegenüber dem Arbeitgeber nach
-den Sätzen 1 und 2 erstatten.
+1.  einer Beschäftigung mit einem Umfang von regelmäßig mindestens 15
+    Stunden wöchentlich außerhalb des Rettungsdienstes oder
+
+
+2.  einer Tätigkeit als zugelassener Vertragsarzt oder als Arzt in
+    privater Niederlassung
+
+
+
+ausgeübt werden. Für Tätigkeiten, bei denen die Einnahmen nach Satz 1
+nicht beitragspflichtig sind, bestehen keine Meldepflichten nach
+diesem Buch.
 
 
 #### § 24 Säumniszuschlag
@@ -1928,19 +2036,23 @@ Betrages zu zahlen. Bei einem rückständigen Betrag unter 100 Euro ist
 der Säumniszuschlag nicht zu erheben, wenn dieser gesondert
 schriftlich anzufordern wäre.
 
-(1a) Abweichend zu Absatz 1 haben freiwillig Versicherte, Versicherte
-nach § 5 Absatz 1 Nummer 13 des Fünften Buches und nach § 2 Absatz 1
-Nummer 7 des Zweiten Gesetzes über die Krankenversicherung der
-Landwirte für Beiträge und Beitragsvorschüsse, mit denen sie länger
-als einen Monat säumig sind, für jeden weiteren angefangenen Monat der
-Säumnis einen Säumniszuschlag von 5 vom Hundert des rückständigen, auf
-50 Euro nach unten abgerundeten Beitrages zu zahlen.
+(1a) (weggefallen)
 
 (2) Wird eine Beitragsforderung durch Bescheid mit Wirkung für die
 Vergangenheit festgestellt, ist ein darauf entfallender
 Säumniszuschlag nicht zu erheben, soweit der Beitragsschuldner
 glaubhaft macht, dass er unverschuldet keine Kenntnis von der
 Zahlungspflicht hatte.
+
+(3) Hat der Zahlungspflichtige ein Lastschriftmandat zum Einzug der
+Beiträge erteilt, so sind Säumniszuschläge zu erheben, wenn der
+Beitragseinzug aus Gründen, die vom Zahlungspflichtigen zu vertreten
+sind, nicht ausgeführt werden kann oder zurückgerufen wird. Zusätzlich
+zum Säumniszuschlag soll der Gläubiger vom Zahlungspflichtigen den
+Ersatz der von einem Geldinstitut erhobenen Entgelte für
+Rücklastschriften verlangen; dieser Kostenersatz ist wie die Gebühren,
+die im Zusammenhang mit der Durchsetzung von Beitragsansprüchen
+erhoben werden, zu behandeln.
 
 
 #### § 25 Verjährung
@@ -1969,7 +2081,9 @@ beginnt die Hemmung mit dem von dem Versicherungsträger in seiner
 Prüfungsankündigung ursprünglich bestimmten Tag. Die Sätze 2 bis 5
 gelten für Prüfungen der Beitragszahlung bei sonstigen Versicherten,
 in Fällen der Nachversicherung und bei versicherungspflichtigen
-Selbständigen entsprechend.
+Selbständigen entsprechend. Die Sätze 1 bis 5 gelten entsprechend für
+Prüfungen im Bereich der Bemessung, Entrichtung und Weiterleitung von
+Beiträgen zur gesetzlichen Krankenversicherung.
 
 
 #### § 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge
@@ -1993,6 +2107,22 @@ sind jedoch zu erstatten.
 (3) Der Erstattungsanspruch steht dem zu, der die Beiträge getragen
 hat. Soweit dem Arbeitgeber Beiträge, die er getragen hat, von einem
 Dritten ersetzt worden sind, entfällt sein Erstattungsanspruch.
+
+(4) In den Fällen, in denen eine Mehrfachbeschäftigung vorliegt und
+nicht auszuschließen ist, dass die Voraussetzungen des § 22 Absatz 2
+vorliegen, hat die Einzugsstelle nach Eingang der Entgeltmeldungen von
+Amts wegen die Ermittlung einzuleiten, ob Beiträge zu Unrecht
+entrichtet wurden. Die Einzugsstelle kann weitere Angaben zur
+Ermittlung der zugrunde zu legenden Entgelte von den Meldepflichtigen
+anfordern. Die elektronische Anforderung hat durch gesicherte und
+verschlüsselte Datenübertragung zu erfolgen. Dies gilt auch für die
+Rückübermittlung der ermittelten Gesamtentgelte an die
+Meldepflichtigen. Die Einzugsstelle hat das Verfahren innerhalb von
+zwei Monaten nach Vorliegen aller insoweit erforderlichen Meldungen
+abzuschließen. Das Verfahren gilt für Abrechnungszeiträume ab dem 1.
+Januar 2015. Das Nähere zum Verfahren, zu den zu übermittelnden Daten
+sowie den Datensätzen regeln die Gemeinsamen Grundsätze nach § 28b
+Absatz 1.
 
 
 #### § 27 Verzinsung und Verjährung des Erstattungsanspruchs
@@ -2074,19 +2204,14 @@ oder nach dem Recht der Arbeitsförderung kraft Gesetzes Versicherten
 9.  bei Auflösung des Arbeitsverhältnisses,
 
 
-10. bei Beschäftigung bei mehreren Arbeitgebern, für unständig
-    Beschäftigte, in den Fällen des § 242b Absatz 2 Satz 4 des Fünften
-    Buches und in den Fällen, in denen der oder die Beschäftigte weitere
-    in der gesetzlichen Krankenversicherung beitragspflichtige Einnahmen
-    erzielt, soweit bekannt,
+10. auf Anforderung der Einzugsstelle nach § 26 Absatz 4 Satz 2,
 
 
 11. bei Antrag des geringfügig Beschäftigten nach § 6 Absatz 1b des
     Sechsten Buches auf Befreiung von der Versicherungspflicht,
 
 
-12. bei einmalig gezahltem Arbeitsentgelt, soweit es nicht in einer
-    Meldung aus anderem Anlass erfasst werden kann,
+12. bei einmalig gezahltem Arbeitsentgelt,
 
 
 13. bei Beginn der Berufsausbildung,
@@ -2095,8 +2220,9 @@ oder nach dem Recht der Arbeitsförderung kraft Gesetzes Versicherten
 14. bei Ende der Berufsausbildung,
 
 
-15. bei Wechsel von einer Betriebsstätte im Beitrittsgebiet zu einer
-    Betriebsstätte im übrigen Bundesgebiet oder umgekehrt,
+15. bei Wechsel im Zeitraum bis zum 31. Dezember 2024 von einem
+    Beschäftigungsbetrieb im Beitrittsgebiet zu einem
+    Beschäftigungsbetrieb im übrigen Bundesgebiet oder umgekehrt,
 
 
 16. bei Beginn der Altersteilzeitarbeit,
@@ -2112,17 +2238,52 @@ oder nach dem Recht der Arbeitsförderung kraft Gesetzes Versicherten
 19. bei nach § 23b Absatz 2 bis 3 gezahltem Arbeitsentgelt oder
 
 
-20. bei Wechsel von einem Wertguthaben, das im Beitrittsgebiet und einem
-    Wertguthaben, das im übrigen Bundesgebiet erzielt wurde,
+20. bei Wechsel im Zeitraum bis zum 31. Dezember 2024 von einem
+    Wertguthaben, das im Beitrittsgebiet und einem Wertguthaben, das im
+    übrigen Bundesgebiet erzielt wurde,
 
 
 
-eine Meldung durch gesicherte und verschlüsselte Datenübertragung aus
-systemgeprüften Programmen oder mittels maschinell erstellter
-Ausfüllhilfen zu erstatten.
+eine Meldung zu erstatten. Jede Meldung sowie die darin enthaltenen
+Datensätze sind mit einem eindeutigen Kennzeichen zur Identifizierung
+zu versehen. Meldungen nach diesem Buch erfolgen, soweit nichts
+Abweichendes geregelt ist, durch elektronische Datenübermittlung
+(Datenübertragung); dabei sind Datenschutz und Datensicherheit nach
+dem jeweiligen Stand der Technik sicherzustellen und bei Nutzung
+allgemein zugänglicher Netze Verschlüsselungsverfahren zu verwenden.
+Arbeitgeber oder andere Meldepflichtige haben ihre Meldungen durch
+Datenübertragung aus systemgeprüften Programmen oder mittels
+maschinell erstellter Ausfüllhilfen zu erstatten.
 
 (2) Der Arbeitgeber hat jeden am 31. Dezember des Vorjahres
 Beschäftigten nach Absatz 1 zu melden (Jahresmeldung).
+
+(2a) Der Arbeitgeber hat für jeden in einem Kalenderjahr
+Beschäftigten, der in der Unfallversicherung versichert ist, zum 16.
+Februar des Folgejahres eine besondere Jahresmeldung zur
+Unfallversicherung zu erstatten. Diese Meldung enthält über die
+Angaben nach Absatz 3 Satz 1 Nummer 1 bis 3, 6 und 9 hinaus folgende
+Angaben:
+
+1.  die Mitgliedsnummer des Unternehmers;
+
+
+2.  die Betriebsnummer des zuständigen Unfallversicherungsträgers;
+
+
+3.  das in der Unfallversicherung beitragspflichtige Arbeitsentgelt in
+    Euro und seine Zuordnung zur jeweilig anzuwendenden Gefahrtarifstelle.
+
+
+
+Arbeitgeber, die Mitglied der landwirtschaftlichen
+Berufsgenossenschaft sind und für deren Beitragsberechnung der
+Arbeitswert keine Anwendung findet, haben Meldungen nach Satz 2 Nummer
+1 bis 3 nicht zu erstatten. Abweichend von Satz 1 ist die Meldung bei
+Eintritt eines Insolvenzereignisses, bei einer endgültigen Einstellung
+des Unternehmens oder bei der Beendigung aller
+Beschäftigungsverhältnisse mit der nächsten Entgeltabrechnung,
+spätestens innerhalb von sechs Wochen, abzugeben.
 
 (3) Die Meldungen enthalten für jeden Versicherten insbesondere
 
@@ -2183,7 +2344,7 @@ Zusätzlich sind anzugeben
 
 
 
-2.  bei der Abmeldung und bei der Jahresmeldung
+2.  bei allen Entgeltmeldungen
 
     a)  eine Namens-, Anschriften- oder Staatsangehörigkeitsänderung, soweit
         diese Änderung nicht schon anderweitig gemeldet ist,
@@ -2193,8 +2354,7 @@ Zusätzlich sind anzugeben
         beitragspflichtige Arbeitsentgelt in Euro,
 
 
-    c)  das in der Unfallversicherung beitragspflichtige Arbeitsentgelt in
-        Euro und die geleisteten Arbeitsstunden,
+    c)  (weggefallen)
 
 
     d)  der Zeitraum, in dem das angegebene Arbeitsentgelt erzielt wurde,
@@ -2204,13 +2364,13 @@ Zusätzlich sind anzugeben
         entfallen,
 
 
-    f)  die Unfallversicherungsmitgliedsnummer seines Beschäftigungsbetriebs,
+    f)  (weggefallen)
 
 
-    g)  die Betriebsnummer des zuständigen Unfallversicherungsträgers,
+    g)  (weggefallen)
 
 
-    h)  die anzuwendende Gefahrtarifstelle,
+    h)  (weggefallen)
 
 
 
@@ -2219,7 +2379,7 @@ Zusätzlich sind anzugeben
 3.  (weggefallen)
 
 
-4.  bei der Meldung nach Absatz 1 Nummer 19
+4.  bei der Meldung nach Absatz 1 Satz 1 Nummer 19
 
     a)  das Arbeitsentgelt in Euro, für das Beiträge gezahlt worden sind,
 
@@ -2234,23 +2394,23 @@ Zusätzlich sind anzugeben
 
 
 
-Arbeitgeber, die Mitglied der landwirtschaftlichen
-Berufsgenossenschaft sind und für deren Beitragsberechnung der
-Arbeitswert keine Anwendung findet, haben Meldungen nach Satz 2 Nummer
-2 Buchstabe c, f, g und h nicht zu erstatten.
 
-(3a) Die Datenstelle der Träger der Rentenversicherung übermittelt für
-Zwecke der Berechnung der Umlage nach § 152 des Siebten Buches nach
-Eingang der Jahresmeldung die Daten nach Absatz 3 Satz 2 Nummer 2
-Buchstaben c und h zusammengefasst für jeden Arbeitgeber an den
-zuständigen Träger der gesetzlichen Unfallversicherung. Dabei sind die
-Arbeitsentgelte den Gefahrtarifstellen zuzuordnen.
+(3a) Der Arbeitgeber oder eine Zahlstelle nach § 202 Absatz 2 des
+Fünften Buches kann in den Fällen, in denen für eine Meldung keine
+Versicherungsnummer des Beschäftigten oder Versorgungsempfängers
+vorliegt, im Verfahren nach Absatz 1 eine Meldung zur Abfrage der
+Versicherungsnummer an die Datenstelle der Rentenversicherung
+übermitteln; die weiteren Meldepflichten bleiben davon unberührt. Die
+Datenstelle der Rentenversicherung übermittelt dem Arbeitgeber oder
+der Zahlstelle unverzüglich durch Datenübertragung die
+Versicherungsnummer oder den Hinweis, dass die Vergabe der
+Versicherungsnummer mit der Anmeldung erfolgt.
 
 (4) Arbeitgeber haben den Tag des Beginns eines
 Beschäftigungsverhältnisses spätestens bei dessen Aufnahme an die
-Datenstelle der Träger der Rentenversicherung nach Satz 2 zu melden,
-sofern sie Personen in folgenden Wirtschaftsbereichen oder
-Wirtschaftszweigen beschäftigen:
+Datenstelle der Rentenversicherung nach Satz 2 zu melden, sofern sie
+Personen in folgenden Wirtschaftsbereichen oder Wirtschaftszweigen
+beschäftigen:
 
 1.  im Baugewerbe,
 
@@ -2277,7 +2437,10 @@ Wirtschaftszweigen beschäftigen:
     Ausstellungen beteiligen,
 
 
-9.  in der Fleischwirtschaft.
+9.  in der Fleischwirtschaft,
+
+
+10. im Prostitutionsgewerbe.
 
 
 
@@ -2303,23 +2466,19 @@ Sechsten Buches gespeichert. Die Meldung gilt nicht als Meldung nach
 Absatz 1 Satz 1 Nummer 1.
 
 (4a) Der Meldepflichtige erstattet die Meldungen nach Absatz 1 Satz 1
-Nummer 10 jeweils monatlich an die zuständige Krankenkasse. In der
-Meldung sind anzugeben:
+Nummer 10 an die zuständige Einzugsstelle. In der Meldung sind
+insbesondere anzugeben:
 
-1.  die Versicherungsnummer, soweit bekannt, ansonsten die zur Vergabe
-    einer Versicherungsnummer notwendigen Angaben (Tag und Ort der Geburt,
-    Anschrift),
+1.  die Versicherungsnummer des Beschäftigten,
 
 
-2.  Familien- und Vorname,
+2.  die Betriebsnummer des Beschäftigungsbetriebes,
 
 
-3.  die Betriebsnummer des Beschäftigungsbetriebes und
-
-
-4.  das in der gesetzlichen Rentenversicherung beitragspflichtige
-    Arbeitsentgelt in Eurocent, abweichend hiervon in den Fällen des § 20
-    Absatz 2 das tatsächlich erzielte Arbeitsentgelt.
+3.  das monatliche laufende und einmalig gezahlte Arbeitsentgelt, von dem
+    Beiträge zur Renten-, Arbeitslosen-, Kranken- und Pflegeversicherung
+    für das der Ermittlung nach § 26 Absatz 4 zugrunde liegende
+    Kalenderjahr berechnet wurden.
 
 
 
@@ -2343,21 +2502,22 @@ Beschäftigter.
 
 
 
-verfolgt, Personen versicherungsfrei geringfügig nach § 8, kann er auf
-Antrag abweichend von Absatz 1 Meldungen auf Vordrucken erstatten,
-wenn er glaubhaft macht, dass ihm eine Meldung auf maschinell
-verwertbaren Datenträgern oder durch Datenübertragung nicht möglich
-ist.
+verfolgt, Personen geringfügig nach § 8, kann er auf Antrag abweichend
+von Absatz 1 Meldungen auf Vordrucken erstatten, wenn er glaubhaft
+macht, dass ihm eine Meldung auf maschinell verwertbaren Datenträgern
+oder durch Datenübertragung nicht möglich ist.
 
 (7) Der Arbeitgeber hat der Einzugsstelle für einen im privaten
 Haushalt Beschäftigten anstelle einer Meldung nach Absatz 1
 unverzüglich eine vereinfachte Meldung (Haushaltsscheck) mit den
 Angaben nach Absatz 8 Satz 1 zu erstatten, wenn das Arbeitsentgelt (§
 14 Absatz 3) aus dieser Beschäftigung regelmäßig 450 Euro im Monat
-nicht übersteigt. Der Arbeitgeber hat der Einzugsstelle eine
-Einzugsermächtigung zum Einzug des Gesamtsozialversicherungsbeitrags
-zu erteilen. Der Haushaltsscheck ist vom Arbeitgeber und vom
-Beschäftigten zu unterschreiben. Die Absätze 2 bis 5 gelten nicht.
+nicht übersteigt. Der Arbeitgeber kann die Meldung nach Satz 1 auch
+durch Datenübertragung aus systemgeprüften Programmen oder mit
+maschinell erstellten Ausfüllhilfen übermitteln. Der Arbeitgeber hat
+der Einzugsstelle gesondert schriftlich ein Lastschriftmandat zum
+Einzug des Gesamtsozialversicherungsbeitrags zu erteilen. Die Absätze
+2 bis 5 gelten nicht.
 
 (8) Der Haushaltsscheck enthält
 
@@ -2408,12 +2568,15 @@ Beschäftigten zu unterschreiben. Die Absätze 2 bis 5 gelten nicht.
 Bei sich anschließenden Meldungen kann von der Angabe der Anschrift
 des Arbeitgebers und des Beschäftigten abgesehen werden.
 
-(9) Die Absätze 1 bis 8 gelten entsprechend für versicherungsfrei
-geringfügig Beschäftigte.
+(9) Soweit nicht anders geregelt, gelten für versicherungsfrei oder
+von der Versicherungspflicht befreite geringfügig Beschäftigte die
+Absätze 1 bis 6 entsprechend. Eine Jahresmeldung nach Absatz 2 ist für
+geringfügig Beschäftigte nach § 8 Absatz 1 Nummer 2 nicht zu
+erstatten.
 
-(10) Der Arbeitgeber hat für Beschäftigte, die nach § 6 Absatz 1
-Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit und
-Mitglied einer berufsständischen Versorgungseinrichtung sind, die
+(10) Der Arbeitgeber hat für Beschäftigte, die nach § 6 Absatz 1 Satz
+1 Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit
+und Mitglied einer berufsständischen Versorgungseinrichtung sind, die
 Meldungen nach den Absätzen 1, 2 und 9 zusätzlich an die Annahmestelle
 der berufsständischen Versorgungseinrichtungen zu erstatten; dies gilt
 nicht für Meldungen nach Absatz 1 Satz 1 Nummer 10. Die
@@ -2424,10 +2587,10 @@ Zusätzlich zu den Angaben nach Absatz 3 enthalten die Meldungen die
 Mitgliedsnummer des Beschäftigten bei der Versorgungseinrichtung. Die
 Absätze 5 bis 6a gelten entsprechend.
 
-(11) Der Arbeitgeber hat für Beschäftigte, die nach § 6 Absatz 1
-Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit und
-Mitglied in einer berufsständischen Versorgungseinrichtung sind, der
-Annahmestelle der berufsständischen Versorgungseinrichtungen
+(11) Der Arbeitgeber hat für Beschäftigte, die nach § 6 Absatz 1 Satz
+1 Nummer 1 des Sechsten Buches von der Versicherungspflicht befreit
+und Mitglied in einer berufsständischen Versorgungseinrichtung sind,
+der Annahmestelle der berufsständischen Versorgungseinrichtungen
 monatliche Meldungen zur Beitragserhebung zu erstatten. Absatz 10 Satz
 2 gilt entsprechend. Diese Meldungen enthalten für den Beschäftigten
 
@@ -2464,7 +2627,7 @@ monatliche Meldungen zur Beitragserhebung zu erstatten. Absatz 10 Satz
 9.  den Arbeitgeber,
 
 
-10. den Ort der Betriebsstätte,
+10. den Ort des Beschäftigungsbetriebes,
 
 
 11. den Monat der Abrechnung.
@@ -2488,65 +2651,91 @@ Beitragspflicht notwendigen Angaben, insbesondere die
 Versicherungsnummer, den Namen und Vornamen, den beitragspflichtigen
 Zeitraum, die Höhe des der Beitragspflicht zu Grunde liegenden
 Arbeitseinkommens, ein Kennzeichen über die Ruhensanordnung gemäß § 16
-Absatz 2 des Künstlersozialversicherungsgesetzes sowie ein Kennzeichen
-in den Fällen des § 242b Absatz 2 Satz 4 des Fünften Buches und den
-Verweis auf die Versicherungspflicht in der Rentenversicherung des
-Versicherten zu übermitteln. Den Übertragungsweg und die Einzelheiten
-des Verfahrens wie den Aufbau des Datensatzes regeln die
-Künstlersozialkasse und der Spitzenverband Bund der Krankenkassen in
-gemeinsamen Grundsätzen entsprechend § 28b Absatz 2. Bei der Nutzung
-allgemein zugänglicher Netze sind dem jeweiligen Stand der Technik
-entsprechende Verschlüsselungsverfahren zu verwenden.
+Absatz 2 des Künstlersozialversicherungsgesetzes und den Verweis auf
+die Versicherungspflicht in der Rentenversicherung des Versicherten zu
+übermitteln. Den Übertragungsweg und die Einzelheiten des Verfahrens
+wie den Aufbau des Datensatzes regeln die Künstlersozialkasse und der
+Spitzenverband Bund der Krankenkassen in Gemeinsamen Grundsätzen
+entsprechend § 28b Absatz 1. Bei der Nutzung allgemein zugänglicher
+Netze sind dem jeweiligen Stand der Technik entsprechende
+Verschlüsselungsverfahren zu verwenden.
 
 
-#### § 28b Aufgaben der Einzugsstelle bei Meldungen, gemeinsame Grundsätze
+#### § 28b Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung
 
-(1) Die Einzugsstelle nimmt die Meldung für die gesetzliche Kranken-
-und Rentenversicherung, nach dem Recht der Arbeitsförderung und für
-die soziale Pflegeversicherung entgegen, soweit durch dieses
-Gesetzbuch nichts anderes bestimmt ist. Dies gilt auch für die
-Meldungen nach § 196 Absatz 2 Satz 3 des Sechsten Buches. Die
-Einzugsstelle hat dafür zu sorgen, dass die Meldungen rechtzeitig
-erstattet werden, die erforderlichen Angaben vollständig und richtig
-enthalten sind und die Meldungen rechtzeitig weitergeleitet werden.
-
-(2) Der Spitzenverband Bund der Krankenkassen, die Deutsche
-Rentenversicherung Bund, die Bundesagentur für Arbeit und die Deutsche
-Gesetzliche Unfallversicherung e.V. bestimmen in gemeinsamen
-Grundsätzen bundeseinheitlich:
+(1) Der Spitzenverband Bund der Krankenkassen, die Deutsche
+Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
+Bahn-See, die Bundesagentur für Arbeit und die Deutsche Gesetzliche
+Unfallversicherung e.V. bestimmen in Gemeinsamen Grundsätzen
+bundeseinheitlich:
 
 1.  die Schlüsselzahlen für Personengruppen, Beitragsgruppen und für
     Abgabegründe der Meldungen,
 
 
-2.  den Aufbau der einzelnen Datensätze für die Übermittlung von Meldungen
-    und Beitragsnachweisen sowie von Eingangsbestätigungen,
-    Fehlermeldungen und Rückmeldungen der Sozialversicherungsträger an die
-    Arbeitgeber durch Datenübertragung.
+2.  den Aufbau, den Inhalt und die Identifizierung der einzelnen
+    Datensätze für die Übermittlung von Meldungen und Beitragsnachweisen
+    durch den Arbeitgeber an die Sozialversicherungsträger, soweit nichts
+    Abweichendes in diesem Buch geregelt ist,
+
+
+3.  den Aufbau und den Inhalt der einzelnen Datensätze für die
+    Übermittlung von Eingangs- und Weiterleitungsbestätigungen,
+    Fehlermeldungen und sonstigen Meldungen der Sozialversicherungsträger
+    und anderer am Meldeverfahren beteiligter Stellen an die Arbeitgeber
+    in den Verfahren nach Nummer 2,
+
+
+4.  gesondert den Aufbau und den Inhalt der Datensätze für die
+    Kommunikationsdaten, die einheitlich am Beginn und am Ende jeder Datei
+    in den Verfahren nach Nummer 2 bei jeder Datenübertragung vom
+    Arbeitgeber an die Sozialversicherung und bei Meldungen an den
+    Arbeitgeber zu übermitteln sind,
+
+
+5.  gesondert den Aufbau und den Inhalt aller Bestandsprüfungen in den
+    elektronischen Verfahren mit den Arbeitgebern sowie das Verfahren zur
+    Weiterleitung der geänderten Meldung an die Empfänger der Meldung und
+    den Meldepflichtigen.
 
 
 
-Die gemeinsamen Grundsätze bedürfen der Genehmigung des
-Bundesministeriums für Arbeit und Soziales, das vorher die
-Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+Satz 1 Nummer 3 bis 5 gilt auch für das Zahlstellenmeldeverfahren nach
+§ 202 des Fünften Buches und für das Antragsverfahren nach § 2 Absatz
+3 des Aufwendungsausgleichsgesetzes. Die Gemeinsamen Grundsätze
+bedürfen der Genehmigung des Bundesministeriums für Arbeit und
+Soziales, das vorher die Bundesvereinigung der Deutschen
+Arbeitgeberverbände anzuhören hat.
 
-(3) Die Deutsche Rentenversicherung Knappschaft-Bahn-See kann für
-ihren Bereich von den Bestimmungen nach Absatz 2 Nummer 1 abweichen.
+(2) Der Spitzenverband Bund der Krankenkassen, die Deutsche
+Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
+Bahn-See und die Deutsche Gesetzliche Unfallversicherung e. V.
+bestimmen bundeseinheitlich die Gestaltung des Haushaltsschecks nach §
+28a Absatz 7 und das der Einzugsstelle in diesem Verfahren zu
+erteilende Lastschriftmandat durch Gemeinsame Grundsätze. Die
+Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit
+und Soziales, das vorher in Bezug auf die steuerrechtlichen Angaben
+das Bundesministerium der Finanzen anzuhören hat.
 
-(4) Der Spitzenverband Bund der Krankenkassen, die Deutsche
-Rentenversicherung Bund und die Bundesagentur für Arbeit bestimmen
-bundeseinheitlich die Gestaltung des Haushaltsschecks (§ 28a Absatz 7)
-und der der Einzugsstelle in diesem Verfahren zu erteilenden
-Einzugsermächtigung.
+(3) Soweit Meldungen nach § 28a Absatz 10 oder 11 betroffen sind, gilt
+Absatz 1 entsprechend mit der Maßgabe, dass die Arbeitsgemeinschaft
+berufsständischer Versorgungseinrichtungen e. V. zu beteiligen ist.
 
-(5) Für die Meldungen nach § 28a Absatz 10 und 11 gilt Absatz 1 für
-die Annahmestelle der berufsständischen Versorgungseinrichtungen
-entsprechend. Absatz 2 gilt entsprechend mit der Maßgabe, dass auch
-die Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen zu
-beteiligen ist, soweit Meldungen nach § 28a Absatz 10 und 11 betroffen
-sind.
-
-(6) (weggefallen)
+(4) Alle Datenfelder sind eindeutig zu beschreiben und in allen
+Verfahren, für die Grundsätze oder Gemeinsame Grundsätze nach diesem
+Gesetzbuch und für das Aufwendungsausgleichsgesetz gelten, verbindlich
+in der jeweils aktuellen Beschreibung zu verwenden. Zur Sicherung der
+einheitlichen Verwendung hält der Spitzenverband Bund der
+Krankenkassen eine Datenbankanwendung vor, in der alle Datenfelder
+beschrieben sowie ihre Verwendung in Datensätzen und Datenbausteinen
+in historisierter wie auch in aktueller Form gespeichert sind und von
+den an den Meldeverfahren nach diesem Gesetzbuch Beteiligten ab dem 1.
+Juli 2017 automatisiert abgerufen werden können. Das Nähere zur
+Darstellung, zur Aktualisierung und zum Abrufverfahren der Daten
+regeln die in Absatz 1 Satz 1 genannten Organisationen der
+Sozialversicherung in Gemeinsamen Grundsätzen; Absatz 3 gilt
+entsprechend. Die Grundsätze bedürfen der Genehmigung des
+Bundesministeriums für Arbeit und Soziales.
 
 
 #### § 28c Verordnungsermächtigung
@@ -2625,7 +2814,7 @@ Bürge, soweit ihm Arbeitnehmer gegen Vergütung zur Arbeitsleistung
 Einzugsstelle den Arbeitgeber nicht gemahnt hat und die Mahnfrist
 nicht abgelaufen ist. Zahlt der Verleiher das vereinbarte
 Arbeitsentgelt oder Teile des Arbeitsentgelts an den Leiharbeitnehmer,
-obwohl der Vertrag nach § 9 Nummer 1 des
+obwohl der Vertrag nach § 9 Absatz 1 Nummer 1 bis 1b des
 Arbeitnehmerüberlassungsgesetzes unwirksam ist, so hat er auch den
 hierauf entfallenden Gesamtsozialversicherungsbeitrag an die
 Einzugsstelle zu zahlen. Hinsichtlich der Zahlungspflicht nach Satz 3
@@ -2785,9 +2974,7 @@ die Vollstreckung als Leistungsbescheid der Einzugsstelle und im
 Insolvenzverfahren als Dokument zur Glaubhaftmachung der Forderungen
 der Einzugsstelle. Im Beitragsnachweis ist auch die Steuernummer des
 Arbeitgebers anzugeben, wenn der Beitragsnachweis die Pauschsteuer für
-geringfügig Beschäftigte enthält. In den Fällen des § 242b des Fünften
-Buches ist zusätzlich der Betrag gesondert nachzuweisen, der ohne die
-Durchführung des Sozialausgleichs zu zahlen gewesen wäre.
+geringfügig Beschäftigte enthält.
 
 (4) Arbeitgeber, die den Gesamtsozialversicherungsbeitrag an mehrere
 Orts- oder Innungskrankenkassen zu zahlen haben, können bei
@@ -2828,16 +3015,6 @@ Arbeit können den Beitragsnachweis sowie den Eingang, die Verwaltung
 und die Weiterleitung ihrer Beiträge bei der beauftragten Stelle
 prüfen. § 28q Absatz 2 und 3 sowie § 28r Absatz 1 und 2 gelten
 entsprechend.
-
-(5) Abweichend von Absatz 1 Satz 1 sind die am 31. Dezember 1991 im
-Beitrittsgebiet vorhandenen Entgeltunterlagen mindestens bis zum 31.
-Dezember 2011 vom Arbeitgeber aufzubewahren. Die Pflicht zur
-Aufbewahrung erlischt, wenn der Arbeitgeber die Entgeltunterlagen dem
-Betroffenen aushändigt oder die für die Rentenversicherung
-erforderlichen Daten bescheinigt, frühestens jedoch mit Ablauf des auf
-die letzte Prüfung der Träger der Rentenversicherung bei dem
-Arbeitgeber folgenden Kalenderjahres, und wenn ein Unternehmen
-aufgelöst wird.
 
 
 #### § 28g Beitragsabzug
@@ -2881,27 +3058,7 @@ Versicherungspflicht in der Kranken-, Pflege- und Rentenversicherung
 sowie nach dem Recht der Arbeitsförderung; sie erlässt auch den
 Widerspruchsbescheid.
 
-(2a) Die Krankenkasse teilt dem Arbeitgeber oder anderen
-Meldepflichtigen im Falle mehrerer beitragspflichtiger Einnahmen
-folgende Daten durch gesicherte und verschlüsselte Datenübertragung
-mit:
-
-1.  ob ein Sozialausgleich durchzuführen ist und das für die
-    Beitragsbemessung nach § 242b Absatz 3 des Fünften Buches anzuwendende
-    Verfahren,
-
-
-2.  in den Fällen des § 20 Absatz 2 das der Berechnung zugrunde liegende
-    Gesamtentgelt und
-
-
-3.  in den Fällen des § 22 Absatz 2 Satz 1 das der Berechnung zugrunde zu
-    legende Gesamtentgelt; diese Mitteilung erfolgt ab dem 1. Januar 2013
-    für Entgelte, die dem laufenden Abrechnungszeitraum zuzuordnen sind,
-    monatlich.
-
-
-
+(2a) (weggefallen)
 
 (3) Bei Verwendung eines Haushaltsschecks vergibt die Einzugsstelle im
 Auftrag der Bundesagentur für Arbeit die Betriebsnummer des
@@ -2909,10 +3066,11 @@ Arbeitgebers, berechnet den Gesamtsozialversicherungsbeitrag und die
 Umlagen nach dem Aufwendungsausgleichsgesetz und zieht diese vom
 Arbeitgeber im Wege des Lastschriftverfahrens ein. Die Einzugsstelle
 meldet bei Beginn und Ende der Beschäftigung und zum Jahresende der
-Datenstelle der Träger der Rentenversicherung die für die
-Rentenversicherung und die Bundesagentur für Arbeit erforderlichen
-Daten eines jeden Beschäftigten. Die Einzugsstelle teilt dem
-Beschäftigten den Inhalt der abgegebenen Meldung schriftlich mit.
+Datenstelle der Rentenversicherung die für die Rentenversicherung und
+die Bundesagentur für Arbeit erforderlichen Daten eines jeden
+Beschäftigten. Die Einzugsstelle teilt dem Beschäftigten den Inhalt
+der abgegebenen Meldung schriftlich oder durch gesicherte
+Datenübertragung mit.
 
 (4) Bei Verwendung eines Haushaltsschecks bescheinigt die
 Einzugsstelle dem Arbeitgeber zum Jahresende
@@ -3155,21 +3313,62 @@ landwirtschaftliche Krankenkasse nimmt abweichend von Satz 1 die
 Prüfung für die bei ihr versicherten mitarbeitenden
 Familienangehörigen vor.
 
-(1a) Die Träger der Rentenversicherung prüfen bei den Arbeitgebern, ob
-diese ihre Meldepflichten nach dem Künstlersozialversicherungsgesetz
-ordnungsgemäß erfüllen und die Künstlersozialabgabe rechtzeitig und
-vollständig entrichten. Das Prüfverfahren kann mit der Aufforderung
-zur Meldung eingeleitet werden. Die Träger der Deutschen
-Rentenversicherung erlassen insoweit die erforderlichen
-Verwaltungsakte zur Künstlersozialabgabepflicht, zur Höhe der
-Künstlersozialabgabe und zur Höhe der Vorauszahlungen nach dem
-Künstlersozialversicherungsgesetz einschließlich der
-Widerspruchsbescheide. Die Träger der Rentenversicherung unterrichten
-die Künstlersozialkasse über Sachverhalte, soweit sie Melde- und
-Abgabepflichten der Arbeitgeber nach dem
-Künstlersozialversicherungsgesetz betreffen.
+(1a) Die Prüfung nach Absatz 1 umfasst die ordnungsgemäße Erfüllung
+der Meldepflichten nach dem Künstlersozialversicherungsgesetz und die
+rechtzeitige und vollständige Entrichtung der Künstlersozialabgabe
+durch die Arbeitgeber. Die Prüfung erfolgt
 
-(1b) Die Träger der Rentenversicherung teilen den Trägern der
+1.  mindestens alle vier Jahre bei den Arbeitgebern, die als
+    abgabepflichtige Unternehmer nach § 24 des
+    Künstlersozialversicherungsgesetzes bei der Künstlersozialkasse
+    erfasst wurden,
+
+
+2.  mindestens alle vier Jahre bei den Arbeitgebern mit mehr als 19
+    Beschäftigten und
+
+
+3.  bei mindestens 40 Prozent der im jeweiligen Kalenderjahr zur Prüfung
+    nach Absatz 1 anstehenden Arbeitgeber mit weniger als 20
+    Beschäftigten.
+
+
+
+Bei Arbeitgebern, die eine Betriebsstruktur mit Haupt- und
+Unterbetrieben mit jeweils eigener Betriebsnummer aufweisen, wird der
+Arbeitgeber insgesamt geprüft. Das Prüfverfahren kann mit der
+Aufforderung zur Meldung eingeleitet werden. Die Träger der Deutschen
+Rentenversicherung erlassen die erforderlichen Verwaltungsakte zur
+Künstlersozialabgabepflicht, zur Höhe der Künstlersozialabgabe und zur
+Höhe der Vorauszahlungen nach dem Künstlersozialversicherungsgesetz
+einschließlich der Widerspruchsbescheide. Die Träger der
+Rentenversicherung unterrichten die Künstlersozialkasse über
+Sachverhalte, welche die Melde- und Abgabepflichten der Arbeitgeber
+nach dem Künstlersozialversicherungsgesetz betreffen. Für die Prüfung
+der Arbeitgeber durch die Künstlersozialkasse gilt § 35 des
+Künstlersozialversicherungsgesetzes.
+
+(1b) Die Träger der Rentenversicherung legen im Benehmen mit der
+Künstlersozialkasse die Kriterien zur Auswahl der nach Absatz 1a Satz
+2 Nummer 3 zu prüfenden Arbeitgeber fest. Die Auswahl dient dem Ziel,
+alle abgabepflichtigen Arbeitgeber zu erfassen. Arbeitgeber mit
+weniger als 20 Beschäftigten, die nicht nach Absatz 1a Satz 2 Nummer 3
+zu prüfen sind, werden durch die Träger der Rentenversicherung im
+Rahmen der Prüfung nach Absatz 1 im Hinblick auf die
+Künstlersozialabgabe beraten. Dazu erhalten sie mit der
+Prüfankündigung Hinweise zur Künstlersozialabgabe. Im Rahmen der
+Prüfung nach Absatz 1 lässt sich der zuständige Träger der
+Rentenversicherung durch den Arbeitgeber schriftlich oder elektronisch
+bestätigen, dass der Arbeitgeber über die Künstlersozialabgabe
+unterrichtet wurde und abgabepflichtige Sachverhalte melden wird.
+Bestätigt der Arbeitgeber dies nicht, wird die Prüfung nach Absatz 1a
+Satz 1 unverzüglich durchgeführt. Erlangt ein Träger der
+Rentenversicherung im Rahmen einer Prüfung nach Absatz 1 bei
+Arbeitgebern mit weniger als 20 Beschäftigten, die nicht nach Absatz
+1a Satz 2 Nummer 3 geprüft werden, Hinweise auf einen
+künstlersozialabgabepflichtigen Sachverhalt, muss er diesen nachgehen.
+
+(1c) Die Träger der Rentenversicherung teilen den Trägern der
 Unfallversicherung die Feststellungen aus der Prüfung bei den
 Arbeitgebern nach § 166 Absatz 2 des Siebten Buches mit. Die Träger
 der Unfallversicherung erlassen die erforderlichen Bescheide.
@@ -3228,24 +3427,24 @@ aufzunehmen, wenn nach § 166 Absatz 2 Satz 2 des Siebten Buches die
 Prüfung der Arbeitgeber für die Unfallversicherung nicht von den
 Trägern der Rentenversicherung durchzuführen ist; die Träger der
 Unfallversicherung haben die erforderlichen Angaben zu übermitteln.
-Die Datenstelle der Träger der Rentenversicherung führt für die
-Prüfung bei den Arbeitgebern eine Datei, in der neben der
-Betriebsnummer eines jeden Arbeitgebers, die Betriebsnummer des für
-den Arbeitgeber zuständigen Unfallversicherungsträgers, die
-Unfallversicherungsmitgliedsnummer des Arbeitgebers, das in der
-Unfallversicherung beitragspflichtige Entgelt der bei ihm
-Beschäftigten in Euro, die anzuwendenden Gefahrtarifstellen der bei
-ihm Beschäftigten, die Versicherungsnummern der bei ihm Beschäftigten
-einschließlich des Beginns und des Endes von deren Beschäftigung, die
-Bezeichnung der für jeden Beschäftigten zuständigen Einzugsstelle
-sowie eine Kennzeichnung des Vorliegens einer geringfügigen
-Beschäftigung gespeichert sind. Sie darf die Daten der Stammsatzdatei
-nach § 150 Absatz 1 und 2 des Sechsten Buches sowie die Daten der
-Datei nach § 150 Absatz 3 des Sechsten Buches für die Prüfung bei den
-Arbeitgebern verarbeiten und nutzen; die Daten der Stammsatzdatei darf
-sie auch für Prüfungen nach § 212a des Sechsten Buches verarbeiten und
-nutzen. Sie ist verpflichtet, auf Anforderung des prüfenden Trägers
-der Rentenversicherung
+Die Datenstelle der Rentenversicherung führt für die Prüfung bei den
+Arbeitgebern eine Datei, in der neben der Betriebsnummer eines jeden
+Arbeitgebers, die Betriebsnummer des für den Arbeitgeber zuständigen
+Unfallversicherungsträgers, die Unfallversicherungsmitgliedsnummer des
+Arbeitgebers, das in der Unfallversicherung beitragspflichtige Entgelt
+der bei ihm Beschäftigten in Euro, die anzuwendenden
+Gefahrtarifstellen der bei ihm Beschäftigten, die Versicherungsnummern
+der bei ihm Beschäftigten einschließlich des Beginns und des Endes von
+deren Beschäftigung, die Bezeichnung der für jeden Beschäftigten
+zuständigen Einzugsstelle sowie eine Kennzeichnung des Vorliegens
+einer geringfügigen Beschäftigung gespeichert sind. Sie darf die Daten
+der Stammsatzdatei nach § 150 Absatz 1 und 2 des Sechsten Buches sowie
+die Daten der Datei nach § 150 Absatz 3 des Sechsten Buches und der
+Stammdatendatei nach § 101 für die Prüfung bei den Arbeitgebern
+verarbeiten und nutzen; die Daten der Stammsatzdatei darf sie auch für
+Prüfungen nach § 212a des Sechsten Buches verarbeiten und nutzen. Sie
+ist verpflichtet, auf Anforderung des prüfenden Trägers der
+Rentenversicherung
 
 1.  die in den Dateien nach den Sätzen 1 und 3 gespeicherten Daten,
 
@@ -3344,7 +3543,13 @@ Satz 1 genannten Datei Daten aus dem Bescheid des Trägers der
 Rentenversicherung nach § 28p Absatz 1 Satz 5, soweit dies für die
 Prüfung bei den Einzugsstellen nach Satz 1 erforderlich ist. Sie darf
 diese Daten nur für die Prüfung bei den Einzugsstellen verarbeiten und
-nutzen.
+nutzen. Die Datenstelle der Rentenversicherung hat auf Anforderung des
+prüfenden Trägers der Rentenversicherung die in der Datei nach § 28p
+Absatz 8 Satz 3 gespeicherten Daten zu verarbeiten, zu nutzen und
+diesem zu übermitteln, soweit dies für die Prüfung nach Satz 1
+erforderlich ist. Die Übermittlung darf auch durch Abruf im
+automatisierten Verfahren erfolgen, ohne dass es einer Genehmigung
+nach § 79 Absatz 1 des Zehnten Buches bedarf.
 
 (1a) Die Träger der Rentenversicherung und die Bundesagentur für
 Arbeit prüfen bei den Einzugsstellen für das Bundesversicherungsamt
@@ -3633,6 +3838,14 @@ den Vorstandsmitgliedern in Zusammenhang mit ihrer Vorstandstätigkeit
 von Dritten gewährt werden, sind dem Vorsitzenden und dem
 stellvertretenden Vorsitzenden des Verwaltungsrates mitzuteilen.
 
+(6a) Der Abschluss, die Verlängerung oder die Änderung eines
+Vorstandsdienstvertrags bedürfen zu ihrer Wirksamkeit der vorherigen
+Zustimmung der Aufsichtsbehörde. Die Vergütung der Mitglieder des
+Vorstandes hat in angemessenem Verhältnis zum Aufgabenbereich, zur
+Größe und zur Bedeutung der Körperschaft zu stehen. Dabei ist
+insbesondere die Zahl der Mitglieder der Körperschaft zu
+berücksichtigen.
+
 (7) Für eine Amtsenthebung und eine Amtsentbindung eines Mitglieds des
 Vorstands durch den Verwaltungsrat gilt § 59 Absatz 2 und 3
 entsprechend. Gründe für eine Amtsenthebung oder eine Amtsentbindung
@@ -3660,13 +3873,10 @@ des Vorstands von der Vertreterversammlung gewählt; § 59 Absatz 2 bis
 4 gilt entsprechend.
 
 (2a) Der Geschäftsführer und sein Stellvertreter werden bei der
-Unfallkasse Post und Telekom vom Bundesministerium der Finanzen
-bestellt; ihre Bestellung bedarf der Zustimmung der Mehrheit der
-Versichertenvertreter im Vorstand und in der Vertreterversammlung. Der
-Geschäftsführer und sein Stellvertreter werden bei der Unfallkasse des
-Bundes vom Bundesministerium für Arbeit und Soziales bestellt; die
-Bestellung bedarf der Zustimmung des Vorstandes. Vor der Bestellung
-des Geschäftsführers der Unfallkasse des Bundes ist der Beirat bei der
+Unfallversicherung Bund und Bahn vom Bundesministerium für Arbeit und
+Soziales bestellt; die Bestellung bedarf der Zustimmung des
+Vorstandes. Vor der Bestellung des Geschäftsführers der
+Unfallversicherung Bund und Bahn ist der Beirat bei der
 Künstlersozialkasse zu hören.
 
 (3) Bei den Feuerwehr-Unfallkassen bestimmt die zuständige oberste
@@ -3747,7 +3957,11 @@ Berufserfahrung erworben hat.
 
 
 besonderen Ausschüssen übertragen werden. § 35 Absatz 2 gilt
-entsprechend.
+entsprechend. Die Sozialversicherung für Landwirtschaft, Forsten und
+Gartenbau richtet insbesondere für die in der landwirtschaftlichen
+Sozialversicherung vertretenen Sparten (Landwirtschaft, Forsten und
+Gartenbau) fachbezogene besondere Ausschüsse ein, die Vorschlagsrechte
+haben; das Nähere wird durch die Satzung bestimmt.
 
 (2) Die Satzung regelt das Nähere, insbesondere die Zusammensetzung
 der besonderen Ausschüsse und die Bestellung ihrer Mitglieder. Zu
@@ -3988,15 +4202,11 @@ Stellvertretung fest. Die Sätze 1 bis 5 gelten nicht für
 Betriebskrankenkassen, deren Satzung eine Regelung nach § 173 Absatz 2
 Satz 1 Nummer 4 des Fünften Buches enthält.
 
-(2a) Bei der Eisenbahn-Unfallkasse, der Unfallkasse Post und Telekom,
-den Unfallkassen der Länder und Gemeinden und den gemeinsamen
+(2a) Bei den Unfallkassen der Länder und Gemeinden und den gemeinsamen
 Unfallkassen für den Landes- und kommunalen Bereich gehören den
 Selbstverwaltungsorganen außer den Vertretern der Versicherten eine
 gleiche Anzahl von Arbeitgebervertretern oder ein Arbeitgebervertreter
-an. Bei der Unfallkasse des Bundes gehören den
-Selbstverwaltungsorganen Arbeitgebervertreter mit der gleichen
-Stimmenzahl wie die Vertreter der Versicherten an. Die
-Arbeitgebervertreter werden bestimmt
+an. Die Arbeitgebervertreter werden bestimmt
 
 1.  bei den Unfallkassen der Länder von der nach Landesrecht zuständigen
     Stelle,
@@ -4013,26 +4223,10 @@ Arbeitgebervertreter werden bestimmt
 
 
     b)  für den kommunalen Bereich, wenn in den Unfallkassen nur eine Gemeinde
-        einbezogen ist, von der nach der Ortssatzung zuständigen Stelle,
+        einbezogen ist, von der nach der Ortssatzung zuständigen Stelle.
 
 
 
-
-
-4.  bei der Eisenbahn-Unfallkasse vom Bundesministerium für Verkehr, Bau
-    und Stadtentwicklung,
-
-
-5.  bei der Unfallkasse Post und Telekom vom Bundesministerium der
-    Finanzen,
-
-
-6.  bei der Unfallkasse des Bundes vom Bundesministerium für Arbeit und
-    Soziales auf Vorschlag des Bundesministeriums des Innern, des
-    Bundesministeriums der Finanzen, des Bundesministeriums der
-    Verteidigung, des Bundesministeriums für Verkehr, Bau und
-    Stadtentwicklung, des Bundesministeriums für Arbeit und Soziales und
-    der Bundesagentur für Arbeit.
 
 
 
@@ -4060,10 +4254,10 @@ genügender Zahl vorhanden, ist die Liste der Stellvertreter nach § 60
 zu ergänzen.
 
 (3a) Das Bundesministerium für Arbeit und Soziales und das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-gehören den Selbstverwaltungsorganen der Sozialversicherung für
-Landwirtschaft, Forsten und Gartenbau mit beratender Stimme an; für
-das Bundesministerium für Arbeit und Soziales gilt dies nicht, soweit
+Bundesministerium für Ernährung und Landwirtschaft gehören den
+Selbstverwaltungsorganen der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau mit beratender Stimme an; für das
+Bundesministerium für Arbeit und Soziales gilt dies nicht, soweit
 Fragen der landwirtschaftlichen Krankenversicherung berührt werden.
 
 (4) Krankenkassen nach § 35a können die Zusammensetzung des
@@ -4105,6 +4299,20 @@ Bund gehören die Mitglieder des Bundesvorstandes der Deutschen
 Rentenversicherung Bund an, die auf Vorschlag der nach Absatz 5 Satz 3
 gewählten Vertreter der Deutschen Rentenversicherung Bund bestimmt
 wurden.
+
+(7) Bei der Unfallversicherung Bund und Bahn gehören den
+Selbstverwaltungsorganen Arbeitgebervertreter mit insgesamt der
+gleichen Stimmenzahl wie die Vertreter der Versicherten an. Die
+Arbeitgebervertreter werden vom Bundesministerium für Arbeit und
+Soziales auf Vorschlag des Bundesministeriums für Verkehr und digitale
+Infrastruktur, des Bundesministeriums des Innern, des
+Bundesministeriums der Finanzen, des Bundesministeriums der
+Verteidigung, des Bundesministeriums für Arbeit und Soziales und der
+Bundesagentur für Arbeit bestellt. Die auf Vorschlag des
+Bundesministeriums für Verkehr und digitale Infrastruktur bestellten
+Arbeitgebervertreter haben in den Selbstverwaltungsorganen einen
+Stimmenanteil von 40 Prozent der Stimmenzahl der Arbeitgebervertreter.
+Das Nähere regelt die Satzung.
 
 
 #### § 45 Sozialversicherungswahlen
@@ -4176,10 +4384,10 @@ Versicherungsträgern trifft die Anzeigepflicht den Wahlausschuss.
 
 
 2.  bei den Trägern der Unfallversicherung auch die versicherten
-    Selbständigen und ihre versicherten Ehegatten, soweit Absatz 3 nichts
-    Abweichendes bestimmt, und die Rentenbezieher, die der Gruppe der
-    Arbeitgeber unmittelbar vor dem Ausscheiden aus der versicherten
-    Tätigkeit angehört haben,
+    Selbständigen und ihre versicherten Ehegatten oder Lebenspartner,
+    soweit Absatz 3 nichts Abweichendes bestimmt, und die Rentenbezieher,
+    die der Gruppe der Arbeitgeber unmittelbar vor dem Ausscheiden aus der
+    versicherten Tätigkeit angehört haben,
 
 
 3.  bei den Feuerwehr-Unfallkassen auch die Gemeinden und die
@@ -4192,9 +4400,9 @@ Versicherungsträgern trifft die Anzeigepflicht den Wahlausschuss.
 der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 
 1.  die versicherten Selbständigen ohne fremde Arbeitskräfte und ihre
-    versicherten Ehegatten; dies gilt nicht für Personen, die in den
-    letzten zwölf Monaten sechsundzwanzig Wochen als Arbeitnehmer in der
-    Land- oder Forstwirtschaft unfallversichert waren,
+    versicherten Ehegatten oder Lebenspartner; dies gilt nicht für
+    Personen, die in den letzten zwölf Monaten sechsundzwanzig Wochen als
+    Arbeitnehmer in der Land- oder Forstwirtschaft unfallversichert waren,
 
 
 2.  die Rentenbezieher, die der Gruppe der Selbständigen ohne fremde
@@ -4609,11 +4817,12 @@ Selbstverwaltungsorgan kann jedoch ein Beauftragter je Gruppe
 angehören. Eine Abweichung von Satz 2, die sich infolge der Vertretung
 eines Organmitglieds ergibt, ist zulässig.
 
-(5) Bei der Berufsgenossenschaft für Transport und Verkehrswirtschaft
-sind als Vertreter der Versicherten auch Personen wählbar, die
-mindestens fünf Jahre lang als Seeleute bei der Berufsgenossenschaft
-für Transport und Verkehrswirtschaft versichert waren, noch in näherer
-Beziehung zur Seefahrt stehen und nicht Unternehmer sind.
+(5) Bei der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation sind als Vertreter der Versicherten auch Personen
+wählbar, die mindestens fünf Jahre lang als Seeleute bei der
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation versichert waren, noch in näherer Beziehung zur
+Seefahrt stehen und nicht Unternehmer sind.
 
 (5a) Wer nach dem Stichtag für die Wählbarkeit seine
 Gruppenzugehörigkeit wegen Arbeitslosigkeit verliert, verliert nicht
@@ -4637,7 +4846,8 @@ deshalb seine Wählbarkeit bis zum Ende der Amtsperiode.
 
 
 5.
-    a)  als Beamter, Angestellter oder Arbeiter bei dem Versicherungsträger,
+    a)  als Beamter, Angestellter oder Arbeiter bei dem Versicherungsträger
+        oder dessen Verbänden,
 
 
     b)  als leitender Beamter oder Angestellter bei einer Behörde, die
@@ -4649,7 +4859,8 @@ deshalb seine Wählbarkeit bis zum Ende der Amtsperiode.
 
 
 
-    beschäftigt ist,
+    beschäftigt ist oder innerhalb von zwölf Monaten vor dem Wahltag
+    beschäftigt war,
 
 
 6.
@@ -4914,7 +5125,10 @@ anzuzeigen, die seine Wählbarkeit berühren.
 Weise gegen seine Amtspflichten, hat der Vorstand das Mitglied durch
 Beschluss seines Amtes zu entheben. Der Vorstand kann die sofortige
 Vollziehung des Beschlusses anordnen; die Anordnung hat die Wirkung,
-dass das Mitglied sein Amt nicht ausüben kann.
+dass das Mitglied sein Amt nicht ausüben kann. Für ein Mitglied des
+Verwaltungsrates der in § 35a Absatz 1 genannten Krankenkassen finden
+die Sätze 1 und 2 auch dann Anwendung, wenn in seiner Person ein
+Wahlausschlussgrund nach § 51 Absatz 6 vorliegt.
 
 (4) Betrifft ein Beschluss nach Absatz 2 oder 3 ein Mitglied der
 Vertreterversammlung, bedarf er der Zustimmung des Vorsitzenden der
@@ -5263,25 +5477,7 @@ Vertreterversammlung stellt ihn fest.
 des Kalenderjahrs, für das er gelten soll, der Aufsichtsbehörde
 vorzulegen, wenn diese es verlangt.
 
-(2a) Der Haushaltsplan der Eisenbahn-Unfallkasse bedarf der
-Genehmigung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung, der Haushaltsplan der Unfallkasse Post und Telekom
-der Genehmigung des Bundesministeriums der Finanzen; der Haushaltsplan
-soll so rechtzeitig festgestellt werden, dass er spätestens am 1.
-Dezember vor Beginn des Kalenderjahres, für das er gelten soll, der
-genehmigenden Stelle vorgelegt werden kann. Der Haushaltsplan der
-Unfallkasse des Bundes bedarf der Genehmigung des
-Bundesversicherungsamtes im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium der Finanzen; der
-Haushaltsplan soll so rechtzeitig festgestellt werden, dass er
-spätestens am 1. Dezember vor Beginn des Kalenderjahres, für das er
-gelten soll, der genehmigenden Stelle vorgelegt werden kann. Die
-genehmigende Stelle kann die Genehmigung auch für einzelne Ansätze
-versagen, wenn der Haushaltsplan gegen Gesetz oder sonstiges für den
-Versicherungsträger maßgebendes Recht verstößt oder die
-Leistungsfähigkeit des Versicherungsträgers zur Erfüllung seiner
-Verpflichtungen gefährdet oder wenn die Bewertungs- oder
-Bewirtschaftungsmaßstäbe des Bundes nicht beachtet sind.
+(2a) (weggefallen)
 
 (3) Die Regionalträger der gesetzlichen Rentenversicherung haben den
 vom Vorstand aufgestellten Haushaltsplan spätestens am 1. Oktober vor
@@ -5474,9 +5670,9 @@ Forsten und Gartenbau ist getrennt für die Versicherungszweige
 landwirtschaftliche Unfallversicherung, Alterssicherung der Landwirte,
 landwirtschaftliche Krankenversicherung und landwirtschaftliche
 Pflegeversicherung aufzustellen. Der Haushaltsplan soll so rechtzeitig
-vom Vorstand aufgestellt werden, dass er bis zum 1. Oktober vor Beginn
-des Kalenderjahres, für das er gelten soll, der Aufsichtsbehörde
-vorgelegt werden kann.
+festgestellt werden, dass er bis zum 15. November vor Beginn des
+Kalenderjahres, für das er gelten soll, der Aufsichtsbehörde vorgelegt
+werden kann.
 
 (2) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 hat sicherzustellen, dass die Kosten, die für die Erfüllung von
@@ -5488,9 +5684,8 @@ Krankenversicherung und Alterssicherung der Landwirte verteilt werden
 
 (3) Der Haushaltsplan und der Kostenverteilungsschlüssel bedürfen der
 Genehmigung durch die Aufsichtsbehörde. Die Genehmigung wird im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz und dem Bundesministerium für Arbeit und
-Soziales erteilt. Die Aufsichtsbehörde kann die Genehmigung des
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft erteilt. Die Aufsichtsbehörde kann die Genehmigung des
 Haushaltsplans auch für einzelne Ansätze versagen, soweit gegen Gesetz
 oder sonstiges für den Versicherungsträger maßgebendes Recht verstoßen
 wird, die Leistungsfähigkeit des Versicherungsträgers zur Erfüllung
@@ -5509,7 +5704,57 @@ Ausgaben, insbesondere die Personalkosten, in einer gesonderten
 Aufstellung auszuweisen. Der Haushaltsplan bedarf insoweit der
 Genehmigung des Bundesversicherungsamtes im Einvernehmen mit dem
 Bundesministerium für Arbeit und Soziales und dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung.
+für Verkehr und digitale Infrastruktur.
+
+
+#### § 71f Haushaltsplan der Unfallversicherung Bund und Bahn
+
+(1) Der Haushaltsplan der Unfallversicherung Bund und Bahn wird in
+Teilhaushalten aufgestellt, in denen die im Zuständigkeitsbereich nach
+§ 125 Absatz 1 des Siebten Buches und im Zuständigkeitsbereich nach §
+125 Absatz 2 des Siebten Buches anfallenden Einnahmen und Ausgaben
+getrennt veranschlagt werden. Der Haushaltsplan bedarf der Genehmigung
+des Bundesversicherungsamtes. Die Genehmigung des Teilhaushaltes für
+den Zuständigkeitsbereich nach § 125 Absatz 1 des Siebten Buches
+erfolgt im Einvernehmen mit dem Bundesministerium für Arbeit und
+Soziales und dem Bundesministerium der Finanzen. Die Genehmigung des
+Teilhaushaltes für den Zuständigkeitsbereich nach § 125 Absatz 2 des
+Siebten Buches erfolgt im Einvernehmen mit dem Bundesministerium für
+Verkehr und digitale Infrastruktur. Der Haushaltsplan soll so
+rechtzeitig festgestellt werden, dass er spätestens am 1. Dezember vor
+Beginn des Kalenderjahres, für das er gelten soll, der genehmigenden
+Stelle vorgelegt werden kann. Die genehmigende Stelle kann die
+Genehmigung auch für einzelne Ansätze versagen, wenn der Haushaltsplan
+gegen Gesetz oder sonstiges für den Versicherungsträger maßgebendes
+Recht verstößt oder die Leistungsfähigkeit des Versicherungsträgers
+zur Erfüllung seiner Verpflichtungen gefährdet oder wenn die
+Bewertungs- oder Bewirtschaftungsmaßstäbe des Bundes nicht beachtet
+sind.
+
+(2) Die dem Zuständigkeitsbereich nach § 125 Absatz 1 des Siebten
+Buches und die dem Zuständigkeitsbereich nach § 125 Absatz 2 des
+Siebten Buches unmittelbar zuzurechnenden Verwaltungsausgaben werden
+in dem entsprechenden Teilhaushalt veranschlagt. Die den
+Zuständigkeitsbereichen nicht unmittelbar zurechenbaren
+Verwaltungsausgaben werden im Rahmen einer Kosten-Leistungs-Rechnung
+ermittelt, die den jeweils aktuellen Grundsätzen und Prinzipien der
+standardisierten Kosten- und Leistungsrechnung des Bundes entspricht.
+Die Verwaltungsausgaben, die den Zuständigkeitsbereichen nicht
+unmittelbar zugeordnet werden können, werden im Teilhaushalt für die
+Aufgaben nach § 125 Absatz 1 des Siebten Buches veranschlagt. Der nach
+der Kosten- und Leistungsrechnung auf den Zuständigkeitsbereich nach §
+125 Absatz 2 des Siebten Buches entfallende Anteil der nicht
+unmittelbar zurechenbaren Verwaltungsausgaben wird dem Bund monatlich
+nach Genehmigung des Bundesversicherungsamtes aus dem Teilhaushalt für
+den Zuständigkeitsbereich nach § 125 Absatz 2 des Siebten Buches
+erstattet. Die Ausgaben für die Vertreterversammlung und den Vorstand
+werden nach einem Schlüssel in den Teilhaushalten veranschlagt, der
+nach objektiven und gewichteten Kriterien gebildet wird. Das Nähere
+regelt die Satzung der Unfallversicherung Bund und Bahn.
+
+(3) Einsparungen für überplanmäßige und außerplanmäßige Ausgaben nach
+§ 73 Absatz 2 Satz 3 und 4 an anderer Stelle des Haushaltsplans
+erfolgen in dem Teilhaushalt, in dem diese Ausgaben geleistet werden.
 
 
 #### § 72 Vorläufige Haushaltsführung
@@ -5535,7 +5780,10 @@ und Soziales anzuzeigen. Bei der Deutschen Rentenversicherung
 Knappschaft-Bahn-See und der Bundesagentur für Arbeit bedarf der
 Beschluss der Genehmigung des Bundesministeriums für Arbeit und
 Soziales, die jeweils im Einvernehmen mit dem Bundesministerium der
-Finanzen erfolgt.
+Finanzen erfolgt. Bei der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau bedarf der Beschluss der Genehmigung der
+Aufsichtsbehörde, die im Einvernehmen mit dem Bundesministerium für
+Ernährung und Landwirtschaft erfolgt.
 
 
 #### § 73 Überplanmäßige und außerplanmäßige Ausgaben
@@ -5563,19 +5811,21 @@ Bundesministerium der Finanzen unterrichtet. Bei der Deutschen
 Rentenversicherung Knappschaft-Bahn-See und der Bundesagentur für
 Arbeit ist die Genehmigung des Bundesministeriums für Arbeit und
 Soziales erforderlich, die jeweils im Einvernehmen mit dem
-Bundesministerium der Finanzen erfolgt. Bei der Eisenbahn-Unfallkasse
-ist die Genehmigung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung, bei der Unfallkasse Post und Telekom die Genehmigung
-des Bundesministeriums der Finanzen erforderlich. Bei der Unfallkasse
-des Bundes ist die Genehmigung des Bundesversicherungsamtes
+Bundesministerium der Finanzen erfolgt. Bei der Unfallversicherung
+Bund und Bahn ist für überplanmäßige und außerplanmäßige Ausgaben im
+Teilhaushalt für den Zuständigkeitsbereich nach § 125 Absatz 1 des
+Siebten Buches die Genehmigung des Bundesversicherungsamtes
 erforderlich, die im Einvernehmen mit dem Bundesministerium für Arbeit
-und Soziales und dem Bundesministerium der Finanzen erfolgt. Bei der
+und Soziales und dem Bundesministerium der Finanzen erfolgt. Für
+überplanmäßige und außerplanmäßige Ausgaben im Teilhaushalt für den
+Zuständigkeitsbereich nach § 125 Absatz 2 des Siebten Buches erfolgt
+die Genehmigung des Bundesversicherungsamtes im Einvernehmen mit dem
+Bundesministerium für Verkehr und digitale Infrastruktur. Bei der
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau ist die
 Genehmigung der Aufsichtsbehörde erforderlich, die im Einvernehmen mit
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz und dem Bundesministerium für Arbeit und Soziales
-erfolgt; Ausgaben bis zu einem Betrag von 50 000 Euro bedürfen nicht
-der Genehmigung.
+dem Bundesministerium für Ernährung und Landwirtschaft erfolgt;
+Ausgaben bis zu einem Betrag von 50 000 Euro bedürfen nicht der
+Genehmigung.
 
 (3) Kann die Einwilligung des Vorstands, bei der Bundesagentur für
 Arbeit des Verwaltungsrats, oder die Genehmigung des
@@ -5857,9 +6107,9 @@ herzustellen ist. Soweit Bedarf für besondere Nachweise im Bereich der
 landwirtschaftlichen Krankenversicherung besteht, sind die Absätze 1
 bis 3 mit den Maßgaben anzuwenden, dass an die Stelle des
 Bundesministeriums für Arbeit und Soziales das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz tritt und beim Erlass
-der allgemeinen Verwaltungsvorschriften nach Absatz 2 Satz 2 auch das
-Einvernehmen mit dem Bundesministerium für Arbeit und Soziales und dem
+Ernährung und Landwirtschaft tritt und beim Erlass der allgemeinen
+Verwaltungsvorschriften nach Absatz 2 Satz 2 auch das Einvernehmen mit
+dem Bundesministerium für Arbeit und Soziales und dem
 Bundesministerium für Gesundheit herzustellen ist.
 
 (3b) Soweit Versichertenstatistiken und Statistiken der
@@ -6032,6 +6282,12 @@ Grundstücken ist von dem fiktiven Kaufpreis auszugehen.
 demselben Verhältnis wie der Baukostenindex, den das Bundesministerium
 für Arbeit und Soziales alljährlich bekannt gibt.
 
+(3a) Mietverträge von Krankenkassen und ihren Verbänden sind der
+Aufsichtsbehörde vor ihrem Abschluss vorzulegen, wenn die anzumietende
+Fläche 7 500 Quadratmeter überschreitet und eine Mietdauer von mehr
+als zehn Jahren fest vereinbart werden soll. Absatz 1 Satz 5 und 6
+gilt entsprechend.
+
 (4) Diese Vorschrift findet auf die Bundesagentur für Arbeit keine
 Anwendung.
 
@@ -6116,9 +6372,8 @@ Zuständigkeitsbereich sich über das Gebiet eines Landes hinaus
 erstreckt (bundesunmittelbare Versicherungsträger), führt das
 Bundesversicherungsamt, auf den Gebieten der Prävention in der
 gesetzlichen Unfallversicherung das Bundesministerium für Arbeit und
-Soziales. Die Aufsicht über die Unfallkasse Post und Telekom auf dem
-Gebiet der Prävention in der gesetzlichen Unfallversicherung führt das
-Bundesministerium der Finanzen.
+Soziales. Die Aufsicht über die Unfallversicherung Bund und Bahn auf
+dem Gebiet der Prävention führt das Bundesministerium des Innern.
 
 (2) Die Aufsicht über die Versicherungsträger, deren
 Zuständigkeitsbereich sich nicht über das Gebiet eines Landes hinaus
@@ -6144,8 +6399,7 @@ die beteiligten Länder bestimmt ist.
 Erfahrungsaustausch. Soweit dieser Erfahrungsaustausch Angelegenheiten
 der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 betrifft, nehmen auch das Bundesministerium für Arbeit und Soziales
-und das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz teil.
+und das Bundesministerium für Ernährung und Landwirtschaft teil.
 
 
 #### § 90a Zuständigkeitsbereich
@@ -6250,19 +6504,511 @@ Bundesministeriums gebunden.
 
 (3) Das Bundesversicherungsamt begleitet in Abstimmung mit dem
 Bundesministerium für Arbeit und Soziales und dem Bundesministerium
-für Ernährung, Landwirtschaft und Verbraucherschutz die
-Sozialversicherung für Landwirtschaft, Forsten und Gartenbau bei der
-Weiterentwicklung der Informationstechnik. Die Kosten des
-Bundesversicherungsamtes werden von der Sozialversicherung für
-Landwirtschaft, Forsten und Gartenbau erstattet. Die Kosten werden
-nach dem tatsächlich entstandenen Personal- und Sachaufwand berechnet.
+für Ernährung und Landwirtschaft die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau bei der Weiterentwicklung der
+Informationstechnik. Die Kosten des Bundesversicherungsamtes werden
+von der Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
+erstattet. Die Kosten werden nach dem tatsächlich entstandenen
+Personal- und Sachaufwand berechnet.
 
 
-### (XXXX) §§ 95 bis 110 (weggefallen)
+## Sechster Abschnitt - Übermittlung und Verarbeitung von elektronischen Daten in der Sozialversicherung
 
 
 
-## Sechster Abschnitt - Aufbewahrung von Unterlagen
+### Erster Titel - Übermittlung von Daten zur und innerhalb der Sozialversicherung
+
+
+
+#### § 95 Gemeinsame Grundsätze Technik
+
+Der Spitzenverband Bund der Krankenkassen, die Deutsche
+Rentenversicherung Bund, die Deutsche Rentenversicherung Knappschaft-
+Bahn-See, die Bundesagentur für Arbeit und die Deutsche Gesetzliche
+Unfallversicherung e. V. vereinbaren in Gemeinsamen Grundsätzen die
+Standards für die elektronische Datenübermittlung an die oder
+innerhalb der Sozialversicherung, insbesondere zur Verschlüsselung der
+Daten, zur Übertragungstechnik, zur Kennzeichnung bei Weiterleitung
+von Meldungen durch ein Referenzdatum und zu den jeweiligen
+Schnittstellen. Kommen hierbei Verfahren für die Verschlüsselung oder
+Signatur zum Einsatz, sind diese nach dem Stand der Technik
+umzusetzen. Der Stand der Technik ist den Technischen Richtlinien des
+Bundesamtes für Sicherheit in der Informationstechnik zu entnehmen.
+Soweit Standards vereinbart werden, von denen die landwirtschaftliche
+Sozialversicherung oder die berufsständische Versorgung betroffen ist,
+sind deren Spitzenorganisationen zu beteiligen. Die Gemeinsamen
+Grundsätze bedürfen der Genehmigung des Bundesministeriums für Arbeit
+und Soziales, das vorher das Bundesministerium für Gesundheit und,
+soweit die Meldeverfahren der Arbeitgeber betroffen sind, die
+Bundesvereinigung der Deutschen Arbeitgeberverbände anzuhören hat.
+
+
+### Zweiter Titel - Annahme, Weiterleitung und Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger
+
+
+
+#### § 96 Kommunikationsserver
+
+(1) Zur Bündelung der Datenübermittlung vom Arbeitgeber an die
+Sozialversicherungsträger und andere öffentliche Stellen nach diesem
+Gesetzbuch und dem Aufwendungsausgleichsgesetz sowie des zugehörigen
+Rückmeldeverfahrens betreiben die gesetzliche Krankenversicherung und
+die Datenstelle der Rentenversicherung jeweils einen
+Kommunikationsserver. Eingehende Meldungen der Arbeitgeber sind
+unverzüglich an die zuständige Annahmestelle weiterzuleiten. Der
+technische Eingang der Meldung ist zu quittieren.
+
+(2) Der Meldepflichtige hat Meldungen der Sozialversicherungsträger
+oder anderer öffentlicher Stellen nach diesem Gesetzbuch mindestens
+einmal wöchentlich von den Kommunikationsservern abzurufen und zu
+verarbeiten. Der verwertbare Empfang ist durch den Meldepflichtigen zu
+quittieren. Mit der Annahme der Quittung durch den
+Kommunikationsserver gelten die Meldungen als dem Meldepflichtigen
+zugegangen. 30 Tage nach Eingang der Quittung sind diese Meldungen
+durch den Sozialversicherungsträger oder die andere öffentliche Stelle
+zu löschen. Erfolgt keine Quittierung, werden Meldungen 30 Tage nach
+der Bereitstellung zum Abruf gelöscht. Satz 1 gilt nicht für
+Arbeitgeber, die Meldungen nach § 28a Absatz 6a und 7 abgeben. Diese
+erhalten die Meldungen von den Sozialversicherungsträgern in
+schriftlicher Form übermittelt. Das Nähere zum Abrufverfahren wird in
+Gemeinsamen Grundsätzen entsprechend § 28b Absatz 1 Satz 1 Nummer 3
+geregelt.
+
+
+#### § 97 Annahmestellen
+
+(1) Die Sozialversicherungsträger und die berufsständischen
+Versorgungseinrichtungen errichten zur Annahme der Daten vom oder zur
+Meldung zum Arbeitgeber, zu ihrer technischen Prüfung und zur
+Weiterleitung innerhalb eines Sozialversicherungszweiges oder an
+andere Sozialversicherungsträger oder öffentliche Stellen
+Annahmestellen. Annahmestellen errichten die Krankenkassen. Eine
+Annahmestelle errichten ferner:
+
+1.  die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau,
+
+
+2.  die Träger der Rentenversicherung bei der Datenstelle der
+    Rentenversicherung,
+
+
+3.  die Deutsche Rentenversicherung Knappschaft-Bahn-See,
+
+
+4.  die Bundesagentur für Arbeit,
+
+
+5.  die Unfallversicherungsträger bei der Deutschen Gesetzlichen
+    Unfallversicherung e. V.,
+
+
+6.  die berufsständischen Versorgungseinrichtungen bei der
+    Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V.
+
+
+
+
+(2) Abweichend von Absatz 1 kann ein Sozialversicherungsträger durch
+schriftliche Vereinbarung einen anderen Sozialversicherungsträger mit
+dem Betrieb der Annahmestelle beauftragen.
+
+(3) Die erstannehmende Annahmestelle hat nach der Entschlüsselung der
+Daten und der technischen Prüfung die technisch fehlerfreien Daten
+innerhalb eines Arbeitstages an den Adressaten der Datenübermittlung
+weiterzuleiten. Die meldende Stelle erhält mit der Weiterleitung eine
+Weiterleitungsbestätigung; die Meldungen gelten damit als dem
+Adressaten zugegangen.
+
+(4) Technisch fehlerhafte Meldungen sind innerhalb eines Arbeitstages
+mit einer Fehlermeldung durch Datenübertragung zurückzuweisen. Zur
+Verbesserung der Qualität der Meldungen richten die Krankenkassen ein
+Qualitätsmanagement ein, das zur Beseitigung festgestellter
+technischer Mängel in der Software der meldenden Krankenkasse oder der
+Annahmestelle in einer Frist von 30 Tagen verpflichtet. Rückweisungen
+seitens der Meldepflichtigen sind nur durch die jeweils aktuell
+gültigen Kernprüfprogramme zulässig, die in der Abrechnungssoftware
+installiert sind. Das Nähere zum Verfahren regeln Grundsätze des
+Spitzenverbandes Bund der Krankenkassen. Die Grundsätze bedürfen der
+Genehmigung des Bundesministeriums für Arbeit und Soziales im
+Einvernehmen mit dem Bundesministerium für Gesundheit; die
+Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher
+anzuhören.
+
+(5) Die Annahmestelle darf die Meldungen unter Beachtung der
+Datensicherheit und Datenvollständigkeit in ein anderes technisches
+Format umwandeln, wenn dies für die weitere Verarbeitung und Nutzung
+der Meldungen beim Adressaten der Daten notwendig oder
+wirtschaftlicher ist. Die Meldungen sind ohne inhaltliche
+Veränderungen in verschlüsselter Form oder über eine gesicherte
+Leitung an den Adressaten weiterzuleiten. Der Adressat der Meldungen
+hat diese elektronisch anzunehmen und zu verarbeiten.
+
+
+#### § 98 Weiterleitung der Daten durch die Einzugsstellen
+
+(1) Die Einzugsstellen nehmen, soweit durch dieses Gesetzbuch nichts
+anderes bestimmt ist, die für die gesetzliche Kranken-, Pflege- und
+Rentenversicherung sowie nach dem Recht der Arbeitsförderung zu
+übermittelnden Daten von der erstannehmenden Annahmestelle entgegen.
+Dies gilt auch für die Daten nach § 196 Absatz 2 Satz 3 des Sechsten
+Buches. Die Einzugsstellen haben dafür zu sorgen, dass die Meldungen
+rechtzeitig erstattet werden, die erforderlichen Daten vollständig und
+richtig enthalten sind und innerhalb von drei Arbeitstagen an die
+Adressaten der Meldeinhalte weitergeleitet werden. Die Einzugsstellen
+können die Weiterleitung der Daten an andere Sozialversicherungsträger
+oder andere öffentliche Stellen an eine Annahmestelle übertragen.
+
+(2) Die Einzugsstelle unterzieht die Meldungen nach § 28a einer
+automatisierten inhaltlichen Prüfung im Abgleich mit ihren
+Bestandsdaten (Bestandsprüfung). Stellt sie in einer Meldung einen
+Fehler fest, hat sie die festgestellten Abweichungen mit dem
+Meldepflichtigen aufzuklären. Wird in der Folge der Inhalt der Meldung
+durch die Einzugsstelle verändert, hat sie die Veränderung dem
+Meldepflichtigen durch Datenübertragung unverzüglich zu melden; § 28a
+Absatz 1 Satz 2 und § 96 Absatz 2 Satz 6 und 7 gelten entsprechend.
+Die Sätze 1 bis 3 gelten entsprechend für alle anderen Adressaten von
+Meldungen. Die Sätze 1 bis 3 gelten entsprechend für § 28f Absatz 3
+Satz 1 sowie für Meldungen nach § 107 Absatz 1 Satz 1 sowie für
+Meldungen nach § 202 Absatz 1 Satz 1 des Fünften Buches und nach § 2
+Absatz 3 Satz 1 des Aufwendungsausgleichsgesetzes.
+
+
+### Dritter Titel - Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung
+
+
+
+#### § 99 Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren
+
+(1) Hat ein Unternehmer nach § 165 Absatz 1 Satz 1 des Siebten Buches
+für das Kalenderjahr, in dem Beitragspflicht bestand, einen
+Lohnnachweis zu erstellen, hat er diesen bis zum 16. Februar des
+Folgejahres durch elektronische Datenübertragung an den zuständigen
+Unfallversicherungsträger zu übermitteln. Die Übermittlung hat aus
+einem systemgeprüften Entgeltabrechnungsprogramm oder einer
+systemgeprüften Ausfüllhilfe nach § 28a Absatz 1 Satz 2 und 3 zu
+erfolgen. Die Sätze 1 und 2 gelten nicht für Unternehmer, deren
+Beiträge für ihre Beschäftigten auf der Basis von Einwohnerzahlen nach
+§ 185 Absatz 4 Satz 1 des Siebten Buches erhoben werden, sowie für
+private Haushalte nach § 129 Absatz 1 Nummer 2 des Siebten Buches.
+
+(2) Der Unternehmer übermittelt die Meldungen nach Absatz 1 an die
+Annahmestelle der Unfallversicherungsträger. Übermittelt ein
+Unternehmer Meldungen für mehrere meldende Stellen oder gesondert für
+verschiedene Gruppen von Versicherten, hat er diese Meldungen jeweils
+gesondert als Teillohnnachweis zu erstatten.
+
+(3) Sind Korrekturen der gemeldeten Daten notwendig, hat der
+Unternehmer die fehlerhafte Meldung unverzüglich zu stornieren und die
+Meldung erneut zu erstatten. Werden fehlerhafte Meldungen
+zurückgewiesen, sind unverzüglich berichtigte Meldungen erneut zu
+erstatten.
+
+(4) Abweichend von Absatz 3 ist eine Meldung nach Absatz 1 bei
+Insolvenz, Einstellung oder Überweisung des Unternehmens, bei
+Unternehmerwechsel, bei der Beendigung aller
+Beschäftigungsverhältnisse oder anderen Sachverhalten, die zu einem
+Wegfall der die Abrechnung durchführenden Stelle führen, mit der
+nächsten Entgeltabrechnung, spätestens innerhalb von sechs Wochen,
+abzugeben. Das Nähere regeln die Gemeinsamen Grundsätze nach § 103.
+
+
+#### § 100 Inhalt des elektronischen Lohnnachweises
+
+(1) Die Meldung des elektronischen Lohnnachweises enthält insbesondere
+folgende Angaben:
+
+1.  die Mitgliedsnummer des Unternehmers;
+
+
+2.  die Betriebsnummer der die Abrechnung durchführenden Stelle;
+
+
+3.  die Betriebsnummer des zuständigen Unfallversicherungsträgers;
+
+
+4.  das in der Unfallversicherung beitragspflichtige Arbeitsentgelt, die
+    geleisteten Arbeitsstunden und die Anzahl der zu meldenden
+    Versicherten, bezogen auf die anzuwendenden Gefahrtarifstellen.
+
+
+
+
+(2) Absatz 1 gilt für die Erstellung von Teillohnnachweisen nach § 99
+Absatz 2 entsprechend.
+
+(3) Das Nähere zum Verfahren, zu den Datensätzen und zu weiteren zu
+übermittelnden Angaben, insbesondere der zu verwendenden
+Schlüsselzahlen, regeln die Gemeinsamen Grundsätze nach § 103.
+
+
+#### § 101 Stammdatendatei
+
+(1) Die Deutsche Gesetzliche Unfallversicherung e. V. errichtet eine
+Stammdatendatei, in der der zuständige Unfallversicherungsträger, die
+Mitgliedsnummer des Unternehmers, die anzuwendenden
+Gefahrtarifstellen, die dazugehörigen Betriebsnummern der die
+Abrechnung durchführenden Stellen und gegebenenfalls weitere
+erforderliche Identifikationsmerkmale gespeichert sind.
+
+(2) Die Unfallversicherungsträger melden alle notwendigen Daten zur
+Errichtung einer Stammdatendatei an die Deutsche Gesetzliche
+Unfallversicherung e. V., Änderungen der Daten sind unverzüglich zu
+melden. Die Unfallversicherungsträger dürfen die zur Erledigung ihrer
+gesetzlichen Aufgaben notwendigen Daten aus der Stammdatendatei
+abrufen, verarbeiten und nutzen.
+
+(3) Die Deutsche Rentenversicherung Bund, die Datenstelle der
+Rentenversicherung und die Deutsche Rentenversicherung Knappschaft-
+Bahn-See dürfen zur Erfüllung der gesetzlichen Aufgaben nach diesem
+Buch die Daten der Stammdatendatei abrufen und nutzen.
+
+(4) Die Unternehmer haben zur Durchführung der Meldungen nach § 28a
+Absatz 2a und § 99 einen automatisierten Abgleich mit den Daten der
+Stammdatendatei durchzuführen.
+
+(5) Das Nähere zum Aufbau und zum Abrufverfahren, insbesondere zu den
+Datensätzen, wird in den Gemeinsamen Grundsätzen nach § 103 geregelt.
+
+
+#### § 102 Verarbeitung, Weiterleitung und Nutzung der Daten zum Lohnnachweisverfahren
+
+(1) Für die Annahme, Prüfung und Weiterleitung der Meldung nach § 99
+gilt für die Annahmestelle der Unfallversicherungsträger § 97 Absatz 3
+bis 5 entsprechend. Die Deutsche Gesetzliche Unfallversicherung e. V.
+erstellt Kernprüfprogramme zur Sicherung der Qualität der Meldungen im
+elektronischen Lohnnachweisverfahren der gesetzlichen
+Unfallversicherung; die Erfüllung der Aufgaben der Kernprüfprogramme
+ist Bestandteil der Systemprüfung von Entgeltprogrammen für
+Arbeitgeber.
+
+(2) Die Annahmestelle leitet die Meldung nach § 99 an die Deutsche
+Gesetzliche Unfallversicherung e. V. innerhalb eines Arbeitstages
+weiter. Die Deutsche Gesetzliche Unfallversicherung e. V. prüft diese
+Meldungen gegen ihre Informationen im Stammdatendienst und leitet
+fehlerfreie Meldungen an den zuständigen Unfallversicherungsträger
+innerhalb eines Arbeitstages weiter.
+
+(3) Das Nähere zum Verfahren, zur Weiterleitung und zur Nutzung der
+Daten regeln die Gemeinsamen Grundsätze nach § 103.
+
+
+#### § 103 Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung
+
+Die Deutsche Rentenversicherung Bund, die Deutsche Gesetzliche
+Unfallversicherung e. V. und der Spitzenverband Bund der Krankenkassen
+bestimmen in Gemeinsamen Grundsätzen bundeseinheitlich das Nähere zu
+den Verfahren nach den §§ 99, 100, 101 und 102. Die Grundsätze
+bedürfen der Genehmigung des Bundesministeriums für Arbeit und
+Soziales, das vorher die Bundesvereinigung der Deutschen
+Arbeitgeberverbände anzuhören hat.
+
+
+## Siebter Abschnitt - Informationsangebote in den Meldeverfahren der sozialen Sicherung
+
+
+
+### § 104 Informations- und Beratungsanspruch
+
+Arbeitgeber und Beschäftigte haben einen Anspruch, von den an den
+Meldeverfahren nach diesem Buch beteiligten Sozialversicherungsträgern
+über ihre Rechte und Pflichten nach diesem Gesetzbuch und nach dem
+Aufwendungsausgleichsgesetz beraten zu werden. In Einzelfällen sind
+die Sozialversicherungsträger verpflichtet, die Arbeitgeber bei der
+Aufklärung von Sachverhalten zu unterstützen, damit diese ihren
+Pflichten ordnungsgemäß nachkommen können. Darüber hinaus stellen die
+nach diesem Buch beteiligten Sozialversicherungsträger in allgemein
+zugänglicher Form allen Verfahrensbeteiligten allgemeine Informationen
+zu ihren versicherungsrechtlichen, melderechtlichen und
+beitragsrechtlichen Rechten und Pflichten zur Verfügung, um ihrer
+Auskunftspflicht nachzukommen.
+
+
+### § 105 Informationsportal
+
+(1) Zur Erfüllung der Auskunftspflicht der Sozialversicherungsträger
+nach § 104 Satz 3 wird beim Spitzenverband Bund der Krankenkassen ein
+allgemein zugängliches elektronisch gestütztes Informationsportal
+errichtet; er kann diese Aufgabe an eine geeignete Arbeitsgemeinschaft
+der gesetzlichen Krankenkassen nach § 94 Absatz 1a Satz 1 des Zehnten
+Buches oder nach § 219 des Fünften Buches übertragen.
+
+(2) Die Sozialversicherungsträger sind jeweils für die Erarbeitung und
+die inhaltlich richtige Darstellung der von ihnen zu verantwortenden
+Fachverfahren im Informationsportal zuständig. Weitere
+Verfahrensbeteiligte sollen sich am Informationsportal im Rahmen von
+Vereinbarungen beteiligen, insbesondere über eine anteilige
+Kostentragung.
+
+(3) Das Nähere über den Aufbau, die Nutzung und die Inhalte des
+Informationsportals regeln die Verfahrensbeteiligten in Gemeinsamen
+Grundsätzen, die vom Bundesministerium für Arbeit und Soziales im
+Einvernehmen mit dem Bundesministerium für Gesundheit zu genehmigen
+sind.
+
+(4) Die Sozialversicherungsträger tragen die nachgewiesenen
+Investitions- und laufenden Betriebskosten des Informationsportals
+gemeinsam. Von diesen Kosten übernehmen:
+
+1.  50 Prozent der Spitzenverband Bund der Krankenkassen, der auch für die
+    Pflegekassen handelt,
+
+
+2.  30 Prozent die Deutsche Rentenversicherung Bund,
+
+
+3.  10 Prozent die Bundesagentur für Arbeit und
+
+
+4.  10 Prozent die Deutsche Gesetzliche Unfallversicherung e. V.
+
+
+
+Die Aufteilung der Kosten innerhalb der gesetzlichen
+Krankenversicherung und der sozialen Pflegeversicherung, der
+gesetzlichen Rentenversicherung und der gesetzlichen
+Unfallversicherung regeln die Träger in ihrem jeweiligen Bereich im
+Rahmen ihrer Selbstverwaltung.
+
+(5) Der Spitzenverband Bund der Krankenkassen hat bis zum 31. Dezember
+2018 dem Bundesministerium für Arbeit und Soziales einen Bericht über
+die Nutzung, Kostenverteilung und mögliche Perspektiven des
+Informationsportals vorzulegen.
+
+
+## Achter Abschnitt - Elektronisches Antrags- und Bescheinigungsverfahren
+
+
+
+### § 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 12 Absatz 1 der Verordnung (EG) Nr. 883/2004 und bei Ausnahmevereinbarungen nach Artikel 16 der Verordnung (EG) Nr. 883/2004
+
+(1) Gelten für vorübergehend in einem anderen Mitgliedstaat der
+Europäischen Union, in einem Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum oder in der Schweiz Beschäftigte die
+deutschen Rechtsvorschriften über soziale Sicherheit nach Artikel 12
+Absatz 1 der Verordnung (EG) Nr. 883/2004 des Europäischen Parlaments
+und des Rates vom 29. April 2004 zur Koordinierung der Systeme der
+sozialen Sicherheit (ABl. L 166 vom 30.4.2004, S. 1, L 200 vom
+7\.6.2004, S. 1), die zuletzt durch die Verordnung (EU) Nr. 465/2012
+(ABl. L 149 vom 8.6.2012, S. 4) geändert worden ist, so kann der
+Arbeitgeber einen Antrag auf Ausstellung einer entsprechenden
+Bescheinigung über die Fortgeltung der deutschen Rechtsvorschriften
+(A1-Bescheinigung) für diesen Beschäftigten an die zuständige Stelle
+durch Datenübertragung aus einem systemgeprüften Programm oder mittels
+einer maschinell erstellten Ausfüllhilfe übermitteln. Die zuständige
+Stelle hat den Antrag elektronisch anzunehmen, zu verarbeiten und zu
+nutzen. Ist festgestellt, dass die deutschen Rechtsvorschriften über
+soziale Sicherheit gelten, erfolgt die Übermittlung der Daten der
+A1-Bescheinigung innerhalb von drei Arbeitstagen durch
+Datenübermittlung an den Arbeitgeber, der diese Bescheinigung
+unverzüglich auszudrucken und seinen Beschäftigten auszuhändigen hat.
+
+(2) In den Fällen, in denen die deutschen Rechtsvorschriften über
+soziale Sicherheit auf Grund einer Vereinbarung nach Artikel 16 der
+Verordnung (EG) Nr. 883/2004 gelten sollen, gilt für das
+Antragsverfahren Absatz 1 entsprechend. Beschäftigte haben in diesem
+Fall zusätzlich eine schriftliche Erklärung an die zuständige Stelle
+zu senden, in der sie bestätigen, dass eine solche Vereinbarung in
+ihrem Interesse liegt.
+
+(3) Das Nähere zum Verfahren und zu den Inhalten des Antrages und der
+zu übermittelnden Datensätze nach den Absätzen 1 und 2 regeln der
+Spitzenverband Bund der Krankenkassen, die Deutsche Rentenversicherung
+Bund, die Deutsche Gesetzliche Unfallversicherung e. V. und die
+Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen e. V.
+in Gemeinsamen Grundsätzen, die vom Bundesministerium für Arbeit und
+Soziales zu genehmigen sind; die Bundesvereinigung der Deutschen
+Arbeitgeberverbände ist vorher anzuhören.
+
+
+### § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen
+
+(1) Sind zur Gewährung von Krankengeld, Verletztengeld, Übergangsgeld,
+Pflegeunterstützungsgeld oder Mutterschaftsgeld Angaben über das
+Beschäftigungsverhältnis notwendig und sind diese dem Leistungsträger
+aus anderem Grund nicht bekannt, sind sie durch eine Bescheinigung des
+Arbeitgebers nachzuweisen. Diese Bescheinigung kann der
+Leistungsträger im Einzelfall vom Arbeitgeber elektronisch durch
+Datenübertragung anfordern. Der Arbeitgeber hat dem Leistungsträger
+diese Bescheinigung im Einzelfall durch gesicherte und verschlüsselte
+Datenübertragung aus systemgeprüften Programmen oder mittels
+maschinell erstellter Ausfüllhilfen zu übermitteln. Der
+Leistungsträger hat diese Daten elektronisch anzunehmen, zu
+verarbeiten und zu nutzen. Die Sätze 3 und 4 gelten nicht für
+Einzelfälle, in denen ein elektronisches Meldeverfahren nicht
+wirtschaftlich durchzuführen ist. Den Aufbau der Datensätze,
+notwendige Schlüsselzahlen und Angaben sowie die Ausnahmen nach Satz 5
+bestimmen der Spitzenverband Bund der Krankenkassen, die Deutsche
+Rentenversicherung Bund, die Bundesagentur für Arbeit und die Deutsche
+Gesetzliche Unfallversicherung e. V. sowie die Sozialversicherung für
+Landwirtschaft, Forsten und Gartenbau in Gemeinsamen Grundsätzen. Die
+Gemeinsamen Grundsätze bedürfen der Genehmigung des Bundesministeriums
+für Arbeit und Soziales im Einvernehmen mit dem Bundesministerium für
+Gesundheit und dem Bundesministerium für Ernährung und Landwirtschaft;
+die Bundesvereinigung der Deutschen Arbeitgeberverbände ist vorher
+anzuhören. Die Sätze 2 bis 7 gelten nicht für die Gewährung von
+Krankengeld bei einer Spende von Organen, Geweben oder Blut zur
+Separation von Blutstammzellen oder anderen Blutbestandteilen nach §
+44a des Fünften Buches und von Pflegeunterstützungsgeld nach § 44a
+Absatz 3 des Elften Buches.
+
+(2) Der Leistungsträger hat dem Arbeitgeber alle notwendigen Angaben
+zur Berechnung des beitragspflichtigen Arbeitsentgeltes nach § 23c,
+insbesondere die Dauer und die Höhe der gezahlten Leistung, sowie
+mögliche Rückmeldungen an den Arbeitgeber durch Datenübertragung zu
+übermitteln. Die Leistungsträger haben auf Antrag des Arbeitgebers
+Mitteilungen über die Zeiten, die auf den Anspruch des Beschäftigten
+auf Entgeltfortzahlung anrechenbar sind, die Versicherungsnummer für
+Anträge auf Leistungen nach Absatz 1 Satz 1 und die im Zusammenhang
+mit der Entgeltersatzleistung für die Erstellung einer Meldung nach §
+28a notwendigen Informationen durch Datenübertragung zu übermitteln.
+Der Antrag des Arbeitgebers nach Satz 2 ist durch Datenübertragung zu
+übermitteln. Das Nähere zu den Angaben und zum Verfahren nach den
+Sätzen 1 bis 3 und zu den Ausnahmeregelungen regeln die in Absatz 1
+Satz 6 genannten Sozialversicherungsträger in Gemeinsamen Grundsätzen;
+Absatz 1 Satz 7 gilt entsprechend. Private
+Krankenversicherungsunternehmen können im Fall der Zahlung von
+Krankentagegeld Meldungen an den Arbeitgeber nach den Sätzen 1 und 2
+übermitteln.
+
+
+### § 108 Elektronische Übermittlung von sonstigen Bescheinigungen an die Sozialversicherungsträger
+
+(1) Arbeitgeber, die Bescheinigungen nach den §§ 312, 312a und 313 des
+Dritten Buches elektronisch nach § 313a des Dritten Buches
+übermitteln, haben diese Meldungen durch gesicherte und verschlüsselte
+Datenübertragung aus systemgeprüften Programmen oder mittels
+maschinell erstellter Ausfüllhilfen zu erstatten. In diesen Fällen hat
+die Bundesagentur für Arbeit alle Rückmeldungen an die Arbeitgeber
+ebenfalls durch Datenübertragung zu erstatten. Die Bundesagentur für
+Arbeit bestimmt das Nähere zu den Datensätzen, den notwendigen
+Schlüsselzahlen und zu den Angaben für die Meldungen und Rückmeldungen
+sowie zum Verfahren bundeseinheitlich in Grundsätzen. Die Grundsätze
+bedürfen der Genehmigung des Bundesministeriums für Arbeit und
+Soziales; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist
+vorher anzuhören.
+
+(2) Arbeitgeber, die für Zwecke der gesetzlichen Rentenversicherung
+Bescheinigungen im Sinne der §§ 18c und 18e oder Auskünfte im Sinne
+von § 98 des Zehnten Buches elektronisch übermitteln wollen (§ 196a
+des Sechsten Buches), haben diese Meldungen durch gesicherte und
+verschlüsselte Datenübertragung aus systemgeprüften Programmen oder
+mittels maschinell erstellter Ausfüllhilfen zu erstatten. Die
+Datenstelle der Rentenversicherung hat Anfragen sowie Rückmeldungen an
+die Arbeitgeber durch gesicherte und verschlüsselte Datenübertragung
+zu übermitteln. Die Deutsche Rentenversicherung Bund bestimmt das
+Nähere zu den Datensätzen, den notwendigen Schlüsselzahlen und zu den
+Angaben für die Meldungen und Rückmeldungen sowie zum Verfahren und zu
+Ausnahmeregelungen bundeseinheitlich in Grundsätzen. Die Grundsätze
+bedürfen der Genehmigung des Bundesministeriums für Arbeit und
+Soziales; die Bundesvereinigung der Deutschen Arbeitgeberverbände ist
+vorher anzuhören.
+
+
+### (XXXX) §§ 109 und 110 (weggefallen)
+
+
+
+## Neunter Abschnitt - Aufbewahrung von Unterlagen
 
 
 
@@ -6287,7 +7033,6 @@ insbesondere sicherzustellen, dass
 
     a)  mit der diesen zugrunde gelegten schriftlichen Unterlage bildlich und
         inhaltlich vollständig übereinstimmen, wenn sie lesbar gemacht werden,
-        und über diese Übereinstimmung ein Nachweis geführt wird,
 
 
     b)  während der Dauer der Aufbewahrungsfrist jederzeit verfügbar sind und
@@ -6369,14 +7114,15 @@ schutzwürdige Interessen des Betroffenen beeinträchtigt werden.
 
 (1) Die Spitzenverbände der Träger der Sozialversicherung und die
 Bundesagentur für Arbeit vereinbaren gemeinsam unter besonderer
-Berücksichtigung der schutzwürdigen Interessen der Betroffenen und der
-Voraussetzungen des Signaturgesetzes das Nähere zu den Grundsätzen
-ordnungsmäßiger Aufbewahrung im Sinne des § 110a, den Voraussetzungen
-der Rückgabe und Vernichtung von Unterlagen sowie die
-Aufbewahrungsfristen für Unterlagen. Die Vereinbarung kann auf
-bestimmte Sozialleistungsbereiche beschränkt werden; sie ist von den
-beteiligten Spitzenverbänden abzuschließen. Die Vereinbarungen
-bedürfen der Genehmigung der beteiligten Bundesministerien.
+Berücksichtigung der schutzwürdigen Interessen der Betroffenen das
+Nähere zu den Grundsätzen ordnungsmäßiger Aufbewahrung im Sinne des §
+110a, den Voraussetzungen der Rückgabe und Vernichtung von Unterlagen
+sowie die Aufbewahrungsfristen für Unterlagen. Dies gilt entsprechend
+für die ergänzenden Vorschriften des E-Government-Gesetzes. Die
+Vereinbarung kann auf bestimmte Sozialleistungsbereiche beschränkt
+werden; sie ist von den beteiligten Spitzenverbänden abzuschließen.
+Die Vereinbarungen bedürfen der Genehmigung der beteiligten
+Bundesministerien.
 
 (2) Soweit Vereinbarungen nicht getroffen sind, wird die
 Bundesregierung ermächtigt, durch Rechtsverordnung mit Zustimmung des
@@ -6400,33 +7146,7 @@ Interessen der Betroffenen
 
 
 
-### § 110d Beweiswirkung
-
-Ist eine Unterlage nach § 110a Absatz 2 auf anderen dauerhaften
-maschinell verwertbaren Datenträgern als Bildträgern aufbewahrt und
-
-1.  die Wiedergabe mit einer qualifizierten elektronischen Signatur nach
-    dem Signaturgesetz dessen versehen, der die Wiedergabe auf dem
-    dauerhaften Datenträger hergestellt oder die Übereinstimmung der
-    Unterlage mit Inhalt und Bild der Wiedergabe unmittelbar nach der
-    Herstellung der Wiedergabe geprüft hat, oder
-
-
-2.  bei urschriftlicher Aufzeichnung des Textes nur in gespeicherter Form
-    diese mit einer qualifizierten elektronischen Signatur nach dem
-    Signaturgesetz dessen versehen ist, der den Text elektronisch signiert
-    hat,
-
-
-
-und ist die qualifizierte elektronische Signatur dauerhaft
-überprüfbar, können der öffentlich-rechtlichen Verwaltungstätigkeit
-die Daten auf diesem dauerhaften Datenträger zugrunde gelegt werden,
-soweit nach den Umständen des Einzelfalles kein Anlass ist, ihre
-sachliche Richtigkeit zu beanstanden.
-
-
-## Siebter Abschnitt - Bußgeldvorschriften
+## Zehnter Abschnitt - Bußgeldvorschriften
 
 
 
@@ -6438,10 +7158,24 @@ sachliche Richtigkeit zu beanstanden.
     Versicherungsnummer erhebt, verarbeitet oder nutzt,
 
 
-2.  entgegen § 28a Absatz 1 bis 3, 4 Satz 1 oder Absatz 9, jeweils in
-    Verbindung mit einer Rechtsverordnung nach § 28c Nummer 1 eine Meldung
-    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-    erstattet,
+1a. entgegen § 18i Absatz 4 eine Änderung oder Meldung nicht, nicht
+    richtig, nicht vollständig, nicht in der vorgeschriebenen Weise oder
+    nicht rechtzeitig übermittelt,
+
+
+2.  entgegen
+
+    a)  § 28a Absatz 1 bis 3 oder 9, oder
+
+
+    b)  § 28a Absatz 4 Satz 1,
+
+
+
+
+    jeweils in Verbindung mit einer Rechtsverordnung nach § 28c Nummer 1,
+    eine Meldung nicht, nicht richtig, nicht vollständig, nicht in der
+    vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
 
 
 2a. entgegen § 28a Absatz 7 Satz 1 oder 2 eine Meldung nicht, nicht
@@ -6482,16 +7216,20 @@ sachliche Richtigkeit zu beanstanden.
 
 
     b)  die erforderlichen Unterlagen nicht, nicht vollständig oder nicht
-        rechtzeitig vorlegt oder
+        rechtzeitig vorlegt,
 
 
 
 
 
-5.  (weggefallen)
+5.  entgegen § 99 Absatz 1 Satz 1 einen Lohnnachweis nicht, nicht richtig,
+    nicht vollständig, nicht in der vorgeschriebenen Weise oder nicht
+    rechtzeitig übermittelt,
 
 
-6.  (weggefallen)
+6.  entgegen § 99 Absatz 3, auch in Verbindung mit Absatz 4 Satz 1, eine
+    Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+    erstattet oder
 
 
 7.  (weggefallen)
@@ -6541,8 +7279,8 @@ hat.
 
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 Nummer 2d
 und 3 und des Absatzes 3 Nummer 2 mit einer Geldbuße bis zu
-fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 2, 2b und 2c
-mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den übrigen
+fünfzigtausend Euro, in den Fällen des Absatzes 1 Nummer 2, 2b, 2c und
+5 mit einer Geldbuße bis zu fünfundzwanzigtausend Euro, in den übrigen
 Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (5) und (6) (weggefallen)
@@ -6561,14 +7299,25 @@ Gesetzes über Ordnungswidrigkeiten sind
     bestimmt die Landesregierung die zuständige Stelle,
 
 
-3.  die Behörden der Zollverwaltung bei Ordnungswidrigkeiten nach § 111
-    Absatz 1 Satz 1 Nummer 2, soweit sie einen Verstoß im Rahmen ihrer
-    Prüfungstätigkeit nach § 2 des Schwarzarbeitsbekämpfungsgesetzes
-    feststellen,
+3.  die Behörden der Zollverwaltung bei Ordnungswidrigkeiten
+
+    a)  nach § 111 Absatz 1 Satz 1 Nummer 2 Buchstabe a, soweit sie einen
+        Verstoß im Rahmen der ihnen zugewiesenen Tätigkeiten feststellen,
+
+
+    b)  nach § 111 Absatz 1 Satz 1 Nummer 2 Buchstabe b, soweit sie einen
+        Verstoß im Rahmen ihrer Prüfungstätigkeit nach § 2 des
+        Schwarzarbeitsbekämpfungsgesetzes feststellen,
+
+
+
 
 
 4.  die Einzugsstelle bei Ordnungswidrigkeiten nach § 111 Absatz 1 Satz 1
-    Nummer 2, 2a, 4, 8 und Absatz 2,
+    Nummer 2 Buchstabe a und b, soweit nicht die Zuständigkeit der
+    Behörden der Zollverwaltung nach Nummer 3 gegeben ist, sowie bei
+    Ordnungswidrigkeiten nach § 111 Absatz 1 Satz 1 Nummer 2a, 4, 8 und
+    Absatz 2,
 
 
 4a. der Träger der Rentenversicherung bei Ordnungswidrigkeiten nach § 111
@@ -6624,7 +7373,7 @@ Sozialhilfe oder die für die Durchführung des
 Asylbewerberleistungsgesetzes zuständigen Behörden.
 
 
-## Achter Abschnitt - Übergangsvorschriften
+## Elfter Abschnitt - Übergangsvorschriften
 
 
 
@@ -6648,8 +7397,7 @@ Todes als Einkommen zu berücksichtigen:
 (2) Absatz 1 gilt auch für Erziehungsrenten, wenn der geschiedene
 Ehegatte vor dem 1. Januar 2002 verstorben ist oder die geschiedene
 Ehe vor diesem Tag geschlossen wurde und mindestens einer der
-geschiedenen Ehegatten vor dem 2. Januar 1962 geboren ist sowie für
-Waisenrenten an vor dem 1. Januar 2002 geborene Waisen.
+geschiedenen Ehegatten vor dem 2. Januar 1962 geboren ist.
 
 (3) Erwerbsersatzeinkommen im Sinne des Absatzes 1 Nummer 2 sind
 Leistungen nach § 18a Absatz 3 Satz 1 Nummer 1 bis 8. Als
@@ -6682,8 +7430,7 @@ Einkommen zu kürzen
 Dies gilt auch für Erziehungsrenten, wenn der geschiedene Ehegatte vor
 dem 1. Januar 2002 verstorben ist oder die geschiedene Ehe vor diesem
 Tag geschlossen wurde und mindestens einer der geschiedenen Ehegatten
-vor dem 2. Januar 1962 geboren ist sowie für Waisenrenten an vor dem
-1\. Januar 2002 geborene Waisen.
+vor dem 2. Januar 1962 geboren ist.
 
 (5) Bestand am 31. Dezember 2001 Anspruch auf eine Rente wegen Todes,
 ist das monatliche Einkommen bis zum 30. Juni 2002 zu kürzen
@@ -6709,8 +7456,14 @@ ist das monatliche Einkommen bis zum 30. Juni 2002 zu kürzen
 
 
 
-### § 115 (weggefallen)
+### § 115 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit
 
+Vom 1. Januar 2015 bis einschließlich 31. Dezember 2018 gilt § 8
+Absatz 1 Nummer 2 mit der Maßgabe, dass die Beschäftigung innerhalb
+eines Kalenderjahres auf längstens drei Monate oder 70 Arbeitstage
+nach ihrer Eigenart begrenzt zu sein pflegt oder im Voraus vertraglich
+begrenzt ist, es sei denn, dass die Beschäftigung berufsmäßig ausgeübt
+wird und ihr Entgelt 450 Euro im Monat übersteigt.
 
 
 ### § 116 Übergangsregelungen für bestehende Wertguthaben
@@ -6734,8 +7487,7 @@ vereinbart sind, gilt § 7e Absatz 5 und 6 mit Wirkung ab dem 1. Juni
 
 [^f772675_18_BJNR138450976BJNE022701308]:     ## Gemäß Artikel 1 Nummer 22 in Verbindung mit Artikel 10 Absatz 8 des
     Gesetzes vom 15. Juli 2009 (BGBl. I S. 1939) wird am 1. Oktober 2009
-    nach § 116 folgender § 116a eingefügt:
-    „§ 116a                                Übergangsregelung zur
+    nach § 116 folgender § 116a eingefügt: „§ 116aÜbergangsregelung zur
     Beitragshaftung
 
     § 28e Absatz 3b und 3d Satz 1 in der am 30. September 2009 geltenden
@@ -6762,8 +7514,11 @@ sie abweichend von § 71 Absatz 2 der knappschaftlichen
 Rentenversicherung nicht zu erstatten.
 
 
-### § 118 (weggefallen)
+### § 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst
 
+§ 23c Absatz 2 gilt nicht für Einnahmen aus einer vor dem 11. April
+2017 vereinbarten Tätigkeit als Notärztin oder Notarzt im
+Rettungsdienst.
 
 
 ### § 119 Übergangsregelungen zur Aufhebung des Verfahrens des elektronischen Entgeltnachweises; Löschung der bisher gespeicherten Daten
@@ -6787,11 +7542,18 @@ der jeweiligen Stelle gespeicherten Daten nach Absatz 1 abgeschlossen
 ist.
 
 
-### § 120 (weggefallen)
+### § 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen
 
+§ 51 Absatz 6 Nummer 5 und § 59 Absatz 3 in der jeweils bis zum 31.
+Dezember 2017 geltenden Fassung finden bis zum Ende der Amtsperiode
+weiterhin Anwendung auf bis dahin bereits gewählte Mitglieder eines
+Selbstverwaltungsorgans einschließlich ihrer Stellvertreter.
+Maßgeblich ist der Wahltag im Sinne des § 54 Absatz 3.
 
+Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III
+(BGBl. II 1990, 889, 1046)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1046) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

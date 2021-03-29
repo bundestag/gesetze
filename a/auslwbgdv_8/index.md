@@ -31,8 +31,8 @@ Die in § 21 Abs. 1 Satz 1 des Gesetzes bezeichnete Frist wird für die
 bei Inkrafttreten dieser Verordnung im Verzeichnis der Auslandsbonds
 (Anlage zu § 1 Abs. 1 des Gesetzes,
 ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar
-1953 - Bundesgesetzbl. I S. 31 -)              aufgeführten Arten von
-Auslandsbonds um ein Jahr verlängert.
+1953 - Bundesgesetzbl. I S. 31 -) aufgeführten Arten von Auslandsbonds
+um ein Jahr verlängert.
 
 
 ## § 2 Land Berlin

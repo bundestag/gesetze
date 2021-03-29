@@ -216,16 +216,16 @@ Hauptfeststellung des Einheitswertes erstmalig anzusetzen ist,
 abgezinst mit 3,5 vom Hundert auf den 21. Juni 1948.
 
 (8)
-§ 60              des Bewertungsgesetzes vom 16. Oktober 1934
-(Reichsgesetzbl. I S. 1035)
+§ 60 des Bewertungsgesetzes vom 16. Oktober 1934 (Reichsgesetzbl. I S.
+1035)
 in der Fassung des Artikels 8 des Gesetzes zur Änderung
 steuerrechtlicher Vorschriften vom 26. Juli 1957 (Bundesgesetzblatt I
-S. 848)              gilt nicht für den Ansatz von Anteilsrechten in
-der Umstellungsrechnung.
+S. 848) gilt nicht für den Ansatz von Anteilsrechten in der
+Umstellungsrechnung.
 
 (9) Sofern die Voraussetzungen des
-§ 13 Abs. 3              des Bewertungsgesetzes gegeben sind, ist zu
-dem Ansatz für Anteilsrechte ein entsprechender Zuschlag zu machen.
+§ 13 Abs. 3 des Bewertungsgesetzes gegeben sind, ist zu dem Ansatz für
+Anteilsrechte ein entsprechender Zuschlag zu machen.
 
 (10) Der Bestand an eigenen Aktien ist nicht anzusetzen.
 
@@ -726,8 +726,8 @@ Juni 1948 entfallenden Betrages als aktiver Abgrenzungsposten
 anzusetzen.
 
 (5) Nachzahlungsverpflichtungen nach
-§ 5              des Währungsgesetzes können in voller Höhe als
-Passivposten angesetzt werden.
+§ 5 des Währungsgesetzes können in voller Höhe als Passivposten
+angesetzt werden.
 
 
 ### § 20 Berichtigung der Umstellungsrechnung

@@ -5,7 +5,7 @@ Title: Gesetz zu dem Übereinkommen der Vereinten Nationen vom 11. April 1980 ü
   (CMR)
 jurabk: UNWaVtrÜbkG
 layout: default
-origslug: unwavtr_bkg
+origslug: unwavtruebkg
 slug: unwavtruebkg
 
 ---

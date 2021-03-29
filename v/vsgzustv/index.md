@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1529
 
 Zuletzt geändert durch
-:   Art. 493 V v. 31.10.2006 I 2407
+:   Art. 20 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -29,9 +29,9 @@ Verkehr:
 
 ## § 1 Übertragung von Befugnissen
 
-Die Befugnisse des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung, die öffentlichen Eisenbahnen nach § 10 Abs. 1 und 2
-des Verkehrssicherstellungsgesetzes und die Eisenbahnen des
+Die Befugnisse des Bundesministeriums für Verkehr und digitale
+Infrastruktur, die öffentlichen Eisenbahnen nach § 10 Abs. 1 und 2 des
+Verkehrssicherstellungsgesetzes und die Eisenbahnen des
 nichtöffentlichen Verkehrs nach § 10 Abs. 5 des
 Verkehrssicherstellungsgesetzes zu Leistungen für Zwecke der
 Verteidigung zu verpflichten und von der Einhaltung der in § 10 Abs. 6
@@ -128,18 +128,18 @@ Verkehrssicherstellungsgesetzes, soweit diese betreffen:
     die sich im Geltungsbereich des Verkehrssicherstellungsgesetzes
     befinden,
 
-    die Wasser- und Schiffahrtsdirektionen,
+    die Generaldirektion Wasserstraßen und Schifffahrt,
 
     im übrigen
 
-    das Bundesministerium für Verkehr, Bau und Stadtentwicklung;
+    das Bundesministerium für Verkehr und digitale Infrastruktur;
 
 
 4.  Binnenschiffe, für die eine technische Zulassung zum Verkehr auf
     Bundeswasserstraßen erforderlich ist, ausgenommen Schiffe, die
     ausschließlich im Hafenbetrieb verwendet werden,
 
-    die Wasser- und Schiffahrtsdirektionen;
+    die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 5.  Luftfahrzeuge,
@@ -233,10 +233,7 @@ unverzüglich zu unterrichten.
     die Behörde, in deren Bezirk sie zugelassen sind,
 
 
-2.  See- und Binnenschiffe
-
-    die Behörde, in deren Bezirk das Schiff seinen Heimathafen oder
-    Heimatort hat oder registriert ist,
+2.  (weggefallen)
 
 
 3.  sonstige Verkehrsmittel

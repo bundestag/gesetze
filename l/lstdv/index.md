@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.10.1989 I 1848;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 7.12.2011 I 2592
+:   Art. 10 G v. 14.8.2017 I 3214
 
 
 ## § 1 Arbeitnehmer, Arbeitgeber
@@ -187,7 +187,8 @@ aufzuzeichnen:
     Einkommensteuergesetzes einbehaltene Lohnsteuer;
 
 
-7.  (weggefallen)
+7.  das Vorliegen der Voraussetzungen für den Förderbetrag nach § 100 des
+    Einkommensteuergesetzes;
 
 
 8.  Bezüge, die nach den §§ 40 bis 40b des Einkommensteuergesetzes
@@ -216,16 +217,24 @@ aufzuzeichnen:
 
 
 
+(2a) Der Arbeitgeber hat die nach den Absätzen 1 und 2 sowie die nach
+§ 41 des Einkommensteuergesetzes aufzuzeichnenden Daten der
+Finanzbehörde nach einer amtlich vorgeschriebenen einheitlichen Form
+über eine digitale Schnittstelle elektronisch bereitzustellen. Auf
+Antrag des Arbeitgebers kann das Betriebsstättenfinanzamt zur
+Vermeidung unbilliger Härten zulassen, dass der Arbeitgeber die in
+Satz 1 genannten Daten in anderer auswertbarer Form bereitstellt.
+
 (3) Das Betriebsstättenfinanzamt kann bei Arbeitgebern, die für die
 Lohnabrechnung ein maschinelles Verfahren anwenden, Ausnahmen von den
 Vorschriften der Absätze 1 und 2 zulassen, wenn die Möglichkeit zur
 Nachprüfung in anderer Weise sichergestellt ist. Das
 Betriebsstättenfinanzamt soll zulassen, daß Sachbezüge im Sinne des §
-8 Abs. 2 Satz 9 und Abs. 3 des Einkommensteuergesetzes für solche
+8 Absatz 2 Satz 11 und Absatz 3 des Einkommensteuergesetzes für solche
 Arbeitnehmer nicht aufzuzeichnen sind, für die durch betriebliche
 Regelungen und entsprechende Überwachungsmaßnahmen gewährleistet ist,
-daß die in § 8 Abs. 2 Satz 9 oder Abs. 3 des Einkommensteuergesetzes
-genannten Beträge nicht überschritten werden.
+daß die in § 8 Absatz 2 Satz 11 oder Absatz 3 des
+Einkommensteuergesetzes genannten Beträge nicht überschritten werden.
 
 (4) In den Fällen des § 38 Abs. 3a des Einkommensteuergesetzes ist ein
 Lohnkonto vom Dritten zu führen. In den Fällen des § 38 Abs. 3a Satz 2
@@ -235,47 +244,21 @@ den Fällen des § 38 Abs. 3a Satz 7 ist der Arbeitslohn für jedes
 Dienstverhältnis gesondert aufzuzeichnen.
 
 
-## § 5
-
-(aufgehoben)
-
-
 ## § 5 Besondere Aufzeichnungs- und Mitteilungspflichten im Rahmen der betrieblichen Altersversorgung
 
-(1) Der Arbeitgeber hat bei Durchführung einer kapitalgedeckten
+(1) Der Arbeitgeber hat bei der Durchführung einer kapitalgedeckten
 betrieblichen Altersversorgung über einen Pensionsfonds, eine
-Pensionskasse oder eine Direktversicherung ergänzend zu den in § 4
-Abs. 2 Nr. 4 und 8 angeführten Aufzeichnungspflichten gesondert je
-Versorgungszusage und Arbeitnehmer Folgendes aufzuzeichnen:
+Pensionskasse oder eine Direktversicherung ergänzend zu den
+Aufzeichnungen nach § 4 Absatz 2 Nummer 8 Folgendes aufzuzeichnen:
 
-1.  bei Inanspruchnahme der Steuerbefreiung nach § 3 Nr. 63 Satz 3 des
-    Einkommensteuergesetzes den Zeitpunkt der Erteilung, den Zeitpunkt der
-    Übertragung nach dem "Abkommen zur Übertragung von
-    Direktversicherungen oder Versicherungen in eine Pensionskasse bei
-    Arbeitgeberwechsel" oder nach vergleichbaren Regelungen zur
-    Übertragung von Versicherungen in Pensionskassen oder Pensionsfonds,
-    bei der Änderung einer vor dem 1. Januar 2005 erteilten
-    Versorgungszusage alle Änderungen der Zusage nach dem 31. Dezember
-    2004;
+1.  im Fall des § 52 Absatz 4 Satz 12 des Einkommensteuergesetzes die
+    erforderliche Verzichtserklärung eines Arbeitnehmers und
 
 
-2.  bei Anwendung des § 40b des Einkommensteuergesetzes in der am 31.
-    Dezember 2004 geltenden Fassung den Inhalt der am 31. Dezember 2004
-    bestehenden Versorgungszusagen, sowie im Fall des § 52 Abs. 6 Satz 1
-    des Einkommensteuergesetzes die erforderliche Verzichtserklärung und
-    bei der Übernahme einer Versorgungszusage nach § 4 Abs. 2 Nr. 1 des
-    Betriebsrentengesetzes vom 19. Dezember 1974 (BGBl. I S. 3610), das
-    zuletzt durch Artikel 2 des Gesetzes vom 29. August 2005 (BGBl. I S.
-    2546) geändert worden ist, in der jeweils geltenden Fassung oder bei
-    einer Übertragung nach dem "Abkommen zur Übertragung von
-    Direktversicherungen oder Versicherungen in eine Pensionskasse bei
-    Arbeitgeberwechsel" oder nach vergleichbaren Regelungen zur
-    Übertragung von Versicherungen in Pensionskassen oder Pensionsfonds im
-    Falle einer vor dem 1. Januar 2005 erteilten Versorgungszusage
-    zusätzlich die Erklärung des ehemaligen Arbeitgebers, dass diese
-    Versorgungszusage vor dem 1. Januar 2005 erteilt und dass diese bis
-    zur Übernahme nicht als Versorgungszusage im Sinne des § 3 Nr. 63 Satz
-    3 des Einkommensteuergesetzes behandelt wurde.
+2.  im Fall des § 52 Absatz 40 Satz 1 des Einkommensteuergesetzes die
+    Tatsache, dass vor dem 1. Januar 2018 mindestens ein Beitrag nach §
+    40b Absatz 1 und 2 des Einkommensteuergesetzes in der am 31. Dezember
+    2004 geltenden Fassung pauschal besteuert wurde.
 
 
 
@@ -284,11 +267,10 @@ Versorgungszusage und Arbeitnehmer Folgendes aufzuzeichnen:
 Pensionskasse, Direktversicherung), die für ihn die betriebliche
 Altersversorgung durchführt, spätestens zwei Monate nach Ablauf des
 Kalenderjahres oder nach Beendigung des Dienstverhältnisses im Laufe
-des Kalenderjahres gesondert je Versorgungszusage die für den
-einzelnen Arbeitnehmer geleisteten und
+des Kalenderjahres die für den einzelnen Arbeitnehmer geleisteten und
 
-1.  nach § 3 Nr. 56 und 63 des Einkommensteuergesetzes steuerfrei
-    belassenen,
+1.  nach § 3 Nummer 56 und 63 sowie nach § 100 Absatz 6 Satz 1 des
+    Einkommensteuergesetzes steuerfrei belassenen,
 
 
 2.  nach § 40b des Einkommensteuergesetzes in der am 31. Dezember 2004
@@ -341,4 +323,7 @@ sonstige Bezüge, die nach dem 31. Dezember 2006 zufließen.
 Fassung sind weiter anzuwenden im Falle einer schädlichen Verfügung
 vor dem 1. Januar 2002. Die Nachversteuerung nach § 7 Abs. 1 Satz 1
 unterbleibt, wenn der nachzufordernde Betrag 10 Euro nicht übersteigt.
+
+(3) § 4 Absatz 2a ist für ab dem 1. Januar 2018 im Lohnkonto
+aufzuzeichnende Daten anzuwenden.
 

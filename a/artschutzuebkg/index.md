@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 3. März 1973 über den internationalen 
   mit gefährdeten Arten freilebender Tiere und Pflanzen
 jurabk: ArtSchutzÜbkG
 layout: default
-origslug: artschutz_bkg
+origslug: artschutzuebkg
 slug: artschutzuebkg
 
 ---

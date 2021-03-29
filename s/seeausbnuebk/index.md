@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen von 1978 über Normen für die Ausbildung,
   Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten
 jurabk: SeeAusbNÜbk
 layout: default
-origslug: seeausbn_bk
+origslug: seeausbnuebk
 slug: seeausbnuebk
 
 ---

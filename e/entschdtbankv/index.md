@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 2391
 
+Geändert durch
+:   Art. 7 G v. 28.5.2015 I 786
+
 
 
 ## Eingangsformel
@@ -28,10 +31,9 @@ verordnet das Bundesministerium der Finanzen:
 ## § 1
 
 Der Entschädigungseinrichtung deutscher Banken GmbH werden die
-Aufgaben und Befugnisse einer Entschädigungseinrichtung für die in § 6
-Abs. 1 Satz 2 Nr. 1 des Einlagensicherungs- und
-Anlegerentschädigungsgesetzes genannten privatrechtlichen Institute
-zugewiesen.
+Aufgaben und Befugnisse einer Entschädigungseinrichtung für die in §
+24 Absatz 1 Nummer 1 des Einlagensicherungsgesetzes genannten
+privatrechtlichen Institute zugewiesen.
 
 
 ## § 2

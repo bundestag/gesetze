@@ -2,7 +2,7 @@
 Title: Käseverordnung
 jurabk: KäseV
 layout: default
-origslug: k_sev
+origslug: kaesev
 slug: kaesev
 
 ---
@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 14.4.1986 I 412;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.12.2010 I 2132
+:   Art. 18 V v. 5.7.2017 I 2272
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -176,10 +176,13 @@ werden
 
 
         -   nach einem von der zuständigen Behörde genehmigten
-            Wärmebehandlungsverfahren ausreichend erhitzt worden sind.
+            Wärmebehandlungsverfahren ausreichend erhitzt worden sind,
 
 
 
+
+
+    g)  Laktase;
 
 
 
@@ -259,13 +262,28 @@ genannten Erzeugnissen und vorbehaltlich des § 23 nur verwendet werden
 2. u. 3. (weggefallen)
 
 
-4.  bei Käsezubereitungen mit einem Trockenmassegehalt von mindestens 35
-    vom Hundert auch Kaseinat bis zu 5 vom Hundert des Gesamtgewichts des
-    Fertigerzeugnisses;
+4.  bei Käsezubereitungen
+
+    a)  im Falle eines Trockenmassegehaltes von mindestens 35 vom Hundert
+        Kaseinat bis zu 5 vom Hundert des Gesamtgewichts des
+        Fertigerzeugnisses und
 
 
-5.  bei Käsezubereitungen und Schmelzkäsezubereitungen auch Stärke und
-    Speisegelatine.
+    b)  in technologisch notwendigem Umfang Zitrusfaser;
+
+
+
+
+
+5.  bei Käsezubereitungen und Schmelzkäsezubereitungen
+
+    a)  Stärke, Speisegelatine und Laktase und
+
+
+    b)  in technologisch notwendigem Umfang Inulin.
+
+
+
 
 
 
@@ -621,8 +639,8 @@ gekennzeichnet sind. § 8 der Lebensmittel-Kennzeichungsverordnung
 sowie § 9 der Zusatzstoff-Zulassungsverordnung ist anzuwenden.
 
 (2) Bei Käse und Erzeugnissen aus Käse in Fertigpackungen im Sinne des
-§ 6 Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher
-bestimmt sind, muß die Kennzeichnung enthalten
+§ 42 Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den
+Verbraucher bestimmt sind, muß die Kennzeichnung enthalten
 
 1.  als Verkehrsbezeichnung
 
@@ -818,6 +836,16 @@ Trockenmasse des Gesamterzeugnisses anzugeben.
 Lebensmittelbedarfsgegenständen aus Kunststoff beschichtet worden ist,
 darf nur in den Verkehr gebracht werden, wenn er durch die Angabe
 "Kunststoffüberzug nicht zum Verzehr geeignet" kenntlich gemacht ist.
+
+(6) Wird bei einem Käse oder Erzeugnis aus Käse der Laktosegehalt
+verringert, darf der Hinweis auf das Nichtvorhandensein von Laktose
+nur erfolgen, soweit der Laktosegehalt nach Maßgabe der nach § 64
+Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in seiner
+jeweils geltenden Fassung für die Feststellung von Laktose
+veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des
+Fertigerzeugnisses liegt und die Kennzeichnung die Angabe
+„Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe
+enthält.
 
 
 ### § 16 Zusätzliche Kennzeichnung bei Erzeugnissen aus Käse
@@ -1357,16 +1385,50 @@ Gütezeichen nach § 11 Abs. 11 in den Verkehr bringt, ohne hierzu
 berechtigt zu sein.
 
 
-### § 31a (weggefallen)
+### § 31a Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
 
+(1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
+
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) in der jeweils geltenden Fassung oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+
+(2) Wird Käse oder ein Erzeugnis aus Käse in einer in § 4 der
+Lebensmittelinformations-Durchführungsverordnung geregelten Form der
+Abgabe in den Verkehr gebracht, so ist diese Verordnung nur
+vorbehaltlich des § 4 der Lebensmittelinformations-
+Durchführungsverordnung anzuwenden.
+
+(3) Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ### § 32
 
 (Inkrafttreten)
 
+(zu § 7)
 
-### Anlage 1 (zu § 7) Standardsorten
+### Anlage 1 Standardsorten
 
 (Inhalt: nicht darstellbare Tabellen,
 Fundstelle des Originaltextes BGBl. I 1986, 423 - 427;
@@ -1377,8 +1439,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 -
 
+(zu § 8)
 
-### Anlage 1b (zu § 8) Geographische Herkunftsbezeichnung
+### Anlage 1b Geographische Herkunftsbezeichnung
 
 (Fundstelle: BGBl. I 1993, 2443 - 2444)
 
@@ -1571,21 +1634,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-[^BJNR511800965BJNE004700308_01]:     Die Milchlieferungsordnung kann bei folgenden Stellen bezogen werden:
-    -
-    Milchwirtschaftlicher Verein Allgäu-Schwaben e. V., Haus der
+[^BJNR511800965BJNE004700308_01]:     Die Milchlieferungsordnung kann bei folgenden Stellen bezogen
+    werden:-Milchwirtschaftlicher Verein Allgäu-Schwaben e. V., Haus der
     Milchwirtschaft, Hirnbeinstraße 8, 87435 Kempten/Allgäu,
 
 
-    -
-    Milchwirtschaftlicher Verein Baden-Württemberg e.V., Lindenspürstraße
+    -Milchwirtschaftlicher Verein Baden-Württemberg e.V., Lindenspürstraße
     31, 70176 Stuttgart.
 
 
 
 
+(zu § 12)
 
-### Anlage 2 (zu § 12) Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
+### Anlage 2 Trockenmassegehalt bei Schmelzkäse und Schmelzkäsezubereitungen
 
 (Fundstelle des Originaltextes: BGBl. I 2004, 1705)
 
@@ -1679,8 +1741,9 @@ Schmelzkäsezubereitungen aus Frischkäse.
 
 -
 
+(zu § 11 Abs. 9)
 
-### Anlage 4 (zu § 11 Abs. 9) Bestimmungen über die Durchführung von Käseprüfungen
+### Anlage 4 Bestimmungen über die Durchführung von Käseprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1986, 431
 
@@ -1900,8 +1963,9 @@ Die Artikel 1 und 2 gelten nicht für die Standardsorte Emmentaler.
 Jeder zu prüfende Käselaib dieser Standardsorte muß am Tage der
 Güteprüfung mindestens 75 Tage alt sein.
 
+(zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1)
 
-### Anlage 5 (zu § 20 Abs. 2 Nr. 1 und § 21 Abs. 1 Satz 1) Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21
+### Anlage 5 Muster für den Nachweis der gesundheitlichen Unbedenklichkeit nach den §§ 20 und 21 \*)
 
 Fundstelle des Originaltextes: BGBl. I 1986, 432-433
 ....................., den ..............
@@ -1950,8 +2014,9 @@ gesundheitliche Nachprüfung notwendigen Menge .......................
 (Ort)                 (Datum)             (Unterschrift des
 Nachweisführenden)
 
+(zu § 21 Abs. 2 S 1 Nr. 4)
 
-### Anlage 6 (zu § 21 Abs. 2 S 1 Nr. 4) Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
+### Anlage 6 Amtliche Bescheinigung für das Verbringen von Labaustauschstoffen nach § 21 der Käseverordnung
 
 Fundstelle des Originaltextes: BGBl. I 1986, 433 - 434
 Herkunftsland:

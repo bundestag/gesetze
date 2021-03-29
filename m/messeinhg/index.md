@@ -2,7 +2,7 @@
 Title: Gesetz über die Einheiten im Messwesen und die Zeitbestimmung
 jurabk: MeßEinhG
 layout: default
-origslug: me_einhg
+origslug: messeinhg
 slug: messeinhg
 
 ---
@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 22.2.1985 I 408;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 3.7.2008 I 1185
+:   Art. 4 Abs. 65 G v. 18.7.2016 I 1666
 
 
 ## § 1 Anwendungsbereich
@@ -72,12 +72,11 @@ Gesetzliche Einheiten im Meßwesen sind
 
 ## § 3 Ermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, zur Gewährleistung der Einheitlichkeit im Meßwesen auf der
-Grundlage des Internationalen Einheitensystems der Meterkonvention
-oder zur Durchführung von Rechtsakten der Europäischen Gemeinschaften
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf,
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+zur Gewährleistung der Einheitlichkeit im Meßwesen auf der Grundlage
+des Internationalen Einheitensystems der Meterkonvention oder zur
+Durchführung von Rechtsakten der Europäischen Gemeinschaften durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 
 1.  Einheiten für Größen festzusetzen und für sie Namen und
     Einheitenzeichen festzulegen,
@@ -120,27 +119,27 @@ Stunden.
 
 ## § 5 Ermächtigung zur Einführung der mitteleuropäischen Sommerzeit
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, zur besseren Ausnutzung der Tageshelligkeit und zur
-Angleichung der Zeitzählung an diejenige benachbarter Staaten durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
-einen Zeitraum zwischen dem 1. März und dem 31. Oktober die
-mitteleuropäische Sommerzeit einzuführen.
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+zur besseren Ausnutzung der Tageshelligkeit und zur Angleichung der
+Zeitzählung an diejenige benachbarter Staaten durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, für einen Zeitraum
+zwischen dem 1. März und dem 31. Oktober die mitteleuropäische
+Sommerzeit einzuführen.
 
 (2) Die mitteleuropäische Sommerzeit soll jeweils an einem Sonntag
-beginnen und enden. Das Bundesministerium für Wirtschaft und
-Technologie bestimmt in der Rechtsverordnung nach Absatz 1 den Tag und
-die Uhrzeit, zu der die mitteleuropäische Sommerzeit beginnt und
-endet, sowie die Bezeichnung der am Ende der mitteleuropäischen
-Sommerzeit doppelt erscheinenden Stunde.
+beginnen und enden. Das Bundesministerium für Wirtschaft und Energie
+bestimmt in der Rechtsverordnung nach Absatz 1 den Tag und die
+Uhrzeit, zu der die mitteleuropäische Sommerzeit beginnt und endet,
+sowie die Bezeichnung der am Ende der mitteleuropäischen Sommerzeit
+doppelt erscheinenden Stunde.
 
 
 ## § 6 Physikalisch-Technische Bundesanstalt
 
 (1) Die Physikalisch-Technische Bundesanstalt ist eine
 bundesunmittelbare, nicht rechtsfähige Anstalt des öffentlichen Rechts
-im Geschäftsbereich des Bundesministeriums für Wirtschaft und
-Technologie. Sie ist eine Bundesoberbehörde.
+im Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie.
+Sie ist eine Bundesoberbehörde.
 
 (2) Die Physikalisch-Technische Bundesanstalt hat
 
@@ -190,22 +189,21 @@ Einheitlichkeit des Messwesens zu sichern.
 
 
 
-## § 7 Kosten für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
+## § 7 Gebühren und Auslagen für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 
 (1) Für Nutzleistungen der Physikalisch-Technischen Bundesanstalt
 werden Gebühren und Auslagen erhoben.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, die gebührenpflichtigen Tatbestände zu bestimmen
-und dabei feste Sätze, auch in der Form von Gebühren nach Zeitaufwand,
-vorzusehen. In der Rechtsverordnung kann bestimmt werden, dass eine
-Gebühr auch für eine Nutzleistung erhoben werden kann, die nicht
-begonnen oder nicht zu Ende geführt worden ist, wenn die Gründe
-hierfür von der Person zu vertreten sind, die die Nutzleistung
-veranlasst hat. Der mit der Nutzleistung verbundene Personal- und
-Sachaufwand und ihr wirtschaftlicher Wert für die antragstellende
-Person sind zu berücksichtigen.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, die gebührenpflichtigen Tatbestände zu bestimmen und dabei
+Fest- oder Zeitgebühren vorzusehen. In der Rechtsverordnung kann
+bestimmt werden, dass eine Gebühr auch für eine Nutzleistung erhoben
+werden kann, die nicht begonnen oder nicht zu Ende geführt worden ist,
+wenn die Gründe hierfür von der Person zu vertreten sind, die die
+Nutzleistung veranlasst hat. Der mit der Nutzleistung verbundene
+Personal- und Sachaufwand und ihr wirtschaftlicher Wert für die
+antragstellende Person sind zu berücksichtigen.
 
 
 ## § 8 Zuständige Behörden

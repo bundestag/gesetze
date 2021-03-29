@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1985, 902
 
 Zuletzt geändert durch
-:   Art. 39 G v. 6.12.2011 I 2515
+:   Art. 17b G v. 23.12.2016 I 3191
 
 
 ## Eingangsformel
@@ -82,42 +82,50 @@ diesem Gesetz und in der Ausbildungs- und Prüfungsverordnung für
 Hebammen und Entbindungspfleger geregelten Ausbildung aufweist.
 Wesentliche Unterschiede im Sinne des Satzes 2 liegen vor, wenn
 
-1.  die von den Antragstellern nachgewiesene Ausbildungsdauer mindestens
-    ein Jahr unter der in diesem Gesetz geregelten Ausbildungsdauer liegt,
+1.  die Ausbildung der Antragsteller hinsichtlich der beruflichen
+    Tätigkeit Fächer oder Bereiche der praktischen Ausbildung umfasst, die
+    sich wesentlich von denen unterscheiden, die für die Ausbildung nach
+    diesem Gesetz und nach der Ausbildungs- und Prüfungsverordnung für
+    Hebammen und Entbindungspfleger vorgeschrieben sind, oder
 
 
-2.  die Ausbildung der Antragsteller sich auf Fächer bezieht, die sich
-    wesentlich von der deutschen Ausbildung unterscheiden, oder
-
-
-3.  der Beruf der Hebamme oder des Entbindungspflegers eine oder mehrere
+2.  der Beruf der Hebamme oder des Entbindungspflegers eine oder mehrere
     reglementierte Tätigkeiten umfasst, die im Herkunftsstaat der
-    Antragsteller nicht Bestandteil des Berufs der Hebamme oder des
-    Entbindungspflegers sind, und sich auf Fächer bezieht, die sich
-    wesentlich von denen unterscheiden, die von dem Ausbildungsnachweis
-    abgedeckt werden, den die Antragsteller vorlegen, und
+    Antragsteller nicht Bestandteil des Berufs sind, der dem der Hebamme
+    oder des Entbindungspflegers entspricht, und wenn sich die Ausbildung
+    für diese Tätigkeiten auf Fächer oder Bereiche der praktischen
+    Ausbildung nach diesem Gesetz und nach der Ausbildungs- und
+    Prüfungsverordnung für Hebammen und Entbindungspfleger bezieht, die
+    sich wesentlich von denen unterscheiden, die von der Ausbildung der
+    Antragsteller abgedeckt sind, und
 
 
 
-die Antragsteller diese nicht durch Kenntnisse, die sie im Rahmen
-ihrer Berufspraxis als Hebamme oder Entbindungspfleger, unabhängig
-davon, in welchem Staat diese erworben wurden, ganz oder teilweise
-ausgleichen können. Fächer unterscheiden sich wesentlich, wenn deren
-Kenntnis eine wesentliche Voraussetzung für die Ausübung des Berufs
-ist und die Ausbildung der Antragsteller bedeutende Abweichungen
-hinsichtlich Dauer oder Inhalt gegenüber der deutschen Ausbildung
-aufweist; Satz 3 letzter Halbsatz gilt entsprechend. Ist die
-Gleichwertigkeit des Ausbildungsstandes nach Satz 1 nicht gegeben oder
-kann sie nur mit unangemessenem zeitlichem oder sachlichem Aufwand
-festgestellt werden, weil die erforderlichen Unterlagen und Nachweise
-aus Gründen, die nicht in der Person der Antragsteller liegen, von
-diesen nicht vorgelegt werden können, ist ein gleichwertiger
-Kenntnisstand nachzuweisen. Dieser Nachweis wird durch eine
-Kenntnisprüfung, die sich auf den Inhalt der staatlichen
-Abschlussprüfung erstreckt, oder einen höchstens dreijährigen
-Anpassungslehrgang erbracht, der mit einer Prüfung über den Inhalt des
-Anpassungslehrgangs abschließt. Die Antragsteller haben das Recht,
-zwischen der Kenntnisprüfung und dem Anpassungslehrgang zu wählen.
+die Antragsteller diese Unterschiede nicht durch Kenntnisse und
+Fähigkeiten ausgleichen können, die sie im Rahmen ihrer Berufspraxis
+als Hebamme oder Entbindungspfleger in Voll- oder Teilzeit oder durch
+lebenslanges Lernen erworben haben, sofern die durch lebenslanges
+Lernen erworbenen Kenntnisse und Fähigkeiten von einer dafür in dem
+jeweiligen Staat zuständigen Stelle formell als gültig anerkannt
+wurden; dabei ist nicht entscheidend, in welchem Staat diese
+Kenntnisse und Fähigkeiten erworben worden sind. Fächer oder Bereiche
+der praktischen Ausbildung unterscheiden sich wesentlich, wenn die
+nachgewiesene Ausbildung des Antragstellers wesentliche inhaltliche
+Abweichungen hinsichtlich der Kenntnisse und Fähigkeiten aufweist, die
+eine wesentliche Voraussetzung für die Ausübung des Berufs der Hebamme
+oder des Entbindungspflegers in Deutschland sind; Satz 3 letzter
+Teilsatz gilt entsprechend. Ist die Gleichwertigkeit des
+Ausbildungsstandes nach Satz 1 nicht gegeben oder kann sie nur mit
+unangemessenem zeitlichem oder sachlichem Aufwand festgestellt werden,
+weil die erforderlichen Unterlagen und Nachweise aus Gründen, die
+nicht in der Person der Antragsteller liegen, von diesen nicht
+vorgelegt werden können, ist ein gleichwertiger Kenntnisstand
+nachzuweisen. Dieser Nachweis wird durch eine Kenntnisprüfung, die
+sich auf den Inhalt der staatlichen Abschlussprüfung erstreckt, oder
+einen höchstens dreijährigen Anpassungslehrgang erbracht, der mit
+einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt. Die
+Antragsteller haben das Recht, zwischen der Kenntnisprüfung und dem
+Anpassungslehrgang zu wählen.
 
 (2a) Absatz 2 Satz 1 bis 4 gilt entsprechend für Antragsteller, die
 ihre Ausbildung in einem anderen Vertragsstaat des Europäischen
@@ -165,11 +173,27 @@ Nummer 5.5.2 der Richtlinie 2005/36/EG in der jeweils geltenden
 Fassung entspricht, und den für diesen Staat in der Anlage zu Satz 1
 genannten Nachweisen gleichsteht.
 
-(4) (weggefallen)
+(4) Die Regelungen der Absätze 2a und 3 gelten entsprechend für den
+Fall einer Einführung eines Europäischen Berufsausweises für den Beruf
+der Hebamme oder des Entbindungspflegers.
 
-(5) Die Absätze 2 bis 3 gelten entsprechend für Drittstaatdiplome, für
+(4a) Für Antragsteller, die über einen Ausbildungsnachweis verfügen,
+der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten
+Niveau entspricht, gilt Absatz 2 Satz 3 bis 7 mit der Maßgabe, dass
+die erforderliche Ausgleichsmaßnahme abweichend von Absatz 2 Satz 7
+aus einer Eignungsprüfung besteht.
+
+(5) Die Absätze 2 bis 4 gelten entsprechend für Drittstaatdiplome, für
 deren Anerkennung sich nach dem Recht der Europäischen Gemeinschaften
 eine Gleichstellung ergibt.
+
+(5a) Wird die Voraussetzung des Absatzes 1 Nummer 1 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der
+Berufsqualifikation nach den Absätzen 2, 3 oder 3a vor den
+Voraussetzungen nach Absatz 1 Nummer 2 bis 4 geprüft werden. Auf
+Antrag ist dem Antragsteller ein gesonderter Bescheid über die
+Feststellung seiner Berufsqualifikation zu erteilen.
 
 (6) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -217,6 +241,104 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
+
+
+### § 2b
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 Absatz 1, die
+    sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  den Verzicht auf die Erlaubnis,
+
+
+3.  das Verbot der Ausübung des Berufs der Hebamme oder des
+    Entbindungspflegers durch unanfechtbare gerichtliche Entscheidung oder
+
+
+4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ### § 3
@@ -300,10 +422,14 @@ staatlich anzuerkennen, wenn sie
 
 
 
-Teile der praktischen Ausbildung können, sofern das Ausbildungsziel es
-zuläßt oder darüber hinaus erfordert, auch in einer Einrichtung
+Zur Vorbereitung auf den Beruf sollen Teile der praktischen
+Ausbildung, die die Schwangerenvorsorge, die außerklinische Geburt
+sowie den Wochenbettverlauf außerhalb der Klinik umfassen, bis zu
+einer Dauer von 480 Stunden der praktischen Ausbildung bei
+freiberuflichen Hebammen oder in von Hebammen geleiteten Einrichtungen
 durchgeführt werden, die von der zuständigen Behörde zur Ausbildung
-ermächtigt ist.
+ermächtigt sind. Das Erreichen des Ausbildungsziels darf dadurch nicht
+gefährdet werden.
 
 (3) Zur Erprobung von Ausbildungsangeboten, die der Weiterentwicklung
 des Hebammenberufs unter Berücksichtigung der berufsfeldspezifischen
@@ -312,13 +438,26 @@ sollen, können die Länder von Absatz 1 Satz 3 abweichen. Abweichungen
 von der Ausbildungs- und Prüfungsverordnung für Hebammen und
 Entbindungspfleger sind nur zulässig, soweit sie den theoretischen und
 praktischen Unterricht in § 1 Absatz 1 Satz 1 sowie die Anlage 1 der
-Verordnung betreffen. Im Übrigen gilt die Verordnung unverändert mit
-der Maßgabe, dass an die Stelle der Schule die Hochschule tritt. Dabei
-haben die Hochschulen die praktische Ausbildung im Rahmen einer
-Regelung mit Krankenhäusern sicherzustellen. Durch die Erprobung darf
-das Erreichen des Ausbildungsziels nicht gefährdet werden. Die
-Vereinbarkeit der Ausbildung mit der Richtlinie 2005/36/EG ist zu
-gewährleisten.
+Verordnung betreffen. Es ist dabei zulässig, den Unterricht
+modularisiert und kompetenzorientiert zu gestalten. Wird von der
+Möglichkeit des Satzes 3 Gebrauch gemacht, kann die zuständige Behörde
+abweichend von § 5 Absatz 1 Satz 1 und § 6 Absatz 1 Satz 1 der
+Ausbildungs- und Prüfungsverordnung für Hebammen und
+Entbindungspfleger eine der Unterrichtsform entsprechende
+modularisierte und kompetenzorientierte Gestaltung des schriftlichen
+und mündlichen Teils der staatlichen Prüfung zulassen. Dabei können
+Modulprüfungen, die nicht früher als zwei Monate vor dem Ende der
+Studienzeit durchgeführt werden, mit Zustimmung der zuständigen
+Behörde den schriftlichen oder mündlichen Teil der staatlichen Prüfung
+ganz oder teilweise ersetzen, sofern sie den inhaltlichen
+Anforderungen der §§ 5 und 6 der Ausbildungs- und Prüfungsverordnung
+für Hebammen und Entbindungspfleger entsprechen. Im Übrigen gilt die
+Verordnung unverändert mit der Maßgabe, dass an die Stelle der Schule
+die Hochschule tritt. Dabei haben die Hochschulen die praktische
+Ausbildung im Rahmen einer Regelung mit Krankenhäusern
+sicherzustellen. Durch die Erprobung darf das Erreichen des
+Ausbildungsziels nicht gefährdet werden. Die Vereinbarkeit der
+Ausbildung mit der Richtlinie 2005/36/EG ist zu gewährleisten.
 
 (4) Ziele, Dauer, Art und allgemeine Vorgaben zur Ausgestaltung der
 Modellvorhaben sowie die Bedingungen für die Teilnahme sind jeweils
@@ -326,14 +465,24 @@ von den Ländern festzulegen. Die Länder stellen jeweils eine
 wissenschaftliche Begleitung und Auswertung der Modellvorhaben im
 Hinblick auf die Erreichung der Ziele sicher. Diese erfolgt auf der
 Grundlage von Richtlinien, die das Bundesministerium für Gesundheit
-bis zum 30. November 2009 im Bundesanzeiger bekannt macht.
+bis zum 30. November 2009 im Bundesanzeiger bekannt macht. Ergänzend
+hat die wissenschaftliche Begleitung und Auswertung der Modellvorhaben
+valide Aussagen zur Nachhaltigkeit der Modellvorhaben, die
+insbesondere den dauerhaften Nutzen einer akademischen Qualifikation,
+die Kostenfolgen im Gesundheitswesen oder die Auswirkungen des
+Ausschlusses von Schülerinnen und Schülern mit mittlerem
+Schulabschluss betreffen, zu enthalten. Duale Studiengänge, die nicht
+unter Absatz 5 fallen, weil das Studium parallel zur grundständigen,
+fachschulischen Ausbildung abgeleistet wird, können in die
+wissenschaftliche Begleitung und Auswertung der Modellvorhaben
+einbezogen werden.
 
 (5) Das Bundesministerium für Gesundheit erstattet dem Deutschen
-Bundestag bis zum 31. Dezember 2015 über die Ergebnisse der
-Modellvorhaben nach Absatz 3 Bericht. Absatz 4 Satz 3 gilt
-entsprechend. Die Länder übermitteln dem Bundesministerium für
-Gesundheit die für die Erstellung dieses Berichts erforderlichen
-Ergebnisse der Auswertung.
+Bundestag über die Ergebnisse der Modellvorhaben nach Absatz 3
+Bericht. Absatz 4 Satz 3 bis 5 gilt entsprechend. Die Länder
+übermitteln dem Bundesministerium für Gesundheit auf Anforderung die
+für die Erstellung des Berichts erforderlichen Ergebnisse ihrer
+Auswertungen nach Absatz 4.
 
 
 ### § 7
@@ -415,20 +564,23 @@ und an einer praktischen Ausbildung teilzunehmen haben.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Personen, die einen
 Ausbildungsnachweis haben und eine Erlaubnis nach § 2 Absatz 1 in
-Verbindung mit § 2 Absatz 2, 2a, 3 oder 5 beantragen, zu regeln:
+Verbindung mit § 2 Absatz 2, 2a, 3 bis 5 beantragen, zu regeln:
 
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 2
     und 3, insbesondere die Vorlage der vom Antragsteller vorzulegenden
     Nachweise und die Ermittlung durch die zuständigen Behörden
-    entsprechend Artikel 50 Abs. 1 bis 3 in Verbindung mit Anhang VII der
-    Richtlinie 2005/36/EG,
+    entsprechend Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII
+    der Richtlinie 2005/36/EG,
 
 
 2.  die Frist für die Erteilung der Erlaubnis,
 
 
 3.  die Regelungen zu Durchführung und Inhalt der Anpassungsmaßnahmen nach
-    § 2 Absatz 2 Satz 6 und § 2 Absatz 2a Satz 2.
+    § 2 Absatz 2 Satz 6 und § 2 Absatz 2a Satz 2,
+
+
+4.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 
 
@@ -693,7 +845,8 @@ Geltungsbereich dieses Gesetzes zu erbringen.
 (3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im
 Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten
 Dokumenten bescheinigten Situation hat der Dienstleistungserbringer
-folgende Bescheinigungen vorzulegen:
+folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung
+nach Nummer 4 vorzulegen:
 
 1.  Staatsangehörigkeitsnachweis,
 
@@ -702,10 +855,16 @@ folgende Bescheinigungen vorzulegen:
 
 
 3.  Bescheinigung über die rechtmäßige Niederlassung im Beruf der Hebamme
-    in einem anderen Mitgliedstaat, die sich auch darauf erstreckt, dass
-    dem Dienstleister die Ausübung seiner Tätigkeit zum Zeitpunkt der
-    Vorlage der Bescheinigung nicht, auch nicht vorübergehend, untersagt
-    ist.
+    oder des Entbindungspflegers in einem anderen Mitgliedstaat, die sich
+    auch darauf erstreckt, dass dem Dienstleister die Ausübung seiner
+    Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch
+    nicht vorübergehend, untersagt ist und keine Vorstrafen vorliegen,
+    sowie
+
+
+4.  eine Erklärung des Dienstleisters, dass er über die zur Erbringung der
+    Dienstleistung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt.
 
 
 
@@ -719,10 +878,8 @@ für Zwecke der Dienstleistungserbringung in einem anderen
 Vertragsstaat des Europäischen Wirtschaftsraumes Bescheinigungen
 darüber auszustellen, dass
 
-1.  sie als
-    Hebamme                    oder
-    Entbindungspfleger                    rechtmäßig niedergelassen sind
-    und ihnen die Ausübung ihrer Tätigkeiten nicht, auch nicht
+1.  sie als „Hebamme” oder „Entbindungspfleger” rechtmäßig niedergelassen
+    sind und ihnen die Ausübung ihrer Tätigkeiten nicht, auch nicht
     vorübergehend, untersagt ist,
 
 
@@ -731,25 +888,28 @@ darüber auszustellen, dass
 
 
 
-Gleiches gilt für Drittstaaten und Drittstaatsangehörige, soweit sich
-hinsichtlich der Anerkennung von Ausbildungsnachweisen nach dem Recht
-der Europäischen Gemeinschaften eine Gleichstellung ergibt.
+
+(5) Die Absätze 1 bis 3 gelten entsprechend für Drittstaaten und
+Drittstaatsangehörige, soweit sich hinsichtlich der Anerkennung von
+Ausbildungsnachweisen nach dem Recht der Europäischen Gemeinschaften
+eine Gleichstellung ergibt.
 
 
 ### § 22a
 
-Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf
-Anforderung der zuständigen Behörden eines Vertragsstaates des
-Europäischen Wirtschaftsraumes haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
-und die gute Führung des Dienstleisters sowie Informationen darüber,
-dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
-Sanktionen vorliegen, zu übermitteln.
+Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
+berechtigt, für jede Dienstleistungserbringung von den zuständigen
+Behörden des Niederlassungsmitgliedstaats Informationen über die
+Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen. Auf Anforderung der zuständigen Behörden eines
+Vertragsstaates des Europäischen Wirtschaftsraumes haben die
+zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie
+2005/36/EG der anfordernden Behörde alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
+übermitteln.
 
 
 ### § 22b
@@ -897,68 +1057,31 @@ Bescheinigung mindestens drei Jahre ununterbrochen tatsächlich und
 rechtmäßig die Tätigkeit als Hebamme in ihrem Hoheitsgebiet ausgeübt
 hat.
 
-(2) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
-4 erfüllen und die eine Erlaubnis nach § 1 Abs. 1 auf Grund der
-Vorlage eines Ausbildungsnachweises beantragen, der im Beruf der
-Hebamme den Mindestanforderungen des Artikels 40 der Richtlinie
-2005/36/EG nicht genügt und von Polen vor dem 1. Mai 2004 verliehen
-wurde oder aus dem hervorgeht, dass die Ausbildung zum Beruf der
-Hebamme in Polen vor dem 1. Mai 2004 begonnen wurde, ist die Erlaubnis
-zu erteilen, wenn ihm eine Bescheinigung darüber beigefügt ist, dass
-der Antragsteller
+(2) Antragstellern, die die Voraussetzungen nach § 2 Absatz 1 Satz 1
+Nummer 1 bis 4 erfüllen und die eine Erlaubnis nach § 1 Absatz 1 auf
+Grund der Vorlage eines Ausbildungsnachweises beantragen, der in Polen
+für Hebammen verliehen worden ist, deren Ausbildung vor dem 1. Mai
+2004 abgeschlossen wurde und den Mindestanforderungen an die
+Berufsausbildung gemäß Artikel 40 der Richtlinie 2005/36/EG nicht
+genügte, ist die Erlaubnis zu erteilen, wenn dem Ausbildungsnachweis
+ein Bakkalaureat-Diplom beigefügt ist, das auf der Grundlage eines
+Aufstiegsfortbildungsprogramms erworben wurde, das in einem der in
+Artikel 43 Absatz 4 Buchstabe b Ziffer i oder Ziffer ii der Richtlinie
+2005/36/EG genannten Gesetze enthalten ist.
 
-1.  im Falle eines Ausbildungsnachweises auf Graduiertenebene (dyplom
-    licencjata po*                   o*                   nictwa) in den
-    fünf Jahren vor Ausstellung der Bescheinigung mindestens drei Jahren
-    ohne Unterbrechung oder
-
-
-2.  im Falle eines Ausbildungsnachweises, der den Abschluss einer
-    postsekundären Ausbildung an einer medizinischen Fachschule
-    bescheinigt (dyplom po*                   o*                   nej),
-    in den sieben Jahren vor Ausstellung der Bescheinigung mindestens fünf
-    Jahre ohne Unterbrechung
-
-
-
-tatsächlich und rechtmäßig den Beruf der Hebamme in Polen ausgeübt
-hat.
-
-(3) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
-4 erfüllen und die eine Erlaubnis nach § 1 Abs. 1 auf Grund einer in
-Polen vor dem 1. Mai 2004 abgeschlossenen Hebammenausbildung
-beantragen, die den Mindestanforderungen des Artikels 40 der
-Richtlinie 2005/36/EG nicht genügte, ist die Erlaubnis zu erteilen,
-wenn sie ein „Bakkalaureat“-Diplom vorlegen, das auf der Grundlage
-eines speziellen Aufstiegsfortbildungsprogramms erworben wurde, das
-nach Artikel 11 des Gesetzes vom 20. April 2004 zur Änderung des
-Gesetzes über den Beruf der Krankenschwester, des Krankenpflegers und
-der Hebamme und zu einigen anderen Rechtsakten (Amtsblatt der Republik
-Polen vom 30. April 2004 Nr. 92 Pos. 885) und nach Maßgabe der
-Verordnung des Gesundheitsministers vom 11. Mai 2004 über die
-Ausbildungsbedingungen für Krankenschwestern, Krankenpfleger und
-Hebammen, die einen Sekundarabschluss (Abschlussexamen-Matura) und
-eine abgeschlossene medizinische Schul- und Fachschulausbildung für
-den Beruf der Krankenschwester, des Krankenpflegers und der Hebamme
-nachweisen können (Amtsblatt der Republik Polen vom 13. Mai 2004 Nr.
-110 Pos. 1170) durchgeführt wurde, um zu überprüfen, ob die
-betreffende Person über einen Kenntnisstand und eine Fachkompetenz
-verfügt, die mit denen der Hebammen vergleichbar sind, die Inhaber der
-für Polen im Anhang dieses Gesetzes genannten Ausbildungsnachweise
-sind.
+(3) (weggefallen)
 
 (4) Antragstellern, die die Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis
 4 erfüllen und die eine Erlaubnis nach § 1 Abs. 1 auf Grund der
 Vorlage eines Ausbildungsnachweises für Hebammen (asistent medical
-obstetric*             -ginecologie/Krankenschwester oder
-Krankenpfleger für Frauenheilkunde und Geburtshilfe) beantragen, der
-von Rumänien vor dem 1. Januar 2007 verliehen wurde und den
-Mindestanforderungen des Artikels 40 der Richtlinie 2005/36/EG nicht
-genügt, ist die Erlaubnis zu erteilen, wenn sie eine Bescheinigung
-vorlegen, aus der hervorgeht, dass sie in den sieben Jahren vor dem
-Tag der Ausstellung der Bescheinigung mindestens fünf Jahre ohne
-Unterbrechung tatsächlich und rechtmäßig die Tätigkeiten einer Hebamme
-ausgeübt haben.
+obstetric*-ginecologie/Krankenschwester oder Krankenpfleger für
+Frauenheilkunde und Geburtshilfe) beantragen, der von Rumänien vor dem
+1\. Januar 2007 verliehen wurde und den Mindestanforderungen des
+Artikels 40 der Richtlinie 2005/36/EG nicht genügt, ist die Erlaubnis
+zu erteilen, wenn sie eine Bescheinigung vorlegen, aus der hervorgeht,
+dass sie in den sieben Jahren vor dem Tag der Ausstellung der
+Bescheinigung mindestens fünf Jahre ohne Unterbrechung tatsächlich und
+rechtmäßig die Tätigkeiten einer Hebamme ausgeübt haben.
 
 (5) Antragstellern, die nicht unter die Absätze 1 bis 4 fallen, die
 Voraussetzungen nach § 2 Abs. 1 Nr. 2 bis 4 erfüllen und die eine
@@ -998,9 +1121,9 @@ Ausbildungsnachweises
 2.  ein Jahr im Falle einer Hebammenausbildung von mindestens 18 Monaten
     oder 3 000 Stunden auf Vollzeitbasis, die den Besitz eines in Anhang V
     Nummer 5.2.2 der Richtlinie
-    2005/36/EG                    genannten Ausbildungsnachweises der
-    Krankenschwester und des Krankenpflegers, die für die allgemeine
-    Pflege verantwortlich sind, voraussetzt,
+    2005/36/EG genannten Ausbildungsnachweises der Krankenschwester und
+    des Krankenpflegers, die für die allgemeine Pflege verantwortlich
+    sind, voraussetzt,
 
 
 
@@ -1110,7 +1233,7 @@ sind.
 (1) Die außerhalb des Gesetzes für "Hebammen" bestehenden
 Rechtsvorschriften finden auch auf "Entbindungspfleger" Anwendung.
 
-(2)
+(2) (Änderungsvorschrift)
 
 
 ### § 32
@@ -1120,14 +1243,15 @@ Rechtsvorschriften finden auch auf "Entbindungspfleger" Anwendung.
 
 ### § 33
 
-§ 6 Absatz 3 bis 5 tritt am 31. Dezember 2017 außer Kraft.
-Ausbildungen nach § 6 Absatz 3, die vor dem 31. Dezember 2017 begonnen
+§ 6 Absatz 3 bis 5 tritt am 31. Dezember 2021 außer Kraft.
+Ausbildungen nach § 6 Absatz 3, die vor dem 31. Dezember 2021 begonnen
 worden sind, werden nach dieser Vorschrift abgeschlossen.
 
 
 ### Anlage (zu § 2 Abs. 2 Satz 1)
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 2953 - 2956 )
+(Fundstelle: BGBl. I 2007, 2953 - 2956; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Land
 
@@ -1141,7 +1265,7 @@ worden sind, werden nach dieser Vorschrift abgeschlossen.
     *   Stichtag
 
 
-*    *   *                     /
+*    *   */
         Belgique/
         Belgien
 
@@ -1345,6 +1469,37 @@ worden sind, werden nach dieser Vorschrift abgeschlossen.
     *   Sage-femme
 
     *   23. Januar 1983
+
+
+*    *   Hrvatska
+
+    *   Svjedodžba
+        „prvostupnik (
+        baccalaureus) primaljstva/sveu*ilišna prvostupnica (
+        baccalaurea) primaljstva“
+
+    *
+        –   Medicinski fakulteti sveu*ilišta u
+            Republici Hrvatskoj
+
+
+        –   Sveu*ilišta u Republici Hrvatskoj
+
+
+        –   Veleu*ilišta i visoke škole u
+            Republici Hrvatskoj
+
+
+
+
+    *   prvostupnik
+        (
+        baccalaureus) primaljstva/
+        prvostupnica (
+        baccalaurea)
+        primaljstva
+
+    *   1. Juli 2013
 
 
 *    *   Ireland
@@ -1616,7 +1771,7 @@ worden sind, werden nach dieser Vorschrift abgeschlossen.
 
 
 
-    *   diplomirana babica/diplomirani babi*                     ar
+    *   diplomirana babica/diplomirani babi*ar
 
     *   1. Mai 2004
 

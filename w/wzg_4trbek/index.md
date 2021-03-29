@@ -58,18 +58,15 @@ Bundesministerium der Justiz
 
 ## Anlage 1 Amtliche Feingehalts-Zeichen für Gold-, Silber- und Platinartikel der Tschechischen Republik
 
-(Inhalt: Nicht darstellbare Abbildungen von Zeichen,
 Fundstelle: BGBl. I 1994, 850)
-
+![bgbl1_1994_j0850_0010.jpg](bgbl1_1994_j0850_0010.jpg)
 
 ## Anlage 2 Neues Kennzeichen der Fernmeldesatellitenorganisation "INTELSAT"
 
-(Inhalt: Nicht darstellbare Abbildung eines Kennzeichens,
 Fundstelle: BGBl. I 1994, S. 851)
-
+![bgbl1_1994_j0851_0010.jpg](bgbl1_1994_j0851_0010.jpg)
 
 ## Anlage 3 Flagge der Internationalen Zivilluftfahrt-Organisation
 
-(Inhalt: Nicht darstellbare Abbildung einer Flagge,
 Fundstelle: BGBl. I 1994, 851)
-
+![bgbl1_1994_j0851_0020.jpg](bgbl1_1994_j0851_0020.jpg)

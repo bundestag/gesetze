@@ -16,16 +16,15 @@ Fundstelle
 :   RGBl: 1877, 77
 
 Zuletzt geändert durch
-:   Art. 2 G v. 5.12.2012 I 2418
+:   Art. 5 Abs. 1 G v. 8.10.2017 I 3546
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
 
 
 
-### § 1
+### § 1 (weggefallen)
 
-(weggefallen)
 
 
 ### § 2
@@ -52,9 +51,8 @@ Landesgesetzgebung nach anderen als den durch das
 Gerichtsverfassungsgesetz vorgeschriebenen Normen bestimmt werden.
 
 
-### § 4
+### § 4 (weggefallen)
 
-(weggefallen)
 
 
 ### § 4a
@@ -71,9 +69,8 @@ nach den Grenzen der Verwaltungsbezirke bestimmt.
 (2) (weggefallen)
 
 
-### § 5
+### § 5 (weggefallen)
 
--
 
 
 ### § 6
@@ -92,9 +89,8 @@ in der ordentlichen Gerichtsbarkeit sind erstmals auf die erste nach
 ihrem Inkrafttreten beginnende Amtsperiode anzuwenden.
 
 
-### § 7
+### § 7 (weggefallen)
 
--
 
 
 ### § 8
@@ -146,9 +142,8 @@ Gerichtsbarkeit nach den Vorschriften über die Oberlandesgerichte, im
 übrigen nach den Vorschriften über den Bundesgerichtshof.
 
 
-### § 11
+### § 11 (weggefallen)
 
-(weggefallen)
 
 
 ## Zweiter Abschnitt - Verfahrensübergreifende Mitteilungen von Amts wegen
@@ -178,11 +173,11 @@ entgegensteht.
 (4) Die Verantwortung für die Zulässigkeit der Übermittlung trägt die
 übermittelnde Stelle.
 
-(5) Das Bundesministerium der Justiz kann mit Zustimmung des
-Bundesrates allgemeine Verwaltungsvorschriften zu den nach diesem
-Abschnitt zulässigen Mitteilungen erlassen. Ermächtigungen zum Erlaß
-von Verwaltungsvorschriften über Mitteilungen in besonderen
-Rechtsvorschriften bleiben unberührt.
+(5) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zu
+den nach diesem Abschnitt zulässigen Mitteilungen erlassen.
+Ermächtigungen zum Erlaß von Verwaltungsvorschriften über Mitteilungen
+in besonderen Rechtsvorschriften bleiben unberührt.
 
 
 ### § 13
@@ -352,7 +347,7 @@ erforderlich ist für
 
 
 9.  die Abwehr erheblicher Nachteile für Tiere und Pflanzen, Boden,
-    Wasser, Luft, Klima und Landschaft.
+    Wasser, Luft, Klima und Landschaft sowie das kulturelle Erbe.
 
 
 
@@ -404,7 +399,8 @@ an über- oder zwischenstaatliche Stellen nach den hierfür geltenden
 Rechtsvorschriften übermittelt, so ist eine Übermittlung dieser Daten
 auch zulässig
 
-1.  an das Bundesministerium der Justiz und das Auswärtige Amt,
+1.  an das Bundesministerium der Justiz und für Verbraucherschutz und das
+    Auswärtige Amt,
 
 
 2.  in Strafsachen gegen Mitglieder einer ausländischen konsularischen
@@ -422,7 +418,9 @@ den Landesregierungen durch Rechtsverordnung bestimmten weiteren
 Stellen nehmen die Aufgaben der Kontaktstellen im Sinne des Artikels 2
 der Entscheidung 2001/470/EG des Rates vom 28. Mai 2001 über die
 Einrichtung eines Europäischen Justiziellen Netzes für Zivil- und
-Handelssachen (ABl. EG Nr. L 174 S. 25) wahr.
+Handelssachen (ABl. EG Nr. L 174 S. 25) die durch die Entscheidung
+568/2009/EG (ABl. L 168 vom 30.6.2009, S. 35) geändert worden ist,
+wahr.
 
 (2) Das Bundesamt für Justiz stellt die Koordinierung zwischen den
 Kontaktstellen sicher.
@@ -664,7 +662,12 @@ Amtsgerichts gestellt werden.
 
 (2) War der Antragsteller ohne Verschulden verhindert, die Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
-Stand zu gewähren.
+Stand zu gewähren. Ein Fehlen des Verschuldens wird vermutet, wenn in
+dem Bescheid oder, soweit ein Beschwerdeverfahren (§ 24 Absatz 2)
+vorausgegangen ist, in dem Beschwerdebescheid eine Belehrung über die
+Zulässigkeit des Antrags auf gerichtliche Entscheidung sowie über das
+Gericht, bei dem er zu stellen ist, dessen Sitz und die einzuhaltende
+Form und Frist unterblieben oder unrichtig erteilt ist.
 
 (3) Der Antrag auf Wiedereinsetzung ist binnen zwei Wochen nach
 Wegfall des Hindernisses zu stellen. Die Tatsachen zur Begründung des
@@ -730,6 +733,11 @@ Grenzen des Ermessens überschritten sind oder von dem Ermessen in
 einer dem Zweck der Ermächtigung nicht entsprechenden Weise Gebrauch
 gemacht ist.
 
+(4) Hat das Gericht die Rechtsbeschwerde gegen seine Entscheidung
+zugelassen (§ 29), ist dem Beschluss eine Belehrung über das
+Rechtsmittel sowie über das Gericht, bei dem es einzulegen ist, dessen
+Sitz und über die einzuhaltende Form und Frist beizufügen.
+
 
 ### § 29
 
@@ -750,9 +758,10 @@ Rechtszug in dem Beschluss zugelassen hat.
 
 Das Rechtsbeschwerdegericht ist an die Zulassung gebunden.
 
-(3) Auf das weitere Verfahren sind die §§ 71 bis 74a des Gesetzes über
-das Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend anzuwenden.
+(3) Auf das weitere Verfahren sind § 17 sowie die §§ 71 bis 74a des
+Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
+anzuwenden.
 
 (4) Auf die Bewilligung der Prozesskostenhilfe sind die Vorschriften
 der Zivilprozessordnung entsprechend anzuwenden.
@@ -760,29 +769,20 @@ der Zivilprozessordnung entsprechend anzuwenden.
 
 ### § 30
 
-(1) Für die Kosten des Verfahrens vor dem Oberlandesgericht gelten die
-Vorschriften der Kostenordnung entsprechend. Abweichend von § 130 der
-Kostenordnung wird jedoch ohne Begrenzung durch einen Höchstbetrag bei
-Zurückweisung das Doppelte der vollen Gebühr, bei Zurücknahme des
-Antrags eine volle Gebühr erhoben.
-
-(2) Das Oberlandesgericht kann nach billigem Ermessen bestimmen, daß
-die außergerichtlichen Kosten des Antragstellers, die zur
+Das Oberlandesgericht kann nach billigem Ermessen bestimmen, daß die
+außergerichtlichen Kosten des Antragstellers, die zur
 zweckentsprechenden Rechtsverfolgung notwendig waren, ganz oder
 teilweise aus der Staatskasse zu erstatten sind. Die Vorschriften des
-§ 91 Abs. 1 Satz 2 und der §§
-102              bis 107 der Zivilprozeßordnung gelten entsprechend.
-Die Entscheidung des Oberlandesgerichts kann nicht angefochten werden.
-
-(3) Der Geschäftswert bestimmt sich nach § 30 der Kostenordnung. Er
-wird von dem Oberlandesgericht durch unanfechtbaren Beschluß
-festgesetzt.
+§ 91 Abs. 1 Satz 2 und der §§ 103 bis 107 der Zivilprozeßordnung
+gelten entsprechend. Die Entscheidung des Oberlandesgerichts kann
+nicht angefochten werden.
 
 
 ### § 30a
 
 (1) Verwaltungsakte, die im Bereich der Justizverwaltung beim Vollzug
-des Gerichtskostengesetzes, der Kostenordnung, des
+des Gerichtskostengesetzes, des Gesetzes über Kosten in
+Familiensachen, des Gerichts- und Notarkostengesetzes, des
 Gerichtsvollzieherkostengesetzes, des Justizvergütungs- und
 -entschädigungsgesetzes oder sonstiger für gerichtliche Verfahren oder
 Verfahren der Justizverwaltung geltender Kostenvorschriften,
@@ -799,20 +799,23 @@ Weise Gebrauch gemacht worden sei.
 
 (2) Über den Antrag entscheidet das Amtsgericht, in dessen Bezirk die
 für die Einziehung oder Befriedigung des Anspruchs zuständige Kasse
-ihren Sitz hat. In dem Verfahren ist die Staatskasse zu hören. § 14
-Abs. 3 bis 9 und § 157a der Kostenordnung gelten entsprechend.
+ihren Sitz hat. In dem Verfahren ist die Staatskasse zu hören. Die §§
+7a, 81 Absatz 2 bis 8 und § 84 des Gerichts- und Notarkostengesetzes
+gelten entsprechend.
 
 (3) Durch die Gesetzgebung eines Landes, in dem mehrere
 Oberlandesgerichte errichtet sind, kann die Entscheidung über das
 Rechtsmittel der weiteren Beschwerde nach Absatz 1 und 2 sowie nach §
-14 der Kostenordnung, der Beschwerde nach § 156 der Kostenordnung,
-nach § 66 des Gerichtskostengesetzes, nach § 57 des Gesetzes über
-Kosten in Familiensachen, nach § 14 der Kostenordnung und nach § 4 des
-Justizvergütungs- und -entschädigungsgesetzes einem der mehreren
-Oberlandesgerichte oder anstelle eines solchen Oberlandesgerichts
-einem obersten Landesgericht zugewiesen werden. Dies gilt auch für die
-Entscheidung über das Rechtsmittel der weiteren Beschwerde nach § 33
-des Rechtsanwaltsvergütungsgesetzes, soweit nach dieser Vorschrift das
+81 des Gerichts- und Notarkostengesetzes, über den Antrag nach § 127
+des Gerichts- und Notarkostengesetzes, über das Rechtsmittel der
+Beschwerde nach § 66 des Gerichtskostengesetzes, nach § 57 des
+Gesetzes über Kosten in Familiensachen, nach § 81 des Gerichts- und
+Notarkostengesetzes und nach § 4 des Justizvergütungs- und
+-entschädigungsgesetzes einem der mehreren Oberlandesgerichte oder
+anstelle eines solchen Oberlandesgerichts einem obersten Landesgericht
+zugewiesen werden. Dies gilt auch für die Entscheidung über das
+Rechtsmittel der weiteren Beschwerde nach § 33 des
+Rechtsanwaltsvergütungsgesetzes, soweit nach dieser Vorschrift das
 Oberlandesgericht zuständig ist.
 
 (4) Für die Beschwerde finden die vor dem Inkrafttreten des
@@ -828,12 +831,11 @@ anzufechtende Entscheidung vor dem 1. Juli 2004 der Geschäftsstelle
 
 ### § 31
 
-Besteht eine gegenwärtige Gefahr für Leben, Leib oder Freiheit einer
-Person, begründen bestimmte Tatsachen den Verdacht, daß die Gefahr von
-einer terroristischen Vereinigung ausgeht, und ist es zur Abwehr
-dieser Gefahr geboten, jedwede Verbindung von Gefangenen untereinander
-und mit der Außenwelt einschließlich des schriftlichen und mündlichen
-Verkehrs mit dem Verteidiger zu unterbrechen, so kann eine
+(1) Besteht eine gegenwärtige Gefahr für Leben, Leib oder Freiheit
+einer Person, begründen bestimmte Tatsachen den Verdacht, daß die
+Gefahr von einer terroristischen Vereinigung ausgeht, und ist es zur
+Abwehr dieser Gefahr geboten, jedwede Verbindung von Gefangenen
+untereinander und mit der Außenwelt zu unterbrechen, so kann eine
 entsprechende Feststellung getroffen werden. Die Feststellung darf
 sich nur auf Gefangene beziehen, die wegen einer Straftat nach § 129a,
 auch in Verbindung mit § 129b Abs. 1, des Strafgesetzbuches oder wegen
@@ -847,7 +849,12 @@ einer Tat nach § 129a, auch in Verbindung mit § 129b Abs. 1, des
 Strafgesetzbuches begangen haben. Die Feststellung ist auf bestimmte
 Gefangene oder Gruppen von Gefangenen zu beschränken, wenn dies zur
 Abwehr der Gefahr ausreicht. Die Feststellung ist nach pflichtgemäßem
-Ermessen zu treffen.
+Ermessen zu treffen. § 148 der Strafprozessordnung bleibt unberührt.
+
+(2) Für Gefangene, gegen die die öffentliche Klage noch nicht erhoben
+wurde oder die rechtskräftig verurteilt sind, kann die Feststellung
+nach Absatz 1 auf die Unterbrechung des mündlichen und schriftlichen
+Verkehrs mit dem Verteidiger erstreckt werden.
 
 
 ### § 32
@@ -855,14 +862,17 @@ Ermessen zu treffen.
 Die Feststellung nach § 31 trifft die Landesregierung oder die von ihr
 bestimmte oberste Landesbehörde. Ist es zur Abwendung der Gefahr
 geboten, die Verbindung in mehreren Ländern zu unterbrechen, so kann
-die Feststellung der Bundesminister der Justiz treffen.
+die Feststellung der Bundesminister der Justiz und für
+Verbraucherschutz treffen.
 
 
 ### § 33
 
 Ist eine Feststellung nach § 31 erfolgt, so treffen die zuständigen
 Behörden der Länder die Maßnahmen, die zur Unterbrechung der
-Verbindung erforderlich sind.
+Verbindung erforderlich sind. Die Maßnahmen sind zu begründen und dem
+Gefangenen schriftlich bekannt zu machen. § 37 Absatz 3 gilt
+entsprechend.
 
 
 ### § 34
@@ -887,34 +897,46 @@ ergänzend folgendes:
     auch dann nicht anwesend sein, wenn sie nach allgemeinen Vorschriften
     ein Recht auf Anwesenheit haben; gleiches gilt für ihre Verteidiger,
     soweit ein von der Feststellung nach § 31 erfaßter Mitgefangener
-    anwesend ist. Solche Maßnahmen dürfen nur stattfinden, wenn der
-    Gefangene oder der Verteidiger ihre Durchführung verlangt und
-    derjenige, der nach Satz 1 nicht anwesend sein darf, auf seine
-    Anwesenheit verzichtet. § 147 Abs. 3 der Strafprozeßordnung ist nicht
-    anzuwenden, soweit der Zweck der Unterbrechung gefährdet würde.
+    anwesend ist und soweit die gemäß § 31 Absatz 1 getroffene
+    Feststellung nach § 31 Absatz 2 auf den schriftlichen und mündlichen
+    Verkehr mit dem Verteidiger erstreckt wurde. Solche Maßnahmen dürfen
+    nur stattfinden, wenn der Gefangene oder der Verteidiger ihre
+    Durchführung verlangt und derjenige, der nach Satz 1 nicht anwesend
+    sein darf, auf seine Anwesenheit verzichtet. Wurde die gemäß § 31
+    Absatz 1 getroffene Feststellung nach § 31 Absatz 2 auf den
+    schriftlichen und mündlichen Verkehr mit dem Verteidiger erstreckt,
+    ist § 147 Absatz 3 der Strafprozessordnung nicht anzuwenden, soweit
+    der Zweck der Untersuchung gefährdet würde.
 
 
-3.  Eine Vernehmung des Gefangenen als Beschuldigter, bei der der
-    Verteidiger nach allgemeinen Vorschriften ein Anwesenheitsrecht hat,
-    findet nur statt, wenn der Gefangene und der Verteidiger auf die
-    Anwesenheit des Verteidigers verzichten.
+3.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, findet eine Vernehmung des Gefangenen als Beschuldigter,
+    bei der der Verteidiger nach allgemeinen Vorschriften ein
+    Anwesenheitsrecht hat, nur statt, wenn der Gefangene und der
+    Verteidiger auf die Anwesenheit des Verteidigers verzichten.
 
 
-4.  Bei der Verkündung eines Haftbefehls hat der Verteidiger kein Recht
-    auf Anwesenheit; er ist von der Verkündung des Haftbefehls zu
-    unterrichten. Der Richter hat dem Verteidiger das wesentliche Ergebnis
-    der Vernehmung des Gefangenen bei der Verkündung, soweit der Zweck der
-    Unterbrechung nicht gefährdet wird, und die Entscheidung mitzuteilen.
+4.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, hat der Verteidiger bei der Verkündung eines Haftbefehls
+    kein Recht auf Anwesenheit; er ist von der Verkündung des Haftbefehls
+    zu unterrichten. Der Richter hat dem Verteidiger das wesentliche
+    Ergebnis der Vernehmung des Gefangenen bei der Verkündung, soweit der
+    Zweck der Unterbrechung nicht gefährdet wird, und die Entscheidung
+    mitzuteilen.
 
 
-5.  Mündliche Haftprüfungen sowie andere mündliche Verhandlungen, deren
-    Durchführung innerhalb bestimmter Fristen vorgeschrieben ist, finden,
-    soweit der Gefangene anwesend ist, ohne den Verteidiger statt; Nummer
-    4 Satz 2 gilt entsprechend. Eine mündliche Verhandlung bei der
-    Haftprüfung ist auf Antrag des Gefangenen oder seines Verteidigers
-    nach Ende der Maßnahmen nach § 33 zu wiederholen, auch wenn die
-    Voraussetzungen des § 118 Abs. 3 der Strafprozeßordnung nicht
-    vorliegen.
+5.  Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz
+    2 auf den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, finden mündliche Haftprüfungen sowie andere mündliche
+    Verhandlungen, deren Durchführung innerhalb bestimmter Fristen
+    vorgesehen ist, soweit der Gefangene anwesend ist, ohne den
+    Verteidiger statt; Nummer 4 Satz 2 gilt entsprechend. Eine mündliche
+    Verhandlung bei der Haftprüfung ist auf Antrag des Gefangenen oder
+    seines Verteidigers nach Ende der Maßnahmen nach § 33 zu wiederholen,
+    auch wenn die Voraussetzungen des § 118 Abs. 3 der Strafprozeßordnung
+    nicht vorliegen.
 
 
 6.  Eine Hauptverhandlung findet nicht statt und wird, wenn sie bereits
@@ -928,9 +950,11 @@ ergänzend folgendes:
 
 
 8.  Der Gefangene darf sich in einem gegen ihn gerichteten Strafverfahren
-    schriftlich an das Gericht oder die Staatsanwaltschaft wenden. Dem
-    Verteidiger darf für die Dauer der Feststellung keine Einsicht in
-    diese Schriftstücke gewährt werden.
+    schriftlich an das Gericht oder die Staatsanwaltschaft wenden. Wurde
+    die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31 Absatz 2 auf
+    den schriftlichen und mündlichen Verkehr mit dem Verteidiger
+    erstreckt, darf dem Verteidiger für die Dauer der Feststellung keine
+    Einsicht in diese Schriftstücke gewährt werden.
 
 
 
@@ -942,11 +966,13 @@ das Gericht kann einstweilige Maßnahmen treffen.
 
 ### § 34a
 
-(1) Dem Gefangenen ist auf seinen Antrag ein Rechtsanwalt als
-Kontaktperson beizuordnen. Der Kontaktperson obliegt, unter Wahrung
-der Ziele der nach § 31 getroffenen Feststellung, die rechtliche
-Betreuung des Gefangenen, soweit dafür infolge der nach § 33
-getroffenen Maßnahmen ein Bedürfnis besteht; die Kontaktperson kann
+(1) Wurde die gemäß § 31 Absatz 1 getroffene Feststellung nach § 31
+Absatz 2 auf den schriftlichen und mündlichen Verkehr mit dem
+Verteidiger erstreckt, ist dem Gefangenen auf seinen Antrag ein
+Rechtsanwalt als Kontaktperson beizuordnen. Der Kontaktperson obliegt,
+unter Wahrung der Ziele der nach § 31 getroffenen Feststellung, die
+rechtliche Betreuung des Gefangenen, soweit dafür infolge der nach §
+33 getroffenen Maßnahmen ein Bedürfnis besteht; die Kontaktperson kann
 insbesondere durch Anträge und Anregungen auf die Ermittlung
 entlastender Tatsachen und Umstände hinwirken, die im Interesse des
 Gefangenen unverzüglicher Aufklärung bedürfen.
@@ -983,9 +1009,11 @@ als Kontaktperson vorzuschlagen.
 gestattet. Für das Gespräch sind Vorrichtungen vorzusehen, die die
 Übergabe von Schriftstücken und anderen Gegenständen ausschließen.
 
-(6) Der Gefangene ist bei Bekanntgabe der Feststellung nach § 31 über
-sein Recht, die Beiordnung einer Kontaktperson zu beantragen, und über
-die übrigen Regelungen der Absätze 1 bis 5 zu belehren.
+(6) Der Gefangene ist bei Bekanntgabe der Feststellung nach § 31, die
+nach dessen Absatz 2 auf den schriftlichen und mündlichen Verkehr mit
+dem Verteidiger erstreckt wird, über sein Recht, die Beiordnung einer
+Kontaktperson zu beantragen, und über die übrigen Regelungen der
+Absätze 1 bis 5 zu belehren.
 
 
 ### § 35
@@ -995,8 +1023,8 @@ innerhalb von zwei Wochen nach ihrem Erlaß bestätigt worden ist. Für
 die Bestätigung einer Feststellung, die eine Landesbehörde getroffen
 hat, ist ein Strafsenat des Oberlandesgerichts zuständig, in dessen
 Bezirk die Landesregierung ihren Sitz hat, für die Bestätigung einer
-Feststellung des Bundesministers der Justiz ein Strafsenat des
-Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
+Feststellung des Bundesministers der Justiz und für Verbraucherschutz
+ein Strafsenat des Bundesgerichtshofes; § 25 Abs. 2 gilt entsprechend.
 
 
 ### § 36
@@ -1094,6 +1122,12 @@ Berufungs- und Beschwerdeverfahren Anwendung, wenn die anzufechtende
 Entscheidung vor dem 1. September 2009 erlassen wurde.
 
 
+### § 40a
+
+Die §§ 72a und 119a des Gerichtsverfassungsgesetzes sind auf die vor
+dem 1. Januar 2018 anhängig gewordenen Verfahren nicht anzuwenden.
+
+
 ### § 41
 
 (1) Für Verfahren, die vor dem 1. Januar 2012 beim Landgericht
@@ -1107,4 +1141,17 @@ Sicherungsverwahrung zu entscheiden ist, die Akten dem Vorsitzenden
 des zuständigen Gerichts vor dem 1. Januar 2012 übergeben, ist § 74f
 des Gerichtsverfassungsgesetzes in der bis zum 31. Dezember 2011
 geltenden Fassung entsprechend anzuwenden.
+
+
+### § 42
+
+§ 30a ist auf Verwaltungsakte im Bereich der Kostenordnung auch nach
+dem Inkrafttreten des 2. Kostenrechtsmodernisierungsgesetzes vom 23.
+Juli 2013 (BGBl. I S. 2586) weiter anzuwenden.
+
+
+### § 43
+
+§ 169 Absatz 2 des Gerichtsverfassungsgesetzes findet keine Anwendung
+auf Verfahren, die am 18. April 2018 bereits anhängig sind.
 

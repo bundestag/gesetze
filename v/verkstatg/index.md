@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 20. 2.2004 I 318;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 6.11.2008 I 2162
+:   Art. 8 G v. 24.5.2016 I 1217
 
 
 ## Abschnitt 1 - Allgemeine Vorschrift
@@ -204,7 +204,7 @@ jeweils für deren Zuständigkeitsbereich auf Anforderung
 4.  die Grenzzollstellen,
 
 
-5.  die Wasser- und Schifffahrtsverwaltung des Bundes
+5.  die Wasserstraßen- und Schifffahrtsverwaltung des Bundes
 
 
 
@@ -216,8 +216,9 @@ Auskunftspflichtige dieses Angebot nicht annimmt.
 (2) Für die Durchführung der Erhebung nach § 1 Nr. 2 übermitteln dem
 Statistischen Bundesamt auf Anforderung
 
-1.  die Binnenschifffahrts-Berufsgenossenschaft Name und Anschrift von
-    Binnenschifffahrt betreibenden Unternehmen,
+1.  die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+    Telekommunikation Name und Anschrift von Binnenschifffahrt
+    betreibenden Unternehmen,
 
 
 2.  die nach § 9 Abs. 1 des Binnenschifffahrtsaufgabengesetzes zuständige
@@ -229,8 +230,8 @@ Statistischen Bundesamt auf Anforderung
     geltenden Fassung anzuwenden,
 
 
-3.  die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt Name
-    und Anschrift der inländischen Eigentümer der geeichten Schiffe,
+3.  die Generaldirektion Wasserstraßen und Schifffahrt Name und Anschrift
+    der inländischen Eigentümer der geeichten Schiffe,
 
 
 4.  die Vermieter von Binnenschiffen Name und Anschrift derjenigen Mieter
@@ -1131,7 +1132,7 @@ Personen auskunftspflichtig.
 (3) Die natürlichen Personen und juristischen Personen des
 öffentlichen und privaten Rechts, welche die Häfen und Flugplätze
 verwalten, sowie für den Bereich des Durchgangsverkehrs in der
-Binnenschifffahrt die Grenzzollstellen und die Wasser- und
+Binnenschifffahrt die Grenzzollstellen und die Wasserstraßen- und
 Schifffahrtsverwaltung des Bundes sind verpflichtet,
 
 1.  die Auskunftspflichtigen auf die Auskunftspflicht für die Erhebungen
@@ -1286,7 +1287,7 @@ Unternehmen nicht veröffentlicht wird.
 
 ### § 30 Verordnungsermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates für
 Zwecke der Beobachtung des internationalen Schiffsverkehrs, der
 Vorbereitung von Gesetzgebungsvorhaben sowie für Zwecke der

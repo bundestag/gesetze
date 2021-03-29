@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1977, 813
 
 Zuletzt geändert durch
-:   Art. 2 V v. 15.1.2012 I 112
+:   Art. 22 G v. 13.10.2016 I 2258
 
 
 ## Eingangsformel
@@ -183,7 +183,8 @@ Seeschiffahrt und Hydrographie) bekanntgemacht worden sind.
 500 m, gemessen von jedem Punkt des äußeren Randes, um Anlagen oder
 sonstige Vorrichtungen zur wissenschaftlichen Meeresforschung oder zur
 Erforschung oder Ausbeutung von Naturschätzen erstrecken. Die nach §
-11 der Seeanlagenverordnung von der zuständigen Genehmigungsbehörde
+53 des Windenergie-auf-See-Gesetzes oder nach § 11 der
+Seeanlagenverordnung von der zuständigen Genehmigungsbehörde
 eingerichteten Sicherheitszonen gelten als Sicherheitszonen im Sinne
 dieser Verordnung.
 
@@ -193,20 +194,19 @@ eingesetzt sind sowie vorbehaltlich des Absatzes 3 für Fahrzeuge deren
 Rumpflänge 24 Meter nicht übersteigt oder die vom Befahrensverbot
 befreit sind.
 
-(3) Die Wasser- und Schifffahrtsdirektionen Nord und Nordwest können
-durch Allgemeinverfügung nach § 35 Satz 2 des
-Verwaltungsverfahrensgesetzes oder im Einzelfall Einzelheiten des
-Befahrensverbotes regeln und Befreiungen vom Befahrensverbot auch mit
-Auflagen oder Bedingungen, bei Sicherheitszonen nach § 11 der
-Seeanlagenverordnung im Einvernehmen mit dem Bundesamt für
-Seeschifffahrt und Hydrographie, zulassen, soweit dies mit den
-Anforderungen der Sicherheit und Leichtigkeit des Verkehrs vereinbar
-ist. Sie legen ferner nach den in Satz 1 genannten Voraussetzungen und
-Verfahren die Bedingungen für die Befreiung vom Befahrensverbot für
-Fahrzeuge, deren Rumpflänge 24 Meter nicht übersteigt, fest. Die
-insoweit erlassenen Allgemeinverfügungen werden nach Maßgabe von § 60
-Abs. 1 der Seeschifffahrtsstraßen-Ordnung und von § 12 der
-Seeanlagenverordnung bekannt gemacht.
+(3) Die Generaldirektion Wasserstraßen und Schifffahrt kann durch
+Allgemeinverfügung nach § 35 Satz 2 des Verwaltungsverfahrensgesetzes
+oder im Einzelfall Einzelheiten des Befahrensverbotes regeln und
+Befreiungen vom Befahrensverbot auch mit Auflagen oder Bedingungen,
+bei Sicherheitszonen nach § 11 der Seeanlagenverordnung im
+Einvernehmen mit dem Bundesamt für Seeschifffahrt und Hydrographie,
+zulassen, soweit dies mit den Anforderungen der Sicherheit und
+Leichtigkeit des Verkehrs vereinbar ist. Sie legt ferner nach den in
+Satz 1 genannten Voraussetzungen und Verfahren die Bedingungen für die
+Befreiung vom Befahrensverbot für Fahrzeuge, deren Rumpflänge 24 Meter
+nicht übersteigt, fest. Die insoweit erlassenen Allgemeinverfügungen
+werden nach Maßgabe von § 60 Abs. 1 der Seeschifffahrtsstraßen-Ordnung
+und von § 12 der Seeanlagenverordnung bekannt gemacht.
 
 
 ## § 7a Auskunft auf Ersuchen
@@ -438,8 +438,8 @@ Seeaufgabengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 wird auf die Wasser- und
-Schiffahrtsdirektionen übertragen.
+Ordnungswidrigkeiten nach Absatz 1 wird auf die Generaldirektion
+Wasserstraßen und Schifffahrt übertragen.
 
 
 ## § 10 Inkrafttreten, Aufhebung von Vorschriften

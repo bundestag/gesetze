@@ -6,7 +6,7 @@ Title: Abkommen zur Änderung des Zusatzabkommens vom 3. August 1959 in der durc
   Truppen
 jurabk: NATOTrStatZAbkÄndAbk
 layout: default
-origslug: natotrstatzabk_ndabk
+origslug: natotrstatzabkaendabk
 slug: natotrstatzabkaendabk
 
 ---

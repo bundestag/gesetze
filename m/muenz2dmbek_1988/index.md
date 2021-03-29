@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 2 
   Mark
 jurabk: Münz2DMBek 1988
 layout: default
-origslug: m_nz2dmbek_1988
+origslug: muenz2dmbek_1988
 slug: muenz2dmbek_1988
 
 ---

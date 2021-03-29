@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 2009, Nr 23, 519
 
 Zuletzt geändert durch
-:   Art. 3 V v. 10.10.2012 I 2113
+:   Art. 5 V v. 27.6.2013 I 1953
 
 Diese v tritt gem. § 7 abs. 2 am 12.8.2009 außer kraft, sofern nicht mit zustimmung des bundesrates etwas anderes verordnet wird. § 7 abs. 2 aufgeh. durch
 :   Art. 1 Nr. 3 V v. 29.7.2009 I 2341; dadurch ist die Geltung dieser V über den 12.8.2009 hinaus verlängert worden.
@@ -91,21 +91,22 @@ seiner Einfuhr zum Eigenbedarf den in § 2 Absatz 1 festgelegten
 Grenzwert nicht überschreitet.
 
 (3) Maissaatgut, das nach Absatz 2 ausgesät werden darf, darf nicht
-mit einem pneumatischen Gerät zur Einzelkornablage, das mit Unterdruck
-arbeitet, ausgesät werden. Satz 1 gilt nicht, soweit das verwendete
-Gerät mit einer Vorrichtung ausgestattet ist, die die erzeugte Abluft
-auf oder in den Boden leitet und dadurch eine Abdriftminderung des
-Abriebes von mindestens 90 vom Hundert verglichen mit Sägeräten ohne
-eine solche Vorrichtung erreicht.Das Julius Kühn-Institut kann eine
-Liste von Gerätetypen, die diese Voraussetzung erfüllen, sowie
-geeignete Messmethoden im Bundesanzeiger bekannt machen.
+mit einem pneumatischen Gerät ausgesät werden. Satz 1 gilt nicht,
+soweit das verwendete Gerät mit einer Vorrichtung ausgestattet ist,
+die die erzeugte Abluft auf oder in den Boden leitet und dadurch eine
+Abdriftminderung des Abriebes von mindestens 90 vom Hundert,
+verglichen mit pneumatischen Sägeräten zur Einzelkornablage, die mit
+Unterdruck arbeiten, ohne eine solche Vorrichtung erreicht. Das Julius
+Kühn-Institut kann eine Liste von Gerätetypen, die diese Voraussetzung
+erfüllen, sowie geeignete Messmethoden im Bundesanzeiger bekannt
+machen.
 
 
 ## § 4 Ausnahmen
 
 (1) Das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit
 kann auf Antrag Ausnahmen von dem Verbot des § 1 Absatz 1, § 2 Absatz
-1 oder des § 3 Absatz 1 zu Versuchszwecken genehmigen.Das Bundesamt
+1 oder des § 3 Absatz 1 zu Versuchszwecken genehmigen. Das Bundesamt
 für Verbraucherschutz und Lebensmittelsicherheit verbindet die
 Genehmigung mit den Auflagen, die erforderlich sind, um schädliche
 Auswirkungen auf die Gesundheit von Mensch und Tier oder unvertretbare
@@ -116,14 +117,13 @@ Ausnahmen von der in Anlage 3 beschriebenen Messmethode vorsehen.
 
 (2) Die zuständige Behörde kann auf Antrag über § 3 Absatz 3 Satz 2
 hinaus Ausnahmen von dem Verbot nach § 3 Absatz 3 Satz 1 erteilen,
-wenn eine Verwendung von pneumatischen Sägeräten zur Einzelkornablage
-ohne Abdriftminderung auf Grund der besonderen Aussaatbedingungen im
-Einzelfall oder für Versuchszwecke erforderlich ist. Die zuständige
-Behörde verbindet die Genehmigung mit den Auflagen, die erforderlich
-sind, schädliche Auswirkungen auf die Gesundheit von Mensch und Tier
-oder unvertretbare Auswirkungen auf den Naturhaushalt, insbesondere
-durch eine Abdrift des Abriebes des Pflanzenschutzmittels, zu
-verhindern.
+wenn eine Verwendung von pneumatischen Sägeräten ohne Abdriftminderung
+auf Grund der besonderen Aussaatbedingungen im Einzelfall oder für
+Versuchszwecke erforderlich ist. Die zuständige Behörde verbindet die
+Genehmigung mit den Auflagen, die erforderlich sind, schädliche
+Auswirkungen auf die Gesundheit von Mensch und Tier oder unvertretbare
+Auswirkungen auf den Naturhaushalt, insbesondere durch eine Abdrift
+des Abriebes des Pflanzenschutzmittels, zu verhindern.
 
 
 ## § 5 Anordnungsbefugnis
@@ -148,22 +148,25 @@ vollziehbaren Anordnung nach § 5 zuwiderhandelt.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu den §§ 1 und 3 Absatz 1)
 
-## Anlage 1 (zu den §§ 1 und 3 Absatz 1) Wirkstoffe
+## Anlage 1 Wirkstoffe
 
 (Fundstelle: BAnz 2009, 520)
 1 Clothianidin
 2 Imidacloprid
 3 Thiamethoxam
 
+(zu den §§ 2 und 3 Absatz 2)
 
-## Anlage 2 (zu den §§ 2 und 3 Absatz 2) Wirkstoffe
+## Anlage 2 Wirkstoffe
 
 (Fundstelle: BAnz 2009, 520)
 1 Methiocarb
 
+(zu § 2 Absatz 1)
 
-## Anlage 3 (zu § 2 Absatz 1) Messmethode
+## Anlage 3 Messmethode
 
 (Fundstelle: BAnz 2009, 520)
 Der Abrieb des mit einem Pflanzenschutzmittel behandelten

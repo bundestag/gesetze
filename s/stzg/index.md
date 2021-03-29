@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 2277
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.8.2008 I 1708
+:   Art. 50 G v. 29.3.2017 I 626
 
 
 ## § 1 Zweck des Gesetzes
@@ -199,11 +199,11 @@ Angaben zu machen:
 
 
 (3) Die zuständige Behörde hat dem Antragsteller den Eingang des
-Antrags und der beigefügten Unterlagen unverzüglich schriftlich zu
-bestätigen. Sie holt zugleich die Stellungnahme der Zentralen Ethik-
-Kommission für Stammzellenforschung ein. Nach Eingang der
-Stellungnahme teilt sie dem Antragsteller die Stellungnahme und den
-Zeitpunkt der Beschlussfassung der Zentralen Ethik-Kommission für
+Antrags und der beigefügten Unterlagen unverzüglich schriftlich oder
+elektronisch zu bestätigen. Sie holt zugleich die Stellungnahme der
+Zentralen Ethik-Kommission für Stammzellenforschung ein. Nach Eingang
+der Stellungnahme teilt sie dem Antragsteller die Stellungnahme und
+den Zeitpunkt der Beschlussfassung der Zentralen Ethik-Kommission für
 Stammzellenforschung mit.
 
 (4) Die Genehmigung ist zu erteilen, wenn
@@ -253,11 +253,11 @@ Geschäftsbereich. Sie führt die ihr nach diesem Gesetz übertragenen
 Aufgaben als Verwaltungsaufgaben des Bundes durch und untersteht der
 Fachaufsicht des Bundesministeriums für Gesundheit.
 
-(2) Für Amtshandlungen nach diesem Gesetz sind Kosten (Gebühren und
-Auslagen) zu erheben. Das Verwaltungskostengesetz findet Anwendung.
-Von der Zahlung von Gebühren sind außer den in § 8 Abs. 1 des
-Verwaltungskostengesetzes bezeichneten Rechtsträgern die als
-gemeinnützig anerkannten Forschungseinrichtungen befreit.
+(2) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz sind Gebühren und Auslagen zu erheben. Von der Zahlung von
+Gebühren sind außer den in § 8 Absatz 1 und 2 des
+Bundesgebührengesetzes bezeichneten Rechtsträgern die als gemeinnützig
+anerkannten Forschungseinrichtungen befreit.
 
 (3) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
@@ -266,9 +266,10 @@ dabei feste Sätze oder Rahmensätze vorzusehen. Dabei ist die
 Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für die
 Gebührenschuldner angemessen zu berücksichtigen. In der
 Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine
-Amtshandlung erhoben werden kann, die nicht zu Ende geführt worden
-ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die
-Amtshandlung veranlasst hat.
+individuell zurechenbare öffentliche Leistung erhoben werden kann, die
+nicht zu Ende geführt worden ist, wenn die Gründe hierfür von
+demjenigen zu vertreten sind, der die individuell zurechenbare
+öffentliche Leistung veranlasst hat.
 
 (4) Die bei der Erfüllung von Auskunftspflichten im Rahmen des
 Genehmigungsverfahrens entstehenden eigenen Aufwendungen des

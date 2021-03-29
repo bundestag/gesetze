@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Republik Polen ü
   in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkErgVtr POL
 layout: default
-origslug: eurhi_bkergvtr_pol
+origslug: eurhiuebkergvtr_pol
 slug: eurhiuebkergvtr_pol
 
 ---

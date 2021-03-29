@@ -4,7 +4,7 @@ Title: Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Übergang d
   der Bundeswasserstraßen)
 jurabk: WaStrÜbgVtrGNtrag
 layout: default
-origslug: wastr_bgvtrgntrag
+origslug: wastruebgvtrgntrag
 slug: wastruebgvtrgntrag
 
 ---
@@ -33,7 +33,7 @@ werden.
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 50 - 51
 Die Reichsregierung und die Regierung des Landes
-Preußen              vereinbaren unter Vorbehalt der Zustimmung ihrer
+Preußen vereinbaren unter Vorbehalt der Zustimmung ihrer
 gesetzgebenden Körperschaften zu dem Staatsvertrag, betreffend den
 Übergang der Wasserstraßen von den Ländern auf das Reich, die
 nachstehenden Zusatzbestimmungen:
@@ -205,7 +205,7 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 51 - 52
 Die Reichsregierung und der Senat der Freien und Hansestadt
-Hamburg              vereinbaren unter Vorbehalt der Zustimmung ihrer
+Hamburg vereinbaren unter Vorbehalt der Zustimmung ihrer
 gesetzgebenden Körperschaften zu dem Staatsvertrag, betreffend den
 Übergang der Wasserstraßen von den Ländern auf das Reich, die
 nachfolgenden Zusatzbestimmungen:
@@ -345,10 +345,10 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 52 - 53
 Die Reichsregierung und der Senat der Freien Hansestadt
-Bremen              vereinbaren unter Vorbehalt der Zustimmung ihrer
-gesetzgebenden Körperschaften zu dem Staatsvertrag, betreffend den
-Übergang der Wasserstraßen von den Ländern auf das Reich, die
-nachfolgenden Zusatzbestimmungen:
+Bremen vereinbaren unter Vorbehalt der Zustimmung ihrer gesetzgebenden
+Körperschaften zu dem Staatsvertrag, betreffend den Übergang der
+Wasserstraßen von den Ländern auf das Reich, die nachfolgenden
+Zusatzbestimmungen:
 
 *
     *
@@ -452,10 +452,10 @@ Zusatzbestimmungen entsprechende Anwendung.
 
 Fundstelle des Originaltextes: BGBl. Teil III 94 S. 53
 Die Reichsregierung und der Senat der Freien und Hansestadt
-Lübeck              vereinbaren unter Vorbehalt der Zustimmung ihrer
-gesetzgebenden Körperschaften zu dem Staatsvertrag, betreffend den
-Übergang der Wasserstraßen von den Ländern auf das Reich, die
-nachstehende Zusatzbestimmung:
+Lübeck vereinbaren unter Vorbehalt der Zustimmung ihrer gesetzgebenden
+Körperschaften zu dem Staatsvertrag, betreffend den Übergang der
+Wasserstraßen von den Ländern auf das Reich, die nachstehende
+Zusatzbestimmung:
 
 *
     *

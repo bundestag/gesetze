@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 26.5.1994 I 1133;
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 5 G v. 11.8.2009 I 2713;
-
-Mittelbare änderung durch
-:   Art. 8 Nr. 5 G v. 30.7.2009 I 2449 ist berücksichtigt
+:   Art. 29 G v. 5.7.2017 I 2208
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -110,9 +107,9 @@ Entscheidung statt.
 geführt.
 
 (2) In das Seeschiffsregister werden die Kauffahrteischiffe und andere
-zur Seefahrt bestimmten Schiffe (Seeschiffe) eingetragen, die nach §§
-1, 2 des Flaggenrechtsgesetzes vom 8. Februar 1951 (Bundesgesetzbl. I
-S. 79) die Bundesflagge zu führen haben oder führen dürfen.
+zur Seefahrt bestimmten Schiffe (Seeschiffe) eingetragen, die nach § 1
+oder § 2 des Flaggenrechtsgesetzes die Bundesflagge zu führen haben
+oder führen dürfen.
 
 (3) In das Binnenschiffsregister werden die zur Schiffahrt auf Flüssen
 und sonstigen Binnengewässern bestimmten Schiffe (Binnenschiffe)
@@ -149,7 +146,7 @@ Niederlassung im Geltungsbereich des Grundgesetzes, so ist er
 verpflichtet, einen im Bezirk des Registergerichts wohnhaften
 Vertreter zu bestellen, der die nach §§ 9 bis 22, 62 begründeten
 Rechte und Pflichten gegenüber dem Registergericht wahrzunehmen hat.
-Dies gilt nicht in den Fällen des § 2 Abs. 2 Buchstabe b des
+Dies gilt nicht in den Fällen des § 2 Absatz 1 Nummer 1 des
 Flaggenrechtsgesetzes.
 
 
@@ -208,7 +205,7 @@ wenn das Schiff nach § 1 des Flaggenrechtsgesetzes die Bundesflagge zu
 führen hat. Dies gilt nicht für Seeschiffe, deren Rumpflänge, gemessen
 zwischen den äußersten Punkten des Vorstevens und des Hinterstevens,
 15 Meter nicht übersteigt. Von der Anmeldepflicht kann das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung durch
+Bundesministerium für Verkehr und digitale Infrastruktur durch
 Verwaltungsanordnung allgemein oder im Einzelfall Ausnahmen zulassen.
 
 (2) Zur Anmeldung eines Binnenschiffs ist der Eigentümer verpflichtet,
@@ -687,7 +684,9 @@ für das Gericht außer Zweifel gestellt ist.
 
 (3) Erklärungen und Ersuchen einer Behörde, auf Grund deren eine
 Eintragung vorgenommen werden soll, sind zu unterschreiben und mit
-Siegel oder Stempel zu versehen.
+Siegel oder Stempel zu versehen. Anstelle der Siegelung kann
+maschinell ein Abdruck des Dienstsiegels eingedruckt oder aufgedruckt
+werden.
 
 
 ### § 38
@@ -706,29 +705,32 @@ bedürfen der in § 37 Abs. 1 Satz 1 vorgeschriebenen Form.
 
 ### § 40
 
-Der Nachweis, daß zwischen Ehegatten Gütertrennung oder ein
-vertragsmäßiges Güterrecht besteht oder daß ein Gegenstand zum
-Vorbehaltsgut eines Ehegatten gehört, wird durch ein Zeugnis des
-Gerichts über die Eintragung der güterrechtlichen Verhältnisse im
-Güterrechtsregister geführt.
+Der Nachweis, dass zwischen Ehegatten oder Lebenspartnern
+Gütertrennung oder ein vertragsmäßiges Güterrecht besteht oder dass
+ein Gegenstand zum Vorbehaltsgut eines Ehegatten oder Lebenspartners
+gehört, kann durch ein Zeugnis des Gerichts über die Eintragung des
+güterrechtlichen Verhältnisses im Güterrechtsregister geführt werden.
 
 
 ### § 41
 
-(1) Der Nachweis der Erbfolge kann nur durch einen Erbschein geführt
-werden. Beruht jedoch die Erbfolge auf einer Verfügung von Todes
-wegen, die in einer öffentlichen Urkunde enthalten ist, so genügt es,
-wenn an Stelle des Erbscheins die Verfügung und die Niederschrift über
-die Eröffnung der Verfügung vorgelegt werden; erachtet das
-Registergericht die Erbfolge durch diese Urkunde nicht für
-nachgewiesen, so kann es die Vorlegung eines Erbscheins verlangen.
+(1) Der Nachweis der Erbfolge kann nur durch einen Erbschein oder ein
+Europäisches Nachlasszeugnis geführt werden. Beruht jedoch die
+Erbfolge auf einer Verfügung von Todes wegen, die in einer
+öffentlichen Urkunde enthalten ist, so genügt es, wenn an Stelle des
+Erbscheins oder des Europäischen Nachlasszeugnisses die Verfügung und
+die Niederschrift über die Eröffnung der Verfügung vorgelegt werden;
+erachtet das Registergericht die Erbfolge durch diese Urkunde nicht
+für nachgewiesen, so kann es die Vorlegung eines Erbscheins oder eines
+Europäischen Nachlasszeugnisses verlangen.
 
 (2) Das Bestehen der fortgesetzten Gütergemeinschaft sowie die
 Befugnis eines Testamentsvollstreckers zur Verfügung über einen
 Nachlaßgegenstand können nur durch die in §§ 1507, 2368 des
-Bürgerlichen Gesetzbuchs vorgesehenen Zeugnisse nachgewiesen werden;
-auf den Nachweis der Befugnis des Testamentsvollstreckers sind jedoch
-die Vorschriften des Absatzes 1 Satz 2 entsprechend anzuwenden.
+Bürgerlichen Gesetzbuchs vorgesehenen Zeugnisse oder durch ein
+Europäisches Nachlasszeugnis nachgewiesen werden; auf den Nachweis der
+Befugnis des Testamentsvollstreckers sind jedoch die Vorschriften des
+Absatzes 1 Satz 2 entsprechend anzuwenden.
 
 
 ### § 42
@@ -1323,16 +1325,14 @@ entsprechend anzuwenden.
 
 (4) Die Bundesregierung und die Landesregierungen bestimmen für ihren
 Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Akten geführt und elektronische Dokumente bei Gericht eingereicht
-werden können. Die Bundesregierung und die Landesregierungen bestimmen
-für ihren Bereich durch Rechtsverordnung die organisatorisch-
-technischen Rahmenbedingungen für die Bildung, Führung und
-Aufbewahrung der elektronischen Akten und die für die Bearbeitung der
-Dokumente geeignete Form. Die Rechtsverordnungen der Bundesregierung
-bedürfen nicht der Zustimmung des Bundesrates. Die Landesregierungen
-können die Ermächtigungen durch Rechtsverordnung auf die
-Landesjustizverwaltungen übertragen. Die Zulassung der elektronischen
-Akte und der elektronischen Form kann auf einzelne Gerichte oder
+Akten geführt werden können. Die Bundesregierung und die
+Landesregierungen bestimmen für ihren Bereich durch Rechtsverordnung
+die organisatorisch-technischen Rahmenbedingungen für die Bildung,
+Führung und Aufbewahrung der elektronischen Akten. Die
+Rechtsverordnungen der Bundesregierung bedürfen nicht der Zustimmung
+des Bundesrates. Die Landesregierungen können die Ermächtigungen durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen. Die
+Zulassung der elektronischen Akte kann auf einzelne Gerichte oder
 Verfahren beschränkt werden.
 
 
@@ -1349,11 +1349,12 @@ den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden.
 
 ### § 91
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die näheren
-Vorschriften über die Einrichtung und Führung des Schiffsregisters und
-des Schiffsbauregisters, das Verfahren in Schiffsregister- und
-Schiffsbauregistersachen und über die Schiffsurkunden zu erlassen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+näheren Vorschriften über die Einrichtung und Führung des
+Schiffsregisters und des Schiffsbauregisters, das Verfahren in
+Schiffsregister- und Schiffsbauregistersachen und über die
+Schiffsurkunden zu erlassen.
 
 
 ### § 92
@@ -1378,12 +1379,155 @@ sinngemäß. Die Genehmigung für die Einrichtung eines automatisierten
 Abrufverfahrens darf dem Bundesamt für Seeschiffahrt und Hydrographie,
 der See-Berufsgenossenschaft, Strafverfolgungsbehörden, den Gerichten
 und anderen durch Rechtsverordnung des Bundesministeriums der Justiz
-mit Zustimmung des Bundesrats zugelassenen Personen oder Stellen unter
-den Voraussetzungen des § 133 Abs. 2 Satz 3 Grundbuchordnung erteilt
-werden.
+und für Verbraucherschutz mit Zustimmung des Bundesrats zugelassenen
+Personen oder Stellen unter den Voraussetzungen des § 133 Abs. 2 Satz
+3 Grundbuchordnung erteilt werden.
 
 
 ### § 94
+
+(1) Anträge, sonstige Erklärungen sowie Nachweise über andere
+Eintragungsvoraussetzungen können dem Registergericht nach Maßgabe der
+folgenden Bestimmungen als elektronische Dokumente übermittelt werden.
+Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+
+1.  den Zeitpunkt zu bestimmen, von dem an elektronische Dokumente
+    übermittelt werden können; die Zulassung kann auf einzelne
+    Registergerichte beschränkt werden;
+
+
+2.  Einzelheiten der Datenübermittlung und -speicherung zu regeln sowie
+    Dateiformate für die zu übermittelnden elektronischen Dokumente
+    festzulegen, um die Eignung für die Bearbeitung durch das
+    Registergericht sicherzustellen;
+
+
+3.  die ausschließlich für den Empfang von in elektronischer Form
+    gestellten Eintragungsanträgen und sonstigen elektronischen Dokumenten
+    in Schiffsregister- und Schiffsbauregistersachen vorgesehene direkt
+    adressierbare Einrichtung des Registergerichts zu bestimmen; als
+    adressierbare Einrichtung des Registergerichts kann auch die
+    entsprechende Einrichtung des Grundbuchamtes desselben Gerichts für
+    den Empfang von elektronischen Dokumenten bestimmt werden;
+
+
+4.  zu bestimmen, dass Notare
+
+    a)  Dokumente elektronisch zu übermitteln haben und
+
+
+    b)  neben den elektronischen Dokumenten bestimmte darin enthaltene Angaben
+        in strukturierter maschinenlesbarer Form zu übermitteln haben;
+
+
+
+    die Verpflichtung kann auf die Übermittlung bei einzelnen
+    Registergerichten, auf einzelne Arten von Eintragungsvorgängen oder
+    auf Dokumente bestimmten Inhalts beschränkt werden;
+
+
+5.  Maßnahmen für den Fall des Auftretens technischer Störungen
+    anzuordnen.
+
+
+
+Ein Verstoß gegen eine nach Satz 2 Nummer 4 begründete Verpflichtung
+steht dem rechtswirksamen Eingang von Dokumenten beim Registergericht
+nicht entgegen.
+
+(2) Die Registerakten können elektronisch geführt werden. Die
+Landesregierungen werden ermächtigt, durch Rechtsverordnung den
+Zeitpunkt zu bestimmen, von dem an die Registerakten elektronisch
+geführt werden; die Anordnung kann auf einzelne Registergerichte oder
+auf Teile des bei einem Registergericht geführten
+Registeraktenbestands beschränkt werden.
+
+(3) Die Landesregierungen können die Ermächtigungen nach Absatz 1 Satz
+2 und Absatz 2 Satz 2 durch Rechtsverordnung auf die
+Landesjustizverwaltungen übertragen.
+
+(4) Für den elektronischen Rechtsverkehr und die elektronischen
+Registerakten gilt § 93 Satz 1 in Verbindung mit § 126 Absatz 1 Satz 2
+und Absatz 3 der Grundbuchordnung. Die Vorschriften über den
+elektronischen Rechtsverkehr und die elektronische Akte in
+Beschwerdeverfahren bleiben unberührt.
+
+(5) Die §§ 136 bis 140 der Grundbuchordnung gelten sinngemäß.
+
+
+### § 95
+
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Vorschriften zu erlassen über die Einzelheiten
+
+1.  der technischen und organisatorischen Anforderungen an die Einrichtung
+    des elektronischen Rechtsverkehrs und der elektronischen Registerakte,
+    sofern sie nicht von § 94 Absatz 1 Satz 2 Nummer 2 erfasst sind,
+
+
+2.  der Anlegung und Gestaltung der elektronischen Registerakte,
+
+
+3.  der Übertragung von in Papierform vorliegenden Schriftstücken in
+    elektronische Dokumente sowie der Übertragung elektronischer Dokumente
+    in die Papierform oder in andere Dateiformate,
+
+
+4.  der Gewährung von Einsicht in elektronische Registerakten und
+
+
+5.  der Einrichtung automatisierter Verfahren zur Übermittlung von Daten
+    aus den elektronischen Registerakten auch durch Abruf und der
+    Genehmigung hierfür.
+
+
+
+Das Bundesministerium der Justiz und für Verbraucherschutz kann in der
+Rechtsverordnung nach Satz 1 die Regelung weiterer Einzelheiten durch
+Rechtsverordnung den Landesregierungen übertragen und hierbei auch
+vorsehen, dass diese ihre Ermächtigung durch Rechtsverordnung auf die
+Landesjustizverwaltungen übertragen können.
+
+
+### § 96
+
+(1) Ist die Übernahme elektronischer Dokumente in die elektronische
+Registerakte vorübergehend nicht möglich, kann die Leitung des
+Registergerichts anordnen, dass von den Dokumenten ein Ausdruck für
+die Papierakte zu fertigen ist. Die Ausdrucke sollen in die
+elektronische Registerakte übernommen werden, sobald dies wieder
+möglich ist. § 138 Absatz 3 Satz 2 der Grundbuchordnung gilt
+entsprechend.
+
+(2) Die Landesregierungen können durch Rechtsverordnung bestimmen,
+dass
+
+1.  ein maschinell geführtes Register wieder in Papierform geführt wird,
+
+
+2.  der elektronische Rechtsverkehr eingestellt wird oder
+
+
+3.  elektronisch geführte Registerakten wieder in Papierform geführt
+    werden.
+
+
+
+Die Rechtsverordnung soll nur erlassen werden, wenn die
+Voraussetzungen des § 126 der Grundbuchordnung, auch in Verbindung mit
+§ 94 Absatz 4 Satz 1, nicht nur vorübergehend entfallen sind und in
+absehbarer Zeit nicht wiederhergestellt werden können. Satz 2 gilt
+nicht, wenn durch Rechtsverordnung nach § 94 Absatz 1 und 2 bestimmt
+wurde, dass der elektronische Rechtsverkehr und die elektronische
+Führung der Registerakten lediglich befristet zu Erprobungszwecken
+zugelassen oder angeordnet wurden. Die Wiederanordnung der
+maschinellen Registerführung sowie die Wiedereinführung des
+elektronischen Rechtsverkehrs und die Wiederanordnung der
+elektronischen Führung der Register bleiben unberührt.
+
+
+### § 97
 
 (1) Ist ein Binnenschiff vor dem Inkrafttreten des Gesetzes zur
 Änderung der Schiffsregisterordnung vom 4. Juli 1980 (BGBl. I S. 833)

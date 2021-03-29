@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1952, 553
 
 Zuletzt geändert durch
-:   Art. 82 G v. 17.12.2008 I 2586
+:   Art. 203 V v. 31.8.2015 I 1474
 
 
 ## (XXXX) Gliederung
@@ -708,7 +708,7 @@ näherer Vorschrift der §§ 23, 40 vorgelegt wird und wenn
 
 
 (2) Ein Auslandsbond ist ein Auslandsstück, wenn er sich am 1. Januar
-1945 außerhalb der Grenzen Deutschlands nach dem Stand vom 31.
+1945 außerhalb der Grenzen Deutschlands nach dem Stande vom 31.
 Dezember 1937 (Ausland) sowie außerhalb Danzigs, Memels, Österreichs
 und der am 1. Januar 1945 von Deutschland in seine Verwaltung
 einbezogenen Teile Polens und der Tschechoslowakei einschließlich des
@@ -723,7 +723,7 @@ Hauptniederlassung zur Zeit der Anmeldung im Ausland hat.
 ### § 4 Feststellungsbescheide
 
 Für einen Auslandsbond, der vernichtet ist oder der aus einem anderen
-Grund von keinem Anmeldeberechtigten zur Anerkennung vorgelegt werden
+Grunde von keinem Anmeldeberechtigten zur Anerkennung vorgelegt werden
 kann, wird vorbehaltlich des § 6 im Prüfungsverfahren ein
 Feststellungsbescheid erteilt, wenn der Auslandsbond nach § 10
 angemeldet und wenn festgestellt wird, daß der Anmelder als
@@ -816,7 +816,7 @@ Auslandsbevollmächtigten für die Bereinigung deutscher Auslandsbonds
 
 (1) Das Bundesministerium der Finanzen und das Auswärtige Amt
 bestellen im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie für jedes Begebungsland, nachdem es zugestimmt hat, einen
+Energie für jedes Begebungsland, nachdem es zugestimmt hat, einen
 Auslandsbevollmächtigten für die Bereinigung deutscher Auslandsbonds
 (Auslandsbevollmächtigter). Der Auslandsbevollmächtigte ist für alle
 Auslandsbonds des Begebungslands zuständig, für das er bestellt ist.
@@ -832,13 +832,13 @@ Anerkennung eines Auslandsbonds sind die Auslandsbevollmächtigten an
 Weisungen im Dienstaufsichtsweg nicht gebunden.
 
 (3) Das Bundesministerium der Finanzen und das Auswärtige Amt können
-im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie die Bestellung eines Auslandsbevollmächtigten aus
-wichtigen Gründen widerrufen. Sie dürfen den Widerruf nur im Benehmen
-mit dem Begebungsland aussprechen; wenn Gefahr im Verzug ist, können
-sie dem Auslandsbevollmächtigten die Amtsausübung vorläufig
-untersagen. Die Bestellung eines Auslandsbevollmächtigten ist zu
-widerrufen, wenn das Begebungsland darum nachsucht.
+im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+die Bestellung eines Auslandsbevollmächtigten aus wichtigen Gründen
+widerrufen. Sie dürfen den Widerruf nur im Benehmen mit dem
+Begebungsland aussprechen; wenn Gefahr im Verzug ist, können sie dem
+Auslandsbevollmächtigten die Amtsausübung vorläufig untersagen. Die
+Bestellung eines Auslandsbevollmächtigten ist zu widerrufen, wenn das
+Begebungsland darum nachsucht.
 
 (4) Die Auslandsbevollmächtigten können sich bei ihrer Tätigkeit des
 Beistands deutscher und ausländischer Sachverständiger, Banken und
@@ -913,11 +913,10 @@ beansprucht wird.
 (1) Die Aussteller von Auslandsbonds haben der Bankaufsichtsbehörde,
 in deren Bezirk sie ihren Sitz haben, innerhalb dreier Monate nach dem
 Inkrafttreten dieses Gesetzes, in den Fällen des § 1
-Abs. 2              innerhalb eines Monats nach Inkrafttreten der das
-Verzeichnis ergänzenden Verordnung, ein Kreditinstitut im
-Geltungsbereich dieses Gesetzes als Prüfstelle zu benennen. Ist ein
-Kreditinstitut Aussteller, so kann es sich selbst als Prüfstelle
-benennen.
+Abs. 2 innerhalb eines Monats nach Inkrafttreten der das Verzeichnis
+ergänzenden Verordnung, ein Kreditinstitut im Geltungsbereich dieses
+Gesetzes als Prüfstelle zu benennen. Ist ein Kreditinstitut
+Aussteller, so kann es sich selbst als Prüfstelle benennen.
 
 (2) Die Prüfstelle bedarf der Bestätigung durch die
 Bankaufsichtsbehörde.
@@ -954,11 +953,11 @@ deren Anerkennung sonst kenntlich gemacht worden ist.
 ### § 13 Sammelanerkennung
 
 Das Bundesministerium der Finanzen kann im Einvernehmen mit dem
-Bundesministerium der Justiz nach näherer Vorschrift der §§ 55 bis 58
-alle oder bestimmte Auslandsbonds einer Art anerkennen
-(Sammelanerkennung). Die Sammelanerkennung hat dieselbe Wirkung wie
-die Anerkennung durch die sonst nach diesem Gesetz zuständigen
-Stellen.
+Bundesministerium der Justiz und für Verbraucherschutz nach näherer
+Vorschrift der §§ 55 bis 58 alle oder bestimmte Auslandsbonds einer
+Art anerkennen (Sammelanerkennung). Die Sammelanerkennung hat dieselbe
+Wirkung wie die Anerkennung durch die sonst nach diesem Gesetz
+zuständigen Stellen.
 
 
 ### § 14 Leistungsverbot
@@ -1027,14 +1026,14 @@ Gewährung von Amtshilfe werden nicht erstattet.
 (2) Die Auslandsbevollmächtigten können die Gerichte um die Vernehmung
 von Zeugen und Sachverständigen sowie die Erhebung sonstiger Beweise
 ersuchen. Die §§ 157, 158, 159 Abs. 1 Satz 1, Abs. 2, §§ 160, 164,
-165              des Gerichtsverfassungsgesetzes gelten sinngemäß; das
-Ersuchen kann auch an die Kammer für Wertpapierbereinigung gerichtet
-werden, in deren Bezirk der Aussteller seinen Sitz hat oder die
-Amtshandlung vorgenommen werden soll. Für die Beweisaufnahme gelten
-die Vorschriften des Gesetzes über das Verfahren in Familiensachen und
-in den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend;
-das ersuchte Gericht entscheidet über die Fragen, deren Entscheidung
-sonst dem ersuchenden Gericht vorbehalten ist.
+165 des Gerichtsverfassungsgesetzes gelten sinngemäß; das Ersuchen
+kann auch an die Kammer für Wertpapierbereinigung gerichtet werden, in
+deren Bezirk der Aussteller seinen Sitz hat oder die Amtshandlung
+vorgenommen werden soll. Für die Beweisaufnahme gelten die
+Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend; das
+ersuchte Gericht entscheidet über die Fragen, deren Entscheidung sonst
+dem ersuchenden Gericht vorbehalten ist.
 
 (3) In einem Verfahren nach diesem Gesetz können die Gerichte Ersuchen
 um Rechtshilfe auch an die Kammer für Wertpapierbereinigung richten,
@@ -1070,10 +1069,10 @@ einem Auslandsbevollmächtigten oder einer Prüfstelle zu beobachten
 hat, sind gewahrt, wenn sie gegenüber einer nach Absatz 1 zuständigen
 Stelle eingehalten worden sind. Ist eine Anmeldung innerhalb der für
 sie geltenden Anmeldefristen (§ 21 Abs. 1,
-2,              § 37 Abs. 2) an eine nach Absatz 1 Satz 3 zuständige
-Stelle abgesandt worden, so sind diese Fristen auch dann gewahrt, wenn
-die Anmeldung innerhalb dreier Monate nach ihrem Ablauf bei dieser
-Stelle eingegangen ist.
+2, § 37 Abs. 2) an eine nach Absatz 1 Satz 3 zuständige Stelle
+abgesandt worden, so sind diese Fristen auch dann gewahrt, wenn die
+Anmeldung innerhalb dreier Monate nach ihrem Ablauf bei dieser Stelle
+eingegangen ist.
 
 (4) Absatz 3 gilt nicht für die Einlegung von Rechtsmitteln oder
 anderen Rechtsbehelfen und für erneute Anmeldungen nach § 21 Abs. 3,
@@ -1109,12 +1108,12 @@ Gesetzes hinzuweisen.
 (1) Ein Auslandsbond, dessen Anerkennung mit der Begründung
 beansprucht wird, daß er ein Auslandsstück (§ 3 Abs. 1 Nr. 1) sei, ist
 zur Durchführung des Prüfungsverfahrens
-innerhalb eines Jahres nach dem Stichtag (§ 19)              bei dem
-zuständigen Auslandsbevollmächtigten (§ 8 Abs. 1) schriftlich
-anzumelden. Die Anmeldung kann innerhalb weiterer zweier Jahre nach
-Ablauf der in Satz 1 bezeichneten Frist vorgenommen werden, wenn der
-Anmelder glaubhaft macht, daß eine frühere Anmeldung ohne eigene grobe
-Fahrlässigkeit unterblieben ist.
+innerhalb eines Jahres nach dem Stichtag (§ 19) bei dem zuständigen
+Auslandsbevollmächtigten (§ 8 Abs. 1) schriftlich anzumelden. Die
+Anmeldung kann innerhalb weiterer zweier Jahre nach Ablauf der in Satz
+1 bezeichneten Frist vorgenommen werden, wenn der Anmelder glaubhaft
+macht, daß eine frühere Anmeldung ohne eigene grobe Fahrlässigkeit
+unterblieben ist.
 
 (2) ...
 
@@ -1401,8 +1400,8 @@ unberührt.
 ### § 33 Anrufung eines Gerichts des Begebungslands
 
 (1) Kann der Anmelder nach dem anzuwendenden ausländischen Recht ein
-Gericht des Begebungslands zur Entscheidung darüber anrufen, ob die in
-diesem Gesetz geforderten Voraussetzungen für die Anerkennung eines
+Gericht des Begebungslandes zur Entscheidung darüber anrufen, ob die
+in diesem Gesetz geforderten Voraussetzungen für die Anerkennung eines
 angemeldeten Auslandsbonds durch den Auslandsbevollmächtigten
 vorliegen, so ist § 32 auf die über diese Frage ergehende Entscheidung
 anzuwenden, wenn
@@ -1545,8 +1544,8 @@ ist zur Durchführung des Prüfungsverfahrens bei der Prüfstelle (§ 11)
 schriftlich anzumelden.
 
 (2) Für die Anmeldung gelten die in § 21 Abs. 1,
-2              bezeichneten Fristen. Eine Fristverlängerung nach
-§ 21 Abs. 2              gilt nur für Anmeldungen nach Absatz 1 Nr. 1.
+2 bezeichneten Fristen. Eine Fristverlängerung nach
+§ 21 Abs. 2 gilt nur für Anmeldungen nach Absatz 1 Nr. 1.
 
 (3) Ist die Anerkennung eines Auslandsbonds, der bei einem
 Auslandsbevollmächtigten angemeldet worden war, durch eine nicht mehr
@@ -1873,7 +1872,7 @@ die Prüfstelle den Auslandsbond zurück oder veranlaßt seine Freigabe.
 ### § 49
 
 (1) Werden für denselben Auslandsbond sowohl die Anerkennung als auch
-die Erteilung eines Feststellungsbescheids beansprucht, so gilt
+die Erteilung eines Feststellungsbescheides beansprucht, so gilt
 folgendes:
 
 1.  Sind beide Anmeldungen bei derselben Stelle anhängig, so sollen sie zu
@@ -2015,16 +2014,16 @@ Absatz 1 verpflichtet.
 
 ### § 53 Entschädigungsansprüche aus Feststellungsbescheiden
 
-(1) Auf Grund eines Feststellungsbescheids (§§ 4, 47 Abs. 5) steht dem
-Anmelder gegen den Aussteller und solche Dritte, die als Schuldner für
-die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar
+(1) Auf Grund eines Feststellungsbescheides (§§ 4, 47 Abs. 5) steht
+dem Anmelder gegen den Aussteller und solche Dritte, die als Schuldner
+für die Ansprüche aus Auslandsbonds der betreffenden Art unmittelbar
 haften, ein Entschädigungsanspruch zu. Für den Entschädigungsanspruch
 gilt § 52 Abs. 1 Satz 2 und 3. Er kann nur geltend gemacht werden,
 nachdem der Auslandsbond, auf den sich der Feststellungsbescheid
 bezieht, nach § 50 kraftlos geworden ist oder, wenn in dem Bescheid
 kein bestimmter Auslandsbond bezeichnet ist, die für Auslandsbonds der
 betreffenden Art geltenden Anmeldefristen (§ 21 Abs. 1 Satz 2,
-Abs. 2,              § 37 Abs. 2) abgelaufen sind.
+Abs. 2, § 37 Abs. 2) abgelaufen sind.
 
 (2) Der Aussteller und die in Absatz 1 Satz 1 bezeichneten Dritten
 können verlangen, daß ihre sich aus Absatz 1 ergebenden
@@ -2038,7 +2037,7 @@ Auslandsbond nur nach seinen allgemeinen Merkmalen bezeichnet ist, im
 als der Aussteller oder die Dritten durch die Auswirkungen dieses
 Gesetzes bereichert sind.
 
-(3) Die Erteilung eines Feststellungsbescheids schließt die spätere
+(3) Die Erteilung eines Feststellungsbescheides schließt die spätere
 Anerkennung des ihm zugrunde liegenden Auslandsbonds oder die
 Geltendmachung von Entschädigungsansprüchen nach § 52 nicht aus.
 
@@ -2059,7 +2058,7 @@ wenn sie nach den sonst anzuwendenden Vorschriften dieses Gesetzes die
 Anerkennung der Bonds oder einen Feststellungsbescheid hätten
 beanspruchen können. Dies gilt nicht, soweit die Berechtigten den
 ihnen zustehenden Gegenwert bereits erhalten haben oder die
-Geltendmachung der Auslandsbonds durch sie aus einem anderen Grund
+Geltendmachung der Auslandsbonds durch sie aus einem anderen Grunde
 ausgeschlossen wäre.
 
 (2) Für die Entschädigungsansprüche gilt § 53 sinngemäß; sie dürfen
@@ -2127,8 +2126,8 @@ Entscheidung beauftragen.
 ### § 57 Entscheidung über die Sammelanerkennung
 
 (1) Das Bundesministerium der Finanzen entscheidet im Einvernehmen mit
-dem Bundesministerium der Justiz über den Antrag auf Sammelanerkennung
-nach pflichtmäßigem Ermessen.
+dem Bundesministerium der Justiz und für Verbraucherschutz über den
+Antrag auf Sammelanerkennung nach pflichtmäßigem Ermessen.
 
 (2) Auslandsbonds, die auf eine Aufforderung nach § 56 Abs. 2 als in
 Verlust geraten angezeigt worden sind, sollen in die Sammelanerkennung
@@ -2183,7 +2182,7 @@ Voraussetzungen zu belasten.
 
 (3) Die Freigabe oder Aufhebung der in den Absätzen 1 und 2
 bezeichneten Rechte und Verbindlichkeiten kann bei Zahlung oder
-Hinterlegung eines nach Absatz 1 berechneten Betrags nur verlangt
+Hinterlegung eines nach Absatz 1 berechneten Betrages nur verlangt
 werden, wenn die Zahlung oder Hinterlegung im übrigen den Bedingungen,
 die für die Auslandsbonds gelten, entspricht. Die Freigabe oder
 Aufhebung kann nicht deshalb verweigert werden, weil der Aussteller
@@ -2286,23 +2285,26 @@ eingestellt wird.
 Kammer für Wertpapierbereinigung nach § 52 Abs. 2.
 
 (5) Für eine kostenpflichtige Entscheidung der Kammer für
-Wertpapierbereinigung nach den Absätzen 2 bis 4 wird die volle Gebühr
-(§ 26              der Kostenordnung) erhoben.
+Wertpapierbereinigung nach den Absätzen 2 bis 4 wird eine Gebühr mit
+einem Gebührensatz von 1,0 nach Tabelle B des § 34 Absatz 2 des
+Gerichts- und Notarkostengesetzes erhoben.
 
 (6) Im Verfahren vor der Kammer für Wertpapierbereinigung nach § 60
-wird vom Aussteller die volle Gebühr
-(§ 26              der Kostenordnung) erhoben.
+wird vom Aussteller eine Gebühr mit einem Gebührensatz von 1,0 nach
+Tabelle B des § 34 Absatz 2 des Gerichts- und Notarkostengesetzes
+erhoben.
 
-(7) Die Gebühren im Beschwerdeverfahren bestimmen sich nach
-§ 123              der Kostenordnung. Jedoch ist in jedem Fall der
-Wert des den Gegenstand der Beschwerde bildenden Rechts für die
-Bemessung der Gebühr maßgebend.
+(7) Die Gebühren im Beschwerdeverfahren bestimmen sich nach Teil 1
+Hauptabschnitt 4 Unterabschnitt 1 des Kostenverzeichnisses zum
+Gerichts- und Notarkostengesetz. Jedoch ist in jedem Falle der Wert
+des den Gegenstand der Beschwerde bildenden Rechts für die Bemessung
+der Gebühr maßgebend.
 
 (8) Bei Anmeldungen, mit denen die Anerkennung eines
 Rückerstattungsstücks (§ 3 Abs. 1 Nr. 3) oder ein
 Feststellungsbescheid für einen bis zum 8. Mai 1945 einschließlich
 entzogenen Auslandsbond beansprucht wird, ist der Anmelder in keinem
-Fall zur Zahlung von Kosten verpflichtet.
+Falle zur Zahlung von Kosten verpflichtet.
 
 (9) Der Geschäftswert bestimmt sich nach den Verhältnissen am Stichtag
 (§ 19), im Verfahren nach § 60 nach den Verhältnissen zur Zeit des
@@ -2535,13 +2537,13 @@ Sitz der Prüfstelle.
 
 ### § 74 Auslandsbonds des Deutschen Reichs und des ehemaligen Landes Preußen
 
-(1) Als Aussteller der vom ehemaligen Land Preußen ausgestellten
+(1) Als Aussteller der vom ehemaligen Lande Preußen ausgestellten
 Auslandsbonds gilt für die Zwecke dieses Gesetzes die Bundesrepublik
 Deutschland, solange nicht etwas anderes bestimmt ist.
 
 (2) Prüfstelle für Auslandsbonds, die vom Deutschen Reich oder von dem
-ehemaligen Land Preußen ausgestellt worden sind, ist das Bundesamt für
-zentrale Dienste und offene Vermögensfragen; die Befugnisse der
+ehemaligen Lande Preußen ausgestellt worden sind, ist das Bundesamt
+für zentrale Dienste und offene Vermögensfragen; die Befugnisse der
 Bankaufsichtsbehörde werden vom Bundesministerium der Finanzen
 wahrgenommen. Die Zuständigkeit der Kammer für Wertpapierbereinigung
 bestimmt sich nach dem Sitz des Bundesamts für zentrale Dienste und
@@ -2567,33 +2569,32 @@ Niederlassung hat.
 
 (2) Durch Vorschriften nach Absatz 1 dürfen weder die Voraussetzungen
 für die Anerkennung eines Auslandsbonds oder die Erteilung eines
-Feststellungsbescheids geändert noch die von den Beteiligten nach
+Feststellungsbescheides geändert noch die von den Beteiligten nach
 diesem Gesetz zu ergreifenden Maßnahmen erschwert oder nach diesem
 Gesetz gegebene Rechtsbehelfe ausgeschlossen oder eingeschränkt
 werden.
 
 (3) Rechtsverordnungen nach
-§ 1 Abs. 2,              § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, Abs. 6, § 9
-Abs. 1, 4 und 5,
-§ 21 Abs. 2,              § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 58,
-§ 76 Abs. 1 bedürfen nicht der Zustimmung des Bundesrates.
+§ 1 Abs. 2, § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, Abs. 6, § 9 Abs. 1, 4
+und 5,
+§ 21 Abs. 2, § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 58, § 76 Abs. 1
+bedürfen nicht der Zustimmung des Bundesrates.
 
 
 ### § 77 Mitwirkung des Begebungslands
 
 (1) Verordnungen nach § 5 Abs. 3, 4, § 8 Abs. 1 Satz 3, § 9 Abs. 1, 4
 und 5,
-§ 21 Abs. 2,              § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 76
-Abs. 1 sollen nur erlassen werden, nachdem das beteiligte
-Begebungsland sich mit der beabsichtigten Regelung einverstanden
-erklärt hat. Dasselbe gilt von einer Änderung oder Aufhebung der
-bezeichneten Verordnungen. Weitergehende Verpflichtungen aus einem
-Abkommen mit dem Begebungsland über den Erlaß und Inhalt der
-Verordnungen bleiben unberührt.
+§ 21 Abs. 2, § 23 Abs. 5, § 24 Abs. 4, § 35 Abs. 2, § 76 Abs. 1 sollen
+nur erlassen werden, nachdem das beteiligte Begebungsland sich mit der
+beabsichtigten Regelung einverstanden erklärt hat. Dasselbe gilt von
+einer Änderung oder Aufhebung der bezeichneten Verordnungen.
+Weitergehende Verpflichtungen aus einem Abkommen mit dem Begebungsland
+über den Erlaß und Inhalt der Verordnungen bleiben unberührt.
 
 (2) Für Maßnahmen, die nach diesem Gesetz der Mitwirkung des
-Begebungslands bedürfen, genügt die Mitwirkung von Vereinigungen des
-Begebungslands, welche die Interessen der Gläubiger von deutschen
+Begebungslandes bedürfen, genügt die Mitwirkung von Vereinigungen des
+Begebungslandes, welche die Interessen der Gläubiger von deutschen
 Auslandsbonds wahrnehmen, wenn die Regierung des als Begebungsland
 geltenden Staates zustimmt. Die Zustimmung kann als erteilt angesehen
 werden, wenn die Regierung innerhalb dreier Monate nach Mitteilung der
@@ -2627,8 +2628,9 @@ Ergänzung des Wertpapierbereinigungsgesetzes vom 12. Juli 1951
 Dieses Gesetz tritt am ersten Tage des auf die Verkündung folgenden
 Kalendermonats in Kraft.
 
+(§ 1 Abs. 1)
 
-### Anlage 1 (§ 1 Abs. 1) Verzeichnis der Auslandsbonds
+### Anlage 1 Verzeichnis der Auslandsbonds
 
 (Fundstelle: BGBl. Teil III 4139 - 2, S. 118 - 128;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2648,8 +2650,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **1**
 
-    *   **Deutsche äußere Anleihe 1924**                        (Dawes-
-        Anleihe) - Schuldverschreibungen auf den Inhaber
+    *   **Deutsche äußere Anleihe 1924** (Dawes-Anleihe) -
+        Schuldverschreibungen auf den Inhaber
 
     *
     *
@@ -2746,8 +2748,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **2**
 
-    *   **6%ige Äußere Anleihe des Deutschen Reichs von 1930**
-        (Kreuger-Anleihe) - Goldschuldverschreibungen mit 50jähriger Laufzeit
+    *   **6%ige Äußere Anleihe des Deutschen Reichs von 1930** (Kreuger-
+        Anleihe) - Goldschuldverschreibungen mit 50jähriger Laufzeit
 
     *   $
 
@@ -2756,8 +2758,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **3**
 
-    *   **Internationale 5 1/2%ige Anleihe des Deutschen Reichs 1930**
-        (Young-Anleihe) - Schuldverschreibungen auf den Inhaber
+    *   **Internationale 5 1/2%ige Anleihe des Deutschen Reichs 1930** (Young-
+        Anleihe) - Schuldverschreibungen auf den Inhaber
 
     *
     *
@@ -2847,9 +2849,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **4**
 
-    *   **6 1/2%ige Preußische äußere Anleihe 1926**
-        The Free State of Prussia (Freistaat Preußen) - 6 1/2% Sinking Fund
-        Gold Bonds - External Loan of 1926
+    *   **6 1/2%ige Preußische äußere Anleihe 1926** The Free State of Prussia
+        (Freistaat Preußen) - 6 1/2% Sinking Fund Gold Bonds - External Loan
+        of 1926
 
     *   $
 
@@ -2858,9 +2860,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **5**
 
-    *   **6%ige Preußische äußere Anleihe 1927**                        The
-        Free State of Prussia (Freistaat Preußen) - 6% Sinking Fund Gold Bonds
-        - External Loan 1927
+    *   **6%ige Preußische äußere Anleihe 1927** The Free State of Prussia
+        (Freistaat Preußen) - 6% Sinking Fund Gold Bonds - External Loan 1927
 
     *   $
 

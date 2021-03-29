@@ -45,12 +45,12 @@ Das Züchten und das Halten von sowie das Arbeiten mit folgenden
 Schadorganismen sind verboten:
 
 1.  Kartoffelkrebs [Schadorganismus:
-    Synchytrium endobioticum                    (Schilb.) Perc.],
+    Synchytrium endobioticum (Schilb.) Perc.],
 
 
 2.  Kartoffelzystennematoden [Schadorganismen:
-    Globodera rostochiensis                    (Wollenweber) Behrens und
-    G. pallida                    (Stone) Behrens].
+    Globodera rostochiensis (Wollenweber) Behrens und
+    G. pallida (Stone) Behrens].
 
 
 
@@ -396,8 +396,8 @@ das Verzeichnis eingetragen, so dürfen:
 
 
 2.  keine Pflanzen nach Anhang I der Richtlinie
-    2007/33/EG,                    die zum Wiederanpflanzen bestimmt sind,
-    angebaut, eingeschlagen oder gelagert werden.
+    2007/33/EG, die zum Wiederanpflanzen bestimmt sind, angebaut,
+    eingeschlagen oder gelagert werden.
 
 
 
@@ -597,8 +597,9 @@ durch Artikel 3 § 9 des Gesetzes vom 13. Dezember 2007 (BGBl. I S.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 12)
 
-### Anlage 1 (zu § 12) Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
+### Anlage 1 Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm
 
 (Fundstelle: BGBl. I 2010, 1388)
 
@@ -628,8 +629,9 @@ Geeignete Maßnahmen für das amtliche Bekämpfungsprogramm sind:
 
 
 
+(zu § 14)
 
-### Anlage 2 (zu § 14) Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
+### Anlage 2 Anerkannte Behandlungs- oder Beseitigungsverfahren für Resterden aus der Kartoffelverarbeitung
 
 (Fundstelle: BGBl. I 2010, 1388)
 

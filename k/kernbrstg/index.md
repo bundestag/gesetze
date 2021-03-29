@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1804
 
+Geändert durch
+:   Art. 240 V v. 31.8.2015 I 1474
+
 
 ## § 1 Steuergegenstand, Steuergebiet
 
@@ -245,8 +248,8 @@ Zustimmung des Bundesrates bedarf,
 
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-und dem Bundesministerium für Umwelt, Naturschutz und
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie und
+dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit zur Sicherung des Steueraufkommens und der
 Gleichmäßigkeit der Besteuerung durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, Regelungen zur Ermittlung des in

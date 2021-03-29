@@ -18,8 +18,10 @@ Fundstelle
 Geändert durch
 :   Art. 67 Nr. 3 G v. 21.12.2000 I 1983
 
+Zehntes Buch (X)
+Verwaltungsverfahren, Schutz der Sozialdaten,
 
-## Art I - Zehntes Buch (X) Verwaltungsverfahren, Schutz der Sozialdaten, Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
+## Art I - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten
 
 
 
@@ -27,7 +29,7 @@ Geändert durch
 
 
 
-### Erster Abschnitt -
+### Erster Abschnitt - 
 
 
 
@@ -57,8 +59,7 @@ Geändert durch
 (1) Dieses Gesetz tritt am 1. Januar 1981 in Kraft, soweit in den
 Absätzen 2 bis 7 nichts anderes bestimmt ist.
 Mit dem Inkrafttreten treten alle entgegenstehenden oder
-gleichlautenden Vorschriften außer Kraft, insbesondere
-...
+gleichlautenden Vorschriften außer Kraft, insbesondere ...
 
 (2) Artikel I §§ 44 bis 49 ist erstmals anzuwenden, wenn nach dem 31.
 Dezember 1980 ein Verwaltungsakt aufgehoben wird. Dies gilt auch dann,

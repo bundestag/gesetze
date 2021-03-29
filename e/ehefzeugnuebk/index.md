@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Ausstellung von Ehefähigkeitszeugnissen
 jurabk: EhefZeugnÜbk
 layout: default
-origslug: ehefzeugn_bk
+origslug: ehefzeugnuebk
 slug: ehefzeugnuebk
 
 ---

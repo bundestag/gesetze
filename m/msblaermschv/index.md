@@ -2,7 +2,7 @@
 Title: Magnetschwebebahn-Lärmschutzverordnung
 jurabk: MsbLärmSchV
 layout: default
-origslug: msbl_rmschv
+origslug: msblaermschv
 slug: msblaermschv
 
 ---

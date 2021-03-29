@@ -31,9 +31,9 @@ Zustimmung des Bundesrates:
 ## § 1 Antrag, zuständige Behörde
 
 (1) Entschädigung nach
-§ 10 Abs. 1              und Härteausgleich nach
-§ 11 Abs. 1 des Energiesicherungsgesetzes (Gesetz)              werden
-auf Antrag durch die zuständige Behörde festgesetzt.
+§ 10 Abs. 1 und Härteausgleich nach
+§ 11 Abs. 1 des Energiesicherungsgesetzes (Gesetz) werden auf Antrag
+durch die zuständige Behörde festgesetzt.
 
 (2) Zuständige Behörde ist die Behörde, die eine Maßnahme auf Grund
 einer nach dem Gesetz erlassenen Rechtsverordnung angeordnet hat.
@@ -261,7 +261,7 @@ der Widerruf ausgesprochen wird, zu verbinden.
 
 (3) Auf das Verfahren einschließlich der Zwangsvollstreckung sind die
 Vorschriften der §§ 3 bis
-12              sinngemäß anzuwenden.
+12 sinngemäß anzuwenden.
 
 
 ## § 14

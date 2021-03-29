@@ -16,2004 +16,13 @@ Fundstelle
 :   BGBl I: 1980, 1310
 
 Zuletzt geändert durch
-:   Art. 15a G v. 31.7.2009 I 2585
+:   Art. 2 Abs. 4 G v. 20.7.2017 I 2808
 
 
 ## Eingangsformel
 
 Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
-
-
-## Inhaltsverzeichnis
-
-
-*    *   Erster Teil
-
-    *
-
-*    *
-    *   Einleitende Bestimmungen
-
-    *
-
-*    *
-    *
-    *
-    *   Zweck des Gesetzes
-
-    *   § 1
-
-
-*    *
-    *
-    *
-    *   Sachlicher und räumlicher Geltungsbereich
-
-    *   § 2
-
-
-*    *
-    *
-    *
-    *   Bergfreie und grundeigene Bodenschätze
-
-    *   § 3
-
-
-*    *
-    *
-    *
-    *   Begriffsbestimmungen
-
-    *   § 4
-
-
-*    *
-    *
-    *
-    *   Anwendung des Verwaltungsverfahrensgesetzes und des
-        Verwaltungskostengesetzes
-
-    *   § 5
-
-
-*    *   Zweiter Teil
-
-    *
-
-*    *
-    *   Bergbauberechtigungen
-
-
-*    *
-    *   **Erstes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Bergfreie Bodenschätze**
-
-    *
-
-*    *
-    *
-    *   Erster Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Erlaubnis, Bewilligung, Bergwerkseigentum
-
-    *
-
-*    *
-    *
-    *
-    *   Grundsatz
-
-    *   § 6
-
-
-*    *
-    *
-    *
-    *   Erlaubnis
-
-    *   § 7
-
-
-*    *
-    *
-    *
-    *   Bewilligung
-
-    *   § 8
-
-
-*    *
-    *
-    *
-    *   Bergwerkseigentum
-
-    *   § 9
-
-
-*    *
-    *
-    *
-    *   Antrag
-
-    *   § 10
-
-
-*    *
-    *
-    *
-    *   Versagung der Erlaubnis
-
-    *   § 11
-
-
-*    *
-    *
-    *
-    *   Versagung der Bewilligung
-
-    *   § 12
-
-
-*    *
-    *
-    *
-    *   Versagung der Verleihung von Bergwerkseigentum
-
-    *   § 13
-
-
-*    *
-    *
-    *
-    *   Vorrang
-
-    *   § 14
-
-
-*    *
-    *
-    *
-    *   Beteiligung anderer Behörden
-
-    *   § 15
-
-
-*    *
-    *
-    *
-    *   Form, Inhalt und Nebenbestimmungen
-
-    *   § 16
-
-
-*    *
-    *
-    *
-    *   Entstehung des Bergwerkseigentums
-
-    *   § 17
-
-
-*    *
-    *
-    *
-    *   Widerruf
-
-    *   § 18
-
-
-*    *
-    *
-    *
-    *   Aufhebung der Erlaubnis und Bewilligung
-
-    *   § 19
-
-
-*    *
-    *
-    *
-    *   Aufhebung von Bergwerkseigentum
-
-    *   § 20
-
-
-*    *
-    *
-    *
-    *   Beteiligung an der Aufsuchung
-
-    *   § 21
-
-
-*    *
-    *
-    *
-    *   Übertragung und Übergang der Erlaubnis und Bewilligung
-
-    *   § 22
-
-
-*    *
-    *
-    *
-    *   Veräußerung von Bergwerkseigentum
-
-    *   § 23
-
-
-*    *
-    *
-    *   Zweiter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Vereinigung, Teilung und Austausch von Bergwerkseigentum
-
-    *
-
-*    *
-    *
-    *
-    *   Zulässigkeit der Vereinigung
-
-    *   § 24
-
-
-*    *
-    *
-    *
-    *   Voraussetzungen der Vereinigung
-
-    *   § 25
-
-
-*    *
-    *
-    *
-    *   Genehmigung der Vereinigung, Berechtsamsurkunde
-
-    *   § 26
-
-
-*    *
-    *
-    *
-    *   Wirkung der Vereinigung
-
-    *   § 27
-
-
-*    *
-    *
-    *
-    *   Teilung
-
-    *   § 28
-
-
-*    *
-    *
-    *
-    *   Austausch
-
-    *   § 29
-
-
-*    *
-    *
-    *   Dritter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Feldes- und Förderabgabe
-
-    *
-
-*    *
-    *
-    *
-    *   Feldesabgabe
-
-    *   § 30
-
-
-*    *
-    *
-    *
-    *   Förderabgabe
-
-    *   § 31
-
-
-*    *
-    *
-    *
-    *   Feststellung, Erhebung und Änderung der Feldes- und Förderabgabe
-
-    *   § 32
-
-
-*    *
-    *
-    *   Vierter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Fundanzeige
-
-    *
-
-*    *
-    *
-    *
-    *   Anzeige und Entschädigung
-
-    *   § 33
-
-
-*    *
-    *   **Zweites Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Grundeigene Bodenschätze**
-
-    *
-
-*    *
-    *
-    *
-    *   Inhalt der Befugnis zur Aufsuchung und Gewinnung grundeigener
-        Bodenschätze
-
-    *   § 34
-
-
-*    *
-    *   **Drittes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Zulegung**
-
-    *
-
-*    *
-    *
-    *
-    *   Voraussetzungen
-
-    *   § 35
-
-
-*    *
-    *
-    *
-    *   Verfahren
-
-    *   § 36
-
-
-*    *
-    *
-    *
-    *   Entschädigung
-
-    *   § 37
-
-
-*    *
-    *
-    *
-    *   Inhalt der Zulegung, Aufhebung, Förderabgabe
-
-    *   § 38
-
-
-*    *   Dritter Teil
-
-    *
-
-*    *
-    *   Aufsuchung, Gewinnung und Aufbereitung
-
-    *
-
-*    *
-    *   **Erstes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Allgemeine Vorschriften über die Aufsuchung und Gewinnung**
-
-    *
-
-*    *
-    *
-    *   Erster Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Aufsuchung
-
-    *
-
-*    *
-    *
-    *
-    *   Einigung mit dem Grundeigentümer, Zustimmung anderer Behörden,
-        Entschädigung
-
-    *   § 39
-
-
-*    *
-    *
-    *
-    *   Streitentscheidung
-
-    *   § 40
-
-
-*    *
-    *
-    *
-    *   Gewinnung von Bodenschätzen bei der Aufsuchung
-
-    *   § 41
-
-
-*    *
-    *
-    *   Zweiter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Gewinnung
-
-    *
-
-*    *
-    *
-    *
-    *   Mitgewinnung von Bodenschätzen bei der Gewinnung bergfreier
-        Bodenschätze
-
-    *   § 42
-
-
-*    *
-    *
-    *
-    *   Mitgewinnung von Bodenschätzen bei der Gewinnung grundeigener
-        Bodenschätze
-
-    *   § 43
-
-
-*    *
-    *
-    *
-    *   Hilfsbaurecht
-
-    *   § 44
-
-
-*    *
-    *
-    *
-    *   Mitgewinnung von Bodenschätzen bei Anlegung von Hilfsbauen
-
-    *   § 45
-
-
-*    *
-    *
-    *
-    *   Hilfsbau bei Bergwerkseigentum
-
-    *   § 46
-
-
-*    *
-    *
-    *
-    *   Benutzung fremder Grubenbaue
-
-    *   § 47
-
-
-*    *
-    *
-    *   Dritter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Verbote und Beschränkungen
-
-    *
-
-*    *
-    *
-    *
-    *   Allgemeine Verbote und Beschränkungen
-
-    *   § 48
-
-
-*    *
-    *
-    *
-    *   Beschränkung der Aufsuchung auf dem Festlandsockel und innerhalb der
-        Küstengewässer
-
-    *   § 49
-
-
-*    *
-    *   **Zweites Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Anzeige, Betriebsplan**
-
-    *
-
-*    *
-    *
-    *
-    *   Anzeige
-
-    *   § 50
-
-
-*    *
-    *
-    *
-    *   Betriebsplanpflicht
-
-    *   § 51
-
-
-*    *
-    *
-    *
-    *   Betriebspläne für die Errichtung und Führung des Betriebes
-
-    *   § 52
-
-
-*    *
-    *
-    *
-    *   Betriebsplan für die Einstellung des Betriebes, Betriebschronik
-
-    *   § 53
-
-
-*    *
-    *
-    *
-    *   Zulassungsverfahren
-
-    *   § 54
-
-
-*    *
-    *
-    *
-    *   Zulassung des Betriebsplanes
-
-    *   § 55
-
-
-*    *
-    *
-    *
-    *   Form und Inhalt der Zulassung, Sicherheitsleistung
-
-    *   § 56
-
-
-*    *
-    *
-    *
-    *   Abweichungen von einem zugelassenen Betriebsplan
-
-    *   § 57
-
-
-*    *
-    *   **Drittes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Verantwortliche Personen**
-
-    *
-
-*    *
-    *
-    *
-    *   Personenkreis
-
-    *   § 58
-
-
-*    *
-    *
-    *
-    *   Beschäftigung verantwortlicher Personen
-
-    *   § 59
-
-
-*    *
-    *
-    *
-    *   Form der Bestellung und Abberufung verantwortlicher Personen,
-        Namhaftmachung
-
-    *   § 60
-
-
-*    *
-    *
-    *
-    *   Allgemeine Pflichten
-
-    *   § 61
-
-
-*    *
-    *
-    *
-    *   Übertragbarkeit bestimmter Pflichten und Befugnisse
-
-    *   § 62
-
-
-*    *
-    *   **Viertes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Sonstige Bestimmungen für den Betrieb**
-
-    *
-
-*    *
-    *
-    *
-    *   Rißwerk
-
-    *   § 63
-
-
-*    *
-    *
-    *
-    *   Markscheider
-
-    *   § 64
-
-
-*    *
-    *
-    *
-    *   (weggefallen)
-
-    *   § 64a
-
-
-*    *   Vierter Teil
-
-    *
-
-*    *
-    *   Ermächtigungen zum Erlaß von Bergverordnungen
-
-    *
-
-*    *
-    *
-    *
-    *   Anzeige, Genehmigung, allgemeine Zulassung, Prüfung
-
-    *   § 65
-
-
-*    *
-    *
-    *
-    *   Schutzmaßnahmen, Wiedernutzbarmachung, Fachkunde
-
-    *   § 66
-
-
-*    *
-    *
-    *
-    *   Technische und statistische Unterlagen, Markscheidewesen
-
-    *   § 67
-
-
-*    *
-    *
-    *
-    *   Erlaß von Bergverordnungen
-
-    *   § 68
-
-
-*    *   Fünfter Teil
-
-    *
-
-*    *
-    *   Bergaufsicht
-
-    *
-
-*    *
-    *
-    *
-    *   Allgemeine Aufsicht
-
-    *   § 69
-
-
-*    *
-    *
-    *
-    *   Allgemeine Aufsichtsbefugnisse, Auskunfts- und Duldungspflichten
-
-    *   § 70
-
-
-*    *
-    *
-    *
-    *   Allgemeine Anordnungsbefugnis
-
-    *   § 71
-
-
-*    *
-    *
-    *
-    *   Verhinderung unerlaubter Tätigkeiten, Sicherstellung
-
-    *   § 72
-
-
-*    *
-    *
-    *
-    *   Untersagung der Beschäftigung verantwortlicher Personen
-
-    *   § 73
-
-
-*    *
-    *
-    *
-    *   Hilfeleistung, Anzeigepflicht
-
-    *   § 74
-
-
-*    *   Sechster Teil
-
-    *
-
-*    *
-    *   Berechtsamsbuch, Berechtsamskarte
-
-    *
-
-*    *
-    *
-    *
-    *   Anlegung und Führung des Berechtsamsbuchs und der Berechtsamskarte
-
-    *   § 75
-
-
-*    *
-    *
-    *
-    *   Einsicht
-
-    *   § 76
-
-
-*    *   Siebenter Teil
-
-    *
-
-*    *
-    *   Bergbau und Grundbesitz, öffentliche Verkehrsanlagen
-
-    *
-
-*    *
-    *   **Erstes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Grundabtretung**
-
-    *
-
-*    *
-    *
-    *   Erster Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Zulässigkeit und Voraussetzungen der Grundabtretung
-
-    *
-
-*    *
-    *
-    *
-    *   Zweck der Grundabtretung
-
-    *   § 77
-
-
-*    *
-    *
-    *
-    *   Gegenstand der Grundabtretung
-
-    *   § 78
-
-
-*    *
-    *
-    *
-    *   Voraussetzungen für die Zulässigkeit der Grundabtretung
-
-    *   § 79
-
-
-*    *
-    *
-    *
-    *   Grundabtretungsbegünstigter und -pflichtiger
-
-    *   § 80
-
-
-*    *
-    *
-    *
-    *   Umfang der Grundabtretung
-
-    *   § 81
-
-
-*    *
-    *
-    *
-    *   Ausdehnung der Grundabtretung
-
-    *   § 82
-
-
-*    *
-    *
-    *
-    *   Sinngemäße Anwendung von Vorschriften
-
-    *   § 83
-
-
-*    *
-    *
-    *   Zweiter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Entschädigung
-
-    *
-
-*    *
-    *
-    *
-    *   Entschädigungsgrundsätze
-
-    *   § 84
-
-
-*    *
-    *
-    *
-    *   Entschädigung für den Rechtsverlust
-
-    *   § 85
-
-
-*    *
-    *
-    *
-    *   Entschädigung für andere Vermögensnachteile, Mitverschulden
-
-    *   § 86
-
-
-*    *
-    *
-    *
-    *   Behandlung der Rechte der Nebenberechtigten
-
-    *   § 87
-
-
-*    *
-    *
-    *
-    *   Schuldübergang bei Entziehung des Eigentums an Grundstücken
-
-    *   § 88
-
-
-*    *
-    *
-    *
-    *   Entschädigungsleistung
-
-    *   § 89
-
-
-*    *
-    *
-    *
-    *   Wertänderungen, Veränderungen, Begründung neuer Rechtsverhältnisse
-
-    *   § 90
-
-
-*    *
-    *
-    *   Dritter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Vorabentscheidung, Ausführung und Rückgängigmachen der Grundabtretung
-
-    *
-
-*    *
-    *
-    *
-    *   Vorabentscheidung
-
-    *   § 91
-
-
-*    *
-    *
-    *
-    *   Ausführung der Grundabtretung
-
-    *   § 92
-
-
-*    *
-    *
-    *
-    *   Hinterlegung
-
-    *   § 93
-
-
-*    *
-    *
-    *
-    *   Geltendmachung der Rechte an der Hinterlegung, Verteilungsverfahren
-
-    *   § 94
-
-
-*    *
-    *
-    *
-    *   Lauf der Verwendungsfrist
-
-    *   § 95
-
-
-*    *
-    *
-    *
-    *   Aufhebung der Grundabtretung
-
-    *   § 96
-
-
-*    *
-    *
-    *   Vierter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Vorzeitige Besitzeinweisung
-
-    *
-
-*    *
-    *
-    *
-    *   Voraussetzungen
-
-    *   § 97
-
-
-*    *
-    *
-    *
-    *   Besitzeinweisungsentschädigung
-
-    *   § 98
-
-
-*    *
-    *
-    *
-    *   Zustandsfeststellung
-
-    *   § 99
-
-
-*    *
-    *
-    *
-    *   Wirksamwerden und Rechtsfolgen der vorzeitigen Besitzeinweisung,
-        Sicherheitsleistung
-
-    *   § 100
-
-
-*    *
-    *
-    *
-    *   Aufhebung und Änderung der vorzeitigen Besitzeinweisung
-
-    *   § 101
-
-
-*    *
-    *
-    *
-    *   Entschädigung bei Aufhebung oder Änderung der vorzeitigen
-        Besitzeinweisung
-
-    *   § 102
-
-
-*    *
-    *
-    *   Fünfter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Kosten, Zwangsvollstreckung, Verfahren
-
-    *
-
-*    *
-    *
-    *
-    *   Kosten
-
-    *   § 103
-
-
-*    *
-    *
-    *
-    *   Vollstreckbarer Titel
-
-    *   § 104
-
-
-*    *
-    *
-    *
-    *   Verfahren
-
-    *   § 105
-
-
-*    *
-    *
-    *
-    *   Benachrichtigungen
-
-    *   § 106
-
-
-*    *
-    *   **Zweites Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Baubeschränkungen**
-
-    *
-
-*    *
-    *
-    *
-    *   Festsetzung von Baubeschränkungsgebieten
-
-    *   § 107
-
-
-*    *
-    *
-    *
-    *   Wirkung der Festsetzung
-
-    *   § 108
-
-
-*    *
-    *
-    *
-    *   Entschädigung
-
-    *   § 109
-
-
-*    *
-    *   **Drittes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Bergschaden**
-
-    *
-
-*    *
-    *
-    *   Erster Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Anpassung
-
-    *
-
-*    *
-    *
-    *
-    *   Anpassungspflicht
-
-    *   § 110
-
-
-*    *
-    *
-    *
-    *   Sicherungsmaßnahmen
-
-    *   § 111
-
-
-*    *
-    *
-    *
-    *   Verlust des Ersatzanspruchs
-
-    *   § 112
-
-
-*    *
-    *
-    *
-    *   Bauwarnung
-
-    *   § 113
-
-
-*    *
-    *
-    *   Zweiter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Haftung für Bergschäden
-
-    *
-
-*    *
-    *
-    *
-    *   Erster Unterabschnitt
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   Allgemeine Bestimmungen
-
-    *
-
-*    *
-    *
-    *
-    *   Bergschaden
-
-    *   § 114
-
-
-*    *
-    *
-    *
-    *   Ersatzpflicht des Unternehmers
-
-    *   § 115
-
-
-*    *
-    *
-    *
-    *   Ersatzpflicht des Bergbauberechtigten
-
-    *   § 116
-
-
-*    *
-    *
-    *
-    *   Umfang der Ersatzpflicht, Verjährung, Rechte Dritter
-
-    *   § 117
-
-
-*    *
-    *
-    *
-    *   Mitwirkendes Verschulden
-
-    *   § 118
-
-
-*    *
-    *
-    *
-    *   Mitwirkung eines Dritten
-
-    *   § 119
-
-
-*    *
-    *
-    *
-    *   Bergschadensvermutung
-
-    *   § 120
-
-
-*    *
-    *
-    *
-    *   Verhältnis zu anderen Vorschriften
-
-    *   § 121
-
-
-*    *
-    *
-    *
-    *   Zweiter Unterabschnitt
-
-    *
-
-*    *
-    *
-    *
-    *
-    *   Bergschadensausfallkasse
-
-    *
-
-*    *
-    *
-    *
-    *   Ermächtigung
-
-    *   § 122
-
-
-*    *
-    *
-    *
-    *   Durchführungsverordnung
-
-    *   § 123
-
-
-*    *
-    *
-    *   Dritter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Bergbau und öffentliche Verkehrsanlagen
-
-    *
-
-*    *
-    *
-    *
-    *   Öffentliche Verkehrsanlagen
-
-    *   § 124
-
-
-*    *
-    *
-    *   Vierter Abschnitt
-
-    *
-
-*    *
-    *
-    *
-    *   Beobachtung der Oberfläche
-
-    *
-
-*    *
-    *
-    *
-    *   Messungen
-
-    *   § 125
-
-
-*    *   Achter Teil
-
-    *
-
-*    *
-    *   Sonstige Tätigkeiten und Einrichtungen
-
-    *
-
-*    *
-    *
-    *
-    *   Untergrundspeicherung
-
-    *   § 126
-
-
-*    *
-    *
-    *
-    *   Bohrungen
-
-    *   § 127
-
-
-*    *
-    *
-    *
-    *   Alte Halden
-
-    *   § 128
-
-
-*    *
-    *
-    *
-    *   Versuchsgruben, Bergbauversuchsanstalten
-
-    *   § 129
-
-
-*    *
-    *
-    *
-    *   (weggefallen)
-
-    *   § 130
-
-
-*    *
-    *
-    *
-    *   Hauptstellen für das Grubenrettungswesen
-
-    *   § 131
-
-
-*    *   Neunter Teil
-
-    *
-
-*    *
-    *   Besondere Vorschriften für den Festlandsockel
-
-    *
-
-*    *
-    *
-    *
-    *   Forschungshandlungen
-
-    *   § 132
-
-
-*    *
-    *
-    *
-    *   Unterwasserkabel und Transit-Rohrleitungen
-
-    *   § 133
-
-
-*    *
-    *
-    *
-    *   Überwachung und Vollziehung von Verwaltungsakten, Zusammenwirken
-
-    *   § 134
-
-
-*    *
-    *
-    *
-    *   Kostenermächtigung
-
-    *   § 135
-
-
-*    *
-    *
-    *
-    *   Zuständigkeiten für sonstige Verwaltungsaufgaben
-
-    *   § 136
-
-
-*    *
-    *
-    *
-    *   Übergangsregelung
-
-    *   § 137
-
-
-*    *   Zehnter Teil
-
-    *
-
-*    *
-    *   Bundesprüfanstalt, Sachverständigenausschuß, Durchführung
-
-    *
-
-*    *
-    *   **Erstes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Bundesprüfanstalt für den Bergbau**
-
-    *
-
-*    *
-    *
-    *
-    *   Errichtung
-
-    *   § 138
-
-
-*    *
-    *
-    *
-    *   Aufgaben
-
-    *   § 139
-
-
-*    *
-    *
-    *
-    *   Inanspruchnahme, Gebühren
-
-    *   § 140
-
-
-*    *
-    *   **Zweites Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Sachverständigenausschuß, Durchführung**
-
-    *
-
-*    *
-    *
-    *
-    *   **Sachverständigenausschuß Bergbau**
-
-    *   § 141
-
-
-*    *
-    *
-    *
-    *   Zuständige Behörden
-
-    *   § 142
-
-
-*    *
-    *
-    *
-    *   Verwaltungsvorschriften
-
-    *   § 143
-
-
-*    *   Elfter Teil
-
-    *
-
-*    *
-    *   Rechtsweg, Bußgeld- und Strafvorschriften
-
-    *
-
-*    *
-    *
-    *
-    *   Klage vor den ordentlichen Gerichten
-
-    *   § 144
-
-
-*    *
-    *
-    *
-    *   Ordnungswidrigkeiten
-
-    *   § 145
-
-
-*    *
-    *
-    *
-    *   Straftaten
-
-    *   § 146
-
-
-*    *
-    *
-    *
-    *   Erforschung von Straftaten
-
-    *   § 147
-
-
-*    *
-    *
-    *
-    *   Tatort, Gerichtsstand
-
-    *   § 148
-
-
-*    *   Zwölfter Teil
-
-    *
-
-*    *
-    *   Übergangs- und Schlußbestimmungen
-
-    *
-
-*    *
-    *   **Erstes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Alte Rechte und Verträge**
-
-    *
-
-*    *
-    *
-    *
-    *   Voraussetzungen für die Aufrechterhaltung alter Rechte und Verträge
-
-    *   § 149
-
-
-*    *
-    *
-    *
-    *   Ausnahmen von der Bergfreiheit von Bodenschätzen
-
-    *   § 150
-
-
-*    *
-    *
-    *
-    *   Bergwerkseigentum
-
-    *   § 151
-
-
-*    *
-    *
-    *
-    *   Aufrechterhaltene Rechte und Verträge zur Aufsuchung,
-        Forschungshandlungen
-
-    *   § 152
-
-
-*    *
-    *
-    *
-    *   Konzessionen, Erlaubnisse und Verträge zur Gewinnung
-
-    *   § 153
-
-
-*    *
-    *
-    *
-    *   Bergwerke, Bergwerksberechtigungen und Sonderrechte
-
-    *   § 154
-
-
-*    *
-    *
-    *
-    *   Dingliche Gewinnungsrechte
-
-    *   § 155
-
-
-*    *
-    *
-    *
-    *   Aufrechterhaltene Rechte und Verträge über grundeigene Bodenschätze
-
-    *   § 156
-
-
-*    *
-    *
-    *
-    *   Grundrenten
-
-    *   § 157
-
-
-*    *
-    *
-    *
-    *   Erbstollengerechtigkeiten
-
-    *   § 158
-
-
-*    *
-    *
-    *
-    *   Alte Rechte und Aufsuchung zu wissenschaftlichen Zwecken
-
-    *   § 159
-
-
-*    *
-    *
-    *
-    *   Enteignung alter Rechte und Verträge
-
-    *   § 160
-
-
-*    *
-    *
-    *
-    *   Ausdehnung von Bergwerkseigentum auf aufgehobene Längenfelder
-
-    *   § 161
-
-
-*    *
-    *
-    *
-    *   Entscheidung, Rechtsänderung
-
-    *   § 162
-
-
-*    *
-    *   **Zweites Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Auflösung und Abwicklung der bergrechtlichen Gewerkschaften**
-
-    *
-
-*    *
-    *
-    *
-    *   Auflösung oder Umwandlung
-
-    *   § 163
-
-
-*    *
-    *
-    *
-    *   Abwicklung
-
-    *   § 164
-
-
-*    *
-    *
-    *
-    *   Überleitung
-
-    *   § 164a
-
-
-*    *
-    *
-    *
-    *   Fortgeltendes Recht
-
-    *   § 165
-
-
-*    *
-    *   **Drittes Kapitel**
-
-    *
-
-*    *
-    *
-    *   **Sonstige Übergangs- und Schlußvorschriften**
-
-    *
-
-*    *
-    *
-    *
-    *   Bestehende Hilfsbaue
-
-    *   § 166
-
-
-*    *
-    *
-    *
-    *   Fortgeltung von Betriebsplänen und Anerkennungen
-
-    *   § 167
-
-
-*    *
-    *
-    *
-    *   Erlaubnisse für Transit-Rohrleitungen
-
-    *   § 168
-
-
-*    *
-    *
-    *
-    *   Genehmigungen im Bereich der Erweiterung des Küstenmeeres
-
-    *   § 168a
-
-
-*    *
-    *
-    *
-    *   Vorhandene Unterwasserkabel
-
-    *   § 168b
-
-
-*    *
-    *
-    *
-    *   Übergangszeit bei Unterstellung unter die Bergaufsicht, eingestellte
-        Betriebe
-
-    *   § 169
-
-
-*    *
-    *
-    *
-    *   Haftung für verursachte Schäden
-
-    *   § 170
-
-
-*    *
-    *
-    *
-    *   Verjährung bei Bergschäden
-
-    *   § 170a
-
-
-*    *
-    *
-    *
-    *   Eingeleitete Verfahren
-
-    *   § 171
-
-
-*    *
-    *
-    *
-    *   Mutungen
-
-    *   § 172
-
-
-*    *
-    *
-    *
-    *   Zusammenhängende Betriebe
-
-    *   § 173
-
-
-*    *
-    *
-    *
-    *   Änderung von Bundesgesetzen
-
-    *   § 174
-
-
-*    *
-    *
-    *
-    *   Außerkrafttreten von Bundesrecht
-
-    *   § 175
-
-
-*    *
-    *
-    *
-    *   Außerkrafttreten von Landesrecht, Verweisungen
-
-    *   § 176
-
-
-*    *
-    *
-    *
-    *   Berlin-Klausel
-
-    *   § 177
-
-
-*    *
-    *
-    *
-    *   Inkrafttreten
-
-    *   § 178
-
-
-
 
 
 ## Erster Teil - Einleitende Bestimmungen
@@ -2081,7 +90,9 @@ Zweck dieses Gesetzes ist es,
 
 
 
-soweit dies ausdrücklich bestimmt ist.
+soweit dies ausdrücklich bestimmt ist. Satz 1 Nummer 1 und 2 ist nur
+anwendbar, soweit nicht Tätigkeiten oder Einrichtungen des Absatzes 1
+betroffen sind.
 
 (3) Dieses Gesetz gilt im Bereich des Festlandsockels der
 Bundesrepublik Deutschland für die durch die Absätze 1 und 2 Nr. 1 und
@@ -2264,9 +275,9 @@ Bergbau in Anspruch genommenen Oberfläche unter Beachtung des
 öffentlichen Interesses.
 
 (5) Unternehmer ist eine natürliche oder juristische Person oder
-Personenhandelsgesellschaft, die eine der in § 2 Abs. 1 Nr. 1 und 2
-bezeichneten Tätigkeiten auf eigene Rechnung durchführt oder
-durchführen läßt.
+Personenhandelsgesellschaft, die eine der in § 2 Absatz 1 Nummer 1 und
+2 sowie Absatz 2 und 3 bezeichneten Tätigkeiten auf eigene Rechnung
+durchführt oder durchführen läßt.
 
 (6) Gewinnungsberechtigung ist das Recht zur Gewinnung von bergfreien
 oder grundeigenen Bodenschätzen.
@@ -2289,12 +300,41 @@ oder vom Gebiet eines anderen Staates in den Festlandsockel der
 Bundesrepublik Deutschland führt oder diesen durchquert.
 
 
-### § 5 Anwendung des Verwaltungsverfahrensgesetzes und des Verwaltungskostengesetzes
+### § 5 Anwendung des Verwaltungsverfahrensgesetzes
 
 Auf die Ausführung dieses Gesetzes und der auf Grund dieses Gesetzes
-erlassenen Rechtsverordnungen sind, soweit in diesem Gesetz nichts
-anderes bestimmt ist, das Verwaltungsverfahrensgesetz und das
-Verwaltungskostengesetz anzuwenden.
+erlassenen Rechtsverordnungen ist, soweit in diesem Gesetz nichts
+anderes bestimmt ist, das Verwaltungsverfahrensgesetz anzuwenden.
+
+
+### § 5a Öffentliche Bekanntgabe
+
+(1) Entscheidungen, die in Ausführung dieses Gesetzes ergehen und auf
+die § 1 Absatz 1 Satz 1 Nummer 1, 5 oder 6 des Umwelt-
+Rechtsbehelfsgesetzes Anwendung findet, können von der zuständigen
+Behörde auch öffentlich bekannt gegeben werden. Vorschriften über die
+Bekanntgabe einer Entscheidung mittels Zustellung sowie andere
+Vorschriften über die öffentliche Bekanntgabe bleiben unberührt.
+
+(2) Die öffentliche Bekanntgabe wird dadurch bewirkt, dass der
+verfügende Teil der Entscheidung und die Rechtsbehelfsbelehrung im
+amtlichen Veröffentlichungsblatt der zuständigen Behörde und außerdem
+in örtlichen Tageszeitungen bekannt gemacht werden, die in dem Bereich
+verbreitet sind, in dem sich die Entscheidung voraussichtlich
+auswirken wird; auf Auflagen ist hinzuweisen. Sofern die Entscheidung
+nicht vollständig bekannt gemacht wird, ist die Entscheidung
+einschließlich zugehöriger Pläne und der Begründung mit
+Rechtsbehelfsbelehrung nach der Bekanntmachung zwei Wochen zur
+Einsicht auszulegen. Nach Ablauf von zwei Wochen nach der
+Bekanntmachung gilt die Entscheidung auch denjenigen, denen
+Rechtsbehelfe nach dem Umwelt-Rechtsbehelfsgesetz zustehen, als
+bekannt gegeben; hierauf ist in der Bekanntmachung hinzuweisen. Nach
+der öffentlichen Bekanntmachung kann die Entscheidung bis zum Ablauf
+der Rechtsbehelfsfrist von den in Satz 3 genannten Vereinigungen und
+denjenigen, denen die Entscheidung bekannt zu geben war, schriftlich
+angefordert werden. In der öffentlichen Bekanntmachung ist anzugeben,
+wo und wann die Entscheidung nach Satz 2 eingesehen und nach Satz 4
+angefordert werden kann.
 
 
 ## Zweiter Teil - Bergbauberechtigungen
@@ -3173,11 +1213,10 @@ Verwaltungsverfahrensgesetzes mit folgender Maßgabe anzuwenden:
 3.  In der mündlichen Verhandlung ist auf eine Einigung hinzuwirken. Kommt
     eine Einigung zustande, so ist diese in der Verhandlungsniederschrift
     zu beurkunden. Auf die Beurkundung sind die §§ 3 bis 13 und 16 bis 26
-    des Beurkundungsgesetzes vom 28. August 1969 (BGBl. I S. 1513),
-    zuletzt geändert durch Gesetz vom 20. Februar 1980 (BGBl. I S. 157),
-    entsprechend anzuwenden. Die Niederschrift über die Einigung steht
-    einer notariellen Beurkundung der Einigung gleich. Eine Auflassung
-    kann die zuständige Behörde nicht entgegennehmen.
+    des Beurkundungsgesetzes entsprechend anzuwenden. Die Niederschrift
+    über die Einigung steht einer notariellen Beurkundung der Einigung
+    gleich. Eine Auflassung kann die zuständige Behörde nicht
+    entgegennehmen.
 
 
 4.  Kommt eine Einigung nicht zustande, so entscheidet die zuständige
@@ -3505,16 +1544,18 @@ Aufsuchung und Gewinnung so wenig wie möglich beeinträchtigt werden.
 unbeschadet anderer öffentlich-rechtlicher Vorschriften, die für die
 Zulassung von Betriebsplänen zuständige Behörde eine Aufsuchung oder
 eine Gewinnung beschränken oder untersagen, soweit ihr überwiegende
-öffentliche Interessen entgegenstehen. Soweit die öffentlichen
-Interessen zugleich den Schutz von Rechten Dritter umfassen, kann die
-für die Zulassung von Betriebsplänen zuständige Behörde den Plan
-auslegen, wenn voraussichtlich mehr als 300 Personen betroffen sind
-oder der Kreis der Betroffenen nicht abschließend bekannt ist. § 73
-Abs. 3, 4 und 5 Satz 1 und 2 Nr. 1, 2 und 4 Buchstabe b des
-Verwaltungsverfahrensgesetzes ist mit der Maßgabe entsprechend
-anzuwenden, daß an die Stelle der Gemeinde die zuständige Behörde
-tritt. Verspätet erhobene Einwendungen sind ausgeschlossen. Hierauf
-ist in der Bekanntmachung hinzuweisen.
+öffentliche Interessen entgegenstehen. Bei der Prüfung, ob eine
+Beschränkung oder Untersagung zu erfolgen hat, sind bei
+raumbedeutsamen Vorhaben Ziele der Raumordnung zu beachten. Soweit die
+öffentlichen Interessen zugleich den Schutz von Rechten Dritter
+umfassen, kann die für die Zulassung von Betriebsplänen zuständige
+Behörde den Plan auslegen, wenn voraussichtlich mehr als 300 Personen
+betroffen sind oder der Kreis der Betroffenen nicht abschließend
+bekannt ist. § 73 Abs. 3, 4 und 5 Satz 1 und 2 Nr. 1, 2 und 4
+Buchstabe b des Verwaltungsverfahrensgesetzes ist mit der Maßgabe
+entsprechend anzuwenden, daß an die Stelle der Gemeinde die zuständige
+Behörde tritt. Verspätet erhobene Einwendungen sind ausgeschlossen.
+Hierauf ist in der Bekanntmachung hinzuweisen.
 
 
 ##### § 49 Beschränkung der Aufsuchung auf dem Festlandsockel und innerhalb der Küstengewässer
@@ -3653,14 +1694,17 @@ zuständigen Behörde genehmigt wird.
 
 (2a) Die Aufstellung eines Rahmenbetriebsplanes ist zu verlangen und
 für dessen Zulassung ein Planfeststellungsverfahren nach Maßgabe der
-§§ 57a und 57b durchzuführen, wenn ein Vorhaben nach § 57c einer
-Umweltverträglichkeitsprüfung bedarf. Die zuständige Behörde soll mit
-dem Unternehmer auf der Grundlage des Verlangens Gegenstand, Umfang
-und Methoden der Umweltverträglichkeitsprüfung sowie sonstige für die
-Durchführung dieser Prüfung erhebliche Fragen erörtern; hierzu können
-andere Behörden, Sachverständige und Dritte hinzugezogen werden.
-Anforderungen eines vorsorgenden Umweltschutzes, die sich bei der
-Umweltverträglichkeitsprüfung ergeben und über die
+§§ 57a und 57b durchzuführen, wenn ein Vorhaben gemäß der Verordnung
+nach § 57c in Verbindung mit den Vorschriften des Teils 2 Abschnitt 1
+des Gesetzes über die Umweltverträglichkeitsprüfung einer
+Umweltverträglichkeitsprüfung bedarf. Bei einem Vorhaben, das einzeln
+oder im Zusammenwirken mit anderen Vorhaben, Projekten oder Plänen
+geeignet ist, ein Natura 2000-Gebiet erheblich zu beeinträchtigen,
+wird die Verträglichkeitsprüfung nach § 34 Absatz 1 des
+Bundesnaturschutzgesetzes zusammen mit der
+Umweltverträglichkeitsprüfung im Planfeststellungsverfahren nach Satz
+1 vorgenommen. Anforderungen eines vorsorgenden Umweltschutzes, die
+sich bei der Umweltverträglichkeitsprüfung ergeben und über die
 Zulassungsvoraussetzungen des § 55 sowie der auf das Vorhaben
 anwendbaren Vorschriften in anderen Gesetzen hinausgehen, sind dabei
 öffentliche Interessen im Sinne des § 48 Abs. 2.
@@ -3686,8 +1730,18 @@ Vorhabens nach Maßgabe der dafür geltenden Vorschriften zu
 berücksichtigen.
 
 (2c) Die Absätze 2a und 2b gelten auch für die wesentliche Änderung
-eines Vorhabens im Sinne des Absatzes 2a Satz 1, wenn die Änderung
-erhebliche Auswirkungen auf die Umwelt haben kann.
+eines Vorhabens.
+
+(2d) Bei Vorhaben nach Absatz 2a Satz 1 hat die zuständige Behörde
+nach Maßgabe der auf das Vorhaben anwendbaren Vorschriften
+festzulegen, welche Maßnahmen der Unternehmer zur Überwachung
+erheblicher nachteiliger Auswirkungen auf die Umwelt zu treffen hat.
+Die Festlegung kann auch im Rahmen der Zulassung des Haupt-, Sonder-
+oder Abschlussbetriebsplans erfolgen. Bei der Auswahl der Art der zu
+überwachenden Parameter und der Dauer der Überwachung sind nach
+Maßgabe der anwendbaren Vorschriften insbesondere die Art, der
+Standort und der Umfang des Vorhabens sowie das Ausmaß seiner
+Auswirkungen auf die Umwelt zu berücksichtigen.
 
 (3) Für Arbeiten und Einrichtungen, die von mehreren Unternehmen nach
 einheitlichen Gesichtspunkten durchgeführt, errichtet oder betrieben
@@ -3967,52 +2021,22 @@ Vorhaben im Bereich des Festlandsockels tritt bei der Anwendung der
 Vorschriften der Verwaltungsverfahrensgesetze über das
 Planfeststellungsverfahren an die Stelle der Gemeinde die zuständige
 Behörde; als Bereich, in dem sich das Vorhaben voraussichtlich
-auswirken wird, gilt der Sitz dieser Behörde.
+auswirken wird, gilt der Sitz dieser Behörde. Für das Verfahren sind
+die §§ 15 bis 27 sowie 31 des Gesetzes über die
+Umweltverträglichkeitsprüfung sowie die nachfolgenden Regelungen
+anzuwenden.
 
 (2) Der Rahmenbetriebsplan muß den Anforderungen genügen, die sich aus
 den Voraussetzungen für die Durchführung des
 Planfeststellungsverfahrens unter Berücksichtigung der
 Antragserfordernisse für die vom Planfeststellungsbeschluß
 eingeschlossenen behördlichen Entscheidungen ergeben. Der
-Rahmenbetriebsplan muß alle für die Umweltverträglichkeitsprüfung
-bedeutsamen Angaben enthalten, soweit sie nicht schon nach Satz 1 zu
-machen sind, insbesondere
-
-1.  eine Beschreibung der zu erwartenden erheblichen Auswirkungen des
-    Vorhabens auf die Umwelt unter Berücksichtigung des allgemeinen
-    Kenntnisstandes und der allgemein anerkannten Prüfungsmethoden,
-
-
-2.  alle sonstigen Angaben, um solche Auswirkungen feststellen und
-    beurteilen zu können, sowie
-
-
-3.  eine Beschreibung der Maßnahmen, mit denen erhebliche
-    Beeinträchtigungen der Umwelt vermieden, vermindert oder soweit
-    möglich ausgeglichen werden, sowie der Ersatzmaßnahmen bei nicht
-    ausgleichbaren aber vorrangigen Eingriffen in Natur und Landschaft.
-
-
-
-Weitere Angaben zur Umwelt und ihren Bestandteilen, Angaben zu
-geprüften Vorhabenalternativen und über etwaige Schwierigkeiten bei
-der Angabenzusammenstellung sind erforderlich, soweit
-
-1.  sie in Anbetracht der besonderen Merkmale des Vorhabens und der
-    möglichen Auswirkungen auf die Umwelt von Bedeutung sind und
-
-
-2.  ihre Zusammenstellung für den Unternehmer unter Berücksichtigung des
-    allgemeinen Kenntnisstandes und der allgemein anerkannten
-    Prüfungsmethoden zumutbar ist.
-
-
-
-Einzelheiten regelt das Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung nach § 57c. Der Unternehmer hat dem
-Rahmenbetriebsplan einen zur Auslegung geeigneten Plan und eine
-allgemeinverständliche Zusammenfassung der beizubringenden Angaben
-beizufügen.
+Rahmenbetriebsplan muss alle für die Umweltverträglichkeitsprüfung
+bedeutsamen Angaben in der Form eines Berichts zu den
+voraussichtlichen Umweltauswirkungen des Vorhabens (UVP-Bericht) nach
+Maßgabe des § 16 des Gesetzes über die Umweltverträglichkeitsprüfung
+und der Rechtsverordnung nach § 57c enthalten. Der Unternehmer hat dem
+Rahmenbetriebsplan einen zur Auslegung geeigneten Plan beizufügen.
 
 (3) Verfügen die beteiligten Behörden zu den nach Absatz 2 Satz 2 und
 3 zu machenden Angaben über zweckdienliche Informationen, so
@@ -4029,9 +2053,7 @@ Vorschriften zu treffen. Das Verhältnis zwischen Unternehmer und
 Betroffenen und der Schutz von Belangen Dritter im Sinne des
 Bergrechts bestimmen sich nach den dafür geltenden Vorschriften dieses
 Gesetzes; dies gilt auch für eine Aufhebung des
-Planfeststellungsbeschlusses. In der Begründung der Entscheidung ist
-zur Bewertung der Auswirkungen des Vorhabens auf die Umwelt eine
-zusammenfassende Darstellung dieser Auswirkungen aufzunehmen.
+Planfeststellungsbeschlusses.
 
 (5) Hinsichtlich der vom Vorhaben berührten Belange Dritter und der
 Aufgabenbereiche Beteiligter im Sinne des § 54 Abs. 2 erstrecken sich
@@ -4044,16 +2066,9 @@ Entscheidungen nach § 48 Abs. 2 werden außer in den in § 48 Abs. 2
 Satz 2 genannten Fällen des Schutzes von Rechten Dritter durch einen
 Planfeststellungsbeschluß ausgeschlossen.
 
-(6) Bei Vorhaben, die in einem anderen Mitgliedstaat der Europäischen
-Gemeinschaften erhebliche Auswirkungen auf die Umwelt haben können,
-sind die zuständigen Behörden des anderen Mitgliedstaats wie die im
-Planfeststellungsverfahren beteiligten Behörden zu unterrichten. Für
-Nachbarstaaten der Bundesrepublik Deutschland, die nicht
-Mitgliedstaaten der Europäischen Gemeinschaften sind, gilt unter den
-Voraussetzungen der Grundsätze von Gegenseitigkeit und
-Gleichwertigkeit Satz 1 entsprechend. Einzelheiten regelt das
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung nach § 57c.
+(6) Für das Verfahren zur grenzüberschreitenden
+Umweltverträglichkeitsprüfung sind die Vorschriften des Teils 5 des
+Gesetzes über die Umweltverträglichkeitsprüfung anzuwenden.
 
 
 #### § 57b Vorzeitiger Beginn, Vorbescheide, Teilgenehmigungen, Vorrang
@@ -4115,11 +2130,11 @@ Vorschriften Planfeststellungsverfahren vorgesehen, so ist insoweit
 das Verfahren nach den anderen Vorschriften durchzuführen.
 
 
-#### § 57c Ermächtigung
+#### § 57c Verordnungsermächtigung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
-im Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit durch Rechtsverordnung mit Zustimmung des
 Bundesrates Vorschriften darüber zu erlassen,
 
 1.  welche betriebsplanpflichtigen Vorhaben, die erhebliche Auswirkungen
@@ -4128,20 +2143,85 @@ Bundesrates Vorschriften darüber zu erlassen,
     Umweltverträglichkeitsprüfung bedürfen,
 
 
-2.  welche Angaben im einzelnen entscheidungserheblich im Sinne des § 57a
-    Abs. 2 sind, welchen Anforderungen die Angaben genügen müssen und
-    welche Unterlagen dazu beizubringen sind,
-
-
-3.  unter welchen Voraussetzungen und nach welchem Verfahren die
-    zuständigen Behörden benachbarter Staaten im Rahmen der
-    Umweltverträglichkeitsprüfung beteiligt werden.
+2.  welche Angaben im einzelnen im Rahmen des UVP-Berichts zu machen sind,
+    welchen Anforderungen die Angaben genügen müssen und welche Unterlagen
+    dazu beizubringen sind.
 
 
 
 In der Rechtsverordnung können für die Bestimmung der Vorhaben nach
 Satz 1 Nr. 1 auch Gruppen oder Arten von Vorhaben durch Festlegung von
-Schwellenwerten und anderen Kriterien bestimmt werden.
+Schwellenwerten und anderen Kriterien bestimmt werden. In einer
+Rechtsverordnung nach Satz 1 Nummer 2 kann insbesondere bestimmt
+werden, welche Angaben nach Anlage 4 des Gesetzes über die
+Umweltverträglichkeitsprüfung der UVP-Bericht bei bestimmten Vorhaben
+enthalten muss.
+
+
+#### § 57d Zulassungsverfahren für störfallrelevante Vorhaben
+
+(1) Bei der Zulassung eines Betriebsplans zur Errichtung oder Änderung
+eines Betriebs ist ein Rahmen- oder Sonderbetriebsplan zu verlangen
+und die Öffentlichkeit entsprechend § 23b Absatz 2 des Bundes-
+Immissionsschutzgesetzes zu beteiligen, wenn
+
+1.  es sich dabei um eine störfallrelevante Errichtung und einen Betrieb
+    oder eine störfallrelevante Änderung einer Anlage nach § 3 Absatz 5b
+    des Bundes-Immissionsschutzgesetzes handelt, die Betriebsbereich oder
+    Bestandteil eines Betriebsbereichs nach § 3 Absatz 5a des Bundes-
+    Immissionsschutzgesetzes ist und die keiner Genehmigung nach dem
+    Bundes-Immissionsschutzgesetz bedarf,
+
+
+2.  durch die störfallrelevante Errichtung und den Betrieb oder die
+    störfallrelevante Änderung der angemessene Sicherheitsabstand zu
+    benachbarten Schutzobjekten nach § 3 Absatz 5c des Bundes-
+    Immissionsschutzgesetzes erstmalig unterschritten wird, der bereits
+    unterschrittene Sicherheitsabstand räumlich noch weiter unterschritten
+    wird oder eine erhebliche Gefahrenerhöhung ausgelöst wird und
+
+
+3.  keine Öffentlichkeitsbeteiligung im Rahmen eines
+    Planfeststellungsverfahrens nach § 52 Absatz 2a Satz 1 vorgesehen ist.
+
+
+
+§ 18 der Störfall-Verordnung ist mit der Maßgabe entsprechend
+anzuwenden, dass anstelle des Antrags nach § 23b Absatz 1 des Bundes-
+Immissionsschutzgesetzes der Antrag auf Betriebsplanzulassung tritt.
+Anforderungen nach § 22 des Bundes-Immissionsschutzgesetzes sowie der
+auf Grundlage des § 23 des Bundes-Immissionsschutzgesetzes erlassenen
+Verordnungen sind, sofern sie über die Anforderungen nach § 55
+hinausgehen, öffentliche Interessen im Sinne des § 48 Absatz 2 Satz 1.
+
+(2) Bei Vorhaben, die die Voraussetzungen des Absatzes 1 Satz 1 Nummer
+1 und 2 erfüllen und bei denen die Öffentlichkeitsbeteiligung nach den
+in Absatz 1 Satz 1 Nummer 3 genannten Vorschriften erfolgt, ist die
+Öffentlichkeitsbeteiligung mit der Maßgabe durchzuführen, dass sich
+der Umfang der vorzulegenden Unterlagen, Berichte und Empfehlungen
+entsprechend § 23b Absatz 2 Satz 2 des Bundes-Immissionsschutzgesetzes
+bestimmt. Die Regelungen des § 18 der Störfall-Verordnung sind dabei
+mit der Maßgabe entsprechend anzuwenden, dass
+
+1.  an die Stelle des Antrags nach § 23b Absatz 1 des Bundes-
+    Immissionsschutzgesetzes der Antrag auf Betriebsplanzulassung tritt
+    und
+
+
+2.  an die Stelle der in § 18 Absatz 2 Nummer 4 der Störfall-Verordnung
+    genannten Frist die im Verfahren nach § 52 Absatz 2a Satz 1 geltende
+    Frist tritt.
+
+
+
+3\. u. 4 (weggefallen)
+
+Absatz 1 Satz 3 ist anzuwenden.
+
+(3) Absatz 1 Satz 1 und 2 und Absatz 2 Satz 1 und 2 gelten nicht,
+soweit dem Gebot, den angemessenen Sicherheitsabstand zu wahren,
+bereits auf Ebene einer raumbedeutsamen Planung oder Maßnahme durch
+verbindliche Vorgaben Rechnung getragen worden ist.
 
 
 ### Drittes Kapitel - Verantwortliche Personen
@@ -4546,19 +2626,36 @@ bezeichneten Rechtsgüter und Belange kann durch Rechtsverordnung
 Die Regelung über Sicherheitszonen (Satz 1 Nr. 3) läßt § 27 des
 Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173),
 zuletzt geändert durch
-Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613),
-und § 9 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
-Seeschiffahrt vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der
-Bekanntmachung vom 30. Juni 1977 (BGBl. I S. 1314),
+Artikel 5 des Gesetzes vom 10. Mai 1978 (BGBl. I S. 613), und § 9 des
+Gesetzes über die Aufgaben des Bundes auf dem Gebiet der Seeschiffahrt
+vom 24. Mai 1965 (BGBl. II S. 833) in der Fassung der Bekanntmachung
+vom 30. Juni 1977 (BGBl. I S. 1314),
 geändert durch Artikel 1 des Gesetzes vom 10. Mai 1978 (BGBl. I S.
-613),              unberührt. Rechtsverordnungen (Bergverordnungen)
-können gemäß Satz 1 auch erlassen werden, soweit dies zur Durchführung
-von Rechtsakten des Rates oder der Kommission der Europäischen
+613), unberührt. Rechtsverordnungen (Bergverordnungen) können gemäß
+Satz 1 auch erlassen werden, soweit dies zur Durchführung von
+Rechtsakten des Rates oder der Kommission der Europäischen
 Gemeinschaften oder von Beschlüssen internationaler Organisationen
 oder von zwischenstaatlichen Vereinbarungen, die Gegenstände dieses
 Gesetzes betreffen, erforderlich ist; durch solche Rechtsverordnungen
 können auch anderen Personen als Unternehmern und Beschäftigten
-Pflichten auferlegt werden.
+Pflichten auferlegt werden. Rechtsverordnungen zur Durchführung von
+Rechtsakten im Sinne des Satzes 3 (Bergverordnungen) können auch
+festlegen:
+
+1.  die Art und den Umfang einer Deckungsvorsorge für
+    Haftungsverbindlichkeiten, die infolge bergbaulicher Tätigkeiten
+    entstehen können, sowie Anforderungen an den Nachweis der
+    Deckungsvorsorge und
+
+
+2.  die Art und den Umfang der technischen und finanziellen
+    Leistungsfähigkeit, die erforderlich ist, um Vermeidungs-,
+    Schadensbegrenzungs-, Notfalleinsatz- und Sanierungsmaßnahmen
+    durchzuführen, sowie Anforderungen an den Nachweis der technischen und
+    finanziellen Leistungsfähigkeit.
+
+
+
 
 
 ### § 67 Technische und statistische Unterlagen, Markscheidewesen
@@ -4566,8 +2663,9 @@ Pflichten auferlegt werden.
 Soweit es zur Durchführung der Bergaufsicht, der Vorschriften über
 Erteilung, Verleihung und Aufrechterhaltung von Bergbauberechtigungen
 und zum Schutze der in § 11 Nr. 8 und 9 oder § 66 genannten
-Rechtsgüter und Belange erforderlich ist, kann durch Rechtsverordnung
-(Bergverordnung) bestimmt werden,
+Rechtsgüter und Belange oder im Fall von Nummer 7 zur Regelung der
+Festlegung von Einwirkungsbereichen, erforderlich ist, kann durch
+Rechtsverordnung (Bergverordnung) bestimmt werden,
 
 1.  daß bestimmte rißliche und sonstige zeichnerische Darstellungen über
     Tätigkeiten im Sinne des § 2 Abs. 1 Nr. 1 und 2 und über Einrichtungen
@@ -4598,8 +2696,8 @@ Rechtsgüter und Belange erforderlich ist, kann durch Rechtsverordnung
 
 
 7.  in welcher Weise der Bereich festzulegen ist, in dem durch einen
-    Gewinnungsbetrieb auf die Oberfläche eingewirkt werken kann
-    (Einwirkungsbereich),
+    Bergbaubetrieb oder sonstige Tätigkeiten nach den §§ 126 bis 129 auf
+    die Oberfläche eingewirkt werken kann (Einwirkungsbereich),
 
 
 8.  daß und für welchen Zeitraum die Unterlagen, Darstellungen, Listen,
@@ -4616,7 +2714,7 @@ aus Absatz 2 nichts anderes ergibt, von den Landesregierungen
 erlassen. Diese können die Ermächtigung durch Rechtsverordnung auf
 andere Stellen übertragen.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie erläßt
+(2) Das Bundesministerium für Wirtschaft und Energie erläßt
 Bergverordnungen,
 
 1.  soweit sie auf Grund des § 65 Satz 1 Nr. 3, 6 und 5 in Verbindung mit
@@ -4648,15 +2746,15 @@ Bundesrates und
 
 
 2.  Bergverordnungen auf Grund des § 66 Satz 1 Nr. 1 Buchstabe a und Nr. 8
-    im Einvernehmen mit den Bundesministerien für Umwelt, Naturschutz und
-    Reaktorsicherheit und für Verkehr, Bau und Stadtentwicklung,
+    im Einvernehmen mit den Bundesministerien für Umwelt, Naturschutz, Bau
+    und Reaktorsicherheit und für Verkehr und digitale Infrastruktur,
 
 
 3.  Bergverordnungen auf Grund des § 66 Satz 1 Nr. 3 sowie alle anderen
     Bergverordnungen, soweit sie Tätigkeiten im Sinne des § 2 Abs. 1 im
     Bereich des Festlandsockels und der Küstengewässer betreffen, im
-    Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung.
+    Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+    Infrastruktur.
 
 
 
@@ -4674,6 +2772,21 @@ verwiesen werden.
 
 (1) Der Bergbau unterliegt der Aufsicht durch die zuständige Behörde
 (Bergaufsicht).
+
+(1a) Bei Vorhaben nach § 52 Absatz 2a Satz 1 hat die zuständige
+Behörde im Rahmen der Aufsicht nach Absatz 1 durch geeignete
+Überwachungsmaßnahmen insbesondere sicherzustellen, dass das Vorhaben
+im Einklang mit den umweltbezogenen Bestimmungen des
+Planfeststellungsbeschlusses und den erforderlichen Haupt-, Sonder-
+und Abschlussbetriebsplanzulassungen sowie den damit verbundenen
+Nebenbestimmungen durchgeführt wird; dies gilt insbesondere für
+Bestimmungen zu umweltbezogenen Merkmalen des Vorhabens, dem Standort
+des Vorhabens, für Maßnahmen, mit denen erhebliche nachteilige
+Umweltauswirkungen ausgeschlossen, vermindert oder ausgeglichen werden
+sollen, sowie für Ersatzmaßnahmen bei Eingriffen in Natur und
+Landschaft. Hierbei sind bereits bestehende Überwachungsmechanismen zu
+nutzen und Ergebnisse der nach § 52 Absatz 2d durch den Unternehmer
+vorzunehmenden Überwachungsmaßnahmen zu berücksichtigen.
 
 (2) Die Bergaufsicht endet nach der Durchführung des
 Abschlußbetriebsplanes (§ 53) oder entsprechender Anordnungen der
@@ -4903,6 +3016,34 @@ Urkunden, die Geschäfts- oder Betriebsgeheimnisse enthalten.
 
 (2) Soweit die Einsicht gestattet ist, können Auszüge gefordert
 werden, die auf Verlangen zu beglaubigen sind.
+
+(3) Die zuständige Behörde gestattet auf Antrag ohne Darlegung eines
+berechtigten Interesses Einsicht in folgende Angaben zu den in § 75
+Absatz 2 Nummer 1 genannten Bergbauberechtigungen:
+
+1.  Inhaber,
+
+
+2.  Felder, auf die sich die Bergbauberechtigung bezieht,
+
+
+3.  Datum der Beantragung und der Erteilung,
+
+
+4.  Laufzeit sowie
+
+
+5.  Bodenschatz, auf den sich die Bergbauberechtigung bezieht.
+
+
+
+§ 3 Absatz 2 des Umweltinformationsgesetzes ist entsprechend
+anzuwenden. Die zuständige Behörde kann die in Satz 1 genannten
+Angaben öffentlich einsehbar machen. Die Einsicht in weitere Angaben
+nach Absatz 1, die Anforderung von Auszügen nach Absatz 2 und die
+Gestattung der Einsicht oder die Veröffentlichung von Angaben auf
+Grund der Zustimmung des betroffenen Unternehmers oder auf Grund
+anderer Vorschriften bleiben unberührt.
 
 
 ## Siebenter Teil - Bergbau und Grundbesitz, Öffentliche Verkehrsanlagen
@@ -6140,25 +4281,31 @@ die Haftungshöchstbeträge des § 117 hinaus Ersatz zu leisten.
 ###### § 120 Bergschadensvermutung
 
 (1) Entsteht im Einwirkungsbereich der untertägigen Aufsuchung oder
-Gewinnung eines Bergbaubetriebes durch Senkungen, Pressungen oder
-Zerrungen der Oberfläche oder durch Erdrisse ein Schaden, der seiner
-Art nach ein Bergschaden sein kann, so wird vermutet, daß der Schaden
-durch diesen Bergbaubetrieb verursacht worden ist. Dies gilt nicht,
-wenn feststeht, daß
+Gewinnung eines Bergbaubetriebes oder bei einer bergbaulichen
+Tätigkeit mit Hilfe von Bohrungen, die nicht der Aufsuchung oder
+Gewinnung von Gasen oder Erdwärme aus Grubenräumen stillgelegter
+Bergwerke dienen, durch Senkungen, Hebungen, Pressungen oder Zerrungen
+der Oberfläche oder durch Erdrisse oder durch Erschütterungen ein
+Schaden, der seiner Art nach ein Bergschaden sein kann, so wird
+vermutet, daß der Schaden durch diesen Bergbaubetrieb verursacht
+worden ist. Dies gilt nicht, wenn feststeht, daß
 
 1.  der Schaden durch einen offensichtlichen Baumangel oder eine
     baurechtswidrige Nutzung verursacht sein kann oder
 
 
-2.  die Senkungen, Pressungen, Zerrungen oder Erdrisse
+2.  die Senkungen, Hebungen, Pressungen, Zerrungen, Erdrisse oder
+    Erschütterungen
 
     a)  durch natürlich bedingte geologische oder hydrologische Gegebenheiten
         oder Veränderungen des Baugrundes oder
 
 
     b)  von einem Dritten verursacht sein können, der, ohne Bodenschätze
-        untertägig aufzusuchen oder zu gewinnen, im Einwirkungsbereich des
-        Bergbaubetriebes auf die Oberfläche eingewirkt hat.
+        untertägig aufzusuchen oder zu gewinnen oder ohne bergbauliche
+        Tätigkeiten mit Hilfe von Bohrungen durchzuführen, im
+        Einwirkungsbereich des Bergbaubetriebes auf die Oberfläche eingewirkt
+        hat.
 
 
 
@@ -6188,10 +4335,10 @@ anderer für den Schaden verantwortlich ist.
 
 ###### § 122 Ermächtigung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates in
-seinem Geschäftsbereich eine rechtsfähige Anstalt des öffentlichen
-Rechts als Ausfallkasse zur Sicherung von Bergschadensansprüchen
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem
+Geschäftsbereich eine rechtsfähige Anstalt des öffentlichen Rechts als
+Ausfallkasse zur Sicherung von Bergschadensansprüchen
 (Bergschadensausfallkasse) zu errichten, wenn
 
 1.  die Haftung für den Ersatz eines Bergschadens bei einem Ausfall durch
@@ -6220,13 +4367,13 @@ den Geschädigten befriedigt, geht dessen Forderung gegen den
 Ersatzpflichtigen auf sie über.
 
 (4) Das Nähere über die Bergschadensausfallkasse bestimmt die Satzung,
-die vom Bundesministerium für Wirtschaft und Technologie durch
+die vom Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung ohne Zustimmung des Bundesrates aufgestellt wird.
 
 
 ###### § 123 Durchführungsverordnung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, Vorschriften zu erlassen über
 
@@ -6333,9 +4480,9 @@ dulden. § 39 Abs. 1 Satz 1 Nr. 2 und Absatz 2 Nr. 2 gilt entsprechend.
 Für dabei entstehende Schäden haben die beteiligten Unternehmer eine
 angemessene Entschädigung an Geld zu leisten.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vorschriften zu erlassen über
+(4) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
+erlassen über
 
 1.  die nach Absatz 1 im einzelnen durchzuführenden Messungen und die
     Anforderungen, denen sie zur Erreichung der in Absatz 1 bezeichneten
@@ -6366,15 +4513,19 @@ unter Angabe der Fundstelle verwiesen werden.
 (1) Auf Untersuchungen des Untergrundes auf seine Eignung zur
 Errichtung von Untergrundspeichern und auf Untergrundspeicher sind die
 §§ 39, 40, 48, 50 bis 74, 77 bis 104, 106 und 131 entsprechend
-anzuwenden. Mit der Vorlage des ersten Betriebsplans hat der
-Unternehmer nachzuweisen, daß er eine allgemeine Beschreibung des
-geplanten Untergrundspeichers unter möglichst genauer Angabe der Lage
-und der voraussichtlich größten Ausdehnung im Untergrund durch
-Veröffentlichung in mindestens zwei der im Bereich des Standorts des
-Untergrundspeichers allgemein verbreiteten Tageszeitungen mindestens
-einen Monat vorher bekanntgemacht hat. Bei nachträglichen
-Veränderungen ist dieser Nachweis erneut zu erbringen, wenn sich die
-Ausdehnung des Untergrundspeichers im Untergrund wesentlich ändert.
+anzuwenden. Soweit zur Errichtung des Untergrundspeichers ein
+künstlicher Hohlraum geschaffen wird oder geschaffen worden ist, sind
+auf die Errichtung und den Betrieb von Untergrundspeichern zudem die
+§§ 110 bis 123 entsprechend anzuwenden. Mit der Vorlage des ersten
+Betriebsplans hat der Unternehmer nachzuweisen, daß er eine allgemeine
+Beschreibung des geplanten Untergrundspeichers unter möglichst genauer
+Angabe der Lage und der voraussichtlich größten Ausdehnung im
+Untergrund durch Veröffentlichung in mindestens zwei der im Bereich
+des Standorts des Untergrundspeichers allgemein verbreiteten
+Tageszeitungen mindestens einen Monat vorher bekanntgemacht hat. Bei
+nachträglichen Veränderungen ist dieser Nachweis erneut zu erbringen,
+wenn sich die Ausdehnung des Untergrundspeichers im Untergrund
+wesentlich ändert.
 
 (2) Eine Untersuchung des Untergrundes auf seine Eignung zur
 Errichtung von Untergrundspeichern liegt nur vor, soweit damit eine
@@ -6384,8 +4535,8 @@ Aufsuchung nicht verbunden ist.
 Sicherstellung oder Endlagerung radioaktiver Stoffe im Sinne des
 Atomgesetzes in der Fassung der Bekanntmachung vom 31. Oktober 1976
 (BGBl. I S. 3053), zuletzt geändert durch
-Artikel 14 des Gesetzes vom 28. März 1980 (BGBl. I S. 373),
-sind die §§ 39, 40, 48, 50 bis 74 und 77 bis 104 und 106 entsprechend
+Artikel 14 des Gesetzes vom 28. März 1980 (BGBl. I S. 373), sind die
+§§ 39, 40, 48, 50 bis 74 und 77 bis 104 und 106 entsprechend
 anzuwenden, wenn die Anlage ihrer Art nach auch zur unterirdischen
 behälterlosen Speicherung geeignet ist.
 
@@ -6443,13 +4594,12 @@ fallende, wie ein Gewinnungsbetrieb eingerichtete bergbauliche
 Ausbildungsstätten sowie für Besucherbergwerke und Besucherhöhlen die
 §§ 50 bis 62 und 65 bis 74 entsprechend.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-in Absatz 1 genannten Vorschriften auf sonstige bergbauliche
-Versuchsanstalten für entsprechend anwendbar zu erklären und die
-zugehörigen Bußgeldvorschriften zu erstrecken, soweit dies zum Schutze
-der in § 55 Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich
-ist.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die in Absatz 1
+genannten Vorschriften auf sonstige bergbauliche Versuchsanstalten für
+entsprechend anwendbar zu erklären und die zugehörigen
+Bußgeldvorschriften zu erstrecken, soweit dies zum Schutze der in § 55
+Abs. 1 bezeichneten Rechtsgüter und Belange erforderlich ist.
 
 
 ### § 130
@@ -6467,10 +4617,10 @@ auf dem Gebiet des Grubenrettungs- und Gasschutzwesens Hauptstellen
 für das Grubenrettungswesen bilden und unterhalten oder solchen
 angeschlossen sein.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die der Zustimmung des Bundesrates
-bedarf, Vorschriften über Aufgaben, Anzahl, Organisation und
-Ausstattung der Hauptstellen zu erlassen, soweit dies zur Wahrung der
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf,
+Vorschriften über Aufgaben, Anzahl, Organisation und Ausstattung der
+Hauptstellen zu erlassen, soweit dies zur Wahrung der
 Sicherheitsaufgaben und zur Gewährleistung der Einsatzbereitschaft der
 Hauptstellen und ihrer Einrichtungen erforderlich ist.
 
@@ -6585,17 +4735,19 @@ vergleichbarer Art wirtschaftlich vertretbar und nach den allgemein
 anerkannten Regeln der Technik erfüllbar ist.
 
 (2a) Für die Errichtung und den Betrieb einer Transit-Rohrleitung, die
-zugleich ein Vorhaben im Sinne des § 3 des Gesetzes über die
-Umweltverträglichkeitsprüfung ist, ist eine Prüfung der
+zugleich ein Vorhaben im Sinne des § 1 Absatz 1 Nummer 1 des Gesetzes
+über die Umweltverträglichkeitsprüfung ist, ist eine Prüfung der
 Umweltverträglichkeit im Genehmigungsverfahren nach Absatz 1 Satz 1
 Nr. 2 nach dem Gesetz über die Umweltverträglichkeitsprüfung
 durchzuführen. Bei der Anwendung der Vorschriften des
-Verwaltungsverfahrensgesetzes nach § 9 Abs. 1 Satz 3 des Gesetzes über
-die Umweltverträglichkeitsprüfung tritt an die Stelle der Gemeinde die
-Genehmigungsbehörde. Auf die Auslegung der Unterlagen nach § 6 des
-Gesetzes über die Umweltverträglichkeitsprüfung ist durch amtliche
-Bekanntmachung im Verkündungsblatt der Genehmigungsbehörde und durch
-Veröffentlichung in zwei überregionalen Tageszeitungen hinzuweisen.
+Verwaltungsverfahrensgesetzes nach § 18 Absatz 1 Satz 4 des Gesetzes
+über die Umweltverträglichkeitsprüfung tritt an die Stelle der
+Gemeinde die Genehmigungsbehörde. Auf die Auslegung des Plans nach §
+73 Absatz 2 des Verwaltungsverfahrensgesetzes und der Unterlagen nach
+§ 19 Absatz 2 des Gesetzes über die Umweltverträglichkeitsprüfung ist
+durch amtliche Bekanntmachung im Verkündungsblatt der
+Genehmigungsbehörde und durch Veröffentlichung in zwei überregionalen
+Tageszeitungen hinzuweisen.
 
 (3) Für die Errichtung und den Betrieb einer Transit-Rohrleitung
 gelten die §§ 58 bis 62 und 65 bis 74 mit folgender Maßgabe
@@ -6642,29 +4794,27 @@ S. 3341), und dem Gesetz über den unmittelbaren Zwang bei Ausübung
 Unmittelbarer Zwang wird von den Vollzugsbeamten der Bundespolizei und
 der Zollverwaltung angewandt.
 
-(3) Die Bundesministerien für Verkehr, Bau und Stadtentwicklung, des
+(3) Die Bundesministerien für Verkehr und digitale Infrastruktur, des
 Innern und der Finanzen regeln im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch Vereinbarung
-das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der
-Bundespolizei und der Zollverwaltung.
+Bundesministerium für Wirtschaft und Energie durch Vereinbarung das
+Zusammenwirken der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes, der Bundespolizei und der Zollverwaltung.
 
 
-### § 135 Kostenermächtigung
+### § 135 Gebühren- und Auslagenermächtigung
 
-Für Amtshandlungen, Prüfungen und Untersuchungen von Bundesbehörden
-auf Grund der §§ 132 bis 134 werden Kosten (Gebühren und Auslagen)
-erhoben. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-bestimmt im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
-kostenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder
-Rahmensätze vor. Die Gebührensätze sind so zu bemessen, daß der mit
-den Amtshandlungen, Prüfungen und Untersuchungen verbundene Personal-
-und Sachaufwand gedeckt wird; bei begünstigenden Amtshandlungen kann
-daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige
-Nutzen für den Gebührenschuldner angemessen berücksichtigt werden. Der
-Personalaufwand kann nach der Zahl der Stunden bemessen werden, die
-für Prüfungen und Untersuchungen bestimmter Arten von Prüfungs- oder
-Untersuchungsgegenständen durchschnittlich benötigt werden.
+Für individuell zurechenbare öffentliche Leistungen von Bundesbehörden
+auf Grund der §§ 132 bis 134 werden Gebühren und Auslagen erhoben. Das
+Bundesministerium für Verkehr und digitale Infrastruktur bestimmt im
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände näher und sieht dabei feste Sätze oder
+Rahmensätze vor. Die Gebührensätze sind so zu bemessen, dass der mit
+den individuell zurechenbaren öffentlichen Leistungen verbundene
+Personal- und Sachaufwand gedeckt wird; bei begünstigenden individuell
+zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen für den
+Gebührenschuldner angemessen berücksichtigt werden.
 
 
 ### § 136 Zuständigkeiten für sonstige Verwaltungsaufgaben
@@ -6699,7 +4849,7 @@ Förderabgabe bleibt einem besonderen Gesetz vorbehalten.
 
 #### § 138 Errichtung
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung mit Zustimmung des Bundesrates in seinem
 Geschäftsbereich eine Bundesprüfanstalt für den Bergbau
 (Bundesprüfanstalt) als nicht rechtsfähige Anstalt des öffentlichen
@@ -6743,17 +4893,17 @@ eine Stelle vorgenommen werden,
 
 Die Bundesprüfanstalt hat Prüfungen und Abnahmen im Sinne des § 65 Nr.
 3 und 4 durchzuführen, soweit dies in Bergverordnungen des
-Bundesministeriums für Wirtschaft und Technologie nach § 65 vorgesehen
+Bundesministeriums für Wirtschaft und Energie nach § 65 vorgesehen
 ist, und im Rahmen ihrer Aufgaben die nach diesem Gesetz zuständigen
 Behörden und die Unternehmen zu beraten.
 
 
 #### § 140 Inanspruchnahme, Gebühren
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, Vorschriften über die vertragliche Inanspruchnahme
-der Bundesprüfanstalt und die Gebühren und Auslagen für ihre
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Vorschriften über die vertragliche Inanspruchnahme der
+Bundesprüfanstalt und die Gebühren und Auslagen für ihre
 Nutzleistungen zu erlassen. Die Gebühren sind nach dem Personal- und
 Sachaufwand für die Nutzleistung unter Berücksichtigung ihres
 wirtschaftlichen Wertes für den Antragsteller zu bestimmen. Der
@@ -6762,11 +4912,11 @@ Bedienstete der Bundesprüfanstalt für Prüfungen und Untersuchungen
 bestimmter Arten von Prüf- oder Untersuchungsgegenständen
 durchschnittlich benötigen.
 
-(2) Die Gebühr für eine Nutzleistung darf in der Regel zehntausend
-Deutsche Mark nicht übersteigen. Erfordert die Nutzleistung einen
-außergewöhnlichen Aufwand, insbesondere für die Prüfung oder Abnahme
-umfangreicher Anlagen, so kann der Höchstbetrag um den entsprechenden
-Mehrbetrag überschritten werden.
+(2) Die Gebühr für eine Nutzleistung darf in der Regel 10 000 Euro
+nicht übersteigen. Erfordert die Nutzleistung einen außergewöhnlichen
+Aufwand, insbesondere für die Prüfung oder Abnahme umfangreicher
+Anlagen, so kann der Höchstbetrag um den entsprechenden Mehrbetrag
+überschritten werden.
 
 (3) Für die Abgeltung mehrfacher gleichartiger Nutzungsleistungen für
 denselben Empfänger können Pauschgebühren vorgesehen werden. Bei der
@@ -6780,19 +4930,19 @@ Verwaltungsaufwandes zu berücksichtigen.
 
 #### § 141 Sachverständigenausschuß Bergbau
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, einen Sachverständigenausschuß für den Bergbau zu errichten,
 der es in allen Fragen der Bergtechnik, insbesondere der
 Sicherheitstechnik, berät und zu den von ihm zu erlassenden
 Bergverordnungen Stellung nimmt. Dem Ausschuß sollen ein Vertreter des
-Bundesministeriums für Wirtschaft und Technologie als Vorsitzender
-sowie Vertreter der beteiligten Bundesministerien, der
-Landesregierungen, der fachlich zuständigen Landesbehörden, der Träger
-der gesetzlichen Unfallversicherung, der Wirtschaft und der
-Gewerkschaften angehören. In der Rechtsverordnung kann das Nähere über
-die Zusammensetzung, die Berufung der Mitglieder sowie das Verfahren
-des Ausschusses geregelt werden.
+Bundesministeriums für Wirtschaft und Energie als Vorsitzender sowie
+Vertreter der beteiligten Bundesministerien, der Landesregierungen,
+der fachlich zuständigen Landesbehörden, der Träger der gesetzlichen
+Unfallversicherung, der Wirtschaft und der Gewerkschaften angehören.
+In der Rechtsverordnung kann das Nähere über die Zusammensetzung, die
+Berufung der Mitglieder sowie das Verfahren des Ausschusses geregelt
+werden.
 
 
 #### § 142 Zuständige Behörden
@@ -6806,7 +4956,7 @@ Landes zuständig sind.
 
 #### § 143 Verwaltungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt mit
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt mit
 Zustimmung des Bundesrates zur Durchführung dieses Gesetzes und der
 auf Grund dieses Gesetzes erlassenen Rechtsverordnungen des Bundes
 allgemeine Verwaltungsvorschriften. Für Bergverordnungen, die auf
@@ -6982,7 +5132,7 @@ a)  Nummer 4, 6 und 8 bis 18 gelten auch für Untersuchungen des
 
 
 b)  Nummer 4, 6, 8 bis 12 und 14 bis 18 gelten auch für Bohrungen nach §
-    127 Abs. 1 und Hohlraumbauten nach § 130,
+    127 Abs. 1,
 
 
 c)  Nummer 4, 6, 8 bis 16 und 18 gelten auch für Versuchsgruben nach § 129
@@ -7032,9 +5182,9 @@ Verbindung mit Absatz 2, geahndet werden.
 über Ordnungswidrigkeiten ist für Ordnungswidrigkeiten im Bereich des
 Festlandsockels im Zusammenhang mit Forschungshandlungen (§ 132) und
 mit der Überwachungstätigkeit der in § 134 Abs. 1 bezeichneten
-Behörden des Bundes die vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung durch Rechtsverordnung ohne Zustimmung des
-Bundesrates bestimmte Behörde.
+Behörden des Bundes die vom Bundesministerium für Verkehr und digitale
+Infrastruktur durch Rechtsverordnung ohne Zustimmung des Bundesrates
+bestimmte Behörde.
 
 
 ### § 146 Straftaten
@@ -7800,6 +5950,9 @@ hergestellt werden.
 Auf Schäden im Sinne des § 114, die ausschließlich vor Inkrafttreten
 dieses Gesetzes verursacht worden sind, sind die für solche Schäden
 vor Inkrafttreten dieses Gesetzes geltenden Vorschriften anzuwenden.
+Auf Schäden im Sinne des § 114, die ausschließlich vor dem 12. August
+2016 verursacht worden sind, sind die §§ 120 und 126 in der bis dahin
+geltenden Fassung anzuwenden.
 
 
 #### § 170a Verjährung bei Bergschäden
@@ -7837,6 +5990,28 @@ geworden sind oder die in den beim Inkrafttreten dieses Gesetzes
 anhängigen gerichtlichen Verfahren ergehen, sowie das weitere
 Verfahren bis zur rechtskräftigen Entscheidung richten sich nach den
 bisher geltenden Vorschriften.
+
+
+#### § 171a Übergangsvorschrift
+
+Verfahren nach § 52 Absatz 2a bis Absatz 2c des Bundesberggesetzes
+sind nach der Fassung dieses Gesetzes, die am 29. Juli 2017 galt, zu
+Ende zu führen, wenn vor dem 16. Mai 2017
+
+1.  das Verfahren zur Unterrichtung über Gegenstand, Umfang und Methoden
+    der Umweltverträglichkeitsprüfung nach § 52 Absatz 2a Satz 2 in der
+    bis dahin geltenden Fassung dieses Gesetzes eingeleitet wurde oder
+
+
+2.  die Angaben nach § 57a Absatz 2 Satz 2 bis 5 dieses Gesetzes in
+    Verbindung mit § 2 der Verordnung über die
+    Umweltverträglichkeitsprüfung bergbaulicher Vorhaben in der bis dahin
+    geltenden Fassung gemacht wurden.
+
+
+
+§ 74 Absatz 1 des Gesetzes über die Umweltverträglichkeitsprüfung
+bleibt unberührt.
 
 
 #### § 172 Mutungen
@@ -8562,7 +6737,7 @@ Schleswig-Holstein
 92. das Gesetz über die Einführung des Allgemeinen Berggesetzes für die
     Preußischen Staaten vom 24. Juni 1865 in das Gebiet des Herzogtums
     Lauenburg vom 6. Mai 1868 (Sammlung des schleswig-holsteinischen
-    Landes- rechts 1971, Gl.-Nr. 750-2);
+    Landesrechts 1971, Gl.-Nr. 750-2);
 
 
 93. das Gesetz über die Einführung des Allgemeinen Berggesetzes vom 24.
@@ -8629,7 +6804,7 @@ jeweils in ihrem Land geltenden, nach Satz 1 aufrechterhaltenen
 Vorschriften durch Rechtsverordnung aufzuheben, soweit von ihnen über
 die darin geregelten Gegenstände Bergverordnungen auf Grund des § 68
 Abs. 1 erlassen werden. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, die nach Satz 1 aufrechterhaltenen
+Energie wird ermächtigt, die nach Satz 1 aufrechterhaltenen
 Vorschriften durch Rechtsverordnung mit Zustimmung des Bundesrates
 aufzuheben, soweit über die darin geregelten Gegenstände
 Bergverordnungen auf Grund des § 68 Abs. 2 erlassen werden.
@@ -8640,12 +6815,8 @@ oder § 175 außer Kraft getretenen Vorschriften verwiesen wird, treten
 an ihre Stelle die entsprechenden Vorschriften dieses Gesetzes.
 
 
-#### § 177 Berlin-Klausel
+#### § 177 (weggefallen)
 
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
-Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
-des Dritten Überleitungsgesetzes.
 
 
 #### § 178 Inkrafttreten
@@ -8655,8 +6826,10 @@ treten die §§ 32, 65 bis 68, 122 Abs. 4, §§ 123, 125 Abs. 4, § 129
 Abs. 2, § 131 Abs. 2, §§ 141 und 176 Abs. 3 Satz 2 und 3 am Tage nach
 der Verkündung des Gesetzes in Kraft.
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 1003)
 
-#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1003) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+#### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
@@ -8664,9 +6837,11 @@ mit folgenden Maßgaben in Kraft:
 Bundesberggesetz vom 13. August 1980 (BGBl. I S. 1310), zuletzt
 geändert durch Gesetz vom 12. Februar 1990 (BGBl. I S. 215),
 mit folgenden Maßgaben:
-a) (weggefallen)
 
 *
+    a)  (weggefallen)
+
+
     b)  Untersuchungs-, Gewinnungs- und Speicherrechte des Staates im Sinne
         des § 5 Abs. 2 bis 4 des Berggesetzes der Deutschen Demokratischen
         Republik, die Dritten zur Ausübung übertragen worden sind (alte
@@ -8685,79 +6860,7 @@ a) (weggefallen)
         S. 279) festgelegt worden ist.
 
 
-    d)  (1) Gewinnungsrechte an mineralischen Rohstoffen im Sinne des § 3 des
-        Berggesetzes der Deutschen Demokratischen Republik kann der zur
-        Ausübung Berechtigte innerhalb einer Frist von sechs Monaten nach dem
-        Tage des Wirksamwerdens des Beitritts bei der für die Zulassung von
-        Betriebsplänen zuständigen Behörde zur Bestätigung anmelden.
-
-        (2) Die Bestätigung ist zu erteilen, wenn
-
-        1.  das Gewinnungsrecht
-
-
-        1.1. dem Antragsteller am 31. Dezember 1989 zur Ausübung nach § 5 des
-            Berggesetzes der Deutschen Demokratischen Republik wirksam übertragen
-            war oder
-
-
-        1.2. dem Antragsteller nach dem 31. Dezember 1989
-
-            -   auf Grund der Vierten Durchführungsbestimmung zur Verordnung über die
-                Gründung und Tätigkeit von Unternehmen mit ausländischer Beteiligung
-                in der Deutschen Demokratischen Republik - Berechtigung zur Gewinnung
-                mineralischer Rohstoffe - vom 14. März 1990 (GBl. I Nr. 21 S. 189),
-
-
-            -   auf Grund der Verordnung über die Verleihung von Bergwerkseigentum vom
-                15\. August 1990 (GBl. I Nr. 53 S. 1071) als Bergwerkseigentum oder
-
-
-            -   sonst von der zuständigen Behörde übertragen wurde und
-
-
-
-
-
-        1.3. bis zum Tage des Wirksamwerdens des Beitritts nicht aufgehoben worden
-            ist und
-
-
-        2.  der Antragsteller das Vorliegen der Voraussetzungen nach Nummer 1.
-            sowie den Umfang der auf Grund der Vorratsklassifikationsanordnung vom
-            28\. August 1979 (Sonderdruck Nr. 1019 des Gesetzblattes), bei
-            radioaktiven Bodenschätzen auf Grund einer entsprechenden methodischen
-            Festlegung, bestätigten und prognostizierten Vorräte sowie
-
-
-        2.1. in den Fällen der Nummer 1.2. erster und dritter Anstrich das
-            Vorliegen einer Bescheinigung der Staatlichen Vorratskommission über
-            die ordnungsgemäße Übertragung des Gewinnungsrechts,
-
-
-        2.2 in den Fällen der Nummer 1.2. zweiter Anstrich die Eintragung des
-            Bergwerkseigentums in das Bergwerksregister
-
-            mit den für die Bestätigung erforderlichen Unterlagen nachweist.
-
-
-
-
-        (3) Das Gewinnungsrecht ist im beantragten Umfang, höchstens im Umfang
-        der bestätigten und prognostizierten Vorräte sowie
-
-        1.  in den Fällen des Absatzes 2 Nr. 1.1. und 1.2. erster und dritter
-            Anstrich für eine zur Durchführung der Gewinnung der Vorräte
-            angemessene Frist, die 30 Jahre nicht überschreiten darf,
-
-
-        2.  in den Fällen des Absatzes 2 Nr. 1.2. zweiter Anstrich unbefristet
-
-
-
-
-        in einer Form zu bestätigen, die den sich aus § 8 oder § 151 in
-        Verbindung mit § 4 Abs. 7 ergebenden Anforderungen entspricht.
+    d)  (1) bis (3) (weggefallen)
 
         (4) Ein bestätigtes Gewinnungsrecht gilt für die Bodenschätze, die
         Zeit und den Bereich, für die es bestätigt wird,
@@ -8792,18 +6895,7 @@ a) (weggefallen)
 
         mit folgenden Maßgaben:
 
-        aa) Der Antragsteller muß zusätzlich nachweisen, daß er sich mit dem
-            Grundeigentümer über eine angemessene Entschädigung für die Gewinnung
-            der Bodenschätze ab dem Tage des Wirksamwerdens des Beitritts geeinigt
-            hat. Ist eine Einigung trotz ernsthafter Bemühungen nicht zustande
-            gekommen, kann der Antragsteller bei der für die Bestätigung
-            zuständigen Behörde eine Entscheidung über die Entschädigung
-            beantragen. Die Behörde entscheidet nach Anhörung des Grundeigentümers
-            in entsprechender Anwendung der §§ 84 bis 90.
-
-
-        bb) Die Bestätigung setzt die Einigung oder die Unanfechtbarkeit der
-            Entscheidung über die Entschädigung voraus.
+        aa) und bb) (weggefallen)
 
 
         cc) Die Übertragung der Bewilligung (§ 22) bedarf der Zustimmung des
@@ -8814,14 +6906,8 @@ a) (weggefallen)
 
 
 
-    f)  Für Speicherrechte gilt Buchstabe d) entsprechend mit der Maßgabe, daß
-        an die Stelle der Gewinnung das Errichten und Betreiben eines
-        Untertagespeichers und an die Stelle der bestätigten und
-        prognostizierten Vorräte die vom Antragsteller nachzuweisende
-        voraussichtlich größte Ausdehnung der in Anspruch genommenen
-        geologischen Speicherformation oder des Kavernenfeldes treten. Auf
-        Untersuchungen des Untergrundes und auf Untergrundspeicher findet §
-        126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107
+    f)  Auf Untersuchungen des Untergrundes und auf Untergrundspeicher findet
+        § 126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107
         bis 125 entsprechende Anwendung finden.
 
 
@@ -8862,8 +6948,7 @@ a) (weggefallen)
             bereits begonnen war.
 
 
-        cc) Für die Bestellung und Namhaftmachung verantwortlicher Personen gilt
-            für alle Betriebe § 169 Abs. 1 Nr. 3 entsprechend.
+        cc) (weggefallen)
 
 
 

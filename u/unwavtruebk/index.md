@@ -3,7 +3,7 @@ Title: Übereinkommen der Vereinten Nationen über Verträge über den internati
   Warenkauf
 jurabk: UNWaVtrÜbk
 layout: default
-origslug: unwavtr_bk
+origslug: unwavtruebk
 slug: unwavtruebk
 
 ---

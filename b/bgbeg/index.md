@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.9.1994 I 2494; 1997, 1061;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 27.7.2011 I 1600, 1942
+:   Art. 2 Abs. 4 G v. 20.7.2017 I 2787
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -30,7 +30,7 @@ Zuletzt geändert durch
 
 
 
-##### Art 1 -
+##### Art 1 - 
 
 (1) Das Bürgerliche Gesetzbuch tritt am 1. Januar 1900 gleichzeitig
 mit einem Gesetz, betreffend Änderungen des
@@ -46,7 +46,7 @@ können, bleiben die bestehenden landesgesetzlichen Vorschriften in
 Kraft und können neue landesgesetzliche Vorschriften erlassen werden.
 
 
-##### Art 2 -
+##### Art 2 - 
 
 Gesetz im Sinne des Bürgerlichen Gesetzbuchs und dieses Gesetzes ist
 jede Rechtsnorm.
@@ -60,28 +60,41 @@ jede Rechtsnorm.
 
 
 
-###### Art 3 - Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Gemeinschaft und zu völkerrechtlichen Vereinbarungen
+###### Art 3 - Anwendungsbereich; Verhältnis zu Regelungen der Europäischen Union und zu völkerrechtlichen Vereinbarungen
 
 Soweit nicht
 
-1.  unmittelbar anwendbare Regelungen der Europäischen Gemeinschaft in
-    ihrer jeweils geltenden Fassung, insbesondere
+1.  unmittelbar anwendbare Regelungen der Europäischen Union in ihrer
+    jeweils geltenden Fassung, insbesondere
 
     a)  die Verordnung (EG) Nr. 864/2007 des Europäischen Parlaments und des
         Rates vom 11. Juli 2007 über das auf außervertragliche
-        Schuldverhältnisse anzuwendende Recht (Rom II) (ABl. L 199 vom
-        31\.7.2007, S. 40),
+        Schuldverhältnisse anzuwendende Recht (Rom II),
 
 
     b)  die Verordnung (EG) Nr. 593/2008 des Europäischen Parlaments und des
         Rates vom 17. Juni 2008 über das auf vertragliche Schuldverhältnisse
-        anzuwendende Recht (Rom I) (ABl. L 177 vom 4.7.2008, S. 6) sowie
+        anzuwendende Recht (Rom I),
 
 
-    c)  der Beschluss des Rates vom 30. November 2009 über den Abschluss des
-        Haager Protokolls vom 23. November 2007 über das auf
-        Unterhaltspflichten anzuwendende Recht durch die Europäische
-        Gemeinschaft (ABl. L 331 vom 16.12.2009, S. 17) oder
+    c)  Artikel 15 der Verordnung (EG) Nr. 4/2009 des Rates vom 18. Dezember
+        2008 über die Zuständigkeit, das anwendbare Recht, die Anerkennung und
+        Vollstreckung von Entscheidungen und die Zusammenarbeit in
+        Unterhaltssachen in Verbindung mit dem Haager Protokoll vom 23.
+        November 2007 über das auf Unterhaltspflichten anzuwendende Recht,
+
+
+    d)  die Verordnung (EU) Nr. 1259/2010 des Rates vom 20. Dezember 2010 zur
+        Durchführung einer Verstärkten Zusammenarbeit im Bereich des auf die
+        Ehescheidung und Trennung ohne Auflösung des Ehebandes anzuwendenden
+        Rechts sowie
+
+
+    e)  die Verordnung (EU) Nr. 650/2012 des Europäischen Parlaments und des
+        Rates vom 4. Juli 2012 über die Zuständigkeit, das anzuwendende Recht,
+        die Anerkennung und Vollstreckung von Entscheidungen und die Annahme
+        und Vollstreckung öffentlicher Urkunden in Erbsachen sowie zur
+        Einführung eines Europäischen Nachlasszeugnisses oder
 
 
 
@@ -103,11 +116,11 @@ den Vorschriften dieses Kapitels (Internationales Privatrecht).
 Rechtsnormen der maßgebenden Rechtsordnung unter Ausschluss derjenigen
 des Internationalen Privatrechts.
 
-(2) Soweit Verweisungen im Dritten und Vierten Abschnitt das Vermögen
-einer Person dem Recht eines Staates unterstellen, beziehen sie sich
-nicht auf Gegenstände, die sich nicht in diesem Staat befinden und
-nach dem Recht des Staates, in dem sie sich befinden, besonderen
-Vorschriften unterliegen.
+(2) Soweit Verweisungen im Dritten Abschnitt das Vermögen einer Person
+dem Recht eines Staates unterstellen, beziehen sie sich nicht auf
+Gegenstände, die sich nicht in diesem Staat befinden und nach dem
+Recht des Staates, in dem sie sich befinden, besonderen Vorschriften
+unterliegen.
 
 
 ###### Art 4 - Rück- und Weiterverweisung; Rechtsspaltung
@@ -174,9 +187,61 @@ durch Erwerb oder Verlust der Rechtsstellung als Deutscher nicht
 beeinträchtigt.
 
 
-###### Art 8 - Entmündigung
+###### Art 8 - Gewillkürte Stellvertretung
 
-(weggefallen)
+(1) Auf die gewillkürte Stellvertretung ist das vom Vollmachtgeber vor
+der Ausübung der Vollmacht gewählte Recht anzuwenden, wenn die
+Rechtswahl dem Dritten und dem Bevollmächtigten bekannt ist. Der
+Vollmachtgeber, der Bevollmächtigte und der Dritte können das
+anzuwendende Recht jederzeit wählen. Die Wahl nach Satz 2 geht
+derjenigen nach Satz 1 vor.
+
+(2) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt
+der Bevollmächtigte in Ausübung seiner unternehmerischen Tätigkeit, so
+sind die Sachvorschriften des Staates anzuwenden, in dem der
+Bevollmächtigte im Zeitpunkt der Ausübung der Vollmacht seinen
+gewöhnlichen Aufenthalt hat, es sei denn, dieser Ort ist für den
+Dritten nicht erkennbar.
+
+(3) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt
+der Bevollmächtigte als Arbeitnehmer des Vollmachtgebers, so sind die
+Sachvorschriften des Staates anzuwenden, in dem der Vollmachtgeber im
+Zeitpunkt der Ausübung der Vollmacht seinen gewöhnlichen Aufenthalt
+hat, es sei denn, dieser Ort ist für den Dritten nicht erkennbar.
+
+(4) Ist keine Rechtswahl nach Absatz 1 getroffen worden und handelt
+der Bevollmächtigte weder in Ausübung seiner unternehmerischen
+Tätigkeit noch als Arbeitnehmer des Vollmachtgebers, so sind im Falle
+einer auf Dauer angelegten Vollmacht die Sachvorschriften des Staates
+anzuwenden, in dem der Bevollmächtigte von der Vollmacht gewöhnlich
+Gebrauch macht, es sei denn, dieser Ort ist für den Dritten nicht
+erkennbar.
+
+(5) Ergibt sich das anzuwendende Recht nicht aus den Absätzen 1 bis 4,
+so sind die Sachvorschriften des Staates anzuwenden, in dem der
+Bevollmächtigte von seiner Vollmacht im Einzelfall Gebrauch macht
+(Gebrauchsort). Mussten der Dritte und der Bevollmächtigte wissen,
+dass von der Vollmacht nur in einem bestimmten Staat Gebrauch gemacht
+werden sollte, so sind die Sachvorschriften dieses Staates anzuwenden.
+Ist der Gebrauchsort für den Dritten nicht erkennbar, so sind die
+Sachvorschriften des Staates anzuwenden, in dem der Vollmachtgeber im
+Zeitpunkt der Ausübung der Vollmacht seinen gewöhnlichen Aufenthalt
+hat.
+
+(6) Auf die gewillkürte Stellvertretung bei Verfügungen über
+Grundstücke oder Rechte an Grundstücken ist das nach Artikel 43 Absatz
+1 und Artikel 46 zu bestimmende Recht anzuwenden.
+
+(7) Dieser Artikel findet keine Anwendung auf die gewillkürte
+Stellvertretung bei Börsengeschäften und Versteigerungen.
+
+(8) Auf die Bestimmung des gewöhnlichen Aufenthalts im Sinne dieses
+Artikels ist Artikel 19 Absatz 1 und 2 erste Alternative der
+Verordnung (EG) Nr. 593/2008 mit der Maßgabe anzuwenden, dass an die
+Stelle des Vertragsschlusses die Ausübung der Vollmacht tritt. Artikel
+19 Absatz 2 erste Alternative der Verordnung (EG) Nr. 593/2008 ist
+nicht anzuwenden, wenn der nach dieser Vorschrift maßgebende Ort für
+den Dritten nicht erkennbar ist.
 
 
 ###### Art 9 - Todeserklärung
@@ -298,7 +363,20 @@ anzuwenden, wenn
 
 
 
-(3) Eine Ehe kann im Inland nur in der hier vorgeschriebenen Form
+(3) Unterliegt die Ehemündigkeit eines Verlobten nach Absatz 1
+ausländischem Recht, ist die Ehe nach deutschem Recht
+
+1.  unwirksam, wenn der Verlobte im Zeitpunkt der Eheschließung das 16.
+    Lebensjahr nicht vollendet hatte, und
+
+
+2.  aufhebbar, wenn der Verlobte im Zeitpunkt der Eheschließung das 16.,
+    aber nicht das 18. Lebensjahr vollendet hatte.
+
+
+
+
+(4) Eine Ehe kann im Inland nur in der hier vorgeschriebenen Form
 geschlossen werden. Eine Ehe zwischen Verlobten, von denen keiner
 Deutscher ist, kann jedoch vor einer von der Regierung des Staates,
 dem einer der Verlobten angehört, ordnungsgemäß ermächtigten Person in
@@ -396,36 +474,25 @@ sinngemäß anzuwenden, soweit diese Vorschriften für gutgläubige Dritte
 günstiger sind als das fremde Recht.
 
 
-###### Art 17 - Scheidung
+###### Art 17 - Besondere Scheidungsfolgen; Entscheidung durch Gericht
 
-(1) Die Scheidung unterliegt dem Recht, das im Zeitpunkt des Eintritts
-der Rechtshängigkeit des Scheidungsantrags für die allgemeinen
-Wirkungen der Ehe maßgebend ist. Kann die Ehe hiernach nicht
-geschieden werden, so unterliegt die Scheidung dem deutschen Recht,
-wenn der die Scheidung begehrende Ehegatte in diesem Zeitpunkt
-Deutscher ist oder dies bei der Eheschließung war.
+(1) Vermögensrechtliche Scheidungsfolgen, die nicht von anderen
+Vorschriften dieses Abschnitts erfasst sind, unterliegen dem nach der
+Verordnung (EU) Nr. 1259/2010 auf die Scheidung anzuwendenden Recht.
 
 (2) Eine Ehe kann im Inland nur durch ein Gericht geschieden werden.
 
-(3) Der Versorgungsausgleich unterliegt dem nach Absatz 1 Satz 1
-anzuwendenden Recht; er ist nur durchzuführen, wenn danach deutsches
-Recht anzuwenden ist und ihn das Recht eines der Staaten kennt, denen
-die Ehegatten im Zeitpunkt des Eintritts der Rechtshängigkeit des
-Scheidungsantrags angehören. Im Übrigen ist der Versorgungsausgleich
-auf Antrag eines Ehegatten nach deutschem Recht durchzuführen,
-
-1.  wenn der andere Ehegatte in der Ehezeit eine inländische
-    Versorgungsanwartschaft erworben hat oder
-
-
-2.  wenn die allgemeinen Wirkungen der Ehe während eines Teils der Ehezeit
-    einem Recht unterlagen, das den Versorgungsausgleich kennt,
-
-
-
-soweit seine Durchführung im Hinblick auf die beiderseitigen
-wirtschaftlichen Verhältnisse auch während der nicht im Inland
-verbrachten Zeit der Billigkeit nicht widerspricht.
+(3) Der Versorgungsausgleich unterliegt dem nach der Verordnung (EU)
+Nr. 1259/2010 auf die Scheidung anzuwendenden Recht; er ist nur
+durchzuführen, wenn danach deutsches Recht anzuwenden ist und ihn das
+Recht eines der Staaten kennt, denen die Ehegatten im Zeitpunkt des
+Eintritts der Rechtshängigkeit des Scheidungsantrags angehören. Im
+Übrigen ist der Versorgungsausgleich auf Antrag eines Ehegatten nach
+deutschem Recht durchzuführen, wenn einer der Ehegatten in der Ehezeit
+ein Anrecht bei einem inländischen Versorgungsträger erworben hat,
+soweit die Durchführung des Versorgungsausgleichs insbesondere im
+Hinblick auf die beiderseitigen wirtschaftlichen Verhältnisse während
+der gesamten Ehezeit der Billigkeit nicht widerspricht.
 
 
 ###### Art 17a - Ehewohnung und Haushaltsgegenstände
@@ -436,27 +503,23 @@ Betretungs-, Näherungs- und Kontaktverbote unterliegen den deutschen
 Sachvorschriften.
 
 
-###### Art 17b - Eingetragene Lebenspartnerschaft
+###### Art 17b - Eingetragene Lebenspartnerschaft und gleichgeschlechtliche Ehe
 
 (1) Die Begründung, die allgemeinen und die güterrechtlichen Wirkungen
 sowie die Auflösung einer eingetragenen Lebenspartnerschaft
-unterliegen den Sachvorschriften des Register führenden Staates. Auf
-die erbrechtlichen Folgen der Lebenspartnerschaft ist das nach den
-allgemeinen Vorschriften maßgebende Recht anzuwenden; begründet die
-Lebenspartnerschaft danach kein gesetzliches Erbrecht, so findet
-insoweit Satz 1 entsprechende Anwendung. Der Versorgungsausgleich
-unterliegt dem nach Satz 1 anzuwendenden Recht; er ist nur
-durchzuführen, wenn danach deutsches Recht anzuwenden ist und das
-Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt der
-Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft
+unterliegen den Sachvorschriften des Register führenden Staates. Der
+Versorgungsausgleich unterliegt dem nach Satz 1 anzuwendenden Recht;
+er ist nur durchzuführen, wenn danach deutsches Recht anzuwenden ist
+und das Recht eines der Staaten, denen die Lebenspartner im Zeitpunkt
+der Rechtshängigkeit des Antrags auf Aufhebung der Lebenspartnerschaft
 angehören, einen Versorgungsausgleich zwischen Lebenspartnern kennt.
 Im Übrigen ist der Versorgungsausgleich auf Antrag eines
-Lebenspartners nach deutschem Recht durchzuführen, wenn der andere
-Lebenspartner während der Lebenspartnerschaftszeit eine inländische
-Versorgungsanwartschaft erworben hat, soweit die Durchführung des
-Versorgungsausgleichs im Hinblick auf die beiderseitigen
-wirtschaftlichen Verhältnisse auch während der nicht im Inland
-verbrachten Zeit der Billigkeit nicht widerspricht.
+Lebenspartners nach deutschem Recht durchzuführen, wenn einer der
+Lebenspartner während der Zeit der Lebenspartnerschaft ein Anrecht bei
+einem inländischen Versorgungsträger erworben hat, soweit die
+Durchführung des Versorgungsausgleichs insbesondere im Hinblick auf
+die beiderseitigen wirtschaftlichen Verhältnisse während der gesamten
+Zeit der Lebenspartnerschaft der Billigkeit nicht widerspricht.
 
 (2) Artikel 10 Abs. 2 und Artikel 17a gelten entsprechend. Unterliegen
 die allgemeinen Wirkungen der Lebenspartnerschaft dem Recht eines
@@ -465,16 +528,21 @@ anderen Staates, so ist auf im Inland befindliche bewegliche Sachen §
 vorgenommene Rechtsgeschäfte § 8 Abs. 2 des
 Lebenspartnerschaftsgesetzes in Verbindung mit § 1357 des Bürgerlichen
 Gesetzbuchs anzuwenden, soweit diese Vorschriften für gutgläubige
-Dritte günstiger sind als das fremde Recht.
+Dritte günstiger sind als das fremde Recht. Unterliegen die
+güterrechtlichen Wirkungen einer eingetragenen Lebenspartnerschaft dem
+Recht eines anderen Staates und hat einer der Lebenspartner seinen
+gewöhnlichen Aufenthalt im Inland oder betreibt er hier ein Gewerbe,
+so ist § 7 Satz 2 des Lebenspartnerschaftsgesetzes in Verbindung mit §
+1412 des Bürgerlichen Gesetzbuchs entsprechend anzuwenden; der fremde
+Güterstand steht einem vertragsmäßigen gleich.
 
 (3) Bestehen zwischen denselben Personen eingetragene
 Lebenspartnerschaften in verschiedenen Staaten, so ist die zuletzt
 begründete Lebenspartnerschaft vom Zeitpunkt ihrer Begründung an für
 die in Absatz 1 umschriebenen Wirkungen und Folgen maßgebend.
 
-(4) Die Wirkungen einer im Ausland eingetragenen Lebenspartnerschaft
-gehen nicht weiter als nach den Vorschriften des Bürgerlichen
-Gesetzbuchs und des Lebenspartnerschaftsgesetzes vorgesehen.
+(4) Die Bestimmungen der Absätze 1 bis 3 gelten für die
+gleichgeschlechtliche Ehe entsprechend.
 
 
 ###### Art 18 - (weggefallen)
@@ -518,7 +586,10 @@ hat.
 (1) Die Annahme als Kind unterliegt dem Recht des Staates, dem der
 Annehmende bei der Annahme angehört. Die Annahme durch einen oder
 beide Ehegatten unterliegt dem Recht, das nach Artikel 14 Abs. 1 für
-die allgemeinen Wirkungen der Ehe maßgebend ist.
+die allgemeinen Wirkungen der Ehe maßgebend ist. Die Annahme durch
+einen Lebenspartner unterliegt dem Recht, das nach Artikel 17b Absatz
+1 Satz 1 für die allgemeinen Wirkungen der Lebenspartnerschaft
+maßgebend ist.
 
 (2) Die Folgen der Annahme in Bezug auf das Verwandtschaftsverhältnis
 zwischen dem Kind und dem Annehmenden sowie den Personen, zu denen das
@@ -526,14 +597,15 @@ Kind in einem familienrechtlichen Verhältnis steht, unterliegen dem
 nach Absatz 1 anzuwendenden Recht.
 
 (3) In Ansehung der Rechtsnachfolge von Todes wegen nach dem
-Annehmenden, dessen Ehegatten oder Verwandten steht der Angenommene
-ungeachtet des nach den Absätzen 1 und 2 anzuwendenden Rechts einem
-nach den deutschen Sachvorschriften angenommenen Kind gleich, wenn der
-Erblasser dies in der Form einer Verfügung von Todes wegen angeordnet
-hat und die Rechtsnachfolge deutschem Recht unterliegt. Satz 1 gilt
-entsprechend, wenn die Annahme auf einer ausländischen Entscheidung
-beruht. Die Sätze 1 und 2 finden keine Anwendung, wenn der Angenommene
-im Zeitpunkt der Annahme das achtzehnte Lebensjahr vollendet hatte.
+Annehmenden, dessen Ehegatten, Lebenspartner oder Verwandten steht der
+Angenommene ungeachtet des nach den Absätzen 1 und 2 anzuwendenden
+Rechts einem nach den deutschen Sachvorschriften angenommenen Kind
+gleich, wenn der Erblasser dies in der Form einer Verfügung von Todes
+wegen angeordnet hat und die Rechtsnachfolge deutschem Recht
+unterliegt. Satz 1 gilt entsprechend, wenn die Annahme auf einer
+ausländischen Entscheidung beruht. Die Sätze 1 und 2 finden keine
+Anwendung, wenn der Angenommene im Zeitpunkt der Annahme das
+achtzehnte Lebensjahr vollendet hatte.
 
 
 ###### Art 23 - Zustimmung
@@ -572,66 +644,26 @@ anordnenden Staates.
 
 ###### Art 25 - Rechtsnachfolge von Todes wegen
 
-(1) Die Rechtsnachfolge von Todes wegen unterliegt dem Recht des
-Staates, dem der Erblasser im Zeitpunkt seines Todes angehörte.
-
-(2) Der Erblasser kann für im Inland belegenes unbewegliches Vermögen
-in der Form einer Verfügung von Todes wegen deutsches Recht wählen.
+Soweit die Rechtsnachfolge von Todes wegen nicht in den
+Anwendungsbereich der Verordnung (EU) Nr. 650/2012 fällt, gelten die
+Vorschriften des Kapitels III dieser Verordnung entsprechend.
 
 
-###### Art 26 - Verfügungen von Todes wegen
+###### Art 26 - Form von Verfügungen von Todes wegen
 
-(1) Eine letztwillige Verfügung ist, auch wenn sie von mehreren
-Personen in derselben Urkunde errichtet wird, hinsichtlich ihrer Form
-gültig, wenn diese den Formerfordernissen entspricht
+(1) In Ausführung des Artikels 3 des Haager Übereinkommens vom 5.
+Oktober 1961 über das auf die Form letztwilliger Verfügungen
+anzuwendende Recht (BGBl. 1965 II S. 1144, 1145) ist eine letztwillige
+Verfügung, auch wenn sie von mehreren Personen in derselben Urkunde
+errichtet wird oder durch sie eine frühere letztwillige Verfügung
+widerrufen wird, hinsichtlich ihrer Form gültig, wenn sie den
+Formerfordernissen des Rechts entspricht, das auf die Rechtsnachfolge
+von Todes wegen anzuwenden ist oder im Zeitpunkt der Verfügung
+anzuwenden wäre. Die weiteren Vorschriften des Haager Übereinkommens
+bleiben unberührt.
 
-1.  des Rechts eines Staates, dem der Erblasser ungeachtet des Artikels 5
-    Abs. 1 im Zeitpunkt, in dem er letztwillig verfügt hat, oder im
-    Zeitpunkt seines Todes angehörte,
-
-
-2.  des Rechts des Ortes, an dem der Erblasser letztwillig verfügt hat,
-
-
-3.  des Rechts eines Ortes, an dem der Erblasser im Zeitpunkt, in dem er
-    letztwillig verfügt hat, oder im Zeitpunkt seines Todes seinen
-    Wohnsitz oder gewöhnlichen Aufenthalt hatte,
-
-
-4.  des Rechts des Ortes, an dem sich unbewegliches Vermögen befindet,
-    soweit es sich um dieses handelt, oder
-
-
-5.  des Rechts, das auf die Rechtsnachfolge von Todes wegen anzuwenden ist
-    oder im Zeitpunkt der Verfügung anzuwenden wäre.
-
-
-
-Ob der Erblasser an einem bestimmten Ort einen Wohnsitz hatte, regelt
-das an diesem Ort geltende Recht.
-
-(2) Absatz 1 ist auch auf letztwillige Verfügungen anzuwenden, durch
-die eine frühere letztwillige Verfügung widerrufen wird. Der Widerruf
-ist hinsichtlich seiner Form auch dann gültig, wenn diese einer der
-Rechtsordnungen entspricht, nach denen die widerrufene letztwillige
-Verfügung gemäß Absatz 1 gültig war.
-
-(3) Die Vorschriften, welche die für letztwillige Verfügungen
-zugelassenen Formen mit Beziehung auf das Alter, die
-Staatsangehörigkeit oder andere persönliche Eigenschaften des
-Erblassers beschränken, werden als zur Form gehörend angesehen. Das
-gleiche gilt für Eigenschaften, welche die für die Gültigkeit einer
-letztwilligen Verfügung erforderlichen Zeugen besitzen müssen.
-
-(4) Die Absätze 1 bis 3 gelten für andere Verfügungen von Todes wegen
-entsprechend.
-
-(5) Im übrigen unterliegen die Gültigkeit der Errichtung einer
-Verfügung von Todes wegen und die Bindung an sie dem Recht, das im
-Zeitpunkt der Verfügung auf die Rechtsnachfolge von Todes wegen
-anzuwenden wäre. Die einmal erlangte Testierfähigkeit wird durch
-Erwerb oder Verlust der Rechtsstellung als Deutscher nicht
-beeinträchtigt.
+(2) Für die Form anderer Verfügungen von Todes wegen ist Artikel 27
+der Verordnung (EU) Nr. 650/2012 maßgeblich.
 
 
 #### Fünfter Abschnitt - Außervertragliche Schuldverhältnisse
@@ -791,7 +823,7 @@ als mit dem Recht, das nach den Artikeln 43 und 45 maßgebend wäre, so
 ist jenes Recht anzuwenden.
 
 
-#### Siebter Abschnitt - Besondere Vorschriften zur Durchführung von Regelungen der Europäischen Gemeinschaft nach Artikel 3 Nr. 1
+#### Siebter Abschnitt - Besondere Vorschriften zur Durchführung und Umsetzung international-privatrechtlicher Regelungen der Europäischen Union
 
 
 
@@ -808,7 +840,7 @@ eingetreten ist, nur im ersten Rechtszug bis zum Ende des frühen
 ersten Termins oder dem Ende des schriftlichen Vorverfahrens ausüben.
 
 
-##### Zweiter Unterabschnitt - Durchführung der Verordnung (EG) Nr. 593/2008
+##### Zweiter Unterabschnitt - Umsetzung international-privatrechtlicher Regelungen im Verbraucherschutz
 
 
 
@@ -848,24 +880,19 @@ ihrer jeweils geltenden Fassung:
     21\.4.1993, S. 29);
 
 
-2.  die Richtlinie 97/7/EG des Europäischen Parlaments und des Rates vom
-    20\. Mai 1997 über den Verbraucherschutz bei Vertragsabschlüssen im
-    Fernabsatz (ABl. L 144 vom 4.6.1997, S. 19);
-
-
-3.  die Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates
+2.  die Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates
     vom 25. Mai 1999 zu bestimmten Aspekten des Verbrauchsgüterkaufs und
     der Garantien für Verbrauchsgüter (ABl. L 171 vom 7.7.1999, S. 12);
 
 
-4.  die Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates
+3.  die Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates
     vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen
     an Verbraucher und zur Änderung der Richtlinie 90/619/EWG des Rates
     und der Richtlinien 97/7/EG und 98/27/EG (ABl. L 271 vom 9.10.2002, S.
     16);
 
 
-5.  die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates
+4.  die Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates
     vom 23. April 2008 über Verbraucherkreditverträge und zur Aufhebung
     der Richtlinie 87/102/EWG des Rates (ABl. L 133 vom 22.5.2008, S. 66).
 
@@ -902,7 +929,78 @@ wenn
 
 
 
-###### Art 46c - Pflichtversicherungsverträge
+###### Art 46c - Pauschalreisen und verbundene Reiseleistungen
+
+(1) Hat der Reiseveranstalter im Zeitpunkt des Vertragsschlusses seine
+Niederlassung im Sinne des § 4 Absatz 3 der Gewerbeordnung weder in
+einem Mitgliedstaat der Europäischen Union noch in einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum und
+
+1.  schließt der Reiseveranstalter in einem Mitgliedstaat der Europäischen
+    Union oder einem anderen Vertragsstaat des Abkommens über den
+    Europäischen Wirtschaftsraum Pauschalreiseverträge oder bietet er in
+    einem dieser Staaten an, solche Verträge zu schließen, oder
+
+
+2.  richtet der Reiseveranstalter seine Tätigkeit im Sinne der Nummer 1
+    auf einen Mitgliedstaat der Europäischen Union oder einen anderen
+    Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum aus,
+
+
+
+so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer
+1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 17 der
+Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates
+vom 25. November 2015 über Pauschalreisen und verbundene
+Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und
+der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates
+sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326
+vom 11.12.2015, S. 1) erlassen hat, sofern der Vertrag in den Bereich
+dieser Tätigkeit fällt.
+
+(2) Hat der Vermittler verbundener Reiseleistungen im Zeitpunkt des
+Vertragsschlusses seine Niederlassung im Sinne des § 4 Absatz 3 der
+Gewerbeordnung weder in einem Mitgliedstaat der Europäischen Union
+noch einem anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum und
+
+1.  vermittelt er verbundene Reiseleistungen in einem Mitgliedstaat der
+    Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum oder bietet er sie dort zur
+    Vermittlung an oder
+
+
+2.  richtet er seine Vermittlungstätigkeit auf einen Mitgliedstaat der
+    Europäischen Union oder einen anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum aus,
+
+
+
+so sind die sachrechtlichen Vorschriften anzuwenden, die der in Nummer
+1 oder Nummer 2 genannte Staat zur Umsetzung des Artikels 19 Absatz 1
+in Verbindung mit Artikel 17 und des Artikels 19 Absatz 3 der
+Richtlinie (EU) 2015/2302 erlassen hat, sofern der Vertrag in den
+Bereich dieser Tätigkeit fällt.
+
+(3) Hat der Vermittler verbundener Reiseleistungen in dem nach Artikel
+251 § 1 maßgeblichen Zeitpunkt seine Niederlassung im Sinne des § 4
+Absatz 3 der Gewerbeordnung weder in einem Mitgliedstaat der
+Europäischen Union noch in einem anderen Vertragsstaat des Abkommens
+über den Europäischen Wirtschaftsraum und richtet er seine
+Vermittlungstätigkeit auf einen Mitgliedstaat der Europäischen Union
+oder einen anderen Vertragsstaat des Abkommens über den Europäischen
+Wirtschaftsraum aus, so sind die sachrechtlichen Vorschriften
+anzuwenden, die der Staat, auf den die Vermittlungstätigkeit
+ausgerichtet ist, zur Umsetzung des Artikels 19 Absatz 2 und 3 der
+Richtlinie (EU) 2015/2302 erlassen hat, sofern der in Aussicht
+genommene Vertrag in den Bereich dieser Tätigkeit fällt.
+
+
+##### Dritter Unterabschnitt - Durchführung der Verordnung (EG) Nr. 593/2008
+
+
+
+###### Art 46d - Pflichtversicherungsverträge
 
 (1) Ein Versicherungsvertrag über Risiken, für die ein Mitgliedstaat
 der Europäischen Union oder ein anderer Vertragsstaat des Abkommens
@@ -915,7 +1013,21 @@ unterliegt deutschem Recht, wenn die gesetzliche Verpflichtung zu
 seinem Abschluss auf deutschem Recht beruht.
 
 
-### Drittes Kapitel - Angleichung
+##### Vierter Unterabschnitt - Durchführung der Verordnung (EU) Nr. 1259/2010
+
+
+
+###### Art 46e - Rechtswahl
+
+(1) Eine Rechtswahlvereinbarung nach Artikel 5 der Verordnung (EU) Nr.
+1259/2010 ist notariell zu beurkunden.
+
+(2) Die Ehegatten können die Rechtswahl nach Absatz 1 auch noch bis
+zum Schluss der mündlichen Verhandlung im ersten Rechtszug vornehmen.
+§ 127a des Bürgerlichen Gesetzbuchs gilt entsprechend.
+
+
+### Drittes Kapitel - Angleichung; Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
 
 
 
@@ -945,8 +1057,9 @@ so kann sie durch Erklärung gegenüber dem Standesamt
 
 
 
-Ist der Name Ehename, so kann die Erklärung während des Bestehens der
-Ehe nur von beiden Ehegatten abgegeben werden.
+Ist der Name Ehename oder Lebenspartnerschaftsname, so kann die
+Erklärung während des Bestehens der Ehe oder Lebenspartnerschaft nur
+von beiden Ehegatten oder Lebenspartnern abgegeben werden.
 
 (2) Absatz 1 gilt entsprechend für die Bildung eines Namens nach
 deutschem Recht, wenn dieser von einem Namen abgeleitet werden soll,
@@ -955,10 +1068,27 @@ der nach einem anwendbaren ausländischen Recht erworben worden ist.
 (3) § 1617c des Bürgerlichen Gesetzbuchs gilt entsprechend.
 
 (4) Die Erklärungen nach den Absätzen 1 und 2 müssen öffentlich
-beglaubigt oder beurkundet werden.
+beglaubigt oder beurkundet werden, wenn sie nicht bei der
+Eheschließung oder bei der Begründung der Lebenspartnerschaft
+gegenüber einem deutschen Standesamt abgegeben werden.
 
 
-##### Art 48 und 49 - (Änderung anderer Vorschriften)
+##### Art 48 - Wahl eines in einem anderen Mitgliedstaat der Europäischen Union erworbenen Namens
+
+Unterliegt der Name einer Person deutschem Recht, so kann sie durch
+Erklärung gegenüber dem Standesamt den während eines gewöhnlichen
+Aufenthalts in einem anderen Mitgliedstaat der Europäischen Union
+erworbenen und dort in ein Personenstandsregister eingetragenen Namen
+wählen, sofern dies nicht mit wesentlichen Grundsätzen des deutschen
+Rechts offensichtlich unvereinbar ist. Die Namenswahl wirkt zurück auf
+den Zeitpunkt der Eintragung in das Personenstandsregister des anderen
+Mitgliedstaats, es sei denn, die Person erklärt ausdrücklich, dass die
+Namenswahl nur für die Zukunft wirken soll. Die Erklärung muss
+öffentlich beglaubigt oder beurkundet werden. Artikel 47 Absatz 1 und
+3 gilt entsprechend.
+
+
+##### Art 49 - (Änderung anderer Vorschriften)
 
 
 
@@ -966,14 +1096,14 @@ beglaubigt oder beurkundet werden.
 
 
 
-#### Art 50 -
+#### Art 50 - 
 
 Die Vorschriften der Reichsgesetze bleiben in Kraft. Sie treten jedoch
 insoweit außer Kraft, als sich aus dem Bürgerlichen Gesetzbuch oder
 aus diesem Gesetz die Aufhebung ergibt.
 
 
-#### Art 51 -
+#### Art 51 - 
 
 Soweit in dem Gerichtsverfassungsgesetz, der Zivilprozeßordnung, der
 Strafprozeßordnung, der Insolvenzordnung und in dem Anfechtungsgesetz
@@ -983,7 +1113,7 @@ oder des Lebenspartnerschaftsgesetzes über Verwandtschaft oder
 Schwägerschaft Anwendung.
 
 
-#### Art 52 -
+#### Art 52 - 
 
 Ist auf Grund eines Reichsgesetzes dem Eigentümer einer Sache wegen
 der im öffentlichen Interesse erfolgenden Entziehung, Beschädigung
@@ -996,7 +1126,7 @@ Erlöschens seines Rechts durch Zwangsversteigerung an dem Erlös
 zustehen.
 
 
-#### Art 53 -
+#### Art 53 - 
 
 (1) Ist in einem Falle des Artikel 52 die Entschädigung dem Eigentümer
 eines Grundstücks zu gewähren, so finden auf den
@@ -1020,7 +1150,7 @@ Zubehörstücken zu gewähren, so finden die Vorschriften des § 1123 Abs.
 entsprechende Anwendung.
 
 
-#### Art 53a -
+#### Art 53a - 
 
 (1) Ist in einem Falle des Artikels 52 die Entschädigung dem
 Eigentümer eines eingetragenen Schiffs oder Schiffsbauwerks zu
@@ -1040,14 +1170,14 @@ entsprechend anzuwenden.
 
 
 
-#### Art 55 -
+#### Art 55 - 
 
 Die privatrechtlichen Vorschriften der Landesgesetze treten außer
 Kraft, soweit nicht in dem Bürgerlichen Gesetzbuch oder in diesem
 Gesetz ein anderes bestimmt ist.
 
 
-#### Art 56 -
+#### Art 56 - 
 
 Unberührt bleiben die Bestimmungen der Staatsverträge, die ein
 Bundesstaat mit einem ausländischen Staat vor dem Inkrafttreten des
@@ -1058,14 +1188,14 @@ Bürgerlichen Gesetzbuchs geschlossen hat.
 
 
 
-#### Art 59 -
+#### Art 59 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Familienfideikommisse und Lehen, mit Einschluß der allodifizierten
 Lehen, sowie über Stammgüter.
 
 
-#### Art 60 -
+#### Art 60 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Bestellung einer Hypothek, Grundschuld oder Rentenschuld an einem
@@ -1075,7 +1205,7 @@ gestatten, daß der Gläubiger Befriedigung aus dem Grundstück lediglich
 im Wege der Zwangsverwaltung suchen kann.
 
 
-#### Art 61 -
+#### Art 61 - 
 
 Ist die Veräußerung oder Belastung eines Gegenstandes nach den in den
 Artikeln 57 bis 59 bezeichneten Vorschriften unzulässig oder nur
@@ -1085,13 +1215,13 @@ Gesetzbuchs zugunsten derjenigen, welche Rechte von einem
 Nichtberechtigten herleiten, entsprechende Anwendung.
 
 
-#### Art 62 -
+#### Art 62 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Rentengüter.
 
 
-#### Art 63 -
+#### Art 63 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das
 Erbpachtrecht, mit Einschluß des Büdnerrechts und des Häuslerrechts,
@@ -1100,7 +1230,7 @@ Vorschriften des § 1017 des Bürgerlichen Gesetzbuchs finden auf diese
 Rechte entsprechende Anwendung.
 
 
-#### Art 64 -
+#### Art 64 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften über das
 Anerbenrecht in Ansehung landwirtschaftlicher und
@@ -1115,13 +1245,13 @@ nicht beschränken.
 
 
 
-#### Art 66 -
+#### Art 66 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Deich- und Sielrecht angehören.
 
 
-#### Art 67 -
+#### Art 67 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Bergrecht angehören.
@@ -1132,7 +1262,7 @@ die Vorschriften der Artikel 52 und 53 Anwendung, soweit nicht die
 Landesgesetze ein anderes bestimmen.
 
 
-#### Art 68 -
+#### Art 68 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks mit dem vererblichen und veräußerlichen
@@ -1142,24 +1272,24 @@ bestimmen. Die Vorschriften der §§ 874, 875, 876, 1015, 1017 des
 Bürgerlichen Gesetzbuchs finden entsprechende Anwendung.
 
 
-#### Art 69 -
+#### Art 69 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
-Jagd und              Fischerei, unbeschadet der Vorschrift des § 958
-Abs. 2 des Bürgerlichen Gesetzbuchs und der Vorschriften des
-Bürgerlichen Gesetzbuchs über den Ersatz des Wildschadens.
+Jagd und Fischerei, unbeschadet der Vorschrift des § 958 Abs. 2 des
+Bürgerlichen Gesetzbuchs und der Vorschriften des Bürgerlichen
+Gesetzbuchs über den Ersatz des Wildschadens.
 
 
 #### Art 70 bis 72 - (weggefallen)
 
 
 
-#### Art 73 -
+#### Art 73 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über Regalien.
 
 
-#### Art 74 -
+#### Art 74 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Zwangsrechte, Bannrechte und Realgewerbeberechtigungen.
@@ -1169,13 +1299,13 @@ Zwangsrechte, Bannrechte und Realgewerbeberechtigungen.
 
 
 
-#### Art 76 -
+#### Art 76 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche dem
 Verlagsrecht angehören.
 
 
-#### Art 77 -
+#### Art 77 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die Haftung
 des Staates, der Gemeinden und anderer Kommunalverbände (Provinzial-,
@@ -1186,14 +1316,14 @@ von dem Beamten den Ersatz eines solchen Schadens zu verlangen,
 insoweit ausschließen, als der Staat oder der Kommunalverband haftet.
 
 
-#### Art 78 -
+#### Art 78 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die Beamten für die von ihnen angenommenen Stellvertreter und Gehilfen
 in weiterem Umfang als nach dem Bürgerlichen Gesetzbuch haften.
 
 
-#### Art 79 -
+#### Art 79 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die zur amtlichen Feststellung des Wertes von Grundstücken bestellten
@@ -1202,7 +1332,7 @@ entstandenen Schaden in weiterem Umfang als nach dem Bürgerlichen
 Gesetzbuch haften.
 
 
-#### Art 80 -
+#### Art 80 - 
 
 (1) Unberührt bleiben, soweit nicht in dem Bürgerlichen Gesetzbuch
 eine besondere Bestimmung getroffen ist, die landesgesetzlichen
@@ -1215,7 +1345,7 @@ mit Einschluß der Ansprüche der Hinterbliebenen.
 Pfründenrecht.
 
 
-#### Art 81 -
+#### Art 81 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Übertragbarkeit der Ansprüche der in Artikel 80 Abs. 1 bezeichneten
@@ -1225,25 +1355,25 @@ Aufrechnung gegen solche Ansprüche abweichend von der Vorschrift des §
 394 des Bürgerlichen Gesetzbuchs zulassen.
 
 
-#### Art 82 -
+#### Art 82 - 
 
 Unberührt bleiben die Vorschriften der Landesgesetze über die
 Verfassung solcher Vereine, deren Rechtsfähigkeit auf staatlicher
 Verleihung beruht.
 
 
-#### Art 83 -
+#### Art 83 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über
 Waldgenossenschaften.
 
 
-#### Art 84 -
+#### Art 84 - 
 
 (gegenstandslos)
 
 
-#### Art 85 -
+#### Art 85 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle des § 45 Abs. 3 des Bürgerlichen Gesetzbuchs das Vermögen des
@@ -1251,7 +1381,7 @@ aufgelösten Vereins an Stelle des Fiskus einer Körperschaft, Stiftung
 oder Anstalt des öffentlichen Rechts anfällt.
 
 
-#### Art 86 -
+#### Art 86 - 
 
 Vorschriften, die den Erwerb von Rechten durch Ausländer oder durch
 juristische Personen, die ihren satzungsmäßigen Sitz, ihre
@@ -1261,8 +1391,7 @@ Genehmigung abhängig machen, finden vom 30. Juli 1998 keine Anwendung
 mehr. Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates den Erwerb von Rechten durch Ausländer oder
 ausländische juristische Personen zu beschränken und von der Erteilung
-einer Genehmigung
-abhängig machen             , wenn Deutsche und inländische
+einer Genehmigung abhängig zu machen, wenn Deutsche und inländische
 juristische Personen in dem betreffenden Staat in dem Erwerb von
 Rechten eingeschränkt werden und außenpolitische Gründe, insbesondere
 das Retorsionsrecht, dies erfordern. Satz 2 gilt nicht für Ausländer
@@ -1278,7 +1407,7 @@ Europäischen Union.
 
 
 
-#### Art 89 -
+#### Art 89 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die zum
 Schutz der Grundstücke und der Erzeugnisse von Grundstücken gestattete
@@ -1286,7 +1415,7 @@ Pfändung von Sachen, mit Einschluß der Vorschriften über die
 Entrichtung von Pfandgeld oder Ersatzgeld.
 
 
-#### Art 90 -
+#### Art 90 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Rechtsverhältnisse, welche sich aus einer auf Grund des öffentlichen
@@ -1294,7 +1423,7 @@ Rechts wegen der Führung eines Amtes oder wegen eines Gewerbebetriebs
 erfolgten Sicherheitsleistung ergeben.
 
 
-#### Art 91 -
+#### Art 91 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 der Fiskus, eine Körperschaft, Stiftung oder Anstalt des öffentlichen
@@ -1311,14 +1440,14 @@ Eintragung.
 
 
 
-#### Art 93 -
+#### Art 93 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Fristen, bis zu deren Ablauf gemietete Räume bei Beendigung des
 Mietverhältnisses zu räumen sind.
 
 
-#### Art 94 -
+#### Art 94 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche den
 Geschäftsbetrieb der Pfandleihanstalten betreffen.
@@ -1333,7 +1462,7 @@ Sache gewährten Darlehens herauszugeben.
 
 
 
-#### Art 96 -
+#### Art 96 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über einen mit
 der Überlassung eines Grundstücks in Verbindung stehenden
@@ -1342,7 +1471,7 @@ das sich aus dem Vertrag ergebende Schuldverhältnis für den Fall
 regeln, daß nicht besondere Vereinbarungen getroffen werden.
 
 
-#### Art 97 -
+#### Art 97 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Eintragung von Gläubigern des Bundesstaats in ein Staatsschuldbuch und
@@ -1360,7 +1489,7 @@ nach dem unter ihnen bestehenden Güterstand über die Buchforderung nur
 mit Zustimmung des Ehemanns verfügen kann.
 
 
-#### Art 98 -
+#### Art 98 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Rückzahlung oder Umwandlung verzinslicher Staatsschulden, für die
@@ -1368,7 +1497,7 @@ Inhaberpapiere ausgegeben oder die im Staatsschuldbuch eingetragen
 sind.
 
 
-#### Art 99 -
+#### Art 99 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 öffentlichen Sparkassen, unbeschadet der Vorschriften des § 808 des
@@ -1376,7 +1505,7 @@ Bürgerlichen Gesetzbuchs und der Vorschriften des Bürgerlichen
 Gesetzbuchs über die Anlegung von Mündelgeld.
 
 
-#### Art 100 -
+#### Art 100 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 bei Schuldverschreibungen auf den Inhaber, die der Bundesstaat oder
@@ -1396,7 +1525,7 @@ eine ihm angehörende Körperschaft, Stiftung oder Anstalt des
 
 
 
-#### Art 101 -
+#### Art 101 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche den
 Bundesstaat oder ihm angehörende Körperschaften, Stiftungen und
@@ -1409,7 +1538,7 @@ einer solchen Schuldverschreibung ergebenden Rechtsverhältnisse, mit
 Einschluß der Kraftloserklärung, regeln.
 
 
-#### Art 102 -
+#### Art 102 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Kraftloserklärung und die Zahlungssperre in Ansehung der im § 807 des
@@ -1425,24 +1554,24 @@ bestimmen.
 
 
 
-#### Art 104 -
+#### Art 104 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über den
 Anspruch auf Rückerstattung mit Unrecht erhobener öffentlicher Abgaben
 oder Kosten eines Verfahrens.
 
 
-#### Art 105 -
+#### Art 105 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 der Unternehmer eines
-Eisenbahnbetriebs oder eines anderen              mit gemeiner Gefahr
-verbundenen Betriebs für den aus dem Betrieb entstehenden Schaden in
-weiterem Umfang als nach den Vorschriften des Bürgerlichen Gesetzbuchs
+Eisenbahnbetriebs oder eines anderen mit gemeiner Gefahr verbundenen
+Betriebs für den aus dem Betrieb entstehenden Schaden in weiterem
+Umfang als nach den Vorschriften des Bürgerlichen Gesetzbuchs
 verantwortlich ist.
 
 
-#### Art 106 -
+#### Art 106 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen,
 wenn ein dem öffentlichen Gebrauch dienendes Grundstück zu einer
@@ -1452,7 +1581,7 @@ dem öffentlichen Gebrauch des Grundstücks durch die Anlage oder den
 Betrieb verursacht wird.
 
 
-#### Art 107 -
+#### Art 107 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Verpflichtung zum Ersatz des Schadens, der durch das Zuwiderhandeln
@@ -1460,14 +1589,14 @@ gegen ein zum Schutz von Grundstücken erlassenes Strafgesetz
 verursacht wird.
 
 
-#### Art 108 -
+#### Art 108 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Verpflichtung zum Ersatz des Schadens, der bei einer Zusammenrottung,
 einem Auflauf oder einem Aufruhr entsteht.
 
 
-#### Art 109 -
+#### Art 109 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die im
 öffentlichen Interesse erfolgende Entziehung, Beschädigung oder
@@ -1481,21 +1610,21 @@ das notarielle Beurkundung vorgeschrieben ist, eine andere Form
 genügt.
 
 
-#### Art 110 -
+#### Art 110 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für den
 Fall, daß zerstörte Gebäude in anderer Lage wiederhergestellt werden,
 die Rechte an den beteiligten Grundstücken regeln.
 
 
-#### Art 111 -
+#### Art 111 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche im
 öffentlichen Interesse das Eigentum in Ansehung tatsächlicher
 Verfügungen beschränken.
 
 
-#### Art 112 -
+#### Art 112 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Behandlung der einem Eisenbahn- oder Kleinbahnunternehmen gewidmeten
@@ -1509,7 +1638,7 @@ auf abgesonderte Befriedigung aus den Bestandteilen der Bahneinheit
 zusteht.
 
 
-#### Art 113 -
+#### Art 113 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Zusammenlegung von Grundstücken, über die Gemeinheitsteilung, die
@@ -1523,7 +1652,7 @@ oder welche sich auf den Erwerb des Eigentums, auf die Begründung,
 Berichtigung des Grundbuchs beziehen.
 
 
-#### Art 114 -
+#### Art 114 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 die dem Staat oder einer öffentlichen Anstalt infolge der Ordnung der
@@ -1534,7 +1663,7 @@ Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht
 der Eintragung bedürfen.
 
 
-#### Art 115 -
+#### Art 115 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks mit gewissen Grunddienstbarkeiten oder
@@ -1544,7 +1673,7 @@ Vorschriften, welche den Inhalt und das Maß solcher Rechte näher
 bestimmen.
 
 
-#### Art 116 -
+#### Art 116 - 
 
 Die in den Artikeln 113 bis 115 bezeichneten landesgesetzlichen
 Vorschriften finden keine Anwendung auf die nach den §§ 912, 916 und
@@ -1553,7 +1682,7 @@ die in den §§ 1021 und 1022 des Bürgerlichen Gesetzbuchs bestimmten
 Unterhaltungspflichten.
 
 
-#### Art 117 -
+#### Art 117 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Belastung eines Grundstücks über eine bestimmte Wertgrenze hinaus
@@ -1567,7 +1696,7 @@ beschränken und bei Rentenschulden nur für eine kürzere als die in §
 1202 Abs. 2 des Bürgerlichen Gesetzbuchs bestimmte Zeit zulassen.
 
 
-#### Art 118 -
+#### Art 118 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche einer
 Geldrente, Hypothek, Grundschuld oder Rentenschuld, die dem Staat oder
@@ -1578,7 +1707,7 @@ die Vorschriften der §§ 892 und 893 des Bürgerlichen Gesetzbuchs
 Anwendung.
 
 
-#### Art 119 -
+#### Art 119 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 
@@ -1587,19 +1716,13 @@ Unberührt bleiben die landesgesetzlichen Vorschriften, welche
 
 2.  die Teilung eines Grundstücks oder die getrennte Veräußerung von
     Grundstücken, die bisher zusammen bewirtschaftet worden sind,
-    untersagen oder beschränken;
-
-
-3.  die nach § 890 Abs. 1 des Bürgerlichen Gesetzbuchs zulässige
-    Vereinigung mehrerer Grundstücke oder die nach § 890 Abs. 2 des
-    Bürgerlichen Gesetzbuchs zulässige Zuschreibung eines Grundstücks zu
-    einem anderen Grundstück untersagen oder beschränken.
+    untersagen oder beschränken.
 
 
 
 
 
-#### Art 120 -
+#### Art 120 - 
 
 (1) Unberührt bleiben die landesgesetzlichen Vorschriften, nach
 welchen im Falle der Veräußerung eines Teiles eines Grundstücks dieser
@@ -1629,7 +1752,7 @@ welchen unter der gleichen Voraussetzung:
 
 
 
-#### Art 121 -
+#### Art 121 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle der Teilung eines für den Staat oder eine öffentliche Anstalt
@@ -1639,7 +1762,7 @@ Eigentümers dieses Teiles die übrigen Teile mit gleichartigen
 Reallasten belastet werden.
 
 
-#### Art 122 -
+#### Art 122 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Rechte des Eigentümers eines Grundstücks in Ansehung der auf der
@@ -1648,14 +1771,14 @@ von den Vorschriften des § 910 und des § 923 Abs. 2 des Bürgerlichen
 Gesetzbuchs bestimmen.
 
 
-#### Art 123 -
+#### Art 123 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche das
 Recht des Notwegs zum Zwecke der Verbindung eines Grundstücks mit
 einer Wasserstraße oder einer Eisenbahn gewähren.
 
 
-#### Art 124 -
+#### Art 124 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche das
 Eigentum an Grundstücken zugunsten der Nachbarn noch anderen als den
@@ -1665,14 +1788,14 @@ sowie Bäume und Sträucher nur in einem bestimmten Abstand von der
 Grenze gehalten werden dürfen.
 
 
-#### Art 125 -
+#### Art 125 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche die
 Vorschrift des § 26 der Gewerbeordnung auf Eisenbahn-,
 Dampfschiffahrts- und ähnliche Verkehrsunternehmungen erstrecken.
 
 
-#### Art 126 -
+#### Art 126 - 
 
 Durch Landesgesetz kann das dem Staat an einem Grundstück zustehende
 Eigentum auf einen Kommunalverband und das einem Kommunalverband an
@@ -1680,7 +1803,7 @@ einem Grundstück zustehende Eigentum auf einen anderen Kommunalverband
 oder auf den Staat übertragen werden.
 
 
-#### Art 127 -
+#### Art 127 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Übertragung des Eigentums an einem Grundstück, das im Grundbuch nicht
@@ -1688,7 +1811,7 @@ eingetragen ist und nach den Vorschriften der Grundbuchordnung auch
 nach der Übertragung nicht eingetragen zu werden braucht.
 
 
-#### Art 128 -
+#### Art 128 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Begründung und Aufhebung einer Dienstbarkeit an einem Grundstück, das
@@ -1696,7 +1819,7 @@ im Grundbuch nicht eingetragen ist und nach den Vorschriften der
 Grundbuchordnung nicht eingetragen zu werden braucht.
 
 
-#### Art 129 -
+#### Art 129 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 das Recht zur Aneignung eines nach § 928 des Bürgerlichen Gesetzbuchs
@@ -1704,14 +1827,14 @@ aufgegebenen Grundstücks an Stelle des Fiskus einer bestimmten anderen
 Person zusteht.
 
 
-#### Art 130 -
+#### Art 130 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Aneignung der einem anderen gehörenden, im Freien betroffenen
 Tauben.
 
 
-#### Art 131 -
+#### Art 131 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für den
 Fall, daß jedem der Miteigentümer eines mit einem Gebäude versehenen
@@ -1723,13 +1846,13 @@ Miteigentümers das Recht, für die Insolvenzmasse die Aufhebung der
 Gemeinschaft zu verlangen, versagen.
 
 
-#### Art 132 -
+#### Art 132 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Kirchenbaulast und die Schulbaulast.
 
 
-#### Art 133 -
+#### Art 133 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über das Recht
 zur Benutzung eines Platzes in einem dem öffentlichen Gottesdienst
@@ -1740,7 +1863,7 @@ gewidmeten Gebäude oder auf einer öffentlichen Begräbnisstätte.
 
 
 
-#### Art 137 -
+#### Art 137 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften über die
 Grundsätze, nach denen in den Fällen des § 1376 Abs. 4, § 1515 Abs. 2
@@ -1752,7 +1875,7 @@ veröffentlichten bereinigten Fassung, das zuletzt durch Artikel 2 Nr.
 ist, der Ertragswert eines Landguts festzustellen ist.
 
 
-#### Art 138 -
+#### Art 138 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen im
 Falle des § 1936 des Bürgerlichen Gesetzbuchs an Stelle des Fiskus
@@ -1760,7 +1883,7 @@ eine Körperschaft, Stiftung oder Anstalt des öffentlichen Rechts
 gesetzlicher Erbe ist.
 
 
-#### Art 139 -
+#### Art 139 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 dem Fiskus oder einer anderen juristischen Person in Ansehung des
@@ -1768,7 +1891,7 @@ Nachlasses einer verpflegten oder unterstützten Person ein Erbrecht,
 ein Pflichtteilsanspruch oder ein Recht auf bestimmte Sachen zusteht.
 
 
-#### Art 140 -
+#### Art 140 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach welchen
 das Nachlaßgericht auch unter anderen als den in § 1960 Abs. 1 des
@@ -1782,7 +1905,7 @@ Siegeln, von Amts wegen anordnen kann oder soll.
 
 
 
-#### Art 143 -
+#### Art 143 - 
 
 (1) (weggefallen)
 
@@ -1793,7 +1916,7 @@ Notar versteigert worden ist und die Auflassung noch in dem
 Versteigerungstermin stattfindet.
 
 
-#### Art 144 -
+#### Art 144 - 
 
 Die Landesgesetze können bestimmen, daß das Jugendamt die
 Beistandschaft mit Zustimmung des Elternteils auf einen rechtsfähigen
@@ -1805,24 +1928,22 @@ Buches Sozialgesetzbuch erteilt worden ist.
 
 
 
-#### Art 147 -
+#### Art 147 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, nach denen für
 die Aufgaben des Betreuungsgerichts oder des Nachlassgerichts andere
 Stellen als Gerichte zuständig sind.
 
 
-#### Art 148 -
+#### Art 148 - (weggefallen)
 
-Die Landesgesetze können die Zuständigkeit des Nachlaßgerichts zur
-Aufnahme des Inventars ausschließen.
 
 
 #### Art 149 bis 151 - (weggefallen)
 
 
 
-#### Art 152 -
+#### Art 152 - 
 
 Unberührt bleiben die landesgesetzlichen Vorschriften, welche für die
 nicht nach den Vorschriften der Zivilprozeßordnung zu erledigenden
@@ -1841,7 +1962,7 @@ entsprechende Anwendung.
 
 
 
-#### Art 157 -
+#### Art 157 - 
 
 Die Vorschriften der französischen und der badischen Gesetze über den
 erwählten Wohnsitz bleiben für Rechtsverhältnisse, die sich nach
@@ -1853,7 +1974,7 @@ Inkrafttreten des Bürgerlichen Gesetzbuchs erwählt worden ist.
 
 
 
-#### Art 163 -
+#### Art 163 - 
 
 Auf die zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehenden juristischen Personen finden von dieser Zeit an die
@@ -1862,7 +1983,7 @@ Gesetzbuchs Anwendung, soweit sich nicht aus den Artikeln 164 bis 166
 ein anderes ergibt.
 
 
-#### Art 164 -
+#### Art 164 - 
 
 In Kraft bleiben die landesgesetzlichen Vorschriften über die zur Zeit
 des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehenden
@@ -1874,7 +1995,7 @@ Personen sind oder nicht und ob die Berechtigung der Mitglieder an
 Grundbesitz geknüpft ist oder nicht.
 
 
-#### Art 165 -
+#### Art 165 - 
 
 In Kraft bleiben die Vorschriften der bayerischen Gesetze, betreffend
 die privatrechtliche Stellung der Vereine sowie der Erwerbs- und
@@ -1884,7 +2005,7 @@ Gesetze zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehen.
 
 
-#### Art 166 -
+#### Art 166 - 
 
 In Kraft bleiben die Vorschriften des sächsischen Gesetzes vom 15.
 Juni 1868, betreffend die juristischen Personen, in Ansehung
@@ -1893,14 +2014,14 @@ Bürgerlichen Gesetzbuchs die Rechtsfähigkeit durch Eintragung in das
 Genossenschaftsregister erlangt haben.
 
 
-#### Art 167 -
+#### Art 167 - 
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, welche die zur
 Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs bestehenden
 landschaftlichen oder ritterschaftlichen Kreditanstalten betreffen.
 
 
-#### Art 168 -
+#### Art 168 - 
 
 Eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Verfügungsbeschränkung bleibt wirksam, unbeschadet der
@@ -1908,7 +2029,7 @@ Vorschriften des Bürgerlichen Gesetzbuchs zugunsten derjenigen, welche
 Rechte von einem Nichtberechtigten herleiten.
 
 
-#### Art 169 -
+#### Art 169 - 
 
 (1) Die Vorschriften des Bürgerlichen Gesetzbuchs über die Verjährung
 finden auf die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
@@ -1925,13 +2046,13 @@ im Bürgerlichen Gesetzbuch bestimmte kürzere Frist ab, so ist die
 Verjährung mit dem Ablauf der längeren Frist vollendet.
 
 
-#### Art 170 -
+#### Art 170 - 
 
 Für ein Schuldverhältnis, das vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs entstanden ist, bleiben die bisherigen Gesetze maßgebend.
 
 
-#### Art 171 -
+#### Art 171 - 
 
 Ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehendes Miet-, Pacht- oder Dienstverhältnis bestimmt sich, wenn
@@ -1941,7 +2062,7 @@ bisherigen Gesetzen zulässig ist, von diesem Termin an nach den
 Vorschriften des Bürgerlichen Gesetzbuchs.
 
 
-#### Art 172 -
+#### Art 172 - 
 
 Wird eine Sache, die zur Zeit des Inkrafttretens des Bürgerlichen
 Gesetzbuchs vermietet oder verpachtet war, nach dieser Zeit veräußert
@@ -1952,22 +2073,22 @@ Pächters, die sich aus den bisherigen Gesetzen ergeben, bleiben
 unberührt, unbeschadet der Vorschrift des Artikels 171.
 
 
-#### Art 173 -
+#### Art 173 - 
 
 Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Gemeinschaft nach Bruchteilen finden von dieser Zeit an die
 Vorschriften des Bürgerlichen Gesetzbuchs Anwendung.
 
 
-#### Art 174 -
+#### Art 174 - 
 
 (1) Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten für
 die vorher ausgestellten Schuldverschreibungen auf den Inhaber die
 Vorschriften der §§ 798 bis 800, 802 und 804 und des § 806 Satz 1 des
 Bürgerlichen Gesetzbuchs. Bei den auf Sicht zahlbaren unverzinslichen
 Schuldverschreibungen sowie bei
-Zins, Renten- und Gewinnanteilscheinen              bleiben jedoch für
-die Kraftloserklärung und die Zahlungssperre die bisherigen Gesetze
+Zins, Renten- und Gewinnanteilscheinen bleiben jedoch für die
+Kraftloserklärung und die Zahlungssperre die bisherigen Gesetze
 maßgebend.
 
 (2) Die Verjährung der Ansprüche aus den vor dem Inkrafttreten des
@@ -1976,7 +2097,7 @@ Inhaber bestimmt sich, unbeschadet der Vorschriften des § 802 des
 Bürgerlichen Gesetzbuchs, nach den bisherigen Gesetzen.
 
 
-#### Art 175 -
+#### Art 175 - 
 
 Für Zins-, Renten- und Gewinnanteilscheine, die nach dem Inkrafttreten
 des Bürgerlichen Gesetzbuchs für ein vor dieser Zeit ausgestelltes
@@ -1985,7 +2106,7 @@ für die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
 ausgegebenen Scheine gleicher Art gelten.
 
 
-#### Art 176 -
+#### Art 176 - 
 
 Die Außerkurssetzung von Schuldverschreibungen auf den Inhaber findet
 nach dem Inkrafttreten des Bürgerlichen Gesetzbuchs nicht mehr statt.
@@ -1993,7 +2114,7 @@ Eine vorher erfolgte Außerkurssetzung verliert mit dem Inkrafttreten
 des Bürgerlichen Gesetzbuchs ihre Wirkung.
 
 
-#### Art 177 -
+#### Art 177 - 
 
 Von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an gelten für
 vorher ausgegebene Urkunden der in § 808 des Bürgerlichen Gesetzbuchs
@@ -2003,7 +2124,7 @@ Urkunde zur Leistung verpflichtet ist, die Vorschriften des § 808 Abs.
 2 dieses Gesetzes.
 
 
-#### Art 178 -
+#### Art 178 - 
 
 Ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 anhängiges Verfahren, das die Kraftloserklärung einer
@@ -2014,7 +2135,7 @@ Gesetzen zu erledigen. Nach diesen Gesetzen bestimmen sich auch die
 Wirkungen des Verfahrens und der Entscheidung.
 
 
-#### Art 179 -
+#### Art 179 - 
 
 Hat ein Anspruch aus einem Schuldverhältnis nach den bisherigen
 Gesetzen durch Eintragung in ein öffentliches Buch Wirksamkeit gegen
@@ -2022,7 +2143,7 @@ Dritte erlangt, so behält er diese Wirksamkeit auch nach dem
 Inkrafttreten des Bürgerlichen Gesetzbuchs.
 
 
-#### Art 180 -
+#### Art 180 - 
 
 Auf ein zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehendes Besitzverhältnis finden von dieser Zeit an, unbeschadet
@@ -2030,7 +2151,7 @@ des Artikels 191, die Vorschriften des Bürgerlichen Gesetzbuchs
 Anwendung.
 
 
-#### Art 181 -
+#### Art 181 - 
 
 (1) Auf das zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Eigentum finden von dieser Zeit an die Vorschriften des
@@ -2043,7 +2164,7 @@ Grundstücks, insbesondere an Bäumen, begründet, so bleiben diese
 Rechte bestehen.
 
 
-#### Art 182 -
+#### Art 182 - 
 
 Das zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Stockwerkseigentum bleibt bestehen. Das Rechtsverhältnis
@@ -2051,7 +2172,7 @@ der Beteiligten untereinander bestimmt sich nach den bisherigen
 Gesetzen.
 
 
-#### Art 183 -
+#### Art 183 - 
 
 Zugunsten eines Grundstücks, das zur Zeit des Inkrafttretens des
 Bürgerlichen Gesetzbuchs mit Wald bestanden ist, bleiben die
@@ -2063,7 +2184,7 @@ Gesetzbuchs bestimmen, bis zur nächsten Verjüngung des Waldes in
 Kraft.
 
 
-#### Art 184 -
+#### Art 184 - 
 
 Rechte, mit denen eine Sache oder ein Recht zur Zeit des
 Inkrafttretens des Bürgerlichen Gesetzbuchs belastet ist, bleiben mit
@@ -2075,15 +2196,15 @@ Grunddienstbarkeit die Vorschriften der §§ 1020 bis 1028 des
 Bürgerlichen Gesetzbuchs.
 
 
-#### Art 185 -
+#### Art 185 - 
 
 Ist zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs die
 Ersitzung des Eigentums oder Nießbrauchs an einer beweglichen Sache
 noch nicht vollendet, so finden auf die Ersitzung die Vorschriften
-des Artikel              169 entsprechende Anwendung.
+des Artikel 169 entsprechende Anwendung.
 
 
-#### Art 186 -
+#### Art 186 - 
 
 (1) Das Verfahren, in welchem die Anlegung der Grundbücher erfolgt,
 sowie der Zeitpunkt, in welchem das Grundbuch für einen Bezirk als
@@ -2097,7 +2218,7 @@ nicht bestimmte Grundstücke durch besondere Anordnung ausgenommen
 sind.
 
 
-#### Art 187 -
+#### Art 187 - 
 
 (1) Eine Grunddienstbarkeit, die zu der Zeit besteht, zu welcher das
 Grundbuch als angelegt anzusehen ist, bedarf zur Erhaltung der
@@ -2114,7 +2235,7 @@ Grundbuchs oder später in das Grundbuch eingetragen werden müssen. Die
 Bestimmung kann auf einzelne Grundbuchbezirke beschränkt werden.
 
 
-#### Art 188 -
+#### Art 188 - 
 
 (1) Durch landesherrliche Verordnung kann bestimmt werden, daß
 gesetzliche Pfandrechte, die zu der Zeit bestehen, zu welcher das
@@ -2130,7 +2251,7 @@ Wirksamkeit gegenüber dem öffentlichen Glauben des Grundbuchs nicht
 der Eintragung bedürfen.
 
 
-#### Art 189 -
+#### Art 189 - 
 
 (1) Der Erwerb und Verlust des Eigentums sowie die Begründung,
 Übertragung, Belastung und Aufhebung eines anderen Rechts an einem
@@ -2154,7 +2275,7 @@ als angelegt anzusehen ist, erfolgt auch nach dieser Zeit nach den
 bisherigen Gesetzen, bis das Recht in das Grundbuch eingetragen wird.
 
 
-#### Art 190 -
+#### Art 190 - 
 
 Das nach § 928 Abs. 2 des Bürgerlichen Gesetzbuchs dem Fiskus
 zustehende Aneignungsrecht erstreckt sich auf alle Grundstücke, die zu
@@ -2163,7 +2284,7 @@ anzusehen ist. Die Vorschrift des Artikels 129 findet entsprechende
 Anwendung.
 
 
-#### Art 191 -
+#### Art 191 - 
 
 (1) Die bisherigen Gesetze über den Schutz im Besitz einer
 Grunddienstbarkeit oder einer beschränkten persönlichen Dienstbarkeit
@@ -2184,7 +2305,7 @@ der drei letzten Jahre vor der Störung mindestens einmal ausgeübt
 worden ist.
 
 
-#### Art 192 -
+#### Art 192 - 
 
 (1) Ein zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen
 ist, an einem Grundstück bestehendes Pfandrecht gilt von dieser Zeit
@@ -2198,7 +2319,7 @@ Befriedigung aus dem Grundstück nur im Wege der Zwangsverwaltung
 suchen kann, so bleibt diese Beschränkung bestehen.
 
 
-#### Art 193 -
+#### Art 193 - 
 
 Durch Landesgesetz kann bestimmt werden, daß ein Pfandrecht, welches
 nach Artikel 192 nicht als Sicherungshypothek gilt, als
@@ -2207,7 +2328,7 @@ Erteilung des Hypothekenbriefs nicht ausgeschlossen ist, und daß eine
 über das Pfandrecht erteilte Urkunde als Hypothekenbrief gelten soll.
 
 
-#### Art 194 -
+#### Art 194 - 
 
 Durch Landesgesetz kann bestimmt werden, daß ein Gläubiger, dessen
 Pfandrecht zu der im Artikel 192 bezeichneten Zeit besteht, die
@@ -2217,7 +2338,7 @@ gleicher Weise zu verlangen berechtigt ist, wie wenn zur Sicherung des
 Rechts auf Löschung eine Vormerkung im Grundbuch eingetragen wäre.
 
 
-#### Art 195 -
+#### Art 195 - 
 
 (1) Eine zu der Zeit, zu welcher das Grundbuch als angelegt anzusehen
 ist, bestehende Grundschuld gilt von dieser Zeit an als Grundschuld im
@@ -2232,7 +2353,7 @@ oder als Sicherungshypothek gelten soll und daß eine über die
 Grundschuld erteilte Urkunde als Hypothekenbrief gelten soll.
 
 
-#### Art 196 -
+#### Art 196 - 
 
 Durch Landesgesetz kann bestimmt werden, daß auf ein an einem
 Grundstück bestehendes vererbliches und übertragbares Nutzungsrecht
@@ -2242,7 +2363,7 @@ Grundstück geltenden Vorschriften des Bürgerlichen Gesetzbuchs
 Anwendung finden.
 
 
-#### Art 197 -
+#### Art 197 - 
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen in
 Ansehung solcher Grundstücke, bezüglich deren zur Zeit des
@@ -2252,7 +2373,7 @@ Beendigung des Nutzungsrechts ein Recht gleicher Art neu begründet
 werden kann und der Gutsherr zu der Begründung verpflichtet ist.
 
 
-#### Art 198 -
+#### Art 198 - 
 
 (1) Die Gültigkeit einer vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs geschlossenen Ehe bestimmt sich nach den bisherigen
@@ -2273,7 +2394,7 @@ einer Ehe steht der Nichtigkeitserklärung nach dem Bürgerlichen
 Gesetzbuch gleich.
 
 
-#### Art 199 -
+#### Art 199 - 
 
 Die persönlichen Rechtsbeziehungen der Ehegatten zueinander,
 insbesondere die gegenseitige Unterhaltspflicht, bestimmen sich auch
@@ -2281,7 +2402,7 @@ für die zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehenden Ehen nach dessen Vorschriften.
 
 
-#### Art 200 -
+#### Art 200 - 
 
 (1) Für den Güterstand einer zur Zeit des Inkrafttretens des
 Bürgerlichen Gesetzbuchs bestehenden Ehe bleiben die bisherigen
@@ -2298,7 +2419,7 @@ sein würde.
 (3) (gegenstandslos)
 
 
-#### Art 201 -
+#### Art 201 - 
 
 (1) Die Scheidung und die Aufhebung der ehelichen Gemeinschaft
 erfolgen von dem Inkrafttreten des Bürgerlichen Gesetzbuchs an nach
@@ -2307,7 +2428,7 @@ dessen Vorschriften.
 (2) (weggefallen)
 
 
-#### Art 202 -
+#### Art 202 - 
 
 Für die Wirkungen einer beständigen oder zeitweiligen Trennung von
 Tisch und Bett, auf welche vor dem Inkrafttreten des Bürgerlichen
@@ -2317,7 +2438,7 @@ denen eine bis zu dem Tod eines der Ehegatten fortbestehende Trennung
 in allen oder einzelnen Beziehungen der Auflösung der Ehe gleichsteht.
 
 
-#### Art 203 -
+#### Art 203 - 
 
 Das Rechtsverhältnis zwischen den Eltern und einem vor dem
 Inkrafttreten des Bürgerlichen Gesetzbuchs geborenen ehelichen Kind
@@ -2329,7 +2450,7 @@ nach dessen Vorschriften.
 
 
 
-#### Art 207 -
+#### Art 207 - 
 
 Inwieweit die Kinder aus einer vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs geschlossenen nichtigen oder ungültigen Ehe als eheliche
@@ -2338,7 +2459,7 @@ Pflichten und Rechte ehelicher Eltern haben, bestimmt sich nach den
 bisherigen Gesetzen.
 
 
-#### Art 208 -
+#### Art 208 - 
 
 (1) Die rechtliche Stellung eines vor dem Inkrafttreten des
 Bürgerlichen Gesetzbuchs geborenen nichtehelichen Kindes bestimmt sich
@@ -2359,7 +2480,7 @@ nach den bisherigen Gesetzen.
 französischen oder den badischen Gesetzen anerkanntes Kind.
 
 
-#### Art 209 -
+#### Art 209 - 
 
 Inwieweit ein vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs
 legitimiertes oder an Kindes Statt angenommenes Kind die rechtliche
@@ -2368,7 +2489,7 @@ Mutter die Pflichten und Rechte ehelicher Eltern haben, bestimmt sich
 nach den bisherigen Gesetzen.
 
 
-#### Art 210 -
+#### Art 210 - 
 
 (1) Auf eine zur Zeit des Inkrafttretens des Bürgerlichen Gesetzbuchs
 bestehende Vormundschaft oder Pflegschaft finden von dieser Zeit an
@@ -2391,14 +2512,14 @@ Gesetzbuchs ein Gegenvormund nicht zu bestellen sein würde.
 
 
 
-#### Art 212 -
+#### Art 212 - 
 
 In Kraft bleiben die landesgesetzlichen Vorschriften, nach welchen
 gewisse Wertpapiere zur Anlegung von Mündelgeld für geeignet erklärt
 sind.
 
 
-#### Art 213 -
+#### Art 213 - 
 
 Für die erbrechtlichen Verhältnisse bleiben, wenn der Erblasser vor
 dem Inkrafttreten des Bürgerlichen Gesetzbuchs gestorben ist, die
@@ -2406,7 +2527,7 @@ bisherigen Gesetze maßgebend. Dies gilt insbesondere auch von den
 Vorschriften über das erbschaftliche Liquidationsverfahren.
 
 
-#### Art 214 -
+#### Art 214 - 
 
 (1) Die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs erfolgte
 Errichtung oder Aufhebung einer Verfügung von Todes wegen wird nach
@@ -2419,7 +2540,7 @@ Erbvertrag oder das Testament vor dem Inkrafttreten des Bürgerlichen
 Gesetzbuchs errichtet worden ist.
 
 
-#### Art 215 -
+#### Art 215 - 
 
 (1) Wer vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs die
 Fähigkeit zur Errichtung einer Verfügung von Todes wegen erlangt und
@@ -2437,7 +2558,7 @@ errichtet hat.
 
 
 
-#### Art 217 -
+#### Art 217 - 
 
 (1) Die vor dem Inkrafttreten des Bürgerlichen Gesetzbuchs erfolgte
 Errichtung eines Erbverzichtsvertrags sowie die Wirkungen eines
@@ -2448,7 +2569,7 @@ Gesetzbuchs geschlossenen Vertrag, durch den ein Erbverzichtsvertrag
 aufgehoben worden ist.
 
 
-#### Art 218 -
+#### Art 218 - 
 
 Soweit nach den Vorschriften dieses Abschnitts die bisherigen
 Landesgesetze maßgebend bleiben, können sie nach dem Inkrafttreten des
@@ -2652,7 +2773,7 @@ beginnt frühestens am 1. Juli 1998.
 #### § 2 Elterliche Sorge
 
 (1) Ist ein Kind auf Antrag des Vaters für ehelich erklärt worden, so
-ist dies als Entscheidung gemäß § 1672 Abs. 1 des Bürgerlichen
+ist dies als Entscheidung gemäß § 1671 Absatz 2 des Bürgerlichen
 Gesetzbuchs anzusehen. Hat die Mutter in die Ehelicherklärung
 eingewilligt, so bleibt der Vater dem Kind und dessen Abkömmlingen vor
 der Mutter und den mütterlichen Verwandten zur Gewährung des
@@ -2663,30 +2784,7 @@ Unterhalts verpflichtet, sofern nicht die Sorge wieder der Mutter
 erklärt worden, so ist dies als Entscheidung gemäß § 1680 Abs. 2 Satz
 2 des Bürgerlichen Gesetzbuchs anzusehen.
 
-(3) Haben nicht miteinander verheiratete Eltern längere Zeit in
-häuslicher Gemeinschaft gemeinsam die elterliche Verantwortung für ihr
-Kind getragen und sich vor dem 1. Juli 1998 getrennt, hat das
-Familiengericht auf Antrag eines Elternteils die Sorgeerklärung des
-anderen Elternteils nach § 1626a Abs. 1 Nr. 1 des Bürgerlichen
-Gesetzbuchs zu ersetzen, wenn die gemeinsame elterliche Sorge dem
-Kindeswohl dient. Ein gemeinsames Tragen der elterlichen Verantwortung
-über längere Zeit liegt in der Regel vor, wenn die Eltern mindestens
-sechs Monate ohne Unterbrechung mit dem Kind zusammengelebt haben.
-
-(4) Der Antrag ist erst nach Abgabe einer Sorgeerklärung des
-Antragstellers nach § 1626b Abs. 1 und 3, §§ 1626c und 1626d des
-Bürgerlichen Gesetzbuchs zulässig. Im Übrigen finden die für Verfahren
-in anderen Familiensachen nach § 621 Abs. 1 Nr. 1 der
-Zivilprozessordnung geltenden Vorschriften einschließlich § 23b Abs. 1
-Satz 2 Nr. 2 des Gerichtsverfassungsgesetzes entsprechende Anwendung.
-
-(5) Das Familiengericht teilt die rechtskräftige Ersetzung nach Absatz
-3 unter Angabe des Geburtsdatums und des Geburtsortes des Kindes sowie
-des Namens, den das Kind zur Zeit der Beurkundung seiner Geburt
-geführt hat, dem nach § 87c Abs. 6 Satz 2 des Achten Buches
-Sozialgesetzbuch zuständigen Jugendamt zum Zwecke der
-Auskunftserteilung nach § 58a des Achten Buches Sozialgesetzbuch
-unverzüglich mit.
+(3) bis (5) (weggefallen)
 
 
 #### § 3 Name des Kindes
@@ -3434,11 +3532,8 @@ im Wege der Zwangsvollstreckung befriedigt worden sind, sind Ansprüche
 aus ungerechtfertigter Bereicherung ausgeschlossen.
 
 
-#### § 16 Überleitungsvorschrift zum Gesetz zur Ergänzung des Rechts zur Anfechtung der Vaterschaft vom 13. März 2008
+#### § 16 (weggefallen)
 
-Im Fall der Anfechtung nach § 1600 Abs. 1 Nr. 5 des Bürgerlichen
-Gesetzbuchs beginnt die Frist für die Anfechtung gemäß § 1600b Abs. 1a
-des Bürgerlichen Gesetzbuchs nicht vor dem 1. Juni 2008.
 
 
 #### § 17 Übergangsvorschrift zum Gesetz zur Klärung der Vaterschaft unabhängig vom Anfechtungsverfahren
@@ -3607,6 +3702,365 @@ zur Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen
 Teils der Zahlungsdiensterichtlinie sowie zur Neuordnung der
 Vorschriften über das Widerrufs- und Rückgaberecht vom 29. Juni 2009
 (BGBl. I S. 2355) anzuwenden.
+
+
+#### § 28 Übergangsvorschrift zum Gesetz zur Anpassung der Vorschriften des Internationalen Privatrechts an die Verordnung (EU) Nr. 1259/2010 und zur Änderung anderer Vorschriften des Internationalen Privatrechts vom 23. Januar 2013
+
+(1) Artikel 17 Absatz 1 in der am 29. Januar 2013 geltenden Fassung
+ist anzuwenden, wenn das Verfahren auf Ehescheidung nach dem 28.
+Januar 2013 eingeleitet worden ist.
+
+(2) Artikel 17 Absatz 3 und Artikel 17b Absatz 1 Satz 4 in der am 28.
+Januar 2013 geltenden Fassung sind weiter anzuwenden, wenn das
+Verfahren auf Ehescheidung oder Aufhebung der Lebenspartnerschaft vor
+dem 29. Januar 2013 eingeleitet worden ist.
+
+
+#### § 29 Übergangsvorschriften zum Mietrechtsänderungsgesetz vom 11. März 2013
+
+(1) Auf ein bis zum 1. Mai 2013 entstandenes Mietverhältnis sind die
+§§ 536, 554, 559 bis 559b, 578 des Bürgerlichen Gesetzbuchs in der bis
+zum 1. Mai 2013 geltenden Fassung weiter anzuwenden, wenn
+
+1.  bei Modernisierungsmaßnahmen die Mitteilung nach § 554 Absatz 3 Satz 1
+    des Bürgerlichen Gesetzbuchs dem Mieter vor dem 1. Mai 2013 zugegangen
+    ist oder
+
+
+2.  bei Modernisierungsmaßnahmen, auf die § 554 Absatz 3 Satz 3 des
+    Bürgerlichen Gesetzbuchs in der bis zum 1. Mai 2013 geltenden Fassung
+    anzuwenden ist, der Vermieter mit der Ausführung der Maßnahme vor dem
+    1\. Mai 2013 begonnen hat.
+
+
+
+
+(2) § 569 Absatz 2a des Bürgerlichen Gesetzbuchs ist auf ein vor dem
+1\. Mai 2013 entstandenes Mietverhältnis nicht anzuwenden.
+
+
+#### § 30 Überleitungsvorschrift zum Gesetz zur Reform der elterlichen Sorge nicht miteinander verheirateter Eltern
+
+Hat ein Elternteil vor dem 19. Mai 2013 beim Familiengericht einen
+Antrag auf Ersetzung der Sorgeerklärung des anderen Elternteils
+gestellt, gilt dieser Antrag als ein Antrag auf Übertragung der
+elterlichen Sorge nach § 1626a Absatz 2 des Bürgerlichen Gesetzbuchs.
+
+
+#### § 31 Überleitungsvorschrift zur Änderung der Verjährungsvorschriften des Bürgerlichen Gesetzbuchs durch das Gesetz zur Stärkung der Rechte von Opfern sexuellen Missbrauchs
+
+Die Vorschriften des Bürgerlichen Gesetzbuchs in der seit dem 30. Juni
+2013 geltenden Fassung über die Verjährung sind auf die an diesem Tag
+bestehenden und noch nicht verjährten Ansprüche anzuwenden.
+
+
+#### § 32 Übergangsvorschrift zum Gesetz zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung
+
+(1) Auf einen vor dem 13. Juni 2014 abgeschlossenen Verbrauchervertrag
+sind die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs,
+des Fernunterrichtsschutzgesetzes, der Zivilprozessordnung, des
+Gesetzes zur Regelung der Wohnungsvermittlung, des Gesetzes gegen
+unlauteren Wettbewerb, des Vermögensanlagengesetzes, der
+Wertpapierdienstleistungs-Verhaltens- und Organisationsverordnung, des
+Wertpapierprospektgesetzes, der Preisangabenverordnung, des
+Kapitalanlagegesetzbuchs, des Versicherungsvertragsgesetzes und des
+Unterlassungsklagengesetzes in der bis zu diesem Tag geltenden Fassung
+anzuwenden.
+
+(2) Solange der Verbraucher bei einem Fernabsatzvertrag, der vor dem
+13\. Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum
+Zeitpunkt des Vertragsschlusses geltenden gesetzlichen Anforderungen
+des Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden
+ist und solange das Widerrufsrecht aus diesem Grunde nicht erloschen
+ist, erlischt das Widerrufsrecht
+
+1.  bei der Lieferung von Waren: zwölf Monate und 14 Tage nach Eingang der
+    Waren beim Empfänger, jedoch nicht vor Ablauf des 27. Juni 2015,
+
+
+2.  bei der wiederkehrenden Lieferung gleichartiger Waren: zwölf Monate
+    und 14 Tage nach Eingang der ersten Teillieferung, jedoch nicht vor
+    Ablauf des 27. Juni 2015,
+
+
+3.  bei Dienstleistungen: mit Ablauf des 27. Juni 2015.
+
+
+
+
+(3) Solange der Verbraucher bei einem Haustürgeschäft, das vor dem 13.
+Juni 2014 geschlossen wurde, nicht oder nicht entsprechend den zum
+Zeitpunkt des Vertragsschlusses geltenden Anforderungen des
+Bürgerlichen Gesetzbuchs über sein Widerrufsrecht belehrt worden ist
+und solange das Widerrufsrecht aus diesem Grunde nicht erloschen ist,
+erlischt das Widerrufsrecht zwölf Monate und 14 Tage nach
+vollständiger Erbringung der beiderseitigen Leistungen aus dem
+Vertrag, nicht jedoch vor Ablauf des 27. Juni 2015.
+
+(4) Die Absätze 2 und 3 sind nicht anwendbar auf Verträge über
+Finanzdienstleistungen. Solange der Verbraucher bei einem
+Haustürgeschäft, durch das der Unternehmer dem Verbraucher eine
+entgeltliche Finanzierungshilfe gewährt und das vor dem 11. Juni 2010
+geschlossen wurde, nicht oder nicht entsprechend den zum Zeitpunkt des
+Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs
+über sein Widerrufsrecht belehrt worden ist und solange das
+Widerrufsrecht aus diesem Grunde nicht erloschen ist, erlischt das
+Widerrufsrecht zwölf Monate und 14 Tage nach vollständiger Erbringung
+der beiderseitigen Leistungen aus dem Vertrag, nicht jedoch vor Ablauf
+des 27. Juni 2015.
+
+
+#### § 33 Überleitungsvorschrift zu dem Gesetz gegen unseriöse Geschäftspraktiken
+
+Auf Schuldverhältnisse, die vor dem 9. Oktober 2013 entstanden sind,
+ist § 675 des Bürgerlichen Gesetzbuchs in der bis zu diesem Tag
+geltenden Fassung anzuwenden.
+
+
+#### § 34 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr
+
+Die §§ 271a, 286, 288, 308 und 310 des Bürgerlichen Gesetzbuchs in der
+seit dem 29. Juli 2014 geltenden Fassung sind nur auf ein
+Schuldverhältnis anzuwenden, das nach dem 28. Juli 2014 entstanden
+ist. Abweichend von Satz 1 sind die dort genannten Vorschriften auch
+auf ein vorher entstandenes Dauerschuldverhältnis anzuwenden, soweit
+die Gegenleistung nach dem 30. Juni 2016 erbracht wird.
+
+
+#### § 35 Übergangsvorschriften zum Mietrechtsnovellierungsgesetz vom 21. April 2015
+
+(1) Die §§ 556d bis 556g, 557a Absatz 4 und § 557b Absatz 4 des
+Bürgerlichen Gesetzbuchs sind nicht anzuwenden auf Mietverträge und
+Staffelmietvereinbarungen über Wohnraum, die abgeschlossen worden
+sind, bevor die vertragsgegenständliche Mietwohnung in den
+Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2 des
+Bürgerlichen Gesetzbuchs fällt.
+
+(2) § 557a Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht mehr
+anzuwenden auf Mietstaffeln, deren erste Miete zu einem Zeitpunkt
+fällig wird, in dem die vertragsgegenständliche Mietwohnung nicht mehr
+in den Anwendungsbereich einer Rechtsverordnung nach § 556d Absatz 2
+des Bürgerlichen Gesetzbuchs fällt.
+
+
+#### § 36 Überleitungsvorschrift zum Gesetz zum Internationalen Erbrecht und zur Änderung von Vorschriften zum Erbschein sowie zur Änderung sonstiger Vorschriften vom 29. Juni 2015
+
+Auf Verfahren zur Erteilung von Erbscheinen nach einem Erblasser, der
+vor dem 17. August 2015 verstorben ist, sind das Bürgerliche
+Gesetzbuch und das Gesetz über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit in der bis zu
+diesem Tag geltenden Fassung weiterhin anzuwenden.
+
+
+#### § 37 Überleitungsvorschrift zum Gesetz zur Verbesserung der zivilrechtlichen Durchsetzung von verbraucherschützenden Vorschriften des Datenschutzrechts
+
+§ 309 Nummer 13 des Bürgerlichen Gesetzbuchs in der seit dem 1.
+Oktober 2016 geltenden Fassung ist nur auf ein Schuldverhältnis
+anzuwenden, das nach dem 30. September 2016 entstanden ist.
+
+
+#### § 38 Übergangsvorschrift zum Gesetz zur Umsetzung der Wohnimmobilienkreditrichtlinie und zur Änderung handelsrechtlicher Vorschriften
+
+(1) Dieses Gesetz und das Bürgerliche Gesetzbuch jeweils in der bis
+zum 20. März 2016 geltenden Fassung sind vorbehaltlich des Absatzes 2
+auf folgende Verträge anzuwenden, wenn sie vor dem 21. März 2016
+abgeschlossen wurden:
+
+1.  Verbraucherdarlehensverträge und Verträge über entgeltliche
+    Finanzierungshilfen,
+
+
+2.  Verträge über die Vermittlung von Verträgen gemäß Nummer 1.
+
+
+
+Für Verbraucherdarlehensverträge gemäß § 504 des Bürgerlichen
+Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich,
+mit dem der Darlehensgeber dem Darlehensnehmer das Recht einräumt,
+sein laufendes Konto in bestimmter Höhe zu überziehen. Für
+Verbraucherdarlehensverträge gemäß § 505 Absatz 1 des Bürgerlichen
+Gesetzbuchs ist der Zeitpunkt des Abschlusses des Vertrags maßgeblich,
+mit dem der Unternehmer mit dem Verbraucher ein Entgelt für den Fall
+vereinbart, dass er eine Überziehung seines laufenden Kontos duldet.
+
+(2) Die §§ 504a und 505 Absatz 2 des Bürgerlichen Gesetzbuchs sind auf
+Verbraucherdarlehensverträge gemäß den §§ 504 und 505 des Bürgerlichen
+Gesetzbuchs auch dann anzuwenden, wenn diese Verträge vor dem 21. März
+2016 abgeschlossen wurden.
+
+(3) Bei Immobiliardarlehensverträgen gemäß § 492 Absatz 1a Satz 2 des
+Bürgerlichen Gesetzbuchs in der vom 1. August 2002 bis einschließlich
+10\. Juni 2010 geltenden Fassung, die zwischen dem 1. September 2002
+und dem 10. Juni 2010 geschlossen wurden, erlischt ein fortbestehendes
+Widerrufsrecht spätestens drei Monate nach dem 21. März 2016, wenn das
+Fortbestehen des Widerrufsrechts darauf beruht, dass die dem
+Verbraucher erteilte Widerrufsbelehrung den zum Zeitpunkt des
+Vertragsschlusses geltenden Anforderungen des Bürgerlichen Gesetzbuchs
+nicht entsprochen hat. Bei Haustürgeschäften ist Satz 1 nur
+anzuwenden, wenn die beiderseitigen Leistungen aus dem
+Verbraucherdarlehensvertrag bei Ablauf des 21. Mai 2016 vollständig
+erbracht worden sind, andernfalls erlöschen die fortbestehenden
+Widerrufsrechte erst einen Monat nach vollständiger Erbringung der
+beiderseitigen Leistungen aus dem Vertrag.
+
+
+#### § 39 Übergangsvorschrift zum Gesetz zur Reform des Bauvertragsrechts, zur Änderung der kaufrechtlichen Mängelhaftung, zur Stärkung des zivilprozessualen Rechtsschutzes und zum maschinellen Siegel im Grundbuch- und Schiffsregisterverfahren
+
+Auf ein Schuldverhältnis, das vor dem 1. Januar 2018 entstanden ist,
+finden die Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs
+und der Verordnung über Abschlagszahlungen bei Bauträgerverträgen in
+der bis zu diesem Tag geltenden Fassung Anwendung.
+
+
+#### § 40 Übergangsvorschrift zum Finanzaufsichtsrechtergänzungsgesetz
+
+(1) Das Bürgerliche Gesetzbuch ist in der bis zum 9. Juni 2017
+geltenden Fassung auf folgende Verträge anzuwenden, wenn sie vor dem
+10\. Juni 2017 abgeschlossen wurden:
+
+1.  Darlehensverträge, Verträge über entgeltliche und unentgeltliche
+    Finanzierungshilfen sowie Immobilienverzehrkreditverträge,
+
+
+2.  Verträge über die Vermittlung von Verträgen nach Nummer 1.
+
+
+
+
+(2) Dieses Gesetz ist in der bis zum 30. Juni 2018 geltenden Fassung
+auf folgende Verträge anzuwenden, wenn sie vor dem 1. Juli 2018
+abgeschlossen wurden:
+
+1.  Darlehensverträge und Verträge über entgeltliche Finanzierungshilfen,
+
+
+2.  Verträge über die Vermittlung von Verträgen nach Nummer 1.
+
+
+
+
+
+#### § 41 Übergangsvorschrift zum Gesetz zur Änderung von Vorschriften im Bereich des Internationalen Privat- und Zivilverfahrensrechts vom 11. Juni 2017
+
+Ist vor Inkrafttreten von Artikel 8 am 17. Juni 2017 eine Vollmacht
+erteilt oder eine Erklärung im Namen einer anderen Person gegenüber
+einem Dritten abgegeben oder für einen anderen entgegengenommen
+worden, bleibt das bisherige Internationale Privatrecht anwendbar.
+
+
+#### § 42 Übergangsvorschrift zum Dritten Gesetz zur Änderung reiserechtlicher Vorschriften
+
+Auf einen vor dem 1. Juli 2018 abgeschlossenen Reisevertrag sind die
+Vorschriften dieses Gesetzes, des Bürgerlichen Gesetzbuchs, der BGB-
+Informationspflichten-Verordnung, des Unterlassungsklagengesetzes, der
+Gewerbeordnung und der Preisangabenverordnung in der bis zu diesem Tag
+geltenden Fassung weiter anzuwenden.
+
+
+#### § 43 Überleitungsvorschrift zum Gesetz zur Einführung eines Anspruchs auf Hinterbliebenengeld
+
+Wenn die zum Tode führende Verletzung nach dem 22. Juli 2017
+eingetreten ist, sind die durch das Gesetz zur Einführung eines
+Anspruchs auf Hinterbliebenengeld vom 17. Juli 2017 (BGBl. I S. 2421)
+geänderten Vorschriften in folgenden Gesetzen anzuwenden:
+
+1.  Bürgerliches Gesetzbuch,
+
+
+2.  Arzneimittelgesetz,
+
+
+3.  Gentechnikgesetz,
+
+
+4.  Produkthaftungsgesetz,
+
+
+5.  Umwelthaftungsgesetz,
+
+
+6.  Atomgesetz,
+
+
+7.  Straßenverkehrsgesetz und
+
+
+8.  Haftpflichtgesetz.
+
+
+
+
+
+#### § 44 Überleitungsvorschrift zum Gesetz zur Bekämpfung von Kinderehen
+
+(1) § 1303 Satz 2 des Bürgerlichen Gesetzbuchs in der ab dem 22. Juli
+2017 geltenden Fassung ist für Ehen, die vor dem 22. Juli 2017
+geschlossen worden sind, nicht anzuwenden. Die Aufhebbarkeit dieser
+Ehen richtet sich nach dem bis zum 22. Juli 2017 geltenden Recht.
+
+(2) Die Aufhebung einer Ehe wegen eines Verstoßes gegen § 1303 des
+Bürgerlichen Gesetzbuchs ist ausgeschlossen, wenn sie nach Befreiung
+vom Erfordernis der Volljährigkeit nach § 1303 Absatz 2 bis 4 des
+Bürgerlichen Gesetzbuchs in der bis zum 21. Juli 2017 geltenden
+Fassung und vor dem 22. Juli 2017 geschlossen worden ist.
+
+(3) Bis zum 22. Juli 2017 noch nicht abgeschlossene Verfahren über die
+Erteilung einer Befreiung nach § 1303 Absatz 2 bis 4 des Bürgerlichen
+Gesetzbuchs in der bis zum 21. Juli 2017 geltenden Fassung sind
+erledigt. Eine Genehmigung nach § 1315 Absatz 1 Satz 1 Nummer 1 Fall 1
+des Bürgerlichen Gesetzbuchs in der bis zum 21. Juli 2017 geltenden
+Fassung kann nach dem 22. Juli 2017 nicht mehr erteilt werden.
+
+(4) Artikel 13 Absatz 3 Nummer 1 gilt nicht, wenn
+
+1.  der minderjährige Ehegatte vor dem 22. Juli 1999 geboren worden ist,
+    oder
+
+
+2.  die nach ausländischem Recht wirksame Ehe bis zur Volljährigkeit des
+    minderjährigen Ehegatten geführt worden ist und kein Ehegatte seit der
+    Eheschließung bis zur Volljährigkeit des minderjährigen Ehegatten
+    seinen gewöhnlichen Aufenthalt in Deutschland hatte.
+
+
+
+
+
+#### § 45 Übergangsvorschriften zum Gesetz zur Umsetzung der Zweiten Zahlungsdiensterichtlinie vom 17. Juli 2017
+
+(1) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen
+zum Gegenstand haben und ab dem 13. Januar 2018 entstanden sind, sind
+nur das Bürgerliche Gesetzbuch und Artikel 248 in der ab dem 13.
+Januar 2018 geltenden Fassung anzuwenden.
+
+(2) Auf Schuldverhältnisse, die die Ausführung von Zahlungsvorgängen
+zum Gegenstand haben und vor dem 13. Januar 2018 entstanden sind, sind
+das Bürgerliche Gesetzbuch und Artikel 248 in der bis zum 13. Januar
+2018 geltenden Fassung anzuwenden, soweit in den Absätzen 3 und 4
+nichts anderes bestimmt ist.
+
+(3) Wenn bei einem Schuldverhältnis im Sinne von Absatz 2 erst ab dem
+13\. Januar 2018 mit der Abwicklung eines Zahlungsvorgangs begonnen
+worden ist, sind auf diesen Zahlungsvorgang nur das Bürgerliche
+Gesetzbuch und Artikel 248 in der ab dem 13. Januar 2018 geltenden
+Fassung anzuwenden.
+
+(4) § 675f Absatz 3 des Bürgerlichen Gesetzbuchs in der ab dem 13.
+Januar 2018 geltenden Fassung ist ab diesem Tag auch auf
+Schuldverhältnisse im Sinne von Absatz 2 anzuwenden.
+
+(5) § 270a des Bürgerlichen Gesetzbuchs ist auf alle
+Schuldverhältnisse anzuwenden, die ab dem 13. Januar 2018 entstanden
+sind.
+
+
+#### § 46 Überleitungsvorschrift zum Gesetz zur Regelung des Rechts auf Kenntnis der Abstammung bei heterologer Verwendung von Samen
+
+§ 1600d Absatz 4 des Bürgerlichen Gesetzbuchs ist nicht anzuwenden,
+wenn der Samen, mithilfe dessen das Kind gezeugt wurde, vor
+Inkrafttreten des Gesetzes zur Regelung des Rechts auf Kenntnis der
+Abstammung bei heterologer Verwendung von Samen vom 17. Juli 2017
+(BGBl. I S. 2513) verwendet wurde.
 
 
 ## Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet
@@ -4236,44 +4690,44 @@ d)  wer ein auf einem Grundstück errichtetes Gebäude gekauft oder den Kauf
 Das Recht nach Satz 1 besteht bis zur Bereinigung der genannten
 Rechtsverhältnisse durch besonderes Gesetz längstens bis zum Ablauf
 des 31. Dezember 1994; die Frist kann durch Rechtsverordnung des
-Bundesministers der Justiz einmal verlängert werden. In den in § 3
-Abs. 3 und den §§ 4 und 121 des Sachenrechtsbereinigungsgesetzes
-bezeichneten Fällen besteht das in Satz 1 bezeichnete Recht zum Besitz
-bis zur Bereinigung dieser Rechtsverhältnisse nach jenem Gesetz fort.
-Für die Zeit vom 22. Juli 1992 bis 31. März 1995 kann der jeweilige
-Grundstückseigentümer vom jeweiligen Nutzer ein Entgelt in Höhe des
-nach § 51 Abs. 1 Satz 2 Nr. 1, §§ 43, 45 des
-Sachenrechtsbereinigungsgesetzes zu zahlenden Erbbauzinses verlangen,
-für die Zeit ab 1. Januar 1995 jedoch nur, wenn er kein Entgelt nach
-Satz 8 verlangen kann. Für die Zeit vom 1. Januar 1995 bis zum 31.
-März 1995 kann der Grundstückseigentümer das Entgelt nach Satz 4 nicht
-verlangen, wenn er sich in einem bis zum 31. März 1995 eingeleiteten
-notariellen Vermittlungsverfahren nach den §§ 87 bis 102 des
-Sachenrechtsbereinigungsgesetzes oder Bodenordnungsverfahren nach dem
-Achten Abschnitt des Landwirtschaftsanpassungsgesetzes nicht
-unverzüglich auf eine Verhandlung zur Begründung dinglicher Rechte
-oder eine Übereignung eingelassen hat. Für die Bestimmung des
-Entgeltes sind der Bodenwert und der Restwert eines überlassenen
-Gebäudes zum 22. Juli 1992 maßgebend. Der Anspruch nach Satz 4
-verjährt in zwei Jahren vom 8. November 2000 an. Der
-Grundstückseigentümer kann vom 1. Januar 1995 an vom Nutzer ein
-Entgelt bis zur Höhe des nach dem Sachenrechtsbereinigungsgesetz zu
-zahlenden Erbbauzinses verlangen, wenn ein Verfahren zur
-Bodenneuordnung nach dem Bodensonderungsgesetz eingeleitet wird, er
-ein notarielles Vermittlungsverfahren nach den §§ 87 bis 102 des
-Sachenrechtsbereinigungsgesetzes oder ein Bodenordnungsverfahren nach
-dem Achten Abschnitt des Landwirtschaftsanpassungsgesetzes beantragt
-oder sich in den Verfahren auf eine Verhandlung zur Begründung
-dinglicher Rechte oder eine Übereignung eingelassen hat. Vertragliche
-oder gesetzliche Regelungen, die ein abweichendes Nutzungsentgelt oder
-einen früheren Beginn der Zahlungspflicht begründen, bleiben
-unberührt. Umfang und Inhalt des Rechts bestimmen sich im übrigen nach
-der bisherigen Ausübung. In den Fällen des § 20b Abs. 3 des
-Parteiengesetzes vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das
-zuletzt durch Artikel 1 des Gesetzes vom 19. Dezember 2006 (BGBl. I S.
-3230) geändert worden ist, kann das Recht nach Satz 1 allein von der
-Bundesanstalt für vereinigungsbedingte Sonderaufgaben oder deren
-Rechtsnachfolger geltend gemacht werden.
+Bundesministers der Justiz und für Verbraucherschutz einmal verlängert
+werden. In den in § 3 Abs. 3 und den §§ 4 und 121 des
+Sachenrechtsbereinigungsgesetzes bezeichneten Fällen besteht das in
+Satz 1 bezeichnete Recht zum Besitz bis zur Bereinigung dieser
+Rechtsverhältnisse nach jenem Gesetz fort. Für die Zeit vom 22. Juli
+1992 bis 31. März 1995 kann der jeweilige Grundstückseigentümer vom
+jeweiligen Nutzer ein Entgelt in Höhe des nach § 51 Abs. 1 Satz 2 Nr.
+1, §§ 43, 45 des Sachenrechtsbereinigungsgesetzes zu zahlenden
+Erbbauzinses verlangen, für die Zeit ab 1. Januar 1995 jedoch nur,
+wenn er kein Entgelt nach Satz 8 verlangen kann. Für die Zeit vom 1.
+Januar 1995 bis zum 31. März 1995 kann der Grundstückseigentümer das
+Entgelt nach Satz 4 nicht verlangen, wenn er sich in einem bis zum 31.
+März 1995 eingeleiteten notariellen Vermittlungsverfahren nach den §§
+87 bis 102 des Sachenrechtsbereinigungsgesetzes oder
+Bodenordnungsverfahren nach dem Achten Abschnitt des
+Landwirtschaftsanpassungsgesetzes nicht unverzüglich auf eine
+Verhandlung zur Begründung dinglicher Rechte oder eine Übereignung
+eingelassen hat. Für die Bestimmung des Entgeltes sind der Bodenwert
+und der Restwert eines überlassenen Gebäudes zum 22. Juli 1992
+maßgebend. Der Anspruch nach Satz 4 verjährt in zwei Jahren vom 8.
+November 2000 an. Der Grundstückseigentümer kann vom 1. Januar 1995 an
+vom Nutzer ein Entgelt bis zur Höhe des nach dem
+Sachenrechtsbereinigungsgesetz zu zahlenden Erbbauzinses verlangen,
+wenn ein Verfahren zur Bodenneuordnung nach dem Bodensonderungsgesetz
+eingeleitet wird, er ein notarielles Vermittlungsverfahren nach den §§
+87 bis 102 des Sachenrechtsbereinigungsgesetzes oder ein
+Bodenordnungsverfahren nach dem Achten Abschnitt des
+Landwirtschaftsanpassungsgesetzes beantragt oder sich in den Verfahren
+auf eine Verhandlung zur Begründung dinglicher Rechte oder eine
+Übereignung eingelassen hat. Vertragliche oder gesetzliche Regelungen,
+die ein abweichendes Nutzungsentgelt oder einen früheren Beginn der
+Zahlungspflicht begründen, bleiben unberührt. Umfang und Inhalt des
+Rechts bestimmen sich im übrigen nach der bisherigen Ausübung. In den
+Fällen des § 20b Abs. 3 des Parteiengesetzes vom 21. Februar 1990
+(GBl. I Nr. 9 S. 66), das zuletzt durch Artikel 1 des Gesetzes vom 19.
+Dezember 2006 (BGBl. I S. 3230) geändert worden ist, kann das Recht
+nach Satz 1 allein von der Bundesanstalt für vereinigungsbedingte
+Sonderaufgaben oder deren Rechtsnachfolger geltend gemacht werden.
 
 (2) Das Recht zum Besitz nach Absatz 1 wird durch eine Übertragung
 oder einen Übergang des Eigentums oder eine sonstige Verfügung über
@@ -5079,80 +5533,8 @@ Die Vorschriften über das Verlöbnis gelten nicht für Verlöbnisse, die
 vor dem Wirksamwerden des Beitritts geschlossen worden sind.
 
 
-#### § 3 Wirkungen der Ehe im allgemeinen
+#### § 3 (weggefallen)
 
-(1) Ehegatten, die vor dem Wirksamwerden des Beitritts die Ehe
-geschlossen haben und nach dem zur Zeit der Eheschließung geltenden
-Recht eine dem § 1355 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs
-entsprechende Wahl nicht treffen konnten, können bis zum Ablauf eines
-Jahres nach Wirksamwerden des Beitritts erklären, daß sie den
-Geburtsnamen des Mannes oder der Frau als Ehenamen führen wollen. Dies
-gilt nicht, wenn die Ehe aufgelöst oder für nichtig erklärt ist. Hat
-ein Ehegatte vor dem Wirksamwerden des Beitritts seinen zur Zeit der
-Eheschließung geführten Namen dem Ehenamen hinzugefügt, so
-
-*
-    1.  entfällt der hinzugefügte Name, wenn die Ehegatten gemäß Satz 1
-        erklären, den Geburtsnamen dieses Ehegatten als Ehenamen führen zu
-        wollen;
-
-
-    2.  kann der Ehegatte bis zum Ablauf von zwei Jahren nach Wirksamwerden
-        des Beitritts erklären, anstelle des hinzugefügten Namens nunmehr
-        seinen Geburtsnamen voranstellen zu wollen. § 1355 Abs. 3 des
-        Bürgerlichen Gesetzbuchs gilt nicht für einen Ehegatten, dessen zur
-        Zeit der Eheschließung geführter Name Ehename geworden ist.
-
-
-
-
-
-
-
-(2) Eine Namensänderung nach Absatz 1 Satz 1 erstreckt sich auf den
-Geburtsnamen eines Abkömmlings, welcher das 14. Lebensjahr vollendet
-hat, nur dann, wenn er sich der Namensänderung seiner Eltern durch
-Erklärung anschließt. Ein in der Geschäftsfähigkeit beschränkter
-Abkömmling kann die Erklärung nur selbst abgeben; er bedarf hierzu der
-Zustimmung seines gesetzlichen Vertreters. Ist der frühere Geburtsname
-zum Ehenamen eines Abkömmlings geworden, so erstreckt sich die
-Namensänderung nach Absatz 1 Satz 1 auf den Ehenamen nur dann, wenn
-die Ehegatten die Erklärung nach Absatz 2 Satz 1 gemeinsam abgeben.
-Die Erklärungen nach Absatz 2 Satz 1 und 3 sind innerhalb eines Jahres
-abzugeben; die Frist beginnt mit der Abgabe der Erklärung nach Absatz
-1\.
-
-(3) Die Erklärungen nach den Absätzen 1 und 2 bedürfen der
-öffentlichen Beglaubigung. Sie sind dem für ihre Entgegennahme
-zuständigen Standesbeamten zu übersenden. Die Erklärungen können auch
-von den Standesbeamten beglaubigt oder beurkundet werden.
-
-(4) Zur Entgegennahme der Erklärung über die Änderung des Ehenamens
-ist der Standesbeamte zuständig, der das Familienbuch der Ehegatten
-führt; wird ein Familienbuch nicht geführt, so ist der Standesbeamte
-zuständig, der das Heiratsbuch führt. Der Standesbeamte nimmt auf
-Grund der Erklärung die Eintragung in das von ihm geführte
-Personenstandsbuch vor.
-
-(5) Zur Entgegennahme der Erklärung über die Änderung des
-Geburtsnamens ist der Standesbeamte zuständig, der das Geburtenbuch
-führt; er nimmt auf Grund der Erklärung die Eintragung in das
-Geburtenbuch vor.
-
-(6) Haben die Ehegatten die Ehe außerhalb des Geltungsbereichs dieses
-Gesetzes geschlossen und wird ein Familienbuch nicht geführt, so ist
-der Standesbeamte des Standesamts I in Berlin zuständig. Er erteilt,
-falls er kein Personenstandsbuch führt, in das auf Grund der Erklärung
-eine Eintragung vorzunehmen wäre, dem Erklärenden und den weiter von
-der Erklärung Betroffenen eine Bescheinigung über die Entgegennahme
-und die Wirkungen der Erklärung. Gleiches gilt, wenn die Geburt des
-Abkömmlings nicht im Geltungsbereich dieses Gesetzes beurkundet ist.
-
-(7) Der Bundesminister des Innern wird ermächtigt, im Benehmen mit dem
-Bundesminister der Justiz und mit Zustimmung des Bundesrates zur
-Durchführung dieses Gesetzes Verwaltungsvorschriften über die nähere
-Behandlung der Erklärungen und die Mitteilungspflichten der
-Standesbeamten zu erlassen.
 
 
 #### § 4 Eheliches Güterrecht
@@ -5315,36 +5697,8 @@ Beitritts eingetretenen namensrechtlichen Folgen nach dem bisherigen
 Recht.
 
 
-#### § 11 Elterliche Sorge
+#### § 11 (weggefallen)
 
-(1) Die elterliche Sorge für ein Kind steht demjenigen zu, dem das
-Erziehungsrecht am Tag vor dem Wirksamwerden des Beitritts nach dem
-bisherigen Recht zustand. Stand das Erziehungsrecht am Tag vor dem
-Wirksamwerden des Beitritts dem Vater eines nichtehelichen Kindes oder
-einem anderen als der Mutter oder dem Vater des Kindes zu, so hat
-dieser lediglich die Rechtsstellung eines Vormunds.
-
-(2) Entscheidungen, Feststellungen oder Maßnahmen, die das Gericht
-oder eine Verwaltungsbehörde vor dem Wirksamwerden des Beitritts in
-Angelegenheiten der elterlichen Sorge getroffen hat, bleiben
-unberührt. Für die Änderung solcher Entscheidungen, Feststellungen
-oder Maßnahmen gelten § 1674 Abs. 2 und § 1696 des Bürgerlichen
-Gesetzbuchs entsprechend.
-
-(3) Hat das Gericht vor dem Wirksamwerden des Beitritts im
-Scheidungsurteil über das elterliche Erziehungsrecht nicht entschieden
-oder angeordnet, daß die Ehegatten das elterliche Erziehungsrecht bis
-zur Dauer eines Jahres nicht ausüben dürfen, gilt § 1671 des
-Bürgerlichen Gesetzbuchs entsprechend.
-
-(4) Ist ein Kind durch seine Eltern oder mit deren Einverständnis in
-einer Weise untergebracht, die mit Freiheitsentziehung verbunden ist,
-so gelten für die Unterbringung vom Wirksamwerden des Beitritts an die
-Vorschriften des Bürgerlichen Gesetzbuchs. Die Eltern haben alsbald
-nach dem Wirksamwerden des Beitritts um die gerichtliche Genehmigung
-der Unterbringung nachzusuchen. Die Unterbringung ist spätestens nach
-Ablauf von 6 Monaten nach dem Wirksamwerden des Beitritts zu beenden,
-wenn das Gericht sie nicht vorher genehmigt hat.
 
 
 #### § 12 Legitimation nichtehelicher Kinder
@@ -5588,103 +5942,31 @@ Betroffenen vor dem 24. Juli 1997 etwas Abweichendes vereinbart haben
 oder zwischen ihnen abweichende Urteile ergangen sind.
 
 
-## Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Informationspflichten
+## Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten
 
 
 
-#### Art 238 - Reiserechtliche Vorschriften
-
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung ohne Zustimmung des Bundesrates,
-
-1.  soweit es zum Schutz des Verbrauchers bei Reisen erforderlich ist,
-    Vorschriften zu erlassen, durch die sichergestellt wird,
-
-    a)  dass die Beschreibungen von Reisen keine irreführenden, sondern klare
-        und genaue Angaben enthalten und
-
-
-    b)  dass der Reiseveranstalter dem Verbraucher die notwendigen
-        Informationen erteilt und
+#### Art 238 - (weggefallen)
 
 
 
+#### Art 239 - Länderöffnungsklausel
+
+Die Länder können durch Gesetz bestimmen, dass der Antrag auf
+Erteilung eines Erbscheins der notariellen Beurkundung bedarf und die
+Versicherung an Eides statt nach § 352 Absatz 3 Satz 3 des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit und nach § 36 Absatz 2 Satz 1 des
+Internationalen Erbrechtsverfahrensgesetzes vom 29. Juni 2015 (BGBl. I
+S. 1042) nur vor einem Notar abzugeben ist.
 
 
-2.  soweit es zum Schutz des Verbrauchers vor Zahlungen oder Reisen ohne
-    die vorgeschriebene Sicherung erforderlich ist, den Inhalt und die
-    Gestaltung der Sicherungsscheine nach § 651k Abs. 3 und der Nachweise
-    nach § 651k Abs. 5 des Bürgerlichen Gesetzbuchs festzulegen und zu
-    bestimmen, wie der Reisende über das Bestehen der Absicherung
-    informiert wird.
-
-
-
-Zu dem in Satz 1 Nr. 1 genannten Zweck kann insbesondere bestimmt
-werden, welche Angaben in einem vom Veranstalter herausgegebenen
-Prospekt und in dem Reisevertrag enthalten sein müssen sowie welche
-Informationen der Reiseveranstalter dem Reisenden vor dem
-Vertragsabschluss und vor dem Antritt der Reise geben muss.
-
-(2) Der Kundengeldabsicherer (§ 651k Abs. 2 des Bürgerlichen
-Gesetzbuchs) ist verpflichtet, die Beendigung des
-Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich
-mitzuteilen.
-
-
-#### Art 239 - (weggefallen)
+#### Art 240 - (weggefallen)
 
 
 
-#### Art 240 - Informationspflichten für Fernabsatzverträge
+#### Art 241 - (weggefallen)
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung ohne Zustimmung des Bundesrates unter Beachtung der
-vorgeschriebenen Angaben nach der Richtlinie 97/7/EG des Europäischen
-Parlaments und des Rates vom 20. Mai 1997 über den Verbraucherschutz
-bei Vertragsabschlüssen im Fernabsatz (ABl. EG Nr. L 144 S. 19) und
-der Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates
-vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen
-an Verbraucher und zur Änderung der Richtlinie 90/619/EWG des Rates
-und der Richtlinien 97/7/EG und 98/27/EG (ABl. EG Nr. L 271 S. 16)
-festzulegen:
-
-1.  über welche Einzelheiten des Vertrags, insbesondere zur Person des
-    Unternehmers, zur angebotenen Leistung und zu den Allgemeinen
-    Geschäftsbedingungen, Verbraucher vor Abschluss eines
-    Fernabsatzvertrags zu informieren sind,
-
-
-2.  welche Informationen nach Nummer 1 Verbrauchern zu welchem Zeitpunkt
-    in Textform mitzuteilen sind und
-
-
-3.  welche weiteren Informationen, insbesondere zu Widerrufs- und
-    Kündigungsrechten, zum Kundendienst und zu Garantiebedingungen,
-    Verbrauchern nach Vertragsschluss in Textform mitzuteilen und in
-    welcher Weise sie hervorzuheben sind.
-
-
-
-
-
-#### Art 241 - Informationspflichten für Verträge im elektronischen Geschäftsverkehr
-
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung ohne Zustimmung des Bundesrates unter Beachtung der
-vorgeschriebenen Angaben nach der Richtlinie 2000/31/EG des
-Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte
-rechtliche Aspekte der Dienste der Informationsgesellschaft,
-insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt
-("Richtlinie über den elektronischen Geschäftsverkehr", ABl. EG Nr. L
-178 S. 1) festzulegen, welche Informationen dem Kunden über technische
-Einzelheiten des Vertragsschlusses im elektronischen Geschäftsverkehr,
-insbesondere zur Korrektur von Eingabefehlern, über den Zugang zu
-Vertragstext und Verhaltenskodizes sowie über die Vertragssprache vor
-Abgabe seiner Bestellung zu erteilen sind.
 
 
 #### Art 242 - Informationspflichten bei Teilzeit-Wohnrechteverträgen, Verträgen über langfristige Urlaubsprodukte, Vermittlungsverträgen sowie Tauschsystemverträgen
@@ -5748,8 +6030,8 @@ sind.
 
 #### Art 243 - Ver- und Entsorgungsbedingungen
 
-Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium der Justiz durch
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+mit dem Bundesministerium der Justiz und für Verbraucherschutz durch
 Rechtsverordnung mit Zustimmung des Bundesrates die Allgemeinen
 Bedingungen für die Versorgung mit Wasser und Fernwärme sowie die
 Entsorgung von Abwasser einschließlich von Rahmenregelungen über die
@@ -5774,134 +6056,425 @@ des Verwaltungsverfahrens.
 
 #### Art 244 - Abschlagszahlungen beim Hausbau
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung ohne Zustimmung des Bundesrates auch unter Abweichung
-von § 632a des Bürgerlichen Gesetzbuchs zu regeln, welche
-Abschlagszahlungen bei Werkverträgen verlangt werden können, die die
-Errichtung oder den Umbau eines Hauses oder eines vergleichbaren
-Bauwerks zum Gegenstand haben, insbesondere wie viele Abschläge
-vereinbart werden können, welche erbrachten Gewerke hierbei mit
-welchen Prozentsätzen der Gesamtbausumme angesetzt werden können,
-welcher Abschlag für eine in dem Vertrag enthaltene Verpflichtung zur
-Verschaffung des Eigentums angesetzt werden kann und welche Sicherheit
-dem Besteller hierfür zu leisten ist.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates
+auch unter Abweichung von § 632a oder § 650m des Bürgerlichen
+Gesetzbuchs zu regeln, welche Abschlagszahlungen bei Werkverträgen
+verlangt werden können, die die Errichtung oder den Umbau eines Hauses
+oder eines vergleichbaren Bauwerks zum Gegenstand haben, insbesondere
+wie viele Abschläge vereinbart werden können, welche erbrachten
+Gewerke hierbei mit welchen Prozentsätzen der Gesamtbausumme angesetzt
+werden können, welcher Abschlag für eine in dem Vertrag enthaltene
+Verpflichtung zur Verschaffung des Eigentums angesetzt werden kann und
+welche Sicherheit dem Besteller hierfür zu leisten ist.
 
 
-#### Art 245 - Belehrung über Widerrufs- und Rückgaberecht
-
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung, die der Zustimmung des Bundesrates nicht bedarf,
-
-1.  Inhalt und Gestaltung der dem Verbraucher gemäß § 355 Abs. 3 Satz 1, §
-    356 Abs. 2 Satz 2 und den diese ergänzenden Vorschriften des
-    Bürgerlichen Gesetzbuchs mitzuteilenden Belehrung über das Widerrufs-
-    und Rückgaberecht festzulegen und
+#### Art 245 - (weggefallen)
 
 
-2.  zu bestimmen, wie diese Belehrung mit den auf Grund der Artikel 240
-    bis 242 zu erteilenden Informationen zu verbinden ist.
+#### Art 246 - Informationspflichten beim Verbrauchervertrag
+
+(1) Der Unternehmer ist, sofern sich diese Informationen nicht aus den
+Umständen ergeben, nach § 312a Absatz 2 des Bürgerlichen Gesetzbuchs
+verpflichtet, dem Verbraucher vor Abgabe von dessen Vertragserklärung
+folgende Informationen in klarer und verständlicher Weise zur
+Verfügung zu stellen:
+
+1.  die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem
+    für den Datenträger und die Waren oder Dienstleistungen angemessenen
+    Umfang,
+
+
+2.  seine Identität, beispielsweise seinen Handelsnamen und die Anschrift
+    des Ortes, an dem er niedergelassen ist, sowie seine Telefonnummer,
+
+
+3.  den Gesamtpreis der Waren und Dienstleistungen einschließlich aller
+    Steuern und Abgaben oder in den Fällen, in denen der Preis auf Grund
+    der Beschaffenheit der Ware oder Dienstleistung vernünftigerweise
+    nicht im Voraus berechnet werden kann, die Art der Preisberechnung
+    sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder
+    Versandkosten und alle sonstigen Kosten oder in den Fällen, in denen
+    diese Kosten vernünftigerweise nicht im Voraus berechnet werden
+    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+
+
+4.  gegebenenfalls die Zahlungs-, Liefer- und Leistungsbedingungen, den
+    Termin, bis zu dem sich der Unternehmer verpflichtet hat, die Waren zu
+    liefern oder die Dienstleistungen zu erbringen, sowie das Verfahren
+    des Unternehmers zum Umgang mit Beschwerden,
+
+
+5.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren und
+    gegebenenfalls das Bestehen und die Bedingungen von
+    Kundendienstleistungen und Garantien,
+
+
+6.  gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
+    Kündigung unbefristeter Verträge oder sich automatisch verlängernder
+    Verträge,
+
+
+7.  gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich
+    anwendbarer technischer Schutzmaßnahmen für solche Inhalte, und
+
+
+8.  gegebenenfalls, soweit wesentlich, Beschränkungen der
+    Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard-
+    und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind
+    oder bekannt sein müssen.
+
+
+
+
+(2) Absatz 1 ist nicht anzuwenden auf Verträge, die Geschäfte des
+täglichen Lebens zum Gegenstand haben und bei Vertragsschluss sofort
+erfüllt werden.
+
+(3) Steht dem Verbraucher ein Widerrufsrecht zu, ist der Unternehmer
+verpflichtet, den Verbraucher in Textform über sein Widerrufsrecht zu
+belehren. Die Widerrufsbelehrung muss deutlich gestaltet sein und dem
+Verbraucher seine wesentlichen Rechte in einer dem benutzten
+Kommunikationsmittel angepassten Weise deutlich machen. Sie muss
+Folgendes enthalten:
+
+1.  einen Hinweis auf das Recht zum Widerruf,
+
+
+2.  einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem
+    Unternehmer erfolgt und keiner Begründung bedarf,
+
+
+3.  den Namen und die ladungsfähige Anschrift desjenigen, gegenüber dem
+    der Widerruf zu erklären ist, und
+
+
+4.  einen Hinweis auf Dauer und Beginn der Widerrufsfrist sowie darauf,
+    dass zur Fristwahrung die rechtzeitige Absendung der
+    Widerrufserklärung genügt.
 
 
 
 
 
-#### Art 246 - Informationspflichten bei besonderen Vertriebsformen
+#### Art 246a - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+
+
+#### § 1 Informationspflichten
+
+(1) Der Unternehmer ist nach § 312d Absatz 1 des Bürgerlichen
+Gesetzbuchs verpflichtet, dem Verbraucher folgende Informationen zur
+Verfügung zu stellen:
+
+1.  die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem
+    für das Kommunikationsmittel und für die Waren und Dienstleistungen
+    angemessenen Umfang,
+
+
+2.  seine Identität, beispielsweise seinen Handelsnamen sowie die
+    Anschrift des Ortes, an dem er niedergelassen ist, seine Telefonnummer
+    und gegebenenfalls seine Telefaxnummer und E-Mail-Adresse sowie
+    gegebenenfalls die Anschrift und die Identität des Unternehmers, in
+    dessen Auftrag er handelt,
+
+
+3.  zusätzlich zu den Angaben gemäß Nummer 2 die Geschäftsanschrift des
+    Unternehmers und gegebenenfalls die Anschrift des Unternehmers, in
+    dessen Auftrag er handelt, an die sich der Verbraucher mit jeder
+    Beschwerde wenden kann, falls diese Anschrift von der Anschrift unter
+    Nummer 2 abweicht,
+
+
+4.  den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller
+    Steuern und Abgaben, oder in den Fällen, in denen der Preis auf Grund
+    der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise
+    nicht im Voraus berechnet werden kann, die Art der Preisberechnung
+    sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder
+    Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen
+    diese Kosten vernünftigerweise nicht im Voraus berechnet werden
+    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können,
+
+
+5.  im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags
+    den Gesamtpreis; dieser umfasst die pro Abrechnungszeitraum
+    anfallenden Gesamtkosten und, wenn für einen solchen Vertrag
+    Festbeträge in Rechnung gestellt werden, ebenfalls die monatlichen
+    Gesamtkosten; wenn die Gesamtkosten vernünftigerweise nicht im Voraus
+    berechnet werden können, ist die Art der Preisberechnung anzugeben,
+
+
+6.  die Kosten für den Einsatz des für den Vertragsabschluss genutzten
+    Fernkommunikationsmittels, sofern dem Verbraucher Kosten berechnet
+    werden, die über die Kosten für die bloße Nutzung des
+    Fernkommunikationsmittels hinausgehen,
+
+
+7.  die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu
+    dem der Unternehmer die Waren liefern oder die Dienstleistung
+    erbringen muss, und gegebenenfalls das Verfahren des Unternehmers zum
+    Umgang mit Beschwerden,
+
+
+8.  das Bestehen eines gesetzlichen Mängelhaftungsrechts für die Waren,
+
+
+9.  gegebenenfalls das Bestehen und die Bedingungen von Kundendienst,
+    Kundendienstleistungen und Garantien,
+
+
+10. gegebenenfalls bestehende einschlägige Verhaltenskodizes gemäß Artikel
+    2 Buchstabe f der Richtlinie 2005/29/EG des Europäischen Parlaments
+    und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken im
+    binnenmarktinternen Geschäftsverkehr zwischen Unternehmen und
+    Verbrauchern und zur Änderung der Richtlinie 84/450/EWG des Rates, der
+    Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen
+    Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des
+    Europäischen Parlaments und des Rates (ABl. L 149 vom 11.6.2005, S.
+    22) und wie Exemplare davon erhalten werden können,
+
+
+11. gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der
+    Kündigung unbefristeter Verträge oder sich automatisch verlängernder
+    Verträge,
+
+
+12. gegebenenfalls die Mindestdauer der Verpflichtungen, die der
+    Verbraucher mit dem Vertrag eingeht,
+
+
+13. gegebenenfalls die Tatsache, dass der Unternehmer vom Verbraucher die
+    Stellung einer Kaution oder die Leistung anderer finanzieller
+    Sicherheiten verlangen kann, sowie deren Bedingungen,
+
+
+14. gegebenenfalls die Funktionsweise digitaler Inhalte, einschließlich
+    anwendbarer technischer Schutzmaßnahmen für solche Inhalte,
+
+
+15. gegebenenfalls, soweit wesentlich, Beschränkungen der
+    Interoperabilität und der Kompatibilität digitaler Inhalte mit Hard-
+    und Software, soweit diese Beschränkungen dem Unternehmer bekannt sind
+    oder bekannt sein müssen, und
+
+
+16. gegebenenfalls, dass der Verbraucher ein außergerichtliches
+    Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer
+    unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen.
 
 
 
-#### § 1 Informationspflichten bei Fernabsatzverträgen
+Wird der Vertrag im Rahmen einer öffentlich zugänglichen Versteigerung
+geschlossen, können anstelle der Angaben nach Satz 1 Nummer 2 und 3
+die entsprechenden Angaben des Versteigerers zur Verfügung gestellt
+werden.
 
-(1) Bei Fernabsatzverträgen muss der Unternehmer dem Verbraucher
-rechtzeitig vor Abgabe von dessen Vertragserklärung folgende
-Informationen in einer dem eingesetzten Fernkommunikationsmittel
-entsprechenden Weise klar und verständlich und unter Angabe des
-geschäftlichen Zwecks zur Verfügung stellen:
+(2) Steht dem Verbraucher ein Widerrufsrecht nach § 312g Absatz 1 des
+Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den
+Verbraucher zu informieren
+
+1.  über die Bedingungen, die Fristen und das Verfahren für die Ausübung
+    des Widerrufsrechts nach § 355 Absatz 1 des Bürgerlichen Gesetzbuchs
+    sowie das Muster-Widerrufsformular in der Anlage 2,
+
+
+2.  gegebenenfalls darüber, dass der Verbraucher im Widerrufsfall die
+    Kosten für die Rücksendung der Waren zu tragen hat, und bei
+    Fernabsatzverträgen zusätzlich über die Kosten für die Rücksendung der
+    Waren, wenn die Waren auf Grund ihrer Beschaffenheit nicht auf dem
+    normalen Postweg zurückgesendet werden können, und
+
+
+3.  darüber, dass der Verbraucher dem Unternehmer bei einem Vertrag über
+    die Erbringung von Dienstleistungen oder über die nicht in einem
+    bestimmten Volumen oder in einer bestimmten Menge vereinbarte
+    Lieferung von Wasser, Gas, Strom oder die Lieferung von Fernwärme
+    einen angemessenen Betrag nach § 357 Absatz 8 des Bürgerlichen
+    Gesetzbuchs für die vom Unternehmer erbrachte Leistung schuldet, wenn
+    der Verbraucher das Widerrufsrecht ausübt, nachdem er auf Aufforderung
+    des Unternehmers von diesem ausdrücklich den Beginn der Leistung vor
+    Ablauf der Widerrufsfrist verlangt hat.
+
+
+
+Der Unternehmer kann diese Informationspflichten dadurch erfüllen,
+dass er das in der Anlage 1 vorgesehene Muster für die
+Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
+
+(3) Der Unternehmer hat den Verbraucher auch zu informieren, wenn
+
+1.  dem Verbraucher nach § 312g Absatz 2 Nummer 1, 2, 5 und 7 bis 13 des
+    Bürgerlichen Gesetzbuchs ein Widerrufsrecht nicht zusteht, dass der
+    Verbraucher seine Willenserklärung nicht widerrufen kann, oder
+
+
+2.  das Widerrufsrecht des Verbrauchers nach § 312g Absatz 2 Nummer 3, 4
+    und 6 sowie § 356 Absatz 4 und 5 des Bürgerlichen Gesetzbuchs
+    vorzeitig erlöschen kann, über die Umstände, unter denen der
+    Verbraucher ein zunächst bestehendes Widerrufsrecht verliert.
+
+
+
+
+
+#### § 2 Erleichterte Informationspflichten bei Reparatur- und Instandhaltungsarbeiten
+
+(1) Hat der Verbraucher bei einem Vertrag über Reparatur- und
+Instandhaltungsarbeiten, der außerhalb von Geschäftsräumen geschlossen
+wird, bei dem die beiderseitigen Leistungen sofort erfüllt werden und
+die vom Verbraucher zu leistende Vergütung 200 Euro nicht übersteigt,
+ausdrücklich die Dienste des Unternehmers angefordert, muss der
+Unternehmer dem Verbraucher lediglich folgende Informationen zur
+Verfügung stellen:
+
+1.  die Angaben nach § 1 Absatz 1 Satz 1 Nummer 2 und
+
+
+2.  den Preis oder die Art der Preisberechnung zusammen mit einem
+    Kostenvoranschlag über die Gesamtkosten.
+
+
+
+
+(2) Ferner hat der Unternehmer dem Verbraucher folgende Informationen
+zur Verfügung zu stellen:
+
+1.  die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem
+    für das Kommunikationsmittel und die Waren oder Dienstleistungen
+    angemessenen Umfang,
+
+
+2.  gegebenenfalls die Bedingungen, die Fristen und das Verfahren für die
+    Ausübung des Widerrufsrechts sowie das Muster-Widerrufsformular in der
+    Anlage 2 und
+
+
+3.  gegebenenfalls die Information, dass der Verbraucher seine
+    Willenserklärung nicht widerrufen kann, oder die Umstände, unter denen
+    der Verbraucher ein zunächst bestehendes Widerrufsrecht vorzeitig
+    verliert.
+
+
+
+
+(3) Eine vom Unternehmer zur Verfügung gestellte Abschrift oder
+Bestätigung des Vertrags nach § 312f Absatz 1 des Bürgerlichen
+Gesetzbuchs muss alle nach § 1 zu erteilenden Informationen enthalten.
+
+
+#### § 3 Erleichterte Informationspflichten bei begrenzter Darstellungsmöglichkeit
+
+Soll ein Fernabsatzvertrag mittels eines Fernkommunikationsmittels
+geschlossen werden, das nur begrenzten Raum oder begrenzte Zeit für
+die dem Verbraucher zu erteilenden Informationen bietet, ist der
+Unternehmer verpflichtet, dem Verbraucher mittels dieses
+Fernkommunikationsmittels zumindest folgende Informationen zur
+Verfügung zu stellen:
+
+1.  die wesentlichen Eigenschaften der Waren oder Dienstleistungen,
+
+
+2.  die Identität des Unternehmers,
+
+
+3.  den Gesamtpreis oder in den Fällen, in denen der Preis auf Grund der
+    Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht
+    im Voraus berechnet werden kann, die Art der Preisberechnung,
+
+
+4.  gegebenenfalls das Bestehen eines Widerrufsrechts und
+
+
+5.  gegebenenfalls die Vertragslaufzeit und die Bedingungen für die
+    Kündigung eines Dauerschuldverhältnisses.
+
+
+
+Die weiteren Angaben nach § 1 hat der Unternehmer dem Verbraucher in
+geeigneter Weise unter Beachtung von § 4 Absatz 3 zugänglich zu
+machen.
+
+
+#### § 4 Formale Anforderungen an die Erfüllung der Informationspflichten
+
+(1) Der Unternehmer muss dem Verbraucher die Informationen nach den §§
+1 bis 3 vor Abgabe von dessen Vertragserklärung in klarer und
+verständlicher Weise zur Verfügung stellen.
+
+(2) Bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag muss
+der Unternehmer die Informationen auf Papier oder, wenn der
+Verbraucher zustimmt, auf einem anderen dauerhaften Datenträger zur
+Verfügung stellen. Die Informationen müssen lesbar sein. Die Person
+des erklärenden Unternehmers muss genannt sein. Der Unternehmer kann
+die Informationen nach § 2 Absatz 2 in anderer Form zur Verfügung
+stellen, wenn sich der Verbraucher hiermit ausdrücklich einverstanden
+erklärt hat.
+
+(3) Bei einem Fernabsatzvertrag muss der Unternehmer dem Verbraucher
+die Informationen in einer den benutzten Fernkommunikationsmitteln
+angepassten Weise zur Verfügung stellen. Soweit die Informationen auf
+einem dauerhaften Datenträger zur Verfügung gestellt werden, müssen
+sie lesbar sein, und die Person des erklärenden Unternehmers muss
+genannt sein. Abweichend von Satz 1 kann der Unternehmer dem
+Verbraucher die in § 3 Satz 2 genannten Informationen in geeigneter
+Weise zugänglich machen.
+
+
+#### Art 246b - Informationspflichten bei außerhalb von Geschäftsräumen geschlossenen Verträgen und Fernabsatzverträgen über Finanzdienstleistungen
+
+
+
+#### § 1 Informationspflichten
+
+(1) Der Unternehmer ist nach § 312d Absatz 2 des Bürgerlichen
+Gesetzbuchs verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von
+dessen Vertragserklärung klar und verständlich und unter Angabe des
+geschäftlichen Zwecks, bei Fernabsatzverträgen in einer dem benutzten
+Fernkommunikationsmittel angepassten Weise, folgende Informationen zur
+Verfügung zu stellen:
 
 1.  seine Identität, anzugeben ist auch das öffentliche
     Unternehmensregister, bei dem der Rechtsträger eingetragen ist, und
     die zugehörige Registernummer oder gleichwertige Kennung,
 
 
-2.  die Identität eines Vertreters des Unternehmers in dem Mitgliedstaat,
-    in dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen
+2.  die Hauptgeschäftstätigkeit des Unternehmers und die für seine
+    Zulassung zuständige Aufsichtsbehörde,
+
+
+3.  die Identität des Vertreters des Unternehmers in dem Mitgliedstaat, in
+    dem der Verbraucher seinen Wohnsitz hat, wenn es einen solchen
     Vertreter gibt, oder die Identität einer anderen gewerblich tätigen
-    Person als dem Anbieter, wenn der Verbraucher mit dieser geschäftlich
-    zu tun hat, und die Eigenschaft, in der diese Person gegenüber dem
-    Verbraucher tätig wird,
+    Person als dem Anbieter, wenn der Verbraucher mit dieser Person
+    geschäftlich zu tun hat, und die Eigenschaft, in der diese Person
+    gegenüber dem Verbraucher tätig wird,
 
 
-3.  die ladungsfähige Anschrift des Unternehmers und jede andere
+4.  die ladungsfähige Anschrift des Unternehmers und jede andere
     Anschrift, die für die Geschäftsbeziehung zwischen diesem, seinem
-    Vertreter oder einer anderen gewerblich tätigen Person gemäß Nummer 2
+    Vertreter oder einer anderen gewerblich tätigen Person nach Nummer 3
     und dem Verbraucher maßgeblich ist, bei juristischen Personen,
-    Personenvereinigungen oder Personengruppen auch den Namen eines
+    Personenvereinigungen oder Personengruppen auch den Namen des
     Vertretungsberechtigten,
 
 
-4.  die wesentlichen Merkmale der Ware oder Dienstleistung sowie
-    Informationen darüber, wie der Vertrag zustande kommt,
+5.  die wesentlichen Merkmale der Finanzdienstleistung sowie Informationen
+    darüber, wie der Vertrag zustande kommt,
 
 
-5.  die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder
-    regelmäßig wiederkehrende Leistung zum Inhalt hat,
-
-
-6.  einen Vorbehalt, eine in Qualität und Preis gleichwertige Leistung
-    (Ware oder Dienstleistung) zu erbringen, und einen Vorbehalt, die
-    versprochene Leistung im Fall ihrer Nichtverfügbarkeit nicht zu
-    erbringen,
-
-
-7.  den Gesamtpreis der Ware oder Dienstleistung einschließlich aller
-    damit verbundenen Preisbestandteile sowie alle über den Unternehmer
+6.  den Gesamtpreis der Finanzdienstleistung einschließlich aller damit
+    verbundenen Preisbestandteile sowie alle über den Unternehmer
     abgeführten Steuern oder, wenn kein genauer Preis angegeben werden
     kann, seine Berechnungsgrundlage, die dem Verbraucher eine Überprüfung
     des Preises ermöglicht,
 
 
-8.  gegebenenfalls zusätzlich anfallende Liefer- und Versandkosten sowie
-    einen Hinweis auf mögliche weitere Steuern oder Kosten, die nicht über
-    den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden,
+7.  gegebenenfalls zusätzlich anfallende Kosten sowie einen Hinweis auf
+    mögliche weitere Steuern oder Kosten, die nicht über den Unternehmer
+    abgeführt oder von ihm in Rechnung gestellt werden,
 
 
-9.  die Einzelheiten hinsichtlich der Zahlung und der Lieferung oder
-    Erfüllung,
-
-
-10. das Bestehen oder Nichtbestehen eines Widerrufs- oder Rückgaberechts
-    sowie die Bedingungen, Einzelheiten der Ausübung, insbesondere den
-    Namen und die Anschrift desjenigen, gegenüber dem der Widerruf zu
-    erklären ist, und die Rechtsfolgen des Widerrufs oder der Rückgabe
-    einschließlich Informationen über den Betrag, den der Verbraucher im
-    Fall des Widerrufs oder der Rückgabe gemäß § 357 Abs. 1 des
-    Bürgerlichen Gesetzbuchs für die erbrachte Dienstleistung zu zahlen
-    hat,
-
-
-11. alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
-    Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
-    zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
-    und
-
-
-12. eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten
-    Informationen, beispielsweise die Gültigkeitsdauer befristeter
-    Angebote, insbesondere hinsichtlich des Preises.
-
-
-
-
-(2) Bei Fernabsatzverträgen über Finanzdienstleistungen muss der
-Unternehmer dem Verbraucher rechtzeitig vor Abgabe von dessen
-Vertragserklärung ferner folgende Informationen in der in Absatz 1
-genannten Art und Weise zur Verfügung stellen:
-
-1.  die Hauptgeschäftstätigkeit des Unternehmers und die für seine
-    Zulassung zuständige Aufsichtsbehörde,
-
-
-2.  gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf
+8.  gegebenenfalls den Hinweis, dass sich die Finanzdienstleistung auf
     Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder
     der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind
     oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die
@@ -5909,124 +6482,140 @@ genannten Art und Weise zur Verfügung stellen:
     erwirtschaftete Erträge kein Indikator für künftige Erträge sind,
 
 
-3.  die vertraglichen Kündigungsbedingungen einschließlich etwaiger
+9.  eine Befristung der Gültigkeitsdauer der zur Verfügung gestellten
+    Informationen, beispielsweise die Gültigkeitsdauer befristeter
+    Angebote, insbesondere hinsichtlich des Preises,
+
+
+10. Einzelheiten hinsichtlich der Zahlung und der Erfüllung,
+
+
+11. alle spezifischen zusätzlichen Kosten, die der Verbraucher für die
+    Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche
+    zusätzlichen Kosten durch den Unternehmer in Rechnung gestellt werden,
+
+
+12. das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie die
+    Bedingungen, Einzelheiten der Ausübung, insbesondere Name und
+    Anschrift desjenigen, gegenüber dem der Widerruf zu erklären ist, und
+    die Rechtsfolgen des Widerrufs einschließlich Informationen über den
+    Betrag, den der Verbraucher im Falle des Widerrufs nach § 357a des
+    Bürgerlichen Gesetzbuchs für die erbrachte Leistung zu zahlen hat,
+
+
+13. die Mindestlaufzeit des Vertrags, wenn dieser eine dauernde oder
+    regelmäßig wiederkehrende Leistung zum Inhalt hat,
+
+
+14. die vertraglichen Kündigungsbedingungen einschließlich etwaiger
     Vertragsstrafen,
 
 
-4.  die Mitgliedstaaten der Europäischen Union, deren Recht der
+15. die Mitgliedstaaten der Europäischen Union, deren Recht der
     Unternehmer der Aufnahme von Beziehungen zum Verbraucher vor Abschluss
-    des Fernabsatzvertrags zugrunde legt,
+    des Vertrags zugrunde legt,
 
 
-5.  eine Vertragsklausel über das auf den Fernabsatzvertrag anwendbare
-    Recht oder über das zuständige Gericht,
+16. eine Vertragsklausel über das auf den Vertrag anwendbare Recht oder
+    über das zuständige Gericht,
 
 
-6.  die Sprachen, in welchen die Vertragsbedingungen und die in dieser
+17. die Sprachen, in welchen die Vertragsbedingungen und die in dieser
     Vorschrift genannten Vorabinformationen mitgeteilt werden, sowie die
     Sprachen, in welchen sich der Unternehmer verpflichtet, mit Zustimmung
     des Verbrauchers die Kommunikation während der Laufzeit dieses
     Vertrags zu führen,
 
 
-7.  einen möglichen Zugang des Verbrauchers zu einem außergerichtlichen
-    Beschwerde- und Rechtsbehelfsverfahren und gegebenenfalls die
-    Voraussetzungen für diesen Zugang und
+18. gegebenenfalls, dass der Verbraucher ein außergerichtliches
+    Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer
+    unterworfen ist, nutzen kann, und dessen Zugangsvoraussetzungen und
 
 
-8.  das Bestehen eines Garantiefonds oder anderer
-    Entschädigungsregelungen, die nicht unter die Richtlinie 94/19/EG des
+19. das Bestehen eines Garantiefonds oder anderer
+    Entschädigungsregelungen, die weder unter die Richtlinie 94/19/EG des
     Europäischen Parlaments und des Rates vom 30. Mai 1994 über
-    Einlagensicherungssysteme (ABl. EG Nr. L 135 S. 5) und die Richtlinie
+    Einlagensicherungssysteme (ABl. L 135 vom 31.5.1994, S. 5) noch unter
+    die Richtlinie
     97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997
-    über Systeme für die Entschädigung der Anleger (ABl. EG Nr. L 84 S.
-    22) fallen.
+    über Systeme für die Entschädigung der Anleger (ABl. L 84 vom
+    26\.3.1997, S. 22) fallen.
 
 
 
 
-(3) Bei Telefongesprächen hat der Unternehmer dem Verbraucher nur
-Informationen nach Absatz 1 zur Verfügung zu stellen, wobei eine
-Angabe gemäß Absatz 1 Nr. 3 nur erforderlich ist, wenn der Verbraucher
-eine Vorauszahlung zu leisten hat. Satz 1 gilt nur, wenn der
-Unternehmer den Verbraucher darüber informiert hat, dass auf Wunsch
-weitere Informationen übermittelt werden können und welcher Art diese
-Informationen sind, und der Verbraucher ausdrücklich auf die
-Übermittlung der weiteren Informationen vor Abgabe seiner
-Vertragserklärung verzichtet hat.
+(2) Bei Telefongesprächen hat der Unternehmer nur folgende
+Informationen zur Verfügung zu stellen:
+
+1.  die Identität der Kontaktperson des Verbrauchers und deren Verbindung
+    zum Unternehmer,
 
 
-#### § 2 Weitere Informationspflichten bei Fernabsatzverträgen
-
-(1) Der Unternehmer hat dem Verbraucher ferner die in Satz 2
-bestimmten Informationen in Textform mitzuteilen, und zwar bei
-
-1.  Finanzdienstleistungen rechtzeitig vor Abgabe von dessen
-    Vertragserklärung oder, wenn auf Verlangen des Verbrauchers der
-    Vertrag telefonisch oder unter Verwendung eines anderen
-    Fernkommunikationsmittels geschlossen wird, das die Mitteilung in
-    Textform vor Vertragsschluss nicht gestattet, unverzüglich nach
-    Abschluss des Fernabsatzvertrags,
+2.  die Beschreibung der Hauptmerkmale der Finanzdienstleistung,
 
 
-2.  sonstigen Dienstleistungen und bei der Lieferung von Waren alsbald,
-    spätestens bis zur vollständigen Erfüllung des Vertrags, bei Waren
-    spätestens bis zur Lieferung an den Verbraucher.
+3.  den Gesamtpreis, den der Verbraucher dem Unternehmer für die
+    Finanzdienstleistung schuldet, einschließlich aller über den
+    Unternehmer abgeführten Steuern, oder, wenn kein genauer Preis
+    angegeben werden kann, die Grundlage für die Berechnung des Preises,
+    die dem Verbraucher eine Überprüfung des Preises ermöglicht,
+
+
+4.  mögliche weitere Steuern und Kosten, die nicht über den Unternehmer
+    abgeführt oder von ihm in Rechnung gestellt werden, und
+
+
+5.  das Bestehen oder Nichtbestehen eines Widerrufsrechts sowie für den
+    Fall, dass ein Widerrufsrecht besteht, auch die Widerrufsfrist und die
+    Bedingungen, Einzelheiten der Ausübung und die Rechtsfolgen des
+    Widerrufs einschließlich Informationen über den Betrag, den der
+    Verbraucher im Falle des Widerrufs nach § 357a des Bürgerlichen
+    Gesetzbuchs für die erbrachte Leistung zu zahlen hat.
 
 
 
-Der Unternehmer hat dem Verbraucher gemäß Satz 1 mitzuteilen:
+Satz 1 gilt nur, wenn der Unternehmer den Verbraucher darüber
+informiert hat, dass auf Wunsch weitere Informationen übermittelt
+werden können und welcher Art diese Informationen sind, und der
+Verbraucher ausdrücklich auf die Übermittlung der weiteren
+Informationen vor Abgabe seiner Vertragserklärung verzichtet hat.
+
+
+#### § 2 Weitere Informationspflichten
+
+(1) Der Unternehmer hat dem Verbraucher rechtzeitig vor Abgabe von
+dessen Vertragserklärung die folgenden Informationen auf einem
+dauerhaften Datenträger mitzuteilen:
 
 1.  die Vertragsbestimmungen einschließlich der Allgemeinen
-    Geschäftsbedingungen,
+    Geschäftsbedingungen und
 
 
-2.  die in § 1 Abs. 1 genannten Informationen,
-
-
-3.  bei Finanzdienstleistungen auch die in § 1 Abs. 2 genannten
-    Informationen und
-
-
-4.  bei der Lieferung von Waren und sonstigen Dienstleistungen ferner
-
-    a)  die in § 1 Abs. 2 Nr. 3 genannten Informationen bei Verträgen, die ein
-        Dauerschuldverhältnis betreffen und für eine längere Zeit als ein Jahr
-        oder für unbestimmte Zeit geschlossen sind, sowie
-
-
-    b)  Informationen über Kundendienst und geltende Gewährleistungs- und
-        Garantiebedingungen.
+2.  die in § 1 Absatz 1 genannten Informationen.
 
 
 
+Wird der Vertrag auf Verlangen des Verbrauchers telefonisch oder unter
+Verwendung eines anderen Fernkommunikationsmittels geschlossen, das
+die Mitteilung auf einem dauerhaften Datenträger vor Vertragsschluss
+nicht gestattet, hat der Unternehmer dem Verbraucher abweichend von
+Satz 1 die Informationen unverzüglich nach Abschluss des
+Fernabsatzvertrags zu übermitteln.
+
+(2) Der Verbraucher kann während der Laufzeit des Vertrags vom
+Unternehmer jederzeit verlangen, dass dieser ihm die
+Vertragsbedingungen einschließlich der Allgemeinen
+Geschäftsbedingungen in Papierform zur Verfügung stellt.
+
+(3) Zur Erfüllung seiner Informationspflicht nach Absatz 1 Satz 1
+Nummer 2 in Verbindung mit § 1 Absatz 1 Nummer 12 über das Bestehen
+eines Widerrufsrechts kann der Unternehmer dem Verbraucher das in der
+Anlage 3 vorgesehene Muster für die Widerrufsbelehrung bei
+Finanzdienstleistungsverträgen zutreffend ausgefüllt in Textform
+übermitteln.
 
 
-
-
-(2) Eine Mitteilung nach Absatz 1 Satz 1 Nr. 2 in Verbindung mit
-Absatz 1 Satz 2 ist entbehrlich bei Dienstleistungen, die unmittelbar
-durch Einsatz von Fernkommunikationsmitteln erbracht werden, sofern
-diese Leistungen in einem Mal erfolgen und über den Betreiber der
-Fernkommunikationsmittel abgerechnet werden. Der Verbraucher muss sich
-in diesem Fall aber über die Anschrift der Niederlassung des
-Unternehmers informieren können, bei der er Beanstandungen vorbringen
-kann.
-
-(3) Zur Erfüllung seiner Informationspflicht gemäß Absatz 1 Satz 2 Nr.
-2 in Verbindung mit § 1 Abs. 1 Nr. 10 über das Bestehen eines
-Widerrufs- oder Rückgaberechts kann der Unternehmer die in den Anlagen
-1 und 2 für die Belehrung über das Widerrufs- oder Rückgaberecht
-vorgesehenen Muster in Textform verwenden. Soweit die nach Absatz 1
-Satz 2 Nr. 2 in Verbindung mit § 1 Abs. 1 Nr. 3 und 10, nach Absatz 1
-Satz 2 Nr. 3 in Verbindung mit § 1 Abs. 2 Nr. 3 und nach Absatz 1 Satz
-2 Nr. 4 Buchstabe b mitzuteilenden Informationen in den
-Vertragsbestimmungen einschließlich der Allgemeinen
-Geschäftsbedingungen enthalten sind, bedürfen sie einer
-hervorgehobenen und deutlich gestalteten Form.
-
-
-#### § 3 Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
+#### Art 246c - Informationspflichten bei Verträgen im elektronischen Geschäftsverkehr
 
 Bei Verträgen im elektronischen Geschäftsverkehr muss der Unternehmer
 den Kunden unterrichten
@@ -6039,7 +6628,7 @@ den Kunden unterrichten
     Unternehmer gespeichert wird und ob er dem Kunden zugänglich ist,
 
 
-3.  darüber, wie er mit den gemäß § 312g Absatz 1 Satz 1 Nummer 1 des
+3.  darüber, wie er mit den nach § 312i Absatz 1 Satz 1 Nummer 1 des
     Bürgerlichen Gesetzbuchs zur Verfügung gestellten technischen Mitteln
     Eingabefehler vor Abgabe der Vertragserklärung erkennen und
     berichtigen kann,
@@ -6060,48 +6649,88 @@ den Kunden unterrichten
 
 
 
-#### § 1 Form und Zeitpunkt der vorvertraglichen Information
+#### § 1 Vorvertragliche Informationen bei Immobiliar-Verbraucherdarlehensverträgen
 
-Die Unterrichtung nach § 491a Abs. 1 des Bürgerlichen Gesetzbuchs muss
-rechtzeitig vor dem Abschluss eines Verbraucherdarlehensvertrags in
-Textform erfolgen und die sich aus den §§ 3 bis 5 und 8 bis 13
-ergebenden Einzelheiten enthalten.
+(1) Bei einem Immobiliar-Verbraucherdarlehensvertrag muss der
+Darlehensgeber dem Darlehensnehmer mitteilen, welche Informationen und
+Nachweise er innerhalb welchen Zeitraums von ihm benötigt, um eine
+ordnungsgemäße Kreditwürdigkeitsprüfung durchführen zu können. Er hat
+den Darlehensnehmer darauf hinzuweisen, dass eine
+Kreditwürdigkeitsprüfung für den Abschluss des Darlehensvertrags
+zwingend ist und nur durchgeführt werden kann, wenn die hierfür
+benötigten Informationen und Nachweise richtig sind und vollständig
+beigebracht werden.
+
+(2) Der Darlehensgeber muss dem Darlehensnehmer die vorvertraglichen
+Informationen in Textform übermitteln, und zwar unverzüglich nachdem
+er die Angaben gemäß Absatz 1 erhalten hat und rechtzeitig vor Abgabe
+der Vertragserklärung des Darlehensnehmers. Dafür muss der
+Darlehensgeber das entsprechend ausgefüllte Europäische
+Standardisierte Merkblatt gemäß dem Muster in Anlage 6 (ESIS-
+Merkblatt) verwenden. Der Darlehensgeber hat das ESIS-Merkblatt auch
+jedem Vertragsangebot und jedem Vertragsvorschlag, an dessen
+Bedingungen er sich bindet, beizufügen. Dies gilt nicht, wenn der
+Darlehensnehmer bereits ein Merkblatt erhalten hat, das über die
+speziellen Bedingungen des Vertragsangebots oder Vertragsvorschlags
+informiert. Jeder bindende Vertragsvorschlag ist dem Darlehensnehmer
+in Textform zur Verfügung zu stellen. Ist der Darlehensvertrag
+zugleich ein außerhalb von Geschäftsräumen geschlossener Vertrag oder
+ein Fernabsatzvertrag, gelten mit der Übermittlung des ESIS-Merkblatts
+auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen
+Gesetzbuchs als erfüllt.
+
+(3) Weitere vorvertragliche Informationen sind, soweit nichts anderes
+bestimmt ist, in einem gesonderten Dokument zu erteilen, das dem ESIS-
+Merkblatt beigefügt werden kann. Die weiteren vorvertraglichen
+Informationen müssen auch einen deutlich gestalteten Hinweis darauf
+enthalten, dass der Darlehensgeber Forderungen aus dem
+Darlehensvertrag ohne Zustimmung des Darlehensnehmers abtreten und das
+Vertragsverhältnis auf einen Dritten übertragen darf, soweit nicht die
+Abtretung im Vertrag ausgeschlossen wird oder der Darlehensnehmer der
+Übertragung zustimmen muss.
+
+(4) Wenn der Darlehensgeber entscheidet, den Darlehensvertrag nicht
+abzuschließen, muss er dies dem Darlehensnehmer unverzüglich
+mitteilen.
 
 
-#### § 2 Muster
+#### § 2 Form, Zeitpunkt und Muster der vorvertraglichen Informationen bei Allgemein-Verbraucherdarlehensverträgen
 
-(1) Die Unterrichtung hat unter Verwendung der Europäischen
-Standardinformation für Verbraucherkredite gemäß dem Muster in Anlage
-3 zu erfolgen, wenn nicht ein Vertrag gemäß § 495 Abs. 3 Nr. 1, § 503
-oder § 504 Abs. 2 des Bürgerlichen Gesetzbuchs abgeschlossen werden
-soll.
+(1) Bei einem Allgemein-Verbraucherdarlehensvertrag muss der
+Darlehensgeber den Darlehensnehmer über die Einzelheiten nach den §§ 3
+bis 5 und 8 bis 13 unterrichten, und zwar rechtzeitig vor Abgabe der
+Vertragserklärung des Darlehensnehmers. Die Unterrichtung erfolgt in
+Textform.
 
-(2) Soll ein Vertrag der in § 495 Abs. 3 Nr. 1 oder § 504 Abs. 2 des
-Bürgerlichen Gesetzbuchs bezeichneten Art abgeschlossen werden, kann
-der Darlehensgeber zur Unterrichtung die Europäische
-Verbraucherkreditinformation gemäß dem Muster in Anlage 4 verwenden.
-Bei Verträgen gemäß § 503 des Bürgerlichen Gesetzbuchs kann der
-Darlehensgeber das Europäische Standardisierte Merkblatt gemäß dem
-Muster in Anlage 5 verwenden. Verwendet der Darlehensgeber die Muster
-nicht, hat er bei der Unterrichtung alle nach den §§ 3 bis 5 und 8 bis
-13 erforderlichen Angaben gleichartig zu gestalten und hervorzuheben.
+(2) Für die Unterrichtung nach Absatz 1 ist vorbehaltlich des Absatzes
+3 die Europäische Standardinformation für Verbraucherkredite gemäß dem
+Muster in Anlage 4 zu verwenden.
 
-(3) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des
+(3) Soll ein Allgemein-Verbraucherdarlehensvertrag gemäß § 495 Absatz
+2 Nummer 1 oder § 504 Absatz 2 des Bürgerlichen Gesetzbuchs
+abgeschlossen werden, kann der Darlehensgeber zur Unterrichtung die
+Europäische Verbraucherkreditinformation gemäß dem Muster in Anlage 5
+verwenden. Verwendet der Darlehensgeber das Muster nicht, hat er bei
+der Unterrichtung alle nach den §§ 3 bis 5 und 8 bis 13 erforderlichen
+Angaben gleichartig zu gestalten und hervorzuheben.
+
+(4) Die Verpflichtung zur Unterrichtung nach § 491a Abs. 1 des
 Bürgerlichen Gesetzbuchs gilt als erfüllt, wenn der Darlehensgeber dem
 Darlehensnehmer das ordnungsgemäß ausgefüllte Muster in Textform
 übermittelt hat. Ist der Darlehensvertrag zugleich ein
-Fernabsatzvertrag, gelten mit der Übermittlung des entsprechenden
-Musters auch die Anforderungen des § 312c Abs. 1 des Bürgerlichen
+Fernabsatzvertrag oder ein außerhalb von Geschäftsräumen geschlossener
+Vertrag, gelten mit der Übermittlung des entsprechenden ausgefüllten
+Musters auch die Anforderungen des § 312d Absatz 2 des Bürgerlichen
 Gesetzbuchs als erfüllt. Die in diesem Absatz genannten
 Verpflichtungen gelten bis 31. Dezember 2010 auch bei Übermittlung des
-Musters in Anlage 3 und 4 in der Fassung des Gesetzes zur Umsetzung
-der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils der
-Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften über
-das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S. 2355)
-als erfüllt.
+Musters in den Anlagen 4 und 5 in der Fassung des Gesetzes zur
+Umsetzung der Verbraucherkreditrichtlinie, des zivilrechtlichen Teils
+der Zahlungsdiensterichtlinie sowie zur Neuordnung der Vorschriften
+über das Widerrufs- und Rückgaberecht vom 29. Juli 2009 (BGBl. I S.
+2355) als erfüllt.
 
 
-#### § 3 Inhalt der vorvertraglichen Information
+#### § 3 Inhalt der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
 (1) Die Unterrichtung vor Vertragsschluss muss folgende Informationen
 enthalten:
@@ -6134,10 +6763,9 @@ enthalten:
 
 
 10. alle sonstigen Kosten, insbesondere in Zusammenhang mit der Auszahlung
-    oder der Verwendung eines Zahlungsauthentifizierungsinstruments, mit
-    dem sowohl Zahlungsvorgänge als auch Abhebungen getätigt werden
-    können, sowie die Bedingungen, unter denen die Kosten angepasst werden
-    können,
+    oder der Verwendung eines Zahlungsinstruments, mit dem sowohl
+    Zahlungsvorgänge als auch Abhebungen getätigt werden können, sowie die
+    Bedingungen, unter denen die Kosten angepasst werden können,
 
 
 11. den Verzugszinssatz und die Art und Weise seiner etwaigen Anpassung
@@ -6192,10 +6820,11 @@ Darlehensgebers, für die unterschiedliche Sollzinssätze gelten, durch
 die Teilzahlungen getilgt werden.
 
 
-#### § 4 Weitere Angaben bei der vorvertraglichen Information
+#### § 4 Weitere Angaben bei der vorvertraglichen Information bei Allgemein-Verbraucherdarlehensverträgen
 
-(1) Die Unterrichtung muss folgende Angaben enthalten, soweit sie für
-den in Betracht kommenden Vertragsabschluss erheblich sind:
+(1) Die Unterrichtung muss bei Allgemein-Verbraucherdarlehensverträgen
+folgende Angaben enthalten, soweit sie für den in Betracht kommenden
+Vertragsabschluss erheblich sind:
 
 1.  einen Hinweis, dass der Darlehensnehmer infolge des
     Vertragsabschlusses Notarkosten zu tragen hat,
@@ -6216,19 +6845,40 @@ den in Betracht kommenden Vertragsabschluss erheblich sind:
 
 
 (2) Weitere Hinweise des Darlehensgebers müssen räumlich getrennt von
-den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13 erteilt
+den Angaben nach Absatz 1 und nach den §§ 3 und 8 bis 13a übermittelt
 werden.
+
+(3) Wird in einem Allgemein-Verbraucherdarlehensvertrag auf einen
+Referenzwert im Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung
+(EU) 2016/1011 des Europäischen Parlaments und des Rates vom 8. Juni
+2016 über Indizes, die bei Finanzinstrumenten und Finanzkontrakten als
+Referenzwert oder zur Messung der Wertentwicklung eines
+Investmentfonds verwendet werden, und zur Änderung der Richtlinien
+2008/48/EG und 2014/17/EU sowie der Verordnung (EU) Nr. 596/2014 (ABl.
+L 171 vom 29.6.2016, S. 1) Bezug genommen, teilt der Darlehensgeber
+dem Darlehensnehmer in einem gesonderten Dokument, das dem Formular
+„Europäische Standardinformationen für Verbraucherkredite“ beigefügt
+werden kann, die Bezeichnung des Referenzwerts und den Namen des
+Administrators sowie die möglichen Auswirkungen auf den
+Darlehensnehmer mit.
 
 
 #### § 5 Information bei besonderen Kommunikationsmitteln
 
-Wählt der Darlehensnehmer für die Vertragsanbahnung
-Kommunikationsmittel, die die Übermittlung der vorstehenden
-Informationen in der in den §§ 1 und 2 vorgesehenen Form nicht
-gestatten, ist die vollständige Unterrichtung nach § 1 unverzüglich
-nachzuholen. Bei Telefongesprächen muss die Beschreibung der
-wesentlichen Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die
-Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4 enthalten.
+(1) Wählt der Darlehensnehmer für die Vertragsanbahnung bei Allgemein-
+Verbraucherdarlehensverträgen Kommunikationsmittel, die die
+Übermittlung der vorstehenden Informationen in der in § 2 vorgesehenen
+Form nicht gestatten, ist die vollständige Unterrichtung nach § 2
+unverzüglich nachzuholen. Bei Telefongesprächen muss die Beschreibung
+der wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 9, Abs. 3 und 4
+enthalten.
+
+(2) Bei Telefongesprächen, die sich auf Immobiliar-
+Verbraucherdarlehensverträge beziehen, muss die Beschreibung der
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+zumindest die Angaben nach Teil A Abschnitt 3 bis 6 des ESIS-
+Merkblatts gemäß dem Muster in Anlage 6 enthalten.
 
 
 #### § 6 Vertragsinhalt
@@ -6257,6 +6907,13 @@ folgende Angaben enthalten:
 
 
 
+Bei einem Immobiliar-Verbraucherdarlehensvertrag sind abweichend von
+Satz 1 nur die in § 3 Absatz 1 Nummer 1 bis 7, 10 und 13 sowie Absatz
+4 genannten Angaben zwingend. Abweichend von § 3 Absatz 1 Nummer 7 ist
+die Anzahl der Teilzahlungen nicht anzugeben, wenn die Laufzeit des
+Darlehensvertrags von dem Zeitpunkt der Zuteilung eines
+Bausparvertrags abhängt.
+
 (2) Besteht ein Widerrufsrecht nach § 495 des Bürgerlichen
 Gesetzbuchs, müssen im Vertrag Angaben zur Frist und zu anderen
 Umständen für die Erklärung des Widerrufs sowie ein Hinweis auf die
@@ -6264,27 +6921,31 @@ Verpflichtung des Darlehensnehmers enthalten sein, ein bereits
 ausbezahltes Darlehen zurückzuzahlen und Zinsen zu vergüten. Der pro
 Tag zu zahlende Zinsbetrag ist anzugeben. Enthält der
 Verbraucherdarlehensvertrag eine Vertragsklausel in hervorgehobener
-und deutlich gestalteter Form, die dem Muster in Anlage 6 entspricht,
-genügt diese den Anforderungen der Sätze 1 und 2. Dies gilt bis zum
-Ablauf des 4. November 2011 auch bei entsprechender Verwendung dieses
-Musters in der Fassung des Gesetzes zur Einführung einer
-Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur
-Änderung der Vorschriften über das Widerrufsrecht bei
-Verbraucherdarlehensverträgen und zur Änderung des
+und deutlich gestalteter Form, die bei Allgemein-
+Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei
+Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8
+entspricht, genügt diese Vertragsklausel den Anforderungen der Sätze 1
+und 2. Dies gilt bis zum Ablauf des 4. November 2011 auch bei
+entsprechender Verwendung dieses Musters in der Fassung des Gesetzes
+zur Einführung einer Musterwiderrufsinformation für
+Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das
+Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des
 Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Der
 Darlehensgeber darf unter Beachtung von Satz 3 in Format und
 Schriftgröße jeweils von dem Muster abweichen.
 
-(3) Die Angabe des Gesamtbetrags und des effektiven Jahreszinses hat
-unter Angabe der Annahmen zu erfolgen, die zum Zeitpunkt des
-Abschlusses des Vertrags bekannt sind und die in die Berechnung des
-effektiven Jahreszinses einfließen.
+(3) Bei Allgemein-Verbraucherdarlehensverträgen hat die Angabe des
+Gesamtbetrags und des effektiven Jahreszinses unter Angabe der
+Annahmen zu erfolgen, die zum Zeitpunkt des Abschlusses des Vertrags
+bekannt sind und die in die Berechnung des effektiven Jahreszinses
+einfließen.
 
 
 #### § 7 Weitere Angaben im Vertrag
 
-Der Verbraucherdarlehensvertrag muss klar und verständlich folgende
-Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
+(1) Der Allgemein-Verbraucherdarlehensvertrag muss folgende klar und
+verständlich formulierte weitere Angaben enthalten, soweit sie für den
+Vertrag bedeutsam sind:
 
 1.  einen Hinweis, dass der Darlehensnehmer Notarkosten zu tragen hat,
 
@@ -6306,19 +6967,42 @@ Angaben enthalten, soweit sie für den Vertrag bedeutsam sind:
 
 
 
+(2) Der Immobiliar-Verbraucherdarlehensvertrag muss folgende klar und
+verständlich formulierte weitere Angaben enthalten, soweit sie für den
+Vertrag bedeutsam sind:
+
+1.  die Voraussetzungen und die Berechnungsmethode für den Anspruch auf
+    Vorfälligkeitsentschädigung, soweit der Darlehensgeber beabsichtigt,
+    diesen Anspruch geltend zu machen, falls der Darlehensnehmer das
+    Darlehen vorzeitig zurückzahlt, und die sich aus § 493 Absatz 5 des
+    Bürgerlichen Gesetzbuchs ergebenden Pflichten,
+
+
+2.  bei einem Immobiliar-Verbraucherdarlehensvertrag in Fremdwährung auch
+    die sich aus den §§ 503 und 493 Absatz 4 des Bürgerlichen Gesetzbuchs
+    ergebenden Rechte des Darlehensnehmers.
+
+
+
+
 
 #### § 8 Verträge mit Zusatzleistungen
 
-(1) Verlangt der Darlehensgeber zum Abschluss eines
+(1) Verlangt der Darlehensgeber zum Abschluss eines Allgemein-
 Verbraucherdarlehensvertrags, dass der Darlehensnehmer zusätzliche
 Leistungen des Darlehensgebers annimmt oder einen weiteren Vertrag
 abschließt, insbesondere einen Versicherungsvertrag oder
 Kontoführungsvertrag, hat der Darlehensgeber dies zusammen mit der
 vorvertraglichen Information anzugeben. In der vorvertraglichen
-Information und im Vertrag sind Kontoführungsgebühren sowie die
-Bedingungen, unter denen sie angepasst werden können, anzugeben.
+Information sind Kontoführungsgebühren sowie die Bedingungen, unter
+denen sie angepasst werden können, anzugeben.
 
-(2) Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht der
+(2) Werden im Zusammenhang mit einem Verbraucherdarlehensvertrag
+Kontoführungsgebühren erhoben, so sind diese sowie die Bedingungen,
+unter denen die Gebühren angepasst werden können, im Vertrag
+anzugeben.
+
+(3) Dienen die vom Darlehensnehmer geleisteten Zahlungen nicht der
 unmittelbaren Darlehenstilgung, sind die Zeiträume und Bedingungen für
 die Zahlung der Sollzinsen und der damit verbundenen wiederkehrenden
 und nicht wiederkehrenden Kosten im Verbraucherdarlehensvertrag
@@ -6332,23 +7016,7 @@ aus der Vermögensbildung erwirbt, die Tilgung des Darlehens
 gewährleisten, es sei denn, dies wird vertraglich vereinbart.
 
 
-#### § 9 Abweichende Mitteilungspflichten bei Immobiliardarlehensverträgen gemäß § 503 des Bürgerlichen Gesetzbuchs
-
-(1) Bei Verträgen gemäß § 503 des Bürgerlichen Gesetzbuchs sind in der
-vorvertraglichen Information und im Verbraucherdarlehensvertrag
-abweichend von den §§ 3 bis 8, 12 und 13 die Angaben nach § 3 Abs. 1
-Nr. 1 bis 7, 10 und 13 sowie nach § 3 Abs. 4 und nach § 8 zwingend.
-Die vorvertragliche Information muss auch einen deutlich gestalteten
-Hinweis darauf enthalten, dass der Darlehensgeber Forderungen aus dem
-Darlehensvertrag ohne Zustimmung des Darlehensnehmers abtreten und das
-Vertragsverhältnis auf einen Dritten übertragen darf, soweit nicht die
-Abtretung im Vertrag ausgeschlossen wird oder der Darlehensnehmer der
-Übertragung zustimmen muss. Der Vertrag muss ferner die Angaben zum
-Widerrufsrecht nach § 6 Abs. 2 enthalten.
-
-(2) Die Anzahl der Teilzahlungen ist nicht anzugeben, wenn die
-Laufzeit des Darlehensvertrags von dem Zeitpunkt der Zuteilung eines
-Bausparvertrags abhängt.
+#### § 9 (weggefallen)
 
 
 #### § 10 Abweichende Mitteilungspflichten bei Überziehungsmöglichkeiten gemäß § 504 Abs. 2 des Bürgerlichen Gesetzbuchs
@@ -6395,10 +7063,10 @@ anzugeben:
 
 
 
-(2) In den Fällen des § 5 muss die Beschreibung der wesentlichen
-Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach
-§ 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3 und 4 sowie nach Absatz 1
-Nr. 1 Buchstabe c enthalten.
+(2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+zumindest die Angaben nach § 3 Absatz 1 Nummer 3 bis 5, 10, Absatz 3
+und 4 sowie nach Absatz 1 Nr. 1 Buchstabe c enthalten.
 
 (3) Die Angabe des effektiven Jahreszinses ist entbehrlich, wenn der
 Darlehensgeber außer den Sollzinsen keine weiteren Kosten verlangt und
@@ -6406,10 +7074,11 @@ die Sollzinsen nicht in kürzeren Zeiträumen als drei Monaten fällig
 werden.
 
 
-#### § 11 Abweichende Mitteilungspflichten bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen Gesetzbuchs
+#### § 11 Abweichende Mitteilungspflichten bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß § 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs
 
-(1) Bei Umschuldungen gemäß § 495 Abs. 3 Nr. 1 des Bürgerlichen
-Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
+(1) Bei Allgemein-Verbraucherdarlehensverträgen zur Umschuldung gemäß
+§ 495 Absatz 2 Nummer 1 des Bürgerlichen Gesetzbuchs sind abweichend
+von den §§ 3, 4 und 6 nur anzugeben:
 
 1.  in der vorvertraglichen Information
 
@@ -6444,13 +7113,14 @@ Gesetzbuchs sind abweichend von den §§ 3, 4 und 6 nur anzugeben:
 
 
 
-(2) In den Fällen des § 5 muss die Beschreibung der wesentlichen
-Merkmale nach Artikel 246 § 1 Abs. 1 Nr. 4 zumindest die Angaben nach
-§ 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und 4 enthalten.
+(2) In den Fällen des § 5 Absatz 1 muss die Beschreibung der
+wesentlichen Merkmale nach Artikel 246b § 1 Absatz 1 Nummer 5
+zumindest die Angaben nach § 3 Abs. 1 Nr. 3 bis 6, 10 sowie Abs. 3 und
+4 enthalten.
 
-(3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Abs. 3 Nr. 1 des
-Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des §
-504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt §
+(3) Wird ein Verbraucherdarlehensvertrag gemäß § 495 Absatz 2 Nummer 1
+des Bürgerlichen Gesetzbuchs als Überziehungsmöglichkeit im Sinne des
+§ 504 Abs. 2 Satz 1 des Bürgerlichen Gesetzbuchs abgeschlossen, gilt §
 10\. Die Absätze 1 und 2 sind nicht anzuwenden.
 
 
@@ -6461,8 +7131,8 @@ Bürgerlichen Gesetzbuchs bezeichneten Verträge über entgeltliche
 Finanzierungshilfen. Bei diesen Verträgen oder
 Verbraucherdarlehensverträgen, die mit einem anderen Vertrag gemäß §
 358 des Bürgerlichen Gesetzbuchs verbunden sind oder in denen eine
-Ware oder Leistung gemäß § 359a Absatz 1 des Bürgerlichen Gesetzbuchs
-angegeben ist, muss enthalten:
+Ware oder Leistung gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen
+Gesetzbuchs angegeben ist, muss enthalten:
 
 1.  die vorvertragliche Information, auch in den Fällen des § 5, den
     Gegenstand und den Barzahlungspreis,
@@ -6473,9 +7143,9 @@ angegeben ist, muss enthalten:
     a)  den Gegenstand und den Barzahlungspreis sowie
 
 
-    b)  Informationen über die sich aus den §§ 358 und 359 des Bürgerlichen
-        Gesetzbuchs ergebenden Rechte und über die Bedingungen für die
-        Ausübung dieser Rechte.
+    b)  Informationen über die sich aus den §§ 358 und 359 oder § 360 des
+        Bürgerlichen Gesetzbuchs ergebenden Rechte und über die Bedingungen
+        für die Ausübung dieser Rechte.
 
 
 
@@ -6483,15 +7153,17 @@ angegeben ist, muss enthalten:
 
 
 Enthält der Verbraucherdarlehensvertrag eine Vertragsklausel in
-hervorgehobener und deutlich gestalteter Form, die dem Muster in
-Anlage 6 entspricht, genügt diese bei verbundenen Verträgen sowie
-Geschäften gemäß § 359a Absatz 1 des Bürgerlichen Gesetzbuchs den in
-Satz 2 Nummer 2 Buchstabe b gestellten Anforderungen. Dies gilt bis
-zum Ablauf des 4. November 2011 auch bei entsprechender Verwendung
-dieses Musters in der Fassung des Gesetzes zur Einführung einer
-Musterwiderrufsinformation für Verbraucherdarlehensverträge, zur
-Änderung der Vorschriften über das Widerrufsrecht bei
-Verbraucherdarlehensverträgen und zur Änderung des
+hervorgehobener und deutlich gestalteter Form, die bei Allgemein-
+Verbraucherdarlehensverträgen dem Muster in Anlage 7 und bei
+Immobiliar-Verbraucherdarlehensverträgen dem Muster in Anlage 8
+entspricht, genügt diese Vertragsklausel bei verbundenen Verträgen
+sowie Geschäften gemäß § 360 Absatz 2 Satz 2 des Bürgerlichen
+Gesetzbuchs den in Satz 2 Nummer 2 Buchstabe b gestellten
+Anforderungen. Dies gilt bis zum Ablauf des 4. November 2011 auch bei
+entsprechender Verwendung dieses Musters in der Fassung des Gesetzes
+zur Einführung einer Musterwiderrufsinformation für
+Verbraucherdarlehensverträge, zur Änderung der Vorschriften über das
+Widerrufsrecht bei Verbraucherdarlehensverträgen und zur Änderung des
 Darlehensvermittlungsrechts vom 24. Juli 2010 (BGBl. I S. 977). Bei
 Verträgen über eine entgeltliche Finanzierungshilfe treten diese
 Rechtsfolgen nur ein, wenn die Informationen dem im Einzelfall
@@ -6499,32 +7171,33 @@ vorliegenden Vertragstyp angepasst sind. Der Darlehensgeber darf unter
 Beachtung von Satz 3 in Format und Schriftgröße von dem Muster
 abweichen.
 
-(2) Bei Verträgen gemäß § 506 Abs. 2 Nr. 3 des Bürgerlichen
-Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4 Abs. 1 Nr. 3
-und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist nicht anzuwenden.
-Hat der Unternehmer den Gegenstand für den Verbraucher erworben, tritt
-an die Stelle des Barzahlungspreises der Anschaffungspreis.
+(2) Bei Verträgen gemäß § 506 Absatz 2 Satz 1 Nummer 3 des
+Bürgerlichen Gesetzbuchs sind die Angaben nach § 3 Abs. 1 Nr. 14, § 4
+Abs. 1 Nr. 3 und § 7 Nummer 3 entbehrlich. § 14 Abs. 1 Satz 2 ist
+nicht anzuwenden. Hat der Unternehmer den Gegenstand für den
+Verbraucher erworben, tritt an die Stelle des Barzahlungspreises der
+Anschaffungspreis.
 
 
-#### § 13 Darlehensvermittler
+#### § 13 Darlehensvermittler bei Verbraucherdarlehensverträgen
 
 (1) Ist bei der Anbahnung oder beim Abschluss eines
 Verbraucherdarlehensvertrags oder eines Vertrags über eine
 entgeltliche Finanzierungshilfe ein Darlehensvermittler beteiligt, so
-ist die Angabe nach § 3 Abs. 1 Nr. 1 und der Vertragsinhalt nach § 6
-Abs. 1 um den Namen und die Anschrift des beteiligten
-Darlehensvermittlers zu ergänzen.
+ist der Vertragsinhalt nach § 6 Abs. 1 um den Namen und die Anschrift
+des beteiligten Darlehensvermittlers zu ergänzen.
 
 (2) Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des
 Bürgerlichen Gesetzbuchs mit einem Verbraucher abgeschlossen, so hat
 der Darlehensvermittler den Verbraucher rechtzeitig vor Abschluss des
-Darlehensvermittlungsvertrags in Textform zu unterrichten über
+Darlehensvermittlungsvertrags auf einem dauerhaften Datenträger zu
+unterrichten über
 
 1.  die Höhe einer vom Verbraucher verlangten Vergütung,
 
 
 2.  die Tatsache, ob er für die Vermittlung von einem Dritten ein Entgelt
-    erhält, sowie gegebenenfalls dessen Höhe,
+    oder sonstige Anreize erhält sowie gegebenenfalls die Höhe,
 
 
 3.  den Umfang seiner Befugnisse, insbesondere, ob er ausschließlich für
@@ -6542,8 +7215,8 @@ Wird der Darlehensvermittlungsvertrag im Sinne des § 655a des
 Bürgerlichen Gesetzbuchs ausschließlich mit einem Dritten
 abgeschlossen, so hat der Darlehensvermittler den Verbraucher
 rechtzeitig vor Abschluss eines vermittelten Vertrags im Sinne von
-Absatz 1 in Textform über die Einzelheiten gemäß Satz 1 Nummer 2 und 3
-zu unterrichten.
+Absatz 1 auf einem dauerhaften Datenträger über die Einzelheiten gemäß
+Satz 1 Nummer 2 und 3 zu unterrichten.
 
 (3) Der Darlehensvermittler hat dem Darlehensgeber die Höhe der von
 ihm verlangten Vergütung vor der Annahme des Auftrags mitzuteilen.
@@ -6555,6 +7228,72 @@ erhält.
 Abschluss eines Verbraucherdarlehensvertrags oder eines Vertrags über
 eine entgeltliche Finanzierungshilfe, so hat er hierbei die Angaben
 nach Absatz 2 Satz 1 Nummer 3 einzubeziehen.
+
+
+#### § 13a Besondere Regelungen für Darlehensvermittler bei Allgemein-Verbraucherdarlehensverträgen
+
+Ist bei der Anbahnung oder beim Abschluss eines Allgemein-
+Verbraucherdarlehensvertrags oder eines Vertrags über eine
+entsprechende entgeltliche Finanzierungshilfe ein Darlehensvermittler
+beteiligt, so sind die vorvertraglichen Informationen nach § 3 Absatz
+1 Nummer 1 um den Namen und die Anschrift des beteiligten
+Darlehensvermittlers zu ergänzen.
+
+
+#### § 13b Besondere Regelungen für Darlehensvermittler bei Immobiliar-Verbraucherdarlehensverträgen
+
+(1) Bei der Vermittlung von Immobiliar-Verbraucherdarlehensverträgen
+muss der Darlehensvermittler mit der Unterrichtung nach § 13 Absatz 2
+Folgendes zusätzlich mitteilen:
+
+1.  seine Identität und Anschrift,
+
+
+2.  in welches Register er eingetragen wurde, gegebenenfalls die
+    Registrierungsnummer, und auf welche Weise der Registereintrag
+    eingesehen werden kann,
+
+
+3.  ob er an einen oder mehrere Darlehensgeber gemäß § 655a Absatz 3 Satz
+    3 des Bürgerlichen Gesetzbuchs gebunden oder ausschließlich für einen
+    oder mehrere Darlehensgeber tätig ist, und wenn ja, die Namen der
+    Darlehensgeber,
+
+
+4.  ob er Beratungsleistungen anbietet,
+
+
+5.  die Methode, nach der seine Vergütung berechnet wird, falls die Höhe
+    noch nicht genau benannt werden kann,
+
+
+6.  welche interne Verfahren für Beschwerden von Verbrauchern oder anderen
+    interessierten Parteien über Darlehensvermittler zur Verfügung stehen
+    sowie einen möglichen Zugang des Verbrauchers zu einem
+    außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren,
+
+
+7.  ob ihm für seine im Zusammenhang mit dem Darlehensvertrag stehende
+    Dienstleistung Provisionen oder sonstige Anreize von einem Dritten
+    gewährt werden, und wenn ja, in welcher Höhe; ist die Höhe noch nicht
+    bekannt, so ist mitzuteilen, dass der tatsächliche Betrag zu einem
+    späteren Zeitpunkt im ESIS-Merkblatt angegeben wird.
+
+
+
+Beginnt der Darlehensvermittler seine Vermittlungstätigkeit vor
+Abschluss des Vermittlungsvertrags, so sind die Informationspflichten
+gemäß Satz 1 rechtzeitig vor Ausübung der Vermittlungstätigkeit zu
+erteilen.
+
+(2) Bei Immobiliar-Verbraucherdarlehensverträgen hat der
+Darlehensvermittler dem Darlehensgeber die Informationen gemäß § 1
+Absatz 1, die er von dem Darlehensnehmer erhalten hat, zum Zweck der
+Kreditwürdigkeitsprüfung richtig und vollständig zu übermitteln.
+
+(3) Bietet der Darlehensvermittler im Zusammenhang mit der Vermittlung
+eines Immobiliar-Verbraucherdarlehensvertrags Beratungsleistungen an,
+gilt § 18 entsprechend.
 
 
 #### § 14 Tilgungsplan
@@ -6573,9 +7312,9 @@ verständlicher Form anzugeben, dass die Daten des Tilgungsplans nur
 bis zur nächsten Anpassung des Sollzinssatzes oder der sonstigen
 Kosten gelten.
 
-(3) Der Tilgungsplan ist dem Darlehensnehmer in Textform zur Verfügung
-zu stellen. Der Anspruch erlischt nicht, solange das
-Vertragsverhältnis besteht.
+(3) Der Tilgungsplan ist dem Darlehensnehmer auf einem dauerhaften
+Datenträger zur Verfügung zu stellen. Der Anspruch erlischt nicht,
+solange das Vertragsverhältnis besteht.
 
 
 #### § 15 Unterrichtungen bei Zinsanpassungen
@@ -6602,9 +7341,20 @@ Referenzzinssatzes zurück, können die Vertragsparteien einen von
 Absatz 1 abweichenden Zeitpunkt für die Wirksamkeit der Zinsanpassung
 vereinbaren. In diesen Fällen muss der Vertrag eine Pflicht des
 Darlehensgebers vorsehen, den Darlehensnehmer nach Absatz 1 in
-regelmäßigen Zeitabständen zu unterrichten. Außerdem muss der
-Darlehensnehmer die Höhe des Referenzzinssatzes in den Geschäftsräumen
-des Darlehensgebers einsehen können.
+regelmäßigen Zeitabständen zu unterrichten. Bei einem Immobiliar-
+Verbraucherdarlehensvertrag muss der Vertrag ferner die Pflicht
+vorsehen, auch über den neuen Referenzzinssatz zu unterrichten.
+Außerdem muss der Darlehensnehmer die Höhe des Referenzzinssatzes in
+den Geschäftsräumen des Darlehensgebers einsehen können.
+
+(3) Werden bei einem Immobiliar-Verbraucherdarlehensvertrag Änderungen
+des Sollzinssatzes im Wege der Versteigerung auf den Kapitalmärkten
+festgelegt und kann der Darlehensgeber den Darlehensnehmer daher nicht
+vor dem Wirksamwerden der Änderung über diese in Kenntnis setzen, so
+hat der Darlehensgeber den Darlehensnehmer abweichend von Absatz 1
+rechtzeitig vor der Versteigerung über das bevorstehende Verfahren zu
+unterrichten und darauf hinzuweisen, wie sich die Versteigerung auf
+den Sollzinssatz auswirken könnte.
 
 
 #### § 16 Unterrichtung bei Überziehungsmöglichkeiten
@@ -6673,6 +7423,171 @@ muss folgende Angaben enthalten:
 
 
 
+#### § 18 Vorvertragliche Informationen bei Beratungsleistungen für Immobiliar-Verbraucherdarlehensverträge
+
+(1) Bevor der Darlehensgeber Beratungsleistungen für einen Immobiliar-
+Verbraucherdarlehensvertrag erbringt oder einen entsprechenden
+Beratungsvertrag schließt, hat er den Darlehensnehmer darüber zu
+informieren,
+
+1.  wie hoch das Entgelt ist, sofern ein solches für die
+    Beratungsleistungen verlangt wird,
+
+
+2.  ob der Darlehensgeber seiner Empfehlung
+
+    a)  nur oder im Wesentlichen eigene Produkte zugrunde legt oder
+
+
+    b)  neben eigenen Produkten auch eine größere Anzahl von Produkten anderer
+        Anbieter zugrunde legt.
+
+
+
+
+
+
+Lässt sich die Höhe des Entgelts nach Satz 1 Nummer 1 noch nicht
+bestimmen, ist über die Methode zu informieren, die für die Berechnung
+verwendet wird.
+
+(2) Die Informationen sind auf einem dauerhaften Datenträger zu
+übermitteln; sie können in der gleichen Art und Weise wie weitere
+vorvertragliche Informationen gemäß § 1 Absatz 3 Satz 1 erteilt
+werden.
+
+
+#### Art 247a - Allgemeine Informationspflichten bei Verbraucherdarlehensverträgen, Verträgen über entgeltliche Finanzierungshilfen und deren Vermittlung
+
+
+
+#### § 1 Allgemeine Informationspflichten bei Immobiliar-Verbraucherdarlehensverträgen und entsprechenden Finanzierungshilfen
+
+(1) Unternehmer, die den Abschluss von Immobiliar-
+Verbraucherdarlehensverträgen oder deren Vermittlung durch gebundene
+Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des Bürgerlichen
+Gesetzbuchs anbieten, stellen für Standardgeschäfte nach § 675a des
+Bürgerlichen Gesetzbuchs schriftlich, in geeigneten Fällen auch
+elektronisch, unentgeltlich Informationen über Entgelte und Auslagen
+der Geschäftsbesorgung zur Verfügung, soweit nicht eine
+Preisfestsetzung nach § 315 des Bürgerlichen Gesetzbuchs erfolgt oder
+die Entgelte und Auslagen gesetzlich verbindlich geregelt sind.
+
+(2) Die Informationen nach Absatz 1 müssen zumindest folgende Angaben
+enthalten:
+
+1.  die Identität und Anschrift des Darlehensgebers oder
+    Darlehensvermittlers,
+
+
+2.  die Zwecke, für die das Darlehen verwendet werden kann,
+
+
+3.  die möglichen Formen von Sicherheiten, gegebenenfalls einschließlich
+    eines Hinweises darauf, dass die Grundstücke oder grundstücksgleichen
+    Rechte, an denen die Sicherheiten bestellt werden, in einem anderen
+    Mitgliedstaat der Europäischen Union belegen sein dürfen,
+
+
+4.  die möglichen Laufzeiten der Darlehensverträge,
+
+
+5.  die angebotenen Arten von Sollzinssätzen, jeweils mit dem Hinweis, ob
+    diese als feste oder veränderliche Zinssätze oder in beiden Varianten
+    angeboten werden; die Merkmale eines festen und eines veränderlichen
+    Zinssatzes, einschließlich der sich hieraus ergebenden Konsequenzen
+    für den Darlehensnehmer, sind kurz darzustellen,
+
+
+6.  ein repräsentatives Beispiel des Nettodarlehensbetrags, der
+    Gesamtkosten, des Gesamtbetrags und des effektiven Jahreszinses,
+
+
+7.  einen Hinweis auf mögliche weitere, im Zusammenhang mit einem
+    Darlehensvertrag anfallende Kosten, die nicht in den Gesamtkosten des
+    Darlehens enthalten sind,
+
+
+8.  die verschiedenen möglichen Optionen zur Rückzahlung des Darlehens
+    einschließlich der Anzahl, Häufigkeit und Höhe der regelmäßigen
+    Rückzahlungsraten,
+
+
+9.  gegebenenfalls einen klaren und prägnanten Hinweis darauf, dass die
+    Einhaltung der Bedingungen des Darlehensvertrags nicht in jedem Fall
+    gewährleistet, dass damit der in Anspruch genommene Darlehensbetrag
+    vollständig zurückgezahlt werden wird,
+
+
+10. die Bedingungen, die für eine vorzeitige Rückzahlung gelten,
+
+
+11. Auskunft darüber, ob für den Vertragsschluss eine Bewertung des Werts
+    des belasteten Grundstücks oder des Werts des zu erwerbenden oder zu
+    erhaltenden Grundstücks, Gebäudes oder grundstücksgleichen Rechts
+    erforderlich ist und, falls ja, wer dafür verantwortlich ist, dass die
+    Bewertung durchgeführt wird, sowie Informationen darüber, ob dem
+    Darlehensnehmer hierdurch Kosten entstehen,
+
+
+12. Auskunft über die Nebenleistungen, die der Darlehensnehmer erwerben
+    muss, damit ihm das Darlehen überhaupt oder nach den vorgesehenen
+    Vertragsbedingungen gewährt wird, und gegebenenfalls einen Hinweis
+    darauf, dass die Nebenleistungen von einem anderen Anbieter als dem
+    Darlehensgeber erworben werden können,
+
+
+13. eine allgemeine Warnung vor möglichen Konsequenzen für den Fall, dass
+    der Darlehensnehmer die mit dem Darlehensvertrag eingegangenen
+    Verpflichtungen nicht einhält, und
+
+
+14. falls Verträge angeboten werden, in denen auf einen Referenzwert im
+    Sinne des Artikels 3 Absatz 1 Nummer 3 der Verordnung (EU) 2016/1011
+    Bezug genommen wird, die Bezeichnungen der Referenzwerte und die Namen
+    der Administratoren sowie die möglichen Auswirkungen auf den
+    Darlehensnehmer.
+
+
+
+Werden Verträge in einer anderen Währung als der Landeswährung des
+Darlehensnehmers nach § 503 Absatz 1 Satz 1 des Bürgerlichen
+Gesetzbuchs angeboten, so sind die in Betracht kommenden ausländischen
+Währungen anzugeben sowie die möglichen Konsequenzen eines Darlehens
+in Fremdwährung für den Darlehensnehmer zu erläutern.
+
+(3) Die Absätze 1 und 2 gelten entsprechend, wenn der Abschluss von
+Verträgen über entgeltliche Finanzierungshilfen gemäß § 506 Absatz 1
+Satz 2 und 3 des Bürgerlichen Gesetzbuchs oder deren Vermittlung durch
+gebundene Darlehensvermittler gemäß § 655a Absatz 3 Satz 3 des
+Bürgerlichen Gesetzbuchs angeboten wird.
+
+
+#### § 2 Allgemeine Informationspflichten bei Überziehungsmöglichkeiten und Entgeltvereinbarungen für die Duldung einer Überziehung
+
+(1) Unternehmer, die den Abschluss von Verträgen über die Einräumung
+von Überziehungsmöglichkeiten gemäß § 504 des Bürgerlichen Gesetzbuchs
+oder deren Vermittlung durch gebundene Darlehensvermittler gemäß §
+655a Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs anbieten, stellen
+für Standardgeschäfte nach § 675a des Bürgerlichen Gesetzbuchs
+schriftlich, in geeigneten Fällen auch elektronisch, unentgeltlich
+Informationen über Entgelte und Auslagen der Geschäftsbesorgung zur
+Verfügung, soweit nicht eine Preisfestsetzung nach § 315 des
+Bürgerlichen Gesetzbuchs erfolgt oder die Entgelte und Auslagen
+gesetzlich verbindlich geregelt sind.
+
+(2) Der Sollzinssatz, der für die Überziehungsmöglichkeit berechnet
+wird, ist in den nach Absatz 1 zur Verfügung zu stellenden
+Informationen klar, eindeutig und in auffallender Weise anzugeben.
+Verfügt derjenige, der gemäß Absatz 1 Informationen bereitzustellen
+hat, über einen Internetauftritt, so ist der Sollzinssatz in
+entsprechender Weise auch dort anzugeben.
+
+(3) Die Absätze 1 und 2 gelten entsprechend für Unternehmer, die den
+Abschluss von Entgeltvereinbarungen für die Duldung von Überziehungen
+gemäß § 505 des Bürgerlichen Gesetzbuchs anbieten.
+
+
 #### Art 248 - Informationspflichten bei der Erbringung von Zahlungsdienstleistungen
 
 
@@ -6681,13 +7596,16 @@ muss folgende Angaben enthalten:
 
 
 
-##### § 1 Konkurrierende Informationspflichten im Fernabsatz
+##### § 1 Konkurrierende Informationspflichten
 
-Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag, so
-werden die Informationspflichten gemäß Artikel 246 § 1 Abs. 1 und 2
-durch die Informationspflichten gemäß den §§ 2 bis 16 ersetzt; dies
-gilt nicht für die in Artikel 246 § 1 Abs. 1 Nr. 8 bis 12 und Abs. 2
-Nr. 2, 4 und 8 genannten Informationspflichten.
+Ist der Zahlungsdienstevertrag zugleich ein Fernabsatzvertrag oder ein
+außerhalb von Geschäftsräumen geschlossener Vertrag, so werden die
+Informationspflichten nach Artikel 246b § 1 Absatz 1 durch die
+Informationspflichten nach den §§ 2 bis 13 und 14 bis 16 ersetzt. Dies
+gilt bei Fernabsatzverträgen nicht für die in Artikel 246b § 1 Absatz
+1 Nummer 7 bis 12, 15 und 19 und bei außerhalb von Geschäftsräumen
+geschlossenen Verträgen nicht für die in Artikel 246b § 1 Absatz 1
+Nummer 12 genannten Informationspflichten.
 
 
 ##### § 2 Allgemeine Form
@@ -6696,7 +7614,8 @@ Die Informationen und Vertragsbedingungen sind in einer Amtssprache
 des Mitgliedstaats der Europäischen Union oder des Vertragsstaats des
 Abkommens über den Europäischen Wirtschaftsraum, in dem der
 Zahlungsdienst angeboten wird, oder in einer anderen zwischen den
-Parteien vereinbarten Sprache klar und verständlich abzufassen.
+Parteien vereinbarten Sprache in leicht verständlichen Worten und in
+klarer und verständlicher Form abzufassen.
 
 
 ##### Abschnitt 2 - Zahlungsdiensterahmenverträge
@@ -6708,7 +7627,7 @@ Parteien vereinbarten Sprache klar und verständlich abzufassen.
 Bei Zahlungsdiensterahmenverträgen (§ 675f Abs. 2 des Bürgerlichen
 Gesetzbuchs) hat der Zahlungsdienstleister dem Zahlungsdienstnutzer
 die in den §§ 4 bis 9 genannten Informationen und Vertragsbedingungen
-in Textform mitzuteilen.
+auf einem dauerhaften Datenträger mitzuteilen.
 
 
 ##### § 4 Vorvertragliche Informationen
@@ -6744,12 +7663,13 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 
 
     b)  Informationen oder Kundenkennungen, die für die ordnungsgemäße
-        Ausführung eines Zahlungsauftrags erforderlich sind,
+        Auslösung oder Ausführung eines Zahlungsauftrags erforderlich sind,
 
 
-    c)  die Art und Weise der Zustimmung zur Ausführung eines Zahlungsvorgangs
-        und des Widerrufs eines Zahlungsauftrags gemäß den §§ 675j und 675p
-        des Bürgerlichen Gesetzbuchs,
+    c)  die Art und Weise der Zustimmung zur Auslösung eines Zahlungsauftrags
+        oder zur Ausführung eines Zahlungsvorgangs und des Widerrufs eines
+        Zahlungsauftrags gemäß den §§ 675j und 675p des Bürgerlichen
+        Gesetzbuchs,
 
 
     d)  den Zeitpunkt, ab dem ein Zahlungsauftrag gemäß § 675n Abs. 1 des
@@ -6758,13 +7678,19 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
         Zeitpunkt,
 
 
-    e)  die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste
-        und
+    e)  die maximale Ausführungsfrist für die zu erbringenden Zahlungsdienste,
 
 
     f)  die Angabe, ob die Möglichkeit besteht, Betragsobergrenzen für die
-        Nutzung eines Zahlungsauthentifizierungsinstruments gemäß § 675k Abs.
-        1 des Bürgerlichen Gesetzbuchs zu vereinbaren,
+        Nutzung eines Zahlungsinstruments gemäß § 675k Abs. 1 des Bürgerlichen
+        Gesetzbuchs zu vereinbaren, und
+
+
+    g)  im Falle von kartengebundenen Zahlungsinstrumenten, die mehrere
+        Zahlungsmarken tragen, die Rechte des Zahlungsdienstnutzers gemäß
+        Artikel 8 der Verordnung (EU) 2015/751 des Europäischen Parlaments und
+        des Rates vom 29. April 2015 über Interbankenentgelte für
+        kartengebundene Zahlungsvorgänge (ABl. L 123 vom 19.5.2015, S. 1),
 
 
 
@@ -6773,8 +7699,10 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 3.  zu Entgelten, Zinsen und Wechselkursen
 
     a)  alle Entgelte, die der Zahlungsdienstnutzer an den
-        Zahlungsdienstleister zu entrichten hat, und gegebenenfalls deren
-        Aufschlüsselung,
+        Zahlungsdienstleister zu entrichten hat, einschließlich derjenigen,
+        die sich danach richten, wie und wie oft über die geforderten
+        Informationen zu unterrichten ist, sowie gegebenenfalls eine
+        Aufschlüsselung dieser Entgelte,
 
 
     b)  gegebenenfalls die zugrunde gelegten Zinssätze und Wechselkurse oder,
@@ -6794,10 +7722,10 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 
 4.  zur Kommunikation
 
-    a)  die Kommunikationsmittel, sofern sie zwischen den Parteien für die
-        Informationsübermittlung und Anzeigepflichten vereinbart werden,
-        einschließlich ihrer Anforderungen an die technische Ausstattung des
-        Zahlungsdienstnutzers,
+    a)  die Kommunikationsmittel, deren Nutzung zwischen den Parteien für die
+        Informationsübermittlung und Anzeigepflichten vereinbart wird,
+        einschließlich der technischen Anforderungen an die Ausstattung und
+        die Software des Zahlungsdienstnutzers,
 
 
     b)  Angaben dazu, wie und wie oft die nach diesem Artikel geforderten
@@ -6819,35 +7747,39 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 5.  zu den Schutz- und Abhilfemaßnahmen
 
     a)  gegebenenfalls eine Beschreibung, wie der Zahlungsdienstnutzer ein
-        Zahlungsauthentifizierungsinstrument sicher verwahrt und wie er seine
-        Anzeigepflicht gegenüber dem Zahlungsdienstleister gemäß § 675l Satz 2
-        des Bürgerlichen Gesetzbuchs erfüllt,
+        Zahlungsinstrument sicher aufbewahrt und wie er seine Anzeigepflicht
+        gegenüber dem Zahlungsdienstleister gemäß § 675l Absatz 1 Satz 2 des
+        Bürgerlichen Gesetzbuchs erfüllt,
 
 
-    b)  soweit vereinbart, die Bedingungen, unter denen sich der
-        Zahlungsdienstleister das Recht vorbehält, ein
-        Zahlungsauthentifizierungsinstrument gemäß § 675k Abs. 2 des
-        Bürgerlichen Gesetzbuchs zu sperren,
+    b)  eine Beschreibung des sicheren Verfahrens zur Unterrichtung des
+        Zahlungsdienstnutzers durch den Zahlungsdienstleister im Falle
+        vermuteten oder tatsächlichen Betrugs oder bei Sicherheitsrisiken,
 
 
-    c)  Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen
+    c)  soweit vereinbart, die Bedingungen, unter denen sich der
+        Zahlungsdienstleister das Recht vorbehält, ein Zahlungsinstrument
+        gemäß § 675k Abs. 2 des Bürgerlichen Gesetzbuchs zu sperren,
+
+
+    d)  Informationen zur Haftung des Zahlers gemäß § 675v des Bürgerlichen
         Gesetzbuchs einschließlich Angaben zum Höchstbetrag,
 
 
-    d)  Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer
+    e)  Angaben dazu, wie und innerhalb welcher Frist der Zahlungsdienstnutzer
         dem Zahlungsdienstleister nicht autorisierte oder fehlerhaft
-        ausgeführte Zahlungsvorgänge gemäß § 676b des Bürgerlichen Gesetzbuchs
-        anzeigen muss, sowie Informationen über die Haftung des
-        Zahlungsdienstleisters bei nicht autorisierten Zahlungsvorgängen gemäß
-        § 675u des Bürgerlichen Gesetzbuchs,
+        ausgelöste oder ausgeführte Zahlungsvorgänge gemäß § 676b des
+        Bürgerlichen Gesetzbuchs anzeigen muss, sowie Informationen über die
+        Haftung des Zahlungsdienstleisters bei nicht autorisierten
+        Zahlungsvorgängen gemäß § 675u des Bürgerlichen Gesetzbuchs,
 
 
-    e)  Informationen über die Haftung des Zahlungsdienstleisters bei der
-        Ausführung von Zahlungsvorgängen gemäß § 675y des Bürgerlichen
-        Gesetzbuchs und
+    f)  Informationen über die Haftung des Zahlungsdienstleisters bei der
+        Auslösung oder Ausführung von Zahlungsvorgängen gemäß § 675y des
+        Bürgerlichen Gesetzbuchs und
 
 
-    f)  die Bedingungen für Erstattungen gemäß § 675x des Bürgerlichen
+    g)  die Bedingungen für Erstattungen gemäß § 675x des Bürgerlichen
         Gesetzbuchs,
 
 
@@ -6858,14 +7790,14 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
     Zahlungsdiensterahmenvertrags
 
     a)  soweit vereinbart, die Angabe, dass die Zustimmung des
-        Zahlungsdienstnutzers zu einer Änderung der Bedingungen gemäß § 675g
-        des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem
+        Zahlungsdienstnutzers zu einer Änderung der Vertragsbedingungen gemäß
+        § 675g des Bürgerlichen Gesetzbuchs als erteilt gilt, wenn er dem
         Zahlungsdienstleister seine Ablehnung nicht vor dem Zeitpunkt
-        angezeigt hat, zu dem die geänderten Bedingungen in Kraft treten
-        sollen,
+        angezeigt hat, zu dem die geänderten Vertragsbedingungen in Kraft
+        treten sollen,
 
 
-    b)  die Vertragslaufzeit und
+    b)  die Laufzeit des Zahlungsdiensterahmenvertrags und
 
 
     c)  einen Hinweis auf das Recht des Zahlungsdienstnutzers, den Vertrag zu
@@ -6880,9 +7812,9 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
     anwendbare Recht oder über das zuständige Gericht und
 
 
-8.  einen Hinweis auf das Beschwerdeverfahren gemäß § 28 des
+8.  einen Hinweis auf die Beschwerdeverfahren gemäß den §§ 60 bis 62 des
     Zahlungsdiensteaufsichtsgesetzes sowie auf das außergerichtliche
-    Rechtsbehelfsverfahren nach § 14 des Unterlassungsklagengesetzes.
+    Rechtsbehelfsverfahren gemäß § 14 des Unterlassungsklagengesetzes.
 
 
 
@@ -6891,10 +7823,10 @@ Vertragserklärung des Zahlungsdienstnutzers mitgeteilt werden:
 Zahlungsdiensterahmenvertrag unter Verwendung eines
 Fernkommunikationsmittels geschlossen wird, das dem
 Zahlungsdienstleister die Mitteilung der in Absatz 1 bestimmten
-Informationen und Vertragsbedingungen in Textform nicht gestattet, hat
-der Zahlungsdienstleister dem Zahlungsdienstnutzer diese unverzüglich
-nach Abschluss des Vertrags in der in den §§ 2 und 3 vorgesehenen Form
-mitzuteilen.
+Informationen und Vertragsbedingungen auf einem dauerhaften
+Datenträger nicht gestattet, hat der Zahlungsdienstleister dem
+Zahlungsdienstnutzer diese unverzüglich nach Abschluss des Vertrags in
+der in den §§ 2 und 3 vorgesehenen Form mitzuteilen.
 
 (3) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem
 eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach
@@ -6905,15 +7837,26 @@ Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
 
 Während der Vertragslaufzeit kann der Zahlungsdienstnutzer jederzeit
 die Übermittlung der Vertragsbedingungen sowie der in § 4 genannten
-Informationen in Textform verlangen.
+Informationen in Papierform oder auf einem anderen dauerhaften
+Datenträger verlangen.
 
 
 ##### § 6 Informationen vor Ausführung einzelner Zahlungsvorgänge
 
 Vor Ausführung eines einzelnen vom Zahler ausgelösten Zahlungsvorgangs
-teilt der Zahlungsdienstleister auf Verlangen des Zahlers die maximale
-Ausführungsfrist für diesen Zahlungsvorgang sowie die in Rechnung zu
-stellenden Entgelte und gegebenenfalls deren Aufschlüsselung mit.
+teilt der Zahlungsdienstleister auf Verlangen des Zahlers Folgendes
+mit:
+
+1.  die maximale Ausführungsfrist,
+
+
+2.  die dem Zahler in Rechnung zu stellenden Entgelte und
+
+
+3.  gegebenenfalls die Aufschlüsselung der Entgelte nach Nummer 2.
+
+
+
 
 
 ##### § 7 Informationen an den Zahler bei einzelnen Zahlungsvorgängen
@@ -6934,9 +7877,9 @@ Informationen mit:
     verwendet wird,
 
 
-3.  gegebenenfalls den Betrag der für den Zahlungsvorgang zu entrichtenden
-    Entgelte und deren Aufschlüsselung oder der vom Zahler zu
-    entrichtenden Zinsen,
+3.  die für den Zahlungsvorgang zu entrichtenden Entgelte und
+    gegebenenfalls eine Aufschlüsselung der Beträge dieser Entgelte oder
+    die vom Zahler zu entrichtenden Zinsen,
 
 
 4.  gegebenenfalls den Wechselkurs, den der Zahlungsdienstleister des
@@ -6959,17 +7902,17 @@ Zahlungsdienstleister des Zahlungsempfängers diesem unverzüglich die
 folgenden Informationen mit:
 
 1.  eine dem Zahlungsvorgang zugeordnete Kennung, die dem
-    Zahlungsempfänger die Identifizierung des betreffenden
-    Zahlungsvorgangs und gegebenenfalls des Zahlers ermöglicht, sowie
-    weitere mit dem Zahlungsvorgang übermittelte Angaben,
+    Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und des
+    Zahlers ermöglicht, sowie alle weiteren mit dem Zahlungsvorgang
+    übermittelten Angaben,
 
 
 2.  den Zahlungsbetrag in der Währung, in der dieser Betrag auf dem
     Zahlungskonto des Zahlungsempfängers gutgeschrieben wird,
 
 
-3.  gegebenenfalls den Betrag der für den Zahlungsvorgang zu entrichtenden
-    Entgelte und deren Aufschlüsselung oder der vom Zahlungsempfänger zu
+3.  den Betrag der für den Zahlungsvorgang zu entrichtenden Entgelte und
+    gegebenenfalls deren Aufschlüsselung oder der vom Zahlungsempfänger zu
     entrichtenden Zinsen,
 
 
@@ -7013,7 +7956,7 @@ unterrichten, dass der Zahlungsdienstnutzer die Informationen
 unverändert aufbewahren und wiedergeben kann.
 
 
-##### § 11 Ausnahmen für Kleinbetragsinstrumente und elektronisches Geld
+##### § 11 Ausnahmen für Kleinbetragsinstrumente und E-Geld
 
 (1) Bei Zahlungsdiensteverträgen über die Überlassung eines
 Kleinbetragsinstruments (§ 675i Abs. 1 des Bürgerlichen Gesetzbuchs)
@@ -7072,10 +8015,12 @@ Zahlungsdienstnutzer nach Ausführung eines Zahlungsvorgangs
 Bei einem Einzelzahlungsvertrag, der nicht Gegenstand eines
 Zahlungsdiensterahmenvertrags ist, hat der Zahlungsdienstleister dem
 Zahlungsdienstnutzer die in § 13 genannten Informationen und
-Vertragsbedingungen in leicht zugänglicher Form zur Verfügung zu
-stellen. Auf Verlangen des Zahlungsdienstnutzers stellt ihm der
+Vertragsbedingungen hinsichtlich der von ihm zu erbringenden
+Zahlungsdienste in leicht zugänglicher Form zur Verfügung zu stellen.
+Auf Verlangen des Zahlungsdienstnutzers stellt ihm der
 Zahlungsdienstleister die Informationen und Vertragsbedingungen in
-Textform zur Verfügung.
+Papierform oder auf einem anderen dauerhaften Datenträger zur
+Verfügung.
 
 
 ##### § 13 Vorvertragliche Informationen
@@ -7085,8 +8030,8 @@ Vertragsbedingungen sind rechtzeitig vor Abgabe der Vertragserklärung
 des Zahlungsdienstnutzers zur Verfügung zu stellen:
 
 1.  die vom Zahlungsdienstnutzer mitzuteilenden Informationen oder
-    Kundenkennungen, die für die ordnungsgemäße Ausführung eines
-    Zahlungsauftrags erforderlich sind,
+    Kundenkennungen, die für die ordnungsgemäße Auslösung oder Ausführung
+    eines Zahlungsauftrags erforderlich sind,
 
 
 2.  die maximale Ausführungsfrist für den zu erbringenden Zahlungsdienst,
@@ -7102,11 +8047,29 @@ des Zahlungsdienstnutzers zur Verfügung zu stellen:
 
 
 
-Die anderen in § 4 Abs. 1 genannten Informationen sind, soweit sie für
-den Einzelzahlungsvertrag erheblich sind, dem Zahlungsdienstnutzer
-ebenfalls zur Verfügung zu stellen.
 
-(2) Wenn auf Verlangen des Zahlungsdienstnutzers der
+(2) Ein Zahlungsauslösedienstleister hat dem Zahler rechtzeitig vor
+der Auslösung des Zahlungsvorgangs auch die folgenden Informationen
+zur Verfügung zu stellen:
+
+1.  den Namen des Zahlungsauslösedienstleisters, die Anschrift seiner
+    Hauptverwaltung und gegebenenfalls die Anschrift seines Agenten oder
+    seiner Zweigniederlassung in dem Mitgliedstaat, in dem der
+    Zahlungsauslösedienst angeboten wird, sowie alle anderen Kontaktdaten
+    einschließlich der E-Mail-Adresse, die für die Kommunikation mit dem
+    Zahlungsauslösedienstleister von Belang sind, und
+
+
+2.  die Kontaktdaten der zuständigen Behörde.
+
+
+
+
+(3) Die anderen in § 4 Absatz 1 genannten Informationen sind, soweit
+sie für den Einzelzahlungsvertrag erheblich sind, dem
+Zahlungsdienstnutzer ebenfalls zur Verfügung zu stellen.
+
+(4) Wenn auf Verlangen des Zahlungsdienstnutzers der
 Einzelzahlungsvertrag unter Verwendung eines Fernkommunikationsmittels
 geschlossen wird, das dem Zahlungsdienstleister die
 Informationsunterrichtung nach Absatz 1 nicht gestattet, hat der
@@ -7114,15 +8077,44 @@ Zahlungsdienstleister den Zahlungsdienstnutzer unverzüglich nach
 Ausführung des Zahlungsvorgangs in der Form zu unterrichten, die in
 den §§ 2 und 12 vorgesehen ist.
 
-(3) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem
+(5) Die Pflichten gemäß Absatz 1 können auch erfüllt werden, indem
 eine Abschrift des Vertragsentwurfs übermittelt wird, die die nach
 Absatz 1 erforderlichen Informationen und Vertragsbedingungen enthält.
+
+
+##### § 13a Informationen an den Zahler und den Zahlungsempfänger nach Auslösung des Zahlungsauftrags über einen Zahlungsauslösedienstleister
+
+Ein Zahlungsauslösedienstleister unterrichtet den Zahler und
+gegebenenfalls den Zahlungsempfänger unmittelbar nach der Auslösung
+des Zahlungsauftrags über
+
+1.  die erfolgreiche Auslösung des Zahlungsauftrags beim kontoführenden
+    Zahlungsdienstleister des Zahlers,
+
+
+2.  die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler und dem
+    Zahlungsempfänger die Identifizierung des Zahlungsvorgangs und dem
+    Zahlungsempfänger gegebenenfalls die Identifizierung des Zahlers
+    ermöglicht, sowie jede weitere mit dem Zahlungsvorgang übermittelte
+    Angabe,
+
+
+3.  den Zahlungsbetrag,
+
+
+4.  gegebenenfalls die Höhe aller an den Zahlungsauslösedienstleister für
+    den Zahlungsvorgang zu entrichtenden Entgelte sowie gegebenenfalls
+    deren Aufschlüsselung.
+
+
+
 
 
 ##### § 14 Informationen an den Zahler nach Zugang des Zahlungsauftrags
 
 Nach Zugang des Zahlungsauftrags unterrichtet der
-Zahlungsdienstleister des Zahlers diesen unverzüglich über
+Zahlungsdienstleister des Zahlers diesen hinsichtlich der von ihm zu
+erbringenden Zahlungsdienste unverzüglich über
 
 1.  die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahler die
     Identifizierung des betreffenden Zahlungsvorgangs ermöglicht, sowie
@@ -7152,19 +8144,20 @@ Zahlungsdienstleister des Zahlers diesen unverzüglich über
 ##### § 15 Informationen an den Zahlungsempfänger nach Ausführung des Zahlungsvorgangs
 
 Nach Ausführung des Zahlungsvorgangs unterrichtet der
-Zahlungsdienstleister des Zahlungsempfängers diesen unverzüglich über
+Zahlungsdienstleister des Zahlungsempfängers diesen hinsichtlich der
+von ihm erbrachten Zahlungsdienste unverzüglich über
 
 1.  die dem Zahlungsvorgang zugeordnete Kennung, die dem Zahlungsempfänger
     die Identifizierung des betreffenden Zahlungsvorgangs und
-    gegebenenfalls des Zahlers ermöglicht, sowie weitere mit dem
-    Zahlungsvorgang übermittelte Angaben,
+    gegebenenfalls des Zahlers ermöglicht, sowie jede weitere mit dem
+    Zahlungsvorgang übermittelte Angabe,
 
 
 2.  den Zahlungsbetrag in der Währung, in der er dem Zahlungsempfänger zur
     Verfügung steht,
 
 
-3.  die Höhe der vom Zahlungsempfänger für den Zahlungsvorgang zu
+3.  die Höhe aller vom Zahlungsempfänger für den Zahlungsvorgang zu
     entrichtenden Entgelte und gegebenenfalls deren Aufschlüsselung,
 
 
@@ -7180,41 +8173,48 @@ Zahlungsdienstleister des Zahlungsempfängers diesen unverzüglich über
 
 
 
-##### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsauthentifizierungsinstruments
+##### § 16 Informationen bei Einzelzahlung mittels rahmenvertraglich geregelten Zahlungsinstruments
 
 Wird ein Zahlungsauftrag für eine Einzelzahlung über ein
-rahmenvertraglich geregeltes Zahlungsauthentifizierungsinstrument
-übermittelt, so ist nur der Zahlungsdienstleister, der Partei des
+rahmenvertraglich geregeltes Zahlungsinstrument übermittelt, so ist
+nur der Zahlungsdienstleister, der Partei des
 Zahlungsdiensterahmenvertrags ist, verpflichtet, den
 Zahlungsdienstnutzer nach Maßgabe des Abschnitts 2 zu unterrichten.
 
 
-##### Abschnitt 4 - Informationspflichten von Zahlungsempfängern und Dritten
+##### Abschnitt 4 - Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten
 
 
 
 ##### § 17 Informationspflichten des Zahlungsempfängers
 
-(1) Sollen Zahlungen mittels eines
-Zahlungsauthentifizierungsinstruments in einer anderen Währung als
-Euro erfolgen und wird vor der Auslösung des Zahlungsvorgangs vom
-Zahlungsempfänger eine Währungsumrechnung angeboten, muss der
-Zahlungsempfänger dem Zahler alle damit verbundenen Entgelte sowie den
-der Währungsumrechnung zugrunde gelegten Wechselkurs offenlegen.
+(1) Sollen Zahlungen mittels eines Zahlungsinstruments in einer
+anderen Währung als Euro erfolgen und wird vor der Auslösung des
+Zahlungsvorgangs vom Zahlungsempfänger eine Währungsumrechnung
+angeboten, muss der Zahlungsempfänger dem Zahler alle damit
+verbundenen Entgelte sowie den der Währungsumrechnung zugrunde
+gelegten Wechselkurs offenlegen.
 
 (2) Verlangt der Zahlungsempfänger für die Nutzung eines bestimmten
-Zahlungsauthentifizierungsinstruments ein Entgelt oder bietet er eine
-Ermäßigung an, so teilt er dies dem Zahler vor Auslösung des
-Zahlungsvorgangs mit.
+Zahlungsinstruments ein Entgelt oder bietet er eine Ermäßigung an, so
+teilt er dies dem Zahler vor Auslösung des Zahlungsvorgangs mit.
+
+
+##### § 17a Informationspflichten des Bargeldabhebungsdienstleisters
+
+Ein Dienstleister, der Bargeldabhebungsdienste erbringt, ist
+verpflichtet, den Kunden über alle Entgelte für eine Geldabhebung
+entsprechend § 13 Absatz 1 und 3, den §§ 14, 15 sowie 17 Absatz 1
+sowohl vor der Abhebung als auch auf der Quittung nach dem Erhalt des
+Bargeldes zu unterrichten.
 
 
 ##### § 18 Informationspflichten Dritter
 
 Verlangt ein Dritter, über welchen ein Zahlungsdienstnutzer einen
 Zahlungsvorgang auslösen kann, von diesem für die Nutzung eines
-bestimmten Zahlungsauthentifizierungsinstruments ein Entgelt, so teilt
-er dies dem Zahlungsdienstnutzer vor der Auslösung des
-Zahlungsvorgangs mit.
+bestimmten Zahlungsinstruments ein Entgelt, so teilt er dies dem
+Zahlungsdienstnutzer vor der Auslösung des Zahlungsvorgangs mit.
 
 
 ##### § 19 Abweichende Vereinbarungen
@@ -7224,9 +8224,620 @@ Verbraucher, so können die Parteien vereinbaren, dass die §§ 17 und 18
 ganz oder teilweise nicht anzuwenden sind.
 
 
-### Anlage 1 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Widerrufsbelehrung
+#### Art 249 - Informationspflichten bei Verbraucherbauverträgen
 
-(Fundstelle: BGBl I. 2011, 1602 - 1604)
+
+#### § 1 Informationspflichten bei Verbraucherbauverträgen
+
+Der Unternehmer ist nach § 650j des Bürgerlichen Gesetzbuchs
+verpflichtet, dem Verbraucher rechtzeitig vor Abgabe von dessen
+Vertragserklärung eine Baubeschreibung in Textform zur Verfügung zu
+stellen.
+
+
+#### § 2 Inhalt der Baubeschreibung
+
+(1) In der Baubeschreibung sind die wesentlichen Eigenschaften des
+angebotenen Werks in klarer Weise darzustellen. Sie muss mindestens
+folgende Informationen enthalten:
+
+1.  allgemeine Beschreibung des herzustellenden Gebäudes oder der
+    vorzunehmenden Umbauten, gegebenenfalls Haustyp und Bauweise,
+
+
+2.  Art und Umfang der angebotenen Leistungen, gegebenenfalls der Planung
+    und der Bauleitung, der Arbeiten am Grundstück und der
+    Baustelleneinrichtung sowie der Ausbaustufe,
+
+
+3.  Gebäudedaten, Pläne mit Raum- und Flächenangaben sowie Ansichten,
+    Grundrisse und Schnitte,
+
+
+4.  gegebenenfalls Angaben zum Energie-, zum Brandschutz- und zum
+    Schallschutzstandard sowie zur Bauphysik,
+
+
+5.  Angaben zur Beschreibung der Baukonstruktionen aller wesentlichen
+    Gewerke,
+
+
+6.  gegebenenfalls Beschreibung des Innenausbaus,
+
+
+7.  gegebenenfalls Beschreibung der gebäudetechnischen Anlagen,
+
+
+8.  Angaben zu Qualitätsmerkmalen, denen das Gebäude oder der Umbau
+    genügen muss,
+
+
+9.  gegebenenfalls Beschreibung der Sanitärobjekte, der Armaturen, der
+    Elektroanlage, der Installationen, der Informationstechnologie und der
+    Außenanlagen.
+
+
+
+
+(2) Die Baubeschreibung hat verbindliche Angaben zum Zeitpunkt der
+Fertigstellung des Werks zu enthalten. Steht der Beginn der
+Baumaßnahme noch nicht fest, ist ihre Dauer anzugeben.
+
+
+#### § 3 Widerrufsbelehrung
+
+(1) Steht dem Verbraucher ein Widerrufsrecht nach § 650l Satz 1 des
+Bürgerlichen Gesetzbuchs zu, ist der Unternehmer verpflichtet, den
+Verbraucher vor Abgabe von dessen Vertragserklärung in Textform über
+sein Widerrufsrecht zu belehren. Die Widerrufsbelehrung muss deutlich
+gestaltet sein und dem Verbraucher seine wesentlichen Rechte in einer
+an das benutzte Kommunikationsmittel angepassten Weise deutlich
+machen. Sie muss Folgendes enthalten:
+
+1.  einen Hinweis auf das Recht zum Widerruf,
+
+
+2.  einen Hinweis darauf, dass der Widerruf durch Erklärung gegenüber dem
+    Unternehmer erfolgt und keiner Begründung bedarf,
+
+
+3.  den Namen, die ladungsfähige Anschrift und die Telefonnummer
+    desjenigen, gegenüber dem der Widerruf zu erklären ist, gegebenenfalls
+    seine Telefaxnummer und E-Mail-Adresse,
+
+
+4.  einen Hinweis auf die Dauer und den Beginn der Widerrufsfrist sowie
+    darauf, dass zur Fristwahrung die rechtzeitige Absendung der
+    Widerrufserklärung genügt, und
+
+
+5.  einen Hinweis darauf, dass der Verbraucher dem Unternehmer Wertersatz
+    nach § 357d des Bürgerlichen Gesetzbuchs schuldet, wenn die Rückgewähr
+    der bis zum Widerruf erbrachten Leistung ihrer Natur nach
+    ausgeschlossen ist.
+
+
+
+
+(2) Der Unternehmer kann seine Belehrungspflicht dadurch erfüllen,
+dass er dem Verbraucher das in Anlage 10 vorgesehene Muster für die
+Widerrufsbelehrung zutreffend ausgefüllt in Textform übermittelt.
+
+
+#### Art 250 - Informationspflichten bei Pauschalreiseverträgen
+
+
+#### § 1 Form und Zeitpunkt der vorvertraglichen Unterrichtung
+
+(1) Die Unterrichtung des Reisenden nach § 651d Absatz 1 und 5 sowie §
+651v Absatz 1 des Bürgerlichen Gesetzbuchs muss erfolgen, bevor dieser
+seine Vertragserklärung abgibt. Die Informationen sind klar,
+verständlich und in hervorgehobener Weise mitzuteilen; werden sie
+schriftlich erteilt, müssen sie leserlich sein.
+
+(2) Änderungen der vorvertraglichen Informationen sind dem Reisenden
+vor Vertragsschluss klar, verständlich und in hervorgehobener Weise
+mitzuteilen.
+
+
+#### § 2 Formblatt für die vorvertragliche Unterrichtung
+
+(1) Dem Reisenden ist gemäß dem in Anlage 11 enthaltenen Muster ein
+zutreffend ausgefülltes Formblatt zur Verfügung zu stellen.
+
+(2) Bei Verträgen nach § 651u des Bürgerlichen Gesetzbuchs ist
+anstelle des Formblatts gemäß dem in Anlage 11 enthaltenen Muster das
+zutreffend ausgefüllte Formblatt gemäß dem in Anlage 12 enthaltenen
+Muster zu verwenden.
+
+(3) Soll ein Pauschalreisevertrag telefonisch geschlossen werden,
+können die Informationen aus dem jeweiligen Formblatt abweichend von
+den Absätzen 1 und 2 auch telefonisch zur Verfügung gestellt werden.
+
+
+#### § 3 Weitere Angaben bei der vorvertraglichen Unterrichtung
+
+Die Unterrichtung muss folgende Informationen enthalten, soweit sie
+für die in Betracht kommende Pauschalreise erheblich sind:
+
+1.  die wesentlichen Eigenschaften der Reiseleistungen, und zwar
+
+    a)  Bestimmungsort oder, wenn die Pauschalreise mehrere Aufenthalte
+        umfasst, die einzelnen Bestimmungsorte sowie die einzelnen Zeiträume
+        (Datumsangaben und Anzahl der Übernachtungen),
+
+
+    b)  Reiseroute,
+
+
+    c)  Transportmittel (Merkmale und Klasse),
+
+
+    d)  Ort, Tag und Zeit der Abreise und der Rückreise oder, sofern eine
+        genaue Zeitangabe noch nicht möglich ist, ungefähre Zeit der Abreise
+        und Rückreise, ferner Orte und Dauer von Zwischenstationen sowie die
+        dort zu erreichenden Anschlussverbindungen,
+
+
+    e)  Unterkunft (Lage, Hauptmerkmale und gegebenenfalls touristische
+        Einstufung der Unterkunft nach den Regeln des jeweiligen
+        Bestimmungslandes),
+
+
+    f)  Mahlzeiten,
+
+
+    g)  Besichtigungen, Ausflüge oder sonstige im Reisepreis inbegriffene
+        Leistungen,
+
+
+    h)  sofern dies nicht aus dem Zusammenhang hervorgeht, die Angabe, ob eine
+        der Reiseleistungen für den Reisenden als Teil einer Gruppe erbracht
+        wird, und wenn dies der Fall ist, sofern möglich, die Angabe der
+        ungefähren Gruppengröße,
+
+
+    i)  sofern die Nutzung touristischer Leistungen im Sinne des § 651a Absatz
+        3 Satz 1 Nummer 4 des Bürgerlichen Gesetzbuchs durch den Reisenden von
+        einer wirksamen mündlichen Kommunikation abhängt, die Sprache, in der
+        diese Leistungen erbracht werden, und
+
+
+    j)  die Angabe, ob die Pauschalreise im Allgemeinen für Personen mit
+        eingeschränkter Mobilität geeignet ist, sowie auf Verlangen des
+        Reisenden genaue Informationen über eine solche Eignung unter
+        Berücksichtigung der Bedürfnisse des Reisenden,
+
+
+
+
+
+2.  die Firma oder den Namen des Reiseveranstalters, die Anschrift des
+    Ortes, an dem er niedergelassen ist, die Telefonnummer und
+    gegebenenfalls die E-Mail-Adresse; diese Angaben sind gegebenenfalls
+    auch bezüglich des Reisevermittlers zu erteilen,
+
+
+3.  den Reisepreis einschließlich Steuern und gegebenenfalls aller
+    zusätzlichen Gebühren, Entgelte und sonstigen Kosten, oder, wenn sich
+    diese Kosten vor Vertragsschluss nicht bestimmen lassen, die Angabe
+    der Art von Mehrkosten, für die der Reisende gegebenenfalls noch
+    aufkommen muss,
+
+
+4.  die Zahlungsmodalitäten einschließlich des Betrags oder des
+    Prozentsatzes des Reisepreises, der als Anzahlung zu leisten ist,
+    sowie des Zeitplans für die Zahlung des Restbetrags oder für die
+    Stellung finanzieller Sicherheiten durch den Reisenden,
+
+
+5.  die für die Durchführung der Pauschalreise erforderliche
+    Mindestteilnehmerzahl sowie die Angabe, bis zu welchem Zeitpunkt vor
+    dem vertraglich vereinbarten Reisebeginn dem Reisenden die
+    Rücktrittserklärung des Reiseveranstalters gemäß § 651h Absatz 4 Satz
+    1 Nummer 1 des Bürgerlichen Gesetzbuchs zugegangen sein muss,
+
+
+6.  allgemeine Pass- und Visumerfordernisse des Bestimmungslands,
+    einschließlich der ungefähren Fristen für die Erlangung von Visa,
+    sowie gesundheitspolizeiliche Formalitäten,
+
+
+7.  den Hinweis, dass der Reisende vor Reisebeginn gegen Zahlung einer
+    angemessenen Entschädigung oder gegebenenfalls einer vom
+    Reiseveranstalter verlangten Entschädigungspauschale jederzeit vom
+    Vertrag zurücktreten kann,
+
+
+8.  den Hinweis auf den möglichen Abschluss einer
+    Reiserücktrittskostenversicherung oder einer Versicherung zur Deckung
+    der Kosten einer Unterstützung einschließlich einer Rückbeförderung
+    bei Unfall, Krankheit oder Tod.
+
+
+
+
+
+#### § 4 Vorvertragliche Unterrichtung in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+
+Für Pauschalreiseverträge nach § 651c des Bürgerlichen Gesetzbuchs ist
+abweichend von § 2 Absatz 1 anstelle des Formblatts gemäß dem in
+Anlage 11 enthaltenen Muster das zutreffend ausgefüllte Formblatt
+gemäß dem in Anlage 13 enthaltenen Muster zu verwenden. Zur
+Unterrichtung nach § 3 sind verpflichtet
+
+1.  der als Reiseveranstalter anzusehende Unternehmer nur in Bezug auf die
+    Reiseleistung, die er zu erbringen hat,
+
+
+2.  jeder andere Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des
+    Bürgerlichen Gesetzbuchs Daten übermittelt werden, in Bezug auf die
+    von ihm zu erbringende Reiseleistung; er trägt gegenüber dem Reisenden
+    die Beweislast für die Erfüllung seiner Informationspflichten.
+
+
+
+
+
+#### § 5 Gestaltung des Vertrags
+
+Der Pauschalreisevertrag muss in einfacher und verständlicher Sprache
+abgefasst und, sofern er schriftlich geschlossen wird, leserlich sein.
+
+
+#### § 6 Abschrift oder Bestätigung des Vertrags
+
+(1) Dem Reisenden ist bei oder unverzüglich nach Vertragsschluss auf
+einem dauerhaften Datenträger eine Abschrift oder Bestätigung des
+Vertrags zur Verfügung zu stellen. Der Reisende hat Anspruch auf eine
+Abschrift oder Bestätigung des Vertrags in Papierform, wenn der
+Vertragsschluss
+
+1.  bei gleichzeitiger körperlicher Anwesenheit der Vertragsschließenden
+    erfolgte oder
+
+
+2.  außerhalb von Geschäftsräumen erfolgte (§ 312b des Bürgerlichen
+    Gesetzbuchs); wenn der Reisende zustimmt, kann für die Abschrift oder
+    die Bestätigung des Vertrags auch ein anderer dauerhafter Datenträger
+    verwendet werden.
+
+
+
+
+(2) Die Abschrift oder Bestätigung des Vertrags muss klar,
+verständlich und in hervorgehobener Weise den vollständigen
+Vertragsinhalt wiedergeben und außer den in § 3 genannten
+Informationen die folgenden Angaben enthalten:
+
+1.  besondere Vorgaben des Reisenden, denen der Reiseveranstalter
+    zugestimmt hat,
+
+
+2.  den Hinweis, dass der Reiseveranstalter
+
+    a)  für die ordnungsgemäße Erbringung aller von dem Vertrag umfassten
+        Reiseleistungen verantwortlich ist und
+
+
+    b)  gemäß § 651q des Bürgerlichen Gesetzbuchs zum Beistand verpflichtet
+        ist, wenn sich der Reisende in Schwierigkeiten befindet,
+
+
+
+
+
+3.  den Namen des Kundengeldabsicherers sowie dessen Kontaktdaten
+    einschließlich der Anschrift des Ortes, an dem er niedergelassen ist;
+    im Fall des § 651s des Bürgerlichen Gesetzbuchs sind diese Angaben zu
+    erteilen in Bezug auf die Einrichtung, die den Insolvenzschutz bietet,
+    und gegebenenfalls in Bezug auf die zuständige Behörde,
+
+
+4.  Namen, Anschrift, Telefonnummer, E-Mail-Adresse und gegebenenfalls
+    Faxnummer des Vertreters des Reiseveranstalters vor Ort, einer
+    Kontaktstelle oder eines anderen Dienstes, an den oder die sich der
+    Reisende wenden kann, um schnell mit dem Reiseveranstalter Verbindung
+    aufzunehmen, wenn der Reisende
+
+    a)  Beistand nach § 651q des Bürgerlichen Gesetzbuchs benötigt oder
+
+
+    b)  einen aufgetretenen Reisemangel anzeigen will,
+
+
+
+
+
+5.  den Hinweis auf die Obliegenheit des Reisenden, dem Reiseveranstalter
+    einen aufgetretenen Reisemangel unverzüglich anzuzeigen,
+
+
+6.  bei Minderjährigen, die ohne Begleitung durch einen Elternteil oder
+    eine andere berechtigte Person reisen, Angaben darüber, wie eine
+    unmittelbare Verbindung zu dem Minderjährigen oder zu dem an dessen
+    Aufenthaltsort für ihn Verantwortlichen hergestellt werden kann; dies
+    gilt nicht, wenn der Vertrag keine Beherbergung des Minderjährigen
+    umfasst,
+
+
+7.  Informationen
+
+    a)  zu bestehenden internen Beschwerdeverfahren,
+
+
+    b)  gemäß § 36 des Verbraucherstreitbeilegungsgesetzes zur Teilnahme an
+        alternativen Streitbeilegungsverfahren und
+
+
+    c)  zur Online-Streitbeilegungsplattform gemäß Artikel 14 der Verordnung
+        (EU) Nr. 524/2013 des Europäischen Parlaments und des Rates vom 21.
+        Mai 2013 über die Online-Beilegung verbraucherrechtlicher
+        Streitigkeiten und zur Änderung der Verordnung (EG) Nr. 2006/2004 und
+        der Richtlinie 2009/22/EG (ABl. L 165 vom 18.6.2013, S. 1),
+
+
+
+
+
+8.  den Hinweis auf das Recht des Reisenden, den Vertrag gemäß § 651e des
+    Bürgerlichen Gesetzbuchs auf einen anderen Reisenden zu übertragen.
+
+
+
+
+
+#### § 7 Reiseunterlagen, Unterrichtung vor Reisebeginn
+
+(1) Der Reiseveranstalter hat dem Reisenden rechtzeitig vor
+Reisebeginn die notwendigen Reiseunterlagen zu übermitteln,
+insbesondere notwendige Buchungsbelege, Gutscheine,
+Beförderungsausweise und Eintrittskarten.
+
+(2) Der Reiseveranstalter hat den Reisenden rechtzeitig vor
+Reisebeginn zu unterrichten über die Abreise- und Ankunftszeiten sowie
+gegebenenfalls die Zeiten für die Abfertigung vor der Beförderung, die
+Orte und Dauer von Zwischenstationen sowie die dort zu erreichenden
+Anschlussverbindungen. Eine besondere Mitteilung nach Satz 1 ist nicht
+erforderlich, soweit diese Informationen bereits in einer dem
+Reisenden zur Verfügung gestellten Abschrift oder Bestätigung des
+Vertrags gemäß § 6 oder in einer Information des Reisenden nach § 8
+Absatz 2 enthalten sind und inzwischen keine Änderungen eingetreten
+sind.
+
+
+#### § 8 Mitteilungspflichten anderer Unternehmer und Information des Reisenden nach Vertragsschluss in den Fällen des § 651c des Bürgerlichen Gesetzbuchs
+
+(1) Schließt ein Unternehmer, dem nach § 651c Absatz 1 Nummer 2 des
+Bürgerlichen Gesetzbuchs Daten übermittelt werden, mit dem Reisenden
+einen Vertrag über eine Reiseleistung ab, hat er den als
+Reiseveranstalter anzusehenden Unternehmer über den Umstand des
+Vertragsschlusses zu unterrichten und diesem in Bezug auf die von ihm
+zu erbringende Reiseleistung die Informationen zur Verfügung zu
+stellen, die zur Erfüllung der Verpflichtungen als Reiseveranstalter
+erforderlich sind.
+
+(2) Der als Reiseveranstalter anzusehende Unternehmer hat dem
+Reisenden die in § 6 Absatz 2 Nummer 1 bis 8 genannten Angaben klar,
+verständlich und in hervorgehobener Weise auf einem dauerhaften
+Datenträger zur Verfügung zu stellen, sobald er von dem anderen
+Unternehmer gemäß Absatz 1 über den Umstand des Vertragsschlusses
+unterrichtet wurde.
+
+
+#### § 9 Weitere Informationspflichten bei Verträgen über Gastschulaufenthalte
+
+Über die in § 6 Absatz 2 bestimmten Angaben hinaus hat der
+Reiseveranstalter dem Reisenden folgende Informationen zu erteilen:
+
+1.  Namen, Anschrift, Telefonnummer und gegebenenfalls E-Mail-Adresse der
+    Gastfamilie, in welcher der Gastschüler untergebracht ist,
+    einschließlich Veränderungen,
+
+
+2.  Namen und Erreichbarkeit eines Ansprechpartners im Aufnahmeland, bei
+    dem auch Abhilfe verlangt werden kann, einschließlich Veränderungen,
+    und
+
+
+3.  Abhilfeverlangen des Gastschülers und die vom Reiseveranstalter
+    ergriffenen Maßnahmen.
+
+
+
+
+
+#### § 10 Unterrichtung bei erheblichen Vertragsänderungen
+
+Beabsichtigt der Reiseveranstalter eine Vertragsänderung nach § 651g
+Absatz 1 des Bürgerlichen Gesetzbuchs, hat er den Reisenden
+unverzüglich nach Kenntnis von dem Änderungsgrund auf einem
+dauerhaften Datenträger klar, verständlich und in hervorgehobener
+Weise zu informieren über
+
+1.  die angebotene Vertragsänderung, die Gründe hierfür sowie
+
+    a)  im Fall einer Erhöhung des Reisepreises über deren Berechnung,
+
+
+    b)  im Fall einer sonstigen Vertragsänderung über die Auswirkungen dieser
+        Änderung auf den Reisepreis gemäß § 651g Absatz 3 Satz 2 des
+        Bürgerlichen Gesetzbuchs,
+
+
+
+
+
+2.  die Frist, innerhalb derer der Reisende ohne Zahlung einer
+    Entschädigung vom Vertrag zurücktreten oder das Angebot zur
+    Vertragsänderung annehmen kann,
+
+
+3.  den Umstand, dass das Angebot zur Vertragsänderung als angenommen
+    gilt, wenn der Reisende sich nicht innerhalb der Frist erklärt, und
+
+
+4.  die gegebenenfalls als Ersatz angebotene Pauschalreise und deren
+    Reisepreis.
+
+
+
+
+
+#### Art 251 - Informationspflichten bei Vermittlung verbundener Reiseleistungen
+
+
+#### § 1 Form und Zeitpunkt der Unterrichtung
+
+Die Unterrichtung des Reisenden nach § 651w Absatz 2 des Bürgerlichen
+Gesetzbuchs muss erfolgen, bevor dieser eine Vertragserklärung
+betreffend einen Vertrag über eine Reiseleistung abgibt, dessen
+Zustandekommen bewirkt, dass eine Vermittlung verbundener
+Reiseleistungen erfolgt ist. Die Informationen sind klar, verständlich
+und in hervorgehobener Weise mitzuteilen.
+
+
+#### § 2 Formblatt für die Unterrichtung des Reisenden
+
+Dem Reisenden ist gemäß den in den Anlagen 14 bis 17 enthaltenen
+Mustern ein zutreffend ausgefülltes Formblatt zur Verfügung zu
+stellen, und zwar
+
+1.  sofern der Vermittler verbundener Reiseleistungen ein Beförderer ist,
+    mit dem der Reisende einen die Rückbeförderung umfassenden
+    Beförderungsvertrag geschlossen hat:
+
+    a)  ein Formblatt gemäß dem Muster in Anlage 14, wenn die Vermittlung nach
+        § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,
+
+
+    b)  ein Formblatt gemäß dem Muster in Anlage 15, wenn die Vermittlung nach
+        § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt,
+
+
+
+
+
+2.  sofern es sich bei dem Vermittler verbundener Reiseleistungen nicht um
+    einen Beförderer handelt, mit dem der Reisende einen die
+    Rückbeförderung umfassenden Beförderungsvertrag geschlossen hat:
+
+    a)  ein Formblatt gemäß dem Muster in Anlage 16, wenn die Vermittlung nach
+        § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt,
+
+
+    b)  ein Formblatt gemäß dem Muster in Anlage 17, wenn die Vermittlung nach
+        § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt.
+
+
+
+
+
+
+Erfolgt die Vermittlung verbundener Reiseleistungen in den Fällen von
+Satz 1 Nummer 1 und 2 Buchstabe b bei gleichzeitiger körperlicher
+Anwesenheit des Reisenden und des Vermittlers verbundener
+Reiseleistungen, hat der Vermittler verbundener Reiseleistungen
+abweichend von Satz 1 die in den betreffenden Formblättern enthaltenen
+Informationen in einer der Vermittlungssituation angepassten Weise zur
+Verfügung zu stellen. Entsprechendes gilt, wenn die Vermittlung
+verbundener Reiseleistungen weder bei gleichzeitiger körperlicher
+Anwesenheit des Reisenden und des Vermittlers verbundener
+Reiseleistungen noch online erfolgt.
+
+
+#### Art 252 - Sicherungsschein; Mitteilungspflicht des Kundengeldabsicherers
+
+(1) Der Sicherungsschein nach § 651r Absatz 4 Satz 1, auch in
+Verbindung mit § 651w Absatz 3 Satz 4, des Bürgerlichen Gesetzbuchs
+ist gemäß dem in Anlage 18 enthaltenen Muster zu erstellen und dem
+Reisenden zutreffend ausgefüllt in Textform zu übermitteln. Von dem
+Muster darf in Format und Schriftgröße abgewichen werden. Auf dem
+Sicherungsschein darf die Firma oder ein Kennzeichen des
+Kundengeldabsicherers oder seines Beauftragten abgedruckt werden.
+Enthält die Urkunde neben dem Sicherungsschein weitere Angaben oder
+Texte, muss sich der Sicherungsschein deutlich hiervon abheben.
+
+(2) Bei Pauschalreisen ist der Sicherungsschein der Bestätigung oder
+der Abschrift des Vertrags anzuheften oder auf ihrer Rückseite
+abzudrucken. Der Sicherungsschein kann auch elektronisch mit der
+Bestätigung oder Abschrift des Vertrags verbunden werden. Bei
+Pauschalreisen nach § 651c des Bürgerlichen Gesetzbuchs ist der
+Sicherungsschein zu übermitteln, sobald der als Reiseveranstalter
+anzusehende Unternehmer nach Artikel 250 § 8 Absatz 1 über den Umstand
+eines weiteren Vertragsschlusses unterrichtet worden ist.
+
+(3) Bei Vermittlung verbundener Reiseleistungen ist der
+Sicherungsschein zu übermitteln, sobald der Vermittler verbundener
+Reiseleistungen nach § 651w Absatz 5 des Bürgerlichen Gesetzbuchs über
+den Umstand eines weiteren Vertragsschlusses unterrichtet worden ist.
+
+(4) Ein Reisevermittler ist dem Reisenden gegenüber verpflichtet, den
+Sicherungsschein auf seine Gültigkeit hin zu überprüfen, wenn er ihn
+dem Reisenden übermittelt.
+
+(5) Der Kundengeldabsicherer (§ 651r Absatz 3 des Bürgerlichen
+Gesetzbuchs) ist verpflichtet, die Beendigung des
+Kundengeldabsicherungsvertrags der zuständigen Behörde unverzüglich
+mitzuteilen.
+
+
+#### Art 253 - Zentrale Kontaktstelle
+
+
+#### § 1 Zentrale Kontaktstelle; Informationen über die Insolvenzsicherung
+
+(1) Die Aufgaben der zentralen Kontaktstelle nach Artikel 18 Absatz 2
+bis 4 der Richtlinie (EU) 2015/2302 nimmt das Bundesamt für Justiz
+wahr.
+
+(2) Das Bundesamt für Justiz stellt den zentralen Kontaktstellen
+anderer Mitgliedstaaten oder sonstiger Vertragsstaaten des Abkommens
+über den Europäischen Wirtschaftsraum alle notwendigen Informationen
+über die gesetzlichen Anforderungen an die Verpflichtung von
+Reiseveranstaltern und Vermittlern verbundener Reiseleistungen zur
+Insolvenzsicherung (§§ 651r bis 651t, 651w Absatz 3 des Bürgerlichen
+Gesetzbuchs) zur Verfügung.
+
+
+#### § 2 Ausgehende Ersuchen
+
+Das Bundesamt für Justiz leitet Auskunftsersuchen der zuständigen
+Behörden zur Klärung von Zweifeln, ob ein Reiseveranstalter oder ein
+Vermittler verbundener Reiseleistungen mit Sitz in einem anderen
+Mitgliedstaat oder in einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum seiner Verpflichtung zur
+Insolvenzsicherung (§§ 651s, 651w Absatz 3 des Bürgerlichen
+Gesetzbuchs) nachgekommen ist, an die zentrale Kontaktstelle des
+Niederlassungsstaats weiter.
+
+
+#### § 3 Eingehende Ersuchen
+
+(1) Auskunftsersuchen zentraler Kontaktstellen anderer Mitgliedstaaten
+oder sonstiger Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum zur Klärung von Zweifeln, ob ein Reiseveranstalter
+oder ein Vermittler verbundener Reiseleistungen mit Sitz im Inland
+seiner Verpflichtung zur Insolvenzsicherung (§§ 651r, 651w Absatz 3
+des Bürgerlichen Gesetzbuchs) nachgekommen ist, leitet das Bundesamt
+für Justiz unverzüglich an die zuständige Behörde weiter.
+
+(2) Die zuständige Behörde ergreift unverzüglich die zur Klärung
+erforderlichen Maßnahmen und teilt dem Bundesamt für Justiz das
+Ergebnis mit. Das Bundesamt für Justiz leitet die Mitteilung der
+zuständigen Behörde unverzüglich an die zentrale Kontaktstelle des
+anderen Staats weiter.
+
+(3) Sofern das Ersuchen innerhalb von 15 Arbeitstagen nach Eingang
+noch nicht abschließend beantwortet werden kann, erteilt das Bundesamt
+für Justiz der zentralen Kontaktstelle des anderen Staats innerhalb
+dieser Frist eine erste Antwort.
+
+(zu Artikel 246a § 1 Absatz 2 Satz 2)
+
+### Anlage 1 Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen mit Ausnahme von Verträgen über Finanzdienstleistungen
+
+(Fundstelle: BGBl. I 2013, S. 3663 – 3664)
 
 
 *    *   **Widerrufsbelehrung**
@@ -7235,44 +8846,276 @@ ganz oder teilweise nicht anzuwenden sind.
 *    *   **Widerrufsrecht**
 
 
-*    *   Sie können Ihre Vertragserklärung innerhalb von [14 Tagen]*
-        ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail) [oder –
-        wenn Ihnen die Sache vor Fristablauf überlassen wird – auch durch
-        Rücksendung der Sache]*                      widerrufen. Die Frist
-        beginnt nach Erhalt dieser Belehrung in Textform*
-        . Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des
-        Widerrufs [oder der Sache]*                     . Der Widerruf ist zu
-        richten an:*
+*    *   Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen
+        diesen Vertrag zu widerrufen.
+
+
+*    *   Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag* .
+
+
+*    *   Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (*  ) mittels einer
+        eindeutigen Erklärung (z. B. ein mit der Post versandter Brief,
+        Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu
+        widerrufen, informieren. Sie können dafür das beigefügte Muster-
+        Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist.*
+
+
+*    *   Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung
+        über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist
+        absenden.
+
+
+*    *   **Folgen des Widerrufs**
+
+
+*    *   Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen,
+        die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit
+        Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie
+        eine andere Art der Lieferung als die von uns angebotene, günstigste
+        Standardlieferung gewählt haben), unverzüglich und spätestens binnen
+        vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über
+        Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese
+        Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der
+        ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen
+        wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden
+        Ihnen wegen dieser Rückzahlung Entgelte berechnet.*
+
+
+*    *   *
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Fügen Sie einen der folgenden in Anführungszeichen gesetzten
+    Textbausteine ein:
+
+    a)  im Falle eines Dienstleistungsvertrags oder eines Vertrags über die
+        Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem
+        begrenzten Volumen oder in einer bestimmten Menge zum Verkauf
+        angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht
+        auf einem körperlichen Datenträger geliefert werden: „des
+        Vertragsabschlusses.“;
+
+
+    b)  im Falle eines Kaufvertrags: „, an dem Sie oder ein von Ihnen
+        benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz
+        genommen haben bzw. hat.“;
+
+
+    c)  im Falle eines Vertrags über mehrere Waren, die der Verbraucher im
+        Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt
+        geliefert werden: „, an dem Sie oder ein von Ihnen benannter Dritter,
+        der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben
+        bzw. hat.“;
+
+
+    d)  im Falle eines Vertrags über die Lieferung einer Ware in mehreren
+        Teilsendungen oder Stücken: „, an dem Sie oder ein von Ihnen benannter
+        Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das
+        letzte Stück in Besitz genommen haben bzw. hat.“;
+
+
+    e)  im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über
+        einen festgelegten Zeitraum hinweg: „, an dem Sie oder ein von Ihnen
+        benannter Dritter, der nicht der Beförderer ist, die erste Ware in
+        Besitz genommen haben bzw. hat.“
+
+
+
+
+
+*   Fügen Sie Ihren Namen, Ihre Anschrift und, soweit verfügbar, Ihre
+    Telefonnummer, Telefaxnummer und E-Mail-Adresse ein.
+
+
+*   Wenn Sie dem Verbraucher die Wahl einräumen, die Information über
+    seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch
+    auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können
+    das Muster-Widerrufsformular oder eine andere eindeutige Erklärung
+    auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch
+    ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch,
+    so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung
+    über den Eingang eines solchen Widerrufs übermitteln.“
+
+
+*   Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im
+    Falle des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes
+    ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder
+    zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass
+    Sie die Waren zurückgesandt haben, je nachdem, welches der frühere
+    Zeitpunkt ist.“
+
+
+*   Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten
+    hat:
+
+    a)  Fügen Sie ein:
+
+        –   „Wir holen die Waren ab.“ oder
+
+
+        –   „Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen
+            vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses
+            Vertrags unterrichten, an … uns oder an [hier sind gegebenenfalls der
+            Name und die Anschrift der von Ihnen zur Entgegennahme der Waren
+            ermächtigten Person einzufügen] zurückzusenden oder zu übergeben. Die
+            Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von
+            vierzehn Tagen absenden.“
+
+
+
+
+
+    b)  fügen Sie ein:
+
+        –   „Wir tragen die Kosten der Rücksendung der Waren.“;
+
+
+        –   „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;
+
+
+        –   Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der
+            Rücksendung der Waren zu tragen, und die Waren aufgrund ihrer
+            Beschaffenheit nicht normal mit der Post zurückgesandt werden können:
+            „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe
+            von … EUR [Betrag einfügen].“, oder, wenn die Kosten vernünftigerweise
+            nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren
+            Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa
+            … EUR [Betrag einfügen] geschätzt.“ oder
+
+
+        –   Wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen
+            Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post
+            zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses
+            zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die
+            Waren auf unsere Kosten ab.“ und
+
+
+
+
+
+    c)  fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren
+        nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der
+        Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht
+        notwendigen Umgang mit ihnen zurückzuführen ist.“
+
+
+
+
+
+*   Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der
+    Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem
+    begrenzten Volumen oder in einer bestimmten Menge zum Verkauf
+    angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben
+    Sie verlangt, dass die Dienstleistungen oder Lieferung von
+    Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der
+    Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen
+    Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie
+    uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags
+    unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum
+    Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“
+
+
+
+
+(zu Artikel 246a § 1 Absatz 2 Satz 1 Nummer 1 und § 2 Absatz 2 Nummer
+2)
+
+### Anlage 2 Muster für das Widerrufsformular
+
+(Fundstelle: BGBl. I 2013, S. 3665)
+
+
+*    *   **Muster-Widerrufsformular**
+
+
+*    *   (Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses
+        Formular aus und senden Sie es zurück.)
+
+
+*    *
+        –   An [hier ist der Name, die Anschrift und gegebenenfalls die
+            Telefaxnummer und E-Mail-Adresse des Unternehmers durch den
+            Unternehmer einzufügen]:
+
+
+        –   Hiermit widerrufe(n) ich/wir (\*) den von mir/uns (\*) abgeschlossenen
+            Vertrag über den Kauf der folgenden Waren (\*)/die Erbringung der
+            folgenden Dienstleistung (\*)
+
+
+        –   Bestellt am (\*)/erhalten am (\*)
+
+
+        –   Name des/der Verbraucher(s)
+
+
+        –   Anschrift des/der Verbraucher(s)
+
+
+        –   Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)
+
+
+        –   Datum
+
+
+
+
+
+*    *   **
+        (\*) Unzutreffendes streichen.
+
+
+
+(zu Artikel 246b § 2 Absatz 3)
+
+### Anlage 3 Muster für die Widerrufsbelehrung bei außerhalb von Geschäftsräumen geschlossenen Verträgen und bei Fernabsatzverträgen über Finanzdienstleistungen
+
+(Fundstelle: BGBl. I 2013, S. 3666 – 3667)
+
+
+*    *   **Widerrufsbelehrung**
+
+
+*    *   **Widerrufsrecht**
+
+
+*    *   Sie können Ihre Vertragserklärung innerhalb von 14 Tagen ohne Angabe
+        von Gründen mittels einer eindeutigen Erklärung widerrufen. Die Frist
+        beginnt nach Erhalt dieser Belehrung auf einem dauerhaften
+        Datenträger*. Zur Wahrung der Widerrufsfrist genügt die rechtzeitige
+        Absendung des Widerrufs, wenn die Erklärung auf einem dauerhaften
+        Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist
+        zu richten an:*
 
 
 *    *   **Widerrufsfolgen***
 
 
 *    *   Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen
-        Leistungen zurückzugewähren und ggf. gezogene Nutzungen (z. B. Zinsen)
-        herauszugeben.*                      Können Sie uns die empfangene
-        Leistung sowie Nutzungen (z. B. Gebrauchsvorteile) nicht oder
-        teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren
-        beziehungsweise herausgeben, müssen Sie uns insoweit Wertersatz
-        leisten.*                      [Für die Verschlechterung der Sache
-        müssen Sie Wertersatz nur leisten, soweit die Verschlechterung auf
-        einen Umgang mit der Sache zurückzuführen ist, der über die Prüfung
-        der Eigenschaften und der Funktionsweise hinausgeht.*
-        Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man
-        das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im
-        Ladengeschäft möglich und üblich ist.*
-        Paketversandfähige Sachen sind auf unsere [Kosten und]*
-        Gefahr zurückzusenden. Nicht paketversandfähige Sachen werden bei
-        Ihnen abgeholt.]*                      Verpflichtungen zur Erstattung
-        von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist
-        beginnt für Sie mit der Absendung Ihrer Widerrufserklärung [oder der
-        Sache]*                      , für uns mit deren Empfang.
-
-
-*    *   **Besondere Hinweise**
+        Leistungen zurückzugewähren.* Sie sind zur Zahlung von Wertersatz für
+        die bis zum Widerruf erbrachte Dienstleistung verpflichtet, wenn Sie
+        vor Abgabe Ihrer Vertragserklärung auf diese Rechtsfolge hingewiesen
+        wurden und ausdrücklich zugestimmt haben, dass wir vor dem Ende der
+        Widerrufsfrist mit der Ausführung der Gegenleistung beginnen. Besteht
+        eine Verpflichtung zur Zahlung von Wertersatz, kann dies dazu führen,
+        dass Sie die vertraglichen Zahlungsverpflichtungen für den Zeitraum
+        bis zum Widerruf dennoch erfüllen müssen. Ihr Widerrufsrecht erlischt
+        vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdrücklichen
+        Wunsch vollständig erfüllt ist, bevor Sie Ihr Widerrufsrecht ausgeübt
+        haben. Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb
+        von 30 Tagen erfüllt werden. Die Frist beginnt für Sie mit der
+        Absendung Ihrer Widerrufserklärung, für uns mit deren Empfang.
 
 
 *    *   *
+
+
+*    *   **Besondere Hinweise**
 
 
 *    *   *
@@ -7287,96 +9130,70 @@ ganz oder teilweise nicht anzuwenden sind.
 
 **Gestaltungshinweise:**
 
-*   Wird die Belehrung nicht spätestens bei, sondern erst nach
-    Vertragsschluss mitgeteilt, lautet der Klammerzusatz „einem Monat“. In
-    diesem Fall ist auch Gestaltungshinweis 9 einschlägig, wenn der dort
-    genannte Hinweis nicht spätestens bei Vertragsschluss in Textform
-    erfolgt. Bei Fernabsatzverträgen steht eine unverzüglich nach
-    Vertragsschluss in Textform mitgeteilte Widerrufsbelehrung einer
-    solchen bei Vertragsschluss gleich, wenn der Unternehmer den
-    Verbraucher gemäß Artikel 246 § 1 Absatz 1 Nummer 10 EGBGB
-    unterrichtet hat.
+*   Bei einem der nachstehenden Sonderfälle ist Folgendes einzufügen:
+
+    a)  Bei der Erbringung von Finanzdienstleistungen außer Zahlungsdiensten:
+        „, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung
+        unserer Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in
+        Verbindung mit Artikel 246b § 1 Absatz 1 EGBGB“;
 
 
-*   Der Klammerzusatz entfällt bei Leistungen, die nicht in der
-    Überlassung von Sachen bestehen.
+    b)  Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten
+        im Fernabsatz:
+
+        aa) bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor
+            Vertragsschluss und auch nicht vor Erfüllung unserer
+            Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung
+            mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 4
+            Absatz 1 EGBGB“;
 
 
-*   Liegt einer der nachstehenden Sonderfälle vor, ist Folgendes
-    einzufügen:
-
-    a)  bei schriftlich abzuschließenden Verträgen: „ , jedoch nicht, bevor
-        Ihnen auch eine Vertragsurkunde, Ihr schriftlicher Antrag oder eine
-        Abschrift der Vertragsurkunde oder des Antrags zur Verfügung gestellt
-        worden ist“;
+        bb) bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „,
+            jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer
+            Informationspflichten gemäß Artikel 246b § 2 Absatz 1 in Verbindung
+            mit § 1 Absatz 1 Nummer 7 bis 12, 15 und 19 sowie Artikel 248 § 11
+            Absatz 1 EGBGB“;
 
 
-    b)  bei Fernabsatzverträgen (§ 312b Absatz 1 Satz 1 BGB) über die
-
-        aa) Lieferung von Waren: „ , jedoch nicht vor Eingang der Ware beim
-            Empfänger (bei der wiederkehrenden Lieferung gleichartiger Waren nicht
-            vor Eingang der ersten Teillieferung) und auch nicht vor Erfüllung
-            unserer Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit
-            § 1 Absatz 1 und 2 EGBGB“;
-
-
-        bb) Erbringung von Dienstleistungen außer Zahlungsdiensten: „ , jedoch
-            nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer
-            Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-            Absatz 1 und 2 EGBGB“;
-
-
-        cc) Erbringung von Zahlungsdiensten:
-
-            aaa) bei Zahlungsdiensterahmenverträgen: „ , jedoch nicht vor
-                Vertragsschluss und auch nicht vor Erfüllung unserer
-                Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-                Absatz 1 Nummer 8 bis 12 und Absatz 2 Nummer 2, 4 und 8 sowie Artikel
-                248 § 4 Absatz 1 EGBGB“;
-
-
-            bbb) bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „ ,
-                jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer
-                Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-                Absatz 1 Nummer 8 bis 12 und Absatz 2 Nummer 2, 4 und 8 sowie Artikel
-                248 § 11 Absatz 1 EGBGB“;
-
-
-            ccc) bei Einzelzahlungsverträgen: „ , jedoch nicht vor Vertragsschluss und
-                auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel
-                246 § 2 in Verbindung mit § 1 Absatz 1 Nummer 8 bis 12 und Absatz 2
-                Nummer 2, 4 und 8 sowie Artikel 248 § 13 Absatz 1 EGBGB“;
+        cc) bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und
+            auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel
+            246b § 2 Absatz 1 in Verbindung mit § 1 Absatz 1 Nummer 7 bis 12, 15
+            und 19 sowie Artikel 248 § 13 Absatz 1 EGBGB“.
 
 
 
 
 
+    c)  Bei Abschluss von Verträgen über die Erbringung von Zahlungsdiensten
+        außerhalb von Geschäftsräumen:
+
+        aa) bei Zahlungsdiensterahmenverträgen: „, jedoch nicht vor
+            Vertragsschluss und auch nicht vor Erfüllung unserer
+            Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1
+            Absatz 1 Nummer 12 sowie Artikel 248 § 4 Absatz 1 EGBGB“;
+
+
+        bb) bei Kleinbetragsinstrumenten im Sinne des § 675i Absatz 1 BGB: „,
+            jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung unserer
+            Informationspflichten gemäß Artikel 246b § 2 in Verbindung mit § 1
+            Absatz 1 Nummer 12 sowie Artikel 248 § 11 Absatz 1 EGBGB“;
+
+
+        cc) bei Einzelzahlungsverträgen: „, jedoch nicht vor Vertragsschluss und
+            auch nicht vor Erfüllung unserer Informationspflichten gemäß Artikel
+            246b § 2 in Verbindung mit § 1 Absatz 1 Nummer 12 sowie Artikel 248 §
+            13 Absatz 1 EGBGB“.
 
 
 
-    c)  bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz
-        1 BGB): „ , jedoch nicht vor Erfüllung unserer Pflichten gemäß § 312g
-        Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“;
 
-
-    d)  bei einem Kauf auf Probe (§ 454 BGB): „ , jedoch nicht, bevor der
-        Kaufvertrag durch Ihre Billigung des gekauften Gegenstandes für Sie
-        bindend geworden ist“.
 
 
 
     Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden
-    Sonderfälle fällt (z. B. ein Fernabsatzvertrag über die Lieferung von
-    Waren im elektronischen Geschäftsverkehr), sind die jeweils
-    zutreffenden Ergänzungen zu kombinieren (in dem genannten Beispiel wie
-    folgt: „ , jedoch nicht vor Eingang der Ware beim Empfänger [bei der
-    wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der
-    ersten Teillieferung] und auch nicht vor Erfüllung unserer
-    Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-    Absatz 1 und 2 EGBGB sowie unserer Pflichten gemäß § 312g Absatz 1
-    Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“). Soweit zu
-    kombinierende Ergänzungen sprachlich identisch sind, sind
-    Wiederholungen des Wortlauts nicht erforderlich.
+    Sonderfälle fällt, sind die jeweils zutreffenden Ergänzungen zu
+    kombinieren. Soweit zu kombinierende Ergänzungen sprachlich identisch
+    sind, sind Wiederholungen des Wortlauts nicht erforderlich.
 
 
 *   Einsetzen: Namen/Firma und ladungsfähige Anschrift des
@@ -7406,68 +9223,39 @@ ganz oder teilweise nicht anzuwenden sind.
     Kosten) informiert haben.“
 
 
-*   Bei Fernabsatzverträgen über Dienstleistungen ist folgender Satz
-    einzufügen:
+*   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe, der von
+    der Ausnahme des § 506 Absatz 4 BGB erfasst ist, gilt Folgendes:
 
-    „Dies kann dazu führen, dass Sie die vertraglichen
-    Zahlungsverpflichtungen für den Zeitraum bis zum Widerruf gleichwohl
-    erfüllen müssen.“
-
-
-*   Bei Fernabsatzverträgen über die Lieferung von Waren ist anstelle des
-    vorhergehenden Satzes folgender Satz einzufügen:
-
-    „Für die Verschlechterung der Sache und für gezogene Nutzungen müssen
-    Sie Wertersatz nur leisten, soweit die Nutzungen oder die
-    Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist,
-    der über die Prüfung der Eigenschaften und der Funktionsweise
-    hinausgeht.“
+    a)  Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
+        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
+        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
+        sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
+        Buchstabe a bis c der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB zu geben.
 
 
-*   Wenn ein Hinweis auf die Wertersatzpflicht gemäß § 357 Absatz 3 Satz 1
-    BGB nicht spätestens bei Vertragsschluss in Textform erfolgt, ist
-    anstelle der beiden vorhergehenden Sätze einzufügen: „Für eine durch
-    die bestimmungsgemäße Ingebrauchnahme der Sache entstandene
-    Verschlechterung müssen Sie keinen Wertersatz leisten.“ Bei
-    Fernabsatzverträgen steht ein unverzüglich nach Vertragsschluss in
-    Textform mitgeteilter Hinweis einem solchen bei Vertragsschluss
-    gleich, wenn der Unternehmer den Verbraucher rechtzeitig vor Abgabe
-    von dessen Vertragserklärung in einer dem eingesetzten
-    Fernkommunikationsmittel entsprechenden Weise über die
-    Wertersatzpflicht unterrichtet hat.
-
-    Handelt es sich um einen Fernabsatzvertrag über die Lieferung von
-    Waren, ist anzufügen:
-
-    „Wertersatz für gezogene Nutzungen müssen Sie nur leisten, soweit Sie
-    die Ware in einer Art und Weise genutzt haben, die über die Prüfung
-    der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung
-    der Eigenschaften und der Funktionsweise“ versteht man das Testen und
-    Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich
-    und üblich ist.“
+    b)  Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
+        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
+        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
+        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
+        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
+        Fernwärme, sind hier die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB zu geben.
 
 
-*   Ist entsprechend § 357 Absatz 2 Satz 3 BGB eine Übernahme der
-    Versandkosten durch den Verbraucher vereinbart worden, kann der
-    Klammerzusatz weggelassen werden. Stattdessen ist hinter
-    „zurückzusenden.“ Folgendes einzufügen:
+    c)  Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
+        Datenträger befindlichen digitalen Inhalten, ist hier folgender
+        Hinweis zu geben:
 
-    „Sie haben die regelmäßigen Kosten der Rücksendung zu tragen, wenn die
-    gelieferte Ware der bestellten entspricht und wenn der Preis der
-    zurückzusendenden Sache einen Betrag von 40 Euro nicht übersteigt oder
-    wenn Sie bei einem höheren Preis der Sache zum Zeitpunkt des Widerrufs
-    noch nicht die Gegenleistung oder eine vertraglich vereinbarte
-    Teilzahlung erbracht haben. Anderenfalls ist die Rücksendung für Sie
-    kostenfrei.“
+        „Sie sind zur Zahlung von Wertersatz für die bis zum Widerruf
+        gelieferten digitalen Inhalte verpflichtet, wenn Sie vor Abgabe Ihrer
+        Vertragserklärung auf diese Rechtsfolge hingewiesen wurden und
+        ausdrücklich zugestimmt haben, dass wir vor dem Ende der
+        Widerrufsfrist mit der Lieferung der digitalen Inhalte beginnen.“
 
 
-*   Bei einem Widerrufsrecht gemäß § 312d Absatz 1 BGB, das für einen
-    Fernabsatzvertrag über die Erbringung einer Dienstleistung gilt, ist
-    hier folgender Hinweis aufzunehmen:
 
-    „Ihr Widerrufsrecht erlischt vorzeitig, wenn der Vertrag von beiden
-    Seiten auf Ihren ausdrücklichen Wunsch vollständig erfüllt ist, bevor
-    Sie Ihr Widerrufsrecht ausgeübt haben.“
 
 
 *   Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen,
@@ -7505,15 +9293,14 @@ ganz oder teilweise nicht anzuwenden sind.
     Veräußerers übernimmt oder den Veräußerer einseitig begünstigt.“
 
 
-*   Der nachfolgende Hinweis für Fernabsatzverträge über
-    Finanzdienstleistungen kann entfallen, wenn kein hinzugefügter
-    Fernabsatzvertrag über eine Dienstleistung vorliegt:
+*   Der nachfolgende Hinweis kann entfallen, wenn kein zusammenhängender
+    Vertrag vorliegt:
 
-    „Bei Widerruf dieses Fernabsatzvertrags über eine Finanzdienstleistung
-    sind Sie auch an einen hinzugefügten Fernabsatzvertrag nicht mehr
-    gebunden, wenn dieser Vertrag eine weitere Dienstleistung von uns oder
-    eines Dritten auf der Grundlage einer Vereinbarung zwischen uns und
-    dem Dritten zum Gegenstand hat.“
+    „Bei Widerruf dieses Vertrags sind Sie auch an einen mit diesem
+    Vertrag zusammenhängenden Vertrag nicht mehr gebunden, wenn der
+    zusammenhängende Vertrag eine Leistung betrifft, die von uns oder
+    einem Dritten auf der Grundlage einer Vereinbarung zwischen uns und
+    dem Dritten erbracht wird.“
 
 
 *   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
@@ -7524,197 +9311,9 @@ ganz oder teilweise nicht anzuwenden sind.
 
 
 
+(zu Artikel 247 § 2)
 
-### Anlage 2 (zu Artikel 246 § 2 Absatz 3 Satz 1) Muster für die Rückgabebelehrung
-
-(Fundstelle: BGBl. I 2011, 1605 - 1606)
-
-
-*    *   **Rückgabebelehrung**
-
-
-*    *   **Rückgaberecht**
-
-
-*    *   Sie können die erhaltene Ware ohne Angabe von Gründen innerhalb von
-        [14 Tagen]*                      durch Rücksendung der Ware
-        zurückgeben. Die Frist beginnt nach Erhalt dieser Belehrung in
-        Textform (z. B. als Brief, Fax, E-Mail), jedoch nicht vor Eingang der
-        Ware*                     . Nur bei nicht paketversandfähiger Ware (z.
-        B. bei sperrigen Gütern) können Sie die Rückgabe auch durch
-        Rücknahmeverlangen in Textform erklären. Zur Wahrung der Frist genügt
-        die rechtzeitige Absendung der Ware oder des Rücknahmeverlangens. In
-        jedem Fall erfolgt die Rücksendung auf unsere Kosten und Gefahr. Die
-        Rücksendung oder das Rücknahmeverlangen hat zu erfolgen an:*
-
-
-*    *   *
-
-
-*    *   *
-
-
-*    *   **Rückgabefolgen**
-
-
-*    *   Im Falle einer wirksamen Rückgabe sind die beiderseits empfangenen
-        Leistungen zurückzugewähren und ggf. gezogene Nutzungen herauszugeben.
-        Bei einer Verschlechterung der Sache und für Nutzungen (z. B.
-        Gebrauchsvorteile), die nicht oder teilweise nicht oder nur in
-        verschlechtertem Zustand herausgegeben werden können, müssen Sie uns
-        insoweit Wertersatz leisten. Für die Verschlechterung der Sache müssen
-        Sie Wertersatz nur leisten, soweit die Verschlechterung auf einen
-        Umgang mit der Sache zurückzuführen ist, der über die Prüfung der
-        Eigenschaften und der Funktionsweise hinausgeht.*
-        Unter „Prüfung der Eigenschaften und der Funktionsweise“ versteht man
-        das Testen und Ausprobieren der jeweiligen Ware, wie es etwa im
-        Ladengeschäft möglich und üblich ist.*
-        Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30
-        Tagen erfüllt werden. Die Frist beginnt für Sie mit der Absendung der
-        Ware oder des Rücknahmeverlangens, für uns mit dem Empfang.
-
-
-*    *   **Finanzierte Geschäfte***
-
-
-*    *   (Ort), (Datum), (Unterschrift des Verbrauchers)*
-
-
-
-**Gestaltungshinweise:**
-
-*   Wird die Belehrung nicht spätestens bei, sondern erst nach
-    Vertragsschluss mitgeteilt, lautet der Klammerzusatz „einem Monat“. In
-    diesem Fall ist auch Gestaltungshinweis 7 einschlägig, wenn der dort
-    genannte Hinweis nicht spätestens bei Vertragsschluss in Textform
-    erfolgt. Bei Fernabsatzverträgen steht eine unverzüglich nach
-    Vertragsschluss in Textform mitgeteilte Rückgabebelehrung einer
-    solchen bei Vertragsschluss gleich, wenn der Unternehmer den
-    Verbraucher gemäß Artikel 246 § 1 Absatz 1 Nummer 10 EGBGB
-    unterrichtet hat.
-
-
-*   Liegt einer der nachstehenden Sonderfälle vor, ist Folgendes
-    einzufügen:
-
-    a)  bei schriftlich abzuschließenden Verträgen: „und auch nicht, bevor
-        Ihnen auch eine Vertragsurkunde, Ihr schriftlicher Antrag oder eine
-        Abschrift der Vertragsurkunde oder des Antrags zur Verfügung gestellt
-        worden ist“;
-
-
-    b)  bei Fernabsatzverträgen (§ 312b Absatz 1 Satz 1 BGB): „beim Empfänger
-        (bei der wiederkehrenden Lieferung gleichartiger Waren nicht vor
-        Eingang der ersten Teillieferung) und auch nicht vor Erfüllung unserer
-        Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-        Absatz 1 und 2 EGBGB“;
-
-
-    c)  bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz
-        1 BGB): „und auch nicht vor Erfüllung unserer Pflichten gemäß § 312g
-        Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“;
-
-
-    d)  bei einem Kauf auf Probe (§ 454 BGB): „und auch nicht, bevor der
-        Kaufvertrag durch Ihre Billigung des gekauften Gegenstandes für Sie
-        bindend geworden ist“.
-
-
-
-    Wird für einen Vertrag belehrt, der unter mehrere der vorstehenden
-    Sonderfälle fällt (z. B. ein Fernabsatzvertrag im elektronischen
-    Geschäftsverkehr), sind die jeweils zutreffenden Ergänzungen zu
-    kombinieren (in dem genannten Beispiel wie folgt: „beim Empfänger [bei
-    der wiederkehrenden Lieferung gleichartiger Waren nicht vor Eingang
-    der ersten Teillieferung] und auch nicht vor Erfüllung unserer
-    Informationspflichten gemäß Artikel 246 § 2 in Verbindung mit § 1
-    Absatz 1 und 2 EGBGB sowie unserer Pflichten gemäß § 312g Absatz 1
-    Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB“).
-
-
-*   Einsetzen: Namen/Firma und ladungsfähige Anschrift des
-    Rückgabeadressaten.
-
-    Zusätzlich können angegeben werden: Telefaxnummer, E-Mail-Adresse
-    und/oder, wenn der Verbraucher eine Bestätigung seines
-    Rücknahmeverlangens an den Unternehmer erhält, auch eine
-    Internetadresse.
-
-
-*   Hier kann der Hinweis hinzugefügt werden:
-
-    „Die Rückgabe paketfähiger Ware kann auch an das Unternehmen
-    (einsetzen: Namen/Firma und Telefonnummer einer Versandstelle)
-    erfolgen, das die Ware bei Ihnen abholt.“
-
-
-*   Hier kann der Hinweis hinzugefügt werden:
-
-    „Bei Rücknahmeverlangen wird die Ware bei Ihnen abgeholt.“
-
-
-*   Bei Fernabsatzverträgen über Waren ist anstelle des vorgehenden Satzes
-    folgender Satz einzufügen:
-
-    „Für die Verschlechterung der Sache und für gezogene Nutzungen müssen
-    Sie Wertersatz nur leisten, soweit die Nutzungen oder die
-    Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist,
-    der über die Prüfung der Eigenschaften und der Funktionsweise
-    hinausgeht.“
-
-
-*   Wenn ein Hinweis auf die Wertersatzpflicht gemäß § 357 Absatz 3 Satz 1
-    BGB nicht spätestens bei Vertragsschluss in Textform erfolgt, ist
-    anstelle der beiden vorhergehenden Sätze folgender Satz einzufügen:
-    „Für eine durch die bestimmungsgemäße Ingebrauchnahme der Sache
-    entstandene Verschlechterung müssen Sie keinen Wertersatz leisten.“
-    Bei Fernabsatzverträgen steht ein unverzüglich nach Vertragsschluss in
-    Textform mitgeteilter Hinweis einem solchen bei Vertragsschluss
-    gleich, wenn der Unternehmer den Verbraucher rechtzeitig vor Abgabe
-    von dessen Vertragserklärung in einer dem eingesetzten
-    Fernkommunikationsmittel entsprechenden Weise über die
-    Wertersatzpflicht unterrichtet hat.
-
-    Handelt es sich um einen Fernabsatzvertrag über die Lieferung von
-    Waren, ist dem vorstehenden Hinweis anzufügen:
-
-    „Wertersatz für gezogene Nutzungen müssen Sie nur leisten, soweit Sie
-    die Ware in einer Art und Weise genutzt haben, die über die Prüfung
-    der Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung
-    der Eigenschaften und der Funktionsweise“ versteht man das Testen und
-    Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich
-    und üblich ist.“
-
-
-*   Der nachfolgende Hinweis für finanzierte Geschäfte kann entfallen,
-    wenn kein verbundenes Geschäft vorliegt:
-
-    „Wenn Sie diesen Vertrag durch ein Darlehen finanzieren und später von
-    Ihrem Rückgaberecht Gebrauch machen, sind Sie auch an den
-    Darlehensvertrag nicht mehr gebunden, sofern beide Verträge eine
-    wirtschaftliche Einheit bilden. Dies ist insbesondere dann anzunehmen,
-    wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn sich Ihr
-    Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwirkung
-    bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder
-    bei der Rückgabe der Ware bereits zugeflossen ist, tritt Ihr
-    Darlehensgeber im Verhältnis zu Ihnen hinsichtlich der Rechtsfolgen
-    des Widerrufs oder der Rückgabe in unsere Rechte und Pflichten aus dem
-    finanzierten Vertrag ein. Wollen Sie eine vertragliche Bindung so
-    weitgehend wie möglich vermeiden, machen Sie von Ihrem Rückgaberecht
-    Gebrauch und widerrufen Sie den Darlehensvertrag, wenn Ihnen auch
-    dafür ein Widerrufsrecht zusteht.“
-
-
-*   Ort, Datum und Unterschriftsleiste können entfallen. In diesem Fall
-    sind diese Angaben entweder durch die Wörter „Ende der
-    Rückgabebelehrung“ oder durch die Wörter „Ihr(e) (einsetzen: Firma des
-    Unternehmers)“ zu ersetzen.“
-
-
-
-
-
-### Anlage 3 (zu Artikel 247 § 2) Europäische Standardinformationen für Verbraucherkredite
+### Anlage 4 Europäische Standardinformationen für Verbraucherkredite
 
 (Fundstelle: BGBl. I 2009, S. 2393 - 2397;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -7889,7 +9488,7 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
         *
 
     *        *   (falls zutreffend)
-            Notarkosten
+            Verpflichtung zur Zahlung von Notarkosten
 
         *
 
@@ -7897,8 +9496,9 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
             Ausbleibende Zahlungen können schwer wiegende Folgen für Sie haben (z.
             B. Zwangsverkauf) und die Erlangung eines Kredits erschweren.
 
-        *   Für verspätete Zahlungen wird Ihnen
-            [… (anwendbarer Zinssatz und gegebenenfalls Verzugskosten)] berechnet.
+        *   Bei Zahlungsverzug wird Ihnen
+            [… (anwendbarer Zinssatz und Regelungen für seine Anpassung sowie
+            gegebenenfalls Verzugskosten)] berechnet.
 
 
 
@@ -7928,8 +9528,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
             Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag
             aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn
             eine entsprechende Unterrichtung durch die Rechtsvorschriften der
-            Europäischen Gemeinschaft untersagt ist oder den Zielen der
-            öffentlichen Ordnung oder Sicherheit zuwiderläuft.
+            Europäischen Union untersagt ist oder den Zielen der öffentlichen
+            Ordnung oder Sicherheit zuwiderläuft.
 
         *
 
@@ -8038,8 +9638,11 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu Artikel 247 § 2)
+Europäische Verbraucherkreditinformationen bei
+1\. Überziehungskrediten
 
-### Anlage 4 (zu Artikel 247 § 2) Europäische Verbraucherkreditinformationen bei 1. Überziehungskrediten 2. Umschuldungen
+### Anlage 5 2. Umschuldungen
 
 (Fundstelle: BGBl. I 2009, S. 2398 - 2401;
 bezüglich der einzelnen Änderungen vgl. Fußnote)
@@ -8142,8 +9745,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
     *        *   Kosten bei Zahlungsverzug
 
-        *   Für verspätete Zahlungen wird Ihnen [… (anwendbarer Zinssatz und
-            gegebenenfalls Verzugskosten)] berechnet.
+        *   Bei Zahlungsverzug wird Ihnen [… (anwendbarer Zinssatz und Regelungen
+            für seine Anpassung sowie gegebenenfalls Verzugskosten)] berechnet.
 
 
 
@@ -8167,8 +9770,8 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
             Ergebnis einer Datenbankabfrage unterrichten, wenn ein Kreditantrag
             aufgrund einer solchen Abfrage abgelehnt wird. Dies gilt nicht, wenn
             eine entsprechende Unterrichtung durch die Rechtsvorschriften der
-            Europäischen Gemeinschaft untersagt ist oder den Zielen der
-            öffentlichen Ordnung oder Sicherheit zuwiderläuft.
+            Europäischen Union untersagt ist oder den Zielen der öffentlichen
+            Ordnung oder Sicherheit zuwiderläuft.
 
         *
 
@@ -8304,334 +9907,1080 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu Artikel 247 § 1 Absatz 2)
+
+### Anlage 6 Europäisches Standardisiertes Merkblatt (ESIS-Merkblatt)
+
+(Fundstelle: BGBl. I 2016, S. 420 - 429)
+
+## Teil A
+
+Das folgende Muster ist im selben Wortlaut in das ESIS-Merkblatt zu
+übernehmen. Text in eckigen Klammern ist durch die entsprechende
+Angabe zu ersetzen. Hinweise für den Kreditgeber oder gegebenenfalls
+den Kreditvermittler zum Ausfüllen des ESIS-Merkblatts finden sich in
+Teil B.
+
+Bei Angaben, denen der Text „falls zutreffend“ vorangestellt ist, hat
+der Kreditgeber die erforderlichen Angaben zu machen, wenn sie für den
+Kreditvertrag relevant sind. Ist die betreffende Information nicht
+relevant, ist die entsprechende Rubrik bzw. der gesamte Abschnitt vom
+Kreditgeber zu streichen (beispielsweise wenn der Abschnitt nicht
+anwendbar ist). Wird der gesamte Abschnitt gestrichen, so ist die
+Nummerierung der einzelnen Abschnitte des ESIS-Merkblatts entsprechend
+anzupassen.
+
+Die nachstehenden Informationen müssen in einem einzigen Dokument
+enthalten sein. Es ist eine gut lesbare Schriftgröße zu wählen. Zur
+Hervorhebung sind Fettdruck, Schattierung oder eine größere
+Schriftgröße zu verwenden. Sämtliche Warnhinweise sind optisch
+hervorzuheben.
+
+**Muster für das ESIS-Merkblatt**
+
+
+*    *   (Vorbemerkungen)
+
+
+*    *   Dieses Dokument wurde am [Datum] für [Name des Verbrauchers] erstellt.
+        Das Dokument wurde auf der Grundlage der bereits von Ihnen gemachten
+        Angaben sowie der aktuellen Bedingungen am Finanzmarkt erstellt.
+        Die nachstehenden Informationen bleiben bis [Gültigkeitsdatum] gültig,
+        (falls zutreffend) mit Ausnahme des Zinssatzes und anderer Kosten.
+        Danach können sie sich je nach Marktbedingungen ändern.
+        (falls zutreffend) Die Ausfertigung dieses Dokuments begründet für
+        [Name des Kreditgebers] keinerlei Verpflichtung zur Gewährung eines
+        Kredits.
+
+
+*    *   1. Kreditgeber
+
+
+*    *   [Name]
+        [Telefon]
+        [Anschrift]
+        (Fakultativ) [E-Mail]
+        (Fakultativ) [Faxnummer]
+        (Fakultativ) [Internetadresse]
+        (Fakultativ) [Kontaktperson/-stelle]
+        (falls zutreffend, Informationen darüber, ob Beratungsdienstleistungen
+        erbracht werden:) [Wir empfehlen nach Analyse Ihres Bedarfs und Ihrer
+        Situation, dass Sie diesen Kredit aufnehmen. / Wir empfehlen Ihnen
+        keinen bestimmten Kredit. Auf Grund Ihrer Antworten auf einige der
+        Fragen erhalten Sie von uns jedoch Informationen zu diesem Kredit,
+        damit Sie Ihre eigene Entscheidung treffen können.]
+
+
+*    *   2. (falls zutreffend) Kreditvermittler
+
+
+*    *   [Name]
+        [Telefon]
+        [Anschrift]
+        (Fakultativ) [E-Mail]
+        (Fakultativ) [Faxnummer]
+        (Fakultativ) [Internetadresse]
+        (Fakultativ) [Kontaktperson/-stelle]
+        (falls zutreffend, Informationen darüber, ob Beratungsdienstleistungen
+        erbracht werden:) [Wir empfehlen nach Analyse Ihres Bedarfs und Ihrer
+        Situation, dass Sie diesen Kredit aufnehmen. / Wir empfehlen Ihnen
+        keinen bestimmten Kredit. Auf Grund Ihrer Antworten auf einige der
+        Fragen erhalten Sie von uns jedoch Informationen zu diesem Kredit,
+        damit Sie Ihre eigene Entscheidung treffen können.]
+        [Vergütung]
+
+
+*    *   3. Hauptmerkmale des Kredits
+
+
+*    *   Kreditbetrag und Währung: [Wert] [Währung]
+        (falls zutreffend) Dieser Kredit lautet nicht auf [Landeswährung des
+        Kreditnehmers].
+        (falls zutreffend) Der Wert Ihres Kredits in [Landeswährung des
+        Kreditnehmers] kann sich ändern.
+        (falls zutreffend) Wenn beispielsweise [Landeswährung des
+        Kreditnehmers] gegenüber [Kreditwährung] um 20 % an Wert verliert,
+        würde sich der Wert Ihres Kredits um [Betrag in der Landeswährung des
+        Kreditnehmers] erhöhen. Allerdings könnte es sich auch um einen
+        höheren Betrag handeln, falls [Landeswährung des Kreditnehmers] um
+        mehr als 20 % an Wert verliert.
+        (falls zutreffend) Der Wert Ihres Kredits beläuft sich auf maximal
+        [Betrag in der Landeswährung des Kreditnehmers]. (falls zutreffend)
+        Sie erhalten einen Warnhinweis, falls der Kreditbetrag [Betrag in der
+        Landeswährung des Kreditnehmers] erreicht. (falls zutreffend) Sie
+        haben die Möglichkeit, [Recht auf Neuverhandlung eines
+        Fremdwährungskreditvertrags oder Recht, den Kredit in [einschlägige
+        Währung] umzuwandeln, und Bedingungen].
+        Laufzeit des Kredits: [Laufzeit]
+        [Kreditart]
+        [Art des anwendbaren Zinssatzes]
+        Zurückzuzahlender Gesamtbetrag:
+        Dies bedeutet, dass Sie [Betrag] je geliehene(n) [Währungseinheit]
+        zurückzuzahlen haben.
+        (falls zutreffend) Bei dem gewährten Kredit/einem Teil des gewährten
+        Kredits handelt es sich um einen endfälligen Kredit. Ihre Schuld nach
+        Ablauf der Laufzeit des Kredits beträgt [Kreditbetrag nach
+        Endfälligkeit].
+        (falls zutreffend) Für dieses Merkblatt zugrunde gelegter Schätzwert
+        der Immobilie: [Betrag]
+        (falls zutreffend) Beleihungsgrenze (maximale Höhe des Kredits im
+        Verhältnis zum Wert der Immobilie): [Verhältnis] oder Mindestwert der
+        Immobilie als Voraussetzung für die Aufnahme eines Kredits in der
+        angegebenen Höhe: [Betrag]
+        (falls zutreffend) [Sicherheit]
+
+
+*    *   4. Zinssatz und andere Kosten
+
+
+*    *   Der effektive Jahreszins entspricht den Gesamtkosten des Kredits,
+        ausgedrückt als jährlicher Prozentsatz. Der effektive Jahreszins
+        erleichtert den Vergleich verschiedener Angebote.
+        Der für Ihren Kredit geltende effektive Jahreszins beträgt [effektiver
+        Jahreszins].
+        Er setzt sich zusammen aus:
+        Zinssatz: [Wert in Prozent oder, falls zutreffend, Angabe eines
+        Referenzzinssatzes und Prozentwerts der Zinsmarge des Kreditgebers]
+        [sonstige Komponenten des effektiven Jahreszinses]
+        Einmalige Kosten:
+        (falls zutreffend) Für die Eintragung der Hypothek bzw. Grundschuld
+        wird eine Gebühr fällig. [Gebühr, sofern bekannt, oder Grundlage für
+        die Berechnung.]
+        Regelmäßig anfallende Kosten:
+        (falls zutreffend) Dieser effektive Jahreszins wird anhand des
+        angenommenen Zinssatzes berechnet.
+        (falls zutreffend) Da es sich bei Ihrem Kredit [einem Teil Ihres
+        Kredits] um einen Kredit mit variablem Zinssatz handelt, kann der
+        tatsächliche effektive Jahreszins von dem angegebenen effektiven
+        Jahreszins abweichen, falls sich der Zinssatz Ihres Kredits ändert.
+        Falls sich der Zinssatz beispielsweise auf [unter Teil B beschriebenes
+        Szenario] erhöht, kann der effektive Jahreszins auf [Beispiel für den
+        gemäß diesem Szenario fälligen effektiven Jahreszins] ansteigen.
+        (falls zutreffend) Beachten Sie bitte, dass bei der Berechnung dieses
+        effektiven Jahreszinses davon ausgegangen wird, dass der Zinssatz
+        während der gesamten Vertragslaufzeit auf dem für den Anfangszeitraum
+        festgelegten Niveau bleibt.
+        (falls zutreffend) Die folgenden Kosten sind dem Kreditgeber nicht
+        bekannt und sind daher im effektiven Jahreszins nicht enthalten:
+        [Kosten]
+        (falls zutreffend) Für die Eintragung der Hypothek bzw. Grundschuld
+        wird eine Gebühr fällig.
+        Bitte vergewissern Sie sich, dass Sie alle im Zusammenhang mit Ihrem
+        Kredit anfallenden Kosten und Gebühren bedacht haben.
+
+
+*    *   5. Häufigkeit und Anzahl der Ratenzahlungen
+
+
+*    *   Häufigkeit der Ratenzahlungen: [Zahlungsintervall]
+        Anzahl der Zahlungen: [Anzahl]
+
+
+*    *   6. Höhe der einzelnen Raten
+
+
+*    *   [Betrag] [Währung]
+        Ihre Einkommenssituation kann sich ändern. Prüfen Sie bitte, ob Sie
+        Ihre [Zahlungsintervall] Raten auch dann noch zahlen können, wenn sich
+        Ihr Einkommen verringern sollte.
+        (falls zutreffend) Da es sich bei dem [gewährten Kredit/einem Teil des
+        gewährten Kredits] um einen endfälligen Kredit handelt, müssen Sie
+        eine gesonderte Regelung für die Tilgung der Schuld von [Kreditbetrag
+        nach Endfälligkeit] nach Ablauf der Laufzeit des Kredits treffen.
+        Berücksichtigen Sie dabei auch alle Zahlungen, die Sie zusätzlich zu
+        der hier angegebenen Ratenhöhe leisten müssen.
+        (falls zutreffend) Der Zinssatz dieses Kredits oder eines Teils davon
+        kann sich ändern. Daher kann die Höhe Ihrer Raten steigen oder sinken.
+        Falls sich der Zinssatz beispielsweise auf [unter Teil B beschriebenes
+        Szenario] erhöht, können Ihre Ratenzahlungen auf [Angabe der Höhe der
+        gemäß diesem Szenario fälligen Rate] ansteigen.
+        (falls zutreffend) Die Höhe der [Zahlungsintervall] in [Landeswährung
+        des Kreditnehmers] fälligen Zahlungen kann sich ändern.
+        (falls zutreffend) Ihre pro [Zahlungsperiode] fälligen Zahlungen
+        können sich auf [Höchstbetrag in der Landeswährung des Kreditnehmers]
+        erhöhen.
+        (falls zutreffend) Wenn beispielsweise [Landeswährung des
+        Kreditnehmers] gegenüber [Kreditwährung] um 20 % an Wert verliert,
+        müssten Sie pro [Zeitraum] [Betrag in der Landeswährung des
+        Kreditnehmers] mehr zahlen. Ihre Zahlungen könnten auch um einen
+        höheren Betrag ansteigen.
+        (falls zutreffend) Bei der Umrechnung Ihrer in [Kreditwährung]
+        geleisteten Rückzahlungen in [Landeswährung des Kreditnehmers] wird
+        der von [Name der den Wechselkurs veröffentlichenden Einrichtung] am
+        [Datum] veröffentlichte oder auf der Grundlage von [Bezeichnung der
+        Bezugsgrundlage oder der Berechnungsmethode] am [Datum] errechnete
+        Wechselkurs zugrunde gelegt.
+        (falls zutreffend) [Spezifische Angaben zu verbundenen Sparprodukten
+        und Krediten mit abgegrenztem Zins]
+
+
+*    *   7. (falls zutreffend) Beispiel eines Tilgungsplans
+
+
+*    *   Der folgenden Tabelle ist die Höhe des pro [Zahlungsintervall] zu
+        zahlenden Betrags zu entnehmen.
+        Die Raten (Spalte [Nummer]) setzen sich aus zu zahlenden Zinsen
+        (Spalte [Nummer]) und, falls zutreffend, zu zahlender Tilgung (Spalte
+        [Nummer]) sowie, falls zutreffend, sonstigen Kosten (Spalte [Nummer])
+        zusammen. (falls zutreffend) Die in der Spalte „sonstige Kosten“
+        angegebenen Kosten betreffen [Aufzählung der Kosten]. Das Restkapital
+        (Spalte [Nummer]) ist der nach einer Ratenzahlung noch verbleibende
+        zurückzuzahlende Kreditbetrag.
+        [Tabelle]
+
+
+*    *   8. Zusätzliche Auflagen
+
+
+*    *   Der Kreditnehmer muss folgende Auflagen erfüllen, um in den Genuss der
+        im vorliegenden Dokument genannten Kreditkonditionen zu kommen.
+        [Auflagen]
+        (falls zutreffend) Beachten Sie bitte, dass sich die in diesem
+        Dokument genannten Kreditkonditionen (einschließlich Zinssatz) ändern
+        können, falls Sie diese Auflagen nicht erfüllen.
+        (falls zutreffend) Beachten Sie bitte die möglichen Konsequenzen einer
+        späteren Kündigung der mit dem Kredit verbundenen Nebenleistungen:
+        [Konsequenzen]
+
+
+*    *   9. Vorzeitige Rückzahlung
+
+
+*    *   Sie können den Kredit ganz oder teilweise vorzeitig zurückzahlen.
+        (falls zutreffend) [Bedingungen]
+        (falls zutreffend) Ablösungsentschädigung: [Betrag oder, sofern keine
+        Angabe möglich ist, Berechnungsmethode]
+        (falls zutreffend) Sollten Sie beschließen, den Kredit vorzeitig
+        zurückzuzahlen, setzen Sie sich bitte mit uns in Verbindung, um die
+        genaue Höhe der Ablösungsentschädigung zum betreffenden Zeitpunkt in
+        Erfahrung zu bringen.
+
+
+*    *   10. Flexible Merkmale
+
+
+*    *   (falls zutreffend) [Information über Übertragbarkeit/Abtretung] Sie
+        können den Kredit auf [einen anderen Kreditnehmer] [oder] [eine andere
+        Immobilie] übertragen. [Bedingungen]
+        (falls zutreffend) Sie können den Kredit nicht auf [einen anderen
+        Kreditnehmer] [oder] [eine andere Immobilie] übertragen.
+        (falls zutreffend) Zusätzliche Merkmale: [Erläuterung der in Teil B
+        aufgelisteten zusätzlichen Merkmale und – fakultativ – aller weiteren
+        Merkmale, die der Kreditgeber im Rahmen des Kreditvertrags anbietet
+        und die nicht in den vorausgehenden Abschnitten genannt sind.]
+
+
+*    *   11. Sonstige Rechte des Kreditnehmers
+
+
+*    *   (falls zutreffend) Bevor Sie sich für die Aufnahme des Kredits
+        entscheiden, haben Sie ab dem [Zeitpunkt, zu dem die Bedenkzeit
+        beginnt] [Dauer der Bedenkzeit] Bedenkzeit. (falls zutreffend) Sobald
+        Sie den Kreditvertrag vom Kreditgeber erhalten haben, können Sie
+        diesen nicht vor Ablauf einer Frist von [Zeitraum der Bedenkzeit]
+        annehmen.
+        (falls zutreffend) Sie können während eines Zeitraums von [Dauer der
+        Widerrufsfrist] ab [Zeitpunkt, zu dem die Widerruffrist beginnt] von
+        Ihrem Widerrufsrecht Gebrauch machen. [Bedingungen] [Verfahren]
+        (falls zutreffend) Sie können Ihr Widerrufsrecht verlieren, wenn Sie
+        innerhalb dieses Zeitraums eine Immobilie erwerben oder veräußern, die
+        im Zusammenhang mit diesem Kreditvertrag steht.
+        (falls zutreffend) Sollten Sie beschließen, von Ihrem Recht auf
+        Widerruf [des Kreditvertrags] Gebrauch zu machen, so prüfen Sie bitte,
+        ob Sie durch andere [, in Abschnitt 8 genannte] Auflagen im
+        Zusammenhang mit dem Kredit [einschließlich der mit dem Kredit
+        verbundenen Nebenleistungen] weiter gebunden bleiben.
+
+
+*    *   12. Beschwerden
+
+
+*    *   Im Fall einer Beschwerde wenden Sie sich bitte an [interne
+        Kontaktstelle und Informationsquelle zum weiteren Verfahren].
+        (falls zutreffend) Maximale Frist für die Bearbeitung der Beschwerde:
+        [Zeitraum]
+        (falls zutreffend) Sollten wir die Beschwerde nicht intern zu Ihrer
+        Zufriedenheit beilegen, so können Sie sich auch an [Name der externen
+        Stelle für außergerichtliche Beschwerde- und Rechtsbehelfsverfahren]
+        wenden
+        (falls zutreffend) oder Sie können weitere Informationen bei FIN-NET
+        oder der entsprechenden Stelle in Ihrem eigenen Land erfragen.
+
+
+*    *   13. Nichteinhaltung der aus dem Kreditvertrag erwachsenden
+        Verpflichtungen: Konsequenzen für den Kreditnehmer
+
+
+*    *   [Arten eines Verstoßes gegen die Verpflichtungen]
+        [finanzielle und/oder rechtliche Folgen]
+        Sollten Sie Schwierigkeiten haben, die [Zahlungsintervall] Zahlungen
+        zu leisten, so nehmen Sie bitte umgehend Kontakt mit uns auf, damit
+        nach möglichen Lösungen gesucht werden kann.
+        (falls zutreffend) Kommen Sie Ihren Zahlungsverpflichtungen nicht
+        nach, kann als letztes Mittel Ihre Immobilie zwangsversteigert werden.
+
+
+*    *   (falls zutreffend) 14. Zusätzliche Informationen
+
+
+*    *   (falls zutreffend) [auf den Kreditvertrag anwendbares Recht]
+        (Sofern der Kreditgeber eine Sprache verwenden möchte, die sich von
+        der Sprache des ESIS-Merkblatts unterscheidet:) Informationen und
+        Vertragsbedingungen werden in [Angabe der Sprache] vorgelegt. Mit
+        Ihrer Zustimmung werden wir während der Laufzeit des Kreditvertrags
+        mit Ihnen in [Angabe der Sprache(n)] kommunizieren.
+        [Hinweis betreffend das Recht, dass der Kreditvertrag gegebenenfalls
+        im Entwurf vorgelegt oder dies angeboten wird].
 
-### Anlage 5 (zu Artikel 247 § 2) Europäisches Standardisiertes Merkblatt
 
-(Fundstelle: BGBl. I 2009, S. 2402 - 2405)
+*    *   15. Aufsichtsbehörde
 
 
-*    *   Inhalt
+*    *   Die Aufsicht über diesen Kreditgeber obliegt: [Bezeichnung(en) und
+        Internetadresse(n) der Aufsichtsbehörde(n)].
+        (falls zutreffend) Die Aufsicht über diesen Kreditvermittler obliegt:
+        [Bezeichnung und Internetadresse der Aufsichtsbehörde].
 
-    *   Beschreibung
 
 
-*    *   **Einleitungstext**
 
-    *   Diese Angaben stellen kein rechtsverbindliches Angebot dar.
-        Die Angaben werden nach Treu und Glauben zur Verfügung gestellt und
-        sind eine genaue Beschreibung des Angebots, das das Kreditinstitut
-        unter aktuellen Marktbedingungen und auf der Basis der vom Kunden
-        bereitgestellten Informationen machen würde. Es sollte allerdings
-        beachtet werden, dass sich die Angaben je nach Marktentwicklung ändern
-        können.
-        Die Aushändigung dieses Informationsmerkblattes verpflichtet den
-        Darlehensgeber nicht automatisch zur Darlehensbewilligung.
+Teil B
+## Hinweise zum Ausfüllen des ESIS-Merkblatts
+
+Beim Ausfüllen des ESIS-Merkblatts sind die folgenden Hinweise zu
+beachten:
+
+Abschnitt „Vorbemerkungen“
 
+Das Datum, bis zu dem die Angaben gelten, ist optisch angemessen
+hervorzuheben. Für die Zwecke dieses Abschnitts bezeichnet der Begriff
+„Gültigkeitsdatum“ den Zeitraum, innerhalb dessen die im ESIS-
+Merkblatt enthaltenen Angaben, etwa der Sollzinssatz, unverändert
+bleiben und zur Anwendung kommen werden, falls der Kreditgeber
+beschließt, den Kredit innerhalb dieser Frist zu bewilligen. Hängt die
+Festlegung des anwendbaren Sollzinssatzes und anderer Kosten vom
+Ergebnis des Verkaufs zugrunde liegender Wertpapiere ab, so können der
+vertraglich vereinbarte Sollzinssatz und andere Kosten gegebenenfalls
+von diesen Angaben abweichen. Ausschließlich unter diesen Umständen
+ist auf die Tatsache, dass sich das Gültigkeitsdatum nicht auf den
+Sollzinssatz und andere Kosten bezieht, mit folgender Angabe
+hinzuweisen: „mit Ausnahme des Zinssatzes und anderer Kosten“.
+
+## Abschnitt „1. Kreditgeber“
+
+
+(1) Name, Telefonnummer und Anschrift des Kreditgebers müssen diejenigen
+    Kontaktdaten sein, die der Verbraucher in der künftigen Kommunikation
+    verwenden kann.
+
+
+(2) Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und
+    Kontaktperson oder -stelle sind fakultativ.
+
+
+(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts gemäß §
+    312c des Bürgerlichen Gesetzbuchs angeboten, muss der Kreditgeber hier
+    gegebenenfalls gemäß Artikel 246b § 1 Absatz 1 Nummer 3 und 4 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche Namen und Anschrift
+    seines Vertreters in dem Mitgliedstaat der Europäischen Union, in dem
+    der Verbraucher seinen Wohnsitz hat, angeben. Die Angabe von
+    Telefonnummer, E-Mail-Adresse und Internetadresse des Vertreters des
+    Kreditgebers ist fakultativ.
+
+
+(4) Kommt Abschnitt 2 nicht zur Anwendung, so unterrichtet der Kreditgeber
+    unter Verwendung der Formulierungen in Teil A den Verbraucher darüber,
+    ob und auf welcher Grundlage Beratungsdienstleistungen
+    (Beratungsleistungen gemäß § 511 des Bürgerlichen Gesetzbuchs)
+    erbracht werden.
 
-*    *   1. Darlehensgeber
-        und eventuell Darlehensvermittler
 
-    *
 
-*    *   2. Beschreibung
+
+## (falls zutreffend) Abschnitt „2. Kreditvermittler“
+
+Erhält der Verbraucher die Produktinformationen von einem
+Kreditvermittler, so erteilt dieser die folgenden Informationen:
 
-    *   [In diesem Absatz sollte eine kurze, aber deutliche Beschreibung des
-        vorgeschlagenen Vertrags erfolgen.
-        Dabei sollte verdeutlicht werden, ob
+(1) Name, Telefonnummer und Anschrift des Kreditvermittlers müssen
+    diejenigen Kontaktdaten sein, die der Verbraucher in der künftigen
+    Kommunikation verwenden kann.
+
+
+(2) Angaben zu E-Mail-Adresse, Faxnummer, Internetadresse und
+    Kontaktperson oder -stelle sind fakultativ.
 
-        –   das Darlehen grundpfandrechtlich oder durch eine andere gewöhnlich
-            verwendete Sicherheit zu sichern ist;
 
+(3) Der Kreditvermittler unterrichtet unter Verwendung der Formulierungen
+    in Teil A den Verbraucher darüber, ob und auf welcher Grundlage
+    Beratungsdienstleistungen (Beratungsleistungen gemäß § 511 des
+    Bürgerlichen Gesetzbuchs) erbracht werden.
 
-        –   es sich bei dem vorgeschlagenen Vertrag um ein Zinszahlungsdarlehen
-            handelt (d. h. der Darlehensnehmer bedient während der
-            Darlehenslaufzeit nur die Zinsen und zahlt am Ende der Laufzeit den
-            vollen Darlehensbetrag zurück) oder um ein Annuitätendarlehen (d. h.
-            der Darlehensnehmer tilgt während der Darlehenslaufzeit nicht nur
-            Zinsen und Kosten, sondern auch das Darlehen);
+
+(4) Erläuterungen zur Art und Weise der Vergütung des Kreditvermittlers.
+    Erhält dieser eine Provision vom Kreditgeber, so sind der Betrag und –
+    sofern abweichend von der Angabe unter Abschnitt 1 – der Name des
+    Kreditgebers anzugeben.
 
 
-        –   die Darlehensbedingungen vom zur Verfügung gestellten Eigenkapital des
-            Darlehensnehmers abhängig sind (eventuell beschrieben als Prozentsatz
-            des Wohneigentumswertes);
 
 
-        –   die Darlehensbedingungen von der Bürgschaft eines Dritten abhängig
-            sind.]
+## Abschnitt „3. Hauptmerkmale des Kredits“
 
 
+(1) In diesem Abschnitt sind die Hauptmerkmale des Kredits, einschließlich
+    des Wertes, der Währung und der potenziellen Risiken, die mit dem
+    Sollzinssatz (darunter die unter Nummer 8 genannten Risiken) und der
+    Amortisationsstruktur verbunden sind, klar darzulegen.
 
 
+(2) Handelt es sich bei der Kreditwährung nicht um die Landeswährung des
+    Verbrauchers, so weist der Kreditgeber darauf hin, dass der
+    Verbraucher einen regelmäßigen Warnhinweis erhält, sobald der
+    Wechselkurs um mehr als 20 % schwankt, und dass er das Recht hat, die
+    Währung des Kreditvertrags in seine Landeswährung umzuwandeln. Er
+    weist auch auf alle sonstigen Regelungen, die dem Verbraucher zur
+    Begrenzung des Wechselkursrisikos zur Verfügung stehen, hin. Ist im
+    Kreditvertrag eine Bestimmung zur Begrenzung des Wechselkursrisikos
+    vorgesehen, so gibt der Kreditgeber den Höchstbetrag an, den der
+    Verbraucher gegebenenfalls zurückzuzahlen hat. Ist im Kreditvertrag
+    keine Bestimmung vorgesehen, wonach das Wechselkursrisiko für den
+    Verbraucher auf eine Wechselkursschwankung von weniger als 20 %
+    begrenzt wird, so gibt der Kreditgeber ein anschauliches Beispiel
+    dafür, wie sich ein Kursverfall der Landeswährung des Verbrauchers von
+    20 % gegenüber der Kreditwährung auf den Wert des Kredits auswirkt.
 
-*    *   3. Sollzinssatz
-        (anzugeben ist die Art des Sollzinssatzes und die Dauer der
-        festgesetzten Darlehenslaufzeit)
 
-    *   [Dieser Abschnitt sollte Informationen zur wichtigsten Gegenleistung
-        des Darlehens liefern – dem Sollzinssatz. Soweit bedeutsam, sollten
-        Details zur Veränderlichkeit des Sollzinssatzes beschrieben werden,
-        einschließlich u. a. Überprüfungsphasen, ausgesetzter Phasen und
-        verbundener Strafklauseln sowie die Angabe von Zinsmargen, innerhalb
-        derer ein veränderlicher Sollzinssatz schwanken kann usw.
-        Es sollte beschrieben werden, ob sich ein veränderlicher Sollzinssatz
-        auf einen Index oder Referenzzinssatz bezieht oder nicht und, soweit
-        relevant, nähere Angaben zum Index oder Referenzzinssatz.]
+(3) Die Laufzeit des Kredits ist – je nach Relevanz – in Jahren oder
+    Monaten auszudrücken. Kann sich die Kreditlaufzeit während der
+    Geltungsdauer des Vertrags ändern, erläutert der Kreditgeber, wann und
+    unter welchen Bedingungen dies möglich ist. Handelt es sich um einen
+    unbefristeten Kredit, etwa für eine gesicherte Kreditkarte, so ist
+    dies vom Kreditgeber klar anzugeben.
 
 
-*    *   4. Effektiver Jahreszins
-        Gesamtkosten ausgedrückt als jährlicher Prozentsatz des
-        Gesamtkreditbetrags
+(4) Die Art des Kredits ist genau anzugeben (z. B. grundpfandrechtlich
+    besicherter Kredit, wohnungswirtschaftlicher Kredit, gesicherte
+    Kreditkarte). Bei der Beschreibung der Kreditart ist klar anzugeben,
+    wie Kapital und Zinsen während der Laufzeit des Kredits zurückzuzahlen
+    sind (d. h. die Amortisationsstruktur) und ob der Kreditvertrag auf
+    einer Kapitalrückzahlung oder auf der Endfälligkeit basiert oder eine
+    Mischung von beidem ist.
 
-    *
 
-*    *   5. Nettodarlehensbetrag und Währung
+(5) Handelt es sich bei dem gewährten Kredit oder einem Teil davon um
+    einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger
+    Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar
+    am Ende dieses Abschnitts einzufügen.
 
-    *
 
-*    *   6. Gesamtdauer der Darlehensvereinbarung
+(6) In der Rubrik [Art des anwendbaren Zinssatzes] ist anzugeben, ob der
+    Sollzinssatz fest oder variabel ist, sowie gegebenenfalls die
+    Zeiträume, für die der Zinssatz festgeschrieben ist, wie häufig der
+    Zinssatz in der Folge überprüft wird und inwieweit die Variabilität
+    des Sollzinssatzes nach oben oder nach unten hin begrenzt ist.
 
-    *
+    Die Formel für die Überprüfung des Sollzinssatzes und ihrer einzelnen
+    Bestandteile (z. B. Referenzzinssatz, Zinsmarge) ist zu erläutern. Der
+    Kreditgeber hat anzugeben, etwa mittels einer Internetadresse, wo
+    weitere Informationen zu den in der Formel zugrunde gelegten Indizes
+    oder Zinssätzen zu finden sind, z. B. EURIBOR-Satz oder
+    Referenzzinssatz der Zentralbank.
 
-*    *   7. Anzahl und Häufigkeit der Ratenzahlung (kann variieren)
 
-    *
+(7) Gelten unter bestimmten Umständen unterschiedliche Sollzinssätze, so
+    sind diese Angaben für alle anzuwendenden Sollzinssätze zu machen.
 
-*    *   8. Bei Annuitätendarlehen:
-        Höhe der Ratenzahlung (kann variieren)
 
-    *
+(8) Der „zurückzuzahlende Gesamtbetrag“ entspricht dem Gesamtbetrag, den
+    der Verbraucher zu zahlen hat. Er wird dargestellt als die Summe aus
+    Nettodarlehensbetrag und Gesamtkosten des Kredits für den Verbraucher.
+    Ist der Sollzinssatz für die Laufzeit des Vertrags nicht festgelegt,
+    so ist optisch hervorzuheben, dass dieser Betrag lediglich
+    Beispielcharakter hat und insbesondere bei einer Veränderung des
+    Sollzinssatzes variieren kann.
 
-*    *   9. Bei wohnungswirtschaftlichen Zinszahlungsdarlehen:
-        – Höhe jeder regelmäßigen Zinszahlung;
-        – Höhe der regelmäßig zur Vermögensbildung zu leistenden Zahlungen.
 
-    *   [Der Darlehensgeber sollte – reale oder repräsentative – Angaben
-        – zur Höhe und Anzahl jeder regelmäßigen Zinszahlung (vgl. Angaben
-        unter Punkt 7) sowie
-        – zur Höhe und Anzahl der zur Vermögensbildung zu leistenden
-        regelmäßigen Zahlungen (vgl. Angaben unter Punkt 7)
-        liefern.
-        Gegebenenfalls sollte der Darlehensgeber darauf hinweisen, dass die
-        zur Vermögensbildung geleisteten Zahlungen und daraus resultierenden
-        Ansprüche möglicherweise nicht die vollständige Rückzahlung des
-        Darlehens gewährleisten.
-        Falls ein Darlehensgeber Vermögensbildungsverträge in seinem Angebot
-        führt und diese als Teil eines Zinszahlungsdarlehens anbietet, sollte
-        klargestellt werden, ob das Angebot an den vom Darlehensgeber
-        vorgeschlagenen Vermögensbildungsvertrag gebunden ist.]
+(9) Wird der Kredit durch eine Hypothek auf die Immobilie oder durch eine
+    andere vergleichbare Sicherheit oder ein Recht an einer Immobilie
+    gesichert, hat der Kreditgeber den Verbraucher darauf hinzuweisen. Der
+    Kreditgeber hat gegebenenfalls den geschätzten Wert der Immobilie oder
+    der sonstigen Sicherheiten zu nennen, die zur Erstellung dieses
+    Merkblatts herangezogen wurden.
 
 
-*    *   10. Zusätzliche einmalige Kosten, soweit anwendbar
+(10) Der Kreditgeber gibt gegebenenfalls Folgendes an:
 
-    *   [Eine Liste aller anfänglichen einmaligen Kosten, die der
-        Darlehensnehmer zum Zeitpunkt der Aufnahme des
-        wohnungswirtschaftlichen Darlehens zahlen muss, muss vorgelegt werden.
-        Falls diese Kosten unter direkter oder indirekter Kontrolle des
-        Darlehensgebers stehen, sollte eine Schätzung der Kosten erfolgen.
-        Soweit dies relevant ist, sollte klargestellt werden, ob die Kosten
-        auch unabhängig von der Darlehensbewilligung entrichtet werden müssen.
-        Solche Kosten könnten z. B. umfassen:
-        – Verwaltungskosten
-        – Kosten für Rechtsberatung
-        – Schätz- und Sachverständigenkosten.
-        Wenn ein Angebot daran gebunden ist, dass der Darlehensnehmer die
-        genannten Dienstleistungen vom Darlehensgeber in Anspruch nimmt,
-        sollte deutlich auf diese Tatsache hingewiesen werden.]
+    a)  die „Beleihungsgrenze“ (maximale Höhe des Kredits im Verhältnis zum
+        Wert der Immobilie), die das Verhältnis zwischen Kredithöhe und
+        Objektwert angibt; neben der entsprechenden Angabe ist ein konkretes
+        Zahlenbeispiel für die Ermittlung des Höchstbetrags zu nennen, der bei
+        einem bestimmten Immobilienwert als Kredit aufgenommen werden kann
+        oder
 
 
-*    *   11. Zusätzliche wiederkehrende Kosten (soweit nicht bereits in Punkt 8
-        berücksichtigt)
+    b)  den „Mindestwert der Immobilie, den der Kreditgeber für die Vergabe
+        eines Kredits in der angegebenen Höhe voraussetzt“.
 
-    *   [Diese Liste sollte z. B. beinhalten:
 
-        –   Versicherung bei Zahlungsunfähigkeit (Arbeitslosigkeit oder Todesfall)
 
 
-        –   Feuerversicherung
 
+(11) Bei mehrteiligen Krediten (z. B. zum Teil mit festem und zum Teil mit
+    variablem Zinssatz) muss dies aus den Angaben zur Art des Kredits
+    hervorgehen und die vorgeschriebenen Informationen müssen für jeden
+    Teil des Kredits angegeben werden.
+
+
+
+
+## Abschnitt „4. Zinssatz und andere Kosten“
 
-        –   Gebäude- und Hausratsversicherung.
+
+(1) Der Begriff „Zinssatz“ bezeichnet den Sollzinssatz oder die
+    Sollzinssätze.
+
+
+(2) Der Sollzinssatz ist als Prozentwert anzugeben. Handelt es sich um
+    einen variablen Sollzinssatz auf Basis eines Referenzzinssatzes, so
+    kann der Kreditgeber den Sollzinssatz in Form eines Referenzzinssatzes
+    und eines Prozentwerts seiner Zinsmarge angeben. Der Kreditgeber muss
+    allerdings den am Tag der Ausstellung des ESIS-Merkblatts geltenden
+    Wert des Referenzzinssatzes angeben.
+
+    Im Falle eines variablen Sollzinssatzes ist Folgendes anzugeben:
+
+    a)  die der Berechnung des effektiven Jahreszinses zugrunde gelegten
+        Annahmen,
 
 
+    b)  gegebenenfalls die geltenden Ober- und Untergrenzen sowie
 
-        Wenn ein Angebot daran gebunden ist, dass der Darlehensnehmer die
-        genannten Dienstleistungen vom Darlehensgeber in Anspruch nimmt,
-        sollte deutlich auf diese Tatsache hingewiesen werden.]
 
+    c)  ein Warnhinweis, dass sich die Variabilität negativ auf die
+        tatsächliche Höhe des effektiven Jahreszinses auswirken könnte.
 
-*    *   12. Vorzeitige Rückzahlung,
-        Kündigungsmöglichkeiten
 
-    *   [Der Darlehensgeber sollte Hinweise geben zu
 
-        –   der Möglichkeit und den Bedingungen der vorzeitigen Rückzahlung
 
+    Der Warnhinweis hat in größerer Schrift deutlich sichtbar im Hauptteil
+    des ESIS-Merkblatts zu erscheinen, damit die Aufmerksamkeit der
+    Verbraucher darauf gelenkt wird. Der Warnhinweis ist durch ein
+    anschauliches Beispiel zum effektiven Jahreszins zu ergänzen. Besteht
+    eine Obergrenze für den Sollzinssatz, so basiert das Beispiel auf der
+    Annahme, dass der Sollzinssatz bei frühestmöglicher Gelegenheit auf
+    das höchste im Kreditvertrag vorgesehene Niveau ansteigt. Besteht
+    keine Obergrenze, so bildet das Beispiel den effektiven Jahreszins
+    beim höchsten Sollzinssatz der mindestens letzten 20 Jahre ab oder –
+    falls die der Berechnung des Sollzinssatzes zugrunde liegenden Daten
+    nur für einen Zeitraum von weniger als 20 Jahren vorliegen – des
+    längsten Zeitraums, für den solche Daten vorliegen, und zwar ausgehend
+    vom Höchststand des jeweiligen externen Referenzsatzes, der
+    gegebenenfalls für die Berechnung des Sollzinssatzes herangezogen
+    wurde oder vom Höchststand eines Benchmarkzinssatzes, der von einer
+    zuständigen Behörde oder der Europäischen Bankenaufsichtsbehörde (EBA)
+    festgesetzt wird, sofern der Kreditgeber keinen externen Referenzsatz
+    verwendet. Diese Anforderung gilt nicht für Kreditverträge, bei denen
+    für einen konkreten Anfangszeitraum von mindestens fünf Jahren ein
+    fester Sollzinssatz vereinbart wurde, der anschließend nach
+    Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren
+    Zeitraum festgeschrieben werden kann. Im Falle von Kreditverträgen,
+    bei denen für einen konkreten Anfangszeitraum von mindestens fünf
+    Jahren ein fester Sollzinssatz vereinbart wurde, der anschließend nach
+    Verhandlungen zwischen Kreditgeber und Verbraucher für einen weiteren
+    Zeitraum festgeschrieben werden kann, muss das Merkblatt einen
+    Warnhinweis enthalten, dass der effektive Jahreszins auf der Grundlage
+    des Sollzinssatzes für den Anfangszeitraum berechnet worden ist. Der
+    Warnhinweis ist durch ein zusätzliches anschauliches Beispiel für den
+    gemäß § 6 Absatz 2 bis 6 und 8 der Preisangabenverordnung errechneten
+    effektiven Jahreszins zu ergänzen. Bei mehrteiligen Krediten (z. B.
+    zugleich zum Teil mit festem und zum Teil mit variablem Zinssatz) sind
+    die entsprechenden Informationen für jeden einzelnen Teil des Kredits
+    zu erteilen.
 
-        –   einschließlich eines Hinweises auf jegliche anwendbaren Gebühren.
 
+(3) In der Rubrik „sonstige Komponenten des effektiven Jahreszinses“ sind
+    alle sonstigen im effektiven Jahreszins enthaltenen Kosten
+    aufzuführen, einschließlich einmaliger Kosten – etwa
+    Verwaltungsgebühren – sowie regelmäßige Kosten wie jährliche
+    Verwaltungsgebühren. Der Kreditgeber listet die einzelnen Kosten nach
+    Kategorien auf (einmalige Kosten, in den Raten enthaltene regelmäßig
+    anfallende Kosten, in den Raten nicht enthaltene regelmäßig anfallende
+    Kosten) und gibt die jeweiligen Beträge, den Zahlungsempfänger und den
+    Zeitpunkt der Fälligkeit an. Dabei müssen die für Vertragsverletzungen
+    anfallenden Kosten nicht enthalten sein. Ist die Höhe der Kosten nicht
+    bekannt, so gibt der Kreditgeber, falls möglich, einen Näherungswert
+    an; ist dies nicht möglich, so erläutert er, wie sich der Betrag
+    berechnen wird, wobei ausdrücklich anzugeben ist, dass der genannte
+    Betrag lediglich Hinweischarakter hat. Sind einzelne Kosten im
+    effektiven Jahreszins nicht enthalten, weil sie dem Kreditgeber nicht
+    bekannt sind, so ist dies optisch hervorzuheben.
 
+    Hat der Verbraucher dem Kreditgeber seine Wünsche in Bezug auf eines
+    oder mehrere Elemente seines Kredits mitgeteilt, beispielsweise in
+    Bezug auf die Laufzeit des Kreditvertrags oder den Gesamtkreditbetrag,
+    so muss der Kreditgeber diese Elemente soweit möglich aufgreifen;
+    sofern ein Kreditvertrag unterschiedliche Verfahren der
+    Inanspruchnahme mit jeweils unterschiedlichen Gebühren oder
+    Sollzinssätzen vorsieht und der Kreditgeber die Annahmen nach der
+    Anlage zu § 6 der Preisangabenverordnung zugrunde legt, so weist er
+    darauf hin, dass andere Mechanismen der Inanspruchnahme bei dieser Art
+    des Kreditvertrags zu einem höheren effektiven Jahreszins führen
+    können. Falls die Bedingungen für die Inanspruchnahme in die
+    Berechnung des effektiven Jahreszinses einfließen, hebt der
+    Kreditgeber die Gebühren optisch hervor, die mit anderen Mechanismen
+    der Inanspruchnahme verbunden sein können, welche nicht
+    notwendigerweise diejenigen sind, anhand deren der effektive
+    Jahreszins berechnet worden ist.
 
-        In Fällen, in denen eine genaue Angabe der Kosten zu diesem Zeitpunkt
-        nicht möglich ist, sollte der Hinweis erfolgen, dass ein Betrag vom
-        Darlehensnehmer zu zahlen ist, der ausreicht, um die sich aus der
-        Kündigung für den Darlehensgeber ergebenden Kosten auszugleichen.]
 
+(4) Fällt eine Gebühr für die Eintragung einer Hypothek oder
+    vergleichbaren Sicherheit an, so ist diese zusammen mit dem Betrag
+    (sofern bekannt) in diesem Abschnitt anzugeben oder – falls dies nicht
+    möglich ist – ist die Grundlage für die Festsetzung dieses Betrags
+    anzugeben. Ist die Gebühr bekannt und wurde sie in den effektiven
+    Jahreszins eingerechnet, so sind das Anfallen der Gebühr und deren
+    Höhe unter „einmalige Kosten“ auszuweisen. Ist dem Kreditgeber die
+    Gebühr nicht bekannt und wurde diese daher nicht in den effektiven
+    Jahreszins eingerechnet, so muss das Anfallen einer Gebühr klar und
+    deutlich in der Liste der dem Kreditgeber nicht bekannten Kosten
+    aufgeführt werden. In beiden Fällen ist die Standardformulierung gemäß
+    Teil A unter der entsprechenden Rubrik zu verwenden.
 
-*    *   13. Internes Beschwerdesystem
 
-    *   [Name, Anschrift und Telefonnummer der Kontaktstelle]
 
 
-*    *   14. Repräsentativer Tilgungsplan
+## Abschnitt „5. Häufigkeit und Anzahl der Ratenzahlungen“
 
-    *   [Der Darlehensgeber sollte einen repräsentativen und zusammenfassenden
-        Tilgungsplan vorlegen, der mindestens folgende Angaben enthalten
-        sollte:
 
-        –   monatliche oder (soweit dies der Fall ist) vierteljährliche Raten für
-            das erste Jahr;
+(1) Sind regelmäßige Zahlungen zu leisten, ist das Zahlungsintervall (z.
+    B. monatlich) anzugeben. Sind Zahlungen in unregelmäßigen Abständen
+    vorgesehen, ist dies dem Verbraucher klar zu erläutern.
 
 
-        –   gefolgt von jährlichen Angaben für die gesamte (Rest-)Laufzeit des
-            Darlehens.
+(2) Es sind alle über die gesamte Kreditlaufzeit zu leistenden Zahlungen
+    aufzuführen.
 
 
 
-        Der Tilgungsplan sollte auch Angaben
 
-        –   zu den Tilgungszahlungen,
+## Abschnitt „6. Höhe der einzelnen Raten“
 
 
-        –   zu den Zinszahlungen,
+(1) Es ist klar anzugeben, in welcher Währung der Kredit bereitgestellt
+    wird und die Raten gezahlt werden.
 
 
-        –   zur zu zahlenden Restschuld,
+(2) Kann sich die Höhe der Raten während der Kreditlaufzeit ändern, hat
+    der Kreditgeber anzugeben, für welchen Zeitraum die anfängliche
+    Ratenhöhe unverändert bleibt und wann und wie häufig sie sich in der
+    Folge ändern wird.
 
 
-        –   zu den einzelnen Raten sowie
+(3) Handelt es sich bei dem gewährten Kredit oder einem Teil davon um
+    einen endfälligen Kredit, so ist ein diesbezüglicher eindeutiger
+    Hinweis unter Verwendung der Formulierung in Teil A deutlich sichtbar
+    am Ende dieses Abschnitts einzufügen.
 
+    Muss der Verbraucher ein damit verbundenes Sparprodukt aufnehmen, um
+    einen durch eine Hypothek oder eine vergleichbare Sicherheit
+    gesicherten endfälligen Kredit zu erhalten, sind Betrag und Häufigkeit
+    von Zahlungen für dieses Produkt anzugeben.
 
-        –   zum Gesamtbetrag
 
+(4) Im Falle eines variablen Sollzinssatzes muss das Merkblatt einen
+    diesbezüglichen Hinweis enthalten, wobei die Formulierung unter Teil A
+    zu verwenden und ein anschauliches Beispiel für die maximale
+    Zahlungsrate anzuführen ist. Besteht eine Obergrenze, so muss in dem
+    Beispiel die Höhe der Raten aufgezeigt werden, die fällig sind, falls
+    der Sollzinssatz die Obergrenze erreicht. Besteht keine Obergrenze, so
+    bildet der ungünstigste denkbare Verlauf die Höhe der Ratenzahlungen
+    beim höchsten Sollzinssatz der letzten 20 Jahre ab oder – falls die
+    der Berechnung des Sollzinssatzes zugrunde liegenden Daten nur für
+    einen Zeitraum von weniger als 20 Jahren vorliegen – des längsten
+    Zeitraums, für den solche Daten vorliegen, und zwar ausgehend vom
+    Höchststand des jeweiligen externen Referenzsatzes, der gegebenenfalls
+    für die Berechnung des Sollzinssatzes herangezogen wurde oder vom
+    Höchststand eines Benchmarkzinssatzes, der von einer zuständigen
+    Behörde oder der EBA festgesetzt wird, sofern der Kreditgeber keinen
+    externen Referenzsatz verwendet. Die Anforderung, ein anschauliches
+    Beispiel anzuführen, gilt nicht für Kreditverträge, bei denen ein
+    fester Sollzinssatz für einen konkreten Anfangszeitraum von mindestens
+    fünf Jahren vereinbart wurde, der anschließend nach Verhandlungen
+    zwischen Kreditgeber und Verbraucher für einen weiteren Zeitraum
+    festgelegt werden kann. Bei mehrteiligen Krediten (d. h. zugleich zum
+    Teil mit festem und zum Teil mit variablem Zinssatz) sind die
+    entsprechenden Informationen für jeden einzelnen Teil des Kredits und
+    für den Gesamtkredit anzugeben.
 
 
-        enthalten.
-        Es sollte deutlich darauf hingewiesen werden, dass der Tilgungsplan
-        lediglich illustrativ ist und eine Warnung enthalten, falls das
-        angebotene wohnungswirtschaftliche Darlehen veränderlich verzinst
-        wird.]
+(5) (falls zutreffend) Wird der Kredit in einer anderen Währung als der
+    Landeswährung des Verbrauchers bereitgestellt oder ist er auf eine
+    andere Währung als die Landeswährung des Verbrauchers indexiert,
+    verdeutlicht der Kreditgeber – unter Verwendung der Formulierung unter
+    Teil A – anhand eines Zahlenbeispiels, wie sich Änderungen des
+    maßgeblichen Wechselkurses auf die Höhe der Raten auswirken können.
+    Dieses Beispiel basiert auf einem Kursverlust der Landeswährung des
+    Verbrauchers von 20 % und wird von einem Hinweis an hervorgehobener
+    Stelle begleitet, dass die Raten um mehr als den in diesem Beispiel
+    angenommenen Betrag steigen können. Besteht eine Obergrenze, die den
+    Anstieg auf weniger als 20 % begrenzt, so ist stattdessen der
+    Höchstwert der Zahlungen in der Landeswährung des Verbrauchers
+    anzugeben und der Hinweis auf etwaige weitere Anstiege entfällt.
 
 
-*    *   15. Verpflichtung, das Bank- und Gehaltskonto beim Darlehensgeber zu
-        führen
+(6) Handelt es sich bei dem gesamten Kreditvertrag oder einem Teil davon
+    um einen Kreditvertrag mit variablem Zinssatz und kommt ferner Nummer
+    5 zur Anwendung, so ist das Beispiel nach Nummer 4 auf der Grundlage
+    der Ratenhöhe im Sinne von Nummer 1 anzugeben.
 
-    *
 
-*    *   16. Widerrufsrecht
-        Sie haben das Recht, innerhalb von 14 Kalendertagen den
-        Darlehensvertrag zu widerrufen.
+(7) Werden die Raten in einer anderen Währung als der Kreditwährung
+    gezahlt oder hängt die Höhe der einzelnen in der Landeswährung des
+    Verbrauchers ausgedrückten Raten von dem entsprechenden Betrag in
+    einer anderen Währung ab, so sind in diesem Abschnitt der Termin, zu
+    dem der anwendbare Wechselkurs berechnet wurde, sowie entweder der
+    Wechselkurs oder die Grundlage für dessen Berechnung und die
+    Häufigkeit der Anpassung desselben anzugeben. Gegebenenfalls ist dabei
+    der Name der den Wechselkurs veröffentlichenden Einrichtung zu nennen.
 
-    *   Ja/Nein
 
+(8) Handelt es sich um einen Kredit mit abgegrenztem Zins, bei dem der
+    fällige Zins durch die Raten nicht vollständig zurückbezahlt und zum
+    ausstehenden Gesamtkreditbetrag hinzuaddiert wird, so ist zu
+    erläutern, wie und wann der abgegrenzte Zins als Barbetrag zu dem
+    Kredit hinzuaddiert wird und wie sich dies auf die Restschuld des
+    Verbrauchers auswirkt.
 
-*    *   17. Abtretung, Übertragung
-        Forderungen aus dem Darlehensverhältnis können an Dritte, z. B.
-        Inkassounternehmen, abgetreten werden.
-        Der Darlehensgeber kann das Vertragsverhältnis ohne Ihre Zustimmung
-        auf andere Personen übertragen, z. B. bei einer Umstrukturierung des
-        Geschäfts.
 
-    *   Ja/Nein
-        [Eventuell mit Einschränkungen, z. B. nur bei Zahlungsrückstand]
-        Ja/Nein
-        [Eventuell mit Einschränkungen]
 
 
-*    *   18. Zusätzliche Informationen im Fernabsatzgeschäft
-        (falls zutreffend)
+## Abschnitt „7. Beispiel eines Tilgungsplans“
 
-    *
 
-*    *   Darlehensvermittler oder Vertreter des Darlehensgebers in dem
-        Mitgliedstaat, in dem Sie Ihren Wohnsitz haben
-        Anschrift
-        Telefon\*)
-        E-Mail\*)
-        Fax\*)
-        Internet-Adresse\*)
-        \*) Freiwillige Angaben des Darlehensgebers.
+(1) Dieser Abschnitt ist aufzunehmen, falls es sich um einen Kredit mit
+    abgegrenztem Zins handelt, bei dem der fällige Zins durch die Raten
+    nicht vollständig zurückbezahlt und zum ausstehenden
+    Gesamtkreditbetrag hinzuaddiert wird, oder falls der Sollzinssatz für
+    die Laufzeit des Kreditvertrags festgeschrieben ist. Der Abschnitt ist
+    ferner aufzunehmen, wenn im Kreditvertrag ein Zeitpunkt für die
+    Rückzahlung des Kredits bestimmt werden soll. Soll im Kreditvertrag
+    ein Zeitpunkt für die Rückzahlung des Kredits bestimmt werden, ist der
+    Verbraucher darauf hinzuweisen, dass er vom Kreditgeber jederzeit
+    einen Tilgungsplan nach Artikel 247 § 14 des Einführungsgesetzes zum
+    Bürgerlichen Gesetzbuche verlangen kann.
 
-    *   [Name]
-        [Ladungsfähige Anschrift für Kontakte des Darlehensnehmers]
 
+(2) Kann der Sollzinssatz während der Kreditlaufzeit variieren, so muss
+    der Kreditgeber nach Angabe des Sollzinssatzes den Zeitraum nennen,
+    während dessen der Anfangszinssatz unverändert bleibt, wenn dieser
+    bekannt ist.
 
-*    *   Eintrag im Handelsregister
 
-    *   [Handelsregister, in das der Darlehensgeber eingetragen ist, und seine
-        Handelsregisternummer oder eine gleichwertige in diesem Register
-        verwendete Kennung]
+(3) Die Tabelle in diesem Abschnitt muss folgende Spalten enthalten:
+    „Rückzahlungsplan“ (z. B. Monat 1, Monat 2, Monat 3), „Ratenhöhe“,
+    „pro Rate zu zahlende Zinsen“, „sonstige in der Rate enthaltene
+    Kosten“ (falls zutreffend), „pro Rate zurückgezahltes Kapital“ und
+    „nach der jeweiligen Ratenzahlung noch zurückzuzahlendes Kapital“.
 
 
-*    *   Zuständige Aufsichtsbehörde
+(4) Für das erste Jahr der Rückzahlung sind für jede einzelne Ratenzahlung
+    die betreffenden Angaben und für jede einzelne Spalte die
+    Zwischensumme am Ende des ersten Jahres anzugeben. Für die Folgejahre
+    können die Angaben auf Jahresbasis gemacht werden. Am Ende der Tabelle
+    ist eine Reihe mit den Gesamtbeträgen für alle Spalten anzufügen. Die
+    vom Verbraucher gezahlte Gesamtsumme der Spalte „Höhe der
+    Ratenzahlung“ ist optisch deutlich hervorzuheben und als solche
+    darzustellen.
 
-    *
 
-*    *   Ausübung des Widerrufsrechts
+(5) Ist der Sollzinssatz Gegenstand einer Überprüfung und ist die
+    Ratenhöhe nach einer solchen Überprüfung nicht bekannt, kann der
+    Kreditgeber im Tilgungsplan für die gesamte Kreditlaufzeit dieselbe
+    Ratenhöhe angeben. In diesem Fall macht der Kreditgeber den
+    Verbraucher darauf aufmerksam, indem er den Unterschied zwischen
+    bereits feststehenden Beträgen und hypothetischen Beträgen optisch
+    verdeutlicht (z. B. durch Schriftgröße, Rahmen oder Schattierung).
+    Außerdem ist in leicht verständlicher Form zu erläutern, für welche
+    Zeiträume und aus welchen Gründen sich die in der Tabelle angegebenen
+    Beträge ändern können.
 
-    *   [Praktische Hinweise zur Ausübung des Widerrufsrechts, darunter Angabe
-        der Anschrift, an die die Widerrufserklärung zu senden ist, sowie der
-        Folgen bei Nichtausübung dieses Rechts]
 
 
-*    *   Rechtsordnungen, die der Darlehensgeber der Aufnahme von Beziehungen
-        zu Ihnen vor Abschluss des Darlehensvertrags zugrunde legt
 
-    *
+## Abschnitt „8. Zusätzliche Auflagen“
 
-*    *   Klauseln über das auf den Darlehensvertrag anwendbare Recht und das
-        zuständige Gericht
 
-    *   [Entsprechende Klauseln hier wiedergeben]
+(1) Der Kreditgeber nennt in diesem Abschnitt die mit der Kreditvergabe
+    verbundenen Auflagen, so die Auflage, die Immobilie zu versichern,
+    eine Lebensversicherung abzuschließen, das Gehalt auf ein bei dem
+    Kreditgeber geführtes Konto überweisen zu lassen oder ein anderes
+    Produkt oder eine andere Dienstleistung zu erwerben. Für jede dieser
+    Auflagen gibt der Kreditgeber an, wem gegenüber die Verpflichtung
+    besteht und bis wann ihr nachzukommen ist.
 
 
-*    *   Wahl der Sprache
+(2) Der Kreditgeber gibt die Dauer der Auflage an, z. B. bis zum Ablauf
+    des Kreditvertrags. Der Kreditgeber gibt für jede Verpflichtung die
+    dem Verbraucher entstehenden Kosten an, die im effektiven Jahreszins
+    nicht berücksichtigt wurden.
 
-    *   Die Informationen und Vertragsbedingungen werden in [Angabe der
-        Sprache] vorgelegt. Mit Ihrer Zustimmung werden wir während der
-        Laufzeit des Darlehensvertrags in [Angabe der Sprache(n)] mit Ihnen
-        Kontakt halten.
 
+(3) Der Kreditgeber teilt mit, ob der Verbraucher zum Erwerb etwaiger
+    Nebenleistungen verpflichtet ist, um den Kredit zu den genannten
+    Bedingungen zu erhalten, und ob der Verbraucher gegebenenfalls
+    verpflichtet ist, diese vom bevorzugten Anbieter des Kreditgebers zu
+    erwerben oder ob er diese von einem Anbieter seiner Wahl erwerben
+    kann. Hängt eine solche Möglichkeit davon ab, dass die Nebenleistungen
+    bestimmte Mindestmerkmale aufweisen, so sind diese in dieser Rubrik zu
+    beschreiben.
 
-*    *   Verfügbarkeit außergerichtlicher Beschwerde- und
-        Rechtsbehelfsverfahren und Zugang zu ihnen
+    Sofern der Kreditvertrag mit anderen Produkten gebündelt angeboten
+    wird, nennt der Kreditgeber die wichtigsten Merkmale dieser anderen
+    Produkte und gibt eindeutig an, ob der Verbraucher das Recht hat, den
+    Kreditvertrag oder die an ihn geknüpften Produkte voneinander getrennt
+    zu kündigen und zu welchen Bedingungen und mit welchen Folgen dies
+    möglich ist sowie gegebenenfalls die möglichen Folgen der Kündigung
+    der in Verbindung mit dem Kreditvertrag vorgeschriebenen
+    Nebenleistungen.
 
-    *   [Angabe, ob der Darlehensnehmer Zugang zu einem außergerichtlichen
-        Beschwerde- und Rechtsbehelfsverfahren hat, und gegebenenfalls die
-        Voraussetzungen für diesen Zugang]
 
 
-*    *   Zeitraum, für den der Darlehensgeber an die vorvertraglichen
-        Informationen gebunden ist
 
-    *   Diese Informationen gelten vom … bis …
+## Abschnitt „9. Vorzeitige Rückzahlung“
 
 
+(1) Der Kreditgeber nennt die etwaigen Bedingungen für eine vorzeitige
+    vollständige oder teilweise Rückzahlung des Kredits.
 
 
-In allen Fällen, in denen „falls zutreffend" angegeben ist, muss der
-Darlehensgeber oder Darlehensvermittler das betreffende Kästchen
-ausfüllen, wenn die Information für das Darlehen bedeutsam ist, oder
-die betreffende Information oder gesamte Zeile streichen, wenn die
-Information für das in Frage kommende Darlehen bedeutungslos ist.
+(2) In der Rubrik „Ablöseentschädigung“ weist der Kreditgeber den
+    Verbraucher auf die im Falle einer vorzeitigen Rückzahlung mögliche
+    Vorfälligkeitsentschädigung hin und gibt sofern möglich deren Höhe an.
+    Der Kreditgeber erläutert, wie die Vorfälligkeitsentschädigung
+    berechnet wird, und gibt den potenziellen Höchstbetrag der
+    Entschädigung an oder – falls dies nicht möglich ist – macht dem
+    Verbraucher in einem anschaulichen Beispiel deutlich, wie hoch die
+    Entschädigung bei Zugrundelegung unterschiedlicher möglicher Szenarien
+    ausfällt.
 
-Die Vermerke in eckigen Klammern dienen zur Erläuterung und sind durch
-die entsprechenden Angaben zu ersetzen.
 
 
-### Anlage 6 (zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1) Muster für eine Widerrufsinformation für Verbraucherdarlehensverträge
 
-(Fundstelle: BGBl. I 2010, 980 - 982;
-bezüglich der einzelnen Änderungen vgl. Fußnote)
+## Abschnitt „10. Flexible Merkmale“
+
+
+(1) Gegebenenfalls erläutert der Kreditgeber die Möglichkeit und die
+    Bedingungen für die Übertragung des Kredits auf einen anderen
+    Kreditnehmer oder eine andere Immobilie.
+
+
+(2) (falls zutreffend) Zusätzliche Merkmale: Wenn Produkte eines der unten
+    unter Nummer 5 aufgelisteten Merkmale enthalten, muss dieser Abschnitt
+    diese Merkmale auflisten und eine knappe Erläuterung der folgenden
+    Punkte enthalten:
+
+    –   die Bedingungen, unter denen der Verbraucher dieses Merkmal nutzen
+        kann;
+
+
+    –   jegliche mit dem Merkmal verbundenen Bedingungen;
+
+
+    –   ob gewöhnlich mit dem Merkmal verbundene gesetzliche oder andere
+        Schutzvorkehrungen für den Verbraucher wegfallen, wenn das Merkmal
+        Bestandteil des durch eine Hypothek oder vergleichbare Sicherheit
+        gesicherten Kredits ist, und
+
+
+    –   die Firma, die das Merkmal anbietet (sofern mit dem Kreditgeber nicht
+        identisch).
+
+
+
+
+
+(3) Wenn das Merkmal zusätzliche Kredite umfasst, müssen dem Verbraucher
+    in diesem Abschnitt die folgenden Punkte erläutert werden: der
+    Gesamtkreditbetrag (einschließlich des Kredits, der durch die Hypothek
+    oder vergleichbare Sicherheit gesichert ist); ob der zusätzliche
+    Kredit besichert ist; die entsprechenden Sollzinssätze und ob er einer
+    Regulierung unterliegt. Dieser zusätzliche Kreditbetrag ist entweder
+    im Rahmen der ursprünglichen Kreditwürdigkeitsprüfung enthalten oder –
+    wenn dies nicht der Fall ist – es wird in diesem Abschnitt
+    klargestellt, dass die Verfügbarkeit des zusätzlichen Betrags von
+    einer weiteren Prüfung der Fähigkeit des Verbrauchers, den Kredit
+    zurückzuzahlen, abhängt.
+
+
+(4) Wenn das Merkmal einen Träger für Spareinlagen umfasst, sind die
+    entsprechenden Zinssätze zu erläutern.
+
+
+(5) Die möglichen weiteren Merkmale sind:
+
+    –   „Überzahlungen/Unterzahlungen“ [es wird mehr oder weniger
+        zurückgezahlt als die im Rahmen der Amortisationsstruktur vereinbarte
+        normale Rate];
+
+
+    –   „Zahlungsunterbrechungen“ [Zeiträume, während denen der Verbraucher
+        keine Zahlungen leisten muss];
+
+
+    –   „Rückdarlehen“ [Möglichkeit für den Verbraucher, Beträge, die bereits
+        in Anspruch genommen und zurückbezahlt wurden, erneut aufzunehmen];
+
+
+    –   „verfügbare zusätzliche Kreditaufnahme ohne weitere Genehmigung“;
+
+
+    –   „zusätzliche besicherte oder unbesicherte Kreditaufnahme [in
+        Übereinstimmung mit Nummer 3 oben] „Kreditkarte“;
+
+
+    –   „damit verbundenes Girokonto“ sowie
+
+
+    –   „damit verbundenes Sparkonto“.
+
+
+
+
+
+(6) Der Kreditgeber kann alle weiteren Merkmale erläutern, die er als Teil
+    des Kreditvertrags anbietet und die nicht in den vorausgehenden
+    Abschnitten genannt sind.
+
+
+
+
+## Abschnitt „11. Sonstige Rechte des Kreditnehmers“
+
+
+(1) Der Kreditgeber weist auf die bestehenden Rechte hin wie etwa ein
+    Recht auf Widerruf oder Bedenkzeit oder gegebenenfalls andere Rechte
+    wie etwa ein Recht auf Übertragbarkeit (einschließlich Abtretung),
+    spezifiziert die Voraussetzungen für ihre Ausübung, die bei ihrer
+    Ausübung vom Verbraucher einzuhaltenden Verfahren – unter anderem die
+    Adresse, an die die Mitteilung über den Widerruf zu richten ist –
+    sowie die entsprechenden Gebühren (falls zutreffend).
+
+
+(2) Falls der Verbraucher ein Recht auf Bedenkzeit oder Widerruf hat, so
+    wird deutlich darauf hingewiesen. Bei einem Widerrufsrecht nach § 495
+    des Bürgerlichen Gesetzbuchs kann für die Information zu dem
+    „Zeitpunkt, zu dem die Frist beginnt“, die Formulierung aus Satz 2
+    (gegebenenfalls mit Gestaltungshinweis [2]) des Musters in Anlage 8 zu
+    Artikel 247 § 6 Absatz 2 und Artikel 247 § 12 Absatz 1 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
+
+
+(3) Wird der Kreditvertrag im Rahmen eines Fernabsatzgeschäfts angeboten
+    und besteht kein Widerrufsrecht nach § 495 des Bürgerlichen
+    Gesetzbuchs, ist der Verbraucher darüber zu unterrichten, ob er über
+    ein Widerrufsrecht nach § 312g des Bürgerlichen Gesetzbuchs verfügt
+    oder nicht. Im Falle des Bestehens eines solchen Widerrufsrechts ist
+    der Verbraucher gemäß Artikel 246b § 1 Absatz 1 Satz 1 Nummer 12 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche zu informieren. Für
+    die Information zu dem „Zeitpunkt, zu dem die Frist beginnt“, kann die
+    Formulierung aus Satz 2 (gegebenenfalls mit Gestaltungshinweis [1])
+    des Musters in Anlage 3 zu Artikel 246b § 2 Absatz 3 des
+    Einführungsgesetzes zum Bürgerlichen Gesetzbuche verwandt werden.
+
+
+
+
+## Abschnitt „12. Beschwerden“
+
+
+(1) In diesem Abschnitt werden die interne Kontaktstelle [Bezeichnung der
+    einschlägigen Abteilung] und ein Weg zur Kontaktaufnahme mit dieser
+    Beschwerdestelle [Anschrift] oder [Telefonnummer] oder [eine
+    Kontaktperson] [Kontaktangaben] sowie ein Link zu einem
+    Beschwerdeverfahren auf der entsprechenden Seite einer Website oder
+    ähnlichen Informationsquelle angegeben.
+
+
+(2) Es wird der Name der externen Stelle für außergerichtliche Beschwerde-
+    und Rechtsbehelfsverfahren angegeben und – falls die Nutzung des
+    internen Beschwerdeverfahrens eine Voraussetzung für den Zugang zu
+    dieser Stelle ist – wird unter Verwendung der Formulierung in Teil A
+    auf diesen Umstand hingewiesen.
+
+
+(3) Bei Kreditverträgen mit einem Verbraucher, der seinen Wohnsitz in
+    einem anderen Mitgliedstaat hat, macht der Kreditgeber diesen auf das
+    FIN-NET aufmerksam (http://ec.europa.eu/internal\_market/fin-net/).
+
+
+
+
+Abschnitt „13. Nichteinhaltung der aus dem Kreditvertrag
+## erwachsenden Verpflichtungen: Konsequenzen für den Kreditnehmer“
+
+
+(1) Kann die Nichteinhaltung einer aus dem Kredit erwachsenden
+    Verpflichtung durch den Verbraucher für diesen finanzielle oder
+    rechtliche Konsequenzen haben, erläutert der Kreditgeber in diesem
+    Abschnitt die wichtigsten Fälle (z. B. Zahlungsverzug/Zahlungsausfall,
+    Nichteinhaltung der in Abschnitt 8 – „Zusätzliche Auflagen“ –
+    genannten Verpflichtungen) und gibt an, wo weitere Informationen
+    hierzu eingeholt werden können.
+
+
+(2) Der Kreditgeber gibt für jeden dieser Fälle in klarer, leicht
+    verständlicher Form an, welche Sanktionen oder Konsequenzen daraus
+    erwachsen können. Hinweise auf schwerwiegende Konsequenzen sind
+    optisch hervorzuheben.
+
+
+(3) Kann die zur Besicherung des Kredits verwendete Immobilie an den
+    Kreditgeber zurückgegeben oder übertragen werden, falls der
+    Verbraucher seinen Verpflichtungen nicht nachkommt, so ist in diesem
+    Abschnitt unter Verwendung der Formulierung in Teil A auf diesen
+    Umstand hinzuweisen.
+
+
+
+
+## Abschnitt „14. Weitere Angaben“
+
+
+(1) Im Falle von im Fernabsatz geschlossenen Verträgen enthält dieser
+    Abschnitt sämtliche Angaben zu dem auf den Kreditvertrag anwendbaren
+    Recht oder zur zuständigen Gerichtsbarkeit.
+
+
+(2) Beabsichtigt der Kreditgeber, während der Vertragslaufzeit mit dem
+    Verbraucher in einer anderen Sprache als der des ESIS-Merkblatts zu
+    kommunizieren, wird dies ebenfalls erwähnt und die Sprache angegeben,
+    in der kommuniziert werden soll. Die Verpflichtung zur
+    vorvertraglichen Information bei Fernabsatzverträgen über die
+    verwendete Sprache gemäß § 312d des Bürgerlichen Gesetzbuchs und
+    Artikel 246b § 1 Absatz 1 Nummer 17 des Einführungsgesetzes zum
+    Bürgerlichen Gesetzbuche bleibt hiervon unberührt.
+
+
+(3) Der Kreditgeber oder der Kreditvermittler weisen auf das Recht des
+    Verbrauchers hin, dass er gegebenenfalls zumindest zum Zeitpunkt der
+    Vorlage eines für den Kreditgeber verbindlichen Angebots eine
+    Ausfertigung des Kreditvertragsentwurfs erhält oder ihm dies angeboten
+    wird.
+
+
+
+
+## Abschnitt „15. Aufsichtsbehörde“
+
+Es sind die Behörden anzugeben, die für die Überwachung des
+vorvertraglichen Stadiums der Kreditvergabe zuständig sind.
+
+(zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)
+
+### Anlage 7 Muster für eine Widerrufsinformation für Allgemein-Verbraucherdarlehensverträge
+
+(Fundstelle: BGBl. I 2016, S. 430 - 432)
 
 
 *    *   **Widerrufsinformation**
@@ -8639,27 +10988,525 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 
 *    *   **Widerrufsrecht**
 
-    *
 
 *    *   Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14
-        Tagen ohne Angabe von Gründen in Textform (z. B. Brief, Fax, E-Mail)
-        widerrufen*                        . Die Frist beginnt nach Abschluss
-        des Vertrags, aber erst, nachdem der Darlehensnehmer alle
+        Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach
+        Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer alle
         Pflichtangaben nach § 492 Absatz 2 BGB (z. B. Angabe zur Art des
         Darlehens, Angabe zum Nettodarlehensbetrag, Angabe zur
-        Vertragslaufzeit) erhalten hat*                       . Der
-        Darlehensnehmer hat alle Pflichtangaben erhalten, wenn sie in der für
-        den Darlehensnehmer bestimmten Ausfertigung seines Antrags oder in der
-        für den Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde
-        oder in einer für den Darlehensnehmer bestimmten Abschrift seines
-        Antrags oder der Vertragsurkunde enthalten sind und dem
-        Darlehensnehmer eine solche Unterlage zur Verfügung gestellt worden
-        ist. Über in den Vertragstext nicht aufgenommene Pflichtangaben kann
-        der Darlehensnehmer nachträglich in Textform informiert werden; die
+        Vertragslaufzeit) erhalten hat. Der Darlehensnehmer hat alle
+        Pflichtangaben erhalten, wenn sie in der für den Darlehensnehmer
+        bestimmten Ausfertigung seines Antrags oder in der für den
+        Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in
+        einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder
+        der Vertragsurkunde enthalten sind und dem Darlehensnehmer eine solche
+        Unterlage zur Verfügung gestellt worden ist. Über in den Vertragstext
+        nicht aufgenommene Pflichtangaben kann der Darlehensnehmer
+        nachträglich auf einem dauerhaften Datenträger informiert werden; die
         Widerrufsfrist beträgt dann einen Monat. Der Darlehensnehmer ist mit
         den nachgeholten Pflichtangaben nochmals auf den Beginn der
         Widerrufsfrist hinzuweisen. Zur Wahrung der Widerrufsfrist genügt die
-        rechtzeitige Absendung des Widerrufs. Der Widerruf ist zu richten an:*
+        rechtzeitige Absendung des Widerrufs, wenn die Erklärung auf einem
+        dauerhaften Datenträger (z. B. Brief, Telefax, E-Mail) erfolgt. Der
+        Widerruf ist zu richten an:*
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   **Widerrufsfolgen**
+
+
+*    *   Soweit das Darlehen bereits ausbezahlt wurde, hat es der
+        Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen und
+        für den Zeitraum zwischen der Auszahlung und der Rückzahlung des
+        Darlehens den vereinbarten Sollzins zu entrichten. Die Frist beginnt
+        mit der Absendung der Widerrufserklärung. Für den Zeitraum zwischen
+        Auszahlung und Rückzahlung ist bei vollständiger Inanspruchnahme des
+        Darlehens pro Tag ein Zinsbetrag in Höhe von*  Euro zu zahlen. Dieser
+        Betrag verringert sich entsprechend, wenn das Darlehen nur teilweise
+        in Anspruch genommen wurde.*
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+
+
+## Gestaltungshinweise:
+
+
+*    *   *
+
+    *   Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des
+        Widerrufsadressaten. Zusätzlich können angegeben werden:
+        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine
+        Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält,
+        auch eine Internet-Adresse.
+
+
+*    *   *
+
+    *   Bei Anwendung der Gestaltungshinweise* ,*  oder*  ist hier folgende
+        Unterüberschrift einzufügen:
+
+
+*    *
+    *   „Besonderheiten bei weiteren Verträgen”.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
+
+
+*    *
+    *   a)
+
+    *   Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum
+        Gegenstand hat:
+
+
+*    *
+    *
+    *   „ –
+
+    *   Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch
+        an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im
+        Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
+
+
+*    *
+    *
+    *   –
+
+    *   Steht dem Darlehensnehmer in Bezug auf den [einsetzen\*\*\*:
+        verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem
+        Widerruf des [einsetzen\*\*\*: verbundenen Vertrags] auch an den
+        Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des
+        Widerrufs sind die in dem [einsetzen\*\*\*: verbundenen Vertrag]
+        getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung
+        maßgeblich.“
+
+
+*    *
+    *   b)
+
+    *   Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
+
+
+*    *
+    *
+    *   „–
+
+    *   Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des
+        verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht
+        mehr gebunden.“
+
+
+*    *   *
+
+    *   Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des
+        Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist
+        und das nicht gleichzeitig die Voraussetzungen eines verbundenen
+        Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich
+        zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz
+        2 Satz 2 BGB), ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des
+        im Darlehensvertrag angegebenen Geschäfts] (im Folgenden: angegebenes
+        Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf
+        des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr
+        gebunden.“
+
+
+*    *   *
+
+    *   Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden
+        Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines
+        verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes
+        eingefügt werden:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein
+        Widerrufsrecht zu, so ist er mit wirksamem Widerruf des
+        Darlehensvertrags auch an den [einsetzen: Bezeichnung des mit dem
+        Darlehensvertrag zusammenhängenden Vertrags] (im Folgenden:
+        zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
+
+
+*    *   *
+
+    *   Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge
+        sind als Dezimalstellen anzugeben.
+
+
+*    *   *
+
+    *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
+        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten,
+        ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu
+        ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen
+        erbracht hat und nicht zurückverlangen kann.“
+
+
+*    *   *
+
+    *   Bei Anwendung der Gestaltungshinweise* ,* ,* ,* ,* ,*  oder*  ist hier
+        als Unterüberschrift einzufügen:
+
+
+*    *
+    *   „Besonderheiten bei weiteren Verträgen”.
+
+
+*    *
+    *   Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe
+        ausschließlich der Hinweis*  verwandt wird und weitere Verträge nicht
+        vorliegen.
+
+
+*    *
+    *   Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden
+        die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch
+        durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene,
+        wiederholte Nennung der Hinweise erfolgen.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf [einsetzen\*\*\*: den
+        verbundenen Vertrag] ein Widerrufsrecht zu, sind im Fall des wirksamen
+        Widerrufs [einsetzen\*\*\*: des verbundenen Vertrags] Ansprüche des
+        Darlehensgebers auf Zahlung von Zinsen und Kosten aus der
+        Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer
+        ausgeschlossen.“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, oder bei einem
+        zusammenhängenden Vertrag, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wurde, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs dieses
+        Darlehensvertrags an [einsetzen\*\*\*: den verbundenen Vertrag
+        und/oder den zusammenhängenden Vertrag] nicht mehr gebunden, sind
+        insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung
+        einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf
+        die Überlassung einer Sache, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden,
+        wenn der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer angeboten hat, die
+        Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die
+        unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn
+        der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer sich bereit erklärt
+        hat, diese Kosten zu tragen, oder er es unterlassen hat, den
+        Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
+        zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
+        geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
+        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
+        abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
+        zurückgesandt werden können.“
+
+
+*    *
+    *   Der Unterabsatz kann wie folgt ergänzt werden:
+
+
+*    *
+    *   „Wenn der Darlehensnehmer die auf Grund [einsetzen\*\*\*: des
+        verbundenen Vertrags oder des zusammenhängenden Vertrags] überlassene
+        Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand
+        zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt
+        allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit
+        den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der
+        Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
+
+
+*    *   *
+
+    *   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt
+        Folgendes:
+
+
+*    *
+    *   a)
+
+    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
+        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
+        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
+        sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
+        Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB zu geben.
+
+
+*    *
+    *
+    *   Diese können durch die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  Buchstabe c der Anlage 1 zu Artikel 246a § 1
+        Absatz 2 Satz 2 EGBGB ergänzt werden.
+
+
+*    *
+    *   b)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann
+        hier folgender Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich
+        zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der
+        Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung
+        zur Zahlung von Wertersatz, kann dies dazu führen, dass der
+        Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den
+        Zeitraum bis zum Widerruf dennoch erfüllen muss.”
+
+
+*    *
+    *   c)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
+        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
+        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
+        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
+        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
+        Fernwärme, können hier die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB gegeben werden.
+
+
+*    *
+    *   d)
+
+    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
+        Datenträger befindlichen digitalen Inhalten, kann hier folgender
+        Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er
+        ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit
+        der Lieferung der digitalen Inhalte begonnen wird.”
+
+
+*    *   *
+
+    *   Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier
+        Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs des [einsetzen\*\*\*:
+        angegebenen Geschäfts] an den Darlehensvertrag nicht mehr gebunden,
+        führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen,
+        die eintreten würden, wenn der Darlehensvertrag selbst widerrufen
+        worden wäre (vgl. oben unter „Widerrufsfolgen“).“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags
+        nicht mehr an den weiteren Vertrag gebunden ist oder infolge des
+        Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag
+        gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei
+        Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers
+        aus [einsetzen\*\*\*: dem verbundenen Vertrag] bereits zugeflossen,
+        tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer
+        hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und
+        Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“
+
+
+*    *
+    *   Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich
+        Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift
+        und folgender Hinweis einzufügen:
+
+
+*    *
+    *   **„Einwendungen bei verbundenen Verträgen”.**
+
+
+*    *
+    *   „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern,
+        soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber
+        dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies
+        gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt
+        oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung
+        beruht, die zwischen dem Darlehensnehmer und dem anderen
+        Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen
+        wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner
+        Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
+        verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”
+
+
+*    *
+    *   Dieser Hinweis und die Überschrift können entfallen, wenn der
+        Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro
+        beträgt.
+
+
+*    *   *
+
+    *   Die Vertragsparteien können auch direkt angesprochen werden (z. B.
+        „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen
+        Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien
+        verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und
+        „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen
+        sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit
+        „Leasinggeber“ und „Leasingnehmer“.
+
+
+*    *   \*\*
+
+    *   Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung
+        des Vertrags/Geschäfts.
+
+
+*    *   *\*\*
+
+    *   Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende
+        Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch
+        Verwendung der allgemeinen Bezeichnung des jeweiligen
+        Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft,
+        zusammenhängender Vertrag) erfolgen.
+
+
+
+
+(zu Artikel 247 § 6 Absatz 2 und § 12 Absatz 1)
+
+### Anlage 8 Muster für eine Widerrufsinformation für Immobiliar-Verbraucherdarlehensverträge
+
+(Fundstelle: BGBl. I 2016, S. 433 - 435)
+
+
+*    *   **Widerrufsinformation**
+
+
+*    *   **Widerrufsrecht**
+
+
+*    *   Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14
+        Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach
+        Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese
+        Widerrufsinformation erhalten hat. Der Darlehensnehmer hat diese
+        Widerrufsinformation erhalten, wenn sie in der für den Darlehensnehmer
+        bestimmten Ausfertigung seines Antrags oder in der für den
+        Darlehensnehmer bestimmten Ausfertigung der Vertragsurkunde oder in
+        einer für den Darlehensnehmer bestimmten Abschrift seines Antrags oder
+        der Vertragsurkunde enthalten ist und dem Darlehensnehmer eine solche
+        Unterlage zur Verfügung gestellt worden ist. Über eine in den
+        Vertragstext nicht aufgenommene Angabe zum Widerrufsrecht kann der
+        Darlehensnehmer nachträglich auf einem dauerhaften Datenträger
+        informiert werden; die Widerrufsfrist beträgt dann einen Monat. Der
+        Darlehensnehmer ist mit der nachgeholten Widerrufsinformation nochmals
+        auf den Beginn der Widerrufsfrist hinzuweisen. Zur Wahrung der
+        Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs, wenn
+        die Erklärung auf einem dauerhaften Datenträger (z. B. Brief, Telefax,
+        E-Mail) erfolgt. Der Widerruf ist zu richten an:*
+
+
+*    *   **Information über das Erlöschen des Widerrufsrechts**
+
+
+*    *   Das Widerrufsrecht erlischt spätestens zwölf Monate und 14 Tage nach
+        dem Zeitpunkt des Vertragsschlusses oder, sofern dieser Zeitpunkt nach
+        dem Vertragsschluss liegt, dem Zeitpunkt zu dem dem Darlehensnehmer
+        eine für ihn bestimmte Ausfertigung oder Abschrift seines Antrags oder
+        der Vertragsurkunde zur Verfügung gestellt worden ist. Das
+        Widerrufsrecht erlischt auch dann, wenn die Widerrufsinformation oder
+        die Angaben hierzu im Vertrag fehlerhaft waren oder ganz unterblieben
+        sind.
 
 
 *    *   *
@@ -8683,9 +11530,12 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
         Sollzins zu entrichten. Die Frist beginnt mit der Absendung der
         Widerrufserklärung. Für den Zeitraum zwischen Auszahlung und
         Rückzahlung ist bei vollständiger Inanspruchnahme des Darlehens pro
-        Tag ein Zinsbetrag in Höhe von*                         Euro zu
-        zahlen. Dieser Betrag verringert sich entsprechend, wenn das Darlehen
-        nur teilweise in Anspruch genommen wurde.**
+        Tag ein Zinsbetrag in Höhe von*  Euro zu zahlen. Dieser Betrag
+        verringert sich entsprechend, wenn das Darlehen nur teilweise in
+        Anspruch genommen wurde. Wenn der Darlehensnehmer nachweist, dass der
+        Wert seines Gebrauchsvorteils niedriger war als der Vertragszins, muss
+        er nur den niedrigeren Betrag zahlen. Dies kann z. B. in Betracht
+        kommen, wenn der marktübliche Zins geringer war als der Vertragszins.*
 
 
 *    *   *
@@ -8709,327 +11559,2117 @@ bezüglich der einzelnen Änderungen vgl. Fußnote)
 *    *   *
 
 
+*    *   *
 
 
-**Gestaltungshinweise**
 
 
-*   Bei entgeltlichen Finanzierungshilfen betreffend die Überlassung von
-    Sachen ist hier Folgendes einzufügen:
-    „ ; wenn ihm die Sache vor Fristablauf überlassen wird, kann er den
-    Widerruf auch durch Rücksendung der Sache erklären”.
+## Gestaltungshinweise:
 
 
-*   Bei Verträgen im elektronischen Geschäftsverkehr (§ 312g Absatz 1 Satz
-    1 BGB) ist hier Folgendes einzufügen:
-    „, aber erst, nachdem der Darlehensgeber seine Pflichten aus § 312g
-    Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 § 3 EGBGB erfüllt
-    hat”.
+*    *   *
+
+    *   Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des
+        Widerrufsadressaten. Zusätzlich können angegeben werden:
+        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine
+        Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält,
+        auch eine Internet-Adresse.
 
 
-*   Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des
-    Widerrufsadressaten. Zusätzlich können angegeben werden:
-    Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine
-    Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält,
-    auch eine Internet-Adresse.
+*    *   *
+
+    *   Bei Anwendung der Gestaltungshinweise* ,*  oder*  ist hier folgende
+        Unterüberschrift einzufügen:
 
 
-*   Bei Anwendung der Gestaltungshinweise*                    ,*
-    oder*                     sind hier folgende Unterüberschrift und
-    folgender Hinweis einzufügen:
-    „Besonderheiten bei weiteren Verträgen”
-    „Wenn dem Darlehensnehmer für den weiteren Vertrag ein Rückgaberecht
-    an Stelle eines Widerrufsrechts eingeräumt wurde, steht die Rückgabe
-    im Folgenden dem Widerruf gleich.”
+*    *
+    *   „Besonderheiten bei weiteren Verträgen”.
 
 
-*   Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
+*    *   *
 
-    a)  wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum
+    *   Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
+
+
+*    *
+    *   a)
+
+    *   Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum
         Gegenstand hat:
-        „
-
-        –   Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch
-            an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im
-            Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
 
 
-        –   Steht dem Darlehensnehmer in Bezug auf den [einsetzen\*\*\*:
-            verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem
-            Widerruf des [einsetzen\*\*\*: verbundenen Vertrags] auch an den
-            Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des
-            Widerrufs sind die in dem [einsetzen\*\*\*: verbundenen Vertrag]
-            getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung
-            maßgeblich.
+*    *
+    *
+    *   „–
+
+    *   Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch
+        an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im
+        Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
 
 
+*    *
+    *
+    *   –
 
-        ”
-
-
-    b)  wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
-        „
-
-        –   Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des
-            verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht
-            mehr gebunden.
-
-
-
-        ”
+    *   Steht dem Darlehensnehmer in Bezug auf den [einsetzen\*\*\*:
+        verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem
+        Widerruf des [einsetzen\*\*\*: verbundenen Vertrags] auch an den
+        Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des
+        Widerrufs sind die in dem [einsetzen\*\*\*: verbundenen Vertrag]
+        getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung
+        maßgeblich.“
 
 
+*    *
+    *   b)
+
+    *   Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
 
 
+*    *
+    *
+    *   „–
 
-*   Bei einem Geschäft, dessen Vertragsgegenstand (die Ware oder Leistung
-    des Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben
-    ist und das nicht gleichzeitig die Voraussetzungen eines verbundenen
-    Vertrags gemäß § 358 BGB erfüllt (angegebenes Geschäft gemäß § 359a
-    Absatz 1 BGB), ist hier Folgendes einzufügen:
-    „
+    *   Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des
+        verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht
+        mehr gebunden.“
 
-    –   Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des
+
+*    *   *
+
+    *   Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des
+        Unternehmers) in dem Verbraucherdarlehensvertrag genau angegeben ist
+        und das nicht gleichzeitig die Voraussetzungen eines verbundenen
+        Vertrags gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich
+        zu dessen Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz
+        2 Satz 2 BGB), ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des
         im Darlehensvertrag angegebenen Geschäfts] (im Folgenden: angegebenes
         Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf
         des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr
-        gebunden.
+        gebunden.“
 
 
+*    *   *
 
-    ”
+    *   Bei einem mit einem Verbraucherdarlehensvertrag zusammenhängenden
+        Vertrag (§ 360 BGB), der nicht gleichzeitig die Voraussetzungen eines
+        verbundenen Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes
+        eingefügt werden:
 
 
-*   Bei einem Vertrag über eine vom Darlehensgeber für die
-    Darlehensgewährung verlangte Zusatzleistung (§ 359a Absatz 2 BGB in
-    Verbindung mit Artikel 247 § 8 EGBGB), der nicht gleichzeitig die
-    Voraussetzungen eines verbundenen Vertrags gemäß § 358 BGB erfüllt und
-    der nicht den durch das Darlehen finanzierten Erwerb von
-    Finanzinstrumenten zum Gegenstand hat, kann hier Folgendes eingefügt
-    werden:
-    „
+*    *
+    *   „–
 
-    –   Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein
+    *   Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein
         Widerrufsrecht zu, so ist er mit wirksamem Widerruf des
-        Darlehensvertrags auch an den [einsetzen: Bezeichnung des Vertrags
-        über eine Zusatzleistung] (im Folgenden: Vertrag über eine
-        Zusatzleistung)\*\* nicht mehr gebunden, wenn der [einsetzen\*\*\*:
-        Vertrag über eine Zusatzleistung] in unmittelbarem Zusammenhang mit
-        dem Darlehensvertrag abgeschlossen wurde.
+        Darlehensvertrags auch an den [einsetzen: Bezeichnung des mit dem
+        Darlehensvertrag zusammenhängenden Vertrags] (im Folgenden:
+        zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
 
 
+*    *   *
 
-    ”
-
-
-*   Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge
-    sind als Dezimalstellen anzugeben.
+    *   Hier ist der genaue Zinsbetrag in Euro pro Tag einzufügen. Centbeträge
+        sind als Dezimalstellen anzugeben.
 
 
-*   Ist das Darlehen durch ein Grundpfandrecht gesichert, ist hier
-    Folgendes einzufügen:
-    „Wenn der Darlehensnehmer nachweist, dass der Wert seines
-    Gebrauchsvorteils niedriger war als der Vertragszins, muss er nur den
-    niedrigeren Betrag zahlen. Dies kann z. B. in Betracht kommen, wenn
-    der marktübliche Zins geringer war als der Vertragszins.”
+*    *   *
+
+    *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
+        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten,
+        ist hier Folgendes einzufügen:
 
 
-*   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
-    Aufwendungen gemäß § 495 Absatz 2 Satz 1 Nummer 3 Halbsatz 1 BGB und
-    will er sich für den Fall des Widerrufs die Geltendmachung dieses
-    Anspruchs vorbehalten, ist hier Folgendes einzufügen:
-    „
+*    *
+    *   „–
 
-    –   Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu
+    *   Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu
         ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen
-        erbracht hat und nicht zurückverlangen kann.
+        erbracht hat und nicht zurückverlangen kann.“
 
 
+*    *   *
 
-    ”
-
-
-*   Bei Anwendung der Gestaltungshinweise*                    ,*
-    ,*                    ,*                    ,*
-    oder*                     ist hier als Unterüberschrift einzufügen:
-    „Besonderheiten bei weiteren Verträgen”.
-    Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe
-    betreffend die Überlassung einer Sache ausschließlich der Hinweis*
-    verwandt wird und weitere Verträge nicht vorliegen.
-    Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden
-    die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch
-    durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene,
-    wiederholte Nennung der Hinweise erfolgen.
+    *   Bei Anwendung der Gestaltungshinweise* ,* ,* ,* ,* ,*  oder*  ist hier
+        als Unterüberschrift einzufügen:
 
 
-*   Bei einem verbundenen Vertrag nach § 358 BGB oder einem angegebenen
-    Geschäft nach § 359a Absatz 1 BGB, der oder das nicht den Erwerb von
-    Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
-    „
-
-    –   Steht dem Darlehensnehmer in Bezug auf [einsetzen\*\*\*: den
-        verbundenen Vertrag und/oder das angegebene Geschäft] ein
-        Widerrufsrecht zu, sind im Fall des wirksamen Widerrufs
-        [einsetzen\*\*\*: des verbundenen Vertrags und/oder des angegebenen
-        Geschäfts] Ansprüche des Darlehensgebers auf Zahlung von Zinsen und
-        Kosten aus der Rückabwicklung des Darlehensvertrags gegen den
-        Darlehensnehmer ausgeschlossen.
+*    *
+    *   „Besonderheiten bei weiteren Verträgen.”
 
 
+*    *
+    *   Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe
+        ausschließlich der Hinweis*  verwandt wird und weitere Verträge nicht
+        vorliegen.
 
-    ”
+
+*    *
+    *   Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden
+        die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch
+        durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene,
+        wiederholte Nennung der Hinweise erfolgen.
 
 
-*   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
-    Finanzinstrumenten zum Gegenstand hat oder bei einem Vertrag über eine
-    Zusatzleistung, wenn von Gestaltungshinweis*
-    Gebrauch gemacht wurde, ist hier Folgendes einzufügen:
-    „
+*    *   *
 
-    –   Ist der Darlehensnehmer aufgrund des Widerrufs dieses
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf [einsetzen\*\*\*: den
+        verbundenen Vertrag] ein Widerrufsrecht zu, sind im Fall des wirksamen
+        Widerrufs [einsetzen\*\*\*: des verbundenen Vertrags] Ansprüche des
+        Darlehensgebers auf Zahlung von Zinsen und Kosten aus der
+        Rückabwicklung des Darlehensvertrags gegen den Darlehensnehmer
+        ausgeschlossen.“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, oder bei einem
+        zusammenhängenden Vertrag, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wurde, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs dieses
         Darlehensvertrags an [einsetzen\*\*\*: den verbundenen Vertrag
-        und/oder den Vertrag über eine Zusatzleistung] nicht mehr gebunden,
-        sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren
-        und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben.
+        und/oder den zusammenhängenden Vertrag] nicht mehr gebunden, sind
+        insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
 
 
+*    *   *
 
-    ”
-
-
-*   Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung
-    einer Sache oder bei einem Vertrag über eine entgeltliche
-    Finanzierungshilfe, deren Vertragsgegenstand die Überlassung einer
-    Sache ist, sowie bei einem Vertrag über eine Zusatzleistung gerichtet
-    auf die Überlassung einer Sache, wenn von Gestaltungshinweis*
-    Gebrauch gemacht wurde, ist hier folgender Unterabsatz einzufügen:
-    „
-
-    –   Paketversandfähige Sachen sind auf Kosten und auf Gefahr des
-        Vertragspartners des Darlehensnehmers zurückzusenden. Die Kosten der
-        Rücksendung hat der Darlehensnehmer abweichend davon zu tragen, wenn
-        dies im [einsetzen\*\*\*: verbundenen Vertrag und/oder Vertrag über
-        eine Zusatzleistung] wirksam vereinbart wurde. Nicht
-        paketversandfähige Sachen werden beim Darlehensnehmer abgeholt.
+    *   Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung
+        einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf
+        die Überlassung einer Sache, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
 
 
+*    *
+    *   „–
 
-    ”
-
-    Der zweite Satz („Die Kosten der Rücksendung …“) entfällt, wenn ein
-    weiterer Vertrag nicht vorliegt.
-
-    Der Unterabsatz kann wie folgt ergänzt werden:
-    „Wenn der Darlehensnehmer die aufgrund [einsetzen\*\*\*: des
-    verbundenen Vertrags oder des Vertrags über eine Zusatzleistung oder
-    einsetzen: Bezeichnung der entgeltlichen Finanzierungshilfe]
-    überlassene Sache sowie Nutzungen (z. B. Gebrauchsvorteile) nicht oder
-    teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren
-    beziehungsweise herausgeben kann, hat er insoweit Wertersatz zu
-    leisten. Für die Verschlechterung der Sache muss der Darlehensnehmer
-    Wertersatz nur leisten, soweit die Verschlechterung auf einen Umgang
-    mit der Sache zurückzuführen ist, der über die Prüfung der
-    Eigenschaften und der Funktionsweise hinausgeht. Unter „Prüfung der
-    Eigenschaften und der Funktionsweise“ versteht man das Testen und
-    Ausprobieren der jeweiligen Ware, wie es etwa im Ladengeschäft möglich
-    und üblich ist.”
-
-    Handelt es sich bei dem verbundenen Vertrag oder dem Vertrag über eine
-    Zusatzleistung um einen Fernabsatzvertrag, für den ein Widerrufsrecht
-    gemäß § 312d BGB besteht oder bestand, sind die beiden vorhergehenden
-    Sätze durch folgende Sätze zu ersetzen:
-
-    „Für die Verschlechterung der Sache und für gezogene Nutzungen muss
-    der Darlehensnehmer Wertersatz nur leisten, soweit die
-    Verschlechterung auf einen Umgang mit der Sache zurückzuführen ist,
-    der über die Prüfung der Eigenschaften und der Funktionsweise
-    hinausgeht. Unter „Prüfung der Eigenschaften und der Funktionsweise“
-    versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es
-    etwa im Ladengeschäft möglich und üblich ist.”
+    *   Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden,
+        wenn der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer angeboten hat, die
+        Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die
+        unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn
+        der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer sich bereit erklärt
+        hat, diese Kosten zu tragen, oder er es unterlassen hat, den
+        Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
+        zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
+        geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
+        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
+        abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
+        zurückgesandt werden können.“
 
 
-*   Bei einem angegebenen Geschäft nach § 359a Absatz 1 BGB ist hier
-    Folgendes einzufügen:
-    „
+*    *
+    *   Der Unterabsatz kann wie folgt ergänzt werden:
 
-    –   Ist der Darlehensnehmer aufgrund des Widerrufs des [einsetzen:\*\**
+
+*    *
+    *   „Wenn der Darlehensnehmer die auf Grund [einsetzen\*\*\*: des
+        verbundenen Vertrags oder des zusammenhängenden Vertrags] überlassene
+        Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand
+        zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt
+        allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit
+        den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der
+        Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
+
+
+*    *   *
+
+    *   Bei einem Vertrag über eine entgeltliche Finanzierungshilfe gilt
+        Folgendes:
+
+
+*    *
+    *   a)
+
+    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
+        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
+        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
+        sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
+        Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB zu geben.
+
+
+*    *
+    *
+    *   Diese können durch die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  Buchstabe c der Anlage 1 zu Artikel 246a § 1
+        Absatz 2 Satz 2 EGBGB ergänzt werden.
+
+
+*    *
+    *   b)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann
+        hier folgender Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich
+        zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der
+        Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung
+        zur Zahlung von Wertersatz, kann dies dazu führen, dass der
+        Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den
+        Zeitraum bis zum Widerruf dennoch erfüllen muss.”
+
+
+*    *
+    *   c)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
+        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
+        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
+        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
+        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
+        Fernwärme, können hier die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB gegeben werden.
+
+
+*    *
+    *   d)
+
+    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
+        Datenträger befindlichen digitalen Inhalten, kann hier folgender
+        Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er
+        ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit
+        der Lieferung der digitalen Inhalte begonnen wird.”
+
+
+*    *   *
+
+    *   Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier
+        Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs des [einsetzen\*\*\*:
         angegebenen Geschäfts] an den Darlehensvertrag nicht mehr gebunden,
-        sind insoweit die beiderseits empfangenen Leistungen zurückzugewähren
-        und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben.
+        führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen,
+        die eintreten würden, wenn der Darlehensvertrag selbst widerrufen
+        worden wäre (vgl. oben unter „Widerrufsfolgen“).“
 
 
+*    *   *
 
-    ”
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
 
 
-*   Bei einem verbundenen Vertrag nach § 358 BGB oder einem angegebenen
-    Geschäft nach § 359a Absatz 1 BGB, der oder das nicht den Erwerb von
-    Finanzinstrumenten zum Gegenstand hat, oder bei einem vom
-    Darlehensgeber finanzierten Vertrag über eine Zusatzleistung, wenn von
-    Gestaltungshinweis*                     Gebrauch gemacht wurde, ist
-    hier Folgendes einzufügen:
-    „
+*    *
+    *   „–
 
-    –   Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags
+    *   Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags
         nicht mehr an den weiteren Vertrag gebunden ist oder infolge des
         Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag
         gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei
         Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers
-        aus [einsetzen\*\*\*: dem verbundenen Vertrag und/oder dem angegebenen
-        Geschäft und/oder dem Vertrag über eine Zusatzleistung] bereits
-        zugeflossen, tritt der Darlehensgeber im Verhältnis zum
-        Darlehensnehmer hinsichtlich der Rechtsfolgen des Widerrufs in die
-        Rechte und Pflichten des Vertragspartners aus dem weiteren Vertrag
-        ein.
+        aus [einsetzen\*\*\*: dem verbundenen Vertrag] bereits zugeflossen,
+        tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer
+        hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und
+        Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“
+
+
+*    *
+    *   Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich
+        Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift
+        und folgender Hinweis einzufügen:
+
+
+*    *
+    *   **„Einwendungen bei verbundenen Verträgen.”**
+
+
+*    *
+    *   „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern,
+        soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber
+        dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies
+        gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt
+        oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung
+        beruht, die zwischen dem Darlehensnehmer und dem anderen
+        Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen
+        wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner
+        Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
+        verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”
+
+
+*    *
+    *   Dieser Hinweis und die Überschrift können entfallen, wenn der
+        Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro
+        beträgt.
+
+
+*    *   *
+
+    *   Die Vertragsparteien können auch direkt angesprochen werden (z. B.
+        „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen
+        Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien
+        verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und
+        „Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen
+        sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit
+        „Leasinggeber“ und „Leasingnehmer“.
+
+
+*    *   \*\*
+
+    *   Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung
+        des Vertrags/Geschäfts.
+
+
+*    *   *\*\*
+
+    *   Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende
+        Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch
+        Verwendung der allgemeinen Bezeichnung des jeweiligen
+        Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft,
+        zusammenhängender Vertrag) erfolgen.
 
 
 
-    ”
 
-    Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich
-    Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
+(zu Artikel 246 Absatz 3)
 
+### Anlage 9 Muster für die Widerrufsbelehrung bei unentgeltlichen Darlehensverträgen zwischen einem Unternehmer als Darlehensgeber und einem Verbraucher als Darlehensnehmer
 
-*   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
-    Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift
-    und folgender Hinweis einzufügen:
-
-    „ **Einwendungen bei verbundenen Verträgen**                   ”
-
-    „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern,
-    soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber
-    dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies
-    gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt
-    oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung
-    beruht, die zwischen dem Darlehensnehmer und dem anderen
-    Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen
-    wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner
-    Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
-    verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”
-
-    Dieser Hinweis und die Überschrift können entfallen, wenn der
-    Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro
-    beträgt.
+(Fundstelle: BGBl. I 2016, S. 436 - 438)
 
 
+*    *   **Widerrufsbelehrung**
 
 
-\* Die Vertragsparteien können auch direkt angesprochen werden (z. B.
-„Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen
-Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien
-verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und
-„Kreditgeber“ verwendet werden. Bei entgeltlichen Finanzierungshilfen
-sind die Bezeichnungen entsprechend anzupassen, beispielsweise mit
-„Leasinggeber“ und „Leasingnehmer“. Die weitergehende
-Anpassungspflicht für entgeltliche Finanzierungshilfen gemäß Artikel
-247 § 12 Absatz 1 Satz 4 EGBGB bleibt unberührt.
+*    *   **Widerrufsrecht**
 
-\*\* Dieser Klammerzusatz entfällt bei durchgängiger genauer
-Bezeichnung des Vertrags/Geschäfts.
 
-\*\*\* Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende
-Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch
-Verwendung der allgemeinen Bezeichnung des jeweiligen
-Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft, Vertrag
-über eine Zusatzleistung) erfolgen.
+*    *   Der Darlehensnehmer\* kann seine Vertragserklärung innerhalb von 14
+        Tagen ohne Angabe von Gründen widerrufen. Die Frist beginnt nach
+        Abschluss des Vertrags, aber erst, nachdem der Darlehensnehmer diese
+        Widerrufsbelehrung auf einem dauerhaften Datenträger erhalten hat. Zur
+        Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des
+        Widerrufs, wenn die Erklärung auf einem dauerhaften Datenträger (z. B.
+        Brief, Telefax, E-Mail) erfolgt. Der Widerruf ist zu richten an:*
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   **Widerrufsfolgen**
+
+
+*    *   Soweit das Darlehen bereits ausbezahlt wurde, hat es der
+        Darlehensnehmer spätestens innerhalb von 30 Tagen zurückzuzahlen. Die
+        Frist beginnt mit der Absendung der Widerrufserklärung.
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+*    *   *
+
+
+
+
+## Gestaltungshinweise:
+
+
+*    *   *
+
+    *   Hier sind einzufügen: Name/Firma und ladungsfähige Anschrift des
+        Widerrufsadressaten. Zusätzlich können angegeben werden:
+        Telefaxnummer, E-Mail-Adresse und/oder, wenn der Darlehensnehmer eine
+        Bestätigung seiner Widerrufserklärung an den Darlehensgeber erhält,
+        auch eine Internet-Adresse.
+
+
+*    *   *
+
+    *   Bei Anwendung der Gestaltungshinweise* ,*  oder*  ist hier folgende
+        Unterüberschrift einzufügen:
+
+
+*    *
+    *   „Besonderheiten bei weiteren Verträgen”.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB ist hier einzufügen:
+
+
+*    *
+    *   a)
+
+    *   Wenn der Vertrag nicht den Erwerb von Finanzinstrumenten zum
+        Gegenstand hat:
+
+
+*    *
+    *
+    *   „–
+
+    *   Widerruft der Darlehensnehmer diesen Darlehensvertrag, so ist er auch
+        an den [einsetzen: Bezeichnung des verbundenen Vertrags] (im
+        Folgenden: verbundener Vertrag)\*\* nicht mehr gebunden.
+
+
+*    *
+    *
+    *   –
+
+    *   Steht dem Darlehensnehmer in Bezug auf den [einsetzen\*\*\*:
+        verbundenen Vertrag] ein Widerrufsrecht zu, so ist er mit wirksamem
+        Widerruf des [einsetzen\*\*\*: verbundenen Vertrags] auch an den
+        Darlehensvertrag nicht mehr gebunden. Für die Rechtsfolgen des
+        Widerrufs sind die in dem [einsetzen\*\*\*: verbundenen Vertrag]
+        getroffenen Regelungen und die hierfür erteilte Widerrufsbelehrung
+        maßgeblich.“
+
+
+*    *
+    *   b)
+
+    *   Wenn der Vertrag den Erwerb von Finanzinstrumenten zum Gegenstand hat:
+
+
+*    *
+    *
+    *   „–
+
+    *   Widerruft der Darlehensnehmer den [einsetzen: Bezeichnung des
+        verbundenen Vertrags], so ist er auch an den Darlehensvertrag nicht
+        mehr gebunden.“
+
+
+*    *   *
+
+    *   Bei einem Geschäft, dessen Vertragsgegenstand (die Leistung des
+        Unternehmers) in dem Darlehensvertrag genau angegeben ist und das
+        nicht gleichzeitig die Voraussetzungen eines verbundenen Vertrags
+        gemäß § 358 BGB erfüllt, obwohl das Darlehen ausschließlich zu dessen
+        Finanzierung dient (angegebenes Geschäft gemäß § 360 Absatz 2 Satz 2
+        BGB), ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf das [einsetzen: Bezeichnung des
+        im Darlehensvertrag angegebenen Geschäfts] (im Folgenden: angegebenes
+        Geschäft)\*\* ein Widerrufsrecht zu, so ist er mit wirksamem Widerruf
+        des angegebenen Geschäfts auch an diesen Darlehensvertrag nicht mehr
+        gebunden.“
+
+
+*    *   *
+
+    *   Bei einem mit einem Darlehensvertrag zusammenhängenden Vertrag (§ 360
+        BGB), der nicht gleichzeitig die Voraussetzungen eines verbundenen
+        Vertrags gemäß § 358 BGB erfüllt, kann hier Folgendes eingefügt
+        werden:
+
+
+*    *
+    *   „–
+
+    *   Steht dem Darlehensnehmer in Bezug auf diesen Darlehensvertrag ein
+        Widerrufsrecht zu, so ist er mit wirksamem Widerruf des
+        Darlehensvertrags auch an den [einsetzen: Bezeichnung des mit dem
+        Darlehensvertrag zusammenhängenden Vertrags] (im Folgenden:
+        zusammenhängender Vertrag)\*\* nicht mehr gebunden.“
+
+
+*    *   *
+
+    *   Erbringt der Darlehensgeber gegenüber öffentlichen Stellen
+        Aufwendungen gemäß § 357a Absatz 3 Satz 5 BGB und will er sich für den
+        Fall des Widerrufs die Geltendmachung dieses Anspruchs vorbehalten,
+        ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Der Darlehensnehmer hat dem Darlehensgeber auch die Aufwendungen zu
+        ersetzen, die der Darlehensgeber gegenüber öffentlichen Stellen
+        erbracht hat und nicht zurückverlangen kann.“
+
+
+*    *   *
+
+    *   Bei Anwendung der Gestaltungshinweise* ,* ,* ,* ,*  oder*  ist hier
+        als Unterüberschrift einzufügen:
+
+
+*    *
+    *   „Besonderheiten bei weiteren Verträgen”.
+
+
+*    *
+    *   Dies gilt nicht, wenn bei einer entgeltlichen Finanzierungshilfe
+        ausschließlich der Hinweis*  verwandt wird und weitere Verträge nicht
+        vorliegen.
+
+
+*    *
+    *   Liegen mehrere weitere Verträge nebeneinander vor, kann im Folgenden
+        die Unterrichtung gemäß den anwendbaren Gestaltungshinweisen auch
+        durch eine entsprechende, jeweils auf den konkreten Vertrag bezogene,
+        wiederholte Nennung der Hinweise erfolgen.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, oder bei einem
+        zusammenhängenden Vertrag, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wird, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs dieses
+        Darlehensvertrags an [einsetzen\*\*\*: den verbundenen Vertrag
+        und/oder den zusammenhängenden Vertrag] nicht mehr gebunden, sind
+        insoweit die beiderseits empfangenen Leistungen zurückzugewähren.“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB über die Überlassung
+        einer Sache oder bei einem zusammenhängenden Vertrag, gerichtet auf
+        die Überlassung einer Sache, wenn von Gestaltungshinweis*  Gebrauch
+        gemacht wurde, ist hier nachstehender Unterabsatz einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Der Darlehensnehmer ist nicht verpflichtet, die Sache zurückzusenden,
+        wenn der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer angeboten hat, die
+        Sachen abzuholen. Grundsätzlich trägt der Darlehensnehmer die
+        unmittelbaren Kosten der Rücksendung der Waren. Dies gilt nicht, wenn
+        der an [einsetzen\*\*\*: dem verbundenen Vertrag oder dem
+        zusammenhängenden Vertrag] beteiligte Unternehmer sich bereit erklärt
+        hat, diese Kosten zu tragen, oder er es unterlassen hat, den
+        Verbraucher über die Pflicht, die unmittelbaren Kosten der Rücksendung
+        zu tragen, zu unterrichten. Bei außerhalb von Geschäftsräumen
+        geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des
+        Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind,
+        ist der Unternehmer verpflichtet, die Waren auf eigene Kosten
+        abzuholen, wenn die Waren so beschaffen sind, dass sie nicht per Post
+        zurückgesandt werden können.“
+
+
+*    *
+    *   Der Unterabsatz kann wie folgt ergänzt werden:
+
+
+*    *
+    *   „Wenn der Darlehensnehmer die auf Grund [einsetzen\*\*\*: des
+        verbundenen Vertrags oder des zusammenhängenden Vertrags] überlassene
+        Sache nicht oder teilweise nicht oder nur in verschlechtertem Zustand
+        zurückgewähren kann, hat er insoweit Wertersatz zu leisten. Dies kommt
+        allerdings nur in Betracht, wenn der Wertverlust auf einen Umgang mit
+        den Waren zurückzuführen ist, der zur Prüfung der Beschaffenheit, der
+        Eigenschaften und der Funktionsweise der Waren nicht notwendig war.”
+
+
+*    *   *
+
+    *   Bei einem Vertrag über eine unentgeltliche Finanzierungshilfe gilt
+        Folgendes:
+
+
+*    *
+    *   a)
+
+    *   Ist Vertragsgegenstand die Überlassung einer Sache mit Ausnahme der
+        Lieferung von Wasser, Gas oder Strom, die nicht in einem begrenzten
+        Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden,
+        sind hier die konkreten Hinweise entsprechend Gestaltungshinweis*
+        Buchstabe a und b der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB zu geben.
+
+
+*    *
+    *
+    *   Diese können durch die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  Buchstabe c der Anlage 1 zu Artikel 246a § 1
+        Absatz 2 Satz 2 EGBGB ergänzt werden.
+
+
+*    *
+    *   b)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Finanzdienstleistung, kann
+        hier folgender Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf erbrachte Dienstleistung verpflichtet, wenn er ausdrücklich
+        zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit der
+        Ausführung der Gegenleistung begonnen wird. Besteht eine Verpflichtung
+        zur Zahlung von Wertersatz, kann dies dazu führen, dass der
+        Darlehensnehmer die vertraglichen Zahlungsverpflichtungen für den
+        Zeitraum bis zum Widerruf dennoch erfüllen muss.”
+
+
+*    *
+    *   c)
+
+    *   Ist Vertragsgegenstand die Erbringung einer Dienstleistung, die nicht
+        in der Überlassung einer Sache gemäß Buchstabe a oder in einer
+        Finanzdienstleistung besteht, oder die Lieferung von Wasser, Gas oder
+        Strom, wenn sie nicht in einem begrenzten Volumen oder in einer
+        bestimmten Menge zum Verkauf angeboten werden, oder die Lieferung von
+        Fernwärme, können hier die konkreten Hinweise entsprechend
+        Gestaltungshinweis*  der Anlage 1 zu Artikel 246a § 1 Absatz 2 Satz 2
+        EGBGB gegeben werden.
+
+
+*    *
+    *   d)
+
+    *   Ist Vertragsgegenstand die Lieferung von nicht auf einem körperlichen
+        Datenträger befindlichen digitalen Inhalten, kann hier folgender
+        Hinweis gegeben werden:
+
+
+*    *
+    *
+    *   „Der Darlehensnehmer ist zur Zahlung von Wertersatz für die bis zum
+        Widerruf gelieferten digitalen Inhalte verpflichtet, wenn er
+        ausdrücklich zugestimmt hat, dass vor dem Ende der Widerrufsfrist mit
+        der Lieferung der digitalen Inhalte begonnen wird.”
+
+
+*    *   *
+
+    *   Bei einem angegebenen Geschäft nach § 360 Absatz 2 Satz 2 BGB ist hier
+        Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Ist der Darlehensnehmer auf Grund des Widerrufs des [einsetzen\*\*\*:
+        angegebenen Geschäfts] an den Darlehensvertrag nicht mehr gebunden,
+        führt das hinsichtlich des Darlehensvertrags zu den gleichen Folgen,
+        die eintreten würden, wenn der Darlehensvertrag selbst widerrufen
+        worden wäre (vgl. oben unter „Widerrufsfolgen“).“
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, ist hier Folgendes einzufügen:
+
+
+*    *
+    *   „–
+
+    *   Wenn der Darlehensnehmer infolge des Widerrufs des Darlehensvertrags
+        nicht mehr an den weiteren Vertrag gebunden ist oder infolge des
+        Widerrufs des weiteren Vertrags nicht mehr an den Darlehensvertrag
+        gebunden ist, gilt ergänzend Folgendes: Ist das Darlehen bei
+        Wirksamwerden des Widerrufs dem Vertragspartner des Darlehensnehmers
+        aus [einsetzen\*\*\*: dem verbundenen Vertrag] bereits zugeflossen,
+        tritt der Darlehensgeber im Verhältnis zum Darlehensnehmer
+        hinsichtlich der Rechtsfolgen des Widerrufs in die Rechte und
+        Pflichten des Vertragspartners aus dem weiteren Vertrag ein.“
+
+
+*    *
+    *   Dieser Hinweis entfällt, wenn der Darlehensgeber zugleich
+        Vertragspartner des Darlehensnehmers aus dem weiteren Vertrag ist.
+
+
+*    *   *
+
+    *   Bei einem verbundenen Vertrag nach § 358 BGB, der nicht den Erwerb von
+        Finanzinstrumenten zum Gegenstand hat, sind hier folgende Überschrift
+        und folgender Hinweis einzufügen:
+
+
+*    *
+    *   **„Einwendungen bei verbundenen Verträgen”.**
+
+
+*    *
+    *   „Der Darlehensnehmer kann die Rückzahlung des Darlehens verweigern,
+        soweit ihn Einwendungen berechtigen würden, seine Leistung gegenüber
+        dem Vertragspartner aus dem verbundenen Vertrag zu verweigern. Dies
+        gilt nicht, wenn das finanzierte Entgelt weniger als 200 Euro beträgt
+        oder wenn der Rechtsgrund für die Einwendung auf einer Vereinbarung
+        beruht, die zwischen dem Darlehensnehmer und dem anderen
+        Vertragspartner nach dem Abschluss des Darlehensvertrags getroffen
+        wurde. Kann der Darlehensnehmer von dem anderen Vertragspartner
+        Nacherfüllung verlangen, so kann er die Rückzahlung des Darlehens erst
+        verweigern, wenn die Nacherfüllung fehlgeschlagen ist.”
+
+
+*    *
+    *   Dieser Hinweis und die Überschrift können entfallen, wenn der
+        Darlehensgeber weiß, dass das finanzierte Entgelt weniger als 200 Euro
+        beträgt.
+
+
+*    *   *
+
+    *   Die Vertragsparteien können auch direkt angesprochen werden (z. B.
+        „Sie“, „Wir“). Es kann auch die weibliche Form der jeweiligen
+        Bezeichnung und/oder die genaue Bezeichnung der Vertragsparteien
+        verwendet werden. Es können auch die Bezeichnungen „Kreditnehmer“ und
+        „Kreditgeber“ verwendet werden. Bei unentgeltlichen
+        Finanzierungshilfen sind die Bezeichnungen entsprechend anzupassen,
+        beispielsweise mit „Leasinggeber“ und „Leasingnehmer“.
+
+
+*    *   \*\*
+
+    *   Dieser Klammerzusatz entfällt bei durchgängiger genauer Bezeichnung
+        des Vertrags/Geschäfts.
+
+
+*    *   *\*\*
+
+    *   Die Bezugnahme auf den betreffenden Vertrag/auf das betreffende
+        Geschäft kann nach erstmaliger genauer Bezeichnung im Weiteren durch
+        Verwendung der allgemeinen Bezeichnung des jeweiligen
+        Vertrags/Geschäfts (verbundener Vertrag, angegebenes Geschäft,
+        zusammenhängender Vertrag) erfolgen.
+
+
+
+
+(zu Artikel 249 § 3)
+
+### Anlage 10 Muster für die Widerrufsbelehrung bei Verbraucherbauverträgen
+
+(Fundstelle: BGBl. I 2017, 979)
+
+
+*    *   **Widerrufsbelehrung**
+
+
+*    *   **Widerrufsrecht**
+
+
+*    *   Sie haben das Recht, binnen 14 Tagen ohne Angabe von Gründen diesen
+        Vertrag zu widerrufen.
+
+
+*    *   Die Widerrufsfrist beträgt 14 Tage ab dem Tag des Vertragsabschlusses.
+        Sie beginnt nicht zu laufen, bevor Sie diese Belehrung in Textform
+        erhalten haben.
+
+
+*    *   Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (\*) mittels einer
+        eindeutigen Erklärung (z. B. Brief, Telefax oder E-Mail) über Ihren
+        Entschluss, diesen Vertrag zu widerrufen, informieren.
+
+
+*    *   Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Erklärung
+        über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist
+        absenden.
+
+
+*    *   **Folgen des Widerrufs**
+
+
+*    *   Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen,
+        die wir von Ihnen erhalten haben, unverzüglich zurückzuzahlen.
+
+
+*    *   Sie müssen uns im Falle des Widerrufs alle Leistungen zurückgeben, die
+        Sie bis zum Widerruf von uns erhalten haben. Ist die Rückgewähr einer
+        Leistung ihrer Natur nach ausgeschlossen, lassen sich etwa verwendete
+        Baumaterialien nicht ohne Zerstörung entfernen, müssen Sie Wertersatz
+        dafür bezahlen.
+
+
+
+
+
+*    *   **Gestaltungshinweis:**
+
+
+*    *   *
+
+    *   Fügen Sie Ihren Namen oder den Namen Ihres Unternehmens, Ihre
+        Anschrift und Ihre Telefonnummer ein. Sofern verfügbar sind zusätzlich
+        anzugeben: Ihre Telefaxnummer und E-Mail-Adresse.
+
+
+
+
+(zu Artikel 250 § 2 Absatz 1)
+
+### Anlage 11 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651a des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2409 — 2410)
+
+
+*    *   Bei der Ihnen angebotenen Kombination von Reiseleistungen handelt es
+        sich um eine Pauschalreise im Sinne der Richtlinie (EU) 2015/2302.*
+
+
+*    *   Daher können Sie alle EU-Rechte in Anspruch nehmen, die für
+        Pauschalreisen gelten. Das Unternehmen*  trägt die volle Verantwortung
+        für die ordnungsgemäße Durchführung der gesamten Pauschalreise.
+
+
+*    *[^f799189_02_BJNR006049896BJNE244000123]
+   Zudem verfügt das Unternehmen*  über die gesetzlich vorgeschriebene
+        Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der
+        Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung
+        Ihrer Rückbeförderung im Fall seiner Insolvenz.
+
+
+*    *   *
+
+
+
+
+*    *   *  Wichtigste Rechte nach der Richtlinie (EU) 2015/2302
+
+        –   Die Reisenden erhalten alle wesentlichen Informationen über die
+            Pauschalreise vor Abschluss des Pauschalreisevertrags.
+
+
+        –   Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße
+            Erbringung aller im Vertrag inbegriffenen Reiseleistungen.
+
+
+        –   Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer
+            Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem
+            Reisebüro in Verbindung setzen können.
+
+
+        –   Die Reisenden können die Pauschalreise – innerhalb einer angemessenen
+            Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere
+            Person übertragen.
+
+
+        –   Der Preis der Pauschalreise darf nur erhöht werden, wenn bestimmte
+            Kosten (zum Beispiel Treibstoffpreise) sich erhöhen und wenn dies im
+            Vertrag ausdrücklich vorgesehen ist, und in jedem Fall bis spätestens
+            20 Tage vor Beginn der Pauschalreise. Wenn die Preiserhöhung 8 % des
+            Pauschalreisepreises übersteigt, kann der Reisende vom Vertrag
+            zurücktreten. Wenn sich ein Reiseveranstalter das Recht auf eine
+            Preiserhöhung vorbehält, hat der Reisende das Recht auf eine
+            Preissenkung, wenn die entsprechenden Kosten sich verringern.
+
+
+        –   Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag
+            zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn
+            einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des
+            Preises erheblich geändert wird. Wenn der für die Pauschalreise
+            verantwortliche Unternehmer die Pauschalreise vor Beginn der
+            Pauschalreise absagt, haben die Reisenden Anspruch auf eine
+            Kostenerstattung und unter Umständen auf eine Entschädigung.
+
+
+        –   Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor
+            Beginn der Pauschalreise ohne Zahlung einer Rücktrittsgebühr vom
+            Vertrag zurücktreten, beispielsweise wenn am Bestimmungsort
+            schwerwiegende Sicherheitsprobleme bestehen, die die Pauschalreise
+            voraussichtlich beeinträchtigen.
+
+
+        –   Zudem können die Reisenden jederzeit vor Beginn der Pauschalreise
+            gegen Zahlung einer angemessenen und vertretbaren Rücktrittsgebühr vom
+            Vertrag zurücktreten.
+
+
+        –   Können nach Beginn der Pauschalreise wesentliche Bestandteile der
+            Pauschalreise nicht vereinbarungsgemäß durchgeführt werden, so sind
+            dem Reisenden angemessene andere Vorkehrungen ohne Mehrkosten
+            anzubieten. Der Reisende kann ohne Zahlung einer Rücktrittsgebühr vom
+            Vertrag zurücktreten (in der Bundesrepublik Deutschland heißt dieses
+            Recht „Kündigung“), wenn Leistungen nicht gemäß dem Vertrag erbracht
+            werden und dies erhebliche Auswirkungen auf die Erbringung der
+            vertraglichen Pauschalreiseleistungen hat und der Reiseveranstalter es
+            versäumt, Abhilfe zu schaffen.
+
+
+        –   Der Reisende hat Anspruch auf eine Preisminderung und/oder
+            Schadenersatz, wenn die Reiseleistungen nicht oder nicht ordnungsgemäß
+            erbracht werden.
+
+
+        –   Der Reiseveranstalter leistet dem Reisenden Beistand, wenn dieser sich
+            in Schwierigkeiten befindet.
+
+
+        –   Im Fall der Insolvenz des Reiseveranstalters oder – in einigen
+            Mitgliedstaaten – des Reisevermittlers werden Zahlungen
+            zurückerstattet. Tritt die Insolvenz des Reiseveranstalters oder,
+            sofern einschlägig, des Reisevermittlers nach Beginn der Pauschalreise
+            ein und ist die Beförderung Bestandteil der Pauschalreise, so wird die
+            Rückbeförderung der Reisenden gewährleistet.*  hat eine
+            Insolvenzabsicherung mit*  abgeschlossen.\* Die Reisenden können diese
+            Einrichtung oder gegebenenfalls die zuständige Behörde (*  )
+            kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von*
+            verweigert werden.\*
+
+
+
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Bei Tagesreisen, deren Reisepreis 500 Euro übersteigt, ist anstelle
+    des vorangegangenen Satzes der folgende Satz einzufügen: „Bei der
+    Ihnen angebotenen Kombination von Reiseleistungen handelt es sich um
+    eine Tagesreise, die nach den Vorschriften des Bürgerlichen
+    Gesetzbuchs wie eine Pauschalreise im Sinne der Richtlinie (EU)
+    2015/2302 behandelt wird.“
+
+
+*   Hier ist die Firma/der Name des Reiseveranstalters einzufügen.
+
+
+*   Werden die Informationen auf einer Webseite für den elektronischen
+    Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern
+    „Weiterführende Informationen zu Ihren wichtigsten Rechten nach der
+    Richtlinie (EU) 2015/2302“ beschriftete Hyperlink-Schaltfläche
+    einzufügen, nach deren Betätigung die Informationen zu*  zur Verfügung
+    gestellt werden.
+
+
+*   Die Informationen über die wichtigsten Rechte nach der Richtlinie (EU)
+    2015/2302 werden entweder nach Betätigung der Hyperlink-Schaltfläche
+    zu*  zur Verfügung gestellt oder, wenn die Informationen nicht auf
+    einer Webseite für den elektronischen Geschäftsverkehr zur Verfügung
+    gestellt werden, den Informationen im ersten Kasten unmittelbar
+    unterhalb des Kastens angefügt.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name
+        der Einrichtung, die den Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt:
+        Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und
+        gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils
+        einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der
+        E-Mail-Adresse und der Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn die Informationen auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern
+        „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten
+        Form“ beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine
+        Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de
+        erfolgt,
+
+
+    b)  wenn die Informationen nicht auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: „Webseite, auf der die
+        Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten
+        Form zu finden ist: www.umsetzung-richtlinie-eu2015-2302.de“.
+
+
+
+
+
+
+
+
+    Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine
+    Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der
+    Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des
+    Reisenden auf den Reisepreis annimmt und der Vertrag keine
+    Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+[^f799189_02_BJNR006049896BJNE244000123]: 
+(zu Artikel 250 § 2 Absatz 2)
+
+### Anlage 12 Muster für das Formblatt zur Unterrichtung des Reisenden bei Verträgen über Gastschulaufenthalte nach § 651u des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2411 — 2412)
+
+
+*    *   Auf den Ihnen angebotenen Vertrag finden die Vorschriften des
+        Bürgerlichen Gesetzbuchs über Pauschalreisen entsprechende Anwendung.
+
+
+*    *   Daher können Sie Rechte in Anspruch nehmen, die für Pauschalreisen
+        gelten. Bei einem Gastschulaufenthalt gelten darüber hinaus die
+        besonderen Bestimmungen des § 651u Absatz 2 bis 4 des Bürgerlichen
+        Gesetzbuchs, insbesondere für den Rücktritt vom Vertrag vor
+        Reisebeginn und für die Kündigung.
+
+
+*    *[^f799189_03_BJNR006049896BJNE244100123]
+   Das Unternehmen*  verfügt über die gesetzlich vorgeschriebene
+        Absicherung für den Fall seiner Insolvenz.
+        Die Absicherung umfasst die Rückzahlung Ihrer Zahlungen und, falls der
+        Vertrag die Beförderung umfasst, die Sicherstellung der
+        Rückbeförderung.\*
+
+
+*    *   *
+
+
+
+
+*    *   *  Ihre wichtigsten Rechte nach den Vorschriften des Bürgerlichen
+        Gesetzbuchs
+
+        –   Die Reisenden, d. h. in aller Regel nicht die Gastschüler selbst,
+            sondern die Vertragspartner des Reiseveranstalters, erhalten alle
+            wesentlichen Informationen über die Pauschalreise vor Abschluss des
+            Vertrags.
+
+
+        –   Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße
+            Erbringung der von dem Vertrag umfassten Reiseleistungen.
+
+
+        –   Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer
+            Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem
+            Reisebüro in Verbindung setzen können.
+
+
+        –   Die Reisenden können die Pauschalreise – innerhalb einer angemessenen
+            Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere
+            Person übertragen.
+
+
+        –   Der Reisepreis darf nur erhöht werden, wenn bestimmte Kosten (zum
+            Beispiel Treibstoffpreise) sich erhöhen und die Preiserhöhung im
+            Vertrag ausdrücklich vorgesehen ist. Eine Preiserhöhung ist nur
+            wirksam, wenn die Unterrichtung des Reisenden nicht später als 20 Tage
+            vor Reisebeginn erfolgt. Übersteigt die Preiserhöhung 8 % des
+            Reisepreises, kann der Reisende vom Vertrag zurücktreten. Wenn sich
+            ein Reiseveranstalter das Recht auf eine Preiserhöhung vorbehält, hat
+            der Reisende das Recht auf eine Preissenkung, wenn die entsprechenden
+            Kosten sich verringern.
+
+
+        –   Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag
+            zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn
+            einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des
+            Preises erheblich geändert wird. Wenn der Reiseveranstalter die
+            Pauschalreise vor Reisebeginn absagt, haben die Reisenden Anspruch auf
+            eine Kostenerstattung und unter Umständen auf eine Entschädigung.
+
+
+        –   Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor
+            Reisebeginn ohne Zahlung einer Rücktrittsgebühr vom Vertrag
+            zurücktreten, beispielsweise wenn am Bestimmungsort schwerwiegende
+            Sicherheitsprobleme bestehen, die die Pauschalreise voraussichtlich
+            beeinträchtigen.
+
+
+        –   Zudem können die Reisenden vor Reisebeginn jederzeit, d. h. ohne
+            weitere Voraussetzungen, vom Vertrag zurücktreten, gegebenenfalls
+            gegen Zahlung einer angemessenen Rücktrittsgebühr.
+
+
+        –   Der Reisende kann den Vertrag bis zur Beendigung der Reise auch
+            jederzeit kündigen. Der Reiseveranstalter ist dann berechtigt, den
+            vereinbarten Reisepreis abzüglich ersparter Aufwendungen zu verlangen.
+            Der Reiseveranstalter ist verpflichtet, die infolge der Kündigung
+            notwendigen Maßnahmen zu treffen. Er hat insbesondere, falls der
+            Vertrag die Beförderung des Gastschülers umfasst, für dessen
+            Rückbeförderung zu sorgen. Die Mehrkosten trägt in diesem Fall der
+            Reisende.
+
+
+        –   Kann nach Reisebeginn ein erheblicher Teil der Reiseleistungen nicht
+            vereinbarungsgemäß durchgeführt werden, so sind dem Reisenden ohne
+            Mehrkosten angemessene Ersatzleistungen anzubieten. Der Reisende kann
+            den Vertrag kostenfrei kündigen, wenn Leistungen nicht gemäß dem
+            Vertrag erbracht werden, die Pauschalreise hierdurch erheblich
+            beeinträchtigt wird und der Reiseveranstalter es versäumt, Abhilfe zu
+            schaffen. In diesem Fall trägt der Reiseveranstalter die Mehrkosten
+            für eine gegebenenfalls zu veranlassende Rückbeförderung des
+            Gastschülers.
+
+
+        –   Der Reisende hat Anspruch auf eine Preisminderung und/oder
+            Schadenersatz, wenn die Leistungen nicht oder nicht ordnungsgemäß
+            erbracht werden.
+
+
+        –   Der Reiseveranstalter leistet dem Reisenden bzw. dem Gastschüler
+            Beistand, wenn dieser sich in Schwierigkeiten befindet.
+
+
+        –   Im Fall der Insolvenz des Reiseveranstalters werden Zahlungen
+            zurückerstattet. Tritt die Insolvenz des Reiseveranstalters nach
+            Reisebeginn ein und ist die Beförderung Bestandteil der Pauschalreise,
+            so wird die Rückbeförderung des Gastschülers gewährleistet.*   hat
+            eine Insolvenzabsicherung mit*   abgeschlossen.\* Die Reisenden können
+            diese Einrichtung oder gegebenenfalls die zuständige Behörde (* )
+            kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von*
+            verweigert werden.\*
+
+
+
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist die Firma/der Name des Reiseveranstalters einzufügen.
+
+
+*   Werden die Informationen auf einer Webseite für den elektronischen
+    Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern
+    „Weiterführende Informationen zu Ihren wichtigsten Rechten nach den
+    Vorschriften des Bürgerlichen Gesetzbuchs“ beschriftete Hyperlink-
+    Schaltfläche einzufügen, nach deren Betätigung die Informationen zu*
+    zur Verfügung gestellt werden.
+
+
+*   Die Informationen über die wichtigsten Rechte werden entweder nach
+    Betätigung der Hyperlink-Schaltfläche zu*  zur Verfügung gestellt
+    oder, wenn die Informationen nicht auf einer Webseite für den
+    elektronischen Geschäftsverkehr zur Verfügung gestellt werden, den
+    Informationen im ersten Kasten unmittelbar unterhalb des Kastens
+    angefügt.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name
+        der Einrichtung, die den Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt:
+        Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und
+        gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils
+        einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der
+        E-Mail-Adresse und der Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn die Informationen auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern
+        „Weiterleitung zur Gesamtausgabe des Bürgerlichen Gesetzbuchs“
+        beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine
+        Weiterleitung auf die Webseite www.gesetze-im-internet.de/bgb erfolgt,
+
+
+    b)  wenn die Informationen nicht auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: „Webseite, auf welcher
+        die Gesamtausgabe des Bürgerlichen Gesetzbuchs zu finden ist: www
+        .gesetze-im-internet.de/bgb“.
+
+
+
+
+
+
+
+
+    Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine
+    Verpflichtung des Reiseveranstalters zur Insolvenzsicherung, weil der
+    Reiseveranstalter vor Beendigung der Pauschalreise keine Zahlungen des
+    Reisenden auf den Reisepreis annimmt und der Vertrag keine
+    Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+[^f799189_03_BJNR006049896BJNE244100123]: 
+(zu Artikel 250 § 4)
+
+### Anlage 13 Muster für das Formblatt zur Unterrichtung des Reisenden bei einer Pauschalreise nach § 651c des Bürgerlichen Gesetzbuchs
+
+(Fundstelle: BGBl. I 2017, 2413 — 2414)
+
+
+*    *   Wenn Sie innerhalb von 24 Stunden ab Eingang der Buchungsbestätigung
+        des Unternehmens*  einen Vertrag mit dem Unternehmen*  schließen,
+        handelt es sich bei den von*  und*  zu erbringenden Reiseleistungen um
+        eine Pauschalreise im Sinne der Richtlinie (EU) 2015/2302.
+
+
+*    *   Daher können Sie alle EU-Rechte in Anspruch nehmen, die für
+        Pauschalreisen gelten. Das Unternehmen*  trägt die volle Verantwortung
+        für die ordnungsgemäße Durchführung der gesamten Pauschalreise.
+
+
+*    *[^f799189_04_BJNR006049896BJNE244200123]
+   Zudem verfügt das Unternehmen*  über die gesetzlich vorgeschriebene
+        Absicherung für die Rückzahlung Ihrer Zahlungen und, falls der
+        Transport in der Pauschalreise inbegriffen ist, zur Sicherstellung
+        Ihrer Rückbeförderung im Fall seiner Insolvenz.
+
+
+*    *   *
+
+
+
+
+*    *   *  Wichtigste Rechte nach der Richtlinie (EU) 2015/2302
+
+        –   Die Reisenden erhalten alle wesentlichen Informationen über die
+            Pauschalreise vor Abschluss des Pauschalreisevertrags.
+
+
+        –   Es haftet immer mindestens ein Unternehmer für die ordnungsgemäße
+            Erbringung aller im Vertrag inbegriffenen Reiseleistungen.
+
+
+        –   Die Reisenden erhalten eine Notruftelefonnummer oder Angaben zu einer
+            Kontaktstelle, über die sie sich mit dem Reiseveranstalter oder dem
+            Reisebüro in Verbindung setzen können.
+
+
+        –   Die Reisenden können die Pauschalreise – innerhalb einer angemessenen
+            Frist und unter Umständen unter zusätzlichen Kosten – auf eine andere
+            Person übertragen.
+
+
+        –   Der Preis der Pauschalreise darf nur erhöht werden, wenn bestimmte
+            Kosten (zum Beispiel Treibstoffpreise) sich erhöhen und wenn dies im
+            Vertrag ausdrücklich vorgesehen ist, und in jedem Fall bis spätestens
+            20 Tage vor Beginn der Pauschalreise. Wenn die Preiserhöhung 8 % des
+            Pauschalreisepreises übersteigt, kann der Reisende vom Vertrag
+            zurücktreten. Wenn sich ein Reiseveranstalter das Recht auf eine
+            Preiserhöhung vorbehält, hat der Reisende das Recht auf eine
+            Preissenkung, wenn die entsprechenden Kosten sich verringern.
+
+
+        –   Die Reisenden können ohne Zahlung einer Rücktrittsgebühr vom Vertrag
+            zurücktreten und erhalten eine volle Erstattung aller Zahlungen, wenn
+            einer der wesentlichen Bestandteile der Pauschalreise mit Ausnahme des
+            Preises erheblich geändert wird. Wenn der für die Pauschalreise
+            verantwortliche Unternehmer die Pauschalreise vor Beginn der
+            Pauschalreise absagt, haben die Reisenden Anspruch auf eine
+            Kostenerstattung und unter Umständen auf eine Entschädigung.
+
+
+        –   Die Reisenden können bei Eintritt außergewöhnlicher Umstände vor
+            Beginn der Pauschalreise ohne Zahlung einer Rücktrittsgebühr vom
+            Vertrag zurücktreten, beispielsweise wenn am Bestimmungsort
+            schwerwiegende Sicherheitsprobleme bestehen, die die Pauschalreise
+            voraussichtlich beeinträchtigen.
+
+
+        –   Zudem können die Reisenden jederzeit vor Beginn der Pauschalreise
+            gegen Zahlung einer angemessenen und vertretbaren Rücktrittsgebühr vom
+            Vertrag zurücktreten.
+
+
+        –   Können nach Beginn der Pauschalreise wesentliche Bestandteile der
+            Pauschalreise nicht vereinbarungsgemäß durchgeführt werden, so sind
+            dem Reisenden angemessene andere Vorkehrungen ohne Mehrkosten
+            anzubieten. Der Reisende kann ohne Zahlung einer Rücktrittsgebühr vom
+            Vertrag zurücktreten (in der Bundesrepublik Deutschland heißt dieses
+            Recht „Kündigung“), wenn Leistungen nicht gemäß dem Vertrag erbracht
+            werden und dies erhebliche Auswirkungen auf die Erbringung der
+            vertraglichen Pauschalreiseleistungen hat und der Reiseveranstalter es
+            versäumt, Abhilfe zu schaffen.
+
+
+        –   Der Reisende hat Anspruch auf eine Preisminderung und/oder
+            Schadenersatz, wenn die Reiseleistungen nicht oder nicht ordnungsgemäß
+            erbracht werden.
+
+
+        –   Der Reiseveranstalter leistet dem Reisenden Beistand, wenn dieser sich
+            in Schwierigkeiten befindet.
+
+
+        –   Im Fall der Insolvenz des Reiseveranstalters oder – in einigen
+            Mitgliedstaaten – des Reisevermittlers werden Zahlungen
+            zurückerstattet. Tritt die Insolvenz des Reiseveranstalters oder,
+            sofern einschlägig, des Reisevermittlers nach Beginn der Pauschalreise
+            ein und ist die Beförderung Bestandteil der Pauschalreise, so wird die
+            Rückbeförderung der Reisenden gewährleistet.*  hat eine
+            Insolvenzabsicherung mit*  abgeschlossen.\* Die Reisenden können diese
+            Einrichtung oder gegebenenfalls die zuständige Behörde (* )
+            kontaktieren, wenn ihnen Leistungen aufgrund der Insolvenz von*
+            verweigert werden.\*
+
+
+
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist die Firma/der Name des als Reiseveranstalter anzusehenden
+    Unternehmers (§ 651c Absatz 1 des Bürgerlichen Gesetzbuchs)
+    einzufügen.
+
+
+*   Hier ist die Firma/der Name jedes anderen Unternehmers einzutragen,
+    dem nach § 651c Absatz 1 Nummer 2 des Bürgerlichen Gesetzbuchs Daten
+    übermittelt werden.
+
+
+*   Hier ist die mit den Wörtern „Weiterführende Informationen zu Ihren
+    wichtigsten Rechten nach der Richtlinie (EU) 2015/2302“ beschriftete
+    Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die
+    Informationen zu*  zur Verfügung gestellt werden.
+
+
+*   Die Informationen über die wichtigsten Rechte nach der Richtlinie (EU)
+    2015/2302 werden nach Betätigung der Hyperlink-Schaltfläche zu*  zur
+    Verfügung gestellt.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt: Name
+        der Einrichtung, die den Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651s des Bürgerlichen Gesetzbuchs vorliegt:
+        Kontaktdaten der Einrichtung, die den Insolvenzschutz bietet, und
+        gegebenenfalls Name und Kontaktdaten der zuständigen Behörde, jeweils
+        einschließlich der Anschrift des Ortes, an dem sie ihren Sitz hat, der
+        E-Mail-Adresse und der Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das
+    nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche
+    einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite
+    www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+
+
+
+
+    Besteht gemäß § 651r Absatz 1 des Bürgerlichen Gesetzbuchs keine
+    Verpflichtung des als Reiseveranstalter anzusehenden Unternehmers zur
+    Insolvenzsicherung, weil der als Reiseveranstalter anzusehende
+    Unternehmer vor Beendigung der Pauschalreise keine Zahlungen des
+    Reisenden auf den Reisepreis annimmt und der Vertrag keine
+    Rückbeförderung des Reisenden umfasst, entfallen diese Sätze.
+[^f799189_04_BJNR006049896BJNE244200123]: 
+(zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe a)
+
+### Anlage 14 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2415)
+
+
+*    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über*  im
+        Anschluss an die Auswahl und Zahlung einer Reiseleistung können Sie
+        die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden
+        Rechte NICHT in Anspruch nehmen.
+
+
+*    *   Daher ist*   nicht für die ordnungsgemäße Erbringung solcher
+        zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie
+        sich bitte an den jeweiligen Leistungserbringer.
+
+
+*    *   Bei Buchung zusätzlicher Reiseleistungen bei demselben Besuch des
+        Buchungsportals*  werden diese Reiseleistungen jedoch Teil verbundener
+        Reiseleistungen. In diesem Fall verfügt*  über die nach dem EU-Recht
+        vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an*
+        für Dienstleistungen, die aufgrund der Insolvenz von*  nicht erbracht
+        wurden, sowie erforderlichenfalls für Ihre Rückbeförderung an den
+        Abreiseort. Beachten Sie bitte, dass dies im Fall einer Insolvenz des
+        betreffenden Leistungserbringers keine Erstattung bewirkt.
+
+
+*    *   *
+
+
+
+
+*    *   *  hat eine Insolvenzabsicherung mit*  abgeschlossen.
+
+
+*    *   Die Reisenden können diese Einrichtung oder gegebenenfalls die
+        zuständige Behörde (* ) kontaktieren, wenn ihnen Reiseleistungen
+        aufgrund der Insolvenz von*  verweigert werden.
+
+
+*    *   Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit
+        anderen Parteien als* , die trotz der Insolvenz des Unternehmens*
+        erfüllt werden können.
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist entweder „unser Unternehmen“ oder „das Unternehmen
+    (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“
+    einzufügen.
+
+
+*   Hier ist entweder „unseres Unternehmens“ oder „des Unternehmens
+    (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“
+    einzufügen.
+
+
+*   Hier ist die Firma/der Name des Vermittlers verbundener
+    Reiseleistungen einzufügen.
+
+
+*   Hier ist die mit den Wörtern „Weiterführende Informationen zum
+    Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach
+    deren Betätigung die Informationen im zweiten Kasten zur Verfügung
+    gestellt werden.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den
+        Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die
+        den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten
+        der zuständigen Behörde, jeweils einschließlich der Anschrift des
+        Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der
+        Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das
+    nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche
+    einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite
+    www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+
+
+
+(zu Artikel 251 § 2 Satz 1 Nummer 1 Buchstabe b)
+
+### Anlage 15 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen ein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2416)
+
+
+*    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen
+        Link oder diese Links können Sie die nach der Richtlinie (EU)
+        2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch
+        nehmen.
+
+
+*    *   Daher ist*  nicht für die ordnungsgemäße Erbringung solcher
+        zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie
+        sich bitte an den jeweiligen Leistungserbringer.
+
+
+*    *   Bei der Buchung zusätzlicher Reiseleistungen über diesen Link oder
+        diese Links innerhalb von 24 Stunden nach Bestätigung Ihrer Buchung
+        durch*  werden diese Reiseleistungen jedoch Teil verbundener
+        Reiseleistungen. In diesem Fall verfügt*  über die nach dem EU-Recht
+        vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an*
+        für Dienstleistungen, die aufgrund der Insolvenz von*  nicht erbracht
+        wurden, sowie erforderlichenfalls für Ihre Rückbeförderung an den
+        Abreiseort. Beachten Sie bitte, dass dies im Fall einer Insolvenz des
+        betreffenden Leistungserbringers keine Erstattung bewirkt.
+
+
+*    *   *
+
+
+
+
+*    *   *  hat eine Insolvenzabsicherung mit*  abgeschlossen.
+
+
+*    *   Die Reisenden können diese Einrichtung oder gegebenenfalls die
+        zuständige Behörde (* ) kontaktieren, wenn ihnen Reiseleistungen
+        aufgrund der Insolvenz von*  verweigert werden.
+
+
+*    *   Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit
+        anderen Parteien als* , die trotz der Insolvenz des Unternehmens*
+        erfüllt werden können.
+
+
+*    *   *
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist entweder „unser Unternehmen“ oder „das Unternehmen
+    (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“
+    einzufügen.
+
+
+*   Hier ist die Firma/der Name des Vermittlers verbundener
+    Reiseleistungen einzufügen.
+
+
+*   Hier ist die mit den Wörtern „Weiterführende Informationen zum
+    Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach
+    deren Betätigung die Informationen im zweiten Kasten zur Verfügung
+    gestellt werden.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den
+        Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die
+        den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten
+        der zuständigen Behörde, jeweils einschließlich der Anschrift des
+        Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der
+        Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das
+    nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche
+    einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite
+    www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+
+
+
+(zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe a)
+
+### Anlage 16 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 1 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2417 — 2418)
+
+
+*    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über*  im
+        Anschluss an die Auswahl und Zahlung einer Reiseleistung können Sie
+        die nach der Richtlinie (EU) 2015/2302 für Pauschalreisen geltenden
+        Rechte NICHT in Anspruch nehmen.
+
+
+*    *   Daher ist*  nicht für die ordnungsgemäße Erbringung solcher
+        zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie
+        sich bitte an den jeweiligen Leistungserbringer.
+
+
+*    *[^f799189_05_BJNR006049896BJNE244500123]
+   Bei Buchung zusätzlicher Reiseleistungen bei demselben Besuch*  werden
+        diese Reiseleistungen jedoch Teil verbundener Reiseleistungen. In
+        diesem Fall verfügt*  über die nach dem EU-Recht vorgeschriebene
+        Absicherung für die Erstattung Ihrer Zahlungen an*  für
+        Dienstleistungen, die aufgrund der Insolvenz von*  nicht erbracht
+        wurden. Beachten Sie bitte, dass dies im Fall einer Insolvenz des
+        betreffenden Leistungserbringers keine Erstattung bewirkt.
+
+
+*    *   *  \*
+
+
+
+
+*    *   *  hat eine Insolvenzabsicherung mit*  abgeschlossen.\*
+
+
+*    *   Die Reisenden können diese Einrichtung oder gegebenenfalls die
+        zuständige Behörde (* ) kontaktieren, wenn ihnen Reiseleistungen
+        aufgrund der Insolvenz von*  verweigert werden.\*
+
+
+*    *   Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit
+        anderen Parteien als* , die trotz der Insolvenz des Unternehmens*
+        erfüllt werden können.\*
+
+
+*    *   *  \*
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist entweder „unser Unternehmen“ oder „das Unternehmen
+    (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“
+    einzufügen.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn die Informationen auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: entweder „des
+        Buchungsportals unseres Unternehmens“ oder „des Buchungsportals des
+        Unternehmens (einsetzen: Firma/Name des Vermittlers verbundener
+        Reiseleistungen)“,
+
+
+    b)  wenn die Informationen bei gleichzeitiger körperlicher Anwesenheit des
+        Reisenden und des Vermittlers verbundener Reiseleistungen zur
+        Verfügung gestellt werden: entweder „unseres Unternehmens oder bei
+        demselben Kontakt mit diesem“ oder „des Unternehmens (einsetzen:
+        Firma/Name des Vermittlers verbundener Reiseleistungen) oder bei
+        demselben Kontakt mit diesem“.
+
+
+
+
+
+*   Hier ist die Firma/der Name des Vermittlers verbundener
+    Reiseleistungen einzufügen.
+
+
+*   Werden die Informationen auf einer Webseite für den elektronischen
+    Geschäftsverkehr zur Verfügung gestellt, ist hier die mit den Wörtern
+    „Weiterführende Informationen zum Insolvenzschutz“ beschriftete
+    Hyperlink-Schaltfläche einzufügen, nach deren Betätigung die
+    Informationen im zweiten Kasten zur Verfügung gestellt werden. Werden
+    die Informationen bei gleichzeitiger körperlicher Anwesenheit des
+    Reisenden und des Vermittlers verbundener Reiseleistungen zur
+    Verfügung gestellt, werden die Informationen im zweiten Kasten
+    unmittelbar unterhalb des ersten Kastens angefügt.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den
+        Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die
+        den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten
+        der zuständigen Behörde, jeweils einschließlich der Anschrift des
+        Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der
+        Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn die Informationen auf einer Webseite für den elektronischen
+        Geschäftsverkehr zur Verfügung gestellt werden: die mit den Wörtern
+        „Richtlinie (EU) 2015/2302 in der in das nationale Recht umgesetzten
+        Form“ beschriftete Hyperlink-Schaltfläche, nach deren Betätigung eine
+        Weiterleitung auf die Webseite www.umsetzung-richtlinie-eu2015-2302.de
+        erfolgt,
+
+
+    b)  wenn die Informationen bei gleichzeitiger körperlicher Anwesenheit des
+        Reisenden und des Vermittlers verbundener Reiseleistungen zur
+        Verfügung gestellt werden: „Webseite, auf der die Richtlinie (EU)
+        2015/2302 in der in das nationale Recht umgesetzten Form zu finden
+        ist: www.umsetzung-richtlinie-eu2015-2302.de“.
+
+
+
+
+
+
+
+
+    Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine
+    Verpflichtung des Vermittlers verbundener Reiseleistungen zur
+    Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen
+    für Reiseleistungen nicht oder erst nach deren Erbringung annimmt,
+    entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen
+    aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des
+    Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten
+    Treuhandkonto gutgeschrieben werden.
+[^f799189_05_BJNR006049896BJNE244500123]: 
+(zu Artikel 251 § 2 Satz 1 Nummer 2 Buchstabe b)
+
+### Anlage 17 Muster für das Formblatt zur Unterrichtung des Reisenden, wenn der Vermittler verbundener Reiseleistungen kein Beförderer ist, mit dem der Reisende einen die Rückbeförderung umfassenden Vertrag geschlossen hat, und die Vermittlung nach § 651w Absatz 1 Satz 1 Nummer 2 des Bürgerlichen Gesetzbuchs erfolgt
+
+(Fundstelle: BGBl. I 2017, 2419)
+
+
+*    *   Bei Buchung zusätzlicher Reiseleistungen für Ihre Reise über diesen
+        Link oder diese Links können Sie die nach der Richtlinie (EU)
+        2015/2302 für Pauschalreisen geltenden Rechte NICHT in Anspruch
+        nehmen.
+
+
+*    *   Daher ist*  nicht für die ordnungsgemäße Erbringung solcher
+        zusätzlichen Reiseleistungen verantwortlich. Bei Problemen wenden Sie
+        sich bitte an den jeweiligen Leistungserbringer.
+
+
+*    *[^f799189_06_BJNR006049896BJNE244600123]
+   Bei der Buchung zusätzlicher Reiseleistungen über diesen Link oder
+        diese Links innerhalb von 24 Stunden nach Bestätigung Ihrer Buchung
+        durch*  werden diese Reiseleistungen jedoch Teil verbundener
+        Reiseleistungen. In diesem Fall verfügt*  über die nach dem EU-Recht
+        vorgeschriebene Absicherung für die Erstattung Ihrer Zahlungen an*
+        für Dienstleistungen, die aufgrund der Insolvenz von*  nicht erbracht
+        wurden. Beachten Sie bitte, dass dies im Fall einer Insolvenz des
+        betreffenden Leistungserbringers keine Erstattung bewirkt.
+
+
+*    *   *  \*
+
+
+
+
+*    *   *  hat eine Insolvenzabsicherung mit*  abgeschlossen.\*
+
+
+*    *   Die Reisenden können diese Einrichtung oder gegebenenfalls die
+        zuständige Behörde (* ) kontaktieren, wenn ihnen Reiseleistungen
+        aufgrund der Insolvenz von*  verweigert werden.\*
+
+
+*    *   Hinweis: Diese Insolvenzabsicherung gilt nicht für Verträge mit
+        anderen Parteien als* , die trotz der Insolvenz des Unternehmens*
+        erfüllt werden können.\*
+
+
+*    *   *  \*
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist entweder „unser Unternehmen“ oder „das Unternehmen
+    (einsetzen: Firma/Name des Vermittlers verbundener Reiseleistungen)“
+    einzufügen.
+
+
+*   Hier ist die Firma/der Name des Vermittlers verbundener
+    Reiseleistungen einzufügen.
+
+
+*   Hier ist die mit den Wörtern „Weiterführende Informationen zum
+    Insolvenzschutz“ beschriftete Hyperlink-Schaltfläche einzufügen, nach
+    deren Betätigung die Informationen im zweiten Kasten zur Verfügung
+    gestellt werden.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Name der Einrichtung, die den
+        Insolvenzschutz bietet,
+
+
+    b)  in allen anderen Fällen: Name des Kundengeldabsicherers (§ 651r Absatz
+        3 des Bürgerlichen Gesetzbuchs).
+
+
+
+
+
+*   Hier sind einzufügen:
+
+    a)  wenn ein Fall des § 651w Absatz 3 Satz 4 in Verbindung mit § 651s des
+        Bürgerlichen Gesetzbuchs vorliegt: Kontaktdaten der Einrichtung, die
+        den Insolvenzschutz bietet, und gegebenenfalls Name und Kontaktdaten
+        der zuständigen Behörde, jeweils einschließlich der Anschrift des
+        Ortes, an dem sie ihren Sitz hat, der E-Mail-Adresse und der
+        Telefonnummer,
+
+
+    b)  in allen anderen Fällen: Kontaktdaten des Kundengeldabsicherers (§
+        651r Absatz 3 des Bürgerlichen Gesetzbuchs) einschließlich der
+        Anschrift des Ortes, an dem er niedergelassen ist, der E-Mail-Adresse
+        und der Telefonnummer.
+
+
+
+
+
+*   Hier ist die mit den Wörtern „Richtlinie (EU) 2015/2302 in der in das
+    nationale Recht umgesetzten Form“ beschriftete Hyperlink-Schaltfläche
+    einzufügen, nach deren Betätigung eine Weiterleitung auf die Webseite
+    www.umsetzung-richtlinie-eu2015-2302.de erfolgt.
+
+
+
+
+
+    Besteht gemäß § 651w Absatz 3 des Bürgerlichen Gesetzbuchs keine
+    Verpflichtung des Vermittlers verbundener Reiseleistungen zur
+    Insolvenzsicherung, weil er Zahlungen des Reisenden auf Vergütungen
+    für Reiseleistungen nicht oder erst nach deren Erbringung annimmt,
+    entfallen diese Absätze. Gleiches gilt, soweit solche Zahlungen
+    aufgrund einer vom Leistungserbringer erteilten Inkassovollmacht des
+    Vermittlers verbundener Reiseleistungen auf einem insolvenzfesten
+    Treuhandkonto gutgeschrieben werden.
+[^f799189_06_BJNR006049896BJNE244600123]: 
+(zu Artikel 252 Absatz 1)
+
+### Anlage 18 Muster für den Sicherungsschein
+
+(Fundstelle: BGBl. I 2017, 2420)
+
+
+*    *   (gegebenenfalls einsetzen Sicherungsscheinnummer)
+
+
+*    *   **Sicherungsschein für**
+        * **Pauschalreisen**
+
+
+*    *   gemäß* **§ 651r des Bürgerlichen Gesetzbuchs**
+
+
+*    *   für
+        ..........
+
+
+*    *   (einsetzen: Namen des Reisenden, die Wörter „den umseitig bezeichneten
+        Reisenden“ oder die Buchungsnummer)*
+
+
+*    *   (gegebenenfalls einsetzen: Geltungsdauer des Sicherungsscheins)*
+
+
+*    *   Dem Reisenden steht im Fall der Insolvenz*  gegenüber dem unten
+        angegebenen Kundengeldabsicherer unter den gesetzlichen
+        Voraussetzungen ein unmittelbarer Anspruch im Sinne des § 651r Absatz
+        4 des Bürgerlichen Gesetzbuchs zu.
+
+
+*    *   Die Haftung des Kundengeldabsicherers ist begrenzt. Er haftet für alle
+        durch ihn in einem Geschäftsjahr insgesamt zu erstattenden Beträge nur
+        bis zu einem Betrag von 110 Mio. Euro. Sollte diese Summe nicht für
+        alle Reisenden ausreichen, so verringert sich der Erstattungsbetrag in
+        dem Verhältnis, in dem ihr Gesamtbetrag zum Höchstbetrag steht.*
+
+
+*    *   Bei Rückfragen wenden Sie sich an: (mindestens einsetzen: Namen,
+        Anschrift und Telefonnummer der anzusprechenden Stelle; falls diese
+        nicht für die Schadensabwicklung zuständig ist, auch Namen, Anschrift
+        und Telefonnummer der dafür zuständigen Stelle).
+
+
+*    *   (einsetzen: Namen, ladungsfähige Anschrift des Kundengeldabsicherers)
+
+
+*    *   Kundengeldabsicherer
+
+
+
+**Gestaltungshinweise:**
+
+*   Hier ist bei einer Vermittlung verbundener Reiseleistungen (§ 651w des
+    Bürgerlichen Gesetzbuchs) anstelle des nachfolgenden Wortes
+    „Pauschalreisen“ Folgendes einzufügen: „verbundene Reiseleistungen“.
+
+
+*   Hier ist bei einer Vermittlung verbundener Reiseleistungen (§ 651w des
+    Bürgerlichen Gesetzbuchs) anstelle der nachfolgenden Angabe „§ 651r“
+    Folgendes einzufügen: „den §§ 651r und 651w“.
+
+
+*   Diese Angaben können entfallen. In diesem Falle ist folgender Satz
+    einzufügen: „Dieser Sicherungsschein gilt für den Buchenden und alle
+    Reiseteilnehmer. “
+
+
+*   Falls der Sicherungsschein befristet ist, muss die Frist mindestens
+    den Zeitraum vom Vertragsschluss bis zur Beendigung der Reise
+    umfassen.
+
+
+*   Hier ist einzufügen:
+
+    a)  wenn ein Pauschalreisevertrag vorliegt: entweder die Wörter „des
+        umseitig bezeichneten Reiseveranstalters“ oder „der“/„des“ und sodann
+        Firma/Name und Anschrift des Reiseveranstalters,
+
+
+    b)  wenn eine Vermittlung verbundener Reiseleistungen (§ 651w des
+        Bürgerlichen Gesetzbuchs) vorliegt: „der“/„des“ und sodann Firma/Name
+        und Anschrift des Vermittlers verbundener Reiseleistungen.
+
+
+
+
+
+*   Dieser Absatz entfällt bei Kundengeldabsicherungen, bei denen die
+    Haftungsbeschränkung nach § 651r Absatz 3 des Bürgerlichen Gesetzbuchs
+    nicht vereinbart wird.
+
+
+
 

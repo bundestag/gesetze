@@ -3,7 +3,7 @@ Title: Zweite Verordnung zur Änderung der Verordnung zur Durchführung der Vors
   über Steuerberater, Steuerbevollmächtigte und Steuerberatungsgesellschaften
 jurabk: StBDVÄndV 2
 layout: default
-origslug: stbdv_ndv_2
+origslug: stbdvaendv_2
 slug: stbdvaendv_2
 
 ---

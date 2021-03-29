@@ -2,7 +2,7 @@
 Title: Erste Verordnung zur Änderung der Ersten Bezügeanpassungs-Übergangsverordnung
 jurabk: BezAnpÜV1ÄndV 1
 layout: default
-origslug: bezanp_v1_ndv_1
+origslug: bezanpuev1aendv_1
 slug: bezanpuev1aendv_1
 
 ---

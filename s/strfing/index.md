@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1960, 201
 
 Zuletzt geändert durch
-:   Art. 285 V v. 31.10.2006 I 2407
+:   Art. 19 G v. 14.8.2017 I 3122
 
 
 ## Abschnitt I - Finanzierung des Ausbaus der Bundesfernstraßen
@@ -47,9 +47,9 @@ Rechnungsjahre Kredite bis zu einem jeweils durch das Haushaltsgesetz
 zu bestimmenden Betrag aufzunehmen.
 
 (2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung die Finanzierung des Baues von Bundesfernstraßen
-einer Gesellschaft des privaten Rechts vertraglich zu übertragen. Das
+Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur die Finanzierung des Baues von Bundesfernstraßen einer
+Gesellschaft des privaten Rechts vertraglich zu übertragen. Das
 Bundesministerium der Finanzen wird ermächtigt, für
 Schuldverpflichtungen, welche die Gesellschaft für die Finanzierung
 des Baues von Bundesfernstraßen eingeht, Sicherheitsleistungen oder
@@ -101,7 +101,7 @@ als Anlage zum Bundeshaushaltsplan aufzustellen.
 
 
 (3) Der Straßenbauplan kann für mehrere Rechnungsjahre aufgestellt
-werden. Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+werden. Das Bundesministerium für Verkehr und digitale Infrastruktur
 kann in diesem Fall mit Zustimmung des Bundesministeriums der Finanzen
 im Rahmen der für den Straßenbau bewilligten Mittel
 Straßenbaumaßnahmen, die im Straßenbauplan erst für ein späteres
@@ -140,7 +140,7 @@ c)  innerhalb des Zonenrandgebietes oder der Frachthilfegebiete.
 
 
 Das Bundesministerium der Finanzen bestimmt im Einvernehmen mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung durch
+Bundesministerium für Verkehr und digitale Infrastruktur durch
 Rechtsverordnung, von welchen weiteren Voraussetzungen die
 Betriebsbeihilfe abhängt, insbesondere welche örtlichen Beziehungen
 zwischen dem Unternehmer und den bezeichneten Gebieten bestehen

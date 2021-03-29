@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2885
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 3 G v. 17.7.2009 I 2062
+:   Art. 2 Abs. 5 G v. 16.6.2017 I 1634
 
 
 ## Eingangsformel
@@ -230,15 +230,20 @@ bestimmt sich nach § 494 Abs. 1 bis 3 der Strafprozessordnung.
     des Sprengstoffgesetzes,
 
 
+5b. die an Sicherheitsüberprüfungen mitwirkenden Behörde nach Maßgabe des
+    § 492 Absatz 3 Satz 3 der Strafprozessordnung und des § 12 Absatz 1
+    Nummer 2 des Sicherheitsüberprüfungsgesetzes,
+
+
 6.  das nationale Mitglied von Eurojust nach Maßgabe des § 4 Abs. 4 des
     Eurojust-Gesetzes.
 
 
 
 
-(2) Nach Maßgabe der in § 492 Abs. 4 der Strafprozessordnung genannten
-Bestimmungen erhalten auf Ersuchen Auskunft über die in § 4 Abs. 1 und
-3 genannten Daten auch
+(2) Nach Maßgabe des § 492 Absatz 4 der Strafprozessordnung erhalten
+auf Ersuchen Auskunft über die in § 4 Absatz 1 bis 3 genannten Daten
+auch
 
 1.  die Verfassungsschutzbehörden des Bundes und der Länder,
 

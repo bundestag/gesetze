@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 9.11.2006 I 2601;
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 100 G v. 22.12.2011 I 3044
+:   Art. 1 V v. 2.6.2014 I 700
 
 
 ## § 1 Anwendungsbereich
@@ -32,7 +32,7 @@ Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
 ## § 2 Zuständige Stelle
 
 (1) Zuständig für die Festsetzung und Änderung der Quoten ist das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+Bundesministerium für Ernährung und Landwirtschaft
 (Bundesministerium).
 
 (2) Die Bundesanstalt für Landwirtschaft und Ernährung (Bundesanstalt)
@@ -65,22 +65,22 @@ ist zuständig für
 
     die sich in ihrem Besitz befinden oder Gegenstand eines
     Optionsscheines sind und am Ende des Vormonats im freien Warenverkehr
-    im Gemeinschaftsgebiet gelagert waren,
+    im Unionsgebiet gelagert waren,
 
 
 2.  die
 
-    a)  Erfassung der Mitteilungen nach Artikel 57 Absatz 2 Buchstabe a bis c
-        der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über
-        eine gemeinsame Organisation der Agrarmärkte und mit
-        Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-        (Verordnung über die einheitliche GMO) (ABl. L 299 vom 16.11.2007, S.
-        1) in der jeweils geltenden Fassung mit Ausnahme der Angaben über die
-        Zuckererzeugung,
+    a)  Erfassung der Mitteilungen nach Artikel 137 Absatz 2 Buchstabe a bis c
+        der Verordnung (EU) Nr. 1308/2013 des Europäischen Parlaments und des
+        Rates vom 17. Dezember 2013 über eine gemeinsame Marktorganisation für
+        landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+        (EWG) Nr. 992/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+        1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) in der jeweils geltenden
+        Fassung mit Ausnahme der Angaben über die Zuckererzeugung,
 
 
-    b)  Kontrolle der Mitteilung nach Artikel 57 Absatz 2 Buchstabe c der
-        Verordnung (EG) Nr. 1234/2007,
+    b)  Kontrolle der Mitteilung nach Artikel 137 Absatz 2 Buchstabe c der
+        Verordnung (EU) Nr. 1308/2013,
 
 
     c)  Erfassung und Kontrolle der Angaben nach Artikel 21 Absatz 1 der
@@ -121,13 +121,13 @@ ist zuständig für
 
 (3) Die Bundesfinanzverwaltung ist zuständig für
 
-1.  die Zulassung der Unternehmen nach Artikel 57 Absatz 1 der Verordnung
-    (EG) Nr. 1234/2007,
+1.  die Zulassung der Unternehmen nach Artikel 137 Absatz 1 der Verordnung
+    (EU) Nr. 1308/2013,
 
 
 2.  die Erfassung und Weiterleitung der Angaben über die Zuckererzeugung
-    nach Artikel 57 Absatz 2 Buchstabe b der Verordnung (EG) Nr.
-    1234/2007,
+    nach Artikel 137 Absatz 2 Buchstabe b der Verordnung (EU) Nr.
+    1308/2013,
 
 
 3.  die Erfassung und Weiterleitung der Angaben der zugelassenen
@@ -165,8 +165,7 @@ sonstigen vom Rat verfolgten Zielen Rechnung zu tragen.
 
 ## § 4 Zulassung der Unternehmen
 
-(1) Der Antrag auf Zulassung als Unternehmen nach Artikel 57 Absatz 1
-der Verordnung (EG) Nr. 1234/2007 bedarf der Schriftform.
+(1) Der Antrag auf Zulassung als Unternehmen bedarf der Schriftform.
 
 (2) Die gewerblichen Produktionskapazitäten sind durch die nach § 3a
 Abs. 1 Satz 2 der Zucker-Produktionsabgaben-Verordnung erforderlichen

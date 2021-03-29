@@ -18,6 +18,12 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 6.1.2006 I 49
 
+Geändert durch
+:   Art. 498 V v. 31.8.2015 I 1474
+
+Änderung durch
+:   Art. 20 G v. 14.8.2017 I 3122 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## § 1 Bau und Finanzierung durch Private
 
@@ -120,7 +126,7 @@ nach Maßgabe dieses Gesetzes errichteten
 
 
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung im Einvernehmen mit den betroffenen
 Landesregierungen und ohne Zustimmung des Bundesrates die Strecken
 festzulegen, die nach Maßgabe dieses Gesetzes und der hierzu
@@ -190,9 +196,9 @@ zu behandeln sind.
 
 ## § 4 Mautbemessungs- und -kalkulationsverordnung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
-dem Bundesministerium für Wirtschaft und Technologie durch
+dem Bundesministerium für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
 über die Bemessung der Mautgebühren und die Kalkulation des
 Mautgebührensatzes nach § 3 Abs. 2 bis 5 zu erlassen.
@@ -262,7 +268,7 @@ wesentlich geändert haben.
 
 (4) Vor Erteilung der Genehmigung hat die oberste
 Landesstraßenbaubehörde die Zustimmung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung einzuholen.
+Verkehr und digitale Infrastruktur einzuholen.
 
 (5) Die Genehmigung kann unbeschadet der
 verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und
@@ -384,7 +390,7 @@ Be- und Abrechnung der Mautgebühr geschlossen, sind die Vorschriften
 über Datenverarbeitung im Auftrag anzuwenden. Die Absätze 2 und 3
 gelten für den Auftragnehmer entsprechend.
 
-(6) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(6) Das Bundesministerium für Verkehr und digitale Infrastruktur
 erlässt nach Anhörung der jeweils zuständigen obersten
 Landesstraßenbaubehörde durch Rechtsverordnung mit Zustimmung des
 Bundesrates ergänzende Bestimmungen über Art und Umfang der Erhebung,
@@ -495,7 +501,7 @@ nicht mehr anzuwenden. Die zuständige oberste Landesstraßenbaubehörde
 hat den nach Satz 1 maßgeblichen Tag im Bundesanzeiger bekannt zu
 machen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 eine auf Grund des § 3a Abs. 2 in Verbindung mit § 3 Abs. 2 bis 5 in
 der jeweils bis zum 7. September 2005 geltenden Fassung erlassene

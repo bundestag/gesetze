@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 2538
 
 Zuletzt geändert durch
-:   Art. 1 G v. 17.5.2002 I 1580
+:   Art. 20 G v. 20.11.2015 I 2010
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -351,10 +351,10 @@ Vertragsverhältnis nach Ablauf des 31. Dezember 2022 endet.
 Grundstückseigentümer zur Kündigung des Vertrages nach § 564 Satz 2, §
 580 des Bürgerlichen Gesetzbuchs berechtigt.
 
-(2) Ein Vertrag nach § 1 Abs. 1 Nr. 1 zur kleingärtnerischen Nutzung,
-Erholung oder Freizeitgestaltung wird beim Tod eines Ehegatten mit dem
-überlebenden Ehegatten fortgesetzt, wenn auch der überlebende Ehegatte
-Nutzer ist.
+(2) Ein Vertrag nach § 1 Absatz 1 Nummer 1 zur kleingärtnerischen
+Nutzung, Erholung oder Freizeitgestaltung wird beim Tod eines Nutzers
+mit dessen Ehegatten oder Lebenspartner fortgesetzt, wenn auch der
+Ehegatte oder Lebenspartner Nutzer ist.
 
 
 ##### § 17 Unredlicher Erwerb

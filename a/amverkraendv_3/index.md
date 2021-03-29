@@ -4,7 +4,7 @@ Title: Dritte Verordnung zur Änderung der Verordnung über die Zulassung von Ar
   Ausschluß von Arzneimitteln vom Verkehr außerhalb der Apotheken
 jurabk: AMVerkRÄndV 3
 layout: default
-origslug: amverkr_ndv_3
+origslug: amverkraendv_3
 slug: amverkraendv_3
 
 ---

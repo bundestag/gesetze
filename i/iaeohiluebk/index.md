@@ -3,7 +3,7 @@ Title: Übereinkommen über Hilfeleistung bei nuklearen Unfällen oder radiologi
   Notfällen
 jurabk: IAEOHiLÜbk
 layout: default
-origslug: iaeohil_bk
+origslug: iaeohiluebk
 slug: iaeohiluebk
 
 ---

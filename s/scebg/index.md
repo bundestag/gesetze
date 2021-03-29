@@ -183,7 +183,7 @@ der Europäischen Union und die anderen Vertragsstaaten des Abkommens
 
 
 
-### Kapitel 1 - Bildung und Zusammensetzung des besonderen Verhandlungsgremiums
+### Kapitel 1 - Bildung und Zusammensetzung des besonderen  Verhandlungsgremiums
 
 
 
@@ -1304,7 +1304,7 @@ die den Arbeitnehmern infolge der Unternehmens- oder Betriebsänderung
 entstehen.
 
 
-## Teil 3 - Beteiligung der Arbeitnehmer in einer Europäischen Genossenschaft, an deren Gründung natürliche Personen beteiligt sind
+## Teil 3 - Beteiligung der Arbeitnehmer in einer Europäischen  Genossenschaft, an deren Gründung natürliche Personen beteiligt sind
 
 
 

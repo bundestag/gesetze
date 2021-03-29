@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2039
 
 Zuletzt geändert durch
-:   Art. 1 G v. 29.7.2009 I 2251
+:   Art. 1 G v. 5.6.2017 I 1474
 
 
 
@@ -34,20 +34,30 @@ bundesunmittelbare rechtsfähige Anstalt des öffentlichen Rechts
 (Bundesanstalt) errichtet. Sie trägt die Bezeichnung "Bundesanstalt
 für den Digitalfunk der Behörden und Organisationen mit
 Sicherheitsaufgaben" (Bundesanstalt für den Digitalfunk der BOS -
-BDBOS). Der Zweck der Bundesanstalt ist der Aufbau und der Betrieb
-eines bundesweit einheitlichen digitalen Sprech- und Datenfunksystems
-für Behörden und Organisationen mit Sicherheitsaufgaben (Digitalfunk
-BOS) in der Bundesrepublik Deutschland.
+BDBOS). Der Zweck der Bundesanstalt ist insbesondere der Aufbau und
+der Betrieb eines bundesweit einheitlichen digitalen Sprech- und
+Datenfunksystems für Behörden und Organisationen mit
+Sicherheitsaufgaben (Digitalfunk BOS) in der Bundesrepublik
+Deutschland. Weiterer Zweck ist die Wahrnehmung der Aufgaben nach § 2
+Absatz 1 Satz 2, soweit diese ihr hiernach übertragen worden sind.
 
 (2) Die Bundesanstalt hat ihren Sitz in Berlin.
 
 
-## § 2 Aufgabe, Nutzer der Bundesanstalt
+## § 2 Aufgaben
 
 (1) Die Bundesanstalt hat die Aufgaben, den Digitalfunk der Behörden
 und Organisationen mit Sicherheitsaufgaben (Digitalfunk BOS)
 aufzubauen, zu betreiben und seine Funktionsfähigkeit sicherzustellen.
-Sie nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der
+Das Bundesministerium des Innern kann im Einvernehmen mit dem
+Bundesministerium der Finanzen sowie mit den im Einzelfall zuständigen
+weiteren Bundesministerien der Bundesanstalt darüber hinaus Planung,
+Aufbau, Betrieb und Sicherstellung der Funktionsfähigkeit weiterer
+staatlicher Kommunikationsinfrastrukturen des Bundes sowie Aufgaben,
+die sich aus dem Zusammenwirken von Bund und Ländern bei der Planung,
+Errichtung, dem Betrieb und der Sicherstellung ihrer staatlichen
+Kommunikationsinfrastrukturen ergeben, übertragen. Die Bundesanstalt
+nimmt ihre Aufgaben nur im öffentlichen Interesse wahr. Der
 Digitalfunk BOS soll den Behörden und Organisationen mit
 Sicherheitsaufgaben des Bundes zur Verfügung stehen sowie, nach
 Maßgabe des Verwaltungsabkommens nach § 7, den Behörden und
@@ -96,13 +106,16 @@ Wiederholte Ernennungen sind möglich.
 
 ## § 5 Verwaltungsrat
 
-(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet. Er
-überwacht die Geschäftsführung durch die Präsidentin oder den
+(1) Bei der Bundesanstalt wird ein Verwaltungsrat gebildet, der für
+Belange im Sinne des § 2 Absatz 1 Satz 1 zuständig ist. Er überwacht
+insoweit die Geschäftsführung durch die Präsidentin oder den
 Präsidenten und unterstützt diese oder diesen bei der Erfüllung ihrer
 oder seiner Aufgaben. Ihm obliegt die Entscheidung über die
-grundsätzlichen Angelegenheiten der Bundesanstalt. Näheres regelt die
-Satzung. Die Präsidentin oder der Präsident hat den Verwaltungsrat
-regelmäßig über die Geschäftsführung zu unterrichten.
+grundsätzlichen Angelegenheiten der Bundesanstalt, soweit Belange im
+Sinne des § 2 Absatz 1 Satz 1 betroffen sein können, sowie bei der
+Übertragung von Aufgaben im Sinne von § 2 Absatz 1 Satz 2. Näheres
+regelt die Satzung. Die Präsidentin oder der Präsident hat den
+Verwaltungsrat regelmäßig über die Geschäftsführung zu unterrichten.
 
 (2) Der Verwaltungsrat gibt sich eine Geschäftsordnung.
 
@@ -123,13 +136,13 @@ ihre Vertreterinnen oder Vertreter müssen die Voraussetzungen für die
 Wählbarkeit zum Deutschen Bundestag erfüllen.
 
 (5) Die Mitglieder und ihre Vertreterinnen oder Vertreter können durch
-schriftliche Erklärung gegenüber dem Bundesministerium des Innern ihr
-Amt niederlegen. Eine Abberufung von Mitgliedern durch das
-Bundesministerium des Innern erfolgt, wenn die Voraussetzungen der
-Bestellung nicht mehr vorliegen; die Abberufung bedarf bei einem von
-einem Land benannten Mitglied des Einvernehmens des benennenden
-Landes. Satz 2 gilt entsprechend für die Vertreterin oder den
-Vertreter eines Mitglieds.
+schriftliche oder elektronische Erklärung gegenüber dem
+Bundesministerium des Innern ihr Amt niederlegen. Eine Abberufung von
+Mitgliedern durch das Bundesministerium des Innern erfolgt, wenn die
+Voraussetzungen der Bestellung nicht mehr vorliegen; die Abberufung
+bedarf bei einem von einem Land benannten Mitglied des Einvernehmens
+des benennenden Landes. Satz 2 gilt entsprechend für die Vertreterin
+oder den Vertreter eines Mitglieds.
 
 (6) Scheidet ein Mitglied, eine Vertreterin oder ein Vertreter aus, so
 ist unverzüglich eine Nachfolgerin oder ein Nachfolger zu bestellen.
@@ -195,8 +208,11 @@ Innern.
 
 Zur Wahrnehmung für die ihr nach § 2 übertragenen Aufgaben bildet die
 Bundesanstalt ein Zweckvermögen. Die Bundesanstalt deckt ihren Aufwand
-anteilig durch Mittel von Bund und Ländern. Die Einzelheiten regelt
-das Verwaltungsabkommen nach § 7.
+für die ihr nach § 2 Absatz 1 Satz 1 übertragenen Aufgaben anteilig
+durch Mittel von Bund und Ländern. Die Einzelheiten regelt das
+Verwaltungsabkommen nach § 7. Im Fall einer Aufgabenübertragung nach §
+2 Absatz 1 Satz 2 erfolgt die Finanzierung nach der
+Verwaltungszuständigkeit.
 
 
 ## § 10 Wirtschaftsplan, mittelfristige Planung
@@ -218,15 +234,20 @@ Geschäftsjahr auf, der
 
 
 
-umfasst. Zusammen mit dem Wirtschaftsplan stellt die Präsidentin oder
-der Präsident eine mittelfristige Planung (Erfolgs-, Investitions- und
+umfasst. Der Wirtschaftsplan weist Investitionen und Aufwendungen für
+Aufgaben gemäß § 2 Absatz 1 Satz 1 und 2 jeweils gesondert aus.
+Zusammen mit dem Wirtschaftsplan stellt die Präsidentin oder der
+Präsident eine mittelfristige Planung (Erfolgs-, Investitions- und
 Finanzierungsvorschau) auf, die das Planjahr und mindestens drei
 darauf folgende Geschäftsjahre umfasst. Geschäftsjahr ist das
 Kalenderjahr. Die näheren Einzelheiten regelt die Satzung.
 
-(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat den
-Wirtschaftsplan und die mittelfristige Planung unverzüglich vor. Der
-Wirtschaftsplan wird vom Verwaltungsrat festgestellt. Er bedarf der
+(2) Die Präsidentin oder der Präsident legt dem Verwaltungsrat und dem
+Bundesministerium des Innern den Wirtschaftsplan und die
+mittelfristige Planung unverzüglich vor. Der Wirtschaftsplan wird im
+Rahmen seiner Zuständigkeit gemäß § 5 Absatz 1 Satz 1 vom
+Verwaltungsrat und vom Bundesministerium des Innern für übertragene
+Aufgaben gemäß § 2 Absatz 1 Satz 2 festgestellt. Er bedarf der
 Genehmigung des Bundesministeriums des Innern im Einvernehmen mit dem
 Bundesministerium der Finanzen.
 
@@ -241,9 +262,13 @@ Abschluss des Geschäftsjahres einen Jahresabschluss und einen
 Lagebericht nach handelsrechtlichen Grundsätzen für große
 Kapitalgesellschaften auf und legt diese zur Abschlussprüfung vor.
 
-(3) Der Verwaltungsrat stellt den Jahresabschluss fest und entscheidet
-über die Entlastung der Präsidentin oder des Präsidenten nach § 109
-Abs. 3 Satz 2 der Bundeshaushaltsordnung.
+(3) Für Aufgaben gemäß § 2 Absatz 1 Satz 1 stellt der Verwaltungsrat
+den Jahresabschluss fest und entscheidet über die Entlastung der
+Präsidentin oder des Präsidenten nach § 109 Absatz 3 Satz 2 der
+Bundeshaushaltsordnung. Das Bundesministerium des Innern stellt für
+übertragene Aufgaben gemäß § 2 Absatz 1 Satz 2 den Jahresabschluss
+fest und entscheidet über die Entlastung der Präsidentin oder des
+Präsidenten im Einvernehmen mit dem Bundesministerium der Finanzen.
 
 (4) Näheres regelt die Satzung. § 109 Abs. 2 Satz 3 und 4 der
 Bundeshaushaltsordnung ist anzuwenden.
@@ -381,28 +406,29 @@ Digitalfunk BOS geeignet, wenn
 
 
 
-(2) Die Bundesanstalt entscheidet auf schriftlichen Antrag des
-Herstellers oder Lieferanten eines Endgerätes über die Erteilung eines
-Zertifikats. Die Überprüfung der Einhaltung der Anforderungen nach
-Absatz 1 Satz 3 Nummer 1 und 2 soll durch eine sachverständige
-Prüfstelle aus einem Mitgliedstaat der Europäischen Union oder einem
-anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum erfolgen. Sie wird vom Hersteller oder Lieferanten
-beauftragt und nimmt die Prüfung anhand der von der Bundesanstalt
-festgelegten und gemäß der Rechtsverordnung nach § 15b Absatz 1
-veröffentlichten Prüfkriterien vor. Die Bundesanstalt kann die Prüfung
-auch selbst durchführen. Der Antragsteller legt der Bundesanstalt die
-für die Erteilung des Zertifikats erforderlichen Unterlagen,
-insbesondere den Prüfbericht der Prüfstelle, vor und erteilt die
-Auskünfte, die für die Erteilung des Zertifikats erforderlich sind.
-Der Antragsteller hat zwei Einzelstücke des zu zertifizierenden
-Endgerätes unentgeltlich bei der Bundesanstalt abzuliefern; im Fall
-der vollständigen Versagung des Zertifikats wird die Bundesanstalt
-eines der Einzelstücke an den Antragsteller zurückgeben. Das
-Zertifikat führt die Leistungsmerkmale und Anwendungen des Endgerätes
-auf, auf die sich das Zertifikat bezieht. Satz 6 findet keine
-Anwendung, wenn es sich bei dem zu zertifizierenden Endgerät um eine
-mobile oder stationäre Funkleitstelle handelt.
+(2) Die Bundesanstalt entscheidet auf schriftlichen oder
+elektronischen Antrag des Herstellers oder Lieferanten eines
+Endgerätes über die Erteilung eines Zertifikats. Die Überprüfung der
+Einhaltung der Anforderungen nach Absatz 1 Satz 3 Nummer 1 und 2 soll
+durch eine sachverständige Prüfstelle aus einem Mitgliedstaat der
+Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+den Europäischen Wirtschaftsraum erfolgen. Sie wird vom Hersteller
+oder Lieferanten beauftragt und nimmt die Prüfung anhand der von der
+Bundesanstalt festgelegten und gemäß der Rechtsverordnung nach § 15b
+Absatz 1 veröffentlichten Prüfkriterien vor. Die Bundesanstalt kann
+die Prüfung auch selbst durchführen. Der Antragsteller legt der
+Bundesanstalt die für die Erteilung des Zertifikats erforderlichen
+Unterlagen, insbesondere den Prüfbericht der Prüfstelle, vor und
+erteilt die Auskünfte, die für die Erteilung des Zertifikats
+erforderlich sind. Der Antragsteller hat zwei Einzelstücke des zu
+zertifizierenden Endgerätes unentgeltlich bei der Bundesanstalt
+abzuliefern; im Fall der vollständigen Versagung des Zertifikats wird
+die Bundesanstalt eines der Einzelstücke an den Antragsteller
+zurückgeben. Das Zertifikat führt die Leistungsmerkmale und
+Anwendungen des Endgerätes auf, auf die sich das Zertifikat bezieht.
+Satz 6 findet keine Anwendung, wenn es sich bei dem zu
+zertifizierenden Endgerät um eine mobile oder stationäre
+Funkleitstelle handelt.
 
 (3) Jede wesentliche Änderung eines bereits zertifizierten Endgerätes,
 insbesondere durch Änderung eines Leistungsmerkmals, macht eine
@@ -487,28 +513,29 @@ den Inhalt der Zertifikate nach § 15a Absatz 1 bis 3, insbesondere
 Das Bundesministerium des Innern kann diese Ermächtigung durch
 Rechtsverordnung auf die Bundesanstalt übertragen.
 
-(2) Für Amtshandlungen nach § 15 Absatz 1 und § 15a werden zur Deckung
-des Verwaltungsaufwands Gebühren und Auslagen erhoben. Das
-Bundesministerium des Innern wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung die
-gebührenpflichtigen Tatbestände, die Gebührensätze sowie die
-Auslagenerstattung zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen. Die Auslagen können abweichend von § 10 des
-Verwaltungskostengesetzes bestimmt werden. Das Bundesministerium des
-Innern kann die Ermächtigung nach den Sätzen 2 und 3 durch
-Rechtsverordnung auf die Bundesanstalt übertragen.
+(2) Für individuell zurechenbare öffentliche Leistungen nach § 15
+Absatz 1 und § 15a werden zur Deckung des Verwaltungsaufwands Gebühren
+und Auslagen erhoben. Das Bundesministerium des Innern wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
+durch Rechtsverordnung die gebührenpflichtigen Tatbestände, die
+Gebührensätze sowie die Auslagenerstattung zu bestimmen und dabei
+feste Sätze oder Rahmensätze vorzusehen. Die Auslagen können
+abweichend von § 23 Absatz 6 des Bundesgebührengesetzes bestimmt
+werden. Das Bundesministerium des Innern kann die Ermächtigung nach
+den Sätzen 2 und 3 durch Rechtsverordnung auf die Bundesanstalt
+übertragen.
 
 (3) Die Rechtsverordnungen nach den Absätzen 1 und 2 bedürfen nicht
 der Zustimmung des Bundesrates.
 
 (4) Für ein Vorverfahren werden Gebühren und Auslagen erhoben. Für die
 vollständige oder teilweise Zurückweisung eines Widerspruchs wird eine
-Gebühr bis zur Höhe der für die angefochtene Amtshandlung
+Gebühr bis zur Höhe der für den angefochtenen Verwaltungsakt
 festgesetzten Gebühr erhoben. Wird ein Widerspruch nach Beginn seiner
 sachlichen Bearbeitung, jedoch vor deren Beendigung zurückgenommen,
 beträgt die Gebühr höchstens 75 Prozent der Widerspruchsgebühr. Über
-die Kosten nach den Sätzen 2 und 3 entscheidet die Widerspruchsstelle
-nach billigem Ermessen.
+die Gebühren und Auslagen nach den Sätzen 2 und 3 entscheidet die
+Widerspruchsstelle nach billigem Ermessen.
 
 
 ## § 15c Testplattform
@@ -517,9 +544,8 @@ nach billigem Ermessen.
 Testplattform unterhalten.
 
 (2) Die Präsidentin oder der Präsident kann durch Satzung die
-Benutzung der Testplattform sowie die Gebühren hierfür regeln. Die §§
-2 bis 22 des Verwaltungskostengesetzes sind entsprechend anzuwenden.
-Die Gebühren sind so zu bemessen, dass der mit der Benutzung der
+Benutzung der Testplattform sowie die Gebühren hierfür regeln. Die
+Gebühren sind so zu bemessen, dass der mit der Benutzung der
 Testplattform verbundene Personal- und Sachaufwand gedeckt wird. Die
 Satzung wird im Bundesanzeiger veröffentlicht.
 
@@ -554,39 +580,8 @@ nicht zulässig.
 (5) Die Bundesanstalt kann nur durch Gesetz aufgelöst werden.
 
 
-## § 18 Übergangsvorschriften
+## (XXXX) §§ 18 und 19 (weggefallen)
 
-(1) Nach der Errichtung der Bundesanstalt finden innerhalb von sechs
-Monaten Wahlen zur Personalvertretung statt. Bis zur Konstituierung
-des Personalrates werden die Aufgaben der Personalvertretung bei der
-Bundesanstalt vom Hauptpersonalrat beim Bundesministerium des Innern
-wahrgenommen.
-
-(2) Der Übergangspersonalrat bestellt unverzüglich den Vorstand für
-die Durchführung der Personalratswahlen in der Bundesanstalt.
-
-(3) Die Absätze 1 und 2 gelten entsprechend für die Jugend- und
-Auszubildendenvertretung sowie die Schwerbehindertenvertretung.
-
-(4) Nach Errichtung der Bundesanstalt findet innerhalb von sechs
-Monaten die Wahl der Gleichstellungsbeauftragten und ihrer
-Stellvertreterin statt. Bis zur Bestellung der
-Gleichstellungsbeauftragten und ihrer Stellvertreterin werden die
-Aufgaben von der Gleichstellungsbeauftragten des Bundesministeriums
-des Innern und ihrer Stellvertreterin wahrgenommen.
-
-(5) Eine vorläufige Satzung für die Bundesanstalt erlässt das
-Bundesministerium des Innern durch Organisationserlass, der im
-Gemeinsamen Ministerialblatt veröffentlicht wird. Sie soll nur die zur
-Gewährleistung der Arbeitsfähigkeit der Bundesanstalt erforderlichen
-Regelungen enthalten. Für das restliche Geschäftsjahr, in dem dieses
-Gesetz in Kraft tritt, erlässt das Bundesministerium des Innern einen
-vorläufigen Wirtschaftsplan.
-
-
-## § 19 Änderungen des Bundesbesoldungsgesetzes
-
--
 
 
 ## § 20 Inkrafttreten

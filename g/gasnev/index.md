@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2197
 
 Zuletzt geändert durch
-:   Art. 5 V v. 3.9.2010 I 1261
+:   Art. 118 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -119,10 +119,10 @@ dass
 
 (3) Betreiber von Fernleitungsnetzen, die die Entgelte nach Absatz 2
 bilden, haben dies unverzüglich der Regulierungsbehörde schriftlich
-anzuzeigen sowie das Vorliegen der in Absatz 2 genannten
-Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1 sind
-jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3 der
-Anreizregulierungsverordnung, erstmals vor Beginn der zweiten
+oder elektronisch anzuzeigen sowie das Vorliegen der in Absatz 2
+genannten Voraussetzungen nachzuweisen. Weitere Anzeigen nach Satz 1
+sind jeweils zwei Jahre vor Beginn einer Regulierungsperiode nach § 3
+der Anreizregulierungsverordnung, erstmals vor Beginn der zweiten
 Regulierungsperiode bei der Regulierungsbehörde einzureichen. Die
 Regulierungsbehörde hat zu prüfen, ob die Voraussetzungen nach Absatz
 2 Satz 1 und 2 vorliegen. Stellt sie fest, dass dies nicht der Fall
@@ -190,11 +190,39 @@ ansetzen, wie sie anfielen, wenn der Betreiber Eigentümer der Anlagen
 wäre. Der Betreiber des Gasversorgungsnetzes hat die erforderlichen
 Nachweise zu führen.
 
-(5a) Betreiber von Gasversorgungsnetzen können Kosten oder
-Kostenbestandteile, die auf Grund von Dienstleistungen durch Dritte
-anfallen, maximal in der Höhe ansetzen, wie sie anfielen, wenn sie die
-Leistungen selbst erbringen würden. Der Betreiber des
-Gasversorgungsnetzes hat die erforderlichen Nachweise zu führen.
+(5a) Erbringen Unternehmen gegenüber einem Betreiber eines
+Gasversorgungsnetzes Dienstleistungen, so sind die diesbezüglichen
+Kosten oder Kostenbestandteile nach Maßgabe dieses Absatzes bei der
+Netzkostenermittlung zu berücksichtigen. Gehören das die
+Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder ein Gesellschafter des Betreibers des
+Gasversorgungsnetzes zu einer Gruppe miteinander verbundener
+Gasunternehmen, so darf der Betreiber des Gasversorgungsnetzes die aus
+der Erbringung der Dienstleistung entstehenden Kosten oder
+Kostenbestandteile maximal in der Höhe ansetzen, wie sie bei dem die
+Dienstleistung erbringenden Unternehmen unter Anwendung der Grundsätze
+der Entgeltbestimmung im Sinne dieser Verordnung und gegebenenfalls
+unter Anwendung des § 6 Absatz 2 der Anreizregulierungsverordnung
+tatsächlich angefallen sind. Beinhalten die nach Satz 2 für die
+Erbringung von Dienstleistungen angefallenen Kosten oder
+Kostenbestandteile Vorleistungen von Unternehmen, die ebenfalls zu der
+Gruppe miteinander verbundener Gasunternehmen gehören, der das die
+Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder dessen Gesellschafter angehören, können
+diese nur maximal in der Höhe einbezogen werden, wie sie jeweils bei
+dem die Vorleistung erbringenden Unternehmen unter Anwendung der
+Grundsätze der Entgeltbestimmung im Sinne dieser Verordnung und
+gegebenenfalls unter Anwendung des § 6 Absatz 2 der
+Anreizregulierungsverordnung tatsächlich angefallen sind. Gehören das
+die Dienstleistung erbringende Unternehmen und der Betreiber des
+Gasversorgungsnetzes oder dessen Gesellschafter nicht zu einer Gruppe
+miteinander verbundener Gasunternehmen, so darf der Betreiber des
+Gasversorgungsnetzes die aus der Erbringung der Dienstleistung
+entstehenden Kosten oder Kostenbestandteile maximal in der Höhe
+ansetzen, wie sie anfallen würden, wenn der Betreiber des
+Gasversorgungsnetzes die jeweiligen Leistungen selbst erbringen würde.
+Der Betreiber des Gasversorgungsnetzes hat die erforderlichen
+Nachweise zu führen.
 
 (6) Sofern Leistungen nach § 9 Absatz 3 Satz 2 Nummer 1 der
 Gasnetzzugangsverordnung beschafft werden, können Betreiber von
@@ -265,17 +293,15 @@ ist die Differenz zwischen 100 Prozent und der Eigenkapitalquote.
 Entwicklung maßgebliche Anschaffungswert zum jeweiligen
 Bewertungszeitpunkt. Die Umrechnung der historischen Anschaffungs- und
 Herstellungskosten der betriebsnotwendigen Anlagegüter auf
-Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung
-anlagenspezifischer oder anlagengruppenspezifischer Preisindizes, die
-auf den Indexreihen des Statistischen Bundesamtes beruhen
-(Veröffentlichungen des Statistischen Bundesamtes "Preise und
-Preisindizes", Fachserie 16 und 17 \*) ). Im Falle der
-Gasversorgungsnetze in Berlin, Brandenburg, Mecklenburg-Vorpommern,
-Sachsen, Sachsen-Anhalt und Thüringen können für jene Anlagegüter,
-deren Errichtung zeitlich vor ihrer erstmaligen Bewertung in Deutscher
-Mark liegt, die Anschaffungs- und Herstellungskosten unter Verwendung
-zeitnaher üblicher Anschaffungs- und Herstellungskosten und einer
-Rückrechnung mittels der anwendbaren Preisindizes ermittelt werden.
+Tagesneuwerte zum jeweiligen Stichtag erfolgt unter Verwendung von
+Indexreihen des Statistischen Bundesamtes nach Maßgabe des § 6a. Im
+Falle der Gasversorgungsnetze in Berlin, Brandenburg, Mecklenburg-
+Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen können für jene
+Anlagegüter, deren Errichtung zeitlich vor ihrer erstmaligen Bewertung
+in Deutscher Mark liegt, die Anschaffungs- und Herstellungskosten
+unter Verwendung zeitnaher üblicher Anschaffungs- und
+Herstellungskosten und einer Rückrechnung mittels der anwendbaren
+Preisindizes ermittelt werden.
 
 (4) Die kalkulatorischen Abschreibungen der Neuanlagen sind ausgehend
 von den jeweiligen historischen Anschaffungs- und Herstellungskosten
@@ -304,14 +330,143 @@ Restabschreibungsdauer. Es erfolgt keine Abschreibung unter Null.
 (7) Das Verbot von Abschreibungen unter Null gilt ungeachtet der
 Änderung von Eigentumsverhältnissen oder der Begründung von
 Schuldverhältnissen.
------
-
-\*) Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt,
-    Wiesbaden.
 
 
+#### § 6a Preisindizes zur Ermittlung der Tagesneuwerte
+
+[^F782159_02_BJNR219700005BJNE004100301]
+(1) Bei der Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 sind
+folgende Indexreihen des Statistischen Bundesamtes
+heranzuziehen:
+
+1.  für die Anlagengruppen I.2 Grundstücksanlagen, I.3 Betriebsgebäude,
+    I.4 Verwaltungsgebäude, III.8 Gebäude, Verkehrswege und V.9 Gebäude
+    (Mess-, Regel- und Zähleranlagen) der Anlage 1 die Indexreihe
+    Gewerbliche Betriebsgebäude, Bauleistungen am Bauwerk ohne
+    Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+    die Bauwirtschaft);
 
 
+2.  für die Anlagengruppen Rohrleitungen und Hausanschlussleitungen IV.1.1
+    Stahlleitungen PE ummantelt, IV.1.2 Stahlleitungen kathodisch
+    geschützt, IV.1.3 Stahlleitungen bitumiert, IV.2 Grauguss (> DN 150),
+    IV.3 Duktiler Guss, IV.4 Polyethylen (PE-HD) und IV.5 Polyvenylchlorid
+    (PVC) der Anlage 1 die Indexreihe Ortskanäle, Bauleistungen am Bauwerk
+    (Tiefbau), ohne Umsatzsteuer (Statistisches Bundesamt, Fachserie 17,
+    Preisindizes für die Bauwirtschaft);
+
+
+3.  für die Anlagengruppen IV.1.1 Stahlleitungen PE ummantelt, IV.1.2
+    Stahlleitungen kathodisch geschützt und IV.1.3 Stahlleitungen
+    bitumiert, der Anlage 1, die für den Gastransport mit einem Druck
+    größer als 16 bar ausgelegt sind,
+
+    a)  die Indexreihe Stahlrohre, Rohrform-, Rohrverschluss- und
+        Rohrverbindungsstücke aus Eisen und Stahl (Statistisches Bundesamt,
+        Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte) mit
+        einem Anteil von 40 Prozent und
+
+
+    b)  die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau), ohne
+        Umsatzsteuer (Statistisches Bundesamt, Fachserie 17, Preisindizes für
+        die Bauwirtschaft) mit einem Anteil von 60 Prozent;
+
+
+
+
+
+4.  für alle übrigen Anlagengruppen, mit Ausnahme der Anlagengruppe I.1
+    Grundstücke der Anlage 1, der Index der Erzeugerpreise gewerblicher
+    Produkte gesamt (ohne Mineralölerzeugnisse) (Statistisches Bundesamt,
+    Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte).
+
+
+
+
+(2) Sofern die in Absatz 1 genannten Indexreihen des Statistischen
+Bundesamtes nicht für den notwendigen Zeitraum der Vergangenheit
+verfügbar sind, sind der Ermittlung der Tagesneuwerte
+Ersatzindexreihen zu Grunde zu legen, die mit den in Absatz 1
+genannten Indexreihen zu verketten sind. Die Verkettungsfaktoren
+ergeben sich jeweils aus der Division des am weitesten in der
+Vergangenheit liegenden Indexwertes der Indexreihe gemäß Absatz 1
+durch den Indexwert der Ersatzindexreihe für dasselbe
+Beobachtungsjahr. Es sind folgende Ersatzindexreihen heranzuziehen:
+
+1.  für die Indexreihe Gewerbliche Betriebsgebäude, Bauleistungen am
+    Bauwerk, ohne Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Gewerbliche
+        Betriebsgebäude, Bauleistungen am Bauwerk, mit Umsatzsteuer
+        (Statistisches Bundesamt, Fachserie 17, Preisindizes für die
+        Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+2.  für die Indexreihe Ortskanäle, Bauleistungen am Bauwerk (Tiefbau),
+    ohne Umsatzsteuer
+
+    a)  für den Zeitraum von 1958 bis 1968 die Indexreihe Ortskanäle,
+        Bauleistungen am Bauwerk (Tiefbau), mit Umsatzsteuer (Statistisches
+        Bundesamt, Fachserie 17, Preisindizes für die Bauwirtschaft) und
+
+
+    b)  für den Zeitraum vor 1958 die Indexreihe Wiederherstellungswerte für
+        1913/1914 erstellte Wohngebäude (Statistisches Bundesamt, Fachserie
+        17, Preisindizes für die Bauwirtschaft);
+
+
+
+
+
+3.  für die Indexreihe Stahlrohre, Rohrform-, Rohrverschluss- und
+    Rohrverbindungsstücke aus Eisen und Stahl
+
+    a)  für den Zeitraum von 2000 bis 2004 die Indexreihe Rohre aus Eisen oder
+        Stahl (Statistisches Bundesamt, Fachserie 17, Index Erzeugerpreise
+        gewerblicher Produkte),
+
+
+    b)  für den Zeitraum von 1968 bis 1999 die Indexreihe
+        Präzisionsstahlrohre, nahtlos und geschweißt (Statistisches Bundesamt,
+        Fachserie 17, Index der Erzeugerpreise gewerblicher Produkte) und
+
+
+    c)  für den Zeitraum vor 1968 die Indexreihe Eisen und Stahl
+        (Statistisches Bundesamt, Fachserie 17, Index der Erzeugerpreise
+        gewerblicher Produkte);
+
+
+
+
+
+4.  für die Indexreihe der Erzeugerpreise gewerblicher Produkte gesamt
+    (ohne Mineralölerzeugnisse) für den Zeitraum vor 1976 die Indexreihe
+    der Erzeugerpreise gewerblicher Produkte gesamt (Statistisches
+    Bundesamt, Fachserie 17, Index der Erzeugerpreise gewerblicher
+    Produkte).
+
+
+
+
+(3) Der Tagesneuwert im Basisjahr eines im Jahr t angeschafften
+Anlagegutes ergibt sich durch die Multiplikation des Indexfaktors des
+Jahres t mit den historischen Anschaffungs- oder Herstellungskosten.
+Der Indexfaktor des Jahres t ergibt sich aus dem Quotienten des
+Indexwertes des Basisjahres und dem Indexwert des Jahres t und ist auf
+vier Nachkommastellen zu runden.
+
+    Amtlicher Hinweis: Zu beziehen beim Statistischen Bundesamt, Gustav-
+    Stresemann-Ring 11, 65189 Wiesbaden; auch zu beziehen über
+    www.destatis.de.
+[^F782159_02_BJNR219700005BJNE004100301]: 
 
 #### § 7 Kalkulatorische Eigenkapitalverzinsung
 
@@ -349,8 +504,8 @@ ist jeweils der Mittelwert aus Jahresanfangs- und Jahresendbestand
 anzusetzen. Soweit das nach Satz 2 ermittelte betriebsnotwendige
 Eigenkapital einen Anteil von 40 Prozent des sich aus der Summe der
 Werte nach Satz 2 Nr. 1 bis 4 ergebenden betriebsnotwendigen Vermögens
-übersteigt, ist der übersteigende Anteil dieses Eigenkapitals nominal
-wie Fremdkapital zu verzinsen.
+übersteigt, ist der übersteigende Anteil dieses Eigenkapitals gemäß
+Absatz 7 zu verzinsen.
 
 (2) Als Abzugskapital ist das zinslos zur Verfügung stehende Kapital
 zu behandeln. Es ist jeweils der Mittelwert aus Jahresanfangs- und
@@ -427,14 +582,33 @@ Anreizregulierungsverordnung. Bis zur erstmaligen Festlegung durch die
 Regulierungsbehörde beträgt der Eigenkapitalzinssatz bei Neuanlagen
 9,21 Prozent vor Steuern und bei Altanlagen 7,8 Prozent vor Steuern.
 
+(7) Der Zinssatz für den die Eigenkapitalquote übersteigenden Anteil
+des Eigenkapitals nach Absatz 1 Satz 5 bestimmt sich als Mittelwert
+des auf die letzten zehn abgeschlossenen Kalenderjahre bezogenen
+Durchschnitts der folgenden von der Deutschen Bundesbank
+veröffentlichten Umlaufsrenditen:
+
+1.  Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten –
+    Anleihen der öffentlichen Hand,
+
+
+2.  Umlaufsrendite festverzinslicher Wertpapiere inländischer Emittenten –
+    Anleihen von Unternehmen (Nicht-MFIs) und
+
+
+3.  Umlaufsrendite inländischer Inhaberschuldverschreibungen –
+    Hypothekenpfandbriefe.
+
+
+
+Weitere Zuschläge sind unzulässig.
+
 
 #### § 8 Kalkulatorische Steuern
 
 Im Rahmen der Ermittlung der Netzkosten kann die dem Netzbereich
 sachgerecht zuzuordnende Gewerbesteuer als kalkulatorische
-Kostenposition in Ansatz gebracht werden. Bei der Ermittlung der
-Gewerbesteuer ist die Abzugsfähigkeit der Gewerbesteuer bei sich
-selbst zu berücksichtigen.
+Kostenposition in Ansatz gebracht werden.
 
 
 #### § 9 Kostenmindernde Erlöse und Erträge
@@ -459,10 +633,11 @@ Netzbetrieb zuzurechnen und insbesondere den Positionen
 
 
 der netzbezogenen Gewinn- und Verlustrechnung zu entnehmen sind, von
-den Netzkosten in Abzug zu bringen. Die von gasverbrauchenden
-Anschlussnehmern entrichteten Baukostenzuschüsse sind über eine Dauer
-von 20 Jahren linear aufzulösen und jährlich netzkostenmindernd
-anzusetzen.
+den Netzkosten in Abzug zu bringen. Einnahmen nach § 77f des
+Telekommunikationsgesetzes sind sachlich nicht dem Netzbetrieb
+zuzurechnen. Die von gasverbrauchenden Anschlussnehmern entrichteten
+Baukostenzuschüsse sind über eine Dauer von 20 Jahren linear
+aufzulösen und jährlich netzkostenmindernd anzusetzen.
 
 (2) Baukostenzuschüsse, die im Zusammenhang mit der Errichtung eines
 Anschlusses für die Einspeisung von Gas entrichtet wurden, sind
@@ -797,8 +972,8 @@ sie unmittelbar Biogas einspeisen, ein pauschales Entgelt in Höhe von
 Netzkosten für zehn Jahre ab Inbetriebnahme des jeweiligen
 Netzanschlusses für die Einspeisung von Biogas. Dies gilt unabhängig
 von der Netzebene, in die eingespeist wird. Die Höhe des
-pauschalierten Entgelts wird im Zuge des Monitorings nach § 37 der
-Gasnetzzugangsverordnung überprüft.
+pauschalierten Entgelts wird im Zuge des Monitorings nach § 35 Absatz
+1 Nummer 7 des Energiewirtschaftsgesetzes überprüft.
 
 
 #### § 20b
@@ -824,8 +999,7 @@ Die Kosten
 
 
 
-werden auf alle Netze innerhalb des Marktgebiets umgelegt, in dem das
-Netz liegt.
+werden bundesweit umgelegt.
 
 
 ## Teil 3 - Vergleichsverfahren
@@ -1145,10 +1319,10 @@ Gewährleistung
     Kalkulationsperiode spürbar beeinflussen würden,
 
 
-2.  einer sachgerechten Ermittlung der Tagesneuwerte nach § 6 Abs. 3 in
-    Bezug auf die in Anwendung zu bringenden Preisindizes oder die den
-    Preisindizes zu Grunde liegenden Indexreihen und deren Gewichtung, die
-    Bildung von Anlagengruppen sowie des zu Grunde zu legenden Zinssatzes,
+2.  einer sachgerechten Gewichtung der bei der Ermittlung der
+    Tagesneuwerte anzuwendenden Indexreihen, soweit § 6a Mischindizes
+    vorsieht, insbesondere, um Produktivitätsfortschritte in den
+    relevanten Wirtschaftsbereichen zu berücksichtigen,
 
 
 3.  einer sachgerechten Ermittlung der kalkulatorischen Steuern nach § 8,
@@ -1260,6 +1434,14 @@ erforderlichen Antrag rechtzeitig gestellt haben und für das letzte
 der Anreizregulierung vorangehende Kalenderjahr keine Erhöhung der
 Netzentgelte begehren.
 
+(7) Die Ermittlung der Tagesneuwerte nach § 6 Absatz 3 Satz 2 erfolgt
+ab dem 1. Januar 2013 unter Anwendung der Indexreihen des
+Statistischen Bundesamtes gemäß § 6a.
+
+(8) Die Verzinsung des die Eigenkapitalquote im Sinne des § 7 Absatz 1
+Satz 5 übersteigenden Anteils des Eigenkapitals erfolgt ab dem 1.
+Januar 2013 nach § 7 Absatz 7.
+
 
 ### § 33 Inkrafttreten
 
@@ -1270,8 +1452,9 @@ Die Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 6 Abs. 5 Satz 1)
 
-### Anlage 1 (zu § 6 Abs. 5 Satz 1) Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
+### Anlage 1 Betriebsgewöhnliche Nutzungsdauern von Anlagegütern in der Gasversorgung
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 2207 - 2208)
 
@@ -1618,8 +1801,9 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 12 Satz 1)
 
-### Anlage 2 (zu § 12 Satz 1) Haupt- und Nebenkostenstellen
+### Anlage 2 Haupt- und Nebenkostenstellen
 
 Fundstelle des Originaltextes: BGBl. I 2005, 2209
 

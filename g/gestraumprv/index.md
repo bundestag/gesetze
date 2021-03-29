@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 54 (526)
 
+Geändert durch
+:   Art. 4 V v. 30.11.2017 I 3827
+
 
 
 ## Eingangsformel
@@ -355,8 +358,37 @@ zu bilden.
 (2) Die Prüfung ist bestanden, wenn in allen Prüfungsleistungen gemäß
 § 3 Abs. 2 mindestens ausreichende Leistungen erzielt wurden.
 
-(3) Über das Bestehen der Prüfung ist ein Zeugnis gemäß der Anlage 1
-und der Anlage 2 auszustellen.
+(3) Ist die Prüfung bestanden, stellt die zuständige Stelle zwei
+Zeugnisse aus. Im ersten Zeugnis wird der Erwerb dieses
+Fortbildungsabschlusses bescheinigt mit der Angabe
+
+1.  der Bezeichnung des Fortbildungsabschlusses nach § 1 Absatz 4 und
+
+
+2.  der Bezeichnung und Fundstelle dieser Fortbildungsordnung nach den
+    Angaben im Bundesgesetzblatt unter Berücksichtigung erfolgter
+    Änderungen dieser Verordnung.
+
+
+
+Im zweiten Zeugnis werden darüber hinaus mindestens angegeben:
+
+1.  die Benennung und die jeweilige Punktebewertung der Prüfungsleistungen
+    der beiden Situationsaufgaben und des situationsbezogenen
+    Fachgesprächs und die Gewichtung dieser drei Prüfungsbestandteile,
+
+
+2.  die Gesamtnote nach Absatz 1 Satz 2 und
+
+
+3.  gegebenenfalls die Befreiungen nach § 42c Absatz 2 der
+    Handwerksordnung.
+
+
+
+Jede Befreiung nach Satz 3 Nummer 3 ist mit Ort, Datum und der
+Bezeichnung des Prüfungsgremiums der anderweitig abgelegten Prüfung
+anzugeben.
 
 
 ## § 6 Wiederholung der Prüfung
@@ -367,77 +399,4 @@ Eine Prüfung, die nicht bestanden ist, kann zweimal wiederholt werden.
 ## § 7 Inkrafttreten
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
-
-
-## Anlage 1 (zu § 5 Abs. 3) Muster
-
-Fundstelle des Originaltextes: BGBl. I 2006, 57
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/
-Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-Herr/Frau
-....................................................................
-geboren am ............................. in
-..................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/
-Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte
-Gestaltungsberaterin
-im Raumausstatter-Handwerk vom 17. Januar 2006 (BGBl. I S. 54)
-bestanden.
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)
-
-
-## Anlage 2 (zu § 5 Abs. 3) Muster
-
-Fundstelle des Originaltextes: BGBl. I 2006, 58
-......................................................................
-........
-(Bezeichnung der zuständigen Stelle)
-Zeugnis
-über die Prüfung zum anerkannten Abschluss
-Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/
-Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-Herr/Frau
-....................................................................
-geboren am ............................. in
-..................................
-hat am ................................. die Prüfung zum anerkannten
-Abschluss
-Geprüfter Gestaltungsberater im Raumausstatter-Handwerk/
-Geprüfte Gestaltungsberaterin im Raumausstatter-Handwerk
-gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
-Geprüfter
-Gestaltungsberater im Raumausstatter-Handwerk/Geprüfte
-Gestaltungsberaterin
-im Raumausstatter-Handwerk vom 17. Januar 2006 (BGBl. I S. 54) mit
-folgenden
-Ergebnissen bestanden:
-Note 1) ........
-Punkte 2)
-I.   Situationsaufgabe                                  ..........
-II.  Situationsaufgabe                                  ..........
-III. Situationsbezogenes Fachgespräch                   ..........
-Datum ..........................................
-Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
-
-1)  Die Situationsaufgaben 1 und 2 und das Fachgespräch wurden im
-    Verhältnis 40:30:30 gewichtet.
-
-
-2)  Den Bewertungen liegt folgender Punkteschlüssel zugrunde ........
-
-
-
 

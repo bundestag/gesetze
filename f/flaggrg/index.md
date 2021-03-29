@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1951, 79
 
 Neugefasst durch
-:   Bek. v. 26.10.1994 I 3140;
+:   Bek. v. 26.10.1994 I 3140
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 6 G v. 25.6.2009 I 1574
+:   Art. 4 Abs. 134 G v. 18.7.2016 I 1666
 
 
 ## Erster Abschnitt - Flaggenrecht der Seeschiffe
@@ -55,41 +55,42 @@ b)  juristische Personen, wenn Deutsche im Vorstand oder in der
 
 
 
-(3) Beim Bestehen einer Partenreederei hat das Seeschiff die
-Bundesflagge zu führen, wenn ein Mitreeder Deutscher mit Wohnsitz im
-Geltungsbereich des Grundgesetzes ist und die Mehrheit der
-Schiffsparten, nach der Größe berechnet, Deutschen zusteht.
-
-(4) Befährt ein Binnenschiff, auf das die Schiffssicherheitsverordnung
-in der Fassung der Bekanntmachung vom 21. Oktober 1994 (BGBl. I S.
-3281) in ihrer jeweils geltenden Fassung Anwendung findet, Seegewässer
-seewärts der Grenze des deutschen Küstenmeeres, so wird es
-hinsichtlich der Vorschriften dieses Gesetzes insoweit einem Seeschiff
-gleichgestellt.
+(3) Befährt ein Binnenschiff, auf das die Schiffssicherheitsverordnung
+anzuwenden ist, Seegewässer seewärts der Grenze des deutschen
+Küstenmeeres, so wird es hinsichtlich der Vorschriften dieses Gesetzes
+mit der Maßgabe einem Seeschiff gleichgestellt, dass an die Stelle des
+Schiffszertifikates der Schiffsbrief tritt.
 
 
 #### § 2
 
-(1) Die Bundesflagge dürfen Seeschiffe führen, die nicht nach § 1 oder
-Absatz 2 zur Führung der Bundesflagge berechtigt sind,
+(1) Die Bundesflagge dürfen alle Seeschiffe führen, die nicht nach § 1
+zur Führung der Bundesflagge berechtigt sind,
 
-1.  in den Fällen des § 1 oder des Absatzes 2, wobei den dort genannten
+1.  bei aus deutschen und ausländischen Eigentümern bestehenden
+    Erbengemeinschaften, wenn Deutsche zu mehr als der Hälfte am Nachlass
+    beteiligt sind und zur Vertretung ausschließlich Deutsche
+    bevollmächtigt sind, die ihren Wohnsitz oder Sitz im Inland haben,
+
+
+2.  in den Fällen des § 1 oder der Nummer 1, wobei den dort genannten
     deutschen Staatsangehörigen die Staatsangehörigen der Mitgliedstaaten
-    der Europäischen Gemeinschaften gleichstehen, oder
+    der Europäischen Union gleichstehen, oder
 
 
-2.  wenn ihre Eigentümer mehrheitlich Staatsangehörige der Mitgliedstaaten
-    der Europäischen Gemeinschaften ohne Wohnsitz oder Sitz im
-    Geltungsbereich des Grundgesetzes sind und eine oder mehrere
-    verantwortliche Personen mit Wohnsitz oder Sitz im Geltungsbereich des
-    Grundgesetzes ständig beauftragt haben, dafür einzustehen,
+3.  deren Eigentümer Gesellschaften sind, die nach den Rechtsvorschriften
+    eines der Mitgliedstaaten der Europäischen Union gegründet worden
+    sind, ihre Hauptniederlassung in einem Mitgliedstaat der Europäischen
+    Union haben und die eine oder mehrere verantwortliche Personen mit
+    Wohnsitz oder Sitz im Inland ständig beauftragt haben, zu
+    gewährleisten,
 
-    a)  daß in technischen, sozialen und verwaltungsmäßigen Angelegenheiten
+    a)  dass in technischen, sozialen und verwaltungsmäßigen Angelegenheiten
         die in der Bundesrepublik Deutschland für die Seeschiffe geltenden
         Rechtsvorschriften eingehalten werden und,
 
 
-    b)  sofern es sich um Fischereifahrzeuge handelt, daß der Einsatz der
+    b)  sofern es sich um Fischereifahrzeuge handelt, dass der Einsatz der
         Schiffe zum Fischfang durch eine oder mehrere solcher Personen
         geleitet, durchgeführt und überwacht wird.
 
@@ -99,34 +100,16 @@ Absatz 2 zur Führung der Bundesflagge berechtigt sind,
 
 
 
-(1a) Nach den Rechtsvorschriften eines Mitgliedstaates der
-Europäischen Gemeinschaften gegründete Gesellschaften, die ihren
-satzungsmäßigen Sitz, ihre Hauptverwaltung oder ihre
-Hauptniederlassung in einem Mitgliedstaat der Gemeinschaft haben,
-stehen bei der Anwendung des Absatzes 1 den Staatsangehörigen eines
-Mitgliedstaates der Europäischen Gemeinschaften gleich.
-
-(2) Die Bundesflagge dürfen Seeschiffe führen, deren Eigentümer
-Deutsche sind, im Falle von Partenreedereien und Erbengemeinschaften,
-wenn
-
-a)  bei Partenreedereien, an denen mindestens ein deutscher Mitreeder
-    beteiligt ist, eine Pflicht zur Führung der Bundesflagge nach § 1
-    nicht besteht,
-
-
-b)  bei Erbengemeinschaften Deutsche zu mehr als der Hälfte am Nachlaß
-    beteiligt sind und zur Vertretung ausschließlich Deutsche
-    bevollmächtigt sind, die ihren Wohnsitz oder Sitz im Geltungsbereich
-    des Grundgesetzes haben.
-
-
-
+(2) Absatz 1 gilt auch für natürliche Personen oder Gesellschaften
+eines Drittstaates, die auf der Grundlage eines Abkommens mit der
+Bundesrepublik Deutschland, der Europäischen Gemeinschaften oder der
+Europäischen Union Anspruch auf Niederlassungsfreiheit im Sinne der
+Artikel 45 und 49 des Vertrages über die Arbeitsweise der Europäischen
+Union haben, vorausgesetzt, die Gegenseitigkeit ist gewährleistet.
 
 (3) Eine Veränderung der Voraussetzungen für die Führung der
-Bundesflagge in den Fällen des Absatzes 1 Nr. 2, auch in Verbindung
-mit Absatz 1a, ist vom Eigentümer unverzüglich dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung anzuzeigen.
+Bundesflagge in den Fällen der Absätze 1 und 2 ist vom Eigentümer
+unverzüglich der zuständigen Behörde anzuzeigen.
 
 
 ### 2. - Ausweis über die Berechtigung zur Führung der Bundesflagge
@@ -213,28 +196,130 @@ Dienst.
 
 #### § 7
 
-(1) Wird in den Fällen des § 1 ein Seeschiff einem Ausrüster, der
-nicht Deutscher ist oder seinen Wohnsitz oder Sitz nicht im
-Geltungsbereich des Grundgesetzes hat, auf mindestens ein Jahr zur
-Bereederung in eigenem Namen überlassen, so kann auf Antrag des
-Eigentümers das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung für bestimmte Zeit, höchstens jedoch jeweils für die
-Dauer von zwei Jahren unter dem Vorbehalt des Widerrufs gestatten, daß
-das Schiff anstelle der Bundesflagge eine andere Nationalflagge führt,
-deren Führung nach dem maßgeblichen ausländischen Recht erlaubt ist.
-Die Rechte und Pflichten aus dem Recht der Europäischen Gemeinschaften
-bleiben unberührt.
+(1) Das Bundesamt für Seeschifffahrt und Hydrographie kann in den
+Fällen
 
-(2) Bei Seeschiffen, für die ein Schiffszertifikat oder ein
-Schiffsvorzertifikat erteilt ist, wird die Genehmigung erst mit der
-Eintragung eines entsprechenden Vermerks in das Zertifikat wirksam.
+1.  des § 1 Absatz 1 und 2 oder
 
-(3) Eine Veränderung der Voraussetzungen für die Erteilung der
-Genehmigung ist vom Eigentümer unverzüglich der Genehmigungsbehörde
-anzuzeigen.
 
-(4) Solange die Genehmigung wirksam ist, darf das Recht zur Führung
-der Bundesflagge nicht ausgeübt werden.
+2.  des § 2 Absatz 1 und 2
+
+
+
+dem Reeder oder Ausrüster eines im Schiffsregister eingetragenen
+Seeschiffes auf seinen Antrag für einen Zeitraum von längstens zwei
+Jahren widerruflich unter den Voraussetzungen der Sätze 2 und 3
+genehmigen, dass das Schiff anstelle der Bundesflagge eine andere
+Nationalflagge führt, deren Führung nach dem maßgeblichen
+ausländischen Recht erlaubt ist (Ausflaggungsgenehmigung). Die
+Ausflaggungsgenehmigung darf nur erteilt werden, wenn der
+Antragsteller nachweist, dass er die durch den Flaggenwechsel
+hervorgerufenen Nachteile für den Schifffahrtsstandort nach Maßgabe
+der Absätze 2 und 3 ausgeglichen hat. Ist der Antragsteller nicht der
+Eigentümer des Seeschiffes, bedarf er für den Antrag nach Satz 1 der
+in Textform abzugebenden Zustimmung des Eigentümers.
+
+(2) Ein Ausgleich im Sinne des Absatzes 1 Satz 2 ist erbracht, wenn
+der Antragsteller sich für jedes auszuflaggende Seeschiff
+verpflichtet, während eines in der Anlage in Abhängigkeit von der
+Größe der Seeschiffe festgelegten Zeitraumes mindestens einen Platz
+zur seefahrtbezogenen Ausbildung nach Maßgabe
+
+1.  der Schiffsmechaniker-Ausbildungsverordnung oder
+
+
+2.  der vom Bundesministerium für Verkehr und digitale Infrastruktur zur
+    Ausführung der Schiffsoffizier-Ausbildungsverordnung herausgegebenen
+    Richtlinien für die Anerkennung der praktischen Ausbildung und
+    Seefahrtzeit als
+
+    a)  nautischer/nautische Offiziersassistent/-in (VkBl. 2009 S. 48) oder
+
+
+    b)  technischer/technische Offiziersassistent/-in (VkBl. 2009 S. 53)
+
+
+
+
+
+
+an Bord des ausgeflaggten Seeschiffes ständig besetzt zu halten. Der
+in Satz 1 maßgebliche Zeitraum beginnt mit Wirksamwerden der
+jeweiligen Ausflaggungsgenehmigung. Das Beenden eines
+Ausbildungsverhältnisses wegen Ablaufes des Zeitraumes nach Satz 1 ist
+nicht zulässig. Der Inhaber der Genehmigung hat für die Dauer der
+Genehmigung durch geeignete Aufzeichnungen und Unterlagen jährlich zum
+Ende eines Kalenderjahres nachzuweisen, dass er seine Verpflichtung
+nach Satz 1 erfüllt oder erfüllt hat. Die Aufzeichnungen und
+Unterlagen sind für die Dauer von fünf Jahren, gerechnet ab dem ersten
+Tag des Jahres, das auf das Jahr der Erteilung der Genehmigung folgt,
+aufzubewahren.
+
+(3) Macht der Antragsteller geltend, der Verpflichtung nach Absatz 2
+nicht oder nicht vollständig nachkommen zu können, ist auf Antrag
+zuzulassen, dass der Antragsteller, statt eine Verpflichtung nach
+Absatz 2 einzugehen, einen Ablösebetrag an eine vom Verband Deutscher
+Reeder errichtete und vom Bundesamt für Seeschifffahrt und
+Hydrographie im Bundesanzeiger bekannt gemachte Einrichtung zu
+entrichten hat. Der Antrag nach Satz 1 kann zusammen mit dem Antrag
+auf die Ausflaggungsgenehmigung gestellt werden. Die
+Ausflaggungsgenehmigung darf erst erteilt werden, wenn die Zahlung des
+Ablösebetrages nachgewiesen ist. Zweck der Einrichtung muss es sein,
+die nautische und technische Ausbildung, Qualifizierung und
+Fortbildung von Besatzungsmitgliedern zu fördern, die auf in
+inländischen Schiffsregistern eingetragenen Seeschiffen beschäftigt
+sind.
+
+(4) Ergibt eine Überprüfung, dass die nach Absatz 2 eingegangene
+Verpflichtung nicht oder nicht mehr erfüllt wird, ist für die Zeit ab
+dem Beginn der Wirksamkeit der Ausflaggungsgenehmigung der
+Ablösebetrag nachzuzahlen und im Übrigen die Ausflaggungsgenehmigung
+zu widerrufen. Vom Widerruf kann abgesehen werden, wenn der Inhaber
+der Genehmigung binnen einer vom Bundesamt für Seeschifffahrt und
+Hydrographie festgesetzten angemessenen Frist für die verbleibende
+Dauer der Wirksamkeit der Ausflaggungsgenehmigung einen Ablösebetrag
+im Sinne des Absatzes 3 entrichtet hat. Im Übrigen bleiben die §§ 48
+und 49 des Verwaltungsverfahrensgesetzes unberührt. Das Bundesamt für
+Seeschifffahrt und Hydrographie kann die Berufsbildungsstelle
+Seeschifffahrt e. V., Bremen, beauftragen, an der Überprüfung im Sinne
+des Satzes 1 mitzuwirken.
+
+(5) Der Ablösebetrag nach Absatz 3 ist von der Einrichtung für jede
+Größenklasse der Seeschiffe in einer Höhe festzusetzen. Die
+Festsetzung hat sich an den gemittelten Kosten einer Ausbildung im
+Sinne des Absatzes 2 je Kalenderjahr zu orientieren; dabei sind die
+Besatzungsstärke und die Größe der auszuflaggenden Schiffe zu
+berücksichtigen. Dabei ist ein Mindestbetrag von 2 000 Euro je Jahr
+und ein Höchstbetrag von 30 000 Euro je Jahr einzuhalten. Näheres
+regelt die Einrichtung. Die Regelungen zur Festsetzung der Höhe des
+Ablösebetrages bedürfen der Genehmigung des Bundesamtes für
+Seeschifffahrt und Hydrographie. Sie sind von der Einrichtung zusammen
+mit der Genehmigung des Bundesamtes für Seeschifffahrt und
+Hydrographie im Bundesanzeiger zu veröffentlichen. Wird der
+Ablösebetrag geändert, gilt die Änderung nur für Ausflaggungen, die in
+dem Kalenderjahr beantragt werden, das dem Jahr der Änderung folgt.
+
+(6) Die Einrichtung muss dem Bundesamt für Seeschifffahrt und
+Hydrographie bis zum 30. Juni eines Jahres geeignete Nachweise für die
+ordnungsgemäße Einnahme und Verwendung der Ablösebeträge im Vorjahr
+vorlegen. Das Bundesamt für Seeschifffahrt und Hydrographie prüft, ob
+die Finanzmittel ordnungsgemäß eingenommen und entsprechend dem
+Förderzweck nach Absatz 3 verwendet worden sind.
+
+
+#### § 7a
+
+(1) Bei Seeschiffen, für die ein Schiffszertifikat oder ein
+Schiffsvorzertifikat erteilt ist, wird die Ausflaggungsgenehmigung
+erst mit der Eintragung eines entsprechenden Vermerks in das
+Zertifikat wirksam.
+
+(2) Eine Veränderung der Voraussetzungen für die Erteilung der
+Ausflaggungsgenehmigung ist vom Inhaber der Genehmigung unverzüglich
+der Genehmigungsbehörde anzuzeigen.
+
+(3) Solange die Ausflaggungsgenehmigung wirksam ist, darf das Recht
+zur Führung der Bundesflagge nicht ausgeübt werden.
 
 
 ### 4. - Flaggenführung, Schiffsname und IMO-Schiffsidentifikationsnummer
@@ -276,8 +361,8 @@ gut sichtbaren und fest angebrachten Schriftzeichen führen.
 (3) Der Name eines Seeschiffes, für das die Ausstellung eines
 Schiffszertifikats oder Schiffsvorzertifikats beantragt wird, ist
 rechtzeitig vor der Namensführung vom Eigentümer oder
-Korrespondentreeder dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung anzuzeigen; dieses kann zur Wahrung des öffentlichen
+Korrespondentreeder dem Bundesministerium für Verkehr und digitale
+Infrastruktur anzuzeigen; dieses kann zur Wahrung des öffentlichen
 Interesses die Führung von bestimmten Schiffsnamen untersagen. Satz 1
 gilt auch für die Änderung des Namens.
 
@@ -313,7 +398,7 @@ hergestellt sind, muss von der Flaggenbehörde genehmigt werden.
 Seeschiffen, die im Geltungsbereich des Grundgesetzes erbaut worden
 sind und die nicht bereits nach den Vorschriften der §§ 1 und 2 zur
 Führung der Bundesflagge berechtigt sind, kann das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung die Befugnis hierzu für die
+für Verkehr und digitale Infrastruktur die Befugnis hierzu für die
 erste Überführungsreise in einen anderen Hafen einschließlich der
 hierfür erforderlichen vorausgehenden Fahrten verleihen.
 
@@ -322,15 +407,14 @@ hierfür erforderlichen vorausgehenden Fahrten verleihen.
 
 (1) Für Seeschiffe, die nicht nach den Vorschriften der §§ 1, 2 und 10
 zur Führung der Bundesflagge berechtigt sind, kann das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung einem
+Bundesministerium für Verkehr und digitale Infrastruktur einem
 ausländischen Eigentümer auf Grund internationaler Vereinbarungen die
 Befugnis zur Führung der Bundesflagge verleihen. Dasselbe gilt auch
 ohne das Vorliegen internationaler Vereinbarungen bei einem Ausrüster
 für die Dauer der Überlassung des Schiffes zur Bereederung in eigenem
 Namen unter dem Vorbehalt des Widerrufs, wenn
 
-a)  der Ausrüster zu dem Personenkreis des § 1 oder des § 2 Abs. 1, auch
-    in Verbindung mit § 2 Abs. 1a, gehört,
+a)  der Ausrüster zu dem Personenkreis der §§ 1 und 2 gehört,
 
 
 b)  ihm das Schiff zur Bereederung in eigenem Namen für mindestens ein
@@ -349,8 +433,8 @@ e)  nicht fremdes Recht der Führung der Bundesflagge entgegensteht.
 
 
 (2) Eine Veränderung der Voraussetzungen für die Verleihung ist vom
-Ausrüster unverzüglich dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung anzuzeigen.
+Ausrüster unverzüglich dem Bundesministerium für Verkehr und digitale
+Infrastruktur anzuzeigen.
 
 
 ### 6. - Internationales Seeschiffahrtsregister
@@ -365,7 +449,7 @@ betrieben werden, sind auf Antrag des Eigentümers in das
 Internationale Seeschiffahrtsregister einzutragen.
 
 (2) Das Internationale Seeschiffahrtsregister wird vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung eingerichtet
+Bundesministerium für Verkehr und digitale Infrastruktur eingerichtet
 und geführt.
 
 
@@ -461,8 +545,8 @@ sonst für das Seeschiff Verantwortlicher vorsätzlich oder fahrlässig
     über die Flaggenführung der Binnenschiffe zuwiderhandelt,
 
 
-3.  die in § 2 Abs. 3, § 7 Abs. 3 oder § 11 Abs. 2 vorgeschriebene Anzeige
-    nicht oder nicht rechtzeitig erstattet oder
+3.  die in § 2 Abs. 3, § 7a Absatz 2 oder § 11 Abs. 2 vorgeschriebene
+    Anzeige nicht oder nicht rechtzeitig erstattet oder
 
 
 4.  einer Rechtsverordnung nach § 22 Abs. 1 Nr. 2 zuwiderhandelt, soweit
@@ -531,7 +615,7 @@ Vorschriften des öffentlichen Rechts des Bundes, die für
 Kauffahrteischiffe erlassen sind, keine Anwendung; das gleiche gilt
 für Seeschiffe im öffentlichen Dienst, für welche die Befugnis zur
 Führung der Bundesflagge nach § 11 verliehen ist. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung kann jedoch
+Bundesministerium für Verkehr und digitale Infrastruktur kann jedoch
 anordnen, daß solche Seeschiffe den Vorschriften des Bundesrechts über
 die Rechtsverhältnisse der Schiffsbesatzung auf Kauffahrteischiffen
 unterliegen, wenn sie regelmäßig die Grenzen der Seefahrt um mehr als
@@ -603,7 +687,7 @@ Sozialversicherungsrechts bleiben unberührt.
 
 ### § 22
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt,
 
 1.  die Grenzen der Seefahrt im Sinne dieses Gesetzes und die Art und
@@ -611,16 +695,18 @@ ermächtigt,
     Schiffsidentifikationsnummer am Schiff auszuführen ist,
 
 
-1a. zur Durchführung des § 2 Abs. 1 Nr. 2 und Abs. 1a den Nachweis der
-    Verantwortlichkeit, des Einstehens, der Leitung, Durchführung und
+1a. zur Durchführung des § 2 Absatz 1 Nummer 3 und Absatz 2 den Nachweis
+    der Verantwortlichkeit, des Einstehens, der Leitung, Durchführung und
     Überwachung und die hierfür erforderlichen Anzeigepflicht zu regeln
     sowie die sich bei Wegfall dieses Nachweises ergebenden Folgen für die
     Berechtigung zur Führung der Bundesflagge zu bestimmen,
 
 
-1b. zur Durchführung von Rechtsakten der Europäischen Gemeinschaften und
-    von Verpflichtungen aus zwischenstaatlichen Vereinbarungen die Führung
-    einer anderen Nationalflagge im Sinne des § 7 zu regeln,
+1b. die näheren Einzelheiten zu der Erteilung der Ausflaggungsgenehmigung,
+    auch zur Durchführung von Rechtsakten der Europäischen Gemeinschaften
+    oder der Europäischen Union und von Verpflichtungen aus
+    zwischenstaatlichen Vereinbarungen die Führung einer anderen
+    Nationalflagge im Sinne des § 7 zu regeln,
 
 
 2.  im Einvernehmen mit dem Bundesministerium des Innern die Art und Weise
@@ -631,7 +717,8 @@ ermächtigt,
 3.  die Form, Ausstellung, Gültigkeitsdauer, Einziehung und Registrierung
     des Flaggenscheins, der Flaggenbescheinigung und des
     Flaggenzertifikats sowie im Einvernehmen mit dem Bundesministerium der
-    Justiz die Form und Ausstellung des Schiffsvorzertifikats zu regeln,
+    Justiz und für Verbraucherschutz die Form und Ausstellung des
+    Schiffsvorzertifikats zu regeln,
 
 
 4.  die Registrierung der Schiffe zu regeln, für die die in § 3 genannten
@@ -646,8 +733,7 @@ ermächtigt,
 
 6.  folgende Aufgaben auf eine nachgeordnete Bundesbehörde zu übertragen:
 
-    a)  die Gestattung der Führung einer anderen Nationalflagge und ihren
-        Widerruf (§ 7),
+    a)  (weggefallen)
 
 
     b)  die Verleihung der Befugnis zur Führung der Bundesflagge nach den §§
@@ -687,24 +773,29 @@ ermächtigt,
 
 (2) Rechtsverordnungen nach Absatz 1 Nr. 1a und 1b sind, soweit sie
 Fischereifahrzeuge betreffen, im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-zu erlassen.
+Bundesministerium für Ernährung und Landwirtschaft zu erlassen.
 
 
 ### § 22a
 
-(1) Für Amtshandlungen nach diesem Gesetz können Kosten (Gebühren und
-Auslagen) erhoben werden.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz können Gebühren und Auslagen erhoben werden.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung die Gebühren für die einzelnen Amtshandlungen
-im Sinne des Absatzes 1 zu bestimmen und dabei feste Sätze oder
-Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, daß der
-mit den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt
-wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung,
-der wirtschaftliche Wert oder der sonstige Nutzen für den
+durch Rechtsverordnung die Gebühren für die einzelnen individuell
+zurechenbaren öffentlichen Leistungen im Sinne des Absatzes 1 zu
+bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
+Gebührensätze sind so zu bemessen, daß der mit den individuell
+zurechenbaren öffentlichen Leistungen verbundene Personal- und
+Sachaufwand gedeckt wird; bei begünstigenden individuell zurechenbaren
+öffentlichen Leistungen kann daneben die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
+
+(3) Für individuell zurechenbare öffentliche Leistungen im Sinne des
+Absatzes 1 gegenüber der Deutschen Gesellschaft zur Rettung
+Schiffbrüchiger werden Gebühren und Auslagen nicht erhoben.
 
 
 ### § 22b
@@ -715,16 +806,9 @@ Seeschiffe und die Flaggenführung der Binnenschiffe bestehenden
 Vorschriften zu überwachen.
 
 
-### § 22c
+### § 22c (weggefallen)
 
-Soweit durch dieses Gesetz oder auf Grund dieses Gesetzes erlassener
-Rechtsverordnungen Schriftform einschließlich für Prüfungen angeordnet
-ist, eine Zweitschrift, Urschrift, Abschrift oder Niederschrift
-anzufertigen ist oder Zeugnisse, Bescheinigungen oder andere Dokumente
-ausgestellt werden, deren Ausstellung schriftlich zu beantragen ist,
-sie auszuhändigen, vorzulegen oder mitzuführen sind, ist die
-elektronische Form ausgeschlossen, wenn nicht durch Rechtsvorschrift
-eine abweichende Regelung getroffen ist.
+-
 
 
 ### § 23
@@ -747,7 +831,95 @@ Verordnungen auf Kauffahrteischiffe werden
 gleichbehandelt.
 
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1107)
+### § 24
+
+Die Bundesregierung berichtet dem Deutschen Bundestag bis zum 31.
+Dezember 2016 über die Erfahrungen mit § 7 in der durch das Gesetz zur
+Änderung des Flaggenrechtsgesetzes und der Schiffsregisterordnung vom
+20\. Dezember 2012 (BGBl. I S. 2792) erlassenen Fassung.
+
+
+### § 25
+
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
+1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
+verkündet werden.
+
+
+### Anlage (zu § 7 Absatz 2 Satz 1)
+
+(Fundstelle: BGBl. I 2012, 2794)
+
+
+*    *   lfd. Nr.
+
+    *   Schiffsgrößenklasse
+
+    *   Verpflichtungszeitraum in Monaten für jedes Jahr der Wirksamkeit der
+        Ausflaggungsgenehmigung
+
+
+*    *   1
+
+    *   Bruttoraumzahl
+        bis zu 500
+
+    *   1,0
+
+
+*    *   2
+
+    *   Bruttoraumzahl von über 500 bis 1 600
+
+    *   1,5
+
+
+*    *   3
+
+    *   Bruttoraumzahl von über 1 600 bis 3 000
+
+    *   2,0
+
+
+*    *   4
+
+    *   Bruttoraumzahl von über 3 000 bis 8 000
+
+    *   3,0
+
+
+*    *   5
+
+    *   Bruttoraumzahl von über 8 000 bis 14 000
+
+    *   3,5
+
+
+*    *   6
+
+    *   Bruttoraumzahl von über 14 000 bis 20 000
+
+    *   4,5
+
+
+*    *   7
+
+    *   Bruttoraumzahl von über 20 000 bis 80 000
+
+    *   5,0
+
+
+*    *   8
+
+    *   Bruttoraumzahl von über 80 000
+
+    *   5,5
+
+
+
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
+
+### Anhang EV (BGBl. II 1990, 889, 1107)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 2582
 
-Geändert durch
-:   Art. 79 V v. 29.10.2001 I 2785
+Zuletzt geändert durch
+:   Art. 1 G v. 1.11.2016 I 2450
 
 
 ## § 1 Rechtsform der Stiftung
@@ -53,7 +53,11 @@ Maßnahmen:
     Untersuchungen;
 
 
-5.  Veranstaltungen im Sinne des Stiftungszweckes.
+5.  Veranstaltungen im Sinne des Stiftungszweckes;
+
+
+6.  museale und wissenschaftliche Betreuung des Bismarck-Museums in
+    Schönhausen (Elbe).
 
 
 

@@ -1,6 +1,6 @@
 ---
 Title: Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungspflichten
-  sowie der Pflicht zur Führung von Insiderverzeichnissen nach dem Wertpapierhandelsgesetz
+  nach dem Wertpapierhandelsgesetz
 jurabk: WpAIV
 layout: default
 origslug: wpaiv
@@ -8,7 +8,7 @@ slug: wpaiv
 
 ---
 
-# Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungspflichten sowie der Pflicht zur Führung von Insiderverzeichnissen nach dem Wertpapierhandelsgesetz (WpAIV)
+# Verordnung zur Konkretisierung von Anzeige-, Mitteilungs- und Veröffentlichungspflichten nach dem Wertpapierhandelsgesetz (WpAIV)
 
 Ausfertigungsdatum
 :   2004-12-13
@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 3376
 
-Zuletzt geändert durch
-:   Art. 3 G v. 26.6.2012 I 1375
+Geändert durch
+:   Art. 1 V v. 19.10.2018 I 1758
 
 
 ## Eingangsformel
@@ -36,19 +36,73 @@ das Bundesministerium der Finanzen:
 
 ### § 1 Anwendungsbereich
 
-Diese Verordnung ist anzuwenden auf die Wahl des Herkunftsstaates nach
-§ 2b des Wertpapierhandelsgesetzes, die Anzeige von Verdachtsfällen
-nach § 10 des Wertpapierhandelsgesetzes, die Veröffentlichung und
-Mitteilung von Insiderinformationen nach § 15 des
-Wertpapierhandelsgesetzes, die Veröffentlichung und Mitteilung von
-Geschäften nach § 15a des Wertpapierhandelsgesetzes, die Führung von
-Insiderverzeichnissen nach § 15b des Wertpapierhandelsgesetzes, die
-Veröffentlichung und Mitteilung bei Veränderungen des
-Stimmrechtsanteils nach Abschnitt 5 des Wertpapierhandelsgesetzes, die
-Veröffentlichung und Mitteilung zusätzlicher Angaben nach § 30e des
-Wertpapierhandelsgesetzes und die Veröffentlichung und Speicherung von
-Finanzberichten nach Abschnitt 11 Unterabschnitt 2 des
-Wertpapierhandelsgesetzes.
+Diese Verordnung ist anzuwenden auf:
+
+1.  die Wahl des Herkunftsstaates nach § 4 des Wertpapierhandelsgesetzes
+    und die Veröffentlichung des Herkunftsstaates nach § 5 des
+    Wertpapierhandelsgesetzes,
+
+
+2.  die Anzeige von Verdachtsfällen nach § 23 des
+    Wertpapierhandelsgesetzes,
+
+
+3.  die Übermittlung der Vorabmitteilung über die Veröffentlichung von
+    Insiderinformationen nach § 26 Absatz 1 des Wertpapierhandelsgesetzes,
+
+
+4.  den Mindestinhalt, die Art, die Sprache, den Umfang und die Form einer
+    Veröffentlichung nach Artikel 17 Absatz 1, 2 und 6 bis 9 der
+    Verordnung (EU) Nr. 596/2014 des Europäischen Parlaments und des Rates
+    vom 16. April 2014 über Marktmissbrauch (Marktmissbrauchsverordnung)
+    und zur Aufhebung der Richtlinie 2003/6/EG des Europäischen Parlaments
+    und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und
+    2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1; L 287 vom
+    21\.10.2016, S. 320; L 306 vom 15.11.2016, S. 43; L 348 vom 21.12.2016,
+    S. 83), die zuletzt durch die Verordnung (EU) 2016/1033 (ABl. L 175
+    vom 30.6.2016, S. 1) geändert worden ist,
+
+
+5.  die Bedingungen, die ein Emittent oder Teilnehmer am Markt für
+    Emissionszertifikate nach Artikel 17 Absatz 4 Unterabsatz 1 der
+    Verordnung (EU) Nr. 596/2014 erfüllen muss, um die Offenlegung von
+    Insiderinformationen aufzuschieben,
+
+
+6.  die Art und Weise der Übermittlung sowie den Mindestinhalt einer
+    Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 Satz 1 und Absatz 6
+    Unterabsatz 1 Satz 1 der Verordnung (EU) Nr. 596/2014,
+
+
+7.  die Sprache einer Meldung nach Artikel 19 Absatz 1 der Verordnung (EU)
+    Nr. 596/2014,
+
+
+8.  den Inhalt, die Art, den Umfang und die Form einer zusätzlichen
+    Veröffentlichung der Informationen nach Artikel 19 Absatz 3 der
+    Verordnung (EU) Nr. 596/2014 durch die Bundesanstalt gemäß Artikel 19
+    Absatz 3 Unterabsatz 3 der Verordnung (EU) Nr. 596/2014,
+
+
+9.  die Mitteilung über die Veröffentlichung von Eigengeschäften von
+    Führungskräften nach § 26 Absatz 2 des Wertpapierhandelsgesetzes,
+
+
+10. die Veröffentlichung und Mitteilung bei Veränderungen des
+    Stimmrechtsanteils nach Abschnitt 6 des Wertpapierhandelsgesetzes,
+    wobei die Vorschriften der Stimmrechtsmitteilungsverordnung zu Art und
+    Form der Mitteilung unberührt bleiben,
+
+
+11. die Veröffentlichung und Mitteilung zusätzlicher Angaben nach § 50 des
+    Wertpapierhandelsgesetzes und
+
+
+12. die Veröffentlichung und Speicherung von Finanzberichten nach
+    Abschnitt 16 Unterabschnitt 2 des Wertpapierhandelsgesetzes.
+
+
+
 
 
 ## Abschnitt 2 - Anzeige von Verdachtsfällen
@@ -57,9 +111,10 @@ Wertpapierhandelsgesetzes.
 
 ### § 2 Inhalt der Anzeige
 
-(1) Eine Anzeige nach § 10 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes
-an die Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt)
-hat zu enthalten, soweit die Daten verfügbar sind:
+(1) Eine Anzeige nach § 23 Absatz 1 Satz 1 des
+Wertpapierhandelsgesetzes an die Bundesanstalt für
+Finanzdienstleistungsaufsicht (Bundesanstalt) hat zu enthalten, soweit
+die Daten verfügbar sind:
 
 1.  zur anzeigepflichtigen Person und zur Person, die die Anzeige für die
     anzeigepflichtige Person vornimmt,
@@ -74,49 +129,43 @@ hat zu enthalten, soweit die Daten verfügbar sind:
 
 
 
-2.  eine Beschreibung des Geschäfts im Sinn des § 10 Abs. 1 des
+2.  eine Beschreibung des Geschäfts im Sinn des § 23 Absatz 1 des
     Wertpapierhandelsgesetzes mit Angaben zu
 
-    a)  Name und Ort der Börse oder des außerbörslichen Marktes,
-
-
-    b)  Art des Handels, insbesondere Präsenzhandel oder elektronischer
-        Handel,
-
-
-    c)  Art des Geschäfts, bei einem Kundengeschäft insbesondere, ob es sich
+    a)  Art des Geschäfts, bei einem Kundengeschäft insbesondere, ob es sich
         aus Kundensicht um einen Kauf oder Verkauf handelt,
 
 
-    d)  Datum und Uhrzeit der Auftragserteilung und der Geschäftsausführung,
+    b)  Ort, Datum und Uhrzeit der Auftragserteilung und der
+        Geschäftsausführung,
 
 
-    e)  den Auftragsmerkmalen, insbesondere zur Gültigkeit des Auftrags oder
+    c)  den Auftragsmerkmalen, insbesondere zur Gültigkeit des Auftrags oder
         zu Orderlimitierungen,
 
 
-    f)  dem Finanzinstrument einschließlich seiner internationalen
+    d)  dem Finanzinstrument einschließlich seiner internationalen
         Wertpapierkennnummer,
 
 
-    g)  Preis, Währung, Stückzahl und Geschäftsvolumen sowie
-
-
-    h)  Basisinstrument, Basispreis,  Preismultiplikator und Fälligkeit bei
-        Geschäften in Derivaten,
+    e)  Preis, Währung, Stückzahl und Geschäftsvolumen sowie
 
 
 
 
 
 3.  eine Angabe der Tatsachen, auf die sich die Annahme eines Verstoßes
-    gegen ein Verbot oder Gebot nach § 14 oder § 20a des
-    Wertpapierhandelsgesetzes stützt,
+    gegen ein Verbot oder Gebot nach den Artikeln 12, 13 oder 14 der
+    Verordnung (EU) Nr. 236/2012 des Europäischen Parlaments und des Rates
+    vom 14. März 2012 über Leerverkäufe und bestimmte Aspekte von Credit
+    Default Swaps (ABl. L 86 vom 24.3.2012, S. 1), die durch die
+    Verordnung (EU) Nr. 909/2014 (ABl. L 257 vom 28.8.2014, S. 1) geändert
+    worden ist, stützt,
 
 
 4.  eine Darlegung, weshalb diese Tatsachen den Verdacht begründen, dass
-    mit dem Geschäft gegen ein Verbot oder Gebot nach § 14 oder § 20a des
-    Wertpapierhandelsgesetzes verstoßen wird,
+    mit dem Geschäft gegen ein Verbot oder Gebot nach den Artikeln 12, 13
+    oder 14 der Verordnung (EU) Nr. 236/2012 verstoßen wird,
 
 
 5.  die zur Identifizierung der Person und zur Klärung ihrer Rolle bei dem
@@ -163,8 +212,9 @@ hat zu enthalten, soweit die Daten verfügbar sind:
 nicht alle in Absatz 1 genannten Daten zur Verfügung, so sind
 zumindest die Tatsachen anzugeben, die den Verdacht begründen, es
 handele sich bei dem Geschäft um einen Verstoß gegen ein Verbot oder
-Gebot nach § 14 oder § 20a des Wertpapierhandelsgesetzes. Sobald die
-fehlenden Daten bekannt werden, sind sie unverzüglich nachzureichen.
+Gebot nach den Artikeln 12, 13 oder 14 der Verordnung (EU) Nr.
+236/2012. Sobald die fehlenden Daten bekannt werden, sind sie
+unverzüglich nachzureichen.
 
 
 ### § 3 Art und Form der Anzeige
@@ -183,7 +233,7 @@ Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
 
-## Abschnitt 3 - Veröffentlichung und Mitteilung von Informationen, Insiderverzeichnisse
+## Abschnitt 3 - Veröffentlichung von Informationen und Mitteilung über die Veröffentlichung
 
 
 
@@ -285,19 +335,47 @@ Veranlassung der Veröffentlichung, bleibt er für die Erfüllung seiner
 Veröffentlichungspflicht verantwortlich; der Dritte muss die
 Anforderungen der Absätze 1 bis 3 erfüllen.
 
+(5) Die Absätze 1 bis 4 gelten entsprechend
+
+1.  für eine Veröffentlichung nach Artikel 17 Absatz 1, 2 und 6 bis 9 der
+    Verordnung (EU) Nr. 596/2014, soweit sie die Vorgaben der
+    Durchführungsverordnung (EU) 2016/1055 der Kommission vom 29. Juni
+    2016 zur Festlegung technischer Durchführungsstandards hinsichtlich
+    der technischen Mittel für die angemessene Bekanntgabe von
+    Insiderinformationen und für den Aufschub der Bekanntgabe von
+    Insiderinformationen gemäß Verordnung (EU) Nr. 596/2014 des
+    Europäischen Parlaments und des Rates (ABl. L 173 vom 30.6.2016, S.
+    47) und der Delegierten Verordnung (EU) 2016/522 der Kommission vom
+    17\. Dezember 2015 zur Ergänzung der Verordnung (EU) Nr. 596/2014 des
+    Europäischen Parlaments und des Rates im Hinblick auf eine Ausnahme
+    für bestimmte öffentliche Stellen und Zentralbanken von Drittstaaten,
+    die Indikatoren für Marktmanipulation, die Schwellenwerte für die
+    Offenlegung, die zuständige Behörde, der ein Aufschub zu melden ist,
+    die Erlaubnis zum Handel während eines geschlossenen Zeitraums und die
+    Arten meldepflichtiger Eigengeschäfte von Führungskräften (ABl. L 88
+    vom 5.4.2016, S. 1) ergänzen, und
+
+
+2.  für eine Veröffentlichung nach Artikel 19 Absatz 3 der Verordnung (EU)
+    Nr. 596/2014, soweit sie die Vorgaben der Durchführungsverordnung (EU)
+    2016/1055 ergänzen.
+
+
+
+
 
 #### § 3b Sprache der Veröffentlichung
 
 (1) Emittenten, deren Sitz im Ausland ist, oder Emittenten, für die
-die Bundesrepublik Deutschland der Herkunftsstaat nach § 2 Abs. 6 Nr.
-3 Buchstabe a des Wertpapierhandelsgesetzes ist oder die bei der
-Bundesanstalt einen Prospekt in englischer Sprache für die
+die Bundesrepublik Deutschland der Herkunftsstaat nach § 2 Absatz 13
+Nummer 2 Buchstabe a des Wertpapierhandelsgesetzes ist oder die bei
+der Bundesanstalt einen Prospekt in englischer Sprache für die
 Wertpapiere, auf die sich die Information bezieht, hinterlegt haben,
 können die Veröffentlichung ausschließlich in englischer Sprache
 vornehmen. Im Übrigen gelten die Absätze 2 bis 4.
 
 (2) Sind Wertpapiere eines Emittenten, für den die Bundesrepublik
-Deutschland nach § 2 Abs. 6 des Wertpapierhandelsgesetzes der
+Deutschland nach § 2 Absatz 13 des Wertpapierhandelsgesetzes der
 Herkunftsstaat ist, lediglich zum Handel an einem organisierten Markt
 im Inland zugelassen, so ist die Information in deutscher Sprache zu
 veröffentlichen. Sind die Wertpapiere zum Handel an einem
@@ -311,7 +389,7 @@ Europäischen Union oder der betreffenden Vertragsstaaten des Abkommens
 über den Europäischen Wirtschaftsraum akzeptiert wird, oder in
 englischer Sprache zu veröffentlichen.
 
-(3) Ein Inlandsemittent im Sinne des § 2 Abs. 7 Nr. 2 des
+(3) Ein Inlandsemittent im Sinne des § 2 Absatz 14 Nummer 2 des
 Wertpapierhandelsgesetzes muss die Information in deutscher oder in
 englischer Sprache veröffentlichen. Ein Emittent, der seinen Sitz im
 Inland hat und dessen Wertpapiere nicht im Inland, sondern in mehr als
@@ -324,9 +402,9 @@ Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 akzeptierten Sprache oder in englischer Sprache zu veröffentlichen; er
 kann sie zusätzlich auch in deutscher Sprache veröffentlichen.
 
-(4) Sind Wertpapiere eines Inlandsemittenten im Sinne des § 2 Abs. 7
-des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100 000
-Euro oder einem am Ausgabetag entsprechenden Gegenwert in einer
+(4) Sind Wertpapiere eines Inlandsemittenten im Sinne des § 2 Absatz
+14 des Wertpapierhandelsgesetzes mit einer Mindeststückelung von 100
+000 Euro oder einem am Ausgabetag entsprechenden Gegenwert in einer
 anderen Währung zum Handel an einem organisierten Markt im Inland oder
 in einem oder mehreren Mitgliedstaaten der Europäischen Union oder in
 einem oder mehreren Vertragsstaaten des Abkommens über den
@@ -339,7 +417,7 @@ Wirtschaftsraum von den zuständigen Behörden dieser Staaten akzeptiert
 wird.
 
 (5) Absatz 4 gilt entsprechend für Inlandsemittenten im Sinne des § 2
-Absatz 7 des Wertpapierhandelsgesetzes von Wertpapieren mit einer
+Absatz 14 des Wertpapierhandelsgesetzes von Wertpapieren mit einer
 Mindeststückelung von 50 000 Euro oder einem am Ausgabetag
 entsprechenden Gegenwert in einer anderen Währung, die bereits vor dem
 31\. Dezember 2010 zum Handel an einem organisierten Markt in einem
@@ -348,28 +426,38 @@ anderen Vertragsstaat des Abkommens über den Europäischen
 Wirtschaftsraum zugelassen wurden, solange derartige Wertpapiere
 ausstehen.
 
+(6) Die Absätze 1 bis 5 gelten entsprechend für Veröffentlichungen
+nach Artikel 17 Absatz 1, 2 und 6 bis 9 und für Meldungen nach Artikel
+19 Absatz 1 der Verordnung (EU) Nr. 596/2014 der MTF-Emittenten im
+Sinne des § 2 Absatz 15 des Wertpapierhandelsgesetzes, der OTF-
+Emittenten im Sinne des § 2 Absatz 16 des Wertpapierhandelsgesetzes
+und der Teilnehmer am Markt für Emissionszertifikate.
+
 
 #### § 3c Mitteilung der Veröffentlichung
 
 Soweit nichts anderes bestimmt ist, muss der Bundesanstalt die
 Veröffentlichung unter Angabe des Textes der Veröffentlichung, der
 Medien, an die die Information gesandt wurde, sowie des genauen
-Zeitpunkts der Versendung an die Medien mitgeteilt werden.
+Zeitpunkts der Versendung an die Medien mitgeteilt werden. Satz 1 gilt
+nicht für Veröffentlichungen nach Artikel 17 der Verordnung (EU) Nr.
+596/2014.
 
 
-### Unterabschnitt 2 - Veröffentlichung und Mitteilung von Insiderinformationen
+### Unterabschnitt 2 - Veröffentlichung von Insiderinformationen und Mitteilung über die Veröffentlichung
 
 
 
 #### § 4 Inhalt der Veröffentlichung
 
-(1) In der Veröffentlichung nach § 15 Abs. 1 des
-Wertpapierhandelsgesetzes sind anzugeben:
+(1) In der Veröffentlichung nach Artikel 17 Absatz 1 und 2 der
+Verordnung (EU) Nr. 596/2014 sind anzugeben:
 
 1.  in der Kopfzeile
 
-    a)  eine deutlich hervorgehobene Überschrift "Ad-hoc-Meldung nach § 15
-        WpHG",
+    a)  eine deutlich hervorgehobene Überschrift "Veröffentlichung von
+        Insiderinformationen nach Artikel 17 der Verordnung (EU) Nr.
+        596/2014",
 
 
     b)  ein als Betreff erkennbares Schlagwort, das den wesentlichen Inhalt
@@ -379,7 +467,7 @@ Wertpapierhandelsgesetzes sind anzugeben:
 
 
 
-2.  zum Emittenten
+2.  zum Emittenten oder Teilnehmer am Markt für Emissionszertifikate
 
     a)  sein Name und
 
@@ -412,34 +500,39 @@ Wertpapierhandelsgesetzes sind anzugeben:
 5.  Datum des Eintritts der der Information zugrunde liegenden Umstände,
 
 
-6.  eine kurze Erklärung, inwieweit die Information den Emittenten
-    unmittelbar betrifft, soweit sich dies nicht schon aus den Angaben zu
-    Nummer 4 ergibt, sowie
+6.  eine kurze Erklärung, inwieweit die Information den Emittenten oder
+    Teilnehmer am Markt für Emissionszertifikate unmittelbar betrifft,
+    soweit sich dies nicht schon aus den Angaben zu Nummer 4 ergibt, sowie
 
 
 7.  eine Erklärung, aus welchen Gründen die Information geeignet ist, im
-    Fall ihres öffentlichen Bekanntwerdens den Börsen- oder Marktpreis
+    Fall ihres öffentlichen Bekanntwerdens den Kurs der Finanzinstrumente
+    oder den Kurs damit verbundener derivativer Finanzinstrumente
     erheblich zu beeinflussen, soweit sich dies nicht schon aus den
     Angaben zu Nummer 4 ergibt.
 
 
 
-Die Veröffentlichung soll kurz gefasst sein. Ist nach § 15 Abs. 1 Satz
-4 und 5 des Wertpapierhandelsgesetzes eine Person, die im Auftrag oder
-auf Rechnung des Emittenten handelt, veröffentlichungspflichtig, so
-hat sie den Emittenten hierüber unverzüglich zu informieren und in der
-Veröffentlichung durch Nennung ihres Namens und ihrer Anschrift ihre
-Urheberschaft kenntlich zu machen.
+Die Veröffentlichung soll kurz gefasst sein. Ist nach Artikel 17
+Absatz 8 der Verordnung (EU) Nr. 596/2014 eine Person, die im Auftrag
+oder auf Rechnung des Emittenten oder Teilnehmers am Markt für
+Emissionszertifikate handelt, veröffentlichungspflichtig, so hat sie
+den Emittenten oder Teilnehmer am Markt für Emissionszertifikate
+hierüber unverzüglich zu informieren und in der Veröffentlichung durch
+Nennung ihres Namens und ihrer Anschrift ihre Urheberschaft kenntlich
+zu machen.
 
 (2) Hat wegen einer erheblichen Veränderung der bereits
-veröffentlichten Information erneut eine Veröffentlichung nach § 15
-Abs. 1 des Wertpapierhandelsgesetzes zu erfolgen, so muss sie
-enthalten:
+veröffentlichten Information erneut eine Veröffentlichung einer
+Insiderinformation nach Artikel 17 Absatz 1 Unterabsatz 2 oder Absatz
+2 in Verbindung mit Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr.
+596/2014 zu erfolgen, so muss sie enthalten:
 
 1.  in der Kopfzeile
 
-    a)  eine deutlich hervorgehobene Überschrift "Ad-hoc-Aktualisierung nach §
-        15 WpHG",
+    a)  eine deutlich hervorgehobene Überschrift "Aktualisierung einer
+        Veröffentlichung von Insiderinformationen nach Artikel 17 der
+        Verordnung (EU) Nr. 596/2014",
 
 
     b)  ein Schlagwort im Sinn des Absatzes 1 Satz 1 Nr. 1 Buchstabe b,
@@ -461,13 +554,16 @@ enthalten:
 
 
 
-(3) Die Veröffentlichung nach § 15 Abs. 2 Satz 2 des
-Wertpapierhandelsgesetzes hat zu enthalten:
+(3) Die Berichtigung einer Veröffentlichung von Insiderinformationen
+nach Artikel 17 Absatz 1 Unterabsatz 2 oder Absatz 2 in Verbindung mit
+Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 596/2014 hat zu
+enthalten:
 
 1.  in der Kopfzeile
 
-    a)  eine deutlich hervorgehobene Überschrift "Ad-hoc-Berichtigung nach §
-        15 WpHG",
+    a)  eine deutlich hervorgehobene Überschrift "Berichtigung einer
+        Veröffentlichung von Insiderinformationen nach Artikel 17 der
+        Verordnung (EU) Nr. 596/2014",
 
 
     b)  ein Schlagwort im Sinn des Absatzes 1 Satz 1 Nr. 1 Buchstabe b,
@@ -491,50 +587,20 @@ Wertpapierhandelsgesetzes hat zu enthalten:
 
 
 
-#### § 5 Art der Veröffentlichung
-
-Unbeschadet der Anforderungen der §§ 3a und 3b hat der
-Veröffentlichungspflichtige dafür Sorge zu tragen, dass die
-Information
-
-1.  über ein elektronisch betriebenes Informationsverbreitungssystem, das
-    bei Kreditinstituten, nach § 53 Abs. 1 Satz 1 des Kreditwesengesetzes
-    tätigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland
-    haben und an einer inländischen Börse zur Teilnahme am Handel
-    zugelassen sind, und Versicherungsunternehmen weit verbreitet ist, in
-    die Öffentlichkeit gelangt und
-
-
-2.  sofern der Veröffentlichungspflichtige über eine Adresse im Internet
-    verfügt, unter dieser Adresse für die Dauer von mindestens einem Monat
-    verfügbar ist, wobei die Hauptseite einen deutlich erkennbaren Hinweis
-    auf eine Seite mit Informationen für Anleger zu enthalten hat, unter
-    der die Veröffentlichung leicht aufzufinden sein muss.
+#### § 5 (weggefallen)
 
 
 
-Die Veröffentlichung nach Satz 1 Nr. 2 darf nicht vor der
-Veröffentlichung nach Satz 1 Nr. 1 erfolgen. Die Verpflichtungen nach
-dieser Vorschrift gelten nicht für Emittenten im Sinn des § 2 Abs. 7
-Nr. 2 des Wertpapierhandelsgesetzes.
+#### § 5a (weggefallen)
 
-
-#### § 5a Mitteilung der Veröffentlichung
-
-Die Mitteilung über die Veröffentlichung nach § 15 Abs. 5 Satz 2 des
-Wertpapierhandelsgesetzes ist mit den von § 3c geforderten Angaben
-auch an die Geschäftsführung der organisierten Märkte im Sinn des § 15
-Abs. 4 Satz 1 Nr. 1 und 2 des Wertpapierhandelsgesetzes zu senden. Für
-die Versendung der Mitteilung gelten die Anforderungen nach § 3a Abs.
-2 Satz 1 Nr. 2 und 3 entsprechend.
 
 
 #### § 6 Berechtigte Interessen für eine verzögerte Veröffentlichung
 
-Berechtigte Interessen, die nach § 15 Abs. 3 Satz 1 des
-Wertpapierhandelsgesetzes von der Pflicht zur sofortigen
-Veröffentlichung nach § 15 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes
-befreien können, liegen vor, wenn die Interessen des Emittenten an der
+Berechtigte Interessen, die nach Artikel 17 Absatz 4 der Verordnung
+(EU) Nr. 596/2014 von der Pflicht zur sofortigen Veröffentlichung nach
+Artikel 17 Absatz 1 und 2 der Verordnung (EU) Nr. 596/2014 befreien
+können, liegen vor, wenn die Interessen des Emittenten an der
 Geheimhaltung der Information die Interessen des Kapitalmarktes an
 einer vollständigen und zeitnahen Veröffentlichung überwiegen. Dies
 kann insbesondere dann der Fall sein, wenn
@@ -542,9 +608,9 @@ kann insbesondere dann der Fall sein, wenn
 1.  das Ergebnis oder der Gang laufender Verhandlungen über
     Geschäftsinhalte, die geeignet wären, im Fall ihres öffentlichen
     Bekanntwerdens den Börsen- oder Marktpreis erheblich zu beeinflussen,
-    von der Veröffentlichung wahrscheinlich erheblich beeinträchtigt
-    würden und eine Veröffentlichung die Interessen der Anleger ernsthaft
-    gefährden würde, oder
+    von der Veröffentlichung wahrscheinlich beeinträchtigt würden und eine
+    Veröffentlichung die Interessen der Anleger erheblich gefährden würde,
+    oder
 
 
 2.  durch das Geschäftsführungsorgan des Emittenten abgeschlossene
@@ -552,26 +618,27 @@ kann insbesondere dann der Fall sein, wenn
     Ankündigung bekannt gegeben werden müssten, dass die für die
     Wirksamkeit der Maßnahme erforderliche Zustimmung eines anderen Organs
     des Emittenten noch aussteht, und dies die sachgerechte Bewertung der
-    Information durch das Publikum gefährden würde.
+    Information durch das Publikum gefährden würde, wenn der Emittent
+    dafür gesorgt hat, dass die endgültige Entscheidung so schnell wie
+    möglich getroffen wird.
 
 
 
 
 
-#### § 7 Gewährleistung der Vertraulichkeit während der Befreiung von der Veröffentlichungspflicht
+#### § 7 Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung (EU) Nr. 596/2014
 
-Während der Befreiung nach § 15 Abs. 3 Satz 1 des
-Wertpapierhandelsgesetzes hat der Emittent den Zugang zur
-Insiderinformation zu kontrollieren, indem er wirksame Vorkehrungen
-dafür trifft,
+Die Mitteilung nach Artikel 17 Absatz 4 Unterabsatz 3 der Verordnung
+(EU) Nr. 596/2014 hat in Ergänzung zu den Vorschriften der
+Durchführungsverordnung (EU) 2016/1055 folgende Angaben zu enthalten:
 
-1.  dass andere Personen als solche, deren Zugang zu Insiderinformationen
-    für die Wahrnehmung ihrer Aufgaben beim Emittenten unerlässlich ist,
-    keinen Zugang zu dieser Information erlangen und
+1.  alle Zeitpunkte, an denen der Fortbestand der Gründe überprüft wurde,
+    sowie
 
 
-2.  dass er die Information unverzüglich bekannt geben kann, wenn er nicht
-    länger in der Lage ist, ihre Vertraulichkeit zu gewährleisten.
+2.  den Vor- und Familiennamen sowie die Geschäftsanschriften und
+    Rufnummern aller Personen, die an der Entscheidung über die Befreiung
+    beteiligt waren.
 
 
 
@@ -579,7 +646,7 @@ dafür trifft,
 
 #### § 8 Inhalt der Mitteilung
 
-(1) In der Mitteilung nach § 15 Abs. 4 des Wertpapierhandelsgesetzes
+(1) In der Mitteilung nach § 26 Absatz 1 des Wertpapierhandelsgesetzes
 sind anzugeben:
 
 1.  der Wortlaut der vorgesehenen Veröffentlichung,
@@ -593,19 +660,21 @@ sind anzugeben:
 
 
 
-(2) Zusätzlich sind im Fall des § 15 Abs. 2 Satz 2 des
-Wertpapierhandelsgesetzes nur in der Mitteilung an die Bundesanstalt
-nach § 15 Abs. 4 Satz 1 Nr. 3 des Wertpapierhandelsgesetzes die Gründe
-der Veröffentlichung der unwahren Information darzulegen. § 4 Abs. 9
-Satz 1 des Wertpapierhandelsgesetzes gilt entsprechend.
+(2) Im Fall der Berichtigung einer Veröffentlichung von
+Insiderinformationen nach Artikel 17 Absatz 1 Unterabsatz 2 der
+Verordnung (EU) Nr. 596/2014 sind nur in der Mitteilung an die
+Bundesanstalt nach § 26 Absatz 1 des Wertpapierhandelsgesetzes
+zusätzlich die Gründe für die Veröffentlichung der zu berichtigenden
+Information darzulegen. § 6 Absatz 15 Satz 1 des
+Wertpapierhandelsgesetzes gilt entsprechend.
 
-(3) Zusätzlich hat im Fall des § 15 Abs. 1 Satz 4 und 5 des
-Wertpapierhandelsgesetzes der Emittent nur in der Mitteilung an die
-Bundesanstalt nach § 15 Abs. 4 Satz 1 Nr. 3 des
+(3) Im Fall der Offenlegung von Insiderinformationen nach Artikel 17
+Absatz 8 der Verordnung (EU) Nr. 596/2014 hat der Emittent nur in der
+Mitteilung an die Bundesanstalt nach § 26 Absatz 1 des
 Wertpapierhandelsgesetzes anzugeben:
 
 1.  den Vor- und Familiennamen der Person, der die Insiderinformation
-    mitgeteilt oder zugänglich gemacht worden ist,
+    offengelegt worden ist,
 
 
 2.  ihre Geschäftsanschrift oder, falls eine solche nicht besteht, ihre
@@ -615,40 +684,18 @@ Wertpapierhandelsgesetzes anzugeben:
 3.  den Zeitpunkt der Informationspreisgabe sowie
 
 
-4.  im Fall des § 15 Abs. 1 Satz 5 des Wertpapierhandelsgesetzes die
-    Umstände der unwissentlichen Informationspreisgabe.
+4.  im Fall einer nicht absichtlichen Offenlegung nach Artikel 17 Absatz 8
+    der Verordnung (EU) Nr. 596/2014 die Umstände der nicht absichtlichen
+    Offenlegung.
 
 
 
-§ 4 Abs. 9 Satz 1 des Wertpapierhandelsgesetzes gilt entsprechend.
+§ 6 Absatz 15 Satz 1 des Wertpapierhandelsgesetzes gilt entsprechend.
 
-(4) Die Angaben nach den Absätzen 2 und 3 können innerhalb von 14
-Tagen nach der Veröffentlichung nachgereicht werden.
+(4) Die Angaben nach Absatz 3 können innerhalb von 14 Tagen nach der
+Veröffentlichung nachgereicht werden.
 
-(5) Die Mitteilung an die Bundesanstalt nach § 15 Abs. 3 Satz 4 des
-Wertpapierhandelsgesetzes hat zu enthalten:
-
-1.  die Gründe für die Befreiung von der Pflicht zur Veröffentlichung
-    sowie
-
-
-2.  die Angabe
-
-    a)  des Zeitpunktes der Entscheidung über den Aufschub der
-        Veröffentlichung, der späteren Termine, an denen der Fortbestand der
-        Gründe überprüft wurde, und des Zeitpunktes der Entscheidung über die
-        nunmehr vorzunehmende Mitteilung und Veröffentlichung sowie
-
-
-    b)  der Vor- und Familiennamen sowie der Geschäftsanschriften und
-        Rufnummern aller Personen, die an der Entscheidung über die Befreiung
-        beteiligt waren.
-
-
-
-
-
-
+(5) (weggefallen)
 
 
 #### § 9 Art und Form der Mitteilungen
@@ -656,9 +703,9 @@ Wertpapierhandelsgesetzes hat zu enthalten:
 (1) Mitteilungen nach § 8 sind schriftlich mittels Telefax zu
 übersenden. Auf Verlangen der Bundesanstalt ist die eigenhändig
 unterschriebene Mitteilung auf dem Postweg nachzureichen. Gleiches
-kann auch die Geschäftsführung der organisierten Märkte im Sinn des §
-15 Abs. 4 Satz 1 Nr. 1 und 2 des Wertpapierhandelsgesetzes verlangen,
-sofern sie nach diesen Vorschriften eine Mitteilung erhält.
+können auch die Geschäftsführungen der Handelsplätze im Sinne des § 26
+Absatz 1 des Wertpapierhandelsgesetzes verlangen, sofern sie nach
+diesen Vorschriften eine Mitteilung erhalten.
 
 (2) Die Bundesanstalt kann die Möglichkeit eröffnen, die Mitteilungen
 nach § 8 im Wege der Datenfernübertragung zu übersenden, sofern dem
@@ -670,452 +717,99 @@ Netze dem jeweiligen Stand der Technik entsprechende
 Verschlüsselungsverfahren angewendet werden.
 
 
-### Unterabschnitt 3 - Veröffentlichung und Mitteilung von Geschäften
+### Unterabschnitt 3 - Veröffentlichung von Eigengeschäften und Mitteilung über die Veröffentlichung
 
 
 
-#### § 10 Inhalt der Mitteilung
+#### § 10 Art der Veröffentlichung
 
-Die Mitteilung nach § 15a Abs. 1 Satz 1 des Wertpapierhandelsgesetzes
-an den Emittenten und die Bundesanstalt über eigene Geschäfte hat zu
-enthalten:
+Bezüglich der Meldung und Veröffentlichung von Eigengeschäften wird
+auf das Formular im Anhang der Durchführungsverordnung (EU) 2016/523
+der Kommission vom 10. März 2016 zur Festlegung technischer
+Durchführungsstandards im Hinblick auf das Format und die Vorlage für
+die Meldung und öffentliche Bekanntgabe der Eigengeschäfte von
+Führungskräften gemäß Verordnung (EU) Nr. 596/2014 des Europäischen
+Parlaments und des Rates (ABl. L 88 vom 5.4.2016, S. 19) verwiesen.
+Die Bundesanstalt kann zusätzlich zur Veröffentlichung nach Artikel 19
+Absatz 3 der Verordnung (EU) Nr. 596/2014 die Information auf ihrer
+Internetseite veröffentlichen.
 
-1.  die deutlich hervorgehobene Überschrift "Mitteilung über Geschäfte von
-    Führungspersonen nach § 15a WpHG",
 
-
-2.  zur mitteilungspflichtigen Person
-
-    a)  ihren Vor- und Familiennamen oder bei juristischen Personen ihren
-        Namen,
-
-
-    b)  ihre Geschäftsanschrift,
-
-
-    c)  ihre Rufnummer oder die eines Ansprechpartners,
-
-
-    d)  bei natürlichen Personen den Tag ihrer Geburt und, sofern eine
-        Geschäftsanschrift nicht besteht, die Privatanschrift,
-
-
-
-
-
-3.  den Namen und die Anschrift des Emittenten,
-
-
-4.  eine jeweils in einem Schlagwort zu formulierende Beschreibung
-
-    a)  der Position und des Aufgabenbereichs der Person mit Führungsaufgaben
-        bei dem Emittenten und
-
-
-    b)  im Fall des § 15a Abs. 1 Satz 2 des Wertpapierhandelsgesetzes
-        zusätzlich der engen Beziehung der mitteilungspflichtigen Person zur
-        Person mit Führungsaufgaben,
-
-
-
-
-
-5.  eine genaue Bezeichnung des Finanzinstruments, mit dem das Geschäft
-    getätigt worden ist, einschließlich der internationalen
-    Wertpapierkennnummer und
-
-
-6.  eine genaue Beschreibung des Geschäfts mit Angaben zu
-
-    a)  Art des Geschäfts, insbesondere ob es sich um einen Kauf oder Verkauf
-        handelt,
-
-
-    b)  Datum und Ort des Geschäftsabschlusses,
-
-
-    c)  Preis, Währung, Stückzahl und Geschäftsvolumen sowie
-
-
-    d)  Basisinstrument, Basispreis, Preismultiplikator und Fälligkeit bei
-        Geschäften in Derivaten.
-
-
-
-
-
-
-
-
-#### § 11 Art und Form der Mitteilung
-
-(1) Mitteilungen nach § 15a Abs. 1 Satz 1 des
-Wertpapierhandelsgesetzes sind schriftlich zu übersenden. Im Fall der
-Übersendung einer Mitteilung mittels Telefax ist auf Verlangen der
-Bundesanstalt die eigenhändig unterschriebene Anzeige auf dem Postweg
-nachzureichen.
-
-(2) Die Bundesanstalt kann die Möglichkeit eröffnen, die Mitteilungen
-nach § 15a des Wertpapierhandelsgesetzes im Wege der
-Datenfernübertragung zu übersenden, sofern dem jeweiligen Stand der
-Technik entsprechende Maßnahmen zur Sicherstellung von Datenschutz und
-Datensicherheit getroffen werden, die insbesondere die Vertraulichkeit
-und Unversehrtheit der Daten gewährleisten, und sofern im Fall der
-Nutzung allgemein zugänglicher Netze dem jeweiligen Stand der Technik
-entsprechende Verschlüsselungsverfahren angewendet werden.
-
-
-#### § 12 Inhalt der Veröffentlichung
-
-Die Veröffentlichung nach § 15a Abs. 4 Satz 1 des
-Wertpapierhandelsgesetzes hat zu enthalten
-
-1.  die deutlich hervorgehobene Überschrift "Mitteilung über Geschäfte von
-    Führungspersonen nach § 15a WpHG",
-
-
-2.  den Vor- und Familiennamen oder bei juristischen Personen den Namen
-    der mitteilungspflichtigen Person,
-
-
-3.  den Namen und die Anschrift des Emittenten,
-
-
-4.  die Angabe, ob der Mitteilende Führungsaufgaben bei dem Emittenten
-    wahrnimmt oder eine Person ist, die mit einer solchen Person nach §
-    15a Abs. 3 des Wertpapierhandelsgesetzes in einer engen Beziehung
-    steht,
-
-
-5.  eine jeweils in einem Schlagwort zu formulierende Beschreibung der
-    Position und des Aufgabenbereichs der Person mit Führungsaufgaben und
-
-
-6.  die Angaben nach § 10 Nr. 5 und 6.
-
-
-
-
-
-#### § 13 Art der Veröffentlichung
-
-Die Bundesanstalt kann zusätzlich zur Veröffentlichung nach § 15a Abs.
-4 Satz 1 des Wertpapierhandelsgesetzes in Verbindung mit den §§ 3a und
-3b die Information im Internet unter ihrer Adresse veröffentlichen.
-
-
-#### § 13a Mitteilung der Veröffentlichung
+#### § 11 Mitteilung der Veröffentlichung
 
 Für die Mitteilung des Emittenten über die Veröffentlichung an die
-Bundesanstalt nach § 15a Abs. 4 Satz 2 des Wertpapierhandelsgesetzes
-gilt § 3c.
+Bundesanstalt nach § 26 Absatz 2 des Wertpapierhandelsgesetzes gilt §
+3c.
 
 
-### Unterabschnitt 4 - Insiderverzeichnis
+### Unterabschnitt 4 - (weggefallen)
 
-
-
-#### § 14 Inhalt des Verzeichnisses
-
-Das Verzeichnis nach § 15b Abs. 1 Satz 1 des Wertpapierhandelsgesetzes
-hat zu enthalten:
-
-1.  die deutliche hervorgehobene Überschrift "Insiderverzeichnis nach §
-    15b WpHG",
-
-
-2.  den Namen des nach § 15b Abs. 1 Satz 1 des Wertpapierhandelsgesetzes
-    zur Führung des Insiderverzeichnisses Verpflichteten und der von ihm
-    mit der Führung des Insiderverzeichnisses beauftragten Personen, bei
-    natürlichen Personen den Vor- und Familiennamen,
-
-
-3.  zu den in das Insiderverzeichnis aufzunehmenden Personen jeweils
-
-    a)  ihren Vor- und Familiennamen,
-
-
-    b)  Tag und Ort ihrer Geburt sowie
-
-
-    c)  ihre Privat- und Geschäftsanschrift,
-
-
-
-
-
-4.  den Grund für die Erfassung dieser Personen im Verzeichnis sowie
-
-
-5.  das Datum, seit dem die jeweilige Person Zugang zu
-    Insiderinformationen hat, und gegebenenfalls das Datum, seit dem der
-    Zugang nicht mehr besteht, und
-
-
-6.  das Datum der Erstellung sowie gegebenenfalls der letzten
-    Aktualisierung des Verzeichnisses.
-
-
-
-Die Angaben zu Satz 1 Nr. 3 Buchstabe b und c können durch eine
-Bezugnahme auf ein anderes Verzeichnis ersetzt werden, das diese Daten
-enthält. Sie müssen jederzeit unverzüglich im Insiderverzeichnis
-ergänzt werden können. Wird das Insiderverzeichnis auf Anforderung an
-die Bundesanstalt übermittelt, muss es diese Angaben enthalten.
-
-
-#### § 15 Berichtigung
-
-Das Verzeichnis ist unverzüglich zu aktualisieren, wenn es unrichtig
-geworden ist. Dies gilt insbesondere, wenn
-
-1.  sich der Grund für die Erfassung bereits erfasster Personen ändert,
-
-
-2.  neue Personen zum Verzeichnis hinzuzufügen sind oder
-
-
-3.  im Verzeichnis erfasste Personen keinen Zugang zu Insiderinformationen
-    mehr haben.
-
-
-
-
-
-#### § 16 Aufbewahrung und Vernichtung
-
-(1) Es muss sichergestellt sein, dass die Daten des Verzeichnisses
-jederzeit verfügbar sind und innerhalb angemessener Frist lesbar
-gemacht werden können. Für die Aufbewahrung gilt § 257 Abs. 3 und 5
-des Handelsgesetzbuchs entsprechend. Das Verzeichnis darf nicht
-veröffentlicht werden und ist so zu verwahren, dass nur die im
-Unternehmen für die Führung des Verzeichnisses verantwortlichen, die
-mit der Führung des Verzeichnisses beauftragten und die aufgrund ihres
-Berufs einer gesetzlichen Verschwiegenheitspflicht unterliegenden
-Personen Zugang haben.
-
-(2) Die Daten sind nach ihrer Erstellung sechs Jahre so aufzubewahren,
-dass jederzeit für einen beliebigen Zeitraum in den letzten sechs
-Jahren nachgewiesen werden kann, welche Personen Zugang zu
-Insiderinformationen hatten. Diese Frist beginnt für jeden
-aktualisierten Datensatz neu. Nach Fristablauf sind die Daten zu
-löschen.
 
 
 ### Unterabschnitt 5 - Veröffentlichung und Mitteilung bei Veränderungen des Stimmrechtsanteils
 
 
 
-#### § 17 Inhalt der Mitteilung
+#### § 12 Inhalt der Mitteilung
 
-(1) Die Mitteilungen nach § 21 Abs. 1 Satz 1 und Abs. 1a des
-Wertpapierhandelsgesetzes haben zu enthalten:
+(1) Für eine Mitteilung nach § 33 Absatz 1 und 2, § 38 Absatz 1 und §
+39 Absatz 1 des Wertpapierhandelsgesetzes ist das Formular der Anlage
+dieser Verordnung zu verwenden.
 
-1.  die deutlich hervorgehobene Überschrift "Stimmrechtsmitteilung",
+(2) Im Fall von § 37 Absatz 1 des Wertpapierhandelsgesetzes genügt zur
+Erfüllung der Mitteilungspflicht des Tochterunternehmens die Abgabe
+einer Mitteilung durch das Mutterunternehmen des meldepflichtigen
+Tochterunternehmens gemäß dem Formular der Anlage dieser Verordnung.
 
-
-2.  den Namen und die Anschrift des Mitteilungspflichtigen,
-
-
-3.  den Namen und die Anschrift des Emittenten,
-
-
-4.  die Schwelle, die berührt wurde, sowie die Angabe, ob die Schwelle
-    überschritten, unterschritten oder erreicht wurde,
-
-
-5.  die Höhe des nunmehr gehaltenen Stimmrechtsanteils in Bezug auf die
-    Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung
-    dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit
-    Stimmrechten versehenen Aktien ein und derselben Gattung sowie
-
-
-6.  das Datum des Überschreitens, Unterschreitens oder Erreichens der
-    Schwelle.
-
-
-
-
-(2) Zusätzlich hat im Fall der Zurechnung von Stimmrechten nach § 22
-Abs. 1 und 2 des Wertpapierhandelsgesetzes die Mitteilung nach Absatz
-1 zu enthalten:
-
-1.  den Namen des Dritten, aus dessen Aktien dem Mitteilungspflichtigen
-    Stimmrechte zugerechnet werden, wenn dessen zugerechneter
-    Stimmrechtsanteil jeweils 3 Prozent oder mehr beträgt,
-
-
-2.  gegebenenfalls die Namen der kontrollierten Unternehmen, über die die
-    Stimmrechte tatsächlich gehalten werden, wenn deren zugerechneter
-    Stimmrechtsanteil jeweils 3 Prozent oder mehr beträgt.
-
-
-
-Die zuzurechnenden Stimmrechte sind in den Mitteilungen nach § 21 Abs.
-1 und 1a des Wertpapierhandelsgesetzes für jede der Nummern in § 22
-Abs. 1 und für § 22 Abs. 2 Satz 1 des Wertpapierhandelsgesetzes
-getrennt anzugeben.
-
-(3) Die Mitteilung nach § 25 Abs. 1 Satz 1 des
-Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nr. 1,
-2, 4 und 6 zu enthalten:
-
-1.  den Namen und die Anschrift des Emittenten der Aktien, die mit den
-    Finanzinstrumenten oder sonstigen Instrumenten erworben werden können,
-
-
-2.  die Summe des Anteils aus gehaltenen Stimmrechten und des Anteils an
-    Stimmrechten, der bestände, wenn der Mitteilungspflichtige statt der
-    Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die
-    auf Grund der förmlichen Vereinbarung erworben werden können, sowie
-    die Angabe, ob die Schwelle mit der Summe überschritten,
-    unterschritten oder erreicht wurde; die Angabe des Stimmrechtsanteils
-    muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-
-2a. die Höhe des Stimmrechtsanteils, der bestände, wenn der
-    Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen
-    Instrumente die Aktien hielte, die auf Grund der förmlichen
-    Vereinbarung erworben werden können; die Angabe des Stimmrechtsanteils
-    muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-
-2b. die Höhe des gehaltenen Stimmrechtsanteils in Bezug auf die
-    Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung
-    dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit
-    Stimmrechten versehenen Aktien ein und derselben Gattung,
-
-
-3.  gegebenenfalls die Kette der kontrollierten Unternehmen, über die die
-    Finanzinstrumente oder sonstigen Instrumente gehalten werden,
-
-
-4.  (weggefallen)
-
-
-5.  bei Finanzinstrumenten oder sonstigen Instrumenten mit einem
-    bestimmten Ausübungszeitraum einen Hinweis auf den Zeitpunkt, an dem
-    die Aktien erworben werden sollen oder können, und
-
-
-6.  das Datum der Fälligkeit oder des Verfalls der Finanzinstrumente oder
-    sonstigen Instrumente.
-
-
-
-
-(4) Die Mitteilung nach § 25a Absatz 1 Satz 1 des
-Wertpapierhandelsgesetzes hat neben den Angaben des Absatzes 1 Nummer
-2, 4 und 6 zu enthalten:
-
-1.  den Namen und die Anschrift des Emittenten der Aktien, die mit den
-    Finanzinstrumenten oder sonstigen Instrumenten erworben werden können,
-
-
-2.  die Summe des Anteils aus gehaltenen Stimmrechten, des Anteils an
-    Stimmrechten, der bestünde, wenn der Mitteilungspflichtige statt der
-    Finanzinstrumente oder sonstigen Instrumente die Aktien hielte, die
-    auf Grund der förmlichen Vereinbarung erworben werden können, und die
-    Höhe des Stimmrechtsanteils, der bestünde, wenn der
-    Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen
-    Instrumente die Aktien hielte, deren Erwerb die Finanzinstrumente oder
-    sonstigen Instrumente ermöglichen; sowie die Angabe, ob die Schwelle
-    mit der Summe überschritten, unterschritten oder erreicht wurde; die
-    Angabe des Stimmrechtsanteils muss sich auf die Gesamtmenge der
-    Stimmrechte des Emittenten beziehen,
-
-
-3.  die Höhe des Stimmrechtsanteils, der bestünde, wenn der
-    Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen
-    Instrumente die Aktien hielte, die auf Grund der förmlichen
-    Vereinbarung erworben werden können; die Angabe des Stimmrechtsanteils
-    muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-
-4.  die Höhe des gehaltenen Stimmrechtsanteils in Bezug auf die
-    Gesamtmenge der Stimmrechte des Emittenten, auch wenn die Ausübung
-    dieser Stimmrechte ausgesetzt ist, und in Bezug auf alle mit
-    Stimmrechten versehenen Aktien ein und derselben Gattung,
-
-
-5.  die Höhe des Stimmrechtsanteils, der bestünde, wenn der
-    Mitteilungspflichtige statt der Finanzinstrumente oder sonstigen
-    Instrumente die Aktien hielte, deren Erwerb die Finanzinstrumente oder
-    sonstigen Instrumente ermöglichen; die Angabe des Stimmrechtsanteils
-    muss sich auf die Gesamtmenge der Stimmrechte des Emittenten beziehen,
-
-
-6.  gegebenenfalls die Kette der kontrollierten Unternehmen, über die die
-    Finanzinstrumente oder sonstigen Instrumente gehalten werden,
-
-
-7.  das Datum der Fälligkeit oder des Verfalls der Finanzinstrumente oder
-    sonstigen Instrumente und
-
-
-8.  gegebenenfalls die International Securities Identification Number
-    (ISIN) des Finanzinstruments oder sonstigen Instruments.
-
-
-
-
-(5) Für die Zwecke der Berechnung des Stimmrechtsanteils ist die
-letzte Veröffentlichung nach § 26a des Wertpapierhandelsgesetzes
+(3) Für die Zwecke der Berechnung des Stimmrechtsanteils ist die
+letzte Veröffentlichung nach § 41 des Wertpapierhandelsgesetzes
 zugrunde zu legen.
 
-
-#### § 17a Berechnung des Stimmrechtsanteils für die Mitteilung nach § 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
-
-In die Berechnung des Stimmrechtsanteils nach § 25a Absatz 2 des
-Wertpapierhandelsgesetzes sind nicht einzubeziehen:
-
-1.  Finanzinstrumente und sonstige Instrumente im Sinne des § 25a Absatz 1
-    Satz 1 des Wertpapierhandelsgesetzes, die sich auf eigene Aktien eines
-    Emittenten, für den die Bundesrepublik Deutschland der Herkunftsstaat
-    ist, beziehen und es diesem aufgrund ihrer Ausgestaltung ermöglichen,
-    solche Aktien zu erwerben, und
+(4) Die Bundesanstalt kann die nach § 40 des Wertpapierhandelsgesetzes
+veröffentlichten Angaben verarbeiten, soweit dies erforderlich ist, um
+die Transparenz von wesentlichen Beteiligungen an Inlandsemittenten,
+deren Aktien an einem organisierten Markt zugelassen sind, zu fördern.
 
 
-2.  Anteile von Aktien eines Emittenten, für den die Bundesrepublik
-    Deutschland der Herkunftsstaat ist, an Aktienkörben (Baskets) und
-    Indizes, wenn bei der Berechnung des Preises des Finanzinstruments
-    oder sonstigen Instruments im Sinne des § 25a Absatz 1 Satz 1 des
-    Wertpapierhandelsgesetzes zum jeweiligen Erwerbszeitpunkt die Aktien
-    mit höchstens 20 Prozent Berücksichtigung finden.
+#### § 13 Berechnung des Stimmrechtsanteils für die Mitteilung nach § 38 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes
+
+Nicht einzubeziehen in die Berechnung des Stimmrechtsanteils nach § 38
+Absatz 3 des Wertpapierhandelsgesetzes sind Instrumente im Sinne des §
+38 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes, die sich auf eigene
+Aktien eines Emittenten, für den die Bundesrepublik Deutschland der
+Herkunftsstaat ist, beziehen und es diesem Emittenten auf Grund ihrer
+Ausgestaltung ermöglichen, solche Aktien zu erwerben.
 
 
+#### § 14 Sprache der Mitteilungen
+
+Mitteilungen nach § 33 Absatz 1 Satz 1 und Absatz 2, § 38 Absatz 1
+Satz 1 sowie § 39 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes sind
+in deutscher oder englischer Sprache an den Emittenten und die
+Bundesanstalt zu übermitteln.
 
 
+#### § 15 Inhalt und Format der Veröffentlichung
 
-#### § 18 Art, Form und Sprache der Mitteilung
-
-Mitteilungen nach § 21 Abs. 1 Satz 1, Abs. 1a, § 25 Abs. 1 Satz 1 und
-§ 25a Absatz 1 Satz 1 des Wertpapierhandelsgesetzes sind schriftlich
-oder mittels Telefax in deutscher oder englischer Sprache an den
-Emittenten und die Bundesanstalt zu übersenden.
-
-
-#### § 19 Inhalt der Veröffentlichung
-
-Die Veröffentlichung nach § 26 Abs. 1 Satz 1 des
-Wertpapierhandelsgesetzes muss die Angaben der Mitteilung enthalten;
-der Mitteilungspflichtige ist mit vollständigem Namen, Sitz und Staat,
-in dem sich sein Wohnort oder Sitz befindet, anzugeben.
+Die Veröffentlichung nach § 40 Absatz 1 Satz 1 des
+Wertpapierhandelsgesetzes muss die Angaben der Mitteilung an den
+Emittenten gemäß dem Formular der Anlage zu dieser Verordnung
+enthalten und in dem dort vorgegebenen Format erfolgen.
 
 
-#### § 20 Art und Sprache der Veröffentlichung
+#### § 16 Art und Sprache der Veröffentlichung
 
-Die Art und Sprache der Veröffentlichung nach § 26 Abs. 1 Satz 1 des
+Die Art und Sprache der Veröffentlichung nach § 40 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach Maßgabe der §§ 3a und 3b;
 jedoch kann abweichend hiervon der Emittent die Mitteilung in
 englischer Sprache veröffentlichen, wenn er die Mitteilung in
 englischer Sprache erhalten hat.
 
 
-#### § 21 Mitteilung der Veröffentlichung
+#### § 17 Mitteilung der Veröffentlichung
 
 Für die Mitteilung des Emittenten über die Veröffentlichung an die
-Bundesanstalt nach § 26 Abs. 2 des Wertpapierhandelsgesetzes gilt §
+Bundesanstalt nach § 40 Absatz 2 des Wertpapierhandelsgesetzes gilt §
 3c.
 
 
@@ -1123,36 +817,43 @@ Bundesanstalt nach § 26 Abs. 2 des Wertpapierhandelsgesetzes gilt §
 
 
 
-#### § 22 Art und Sprache der Veröffentlichung
+#### § 18 Art und Sprache der Veröffentlichung
 
 Für die Art und Sprache der Veröffentlichung der Bekanntmachung nach §
-37v Abs. 1 Satz 2, § 37w Abs. 1 Satz 2 und § 37x Abs. 1 Satz 2 des
-Wertpapierhandelsgesetzes gelten die §§ 3a und 3b.
+114 Absatz 1 Satz 2, § 115 Absatz 1 Satz 2 und § 116 Absatz 2 Satz 1
+des Wertpapierhandelsgesetzes gelten die §§ 3a und 3b. Für die
+Informationen nach § 114 Absatz 2 und § 115 Absatz 2 des
+Wertpapierhandelsgesetzes sowie für die Zahlungs- oder
+Konzernzahlungsberichte gemäß § 116 des Wertpapierhandelsgesetzes gilt
+§ 3b.
 
 
-#### § 23 Mitteilung der Veröffentlichung
+#### § 19 Mitteilung der Veröffentlichung
 
 Für die Mitteilung des Unternehmens über die Veröffentlichung der
-Bekanntmachung an die Bundesanstalt nach § 37v Abs. 1 Satz 3, § 37w
-Abs. 1 Satz 3 und § 37x Abs. 1 Satz 3 des Wertpapierhandelsgesetzes
-gilt § 3c.
+Bekanntmachung an die Bundesanstalt nach § 114 Absatz 1 Satz 3, § 115
+Absatz 1 Satz 3 und § 116 Absatz 2 Satz 2 des
+Wertpapierhandelsgesetzes gilt § 3c.
 
 
-#### § 24 Verfügbarkeit der Finanzberichte
+#### § 20 Verfügbarkeit der Finanzberichte und Zahlungsberichte
 
-Die Informationen im Sinn von § 37v Abs. 2 und § 37w Abs. 2 des
-Wertpapierhandelsgesetzes müssen für mindestens fünf Jahre im
-Unternehmensregister der Öffentlichkeit zugänglich sein.
+Die Informationen nach § 114 Absatz 2 und § 115 Absatz 2 des
+Wertpapierhandelsgesetzes sowie die Zahlungs- oder
+Konzernzahlungsberichte gemäß § 116 des Wertpapierhandelsgesetzes und
+die Zahlungsberichte gemäß § 341s des Handelsgesetzbuchs müssen im
+Unternehmensregister für mindestens zehn Jahre der Öffentlichkeit
+zugänglich sein.
 
 
 ### Unterabschnitt 7 - Wahl des Herkunftsstaates
 
 
 
-#### § 25 Art der Veröffentlichung
+#### § 21 Art der Veröffentlichung
 
-Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach § 2b
-des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu
+Die Wahl der Bundesrepublik Deutschland als Herkunftsstaat nach den §§
+4 und 5 des Wertpapierhandelsgesetzes ist nach Maßgabe des § 3a zu
 veröffentlichen.
 
 
@@ -1160,13 +861,13 @@ veröffentlichen.
 
 
 
-#### § 26 Art, Sprache und Mitteilung der Veröffentlichung
+#### § 22 Art, Sprache und Mitteilung der Veröffentlichung
 
-Die Veröffentlichung nach § 30e Abs. 1 Satz 1 des
+Die Veröffentlichung nach § 50 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach Maßgabe der §§ 3a und 3b; der
-Emittent kann die Information im Sinn des § 30e Abs. 1 Satz 1 Nr. 3
-des Wertpapierhandelsgesetzes jedoch ausschließlich in englischer
-Sprache veröffentlichen. Die Mitteilung nach § 30e Abs. 1 Satz 1 des
+Emittent kann die Information im Sinn des § 50 Absatz 1 Satz 1 Nummer
+3 des Wertpapierhandelsgesetzes jedoch ausschließlich in englischer
+Sprache veröffentlichen. Die Mitteilung nach § 50 Absatz 1 Satz 1 des
 Wertpapierhandelsgesetzes erfolgt nach § 3c.
 
 
@@ -1174,7 +875,406 @@ Wertpapierhandelsgesetzes erfolgt nach § 3c.
 
 
 
-### § 27 Inkrafttreten
+### § 23 Inkrafttreten
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
+
+
+### Anlage (zu § 12 Absatz 1)
+
+(Fundstelle: BGBl I 2018, 1759 - 1761)
+
+## Stimmrechtsmitteilung
+
+
+*    *   **1. Angaben zum Emittenten**
+
+
+*    *   Name:
+
+    *   LEI:
+
+
+*    *   Straße, Haus-Nr.:
+
+    *   PLZ:       Ort:
+
+
+
+
+*    *   **2. Grund der Mitteilung** (mehrere Angaben möglich)
+
+
+*    *   * Erwerb bzw. Veräußerung von Aktien mit Stimmrechten
+        * Erwerb bzw. Veräußerung von Instrumenten
+        * Änderung der Gesamtzahl der Stimmrechte
+        * Sonstiger Grund:
+
+
+
+
+*    *   **3. Angaben zum Mitteilungspflichtigen**
+
+
+*    *   Natürliche Person (Vorname, Nachname):
+
+    *   Juristische Person:
+
+
+*    *   Geburtsdatum:
+
+    *   Registrierter Sitz, Staat:
+        ,
+
+
+
+
+*    *   **4. Namen der Aktionäre** mit 3 % oder mehr Stimmrechten, wenn
+        abweichend von 3.
+
+
+
+
+*    *   **5. Datum der Schwellenberührung:**
+
+
+
+
+*    *   **6. Gesamtstimmrechtsanteile**
+
+
+*    *
+    *   Anteil Stimmrechte
+        (Summe 7.a.)
+
+    *   Anteil Instrumente
+        (Summe 7.b.1. + 7.b.2.)
+
+    *   Summe Anteile
+        (Summe 7.a. + 7.b.)
+
+    *   Gesamtzahl der
+        Stimmrechte
+        nach § 41 WpHG
+
+
+*    *   *neu*
+
+    *   %
+
+    *   %
+
+    *   %
+
+    *
+
+*    *   *letzte Mitteilun*g
+
+    *   %
+
+    *   %
+
+    *   %
+
+    *
+
+
+
+*    *   **7. Einzelheiten zu den Stimmrechtsbeständen**
+
+
+*    *   **a. Stimmrechte (§§ 33, 34 WpHG)**
+
+
+*    *   ISIN
+
+    *   absolut
+
+    *   in %
+
+
+*    *   direkt
+        (§ 33 WpHG)
+
+    *   zugerechnet
+        (§ 34 WpHG)
+
+    *   direkt
+        (§ 33 WpHG)
+
+    *   zugerechnet
+        (§ 34 WpHG)
+
+
+*    *
+    *
+    *
+    *   %
+
+    *   %
+
+
+*    *
+    *
+    *
+    *   %
+
+    *   %
+
+
+*    *   **Summe**
+
+    *
+    *   **%**
+
+
+
+
+*    *   **b.1. Instrumente i. S. d. § 38 Abs. 1 Nr. 1 WpHG**
+
+
+*    *   Art des Instruments
+
+    *   Fälligkeit/
+        Verfall
+
+    *   Ausübungszeitraum/
+        Laufzeit
+
+    *   Stimmrechte
+        absolut
+
+    *   Stimmrechte
+        in %
+
+
+*    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *
+    *   **Summe**
+
+    *
+    *   **%**
+
+
+
+
+*    *   **b.2. Instrumente i. S. d. § 38 Abs. 1 Nr. 2 WpHG**
+
+
+*    *   Art des Instruments
+
+    *   Fälligkeit/
+        Verfall
+
+    *   Ausübungszeitraum/
+        Laufzeit
+
+    *   Barausgleich
+        oder physische
+        Abwicklung
+
+    *   Stimmrechte
+        absolut
+
+    *   Stimmrechte
+        in %
+
+
+*    *
+    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *
+    *
+    *
+    *
+    *   %
+
+
+*    *
+    *   **Summe**
+
+    *
+    *   **%**
+
+
+
+
+*    *   **8. Informationen in Bezug auf den Mitteilungspflichtigen** (bitte
+        Zutreffendes ankreuzen)
+        * Mitteilungspflichtiger (3.) wird weder beherrscht noch beherrscht
+        Mitteilungspflichtiger andere Unternehmen, die Stimmrechte des
+        Emittenten (1.) halten oder denen Stimmrechte des Emittenten
+        zugerechnet werden.
+        * *Vollständi*g *e* Kette der Tochterunternehmen, beginnend mit der
+        obersten beherrschenden Person oder dem obersten beherrschenden
+        Unternehmen:
+
+
+*    *   Unternehmen
+
+    *   Stimmrechte in %,
+        wenn 3 % oder höher
+
+    *   Instrumente in %,
+        wenn 5 % oder höher
+
+    *   Summe in %,
+        wenn 5 % oder höher
+
+
+*    *
+    *   %
+
+    *   %
+
+    *   %
+
+
+*    *
+    *   %
+
+    *   %
+
+    *   %
+
+
+*    *
+    *   %
+
+    *   %
+
+    *   %
+
+
+*    *
+    *   %
+
+    *   %
+
+    *   %
+
+
+
+
+*    *   **9. Bei Vollmacht gemäß § 34 Abs. 3 WpHG**
+        ( *nur* möglich bei einer Zurechnung nach § 34 Abs. 1 Satz 1 Nr. 6
+        WpHG)
+        Datum der Hauptversammlung:
+        Gesamtstimmrechtsanteile (6.) nach der Hauptversammlung
+
+
+*    *   Anteil Stimmrechte
+
+    *   Anteil Instrumente
+
+    *   Summe Anteile
+
+
+*    *   %
+
+    *   %
+
+    *   %
+
+
+
+
+*    *   **10. Sonstige Informationen:**
+
+
+
+
+*    *   ,
+        Datum, Unterschrift
+
+    *
+
+
+
+   ## Anhang zur Anlage ( *nur* für BaFin)
+
+
+*    *   **1.**
+
+    *   **Angaben zum Mitteilungspflichtigen:**
+
+
+*    *
+    *   Straße:
+        Haus-Nr.:
+        PLZ:
+        Ort:
+        Staat:
+
+
+*    *   bei juristischen Personen:* Registrierter Sitz* nur Geschäftsanschrift
+
+
+*    *
+    *   Ansprechpartner:
+        Telefon:
+        Telefax:
+        E-Mail:
+
+
+
+
+*    *   **2.**
+
+    *   **Angaben zum Absender (wenn abweichend von 1.):**
+
+
+*    *
+    *   Name:
+        Unternehmen:
+        Straße:
+        Hausnummer:
+        PLZ:
+        Ort:
+        Staat:
+        Telefon:
+        Telefax:
+        E-Mail:
+
+
+
+
+*    *   **3. Sonstige Informationen:**
+
+
 

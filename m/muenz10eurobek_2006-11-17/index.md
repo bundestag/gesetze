@@ -1,14 +1,14 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland")
 jurabk: Münz10EuroBek 2006-11-17
 layout: default
-origslug: m_nz10eurobek_2006-11-17
+origslug: muenz10eurobek_2006-11-17
 slug: muenz10eurobek_2006-11-17
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland") (Münz10EuroBek 2006-11-17)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "50 Jahre Bundesland Saarland") (Münz10EuroBek 2006-11-17)
 
 Ausfertigungsdatum
 :   2006-11-17

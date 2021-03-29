@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „Nordrhein-Westfalen“)
 jurabk: Münz2EuroBek 2010
 layout: default
-origslug: m_nz2eurobek_2010
+origslug: muenz2eurobek_2010
 slug: muenz2eurobek_2010
 
 ---

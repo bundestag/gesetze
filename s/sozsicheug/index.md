@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1202
 
+Zuletzt geändert durch
+:   Art. 22 Abs. 6 G v. 11.11.2016 I 2500
+
 
 ## § 1 Anwendungsbereich
 
@@ -95,10 +98,10 @@ Funktion der Verbindungsstelle nach Artikel 1 Absatz 2 Buchstabe b der
 Verordnung (EG) Nr. 987/2009 für die Familienleistungen nach Artikel 3
 Absatz 1 Buchstabe j der Verordnung (EG) Nr. 883/2004 (Kindergeld nach
 dem Abschnitt X des Einkommensteuergesetzes, Kindergeld und
-Kinderzuschlag nach dem Bundeskindergeldgesetz, Elterngeld nach dem
-Bundeselterngeld- und Elternzeitgesetz sowie Landeserziehungsgeld nach
-den Rechtsvorschriften der Länder betreffend Erziehungsgeld) wahr. Zu
-ihren Aufgaben gehören insbesondere
+Kinderzuschlag nach dem Bundeskindergeldgesetz, Elterngeld und
+Betreuungsgeld nach dem Bundeselterngeld- und Elternzeitgesetz sowie
+Landeserziehungsgeld nach den Rechtsvorschriften der Länder betreffend
+Erziehungsgeld) wahr. Zu ihren Aufgaben gehören insbesondere
 
 1.  die Koordinierung der Verwaltungshilfe und des Datenaustauschs für den
     Bereich der Familienleistungen bei grenzüberschreitenden
@@ -113,11 +116,11 @@ ihren Aufgaben gehören insbesondere
 
 ## § 5 Koordinierungsstelle für die Systeme der Beamtenversorgung
 
-Die Bundesfinanzdirektion West nimmt im Zusammenwirken mit der
-Deutschen Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches
+Die Generalzolldirektion nimmt im Zusammenwirken mit der Deutschen
+Rentenversicherung Bund (§ 127a Absatz 2 des Sechsten Buches
 Sozialgesetzbuch) die Funktion einer Koordinierungsstelle für die
 deutschen Systeme der Beamtenversorgung wahr. Zu den Aufgaben der
-Bundesfinanzdirektion in diesem Bereich gehören insbesondere die
+Generalzolldirektion in diesem Bereich gehören insbesondere die
 Koordinierung der Verwaltungshilfe und der Datenaustausch mit anderen
 Mitgliedstaaten bei grenzüberschreitenden Sachverhalten. Sie darf
 personenbezogene Daten erheben, verarbeiten und nutzen, soweit dies
@@ -144,21 +147,20 @@ Sozialgesetzbuch Anwendung finden.
     b)  für den Bereich des anwendbaren Rechts in den Fällen
 
         aa) des Artikels 15 der Verordnung (EG) Nr.
-            987/2009                               , wenn die deutschen
-            Rechtsvorschriften gelten,
+            987/2009, wenn die deutschen Rechtsvorschriften gelten,
 
 
         bb) des Artikels 16 der Verordnung (EG) Nr.
-            987/2009                               , wenn der Wohnort der
-            betreffenden Person in Deutschland liegt,
+            987/2009, wenn der Wohnort der betreffenden Person in Deutschland
+            liegt,
 
 
         cc) des Artikels 17 der Verordnung (EG) Nr.
-            987/2009                               ,
+            987/2009,
 
 
         dd) des Artikels 18 der Verordnung (EG) Nr.
-            987/2009                               ;
+            987/2009;
 
 
 
@@ -174,7 +176,7 @@ Sozialgesetzbuch Anwendung finden.
     Nr. 883/2004);
 
 
-3.  die Datenstelle der Träger der Rentenversicherung
+3.  die Datenstelle der Rentenversicherung
 
     a)  für den Bereich der Leistungen bei Invalidität, bei Alter und an
         Hinterbliebene sowie der Vorruhestandsleistungen (Artikel 3 Absatz 1
@@ -184,13 +186,13 @@ Sozialgesetzbuch Anwendung finden.
     b)  für den Bereich des anwendbaren Rechts in den Fällen
 
         aa) des Artikels 15 der Verordnung (EG) Nr.
-            987/2009                               , wenn die Rechtsvorschriften
-            eines anderen Mitgliedstaates gelten,
+            987/2009, wenn die Rechtsvorschriften eines anderen Mitgliedstaates
+            gelten,
 
 
         bb) des Artikels 16 der Verordnung (EG) Nr.
-            987/2009                               , wenn der Wohnort der
-            betreffenden Person außerhalb Deutschlands liegt;
+            987/2009, wenn der Wohnort der betreffenden Person außerhalb
+            Deutschlands liegt;
 
 
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 2003
 
-Geändert durch
-:   Art. 1 G v. 31.7.2009 I 2622
+Zuletzt geändert durch
+:   Art. 77 G v. 29.3.2017 I 626
 
 
 
@@ -195,14 +195,14 @@ zur Teilnahme zugelassen werden.
 (3) Der Stiftungsrat ist beschlussfähig, wenn mindestens die Hälfte
 der Mitglieder anwesend oder vertreten ist. Der Stiftungsrat fasst
 seine Beschlüsse mit einfacher Mehrheit der anwesenden oder sich an
-einer schriftlichen Abstimmung beteiligenden Mitglieder, soweit nicht
-in diesem Gesetz oder der Satzung etwas anderes vorgesehen ist. Bei
-Stimmengleichheit gibt die Stimme des oder der Vorsitzenden den
-Ausschlag. Wirtschaftsplanangelegenheiten, die Bestellung von
-Direktorinnen und Direktoren sowie Satzungsänderungen dürfen nicht
-gegen die Stimmen der vom Bund benannten Mitglieder entschieden
-werden. Der Stiftungsrat holt vor strategisch bedeutsamen und zentral
-haushaltsrelevanten Entscheidungen die Stellungnahme der
+einer schriftlichen oder elektronischen Abstimmung beteiligenden
+Mitglieder, soweit nicht in diesem Gesetz oder der Satzung etwas
+anderes vorgesehen ist. Bei Stimmengleichheit gibt die Stimme des oder
+der Vorsitzenden den Ausschlag. Wirtschaftsplanangelegenheiten, die
+Bestellung von Direktorinnen und Direktoren sowie Satzungsänderungen
+dürfen nicht gegen die Stimmen der vom Bund benannten Mitglieder
+entschieden werden. Der Stiftungsrat holt vor strategisch bedeutsamen
+und zentral haushaltsrelevanten Entscheidungen die Stellungnahme der
 Direktionsversammlung ein; die Einzelheiten regelt die Satzung.
 
 

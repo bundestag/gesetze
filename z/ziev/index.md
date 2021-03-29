@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3643
 
-Geändert durch
-:   Art. 11 G v. 1.3.2011 I 288
+Zuletzt geändert durch
+:   Art. 8 V v. 30.1.2014 I 322
 
     Diese Verordnung dient der weiteren Umsetzung der Artikel 7 und 8 der
     Richtlinie 2007/64/EG des Europäischen Parlaments und des Rates vom
@@ -341,7 +341,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   Bezeichnung
 
-    *[^F772647_02_BJNR364300009BJNE001100000]
+    *[^F772647_02_BJNR364300009BJNE001101119]
    Betrag
         (in Tsd. Euro)
         01
@@ -436,7 +436,7 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *   (–)
 
     *   Abzugsposition vom Kernkapital gemäß § 10 Abs. 2a Satz 2 Nr. 1 bis 5
-        KWG
+        KWG in der bis zum 31. Dezember 2013 geltenden Fassung
 
     *
     *   1.1.7.1 + 1.1.7.2 + 1.1.7.3
@@ -479,9 +479,10 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
     *   1.2
 
-    *[^F772647_03_BJNR364300009BJNE001100000]
+    *[^F772647_03_BJNR364300009BJNE001101119]
    Anrechenbares Ergänzungskapital
-        gemäß § 10 Abs. 2b KWG
+        gemäß § 10 Abs. 2b KWG in der bis zum 31. Dezember 2013 geltenden
+        Fassung
 
     *
     *
@@ -499,11 +500,11 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
     *
 
 
-   *Hinweis:*              Die dargestellte Tabelle deckt nicht sämtliche
-Positionen zur Berechnung des Eigenkapitals ab, hierzu wird
-ausdrücklich auf § 12 ZAG verwiesen.
+   *Hinweis:* Die dargestellte Tabelle deckt nicht sämtliche Positionen
+zur Berechnung des Eigenkapitals ab, hierzu wird ausdrücklich auf § 12
+ZAG verwiesen.
 
-[^F772647_04_BJNR364300009BJNE001100000]
+[^F772647_04_BJNR364300009BJNE001101119]
 2\. Berechnung der Eigenkapitalanforderungen
 ****
 
@@ -537,7 +538,7 @@ ausdrücklich auf § 12 ZAG verwiesen.
     *   Eigenkapitalanforderungen insgesamt
 
     *
-    *[^F772647_05_BJNR364300009BJNE001100000]
+    *[^F772647_05_BJNR364300009BJNE001101119]
    Endergebnis der gerechneten Methode
 
 
@@ -783,44 +784,46 @@ ausdrücklich auf § 12 ZAG verwiesen.
 
 
 
-[^F772647_06_BJNR364300009BJNE001100000]
-4\. Eigenmittelunterlegung nach KWG
+[^F772647_06_BJNR364300009BJNE001101119]
+4\. Eigenmittelunterlegung nach der Verordnung (EU) Nr. 575/2013 des
+Europäischen Parlaments und des Rates vom 26. Juni 2013 über
+Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur
+Änderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013,
+S. 1)
 ****
 
 
 *    *   0410
 
-    *   Eigenmittelunterlegung erfolgt nach KWG
+    *   Eigenmittelunterlegung erfolgt nach Verordnung (EU) Nr. 575/2013
 
     *
-    *[^F772647_07_BJNR364300009BJNE001100000]
+    *[^F772647_07_BJNR364300009BJNE001101119]
 
 
 
    Jeder Betrag, der das Eigenkapital erhöht, hat ein positives
     Vorzeichen. Jeder Betrag, der das Eigenkapital reduziert, hat ein
     negatives Vorzeichen.
-[^F772647_02_BJNR364300009BJNE001100000]:     Bei der Berechnung des Eigenkapitals kann Ergänzungskapital nur bis
+[^F772647_02_BJNR364300009BJNE001101119]:     Bei der Berechnung des Eigenkapitals kann Ergänzungskapital nur bis
     zur Höhe des Kernkapitals berücksichtigt werden. Dabei darf das
     berücksichtigte Ergänzungskapital nur bis zu 50 vom Hundert des
     Kernkapitals aus längerfristigen nachrangigen Verbindlichkeiten
     bestehen.
-[^F772647_03_BJNR364300009BJNE001100000]:     Die in § 2 Absatz 1 ZIEV vorgegebene Methode B ist anzuwenden, sofern
+[^F772647_03_BJNR364300009BJNE001101119]:     Die in § 2 Absatz 1 ZIEV vorgegebene Methode B ist anzuwenden, sofern
     nicht nach § 6 ZIEV eine andere Methode festgelegt worden ist. Die
     Anforderungen sind für die jeweils angewendete Methode vollständig zu
     melden.
-[^F772647_04_BJNR364300009BJNE001100000]:     Das jeweilige Endergebnis für die gerechnete Methode (Zeile 0170, 0210
+[^F772647_04_BJNR364300009BJNE001101119]:     Das jeweilige Endergebnis für die gerechnete Methode (Zeile 0170, 0210
     oder 0280) ist in diese Zeile zu übertragen.
-[^F772647_05_BJNR364300009BJNE001100000]:     Nur auszufüllen von Instituten, welche eine Erlaubnis gemäß § 32
+[^F772647_05_BJNR364300009BJNE001101119]:     Nur auszufüllen von Instituten, welche eine Erlaubnis gemäß § 32
     Absatz 1 des Kreditwesengesetzes (KWG) haben.
-[^F772647_06_BJNR364300009BJNE001100000]: [^F772647_07_BJNR364300009BJNE001100000]:     1\.                                                   wenn die
-    Eigenkapitalanforderungen nach ZIEV kleiner oder gleich den
-    Eigenmittelanforderungen nach SolvV;
+[^F772647_06_BJNR364300009BJNE001101119]: [^F772647_07_BJNR364300009BJNE001101119]:     1\.wenn die Eigenkapitalanforderungen nach ZIEV kleiner oder gleich den
+    Eigenmittelanforderungen nach Verordnung (EU) Nr. 575/2013;
 
 
-    2\.                                                   wenn die
-    Eigenkapitalanforderungen nach ZIEV größer den
-    Eigenmittelanforderungen nach SolvV.
+    2\.wenn die Eigenkapitalanforderungen nach ZIEV größer den
+    Eigenmittelanforderungen nach Verordnung (EU) Nr. 575/2013.
 
 
 

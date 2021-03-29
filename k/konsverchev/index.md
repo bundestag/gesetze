@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 2187
 
+Geändert durch
+:   Art. 13 G v. 18.7.2014 I 1042
+
 
 ## Eingangsformel
 
@@ -430,12 +433,15 @@ persönlich (körperlich) aufhält.
 ## Abschnitt 5 - Sonstige Anwendungsfälle
 
 
-### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten
+### § 21 Unterhaltsleistungen an geschiedene oder dauernd getrennt lebende Ehegatten oder an Lebenspartner einer aufgehobenen Lebenspartnerschaft oder dauernd getrennt lebende Lebenspartner
 
 (1) Nach Artikel 21 des Abkommens können Unterhaltszahlungen an einen
 geschiedenen oder dauernd getrennt lebenden Ehegatten, die aus einem
 Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige
-Person gezahlt werden, nur im anderen Staat besteuert werden.
+Person gezahlt werden, nur im anderen Staat besteuert werden. Satz 1
+gilt entsprechend für Unterhaltsleistungen an Lebenspartner einer
+aufgehobenen Lebenspartnerschaft oder dauernd getrennt lebende
+Lebenspartner.
 
 (2) Für solche Unterhaltszahlungen, die eine in Deutschland ansässige
 natürliche Person bewirkt, werden beim Zahlenden bei der Ermittlung

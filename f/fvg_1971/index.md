@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 4.4.2006 I 846, 1202;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 8.12.2010 I 1768
+:   Art. 8 G v. 14.8.2017 I 3122
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -37,17 +37,11 @@ Bundesfinanzbehörden sind
 
 2.  als Oberbehörden:
 
-    die Bundesmonopolverwaltung für Branntwein, das Bundesausgleichsamt,
-    das Bundeszentralamt für Steuern und das Bundesamt für zentrale
-    Dienste und offene Vermögensfragen;
+    die Bundesmonopolverwaltung für Branntwein, das Bundeszentralamt für
+    Steuern und die Generalzolldirektion;
 
 
-3.  als Mittelbehörden, soweit eingerichtet:
-
-    die Bundesfinanzdirektionen und das Zollkriminalamt;
-
-
-4.  als örtliche Behörden:
+3.  als örtliche Behörden:
 
     die Hauptzollämter einschließlich ihrer Dienststellen (Zollämter) und
     die Zollfahndungsämter.
@@ -104,23 +98,14 @@ anzuwenden.
 ### § 2a Verzicht auf Mittelbehörden, Aufgabenwahrnehmung durch andere Finanzbehörden
 
 (1) Durch Rechtsverordnung kann auf Mittelbehörden verzichtet werden.
-Die Rechtsverordnung erlässt für den Bereich von Bundesaufgaben das
-Bundesministerium der Finanzen und für den Bereich von Aufgaben des
-Landes die zuständige Landesregierung. Die Landesregierung kann die
+Die Rechtsverordnung erlässt für den Bereich von Aufgaben des Landes
+die zuständige Landesregierung. Die Landesregierung kann die
 Ermächtigung durch Rechtsverordnung auf die für die Finanzverwaltung
-zuständige oberste Landesbehörde übertragen. Die Rechtsverordnung des
-Bundesministeriums der Finanzen bedarf nicht der Zustimmung des
-Bundesrates.
+zuständige oberste Landesbehörde übertragen.
 
 (2) Wird auf Mittelbehörden verzichtet, gehen die den
-Bundesfinanzdirektionen und die den Präsidenten oder Präsidentinnen
-der Bundesfinanzdirektionen zugewiesenen Aufgaben der
-Bundesfinanzverwaltung auf die oberste Behörde nach § 1 Nr. 1 und die
-den Oberfinanzdirektionen zugewiesenen Aufgaben der
-Landesfinanzverwaltung auf die oberste Behörde nach § 2 Abs. 1 Nr. 1
-über. Durch Rechtsverordnung des Bundesministeriums der Finanzen, die
-nicht der Zustimmung des Bundesrates bedarf, können Bundesaufgaben
-nach Satz 1 einer anderen Bundesfinanzbehörde übertragen werden. Durch
+Oberfinanzdirektionen zugewiesenen Aufgaben der Landesfinanzverwaltung
+auf die oberste Behörde nach § 2 Abs. 1 Nr. 1 über. Durch
 Rechtsverordnung der zuständigen Landesregierung können Landesaufgaben
 nach Satz 1 einer anderen Landesfinanzbehörde übertragen werden. Die
 Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die
@@ -135,13 +120,11 @@ für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
 ### § 3 Leitung der Finanzverwaltung
 
 (1) Das Bundesministerium der Finanzen leitet die
-Bundesfinanzverwaltung. Das Bundesausgleichsamt unterliegt der
-Dienstaufsicht des Bundesministeriums der Finanzen. Soweit die
-Bundesfinanzbehörden Aufgaben aus dem Geschäftsbereich eines anderen
-Bundesministeriums zu erledigen haben, erteilt dieses die fachlichen
-Weisungen. Fachliche Weisungen, die wesentliche organisatorische
-Auswirkungen haben, ergehen im Benehmen mit dem Bundesministerium der
-Finanzen.
+Bundesfinanzverwaltung. Soweit die Bundesfinanzbehörden Aufgaben aus
+dem Geschäftsbereich eines anderen Bundesministeriums zu erledigen
+haben, erteilt dieses die fachlichen Weisungen. Fachliche Weisungen,
+die wesentliche organisatorische Auswirkungen haben, ergehen im
+Benehmen mit dem Bundesministerium der Finanzen.
 
 (2) Die für die Finanzverwaltung zuständige oberste Landesbehörde
 leitet die Landesfinanzverwaltung. Soweit Landesfinanzbehörden
@@ -162,8 +145,8 @@ obersten Landesbehörde.
 Bundesoberbehörden, soweit durch Gesetz nichts anderes bestimmt ist.
 
 (2) Die Bundesoberbehörden erledigen in eigener Zuständigkeit
-Aufgaben, die ihnen durch dieses Gesetz oder durch andere
-Bundesgesetze zugewiesen werden.
+Aufgaben, die ihnen durch dieses Gesetz, durch andere oder aufgrund
+anderer Bundesgesetze zugewiesen werden.
 
 (3) Die Bundesoberbehörden erledigen als beauftragte Behörden Aufgaben
 des Bundes, mit deren Durchführung sie vom Bundesministerium der
@@ -193,10 +176,14 @@ und 3 folgende Aufgaben:
     Weisung des Bundesministeriums der Finanzen;
 
 
-4.  die Mitwirkung an der Überprüfung der Besteuerungsgrundlagen für
-    ausländische Investmentanteile nach dem Investmentsteuergesetz; die
-    Überprüfung erfolgt auf Antrag einer Landesfinanzbehörde oder im Wege
-    von Stichproben;
+4.  die Besteuerung von Investmentfonds und Spezial-Investmentfonds sowie
+    die Feststellung der Besteuerungsgrundlagen von Spezial-
+    Investmentfonds, soweit es nach § 4 Absatz 2 Nummer 2 des
+    Investmentsteuergesetzes zuständig ist. Daneben stellt das
+    Bundeszentralamt für Steuern auf Anforderung den für die Besteuerung
+    von Investmentfonds, Spezial-Investmentfonds oder deren Anlegern
+    zuständigen Landesfinanzbehörden seine Erkenntnisse über ausländische
+    Rechtsformen und ausländisches Recht zur Verfügung;
 
 
 5.  die Ausübung der Funktion der zuständigen Behörde auf dem Gebiet der
@@ -208,6 +195,82 @@ und 3 folgende Aufgaben:
     1990 (ABl. EG Nr. L 225 S. 10) in der jeweils geltenden Fassung,
     soweit das zuständige Bundesministerium seine Befugnisse in diesem
     Bereich delegiert;
+
+
+5a. die Entgegennahme und Weiterleitung von Meldungen nach auf der
+    Grundlage von § 117c der Abgabenordnung ergangenen Rechtsverordnungen
+    und die Durchführung von Bußgeldverfahren in den Fällen des § 379
+    Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser
+    Meldungen im Rahmen der dem Bundeszentralamt für Steuern gesetzlich
+    übertragenen Aufgaben;
+
+
+5b. die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im
+    Rahmen der nach § 2 des Gesetzes zum automatischen Austausch von
+    Informationen über Finanzkonten in Steuersachen auszutauschenden
+    Informationen und die Durchführung von Bußgeldverfahren nach § 28 des
+    vorgenannten Gesetzes;
+
+
+5c. bis zum Zeitpunkt der Bereitstellung des Zentralverzeichnisses der
+    Mitgliedstaaten gemäß Artikel 21 Absatz 5 der Richtlinie 2011/16/EU
+    die automatische Übermittlung von Informationen zu
+    grenzüberschreitenden Vorbescheiden oder Vorabverständigungen über die
+    Verrechnungspreisgestaltung gemäß § 7 Absatz 3 bis 5 des EU-
+    Amtshilfegesetzes sowie die Entgegennahme der Informationen im Sinne
+    des § 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes zu
+    grenzüberschreitenden Vorbescheiden oder Vorabverständigungen über die
+    Verrechnungspreisgestaltung und ihre Weiterleitung an die zuständige
+    Landesfinanzbehörde. Ab dem in § 7 Absatz 9 Satz 2 des EU-
+    Amtshilfegesetzes genannten Zeitpunkt ist das Verfahren nach Artikel
+    21 Absatz 5 der Richtlinie 2011/16/EU anzuwenden;
+
+
+5d. die automatische Übermittlung der länderbezogenen Berichte, die dem
+    Bundeszentralamt für Steuern hierzu von den Unternehmen nach § 138a
+    Absatz 6 der Abgabenordnung übermittelt worden sind, an
+
+    a)  die jeweils zuständige Landesfinanzbehörde,
+
+
+    b)  die zuständigen Behörden der Vertragsstaaten der am 27. Januar 2016
+        unterzeichneten „Mehrseitigen Vereinbarung zwischen den zuständigen
+        Behörden über den Austausch länderbezogener Berichte“ (BGBl. 2016 II
+        S. 1178, 1179) sowie
+
+
+    c)  die zuständigen Behörden der anderen Mitgliedstaaten gemäß Artikel 8aa
+        der Richtlinie 2011/16/EU;
+
+
+
+
+
+5e. die Entgegennahme und Weiterleitung
+
+    a)  der länderbezogenen Berichte, die dem zentralen Verbindungsbüro von
+        den zuständigen Behörden der anderen Mitgliedstaaten gemäß Artikel 8aa
+        der Richtlinie 2011/16/EU übersandt wurden, an die zuständigen
+        Landesfinanzbehörden sowie
+
+
+    b)  der länderbezogenen Berichte im Sinne des § 138a Absatz 2 der
+        Abgabenordnung, die dem zentralen Verbindungsbüro von den zuständigen
+        Behörden der Vertragsstaaten der am 27. Januar 2016 unterzeichneten
+        „Mehrseitigen Vereinbarung zwischen den zuständigen Behörden über den
+        Austausch länderbezogener Berichte“ (BGBl. 2016 II S. 1178, 1179)
+        übermittelt wurden, an die jeweils zuständige Landesfinanzbehörde;
+
+
+
+
+
+5f. die Auswertung der Informationen nach Nummer 5c und die Auswertung der
+    länderbezogenen Berichte nach Nummer 5d im Rahmen der dem
+    Bundeszentralamt für Steuern gesetzlich übertragenen Aufgaben.
+    Auswertungen der Informationen nach Nummer 5c sowie der
+    länderbezogenen Berichte nach Nummer 5d durch die jeweils zuständige
+    Landesfinanzbehörde bleiben hiervon unberührt;
 
 
 6.  die zentrale Sammlung und Auswertung von Unterlagen über steuerliche
@@ -226,10 +289,10 @@ und 3 folgende Aufgaben:
     18 Abs. 9 des Umsatzsteuergesetzes;
 
 
-9.  auf Grund der Verordnung (EG) Nr. 1798/2003 des Rates vom 7. Oktober
-    2003 über die Zusammenarbeit der Verwaltungsbehörden auf dem Gebiet
-    der Mehrwertsteuer und zur Aufhebung der Verordnung (EWG) Nr. 218/92
-    (ABl. EU Nr. L 264 S. 1)
+9.  auf Grund der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober
+    2010 über die Zusammenarbeit der Verwaltungsbehörden und die
+    Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom
+    12\.10.2010, S. 1)
 
     a)  die Vergabe der Umsatzsteuer-Identifikationsnummer (§ 27a des
         Umsatzsteuergesetzes),
@@ -246,14 +309,17 @@ und 3 folgende Aufgaben:
 
 
 
-10. die Erteilung von Bescheinigungen in Anwendung des Artikels 15 Nr. 10
-    der Sechsten Richtlinie 77/388/EWG des Rates vom 17. Mai 1977 (ABl. EG
-    Nr. L 145 S. 1) in der ab 1. Januar 1993 geltenden Fassung zum
-    Nachweis der Umsatzsteuerbefreiung der Umsätze, die in anderen
-    Mitgliedstaaten der Europäischen Gemeinschaft an im Geltungsbereich
-    dieses Gesetzes ansässige zwischenstaatliche Einrichtungen, ständige
-    diplomatische Missionen und berufskonsularische Vertretungen sowie
-    deren Mitglieder ausgeführt werden;
+10. die Erteilung von Bescheinigungen in Anwendung des Artikels 151 der
+    Richtlinie 2006/112/EG des Rates vom 28. November 2006 über das
+    gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1, L
+    335 vom 20.12.2007, S. 60), die zuletzt durch die Richtlinie
+    2013/61/EU (ABl. L 353 vom 28.12.2013, S. 5) geändert worden ist, in
+    der jeweils geltenden Fassung zum Nachweis der Umsatzsteuerbefreiung
+    der Umsätze, die in anderen Mitgliedstaaten der Europäischen Union an
+    im Geltungsbereich dieses Gesetzes ansässige zwischenstaatliche
+    Einrichtungen, ständige diplomatische Missionen und
+    berufskonsularische Vertretungen sowie deren Mitglieder ausgeführt
+    werden;
 
 
 11. die Durchführung des Familienleistungsausgleichs nach Maßgabe der §§
@@ -266,20 +332,31 @@ und 3 folgende Aufgaben:
     den Vorschriften der Abgabenordnung über die örtliche Zuständigkeit
     von Finanzbehörden die Entscheidung über den Anspruch auf Kindergeld
     für bestimmte Bezirke oder Gruppen von Berechtigten einer anderen
-    Familienkasse übertragen. Das Bundesministerium der Finanzen wird
-    ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-    Bundesrates bedarf, Bundesfamilienkassen zur Wahrnehmung der Aufgaben
-    der Familienkassen nach § 72 Abs. 1 des Einkommensteuergesetzes
-    einzurichten. Diese können auch Aufgaben im Auftrag der mittelbaren
-    Verwaltung wahrnehmen. Die Landesregierungen werden ermächtigt, durch
-    Rechtsverordnung Landesfamilienkassen zur Wahrnehmung der Aufgaben
+    Familienkasse übertragen. Für die besonderen Belange der Personen, die
+    in einem öffentlich-rechtlichen Dienst-, Amts- oder
+    Ausbildungsverhältnis zum Bund stehen oder Versorgungsbezüge nach
+    bundesbeamten- oder soldatenrechtlichen Vorschriften oder Grundsätzen
+    erhalten oder Arbeitnehmer des Bundes oder einer sonstigen
+    Körperschaft, einer Anstalt oder einer Stiftung des öffentlichen
+    Rechts im Bereich des Bundes sind, benennt die Bundesagentur für
+    Arbeit als Familienkasse zentrale Ansprechpartner. Das
+    Bundesministerium der Finanzen wird ermächtigt, durch
+    Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+    Bundesfamilienkassen zur Wahrnehmung der Aufgaben der Familienkassen
     nach § 72 Abs. 1 des Einkommensteuergesetzes einzurichten. Diese
-    können auch Aufgaben der mittelbaren Verwaltung wahrnehmen. Die
-    Ermächtigung kann durch Rechtsverordnung auf die für die
-    Finanzverwaltung zuständigen obersten Landesbehörden übertragen
-    werden. Die Familienkassen gelten als Bundesfinanzbehörden, soweit sie
-    den Familienleistungsausgleich durchführen, und unterliegen insoweit
-    der Fachaufsicht des Bundeszentralamtes für Steuern;
+    können auch Aufgaben im Auftrag der mittelbaren Verwaltung wahrnehmen.
+    Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+    Landesfamilienkassen zur Wahrnehmung der Aufgaben nach § 72 Abs. 1 des
+    Einkommensteuergesetzes einzurichten. Diese können auch Aufgaben der
+    mittelbaren Verwaltung wahrnehmen. Die Ermächtigung kann durch
+    Rechtsverordnung auf die zuständigen obersten Landesbehörden
+    übertragen werden. Die Familienkassen gelten als Bundesfinanzbehörden,
+    soweit sie den Familienleistungsausgleich durchführen, und unterliegen
+    insoweit der Fachaufsicht des Bundeszentralamtes für Steuern. Das
+    Bundeszentralamt für Steuern erteilt diesen Familienkassen ein Merkmal
+    zur Identifizierung (Familienkassenschlüssel) und veröffentlicht die
+    Namen und die Anschriften dieser Familienkassen jeweils zu Beginn
+    eines Kalenderjahres im Bundessteuerblatt;
 
 
 12. die Durchführung der Veranlagung nach § 50 Absatz 2 Satz 2 Nummer 5
@@ -318,7 +395,7 @@ und 3 folgende Aufgaben:
 
 
 18.
-    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a des
+    a)  die Weiterleitung der Daten, die nach § 10 Absatz 2a und 4b des
         Einkommensteuergesetzes in den dort genannten Fällen zu übermitteln
         sind,
 
@@ -333,16 +410,16 @@ und 3 folgende Aufgaben:
         sind,
 
 
-    d)  die Erhebung des Verspätungsgeldes nach § 22a Absatz 5 des
-        Einkommensteuergesetzes sowie die Prüfung, ob die
-        Mitteilungspflichtigen ihre Pflichten nach § 22a Absatz 1 des
-        Einkommensteuergesetzes erfüllt haben,
+    d)  bei einer Datenübermittlung nach § 22a Absatz 1 des
+        Einkommensteuergesetzes die Prüfung nach § 93c Absatz 4 Satz 1 der
+        Abgabenordnung und die Erhebung des Verspätungsgeldes nach § 22a
+        Absatz 5 des Einkommensteuergesetzes,
 
 
     e)  die Übermittlung der Identifikationsnummer (§ 139b der Abgabenordnung)
         im Anfrageverfahren nach § 22a Absatz 2 in Verbindung mit § 10 Absatz
-        2a, § 10a Absatz 5, § 32b Absatz 3 Satz 1, § 41b Absatz 2 und § 52
-        Absatz 24, 24d Satz 3, Absatz 38a und 43a des Einkommensteuergesetzes,
+        2a und 4b, § 10a Absatz 5 und § 32b Absatz 3 Satz 1 des
+        Einkommensteuergesetzes,
 
 
     f)  die Gewährung der Altersvorsorgezulage nach Abschnitt XI des
@@ -375,22 +452,21 @@ und 3 folgende Aufgaben:
     Einkommensteuergesetzes. Das Bundeszentralamt für Steuern bedient sich
     zur Durchführung dieser Aufgabe der Deutschen Rentenversicherung
     Knappschaft-Bahn-See als Träger der knappschaftlichen
-    Rentenversicherung/Verwaltungsstelle Cottbus im Wege der Organleihe.
-    Das Nähere, insbesondere die Höhe der Verwaltungskostenerstattung,
-    wird durch Verwaltungsvereinbarung geregelt. Die Deutsche
-    Rentenversicherung Knappschaft-Bahn-See als Träger der
-    knappschaftlichen Rentenversicherung/Verwaltungsstelle Cottbus gilt
-    für die Durchführung dieser Aufgabe als Bundesfinanzbehörde und
-    unterliegt insoweit der Fachaufsicht des Bundeszentralamtes für
-    Steuern.
+    Rentenversicherung im Wege der Organleihe. Das Nähere, insbesondere
+    die Höhe der Verwaltungskostenerstattung, wird durch
+    Verwaltungsvereinbarung geregelt. Die Deutsche Rentenversicherung
+    Knappschaft-Bahn-See als Träger der knappschaftlichen
+    Rentenversicherung gilt für die Durchführung dieser Aufgabe als
+    Bundesfinanzbehörde und unterliegt insoweit der Fachaufsicht des
+    Bundeszentralamtes für Steuern.
 
 
 21. die Durchführung des Besteuerungsverfahrens nach § 18 Abs. 4c des
     Umsatzsteuergesetzes einschließlich der damit im Zusammenhang
-    stehenden Tätigkeiten auf Grund Kapitel VI der Verordnung (EG) Nr.
-    1798/2003 des Rates vom 7. Oktober 2003 über die Zusammenarbeit der
-    Verwaltungsbehörden auf dem Gebiet der Mehrwertsteuer und zur
-    Aufhebung der Verordnung (EWG) Nr. 218/92 (ABl. EU Nr. L 264 S. 1);
+    stehenden Tätigkeiten auf Grund von Kapitel XI Abschnitt I der
+    Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 über die
+    Zusammenarbeit der Verwaltungsbehörden und die Betrugsbekämpfung auf
+    dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1);
 
 
 22. die Vergabe und die Verwaltung des Identifikationsmerkmals nach den §§
@@ -470,8 +546,11 @@ und 3 folgende Aufgaben:
     23);
 
 
-36. die Prüfung der bei Vorliegen der Einwilligung nach § 10 Absatz 2 Satz
-    3 des Einkommensteuergesetzes zu übermittelnden Daten;
+36. die Prüfung nach § 93c Absatz 4 Satz 1 der Abgabenordnung der bei
+    Vorliegen der Einwilligung nach § 10 Absatz 2 Satz 3 des
+    Einkommensteuergesetzes zu übermittelnden Daten sowie bei dieser
+    Datenübermittlung die Festsetzung und Erhebung des Haftungsbetrages
+    nach § 72a Absatz 4 der Abgabenordnung;
 
 
 37. Ausstellung der Bescheinigung an Unternehmer über die Erfüllung der
@@ -480,10 +559,51 @@ und 3 folgende Aufgaben:
 
 38. ab 14. Dezember 2010 die Weiterleitung von Anzeigen nach § 9 der
     Erbschaftsteuer-Durchführungsverordnung an die zuständigen
-    Finanzbehörden der Länder.
+    Finanzbehörden der Länder;
+
+
+39. die Entlastung von Kapitalertragsteuer in den Fällen des § 32 Absatz 5
+    des Körperschaftsteuergesetzes. Die Verwaltungskosten sowie sonstige
+    Kosten, die dem Bund durch diese Zuständigkeit entstehen, werden vom
+    Bund und den Ländern je zur Hälfte getragen. Zwischen den einzelnen
+    Ländern werden die Kosten im Sinne des Satzes 2 entsprechend dem in
+    Absatz 2 geregelten Verhältnis aufgeteilt;
+
+
+40. die mit der Durchführung des Besteuerungsverfahrens nach § 18 Absatz
+    4e des Umsatzsteuergesetzes in Zusammenhang stehenden Tätigkeiten auf
+    Grund von Kapitel V und XI Abschnitt 2 der Verordnung (EU) Nr.
+    904/2010 des Rates vom 7. Oktober 2010 über die Zusammenarbeit der
+    Verwaltungsbehörden und die Betrugsbekämpfung auf dem Gebiet der
+    Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1);
+
+
+41. die Entgegennahme und Weiterleitung von Anzeigen und
+    Umsatzsteuererklärungen für im Inland ansässige Unternehmer in
+    Anwendung der Artikel 369c bis 369i der Richtlinie 2006/112/EG des
+    Rates in der Fassung des Artikels 5 Nummer 15 der Richtlinie 2008/8/EG
+    des Rates vom 12. Februar 2008 zur Änderung der Richtlinie 2006/112/EG
+    bezüglich des Ortes der Dienstleistung (ABl. L 44 vom 20.2.2008, S.
+    11) einschließlich der damit zusammenhängenden Tätigkeiten auf Grund
+    von Artikel 17 Absatz 1 Buchstabe d und Artikel 21 Absatz 1 sowie
+    Kapitel XI Abschnitt 2 der Verordnung (EU) Nr. 904/2010 des Rates vom
+    7\. Oktober 2010 über die Zusammenarbeit der Verwaltungsbehörden und
+    die Betrugsbekämpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268
+    vom 12.10.2010, S. 1);
+
+
+42. die Einrichtung und Pflege des Online-Zugriffs der Finanzämter auf
+    ATLAS-Ein- und Ausfuhrdaten.
 
 
 
+Das Bundeszentralamt für Steuern hat Daten, die von ihm oder der
+zentralen Stelle im Sinne des § 81 des Einkommensteuergesetzes nach §
+88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbehörden
+weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des
+Zugangs der Daten zur Durchführung von Verfahren im Sinne des § 30
+Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur
+Datenschutzkontrolle zu speichern.
 
 (2) Die vom Bundeszentralamt für Steuern auf Grund gesetzlicher
 Vorschriften gewährten Steuererstattungen und Steuervergütungen sowie
@@ -518,17 +638,21 @@ Nähere zu bestimmen.
 
 (4) Die von der zentralen Stelle (§ 81 des Einkommensteuergesetzes)
 veranlassten Auszahlungen von Altersvorsorgezulagen (§ 83 des
-Einkommensteuergesetzes) werden jeweils von den Ländern und Gemeinden,
-in denen der Gläubiger der Steuervergütung seinen Wohnsitz hat, nach
-den für die Verteilung des Aufkommens der Einkommensteuer maßgebenden
-Vorschriften mit getragen. Die zentrale Stelle stellt nach Ablauf des
-dem Kalendervierteljahr folgenden Monats die Anteile der einzelnen
-Länder einschließlich ihrer Gemeinden an den zu gewährenden Leistungen
-fest. Die nach Satz 2 festgestellten Anteile sind dem Bund von den
-Ländern bis zum 15. des zweiten, dem Kalendervierteljahr folgenden
-Monats zu erstatten. Das Bundesministerium der Finanzen wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
-Nähere zu bestimmen.
+Einkommensteuergesetzes) werden nach den für die Verteilung des
+Aufkommens der Einkommensteuer maßgebenden Vorschriften von den
+Ländern und Gemeinden mitgetragen, in denen der Gläubiger der
+Steuervergütung seinen inländischen Wohnsitz hat; bei Gläubigern mit
+ausländischem Wohnsitz wird der letzte bekannte inländische Wohnsitz
+zugrunde gelegt. Die sich aus Satz 1 ergebenden Finanzierungsanteile
+gelten auch, wenn der Wohnsitz nicht nach Satz 1 zugeordnet werden
+kann. Die zentrale Stelle stellt nach Ablauf des dem
+Kalendervierteljahr folgenden Monats die Anteile der einzelnen Länder
+einschließlich ihrer Gemeinden an den zu gewährenden Leistungen fest.
+Die nach Satz 2 festgestellten Anteile sind dem Bund von den Ländern
+bis zum 15. des zweiten, dem Kalendervierteljahr folgenden Monats zu
+erstatten. Das Bundesministerium der Finanzen wird ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zu
+bestimmen.
 
 (5) An dem Aufkommen der von der vereinnahmten pauschalen Lohnsteuer
 (§ 40a Abs. 6 des Einkommensteuergesetzes) sind die Länder und
@@ -581,9 +705,43 @@ Auszahlung der Einnahmen in Ausübung der Aufgaben nach Absatz 1 Nummer
 12 zu bestimmen.
 
 
-### § 5a (weggefallen)
+### § 5a Aufgaben und Gliederung der Generalzolldirektion
 
--
+(1) Unbeschadet des § 4 Absatz 2 und 3 leitet die Generalzolldirektion
+bundesweit die Durchführung der Aufgaben der Zollverwaltung. Sie übt
+die Dienst- und Fachaufsicht über die Hauptzollämter und
+Zollfahndungsämter aus. Außerdem nimmt die Generalzolldirektion die
+ihr sonst übertragenen Aufgaben wahr.
+
+(2) Die Generalzolldirektion gliedert sich in Direktionen. Es wird
+eine für den Zollfahndungsdienst zuständige Direktion
+(Zollkriminalamt) eingerichtet. Innerhalb des Zollkriminalamtes wird
+die Zentralstelle für Finanztransaktionsuntersuchungen errichtet.
+Andere Organisationseinheiten können eingerichtet werden.
+
+(3) Die Zuständigkeiten und Aufgaben der Direktionen und der anderen
+Organisationseinheiten bestimmt das Bundesministerium der Finanzen.
+Aufgaben des Zollfahndungsdienstes werden durch das Zollkriminalamt
+wahrgenommen; ausgenommen hiervon ist die Zentralstelle für
+Finanztransaktionsuntersuchungen, die ausschließlich Aufgaben nach dem
+Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten
+(Geldwäschegesetz) wahrnimmt.
+
+(4) Die bei der Generalzolldirektion errichteten Bundeskassen
+unterstehen unmittelbar der Leitung einer Direktion der
+Generalzolldirektion. Das Bundesministerium der Finanzen bestimmt die
+zuständige Direktion.
+
+
+### § 5b Übertragung von Bauaufgaben
+
+Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der Bund
+die Leitung und Erledigung seiner Bauaufgaben im Wege der Organleihe
+Landesbehörden sowie Landesbetrieben, Sondervermögen des Landes und
+landesunmittelbaren juristischen Personen des öffentlichen Rechts
+übertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die
+Landesbehörden die Anordnungen des fachlich zuständigen
+Bundesministeriums zu befolgen haben.
 
 
 ### § 6 Sitz und Aufgaben der Landesoberbehörde
@@ -607,52 +765,11 @@ gilt § 9a Satz 3 entsprechend.
 
 ### § 7 Bezirk und Sitz
 
-(1) Das Bundesministerium der Finanzen bestimmt den Bezirk
-(Bundesfinanzbezirk) und Sitz der Bundesfinanzdirektionen sowie den
-Sitz des Zollkriminalamtes.
-
-(2) Die obersten Landesbehörden bestimmen den Bezirk
-(Oberfinanzbezirk) und Sitz der Oberfinanzdirektion, die ihnen jeweils
-untersteht.
+Die obersten Landesbehörden bestimmen den Bezirk (Oberfinanzbezirk)
+und Sitz der Oberfinanzdirektion, die ihnen jeweils untersteht.
 
 
-### § 8 Aufgaben und Gliederung der Bundesfinanzdirektionen
-
-(1) Die Bundesfinanzdirektionen leiten jeweils in ihrem Bezirk die
-Finanzverwaltung des Bundes mit Ausnahme des Zollfahndungsdienstes.
-Einer Bundesfinanzdirektion kann auch die Leitung für mehrere
-Bundesfinanzbezirke übertragen werden. Die Bundesfinanzdirektionen
-können weitere Aufgaben erledigen. § 1 Abs. 2 des
-Zollfahndungsdienstgesetzes bleibt unberührt.
-
-(2) Die Bundesfinanzdirektionen gliedern sich in eine Abteilung
-Zentrale Facheinheit und eine Abteilung Rechts- und Fachaufsicht.
-Andere Abteilungen und Organisationseinheiten können eingerichtet
-werden.
-
-(3) Die Bundesfinanzdirektionen leiten die Durchführung der Aufgaben,
-für deren Erledigung die Hauptzollämter zuständig sind. Das
-Bundesministerium der Finanzen kann den Bundesfinanzdirektionen
-Aufgaben zur bundesweiten Bearbeitung zuweisen. Insoweit sind die
-Bundesfinanzdirektionen befugt, den anderen Mittelbehörden der
-Bundesfinanzverwaltung fachliche Weisungen zu erteilen. Außerdem
-erledigt die Bundesfinanzdirektion die ihr sonst übertragenen
-Aufgaben.
-
-(4) Durch Rechtsverordnung können Aufgaben einer Bundesfinanzdirektion
-für den ganzen Bezirk oder einen Teil davon auf andere
-Bundesfinanzdirektionen übertragen werden, wenn dadurch der Vollzug
-der Aufgaben verbessert oder erleichtert wird. Die Rechtsverordnung
-erlässt das Bundesministerium der Finanzen. Sie bedarf nicht der
-Zustimmung des Bundesrates.
-
-(5) Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der
-Bund die Leitung und Erledigung seiner Bauaufgaben im Wege der
-Organleihe Landesbehörden sowie Landesbetrieben, Sondervermögen des
-Landes und landesunmittelbaren juristischen Personen des öffentlichen
-Rechts übertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die
-Landesbehörden die Anordnungen des fachlich zuständigen
-Bundesministeriums zu befolgen haben.
+### § 8 (weggefallen)
 
 
 ### § 8a Aufgaben und Gliederung der Oberfinanzdirektionen
@@ -682,13 +799,7 @@ Aufgaben, für deren Erledigung die Finanzämter zuständig sind.
 Außerdem erledigt sie die ihr sonst übertragenen Aufgaben.
 
 
-### § 9 Leitung der Bundesfinanzdirektionen
-
-Der Präsident oder die Präsidentin der jeweiligen
-Bundesfinanzdirektion leitet die Bundesfinanzdirektion. Ihm oder ihr
-kann auch die Leitung einer Abteilung übertragen werden. Er oder sie
-wird auf Vorschlag des Bundesministeriums der Finanzen im Benehmen mit
-der zuständigen Landesregierung ernannt und entlassen.
+### § 9 (weggefallen)
 
 
 ### § 9a Leitung der Oberfinanzdirektionen
@@ -701,13 +812,7 @@ Einvernehmen mit der Bundesregierung durch die zuständige Stelle des
 Landes ernannt und entlassen.
 
 
-### § 10 Bundeskassen
-
-Werden oder sind bei einer Bundesfinanzdirektion eine oder mehrere
-Bundeskassen errichtet, so kann eine Bundeskasse Kassengeschäfte für
-mehrere Bundesfinanzbezirke oder für Teile davon wahrnehmen. Die
-Bundeskassen unterstehen unmittelbar dem Präsidenten oder der
-Präsidentin der zuständigen Bundesfinanzdirektion.
+### § 10 (weggefallen)
 
 
 ### § 10a Landeskassen
@@ -730,23 +835,28 @@ oder der zuständigen Oberfinanzpräsidentin unterstellt werden.
 
 ### § 12 Bezirk und Sitz der Hauptzollämter und Zollfahndungsämter sowie Aufgaben der Hauptzollämter
 
-(1) Das Bundesministerium der Finanzen bestimmt den Bezirk und den
-Sitz der Hauptzollämter und der Zollfahndungsämter.
+(1) Die Generalzolldirektion bestimmt den Bezirk und den Sitz der
+Hauptzollämter und der Zollfahndungsämter.
 
 (2) Die Hauptzollämter sind als örtliche Bundesbehörden für die
 Verwaltung der Zölle, der bundesgesetzlich geregelten Verbrauchsteuern
-einschließlich der Einfuhrumsatzsteuer und der Biersteuer, der Abgaben
-im Rahmen der Europäischen Gemeinschaften, für die zollamtliche
-Überwachung des Warenverkehrs über die Grenze, für die Grenzaufsicht,
-für die Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung
-und für die ihnen sonst übertragenen Aufgaben zuständig.
+einschließlich der Einfuhrumsatzsteuer und der Biersteuer, der
+Luftverkehrsteuer, der Kraftfahrzeugsteuer, der Abgaben im Rahmen der
+Europäischen Gemeinschaften, für die zollamtliche Überwachung des
+Warenverkehrs über die Grenze, für die Grenzaufsicht, für die
+Bekämpfung der Schwarzarbeit und der illegalen Beschäftigung und für
+die ihnen sonst übertragenen Aufgaben zuständig.
 
 (3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung
 ohne Zustimmung des Bundesrates die Zuständigkeit eines Hauptzollamts
 nach Absatz 2 auf einzelne Aufgaben beschränken oder Zuständigkeiten
 nach Absatz 2 einem Hauptzollamt für den Bereich mehrerer
 Hauptzollämter übertragen, wenn dadurch der Vollzug der Aufgaben
-verbessert oder erleichtert wird.
+verbessert oder erleichtert wird. Das Bundesministerium der Finanzen
+kann die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
+Generalzolldirektion übertragen.
+
+(4) (weggefallen)
 
 
 ### § 12a (weggefallen)
@@ -812,12 +922,26 @@ Grund des Artikels 108 Absatz 4 Satz 2 des Grundgesetzes den Gemeinden
 ihnen sonst übertragenen Aufgaben zuständig. Soweit es sich um
 Aufgaben der Finanzverwaltung handelt und der Vollzug der Aufgaben
 verbessert oder erleichtert wird, kann die zuständige Landesregierung
-durch Rechtsverordnung die Zuständigkeit eines Finanzamts oder einer
-besonderen Landesfinanzbehörde auf einzelne Aufgaben beschränken sowie
-einem Finanzamt oder einer besonderen Landesfinanzbehörde
-Zuständigkeiten für die Bezirke mehrerer Finanzämter übertragen. Die
-Landesregierung kann die Ermächtigung durch Rechtsverordnung auf die
-für die Finanzverwaltung zuständige oberste Landesbehörde übertragen.
+durch Rechtsverordnung
+
+1.  die Zuständigkeit eines Finanzamts oder einer besonderen
+    Landesfinanzbehörde (§ 2 Absatz 3) auf einzelne Aufgaben beschränken,
+
+
+2.  einem Finanzamt oder einer besonderen Landesfinanzbehörde (§ 2 Absatz
+    3) Zuständigkeiten für die Bezirke mehrerer Finanzämter übertragen
+    oder
+
+
+3.  einer Landesoberbehörde (§ 6) die landesweite Zuständigkeit für
+    Kassengeschäfte und das Erhebungsverfahren einschließlich der
+    Vollstreckung übertragen.
+
+
+
+Die Landesregierung kann die Ermächtigung durch Rechtsverordnung auf
+die für die Finanzverwaltung zuständige oberste Landesbehörde
+übertragen.
 
 (3) Wenn im Besteuerungsverfahren automatische Einrichtungen
 eingesetzt werden, können durch Rechtsverordnung der zuständigen
@@ -832,51 +956,30 @@ Zuständigkeiten nach Absatz 2 Satz 1 und 2 auf ein Finanzamt, ein nach
 oder eine besondere Landesfinanzbehörde (§ 2 Abs. 3) außerhalb des
 Landes übertragen werden.
 
+(5) Das Bundesministerium der Finanzen kann zur Effizienzsteigerung im
+Verwaltungsvollzug auf Antrag von und im Einvernehmen mit allen
+unmittelbar betroffenen Ländern durch Rechtsverordnung mit Zustimmung
+des Bundesrates jeweils Zuständigkeiten nach Absatz 2 Satz 1 eines
+Landes oder mehrerer Länder auf ein Finanzamt, ein nach § 2 Absatz 2
+eingerichtetes Rechenzentrum der Landesfinanzverwaltung oder eine
+besondere Landesfinanzbehörde (§ 2 Absatz 3) eines anderen Landes
+übertragen. Absatz 4 bleibt unberührt. Durch die Rechtsverordnung nach
+Satz 1 kann zugleich die Kostentragung geregelt werden.
+
 
 ## Abschnitt V - Zusammenwirken von Bundes- und Landesfinanzbehörden
 
 
 
-### § 18 Verwaltung der Umsatzsteuer und der Kraftfahrzeugsteuer
+### § 18 Verwaltung der Umsatzsteuer
 
 Die Hauptzollämter und ihre Dienststellen wirken bei der Verwaltung
-der Umsatzsteuer und der Kraftfahrzeugsteuer nach Maßgabe der für
-diese Steuern geltenden Vorschriften mit. Sie handeln hierbei für die
-Finanzbehörde, die für die Besteuerung jeweils örtlich zuständig ist.
+der Umsatzsteuer nach Maßgabe der für diese Steuer geltenden
+Vorschriften mit. Sie handeln hierbei für die Finanzbehörde, die für
+die Besteuerung örtlich zuständig ist.
 
 
-### § 18a Sonderregelung zur Verwaltung der Kraftfahrzeugsteuer durch Organleihe
-
-(1) Im Zeitraum vom 1. Juli 2009 bis zum 30. Juni 2014 bedient sich
-das für die Verwaltung der Kraftfahrzeugsteuer zuständige
-Bundesministerium der Finanzen bei der Verwaltung der
-Kraftfahrzeugsteuer der Landesfinanzbehörden einschließlich der
-Zulassungsbehörden, soweit diese gemäß § 12 Absatz 5 Satz 2, § 13
-Absatz 1a Satz 5 und Absatz 2 Satz 2 des Kraftfahrzeugsteuergesetzes
-als Landesfinanzbehörden tätig werden, im Wege der Organleihe. Diese
-gelten als Bundesfinanzbehörden, soweit sie die Kraftfahrzeugsteuer
-verwalten, und unterliegen insoweit der Fachaufsicht des
-Bundesministeriums der Finanzen. Die obersten Finanzbehörden der
-Länder haben den Vollzug der Anordnungen des Bundesministeriums der
-Finanzen zu gewährleisten.
-
-(2) Die Länder erhalten im Zeitraum der Organleihe zur pauschalen
-Erstattung der Verwaltungskosten vom Bund in den Jahren 2010 bis 2013
-einen Betrag von jeweils jährlich 170 Millionen Euro; für die Jahre
-2009 und 2014 ist die Hälfte dieses Betrages zu Grunde zu legen. Die
-Aufteilung auf die einzelnen Länder erfolgt entsprechend den
-Prozentsätzen nach § 2 des Gesetzes zur Regelung der finanziellen
-Kompensation zugunsten der Länder infolge der Übertragung der
-Ertragshoheit der Kraftfahrzeugsteuer auf den Bund vom 29. Mai 2009
-(BGBl. I S. 1170). Die sich danach ergebenden jeweiligen Jahresbeträge
-werden den Ländern zu jeweils einem Viertel am 15. Februar, 15. Mai,
-15\. August und 15. November überwiesen; für das Jahr 2009 werden
-jeweils die Hälfte der jeweiligen Jahresbeträge am 15. August und 15.
-November, für das Jahr 2014 am 15. Februar und 15. Mai überwiesen.
-
-(3) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates einen früheren Zeitpunkt für die Beendigung
-der Organleihe zu bestimmen.
+### § 18a (weggefallen)
 
 
 ### § 19 Mitwirkung des Bundeszentralamtes für Steuern an Außenprüfungen
@@ -924,26 +1027,102 @@ Einrichtungen für die Festsetzung und Erhebung von Steuern, die von
 den Landesfinanzbehörden verwaltet werden; zur Gewährleistung gleicher
 Programmergebnisse und eines ausgewogenen Leistungsstandes ist
 Einvernehmen mit dem Bundesministerium der Finanzen herbeizuführen.
-Das Bundesministerium der Finanzen kann zur Verbesserung oder
-Erleichterung des gleichmäßigen Vollzugs der Steuergesetze den
-bundeseinheitlichen Einsatz eines bestimmten Programms für die
-automatisierte Datenverarbeitung anweisen, wenn nicht die Mehrzahl der
-Länder dagegen Einwendungen erhebt. Im Falle einer Anweisung sind die
-Länder verpflichtet, die technischen und organisatorischen
-Einsatzvoraussetzungen dafür zu schaffen.
 
-(2) Die für die Finanzverwaltung zuständigen obersten Landesbehörden
+(2) Werden Steuern von den Landesfinanzbehörden im Auftrag des Bundes
+verwaltet, wirken die obersten Finanzbehörden des Bundes und der
+Länder zur Verbesserung oder Erleichterung des gleichmäßigen Vollzugs
+der Steuergesetze zusammen. Art, Umfang und Organisation des Einsatzes
+der automatischen Einrichtung für die Festsetzung und Erhebung der
+Steuern bedürfen des Einvernehmens des Bundesministeriums der
+Finanzen. Wird dieses nicht erzielt, kann das Bundesministerium der
+Finanzen Vorgaben hierzu erlassen, wenn nicht mindestens elf Länder
+widersprechen. Im Falle von Vorgaben sind die Länder verpflichtet, die
+für die Umsetzung erforderlichen Voraussetzungen zu schaffen.
+
+(3) Die für die Finanzverwaltung zuständigen obersten Landesbehörden
 können technische Hilfstätigkeiten durch automatische Einrichtungen
 der Finanzbehörden des Bundes, eines anderen Landes oder anderer
 Verwaltungsträger verrichten lassen. Das Bundesministerium der
 Finanzen kann technische Hilfstätigkeiten durch automatische
 Einrichtungen der Finanzbehörden eines Landes oder anderer
-Verwaltungsträger verrichten lassen. In diesen Fällen ist
-sicherzustellen, dass die technischen Hilfstätigkeiten entsprechend
-den fachlichen Weisungen der für die Finanzverwaltung zuständigen
-obersten Behörde oder der von ihr bestimmten Finanzbehörde der
-Gebietskörperschaft verrichtet werden, die die Aufgabenwahrnehmung
-übertragen hat.
+Verwaltungsträger verrichten lassen. Technische Hilfstätigkeiten sind
+unterstützende Dienstleistungen, insbesondere die Entgegennahme
+elektronischer Steuererklärungen einschließlich der Authentifizierung
+des Datenübermittlers, die Bereitstellung des Zugangs zum Abruf von
+Steuerdaten durch die Steuerpflichtigen, die elektronische
+Übermittlung von Steuerverwaltungsakten und anderer Mitteilungen und
+die elektronische Übermittlung von Daten innerhalb der
+Finanzverwaltung. Die technischen Hilfstätigkeiten der beauftragten
+Stelle oder Einrichtung sind der sachlich und örtlich zuständigen
+Finanzbehörde zuzurechnen. In diesen Fällen ist sicherzustellen, dass
+die technischen Hilfstätigkeiten entsprechend den fachlichen Weisungen
+der für die Finanzverwaltung zuständigen obersten Behörde oder der von
+ihr bestimmten Finanzbehörde der Gebietskörperschaft verrichtet
+werden, die die Aufgabenwahrnehmung übertragen hat.
+
+(4) Das Bundesministerium der Finanzen erstattet dem Haushalts- und
+dem Finanzausschuss des Deutschen Bundestages jährlich zum 1. März
+Bericht über den aktuellen Stand und die Fortschritte des
+Zusammenwirkens von Bund und Ländern nach Absatz 2.
+
+
+### § 20a Druckdienstleistungen für Bundesfinanzbehörden
+
+(1) Das Bundesministerium der Finanzen darf sich zum Drucken und
+Kuvertieren von schriftlichen Verwaltungsakten im Sinne des § 118 der
+Abgabenordnung und sonstigen Schreiben im Verwaltungsverfahren nach
+der Abgabenordnung der Bundesfinanzbehörden und zu deren
+anschließenden verschlossenen Übergabe an einen Postdienstleister
+(Druckdienstleistung) nur dann einer nicht öffentlichen Stelle als
+Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
+2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden
+Fassung im Rahmen eines Vertrages bedienen, wenn
+
+1.  die Druckdienstleistung insoweit weder von der Bundesverwaltung noch
+    durch automatische Einrichtungen der Behörden eines Landes oder eines
+    anderen Verwaltungsträgers in wirtschaftlich vertretbarer Weise
+    geleistet werden kann,
+
+
+2.  geschützte Daten im Sinne des § 30 der Abgabenordnung ausschließlich
+    durch Amtsträger oder nach § 11 Absatz 1 Nummer 4 des Strafgesetzbuchs
+    für den öffentlichen Dienst besonders verpflichtete Personen
+    verarbeitet werden,
+
+
+3.  die zur Erbringung der Druckdienstleistung überlassenen Daten sowie
+    die Protokolldaten nicht für andere Zwecke verarbeitet werden,
+
+
+4.  die Druckdienstleistung im Inland stattfindet,
+
+
+5.  der Auftragsverarbeiter im Rahmen der Artikel 25 und 32 der Verordnung
+    (EU) 2016/679 ein vom Bundesministerium der Finanzen freizugebendes
+    IT-Sicherheitskonzept nach dem Standard des aktuellen IT-
+    Grundschutzkatalogs des Bundesamtes für Sicherheit in der
+    Informationstechnik erstellt hat,
+
+
+6.  der Auftragsverarbeiter die überlassenen Daten entsprechend der
+    vertraglich festgelegten Frist nach Abschluss der Druckdienstleistung
+    löscht und
+
+
+7.  das Ergebnis der Druckdienstleistung vom Auftragsverarbeiter
+    protokolliert und diese Protokolldaten entsprechend der vertraglich
+    festgelegten Frist an die vom Auftraggeber benannte Stelle übermittelt
+    werden.
+
+
+
+
+(2) Absatz 1 gilt entsprechend, wenn der Auftragsverarbeiter sich
+eines weiteren Auftragsverarbeiters bedienen will.
 
 
 ### § 21 Auskunfts- und Teilnahmerechte
@@ -978,18 +1157,29 @@ Verfügung.
 
 (5) Das Bundeszentralamt für Steuern, die Deutsche Rentenversicherung
 Knappschaft-Bahn-See als Träger der knappschaftlichen
-Rentenversicherung/Verwaltungsstelle Cottbus, soweit sie den Einzug
-der einheitlichen Pauschalsteuer nach § 40a Abs. 2 des
-Einkommensteuergesetzes durchführt, und die Landesfinanzbehörden
-stellen sich gegenseitig die für die Durchführung des § 40a Abs. 6 des
-Einkommensteuergesetzes erforderlichen Daten und Auskünfte zur
-Verfügung.
+Rentenversicherung, soweit sie den Einzug der einheitlichen
+Pauschalsteuer nach § 40a Abs. 2 des Einkommensteuergesetzes
+durchführt, und die Landesfinanzbehörden stellen sich gegenseitig die
+für die Durchführung des § 40a Abs. 6 des Einkommensteuergesetzes
+erforderlichen Daten und Auskünfte zur Verfügung.
 
 (6) Soweit die dem Bund ganz oder zum Teil zufließenden Steuern von
 Landesfinanzbehörden verwaltet werden, stellen die Länder den
-Bundesfinanzbehörden anonymisierte Daten des Steuervollzugs zur
-eigenständigen Auswertung insbesondere für Zwecke der
-Gesetzesfolgenabschätzung zur Verfügung.
+Bundesfinanzbehörden Daten des Steuervollzugs zur eigenständigen
+Auswertung, insbesondere für Zwecke der Gesetzesfolgenabschätzung, zur
+Verfügung. Dies gilt unter den Voraussetzungen des § 29c Absatz 1 Satz
+1 Nummer 5 der Abgabenordnung auch für nach § 30 der Abgabenordnung
+geschützte Daten.
+
+(7) Zur Durchführung der Verpflichtungen des Bundeszentralamtes für
+Steuern nach § 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes stellen die
+zuständigen Landesfinanzbehörden dem Bundeszentralamt für Steuern die
+erforderlichen Informationen nach Maßgabe der in § 7 Absatz 7 Satz 2
+des EU-Amtshilfegesetzes angeführten praktischen Regelungen der
+Europäischen Kommission zur Verfügung. Hierzu nutzen die
+Landesfinanzbehörden das Zentralverzeichnis der Mitgliedstaaten der
+Europäischen Kommission gemäß Artikel 21 Absatz 5 der Richtlinie
+2011/16/EU ab dem Zeitpunkt seiner Bereitstellung.
 
 
 ### § 21a Allgemeine Verfahrensgrundsätze
@@ -1000,10 +1190,10 @@ bestimmt das Bundesministerium der Finanzen mit Zustimmung der
 obersten Finanzbehörden der Länder einheitliche Verwaltungsgrundsätze,
 Regelungen zur Zusammenarbeit des Bundes mit den Ländern und erteilt
 allgemeine fachliche Weisungen. Die Zustimmung gilt als erteilt, wenn
-eine Mehrheit der Länder nicht widerspricht. Initiativen zur
-Festlegung der Angelegenheiten des Satzes 1 kann das Bundesministerium
-der Finanzen allein oder auf gemeinsame Veranlassung von mindestens
-vier Ländern ergreifen.
+nicht mindestens elf Länder widersprechen. Initiativen zur Festlegung
+der Angelegenheiten des Satzes 1 kann das Bundesministerium der
+Finanzen allein oder auf gemeinsame Veranlassung von mindestens vier
+Ländern ergreifen.
 
 (2) Die oberste Finanzbehörde jedes Landes vereinbart mit dem
 Bundesministerium der Finanzen bilateral Vollzugsziele für die
@@ -1026,11 +1216,7 @@ des Bundes und der Länder verbindlich.
 
 
 
-### Unterabschnitt I - Dienstrechtliche Regelungen
-
-
-
-#### § 22 Dienstrechtliche Folgen und Regelung der Versorgungslasten
+### § 22 Dienstrechtliche Folgen und Regelung der Versorgungslasten
 
 (1) Für die am 31. Dezember 2007 vorhandenen Oberfinanzpräsidenten und
 Oberfinanzpräsidentinnen der Oberfinanzdirektionen Chemnitz, Hannover,
@@ -1059,243 +1245,96 @@ genannte Oberfinanzdirektion untersteht, die vollen Versorgungslasten.
 
 gilt Absatz 1 Satz 2 entsprechend.
 
+Übergangsregelung
 
-### Unterabschnitt II - Überleitung von Beschäftigten und Übergangsregelungen
-
-
-
-#### § 23 Überleitung von Verwaltungsangehörigen des Bundes bei den Oberfinanzdirektionen
-
-(1) Aufgrund der mit Inkrafttreten des Zweiten Gesetzes zur Änderung
-des Finanzverwaltungsgesetzes und anderer Gesetze vom 13. Dezember
-2007 vollzogenen Auflösung der Bundesabteilungen bei den
-Oberfinanzdirektionen Chemnitz, Cottbus, Hannover, Hamburg, Karlsruhe,
-Koblenz, Köln und Nürnberg sind die Beamtinnen und Beamten sowie die
-Arbeitnehmerinnen und Arbeitnehmer bei diesen Oberfinanzdirektionen,
-die zum 31. Dezember 2007 mit der Wahrnehmung von Bundesaufgaben nach
-§ 8 Abs. 1 betraut sind, mit Wirkung vom 1. Januar 2008 unmittelbare
-Beschäftigte des Bundes bei den Bundesfinanzdirektionen, und zwar
-
-1.  die Beschäftigten des Bundes bei der Oberfinanzdirektion Hamburg bei
-    der Bundesfinanzdirektion Nord,
-
-
-2.  die Beschäftigten des Bundes bei den Oberfinanzdirektionen Chemnitz,
-    Cottbus und Hannover bei der Bundesfinanzdirektion Mitte,
-
-
-3.  die Beschäftigten des Bundes bei der Oberfinanzdirektion Köln bei der
-    Bundesfinanzdirektion West,
-
-
-4.  die Beschäftigten des Bundes bei den Oberfinanzdirektionen Karlsruhe
-    und Koblenz bei der Bundesfinanzdirektion Südwest und
-
-
-5.  die Beschäftigten des Bundes bei der Oberfinanzdirektion Nürnberg bei
-    der Bundesfinanzdirektion Südost.
-
-
-
-Satz 1 gilt für die Auszubildenden des Bundes bei den
-Oberfinanzdirektionen entsprechend. § 22 Abs. 1 Satz 1 bleibt
-unberührt.
-
-(2) Die ersten Amtsinhaber oder Amtsinhaberinnen im Sinne des Artikels
-2 Nr. 2 Buchstabe e Doppelbuchstabe dd des Gesetzes vom 13. Dezember
-2007 (BGBl. I S. 2897) erhalten nach einer Überleitung nach Absatz 1
-Satz 1 ihre Bezüge weiterhin aus der Besoldungsgruppe B 7, sofern sie
-am 31. Dezember 2007 ein entsprechendes Amt innehatten.
-
-
-#### § 24 Übergangsregelung Personalvertretung
-
-(1) Spätestens bis zum 31. Mai 2008 finden bei den neu eingerichteten
-Bundesfinanzdirektionen die Wahlen zu den Personalvertretungen statt.
-Bis zur Neuwahl werden die Personalratsaufgaben durch
-Übergangspersonalräte bei den Bundesfinanzdirektionen wahrgenommen.
-Die bisherigen Vorsitzenden der Personalräte oder der
-Stufenvertretungen bei den Oberfinanzdirektionen Chemnitz, Cottbus,
-Hannover, Hamburg, Karlsruhe, Koblenz, Köln und Nürnberg berufen die
-Mitglieder unter Übersendung der Tagesordnung zur ersten Sitzung ein
-und leiten diese. Die Übergangspersonalräte bestellen aus ihrer Mitte
-unverzüglich eine Wahlleiterin oder einen Wahlleiter für die Wahl des
-Vorstands sowie einen Wahlvorstand für die erstmaligen Wahlen nach
-Satz 1.
-
-(2) Die Übergangspersonalräte für den Aufgabenbereich der örtlichen
-Personalräte der Bundesfinanzdirektionen setzen sich wie folgt
-zusammen:
-
-1.  für die Bundesfinanzdirektion Nord aus den bisherigen Mitgliedern des
-    örtlichen Personalrats der Oberfinanzdirektion Hamburg,
-
-
-2.  für die Bundesfinanzdirektion Mitte aus den bisherigen Mitgliedern der
-    örtlichen Personalräte der Oberfinanzdirektion Cottbus sowie der Zoll-
-    und Verbrauchsteuerabteilungen der Oberfinanzdirektionen Hannover und
-    Chemnitz,
-
-
-3.  für die Bundesfinanzdirektion West aus den bisherigen Mitgliedern des
-    örtlichen Personalrats der Oberfinanzdirektion Köln,
-
-
-4.  für die Bundesfinanzdirektion Südwest aus den bisherigen Mitgliedern
-    der örtlichen Personalräte der Zoll- und Verbrauchsteuerabteilungen
-    der Oberfinanzdirektionen Karlsruhe und Koblenz,
-
-
-5.  für die Bundesfinanzdirektion Südost aus den bisherigen Mitgliedern
-    des örtlichen Personalrats der Oberfinanzdirektion Nürnberg.
-
-
-
-
-(3) Die Übergangspersonalräte für den Aufgabenbereich der
-Bezirkspersonalräte (Bund) setzen sich wie folgt zusammen:
-
-1.  für die Bundesfinanzdirektion Nord aus den bisherigen Mitgliedern des
-    Bezirkspersonalrats der Oberfinanzdirektion Hamburg,
-
-
-2.  für die Bundesfinanzdirektion Mitte aus den bisherigen Mitgliedern der
-    Bezirkspersonalräte der Oberfinanzdirektion Cottbus sowie der Zoll-
-    und Verbrauchsteuerabteilungen der Oberfinanzdirektionen Hannover und
-    Chemnitz,
-
-
-3.  für die Bundesfinanzdirektion West aus den bisherigen Mitgliedern des
-    Bezirkspersonalrats der Oberfinanzdirektion Köln,
-
-
-4.  für die Bundesfinanzdirektion Südwest aus den bisherigen Mitgliedern
-    der Bezirkspersonalräte der Zoll- und Verbrauchsteuerabteilungen der
-    Oberfinanzdirektionen Karlsruhe und Koblenz,
-
-
-5.  für die Bundesfinanzdirektion Südost aus den bisherigen Mitgliedern
-    des Bezirkspersonalrats der Oberfinanzdirektion Nürnberg.
-
-
-
-Soweit Belange von Hauptzollämtern berührt sind, deren örtliche
-Personalräte nach Satz 1 dem Übergangspersonalrat einer anderen
-Bundesfinanzdirektion zugeordnet sind als derjenigen, der sie nach
-Neuzuschnitt der Bezirke der Bundesfinanzdirektionen an sich angehören
-würden, ist ein Vertreter oder eine Vertreterin der betroffenen
-örtlichen Personalräte Mitglied der in ihrem Bezirk zuständigen
-Übergangspersonalräte.
-
-(4) Die am 31. Dezember 2007 bestehenden Dienstvereinbarungen gelten
-bis zu einer Neuregelung fort, längstens aber für die Dauer von 18
-Monaten.
-
-
-#### § 25 Übergangsregelung Schwerbehindertenvertretung
-
-(1) Die erstmaligen Wahlen zur Schwerbehindertenvertretung nach dem
-Neunten Buch Sozialgesetzbuch finden in den neu errichteten
-Bundesfinanzdirektionen spätestens bis zum 30. Juni 2008 statt. Bis
-die Schwerbehindertenvertretungen ihre Tätigkeit aufnehmen, werden
-ihre Aufgaben von Übergangsschwerbehindertenvertretungen wahrgenommen.
-Die Vertrauenspersonen der jeweiligen
-Übergangsschwerbehindertenvertretung bestellen unverzüglich den
-Wahlvorstand für die erstmaligen Wahlen nach Satz 1.
-
-(2) Die Übergangsschwerbehindertenvertretungen für den Aufgabenbereich
-der Schwerbehindertenvertretungen der Bundesfinanzdirektionen setzen
-sich wie folgt zusammen:
-
-1.  für die Bundesfinanzdirektion Nord aus der bisherigen Vertrauensperson
-    und deren stellvertretenden Mitgliedern der Oberfinanzdirektion
-    Hamburg,
-
-
-2.  für die Bundesfinanzdirektion Mitte aus den bisherigen
-    Vertrauenspersonen und deren stellvertretenden Mitgliedern der
-    Oberfinanzdirektion Cottbus sowie der Zoll- und
-    Verbrauchsteuerabteilungen der Oberfinanzdirektionen Hannover und
-    Chemnitz,
-
-
-3.  für die Bundesfinanzdirektion West aus der bisherigen Vertrauensperson
-    und deren stellvertretenden Mitgliedern der Oberfinanzdirektion Köln,
-
-
-4.  für die Bundesfinanzdirektion Südwest aus den bisherigen
-    Vertrauenspersonen und deren stellvertretenden Mitgliedern der Zoll-
-    und Verbrauchsteuerabteilungen der Oberfinanzdirektionen Karlsruhe und
-    Koblenz,
-
-
-5.  für die Bundesfinanzdirektion Südost aus der bisherigen
-    Vertrauensperson und deren stellvertretenden Mitgliedern der
-    Oberfinanzdirektion Nürnberg.
-
-
-
-
-(3) Die Übergangsschwerbehindertenvertretungen für den Aufgabenbereich
-der Bezirksschwerbehindertenvertretung setzen sich wie folgt zusammen:
-
-1.  für die Bundesfinanzdirektion Nord aus den bisherigen Mitgliedern der
-    Bezirksschwerbehindertenvertretung der Oberfinanzdirektion Hamburg,
-
-
-2.  für die Bundesfinanzdirektion Mitte aus den bisherigen Mitgliedern der
-    Bezirksschwerbehindertenvertretungen der Oberfinanzdirektion Cottbus
-    sowie der Zoll- und Verbrauchsteuerabteilungen der
-    Oberfinanzdirektionen Hannover und Chemnitz,
-
-
-3.  für die Bundesfinanzdirektion West aus den bisherigen Mitgliedern der
-    Bezirksschwerbehindertenvertretung der Oberfinanzdirektion Köln,
-
-
-4.  für die Bundesfinanzdirektion Südwest aus den bisherigen Mitgliedern
-    der Bezirksschwerbehindertenvertretungen der Zoll- und
-    Verbrauchsteuerabteilungen der Oberfinanzdirektionen Karlsruhe und
-    Koblenz,
-
-
-5.  für die Bundesfinanzdirektion Südost aus den bisherigen Mitgliedern
-    der Bezirksschwerbehindertenvertretung der Oberfinanzdirektion
-    Nürnberg.
-
-
-
-Soweit Belange von Hauptzollämtern berührt sind, deren örtliche
-Schwerbehindertenvertretung nach Satz 1 der
-Übergangsschwerbehindertenvertretung einer anderen
-Bundesfinanzdirektion zugeordnet ist als derjenigen, der sie nach
-Neuzuschnitt der Bezirke der Bundesfinanzdirektionen an sich angehören
-würden, ist ein Vertreter oder eine Vertreterin der betroffenen
-örtlichen Schwerbehindertenvertretung Mitglied der in ihrem Bezirk
-zuständigen Übergangsschwerbehindertenvertretung.
-
-(4) Die Aufgaben der Vertrauensperson der
-Übergangsschwerbehindertenvertretungen werden von den
-Vertrauenspersonen der bisherigen Schwerbehindertenvertretungen
-wahrgenommen. Kommen mehrere Vertrauenspersonen in Betracht, so nehmen
-sie diese Funktion gemeinsam wahr.
-
-
-#### § 26 Übergangsregelung Gleichstellungsbeauftragte
-
-(1) Die Wahl der Gleichstellungsbeauftragten erfolgt spätestens bis
-zum 31. Mai 2008.
-
-(2) Die bisherigen Gleichstellungsbeauftragten der Zoll- und
-Verbrauchsteuerabteilungen der Oberfinanzdirektionen nehmen bis zur
-Neuwahl das Übergangsmandat bei den Bundesfinanzdirektionen wahr, zu
-denen sie nach § 23 Abs. 1 übergeleitet wurden. Kommen danach mehrere
-Gleichstellungsbeauftragte für eine Bundesfinanzdirektion in Betracht,
-so nehmen diese das Übergangsmandat gemeinsam wahr.
-
-
-#### § 27 Übergangsregelung Kosten der Oberfinanzdirektion
+### § 23 Kosten der Oberfinanzdirektion
 
 Die Kosten der Oberfinanzdirektion werden vom Bund getragen, soweit
 sie auf den Bund entfallen.
+
+
+## Abschnitt VII - Überleitungs- und Übergangsregelungen aus Anlass des Gesetzes zur Neuorganisation der Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178)
+
+
+
+### § 24 Überleitung der Beschäftigten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung
+
+Auf Grund der mit Inkrafttreten des Gesetzes zur Neuorganisation der
+Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178) vollzogenen
+Überführung der Bundesfinanzdirektionen Nord, Mitte, West, Südwest und
+Südost, des Zollkriminalamtes und des Bildungs- und
+Wissenschaftszentrums der Bundesfinanzverwaltung in die
+Generalzolldirektion sind die Beamtinnen und Beamten sowie die
+Arbeitnehmerinnen und Arbeitnehmer, die bei diesen
+Bundesfinanzdirektionen, dem Zollkriminalamt oder dem Bildungs- und
+Wissenschaftszentrum der Bundesfinanzverwaltung am 31. Dezember 2015
+beschäftigt waren, ab dem 1. Januar 2016 Beschäftigte der
+Generalzolldirektion. Satz 1 gilt für die Auszubildenden bei den zuvor
+genannten Behörden entsprechend.
+
+
+### § 25 Übergangsregelung Personalvertretung, Jugend- und Auszubildendenvertretung
+
+(1) Die erstmaligen Wahlen zu den Personalvertretungen finden bei der
+Generalzolldirektion spätestens bis zum 31. Mai 2016 statt. Bis zu
+diesen Wahlen werden die Personalratsaufgaben des örtlichen
+Personalrats und des Bezirkspersonalrats übergangsweise vom
+Hauptpersonalrat beim Bundesministerium der Finanzen wahrgenommen.
+
+(2) Die am 31. Dezember 2015 bestehenden Dienstvereinbarungen zwischen
+den aufgelösten Dienststellen und den dort gebildeten
+Personalvertretungen gelten bis zum Abschluss neuer
+Dienstvereinbarungen fort, längstens aber für die Dauer von 18
+Monaten.
+
+(3) Für die Jugend- und Auszubildendenvertretungen bei der
+Generalzolldirektion gelten die Absätze 1 und 2 entsprechend. Bis zu
+den erstmaligen Wahlen werden die Aufgaben der örtlichen Jugend- und
+Auszubildendenvertretung und der Bezirksjugend- und
+Auszubildendenvertretung übergangsweise von der Hauptjugend- und
+Auszubildendenvertretung beim Bundesministerium der Finanzen
+wahrgenommen.
+
+
+### § 26 Übergangsregelung Schwerbehindertenvertretung
+
+(1) Die erstmaligen Wahlen zur örtlichen Schwerbehindertenvertretung
+nach dem Neunten Buch Sozialgesetzbuch finden in der
+Generalzolldirektion spätestens bis zum 30. Juni 2016 statt. Bis die
+Schwerbehindertenvertretung ihre Tätigkeit aufnimmt, werden deren
+Aufgaben übergangsweise von der Hauptschwerbehindertenvertretung im
+Geschäftsbereich des Bundesministeriums der Finanzen wahrgenommen. Die
+Hauptvertrauensperson der schwerbehinderten Menschen in der
+Bundesfinanzverwaltung bestellt unter Beachtung der gesetzlichen
+Bestimmungen unverzüglich den Wahlvorstand für die erstmaligen Wahlen
+nach Satz 1.
+
+(2) Die erstmalige Wahl zur Bezirksschwerbehindertenvertretung nach
+dem Neunten Buch Sozialgesetzbuch findet in der Generalzolldirektion
+zeitnah nach den Wahlen zur örtlichen Schwerbehindertenvertretung,
+spätestens bis zum 30. September 2016 statt. Bis die
+Bezirksschwerbehindertenvertretung ihre Tätigkeit aufnimmt, werden
+deren Aufgaben übergangsweise von der Hauptschwerbehindertenvertretung
+im Geschäftsbereich des Bundesministeriums der Finanzen wahrgenommen.
+Die Hauptvertrauensperson der schwerbehinderten Menschen in der
+Bundesfinanzverwaltung bestellt unverzüglich den Wahlvorstand für die
+erstmalige Wahl nach Satz 1.
+
+
+### § 27 Übergangsregelung Gleichstellungsbeauftragte
+
+(1) Die erstmalige Wahl der Gleichstellungsbeauftragten der
+Generalzolldirektion sowie der Stellvertreterinnen findet spätestens
+bis zum 31. März 2016 statt.
+
+(2) Bis zur erstmaligen Wahl führen die bisherigen
+Gleichstellungsbeauftragten der Bundesfinanzdirektionen, des
+Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der
+Bundesfinanzverwaltung sowie die Stellvertreterinnen ihr Amt bei der
+Generalzolldirektion fort. Bis zur erstmaligen Wahl bleiben sie für
+die Beschäftigten derjenigen Dienststellen zuständig, für die sie vor
+der Einrichtung der Generalzolldirektion zuständig waren. Sofern
+Entscheidungen getroffen und Maßnahmen durchgeführt werden, die die
+gesamte Generalzolldirektion betreffen, sind bis zur erstmaligen Wahl
+alle bisherigen Gleichstellungsbeauftragten zu beteiligen.
 

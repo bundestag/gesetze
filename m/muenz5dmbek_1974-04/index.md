@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Deutschland am 23. Mai 1949)
 jurabk: Münz5DMBek 1974-04
 layout: default
-origslug: m_nz5dmbek_1974-04
+origslug: muenz5dmbek_1974-04
 slug: muenz5dmbek_1974-04
 
 ---

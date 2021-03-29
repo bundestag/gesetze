@@ -10,16 +10,15 @@ slug: begdv_2
 # Zweite Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 2)
 
 Ausfertigungsdatum
-:   1954-12-24
+:   1966-03-31
 
 Fundstelle
-:   BGBl I: 1954, 510
+:   BGBl I: 1966, 285
 
-Neugefasst durch
-:   Art. I V v. 31.3.1966 I 285;
-
+Stand: Konstitutive Neufassung gem. Art. I V v. 31.3.1966, in Kraft getreten am 4.5.1966
+Stand: Ersetzt V v. 24.12.1954 I 510
 Zuletzt geändert durch
-:   Art. 2 V v. 28.3.2011 I 521
+:   Art. 2 V v. 27.4.2017 I 980
 
 
 ## I. - Besondere Anspruchsvoraussetzungen
@@ -453,13 +452,31 @@ berücksichtigt, als sie den Betrag
 *    *   ab 1. Juni 2008
 
     *
-    *   von 520 Euro und
+    *   von 520 Euro,
 
 
 *    *   ab 1. Juli 2010
 
     *
-    *   von 530 Euro
+    *   von 530 Euro,
+
+
+*    *   ab 1. Oktober 2012
+
+    *
+    *   von 560 Euro,
+
+
+*    *   ab 1. August 2014
+
+    *
+    *   von 590 Euro und
+
+
+*    *   ab 1. September 2016
+
+    *
+    *   von 620 Euro
 
 
 
@@ -599,12 +616,27 @@ sonstige unterhaltsberechtigte Person ein
 
 *    *   ab 1. Juni 2008 von mindestens
 
-    *   540 Euro und
+    *   540 Euro,
 
 
 *    *   ab 1. Juli 2010 von mindestens
 
-    *   550 Euro
+    *   550 Euro,
+
+
+*    *   ab 1. Oktober 2012 von mindestens
+
+    *   580 Euro,
+
+
+*    *   ab 1. August 2014 von mindestens
+
+    *   610 Euro und
+
+
+*    *   ab 1. September 2016 von mindestens
+
+    *   640 Euro
 
 
 
@@ -747,6 +779,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   vom 1.4.1969 bis 31.8.1969 DM
 
     *
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -758,6 +791,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   173
 
+    *
     *
 
 *    *   von 40 bis 49 v.H.
@@ -771,6 +805,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   217
 
     *
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -782,6 +817,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   260
 
+    *
     *
 
 *    *   von 60 bis 69 v.H.
@@ -795,6 +831,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   302
 
     *
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -806,6 +843,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   345
 
+    *
     *
 
 *    *   von 80 und mehr v.H.
@@ -819,8 +857,10 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   431
 
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -838,6 +878,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   vom 1.1.1974 bis 31.12.1974 DM
 
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -851,6 +892,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   277
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -864,6 +906,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   347
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -877,6 +920,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   417
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -890,6 +934,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   483
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -903,6 +948,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   553
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -916,8 +962,10 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   690
 
+    *
 
 *    *
+    *
     *
     *
     *
@@ -934,6 +982,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   vom 1.3.1978 bis 28.2.1979 DM
 
     *
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -945,6 +994,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   379
 
+    *
     *
 
 *    *   von 40 bis 49 v.H.
@@ -958,6 +1008,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   474
 
     *
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -969,6 +1020,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   569
 
+    *
     *
 
 *    *   von 60 bis 69 v.H.
@@ -982,6 +1034,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   660
 
     *
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -993,6 +1046,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   755
 
+    *
     *
 
 *    *   von 80 und mehr v.H.
@@ -1006,8 +1060,10 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   941
 
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1024,6 +1080,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   vom 1.7.1982 bis 30.6.1983 DM
 
     *
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1035,6 +1092,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   472
 
+    *
     *
 
 *    *   von 40 bis 49 v.H.
@@ -1048,6 +1106,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   590
 
     *
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1059,6 +1118,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   707
 
+    *
     *
 
 *    *   von 60 bis 69 v.H.
@@ -1072,6 +1132,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   823
 
     *
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1083,6 +1144,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   939
 
+    *
     *
 
 *    *   von 80 und mehr v.H.
@@ -1096,8 +1158,10 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   1 171
 
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1114,6 +1178,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   vom 1.1.1987 bis 29.2.1988 DM
 
     *
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1125,6 +1190,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   535
 
+    *
     *
 
 *    *   von 40 bis 49 v.H.
@@ -1138,6 +1204,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   667
 
     *
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1149,6 +1216,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   799
 
+    *
     *
 
 *    *   von 60 bis 69 v.H.
@@ -1162,6 +1230,7 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   932
 
     *
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1173,6 +1242,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 061
 
+    *
     *
 
 *    *   von 80 und mehr v.H.
@@ -1186,8 +1256,10 @@ Beeinträchtigung der Erwerbsfähigkeit
     *   1 324
 
     *
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1205,6 +1277,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   vom 1.5.1992 bis 30.4.1993 DM
 
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1218,6 +1291,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   672
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1231,6 +1305,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   838
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1244,6 +1319,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 002
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1257,6 +1333,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 167
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1270,6 +1347,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 332
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1283,8 +1361,10 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 660
 
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1302,6 +1382,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   vom 1.1.1998 bis 28.2.1999 DM
 
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1315,6 +1396,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   739
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1328,6 +1410,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   921
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1341,6 +1424,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 100
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1354,6 +1438,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 283
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1367,6 +1452,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 463
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1380,16 +1466,18 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 824
 
-
-*    *
-    *
-    *
-    *
-    *
     *
 
 *    *
-    *   vom 1.3.1999 bis 21.12.2000 DM
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom 1.3.1999 bis 31.12.2000 DM
 
     *   vom 1.1.2001 bis 31.12.2001 DM
 
@@ -1399,6 +1487,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   vom 1.4.2004 bis 31.7.2004 Euro
 
+    *
 
 *    *   von 25 bis 39 v.H.
 
@@ -1412,6 +1501,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   418
 
+    *
 
 *    *   von 40 bis 49 v.H.
 
@@ -1425,6 +1515,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   521
 
+    *
 
 *    *   von 50 bis 59 v.H.
 
@@ -1438,6 +1529,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   622
 
+    *
 
 *    *   von 60 bis 69 v.H.
 
@@ -1451,6 +1543,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   726
 
+    *
 
 *    *   von 70 bis 79 v.H.
 
@@ -1464,6 +1557,7 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   828
 
+    *
 
 *    *   von 80 und mehr v.H.
 
@@ -1477,8 +1571,10 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 033
 
+    *
 
 *    *
+    *
     *
     *
     *
@@ -1493,12 +1589,28 @@ Beeinträchtigung der Erwerbsfähigkeit
         bis 30.6.2010
         €
 
-    *   ab
+    *   vom
         1\.7.2010
+        bis
+        30\.9.2012
         €
 
-    *
-    *
+    *   vom
+        1\.10.2012
+        bis
+        31\.7.2014
+        €
+
+    *   vom
+        1\.8.2014
+        bis
+        31\.8.2016
+        €
+
+    *   ab
+        1\.9.2016
+        €
+
 
 *    *   von 25 bis 39 v.H.
 
@@ -1508,8 +1620,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   465
 
-    *
-    *
+    *   492
+
+    *   517
+
+    *   541
+
 
 *    *   von 40 bis 49 v.H.
 
@@ -1519,8 +1635,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   579
 
-    *
-    *
+    *   612
+
+    *   643
+
+    *   673
+
 
 *    *   von 50 bis 59 v.H.
 
@@ -1530,8 +1650,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   691
 
-    *
-    *
+    *   730
+
+    *   767
+
+    *   802
+
 
 *    *   von 60 bis 69 v.H.
 
@@ -1541,8 +1665,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   807
 
-    *
-    *
+    *   853
+
+    *   896
+
+    *   937
+
 
 *    *   von 70 bis 79 v.H.
 
@@ -1552,8 +1680,12 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   920
 
-    *
-    *
+    *   972
+
+    *   1 021
+
+    *   1 068
+
 
 *    *   von 80 und mehr v.H.
 
@@ -1563,15 +1695,20 @@ Beeinträchtigung der Erwerbsfähigkeit
 
     *   1 148
 
-    *
-    *
+    *   1 213
+
+    *   1 274
+
+    *   1 333
 
 
 
 
-#### § 21b Erhöhung der monatlichen Mindestbeträge der Rente (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
+Erhöhung der monatlichen Mindestbeträge der Rente
 
-   (Fundstelle: BGBl. I 1983, 1318;
+#### § 21b (§ 32 Abs. 2 des Bundesentschädigungsgesetzes)
+
+(Fundstelle: BGBl. I 1983, 1318;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Der monatliche Mindestbetrag der Rente beträgt
@@ -1855,12 +1992,28 @@ Der monatliche Mindestbetrag der Rente beträgt
         30\.6.2010
         €
 
-    *   ab 1.7.2010
+    *   vom
+        1\.7.2010
+        bis
+        30\.9.2012
         €
 
-    *
-    *
-    *
+    *   vom
+        1\.10.2012
+        bis
+        31\.7.2014
+        €
+
+    *   vom
+        1\.8.2014
+        bis
+        31\.8.2016
+        €
+
+    *   ab
+        1\.9.2016
+        €
+
 
 *    *   974
 
@@ -1868,9 +2021,12 @@ Der monatliche Mindestbetrag der Rente beträgt
 
     *   1 072
 
-    *
-    *
-    *
+    *   1 133
+
+    *   1 190
+
+    *   1 245
+
 
 
 
@@ -1881,7 +2037,7 @@ Der monatliche Mindestbetrag der Rente beträgt
 
 #### § 22 Berechnung der Kapitalentschädigung
 
-   (1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
+(1) Die Kapitalentschädigung wird in der Weise berechnet, daß für
 jeden vollen Monat, der vom Zeitpunkt der Beeinträchtigung der
 Erwerbsfähigkeit um mindestens 25 vom Hundert bis zum 31. Oktober 1953
 oder bis zu dem sich aus Absatz 2 ergebenden früheren Zeitpunkt
@@ -1920,7 +2076,9 @@ Ansprüche nach § 41 BEG voll angerechnet werden.
 
 #### § 23b Beihilfe nach § 41a BEG
 
-(1) In den Fällen des § 41a BEG finden die §§ 23 und 23a entsprechende
+(1) In den Fällen des § 41a des Bundesentschädigungsgesetzes wird die
+festgesetzte Minderung der Erwerbsfähigkeit nur auf Antrag des
+Hinterbliebenen überprüft; die §§ 23 und 23a finden entsprechende
 Anwendung.
 
 (2) Anspruch auf Beihilfe nach § 41a BEG besteht auch dann, wenn vor
@@ -2044,11 +2202,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   1.
 
     *   Diensteinkommen jährlich Einfacher Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -2065,6 +2229,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2 700
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -2076,6 +2243,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 132
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -2087,6 +2257,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 564
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -2098,6 +2271,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 888
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -2109,6 +2285,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 680
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -2120,6 +2299,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 008
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -2131,6 +2313,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 409
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -2142,6 +2327,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 734
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -2153,6 +2341,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 784
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -2164,6 +2355,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 247
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -2175,6 +2369,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 254
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -2186,6 +2383,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 544
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -2197,6 +2397,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 846
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -2208,6 +2411,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 160
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -2219,6 +2425,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 732
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1970
 
@@ -2230,6 +2439,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 920
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -2241,6 +2453,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 156
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1972
 
@@ -2252,6 +2467,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 224
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -2263,6 +2481,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14 604
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1974
 
@@ -2274,6 +2495,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 620
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -2285,6 +2509,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 616
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1977
 
@@ -2296,6 +2523,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18 588
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -2307,6 +2537,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 548
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1979
 
@@ -2318,6 +2551,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20 400
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -2329,6 +2565,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 204
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1981
 
@@ -2340,6 +2579,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 500
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -2351,6 +2593,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 532
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1983
 
@@ -2362,6 +2607,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 324
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -2373,6 +2621,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 756
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1985
 
@@ -2384,6 +2635,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 776
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -2395,6 +2649,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 736
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1988
 
@@ -2406,6 +2663,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   27 612
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -2417,6 +2677,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 260
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1989
 
@@ -2428,6 +2691,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 644
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -2439,6 +2705,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 060
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1992
 
@@ -2450,6 +2719,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 824
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -2461,6 +2733,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   34 836
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1994
 
@@ -2472,6 +2747,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 112
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -2483,6 +2761,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 820
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1997
 
@@ -2494,6 +2775,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 960
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -2505,6 +2789,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   37 740
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1999
 
@@ -2516,6 +2803,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 004
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -2527,6 +2817,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 108
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -2538,6 +2831,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 804
 
+    *
+    *
+    *
 
 *    *
     *   bis zum
@@ -2564,6 +2860,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         Euro
 
+    *   ab
+        vollendetem
+        40\.
+        Lebensjahr
+        Euro
+
+    *   ab
+        vollendetem
+        45\.
+        Lebensjahr
+        Euro
+
+    *
 
 *    *   bis 31. 1.2003
 
@@ -2575,6 +2884,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20 808
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.2004
 
@@ -2586,6 +2898,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 312
 
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -2597,6 +2912,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 528
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -2608,6 +2926,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 744
 
+    *
+    *
+    *
 
 *    *
     *   bis 30. 6.2010
@@ -2620,9 +2941,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 436
 
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   21 384
 
@@ -2632,8 +2956,59 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 928
 
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   22 596
+
+    *   23 508
+
+    *   24 384
+
+    *   25 296
+
+    *
+    *
+    *
+
+*    *
+    *   bis 31. 8.2016
+
+    *   23 724
+
+    *   24 684
+
+    *   25 596
+
+    *   26 556
+
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   24 816
+
+    *   25 824
+
+    *   26 772
+
+    *   27 780
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -2668,11 +3043,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   1.
 
     *   Diensteinkommen jährlich Einfacher Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -2688,6 +3069,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 300
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -2699,6 +3083,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 828
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -2710,6 +3097,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 356
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -2721,6 +3111,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 752
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -2732,6 +3125,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 148
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -2743,6 +3139,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 508
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -2754,6 +3153,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 949
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -2765,6 +3167,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 306
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -2776,6 +3181,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 876
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -2787,6 +3195,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 426
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -2798,6 +3209,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 400
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -2809,6 +3223,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 736
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -2820,6 +3237,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 085
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -2831,6 +3251,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 448
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -2838,6 +3261,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 848
 
+    *
+    *
+    *
     *
     *
 
@@ -2849,6 +3275,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -2856,6 +3285,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 440
 
+    *
+    *
+    *
     *
     *
 
@@ -2867,6 +3299,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -2874,6 +3309,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 020
 
+    *
+    *
+    *
     *
     *
 
@@ -2885,6 +3323,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -2892,6 +3333,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 152
 
+    *
+    *
+    *
     *
     *
 
@@ -2903,6 +3347,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -2910,6 +3357,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 144
 
+    *
+    *
+    *
     *
     *
 
@@ -2921,6 +3371,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -2928,6 +3381,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 944
 
+    *
+    *
+    *
     *
     *
 
@@ -2939,6 +3395,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -2946,6 +3405,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 452
 
+    *
+    *
+    *
     *
     *
 
@@ -2957,6 +3419,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -2964,6 +3429,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 796
 
+    *
+    *
+    *
     *
     *
 
@@ -2975,6 +3443,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -2982,6 +3453,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 920
 
+    *
+    *
+    *
     *
     *
 
@@ -2993,6 +3467,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -3000,6 +3477,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 564
 
+    *
+    *
+    *
     *
     *
 
@@ -3011,6 +3491,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -3018,6 +3501,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   32 220
 
+    *
+    *
+    *
     *
     *
 
@@ -3029,6 +3515,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -3036,6 +3525,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   37 248
 
+    *
+    *
+    *
     *
     *
 
@@ -3047,6 +3539,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -3054,6 +3549,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 352
 
+    *
+    *
+    *
     *
     *
 
@@ -3065,6 +3563,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -3072,6 +3573,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 392
 
+    *
+    *
+    *
     *
     *
 
@@ -3083,6 +3587,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -3092,6 +3599,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -3099,6 +3609,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 624
 
+    *
+    *
+    *
     *
     *
 
@@ -3113,6 +3626,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.2003
 
@@ -3120,6 +3636,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 272
 
+    *
+    *
+    *
     *
     *
 
@@ -3131,6 +3650,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -3140,6 +3662,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -3147,6 +3672,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 268
 
+    *
+    *
+    *
     *
     *
 
@@ -3159,9 +3687,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   24 756
 
@@ -3169,8 +3700,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   26 172
+
+    *   27 072
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   27 480
+
+    *   28 416
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   28 740
+
+    *   29 724
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -3205,11 +3781,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   2.
 
     *   Diensteinkommen jährlich Mittlerer Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -3225,6 +3807,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 400
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -3236,6 +3821,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3 944
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -3247,6 +3835,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 488
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -3258,6 +3849,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 896
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -3269,6 +3863,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 698
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -3280,6 +3877,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 097
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -3291,6 +3891,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 585
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -3302,6 +3905,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 980
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -3313,6 +3919,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 980
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -3324,6 +3933,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 538
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -3335,6 +3947,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 634
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -3346,6 +3961,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 979
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -3357,6 +3975,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 338
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -3368,6 +3989,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 712
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -3379,6 +4003,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11 652
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1970
 
@@ -3390,6 +4017,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 984
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -3401,6 +4031,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14 928
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1972
 
@@ -3412,6 +4045,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 236
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -3423,6 +4059,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 856
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1974
 
@@ -3434,6 +4073,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 968
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -3445,6 +4087,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 156
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1977
 
@@ -3456,6 +4101,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 200
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -3467,6 +4115,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 340
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1979
 
@@ -3478,6 +4129,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 348
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -3489,6 +4143,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 284
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1981
 
@@ -3500,6 +4157,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 832
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -3511,6 +4171,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 008
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1983
 
@@ -3522,6 +4185,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 968
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -3533,6 +4199,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   29 496
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1985
 
@@ -3544,6 +4213,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 648
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -3555,6 +4227,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 452
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1988
 
@@ -3566,6 +4241,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   32 496
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -3577,6 +4255,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 252
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1989
 
@@ -3588,6 +4269,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 708
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -3599,6 +4283,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 376
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1992
 
@@ -3610,6 +4297,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   37 440
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -3621,6 +4311,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 488
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1994
 
@@ -3632,6 +4325,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 932
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -3643,6 +4339,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   41 748
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1997
 
@@ -3654,6 +4353,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   43 092
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -3665,6 +4367,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   43 944
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1999
 
@@ -3676,6 +4381,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   44 304
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -3687,6 +4395,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   45 588
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -3698,6 +4409,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   46 404
 
+    *
+    *
+    *
 
 *    *
     *   bis zum
@@ -3723,6 +4437,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         35\. Lebensjahr
         Euro
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.2003
 
@@ -3734,6 +4451,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 252
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.2004
 
@@ -3745,6 +4465,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 840
 
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -3756,6 +4479,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 092
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -3767,6 +4493,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 344
 
+    *
+    *
+    *
 
 *    *
     *   bis 30. 6.2010
@@ -3779,9 +4508,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   27 324
 
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   22 332
 
@@ -3791,8 +4523,59 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   27 900
 
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   23 604
+
+    *   25 560
+
+    *   27 528
+
+    *   29 496
+
+    *
+    *
+    *
+
+*    *
+    *   bis 31.08.2016
+
+    *   24 780
+
+    *   26 832
+
+    *   28 896
+
+    *   30 960
+
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   25 920
+
+    *   28 068
+
+    *   30 228
+
+    *   32 388
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -3827,11 +4610,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   2.
 
     *   Diensteinkommen jährlich Mittlerer Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -3847,6 +4636,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 600
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -3858,6 +4650,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 336
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -3869,6 +4664,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 072
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -3880,6 +4678,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 624
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -3891,6 +4692,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 084
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -3902,6 +4706,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 580
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -3913,6 +4720,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 186
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -3924,6 +4734,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 677
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -3935,6 +4748,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 677
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -3946,6 +4762,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 371
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -3957,6 +4776,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 092
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -3968,6 +4790,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 496
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -3979,6 +4804,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 916
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -3990,6 +4818,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11 353
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -3997,6 +4828,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 632
 
+    *
+    *
+    *
     *
     *
 
@@ -4008,6 +4842,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -4015,6 +4852,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 508
 
+    *
+    *
+    *
     *
     *
 
@@ -4026,6 +4866,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -4033,6 +4876,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20 700
 
+    *
+    *
+    *
     *
     *
 
@@ -4044,6 +4890,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -4051,6 +4900,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 264
 
+    *
+    *
+    *
     *
     *
 
@@ -4062,6 +4914,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -4069,6 +4924,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 664
 
+    *
+    *
+    *
     *
     *
 
@@ -4080,6 +4938,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -4087,6 +4948,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 896
 
+    *
+    *
+    *
     *
     *
 
@@ -4098,6 +4962,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -4105,6 +4972,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 980
 
+    *
+    *
+    *
     *
     *
 
@@ -4116,6 +4986,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -4123,6 +4996,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 720
 
+    *
+    *
+    *
     *
     *
 
@@ -4134,6 +5010,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -4141,6 +5020,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 964
 
+    *
+    *
+    *
     *
     *
 
@@ -4152,6 +5034,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -4159,6 +5044,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 040
 
+    *
+    *
+    *
     *
     *
 
@@ -4170,6 +5058,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -4177,6 +5068,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 200
 
+    *
+    *
+    *
     *
     *
 
@@ -4188,6 +5082,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -4195,6 +5092,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   45 768
 
+    *
+    *
+    *
     *
     *
 
@@ -4206,6 +5106,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -4213,6 +5116,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   47 292
 
+    *
+    *
+    *
     *
     *
 
@@ -4224,6 +5130,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -4231,6 +5140,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   49 740
 
+    *
+    *
+    *
     *
     *
 
@@ -4242,6 +5154,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -4251,6 +5166,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -4258,6 +5176,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   52 572
 
+    *
+    *
+    *
     *
     *
 
@@ -4274,6 +5195,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.2003
 
@@ -4281,6 +5205,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   27 468
 
+    *
+    *
+    *
     *
     *
 
@@ -4292,6 +5219,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -4301,6 +5231,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -4308,6 +5241,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 692
 
+    *
+    *
+    *
     *
     *
 
@@ -4320,9 +5256,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   29 736
 
@@ -4330,8 +5269,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   31 428
+
+    *   33 384
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   33 000
+
+    *   35 052
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   34 524
+
+    *   36 660
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -4366,11 +5350,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   3.
 
     *   Diensteinkommen jährlich Gehobener Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -4386,6 +5376,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   4 800
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -4397,6 +5390,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5 568
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -4408,6 +5404,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 336
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -4419,6 +5418,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6 912
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -4430,6 +5432,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 752
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -4441,6 +5446,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 295
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -4452,6 +5460,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 959
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -4463,6 +5474,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 497
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -4474,6 +5488,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 497
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -4485,6 +5502,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 257
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -4496,6 +5516,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 393
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -4507,6 +5530,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 889
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -4518,6 +5544,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 405
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -4529,6 +5558,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 941
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -4540,6 +5572,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 152
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1970
 
@@ -4551,6 +5586,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 616
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -4562,6 +5600,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 404
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1972
 
@@ -4573,6 +5614,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 024
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -4584,6 +5628,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 980
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1974
 
@@ -4595,6 +5642,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 452
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -4606,6 +5656,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 976
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1977
 
@@ -4617,6 +5670,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   28 092
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -4628,6 +5684,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   29 400
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1979
 
@@ -4639,6 +5698,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 612
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -4650,6 +5712,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   31 740
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1981
 
@@ -4661,6 +5726,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 636
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -4672,6 +5740,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 028
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1983
 
@@ -4683,6 +5754,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 192
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -4694,6 +5768,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 828
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1985
 
@@ -4705,6 +5782,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 196
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -4716,6 +5796,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 264
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1988
 
@@ -4727,6 +5810,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 560
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -4738,6 +5824,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   41 496
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1989
 
@@ -4749,6 +5838,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 060
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -4760,6 +5852,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   43 452
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1992
 
@@ -4771,6 +5866,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   45 912
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -4782,6 +5880,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   49 140
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1994
 
@@ -4793,6 +5894,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   49 944
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -4804,6 +5908,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   50 940
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1997
 
@@ -4815,6 +5922,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   52 572
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -4826,6 +5936,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   53 544
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1999
 
@@ -4837,6 +5950,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   54 060
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -4848,6 +5964,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   55 620
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -4859,6 +5978,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   56 628
 
+    *
+    *
+    *
 
 *    *
     *   bis zum
@@ -4885,6 +6007,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         Euro
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.2003
 
@@ -4896,6 +6021,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   29 592
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.2004
 
@@ -4907,6 +6035,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 300
 
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -4918,6 +6049,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 600
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -4929,6 +6063,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 912
 
+    *
+    *
+    *
 
 *    *
     *   bis 30. 6.2010
@@ -4941,9 +6078,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 324
 
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   26 940
 
@@ -4953,8 +6093,59 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   34 020
 
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   28 476
+
+    *   30 972
+
+    *   33 468
+
+    *   35 964
+
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   29 904
+
+    *   32 520
+
+    *   35 148
+
+    *   37 752
+
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   31 284
+
+    *   34 020
+
+    *   36 768
+
+    *   39 492
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -4989,11 +6180,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   3.
 
     *   Diensteinkommen jährlich Gehobener Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -5009,6 +6206,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 200
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -5020,6 +6220,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 352
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -5031,6 +6234,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 504
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -5042,6 +6248,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 368
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -5053,6 +6262,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 944
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -5064,6 +6276,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11 710
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -5075,6 +6290,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 647
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1963
 
@@ -5086,6 +6304,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 279
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -5097,6 +6318,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 279
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -5108,6 +6332,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14 209
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -5119,6 +6346,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15 100
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -5130,6 +6360,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15 704
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -5141,6 +6374,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 332
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -5152,6 +6388,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 985
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -5159,6 +6398,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 032
 
+    *
+    *
+    *
     *
     *
 
@@ -5170,6 +6412,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -5177,6 +6422,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 548
 
+    *
+    *
+    *
     *
     *
 
@@ -5188,6 +6436,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -5195,6 +6446,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 412
 
+    *
+    *
+    *
     *
     *
 
@@ -5206,6 +6460,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -5213,6 +6470,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 936
 
+    *
+    *
+    *
     *
     *
 
@@ -5224,6 +6484,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -5231,6 +6494,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 648
 
+    *
+    *
+    *
     *
     *
 
@@ -5242,6 +6508,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -5249,6 +6518,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 276
 
+    *
+    *
+    *
     *
     *
 
@@ -5260,6 +6532,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -5267,6 +6542,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 996
 
+    *
+    *
+    *
     *
     *
 
@@ -5278,6 +6556,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -5285,6 +6566,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 036
 
+    *
+    *
+    *
     *
     *
 
@@ -5296,6 +6580,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -5303,6 +6590,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   44 820
 
+    *
+    *
+    *
     *
     *
 
@@ -5314,6 +6604,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -5321,6 +6614,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   47 388
 
+    *
+    *
+    *
     *
     *
 
@@ -5332,6 +6628,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -5339,6 +6638,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   49 500
 
+    *
+    *
+    *
     *
     *
 
@@ -5350,6 +6652,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -5357,6 +6662,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   55 800
 
+    *
+    *
+    *
     *
     *
 
@@ -5368,6 +6676,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -5375,6 +6686,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   58 008
 
+    *
+    *
+    *
     *
     *
 
@@ -5386,6 +6700,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -5393,6 +6710,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   60 912
 
+    *
+    *
+    *
     *
     *
 
@@ -5404,6 +6724,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -5413,6 +6736,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -5420,6 +6746,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   64 476
 
+    *
+    *
+    *
     *
     *
 
@@ -5438,6 +6767,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.2003
 
@@ -5445,6 +6777,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 696
 
+    *
+    *
+    *
     *
     *
 
@@ -5456,6 +6791,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -5465,6 +6803,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -5472,6 +6813,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   35 196
 
+    *
+    *
+    *
     *
     *
 
@@ -5484,9 +6828,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   36 372
 
@@ -5494,8 +6841,53 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *
     *
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   38 448
+
+    *   40 944
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   40 368
+
+    *   42 996
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   42 228
+
+    *   44 976
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -5530,11 +6922,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   4.
 
     *   Diensteinkommen jährlich Höherer Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -5550,6 +6948,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   7 100
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -5561,6 +6962,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8 236
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -5572,6 +6976,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9 372
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -5583,6 +6990,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 224
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -5594,6 +7004,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10 792
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -5605,6 +7018,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11 547
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -5616,6 +7032,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12 471
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -5627,6 +7046,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 095
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -5638,6 +7060,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   14 012
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -5649,6 +7074,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 543
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -5660,6 +7088,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18 245
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -5671,6 +7102,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18 975
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -5682,6 +7116,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 734
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -5693,6 +7130,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   21 708
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1970
 
@@ -5704,6 +7144,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 352
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -5715,6 +7158,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 316
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1972
 
@@ -5726,6 +7172,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   27 960
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -5737,6 +7186,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   30 180
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1974
 
@@ -5748,6 +7200,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   33 096
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -5759,6 +7214,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   34 884
 
+    *
+    *
+    *
 
 *    *   bis 31. 1.1977
 
@@ -5770,6 +7228,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 264
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -5781,6 +7242,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   37 896
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1979
 
@@ -5792,6 +7256,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 324
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -5803,6 +7270,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   40 704
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1981
 
@@ -5814,6 +7284,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 996
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -5825,6 +7298,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   44 676
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1983
 
@@ -5836,6 +7312,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   46 128
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -5847,6 +7326,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   46 920
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1985
 
@@ -5858,6 +7340,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   48 612
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -5869,6 +7354,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   50 076
 
+    *
+    *
+    *
 
 *    *   bis 29. 2.1988
 
@@ -5880,6 +7368,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   51 756
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -5891,6 +7382,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   52 968
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1989
 
@@ -5902,6 +7396,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   53 688
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -5913,6 +7410,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   55 212
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1992
 
@@ -5924,6 +7424,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   58 356
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -5935,6 +7438,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   61 176
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1994
 
@@ -5946,6 +7452,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   63 432
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -5957,6 +7466,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   64 704
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1997
 
@@ -5968,6 +7480,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   66 768
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -5979,6 +7494,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   67 908
 
+    *
+    *
+    *
 
 *    *   bis 28. 2.1999
 
@@ -5990,6 +7508,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   68 652
 
+    *
+    *
+    *
 
 *    *   bis 13.12.2000
 
@@ -6001,6 +7522,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   70 644
 
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -6012,6 +7536,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   71 916
 
+    *
+    *
+    *
 
 *    *
     *   bis zum
@@ -6038,6 +7565,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         Euro
 
+    *
+    *
+    *
 
 *    *   bis 30. 4.2003
 
@@ -6049,6 +7579,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   37 584
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.2004
 
@@ -6060,6 +7593,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 484
 
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -6071,6 +7607,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   38 868
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -6082,6 +7621,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   39 252
 
+    *
+    *
+    *
 
 *    *
     *   bis 30. 6.2010
@@ -6094,9 +7636,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 312
 
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   34 992
 
@@ -6106,8 +7651,59 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   43 200
 
+    *
+    *
+    *
 
 *    *
+    *   bis 31. 7.2014
+
+    *   36 984
+
+    *   39 888
+
+    *   42 756
+
+    *   45 660
+
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   38 832
+
+    *   41 892
+
+    *   44 892
+
+    *   47 940
+
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   40 620
+
+    *   43 824
+
+    *   46 956
+
+    *   50 148
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
     *
     *
     *
@@ -6142,11 +7738,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Lebensjahr
         DM
 
+    *
+    *
+    *
 
 *    *   4.
 
     *   Diensteinkommen jährlich Höherer Dienst
 
+    *
+    *
+    *
     *
     *
     *
@@ -6162,6 +7764,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11 500
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1953
 
@@ -6173,6 +7778,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   13 340
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1955
 
@@ -6184,6 +7792,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   15 180
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1957
 
@@ -6195,6 +7806,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   16 560
 
+    *
+    *
+    *
 
 *    *   bis 31. 5.1960
 
@@ -6206,6 +7820,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   17 480
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1960
 
@@ -6217,6 +7834,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   18 529
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1962
 
@@ -6228,6 +7848,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   19 826
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1964
 
@@ -6239,6 +7862,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   20 817
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1965
 
@@ -6250,6 +7876,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 274
 
+    *
+    *
+    *
 
 *    *   bis 31.12.1965
 
@@ -6261,6 +7890,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   22 274
 
+    *
+    *
+    *
 
 *    *   bis 30. 9.1966
 
@@ -6272,6 +7904,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 165
 
+    *
+    *
+    *
 
 *    *   bis 30. 6.1968
 
@@ -6283,6 +7918,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   23 860
 
+    *
+    *
+    *
 
 *    *   bis 31. 3.1969
 
@@ -6294,6 +7932,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   24 695
 
+    *
+    *
+    *
 
 *    *   bis 31. 8.1969
 
@@ -6303,6 +7944,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   26 700
 
+    *
+    *
+    *
     *
 
 *    *   bis 31.12.1970
@@ -6314,6 +7958,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   28 560
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1971
 
@@ -6323,6 +7970,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   32 724
 
+    *
+    *
+    *
     *
 
 *    *   bis 31.12.1972
@@ -6334,6 +7984,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   34 356
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1973
 
@@ -6343,6 +7996,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   36 780
 
+    *
+    *
+    *
     *
 
 *    *   bis 31.12.1974
@@ -6354,6 +8010,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   40 140
 
     *
+    *
+    *
+    *
 
 *    *   bis 31. 1.1976
 
@@ -6363,6 +8022,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   42 144
 
+    *
+    *
+    *
     *
 
 *    *   bis 31. 1.1977
@@ -6374,6 +8036,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   43 740
 
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1978
 
@@ -6383,6 +8048,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   45 528
 
+    *
+    *
+    *
     *
 
 *    *   bis 28. 2.1979
@@ -6394,6 +8062,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   47 184
 
     *
+    *
+    *
+    *
 
 *    *   bis 29. 2.1980
 
@@ -6403,6 +8074,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   48 732
 
+    *
+    *
+    *
     *
 
 *    *   bis 28. 2.1981
@@ -6414,6 +8088,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   51 372
 
     *
+    *
+    *
+    *
 
 *    *   bis 30. 6.1982
 
@@ -6423,6 +8100,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   53 280
 
+    *
+    *
+    *
     *
 
 *    *   bis 30. 6.1983
@@ -6434,6 +8114,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   55 008
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1984
 
@@ -6443,6 +8126,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   55 944
 
+    *
+    *
+    *
     *
 
 *    *   bis 31.12.1985
@@ -6454,6 +8140,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   57 924
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1986
 
@@ -6463,6 +8152,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   59 748
 
+    *
+    *
+    *
     *
 
 *    *   bis 29. 2.1988
@@ -6474,6 +8166,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   61 776
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1988
 
@@ -6483,6 +8178,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   63 228
 
+    *
+    *
+    *
     *
 
 *    *   bis 31.12.1989
@@ -6494,6 +8192,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   64 080
 
     *
+    *
+    *
+    *
 
 *    *   bis 28. 2.1991
 
@@ -6503,6 +8204,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   65 760
 
+    *
+    *
+    *
     *
 
 *    *   bis 30. 4.1992
@@ -6514,6 +8218,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   69 492
 
     *
+    *
+    *
+    *
 
 *    *   bis 30. 4.1993
 
@@ -6523,6 +8230,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   72 816
 
+    *
+    *
+    *
     *
 
 *    *   bis 30. 9.1994
@@ -6534,6 +8244,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   75 480
 
     *
+    *
+    *
+    *
 
 *    *   bis 31. 3.1995
 
@@ -6543,6 +8256,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   76 992
 
+    *
+    *
+    *
     *
 
 *    *   bis 28. 2.1997
@@ -6554,6 +8270,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   79 464
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.1997
 
@@ -6563,6 +8282,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   80 736
 
+    *
+    *
+    *
     *
 
 *    *   bis 28. 2.1999
@@ -6574,6 +8296,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   81 696
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2000
 
@@ -6584,6 +8309,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   84 072
 
     *
+    *
+    *
+    *
 
 *    *   bis 31.12.2001
 
@@ -6593,6 +8321,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   85 584
 
+    *
+    *
+    *
     *
 
 *    *
@@ -6615,6 +8346,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Euro
 
     *
+    *
+    *
+    *
 
 *    *   bis 30. 4.2003
 
@@ -6624,6 +8358,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   44 712
 
+    *
+    *
+    *
     *
 
 *    *   bis 31. 3.2004
@@ -6635,6 +8372,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   45 780
 
     *
+    *
+    *
+    *
 
 *    *   bis 31. 7.2004
 
@@ -6645,6 +8385,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   46 236
 
     *
+    *
+    *
+    *
 
 *    *   bis 31. 5.2008
 
@@ -6654,6 +8397,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   46 704
 
+    *
+    *
+    *
     *
 
 *    *
@@ -6666,9 +8412,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   50 352
 
     *
+    *
+    *
+    *
 
 *    *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   45 936
 
@@ -6676,6 +8425,51 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   51 408
 
+    *
+    *
+    *
+    *
+
+*    *
+    *   bis 31. 7.2014
+
+    *   48 552
+
+    *   51 456
+
+    *   54 336
+
+    *
+    *
+    *
+    *
+
+*    *
+    *   bis 31.8.2016
+
+    *   50 988
+
+    *   54 036
+
+    *   57 060
+
+    *
+    *
+    *
+    *
+
+*    *
+    *   ab 1.9.2016
+
+    *   53 328
+
+    *   56 520
+
+    *   59 688
+
+    *
+    *
+    *
     *
 
 

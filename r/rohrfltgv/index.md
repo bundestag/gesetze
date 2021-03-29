@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3777, 3809
 
 Zuletzt geändert durch
-:   Art. 14 G v. 8.11.2011 I 2178
+:   Art. 2 Abs. 21 G v. 20.7.2017 I 2808
 
 
 ## § 1 Zweck der Verordnung
@@ -37,8 +37,7 @@ folgende Stoffe befördert werden:
     oder oberhalb ihres Flammpunktes befördert werden,
 
 
-2.  verflüssigte oder gasförmige Stoffe mit dem Gefahrenmerkmal F, F+, O,
-    T, T+ oder C,
+2.  Stoffe mit dem Gefahrenmerkmal F, F+, O, T, T+ oder C,
 
 
 3.  Stoffe mit den R-Sätzen R 14, R 14/15, R 29, R 50, R 50/53 oder R
@@ -46,9 +45,8 @@ folgende Stoffe befördert werden:
 
 
 
-Stoffe, die unter Satz 1 Nummer 1 oder Nummer 3 fallen, und
-verflüssigte oder gasförmige Stoffe mit dem Gefahrenmerkmal T, T+ oder
-C gelten als wassergefährdende Stoffe.
+Stoffe, die unter Satz 1 Nummer 1 oder Nummer 3 fallen, und Stoffe mit
+dem Gefahrenmerkmal T, T+ oder C gelten als wassergefährdende Stoffe.
 
 (2) Rohrfernleitungsanlagen im Sinne dieser Verordnung sind
 Rohrfernleitungsanlagen,
@@ -58,11 +56,12 @@ Rohrfernleitungsanlagen,
     Plangenehmigung bedürfen oder
 
 
-2.  die unter eine der in den Nummern 19.3 bis 19.6 der Anlage 1 des
+2.  die unter eine der in den Nummern 19.4 bis 19.6 der Anlage 1 des
     Gesetzes über die Umweltverträglichkeitsprüfung aufgeführten
     Leitungsanlagen fallen, ohne die dort angegebenen Größenwerte für die
-    Verpflichtung zur Durchführung einer Vorprüfung des Einzelfalles zu
-    erreichen.
+    Verpflichtung zur Durchführung einer Vorprüfung des Einzelfalls zu
+    erreichen und die mit einem Überdruck von mehr als 1 Bar betrieben
+    werden.
 
 
 
@@ -78,7 +77,7 @@ bergrechtlichen Betriebsplanverfahren unterliegen.
 zwischenstaatlicher Verpflichtungen, insbesondere im Rahmen des NATO-
 Vertrages, es erfordern, kann das Bundesministerium der Verteidigung
 nach Richtlinien, die im Einvernehmen mit dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit festzulegen sind, für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit festzulegen sind, für
 Rohrfernleitungsanlagen, die der Landesverteidigung dienen, sowie der
 Einrichtungen zu ihrem Betrieb die Anwendung dieser Rechtsverordnung
 ausschließen oder Ausnahmen von den Anforderungen dieser
@@ -86,7 +85,7 @@ Rechtsverordnung zulassen. Dabei ist der Schutz vor erheblichen
 nachteiligen Umweltauswirkungen zu berücksichtigen. Sonstige
 Rechtsvorschriften, die das Zulassungsverfahren betreffen, bleiben
 unberührt. Das Bundesministerium der Verteidigung unterrichtet das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 jährlich über die Anwendung dieses Absatzes.
 
 
@@ -157,8 +156,8 @@ mindestens Folgendes enthält:
 Der Betreiber hat im Rahmen dieses Systems die für den
 bestimmungsgemäßen Betrieb, für Betriebsstörungen und für die
 Überwachung der Rohrfernleitungsanlage erforderlichen Anordnungen
-schriftlich festzulegen, regelmäßig zu aktualisieren und allen
-Mitarbeitern zugänglich zu machen.
+schriftlich oder elektronisch festzulegen, regelmäßig zu aktualisieren
+und allen Mitarbeitern zugänglich zu machen.
 
 (5) Zur Erfüllung der Anforderungen nach § 3 und den Absätzen 1 bis 4
 kann die zuständige Behörde die im Einzelfall erforderlichen
@@ -167,14 +166,14 @@ Anordnungen treffen.
 
 ## § 4a Anzeigepflicht
 
-(1) Wer die Errichtung einer Rohrfernleitungsanlage im Sinne von § 2
-Absatz 2 Satz 1 Nummer 2 mit einem Überdruck von mehr als einem Bar
+(1) Wer die Errichtung oder wesentliche Änderung einer
+Rohrfernleitungsanlage im Sinne von § 2 Absatz 2 Satz 1 Nummer 2
 beabsichtigt, hat
 
 1.  das Vorhaben mindestens acht Wochen vor dem vorgesehenen Beginn der
     zuständigen Behörde unter Beifügung aller für die Beurteilung der
-    Sicherheit erforderlichen Unterlagen schriftlich anzuzeigen und zu
-    beschreiben sowie
+    Sicherheit erforderlichen Unterlagen schriftlich oder elektronisch
+    anzuzeigen und zu beschreiben sowie
 
 
 2.  der Anzeige die gutachtliche Stellungnahme einer Prüfstelle nach § 6
@@ -199,11 +198,12 @@ acht Wochen beanstanden, wenn
 Die Frist beginnt, sobald die vollständigen Unterlagen und die
 gutachtliche Stellungnahme nach Absatz 1 vorgelegt worden sind.
 
-(3) Mit der Errichtung darf erst nach Ablauf der Frist nach Absatz 2,
-bei einer Beanstandung erst nach Behebung des Mangels begonnen werden.
-Soweit Teile der Rohrfernleitungsanlage durch eine Beanstandung nicht
-betroffen sind, kann mit ihrer Errichtung unabhängig von der
-Beanstandung begonnen werden.
+(3) Mit der Errichtung oder wesentlichen Änderung darf erst nach
+Ablauf der Frist nach Absatz 2, bei einer Beanstandung erst nach
+Behebung des Mangels begonnen werden. Soweit Teile der
+Rohrfernleitungsanlage durch eine Beanstandung nicht betroffen sind,
+kann mit ihrer Errichtung unabhängig von der Beanstandung begonnen
+werden.
 
 
 ## § 5 Prüfung von Rohrfernleitungsanlagen
@@ -215,7 +215,8 @@ Rohrfernleitungsanlagen durch Prüfstellen nach § 6
 
 
 2.  vor erneuter Inbetriebnahme nach einer nach § 2 Abs. 1
-    zulassungsbedürftigen Änderung,
+    zulassungsbedürftigen Änderung oder nach einer nach § 4a Absatz 1
+    anzeigebedürftigen wesentlichen Änderung,
 
 
 2a. vor erneuter Inbetriebnahme nach einer nicht zulassungsbedürftigen
@@ -256,6 +257,17 @@ Nr. 6 auf bis zu drei Jahre verlängert werden.
 (2) Die zuständige Behörde kann in besonderen Fällen über Absatz 1
 hinaus zusätzliche Prüfungen anordnen.
 
+(3) Die Prüfstelle hat über das Ergebnis der Prüfungen nach Absatz 1
+oder Absatz 2 eine Bescheinigung auszustellen und dem Betreiber und
+der zuständigen Behörde bei gefährlichen Mängeln unverzüglich, sonst
+innerhalb von acht Wochen nach Abschluss der Prüfungen vorzulegen. Die
+zuständige Behörde kann bei der Prüfstelle in die zu einer Prüfung
+erstellten Prüfprotokolle Einsicht nehmen. Die Prüfstelle hat die bei
+ihren Prüfungen erstellten Prüfprotokolle für einen Zeitraum von zehn
+Jahren aufzubewahren. Der Betreiber hat der zuständigen Behörde auf
+Verlangen betriebliche Unterlagen zur Rohrfernleitungsanlage
+vorzulegen.
+
 
 ## § 6 Prüfstellen für Rohrfernleitungsanlagen
 
@@ -284,10 +296,10 @@ in Kopie vorzulegen; eine Beglaubigung der Kopie kann verlangt werden.
 Die zuständige Behörde kann darüber hinaus verlangen, dass Nachweise
 über gleichwertige Anerkennungen nach Satz 5 in beglaubigter deutscher
 Übersetzung vorgelegt werden. Die zuständige Behörde benennt dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit die
-nach Satz 1 oder Satz 5 anerkannten Prüfstellen. Das Bundesministerium
-für Umwelt, Naturschutz und Reaktorsicherheit macht die Prüfstellen im
-Bundesanzeiger bekannt.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+die nach Satz 1 oder Satz 5 anerkannten Prüfstellen. Das
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+macht die Prüfstellen im Bundesanzeiger bekannt.
 
 (2) Die Prüfstelle ist anzuerkennen, wenn sichergestellt ist, dass die
 folgenden Anforderungen erfüllt werden:
@@ -330,14 +342,6 @@ anzuerkennen, aus denen hervorgeht, dass die Prüfstelle im
 Ausstellungsstaat bereits gleichwertigen oder auf Grund ihrer
 Zielsetzung im Wesentlichen vergleichbaren Anforderungen und
 Kontrollen unterworfen ist. Absatz 1 Satz 6 und 7 gilt entsprechend.
-Hinsichtlich der Überprüfung der ausreichenden Fachkunde nach Absatz 2
-Satz 1 Nummer 3 gilt § 36a Absatz 1 Satz 2 und Absatz 2 der
-Gewerbeordnung entsprechend; bei vorübergehender und nur
-gelegentlicher Tätigkeit eines Staatsangehörigen eines anderen
-Mitgliedstaates der Europäischen Union oder eines anderen
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
-gilt hinsichtlich der erforderlichen Fachkunde § 13a Absatz 2 Satz 2
-bis 5 und Absatz 3 der Gewerbeordnung entsprechend.
 
 (3) Über einen Antrag auf Anerkennung als Prüfstelle ist innerhalb
 einer Frist von drei Monaten zu entscheiden; § 42a Absatz 2 Satz 2 bis
@@ -352,7 +356,7 @@ Haftpflichtversicherung mit einer Deckungssumme von mindestens
 zweieinhalb Millionen Euro nachzuweisen.
 
 (6) Für Prüfungen nach § 5 können die Betreiber bis zum 31. Dezember
-2012 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6
+2015 auch die Sachverständigen heranziehen, die nach Maßgabe des § 6
 in der bis zum 10. Oktober 2008 geltenden Fassung heranzuziehen waren.
 
 
@@ -390,9 +394,9 @@ Behörden jeden Schadensfall unverzüglich anzuzeigen, bei dem
 (3) Die zuständige Behörde kann von dem Betreiber verlangen, dass
 dieser den anzuzeigenden Schadensfall auf seine Kosten durch eine
 Prüfstelle nach § 6 sicherheitstechnisch beurteilen lässt und ihr die
-Beurteilung schriftlich vorlegt. Die sicherheitstechnische Beurteilung
-des Schadensfalls hat sich insbesondere auf die Feststellung zu
-erstrecken,
+Beurteilung schriftlich oder elektronisch vorlegt. Die
+sicherheitstechnische Beurteilung des Schadensfalls hat sich
+insbesondere auf die Feststellung zu erstrecken,
 
 1.  worauf der Schadensfall zurückzuführen ist,
 
@@ -427,17 +431,63 @@ Zweckbestimmung und Verlauf der Rohrfernleitungsanlage, über Gefahren
 sowie über die transportierten Stoffe zu informieren.
 
 
+## § 8a Überwachung
+
+(1) Bedienstete und Beauftragte der zuständigen Behörde sind im Rahmen
+der Überwachung befugt,
+
+1.  technische Ermittlungen und Prüfungen vorzunehmen,
+
+
+2.  während der Betriebszeit Betriebsräume sowie unmittelbar zugehörige
+    befriedete Betriebsgrundstücke zu betreten,
+
+
+3.  bei Erforderlichkeit zur Verhütung dringender Gefahren für die
+    öffentliche Sicherheit oder Ordnung Wohnräume und außerhalb der
+    Betriebszeit Betriebsräume sowie unmittelbar zugehörige befriedete
+    Betriebsgrundstücke zu betreten und
+
+
+4.  jederzeit Anlagen zu betreten sowie Grundstücke, die nicht unmittelbar
+    zugehörige befriedete Betriebsgrundstücke nach den Nummern 2 und 3
+    sind.
+
+
+
+Das Grundrecht auf Unverletzlichkeit der Wohnung (Artikel 13 Absatz 1
+des Grundgesetzes) wird durch Satz 1 Nummer 3 eingeschränkt.
+
+(2) Anlagenbetreiber und ihre Beschäftigten haben der zuständigen
+Behörde auf Verlangen Auskünfte zu erteilen, Unterlagen vorzulegen und
+technische Ermittlungen und Prüfungen nach Absatz 1 Satz 1 Nummer 1 zu
+ermöglichen sowie dafür Arbeitskräfte und technische Hilfsmittel zur
+Verfügung zu stellen, soweit dies zur Durchführung der der Behörde
+nach Teil 5 des Gesetzes über die Umweltverträglichkeitsprüfung und
+dieser Verordnung übertragenen Aufgaben erforderlich ist. Für die zur
+Auskunft verpflichtete Person gilt § 55 der Strafprozessordnung
+entsprechend. Eigentümer und Besitzer von Grundstücken, über die
+Rohrfernleitungsanlagen verlaufen, haben der zuständigen Behörde auf
+Verlangen technische Ermittlungen und Prüfungen nach Absatz 1 Satz 1
+Nummer 1 zu ermöglichen, soweit dies zur Durchführung der Aufgaben
+erforderlich ist, die der zuständigen Behörde nach Teil 5 des Gesetzes
+über die Umweltverträglichkeitsprüfung und nach dieser Verordnung
+übertragen worden sind.
+
+(3) (weggefallen)
+
+
 ## § 9 Ausschuss für Rohrfernleitungen
 
-(1) Beim Bundesministerium für Umwelt, Naturschutz und
+(1) Beim Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ein Ausschuss für Rohrfernleitungen
 eingerichtet.
 
 (2) Der Ausschuss für Rohrfernleitungen hat die Aufgabe, im Sinne der
 Zweckbestimmung des § 1
 
-1.  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-    insbesondere in technischen Fragen zu beraten;
+1.  das Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit insbesondere in technischen Fragen zu beraten;
 
 
 2.  die dem Stand der Technik entsprechenden Regeln (Technische Regeln)
@@ -462,21 +512,21 @@ Betreibern von Rohrfernleitungsanlagen und der Wissenschaft zu
 berufen. Der Ausschuss soll nicht mehr als 15 Mitglieder umfassen. Die
 Mitgliedschaft im Ausschuss ist ehrenamtlich.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit beruft die Mitglieder des Ausschusses. Der Ausschuss
 gibt sich eine Geschäftsordnung und wählt den Vorsitzenden aus seiner
 Mitte. Die Geschäftsordnung und die Wahl des Vorsitzenden bedürfen der
-Zustimmung des Bundesministeriums für Umwelt, Naturschutz und
+Zustimmung des Bundesministeriums für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit.
 
 (5) Technische Regeln und das Anforderungsprofil nach Absatz 2 Nr. 3
-werden vom Bundesministerium für Umwelt, Naturschutz und
+werden vom Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit im Bundesanzeiger veröffentlicht.
 
 
 ## § 10 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 23 Abs. 1 Nr. 3 Buchstabe a des
+(1) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 3 Buchstabe a des
 Gesetzes über die Umweltverträglichkeitsprüfung handelt, wer
 vorsätzlich oder fahrlässig
 
@@ -501,8 +551,8 @@ vorsätzlich oder fahrlässig
     nicht vollständig oder nicht rechtzeitig erstattet,
 
 
-4b. entgegen § 4a Absatz 3 Satz 1 mit der Errichtung einer
-    Rohrfernleitungsanlage beginnt,
+4b. entgegen § 4a Absatz 3 Satz 1 mit der Errichtung oder wesentlichen
+    Änderung einer Rohrfernleitungsanlage beginnt,
 
 
 5.  entgegen § 5 Abs. 1 Satz 1 nicht dafür sorgt, dass eine Prüfung
@@ -518,7 +568,7 @@ vorsätzlich oder fahrlässig
 
 
 
-(2) Ordnungswidrig im Sinne des § 23 Abs. 1 Nr. 3 Buchstabe b des
+(2) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 3 Buchstabe b des
 Gesetzes über die Umweltverträglichkeitsprüfung handelt, wer
 vorsätzlich oder fahrlässig
 

@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 2250
 
-Geändert durch
-:   Art. 102 G v. 17.12.2008 I 2586
+Zuletzt geändert durch
+:   Art. 13 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -257,14 +257,16 @@ interpretieren und anwenden kann. Dabei können geprüft werden:
     a)  des Rechtsanwaltsvergütungsgesetzes,
 
 
-    b)  des Gerichtskostengesetzes sowie
+    b)  des Gerichtskostengesetzes,
 
 
-    c)  die einschlägigen Regelungen des Gesetzes über die Kosten in
-        Angelegenheiten der freiwilligen Gerichtsbarkeit (Kostenordnung),
+    c)  des Gesetzes über Gerichtskosten in Familiensachen,
 
 
-    d)  der Verfahrensgesetze zur Berechnung der Vergütung, der Gebühren und
+    d)  des Gerichts- und Notarkostengesetzes,
+
+
+    e)  der Verfahrensgesetze zur Berechnung der Vergütung, der Gebühren und
         der Auslagen sowie der Gegenstandswerte, für Anträge auf Festsetzung,
         Erstattung und Ausgleich, für die Leistung von
         Prozesskostensicherheiten und -vorschüssen, Beratungs- und
@@ -446,7 +448,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ## Anlage 1 (zu § 6 Abs. 2)
 
-(Fundstelle: BGBl. I 2001, 2253)
+(Fundstelle: BGBl. I 2001, 2253;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 .........
@@ -464,15 +467,22 @@ Abschluss
 Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin" vom
-23\. August 2001 (BGBl. I S. 2250)
+23\. August 2001 (BGBl. I S. 2250), die zuletzt durch Artikel 13 der
+Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ...............................................
 Unterschrift(en)    (Siegel der zuständigen Stelle)
 
 
 ## Anlage 2 (zu § 6 Abs. 2)
 
-(Fundstelle: BGBl. I 2001, 2254)
+(Fundstelle: BGBl. I 2001, 2254;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 .........
@@ -490,7 +500,10 @@ Abschluss
 Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Rechtsfachwirt/Geprüfte Rechtsfachwirtin" vom
-23\. August 2001 (BGBl. I S. 2250) mit folgenden Ergebnissen bestanden:
+23\. August 2001 (BGBl. I S. 2250), die zuletzt durch Artikel 13 der
+Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
+Ergebnissen bestanden:
 Note
 Büroorganisation und -verwaltung                      ....
 Personalwirtschaft und Mandantenbetreuung             ....
@@ -504,6 +517,10 @@ Hinblick auf die am ................................. in
 ......................
 vor .......... abgelegte Prüfung von der Prüfungsleistung ....
 freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ...............................................
 Unterschrift(en) ....................................
 (Siegel der zuständigen Stelle)

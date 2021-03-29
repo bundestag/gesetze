@@ -16,19 +16,18 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2396 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.9.2012 I 1884
+:   Art. 2 Abs. 1 G v. 20.7.2017 I 2808; 2018 I 472
 
 
 ## § 1 Anwendungsbereich, Wettbewerbsbedingungen
 
 (1) Dieses Gesetz dient der Gewährleistung eines sicheren Betriebs der
 Eisenbahn und eines attraktiven Verkehrsangebotes auf der Schiene
-sowie der Sicherstellung eines wirksamen und unverfälschten
-Wettbewerbs auf der Schiene bei dem Erbringen von
-Eisenbahnverkehrsleistungen und dem Betrieb von
-Eisenbahninfrastrukturen. Dieses Gesetz dient ferner der Umsetzung
-oder Durchführung von Rechtsakten der Europäischen Gemeinschaften oder
-der Europäischen Union im Bereich des Eisenbahnrechts.
+sowie der Wahrung der Interessen der Verbraucher im Eisenbahnmarkt.
+Dieses Gesetz dient ferner der Umsetzung oder der Durchführung von
+Rechtsakten der Europäischen Gemeinschaften oder der Europäischen
+Union im Bereich des Eisenbahnrechts, soweit diese Rechtsakte
+Sachbereiche dieses Gesetzes betreffen.
 
 (2) Dieses Gesetz gilt für Eisenbahnen. Es gilt nicht für andere
 Schienenbahnen wie Magnetschwebebahnen, Straßenbahnen und die nach
@@ -42,10 +41,9 @@ bestimmt ist.
 (3) Die Vorschriften dieses Gesetzes sind, vorbehaltlich des § 26 Abs.
 1 Satz 1 Nr. 1a in Verbindung mit Satz 2, nicht anzuwenden, soweit in
 der Verordnung (EG) Nr. 1371/2007 des Europäischen Parlaments und des
-Rates vom
-23\. Oktober              2007 über die Rechte und Pflichten der
-Fahrgäste im Eisenbahnverkehr (ABl. EU Nr. L 315 S. 14) inhaltsgleiche
-oder entgegenstehende Regelungen vorgesehen sind.
+Rates vom 23. Oktober 2007 über die Rechte und Pflichten der Fahrgäste
+im Eisenbahnverkehr (ABl. EU Nr. L 315 S. 14) inhaltsgleiche oder
+entgegenstehende Regelungen vorgesehen sind.
 
 (4) Die Verordnung (EG) Nr. 1371/2007 ist nach Maßgabe ihres Artikels
 2 Abs. 5 nicht auf solche Verkehrsdienste des
@@ -63,106 +61,163 @@ Aufgabenteilung ermöglicht wird.
 ## § 2 Begriffsbestimmungen
 
 (1) Eisenbahnen sind öffentliche Einrichtungen oder privatrechtlich
-organisierte Unternehmen, die Eisenbahnverkehrsleistungen erbringen
+organisierte Unternehmen, die Eisenbahnverkehrsdienste erbringen
 (Eisenbahnverkehrsunternehmen) oder eine Eisenbahninfrastruktur
 betreiben (Eisenbahninfrastrukturunternehmen).
 
-(2) Eisenbahnverkehrsleistungen sind die Beförderung von Personen oder
-Gütern auf einer Eisenbahninfrastruktur. Eisenbahnverkehrsunternehmen
-müssen in der Lage sein, die Zugförderung sicherzustellen.
+(2) Verkehrsdienste sind Schienenpersonenfernverkehr,
+Schienenpersonennahverkehr und Schienengüterverkehr. Innerhalb der
+Verkehrsdienste können Marktsegmente gebildet werden.
 
-(2a) Grenzüberschreitender Güterverkehr sind Verkehrsleistungen zur
-Beförderung von Gütern, bei denen der Zug mindestens eine Grenze eines
-Mitgliedstaates der Europäischen Union oder eines Mitgliedstaates des
-Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum
-überquert; der Zug kann erweitert und geteilt werden und die
-verschiedenen Zugabschnitte können unterschiedliche Abfahrts- und
-Bestimmungsorte haben, sofern alle Wagen mindestens eine Grenze
-überqueren.
+(3) Eisenbahnverkehrsunternehmen sind alle Eisenbahnen, deren
+Tätigkeit im Erbringen von Eisenbahnverkehrsdiensten zur Beförderung
+von Gütern oder Personen besteht. Eisenbahnverkehrsunternehmen müssen
+die Traktion sicherstellen. Dies schließt auch Fahrzeughalter ein.
 
-(2b) Grenzüberschreitender Personenverkehr sind Verkehrsleistungen zur
-Beförderung von Fahrgästen, bei denen der Zug mindestens eine Grenze
-eines Mitgliedstaates der Europäischen Union oder eines
-Mitgliedstaates des Abkommens über den Europäischen Wirtschaftsraum
-überquert und der Hauptzweck des Zuges die Beförderung von Fahrgästen
-zwischen Bahnhöfen in verschiedenen Mitgliedstaaten ist; der Zug kann
-erweitert und getrennt werden und die verschiedenen Zugabschnitte
+(4) Grenzüberschreitende Güterverkehrsdienste sind Verkehrsdienste,
+bei denen der Zug mindestens eine Grenze eines Mitgliedstaates der
+Europäischen Union oder eines Vertragsstaates des Abkommens vom 2. Mai
+1992 über den Europäischen Wirtschaftsraum überquert; der Zug kann
+erweitert und geteilt werden, und die verschiedenen Zugabschnitte
 können unterschiedliche Abfahrts- und Bestimmungsorte haben, sofern
 alle Wagen mindestens eine Grenze überqueren.
 
-(3) Die Eisenbahninfrastruktur umfasst die Betriebsanlagen der
+(5) Grenzüberschreitende Personenverkehrsdienste sind Verkehrsdienste
+zur Beförderung von Fahrgästen, bei dem der Zug mindestens eine Grenze
+eines Mitgliedstaates der Europäischen Union oder eines
+Vertragsstaates des Abkommens vom 2. Mai 1992 über den Europäischen
+Wirtschaftsraum überquert und dessen Hauptzweck die Beförderung von
+Fahrgästen zwischen Bahnhöfen in verschiedenen Mitgliedstaaten ist.
+Der Zug kann erweitert und geteilt werden, und die verschiedenen
+Zugabschnitte können unterschiedliche Abfahrts-oder Bestimmungsorte
+haben, sofern alle Wagen mindestens eine Grenze überqueren.
+
+(6) Die Eisenbahninfrastruktur umfasst die Betriebsanlagen der
 Eisenbahnen einschließlich der Bahnstromfernleitungen.
 
-(3a) Betreiber der Schienenwege ist jedes
-Eisenbahninfrastrukturunternehmen, das den Betrieb, den Bau und die
-Unterhaltung der Schienenwege der Eisenbahn zum Gegenstand hat, mit
-Ausnahme der Schienenwege in Serviceeinrichtungen.
+(7) Betreiber der Schienenwege ist jedes
+Eisenbahninfrastrukturunternehmen, das für den Bau, den Betrieb und
+die Unterhaltung der Schienenwege der Eisenbahn, einschließlich
+Verkehrsmanagement, Zugsteuerung, Zugsicherung und Signalgebung
+zuständig ist, mit Ausnahme der Schienenwege in Serviceeinrichtungen.
 
-(3b) Schienenwege, die zur Nutzung für den eigenen Güterverkehr
-betrieben werden, umfassen Schienenwege, die dem innerbetrieblichen
-Transport oder der An- und Ablieferung von Gütern über die Schiene für
-ein oder mehrere bestimmte Unternehmen dienen. Eigener Güterverkehr
-liegt auch dann vor, wenn über solche Schienenwege nicht das
-Unternehmen selbst, sondern ein Dritter den Transport für das
-Unternehmen durchführt.
+(8) Werksbahnen sind Eisenbahninfrastrukturen, die ausschließlich zur
+Nutzung für den eigenen Güterverkehr betrieben werden. Davon umfasst
+ist eine Eisenbahninfrastruktur, die dem innerbetrieblichen Transport
+oder der An- und Ablieferung von Gütern über die Schiene für das
+Unternehmen, das die Eisenbahninfrastruktur betreibt, oder für die mit
+ihm gesellschaftsrechtlich verbundenen Unternehmen dient. Dem
+Vorliegen der Voraussetzungen nach Satz 1 steht nicht entgegen, wenn
+über die Eisenbahninfrastruktur auch Transporte für den eigenen
+Güterverkehr angeschlossener Eisenbahnen oder an der Infrastruktur
+ansässiger Unternehmen durchgeführt werden oder sonstige Nutzungen
+gelegentlich oder in geringem Umfang gestattet werden.
 
-(3c) Serviceeinrichtungen sind
+(9) Serviceeinrichtungen sind die Anlagen, unter Einschluss von
+Grundstück, Gebäude und Ausrüstung, um eine oder mehrere der in Anlage
+2 Nummer 2 bis 4 des Eisenbahnregulierungsgesetzes genannten
+Serviceleistungen erbringen zu können.
 
-1.  Einrichtungen für die Brennstoffaufnahme,
+(10) Abstellgleise sind Gleise, die speziell für das zeitweilige
+Abstellen von Schienenfahrzeugen zwischen zwei Zuweisungen bestimmt
+sind.
 
+(11) Ein Betreiber einer Serviceeinrichtung ist jedes
+Eisenbahninfrastrukturunternehmen, das für den Betrieb einer oder
+mehrerer Serviceeinrichtungen zuständig ist.
 
-2.  Personenbahnhöfe, deren Gebäude und sonstige Einrichtungen,
+(12) Schienenpersonennahverkehr ist ein Verkehrsdienst, dessen
+Hauptzweck es ist, die Verkehrsbedürfnisse im Stadt-, Vorort- oder
+Regionalverkehr abzudecken. Das ist im Zweifel der Fall, wenn in der
+Mehrzahl der Beförderungsfälle eines Zuges die gesamte Reiseweite 50
+Kilometer oder die gesamte Reisezeit eine Stunde nicht übersteigt.
 
+(13) Fahrzeughalter sind Halter von Eisenbahnfahrzeugen, die mit
+diesen selbstständig am Eisenbahnbetrieb teilnehmen können.
 
-3.  Güterbahnhöfe und -terminals,
+(14) Wagenhalter sind Halter von Eisenbahnfahrzeugen, die mit diesen
+nicht selbstständig am Eisenbahnbetrieb teilnehmen können.
 
+(15) Eisenbahnen oder Unternehmen des Bundes sind Unternehmen, die
+sich überwiegend in der Hand des Bundes oder eines mehrheitlich dem
+Bund gehörenden Unternehmens befinden.
 
-4.  Rangierbahnhöfe,
+(16) Stadt- und Vorortverkehr ist ein Verkehrsdienst, dessen
+Hauptzweck es ist, die Verkehrsbedürfnisse eines Stadtgebietes oder
+eines, auch grenzüberschreitenden, Ballungsraumes sowie die
+Verkehrsbedürfnisse zwischen einem Stadtgebiet oder Ballungsraum und
+dem Umland abzudecken.
 
+(17) Ein Ballungsraum ist ein städtisches Gebiet mit einer
+Einwohnerzahl von mehr als 250 000 Einwohnern oder ein Gebiet mit
+einer Bevölkerungsdichte von mehr als 1 000 Einwohnern pro
+Quadratkilometer.
 
-5.  Zugbildungseinrichtungen,
+(18) Regionalverkehr ist ein Verkehrsdienst, dessen Hauptzweck es ist,
+die Verkehrsbedürfnisse einer, auch grenzüberschreitenden, Region
+abzudecken.
 
+(19) Netze des Regionalverkehrs sind Schienenwege, auf denen keine
+Züge des Personenfernverkehrs verkehren.
 
-6.  Abstellgleise,
-
-
-7.  Wartungseinrichtungen und andere technische Einrichtungen und
-
-
-8.  Häfen.
-
-
-
-
-(4) (weggefallen)
-
-(5) Schienenpersonennahverkehr ist die allgemein zugängliche
-Beförderung von Personen in Zügen, die überwiegend dazu bestimmt sind,
-die Verkehrsnachfrage im Stadt-, Vorort- oder Regionalverkehr zu
-befriedigen. Das ist im Zweifel der Fall, wenn in der Mehrzahl der
-Beförderungsfälle eines Zuges die gesamte Reiseweite 50 Kilometer oder
-die gesamte Reisezeit eine Stunde nicht übersteigt.
-
-(6) Eisenbahnen oder Unternehmen des Bundes sind Unternehmen, die sich
-überwiegend in der Hand des Bundes oder eines mehrheitlich dem Bund
-gehörenden Unternehmens befinden.
-
-(7) Die beteiligten obersten Landesverkehrsbehörden entscheiden,
-soweit es sich nicht um Schienenbahnen des Bundes handelt, in
-Zweifelsfällen im Benehmen mit dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung, ob und inwieweit eine Schienenbahn zu den
-Eisenbahnen im Sinne dieses Gesetzes zu rechnen ist. Sie entscheiden
-auch, soweit es sich nicht um Eisenbahnen des Bundes handelt, darüber,
-ob Schienenpersonennahverkehr im Sinne des Absatzes 5 vorliegt.
-
-(8) Netze des Regionalverkehrs sind Schienenwege, auf denen keine Züge
-des Personenfernverkehrs verkehren.
-
-(9) Regionalbahnen sind Eisenbahnverkehrsunternehmen, die
-ausschließlich Verkehrsleistungen auf Netzen des Regionalverkehrs
+(20) Regionalbahnen sind Eisenbahnverkehrsunternehmen, die
+ausschließlich Verkehrsdienste auf Netzen des Regionalverkehrs
 erbringen, auch soweit sie über diese Netze hinaus bis in den
 Übergangsbahnhof außerhalb des jeweiligen Netzes des Regionalverkehrs
 verkehren.
+
+(21) Eine Unternehmensgenehmigung ist eine Genehmigung, die eine
+Genehmigungsbehörde einem Unternehmen erteilt und damit dessen
+Befähigung anerkennt,
+
+1.  Eisenbahnverkehrsdienste als Eisenbahnverkehrsunternehmen zu
+    erbringen, wobei diese Befähigung auf bestimmte Arten von
+    Verkehrsdiensten begrenzt sein kann,
+
+
+2.  selbstständig am Eisenbahnbetrieb als Fahrzeughalter teilzunehmen oder
+
+
+3.  Schienenwege, Steuerungs- und Sicherungssysteme oder Bahnsteige zu
+    betreiben.
+
+
+
+
+(22) Ein Netz oder Schienennetz sind die gesamten Schienenwege, die
+von einem Betreiber der Schienenwege betrieben werden.
+
+(23) Gefährliche Ereignisse sind Unfälle und Störungen im
+Eisenbahnbetrieb.
+
+
+## § 2a Feststellung der Eisenbahneigenschaft
+
+Die für Eisenbahnverkehr zuständige oberste Landesbehörde stellt auf
+Antrag, soweit es sich nicht um Schienenbahnen des Bundes handelt, im
+Benehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur fest,
+
+1.  ob und inwieweit eine Schienenbahn eine Eisenbahn im Sinne dieses
+    Gesetzes ist,
+
+
+2.  ob Schienenpersonennahverkehr im Sinne des § 2 Absatz 12 vorliegt oder
+
+
+3.  ob eine Eisenbahn
+
+    a)  Stadt- und Vorortverkehr nach § 2 Absatz 16 oder
+
+
+    b)  Regionalverkehr nach § 2 Absatz 18
+
+
+
+    im Sinne des Eisenbahnregulierungsgesetzes betreibt.
+
+
+
 
 
 ## § 3 Öffentlicher Eisenbahnverkehr
@@ -187,8 +242,8 @@ Eisenbahnen), wenn sie als
 
 
 
-(2) Die nicht von Absatz 1 erfassten Eisenbahnen sind nichtöffentliche
-Eisenbahnen.
+(2) Die nicht von Absatz 1 erfassten Eisenbahnen und Werksbahnen sind
+nichtöffentliche Eisenbahnen.
 
 
 ## § 4 Sicherheitspflichten, Zuständigkeiten des Eisenbahn-Bundesamtes
@@ -331,6 +386,47 @@ aufzubewahren.
     archivmäßig gesichert niedergelegt.
 [^F777703_02_BJNR239600993BJNE006800311]: 
 
+## § 4b Prüfsachverständige
+
+(1) Prüfsachverständige prüfen im Auftrag der Eisenbahnen, der
+Hersteller, der Sicherheitsbehörde oder der Eisenbahnaufsichtsbehörden
+der Länder
+
+1.  die Einhaltung der nationalen technischen Vorschriften, die nicht nach
+    Artikel 17 Absatz 3 der Richtlinie 2008/57/EG des Europäischen
+    Parlaments und des Rates vom 17. Juni 2008 über die Interoperabilität
+    des Eisenbahnsystems in der Gemeinschaft (Neufassung) (ABl. L 191 vom
+    18\.7.2008, S. 1), die zuletzt durch die Richtlinie 2014/38/EU (ABl. L
+    70 vom 11.3.2014, S. 20) geändert worden ist, notifiziert worden sind,
+    oder
+
+
+2.  den Nachweis einer zulässigen Abweichung von in Nummer 1 bezeichneten
+    technischen Vorschriften im Bereich
+
+    a)  der Erstellung von baulichen Anlagen, Signalanlagen,
+        Telekommunikationsanlagen und elektrotechnischen Anlagen sowie
+
+
+    b)  der Verwendung von Bauprodukten, Bauarten, Komponenten, Systemen und
+        Verfahren.
+
+
+
+
+
+
+Prüfsachverständige werden anerkannt, sofern sie die erforderliche
+Fachkompetenz besitzen, zuverlässig und vom Auftraggeber unabhängig
+sind. Ihre Tätigkeit wird überwacht. Das Nähere zu Anerkennung und
+Überwachung regelt eine Rechtsverordnung im Sinne des § 26 Absatz 1
+Satz 1 Nummer 1 Buchstabe f.
+
+(2) Prüfsachverständige nach Absatz 1 werden im Falle eines Auftrages
+der Sicherheitsbehörde oder der Eisenbahnaufsichtsbehörden der Länder
+als deren Verwaltungshelfer tätig.
+
+
 ## § 5 Eisenbahnaufsicht
 
 (1) Durch die Eisenbahnaufsicht wird die Beachtung
@@ -406,12 +502,40 @@ Eisenbahninfrastrukturunternehmen zuständige Behörde hat auch die
 Aufsicht über Eisenbahnverkehrsunternehmen, soweit diese die ihrer
 Aufsicht unterliegende Eisenbahninfrastruktur benutzen.
 
-(1d) Dem Bund obliegt unbeschadet des § 25b die Wahrnehmung der
-Aufgaben der benannten Stelle, soweit eine solche nach dem Recht der
-Europäischen Gemeinschaften oder der Europäischen Union im
-Zusammenhang mit dem interoperablen Eisenbahnsystem einzurichten ist.
-Hierzu wird bei der für die Eisenbahnaufsicht nach Absatz 2 Satz 1
-zuständigen Bundesbehörde eine benannte Stelle eingerichtet.
+(1d) Dem Bund obliegt
+
+1.  die Anerkennung und Überwachung der
+
+    a)  benannten Stellen im Sinne des Artikels 2 Buchstabe j in Verbindung
+        mit den Artikeln 18 und 28 der Richtlinie 2008/57/EG,
+
+
+    b)  bestimmten Stellen im Sinne des Artikels 17 Absatz 3 Satz 3 der
+        Richtlinie 2008/57/EG und
+
+
+
+
+
+2.  die Aufgabe der Anerkennungsstelle von Bewertungsstellen im Sinne des
+    Artikels 7 Buchstabe b in Verbindung mit Artikel 13 Absatz 1 der
+    Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April
+    2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und
+    Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr.
+    352/2009 (ABl. L 121 vom 3.5.2013, S. 8).
+
+
+
+Der Bund nimmt die Aufgaben nach Satz 1 durch die für die
+Eisenbahnaufsicht nach Absatz 2 Satz 1 zuständige Bundesbehörde als
+Sicherheitsbehörde wahr. Anerkennungen nach Satz 1 erteilt die
+Sicherheitsbehörde auf Antrag. Unbeschadet des Satzes 1 Nummer 1
+Buchstabe a obliegt dem Bund die Wahrnehmung der Aufgaben einer
+benannten Stelle, soweit eine solche nach dem Recht der Europäischen
+Gemeinschaft oder der Europäischen Union im Zusammenhang mit dem
+interoperablen Eisenbahnsystem einzurichten ist. Hierzu wird bei der
+für die Eisenbahnaufsicht nach Absatz 2 Satz 1 zuständigen
+Bundesbehörde eine benannte Stelle eingerichtet.
 
 (1e) Dem Bund obliegt für die regelspurigen Eisenbahnen, die Halter
 von Eisenbahnfahrzeugen und die für die Instandhaltung zuständigen
@@ -440,7 +564,7 @@ Stellen
 
 
 4.  die Eisenbahnaufsicht, ausgenommen die Überwachung der Beachtung der
-    Vorschriften der §§ 8 bis 13, über nichtbundeseigene Eisenbahnen, die
+    Vorschriften der §§ 10 bis 13, über nichtbundeseigene Eisenbahnen, die
     einer Sicherheitsbescheinigung oder Sicherheitsgenehmigung bedürfen;
 
 
@@ -521,44 +645,37 @@ Der Bund nimmt die Aufgaben nach Satz 1 durch die für die
 Eisenbahnaufsicht nach Absatz 2 Satz 1 zuständige Bundesbehörde als
 Sicherheitsbehörde wahr.
 
-(1f) Dem Bund obliegt die Untersuchung gefährlicher Ereignisse im
-Eisenbahnbetrieb auf Eisenbahninfrastrukturen, die seiner
-Eisenbahnaufsicht unterliegen. Der Bund nimmt die Aufgabe nach Satz 1
-durch das Bundesministerium für Verkehr, Bau und Stadtentwicklung als
-Untersuchungsbehörde wahr. Dieses kann jederzeit widerruflich das
-Eisenbahn-Bundesamt mit Untersuchungshandlungen beauftragen. Im Falle
-der Beauftragung hat das Eisenbahn-Bundesamt die Befugnisse der
-Untersuchungsbehörde, soweit die Befugnisse zur Durchführung der
-beauftragten Untersuchungshandlungen erforderlich sind.
+(1f) (weggefallen)
 
-(1g) Die für die Unfalluntersuchung zuständigen Beschäftigten des
-Eisenbahn-Bundesamtes unterstehen bei der Unfalluntersuchung
-ausschließlich und unmittelbar den Anordnungen des für die
-Untersuchung zuständigen Beschäftigten des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung, soweit die Anordnungen nicht die
-dienstliche Stellung der Beschäftigten des Eisenbahn-Bundesamtes
-betreffen.
+(1g) (weggefallen)
 
-(1h) Die Aufgaben und die Befugnisse der für die Strafverfolgung und
+(1h) Dem Bund obliegt die Anerkennung und Überwachung von
+Prüfsachverständigen im Sinne von § 4b.
+
+(1i) Die Aufgaben und die Befugnisse der für die Strafverfolgung und
 Ahndung von Ordnungswidrigkeiten zuständigen Behörden bleiben im
 Übrigen unberührt.
+
+(1j) Die Aufgaben und Befugnisse der Regulierungsbehörde nach dem
+Eisenbahnregulierungsgesetz bleiben unberührt.
 
 (2) Für den Bund sind zuständig die nach dem
 Bundeseisenbahnverkehrsverwaltungsgesetz bestimmten Behörden, für das
 jeweilige Land die von der Landesregierung bestimmte Behörde. Das
 jeweilige Land und der Bund können miteinander vereinbaren, die
 Eisenbahnaufsicht, die Befugnis zur Erteilung von Genehmigungen sowie
-die Untersuchung von Unfällen und gefährlichen Ereignissen ganz oder
-teilweise dem Bund zu übertragen. Der mit den übertragenen Aufgaben
-verbundene Aufwand ist dabei dem Bund zu erstatten. Das Eisenbahn-
-Bundesamt führt die übertragenen Aufgaben nach den Weisungen und für
-Rechnung des Landes aus. Die Landesregierung kann anderen öffentlichen
-oder privaten Stellen die Eisenbahnaufsicht und die Befugnis zur
-Erteilung von Genehmigungen ganz oder teilweise durch Rechtsverordnung
-übertragen. Aufsichts- und Genehmigungsbehörde im Sinne dieses
-Gesetzes ist auch die Stelle, der die Landesregierung nach Satz 4 oder
-das Bundesministerium für Verkehr, Bau und Stadtentwicklung nach dem
-Bundeseisenbahnverkehrsverwaltungsgesetz Aufgaben übertragen hat.
+die Untersuchung von gefährlichen Ereignissen ganz oder teilweise dem
+Bund zu übertragen. Der mit den übertragenen Aufgaben verbundene
+Aufwand ist dabei dem Bund zu erstatten. Die für den Bund nach Satz 1
+zuständige Behörde führt die übertragenen Aufgaben nach den Weisungen
+und für Rechnung des Landes aus. Die Landesregierung kann anderen
+öffentlichen oder privaten Stellen die Eisenbahnaufsicht und die
+Befugnis zur Erteilung von Genehmigungen ganz oder teilweise durch
+Rechtsverordnung übertragen. Aufsichts- und Genehmigungsbehörde im
+Sinne dieses Gesetzes ist auch die Stelle, der die Landesregierung
+nach Satz 5 oder das Bundesministerium für Verkehr und digitale
+Infrastruktur nach dem Bundeseisenbahnverkehrsverwaltungsgesetz
+Aufgaben übertragen hat.
 
 (3) Die Landesregierung bestimmt die Behörde, die zuständig ist für
 Eisenbahnen des Bundes sowie für nichtbundeseigene Eisenbahnen ohne
@@ -597,8 +714,8 @@ berührten Länder.
 (5) Die Einhaltung von Arbeitsschutzvorschriften wird von den nach
 diesen Vorschriften zuständigen Behörden überwacht. Für
 Schienenfahrzeuge und Anlagen, die unmittelbar der Sicherstellung des
-Betriebsablaufs dienen, kann das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung im Einvernehmen mit dem Bundesministerium für
+Betriebsablaufs dienen, kann das Bundesministerium für Verkehr und
+digitale Infrastruktur im Einvernehmen mit dem Bundesministerium für
 Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
 Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 
@@ -606,7 +723,7 @@ Bundesrates die Zuständigkeit auf das Eisenbahn-Bundesamt übertragen.
 außerhalb des Netzes des Regionalverkehrs liegenden Übergangsbahnhof
 hinaus Schienenpersonennahverkehr bis in die nächste Stadt mit einer
 Einwohnerzahl von über 100 000 betreibt, kann das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung nach Anhörung der beteiligten
+für Verkehr und digitale Infrastruktur nach Anhörung der beteiligten
 Länder im Einzelfall anordnen, dass auf dieses
 Eisenbahnverkehrsunternehmen die Bestimmungen anzuwenden sind, die für
 Regionalbahnen gelten, soweit
@@ -639,7 +756,10 @@ insbesondere die Aufgabe,
     den Betriebsanlagen ausgehen, und
 
 
-2.  gefährliche Ereignisse im Eisenbahnbetrieb zu untersuchen.
+2.  gefährliche Ereignisse im Eisenbahnbetrieb zu untersuchen, soweit es
+    sich dabei nicht um gefährliche Ereignisse handelt, deren Untersuchung
+    gemäß § 5b Absatz 1 der Bundesstelle für Eisenbahnunfalluntersuchung
+    obliegt.
 
 
 
@@ -676,8 +796,7 @@ Durchführung der Eisenbahnaufsicht gestatten,
 
 
 4.  Gegenstände sowie Aufzeichnungen über Fahrtverlauf, Zugmeldungen und
-    Störungen zur Untersuchung gefährlicher Ereignisse in amtliche
-    Verwahrung zu nehmen.
+    Störungen in amtliche Verwahrung zu nehmen.
 
 
 
@@ -705,7 +824,7 @@ Ordnungswidrigkeit aussetzen würde.
 
 (6) Unternehmen, die Eisenbahnfahrzeuge sowie Betriebsleit- und
 Sicherheitssysteme im Inland instand halten, und die für sie tätigen
-Personen sind verpflichtet, den nach § 5 Abs. 1a, 1b, 1e, 1f und 2
+Personen sind verpflichtet, den nach § 5 Absatz 1a, 1b, 1e und 2
 zuständigen Aufsichtsbehörden und ihren Beauftragten zur Durchführung
 der Eisenbahnaufsicht zu gestatten, Eisenbahnfahrzeuge sowie
 Betriebsleit- und Sicherheitssysteme innerhalb der üblichen Geschäfts-
@@ -714,14 +833,7 @@ Hilfsmittel zu stellen und Hilfsdienste zu leisten. Findet die
 Instandhaltung im Ausland statt, sollen die Eisenbahnen den
 Aufsichtsbehörden die Prüfung nach Satz 1 ermöglichen.
 
-(7) Die Vorschriften des Verwaltungsverfahrensgesetzes über die
-Ermittlung des Sachverhaltes im Verwaltungsverfahren gelten für die
-Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb entsprechend.
-Die für die Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb
-zuständigen Behörden sind befugt, eine Versicherung an Eides statt zu
-verlangen. Zeugen und Sachverständige sind zur Aussage oder zur
-Erstattung eines Gutachtens verpflichtet; Absatz 5 Satz 3 sowie § 65
-Abs. 1 Satz 2 des Verwaltungsverfahrensgesetzes gelten entsprechend.
+(7) (weggefallen)
 
 (8) Den nach § 5 Abs. 1a zuständigen Eisenbahnaufsichtsbehörden
 obliegt bei Wahrnehmung ihrer Aufgaben nach Absatz 1 auch die
@@ -747,15 +859,297 @@ für die Vollstreckung von Verwaltungsmaßnahmen geltenden Vorschriften
 durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 
-## § 6 Erteilung und Versagung der Genehmigung
+## § 5b Aufgaben und Befugnisse der Stellen für Eisenbahn-Unfalluntersuchung
 
-(1) Ohne Genehmigung darf niemand
+(1) Die Bundesstelle für Eisenbahnunfalluntersuchung untersucht
+Unfälle und Störungen im Sinne des Kapitels V der Richtlinie (EU)
+2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016
+über Eisenbahnsicherheit (ABl. L 138 vom 26.5.2016, S. 102)
+(gefährliche Ereignisse im Eisenbahnbetrieb) mit Ausnahme der
+gefährlichen Ereignisse auf den in Artikel 2 Absatz 2 Buchstabe c und
+Absatz 3 Buchstabe a bis c der Richtlinie (EU) 2016/798 bezeichneten
+Infrastrukturen, soweit diese nicht zu Eisenbahninfrastrukturen des
+Bundes gehören.
 
-1.  Eisenbahnverkehrsleistungen erbringen,
+(2) Die Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb gemäß
+Absatz 1 erfolgt unabhängig von Zuständigkeiten und Befugnissen der
+Aufsichtsbehörden, Sicherheitsbehörden, Regulierungsbehörden,
+Strafverfolgungsbehörden, Konformitätsbewertungsstellen, Eisenbahnen,
+Haltern von Eisenbahnfahrzeugen und den für die Instandhaltung
+zuständigen Stellen.
+
+(3) Eine Stelle für Eisenbahn-Unfalluntersuchung hat zur Erfüllung
+ihrer Aufgaben gegenüber den Eisenbahnen und anderen Beteiligten eines
+gefährlichen Ereignisses im Eisenbahnbetrieb die Befugnisse einer
+Eisenbahnaufsichtsbehörde nach § 5a Absatz 4 bis 6, 8a und 9. Darüber
+hinaus ist der Stelle für Eisenbahn-Unfalluntersuchung und ihren
+Bediensteten und Beauftragten auf Verlangen von den Eisenbahnen und
+anderen Beteiligten eines gefährlichen Ereignisses im Eisenbahnbetrieb
+
+1.  ungehinderter Zugang zum Ort des gefährlichen Ereignisses sowie zu
+    Fahrzeugen und Fahrzeugteilen und zu deren Ladung sowie zu der mit dem
+    gefährlichen Ereignis im Zusammenhang stehenden Infrastruktur und den
+    Sicherungsanlagen,
 
 
-2.  als Halter von Eisenbahnfahrzeugen selbstständig am Eisenbahnbetrieb
-    teilnehmen oder
+2.  die unverzügliche Spurenaufnahme und dokumentierte Entnahme von
+    Gegenständen und Bauteilen zu Untersuchungs- oder Auswertezwecken,
+
+
+3.  unverzüglicher Zugang zu Aufzeichnungsanlagen, Aufzeichnungsträgern
+    und sonstigen Aufzeichnungen sowie deren Auswertung,
+
+
+4.  Zugang zu den Ergebnissen einer Untersuchung toter oder verletzter
+    Personen oder von Proben solcher Personen,
+
+
+5.  Zugang zu den Ergebnissen von Untersuchungen der beteiligten
+    Betriebspersonale oder von entsprechenden Proben solcher Personen,
+
+
+6.  ungehinderter Zugang zu allen weiteren sachdienlichen Informationen
+    oder Aufzeichnungen
+
+
+
+zu gewähren, soweit dies für die Erreichung des Untersuchungszwecks
+erforderlich ist. Die Sätze 1 und 2 gelten für Anlagen, Einrichtungen,
+Fahrzeuge der Bundeswehr und deren Ladung sowie Angehörige der
+Bundeswehr nur insoweit, wie Belange der militärischen Sicherheit
+nicht beeinträchtigt werden.
+
+(4) Auf Verlangen einer Stelle für Eisenbahn-Unfalluntersuchung sind
+die an gefährlichen Ereignissen beteiligten Eisenbahnen und die für
+sie tätigen Personen verpflichtet, die Stelle für Eisenbahn-
+Unfalluntersuchung bei einer Untersuchung zu unterstützen durch
+
+1.  Überführung von Fahrzeugen und Fahrzeugteilen in zur weiteren
+    Untersuchung geeignete Werkstätten,
+
+
+2.  Auslesung und Auswertung von fahrzeugseitigen Diagnoseeinrichtungen,
+
+
+3.  Sicherung von Beweisen an der Ereignisstelle und hiervon abgesetzter
+    Infrastruktureinrichtungen wie durch Messzugfahrten sowie Auslesung
+    und Auswertung von Sicherungsanlagen.
+
+
+
+Die Möglichkeit eines zivilrechtlichen Rückgriffs auf den Verursacher
+des gefährlichen Ereignisses bleibt unberührt.
+
+(5) Die Vorschriften des Verwaltungsverfahrensgesetzes über die
+Ermittlung des Sachverhaltes im Verwaltungsverfahren gelten für die
+Untersuchung gefährlicher Ereignisse im Eisenbahnbetrieb entsprechend.
+Eine Stelle für Eisenbahn-Unfalluntersuchung ist befugt, eine
+Versicherung an Eides statt zu verlangen. Zeugen und Sachverständige
+sind zur Aussage oder zur Erstattung eines Gutachtens verpflichtet; §
+5a Absatz 5 Satz 3 sowie § 65 Absatz 1 Satz 2 des
+Verwaltungsverfahrensgesetzes gelten entsprechend. Zeugen und
+Sachverständige sind auf Antrag nach Maßgabe des Gesetzes über die
+Entschädigung von Zeugen und Sachverständigen zu entschädigen.
+
+(6) Dem Bund obliegt die Untersuchung von gefährlichen Ereignissen im
+Eisenbahnbetrieb auf Eisenbahninfrastrukturen, die seiner
+Eisenbahnaufsicht unterliegen. Der Bund nimmt die Aufgabe der Stelle
+für Eisenbahn-Unfalluntersuchung durch die Bundesstelle für
+Eisenbahnunfalluntersuchung wahr. In allen anderen Fällen liegt die
+Zuständigkeit bei der vom Land bestimmten Stelle.
+
+(7) Die Aufgaben und Befugnisse der für die Strafverfolgung und
+Ahndung von Ordnungswidrigkeiten zuständigen Behörden bleiben
+unberührt.
+
+(8) Die Aufgaben und Befugnisse der für die Gefahrenabwehr zuständigen
+Eisenbahnaufsichtsbehörden bleiben unberührt. Einzelheiten des
+Vorgehens an der Unfallstelle sind in einer Verwaltungsvereinbarung zu
+regeln.
+
+
+## § 5c Erhebung, Verarbeitung und Nutzung von Daten
+
+(1) Eine Stelle für Eisenbahn-Unfalluntersuchung darf im Rahmen ihrer
+Befugnisse nach § 5b Absatz 3 personenbezogene Daten aller an dem
+gefährlichen Ereignis im Eisenbahnbetrieb beteiligten oder von diesem
+betroffenen Personen sowie von Zeugen und anderen Personen, die im
+Rahmen der Untersuchung dieses gefährlichen Ereignisses Aussagen
+machen, erheben, verarbeiten und nutzen, soweit dies für die Erfüllung
+des Untersuchungsauftrags nach § 5b Absatz 1 erforderlich ist. Ebenso
+stellen sie die beteiligten Eisenbahn- und gegebenenfalls
+Straßenfahrzeuge mit identifizierenden Fahrzeug- und Halterdaten fest.
+
+(2) Personenbezogene Daten im Sinne des Absatzes 1 sind
+
+1.  Name und Vorname,
+
+
+2.  Anschrift und Telekommunikationsinformationen,
+
+
+3.  Stellung im Eisenbahnbetrieb oder in der Eisenbahn,
+
+
+4.  die nachgewiesenen Befähigungen gemäß § 54 Absatz 1 Eisenbahn-Bau- und
+    Betriebsordnung,
+
+
+5.  Beruf und beruflicher Werdegang,
+
+
+6.  Betriebsdiensttauglichkeit gemäß § 48 Eisenbahn-Bau- und
+    Betriebsordnung,
+
+
+7.  Angaben zum aktuellen Gesundheitszustand und zu Vorerkrankungen,
+    soweit hierin ein Bezug zum gefährlichen Ereignis gesehen werden kann.
+
+
+
+
+(3) Die nach Absatz 1 oder weiteren Vorschriften dieses Gesetzes
+erhobenen und gespeicherten personenbezogenen Daten, insbesondere
+vertrauliche Erklärungen, sind durch technisch-organisatorische
+Maßnahmen gegen unbefugte Nutzung und dabei insbesondere gegen
+unbefugte Einsichtnahme besonders zu schützen.
+
+(4) Die nach Absatz 1 erhobenen Daten werden entweder automatisiert
+oder nicht automatisiert in Akten gespeichert.
+
+
+## § 5d Vertraulichkeit
+
+(1) Eine Stelle für Eisenbahn-Unfalluntersuchung darf vorbehaltlich
+des § 5e die nachstehenden Informationen und Daten zu keinem anderen
+Zweck als dem einer Untersuchung eines gefährlichen Ereignisses im
+Eisenbahnbetrieb freigeben:
+
+1.  sämtliche Zeugenaussagen und sonstige Erklärungen, Berichte und
+    Aufzeichnungen (Aufzeichnungen), die von der Stelle für Eisenbahn-
+    Unfalluntersuchung im Verlauf der Untersuchung des gefährlichen
+    Ereignisses erfasst oder niedergeschrieben worden sind,
+
+
+2.  Informationen, die die Identität von Personen preisgeben, die im
+    Rahmen der Untersuchung des gefährlichen Ereignisses ausgesagt haben,
+    oder
+
+
+3.  Informationen besonders empfindlicher und privater Natur,
+    einschließlich gesundheitsbezogene Informationen über Personen, die
+    von dem gefährlichen Ereignis betroffen sind.
+
+
+
+
+(2) Die Aufzeichnungen werden in den Untersuchungsbericht oder in
+seine Anhänge nur in zusammengefasster und anonymisierter Form und nur
+dann aufgenommen, wenn sie von Belang für die Analyse des untersuchten
+gefährlichen Ereignisses sind.
+
+(3) Eine Stelle für Eisenbahn-Unfalluntersuchung erteilt ihre
+Zustimmung zur Teilnahme eines bevollmächtigten Vertreters einer
+ausländischen Stelle für Eisenbahn-Unfalluntersuchung, sofern nichts
+anderes vorgeschrieben ist, nur dann, wenn der bevollmächtigende Staat
+zugesichert hat, dass er hinsichtlich der Verfügbarkeit der
+Nachweismittel die Gegenseitigkeit gewährt und dass er im Sinne des
+Abschnitts V der Richtlinie (EU) 2016/798 eine Freigabe der gewonnenen
+Unterlagen und Erkenntnisse nur vornimmt, soweit dies unter den
+Einschränkungen der Absätze 1 und 2 zulässig ist.
+
+(4) Aussagen einer Person im Rahmen der Untersuchung nach diesem
+Abschnitt dürfen nicht zu Lasten des Aussagenden verwertet werden.
+
+
+## § 5e Übermittlung an öffentliche Stellen
+
+(1) Eine Übermittlung der in § 5d Absatz 1 bezeichneten Informationen
+und Daten an öffentliche Stellen ist zulässig, soweit im öffentlichen
+Interesse die Übermittlung für
+
+1.  die Sicherheit im Eisenbahnbetrieb,
+
+
+2.  die Erteilung oder die Entziehung von Sicherheitsbescheinigungen für
+    Eisenbahnverkehrsunternehmen oder Sicherheitsgenehmigungen für
+    Eisenbahninfrastrukturunternehmen,
+
+
+3.  die Durchführung eines Strafverfahrens und die Verfolgung von
+    Ordnungswidrigkeiten im Zusammenhang mit dem gefährlichen Ereignis
+
+
+
+erforderlich ist. Ferner ist eine Übermittlung der in § 5d Absatz 1
+bezeichneten Informationen und Daten an die zuständigen
+Polizeibehörden zum Zweck der Information von Angehörigen der vom
+gefährlichen Ereignis Betroffenen zulässig, soweit dies zur Wahrung
+berechtigter Interessen dieser Personen erforderlich ist.
+
+(2) Im Falle einer nach Absatz 1 zulässigen Übermittlung sind
+personenbezogene Daten in den Aufzeichnungen zu anonymisieren, es sei
+denn, dies wäre mit dem Zweck der Übermittlung unvereinbar. Teile von
+Aufzeichnungen, die im Sinne des § 5d Absatz 2 belanglos und nicht im
+Untersuchungsbericht enthalten sind, werden – ausgenommen im Falle des
+Absatzes 1 Satz 1 Nummer 3 – nicht übermittelt.
+
+(3) Unter den Voraussetzungen des Absatzes 1 kann Akteneinsicht
+gewährt werden, wenn die Übermittlung von Daten einen
+unverhältnismäßigen Aufwand erfordert oder die die Akteneinsicht
+begehrende öffentliche Stelle unter Angaben von Gründen erklärt, dass
+die Übermittlung von Informationen und Daten zur Erfüllung ihrer
+Aufgabe nicht ausreichen würde. Satz 1 gilt entsprechend für
+Angehörige der vom gefährlichen Ereignis Betroffenen, wenn dies für
+ihre Unterrichtung erforderlich ist. § 96 Satz 1 der
+Strafprozessordnung ist entsprechend anzuwenden.
+
+(4) Unter den Voraussetzungen des Absatzes 1 Satz 1 und 2 in
+Verbindung mit Absatz 2 Satz 1 und unter Berücksichtigung des § 5d
+können Akten und Berichte der Bundesstelle auf Ersuchen zur
+Einsichtnahme öffentlichen Stellen übersandt werden, soweit dies für
+Zwecke der Strafverfolgung, für Zwecke der Rechtspflege und für
+Verwaltungsverfahren, die mit dem Ereignis und seinen Folgen in
+unmittelbarem Zusammenhang stehen, erforderlich ist. § 96 Satz 1 der
+Strafprozessordnung ist entsprechend anzuwenden.
+
+(5) Eine Stelle für Eisenbahn-Unfalluntersuchung darf Daten im Sinne
+des § 5c zu den in Absatz 1 Satz 1 genannten Zwecken an ausländische
+Eisenbahn-Unfalluntersuchungsstellen und die Eisenbahnagentur der
+Europäischen Union übermitteln, soweit dies jeweils zur Erfüllung der
+in der Zuständigkeit der empfangenden Stellen liegenden Aufgaben
+erforderlich ist, schutzwürdige Interessen eines Betroffenen nicht
+beeinträchtigt werden und bei den genannten Stellen ein angemessenes
+Datenschutzniveau gewährleistet ist. Der Empfänger ist darauf
+hinzuweisen, dass die übermittelten Daten nur zu dem Zweck verarbeitet
+und genutzt werden dürfen, zu dessen Erfüllung sie ihm übermittelt
+worden sind.
+
+
+## § 5f Aufbewahrungs- und Löschungsfristen
+
+(1) Die Frist für die Aufbewahrung von Akten beträgt bei Unfällen mit
+tödlichem Ausgang 30 Jahre. Alle anderen Akten werden 20 Jahre
+aufbewahrt.
+
+(2) Automatisiert und nicht automatisiert in Dateien gespeicherte
+Daten werden bei Unfällen mit tödlichem Ausgang nach Ablauf von 30
+Jahren, im Übrigen nach Ablauf von 20 Jahren gelöscht.
+
+(3) Die Frist nach den Absätzen 1 und 2 beginnt mit dem Abschluss der
+jeweiligen Untersuchung eines gefährlichen Ereignisses im
+Eisenbahnbetrieb. § 187 Absatz 1 des Bürgerlichen Gesetzbuchs und § 2
+Absatz 1 bis 6, 8 und 9 des Bundesarchivgesetzes sind anzuwenden.
+
+
+## § 6 Erteilen und Versagen der Unternehmensgenehmigung
+
+(1) Ohne Unternehmensgenehmigung darf niemand
+
+1.  Eisenbahnverkehrsdienste erbringen,
+
+
+2.  als Fahrzeughalter selbstständig am Eisenbahnbetrieb teilnehmen oder
 
 
 3.  Schienenwege, Steuerungs- und Sicherungssysteme oder Bahnsteige
@@ -763,133 +1157,251 @@ durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu 500 000 Euro.
 
 
 
-Keiner Genehmigung bedürfen
+Keiner Unternehmensgenehmigung bedürfen der Betreiber einer
+Serviceeinrichtung, einer Werksbahn und Tätigkeiten im Sinne des
+Satzes 1 Nummer 1 und 2, soweit die Eisenbahninfrastruktur einer
+Werksbahn benutzt wird.
 
-1.  nichtöffentliche Eisenbahnverkehrsunternehmen, die ausschließlich
-    Eisenbahnverkehrsleistungen im Güterverkehr erbringen und
-    ausschließlich Eisenbahninfrastrukturen benutzen, die nicht dem
-    öffentlichen Verkehr dienen,
+(2) Sind Anforderungen der §§ 6a bis 6e erfüllt, ist die
+Unternehmensgenehmigung zu erteilen. Die Genehmigung nach Absatz 1
+Satz 1 Nummer 3 wird für eine bestimmte Eisenbahninfrastruktur
+erteilt.
 
+(3) Die Unternehmensgenehmigung kann nur beantragt werden, wenn der
+Antragsteller in Deutschland niedergelassen ist oder dort eine
+juristisch selbstständige Niederlassung betreibt.
 
-2.  Halter von Eisenbahnfahrzeugen, die ausschließlich
-    Eisenbahninfrastrukturen benutzen, die nicht dem öffentlichen Verkehr
-    dienen,
+(4) Die Genehmigungsbehörde entscheidet über den Antrag so bald wie
+möglich, spätestens jedoch drei Monate nach Vorlage aller
+erforderlichen Unterlagen.
 
+(5) Bei der Übernahme des Betriebes einer Eisenbahninfrastruktur darf
+die Unternehmensgenehmigung für das übernehmende
+Eisenbahninfrastrukturunternehmen erst zu dem Zeitpunkt wirksam
+werden, zu dem die Genehmigung des abgebenden
+Eisenbahninfrastrukturunternehmens zurückgenommen, widerrufen oder
+eingeschränkt wird.
 
-3.  nichtöffentliche Eisenbahninfrastrukturunternehmen,
-
-
-4.  öffentliche Eisenbahninfrastrukturunternehmen für das Betreiben von
-    Serviceeinrichtungen einschließlich der Schienenwege und der
-    Steuerungs- und Sicherungssysteme in Serviceeinrichtungen sowie für
-    die mit dem Zugang zu Serviceeinrichtungen verbundenen Leistungen;
-    Satz 1 Nr. 3 bleibt unberührt.
-
-
-
-
-(2) Die Genehmigung wird auf Antrag erteilt, wenn
-
-1.  der Antragsteller als Unternehmer und die für die Führung der
-    Geschäfte bestellten Personen zuverlässig sind,
+(6) Die Unternehmensgenehmigung allein berechtigt nicht zum Zugang zur
+Eisenbahninfrastruktur.
 
 
-2.  der Antragsteller als Unternehmer finanziell leistungsfähig ist,
+## § 6a Bedingungen für den Erhalt einer Unternehmensgenehmigung
+
+Wer einen Antrag auf Erteilung einer Unternehmensgenehmigung stellt,
+muss der zuständigen Genehmigungsbehörde vor Aufnahme seiner Tätigkeit
+nachweisen, dass er den nachstehenden Anforderungen an die
+Zuverlässigkeit, die finanzielle Leistungsfähigkeit und die fachliche
+Eignung genügt. Für diese Zwecke hat der Antragsteller alle
+erforderlichen Angaben zu machen und zu belegen.
 
 
-3.  der Antragsteller als Unternehmer oder die für die Führung der
-    Geschäfte bestellten Personen die erforderliche Fachkunde haben
+## § 6b Anforderungen an die Zuverlässigkeit
+
+(1) Die für die Führung der Geschäfte bestellten Personen und das
+Unternehmen müssen zuverlässig sein.
+
+(2) Eine für die Führung der Geschäfte bestellte Person gilt
+insbesondere dann nicht als zuverlässig, wenn sie rechtskräftig wegen
+Straftaten, einschließlich in Verkehrsvorschriften aufgeführter
+Verstöße oder wegen schwerer oder wiederholter Verstöße gegen arbeits-
+oder sozialrechtliche Pflichten einschließlich der Pflichten aus dem
+Arbeitsschutzrecht oder – im Falle eines Unternehmens, das einen
+grenzüberschreitenden Güterverkehr, der Zollverfahren unterliegt, zu
+betreiben wünscht – gegen zollrechtliche Pflichten zu einer
+Freiheitsstrafe von mindestens einem Jahr verurteilt worden ist.
+
+(3) Ein Unternehmen gilt insbesondere dann nicht als zuverlässig, wenn
+gegen dieses eine Geldbuße von mehr als 100 000 Euro wegen
+schwerwiegender Gesetzesverstöße, einschließlich in
+Verkehrsvorschriften aufgeführter Verstöße oder wegen schwerer oder
+wiederholter Verstöße gegen arbeits- oder sozialrechtliche Pflichten
+einschließlich der Pflichten aus dem Arbeitsschutzrecht oder – im
+Falle eines Unternehmens, das einen grenzüberschreitenden
+Güterverkehr, der Zollverfahren unterliegt, zu betreiben wünscht –
+gegen zollrechtliche Pflichten bestandskräftig festgesetzt wurde.
+
+
+## § 6c Anforderungen an die finanzielle Leistungsfähigkeit
+
+(1) Die Anforderungen an die finanzielle Leistungsfähigkeit sind
+erfüllt, wenn der Antragsteller nachweist, dass er seine tatsächlichen
+und voraussichtlichen Verpflichtungen unter realistischen Annahmen
+über einen Zeitraum von zwölf Monaten für eine Genehmigung nach § 6
+Absatz 1 Satz 1 Nummer 1 oder 2 oder für 60 Monate für eine
+Genehmigung nach § 6 Absatz 1 Satz 1 Nummer 3 erfüllen kann.
+
+(2) Die Genehmigungsbehörde prüft die finanzielle Leistungsfähigkeit
+insbesondere anhand des handelsrechtlichen Jahresabschlusses oder bei
+einem Antragsteller, der keinen Jahresabschluss vorlegen kann, anhand
+einer Vermögensübersicht. Jeder Antragsteller hat mindestens die in
+Anlage 2 genannten Angaben zu machen.
+
+(3) Die finanzielle Leistungsfähigkeit eines Antragstellers ist nicht
+gegeben, wenn ein Insolvenzverfahren eröffnet worden ist oder in
+erheblichem Umfang oder wiederholt Rückstände an Steuern oder
+Sozialversicherungsbeiträgen bestehen, die aus der
+Unternehmenstätigkeit resultieren.
+
+(4) Die Genehmigungsbehörde kann die Vorlage eines Prüfungsberichts
+und geeigneter Unterlagen einer Bank, einer öffentlichen Sparkasse,
+eines Wirtschaftsprüfers oder eines vereidigten Buchprüfers verlangen.
+Diese Unterlagen müssen die in Anlage 2 aufgeführten Angaben
+enthalten.
+
+
+## § 6d Anforderungen an die fachliche Eignung
+
+(1) Die Anforderungen an die fachliche Eignung sind erfüllt, wenn der
+Antragsteller nachweist, dass er über eine Betriebsorganisation
+verfügt oder verfügen wird, die die erforderlichen Kenntnisse oder
+Erfahrungen für eine sichere und zuverlässige betriebliche
+Beherrschung und Überwachung der in der Unternehmensgenehmigung
+genannten Geschäftstätigkeit mitbringt.
+
+(2) Die Anforderungen an die fachliche Eignung sind dann erfüllt, wenn
+die für die Führung der Geschäfte bestellten Personen von der
+zuständigen Aufsichtsbehörde als Betriebsleiter bestätigt sind. Ein
+bestätigter Betriebsleiter gilt als eine für die Führung der Geschäfte
+bestellte Person. Die Sätze 1 und 2 gelten entsprechend für Personen,
+die für ein Sicherheitsmanagementsystem verantwortlich sind, das im
+Rahmen einer Sicherheitsbescheinigung oder Sicherheitsgenehmigung
+zugelassen wurde.
+
+
+## § 6e Nachweis der Zuverlässigkeit und der finanziellen Leistungsfähigkeit
+
+Ist der Antragsteller
+
+1.  die Bundesrepublik Deutschland,
+
+
+2.  ein Land,
+
+
+3.  eine kommunale Gebietskörperschaft oder ein Zusammenschluss kommunaler
+    Gebietskörperschaften oder
+
+
+4.  eine juristische Person, die sich überwiegend in der Hand einer der in
+    den Nummern 1 bis 3 genannten Gebietskörperschaften befindet,
 
 
 
-und damit die Gewähr für eine sichere Betriebsführung bieten.
-Entsprechendes gilt für einen Antragsteller als Halter von
-Eisenbahnfahrzeugen, soweit es die selbstständige Teilnahme am
-Eisenbahnbetrieb betrifft und für die von diesem insoweit mit der
-Führung der Geschäfte bestellten Personen.
-
-(3) Die Genehmigung wird nur erteilt
-
-1.  Eisenbahnverkehrsunternehmen für das Erbringen von
-    Eisenbahnverkehrsleistungen zur Personen- oder Güterbeförderung,
+gilt der Nachweis der Zuverlässigkeit und der finanziellen
+Leistungsfähigkeit als erbracht. Satz 1 gilt auch für die
+Mitgliedstaaten der Europäischen Union und Vertragsstaaten des
+Abkommens vom 2. Mai 1992 über den Europäischen Wirtschaftsraum und
+die entsprechenden Gebietskörperschaften solcher Mitgliedstaaten oder
+Vertragsstaaten.
 
 
-2.  Haltern von Eisenbahnfahrzeugen für die selbstständige Teilnahme am
-    Eisenbahnbetrieb,
+## § 6f Gültigkeit der Unternehmensgenehmigung
+
+(1) Wem nach dem Recht eines anderen Mitgliedstaates der Europäischen
+Union oder eines Vertragsstaates des Abkommens vom 2. Mai 1992 über
+den Europäischen Wirtschaftsraum für Tätigkeiten nach Artikel 17
+Absatz 4 der Richtlinie 2012/34/EU eine Unternehmensgenehmigung
+erteilt wurde, bedarf im Inland für diese Tätigkeiten keiner weiteren
+Unternehmensgenehmigung.
+
+(2) Wem eine Unternehmensgenehmigung im Sinne des Absatzes 1 erteilt
+wurde, muss dem Eisenbahn-Bundesamt vor Aufnahme des Verkehrs auf dem
+Gebiet der Bundesrepublik Deutschland diese Unternehmensgenehmigung
+vorlegen. Zugangsrechte bleiben unberührt.
+
+(3) Die Genehmigungsbehörde kann die von ihr erteilte Genehmigung mit
+der Auflage versehen, dass regelmäßig eine Überprüfung durchzuführen
+ist. Die Frist für die Überprüfung beträgt höchstens fünf Jahre.
 
 
-3.  Eisenbahninfrastrukturunternehmen für das Betreiben einer bestimmten
-    Eisenbahninfrastruktur.
+## § 6g Widerruf, befristete Unternehmensgenehmigung
+
+(1) Die Genehmigungsbehörde kann bei begründetem Zweifel daran, dass
+ein Unternehmen, dem sie eine Unternehmensgenehmigung erteilt hat, die
+Anforderungen der §§ 6a bis 6e erfüllt, jederzeit prüfen, ob es diesen
+Anforderungen tatsächlich nachkommt. Die Genehmigungsbehörde hat die
+Unternehmensgenehmigung zu widerrufen, wenn sie feststellt, dass das
+Unternehmen den Anforderungen nach Satz 1 nicht nachkommt.
+
+(2) Hat eine inländische Genehmigungsbehörde begründeten Zweifel
+daran, dass ein Unternehmen, dem die Genehmigungsbehörde eines anderen
+Mitgliedstaates der Europäischen Union eine Unternehmensgenehmigung
+erteilt hat, die Anforderungen der §§ 6a bis 6e erfüllt, so teilt sie
+der Behörde des anderen Mitgliedstaates ihre Zweifel unverzüglich mit.
+Satz 1 gilt auch für die inländischen Genehmigungsbehörden
+untereinander.
+
+(3) Ungeachtet des Absatzes 1 Satz 2 kann die Genehmigungsbehörde
+davon absehen, die Unternehmensgenehmigung wegen Nichterfüllung der
+Anforderungen an die finanzielle Leistungsfähigkeit zu widerrufen und
+dem Unternehmen zur Wiederherstellung der finanziellen
+Leistungsfähigkeit eine angemessene Frist setzen, wenn die Sicherheit
+nicht gefährdet ist. Satz 1 gilt auch für den Fall einer
+Wiederherstellung der Zuverlässigkeit oder der fachlichen Eignung. Die
+Frist nach Satz 1, auch in Verbindung mit Satz 2, darf sechs Monate
+nicht überschreiten. Ist eine gesetzte Frist verstrichen, ohne dass
+die Wiederherstellung gelungen ist, ist die Genehmigung nach Absatz 1
+Satz 2 zu widerrufen.
+
+(4) Hat ein Unternehmen den Betrieb sechs Monate lang eingestellt oder
+innerhalb von sechs Monaten nach Erteilung einer
+Unternehmensgenehmigung den Betrieb nicht aufgenommen, hat die
+Genehmigungsbehörde zu überprüfen, ob das Unternehmen die
+Anforderungen der §§ 6a bis 6e noch erfüllt. Im Falle der
+Betriebsaufnahme kann ein Unternehmen beantragen, dass unter
+Berücksichtigung der Besonderheit der zu erbringenden Leistungen die
+Frist des Satzes 1 verlängert wird.
+
+(5) Im Falle einer Änderung, die sich auf die Rechtsstellung eines
+Unternehmens auswirkt, insbesondere bei Zusammenschlüssen oder
+Übernahmen, hat es die Genehmigungsbehörde darüber zu unterrichten.
+Die Genehmigungsbehörde hat zu überprüfen, ob das Unternehmen die
+Anforderungen der §§ 6a bis 6e noch erfüllt. Das betreffende
+Unternehmen kann den Betrieb fortsetzen, sofern nicht die
+Genehmigungsbehörde durch Anordnung feststellt, dass die Sicherheit
+gefährdet ist. In einem solchen Fall hat das betreffende Unternehmen
+den Betrieb unverzüglich einzustellen.
+
+(6) Beabsichtigt ein Unternehmen, seine Geschäftstätigkeit erheblich
+zu ändern oder zu erweitern, so hat es die Genehmigungsbehörde darüber
+zu unterrichten. Die Genehmigungsbehörde hat zu überprüfen, ob das
+Unternehmen die Anforderungen der §§ 6a bis 6e noch erfüllt.
+
+(7) Die Genehmigungsbehörde hat bei einem Unternehmen, gegen das ein
+Insolvenzverfahren oder ein ähnliches Verfahren eingeleitet worden
+ist, die Unternehmensgenehmigung zu widerrufen, wenn sie davon
+überzeugt ist, dass innerhalb einer vertretbaren Zeit eine
+erfolgversprechende Sanierung nicht zu erwarten ist.
+
+(8) Die Absätze 1 bis 7 lassen die Befugnisse der zuständigen Behörde
+nach den Vorschriften über Rücknahme und Widerruf von Verwaltungsakten
+in den Verwaltungsverfahrensgesetzen des Bundes und der Länder
+unberührt.
 
 
+## § 6h Unterrichtung der Europäischen Kommission
+
+Wenn eine Genehmigungsbehörde einem Eisenbahnverkehrsunternehmen eine
+Unternehmensgenehmigung erteilt, widerruft oder ändert, unterrichtet
+sie unverzüglich die Europäische Eisenbahnagentur und die anderen
+inländischen Genehmigungsbehörden. Die Genehmigungsbehörden der Länder
+leiten ihre Unterrichtung an die Europäische Eisenbahnagentur über das
+Eisenbahn-Bundesamt.
 
 
-(4) Gültige Genehmigungen öffentlicher Eisenbahnen, die bei
-Inkrafttreten dieses Gesetzes bereits Eisenbahnverkehrsleistungen
-erbringen oder eine Eisenbahninfrastruktur betreiben, gelten fort,
-soweit sie inhaltlich den Anforderungen dieses Gesetzes genügen. Im
-übrigen ist diesen Eisenbahnen auf Antrag die Genehmigung zu erteilen,
-ohne daß die Voraussetzungen des Absatzes 2 geprüft werden. Satz 2
-gilt nur, sofern die Genehmigung innerhalb eines Jahres nach
-Inkrafttreten dieses Gesetzes beantragt wird.
+## § 6i Durchführungsrechtsakte der Europäischen Kommission
 
-(5) Antragsteller kann jedes Unternehmen mit Sitz in der
-Bundesrepublik Deutschland sein.
-
-(6) Die Geltungsdauer der Genehmigung soll in der Regel bei
-
-1.  Eisenbahnverkehrsunternehmen höchstens 15 Jahre,
+Die Vorschriften der §§ 6 bis 6h sind insoweit nicht anzuwenden, als
+ein auf der Grundlage des Artikels 17 Absatz 5 der Richtlinie
+2012/34/EU des Europäischen Parlaments und des Rates vom 21. November
+2012 zur Schaffung eines einheitlichen europäischen Eisenbahnraums
+(ABl. L 343 vom 14.12.2012, S. 32) erlassener Durchführungsrechtsakt
+eine inhaltsgleiche oder entgegenstehende Regelung trifft.
 
 
-2.  Eisenbahninfrastrukturunternehmen höchstens 50 Jahre
+## § 7 (weggefallen)
 
-
-
-betragen.
-
-(7) Die Genehmigungsbehörden unterrichten sich gegenseitig über die
-Erteilung, die Änderung oder den Widerruf von Genehmigungen.
-
-(8) Wer nach dem Recht eines anderen Mitgliedstaates der Europäischen
-Union oder eines Mitgliedstaates des Abkommens vom 2. Mai 1992 über
-den Europäischen Wirtschaftsraum für Tätigkeiten nach Absatz 1 Satz 1
-Nr. 1 oder 2 zugelassen ist, bedarf dafür im Inland keiner Genehmigung
-nach Absatz 1.
-
-(9) Eisenbahnen, die nach dem Recht eines Staates, der nicht Mitglied
-der Europäischen Union oder des Abkommens vom 2. Mai 1992 über den
-Europäischen Wirtschaftsraum ist, zum Eisenbahnverkehr zugelassen
-sind, bedürfen für das Erbringen von Eisenbahnverkehrsleistungen im
-Inland keiner Genehmigung nach Absatz 1, sofern dies zwischenstaatlich
-vereinbart ist.
-
-(10) Die von den Absätzen 8 und 9 erfassten Eisenbahnen und Halter von
-Eisenbahnfahrzeugen müssen dem Eisenbahn-Bundesamt vor Aufnahme des
-Verkehrs auf dem Gebiet der Bundesrepublik Deutschland ihre Zulassung
-nachweisen. § 14 bleibt unberührt.
-
-
-## § 7 Widerruf der Genehmigung
-
-(1) Die Genehmigungsbehörde hat die Genehmigung zu widerrufen, wenn
-eine der Voraussetzungen des § 6 Abs. 2 nicht mehr vorliegt. Wenn zu
-erwarten ist, dass die Wiederherstellung der Voraussetzungen des § 6
-Abs. 2 in vertretbarer Zeit möglich ist, kann die Genehmigungsbehörde
-eine entsprechende Frist zur Wiederherstellung setzen. Verstreicht die
-Frist erfolglos, ist die Genehmigung zu widerrufen, wenn nicht die
-Behörde die Frist verlängert.
-
-(2) Auf Verlangen der Genehmigungsbehörde hat die Eisenbahn den
-Nachweis zu führen, daß die ihr gesetzlich obliegenden
-arbeitsrechtlichen, sozialrechtlichen oder steuerrechtlichen
-Verpflichtungen erfüllt werden. Die Finanzbehörden dürfen den
-Genehmigungsbehörden Mitteilung über die wiederholte Nichterfüllung
-der steuerrechtlichen Verpflichtungen oder die Abgabe der
-Vermögensauskunft nach § 284 der Abgabenordnung machen. Die Mitteilung
-der Finanzbehörden darf nur für Zwecke eines Widerrufsverfahrens
-verwendet werden.
-
-(3) (weggefallen)
 
 
 ## § 7a Sicherheitsbescheinigung und nationale Bescheinigung für Eisenbahnverkehrsunternehmen
@@ -900,7 +1412,7 @@ Eisenbahnbetrieb teilnehmen. Satz 1 gilt nicht für Regionalbahnen, die
 nur im Inland verkehren.
 
 (2) Die Sicherheitsbescheinigung ist für nach Art und räumliche
-Ausdehnung festgelegte Eisenbahnverkehrsleistungen auf schriftlichen
+Ausdehnung festgelegte Eisenbahnverkehrsdienste auf schriftlichen
 Antrag für die betreffenden Schienennetze oder Schienenwege
 öffentlicher Eisenbahninfrastrukturunternehmen zu erteilen, wenn das
 Eisenbahnverkehrsunternehmen den Nachweis erbringt, dass es
@@ -926,7 +1438,7 @@ Eisenbahnverkehrsunternehmen, die
     die zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist, und
 
 
-2.  keine grenzüberschreitenden Eisenbahnverkehrsleistungen erbringen.
+2.  keine grenzüberschreitenden Eisenbahnverkehrsdienste erbringen.
 
 
 
@@ -934,7 +1446,7 @@ Eisenbahnverkehrsunternehmen, die
 (4) Soweit ein Eisenbahnverkehrsunternehmen, das am öffentlichen
 Eisenbahnbetrieb teilzunehmen beabsichtigt, bereits über eine in einem
 anderen Mitgliedstaat der Europäischen Union nach Artikel 10 der
-Richtlinie 2004/49/EG für gleichartige Eisenbahnverkehrsleistungen
+Richtlinie 2004/49/EG für gleichartige Eisenbahnverkehrsdienste
 erteilte Sicherheitsbescheinigung verfügt, darf es im Inland nur mit
 einer zusätzlichen nationalen Bescheinigung am öffentlichen
 Eisenbahnbetrieb teilnehmen. Diese Bescheinigung ist auf Antrag für
@@ -958,8 +1470,8 @@ Eisenbahninfrastrukturunternehmen zu erteilen bei
 
 (5) Soweit ein nichtbundeseigenes Eisenbahnverkehrsunternehmen mit
 Sitz im Inland eine Sicherheitsbescheinigung beantragt, ergeht die
-Entscheidung nach Anhörung der für die Genehmigung nach § 6
-zuständigen Behörde des Landes.
+Entscheidung nach Anhörung der für die Unternehmensgenehmigung nach §
+6 zuständigen Behörde des Landes.
 
 (6) Die Sicherheitsbehörde entscheidet über einen Antrag auf Erteilung
 einer Sicherheitsbescheinigung oder nationalen Bescheinigung nach
@@ -1070,13 +1582,12 @@ Wer
 
 bedarf der Anerkennung durch die zuständige Behörde nach Maßgabe einer
 auf Grund des § 26
-Absatz 1             Satz 1 Nummer 4, 5 und 16 ergangenen
-Rechtsverordnung. Satz 1 gilt nicht für Eisenbahnen, die
-Schulungseinrichtungen nach Satz 1 Nummer 1 betreiben, wenn ihnen eine
-Sicherheitsbescheinigung oder Sicherheitsgenehmigung erteilt worden
-ist oder sie einen Eisenbahnbetriebsleiter bestellt haben, dessen
-Bestellung durch die zuständige Eisenbahnaufsichtsbehörde bestätigt
-worden ist.
+Absatz 1Satz 1 Nummer 4, 5 und 16 ergangenen Rechtsverordnung. Satz 1
+gilt nicht für Eisenbahnen, die Schulungseinrichtungen nach Satz 1
+Nummer 1 betreiben, wenn ihnen eine Sicherheitsbescheinigung oder
+Sicherheitsgenehmigung erteilt worden ist oder sie einen
+Eisenbahnbetriebsleiter bestellt haben, dessen Bestellung durch die
+zuständige Eisenbahnaufsichtsbehörde bestätigt worden ist.
 
 
 ## § 7e Zugang zu Schulungsmöglichkeiten
@@ -1174,6 +1685,15 @@ Anforderungen nach Artikel 4 der Verordnung (EU) Nr. 445/2011 erfüllt,
 soweit sich nicht aus einer Rechtsverordnung auf Grund des § 26 Absatz
 1 Satz 1 Nummer 19 ergänzende Anforderungen ergeben.
 
+(2a) Die Sicherheitsbehörde befreit auf Antrag die für die
+Instandhaltung von Güterwagen, die ausschließlich als militärisches
+Gerät eingesetzt werden, zuständigen Stellen für bis zu fünf Jahre vom
+Erfordernis einer Instandhaltungsstellen-Bescheinigung nach Absatz 1
+Satz 1. Mit der Befreiung sind Ausnahmen zur Registrierung dieser
+Fahrzeuge zu treffen, soweit es die Bestimmung und Zertifizierung der
+für die Instandhaltung von Güterwagen zuständigen Stellen betrifft. §
+4a bleibt mit Ausnahme seines Absatzes 3 unberührt.
+
 (3) Eine Bescheinigung für Instandhaltungsfunktionen kann beantragen,
 wer nach Artikel 4 Absatz 1 Buchstabe b bis d der Verordnung (EU) Nr.
 445/2011 folgende Funktionen oder Teile davon wahrnehmen will:
@@ -1203,259 +1723,41 @@ betreffend die Änderung des Übereinkommens vom 9. Mai 1980 über den
 internationalen Eisenbahnverkehr – COTIF – (BGBl. 2002 II S. 2140).
 
 
-## § 7h Kosten
+## § 7h Gebühren und Auslagen
 
-(1) Für Amtshandlungen sowie Prüfungen und Untersuchungen des
-Eisenbahn-Bundesamtes, der benannten Stellen, der nach § 7d
-anerkannten Personen und Stellen und der Regulierungsbehörde nach
-diesem Gesetz, dem Bundeseisenbahnverkehrsverwaltungsgesetz oder nach
-den auf Grund dieser Gesetze erlassenen Rechtsverordnungen werden
-Kosten erhoben. Die Gebührensätze sind so zu bemessen, dass der mit
-den Amtshandlungen verbundene Personal- und Sachaufwand gedeckt wird.
-Bei begünstigenden Amtshandlungen kann daneben die Bedeutung, der
+(1) Für individuell zurechenbare öffentliche Leistungen des Eisenbahn-
+Bundesamtes, der benannten Stellen, der nach § 7d anerkannten Personen
+und Stellen und der Regulierungsbehörde nach diesem Gesetz, dem
+Bundeseisenbahnverkehrsverwaltungsgesetz, dem
+Schienengüterfernverkehrsnetzförderungsgesetz oder nach den auf Grund
+dieser Gesetze erlassenen Rechtsverordnungen werden Gebühren und
+Auslagen erhoben. Die Gebührensätze sind so zu bemessen, dass der mit
+den individuell zurechenbaren öffentlichen Leistungen verbundene
+Personal- und Sachaufwand gedeckt wird. Bei begünstigenden individuell
+zurechenbaren öffentlichen Leistungen kann daneben die Bedeutung, der
 wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
 (2) Im Falle des Einsatzes von Verwaltungshelfern nach § 5a Absatz 8a
-wird dem Antragsteller die voraussichtliche Höhe der Kosten vorab
-mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen Antrag
-zurückzunehmen oder einzuschränken.
+wird dem Antragsteller die voraussichtliche Höhe der Gebühren und
+Auslagen vorab mitgeteilt. Ihm ist die Möglichkeit einzuräumen, seinen
+Antrag zurückzunehmen oder einzuschränken.
 
 
-## § 8 Geschäftsführung der Eisenbahnen
+## § 8 (weggefallen)
 
-(1) Öffentliche Eisenbahnen müssen in der Leitung, Geschäftsführung
-und Verwaltung sowie hinsichtlich der verwaltungstechnischen und
-wirtschaftlichen Kontrolle sowie der internen Rechnungsführung von
-staatlichen und kommunalen Gebietskörperschaften unabhängig sein. Ihr
-Wirtschaftsplan und ihre Rechnungsführung sind von den Haushalten
-staatlicher oder kommunaler Gebietskörperschaften zu trennen.
 
-(2) Absatz 1 gilt nicht für
 
-1.  Eisenbahnverkehrsunternehmen, die nicht dem Bund gehören und deren
-    Tätigkeit ausschließlich auf den Schienenpersonennahverkehr beschränkt
-    ist,
+## § 9 (weggefallen)
 
 
-2.  Eisenbahninfrastrukturunternehmen, die nicht dem Bund gehören.
 
+## § 9a (weggefallen)
 
 
 
-(3) Betreiber der Schienenwege, bei denen es sich nicht um Eisenbahnen
-des Bundes handelt, müssen, soweit es die Zuweisung von Zugtrassen und
-die Wegeentgelte betrifft, über eine eigene Leitung, Geschäftsführung,
-Verwaltung und Rechnungsführung verfügen.
+## § 9b (weggefallen)
 
-
-## § 9 Getrennte Rechnungslegung, organisatorische Trennung, unabhängige Entscheidungen
-
-(1) Öffentliche Eisenbahnen,
-
-1.  die sowohl Eisenbahnverkehrs- als auch
-    Eisenbahninfrastrukturunternehmen sind,
-
-
-2.
-    a)  die nur Eisenbahnverkehrsunternehmen sind und über ein
-        Mutterunternehmen mit einem Eisenbahninfrastrukturunternehmen, das
-        öffentliche Eisenbahn ist, oder
-
-
-    b)  die nur Eisenbahninfrastrukturunternehmen sind und über ein
-        Mutterunternehmen mit einem Eisenbahnverkehrsunternehmen, das
-        öffentliche Eisenbahn ist, verbunden sind, oder
-
-
-
-
-
-3.  die als Eisenbahnverkehrs- oder Eisenbahninfrastrukturunternehmen
-    Mutter- oder Tochterunternehmen sind im Verhältnis zu einem
-    Eisenbahninfrastruktur- oder Eisenbahnverkehrsunternehmen, das
-    öffentliche Eisenbahn ist,
-
-
-
-haben, auch wenn sie nicht in der Rechtsform einer Kapitalgesellschaft
-betrieben werden, einen Jahresabschluss und einen Lagebericht nach den
-für große Kapitalgesellschaften geltenden Bestimmungen des Zweiten
-Abschnitts des Dritten Buchs des Handelsgesetzbuchs aufzustellen,
-prüfen zu lassen und offen zu legen. Sind die in Satz 1 genannten
-Eisenbahnunternehmen Tochterunternehmen eines zur Aufstellung eines
-Konzernabschlusses verpflichteten Mutterunternehmens, sind § 264 Abs.
-3 und 4 und § 264b des Handelsgesetzbuchs nicht anzuwenden.
-
-(1a) Öffentliche Eisenbahnen nach Absatz 1 Satz 1 Nr. 1 haben in ihrer
-Buchführung beide Bereiche zu trennen; hierzu gehören getrennte Konten
-für die Bereiche Erbringung von Verkehrsleistungen und Betrieb der
-Eisenbahninfrastruktur. Sie haben für jeden Bereich nach Satz 1 und
-für einen außerhalb dieser Bereiche gelegenen Bereich je eine nach
-handelsrechtlichen Grundsätzen aufzustellende zusätzliche Bilanz und
-Gewinn- und Verlustrechnung in den Anhang ihres Jahresabschlusses
-aufzunehmen. Soweit dabei eine direkte Zuordnung zu den einzelnen
-Bereichen nicht möglich ist oder mit unvertretbarem Aufwand verbunden
-wäre, hat die Zuordnung durch Schlüsselung der Konten, die sachgerecht
-und für Dritte nachvollziehbar sein muss, zu erfolgen. Im Anhang zum
-Jahresabschluss sind die Regeln anzugeben, nach denen die Gegenstände
-des Aktiv- und Passivvermögens sowie die ausgewiesenen Aufwendungen
-und Erträge den Konten nach Satz 1 zugewiesen werden. Änderungen
-dieser Regeln in Ausnahmefällen sind zu erläutern und zu begründen.
-
-(1b) Öffentliche Gelder zugunsten eines der beiden Tätigkeitsbereiche
-nach Absatz 1a Satz 1 dürfen nicht auf den anderen übertragen werden.
-Dieses Verbot muss auch in der Rechnungslegung der beiden
-Tätigkeitsbereiche zum Ausdruck kommen. Dies gilt auch für Unternehmen
-nach Absatz 1 Satz 1 Nr. 2 und 3.
-
-(1c) Beide Tätigkeitsbereiche nach Absatz 1a Satz 1 müssen in
-Unternehmen nach Absatz 1 Satz 1 Nr. 1 in organisatorisch voneinander
-getrennten Unternehmensbereichen ausgeübt werden. Entscheidungen über
-den Zugang zur Eisenbahninfrastruktur und das dafür zu entrichtende
-Entgelt sind von dem Unternehmensbereich zu treffen, der die
-Eisenbahninfrastruktur betreibt. § 9a bleibt unberührt.
-
-(1d) Für öffentliche Eisenbahnverkehrsunternehmen, die sowohl
-Eisenbahnverkehrsleistungen im Personenverkehr als auch im
-Güterverkehr erbringen, gilt Absatz 1a entsprechend mit der Maßgabe,
-dass getrennte Konten sowie eine in den Anhang des Jahresabschlusses
-aufzunehmende gesonderte Bilanz und Gewinn- und Verlustrechnung nur
-für den Bereich Schienengüterverkehr aufzustellen sind und an die
-Stelle dieser Bilanz auch eine Vermögensübersicht treten kann.
-Öffentliche Gelder für gemeinwirtschaftliche
-Personenverkehrsleistungen sind in den entsprechenden Buchführungen
-getrennt auszuweisen und dürfen nicht auf Tätigkeitsbereiche
-übertragen werden, die andere Verkehrsleistungen oder sonstige
-Geschäfte betreffen.
-
-(1e) Die zuständige Genehmigungsbehörde kann Befreiungen von den
-Absätzen 1, 1a, 1c und 1d genehmigen, wenn die vom
-Eisenbahninfrastrukturunternehmen betriebenen Schienenwege nach
-Streckenlänge und Betriebsleistung von so geringer Bedeutung sind,
-dass eine Beeinträchtigung des Wettbewerbs nicht zu erwarten ist. Satz
-1 gilt entsprechend für sonstige Eisenbahninfrastruktureinrichtungen.
-
-(2) (weggefallen)
-
-(3) Soweit und solange ein öffentliches Eisenbahnverkehrsunternehmen
-Eisenbahnverkehrsleistungen sowohl in Bereichen, in denen
-gemeinwirtschaftliche Verpflichtungen auferlegt oder vereinbart werden
-können, als auch in anderen Bereichen erbringt, sind die Anforderungen
-des Artikels 1 Abs. 5 Unterabs. 2 Buchstabe a und b der in § 5 Abs. 3
-Nr. 2 genannten Verordnung (EWG) Nr. 1191/69 des Rates zu beachten.
-Auch für die Bereiche, in denen gemeinwirtschaftliche Verpflichtungen
-auferlegt oder vereinbart werden können, ist eine gesonderte Rechnung
-erforderlich. Mindestens muß diese Rechnung den Anforderungen an eine
-Kosten-Erlös-Rechnung und eine Inventur gemäß § 240 des
-Handelsgesetzbuchs genügen. Die Rechnung muß den gleichen Zeitraum wie
-die Jahresabschlüsse umfassen. Im Übrigen gilt Absatz 1b entsprechend.
-
-
-## § 9a Unabhängigkeit des öffentlichen Betreibers der Schienenwege
-
-(1) Öffentliche Betreiber der Schienenwege müssen rechtlich,
-organisatorisch und in ihren Entscheidungen von
-Eisenbahnverkehrsunternehmen unabhängig sein, soweit es Entscheidungen
-über die Zuweisung von Zugtrassen und über die Wegeentgelte betrifft.
-Zur Erreichung der in Satz 1 genannten Ziele sind
-
-1.  aus Eisenbahnen, die sowohl Eisenbahnverkehrsunternehmen als auch
-    Betreiber der Schienenwege sind, beide Bereiche jeweils auf eine oder
-    mehrere gesonderte Gesellschaften auszugliedern;
-
-
-2.  Verträge des Betreibers der Schienenwege mit Dritten so zu gestalten,
-    dass seine organisatorische Selbstständigkeit gewährleistet ist;
-
-
-3.  Entscheidungen über den Netzfahrplan, die sonstige Zuweisung von
-    Zugtrassen und die Entscheidungen über die Wegeentgelte nur von dem
-    Personal des Betreibers der Schienenwege zu treffen, das keine
-    Funktionen in Eisenbahnverkehrsunternehmen oder mit diesen verbundenen
-    Unternehmen ausübt;
-
-
-4.  Weisungen Dritter gegenüber dem Betreiber der Schienenwege oder seinem
-    Personal in Bezug auf Entscheidungen über den Netzfahrplan, die
-    sonstige Zuweisung von Zugtrassen und die Entscheidungen über die
-    Wegeentgelte unzulässig;
-
-
-5.  in Unternehmen gemäß § 9 Abs. 1 Satz 1 Nr. 2 und 3 unternehmensinterne
-    Regelungen zu schaffen, aufrechtzuerhalten und zu veröffentlichen, die
-    die Einflussnahme von Dritten außerhalb des Betreibers der
-    Schienenwege auf die Entscheidungen über den Netzfahrplan, die
-    sonstige Zuweisung von Zugtrassen und Entscheidungen über die
-    Wegeentgelte unterbinden; darin ist insbesondere festzulegen, welche
-    besonderen Pflichten die Mitarbeiter zur Verhinderung solcher
-    Einflussnahme haben; Betreiber der Schienenwege sind zudem auf
-    Verlangen der zuständigen Aufsichtsbehörde verpflichtet, dieser einen
-    Beauftragten zu benennen, der über die Einhaltung der Regelungen
-    wacht; der Beauftragte hat jährlich einen Bericht über die
-    aufgetretenen Problemfälle und die getroffenen Maßnahmen der
-    zuständigen Aufsichtsbehörde vorzulegen;
-
-
-6.  in Unternehmen gemäß § 9 Abs. 1 Satz 1 Nr. 2 und 3 die Aufsichtsräte
-    getrennt zu besetzen; dazu dürfen dem Aufsichtsrat des Betreibers der
-    Schienenwege keine Mitglieder der Aufsichtsräte von Unternehmen gemäß
-    § 9 Abs. 1 Satz 1 Nr. 2 und 3 sowie deren Angehörige angehören; dies
-    gilt auch für sonstige Beteiligungen des Mutterunternehmens.
-
-
-
-
-(2) Stehen Verträge eines öffentlichen Betreibers der Schienenwege den
-Verpflichtungen nach Absatz 1 entgegen, sind diese bis zum 1. November
-2005 diesen Verpflichtungen anzupassen oder zu kündigen. Entsprechen
-Bestimmungen in Verträgen eines öffentlichen Betreibers der
-Schienenwege nicht bis zum 1. November 2005 den Verpflichtungen nach
-Absatz 1, hat die zuständige Aufsichtsbehörde diese insoweit mit
-sofortiger Wirkung zu verbieten.
-
-(3) Die Absätze 1 und 2 gelten nicht für öffentliche Betreiber der
-Schienenwege, soweit diese ausschließlich
-
-1.  nicht mit anderen Schienenwegen vernetzte örtliche und regionale
-    Schienennetze für Eisenbahnverkehrsleistungen im Personenverkehr
-    betreiben,
-
-
-2.  für die Durchführung von Personenverkehrsdiensten im Stadt- oder
-    Vorortverkehr bestimmte Netze betreiben oder
-
-
-3.  regionale Schienennetze betreiben, die von einem
-    Eisenbahnverkehrsunternehmen, dessen Tätigkeit auf den Stadt-, Vorort-
-    oder Regionalverkehr beschränkt ist, ausschließlich für regionale
-    Güterverkehrsdienste genutzt werden.
-
-
-
-
-(4) Wird die Zuweisung von Zugtrassen auf einem Netz nach Absatz 3 Nr.
-3 beantragt, gelten insoweit die Absätze 1 und 2 mit der Maßgabe, dass
-Verträge im Sinne des Absatzes 2 spätestens sechs Monate nach der
-Antragstellung anzupassen sind.
-
-(5) Die zuständige Genehmigungsbehörde kann Befreiungen von den
-Absätzen 1, 2 und 4 genehmigen, wenn ein öffentlicher Betreiber der
-Schienenwege Schienenwege betreibt, die nach Streckenlänge und
-Betriebsleistung von so geringer Bedeutung sind, dass eine
-Beeinträchtigung des Wettbewerbs nicht zu erwarten ist.
-
-(6) Die organschaftliche Haftung der Mitglieder von Organen des
-Mutterunternehmens für Vorgänge in Bereichen, auf die diese Mitglieder
-nach diesem Gesetz keinen Einfluss ausüben dürfen und tatsächlich
-keinen Einfluss ausgeübt haben, ist ausgeschlossen.
-
-
-## § 9b Steuerliche Vorschriften
-
-Rechtsvorgänge im Sinne des Grunderwerbsteuergesetzes, die sich aus
-der Durchführung der §§ 8 bis 9a dieses Gesetzes ergeben, sind von der
-Grunderwerbsteuer befreit.
 
 
 ## § 10 Beförderungspflicht
@@ -1479,19 +1781,28 @@ verpflichtet, wenn
 
 
 
-## § 11 Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen
+## § 11 Abgabe und Stilllegung von Eisenbahninfrastruktureinrichtungen, Betriebspflicht
 
-(1) Beabsichtigt ein öffentliches Eisenbahninfrastrukturunternehmen
-die dauernde Einstellung des Betriebes einer Strecke, eines für die
-Betriebsabwicklung wichtigen Bahnhofs oder die mehr als geringfügige
-Verringerung der Kapazität einer Strecke, so hat es dies bei der
-zuständigen Aufsichtsbehörde zu beantragen. Dabei hat es darzulegen,
-daß ihm der Betrieb der Infrastruktureinrichtung nicht mehr zugemutet
-werden kann und Verhandlungen mit Dritten, denen ein Angebot für die
-Übernahme der Infrastruktureinrichtung durch Verkauf oder Verpachtung
-zu in diesem Bereich üblichen Bedingungen gemacht wurde, erfolglos
-geblieben sind. Bei den Übernahmeangeboten an Dritte sind
-Vorleistungen angemessen zu berücksichtigen.
+(1) Betreiber von Schienenwegen und Betreiber von Serviceeinrichtungen
+sind zum Betrieb ihrer Eisenbahninfrastruktur verpflichtet.
+Beabsichtigt ein öffentliches Eisenbahninfrastrukturunternehmen die
+dauernde Einstellung des Betriebes einer Strecke oder einer
+Serviceeinrichtung, eines für die Betriebsabwicklung wichtigen
+Bahnhofs oder die mehr als geringfügige Verringerung der Kapazität
+einer Strecke, so hat es dies bei der zuständigen Aufsichtsbehörde zu
+beantragen. Dabei hat es darzulegen, daß ihm der Betrieb der
+Infrastruktureinrichtung nicht mehr zugemutet werden kann und
+Verhandlungen mit Dritten, denen ein Angebot für die Übernahme der
+Infrastruktureinrichtung durch Verkauf oder Verpachtung zu in diesem
+Bereich üblichen Bedingungen gemacht wurde, erfolglos geblieben sind.
+Bei den Übernahmeangeboten an Dritte sind Vorleistungen angemessen zu
+berücksichtigen. Die zuständige Aufsichtsbehörde kann bei einem Antrag
+auf dauernde Einstellung des Betriebes einer Serviceeinrichtung
+entscheiden, dass eine Bekanntgabe nach Absatz 1a entbehrlich ist,
+wenn die Serviceeinrichtung in den letzten 24 Monaten vor der
+geplanten Betriebseinstellung nicht zweckentsprechend genutzt wurde
+und kein Antrag auf Nutzung gestellt oder eine entsprechende Absicht
+dem Betreiber bekannt ist.
 
 (1a) Öffentliche Eisenbahninfrastrukturunternehmen haben ihre Absicht
 nach Absatz 1 Satz 1 entweder
@@ -1564,19 +1875,19 @@ für die Beförderung maßgebenden Bestimmungen enthalten. Tarife nach
 Satz 1 müssen gegenüber jedermann in gleicher Weise angewendet werden.
 
 (3) Ohne eine vorherige Genehmigung der Beförderungsbedingungen im
-Schienenpersonenverkehr dürfen Eisenbahnverkehrsleistungen im Sinne
-des § 3 Abs. 1 Nr. 1 nicht erbracht werden. Sofern in der beantragten
-Änderung der Beförderungsbedingungen zu Gunsten des Reisenden von den
-Bestimmungen der Eisenbahn-Verkehrsordnung oder von Vereinbarungen und
-Auflagen nach der Verordnung (EWG) Nr. 1191/69 des Rates abgewichen
-werden soll, ist in dem Antrag darauf besonders hinzuweisen. Die
-Genehmigung der Beförderungsbedingungen berührt nicht die Rechte und
-Pflichten, die ein Eisenbahnverkehrsunternehmen auf Grund einer
-Vereinbarung oder Auferlegung nach der Verordnung (EWG) Nr. 1191/69
-des Rates gegenüber der nach dieser Verordnung zuständigen Behörde
-hat. Die Tarifhoheit liegt beim Bund, soweit es sich um
-Beförderungsbedingungen einer Eisenbahn des Bundes für ihren
-Schienenpersonenfernverkehr handelt, im Übrigen bei den Ländern.
+Schienenpersonenverkehr dürfen Eisenbahnverkehrsdienste im Sinne des §
+3 Abs. 1 Nr. 1 nicht erbracht werden. Sofern in der beantragten
+Änderung der Beförderungsbedingungen von den Bestimmungen der
+Eisenbahn-Verkehrsordnung oder von Vereinbarungen und Auflagen nach
+der Verordnung (EWG) Nr. 1191/69 des Rates abgewichen werden soll, ist
+in dem Antrag darauf besonders hinzuweisen. Die Genehmigung der
+Beförderungsbedingungen berührt nicht die Rechte und Pflichten, die
+ein Eisenbahnverkehrsunternehmen auf Grund einer Vereinbarung oder
+Auferlegung nach der Verordnung (EWG) Nr. 1191/69 des Rates gegenüber
+der nach dieser Verordnung zuständigen Behörde hat. Die Tarifhoheit
+liegt beim Bund, soweit es sich um Beförderungsbedingungen einer
+Eisenbahn des Bundes für ihren Schienenpersonenfernverkehr handelt, im
+Übrigen bei den Ländern.
 
 (4) Eine erforderliche Genehmigung gilt als erteilt,
 
@@ -1625,15 +1936,36 @@ die Abstimmung und den Verbund von Beförderungsentgelten und durch die
 Abstimmung der Fahrpläne dienen. Sie bedürfen zu ihrer Wirksamkeit der
 Anmeldung bei der Genehmigungsbehörde. Für Vereinigungen von
 Unternehmen, die Vereinbarungen, Beschlüsse und Empfehlungen im Sinne
-von Satz 1 treffen, gilt § 20 Abs. 1 des Gesetzes gegen
-Wettbewerbsbeschränkungen entsprechend. Verfügungen der
-Kartellbehörde, die solche Vereinbarungen, Beschlüsse oder
-Empfehlungen betreffen, ergehen im Benehmen mit der zuständigen
+von Satz 1 treffen, gilt § 19 Absatz 1 in Verbindung mit Absatz 2
+Nummer 1des Gesetzes gegen Wettbewerbsbeschränkungen entsprechend.
+Verfügungen der Kartellbehörde, die solche Vereinbarungen, Beschlüsse
+oder Empfehlungen betreffen, ergehen im Benehmen mit der zuständigen
 Genehmigungsbehörde.
 
-(8) Eisenbahnverkehrsunternehmen haben in ihren
+(8) (weggefallen)
+
+
+## § 12a Fahrgastinformationen
+
+(1) Der Betreiber der Schienenwege hat den
+Eisenbahnverkehrsunternehmen und den Betreibern eines Personenbahnhofs
+unverzüglich alle Informationen bereitzustellen, die für die
+Unterrichtung von Kunden erforderlich sind.
+
+(2) Eisenbahnverkehrsunternehmen haben in ihren
 Fahrplaninformationsmedien über Anschlussverbindungen aller Anbieter
 diskriminierungsfrei zu informieren.
+
+(3) Eisenbahninfrastrukturunternehmen, die Zugangsstellen zum
+Schienenpersonenverkehr betreiben, dürfen die jeweils vorhandenen
+Fahrgastinformationen nicht auf Züge einzelner
+Eisenbahnverkehrsunternehmen beschränken. Sie sind darüber hinaus zur
+Erstellung und zum Aushang gültiger gemeinsamer Fahrpläne mit den
+Zügen des öffentlichen Schienenpersonenverkehrs aller
+Eisenbahnverkehrsunternehmen verpflichtet, die ihnen die
+erforderlichen Daten zur Verfügung gestellt haben.
+
+(4) Die Verordnung (EG) Nr. 1371/2007 bleibt unberührt.
 
 
 ## § 13 Anschluß an andere Eisenbahnen
@@ -1641,481 +1973,146 @@ diskriminierungsfrei zu informieren.
 (1) Jede Eisenbahn hat angrenzenden Eisenbahnen mit Sitz in der
 Bundesrepublik Deutschland den Anschluß an ihre Eisenbahninfrastruktur
 unter billiger Regelung der Bedingungen und der Kosten zu gestatten.
-Im übrigen gilt § 14.
+Zugangsrechte nach dem Eisenbahnregulierungsgesetz bleiben unberührt.
 
 (2) Im Falle der Nichteinigung über die Bedingungen des Anschlusses
 sowie über die Angemessenheit der Kosten entscheidet, wenn eine
 Eisenbahn des Bundes beteiligt ist, das Eisenbahn-Bundesamt, in den
 übrigen Fällen die zuständige Landesbehörde.
 
+(3) Eine Werksbahn hat einer angrenzenden Eisenbahn für deren eigenen
+Güterverkehr den Anschluss an ihre Eisenbahninfrastruktur unter
+billiger Regelung der Bedingungen und der Kosten zu gestatten. Dies
+gilt nicht, wenn der angrenzenden Eisenbahn eine Nutzung der
+Infrastruktur aus Gründen des Betriebs der Werksbahn nicht möglich
+ist. Im Falle der Nichteinigung über die Möglichkeit des Anschlusses,
+die Bedingungen des Anschlusses sowie über die Angemessenheit der
+Kosten entscheidet, wenn eine Eisenbahn des Bundes beteiligt ist, das
+Eisenbahn-Bundesamt, in den übrigen Fällen die zuständige
+Landesbehörde.
 
-## § 14 Zugang zur Eisenbahninfrastruktur
 
-(1) Eisenbahninfrastrukturunternehmen sind verpflichtet, die
-diskriminierungsfreie Benutzung der von ihnen betriebenen
-Eisenbahninfrastruktur und die diskriminierungsfreie Erbringung der
-von ihnen angebotenen Leistungen in dem durch eine auf Grund des § 26
-Abs. 1 Nr. 6, 7 und Abs. 4 Nr. 1 ergangenen Rechtsverordnung
-bestimmten Umfang zu gewähren. Dabei ist der vertaktete oder ins Netz
-eingebundene Verkehr angemessen zu berücksichtigen. Betreiber der
-Schienenwege sind nach Maßgabe dieser Verordnung zusätzlich
-verpflichtet, einen Mindestumfang an Leistungen zu erbringen und die
-von ihnen betriebenen Schienenwege sowie die Steuerungs- und
-Sicherungssysteme zur Nutzung bereitzustellen. Die Sätze 1 bis 3
-finden keine Anwendung auf Eisenbahninfrastrukturen, die
-ausschließlich zur Nutzung für den eigenen Güterverkehr betrieben
-werden, sofern es sich nicht um den Schienenzugang zu
-eisenbahnbezogenen Diensten in Terminals und Häfen, die mehr als einen
-Endnutzer bedienen können, handelt. Für nicht mit anderen
-Schienenwegen vernetzte örtliche und regionale Schienennetze, die für
-Eisenbahnverkehrsleistungen im Personenverkehr betrieben werden, kann
-die zuständige Genehmigungsbehörde auf Antrag Befreiungen von allen
-Vorschriften der auf Grund des § 26 Abs. 1 Nr. 6, 7 und Abs. 4 Nr. 1
-ergangenen Rechtsverordnung genehmigen, wenn eine Beeinträchtigung des
-Wettbewerbs nicht zu erwarten ist. Die Genehmigung erlischt, wenn ein
-Zugang beantragt ist. Der Antrag auf Zugang ist der zuständigen
-Genehmigungsbehörde durch den Betreiber der Schienenwege mitzuteilen.
+## § 14 Versicherungspflicht
 
-(2) Zugangsberechtigt sind
+(1) Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen
+sind verpflichtet, eine Haftpflichtversicherung zur Deckung der durch
+Unfälle beim Betrieb einer Eisenbahn verursachten Personenschäden und
+Sachschäden bei einem im Inland zum Betrieb einer solchen
+Haftpflichtversicherung befugten Versicherer abzuschließen und
+aufrechtzuerhalten.
 
-1.  Eisenbahnverkehrsunternehmen mit Sitz im Inland,
+(2) Wagenhalter sind verpflichtet, eine Haftpflichtversicherung zur
+Deckung der durch Unfälle bei der nichtselbstständigen Teilnahme am
+Eisenbahnbetrieb verursachten Personenschäden und Sachschäden bei
+einem im Inland zum Betrieb einer solchen Haftpflichtversicherung
+befugten Versicherer abzuschließen und aufrechtzuerhalten. Satz 1 gilt
+nicht für die Bundesrepublik Deutschland, die anderen Mitgliedstaaten
+der Europäischen Union und die Vertragsstaaten des Abkommens vom 2.
+Mai 1992 über den Europäischen Wirtschaftsraum.
 
 
-2.  Unternehmen mit Sitz im Inland, die Güter durch ein
-    Eisenbahnverkehrsunternehmen befördern lassen wollen,
+## § 14a Ausnahmen von der Versicherungspflicht
 
+(1) Eine Versicherungspflicht nach § 14 Absatz 1 besteht nicht für
 
-3.  die in § 1 Abs. 2 des Regionalisierungsgesetzes genannten Stellen,
+1.  Eisenbahnverkehrsunternehmen,
 
+    a)  die von einem nach § 1 Absatz 3 Nummer 3 des
+        Versicherungsaufsichtsgesetzes von der Versicherungsaufsicht
+        freigestellten Haftpflichtschadenausgleich in gleicher Weise Deckung
+        erhalten,
 
-4.  die in § 15 Abs. 1 genannten Behörden.
 
+    b)  die nicht dem öffentlichen Verkehr dienen, soweit sie die
+        Infrastruktur einer Werksbahn benutzen, oder
 
 
+    c)  die für einen Schaden aus einem Frachtvertrag haften;
 
-(3) Absatz 2 gilt entsprechend für
 
-1.  Eisenbahnverkehrsunternehmen, die unter Artikel 2 der Richtlinie
-    91/440/EWG des Rates vom 29. Juli 1991 zur Entwicklung der
-    Eisenbahnunternehmen der Gemeinschaft (ABl. EG Nr. L 237 S. 25), die
-    zuletzt durch die Richtlinie 2007/58/EG des Europäischen Parlaments
-    und des Rates vom 23. Oktober 2007 (ABl. EU Nr. L 315 S. 44) geändert
-    worden ist, fallen, für das Erbringen von Verkehrsleistungen im
-    grenzüberschreitenden Personenverkehr;
 
 
-2.  Eisenbahnverkehrsunternehmen, die unter Artikel 2 der Richtlinie
-    91/440/EWG fallen, für das Erbringen von Verkehrsleistungen im
-    Güterverkehr;
 
+2.  Eisenbahninfrastrukturunternehmen,
 
-3.  Eisenbahnverkehrsunternehmen auf der Grundlage zwischenstaatlicher
-    Vereinbarungen.
+    a)  die von einem nach § 1 Absatz 3 Nummer 3 des
+        Versicherungsaufsichtsgesetzes von der Versicherungsaufsicht
+        freigestellten Haftpflichtschadenausgleich in gleicher Weise Deckung
+        erhalten,
 
 
+    b)  soweit sie Werksbahn sind oder
 
 
-(3a) Im grenzüberschreitenden Personenverkehr haben die
-Eisenbahnverkehrsunternehmen die Rechte aus Absatz 1, insbesondere das
-Recht, Fahrgäste an beliebigen Bahnhöfen auf dem Gebiet der
-Bundesrepublik Deutschland aufzunehmen oder abzusetzen.
+    c)  die mehrheitlich im Eigentum einer Gebietskörperschaft mit mehr als
+        100 000 Einwohnern oder eines Gemeindeverbandes stehen und die über
+        eine entsprechende Deckung durch selbstschuldnerische Bürgschaft oder
+        gleichwertige Deckungszusage der Gebietskörperschaft oder des
+        Gemeindeverbandes verfügen.
 
-(4) Betreiber von Schienenwegen haben ihre Entgelte nach Maßgabe einer
-auf Grund des § 26 Abs. 1 Nr. 6 und 7 erlassenen Rechtsverordnung so
-zu bemessen, dass die ihnen insgesamt für die Erbringung der
-Pflichtleistungen im Sinne des Absatzes 1 Satz 1 entstehenden Kosten
-zuzüglich einer Rendite, die am Markt erzielt werden kann,
-ausgeglichen werden. Hierbei können sie Aufschläge auf die Kosten, die
-unmittelbar auf Grund des Zugbetriebs anfallen, erheben, wobei sowohl
-je nach den Verkehrsleistungen Schienenpersonenfernverkehr,
-Schienenpersonennahverkehr oder Schienengüterverkehr als auch nach
-Marktsegmenten innerhalb dieser Verkehrsleistungen differenziert
-werden kann und die Wettbewerbsfähigkeit, insbesondere des
-grenzüberschreitenden Schienengüterverkehrs, zu gewährleisten ist. Die
-Höhe der Entgelte darf jedoch im Fall des Satzes 2 bezogen auf ein
-Marktsegment nicht die Kosten, die jeweils unmittelbar auf Grund des
-Zugbetriebs anfallen, zuzüglich einer Rendite, die am Markt erzielt
-werden kann, übersteigen. In der Rechtsverordnung nach § 26 Abs. 1 Nr.
-6 und 7
 
-1.  können Ausnahmen von der Entgeltbemessung nach Satz 1 zugelassen
-    werden, wenn die Kosten anderweitig gedeckt werden, oder
 
 
-2.  kann die zuständige Aufsichtsbehörde befugt werden, durch
-    Allgemeinverfügung im Benehmen mit der Bundesnetzagentur für
-    Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen
-    (Regulierungsbehörde) alle Betreiber der Schienenwege allgemein von
-    der Beachtung der Anforderungen nach Satz 1 freizustellen.
 
 
+Im Falle des Satzes 1 Nummer 2 Buchstabe c muss die
+selbstschuldnerische Bürgschaft oder gleichwertige Deckungszusage
+geschädigten Dritten einen Direktanspruch gegen die
+Gebietskörperschaft oder den Gemeindeverband gewähren; das
+ersatzpflichtige Eisenbahninfrastrukturunternehmen und die
+Gebietskörperschaft oder der Gemeindeverband haften als
+Gesamtschuldner.
 
+(2) Eine Versicherungspflicht nach § 14 Absatz 2 besteht nicht für
+Wagenhalter,
 
-(5) Eisenbahninfrastrukturunternehmen haben ihre Entgelte für den
-Zugang zu Serviceeinrichtungen einschließlich der damit verbundenen
-Leistungen so zu bemessen, dass die Wettbewerbsmöglichkeiten der
-Zugangsberechtigten nicht missbräuchlich beeinträchtigt werden. Eine
-missbräuchliche Beeinträchtigung liegt insbesondere vor, wenn
+1.  die von einem nach § 1 Absatz 3 Nummer 3 des
+    Versicherungsaufsichtsgesetzes von der Versicherungsaufsicht
+    freigestellten Haftpflichtschadenausgleich in gleicher Weise Deckung
+    erhalten oder
 
-1.  Entgelte gefordert werden, welche die entstandenen Kosten für das
-    Erbringen der in Satz 1 genannten Leistungen in unangemessener Weise
-    überschreiten oder
 
+2.  soweit sie die Infrastruktur einer Werksbahn benutzen.
 
-2.  einzelnen Zugangsberechtigten Vorteile gegenüber anderen
-    Zugangsberechtigten eingeräumt werden, soweit hierfür nicht ein
-    sachlich gerechtfertigter Grund vorliegt.
 
 
 
+(3) Von den Bestimmungen des Absatzes 1 Nummer 1 Buchstabe b und
+Nummer 2 Buchstabe b kann für die in § 5 Absatz 1a Nummer 2
+bezeichneten Eisenbahnen durch Landesrecht abgewichen werden.
 
-(6) Einzelheiten des Zugangs, insbesondere hinsichtlich des
-Zeitpunktes und der Dauer der Nutzung, sowie das zu entrichtende
-Entgelt und die sonstigen Nutzungsbedingungen einschließlich die der
-Betriebssicherheit dienenden Bestimmungen sind zwischen den
-Zugangsberechtigten und den Eisenbahninfrastrukturunternehmen nach
-Maßgabe der in Absatz 1 genannten Rechtsverordnung zu vereinbaren.
 
-(7) bis (9) (weggefallen)
+## § 14b Deckungssumme
 
+Die Mindesthöhe der Versicherungssumme beträgt insgesamt 20 Millionen
+Euro je Schadensereignis und muss für jede Versicherungsperiode
+mindestens zweimal zur Verfügung stehen.
 
-## § 14a Rahmenverträge
 
-(1) Vereinbarungen über die Nutzung von Zugtrassen für einen längeren
-Zeitraum als eine Netzfahrplanperiode sind nach Maßgabe der in § 14
-Abs. 1 Satz 1 genannten Rechtsverordnung zu schließen.
+## § 14c Nachweis- und Anzeigepflichten
 
-(2) Jeder Rahmenvertrag mit einer Laufzeit von mehr als fünf Jahren
-bedarf bezüglich der Laufzeit der Genehmigung durch die
-Regulierungsbehörde. Die Genehmigung ist zu erteilen bei einer
-Laufzeit
+(1) Das Bestehen einer Versicherung nach § 14 ist von
+Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen vor
+der Betriebsaufnahme und von Wagenhaltern vor der nichtselbstständigen
+Teilnahme am Eisenbahnbetrieb der nach § 5 zuständigen
+Genehmigungsbehörde nachzuweisen. Diese ist zuständige Stelle nach §
+117 Absatz 2 Satz 1 des Versicherungsvertragsgesetzes.
 
-1.  bis zu zehn Jahren bei Nachweis vertraglicher Bindungen, besonderer
-    Investitionen oder sonstiger vergleichbarer Risiken,
+(2) Das Bestehen einer Versicherung nach § 14 von
+Eisenbahnverkehrsunternehmen ohne Sitz im Inland vor Aufnahme des
+Verkehrs oder von Wagenhaltern ohne Sitz im Inland vor der
+nichtselbstständigen Teilnahme am Eisenbahnbetrieb auf dem Gebiet der
+Bundesrepublik Deutschland ist dem Eisenbahn-Bundesamt nachzuweisen.
+Dieses ist zuständige Stelle im Sinne des § 117 Absatz 2 Satz 1 des
+Versicherungsvertragsgesetzes.
 
 
-2.  bis zu 15 Jahren, sofern der Rahmenvertrag über Verkehrsleistungen auf
-    besonderen Fahrwegen im Sinne des Artikels 24 der Richtlinie
-    2001/14/EG geschlossen werden soll, bei Nachweis erheblicher und
-    langfristiger Investitionen, die dem Rahmenvertrag zu Grunde liegen,
+## § 14d Auskunftspflicht
 
-
-3.  von mehr als 15 Jahren, sofern der Rahmenvertrag über
-    Verkehrsleistungen auf besonderen Fahrwegen im Sinne des Artikels 24
-    der Richtlinie 2001/14/EG geschlossen werden soll, bei Nachweis
-    umfangreicher und langfristiger Investitionen, sofern die
-    Investitionen mit vertraglichen Verpflichtungen, einschließlich eines
-    mindestens den Zeitraum des Rahmenvertrages umfassenden
-    Abschreibungsplans, einhergehen.
-
-
-
-Die Sätze 1 und 2 gelten nicht für Rahmenverträge mit
-Zugangsberechtigten nach § 14 Abs. 2 Nr. 3 und 4.
-
-
-## § 14b Aufgaben der Regulierungsbehörde
-
-(1) Der Regulierungsbehörde obliegt die Aufgabe, die Einhaltung der
-Vorschriften des Eisenbahnrechts über den Zugang zur
-Eisenbahninfrastruktur zu überwachen, insbesondere hinsichtlich
-
-1.  der Erstellung des Netzfahrplans, dies gilt insbesondere für
-    Entscheidungen über die Zuweisung von Zugtrassen für den Netzfahrplan
-    einschließlich der Pflichtleistungen,
-
-
-2.  der sonstigen Entscheidungen über die Zuweisung von Zugtrassen
-    einschließlich der Pflichtleistungen,
-
-
-3.  des Zugangs zu Serviceeinrichtungen einschließlich der damit
-    verbundenen Leistungen,
-
-
-4.  der Benutzungsbedingungen, der Entgeltgrundsätze und der Entgelthöhen,
-
-
-5.  der Zugangsberechtigung im grenzüberschreitenden Personenverkehr.
-
-
-
-
-(2) Die Aufgaben und Zuständigkeiten der Kartellbehörden nach dem
-Gesetz gegen Wettbewerbsbeschränkungen bleiben unberührt. Die
-Regulierungsbehörde und die Eisenbahnaufsichtsbehörden sowie die
-Kartellbehörden und die nach dem Telekommunikationsgesetz und dem
-Energiewirtschaftsgesetz zuständigen Regulierungsbehörden teilen
-einander Informationen mit, die für die Erfüllung der jeweiligen
-Aufgaben von Bedeutung sein können. Insbesondere sollen sie sich
-gegenseitig über beabsichtigte Entscheidungen informieren, mit denen
-ein missbräuchliches oder diskriminierendes Verhalten von
-Eisenbahninfrastrukturunternehmen untersagt werden soll. Sie sollen
-einander Gelegenheit zur Stellungnahme geben, bevor das Verfahren von
-der zuständigen Behörde abgeschlossen wird.
-
-(3) Die Regulierungsbehörde und das Eisenbahn-Bundesamt sind
-verpflichtet, anderen Regulierungsstellen der Mitgliedstaaten der
-Europäischen Union Informationen über ihre Arbeit, ihre
-Entscheidungsgrundsätze und ihre Entscheidungspraxis zu übermitteln
-mit dem Ziel, zur Koordinierung der Entscheidungsgrundsätze in der
-gesamten Union beizutragen.
-
-(4) Die Regulierungsbehörde erstellt für jede Fahrplanperiode einen
-Bericht über ihre Tätigkeit sowie über die Lage und Entwicklung auf
-ihrem Aufgabengebiet für die Bundesregierung. Die Bundesregierung
-leitet den Bericht der Regulierungsbehörde dem Deutschen Bundestag
-unverzüglich zu; sie kann dem Bericht eine Stellungnahme beifügen.
-
-
-## § 14c Allgemeine Befugnisse der Regulierungsbehörde
-
-(1) Die Regulierungsbehörde kann in Wahrnehmung ihrer Aufgaben
-gegenüber öffentlichen Eisenbahninfrastrukturunternehmen die Maßnahmen
-treffen, die zur Beseitigung festgestellter Verstöße und zur Verhütung
-künftiger Verstöße gegen die Vorschriften des Eisenbahnrechts über den
-Zugang zur Eisenbahninfrastruktur erforderlich sind.
-
-(2) Die Zugangsberechtigten, die öffentlichen
-Eisenbahninfrastrukturunternehmen und die für sie tätigen Personen
-müssen der Regulierungsbehörde und ihren Beauftragten zur Durchführung
-ihrer Aufgaben gestatten,
-
-1.  Geschäftsräume und Betriebsanlagen innerhalb der üblichen Geschäfts-
-    und Arbeitsstunden zu betreten und
-
-
-2.  Bücher, Geschäftspapiere, Dateien und sonstige Unterlagen einzusehen
-    sowie diese auf geeigneten Datenträgern zur Verfügung zu stellen.
-
-
-
-
-(3) Die Zugangsberechtigten, die öffentlichen
-Eisenbahninfrastrukturunternehmen und die für sie tätigen Personen
-haben der Regulierungsbehörde und ihren Beauftragten alle für die
-Durchführung ihrer Aufgaben erforderlichen
-
-1.  Auskünfte zu erteilen,
-
-
-2.  Nachweise zu erbringen,
-
-
-3.  Hilfsmittel zu stellen und Hilfsdienste zu leisten.
-
-
-
-Dies gilt auch in Bezug auf laufende oder abgeschlossene Verhandlungen
-über die Höhe von Wege- und sonstigen Entgelten. Die Auskünfte sind
-wahrheitsgemäß und nach bestem Wissen zu erteilen. Der zur Auskunft
-Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren
-Beantwortung ihn selbst oder einen der in § 383 Abs. 1 Nr. 1 bis 3 der
-Zivilprozessordnung bezeichneten Angehörigen der Gefahr
-strafrechtlicher Verfolgung oder eines Verfahrens wegen einer
-Ordnungswidrigkeit aussetzen würde.
-
-(4) Die Regulierungsbehörde kann ihre Anordnungen nach diesem Gesetz
-nach den für die Vollstreckung von Verwaltungsmaßnahmen geltenden
-Vorschriften durchsetzen. Die Höhe des Zwangsgeldes beträgt bis zu
-500\.000 Euro.
-
-
-## § 14d Besondere Mitteilungspflichten der öffentlichen Eisenbahninfrastrukturunternehmen
-
-Die öffentlichen Eisenbahninfrastrukturunternehmen haben die
-Regulierungsbehörde zu unterrichten über
-
-1.  die beabsichtigte Entscheidung über die Zuweisung von Zugtrassen für
-    den Netzfahrplan einschließlich der Pflichtleistungen, sofern Anträge
-    abgelehnt werden sollen,
-
-
-2.  die beabsichtigte Entscheidung über die Zuweisung von Zugtrassen
-    einschließlich der Pflichtleistungen außerhalb der Erstellung des
-    Netzfahrplans, sofern Anträge abgelehnt werden sollen,
-
-
-3.  die beabsichtigte Entscheidung über den Zugang zu Serviceeinrichtungen
-    einschließlich der damit verbundenen Leistungen, sofern Anträge
-    abgelehnt werden sollen,
-
-
-4.  die beabsichtigte Entscheidung über den Abschluss eines
-    Rahmenvertrags,
-
-
-5.  die beabsichtigte Entscheidung, die Zugangsberechtigten aufzufordern,
-    ein Entgelt anzubieten, das über dem Entgelt liegt, das auf der
-    Grundlage der Schienennetz-Benutzungsbedingungen zu zahlen wäre,
-
-
-6.  die beabsichtigte Neufassung oder Änderung von Schienennetz-
-    Benutzungsbedingungen und von Nutzungsbedingungen für
-    Serviceeinrichtungen einschließlich der jeweils vorgesehenen
-    Entgeltgrundsätze und Entgelthöhen.
-
-
-
-Die beabsichtigten Entscheidungen nach Satz 1 Nr. 1 bis 5 sind zu
-begründen. Betreiber der Schienenwege haben dabei auch die
-Übereinstimmung ihrer Entgeltfestsetzung mit § 14 Abs. 4 darzulegen.
-
-
-## § 14e Vorabprüfung durch die Regulierungsbehörde
-
-(1) Die Regulierungsbehörde kann nach Eingang einer Mitteilung nach §
-14d innerhalb von
-
-1.  zehn Arbeitstagen der beabsichtigten Entscheidung nach § 14d Satz 1
-    Nr. 1, 3 und 5,
-
-
-2.  einem Arbeitstag der beabsichtigten Entscheidung nach § 14d Satz 1 Nr.
-    2,
-
-
-3.  vier Wochen der beabsichtigten Entscheidung nach § 14d Satz 1 Nr. 4,
-
-
-4.  vier Wochen der beabsichtigten Neufassung oder Änderung nach § 14d
-    Satz 1 Nr. 6
-
-
-
-widersprechen, soweit die beabsichtigten Entscheidungen nicht den
-Vorschriften des Eisenbahnrechts über den Zugang zur
-Eisenbahninfrastruktur entsprechen.
-
-(2) Vor Ablauf der
-
-1.  in Absatz 1 Nr. 1 bis 3 genannten Fristen kann die beabsichtigte
-    Entscheidung dem Zugangsberechtigten nicht wirksam mitgeteilt werden,
-
-
-2.  in Absatz 1 Nr. 4 genannten Frist dürfen die Schienennetz-
-    Benutzungsbedingungen oder die Nutzungsbedingungen von
-    Serviceeinrichtungen sowie Entgeltgrundsätze und die Festlegung der
-    Entgelthöhen nicht in Kraft treten.
-
-
-
-
-(3) Übt die Regulierungsbehörde ihr Widerspruchsrecht aus,
-
-1.  ist im Fall des Absatzes 1 Nr. 1 bis 3 unter Beachtung der Vorgaben
-    der Regulierungsbehörde zu entscheiden,
-
-
-2.  treten im Fall des Absatzes 1 Nr. 4 die Schienennetz-
-    Benutzungsbedingungen oder die Nutzungsbedingungen von
-    Serviceeinrichtungen einschließlich der vorgesehenen Entgeltgrundsätze
-    und Entgelthöhen insoweit nicht in Kraft.
-
-
-
-
-(4) Die Regulierungsbehörde kann auf eine Mitteilung nach § 14d ganz
-oder teilweise im Voraus verzichten. Sie kann ihren Verzicht auf
-einzelne öffentliche Eisenbahninfrastrukturunternehmen beschränken.
-Dies gilt insbesondere, wenn eine Beeinträchtigung des Wettbewerbs
-nicht zu erwarten ist.
-
-
-## § 14f Nachträgliche Prüfung durch die Regulierungsbehörde
-
-(1) Die Regulierungsbehörde kann von Amts wegen
-
-1.  Schienennetz-Benutzungsbedingungen und die Nutzungsbedingungen für
-    Serviceeinrichtungen,
-
-
-2.  Regelungen über die Höhe oder Struktur der Wegeentgelte und sonstiger
-    Entgelte
-
-
-
-eines Eisenbahninfrastrukturunternehmens überprüfen. Die
-Regulierungsbehörde kann mit Wirkung für die Zukunft
-
-1.  das Eisenbahninfrastrukturunternehmen zur Änderung der Bedingungen
-    nach Satz 1 Nr. 1 oder der Entgeltregelungen nach Satz 1 Nr. 2 nach
-    ihren Maßgaben verpflichten oder
-
-
-2.  Bedingungen nach Satz 1 Nr. 1 oder Entgeltregelungen nach Satz 1 Nr. 2
-    für ungültig erklären,
-
-
-
-soweit diese nicht den Vorschriften des Eisenbahnrechts über den
-Zugang zur Eisenbahninfrastruktur entsprechen.
-
-(2) Kommt eine Vereinbarung über den Zugang nach § 14 Abs. 6 oder über
-einen Rahmenvertrag nach § 14a nicht zustande, können die
-Entscheidungen des Eisenbahninfrastrukturunternehmens durch die
-Regulierungsbehörde auf Antrag oder von Amts wegen überprüft werden.
-Antragsberechtigt sind die Zugangsberechtigten, deren Recht auf Zugang
-zur Eisenbahninfrastruktur beeinträchtigt sein kann. Der Antrag ist
-innerhalb der Frist zu stellen, in der das Angebot zum Abschluss von
-Vereinbarungen nach Satz 1 angenommen werden kann. Überprüft werden
-können insbesondere
-
-1.  die Schienennetz-Benutzungsbedingungen und die Nutzungsbedingungen für
-    Serviceeinrichtungen,
-
-
-2.  das Zuweisungsverfahren und dessen Ergebnis,
-
-
-3.  die Höhe oder Struktur der Wege- und sonstigen Entgelte.
-
-
-
-Die Regulierungsbehörde hat die Beteiligten aufzufordern, innerhalb
-einer angemessenen Frist, die zwei Wochen nicht überschreiten darf,
-alle erforderlichen Auskünfte zu erteilen. Nach Ablauf dieser Frist
-hat die Regulierungsbehörde über den Antrag binnen zwei Monaten zu
-entscheiden.
-
-(3) Beeinträchtigt im Fall des Absatzes 2 die Entscheidung eines
-Eisenbahninfrastrukturunternehmens das Recht des Antragstellers auf
-Zugang zur Eisenbahninfrastruktur,
-
-1.  verpflichtet die Regulierungsbehörde das
-    Eisenbahninfrastrukturunternehmen zur Änderung der Entscheidung oder
-
-
-2.  legt die Regulierungsbehörde die Vertragsbedingungen fest, entscheidet
-    über die Geltung des Vertrags und erklärt entgegenstehende Verträge
-    für unwirksam.
-
-
-
-
-
-## § 14g Zugangsrecht im grenzüberschreitenden Personenverkehr
-
-(1) Wer beabsichtigt, den Zugang zur Eisenbahninfrastruktur im
-grenzüberschreitenden Personenverkehr bei einem
-Eisenbahninfrastrukturunternehmen zu beantragen, hat mindestens zwei
-Monate vor Antragstellung bei der Regulierungsbehörde schriftlich
-einen Antrag auf Feststellung der Zugangsberechtigung zu stellen.
-
-(2) Die Zugangsberechtigung ist gegeben, wenn der Hauptzweck der
-Eisenbahnverkehrsleistungen in der Beförderung von Fahrgästen zwischen
-Bahnhöfen in verschiedenen Mitgliedstaaten liegt. Der Hauptzweck wird
-vermutet, wenn die Mehrzahl der Beförderungen von Fahrgästen zwischen
-Bahnhöfen in verschiedenen Mitgliedstaaten erbracht wird.
-
-(3) Die Regulierungsbehörde entscheidet über den Antrag innerhalb von
-zwei Monaten nach Eingang. Die Regulierungsbehörde kann die Vorlage
-weiterer Unterlagen verlangen, soweit dies zur Prüfung der
-Voraussetzungen nach Absatz 2 geboten ist. Satz 1 gilt nicht, wenn die
-Regulierungsbehörde wegen unrichtiger Angaben oder wegen einer nicht
-rechtzeitig erteilten Auskunft nicht über den Antrag entscheiden kann
-und sie dies dem die Feststellung Beantragenden vor Ablauf der Frist
-unter Angabe von Gründen mitgeteilt hat.
+Eisenbahnverkehrsunternehmen müssen auf Verlangen des
+Eisenbahninfrastrukturunternehmens, dessen Infrastruktur sie benutzen,
+Wagenhalter auf Verlangen der betriebsführenden Eisenbahn eine
+Bestätigung über das Bestehen einer Versicherung nach § 14 vorlegen.
 
 
 ## § 15 Gemeinwirtschaftliche Leistungen
@@ -2214,119 +2211,24 @@ bis 78 des Verwaltungsverfahrensgesetzes nach Maßgabe dieses Gesetzes.
 Für das Anhörungsverfahren gilt § 73 des Verwaltungsverfahrensgesetzes
 mit folgenden Maßgaben:
 
-1.  Die Auslegung nach § 73 Abs. 2 des Verwaltungsverfahrensgesetzes
-    erfolgt in den Gemeinden, in denen sich das Vorhaben voraussichtlich
-    auswirkt.
+1.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet keine
+    Erörterung statt, so hat die Anhörungsbehörde ihre Stellungnahme
+    innerhalb von sechs Wochen nach Ablauf der Einwendungsfrist abzugeben
+    und zusammen mit den sonstigen in § 73 Absatz 9 des
+    Verwaltungsverfahrensgesetzes aufgeführten Unterlagen der
+    Planfeststellungsbehörde zuzuleiten.
 
 
-2.  Die Anhörungsbehörde benachrichtigt innerhalb der Frist des § 73 Abs.
-    2 des Verwaltungsverfahrensgesetzes die vom Bund oder Land anerkannten
-    Naturschutzvereinigungen sowie sonstige Vereinigungen, soweit diese
-    sich für den Umweltschutz einsetzen und nach in anderen gesetzlichen
-    Vorschriften zur Einlegung von Rechtsbehelfen in Umweltangelegenheiten
-    vorgesehenen Verfahren anerkannt sind, (Vereinigungen) von der
-    Auslegung des Plans und gibt ihnen Gelegenheit zur Stellungnahme. Die
-    Benachrichtigung erfolgt durch die ortsübliche Bekanntmachung der
-    Auslegung nach § 73 Abs. 5 Satz 1 des Verwaltungsverfahrensgesetzes in
-    den Gemeinden nach Nummer 1. Unbeschadet davon bleibt die Beteiligung
-    anderer Vereinigungen nach den allgemeinen Vorschriften.
-
-
-3.  Für Vereinigungen gilt § 73 Abs. 4 des Verwaltungsverfahrensgesetzes
-    entsprechend. § 73 Abs. 6 des Verwaltungsverfahrensgesetzes gilt
-    entsprechend, wenn die Vereinigungen fristgerecht Stellung genommen
-    haben. Sie sind von dem Erörterungstermin zu benachrichtigen.
-
-
-4.  Nicht ortsansässige Betroffene, deren Person und Aufenthalt bekannt
-    sind, sollen auf Veranlassung der Anhörungsbehörde von der Auslegung
-    in der Gemeinde mit dem Hinweis nach § 73 Abs. 5 Satz 2 des
-    Verwaltungsverfahrensgesetzes benachrichtigt werden.
-
-
-5.  Die Anhörungsbehörde kann auf eine Erörterung verzichten. Findet eine
-    Erörterung statt, so hat die Anhörungsbehörde die Erörterung innerhalb
-    von drei Monaten nach Ablauf der Einwendungsfrist abzuschließen. Die
-    Anhörungsbehörde gibt ihre Stellungnahme innerhalb eines Monats nach
-    Abschluss der Erörterung ab und leitet sie innerhalb dieser Frist mit
-    dem Plan, den Stellungnahmen der Behörden, den Stellungnahmen der
-    Vereinigungen und den nicht erledigten Einwendungen der
-    Planfeststellungsbehörde zu. Findet keine Erörterung statt, so hat die
-    Anhörungsbehörde ihre Stellungnahme innerhalb von sechs Wochen nach
-    Ablauf der Einwendungsfrist abzugeben und zusammen mit den sonstigen
-    in Satz 2 aufgeführten Unterlagen der Planfeststellungsbehörde
-    zuzuleiten.
-
-
-6.  Soll ein ausgelegter Plan geändert werden, so sind auch Vereinigungen
-    entsprechend § 73 Abs. 8 Satz 1 des Verwaltungsverfahrensgesetzes zu
-    beteiligen. Für Vereinigungen, die sich nicht in der sich aus Nummer 3
-    in Verbindung mit § 73 Abs. 4 Satz 1 des Verwaltungsverfahrensgesetzes
-    ergebenden Frist geäußert haben, und im Falle des § 73 Abs. 8 Satz 2
-    des Verwaltungsverfahrensgesetzes erfolgt die Benachrichtigung von der
-    Planänderung und der Frist zur Stellungnahme in entsprechender
-    Anwendung der Nummer 2 Satz 2. Im Regelfall kann von der Erörterung im
-    Sinne des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9
-    Abs. 1 Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung
-    abgesehen werden.
-
-
-7.  Einwendungen gegen den Plan oder – im Falle des § 73 Abs. 8 des
-    Verwaltungsverfahrensgesetzes – dessen Änderung sind nach Ablauf der
-    Einwendungsfrist ausgeschlossen. Einwendungen und Stellungnahmen der
-    Vereinigungen sind nach Ablauf der Äußerungsfrist nach den Nummern 3
-    und 6 ausgeschlossen. Auf die Rechtsfolgen der Sätze 1 und 2 ist in
-    der Bekanntmachung der Auslegung oder bei der Bekanntgabe der
-    Einwendungs- oder Stellungnahmefrist sowie in der Benachrichtigung der
-    Vereinigungen hinzuweisen. Abweichend von § 73 Abs. 3a Satz 2 des
-    Verwaltungsverfahrensgesetzes können Stellungnahmen der Behörden, die
-    nach Ablauf der Frist des § 73 Abs. 3a Satz 1 des
-    Verwaltungsverfahrensgesetzes eingehen, auch noch nach Fristablauf
-    berücksichtigt werden; sie sind stets zu berücksichtigen, wenn später
-    von einer Behörde vorgebrachte öffentliche Belange der
-    Planfeststellungsbehörde auch ohne ihr Vorbringen bekannt sind oder
-    hätten bekannt sein müssen oder für die Rechtmäßigkeit der
-    Entscheidung von Bedeutung sind.
+2.  Soll ein ausgelegter Plan geändert werden, so kann im Regelfall von
+    der Erörterung im Sinne des § 73 Absatz 6 des
+    Verwaltungsverfahrensgesetzes und des § 18 Absatz 1 Satz 4 des
+    Gesetzes über die Umweltverträglichkeitsprüfung abgesehen werden.
 
 
 
 
 
-## § 18b Planfeststellungsbeschluss, Plangenehmigung
-
-Für Planfeststellungsbeschluss und Plangenehmigung gilt § 74 des
-Verwaltungsverfahrensgesetzes mit folgenden Maßgaben:
-
-1.  § 74 Abs. 6 des Verwaltungsverfahrensgesetzes – auch in Verbindung mit
-    Nummer 2 – gilt nur, wenn zusätzlich zu den dort genannten
-    Voraussetzungen für das Vorhaben nach dem Gesetz über die
-    Umweltverträglichkeitsprüfung keine Umweltverträglichkeitsprüfung
-    durchzuführen ist.
-
-
-2.  Ergänzend zu § 74 Abs. 6 Satz 1 Nr. 1 des
-    Verwaltungsverfahrensgesetzes kann eine Plangenehmigung auch dann
-    erteilt werden, wenn Rechte anderer nur unwesentlich beeinträchtigt
-    werden.
-
-
-3.  Die Plangenehmigung hat die Rechtswirkungen der Planfeststellung.
-
-
-4.  Fälle unwesentlicher Bedeutung im Sinne des § 74 Abs. 7 des
-    Verwaltungsverfahrensgesetzes liegen nur vor, wenn es sich bei dem
-    Vorhaben zusätzlich nicht um ein Vorhaben handelt, für das nach dem
-    Gesetz über die Umweltverträglichkeitsprüfung eine
-    Umweltverträglichkeitsprüfung durchzuführen ist.
-
-
-5.  Planfeststellungsbeschluss und Plangenehmigung sind dem Träger des
-    Vorhabens, den Vereinigungen, über deren Einwendungen und
-    Stellungnahmen entschieden worden ist, und denjenigen, über deren
-    Einwendungen entschieden worden ist, mit Rechtsbehelfsbelehrung
-    zuzustellen.
-
-
+## § 18b (weggefallen)
 
 
 
@@ -2351,11 +2253,7 @@ Für die Rechtswirkungen der Planfeststellung und Plangenehmigung gilt
     Planfeststellungsbeschluss entsprechend anzuwenden.
 
 
-4.  Als Beginn der Durchführung des Plans gilt jede erstmals nach außen
-    erkennbare Tätigkeit von mehr als nur geringfügiger Bedeutung zur
-    plangemäßen Verwirklichung des Vorhabens; eine spätere Unterbrechung
-    der Verwirklichung des Vorhabens berührt den Beginn der Durchführung
-    nicht.
+4.  (weggefallen)
 
 
 
@@ -2368,8 +2266,8 @@ Abs. 1a Satz 2 des Verwaltungsverfahrensgesetzes und für die
 Planänderung vor Fertigstellung des Vorhabens gilt § 76 des
 Verwaltungsverfahrensgesetzes mit der Maßgabe, dass im Falle des § 76
 Abs. 1 des Verwaltungsverfahrensgesetzes von einer Erörterung im Sinne
-des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 9 Abs. 1
-Satz 3 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
+des § 73 Abs. 6 des Verwaltungsverfahrensgesetzes und des § 18 Absatz
+1 Satz 4 des Gesetzes über die Umweltverträglichkeitsprüfung abgesehen
 werden kann. Im Übrigen gelten für das neue Verfahren die Vorschriften
 dieses Gesetzes.
 
@@ -2397,7 +2295,7 @@ die wegen
 
 
 
-in der Anlage aufgeführt sind.
+in der Anlage 1 aufgeführt sind.
 
 (2) Die Anfechtungsklage gegen einen Planfeststellungsbeschluss oder
 eine Plangenehmigung für den Bau oder die Änderung von Betriebsanlagen
@@ -2439,15 +2337,7 @@ Begründung seiner Klage dienenden Tatsachen und Beweismittel
 anzugeben. § 87b Abs. 3 der Verwaltungsgerichtsordnung gilt
 entsprechend.
 
-(6) Mängel bei der Abwägung der von dem Vorhaben berührten
-öffentlichen und privaten Belange sind nur erheblich, wenn sie
-offensichtlich und auf das Abwägungsergebnis von Einfluss gewesen
-sind. Erhebliche Mängel bei der Abwägung oder eine Verletzung von
-Verfahrens- oder Formvorschriften führen nur dann zur Aufhebung des
-Planfeststellungsbeschlusses oder der Plangenehmigung, wenn sie nicht
-durch Planergänzung oder durch ein ergänzendes Verfahren behoben
-werden können; die §§ 45 und 46 des Verwaltungsverfahrensgesetzes
-bleiben unberührt.
+(6) (weggefallen)
 
 
 ## § 19 Veränderungssperre, Vorkaufsrecht
@@ -2609,7 +2499,7 @@ Regionalplanung sind zu unterrichten.
 ## § 25 Besetzungszeiten von Arbeitsplätzen
 
 Öffentliche Eisenbahnen entscheiden allein darüber, zu welchen Zeiten
-Arbeitsplätze für das Erbringen von Eisenbahnverkehrsleistungen sowie
+Arbeitsplätze für das Erbringen von Eisenbahnverkehrsdiensten sowie
 für die Aufrechterhaltung und für den Betrieb der
 Eisenbahninfrastruktur nach unternehmerischen Erfordernissen zu
 besetzen sind. Das Mitbestimmungsrecht des Betriebsrats nach § 87 Abs.
@@ -2643,26 +2533,17 @@ personenbezogener Daten übermitteln, soweit dies für die Führung des
 Registers erforderlich ist.
 
 
-## § 25b Benannte Stellen
+## § 25b (weggefallen)
 
-(1) Das Eisenbahn-Bundesamt kann die Wahrnehmung der Aufgaben einer
-benannten Stelle, soweit eine solche nach dem Recht der Europäischen
-Gemeinschaften oder der Europäischen Union im Zusammenhang mit dem
-Hochgeschwindigkeitsbahnsystem vorgesehen ist, Privaten übertragen.
-
-(2) Die Übertragung kann nur erfolgen, wenn nachgewiesen ist, dass der
-Private die Kriterien nach Anhang VIII der Richtlinie 2008/57/EG
-erfüllt und somit die Gewähr dafür bietet, dass er die Aufgaben der
-benannten Stelle ordnungsgemäß wahrnehmen wird.
 
 
 ## § 26 Rechtsverordnungen
 
 (1) Zur Gewährleistung der Sicherheit und der Ordnung im
 Eisenbahnwesen, des Umweltschutzes oder zum Schutz von Leben und
-Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung ermächtigt, mit Zustimmung des Bundesrates
-für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
+Gesundheit der Arbeitnehmer wird das Bundesministerium für Verkehr und
+digitale Infrastruktur ermächtigt, mit Zustimmung des Bundesrates für
+öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 
 1.  über die Anforderungen an Bau, Instandhaltung, Ausrüstung, Betrieb und
     Verkehr der Eisenbahnen nach den Erfordernissen der Sicherheit, nach
@@ -2721,8 +2602,16 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
     tatsächlichen Verhältnissen des Eisenbahnfahrzeuges;
 
 
-1d. über die näheren Voraussetzungen und das Verfahren für die Übertragung
-    der Aufgaben der benannten Stellen sowie über ihre Tätigkeit;
+1d. über die näheren Voraussetzungen und das Verfahren für die Anerkennung
+    und Überwachung der benannten Stellen sowie über ihre Tätigkeit;
+
+
+1e. über die näheren Voraussetzungen und das Verfahren für die Anerkennung
+    und Überwachung der bestimmten Stellen sowie über ihre Tätigkeit;
+
+
+1f. über die näheren Voraussetzungen und das Verfahren für die Anerkennung
+    und Überwachung der Prüfsachverständigen sowie ihre Tätigkeit;
 
 
 2.  über die Voraussetzungen, unter denen von den Verpflichtungen nach §
@@ -2775,36 +2664,22 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 
 
 
-6.  über den diskriminierungsfreien Zugang zur Eisenbahninfrastruktur
-    einer anderen Eisenbahn, insbesondere über die Bedingungen für den
-    Zugang, die Rechte und Pflichten der Beteiligten einschließlich der
-    Zusammenarbeit und der Pflichten der Betreiber der Schienenwege, die
-    Ausgestaltung des Zugangs einschließlich der hierfür erforderlichen
-    Verträge und Rechtsverhältnisse sowie der Regelungen über deren
-    Zustandekommen und Beendigung;
+6.  über die Einzelheiten der Veröffentlichung nach § 8 Absatz 4 erster
+    Halbsatz des Eisenbahnregulierungsgesetzes sowie die Eignung und die
+    Befugnisse des Beauftragten nach § 8 Absatz 4 Satz 3 des
+    Eisenbahnregulierungsgesetzes;
 
 
-7.  über die Grundsätze zur Erhebung des Entgeltes für die Benutzung einer
-    Eisenbahninfrastruktur; darin können Vorschriften enthalten sein über
-    die Bemessungsgrundlagen und das Verfahren für die Entrichtung des
-    Entgeltes;
-
-
-7a. über die Einzelheiten der Veröffentlichung nach § 9a Abs.1 Satz 2 Nr.
-    5 erster Halbsatz sowie die Eignung und die Befugnisse des
-    Beauftragten nach § 9a Abs. 1 Satz 2 Nr. 5 dritter Halbsatz;
-
-
-8.  über deren Verpflichtung, sich zur Deckung der durch den Betrieb einer
+7.  über deren Verpflichtung, sich zur Deckung der durch den Betrieb einer
     Eisenbahn verursachten Personenschäden, Sachschäden und sonstigen
     Vermögensschäden zu versichern;
 
 
-9.  über die kostenpflichtigen Amtshandlungen sowie Prüfungen und
-    Untersuchungen gemäß § 7h Absatz 1;
+8.  über die gebührenpflichtigen individuell zurechenbaren öffentlichen
+    Leistungen gemäß § 7h Absatz 1;
 
 
-10. über die Fachbereiche, in denen Sachverständige tätig sein können,
+9.  über die Fachbereiche, in denen Sachverständige tätig sein können,
     sowie über die Voraussetzungen für die öffentliche Bestellung von
     Sachverständigen für den Bau, die Instandhaltung, den Betrieb und den
     Verkehr von Eisenbahnen, über deren Befugnisse und Verpflichtungen bei
@@ -2835,7 +2710,7 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
     getroffen werden;
 
 
-11. über Gegenstand, Inhalt und Umfang sowie das Verfahren der
+10. über Gegenstand, Inhalt und Umfang sowie das Verfahren der
     Untersuchung von gefährlichen Ereignissen im Eisenbahnbetrieb
     einschließlich der Zusammenarbeit mit ausländischen Behörden und
     Organen der Europäischen Union; in der Rechtsverordnung können
@@ -2861,40 +2736,40 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
     erlassen werden;
 
 
-12. über die Anforderungen, die von privaten Stellen bei der Übertragung
+11. über die Anforderungen, die von privaten Stellen bei der Übertragung
     von Aufsichts- und Genehmigungsbefugnissen zu erfüllen sind;
 
 
-13. über das Verfahren für die Erteilung der Sicherheitsbescheinigung und
+12. über das Verfahren für die Erteilung der Sicherheitsbescheinigung und
     der nationalen Bescheinigung nach § 7a sowie der
     Sicherheitsgenehmigung nach § 7c;
 
 
-14. über Anforderungen an Sicherheitsmanagementsysteme im Sinne der §§ 7a
+13. über Anforderungen an Sicherheitsmanagementsysteme im Sinne der §§ 7a
     und 7c; dabei können auch Anzeigeerfordernisse sowie das Verfahren
     geregelt werden;
 
 
-15. über Anforderungen an die Betriebssicherheit öffentlicher Eisenbahnen;
+14. über Anforderungen an die Betriebssicherheit öffentlicher Eisenbahnen;
     dabei können auch Anzeige- und Genehmigungserfordernisse sowie das
     Verfahren geregelt werden;
 
 
-16. über den Zugang zu Schulungseinrichtungen und die Anforderungen an
+15. über den Zugang zu Schulungseinrichtungen und die Anforderungen an
     Schulungen und Schulungseinrichtungen; dabei können auch Anzeige- und
     Genehmigungserfordernisse sowie das Verfahren und die Registrierung
     geregelt werden;
 
 
-17. über gemeinsame Sicherheitsmethoden zur Beurteilung des Erreichens und
+16. über gemeinsame Sicherheitsmethoden zur Beurteilung des Erreichens und
     des Einhaltens der Sicherheitsanforderungen;
 
 
-18. über gemeinsame Sicherheitsziele, die die einzelnen Bereiche des
+17. über gemeinsame Sicherheitsziele, die die einzelnen Bereiche des
     Eisenbahnsystems und das Gesamtsystem mindestens erreichen müssen;
 
 
-19. über die Anforderungen an eine für die Instandhaltung zuständige
+18. über die Anforderungen an eine für die Instandhaltung zuständige
     Stelle und das Verfahren für die Erteilung von Bescheinigungen nach §
     7g.
 
@@ -2903,19 +2778,17 @@ für öffentliche Eisenbahnen Rechtsverordnungen zu erlassen
 Im Falle des Satzes 1 Nr. 1a kann eine Rechtsverordnung auch zum
 Schutz der Rechte der Reisenden erlassen werden.
 
-(1a) In Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 9 können die
-Gebühren nach festen Sätzen im Sinne des § 4 des
-Verwaltungskostengesetzes auch als nach feststehenden Stundensätzen
-vorgesehene Gebühren (Zeitgebühren) festgelegt werden. Ferner können
-die Kostenbefreiung, die Kostengläubigerschaft, die
-Kostenschuldnerschaft, der Umfang der zu erstattenden Auslagen und die
-Kostenerhebung abweichend von den Vorschriften des
-Verwaltungskostengesetzes geregelt werden.
+(1a) In Rechtsverordnungen nach Absatz 1 Satz 1 Nummer 8 können die
+Gebühren als Fest- oder Zeitgebühren festgelegt werden. Ferner können
+die Gebühren- und Auslagenbefreiung, die Gebührengläubigerschaft, die
+Gebührenschuldnerschaft, der Umfang der zu erstattenden Auslagen und
+die Gebührenerhebung abweichend von den Vorschriften des
+Bundesgebührengesetzes geregelt werden.
 
 (2) Zur Gewährleistung des Schutzes von Leben und Gesundheit des
 Fahrpersonals sowie des Personals, das unmittelbar in der
 betrieblichen Abwicklung der Beförderungen eingesetzt ist, wird das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung ermächtigt,
+Bundesministerium für Verkehr und digitale Infrastruktur ermächtigt,
 mit Zustimmung des Bundesrates für öffentliche Eisenbahnen
 Rechtsverordnungen zu erlassen über
 
@@ -2941,24 +2814,25 @@ Rechtsverordnungen zu erlassen über
 
 
 (3) Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 1 werden, soweit sie
-den Umweltschutz betreffen, vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung und vom Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit erlassen. Rechtsverordnungen nach Absatz 1 Satz 1
-Nr. 1a werden im Einvernehmen mit dem Bundesministerium der Justiz und
-im Benehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz erlassen; soweit eine Regelung zur Schlichtung
-getroffen wird, ist das Einvernehmen beider zuvor genannter
-Bundesministerien erforderlich. Rechtsverordnungen nach Absatz 1 Satz
-1 Nr. 5 werden im Einvernehmen mit dem Bundesministerium für Bildung
-und Forschung erlassen. Die Regelungen des Berufsbildungsgesetzes
-bleiben unberührt. Rechtsverordnungen nach den Absätzen 1 und 2 zum
-Schutz von Leben und Gesundheit der Arbeitnehmer und des Personals
-werden im Einvernehmen mit dem Bundesministerium für Arbeit und
-Soziales erlassen. Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 7 und 9
-werden im Einvernehmen mit dem Bundesministerium der Finanzen und dem
-Bundesministerium für Wirtschaft und Technologie erlassen.
+den Umweltschutz betreffen, vom Bundesministerium für Verkehr und
+digitale Infrastruktur und vom Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit erlassen. Rechtsverordnungen
+nach Absatz 1 Satz 1 Nr. 1a werden im Einvernehmen mit dem
+Bundesministerium der Justiz und für Verbraucherschutz und im Benehmen
+mit dem Bundesministerium für Ernährung und Landwirtschaft erlassen;
+soweit eine Regelung zur Schlichtung getroffen wird, ist das
+Einvernehmen beider zuvor genannter Bundesministerien erforderlich.
+Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 5 werden im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung erlassen. Die
+Regelungen des Berufsbildungsgesetzes bleiben unberührt.
+Rechtsverordnungen nach den Absätzen 1 und 2 zum Schutz von Leben und
+Gesundheit der Arbeitnehmer und des Personals werden im Einvernehmen
+mit dem Bundesministerium für Arbeit und Soziales erlassen.
+Rechtsverordnungen nach Absatz 1 Satz 1 Nr. 7 und 8 werden im
+Einvernehmen mit dem Bundesministerium der Finanzen und dem
+Bundesministerium für Wirtschaft und Energie erlassen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, mit Zustimmung des Bundesrates Rechtsverordnungen zu
 erlassen
 
@@ -2975,8 +2849,8 @@ erlassen
     Rechtsverordnung die Verordnung (EWG) Nr. 1191/69 des Rates für die
     Unternehmen, deren Tätigkeit ausschließlich auf den Betrieb von
     Stadt-, Vorort- und Regionalverkehrsdiensten beschränkt ist,
-    abweichend von der Rechtsverordnung des Bundesministeriums für
-    Verkehr, Bau und Stadtentwicklung für anwendbar erklären können.
+    abweichend von der Rechtsverordnung des Bundesministeriums für Verkehr
+    und digitale Infrastruktur für anwendbar erklären können.
 
 
 
@@ -3034,23 +2908,23 @@ dienen, bedürfen nicht der Zustimmung des Bundesrates; dabei kann auch
 das Verhältnis zu den sonstigen der Betriebssicherheit dienenden
 Rechtsverordnungen geregelt werden.
 
-(8) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(8) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit und dem Bundesministerium für Arbeit
-und Soziales durch Rechtsverordnung mit Zustimmung des Bundesrates dem
-Eisenbahn-Bundesamt die Befugnis zum Erlass einer Rechtsverordnung
-nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit Absatz 5 Satz 1
-und Absatz 6, ganz oder teilweise zu übertragen, soweit technische
-Einzelheiten für Planung, Bemessung und Konstruktion ausschließlich
-von Betriebsanlagen der Eisenbahnen des Bundes betroffen sind.
-Rechtsverordnungen des Eisenbahn-Bundesamtes bedürfen nicht der
-Zustimmung des Bundesrates; auf diese Rechtsverordnungen ist Absatz 3
-Satz 1 und 5 nicht anzuwenden.
+Naturschutz, Bau und Reaktorsicherheit und dem Bundesministerium für
+Arbeit und Soziales durch Rechtsverordnung mit Zustimmung des
+Bundesrates dem Eisenbahn-Bundesamt die Befugnis zum Erlass einer
+Rechtsverordnung nach Absatz 1 Satz 1 Nummer 1, auch in Verbindung mit
+Absatz 5 Satz 1 und Absatz 6, ganz oder teilweise zu übertragen,
+soweit technische Einzelheiten für Planung, Bemessung und Konstruktion
+ausschließlich von Betriebsanlagen der Eisenbahnen des Bundes
+betroffen sind. Rechtsverordnungen des Eisenbahn-Bundesamtes bedürfen
+nicht der Zustimmung des Bundesrates; auf diese Rechtsverordnungen ist
+Absatz 3 Satz 1 und 5 nicht anzuwenden.
 
 
 ## § 27 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann im
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales mit
 Zustimmung des Bundesrates zur Durchführung der auf Grund des § 26
 Abs. 2 erlassenen Rechtsverordnungen allgemeine
@@ -3062,8 +2936,8 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig
 
-1.  ohne Genehmigung nach § 6 Abs. 1 Satz 1 Eisenbahnverkehrsleistungen
-    erbringt, als Halter von Eisenbahnfahrzeugen selbstständig am
+1.  ohne Unternehmensgenehmigung nach § 6 Absatz 1 Satz 1
+    Eisenbahnverkehrsdienste erbringt, als Fahrzeughalter selbstständig am
     Eisenbahnbetrieb teilnimmt oder Schienenwege, Steuerungs- und
     Sicherungssysteme oder Bahnsteige betreibt,
 
@@ -3094,8 +2968,8 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
 2f. ohne Bescheinigung nach § 7g Absatz 1 Satz 1 tätig wird,
 
 
-3.  ohne Genehmigung nach § 12 Abs. 3 Satz 1 Eisenbahnverkehrsleistungen
-    nach § 3 Nr. 1 erbringt,
+3.  ohne Genehmigung nach § 12 Abs. 3 Satz 1 Eisenbahnverkehrsdienste nach
+    § 3 Nr. 1 erbringt,
 
 
 4.  als im Unternehmen Verantwortlicher entgegen § 12 Abs. 2 Satz 1 Tarife
@@ -3125,7 +2999,7 @@ Ordnungswidrigkeit nach § 28 Abs. 1 Nr. 4, 5 und 8.
     bestimmten Tatbestand auf diese Bußgeldvorschrift verweist oder
 
 
-7.bis 8. (weggefallen)
+7. bis 8. (weggefallen)
 
 
 9.  einem Gebot oder Verbot einer die Eisenbahnen betreffenden Verordnung
@@ -3178,10 +3052,10 @@ Absatz 1 entsprechend anzuwenden.
 
 ## § 30 Übergangsregelung für den Schienenpersonennahverkehr der Eisenbahnen des Bundes
 
-Bis zum 31. Dezember 1995 ist das Bundesministerium für Verkehr auch
-Aufsichts- und Genehmigungsbehörde sowie zuständige Behörde im Sinne
-der Verordnung (EWG) Nr. 1191/69 des Rates für Eisenbahnen des Bundes,
-soweit es sich handelt um
+Bis zum 31. Dezember 1995 ist das Bundesministerium für Verkehr und
+digitale Infrastruktur auch Aufsichts- und Genehmigungsbehörde sowie
+zuständige Behörde im Sinne der Verordnung (EWG) Nr. 1191/69 des Rates
+für Eisenbahnen des Bundes, soweit es sich handelt um
 
 1.  die Tarife im Schienenpersonennahverkehr dieser Eisenbahnen,
 
@@ -3194,32 +3068,28 @@ soweit es sich handelt um
 
 
 
-## § 31 Selbstständige Teilnahme am Eisenbahnbetrieb
+## § 31 Teilnahme am Eisenbahnbetrieb durch Fahrzeughalter
 
-Für Halter von Eisenbahnfahrzeugen, die mit diesen selbstständig am
-Eisenbahnbetrieb teilnehmen und nicht die Voraussetzungen des § 2
-Absatz 1 und 2 erfüllen, gelten, wenn nichts anderes bestimmt ist, die
+Für Fahrzeughalter gelten, wenn nichts anderes bestimmt ist, die
 Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
 entsprechend.
 
 
-## § 32 Nichtselbstständige Teilnahme am Eisenbahnbetrieb
+## § 32 Teilnahme am Eisenbahnbetrieb durch Wagenhalter
 
-Für Halter von Eisenbahnfahrzeugen, die mit diesen nichtselbstständig
-am Eisenbahnbetrieb teilnehmen, gelten, wenn nichts anderes bestimmt
-ist, die Vorschriften für nichtöffentliche
-Eisenbahnverkehrsunternehmen entsprechend, soweit sie betreffen
+Für Wagenhalter gelten, wenn nichts anderes bestimmt ist, die
+Vorschriften für nichtöffentliche Eisenbahnverkehrsunternehmen
+entsprechend, soweit sie
 
-1.  die Eisenbahnaufsicht,
-
-
-2.  die Kosten von Amtshandlungen,
+1.  die Eisenbahnaufsicht oder
 
 
-3.  die Pflicht, sich zu versichern.
+2.  die Gebühren und Auslagen von individuell zurechenbaren öffentlichen
+    Leistungen
 
 
 
+betreffen.
 
 
 ## § 33 (weggefallen)
@@ -3234,11 +3104,13 @@ Verlangen der zuständigen Aufsichtsbehörde verpflichtet, einen
 unabhängigen Netzbeirat einzurichten. Der Netzbeirat hat das Recht,
 Empfehlungen zur Entwicklung, zum Ausbau und zum Erhalt der
 Schienenwege zu machen. Der Vorstand des Betreibers der Schienenwege
-hat diese Empfehlungen zum Gegenstand seiner Beratungen zu machen. In
-den Netzbeirat sind von der zuständigen Aufsichtsbehörde Vertreter
-oder Beauftragte von Eisenbahnverkehrsunternehmen und der nach § 1
-Abs. 2 des Regionalisierungsgesetzes bestimmten Stellen zu berufen.
-Der Netzbeirat soll nicht mehr als 15 Mitglieder haben.
+hat diese Empfehlungen und die Stellungnahmen des Netzbeirates zum
+Geschäftsplan nach § 9 des Eisenbahnregulierungsgesetzes zum
+Gegenstand seiner Beratungen zu machen. In den Netzbeirat sind von der
+zuständigen Aufsichtsbehörde Vertreter oder Beauftragte von
+Eisenbahnverkehrsunternehmen und der nach § 1 Abs. 2 des
+Regionalisierungsgesetzes bestimmten Stellen zu berufen. Der
+Netzbeirat soll nicht mehr als 15 Mitglieder haben.
 
 
 ## § 35 Eisenbahninfrastrukturbeirat
@@ -3286,23 +3158,12 @@ Bundesamt berechtigt, Auskünfte und Stellungnahmen einzuholen. Das
 Eisenbahn-Bundesamt ist insoweit auskunftspflichtig.
 
 
-## § 36 Gutachten der Monopolkommission
-
-Die Monopolkommission erstellt alle zwei Jahre ein Gutachten, in dem
-sie den Stand und die absehbare Entwicklung des Wettbewerbs und die
-Frage beurteilt, ob ein wirksamer und unverfälschter Wettbewerb im
-Sinne des § 1 besteht, die Anwendung der Vorschriften des
-Eisenbahnrechts würdigt und zu sonstigen aktuellen
-wettbewerbspolitischen Fragen im Zusammenhang mit dem Betrieb von
-Eisenbahnen Stellung nimmt. Das Gutachten soll in dem Jahr
-abgeschlossen sein, in dem kein Hauptgutachten nach § 44 des Gesetzes
-gegen Wettbewerbsbeschränkungen vorgelegt wird.
+## § 36 (weggefallen)
 
 
-## § 37 Aufschiebende Wirkung von Rechtsbehelfen
 
-Widerspruch und Anfechtungsklage gegen Entscheidungen nach den §§ 14c,
-14e und 14f haben keine aufschiebende Wirkung.
+## § 37 (weggefallen)
+
 
 
 ## § 38 Weitere Übergangsvorschriften
@@ -3316,31 +3177,28 @@ soweit nicht die beteiligten Länder bis dahin etwas anderes nach § 5
 Abs. 1b Nr. 2 Satz 2 vereinbart haben. Satz 1 gilt für die
 Eisenbahnaufsicht entsprechend.
 
-(2) Auf Eisenbahnen, die erstmals ab dem 30. April 2005 nach § 14 Abs.
-1 den Zugang zu ihrer Eisenbahninfrastruktur gewähren müssen, finden
-die Eisenbahn-Bau- und Betriebsordnung, die Eisenbahn-Signalordnung
-1959 und die Eisenbahnbetriebsleiterverordnung bis zum Erlass einer
-Regelung nach Satz 3 keine Anwendung. Auf diese Eisenbahnen sind die
-jeweiligen landesrechtlichen Vorschriften über die Betriebssicherheit
+(2) Auf Eisenbahnen, die erstmals ab dem 30. April 2005 den Zugang zu
+ihrer Eisenbahninfrastruktur gewähren müssen, finden die Eisenbahn-
+Bau- und Betriebsordnung, die Eisenbahn-Signalordnung 1959 und die
+Eisenbahnbetriebsleiterverordnung bis zum Erlass einer Regelung nach
+Satz 3 keine Anwendung. Auf diese Eisenbahnen sind die jeweiligen
+landesrechtlichen Vorschriften über die Betriebssicherheit
 nichtöffentlicher Eisenbahnen anzuwenden. Das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch
+Verkehr und digitale Infrastruktur wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu bestimmen, dass die
 Sätze 1 und 2 nicht mehr anzuwenden sind, soweit es für die
 einheitliche Regelung der Betriebssicherheit aller regelspurigen
 Eisenbahnen erforderlich ist.
 
-(3) Dem, der am 29. April 2005 Tätigkeiten nach § 6 Abs. 1 bereits
-rechtmäßig ausübt, ist auf Antrag die Genehmigung nach § 6 Abs. 1 zu
-erteilen, ohne dass die Voraussetzungen des § 6 Abs. 2 geprüft werden.
-Satz 1 gilt nur, sofern die Genehmigung bis zum 1. Mai 2006 beantragt
-wird.
+(3) Die bis zum 2. September 2016 erteilten Genehmigungen nach § 6
+gelten ab 2. September 2016 als Unternehmensgenehmigungen nach den §§
+6 bis 6g.
 
-(4) Eisenbahnen, die ab dem 30. April 2005 nicht mehr von der
-Versicherungspflicht nach § 1 der
-Eisenbahnhaftpflichtverordnung             gemäß § 1 Abs. 2 Nr. 2
-dieser Verordnung freigestellt sind, haben den Nachweis über das
-Bestehen einer Versicherung der nach § 5 zuständigen Aufsichtsbehörde
-bis zum 1. November 2005 vorzulegen.
+(4) Eisenbahnverkehrsunternehmen, Eisenbahninfrastrukturunternehmen,
+Fahrzeughalter und Wagenhalter, die am 2. September 2016 bereits am
+Eisenbahnbetrieb teilnehmen, haben den Nachweis über das Bestehen
+einer Versicherung nach § 14 der nach § 5 zuständigen Aufsichtsbehörde
+bis zum 2. März 2017 vorzulegen.
 
 (5) Eisenbahnverkehrsunternehmen, die am 30. April 2005 bereits am
 Eisenbahnbetrieb teilnehmen, haben die Sicherheitsbescheinigung bis
@@ -3431,17 +3289,7 @@ hierfür bisher geltenden Vorschriften und
 
 fortgeführt.
 
-(8) Ab dem 1. Januar 2010 kann für Zugtrassen auf besonderen Fahrwegen
-im Sinne des Artikels 24 der Richtlinie 2001/14/EG, die von
-Antragstellern genutzt werden, die bereits bis zum 31. Dezember 2009
-auf diesen Zugtrassen Eisenbahnverkehrsleistungen erbringen, ein
-einmalig verlängerbarer Rahmenvertrag mit einer Laufzeit von fünf
-Jahren geschlossen werden. Wird die Möglichkeit einer Verlängerung
-vereinbart, bedarf der Rahmenvertrag insoweit der Genehmigung der
-Regulierungsbehörde. Die Genehmigung ist zu erteilen, wenn
-vertragliche Bindungen oder besondere Investitionen nachgewiesen
-werden. Die Sätze 2 und 3 gelten nicht für Rahmenverträge mit
-Zugangsberechtigten nach § 14 Abs. 2 Nr. 3 und 4.
+(8) (weggefallen)
 
 
 ## § 39 Übergangsregelung für Planungen
@@ -3457,17 +3305,14 @@ Plangenehmigungen, die vor dem 17. Dezember 2006 erlassen worden sind,
 soweit der Plan noch nicht außer Kraft getreten ist.
 
 
-## § 40 Zeitliche Übergangsregelungen
-
-(1) Die §§ 2, 14 und 14b sind bis zum Ablauf des 31. Dezember 2009 in
-ihrer am 28. Mai 2009 geltenden Fassung anzuwenden.
-
-(2) § 14g ist ab dem 1. Januar 2010 anzuwenden.
+## § 40 (weggefallen)
 
 
-## Anlage (zu § 18e Abs. 1) Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+(zu § 18e Absatz 1)
 
-(Fundstelle: BGBl I 2006, 2835)
+## Anlage 1 Schienenwege mit erstinstanzlicher Zuständigkeit des Bundesverwaltungsgerichts
+
+(Fundstelle: BGBl. I 2006, 2835)
 
 Vorbemerkung:
 Im Sinne der Anlage bedeuten
@@ -3597,6 +3442,37 @@ verbunden sind.
 *    *   22
 
     *   ABS München – Rosenheim – Kiefersfelden – Grenze D/A
+
+
+
+
+(zu § 6c)
+
+## Anlage 2 Finanzielle Leistungsfähigkeit
+
+(Fundstelle: BGBl. I 2016, 2128)
+
+Die Informationen, die antragstellende Unternehmen gemäß § 6c
+bereitzustellen haben, umfassen:
+
+a)  verfügbare Finanzmittel einschließlich Bankguthaben sowie zugesagte
+    Überziehungskredite und Darlehen;
+
+
+b)  als Sicherheit verfügbare Mittel und Vermögensgegenstände;
+
+
+c)  Betriebskapital;
+
+
+d)  einschlägige Kosten einschließlich der Erwerbskosten oder Anzahlungen
+    für Transportmittel, Grundstücke, Gebäude, Anlagen und Fahrzeuge;
+
+
+e)  Belastungen des Betriebsvermögens;
+
+
+f)  Steuern und Sozialversicherungsbeiträge.
 
 
 

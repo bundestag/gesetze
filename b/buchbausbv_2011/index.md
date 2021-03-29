@@ -38,7 +38,7 @@ für Bildung und Forschung:
 Der Ausbildungsberuf des Buchbinders und der Buchbinderin wird nach §
 25 der Handwerksordnung für die Ausbildung für das Gewerbe Nummer 39
 der
-Anlage B 1              der Handwerksordnung staatlich anerkannt.
+Anlage B 1 der Handwerksordnung staatlich anerkannt.
 
 
 ## § 2 Dauer der Berufsausbildung
@@ -77,7 +77,7 @@ Abweichung erfordern.
 sich wie folgt (Ausbildungsberufsbild):
 Abschnitt A
 Berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten in den
-Pflichtqualifikation              nach § 3 Nummer 1:
+Pflichtqualifikation nach § 3 Nummer 1:
 
 1.  Planen und Organisieren von Arbeitsabläufen,
 
@@ -521,8 +521,9 @@ Buchbinderin vom 8. Dezember 1995 (BGBl. I S. 1610), die durch Artikel
 1 der Verordnung vom 11. Juli 2001 (BGBl. I S. 1577) geändert worden
 ist, außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Buchbinder und zur Buchbinderin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Buchbinder und zur Buchbinderin
 
 (Fundstelle: BGBl. I 2011, 970 - 975)
 

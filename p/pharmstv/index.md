@@ -171,7 +171,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   5 \*)
 
-    *   17*                       -Östradiol oder seine esterartigen Derivate
+    *   17*-Östradiol oder seine esterartigen Derivate
 
     *   alle Tiere, die der Lebensmittelgewinnung dienen
 

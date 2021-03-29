@@ -4,7 +4,7 @@ Title: Übereinkommen über die Rechtsstellung des einem internationalen militä
   Entsendestaaten
 jurabk: NATOPersRÜbk
 layout: default
-origslug: natopersr_bk
+origslug: natopersruebk
 slug: natopersruebk
 
 ---

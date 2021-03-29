@@ -17,7 +17,7 @@ Fundstelle
 :   RGBl II: 1922, 129
 
 Geändert durch
-:   Art. 46 G v. 23.11.2007 I 2614
+:   Art. 217 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -41,8 +41,8 @@ Inwieweit im Falle einer Änderung des Schutzes der deutschen
 Urheberrechte in den Vereinigten Staaten von Amerika eine Änderung des
 in § 1 vorgesehenen Schutzes für die Angehörigen der Vereinigten
 Staaten in der Bundesrepublik Deutschland eintritt, bestimmt das
-Bundesministerium der Justiz durch Bekanntmachung im
-Bundesgesetzblatt.
+Bundesministerium der Justiz und für Verbraucherschutz durch
+Bekanntmachung im Bundesgesetzblatt.
 
 
 ## § 3

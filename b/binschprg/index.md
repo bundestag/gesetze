@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1895, 301
 
 Zuletzt geändert durch
-:   Art. 7 G v. 31.7.2009 I 2585
+:   Art. 1 G v. 5.7.2016 I 1578
 
 
 ## Erster Abschnitt - Schiffseigner
@@ -313,13 +313,26 @@ dem Schiff des Schuldners beförderte Güter gilt, wenn die Ansprüche
 nicht solche nach § 89 Wasserhaushaltsgesetz sind, ein gesonderter
 Haftungshöchstbetrag. Der Haftungshöchstbetrag steht ausschließlich
 zur Befriedigung der in Satz 1 genannten Ansprüche zur Verfügung.
-Gefährliche Güter im Sinne von Satz 1 sind die der Anlage A zur
-Verordnung über die Beförderung gefährlicher Güter auf dem Rhein
-(ADNR) (Anlage 1 zur Verordnung zur Inkraftsetzung der Verordnung über
-die Beförderung gefährlicher Güter auf dem Rhein und der Verordnung
-über die Beförderung gefährlicher Güter auf der Mosel vom 21. Dezember
-1994, BGBl. 1994 II S. 3830, 3831) in der jeweils in der
-Bundesrepublik Deutschland in Kraft gesetzten Fassung.
+Gefährliche Güter im Sinne des Satzes 1 sind die Stoffe oder
+Gegenstände, deren Beförderung nach den folgenden Vorschriften
+verboten oder nach den darin vorgesehenen Bedingungen gestattet ist:
+
+1.  Teil 2 Kapitel 3.2 Tabelle A und Kapitel 3.3 der dem Europäischen
+    Übereinkommen über die internationale Beförderung von gefährlichen
+    Gütern auf Binnenwasserstraßen (ADN) beigefügten Verordnung in der
+    Fassung der Bekanntmachung vom 5. Juni 2009 (BGBl. 2009 II S. 534 –
+    Anlageband; 2010 II S. 122, 123, 1183, 1184), zuletzt geändert durch
+    Beschluss des ADN-Verwaltungsausschusses vom 26. August 2010 (BGBl.
+    2010 II S. 1550), in der jeweils in Deutschland in Kraft gesetzten
+    Fassung, oder
+
+
+2.  Anlage 2 Gliederungsnummer 1.1 und 1.2 der Gefahrgutverordnung Straße,
+    Eisenbahn und Binnenschifffahrt in der Fassung der Bekanntmachung vom
+    16\. Dezember 2011 (BGBl. I S. 2733) in der jeweils geltenden Fassung.
+
+
+
 
 (2) Der nach Absatz 1 maßgebliche Haftungshöchstbetrag beträgt
 
@@ -455,7 +468,7 @@ Recht.
 
 ### § 6
 
-(1) Das Gericht des Ortes, von dem aus die Schiffahrt mit dem Schiff
+(1) Das Gericht des Ortes, von dem aus die Schiffahrt mit dem Schiffe
 betrieben wird (Heimatort), ist, vorbehaltlich des § 3 Abs. 1 des
 Gesetzes über das gerichtliche Verfahren in Binnenschiffahrtssachen
 vom 27. September 1952 (Bundesgesetzbl. I S. 641), für alle gegen den
@@ -487,7 +500,7 @@ anzuwenden.
 entstandenen Schaden nicht nur dem Schiffseigner, sondern auch den
 Ladungsbeteiligten (Absender und Empfänger), den beförderten Personen
 und der Schiffsbesatzung, es sei denn, daß er auf Anweisung des
-Schiffseigners gehandelt hat. Auch in dem letzteren Fall bleibt der
+Schiffseigners gehandelt hat. Auch in dem letzteren Falle bleibt der
 Schiffer verantwortlich, wenn er es unterlassen hat, dem Schiffseigner
 die nach Lage des Falles erforderliche Aufklärung zu erteilen, oder
 wenn ihm eine strafbare Handlung zur Last fällt.
@@ -500,16 +513,16 @@ unterrichtet war.
 ### § 8
 
 (1) Der Schiffer hat vor Antritt der Reise darauf zu sehen, daß das
-Schiff in fahrtüchtigem Zustand, gehörig eingerichtet und ausgerüstet,
-sowie hinreichend bemannt ist, und daß die Schiffspapiere und
-Ladungsverzeichnisse an Bord sind.
+Schiff in fahrtüchtigem Zustande, gehörig eingerichtet und
+ausgerüstet, sowie hinreichend bemannt ist, und daß die Schiffspapiere
+und Ladungsverzeichnisse an Bord sind.
 
 (2) Er hat für die Tüchtigkeit der Gerätschaften zum Laden und
 Löschen, für die gehörige Stauung der Ladung, sowie dafür zu sorgen,
 daß das Schiff nicht schwerer beladen wird, als die Tragfähigkeit
 desselben und die jeweiligen Wasserstandsverhältnisse es gestatten.
 
-(3) Wenn der Schiffer im Ausland die daselbst geltenden Vorschriften,
+(3) Wenn der Schiffer im Auslande die daselbst geltenden Vorschriften,
 insbesondere die Polizei-, Steuer- und Zollgesetze nicht beobachtet,
 so hat er den daraus entstehenden Schaden zu ersetzen.
 
@@ -554,16 +567,16 @@ Maßregeln schleunigst in Kenntnis gesetzt werden.
 
 (1) Wird das Schiff oder die Ladung von einem Unfall betroffen, so ist
 der Schiffer berechtigt und auf Verlangen des Schiffseigners oder
-eines Ladungsbeteiligten verpflichtet, vor dem Amtsgericht des Ortes,
+eines Ladungsbeteiligten verpflichtet, vor dem Amtsgerichte des Ortes,
 an welchem die Reise endet, und, wenn das Schiff vorher an einem
-anderen Ort längere Zeit liegen bleiben muß, vor dem Amtsgericht
+anderen Ort längere Zeit liegen bleiben muß, vor dem Amtsgerichte
 dieses Ortes eine Beweisaufnahme über den tatsächlichen Hergang sowie
 über den Umfang des eingetretenen Schadens und über die zur Abwendung
 oder Verringerung desselben angewendeten Mittel zu beantragen. Er hat
 sich selbst zum Zeugnis zu erbieten und die zur Feststellung des
 Sachverhältnisses sonst dienlichen Beweismittel zu bezeichnen.
 
-(2) Ist eine Beweisaufnahme vor dem in Absatz 1 bezeichneten Gericht
+(2) Ist eine Beweisaufnahme vor dem in Absatz 1 bezeichneten Gerichte
 nicht verlangt worden, so ist der Schiffer berechtigt und auf
 Verlangen des Schiffseigners oder eines Ladungsbeteiligten
 verpflichtet, eine Beweisaufnahme vor dem für Binnenschiffahrtssachen
@@ -576,7 +589,7 @@ sich ereignet hat.
 Zur Aufnahme des Beweises bestimmt das Gericht einen tunlichst nahen
 Termin, zu welchem der Schiffer und die sonst bezeichneten Zeugen zu
 laden sind. Dem Schiffseigner und den Ladungsbeteiligten ist von dem
-Termin Mitteilung zu machen, soweit es ohne unverhältnismäßige
+Termine Mitteilung zu machen, soweit es ohne unverhältnismäßige
 Verzögerung des Verfahrens geschehen kann. Die Mitteilung kann durch
 öffentliche Bekanntmachung erfolgen.
 
@@ -615,23 +628,23 @@ Anwendung.
 
 ### § 15
 
-(1) Befindet sich das Schiff weder am Heimatort, noch an einem Ort, an
-welchem der Schiffseigner eine Geschäftsniederlassung hat, so ist der
-Schiffer Dritten gegenüber kraft seiner Anstellung befugt, die
+(1) Befindet sich das Schiff weder am Heimatorte, noch an einem Orte,
+an welchem der Schiffseigner eine Geschäftsniederlassung hat, so ist
+der Schiffer Dritten gegenüber kraft seiner Anstellung befugt, die
 Frachtforderungen einzuziehen, sowie für den Schiffseigner alle
 Geschäfte und Rechtshandlungen vorzunehmen, welche die Ausführung der
 Reise erforderlich macht.
 
 (2) Zur Eingehung von Wechselverbindlichkeiten, zur Veräußerung oder
-Verpfändung des Schiffes und zum Abschluß von Frachtverträgen ist der
-Schiffer nur auf Grund einer ihn hierzu ermächtigenden Vollmacht des
-Schiffseigners berechtigt.
+Verpfändung des Schiffes und zum Abschlusse von Frachtverträgen ist
+der Schiffer nur auf Grund einer ihn hierzu ermächtigenden Vollmacht
+des Schiffseigners berechtigt.
 
 
 ### § 16
 
 (1) Rechtsgeschäfte, welche der Schiffer eingeht, während das Schiff
-sich an einem der in § 15 Abs. 1 bezeichneten Ort befindet, sind für
+sich an einem der in § 15 Abs. 1 bezeichneten Orte befindet, sind für
 den Schiffseigner nur dann verbindlich, wenn der Schiffer auf Grund
 einer Vollmacht gehandelt hat, oder wenn ein anderer besonderer
 Verpflichtungsgrund vorhanden ist.
@@ -702,7 +715,7 @@ Dienstverhältnisses oder bis zum Ablauf der Kündigungsfrist.
 ### § 21
 
 (1) Zur Schiffsmannschaft gehören mit Ausnahme des Schiffers die zum
-Schiffahrtsdienst auf dem Schiff angestellten Personen der
+Schiffahrtsdienste auf dem Schiffe angestellten Personen der
 Schiffsbesatzung, insbesondere die Steuerleute, Bootsleute, Matrosen,
 Schiffsknechte, Schiffsjungen, Maschinisten und Heizer.
 
@@ -711,8 +724,8 @@ Schiffsknechte, Schiffsjungen, Maschinisten und Heizer.
 
 ### § 22
 
-Die Verpflichtung des Schiffsmanns zum Dienstantritt beginnt, wenn
-nichts anderes verabredet ist, mit dem Abschluß des Dienstvertrags.
+Die Verpflichtung des Schiffsmannes zum Dienstantritte beginnt, wenn
+nichts anderes verabredet ist, mit dem Abschlusse des Dienstvertrages.
 Tritt der Schiffsmann den Dienst nicht binnen vierundzwanzig Stunden
 an, so braucht er nicht mehr angenommen zu werden. Der Anspruch des
 Schiffseigners auf Schadensersatz wird hierdurch nicht berührt.
@@ -735,8 +748,8 @@ nach besten Kräften zu sorgen.
 ### § 24
 
 Wenn über die Zeit der Lohnzahlung nichts anderes vereinbart ist, so
-kann der Schiffsmann am Schluß jeder zweiten Woche die Auszahlung des
-verdienten Lohnes verlangen.
+kann der Schiffsmann am Schlusse jeder zweiten Woche die Auszahlung
+des verdienten Lohnes verlangen.
 
 
 ### § 25
@@ -749,8 +762,8 @@ bleiben, es sei denn, daß ein den sofortigen Austritt rechtfertigender
 Grund vorhanden ist.
 
 (3) Wird das Dienstverhältnis vor der Ankunft des Schiffes am
-Bestimmungsort während der Reise aufgehoben, so hat der Schiffsmann
-Anspruch auf die Kosten der Rückreise nach dem Ort, an welchem er in
+Bestimmungsorte während der Reise aufgehoben, so hat der Schiffsmann
+Anspruch auf die Kosten der Rückreise nach dem Orte, an welchem er in
 Dienst getreten ist. Diese Bestimmung findet keine Anwendung, wenn der
 Schiffsmann sich einer Handlung schuldig gemacht hat, welche geeignet
 ist, seine sofortige Entlassung zu rechtfertigen.
@@ -759,10 +772,10 @@ ist, seine sofortige Entlassung zu rechtfertigen.
 vorhanden, so kann der Schiffsmann zwar jederzeit seines Dienstes
 enthoben werden, jedoch unbeschadet seiner Entschädigungsansprüche für
 die Zeit bis zum Ende der vertragsmäßigen Dauer des
-Dienstverhältnisses oder bis zum Ablauf der Kündigungsfrist.
+Dienstverhältnisses oder bis zum Ablaufe der Kündigungsfrist.
 
 
-## Vierter Abschnitt - Frachtgeschäft
+## Vierter Abschnitt - Frachtgeschäft. Schiffsüberlassungsverträge
 
 
 
@@ -773,7 +786,19 @@ finden die Vorschriften des Vierten Abschnitts des Vierten Buchs des
 Handelsgesetzbuchs Anwendung.
 
 
-### (XXXX) §§ 27 bis 76 (weggefallen)
+### § 27
+
+(1) Auf den Vertrag über die Vermietung eines Binnenschiffs sind die
+§§ 553 bis 556 des Handelsgesetzbuchs entsprechend anzuwenden.
+
+(2) Auf den Vertrag über die Überlassung eines Binnenschiffs mit
+Besatzung auf Zeit zum Zwecke der Beförderung von Gütern oder Personen
+oder der Erbringung anderer vereinbarter Leistungen durch denjenigen,
+der das Schiff zur Verfügung stellt, sind die §§ 557 bis 569 des
+Handelsgesetzbuchs entsprechend anzuwenden.
+
+
+### (XXXX) §§ 28 bis 76 (weggefallen)
 
 
 
@@ -783,275 +808,40 @@ Handelsgesetzbuchs Anwendung.
 
 ### § 77
 
-(1) Auf die Beförderung von Reisenden und ihrem Gepäck auf Flüssen und
-sonstigen Binnengewässern ist § 664 Abs. 1 Satz 1, Abs. 2 des
-Handelsgesetzbuchs entsprechend anzuwenden. Das Recht, eine
-Beschränkung der Haftung nach den §§ 4 bis 5m geltend zu machen,
-bleibt unberührt.
-
-(2) Der Beförderer hat wegen des Beförderungsentgelts ein Pfandrecht
-an dem Gepäck des Reisenden, solange das Gepäck zurückbehalten oder
-hinterlegt ist. Die Wirkungen und die Geltendmachung des Pfandrechts
-bestimmen sich im übrigen nach den für das Pfandrecht des
-Frachtführers an Frachtgütern geltenden Vorschriften.
+Auf die Beförderung von Fahrgästen und ihrem Gepäck auf Flüssen und
+sonstigen Binnengewässern sind die §§ 536 bis 552 des
+Handelsgesetzbuchs entsprechend anzuwenden.
 
 
-## Sechster Abschnitt - Haverei
+## Sechster Abschnitt - Große Haverei
 
 
 
 ### § 78
 
-(1) Große Haverei sind alle Schäden, welche einem Schiff oder der
-Ladung desselben oder beiden zum Zweck der Errettung beider aus einer
-gemeinsamen Gefahr von dem Schiffer oder auf dessen Geheiß vorsätzlich
-zugefügt werden, sowie auch die durch solche Maßregeln ferner
-verursachten Schäden einschließlich des Verlusts der Fracht für
-aufgeopferte Güter, desgleichen die Kosten, welche zu dem bezeichneten
-Zweck von dem Schiffer oder nach seiner Anweisung von einem der
-Ladungsbeteiligten aufgewendet werden.
+(1) Werden das Schiff, der Treibstoff, die Ladung oder mehrere dieser
+Sachen zur Errettung aus einer gemeinsamen Gefahr auf Anordnung des
+Schiffers vorsätzlich beschädigt oder aufgeopfert oder werden zu
+diesem Zweck auf Anordnung des Schiffers Aufwendungen gemacht (Große
+Haverei), so werden die hierdurch entstandenen Schäden und
+Aufwendungen von den Beteiligten gemeinschaftlich getragen.
+Beteiligter ist derjenige, der im Zeitpunkt des Havereifalls
+Eigentümer des Schiffes, des Treibstoffs oder eines zur Ladung
+gehörenden Frachtstücks oder der Inhaber der Frachtforderung ist.
+
+(2) Die Vergütungsberechtigten haben für ihre Forderungen auf die vom
+Eigentümer des Schiffes sowie vom Inhaber der Frachtforderung zu
+entrichtenden Beiträge die Rechte eines Schiffsgläubigers an dem
+Schiff (§§ 102 bis 115).
+
+(3) Auf die Große Haverei sind die §§ 589 bis 592, 594 und 595 des
+Handelsgesetzbuchs mit der Maßgabe entsprechend anzuwenden, dass für
+die Verteilung auf die Gegenstände abzustellen ist, die einem
+Beteiligten nach Absatz 1 Satz 2 zuzurechnen sind.
+
+
+### (XXXX) §§ 79 bis 91 (weggefallen)
 
-(2) Die große Haverei wird von Schiff und Ladung gemeinschaftlich
-getragen; die Havereiverteilung tritt jedoch nur ein, wenn sowohl das
-Schiff als auch die Ladung, und zwar jeder dieser Gegenstände entweder
-ganz oder teilweise wirklich gerettet worden sind.
-
-(3) Alle nicht zur großen Haverei gehörigen, durch einen Unfall
-verursachten Schäden und Kosten (besondere Haverei) werden von den
-Eigentümern des Schiffes und der Ladung, von jedem für sich allein,
-getragen.
-
-
-### § 79
-
-(1) Die Anwendung der Bestimmungen über große Haverei wird dadurch
-nicht ausgeschlossen, daß die Gefahr infolge des Verschuldens eines
-Dritten oder auch eines Beteiligten herbeigeführt ist.
-
-(2) Der Beteiligte, welchem ein solches Verschulden zur Last fällt,
-kann jedoch wegen der ihm etwa entstandenen Schäden keine Vergütung
-fordern und ist den Beitragspflichtigen für den Verlust
-verantwortlich, welchen sie dadurch erleiden, daß der Schaden als
-große Haverei zur Verteilung kommt.
-
-(3) Ist die Gefahr durch eine Person der Schiffsbesatzung verschuldet,
-so trägt die Folgen dieses Verschuldens auch der Schiffseigner nach
-Maßgabe des § 3.
-
-
-### § 80
-
-Die Verpflichtung, von einem geretteten Gegenstand beizutragen, wird
-dadurch, daß derselbe später von besonderer Haverei betroffen wird,
-nur dann vollständig aufgehoben, wenn der Gegenstand ganz
-verlorengeht.
-
-
-### § 81
-
-(1) Der Anspruch auf Vergütung einer zur großen Haverei gehörenden
-Beschädigung wird durch eine besondere Haverei, welche den
-beschädigten Gegenstand später trifft, sei es, daß er von neuem
-beschädigt wird oder ganz verlorengeht, nur insoweit aufgehoben, als
-bewiesen wird, daß der spätere Unfall mit dem früheren nicht allein in
-keinem Zusammenhang steht, sondern daß er auch den früheren Schaden
-nach sich gezogen haben würde, wenn dieser nicht bereits entstanden
-gewesen wäre.
-
-(2) Sind jedoch vor Eintritt des späteren Unfalls zur
-Wiederherstellung des beschädigten Gegenstands bereits Aufwendungen
-gemacht, so bleibt rücksichtlich dieser der Anspruch auf Vergütung
-bestehen.
-
-
-### § 82
-
-In bezug auf den Umfang der großen Haverei gelten, sofern die
-allgemeinen Voraussetzungen derselben vorhanden sind, die folgenden
-Bestimmungen:
-
-1.  Wenn Waren, Schiffsteile oder Schiffsgerätschaften über Bord geworfen,
-    Taue oder Segel weggeschnitten, Masten, Anker, Ankertaue oder
-    Ankerketten gekappt worden sind, so gehören zur großen Haverei sowohl
-    diese Schäden selbst als die durch solche Maßregeln an Schiff oder
-    Ladung ferner verursachten Schäden.
-
-
-2.  Wenn zur Erleichterung des Schiffes die Ladung ganz oder teilweise in
-    Leichterfahrzeuge übergeladen worden ist, so gehört zur großen Haverei
-    sowohl der Leichterlohn als der Schaden, welcher bei dem Überladen in
-    das Leichterfahrzeug oder bei dem Rückladen in das Schiff der Ladung
-    oder dem Schiff zugefügt worden ist, sowie der Schaden, welcher die
-    Ladung auf dem Leichterfahrzeug betroffen hat.
-
-    Muß die Erleichterung im regelmäßigen Verlauf der Reise erfolgen, so
-    liegt große Haverei nicht vor.
-
-
-3.  Wenn das Schiff absichtlich festgefahren ist, um das Sinken desselben
-    abzuwenden, oder wenn das Schiff absichtlich zum Sinken gebracht ist,
-    um eine Zerstörung desselben und der Ladung durch Feuer zu verhüten,
-    so gehören zur großen Haverei sowohl die durch die Maßregel
-    entstandenen Schäden als auch die Kosten und Schäden der Abbringung
-    oder Hebung.
-
-    Wird das Schiff nicht abgebracht oder gehoben oder wird es nach der
-    Abbringung oder Hebung als reparaturunfähig befunden, so findet eine
-    Havereiverteilung nicht statt.
-
-    Ist das Schiff gesunken, ohne daß dies zur Rettung von Schiff und
-    Ladung vorsätzlich herbeigeführt war, so gehören zwar nicht die durch
-    den Unfall veranlaßten Schäden, wohl aber die zur gemeinsamen Hebung
-    von Schiff und Ladung verwendeten Kosten sowie die zu diesem Zweck dem
-    Schiff oder der Ladung absichtlich zugefügten Schäden zur großen
-    Haverei.
-
-
-4.  Wenn zur Abwendung einer durch Eisgang oder durch andere Umstände
-    verursachten Gefahr, zu deren Beseitigung die ordnungsmäßige Bemannung
-    des Schiffes nicht ausreicht, Hilfsmannschaften oder Schleppdampfer
-    angenommen werden, so gehören die hierdurch entstehenden Kosten und
-    Schäden zur großen Haverei. Erfolgt die Annahme von Schleppdampfern
-    oder Hilfsmannschaften im regelmäßigen Verlauf der Reise, so liegt
-    große Haverei nicht vor.
-
-
-5.  Wenn das Schiff wegen Eintritts des Winterfrosts gezwungen ist, einen
-    Zwischenhafen aufzusuchen, so gehören zur großen Haverei die Kosten
-    des Ein- und Auslaufens, die Schlepplöhne, die Hafengebühren, die für
-    die Bewachung des beladenen Schiffes erforderlich gewordenen Kosten
-    und, wenn zur Erleichterung des Schiffes die Ladung ganz oder
-    teilweise in Leichterfahrzeuge übergeladen worden ist, der
-    Leichterlohn sowie der durch die Leichterung entstandene Schaden gemäß
-    der Bestimmung unter Nummer 2.
-
-
-
-
-
-### § 83
-
-Wird außer dem Fall des § 82 Nr. 5 das Schiff genötigt, die Reise zu
-unterbrechen und an einem Zwischenort liegen zu bleiben, so gehören
-die durch den Aufenthalt an diesem Ort entstehenden Kosten und Schäden
-nicht zur großen Haverei.
-
-
-### § 84
-
-Wenn durch die Auseinandersetzung unter den Beteiligten Kosten
-entstehen, so gehören auch diese Kosten zur großen Haverei. Dies gilt
-insbesondere von den Kosten für die Ermittlung der Schäden und für die
-Aufstellung der Rechnung über die große Haverei (Dispache).
-
-
-### § 85
-
-(1) In bezug auf den Umfang und die Berechnung der für die große
-Haverei zu beanspruchenden Vergütungen und der für dieselbe zu
-leistenden Beiträge finden die auf die Seeschiffahrt bezüglichen
-Bestimmungen der §§ 709 bis 720, 722 bis 724 des Handelsgesetzbuchs
-entsprechende Anwendung. Güter, welche sich zur Zeit des Havereifalls
-in einem Leichterfahrzeug befunden haben (Handelsgesetzbuch § 718),
-sind jedoch nur unter der Voraussetzung beitragspflichtig, daß sie
-sich mit dem Schiff in Gefahr befunden haben. Auch findet bei der
-Ermittlung des von der Ladung zu leistenden Beitrags
-(Handelsgesetzbuch § 719) ein Abzug des Zolles für gerettete Güter nur
-insoweit statt, als der Zoll noch nicht entrichtet ist.
-
-(2) Bei der Schadensberechnung bleiben die Beschädigungen und Verluste
-außer Ansatz, welche betreffen:
-
-1.  diejenigen Güter, über die weder ein Frachtbrief oder Ladeschein
-    ausgestellt ist, noch das Manifest oder Ladebuch Auskunft gibt;
-
-
-2.  die Kostbarkeiten, Gelder und Wertpapiere, welche dem Frachtführer
-    nicht bezeichnet sind.
-
-
-
-
-(3) Die Ausnahme unter Nummer 1 gilt nicht für den Hafenverkehr.
-
-
-### § 86
-
-Die Verteilung der Schäden erfolgt an dem Ort, wo die Reise endet.
-
-
-### § 87
-
-(1) Die Dispache ist von dem Schiffer unverzüglich aufzustellen.
-
-(2) Derselbe ist berechtigt und auf Verlangen eines Beteiligten
-verpflichtet, die Aufstellung einem Sachverständigen (Dispacheur) zu
-übertragen. In Ermangelung eines für Havereifälle bei der Binnen- oder
-Seeschiffahrt ein für allemal bestellten Dispacheurs hat auf Antrag
-das Amtsgericht eine geeignete Person als Dispacheur besonders zu
-bestellen.
-
-(3) Jeder Beteiligte ist verpflichtet, die zur Aufstellung der
-Dispache erforderlichen Urkunden, soweit er sie zu seiner Verfügung
-hat, insbesondere Frachtbriefe, Ladescheine und Fakturen, dem Schiffer
-oder Dispacheur mitzuteilen.
-
-
-### § 88
-
-Wird die Aufstellung der Dispache verzögert, so ist jeder Beteiligte,
-unbeschadet seines Anspruchs auf Ersatz des durch die Verzögerung
-entstandenen Schadens, befugt, die Aufstellung der Dispache durch
-einen Dispacheur selbst zu veranlassen und zu betreiben.
-
-
-### § 89
-
-(1) Die Vergütungsberechtigten haben wegen der von dem Schiff zu
-entrichtenden Beiträge die Rechte von Schiffsgläubigern (§§ 102 bis
-115).
-
-(2) Auch in Ansehung der beitragspflichtigen Güter steht den
-Vergütungsberechtigten an den einzelnen Gütern wegen des von diesen zu
-entrichtenden Beitrags ein Pfandrecht zu. Das Pfandrecht kann jedoch
-nach der Auslieferung der Güter nicht zum Nachteil des dritten
-Erwerbers, welcher den Besitz in gutem Glauben erlangt hat, geltend
-gemacht werden.
-
-(3) Das an den beitragspflichtigen Gütern den Vergütungsberechtigten
-zustehende Pfandrecht wird für sämtliche Berechtigten durch den
-Frachtführer ausgeübt. Die Geltendmachung des Pfandrechts durch den
-Frachtführer erfolgt nach Maßgabe der Vorschriften, die für das
-Pfandrecht des Frachtführers wegen der Fracht und der Auslagen gelten.
-
-
-### § 90
-
-(1) Eine persönliche Verpflichtung zur Entrichtung des Beitrags wird
-durch den Havereifall nicht begründet.
-
-(2) Der Empfänger beitragspflichtiger Güter wird jedoch, wenn ihm bei
-der Annahme der Güter bekannt ist, daß davon ein Beitrag zu entrichten
-sei, für den letzteren insoweit persönlich verpflichtet, als der
-Beitrag, falls die Auslieferung nicht erfolgt wäre, aus den Gütern
-hätte geleistet werden können.
-
-
-### § 91
-
-(1) Der Schiffer darf Güter, auf welchen Havereibeiträge haften, vor
-deren Berichtigung oder Sicherstellung nicht ausliefern, widrigenfalls
-er für die Beiträge insoweit verantwortlich wird, als diese, falls die
-Auslieferung nicht erfolgt wäre, aus den Gütern hätten geleistet
-werden können.
-
-(2) Gegen Hinterlegung des beanspruchten Beitrags bei einer
-öffentlichen Hinterlegungsstelle hat die Auslieferung der Güter zu
-erfolgen.
-
-(3) Wird diese Hinterlegung verzögert, so ist der Schiffer berechtigt,
-die Güter in einem öffentlichen Lagerhaus oder in anderer sicherer
-Weise zu hinterlegen.
 
 
 ## Siebter Abschnitt - Zusammenstoß von Schiffen. Bergung
@@ -1133,13 +923,18 @@ Haftung aus Verträgen bleiben unberührt.
 
 ### § 93 Bergung
 
-Auf die Rechte und Pflichten des nicht von einem Seeschiff aus tätigen
-Bergers, der einem in Binnengewässern in Gefahr befindlichen
+(1) Auf die Rechte und Pflichten des nicht von einem Seeschiff aus
+tätigen Bergers, der einem in Binnengewässern in Gefahr befindlichen
 Binnenschiff oder sonstigen Vermögensgegenstand Hilfe leistet, sowie
 auf die Rechte und Pflichten der sonstigen an den Bergungsmaßnahmen
-beteiligten Personen finden die §§ 740 bis 753a, § 902 Nr. 3 und § 903
-Abs. 3 des Handelsgesetzbuchs sowie Artikel 8 des Einführungsgesetzes
-zum Handelsgesetzbuche entsprechende Anwendung.
+beteiligten Personen finden die §§ 574 bis 584, 585 Absatz 2 und 3, §§
+586 und 587, 606 Nummer 3 in Verbindung mit § 607 Absatz 7 und § 618
+des Handelsgesetzbuchs sowie Artikel 8 des Einführungsgesetzes zum
+Handelsgesetzbuche entsprechende Anwendung.
+
+(2) Der Gläubiger einer Forderung auf Bergelohn, auf Sondervergütung
+oder auf Bergungskosten hat nach § 102 Nummer 3 für seine Forderung
+die Rechte eines Schiffsgläubigers an dem geborgenen Schiff.
 
 
 ### (XXXX) §§ 94 bis 101 (weggefallen)
@@ -1190,13 +985,13 @@ Schiffsgläubigers:
 
 ### § 103
 
-(1) Die Schiffsgläubiger haben an dem Schiff nebst Zubehör ein
+(1) Die Schiffsgläubiger haben an dem Schiffe nebst Zubehör ein
 Pfandrecht.
 
 (2) Das Pfandrecht ist gegen jeden dritten Besitzer des Schiffes
 verfolgbar.
 
-(3) Die Befriedigung aus dem Pfand erfolgt auf Grund eines
+(3) Die Befriedigung aus dem Pfande erfolgt auf Grund eines
 vollstreckbaren Titels nach den Vorschriften über die
 Zwangsvollstreckung.
 
@@ -1260,14 +1055,14 @@ Schiffsgläubiger.
 
 (3) Erleidet ein Schiffsgläubiger, welchem der Schiffseigner nur mit
 dem Schiff haftet, dadurch einen Ausfall an seiner Forderung, daß
-seinem Pfandrecht an dem Schiff das Pfandrecht eines Gläubigers
+seinem Pfandrecht an dem Schiffe das Pfandrecht eines Gläubigers
 vorgeht, der nicht Schiffsgläubiger ist, so wird der Schiffseigner in
-Höhe dieses Ausfalls persönlich verpflichtet.
+Höhe dieses Ausfalles persönlich verpflichtet.
 
 
 ### § 110
 
-Wird außer dem Fall der Zwangsversteigerung das Schiff veräußert, so
+Wird außer dem Falle der Zwangsversteigerung das Schiff veräußert, so
 ist der Erwerber berechtigt, die Ausschließung der unbekannten
 Schiffsgläubiger mit ihren Pfandrechten im Wege des
 Aufgebotsverfahrens zu beantragen.
@@ -1302,12 +1097,12 @@ nach der gesetzlichen Rangordnung ergibt.
 Schiffsgläubigers, für welche er nur mit dem Schiff haftet, Kenntnis
 erhalten hat, das Schiff zu einer neuen Reise aus, ohne daß dies
 zugleich im Interesse des Gläubigers geboten war, so wird er für die
-Forderung in Höhe desjenigen Betrags auch persönlich verpflichtet,
+Forderung in Höhe desjenigen Betrages auch persönlich verpflichtet,
 welcher für den Gläubiger sich ergeben haben würde, falls der Wert,
 den das Schiff bei Antritt der Reise hatte, unter die Schiffsgläubiger
 nach der gesetzlichen Rangordnung verteilt worden wäre.
 
-(2) Bis zum Beweis des Gegenteils wird angenommen, daß der Gläubiger
+(2) Bis zum Beweise des Gegenteils wird angenommen, daß der Gläubiger
 bei dieser Verteilung seine vollständige Befriedigung erlangt haben
 würde.
 
@@ -1331,7 +1126,7 @@ eines Erlöses (§ 113).
 ### § 116
 
 (1) Die wegen der Beiträge zur großen Haverei auf den Ladungsgütern
-haftenden Pfandrechte gehen den in § 443 des Handelsgesetzbuchs
+haftenden Pfandrechte gehen den in § 442 des Handelsgesetzbuchs
 bezeichneten Pfandrechten vor. Unter den ersteren Pfandrechten hat das
 später entstandene vor dem früher entstandenen den Vorzug; die
 gleichzeitig entstandenen sind gleichberechtigt; Forderungen, welche
@@ -1416,7 +1211,7 @@ erlangt.
 In bürgerlichen Rechtsstreitigkeiten, in welchen durch Klage oder
 Widerklage ein Anspruch auf Grund dieses Gesetzes geltend gemacht ist,
 wird die Verhandlung und Entscheidung letzter Instanz im Sinne des § 8
-des Einführungsgesetzes zum Gerichtsverfassungsgesetz dem
+des Einführungsgesetzes zum Gerichtsverfassungsgesetze dem
 Bundesgerichtshof zugewiesen.
 
 
@@ -1449,8 +1244,10 @@ nicht der Betrieb mittels frei schwimmender Schiffe stattfindet.
 
 (weggefallen)
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 960)
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 960) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+### Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

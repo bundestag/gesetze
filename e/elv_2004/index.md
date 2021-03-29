@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2703
 
 Zuletzt geändert durch
-:   § 56 Abs. 45 V v. 12.2.2009 I 284
+:   Art. 514 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -49,8 +49,8 @@ Fassung, soweit sich aus dieser Verordnung nichts anderes ergibt.
 
 Soweit die Bundeslaufbahnverordnung dem Bundesministerium des Innern
 Zuständigkeiten zuweist, werden sie im Geltungsbereich dieser
-Verordnung vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
-wahrgenommen.
+Verordnung vom Bundesministerium für Verkehr und digitale
+Infrastruktur wahrgenommen.
 
 
 ## § 3 Leistungsgrundsatz, Förderung der Leistungsfähigkeit
@@ -863,8 +863,8 @@ Dienstbehörde im Einvernehmen mit der Gesellschaft zu bestimmender
 unabhängiger Ausschuss. Das Verfahren zur Feststellung der Befähigung
 und die Prüfungsanforderungen regelt die oberste Dienstbehörde nach
 Anhörung der Gesellschaft im Einvernehmen mit dem Bundesministerium
-für Verkehr, Bau und Stadtentwicklung. Die Regelung orientiert sich an
-der Verfahrensordnung des Bundespersonalausschusses zu § 19 des
+für Verkehr und digitale Infrastruktur. Die Regelung orientiert sich
+an der Verfahrensordnung des Bundespersonalausschusses zu § 19 des
 Bundesbeamtengesetzes. § 4 Abs. 2 bis 4 der Bundeslaufbahnverordnung
 in der Fassung der Bekanntmachung vom 2. Juli 2002 (BGBl. I S. 2459,
 2671), die zuletzt durch Artikel 15 Absatz 28 des Gesetzes vom 5.

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 1250, 1409
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.12.2011 I 2592
+:   Art. 13 G v. 14.8.2017 I 3214
 
 
 ## § 1 Anordnung als Bundesstatistik
@@ -79,7 +79,7 @@ der Länder festgelegten alternativen Sockelbeträge Berechnungen durch.
 (4) Das Statistische Bundesamt und die statistischen Ämter der Länder
 führen zur Verteilung des nach § 1 Satz 3 des Finanzausgleichsgesetzes
 festgesetzten Anteils am Aufkommen der Umsatzsteuer auf die Gemeinden
-Berechnungen nach § 5c des Gemeindefinanzreformgesetzes durch.
+Berechnungen nach § 5a des Gemeindefinanzreformgesetzes durch.
 
 
 ## § 2 Erhebungsmerkmale und Periodizität
@@ -108,10 +108,24 @@ Erhebungsmerkmale erfasst:
 
 
 
-(2) Für die Lohn- und Einkommensteuerstatistik werden alle drei Jahre,
-erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
+(2) Für die Lohn- und Einkommensteuerstatistik werden jährlich
+folgende Erhebungsmerkmale erfaßt:
 
-1.  von den steuerpflichtigen natürlichen Personen
+1.  von den zur Abgabe von Lohnsteuer-Anmeldungen verpflichteten
+    Arbeitgebern der steuerpflichtigen natürlichen Personen:
+
+    a)  einbehaltene Steuerbeträge und Abzugsbeträge von den einbehaltenen
+        Steuerbeträgen mit den im Besteuerungsverfahren festgestellten
+        Angaben;
+
+
+    b)  Anmeldungszeitraum, Zahl der Arbeitnehmer;
+
+
+
+
+
+2.  von den steuerpflichtigen natürlichen Personen
 
     a)  Bruttolohn, Einkünfte, Einkommen, zu versteuerndes Einkommen,
         Sondervergünstigungen, Lohn-, Einkommen- und Kirchensteuer,
@@ -130,7 +144,7 @@ erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
 
 
 
-2.  von Personengesellschaften und Gemeinschaften, soweit im
+3.  von Personengesellschaften und Gemeinschaften, soweit im
     Besteuerungsverfahren eine gesonderte und einheitliche Feststellung
     der Einkünfte vorgenommen worden ist,
 
@@ -145,10 +159,7 @@ erstmals für 1995, folgende Erhebungsmerkmale erfaßt:
 
 
 
-Ab 2008 werden von Personengesellschaften und Gemeinschaften, soweit
-im Besteuerungsverfahren eine gesonderte und einheitliche Feststellung
-der Einkünfte vorgenommen worden ist, die in Satz 1 Nr. 2 genannten
-Erhebungsmerkmale jährlich erfasst.
+Die Erhebungsmerkmale nach Satz 1 Nummer 1 werden ab 2018 erfasst.
 
 (3) Für die Körperschaftsteuerstatistik werden alle drei Jahre,
 erstmals für 1995, von den steuerpflichtigen Körperschaften,
@@ -165,6 +176,7 @@ erfaßt:
 
 
 
+Diese Erhebungsmerkmale werden ab 2014 jährlich erfasst.
 
 (4) Für die Vermögensteuerstatistik werden jeweils in Verbindung mit
 der Hauptveranlagung der Vermögensteuer nach dem Stand zum
@@ -263,7 +275,8 @@ für 1995, von den Steuerpflichtigen folgende Erhebungsmerkmale erfaßt:
 Für Betriebe beziehungsweise Betriebsstätten in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet entfällt die Erfassung gemäß
 Nummer 1 Buchstabe b bis zum Vorliegen der Voraussetzungen einer
-Erfassung.
+Erfassung. Die Erhebungsmerkmale nach Satz 1 werden ab 2011 jährlich
+erfasst.
 
 (7) Für die Erbschaft- und Schenkungsteuerstatistik werden folgende
 Erhebungsmerkmale erfasst:
@@ -312,12 +325,13 @@ Erhebungsmerkmale erfasst:
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur Lohn-
 und Einkommensteuer jährlich an das Bundesministerium der Finanzen.
-Die statistische Aufbereitung dieser Daten wird, erstmals für das
-Veranlagungsjahr 2001, dem Statistischen Bundesamt übertragen.
+Die statistische Aufbereitung dieser Daten wird für die
+Veranlagungsjahre 2001 bis 2011 dem Statistischen Bundesamt
+übertragen.
 
 (2) Mit Anlaufen der Förderung der zusätzlichen Altersvorsorge nach §
-10a des Einkommensteuergesetzes ab dem Veranlagungsjahr 2002 werden
-auch Angaben über deren Inanspruchnahme aufbereitet. Die zentrale
+10a des Einkommensteuergesetzes werden für die Veranlagungsjahre 2002
+bis 2010 Angaben über deren Inanspruchnahme aufbereitet. Die zentrale
 Stelle übermittelt hierzu die vorhandenen Angaben über die
 Altersvorsorgeförderung an das Statistische Bundesamt.
 
@@ -344,8 +358,10 @@ Forschungseinrichtungen weitergeben.
 (1) Die Länderfinanzverwaltungen übermitteln die im Rahmen des
 automatisierten Besteuerungsverfahrens vorhandenen Angaben zur
 Körperschaft- und Gewerbesteuer jährlich an das Bundesministerium der
-Finanzen. Die statistische Aufbereitung dieser Daten wird, erstmals
-für das Veranlagungsjahr 2004, dem Statistischen Bundesamt übertragen.
+Finanzen. Die statistische Aufbereitung der Daten zur
+Körperschaftsteuer für die Veranlagungsjahre 2004 bis 2012 sowie zur
+Gewerbesteuer für die Veranlagungsjahre 2004 bis 2009 wird dem
+Statistischen Bundesamt übertragen.
 
 (2) § 2a Absatz 3 und 4 ist entsprechend anzuwenden.
 
@@ -474,9 +490,9 @@ Bundesamt und den statistischen Ämtern der Länder gespeichert werden.
 
 ## § 6 Auskunftspflicht
 
-(1) Für die Statistiken nach diesem Gesetz einschließlich für die
-Angaben nach § 3 besteht Auskunftspflicht. Auskunftspflichtig sind die
-Finanzbehörden der Länder und die zentrale Stelle.
+(1) Für die Statistiken nach diesem Gesetz besteht Auskunftspflicht.
+Auskunftspflichtig sind die Finanzbehörden der Länder und die zentrale
+Stelle.
 
 (2) Für die Statistik nach § 1 Absatz 1 Nummer 2 und die Aufgaben nach
 § 1 Absatz 2 übermitteln die Finanzbehörden der Länder den
@@ -600,7 +616,13 @@ d)  über die veranlagte Körperschaftsteuer 1992,
 e)  über die Einheitswerte des Betriebsvermögens 1989,
 
 
-f)  über die Vermögensteuer 1989
+f)  über die Vermögensteuer 1989,
+
+
+g)  über die Gewerbesteuer 1995,
+
+
+h)  über die Erbschaft- und Schenkungsteuer 2002
 
 
 
@@ -626,10 +648,10 @@ Gemeindeschlüssel der Wohnsitzgemeinde übermittelt werden.
 dürfen Einzelangaben aus den Statistiken nach § 1 Abs. 1 Nr. 1, 3, 6
 und 7 miteinander und mit Einzelangaben aus der
 Einkommensteuerstatistik nach § 1 Abs. 1 Nr. 2, soweit sie sich auf
-Einzelunternehmen, Personengesellschaften und Gemeinschaften beziehen,
-zu den in § 7 Abs. 6 Satz 1 genannten Zwecken sowie für
-wissenschaftliche Analysen zusammenführen. Die nach Satz 1
-zusammengeführten Daten dürfen auch mit Daten aus dem
+Einzelunternehmen, Personengesellschaften, Gemeinschaften und
+juristische Personen beziehen, zu den in § 7 Abs. 6 Satz 1 genannten
+Zwecken sowie für wissenschaftliche Analysen zusammenführen. Die nach
+Satz 1 zusammengeführten Daten dürfen auch mit Daten aus dem
 Statistikregister nach § 1 Abs. 1 des Statistikregistergesetzes und
 mit Daten, die nach dem Verwaltungsdatenverwendungsgesetz übermittelt
 worden sind, zusammengeführt werden.
@@ -639,8 +661,15 @@ Statistische Bundesamt und die statistischen Ämter der Länder
 Einzelangaben aus den Statistiken nach § 1 Abs. 1 Nr. 1, 2, 3, 6 und 7
 zu demselben Steuerpflichtigen zusammenführen.
 
+(2a) Für Verlaufsuntersuchungen über mehrere Jahre dürfen das
+Statistische Bundesamt und die statistischen Ämter der Länder ab dem
+Jahr 2012 Einzelangaben aus der Statistik nach § 1 Absatz 1 Nummer 2,
+soweit sie sich auf steuerpflichtige natürliche Personen beziehen, mit
+den Einzelangaben aus der Statistik nach § 2a zu demselben
+Steuerpflichtigen zusammenführen.
+
 (3) Das Statistische Bundesamt und die statistischen Ämter der Länder
-dürfen die nach den Absätzen 1 und 2 zusammengeführten Daten für
+dürfen die nach den Absätzen 1, 2 und 2a zusammengeführten Daten für
 Zusatzaufbereitungen nach § 7 Abs. 6 ohne Hilfsmerkmale an das
 Bundesministerium der Finanzen und die obersten Finanzbehörden der
 Länder übermitteln. § 7 Abs. 4 Satz 4 bis 8 gilt entsprechend. Das

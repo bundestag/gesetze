@@ -6,7 +6,7 @@ Title: Gesetz zu dem Übereinkommen vom 29. Juli 1960 über die Haftung gegenüb
   bei der Beförderung von Kernmaterial auf See
 jurabk: AtHaftÜbkG
 layout: default
-origslug: athaft_bkg
+origslug: athaftuebkg
 slug: athaftuebkg
 
 ---

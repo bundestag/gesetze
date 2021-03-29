@@ -441,8 +441,11 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1998 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
+Forstwirtin
 
-## Anlage I (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin - sachliche Gliederung -
+## Anlage I - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 209 - 215)
 
@@ -1555,8 +1558,11 @@ Ausbildungsjahr
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur
+Forstwirtin
 
-## Anlage II (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Forstwirt/zur Forstwirtin - zeitliche Gliederung -
+## Anlage II - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1998, S. 216 - 218)
 

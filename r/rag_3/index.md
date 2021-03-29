@@ -86,18 +86,17 @@ Deutsche Mark.
 Rentenversicherung der Angestellten, die auf Versicherungsfällen der
 Jahre 1957, 1958 und 1959 beruhen und nach
 § 1253ff. der Reichsversicherungsordnung oder § 30ff. des
-Angestelltenversicherungsgesetzes              berechnet worden sind,
-sowie bei Renten aus der knappschaftlichen Rentenversicherung und
-Renten aus der Rentenversicherung der Arbeiter und der
-Rentenversicherung der Angestellten mit einem Leistungsteil aus der
-knappschaftlichen Rentenversicherung darf der nach § 1 Abs. 1 erster
-Halbsatz errechnete Betrag den Betrag nicht überschreiten, der sich
-ergeben würde, wenn die Rente ohne Änderung der übrigen
-Berechnungsfaktoren unter Zugrundelegung der allgemeinen
-Bemessungsgrundlage für das Jahr 1960 und der Beitragsbemessungsgrenze
-für dieses Jahr berechnet werden würde. Auf die übrigen Renten aus der
+Angestelltenversicherungsgesetzes berechnet worden sind, sowie bei
+Renten aus der knappschaftlichen Rentenversicherung und Renten aus der
 Rentenversicherung der Arbeiter und der Rentenversicherung der
-Angestellten findet
+Angestellten mit einem Leistungsteil aus der knappschaftlichen
+Rentenversicherung darf der nach § 1 Abs. 1 erster Halbsatz errechnete
+Betrag den Betrag nicht überschreiten, der sich ergeben würde, wenn
+die Rente ohne Änderung der übrigen Berechnungsfaktoren unter
+Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1960
+und der Beitragsbemessungsgrenze für dieses Jahr berechnet werden
+würde. Auf die übrigen Renten aus der Rentenversicherung der Arbeiter
+und der Rentenversicherung der Angestellten findet
 Artikel 2 § 34 des Arbeiterrentenversicherungs-Neuregelungsgesetzes
 oder Artikel 2 § 33 des Angestelltenversicherungs-Neuregelungsgesetzes
 Anwendung. Die in diesen Vorschriften angegebenen Werte werden durch
@@ -199,8 +198,8 @@ sinngemäß.
 (3) Absatz 1 Satz 1 gilt nicht für Renten aus der knappschaftlichen
 Rentenversicherung, die nach
 Artikel 2 § 11 oder Artikel 2 § 25 des
-Knappschaftsrentenversicherungs-Neuregelungsgesetzes
-berechnet worden sind.
+Knappschaftsrentenversicherungs-Neuregelungsgesetzes berechnet worden
+sind.
 
 
 ## § 4

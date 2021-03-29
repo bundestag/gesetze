@@ -22,7 +22,7 @@ Zuletzt geändert durch
 :   Art. 4 G v. 19.5.2009 I 1090
 
 
-## Art 1 -
+## Art 1 - 
 
 Dem am 15. Oktober 1954 in Bonn unterzeichneten Abkommen zwischen der
 Bundesrepublik Deutschland und den Vereinigten Staaten von Amerika
@@ -31,7 +31,7 @@ für die von den Vereinigten Staaten im Interesse der gemeinsamen
 Verteidigung geleisteten Ausgaben und seinem Anhang wird zugestimmt.
 
 
-## Art 2 -
+## Art 2 - 
 
 (1) Das Abkommen und der Anhang werden nachstehend mit Gesetzeskraft
 veröffentlicht.
@@ -40,7 +40,7 @@ veröffentlicht.
 Kraft tritt, ist im Bundesgesetzblatt bekanntzugeben.
 
 
-## Art 3 -
+## Art 3 - 
 
 Zur Ausführung des Abkommens wird folgendes bestimmt:
 
@@ -78,12 +78,12 @@ vereinbarte Dokument.
 
 
 
-## Art 4 -
+## Art 4 - 
 
 (weggefallen)
 
 
-## Art 5 -
+## Art 5 - 
 
 Dieses Gesetz tritt am Tage nach seiner Verkündung in Kraft.
 

@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.4.1995 I 510;
 
-Geändert durch
-:   Art. 10 G v. 10.11.2001 I 2992
+Zuletzt geändert durch
+:   Art. 3 Abs. 11 G v. 18.7.2016 I 1666
 
 
 ## § 1
@@ -140,7 +140,7 @@ oder abgelaufen ist und nicht mehr erteilt wird.
 
 
 
-von dem Antragsteller Kosten (Gebühren und Auslagen).
+von dem Antragsteller Gebühren und Auslagen.
 
 (2) Die Gebühren für die Prüfung eines Antrags auf Erteilung einer
 Unbedenklichkeitsbescheinigung, für die Erteilung einer
@@ -173,9 +173,10 @@ Für jede angefangene Viertelstunde ist ein Viertel dieser Stundensätze
 zu berechnen.
 
 (3) Wird ein Antrag nach Beginn und vor Beendigung der Prüfung
-zurückgezogen, so werden Kosten nach Absatz 1 Nr. 1 erhoben.
+zurückgezogen, so werden Gebühren und Auslagen nach Absatz 1 Nr. 1
+erhoben.
 
-(4) Die Gebühr nach Absatz 2 darf den Betrag von 2.500 Euro, die
+(4) Die Gebühr nach Absatz 2 darf den Betrag von 2 500 Euro, die
 Gebühr für die Erteilung einer Unbedenklichkeitsbescheinigung den
 Betrag von 250 Euro nicht übersteigen. Erfordert die Prüfung im
 Einzelfall einen außergewöhnlichen Aufwand, so kann diese Gebühr bis
@@ -186,9 +187,10 @@ Unbedenklichkeitsbescheinigung beträgt 40 Euro und für die Erteilung
 eines Abdrucks der Unbedenklichkeitsbescheinigung 25 Euro.
 
 (6) Daneben sind vom Antragsteller die in § 10 des
-Verwaltungskostengesetzes genannten Auslagen, insbesondere die
-Aufwendungen zu erstatten, die im Falle des § 1 Satz 3 durch die
-Beauftragung eines Fachinstituts entstehen.
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung genannten Auslagen, insbesondere die Aufwendungen zu
+erstatten, die im Falle des § 1 Satz 3 durch die Beauftragung eines
+Fachinstituts entstehen.
 
 
 ## § 7

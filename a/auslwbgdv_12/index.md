@@ -33,8 +33,8 @@ Zinsscheine, die zu den im Verzeichnis der Auslandsbonds (Anlage zu §
 ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar
 1953 - Bundesgesetzbl. I S. 31 - und durch § 1 der Neunten
 Durchführungsverordnung vom 16. August 1954 - Bundesgesetzblatt I S.
-267 -)              aufgeführten Arten von Auslandsbonds ausgestellt
-worden sind, können selbständig zur Anerkennung angemeldet werden; ein
+267 -) aufgeführten Arten von Auslandsbonds ausgestellt worden sind,
+können selbständig zur Anerkennung angemeldet werden; ein
 Feststellungsbescheid (§ 4 des Gesetzes) kann nicht beansprucht
 werden.
 

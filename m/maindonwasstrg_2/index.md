@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 913
 
 Zuletzt geändert durch
-:   Art. 312 V v. 31.10.2006 I 2407
+:   Art. 110 G v. 8.7.2016 I 1594
 
 
 ## § 1 (weggefallen)
@@ -24,16 +24,8 @@ Zuletzt geändert durch
 -
 
 
-## § 2 Verordnungsermächtigung
+## § 2 (weggefallen)
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, fertiggestellte und freigegebene Teilstrecken des Main-
-Donau-Kanals abweichend von § 2 Abs. 1 Satz 2 Halbsatz 1 des
-Bundeswasserstraßengesetzes vom 2. April 1968 (BGBl. II S. 173),
-zuletzt geändert durch
-§ 2 der Verordnung vom 2. Februar 1984 (BGBl. I S. 209),
-im Einvernehmen mit dem Bundesministerium der Finanzen durch
-Rechtsverordnung zu Bundeswasserstraßen zu erklären.
 
 
 ## § 3 Durchleiten von Wasser

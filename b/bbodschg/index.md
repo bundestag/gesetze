@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 502
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 30 G v. 24.2.2012 I 212
+:   Art. 3 Abs. 3 V v. 27.9.2017 I 3465
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -149,10 +149,8 @@ Altlasten Anwendung, soweit
     Abfällen zur Verwertung als Düngemittel im Sinne des § 2 des
     Düngegesetzes und der hierzu auf Grund des
     Kreislaufwirtschaftsgesetzes und des bis zum 1. Juni 2012 geltenden
-    Kreislaufwirtschafts- und Abfallgesetzes erlassenen Rechtsverordnungen
-    sowie der Klärschlammverordnung vom 15. April 1992 (BGBl. I S. 912),
-    die zuletzt durch Artikel 9 der Verordnung vom 9. November 2010 (BGBl.
-    I S. 1504) geändert worden ist,
+    Kreislaufwirtschafts- und Abfallgesetzes erlassenen
+    Rechtsverordnungen,
 
 
 2.  Vorschriften des Kreislaufwirtschaftsgesetzes über die Zulassung und
@@ -563,7 +561,7 @@ daß das Wohl der Allgemeinheit nicht beeinträchtigt wird.
 mit Nebenbestimmungen, für verbindlich erklären. Ein für verbindlich
 erklärter Plan schließt andere die Sanierung betreffende behördliche
 Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben,
-die nach § 3 in Verbindung mit der Anlage zu § 3 des Gesetzes über die
+die nach § 1 in Verbindung mit der Anlage 5 des Gesetzes über die
 Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
 Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im
 Einvernehmen mit der jeweils zuständigen Behörde erlassen und in dem
@@ -633,8 +631,8 @@ Anordnungen treffen.
 13 Abs. 6 nicht vorliegt, schließen Anordnungen zur Durchsetzung der
 Pflichten nach § 4 andere die Sanierung betreffende behördliche
 Entscheidungen mit Ausnahme von Zulassungsentscheidungen für Vorhaben,
-die nach § 3 in Verbindung mit der Anlage zu § 3 des Gesetzes über die
-Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
+die § 1 Absatz 1 Nummer 1 in Verbindung mit der Anlage 1 des Gesetzes
+über die Umweltverträglichkeitsprüfung oder kraft Landesrechts einer
 Umweltverträglichkeitsprüfung unterliegen, mit ein, soweit sie im
 Einvernehmen mit der jeweils zuständigen Behörde erlassen und in der
 Anordnung die miteingeschlossenen Entscheidungen aufgeführt werden.
@@ -908,10 +906,10 @@ abgesehen, ein festgesetzter Ausgleichsbetrag erlassen oder ein
 bereits geleisteter Ausgleichsbetrag erstattet werden.
 
 (6) Der Ausgleichsbetrag ruht als öffentliche Last auf dem Grundstück.
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die Art und Weise, wie
-im Grundbuch auf das Vorhandensein der öffentlichen Last hinzuweisen
-ist, zu regeln.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Art und Weise, wie im Grundbuch auf das Vorhandensein der öffentlichen
+Last hinzuweisen ist, zu regeln.
 
 
 ### § 26 Bußgeldvorschriften

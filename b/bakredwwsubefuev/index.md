@@ -5,7 +5,7 @@ Title: Verordnung zur Übertragung der Befugnis zum Erlaß von Rechtsverordnunge
   der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 jurabk: BAKredWWSUBefÜV
 layout: default
-origslug: bakredwwsubef_v
+origslug: bakredwwsubefuev
 slug: bakredwwsubefuev
 
 ---

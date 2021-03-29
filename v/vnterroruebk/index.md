@@ -2,7 +2,7 @@
 Title: Internationales Übereinkommen zur Bekämpfung nuklearterroristischer Handlungen
 jurabk: VNTerrorÜbk
 layout: default
-origslug: vnterror_bk
+origslug: vnterroruebk
 slug: vnterroruebk
 
 ---

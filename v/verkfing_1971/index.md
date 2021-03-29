@@ -56,7 +56,7 @@ a)  im öffentlichen Personennahverkehr mit Kraftfahrzeugen im genehmigten
     vom 21. März 1961 (Bundesgesetzbl. I S. 241), zuletzt geändert durch
     das
     Erste Gesetz zur Reform des Strafrechts vom 25. Juni 1969
-    (Bundesgesetzbl. I S. 645),                    oder
+    (Bundesgesetzbl. I S. 645), oder
 
 
 b)  bei Beförderungen von Schülern nach § 1 Nr. 4 Buchstabe d und von

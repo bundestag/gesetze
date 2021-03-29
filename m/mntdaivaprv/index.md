@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1554
 
+Zuletzt geändert durch
+:   Art. 15 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -218,12 +221,12 @@ dieser Verordnung nichts anderes bestimmt ist, wie folgt bewertet:
 
     *   2
 
-    *   ungenügend
-
 
 *    *   12,50 bis 24,99
 
     *   1
+
+    *   ungenügend
 
 
 *    *   00,00 bis 12,49
@@ -722,7 +725,7 @@ Prüfungskommission dürfen nur deren Mitglieder anwesend sein.
 Vorsitzende der Prüfungskommission ein Protokoll an, aus dem die
 wesentlichen Umstände der Prüfung und die Bewertung hervorgehen. Das
 Protokoll ist von allen Mitgliedern der Prüfungskommission zu
-unterschreiben.
+bestätigen.
 
 (7) Die mündliche Abschlussprüfung muss bis zum Ende des
 Vorbereitungsdienstes abgeschlossen sein.

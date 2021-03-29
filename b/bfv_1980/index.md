@@ -23,7 +23,7 @@ Neugefasst durch
 :   Bek. v. 13.12.1996 I 1937; 1997, 447,
 
 Zuletzt geändert durch
-:   Art. 82 G v. 21. 6.2005 I 1818
+:   Art. 11 V v. 2.6.2016 I 1257
 
 
 ## Inhaltsverzeichnis
@@ -107,10 +107,10 @@ auf andere Weise gewährleistet ist.
 
 ## § 7 Anlagen des Bundes
 
-(1) Für Anlagen der Wasser- und Schiffahrtsverwaltung des Bundes, der
-Bundeswehr sowie der Bundespolizei stehen die Befugnisse nach den §§ 5
-und 6 dem zuständigen Bundesministerium oder der von ihm bestimmten
-Behörde zu.
+(1) Für Anlagen der Wasserstraßen- und Schifffahrtsverwaltung des
+Bundes, der Bundeswehr sowie der Bundespolizei stehen die Befugnisse
+nach den §§ 5 und 6 dem zuständigen Bundesministerium oder der von ihm
+bestimmten Behörde zu.
 ...
 
 (2) (weggefallen)
@@ -162,9 +162,10 @@ für die Beurteilung der Anlage erforderlichen Unterlagen beizufügen.
 
 ## § 24 Aufsicht über Anlagen des Bundes
 
-Aufsichtsbehörde für Anlagen der Wasser- und Schiffahrtsverwaltung des
-Bundes, der Bundeswehr sowie der Bundespolizei ist das zuständige
-Bundesministerium oder die von ihm bestimmte Behörde.
+Aufsichtsbehörde für Anlagen der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes, der Bundeswehr sowie der
+Bundespolizei ist das zuständige Bundesministerium oder die von ihm
+bestimmte Behörde.
 ...
 
 

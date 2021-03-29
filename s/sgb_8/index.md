@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1990, 1163
 
 Neugefasst durch
-:   Bek. v. 11.9.2012 I 2022
+:   Bek. v. 11.9.2012 I 2022;
+
+Zuletzt geändert durch
+:   Art. 10 Abs. 10 G v. 30.10.2017 I 3618
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -92,7 +95,8 @@ junger Menschen und Familien.
 1.  die Inobhutnahme von Kindern und Jugendlichen (§ 42),
 
 
-2.  (weggefallen)
+2.  die vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen
+    nach unbegleiteter Einreise (§ 42a),
 
 
 3.  die Erteilung, der Widerruf und die Zurücknahme der Pflegeerlaubnis
@@ -246,7 +250,8 @@ unberührt.
 (2) Kind im Sinne des § 1 Absatz 2 ist, wer noch nicht 18 Jahre alt
 ist.
 
-(3) (weggefallen)
+(3) Werktage im Sinne der §§ 42a bis 42c sind die Wochentage Montag
+bis Freitag; ausgenommen sind gesetzliche Feiertage.
 
 (4) Die Bestimmungen dieses Buches, die sich auf die Annahme als Kind
 beziehen, gelten nur für Personen, die das 18. Lebensjahr noch nicht
@@ -562,7 +567,8 @@ insbesondere
 
 1.  Angebote der Familienbildung, die auf Bedürfnisse und Interessen sowie
     auf Erfahrungen von Familien in unterschiedlichen Lebenslagen und
-    Erziehungssituationen eingehen, die Familie zur Mitarbeit in
+    Erziehungssituationen eingehen, die Familien in ihrer
+    Gesundheitskompetenz stärken, die Familie zur Mitarbeit in
     Erziehungseinrichtungen und in Formen der Selbst- und
     Nachbarschaftshilfe besser befähigen sowie junge Menschen auf Ehe,
     Partnerschaft und das Zusammenleben mit Kindern vorbereiten,
@@ -586,10 +592,7 @@ elterlicher Erziehungs- und Beziehungskompetenzen angeboten werden.
 (4) Das Nähere über Inhalt und Umfang der Aufgaben regelt das
 Landesrecht.
 
-(5) Ab 2013 soll für diejenigen Eltern, die ihre Kinder von ein bis
-drei Jahren nicht in Einrichtungen betreuen lassen wollen oder können,
-eine monatliche Zahlung (zum Beispiel Betreuungsgeld) eingeführt
-werden.
+(5) (weggefallen)
 
 
 #### § 17 Beratung in Fragen der Partnerschaft, Trennung und Scheidung
@@ -644,13 +647,14 @@ und Unterstützung
 
 
 (2) Mütter und Väter, die mit dem anderen Elternteil nicht verheiratet
-sind, haben Anspruch auf Beratung über die Abgabe einer
-Sorgeerklärung.
+sind, haben Anspruch auf Beratung über die Abgabe einer Sorgeerklärung
+und die Möglichkeit der gerichtlichen Übertragung der gemeinsamen
+elterlichen Sorge.
 
 (3) Kinder und Jugendliche haben Anspruch auf Beratung und
 Unterstützung bei der Ausübung des Umgangsrechts nach § 1684 Absatz 1
 des Bürgerlichen Gesetzbuchs. Sie sollen darin unterstützt werden,
-dass die Personen, die nach Maßgabe der §§ 1684 und 1685 des
+dass die Personen, die nach Maßgabe der §§ 1684, 1685 und 1686a des
 Bürgerlichen Gesetzbuchs zum Umgang mit ihnen berechtigt sind, von
 diesem Recht zu ihrem Wohl Gebrauch machen. Eltern, andere
 Umgangsberechtigte sowie Personen, in deren Obhut sich das Kind
@@ -871,20 +875,8 @@ werden.
 
 #### § 24 Anspruch auf Förderung in Tageseinrichtungen und in Kindertagespflege
 
-[^F777306_01_BJNR111630990BJNE004915140]
-
-(1) Ein Kind hat vom vollendeten dritten Lebensjahr bis zum
-Schuleintritt Anspruch auf den Besuch einer Tageseinrichtung. Die
-Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für
-diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen
-oder ergänzend Förderung in Kindertagespflege zur Verfügung steht.
-
-(2) Für Kinder im Alter unter drei Jahren und im schulpflichtigen
-Alter ist ein bedarfsgerechtes Angebot an Plätzen in
-Tageseinrichtungen und in Kindertagespflege vorzuhalten.
-
-(3) Ein Kind, das das dritte Lebensjahr noch nicht vollendet hat, ist
-in einer Tageseinrichtung oder in Kindertagespflege zu fördern, wenn
+(1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist
+in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
 
 1.  diese Leistung für seine Entwicklung zu einer eigenverantwortlichen
     und gemeinschaftsfähigen Persönlichkeit geboten ist oder
@@ -912,92 +904,23 @@ Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt
 diese Person an die Stelle der Erziehungsberechtigten. Der Umfang der
 täglichen Förderung richtet sich nach dem individuellen Bedarf.
 
-(4) Die Träger der öffentlichen Jugendhilfe oder die von ihnen
-beauftragten Stellen sind verpflichtet, Eltern oder Elternteile, die
-Leistungen nach Absatz 1 oder 2 in Anspruch nehmen wollen, über das
-Platzangebot im örtlichen Einzugsbereich und die pädagogische
-Konzeption der Einrichtungen zu informieren und sie bei der Auswahl zu
-beraten. Landesrecht kann bestimmen, dass Eltern den Träger der
-öffentlichen Jugendhilfe oder die beauftragte Stelle innerhalb einer
-bestimmten Frist vor der beabsichtigten Inanspruchnahme der Leistung
-in Kenntnis setzen.
-
-(5) Geeignete Tagespflegepersonen im Sinne von § 23 Absatz 3 können
-auch vermittelt werden, wenn die Voraussetzungen nach Absatz 3 nicht
-vorliegen. In diesem Fall besteht die Pflicht zur Gewährung einer
-laufenden Geldleistung nach § 23 Absatz 1 nicht; Aufwendungen nach §
-23 Absatz 2 Satz 1 Nummer 3 können erstattet werden.
-
-(6) Weitergehendes Landesrecht bleibt unberührt.
-
-[^F777306_01_BJNR111630990BJNE004915140]:     § 24 gilt gemäß Artikel 1 Nummer 7 in Verbindung mit Artikel 10 Absatz
-    3 Satz 1 des Gesetzes vom 10. Dezember 2008 (BGBl. I S. 2403) ab 1.
-    August 2013 in folgender Fassung:
-    „§ 24                          Anspruch auf Förderung
-    in Tageseinrichtungen und in Kindertagespflege
-
-
-(1) Ein Kind, das das erste Lebensjahr noch nicht vollendet hat, ist
-in einer Einrichtung oder in Kindertagespflege zu fördern, wenn
-
-
-1\.
-
-diese Leistung für seine Entwicklung zu einer eigenverantwortlichen
-und gemeinschaftsfähigen Persönlichkeit geboten ist oder
-
-
-2\.
-
-die Erziehungsberechtigten
-
-
-
-a)
-
-einer Erwerbstätigkeit nachgehen, eine Erwerbstätigkeit aufnehmen oder
-Arbeit suchend sind,
-
-
-
-b)
-
-sich in einer beruflichen Bildungsmaßnahme, in der Schulausbildung
-oder Hochschulausbildung befinden oder
-
-
-
-c)
-
-Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches
-erhalten.
-
-
-Lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt
-diese Person an die Stelle der Erziehungsberechtigten. Der Umfang der
-täglichen Förderung richtet sich nach dem individuellen Bedarf.
-
-
-(2) Ein Kind, das das erste Lebensjahr vollendet hat, hat bis zur
+(2) Ein Kind, das das erste Lebensjahr vollendet hat, hat bis zur
 Vollendung des dritten Lebensjahres Anspruch auf frühkindliche
 Förderung in einer Tageseinrichtung oder in Kindertagespflege. Absatz
 1 Satz 3 gilt entsprechend.
 
-
-(3) Ein Kind, das das dritte Lebensjahr vollendet hat, hat bis zum
+(3) Ein Kind, das das dritte Lebensjahr vollendet hat, hat bis zum
 Schuleintritt Anspruch auf Förderung in einer Tageseinrichtung. Die
 Träger der öffentlichen Jugendhilfe haben darauf hinzuwirken, dass für
 diese Altersgruppe ein bedarfsgerechtes Angebot an Ganztagsplätzen zur
 Verfügung steht. Das Kind kann bei besonderem Bedarf oder ergänzend
 auch in Kindertagespflege gefördert werden.
 
-
-(4) Für Kinder im schulpflichtigen Alter ist ein bedarfsgerechtes
+(4) Für Kinder im schulpflichtigen Alter ist ein bedarfsgerechtes
 Angebot in Tageseinrichtungen vorzuhalten. Absatz 1 Satz 3 und Absatz
 3 Satz 3 gelten entsprechend.
 
-
-(5) Die Träger der öffentlichen Jugendhilfe oder die von ihnen
+(5) Die Träger der öffentlichen Jugendhilfe oder die von ihnen
 beauftragten Stellen sind verpflichtet, Eltern oder Elternteile, die
 Leistungen nach den Absätzen 1 bis 4 in Anspruch nehmen wollen, über
 das Platzangebot im örtlichen Einzugsbereich und die pädagogische
@@ -1007,74 +930,7 @@ Personen den zuständigen Träger der öffentlichen Jugendhilfe oder die
 beauftragte Stelle innerhalb einer bestimmten Frist vor der
 beabsichtigten Inanspruchnahme der Leistung in Kenntnis setzen.
 
-
-(6) Weitergehendes Landesrecht bleibt unberührt.“
-
-
-
-
-
-#### § 24a Übergangsregelung und stufenweiser Ausbau des Förderangebots für Kinder unter drei Jahren
-
-[^F777306_02_BJNR111630990BJNE015208140]
-
-(1) Kann ein Träger der öffentlichen Jugendhilfe das zur Erfüllung der
-Verpflichtung nach § 24 Absatz 3 erforderliche Angebot noch nicht
-vorhalten, so ist er zum stufenweisen Ausbau des Förderangebots für
-Kinder unter drei Jahren nach Maßgabe der Absätze 2 und 3
-verpflichtet.
-
-(2) Die Befugnis zum stufenweisen Ausbau umfasst die Verpflichtung,
-
-1.  jährliche Ausbaustufen zur Verbesserung des Versorgungsniveaus zu
-    beschließen und
-
-
-2.  jährlich zum 31. Dezember jeweils den erreichten Ausbaustand
-    festzustellen und den Bedarf zur Erfüllung der Kriterien nach § 24
-    Absatz 3 zu ermitteln.
-
-
-
-
-(3) Ab dem 1. Oktober 2010 sind die Träger der öffentlichen
-Jugendhilfe verpflichtet, mindestens ein Angebot vorzuhalten, das eine
-Förderung aller Kinder ermöglicht,
-
-1.  deren Erziehungsberechtigte
-
-    a)  einer Erwerbstätigkeit nachgehen oder eine Erwerbstätigkeit aufnehmen,
-
-
-    b)  sich in einer beruflichen Bildungsmaßnahme, in der Schulausbildung
-        oder Hochschulausbildung befinden oder
-
-
-    c)  Leistungen zur Eingliederung in Arbeit im Sinne des Zweiten Buches
-        erhalten;
-
-
-
-    lebt das Kind nur mit einem Erziehungsberechtigten zusammen, so tritt
-    diese Person an die Stelle der Erziehungsberechtigten;
-
-
-2.  deren Wohl ohne eine entsprechende Förderung nicht gewährleistet ist.
-
-
-
-
-(4) Solange das zur Erfüllung der Verpflichtung nach § 24 Absatz 3
-erforderliche Angebot noch nicht zur Verfügung steht, sind bei der
-Vergabe der frei werdenden und der neu geschaffenen Plätze Kinder, die
-die in § 24 Absatz 3 geregelten Förderungsvoraussetzungen erfüllen,
-besonders zu berücksichtigen.
-
-(5) Die Bundesregierung hat dem Deutschen Bundestag jährlich einen
-Bericht über den Stand des Ausbaus nach Absatz 2 vorzulegen.
-
-[^F777306_02_BJNR111630990BJNE015208140]:     Gemäß Artikel 10 Absatz 3 Satz 2 des Gesetzes vom 10. Dezember 2008
-    (BGBl. I S. 2403) tritt § 24a am 1. August 2013 außer Kraft.
+(6) Weitergehendes Landesrecht bleibt unberührt.
 
 
 #### § 25 Unterstützung selbst organisierter Förderung von Kindern
@@ -1490,8 +1346,8 @@ Betrages wird in den Fällen der §§ 34, 35, 35a Absatz 2 Nummer 4 von
 der nach Landesrecht zuständigen Behörde festgesetzt; die Beträge
 sollen nach Altersgruppen gestaffelt sein. Die laufenden Leistungen im
 Rahmen der Hilfe in Vollzeitpflege (§ 33) oder bei einer geeigneten
-Pflegeperson (§ 35a Absatz 2 Satz 2 Nummer 3) sind nach den Absätzen 4
-bis 6 zu bemessen.
+Pflegeperson (§ 35a Absatz 2 Nummer 3) sind nach den Absätzen 4 bis 6
+zu bemessen.
 
 (3) Einmalige Beihilfen oder Zuschüsse können insbesondere zur
 Erstausstattung einer Pflegestelle, bei wichtigen persönlichen
@@ -1625,7 +1481,14 @@ sicherzustellen; § 39 Absatz 4 Satz 2 gilt entsprechend. Das Jugendamt
 ist während der Inobhutnahme berechtigt, alle Rechtshandlungen
 vorzunehmen, die zum Wohl des Kindes oder Jugendlichen notwendig sind;
 der mutmaßliche Wille der Personensorge- oder der
-Erziehungsberechtigten ist dabei angemessen zu berücksichtigen.
+Erziehungsberechtigten ist dabei angemessen zu berücksichtigen. Im
+Fall des Absatzes 1 Satz 1 Nummer 3 gehört zu den Rechtshandlungen
+nach Satz 4, zu denen das Jugendamt verpflichtet ist, insbesondere die
+unverzügliche Stellung eines Asylantrags für das Kind oder den
+Jugendlichen in Fällen, in denen Tatsachen die Annahme rechtfertigen,
+dass das Kind oder der Jugendliche internationalen Schutz im Sinne des
+§ 1 Absatz 1 Nummer 2 des Asylgesetzes benötigt; dabei ist das Kind
+oder der Jugendliche zu beteiligen.
 
 (3) Das Jugendamt hat im Fall des Absatzes 1 Satz 1 Nummer 1 und 2 die
 Personensorge- oder Erziehungsberechtigten unverzüglich von der
@@ -1674,6 +1537,283 @@ Beginn zu beenden.
 
 (6) Ist bei der Inobhutnahme die Anwendung unmittelbaren Zwangs
 erforderlich, so sind die dazu befugten Stellen hinzuzuziehen.
+
+
+#### § 42a Vorläufige Inobhutnahme von ausländischen Kindern und Jugendlichen nach unbegleiteter Einreise
+
+(1) Das Jugendamt ist berechtigt und verpflichtet, ein ausländisches
+Kind oder einen ausländischen Jugendlichen vorläufig in Obhut zu
+nehmen, sobald dessen unbegleitete Einreise nach Deutschland
+festgestellt wird. Ein ausländisches Kind oder ein ausländischer
+Jugendlicher ist grundsätzlich dann als unbegleitet zu betrachten,
+wenn die Einreise nicht in Begleitung eines Personensorgeberechtigten
+oder Erziehungsberechtigten erfolgt; dies gilt auch, wenn das Kind
+oder der Jugendliche verheiratet ist. § 42 Absatz 1 Satz 2, Absatz 2
+Satz 2 und 3, Absatz 5 sowie 6 gilt entsprechend.
+
+(2) Das Jugendamt hat während der vorläufigen Inobhutnahme zusammen
+mit dem Kind oder dem Jugendlichen einzuschätzen,
+
+1.  ob das Wohl des Kindes oder des Jugendlichen durch die Durchführung
+    des Verteilungsverfahrens gefährdet würde,
+
+
+2.  ob sich eine mit dem Kind oder dem Jugendlichen verwandte Person im
+    Inland oder im Ausland aufhält,
+
+
+3.  ob das Wohl des Kindes oder des Jugendlichen eine gemeinsame
+    Inobhutnahme mit Geschwistern oder anderen unbegleiteten ausländischen
+    Kindern oder Jugendlichen erfordert und
+
+
+4.  ob der Gesundheitszustand des Kindes oder des Jugendlichen die
+    Durchführung des Verteilungsverfahrens innerhalb von 14 Werktagen nach
+    Beginn der vorläufigen Inobhutnahme ausschließt; hierzu soll eine
+    ärztliche Stellungnahme eingeholt werden.
+
+
+
+Auf der Grundlage des Ergebnisses der Einschätzung nach Satz 1
+entscheidet das Jugendamt über die Anmeldung des Kindes oder des
+Jugendlichen zur Verteilung oder den Ausschluss der Verteilung.
+
+(3) Das Jugendamt ist während der vorläufigen Inobhutnahme berechtigt
+und verpflichtet, alle Rechtshandlungen vorzunehmen, die zum Wohl des
+Kindes oder des Jugendlichen notwendig sind. Dabei ist das Kind oder
+der Jugendliche zu beteiligen und der mutmaßliche Wille der Personen-
+oder der Erziehungsberechtigten angemessen zu berücksichtigen.
+
+(4) Das Jugendamt hat der nach Landesrecht für die Verteilung von
+unbegleiteten ausländischen Kindern und Jugendlichen zuständigen
+Stelle die vorläufige Inobhutnahme des Kindes oder des Jugendlichen
+innerhalb von sieben Werktagen nach Beginn der Maßnahme zur Erfüllung
+der in § 42b genannten Aufgaben mitzuteilen. Zu diesem Zweck sind auch
+die Ergebnisse der Einschätzung nach Absatz 2 Satz 1 mitzuteilen. Die
+nach Landesrecht zuständige Stelle hat gegenüber dem
+Bundesverwaltungsamt innerhalb von drei Werktagen das Kind oder den
+Jugendlichen zur Verteilung anzumelden oder den Ausschluss der
+Verteilung anzuzeigen.
+
+(5) Soll das Kind oder der Jugendliche im Rahmen eines
+Verteilungsverfahrens untergebracht werden, so umfasst die vorläufige
+Inobhutnahme auch die Pflicht,
+
+1.  die Begleitung des Kindes oder des Jugendlichen und dessen Übergabe
+    durch eine insofern geeignete Person an das für die Inobhutnahme nach
+    § 42 Absatz 1 Satz 1 Nummer 3 zuständige Jugendamt sicherzustellen
+    sowie
+
+
+2.  dem für die Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3
+    zuständigen Jugendamt unverzüglich die personenbezogenen Daten zu
+    übermitteln, die zur Wahrnehmung der Aufgaben nach § 42 erforderlich
+    sind.
+
+
+
+Hält sich eine mit dem Kind oder dem Jugendlichen verwandte Person im
+Inland oder im Ausland auf, hat das Jugendamt auf eine Zusammenführung
+des Kindes oder des Jugendlichen mit dieser Person hinzuwirken, wenn
+dies dem Kindeswohl entspricht. Das Kind oder der Jugendliche ist an
+der Übergabe und an der Entscheidung über die Familienzusammenführung
+angemessen zu beteiligen.
+
+(6) Die vorläufige Inobhutnahme endet mit der Übergabe des Kindes oder
+des Jugendlichen an die Personensorge- oder Erziehungsberechtigten
+oder an das aufgrund der Zuweisungsentscheidung der zuständigen
+Landesbehörde nach § 88a Absatz 2 Satz 1 zuständige Jugendamt oder mit
+der Anzeige nach Absatz 4 Satz 3 über den Ausschluss des
+Verteilungsverfahrens nach § 42b Absatz 4.
+
+
+#### § 42b Verfahren zur Verteilung unbegleiteter ausländischer Kinder und Jugendlicher
+
+(1) Das Bundesverwaltungsamt benennt innerhalb von zwei Werktagen nach
+Anmeldung eines unbegleiteten ausländischen Kindes oder Jugendlichen
+zur Verteilung durch die zuständige Landesstelle das zu dessen
+Aufnahme verpflichtete Land. Maßgebend dafür ist die Aufnahmequote
+nach § 42c.
+
+(2) Im Rahmen der Aufnahmequote nach § 42c soll vorrangig dasjenige
+Land benannt werden, in dessen Bereich das Jugendamt liegt, das das
+Kind oder den Jugendlichen nach § 42a vorläufig in Obhut genommen hat.
+Hat dieses Land die Aufnahmequote nach § 42c bereits erfüllt, soll das
+nächstgelegene Land benannt werden.
+
+(3) Die nach Landesrecht für die Verteilung von unbegleiteten
+ausländischen Kindern oder Jugendlichen zuständige Stelle des nach
+Absatz 1 benannten Landes weist das Kind oder den Jugendlichen
+innerhalb von zwei Werktagen einem in seinem Bereich gelegenen
+Jugendamt zur Inobhutnahme nach § 42 Absatz 1 Satz 1 Nummer 3 zu und
+teilt dies demjenigen Jugendamt mit, welches das Kind oder den
+Jugendlichen nach § 42a vorläufig in Obhut genommen hat. Maßgeblich
+für die Zuweisung sind die spezifischen Schutzbedürfnisse und Bedarfe
+unbegleiteter ausländischer Minderjähriger. Für die Verteilung von
+unbegleiteten ausländischen Kindern oder Jugendlichen ist das
+Landesjugendamt zuständig, es sei denn, dass Landesrecht etwas anderes
+regelt.
+
+(4) Die Durchführung eines Verteilungsverfahrens ist bei einem
+unbegleiteten ausländischen Kind oder Jugendlichen ausgeschlossen,
+wenn
+
+1.  dadurch dessen Wohl gefährdet würde,
+
+
+2.  dessen Gesundheitszustand die Durchführung eines Verteilungsverfahrens
+    innerhalb von 14 Werktagen nach Beginn der vorläufigen Inobhutnahme
+    gemäß § 42a nicht zulässt,
+
+
+3.  dessen Zusammenführung mit einer verwandten Person kurzfristig
+    erfolgen kann, zum Beispiel aufgrund der Verordnung (EU) Nr. 604/2013
+    des Europäischen Parlaments und des Rates vom 26. Juni 2013 zur
+    Festlegung der Kriterien und Verfahren zur Bestimmung des
+    Mitgliedstaats, der für die Prüfung eines von einem
+    Drittstaatsangehörigen oder Staatenlosen in einem Mitgliedstaat
+    gestellten Antrags auf internationalen Schutz zuständig ist (ABl. L
+    180 vom 29.6.2013, S. 31), und dies dem Wohl des Kindes entspricht
+    oder
+
+
+4.  die Durchführung des Verteilungsverfahrens nicht innerhalb von einem
+    Monat nach Beginn der vorläufigen Inobhutnahme erfolgt.
+
+
+
+
+(5) Geschwister dürfen nicht getrennt werden, es sei denn, dass das
+Kindeswohl eine Trennung erfordert. Im Übrigen sollen unbegleitete
+ausländische Kinder oder Jugendliche im Rahmen der Aufnahmequote nach
+§ 42c nach Durchführung des Verteilungsverfahrens gemeinsam nach § 42
+in Obhut genommen werden, wenn das Kindeswohl dies erfordert.
+
+(6) Der örtliche Träger stellt durch werktägliche Mitteilungen sicher,
+dass die nach Landesrecht für die Verteilung von unbegleiteten
+ausländischen Kindern und Jugendlichen zuständige Stelle jederzeit
+über die für die Zuweisung nach Absatz 3 erforderlichen Angaben
+unterrichtet wird. Die nach Landesrecht für die Verteilung von
+unbegleiteten ausländischen Kindern oder Jugendlichen zuständige
+Stelle stellt durch werktägliche Mitteilungen sicher, dass das
+Bundesverwaltungsamt jederzeit über die Angaben unterrichtet wird, die
+für die Benennung des zur Aufnahme verpflichteten Landes nach Absatz 1
+erforderlich sind.
+
+(7) Gegen Entscheidungen nach dieser Vorschrift findet kein
+Widerspruch statt. Die Klage gegen Entscheidungen nach dieser
+Vorschrift hat keine aufschiebende Wirkung.
+
+(8) Das Nähere regelt das Landesrecht.
+
+
+#### § 42c Aufnahmequote
+
+(1) Die Länder können durch Vereinbarung einen Schlüssel als Grundlage
+für die Benennung des zur Aufnahme verpflichteten Landes nach § 42b
+Absatz 1 festlegen. Bis zum Zustandekommen dieser Vereinbarung oder
+bei deren Wegfall richtet sich die Aufnahmequote für das jeweilige
+Kalenderjahr nach dem von dem Büro der Gemeinsamen
+Wissenschaftskonferenz im Bundesanzeiger veröffentlichten Schlüssel,
+der für das vorangegangene Kalenderjahr entsprechend den
+Steuereinnahmen und der Bevölkerungszahl der Länder errechnet worden
+ist (Königsteiner Schlüssel), und nach dem Ausgleich für den Bestand
+der Anzahl unbegleiteter ausländischer Minderjähriger, denen am 1.
+November 2015 in den einzelnen Ländern Jugendhilfe gewährt wird. Ein
+Land kann seiner Aufnahmepflicht eine höhere Quote als die
+Aufnahmequote nach Satz 1 oder 2 zugrunde legen; dies ist gegenüber
+dem Bundesverwaltungsamt anzuzeigen.
+
+(2) Ist die Durchführung des Verteilungsverfahrens ausgeschlossen,
+wird die Anzahl der im Land verbleibenden unbegleiteten ausländischen
+Kinder und Jugendlichen auf die Aufnahmequote nach Absatz 1
+angerechnet. Gleiches gilt, wenn der örtliche Träger eines anderen
+Landes die Zuständigkeit für die Inobhutnahme eines unbegleiteten
+ausländischen Kindes oder Jugendlichen von dem nach § 88a Absatz 2
+zuständigen örtlichen Träger übernimmt.
+
+(3) Bis zum 1. Mai 2017 wird die Aufnahmepflicht durch einen Abgleich
+der aktuellen Anzahl unbegleiteter ausländischer Minderjähriger in den
+Ländern mit der Aufnahmequote nach Absatz 1 werktäglich ermittelt.
+
+
+#### § 42d Übergangsregelung
+
+(1) Kann ein Land die Anzahl von unbegleiteten ausländischen Kindern
+oder Jugendlichen, die seiner Aufnahmequote nach § 42c entspricht,
+nicht aufnehmen, so kann es dies gegenüber dem Bundesverwaltungsamt
+anzeigen.
+
+(2) In diesem Fall reduziert sich für das Land die Aufnahmequote
+
+1.  bis zum 1. Dezember 2015 um zwei Drittel sowie
+
+
+2.  bis zum 1. Januar 2016 um ein Drittel.
+
+
+
+
+(3) Bis zum 31. Dezember 2016 kann die Ausschlussfrist nach § 42b
+Absatz 4 Nummer 4 um einen Monat verlängert werden, wenn die
+zuständige Landesstelle gegenüber dem Bundesverwaltungsamt anzeigt,
+dass die Durchführung des Verteilungsverfahrens in Bezug auf einen
+unbegleiteten ausländischen Minderjährigen nicht innerhalb dieser
+Frist erfolgen kann. In diesem Fall hat das Jugendamt nach Ablauf
+eines Monats nach Beginn der vorläufigen Inobhutnahme die Bestellung
+eines Vormunds oder Pflegers zu veranlassen.
+
+(4) Ab dem 1. August 2016 ist die Geltendmachung des Anspruchs des
+örtlichen Trägers gegenüber dem nach § 89d Absatz 3
+erstattungspflichtigen Land auf Erstattung der Kosten, die vor dem 1.
+November 2015 entstanden sind, ausgeschlossen. Der Erstattungsanspruch
+des örtlichen Trägers gegenüber dem nach § 89d Absatz 3
+erstattungspflichtigen Land verjährt in einem Jahr; im Übrigen gilt §
+113 des Zehnten Buches entsprechend.
+
+(5) Die Geltendmachung des Anspruchs des örtlichen Trägers gegenüber
+dem nach § 89d Absatz 3 erstattungspflichtigen Land auf Erstattung der
+Kosten, die nach dem 1. November 2015 entstanden sind, ist
+ausgeschlossen. Die Erstattung dieser Kosten richtet sich nach § 89d
+Absatz 1.
+
+
+#### § 42e Berichtspflicht
+
+Die Bundesregierung hat dem Deutschen Bundestag jährlich einen Bericht
+über die Situation unbegleiteter ausländischer Minderjähriger in
+Deutschland vorzulegen.
+
+
+#### § 42f Behördliches Verfahren zur Altersfeststellung
+
+(1) Das Jugendamt hat im Rahmen der vorläufigen Inobhutnahme der
+ausländischen Person gemäß § 42a deren Minderjährigkeit durch
+Einsichtnahme in deren Ausweispapiere festzustellen oder hilfsweise
+mittels einer qualifizierten Inaugenscheinnahme einzuschätzen und
+festzustellen. § 8 Absatz 1 und § 42 Absatz 2 Satz 2 sind entsprechend
+anzuwenden.
+
+(2) Auf Antrag des Betroffenen oder seines Vertreters oder von Amts
+wegen hat das Jugendamt in Zweifelsfällen eine ärztliche Untersuchung
+zur Altersbestimmung zu veranlassen. Ist eine ärztliche Untersuchung
+durchzuführen, ist die betroffene Person durch das Jugendamt umfassend
+über die Untersuchungsmethode und über die möglichen Folgen der
+Altersbestimmung aufzuklären. Ist die ärztliche Untersuchung von Amts
+wegen durchzuführen, ist die betroffene Person zusätzlich über die
+Folgen einer Weigerung, sich der ärztlichen Untersuchung zu
+unterziehen, aufzuklären; die Untersuchung darf nur mit Einwilligung
+der betroffenen Person und ihres Vertreters durchgeführt werden. Die
+§§ 60, 62 und 65 bis 67 des Ersten Buches sind entsprechend
+anzuwenden.
+
+(3) Widerspruch und Klage gegen die Entscheidung des Jugendamts,
+aufgrund der Altersfeststellung nach dieser Vorschrift die vorläufige
+Inobhutnahme nach § 42a oder die Inobhutnahme nach § 42 Absatz 1 Satz
+1 Nummer 3 abzulehnen oder zu beenden, haben keine aufschiebende
+Wirkung. Landesrecht kann bestimmen, dass gegen diese Entscheidung
+Klage ohne Nachprüfung in einem Vorverfahren nach § 68 der
+Verwaltungsgerichtsordnung erhoben werden kann.
 
 
 ### Zweiter Abschnitt - Schutz von Kindern und Jugendlichen in Familienpflege und in Einrichtungen
@@ -1803,10 +1943,10 @@ Regel anzunehmen, wenn
     Voraussetzungen für den Betrieb erfüllt sind,
 
 
-2.  die gesellschaftliche und sprachliche Integration in der Einrichtung
-    unterstützt wird sowie die gesundheitliche Vorsorge und die
-    medizinische Betreuung der Kinder und Jugendlichen nicht erschwert
-    werden sowie
+2.  die gesellschaftliche und sprachliche Integration und ein
+    gesundheitsförderliches Lebensumfeld in der Einrichtung unterstützt
+    werden sowie die gesundheitliche Vorsorge und die medizinische
+    Betreuung der Kinder und Jugendlichen nicht erschwert werden sowie
 
 
 3.  zur Sicherung der Rechte von Kindern und Jugendlichen in der
@@ -1989,6 +2129,19 @@ des Gesetzes über das Verfahren in Familiensachen und in den
 Angelegenheiten der freiwilligen Gerichtsbarkeit über den Stand des
 Beratungsprozesses.
 
+(3) Das Jugendamt, das in Verfahren zur Übertragung der gemeinsamen
+Sorge nach § 155a Absatz 4 Satz 1 und § 162 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit angehört wird oder sich am Verfahren
+beteiligt, teilt gerichtliche Entscheidungen, aufgrund derer die Sorge
+gemäß § 1626a Absatz 2 Satz 1 des Bürgerlichen Gesetzbuchs den Eltern
+ganz oder zum Teil gemeinsam übertragen wird, dem nach § 87c Absatz 6
+Satz 2 zuständigen Jugendamt zu den in § 58a genannten Zwecken
+unverzüglich mit. Mitzuteilen sind auch das Geburtsdatum und der
+Geburtsort des Kindes oder des Jugendlichen sowie der Name, den das
+Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt
+geführt hat.
+
 
 #### § 51 Beratung und Belehrung in Verfahren zur Annahme als Kind
 
@@ -2017,10 +2170,10 @@ Familiengericht im Verfahren mitzuteilen, welche Leistungen erbracht
 oder angeboten worden sind oder aus welchem Grund davon abgesehen
 wurde.
 
-(3) Sind die Eltern nicht miteinander verheiratet und haben sie keine
-Sorgeerklärungen abgegeben, so hat das Jugendamt den Vater bei der
-Wahrnehmung seiner Rechte nach § 1747 Absatz 1 und 3 des Bürgerlichen
-Gesetzbuchs zu beraten.
+(3) Steht nicht miteinander verheirateten Eltern die elterliche Sorge
+nicht gemeinsam zu, so hat das Jugendamt den Vater bei der Wahrnehmung
+seiner Rechte nach § 1747 Absatz 1 und 3 des Bürgerlichen Gesetzbuchs
+zu beraten.
 
 
 #### § 52 Mitwirkung in Verfahren nach dem Jugendgerichtsgesetz
@@ -2224,20 +2377,33 @@ Für die Tätigkeit des Jugendamts als Gegenvormund gelten die §§ 55 und
 56 entsprechend.
 
 
-#### § 58a Auskunft über Nichtabgabe und Nichtersetzung von Sorgeerklärungen
+#### § 58a Sorgeregister; Bescheinigung über Nichtvorliegen von Eintragungen im Sorgeregister
 
-(1) Sind keine Sorgeerklärungen nach § 1626a Absatz 1 Nummer 1 des
-Bürgerlichen Gesetzbuchs abgegeben worden und ist keine Sorgeerklärung
+(1) Zum Zwecke der Erteilung der Bescheinigung nach Absatz 2 wird für
+Kinder nicht miteinander verheirateter Eltern bei dem nach § 87c
+Absatz 6 Satz 2 zuständigen Jugendamt ein Sorgeregister geführt. In
+das Sorgeregister erfolgt jeweils eine Eintragung, wenn
+
+1.  Sorgeerklärungen nach § 1626a Absatz 1 Nummer 1 des Bürgerlichen
+    Gesetzbuchs abgegeben werden oder
+
+
+2.  aufgrund einer gerichtlichen Entscheidung die elterliche Sorge den
+    Eltern ganz oder zum Teil gemeinsam übertragen wird.
+
+
+
+Das Sorgeregister enthält auch Eintragungen, wenn Sorgeerklärungen
 nach Artikel 224 § 2 Absatz 3 des Einführungsgesetzes zum Bürgerlichen
-Gesetzbuche ersetzt worden, kann die Mutter von dem nach § 87c Absatz
-6 Satz 1 zuständigen Jugendamt unter Angabe des Geburtsdatums und des
-Geburtsortes des Kindes oder des Jugendlichen sowie des Namens, den
-das Kind oder der Jugendliche zur Zeit der Beurkundung seiner Geburt
-geführt hat, darüber eine schriftliche Auskunft verlangen.
+Gesetzbuche in der bis zum 19. Mai 2013 geltenden Fassung ersetzt
+wurden.
 
-(2) Zum Zwecke der Auskunftserteilung nach Absatz 1 wird bei dem nach
-§ 87c Absatz 6 Satz 2 zuständigen Jugendamt ein Register über
-abgegebene und ersetzte Sorgeerklärungen geführt.
+(2) Liegen keine Eintragungen im Sorgeregister vor, so erhält die mit
+dem Vater des Kindes nicht verheiratete Mutter auf Antrag hierüber
+eine Bescheinigung von dem nach § 87c Absatz 6 Satz 1 zuständigen
+Jugendamt. Die Mutter hat dafür Geburtsdatum und Geburtsort des Kindes
+oder des Jugendlichen anzugeben sowie den Namen, den das Kind oder der
+Jugendliche zur Zeit der Beurkundung seiner Geburt geführt hat.
 
 
 ### Fünfter Abschnitt - Beurkundung, vollstreckbare Urkunden
@@ -2262,12 +2428,14 @@ abgegebene und ersetzte Sorgeerklärungen geführt.
 
 
 3.  die Verpflichtung zur Erfüllung von Unterhaltsansprüchen eines
-    Abkömmlings zu beurkunden, sofern die unterhaltsberechtigte Person zum
-    Zeitpunkt der Beurkundung das 21. Lebensjahr noch nicht vollendet hat,
+    Abkömmlings oder seines gesetzlichen Rechtsnachfolgers zu beurkunden,
+    sofern der Abkömmling zum Zeitpunkt der Beurkundung das 21. Lebensjahr
+    noch nicht vollendet hat,
 
 
 4.  die Verpflichtung zur Erfüllung von Ansprüchen auf Unterhalt (§ 1615l
-    des Bürgerlichen Gesetzbuchs) zu beurkunden,
+    des Bürgerlichen Gesetzbuchs), auch des gesetzlichen
+    Rechtsnachfolgers, zu beurkunden,
 
 
 5.  die Bereiterklärung der Adoptionsbewerber zur Annahme eines ihnen zur
@@ -2280,7 +2448,7 @@ abgegebene und ersetzte Sorgeerklärungen geführt.
 
 
 7.  die Erklärung, durch die der Vater auf die Übertragung der Sorge
-    verzichtet (§ 1747 Absatz 3 Nummer 3 des Bürgerlichen Gesetzbuchs), zu
+    verzichtet (§ 1747 Absatz 3 Nummer 2 des Bürgerlichen Gesetzbuchs), zu
     beurkunden,
 
 
@@ -2469,7 +2637,7 @@ anvertraut worden sind, dürfen von diesem nur weitergegeben werden
 1.  mit der Einwilligung dessen, der die Daten anvertraut hat, oder
 
 
-2.  dem Familiengericht zur Erfüllung der Aufgaben nach § 8a Absatz 3,
+2.  dem Familiengericht zur Erfüllung der Aufgaben nach § 8a Absatz 2,
     wenn angesichts einer Gefährdung des Wohls eines Kindes oder eines
     Jugendlichen ohne diese Mitteilung eine für die Gewährung von
     Leistungen notwendige gerichtliche Entscheidung nicht ermöglicht
@@ -2489,7 +2657,7 @@ anvertraut worden sind, dürfen von diesem nur weitergegeben werden
 
 
 5.  unter den Voraussetzungen, unter denen eine der in § 203 Absatz 1 oder
-    3 des Strafgesetzbuchs genannten Personen dazu befugt wäre.
+    4 des Strafgesetzbuchs genannten Personen dazu befugt wäre.
 
 
 
@@ -2674,12 +2842,12 @@ sicherzustellen.
 (1) Die Träger der öffentlichen Jugendhilfe dürfen für die Wahrnehmung
 der Aufgaben in der Kinder- und Jugendhilfe keine Person beschäftigen
 oder vermitteln, die rechtskräftig wegen einer Straftat nach den §§
-171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184f, 225, 232 bis
-233a, 234, 235 oder 236 des Strafgesetzbuchs verurteilt worden ist. Zu
-diesem Zweck sollen sie sich bei der Einstellung oder Vermittlung und
-in regelmäßigen Abständen von den betroffenen Personen ein
-Führungszeugnis nach § 30 Absatz 5 und § 30a Absatz 1 des
-Bundeszentralregistergesetzes vorlegen lassen.
+171, 174 bis 174c, 176 bis 180a, 181a, 182 bis 184g, 184i, 201a Absatz
+3, den §§ 225, 232 bis 233a, 234, 235 oder 236 des Strafgesetzbuchs
+verurteilt worden ist. Zu diesem Zweck sollen sie sich bei der
+Einstellung oder Vermittlung und in regelmäßigen Abständen von den
+betroffenen Personen ein Führungszeugnis nach § 30 Absatz 5 und § 30a
+Absatz 1 des Bundeszentralregistergesetzes vorlegen lassen.
 
 (2) Die Träger der öffentlichen Jugendhilfe sollen durch
 Vereinbarungen mit den Trägern der freien Jugendhilfe sicherstellen,
@@ -2849,8 +3017,8 @@ Wohlfahrtspflege sind anerkannte Träger der freien Jugendhilfe.
 
 (1) Die Träger der öffentlichen Jugendhilfe können anerkannte Träger
 der freien Jugendhilfe an der Durchführung ihrer Aufgaben nach den §§
-42, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen diese
-Aufgaben zur Ausführung übertragen.
+42, 42a, 43, 50 bis 52a und 53 Absatz 2 bis 4 beteiligen oder ihnen
+diese Aufgaben zur Ausführung übertragen.
 
 (2) Die Träger der öffentlichen Jugendhilfe bleiben für die Erfüllung
 der Aufgaben verantwortlich.
@@ -3327,7 +3495,9 @@ der Wahrnehmung ihrer Aufgaben zu unterstützen.
 (1) Die fachlich zuständige oberste Bundesbehörde soll die Tätigkeit
 der Jugendhilfe anregen und fördern, soweit sie von überregionaler
 Bedeutung ist und ihrer Art nach nicht durch ein Land allein wirksam
-gefördert werden kann.
+gefördert werden kann. Hierzu gehören auch die überregionalen
+Tätigkeiten der Jugendorganisationen der politischen Parteien auf dem
+Gebiet der Jugendarbeit.
 
 (2) Die Bundesregierung wird in grundsätzlichen Fragen der Jugendhilfe
 von einem Sachverständigengremium (Bundesjugendkuratorium) beraten.
@@ -3489,10 +3659,10 @@ Beginn der Leistung tatsächlich aufhält.
 gewöhnliche Aufenthalte, so wird der örtliche Träger zuständig, in
 dessen Bereich der personensorgeberechtigte Elternteil seinen
 gewöhnlichen Aufenthalt hat; dies gilt auch dann, wenn ihm einzelne
-Angelegenheiten der Personensorge entzogen sind. Solange die
-Personensorge beiden Elternteilen gemeinsam oder keinem Elternteil
-zusteht, bleibt die bisherige Zuständigkeit bestehen. Absatz 4 gilt
-entsprechend.
+Angelegenheiten der Personensorge entzogen sind. Solange in diesen
+Fällen die Personensorge beiden Elternteilen gemeinsam oder keinem
+Elternteil zusteht, bleibt die bisherige Zuständigkeit bestehen.
+Absatz 4 gilt entsprechend.
 
 (6) Lebt ein Kind oder ein Jugendlicher zwei Jahre bei einer
 Pflegeperson und ist sein Verbleib bei dieser Pflegeperson auf Dauer
@@ -3604,7 +3774,10 @@ Leistungsberechtigte vor Beginn der Leistung tatsächlich aufhält.
 
 Für die Inobhutnahme eines Kindes oder eines Jugendlichen (§ 42) ist
 der örtliche Träger zuständig, in dessen Bereich sich das Kind oder
-der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält.
+der Jugendliche vor Beginn der Maßnahme tatsächlich aufhält. Die
+örtliche Zuständigkeit für die Inobhutnahme eines unbegleiteten
+ausländischen Kindes oder Jugendlichen richtet sich nach § 88a Absatz
+2\.
 
 
 ##### § 87a Örtliche Zuständigkeit für Erlaubnis, Meldepflichten und Untersagung
@@ -3652,7 +3825,7 @@ Entlassungszeitpunkt.
 zuständige örtliche Träger nicht tätig, so gilt § 86d entsprechend.
 
 
-##### § 87c Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Auskunft nach § 58a
+##### § 87c Örtliche Zuständigkeit für die Beistandschaft, die Amtspflegschaft, die Amtsvormundschaft und die Bescheinigung nach § 58a
 
 (1) Für die Vormundschaft nach § 1791c des Bürgerlichen Gesetzbuchs
 ist das Jugendamt zuständig, in dessen Bereich die Mutter ihren
@@ -3698,16 +3871,16 @@ führende Jugendamt bei dem Jugendamt des anderen Bereichs die
 Weiterführung der Beistandschaft zu beantragen; Absatz 2 Satz 2 und §
 86c gelten entsprechend.
 
-(6) Für die Erteilung der schriftlichen Auskunft nach § 58a gilt
-Absatz 1 entsprechend. Die Mitteilung nach § 1626d Absatz 2 des
-Bürgerlichen Gesetzbuchs und die Mitteilung nach Artikel 224 § 2
-Absatz 5 des Einführungsgesetzes zum Bürgerlichen Gesetzbuche sind an
-das für den Geburtsort des Kindes zuständige Jugendamt zu richten; §
-88 Absatz 1 Satz 2 gilt entsprechend. Das nach Satz 2 zuständige
-Jugendamt teilt dem nach Satz 1 zuständigen Jugendamt auf Ersuchen
-mit, ob eine Mitteilung nach § 1626d Absatz 2 des Bürgerlichen
-Gesetzbuchs oder eine Mitteilung nach Artikel 224 § 2 Absatz 5 des
-Einführungsgesetzes zum Bürgerlichen Gesetzbuche vorliegt.
+(6) Für die Erteilung der Bescheinigung nach § 58a Absatz 2 gilt
+Absatz 1 entsprechend. Die Mitteilungen nach § 1626d Absatz 2 des
+Bürgerlichen Gesetzbuchs, die Mitteilungen nach § 155a Absatz 3 Satz 3
+und Absatz 5 Satz 2 des Gesetzes über das Verfahren in Familiensachen
+und in den Angelegenheiten der freiwilligen Gerichtsbarkeit sowie die
+Mitteilungen nach § 50 Absatz 3 sind an das für den Geburtsort des
+Kindes oder des Jugendlichen zuständige Jugendamt zu richten; § 88
+Absatz 1 Satz 2 gilt entsprechend. Das nach Satz 2 zuständige
+Jugendamt teilt auf Ersuchen dem nach Satz 1 zuständigen Jugendamt
+mit, ob Eintragungen im Sorgeregister vorliegen.
 
 
 ##### § 87d Örtliche Zuständigkeit für weitere Aufgaben im Vormundschaftswesen
@@ -3745,6 +3918,52 @@ geworden ist; eine Unterbrechung der Hilfeleistung von bis zu drei
 Monaten bleibt dabei außer Betracht.
 
 
+#### Vierter Unterabschnitt - Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+
+
+
+##### § 88a Örtliche Zuständigkeit für vorläufige Maßnahmen, Leistungen und die Amtsvormundschaft für unbegleitete ausländische Kinder und Jugendliche
+
+(1) Für die vorläufige Inobhutnahme eines unbegleiteten ausländischen
+Kindes oder Jugendlichen (§ 42a) ist der örtliche Träger zuständig, in
+dessen Bereich sich das Kind oder der Jugendliche vor Beginn der
+Maßnahme tatsächlich aufhält, soweit Landesrecht nichts anderes
+regelt.
+
+(2) Die örtliche Zuständigkeit für die Inobhutnahme eines
+unbegleiteten ausländischen Kindes oder Jugendlichen (§ 42) richtet
+sich nach der Zuweisungsentscheidung gemäß § 42b Absatz 3 Satz 1 der
+nach Landesrecht für die Verteilung von unbegleiteten ausländischen
+Kindern oder Jugendlichen zuständigen Stelle. Ist die Verteilung nach
+§ 42b Absatz 4 ausgeschlossen, so bleibt die nach Absatz 1 begründete
+Zuständigkeit bestehen. Ein anderer Träger kann aus Gründen des
+Kindeswohls oder aus sonstigen humanitären Gründen von vergleichbarem
+Gewicht die örtliche Zuständigkeit von dem zuständigen Träger
+übernehmen.
+
+(3) Für Leistungen an unbegleitete ausländische Kinder oder
+Jugendliche ist der örtliche Träger zuständig, in dessen Bereich sich
+die Person vor Beginn der Leistung tatsächlich aufhält. Geht der
+Leistungsgewährung eine Inobhutnahme voraus, so bleibt die nach Absatz
+2 begründete Zuständigkeit bestehen, soweit Landesrecht nichts anderes
+regelt.
+
+(4) Die örtliche Zuständigkeit für die Vormundschaft oder Pflegschaft,
+die für unbegleitete ausländische Kinder oder Jugendliche durch
+Bestellung des Familiengerichts eintritt, richtet sich während
+
+1.  der vorläufigen Inobhutnahme (§ 42a) nach Absatz 1,
+
+
+2.  der Inobhutnahme (§ 42) nach Absatz 2 und
+
+
+3.  der Leistungsgewährung nach Absatz 3.
+
+
+
+
+
 ### Dritter Abschnitt - Kostenerstattung
 
 
@@ -3769,9 +3988,9 @@ Volljährigkeit hinaus nach § 41 fortgesetzt wird.
 (2) Hat oder hätte der nach Absatz 1 kostenerstattungspflichtig
 werdende örtliche Träger während der Gewährung einer Leistung selbst
 einen Kostenerstattungsanspruch gegen einen anderen örtlichen oder den
-überörtlichen Träger, so bleibt abweichend von Absatz 1 dieser Träger
-dem nunmehr nach § 86 Absatz 6 zuständig gewordenen örtlichen Träger
-kostenerstattungspflichtig.
+überörtlichen Träger, so bleibt oder wird abweichend von Absatz 1
+dieser Träger dem nunmehr nach § 86 Absatz 6 zuständig gewordenen
+örtlichen Träger kostenerstattungspflichtig.
 
 (3) Ändert sich während der Gewährung der Leistung nach Absatz 1 der
 für die örtliche Zuständigkeit nach § 86 Absatz 1 bis 5 maßgebliche
@@ -3843,21 +4062,7 @@ Asylantrag stellt.
 (2) Ist die Person im Inland geboren, so ist das Land
 erstattungspflichtig, in dessen Bereich die Person geboren ist.
 
-(3) Ist die Person im Ausland geboren, so wird das
-erstattungspflichtige Land auf der Grundlage eines
-Belastungsvergleichs vom Bundesverwaltungsamt bestimmt. Maßgeblich ist
-die Belastung, die sich pro Einwohner im vergangenen Haushaltsjahr
-
-1.  durch die Erstattung von Kosten nach dieser Vorschrift und
-
-
-2.  die Gewährung von Leistungen für Deutsche im Ausland durch die
-    überörtlichen Träger im Bereich des jeweiligen Landes nach Maßgabe von
-    § 6 Absatz 3, § 85 Absatz 2 Nummer 9
-
-
-
-ergeben hat.
+(3) (weggefallen)
 
 (4) Die Verpflichtung zur Erstattung der aufgewendeten Kosten
 entfällt, wenn inzwischen für einen zusammenhängenden Zeitraum von
@@ -4135,8 +4340,9 @@ zu unterrichten.
 Unterhaltsansprüche vorrangig oder gleichrangig Berechtigter nicht
 geschmälert werden. Von der Heranziehung der Eltern ist abzusehen,
 wenn das Kind, die Jugendliche, die junge Volljährige oder die
-Leistungsberechtigte nach § 19 schwanger ist oder ein leibliches Kind
-bis zur Vollendung des sechsten Lebensjahres betreut.
+Leistungsberechtigte nach § 19 schwanger ist oder der junge Mensch
+oder die nach § 19 leistungsberechtigte Person ein leibliches Kind bis
+zur Vollendung des sechsten Lebensjahres betreut.
 
 (5) Von der Heranziehung soll im Einzelfall ganz oder teilweise
 abgesehen werden, wenn sonst Ziel und Zweck der Leistung gefährdet
@@ -4159,9 +4365,9 @@ der nicht Vermögensschaden ist, geleistet wird, ist nicht als
 Einkommen zu berücksichtigen. Geldleistungen, die dem gleichen Zwecke
 wie die jeweilige Leistung der Jugendhilfe dienen, zählen nicht zum
 Einkommen und sind unabhängig von einem Kostenbeitrag einzusetzen.
-Leistungen, die auf Grund öffentlich-rechtlicher Vorschriften zu einem
-ausdrücklich genannten Zweck erbracht werden, sind nicht als Einkommen
-zu berücksichtigen.
+Kindergeld und Leistungen, die auf Grund öffentlich-rechtlicher
+Vorschriften zu einem ausdrücklich genannten Zweck erbracht werden,
+sind nicht als Einkommen zu berücksichtigen.
 
 (2) Von dem Einkommen sind abzusetzen
 
@@ -4180,8 +4386,13 @@ zu berücksichtigen.
 
 
 (3) Von dem nach den Absätzen 1 und 2 errechneten Betrag sind
-Belastungen der kostenbeitragspflichtigen Person abzuziehen. In
-Betracht kommen insbesondere
+Belastungen der kostenbeitragspflichtigen Person abzuziehen. Der Abzug
+erfolgt durch eine Kürzung des nach den Absätzen 1 und 2 errechneten
+Betrages um pauschal 25 vom Hundert. Sind die Belastungen höher als
+der pauschale Abzug, so können sie abgezogen werden, soweit sie nach
+Grund und Höhe angemessen sind und die Grundsätze einer
+wirtschaftlichen Lebensführung nicht verletzen. In Betracht kommen
+insbesondere
 
 1.  Beiträge zu öffentlichen oder privaten Versicherungen oder ähnlichen
     Einrichtungen,
@@ -4194,12 +4405,23 @@ Betracht kommen insbesondere
 
 
 
-Der Abzug erfolgt durch eine Kürzung des nach den Absätzen 1 und 2
-errechneten Betrages um pauschal 25 vom Hundert. Sind die Belastungen
-höher als der pauschale Abzug, so können sie abgezogen werden, soweit
-sie nach Grund und Höhe angemessen sind und die Grundsätze einer
-wirtschaftlichen Lebensführung nicht verletzen. Die
-kostenbeitragspflichtige Person muss die Belastungen nachweisen.
+Die kostenbeitragspflichtige Person muss die Belastungen nachweisen.
+
+(4) Maßgeblich ist das durchschnittliche Monatseinkommen, das die
+kostenbeitragspflichtige Person in dem Kalenderjahr erzielt hat,
+welches dem jeweiligen Kalenderjahr der Leistung oder Maßnahme
+vorangeht. Auf Antrag der kostenbeitragspflichtigen Person wird dieses
+Einkommen nachträglich durch das durchschnittliche Monatseinkommen
+ersetzt, welches die Person in dem jeweiligen Kalenderjahr der
+Leistung oder Maßnahme erzielt hat. Der Antrag kann innerhalb eines
+Jahres nach Ablauf dieses Kalenderjahres gestellt werden. Macht die
+kostenbeitragspflichtige Person glaubhaft, dass die Heranziehung zu
+den Kosten aus dem Einkommen nach Satz 1 in einem bestimmten Zeitraum
+eine besondere Härte für sie ergäbe, wird vorläufig von den glaubhaft
+gemachten, dem Zeitraum entsprechenden Monatseinkommen ausgegangen;
+endgültig ist in diesem Fall das nach Ablauf des Kalenderjahres zu
+ermittelnde durchschnittliche Monatseinkommen dieses Jahres
+maßgeblich.
 
 
 #### § 94 Umfang der Heranziehung
@@ -4219,12 +4441,13 @@ nach § 19 unterhaltsberechtigt sind, angemessen zu berücksichtigen.
 
 (3) Werden Leistungen über Tag und Nacht außerhalb des Elternhauses
 erbracht und bezieht einer der Elternteile Kindergeld für den jungen
-Menschen, so hat dieser einen Kostenbeitrag mindestens in Höhe des
-Kindergeldes zu zahlen. Zahlt der Elternteil den Kostenbeitrag nicht,
-so sind die Träger der öffentlichen Jugendhilfe insoweit berechtigt,
-das auf dieses Kind entfallende Kindergeld durch Geltendmachung eines
-Erstattungsanspruchs nach § 74 Absatz 2 des Einkommensteuergesetzes in
-Anspruch zu nehmen.
+Menschen, so hat dieser unabhängig von einer Heranziehung nach Absatz
+1 Satz 1 und 2 und nach Maßgabe des Absatzes 1 Satz 3 und 4 einen
+Kostenbeitrag in Höhe des Kindergeldes zu zahlen. Zahlt der Elternteil
+den Kostenbeitrag nach Satz 1 nicht, so sind die Träger der
+öffentlichen Jugendhilfe insoweit berechtigt, das auf dieses Kind
+entfallende Kindergeld durch Geltendmachung eines Erstattungsanspruchs
+nach § 74 Absatz 2 des Einkommensteuergesetzes in Anspruch zu nehmen.
 
 (4) Werden Leistungen über Tag und Nacht erbracht und hält sich der
 junge Mensch nicht nur im Rahmen von Umgangskontakten bei einem
@@ -4241,7 +4464,13 @@ Bundesrates bestimmt.
 (6) Bei vollstationären Leistungen haben junge Menschen und
 Leistungsberechtigte nach § 19 nach Abzug der in § 93 Absatz 2
 genannten Beträge 75 Prozent ihres Einkommens als Kostenbeitrag
-einzusetzen.
+einzusetzen. Es kann ein geringerer Kostenbeitrag erhoben oder
+gänzlich von der Erhebung des Kostenbeitrags abgesehen werden, wenn
+das Einkommen aus einer Tätigkeit stammt, die dem Zweck der Leistung
+dient. Dies gilt insbesondere, wenn es sich um eine Tätigkeit im
+sozialen oder kulturellen Bereich handelt, bei der nicht die
+Erwerbstätigkeit, sondern das soziale oder kulturelle Engagement im
+Vordergrund stehen.
 
 
 ### Dritter Abschnitt - Überleitung von Ansprüchen
@@ -4411,7 +4640,9 @@ und zu seiner Fortentwicklung sind laufende Erhebungen über
 9.  Maßnahmen des Familiengerichts,
 
 
-10. mit öffentlichen Mitteln geförderte Angebote der Jugendarbeit,
+10. Angebote der Jugendarbeit nach § 11 sowie Fortbildungsmaßnahmen für
+    ehrenamtliche Mitarbeiter anerkannter Träger der Jugendhilfe nach § 74
+    Absatz 6,
 
 
 11. die Einrichtungen mit Ausnahme der Tageseinrichtungen, Behörden und
@@ -4442,8 +4673,8 @@ sind
 
 1.  im Hinblick auf die Hilfe
 
-    a)  Art des Trägers des Hilfe durchführenden Dienstes oder der Hilfe
-        durchführenden Einrichtung,
+    a)  Art und Name des Trägers des Hilfe durchführenden Dienstes oder der
+        Hilfe durchführenden Einrichtung,
 
 
     b)  Art der Hilfe,
@@ -4470,7 +4701,12 @@ sind
     i)  Grund für die Beendigung der Hilfe,
 
 
-    j)  vorangegangene Gefährdungseinschätzung nach § 8a Absatz 1 sowie
+    j)  vorangegangene Gefährdungseinschätzung nach § 8a Absatz 1,
+
+
+    k)  Einleitung der Hilfe im Anschluss an eine vorläufige Maßnahme zum
+        Schutz von Kindern und Jugendlichen im Fall des § 42 Absatz 1 Satz 1
+        Nummer 3 sowie
 
 
 
@@ -4514,10 +4750,10 @@ sind
 
 (2) Erhebungsmerkmale bei den Erhebungen über vorläufige Maßnahmen zum
 Schutz von Kindern und Jugendlichen sind Kinder und Jugendliche, zu
-deren Schutz Maßnahmen nach § 42 getroffen worden sind, gegliedert
-nach
+deren Schutz Maßnahmen nach § 42 oder § 42a getroffen worden sind,
+gegliedert nach
 
-1.  Art des Trägers der Maßnahme, Art der Maßnahme, Form der Unterbringung
+1.  Art der Maßnahme, Art des Trägers der Maßnahme, Form der Unterbringung
     während der Maßnahme, Institution oder Personenkreis, die oder der die
     Maßnahme angeregt hat, Zeitpunkt des Beginns und Dauer der Maßnahme,
     Durchführung auf Grund einer vorangegangenen Gefährdungseinschätzung
@@ -4525,8 +4761,9 @@ nach
 
 
 2.  bei Kindern und Jugendlichen zusätzlich zu den unter Nummer 1
-    genannten Merkmalen nach Geschlecht, Altersgruppe,
-    Staatsangehörigkeit, Art des Aufenthalts vor Beginn der Maßnahme.
+    genannten Merkmalen nach Geschlecht, Altersgruppe zu Beginn der
+    Maßnahme, Migrationshintergrund, Art des Aufenthalts vor Beginn der
+    Maßnahme.
 
 
 
@@ -4536,17 +4773,26 @@ sind
 
 1.  angenommene Kinder und Jugendliche, gegliedert
 
-    a)  nach Geschlecht, Geburtsmonat und Geburtsjahr, Staatsangehörigkeit und
-        Art des Trägers des Adoptionsvermittlungsdienstes,
+    a)  nach nationaler Adoption und internationaler Adoption nach § 2a des
+        Adoptionsvermittlungsgesetzes,
 
 
-    b)  nach Herkunft des angenommenen Kindes, Art der Unterbringung vor der
+    b)  nach Geschlecht, Geburtsjahr, Staatsangehörigkeit und Art des Trägers
+        des Adoptionsvermittlungsdienstes,
+
+
+    c)  nach Herkunft des angenommenen Kindes, Art der Unterbringung vor der
         Adoptionspflege, Familienstand der Eltern oder des sorgeberechtigten
         Elternteils oder Tod der Eltern zu Beginn der Adoptionspflege sowie
         Ersetzung der Einwilligung zur Annahme als Kind,
 
 
-    c)  nach Staatsangehörigkeit der oder des Annehmenden und
+    d)  zusätzlich bei der internationalen Adoption (§ 2a des
+        Adoptionsvermittlungsgesetzes) nach Staatsangehörigkeit vor Ausspruch
+        der Adoption und nach Herkunftsland,
+
+
+    e)  nach Staatsangehörigkeit der oder des Annehmenden und
         Verwandtschaftsverhältnis zu dem Kind,
 
 
@@ -4608,9 +4854,8 @@ Kindeswohlgefährdung nach § 8a sind Kinder und Jugendliche, bei denen
 eine Gefährdungseinschätzung nach Absatz 1 vorgenommen worden ist,
 gegliedert
 
-1.  nach der Art des Trägers, bei dem der Fall bekannt geworden ist, der
-    die Gefährdungseinschätzung anregenden Institution oder Person, der
-    Art der Kindeswohlgefährdung sowie dem Ergebnis der
+1.  nach der die Gefährdungseinschätzung anregenden Institution oder
+    Person, der Art der Kindeswohlgefährdung sowie dem Ergebnis der
     Gefährdungseinschätzung,
 
 
@@ -4623,10 +4868,13 @@ gegliedert
 
 
 
-(6a) Erhebungsmerkmal bei den Erhebungen über Sorgeerklärungen ist die
-gemeinsame elterliche Sorge nicht verheirateter Eltern, gegliedert
-danach, ob Sorgeerklärungen beider Eltern vorliegen oder eine
-Sorgeerklärung ersetzt worden ist.
+(6a) Erhebungsmerkmal bei den Erhebungen über Sorgeerklärungen und die
+gerichtliche Übertragung der gemeinsamen elterlichen Sorge nach §
+1626a Absatz 1 Nummer 3 des Bürgerlichen Gesetzbuchs ist die
+gemeinsame elterliche Sorge nicht miteinander verheirateter Eltern,
+gegliedert danach, ob Sorgeerklärungen beider Eltern vorliegen oder
+den Eltern die elterliche Sorge aufgrund einer gerichtlichen
+Entscheidung ganz oder zum Teil gemeinsam übertragen worden ist.
 
 (6b) Erhebungsmerkmal bei den Erhebungen über Maßnahmen des
 Familiengerichts ist die Zahl der Kinder und Jugendlichen, bei denen
@@ -4660,26 +4908,31 @@ Personen in Tageseinrichtungen sind
 
 1.  die Einrichtungen, gegliedert nach
 
-    a)  der Art des Trägers und der Rechtsform sowie besonderen Merkmalen,
+    a)  der Art und Name des Trägers und der Rechtsform sowie besonderen
+        Merkmalen,
 
 
-    b)  der Zahl der verfügbaren Plätze sowie
+    b)  der Zahl der genehmigten Plätze,
 
 
-    c)  der Art und Anzahl der Gruppen,
+    c)  der Art und Anzahl der Gruppen sowie
+
+
+    d)  die Anzahl der Kinder insgesamt,
 
 
 
 
 
-2.  für jede dort haupt- und nebenberuflich tätige Person
+2.  für jede dort tätige Person
 
     a)  Geschlecht und Beschäftigungsumfang,
 
 
     b)  für das pädagogisch und in der Verwaltung tätige Personal zusätzlich
         Geburtsmonat und Geburtsjahr, die Art des
-        Berufsausbildungsabschlusses, Stellung im Beruf und Arbeitsbereich,
+        Berufsausbildungsabschlusses, Stellung im Beruf, Art der Beschäftigung
+        und Arbeitsbereich,
 
 
 
@@ -4699,7 +4952,10 @@ Personen in Tageseinrichtungen sind
     d)  erhöhter Förderbedarf,
 
 
-    e)  Gruppenzugehörigkeit.
+    e)  Gruppenzugehörigkeit,
+
+
+    f)  Monat und Jahr der Aufnahme in der Tageseinrichtung.
 
 
 
@@ -4744,7 +5000,10 @@ Kindertagespflege durchführenden Personen sind:
     f)  Verwandtschaftsverhältnis zur Pflegeperson,
 
 
-    g)  gleichzeitig bestehende andere Betreuungsarrangements.
+    g)  gleichzeitig bestehende andere Betreuungsarrangements,
+
+
+    h)  Monat und Jahr der Aufnahme in Kindertagespflege.
 
 
 
@@ -4760,33 +5019,40 @@ die Zahl der von diesen betreuten Kinder jeweils gegliedert nach
 Pflegestellen.
 
 (8) Erhebungsmerkmale bei den Erhebungen über die Angebote der
-Jugendarbeit nach § 11 sind die mit öffentlichen Mitteln geförderten
-Maßnahmen im Bereich
+Jugendarbeit nach § 11 sowie bei den Erhebungen über
+Fortbildungsmaßnahmen für ehrenamtliche Mitarbeiter anerkannter Träger
+der Jugendhilfe nach § 74 Absatz 6 sind offene und Gruppenangebote
+sowie Veranstaltungen und Projekte der Jugendarbeit, soweit diese mit
+öffentlichen Mitteln pauschal oder maßnahmenbezogen gefördert werden
+oder der Träger eine öffentliche Förderung erhält, gegliedert nach
 
-1.  der außerschulischen Jugendbildung (§ 11 Absatz 3 Nummer 1),
-
-
-2.  der Kinder- und Jugenderholung (§ 11 Absatz 3 Nummer 5),
-
-
-3.  der internationalen Jugendarbeit (§ 11 Absatz 3 Nummer 4) sowie
+1.  Art, Name und Rechtsform des Trägers,
 
 
-4.  der Fortbildungsmaßnahmen für Mitarbeiter (§ 74 Absatz 6),
+2.  Dauer, Häufigkeit, Durchführungsort und Art des Angebots; zusätzlich
+    bei schulbezogenen Angeboten die Art der kooperierenden Schule,
+
+
+3.  Alter, Geschlecht sowie Art der Beschäftigung und Tätigkeit der bei
+    der Durchführung des Angebots tätigen Personen,
+
+
+4.  Zahl, Geschlecht und Alter der Teilnehmenden sowie der Besucher,
+
+
+5.  Partnerländer und Veranstaltungen im In- oder Ausland bei
+    Veranstaltungen und Projekten der internationalen Jugendarbeit.
 
 
 
-gegliedert nach Art des Trägers, Dauer der Maßnahme sowie Zahl und
-Geschlecht der Teilnehmer, zusätzlich bei der internationalen
-Jugendarbeit nach Partnerländern und Maßnahmen im In- und Ausland.
 
 (9) Erhebungsmerkmale bei den Erhebungen über die Einrichtungen,
 soweit sie nicht in Absatz 7 erfasst werden, sowie die Behörden und
 Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sind
 
 1.  die Einrichtungen, gegliedert nach der Art der Einrichtung, der Art
-    des Trägers, der Rechtsform sowie der Art und Zahl der verfügbaren
-    Plätze,
+    und Name des Trägers, der Rechtsform sowie der Art und Zahl der
+    verfügbaren Plätze,
 
 
 2.  die Behörden der öffentlichen Jugendhilfe sowie die Geschäftsstellen
@@ -4807,7 +5073,7 @@ Geschäftsstellen in der Jugendhilfe und die dort tätigen Personen sind
 
     d)  für das pädagogische und in der Verwaltung tätige Personal zusätzlich
         Geburtsmonat und Geburtsjahr, Art des Berufsausbildungsabschlusses,
-        Stellung im Beruf und Arbeitsbereich.
+        Stellung im Beruf, Art der Beschäftigung und Arbeitsbereich.
 
 
 
@@ -4851,7 +5117,11 @@ Hilfsmerkmale sind
     des Hilfeempfängers,
 
 
-3.  Name und Telefonnummer sowie Faxnummer oder E-Mail-Adresse der für
+3.  für die Erhebungen nach § 99 Absatz 1, 2, 3 und 6 die Kenn-Nummer der
+    betreffenden Person,
+
+
+4.  Name und Telefonnummer sowie Faxnummer oder E-Mail-Adresse der für
     eventuelle Rückfragen zur Verfügung stehenden Person.
 
 
@@ -4860,14 +5130,14 @@ Hilfsmerkmale sind
 
 ### § 101 Periodizität und Berichtszeitraum
 
-(1) Die Erhebungen nach § 99 Absatz 1 bis 5 sowie nach Absatz 6b bis
+(1) Die Erhebungen nach § 99 Absatz 1 bis 5 sowie nach Absatz 6a bis
 7b und 10 sind jährlich durchzuführen, die Erhebungen nach § 99 Absatz
 1, soweit sie die Eingliederungshilfe für seelisch behinderte Kinder
 und Jugendliche betreffen, beginnend 2007. Die Erhebung nach § 99
 Absatz 6 erfolgt laufend. Die übrigen Erhebungen nach § 99 sind alle
-vier Jahre durchzuführen, die Erhebungen nach Absatz 8 beginnend 1992,
-die Erhebungen nach Absatz 9 beginnend mit 2006. Die Erhebung nach §
-99 Absatz 8 wird für das Jahr 2012 ausgesetzt.
+zwei Jahre durchzuführen, die Erhebungen nach § 99 Absatz 8 erstmalig
+für das Jahr 2015 und die Erhebungen nach § 99 Absatz 9 erstmalig für
+das Jahr 2014.
 
 (2) Die Angaben für die Erhebung nach
 
@@ -4885,8 +5155,8 @@ die Erhebungen nach Absatz 9 beginnend mit 2006. Die Erhebung nach §
     gerichtlichen Entscheidung über die Annahme als Kind,
 
 
-8.  § 99 Absatz 3 Nummer 2 Buchstabe a und Absatz 6a, 6b und 8 und 10 sind
-    für das abgelaufene Kalenderjahr,
+8.  § 99 Absatz 3 Nummer 2 Buchstabe a und Absatz 6a, 6b und 10 sind für
+    das abgelaufene Kalenderjahr,
 
 
 9.  § 99 Absatz 3 Nummer 2 Buchstabe b und Absatz 4, 5 und 9 sind zum 31.
@@ -4897,7 +5167,10 @@ die Erhebungen nach Absatz 9 beginnend mit 2006. Die Erhebung nach §
 
 
 11. § 99 Absatz 6 sind zum Zeitpunkt des Abschlusses der
-    Gefährdungseinschätzung
+    Gefährdungseinschätzung,
+
+
+12. § 99 Absatz 8 sind für das abgelaufene Kalenderjahr
 
 
 
@@ -4907,18 +5180,18 @@ zu erteilen.
 ### § 102 Auskunftspflicht
 
 (1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 100
-Nummer 3 sind freiwillig.
+Nummer 4 sind freiwillig.
 
 (2) Auskunftspflichtig sind
 
 1.  die örtlichen Träger der Jugendhilfe für die Erhebungen nach § 99
-    Absatz 1 bis 10, nach Absatz 8 nur, soweit eigene Maßnahmen
-    durchgeführt werden,
+    Absatz 1 bis 10, nach Absatz 8 nur, soweit eigene Angebote gemacht
+    wurden,
 
 
 2.  die überörtlichen Träger der Jugendhilfe für die Erhebungen nach § 99
-    Absatz 3 und 7 und 8 bis 10, nach Absatz 8 nur, soweit eigene
-    Maßnahmen durchgeführt werden,
+    Absatz 3 und 7 und 8 bis 10, nach Absatz 8 nur, soweit eigene Angebote
+    gemacht wurden,
 
 
 3.  die obersten Landesjugendbehörden für die Erhebungen nach § 99 Absatz
@@ -4935,11 +5208,23 @@ Nummer 3 sind freiwillig.
 
 
 6.  die Träger der freien Jugendhilfe für Erhebungen nach § 99 Absatz 1,
-    soweit sie eine Beratung nach § 28 oder § 41 betreffen, und nach § 99
-    Absatz 2, 3, 7, 8 und 9,
+    soweit sie eine Beratung nach § 28 oder § 41 betreffen, nach § 99
+    Absatz 8, soweit sie anerkannte Träger der freien Jugendhilfe nach §
+    75 Absatz 1 oder Absatz 3 sind, und nach § 99 Absatz 3, 7 und 9,
 
 
-7.  die Leiter der Einrichtungen, Behörden und Geschäftsstellen in der
+7.  Adoptionsvermittlungsstellen nach § 2 Absatz 2 des
+    Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 1 des
+    Adoptionsvermittlungsgesetzes sowie anerkannte
+    Auslandsvermittlungsstellen nach § 4 Absatz 2 Satz 2 des
+    Adoptionsvermittlungsgesetzes aufgrund ihrer Tätigkeit nach § 2a
+    Absatz 3 Nummer 3 des Adoptionsvermittlungsgesetzes gemäß § 99 Absatz
+    3 Nummer 1 sowie gemäß § 99 Absatz 3 Nummer 2a für die Zahl der
+    ausgesprochenen Annahmen und gemäß § 99 Absatz 3 Nummer 2b für die
+    Zahl der vorgemerkten Adoptionsbewerber,
+
+
+8.  die Leiter der Einrichtungen, Behörden und Geschäftsstellen in der
     Jugendhilfe für die Erhebungen nach § 99 Absatz 7 und 9.
 
 
@@ -5026,4 +5311,15 @@ bestraft, wer
 
 
 
+
+
+## Elftes Kapitel - Schlussvorschriften
+
+
+
+### § 106 Einschränkung eines Grundrechts
+
+Durch § 42 Absatz 5 und § 42a Absatz 1 Satz 2 wird das Grundrecht auf
+Freiheit der Person (Artikel 2 Absatz 2 Satz 3 des Grundgesetzes)
+eingeschränkt.
 

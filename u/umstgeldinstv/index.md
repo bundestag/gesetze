@@ -55,8 +55,8 @@ die Höhe des nach § 8 Satz 3 der Bankenverordnung abzuführenden
 Überschusses. Geldinstitute, die eine Ausgleichsforderung nicht in
 Anspruch nehmen und bei der Bewertung von den Vorschriften des
 Absatzes 1 abweichen, haben dies in dem der
-Bankaufsichtsbehörde              nach § 3 Abs. 2 Satz 1 der
-Bankenverordnung einzureichenden Bericht zu erläutern.
+Bankaufsichtsbehörde nach § 3 Abs. 2 Satz 1 der Bankenverordnung
+einzureichenden Bericht zu erläutern.
 
 (4) Auf Geldinstitute, die eine Ausgleichsforderung nicht in Anspruch
 nehmen, findet § 75 des D-Markbilanzgesetzes mit der Maßgabe
@@ -229,17 +229,16 @@ abgezinst auf den 21. Juni 1948 mit dem Zinssatz, der für den Teil der
 Ausgleichsforderung gilt, der sich mindert.
 
 (8)
-§ 60              des Bewertungsgesetzes vom 16. Oktober 1934
-(Reichsgesetzbl. I S. 1035)
+§ 60 des Bewertungsgesetzes vom 16. Oktober 1934 (Reichsgesetzbl. I S.
+1035)
 in der Fassung des Artikels 8 des Gesetzes zur Änderung
 steuerrechtlicher Vorschriften vom 26. Juli 1957 (Bundesgesetzbl. I S.
-848)              gilt nicht für den Ansatz von Anteilsrechten in der
+848) gilt nicht für den Ansatz von Anteilsrechten in der
 Umstellungsrechnung.
 
 (9) Sofern die Voraussetzungen des
-§ 13 Abs. 3              des Bewertungsgesetzes gegeben sind, ist zu
-dem Ansatz für die Anteilsrechte ein entsprechender Zuschlag zu
-machen.
+§ 13 Abs. 3 des Bewertungsgesetzes gegeben sind, ist zu dem Ansatz für
+die Anteilsrechte ein entsprechender Zuschlag zu machen.
 
 
 ### § 7 Anteile an Personengesellschaften
@@ -381,9 +380,9 @@ gerichtlichen Entscheidung an gerechnet, eintreten sollte.
     eine gesetzliche Vorschrift, im Wege der Vertragshilfe, auf Grund
     einer anderen gerichtlichen Entscheidung, durch eine behördliche
     Maßnahme oder durch eine von der
-    Bankaufsichtsbehörde                    genehmigte oder sonst für die
-    Umstellungsrechnung wirksame Vereinbarung unter 3 vom Hundert
-    (Normalverzinsung) herabgesetzt worden ist.
+    Bankaufsichtsbehörde genehmigte oder sonst für die Umstellungsrechnung
+    wirksame Vereinbarung unter 3 vom Hundert (Normalverzinsung)
+    herabgesetzt worden ist.
 
 
 
@@ -460,9 +459,8 @@ zweckentsprechenden Rechtsverteidigung wegen einer Verbindlichkeit
 gebildet werden, die in die Umstellungsrechnung einzustellen wäre. Das
 gleiche gilt für die Kosten einer nicht mutwilligen oder einer auf
 Veranlassung der
-Bankaufsichtsbehörde              durchgeführten Rechtsverfolgung
-wegen eines Vermögenswertes, der in die Umstellungsrechnung
-einzustellen wäre.
+Bankaufsichtsbehörde durchgeführten Rechtsverfolgung wegen eines
+Vermögenswertes, der in die Umstellungsrechnung einzustellen wäre.
 
 
 ### § 18 Pensionsrückstellungen
@@ -877,8 +875,8 @@ Juni 1948 entfallenden Betrages als aktiver Abgrenzungsposten
 anzusetzen.
 
 (5) Nachzahlungsverpflichtungen nach
-§ 5              des Währungsgesetzes können in voller Höhe als
-Passivposten angesetzt werden.
+§ 5 des Währungsgesetzes können in voller Höhe als Passivposten
+angesetzt werden.
 
 (6) Bei Berechnung des vorläufigen Eigenkapitals nach § 5 Abs. 2 der
 Bankenverordnung gelten die unter Absatz 1 Nr. 1 fallenden

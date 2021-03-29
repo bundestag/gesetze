@@ -4,7 +4,7 @@ Title: Verordnung über die Berufsausbildung zum Müller (Verfahrenstechnologe i
   und Futtermittelwirtschaft)
 jurabk: MüAusbV 2006
 layout: default
-origslug: m_ausbv_2006
+origslug: mueausbv_2006
 slug: mueausbv_2006
 
 ---

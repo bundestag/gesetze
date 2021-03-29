@@ -5,7 +5,7 @@ Title: Verordnung zur Feststellung der Behörden des Bundes mit Aufgaben von ver
   oder verteidigungswichtigen Einrichtungen
 jurabk: SÜFV
 layout: default
-origslug: s_fv
+origslug: suefv
 slug: suefv
 
 ---
@@ -21,10 +21,8 @@ Fundstelle
 Neugefasst durch
 :   V v. 12.9.2007 I 2294;
 
-Zuletzt geändert durch
-:   Art. 8 G v. 7.12.2011 I 2576
-
-Stand: Die §§ 2 bis 12 treten gem. § 13 idF d. Art. 8 G v. 7.12.2011 I 2576 am 10.1.2016 außer Kraft
+Stand: zuletzt geändert Art. 2 G v. 23.6.2017 I 1822
+Stand: Die §§ 2 bis 12 treten gem. § 13 idF d. Art. 1 Nr. 6 V v. 3.12.2015 I 2186 am 10.1.2021 außer Kraft; dadurch ist die Geltung der §§ 2 bis 10, 11 u. 12 über den 10.1.2016 hinaus bis zum 10.1.2021 verlängert worden
 
 ## Erster Teil - Feststellung der Behörden des Bundes mit Aufgaben von vergleichbarer Sicherheitsempfindlichkeit wie die der Nachrichtendienste des Bundes
 
@@ -42,12 +40,11 @@ wahr:
     Bundesamt für Verfassungsschutz wahrnimmt,
 
 
-2.  das Bundeskriminalamt, soweit es seine polizeiliche Aufgabe der
-    Strafverfolgung auf den Gebieten der Spionageabwehr und der
-    Terrorismusbekämpfung sowie der Strafverfolgung solcher
-    Erscheinungsformen der organisierten Kriminalität wahrnimmt, bei deren
-    Aufklärung eine dauerhafte Zusammenarbeit mit den Nachrichtendiensten
-    des Bundes erfolgt,
+2.  das Bundeskriminalamt, soweit es seine polizeiliche Aufgabe auf den
+    Gebieten der Spionageabwehr und der Terrorismusbekämpfung sowie der
+    Strafverfolgung solcher Erscheinungsformen der organisierten
+    Kriminalität wahrnimmt, bei deren Aufklärung eine dauerhafte
+    Zusammenarbeit mit den Nachrichtendiensten des Bundes erfolgt,
 
 
 3.  die Bundeswehr, soweit sie Aufgaben der Fernmelde- und elektronischen
@@ -60,7 +57,20 @@ wahr:
     Außenwirtschaftsgesetzes und Kriegswaffenkontrollgesetzes sowie der
     Strafverfolgung solcher Erscheinungsformen der organisierten
     Kriminalität tätig wird, bei deren Aufklärung eine dauerhafte
-    Zusammenarbeit mit den Nachrichtendiensten des Bundes erfolgt.
+    Zusammenarbeit mit den Nachrichtendiensten des Bundes erfolgt,
+
+
+5.  der Generalbundesanwalt, soweit er bei Ermittlungstätigkeiten auf dem
+    Gebiet der Spionageabwehr und der Terrorismusbekämpfung übermittelte
+    Informationen der Nachrichtendienste des Bundes verwendet,
+
+
+6.  die Zentralstelle für Finanztransaktionsuntersuchungen, soweit sie bei
+    ihrer Aufgabe der Verhinderung, Aufdeckung und Unterstützung bei der
+    Bekämpfung von Geldwäsche und Terrorismusfinanzierung
+    Erscheinungsformen der organisierten Kriminalität oder des Terrorismus
+    wahrnimmt und eine dauerhafte Zusammenarbeit mit den
+    Nachrichtendiensten des Bundes erfolgt.
 
 
 
@@ -101,7 +111,8 @@ beeinträchtigen würde.
 
 Lebenswichtige Einrichtungen sind die Arbeitseinheiten, die der
 Informationstechnik der Deutschen Bundesbank beim unbaren
-Großbetragszahlungsverkehr und der zentralen Bargeldversorgung dienen.
+Großbetragszahlungsverkehr dienen, sowie die Einrichtungen der
+zentralen Bargeldversorgung.
 
 
 #### § 5a Oberste Bundesbehörden
@@ -163,13 +174,12 @@ Beobachtung des Auftretens und der Bekämpfung von Krankheiten und
 relevanten Gesundheitsgefahren in der Bevölkerung.
 
 
-#### § 9 Geschäftsbereich des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
+#### § 9 Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft
 
 Lebenswichtige Einrichtungen sind im Geschäftsbereich des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-Arbeitseinheiten wissenschaftlicher Einrichtungen, die in erheblichem
-Umfang mit hochtoxischen Stoffen oder pathogenen Mikroorganismen
-arbeiten.
+Bundesministeriums für Ernährung und Landwirtschaft Arbeitseinheiten
+wissenschaftlicher Einrichtungen, die in erheblichem Umfang mit
+hochtoxischen Stoffen oder pathogenen Mikroorganismen arbeiten.
 
 
 ### Zweiter Abschnitt - Feststellung des nichtöffentlichen Bereichs
@@ -179,83 +189,120 @@ arbeiten.
 #### § 9a Bundesministerium des Innern
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
-Bundesministeriums des Innern die Teile von Unternehmen, die mit dem
-Aufbau oder Betrieb des Digitalfunks der Behörden und Organisationen
-mit Sicherheitsaufgaben beauftragt sind und deren Ausfall den Aufbau
-oder Betrieb des Digitalfunks der Behörden und Organisationen mit
-Sicherheitsaufgaben unmittelbar erheblich beeinträchtigen würde.
+Bundesministeriums des Innern
+
+1.  die Teile von Unternehmen, die mit dem Aufbau oder Betrieb des
+    Digitalfunks der Behörden und Organisationen mit Sicherheitsaufgaben
+    beauftragt sind und deren Ausfall den Aufbau oder Betrieb des
+    Digitalfunks der Behörden und Organisationen mit Sicherheitsaufgaben
+    unmittelbar erheblich beeinträchtigen würde, und
 
 
-#### § 10 Bundesministerium für Wirtschaft und Technologie
+2.  die Teile von Unternehmen, die mit dem Aufbau oder Betrieb der
+    Informations- und Kommunikationstechnik des Bundes beauftragt sind und
+    deren Ausfall die Tätigkeit der obersten Bundesbehörden sowie von
+    deren Geschäftsbereichen unmittelbar erheblich beeinträchtigen würde.
+
+
+
+
+
+#### § 10 Bundesministerium für Wirtschaft und Energie
 
 (1) Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
-Bundesministeriums für Wirtschaft und Technologie
+Bundesministeriums für Wirtschaft und Energie
 
 1.  die Teile von Telekommunikationsunternehmen, die
     Telekommunikationsanlagen im Sinne des § 3 Nummer 23 des
-    Telekommunikationsgesetzes betreiben, deren Ausfall das Erbringen der
-    nach dem Post- und Telekommunikationssicherstellungsgesetz
-    aufrechtzuerhaltenden Telekommunikationsdienste erheblich
-    beeinträchtigen kann;
+    Telekommunikationsgesetzes betreiben, deren Ausfall das Bereitstellen
+    oder Aufrechterhalten der Übertragungswege nach dem Post- und
+    Telekommunikationssicherstellungsgesetz erheblich beeinträchtigen
+    kann, und
 
 
-2.  die der Produktion und der Lagerung dienenden Teile von Unternehmen,
-    die zivile oder militärische explosionsgefährliche Stoffe im Sinne des
-    § 1 des Sprengstoffgesetzes in der Fassung der Bekanntmachung vom 10.
-    September 2002 (BGBl. I S. 3518) oder Munition im Sinne der Anlage 1
-    Abschnitt 1 Unterabschnitt 3 Nr. 1 zu § 1 Abs. 4 des Waffengesetzes
-    vom 11. Oktober 2002 (BGBl. I S. 3970, 4592) in der jeweils geltenden
-    Fassung herstellen;
-
-
-3.  die Teile von Unternehmen, die als Betriebsbereich in den
-    Anwendungsbereich des § 1 Abs. 1 Satz 2 der Störfall-Verordnung vom
-    26\. April 2000 (BGBl. I S. 603) in der jeweils geltenden Fassung
-    fallen oder die nach § 1 Abs. 2 der Störfall-Verordnung diesen
-    Betriebsbereichen gleichgestellt sind und
-
-
-4.  die Teile von Unternehmen, die Leitstellen für das
+2.  die Teile von Unternehmen, die Leitstellen für das
     Elektrizitätsübertragungsnetz betreiben, deren Ausfall die
     überregionale Elektrizitätsversorgung erheblich beeinträchtigen kann.
 
 
 
 
-(2) Verteidigungswichtige Einrichtungen sind im Zuständigkeitsbereich
-des Bundesministeriums für Wirtschaft und Technologie die Teile von
+(2) Verteidigungswichtige Einrichtungen im Sinne von § 1 Absatz 5 Satz
+2 des Sicherheitsüberprüfungsgesetzes sind im Zuständigkeitsbereich
+des Bundesministeriums für Wirtschaft und Energie die Teile von
 Unternehmen, die unmittelbar dem Bau, der Wartung oder der Reparatur
-von wehrtechnischen Fahrzeugen, wehrtechnischem Material oder
+von wehrtechnischen Fahrzeugen, wehrtechnischem Material oder von
 Marineschiffen dienen. Soweit sicherheitsempfindliche Stellen dieser
 Einrichtungen nicht bereits der Sicherheitsüberprüfung durch das
-Bundesministerium für Wirtschaft und Technologie unterliegen, werden
-sie vom Bundesministerium der Verteidigung im Einvernehmen mit dem
-Bundesministerium des Innern dem Bundesministerium für Wirtschaft und
-Technologie mitgeteilt.
+Bundesministerium für Wirtschaft und Energie unterliegen, teilt das
+Bundesministerium der Verteidigung im Einvernehmen mit dem
+Bundesministerium des Innern die sicherheitsempfindlichen Stellen dem
+Bundesministerium für Wirtschaft und Energie mit.
 
 
-#### § 11 Bundesministerium für Verkehr, Bau und Stadtentwicklung
+#### § 10a Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
 Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+
+1.  die Teile von Unternehmen, die als Betriebsbereich in den
+    Anwendungsbereich des § 1 Absatz 1 Satz 2 der Störfall-Verordnung in
+    der Fassung der Bekanntmachung vom 8. Juni 2005 (BGBl. I S. 1598), die
+    zuletzt durch Artikel 79 der Verordnung vom 31. August 2015 (BGBl. I
+    S. 1474) geändert worden ist, fallen, und
+
+
+2.  die Teile von Unternehmen, die nach § 1 Absatz 2 der Störfall-
+    Verordnung Betriebsbereichen nach Nummer 1 gleichgestellt sind,
+
+
+
+soweit der Betrieb nicht ausreichend durch organisatorische oder
+technische Maßnahmen gegen Eingriffe Unbefugter geschützt und dies im
+Sicherheitsbericht nach § 9 der Störfall-Verordnung dokumentiert ist.
+
+
+#### § 11 Bundesministerium für Verkehr und digitale Infrastruktur
+
+Lebenswichtige Einrichtungen sind im Zuständigkeitsbereich des
+Bundesministeriums für Verkehr und digitale Infrastruktur
 
 1.  die Leitstellen von Unternehmen, die mit Eisenbahnen oder mit
     Untergrundbahnen Personen oder Güter befördern;
 
 
-2.  die Teile von Unternehmen, in denen Sicherungspläne nach
-    Unterabschnitt 1.10.3.2 der Anlage A des Europäischen Übereinkommens
-    über die internationale Beförderung gefährlicher Güter auf der Straße
-    vom 30. September 1957 (BGBl. 1969 II S. 1491), nach Unterabschnitt
-    1\.10.3.2 der Ordnung für die internationale Eisenbahnbeförderung
-    gefährlicher Güter (Anhang C zum Übereinkommen über den
-    internationalen Eisenbahnverkehr (COTIF) vom 9. Mai 1980 in der
-    Fassung des Änderungsprotokolls vom 3. Juni 1999, BGBl. 2002 II S.
-    2140) und nach Unterabschnitt 1.10.3.2 der Verordnung über die
-    Beförderung gefährlicher Güter auf dem Rhein vom 21. Dezember 1994
-    (BGBl. 1994 II S. 3830) in der jeweils geltenden Fassung erstellt
-    werden, die für deren Erstellung verantwortlich sind oder die zu den
-    vollständigen Sicherungsplänen Zugang haben.
+2.  die Teile von Unternehmen, in denen folgende Sicherungspläne
+    verantwortlich erstellt werden oder die zu diesen vollständigen
+    Sicherungsplänen Zugang haben:
+
+    a)  Sicherungspläne nach Unterabschnitt 1.10.3.2 der Anlage A zu dem
+        Europäischen Übereinkommen vom 30. September 1957 über die
+        internationale Beförderung gefährlicher Güter auf der Straße (ADR) in
+        der Fassung der Bekanntmachung der Neufassung vom 17. April 2015
+        (BGBl. 2015 II S. 504, Anlageband),
+
+
+    b)  Sicherungspläne nach Unterabschnitt 1.10.3.2 der Anlage der Ordnung
+        für die internationale Eisenbahnbeförderung gefährlicher Güter (RID)
+        (Anhang C des Übereinkommens vom 9. Mai 1980 über den internationalen
+        Eisenbahnverkehr (COTIF)) in der Fassung der Bekanntmachung vom 16.
+        Mai 2008 (BGBl. 2008 II S. 475, 899), die zuletzt durch die mit der
+        19\. RID-Änderungsverordnung vom 31. Oktober 2014 veröffentlichten
+        Änderungen vom 22. Mai 2014 (BGBl. 2014 II S. 890, Anlageband)
+        geändert worden ist, und
+
+
+    c)  Sicherungspläne nach Unterabschnitt 1.10.3.2 der Anlage zu dem
+        Europäischen Übereinkommen vom 26. Mai 2000 über die internationale
+        Beförderung von gefährlichen Gütern auf Binnenwasserstraßen (ADN)
+        (BGBl. 2007 II S. 1906, 1908), die zuletzt durch die mit der 5. ADN-
+        Änderungsverordnung vom 15. Dezember 2014 veröffentlichten Änderungen
+        vom 31. Januar 2014 und 29. August 2014 (BGBl. 2014 II S. 1344,
+        Anlageband) geändert worden ist,
+
+
+
+    in der jeweils geltenden Fassung.
 
 
 
@@ -267,11 +314,15 @@ Bundesministeriums für Verkehr, Bau und Stadtentwicklung
 
 #### § 12 Zuständigkeit
 
-Zuständig für die Durchführung der Sicherheitsüberprüfungen nach den
-§§ 9a bis 11 ist das Bundesministerium für Wirtschaft und Technologie.
+(1) Zuständig für die Durchführung der Sicherheitsüberprüfungen nach §
+9a Nummer 2 ist das Bundesministerium des Innern.
+
+(2) Zuständig für die Durchführung der Sicherheitsüberprüfungen nach §
+9a Nummer 1 sowie nach den §§ 10 bis 11 ist das Bundesministerium für
+Wirtschaft und Energie.
 
 
-#### § 13 (Inkrafttreten, Außerkrafttreten)
+#### § 13 Außerkrafttreten
 
-Die §§ 2 bis 12 treten am 10. Januar 2016 außer Kraft.
+Die §§ 2 bis 12 treten am 10. Januar 2021 außer Kraft.
 

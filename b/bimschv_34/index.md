@@ -1,5 +1,5 @@
 ---
-Title: Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes
+Title: Vierunddreißigste Verordnung zur Durchführung des  Bundes-Immissionsschutzgesetzes
   (Verordnung über die Lärmkartierung)
 jurabk: BImSchV 34
 layout: default
@@ -8,13 +8,16 @@ slug: bimschv_34
 
 ---
 
-# Vierunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung) (BImSchV 34)
+# Vierunddreißigste Verordnung zur Durchführung des  Bundes-Immissionsschutzgesetzes (Verordnung über die Lärmkartierung) (BImSchV 34)
 
 Ausfertigungsdatum
 :   2006-03-06
 
 Fundstelle
 :   BGBl I: 2006, 516
+
+Zuletzt geändert durch
+:   Art. 84 V v. 31.8.2015 I 1474
 
 Die Rechtsverordnung dient der Umsetzung der Richtlinie 2002/49/EG des
 Europäischen Parlaments und des Rates vom 25. Juni 2002 über die
@@ -42,25 +45,24 @@ Immissionsschutzgesetzes.
 
 (1) Die Lärmindizes
 L
-Day              , L
-Evening              und L
-Night              sind die A-bewerteten äquivalenten Dauerschallpegel
-in Dezibel gemäß ISO 1996-2: 1987, erschienen bei der Beuth-Verlag
-GmbH, 10772 Berlin, und archivmäßig niedergelegt beim Deutschen
-Patent- und Markenamt in München, wobei der Beurteilungszeitraum ein
-Jahr beträgt und die Bestimmungen an allen Tagen in folgenden
-Zeiträumen erfolgen:
+Day , L
+Evening und L
+Night sind die A-bewerteten äquivalenten Dauerschallpegel in Dezibel
+gemäß ISO 1996-2: 1987, erschienen bei der Beuth-Verlag GmbH, 10772
+Berlin, und archivmäßig niedergelegt beim Deutschen Patent- und
+Markenamt in München, wobei der Beurteilungszeitraum ein Jahr beträgt
+und die Bestimmungen an allen Tagen in folgenden Zeiträumen erfolgen:
 
 1.  L
-    Day                    : 12 Stunden, beginnend um 6.00 Uhr,
+    Day : 12 Stunden, beginnend um 6.00 Uhr,
 
 
 2.  L
-    Evening                    : 4 Stunden, beginnend um 18.00 Uhr,
+    Evening : 4 Stunden, beginnend um 18.00 Uhr,
 
 
 3.  L
-    Night                    : 8 Stunden, beginnend um 22.00 Uhr.
+    Night : 8 Stunden, beginnend um 22.00 Uhr.
 
 
 
@@ -70,7 +72,7 @@ Kalenderjahr.
 
 (2) Der Lärmindex
 L
-DEN              in Dezibel ist wie folgt definiert:
+DEN in Dezibel ist wie folgt definiert:
 ![bgbl1_2006_j0516_0010.jpg](bgbl1_2006_j0516_0010.jpg)
 
 ## § 3 Datenerhebung und Datenübermittlung
@@ -240,17 +242,17 @@ Wohnungen zu runden.
 anerkannten Regeln der Technik entsprechen. Die Berechnungsverfahren
 werden
 
-1.  für die Lärmarten nach § 4 Abs. 1 Nr. 1 bis 3 vom Bundesministerium
-    für Verkehr, Bau und Stadtentwicklung,
+1.  für die Lärmarten nach § 4 Absatz 1 Nummer 1 bis 3 vom
+    Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
-2.  für Fluglärm (§ 4 Abs. 1 Nr. 4) vom Bundesministerium für Umwelt,
-    Naturschutz und Reaktorsicherheit im Einvernehmen mit dem
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung,
+2.  für Fluglärm (§ 4 Absatz 1 Nummer 4) vom Bundesministerium für Umwelt,
+    Naturschutz, Bau und Reaktorsicherheit im Einvernehmen mit dem
+    Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
-3.  für Industrie- und Gewerbelärm (§ 4 Abs. 1 Nr. 5) vom
-    Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+3.  für Industrie- und Gewerbelärm (§ 4 Absatz 1 Nummer 5) vom
+    Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
 
 
@@ -283,8 +285,8 @@ dem Ausbreitungsweg.
 (1) Die nach § 47e Abs. 2 und 3 des Bundes-Immissionsschutzgesetzes
 zuständigen Behörden übermitteln binnen vier Monaten nach den in § 47c
 Abs. 1 des Bundes-Immissionsschutzgesetzes aufgeführten Fristen dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit oder
-einer von ihm benannten Stelle die vollständigen Lärmkarten.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+oder einer von ihm benannten Stelle die vollständigen Lärmkarten.
 
 (2) Die nach § 47e Abs. 1 des Bundes-Immissionsschutzgesetzes
 zuständigen Behörden übermitteln zu den in § 47c Abs. 1 des Bundes-

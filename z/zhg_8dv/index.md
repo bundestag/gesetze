@@ -759,7 +759,7 @@ Fundstelle des Originaltextes: BAnz 1952, Nr. 246, Seite 1 - 2
 *    *
     *   VI.
 
-    *   Grundzügeder Rezeptur                        (mit Übungen)
+    *   Grundzügeder Rezeptur (mit Übungen)
 
 
 *    *

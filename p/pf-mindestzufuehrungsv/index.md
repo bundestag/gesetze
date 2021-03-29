@@ -2,7 +2,7 @@
 Title: Verordnung über die Mindestbeitragsrückerstattung bei Pensionsfonds
 jurabk: PF-MindestzuführungsV
 layout: default
-origslug: pf-mindestzuf_hrungsv
+origslug: pf-mindestzufuehrungsv
 slug: pf-mindestzufuehrungsv
 
 ---

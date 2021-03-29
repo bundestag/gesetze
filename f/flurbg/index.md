@@ -886,11 +886,11 @@ Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
 Küstenschutzes" vom 3. September 1969 (Bundesgesetzbl. I S. 1573),
 geändert durch das Gesetz zur Änderung der Gesetze über die
 Gemeinschaftsaufgaben vom 23. Dezember 1971 (Bundesgesetzbl. I S.
-2140),              und Vorplanungen der landwirtschaftlichen
-Berufsvertretung oder anderer landwirtschaftlicher Stellen sowie des
-Naturschutzes und der Landschaftspflege zu erörtern und in dem
-möglichen Umfange zu berücksichtigen. Die Erfordernisse der
-Raumordnung, der Landesplanung und des Städtebaues sind zu beachten.
+2140), und Vorplanungen der landwirtschaftlichen Berufsvertretung oder
+anderer landwirtschaftlicher Stellen sowie des Naturschutzes und der
+Landschaftspflege zu erörtern und in dem möglichen Umfange zu
+berücksichtigen. Die Erfordernisse der Raumordnung, der Landesplanung
+und des Städtebaues sind zu beachten.
 
 
 ### Erster Abschnitt - Gemeinschaftliche und öffentliche Anlagen
@@ -1669,7 +1669,7 @@ sind, nach folgenden Vorschriften zu wahren:
     der Bekanntmachung vom 20. Mai 1898 (Reichsgesetzbl. S. 369, 713),
     zuletzt geändert durch
     das Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
-    (Bundesgesetzbl. I S. 469),                    entsprechend.
+    (Bundesgesetzbl. I S. 469), entsprechend.
 
 
 4.  Hypotheken, Grundschulden, Rentenschulden und Reallasten, die aus der
@@ -2277,12 +2277,12 @@ Gemeinschaftsaufgabe "Verbesserung der Agrarstruktur und des
 Küstenschutzes" vom 3. September 1969 (Bundesgesetzbl. I S. 1573),
 geändert durch das Gesetz zur Änderung der Gesetze über die
 Gemeinschaftsaufgaben vom 23. Dezember 1971 (Bundesgesetzbl. I S.
-2140),              Vorplanungen der landwirtschaftlichen
-Berufsvertretung oder anderer landwirtschaftlicher Stellen sowie des
-Naturschutzes und der Landschaftspflege in dem möglichen Umfange zu
-berücksichtigen, die Erfordernisse der Raumordnung, der Landesplanung
-und des Städtebaues sind zu beachten; die übrigen Vorschriften der §§
-38 und 56 sind nicht anzuwenden.
+2140), Vorplanungen der landwirtschaftlichen Berufsvertretung oder
+anderer landwirtschaftlicher Stellen sowie des Naturschutzes und der
+Landschaftspflege in dem möglichen Umfange zu berücksichtigen, die
+Erfordernisse der Raumordnung, der Landesplanung und des Städtebaues
+sind zu beachten; die übrigen Vorschriften der §§ 38 und 56 sind nicht
+anzuwenden.
 
 
 ### § 100
@@ -2916,9 +2916,9 @@ hierfür geschuldeten Kosten (Gebühren und Auslagen) zu.
 Verwaltungs-Vollstreckungsgesetzes (VwVG) vom 27. April 1953
 (Bundesgesetzblatt I S. 157), zuletzt geändert durch das
 Einführungsgesetz zum Strafgesetzbuch vom 2. März 1974
-(Bundesgesetzbl. I S. 469),              sinngemäß anzuwenden.
-Geldforderungen der Teilnehmergemeinschaft werden im
-Verwaltungszwangsverfahren wie Gemeindeabgaben vollstreckt.
+(Bundesgesetzbl. I S. 469), sinngemäß anzuwenden. Geldforderungen der
+Teilnehmergemeinschaft werden im Verwaltungszwangsverfahren wie
+Gemeindeabgaben vollstreckt.
 
 (2) Vollstreckungsbehörde für Vollstreckungsmaßnahmen nach Absatz 1
 ist die Flurbereinigungsbehörde.
@@ -3234,10 +3234,10 @@ Halbsatz). Die Auflösung ist öffentlich bekanntzumachen.
 11\. Februar 1932 (Gesetz- und Verordnungsblatt für den Freistaat
 Bayern S. 73), zuletzt geändert durch das
 Gesetz zur Ausführung des Flurbereinigungsgesetzes vom 11. August 1954
-(Bayerisches Gesetz- und Verordnungsblatt S. 165),              noch
-bestehenden Flurbereinigungsgenossenschaften können durch Beschluß des
-Vorstandes aufgelöst werden, wenn das Unternehmen abgeschlossen ist
-und ihre Aufgaben erfüllt sind.
+(Bayerisches Gesetz- und Verordnungsblatt S. 165), noch bestehenden
+Flurbereinigungsgenossenschaften können durch Beschluß des Vorstandes
+aufgelöst werden, wenn das Unternehmen abgeschlossen ist und ihre
+Aufgaben erfüllt sind.
 
 
 ## Dreizehnter Teil - Schluß- und Übergangsbestimmungen

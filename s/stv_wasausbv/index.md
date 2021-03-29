@@ -815,8 +815,9 @@ außer Kraft:
 
 
 
+(zu § 5)
 
-### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Straßen- und Verkehrstechnik
 
 (Fundstelle: BGBl. I 2000, 1153 - 1158)
 
@@ -1703,8 +1704,9 @@ außer Kraft:
 
 
 
+(zu § 11)
 
-### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zur Fachkraft für Wasserwirtschaft
 
 (Fundstelle: BGBl. I 2000, 1159 - 1164)
 

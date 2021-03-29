@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 554
 
 Zuletzt geändert durch
-:   Art. 459 V v. 31.10.2006 I 2407
+:   Art. 1 V v. 22.12.2016 I 3097
 
 
 ## Eingangsformel
@@ -38,30 +38,25 @@ sich nach den Bestimmungen dieser Verordnung.
 
 ## § 2 Anzeige von Unfällen
 
-(1) Die Anzeige eines Unfalls nach § 193 Abs. 1 des Siebten Buches
-Sozialgesetzbuch ist von den Unternehmern und für Versicherte nach § 2
-Abs. 1 Nr. 15 Buchstabe a des Siebten Buches Sozialgesetzbuch von den
-Trägern der Einrichtungen auf Vordrucken nach dem Muster der Anlage 1
-zu erstatten.
+(1) Unfälle von Versicherten sind auf einem Vordruck nach dem Muster
+der Anlage 1 anzuzeigen.
 
-(2) Die Anzeige eines Unfalls für Kinder in Tageseinrichtungen,
-Schüler und Studierende nach § 2 Abs. 1 Nr. 8 des Siebten Buches
-Sozialgesetzbuch ist von den Unternehmern oder, wenn der
-Schulhoheitsträger nicht Unternehmer ist, von den Schulhoheitsträgern
-(§ 193 Abs. 3 Satz 1 des Siebten Buches Sozialgesetzbuch) auf
-Vordrucken nach dem Muster der Anlage 2 zu erstatten.
+(2) Unfälle von Kindern, von Schülerinnen und Schülern sowie von
+Studierenden nach § 2 Absatz 1 Nummer 8 des Siebten Buches
+Sozialgesetzbuch sind auf einem Vordruck nach dem Muster der Anlage 2
+anzuzeigen.
 
 
 ## § 3 Anzeige von Berufskrankheiten
 
-(1) Die Ärzte und Zahnärzte haben bei begründetem Verdacht auf das
-Vorliegen einer Berufskrankheit die Anzeige nach § 202 Satz 1 des
-Siebten Buches Sozialgesetzbuch auf Vordrucken nach dem Muster der
-Anlage 3 zu erstatten.
+(1) Ärztinnen und Ärzte sowie Zahnärztinnen und Zahnärzte haben bei
+begründetem Verdacht auf das Vorliegen einer Berufskrankheit die
+Anzeige nach § 202 Satz 1 des Siebten Buches Sozialgesetzbuch auf
+einem Vordruck nach dem Muster der Anlage 3 zu erstatten.
 
 (2) Die Unternehmer haben bei Anhaltspunkten für das Vorliegen einer
 Berufskrankheit die Anzeige nach § 193 Abs. 2 des Siebten Buches
-Sozialgesetzbuch auf Vordrucken nach dem Muster der Anlage 4 zu
+Sozialgesetzbuch auf einem Vordruck nach dem Muster der Anlage 4 zu
 erstatten.
 
 
@@ -80,11 +75,11 @@ Recht hinzuweisen, eine Kopie der Anzeige zu verlangen.
 
 ## § 5 Anzeige durch Datenübertragung
 
-(1) Die Anzeigen nach den §§ 2 und 3 und die Durchschriften können im
-Einvernehmen mit dem Anzeigeempfänger auch im Wege der
-Datenübertragung übermittelt werden, soweit die Darstellung der
-Anzeige nach Form und Inhalt dieselben Felder und Texte wie das für
-die entsprechende Anzeige vorgesehene Formular enthält.
+(1) Anzeigen nach § 2 oder § 3 und ihre Kopien können im Einvernehmen
+mit den Anzeigeempfängern auch durch Datenübertragung übermittelt
+werden, sofern die Darstellung der Anzeige nach Form und Inhalt
+dieselben Felder und Texte wie das für die Anzeige vorgesehene
+Formular enthält.
 
 (2) Wird die Anzeige durch Datenübertragung erstattet, ist in ihr
 anzugeben, welches Mitglied des Betriebs- oder Personalrats vor der
@@ -100,7 +95,7 @@ Netze sind Verschlüsselungsverfahren anzuwenden.
 
 (1) Diese Verordnung tritt am 1. August 2002 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschriften)
 
 
 ## Schlussformel
@@ -108,26 +103,26 @@ Netze sind Verschlüsselungsverfahren anzuwenden.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 Unfallanzeige
+## Anlage 1
 
-(Inhalt: nicht darstellbares Formular;
-Fundstelle: BGBl. I 2002, 555)
-
-
-## Anlage 2 Unfallanzeige für Kinder in Tageseinrichtungen, Schüler, Studierende
-
-(Inhalt: nicht darstellbares Formular;
-Fundstelle: BGBl. I 2002, 556)
+(Fundstelle: BGBl. I 2016, 3098)
 
 
-## Anlage 3 Ärztliche Anzeige bei Verdacht auf eine Berufskrankheit
 
-(Inhalt: nicht darstellbares Formular;
-Fundstelle: BGBl. I 2002, 557)
+## Anlage 2
+
+(Fundstelle: BGBl. I 2016, 3099)
 
 
-## Anlage 4 Anzeige des Unternehmers bei Anhaltspunkten für eine Berufskrankheit
 
-(Inhalt: nicht darstellbares Formular;
-Fundstelle: BGBl. I 2002, 558)
+## Anlage 3
+
+(Fundstelle: BGBl. I 2016, 3100)
+
+
+
+## Anlage 4
+
+(Fundstelle: BGBl. I 2016, 3101)
+
 

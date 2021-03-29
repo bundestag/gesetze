@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze 200. Geburtstag von Heinrich Heine)
 jurabk: Münz10DMBek 1997-10
 layout: default
-origslug: m_nz10dmbek_1997-10
+origslug: muenz10dmbek_1997-10
 slug: muenz10dmbek_1997-10
 
 ---
@@ -43,7 +43,7 @@ Hensel aus dem Jahre 1829. Die Umschrift lautet:
         *
             *   "HEINRICH HEINE
 
-                \* 1797 + 1856".
+                * 1797 + 1856".
 
 
 

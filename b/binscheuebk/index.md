@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Eichung von Binnenschiffen
 jurabk: BinSchEÜbk
 layout: default
-origslug: binsche_bk
+origslug: binscheuebk
 slug: binscheuebk
 
 ---

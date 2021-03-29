@@ -1250,8 +1250,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-### Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Anlagentechnik/zur Industriekeramikerin Anlagentechnik
 
 (Fundstelle: BGBl. I 2005, 1550 - 1553)
 
@@ -1922,8 +1923,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 
+(zu § 11)
 
-### Anlage 2 (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Dekorationstechnik/zur Industriekeramikerin Dekorationstechnik
 
 (Fundstelle: BGBl. I 2005, 1554 - 1557)
 
@@ -2549,8 +2551,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 
+(zu § 17)
 
-### Anlage 3 (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Modelltechnik/zur Industriekeramikerin Modelltechnik
 
 (Fundstelle: BGBl. I 2005, 1558 - 1561)
 
@@ -3236,8 +3239,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 
 
+(zu § 23)
 
-### Anlage 4 (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Industriekeramiker Verfahrenstechnik/zur Industriekeramikerin Verfahrenstechnik
 
 (Fundstelle: BGBl. I 2005, 1562 - 1565)
 

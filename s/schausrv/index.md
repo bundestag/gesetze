@@ -15,14 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1913
 
-Geändert durch
-:   Art. 4 V v. 8.3.2012 I 483
-
-[^F771469_01_BJNR191310008]:     Diese Verordnung dient auch der Umsetzung der Richtlinie 96/98/EG des
-    Rates vom 20. Dezember 1996 über Schiffsausrüstung (ABl. EG 1997 Nr. L
-    46 S. 25), zuletzt geändert durch die Richtlinie 2008/67/EG der
-    Kommission vom 30. Juni 2008 (ABl. EU Nr. L 171 S. 16), in der jeweils
-    geltenden Fassung.
+Zuletzt geändert durch
+:   Art. 2 V v. 2.7.2017 I 2268
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -52,16 +46,16 @@ Im Sinne dieser Verordnung bedeuten
 
 2.  Ausrüstung:
 
-    die in den Anhängen A.1 und A.2 der Richtlinie 96/98/EG des
-    Europäischen Parlaments und des Rates vom 20. Dezember 1996 über
-    Schiffsausrüstung (ABl. EG 1997 Nr. L 46 S. 25), zuletzt geändert
-    durch die Richtlinie 2010/68/EU (ABl. L 305 vom 20.11.2010, S. 1), in
-    der jeweils geltenden Fassung aufgeführten Ausrüstungsteile, mit denen
-    ein Schiff nach den internationalen Vorschriften auszustatten ist, mit
-    denen ein Schiff aufgrund nationaler Regelungen oder auf freiwilliger
-    Basis ausgestattet werden kann und für die nach den nationalen oder
-    internationalen Vorschriften die Zulassung durch die Verwaltung des
-    Flaggenstaats erforderlich ist;
+    die in den Durchführungsrechtsakten der Kommission nach Artikel 35
+    Absatz 2 und 3 der Richtlinie 2014/90/EU des Europäischen Parlaments
+    und des Rates vom 23. Juli 2014 über Schiffsausrüstung und zur
+    Aufhebung der Richtlinie 96/98/EG des Rates (ABl. L 257 vom 28.8.2014,
+    S. 146) in ihrer jeweils geltenden Fassung aufgeführten
+    Ausrüstungsteile, mit denen ein Schiff nach den internationalen
+    Vorschriften auszustatten ist, mit denen ein Schiff aufgrund
+    nationaler Regelungen oder auf freiwilliger Basis ausgestattet werden
+    kann und für die nach den nationalen oder internationalen Vorschriften
+    die Zulassung durch die Verwaltung des Flaggenstaats erforderlich ist;
 
 
 3.  Baumusterzulassung:
@@ -123,8 +117,8 @@ Im Sinne dieser Verordnung bedeuten
 
     die internationalen Übereinkommen, Entschließungen und Rundschreiben
     der Internationalen Seeschifffahrts-Organisation (IMO) und alle
-    Prüfnormen, soweit sie nach Maßgabe der Richtlinie 96/98/EG anzuwenden
-    sind;
+    Prüfnormen, soweit sie nach Maßgabe der Richtlinie 2014/90/EU
+    anzuwenden sind;
 
 
 9.  internationale Übereinkommen:
@@ -169,21 +163,22 @@ Im Sinne dieser Verordnung bedeuten
 
 11. Kennzeichnung:
 
-    das in Anhang D der Richtlinie 96/98/EG dargestellte Steuerrad-Symbol,
-    das nach Artikel 11 der Richtlinie 96/98/EG angebracht wird;
+    das in Anhang I der Richtlinie 2014/90/EU dargestellte Steuerrad-
+    Symbol, das nach Artikel 9 der Richtlinie 2014/90/EU in ihrer jeweils
+    geltenden Fassung angebracht wird;
 
 
 12. Konformitätsbewertungsverfahren:
 
-    das in der Richtlinie 96/98/EG vorgesehene Verfahren zur Bewertung der
-    Produktsicherheit;
+    das in der Richtlinie 2014/90/EU in ihrer jeweils geltenden Fassung
+    vorgesehene Verfahren zur Bewertung der Produktsicherheit;
 
 
 13. Konformitätserklärung:
 
     schriftliche Erklärung über die Durchführung des
-    Konformitätsbewertungsverfahrens nach Maßgabe einer der Module C bis H
-    des Anhangs B der Richtlinie 96/98/EG;
+    Konformitätsbewertungsverfahrens nach Maßgabe des Artikels 16 der
+    Richtlinie 2014/90/EU in ihrer jeweils geltenden Fassung;
 
 
 14. Prüfnormen:
@@ -210,8 +205,8 @@ Im Sinne dieser Verordnung bedeuten
 
 
 
-    jedoch nur in der in Anhang A der Richtlinie
-    96/98/EG                    genannten Form;
+    jedoch nur in der in den Durchführungsrechtsakten der Kommission nach
+    Artikel 35 Absatz 2 und 3 der Richtlinie 2014/90/EU genannten Form;
 
 
 15. Schiff:
@@ -242,8 +237,8 @@ Wirtschaftsraum dem Inverkehrbringen neuer Ausrüstung gleich.
 (1) Benannte Stelle zur Durchführung des
 Konformitätsbewertungsverfahrens ist
 
-1.  für Navigations- und Funkausrüstung das Bundesamt für Seeschifffahrt
-    und Hydrographie,
+1.  für Navigations- und Funkausrüstung bis zum 31. Dezember 2015 das
+    Bundesamt für Seeschifffahrt und Hydrographie,
 
 
 2.  für Rettungsmittel, Ausrüstung zur Verhütung der Meeresverschmutzung
@@ -285,32 +280,67 @@ Konformitätsbewertungsverfahrens ist
 
 
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
-erkennt eine juristische Person als benannte Stelle im Sinne des
-Absatzes 1 Nr. 3 an, soweit diese die Anforderungen
+(3) Die zuständige Behörde erkennt auf Antrag mit Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur eine
+juristische Person als benannte Stelle an, soweit diese die
+Anforderungen
 
-1.[^F771469_02_BJNR191310008BJNE000400000]
+1.[^F771469_02_BJNR191310008BJNE000404124]
   der DIN EN 45011:1998/03,
 
 
 2.  der Entschließungen der Internationalen Seeschifffahrts-Organisation,
-    insbesondere A.739(18) vom 4. November 1993 (VkBl. 2008 S. 508) und
-    A.789(19) vom 23. November 1995 (VkBl. 2008 S. 508, 511),
+    insbesondere Entschließung A.739(18) vom 4. November 1993 (VkBl. 2008
+    S. 508) und für die jeweilige Beurteilung der zutreffenden
+    Sachverhalte nach den Modulen in der Entschließung A.789(19) vom 23.
+    November 1995 (VkBl. 2008 S. 508, 511),
 
 
-3.  sowie der Richtlinie 96/98/EG in der jeweils geltenden Fassung erfüllt
-    und zusätzlich die Anforderungen nach Absatz 2 nachweist; der Nachweis
-    kann durch ein Audit des Antragstellers nach § 4 Abs. 1 erfolgen. Das
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung kann, wenn die
-    benannte Stelle die Anforderungen des Absatzes 2 anfänglich nicht
-    vollständig oder bei einem Audit nach § 4 Abs. 1 nachträglich nicht
-    mehr vollständig nachweist, die Anerkennung beschränken oder mit
-    Auflagen versehen; die Anerkennung kann unter diesen Voraussetzungen
-    ausgesetzt sowie ganz oder teilweise zurückgenommen werden. Die
-    Anerkennung und ihre Rücknahme sind im Verkehrsblatt bekannt zu geben.
+3.  der Richtlinie 2014/90/EU in der jeweils geltenden Fassung erfüllt und
+    zusätzlich die Anforderungen nach Absatz 2 nachweist.
 
 
 
+Der Nachweis nach Satz 1 Nummer 3 kann durch ein Audit des
+Antragstellers nach § 4 Absatz 1 erfolgen. Die zuständige Behörde
+kann, wenn die benannte Stelle die Anforderungen des Absatzes 2
+anfänglich nicht vollständig oder bei einem Audit nach § 4 Absatz 1
+nachträglich nicht mehr vollständig nachweist, die Anerkennung
+beschränken oder mit Auflagen versehen; die Anerkennung kann unter
+diesen Voraussetzungen ausgesetzt sowie ganz oder teilweise
+zurückgenommen werden. Die Anerkennung und ihre Rücknahme sind im
+Verkehrsblatt bekannt zu geben.
+
+(3a) Die zuständige Behörde erkennt auf Antrag mit Zustimmung des
+Bundesministeriums für Verkehr und digitale Infrastruktur mit Wirkung
+ab 18. September 2016 eine juristische Person als benannte Stelle an,
+soweit diese die Anforderungen
+
+1.[^f791207_05_BJNR191310008BJNE000404124]
+  der DIN EN ISO/IEC 17065,
+
+
+2.  der Entschließungen der Internationalen Seeschifffahrts-Organisation,
+    insbesondere Entschließung A.739(18) vom 4. November 1993 (VkBl. 2008
+    S. 508) und für die jeweilige Beurteilung der zutreffenden
+    Sachverhalte nach den Modulen in der Entschließung A.789(19) vom 23.
+    November 1995 (VkBl. 2008 S. 508, 511) sowie
+
+
+3.  der Richtlinie 2014/90/EU in der jeweils geltenden Fassung erfüllt und
+    zusätzlich die Anforderungen nach Absatz 2 nachweist.
+
+
+
+Der Nachweis nach Satz 1 Nummer 13 kann durch ein Audit des
+Antragstellers nach § 4 Absatz 1 erfolgen. Die zuständige Behörde
+kann, wenn die benannte Stelle die Anforderungen des Absatzes 2
+anfänglich nicht vollständig oder bei einem Audit nach § 4 Absatz 1
+nachträglich nicht mehr vollständig nachweist, die Anerkennung
+beschränken oder mit Auflagen versehen; die Anerkennung kann unter
+diesen Voraussetzungen ausgesetzt sowie ganz oder teilweise
+zurückgenommen werden. Die Anerkennung und ihre Rücknahme sind im
+Verkehrsblatt bekannt zu geben.
 
 (4) Die benannte Stelle kann sich bei der Durchführung der
 Konformitätsbewertung anerkannter Organisationen oder sonstiger
@@ -338,12 +368,15 @@ die zuständige Behörde und übergibt dieser die zulassungserheblichen
 Unterlagen der Konformitätsbewertungsverfahren der letzten zehn Jahre.
 
 (8) Die benannte Stelle wirkt an der europäischen Gruppe benannter
-Stellen zur Umsetzung der Richtlinie 96/98/EG regelmäßig mit.
+Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 
     Die DIN-Norm, auf die in dieser Verordnung verwiesen wird, ist im
     Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
     Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
-[^F771469_02_BJNR191310008BJNE000400000]: 
+[^F771469_02_BJNR191310008BJNE000404124]:     Die DIN-Norm, auf die in dieser Verordnung verwiesen wird, ist im
+    Beuth-Verlag GmbH, Berlin und Köln, erschienen und beim Deutschen
+    Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
+[^f791207_05_BJNR191310008BJNE000404124]: 
 
 ### § 4 Aufsicht über benannte Stellen und Audit
 
@@ -356,7 +389,7 @@ diese mit Auflagen verbinden sowie diese überwachen, um die Erfüllung
 der Anforderungen des § 3 Abs. 3 Satz 1 sicherzustellen.
 
 (2) Die zuständige Behörde unterrichtet das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung, wenn ihr für Zwecke des Absatzes 1
+Verkehr und digitale Infrastruktur, wenn ihr für Zwecke des Absatzes 1
 der Zugang zu Einrichtungen der benannten Stellen oder der Einblick in
 die erforderlichen Unterlagen verwehrt wird oder die Kriterien des § 3
 Abs. 3 Satz 1 nicht erfüllt sind.
@@ -366,8 +399,8 @@ Abs. 3 Satz 1 nicht erfüllt sind.
 
 (1) Der Hersteller oder sein Bevollmächtigter haben vor dem
 Inverkehrbringen einer Ausrüstung deren Konformität durch ein
-Konformitätsbewertungsverfahren nach Artikel 10 der Richtlinie
-96/98/EG nachzuweisen.
+Konformitätsbewertungsverfahren nach Artikel 15 der Richtlinie
+2014/90/EU in ihrer jeweils geltenden Fassung nachzuweisen.
 
 (2) Die Aufzeichnungen über die Konformitätsbewertungsverfahren und
 der diesbezügliche Schriftverkehr sind in Deutsch abzufassen, soweit
@@ -388,7 +421,9 @@ zugelassene Ausrüstung muss mit der Kennzeichnung versehen sein.
 Inverkehrbringen, den Einbau, die Instandhaltung und die Verwendung
 von Ausrüstung ist gegeben, wenn diese
 
-1.  Anhang A der Richtlinie 96/98/EG entspricht,
+1.  den jeweiligen Durchführungsrechtsakten der Kommission nach Artikel 35
+    Absatz 2 und 3 der Richtlinie 2014/90/EU in ihrer jeweils geltenden
+    Fassung entspricht,
 
 
 2.  ein Konformitätsbewertungsverfahren durchlaufen hat,
@@ -408,7 +443,7 @@ Absatzes 1. Sie kann sich dabei der Unterstützung durch anerkannte
 Sachverständige bedienen.
 
 (3) Die zuständige Behörde wirkt an der europäischen Gruppe benannter
-Stellen zur Umsetzung der Richtlinie 96/98/EG regelmäßig mit.
+Stellen zur Umsetzung der Richtlinie 2014/90/EU regelmäßig mit.
 
 
 ### § 7 Maßnahmen
@@ -423,16 +458,15 @@ geeigneten vorläufigen Maßnahmen im Sinne des Absatzes 3, um diese
 Ausrüstung stillzulegen, auszubauen oder in sonstiger Form nicht mehr
 zu verwenden oder ihr Inverkehrbringen oder die Ausstattung eines
 Schiffes mit dieser Ausrüstung zu verbieten oder einzuschränken. Die
-zuständige Behörde unterrichtet die Kommission der Europäischen
-Gemeinschaften in Fällen des Artikels 13 Abs. 1 der Richtlinie
-96/98/EG unverzüglich von dieser Maßnahme und gibt insbesondere an, ob
-die Abweichung von den Anforderungen zurückzuführen ist auf die
-Nichteinhaltung des Artikels 5 Abs. 1 und 2 der Richtlinie 96/98/EG
-oder eine mangelhafte Anwendung der in Artikel 5 Abs. 1 und 2
-genannten Prüfnormen oder Mängel in den Prüfnormen selbst. Die
-zuständige Behörde setzt die von der Kommission nach Artikel 13 Abs. 2
-der Richtlinie 96/98/EG getroffene Entscheidung in geeigneter Weise um
-und gibt diese bekannt.
+zuständige Behörde unterrichtet die Kommission in Fällen der Artikel
+26 und 28 der Richtlinie 2014/90/EU in ihrer jeweils geltenden Fassung
+unverzüglich von dieser Maßnahme und gibt insbesondere an, ob die
+Abweichung von den Anforderungen zurückzuführen ist auf die
+Nichteinhaltung des Artikels 4 der Richtlinie 2014/90/EU oder eine
+mangelhafte Anwendung der in Artikel 4 genannten Prüfnormen oder
+Mängel in den Prüfnormen selbst. Die zuständige Behörde setzt die von
+der Kommission nach Artikel 27 Absatz 1 der Richtlinie 2014/90/EU
+getroffene Entscheidung in geeigneter Weise um und gibt diese bekannt.
 
 (2) Stellt die zuständige Behörde fest, dass Ausrüstung, für die eine
 Kennzeichnung vorgeschrieben ist, nicht mit einer Kennzeichnung

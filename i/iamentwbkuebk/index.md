@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Errichtung der Interamerikanischen Entwicklungsbank (Neufassung)
 jurabk: IAmEntwBkÜbk
 layout: default
-origslug: iamentwbk_bk
+origslug: iamentwbkuebk
 slug: iamentwbkuebk
 
 ---

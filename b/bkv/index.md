@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2623
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.6.2009 I 1273
+:   Art. 1 V v. 10.7.2017 I 2299
 
 
 ## Eingangsformel
@@ -80,7 +80,7 @@ mit.
 
 (2) Die Unfallversicherungsträger haben die für den medizinischen
 Arbeitsschutz zuständigen Stellen über die Einleitung eines
-Feststellungsverfahrens unverzüglich schriftlich zu unterrichten; als
+Feststellungsverfahrens unverzüglich zu unterrichten; als
 Unterrichtung gilt auch die Übersendung der Anzeige nach § 193 Abs. 2
 und 7 oder § 202 des Siebten Buches Sozialgesetzbuch. Die
 Unfallversicherungsträger beteiligen die für den medizinischen
@@ -136,7 +136,17 @@ vornimmt.
 
 ## § 6 Rückwirkung
 
-(1) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer
+(1) Leiden Versicherte am 1. August 2017 an einer Krankheit nach den
+Nummern 1320, 1321, 2115, 4104 (Eierstockkrebs) oder 4113
+(Kehlkopfkrebs) der Anlage 1, ist die Krankheit auf Antrag als
+Berufskrankheit anzuerkennen, wenn sie vor diesem Tag eingetreten ist.
+
+(2) Leiden Versicherte am 1. Januar 2015 an einer Krankheit nach
+Nummer 1319, 2113, 2114 oder 5103 der Anlage 1, ist die Krankheit auf
+Antrag als Berufskrankheit anzuerkennen, wenn sie vor diesem Tag
+eingetreten ist.
+
+(3) Leiden Versicherte am 1. Juli 2009 an einer Krankheit nach Nummer
 2112, 4114 oder 4115 der Anlage 1, ist diese auf Antrag als
 Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 30.
 September 2002 eingetreten ist. Leiden Versicherte am 1. Juli 2009 an
@@ -147,7 +157,7 @@ an einer Krankheit nach Nummer 1318 der Anlage 1, ist die Krankheit
 auf Antrag als Berufskrankheit anzuerkennen, wenn der
 Versicherungsfall vor diesem Tag eingetreten ist.
 
-(2) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach
+(4) Leidet ein Versicherter am 1. Oktober 2002 an einer Krankheit nach
 Nummer 4112 der Anlage 1, ist diese auf Antrag als Berufskrankheit
 anzuerkennen, wenn der Versicherungsfall nach dem 30. November 1997
 eingetreten ist. Satz 1 gilt auch für eine Krankheit nach Nummer 2106
@@ -155,7 +165,7 @@ der Anlage 1, wenn diese nicht bereits nach der Nummer 2106 der Anlage
 1 in der am 1. Dezember 1997 in Kraft getretenen Fassung als
 Berufskrankheit anerkannt werden kann.
 
-(3) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit
+(5) Leidet ein Versicherter am 1. Dezember 1997 an einer Krankheit
 nach Nummer 1316, 1317, 4104 (Kehlkopfkrebs) oder 4111 der Anlage 1,
 ist diese auf Antrag als Berufskrankheit anzuerkennen, wenn der
 Versicherungsfall nach dem 31. Dezember 1992 eingetreten ist.
@@ -165,22 +175,22 @@ bereits vor dem 1. Januar 1993 eingetreten und einem
 Unfallversicherungsträger bis zum 31. Dezember 2009 bekannt geworden
 ist.
 
-(4) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit
+(6) Hat ein Versicherter am 1. Januar 1993 an einer Krankheit
 gelitten, die erst auf Grund der Zweiten Verordnung zur Änderung der
 Berufskrankheiten-Verordnung vom 18. Dezember 1992 (BGBl. I S. 2343)
 als Berufskrankheit anerkannt werden kann, ist die Krankheit auf
 Antrag als Berufskrankheit anzuerkennen, wenn der Versicherungsfall
 nach dem 31. März 1988 eingetreten ist.
 
-(5) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten,
+(7) Hat ein Versicherter am 1. April 1988 an einer Krankheit gelitten,
 die erst auf Grund der Verordnung zur Änderung der Berufskrankheiten-
 Verordnung vom 22. März 1988 (BGBl. I S. 400) als Berufskrankheit
 anerkannt werden kann, ist die Krankheit auf Antrag als
 Berufskrankheit anzuerkennen, wenn der Versicherungsfall nach dem 31.
 Dezember 1976 eingetreten ist.
 
-(6) Bindende Bescheide und rechtskräftige Entscheidungen stehen der
-Anerkennung als Berufskrankheit nach den Absätzen 1 bis 5 nicht
+(8) Bindende Bescheide und rechtskräftige Entscheidungen stehen der
+Anerkennung als Berufskrankheit nach den Absätzen 1 bis 7 nicht
 entgegen. Leistungen werden rückwirkend längstens für einen Zeitraum
 bis zu vier Jahren erbracht; der Zeitraum ist vom Beginn des Jahres an
 zu rechnen, in dem der Antrag gestellt worden ist.
@@ -195,7 +205,7 @@ zu rechnen, in dem der Antrag gestellt worden ist.
 
 (1) Diese Verordnung tritt am 1. Dezember 1997 in Kraft.
 
-(2)
+(2) (Aufhebungsvorschriften)
 
 
 ## Schlußformel
@@ -392,6 +402,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Systems durch Benzol
 
 
+*    *   1319
+
+    *   Larynxkarzinom durch intensive und mehrjährige Exposition gegenüber
+        schwefelsäurehaltigen Aerosolen
+
+
+*    *   1320
+
+    *   Chronisch-myeloische oder chronisch-lymphatische Leukämie durch
+        1,3-Butadien bei Nachweis der Einwirkung einer kumulativen Dosis von
+        mindestens 180 Butadien-Jahren (ppm x Jahre)
+
+
+*    *   1321
+
+    *   Schleimhautveränderungen, Krebs oder andere Neubildungen der Harnwege
+        durch polyzyklische aromatische Kohlenwasserstoffe bei Nachweis der
+        Einwirkung einer kumulativen Dosis von mindestens 80 Benzo(a)pyren-
+        Jahren [(µg/m
+        3) x Jahre]
+
+
 *    *
     *   Zu den Nummern 1101 bis 1110, 1201 und 1202, 1303 bis 1309 und 1315:
 
@@ -501,6 +533,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Mindesteinwirkungsdauer von insgesamt einer Stunde pro Schicht
 
 
+*    *   2113
+
+    *   Druckschädigung des Nervus medianus im Carpaltunnel (Carpaltunnel-
+        Syndrom) durch repetitive manuelle Tätigkeiten mit Beugung und
+        Streckung der Handgelenke, durch erhöhten Kraftaufwand der Hände oder
+        durch Hand-Arm-Schwingungen
+
+
+*    *   2114
+
+    *   Gefäßschädigung der Hand durch stoßartige Krafteinwirkung (Hypothenar-
+        Hammer-Syndrom und Thenar-Hammer-Syndrom)
+
+
+*    *   2115
+
+    *   Fokale Dystonie als Erkrankung des zentralen Nervensystems bei
+        Instrumentalmusikern durch feinmotorische Tätigkeit hoher Intensität
+
+
 *    *   22
 
     *   Druckluft
@@ -569,7 +621,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   **4**
 
     *   **Erkrankungen der Atemwege und der Lungen, des Rippenfells und
-        Bauchfells**
+        Bauchfells und der Eierstöcke**
 
 
 *    *   41
@@ -596,7 +648,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4104
 
-    *   Lungenkrebs oder Kehlkopfkrebs
+    *   Lungenkrebs, Kehlkopfkrebs oder Eierstockkrebs
 
 
 *    *
@@ -673,10 +725,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   4113
 
-    *   Lungenkrebs durch polyzyklische aromatische Kohlenwasserstoffe bei
-        Nachweis der Einwirkung einer kumulativen Dosis von mindestens 100
-        Benzo[a]pyren-Jahren [(µg/m
-        3                       ) x Jahre]
+    *   Lungenkrebs oder Kehlkopfkrebs durch polyzyklische aromatische
+        Kohlenwasserstoffe bei Nachweis der Einwirkung einer kumulativen Dosis
+        von mindestens 100 Benzo[a]pyren-Jahren [(µg/m
+        3) x Jahre]
 
 
 *    *   4114
@@ -756,6 +808,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Hautkrebs oder zur Krebsbildung neigende Hautveränderungen durch Ruß,
         Rohparaffin, Teer, Anthrazen, Pech oder ähnliche Stoffe
+
+
+*    *   5103
+
+    *   Plattenepithelkarzinome oder multiple aktinische Keratosen der Haut
+        durch natürliche UV-Strahlung
 
 
 *    *   **6**

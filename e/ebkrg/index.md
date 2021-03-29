@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.3.1971 I 337,
 
 Zuletzt geändert durch
-:   Art. 281 V v. 31.10.2006 I 2407
+:   Art. 462 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -105,8 +105,8 @@ die Beteiligten eine Vereinbarung treffen. Sehen die Beteiligten vor,
 daß Bund oder Land nach Maßgabe des § 13 Abs. 1 Satz 2 zu den Kosten
 beitragen, ohne an der Kreuzung als Straßenbaulastträger beteiligt zu
 sein, so bedarf die Vereinbarung insoweit der Genehmigung. Die
-Genehmigung erteilt für den Bund das Bundesministerium für Verkehr,
-Bau und Stadtentwicklung, für das Land die von der Landesregierung
+Genehmigung erteilt für den Bund das Bundesministerium für Verkehr und
+digitale Infrastruktur, für das Land die von der Landesregierung
 bestimmte Behörde. In Fällen geringer finanzieller Bedeutung kann auf
 die Genehmigung verzichtet werden.
 
@@ -135,7 +135,7 @@ für Maßnahmen nach § 3 vorlegen.
 
 (1) Wenn an der Kreuzung ein Schienenweg einer Eisenbahn des Bundes
 beteiligt ist, entscheidet als Anordnungsbehörde das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung im Benehmen mit der von der
+für Verkehr und digitale Infrastruktur im Benehmen mit der von der
 Landesregierung bestimmten Behörde.
 
 (2) In sonstigen Fällen entscheidet als Anordnungsbehörde die von der
@@ -313,7 +313,7 @@ abzulösen.
 
 ## § 16
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 1.  der Umfang der Kosten nach den §§ 11, 12 und 13 näher bestimmt wird
@@ -338,7 +338,7 @@ mit Zustimmung des Bundesrates Rechtsverordnungen erlassen, durch die
 
 
 (2) Allgemeine Verwaltungsvorschriften erläßt das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung mit Zustimmung des Bundesrates.
+für Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates.
 
 
 ## § 17

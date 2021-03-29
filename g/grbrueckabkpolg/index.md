@@ -4,7 +4,7 @@ Title: Gesetz zu dem Abkommen vom 20. März 1995 zwischen der Bundesrepublik Deu
   Bundesfernstraßen und der polnischen Landesstraßen an der deutsch-polnischen Grenze
 jurabk: GrBrückAbkPOLG
 layout: default
-origslug: grbr_ckabkpolg
+origslug: grbrueckabkpolg
 slug: grbrueckabkpolg
 
 ---

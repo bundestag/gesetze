@@ -375,8 +375,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Binnenschiffer/zur Binnenschifferin
 
 (Fundstelle: BGBl. I 2005, 124 - 127)
 

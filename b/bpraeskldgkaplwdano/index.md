@@ -4,7 +4,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   des Bundes
 jurabk: BPräsKldgKapLwDAnO
 layout: default
-origslug: bpr_skldgkaplwdano
+origslug: bpraeskldgkaplwdano
 slug: bpraeskldgkaplwdano
 
 ---

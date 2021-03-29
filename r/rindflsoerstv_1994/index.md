@@ -169,11 +169,11 @@ Der Inhaber des Zerlegebetriebes hat sicherzustellen, daß
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Gleichzeitig tritt die Rindfleisch-Sondererstattungs-Verordnung vom
 18\. August 1982 (BGBl. I S. 1229), zuletzt geändert durch die
-Verordnung vom 23. Februar 1984 (BGBl. I S. 358), außer Kraft.
-Die in Satz 2 genannte Verordnung ist für die Gewährung der
-Sondererstattung nach den in § 1 genannten Rechtsakten weiter
-anzuwenden, die vor dem Tage des Inkrafttretens der in Satz 1
-genannten Verordnung beantragt worden ist.
+Verordnung vom 23. Februar 1984 (BGBl. I S. 358), außer Kraft. Die in
+Satz 2 genannte Verordnung ist für die Gewährung der Sondererstattung
+nach den in § 1 genannten Rechtsakten weiter anzuwenden, die vor dem
+Tage des Inkrafttretens der in Satz 1 genannten Verordnung beantragt
+worden ist.
 
 
 ## Anlage

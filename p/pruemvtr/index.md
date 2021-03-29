@@ -6,7 +6,7 @@ Title: Vertrag zwischen dem Königreich Belgien, der Bundesrepublik Deutschland,
   Kriminalität und der illegalen Migration
 jurabk: PrümVtr
 layout: default
-origslug: pr_mvtr
+origslug: pruemvtr
 slug: pruemvtr
 
 ---

@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
-  in den Teilen I und II der Meisterprüfung im Keramiker-Handwerk
+Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
+  in den Teilen I und II der Meisterprüfung im  Keramiker-Handwerk
 jurabk: KeramMstrV 2006
 layout: default
 origslug: kerammstrv_2006
@@ -8,7 +8,7 @@ slug: kerammstrv_2006
 
 ---
 
-# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Keramiker-Handwerk (KeramMstrV 2006)
+# Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im  Keramiker-Handwerk (KeramMstrV 2006)
 
 Ausfertigungsdatum
 :   2006-01-13

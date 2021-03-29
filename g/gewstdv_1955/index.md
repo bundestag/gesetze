@@ -19,9 +19,8 @@ Neugefasst durch
 :   Bek. v. 15.10.2002 I 4180;
 
 Zuletzt geändert durch
-:   Art. 4 V v. 17.11.2010 I 1544
+:   Art. 2 Abs. 13 G v. 1.4.2015 I 434
 
-Stand: Zur erstmaligen Anwendung vgl. § 36
 
 ## - - Zu § 2 des Gesetzes
 
@@ -36,22 +35,21 @@ Reisegewerbebetrieb im Sinne des § 35a Abs. 2 des Gesetzes ist.
 ### § 2 Betriebe der öffentlichen Hand
 
 (1)
-1             Unternehmen von juristischen Personen des öffentlichen
-Rechts sind gewerbesteuerpflichtig, wenn sie als stehende
-Gewerbebetriebe anzusehen sind; für den Umfang des Unternehmens ist §
-4 Abs. 6 Satz 1 des Körperschaftsteuergesetzes entsprechend
-anzuwenden.
-2             Das gilt auch für Unternehmen, die der Versorgung der
-Bevölkerung mit Wasser, Gas, Elektrizität oder Wärme, dem öffentlichen
-Verkehr oder dem Hafenbetrieb dienen.
+1Unternehmen von juristischen Personen des öffentlichen Rechts sind
+gewerbesteuerpflichtig, wenn sie als stehende Gewerbebetriebe
+anzusehen sind; für den Umfang des Unternehmens ist § 4 Abs. 6 Satz 1
+des Körperschaftsteuergesetzes entsprechend anzuwenden.
+2Das gilt auch für Unternehmen, die der Versorgung der Bevölkerung mit
+Wasser, Gas, Elektrizität oder Wärme, dem öffentlichen Verkehr oder
+dem Hafenbetrieb dienen.
 
 (2)
-1             Unternehmen von juristischen Personen des öffentlichen
-Rechts, die überwiegend der Ausübung der öffentlichen Gewalt dienen
+1Unternehmen von juristischen Personen des öffentlichen Rechts, die
+überwiegend der Ausübung der öffentlichen Gewalt dienen
 (Hoheitsbetriebe), gehören unbeschadet der Vorschrift des Absatzes 1
 Satz 2 nicht zu den Gewerbebetrieben.
-2             Für die Annahme eines Hoheitsbetriebs reichen Zwangs-
-oder Monopolrechte nicht aus.
+2Für die Annahme eines Hoheitsbetriebs reichen Zwangs- oder
+Monopolrechte nicht aus.
 
 
 ### § 3
@@ -113,7 +111,7 @@ einheitlicher Gewerbebetrieb.
 
 ### § 12a Kleinere Versicherungsvereine
 
-Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 53
+Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des § 210
 des Versicherungsaufsichtsgesetzes sind von der Gewerbesteuer befreit,
 wenn sie nach § 5 Abs. 1 Nr. 4 des Körperschaftsteuergesetzes von der
 Körperschaftsteuer befreit sind.
@@ -172,7 +170,7 @@ des Unternehmens ein Insolvenzverfahren eröffnet worden ist.
 ### § 19 Schulden bestimmter Unternehmen
 
 (1)
-1             Bei Kreditinstituten im Sinne des § 1 Absatz 1 des
+1Bei Kreditinstituten im Sinne des § 1 Absatz 1 des
 Kreditwesengesetzes sind nur Entgelte für Schulden und den Entgelten
 gleichgestellte Beträge anzusetzen, die dem Betrag der Schulden
 entsprechen, um den der Ansatz der zum Anlagevermögen gehörenden
@@ -181,20 +179,20 @@ Anteile an Kreditinstituten und sonstigen Unternehmen sowie der
 Forderungen aus Vermögenseinlagen als stiller Gesellschafter und aus
 Genussrechten das Eigenkapital überschreitet; hierunter fallen nicht
 Gegenstände, über die Leasingverträge abgeschlossen worden sind.
-2             Dem Anlagevermögen nach Satz 1 sind Forderungen gegen
-ein Unternehmen hinzuzurechnen, mit dem eine organschaftliche
-Verbindung nach § 2 Abs. 2 Satz 2 des Gesetzes besteht und das nicht
-zu den Kreditinstituten oder Unternehmen gehört, auf die Satz 1 und
-die Absätze 2 bis 4 anzuwenden sind.
+2Dem Anlagevermögen nach Satz 1 sind Forderungen gegen ein Unternehmen
+hinzuzurechnen, mit dem eine organschaftliche Verbindung nach § 2 Abs.
+2 Satz 2 des Gesetzes besteht und das nicht zu den Kreditinstituten
+oder Unternehmen gehört, auf die Satz 1 und die Absätze 2 bis 4
+anzuwenden sind.
 
 (2)
-1             Voraussetzung für die Anwendung des Absatzes 1 ist, dass
-im Durchschnitt aller Monatsausweise des Wirtschaftsjahrs des
+1Voraussetzung für die Anwendung des Absatzes 1 ist, dass im
+Durchschnitt aller Monatsausweise des Wirtschaftsjahrs des
 Kreditinstituts nach § 25 des Kreditwesengesetzes oder entsprechender
 Statistiken die Aktivposten aus Bankgeschäften und dem Erwerb von
 Geldforderungen die Aktivposten aus anderen Geschäften überwiegen.
-2             In den Vergleich sind Aktivposten aus Anlagen nach
-Absatz 1 nicht einzubeziehen.
+2In den Vergleich sind Aktivposten aus Anlagen nach Absatz 1 nicht
+einzubeziehen.
 
 (3) Die vorstehenden Bestimmungen gelten entsprechend
 
@@ -225,18 +223,22 @@ Absatz 1 nicht einzubeziehen.
 
 
 (4)
-1             Bei Finanzdienstleistungsinstituten im Sinne des § 1
-Absatz 1a des Kreditwesengesetzes, die mit Ausnahme der Unternehmen im
-Sinne des § 2 Absatz 6 Satz 1 Nummer 17 des Kreditwesengesetzes nicht
-der Ausnahmeregelung des § 2 Absatz 6 des Kreditwesengesetzes
-unterliegen, unterbleibt eine Hinzurechnung von Entgelten für Schulden
-und ihnen gleichgestellten Beträgen nach § 8 Nummer 1 Buchstabe a des
-Gesetzes, soweit die Entgelte und die ihnen gleichgestellten Beträge
-unmittelbar auf Finanzdienstleistungen im Sinne des § 1 Absatz 1a Satz
-2 des Kreditwesengesetzes entfallen.
-2             Satz 1 ist nur anzuwenden, wenn die Umsätze des
+1Bei Finanzdienstleistungsinstituten im Sinne des § 1 Absatz 1a des
+Kreditwesengesetzes, die mit Ausnahme der Unternehmen im Sinne des § 2
+Absatz 6 Nummer 17 des Kreditwesengesetzes nicht der Ausnahmeregelung
+des § 2 Absatz 6 des Kreditwesengesetzes unterliegen, sowie bei
+Zahlungsinstituten im Sinne des § 1 Absatz 1 Nummer 5 des
+Zahlungsdiensteaufsichtsgesetzes unterbleibt eine Hinzurechnung von
+Entgelten für Schulden und ihnen gleichgestellten Beträgen nach § 8
+Nummer 1 Buchstabe a des Gesetzes, soweit die Entgelte und ihnen
+gleichgestellten Beträge unmittelbar auf Finanzdienstleistungen im
+Sinne des § 1 Absatz 1a Satz 2 des Kreditwesengesetzes oder
+Zahlungsdienste im Sinne des § 1 Absatz 2 Nummer 2 Buchstabe c und
+Nummer 6 des Zahlungsdiensteaufsichtsgesetzes entfallen.
+2Satz 1 ist nur anzuwenden, wenn die Umsätze des
 Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf
-Finanzdienstleistungen entfallen.
+Finanzdienstleistungen und die Umsätze des Zahlungsinstituts zu
+mindestens 50 Prozent auf Zahlungsdienste entfallen.
 
 
 ## - - Zu § 9 des Gesetzes
@@ -246,12 +248,11 @@ Finanzdienstleistungen entfallen.
 ### § 20 Grundbesitz
 
 (1)
-1             Die Frage, ob und inwieweit im Sinne des § 9 Nr. 1 des
-Gesetzes Grundbesitz zum Betriebsvermögen des Unternehmers gehört, ist
-nach den Vorschriften des Einkommensteuergesetzes oder des
+1Die Frage, ob und inwieweit im Sinne des § 9 Nr. 1 des Gesetzes
+Grundbesitz zum Betriebsvermögen des Unternehmers gehört, ist nach den
+Vorschriften des Einkommensteuergesetzes oder des
 Körperschaftsteuergesetzes zu entscheiden.
-2             Maßgebend ist dabei der Stand zu Beginn des
-Kalenderjahrs.
+2Maßgebend ist dabei der Stand zu Beginn des Kalenderjahrs.
 
 (2) Gehört der Grundbesitz nur zum Teil zum Betriebsvermögen im Sinne
 des Absatzes 1, so ist der Kürzung nach § 9 Nr. 1 des Gesetzes nur der
@@ -269,12 +270,11 @@ entsprechende Teil des Einheitswerts zugrunde zu legen.
 
 ### § 22 Hausgewerbetreibende und ihnen gleichgestellte Personen
 
-1             Betreibt ein Hausgewerbetreibender oder eine ihm
-gleichgestellte Person noch eine andere gewerbliche Tätigkeit und sind
-beide Tätigkeiten als eine Einheit anzusehen, so ist § 11 Abs. 3 des
+1Betreibt ein Hausgewerbetreibender oder eine ihm gleichgestellte
+Person noch eine andere gewerbliche Tätigkeit und sind beide
+Tätigkeiten als eine Einheit anzusehen, so ist § 11 Abs. 3 des
 Gesetzes nur anzuwenden, wenn die andere Tätigkeit nicht überwiegt.
-2             Die Vergünstigung gilt in diesem Fall für den gesamten
-Gewerbeertrag.
+2Die Vergünstigung gilt in diesem Fall für den gesamten Gewerbeertrag.
 
 
 ### (XXXX) §§ 23 und 24 (weggefallen)
@@ -333,13 +333,12 @@ Gewerbeertrag.
 
 
 (2)
-1             Die Steuererklärung ist spätestens an dem von den
-obersten Finanzbehörden der Länder bestimmten Zeitpunkt abzugeben.
-2             Für die Erklärung sind die amtlichen Vordrucke zu
-verwenden.
-3             Das Recht des Finanzamts, schon vor diesem Zeitpunkt
-Angaben zu verlangen, die für die Besteuerung von Bedeutung sind,
-bleibt unberührt.
+1Die Steuererklärung ist spätestens an dem von den obersten
+Finanzbehörden der Länder bestimmten Zeitpunkt abzugeben.
+2Für die Erklärung sind die amtlichen Vordrucke zu verwenden.
+3Das Recht des Finanzamts, schon vor diesem Zeitpunkt Angaben zu
+verlangen, die für die Besteuerung von Bedeutung sind, bleibt
+unberührt.
 
 
 ### (XXXX) §§ 26 bis 28 (weggefallen)
@@ -353,16 +352,15 @@ bleibt unberührt.
 ### § 29 Anpassung und erstmalige Festsetzung der Vorauszahlungen
 
 (1)
-1             Setzt das Finanzamt nach § 19 Abs. 3 Satz 3 des Gesetzes
-einen Steuermessbetrag für Zwecke der Gewerbesteuer-Vorauszahlungen
-fest, so braucht ein Zerlegungsbescheid nicht erteilt zu werden.
-2             Die hebeberechtigten Gemeinden können an dem
-Steuermessbetrag in demselben Verhältnis beteiligt werden, nach dem
-die Zerlegungsanteile in dem unmittelbar vorangegangenen
-Zerlegungsbescheid festgesetzt sind.
-3             Das Finanzamt hat in diesem Fall gleichzeitig mit der
-Festsetzung des Steuermessbetrags den hebeberechtigten Gemeinden
-mitzuteilen
+1Setzt das Finanzamt nach § 19 Abs. 3 Satz 3 des Gesetzes einen
+Steuermessbetrag für Zwecke der Gewerbesteuer-Vorauszahlungen fest, so
+braucht ein Zerlegungsbescheid nicht erteilt zu werden.
+2Die hebeberechtigten Gemeinden können an dem Steuermessbetrag in
+demselben Verhältnis beteiligt werden, nach dem die Zerlegungsanteile
+in dem unmittelbar vorangegangenen Zerlegungsbescheid festgesetzt
+sind.
+3Das Finanzamt hat in diesem Fall gleichzeitig mit der Festsetzung des
+Steuermessbetrags den hebeberechtigten Gemeinden mitzuteilen
 
 1.  den Prozentsatz, um den sich der Steuermessbetrag gegenüber dem in der
     Mitteilung über die Zerlegung (§ 188 Abs. 1 der Abgabenordnung)
@@ -376,26 +374,25 @@ mitzuteilen
 
 
 (2)
-1             In den Fällen des § 19 Abs. 4 des Gesetzes hat das
-Finanzamt erforderlichenfalls den Steuermessbetrag für Zwecke der
-Gewerbesteuer-Vorauszahlungen zu zerlegen.
-2             Das Gleiche gilt in den Fällen des § 19 Abs. 3 des
-Gesetzes, wenn an den Vorauszahlungen nicht dieselben Gemeinden
-beteiligt sind, die nach dem unmittelbar vorangegangenen
-Zerlegungsbescheid beteiligt waren.
-3             Bei der Zerlegung sind die mutmaßlichen Arbeitslöhne des
+1In den Fällen des § 19 Abs. 4 des Gesetzes hat das Finanzamt
+erforderlichenfalls den Steuermessbetrag für Zwecke der Gewerbesteuer-
+Vorauszahlungen zu zerlegen.
+2Das Gleiche gilt in den Fällen des § 19 Abs. 3 des Gesetzes, wenn an
+den Vorauszahlungen nicht dieselben Gemeinden beteiligt sind, die nach
+dem unmittelbar vorangegangenen Zerlegungsbescheid beteiligt waren.
+3Bei der Zerlegung sind die mutmaßlichen Arbeitslöhne des
 Erhebungszeitraums anzusetzen, für den die Festsetzung der
 Vorauszahlungen erstmals gilt.
 
 
 ### § 30 Verlegung von Betriebsstätten
 
-1             Wird eine Betriebsstätte in eine andere Gemeinde
-verlegt, so sind die Vorauszahlungen in dieser Gemeinde von dem auf
-die Verlegung folgenden Fälligkeitstag ab zu entrichten.
-2             Das gilt nicht, wenn in der Gemeinde, aus der die
-Betriebsstätte verlegt wird, mindestens eine Betriebsstätte des
-Unternehmens bestehen bleibt.
+1Wird eine Betriebsstätte in eine andere Gemeinde verlegt, so sind die
+Vorauszahlungen in dieser Gemeinde von dem auf die Verlegung folgenden
+Fälligkeitstag ab zu entrichten.
+2Das gilt nicht, wenn in der Gemeinde, aus der die Betriebsstätte
+verlegt wird, mindestens eine Betriebsstätte des Unternehmens bestehen
+bleibt.
 
 
 ### (XXXX) §§ 31 bis 33 (weggefallen)
@@ -421,29 +418,29 @@ am Ende des Erhebungszeitraums befindet.
 ### § 35 Reisegewerbebetriebe
 
 (1)
-1             Der Mittelpunkt der gewerblichen Tätigkeit befindet sich
-in der Gemeinde, von der aus die gewerbliche Tätigkeit vorwiegend
-ausgeübt wird.
-2             Das ist in der Regel die Gemeinde, in der sich der
-Wohnsitz des Reisegewerbetreibenden befindet.
-3             In Ausnahmefällen ist Mittelpunkt eine auswärtige
-Gemeinde, wenn die gewerbliche Tätigkeit von dieser Gemeinde (z. B.
-von einem Büro oder Warenlager) aus vorwiegend ausgeübt wird.
-4             Ist der Mittelpunkt der gewerblichen Tätigkeit nicht
-feststellbar, so ist die Gemeinde hebeberechtigt, in der der
-Unternehmer polizeilich gemeldet oder meldepflichtig ist.
+1Der Mittelpunkt der gewerblichen Tätigkeit befindet sich in der
+Gemeinde, von der aus die gewerbliche Tätigkeit vorwiegend ausgeübt
+wird.
+2Das ist in der Regel die Gemeinde, in der sich der Wohnsitz des
+Reisegewerbetreibenden befindet.
+3In Ausnahmefällen ist Mittelpunkt eine auswärtige Gemeinde, wenn die
+gewerbliche Tätigkeit von dieser Gemeinde (z. B. von einem Büro oder
+Warenlager) aus vorwiegend ausgeübt wird.
+4Ist der Mittelpunkt der gewerblichen Tätigkeit nicht feststellbar, so
+ist die Gemeinde hebeberechtigt, in der der Unternehmer polizeilich
+gemeldet oder meldepflichtig ist.
 
 (2) Eine Zerlegung des Steuermessbetrags auf die Gemeinden, in denen
 das Gewerbe ausgeübt worden ist, unterbleibt.
 
 (3)
-1             Der Steuermessbetrag ist im Fall des § 35a Abs. 4 des
-Gesetzes nach dem Anteil der Kalendermonate auf die hebeberechtigten
-Gemeinden zu zerlegen.
-2             Kalendermonate, in denen die Steuerpflicht nur während
-eines Teils bestanden hat, sind voll zu rechnen.
-3             Der Anteil für den Kalendermonat, in dem der Mittelpunkt
-der gewerblichen Tätigkeit verlegt worden ist, ist der Gemeinde
+1Der Steuermessbetrag ist im Fall des § 35a Abs. 4 des Gesetzes nach
+dem Anteil der Kalendermonate auf die hebeberechtigten Gemeinden zu
+zerlegen.
+2Kalendermonate, in denen die Steuerpflicht nur während eines Teils
+bestanden hat, sind voll zu rechnen.
+3Der Anteil für den Kalendermonat, in dem der Mittelpunkt der
+gewerblichen Tätigkeit verlegt worden ist, ist der Gemeinde
 zuzuteilen, in der sich der Mittelpunkt in diesem Kalendermonat die
 längste Zeit befunden hat.
 
@@ -462,19 +459,26 @@ Erhebungszeitraum 2009 anzuwenden.
 Dezember 2008 (BGBl. I S. 2794) ist auch für Erhebungszeiträume vor
 2009 anzuwenden.
 
+(2a) § 12a in der am 1. Januar 2016 geltenden Fassung ist erstmals für
+den Erhebungszeitraum 2016 anzuwenden.
+
 (3)
-1             § 19 in der Fassung des Artikels 5 des Gesetzes vom 19.
-Dezember 2008 (BGBl. I S. 2794) ist erstmals für den Erhebungszeitraum
-2008 anzuwenden.
-2             § 19 Absatz 3 in der Fassung des Artikels 4 des Gesetzes
-vom 8. April 2010 (BGBl. I S. 386) ist erstmals für den
-Erhebungszeitraum 2008 anzuwenden; § 19 Absatz 1 und 4 Satz 1 in der
-Fassung des Artikels 4 der Verordnung vom 17. November 2010 (BGBl. I
-S. 1544) ist erstmals für den Erhebungszeitraum 2008 anzuwenden; § 19
-Absatz 4 Satz 2 in der Fassung des Artikels 4 des Gesetzes vom 8.
-April 2010 (BGBl. I S. 386) ist erstmals für den Erhebungszeitraum
+1§ 19 in der Fassung des Artikels 5 des Gesetzes vom 19. Dezember 2008
+(BGBl. I S. 2794) ist erstmals für den Erhebungszeitraum 2008
+anzuwenden.
+2§ 19 Absatz 3 in der Fassung des Artikels 4 des Gesetzes vom 8. April
+2010 (BGBl. I S. 386) ist erstmals für den Erhebungszeitraum 2008
+anzuwenden.
+3§ 19 Absatz 1 und 4 Satz 1 in der Fassung des Artikels 4 der
+Verordnung vom 17. November 2010 (BGBl. I S. 1544) ist erstmals für
+den Erhebungszeitraum 2008 anzuwenden.
+4§ 19 Absatz 4 Satz 1 in der Fassung des Artikels 5 des Gesetzes vom
+26\. Juni 2013 (BGBl. I S. 1809) ist erstmals für den Erhebungszeitraum
+2009 anzuwenden.
+5§ 19 Absatz 4 Satz 2 in der Fassung des Artikels 5 des Gesetzes vom
+26\. Juni 2013 (BGBl. I S. 1809) ist erstmals für den Erhebungszeitraum
 2011 anzuwenden.
-3             Weist das Unternehmen im Sinne des § 64j Absatz 2 des
+6Weist das Unternehmen im Sinne des § 64j Absatz 2 des
 Kreditwesengesetzes nicht spätestens mit der Abgabe der Erklärung zur
 Festsetzung des Steuermessbetrags für den Erhebungszeitraum 2009 nach,
 dass die Anzeige nach § 64j Absatz 2 des Kreditwesengesetzes bei der

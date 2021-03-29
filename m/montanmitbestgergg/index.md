@@ -17,9 +17,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1956, 707
 
-Zuletzt geändert durch
-:   Art. 2 Abs. 112 G v. 22.12.2011 I 3044
-
+Stand: Zuletzt geändert Art. 6 G v. 24.4.2015 I 642
 
 ## Art 1 - Mitbestimmung in herrschenden Unternehmen
 
@@ -111,8 +109,8 @@ berichten.
 Unternehmens hat das festgestellte Umsatzverhältnis und die
 abschließende Stellungnahme des Aufsichtsrats unverzüglich den
 Betriebsräten (Gesamtbetriebsräten) der Konzernunternehmen und
-abhängigen Unternehmen sowie den nach § 7 vorschlagsberechtigten
-Spitzenorganisationen der Gewerkschaften mitzuteilen.
+abhängigen Unternehmen sowie den nach § 10d Absatz 2 Satz 1 im Konzern
+vertretenen Gewerkschaften mitzuteilen.
 
 (6) Die Absätze 1 bis 5 sind nicht anzuwenden, wenn die
 Voraussetzungen des § 3 Abs. 2 Satz 1 Nr. 2 vorliegen.
@@ -146,7 +144,7 @@ Abberufung gilt § 103 des Aktiengesetzes.
 (3) Auf das in Absatz 1 Satz 2 Buchstabe c genannte Mitglied findet §
 4 Abs. 2 des Montan-Mitbestimmungsgesetzes Anwendung. Für seine
 Bestellung gilt § 8 des Montan-Mitbestimmungsgesetzes, wobei an die
-Stelle des § 6 des Montan-Mitbestimmungsgesetzes die §§ 6 bis 10h
+Stelle des § 6 des Montan-Mitbestimmungsgesetzes die §§ 6 bis 10i
 dieses Gesetzes treten; für seine Abberufung gilt § 11 Abs. 3 des
 Montan-Mitbestimmungsgesetzes.
 
@@ -160,6 +158,14 @@ Arbeitnehmer im Sinne dieses Gesetzes.
 (6) Betriebe im Sinne dieses Gesetzes sind solche des
 Betriebsverfassungsgesetzes. § 4 Abs. 2 des
 Betriebsverfassungsgesetzes ist anzuwenden.
+
+
+### § 5a
+
+Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1
+genannten, börsennotierten Unternehmens müssen im Fall des § 96 Absatz
+2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit einem Anteil
+von mindestens 30 Prozent vertreten sein.
 
 
 ### § 6
@@ -189,17 +195,17 @@ vertreten sein.
 ### § 7
 
 (1) Die Aufsichtsratsmitglieder der Arbeitnehmer eines Konzerns mit in
-der Regel mehr als 8.000 Arbeitnehmern werden durch Delegierte
+der Regel mehr als 8 000 Arbeitnehmern werden durch Delegierte
 gewählt, sofern nicht die wahlberechtigten Arbeitnehmer die
 unmittelbare Wahl beschließen. Für die Wahl der
 Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte gelten die
-§§ 8 bis 10f und 10h.
+§§ 8 bis 10g und 10i.
 
 (2) Die Aufsichtsratsmitglieder der Arbeitnehmer eines Konzerns mit in
-der Regel nicht mehr als 8.000 Arbeitnehmern werden in unmittelbarer
+der Regel nicht mehr als 8 000 Arbeitnehmern werden in unmittelbarer
 Wahl gewählt, sofern nicht die wahlberechtigten Arbeitnehmer die Wahl
 durch Delegierte beschließen. Für die unmittelbare Wahl der
-Aufsichtsratsmitglieder der Arbeitnehmer gelten die §§ 10g und 10h.
+Aufsichtsratsmitglieder der Arbeitnehmer gelten die §§ 10h und 10i.
 
 (3) Zur Abstimmung darüber, ob die Wahl durch Delegierte oder
 unmittelbar erfolgen soll, bedarf es eines Antrags, der von einem
@@ -401,8 +407,48 @@ Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
 
+(3) Im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes ist das
+Nachrücken eines Ersatzmitgliedes ausgeschlossen, wenn dadurch der
+Anteil von Frauen und Männern unter den Aufsichtsratsmitgliedern der
+Arbeitnehmer nicht mehr den Vorgaben des § 5a entspricht; § 10f Absatz
+2 Satz 2 gilt entsprechend.
+
 
 ### § 10f
+
+(1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die
+Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die
+Vorgaben des § 5a nicht erreicht worden sind, ist zu gewährleisten,
+dass unter den Aufsichtsratsmitgliedern der Arbeitnehmer, die
+Arbeitnehmer von Konzernunternehmen sind, in einem Aufsichtsrat mit 15
+Mitgliedern mindestens eine Frau und mindestens ein Mann und in einem
+Aufsichtsrat mit 21 Mitgliedern mindestens zwei Frauen und mindestens
+zwei Männer sowie unter den Aufsichtsratsmitgliedern der
+Gewerkschaften jeweils eine Frau und ein Mann vertreten sind.
+
+(2) Um diese Verteilung der Geschlechter nach Absatz 1 zu erreichen,
+ist die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der
+Arbeitnehmer unwirksam, deren Geschlecht in dem jeweiligen Wahlgang
+nach der Verteilung der Stimmen auf die Bewerber mehrheitlich
+vertreten ist und die
+
+1.  bei einer Mehrheitswahl in dem jeweiligen Wahlgang nach der
+    Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die
+    niedrigsten Stimmenzahlen erhalten haben oder
+
+
+2.  bei einer Verhältniswahl in dem jeweiligen Wahlgang nach der
+    Reihenfolge der auf die Bewerber entfallenden Höchstzahlen die
+    niedrigsten Höchstzahlen erhalten haben.
+
+
+
+Die durch unwirksame Wahl nach Satz 1 nicht besetzten
+Aufsichtsratssitze werden im Wege der gerichtlichen Ersatzbestellung
+nach § 104 des Aktiengesetzes oder der Nachwahl besetzt.
+
+
+### § 10g
 
 Das zur gesetzlichen Vertretung berufene Organ des herrschenden
 Unternehmens hat die Namen der Mitglieder und der Ersatzmitglieder des
@@ -413,18 +459,18 @@ gesetzlichen Vertretung berufene Organ zur Bekanntmachung in dessen
 Betrieben verpflichtet.
 
 
-### § 10g
+### § 10h
 
 Sind nach § 7 die Aufsichtsratsmitglieder der Arbeitnehmer in
 unmittelbarer Wahl zu wählen, so sind diejenigen Arbeitnehmer der
 Konzernunternehmen, die das 18. Lebensjahr vollendet haben,
 wahlberechtigt. § 7 Satz 2 des Betriebsverfassungsgesetzes gilt
-entsprechend. Für die Wahl sind die §§ 10c bis 10f mit der Maßgabe
+entsprechend. Für die Wahl sind die §§ 10c bis 10g mit der Maßgabe
 anzuwenden, daß an die Stelle der Delegierten die wahlberechtigten
 Arbeitnehmer der Konzernunternehmen treten.
 
 
-### § 10h
+### § 10i
 
 (1) Die Gesamtheit der Schiffe eines Unternehmens gilt für die
 Anwendung dieses Gesetzes als ein Betrieb.
@@ -451,9 +497,9 @@ entsprechend anzuwenden.
 (5) (weggefallen)
 
 
-### § 10i
+### § 10k
 
-(1) Niemand darf die Wahlen nach den §§ 8, 10c, 10d und 10g behindern.
+(1) Niemand darf die Wahlen nach den §§ 8, 10c, 10d und 10h behindern.
 Insbesondere darf niemand in der Ausübung des aktiven und passiven
 Wahlrechts beschränkt werden.
 
@@ -467,7 +513,7 @@ Betätigung im Wahlvorstand erforderlich ist, berechtigt den
 Arbeitgeber nicht zur Minderung des Arbeitsentgelts.
 
 
-### § 10k
+### § 10l
 
 (1) Die Wahl der Delegierten eines Betriebs kann beim Arbeitsgericht
 angefochten werden, wenn gegen wesentliche Vorschriften über das
@@ -494,7 +540,7 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tage
 der Bekanntgabe des Wahlergebnisses an gerechnet, zulässig.
 
 
-### § 10l
+### § 10m
 
 (1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds
 der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn
@@ -541,7 +587,7 @@ Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tage
 der Veröffentlichung im Bundesanzeiger an gerechnet, zulässig.
 
 
-### § 10m
+### § 10n
 
 (1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der
 Amtszeit auf Antrag abberufen werden. Antragsberechtigt für die
@@ -572,7 +618,7 @@ Vierteln der abgegebenen Stimmen.
 entsprechend anzuwenden.
 
 
-### § 10n
+### § 10o
 
 (1) Verliert ein Aufsichtsratsmitglied, das nach § 6 Abs. 1
 Arbeitnehmer eines Konzernunternehmens sein muß, die Wählbarkeit, so
@@ -681,7 +727,8 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 4.  die Verteilung der Aufsichtsratsmitglieder der Arbeitnehmer auf
     diejenigen, die Arbeitnehmer eines Konzernunternehmens sein müssen,
-    und die Gewerkschaftsvertreter,
+    und die Gewerkschaftsvertreter sowie das Verfahren zur
+    Berücksichtigung der Geschlechter,
 
 
 5.  die Errechnung der Zahl der Delegierten,
@@ -694,7 +741,7 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
     Bekanntmachung des Ausschreibens,
 
 
-8.  die Teilnahme von Arbeitnehmern eines in § 10h Abs. 1 bezeichneten
+8.  die Teilnahme von Arbeitnehmern eines in § 10i Absatz 1 bezeichneten
     Betriebs an Wahlen und Abstimmungen,
 
 
@@ -717,16 +764,12 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 ### § 18
 
-(1) Im Fall des § 8 Abs. 3 Satz 4 des Montan-Mitbestimmungsgesetzes
-sind auf das Verfahren des Oberlandesgerichts die Vorschriften des
-Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend
-anzuwenden. Gegen die Entscheidung des Oberlandesgerichts findet ein
-Rechtsmittel nicht statt.
-
-(2) Für das Verfahren des Oberlandesgerichts werden von dem
-Unternehmen Gebühren nach § 121 der Kostenordnung erhoben. § 8 der
-Kostenordnung ist nicht anzuwenden.
+Im Fall des § 8 Abs. 3 Satz 4 des Montan-Mitbestimmungsgesetzes sind
+auf das Verfahren des Oberlandesgerichts die Vorschriften des Gesetzes
+über das Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit entsprechend anzuwenden. Gegen die
+Entscheidung des Oberlandesgerichts findet ein Rechtsmittel nicht
+statt.
 
 
 ### (XXXX) §§ 19 u. 20 (weggefallen)
@@ -744,34 +787,25 @@ Kostenordnung ist nicht anzuwenden.
 
 ### § 22
 
-(1) Auf Wahlen oder Abberufungen von Aufsichtsratsmitgliedern der
-Arbeitnehmer, die nach dem 28. Juli 2001 bis zum 27. Mai 2004
-eingeleitet wurden, findet das Mitbestimmungsergänzungsgesetz vom 7.
-August 1956 in der im Bundesgesetzblatt Teil III, Gliederungsnummer
-801-3, veröffentlichten bereinigten Fassung in der durch Artikel 10
-des Gesetzes vom 23. Juli 2001 (BGBl. I S. 1852) geänderten Fassung
-Anwendung. Abweichend von Satz 1 findet § 9 des
-Mitbestimmungsergänzungsgesetzes in der durch Artikel 2 des Zweiten
-Gesetzes zur Vereinfachung der Wahl der Arbeitnehmervertreter in den
-Aufsichtsrat vom 18. Mai 2004 (BGBl. I S. 974) geänderten Fassung
-Anwendung, wenn feststeht, dass die Aufsichtsratsmitglieder der
-Arbeitnehmer durch Delegierte zu wählen sind und bis zum 27. Mai 2004
-die Errechnung der Zahl der Delegierten noch nicht erfolgt ist.
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 abgeschlossen sind, ist das Gesetz zur Ergänzung
+des Gesetzes über die Mitbestimmung der Arbeitnehmer in den
+Aufsichtsräten und Vorständen der Unternehmen des Bergbaus und der
+Eisen und Stahl erzeugenden Industrie in der Fassung des Artikels 34
+des Gesetzes vom 23. Juli 2013 (BGBl. I S. 2586) anzuwenden.
 
-(2) Auf Wahlen oder Abberufungen von Aufsichtsratsmitgliedern der
-Arbeitnehmer, die nach dem 28. Juli 2001 eingeleitet wurden, findet
-die Wahlordnung zum Mitbestimmungsergänzungsgesetz vom 23. Januar 1989
-(BGBl. I S.147) bis zu ihrer Änderung entsprechende Anwendung. Für die
-entsprechende Anwendung ist für Wahlen oder Abberufungen von
-Aufsichtsratsmitgliedern der Arbeitnehmer, die in dem Zeitraum nach
-dem 28. Juli 2001 bis zum 27. Mai 2004 eingeleitet wurden, das
-Mitbestimmungsergänzungsgesetz in der nach Absatz 1 anzuwendenden
-Fassung maßgeblich; für Wahlen oder Abberufungen von
-Aufsichtsratsmitgliedern der Arbeitnehmer, die nach dem 27. Mai 2004
-eingeleitet werden, ist das Mitbestimmungsergänzungsgesetz in der
-durch Artikel 2 des Zweiten Gesetzes zur Vereinfachung der Wahl der
-Arbeitnehmervertreter in den Aufsichtsrat vom 18. Mai 2004 (BGBl. I S.
-974) geänderten Fassung maßgeblich.
+(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 nicht abgeschlossen sind, ist im Fall des § 96
+Absatz 2 Satz 3 des Aktiengesetzes das Gesetz zur Ergänzung des
+Gesetzes über die Mitbestimmung der Arbeitnehmer in den Aufsichtsräten
+und Vorständen der Unternehmen des Bergbaus und der Eisen und Stahl
+erzeugenden Industrie in der durch Artikel 6 des Gesetzes vom 24.
+April 2015 (BGBl. I S. 642) geänderten Fassung anzuwenden.
+
+(3) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als
+abgeschlossen, wenn die Bekanntmachung der Mitglieder des
+Aufsichtsrates nach § 10g Satz 1 durch das zur gesetzlichen Vertretung
+des herrschenden Unternehmens befugte Organ erfolgt ist.
 
 
 ### § 23

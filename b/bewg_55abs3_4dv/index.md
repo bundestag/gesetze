@@ -271,8 +271,9 @@ nach dem 31. Dezember 2001 als Berechnungsgrößen fort.
 
 Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
+(zu § 1 Abs. 1)
 
-## Anlage 1 (zu § 1 Abs. 1) Normalwerte
+## Anlage 1 Normalwerte
 
 (Fundstelle des Originaltextes: BGBl. I 1967, 806 - 814)
 **A. Vorbemerkungen**
@@ -7304,22 +7305,23 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 
+(zu § 1 Abs. 3)
+Bewertungsgebiete
 
-## Anlage 2 (zu § 1 Abs. 3) Bewertungsgebiete Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
+## Anlage 2 Gliederung der Gebiete nach Finanzamtsbezirken und Teilen von Finanzamtsbezirken (Gemeinden)
 
 (Fundstelle: BGBl. I 1967, 815 - 835)
 
 
 *    *   1.
 
-    *   **Land:**                        Schleswig-Holstein
+    *   **Land:** Schleswig-Holstein
 
 
-*    *   **Oberfinanzdirektion:**                        Kiel
+*    *   **Oberfinanzdirektion:** Kiel
 
 
-*    *   Bewertungsgebiet 1101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Leck
@@ -7364,8 +7366,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 1102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1102 besteht aus den Finanzamtsbezirken
 
 
 *    *   Kiel
@@ -7416,8 +7417,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 1103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 1103 besteht aus den Finanzamtsbezirken
 
 
 *    *   Elmshorn
@@ -7446,14 +7446,13 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   2.
 
-    *   **Land**                        Niedersachsen
+    *   **Land** Niedersachsen
 
 
-*    *   **Oberfinanzdirektion:**                        Hannover
+*    *   **Oberfinanzdirektion:** Hannover
 
 
-*    *   Bewertungsgebiet 2101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Cuxhaven
@@ -7531,8 +7530,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 2102                        besteht aus den
-        Finanzamtsbezirken Buchholz
+*    *   Bewertungsgebiet 2102 besteht aus den Finanzamtsbezirken Buchholz
 
 
 *    *   i. d. Nordheide
@@ -7675,8 +7673,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 2103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2103 besteht aus den Finanzamtsbezirken
 
 
 *    *   Alfeld (Leine)
@@ -7788,8 +7785,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 2104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2104 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Gandersheim
@@ -7926,8 +7922,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 2105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 2105 besteht aus den Finanzamtsbezirken
 
 
 *    *   Aschendorf (Hümmling)
@@ -7950,14 +7945,13 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   3.
 
-    *   **Land:**                        Nordrhein-Westfalen
+    *   **Land:** Nordrhein-Westfalen
 
 
-*    *   **Oberfinanzdirektion:**                        Münster
+*    *   **Oberfinanzdirektion:** Münster
 
 
-*    *   Bewertungsgebiet 3101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Arnsberg
@@ -8004,8 +7998,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         (Möhnesee), Westrich
 
 
-*    *   Bewertungsgebiet 3102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3102 besteht aus den Finanzamtsbezirken
 
 
 *    *   Altena
@@ -8215,8 +8208,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *   ohne die bei 3105 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3104 besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahaus
@@ -8260,8 +8252,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 3105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3105 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bielefeld-Land
@@ -8316,8 +8307,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *   ohne die bei 3106 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3106                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3106 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bielefeld-Land
@@ -8381,8 +8371,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 *    *   Oberfinanzdirektion: Düsseldorf
 
 
-*    *   Bewertungsgebiet 3201                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3201 besteht aus den Finanzamtsbezirken
 
 
 *    *   Lennep
@@ -8397,8 +8386,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 3202                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3202 besteht aus den Finanzamtsbezirken
 
 
 *    *   Dinslaken
@@ -8473,8 +8461,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 3203                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3203 besteht aus den Finanzamtsbezirken
 
 
 *    *   Düsseldorf-Altstadt
@@ -8585,11 +8572,10 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   **Oberfinanzdirektion:**                        Köln
+*    *   **Oberfinanzdirektion:** Köln
 
 
-*    *   Bewertungsgebiet 3301                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3301 besteht aus den Finanzamtsbezirken
 
 
 *    *   Gummersbach
@@ -8609,8 +8595,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *   ohne die bei 3302 aufgeführten Gemeinden
 
 
-*    *   Bewertungsgebiet 3302                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3302 besteht aus den Finanzamtsbezirken
 
 
 *    *   Erkelenz
@@ -8698,8 +8683,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Bardenberg, Würselen, Broichweiden, Haaren
 
 
-*    *   Bewertungsgebiet 3303                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 3303 besteht aus den Finanzamtsbezirken
 
 
 *    *   Gemünd
@@ -8739,14 +8723,13 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   4.
 
-    *   **Land:**                        Rheinland-Pfalz
+    *   **Land:** Rheinland-Pfalz
 
 
-*    *   **Oberfinanzdirektion:**                        Koblenz
+*    *   **Oberfinanzdirektion:** Koblenz
 
 
-*    *   Bewertungsgebiet 4101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahrweiler
@@ -8812,8 +8795,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Winterspelt, Wischeid
 
 
-*    *   Bewertungsgebiet 4102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4102 besteht aus den Finanzamtsbezirken
 
 
 *    *   Ahrweiler
@@ -8855,8 +8837,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Neef, Pünderich, Sankt Aldegund, Senheim, Tellig, Zell
 
 
-*    *   Bewertungsgebiet 4103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4103 besteht aus den Finanzamtsbezirken
 
 
 *    *   Altenkirchen
@@ -8902,8 +8883,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 4104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4104 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bernkastel
@@ -8944,8 +8924,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 4105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4105 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Kreuznach
@@ -9002,8 +8981,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 4106                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4106 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Kreuznach
@@ -9090,8 +9068,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 4107                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4107 besteht aus den Finanzamtsbezirken
 
 
 *    *   Bad Bergzabern
@@ -9165,8 +9142,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 4108                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 4108 besteht aus den Finanzamtsbezirken
 
 
 *    *   Alzey
@@ -9281,14 +9257,13 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   5.
 
-    *   **Land:**                        Hessen
+    *   **Land:** Hessen
 
 
-*    *   **Oberfinanzdirektion:**                        Frankfurt/Main
+*    *   **Oberfinanzdirektion:** Frankfurt/Main
 
 
-*    *   Bewertungsgebiet 5101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Dieburg
@@ -9310,8 +9285,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
     *
 
-*    *   Bewertungsgebiet 5102                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5102 besteht aus den Finanzamtsbezirken
 
 
 *    *   Biedenkopf
@@ -9334,8 +9308,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Frohnhausen, Hatzfeld, Holzhausen, Ober-Asphe, Reddighausen
 
 
-*    *   Bewertungsgebiet 5103                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5103 besteht aus den Finanzamtsbezirken
 
 
 *    *   Alsfeld
@@ -9603,8 +9576,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
         Wasenberg, Wiera, Winterscheid, Ziegenhain
 
 
-*    *   Bewertungsgebiet 5104                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5104 besteht aus den Finanzamtsbezirken
 
 
 *    *   Darmstadt
@@ -9637,8 +9609,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *   Neu-Isenburg (W-Rand, Teilfl.)
 
 
-*    *   Bewertungsgebiet 5105                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 5105 besteht aus den Finanzamtsbezirken
 
 
 *    *   Alsfeld
@@ -9718,14 +9689,13 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   6.
 
-    *   **Land:**                        Saarland
+    *   **Land:** Saarland
 
 
-*    *   **Oberfinanzdirektion:**                        Saarbrücken
+*    *   **Oberfinanzdirektion:** Saarbrücken
 
 
-*    *   Bewertungsgebiet 6101                        besteht aus den
-        Finanzamtsbezirken
+*    *   Bewertungsgebiet 6101 besteht aus den Finanzamtsbezirken
 
 
 *    *   Blieskastel
@@ -9799,16 +9769,15 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   7.
 
-    *   **Land:**                        Baden-Württemberg
+    *   **Land:** Baden-Württemberg
 
 
 *    *
-    *   **Oberfinanzdirektion:**                        Karlsruhe
+    *   **Oberfinanzdirektion:** Karlsruhe
 
 
 *    *
-    *   Bewertungsgebiet 7101                        besteht aus dem
-        Finanzamtsbezirk
+    *   Bewertungsgebiet 7101 besteht aus dem Finanzamtsbezirk
 
 
 *    *
@@ -9818,8 +9787,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7102                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7102 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9855,8 +9823,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7103                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7103 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9891,8 +9858,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7104                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7104 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9944,8 +9910,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7105                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7105 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -9972,8 +9937,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7106                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7106 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10029,8 +9993,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7107                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7107 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10108,12 +10071,11 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   **Oberfinanzdirektion:**                        Freiburg
+    *   **Oberfinanzdirektion:** Freiburg
 
 
 *    *
-    *   Bewertungsgebiet 7201                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7201 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10167,8 +10129,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7202                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7202 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10259,8 +10220,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7203                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7203 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10361,8 +10321,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7204                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7204 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10441,8 +10400,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7205                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7205 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10484,12 +10442,11 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   **Oberfinanzdirektion:**                        Stuttgart
+    *   **Oberfinanzdirektion:** Stuttgart
 
 
 *    *
-    *   Bewertungsgebiet 7301                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7301 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10603,8 +10560,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7302                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7302 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10804,8 +10760,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7303                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7303 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10917,8 +10872,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7304                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7304 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -10970,8 +10924,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 7305                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7305 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11010,8 +10963,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *
 
 *    *
-    *   Bewertungsgebiet 7306                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 7306 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11097,16 +11049,15 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 *    *   8.
 
-    *   **Land:**                        Bayern
+    *   **Land:** Bayern
 
 
 *    *
-    *   **Oberfinanzdirektion:**                        Nürnberg
+    *   **Oberfinanzdirektion:** Nürnberg
 
 
 *    *
-    *   Bewertungsgebiet 8101                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8101 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11173,8 +11124,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8102                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8102 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11260,8 +11210,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8103                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8103 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11362,8 +11311,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8104                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8104 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11416,8 +11364,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8105                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8105 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11491,8 +11438,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8106                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8106 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11541,8 +11487,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8107                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8107 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11752,8 +11697,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8108                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8108 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11812,8 +11756,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8109                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8109 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11855,8 +11798,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8110                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8110 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11904,8 +11846,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8201                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8201 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11951,8 +11892,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8202                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8202 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -11984,8 +11924,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
     *
 
 *    *
-    *   Bewertungsgebiet 8203                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8203 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12105,8 +12044,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8204                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8204 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12328,8 +12266,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8205                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8205 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12407,8 +12344,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8206                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8206 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12499,8 +12435,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8207                       besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8207besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12558,8 +12493,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8208                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8208 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12603,8 +12537,7 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 8209                        besteht aus den
-        Finanzamtsbezirken
+    *   Bewertungsgebiet 8209 besteht aus den Finanzamtsbezirken
 
 
 *    *
@@ -12690,18 +12623,18 @@ Diese Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
 
 *    *
-    *   Bewertungsgebiet 9101                        besteht aus allen
-        Finanzamtsbezirken des Landes Hamburg
+    *   Bewertungsgebiet 9101 besteht aus allen Finanzamtsbezirken des Landes
+        Hamburg
 
 
 *    *
-    *   Bewertungsgebiet 10101                        besteht aus allen
-        Finanzamtsbezirken des Landes Bremen
+    *   Bewertungsgebiet 10101 besteht aus allen Finanzamtsbezirken des Landes
+        Bremen
 
 
 *    *
-    *   Bewertungsgebiet 11101                        besteht aus allen
-        Finanzamtsbezirken des Landes Berlin
+    *   Bewertungsgebiet 11101 besteht aus allen Finanzamtsbezirken des Landes
+        Berlin
 
 
 

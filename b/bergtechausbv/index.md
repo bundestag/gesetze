@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1240
 
+Geändert durch
+:   Art. 1 V v. 5.5.2015 I 683
+
 [^f772162_01_BJNR124000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -168,8 +171,8 @@ Fähigkeiten sollen so vermittelt werden, dass die Auszubildenden zur
 Ausübung einer qualifizierten beruflichen Tätigkeit im Sinne von § 1
 Absatz 3 des Berufsbildungsgesetzes befähigt werden, die insbesondere
 selbstständiges Planen, Durchführen und Kontrollieren einschließt.
-Diese Befähigung ist auch in Prüfungen nach den §§ 6, 7 und 9
-nachzuweisen.
+Diese Befähigung ist auch in Prüfungen nach den §§ 5 bis 14 und 16 bis
+19 nachzuweisen.
 
 (2) Die Ausbildenden haben unter Zugrundelegung des
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
@@ -182,41 +185,39 @@ Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
 durchzusehen.
 
 
-## § 5 Abschlussprüfung
+## § 5 Ziel der Abschlussprüfung, Aufteilung in zwei Teile und Zeitpunkte
 
-(1) Die Abschlussprüfung besteht aus den beiden zeitlich
-auseinanderfallenden Teilen 1 und 2. Durch die Abschlussprüfung ist
-festzustellen, ob der Prüfling die berufliche Handlungsfähigkeit
-erworben hat. In der Abschlussprüfung soll der Prüfling nachweisen,
-dass er die dafür erforderlichen beruflichen Fertigkeiten beherrscht,
-die notwendigen beruflichen Kenntnisse und Fähigkeiten besitzt und mit
-dem im Berufsschulunterricht zu vermittelnden, für die
-Berufsausbildung wesentlichen Lehrstoff vertraut ist. Die
-Ausbildungsordnung ist zugrunde zu legen. Dabei sollen Fertigkeiten,
-Kenntnisse und Fähigkeiten, die bereits Gegenstand von Teil 1 der
-Abschlussprüfung waren, in Teil 2 der Abschlussprüfung nur insoweit
-einbezogen werden, als es für die Feststellung der Berufsbefähigung
-erforderlich ist.
+(1) Durch die Abschlussprüfung ist festzustellen, ob der Prüfling die
+berufliche Handlungsfähigkeit erworben hat.
 
-(2) Bei der Ermittlung des Gesamtergebnisses wird Teil 1 der
-Abschlussprüfung mit 30 Prozent und Teil 2 der Abschlussprüfung mit 70
-Prozent gewichtet.
+(2) Die Abschlussprüfung besteht aus den Teilen 1 und 2.
+
+(3) Teil 1 soll vor dem Ende des zweiten Ausbildungsjahres
+durchgeführt werden, Teil 2 am Ende der Berufsausbildung.
 
 
-## § 6 Teil 1 der Abschlussprüfung
+## § 6 Inhalt von Teil 1
 
-(1) Teil 1 der Abschlussprüfung soll zum Ende des zweiten
-Ausbildungsjahres stattfinden.
+Teil 1 der Abschlussprüfung erstreckt sich auf
 
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
-für das erste bis dritte Ausbildungshalbjahr aufgeführten
-Fertigkeiten, Kenntnisse und Fähigkeiten sowie auf den im
-Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
+1.  die im Ausbildungsrahmenplan für die ersten drei Ausbildungshalbjahre
+    genannten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
 
-(3) Teil 1 der Abschlussprüfung besteht aus den Prüfungsbereichen:
 
-1.  Montagetechnik,
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
+    im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und
+    Fähigkeiten entspricht.
+
+
+
+
+
+## § 7 Prüfungsbereiche von Teil 1
+
+Teil 1 der Abschlussprüfung findet in den folgenden Prüfungsbereichen
+statt:
+
+1.  Montagetechnik und
 
 
 2.  Lagerstätte.
@@ -224,98 +225,107 @@ Berufsausbildung wesentlich ist.
 
 
 
-(4) Für den Prüfungsbereich Montagetechnik bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+## § 8 Prüfungsbereich „Montagetechnik“
 
-    a)  technische Unterlagen anwenden,
+(1) Im Prüfungsbereich „Montagetechnik“ soll der Prüfling nachweisen,
+dass er in der Lage ist,
 
-
-    b)  Arbeitsabläufe planen und abstimmen,
-
-
-    c)  Betriebsmittel und Werkzeuge auswählen und einsetzen,
+1.  technische Unterlagen anzuwenden,
 
 
-    d)  Montageaufträge unter Beachtung von Arbeits-, Gesundheits- und
-        Umweltschutz ausführen,
+2.  montagetechnische Arbeitsabläufe zu planen und abzustimmen,
 
 
-    e)  montierte Baugruppen auf Funktionsfähigkeit überprüfen,
+3.  Betriebsmittel und Werkzeuge auszuwählen und einzusetzen,
 
 
-    f)  Prüfverfahren anwenden,
+4.  Montageaufträge unter Beachtung von Arbeits-, Gesundheits- und
+    Umweltschutz auszuführen,
 
 
-    g)  Ergebnisse dokumentieren und
+5.  montierte Baugruppen auf Funktionsfähigkeit zu überprüfen,
 
 
-    h)  Kommunikationsformen und -regeln anwenden
+6.  Prüfverfahren anzuwenden,
 
 
-
-    kann;
-
-
-2.  der Prüfling soll bis zu zwei Arbeitsproben durchführen, hierüber ein
-    situatives Fachgespräch führen und schriftliche Aufgaben bearbeiten;
+7.  Ergebnisse zu dokumentieren und
 
 
-3.  die Prüfungszeit beträgt insgesamt vier Stunden, davon für die bis zu
-    zwei Arbeitsproben drei Stunden einschließlich einem situativen
-    Fachgespräch von höchstens zehn Minuten und für die schriftlichen
-    Aufgaben 60 Minuten.
+8.  Kommunikationsformen und -regeln anzuwenden.
 
 
 
 
-(5) Für den Prüfungsbereich Lagerstätte bestehen folgende Vorgaben:
+(2) Der Prüfling soll eine Arbeitsprobe durchführen, hierüber ein
+situatives Fachgespräch führen und Aufgaben schriftlich bearbeiten.
 
-1.  Der Prüfling soll nachweisen, dass er
-
-    a)  geologische und gebirgsmechanische Gegebenheiten beschreiben,
-
-
-    b)  Verfahren zur Lagerstättenerschließung unterscheiden,
-
-
-    c)  Betriebsmittel zur Hohlraumerstellung auswählen und deren Auswahl
-        begründen,
+(3) Die Prüfungszeit beträgt insgesamt 225 Minuten. Davon entfallen
+auf die Arbeitsprobe einschließlich dem situativem Fachgespräch von
+höchstens 10 Minuten 180 Minuten und auf die schriftlichen Aufgaben 45
+Minuten.
 
 
-    d)  Unterlagen für die Infrastruktur auswerten und
+## § 9 Prüfungsbereich „Lagerstätte“
+
+(1) Im Prüfungsbereich „Lagerstätte“ soll der Prüfling nachweisen,
+dass er in der Lage ist,
+
+1.  geologische und gebirgsmechanische Gegebenheiten zu beschreiben,
 
 
-    e)  Massen-, Druck-, Flächen- und Volumenberechnungen durchführen
+2.  Verfahren zur Lagerstättenerschließung zu unterscheiden,
 
 
-
-    kann;
-
-
-2.  der Prüfling soll eine ganzheitliche Aufgabe schriftlich bearbeiten
-    und die Ergebnisse in praxisüblicher Form dokumentieren;
+3.  Betriebsmittel zur Hohlraumerstellung auszuwählen und deren Auswahl zu
+    begründen,
 
 
-3.  die Prüfungszeit beträgt 120 Minuten.
+4.  Unterlagen für die Infrastruktur auszuwerten und
 
+
+5.  Massen-, Druck-, Flächen- und Volumenberechnungen durchzuführen.
 
 
 
 
-## § 7 Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbautechnik
+(2) Der Prüfling soll eine ganzheitliche Aufgabe schriftlich
+bearbeiten.
 
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
-
-(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
-
-1.  Bergbaulogistik,
+(3) Die Prüfungszeit beträgt 75 Minuten.
 
 
-2.  Bergbautechnik,
+## § 10 Inhalt von Teil 2
+
+(1) Teil 2 der Abschlussprüfung erstreckt sich auf
+
+1.  die im Ausbildungsrahmenplan genannten Fertigkeiten, Kenntnisse und
+    Fähigkeiten sowie
+
+
+2.  den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er den
+    im Ausbildungsrahmenplan aufgeführten Fertigkeiten, Kenntnissen und
+    Fähigkeiten entspricht.
+
+
+
+
+(2) In Teil 2 der Abschlussprüfung sollen Fertigkeiten, Kenntnisse und
+Fähigkeiten, die bereits Gegenstand von Teil 1 der Abschlussprüfung
+waren, nur insoweit einbezogen werden, als es für die Feststellung der
+beruflichen Handlungsfähigkeit erforderlich ist.
+
+
+## § 11 Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbautechnik“
+
+Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbautechnik“
+findet in folgenden Prüfungsbereichen statt:
+
+1.  Bergbautechnische Prozesse,
+
+
+2.  Bergbautechnik und Bergrecht,
 
 
 3.  Wirtschafts- und Sozialkunde.
@@ -323,151 +333,181 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Bergbaulogistik bestehen folgende
-Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+## § 12 Prüfungsbereich „Bergbautechnische Prozesse“
 
-    a)  bergbaulogistische Aufträge planen und durchführen,
+(1) Im Prüfungsbereich „Bergbautechnische Prozesse“ soll der Prüfling
+nachweisen, dass er in der Lage ist,
 
+1.  bergbautechnische Prozesse zu analysieren, zu bewerten und unter
+    Berücksichtigung geologischer, technischer, wirtschaftlicher,
+    rechtlicher und ökologischer Bedingungen durchzuführen,
 
-    b)  technische und organisatorische Schnittstellen festlegen,
 
+2.  bergbautechnische Prozesse zu dokumentieren,
 
-    c)  technische Unterlagen anwenden,
 
+3.  Störungen im Bergbauprozess zu analysieren und Maßnahmen zur
+    Störungsbeseitigung einzuleiten.
 
-    d)  Transport- und Fördermittel auswählen und einsetzen,
 
 
-    e)  Fahrung unter Berücksichtigung der Arbeitssicherheit gestalten und
-        durchführen und
 
+(2) Der Prüfling soll
 
-    f)  bei bergbaulogistischen Prozessen Gefährdungen analysieren,
-        dokumentieren und Maßnahmen zur Arbeitssicherheit und zum Umwelt- und
-        Gesundheitsschutz ergreifen
+1.  einen betrieblichen Auftrag durchführen und mit praxisbezogenen
+    Unterlagen dokumentieren sowie darüber ein auftragsbezogenes
+    Fachgespräch führen; dem Prüfungsausschuss ist vor der Durchführung
+    des Auftrags die Aufgabenstellung einschließlich des geplanten
+    Bearbeitungszeitraums zur Genehmigung vorzulegen,
 
 
 
-    kann;
+oder
 
+2.  eine Arbeitsprobe durchführen und hierüber ein situatives Fachgespräch
+    führen.
 
-2.  der Prüfling soll eine Arbeitsprobe durchführen, hierüber ein
-    situatives Fachgespräch führen und schriftliche Aufgaben bearbeiten;
 
 
-3.  die Prüfungszeit beträgt insgesamt vier Stunden, davon für die
-    Arbeitsprobe einschließlich einem situativen Fachgespräch von
-    höchstens zehn Minuten drei Stunden und für die schriftlichen Aufgaben
-    60 Minuten.
 
+(3) Die Prüfungszeit für die Durchführung des betrieblichen Auftrags
+einschließlich Dokumentation beträgt 18 bis 24 Stunden; für das
+auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
+(4) Die Prüfungszeit für die Durchführung der Arbeitsprobe beträgt
+insgesamt vier Stunden, einschließlich eines situativen Fachgesprächs
+von höchstens zehn Minuten.
 
 
-(4) Für den Prüfungsbereich Bergbautechnik bestehen folgende Vorgaben:
+## § 13 Prüfungsbereich „Bergbautechnik und Bergrecht“
 
-1.  Der Prüfling soll nachweisen, dass er
+(1) Im Prüfungsbereich „Bergbautechnik und Bergrecht“ soll der
+Prüfling darstellen, dass er in der Lage ist,
 
-    a)  Arbeitsabläufe planen und abstimmen,
+1.  bergbautechnische und bergbaulogistische Arbeitsabläufe zu planen und
+    abzustimmen,
 
 
-    b)  technische und organisatorische Schnittstellen festlegen,
+2.  technische und organisatorische Schnittstellen festzulegen,
 
 
-    c)  technische Unterlagen anwenden,
+3.  technische Unterlagen anzuwenden,
 
 
-    d)  Grubenbaue unter Berücksichtigung sicherheitlicher Anforderungen
-        herstellen, unterhalten und verwahren,
+4.  sicherheitstechnische Anforderungen bei der Herstellung, Unterhaltung
+    und Verwahrung von Grubenbauen zu berücksichtigen,
 
 
-    e)  Rohstoffe gewinnen,
+5.  Rohstoffe zu gewinnen,
 
 
-    f)  Grubenbaue bewettern und klimatisieren sowie
+6.  Grubenbaue zu bewettern und zu klimatisieren,
 
 
-    g)  Arbeitsergebnisse kontrollieren und bewerten
+7.  Arbeitsergebnisse zu kontrollieren und zu bewerten,
 
 
+8.  Transport- und Fördermittel auszuwählen und einzusetzen,
 
-    kann;
 
+9.  Fahrung unter Berücksichtigung der Arbeitssicherheit zu gestalten und
+    durchzuführen,
 
-2.  der Prüfling soll zwei Arbeitsproben durchführen, hierüber je ein
-    situatives Fachgespräch führen und schriftliche Aufgaben bearbeiten;
 
+10. bei bergbautechnischen und bergbaulogistischen Prozessen Gefährdungen
+    zu analysieren und zu dokumentieren,
 
-3.  die Prüfungszeit beträgt insgesamt fünf Stunden und 30 Minuten, davon
-    für die Arbeitsproben vier Stunden einschließlich situativer
-    Fachgespräche von höchstens je zehn Minuten und für die schriftlichen
-    Aufgaben 90 Minuten.
 
+11. Maßnahmen zur Arbeitssicherheit und zum Umwelt- und Gesundheitsschutz
+    zu ergreifen und
 
 
+12. Gesetze und Verordnungen des Bergrechtes anzuwenden.
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
 
 
-2.  der Prüfling soll fallorientierte Aufgaben schriftlich lösen;
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
-3.  die Prüfungszeit beträgt 60 Minuten.
 
+## § 14 Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ soll der
+Prüfling nachweisen, dass er in der Lage ist, allgemeine
+wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
+Arbeitswelt darzustellen und zu beurteilen.
 
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling soll die
+Aufgaben schriftlich bearbeiten.
 
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
-## § 8 Gewichtungs- und Bestehensregelungen
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+## § 15 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
-*    *   1 .Prüfungsbereich Montagetechnik
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
+gewichten:
 
-    *
-    *   10 Prozent,
+1.
+    *        *   Prüfungsbereich Montagetechnik
 
+        *   mit 15 Prozent,
 
-*    *   2. Prüfungsbereich Lagerstätte
 
-    *
-    *   20 Prozent,
 
 
-*    *   3. Prüfungsbereich Bergbaulogistik
 
-    *
-    *   20 Prozent,
+2.
+    *        *   Prüfungsbereich Lagerstätte
 
+        *   mit 15 Prozent,
 
-*    *   4. Prüfungsbereich Bergbautechnik
 
-    *
-    *   40 Prozent,
 
 
-*    *   5. Prüfungsbereich Wirtschafts- und Sozialkunde
 
-    *
-    *   10 Prozent.
+3.
+    *        *   Prüfungsbereich Bergbau-
+            technische Prozesse
 
+        *   mit 30 Prozent,
 
 
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
 
+4.
+    *        *   Prüfungsbereich Bergbautechnik
+            und Bergrecht
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+        *   mit 30 Prozent,
+
+
+
+
+
+5.
+    *        *   Prüfungsbereich Wirtschafts- und
+            Sozialkunde
+
+        *   mit 10 Prozent.
+
+
+
+
+
+
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
+wie folgt bewertet worden sind:
+
+1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+
+2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
 3.  in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung
@@ -475,36 +515,39 @@ folgende Vorgaben:
 
 
 4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+    „ungenügend“.
 
 
 
-bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2
-der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der
+Prüfungsbereiche „Bergbautechnik und Bergrecht“ oder „Wirtschafts- und
+Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
+ergänzen, wenn
+
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
+    ist und
 
 
-## § 9 Teil 2 der Abschlussprüfung in der Fachrichtung Tiefbohrtechnik
-
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in den Anlagen
-1 und 2 aufgeführten Fertigkeiten, Kenntnisse und Fähigkeiten sowie
-auf den im Berufsschulunterricht zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
-
-(2) Teil 2 der Abschlussprüfung besteht aus den Prüfungsbereichen:
-
-1.  Bergbaulogistik,
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
+    den Ausschlag geben kann.
 
 
-2.  Bohrtechnik,
+
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
+bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
+im Verhältnis 2:1 zu gewichten.
+
+
+## § 16 Prüfungsbereiche von Teil 2 in der Fachrichtung „Tiefbohrtechnik“
+
+Teil 2 der Abschlussprüfung in der Fachrichtung „Tiefbohrtechnik“
+findet in folgenden Prüfungsbereichen statt:
+
+1.  Bohrtechnische Prozesse,
+
+
+2.  Bohrtechnik und Bergrecht,
 
 
 3.  Wirtschafts- und Sozialkunde.
@@ -512,138 +555,168 @@ für die Berufsausbildung wesentlich ist.
 
 
 
-(3) Für den Prüfungsbereich Bergbaulogistik bestehen folgende
-Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+## § 17 Prüfungsbereich „Bohrtechnische Prozesse“
 
-    a)  Transportaufträge planen und durchführen,
+(1) Im Prüfungsbereich „Bohrtechnische Prozesse“ soll der Prüfling
+nachweisen, dass er in der Lage ist,
 
+1.  bohrtechnische Prozesse zu analysieren, zu bewerten und unter
+    Berücksichtigung geologischer, technischer, wirtschaftlicher,
+    rechtlicher und ökologischer Bedingungen durchzuführen,
 
-    b)  technische und organisatorische Schnittstellen festlegen,
 
+2.  bohrtechnische Prozesse zu dokumentieren,
 
-    c)  technische Unterlagen auswerten und anwenden,
 
+3.  Störungen im Bohrprozess zu analysieren und Maßnahmen zur
+    Störungsbeseitigung einzuleiten.
 
-    d)  die zu transportierenden Bauteile unterscheiden, deren technischen
-        Zustand, Transportmaße und Gewichte bestimmen,
 
 
-    e)  Anschlagmittel auswählen sowie
 
+(2) Der Prüfling soll einen betrieblichen Auftrag durchführen und mit
+praxisbezogenen Unterlagen dokumentieren sowie darüber ein
+auftragsbezogenes Fachgespräch führen. Das Fachgespräch wird auf der
+Grundlage der praxisbezogenen Unterlagen des bearbeiteten
+betrieblichen Auftrags geführt. Unter Berücksichtigung der
+praxisbezogenen Unterlagen sollen durch das Fachgespräch die
+Anforderungen nach Absatz 1 Nummer 1 im Bezug zur Auftragsdurchführung
+bewertet werden. Dem Prüfungsausschuss ist vor der Durchführung des
+Auftrags die Aufgabenstellung einschließlich des geplanten
+Bearbeitungszeitraums zur Genehmigung vorzulegen.
 
-    f)  bei logistischen Prozessen Gefährdungen analysieren, dokumentieren und
-        Maßnahmen zur Arbeitssicherheit und zum Gesundheitsschutz ergreifen
+(3) Die Prüfungszeit für die Durchführung des betrieblichen Auftrags
+einschließlich Dokumentation beträgt 18 bis 24 Stunden; für das
+auftragsbezogene Fachgespräch höchstens 30 Minuten.
 
 
+## § 18 Prüfungsbereich „Bohrtechnik und Bergrecht“
 
-    kann;
+(1) Im Prüfungsbereich „Bohrtechnik und Bergrecht“ soll der Prüfling
+darstellen, dass er in der Lage ist,
 
+1.  bohrtechnische und bergbaulogistische Prozesse unter Berücksichtigung
+    geologischer, technischer, wirtschaftlicher, rechtlicher und
+    ökologischer Bedingungen zu analysieren und zu bewerten,
 
-2.  der Prüfling soll eine Arbeitsprobe durchführen, hierüber ein
-    situatives Fachgespräch führen und schriftliche Aufgaben bearbeiten;
 
+2.  Prozesse zu dokumentieren,
 
-3.  die Prüfungszeit beträgt insgesamt vier Stunden, davon für die
-    Arbeitsprobe einschließlich einem situativen Fachgespräch von
-    höchstens zehn Minuten drei Stunden, und für die schriftlichen
-    Aufgaben 60 Minuten.
 
+3.  Störungen im Bohrprozess zu analysieren und Maßnahmen zur
+    Störungsbeseitigung einzuleiten,
 
 
+4.  bohrtechnische und bergbaulogistische Arbeitsabläufe zu planen und
+    abzustimmen,
 
-(4) Für den Prüfungsbereich Bohrtechnik bestehen folgende Vorgaben:
 
-1.  Der Prüfling soll nachweisen, dass er
+5.  technische und organisatorische Schnittstellen festzulegen,
 
-    a)  bohrtechnische Prozesse analysieren, bewerten und unter
-        Berücksichtigung geologischer, technischer, wirtschaftlicher,
-        rechtlicher und ökologischer Bedingungen durchführen,
 
+6.  technische Unterlagen anzuwenden,
 
-    b)  bohrtechnische Prozesse dokumentieren,
 
+7.  Arbeitsergebnisse zu kontrollieren und zu bewerten,
 
-    c)  Störungen im Bohrprozess analysieren und Maßnahmen zur
-        Störungsbeseitigung einleiten
 
+8.  Transport- und Fördermittel auszuwählen,
 
 
-    kann;
+9.  bei bohrtechnischen und bergbaulogistischen Prozessen Gefährdungen zu
+    analysieren und zu dokumentieren,
 
 
-2.  der Prüfling soll einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    auftragsbezogenes Fachgespräch führen; das Fachgespräch wird auf der
-    Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrags geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    Anforderungen nach Nummer 1 im Bezug zur Auftragsdurchführung bewertet
-    werden; dem Prüfungsausschuss ist vor der Durchführung des Auftrags
-    die Aufgabenstellung einschließlich des geplanten
-    Bearbeitungszeitraums zur Genehmigung vorzulegen;
+10. Maßnahmen zur Arbeitssicherheit und zum Umwelt- und Gesundheitsschutz
+    zu ergreifen und
 
 
-3.  die Prüfungszeit für die Durchführung des betrieblichen Auftrags
-    einschließlich Dokumentation beträgt insgesamt 16 Stunden; für das
-    auftragsbezogene Fachgespräch höchstens 30 Minuten.
+11. Gesetze und Verordnungen des Bergrechtes anzuwenden.
 
 
 
 
-(5) Für den Prüfungsbereich Wirtschafts- und Sozialkunde bestehen
-folgende Vorgaben:
+(2) Der Prüfling soll Aufgaben schriftlich bearbeiten.
 
-1.  Der Prüfling soll nachweisen, dass er allgemeine wirtschaftliche und
-    gesellschaftliche Zusammenhänge der Berufs- und Arbeitswelt darstellen
-    und beurteilen kann;
+(3) Die Prüfungszeit beträgt 120 Minuten.
 
 
-2.  der Prüfling soll fallorientierte Aufgaben schriftlich lösen;
+## § 19 Prüfungsbereich „Wirtschafts- und Sozialkunde“
 
+(1) Im Prüfungsbereich „Wirtschafts- und Sozialkunde“ soll der
+Prüfling nachweisen, dass er in der Lage ist, allgemeine
+wirtschaftliche und gesellschaftliche Zusammenhänge der Berufs- und
+Arbeitswelt darzustellen und zu beurteilen.
 
-3.  die Prüfungszeit beträgt 60 Minuten.
+(2) Die Aufgaben müssen praxisbezogen sein. Der Prüfling soll die
+Aufgaben schriftlich bearbeiten.
 
+(3) Die Prüfungszeit beträgt 60 Minuten.
 
 
+## § 20 Gewichtung der Prüfungsbereiche und Anforderungen für das Bestehen der Abschlussprüfung
 
+(1) Die Bewertungen der einzelnen Prüfungsbereiche sind wie folgt zu
+gewichten:
 
-## § 10 Gewichtungs- und Bestehensregelungen
+1.
+    *        *   Prüfungsbereich Montagetechnik
 
-(1) Die Prüfungsbereiche sind wie folgt zu gewichten:
+        *   mit 15 Prozent,
 
-1.  Prüfungsbereich Montagetechnik
-    10 Prozent,
 
 
-2.  Prüfungsbereich Lagerstätte
-    20 Prozent,
 
 
-3.  Prüfungsbereich Bergbaulogistik
-    20 Prozent,
+2.
+    *        *   Prüfungsbereich Lagerstätte
 
+        *   mit 15 Prozent,
 
-4.  Prüfungsbereich Bohrtechnik
-    40 Prozent,
 
 
-5.  Prüfungsbereich Wirtschafts- und
-    Sozialkunde
-    10 Prozent.
 
 
+3.
+    *        *   Prüfungsbereich Bohrtechnische
+            Prozesse
 
+        *   mit 30 Prozent,
 
-(2) Die Abschlussprüfung ist bestanden, wenn die Leistungen
 
-1.  im Gesamtergebnis von Teil 1 und Teil 2 der Abschlussprüfung mit
-    mindestens „ausreichend“,
 
 
-2.  im Ergebnis von Teil 2 der Abschlussprüfung mit mindestens
-    „ausreichend“,
+
+4.
+    *        *   Prüfungsbereich Bohrtechnik und
+            Bergrecht
+
+        *   mit 30 Prozent,
+
+
+
+
+
+5.
+    *        *   Prüfungsbereich Wirtschafts- und
+            Sozialkunde
+
+        *   mit 10 Prozent.
+
+
+
+
+
+
+
+(2) Die Abschlussprüfung ist bestanden, wenn die Prüfungsleistungen
+wie folgt bewertet worden sind:
+
+1.  im Gesamtergebnis von Teil 1 und Teil 2 mit mindestens „ausreichend“,
+
+
+2.  im Ergebnis von Teil 2 mit mindestens „ausreichend“,
 
 
 3.  in mindestens zwei Prüfungsbereichen von Teil 2 der Abschlussprüfung
@@ -651,38 +724,39 @@ folgende Vorgaben:
 
 
 4.  in keinem Prüfungsbereich von Teil 2 der Abschlussprüfung mit
-    „ungenügend“
+    „ungenügend“.
 
 
 
-bewertet worden sind.
 
-(3) Auf Antrag des Prüflings ist die Prüfung in einem der in Teil 2
-der Abschlussprüfung mit schlechter als „ausreichend“ bewerteten
-Prüfungsbereiche, in denen Prüfungsleistungen mit eigener Anforderung
-und Gewichtung schriftlich zu erbringen sind, durch eine mündliche
-Prüfung von etwa 15 Minuten zu ergänzen, wenn dies für das Bestehen
-der Prüfung den Ausschlag geben kann. Bei der Ermittlung des
-Ergebnisses für diesen Prüfungsbereich sind das bisherige Ergebnis und
-das Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2 : 1
-zu gewichten.
+(3) Auf Antrag des Prüflings ist die Prüfung in einem der
+Prüfungsbereiche „Bohrtechnik und Bergrecht“ oder „Wirtschafts- und
+Sozialkunde“ durch eine mündliche Prüfung von etwa 15 Minuten zu
+ergänzen, wenn
+
+1.  der Prüfungsbereich schlechter als mit „ausreichend“ bewertet worden
+    ist und
 
 
-## § 11 Bestehende Berufsausbildungsverhältnisse
-
-Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser Verordnung
-im Ausbildungsberuf Bergmechaniker bestehen, können unter Anrechnung
-der bisher zurückgelegten Ausbildungszeit nach den Vorschriften dieser
-Verordnung fortgesetzt werden, wenn die Vertragsparteien dies
-vereinbaren und noch keine Zwischenprüfung abgelegt wurde.
+2.  die mündliche Ergänzungsprüfung für das Bestehen der Abschlussprüfung
+    den Ausschlag geben kann.
 
 
-## § 12 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2009 in Kraft.
+Bei der Ermittlung des Ergebnisses für diesen Prüfungsbereich sind das
+bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
+im Verhältnis 2:1 zu gewichten.
 
 
-## Anlage 1 (zu § 3 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
+## § 21 Übergangsregelung
+
+Berufsausbildungsverhältnisse, die vor Ablauf des 31. Juli 2015
+bestehen, werden nach den bis dahin geltenden Vorschriften zu Ende
+geführt.
+
+(zu § 3 Absatz 1 Satz 1)
+
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Sachliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1244 - 1248)
 **Abschnitt A: Berufsprofilgebende Fertigkeiten, Kenntnisse und
@@ -1467,8 +1541,9 @@ und Fähigkeiten in der Fachrichtung Tiefbohrtechnik**
 
 
 
+(zu § 3 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 3 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Bergbautechnologen/zur Bergbautechnologin – Zeitliche Gliederung –
 
 (Fundstelle: BGBl. I 2009, 1249 - 1262)
 **Abschnitt 1**

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 2349
 
 Zuletzt geändert durch
-:   Art. 1 V v. 20.8.2012 I 1768
+:   Art. 1 V v. 29.5.2017 I 1349
 
 Geltung der v durch
 :   § 2 idF Art. 1 Nr. 2 V v. 1.12.2010 I 1758 über den 31.12.2010 hinaus verlängert
@@ -48,6 +48,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 ## Anlage (zu § 1)
 
+(Fundstelle: BGBl. I 2004, 2350; bzgl. einzelner Änderungen vgl.
+Fußnote)
 **Baden-Württemberg:**
 
 1.  Landkreis Biberach,
@@ -194,13 +196,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 **Mecklenburg-Vorpommern:**
 
-1.  Landkreis Mecklenburg-Strelitz,
-
-
-2.  Landkreis Nordvorpommern,
-
-
-3.  Landkreis Ostvorpommern;
+*   Landkreis Vorpommern-Rügen;
 
 
 
@@ -236,25 +232,22 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 10. Landkreis Osterholz,
 
 
-11. Landkreis Osterode am Harz,
+11. Landkreis Peine,
 
 
-12. Landkreis Peine,
+12. Landkreis Rotenburg (Wümme),
 
 
-13. Landkreis Rotenburg (Wümme),
+13. Landkreis Schaumburg,
 
 
-14. Landkreis Schaumburg,
+14. Landkreis Heidekreis,
 
 
-15. Landkreis Soltau-Fallingbostel,
+15. Landkreis Verden,
 
 
-16. Landkreis Verden,
-
-
-17. Landkreis Wittmund;
+16. Landkreis Wittmund;
 
 
 
@@ -362,9 +355,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 5.  Landkreis Meißen,
 
 
-6.  Landkreis Mittelsachsen für das in der Kommunalträger-
-    Zulassungsverordnung vom 24. September 2004 (BGBl. I S. 2349)
-    zugelassene Gebiet des Landkreises Döbeln;
+6.  (weggefallen)
 
 
 

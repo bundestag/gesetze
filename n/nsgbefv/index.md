@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2538
 
 Zuletzt geändert durch
-:   Art. 109 G v. 21.6.2005 I 1818
+:   Art. 1 V v. 20.6.2018 I 886
 
 
 ## Eingangsformel
@@ -47,7 +47,7 @@ Oktober bis zum 31. März in folgenden Bereichen zu befahren:
     1);
 
 
-2.  (aufgehoben)
+2.  (weggefallen)
 
 
 3.  im Naturschutzgebiet "Fulder-Aue/Ilmen-Aue":
@@ -77,7 +77,7 @@ Oktober bis zum 31. März in folgenden Bereichen zu befahren:
     4);
 
 
-6.  im Naturschutzgebiet "Urmitzer Werth":
+6.  im Naturschutzgebiet „Urmitzer Werth“:
 
     die Wasserfläche zwischen der Linie, die ab Rhein-km 602,15 in einem
     Abstand von 150 m vom rechten Rheinufer verläuft, entlang dem
@@ -85,18 +85,24 @@ Oktober bis zum 31. März in folgenden Bereichen zu befahren:
     unterhalb daran anschließenden Parallelwerke führt und weiter in einem
     Abstand von 100 m vom rechten Rheinufer bis Rhein-km 604,65 verläuft,
     und dem rechten Rheinufer von Rhein-km 602,15 bis Rhein-km 604,65
-    (Lageplan 5). Ausgenommen von dem Befahrensverbot sind Kleinfahrzeuge
-    ohne Antriebsmaschine, sofern sie die Wasserfläche lediglich zur
-    zügigen Durchfahrt benutzen.
+    (Lageplan 5).
 
 
 
+Satz 1 Nummer 6 gilt nicht für Kleinfahrzeuge ohne Antriebsmaschine,
+sofern sie die Wasserfläche lediglich zur zügigen Durchfahrt benutzen.
 
 (1a) Es ist untersagt, die Bundeswasserstraße Rhein in folgendem
 Bereich zu befahren:
-im Naturschutzgebiet "Mariannenaue":
+im Naturschutzgebiet „Mariannenaue“:
 die Wasserflächen innerhalb der die Insel Mariannenaue umgebenden
-Parallelwerke von Rhein-km 512,04 bis Rhein-km 517,35 (Lageplan 2).
+Parallelwerke von Rhein-km 512,04 bis Rhein-km 517,35. Ausgenommen
+hiervon bleibt das Befahren in der Zeit vom 1. April bis zum 20.
+September im westlichen Abschnitt, der durch die südliche Grenze der
+Befahrensregelung und eine ausgetonnte Linie begrenzt wird, die von
+Rhein-km 515,0 bis zur westlichen Spitze der Insel Mariannenaue in
+einem Abstand von jeweils 40 m zum Ufer und von dort in gerader Linie
+bis zum nördlichen Parallelwerk verläuft (Lageplan 2).
 
 (2) Es ist untersagt, die Bundeswasserstraße Lahn in folgendem Bereich
 zu befahren:
@@ -117,12 +123,13 @@ Bereichen zu befahren:
     in der Zeit vom 15. Oktober bis zum 31. März die Wasserfläche in einer
     Breite von 40 m entlang dem rechten Moselufer von Mosel-km 43,50 bis
     Mosel-km 47,00 sowie zwischen dem Parallelwerk bei Mosel-km 45,00 und
-    dem rechten Moselufer (Lageplan 8). Es ist auch untersagt, an der - in
-    Fließrichtung der Mosel gesehen - linken Seite des Parallelwerks
-    anzuhalten oder stillzuliegen.
+    dem rechten Moselufer (Lageplan 8).
 
 
 
+Es ist ferner in dem in Satz 1 Nummer 2 bezeichneten Bereich
+untersagt, an der – in Fließrichtung der Mosel gesehen – linken Seite
+des Parallelwerks anzuhalten oder stillzuliegen.
 
 (4) Es ist untersagt, die Bundeswasserstraße Fulda in folgendem
 Bereich zu befahren:
@@ -132,27 +139,88 @@ unterstromigen Ende zur Enteninsel und einem anschließenden Bogen zum
 rechten Fuldaufer bei Fulda-km 92,47 und dem rechten Fuldaufer von
 Fulda-km 91,54 bis Fulda-km 92,47 (Lageplan 9).
 
-(5) 1. Es ist untersagt, die Bundeswasserstraße Weser im
-Naturschutzgebiet "Staustufe Schlüsselburg" zwischen Weser-km 232,06
-und dem Wehr bei Weser-km 236,60 zu befahren (Lageplan 10).
-2\. Ausgenommen sind in der Zeit vom 16. April bis zum 30. September
+(5) Es ist untersagt, die Bundeswasserstraße Weser im
+Naturschutzgebiet „Staustufe Schlüsselburg“ zwischen Weser-km 232,06
+und dem Wehr bei Weser-km 236,60 zu befahren (Lageplan 10). Satz 1
+gilt nicht in der Zeit vom 16. April bis zum 30. September für
 Segelfahrzeuge mit Antriebsmaschine und sonstige Kleinfahrzeuge ohne
-Antriebsmaschine.
-3\. In der Zeit vom 1. Oktober bis zum 15. April dürfen Kleinfahrzeuge
-ohne Antriebsmaschine nach Einstellung des Betriebes der Schleuse
-Schlüsselburg bis 1/2 Stunde nach Sonnenuntergang die in Nummer 1
-bezeichnete Wasserfläche zügig durchfahren.
-4\. Wasserfahrzeuge, die die in Nummer 1 genannte Wasserfläche befahren
-dürfen, müssen, außer im Bereich der Bootsumtragestelle und der
-genehmigten Steganlagen, einen Mindestabstand von 15 m zu den Ufern
-einhalten.
+Antriebsmaschine. In der Zeit vom 1. Oktober bis zum 15. April dürfen
+Kleinfahrzeuge ohne Antriebsmaschine nach Einstellung des Betriebes
+der Schleuse Schlüsselburg bis ½ Stunde nach Sonnenuntergang die in
+Satz 1 bezeichnete Wasserfläche zügig durchfahren. Wasserfahrzeuge,
+die die in Satz 1 genannte Wasserfläche befahren dürfen, müssen, außer
+im Bereich der Bootsumtragestelle und der genehmigten Steganlagen,
+einen Mindestabstand von 15 m zu den Ufern einhalten.
+
+(6) Es ist untersagt, die Bundeswasserstraße Müritz-Elde-Wasserstraße
+in folgenden Bereichen zu befahren:
+
+1.  im Kölpinsee die Wasserfläche des Naturschutzgebietes „Damerower
+    Werder“ nach Maßgabe des Lageplans 11;
+
+
+2.  im Kölpinsee die Wasserfläche des Naturschutzgebietes „Blüchersches
+    Bruch und Mittelplan“ nach Maßgabe des Lageplans 12;
+
+
+3.  im Plauer See die Wasserfläche des Naturschutzgebietes „Nordufer
+    Plauer See“ nach Maßgabe des Lageplans 13;
+
+
+4.  die Wasserfläche der Alten Elde im Bereich des Naturschutzgebietes
+    „Alte Elde bei Kuppentin“ zwischen der Mündung in die Müritz-Elde-
+    Wasserstraße bei km 103,52 und dem Beginn bei Forsthof an der Müritz-
+    Elde-Wasserstraße km 110,80 nach Maßgabe des Lageplans 14;
+
+
+5.  in der Müritz die Wasserfläche im Westteil des Naturschutzgebietes
+    „Großer Schwerin mit Steinhorn“ und den Bereich des Seearms Zähnerlank
+    nach Maßgabe des Lageplans 15;
+
+
+6.  in der Müritz die gesamte Wasserfläche des Naturschutzgebietes
+    „Müritzsteilufer bei Rechlin“ nach Maßgabe des Lageplans 16.
+
+
+
+Satz 1 Nummer 1 gilt nicht für die Durchfahrt zum Fleesensee und die
+Ausfahrt zum Jabelschen See.
+
+(7) Es ist untersagt, die Bundeswasserstraße Störwasserstraße als Teil
+der Müritz-Elde-Wasserstraße im Bereich der Schweriner Seen in
+folgenden Bereichen zu befahren:
+
+1.  die Wasserfläche des Naturschutzgebietes „Döpe“ nach Maßgabe des
+    Lageplans 17;
+
+
+2.  die Wasserfläche des Naturschutzgebietes „Kaninchenwerder und Großer
+    Stein im Großen Schweriner See“ nach Maßgabe des Lageplans 18;
+
+
+3.  die Wasserfläche des Naturschutzgebietes „Ziegelwerder“ nach Maßgabe
+    des Lageplans 19;
+
+
+4.  die Wasserfläche des Naturschutzgebietes „Ramper Moor“ nach Maßgabe
+    des Lageplans 20.
+
+
+
+Satz 1 Nummer 2 gilt nicht für die Zufahrt zum Anleger und zur
+Hafenanlage am Südufer der Insel sowie in der Zeit vom 15. April bis
+15\. Oktober für das Ankern und Liegen in den im Ost- und Westteil der
+Insel gelegenen, im Lageplan 18 gekennzeichneten Buchten. Satz 1
+Nummer 3 gilt nicht für das Ankern und Liegen in dem im Westteil der
+Insel gelegenen, im Lageplan 19 gekennzeichneten Bereich.
 
 
 ## § 3
 
 Die nach § 2 für das Befahren mit Wasserfahrzeugen gesperrten
-Wasserflächen werden, soweit erforderlich, durch gelbe Tonnen
-bezeichnet.
+Wasserflächen werden, soweit erforderlich, von dem örtlich zuständigen
+Wasserstraßen- und Schifffahrtsamt durch gelbe Tonnen oder durch
+Hinweistafeln gekennzeichnet.
 
 
 ## § 4
@@ -160,13 +228,13 @@ bezeichnet.
 Soweit das Befahren der in § 2 genannten Wasserflächen mit
 Wasserfahrzeugen mit Maschinenantrieb zulässig ist, dürfen diese eine
 Höchstgeschwindigkeit gegenüber dem Ufer von 6 km je Stunde nicht
-überschreiten, es sei denn, daß in der Talfahrt zur Erhaltung der
-Steuerungsfähigkeit eine höhere Geschwindigkeit erforderlich ist.
+überschreiten. Satz 1 gilt nicht, soweit in der Talfahrt zur Erhaltung
+der Steuerungsfähigkeit eine höhere Geschwindigkeit erforderlich ist.
 
 
 ## § 5
 
-Das örtlich zuständige Wasser- und Schiffahrtsamt kann von den
+Das örtlich zuständige Wasserstraßen- und Schifffahrtsamt kann von den
 Verboten der §§ 2 und 4 allgemein und im Einzelfall, zeitlich begrenzt
 oder auf Dauer Befreiungen gewähren, wenn
 
@@ -191,48 +259,46 @@ Naturschutzgebiet auszuüben.
 (1) Bei unmittelbar drohender Gefahr kann von den Vorschriften dieser
 Verordnung abgewichen werden.
 
-(2) Diese Verordnung gilt nicht für bei der Dienstausübung verwendete
-Wasserfahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
-Wasserschutzpolizei, des Zolls, der Bundespolizei, der
-Fischereiaufsicht und der Wasserwirtschaftsverwaltung.
+(2) Die Befahrensverbote nach § 2 gelten nicht für
+
+1.  Wasserfahrzeuge des Bundes und der Länder bei notwendigen
+    Dienstfahrten,
 
 
-## § 6a
+2.  Wasserfahrzeuge im dienstlichen Auftrag des Bundes oder der Länder bei
+    notwendigen Dienstfahrten und
 
-Bis zum Abschluß der Baumaßnahmen an den Parallelwerken oberhalb
-Rhein-km 512,04 und unterhalb Rhein-km 517,35 dürfen Wasserfahrzeuge
-in der Zeit vom 1. April bis zum 20. September die in § 2 Abs. 1a
-genannten Wasserflächen von Rhein-km 515,0 bis Rhein-km 517,35
-befahren, die durch die südliche Grenze der Befahrensregelung nach
-Lageplan 2 und eine ausgetonnte Linie begrenzt werden, die von Rhein-
-km 515,0 bis zur nördlichen Spitze der Insel Mariannenaue in einem
-Abstand von jeweils 40 m zum Ufer und von dort in gerader Linie bis
-zum nördlichen Parallelwerk verläuft. Die Wasser- und
-Schiffahrtsdirektion Südwest macht den Abschluß der in Satz 2
-genannten Baumaßnahmen im Verkehrsblatt - Amtsblatt des
-Bundesministeriums für Verkehr, Bau- und Wohnungswesen der
-Bundesrepublik Deutschland - bekannt.
+
+3.  Wasserfahrzeuge bei Ausübung der gewerblichen Fischerei, soweit diese
+    auf den jeweiligen Wasserflächen zulässig ist.
+
+
+
+
+
+## § 6a (weggefallen)
+
 
 
 ## § 7
 
-Ordnungswidrig im Sinne des § 50 Abs. 1 Nr. 2 des
+Ordnungswidrig im Sinne des § 50 Absatz 1 Nummer 2 des
 Bundeswasserstraßengesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  entgegen § 2 Abs. 1 Nr. 1 bis 6 Satz 1, Absatz 1a, Abs. 2, Abs. 3 Nr.
-    1 oder 2 Satz 1, Abs. 4 oder Abs. 5 Nr. 1 einen der dort bezeichneten
-    Bereiche befährt,
+1.  entgegen § 2 Absatz 1 Satz 1 Nummer 1 bis 6, Absatz 2, 3 Satz 1 Nummer
+    1 oder Nummer 2, Absatz 4, 5 Satz 1, Absatz 6 oder Absatz 7 einen der
+    dort bezeichneten Bereiche befährt,
 
 
-2.  entgegen § 2 Abs. 3 Nr. 2 Satz 2 an dem dort bezeichneten Parallelwerk
-    anhält oder stilliegt,
+2.  entgegen § 2 Absatz 3 Satz 2 an dem dort bezeichneten Parallelwerk
+    anhält oder stillliegt,
 
 
-3.  entgegen § 2 Abs. 5 Nr. 4 den vorgeschriebenen Mindestabstand nicht
+3.  entgegen § 2 Absatz 5 Satz 4 den vorgeschriebenen Mindestabstand nicht
     einhält oder
 
 
-4.  entgegen § 4 die zulässige Höchstgeschwindigkeit überschreitet.
+4.  entgegen § 4 Satz 1 die zulässige Höchstgeschwindigkeit überschreitet.
 
 
 
@@ -248,17 +314,48 @@ Diese Verordnung tritt am 1. Januar 1988 in Kraft.
 Der Bundesminister für Verkehr
 
 
-## Anlage Lagepläne 1 bis 10
+## Anlage Lagepläne 1 bis 20
 
-(Inhalt: nicht darstellbare Lagepläne,
-Fundstelle: Lageplan 1 - BGBl I 1987, 2540,
-Lageplan 2 - BGBl I 1987, 2541,
-Lageplan 3 - BGBl I 1987, 2542,
-Lageplan 4 - BGBl I 1987, 2543,
-Lageplan 5 - BGBl I 1987, 2544,
-Lageplan 6 - BGBl I 1987, 2545,
-Lageplan 7 - BGBl I 1987, 2546,
-Lageplan 8 - BGBl I 1987, 2547,
-Lageplan 9 - BGBl I 1987, 2548,
-Lageplan 10 - BGBl I 1987, 2549)
+(Fundstellen:
+Lageplan 1 — BGBl I 1987, 2540,
+Lageplan 2 — BGBl I 2018, 887,
+Lageplan 3 — BGBl I 1987, 2542,
+Lageplan 4 — BGBl I 1987, 2543,
+Lageplan 5 — BGBl I 1987, 2544,
+Lageplan 6 — BGBl I 1987, 2545,
+Lageplan 7 — BGBl I 1987, 2546,
+Lageplan 8 — BGBl I 1987, 2547,
+Lageplan 9 — BGBl I 1987, 2548,
+Lageplan 10 — BGBl I 1987, 2549
+Lageplan 11 — BGBl. I 2015, 1809,
+Lageplan 12 — BGBl. I 2015, 1810,
+Lageplan 13 — BGBl. I 2015, 1811,
+Lageplan 14 — BGBl. I 2015, 1812
+Lageplan 15 — BGBl. I 2015, 1813
+Lageplan 16 — BGBl. I 2015, 1814
+Lageplan 17 — BGBl. I 2015, 1815
+Lageplan 18 — BGBl. I 2017, 3776
+Lageplan 19 — BGBl. I 2017, 3777
+Lageplan 20 — BGBl. I 2015, 1818;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+![bgbl1_1987_j2540-1_0010.jpg](bgbl1_1987_j2540-1_0010.jpg)
+![bgbl1_2018_j0886-1_0010.jpg](bgbl1_2018_j0886-1_0010.jpg)
+![bgbl1_1987_j2542-1_0010.jpg](bgbl1_1987_j2542-1_0010.jpg)
+![bgbl1_1987_j2543-1_0010.jpg](bgbl1_1987_j2543-1_0010.jpg)
+![bgbl1_1987_j2544-1_0010.jpg](bgbl1_1987_j2544-1_0010.jpg)
+![bgbl1_1987_j2545-1_0010.jpg](bgbl1_1987_j2545-1_0010.jpg)
+![bgbl1_1987_j2546-1_0010.jpg](bgbl1_1987_j2546-1_0010.jpg)
+![bgbl1_1987_j2547-1_0010.jpg](bgbl1_1987_j2547-1_0010.jpg)
+![bgbl1_1987_j2548-1_0010.jpg](bgbl1_1987_j2548-1_0010.jpg)
+![bgbl1_1987_j2549-1_0010.jpg](bgbl1_1987_j2549-1_0010.jpg)
+![bgbl1_2015_j1807-1_0010.jpg](bgbl1_2015_j1807-1_0010.jpg)
+![bgbl1_2015_j1807-1_0020.jpg](bgbl1_2015_j1807-1_0020.jpg)
+![bgbl1_2015_j1807-1_0030.jpg](bgbl1_2015_j1807-1_0030.jpg)
+![bgbl1_2015_j1807-1_0040.jpg](bgbl1_2015_j1807-1_0040.jpg)
+![bgbl1_2015_j1807-1_0050.jpg](bgbl1_2015_j1807-1_0050.jpg)
+![bgbl1_2015_j1807-1_0060.jpg](bgbl1_2015_j1807-1_0060.jpg)
+![bgbl1_2015_j1807-1_0070.jpg](bgbl1_2015_j1807-1_0070.jpg)
+![bgbl1_2017_j3775-1_0010.jpg](bgbl1_2017_j3775-1_0010.jpg)
+![bgbl1_2017_j3775-1_0020.jpg](bgbl1_2017_j3775-1_0020.jpg)
+![bgbl1_2015_j1807-1_0100.jpg](bgbl1_2015_j1807-1_0100.jpg)

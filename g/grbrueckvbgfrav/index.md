@@ -4,7 +4,7 @@ Title: Verordnung zu der Vereinbarung vom 20. März/25. April 2012 zwischen der 
   über den Rhein zwischen Kehl und Straßburg
 jurabk: GrBrückVbgFRAV
 layout: default
-origslug: grbr_ckvbgfrav
+origslug: grbrueckvbgfrav
 slug: grbrueckvbgfrav
 
 ---

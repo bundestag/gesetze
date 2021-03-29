@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1960, 17
 
 Neugefasst durch
-:   Bek. v. 19. 3.1991 I 686;
+:   Bek. v. 19.3.1991 I 686;
 
 Zuletzt geändert durch
-:   Art. 6 G v. 21.7.2012 I 1577
+:   Art. 7 G v. 12.7.2018 I 1151
 
 
 ## Teil I - Gerichtsverfassung
@@ -62,7 +62,7 @@ Bundesverwaltungsgericht mit Sitz in Leipzig.
 
 
 4a) die Zuweisung von Verfahren, bei denen sich die örtliche Zuständigkeit
-    nach § 52 Nr. 2 Satz 1, 2 oder 4 bestimmt, an ein anderes
+    nach § 52 Nr. 2 Satz 1, 2 oder 5 bestimmt, an ein anderes
     Verwaltungsgericht oder an mehrere Verwaltungsgerichte des Landes,
 
 
@@ -158,7 +158,7 @@ Abs. 1 kann auch vorgesehen werden, daß die Senate in der Besetzung
 von fünf Richtern und zwei ehrenamtlichen Richtern entscheiden. Satz 1
 Halbsatz 2 und Satz 2 gelten nicht für die Fälle des § 99 Abs. 2.
 
-(4)
+(4) (weggefallen)
 
 
 #### § 10
@@ -269,13 +269,29 @@ Nebenamt ernannt werden.
 
 #### § 17
 
-Bei den Verwaltungsgerichten können Richter auf Probe oder Richter
-kraft Auftrags verwendet werden.
+Bei den Verwaltungsgerichten können auch folgende Richter verwendet
+werden:
+
+1.  Richter auf Probe,
+
+
+2.  Richter kraft Auftrags und
+
+
+3.  Richter auf Zeit.
+
+
+
 
 
 #### § 18
 
--
+Zur Deckung eines nur vorübergehenden Personalbedarfs kann ein Beamter
+auf Lebenszeit mit der Befähigung zum Richteramt für die Dauer von
+mindestens zwei Jahren, längstens jedoch für die Dauer seines
+Hauptamts, zum Richter auf Zeit ernannt werden. § 15 Absatz 1 Satz 1
+und 3 sowie Absatz 2 des Deutschen Richtergesetzes ist entsprechend
+anzuwenden.
 
 
 ### 3. Abschnitt - Ehrenamtliche Richter
@@ -673,10 +689,10 @@ Streitigkeiten, für die der Verwaltungsrechtsweg offensteht.
 
 Das Oberverwaltungsgericht entscheidet über das Rechtsmittel
 
-1.  der Berufung gegen Urteile des Verwaltungsgerichts,
+1.  der Berufung gegen Urteile des Verwaltungsgerichts und
 
 
-2.  der Beschwerde gegen andere Entscheidungen des Verwaltungsgerichts und
+2.  der Beschwerde gegen andere Entscheidungen des Verwaltungsgerichts.
 
 
 3.  (weggefallen)
@@ -713,16 +729,7 @@ Rechtsvorschrift berührt wird, Gelegenheit zur Äußerung binnen einer
 zu bestimmenden Frist geben. § 65 Abs. 1 und 4 und § 66 sind
 entsprechend anzuwenden.
 
-(2a) Der Antrag einer natürlichen oder juristischen Person, der einen
-Bebauungsplan oder eine Satzung nach § 34 Abs. 4 Satz 1 Nr. 2 und 3
-oder § 35 Abs. 6 des Baugesetzbuchs zum Gegenstand hat, ist
-unzulässig, wenn die den Antrag stellende Person nur Einwendungen
-geltend macht, die sie im Rahmen der öffentlichen Auslegung (§ 3 Abs.
-2 des Baugesetzbuchs) oder im Rahmen der Beteiligung der betroffenen
-Öffentlichkeit (§ 13 Abs. 2 Nr. 2 und § 13a Abs. 2 Nr. 1 des
-Baugesetzbuchs) nicht oder verspätet geltend gemacht hat, aber hätte
-geltend machen können, und wenn auf diese Rechtsfolge im Rahmen der
-Beteiligung hingewiesen worden ist.
+(2a) (weggefallen)
 
 (3) Das Oberverwaltungsgericht prüft die Vereinbarkeit der
 Rechtsvorschrift mit Landesrecht nicht, soweit gesetzlich vorgesehen
@@ -758,6 +765,10 @@ sämtliche Streitigkeiten, die betreffen
     Sinne der §§ 7 und 9a Abs. 3 des Atomgesetzes,
 
 
+1a. das Bestehen und die Höhe von Ausgleichsansprüchen auf Grund der §§ 7e
+    und 7f des Atomgesetzes,
+
+
 2.  die Bearbeitung, Verarbeitung und sonstige Verwendung von
     Kernbrennstoffen außerhalb von Anlagen der in § 7 des Atomgesetzes
     bezeichneten Art (§ 9 des Atomgesetzes) und die wesentliche Abweichung
@@ -771,12 +782,14 @@ sämtliche Streitigkeiten, die betreffen
     einer Feuerungswärmeleistung von mehr als dreihundert Megawatt,
 
 
-4.  Planfeststellungsverfahren für die Errichtung und den Betrieb oder die
-    Änderung von Hochspannungsfreileitungen mit einer Nennspannung von 110
-    Kilovolt oder mehr, Erd- und Seekabeln jeweils mit einer Nennspannung
-    von 110 Kilovolt oder Gasversorgungsleitungen mit einem Durchmesser
-    von mehr als 300 Millimeter sowie jeweils die Änderung ihrer
-    Linienführung,
+4.  Planfeststellungsverfahren gemäß § 43 des Energiewirtschaftsgesetzes,
+    soweit nicht die Zuständigkeit des Bundesverwaltungsgerichts nach § 50
+    Absatz 1 Nummer 6 begründet ist,
+
+
+4a. Planfeststellungsverfahren für die Errichtung, den Betrieb und die
+    Änderung von Einrichtungen nach § 45 Absatz 1 des Windenergie-auf-See-
+    Gesetzes,
 
 
 5.  Verfahren für die Errichtung, den Betrieb und die wesentliche Änderung
@@ -803,7 +816,11 @@ sämtliche Streitigkeiten, die betreffen
 
 
 9.  Planfeststellungsverfahren für den Neubau oder den Ausbau von
-    Bundeswasserstraßen.
+    Bundeswasserstraßen und
+
+
+10. Planfeststellungsverfahren für Maßnahmen des öffentlichen Küsten- oder
+    Hochwasserschutzes.
 
 
 
@@ -866,15 +883,18 @@ Rechtszug
 
 
 5.  über Klagen gegen Maßnahmen und Entscheidungen nach § 44a des
-    Abgeordnetengesetzes und der Verhaltensregeln für Mitglieder des
-    Deutschen Bundestages,
+    Abgeordnetengesetzes, nach den Verhaltensregeln für Mitglieder des
+    Deutschen Bundestages, nach § 6b des Bundesministergesetzes und nach §
+    7 des Gesetzes über die Rechtsverhältnisse der Parlamentarischen
+    Staatssekretäre in Verbindung mit § 6b des Bundesministergesetzes,
 
 
 6.  über sämtliche Streitigkeiten, die Planfeststellungsverfahren und
     Plangenehmigungsverfahren für Vorhaben betreffen, die in dem
     Allgemeinen Eisenbahngesetz, dem Bundesfernstraßengesetz, dem
-    Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz oder dem
-    Magnetschwebebahnplanungsgesetz bezeichnet sind.
+    Bundeswasserstraßengesetz, dem Energieleitungsausbaugesetz, dem
+    Bundesbedarfsplangesetz oder dem Magnetschwebebahnplanungsgesetz
+    bezeichnet sind.
 
 
 
@@ -918,12 +938,16 @@ Für die örtliche Zuständigkeit gilt folgendes:
     dessen Bezirk die Bundesbehörde, die Körperschaft, Anstalt oder
     Stiftung ihren Sitz hat, vorbehaltlich der Nummern 1 und 4. Dies gilt
     auch bei Verpflichtungsklagen in den Fällen des Satzes 1. In
-    Streitigkeiten nach dem Asylverfahrensgesetz ist jedoch das
-    Verwaltungsgericht örtlich zuständig, in dessen Bezirk der Ausländer
-    nach dem Asylverfahrensgesetz seinen Aufenthalt zu nehmen hat; ist
-    eine örtliche Zuständigkeit danach nicht gegeben, bestimmt sie sich
-    nach Nummer 3.Für Klagen gegen den Bund auf Gebieten, die in die
-    Zuständigkeit der diplomatischen und konsularischen
+    Streitigkeiten nach dem Asylgesetz ist jedoch das Verwaltungsgericht
+    örtlich zuständig, in dessen Bezirk der Ausländer nach dem Asylgesetz
+    seinen Aufenthalt zu nehmen hat; ist eine örtliche Zuständigkeit
+    danach nicht gegeben, bestimmt sie sich nach Nummer 3. Soweit ein
+    Land, in dem der Ausländer seinen Aufenthalt zu nehmen hat, von der
+    Möglichkeit nach § 83 Absatz 3 des Asylgesetzes Gebrauch gemacht hat,
+    ist das Verwaltungsgericht örtlich zuständig, das nach dem Landesrecht
+    für Streitigkeiten nach dem Asylgesetz betreffend den Herkunftsstaat
+    des Ausländers zuständig ist. Für Klagen gegen den Bund auf Gebieten,
+    die in die Zuständigkeit der diplomatischen und konsularischen
     Auslandsvertretungen der Bundesrepublik Deutschland fallen, ist das
     Verwaltungsgericht örtlich zuständig, in dessen Bezirk die
     Bundesregierung ihren Sitz hat.
@@ -1037,40 +1061,75 @@ Abstimmung finden entsprechende Anwendung.
 
 #### § 55a
 
-(1) Die Beteiligten können dem Gericht elektronische Dokumente
-übermitteln, soweit dies für den jeweiligen Zuständigkeitsbereich
-durch Rechtsverordnung der Bundesregierung oder der Landesregierungen
-zugelassen worden ist. Die Rechtsverordnung bestimmt den Zeitpunkt,
-von dem an Dokumente an ein Gericht elektronisch übermittelt werden
-können, sowie die Art und Weise, in der elektronische Dokumente
-einzureichen sind. Für Dokumente, die einem schriftlich zu
-unterzeichnenden Schriftstück gleichstehen, ist eine qualifizierte
-elektronische Signatur nach § 2 Nr. 3 des Signaturgesetzes
-vorzuschreiben. Neben der qualifizierten elektronischen Signatur kann
-auch ein anderes sicheres Verfahren zugelassen werden, das die
-Authentizität und die Integrität des übermittelten elektronischen
-Dokuments sicherstellt. Die Landesregierungen können die Ermächtigung
-auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten
-Landesbehörden übertragen. Die Zulassung der elektronischen
-Übermittlung kann auf einzelne Gerichte oder Verfahren beschränkt
-werden. Die Rechtsverordnung der Bundesregierung bedarf nicht der
-Zustimmung des Bundesrates.
+(1) Vorbereitende Schriftsätze und deren Anlagen, schriftlich
+einzureichende Anträge und Erklärungen der Beteiligten sowie
+schriftlich einzureichende Auskünfte, Aussagen, Gutachten,
+Übersetzungen und Erklärungen Dritter können nach Maßgabe der Absätze
+2 bis 6 als elektronisches Dokument bei Gericht eingereicht werden.
 
-(2) Ein elektronisches Dokument ist dem Gericht zugegangen, wenn es in
-der von der Rechtsverordnung nach Absatz 1 Satz 1 und 2 bestimmten Art
-und Weise übermittelt worden ist und wenn die für den Empfang
-bestimmte Einrichtung es aufgezeichnet hat. Die Vorschriften dieses
-Gesetzes über die Beifügung von Abschriften für die übrigen
-Beteiligten finden keine Anwendung. Genügt das Dokument nicht den
-Anforderungen, ist dies dem Absender unter Angabe der für das Gericht
-geltenden technischen Rahmenbedingungen unverzüglich mitzuteilen.
+(2) Das elektronische Dokument muss für die Bearbeitung durch das
+Gericht geeignet sein. Die Bundesregierung bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates die für die
+Übermittlung und Bearbeitung geeigneten technischen Rahmenbedingungen.
 
-(3) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
+(3) Das elektronische Dokument muss mit einer qualifizierten
+elektronischen Signatur der verantwortenden Person versehen sein oder
+von der verantwortenden Person signiert und auf einem sicheren
+Übermittlungsweg eingereicht werden.
+
+(4) Sichere Übermittlungswege sind
+
+1.  der Postfach- und Versanddienst eines De-Mail-Kontos, wenn der
+    Absender bei Versand der Nachricht sicher im Sinne des § 4 Absatz 1
+    Satz 2 des De-Mail-Gesetzes angemeldet ist und er sich die sichere
+    Anmeldung gemäß § 5 Absatz 5 des De-Mail-Gesetzes bestätigen lässt,
+
+
+2.  der Übermittlungsweg zwischen dem besonderen elektronischen
+    Anwaltspostfach nach § 31a der Bundesrechtsanwaltsordnung oder einem
+    entsprechenden, auf gesetzlicher Grundlage errichteten elektronischen
+    Postfach und der elektronischen Poststelle des Gerichts,
+
+
+3.  der Übermittlungsweg zwischen einem nach Durchführung eines
+    Identifizierungsverfahrens eingerichteten Postfach einer Behörde oder
+    einer juristischen Person des öffentlichen Rechts und der
+    elektronischen Poststelle des Gerichts; das Nähere regelt die
+    Verordnung nach Absatz 2 Satz 2,
+
+
+4.  sonstige bundeseinheitliche Übermittlungswege, die durch
+    Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates
+    festgelegt werden, bei denen die Authentizität und Integrität der
+    Daten sowie die Barrierefreiheit gewährleistet sind.
+
+
+
+
+(5) Ein elektronisches Dokument ist eingegangen, sobald es auf der für
+den Empfang bestimmten Einrichtung des Gerichts gespeichert ist. Dem
+Absender ist eine automatisierte Bestätigung über den Zeitpunkt des
+Eingangs zu erteilen. Die Vorschriften dieses Gesetzes über die
+Beifügung von Abschriften für die übrigen Beteiligten finden keine
+Anwendung.
+
+(6) Ist ein elektronisches Dokument für das Gericht zur Bearbeitung
+nicht geeignet, ist dies dem Absender unter Hinweis auf die
+Unwirksamkeit des Eingangs und die geltenden technischen
+Rahmenbedingungen unverzüglich mitzuteilen. Das Dokument gilt als zum
+Zeitpunkt der früheren Einreichung eingegangen, sofern der Absender es
+unverzüglich in einer für das Gericht zur Bearbeitung geeigneten Form
+nachreicht und glaubhaft macht, dass es mit dem zuerst eingereichten
+Dokument inhaltlich übereinstimmt.
+
+(7) Soweit eine handschriftliche Unterzeichnung durch den Richter oder
 den Urkundsbeamten der Geschäftsstelle vorgeschrieben ist, genügt
 dieser Form die Aufzeichnung als elektronisches Dokument, wenn die
 verantwortenden Personen am Ende des Dokuments ihren Namen hinzufügen
-und das Dokument mit einer qualifizierten elektronischen Signatur nach
-§ 2 Nr. 3 des Signaturgesetzes versehen.
+und das Dokument mit einer qualifizierten elektronischen Signatur
+versehen. Der in Satz 1 genannten Form genügt auch ein elektronisches
+Dokument, in welches das handschriftlich unterzeichnete Schriftstück
+gemäß § 55b Absatz 6 Satz 4 übertragen worden ist.
 
 
 #### § 55b
@@ -1084,29 +1143,88 @@ Führung und Verwahrung der elektronischen Akten festzulegen. Die
 Landesregierungen können die Ermächtigung auf die für die
 Verwaltungsgerichtsbarkeit zuständigen obersten Landesbehörden
 übertragen. Die Zulassung der elektronischen Akte kann auf einzelne
-Gerichte oder Verfahren beschränkt werden. Die Rechtsverordnung der
-Bundesregierung bedarf nicht der Zustimmung des Bundesrates.
+Gerichte oder Verfahren beschränkt werden; wird von dieser Möglichkeit
+Gebrauch gemacht, kann in der Rechtsverordnung bestimmt werden, dass
+durch Verwaltungsvorschrift, die öffentlich bekanntzumachen ist,
+geregelt wird, in welchen Verfahren die Prozessakten elektronisch zu
+führen sind. Die Rechtsverordnung der Bundesregierung bedarf nicht der
+Zustimmung des Bundesrates.
 
-(2) Dokumente, die nicht der Form entsprechen, in der die Akte geführt
-wird, sind in die entsprechende Form zu übertragen und in dieser Form
-zur Akte zu nehmen, soweit die Rechtsverordnung nach Absatz 1 nichts
-anderes bestimmt.
+(1a) Die Prozessakten werden ab dem 1. Januar 2026 elektronisch
+geführt. Die Bundesregierung und die Landesregierungen bestimmen
+jeweils für ihren Bereich durch Rechtsverordnung die organisatorischen
+und dem Stand der Technik entsprechenden technischen Rahmenbedingungen
+für die Bildung, Führung und Verwahrung der elektronischen Akten
+einschließlich der einzuhaltenden Anforderungen der Barrierefreiheit.
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass Akten, die in
+Papierform angelegt wurden, in Papierform weitergeführt werden. Die
+Landesregierungen können die Ermächtigungen nach den Sätzen 2 und 3
+auf die für die Verwaltungsgerichtsbarkeit zuständigen obersten
+Landesbehörden übertragen. Die Rechtsverordnungen der Bundesregierung
+bedürfen nicht der Zustimmung des Bundesrates.
 
-(3) Die Originaldokumente sind mindestens bis zum rechtskräftigen
-Abschluss des Verfahrens aufzubewahren.
+(2) Werden die Akten in Papierform geführt, ist von einem
+elektronischen Dokument ein Ausdruck für die Akten zu fertigen. Kann
+dies bei Anlagen zu vorbereitenden Schriftsätzen nicht oder nur mit
+unverhältnismäßigem Aufwand erfolgen, so kann ein Ausdruck
+unterbleiben. Die Daten sind in diesem Fall dauerhaft zu speichern;
+der Speicherort ist aktenkundig zu machen.
 
-(4) Ist ein in Papierform eingereichtes Dokument in ein elektronisches
-Dokument übertragen worden, muss dieses den Vermerk enthalten, wann
-und durch wen die Übertragung vorgenommen worden ist. Ist ein
-elektronisches Dokument in die Papierform überführt worden, muss der
-Ausdruck den Vermerk enthalten, welches Ergebnis die
-Integritätsprüfung des Dokuments ausweist, wen die Signaturprüfung als
-Inhaber der Signatur ausweist und welchen Zeitpunkt die
-Signaturprüfung für die Anbringung der Signatur ausweist.
+(3) Wird das elektronische Dokument auf einem sicheren
+Übermittlungsweg eingereicht, so ist dies aktenkundig zu machen.
 
-(5) Dokumente, die nach Absatz 2 hergestellt sind, sind für das
-Verfahren zugrunde zu legen, soweit kein Anlass besteht, an der
-Übereinstimmung mit dem eingereichten Dokument zu zweifeln.
+(4) Ist das elektronische Dokument mit einer qualifizierten
+elektronischen Signatur versehen und nicht auf einem sicheren
+Übermittlungsweg eingereicht, muss der Ausdruck einen Vermerk darüber
+enthalten,
+
+1.  welches Ergebnis die Integritätsprüfung des Dokumentes ausweist,
+
+
+2.  wen die Signaturprüfung als Inhaber der Signatur ausweist,
+
+
+3.  welchen Zeitpunkt die Signaturprüfung für die Anbringung der Signatur
+    ausweist.
+
+
+
+
+(5) Ein eingereichtes elektronisches Dokument kann im Falle von Absatz
+2 nach Ablauf von sechs Monaten gelöscht werden.
+
+(6) Werden die Prozessakten elektronisch geführt, sind in Papierform
+vorliegende Schriftstücke und sonstige Unterlagen nach dem Stand der
+Technik zur Ersetzung der Urschrift in ein elektronisches Dokument zu
+übertragen. Es ist sicherzustellen, dass das elektronische Dokument
+mit den vorliegenden Schriftstücken und sonstigen Unterlagen bildlich
+und inhaltlich übereinstimmt. Das elektronische Dokument ist mit einem
+Übertragungsnachweis zu versehen, der das bei der Übertragung
+angewandte Verfahren und die bildliche und inhaltliche Übereinstimmung
+dokumentiert. Wird ein von den verantwortenden Personen
+handschriftlich unterzeichnetes gerichtliches Schriftstück übertragen,
+ist der Übertragungsnachweis mit einer qualifizierten elektronischen
+Signatur des Urkundsbeamten der Geschäftsstelle zu versehen. Die in
+Papierform vorliegenden Schriftstücke und sonstigen Unterlagen können
+sechs Monate nach der Übertragung vernichtet werden, sofern sie nicht
+rückgabepflichtig sind.
+
+
+#### § 55c Formulare; Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates elektronische
+Formulare einführen. Die Rechtsverordnung kann bestimmen, dass die in
+den Formularen enthaltenen Angaben ganz oder teilweise in
+strukturierter maschinenlesbarer Form zu übermitteln sind. Die
+Formulare sind auf einer in der Rechtsverordnung zu bestimmenden
+Kommunikationsplattform im Internet zur Nutzung bereitzustellen. Die
+Rechtsverordnung kann bestimmen, dass eine Identifikation des
+Formularverwenders abweichend von § 55a Absatz 3 auch durch Nutzung
+des elektronischen Identitätsnachweises nach § 18 des
+Personalausweisgesetzes oder § 78 Absatz 5 des Aufenthaltsgesetzes
+erfolgen kann.
 
 
 #### § 56
@@ -1186,13 +1304,8 @@ ist, daß ein Rechtsbehelf nicht gegeben sei. § 60 Abs. 2 gilt für den
 Fall höherer Gewalt entsprechend.
 
 
-#### § 59
+#### § 59 (weggefallen)
 
-Erläßt eine Bundesbehörde einen schriftlichen oder elektronischen
-Verwaltungsakt, der der Anfechtung unterliegt, so ist eine Erklärung
-beizufügen, durch die der Beteiligte über den Rechtsbehelf, der gegen
-den Verwaltungsakt gegeben ist, über die Stelle, bei der der
-Rechtsbehelf einzulegen ist, und über die Frist belehrt wird.
 
 
 #### § 60
@@ -1480,7 +1593,7 @@ nur durch den gemeinsamen Bevollmächtigten oder Vertreter vornehmen.
 Beschlüsse nach den Sätzen 1 und 2 sind unanfechtbar.
 
 (2) Die Vertretungsmacht erlischt, sobald der Vertreter oder der
-Vertretene dies dem Gericht schriftlich oder zur Niederschrift des
+Vertretene dies dem Gericht schriftlich oder zu Protokoll des
 Urkundsbeamten der Geschäftsstelle erklärt; der Vertreter kann die
 Erklärung nur hinsichtlich aller Vertretenen abgeben. Gibt der
 Vertretene eine solche Erklärung ab, so erlischt die Vertretungsmacht
@@ -1522,10 +1635,12 @@ Das Vorverfahren beginnt mit der Erhebung des Widerspruchs.
 #### § 70
 
 (1) Der Widerspruch ist innerhalb eines Monats, nachdem der
-Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich
-oder zur Niederschrift bei der Behörde zu erheben, die den
-Verwaltungsakt erlassen hat. Die Frist wird auch durch Einlegung bei
-der Behörde, die den Widerspruchsbescheid zu erlassen hat, gewahrt.
+Verwaltungsakt dem Beschwerten bekanntgegeben worden ist, schriftlich,
+in elektronischer Form nach § 3a Absatz 2 des
+Verwaltungsverfahrensgesetzes oder zur Niederschrift bei der Behörde
+zu erheben, die den Verwaltungsakt erlassen hat. Die Frist wird auch
+durch Einlegung bei der Behörde, die den Widerspruchsbescheid zu
+erlassen hat, gewahrt.
 
 (2) §§ 58 und 60 Abs. 1 bis 4 gelten entsprechend.
 
@@ -1800,11 +1915,11 @@ aufschiebende Wirkung fortdauert.
 #### § 81
 
 (1) Die Klage ist bei dem Gericht schriftlich zu erheben. Bei dem
-Verwaltungsgericht kann sie auch zur Niederschrift des Urkundsbeamten
-der Geschäftsstelle erhoben werden.
+Verwaltungsgericht kann sie auch zu Protokoll des Urkundsbeamten der
+Geschäftsstelle erhoben werden.
 
 (2) Der Klage und allen Schriftsätzen sollen vorbehaltlich des § 55a
-Abs. 2 Satz 2 Abschriften für die übrigen Beteiligten beigefügt
+Absatz 5 Satz 3 Abschriften für die übrigen Beteiligten beigefügt
 werden.
 
 
@@ -1814,7 +1929,7 @@ werden.
 Klagebegehrens bezeichnen. Sie soll einen bestimmten Antrag enthalten.
 Die zur Begründung dienenden Tatsachen und Beweismittel sollen
 angegeben, die angefochtene Verfügung und der Widerspruchsbescheid
-sollen in Urschrift oder in Abschrift beigefügt werden.
+sollen in Abschrift beigefügt werden.
 
 (2) Entspricht die Klage diesen Anforderungen nicht, hat der
 Vorsitzende oder der nach § 21g des Gerichtsverfassungsgesetzes
@@ -1905,10 +2020,10 @@ Fristsetzung auffordern. Die Schriftsätze sind den Beteiligten von
 Amts wegen zu übermitteln.
 
 (5) Den Schriftsätzen sind die Urkunden oder elektronischen Dokumente,
-auf die Bezug genommen wird, in Urschrift oder in Abschrift ganz oder
-im Auszug beizufügen. Sind die Urkunden oder elektronischen Dokumente
-dem Gegner bereits bekannt oder sehr umfangreich, so genügt die genaue
-Bezeichnung mit dem Anerbieten, Einsicht bei Gericht zu gewähren.
+auf die Bezug genommen wird, in Abschrift ganz oder im Auszug
+beizufügen. Sind die Urkunden dem Gegner bereits bekannt oder sehr
+umfangreich, so genügt die genaue Bezeichnung mit dem Anerbieten,
+Einsicht bei Gericht zu gewähren.
 
 
 #### § 86a
@@ -2061,11 +2176,10 @@ ausgeschlossen.
 
 #### § 90
 
-(1) Durch Erhebung der Klage wird die Streitsache rechtshängig.
-
-(2) (weggefallen)
-
-(3) (weggefallen)
+Durch Erhebung der Klage wird die Streitsache rechtshängig. In
+Verfahren nach dem Siebzehnten Titel des Gerichtsverfassungsgesetzes
+wegen eines überlangen Gerichtsverfahrens wird die Streitsache erst
+mit Zustellung der Klage rechtshängig.
 
 
 #### § 91
@@ -2254,26 +2368,34 @@ das Beschwerdeverfahren gelten die Sätze 4 bis 11 sinngemäß.
 #### § 100
 
 (1) Die Beteiligten können die Gerichtsakten und die dem Gericht
-vorgelegten Akten einsehen.
+vorgelegten Akten einsehen. Beteiligte können sich auf ihre Kosten
+durch die Geschäftsstelle Ausfertigungen, Auszüge, Ausdrucke und
+Abschriften erteilen lassen.
 
-(2) Beteiligte können sich auf ihre Kosten durch die Geschäftsstelle
-Ausfertigungen, Auszüge, Ausdrucke und Abschriften erteilen lassen.
-Nach dem Ermessen des Vorsitzenden kann der nach § 67 Abs. 2 Satz 1
-und 2 Nr. 3 bis 6 bevollmächtigten Person die Mitnahme der Akte in die
-Wohnung oder Geschäftsräume, der elektronische Zugriff auf den Inhalt
-der Akten gestattet oder der Inhalt der Akten elektronisch übermittelt
-werden. § 87a Abs. 3 gilt entsprechend. Bei einem elektronischen
-Zugriff auf den Inhalt der Akten ist sicherzustellen, dass der Zugriff
-nur durch die nach § 67 Abs. 2 Satz 1 und 2 Nr. 3 bis 6
-bevollmächtigte Person erfolgt. Für die Übermittlung von
-elektronischen Dokumenten ist die Gesamtheit der Dokumente mit einer
-qualifizierten elektronischen Signatur nach § 2 Nr. 3 des
-Signaturgesetzes zu versehen und gegen unbefugte Kenntnisnahme zu
-schützen.
+(2) Werden die Prozessakten elektronisch geführt, wird Akteneinsicht
+durch Bereitstellung des Inhalts der Akten zum Abruf gewährt. Auf
+besonderen Antrag wird Akteneinsicht durch Einsichtnahme in die Akten
+in Diensträumen gewährt. Ein Aktenausdruck oder ein Datenträger mit
+dem Inhalt der Akten wird auf besonders zu begründenden Antrag nur
+übermittelt, wenn der Antragsteller hieran ein berechtigtes Interesse
+darlegt. Stehen der Akteneinsicht in der nach Satz 1 vorgesehenen Form
+wichtige Gründe entgegen, kann die Akteneinsicht in der nach den
+Sätzen 2 und 3 vorgesehenen Form auch ohne Antrag gewährt werden. Über
+einen Antrag nach Satz 3 entscheidet der Vorsitzende; die Entscheidung
+ist unanfechtbar. § 87a Absatz 3 gilt entsprechend.
 
-(3) In die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die
+(3) Werden die Prozessakten in Papierform geführt, wird Akteneinsicht
+durch Einsichtnahme in die Akten in Diensträumen gewährt. Die
+Akteneinsicht kann, soweit nicht wichtige Gründe entgegenstehen, auch
+durch Bereitstellung des Inhalts der Akten zum Abruf gewährt werden.
+Nach dem Ermessen des Vorsitzenden kann der nach § 67 Absatz 2 Satz 1
+und 2 Nummer 3 bis 6 bevollmächtigten Person die Mitnahme der Akten in
+die Wohnung oder Geschäftsräume gestattet werden. § 87a Absatz 3 gilt
+entsprechend.
+
+(4) In die Entwürfe zu Urteilen, Beschlüssen und Verfügungen, die
 Arbeiten zu ihrer Vorbereitung und die Dokumente, die Abstimmungen
-betreffen, wird Akteneinsicht nach Absatz 1 und 2 nicht gewährt.
+betreffen, wird Akteneinsicht nach den Absätzen 1 bis 3 nicht gewährt.
 
 
 #### § 101
@@ -2305,6 +2427,29 @@ Erledigung notwendig ist.
 (4) § 227 Abs. 3 Satz 1 der Zivilprozeßordnung ist nicht anzuwenden.
 
 
+#### § 102a
+
+(1) Das Gericht kann den Beteiligten, ihren Bevollmächtigten und
+Beiständen auf Antrag oder von Amts wegen gestatten, sich während
+einer mündlichen Verhandlung an einem anderen Ort aufzuhalten und dort
+Verfahrenshandlungen vorzunehmen. Die Verhandlung wird zeitgleich in
+Bild und Ton an diesen Ort und in das Sitzungszimmer übertragen.
+
+(2) Das Gericht kann auf Antrag gestatten, dass sich ein Zeuge, ein
+Sachverständiger oder ein Beteiligter während einer Vernehmung an
+einem anderen Ort aufhält. Die Vernehmung wird zeitgleich in Bild und
+Ton an diesen Ort und in das Sitzungszimmer übertragen. Ist
+Beteiligten, Bevollmächtigten und Beiständen nach Absatz 1 Satz 1
+gestattet worden, sich an einem anderen Ort aufzuhalten, so wird die
+Vernehmung auch an diesen Ort übertragen.
+
+(3) Die Übertragung wird nicht aufgezeichnet. Entscheidungen nach
+Absatz 1 Satz 1 und Absatz 2 Satz 1 sind unanfechtbar.
+
+(4) Die Absätze 1 und 3 gelten entsprechend für Erörterungstermine (§
+87 Absatz 1 Satz 2 Nummer 1).
+
+
 #### § 103
 
 (1) Der Vorsitzende eröffnet und leitet die mündliche Verhandlung.
@@ -2332,14 +2477,14 @@ Wiedereröffnung beschließen.
 
 #### § 105
 
-Für die Niederschrift gelten die §§ 159 bis 165 der Zivilprozeßordnung
+Für das Protokoll gelten die §§ 159 bis 165 der Zivilprozeßordnung
 entsprechend.
 
 
 #### § 106
 
 Um den Rechtsstreit vollständig oder zum Teil zu erledigen, können die
-Beteiligten zur Niederschrift des Gerichts oder des beauftragten oder
+Beteiligten zu Protokoll des Gerichts oder des beauftragten oder
 ersuchten Richters einen Vergleich schließen, soweit sie über den
 Gegenstand des Vergleichs verfügen können. Ein gerichtlicher Vergleich
 kann auch dadurch geschlossen werden, daß die Beteiligten einen in der
@@ -2679,7 +2824,7 @@ Oberverwaltungsgericht zugelassen wird.
 
 
 4.  wenn das Urteil von einer Entscheidung des Oberverwaltungsgerichts,
-    des Bundesverwaltungsgerichts, des gemeinsamen Senats der obersten
+    des Bundesverwaltungsgerichts, des Gemeinsamen Senats der obersten
     Gerichtshöfe des Bundes oder des Bundesverfassungsgerichts abweicht
     und auf dieser Abweichung beruht oder
 
@@ -2711,7 +2856,7 @@ Berufung erfolgt, bei dem Oberverwaltungsgericht einzureichen. Die
 Begründungsfrist kann auf einen vor ihrem Ablauf gestellten Antrag von
 dem Vorsitzenden des Senats verlängert werden. Die Begründung muss
 einen bestimmten Antrag enthalten sowie die im Einzelnen anzuführenden
-Gründe der Anfechtung (Berufungsgründe).\* Mangelt es an einem dieser
+Gründe der Anfechtung (Berufungsgründe). Mangelt es an einem dieser
 Erfordernisse, so ist die Berufung unzulässig.
 
 (4) Wird die Berufung nicht in dem Urteil des Verwaltungsgerichts
@@ -3176,7 +3321,10 @@ nicht in diesem Gesetz etwas anderes bestimmt ist.
 über eine Vertagung oder die Bestimmung einer Frist, Beweisbeschlüsse,
 Beschlüsse über Ablehnung von Beweisanträgen, über Verbindung und
 Trennung von Verfahren und Ansprüchen und über die Ablehnung von
-Gerichtspersonen können nicht mit der Beschwerde angefochten werden.
+Gerichtspersonen sowie Beschlüsse über die Ablehnung der
+Prozesskostenhilfe, wenn das Gericht ausschließlich die persönlichen
+oder wirtschaftlichen Voraussetzungen der Prozesskostenhilfe verneint,
+können nicht mit der Beschwerde angefochten werden.
 
 (3) Außerdem ist vorbehaltlich einer gesetzlich vorgesehenen
 Beschwerde gegen die Nichtzulassung der Revision die Beschwerde nicht
@@ -3202,9 +3350,9 @@ die dargelegten Gründe.
 #### § 147
 
 (1) Die Beschwerde ist bei dem Gericht, dessen Entscheidung
-angefochten wird, schriftlich oder zur Niederschrift des
-Urkundsbeamten der Geschäftsstelle innerhalb von zwei Wochen nach
-Bekanntgabe der Entscheidung einzulegen. § 67 Abs. 4 bleibt unberührt.
+angefochten wird, schriftlich oder zu Protokoll des Urkundsbeamten der
+Geschäftsstelle innerhalb von zwei Wochen nach Bekanntgabe der
+Entscheidung einzulegen. § 67 Abs. 4 bleibt unberührt.
 
 (2) Die Beschwerdefrist ist auch gewahrt, wenn die Beschwerde
 innerhalb der Frist bei dem Beschwerdegericht eingeht.
@@ -3245,8 +3393,8 @@ Beschluß.
 Gegen die Entscheidungen des beauftragten oder ersuchten Richters oder
 des Urkundsbeamten kann innerhalb von zwei Wochen nach Bekanntgabe die
 Entscheidung des Gerichts beantragt werden. Der Antrag ist schriftlich
-oder zur Niederschrift des Urkundsbeamten der Geschäftsstelle des
-Gerichts zu stellen. §§ 147 bis 149 gelten entsprechend.
+oder zu Protokoll des Urkundsbeamten der Geschäftsstelle des Gerichts
+zu stellen. §§ 147 bis 149 gelten entsprechend.
 
 
 #### § 152
@@ -3284,11 +3432,11 @@ Kenntniserlangung ist glaubhaft zu machen. Nach Ablauf eines Jahres
 seit Bekanntgabe der angegriffenen Entscheidung kann die Rüge nicht
 mehr erhoben werden. Formlos mitgeteilte Entscheidungen gelten mit dem
 dritten Tage nach Aufgabe zur Post als bekannt gegeben. Die Rüge ist
-schriftlich oder zur Niederschrift des Urkundsbeamten der
-Geschäftsstelle bei dem Gericht zu erheben, dessen Entscheidung
-angegriffen wird. § 67 Abs. 4 bleibt unberührt. Die Rüge muss die
-angegriffene Entscheidung bezeichnen und das Vorliegen der in Absatz 1
-Satz 1 Nr. 2 genannten Voraussetzungen darlegen.
+schriftlich oder zu Protokoll des Urkundsbeamten der Geschäftsstelle
+bei dem Gericht zu erheben, dessen Entscheidung angegriffen wird. § 67
+Abs. 4 bleibt unberührt. Die Rüge muss die angegriffene Entscheidung
+bezeichnen und das Vorliegen der in Absatz 1 Satz 1 Nr. 2 genannten
+Voraussetzungen darlegen.
 
 (3) Den übrigen Beteiligten ist, soweit erforderlich, Gelegenheit zur
 Stellungnahme zu geben.
@@ -3478,8 +3626,51 @@ anfechten. § 151 gilt entsprechend.
 
 #### § 166
 
-Die Vorschriften der Zivilprozeßordnung über die Prozesskostenhilfe
-sowie § 569 Abs. 3 Nr. 2 der Zivilprozessordnung gelten entsprechend.
+(1) Die Vorschriften der Zivilprozeßordnung über die
+Prozesskostenhilfe sowie § 569 Abs. 3 Nr. 2 der Zivilprozessordnung
+gelten entsprechend. Einem Beteiligten, dem Prozesskostenhilfe
+bewilligt worden ist, kann auch ein Steuerberater,
+Steuerbevollmächtigter, Wirtschaftsprüfer oder vereidigter Buchprüfer
+beigeordnet werden. Die Vergütung richtet sich nach den für den
+beigeordneten Rechtsanwalt geltenden Vorschriften des
+Rechtsanwaltsvergütungsgesetzes.
+
+(2) Die Prüfung der persönlichen und wirtschaftlichen Verhältnisse
+nach den §§ 114 bis 116 der Zivilprozessordnung einschließlich der in
+§ 118 Absatz 2 der Zivilprozessordnung bezeichneten Maßnahmen, der
+Beurkundung von Vergleichen nach § 118 Absatz 1 Satz 3 der
+Zivilprozessordnung und der Entscheidungen nach § 118 Absatz 2 Satz 4
+der Zivilprozessordnung obliegt dem Urkundsbeamten der Geschäftsstelle
+des jeweiligen Rechtszugs, wenn der Vorsitzende ihm das Verfahren
+insoweit überträgt. Liegen die Voraussetzungen für die Bewilligung der
+Prozesskostenhilfe hiernach nicht vor, erlässt der Urkundsbeamte die
+den Antrag ablehnende Entscheidung; anderenfalls vermerkt der
+Urkundsbeamte in den Prozessakten, dass dem Antragsteller nach seinen
+persönlichen und wirtschaftlichen Verhältnissen Prozesskostenhilfe
+gewährt werden kann und in welcher Höhe gegebenenfalls Monatsraten
+oder Beträge aus dem Vermögen zu zahlen sind.
+
+(3) Dem Urkundsbeamten obliegen im Verfahren über die
+Prozesskostenhilfe ferner die Bestimmung des Zeitpunkts für die
+Einstellung und eine Wiederaufnahme der Zahlungen nach § 120 Absatz 3
+der Zivilprozessordnung sowie die Änderung und die Aufhebung der
+Bewilligung der Prozesskostenhilfe nach den §§ 120a und 124 Absatz 1
+Nummer 2 bis 5 der Zivilprozessordnung.
+
+(4) Der Vorsitzende kann Aufgaben nach den Absätzen 2 und 3 zu jedem
+Zeitpunkt an sich ziehen. § 5 Absatz 1 Nummer 1, die §§ 6, 7, 8 Absatz
+1 bis 4 und § 9 des Rechtspflegergesetzes gelten entsprechend mit der
+Maßgabe, dass an die Stelle des Rechtspflegers der Urkundsbeamte der
+Geschäftsstelle tritt.
+
+(5) § 87a Absatz 3 gilt entsprechend.
+
+(6) Gegen Entscheidungen des Urkundsbeamten nach den Absätzen 2 und 3
+kann innerhalb von zwei Wochen nach Bekanntgabe die Entscheidung des
+Gerichts beantragt werden.
+
+(7) Durch Landesgesetz kann bestimmt werden, dass die Absätze 2 bis 6
+für die Gerichte des jeweiligen Landes nicht anzuwenden sind.
 
 
 ### 17. Abschnitt - Vollstreckung
@@ -3604,15 +3795,15 @@ Soweit dieses Gesetz keine Bestimmungen über das Verfahren enthält,
 sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung
 einschließlich § 278 Absatz 5 und § 278a entsprechend anzuwenden, wenn
 die grundsätzlichen Unterschiede der beiden Verfahrensarten dies nicht
-ausschließen. Die Vorschriften des Siebzehnten Titels des
-Gerichtsverfassungsgesetzes sind mit der Maßgabe entsprechend
-anzuwenden, dass an die Stelle des Oberlandesgerichts das
-Oberverwaltungsgericht, an die Stelle des Bundesgerichtshofs das
-Bundesverwaltungsgericht und an die Stelle der Zivilprozessordnung die
-Verwaltungsgerichtsordnung tritt. Gericht im Sinne des § 1062 der
-Zivilprozeßordnung ist das zuständige Verwaltungsgericht, Gericht im
-Sinne des § 1065 der Zivilprozeßordnung das zuständige
-Oberverwaltungsgericht.
+ausschließen; Buch 6 der Zivilprozessordnung ist nicht anzuwenden. Die
+Vorschriften des Siebzehnten Titels des Gerichtsverfassungsgesetzes
+sind mit der Maßgabe entsprechend anzuwenden, dass an die Stelle des
+Oberlandesgerichts das Oberverwaltungsgericht, an die Stelle des
+Bundesgerichtshofs das Bundesverwaltungsgericht und an die Stelle der
+Zivilprozessordnung die Verwaltungsgerichtsordnung tritt. Gericht im
+Sinne des § 1062 der Zivilprozeßordnung ist das zuständige
+Verwaltungsgericht, Gericht im Sinne des § 1065 der Zivilprozeßordnung
+das zuständige Oberverwaltungsgericht.
 
 
 ### § 174
@@ -3630,7 +3821,13 @@ erfüllt, wenn sie den für sie geltenden besonderen Vorschriften genügt
 haben.
 
 
-### (XXXX) §§ 175 bis 177 (weggefallen)
+### § 175
+
+§ 43 des Einführungsgesetzes zum Gerichtsverfassungsgesetz gilt
+entsprechend.
+
+
+### (XXXX) §§ 176 bis 177 (weggefallen)
 
 
 
@@ -3740,28 +3937,27 @@ unberührt:
 2.  das Gesetz über die Errichtung eines Bundesaufsichtsamtes für das
     Versicherungs- und Bausparwesen vom 31. Juli 1951 (Bundesgesetzbl. I
     S. 480) in der Fassung des Gesetzes zur Ergänzung des Gesetzes über
-    die Errichtung eines Bundesaufsichtsamtes für das Versicherungs-
-    und Bauspar                   wesen vom 22. Dezember 1954
-    (Bundesgesetzbl. I S. 501),
+    die Errichtung eines Bundesaufsichtsamtes für das Versicherungs- und
+    Bausparwesen vom 22. Dezember 1954 (Bundesgesetzbl. I S. 501),
 
 
 3.  (weggefallen)
 
 
-4.  das Flurbereinigungsgesetz
-    vom 14. Juli 1953 (Bundesgesetzbl. I S. 591),
+4.  das Flurbereinigungsgesetz vom 14. Juli 1953 (Bundesgesetzbl. I S.
+    591),
 
 
 5.  das Personalvertretungsgesetz vom 5. August 1955 (Bundesgesetzbl. I S.
     477),
 
 
-6.  die Wehrbeschwerdeordnung
-    (WBO) vom 23. Dezember 1956 (Bundesgesetzbl. I S. 1066),
+6.  die Wehrbeschwerdeordnung (WBO) vom 23. Dezember 1956 (Bundesgesetzbl.
+    I S. 1066),
 
 
-7.  das Kriegsgefangenenentschädigungsgesetz (KgfEG)
-    in der Fassung vom 8. Dezember 1956 (Bundesgesetzbl. I S. 908),
+7.  das Kriegsgefangenenentschädigungsgesetz (KgfEG) in der Fassung vom 8.
+    Dezember 1956 (Bundesgesetzbl. I S. 908),
 
 
 8.  § 13 Abs. 2 des Patentgesetzes und die Vorschriften über das Verfahren

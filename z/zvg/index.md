@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1897, 97
 
 Zuletzt geändert durch
-:   Art. 6 G v. 7.12.2011 I 2582
+:   Art. 9 G v. 24.5.2016 I 1217
 
 
 ## Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung
@@ -1104,16 +1104,6 @@ Pächter bekannt.
 diese Vorschriften keine Anwendung.
 
 
-##### § 57c
-
-(weggefallen)
-
-
-##### § 57d
-
-(weggefallen)
-
-
 ##### § 58
 
 Die Kosten des Beschlusses, durch welchen der Zuschlag erteilt wird,
@@ -1139,14 +1129,12 @@ erlöschen würde, so bedarf es nicht der Zustimmung eines nachstehenden
 Beteiligten.
 
 
-##### § 60
-
--
+##### § 60 (weggefallen)
 
 
-##### § 61
 
--
+##### § 61 (weggefallen)
+
 
 
 ##### § 62
@@ -1223,8 +1211,8 @@ andere Art der Verwertung angeordnet, insbesondere zur Einziehung
 einer Forderung ein Vertreter bestellt oder die Forderung einem
 Beteiligten mit dessen Zustimmung an Zahlungs Statt überwiesen werden.
 Die Vorschriften der §§ 817,
-820,              835 der Zivilprozeßordnung finden entsprechende
-Anwendung. Der Erlös ist zu hinterlegen.
+820, 835 der Zivilprozeßordnung finden entsprechende Anwendung. Der
+Erlös ist zu hinterlegen.
 
 (2) Die besondere Versteigerung oder die anderweitige Verwertung ist
 nur zulässig, wenn das geringste Gebot erreicht ist.
@@ -1901,9 +1889,8 @@ der Gerichtskasse einbezahlt ist, wird auf die Zahlung nach Absatz 2
 Satz 1 angerechnet.
 
 
-##### § 108
+##### § 108 (weggefallen)
 
-(weggefallen)
 
 
 ##### § 109
@@ -2306,9 +2293,8 @@ im § 17 Abs. 2 bezeichneten Zeugnisses bedarf es nicht, solange das
 Grundbuchamt noch nicht um die Eintragung ersucht ist.
 
 
-##### § 134
+##### § 134 (weggefallen)
 
-(aufgehoben)
 
 
 ##### § 135
@@ -2510,10 +2496,10 @@ benachrichtigen.
 
 #### § 147
 
-(1) Wegen des Anspruchs aus einem eingetragenen Recht findet die
+(1) Wegen des Anspruchs aus einem eingetragenen Rechte findet die
 Zwangsverwaltung auch dann statt, wenn die Voraussetzungen des § 17
 Abs. 1 nicht vorliegen, der Schuldner aber das Grundstück im
-Eigenbesitz hat.
+Eigenbesitze hat.
 
 (2) Der Besitz ist durch Urkunden glaubhaft zu machen, sofern er nicht
 bei dem Gericht offenkundig ist.
@@ -2669,12 +2655,13 @@ gegenüber wirksam.
 
 #### § 152a
 
-Der Bundesminister der Justiz wird ermächtigt, Stellung, Aufgaben und
-Geschäftsführung des Zwangsverwalters sowie seine Vergütung (Gebühren
-und Auslagen) durch Rechtsverordnung mit Zustimmung des Bundesrates
-näher zu regeln. Die Höhe der Vergütung ist an der Art und dem Umfang
-der Aufgabe sowie an der Leistung des Zwangsverwalters auszurichten.
-Es sind Mindest- und Höchstsätze vorzusehen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, Stellung, Aufgaben und Geschäftsführung des
+Zwangsverwalters sowie seine Vergütung (Gebühren und Auslagen) durch
+Rechtsverordnung mit Zustimmung des Bundesrates näher zu regeln. Die
+Höhe der Vergütung ist an der Art und dem Umfang der Aufgabe sowie an
+der Leistung des Zwangsverwalters auszurichten. Es sind Mindest- und
+Höchstsätze vorzusehen.
 
 
 #### § 153
@@ -2913,8 +2900,9 @@ Arbeitslosenversicherung gelten als Beteiligte, auch wenn sie eine
 Forderung nicht angemeldet haben. Bei der Zwangsversteigerung eines
 Seeschiffes vertritt die Deutsche Rentenversicherung Knappschaft-Bahn-
 See, bei der Zwangsversteigerung eines Binnenschiffes die
-Binnenschiffahrts-Berufsgenossenschaft die übrigen Versicherungsträger
-gegenüber dem Vollstreckungsgericht.
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation die übrigen Versicherungsträger gegenüber dem
+Vollstreckungsgericht.
 
 
 #### § 164
@@ -2985,9 +2973,8 @@ werden.
 (3) Die im § 39 Abs. 2 vorgesehene Anordnung ist unzulässig.
 
 
-#### § 168a
+#### § 168a (weggefallen)
 
-(aufgehoben)
 
 
 #### § 168b
@@ -3411,14 +3398,16 @@ Miteigentümer angemessen erscheint. Die einmalige Wiederholung der
 Einstellung ist zulässig. § 30b gilt entsprechend.
 
 (3) Betreibt ein Miteigentümer die Zwangsversteigerung zur Aufhebung
-einer Gemeinschaft, der außer ihm nur sein Ehegatte oder sein früherer
-Ehegatte angehört, so ist auf Antrag dieses Ehegatten oder früheren
-Ehegatten die einstweilige Einstellung des Verfahrens anzuordnen, wenn
-dies zur Abwendung einer ernsthaften Gefährdung des Wohls eines
-gemeinschaftlichen Kindes erforderlich ist. Die mehrfache Wiederholung
-der Einstellung ist zulässig. § 30b gilt entsprechend. Das Gericht
-hebt seinen Beschluß auf Antrag auf oder ändert ihn, wenn dies mit
-Rücksicht auf eine Änderung der Sachlage geboten ist.
+einer Gemeinschaft, der außer ihm nur sein Ehegatte, sein früherer
+Ehegatte, sein Lebenspartner oder sein früherer Lebenspartner
+angehört, so ist auf Antrag dieses Ehegatten, früheren Ehegatten,
+dieses Lebenspartners oder früheren Lebenspartners die einstweilige
+Einstellung des Verfahrens anzuordnen, wenn dies zur Abwendung einer
+ernsthaften Gefährdung des Wohls eines gemeinschaftlichen Kindes
+erforderlich ist. Die mehrfache Wiederholung der Einstellung ist
+zulässig. § 30b gilt entsprechend. Das Gericht hebt seinen Beschluß
+auf Antrag auf oder ändert ihn, wenn dies mit Rücksicht auf eine
+Änderung der Sachlage geboten ist.
 
 (4) Durch Anordnungen nach Absatz 2, 3 darf das Verfahren nicht auf
 mehr als fünf Jahre insgesamt einstweilen eingestellt werden.
@@ -3457,7 +3446,7 @@ berücksichtigen als bei einem anderen Anteil, so erhöht sich das
 geringste Gebot um den zur Ausgleichung unter den Miteigentümern
 erforderlichen Betrag.
 
-(3)
+(3) (weggefallen)
 
 
 ### § 183

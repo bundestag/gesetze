@@ -3,7 +3,7 @@ Title: Gesetz zur Einführung und Verwendung eines Kennzeichens für Erzeugnisse
   ökologischen Landbaus
 jurabk: ÖkoKennzG
 layout: default
-origslug: _kokennzg
+origslug: oekokennzg
 slug: oekokennzg
 
 ---
@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 20.1.2009 I 78;
 
-Geändert durch
-:   Art. 29 G v. 9.12.2010 I 1934
+Zuletzt geändert durch
+:   Art. 404 V v. 31.8.2015 I 1474
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -80,16 +80,14 @@ von Saatgut, Futtermitteln oder Lebensmitteln bleiben unberührt.
 
 ## § 2 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Einzelheiten der Verwendung des Öko-
-Kennzeichens zu regeln, soweit dies erforderlich ist, um eine
-einheitliche Kennzeichnung oder eine eindeutige Erkennbarkeit der
-Erzeugnisse zu gewährleisten.
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Einzelheiten der Verwendung des Öko-Kennzeichens zu regeln, soweit
+dies erforderlich ist, um eine einheitliche Kennzeichnung oder eine
+eindeutige Erkennbarkeit der Erzeugnisse zu gewährleisten.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die Gestaltung des Öko-Kennzeichens,
 
@@ -104,9 +102,8 @@ Aufgabe der Bundesanstalt für Landwirtschaft und Ernährung einer
 sachkundigen, unabhängigen und zuverlässigen Person des Privatrechts
 übertragen werden.
 
-(3) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung ohne
-Zustimmung des Bundesrates
+(3) Das Bundesministerium Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  Verweisungen auf Vorschriften der Verordnung (EG) Nr. 834/2007 in
     diesem Gesetz zu ändern, soweit es zur Anpassung an Änderungen dieser

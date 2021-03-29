@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2001, 2376
 
 Zuletzt geändert durch
-:   Art. 2 G v. 9.12.2010 I 1885
+:   Art. 3 G v. 2.10.2015 I 1610
 
 
 ## Teil 1 - Allgemeines zur Förderung
@@ -837,16 +837,8 @@ Ehegatten ist nicht zulässig.
     Unterhaltsvorschussgesetz,
 
 
-5.2 die nach § 3 Nr. 48 des Einkommensteuergesetzes steuerfreien
-
-    a)  allgemeinen Leistungen nach § 5 des Unterhaltssicherungsgesetzes,
-
-
-    b)  Leistungen für Grundwehrdienst leistende Sanitätsoffiziere nach § 12a
-        des Unterhaltssicherungsgesetzes,
-
-
-
+5.2 die nach § 3 Nummer 48 des Einkommensteuergesetzes steuerfreien
+    allgemeinen Leistungen nach § 17 des Unterhaltssicherungsgesetzes,
 
 
 5.3 (weggefallen)
@@ -921,8 +913,8 @@ Ehegatten ist nicht zulässig.
     gezahlt werden,
 
 
-7.1 die Leistungen zur Sicherung des Lebensunterhalts nach den §§ 19 bis
-    22 und 28 des Zweiten Buches Sozialgesetzbuch,
+7.1 das Arbeitslosengeld II und das Sozialgeld nach § 19 Absatz 1 des
+    Zweiten Buches Sozialgesetzbuch,
 
 
 7.2 die Leistungen der Hilfe zum Lebensunterhalt nach den §§ 27 bis 30 des
@@ -930,7 +922,7 @@ Ehegatten ist nicht zulässig.
 
 
 7.3 die Leistungen der Grundsicherung im Alter und bei Erwerbsminderung
-    nach § 42 Nr. 1 bis 3 des Zwölften Buches Sozialgesetzbuch mit
+    nach § 42 Nummer 1, 2 und 4 des Zwölften Buches Sozialgesetzbuch mit
     Ausnahme der Leistungen für einmalige Bedarfe,
 
 

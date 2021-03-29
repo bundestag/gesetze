@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1957, 529
 
 Neugefasst durch
-:   Bek. v. 14. 5.1997 I 1134;
+:   Bek. v. 14.5.1997 I 1134
 
 Zuletzt geändert durch
-:   Art. 3 G v. 28.4.2011 I 678
+:   Art. 5 V v. 20.8.2013 I 3286
 
 
 ## Erster Abschnitt - Erholungs- und Heimaturlaub
@@ -32,11 +32,12 @@ Für den Erholungsurlaub der Berufssoldatinnen, Berufssoldaten,
 Soldatinnen auf Zeit und Soldaten auf Zeit gelten die Vorschriften für
 Bundesbeamtinnen und Bundesbeamte entsprechend, sofern sich aus den
 folgenden Vorschriften nichts anderes ergibt. Die für die Beamtinnen
-und Beamten geltenden Vorschriften über Zusatzurlaub für Schichtdienst
-sind mit der Maßgabe anzuwenden, daß Zeiten eines Schicht- und
-Nachtdienstes, für die Urlaub nach § 6 oder Freistellung zum Ausgleich
-für besondere zeitliche Belastungen gewährt werden kann, bei der
-Bemessung des Zusatzurlaubs unberücksichtigt bleiben.
+und Beamten geltenden Vorschriften über Zusatzurlaub für Dienst zu
+wechselnden Zeiten sind mit der Maßgabe anzuwenden, daß Zeiten eines
+Dienstes zu wechselnden Zeiten, für die Urlaub nach § 6 oder
+Freistellung zum Ausgleich für besondere zeitliche Belastungen gewährt
+werden kann, bei der Bemessung des Zusatzurlaubs unberücksichtigt
+bleiben.
 
 
 ### (XXXX) §§ 2 und 3 (weggefallen)
@@ -63,10 +64,10 @@ Zwölftel des Jahreserholungsurlaubs zu gewähren.
 ### § 5 Erholungsurlaub der sonstigen Soldatinnen und Soldaten
 
 (1) Soldatinnen und Soldaten, die Wehrdienst nach Maßgabe des
-Wehrpflichtgesetzes leisten, erhalten für jeden vollen Monat ihrer
-Dienstzeit ein Zwölftel des Jahreserholungsurlaubs nach § 1, wenn die
-Dauer des ohne Unterbrechung abgeleisteten Wehrdienstes mindestens
-einen Monat beträgt.
+Wehrpflichtgesetzes oder des § 58b des Soldatengesetzes leisten,
+erhalten für jeden vollen Monat ihrer Dienstzeit ein Zwölftel des
+Jahreserholungsurlaubs nach § 1, wenn die Dauer des ohne Unterbrechung
+abgeleisteten Wehrdienstes mindestens einen Monat beträgt.
 
 (2) Absatz 1 gilt entsprechend für Soldatinnen und Soldaten, die
 Dienstleistungen nach § 60 des Soldatengesetzes erbringen.

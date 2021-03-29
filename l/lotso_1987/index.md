@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 1290
 
 Zuletzt geändert durch
-:   Art. 106 G v. 8.12.2010 I 1864
+:   Art. 68 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -86,20 +86,10 @@ Lotsenversetzpositionen bei den Tonnen "Landtief B" und "Osttief 2".
 Anlagen 1, 2 und 3 ersichtlich.
 
 
-## § 3 Aufsichtsbehörden
+## § 3 Aufsichtsbehörde
 
-Aufsichtsbehörden für das Seelotswesen sind
-
-1.  die Wasser- und Schiffahrtsdirektion Nordwest für die Seelotsreviere
-    Ems, Weser I und Weser II/Jade und
-
-
-2.  die Wasser- und Schiffahrtsdirektion Nord für die Seelotsreviere Elbe,
-    Nord-Ostsee-Kanal I, Nord-Ostsee-Kanal II/Kieler
-    Förde/Trave/Flensburger Förde und Wismar/Rostock/Stralsund.
-
-
-
+Aufsichtsbehörde für die Seelotsreviere ist die Generaldirektion
+Wasserstraßen und Schifffahrt.
 
 
 ## § 4 Ermächtigung der Aufsichtsbehörden zum Erlaß von Lotsverordnungen
@@ -325,26 +315,30 @@ wird auf die Aufsichtsbehörde übertragen.
 
 Der Bundesminister für Verkehr
 
+(zu § 2 Abs. 8)
 
-## Anlage 1 (zu § 2 Abs. 8) Bereich Nordsee
+## Anlage 1 Bereich Nordsee
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 939)
 
+(zu § 2 Abs. 8)
 
-## Anlage 2 (zu § 2 Abs. 8) Bereich Ostsee, Teil 1
+## Anlage 2 Bereich Ostsee, Teil 1
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 940)
 
+(zu § 2 Abs. 8)
 
-## Anlage 3 (zu § 2 Abs. 8) Bereich Ostsee, Teil 2
+## Anlage 3 Bereich Ostsee, Teil 2
 
 (Inhalt: Nicht darstellbare geographische Karte,
 Fundstelle: BGBl. I 1995, 941)
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
+## Anhang EV (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

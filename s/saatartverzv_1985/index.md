@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 27.10.2004 I 2696;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 25.10.2012 I 2270
+:   Art. 1 V v. 18.7.2018 I 1214
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -325,7 +325,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.12
 
-    *   Lolium x boucheanum Kunth
+    *   Lolium x hybridum Hausskn.
 
     *   Bastardweidelgras
 
@@ -589,7 +589,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Brassica juncea (L.) Czern.
 
-    *   Sareptasenf
+    *   Sareptasenf, außer zur Nutzung als Blattgemüse
 
 
 *    *   1.3.2
@@ -724,13 +724,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *
 
 *    *
-    *   \_ Cepa Gruppe
+    *   _ Cepa Gruppe
 
     *   Zwiebel, Echalion
 
 
 *    *
-    *   \_ Aggregatum Gruppe
+    *   _ Aggregatum Gruppe
 
     *   Schalotte
 
@@ -893,57 +893,58 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   2.24
 
-    *   Lycopersicon esculentum Mill. Tomate
-
-    *
-
-*    *   2.25
-
     *   Petroselinum crispum (Mill.)Nyman ex A. W. Hill
 
     *   Petersilie
 
 
-*    *   2.26
+*    *   2.25
 
     *   Phaseolus coccineus L.
 
     *   Prunkbohne, Feuerbohne
 
 
-*    *   2.27
+*    *   2.26
 
     *   Phaseolus vulgaris L.
 
     *   Gartenbohne, Buschbohne, Stangenbohne
 
 
-*    *   2.28
+*    *   2.27
 
     *   Pisum sativum L. (partim)
 
     *   Erbse, Markerbse, Schalerbse, Zuckererbse außer Futtererbse
 
 
-*    *   2.29
+*    *   2.28
 
     *   Raphanus sativus L.
 
     *   Radieschen, Rettich
 
 
-*    *   2.30
+*    *   2.29
 
     *   Rheum rhabarbarum L.
 
     *   Rhabarber
 
 
-*    *   2.31
+*    *   2.30
 
     *   Scorzonera hispanica L.
 
     *   Schwarzwurzel
+
+
+*    *   2.31
+
+    *   Solanum lycopersicum L.
+
+    *   Tomate
 
 
 *    *   2.32

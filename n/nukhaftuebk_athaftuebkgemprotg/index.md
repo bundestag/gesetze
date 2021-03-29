@@ -4,7 +4,7 @@ Title: Gesetz zu dem Gemeinsamen Protokoll vom 21. September 1988 über die Anwe
   Protokoll über die Anwendung des Wiener Übereinkommens und des Pariser Übereinkommens)
 jurabk: NukHaftÜbk/AtHaftÜbkGemProtG
 layout: default
-origslug: nukhaft_bk_athaft_bkgemprotg
+origslug: nukhaftuebk_athaftuebkgemprotg
 slug: nukhaftuebk_athaftuebkgemprotg
 
 ---

@@ -4,7 +4,7 @@ Title: Zweite Verordnung zur Übertragung von unternehmensbezogenen Aufgaben nac
   Sonderaufgaben
 jurabk: TreuhUntÜV 2
 layout: default
-origslug: treuhunt_v_2
+origslug: treuhuntuev_2
 slug: treuhuntuev_2
 
 ---
@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1996, 1115
 
 Zuletzt geändert durch
-:   Art. 541 V v. 31.10.2006 I 2407
+:   Art. 593 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -37,8 +37,8 @@ genannten Zeitpunkten auf das Bundesministerium der Finanzen
 übertragen, soweit die in § 2 bezeichneten Unternehmen einschließlich
 ihrer Beteiligungen betroffen sind. Das Bundesministerium der Finanzen
 nimmt diese Aufgaben im Einvernehmen mit dem Bundesministerium für
-Wirtschaft und Technologie und dem jeweils zuständigen
-Bundesministerium wahr.
+Wirtschaft und Energie und dem jeweils zuständigen Bundesministerium
+wahr.
 
 
 ## § 2 Übertragung von Unternehmensbeteiligungen

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2625
 
-Geändert durch
-:   Art. 2 Abs. 80 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 1 G v. 17.7.2017 I 2540
 
 
 ## § 1 Akkreditierung
@@ -103,7 +103,7 @@ Begutachtung nach § 2 Absatz 3 durchführen.
 
 ## § 5 Akkreditierungsbeirat
 
-(1) Beim Bundesministerium für Wirtschaft und Technologie wird ein
+(1) Beim Bundesministerium für Wirtschaft und Energie wird ein
 Akkreditierungsbeirat eingerichtet. Er berät und unterstützt die
 Bundesregierung und die Akkreditierungsstelle in Fragen der
 Akkreditierung.
@@ -130,7 +130,7 @@ Akkreditierung.
 
 
 
-(3) Das Bundesministerium für Wirtschaft und Technologie macht im
+(3) Das Bundesministerium für Wirtschaft und Energie macht im
 Einvernehmen mit den fachlich betroffenen Bundesministerien die vom
 Akkreditierungsbeirat ermittelten Regeln nach Absatz 2 Nummer 1 und 2
 im Bundesanzeiger bekannt.
@@ -160,15 +160,15 @@ Die Mitgliedschaft ist ehrenamtlich. Hinsichtlich der sachverständigen
 Personen nach Absatz 4 Nummer 1 und 2, sofern es sich um Stellen der
 Länder handelt, steht den Ländern das Vorschlagsrecht zu.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie beruft im
-Einvernehmen mit den in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten
+(5) Das Bundesministerium für Wirtschaft und Energie beruft im
+Einvernehmen mit den in § 8 Absatz 1 Nummer 1 bis 7 genannten
 Bundesministerien für die Dauer von drei Jahren die Mitglieder des
 Akkreditierungsbeirates und für jedes Mitglied einen Vertreter oder
 eine Vertreterin. Die Zahl der Mitglieder soll 15 nicht überschreiten.
 Der Akkreditierungsbeirat wählt den Vorsitzenden oder die Vorsitzende
 aus seiner Mitte. Die Wahl des Vorsitzenden oder der Vorsitzenden
 bedarf der Bestätigung durch das Bundesministerium für Wirtschaft und
-Technologie.
+Energie.
 
 (6) Die obersten Bundes- und Landesbehörden oder die von diesen
 bestimmten Stellen sowie die Akkreditierungsstelle haben das Recht, an
@@ -177,9 +177,8 @@ werden sowie Tagesordnungspunkte anzumelden und Beratungsunterlagen
 einzubringen.
 
 (7) Der Akkreditierungsbeirat gibt sich eine Geschäftsordnung, die der
-Zustimmung des Bundesministeriums für Wirtschaft und Technologie und
-der in § 8 Absatz 1 Nummer 1 und 3 bis 7 genannten Bundesministerien
-bedarf.
+Zustimmung des Bundesministeriums für Wirtschaft und Energie und der
+in § 8 Absatz 1 Nummer 1 bis 7 genannten Bundesministerien bedarf.
 
 (8) Der Akkreditierungsbeirat richtet sektorbezogene Fachbeiräte ein.
 Diese haben insbesondere die Aufgabe, den Akkreditierungsbeirat bei
@@ -199,9 +198,9 @@ für Materialforschung und -prüfung.
 auf Antrag gestatten, ein Symbol zu verwenden, das auf ihre
 Akkreditierung hinweist (Akkreditierungssymbol).
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf, Folgendes zu regeln:
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf, Folgendes zu regeln:
 
 1.  die Gestaltung und den Schutz des Akkreditierungssymbols,
 
@@ -217,26 +216,30 @@ Bundesrates bedarf, Folgendes zu regeln:
 
 ## § 7 Gebühren und Auslagen
 
-(1) Für Amtshandlungen der Akkreditierungsstelle auf Grund dieses
-Gesetzes und der Verordnung (EG) Nr. 765/2008 werden zur Deckung des
-Verwaltungsaufwands Gebühren und Auslagen erhoben. Soweit die
-gebühren- und auslagenpflichtigen Amtshandlungen der Umsatzsteuer
+(1) Für individuell zurechenbare öffentliche Leistungen der
+Akkreditierungsstelle auf Grund dieses Gesetzes und der Verordnung
+(EG) Nr. 765/2008 werden zur Deckung des Verwaltungsaufwands Gebühren
+und Auslagen erhoben. Im Falle einer von Amts wegen zu erbringenden
+individuell zurechenbaren öffentlichen Leistung kann die
+Akkreditierungsstelle verlangen, dass bis zur Höhe der voraussichtlich
+entstehenden Gebühren und Auslagen ein Vorschuss gezahlt oder eine
+Sicherheit geleistet wird. Soweit die Leistungen der Umsatzsteuer
 unterliegen, erhöhen sich die Gebühren und Auslagen um die gesetzliche
 Umsatzsteuer.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-bedarf, die gebührenpflichtigen Tatbestände, die Gebührensätze und die
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+im Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+gebührenpflichtigen Tatbestände, die Gebührensätze und die
 Auslagenerstattung näher zu bestimmen und dabei feste Sätze oder
 Rahmensätze vorzusehen. Die Gebührensätze sind so zu bemessen, dass
-der mit den Amtshandlungen verbundene gesamte Personal- und
-Sachaufwand abgedeckt wird.
+der mit den individuell zurechenbaren öffentlichen Leistungen
+verbundene gesamte Personal- und Sachaufwand abgedeckt wird.
 
 
 ## § 8 Beleihung oder Errichtung
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann im
+(1) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem
 
 1.  Bundesministerium des Innern,
@@ -248,16 +251,16 @@ Einvernehmen mit dem
 3.  Bundesministerium für Arbeit und Soziales,
 
 
-4.  Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz,
+4.  Bundesministerium für Ernährung und Landwirtschaft,
 
 
 5.  Bundesministerium für Gesundheit,
 
 
-6.  Bundesministerium für Verkehr, Bau und Stadtentwicklung,
+6.  Bundesministerium für Verkehr und digitale Infrastruktur,
 
 
-7.  Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+7.  Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 
 
 
@@ -278,9 +281,9 @@ Bestimmungen getroffen werden über
 
 (2) Für den Fall, dass eine juristische Person des Privatrechts nicht
 nach Absatz 1 beliehen wird oder die Beleihung nach § 10 Absatz 3
-beendet wird, kann das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit den in Absatz 1 genannten Ministerien
-ein Bundesamt für Akkreditierung errichten.
+beendet wird, kann das Bundesministerium für Wirtschaft und Energie im
+Einvernehmen mit den in Absatz 1 genannten Ministerien ein Bundesamt
+für Akkreditierung errichten.
 
 
 ## § 9 Aufsicht
@@ -312,7 +315,7 @@ geschäftliche Unterlagen können im erforderlichen Umfang eingesehen
 und in Verwahrung genommen werden.
 
 (3) Die Bundesministerien können die Aufsicht auf eine nachgeordnete
-Behörde oder das Bundesministerium für Wirtschaft und Technologie
+Behörde oder das Bundesministerium für Wirtschaft und Energie
 übertragen.
 
 
@@ -366,7 +369,7 @@ Anspruch auf Ausgleich.
 
 Die zur Geschäftsführung berechtigten Personen der Beliehenen müssen
 zuverlässig sein. Die Bestellung zur Geschäftsführung ist dem
-Bundesministerium für Wirtschaft und Technologie durch die Beliehene
+Bundesministerium für Wirtschaft und Energie durch die Beliehene
 anzuzeigen. Dabei hat die Beliehene die Tatsachen anzugeben, die für
 die Beurteilung der Zuverlässigkeit und Eignung wesentlich sind.
 
@@ -382,14 +385,14 @@ Euro geahndet werden.
 
 ## § 13 Übergangsbestimmungen
 
-(1) Überwachungspflichten für Akkreditierungen, die vor dem 1. Januar
-2010 erteilt wurden, gehen zum Zeitpunkt des Wirksamwerdens der
-Beleihung nach § 8 Absatz 1 auf die Akkreditierungsstelle nach diesem
-Gesetz über.
+(1) § 5 Absatz 5 Satz 1 in der ab dem 25. Juli 2017 geltenden Fassung
+ist nicht auf Mitglieder des Akkreditierungsbeirats und deren
+Vertreterinnen und Vertreter anzuwenden, die ihr Mandat am 25. Juli
+2017 bereits innehaben.
 
-(2) Die Akkreditierungsstelle darf bis zum 31. Dezember 2014 nach § 29
-des Bundesbeamtengesetzes oder § 20 des Beamtenstatusgesetzes
-zugewiesene Beamte und Beamtinnen beschäftigen.
+(2) § 5 Absatz 7 in der ab dem 25. Juli 2017 geltenden Fassung ist
+erstmals auf eine Änderung oder einen Neuerlass der Geschäftsordnung
+anzuwenden, die oder der nach dem 24. Juli 2017 erfolgt.
 
 
 ## § 14 Inkrafttreten

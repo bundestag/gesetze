@@ -22,25 +22,24 @@ Geändert durch
 ## § 1
 
 (1) Verletzt ein
-Reichsbeamter              in Ausübung der ihm anvertrauten
-öffentlichen Gewalt vorsätzlich oder fahrlässig die ihm einem Dritten
-gegenüber obliegende Amtspflicht, so trifft die in § 839 des
-Bürgerlichen Gesetzbuchs bestimmte Verantwortlichkeit an Stelle des
-Beamten das
+Reichsbeamter in Ausübung der ihm anvertrauten öffentlichen Gewalt
+vorsätzlich oder fahrlässig die ihm einem Dritten gegenüber obliegende
+Amtspflicht, so trifft die in § 839 des Bürgerlichen Gesetzbuchs
+bestimmte Verantwortlichkeit an Stelle des Beamten das
 Reich.
 
 (2) Ist die Verantwortlichkeit des Beamten deshalb ausgeschlossen,
 weil er den Schaden im Zustand der Bewußtlosigkeit oder in einem die
 freie Willensbestimmung ausschließenden Zustand krankhafter Störung
 der Geistestätigkeit verursacht hat, so hat gleichwohl das
-Reich              den Schaden zu ersetzen, wie wenn dem Beamten
-Fahrlässigkeit zur Last fiele, jedoch nur insoweit, als die Billigkeit
-die Schadloshaltung erfordert.
+Reich den Schaden zu ersetzen, wie wenn dem Beamten Fahrlässigkeit zur
+Last fiele, jedoch nur insoweit, als die Billigkeit die
+Schadloshaltung erfordert.
 
 (3) Personen des Soldatenstandes
-mit Ausnahme derjenigen des Königlich Bayerischen Kontingents
-stehen im Sinne dieses Gesetzes den
-Reichsbeamten              gleich.
+mit Ausnahme derjenigen des Königlich Bayerischen Kontingents stehen
+im Sinne dieses Gesetzes den
+Reichsbeamten gleich.
 
 
 ## § 2
@@ -51,9 +50,8 @@ Reichsbeamten              gleich.
 ## § 3
 
 (1) Für die Ansprüche, welche auf Grund dieses Gesetzes gegen das
-Reich              erhoben werden, sind die Landgerichte ohne
-Rücksicht auf den Wert des Streitgegenstandes ausschließlich
-zuständig.
+Reich erhoben werden, sind die Landgerichte ohne Rücksicht auf den
+Wert des Streitgegenstandes ausschließlich zuständig.
 
 (2) In bürgerlichen Rechtsstreitigkeiten, in welchen durch Klage oder
 Widerklage ein Anspruch auf Grund dieses Gesetzes geltend gemacht ist,
@@ -79,8 +77,8 @@ Die Vorschriften dieses Gesetzes finden keine Anwendung:
 2.  soweit es sich um das Verhalten eines mit Angelegenheiten des
     auswärtigen Dienstes befaßten Beamten handelt und dieses Verhalten
     nach einer amtlichen Erklärung des
-    Reichskanzlers                    politischen oder internationalen
-    Rücksichten entsprochen hat.
+    Reichskanzlers politischen oder internationalen Rücksichten
+    entsprochen hat.
 
 
 
@@ -89,9 +87,8 @@ Die Vorschriften dieses Gesetzes finden keine Anwendung:
 ## § 6
 
 Unberührt bleiben die Vorschriften anderer
-Reichsgesetze,              soweit sie für bestimmte Fälle die Haftung
-des
-Reichs              über einen gewissen Umfang hinaus ausschließen.
+Reichsgesetze, soweit sie für bestimmte Fälle die Haftung des
+Reichs über einen gewissen Umfang hinaus ausschließen.
 
 
 ## § 7

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 1658
 
 Zuletzt geändert durch
-:   Art. 37 G v. 9.12.2010 I 1934
+:   Art. 414 V v. 31.8.2015 I 1474
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 1999/105/EG des Rates
 vom 22. Dezember 1999 über den Verkehr mit forstlichem Vermehrungsgut
@@ -266,14 +266,13 @@ Im Sinne dieses Gesetzes sind
 
 ### § 3 Ermächtigung zur Änderung der Baumartenliste
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates forstliches
-Vermehrungsgut weiterer Baumarten und künstlicher Hybriden den
-Vorschriften dieses Gesetzes vollständig oder teilweise zu
-unterwerfen, soweit dies zur Durchführung von Rechtsakten der
-Europäischen Gemeinschaft oder der Europäischen Union erforderlich
-ist.
+Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates forstliches Vermehrungsgut weiterer
+Baumarten und künstlicher Hybriden den Vorschriften dieses Gesetzes
+vollständig oder teilweise zu unterwerfen, soweit dies zur
+Durchführung von Rechtsakten der Europäischen Gemeinschaft oder der
+Europäischen Union erforderlich ist.
 
 
 ## Abschnitt 2 - Zulassung
@@ -1076,8 +1075,9 @@ Vorschriften, die zum Erlass von Rechtsverordnungen ermächtigen,
 treten am Tage nach der Verkündung in Kraft. Im Übrigen tritt dieses
 Gesetz am 1. Januar 2003 in Kraft.
 
+(zu § 2 Nr. 1)
 
-### Anlage (zu § 2 Nr. 1) Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
+### Anlage Liste der Baumarten und künstlichen Hybriden, die der Richtlinie 1999/105/EG unterliegen
 
 Fundstelle des Originaltextes: BGBl. I 2002, 1666
 

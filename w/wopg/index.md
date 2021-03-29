@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 30.10.1997 I 2678;
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.4.2011 I 554
+:   Art. 9 G v. 18.7.2014 I 1042
 
 
 ## § 1 Prämienberechtigte
@@ -131,12 +131,12 @@ Die Vereinbarung über die Erhöhung der Bausparsumme ist als
 selbständiger Vertrag zu behandeln. Als Wohnungsbau im Sinne der
 Nummern 1 und 2 gelten auch bauliche Maßnahmen des Mieters zur
 Modernisierung seiner Wohnung. Dies gilt ebenfalls für den ersten
-Erwerb von Anteilen an Wohnungsgenossenschaften im Sinne des Absatzes
-1 Nr. 2 und den Erwerb von Rechten zur dauernden Selbstnutzung von
-Wohnraum in Alten-, Altenpflege- und Behinderteneinrichtungen oder
--anlagen. Die Unschädlichkeit setzt weiter voraus, daß die empfangenen
-Beträge nicht zum Wohnungsbau im Ausland eingesetzt werden, sofern
-nichts anderes bestimmt ist.
+Erwerb von Anteilen an Bau- und Wohnungsgenossenschaften im Sinne des
+Absatzes 1 Nr. 2 und den Erwerb von Rechten zur dauernden
+Selbstnutzung von Wohnraum in Alten-, Altenpflege- und
+Behinderteneinrichtungen oder -anlagen. Die Unschädlichkeit setzt
+weiter voraus, daß die empfangenen Beträge nicht zum Wohnungsbau im
+Ausland eingesetzt werden, sofern nichts anderes bestimmt ist.
 
 (3) Für vor dem 1. Januar 2009 abgeschlossene Verträge, für die bis
 zum 31. Dezember 2008 mindestens ein Beitrag in Höhe der Regelsparrate
@@ -180,7 +180,7 @@ des Einkommensteuergesetzes) des Sparjahrs (§ 4 Abs. 1). Bei Ehegatten
 ist das zu versteuernde Einkommen maßgebend, das sich bei einer
 Zusammenveranlagung nach § 26b des Einkommensteuergesetzes ergeben hat
 oder, falls eine Veranlagung nicht durchgeführt worden ist, ergeben
-würde\*
+würde.
 
 
 ## § 2b
@@ -195,15 +195,18 @@ geleisteten prämienbegünstigten Aufwendungen. Sie beträgt 8,8 Prozent
 der Aufwendungen.
 
 (2) Die Aufwendungen des Prämienberechtigten sind je Kalenderjahr bis
-zu einem Höchstbetrag vom 512 Euro, bei Ehegatten (Absatz 3) zusammen
+zu einem Höchstbetrag von 512 Euro, bei Ehegatten (Absatz 3) zusammen
 bis zu 1.024 Euro prämienbegünstigt. Die Höchstbeträge stehen den
 Prämienberechtigten gemeinsam zu (Höchstbetragsgemeinschaft).
 
 (3) Ehegatten im Sinne dieses Gesetzes sind Personen, welche nach §
-26b des Einkommensteuergesetzes zusammen veranlagt werden oder, falls
-eine Veranlagung zur Einkommensteuer nicht durchgeführt wird, die
-Voraussetzungen des § 26 Abs. 1 Satz 1 des Einkommensteuergesetzes
-erfüllen.
+26b des Einkommensteuergesetzes zusammen veranlagt werden oder die,
+falls eine Veranlagung zur Einkommensteuer nicht durchgeführt wird,
+die Voraussetzungen des § 26 Absatz 1 Satz 1 des
+Einkommensteuergesetzes erfüllen. Die Regelungen dieses Gesetzes zu
+Ehegatten sind auch auf Lebenspartner anzuwenden, wenn in Verbindung
+mit § 2 Absatz 8 des Einkommensteuergesetzes die Voraussetzungen des
+Satzes 1 erfüllt sind.
 
 
 ## § 4 Prämienverfahren allgemein

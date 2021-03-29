@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 134
 
 Zuletzt geändert durch
-:   Art. 6 G v. 11.8.2009 I 2723
+:   Art. 226 V v. 31.8.2015 I 1474
 
 
 ## Erster Teil - Allgemeine Vorschriften und Grundsätze über den freihändigen Erwerb
@@ -1460,15 +1460,14 @@ Flugplätze und ähnliche Vorhaben in Anspruch genommen worden sind,
 sofern die Inanspruchnahme der Grundstücke
 nach Artikel 48 des Vertrags über die Rechte und Pflichten
 ausländischer Streitkräfte und ihrer Mitglieder in der Bundesrepublik
-Deutschland (Truppenvertrag) vom 23. Oktober 1954              und dem
-Gesetz über die vorläufige Fortgeltung der Inanspruchnahme von
-Gegenständen für Zwecke der ausländischen Streitkräfte und ihrer
-Mitglieder vom 3. Juli 1956 (Bundesgesetzbl. I S. 639) am 31. Dezember
-1956 noch fortbesteht und die Grundstücke für die in § 1 Abs. 1
-genannten Zwecke weiterhin benötigt werden. Die Vorschriften des
-Bundesleistungsgesetzes vom 19. Oktober 1956 (Bundesgesetzbl. I S.
-815) und des Schutzbereichgesetzes vom 7. Dezember 1956
-(Bundesgesetzbl. I S. 899) bleiben unberührt.
+Deutschland (Truppenvertrag) vom 23. Oktober 1954 und dem Gesetz über
+die vorläufige Fortgeltung der Inanspruchnahme von Gegenständen für
+Zwecke der ausländischen Streitkräfte und ihrer Mitglieder vom 3. Juli
+1956 (Bundesgesetzbl. I S. 639) am 31. Dezember 1956 noch fortbesteht
+und die Grundstücke für die in § 1 Abs. 1 genannten Zwecke weiterhin
+benötigt werden. Die Vorschriften des Bundesleistungsgesetzes vom 19.
+Oktober 1956 (Bundesgesetzbl. I S. 815) und des Schutzbereichgesetzes
+vom 7. Dezember 1956 (Bundesgesetzbl. I S. 899) bleiben unberührt.
 
 (3) Hinsichtlich der in den Absätzen 1 und 2 genannten Grundstücke
 gilt die Inanspruchnahme vom 5. Mai 1955, 12 Uhr an bis zum 31.
@@ -1565,8 +1564,8 @@ Körperschaft des öffentlichen Rechts verkauft hat; diese ist vor der
 Ausübung des Vorkaufsrechts zu hören.
 
 (2) Das Bundesministerium des Innern kann im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-die Siedlungsunternehmen und Landlieferungsverbände im Sinne des
+Bundesministerium für Ernährung und Landwirtschaft die
+Siedlungsunternehmen und Landlieferungsverbände im Sinne des
 Reichssiedlungsgesetzes durch Rechtsverordnung, die der Zustimmung des
 Bundesrates bedarf, verpflichten,
 
@@ -1609,14 +1608,14 @@ nach § 11 dieses Gesetzes das Verlangen des Eigentümers oder des in §
 
 (1) Das Verfahren vor der Enteignungsbehörde ist gebührenfrei.
 
-(2) Geschäfte und Verhandlungen, die der Durchführung dieses Gesetzes
-dienen, einschließlich der Berichtigung der öffentlichen Bücher, sind
-frei von Gebühren, Steuern, Kosten und Abgaben, mit Ausnahme der in
-der Kostenordnung bestimmten Beurkundungs- und Beglaubigungskosten;
-hiervon unberührt bleiben Regelungen hinsichtlich der Steuern mit
-örtlich bedingtem Wirkungskreis, insbesondere der Grunderwerbsteuer,
-sowie hinsichtlich der Gebühren, Kosten und Abgaben, die auf
-landesrechtlichen Vorschriften beruhen.
+(2) Verfahren, die der Durchführung dieses Gesetzes dienen,
+einschließlich der Berichtigung der öffentlichen Bücher, sind frei von
+Gebühren, Steuern, Kosten und Abgaben, mit Ausnahme der im Gerichts-
+und Notarkostengesetz bestimmten Beurkundungs- und
+Beglaubigungskosten; hiervon unberührt bleiben Regelungen hinsichtlich
+der Steuern mit örtlich bedingtem Wirkungskreis, insbesondere der
+Grunderwerbsteuer, sowie hinsichtlich der Gebühren, Kosten und
+Abgaben, die auf landesrechtlichen Vorschriften beruhen.
 
 (3) Die Gebühren-, Steuern-, Kosten- und Abgabenfreiheit ist von der
 zuständigen Behörde ohne Nachprüfung anzuerkennen, wenn die

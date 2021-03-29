@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1958, 605
 
 Zuletzt geändert durch
-:   Art. 20 G v. 7.9.2007 I 2246
+:   Art. 71 G v. 8.7.2016 I 1594
 
 
 ## § 1
@@ -58,15 +58,15 @@ Sorte, Qualität und Handelsbedingungen bezeichnete Güter.
 
 (2) Auskunftspflichtig sind die landwirtschaftlichen,
 forstwirtschaftlichen und gewerblichen Unternehmen, Behörden und
-Einrichtungen. Die Erhebungen werden bei höchstens 25.000\*)
+Einrichtungen. Die Erhebungen werden bei höchstens 34 000\*)
 Auskunftspflichtigen durchgeführt.
 -----
 
 \*) Gemäß Art. 1 Nr. 1 der Statistikanpassungsverordnung vom 26. März 1991
     (BGBl. I S. 846) gilt abweichend von § 3 Abs. 2 Satz 2:
 
-    "Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab
-    1\. Januar 1995 bei höchstens 34.000 Auskunftspflichtigen
+    "Die Erhebungen werden bei höchstens 50 000 Auskunftspflichtigen, ab
+    1\. Januar 1995 bei höchstens 34 000 Auskunftspflichtigen
     durchgeführt."
 
 
@@ -80,15 +80,15 @@ nach Arten und Merkmalen bezeichnete Werk- und Dienstleistungen.
 
 (2) Auskunftspflichtig sind die Unternehmen und selbständig tätigen
 Personen des Werk- und Dienstleistungsbereichs sowie Behörden und
-Einrichtungen. Die Erhebungen werden bei höchstens 10.000\*)
+Einrichtungen. Die Erhebungen werden bei höchstens 14 000\*)
 Auskunftspflichtigen durchgeführt.
 -----
 
 \*) Gemäß Art. 1 Nr. 2 der Statistikanpassungsverordnung vom 26. März 1991
     (BGBl. I S. 846) gilt abweichend von § 4 Abs. 2 Satz 2:
 
-    "Die Erhebungen werden bei höchstens 20.000 Auskunftspflichtigen, ab
-    1\. Januar 1995 bei höchstens 14.000 Auskunftspflichtigen
+    "Die Erhebungen werden bei höchstens 20 000 Auskunftspflichtigen, ab
+    1\. Januar 1995 bei höchstens 14 000 Auskunftspflichtigen
     durchgeführt."
 
 
@@ -124,14 +124,14 @@ Verkehrswesens.
 
 
 (2) Auskunftspflichtig sind die Vertragsparteien. Die Erhebungen
-werden bei höchstens 25.000\*) Auskunftspflichtigen durchgeführt.
+werden bei höchstens 38 000\*) Auskunftspflichtigen durchgeführt.
 -----
 
 \*) Gemäß Art. 1 Nr. 3 der Statistikanpassungsverordnung vom 26. März 1991
     (BGBl. I S. 846) gilt abweichend von § 6 Abs. 2 Satz 2:
 
-    "Die Erhebungen werden bei höchstens 50.000 Auskunftspflichtigen, ab
-    1\. Januar 1995 bei höchstens 38.000 Auskunftspflichtigen
+    "Die Erhebungen werden bei höchstens 50 000 Auskunftspflichtigen, ab
+    1\. Januar 1995 bei höchstens 38 000 Auskunftspflichtigen
     durchgeführt."
 
 
@@ -149,15 +149,44 @@ der Gutachterausschüsse für Grundstückswerte.
 
 ## § 7a
 
-Für Unternehmen, deren Inhaber Existenzgründer im Sinne des § 7g Abs.
-7 Satz 2 und 3 des Einkommensteuergesetzes in der Fassung der
-Bekanntmachung vom  19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179)
-sind, besteht im Kalenderjahr der Betriebseröffnung abweichend von § 3
-Abs. 2 Satz 1, § 4 Abs. 2 Satz 1 und § 5 Abs. 2 keine
-Auskunftspflicht. In den beiden folgenden Kalenderjahren besteht dann
-keine Auskunftspflicht, wenn das Unternehmen im letzten
-abgeschlossenen Geschäftsjahr Umsätze in Höhe von weniger als 500.000
-Euro erwirtschaftet hat.
+Hilfsmerkmale der Erhebungen sind:
+
+1.  Name, Anschrift, Telefonnummern und Adressen für elektronische Post
+    der Erhebungseinheiten,
+
+
+2.  Name, Telefonnummern und Adressen für elektronische Post der für
+    Rückfragen zur Verfügung stehenden Personen sowie
+
+
+3.  für die Erhebung nach § 6 Absatz 1 Nummer 1 zusätzlich Name und
+    Anschrift der Verwaltungseinheit, Gebäude- und Wohnungsnummer sowie
+    Lage der Wohnung im Gebäude.
+
+
+
+
+
+## § 7b
+
+(1) Für die Erhebungen besteht Auskunftspflicht. Die Angaben zu § 7a
+Nummer 2 sind freiwillig.
+
+(2) Für Unternehmen, deren Inhaber Existenzgründer sind, besteht im
+Kalenderjahr der Betriebseröffnung abweichend von § 3 Absatz 2 Satz 1,
+§ 4 Absatz 2 Satz 1 und § 5 Absatz 2 keine Auskunftspflicht. In den
+beiden folgenden Kalenderjahren besteht dann keine Auskunftspflicht,
+wenn das Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze
+in Höhe von weniger als 800 000 Euro erwirtschaftet hat.
+Gesellschaften können sich auf die Befreiung von der Auskunftspflicht
+berufen, wenn alle an der Gesellschaft Beteiligten Existenzgründer
+sind.
+
+(3) Existenzgründer im Sinne von Absatz 2 sind natürliche Personen,
+die eine gewerbliche oder freiberufliche Tätigkeit in Form einer
+Neugründung, einer Übernahme oder einer tätigen Beteiligung aus
+abhängiger Beschäftigung oder aus der Nichtbeschäftigung heraus
+aufnehmen.
 
 
 ## § 8
@@ -186,8 +215,8 @@ der Entgelte für die Vercharterung von Schiffen vom Statistischen
 Bundesamt erhoben und aufbereitet, soweit nicht die Bundesregierung
 gemäß
 § 9 Abs. 2 des Gesetzes über die Statistik für Bundeszwecke (StatG)
-vom 3. September 1953 (Bundesgesetzbl. I S. 1314)              etwas
-anderes bestimmt.
+vom 3. September 1953 (Bundesgesetzbl. I S. 1314) etwas anderes
+bestimmt.
 
 (2) Absatz 1 gilt hinsichtlich der Preise für Verkehrsleistungen der
 Eisenbahn nicht im Land Berlin.

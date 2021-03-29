@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "50 Jahre SOS-Kinderdörfer")
 jurabk: Münz10DMBek 1999-05-17
 layout: default
-origslug: m_nz10dmbek_1999-05-17
+origslug: muenz10dmbek_1999-05-17
 slug: muenz10dmbek_1999-05-17
 
 ---
@@ -42,7 +42,7 @@ Organisation SOS-Kinderdörfer. Die Umschrift lautet:
 
 *
     *   "50 JAHRE SOS-KINDERDÖRFER
-        \* 1949 - 1999 \*
+        * 1949 - 1999 \*
 
 
 
@@ -69,7 +69,7 @@ Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 *
     *   "SOS-KINDERDÖRFER
-        \* EINE IDEE FÜR DIE WELT".
+        * EINE IDEE FÜR DIE WELT".
 
 
 

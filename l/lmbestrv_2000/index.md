@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2000, 1730
 
 Zuletzt geändert durch
-:   Art. 7 V v. 13.12.2011 I 2720
+:   Art. 5 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -171,13 +171,13 @@ die Aufschluss geben über
 (1) Bestrahlte getrocknete aromatische Kräuter und Gewürze - auch aus
 einem Drittland - müssen von dem, der diese in den Verkehr bringt,
 spätestens bei der Abgabe an den Verbraucher, wobei dem Verbraucher
-Gaststätten, Einrichtungen zur Gemeinschaftsverpflegung sowie
-Gewerbetreibende, soweit sie Lebensmittel zum Verbrauch innerhalb
-ihrer Betriebsstätte beziehen, gleichstehen, durch die Angabe
-"bestrahlt" oder die Angabe "mit ionisierenden Strahlen behandelt"
-gemäß Absatz 2 und 3 Satz 1 sowie Absatz 4, 5 Satz 1 und Absatz 6
-kenntlich gemacht werden. Dies gilt auch, wenn die Lebensmittel nach
-Satz 1 als Zutaten in einem anderen Lebensmittel enthalten sind.
+Anbieter von Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit
+sie Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte
+beziehen, gleichstehen, durch die Angabe "bestrahlt" oder die Angabe
+"mit ionisierenden Strahlen behandelt" gemäß Absatz 2 und 3 Satz 1
+sowie Absatz 4, 5 Satz 1 und Absatz 6 kenntlich gemacht werden. Dies
+gilt auch, wenn die Lebensmittel nach Satz 1 als Zutaten in einem
+anderen Lebensmittel enthalten sind.
 
 (2) Die Angaben nach Absatz 1 sind gut sichtbar, in leicht lesbarer
 Schrift und unverwischbar anzugeben.
@@ -189,49 +189,53 @@ Schrift und unverwischbar anzugeben.
     Lebensmittel befindet,
 
 
-2.  bei der Abgabe der Lebensmittel in Umhüllungen oder Fertigpackungen
-    nach § 1 Abs. 2 der Lebensmittel-Kennzeichnungsverordnung auf einem
-    Schild über oder neben dem Lebensmittel, auf der Umhüllung oder
-    Fertigpackung,
+2.  bei der Abgabe von Lebensmitteln in Umhüllungen oder als nicht
+    vorverpackte Lebensmittel im Sinne von Artikel 2 Absatz 2 Buchstabe e
+    letzter Halbsatz der Verordnung (EU) Nr. 1169/2011 des Europäischen
+    Parlaments und des Rates vom 25. Oktober 2011 betreffend die
+    Information der Verbraucher über Lebensmittel und zur Änderung der
+    Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des
+    Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie
+    87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der
+    Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des
+    Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und
+    2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der
+    Kommission (ABl. L 304 vom 22.11.2011, S. 18; L 331 vom 18.11.2014, S.
+    41; L 50 vom 21.2.2015, S. 48; L 266 vom 30.9.2016, S. 7) in der
+    jeweils geltenden Fassung: auf einem Schild über oder neben dem
+    Lebensmittel oder auf der Umhüllung,
 
 
-3.  bei der Abgabe der Lebensmittel in Fertigpackungen, die nach der
-    Lebensmittel-Kennzeichnungsverordnung gekennzeichnet sind, auf der
-    Fertigpackung oder auf dem mit ihr verbundenen Etikett,
-
-
-4.  bei der Abgabe der Lebensmittel im Versandhandel auch in den
+3.  bei der Abgabe von Lebensmitteln im Versandhandel auch in den
     Angebotslisten,
 
 
-5.  bei der Abgabe der Lebensmittel in Gaststätten auf Speise- und
-    Getränkekarten,
-
-
-6.  bei der Abgabe der Lebensmittel in Einrichtungen zur
-    Gemeinschaftsverpflegung auf Speisekarten oder in Preisverzeichnissen
-    oder, soweit keine solchen ausgelegt oder ausgehändigt werden, in
-    einem sonstigen Aushang oder in einer schriftlichen Mitteilung.
+4.  bei der Abgabe von Lebensmitteln durch Anbieter von
+    Gemeinschaftsverpflegung auf Speise- und Getränkekarten oder in
+    Preisverzeichnissen oder, soweit keine solchen ausgelegt oder
+    ausgehändigt werden, in einem sonstigen Aushang oder in einer
+    schriftlichen Mitteilung.
 
 
 
-In den Fällen der Nummern 5 und 6 dürfen die vorgeschriebenen Angaben
-in Fußnoten angebracht werden, wenn bei der Verkehrsbezeichnung auf
-diese hingewiesen wird.
+Im Fall der Nummer 4 dürfen die vorgeschriebenen Angaben in Fußnoten
+angebracht werden, wenn bei der Bezeichnung des Lebensmittels auf die
+entsprechende Fußnote hingewiesen wird.
 
 (4) Bei bestrahlten getrockneten aromatischen Kräutern und Gewürzen
 muss die Kenntlichmachung nach Absatz 1 im Falle des Absatzes 3 in
-Verbindung mit der Verkehrsbezeichnung erfolgen.
+Verbindung mit der Bezeichnung des Lebensmittels erfolgen.
 
 (5) Sofern das bestrahlte Lebensmittel Zutat eines zusammengesetzten
 Lebensmittels ist, ist die Zutat in Verbindung mit der
-Kenntlichmachung nach Absatz 1 anzugeben; im Falle des Absatzes 3 Nr.
-3 hat die Angabe im Verzeichnis der Zutaten bei der betreffenden Zutat
-zu erfolgen. § 6 Absatz 2 Nummer 8 Buchstabe b der Lebensmittel-
-Kennzeichnungsverordnung ist nicht anzuwenden.
+Kenntlichmachung nach Absatz 1 anzugeben; im Falle von vorverpackten
+Lebensmitteln, die nach der Verordnung (EU) Nr. 1169/2011 zu
+kennzeichnen sind, hat die Angabe im Verzeichnis der Zutaten bei der
+betreffenden Zutat zu erfolgen. Anhang VII Teil E Nummer 2 Buchstabe a
+und b der Verordnung (EU) Nr. 1169/2011 ist nicht anzuwenden.
 
 (6) Bei Lebensmitteln im Sinne von Absatz 1, die zur Abgabe an andere
-als Verbraucher, wobei dem Verbraucher Gaststätten, Einrichtungen zur
+als Verbraucher, wobei dem Verbraucher Anbieter von
 Gemeinschaftsverpflegung sowie Gewerbetreibende, soweit sie
 Lebensmittel zum Verbrauch innerhalb ihrer Betriebsstätte beziehen,
 gleichstehen, bestimmt sind, müssen in den Begleitdokumenten folgende
@@ -338,13 +342,13 @@ erforderlichen Kriterien getestet sein.
 
 ## § 7 Mitteilungen, Berichte
 
-(1) Die Länder teilen dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz die nach § 4 für die Zulassung
-zuständigen Behörden mit.
+(1) Die Länder teilen dem Bundesministerium für Ernährung und
+Landwirtschaft die nach § 4 für die Zulassung zuständigen Behörden
+mit.
 
 (2) Die zuständigen Behörden übermitteln dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz eine Durchschrift
-jeder Zulassungsverfügung und jeder Änderung dieser Verfügung.
+Ernährung und Landwirtschaft eine Durchschrift jeder
+Zulassungsverfügung und jeder Änderung dieser Verfügung.
 
 (3) Die zuständigen Behörden berichten dem Bundesamt für
 Verbraucherschutz und Lebensmittelsicherheit jeweils zum 31. März

@@ -48,6 +48,5 @@ Bundesministerium der Justiz
 
 ## Anlage Emblem der Inter-American Development Bank
 
-(Inhalt: nicht darstellbares Emblem,
 Fundstelle: BGBl. I 1999, 1095)
-
+![bgbl1_1999_j1095_0010.jpg](bgbl1_1999_j1095_0010.jpg)

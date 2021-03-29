@@ -354,14 +354,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Fremdsprachenkorrespondentin" vom 23. Dezember 1999 (BGBl. 2000 I S.
 10)
 mit folgenden Ergebnissen bestanden:
-**1) Handlungsbereich "Übersetzung"**
-..... Note
+**1) Handlungsbereich "Übersetzung"**                          .....
+Note
 a) Übersetzen eines
 (fremdsprachigen) 1) Textes           ..... Punkte 2)
 b) Übersetzen eines deutschen
 (hauptsprachlichen) 1) Textes         ..... Punkte 2)
-**2) Handlungsbereich "Korrespondenz"**
-..... Note
+**2) Handlungsbereich "Korrespondenz"**                        .....
+Note
 a) Verfassen eines
 (fremdsprachigen) 1)
 Geschäftsbriefes                      ..... Punkte 2)
@@ -372,8 +372,8 @@ c) Schriftliche Zusammenfassung
 einer (fremdsprachigen) 1)
 Nachricht in der (deutschen
 Sprache) (Hauptsprache) 1)            ..... Punkte 2)
-**3) Handlungsbereich "Mündliche**
-..... Note
+**3) Handlungsbereich "Mündliche**                             .....
+Note
 **Kommunikation"**
 a) Gespräch in (der Fremdsprache) 1)     ..... Punkte 2)
 b) Geschäftstelefonat in
@@ -416,14 +416,14 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Fremdsprachenkorrespondentin" vom 23. Dezember 1999 (BGBl. 2000 I S.
 10)
 mit folgenden Ergebnissen bestanden:
-**1) Handlungsbereich "Übersetzung"**
-..... Note
+**1) Handlungsbereich "Übersetzung"**                          .....
+Note
 a) Übersetzen eines (fremdsprachigen) 1)
 Textes ins Deutsche                   ..... Punkte 2)
 b) Übersetzen eines deutschen
 Textes ins (Fremdsprache) 1)          ..... Punkte 2)
-**2) Handlungsbereich "Korrespondenz"**
-..... Note
+**2) Handlungsbereich "Korrespondenz"**                        .....
+Note
 (1. Fremdsprache) 1)
 a) Verfassen eines
 (fremdsprachigen) 1)
@@ -446,8 +446,8 @@ c) Schriftliche Zusammenfassung
 einer (fremdsprachigen) 1)
 Nachricht in der deutschen
 Sprache                            ..... Punkte 2)
-**3) Handlungsbereich "Mündliche**
-..... Note
+**3) Handlungsbereich "Mündliche**                             .....
+Note
 **Kommunikation"**
 a) Gespräch in (in einer der
 beiden Fremdsprachen) 1)              ..... Punkte 2)

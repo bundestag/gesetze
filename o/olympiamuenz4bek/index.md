@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung einer Bundesmünze im Nennwert von 1
   Mark (4. Motiv der Olympiamünze)
 jurabk: OlympiaMünz4Bek
 layout: default
-origslug: olympiam_nz4bek
+origslug: olympiamuenz4bek
 slug: olympiamuenz4bek
 
 ---

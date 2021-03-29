@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Beamtenversorgungsgesetzes, des Soldatenversorgu
   sowie sonstiger versorgungsrechtlicher Vorschriften
 jurabk: BeamtVGÄndG 1993
 layout: default
-origslug: beamtvg_ndg_1993
+origslug: beamtvgaendg_1993
 slug: beamtvgaendg_1993
 
 ---

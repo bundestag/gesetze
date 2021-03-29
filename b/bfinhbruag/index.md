@@ -17,17 +17,20 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 3955, 3962
 
+Geändert durch
+:   Art. 3 G v. 14.8.2017 I 3122
+
 
 
 ## § 1
 
 (1) Der Bund gewährt den Ländern Bremen, Hamburg, Mecklenburg-
-Vorpommern, Niedersachsen sowie Schleswig-Holstein bis zum Jahr 2019
-Finanzhilfen für besonders bedeutsame Investitionen im Bereich der
-Seehäfen, insbesondere für Maßnahmen zur Verbesserung der
-wirtschaftlichen Infrastruktur von Seehäfen wie den Bau oder Ausbau
-von Hafenanlagen, von Verkehrswegen und öffentlichen Verkehrsflächen,
-in Höhe von jährlich insgesamt 3.8346.000 Euro.
+Vorpommern, Niedersachsen sowie Schleswig-Holstein Finanzhilfen für
+besonders bedeutsame Investitionen im Bereich der Seehäfen,
+insbesondere für Maßnahmen zur Verbesserung der wirtschaftlichen
+Infrastruktur von Seehäfen wie den Bau oder Ausbau von Hafenanlagen,
+von Verkehrswegen und öffentlichen Verkehrsflächen, in Höhe von
+jährlich insgesamt 3.8346.000 Euro.
 
 (2) Von dem Jahresbetrag nach Absatz 1 erhalten die Länder
 

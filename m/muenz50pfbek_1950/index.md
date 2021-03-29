@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausgabe von Bundesmünzen im Nennwert von 50 Deu
   Pfennig
 jurabk: Münz50PfBek 1950
 layout: default
-origslug: m_nz50pfbek_1950
+origslug: muenz50pfbek_1950
 slug: muenz50pfbek_1950
 
 ---

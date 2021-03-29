@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Verringerung der Fälle von Staatenlosigkeit
 jurabk: StaatenlVerringÜbk
 layout: default
-origslug: staatenlverring_bk
+origslug: staatenlverringuebk
 slug: staatenlverringuebk
 
 ---

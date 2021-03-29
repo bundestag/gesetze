@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 1. Juni 1972 zur Erhaltung der antarktis
   Robben
 jurabk: RobErhÜbkG
 layout: default
-origslug: roberh_bkg
+origslug: roberhuebkg
 slug: roberhuebkg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1987, 90
 
 Zuletzt geändert durch
-:   Art. 206 V v. 29.10.2001 I 2785
+:   Art. 418 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -34,9 +34,9 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, durch Rechtsverordnung im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung im
+Einvernehmen mit dem Bundesministerium für Bildung und Forschung
 
 1.  Änderungen der Anlage des Übereinkommens nach dessen Artikel 9, die
     sich im Rahmen der Ziele des Übereinkommens halten, in Kraft zu

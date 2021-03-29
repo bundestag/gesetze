@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 8.2.2006 I 344;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 25.10.2012 I 2270
+:   Art. 2 V v. 1.10.2018 I 1571
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -193,7 +193,11 @@ Im Sinne dieser Verordnung sind
 
 7.  Hybridität: Anteil der durch Fremdbefruchtung erzeugten Körner bei
     Saatgut von Hybridsorten, das aus Feldbeständen erwachsen ist, die mit
-    einem Gametozid behandelt worden sind.
+    einem Gametozid behandelt worden sind;
+
+
+8.  CMS: zytoplasmatisch bedingte männliche Sterilität (cytoplasmic male
+    sterility).
 
 
 
@@ -323,6 +327,12 @@ Saatgutverkehrsgesetzes beizufügen.
 (7) Im Antrag ist anzugeben, ob die Durchführung der
 Beschaffenheitsprüfung nach § 12 Abs. 1b beantragt wird.
 
+(8) Für den Fall, dass bei Saatgut von Gräsern das Höchstgewicht einer
+Partie auf bis zu 25 Tonnen erhöht werden soll und dem Antragsteller
+durch die zuständige Anerkennungsstelle noch keine Genehmigung zur
+Herstellung von Saatgutpartien von bis zu 25 Tonnen erteilt worden
+ist, ist diese Genehmigung mit dem Antrag nach Absatz 1 zu beantragen.
+
 
 ### § 5 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
 
@@ -371,8 +381,8 @@ Artengruppen gebildet:
 2.  Kohlrübe und Futterkohl,
 
 
-3.  Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl, Wirsing und
-    Rosenkohl,
+3.  Kohlrabi, Grünkohl, Blumenkohl, Brokkoli, Rotkohl, Weißkohl, Wirsing
+    und Rosenkohl,
 
 
 4.  Rübsen, Herbstrübe und Mairübe.
@@ -451,7 +461,7 @@ Vorliegen der Anforderungen an den Feldbestand zu prüfen.
 Basissaatgut bei Getreide ist zusätzlich mindestens ein weiteres Mal
 durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
 Feldbestand zu prüfen, soweit nicht mindestens eine oder mehrere
-zusätzliche Feldbesichtigungen nach Absatz 2 oder 3 vorgeschrieben
+zusätzliche Feldbesichtigungen nach Absatz 2, 2a oder 3 vorgeschrieben
 sind.
 
 (2) Jede Vermehrungsfläche von Hybridsorten von Roggen ist zusätzlich
@@ -469,6 +479,11 @@ sind.
 durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
 Feldbestand zu prüfen; dies gilt nicht bei der Erzeugung von
 Basissaatgut der väterlichen Erbkomponente.
+
+(2a) Jede Vermehrungsfläche von Hybridsorten von Gerste zur Erzeugung
+von Zertifiziertem Saatgut ist zusätzlich mindestens ein weiteres Mal
+durch Feldbesichtigung auf das Vorliegen der Anforderungen an den
+Feldbestand zu prüfen.
 
 (3) Jede Vermehrungsfläche mit Hybridsorten oder Inzuchtlinien von
 Mais ist zusätzlich bei der Erzeugung von Basissaatgut mindestens
@@ -554,6 +569,12 @@ Vermehrungsflächen, die durch einen privaten Feldbestandsprüfer
 geprüft werden, selbst eine zusätzliche Feldbestandsprüfung
 durchzuführen.
 
+(10) Die Absätze 7 bis 9 gelten bis zum Ablauf des 31. Dezember 2019
+auch für Vermehrungsflächen zur Erzeugung von anerkanntem
+Vorstufensaatgut und Basissaatgut. In diesem Fall muss sichergestellt
+sein, dass die Vermehrungsbestände aus Saatgut erwachsen sind, das
+einer amtlichen Nachprüfung unterzogen worden ist.
+
 
 ### § 8 Mängel des Feldbestandes
 
@@ -584,9 +605,9 @@ und Voraussetzungen hierfür festsetzen, wenn
 
 Die Anerkennungsstelle teilt dem Antragsteller und dem Vermehrer das
 Ergebnis der Feldbestandsprüfung sowie das Ergebnis der Prüfung des
-Bestandes von Stecklingen im Ansaatjahr schriftlich mit; im Falle
-mehrfacher Feldbesichtigung oder Nachbesichtigung jedoch erst nach der
-letzten Besichtigung.
+Bestandes von Stecklingen im Ansaatjahr schriftlich oder elektronisch
+mit; im Falle mehrfacher Feldbesichtigung oder Nachbesichtigung jedoch
+erst nach der letzten Besichtigung.
 
 
 ### § 10 Wiederholungsbesichtigung
@@ -625,22 +646,7 @@ Mindestreinheit.
 entnehmen ist, und das Mindestgewicht oder die Mindestmenge der Probe
 ergeben sich aus Anlage 4.
 
-(2a) Im Falle der Anerkennung des Saatgutes von Straußgräsern,
-Lieschgräsern, Rispenarten, Goldhafer, Wiesenfuchsschwanz, Knaulgras,
-Schwingelarten, Glatthafer, Festulolium und Weidelgräsern darf für die
-Zwecke der Beschaffenheitsprüfung bis zum 31. Dezember 2013 die
-Probenahme abweichend von Absatz 2 in Verbindung mit Anlage 4 Spalte 2
-auch an Partien mit einem Höchstgewicht von bis zu 25 Tonnen
-durchgeführt werden, soweit der Betrieb, von dem das Saatgut stammt,
-dies bei der Anerkennungsstelle beantragt. Die Anerkennungsstelle kann
-die Probenahme an Saatgutpartien dieser Größe davon abhängig machen,
-dass der Antragsteller nachweist, dass das zuständige Komitee der
-Internationalen Vereinigung für Saatgutprüfung (ISTA) seine Teilnahme
-an dem ISTA-Versuch zur Partiegröße von Futterpflanzensaatgut
-bestätigt hat. Die Anerkennungsstelle kontrolliert im Falle von Proben
-nach Satz 1, die von einem privaten Probenehmer nach Absatz 7 gezogen
-worden sind, bis zu 5 vom Hundert der durchgeführten
-Heterogenitätsprüfungen.
+(2a) (weggefallen)
 
 (3) Der Probenehmer kann von Saatgut, das noch nicht verpackt ist,
 Proben entnehmen, wenn die Zugehörigkeit der jeweiligen Probe zu der
@@ -733,9 +739,9 @@ entsprechenden landesrechtlichen Vorschriften unberührt.
 (1) Die Beschaffenheit wird anhand der dafür entnommenen Probe
 geprüft. Auf Antrag wird bei Getreide zusätzlich geprüft, ob die
 besonderen Voraussetzungen bezüglich des Freiseins von Flughafer
-erfüllt sind, die in Rechtsakten der Europäischen Gemeinschaft
-festgesetzt sind. Auf Antrag kann außerdem das Tausendkorngewicht
-festgestellt werden.
+erfüllt sind, die in Rechtsakten der Europäischen Gemeinschaft oder
+der Europäischen Union festgesetzt sind. Auf Antrag kann außerdem das
+Tausendkorngewicht festgestellt werden.
 
 (1a) Für die Untersuchung der Keimfähigkeit werden aus der für die
 Beschaffenheitsprüfung entnommenen Probe 4 x 100 der reinen Körner
@@ -811,11 +817,11 @@ landesrechtlichen Vorschriften unberührt.
 
 Die Anerkennungsstelle teilt das Ergebnis der Beschaffenheitsprüfung
 dem Antragsteller, dem Vermehrer und demjenigen, in dessen Betrieb die
-Probe entnommen worden ist, schriftlich mit. Über das Ergebnis der
-zusätzlichen Prüfung bei Getreide nach § 12 Abs. 1 Satz 2 wird eine
-gesonderte Bescheinigung ausgestellt; wird diese Prüfung erst nach der
-Anerkennung vorgenommen, so wird in der Bescheinigung auch die
-Anerkennungsnummer der Partie angegeben.
+Probe entnommen worden ist, schriftlich oder elektronisch mit. Über
+das Ergebnis der zusätzlichen Prüfung bei Getreide nach § 12 Abs. 1
+Satz 2 wird eine gesonderte Bescheinigung ausgestellt; wird diese
+Prüfung erst nach der Anerkennung vorgenommen, so wird in der
+Bescheinigung auch die Anerkennungsnummer der Partie angegeben.
 
 
 ### § 14 Bescheid
@@ -844,7 +850,10 @@ Anerkennungsnummer der Partie angegeben.
 7.  im Falle des § 12 Abs. 1 Satz 3 das Tausendkorngewicht,
 
 
-8.  im Falle der Anerkennung die Kategorie und die Anerkennungsnummer.
+8.  im Falle der Anerkennung die Kategorie und die Anerkennungsnummer,
+
+
+9.  die Entscheidung über den Antrag nach § 4 Absatz 8.
 
 
 
@@ -864,6 +873,19 @@ Antrag als Zertifiziertes Saatgut anerkannt, wenn es aus anerkanntem
 Vorstufensaatgut erwachsen ist und die Anforderungen für
 Zertifiziertes Saatgut erfüllt. Dies gilt nicht für Sorten, deren
 Pflanzen durch Kreuzung bestimmter Erbkomponenten erzeugt werden.
+
+[^F783963_02_BJNR001460986BJNE002305360]
+(5) Für die Entscheidung über den Antrag nach Absatz 1 Nummer 9
+berücksichtigt die zuständige Anerkennungsstelle die im Juli 2013 mit
+Kapitel 2.5.4.1 Buchstaben c und d in Verbindung mit Kapitel 2.5.4.2
+in die Internationalen Vorschriften für die Prüfung von Saatgut der
+Internationalen Vereinigung für Saatgutprüfung Ausgabe 2013
+aufgenommenen Bedingungen für die Beprobung und Prüfung der
+Heterogenität großer Saatgutpartien von Gräsern.
+
+[^F783963_02_BJNR001460986BJNE002305360]:     Amtlicher Hinweis: In deutscher Sprache veröffentlicht und zu beziehen
+    durch International Seed Testing Association, Zürichstr. 50, CH-8303
+    Bassersdorf, Schweiz; www.seedtest.org.
 
 
 ### § 15 Erneute Beschaffenheitsprüfung
@@ -886,26 +908,54 @@ sind anzugeben.
 
 (4) § 11 Abs. 1 bis 4 Nr. 1, § 12 Abs. 1 Satz 3 und Abs. 2 Satz 1
 gelten entsprechend. Das Ergebnis der Prüfung wird dem Antragsteller
-schriftlich mitgeteilt.
+schriftlich oder elektronisch mitgeteilt.
 
 
 ### § 16 Nachprüfung
 
-(1) Die Anerkennungsstelle prüft, soweit sie es für erforderlich hält,
-anerkanntes Saatgut und in jedem Falle Basissaatgut und Zertifiziertes
-Saatgut zur Erzeugung von Zertifiziertem Saatgut, bei dem nach § 7
-Abs. 7 ein privater Feldbestandsprüfer mit der Durchführung der
-Feldbestandsprüfung beauftragt werden soll, anhand der dafür
-entnommenen Probe daraufhin nach, ob es oder sein Aufwuchs sortenecht
-ist und erkennen lässt, dass die Anforderungen an den
-Gesundheitszustand erfüllt waren. Anerkanntes Vorstufensaatgut sowie
-Basissaatgut von Hybridsorten von Getreide oder Raps sowie
-Basissaatgut von Sorten nach § 55 Abs. 2 des Saatgutverkehrsgesetzes
-ist in jedem Falle, anderes anerkanntes Saatgut im Falle der
-Kennzeichnung nach einem OECD-System nach Maßgabe des Absatzes 3
-nachzuprüfen; in diesen Fällen führt das Bundessortenamt die
-Nachprüfung auf Sortenechtheit durch und unterrichtet die
-Anerkennungsstelle und den Züchter über das Ergebnis.
+(1) Bei der Nachprüfung wird Saatgut anhand der dafür entnommenen
+Probe daraufhin geprüft, ob es oder sein Aufwuchs ausreichend
+sortenecht und sortenrein ist und erkennen lässt, dass die
+Anforderungen an den Gesundheitszustand erfüllt waren.
+Die Anerkennungsstelle überprüft im Hinblick auf die Anforderungen des
+Satzes 1
+
+1.  anerkanntes Saatgut, soweit dies für die Nachprüfung erforderlich ist,
+
+
+2.  in jedem Falle Saatgut zur Erzeugung von Zertifiziertem Saatgut, bei
+    dem nach § 7 Absatz 7 ein privater Feldbestandsprüfer zur Mitwirkung
+    bei der Durchführung der Feldbestandsprüfung zugelassen werden soll,
+    sowie
+
+
+3.  in 5 vom Hundert der Fälle Zertifiziertes Saatgut, das aus
+    Feldbeständen erwachsen ist, bei denen ein privater Feldbestandsprüfer
+    bei der Durchführung der Feldbestandsprüfung mitgewirkt hat.
+
+
+
+Das Bundessortenamt überprüft im Hinblick auf die Anforderungen des
+Satzes 1
+
+1.  in jedem Falle Saatgut zur Erzeugung von Vorstufensaatgut oder
+    Basissaatgut, bei dem nach § 7 Absatz 7 ein privater
+    Feldbestandsprüfer zur Mitwirkung bei der Durchführung der
+    Feldbestandsprüfung zugelassen werden soll, sowie
+
+
+2.  in 10 vom Hundert der Fälle das nach Nummer 1 erzeugte
+    Vorstufensaatgut oder Basissaatgut.
+
+
+
+Anerkanntes Vorstufensaatgut sowie Basissaatgut von Hybridsorten von
+Getreide oder Raps sowie Basissaatgut von Sorten nach § 55 Abs. 2 des
+Saatgutverkehrsgesetzes ist in jedem Falle, anderes anerkanntes
+Saatgut im Falle der Kennzeichnung nach einem OECD-System nach Maßgabe
+des Absatzes 3 nachzuprüfen; in diesen Fällen führt das
+Bundessortenamt die Nachprüfung auf Sortenechtheit durch und
+unterrichtet die Anerkennungsstelle und den Züchter über das Ergebnis.
 
 (2) Absatz 1 gilt nicht für anerkanntes Vorstufensaatgut und
 Basissaatgut von Runkelrübe, Zuckerrübe und Roter Rübe.
@@ -921,39 +971,158 @@ Saatgut, das aus Saatgut erwachsen ist, dessen Einfuhr zur Vermehrung
 nach § 18 Abs. 2 Nr. 1 des Saatgutverkehrsgesetzes genehmigt worden
 war.
 
-(3a) Die Nachprüfung muss bei Basissaatgut von Hybridsorten von Roggen
-vor der Anerkennung des daraus erwachsenen Zertifizierten Saatgutes
-abgeschlossen sein. Bei Basissaatgut der mütterlichen Erbkomponente
-gilt die Sortenechtheit nur als gegeben, wenn im Aufwuchs der Anteil
-der Pflanzen,
+(3a) Bei anerkanntem Vorstufensaatgut der Erbkomponenten von
+Hybridsorten von Gerste gilt die Sortenreinheit nur dann als
+ausreichend, wenn im Aufwuchs
 
-1.  die nicht hinreichend sortenecht sind, 0,6 v. H.,
+1.  der Anteil der Pflanzen, die nicht hinreichend sortenecht sind, im
+    Falle
+
+    a)
+        *            *   der Maintainer-Linie
+
+            *   0,1 v. H.,
 
 
-2.  die keine männliche Sterilität aufweisen, 2 v. H.
 
 
 
-nicht übersteigt.
+    b)
+        *            *   der männlichen Linie (Restorer)
+
+            *   0,1 v. H.,
+
+
+
+
+
+    c)
+        *            *   der CMS-Mutterlinie
+
+            *   0,2 v. H.,
+
+
+
+
+
+
+
+
+2.
+    *        *   der mütterlichen CMS-Kom-
+            ponenten der Anteil der Pflanzen,
+            die keine männliche Sterilität
+            aufweisen,
+
+        *   0,3 v. H.
+
+
+
+
+
+
+nicht übersteigt. Bei Basissaatgut der Erbkomponenten von Hybridsorten
+von Gerste gilt die Sortenreinheit nur dann als ausreichend, wenn im
+Aufwuchs
+
+1.  der Anteil der Pflanzen, die nicht hinreichend sortenecht sind, im
+    Falle
+
+    a)
+        *            *   der männlichen Linie (Restorer)
+
+            *   0,3 v. H.,
+
+
+
+
+
+    b)
+        *            *   der CMS-Mutterlinie
+
+            *   0,3 v. H.,
+
+
+
+
+
+    c)
+        *            *   einer CMS-Einfachhybride
+                als mütterliche Komponente
+
+            *   0,5 v. H.,
+
+
+
+
+
+
+
+
+2.
+    *        *   der mütterlichen CMS-Kom-
+            ponenten der Anteil der Pflanzen,
+            die keine männliche Sterilität
+            aufweisen,
+
+        *   0,5 v. H.
+
+
+
+
+
+
+nicht übersteigt. Bei Basissaatgut der mütterlichen Erbkomponente von
+Hybridsorten von Roggen gilt die Sortenreinheit nur dann als
+ausreichend, wenn im Aufwuchs der Anteil der Pflanzen,
+
+1.
+    *        *   die nicht hinreichend sortenecht
+            sind,
+
+        *   0,6 v. H.,
+
+
+
+
+
+2.
+    *        *   die keine männliche Sterilität
+            aufweisen,
+
+        *   2 v. H.
+
+
+
+
+
+
+nicht übersteigt. Die Nachprüfung muss bei Basissaatgut von
+Hybridsorten von Roggen und Gerste vor der Anerkennung des daraus
+erwachsenen Zertifizierten Saatgutes abgeschlossen sein.
 
 (3b) Bei Zertifiziertem Saatgut von Hybridsorten von Getreide außer
 Roggen, Mais und Sorghum führt das Bundessortenamt an mindestens 5 vom
 Hundert der entnommenen Proben eine Nachprüfung durch. Die
-Sortenechtheit gilt nur als gegeben, wenn im Aufwuchs der Anteil der
-Pflanzen, die nicht hinreichend sortenecht sind, 10 vom Hundert nicht
-übersteigt.
+Sortenreinheit gilt nur dann als ausreichend, wenn im Aufwuchs der
+Anteil der Pflanzen, die nicht hinreichend sortenecht sind, 10 vom
+Hundert nicht übersteigt. Bei Zertifiziertem Saatgut von Hybridsorten
+von Gerste gilt die Sortenreinheit nur dann als ausreichend, wenn im
+Aufwuchs der Anteil der Pflanzen, die nicht hinreichend sortenecht
+sind, 15 vom Hundert nicht übersteigt und dabei der Anteil der nicht
+dem Restorer zuzurechnenden Pflanzen 2 vom Hundert nicht übersteigt.
 
-(3c) Die Nachprüfung muss bei Basissaatgut und Zertifiziertem Saatgut
-zur Erzeugung von Zertifiziertem Saatgut, bei dem nach § 7 Abs. 7 ein
-privater Feldbestandsprüfer mit der Durchführung der
-Feldbestandsprüfung beauftragt werden soll, vor der Anerkennung des
-daraus erzeugten Zertifizierten Saatgutes abgeschlossen sein.
+(3c) Die Nachprüfung muss bei Saatgut zur Erzeugung von anerkanntem
+Vorstufensaatgut, Basissaatgut und Zertifiziertem Saatgut, bei dem
+nach § 7 Absatz 7 ein privater Feldbestandsprüfer zur Mitwirkung bei
+der Durchführung der Feldbestandsprüfung zugelassen werden soll, vor
+der Anerkennung des daraus erzeugten Saatgutes abgeschlossen sein.
 
 (3d) Die Nachprüfung muss bei Basissaatgut von Hybridsorten von Raps
 vor der Anerkennung des daraus erwachsenen Zertifizierten Saatgutes
 abgeschlossen sein. Bei Basissaatgut von Hybridsorten von Raps gilt
-die Sortenechtheit nur dann als gegeben, wenn im Aufwuchs der Anteil
-der Pflanzen
+die Sortenreinheit nur dann als ausreichend, wenn im Aufwuchs der
+Anteil der Pflanzen
 
 1.  der mütterlichen Erbkomponente, die nicht hinreichend sortenecht sind,
     1 vom Hundert, und die keine männliche Sterilität aufweisen, 2 vom
@@ -966,14 +1135,19 @@ der Pflanzen
 
 
 nicht übersteigt.
-Bei Zertifiziertem Saatgut von Hybridsorten von Raps gilt die
-Sortenechtheit als gegeben, wenn im Aufwuchs der Anteil der Pflanzen,
-die nicht sortenecht sind, 10 vom Hundert nicht übersteigt.
+Bei Zertifiziertem Saatgut von Hybridsorten von Winterraps gilt die
+Sortenreinheit nur dann als ausreichend, wenn im Aufwuchs der Anteil
+der Pflanzen, die nicht hinreichend sortenecht sind, 10 vom Hundert
+nicht übersteigt. Bei Zertifiziertem Saatgut von Hybridsorten von
+Sommerraps gilt die Sortenreinheit nur dann als ausreichend, wenn im
+Aufwuchs der Anteil der Pflanzen, die nicht hinreichend sortenecht
+sind, 15 vom Hundert nicht übersteigt.
 Die Einhaltung der Anforderungen wird durch Nachprüfung an mindestens
 5 vom Hundert der amtlich entnommenen Proben überwacht.
 
 (4) Soweit die Bundesrepublik Deutschland durch Rechtsakte der
-Europäischen Gemeinschaft verpflichtet ist,
+Europäischen Gemeinschaft oder der Europäischen Union verpflichtet
+ist,
 
 1.  eine Nachprüfung durchzuführen, wird diese vom Bundessortenamt
     durchgeführt;
@@ -992,8 +1166,9 @@ eines OECD-Systems einen Antrag auf Übersendung von Proben für eine
 Nachprüfung stellt und dem Antrag entsprochen werden soll, gilt Satz 1
 Nr. 2 entsprechend.
 
-(5) In den Fällen des Absatzes 1 Satz 2 und des Absatzes 4 leitet die
-Anerkennungsstelle die erforderlichen Proben dem Bundessortenamt zu.
+(5) In den Fällen des Absatzes 1 Satz 3 und 4 und des Absatzes 4
+leitet die Anerkennungsstelle die erforderlichen Proben dem
+Bundessortenamt zu.
 
 
 ### § 17 Verfahren für die Nachprüfung durch Anbau
@@ -1023,15 +1198,19 @@ Rücknahme zu unterrichten.
 ### § 19 Gestattung des Inverkehrbringens
 
 Standardsaatgut von Gemüsearten darf zu gewerblichen Zwecken in den
-Verkehr gebracht werden.
+Verkehr gebracht werden. Das Saatgut muss ausreichend sortenecht und
+sortenrein sein.
 
 
-### § 20 Anforderungen an die Beschaffenheit, Höchstgewicht einer Partie
+### § 20 Anforderungen an die Sortenreinheit und Beschaffenheit, Höchstgewicht einer Partie
 
-(1) Die Anforderungen an die Beschaffenheit des Standardsaatgutes
-ergeben sich aus Anlage 3 Nr. 7.
+(1) Die Anforderungen an die Sortenreinheit des Standardsaatgutes
+ergeben sich aus Anlage 2 Nummer 7.1.
 
-(2) Das Höchstgewicht einer Partie ergibt sich aus Anlage 4.
+(2) Die Anforderungen an die Beschaffenheit des Standardsaatgutes
+ergeben sich aus Anlage 3 Nummer 7.
+
+(3) Das Höchstgewicht einer Partie ergibt sich aus Anlage 4.
 
 
 ### § 21 Nachkontrolle
@@ -1179,8 +1358,8 @@ Verkehr gebracht werden, wenn der Aufwuchs
 
 
 2.  zur Futternutzung außer Körnernutzung bestimmt ist und die Mischung
-    nur Saatgut von Getreide, Futterpflanzen oder Öl- und Faserpflanzen
-    enthält, jedoch kein Saatgut von Gräsersorten,
+    nur Saatgut von Getreide, Futterpflanzen, Öl- und Faserpflanzen oder
+    Gemüsearten enthält, jedoch kein Saatgut von Gräsersorten,
 
     a)  bei denen der Aufwuchs nicht zur Nutzung als Futterpflanze bestimmt
         ist oder
@@ -1369,15 +1548,17 @@ demjenigen, der das Saatgut als erster zu gewerblichen Zwecken in den
 Verkehr bringt oder neu verpackt und zu gewerblichen Zwecken in den
 Verkehr bringt, mit einem Etikett zu kennzeichnen. Bei
 Standardsaatgut, das in einem anderen Vertragsstaat in der in
-Rechtsakten der Europäischen Gemeinschaft bestimmten Form
-gekennzeichnet und geschlossen worden ist, entfällt diese
-Verpflichtung für denjenigen, der es, ohne es neu zu verpacken, im
-Inland zu gewerblichen Zwecken in den Verkehr bringt.
+Rechtsakten der Europäischen Gemeinschaft oder der Europäischen Union
+bestimmten Form gekennzeichnet und geschlossen worden ist, entfällt
+diese Verpflichtung für denjenigen, der es, ohne es neu zu verpacken,
+im Inland zu gewerblichen Zwecken in den Verkehr bringt.
 
 (3) Das Etikett muss rechteckig und mindestens 110 x 67 mm groß sein,
 die jeweilige Kennfarbe haben und als unverwischbaren Aufdruck die
 jeweiligen Angaben nach Anlage 5 enthalten; sie können auch zusätzlich
-in anderen Sprachen gemacht werden. Die Betriebsnummer bei
+in anderen Sprachen gemacht werden. Die amtlich zugeteilte
+Seriennummer wird bei Saatgut nach Anlage 5 Nummer 1 bis 6 von der
+zuständigen Anerkennungsstelle vergeben. Die Betriebsnummer bei
 Standardsaatgut (Anlage 5 Nr. 2.3) wird von der Nachkontrollstelle, in
 deren Bereich der Betrieb liegt, auf Antrag festgesetzt; sie setzt
 sich zusammen aus den Buchstaben „DE”, einer Zahl und einem dem
@@ -1421,9 +1602,7 @@ zusätzlich folgende Angaben enthalten:
 
 
 
-(5b) Im Falle der Anwendung des § 11 Abs. 2a muss das Etikett der
-Saatgutpartie nach der Angabe "EG-Norm" die Angabe "Entscheidung
-2007/66/EG der Kommission" enthalten.
+(5b) (weggefallen)
 
 (6) Das Etikett kann Angaben enthalten über
 
@@ -1484,14 +1663,13 @@ aufgedruckt ist.
 ### § 30 Aufdrucketikett
 
 Bei anerkanntem Saatgut von Getreide, Futterpflanzen oder Öl- und
-Faserpflanzen kann, wenn die Packung oder das Behältnis eine von der
-Anerkennungsstelle zugeteilte Ordnungsnummer trägt, anstelle des
-Etikettes ein unverwischbarer Aufdruck oder Stempelaufdruck mit den
-Angaben nach § 29 Abs. 3, 5 und 6 in der jeweiligen Kennfarbe
-angebracht werden (Aufdrucketikett). Die Anerkennungsnummer sowie
-Monat und Jahr der Probenahme sind in zeitlicher Verbindung mit der
-Probenahme nach § 11 Abs. 1 oder dem Verpacken nach § 36 Satz 1 durch
-den Probenehmer oder unter seiner Aufsicht anzubringen.
+Faserpflanzen kann anstelle des Etikettes ein unverwischbarer Aufdruck
+oder Stempelaufdruck mit den Angaben nach § 29 Abs. 3, 5 und 6 in der
+jeweiligen Kennfarbe angebracht werden (Aufdrucketikett). Die
+Anerkennungsnummer sowie Monat und Jahr der Probenahme sind in
+zeitlicher Verbindung mit der Probenahme nach § 11 Abs. 1 oder dem
+Verpacken nach § 36 Satz 1 durch den Probenehmer oder unter seiner
+Aufsicht anzubringen.
 
 
 ### § 31 Einleger
@@ -1650,16 +1828,16 @@ hinzugefügt worden sind, sind auf dem Etikett zusätzlich anzugeben:
 
 
 
-müssen in der in Rechtsakten der Europäischen Gemeinschaft bestimmten
-Form gekennzeichnet sein. Soweit die Kennzeichnung zusätzliche Angaben
-nach Anlage 5 Nr. 1.11, 2.10, 3.10 oder 4.7 enthält und diese nicht in
-deutscher Sprache angegeben oder in die deutsche Sprache übersetzt
-sind, sind die Packungen und Behältnisse nach Ankunft am
-Bestimmungsort im Inland mit einem Zusatzetikett zu versehen, das die
-Angaben des Originaletiketts in deutscher Sprache enthält; an die
-Stelle des Zusatzetikettes kann bei Packungen ein unverwischbarer
-Aufdruck treten. Satz 2 gilt nicht, wenn am ersten Bestimmungsort im
-Inland
+müssen in der in Rechtsakten der Europäischen Gemeinschaft oder der
+Europäischen Union bestimmten Form gekennzeichnet sein. Soweit die
+Kennzeichnung zusätzliche Angaben nach Anlage 5 Nr. 1.11, 2.10, 3.10
+oder 4.7 enthält und diese nicht in deutscher Sprache angegeben oder
+in die deutsche Sprache übersetzt sind, sind die Packungen und
+Behältnisse nach Ankunft am Bestimmungsort im Inland mit einem
+Zusatzetikett zu versehen, das die Angaben des Originaletiketts in
+deutscher Sprache enthält; an die Stelle des Zusatzetikettes kann bei
+Packungen ein unverwischbarer Aufdruck treten. Satz 2 gilt nicht, wenn
+am ersten Bestimmungsort im Inland
 
 1.  die Packungen oder die Behältnisse nach § 37 oder § 48 Abs. 2 und 3
     wiederverschlossen werden sollen,
@@ -1746,7 +1924,7 @@ versehen (Verschließung).
     b)  Weiße Lupine,
 
 
-    c)  Blaue Lupine, Schmalblättrige Lupine
+    c)  Blaue Lupine, Schmalblättrige Lupine,
 
 
     d)  Gelbe Lupine,
@@ -1927,9 +2105,9 @@ abpacken, Kennnummern zuteilen, die sich aus der Mischungsnummer und
 einer durch einen Bindestrich abgesetzten laufenden Nummer für jede
 Packung zusammensetzen.
 
-(7) Bei Kleinpackungen nach Anlage 6 Nr. 1.1.1 und 1.1.2 sind die
-Kennnummer, die Angabe der Kategorie, der Füllmenge oder Stückzahl der
-Körner oder Knäuel entbehrlich, wenn die Kleinpackung mit einer
+(7) Bei Kleinpackungen nach Anlage 6 Nr. 1.1.1, 1.1.2 und 3.1.2 sind
+die Kennnummer, die Angabe der Kategorie, der Füllmenge oder Stückzahl
+der Körner oder Knäuel entbehrlich, wenn die Kleinpackung mit einer
 amtlichen Klebemarke in der jeweiligen Kennfarbe versehen ist, die
 mindestens folgende Angaben enthält:
 
@@ -1937,7 +2115,7 @@ mindestens folgende Angaben enthält:
     Anerkennungsstelle,
 
 
-2.  eine laufende Nummer,
+2.  die Kennnummer,
 
 
 3.  die Nennfüllmenge,
@@ -1947,11 +2125,9 @@ mindestens folgende Angaben enthält:
 
 
 
-Dies gilt entsprechend für Kleinpackungen EG B mit Saatgutmischungen
-(Anlage 6 Nr. 3.1.2 Spalte 3) mit der Maßgabe, dass an oder auf der
-Packung die Mischungsnummer angegeben ist. Die Klebemarke enthält
-mindestens die Angaben nach Satz 1 Nr. 1 bis 3 und die Angabe
-"Saatgutmischung".
+Die Klebemarke enthält bei Kleinpackungen nach Anlage 6 Nummer 3.1.2
+mindestens die Angaben nach Satz 1 Nummer 1 bis 3 und die Angabe
+„Saatgutmischung“.
 
 (8) Kleinpackungen sind so zu schließen, dass sie nicht geöffnet
 werden können, ohne das Verschlusssystem zu verletzen oder auf der
@@ -2102,10 +2278,11 @@ Mais sowie von Futtererbse und Ackerbohne kann mit Genehmigung der
 zuständigen Anerkennungsstelle abweichend von den in Absatz 1 Satz 1
 festgesetzten Höchstmengen an Letztverbraucher abgegeben werden. Die
 zuständige Anerkennungsstelle erteilt die Genehmigung auf
-schriftlichen Antrag, wenn sichergestellt ist, dass
+schriftlichen oder elektronischen Antrag, wenn sichergestellt ist,
+dass
 
 1.  die Angaben der vorschriftsmäßigen Kennzeichnung dem Erwerber
-    schriftlich mitgeteilt werden,
+    schriftlich oder elektronisch mitgeteilt werden,
 
 
 2.  die vom Erwerber verwendeten Behältnisse nach dem Befüllen mit dem
@@ -2114,7 +2291,8 @@ schriftlichen Antrag, wenn sichergestellt ist, dass
 
 3.  der Abgebende am Ende jedes Kalenderjahres der zuständigen
     Anerkennungsstelle die im betreffenden Kalenderjahr im Rahmen der
-    Genehmigung abgegebenen Saatgutmengen schriftlich mitteilt und
+    Genehmigung abgegebenen Saatgutmengen schriftlich oder elektronisch
+    mitteilt und
 
 
 4.  beim Befüllen der vom Erzeuger verwendeten Behältnisse amtliche
@@ -2158,9 +2336,9 @@ Einleger müssen folgende Angaben enthalten:
 
 
     d)  des § 3 Abs. 2 des Saatgutverkehrsgesetzes den Hinweis "Saatgut einer
-        nicht zugelassenen Sorte"; hat das Bundessortenamt die Genehmigung mit
-        einer Auflage für die Kennzeichnung des Saatgutes verbunden, so ist
-        eine Angabe entsprechend der Auflage zu machen,
+        noch nicht zugelassenen Sorte"; hat das Bundessortenamt die
+        Genehmigung mit einer Auflage für die Kennzeichnung des Saatgutes
+        verbunden, so ist eine Angabe entsprechend der Auflage zu machen,
 
 
     e)  des § 2 Nr. 12 Buchstabe b Doppelbuchstabe aa des
@@ -2200,6 +2378,10 @@ zugehören, ist eine amtliche Bescheinigung, die folgende Angaben
 enthalten muss, beizugeben:
 
 1.  Name der für die Feldbesichtigung zuständigen Behörde,
+
+
+1a. die der Partie amtlich zugeteilten und auf den Etiketten angegebenen
+    Seriennummern,
 
 
 2.  Art; entsprechend der Angabe nach Anlage 5 Nr. 6.3,
@@ -2255,24 +2437,30 @@ Etiketten und Einlegern zu machen.
 OECD-Systemen unterliegen.
 
 (2) Die Packungen oder Behältnisse von Saatgut, das im Inland
-erwachsen ist und die Voraussetzungen für die Anerkennung erfüllt,
-sowie von Saatgut, das nach § 10 des Saatgutverkehrsgesetzes anerkannt
-werden kann, können von der Anerkennungsstelle auf Antrag nach den
-Vorschriften dieses Abschnitts gekennzeichnet werden, wenn das Saatgut
-zum Anbau außerhalb eines Vertragsstaates bestimmt ist und einem OECD-
-System unterliegt. Bei Sorten, die nicht nach § 30 des
-Saatgutverkehrsgesetzes zugelassen sind, ist eine solche Kennzeichnung
-nur zulässig, wenn vor oder bei der Anlage des Vermehrungsvorhabens
-zwischen der Anerkennungsstelle und der zuständigen Stelle im
-Ursprungsland der Sorte Einvernehmen über das Vorhaben herbeigeführt
-worden ist.
+erwachsen ist und die Voraussetzungen für die Anerkennung erfüllt, von
+Saatgut, das nach § 10 des Saatgutverkehrsgesetzes anerkannt werden
+kann, sowie von Saatgut, das im Inland anerkannt worden ist, können
+von der Anerkennungsstelle auf Antrag nach den Vorschriften dieses
+Abschnitts gekennzeichnet werden, wenn das Saatgut zum Anbau außerhalb
+eines Vertragsstaates bestimmt ist und einem OECD-System unterliegt.
+Bei Sorten, die nicht nach § 30 des Saatgutverkehrsgesetzes zugelassen
+sind, ist eine solche Kennzeichnung nur zulässig, wenn vor oder bei
+der Anlage des Vermehrungsvorhabens zwischen der Anerkennungsstelle
+und der zuständigen Stelle im Ursprungsland der Sorte Einvernehmen
+über das Vorhaben herbeigeführt worden ist.
 
 (3) Bei Standardsaatgut von Gemüse hat sich der Betrieb bei
 Beantragung der Betriebsnummer nach § 29 Abs. 3 Satz 2 zu
 verpflichten, Menge, Art, Sortenbezeichnung und Bezugsnummer des
 gekennzeichneten Standardsaatguts der die Betriebsnummer festsetzenden
 Nachkontrollstelle zum Abschluss eines jeden Kalenderhalbjahres
-schriftlich anzugeben.
+schriftlich oder elektronisch anzugeben.
+
+(4) Saatgutmischungen können von der Anerkennungsstelle auf Antrag
+nach den Vorschriften dieses Abschnitts gekennzeichnet werden, wenn
+sie nur Saatgut verschiedener Sorten einer oder mehrerer Arten von
+Futterpflanzen oder Getreide enthalten und das Saatgut vor dem Mischen
+anerkannt worden ist.
 
 
 ### § 45 Zertifikat
@@ -2300,11 +2488,11 @@ Zertifikats nach Absatz 1 anzugeben.
 
 ### § 46 Kennzeichnung
 
-(1) An die Stelle der Etiketten nach § 29 Abs. 1 und der Einleger nach
-§ 31 treten Etiketten, die in Form, Größe und Farbe denen des § 29
-Abs. 3 entsprechen müssen, und Einleger in der jeweiligen Kennfarbe,
-die die Angaben nach Anlage 8 aufgedruckt enthalten müssen. Es gelten
-für die Referenznummer bei anerkanntem Saatgut § 14 Abs. 2 und bei
+(1) An die Stelle der Etiketten nach § 29 und der Einleger nach § 31
+treten Etiketten, die in Form, Größe und Farbe denen des § 29 Abs. 3
+entsprechen müssen, und Einleger in der jeweiligen Kennfarbe, die die
+Angaben nach Anlage 8 aufgedruckt enthalten müssen. Es gelten für die
+Referenznummer bei anerkanntem Saatgut § 14 Abs. 2 und bei
 Standardsaatgut § 29 Abs. 3 Satz 3 sowie für die Angabe einer
 Saatgutbehandlung § 32 entsprechend.
 
@@ -2315,6 +2503,10 @@ oder Aufdruck mit den Angaben nach Anlage 8 Nr. 1.3.
 (3) Soll anerkanntes Vorstufensaatgut nach den Vorschriften dieses
 Abschnitts gekennzeichnet werden, so müssen Etiketten und Einleger die
 Angaben nach Anlage 8 Nr. 1.4 enthalten.
+
+(4) Packungen von Saatgutmischungen, die weniger als zwei Kilogramm
+Saatgut enthalten, können mit einem kleineren Etikett gekennzeichnet
+werden, soweit die Angaben gut lesbar sind.
 
 
 ### § 47 Kennzeichnung in besonderen Fällen
@@ -2394,50 +2586,32 @@ oder § 47 mit der Maßgabe zu verwenden, dass
 
 ### § 48a Übergangsvorschrift
 
-(1) Anerkennungsnummern, die bis zum 30. Juni 2010 von der zuständigen
-Anerkennungsstelle vergeben werden, dürfen noch bis zum 30. Juni 2014
-verwendet werden.
-
-(2) § 14 Absatz 2 Satz 1, § 27 Absatz 1 Satz 2, § 29 Absatz 3 Satz 2
-und § 40 Absatz 7 Satz 1 Nummer 1 sind bis zum Ablauf des 30. Juni
-2010 in der am 26. März 2010 geltenden Fassung anzuwenden.
+Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch
+bis zum Ablauf des 30. Juni 2019 für die Kennzeichnung von Packungen
+oder Behältnissen, die im Inland in den Verkehr gebracht werden
+sollen, verwendet werden.
 
 
 ### § 49 (Inkrafttreten)
 
 -
 
+(zu § 4 Abs. 1 Satz 1)
 
-### Anlage 1 (zu § 4 Abs. 1 Satz 1) Termin für den Antrag auf Anerkennung von Saatgut
+### Anlage 1 Termin für den Antrag auf Anerkennung von Saatgut
 
 (Fundstelle: BGBl. I 2006, 361;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
-**1**
-    *
-        *   **28. Februar**
+**1** **28. Februar**
 
-            Kohlrabi (außer Sorten für Unterglasanbau),
+    Kohlrabi (außer Sorten für Unterglasanbau),
 
-            Salat (Sorten für Unterglasanbau)
+    Salat (Sorten für Unterglasanbau)
 
 
-
-
-
-
-
-
-**1a**
-    *
-        *   **31. März**
-
-
-
-
-
-
+**1a** **31. März**
 
 
 1a.1 Wintergetreide
@@ -2447,163 +2621,100 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Samenernte im zweiten Schnitt
 
 
-**2**
-    *
-        *   **15. April**
+**2** **15. April**
 
-            Gemüsearten, soweit sie nicht in den Nummern 1, 5.3 und 9.2 aufgeführt
-            sind
+    Gemüsearten, soweit sie nicht in den Nummern 1, 5.3 und 9.2 aufgeführt
+    sind
 
 
+**3** **30. April**
 
 
+3.1 Sommergetreide
 
 
+3.2 Gräser, außer Weidelgräser mit Samenernte im zweiten Schnitt
 
 
-**3**
-    *
-        *   **30. April**
+3.3 Leguminosen (außer Überwinterungsanbau), Phazelie, Ölrettich
 
-            Gräser, außer Weidelgräsern mit Samenernte im zweiten Schnitt
 
+3.4 Öl- und Faserpflanzen (außer Überwinterungsanbau), außer Sojabohne und
+    Sonnenblume
 
 
+3.5 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von
+    Samenträgern aus Sommerstecklingen)
 
 
+**4** **15. Mai**
 
 
+*   Sojabohne
 
-**4**
-    *
-        *   **15. Mai**
 
+**5** **31. Mai**
 
-        4.1 Sommergetreide
 
+5.1 Mais, Sorghum
 
-        4.2 Leguminosen (außer Überwinterungsanbau), Phazelie, Ölrettich
 
+5.2 Sonnenblume
 
-        4.3 Öl- und Faserpflanzen (außer Überwinterungsanbau), außer Sojabohne und
-            Sonnenblume
 
+5.3 Gurke und Tomate (Sorten für Freilandanbau), Buschbohne, Stangenbohne,
+    Dicke Bohne
 
-        4.4 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von
-            Samenträgern aus Sommerstecklingen)
 
+**6** **10. Juni**
 
 
+6.1 Weidelgräser mit Samenernte im zweiten Schnitt
 
 
+6.2 Runkelrübe und Zuckerrübe (Prüfung des Aufwuchses von
+    Sommerstecklingen)
 
 
+**7** **30. Juni**
 
-**5**
-    *
-        *   **31. Mai**
 
+7.1 Kohlrübe, Futterkohl
 
-        5.1 Mais, Sorghum
 
+7.2 Spargel, Brokkoli
 
-        5.2 Sojabohne, Sonnenblume
 
+**8** **1. Juli**
 
-        5.3 Gurke und Tomate (Sorten für Freilandanbau), Buschbohne, Stangenbohne,
-            Dicke Bohne
+    Rotklee mit Samenernte im zweiten Schnitt
 
 
+**9** **15. August**
 
 
+9.1 Luzernen mit Samenernte im zweiten Schnitt
 
 
+9.2 mehrjährige Gemüsearten, Kohlrabi (Sorten für Unterglasanbau),
+    Chinakohl
 
 
-**6**
-    *
-        *   **10. Juni**
+**10** **30. September**
 
-            Weidelgräser mit Samenernte im zweiten Schnitt
 
+10.1 Öl- und Faserpflanzen (Überwinterungsanbau)
 
 
+10.2 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von
+    Samenträgern aus Überwinterungsanbau)
 
 
 
 
+(zu § 6 Satz 1, § 20 Absatz 1)
 
-**7**
-    *
-        *   **30. Juni**
-
-
-        7.1 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Prüfung des
-            Aufwuchses von Sommerstecklingen)
-
-
-        7.2 Spargel, Brokkoli
-
-
-
-
-
-
-
-
-**8**
-    *
-        *   **15. Juli**
-
-            Rotklee mit Samenernte im zweiten Schnitt
-
-
-
-
-
-
-
-
-**9**
-    *
-        *   **15. August**
-
-
-        9.1 Luzernen mit Samenernte im zweiten Schnitt
-
-
-        9.2 mehrjährige Gemüsearten, Kohlrabi (Sorten für Unterglasanbau),
-            Chinakohl
-
-
-
-
-
-
-
-
-**10**
-    *
-        *   **30. September**
-
-
-        10.1 Öl- und Faserpflanzen (Überwinterungsanbau)
-
-
-        10.2 Kohlrübe, Futterkohl, Runkelrübe und Zuckerrübe (Samenernte von
-            Samenträgern aus Überwinterungsanbau)
-
-
-
-
-
-
-
-
-
-
-
-### Anlage 2 (zu § 6 Satz 1) Anforderungen an den Feldbestand
+### Anlage 2 Anforderungen an den Feldbestand
 
 (Fundstelle: BGBl. I 2006, 362 - 371;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2688,15 +2799,47 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   im Falle von Hybridsorten hinsichtlich ihrer Erbkomponenten den bei
         der Zulassung der Sorte festgestellten Ausprägungen der wichtigen
         Merkmale nicht hinreichend entsprechen oder einer anderen Sorte,
-        Hybridsorte oder Erbkomponente zugehören; wird Zertifiziertes Saatgut
-        einer Hybridsorte von Getreide in einer Mischung der mütterlichen und
-        väterlichen Erbkomponente erzeugt, so gilt der Anteil der Pflanzen der
-        väterlichen Erbkomponente nicht als Fremdbesatz
+        Hybridsorte oder Erbkomponente zugehören;
 
     *   5
 
     *   15
 
+    *
+
+*    *
+    *   handelt es sich bei den Erbkomponenten um eine
+
+    *
+    *
+    *
+
+*    *
+    *   a) CMS-Mutterlinie von Gerste,
+
+    *   10
+
+    *   15
+
+    *
+
+*    *
+    *   b) CMS-Einfachhybride als mütterliche Komponente von Gerste;
+
+    *   10
+
+    *   30
+
+    *
+
+*    *
+    *   wird Zertifiziertes Saatgut einer Hybridsorte von Getreide in einer
+        Mischung der mütterlichen und väterlichen Erbkomponente erzeugt, so
+        gilt der Anteil der Pflanzen der väterlichen Erbkomponente nicht als
+        Fremdbesatz
+
+    *
+    *
     *
 
 *    *   1.1.1.2
@@ -2782,7 +2925,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.2
 
-    *   Weizensteinbrand (Tilletia tritici), Roggenstengelbrand (Urocystis
+    *   Weizensteinbrand (Tilletia caries), Roggenstängelbrand (Urocystis
         occulta), Haferflugbrand (Ustilago avenae), Gerstenhartbrand (Ustilago
         hordei), Gerstenflugbrand (Ustilago nuda) und Weizenflugbrand
         (Ustilago tritici)
@@ -2794,7 +2937,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.2.1.3
 
-    *   Zwergsteinbrand (Tilletia brevifaciens)
+    *   Zwergsteinbrand (Tilletia controversa)
 
     *   1
 
@@ -3007,6 +3150,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     zur Erzeugung von Zertifiziertem Saatgut nicht deutlich überschreiten.
 
 
+1.4.3 Bei Hybridsorten von Gerste
+
+
+1.4.3.1 muss bei der Erzeugung von Basissaatgut der mütterlichen Erbkomponente
+    der Sterilitätsgrad der männlich sterilen Erbkomponente mindestens
+    99,7 v. H. betragen,
+
+
+1.4.3.2 muss bei der Erzeugung von Zertifiziertem Saatgut der Sterilitätsgrad
+    der männlich sterilen Erbkomponente mindestens 99,5 v. H. betragen,
+
+
+1.4.3.3 wird der Sterilitätsgrad der männlich sterilen Erbkomponente in jedem
+    Fall in der Nachprüfung festgestellt.
+
+
 **2** **Mais und Sorghum**
 
 
@@ -3100,7 +3259,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   bei frei abblühenden oder synthetischen Sorten von Sorghum
         Anzahl Pflanzen je 150 m
-        2                        Fläche
+        2 Fläche
 
     *   5
 
@@ -3215,9 +3374,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Elternteils (z. B. bei 5,7 v. H. nicht entfahnter Pflanzen 57 m).
 
 
-2.4.5 Bei Sorghum ist zu allen Feldbeständen von Sorghum, insbesondere zu
-    Pollenquellen von Sorghum halepense, eine Mindestentfernung von 300 m
-    einzuhalten.
+2.4.5 Bei Sorghum sind zu Feldbeständen von Sorghum, insbesondere zu
+    Pollenquellen von Sorghum halepense, Mindestentfernungen wie folgt
+    einzuhalten:
+
+    a)  zur Erzeugung von Basissaatgut 400 m,
+
+
+    b)  zur Erzeugung von Zertifiziertem Saatgut 200 m.
+
+
+
+    In Gebieten, in denen durch das Vorhandensein von Sorghum halepense
+    oder Sorghum sudanense ein besonderes Risiko der unerwünschten
+    Fremdbefruchtung besteht, müssen Feldbestände zur Erzeugung von
+    Basissaatgut von Sorghum bicolor oder dessen Hybriden mindestens 800
+    m, Feldbestände zur Erzeugung Zertifizierten Saatgutes von Sorghum
+    bicolor oder dessen Hybriden mindestens 400 m von einer möglichen
+    Pollenquelle entfernt sein.
 
 
 **3** **Gräser, Leguminosen und sonstige Futterpflanzen**
@@ -3360,7 +3534,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-3.1.2 Der Feldbestand darf keinen Besatz mit Seide aufweisen.
+3.1.2 Der Feldbestand darf keinen Besatz mit Seide, Kleewürger und
+    Kreuzkraut aufweisen.
 
 
 3.2 Gesundheitszustand
@@ -3689,7 +3864,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     Zertifiziertem Saatgut mindestens 98 v. H. betragen.
 
 
-4.2 Gesundheitszustand                    4.2.1
+4.2 Gesundheitszustand 4.2.1
 
     Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind,
     darf im Durchschnitt der Auszählungen je 150 qm Fläche höchstens
@@ -4455,7 +4630,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-7.1.2 Der Feldbestand darf keinen Fremdsatz mit Pflanzen anderer Arten
+7.1.2 Der Feldbestand darf keinen Fremdbesatz mit Pflanzen anderer Arten
     aufweisen, deren Samen sich aus dem Saatgut nur schwer herausreinigen
     lassen oder von denen samenübertragbare Krankheiten übertragen werden
     können; zu den Samen, die sich aus dem Saatgut nur schwer
@@ -4478,10 +4653,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.1.1
 
-    *   Brennflecken (Ascochyta pisi, Colletotrichum lindemuthianum, Didymella
-        pinodes - Nebenfrucht-form: Ascochyta pinodes -) Phoma medicaginis
-        var. pinodella - Nebenfruchtform: Ascochyta pinodella -, bei
-        Prunkbohne, Buschbohne, Stangenbohne und Erbse, soweit dadurch eine
+    *   Brennflecken Colletotrichum lindemuthianum an Prunkbohne, Buschbohne
+        und Stangenbohne; Didymella pisi (Nebenfruchtform: Ascochyta pisi) an
+        Erbse; Peyronellaea pinodella (Nebenfruchtform: Ascochyta pinodella,
+        Phoma pinodella, Phoma medicaginis var. pinodella) an Erbse;
+        Peyronellaea pinodes (Syn. Mycosphaerella pinodes, Didymella pinodes;
+        Nebenfruchtform: Ascochyta pinodes) an Erbse, soweit dadurch eine
         Beeinträchtigung des Saatgutwertes zu erwarten ist
 
     *   25
@@ -4489,9 +4666,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.1.2
 
-    *   Fettflecken (Pseudomonas phaseolicola) bei Prunkbohne, Buschbohne und
-        Stangenbohne, soweit dadurch eine Beeinträchtigung des Saatgutwertes
-        zu erwarten ist
+    *   Fettflecken (Pseudomonas syringae pv. phaseolicola) bei Prunkbohne,
+        Buschbohne und Stangenbohne, soweit dadurch eine Beeinträchtigung des
+        Saatgutwertes zu erwarten ist
 
     *   10
 
@@ -4513,8 +4690,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.2.2
 
-    *   Bakterienwelke (Corynebacterium michiganense) und Stengelfäule
-        (Didymella lycopersici) bei Tomate
+    *   Bakterienwelke (Clavibacter michiganensis subsp. michiganensis) und
+        Stängelfäule (Didymella lycopersici) bei Tomate
 
     *   0
 
@@ -4529,8 +4706,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.3.1
 
-    *   Umfallkrankheit (Leptosphaeria maculans - Nebenfruchtform: Phoma
-        lingam -) bei Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl,
+    *   Umfallkrankheit (Leptosphaeria maculans; Nebenfruchtform: Phoma
+        lingam) bei Kohlrabi, Grünkohl, Blumenkohl, Rotkohl, Weißkohl,
         Wirsing, Rosenkohl
 
     *   0
@@ -4546,7 +4723,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   7.2.3.3
 
-    *   Krätze (Cladosporium cucumerinum) oder Stengelfäule (Sclerotinia
+    *   Krätze (Cladosporium cucumerinum) oder Stängelfäule (Sclerotinia
         sclerotiorum) bei Gurke
 
     *   je 5 v. H.
@@ -4556,7 +4733,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Bakterienwelke (Erwinia tracheiphila), Fusariumwelke (Fusarium
         oxysporum f. sp. cucumerinum) und Eckige Blattfleckenkrankheit
-        (Pseudomonas lachrymans) bei Gurke
+        (Pseudomonas syringae pv. lachrymans) bei Gurke
 
     *   0
 
@@ -4755,15 +4932,6595 @@ Sortengruppen von Roter Rübe:
 
 
 
+(zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 2, §§ 23, 26 Abs. 3 Satz 2)
 
-### Anlage 3 (zu § 6 Satz 2, § 12 Abs. 3, § 20 Abs. 1, §§ 23, 26 Abs. 3 Satz 2) Anforderungen an die Beschaffenheit des Saatgutes
+### Anlage 3 Anforderungen an die Beschaffenheit des Saatgutes
 
-(Inhalt: nicht darstellbare Tabellen;
-Fundstelle: BGBl. I 2006, 372 - 384;
+(Fundstelle: BGBl. I 2006, 372 - 384;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
+## **Anforderungen an die Beschaffenheit des Saatgutes**
 
-### Anlage 4 (zu § 11 Abs. 2, § 20 Abs. 2, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5) Größe der Partien und Proben
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1
+
+    *   Getreide
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Art
+
+    *   Kategorie
+        (B = Basissaat-
+        gut
+        Z = Zertifiziertes
+        Saatgut
+        Z-1 = Zertifiziertes
+        Saatgut
+        erster
+        Generation
+
+    *   Mindest-
+        keimfähigkeit
+
+    *   Höchstgehalt
+        an
+        Feuchtigkeit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006519124]
+   Höchstbesatz mit anderen Pflanzenarten in einem Probenteil nach Spalte
+        12
+
+    *   Gewicht des
+        Probenteils
+        für die
+        Prüfung nach
+        den Spalten
+        6 bis 11
+
+    *   Sonstige Anfor-
+        derungen
+
+
+*    *
+    *
+    *   insgesamt
+
+    *   innerhalb der Menge
+        nach Spalte 6
+
+    *   innerhalb der Menge
+        nach Spalte 8
+
+
+*    *
+    *
+    *   andere
+        Getreide-
+        arten
+
+    *   andere
+        Arten als
+        Getreide
+
+    *   Hederich
+        und Korn-
+        rade
+        zusammen
+
+    *   Flughafer
+        und Flug-
+        hafer-
+        bastarde
+
+    *   Taumel-
+        lolch
+
+
+*    *
+    *
+
+*    *
+    *
+    *   Z-2 = Zertifiziertes
+        Saatgut
+        zweiter
+        Generation)
+
+    *   (v. H. der reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H. des Gewichts)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (g)
+
+    *
+
+*    *
+    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+
+*    *
+    *   1.1.1
+
+    *   Nackthafer, Hafer, Rauhafer
+
+    *
+    *   B
+
+    *   85
+
+    *[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006519124]
+   16
+
+    *   99
+
+    *   4
+
+    *[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006519124]
+   1
+
+    *   3
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z-1
+
+    *[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006519124]
+   85
+
+    *   16
+
+    *   98
+
+    *   6
+
+    *   3
+
+    *   4
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z-2
+
+    *   85
+
+    *   16
+
+    *   98
+
+    *   10
+
+    *   7
+
+    *   7
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *   1.1.2
+
+    *   Gerste
+
+    *
+    *   B
+
+    *   92
+
+    *   16
+
+    *   99
+
+    *   4
+
+    *   1
+
+    *   3
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *
+    *
+    *   Z-1
+
+    *   92
+
+    *   16
+
+    *   98
+
+    *   6
+
+    *   3
+
+    *   4
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *
+    *
+    *   Z-2
+
+    *   85
+
+    *   16
+
+    *   98
+
+    *   10
+
+    *   7
+
+    *   7
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *
+
+*    *
+    *   1.1.3
+
+    *   Roggen
+
+    *
+    *   B
+
+    *   85
+
+    *   15
+
+    *   98
+
+    *   4
+
+    *   1
+
+    *   3
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   15
+
+    *   98
+
+    *   6
+
+    *   3
+
+    *   4
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *   1.1.4
+
+    *   Triticale
+
+    *
+    *   B
+
+    *   85
+
+    *   16
+
+    *   98
+
+    *   4
+
+    *   1
+
+    *   3
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z-1
+
+    *   85
+
+    *   16
+
+    *   98
+
+    *   6
+
+    *   3
+
+    *   4
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z-2
+
+    *   80
+
+    *   16
+
+    *   98
+
+    *   10
+
+    *   7
+
+    *   7
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *   1.1.5
+
+    *   Weichweizen,
+
+    *
+    *   B
+
+    *[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006519124]
+   92
+
+    *   16
+
+    *   99
+
+    *   4
+
+    *   1
+
+    *   3
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *   Hartweizen, Spelz
+
+    *
+    *   Z-1
+
+    *   92
+
+    *   16
+
+    *   98
+
+    *   6
+
+    *   3
+
+    *   4
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z-2
+
+    *   85
+
+    *   16
+
+    *   98
+
+    *   10
+
+    *   7
+
+    *   7
+
+    *   3
+
+    *   0
+
+    *   0
+
+    *   500
+
+    *   -
+
+
+*    *
+    *   1.1.6
+
+    *   Mais
+
+    *
+    *   B
+
+    *   90
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006519124]
+   1 000
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   90
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   1 000
+
+    *   -
+
+
+*    *
+    *   1.1.7
+
+    *   Sorghum bicolor
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   900
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   900
+
+    *   -
+
+
+*    *
+    *
+    *   Sorghum sudanense
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   250
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   250
+
+    *   -
+
+
+*    *
+    *
+    *   Sorghum bicolor x
+        Sorghum sudanense
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   300
+
+    *   -
+
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   98
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   300
+
+    *   -
+
+
+*    *
+    *
+
+*    *   1.2
+
+    *   Saatgut von Getreide darf bei der Prüfung nach § 12 Abs. 1 Satz 2
+        keinen Besatz mit Flughafer in 3 kg aufweisen; die Größe der Probe
+        ermäßigt sich auf 1 kg, wenn bei der Prüfung des Feldbestandes
+        festgestellt worden ist, dass dieser frei von Flughafer ist.
+
+
+*    *   1.3
+
+    *   Gesundheitszustand
+
+
+*    *   1.3.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergeben hat.
+
+
+*    *   1.3.2
+
+    *   An Mutterkorn (Claviceps purpurea) dürfen 500 g Saatgut nicht mehr als
+        folgende Stücke oder Bruchstücke enthalten:
+
+
+*    *   1.3.2.1
+
+    *   bei Basissaatgut
+
+    *   1
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.3.2.2
+
+    *   bei Zertifiziertem Saatgut
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.3.2.2.1
+
+    *   von Hybridsorten von Roggen
+
+    *[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006519124]
+   4
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.3.2.2.2
+
+    *   außer Hybridsorten von Roggen
+
+    *   3
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   1.3.3
+
+    *   An Brandkrankheiten darf das Saatgut Brandbutten oder größere Mengen
+        von Brandsporen nur dann enthalten, wenn geeignete
+        Bekämpfungsmaßnahmen sichergestellt sind.
+
+
+*    *   1.3.4
+
+    *   Das Saatgut darf nicht in größerem Ausmaß von anderen parasitischen
+        Pilzen als Mutterkorn oder Brandkrankheiten oder von parasitischen
+        Bakterien befallen sein, wenn sich bei der Beschaffenheitsprüfung der
+        Verdacht eines Befalls ergeben hat.
+
+
+*    *
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   2
+
+    *   Gräser
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   2.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Art
+
+    *   Kategorie
+        (B = Basis-
+        saatgut
+        Z = Zerti-
+        fiziertes
+        Saatgut)
+
+    *   Mindest-
+        keimfähig-
+        keit
+
+    *   Höchstge-
+        halt
+        an
+        Feuchtig-
+[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006519124]
+        keit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006519124]
+   Höchstbesatz mit anderen Pflanzenarten
+
+    *   Gewicht des
+        Probenteils für die Prüfung nach den Spal-
+        ten 10 bis 15
+
+    *   Sons- tige An- forde- rungen
+
+
+*    *
+    *   bezogen auf das Gewicht
+
+    *   in einem Probenteil nach Spalte 16
+        innerhalb einer Menge nach Spalte 6
+
+
+*    *
+    *   insge-
+        samt
+
+    *   innerhalb einer Menge
+        nach Spalte 6
+
+    *   eine ein- zelne Art
+
+    *   abweichend von Spalte 7 oder 10
+
+
+*    *
+    *   eine ein-
+        zel- ne Art
+
+    *   abweichend
+        von Spalte 7
+
+    *   Quecke
+
+    *   Acker- fuchs- schwanz
+
+    *   Flughafer und Flug- hafer- bastarde
+
+    *   Seide
+        und
+[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006519124]
+        Kreuzkraut
+
+    *   Ampfer außer Kl. Sauer- ampfer und Strand- ampfer
+
+
+*    *
+    *   Quecke
+
+    *   Acker- fuchs- schwanz
+
+
+*    *
+
+*    *
+    *
+    *   (v. H. der reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H. des Gewichts)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (g)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+    *   15
+
+    *   16
+
+    *   17
+
+
+*    *   2.1.1
+
+    *   Weißes Straußgras
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   90
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   1
+
+    *   5
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   90
+
+    *   2,0
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006519124]
+   0
+
+    *   2
+
+    *   5
+
+    *
+
+*    *   2.1.2
+
+    *   Sonstige Straußgräser
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   1
+
+    *   5
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   2,0
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   2
+
+    *   5
+
+    *
+
+*    *   2.1.3
+
+    *   Wiesenfuchsschwanz
+
+    *
+    *   B
+
+    *   70
+
+    *   14
+
+    *   75
+
+    *   0,3
+
+    *
+    *
+    *
+    *[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006519124]
+   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   30
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   70
+
+    *   14
+
+    *   75
+
+    *   2,5
+
+    *[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006519124]
+   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   30
+
+    *
+
+*    *   2.1.4
+
+    *   Glatthafer
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   80
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   3,0
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006519124]
+   0
+
+    *   0
+
+    *   5
+
+    *   80
+
+    *
+
+*    *   2.1.5
+
+    *   Knaulgras
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   90
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   30
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   90
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   30
+
+    *
+
+*    *   2.1.6
+
+    *   Rohrschwingel
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   95
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   95
+
+    *   1,5
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   2.1.7
+
+    *   Haar-Schafschwingel, Schafschwingel, Raublättriger Schafschwingel
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   30
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *   2,0
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   30
+
+    *
+
+*    *   2.1.8
+
+    *   Wiesenschwingel
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   95
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   95
+
+    *   1,5
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   2.1.9
+
+    *   Rotschwingel
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   30
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   90
+
+    *   1,5
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   30
+
+    *
+
+*    *   2.1.10
+
+    *   Deutsches Weidelgras
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   96
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   60
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   96
+
+    *   1,5
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   60
+
+    *
+
+*    *   2.1.11
+
+    *   sonstige Weidelgräser,
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   96
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   5
+
+    *   5
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   60
+
+    *
+
+*    *
+    *   Festulolium
+
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   96
+
+    *   1,5
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   60
+
+    *
+
+*    *   2.1.12
+
+    *   Lieschgräser
+
+    *
+    *   B
+
+    *   80
+
+    *   14
+
+    *   96
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   10
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   14
+
+    *   96
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   10
+
+    *
+
+*    *   2.1.13
+
+    *   Hainrispe,
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *   0,3
+
+    *
+    *
+    *
+    *[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006519124]
+   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   1
+
+    *   5
+
+    *
+
+*    *
+    *   Gemeine Rispe
+
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006519124]
+   2,0
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   2
+
+    *   5
+
+    *
+
+*    *   2.1.14
+
+    *   Sumpfrispe,
+
+    *
+    *   B
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   1
+
+    *   5
+
+    *
+
+*    *
+    *   Wiesenrispe
+
+    *
+    *   Z
+
+    *   75
+
+    *   14
+
+    *   85
+
+    *   2,0
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *   2
+
+    *   5
+
+    *
+
+*    *   2.1.15
+
+    *   Goldhafer
+
+    *
+    *   B
+
+    *   70
+
+    *   14
+
+    *   75
+
+    *   0,3
+
+    *
+    *
+    *
+    *[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006519124]
+   20
+
+    *   1
+
+    *   1
+
+    *   0
+
+    *   0
+
+    *   1
+
+    *   5
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   70
+
+    *   14
+
+    *   75
+
+    *   3,0
+
+    *   1,0
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *
+    *[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006519124]
+   0
+
+    *   0
+
+    *   2
+
+    *   5
+
+    *
+
+*    *[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006519124]
+
+
+*    *   2.2
+
+    *   Gesundheitszustand
+
+
+*    *   2.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergibt.
+
+
+*    *   2.2.2
+
+    *   Gallen von Samenälchen (Anguina spp.) dürfen in Basissaatgut nicht
+        vorhanden sein.
+
+
+*    *   2.2.3
+
+    *   Das Saatgut darf nicht von parasitischen Pilzen oder von parasitischen
+        Bakterien in größerem Ausmaß befallen sein, wenn sich bei der
+        Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3
+
+    *   Leguminosen
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Art
+
+    *   Kategorie
+        (B = Basissaatgut
+        Z = Zertifiziertes
+        Saatgut)
+        Z-1 = Zertifiziertes
+        Saatgut
+        erster
+        Generation
+        Z-2 = Zertifiziertes
+        Saatgut
+        zweiter
+        Generation
+        H = Handels-
+        saatgut)
+
+    *   Mindest-
+        keim-
+        fähigkeit
+[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006519124]
+[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006519124]
+
+    *   Höchst-
+        anteil
+        an
+        hart-
+        schaligen
+        Körnern
+
+    *   Höchst-
+        gehalt
+        an
+        Feuchtig-
+[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006519124]
+        keit
+
+    *   Techni-
+        sche
+        Mindest-
+        reinheit
+
+    *[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006519124]
+   Höchstbesatz mit anderen Pflanzenarten
+
+    *   Gewicht
+        des
+        Probenteils
+        für die
+        Prüfung
+        nach
+        den
+        Spalten
+        10 bis 14
+
+    *   Sons-
+        stige
+        An-
+        forde-
+        rungen
+
+
+*    *
+    *   bezogen auf das Gewicht
+
+    *   in einem Probenteil nach Spalte 15
+        innerhalb der Menge nach Spalte 7
+
+
+*    *
+    *   insge-
+        samt
+
+    *   innerhalb der Menge
+        nach Spalte 7
+
+    *   eine ein- zelne Art
+
+    *   abweichend von Spalte 8 oder 10
+
+
+*    *
+    *   eine ein-
+        zelne
+        Art
+
+    *   abwei-
+        chend
+        von
+        Spalte 8
+        Steinklee
+
+    *   Steinklee
+
+    *   Flughafer
+        und
+        Flughafer-
+        bastarde
+
+    *   Seide
+        und
+        Kreuzkraut
+
+    *   Ampfer
+        außer
+        Kleinem
+        Sauer-
+        ampfer
+        und
+        Strand-
+        ampfer
+
+
+*    *
+
+*    *
+
+*    *
+    *   (v. H. der reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H. des Gewichts)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (g)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+    *   15
+
+    *   16
+
+
+*    *   3.1.0
+
+    *   Geißraute
+
+    *
+    *   B
+
+    *   60
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006519124]
+   0
+
+    *   0
+
+    *[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006519124]
+   0
+
+    *   2
+
+    *   200
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   60
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   2,0
+
+    *   1,5
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006519124]
+
+    *[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006519124]
+   10
+
+    *   200
+
+    *
+
+*    *   3.1.1
+
+    *   Hornklee
+
+    *
+    *   B
+
+    *   75
+
+    *   40
+
+    *   12
+
+    *   95
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   30
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   40
+
+    *   12
+
+    *   95
+
+    *[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006519124]
+   1,8
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   30
+
+    *
+
+*    *   3.1.2
+
+    *   Weiße Lupine,
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006519124]
+[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006519124]
+
+
+*    *
+    *   Gelbe Lupine
+
+    *
+    *   Z-1, Z-2
+
+    *   80
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006519124]
+   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006519124]
+
+
+*    *   3.1.3
+
+    *   Blaue Lupine, Schmalblättrige Lupine
+
+    *
+    *   B
+
+    *   75
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   75
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *   3.1.4
+
+    *   Gelbklee
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   3.1.5
+
+    *   Bastardluzerne, Sandluzerne
+
+    *
+    *   B
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   3.1.5a
+
+    *   Blaue Luzerne
+
+    *
+    *   B
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   3.1.6
+
+    *   Esparsette
+
+    *
+    *   B
+
+    *   75
+
+    *   20
+
+    *   12
+
+    *   95
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2}
+
+    *   600
+
+    *   (Früchte)
+
+
+*    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   20
+
+    *   12
+
+    *   95
+
+    *   2,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5}
+
+    *   400
+
+    *   (Samen)
+
+
+*    *
+    *
+    *
+    *   H
+
+    *   75
+
+    *   20
+
+    *   12
+
+    *   95
+
+    *   3,5
+
+    *   2,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5}
+
+    *
+    *
+
+*    *   3.1.7
+
+    *   Futtererbse
+
+    *
+    *   B
+
+    *   80
+
+    *   -
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   80
+
+    *   -
+
+    *   15
+
+    *   98
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *   3.1.8
+
+    *   Alexandriner Klee
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   60
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   60
+
+    *
+
+*    *   3.1.9
+
+    *   Schwedenklee
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   20
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   20
+
+    *
+
+*    *   3.1.10
+
+    *   Inkarnatklee
+
+    *
+    *   B
+
+    *   75
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   80
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   80
+
+    *
+
+*    *   3.1.11
+
+    *   Rotklee
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   50
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   50
+
+    *
+
+*    *   3.1.12
+
+    *   Weißklee
+
+    *
+    *   B
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   20
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   40
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   20
+
+    *
+
+*    *   3.1.13
+
+    *   Persischer Klee
+
+    *
+    *   B
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   20
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   20
+
+    *   12
+
+    *   97
+
+    *   1,5
+
+    *   1,0
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   20
+
+    *
+
+*    *   3.1.14
+
+    *   Ackerbohne
+
+    *
+    *   B
+
+    *   80
+
+    *   5
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   80
+
+    *   5
+
+    *   15
+
+    *   98
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *   3.1.15
+
+    *   Pannonische Wicke,
+
+    *
+    *   B
+
+    *   85
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *
+
+*    *
+    *   Saatwicke
+
+    *
+    *   Z-1, Z-2
+
+    *   85
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   H
+
+    *   85
+
+    *   20
+
+    *   15
+
+    *   97
+
+    *   2,0
+
+    *   1,5
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *   3.1.16
+
+    *   Zottelwicke
+
+    *
+    *   B
+
+    *   85
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   85
+
+    *   20
+
+    *   15
+
+    *   98
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   1 000
+
+    *
+
+*    *
+
+*    *   3.2
+
+    *   Gesundheitszustand
+
+
+*    *   3.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten befallen sein.
+
+
+*    *   3.2.2
+
+    *   Das Saatgut darf nicht von lebenden Milben befallen sein, wenn sich
+        bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+*    *   3.2.3
+
+    *   Von Stengelälchen (Ditylenchus dipasaci), parasitischen Pilzen oder
+        von parasitischen Bakterien darf Saatgut nicht in größerem Ausmaß
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergibt; bei Ackerbohne und Futtererbse ist ein größeres
+        Ausmaß hinsichtlich des Befalls mit Stengelälchen gegeben, wenn in 300
+        Körnern mehr als 5 Stengelälchen nachgewiesen werden.
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   4
+
+    *   Sonstige Futterpflanzen
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   4.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Art
+
+    *   Kategorie
+        (B = Basis-
+        saatgut
+        Z = Zerti-
+        fiziertes
+        Saatgut)
+
+    *   Mindest-
+        keim-
+        fähigkeit
+
+    *   Höchstge-
+        halt
+        an
+        Feuchtig-
+[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006519124]
+        keit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006519124]
+   Höchstbesatz mit anderen Pflanzenarten
+
+    *   Gewicht
+        des
+        Probenteils
+        für die
+        Prüfung
+        nach
+        den Spalten
+        10 bis 13
+
+    *   Sons-
+        stige
+        An-
+        forde-
+        rungen
+
+
+*    *
+    *   bezogen auf das Gewicht
+
+    *   in einem Probenteil nach Spalte 14
+        innerhalb der Menge nach Spalte 6
+
+
+*    *
+    *   insge-
+        samt
+
+    *   innerhalb einer Menge
+        nach Spalte 6
+
+    *   eine ein- zelne Art
+
+    *   abweichend von Spalte 7 oder 10
+
+
+*    *
+    *   eine
+        einzelne
+        Art
+
+    *   abweichend
+        von Spalte 7
+
+    *   Flughafer
+        und Flug-
+        hafer-
+        bastarde
+
+    *   Seide
+        und
+[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006519124]
+        Kreuzkraut
+
+    *   Ampfer
+        außer
+        Kleinem
+        Sauerampfer
+        und
+        Strandampfer
+
+
+*    *
+    *   Hede-
+        rich
+
+    *   Acker-
+        senf
+
+
+*    *
+
+*    *
+
+*    *
+    *   (v. H. der reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H. des Gewichts)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (v. H.)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (g)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+    *   15
+
+
+*    *   4.1.1
+
+    *   Kohlrübe
+
+    *
+    *   B
+
+    *   80
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   100
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   10
+
+    *   98
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *   0
+
+    *[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006519124]
+   0
+
+    *   5
+
+    *   100
+
+    *
+
+*    *   4.1.2
+
+    *   Futterkohl
+
+    *
+    *   B
+
+    *   75
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   3
+
+    *   100
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   75
+
+    *   10
+
+    *   98
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   100
+
+    *
+
+*    *   4.1.3
+
+    *   Phazelie
+
+    *
+    *   B
+
+    *   80
+
+    *   13
+
+    *   96
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *
+    *   40
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   13
+
+    *   96
+
+    *   1,0
+
+    *   0,5
+
+    *
+    *
+    *
+    *   0
+
+    *   0
+
+    *
+    *   40
+
+    *
+
+*    *   4.1.4
+
+    *   Ölrettich
+
+    *
+    *   B
+
+    *   80
+
+    *   10
+
+    *   97
+
+    *   0,3
+
+    *
+    *
+    *
+    *   20
+
+    *   0
+
+    *   0
+
+    *   2
+
+    *   300
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   10
+
+    *   97
+
+    *   1,0
+
+    *   0,5
+
+    *   0,3
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   5
+
+    *   300
+
+    *
+
+*    *
+
+*    *   4.2
+
+    *   Gesundheitszustand
+
+
+*    *   4.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten befallen sein, wenn
+        sich bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+*    *   4.2.2
+
+    *   Das Saatgut darf nicht von lebenden Milben befallen sein, wenn sich
+        bei der Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+*    *   4.2.3
+
+    *   Das Saatgut darf nicht von parasitischen Pilzen oder von parasitischen
+        Bakterien in größerem Ausmaß befallen sein, wenn sich bei der
+        Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   5
+
+    *   Öl- und Faserpflanzen
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   5.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Art
+
+    *   Kategorie
+        (B = Basis-
+        saatgut
+        Z = Zertifi-
+        ziertes
+        Saatgut
+        Z-1 = Zertifi-
+        ziertes
+        Saatgut
+        erster
+        Gene-
+        ration
+        Z-2 = Zertifi-
+        ziertes
+        Saatgut
+        zweiter
+        Gene-
+        ration
+        Z-3 = Zertifi-
+        ziertes
+        Saatgut
+        dritter
+        Gene-
+        ration
+        H = Handels-
+        saatgut)
+
+    *   Mindest-
+        keim-
+        fähigkeit
+
+    *   Höchstge-
+        halt
+        an
+        Feuchtig-
+[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006519124]
+        keit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006519124]
+   Höchstbesatz mit anderen Pflanzenarten
+
+    *   Gewicht
+        des
+        Probenteils
+        für die
+        Prüfung
+        nach
+        den Spalten
+        7 bis 13
+
+    *   Sons-
+        stige
+        An-
+        forde-
+        rungen
+
+
+*    *
+    *   bezogen
+        auf das
+        Gewicht
+
+    *   in einem Probenteil nach Spalte 14
+
+
+*    *
+    *   insge-
+        samt
+
+    *   innerhalb der Menge nach Spalte 6 oder 7
+
+
+*    *
+    *   Flughafer
+        und Flug-
+        hafer-
+        bastarde
+
+    *[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006519124]
+   Seide
+
+    *   Hederich
+
+    *   Ampfer
+        außer
+        Kleinem
+        Sauerampfer
+        und
+        Strand-
+        ampfer
+
+    *   Acker-
+        fuchs-
+        schwanz
+
+    *   Taumel-
+        lolch
+
+
+*    *
+
+*    *
+
+*    *
+    *   (v. H. der reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H. des Gewichts)
+
+    *   (v. H.)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (Körner)
+
+    *   (g)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *   9
+
+    *   10
+
+    *   11
+
+    *   12
+
+    *   13
+
+    *   14
+
+    *   15
+
+
+*    *   5.1.1
+
+    *   Sareptasenf
+
+    *
+    *   B
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006519124]
+   0
+
+    *   10
+
+    *   2
+
+    *
+    *
+    *   40
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   40
+
+    *
+
+*    *   5.1.2
+
+    *[^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006519124]
+   Raps
+
+    *
+    *   B
+
+    *   85
+
+    *   9
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   2
+
+    *
+    *
+    *   100
+
+    *
+
+*    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   9
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   100
+
+    *
+
+*    *   5.1.3
+
+    *   Schwarzer Senf
+
+    *
+    *   B
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   2
+
+    *
+    *
+    *   40
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   40
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   H
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   40
+
+    *
+
+*    *   5.1.4
+
+    *   Rübsen
+
+    *
+    *   B
+
+    *   85
+
+    *   9
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   2
+
+    *
+    *
+    *   70
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   9
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   70
+
+    *
+
+*    *   5.1.5
+
+    *   Hanf
+
+    *
+    *   B
+
+    *   75
+
+    *   10
+
+    *   98
+
+    *
+    *   30
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   600
+
+    *[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2
+
+    *   75
+
+    *   10
+
+    *   98
+
+    *
+    *   30
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   600
+
+    *
+
+*    *   5.1.6
+
+    *[^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006519124]
+   Sojabohne
+
+    *
+    *   B
+
+    *   80
+
+    *   15
+
+    *   98
+
+    *
+    *   5
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   1 000
+
+    *[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *   Z-1, Z-2
+
+    *   80
+
+    *   15
+
+    *   98
+
+    *
+    *   5
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   1 000
+
+    *
+
+*    *   5.1.7
+
+    *   Sonnenblume
+
+    *
+    *   B
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *
+    *   5
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   1 000
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *
+    *   5
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   1 000
+
+    *
+
+*    *   5.1.8
+
+    *   Lein
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Faserlein
+
+    *
+    *   B
+
+    *   92
+
+    *   13
+
+    *   99
+
+    *
+    *   15
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *   4
+
+    *   2
+
+    *   150
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2, Z-3
+
+    *   92
+
+    *   13
+
+    *   99
+
+    *
+    *   15
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *   4
+
+    *   2
+
+    *   150
+
+    *
+
+*    *
+    *
+    *   sonstiger Lein
+
+    *
+    *   B
+
+    *   85
+
+    *   13
+
+    *   99
+
+    *
+    *   15
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *   4
+
+    *   2
+
+    *   150
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z-1, Z-2, Z-3
+
+    *   85
+
+    *   13
+
+    *   99
+
+    *
+    *   15
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *   4
+
+    *   2
+
+    *   150
+
+    *
+
+*    *   5.1.9
+
+    *   Mohn
+
+    *
+    *   B
+
+    *   80
+
+    *   10
+
+    *   98
+
+    *
+    *   25
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   10
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   80
+
+    *   10
+
+    *   98
+
+    *
+    *   25
+
+    *   0
+
+    *   0
+
+    *
+    *
+    *
+    *
+    *   10
+
+    *
+
+*    *   5.1.10
+
+    *   Weißer Senf
+
+    *
+    *   B
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   2
+
+    *
+    *
+    *   200
+
+    *
+
+*    *
+    *
+    *
+    *
+    *   Z
+
+    *   85
+
+    *   10
+
+    *   98
+
+    *   0,3
+
+    *
+    *   0
+
+    *   0
+
+    *   10
+
+    *   5
+
+    *
+    *
+    *   200
+
+    *
+
+*    *[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006519124]
+[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006519124]
+
+
+*    *   5.2
+
+    *   Gesundheitszustand
+
+
+*    *   5.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergibt.
+
+
+*    *   5.2.2
+
+    *   Von Botrytis-Pilzen dürfen Hanf, Sonnenblume und Lein nur bis zu 5 v.
+        H. der Körner befallen sein.
+
+
+*    *   5.2.3
+
+    *   Von Keimlingskrankheiten (Alternaria linicola, Phoma exigua var.
+        linicola, Colletotrichum linicola, Fusarium spp.) darf Lein nur bis zu
+        5 v. H. der Körner befallen sein; Faserlein darf nur bis zu 1 v. H.
+        der Körner mit Phoma exigua var. linicola befallen sein.
+
+
+*    *   5.2.4
+
+    *   Das Saatgut darf von Sclerotinia sclerotiorum
+
+
+*    *
+    *
+    *   bei Sareptasenf, Schwarzem Senf
+
+    *   nur bis zu
+
+    *   20
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   bei Raps, Sonnenblume
+
+    *   nur bis zu
+
+    *   10
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   bei Rübsen, Weißem Senf
+
+    *   nur bis zu
+
+    *   5
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Sklerotien oder Bruchstücken von Sklerotien in einem Probenteil nach
+        Spalte 14 befallen sein, wenn sich bei der Beschaffenheitsprüfung der
+        Verdacht eines Befalls ergibt.
+
+
+*    *   5.2.5
+
+    *   Das Saatgut von Sojabohne darf befallen sein
+
+
+*    *   5.2.5.1
+
+    *   von Diaporthe phaseolorum nur bis zu 15 v. H. der Körner,
+
+
+*    *   5.2.5.2
+
+    *   von Pseudomonas syringae pv. glycinea bei einer Untersuchung von 5
+        Stichproben mit je 1 000 Körnern nur mit höchstens 4 Stichproben.
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   6
+
+    *   Rüben
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   6.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Art
+
+    *   Mindest-
+        keimfähigkeit
+
+    *[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006519124]
+   Höchstgehalt an Feuchtigkeit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *   Höchstbesatz
+        mit anderen
+        Pflanzenarten
+        bezogen auf
+[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006519124]
+        das Gewicht
+
+    *   Sonstige
+        Anforderungen
+
+
+*    *
+    *
+    *   (v. H. der
+        reinen Körner)
+
+    *   (v. H.)
+
+    *   (v. H. des
+        Gewichts)
+
+    *   (v. H.)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *   6.1.1
+
+    *   Runkelrübe
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Monogermsaatgut
+
+    *   73
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006519124]
+[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *   Präzisionssaatgut
+
+    *   73
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006519124]
+
+
+*    *
+    *
+    *   anderes Saatgut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   Sorten mit mehr als 85 v. H.
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   Diploiden
+
+    *   73
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *
+    *
+    *
+    *   sonstige Sorten
+
+    *   68
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *   6.1.2
+
+    *   Zuckerrübe
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Monogermsaatgut
+
+    *   80
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *
+    *
+    *   Präzisionssaatgut
+
+    *   75
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *
+    *
+    *   anderes Saatgut
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   Sorten mit mehr als 85 v. H.
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *   Diploiden
+
+    *   73
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *
+    *
+    *
+    *   sonstige Sorten
+
+    *   68
+
+    *   15
+
+    *   97
+
+    *   0,3
+
+    *
+
+*    *
+
+*    *   6.2
+
+    *   Gesundheitszustand
+
+
+*    *   6.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergibt.
+
+
+*    *   6.2.2
+
+    *   Das Saatgut darf nicht von parasitischen Pilzen oder von parasitischen
+        Bakterien in größerem Ausmaß befallen sein, wenn sich bei der
+        Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   7
+
+    *   Gemüse
+
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   7.1
+
+    *   Reinheit, Keimfähigkeit und Gehalt an Feuchtigkeit
+
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   Art
+
+    *   Mindest-
+[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006519124]
+        keimfähigkeit
+
+    *   Höchstgehalt
+        an
+[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006519124]
+        Feuchtigkeit
+
+    *   Technische
+        Mindest-
+        reinheit
+
+    *   Höchstbesatz
+        mit anderen
+        Pflanzenarten
+        bezogen auf
+[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006519124]
+        das Gewicht
+
+    *   Sonstige
+        An-
+        forderungen
+
+
+*    *
+    *
+    *   (v. H. der
+        reinen Körner
+        oder Knäuel)
+
+    *   (v. H.)
+
+    *   (v. H. des
+        Gewichts)
+
+    *   (v. H.)
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+
+*    *   7.1.1
+
+    *   Zwiebel, Schalotte
+
+    *
+    *   70
+
+    *   13
+
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.1a
+
+    *   Winterheckenzwiebel
+
+    *
+    *   65
+
+    *
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.2
+
+    *   Porree
+
+    *
+    *   65
+
+    *   13
+
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.2a
+
+    *   Knoblauch
+
+    *
+    *   65
+
+    *
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.2b
+
+    *   Schnittlauch
+
+    *
+    *   65
+
+    *
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.3
+
+    *   Kerbel
+
+    *
+    *   70
+
+    *
+    *   96
+
+    *   1
+
+    *
+
+*    *   7.1.4
+
+    *   Sellerie
+
+    *
+    *   70
+
+    *   13
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.5
+
+    *   Spargel
+
+    *
+    *   70
+
+    *   15
+
+    *   96
+
+    *   0,5
+
+    *
+
+*    *   7.1.6
+
+    *   Mangold
+
+    *
+    *   70
+
+    *
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.7
+
+    *   Rote Rübe
+
+    *
+    *   70
+
+    *   15
+
+    *   97
+
+    *   0,5
+
+    *[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006519124]
+
+
+*    *   7.1.8
+
+    *   Kohlrabi, Grünkohl, Brokkoli,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Weißkohl, Rotkohl, Wirsing,
+
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Rosenkohl, Chinakohl
+
+    *   75
+
+    *   10
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.9
+
+    *   Blumenkohl
+
+    *
+    *   70
+
+    *   10
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.10
+
+    *   Herbstrübe, Mairübe
+
+    *
+    *   80
+
+    *   10
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.11
+
+    *   Paprika, Chili
+
+    *
+    *   65
+
+    *   13
+
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.12
+
+    *   Endivie
+
+    *
+    *   65
+
+    *   13
+
+    *   95
+
+    *   1
+
+    *
+
+*    *   7.1.13
+
+    *   Chicorée, Blattzichorie
+
+    *
+    *   65
+
+    *
+    *   95
+
+    *   1,5
+
+    *
+
+*    *   7.1.13a
+
+    *   Wurzelzichorie, Industriezichorie
+
+    *
+    *   80
+
+    *
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.14
+
+    *   Wassermelone, Melone
+
+    *
+    *   75
+
+    *
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.15
+
+    *   Gurke
+
+    *
+    *   80
+
+    *   13
+
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.16
+
+    *   Riesenkürbis
+
+    *
+    *   80
+
+    *
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.17
+
+    *   Gartenkürbis, Ölkürbis, Zucchini
+
+    *
+    *   75
+
+    *   13
+
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.18
+
+    *   Artischocke, Cardy
+
+    *
+    *   65
+
+    *
+    *   96
+
+    *   0,5
+
+    *
+
+*    *   7.1.19
+
+    *   Möhre
+
+    *
+    *   65
+
+    *   13
+
+    *   95
+
+    *   1
+
+    *[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006519124]
+
+
+*    *   7.1.20
+
+    *   Fenchel
+
+    *
+    *   70
+
+    *
+    *   96
+
+    *   1
+
+    *
+
+*    *   7.1.21
+
+    *   Salat
+
+    *
+    *   75
+
+    *   13
+
+    *   95
+
+    *   0,5
+
+    *
+
+*    *   7.1.22
+
+    *   Tomate
+
+    *
+    *   75
+
+    *   13
+
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.23
+
+    *   Petersilie
+
+    *
+    *   65
+
+    *   13
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.24
+
+    *   Prunkbohne
+
+    *
+    *   80
+
+    *   15
+
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.25
+
+    *   Buschbohne, Stangenbohne
+
+    *   75
+
+    *   15
+
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.26
+
+    *   Erbse (außer Futtererbse)
+
+    *   80
+
+    *   15
+
+    *   98
+
+    *   0,1
+
+    *[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006519124]
+
+
+*    *   7.1.27
+
+    *   Rettich, Radieschen
+
+    *   70
+
+    *   10
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.27a
+
+    *   Rhabarber
+
+    *
+    *   70
+
+    *
+    *   97
+
+    *   0,5
+
+    *
+
+*    *   7.1.28
+
+    *   Schwarzwurzel
+
+    *   70
+
+    *   13
+
+    *   95
+
+    *   1
+
+    *
+
+*    *   7.1.29
+
+    *   Aubergine
+
+    *
+    *   65
+
+    *
+    *   96
+
+    *   0,5
+
+    *
+
+*    *   7.1.30
+
+    *   Spinat
+
+    *
+    *   75
+
+    *   13
+
+    *   97
+
+    *   1
+
+    *
+
+*    *   7.1.31
+
+    *   Feldsalat
+
+    *
+    *   65
+
+    *   13
+
+    *   95
+
+    *   1
+
+    *
+
+*    *   7.1.32
+
+    *   Dicke Bohne
+
+    *
+    *   80
+
+    *   15
+
+    *   98
+
+    *   0,1
+
+    *
+
+*    *   7.1.33
+
+    *   Zuckermais, Puffmais
+
+    *
+    *[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006519124]
+   85
+
+    *
+    *   98
+
+    *   0,1
+
+    *
+
+*    *
+
+*    *   7.2
+
+    *   Gesundheitszustand
+
+
+*    *   7.2.1
+
+    *   Das Saatgut darf nicht von lebenden Schadinsekten oder lebenden Milben
+        befallen sein, wenn sich bei der Beschaffenheitsprüfung der Verdacht
+        eines Befalls ergibt.
+
+
+*    *   7.2.2
+
+    *   Das Saatgut darf nicht von parasitischen Pilzen oder von parasitischen
+        Bakterien in größerem Ausmaß befallen sein, wenn sich bei der
+        Beschaffenheitsprüfung der Verdacht eines Befalls ergibt.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   8
+
+    *   Saatgutmischungen
+
+    *
+    *
+    *
+    *
+    *
+
+*    *   8.1
+
+    *   Mischungen nach § 26 Abs. 3 Satz 2, die Saatgut von Arten enthalten,
+        die nicht im Artenverzeichnis aufgeführt sind, müssen folgende
+        Anforderungen erfüllen:
+
+
+*    *   8.1.1
+
+    *   Die Mischung muss frei von Flughafer, Flughaferbastarden und Seide
+        sein, 1 Korn Flughafer, Flughaferbastard oder Seide in 100 g Saatgut
+        gilt nicht als Unreinheit, wenn weitere 200 g Saatgut frei von
+        Flughafer, Flughaferbastarden oder Seide sind.
+
+
+*    *   8.1.2
+
+    *   Der Besatz mit Körnern von Ackerfuchsschwanz darf höchstens 0,3 v. H.
+        des Gewichtes betragen.
+
+
+*    *   8.1.3
+
+    *   Der Besatz mit Ampfer außer Kleinem Sauerampfer und Strandampfer darf
+        höchstens 2 Körner in 5 g betragen.
+
+
+*    *
+    *
+
+
+   Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, in einem Probenteil nach Spalte 12 bei Basissaatgut
+    10, bei Zertifiziertem Saatgut 30 und bei Zertifiziertem Saatgut
+    zweiter Generation 100 Körner nicht überschreiten; dies gilt auch für
+    die Fluoreszenz bei Hafer. Ergibt sich bei der Beschaffenheitsprüfung
+    ein Verdacht auf Besatz mit Körnern anderer Sorten derselben Art, kann
+    diese Feststellung auch anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_01_BJNR001460986BJNE006519124]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+    Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
+    dass der Höchstwert überschritten ist.
+[^BJNR001460986BJNE006518118_02_BJNR001460986BJNE006519124]:     Ein weiteres Korn gilt nicht als Unreinheit, wenn eine weitere
+    Teilprobe von 500 g Gewicht frei ist.
+[^BJNR001460986BJNE006518118_03_BJNR001460986BJNE006519124]:     Bei Inzuchtlinien 250 g.
+[^BJNR001460986BJNE006518118_04_BJNR001460986BJNE006519124]:     In 100 Körnern höchstens 5 Körner, deren Grannenlänge die halbe
+    Kornlänge übertrifft.
+[^BJNR001460986BJNE006518118_05_BJNR001460986BJNE006519124]:     Für Sorten von Nackthafer und Nacktgerste beträgt die
+    Mindestkeimfähigkeit 75 v. H. der reinen Körner.
+[^BJNR001460986BJNE006518118_06_BJNR001460986BJNE006519124]:     Für Sorten von Hartweizen beträgt die Mindestkeimfähigkeit 85 v. H.
+    der reinen Körner.
+[^BJNR001460986BJNE006518118_07_BJNR001460986BJNE006519124]:     Eine weitere Sklerotie oder ein weiteres Bruchstück gilt nicht als
+    Unreinheit, wenn eine weitere Teilprobe von 500 g nicht mehr als 4
+    Sklerotien oder Bruchstücke von Sklerotien enthält.
+[^BJNR001460986BJNE006518118_08_BJNR001460986BJNE006519124]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+    Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
+    dass der Höchstwert überschritten ist.
+[^BJNR001460986BJNE006518118_09_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, bei Basissaatgut und Zertifiziertem Saatgut den in
+    Spalte 6 jeweils angegebenen Höchstwert nicht überschreiten. Ergibt
+    sich bei der Beschaffenheitsprüfung ein Verdacht auf Besatz mit
+    Körnern anderer Sorten derselben Art, kann diese Feststellung auch
+    anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_10_BJNR001460986BJNE006519124]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+    Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
+[^BJNR001460986BJNE006518118_11_BJNR001460986BJNE006519124]:     Ein Höchstbesatz von 0,8 v. H. des Gewichts an Körnern anderer
+    Rispenarten gilt nicht als Unreinheit.
+[^BJNR001460986BJNE006518118_12_BJNR001460986BJNE006519124]:     (weggefallen)
+[^BJNR001460986BJNE006518118_13_BJNR001460986BJNE006519124]:     Ein Höchstbesatz von 80 Körnern von Rispenarten, die unter das
+    Saatgutverkehrsgesetz fallen, gilt nicht als Unreinheit.
+[^BJNR001460986BJNE006518118_14_BJNR001460986BJNE006519124]:     Der Höchstwert gilt nicht für Körner von Rispenarten.
+[^BJNR001460986BJNE006518118_15_BJNR001460986BJNE006519124]:     Gilt nicht für den Besatz mit anderen Rispenarten; der Höchstbesatz
+    mit anderen Rispenarten als der zu untersuchenden Art überschreitet
+    nicht 1 Korn in 500 Körnern.
+[^BJNR001460986BJNE006518118_16_BJNR001460986BJNE006519124]:     Ein Höchstbesatz von 20 Körnern von Rispenarten, die unter das
+    Saatgutverkehrsgesetz fallen, gilt nicht als Unreinheit.
+[^BJNR001460986BJNE006518118_17_BJNR001460986BJNE006519124]:     Zwei Körner gelten nicht als Unreinheit, wenn ein weiterer Probenteil
+    nach Spalte 16 frei ist.
+[^BJNR001460986BJNE006518118_18_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+    dem Doppelten des Gewichts nach Spalte 16 frei ist.
+[^BJNR001460986BJNE006518118_19_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+    dem Gewicht nach Spalte 16 frei ist.
+[^BJNR001460986BJNE006518118_20_BJNR001460986BJNE006519124]:     Alle frischen und gesunden, nach Vorbehandlung nicht gekeimten Körner
+    gelten als gekeimt.
+[^BJNR001460986BJNE006518118_21_BJNR001460986BJNE006519124]:     Hartschalige Körner gelten bis zu dem Höchstanteil nach Spalte 4 als
+    keimfähige Körner.
+[^BJNR001460986BJNE006518118_22_BJNR001460986BJNE006519124]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+    Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergeben
+    hat, dass der Höchstwert überschritten ist.
+[^BJNR001460986BJNE006518118_23_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, bei Basissaatgut, Zertifiziertem Saatgut und
+    Zertifiziertem Saatgut zweiter Generation den in Spalte 7 jeweils
+    angegebenen Höchstwert nicht überschreiten. Bei Zertifiziertem Saatgut
+    und Zertifiziertem Saatgut zweiter Generation von Ackerbohnen beträgt
+    dieser Höchstwert 1 v. H. Ergibt sich bei der Beschaffenheitsprüfung
+    ein Verdacht auf Besatz mit Körnern anderer Sorten derselben Art, kann
+    diese Feststellung auch anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_24_BJNR001460986BJNE006519124]:     Ein Höchstbesatz von 1 v. H. des Gewichtes an Körnern von Rotklee gilt
+    nicht als Unreinheit.
+[^BJNR001460986BJNE006518118_25_BJNR001460986BJNE006519124]:     Ein Höchstbesatz von 0,5 v. H. des Gewichtes an Körnern von Weißer
+    Lupine, Blauer Lupine, Schmalblättrige Lupine, Gelber Lupine,
+    Futtererbse, Ackerbohne, Pannonischer Wicke, Saatwicke oder
+    Zottelwicke – außer der jeweils betroffenen Art – gilt nicht als
+    Unreinheit; bei Handelssaatgut von Pannonischer Wicke und von
+    Saatwicke gilt ein Höchstbesatz von 6 v. H. des Gewichtes an Körnern
+    von Pannonischer Wicke, Zottelwicke oder verwandter
+    Kulturpflanzenarten – außer der jeweils betroffenen Art – nicht als
+    Unreinheit.
+[^BJNR001460986BJNE006518118_26_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+    dem Doppelten des Gewichtes nach Spalte 15 frei ist.
+[^BJNR001460986BJNE006518118_27_BJNR001460986BJNE006519124]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+    Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
+[^BJNR001460986BJNE006518118_28_BJNR001460986BJNE006519124]:     Der Höchstbesatz an Seide bezieht sich auf einen Probenteil mit dem
+    Doppelten des Gewichtes nach Spalte 15; dies gilt nicht für Saatgut,
+    das ausschließlich im Inland oder in Dänemark, Luxemburg, den
+    Niederlanden oder dem Vereinigten Königreich aufgewachsen ist.
+[^BJNR001460986BJNE006518118_29_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil mit
+    dem Vierfachen des Gewichtes nach Spalte 15 frei ist.
+[^BJNR001460986BJNE006518118_30_BJNR001460986BJNE006519124]:     Bei bitterstoffarmen Lupinen darf in 100 Körnern höchstens 1 bitteres
+    Korn enthalten sein.
+[^BJNR001460986BJNE006518118_31_BJNR001460986BJNE006519124]:     In 100 Körnern dürfen an Körnern anderer Farbe höchstens 1 Korn bei
+    bitterstoffarmen Lupinen, 2 Körner bei anderen Lupinen enthalten sein.
+[^BJNR001460986BJNE006518118_32_BJNR001460986BJNE006519124]:     Bei bitterstoffarmen Lupinen dürfen in 200 Körnern höchstens 5 bittere
+    Körner enthalten sein.
+[^BJNR001460986BJNE006518118_33_BJNR001460986BJNE006519124]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
+    pilliertes oder inkrustiertes Saatgut.
+[^BJNR001460986BJNE006518118_35_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, bei Basissaatgut und Zertifiziertem Saatgut den in
+    Spalte 6 jeweils angegebenen Höchstwert nicht überschreiten. Ergibt
+    sich bei der Beschaffenheitsprüfung ein Verdacht auf Besatz mit
+    Körnern anderer Sorten derselben Art, kann diese Feststellung auch
+    anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_36_BJNR001460986BJNE006519124]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+    Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
+[^BJNR001460986BJNE006518118_37_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
+    Spalte 14 frei ist.
+[^BJNR001460986BJNE006518118_38_BJNR001460986BJNE006519124]:     Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
+    granuliertes und inkrustiertes Saatgut.
+[^BJNR001460986BJNE006518118_39_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Außer bei Sojabohne und bei Hybridsorten
+    von Raps darf der Besatz mit anderen Sorten derselben Art, soweit es
+    an äußerlich erkennbaren Merkmalen des Saatgutes feststellbar ist, bei
+    Basissaatgut, Zertifiziertem Saatgut und Zertifiziertem Saatgut
+    zweiter Generation den in den Spalten 6 und 7 jeweils angegebenen
+    Höchstwert nicht überschreiten. Ergibt sich bei der
+    Beschaffenheitsprüfung ein Verdacht auf Besatz mit Körnern anderer
+    Sorten derselben Art, kann diese Feststellung auch anhand weiterer
+    Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_40_BJNR001460986BJNE006519124]:     Die zahlenmäßige Bestimmung wird nur durchgeführt, wenn sich bei der
+    Beschaffenheitsprüfung des Saatgutes der Verdacht auf Besatz ergibt.
+[^BJNR001460986BJNE006518118_41_BJNR001460986BJNE006519124]:     Ein Korn gilt nicht als Unreinheit, wenn ein weiterer Probenteil nach
+    Spalte 14 frei ist.
+[^BJNR001460986BJNE006518118_42_BJNR001460986BJNE006519124]:     (weggefallen)
+[^BJNR001460986BJNE006518118_43_BJNR001460986BJNE006519124]:     (weggefallen)
+[^BJNR001460986BJNE006518118_44_BJNR001460986BJNE006519124]:     Das Saatgut muß frei von Sommerwurz sein; ein Korn Sommerwurz in einem
+    Probenteil von 100 g gilt nicht als Unreinheit, wenn ein weiterer
+    Probenteil von 200 g frei ist.
+[^BJNR001460986BJNE006518118_45_BJNR001460986BJNE006519124]:     Der Anteil an unschädlichen Verunreinigungen darf 0,3 v. H. des
+    Gewichtes nicht überschreiten.
+[^BJNR001460986BJNE006518118_46_BJNR001460986BJNE006519124]: [^BJNR001460986BJNE006518118_47_BJNR001460986BJNE006519124]:     Die Sortenreinheit des Saatgutes von Hybridsorten von Raps beträgt,
+    soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, bei Basissaatgut, weibliche Komponente    99,0 v. H.
+    Basissaatgut, männliche Komponente   99,9 v. H. Zertifiziertem Saatgut
+    von Winterraps    90,0 v. H. Zertifiziertem Saatgut von Sommerraps
+    85,0 v. H. Die Feststellung der Sortenreinheit kann mittels geeigneter
+    biochemischer Methoden vorgenommen werden.
+    Die Anforderungen an den Gehalt an Feuchtigkeit gelten nicht für
+    pilliertes, granuliertes oder inkrustiertes Saatgut.
+[^BJNR001460986BJNE006518118_48_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, den in Spalte 5 jeweils angegebenen Höchstwert nicht
+    überschreiten. Ergibt sich bei der Beschaffenheitsprüfung ein Verdacht
+    auf Besatz mit Körnern anderer Sorten derselben Art, kann diese
+    Feststellung auch anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_49_BJNR001460986BJNE006519124]:     Bei Monogermsaatgut müssen mindestens 90 v. H. der gekeimten Knäuel
+    nur einen Keimling enthalten; Knäuel mit drei und mehr Keimlingen
+    dürfen höchstens zu 5 v. H. der gekeimten Knäuel vorhanden sein.
+[^BJNR001460986BJNE006518118_50_BJNR001460986BJNE006519124]:     Bei Präzisionssaatgut müssen mindestens 70 v. H. der gekeimten Knäuel
+    nur einen Keimling enthalten; Knäuel mit drei und mehr Keimlingen
+    dürfen höchstens zu 5 v. H. der gekeimten Knäuel vorhanden sein.
+[^BJNR001460986BJNE006518118_51_BJNR001460986BJNE006519124]:     Bei Monogermsaatgut und Präzisionssaatgut darf der Anteil an
+    unschädlichen Verunreinigungen bei Basissaatgut 1 v. H. und bei
+    Zertifiziertem Saatgut 0,5 v. H. des Gewichtes nicht überschreiten;
+    soweit eine Probe nach § 11 Absatz 1 Satz 3 gezogen worden ist, ist
+    das Ergebnis der Prüfung dieser Probe maßgeblich.
+[^BJNR001460986BJNE006518118_52_BJNR001460986BJNE006519124]:     Bei Prunkbohne, Buschbohne, Stangenbohne, Erbse und Dicker Bohne
+    gelten frische und gesunde, nach Vorbehandlung nicht gekeimte Körner
+    als gekeimt; bei Prunkbohne, Buschbohne, Stangenbohne und Dicker Bohne
+    gilt ein Höchstanteil von 5 v. H. an hartschaligen Körnern als
+    keimfähige Körner.
+[^BJNR001460986BJNE006518118_53_BJNR001460986BJNE006519124]:     Der Gehalt an Feuchtigkeit wird nur geprüft, wenn sich bei der
+    Probenahme oder bei der Beschaffenheitsprüfung der Verdacht ergibt,
+    dass der Höchstwert überschritten ist.
+[^BJNR001460986BJNE006518118_54_BJNR001460986BJNE006519124]:     Die Anforderungen an den Höchstbesatz mit Samen anderer Pflanzenarten
+    müssen nur in Bezug auf solche Arten erfüllt sein, die sich an
+    samendiagnostischen Merkmalen eindeutig von dem zu untersuchenden
+    Saatgut unterscheiden lassen. Der Besatz mit anderen Sorten derselben
+    Art darf, soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, den in Spalte 5 jeweils angegebenen Höchstwert nicht
+    überschreiten. Ergibt sich bei der Beschaffenheitsprüfung ein Verdacht
+    auf Besatz mit Körnern anderer Sorten derselben Art, kann diese
+    Feststellung auch anhand weiterer Merkmale erfolgen.
+[^BJNR001460986BJNE006518118_55_BJNR001460986BJNE006519124]:     Bei Monogermsaatgut müssen mindestens 90 v. H., bei Präzisionssaatgut
+    mindestens 70 v. H. der gekeimten Knäuel nur einen Keimling enthalten;
+    Knäuel mit drei und mehr Keimlingen dürfen höchstens zu 5 v. H. der
+    gekeimten Knäuel vorhanden sein.
+[^BJNR001460986BJNE006518118_56_BJNR001460986BJNE006519124]:     Das Saatgut darf keinen Besatz mit Seide aufweisen; die zahlenmäßige
+    Bestimmung wird durchgeführt, wenn sich bei der Beschaffenheitsprüfung
+    der Verdacht auf Besatz ergibt.
+[^BJNR001460986BJNE006518118_57_BJNR001460986BJNE006519124]:     Innerhalb des Besatzes nach Spalte 5 darf kein Besatz mit Futtererbse
+    vorhanden sein.
+[^BJNR001460986BJNE006518118_58_BJNR001460986BJNE006519124]:     Für Sorten von Zuckermais „super sweet“ beträgt die
+    Mindestkeimfähigkeit 80 v. H. der reinen Körner.
+[^BJNR001460986BJNE006518118_59_BJNR001460986BJNE006519124]:     Die Sortenreinheit des Zertifizierten Saatgutes von Hybridsorten von
+    Gerste beträgt 85 v. H. Die Kontrolle der Sortenreinheit erfolgt in
+    der Nachprüfung.
+[^BJNR001460986BJNE006518118_60_BJNR001460986BJNE006519124]: [^BJNR001460986BJNE006518118_61_BJNR001460986BJNE006519124]:     Die Sortenreinheit des Saatgutes von Sorten von Sojabohne beträgt,
+    soweit es an äußerlich erkennbaren Merkmalen des Saatgutes
+    feststellbar ist, bei Basissaatgut                 99,5 v. H.
+    Zertifiziertem Saatgut   99,0 v. H.
+
+(zu § 11 Abs. 2, § 20 Abs. 3, § 21 Abs. 2 und 3, § 27 Abs. 1 und 5)
+
+### Anlage 4 Größe der Partien und Proben
 
 (Fundstelle: BGBl. I 2006, 385 - 386;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4834,11 +11591,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   1.3.1
 
-    *   Sorghum bicolor, Sorghum bicolor x Sorghum sudanense
+    *   Sorghum bicolor
 
     *   30
 
-    *   1 000
+    *   900
 
 
 *    *   1.3.2
@@ -4847,7 +11604,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   10
 
-    *   1 000
+    *   250
+
+
+*    *   1.3.3
+
+    *   Sorghum bicolor x Sorghum sudanense
+
+    *   30
+
+    *   300
 
 
 *    *   2
@@ -4859,7 +11625,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Straußgräser, Lieschgräser, Rispenarten, Goldhafer
 
-    *   10
+    *   10 / 25\*\**
 
     *   50
 
@@ -4868,7 +11634,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Wiesenfuchsschwanz, Knaulgras, Schwingelarten
 
-    *   10
+    *   10 / 25\*\**
 
     *   100
 
@@ -4877,7 +11643,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Glatthafer, Festulolium, Weidelgräser
 
-    *   10
+    *   10 / 25\*\**
 
     *   200
 
@@ -5280,7 +12046,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   25 ++)
 
-    *   750
+    *   1 000
 
 
 *    *   7.2
@@ -5308,10 +12074,16 @@ worden ist, sowie bei Saatgutträgern 7 500 Körner oder Knäuel.
     einer Partie 35 t.
 
 
+*\*\*) Bei der Erhöhung des Höchstgewichtes einer Partie auf bis zu 25 Tonnen
+    gilt § 4 Absatz 8 entsprechend.
 
 
 
-### Anlage 5 (zu § 29 Absatz 3 und 7 und §§ 31 und 43 Absatz 1a und 2) Angaben auf dem Etikett und dem Einleger
+
+(zu § 29 Absatz 3 und 7, §§ 31 und 33 Absatz 6 und § 43 Absatz 1a und
+2)
+
+### Anlage 5 Angaben auf dem Etikett und dem Einleger
 
 (Fundstelle: BGBl. I 2006, 387 - 388;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5331,6 +12103,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.3 Kennzeichen der Anerkennungsstelle
 
 
+        1.3a Amtlich zugeteilte Seriennummer
+
+
         1.4 Art, bei Festulolium (Festuca spp. x Lolium spp.) die Namen der Arten
             innerhalb der Gattungen Festuca und Lolium 1)
 
@@ -5341,8 +12116,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         1.6 Kategorie 3)
 
 
-        1.7 Anerkennungsnummer; bei Basissaatgut von Hybridsorten von Roggen, das
-            aus einer Mischung der mütterlichen und väterlichen Erbkomponente
+        1.7 Anerkennungsnummer; bei Basissaatgut von Hybridsorten von Getreide,
+            das aus einer Mischung der mütterlichen und väterlichen Erbkomponente
             besteht, ist zusätzlich anzugeben "Technische Mischung"
 
 
@@ -5405,6 +12180,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3.3 Kennzeichen der Zulassungsstelle
 
 
+        3.3a Amtlich zugeteilte Seriennummer
+
+
         3.4 "Handelssaatgut (nicht der Sorte nach anerkannt)"
 
 
@@ -5433,6 +12211,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         4.2 Kennzeichen der Anerkennungsstelle
+
+
+        4.2a Amtlich zugeteilte Seriennummer
 
 
         4.3 "Saatgutmischung für ..." (Verwendungszweck)
@@ -5468,6 +12249,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         6.2 "Bundesrepublik Deutschland"
 
 
+        6.2a Amtlich zugeteilte Seriennummer
+
+
         6.3 Art 1)
 
 
@@ -5494,11 +12278,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         7.1 Angaben nach den Nummern 1.2
-            5)                               , 1.4, 1.10, 4.5
+            5), 1.4, 1.10, 4.5
 
 
         7.2 „Bundessortenamt”
             5)
+
+
+        7.2a Amtlich zugeteilte Seriennummer
 
 
         7.3 Genehmigungsnummer des Bundessortenamtes
@@ -5550,8 +12337,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu §§ 40 und 42 Abs. 1)
 
-### Anlage 6 (zu §§ 40 und 42 Abs. 1) Kleinpackungen Höchstmengen und Kennzeichnung
+### Anlage 6 Kleinpackungen Höchstmengen und Kennzeichnung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 389 - 390;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -5654,11 +12442,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 1.2.4 Sortenbezeichnung (bei Zertifiziertem Saatgut)
 
 
-1.2.5 Kennnummer der Partie (bei den Nummern 1.1.1 und 1.1.2)
+1.2.4a Zulassungsnummer (bei Handelssaatgut)
 
 
-1.2.6 von dem abfüllenden Betrieb festgesetzte Partienummer (bei Nummer
-    1\.1.3)
+1.2.5 Kennnummer der Partie
+
+
+1.2.6 „Verschließung …“ (Monat, Jahr)
 
 
 1.2.7 Füllmenge oder Stückzahl der Körner oder Knäuel
@@ -5928,10 +12718,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         3.2.3 "Saatgutmischung für ..." (Verwendungszweck)
 
 
-        3.2.4 Kennnummer (bei Kleinpackung EG B)
+        3.2.4 Kennnummer
 
 
-        3.2.5 Mischungsnummer (außer bei Kleinpackung EG B)
+        3.2.5 „Verschließung …“ (Monat, Jahr)
 
 
         3.2.6 Füllmenge oder Stückzahl der Körner
@@ -5997,9 +12787,9 @@ Species ..................................................:
 ............
 Espece
 Sorte
-Cultivar .................................................:
+Variety .................................................:
 ............
-Cultivar
+Variété
 Zahl der Packungen und angegebenes Gewicht der Partie
 Number of containers and declared weight of lot ..........:
 ............
@@ -6014,20 +12804,23 @@ comme:
 \*) Basissaatgut (weißes Etikett)
 Basic Seed (white label)
 Semences de base (etiquette blanche)
-\*) Zertifiziertes Saatgut, Zertifiziertes Saatgut erster
-Generation (blaues Etikett)
+\*) Zertifiziertes Saatgut, Zertifiziertes Saatgut erster Generation
+(blaues Etikett)
 Certified Seed, Certified Seed
-1(hoch)st generation
-(blue label)
-Semences certifiees, Semences certifiees de  1(hoch)iere
-generation (etiquette bleue)
+1
+st generation (blue label)
+Semences certifiees, Semences certifiees de  1
+iere generation (etiquette bleue)
 \*) Zertifiziertes Saatgut der zweiten oder dritten Generation (rotes
 Etikett)
 Certified Seed
-2(hoch)nd or 3(hoch)rd generation (red label)
+2
+nd or 3
+rd generation (red label)
 Semences certifiees de
-2(hoch)eme ou 3(hoch)eme
-generation (etiquette rouge)
+2
+ème ou 3
+ème generation (etiquette rouge)
 \*) Vorstufensaatgut (weißes Etikett mit violettem Streifen)
 Pre-Basic Seed (white label with violett stripe)
 Semences pre-base (etiquette blanche avec une bande violette)
@@ -6061,9 +12854,9 @@ Species ..................................................:
 ............
 Espece
 Sorte
-Cultivar .................................................:
+Variety  .................................................:
 ............
-Cultivar
+Variété
 Zahl der Packungen und angegebenes Gewicht der Partie
 Number of containers and declared weight of lot ..........:
 ............
@@ -6078,13 +12871,13 @@ comme:
 \*) Basissaatgut (weißes Etikett)
 Basic Seed (white label)
 Semences de base (etiquette blanche)
-\*) Zertifiziertes Saatgut, Zertifiziertes Saatgut erster
-Generation (blaues Etikett)
+\*) Zertifiziertes Saatgut, Zertifiziertes Saatgut erster Generation
+(blaues Etikett)
 Certified Seed, Certified Seed
-1(hoch)st generation
-(blue label)
-Semences certifiees, Semences certifiees de  1(hoch)iere
-generation (etiquette bleue)
+1
+st generation (blue label)
+Semences certifiees, Semences certifiees de  1
+iere generation (etiquette bleue)
 \*) Vorstufensaatgut (weißes Etikett mit violettem Streifen)
 Pre-Basic Seed (white label with violett stripe)
 Semences pre-base (etiquette blanche avec une bande violette)
@@ -6096,8 +12889,108 @@ Localite et pays
 Delete as necessary
 Rayer la mention inutile
 
+Muster 3
+Zertifikat
+ausgestellt auf Grund des OECD-Systems für die sortenmäßige
+Zertifizierung von Saatgutmischungen
+## **von Futterpflanzen und Getreide, die für den internationalen
+Handel bestimmt sind**
 
-### Anlage 8 (zu §§ 46, 47 und 48 Abs. 3 Nr. 3) Etiketten und Einleger
+Certificate
+issued under the OECD-Scheme for the Varietal Certification of
+Mixtures of Herbage Seed
+## **Moving in International Trade**
+
+Certificat
+délivré conformément au système de l´OCDE pour la certification
+variétale
+## **des semences de mélanges de plantes fourragères destinées au
+commerce international**
+
+
+*    *   Name der zuständigen Behörde, die das Zertifikat ausstellt
+        Name of Designated Authority issuing the certificate
+        .....................
+        Nom de l´Autorité désignée délivrant le certificat
+
+    *   : .....................
+
+
+*    *   Referenznummer der Mischung
+        Lot Reference Number  .....................
+        Numéro de référence
+
+    *   :  .....................
+
+
+*    *   Bestandteile der Mischung
+        Constituents of the lot  .....................
+        Composants du mélange
+
+    *   :  .....................
+
+
+*    *   Art
+        Species
+        Espèce
+
+    *   Sorte
+        Variety
+        Variété
+
+    *   Referenznummer der Partie
+        Seed lot reference number
+        Numéro de référence du lot
+
+    *   Anteil vom Hundert des Gewichts
+        Percentage by weight of mixture
+        Pourcentage en poids du mélange
+
+
+*    *   1. …
+        2\. …
+        3\. …
+        (…)
+
+    *
+    *
+    *
+    *
+
+*    *   Zahl der Packungen und angegebenes Gewicht der Partie
+        Number of containers and declared weight of lot  .....................
+        Nombre d´emballages et poids déclaré du lot
+
+    *   :  .....................
+
+
+*    *   Das Saatgut, das diese Referenznummer trägt, ist gemäß dem OECD-System
+        für Futterpflanzensaatgut und Getreidesaatgut erzeugt und anerkannt.
+        The seed lot bearing this reference number has been produced in
+        accordance with the OECD Herbage Scheme and is approved.
+        Le lot de semences portant ce numéro de référence a été produit et
+        agréé conformément aux dispositions du système de l´OCDE pour les
+        plantes fourragères.
+
+
+*    *   Ort und Staat
+        Place and country
+        Lieu et pays
+
+    *   Datum
+        Date
+        Date
+
+    *   Unterschrift (oder elektronische Signatur)
+        Signature (or an equivalent electronic authorization)
+        Signature (ou signature électronique)
+
+
+
+
+(zu §§ 46, 47 und 48 Abs. 3 Nr. 3)
+
+### Anlage 8 Etiketten und Einleger
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 393 - 395
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -6117,6 +13010,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             "Nom et adresse de l'Autorite designee"
 
 
+        1.1.1a „Amtlich zugeteilte Seriennummer“
+
+            „Officially assigned serial number“
+
+            „Numéro d´ordre attribué officiellement“
+
+
         1.1.2 "Art (botanischer Name)"
 
             "Species (Latin name)"
@@ -6124,293 +13024,408 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             "Espece (nom latin)"
 
 
+        1.1.3
+            *                *   „Sortenbezeichnung“
 
+                *   (Bei Mais Angaben nach Nummer 3.4)
 
 
 
 
+            „Variety denomination“
 
+            „Dénomination variétale“
 
 
-*    *   1.1.3
 
-    *   "Sortenbezeichnung"
 
-    *   (Bei Mais und Sorghum Angaben nach Nummer 3.4)
 
+    1.1.4 "Kategorie"
 
+        "Category"
 
+        "Categorie"
 
-*
-    *
-        *   "Cultivar name"
 
-            "Nome du cultivar"
+    1.1.5 "Referenznummer"
 
+        "Reference number"
 
-        1.1.4 "Kategorie"
+        "Numero de reference"
 
-            "Category"
 
-            "Categorie"
+    1.1.6 "Datum der Probenahme"
 
+        "Date of sampling"
 
-        1.1.5 "Referenznummer"
+        "Date de l'echantillonnage"
 
-            "Reference number"
 
-            "Numero de reference"
+    1.1.7 Bei Runkelrübe und Zuckerrübe zusätzlich
 
+        "Saatgutbeschreibung (Monogerm-, Präzisions- oder natürliches
+        Saatgut)"
 
-        1.1.6 "Datum der Probenahme"
+        "Seed description (Monogerm, precision or natural seed)"
 
-            "Date of sampling"
+        "Description de la semence (semence monogerme, precision ou
+        naturelle)"
 
-            "Date de l'echantillonnage"
 
+    1.1.8 Bei Gemüsesaatgut zusätzlich
 
-        1.1.7 Bei Runkelrübe und Zuckerrübe zusätzlich
+        "Landesüblicher Name"
 
-            "Saatgutbeschreibung (Monogerm-, Präzisions- oder natürliches
-            Saatgut)"
+        "Common name"
 
-            "Seed description (Monogerm, precision or natural seed)"
+        "Nom commun"
 
-            "Description de la semence (semence monogerme, precision ou
-            naturelle)"
 
+    1.2 Standardsaatgut
 
-        1.1.8 Bei Gemüsesaatgut zusätzlich
 
-            "Landesüblicher Name"
+    1.2.1 "Landesüblicher Name"
 
-            "Common name"
+        "Common name"
 
-            "Nom commun"
+        "Nome commun"
 
 
-        1.2 Standardsaatgut
+    1.2.2 „Sortenbezeichnung“
 
+        „Variety denomination“
 
-        1.2.1 "Landesüblicher Name"
+        „Dénomination variétale“
 
-            "Common name"
 
-            "Nome commun"
+    1.2.3 "Kategorie"
 
+        "Category"
 
-        1.2.2 "Sortenbezeichnung"
+        "Categorie"
 
-            "Cultivar name"
 
-            "Nom du cultivar"
+    1.2.4 "Referenznummer der Partie"
 
+        "Identification number of the lot"
 
-        1.2.3 "Kategorie"
+        "Numero d'identification du lot"
 
-            "Category"
 
-            "Categorie"
+    1.2.5 "Name und Anschrift der für die Partie verantwortlichen Person oder
+        Firma"
 
+        "Name and address of the person or firm responsible for the lot"
 
-        1.2.4 "Referenznummer der Partie"
+        "Nom et adresse de la personne ou de l'entreprise responsable du lot"
 
-            "Identification number of the lot"
 
-            "Numero d'identification du lot"
+    1.2.6 "Dieses Saatgut unterliegt nur einer stichprobenweisen Nachkontrolle"
 
+        "Seed subject only to random post control"
 
-        1.2.5 "Name und Anschrift der für die Partie verantwortlichen Person oder
-            Firma"
+        "Semences soumises seulement par sondage a un postcontrole"
 
-            "Name and address of the person or firm responsible for the lot"
 
-            "Nom et adresse de la personne ou de l'entreprise responsable du lot"
+    1.3 Zertifiziertes Saatgut von Gemüse in Kleinpackungen
 
 
-        1.2.6 "Dieses Saatgut unterliegt nur einer stichprobenweisen Nachkontrolle"
+    1.3.1 "Landesüblicher Name des Gemüses"
 
-            "Seed subject only to random post control"
+        "Common name of the vegetable"
 
-            "Semences soumises seulement par sondage a un postcontrole"
+        "Nom commun du legume"
 
 
-        1.3 Zertifiziertes Saatgut von Gemüse in Kleinpackungen
+    1.3.2 „Sortenbezeichnung“
 
+        „Variety denomination“
 
-        1.3.1 "Landesüblicher Name des Gemüses"
+        „Dénomination variétale“
 
-            "Common name of the vegetable"
 
-            "Nom commun du legume"
+    1.3.3 "Partienummer"
 
+        "Code number"
 
-        1.3.2 "Sortenbezeichnung"
+        "Numero de code"
 
-            "Cultivar name"
 
-            "Nom du cultivar"
+    1.3.4 "Name und Anschrift des Herstellers der Packung"
 
+        "Name and address of packager"
 
-        1.3.3 "Partienummer"
+        "Nom et adresse de l'emballeur"
 
-            "Code number"
 
-            "Numero de code"
+    1.3.5 "Abgepackt aus OECD-Zertifiziertem Saatgut"
 
+        "Packaged from OECD Certified Seed"
 
-        1.3.4 "Name und Anschrift des Herstellers der Packung"
+        "Emballage rempli a partir de semences certifiees OCDE"
 
-            "Name and address of packager"
 
-            "Nom et adresse de l'emballeur"
+    1.4 Anerkanntes Vorstufensaatgut
 
 
-        1.3.5 "Abgepackt aus OECD-Zertifiziertem Saatgut"
+    1.4.1 Angaben nach den Nummern 1.1.1 bis 1.1.3 und 1.1.5 bis 1.1.8
 
-            "Packaged from OECD Certified Seed"
 
-            "Emballage rempli a partir de semences certifiees OCDE"
+    1.4.2 "Vorstufensaatgut"
 
+        "Pre-Basic seed"
 
-        1.4 Anerkanntes Vorstufensaatgut
+        "Semences pre-base"
 
 
-        1.4.1 Angaben nach den Nummern 1.1.1 bis 1.1.3 und 1.1.5 bis 1.1.8
+    1.4.3 Zusätzlich kann die Zahl der höchstens vorgesehenen Generationen bis
+        zum Zertifizierten Saatgut angegeben werden
 
 
-        1.4.2 "Vorstufensaatgut"
+    1.5 Mischungen
 
-            "Pre-Basic seed"
 
-            "Semences pre-base"
+    1.5.1 „Bezeichnung der Mischung“ (gegebenenfalls)
 
+        „Name of the mixture“ (if any)
 
-        1.4.3 Zusätzlich kann die Zahl der höchstens vorgesehenen Generationen bis
-            zum Zertifizierten Saatgut angegeben werden
+        „Nom du mélange“ (le cas échéant)
 
 
-        **2** **Aufdruck und Mindestgröße**
+    1.5.2 „Saatgutmischung für …“ (z.B. Rasen, Futternutzung, Weide)
 
+        „Seed mixture for ... “ (e.g. turf, lawn, grazing, permanent pasture)
 
-        2.1 Aufdruck
+        „Mélange de semences destiné à …“ (ex. gazon, pelouse, prairie
+        permanente, pâturage, …)
 
 
-        2.1.1 Das Etikett und der Einleger sind an einem Ende 3 cm schwarz zu färben
-            und mit den Worten "OECD-Seed-Scheme" und "Systeme OCDE pour les
-            semences" zu versehen. Die verbleibende Fläche muss in schwarzem Druck
-            die Angaben nach Nummer 1 enthalten.
+    1.5.3 „Name und Anschrift der zuständigen Behörde“
 
+        „Name and address of National Designated Authority“
 
-        2.1.2 Das Etikett und der Einleger kann doppelseitig bedruckt werden.
+        „Nom et adresse de l´Autorité nationale désignée“
 
 
-        2.2 Mindestgröße 110 x 67 mm
+    1.5.4 „Mischungsnummer“
 
+        „Reference number of the lot“
 
-        **3** **Zusätzliche Angaben**
+        „Numéro de référence du lot“
 
 
-        3.1 nach § 47 Abs. 1
+    1.5.5 „Amtlich zugeteilte Seriennummer“
 
-            bei Basissaatgut und Zertifiziertem Saatgut von Runkelrübe und
-            Zuckerrübe und bei Zertifiziertem Saatgut von Gemüsearten
+        „Officially assigned serial number“
 
-            "Saatgut nicht abschließend geprüft, Anforderungen an den Feldbestand
-            erfüllt"
+        „Numéro d´ordre attribué officiellement“
 
-            "Seed not finally certified, requirements of field inspection are
-            fulfilled"
 
-            "Semences ne pas certifiees definitivement; la culture est
-            conformement aux regles pour l'inspection sur pied"
+    1.5.6 „Arten, die Bestandteil der Mischung sind“
 
+        „Species of the constituents“
 
-        3.2 nach § 47 Abs. 2
+        „Espèces composantes“
 
-            bei Basissaatgut von Runkelrübe und Zuckerrübe
 
-            "Saatgut der Linie ..."
+    1.5.7 „Verschließung ... “ (Monat, Jahr)
 
-            "Seed of the line ..."
+        „Sealed …“ (month and year when officially sealed)
 
-            "Semences de la lignee ..."
+        „Scellé …“ (mois et année du scellement officiel)
 
-            "Erbkomponente auf Basissaatgutstufe - Anbau nur nach Zuchtschema"
 
-            "Individual line on Basic Seed level - Cultivation only according to
-            breeding scheme"
+    1.5.8 „Angegebenes Gewicht der Packung oder angegebene Zahl der Körner“
 
-            "Lignee individuelle au niveau des Semences de base - Cultivation
-            seulement a la formule"
+        „Declared net or gross weight or declared number of seeds“
 
+        „Poids net ou brut déclaré ou nombre déclaré de graines pures“
 
-        3.3 nach § 48 Abs. 3 Nr. 3
 
-            "Wiederverschlossen"
+    1.5.9 Bei pilliertem, granuliertem oder inkrustiertem Saatgut oder Saatgut
+        mit festen Zusätzen:
 
-            "Resealed"
 
-            "Reconditionne"
+    1.5.9.1 „Art der Behandlung“ oder „Art der Zusätze“
 
+        „Nature of treatment“ or „nature of additives“
 
-        3.4 Basissaatgut und Zertifiziertes Saatgut von Mais und Sorghum
+        „Nature du traitement“ ou „nature des additifs“
 
 
-        3.4.1 bei Basissaatgut und Vorstufensaatgut anstelle der Sortenbezeichnung
-            je nach gegebenem Fall
+    1.5.9.2 „Verhältnis der reinen Körner oder Knäuel zum Gesamtgewicht“ (bei
+        Angabe des Gewichtes)
 
-            "Frei abblühend"
+        „Ratio of weight of pure grains to total weight“ (if weight is
+        declared)
 
-            "Open pollinated"
+        „Rapport entre le poids des graines pures et le poids total“ (en cas
+        d´indication d´un poids)
 
-            "a pollinisation libre",
 
-            "Hybride"
+    1.5.9.3 „Zahl der keimfähigen Samen je Gewichtseinheit“ (bei granuliertem
+        Saatgut)
 
-            "cross"
+        „Number of germinable seeds per unit of weight“ (in case of granulated
+        seed)
 
-            "hybride" oder
+        „Nombre de graines pouvant germer par unité de poids“ (en cas des
+        semences granulées)
 
-            "Inzuchtlinie"
 
-            "inbred line"
+    1.5.10 Für jeden Bestandteil der Mischung (die Angaben nach den Nummern
+        1\.5.10.1 bis 1.5.10.4 können auf dem Zertifikat oder auf dem amtlichen
+        Etikett gemacht werden; bei Packungen, die weniger als zwei Kilogramm
+        Saatgut enthalten, können diese Angaben auch auf der Packung gemacht
+        werden):
 
-            "lignee inbred"
 
-            sowie die vom Bundessortenamt festgesetzte Bezeichnung, anderenfalls
-            eine Bezeichnung, die die Identifizierung ermöglicht.
+    1.5.10.1 „Art“ (botanische Bezeichnung)
 
+        „Species“ (Latin name)
 
-        3.4.2 bei Zertifiziertem Saatgut zusätzlich zur Sortenbezeichnung je nach
-            gegebenem Fall
+        „Espèce“ (dénomination botanique)
 
-            "Frei abblühend"
 
-            "open pollinated"
+    1.5.10.2 „Sortenbezeichnung“
 
-            "a pollinisation libre" oder
+        „Variety denomination“
 
-            Hybridsorte"
+        „Dénomination variétale“
 
-            "hybrid"
 
-            "hybride"
+    1.5.10.3 „Anerkennungsnummer“
 
+        „Reference number“
 
-        3.5 bei Zertifiziertem Saatgut erster, zweiter oder dritter Generation
-            zusätzlich zur Kategorie:
+        „Numéro de référence du lot“
 
-            "erster Generation", "zweiter Generation" oder "dritter Generation"
 
-            "1(hoch)st generation", "2(hoch)nd generation" oder "3(hoch)rd
-            generation"
+    1.5.10.4 „Anteil in vom Hundert des Gewichts“
 
-            "de 1(hoch)iere generation", "de 2(hoch)eme generation" oder "de 3
-            (hoch)eme generation".
+        „Percentage by weight of the mixture“
 
+        „Pourcentage en poids du mélange“
 
 
+    **2** **Aufdruck und Mindestgröße**
+
+
+    2.1 Aufdruck
+
+
+    2.1.1 Das Etikett und der Einleger sind an einem Ende 3 cm schwarz zu färben
+        und mit den Worten "OECD-Seed-Scheme" und "Systeme OCDE pour les
+        semences" zu versehen. Die verbleibende Fläche muss in schwarzem Druck
+        die Angaben nach Nummer 1 enthalten.
+
+
+    2.1.2 Das Etikett und der Einleger kann doppelseitig bedruckt werden.
+
+
+    2.2 Mindestgröße 110 x 67 mm
+
+
+    **3** **Zusätzliche Angaben**
+
+
+    3.1 nach § 47 Abs. 1
+
+        bei Basissaatgut und Zertifiziertem Saatgut von Runkelrübe und
+        Zuckerrübe und bei Zertifiziertem Saatgut von Gemüsearten
+
+        "Saatgut nicht abschließend geprüft, Anforderungen an den Feldbestand
+        erfüllt"
+
+        "Seed not finally certified, requirements of field inspection are
+        fulfilled"
+
+        "Semences ne pas certifiees definitivement; la culture est
+        conformement aux regles pour l'inspection sur pied"
+
+
+    3.2 nach § 47 Abs. 2
+
+        bei Basissaatgut von Runkelrübe und Zuckerrübe
+
+        "Saatgut der Linie ..."
+
+        "Seed of the line ..."
+
+        "Semences de la lignee ..."
+
+        "Erbkomponente auf Basissaatgutstufe - Anbau nur nach Zuchtschema"
+
+        "Individual line on Basic Seed level - Cultivation only according to
+        breeding scheme"
+
+        "Lignee individuelle au niveau des Semences de base - Cultivation
+        seulement a la formule"
+
+
+    3.3 nach § 48 Abs. 3 Nr. 3
+
+        "Wiederverschlossen"
+
+        "Resealed"
+
+        "Reconditionne"
+
+
+    3.4 Basissaatgut und Zertifiziertes Saatgut von Mais und Sorghum
+
+
+    3.4.1 bei Basissaatgut und Vorstufensaatgut anstelle der Sortenbezeichnung
+        je nach gegebenem Fall
+
+        "Frei abblühend"
+
+        "Open pollinated"
+
+        "a pollinisation libre",
+
+        "Hybride"
+
+        "cross"
+
+        "hybride" oder
+
+        "Inzuchtlinie"
+
+        "inbred line"
+
+        "lignee inbred"
+
+        sowie die vom Bundessortenamt festgesetzte Bezeichnung, anderenfalls
+        eine Bezeichnung, die die Identifizierung ermöglicht.
+
+
+    3.4.2 bei Zertifiziertem Saatgut zusätzlich zur Sortenbezeichnung je nach
+        gegebenem Fall
+
+        "Frei abblühend"
+
+        "open pollinated"
+
+        "a pollinisation libre" oder
+
+        Hybridsorte"
+
+        "hybrid"
+
+        "hybride"
+
+
+    3.5 bei Zertifiziertem Saatgut erster, zweiter oder dritter Generation
+        zusätzlich zur Kategorie:
+
+        "erster Generation", "zweiter Generation" oder "dritter Generation"
+
+        "1(hoch)st generation", "2(hoch)nd generation" oder "3(hoch)rd
+        generation"
+
+        "de 1(hoch)iere generation", "de 2(hoch)eme generation" oder "de 3
+        (hoch)eme generation".
 
 
 

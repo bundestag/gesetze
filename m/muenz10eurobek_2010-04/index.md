@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze „200. Geburtstag des Komponisten Robert Schumann“)
 jurabk: Münz10EuroBek 2010-04
 layout: default
-origslug: m_nz10eurobek_2010-04
+origslug: muenz10eurobek_2010-04
 slug: muenz10eurobek_2010-04
 
 ---
@@ -51,7 +51,7 @@ DEUTSCHLAND 2010“ und dem Münzzeichen „J“ über dem Adlerkopf ein
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
 „TÖNE SIND HÖHERE WORTE
-•             “
+•“
 
 (eine Feststellung Schumanns, festgehalten in seinem Tagebuch von
 1828).

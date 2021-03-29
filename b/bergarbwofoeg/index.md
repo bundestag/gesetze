@@ -2,7 +2,7 @@
 Title: Gesetz zur Förderung des Bergarbeiterwohnungsbaues im Kohlenbergbau
 jurabk: BergArbWoFöG
 layout: default
-origslug: bergarbwof_g
+origslug: bergarbwofoeg
 slug: bergarbwofoeg
 
 ---
@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 25.7.1997 I 1942;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 8.12.2007 I 2812
+:   Art. 2 G v. 17.7.2017 I 2531
 
 
 ## Erster Teil - Aufbringung und Verwendung der Kohlenabgabe
@@ -40,12 +40,12 @@ getroffenen Vereinbarungen erfüllt.
 
 (3) Zur Abwicklung des Treuhandvermögens haben die Treuhandstellen den
 Überschuß der Einnahmen über die Ausgaben in Abstimmung mit dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung jeweils zum
-30\. Juni und 31. Dezember eines Jahres bis zur vollständigen
-Abwicklung des Treuhandvermögens an den Bundeshaushalt abzuführen. Das
-Aufkommen aus der Fehlbelegungsabgabe im Sinne des § 10 Abs. 2 Satz 2
-des Gesetzes über den Abbau der Fehlsubventionierung im Wohnungswesen
-ist dem sozialen Wohnungsbau zuzuführen.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+jeweils zum 30. Juni und 31. Dezember eines Jahres bis zur
+vollständigen Abwicklung des Treuhandvermögens an den Bundeshaushalt
+abzuführen. Das Aufkommen aus der Fehlbelegungsabgabe im Sinne des §
+10 Abs. 2 Satz 2 des Gesetzes über den Abbau der Fehlsubventionierung
+im Wohnungswesen ist dem sozialen Wohnungsbau zuzuführen.
 
 (4) Aus den Überschüssen stellt der Bund für den sozialen Wohnungsbau
 in den Haushaltsjahren 1997 und 1998 jeweils 250 Millionen Deutsche
@@ -88,10 +88,10 @@ d)  ehemalige sozialversicherte Arbeitnehmer des Kohlenbergbaues, die
     ausgeschieden sind, und deren Witwen. Dies gilt nur, wenn den
     betroffenen Arbeitnehmern eine anderweitige Beschäftigung im
     Kohlenbergbau zu zumutbaren Bedingungen nicht angeboten wurde. Das
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-    ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-    und Technologie durch Rechtsverordnung mit Zustimmung des Bundesrates
-    nähere Bestimmungen über die zumutbaren Bedingungen einer
+    Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+    wird ermächtigt, im Einvernehmen mit dem Bundesministerium für
+    Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+    Bundesrates nähere Bestimmungen über die zumutbaren Bedingungen einer
     Weiterbeschäftigung im Kohlenbergbau nach den Gesichtspunkten des
     sozialen Besitzstandes, des zeitlichen Aufwandes und der räumlichen
     Entfernung zu einem anderweitigen Arbeitsplatz im Kohlenbergbau zu
@@ -209,12 +209,12 @@ für einzelne Wohnräume entsprechend.
 ### § 12 Treuhandstellen
 
 Die treuhänderische Verwaltung des Treuhandvermögens wird von Stellen
-wahrgenommen, die das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung beauftragt (Treuhandstellen). Die Treuhandstellen
-werden dem Bundesministerium für Verkehr, Bau und Stadtentwicklung von
-den für das Wohnungs- und Siedlungswesen zuständigen obersten
-Landesbehörden der Länder, in denen Kohlenbergbau betrieben wird,
-vorgeschlagen.
+wahrgenommen, die das Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit beauftragt (Treuhandstellen). Die
+Treuhandstellen werden dem Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit von den für das Wohnungs- und Siedlungswesen
+zuständigen obersten Landesbehörden der Länder, in denen Kohlenbergbau
+betrieben wird, vorgeschlagen.
 
 
 ### (XXXX) §§ 13 bis 15 (weggefallen)
@@ -232,8 +232,9 @@ zu verwalten.
 Verträge und wickelt das Treuhandvermögen ab. Die bei der Durchführung
 dieser Aufgaben entstehenden notwendigen Verwaltungskosten der
 Treuhandstelle können, soweit sie nicht vom Darlehensnehmer zu tragen
-sind, mit Zustimmung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung aus Mitteln des Treuhandvermögens gedeckt werden.
+sind, mit Zustimmung des Bundesministeriums für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit aus Mitteln des Treuhandvermögens gedeckt
+werden.
 
 
 ### § 17 Treuhandvermögen
@@ -255,8 +256,8 @@ bezieht.
 
 (3) Mittel, welche die Treuhandstelle darlehnsweise von einem Dritten
 erhält, gehören nur dann zu dem Treuhandvermögen, wenn das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung der
-Darlehnsaufnahme zugestimmt hat.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+der Darlehnsaufnahme zugestimmt hat.
 
 
 ### § 18 Haftung des Treuhandvermögens
@@ -265,8 +266,8 @@ Darlehnsaufnahme zugestimmt hat.
 Verbindlichkeiten, die sich auf das Treuhandvermögen beziehen; für
 Verbindlichkeiten aus einem von der Treuhandstelle aufgenommenen
 Darlehen haftet die Treuhandstelle mit dem Treuhandvermögen nur, wenn
-das Bundesministerium für Verkehr, Bau und Stadtentwicklung der
-Darlehnsaufnahme zugestimmt hat.
+das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit der Darlehnsaufnahme zugestimmt hat.
 
 (2) Wird in das Treuhandvermögen wegen einer Verbindlichkeit, für
 welche die Treuhandstelle nicht mit dem Treuhandvermögen haftet, die
@@ -295,8 +296,8 @@ Bürgerlichen Gesetzbuchs findet keine Anwendung.
 (1) Die Treuhandstellen unterstehen hinsichtlich des Treuhandvermögens
 der Aufsicht des Bundes.
 
-(2) Die Aufsicht wird durch das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ausgeübt.
+(2) Die Aufsicht wird durch das Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit ausgeübt.
 
 (3) Die Treuhandstellen unterliegen hinsichtlich des Treuhandvermögens
 der Prüfung durch den Bundesrechnungshof.
@@ -328,16 +329,8 @@ Wohnungsbaugesetzes sowie die Vorschriften der §§ 19, 20, 23, 25 bis
 -
 
 
-### § 24 Bergmannswohnungen
+### § 24 (weggefallen)
 
-Auf Bergmannswohnungen im Sinne des § 3 Abs. 1 Buchstabe b des
-Gesetzes über Bergmannssiedlungen in der im Bundesgesetzblatt Teil
-III, Gliederungsnummer 2330-5, veröffentlichten bereinigten Fassung,
-das zuletzt durch Artikel 1 des Gesetzes vom 8. Dezember 2007 (BGBl. I
-S. 2812) geändert worden ist, sind die Vorschriften des § 4 Abs. 1
-Buchstabe d und der §§ 5 und 6 dieses Gesetzes entsprechend
-anzuwenden, soweit sich aus dem Gesetz über Bergmannssiedlungen nichts
-anderes ergibt.
 
 
 ### (XXXX) §§ 24a und 25 (weggefallen)

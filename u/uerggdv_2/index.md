@@ -226,9 +226,9 @@ worden, so genügt es, wenn in dem vorgeschriebenen Muster statt des
 Namens und der Anschrift des Anmelders (§ 14 des Berliner
 Wertpapierbereinigungsgesetzes) die Nummer des Depots und die Stelle
 des Depotbuches angegeben werden. Die
-Berliner Bankaufsichtsbehörde              kann die Angabe von Name
-und Anschrift des Anmelders (§ 14 des Berliner
-Wertpapierbereinigungsgesetzes) verlangen.
+Berliner Bankaufsichtsbehörde kann die Angabe von Name und Anschrift
+des Anmelders (§ 14 des Berliner Wertpapierbereinigungsgesetzes)
+verlangen.
 
 (4) Die Anmeldungen sind in doppelter Ausfertigung bei dem
 Schuldnerinstitut einzureichen.
@@ -246,8 +246,9 @@ Verordnung auch in Berlin (West).
 
 Die Verordnung tritt am Tage nach ihrer Verkündung in Kraft.
 
+Berliner Altbanken, die Schuldverschreibungen ausgegeben haben
 
-## Anlage 1 Berliner Altbanken, die Schuldverschreibungen ausgegeben haben (Emissionsinstitute)
+## Anlage 1 (Emissionsinstitute)
 
 Fundstelle des Originaltextes: BGBl. III 7601-1-2, S 24
 
@@ -369,12 +370,11 @@ I. Für die folgenden Schuldverschreibungen wird geltend gemacht,
 daß das Schuldnerinstitut nach den Vorschriften des
 Altbankengesetzes in Anspruch genommen werden kann:
 1\. **Wertpapierart:**
-2\. **Aktenzeichen**                der Prüfstelle (bei LB-Stücken:
-Stück-
+2\. **Aktenzeichen** der Prüfstelle (bei LB-Stücken: Stück-
 nummern, nach Stückelungen getrennt):
-3\. **Nennbetrag:**                RM
-4\. **Zinsscheine**                per 1):
-5\. **Name**                desjenigen, für den das Recht im
+3\. **Nennbetrag:** RM
+4\. **Zinsscheine** per 1):
+5\. **Name** desjenigen, für den das Recht im
 Wertpapierbereinigungsverfahren rechtskräftig anerkannt worden
 ist (bei schwebenden Anmeldungen Name des Anmelders (§ 14
 des Berliner Wertpapierbereinigungsgesetzes)) 2):
@@ -389,8 +389,7 @@ Wohnsitz oder dauernder Aufenthaltsort, Sitz, Ort der
 Niederlassung oder Geschäftsleitung des zu I 5 Genannten am
 21\.6.1948 unter Angabe des Landes und der
 Staatsangehörigkeit 3):
-3\. **Nur bei Erbfällen,**                wenn weder der Erbe - die
-Erben in
+3\. **Nur bei Erbfällen,** wenn weder der Erbe - die Erben in
 dem Anerkennungsbescheid namentlich genannt sind noch ein
 Erbschein vorliegt:
 Ich bin \*) - Der ............. ist \*) als ......................
@@ -427,8 +426,7 @@ vornehmen, wenn ihr bekannt ist, daß bereits eine Anmeldung nach
 der 35. DVO/UG erstattet worden ist.
 (Rückseite)
 III. **Wir geben als Vermittlungsstelle folgende Bestätigungen ab:**
-1\. 5)                 Bei natürlichen Personen, Gemeinschaftsdepots
-von
+1\. 5)Bei natürlichen Personen, Gemeinschaftsdepots von
 **Eheleuten und Nachlaßdepots:**
 a) Der in der Anmeldung unter I 5 Genannte \*) -
 ein Mitberechtigter \*), und zwar ........................ -
@@ -459,8 +457,7 @@ aus geführt haben.
 3\. 7) Mit dem unter 1 oder 2 Genannten haben wir nach dem
 30\. September 1949 in unmittelbarer Verbindung gestanden.
 IV. **Zusätzliche Bestätigungen der Vermittlungsstelle:**
-1\. **Bei Erbfällen,**                wenn die Bestätigung nur für
-einen
+1\. **Bei Erbfällen,** wenn die Bestätigung nur für einen
 Alleinerben oder einen von mehreren Mitberechtigten
 abgegeben wird:
 Wir bestätigen ferner, daß es sich bei dem Erben
@@ -479,17 +476,15 @@ besonderen Nachweis nicht für erforderlich halten \*)
 - folgende Unterlagen vorliegen, auf Grund deren wir nach
 den Allgemeinen Geschäftsbedingungen berechtigt sind, eine
 Verfügung über das Depot zuzulassen \*):
-2\. **Nur**                wenn                 bei
-Schuldverschreibungen verlagerter
-**Geldinstitute**                die Bestätigung nach III 1 oder 2 für
+2\. **Nur** wennbei Schuldverschreibungen verlagerter
+**Geldinstitute** die Bestätigung nach III 1 oder 2 für
 eine Person im Bundesgebiet abgegeben wird und die
 nachfolgende Bestätigung ohne Rückfrage abgegeben werden kann:
 Der Wohnsitz oder dauernde Aufenthaltsort, Sitz, Ort der
 Niederlassung oder Geschäftsleitung ist erst nach dem
 21\. Juni 1948 in das Bundesgebiet verlegt worden. Hierfür
 liegen uns folgende Unterlagen vor:
-3\.                 Falls eine Wohnsitzbestätigung nach III 1 oder 2
-nicht
+3\.Falls eine Wohnsitzbestätigung nach III 1 oder 2 nicht
 **abgegeben wird:**
 Folgende Unterlagen über den Wohnsitz, dauernden Aufenthaltsort,
 Sitz oder Ort der Geschäftsleitung haben uns vorgelegen \*)

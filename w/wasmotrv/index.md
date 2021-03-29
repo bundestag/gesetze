@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 769
 
-Zuletzt geändert durch
-:   § 38 Abs. 7 V v. 16.12.2011; 2012 I 2 (1717)
-
+Stand: Zuletzt geändert Art. 5 V v. 3.5.2017 I 1016
 
 ## Eingangsformel
 
@@ -102,7 +100,13 @@ Im Sinne dieser Verordnung sind
 
     Kleinfahrzeuge, die als Personal Water Craft wie "Wasserbob",
     "Wasserscooter", "Jetbike" oder "Jetski" bezeichnet werden, und
-    sonstige gleichartige Fahrzeuge.
+    sonstige gleichartige Fahrzeuge,
+
+
+4.  Wanderfahrt:
+    eine Fahrt mit einem festen Ausgangspunkt und einem festen Zielpunkt,
+    bei der die einzelnen Wegpunkte des Streckenverlaufs nicht mehr als
+    zweimal passiert werden.
 
 
 
@@ -116,9 +120,8 @@ für das Fahren mit Wassermotorrädern
 1.  die Verkehrsordnungen (§ 1 Nr. 2),
 
 
-2.  die Sportbootführerscheinverordnung-Binnen vom 22. März 1989 (BGBl. I
-    S. 536, 1102), geändert durch § 4 Abs. 5 des Gesetzes vom 25.
-    September 1990 (BGBl. I S. 2106),
+2.  die Sportbootführerscheinverordnung vom 3. Mai 2017 (BGBl. I S. 1016)
+    in der jeweils geltenden Fassung,
 
 
 3.  die Verordnung über die Kennzeichnung von auf Binnenschiffahrtsstraßen
@@ -143,8 +146,8 @@ Wassermotorrädern außerhalb der durch das Tafelzeichen E.22 der Anlage
 Rheinschiffahrtspolizeiverordnung vom 19. Dezember 1994 (BGBl. II S.
 3816) freigegebenen Wasserflächen verboten. Satz 1 gilt nicht für
 
-1.  Fahrten zum Erreichen der nächstgelegenen freigegebenen Wasserfläche
-    und für Touren- oder Wanderfahrten,
+1.  Fahrten zum Erreichen einer freigegebenen Wasserfläche auf kürzestem
+    Weg von der nächstgelegenen Einsetzstelle aus und für Wanderfahrten,
 
 
 2.  den Einsatz als ziehendes Fahrzeug im Sinne des § 3 Abs. 3 Satz 2 der
@@ -153,14 +156,23 @@ Rheinschiffahrtspolizeiverordnung vom 19. Dezember 1994 (BGBl. II S.
     Wasserflächen,
 
 
-3.  Rettungseinsätze mit Dienstfahrzeugen der als gemeinnützig anerkannten
+3.  Einsätze mit Dienstfahrzeugen der als gemeinnützig anerkannten
     Körperschaften und Diensteinsätze mit Dienstfahrzeugen des
     öffentlichen Dienstes.
 
 
 
-Satz 2 Nr. 1 gilt nur, wenn ein klar erkennbarer Geradeauskurs
-eingehalten wird.
+Satz 2 Nummer 1 gilt nur, wenn
+
+a)  ein klar erkennbarer Geradeauskurs eingehalten wird,
+
+
+b)  eine Wanderfahrt mit demselben oder weit überwiegenden Streckenverlauf
+    der vorangegangenen Wanderfahrt mehr als eine Stunde nach Beendigung
+    der vorangegangenen Wanderfahrt durchgeführt wird.
+
+
+
 
 (2) In den Fällen des Absatzes 1 Satz 2 und 3 darf durch die Fahrweise
 des Wassermotorrads kein anderer gefährdet oder mehr als nach den
@@ -185,8 +197,8 @@ erforderlich, die Breitenbegrenzung der freigegebenen Wasserflächen
 an.
 
 (3) Eine Übersicht über die für das Fahren mit Wassermotorrädern
-freigegebenen Wasserflächen wird vom Bundesministerium für Verkehr,
-Bau und Stadtentwicklung im Verkehrsblatt veröffentlicht.
+freigegebenen Wasserflächen wird vom Bundesministerium für Verkehr und
+digitale Infrastruktur im Verkehrsblatt veröffentlicht.
 
 
 ## § 5 Zuwasserlassen, Herausnehmen aus dem Wasser
@@ -211,15 +223,16 @@ Führen von Wassermotorrädern nur erlaubt,
 
 
 2.  wenn Fahrzeugführer und Begleitpersonen Schwimmhilfen tragen, die
-    mindestens den Anforderungen nach DIN EN 393 entsprechen oder in
+    mindestens den Anforderungen nach DIN EN 393/A1, Ausgabe Juni 1998,
+    oder DIN EN ISO 12402-5, Ausgabe Dezember 2006, entsprechen oder in
     anderer Weise einen Auftrieb von mindestens 50 Newton gewährleisten.
 
 
 
-Die in Satz 2 Nr. 2 genannte DIN-Norm ist beim Deutschen Patent- und
-Markenamt in München archivmäßig gesichert niedergelegt und durch das
-Deutsche Institut für Normung, Burggrafenstraße 6, 10787 Berlin, zu
-beziehen.
+Die in Satz 2 Nummer 2 genannten DIN-Normen sind beim Deutschen
+Patent- und Markenamt in München archivmäßig gesichert niedergelegt
+und durch das Deutsche Institut für Normung, Burggrafenstraße 6, 10787
+Berlin, zu beziehen.
 
 (2) Der Eigentümer eines Wassermotorrades darf weder anordnen noch
 zulassen, daß das Wassermotorrad unter Verletzung der in Absatz 1
@@ -228,8 +241,8 @@ genannten Verpflichtungen geführt wird.
 
 ## § 7 Übertragung von Befugnissen
 
-Die Wasser- und Schiffahrtsdirektionen werden ermächtigt, durch
-Rechtsverordnung für einzelne zum Verkehr mit Wassermotorrädern
+Die Generaldirektion Wasserstraßen und Schifffahrt wird ermächtigt,
+durch Rechtsverordnung für einzelne zum Verkehr mit Wassermotorrädern
 freigegebene Wasserflächen von dieser Verordnung abweichende
 Regelungen zu treffen, insbesondere
 

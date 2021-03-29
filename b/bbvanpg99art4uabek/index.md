@@ -43,7 +43,7 @@ werden bekanntgemacht
 Der Bundesminister des Innern
 
 
-## Anlage 1 (Anlage IV des BBesG)
+## Anlage 1 (Anlage IV des BBesG) \*)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2208 - 2210)
 
@@ -1018,7 +1018,7 @@ Der Bundesminister des Innern
 
 
 
-## Anlage 2 (Anlage V des BBesG)
+## Anlage 2 (Anlage V des BBesG) \*)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2211)
 
@@ -1081,8 +1081,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIa des BBesG)
 
-## Anlage 3a (Anlage VIa des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3a Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2212)
 
@@ -1490,8 +1491,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIb des BBesG)
 
-## Anlage 3b (Anlage VIb des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3b Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2212)
 
@@ -1899,8 +1901,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIc des BBesG)
 
-## Anlage 3c (Anlage VIc des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3c Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2213)
 
@@ -2308,8 +2311,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VId des BBesG)
 
-## Anlage 3d (Anlage VId des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3d Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2213)
 
@@ -2718,8 +2722,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIe des BBesG)
 
-## Anlage 3e (Anlage VIe des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3e Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2214)
 
@@ -3128,8 +3133,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIf des BBesG)
 
-## Anlage 3f (Anlage VIf des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3f Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2214)
 
@@ -3535,10 +3541,11 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+   (Anlage VIg des BBesG)
 
-## Anlage 3g (Anlage VIg des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3g Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
-   (Fundstelle des Originaltextes: BGBl. I 1999, 2215)
+(Fundstelle des Originaltextes: BGBl. I 1999, 2215)
 
 *    *   Auslandszuschlag (§ 55 Abs. 5)
 
@@ -3944,10 +3951,11 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+   (Anlage VIh des BBesG)
 
-## Anlage 3h (Anlage VIh des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3h Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
-   (Fundstelle des Originaltextes: BGBl. I 1999, 2215)
+(Fundstelle des Originaltextes: BGBl. I 1999, 2215)
 
 *    *   Auslandszuschlag (§ 55 Abs. 5)
         (Monatsbeträge in DM)
@@ -4351,10 +4359,11 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+   (Anlage VIi des BBesG)
 
-## Anlage 3i (Anlage VIi des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
+## Anlage 3i Gültig ab 1. Juni 1999 für die Besoldungsordnung A; für die Besoldungsordnung B ab 1. Januar 2000
 
-   Fundstelle des Originaltextes: BGBl. I 1999, 2216
+Fundstelle des Originaltextes: BGBl. I 1999, 2216
 
 Auslandskinderzuschlag (§ 56)
 ## (Monatsbeträge in DM je Kind)
@@ -4429,8 +4438,9 @@ Auslandskinderzuschlag (§ 56)
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage 4 (Anlage VIII des BBesG) Gültig ab 1. März 1999 ++)
+## Anlage 4 Gültig ab 1. März 1999 ++)
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2216
 
@@ -4476,8 +4486,9 @@ Anwärtergrundbetrag
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage 5 (Anlage IX des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000 ++)
+## Anlage 5 Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000 ++)
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2217 - 2219)
 
@@ -5638,8 +5649,9 @@ Anwärtergrundbetrag
 
 
 
+(Anlage IV des BBesG)
 
-## Anlage 6 (Anlage IV des BBesG) Gültig ab 1. Juni 1999
+## Anlage 6 Gültig ab 1. Juni 1999
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2220 - 2222
 
@@ -6491,8 +6503,9 @@ Fundstelle des Originaltextes: BGBl. I 1999, 2220 - 2222
 
 
 
+(Anlage V des BBesG)
 
-## Anlage 7 (Anlage V des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
+## Anlage 7 Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2223
 
@@ -6548,8 +6561,9 @@ Anrechnungsbetrag nach § 39 Abs. 2 Satz 1
 
 
 
+(Anlage VIII des BBesG)
 
-## Anlage 8 (Anlage VIII des BBesG) Gültig ab 1. März 1999
+## Anlage 8 Gültig ab 1. März 1999
 
 Fundstelle des Originaltextes: BGBl. I 1999, 2223
 
@@ -6595,8 +6609,9 @@ Anwärtergrundbetrag
 
 
 
+(Anlage IX des BBesG)
 
-## Anlage 9 (Anlage IX des BBesG) Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
+## Anlage 9 Gültig ab 1. Juni 1999 für die Besoldungsordnung A, die Besoldungsgruppen C 1 bis C 3 sowie R 1 und R 2; für die Besoldungsgruppen B 1 bis B 11, C 4 und R 3 bis R 10 ab 1. Januar 2000
 
 (Fundstelle des Originaltextes: BGBl. I 1999, 2224 - 2226)
 

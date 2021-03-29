@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1997, 2616
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.5.2012 I 1070
+:   Art. 1 V v. 8.7.2016 I 1622
 
 Diese Verordnung dient der Umsetzung der Richtlinie 92/75/EWG des
 Rates vom 22. September 1992 über die Angabe des Verbrauchs an Energie
@@ -125,7 +125,12 @@ Im Sinne dieser Verordnung
 9.  sind mittelbare Auswirkungen auf den Verbrauch an Energie
 
     Auswirkungen von Produkten, die selbst keine Energie verbrauchen,
-    jedoch während des Gebrauchs zur Einsparung von Energie beitragen.
+    jedoch während des Gebrauchs zur Einsparung von Energie beitragen;
+
+
+10. ist Anzeigemechanismus jeder Bildschirm, einschließlich eines
+    Touchscreens, oder jede sonstige Bildtechnologie zur Anzeige von
+    Internet-Inhalten für Nutzer.
 
 
 
@@ -162,98 +167,243 @@ ist.
 
 ## § 4 Etiketten, Datenblätter
 
-(1) Lieferanten, die nach den Ziffern 1 und 2 der Anlage 1 oder nach
-Verordnungen der Europäischen Union nach Anlage 2 der
-Kennzeichnungspflicht unterliegende energieverbrauchsrelevante
-Produkte vertreiben, haben Etiketten und Datenblätter unentgeltlich
-zur Verfügung zu stellen. Sie dürfen dabei nur zur Verfügung stellen
+(1) Lieferanten haben den Händlern Etiketten und Datenblätter
+unentgeltlich zur Verfügung zu stellen, wenn sie
+energieverbrauchsrelevante Produkte in Verkehr bringen, die von der in
+Anlage 1 Satz 1 genannten Richtlinie oder von den in Anlage 2
+Abschnitt 1 Absatz 1 genannten Verordnungen erfasst sind. Sie haben
+dabei zur Verfügung zu stellen
 
-1.  Etiketten, die den in den Ziffern 3, 4 und 7 der Anlage 1 festgelegten
-    Anforderungen oder den in Anlage 2 genannten Verordnungen der
-    Europäischen Union entsprechen,
+1.  Etiketten nach Maßgabe der Anforderungen nach
 
-
-2.  Datenblätter, die den in den Ziffern 3, 5 und 7 der Anlage 1
-    festgelegten Anforderungen oder den in Anlage 2 genannten Verordnungen
-    der Europäischen Union entsprechen.
+    a)  Anlage 1 Nummer 3 und 7,
 
 
-
-
-(2) Werden in Absatz 1 Satz 1 genannte energieverbrauchsrelevante
-Produkte ausgestellt, so haben die Händler
-
-1.  die energieverbrauchsrelevanten Produkte zuvor außen an der Vorder-
-    oder Oberseite mit den in Absatz 1 Satz 2 Nr. 1 genannten Etiketten
-    deutlich sichtbar und nicht verdeckt zu versehen,
-
-
-2.  die in Absatz 1 Satz 2 Nr. 2 genannten Datenblätter zur Abgabe an den
-    Endverbraucher bereitzuhalten.
+    b)  Anlage 1 Nummer 4 oder nach den in Anlage 2 Abschnitt 1 Absatz 1
+        genannten Verordnungen,
 
 
 
-Abweichend von Satz 1
-
-1.  haben bei Lampen (Zeile 6 der Tabelle 1 zu Anlage 1) die Lieferanten
-    vor der Auslieferung an die Händler die Etiketten nach Maßgabe des
-    Satzes 3 auf der Außenseite der Einzelverpackung jeder Lampe
-    anzubringen oder einzudrucken oder der Verpackung beizufügen,
 
 
-2.  dürfen die Händler Lampen nur ausstellen, wenn diese von den
-    Lieferanten mit den erforderlichen Etiketten nach Nummer 1 versehen
-    sind,
+2.  Datenblätter nach Maßgabe der Anforderungen nach
+
+    a)  Anlage 1 Nummer 3 und 7,
 
 
-3.  haben bei Backöfen (Zeile 8 der Tabelle 1 zu Anlage 1) die Händler vor
-    dem Ausstellen die Etiketten nach Maßgabe des Satzes 3 an den Türen
-    der Geräte anzubringen; bei Öfen mit mehreren Türen sind an allen
-    Backröhren eigene Etiketten anzubringen, es sei denn, es handelt sich
-    um Backröhren, die nicht in den Geltungsbereich der nach Ziffer 3 der
-    Anlage 1 anwendbaren harmonisierten Normen fallen.
+    b)  Anlage 1 Nummer 5 oder nach den in Anlage 2 Abschnitt 1 Absatz 1
+        genannten Verordnungen.
 
 
 
-Deutlichkeit und Sichtbarkeit der Etiketten dürfen nicht durch
-sonstige Angaben, Aufdrucke oder Hinweise beeinträchtigt werden.
-
-(3) Für die in Richtlinien nach Anlage 1 genannten Produkte können die
-Lieferanten ihr eigenes Verfahren für die Lieferung der erforderlichen
-Etiketten wählen. Sie können insbesondere das Etikett auch geteilt in
-ein Grundetikett, das nicht gerätespezifische Angaben enthält, und
-einen Datenstreifen, der die gerätespezifischen Angaben aufweist,
-liefern. Sie müssen jedoch sicherstellen, dass die Etiketten jedem
-Händler auf Anforderung unverzüglich zur Verfügung stehen. Die Sätze 1
-bis 3 gelten nicht für Lampen im Sinne der Zeile 6 der Tabelle 1 zu
-Anlage 1 und nicht für Verordnungen der Europäischen Union nach Anlage
-2\.
-
-(3a) Für die in Verordnungen der Europäischen Union nach Anlage 2
-genannten Produkte haben Lieferanten die erforderlichen Etiketten
-mitzuliefern. Unbeschadet des vom Lieferanten gewählten Verfahrens zur
-Lieferung der Etiketten nach Satz 1 stellen die Lieferanten sicher,
-dass die erforderlichen Etiketten jedem Händler auf Anforderung
-unverzüglich zur Verfügung stehen.
-
-(4) Die Datenblätter sind in alle Produktbroschüren aufzunehmen, in
-denen das jeweilige Produktmodell aufgeführt wird. Soweit die
-Lieferanten keine derartigen Produktbroschüren herstellen, haben sie
-Datenblätter mit anderen Unterlagen zur Verfügung zu stellen, die sie
-zu den energieverbrauchsrelevanten Produkten mitliefern. Satz 2 gilt
-nicht für Lampen im Sinne der Zeile 6 der Tabelle 1 zu Anlage 1.
 
 
-## § 5 Nicht ausgestellte Geräte
 
-Werden energieverbrauchsrelevante Produkte über den Versandhandel, in
-Katalogen, über das Internet, über Telefonmarketing oder auf einem
-anderen Weg durch Lieferanten und Händler angeboten, bei dem
-Interessenten die Produkte nicht ausgestellt sehen, haben die
-Lieferanten und Händler sicherzustellen, dass die Interessenten vor
-Vertragsschluss Kenntnis von den erforderlichen Angaben nach den
-Nummern 3, 6 und 7 der Anlage 1 oder den Verordnungen der Europäischen
-Union nach Anlage 2 erlangen.
+Abweichend von Satz 1 müssen Lieferanten von Leuchten, die von der in
+Anlage 2 Abschnitt 1 Absatz 1 Nummer 7 genannten Verordnung erfasst
+sind, keine Datenblätter zur Verfügung stellen.
+
+(2) Lieferanten haben den Händlern zusätzlich elektronische Etiketten
+und Datenblätter unentgeltlich zur Verfügung zu stellen, wenn sie
+Produkte in Verkehr bringen, die von einer in Anlage 2 Abschnitt 1
+Absatz 1 genannten Verordnung erfasst sind. Sie haben dabei Etiketten
+und Datenblätter nach den Anforderungen derjenigen vorgenannten
+Verordnung zur Verfügung zu stellen, die für die jeweilige
+Produktgruppe maßgeblich ist.
+
+(3) Lieferanten haben, wenn sie Produkte in Verkehr bringen, die
+Datenblätter in alle Produktbroschüren aufzunehmen, in denen das
+jeweilige Produktmodell aufgeführt wird. Wenn die Lieferanten dabei
+keine derartigen Produktbroschüren herstellen, haben sie die
+Datenblätter mit den Unterlagen zur Verfügung zu stellen, die sie zu
+den energieverbrauchsrelevanten Produkten mitliefern. Satz 2 ist nicht
+anzuwenden für elektrische Lampen, die von der in Anlage 2 Abschnitt 1
+Absatz 1 Nummer 7 genannten Verordnung erfasst sind. Bei diesen Lampen
+ist das mitgelieferte Etikett als Datenblatt anzusehen, wenn keine
+Produktbroschüren bereitgestellt werden.
+
+(4) Händler haben die Etiketten nach Absatz 1 Satz 2 Nummer 1 deutlich
+sichtbar an den Stellen anzubringen, die in der Richtlinie nach Anlage
+1 oder den Verordnungen nach Anlage 2 Abschnitt 1 Absatz 1 vorgesehen
+sind, wenn sie energieverbrauchsrelevante Produkte nach Absatz 1 Satz
+1 ausstellen. Die Etiketten dürfen nicht durch sonstige Angaben,
+Aufdrucke oder Hinweise verdeckt werden.
+
+(5) Abweichend von Absatz 4 sind für Händler von Produkten, die von
+der in Anlage 2 Abschnitt 1 Absatz 1 Nummer 7 genannten Verordnung
+erfasst sind, folgende Regelungen anzuwenden:
+
+1.  Händler dürfen elektrische Lampen nur ausstellen, wenn diese von den
+    Lieferanten mit den erforderlichen Etiketten nach § 4b Absatz 1 Nummer
+    4 versehen sind,
+
+
+2.  Händler haben für den Fall, dass sie Leuchten verkaufen, die in einer
+    für Endnutzer bestimmten Verpackung in Verkehr gebracht werden, die
+    elektrische Lampen enthält, die der Endnutzer in den Leuchten
+    austauschen kann, sicherzustellen, dass
+
+    a)  die Originalverpackung dieser Lampen in der Verpackung der Leuchte
+        enthalten ist oder
+
+
+    b)  auf der Außen- oder Innenseite der Leuchtenverpackung die
+        Informationen ausgewiesen werden, die auf der Originalverpackung der
+        Lampen erforderlich sind aufgrund der in Anlage 2 Abschnitt 1 Absatz 1
+        Nummer 7 genannten Verordnung oder aufgrund folgender gemäß Artikel 15
+        der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates
+        vom 21. Oktober 2009 zur Schaffung eines Rahmens für die Festlegung
+        von Anforderungen an die umweltgerechte Gestaltung
+        energieverbrauchsrelevanter Produkte (ABl. L 285 vom 31.10.2009, S.
+        10) ergangener Verordnungen:
+
+        aa) Verordnung (EG) Nr. 244/2009 der Kommission vom 18. März 2009 zur
+            Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und
+            des Rates im Hinblick auf die Festlegung von Anforderungen an die
+            umweltgerechte Gestaltung von Haushaltslampen mit ungebündeltem Licht
+            (ABl. L 76 vom 24.3.2009, S. 3), die durch die Verordnung (EG) Nr.
+            859/2009 (ABl. L 247 vom 19.9.2009, S. 3) geändert worden ist,
+
+
+        bb) Verordnung (EG) Nr. 245/2009 der Kommission vom 18. März 2009 zur
+            Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und
+            des Rates im Hinblick auf die Festlegung von Anforderungen an die
+            umweltgerechte Gestaltung von Leuchtstofflampen ohne eingebautes
+            Vorschaltgerät, Hochdruckentladungslampen sowie Vorschaltgeräte und
+            Leuchten zu ihrem Betrieb und zur Aufhebung der Richtlinie 2000/55/EG
+            des Europäischen Parlaments und des Rates (ABl. L 76 vom 24.3.2009, S.
+            17), die durch die Verordnung (EU) Nr. 347/2010 (ABl. L 104 vom
+            24\.4.2010, S. 20) geändert worden ist,
+
+
+        cc) Verordnung (EU) Nr. 1194/2012 der Kommission vom 12. Dezember 2012 zur
+            Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments
+            und des Rates im Hinblick auf die Anforderungen an die umweltgerechte
+            Gestaltung von Lampen mit gebündeltem Licht, LED-Lampen und
+            dazugehörigen Geräten (ABl. L 342 vom 14.12.2012, S. 1).
+
+
+
+
+
+
+
+
+
+
+(6) Händler haben die in Absatz 1 Satz 2 Nummer 2 Buchstabe b
+genannten Datenblätter zur Abgabe an den Endnutzer bereitzuhalten,
+wenn sie energieverbrauchsrelevante Produkte nach Absatz 1 Satz 1
+ausstellen.
+
+
+## § 4a Etiketten für Produkte nach Anlage 1
+
+Lieferanten dürfen für die von der Richtlinie nach Anlage 1 erfassten
+Produkte ein eigenes Lieferverfahren für die Etiketten wählen. Sie
+dürfen das Etikett insbesondere auch geteilt liefern, und zwar geteilt
+in ein Grundetikett, das keine gerätespezifische Angaben enthält, und
+in einen Datenstreifen, der die gerätespezifischen Angaben aufweist.
+Die Lieferanten müssen dabei sicherstellen, dass die Etiketten jedem
+Händler auf Anforderung unverzüglich zur Verfügung stehen.
+
+
+## § 4b Etiketten für Produkte nach Anlage 2
+
+(1) Lieferanten haben die erforderlichen Etiketten für die von den
+Verordnungen nach Anlage 2 Abschnitt 1 Absatz 1 erfassten Produkte
+mitzuliefern, wobei für Lieferanten von Produkten, die von den in
+Anlage 2 Abschnitt 1 Absatz 1 Nummer 7, 9, 10, 11 und 14 genannten
+Verordnungen erfasst sind, folgende besonderen Vorgaben einzuhalten
+sind:
+
+1.  bei Inverkehrbringen von Raumheizgeräten mit Wärmepumpe oder
+    Warmwasserbereitern mit Wärmepumpe haben Lieferanten das Etikett in
+    der Verpackung des Wärmeerzeugers zu liefern,
+
+
+2.  bei Inverkehrbringen von Raumheizgeräten, die in Verbundanlagen aus
+    Raumheizgeräten, Temperaturreglern und Solareinrichtungen eingesetzt
+    werden sollen, haben Lieferanten für jedes Raumheizgerät ein zweites
+    Etikett zu liefern,
+
+
+3.  bei Inverkehrbringen von Warmwasserbereitern, die in Verbundanlagen
+    aus Warmwasserbereitern und Solareinrichtungen eingesetzt werden
+    sollen, haben Lieferanten für jeden Warmwasserbereiter ein zweites
+    Etikett zu liefern,
+
+
+4.  bei Inverkehrbringen von elektrischen Lampen als Einzelprodukte, die
+    über eine Verkaufsstelle verkauft werden sollen, haben Lieferanten ein
+    Etikett auf der Einzelverpackung jeder Lampe anzubringen oder
+    aufzudrucken oder der Verpackung beizufügen und außerhalb des Etiketts
+    die Nennleistung der Lampe anzugeben. § 4 Absatz 4 Satz 2 ist
+    entsprechend anzuwenden,
+
+
+5.  bei Inverkehrbringen von Leuchten, die über eine Verkaufsstelle
+    verkauft werden sollen, dürfen Lieferanten ein Lieferverfahren wählen,
+    bei dem Etiketten nur auf Anforderung der Händler zur Verfügung
+    gestellt werden,
+
+
+6.  bei Inverkehrbringen von Leuchten, die in einer für Endnutzer
+    bestimmten Verpackung in Verkehr gebracht werden, die elektrische
+    Lampen enthält, die der Endnutzer in den Leuchten austauschen kann,
+    haben Lieferanten sicherzustellen, dass
+
+    a)  die Originalverpackung dieser Lampen in der Verpackung der Leuchte
+        enthalten ist oder
+
+
+    b)  auf der Außen- oder Innenseite der Verpackung der Leuchten die
+        Informationen ausgewiesen werden, die auf der Originalverpackung der
+        Lampen erforderlich sind aufgrund der in Anlage 2 Abschnitt 1 Absatz 1
+        Nummer 7 genannten Verordnung oder aufgrund der in § 4 Absatz 5 Nummer
+        2 Buchstabe b genannten Verordnungen,
+
+
+
+
+
+7.  bei Inverkehrbringen von Backöfen mit mehreren Garräumen haben
+    Lieferanten ein Etikett für jeden Garraum mitzuliefern,
+
+
+8.  bei Inverkehrbringen von Festbrennstoffkesseln, die in Verbundanlagen
+    aus Festbrennstoffkesseln, Zusatzheizgeräten, Temperaturreglern und
+    Solareinrichtungen eingesetzt werden sollen, haben Lieferanten für
+    jeden Festbrennstoffkessel ein zweites Etikett zu liefern.
+
+
+
+
+(2) Unabhängig vom gewählten Verfahren haben die Lieferanten
+sicherzustellen, dass die erforderlichen Etiketten jedem Händler auf
+Anforderung unverzüglich zur Verfügung stehen.
+
+
+## § 5 Nicht ausgestellte Produkte
+
+(1) Werden Produkte, die von der in Anlage 1 Satz 1 genannten
+Richtlinie oder den in Anlage 2 Abschnitt 1 Absatz 1 genannten
+Verordnungen erfasst sind, über den Versandhandel, in Katalogen, über
+das Internet, über Telefonmarketing oder auf einem anderen Weg durch
+Lieferanten und Händler angeboten, bei dem Interessenten die Produkte
+nicht ausgestellt sehen, haben die Lieferanten und Händler den
+Interessenten vor Vertragsschluss Kenntnis von den erforderlichen
+Angaben nach Anlage 1 Nummer 3, 6 und 7 oder den vorgenannten
+Verordnungen zu geben.
+
+(2) Werden Produkte, die von einer in Anlage 2 Abschnitt 1 Absatz 1
+genannten Verordnung erfasst sind, über das Internet zum Verkauf, zur
+Vermietung oder zum Mietkauf angeboten, haben die Händler die
+elektronischen Etiketten und Datenblätter nach § 4 Absatz 2 auf dem
+Anzeigemechanismus in der Nähe des Produktpreises darzustellen. Sie
+haben dabei Etiketten und Datenblätter nach den Anforderungen
+derjenigen vorgenannten Verordnung darzustellen, die für die jeweilige
+Produktgruppe maßgeblich ist.
 
 
 ## § 6 Technische Dokumentation
@@ -287,7 +437,15 @@ Lieferanten und Händler haben sicherzustellen, dass bei der Werbung
 für ein bestimmtes Produktmodell im Sinne der Anlagen 1 und 2 auf die
 Energieeffizienzklasse des Produkts hingewiesen wird, sofern in der
 Werbung Informationen über den Energieverbrauch oder den Preis
-angegeben werden.
+angegeben werden. Bei Leuchten, die von der in Anlage 2 Abschnitt 1
+Absatz 1 Nummer 7 genannten Verordnung erfasst sind, haben Lieferanten
+und Händler lediglich sicherzustellen, dass bei Werbung nach Satz 1
+die Informationen, die das Etikett enthält, nach Maßgabe der
+vorgenannten Verordnung bereitgestellt werden. Bei Haushaltsbacköfen
+und -dunstabzugshauben, die von der in Anlage 2 Abschnitt 1 Absatz 1
+Nummer 11 genannten Verordnung erfasst sind, ist Satz 1 bei Händlern
+nur auf Werbung für den Fernabsatz und für die Fernvermarktung
+anzuwenden.
 
 
 ## § 6b Anforderungen an technische Werbeschriften
@@ -299,7 +457,11 @@ Energieeffizienzklasse des Produkts hingewiesen wird, sofern in diesen
 technischen Werbeschriften die spezifischen technischen Parameter
 eines Produkts beschrieben werden und sich aus den in Anlage 2
 genannten Verordnungen der Europäischen Union nichts Abweichendes
-ergibt.
+ergibt. Bei Leuchten, die von der in Anlage 2 Abschnitt 1 Absatz 1
+Nummer 7 genannten Verordnung erfasst sind, haben Lieferanten und
+Händler lediglich sicherzustellen, dass in technischen Werbeschriften
+nach Satz 1 die Informationen, die das Etikett enthält, nach Maßgabe
+der vorgenannten Verordnung bereitgestellt werden.
 
 
 ## § 7 Missbräuchliche Verwendung von Bezeichnungen
@@ -321,50 +483,84 @@ Ordnungswidrig im Sinne des § 15 Absatz 1 Nummer 1 des
 Energieverbrauchskennzeichnungsgesetzes handelt, wer vorsätzlich oder
 fahrlässig
 
-1.  entgegen § 4 Absatz 1 Satz 2 ein Etikett oder ein Datenblatt zur
-    Verfügung stellt,
+1.  entgegen § 4 Absatz 1 Satz 2 Nummer 1 Buchstabe b oder Nummer 2
+    Buchstabe b ein Etikett oder ein Datenblatt nicht, nicht richtig oder
+    nicht rechtzeitig zur Verfügung stellt,
 
 
-2.  entgegen § 4 Absatz 2 Satz 1 oder Satz 2 Nummer 1 ein Produkt nicht,
-    nicht richtig oder nicht rechtzeitig mit einem Etikett versieht, ein
-    Datenblatt nicht oder nicht richtig bereithält oder ein Etikett nicht,
-    nicht richtig oder nicht rechtzeitig anbringt, nicht, nicht richtig
-    oder nicht rechtzeitig eindruckt und nicht, nicht richtig oder nicht
-    rechtzeitig der Verpackung beifügt,
+2.  entgegen § 4 Absatz 2 Satz 2 ein elektronisches Etikett oder ein
+    elektronisches Datenblatt nicht, nicht richtig oder nicht rechtzeitig
+    zur Verfügung stellt,
 
 
-3.  entgegen § 4 Absatz 2 Satz 2 Nummer 2 eine Lampe ausstellt,
+3.  entgegen § 4 Absatz 3 Satz 1 ein Datenblatt nicht, nicht richtig oder
+    nicht rechtzeitig in eine Produktbroschüre aufnimmt,
 
 
-4.  entgegen § 4 Absatz 2 Satz 2 Nummer 3 ein Etikett nicht, nicht richtig
-    oder nicht rechtzeitig anbringt,
+4.  entgegen § 4 Absatz 3 Satz 2 ein Datenblatt nicht, nicht richtig oder
+    nicht rechtzeitig zur Verfügung stellt,
 
 
-5.  entgegen § 4 Absatz 3 Satz 3 oder Absatz 3a Satz 2 nicht sicherstellt,
-    dass ein Etikett rechtzeitig zur Verfügung gestellt wird,
+5.  entgegen § 4 Absatz 4 Satz 1 ein Etikett nicht, nicht richtig oder
+    nicht rechtzeitig anbringt,
 
 
-6.  entgegen § 5 nicht sicherstellt, dass ein Interessent Kenntnis von
-    dort genannten Angaben erlangt,
+6.  entgegen § 4 Absatz 4 Satz 2 ein Etikett verdeckt,
 
 
-7.  entgegen § 6 Absatz 3 eine technische Dokumentation nicht, nicht
+7.  entgegen § 4 Absatz 5 Nummer 1 eine Lampe ausstellt,
+
+
+8.  entgegen § 4 Absatz 5 Nummer 2 Buchstabe a nicht sicherstellt, dass
+    die Originalverpackung enthalten ist,
+
+
+9.  entgegen § 4 Absatz 5 Nummer 2 Buchstabe b nicht sicherstellt, dass
+    die dort genannten Informationen ausgewiesen werden,
+
+
+10. entgegen § 4 Absatz 6 ein Datenblatt nicht oder nicht richtig
+    bereithält,
+
+
+11. entgegen § 4a Satz 3 oder § 4b Absatz 2 nicht sicherstellt, dass ein
+    Etikett zur Verfügung steht,
+
+
+12. entgegen § 4b Absatz 1 Nummer 1 bis 4, Nummer 6, 7 oder 8 ein Etikett
+    nicht, nicht richtig oder nicht rechtzeitig mitliefert,
+
+
+13. entgegen § 5 Absatz 1 einem Interessenten eine dort genannte Angabe
+    nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig gibt,
+
+
+14. entgegen § 5 Absatz 2 Satz 2 ein elektronisches Etikett oder ein
+    elektronisches Datenblatt nicht, nicht richtig oder nicht rechtzeitig
+    darstellt,
+
+
+15. entgegen § 6 Absatz 3 eine technische Dokumentation nicht, nicht
     richtig, nicht vollständig oder nicht rechtzeitig zur Verfügung
     stellt,
 
 
-8.  entgegen § 6a nicht sicherstellt, dass ein dort genannter Hinweis bei
-    der Werbung gegeben wird,
+16. entgegen § 6a Satz 1 nicht sicherstellt, dass ein dort genannter
+    Hinweis gegeben wird,
 
 
-9.  entgegen § 6b nicht sicherstellt, dass in einer technischen
-    Werbeschrift eine dort genannte Information zur Verfügung gestellt
-    oder ein dort genannter Hinweis gegeben wird oder
+17. entgegen § 6b Satz 1 nicht sicherstellt, dass eine dort genannte
+    Information zur Verfügung gestellt oder ein dort genannter Hinweis
+    gegeben wird, oder
 
 
-10. entgegen § 7 Satz 1 eine dort genannte Bezeichnung verwendet.
+18. entgegen § 7 Satz 1 eine dort genannte Bezeichnung verwendet.
 
 
+
+
+
+## § 9 (weggefallen)
 
 
 
@@ -378,462 +574,86 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 Kennzeichnungspflicht für Haushaltsgeräte
+## Anlage 1 Kennzeichnungspflicht für Wasch-Trockenautomaten
 
-(Fundstelle: BGBl. I 1997, 2618 - 2619;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2014, 1653 — 1654)
 
-Die Bestimmungen dieser Anlage dienen der Umsetzung folgender
-Richtlinien:
+Die Bestimmungen dieser Anlage dienen der Umsetzung der Richtlinie
+96/60/EG der Kommission vom 19. September 1996 zur Durchführung der
+Richtlinie 92/75/EWG des Rates betreffend die Energieetikettierung für
+kombinierte Haushalts-Wasch-Trockenautomaten (ABl. L 266 vom
+18\.10.1996, S. 1), die zuletzt durch die Richtlinie 2006/80/EG (ABl. L
+362 vom 20.12.2006, S. 67) geändert worden ist, nachfolgend RL
+96/60/EG.
 
--   Richtlinie 86/594/EWG des Rates vom 1. Dezember 1986 über die
-    Geräuschemissionen von Haushaltsgeräten (ABl. EG Nr. L 344 S. 24),
-    nachfolgend RL 86/594/EWG;
+1\. Zu kennzeichnende Gerätearten
 
+Die netzbetriebenen elektrischen Wasch-Trockenautomaten nach der RL
+96/60/EG unterliegen der Kennzeichnungspflicht nach § 3. Hiervon
+ausgenommen sind Gerätemodelle, die aus anderen Energiequellen, etwa
+Batterien, betrieben werden.
 
--   Richtlinie 94/2/EG der Kommission vom 21. Januar 1994 zur Durchführung
-    der Richtlinie 92/75/EWG betreffend die Energieetikettierung für
-    elektrische Haushaltskühl- und -gefriergeräte sowie entsprechende
-    Kombinationsgeräte (ABl. EG Nr. L 45 S. 1), nachfolgend RL 94/2/EG;
+2\. Beginn der Kennzeichnungspflicht
 
+Die Kennzeichnungspflicht nach § 3 beginnt zum 1. Januar 1998.
 
--   Richtlinie 95/12/EG der Kommission vom 23. Mai 1995 zur Durchführung
-    der Richtlinie 92/75/EWG des Rates betreffend die Energieetikettierung
-    für elektrische Haushaltswaschmaschinen (ABl. EG Nr. L 136 S. 1),
-    nachfolgend RL 95/12/EG;
+3\. Ermittlung der erforderlichen Angaben
 
+Die nach dieser Anlage erforderlichen Angaben sind anhand der
+harmonisierten Normen EN 50229:2007 Elektrische Wasch-Trockner für den
+Hausgebrauch – Prüfverfahren zur Bestimmung der Gebrauchseigenschaft
+der europäischen Normungsorganisation CENELEC zu ermitteln.
 
--   Richtlinie 95/13/EG der Kommission vom 23. Mai 1995 zur Durchführung
-    der Richtlinie 92/75/EWG des Rates im Hinblick auf das Energieetikett
-    für elektrische Haushaltswäschetrockner (ABl. EG Nr. L 136 S. 28),
-    nachfolgend RL 95/13/EG;
+4\. Etiketten
 
+Die Etiketten müssen den Anforderungen des Anhangs I der RL 96/60/EG
+entsprechen. Im Text des Etiketts ist die unter dem Wortlaut
+„Energieverbrauch“ (Randnummer V) stehende Erklärung „(für Waschen und
+Trockner der vollen Waschkapazität)“ durch die Erläuterung „(Zum
+Waschen und Trocknen der vollen Waschkapazität bei 60 Grad Celsius)“
+zu ersetzen. Sofern in den vorgenannten Anhängen von Richtlinien
+mehrere Sprachfassungen wiedergegeben sind, ist die deutschsprachige
+Fassung zu verwenden.
 
--   Richtlinie 96/60/EG der Kommission vom 19. September 1996 zur
-    Durchführung der Richtlinie 92/75/EWG des Rates betreffend die
-    Energieetikettierung für kombinierte Haushalts-Wasch-Trockenautomaten
-    (ABl. EG Nr. L 266 S. 1), nachfolgend RL 96/60/EG;
+5\. Datenblätter
 
+Die Datenblätter müssen den Anforderungen nach Anhang II der RL
+96/60/EG entsprechen. Sie sind in deutscher Sprache abzufassen.
 
--   Richtlinie 96/89/EG der Kommission vom 17. Dezember 1996 zur Änderung
-    der Richtlinie 95/12/EG zur Durchführung der Richtlinie 92/75/EWG des
-    Rates betreffend die Energieetikettierung für elektrische
-    Haushaltswaschmaschinen (ABl. EG Nr. L 338 S. 85);
+6\. Nicht ausgestellte Geräte
 
+Bei Geräten nach § 5 müssen die Angaben den Anforderungen nach Anhang
+III der RL 96/60/EG entsprechen.
 
--   Richtlinie 97/17/EG der Kommission vom 16. April 1997 zur Durchführung
-    der Richtlinie 92/75/EWG des Rates betreffend die Energieetikettierung
-    für Haushaltsgeschirrspüler (ABl. EG Nr. L 118 S. 1), nachfolgend RL
-    97/17/EG;
+7\. Klasseneinteilung
 
+Die Klassen für die Energieeffizienz und die Klassen für die
+Waschwirkung der Gerätemodelle sind nach Anhang IV der RL 96/60/EG zu
+ermitteln.
 
--   Richtlinie 98/11/EG der Kommission vom 27. Januar 1998 zur
-    Durchführung der Richtlinie 92/75/EWG des Rates betreffend die
-    Energieetikettierung für Haushaltslampen (ABl. EG Nr. L 71 S. 1),
-    nachfolgend RL 98/11/EG;
+8\. Technische Dokumentation
 
+Die technische Dokumentation nach § 6 hat die folgenden Angaben zu
+enthalten:
 
--   Richtlinie 1999/9/EG der Kommission vom 26. Februar 1999 zur Änderung
-    der Richtlinie 97/17/EG zur Durchführung der Richtlinie 92/75/EWG des
-    Rates betreffend die Energieetikettierung für Haushaltsgeschirrspüler
-    (ABl. EG Nr. L 56 S. 46);
+a)  Name und Anschrift des Lieferanten,
 
 
--   Richtlinie 2002/31/EG der Kommission vom 22. März 2002 zur
-    Durchführung der Richtlinie 92/75/EWG des Rates betreffend die
-    Energieetikettierung für Raumklimageräte (ABl. EG Nr. L 86 S. 26),
-    nachfolgend RL 2002/31/EG;
-
-
--   Richtlinie 2002/40/EG der Kommission vom 8. Mai 2002 zur Durchführung
-    der Richtlinie 92/75/EWG des Rates betreffend die Energieetikettierung
-    für Elektrobacköfen (ABl. EG Nr. L 128 S. 45), nachfolgend RL
-    2002/40/EG;
-
-
--   Richtlinie 2003/66/EG der Kommission vom 3. Juli 2003 zur Änderung der
-    Richtlinie 94/2/EG zur Durchführung der Richtlinie 92/75/EWG des Rates
-    betreffend die Energieetikettierung für elektrische Haushaltskühl- und
-    -gefriergeräte sowie entsprechende Kombinationsgeräte (ABl. EU Nr. L
-    170 S. 10), nachfolgend RL 2003/66/EG.
-
-
-
-
-
-1.  Zu kennzeichnende Gerätearten
-
-
-
-Die Arten von netzbetriebenen elektrischen Haushaltsgeräten, die in
-Spalte 1 der Tabelle 1 aufgeführt sind, unterliegen nach Maßgabe
-dieser Anlage der Kennzeichnungspflicht nach § 3 EnVKV. Hiervon
-ausgenommen sind
-
-1.  Gerätemodelle der in Zeilen 1 bis 5 sowie 7 und 8 der Tabelle 1
-    aufgeführten Gerätearten, die auch aus anderen Energiequellen, wie
-    Batterien, betrieben werden können,
-
-
-2.  Lampen (Zeile 6 der Tabelle 1), die in erster Linie für den Einsatz
-    mit anderen Energiequellen, wie Batterien, vermarktet werden.
-
-
-2.  Beginn der Kennzeichnungspflicht
-
-
-
-Die Kennzeichnungspflicht nach § 3 EnVKV beginnt zu dem Zeitpunkt, der
-in Spalte 2 der Tabelle 1 für die einzelnen Gerätearten aufgeführt
-ist.
-
-
-3.  Ermittlung der erforderlichen Angaben
-
-
-
-(1) Die nach dieser Anlage erforderlichen Angaben sind anhand
-harmonisierter Normen zu ermitteln, die im Auftrag der Kommission
-durch die zuständigen Normungsgremien erarbeitet und angenommen worden
-sind, soweit die Referenznummern der harmonisierten Normen im
-Amtsblatt der Europäischen Gemeinschaften und die Referenznummern der
-sie umsetzenden deutschen Normen im Bundesanzeiger veröffentlicht
-sind.
-
-(2) Abweichend von Absatz 1 sind Angaben über Geräuschemissionen gemäß
-RL 86/594/EWG zu ermitteln. Diese Angaben sind zu machen, wenn der
-Schalleistungspegel des Haushaltsgeräts 80 dB (A) überschreitet, es
-sei denn, daß Gerät ist ausschließlich für industrielle oder
-gewerbliche Zwecke bestimmt. Werden Angaben über Geräuschemissionen
-gemacht, ohne daß hierzu eine Verpflichtung besteht, so gilt Satz 1
-ebenfalls.
-
-4.  Etiketten
-
-
-
-Die Etiketten müssen den Anforderungen entsprechen, die sich aus den
-in Spalte 3 der Tabelle 1 jeweils aufgeführten Anhängen von
-Richtlinien der Kommission ergeben. Sofern in den vorgenannten
-Anhängen von Richtlinien mehrere Sprachfassungen wiedergegeben sind,
-ist die deutschsprachige Fassung zu verwenden.
-
-5.  Datenblätter
-
-
-
-Die Datenblätter müssen den Anforderungen entsprechen, die sich aus
-den in Spalte 4 der Tabelle 1 jeweils aufgeführten Anhängen von
-Richtlinien der Kommission ergeben. Sie sind in deutscher Sprache
-abzufassen.
-
-6.  Nicht ausgestellte Geräte
-
-
-
-
-Wird ein der Kennzeichnungspflicht nach § 3 EnVKV unterliegendes Gerät
-auf den in § 5 EnVKV beschriebenen Wegen angeboten, bei denen
-Interessenten die Produkte nicht ausgestellt sehen, so müssen die
-Angaben in den Angeboten in Versandhandelskatalogen, Katalogen, im
-Internet sowie im Telefonmarketing oder in Angeboten, die schriftlich
-oder mittels sonstiger elektronischer Medien verbreitetet werden, den
-Anforderungen entsprechen, die sich aus den in Spalte 5 der Tabelle 1
-jeweils aufgeführten Anhängen von Richtlinien der Kommission ergeben.
-Diese Anforderungen gelten auch für Angebote von Einbaugeräten für
-Einbauküchen.
-
-7.  Klasseneinteilung
-
-
-
-Die Klassen für die Energieeffizienz sowie gegebenenfalls für weitere
-Angaben über Eigenschaften der Gerätemodelle werden gemäß den in
-Spalte 6 der Tabelle 1 jeweils aufgeführten Anhängen von Richtlinien
-der Kommission ermittelt.
-
-8.  Technische Dokumentation
-
-
-
-(1) Die technische Dokumentation nach § 6 EnVKV hat zu enthalten:
-
-1.  Name und Anschrift des Lieferanten sowie bei Lampen (Zeile 6 der
-    Tabelle 1) die Marke,
-
-
-2.  eine allgemeine, für eine Identifizierung ausreichende Beschreibung
+b)  eine allgemeine, für eine Identifizierung ausreichende Beschreibung
     des Gerätemodells,
 
 
-3.  Angaben und gegebenenfalls Zeichnungen zu den wesentlichen
+c)  Angaben und gegebenenfalls Zeichnungen zu den wesentlichen
     konstruktiven Merkmalen des Gerätemodells, insbesondere zu den
     Eigenschaften, die sich spürbar auf seinen Energieverbrauch auswirken,
 
 
-4.  Berichte über Messungen, die auf Grundlage von europäischen Normen
-    durchgeführt wurden, die nach Maßgabe der Ziffer 3 dieser Anlage für
+d)  Berichte über Messungen, die auf Grundlage der europäischen Normen
+    durchgeführt wurden, die nach Maßgabe der Nummer 3 dieser Anlage für
     die jeweilige Geräteart maßgeblich sind,
 
 
-5.  Bedienungsanleitungen, soweit solche zum Gerät mitgeliefert werden.
-
-
-
-
-(2) Werden bei Haushaltskühl- und -gefriergeräten sowie deren
-Kombinationen oder bei Raumklimageräten (Zeilen 1 und 7 der Tabelle 1)
-Angaben für eine bestimmte Modellkombination durch Berechnungen auf
-der Grundlage der Bauart oder durch Extrapolation von anderen
-Modellkombinationen ermittelt, sollten Einzelheiten über diese
-Berechnung oder Extrapolationen und über die zur Verifizierung der
-Berechnungen durchgeführten Prüfungen angegeben werden. Die Prüfungen
-sollten genaue Angaben zum mathematischen Modell für die
-Leistungsberechnung und zu den zur Verifizierung dieses Modells
-durchgeführten Messungen enthalten.
-
-9.  Ersetzung der Richtlinien durch Verordnungen der Europäischen Union
-
-
-
-Sofern die nachfolgenden Richtlinien durch Verordnungen der
-Europäischen Union nach Anlage 2 ersetzt wurden, bestimmen sich die
-Inhalte der Kennzeichnungspflicht nach Anlage 2.
-
-
-## Tabelle 1
-
-*    *   Spalte
-
-    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-    *   5
-
-    *   6
-
-
-*    *
-    *   (Geräteart)
-
-    *   (Beginn der Kennzeichnungspflicht)
-
-    *   (Etiketten)
-
-    *   (Datenblätter)
-
-    *   (Nicht ausgestellte Geräte)
-
-    *   (Klasseneinteilung) )
-
-
-*    *   Zeile
-
-    *
-    *
-    *
-    *
-    *
-    *
-
-*    *   1
-
-    *   Elektrische Haushaltskühl- und -gefriergeräte sowie entsprechende
-        Kombinationsgeräte
-
-    *   1.1.1998
-
-    *   Anhang I der RL 94/2/EG, geändert durch RL 2003/66/EG
-
-    *   Anhänge II und IV der RL 94/2/ EG, geändert durch RL 2003/66/EG
-
-    *   Anhang III der RL 94/2/ EG, geändert durch RL 2003/66/EG
-
-    *   Anhang V der RL 94/2/EG, geändert durch RL 2003/66/EG
-
-
-*    *   2
-
-    *   Elektrische Haushaltswaschmaschinen ausgenommen:
-
-    *   1.1.1998
-
-    *   Anhang I der RL 95/12/EG
-
-    *   Anhang II der RL 95/ 12/EG
-
-    *   Anhang III der RL 95/ 12/EG
-
-    *   Anhang IV der RL 95/ 12/EG
-
-
-*    *   - Geräte ohne Schleudervorrichtung
-
-
-*    *   - Geräte mit getrennten Wasch- und Schleuderbehältern (z.B.
-        Doppelbehältermaschinen)
-
-
-*    *   3
-
-    *   Elektrische Haushaltswäschetrockner
-
-    *   1.1.1998
-
-    *   Anhang I der RL 95/13/EG
-
-    *   Anhang II der RL 95/13/EG
-
-    *   Anhang III der RL 95/13/EG
-
-    *   Anhang IV der RL 95/13/EG
-
-
-*    *   4
-
-    *   Elektrische kombinierte Haushalts-Wasch-Trockenautomaten
-
-    *   1.1.1998
-
-    *   Anhang I der RL 96/60/EG 1)
-
-    *   Anhang II der RL 96/60/EG
-
-    *   Anhang III der RL 96/60/EG
-
-    *   Anhang IV der RL 96/60/EG
-
-
-*    *   5
-
-    *   Elektrische Haushaltsgeschirrspüler
-
-    *   1.3.1999
-
-    *   Anhang I der RL 97/17/EG
-
-    *   Anhang II der RL 97/17/EG
-
-    *   Anhang III der RL 97/17/EG
-
-    *   Anhang IV der RL 97/17/EG
-
-
-*    *   6
-
-    *   Mit Netzspannung betriebene Haushaltslampen (Glühlampen und
-        Leuchtstofflampen mit integriertem Vorschaltgerät) und
-        Haushaltsleuchtstofflampen (einschl. ein- und zweiseitig gesockelte
-        Lampen und Lampen ohne integriertes Vorschaltgerät) 2) ausgenommen: 3)
-
-    *   1.7.1999
-
-    *   Anhang I der RL 98/11/EG
-
-    *   Anhang II der RL 98/11/EG
-
-    *   Anhang III der RL 98/11/EG
-
-    *   Anhang IV der RL 98/11/EG
-
-
-*    *   -
-
-    *   Lampen mit einem Lichtstrom über 6 500 Lumen
-
-
-*    *   -
-
-    *   Lampen mit einer Leistungsaufnahme von unter 4 Watt
-
-
-*    *   -
-
-    *   Reflektorlampen
-
-
-*    *   -
-
-    *   Lampen, die nicht in erster Linie für die Erzeugung sichtbaren Lichts
-        (im Wellenlängenbereich zwischen 400 und 800 nm) vermarktet werden
-
-
-*    *   -
-
-    *   Lampen, die als Teil eines Gerätes vermarktet werden, dessen
-        Hauptverwendungszweck nicht die Erzeugung von Licht ist, es sei denn,
-        die Lampe wird (z.B. als Ersatzteil) getrennt angeboten oder
-        ausgestellt.
-
-
-*    *   7
-
-    *   Netzbetriebene Raumklimageräte im Sinne der Europäischen Normen EN
-        255-1, EN 814-1 oder gemäß den in Ziffer 3 dieser Anlage genannten
-        harmonisierten Normen ausgenommen:
-
-    *   1.1.2003
-
-    *   Anhang I der RL 2002/31/ EG
-
-    *   Anhang II der RL 2002/31/ EG
-
-    *   Anhang III der RL 2002/31/ EG
-
-    *   Anhang IV der RL 2002/31/ EG
-
-
-*    *   - Luft- Wasser- und Wasser-Wasser-Wärmepumpengeräte
-
-
-*    *   - Geräte mit einer Leistung (Kühlleistung) über 12 Kilowatt
-
-
-*    *   8
-
-    *   Netzbetriebene Elektrobacköfen im Sinne der in Ziffer 3 dieser Anlage
-        genannten harmonisierten Normen einschließlich Öfen, die Teil größerer
-        Geräte sind 4) ausgenommen: tragbare Öfen, die keine ortsfesten Geräte
-        sind und deren Gewicht unter 18 Kilogramm liegt, soweit sie nicht für
-        den Einbau bestimmt sind
-
-    *   1.1.2003
-
-    *   Anhang I der RL 2002/40/EG
-
-    *   Anhang II der RL 2002/40/EG
-
-    *   Anhang III der RL 2002/40/EG
-
-    *   Anhang IV der RL 2002/40/EG
-
-
-
-
-1)  Im Text des Etiketts ist die unter dem Wort "Energieverbrauch"
-    (Randnummer V) stehende Erläuterung "(für Waschen und Trocknen der
-    vollen Waschkapazität)" durch die Erläuterung "(Zum Waschen und
-    Trocknen der vollen Waschkapazität bei
-    60 Grad C)" zu ersetzen.
-
-
-2)  Wenn das Gerät vom Endverbraucher demontiert werden kann, ist "Lampe"
-    im Sinne der EnVKV die eigentliche Lichtquelle.
-
-
-3)  Die von der Kennzeichnungspflicht ausgenommenen Lampen können mit
-    einem Etikett und einem Datenblatt versehen werden, wenn harmonisierte
-    Messnormen gemäß Ziffer 3 Abs. 1 der Anlage 1 verabschiedet und
-    veröffentlicht worden sind.
-
-
-4)  Der Energieverbrauch von Dampfgarfunktionen, ausgenommen Heißdampf-
-    Funktionen, fällt nicht in den Anwendungsbereich dieser Verordnung.
+e)  Bedienungsanleitungen, wenn sie zu dem Gerät mitgeliefert werden.
 
 
 
@@ -841,13 +661,21 @@ Inhalte der Kennzeichnungspflicht nach Anlage 2.
 
 ## Anlage 2
 
-(Fundstelle: BGBl. I 2012, 1079 - 1080)
+(Fundstelle: BGBl. I 2012, 1079 - 1080;
+bzgl. d. einzelnen Änderungen vgl. Fußnote)
 
-1\. Kennzeichnungspflicht
-## für energieverbrauchsrelevante Produkte
+Abschnitt 1:
+## Kennzeichnungspflicht für energieverbrauchsrelevante Produkte
 
 (1) Die Bestimmungen der Anlage 2 gelten für folgende Verordnungen der
-Europäischen Union:
+Europäischen Union, für die Verordnungen Nummern 1 bis 10, die jeweils
+durch die delegierte Verordnung (EU) Nr. 518/2014 der Kommission vom
+5\. März 2014 zur Änderung der delegierten Verordnungen (EU) Nr.
+1059/2010, (EU) Nr. 1060/2010, (EU) Nr. 1061/2010, (EU) Nr. 1062/2010,
+(EU) Nr. 626/2011, (EU) Nr. 392/2012, (EU) Nr. 874/2012, (EU) Nr.
+665/2013, (EU) Nr. 811/2013 und (EU) Nr. 812/2013 der Kommission im
+Hinblick auf die Kennzeichnung energieverbrauchsrelevanter Produkte im
+Internet geändert worden sind:
 
 1.  Delegierte Verordnung (EU) Nr. 1059/2010 der Kommission vom 28.
     September 2010 zur Ergänzung der Richtlinie 2010/30/EU des
@@ -884,7 +712,78 @@ Europäischen Union:
     zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments
     und des Rates im Hinblick auf die Kennzeichnung von
     Luftkonditionierern in Bezug auf den Energieverbrauch (ABl. L 178 vom
-    6\.7.2011, S. 1).
+    6\.7.2011, S. 1);
+
+
+6.  Delegierte Verordnung (EU) Nr. 392/2012 der Kommission vom 1. März
+    2012 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die Kennzeichnung von
+    Haushaltswäschetrocknern in Bezug auf den Energieverbrauch (ABl. L 123
+    vom 9.5.2012, S. 1, L 124 vom 11.5.2012, S. 56);
+
+
+7.  Delegierte Verordnung (EU) Nr. 874/2012 der Kommission vom 12. Juli
+    2012 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die
+    Energieverbrauchskennzeichnung von elektrischen Lampen und Leuchten
+    (ABl. L 258 vom 26.9.2012, S. 1);
+
+
+8.  Delegierte Verordnung (EU) Nr. 665/2013 der Kommission vom 3. Mai 2013
+    zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments
+    und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von
+    Staubsaugern (ABl. L 192 vom 13.7.2013, S. 1);
+
+
+9.  Delegierte Verordnung (EU) Nr. 811/2013 der Kommission vom 18. Februar
+    2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die Energiekennzeichnung von
+    Raumheizgeräten, Kombiheizgeräten, Verbundanlagen aus Raumheizgeräten,
+    Temperaturreglern und Solareinrichtungen sowie von Verbundanlagen aus
+    Kombiheizgeräten, Temperaturreglern und Solareinrichtungen (ABl. L 239
+    vom 6.9.2013, S. 1);
+
+
+10. Delegierte Verordnung (EU) Nr. 812/2013 der Kommission vom 18. Februar
+    2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die
+    Energieeffizienzkennzeichnung von Warmwasserbereitern,
+    Warmwasserspeichern und Verbundanlagen aus Warmwasserbereitern und
+    Solareinrichtungen (ABl. L 239 vom 6.9.2013, S. 83);
+
+
+11. Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober
+    2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die
+    Energieverbrauchskennzeichnung von Haushaltsbacköfen und
+    -dunstabzugshauben (ABl. L 29 vom 31.1.2014, S. 1);
+
+
+12. Delegierte Verordnung (EU) Nr. 1254/2014 der Kommission vom 11. Juli
+    2014 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen
+    Parlaments und des Rates im Hinblick auf die Kennzeichnung von
+    Wohnraumlüftungsgeräten in Bezug auf den Energieverbrauch (ABl. L 337
+    vom 25.11.2014, S. 27);
+
+
+13. Delegierte Verordnung (EU) 2015/1094 der Kommission vom 5. Mai 2015
+    zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments
+    und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von
+    gewerblichen Kühllagerschränken (ABl. L 177 vom 8.7.2015, S. 2);
+
+
+14. Delegierte Verordnung (EU) 2015/1187 der Kommission vom 27. April 2015
+    zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments
+    und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von
+    Festbrennstoffkesseln und Verbundanlagen aus einem
+    Festbrennstoffkessel, Zusatzheizgeräten, Temperaturreglern und
+    Solareinrichtungen (ABl. L 193 vom 21.7.2015, S. 43);
+
+
+15. Delegierte Verordnung (EU) 2015/1186 der Kommission vom 24. April 2015
+    zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments
+    und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von
+    Einzelraumheizgeräten (ABl. L 193 vom 21.7.2015, S. 20).
 
 
 
@@ -893,10 +792,10 @@ Europäischen Union:
 Bestimmungen der in Absatz 1 genannten Verordnungen der Europäischen
 Union.
 
-2\. Beginn
-## der Kennzeichnungspflicht
+Abschnitt 2:
+## Beginn der Kennzeichnungspflicht
 
-Die Kennzeichnungspflicht nach Nummer 1 beginnt zu dem Zeitpunkt, der
-in den dort genannten Verordnungen der Europäischen Union bestimmt
+Die Kennzeichnungspflicht nach Abschnitt 1 beginnt zu dem Zeitpunkt,
+der in den dort genannten Verordnungen der Europäischen Union bestimmt
 ist.
 

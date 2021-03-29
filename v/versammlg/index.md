@@ -93,9 +93,8 @@ obersten Landesbehörden in ihren amtlichen Mitteilungsblättern
 bekanntzumachen.
 
 
-### § 4
+### § 4 (weggefallen)
 
-(weggefallen)
 
 
 ## Abschnitt II - Öffentliche Versammlungen in geschlossenen Räumen
@@ -635,9 +634,8 @@ eingezogen werden. § 74a des Strafgesetzbuches und § 23 des Gesetzes
 
 
 
-### § 31
+### § 31 (Aufhebungsvorschriften)
 
-(Aufhebungsvorschriften)
 
 
 ### § 32

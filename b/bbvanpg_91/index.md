@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 266
 
-Geändert durch
-:   Art. 57 G v. 19.2.2006 I 334
+Zuletzt geändert durch
+:   Art. 28 G v. 8.7.2016 I 1594
 
 
 ## Eingangsformel
@@ -73,7 +73,7 @@ Soldatenversorgungsgesetzes.
 -
 
 
-## Art 3 bis 9 -
+## Art 3 bis 9 - 
 
 
 
@@ -91,12 +91,8 @@ Soldatenversorgungsgesetzes.
 (weggefallen)
 
 
-## § 3 Rückkehr zum einheitlichen Verordnungsrang
+## § 3 (weggefallen)
 
-Die auf Artikel 1 §§ 3 und 4, Artikel 2 § 2 und Artikel 10 § 1
-beruhenden Teile der dort geänderten Verordnungen können auf Grund der
-jeweils einschlägigen Ermächtigung in Verbindung mit dieser Vorschrift
-durch Verordnung geändert oder aufgehoben werden.
 
 
 ## § 4
@@ -110,12 +106,7 @@ durch Verordnung geändert oder aufgehoben werden.
 
 (2)
 
-(3) Die auf Grund der Änderung des § 26 Abs. 1 des
-Bundesbesoldungsgesetzes und die nach § 1 Nr. 11 der Verordnung zu §
-26 Abs. 4 Nr. 1 des Bundesbesoldungsgesetzes möglichen
-Stellenumwandlungen können in den jeweiligen Besoldungsgruppen zu
-einem Viertel im Jahr 1992 und zu je einem weiteren Viertel in den
-Folgejahren vorgenommen werden.
+(3) (weggefallen)
 
 
 ## Schlußformel

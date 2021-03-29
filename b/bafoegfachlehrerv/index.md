@@ -3,7 +3,7 @@ Title: Verordnung über die Ausbildungsförderung für den Besuch von Instituten
   Ausbildung von Fachlehrern und Sportlehrern
 jurabk: BAföGFachlehrerV
 layout: default
-origslug: baf_gfachlehrerv
+origslug: bafoegfachlehrerv
 slug: bafoegfachlehrerv
 
 ---

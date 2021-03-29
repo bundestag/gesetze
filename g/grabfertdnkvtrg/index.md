@@ -45,8 +45,7 @@ zuwiderhandelt.
 Deutsche Mark geahndet werden.
 
 (3) Für das Bußgeldverfahren gelten die
-§§ 446, 447 und 449 der Reichsabgabenordnung
-entsprechend.
+§§ 446, 447 und 449 der Reichsabgabenordnung entsprechend.
 
 
 ## Art 4

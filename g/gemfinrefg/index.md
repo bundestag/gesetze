@@ -18,16 +18,16 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 10.3.2009 I 502;
 
-Geändert durch
-:   Art. 1 G v. 8.5.2012 I 1030
+Zuletzt geändert durch
+:   Art. 3 G v. 21.11.2016 I 2613
 
 
 ## § 1 Gemeindeanteil an der Einkommensteuer
 
 Die Gemeinden erhalten 15 Prozent des Aufkommens an Lohnsteuer und an
 veranlagter Einkommensteuer sowie 12 Prozent des Aufkommens an
-Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 6, 7 und 8 bis 12
-sowie Satz 2 des Einkommensteuergesetzes (Gemeindeanteil an der
+Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis
+12 sowie Satz 2 des Einkommensteuergesetzes (Gemeindeanteil an der
 Einkommensteuer). Der Gemeindeanteil an der Einkommensteuer wird für
 jedes Land nach den Steuerbeträgen bemessen, die von den
 Finanzbehörden im Gebiet des Landes unter Berücksichtigung der
@@ -95,108 +95,12 @@ das Verfahren für die Überweisung des Gemeindeanteils an der
 Einkommensteuer.
 
 
-## § 5a Nichtfortschreibungsfähiger Bestandteil des Verteilungsschlüssels
-
-(1) Vorbehaltlich des § 5c Absatz 1 entfällt von dem Gemeindeanteil an
-der Umsatzsteuer nach § 1 Satz 3 des Finanzausgleichsgesetzes
-
-1.  auf die Gemeinden der Länder Baden-Württemberg, Bayern, Bremen,
-    Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland,
-    Schleswig-Holstein sowie auf Hamburg und Berlin (West) ein Anteil von
-    insgesamt 85 Prozent,
-
-
-2.  auf die Gemeinden der Länder Brandenburg, Mecklenburg-Vorpommern,
-    Sachsen, Sachsen-Anhalt und Thüringen sowie auf Berlin (Ost) ein
-    Anteil von insgesamt 15 Prozent.
-
-
-
-
-(2) Der Schlüssel für die in Absatz 1 Nummer 1 genannten Länder und
-Berlin (West) bemisst sich nach dem entsprechend Absatz 3 Satz 2
-gewichteten Anteil der Summe der nach Absatz 3 Satz 3 und 4 zugrunde
-gelegten Gemeindewerte des einzelnen Landes sowie des entsprechend
-gewichteten Anteils von Berlin (West) an der Summe der nach Absatz 3
-Satz 3 und 4 zugrunde gelegten Gemeindewerte aller in Absatz 1 Nummer
-1 genannten Länder und Berlin (West). Der Schlüssel für die in Absatz
-1 Nummer 2 genannten Länder und Berlin (Ost) bemisst sich nach dem
-entsprechend Absatz 4 Satz 2 gewichteten Anteil der Summe der nach
-Absatz 4 Satz 3 und 4 zugrunde gelegten Gemeindewerte des einzelnen
-Landes sowie des entsprechend gewichteten Anteils von Berlin (Ost) an
-der Summe der nach Absatz 4 Satz 3 und 4 zugrunde gelegten
-Gemeindewerte aller in Absatz 1 Nummer 2 genannten Länder und Berlin
-(Ost).
-
-(3) Der Anteil an der Umsatzsteuer nach Absatz 1 Nummer 1 wird auf die
-einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl
-ausgedrückte Schlüsselzahl festgesetzt wird. Die Schlüsselzahl setzt
-sich zusammen zu 60 Prozent aus dem Anteil, der sich nach Satz 3
-ergibt, und zu 40 Prozent aus dem Anteil, der sich nach Satz 4 ergibt;
-die Anteile sind jeweils in einer Dezimalzahl auszudrücken. Die erste
-Komponente der Schlüsselzahl errechnet sich
-
-1.  zu 70 Prozent aus dem Anteil der einzelnen Gemeinde an dem
-    Gewerbesteueraufkommen im jeweiligen Land, das als Summe der Jahre
-    1990 bis 1997 auf der Grundlage der Erhebung nach § 4 Nummer 2 des
-    Finanz- und Personalstatistikgesetzes, für Berlin (West) als Summe der
-    monatlichen Nachweisungen des Steueraufkommens, ermittelt wurde;
-
-
-2.  zu 30 Prozent aus dem Anteil der einzelnen Gemeinde an der Anzahl der
-    sozialversicherungspflichtig Beschäftigten am Arbeitsort im jeweiligen
-    Land, die als Durchschnitt für die Jahre 1990 bis 1998 in der
-    Beschäftigten- und Entgeltstatistik mit Stand 30. Juni des jeweiligen
-    Jahres ermittelt wurde; dabei bleiben die Beschäftigten der
-    Gebietskörperschaften und Sozialversicherungen sowie deren
-    Einrichtungen unberücksichtigt.
-
-
-
-Die zweite Komponente der Schlüsselzahl errechnet sich aus dem Anteil
-der einzelnen Gemeinde an der Summe der für jede einzelne Gemeinde
-ermittelten und mit dem durchschnittlichen örtlichen Hebesatz der
-Jahre 1995 bis 1998 multiplizierten Gewerbesteuer-Messbeträge nach dem
-Gewerbekapital im jeweiligen Land; Grundlage für die Gewerbesteuer-
-Messbeträge nach dem Gewerbekapital ist das Ergebnis der
-Gewerbesteuerstatistik für das Veranlagungsjahr 1995, Grundlage für
-die örtlichen Hebesätze ist die Erhebung nach § 4 Nummer 2 des Finanz-
-und Personalstatistikgesetzes. Abweichend von den Sätzen 1 bis 4
-können bis zu 20 Prozent des Anteils an der Umsatzsteuer nach Absatz 1
-gemäß Landesrecht an Gemeinden verteilt werden, die als Folge der
-Regelungen der Absätze 1 und 3 Satz 1 bis 4 und der Regelungen in den
-Artikeln 1 bis 4 des Gesetzes zur Fortsetzung der
-Unternehmenssteuerreform vom 29. Oktober 1997 (BGBl. I S. 2590)
-besondere finanzielle Nachteile haben.
-
-(4) Der Anteil an der Umsatzsteuer nach Absatz 1 Nummer 2 wird auf die
-einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl
-ausgedrückte Schlüsselzahl festgesetzt wird. Die Schlüsselzahl setzt
-sich zusammen zu 70 Prozent aus dem Anteil, der sich nach Satz 3
-ergibt, und zu 30 Prozent aus dem Anteil, der sich nach Satz 4 ergibt;
-die Anteile sind jeweils in einer Dezimalzahl auszudrücken. Die erste
-Komponente der Schlüsselzahl errechnet sich aus dem Anteil der
-einzelnen Gemeinde an dem Gewerbesteueraufkommen im jeweiligen Land,
-das als Summe der Jahre 1992 bis 1997 auf der Grundlage der Erhebung
-nach § 4 Nummer 2 des Finanz- und Personalstatistikgesetzes, für
-Berlin (Ost) als Summe der monatlichen Nachweisungen des
-Steueraufkommens, ermittelt wurde. Die zweite Komponente der
-Schlüsselzahl errechnet sich aus dem Anteil der einzelnen Gemeinde an
-der Anzahl der sozialversicherungspflichtig Beschäftigten am
-Arbeitsort im jeweiligen Land, die als Durchschnitt für die Jahre 1996
-bis 1998 in der Beschäftigten- und Entgeltstatistik mit Stand 30. Juni
-des jeweiligen Jahres ermittelt wurde; dabei bleiben die Beschäftigten
-der Gebietskörperschaften und Sozialversicherungen sowie deren
-Einrichtungen unberücksichtigt.
-
-
-## § 5b Fortschreibungsfähiger Bestandteil des Verteilungsschlüssels
+## § 5a Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
 
 (1) Der Gemeindeanteil an der Umsatzsteuer nach § 1 Satz 3 des
-Finanzausgleichsgesetzes wird vorbehaltlich des § 5c Absatz 1 auf die
-einzelnen Länder nach Schlüsseln verteilt. Die Schlüssel bemessen sich
-nach der Summe der nach Absatz 2 Satz 2 und 3 ermittelten
-Gemeindeschlüssel je Land.
+Finanzausgleichsgesetzes wird auf die einzelnen Länder nach Schlüsseln
+verteilt. Die Schlüssel bemessen sich nach der Summe der nach Absatz 2
+Satz 2 und 3 ermittelten Gemeindeschlüssel je Land.
 
 (2) Der Anteil an der Umsatzsteuer nach Absatz 1 Satz 1 wird auf die
 einzelnen Gemeinden verteilt, indem eine in einer Dezimalzahl
@@ -204,7 +108,7 @@ ausgedrückte Schlüsselzahl festgesetzt wird. Die Schlüsselzahl setzt
 sich zusammen
 
 1.  zu 25 Prozent aus dem Anteil der einzelnen Gemeinde an dem
-    Gewerbesteueraufkommen, das als Summe der Jahre 2001 bis 2006 auf
+    Gewerbesteueraufkommen, das als Summe der Jahre 2010 bis 2015 auf
     Grundlage des Realsteuervergleichs nach § 4 Nummer 2 des Finanz- und
     Personalstatistikgesetzes ermittelt wurde;
 
@@ -212,7 +116,7 @@ sich zusammen
 2.  zu 50 Prozent aus dem Anteil der einzelnen Gemeinde an der Anzahl der
     sozialversicherungspflichtig Beschäftigten am Arbeitsort ohne
     Beschäftigte von Gebietskörperschaften und Sozialversicherungen sowie
-    deren Einrichtungen, die als Summe für die Jahre 2004 bis 2006 der
+    deren Einrichtungen, die als Summe für die Jahre 2013 bis 2015 der
     Beschäftigten- und Entgeltstatistik mit Stand 30. Juni des jeweiligen
     Jahres ermittelt wurde;
 
@@ -220,7 +124,7 @@ sich zusammen
 3.  zu 25 Prozent aus dem Anteil der einzelnen Gemeinde an der Summe der
     sozialversicherungspflichtigen Entgelte am Arbeitsort ohne Entgelte
     von Beschäftigten von Gebietskörperschaften und Sozialversicherungen
-    sowie deren Einrichtungen, die als Summe für die Jahre 2003 bis 2005
+    sowie deren Einrichtungen, die als Summe für die Jahre 2012 bis 2014
     der Beschäftigten- und Entgeltstatistik ermittelt wurde.
 
 
@@ -230,52 +134,28 @@ durchschnittlichen örtlichen Gewerbesteuer-Hebesatz der jeweiligen
 Erfassungszeiträume gewichtet. Nach erfolgter erstmaliger Festsetzung
 des Verteilungsschlüssels wird der Schlüssel unter Beibehaltung der in
 Satz 2 Nummer 1, 2 und 3 festgelegten Anzahl von Jahren alle drei
-Jahre, erstmals zum 1. Januar 2012, aktualisiert. Die Aktualisierung
+Jahre, erstmals zum 1. Januar 2021, aktualisiert. Die Aktualisierung
 erfolgt auf der Grundlage der Datenbasis, die beim Statistischen
 Bundesamt zum 1. April des dem Jahr der Aktualisierung vorangehenden
 Jahres verfügbar ist.
 
-
-## § 5c Verteilungsschlüssel für den Gemeindeanteil an der Umsatzsteuer
-
-(1) Der Verteilungsschlüssel für den Gemeindeanteil an der
-Umsatzsteuer nach § 1 Satz 3 des Finanzausgleichsgesetzes wird
-
-1.  in den Jahren 2009 bis 2011 mit einem Anteil von 75 Prozent gemäß dem
-    Schlüssel nach § 5a und mit einem Anteil von 25 Prozent gemäß dem
-    Schlüssel nach § 5b,
-
-
-2.  in den Jahren 2012 bis 2014 mit einem Anteil von jeweils 50 Prozent
-    gemäß den Schlüsseln nach den §§ 5a und 5b und
-
-
-3.  in den Jahren 2015 bis 2017 mit einem Anteil von 25 Prozent gemäß dem
-    Schlüssel nach § 5a und mit einem Anteil von 75 Prozent gemäß dem
-    Schlüssel nach § 5b gebildet.
-
-
-
-Ab dem Jahr 2018 wird der Gemeindeanteil an der Umsatzsteuer gemäß dem
-Schlüssel nach § 5b verteilt.
-
-(2) Die sich aus den Verteilungsschlüsseln nach Absatz 1 ergebenden
+(3) Die sich aus den Verteilungsschlüsseln nach Absatz 2 ergebenden
 Anteile an der Umsatzsteuer werden auf die einzelnen Länder jeweils
 nach Schlüsseln verteilt, die vom Bundesministerium der Finanzen durch
 Rechtsverordnung mit Zustimmung des Bundesrates festgesetzt werden.
 Die Länder stellen dem Bundesministerium der Finanzen die für die
 Ermittlung der Schlüssel notwendigen Daten zur Verfügung. Die Anteile
-an der Umsatzsteuer nach Absatz 1 werden jeweils nach Schlüsseln auf
-die Gemeinden aufgeteilt, die von den Ländern nach Absatz 1 ermittelt
+an der Umsatzsteuer nach Absatz 2 werden jeweils nach Schlüsseln auf
+die Gemeinden aufgeteilt, die von den Ländern nach Absatz 2 ermittelt
 und durch Rechtsverordnung der jeweiligen Landesregierung festgesetzt
 werden. Die Länder ermitteln die Schlüsselzahlen ihrer Gemeinden auf
 der Grundlage von Schlüsselzahlen, die aus Bundessummen abgeleitet und
 durch die Länder auf Eins normiert werden.
 
 
-## § 5d Übermittlung statistischer Ergebnisse
+## § 5b Übermittlung statistischer Ergebnisse
 
-Zur Festsetzung der Verteilungsschlüssel nach § 5c, jedoch nicht für
+Zur Festsetzung der Verteilungsschlüssel nach § 5a, jedoch nicht für
 die Regelung von Einzelfällen, dürfen das Statistische Bundesamt und
 die statistischen Ämter der Länder den Gemeinden und ihren
 Spitzenverbänden auf Landes- und Bundesebene auf Ersuchen die dafür
@@ -299,14 +179,14 @@ erforderlich sind. § 16 Absatz 9 des Bundesstatistikgesetzes gilt
 entsprechend.
 
 
-## § 5e Rechtsverordnungsermächtigung
+## § 5c Rechtsverordnungsermächtigung
 
 Das Bundesministerium der Finanzen wird ermächtigt, nähere
-Bestimmungen über die Ermittlung der Schlüsselzahlen nach § 5c durch
+Bestimmungen über die Ermittlung der Schlüsselzahlen nach § 5a durch
 Rechtsverordnung mit Zustimmung des Bundesrates zu treffen.
 
 
-## § 5f Überweisung des Gemeindeanteils an der Umsatzsteuer
+## § 5d Überweisung des Gemeindeanteils an der Umsatzsteuer
 
 (1) Die Verteilung des Gemeindeanteils an der Umsatzsteuer auf die
 Länder wird nach § 17 des Finanzausgleichsgesetzes vom

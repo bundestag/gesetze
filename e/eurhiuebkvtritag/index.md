@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 24. Oktober 1979 zwischen der Bundesrepublik De
   Anwendung
 jurabk: EuRHiÜbkVtrITAG
 layout: default
-origslug: eurhi_bkvtritag
+origslug: eurhiuebkvtritag
 slug: eurhiuebkvtritag
 
 ---

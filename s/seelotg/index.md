@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 13.9.1984 I 1213;
 
 Zuletzt geändert durch
-:   Art. 105 G v. 8.12.2010 I 1864
+:   Art. 4 Abs. 135 G v. 18.7.2016 I 1666
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -34,14 +34,9 @@ orts- und schiffahrtskundiger Berater geleitet. Der Seelotse gehört
 nicht zur Schiffsbesatzung.
 
 
-### § 1a
+### § 1a (weggefallen)
 
-Soweit durch dieses Gesetz oder auf dessen Grundlage Schriftform
-angeordnet ist oder Zeugnisse, Bescheinigungen oder andere Dokumente
-auszuhändigen, mitzuführen oder vorzulegen sind, ist die elektronische
-Form ausgeschlossen, sofern nicht in diesem Gesetz oder in den zur
-seiner Durchführung erlassenen Rechtsverordnungen eine abweichende
-Regelung getroffen ist.
+-
 
 
 ### § 2
@@ -60,14 +55,14 @@ Aufsicht über das Seelotswesen sind Aufgaben des Bundes.
 obliegt den Lotsenbrüderschaften (§ 27) und der Bundeslotsenkammer (§
 34 Abs. 1).
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
-ermächtigt, durch Rechtsverordnung Behörden der Wasser- und
-Schiffahrtsverwaltung des Bundes als Aufsichtsbehörden zu bestimmen.
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
+ermächtigt, durch Rechtsverordnung Behörden der Wasserstraßen- und
+Schifffahrtsverwaltung des Bundes als Aufsichtsbehörden zu bestimmen.
 
 
 ### § 4
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
 
 1.  die Erteilung von Lotsenausweisen zu regeln,
@@ -103,7 +98,7 @@ ermächtigt, durch Rechtsverordnung
 
 #### § 5
 
-(1) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(1) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, nach Anhörung der Küstenländer und der Bundeslotsenkammer
 durch Rechtsverordnung (Lotsverordnung)
 
@@ -129,7 +124,7 @@ durch Rechtsverordnung (Lotsverordnung)
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 durch Rechtsverordnung die Ermächtigung nach Absatz 1 auf die
 Aufsichtsbehörden übertragen.
 
@@ -214,7 +209,7 @@ erfüllen wird.
 
 
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, auf Antrag einer Lotsenbrüderschaft für das jeweilige
 Seelotsrevier durch Rechtsverordnung abweichend von Absatz 2 Nr. 2 an
 Stelle der Seefahrtzeit eine lotsenspezifische praxisorientierte
@@ -570,8 +565,8 @@ für die Zeit bis zur Behebung des Mangels von der Aufsichtsbehörde ein
 (5) Die Aufsichtsbehörde und die Mitgliederversammlung können im
 gegenseitigen Einvernehmen den Ältermann oder seine Stellvertreter aus
 wichtigem Grund vorzeitig abberufen. Kommt ein Einvernehmen nicht
-zustande, so entscheidet das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung nach Anhörung der Bundeslotsenkammer.
+zustande, so entscheidet das Bundesministerium für Verkehr und
+digitale Infrastruktur nach Anhörung der Bundeslotsenkammer.
 
 
 #### § 32
@@ -598,7 +593,7 @@ eines Rechtsstreites zwischen ihm und der Lotsenbrüderschaft betrifft.
 Bundeslotsenkammer ist eine Körperschaft des öffentlichen Rechts;
 ihren Sitz bestimmt die Mitgliederversammlung.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung führt
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur führt
 die Aufsicht über die Bundeslotsenkammer. Die Fachaufsicht der
 Aufsichtsbehörden nach § 6 Abs. 3 bleibt unberührt.
 
@@ -670,17 +665,17 @@ bestimmte Angelegenheiten besondere Beauftragte zu bestellen sind.
 (1) Der Vorsitzende und sein Stellvertreter werden aus der Reihe der
 Seelotsen von der Mitgliederversammlung auf die Dauer von fünf Jahren
 gewählt. Die Wahl bedarf der Bestätigung durch das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung. Die Bestätigung kann nur aus
+für Verkehr und digitale Infrastruktur. Die Bestätigung kann nur aus
 wichtigem Grund versagt werden.
 
 (2) Der Vorsitzende oder sein Stellvertreter können von der
-Mitgliederversammlung oder dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung aus wichtigem Grund abberufen werden.
+Mitgliederversammlung oder dem Bundesministerium für Verkehr und
+digitale Infrastruktur aus wichtigem Grund abberufen werden.
 
 (3) Die Vorschriften des § 31 Abs. 1 und 4 sind auf die
 Bundeslotsenkammer sinngemäß mit der Maßgabe anzuwenden, daß an die
-Stelle der Aufsichtsbehörde das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung tritt.
+Stelle der Aufsichtsbehörde das Bundesministerium für Verkehr und
+digitale Infrastruktur tritt.
 
 
 #### § 39
@@ -754,7 +749,7 @@ erteilt worden ist, Seelotsrevier oder Teil eines Seelotsreviers wird.
 
 ### § 43
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
 
 1.  für einzelne Fahrtgebiete an den Grad des Befähigungszeugnisses
@@ -812,7 +807,7 @@ oder die Inanspruchnahme von Leistungen der Seelotsen im eigenen oder
 fremden Namen veranlaßt, der Eigentümer des Schiffes verpflichtet.
 Mehrere Zahlungspflichtige haften als Gesamtschuldner.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, nach Anhörung der Küstenländer und der Bundeslotsenkammer
 durch Rechtsverordnung (Lotstarifverordnung)
 
@@ -863,17 +858,18 @@ festgesetzten Lotsgelder fordern, sich versprechen lassen oder
 annehmen.
 
 
-## Fünfter Abschnitt - Kosten
+## Fünfter Abschnitt - Gebühren und Auslagen
 
 
 
 ### § 46
 
-(1) Kosten (Gebühren und Auslagen) werden erhoben für
+(1) Gebühren und Auslagen werden erhoben für
 
-1.  Amtshandlungen nach § 8 Abs. 2 Satz 1, den §§ 10, 11, 14, 16, 17 und
-    42 Abs. 1 und 3 sowie nach den Rechtsverordnungen auf Grund des § 4
-    Nr. 1 und 2, des § 5 Abs. 1 Nr. 3 und 5 und des § 43 Nr. 3,
+1.  individuell zurechenbare öffentliche Leistungen nach § 8 Abs. 2 Satz
+    1, den §§ 10, 11, 14, 16, 17 und 42 Abs. 1 und 3 sowie nach den
+    Rechtsverordnungen auf Grund des § 4 Nr. 1 und 2, des § 5 Abs. 1 Nr. 3
+    und 5 und des § 43 Nr. 3,
 
 
 2.  die Rücknahme einer Bestallung oder einer Erlaubnis.
@@ -881,13 +877,14 @@ annehmen.
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen
-durch Rechtsverordnung die Gebühren für die einzelnen Amtshandlungen
-zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Gebührensätze sind so zu bemessen, daß der Verwaltungsaufwand gedeckt
-wird; bei begünstigenden Amtshandlungen kann daneben die Bedeutung,
-der wirtschaftliche Wert oder der sonstige Nutzen für den
+durch Rechtsverordnung die Gebühren für die einzelnen individuell
+zurechenbaren öffentlichen Leistungen zu bestimmen und dabei feste
+Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu
+bemessen, daß der Verwaltungsaufwand gedeckt wird; bei begünstigenden
+individuell zurechenbaren öffentlichen Leistungen kann daneben die
+Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für den
 Gebührenschuldner angemessen berücksichtigt werden.
 
 
@@ -970,8 +967,9 @@ Erlaubnisse im Sinne des Dritten Abschnitts fort.
 
 -
 
+Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1108)
+### Anhang EV (BGBl. II 1990, 889, 1108)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

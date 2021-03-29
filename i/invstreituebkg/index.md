@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 18. März 1965 zur Beilegung von Investi
   zwischen Staaten und Angehörigen anderer Staaten
 jurabk: InvStreitÜbkG
 layout: default
-origslug: invstreit_bkg
+origslug: invstreituebkg
 slug: invstreituebkg
 
 ---

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 1830
 
-Geändert durch
-:   Art. 2 G v. 3. 5.2000 I 636
+Zuletzt geändert durch
+:   Art. 11 G v. 27.6.2017 I 1966
 
 
 ## Art 1 - Errichtung eines Bundesamtes für Strahlenschutz
@@ -25,9 +25,9 @@ Geändert durch
 
 ### § 1 Errichtung und Sitz
 
-(1) Im Geschäftsbereich des Bundesministers für Umwelt, Naturschutz
-und Reaktorsicherheit wird ein "Bundesamt für Strahlenschutz" als
-selbständige Bundesoberbehörde errichtet.
+(1) Im Geschäftsbereich des Bundesministeriums für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit wird ein "Bundesamt für
+Strahlenschutz" als selbständige Bundesoberbehörde errichtet.
 
 (2) Das Bundesamt für Strahlenschutz hat seinen Sitz in Salzgitter.
 
@@ -35,16 +35,13 @@ selbständige Bundesoberbehörde errichtet.
 ### § 2 Aufgaben
 
 (1) Das Bundesamt für Strahlenschutz erledigt Verwaltungsaufgaben des
-Bundes auf den Gebieten des Strahlenschutzes einschließlich der
-Strahlenschutzvorsorge sowie der kerntechnischen Sicherheit, der
-Beförderung radioaktiver Stoffe und der Entsorgung radioaktiver
-Abfälle einschließlich der Errichtung und des Betriebs von Anlagen des
-Bundes zur Sicherstellung und zur Endlagerung, die ihm durch das
-Atomgesetz, das Strahlenschutzvorsorgegesetz oder andere Bundesgesetze
-oder auf Grund dieser Gesetze zugewiesen werden.
+Bundes auf den Gebieten des Strahlenschutzes einschließlich des
+Notfallschutzes, die ihm durch das Atomgesetz, das
+Strahlenschutzgesetz oder andere Bundesgesetze oder aufgrund dieser
+Gesetze zugewiesen werden.
 
-(2) Das Bundesamt für Strahlenschutz unterstützt den Bundesminister
-für Umwelt, Naturschutz und Reaktorsicherheit fachlich und
+(2) Das Bundesamt für Strahlenschutz unterstützt das Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit fachlich und
 wissenschaftlich auf den in Absatz 1 genannten Gebieten, insbesondere
 bei der Wahrnehmung der Bundesaufsicht, der Erarbeitung von Rechts-
 und Verwaltungsvorschriften sowie bei der zwischenstaatlichen
@@ -57,45 +54,45 @@ Gebieten.
 (4) Das Bundesamt für Strahlenschutz erledigt, soweit keine andere
 Zuständigkeit gesetzlich festgelegt ist, Aufgaben des Bundes auf den
 in Absatz 1 genannten Gebieten, mit deren Durchführung es vom
-Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit oder mit
-seiner Zustimmung von der sachlich zuständigen obersten Bundesbehörde
-beauftragt wird.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+oder mit seiner Zustimmung von der sachlich zuständigen obersten
+Bundesbehörde beauftragt wird.
 
 (5) Das Bundesamt für Strahlenschutz unterstützt die zuständigen
 Behörden auf deren Ersuchen in Fällen des Verlustes oder Fundes
-radioaktiver Stoffe sowie im Falle des Verdachts einer Straftat im
-Zusammenhang mit radioaktiven Stoffen bei der Nachforschung und bei
-der Analyse dieser radioaktiven Stoffe und bei Schutzmaßnahmen im
-Rahmen von deren Sicherstellung, soweit eine erhebliche Gefährdung von
-Leben, Gesundheit und Sachgütern zu befürchten ist und die zuständigen
-Behörden diese Maßnahmen aus tatsächlichen Gründen ohne diese
-Unterstützung nicht oder nur unter erheblichen Schwierigkeiten
-vornehmen können.
+radioaktiver Stoffe oder radioaktiv kontaminierter Stoffe sowie im
+Falle des Verdachts einer Straftat im Zusammenhang mit solchen Stoffen
+bei der Nachforschung und bei der Analyse solcher Stoffe und bei
+Schutzmaßnahmen im Rahmen von deren Sicherstellung, soweit eine
+erhebliche Gefährdung von Leben, Gesundheit und Sachgütern zu
+befürchten ist und die zuständigen Behörden diese Maßnahmen aus
+tatsächlichen Gründen ohne diese Unterstützung nicht oder nur unter
+erheblichen Schwierigkeiten vornehmen können.
 
 
 ### § 3 Fachaufsicht
 
 Soweit das Bundesamt für Strahlenschutz Aufgaben aus einem anderen
-Geschäftsbereich als dem des Bundesministers für Umwelt, Naturschutz
-und Reaktorsicherheit wahrnimmt, untersteht es den fachlichen
-Weisungen der sachlich zuständigen obersten Bundesbehörde.
+Geschäftsbereich als dem des Bundesministeriums für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit wahrnimmt, untersteht es den
+fachlichen Weisungen der sachlich zuständigen obersten Bundesbehörde.
 
 
-## Art 2 und 3 -
+## Art 2 und 3 - 
 
 
 
-### § 4 Kosten
+### § 4 Gebühren und Auslagen
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, zur Deckung der auf Grund von Amtshandlungen des
-Bundesamtes für Strahlenschutz entstehenden Aufwendungen durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die Erhebung von
-Verwaltungsgebühren und die Erstattung von Auslagen anzuordnen und
-dabei feste Sätze oder Rahmensätze vorzusehen. Das
-Verwaltungskostengesetz findet Anwendung. Kostenvorschriften des
-Atomgesetzes oder einer auf Grund des Atomgesetzes erlassenen
-Rechtsverordnung bleiben unberührt.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, zur Deckung der auf Grund von
+individuell zurechenbaren öffentlichen Leistungen des Bundesamtes für
+Strahlenschutz entstehenden Aufwendungen durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die Erhebung von Verwaltungsgebühren und
+die Erstattung von Auslagen anzuordnen und dabei feste Sätze oder
+Rahmensätze vorzusehen. Gebührenvorschriften des Atomgesetzes oder
+einer auf Grund des Atomgesetzes erlassenen Rechtsverordnung bleiben
+unberührt.
 
 
 ## Art 4 - Berlin-Klausel

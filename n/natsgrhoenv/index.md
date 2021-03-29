@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung von Naturschutzgebieten und einem Landsc
   von zentraler Bedeutung mit der Gesamtbezeichnung "Biosphärenreservat Rhön"
 jurabk: NatSGRhönV
 layout: default
-origslug: natsgrh_nv
+origslug: natsgrhoenv
 slug: natsgrhoenv
 
 ---
@@ -35,26 +35,26 @@ festgesetzt.
 
 ## § 2 Flächenbeschreibung und Abgrenzung
 
-(1) Das **Biosphärenreservat**              ist auf thüringischer
-Seite die Fortsetzung und Ergänzung des gleichnamigen geplanten
+(1) Das **Biosphärenreservat** ist auf thüringischer Seite die
+Fortsetzung und Ergänzung des gleichnamigen geplanten
 Biosphärenreservates in Bayern und Hessen. Auf thüringischer Seite
 umfaßt es folgende Bereiche:
-Anteile an der **Hohen Rhön.**              Flachwellige Hochfläche
-über einer geschlossenen tertiären Basaltdecke um Birx, Frankenheim
-und dem Ellenbogen in 750 bis 814 m ü. NN. Landschaftsprägend sind
-ausgedehnte Grünlandflächen vor allem in ebenem bis flachgeneigtem
-Gelände. Die Grünländer unterliegen mit Ausnahme weniger Streifen im
-unmittelbarem Grenzgebiet einer intensiven Bewirtschaftung durch
-Weidenutzung und als Mähwiese einschließlich starker Düngung. Steiler
-geneigte Hanglagen, Taleinschnitte und der Abhang der Basalthochfläche
-sind bewaldet, z.T. mit Fichtenforsten, z.T. aber auch mit
-Buchenwäldern und Edellaubmischwäldern.
+Anteile an der **Hohen Rhön.** Flachwellige Hochfläche über einer
+geschlossenen tertiären Basaltdecke um Birx, Frankenheim und dem
+Ellenbogen in 750 bis 814 m ü. NN. Landschaftsprägend sind ausgedehnte
+Grünlandflächen vor allem in ebenem bis flachgeneigtem Gelände. Die
+Grünländer unterliegen mit Ausnahme weniger Streifen im unmittelbarem
+Grenzgebiet einer intensiven Bewirtschaftung durch Weidenutzung und
+als Mähwiese einschließlich starker Düngung. Steiler geneigte
+Hanglagen, Taleinschnitte und der Abhang der Basalthochfläche sind
+bewaldet, z.T. mit Fichtenforsten, z.T. aber auch mit Buchenwäldern
+und Edellaubmischwäldern.
 Der größere Teil des Biosphärenreservates umfaßt die **Kuppenrhön oder
-Vorderrhön.**              Dies ist ein meist stark reliefiertes Berg-
-und Hügelland, das im Untergrund von den Sedimenten der Trias, vor
-allem des Muschelkalks, aber auch kleinflächig vom Buntsandstein und
-Keuper sowie vereinzelt aus tertiären Lockersedimenten an der Basis
-der Basaltdecken aufgebaut wird. Landschaftsprägende Oberflächenformen
+Vorderrhön.** Dies ist ein meist stark reliefiertes Berg- und
+Hügelland, das im Untergrund von den Sedimenten der Trias, vor allem
+des Muschelkalks, aber auch kleinflächig vom Buntsandstein und Keuper
+sowie vereinzelt aus tertiären Lockersedimenten an der Basis der
+Basaltdecken aufgebaut wird. Landschaftsprägende Oberflächenformen
 sind kegelförmige und kuppige Berge, auf deren triasischem Sockel
 meist Basaltdeckenreste ruhen. Die wesentlichsten Bereiche dieser
 Vorderrhön-Landschaft mit Basaltkegelbergen sind in das
@@ -145,9 +145,9 @@ Nutzung zu schützen, zu pflegen und zu entwickeln. Insbesondere sind:
 (1) Das Biosphärenreservat wird in die Schutzzonen I, II und III
 gegliedert.
 
-(2) Die **Schutzzone I**              (Kernzone) wird als
-Naturschutzgebiet von zentraler Bedeutung ohne wirtschaftliche Nutzung
-ausgewiesen (Totalreservate). Sie umfaßt folgende Teilflächen:
+(2) Die **Schutzzone I** (Kernzone) wird als Naturschutzgebiet von
+zentraler Bedeutung ohne wirtschaftliche Nutzung ausgewiesen
+(Totalreservate). Sie umfaßt folgende Teilflächen:
 
 1.  Arzberg bei Otzbach, Revier 2.03 Arzberg, Bl. 2(2), Abt. 2097b, NHB
     32, (Waldzustand 01. Januar 1988);
@@ -176,10 +176,9 @@ ausgewiesen (Totalreservate). Sie umfaßt folgende Teilflächen:
 
 
 
-(3) Die **Schutzzone II**              (Entwicklungs- und Pflegezone)
-wird als Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Mit
-Ausnahme der in Abs. 2 beschriebenen Flächen umfaßt sie folgende
-Teilflächen:
+(3) Die **Schutzzone II** (Entwicklungs- und Pflegezone) wird als
+Naturschutzgebiet von zentraler Bedeutung ausgewiesen. Mit Ausnahme
+der in Abs. 2 beschriebenen Flächen umfaßt sie folgende Teilflächen:
 
 1.  Öchsenberg bei Vache, im Süden Straße Sünna-Völkershausen, im Westen
     Waldgrenze, Weg Poppenberg-Völkershausen bis Höhe 347 (westlich
@@ -354,10 +353,9 @@ Teilflächen:
 
 
 
-(4) Die **Schutzzone III**              (Zone der harmonischen
-Kulturlandschaft) wird als Landschaftsschutzgebiet von zentraler
-Bedeutung ausgewiesen. Sie umfaßt die in den Abs. 2 und 3 beschriebene
-Fläche.
+(4) Die **Schutzzone III** (Zone der harmonischen Kulturlandschaft)
+wird als Landschaftsschutzgebiet von zentraler Bedeutung ausgewiesen.
+Sie umfaßt die in den Abs. 2 und 3 beschriebene Fläche.
 
 (5) Die Grenzen der Schutzzonen sind in den in § 2 Abs. 3 genannten
 Karten eingetragen.
@@ -367,18 +365,18 @@ Karten eingetragen.
 
 (1) Im Biosphärenreservat ist es geboten,
 
-1.  in der **Schutzzone I**                    die natürliche Entwicklung
-    der Lebensräume zu gewährleisten,
+1.  in der **Schutzzone I** die natürliche Entwicklung der Lebensräume zu
+    gewährleisten,
 
 
-2.  in der **Schutzzone II**                    ist gebietstypische
-    Vielfalt an Lebensgemeinschaften und Pflanzen- und Tierarten durch
-    geeignete Pflege- und Nutzungsmaßnahmen zu erhalten und zu entwickeln,
+2.  in der **Schutzzone II** ist gebietstypische Vielfalt an
+    Lebensgemeinschaften und Pflanzen- und Tierarten durch geeignete
+    Pflege- und Nutzungsmaßnahmen zu erhalten und zu entwickeln,
 
 
-3.  in der **Schutzzone III**                    den natur- und
-    nutzungsbedingten Landschaftscharakter zu erhalten und im Sinne des
-    Schutzzweckes (§ 3) zu gestalten.
+3.  in der **Schutzzone III** den natur- und nutzungsbedingten
+    Landschaftscharakter zu erhalten und im Sinne des Schutzzweckes (§ 3)
+    zu gestalten.
 
 
 
@@ -391,32 +389,32 @@ Karten eingetragen.
     vorzunehmen,
 
 
-2.  in der **Schutzzone II**                    den Bau jagdlicher Anlagen
-    dem Schutzzweck (§ 3) unterzuordnen und mit natürlichen Materialien in
+2.  in der **Schutzzone II** den Bau jagdlicher Anlagen dem Schutzzweck (§
+    3) unterzuordnen und mit natürlichen Materialien in
     landschaftsangepaßter Bauweise vorzunehmen,
 
 
-3.  in den **Schutzzonen II und III**                    naturnahe
-    Waldbestände durch geeignete waldbauliche Maßnahmen zu entwickeln,
+3.  in den **Schutzzonen II und III** naturnahe Waldbestände durch
+    geeignete waldbauliche Maßnahmen zu entwickeln,
 
 
-4.  in den **Schutzzonen II und III**                    Biotopschutz
-    entsprechend § 20c des Bundesnaturschutzgesetzes, erweitert auf
-    Höhlenbäume, Horstbäume von Greifvögeln und Koloniebrütern sowie 100
-    m-Bereich um Vermehrungs- und Fortpflanzungsstätten der vom Aussterben
-    bedrohten Großvogelarten durchzuführen,
+4.  in den **Schutzzonen II und III** Biotopschutz entsprechend § 20c des
+    Bundesnaturschutzgesetzes, erweitert auf Höhlenbäume, Horstbäume von
+    Greifvögeln und Koloniebrütern sowie 100 m-Bereich um Vermehrungs- und
+    Fortpflanzungsstätten der vom Aussterben bedrohten Großvogelarten
+    durchzuführen,
 
 
-5.  in der **Schutzzone II**                    Halbtrockenrasenstandorte
-    zu erhalten sowie durch Entbuschung in ihrer Fläche auszudehnen,
+5.  in der **Schutzzone II** Halbtrockenrasenstandorte zu erhalten sowie
+    durch Entbuschung in ihrer Fläche auszudehnen,
 
 
-6.  in den **Schutzzonen II und III**                    die Weiden mit
-    bodenbeständigen Haustieren zu bewirtschaften,
+6.  in den **Schutzzonen II und III** die Weiden mit bodenbeständigen
+    Haustieren zu bewirtschaften,
 
 
-7.  in der **Schutzzone III**                    den ökologischen Landbau
-    schrittweise einzuführen,
+7.  in der **Schutzzone III** den ökologischen Landbau schrittweise
+    einzuführen,
 
 
 8.  in den Schutzzonen II und III die Fließgewässer zu pflegen,
@@ -441,7 +439,7 @@ Karten eingetragen.
 
 ## § 6 Verbote
 
-(1) In der **Schutzzone III**              ist es verboten,
+(1) In der **Schutzzone III** ist es verboten,
 
 1.  Grünlandflächen umzubrechen, aufzuforsten oder anderweitig
     zweckentfremdet zu nutzen,
@@ -468,8 +466,8 @@ Karten eingetragen.
 
 
 
-(2) Für die **Schutzzone II**              gelten die in Abs. 1
-aufgeführten Verbote. Weiterhin ist es verboten,
+(2) Für die **Schutzzone II** gelten die in Abs. 1 aufgeführten
+Verbote. Weiterhin ist es verboten,
 
 1.  Wege zu verlassen,
 
@@ -521,8 +519,8 @@ aufgeführten Verbote. Weiterhin ist es verboten,
 
 
 
-(3) Für die **Schutzzone I**              gelten die in Absätzen 1 und
-2 aufgeführten Verbote. Weiterhin ist es verboten,
+(3) Für die **Schutzzone I** gelten die in Absätzen 1 und 2
+aufgeführten Verbote. Weiterhin ist es verboten,
 
 1.  jegliche wirtschaftlichen Maßnahmen durchzuführen,
 
@@ -656,8 +654,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1476)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

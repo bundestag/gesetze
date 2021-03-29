@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2424
 
+Geändert durch
+:   Art. 584 V v. 31.8.2015 I 1474
+
 
 ## § 1 Bundesaufsichtsamt für Flugsicherung
 
@@ -24,11 +27,11 @@ Abs. 2 des Luftverkehrsgesetzes bleibt unberührt.
 
 (2) Das Bundesaufsichtsamt für Flugsicherung wird als
 Bundesoberbehörde im Geschäftsbereich des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung errichtet. Das Bundesaufsichtsamt
+Verkehr und digitale Infrastruktur errichtet. Das Bundesaufsichtsamt
 für Flugsicherung untersteht der Rechts- und Fachaufsicht des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung. Sitz des
+Bundesministeriums für Verkehr und digitale Infrastruktur. Sitz des
 Bundesaufsichtsamtes für Flugsicherung ist die Stadt Langen in Hessen.
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 jedoch im Bedarfsfall einen anderen Sitz bestimmen; die Entscheidung
 ist im Bundesanzeiger bekannt zu machen. Das Bundesaufsichtsamt für
 Flugsicherung wird von einem Direktor oder einer Direktorin geleitet.
@@ -68,7 +71,7 @@ Grundlage dieser Verordnungen erlassenen Durchführungsverordnungen und
 weiteren Regelungen zur Schaffung eines einheitlichen europäischen
 Luftraums entstehen.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 dem Bundesaufsichtsamt für Flugsicherung weitere Aufgaben des Bundes
 auf dem Gebiet der Flugsicherung übertragen.
 
@@ -99,8 +102,8 @@ Unverletzlichkeit der Wohnung wird insoweit eingeschränkt.
 für Flugsicherung finden Wahlen zur Personalvertretung statt. Bis zur
 Konstituierung des Personalrates werden die Aufgaben der
 Personalvertretung bei dem Bundesaufsichtsamt für Flugsicherung vom
-Hauptpersonalrat beim Bundesministerium für Verkehr, Bau und
-Stadtentwicklung als Übergangspersonalrat des Bundesaufsichtsamtes für
+Hauptpersonalrat beim Bundesministerium für Verkehr und digitale
+Infrastruktur als Übergangspersonalrat des Bundesaufsichtsamtes für
 Flugsicherung wahrgenommen. Der Übergangspersonalrat bestellt
 unverzüglich den Wahlvorstand für die Durchführung der
 Personalratswahlen im Bundesaufsichtsamt für Flugsicherung.
@@ -110,7 +113,7 @@ Auszubildendenvertretung sowie die Schwerbehindertenvertretung beim
 Bundesaufsichtsamt für Flugsicherung. Bis zur Neuwahl werden die
 Aufgaben von der Hauptschwerbehindertenvertretung sowie der
 Hauptjugend- und Auszubildendenvertretung des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung wahrgenommen.
+Verkehr und digitale Infrastruktur wahrgenommen.
 
 (3) Spätestens sechs Monate nach Errichtung des Bundesaufsichtsamtes
 für Flugsicherung findet die Wahl der Gleichstellungsbeauftragten und
@@ -118,7 +121,7 @@ ihrer Stellvertreterin statt. Bis zur Bestellung der
 Gleichstellungsbeauftragten und ihrer Stellvertreterin beim
 Bundesaufsichtsamt für Flugsicherung werden ihre Aufgaben von der
 Gleichstellungsbeauftragten und ihrer Stellvertreterin beim
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wahrgenommen.
+Bundesministerium für Verkehr und digitale Infrastruktur wahrgenommen.
 Absatz 1 Satz 3 gilt entsprechend.
 
 (4) Die Dienstvereinbarungen der Dienststelle Flugsicherung beim

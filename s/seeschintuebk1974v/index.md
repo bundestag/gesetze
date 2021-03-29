@@ -3,7 +3,7 @@ Title: Verordnung über die Inkraftsetzung des Internationalen Übereinkommens v
   zum Schutz des menschlichen Lebens auf See
 jurabk: SeeSchIntÜbk1974V
 layout: default
-origslug: seeschint_bk1974v
+origslug: seeschintuebk1974v
 slug: seeschintuebk1974v
 
 ---

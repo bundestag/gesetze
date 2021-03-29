@@ -42,8 +42,8 @@ Organe.
 Satzung, die der Bundesminister der Finanzen feststellt.
 
 (3) Von den Steuern, die das
-Reich,              die Länder und die Gemeinden (Gemeindeverbände)
-vom Einkommen, vom Vermögen sowie vom Gewerbebetrieb erheben, ist die
+Reich, die Länder und die Gemeinden (Gemeindeverbände) vom Einkommen,
+vom Vermögen sowie vom Gewerbebetrieb erheben, ist die
 Konversionskasse befreit.
 
 
@@ -62,9 +62,8 @@ Konversionskasse festgelegt werden. ...
 ## § 7
 
 (1) Die
-Reichsregierung              erläßt die zur Durchführung dieses
-Gesetzes erforderlichen Rechtsverordnungen und
-Verwaltungsvorschriften. ...
+Reichsregierung erläßt die zur Durchführung dieses Gesetzes
+erforderlichen Rechtsverordnungen und Verwaltungsvorschriften. ...
 
 (2)
 

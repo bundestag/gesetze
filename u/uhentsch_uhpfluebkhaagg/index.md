@@ -4,7 +4,7 @@ Title: Gesetz zu den Haager übereinkommen vom 2. Oktober 1973 über die Anerken
   anzuwendende Recht
 jurabk: UhEntsch/UhPflÜbkHaagG
 layout: default
-origslug: uhentsch_uhpfl_bkhaagg
+origslug: uhentsch_uhpfluebkhaagg
 slug: uhentsch_uhpfluebkhaagg
 
 ---

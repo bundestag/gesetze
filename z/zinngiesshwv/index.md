@@ -2,7 +2,7 @@
 Title: Verordnung über das Berufsbild des Zinngießer-Handwerks
 jurabk: ZinnGießHwV
 layout: default
-origslug: zinngie_hwv
+origslug: zinngiesshwv
 slug: zinngiesshwv
 
 ---

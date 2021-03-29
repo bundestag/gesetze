@@ -2,7 +2,7 @@
 Title: Übereinkommen über den Zivilprozeß
 jurabk: ZPÜbk Haag
 layout: default
-origslug: zp_bk_haag
+origslug: zpuebk_haag
 slug: zpuebk_haag
 
 ---

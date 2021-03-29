@@ -128,7 +128,7 @@ ferner
 
 
     b)  in rechtskräftig abgeschlossenen Ordnungs
-        straf                         sachen ihres Geschäftsbereichs.
+        strafsachen ihres Geschäftsbereichs.
 
 
 

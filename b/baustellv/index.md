@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1283
 
-Geändert durch
-:   Art. 15 V v. 23.12.2004 I 3758
+Zuletzt geändert durch
+:   Art. 27 G v. 27.6.2017 I 1966
 
 Diese Verordnung dient in Verbindung mit dem Arbeitsschutzgesetz
 der Umsetzung der EG-Richtlinie 92/57/EWG des Rates vom
@@ -267,7 +267,8 @@ Fundstelle des Originaltextes: BGBl. I 1998, 1285
 
 ## Anhang II
 
-Fundstelle des Originaltextes: BGBl. I 1998, 1285
+(Fundstelle des Originaltextes: BGBl. I 1998, 1285;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
 
 1.  Arbeiten, bei denen die Beschäftigten der Gefahr des Versinkens, des
@@ -276,14 +277,35 @@ Besonders gefährliche Arbeiten im Sinne des § 2 Abs. 3 sind:
     ausgesetzt sind,
 
 
-2.  Arbeiten, bei denen die Beschäftigten explosionsgefährlichen,
-    hochentzündlichen, krebserzeugenden (Kategorie 1 oder 2),
-    erbgutverändernden, fortpflanzungsgefährdenden oder sehr giftigen
-    Stoffen und Zubereitungen im Sinne der Gefahrstoffverordnung oder
-    biologischen Arbeitsstoffen der Risikogruppen 3 und 4 im Sinne der
-    Richtlinie 90/679/EWG des Rates vom 26. November 1990 über den Schutz
-    der Arbeitnehmer gegen Gefährdung durch biologische Arbeitsstoffe bei
-    der Arbeit (ABl. EG Nr. L 374 S. 1) ausgesetzt sind,
+2.  Arbeiten, bei denen Beschäftigte ausgesetzt sind gegenüber
+
+    a)  biologischen Arbeitsstoffen der Risikogruppen 3 oder 4 im Sinne der
+        Biostoffverordnung oder
+
+
+    b)  Stoffen oder Gemischen im Sinne der Gefahrstoffverordnung, die
+        eingestuft sind als
+
+        aa) akut toxisch Kategorie 1 oder 2,
+
+
+        bb) krebserzeugend, keimzellmutagen oder reproduktionstoxisch jeweils
+            Kategorie 1A oder 1B,
+
+
+        cc) entzündbare Flüssigkeit Kategorie 1 oder 2,
+
+
+        dd) explosiv oder
+
+
+        ee) Erzeugnis mit Explosivstoff,
+
+
+
+
+
+
 
 
 3.  Arbeiten mit ionisierenden Strahlungen, die die Festlegung von

@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 3202
 
+Geändert durch
+:   Art. 2 Abs. 45 G v. 1.4.2015 I 434
+
 
 
 ## Eingangsformel
@@ -32,13 +35,13 @@ S. 512, 2436), verordnet das Bundesministerium der Finanzen:
 
 Für Versicherungsunternehmen, die ihren Sitz in der Schweizerischen
 Eidgenossenschaft haben und die im Inland die Direktversicherung mit
-Ausnahme der Lebensversicherung (Anlage Teil A Nr. 19 bis 24 zum
+Ausnahme der Lebensversicherung (Anlage 1 Nummer 19 bis 24 zum
 Versicherungsaufsichtsgesetz) durch eine Niederlassung betreiben
-wollen, gelten § 110d Abs. 1, Abs. 2 Satz 1 Nr. 1 bis 3 sowie § 106
-Abs. 3, § 107 und § 110 Abs. 1 des Versicherungsaufsichtsgesetzes mit
-folgenden Maßgaben entsprechend: % 1.
+wollen, gelten § 65 Absatz 1, 2 Satz 1 Nummer 1 bis 3 sowie § 67
+Absatz 2 Satz 2, § 68 Absatz 2 und § 72 des
+Versicherungsaufsichtsgesetzes mit folgenden Maßgaben entsprechend:
 
-*   Dem Antrag auf Erlaubnis zum Geschäftsbetrieb sind zusätzlich
+1.  Dem Antrag auf Erlaubnis zum Geschäftsbetrieb sind zusätzlich
     beizufügen:
 
     a)  eine Bescheinigung der schweizerischen Aufsichtsbehörde darüber,
@@ -64,11 +67,12 @@ folgenden Maßgaben entsprechend: % 1.
 
 
 
-2.  Soweit keine Versagungsgründe nach § 8 Abs. 1 vorliegen, darf die
-    Erlaubnis einem Unternehmen, daß eine in der Schweizerischen
-    Eidgenossenschaft zugelassene Rechtsform besitzt, nur versagt werden,
-    wenn die in § 106 Abs. 2 Satz 2 bis 4 und Abs. 3 genannten
-    Voraussetzungen nicht erfüllt sind.
+2.  Soweit keine Versagungsgründe nach § 11 Absatz 1 und 2 des
+    Versicherungsaufsichtsgesetzes vorliegen, darf die Erlaubnis einem
+    Unternehmen, daß eine in der Schweizerischen Eidgenossenschaft
+    zugelassene Rechtsform besitzt, nur versagt werden, wenn die in § 68
+    Absatz 1 Satz 2 bis 4 und Absatz 2 des Versicherungsaufsichtsgesetzes
+    genannten Voraussetzungen nicht erfüllt sind.
 
 
 3.  Die Erlaubnis wird widerrufen, wenn das Unternehmen in der
@@ -82,13 +86,14 @@ folgenden Maßgaben entsprechend: % 1.
     Versicherungsunternehmen, die nach Schweizer Recht nicht verpflichtet
     sind, Kapitalanforderungen entsprechend den Richtlinien des Rates der
     Europäischen Gemeinschaft auf dem Gebiet des Versicherungswesens zu
-    genügen, nach § 8 Abs. 1 Satz 1 Nr. 3.
+    genügen, nach § 11 Absatz 1 Nummer 1 des
+    Versicherungsaufsichtsgesetzes.
 
 
 5.  Das Bundesaufsichtsamt übersendet der schweizerischen Aufsichtsbehörde
-    im Rahmen des Zulassungsverfahrens den Geschäftsplan und die in § 5
-    Abs. 4 Satz 3 und 4 sowie Abs. 5 genannten Unterlagen mit seiner
-    gutachtlichen Äußerung zur Stellungnahme. Äußert sich die
+    im Rahmen des Zulassungsverfahrens den Geschäftsplan und die in § 9
+    Absatz 3 und 4 des Versicherungsaufsichtsgesetzes genannten Unterlagen
+    mit seiner gutachtlichen Äußerung zur Stellungnahme. Äußert sich die
     schweizerische Aufsichtsbehörde nicht innerhalb von drei Monaten nach
     Eingang der Unterlagen, so unterstellt das Bundesaufsichtsamt eine
     positive Stellungnahme.
@@ -96,8 +101,9 @@ folgenden Maßgaben entsprechend: % 1.
 
 6.  Bevor das Bundesaufsichtsamt gegenüber einer Niederlassung eines
     Unternehmens mit Sitz in der Schweizerischen Eidgenossenschaft auf
-    Grund des § 81b Abs. 4 eine Verfügungsbeschränkung erläßt,
-    unterrichtet es die schweizerische Aufsichtsbehörde.
+    Grund des § 133 Absatz 2 des Versicherungsaufsichtsgesetzes eine
+    Verfügungsbeschränkung erläßt, unterrichtet es die schweizerische
+    Aufsichtsbehörde.
 
 
 7.  Vor Widerruf der Erlaubnis für ein Unternehmen mit Sitz in der
@@ -113,7 +119,8 @@ folgenden Maßgaben entsprechend: % 1.
     Eigenmittel unzureichend sind, so trifft das Bundesaufsichtsamt auf
     Verlangen der schweizerischen Aufsichtsbehörde entsprechende Maßnahmen
     für die in der Bundesrepublik Deutschland belegenen
-    Vermögensgegenstände. § 81b Abs. 4 bleibt unberührt.
+    Vermögensgegenstände. § 133 Absatz 2 des
+    Versicherungsaufsichtsgesetzes bleibt unberührt.
 
 
 

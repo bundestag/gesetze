@@ -4,7 +4,7 @@ Title: Bekanntmachung zur Übernahme der Richtlinien zur Überprüfung auf eine 
   Sicherheit der ehemaligen Deutschen Demokratischen Republik
 jurabk: MfSÜPrRLÜbernBek
 layout: default
-origslug: mfs_prrl_bernbek
+origslug: mfsueprrluebernbek
 slug: mfsueprrluebernbek
 
 ---

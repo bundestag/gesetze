@@ -17,10 +17,7 @@ Fundstelle
 :   BGBl I: 2002, 4490
 
 Zuletzt geändert durch
-:   Art. 12 G v. 12.4.2012 I 579
-
-Mittelbare änderung durch
-:   Art. 13 Abs. 17 Nr. 2 u. 3 G v. 12.4.2012 I 579 ist berücksichtigt
+:   Art. 439 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -100,9 +97,8 @@ an die landwirtschaftliche Alterskasse.
 Die landwirtschaftliche Alterskasse bestimmt nach Anhörung der
 Vermittlungsstellen und des Bundesbeauftragten für den Datenschutz und
 die Informationsfreiheit im Einvernehmen mit dem Bundesministerium für
-Arbeit und Soziales und dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz die Gestaltung des
-Anfragedatensatzes.
+Arbeit und Soziales und dem Bundesministerium für Ernährung und
+Landwirtschaft die Gestaltung des Anfragedatensatzes.
 
 
 ## § 7 Verfahren der Datenübermittlung

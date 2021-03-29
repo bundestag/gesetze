@@ -358,8 +358,9 @@ Diese Verordnung tritt am 1. August 1982 in Kraft.
 Der Bundesminister für Wirtschaft
 Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Brenner/zur Brennerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Brenner/zur Brennerin
 
 (Fundstelle: BGBl. I 1981, 149 - 153)
 
@@ -1505,10 +1506,11 @@ Der Bundesminister für Ernährung, Landwirtschaft und Forsten
 
 
 
+   Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel XVI Sachgebiet C Abschnitt III (BGBl. II 1990, 889, 1135)
+## Anhang EV (BGBl. II 1990, 889, 1135)
 
-   Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
 1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt

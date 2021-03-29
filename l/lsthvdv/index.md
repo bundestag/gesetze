@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1906
 
 Zuletzt geändert durch
-:   Art. 14 G v. 22.6.2011 I 1126
+:   Art. 6 V v. 12.7.2017 I 2360
 
 
 ## Eingangsformel
@@ -105,12 +105,14 @@ Lohnsteuerhilfeverein ist ein schriftlicher Bescheid zu erteilen.
 
 
 
-### § 4a Eröffnung einer Beratungsstelle
+### § 4a Eröffnung und Verlegung einer Beratungsstelle
 
-Die Mitteilung über die Eröffnung einer Beratungsstelle (§ 23 Abs. 4
-Nr. 1 des Gesetzes) muß folgende Angaben enthalten:
+Die Mitteilung über die Eröffnung oder die Verlegung einer
+Beratungsstelle (§ 23 Absatz 4 Nummer 1 des Gesetzes) muss folgende
+Angaben enthalten:
 
-1.  Anschrift der Beratungsstelle,
+1.  die Anschrift der Beratungsstelle und im Fall ihrer Verlegung die
+    bisherige und die neue Anschrift der Beratungsstelle,
 
 
 2.  ob und gegebenenfalls welche räumlichen, personellen und
@@ -246,7 +248,11 @@ Im Verzeichnis der Lohnsteuerhilfevereine sind zu löschen
 
 
 
-2.  Beratungsstellen, wenn die Beratungsstelle geschlossen ist.
+2.  Beratungsstellen, wenn die Beratungsstelle geschlossen ist;
+
+
+3.  Beratungsstellen, wenn deren Sitz in den Bezirk einer anderen
+    Aufsichtsbehörde verlegt wird.
 
 
 

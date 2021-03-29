@@ -57,10 +57,10 @@ Stilllegung nach § 7 Absatz 3 des Atomgesetzes gelten die §§ 6 bis 8,
 
     b)  das verbliebene Aktivitätsinventar bei offenen radioaktiven Stoffen
         nicht mehr als das 10
-        7                         fache und bei umschlossenen radioaktiven
-        Stoffen nicht mehr als das 10
-        10                         fache der Freigrenzen nach Anlage III
-        Tabelle 1 Spalte 2 der Strahlenschutzverordnung beträgt.
+        7fache und bei umschlossenen radioaktiven Stoffen nicht mehr als das
+        10
+        10fache der Freigrenzen nach Anlage III Tabelle 1 Spalte 2 der
+        Strahlenschutzverordnung beträgt.
 
 
 

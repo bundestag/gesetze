@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2886
 
 Zuletzt geändert durch
-:   Art. 1 V v. 7.2.2012 I 189
+:   Art. 1 V v. 12.11.2015 I 2074
 
 
 ## Eingangsformel
@@ -43,8 +43,9 @@ dort bezeichneten Staaten anzuwenden.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1 Absatz 1)
 
-## Anlage 1 (zu § 1 Absatz 1) Anwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
+## Anlage 1 Anwaltsberufe in Staaten und Gebieten, die Mitglieder der Welthandelsorganisation sind
 
 (Fundstelle: BGBl. I 2009, 1387 u. 1388
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -114,6 +115,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Lawyer, Legal Practitioner, Solicitor, Barrister
 
 
+*    *   – in Hong Kong, China:
+
+    *   Barrister, Solicitor
+
+
 *    *   – in Indien:
 
     *   Advocate
@@ -152,11 +158,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *   – in der Republik Korea:
 
     *   Byeonhosa, Lawyer
-
-
-*    *   – in Kroatien:
-
-    *   Odvjetnik
 
 
 *    *   – in Malaysia:
@@ -221,6 +222,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Attorney
 
 
+*    *   – in der Russischen Föderation:
+
+    *   Advokat
+
+
 *    *   – in Singapur:
 
     *   Advocate and Solicitor
@@ -274,15 +280,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 1 Abs. 2)
 
-## Anlage 2 (zu § 1 Abs. 2) Anwaltsberufe in anderen Staaten
+## Anlage 2 Anwaltsberufe in anderen Staaten
 
-Fundstelle: BGBl. I 2005, 1453
-
-*    *   – in der Russischen Föderation:
-
-    *   Advokat
-
+(Fundstelle: BGBl. I 2005, 1453
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   – in Serbien:
 

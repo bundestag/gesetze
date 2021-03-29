@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 1995, 778, 785
 
 Zuletzt geändert durch
-:   Art. 321 V v. 31.10.2006 I 2407
+:   Art. 551 V v. 31.8.2015 I 1474
 
 
 ## § 1
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
-und Technologie sowie dem Bundesministerium für Umwelt, Naturschutz
+und Energie sowie dem Bundesministerium für Umwelt, Naturschutz, Bau
 und Reaktorsicherheit und unbeschadet der Vorschriften des
 Bundesberggesetzes durch Rechtsverordnung
 
@@ -64,7 +64,7 @@ Hydrographie zuständig.
 Für Amtshandlungen einschließlich der Zurückweisung von Anträgen und
 Widersprüchen auf Grund der nach § 1 erlassenen Rechtsverordnungen
 werden Kosten (Gebühren und Auslagen) erhoben. Das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung wird ermächtigt, durch
+für Verkehr und digitale Infrastruktur wird ermächtigt, durch
 Rechtsverordnung die gebührenpflichtigen Tatbestände näher zu
 bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
 

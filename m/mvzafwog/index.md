@@ -22,11 +22,11 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Unterartikel 2 -
+## Unterartikel 2 - 
 
 
 
-## Unterartikel 3 -
+## Unterartikel 3 - 
 
 
 

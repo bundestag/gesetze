@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 3366
 
-Geändert durch
-:   Art. 3 Abs. 20 G v. 7.7.2005 I 1970
+Zuletzt geändert durch
+:   Art. 3 Abs. 3 G v. 27.6.2017 I 1947
 
 
 ## Eingangsformel
@@ -60,7 +60,8 @@ Im Sinne dieser Verordnung
     ein Installationsort, an dem eine ortsfeste Funkanlage errichtet wurde
     oder errichtet werden soll; zum Standort gehören alle Funkanlagen, die
     auf demselben Mast oder in unmittelbarer Nähe (die Sicherheitsabstände
-    der einzelnen Antennen überlappen sich) voneinander betrieben werden,
+    der einzelnen Antennen überschneiden sich) voneinander betrieben
+    werden,
 
 
 4.  ist der standortbezogene Sicherheitsabstand
@@ -109,20 +110,12 @@ Funkanlagen sind für den Frequenzbereich 9 Kilohertz bis 300 Gigahertz
 die folgenden Werte als Grenzwerte einzuhalten:
 
 1.  die in der geltenden Fassung der Verordnung über elektromagnetische
-    Felder - 26. BImSchV - festgesetzten Grenzwerte und,
+    Felder - 26. BImSchV - festgesetzten Grenzwerte und
 
 
-2.  soweit das Bundes-Immissionsschutzgesetz oder eine hierauf gestützte
-    Verordnung keine Regelung trifft, die Referenzwerte der Tabelle 2 des
-    Anhangs III der Empfehlung 1999/519/EG des Rates vom 12. Juli 1999 zur
-    Begrenzung der Exposition der Bevölkerung gegenüber
-    elektromagnetischen Feldern (0 Hertz bis 300 Gigahertz) (ABl. EG Nr. L
-    199 S. 59), sowie
-
-
-3.  für den Frequenzbereich 9 Kilohertz bis 50 Megahertz zusätzlich die
-    zulässigen Werte für aktive Körperhilfen nach Entwurf DIN VDE
-    0848-3-1/A1 (Ausgabe Februar 2001).
+2.  für den Frequenzbereich 9 Kilohertz bis 50 Megahertz zusätzlich die
+    zulässigen Werte für aktive Körperhilfen nach DIN EN 50527-1 (Ausgabe
+    Januar 2011) und DIN EN 50527-2-1 (Ausgabe Mai 2012).
 
 
 
@@ -138,14 +131,16 @@ Patent- und Markenamt in München archivmäßig gesichert niedergelegt.
 ## § 4 Standortbescheinigung
 
 (1) Eine ortsfeste Funkanlage mit einer äquivalenten isotropen
-Strahlungsleistung (EIRP) von 10 Watt und mehr darf nur betrieben
+Strahlungsleistung (EIRP) von 10 Watt oder mehr darf nur betrieben
 werden, wenn für diesen Standort eine gültige Standortbescheinigung
 vorliegt. Das Gleiche gilt für eine ortsfeste Funkanlage mit einer
 äquivalenten isotropen Strahlungsleistung (EIRP) von weniger als 10
 Watt, die an einem Standort mit einer Gesamtstrahlungsleistung von 10
 Watt oder mehr errichtet wurde, oder wenn durch die hinzukommende
 Funkanlage die Gesamtstrahlungsleistung von 10 Watt (EIRP) erreicht
-oder überschritten wird.
+oder überschritten wird. Satz 2 gilt nicht für solche Funkanlagen, die
+eine äquivalente isotrope Strahlungsleistung (EIRP) von 100 Milliwatt
+oder weniger aufweisen.
 
 (2) Absatz 1 findet Anwendung auf ortsfeste Amateurfunkanlagen nur
 soweit die Regelungen des § 8 dies bestimmen. Absatz 1 findet keine
@@ -208,11 +203,14 @@ dadurch entstehenden Aufwand gebührenpflichtig.
 (1) Zur Erteilung der Standortbescheinigung ermittelt die
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen vorzugsweise rechnerisch oder auch messtechnisch nach DIN
-VDE 0848 Teil 1 (Ausgabe August 2000) auf der Grundlage der
-systembezogenen Sicherheitsabstände den zur Einhaltung der Grenzwerte
-nach § 3 erforderlichen standortbezogenen Sicherheitsabstand. Sie
-bezieht dabei auch die relevanten Feldstärken von umliegenden
-ortsfesten Funkanlagen ein (standortspezifischer Umfeldfaktor).
+EN 50413 (Ausgabe August 2009) auf der Grundlage der systembezogenen
+Sicherheitsabstände den zur Einhaltung der Grenzwerte nach § 3
+erforderlichen standortbezogenen Sicherheitsabstand. Sie bezieht dabei
+auch die relevanten Feldstärken von umliegenden ortsfesten Funkanlagen
+ein (standortspezifischer Umfeldfaktor). Erteilt die Bundesnetzagentur
+für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen die
+Standortbescheinigung auf Grundlage messtechnischer Untersuchung, so
+dokumentiert sie deren Ergebnis in geeigneter Form.
 
 (2) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen hat eine Standortbescheinigung zu erteilen, wenn
@@ -262,6 +260,12 @@ Telekommunikation, Post und Eisenbahnen die Funkanlage. Liegen die
 Voraussetzungen aufgrund messtechnischer Gegebenheiten zur Erteilung
 der Standortbescheinigung nach Absatz 2 oder 3 vor, erteilt sie diese.
 
+(5) Zur Unterrichtung der Öffentlichkeit betreibt die
+Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
+Eisenbahnen in nicht personenbezogener Form ein Informationsportal,
+das für Anlagen mit Standortbescheinigung den jeweiligen
+Sicherheitsabstand nach Absatz 1 ausweist.
+
 
 ## § 6 Standortmitbenutzung
 
@@ -300,16 +304,14 @@ für jede Sendeantenne oder Sendeantennengruppierung die ungünstigste
 Sendekonfiguration anzunehmen. Die Kosten für die Einbeziehung der
 Amateurfunkanlage trägt der Antragsteller der Standortbescheinigung.
 
-(4) Mit Erteilung der Standortbescheinigung für die zuletzt zu
-errichtende oder im Sinne des Absatzes 2 zu ändernde Funkanlage
-erlöschen die bislang für diesen Standort erteilten
-Standortbescheinigungen. Die für die zuletzt zu errichtende oder im
-Sinne des Absatzes 2 zu ändernde Funkanlage erteilte
-Standortbescheinigung gilt zugleich für die übrigen am Standort
-vorhandenen ortsfesten Funkanlagen. Die Betreiber dieser Funkanlagen
-erhalten hierüber unter Angabe des Inhabers der Standortbescheinigung
-eine schriftliche Mitteilung der Bundesnetzagentur für Elektrizität,
-Gas, Telekommunikation, Post und Eisenbahnen.
+(4) Die für die zuletzt zu errichtende oder im Sinne des Absatzes 2 zu
+ändernde Funkanlage erteilte Standortbescheinigung gilt zugleich für
+die übrigen am Standort vorhandenen ortsfesten Funkanlagen und ersetzt
+frühere Standortbescheinigungen für diesen Standort. Die Betreiber
+dieser Funkanlagen erhalten unter Angabe des Inhabers der
+Standortbescheinigung eine Abschrift der neuen Standortbescheinigung
+der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
+und Eisenbahnen.
 
 
 ## § 7 Widerruf und Erlöschen einer Standortbescheinigung
@@ -355,14 +357,14 @@ darf ansonsten nur betrieben werden, wenn
 
 
 (3) Von der Voraussetzung des Absatzes 2 Satz 1 Nr. 1 darf der
-Betreiber hinsichtlich der Einhaltung der Grenzwerte nach § 3 Nr. 3
-abweichen, wenn er
+Betreiber hinsichtlich der Einhaltung der Grenzwerte nach § 3 Satz 1
+Nummer 2 abweichen, wenn er
 
 1.  der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
     und Eisenbahnen im Rahmen der Anzeige gemäß § 9 den Bereich außerhalb
     des kontrollierbaren Bereichs darstellt, in dem die Grenzwerte nach §
-    3 Nr. 3 nicht eingehalten werden (Ergänzungsbereich für aktive
-    Körperhilfen),
+    3 Satz 1 Nummer 2 nicht eingehalten werden (Ergänzungsbereich für
+    aktive Körperhilfen),
 
 
 2.  dafür Sorge trägt, dass sich Träger von aktiven Körperhilfen während
@@ -385,7 +387,7 @@ Durchführung der Anzeige anzuwenden.
 
 (2) Der Betreiber hat den zur Einhaltung der Grenzwerte erforderlichen
 Sicherheitsabstand rechnerisch oder messtechnisch auf der Grundlage
-der Norm DIN VDE 0848 Teil 1 (Ausgabe August 2000) zu ermitteln und in
+der Norm DIN EN 50413 (Ausgabe August 2009) zu ermitteln und in
 nachvollziehbarer Form zu dokumentieren.
 
 (3) Der Anzeige ist eine nachvollziehbare zeichnerische Darstellung
@@ -426,6 +428,16 @@ weiterhin zutreffend sind. In den Fällen, in denen die Anzeige nicht
 mehr den tatsächlichen Gegebenheiten entspricht, ist vom Betreiber das
 Anzeigeverfahren erneut durchzuführen.
 
+(5) Eine anzeigepflichtige Amateurfunkstelle kann in das
+Informationsportal nach § 5 Absatz 5 aufgenommen werden, wenn der
+Betreiber der Amateurfunkstelle dieser Aufnahme zustimmt und die
+Anzeige in der Form erfolgt ist, die in der Anleitung zur Durchführung
+der Anzeige beschrieben wird. Beantragt der Betreiber der
+Amateurfunkstelle die Herausnahme der anzeigepflichtigen
+Amateurfunkstelle aus dem Informationsportal, so ist die nach Satz 1
+im Informationsportal erfolgte Veröffentlichung unverzüglich,
+spätestens aber zwei Wochen nach Eingang dieses Antrags, zu löschen.
+
 
 ## § 10 Weiterer Schutz von Trägern aktiver Körperhilfen
 
@@ -433,11 +445,11 @@ Anzeigeverfahren erneut durchzuführen.
 Frequenzbereich von 9 Kilohertz bis 3 Gigahertz betreibt, hat in
 geeigneter Art und Weise den Schutz von Trägern aktiver
 Körperhilfsmittel zu ermöglichen, die sich in dem Bereich aufhalten,
-in dem die Grenzwerte nach Entwurf DIN VDE 0848-3-1/A1 (Ausgabe
-Februar 2001) nicht eingehalten werden (Einwirkungsbereich für aktive
-Körperhilfen). Er hat eine Dokumentation der von ihm getroffenen
-Maßnahmen bereitzuhalten und den zuständigen Behörden auf Verlangen
-vorzulegen.
+in dem die Grenzwerte nach DIN EN 50527-1 (Ausgabe Januar 2011) und
+DIN EN 50527-2-1 (Ausgabe Mai 2012) nicht eingehalten werden
+(Einwirkungsbereich für aktive Körperhilfen). Er hat eine
+Dokumentation der von ihm getroffenen Maßnahmen bereitzuhalten und den
+zuständigen Behörden auf Verlangen vorzulegen.
 
 (2) Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation,
 Post und Eisenbahnen weist den Einwirkungsbereich für aktive
@@ -452,10 +464,13 @@ entsprechend.
 
 ## § 11 Inbetriebnahme und Außerbetriebnahme einer Funkanlage
 
-(1) Die Inbetriebnahme und Außerbetriebnahme einer ortsfesten
+(1) Die Inbetriebnahme und wesentliche Änderung einer ortsfesten
 Funkanlage, die den Regelungen des § 4 unterliegt, ist der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
-Eisenbahnen unverzüglich anzuzeigen.
+Eisenbahnen mindestens zwei Wochen vor der Inbetriebnahme anzuzeigen.
+Die Außerbetriebnahme einer ortsfesten Funkanlage, die den Regelungen
+des § 4 unterliegt, ist der Bundesnetzagentur für Elektrizität, Gas,
+Telekommunikation, Post und Eisenbahnen unverzüglich anzuzeigen.
 
 (2) Der Zeitpunkt der Inbetriebnahme und der Außerbetriebnahme einer
 ortsfesten Funkanlage (Basisstation) in öffentlichen
@@ -463,7 +478,9 @@ Telekommunikationsnetzen, die eine äquivalente isotrope
 Strahlungsleistung von weniger als 10 Watt (EIRP) aufweist, ist der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen innerhalb von vier Wochen nach der In- oder
-Außerbetriebnahme anzuzeigen.
+Außerbetriebnahme anzuzeigen. Satz 1 gilt nicht für Funkanlagen, die
+eine äquivalente isotrope Strahlungsleistung (EIRP) von 100 Milliwatt
+oder weniger aufweisen.
 
 
 ## § 12 Änderung der Funkanlage
@@ -501,43 +518,34 @@ Angaben überprüfen. Dazu hat der Betreiber die nach § 9 Abs. 3
 bereitzuhaltende Dokumentation der Bundesnetzagentur für Elektrizität,
 Gas, Telekommunikation, Post und Eisenbahnen vorzulegen. Liegen der
 Behörde Hinweise vor, dass die Anforderungen dieser Verordnung nicht
-eingehalten werden, ordnet sie eine Überprüfung der Anlage an. Absatz
-1 Satz 2 und 3 gilt entsprechend.
+eingehalten werden, ordnet sie eine Überprüfung der Anlage an. Für die
+messtechnische Überprüfung ist die Amateurfunkstelle nach vorheriger
+Ankündigung sendebereit zu halten. Absatz 1 Satz 2 und 3 gilt
+entsprechend.
 
 
-## § 14 Anordnungen der Regulierungsbehörde für Telekommunikation und Post
+## § 14 Anordnungen
 
 Die Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen trifft die erforderlichen Anordnungen, um die
 Einhaltung dieser Verordnung zu gewährleisten. Sie kann insbesondere
 den Betrieb der ortsfesten Funkanlage beschränken oder untersagen.
-Anordnungen, die die Einhaltung des § 3 Satz 1 Nr. 1 und 2
-gewährleisten, sind im Einvernehmen mit der zuständigen
-Immissionsschutzbehörde zu treffen.
+Anordnungen, die die Einhaltung des § 3 Satz 1 Nr. 1 gewährleisten,
+sind im Einvernehmen mit der zuständigen Immissionsschutzbehörde zu
+treffen.
 
 
-## § 15 Gebühren und Auslagen
-
-Für Amtshandlungen der Bundesnetzagentur für Elektrizität, Gas,
-Telekommunikation, Post und Eisenbahnen aufgrund der vorgenannten
-Regelungen werden Gebühren und Auslagen nach Anlage 1 erhoben. In den
-Fällen
-
-1.  der Zurücknahme eines Antrages nach dem Beginn der sachlichen
-    Bearbeitung und vor der Beendigung der Amtshandlung oder der Ablehnung
-    eines Antrages aus anderen Gründen als wegen Unzuständigkeit werden
-    bis zu 75 Prozent der Gebühr für den beantragten Verwaltungsakt,
-
-
-2.  einer vollständigen oder teilweisen Zurückweisung eines Widerspruchs
-    gegen eine Sachentscheidung, soweit die Erfolglosigkeit nicht nur auf
-    der Unbeachtlichkeit der Verletzung einer Verfahrens- oder
-    Formvorschrift nach § 45 des Verwaltungsverfahrensgesetzes beruht,
-    werden bis zu 100 Prozent der Gebühr für die angegriffene Amtshandlung
+## § 15 (weggefallen)
 
 
 
-erhoben.
+## § 15a Ordnungswidrigkeiten
+
+Ordnungswidrig im Sinne des § 37 Absatz 1 Nummer 14 des Gesetzes über
+die Bereitstellung von Funkanlagen auf dem Markt handelt, wer
+vorsätzlich oder fahrlässig entgegen § 4 Absatz 1 Satz 1, auch in
+Verbindung mit Satz 2, entgegen § 5 Absatz 2 Satz 2 oder entgegen § 5
+Absatz 3 Satz 5 eine ortsfeste Funkanlage betreibt.
 
 
 ## § 16 Übergangsbestimmungen
@@ -559,150 +567,6 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage (zu § 15)
-
-Fundstelle des Originaltextes: BGBl. I 2002, 3371
-
-*    *   A.
-
-    *   Gebühren für die Erteilung einer Standortbescheinigung
-
-    *   Gebühr in Euro
-
-
-*    *   A.1
-
-    *   Grundbetrag für die Bearbeitung eines Antrages
-
-    *   73
-
-
-*    *   A.2
-
-    *   Zusätzlich zu A.1 für jede zu bewertende Sendeantenne (auch für
-        bereits am Standort vorhandene und zu bewertende Sendeantennen bei
-        Standortmitbenutzungen; auch bei vorläufigen Standortbescheinigungen
-        gemäß § 5 Abs. 4)
-
-    *   92
-
-
-*    *   A.3
-
-    *   Zusätzlich zu A.1 bei Betrachtung eines Standortes nach § 5 Abs. 3
-
-    *   Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand
-        der Gebührennummern A.5.1 bis A.5.3.
-
-
-*    *   A.4
-
-    *   Je zu bewertender Sendeantenne bei der Umwandlung einer vorläufigen in
-        eine endgültige Standortbescheinigung
-
-    *   92
-
-
-*    *   A.5
-
-    *   Zusätzlich zu den Gebührenpositionen A.2 bis A.4, wenn Messungen oder
-        Nahfeldberechnungen erforderlich sind
-
-    *   Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand
-        der Gebührennummern A.5.1 bis A.5.5.
-
-
-*    *   A.5.1
-
-    *   Stundensatz für Beamte des höheren Dienstes
-
-    *   240,17
-
-
-*    *   A.5.2
-
-    *   Stundensatz für Beamte des gehobenen Dienstes
-
-    *   169,37
-
-
-*    *   A.5.3
-
-    *   Stundensatz für Beamte des mittleren Dienstes
-
-    *   129,82
-
-
-*    *   A.5.4
-
-    *   Stundensatz für den Einsatz von Mess-Kfz (einschließlich
-        messtechnischer Einrichtungen im Mess-Kfz)
-
-    *   57,26
-
-
-*    *   A.5.5
-
-    *   Fahrleistung eines Mess-Kfz je Kilometer
-
-    *   0,23
-
-
-*    *
-    *
-    *
-
-*    *   B.
-
-    *   Sonstige Gebühren
-
-    *   Gebühr in Euro
-
-
-*    *   B.1
-
-    *   Anzeige einer nicht bescheinigungspflichtigen Funkanlage gemäß § 11
-        Abs. 2
-
-    *   22
-
-
-*    *   B.2
-
-    *   Zweitschrift einer Standortbescheinigung
-
-    *   25
-
-
-*    *
-    *
-    *
-
-*    *   C.
-
-    *   Betrieb einer Funkanlage ohne die erforderliche Standortbescheinigung
-        oder unter Verstoß gegen deren Bestimmungen; Verletzung von Anzeige-
-        und Dokumentationspflichten; Betrieb einer Amateurfunkanlage unter
-        Verstoß gegen § 8 der Verordnung
-
-    *   Gebühr in Euro
-
-
-*    *   C.1
-
-    *   Verwaltungsmäßiges Bearbeiten eines Verstoßes einschließlich Festlegen
-        der Maßnahmen nach Aufwand
-
-    *   100 bis 2.000
-
-
-*    *   C.2
-
-    *   Zusätzlich zu C.1 bei Ausführen eines mobilen Messeinsatzes
-
-    *   Die Höhe der Gebühr bemisst sich nach dem tatsächlichen Aufwand anhand
-        der Gebührennummern A.5.1 bis A.5.5.
-
-
+## Anlage (weggefallen)
 
 

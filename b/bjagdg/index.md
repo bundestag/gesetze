@@ -19,7 +19,10 @@ Neugefasst durch
 :   Bek. v. 29.9.1976 I 2849;
 
 Zuletzt geändert durch
-:   Art. 3 G v. 6.12.2011 I 2557
+:   Art. 3 G v. 8.9.2017 I 3370 (Nr 62)
+
+Änderung durch
+:   Art. 3 Nr. 1 G v. 8.9.2017 I 3370 war nicht ausführbar, da zu diesem Zeitpunkt keine amtliche Inhaltsübersicht existierte
 
 
 ## I. Abschnitt - Das Jagdrecht
@@ -222,6 +225,137 @@ Auf Grundflächen, die zu keinem Jagdbezirk gehören, und in befriedeten
 Bezirken ruht die Jagd. Eine beschränkte Ausübung der Jagd kann
 gestattet werden. Tiergärten fallen nicht unter die Vorschriften
 dieses Gesetzes.
+
+
+#### § 6a Befriedung von Grundflächen aus ethischen Gründen
+
+(1) Grundflächen, die zu einem gemeinschaftlichen Jagdbezirk gehören
+und im Eigentum einer natürlichen Person stehen, sind auf Antrag des
+Grundeigentümers zu befriedeten Bezirken zu erklären (Befriedung),
+wenn der Grundeigentümer glaubhaft macht, dass er die Jagdausübung aus
+ethischen Gründen ablehnt. Eine Befriedung ist zu versagen, soweit
+Tatsachen die Annahme rechtfertigen, dass ein Ruhen der Jagd auf der
+vom Antrag umfassten Fläche bezogen auf den gesamten jeweiligen
+Jagdbezirk die Belange
+
+1.  der Erhaltung eines artenreichen und gesunden Wildbestandes sowie der
+    Pflege und Sicherung seiner Lebensgrundlagen,
+
+
+2.  des Schutzes der Land-, Forst- und Fischereiwirtschaft vor übermäßigen
+    Wildschäden,
+
+
+3.  des Naturschutzes und der Landschaftspflege,
+
+
+4.  des Schutzes vor Tierseuchen oder
+
+
+5.  der Abwendung sonstiger Gefahren für die öffentliche Sicherheit und
+    Ordnung
+
+
+
+gefährdet. Ethische Gründe nach Satz 1 liegen insbesondere nicht vor,
+wenn der Antragsteller
+
+1.  selbst die Jagd ausübt oder die Ausübung der Jagd durch Dritte auf
+    einem ihm gehörenden Grundstück duldet oder
+
+
+2.  zum Zeitpunkt der behördlichen Entscheidung einen Jagdschein gelöst
+    oder beantragt hat.
+
+
+
+Der Antrag ist schriftlich oder zur Niederschrift bei der zuständigen
+Behörde zu stellen. Der Entscheidung über den Antrag hat neben der
+Anhörung des Antragstellers eine Anhörung der Jagdgenossenschaft, des
+Jagdpächters, angrenzender Grundeigentümer, des Jagdbeirats sowie der
+Träger öffentlicher Belange vorauszugehen.
+
+(2) Die Befriedung soll mit Wirkung zum Ende des Jagdpachtvertrages
+erfolgen. Sofern dies dem Antragsteller unter Abwägung mit den
+schutzwürdigen Belangen der Jagdgenossenschaft nicht zuzumuten ist,
+kann die Behörde einen früheren Zeitpunkt, der jedoch nicht vor Ende
+des Jagdjahres liegt, bestimmen. In den Fällen des Satzes 2 kann die
+Jagdgenossenschaft vom Grundeigentümer den Ersatz des Schadens
+verlangen, der ihr durch die vorzeitige Befriedung entsteht.
+
+(3) Die Befriedung kann räumlich auf einen Teil der Antragsfläche
+sowie zeitlich beschränkt werden, soweit dies zur Wahrung der Belange
+nach Absatz 1 Satz 2 erforderlich ist.
+
+(4) Die Befriedung erlischt vorbehaltlich der Sätze 2 und 3 drei
+Monate nach Übergang des Eigentums an der befriedeten Grundfläche auf
+einen Dritten. Stellt der Dritte während des Laufs der Frist nach Satz
+1 einen Antrag auf erneute Befriedung, so erlischt die bestehende
+Befriedung mit dem Wirksamwerden der behördlichen Entscheidung über
+den Antrag. Verzichtet der Dritte vor Ablauf der Frist nach Satz 1 auf
+einen Antrag auf erneute Befriedung, so erlischt die bestehende
+Befriedung mit dem Zugang der Verzichtserklärung bei der zuständigen
+Behörde. Der Grundeigentümer hat den Eigentumswechsel der zuständigen
+Behörde anzuzeigen. Die Befriedung ist zu widerrufen, wenn
+
+1.  der Grundeigentümer schriftlich gegenüber der zuständigen Behörde den
+    Verzicht auf die Befriedung erklärt oder
+
+
+2.  der Grundeigentümer die Jagd ausübt, einen Jagdschein löst oder die
+    Ausübung der Jagd durch Dritte auf einem ihm gehörenden Grundstück
+    duldet.
+
+
+
+Die Befriedung ist in der Regel zu widerrufen, wenn Tatsachen bekannt
+werden, die den Anspruch auf Erklärung zum befriedeten Bezirk
+entfallen lassen. Die Befriedung ist unter den Vorbehalt des Widerrufs
+zu stellen für den Fall, dass ein oder mehrere weitere begründete
+Anträge auf Befriedung in demselben Jagdbezirk gestellt werden und
+nicht allen Anträgen insgesamt ohne Gefährdung der Belange nach Absatz
+1 Satz 2 stattgegeben werden kann. Im Übrigen gelten die
+verwaltungsverfahrensrechtlichen Vorschriften über Rücknahme und
+Widerruf von Verwaltungsakten.
+
+(5) Die zuständige Behörde kann eine beschränkte Jagdausübung auf den
+für befriedet erklärten Grundflächen anordnen, soweit dies zur
+Vermeidung übermäßiger Wildschäden, der Gefahr von Tierseuchen, aus
+Gründen des Naturschutzes oder des Tierschutzes, der Seuchenhygiene,
+der Gewährleistung der Sicherheit des Verkehrs auf öffentlichen
+Verkehrswegen oder der Abwendung sonstiger Gefahren für die
+öffentliche Sicherheit und Ordnung erforderlich ist. Widerspruch und
+Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der
+Grundeigentümer der Anordnung nicht nach, so kann die zuständige
+Behörde für dessen Rechnung die Jagd ausüben lassen.
+
+(6) Wildschäden an Grundstücken, die zum gemeinschaftlichen Jagdbezirk
+gehören, hat der Grundeigentümer der befriedeten Grundfläche nach dem
+Verhältnis des Flächenanteils seiner Grundfläche an der Gesamtfläche
+des gemeinschaftlichen Jagdbezirks anteilig zu ersetzen. Dies gilt
+nicht, sofern das schädigende Wild auf der befriedeten Grundfläche
+nicht vorkommt oder der Schaden auch ohne die Befriedung der
+Grundfläche eingetreten wäre.
+
+(7) Der Grundeigentümer der befriedeten Fläche hat keinen Anspruch auf
+Ersatz von Wildschäden.
+
+(8) Die Grundsätze der Wildfolge sind im Verhältnis des
+gemeinschaftlichen Jagdbezirks zu der nach Absatz 1 für befriedet
+erklärten Grundfläche entsprechend anzuwenden. Einer Vereinbarung nach
+§ 22a Absatz 2 bedarf es nicht. Der Grundeigentümer des für befriedet
+erklärten Grundstücks ist über die Notwendigkeit der Wildfolge, soweit
+Belange des Tierschutzes nicht entgegenstehen bereits vor Beginn der
+Wildfolge, unverzüglich in Kenntnis zu setzen.
+
+(9) Das Recht zur Aneignung von Wild nach § 1 Absatz 1 Satz 1 steht in
+den Fällen der nach Absatz 5 behördlich angeordneten Jagd und der
+Wildfolge nach Absatz 8 dem Jagdausübungsberechtigten des Jagdbezirks
+oder dem beauftragten Jäger zu.
+
+(10) Die Absätze 1 bis 9 sind auf Grundflächen, die einem
+Eigenjagdbezirk kraft Gesetzes oder auf Grund behördlicher
+Entscheidung angegliedert sind, entsprechend anzuwenden.
 
 
 ### 2. - Eigenjagdbezirke
@@ -518,8 +652,8 @@ Falknerjagdschein mit sich führen.
 zuständigen Behörde als Jahresjagdschein für höchstens drei Jagdjahre
 (§ 11 Abs. 4) oder als Tagesjagdschein für vierzehn
 aufeinanderfolgende Tage nach einheitlichen, vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz (Bundesministerium)
-bestimmten Mustern erteilt.
+Ernährung und Landwirtschaft (Bundesministerium) bestimmten Mustern
+erteilt.
 
 (3) Der Jagdschein gilt im gesamten Bundesgebiet.
 
@@ -590,7 +724,7 @@ Gesellschaftsjagden.
 
 (1) Der Jagdschein ist zu versagen
 
-1.  Personen, die noch nicht sechzehn Jahre als sind;
+1.  Personen, die noch nicht sechzehn Jahre alt sind;
 
 
 2.  Personen, bei denen Tatsachen die Annahme rechtfertigen, daß sie die
@@ -757,8 +891,9 @@ Ergebnis von Überprüfungen nach § 17 sowie Maßnahmen nach den §§ 18,
         2 000 Joule haben;
 
 
-    c)  auf Wild mit halbautomatischen oder automatischen Waffen, die mehr als
-        zwei Patronen in das Magazin aufnehmen können, zu schießen;
+    c)  mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei
+        Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu
+        schießen;
 
 
     d)  auf Wild mit Pistolen oder Revolvern zu schießen, ausgenommen im Falle
@@ -1075,6 +1210,42 @@ beschränkt oder verboten werden.
 Genehmigung abhängig machen.
 
 
+#### § 28a Invasive Arten
+
+(1) Dem Jagdausübungsberechtigten ist mit dessen Zustimmung für den
+Jagdbezirk, in dem er die Jagd ausüben darf, die Durchführung von
+Management- oder Beseitigungsmaßnahmen, die nach § 40e Absatz 2
+Halbsatz 1 Bundesnaturschutzgesetz festgelegt worden sind, von der
+nach Landesrecht für Jagd zuständigen Behörde ganz oder teilweise zu
+übertragen oder die Mitwirkung an der Durchführung der Maßnahmen
+aufzuerlegen, soweit die Durchführung der Maßnahmen im Rahmen der
+Jagdausübung mit zulässigen jagdlichen Methoden und Mitteln möglich,
+zumutbar und wirksam ist. Im Übrigen ist der Jagdausübungsberechtigte
+zur Durchführung von Managementmaßnahmen nach § 40e
+Bundesnaturschutzgesetz nicht verpflichtet. Die Sätze 1 und 2 gelten
+entsprechend für Maßnahmen nach Artikel 17 der Verordnung (EU) Nr.
+1143/2014 des Europäischen Parlaments und des Rates vom 22. Oktober
+2014 über die Prävention und das Management der Einbringung und
+Ausbreitung invasiver gebietsfremder Arten (ABl. L 317 vom 4.11.2014,
+S. 35) für die in § 40e Absatz 2 Halbsatz 1 genannten Arten.
+
+(2) Soweit die Durchführung von Managementmaßnahmen nach Absatz 1
+nicht vom Jagdausübungsberechtigten übernommen wird, oder soweit
+dieser die ihm übertragenen Maßnahmen oder die Mitwirkung daran nicht
+ordnungsgemäß ausführt, trifft die nach Landesrecht für Jagd
+zuständige Behörde nach Anhörung des Jagdausübungsberechtigten die
+notwendigen Anordnungen; sie kann insbesondere die Durchführung der
+Maßnahmen übernehmen oder einen Dritten mit deren Durchführung
+beauftragen. Maßnahmen unter Einsatz jagdlicher Mittel haben im
+Einvernehmen mit dem Jagdausübungsberechtigten zu erfolgen; sein
+Jagdrecht bleibt unberührt.
+
+(3) § 1 Absatz 1 Satz 2 ist auf Arten, für die Managementmaßnahmen
+nach § 40e oder Beseitigungsmaßnahmen nach § 40a des
+Bundesnaturschutzgesetzes festgelegt worden sind, nicht anzuwenden; §
+22 Absatz 4 Satz 1 und 2 gilt entsprechend.
+
+
 ### 2. - Wildschadensersatz
 
 
@@ -1283,20 +1454,20 @@ erforderlich ist, Vorschriften zu erlassen über
 
 
 
-(3) Die Vorschriften nach Absatz 1 Nr. 2 und 3 und Absatz 2 Nr. 2
-können sich auch auf Eier oder sonstige Entwicklungsformen des Wildes,
-auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus
-Wild gewonnenen Erzeugnisse erstrecken.
+(3) Die Vorschriften nach Absatz 1 Nummer 2, 2a, 2b und 3 und Absatz 2
+Nr. 2 können sich auch auf Eier oder sonstige Entwicklungsformen des
+Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und
+die aus Wild gewonnenen Erzeugnisse erstrecken.
 
 (4) Rechtsverordnungen nach Absatz 1 Nr. 1 bedürfen des Einvernehmens
-mit dem Bundesministerium für Wirtschaft und Technologie;
+mit dem Bundesministerium für Wirtschaft und Energie;
 Rechtsverordnungen nach Absatz 1 Nr. 3 bedürfen des Einvernehmens mit
 dem Bundesministerium der Finanzen. Rechtsverordnungen nach Absatz 1
 Nr. 2 bis 5 bedürfen, soweit sie Rechtsakte der Europäischen
 Gemeinschaft oder der Europäischen Union auf dem Gebiet des
 Artenschutzes oder Verpflichtungen aus internationalen
 Artenschutzübereinkommen zu beachten haben, des Einvernehmens mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 (5) Das Bundesministerium der Finanzen und die von ihm bestimmten
 Zollstellen wirken bei der Ein-, Durch- und Ausfuhr sowie bei dem
@@ -1362,15 +1533,17 @@ bis zu einem Jahr oder Geldstrafe.
 
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2a
-Buchstabe a oder einer vollziehbaren Anordnung auf Grund einer solchen
-Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
-bestimmten Tatbestand auf diese Strafvorschrift verweist.
+Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren
+Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
+soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
+Strafvorschrift verweist.
 
 (2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
 bestraft, wer einer Rechtsverordnung nach § 36 Absatz 1 Nummer 2
-Buchstabe a oder einer vollziehbaren Anordnung auf Grund einer solchen
-Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
-bestimmten Tatbestand auf diese Strafvorschrift verweist.
+Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren
+Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt,
+soweit die Rechtsverordnung für einen bestimmten Tatbestand auf diese
+Strafvorschrift verweist.
 
 (3) Erkennt der Täter in den Fällen des Absatzes 1 leichtfertig nicht,
 dass sich die Handlung auf Wild einer Art bezieht, die in § 36 Absatz
@@ -1454,10 +1627,13 @@ Erhaltungszustand der Art hat.
 
 
 5.  einer Rechtsverordnung nach § 36 Absatz 1 Nummer 1, 2 Buchstabe b,
-    Nummer 2a Buchstabe b, Nummer 2b bis 4 oder Nummer 5, Absatz 2 oder
-    Absatz 5 oder einer vollziehbaren Anordnung auf Grund einer solchen
-    Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung für einen
-    bestimmten Tatbestand auf diese Bußgeldvorschrift verweist, oder
+    auch in Verbindung mit Absatz 3, Nummer 2a Buchstabe b, auch in
+    Verbindung mit Absatz 3, Nummer 2b, auch in Verbindung mit Absatz 3,
+    Nummer 3, auch in Verbindung mit Absatz 3, Nummer 4 oder Nummer 5,
+    Absatz 2 oder Absatz 5 oder einer vollziehbaren Anordnung auf Grund
+    einer solchen Rechtsverordnung zuwiderhandelt, soweit die
+    Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist, oder
 
 
 6.  zur Jagd ausgerüstet unbefugt einen fremden Jagdbezirk außerhalb der
@@ -1498,7 +1674,7 @@ Ordnungswidrigkeiten sind anzuwenden.
 1.  nach § 38 dieses Gesetzes,
 
 
-2.  nach den §§ 113, 114, 223 bis 227, 231, 239, 240 des
+2.  nach den §§ 113 bis 115, 223 bis 227, 231, 239, 240 des
     Strafgesetzbuches, sofern derjenige, gegen den sich die Tat richtete,
     sich in Ausübung des Forst-, Feld-, Jagd- oder Fischereischutzes
     befand, oder

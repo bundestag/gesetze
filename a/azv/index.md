@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 2006, 427
 
 Zuletzt geändert durch
-:   Art. 2 V v. 14.9.2012 I 2017
+:   Art. 8 G v. 29.3.2017 I 626
+
+Mittelbare änderung durch
+:   Art. 10 G v. 8.6.2017 I 1570 ist berücksichtigt
 
 
 ## § 1 Geltungsbereich
@@ -40,7 +43,7 @@ Im Sinne dieser Verordnung ist
 
 
 3.  die Ruhepause der Zeitraum, in dem Beamtinnen und Beamte keinen Dienst
-    leisten und sich auch nicht dafür bereithalten müssen,
+    leisten,
 
 
 4.  der Arbeitsplatz grundsätzlich die Dienststelle oder ein von der oder
@@ -94,17 +97,8 @@ Im Sinne dieser Verordnung ist
     längstens einem Monat vorsieht,
 
 
-14. der Wechselschichtdienst der Dienst, für den nach einem Schichtplan
-    der regelmäßige Wechsel der täglichen Arbeitszeit in Wechselschichten
-    (wechselnde Arbeitsschichten, in denen ununterbrochen bei Tag und
-    Nacht, werktags, sonntags und feiertags gearbeitet wird) vorgesehen
-    ist, wenn dabei in je fünf Wochen durchschnittlich mindestens 40
-    Dienststunden in dem dienstplanmäßigen oder betriebsüblichen
-    Nachtdienst zu leisten sind,
-
-
-15. der Nachtdienst ein Dienst, der mehr als zwei Stunden in der Zeit
-    zwischen 21 und 6 Uhr umfasst.
+14. der Nachtdienst ein Dienst, der zwischen 20 Uhr und 6 Uhr zu leisten
+    ist.
 
 
 
@@ -120,12 +114,11 @@ beantragen. Gleiches gilt für Beamtinnen und Beamte,
 1.  die für ein Kind unter zwölf Jahren Kindergeld erhalten,
 
 
-2.  zu deren Haushalt ein Elternteil, eine Ehepartnerin oder ein
-    Ehepartner, eine Lebenspartnerin oder ein Lebenspartner oder ein Kind
-    gehört, bei der oder bei dem Pflegebedürftigkeit nach den
-    Beihilfevorschriften des Bundes, nach § 18 des Elften Buches
-    Sozialgesetzbuch oder durch ein entsprechendes Gutachten festgestellt
-    worden ist.
+2.  zu deren Haushalt ein Elternteil, eine Ehegattin, ein Ehegatte, eine
+    Lebenspartnerin, ein Lebenspartner oder ein Kind gehört, bei dem oder
+    bei der Pflegebedürftigkeit nach der Bundesbeihilfeverordnung, nach §
+    18 des Elften Buches Sozialgesetzbuch oder durch ein entsprechendes
+    Gutachten festgestellt worden ist.
 
 
 
@@ -166,33 +159,44 @@ hierbei 48 Stunden im Siebentageszeitraum nicht überschreiten.
 Die regelmäßige tägliche Arbeitszeit sowie deren Beginn und Ende sind
 festzulegen. Hierbei dürfen 13 Stunden einschließlich der Pausen nicht
 überschritten werden. Bei Teilzeitbeschäftigung ist die regelmäßige
-tägliche Arbeitszeit innerhalb dieser Grenzen individuell festzulegen.
+tägliche Arbeitszeit individuell festzulegen.
 
 
 ## § 5 Ruhepausen und Ruhezeit
 
-(1) Ruhepausen werden außer bei Wechselschichtdienst nicht auf die
-Arbeitszeit angerechnet.
-
-(2) Die Arbeit ist spätestens nach sechs Stunden durch eine Ruhepause
-von mindestens 30 Minuten zu unterbrechen. Nach mehr als neun Stunden
-beträgt die Ruhepause mindestens 45 Minuten. Ruhepausen können in
+(1) Die Arbeit ist spätestens nach 6 Stunden durch eine Ruhepause von
+mindestens 30 Minuten zu unterbrechen. Nach mehr als 9 Stunden beträgt
+die Ruhepause mindestens 45 Minuten. Ruhepausen können in
 Zeitabschnitte von jeweils 15 Minuten aufgeteilt werden.
 
-(3) Pro 24-Stunden-Zeitraum ist eine Mindestruhezeit von elf
-zusammenhängenden Stunden zu gewähren. Pro Siebentageszeitraum ist
-zusätzlich eine zusammenhängende Mindestruhezeit von 24 Stunden zu
-gewähren. Für die Ruhezeit nach Satz 2 gilt ein Bezugszeitraum von 14
-Tagen.
+(2) Ruhepausen werden nicht auf die Arbeitszeit angerechnet, es sei
+denn, dass
 
-(4) Wenn dienstliche Gründe es zwingend erfordern, kann eine Ausnahme
-von Absatz 2 zugelassen und angeordnet werden, dass Beamtinnen und
-Beamte sich in den Pausen zur Dienstleistung bereithalten müssen. Von
-Absatz 3 können Ausnahmen zugelassen werden, wenn dienstliche Belange
-im Sinne des Artikels 17 Abs. 3 Buchstabe c und e sowie Abs. 4 der
-Richtlinie 2003/88/EG des Europäischen Parlaments und des Rates vom 4.
-November 2003 über bestimmte Aspekte der Arbeitszeitgestaltung (ABl.
-EU Nr. L 299 S. 9) dies erfordern.
+1.  die Voraussetzungen des § 17a der Erschwerniszulagenverordnung mit der
+    Maßgabe erfüllt sind, dass im Kalendermonat mindestens 35
+    Nachtdienststunden geleistet werden, oder
+
+
+2.  die zuständige Behörde die Anrechnung bei operativen Tätigkeiten in
+    Einsatzbereichen, in denen die ständige Einsatzfähigkeit gewährleistet
+    werden muss, zum Ausgleich der damit verbundenen Belastungen zulässt.
+
+
+
+Bei Teilzeitbeschäftigung verringern sich die nach Satz 1 Nummer 1
+erforderlichen Nachtdienststunden entsprechend dem Verhältnis zwischen
+der ermäßigten und der regelmäßigen wöchentlichen Arbeitszeit.
+
+(3) Pro 24-Stunden-Zeitraum ist eine Mindestruhezeit von 11
+zusammenhängenden Stunden zu gewähren. Pro 7-Tage-Zeitraum ist
+zusätzlich eine Mindestruhezeit von 24 zusammenhängenden Stunden zu
+gewähren. Für die Ruhezeit nach Satz 2 gilt ein Bezugszeitraum von 14
+Tagen. Von den Regelungen in den Sätzen 1 bis 3 können Ausnahmen
+zugelassen werden, wenn dienstliche Belange im Sinne des Artikels 17
+Absatz 3 Buchstabe c und e sowie Absatz 4 der Richtlinie 2003/88/EG
+des Europäischen Parlaments und des Rates vom 4. November 2003 über
+bestimmte Aspekte der Arbeitszeitgestaltung (ABl. L 299 vom
+18\.11.2003, S. 9) dies erfordern.
 
 
 ## § 6 Dienstfreie Tage
@@ -265,16 +269,16 @@ dürfen nicht für eine Kontrolle oder Bewertung der Leistung oder des
 Verhaltens der Beamtinnen und Beamten verwendet werden.
 
 
-## § 7a Experimentierklausel
+## § 7a Erprobung von Langzeitkonten
 
-(1) Im Bundesministerium für Arbeit und Soziales und in seinem
-Geschäftsbereich sowie im Bundesministerium für Familie, Senioren,
-Frauen und Jugend können Arbeitsbereiche bestimmt werden, die für die
-Erprobung von Langzeitkonten in Betracht kommen. Langzeitkonten sind
-personenbezogene Arbeitszeitkonten, die dem Ansparen von Zeitguthaben
-dienen, die für zusammengefasste Freistellungszeiten verwendet werden
-können. Langzeitkonten werden unabhängig von einer Erfassung der
-dienstlichen Anwesenheit nach § 7 Absatz 7 Satz 1 geführt.
+(1) Die oberste Dienstbehörde kann Dienststellen und Arbeitsbereiche
+bestimmen, die für die Erprobung von Langzeitkonten in Betracht
+kommen; sie unterrichtet das Bundesministerium des Innern über die
+Entscheidung. Langzeitkonten sind personenbezogene Arbeitszeitkonten
+zum Ansparen von Zeitguthaben, die für zusammengefasste
+Freistellungszeiten verwendet werden können. Langzeitkonten werden
+unabhängig von einer Erfassung der dienstlichen Anwesenheit nach § 7
+Absatz 7 Satz 1 geführt.
 
 (2) Für Beamtinnen und Beamte, denen die Führung eines Langzeitkontos
 gestattet worden ist, kann die regelmäßige wöchentliche Arbeitszeit
@@ -312,16 +316,17 @@ und § 4 bleiben unberührt. Satz 1 gilt nicht für
 
 
 
-(4) Zeitguthaben können über einen Zeitraum von bis zu drei Jahren
-angespart werden. Der Zeitausgleich wird durch Freistellung unter
+(4) Zeitguthaben können über einen Zeitraum von bis zu fünf Jahren und
+längstens bis zum 31. Dezember 2020 angespart werden. Das Zeitguthaben
+darf 1 400 Stunden nicht überschreiten.
+
+(5) Der Zeitausgleich wird durch Freistellung vom Dienst unter
 Fortzahlung der Besoldung gewährt. Der Freistellungsantrag kann aus
 dienstlichen Gründen abgelehnt werden. In diesem Fall ist der Beamtin
 oder dem Beamten mitzuteilen, in welchem anderen Zeitraum eine
-Freistellung in dem beantragten Umfang möglich ist.
-
-(5) Zeitguthaben verfallen am 31. Dezember 2016, spätestens jedoch
-drei Jahre vor Erreichen der Antragsaltersgrenze. Hierauf sind die
-Beamtinnen und Beamten im Einzelfall rechtzeitig hinzuweisen.
+Freistellung in dem beantragten Umfang möglich ist. Nach Vollendung
+des 60. Lebensjahres ist der Zeitausgleich nur in Form von Teilzeit
+möglich, wobei Teilzeit im Blockmodell ausgeschlossen ist.
 
 (6) Abweichend von § 7 Absatz 4 Satz 3 können Beamtinnen und Beamte,
 denen die Führung eines Langzeitkontos gestattet worden ist, einen
@@ -381,11 +386,10 @@ Arbeitszeit berücksichtigt, soweit
 
 (2) Bei Teilzeitbeschäftigung wird die Dauer der Dienstreise bis zur
 Länge der regelmäßigen täglichen Arbeitszeit für Vollzeitbeschäftigung
-zugrunde gelegt, falls dies für die Beamtin oder den Beamten günstiger
-ist als die Berücksichtigung der individuellen Regelarbeitszeit. Fällt
-eine Dienstreise bei Teilzeitbeschäftigung auf einen nach dem
-jeweiligen Arbeitszeitmodell dienstfreien Montag bis Freitag, kann
-dieser Tag mit einem anderen Tag zeitnah getauscht werden.
+zugrunde gelegt. Fällt eine Dienstreise bei Teilzeitbeschäftigung auf
+einen nach dem jeweiligen Arbeitszeitmodell dienstfreien Montag bis
+Freitag, kann dieser Tag mit einem anderen Tag zeitnah getauscht
+werden.
 
 (3) Überschreiten bei Dienstreisen, die über die regelmäßige tägliche
 Arbeitszeit hinausgehen, die nicht anrechenbaren Reisezeiten in einem
@@ -418,11 +422,12 @@ Arbeitszeit 48 Stunden im Siebentageszeitraum nicht überschreiten.
 (2) Unter Beachtung der allgemeinen Grundsätze der Sicherheit und des
 Gesundheitsschutzes kann die Arbeitszeit auf bis zu 54 Stunden im
 Siebentageszeitraum verlängert werden, wenn ein dienstliches Bedürfnis
-besteht und sich die Beamtin oder der Beamte hierzu schriftlich bereit
-erklärt. Beamtinnen und Beamten, die sich hierzu nicht bereit
-erklären, dürfen daraus keine Nachteile entstehen. Die Erklärung kann
-mit einer Frist von sechs Monaten widerrufen werden. Die Beamtinnen
-und Beamten sind auf die Widerrufsmöglichkeit schriftlich hinzuweisen.
+besteht und sich die Beamtin oder der Beamte hierzu schriftlich oder
+elektronisch bereit erklärt. Beamtinnen und Beamten, die sich hierzu
+nicht bereit erklären, dürfen daraus keine Nachteile entstehen. Die
+Erklärung kann mit einer Frist von sechs Monaten widerrufen werden.
+Die Beamtinnen und Beamten sind auf die Widerrufsmöglichkeit
+schriftlich oder elektronisch hinzuweisen.
 
 (3) In den Dienstbehörden sind Listen aller Beamtinnen und Beamten zu
 führen, die eine nach Absatz 2 Satz 1 verlängerte Arbeitszeit leisten.

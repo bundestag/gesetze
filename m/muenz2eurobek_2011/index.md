@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 2 Euro (Gedenkmünze „Bayern“)
 jurabk: Münz2EuroBek 2011
 layout: default
-origslug: m_nz2eurobek_2011
+origslug: muenz2eurobek_2011
 slug: muenz2eurobek_2011
 
 ---

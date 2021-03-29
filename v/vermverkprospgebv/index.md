@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1873
 
+V aufgeh. durch
+:   Art. 4 Abs. 49 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 25.5.2012 I 1216
+:   Art. 1 V v. 19.8.2015 I 1433
+
+V aufgeh. durch
+:   Art. 4 Abs. 52 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 52 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 
@@ -38,33 +44,41 @@ Bundesanstalt für Finanzdienstleistungsaufsicht:
 ## § 1 Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für
-Amtshandlungen nach dem Vermögensanlagengesetz und nach den auf dem
-Vermögensanlagengesetz beruhenden Rechtsvorschriften, die
-Verkaufsprospekte für Vermögensanlagen betreffen, Gebühren nach dieser
-Verordnung; Auslagen werden nicht gesondert erhoben. Im Übrigen gilt
-das Verwaltungskostengesetz.
+individuell zurechenbare öffentliche Leistungen nach dem
+Vermögensanlagengesetz und nach den auf dem Vermögensanlagengesetz
+beruhenden Rechtsvorschriften, die Verkaufsprospekte für
+Vermögensanlagen betreffen, Gebühren nach dieser Verordnung; Auslagen
+werden nicht gesondert erhoben. Im Übrigen gilt das
+Bundesgebührengesetz.
 
 
 ## § 2 Gebühren
 
-Die gebührenpflichtigen Amtshandlungen und die Gebührensätze bestimmen
-sich vorbehaltlich der Regelungen in § 3 nach dem anliegenden
-Gebührenverzeichnis.
+Die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebührensätze bestimmen sich vorbehaltlich der
+Regelungen in § 3 nach dem anliegenden Gebührenverzeichnis.
 
 
 ## § 3 Gebührenerhebung in besonderen Fällen
 
-(1) (weggefallen)
+(1) Für die Ablehnung eines Antrags auf Erbringung einer
+gebührenpflichtigen individuell zurechenbaren öffentlichen Leistung
+aus anderen Gründen als wegen Unzuständigkeit oder bei der Rücknahme
+eines Antrags nach Beginn der sachlichen Bearbeitung, jedoch vor deren
+Beendigung, ermäßigt sich die nach dem Gebührenverzeichnis zu dieser
+Verordnung zu erhebende Gebühr um ein Viertel; sie kann bis auf ein
+Viertel der vorgesehenen Gebühr ermäßigt oder es kann von ihrer
+Erhebung abgesehen werden, wenn dies der Billigkeit entspricht.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines
-Widerspruchs wird eine Gebühr bis zur Höhe von 50 Prozent der für die
-angefochtene Amtshandlung festgesetzten Gebühr erhoben; dies gilt
+Widerspruchs wird eine Gebühr bis zur Höhe von 50 Prozent der für den
+angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben; dies gilt
 nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die
 Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des
-Verwaltungsverfahrensgesetzes unbeachtlich ist. War für die
-angefochtene Amtshandlung eine Gebühr nicht vorgesehen oder wurde eine
-Gebühr nicht erhoben, wird eine Gebühr bis zu 1 500 Euro erhoben. Bei
-einem erfolglosen Widerspruch, der sich ausschließlich gegen eine
+Verwaltungsverfahrensgesetzes unbeachtlich ist. War für den
+angefochtenen Verwaltungsakt eine Gebühr nicht vorgesehen oder wurde
+eine Gebühr nicht erhoben, wird eine Gebühr bis zu 1 500 Euro erhoben.
+Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen eine
 Gebührenentscheidung richtet, beträgt die Gebühr bis zu 10 Prozent des
 streitigen Betrags. Wird ein Widerspruch nach Beginn einer sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, ist keine
@@ -78,22 +92,25 @@ den Fällen der Sätze 1 bis 3 mindestens 50 Euro.
 
 ## § 3a Übergangsvorschrift
 
-Auf Amtshandlungen betreffend Verkaufsprospekte, die vor dem 1. Juni
-2012 bei der Bundesanstalt für Finanzdienstleistungsaufsicht zur
-Gestattung ihrer Veröffentlichung nach § 8i Absatz 2 Satz 1 des
-Verkaufsprospektgesetzes in der bis zum 31. Mai 2012 geltenden Fassung
-eingereicht wurden, ist diese Verordnung in ihrer bis zum 31. Mai 2012
-geltenden Fassung weiter anzuwenden.
+Auf individuell zurechenbaren öffentlichen Leistungen betreffend
+Verkaufsprospekte, die vor dem 1. Juni 2012 bei der Bundesanstalt für
+Finanzdienstleistungsaufsicht zur Gestattung ihrer Veröffentlichung
+nach § 8i Absatz 2 Satz 1 des Verkaufsprospektgesetzes in der bis zum
+31\. Mai 2012 geltenden Fassung eingereicht wurden, ist diese
+Verordnung in ihrer bis zum 31. Mai 2012 geltenden Fassung weiter
+anzuwenden.
 
 
 ## § 4 Inkrafttreten
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
+(zu § 2)
 
-## Anlage (zu § 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
-(Fundstelle: BGBl. I 2012, 1216 — 1217)
+(Fundstelle: BGBl. I 2012, 1216 — 1217; bzgl. der einzelnen Änderungen
+vgl. Fußnote)
 
 
 *    *   Nr.
@@ -111,7 +128,7 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
         (§ 8 Absatz 1 Satz 2 und Absatz 3 in Verbindung mit § 14 Absatz 2 Satz
         2 VermAnlG)
 
-    *   6 500
+    *   1 500 bis 15 000
 
 
 *    *   2
@@ -128,7 +145,7 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
     *   Billigung und Aufbewahrung des Nachtrags gemäß § 11 VermAnlG
         (§ 11 Absatz 1 Satz 3 in Verbindung mit § 14 Absatz 2 Satz 2 VermAnlG)
 
-    *   84
+    *   1 185
 
 
 *    *   4
@@ -136,7 +153,7 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
     *   Aufbewahrung des Vermögensanlagen-Informationsblatts
         (§ 14 Absatz 1 Satz 2 in Verbindung mit Absatz 2 Satz 2 VermAnlG)
 
-    *   77
+    *   38
 
 
 *    *   5
@@ -162,7 +179,15 @@ Diese Verordnung tritt am 1. Juli 2005 in Kraft.
         internationalen Finanzkreisen gebräuchlichen Sprache
         (§ 2 Absatz 1 Satz 4 VermVerkProspV)
 
-    *   100.
+    *   100
+
+
+*    *   8
+
+    *   Untersagung von Werbung bei Vorliegen von Missständen
+        (§ 16 Absatz 1 in Verbindung mit § 12 VermAnlG)
+
+    *   2 000
 
 
 

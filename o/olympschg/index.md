@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 479
 
+Geändert durch
+:   Art. 5 Abs. 8 G v. 10.10.2013 I 3799
+
 
 
 ## § 1 Gegenstand des Gesetzes
@@ -150,9 +153,9 @@ Gesetzbuch entsprechende Anwendung.
 
 Rechte Dritter, die auf Grund gesetzlicher Bestimmungen, auf Grund
 vertraglicher Vereinbarungen auf dem Gebiet des Vereins-, Marken-,
-Geschmacksmuster- und Handelsrechts oder auf Grund sonstiger
-vertraglicher Vereinbarungen mit den Rechtsinhabern am 13. August 2003
-bereits bestehen, bleiben unberührt.
+Design- und Handelsrechts oder auf Grund sonstiger vertraglicher
+Vereinbarungen mit den Rechtsinhabern am 13. August 2003 bereits
+bestehen, bleiben unberührt.
 
 
 ## § 9 Sachliche Zuständigkeit

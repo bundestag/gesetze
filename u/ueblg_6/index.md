@@ -2,7 +2,7 @@
 Title: Gesetz zur Überleitung von Bundesrecht nach Berlin (West)
 jurabk: ÜblG 6
 layout: default
-origslug: _blg_6
+origslug: ueblg_6
 slug: ueblg_6
 
 ---
@@ -13,11 +13,12 @@ Ausfertigungsdatum
 :   1990-09-25
 
 Fundstelle
-:   BGBl I: 1990, 2106
+:   BGBl I: 1990, 2106, 2153
 
 Zuletzt geändert durch
 :   Art. 1 V v. 31.10.2006 I 2407
 
+Stand: G in Kraft gem. § 5 iVm Bek. v. 3.10.1990 I 2153 mWv 3.10.1990
 
 ## Eingangsformel
 
@@ -299,9 +300,9 @@ der Rechtsverhältnisse der in einzelnen Verwaltungszweigen des Landes
 Berlin beschäftigten Personen in der im Bundesgesetzblatt Teil III,
 Gliederungsnummer 2030-4, veröffentlichten bereinigten Fassung,
 zuletzt geändert durch Artikel II § 4 des Gesetzes vom 20. Juli 1967
-(BGBl. I S. 725), außer Kraft.              Die durch dieses Gesetz
-erfaßten Rechtsverhältnisse der Beamten, Angestellten und Arbeiter
-sowie die öffentlich-rechtlichen Amtsverhältnisse des Präsidenten und
+(BGBl. I S. 725), außer Kraft. Die durch dieses Gesetz erfaßten
+Rechtsverhältnisse der Beamten, Angestellten und Arbeiter sowie die
+öffentlich-rechtlichen Amtsverhältnisse des Präsidenten und
 Vizepräsidenten der Landespostdirektion Berlin werden mit dem Bund
 fortgesetzt. § 9 Abs. 2 Satz 1 des Finanzverwaltungsgesetzes vom 30.
 August 1971 (BGBl. I S. 1426, 1427), das zuletzt durch Artikel 4 des

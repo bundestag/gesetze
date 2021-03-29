@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung des Luftverkehrsgesetzes
 jurabk: LuftVGÄndG
 layout: default
-origslug: luftvg_ndg
+origslug: luftvgaendg
 slug: luftvgaendg
 
 ---

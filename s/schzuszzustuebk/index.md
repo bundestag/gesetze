@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über die
   Zuständigkeit bei Schiffszusammenstößen
 jurabk: SchZusZZustÜbk
 layout: default
-origslug: schzuszzust_bk
+origslug: schzuszzustuebk
 slug: schzuszzustuebk
 
 ---

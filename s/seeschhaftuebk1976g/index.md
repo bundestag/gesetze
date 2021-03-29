@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen von 1976 über die Beschränkung der Haftung
   Seeforderungen
 jurabk: SeeSchHaftÜbk1976G
 layout: default
-origslug: seeschhaft_bk1976g
+origslug: seeschhaftuebk1976g
 slug: seeschhaftuebk1976g
 
 ---

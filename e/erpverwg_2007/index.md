@@ -15,11 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1160
 
+Geändert durch
+:   Art. 246 V v. 31.8.2015 I 1474
+
 
 
 ## § 1 Verwalter des Sondervermögens
 
-Das Bundesministerium für Wirtschaft und Technologie verwaltet die in
+Das Bundesministerium für Wirtschaft und Energie verwaltet die in
 Artikel III des Gesetzes vom 31. Januar 1950 betreffend das Abkommen
 über Wirtschaftliche Zusammenarbeit zwischen den Vereinigten Staaten
 von Amerika und der Bundesrepublik Deutschland vom 15. Dezember 1949
@@ -67,8 +70,8 @@ Kreditanstalt für Wiederaufbau als befristetes Nachrangdarlehen
 gewährt werden. Der Bestimmungszweck des Sondervermögens bleibt auch
 in Form der Förderrücklage und eines Nachrangdarlehens und der hierauf
 entfallenden Erträge erhalten; hierüber legt die Kreditanstalt für
-Wiederaufbau dem Bundesministerium für Wirtschaft und Technologie
-einen jährlichen Bericht vor.
+Wiederaufbau dem Bundesministerium für Wirtschaft und Energie einen
+jährlichen Bericht vor.
 
 (2) Über das in die Kreditanstalt für Wiederaufbau als Eigenkapital
 einzubringende und das als Nachrangdarlehen gewährte Vermögen wird
@@ -128,15 +131,15 @@ Sondervermögen nicht aufnehmen.
 (1) Über die für das jeweils folgende Rechnungsjahr (1. Januar bis 31.
 Dezember eines Jahres) geplante Wirtschaftsförderung des
 Sondervermögens stellt das Bundesministerium für Wirtschaft und
-Technologie im Einvernehmen mit dem Bundesministerium der Finanzen
-einen Wirtschaftsplan auf. Dieser enthält die für die
-Wirtschaftsförderung des Sondervermögens vorgesehenen Fördermaßnahmen
-und Programme sowie die dafür einzusetzenden Mittel. Darüber hinaus
-werden die voraussichtlichen zukünftigen Risiken und Belastungen
-ausgewiesen. Der Wirtschaftsplan ist in Einnahmen und Ausgaben
-auszugleichen. In den Wirtschaftsplan ist außerdem der Bericht der
-Kreditanstalt für Wiederaufbau über die Verwendung des eingebrachten
-Eigenkapitals und des gewährten Nachrangdarlehens aufzunehmen.
+Energie im Einvernehmen mit dem Bundesministerium der Finanzen einen
+Wirtschaftsplan auf. Dieser enthält die für die Wirtschaftsförderung
+des Sondervermögens vorgesehenen Fördermaßnahmen und Programme sowie
+die dafür einzusetzenden Mittel. Darüber hinaus werden die
+voraussichtlichen zukünftigen Risiken und Belastungen ausgewiesen. Der
+Wirtschaftsplan ist in Einnahmen und Ausgaben auszugleichen. In den
+Wirtschaftsplan ist außerdem der Bericht der Kreditanstalt für
+Wiederaufbau über die Verwendung des eingebrachten Eigenkapitals und
+des gewährten Nachrangdarlehens aufzunehmen.
 
 (2) Der Wirtschaftsplan wird vor Beginn des Rechnungsjahres durch
 Gesetz festgestellt. Liegt das Wirtschaftsplangesetz zum Beginn des
@@ -157,14 +160,13 @@ aufgekommenen Einnahmen nicht verwendet sind.
 ## § 9 Durchführung der Wirtschaftsförderung
 
 (1) Der Wirtschaftsplan wird durch das Bundesministerium für
-Wirtschaft und Technologie und die Kreditanstalt für Wiederaufbau nach
-den Regelungen des nach § 6 Abs. 2 geschlossenen Vertrages umgesetzt.
+Wirtschaft und Energie und die Kreditanstalt für Wiederaufbau nach den
+Regelungen des nach § 6 Abs. 2 geschlossenen Vertrages umgesetzt.
 
 (2) Über Vertragsaufhebungen und -änderungen sowie über Stundungen,
 Niederschlagungen und Erlasse von Ansprüchen werden das
-Bundesministerium für Wirtschaft und Technologie und das
-Bundesministerium der Finanzen die erforderliche Rahmenvereinbarung
-treffen.
+Bundesministerium für Wirtschaft und Energie und das Bundesministerium
+der Finanzen die erforderliche Rahmenvereinbarung treffen.
 
 (3) Verträge, durch die die Verpflichtung übernommen werden soll, über
 ein Rechnungsjahr hinaus Leistungen aus dem Sondervermögen zu
@@ -173,7 +175,7 @@ erstmals Ausgabemittel hierfür im Wirtschaftsplan vorgesehen sind oder
 die Einwilligung durch das Bundesministerium der Finanzen erteilt
 worden ist.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie wird dem
+(4) Das Bundesministerium für Wirtschaft und Energie wird dem
 Deutschen Bundestag nach Abschluss des Förderjahres über die Umsetzung
 des Wirtschaftsplans berichten.
 
@@ -186,15 +188,14 @@ Sondervermögen, soweit sie nicht vom Bund getragen werden.
 
 ## § 11 Jahresabschluss
 
-(1) Das Bundesministerium für Wirtschaft und Technologie stellt am
-Schluss eines jeden Rechnungsjahres die Jahresrechnung für das
-Sondervermögen auf.
+(1) Das Bundesministerium für Wirtschaft und Energie stellt am Schluss
+eines jeden Rechnungsjahres die Jahresrechnung für das Sondervermögen
+auf.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie erstellt
-außerdem zum 31. Dezember eines jeden Jahres einen Jahresabschluss
-(Bilanz, Gewinn- und Verlustrechnung). Der Jahresabschluss ist im
-Rahmen des jährlichen Gesetzes über den Wirtschaftsplan zu
-veröffentlichen.
+(2) Das Bundesministerium für Wirtschaft und Energie erstellt außerdem
+zum 31. Dezember eines jeden Jahres einen Jahresabschluss (Bilanz,
+Gewinn- und Verlustrechnung). Der Jahresabschluss ist im Rahmen des
+jährlichen Gesetzes über den Wirtschaftsplan zu veröffentlichen.
 
 (3) Die Prüfungsrechte des Bundesrechnungshofs bleiben unberührt.
 

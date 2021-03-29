@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 2061
 
 Zuletzt geändert durch
-:   Art. 54 G v. 6.12.2011 I 2515
+:   Art. 19 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -96,85 +96,106 @@ des Ausbildungsstandes im Sinne des Satzes 1 wird anerkannt, wenn
 
 
 
-Absatz 3 Satz 5 Nummer 1 bis 4 gilt entsprechend. Ist die
-Gleichwertigkeit des Ausbildungsstandes nach den Sätzen 1 bis 3 nicht
-gegeben oder ist eine Prüfung der Gleichwertigkeit des
-Ausbildungsstandes nur mit unangemessenem zeitlichen oder sachlichen
-Aufwand möglich, weil die erforderlichen Unterlagen und Nachweise aus
-Gründen, die nicht in der Person der Antragsteller liegen, von diesen
-nicht vorgelegt werden können, ist ein gleichwertiger Kenntnisstand
-nachzuweisen.Dieser Nachweis wird durch eine Kenntnisprüfung, die sich
-auf den Inhalt der staatlichen Abschlussprüfung erstreckt, oder einen
-höchstens dreijährigen Anpassungslehrgang erbracht, der mit einer
-Prüfung über den Inhalt des Anpassungslehrgangs abschließt. Die
-Antragsteller haben das Recht, zwischen der Kenntnisprüfung und dem
-Anpassungslehrgang zu wählen.
+Absatz 3 Satz 5 bis 7 gilt entsprechend. Ist die Gleichwertigkeit des
+Ausbildungsstandes nach den Sätzen 1 bis 3 nicht gegeben oder ist eine
+Prüfung der Gleichwertigkeit des Ausbildungsstandes nur mit
+unangemessenem zeitlichen oder sachlichen Aufwand möglich, weil die
+erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der
+Person der Antragsteller liegen, von diesen nicht vorgelegt werden
+können, ist ein gleichwertiger Kenntnisstand nachzuweisen. Dieser
+Nachweis wird durch eine Kenntnisprüfung, die sich auf den Inhalt der
+staatlichen Abschlussprüfung erstreckt, oder einen höchstens
+dreijährigen Anpassungslehrgang erbracht, der mit einer Prüfung über
+den Inhalt des Anpassungslehrgangs abschließt. Die Antragsteller haben
+das Recht, zwischen der Kenntnisprüfung und dem Anpassungslehrgang zu
+wählen.
 
 (3) Für Antragsteller, die eine Erlaubnis nach § 1 Abs. 1 anstreben,
 gilt die Voraussetzung des Absatzes 1 Nr. 1 als erfüllt, wenn aus
-einem in einem anderen Vertragsstaat des Europäischen
-Wirtschaftsraumes erworbenen Diplom hervorgeht, dass der Inhaber eine
-Ausbildung erworben hat, die in diesem Staat für den unmittelbaren
-Zugang zu einem dem Beruf des Orthoptisten entsprechenden Beruf
-erforderlich ist. Diplome im Sinne dieses Gesetzes sind
-Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie
-2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
-2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255
-S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung, die dem
-in Artikel 11 Buchstabe c oder Buchstabe d der Richtlinie genannten
-Niveau entsprechen. Satz 2 gilt auch für einen Ausbildungsnachweis
-oder eine Gesamtheit von Ausbildungsnachweisen, die von einer
-zuständigen Behörde in einem Mitgliedstaat ausgestellt wurden, sofern
-sie eine in der Gemeinschaft erworbene abgeschlossene Ausbildung
-bescheinigen, von diesem Mitgliedstaat als gleichwertig anerkannt
-wurden und in Bezug auf die Aufnahme oder Ausübung des Berufs des
-Orthoptisten dieselben Rechte verleihen oder auf die Ausübung des
-Berufs des Orthoptisten vorbereiten. Satz 2 gilt ferner für
-Berufsqualifikationen, die zwar nicht den Erfordernissen der Rechts-
-oder Verwaltungsvorschriften des Herkunftsmitgliedstaats für die
-Aufnahme oder Ausübung des Berufs des Orthoptisten entsprechen, ihrem
-Inhaber jedoch nach dem Recht des Herkunftsmitgliedstaats erworbene
-Rechte nach den dort maßgeblichen Vorschriften verleihen.
-Antragsteller mit einem Ausbildungsnachweis aus einem Vertragsstaat
-des Europäischen Wirtschaftsraumes haben einen höchstens dreijährigen
-Anpassungslehrgang zu absolvieren oder eine Eignungsprüfung abzulegen,
-wenn
+einem Europäischen Berufsausweis oder aus einem in einem anderen
+Vertragsstaat des Europäischen Wirtschaftsraumes erworbenen Diplom
+hervorgeht, dass der Inhaber eine Ausbildung erworben hat, die in
+diesem Staat für den unmittelbaren Zugang zu einem dem Beruf des
+Orthoptisten entsprechenden Beruf erforderlich ist. Diplome im Sinne
+dieses Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Abs. 1
+Buchstabe c der Richtlinie 2005/36/EG des Europäischen Parlaments und
+des Rates vom 7. September 2005 über die Anerkennung von
+Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007 Nr. L 271 S. 18)
+in der jeweils geltenden Fassung, die mindestens dem in Artikel 11
+Buchstabe b der Richtlinie 2005/36/EG genannten Niveau entsprechen und
+denen eine Bescheinigung des Herkunftsmitgliedstaats über das
+Ausbildungsniveau beigefügt ist. Satz 2 gilt auch für einen
+Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen,
+die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt
+wurden, sofern sie den erfolgreichen Abschluss einer in der Union auf
+Voll- oder Teilzeitbasis im Rahmen formaler oder nichtformaler
+Ausbildungsprogramme erworbenen Ausbildung bescheinigen, von diesem
+Mitgliedstaat als gleichwertig anerkannt wurden und in Bezug auf die
+Aufnahme oder Ausübung des Berufs des Orthoptisten dieselben Rechte
+verleihen oder auf die Ausübung des Berufs des Orthoptisten
+vorbereiten. Satz 2 gilt ferner für Berufsqualifikationen, die zwar
+nicht den Erfordernissen der Rechts- oder Verwaltungsvorschriften des
+Herkunftsmitgliedstaats für die Aufnahme oder Ausübung des Berufs des
+Orthoptisten entsprechen, ihrem Inhaber jedoch nach dem Recht des
+Herkunftsmitgliedstaats erworbene Rechte nach den dort maßgeblichen
+Vorschriften verleihen. Antragsteller mit einem Ausbildungsnachweis
+aus einem Vertragsstaat des Europäischen Wirtschaftsraums haben einen
+höchstens dreijährigen Anpassungslehrgang zu absolvieren oder eine
+Eignungsprüfung abzulegen, wenn
 
-1.  ihre nachgewiesene Ausbildungsdauer mindestens ein Jahr unter der in
-    diesem Gesetz geregelten Ausbildungsdauer liegt,
+1.  die Ausbildung des Antragstellers hinsichtlich der beruflichen
+    Tätigkeit Fächer oder Bereiche der praktischen Ausbildung umfasst, die
+    sich wesentlich von denen unterscheiden, die nach diesem Gesetz und
+    nach der Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und
+    Orthoptisten vorgeschrieben sind, oder
 
 
-2.  ihre Ausbildung sich auf Fächer bezieht, die sich wesentlich von denen
-    unterscheiden, die durch die Ausbildung nach diesem Gesetz und der
+2.  der Beruf des Orthoptisten eine oder mehrere reglementierte
+    Tätigkeiten umfasst, die im Herkunftsstaat des Antragstellers nicht
+    Bestandteil des Berufs sind, der dem des Orthoptisten entspricht, und
+    wenn sich die Ausbildung für diese Tätigkeiten auf Fächer oder
+    Bereiche der praktischen Ausbildung nach diesem Gesetz und nach der
     Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und
-    Orthoptisten vorgeschrieben sind,
-
-
-3.  der Beruf des Orthoptisten eine oder mehrere reglementierte
-    Tätigkeiten umfasst, die im Herkunftsmitgliedstaat des Antragstellers
-    nicht Bestandteil des dem Orthoptisten entsprechenden Berufs sind, und
-    wenn dieser Unterschied in einer besonderen Ausbildung besteht, die
-    nach diesem Gesetz und der Ausbildungs- und Prüfungsverordnung für
-    Orthoptistinnen und Orthoptisten gefordert wird und sich auf Fächer
-    bezieht, die sich wesentlich von denen unterscheiden, die von dem
-    Ausbildungsnachweis abgedeckt werden, den der Antragsteller vorlegt,
-    oder
-
-
-4.  ihr Ausbildungsnachweis lediglich eine Ausbildung auf dem in Artikel
-    11 Buchstabe b der Richtlinie genannten Niveau bescheinigt und
+    Orthoptisten bezieht, die sich wesentlich von denen unterscheiden, die
+    von der Ausbildung des Antragstellers abgedeckt sind.
 
 
 
-ihre nachgewiesene Berufserfahrung, unabhängig davon, in welchem Staat
-diese erworben wurde, nicht zum vollständigen oder teilweisen
-Ausgleich der unter den Nummern 1 bis 4 genannten Unterschiede
-geeignet ist. Die Antragsteller haben das Recht, zwischen dem
-Anpassungslehrgang und der Eignungsprüfung zu wählen.
+Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich
+wesentlich, wenn die nachgewiesene Ausbildung des Antragstellers
+wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse und
+Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die
+Ausübung des Orthoptistenberufs in Deutschland sind. Wesentliche
+Unterschiede können ganz oder teilweise durch Kenntnisse und
+Fähigkeiten ausgeglichen werden, die der Antragsteller im Rahmen
+seiner tatsächlichen und rechtmäßigen Ausübung des Orthoptistenberufs
+in Voll- oder Teilzeit oder durch lebenslanges Lernen erworben hat,
+sofern die durch lebenslanges Lernen erworbenen Kenntnisse und
+Fähigkeiten von einer dafür in dem jeweiligen Staat zuständigen Stelle
+formell als gültig anerkannt wurden; dabei ist nicht entscheidend, in
+welchem Staat diese Kenntnisse und Fähigkeiten erworben worden sind.
+Die Antragsteller haben das Recht, zwischen dem Anpassungslehrgang und
+der Eignungsprüfung zu wählen. Die Regelungen dieses Absatzes gelten
+entsprechend für den Fall der Einführung eines Europäischen
+Berufsausweises für den Beruf des Orthoptisten.
 
-(4) Die Absätze 2 bis 3 gelten entsprechend für Drittstaatdiplome, für
-deren Anerkennung sich nach dem Recht der Europäischen Gemeinschaften
-eine Gleichstellung ergibt.
+(3a) Für Antragsteller, die über einen Ausbildungsnachweis verfügen,
+der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten
+Niveau entspricht, gilt Absatz 3 Satz 5 bis 7 und 9 mit der Maßgabe,
+dass die erforderliche Ausgleichsmaßnahme abweichend von Absatz 3 Satz
+8 aus einer Eignungsprüfung besteht.
+
+(3b) Wird die Voraussetzung des Absatzes 1 Nummer 1 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der
+Berufsqualifikation nach den Absätzen 2, 3 oder 3a vor den
+Voraussetzungen nach Absatz 1 Nummer 2 bis 4 geprüft werden. Auf
+Antrag ist dem Antragsteller ein gesonderter Bescheid über die
+Feststellung seiner Berufsqualifikation zu erteilen.
+
+(4) Die Absätze 3 und 3a gelten entsprechend für Drittstaatdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen
+Gemeinschaften eine Gleichstellung ergibt.
 
 (5) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -222,6 +243,104 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
+
+
+### § 2b
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1 Absatz 1, die
+    sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  den Verzicht auf die Erlaubnis,
+
+
+3.  das Verbot der Ausübung des Berufs des Orthoptisten durch
+    unanfechtbare gerichtliche Entscheidung oder
+
+
+4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## II. Abschnitt - Ausbildung
@@ -303,12 +422,13 @@ nachzuweisen ist.
 
 (2) In der Rechtsverordnung nach Absatz 1 ist für Inhaber von
 Ausbildungsnachweisen, die eine Erlaubnis nach § 2 Abs. 1 in
-Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
+Verbindung mit § 2 Absatz 2, 3, 3a oder Absatz 4 beantragen, zu
+regeln:
 
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 2
     und 3, insbesondere die Vorlage der vom Antragsteller vorzulegenden
     Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
-    Artikel 50 Abs. 1 bis 3 in Verbindung mit Anhang VII der Richtlinie
+    Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
     2005/36/EG,
 
 
@@ -326,7 +446,10 @@ Verbindung mit § 2 Abs. 3 oder 4 beantragen, zu regeln:
 
 
 5.  die Regelungen zu Durchführung und Inhalt der Anpassungsmaßnahmen nach
-    § 2 Absatz 2 Satz 5.
+    § 2 Absatz 2 Satz 5 und Absatz 3 Satz 5,
+
+
+6.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 
 
@@ -350,7 +473,7 @@ entsprechenden Ausbildungsnachweises berechtigt sind und
 
 2.  wenn der Beruf des Orthoptisten oder die Ausbildung zu diesem Beruf im
     Niederlassungsmitgliedstaat nicht reglementiert ist, diesen Beruf
-    während der vorhergehenden zehn Jahre mindestens zwei Jahre im
+    während der vorhergehenden zehn Jahre mindestens ein Jahr im
     Niederlassungsmitgliedstaat rechtmäßig ausgeübt haben,
 
 
@@ -377,7 +500,8 @@ dieses Gesetzes zu erbringen.
 (3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im
 Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten
 Dokumenten bescheinigten Situation hat der Dienstleistungserbringer
-folgende Bescheinigungen vorzulegen:
+folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung
+nach Nummer 4 vorzulegen:
 
 1.  Staatsangehörigkeitsnachweis,
 
@@ -389,27 +513,36 @@ folgende Bescheinigungen vorzulegen:
     Orthoptisten in einem anderen Mitgliedstaat, die sich auch darauf
     erstreckt, dass dem Dienstleister die Ausübung seiner Tätigkeit zum
     Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
-    vorübergehend, untersagt ist, oder im Falle des Absatzes 1 Satz 1 Nr.
-    2 ein Nachweis in beliebiger Form darüber, dass der Dienstleister eine
-    dem Beruf des Orthoptisten entsprechende Tätigkeit während der
-    vorhergehenden zehn Jahre mindestens zwei Jahre lang rechtmäßig
-    ausgeübt hat.
+    vorübergehend, untersagt ist und keine Vorstrafen vorliegen, oder im
+    Fall des Absatzes 1 Satz 1 Nummer 2 einen Nachweis in beliebiger Form
+    darüber, dass der Dienstleister eine dem Beruf des Orthoptisten
+    entsprechende Tätigkeit während der vorhergehenden zehn Jahre
+    mindestens ein Jahr lang rechtmäßig ausgeübt hat, und
+
+
+4.  eine Erklärung des Dienstleisters, dass er über die zur Erbringung der
+    Dienstleistung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt.
 
 
 
 Die für die Ausübung der Dienstleistung erforderlichen Kenntnisse der
 deutschen Sprache müssen vorliegen. Die zuständige Behörde prüft im
 Falle der erstmaligen Dienstleistungserbringung den
-Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Abs. 3 gilt
-entsprechend mit der Maßgabe, dass für wesentliche Unterschiede
-zwischen der beruflichen Qualifikation des Dienstleistungserbringers
-und der nach diesem Gesetz und der Ausbildungs- und Prüfungsverordnung
-für Orthoptistinnen und Orthoptisten geforderten Ausbildung
-Ausgleichsmaßnahmen nur gefordert werden dürfen, wenn die Unterschiede
-so groß sind, dass ohne den Nachweis der fehlenden Kenntnisse und
-Fähigkeiten die öffentliche Gesundheit gefährdet wäre. Der Ausgleich
-der fehlenden Kenntnisse und Fähigkeiten soll in Form einer
-Eignungsprüfung erfolgen.
+Berufsqualifikationsnachweis gemäß Satz 1 Nr. 2 nach. § 2 Absatz 3 und
+3a gilt entsprechend mit der Maßgabe, dass für wesentliche
+Unterschiede zwischen der beruflichen Qualifikation des
+Dienstleistungserbringers und der nach diesem Gesetz und der
+Ausbildungs- und Prüfungsverordnung für Orthoptistinnen und
+Orthoptisten geforderten Ausbildung Ausgleichsmaßnahmen nur gefordert
+werden dürfen, wenn die Unterschiede so groß sind, dass ohne den
+Nachweis der fehlenden Kenntnisse und Fähigkeiten die öffentliche
+Gesundheit gefährdet wäre. Soweit dies für die Beurteilung der Frage,
+ob wesentliche Unterschiede vorliegen, erforderlich ist, kann die
+zuständige Behörde bei der zuständigen Behörde des
+Niederlassungsmitgliedstaats Informationen über die Ausbildungsgänge
+des Dienstleisters anfordern. Der Ausgleich der fehlenden Kenntnisse
+und Fähigkeiten erfolgt durch eine Eignungsprüfung.
 
 (4) Staatsangehörigen eines Vertragsstaates des Europäischen
 Wirtschaftsraumes, die im Geltungsbereich dieses Gesetzes den Beruf
@@ -433,18 +566,19 @@ Bescheinigungen darüber auszustellen, dass
 
 ### § 8b
 
-Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf
-Anforderung der zuständigen Behörden eines Vertragsstaates des
-Europäischen Wirtschaftsraumes haben die zuständigen Behörden in
-Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
-Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
-und die gute Führung des Dienstleisters sowie Informationen darüber,
-dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
-Sanktionen vorliegen, zu übermitteln.
+Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
+berechtigt, für jede Dienstleistungserbringung von den zuständigen
+Behörden des Niederlassungsmitgliedstaats Informationen über die
+Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen. Auf Anforderung der zuständigen Behörden eines
+Vertragsstaates des Europäischen Wirtschaftsraumes haben die
+zuständigen Behörden in Deutschland nach Artikel 56 der Richtlinie
+2005/36/EG der anfordernden Behörde alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
+übermitteln.
 
 
 ### § 8c

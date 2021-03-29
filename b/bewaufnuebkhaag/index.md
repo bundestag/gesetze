@@ -2,7 +2,7 @@
 Title: Haager Übereinkommen über die Beweisaufnahme im Ausland in Zivil- oder Handelssachen
 jurabk: BewAufnÜbkHaag
 layout: default
-origslug: bewaufn_bkhaag
+origslug: bewaufnuebkhaag
 slug: bewaufnuebkhaag
 
 ---

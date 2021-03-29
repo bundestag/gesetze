@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 19. Juni 1980 über das auf vertragliche
   anzuwendende Recht
 jurabk: EuVtrÜbkG
 layout: default
-origslug: euvtr_bkg
+origslug: euvtruebkg
 slug: euvtruebkg
 
 ---

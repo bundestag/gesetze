@@ -2,7 +2,7 @@
 Title: Erste Verordnung zur Änderung der Arbeitszeitverordnung
 jurabk: AZVÄndV 1
 layout: default
-origslug: azv_ndv_1
+origslug: azvaendv_1
 slug: azvaendv_1
 
 ---

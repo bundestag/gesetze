@@ -4,7 +4,7 @@ Title: Verbalnote zum Vertrag zwischen der Bundesrepublik Deutschland und der Ts
   Autobahn D 5 an der gemeinsamen Staatsgrenze durch Errichtung einer Grenzbrücke
 jurabk: ABZusGrBrückVtrCESNotw
 layout: default
-origslug: abzusgrbr_ckvtrcesnotw
+origslug: abzusgrbrueckvtrcesnotw
 slug: abzusgrbrueckvtrcesnotw
 
 ---

@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 1993, Nr 185, 9285
 
+V aufgeh. durch
+:   Art. 4 Abs. 136 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 26.5.2003 BAnz. 2003 Nr. 100, 11853
+:   Art. 72 V v. 2.6.2016 I 1257
+
+V aufgeh. durch
+:   Art. 4 Abs. 143 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -31,8 +37,8 @@ Bundesministerium der Finanzen und nach Anhörung der Küstenländer:
 
 Für Wasserfahrzeuge, die den Nord-Ostsee-Kanal befahren, sind
 Befahrungsabgaben nach der Anlage zu dieser Verordnung zu entrichten.
-Die Befahrungsabgaben werden von der Wasser- und Schiffahrtsdirektion
-Nord erhoben und eingezogen.
+Die Befahrungsabgaben werden von der Generaldirektion Wasserstraßen
+und Schifffahrt erhoben und eingezogen.
 
 
 ## § 2
@@ -108,9 +114,10 @@ Verfahren sich auf andere Weise erledigt hat.
 
 
 4.  bei anderen Fahrzeugen, die nicht vermessen und nicht geeicht sind,
-    die von einem von der Wasser- und Schiffahrtsdirektion Nord bestimmten
-    Sachverständigen geschätzte Bruttoraumzahl; die Kosten der Schätzung
-    hat der zur Zahlung der Befahrungsabgaben Verpflichtete zu tragen;
+    die von einem von der Generaldirektion Wasserstraßen und Schifffahrt
+    bestimmten Sachverständigen geschätzte Bruttoraumzahl; die Kosten der
+    Schätzung hat der zur Zahlung der Befahrungsabgaben Verpflichtete zu
+    tragen;
 
 
 5.  bei Schlepp- und Schubverbänden die Summe der nach den Nummern 1 bis 4
@@ -125,31 +132,32 @@ Verfahren sich auf andere Weise erledigt hat.
 (2) Eine nicht auf volle Euro errechnete Befahrungsabgabe wird auf den
 nächstliegenden Euro auf- oder abgerundet; 0,50 Euro werden
 aufgerundet. Für die Abwicklung des bargeldlosen Zahlungsverkehrs kann
-die Wasser- und Schifffahrtsdirektion Nord eine Verwaltungsgebühr in
-Höhe der dadurch entstandenen Kosten erheben.
+die Generaldirektion Wasserstraßen und Schifffahrt eine
+Verwaltungsgebühr in Höhe der dadurch entstandenen Kosten erheben.
 
 
 ## § 6
 
 (1) Von der Zahlung der Befahrungsabgaben sind befreit:
 
-1.  Dienstfahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes sowie
-    Fahrzeuge der Deutschen Gesellschaft zur Rettung Schiffbrüchiger;
+1.  Dienstfahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des
+    Bundes sowie Fahrzeuge der Deutschen Gesellschaft zur Rettung
+    Schiffbrüchiger;
 
 
 2.  Dienstfahrzeuge des Bundes und des Landes Schleswig-Holstein, die für
     den Nord-Ostsee-Kanal dienstliche Aufgaben zu erfüllen haben;
 
 
-3.  Fahrzeuge von Unternehmen, die im Auftrag der Wasser- und
-    Schiffahrtsverwaltung des Bundes am Kanal tätig sind.
+3.  Fahrzeuge von Unternehmen, die im Auftrag der Wasserstraßen- und
+    Schifffahrtsverwaltung des Bundes am Kanal tätig sind.
 
 
 
 
-(2) Weitere Befreiungen und Ermäßigungen kann die Wasser- und
-Schiffahrtsdirektion Nord im Einzelfall zulassen, wenn das öffentliche
-Interesse es erfordert.
+(2) Weitere Befreiungen und Ermäßigungen kann die Generaldirektion
+Wasserstraßen und Schifffahrt im Einzelfall zulassen, wenn das
+öffentliche Interesse es erfordert.
 
 
 ## § 7
@@ -169,8 +177,8 @@ der Anmeldestelle bescheinigen zu lassen.
 
 (3) Abweichend von Absatz 2 kann bei Vorliegen der Voraussetzungen auf
 Antrag die Ermäßigung auch nach Ablauf des Kalenderjahres erfolgen.
-Der Antrag ist bis zum 31. März des folgenden Jahres bei der Wasser-
-und Schiffahrtsdirektion Nord zu stellen.
+Der Antrag ist bis zum 31. März des folgenden Jahres bei der
+Generaldirektion Wasserstraßen und Schifffahrt zu stellen.
 
 
 ## § 8
@@ -1719,37 +1727,43 @@ Fundstelle des Originaltextes: BAnz. 2003 Nr. 100, 11854
 
     *
 
-*    *   bis 10 m
+*    *
+    *   bis 10 m
 
     *   12,--
 
     *
 
-*    *   über 10 m bis 12 m
+*    *
+    *   über 10 m bis 12 m
 
     *   18,--
 
     *
 
-*    *   über 12 m bis 16 m
+*    *
+    *   über 12 m bis 16 m
 
     *   35,--
 
     *
 
-*    *   über 16 m bis 20 m
+*    *
+    *   über 16 m bis 20 m
 
     *   41,--
 
     *
 
-*    *   über 20 m
+*    *
+    *   über 20 m
 
     *   43,--
 
     *
 
-*    *   für jeden weiteren angefangenen Meter Länge zusätzlich
+*    *
+    *   für jeden weiteren angefangenen Meter Länge zusätzlich
 
     *   1,--
 

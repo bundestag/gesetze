@@ -84,14 +84,14 @@ I  Zollamtlich abgefertigt am ............  I
 I                                           I
 I  für ...................................  I
 I
-(Firmenname und Geschäftssitz)                      I
+(Firmenname und Geschäftssitz)       I
 I                                           I
 I  abgefertigte Menge: ...................  I
 I  .......................................  I
 I                                           I
 I  .......................................  I
 I
-(Unterschrift und Dienstbezeichnung)                    I
+(Unterschrift und Dienstbezeichnung)     I
 I                                           I
 ---------------------------------------------
 ---------

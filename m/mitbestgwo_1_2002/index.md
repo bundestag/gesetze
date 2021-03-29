@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 1682
 
-Geändert durch
-:   Art. 1 V v. 10.10.2005 I 2927
+Zuletzt geändert durch
+:   Art. 2 V v. 26.8.2015 I 1443
 
 
 ## Eingangsformel
@@ -71,7 +71,21 @@ Bekanntmachung ist ferner anzugeben:
 2.  die Zahl der zu wählenden Aufsichtsratsmitglieder der Arbeitnehmer;
 
 
-3.  die Zahl der in dem Unternehmen in der Regel beschäftigten
+3.  bei einem börsennotierten Unternehmen der Anteil, mit dem Frauen und
+    Männer nach § 96 Absatz 2 Satz 1 des Aktiengesetzes jeweils mindestens
+    im Aufsichtsrat vertreten sein müssen;
+
+
+4.  bei einem börsennotierten Unternehmen, ob der Geschlechteranteil nach
+    § 96 Absatz 2 Satz 1 des Aktiengesetzes gemäß § 96 Absatz 2 Satz 2 des
+    Aktiengesetzes vom Aufsichtsrat insgesamt zu erfüllen ist
+    (Gesamterfüllung) oder ob der Gesamterfüllung nach § 96 Absatz 2 Satz
+    3 des Aktiengesetzes widersprochen wurde, mit der Folge, dass der
+    Geschlechteranteil für diese Wahl von der Anteilseignerseite und der
+    Seite der Arbeitnehmer getrennt zu erfüllen ist (Getrennterfüllung);
+
+
+5.  die Zahl der in dem Unternehmen in der Regel beschäftigten
     Arbeitnehmerinnen und Arbeitnehmer.
 
 
@@ -610,21 +624,8 @@ der Stimmzettel zur Stimmauszählung hat sich der Betriebswahlvorstand
 davon zu überzeugen, dass der Verschluss unversehrt ist.
 
 
-##### § 17 Einsatz von Wahlgeräten
+##### § 17 (weggefallen)
 
-(1) Für die Abgabe und Zählung der Stimmen können an Stelle von
-Stimmzetteln und Wahlurnen Wahlgeräte eingesetzt werden. § 16 gilt
-entsprechend. Die Wahlgeräte müssen auf Grund einer Prüfung nach § 2
-Abs. 2 und 3 der Bundeswahlgeräteverordnung für die Abstimmungen und
-Wahlen geeignet sein, für die sie eingesetzt werden, und den
-Richtlinien für die Bauart von Wahlgeräten entsprechen, soweit diese
-nicht besondere Regelungen für Bundeswahlen enthalten. Jedem Wahlgerät
-muss eine Bedienungsanleitung und eine Baugleichheitserklärung
-entsprechend § 2 Abs. 6 der Bundeswahlgeräteverordnung beigefügt sein.
-
-(2) Der Einsatz von Wahlgeräten ist nur zulässig, wenn hierüber
-Einvernehmen zwischen dem Betriebswahlvorstand und der
-Unternehmensleitung erzielt worden ist.
 
 
 ##### § 18 Voraussetzungen der schriftlichen Stimmabgabe
@@ -734,10 +735,7 @@ Befindet sich ein Wahlumschlag mit mehreren gekennzeichneten
 Stimmzetteln in der Wahlurne, werden die Stimmen einfach gezählt, wenn
 sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
-(4) Beim Einsatz von Wahlgeräten stellt der Betriebswahlvorstand durch
-Ablesen der Zählwerke die Zahl der für den Antrag und die Zahl der
-gegen den Antrag abgegebenen Stimmen sowie die Zahl der ungültigen
-Stimmen fest.
+(4) (weggefallen)
 
 
 ##### § 21 Abstimmungsniederschrift
@@ -745,28 +743,25 @@ Stimmen fest.
 Nachdem das Abstimmungsergebnis ermittelt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
+4.  die Zahl der für den Antrag abgegebenen Stimmen;
 
 
-5.  die Zahl der für den Antrag abgegebenen Stimmen;
+5.  die Zahl der gegen den Antrag abgegebenen Stimmen;
 
 
-6.  die Zahl der gegen den Antrag abgegebenen Stimmen;
+6.  das Abstimmungsergebnis;
 
 
-7.  das Abstimmungsergebnis;
-
-
-8.  besondere während der Abstimmung eingetretene Zwischenfälle oder
+7.  besondere während der Abstimmung eingetretene Zwischenfälle oder
     sonstige Ereignisse.
 
 
@@ -846,30 +841,55 @@ Arbeitnehmer. Die Bekanntmachung muss folgende Angaben enthalten:
     Vertreterinnen oder Vertreter von Gewerkschaften sind;
 
 
-4.  dass Wahlvorschläge für die Wahl der Aufsichtsratsmitglieder der
+4.  bei börsennotierten Unternehmen, ob zur Erreichung des
+    Geschlechteranteils nach § 96 Absatz 2 Satz 1 des Aktiengesetzes für
+    die Wahl die Gesamterfüllung oder die Getrennterfüllung gilt;
+
+
+5.  bei börsennotierten Unternehmen im Fall der Gesamterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 96 Absatz 2 Satz 1 und 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern im
+    Aufsichtsrat;
+
+
+6.  bei börsennotierten Unternehmen im Fall der Getrennterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 7 Absatz 3 des Gesetzes in
+    Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes erforderliche
+    Anzahl an Frauen und Männern unter den Aufsichtsratsmitgliedern der
+    Arbeitnehmer;
+
+
+7.  im Fall der Nummer 6, wenn der Geschlechteranteil nach § 7 Absatz 3
+    des Gesetzes bei der Wahl nicht erreicht wurde, dass § 18a des
+    Gesetzes anzuwenden ist und der Geschlechteranteil im Wege der
+    gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der
+    Nachwahl hergestellt wird;
+
+
+8.  dass Wahlvorschläge für die Wahl der Aufsichtsratsmitglieder der
     Arbeitnehmer beim Betriebswahlvorstand innerhalb von sechs Wochen seit
     Erlass dieser Bekanntmachung schriftlich eingereicht werden können;
     der letzte Tag der Frist ist anzugeben;
 
 
-5.  die Mindestzahl der wahlberechtigten in § 3 Abs. 1 Nr. 1 des Gesetzes
+9.  die Mindestzahl der wahlberechtigten in § 3 Abs. 1 Nr. 1 des Gesetzes
     bezeichneten Arbeitnehmer, von denen ein Wahlvorschlag für
     Aufsichtsratsmitglieder der in § 3 Abs. 1 Nr. 1 des Gesetzes
     bezeichneten Arbeitnehmer unterzeichnet sein muss;
 
 
-6.  dass der Wahlvorschlag der leitenden Angestellten auf Grund von
+10. dass der Wahlvorschlag der leitenden Angestellten auf Grund von
     Abstimmungsvorschlägen durch Beschluss der wahlberechtigten leitenden
     Angestellten in geheimer Abstimmung aufgestellt wird und dass hierüber
     eine gesonderte Bekanntmachung erlassen wird;
 
 
-7.  dass ein Wahlvorschlag für Aufsichtsratsmitglieder, die Vertreterinnen
+11. dass ein Wahlvorschlag für Aufsichtsratsmitglieder, die Vertreterinnen
     oder Vertreter von Gewerkschaften sind, nur von einer im Unternehmen
     vertretenen Gewerkschaft eingereicht werden kann;
 
 
-8.  dass, soweit für die Aufsichtsratsmitglieder der in § 3 Abs. 1 Nr. 1
+12. dass, soweit für die Aufsichtsratsmitglieder der in § 3 Abs. 1 Nr. 1
     des Gesetzes bezeichneten Arbeitnehmer oder die
     Aufsichtsratsmitglieder der leitenden Angestellten nur ein
     Wahlvorschlag gemacht wird, die Anzahl der Bewerberinnen und Bewerber
@@ -878,14 +898,14 @@ Arbeitnehmer. Die Bekanntmachung muss folgende Angaben enthalten:
     bezeichneten Arbeitnehmer oder die leitenden Angestellten entfällt;
 
 
-9.  dass, soweit für die Aufsichtsratsmitglieder, die Vertreterinnen oder
+13. dass, soweit für die Aufsichtsratsmitglieder, die Vertreterinnen oder
     Vertreter von Gewerkschaften sind, nur ein Wahlvorschlag gemacht wird,
     die Anzahl der Bewerberinnen und Bewerber in diesem Wahlvorschlag
     mindestens doppelt so hoch sein muss wie die Zahl der zu wählenden
     Vertreterinnen und Vertreter von Gewerkschaften;
 
 
-10. dass in jedem Wahlvorschlag für jede Bewerberin oder für jeden
+14. dass in jedem Wahlvorschlag für jede Bewerberin oder für jeden
     Bewerber jeweils ein Ersatzmitglied des Aufsichtsrats vorgeschlagen
     werden kann und dass für eine Bewerberin oder einen Bewerber, die oder
     der ein in § 3 Abs. 1 Nr. 1 des Gesetzes bezeichneter Arbeitnehmer
@@ -894,19 +914,25 @@ Arbeitnehmer. Die Bekanntmachung muss folgende Angaben enthalten:
     Angestellter als Ersatzmitglied vorgeschlagen werden kann;
 
 
-11. dass bei Wahl eines Aufsichtsratsmitglieds auch das zusammen mit ihm
+15. dass bei Wahl eines Aufsichtsratsmitglieds auch das zusammen mit ihm
     vorgeschlagene Ersatzmitglied gewählt ist;
 
 
-12. wo und wie die Wahlberechtigten von den Wahlvorschlägen Kenntnis
+16. bei börsennotierten Unternehmen, dass das Nachrücken eines
+    Ersatzmitglieds, dessen Wahl nach dem 31. Dezember 2015 erfolgt ist,
+    ausgeschlossen ist, wenn dadurch der Geschlechteranteil nach § 7
+    Absatz 3 des Gesetzes nicht mehr eingehalten würde;
+
+
+17. wo und wie die Wahlberechtigten von den Wahlvorschlägen Kenntnis
     erlangen können;
 
 
-13. dass Einsprüche und sonstige Erklärungen gegenüber dem
+18. dass Einsprüche und sonstige Erklärungen gegenüber dem
     Betriebswahlvorstand abzugeben sind;
 
 
-14. die Anschrift des Betriebswahlvorstands.
+19. die Anschrift des Betriebswahlvorstands.
 
 
 
@@ -1056,55 +1082,74 @@ folgende Angaben enthalten:
     leitenden Angestellten enthalten muss;
 
 
-3.  dass der Wahlvorschlag der leitenden Angestellten auf Grund von
+3.  bei börsennotierten Unternehmen im Fall der Gesamterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 96 Absatz 2 Satz 1 und 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern im
+    Aufsichtsrat;
+
+
+4.  bei börsennotierten Unternehmen im Fall der Getrennterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 7 Absatz 3 des Gesetzes in
+    Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes erforderliche
+    Anzahl an Frauen und Männern unter den Aufsichtsratsmitgliedern der
+    Arbeitnehmer;
+
+
+5.  dass der Wahlvorschlag der leitenden Angestellten auf Grund von
     Abstimmungsvorschlägen durch Beschluss der wahlberechtigten leitenden
     Angestellten in geheimer Abstimmung aufgestellt wird;
 
 
-4.  dass in jedem Abstimmungsvorschlag für jede Bewerberin oder für jeden
+6.  dass in jedem Abstimmungsvorschlag für jede Bewerberin oder für jeden
     Bewerber jeweils ein Ersatzmitglied des Aufsichtsrats vorgeschlagen
     werden kann;
 
 
-5.  die Mindestzahl der wahlberechtigten leitenden Angestellten, von denen
+7.  die Mindestzahl der wahlberechtigten leitenden Angestellten, von denen
     ein Abstimmungsvorschlag für die Abstimmung der leitenden Angestellten
     unterzeichnet sein muss;
 
 
-6.  die Zahl der Bewerberinnen und Bewerber, die jeder leitende
+8.  die Zahl der Bewerberinnen und Bewerber, die jeder leitende
     Angestellte in der Abstimmung ankreuzen kann;
 
 
-7.  dass als Bewerberinnen und Bewerber nach der Reihenfolge der auf sie
+9.  dass als Bewerberinnen und Bewerber nach der Reihenfolge der auf sie
     entfallenden Stimmenzahlen nur so viele leitende Angestellte in den
     Wahlvorschlag aufgenommen werden, wie er insgesamt Bewerberinnen und
     Bewerber enthalten muss, und dass bei Stimmengleichheit das Los
     entscheidet;
 
 
-8.  dass die in den Abstimmungsvorschlägen zusammen mit den Gewählten
+10. dass die in den Abstimmungsvorschlägen zusammen mit den Gewählten
     aufgeführten Ersatzmitglieder in den Wahlvorschlag der leitenden
     Angestellten als Ersatzmitglieder des Aufsichtsrats aufgenommen
     werden;
 
 
-9.  den Zeitpunkt, bis zu dem Abstimmungsvorschläge für die Abstimmung der
+11. bei börsennotierten Unternehmen, dass das Nachrücken eines
+    Ersatzmitglieds, dessen Wahl nach dem 31. Dezember 2015 erfolgt ist,
+    ausgeschlossen ist, wenn dadurch der Geschlechteranteil nach § 7
+    Absatz 3 des Gesetzes nicht mehr eingehalten würde;
+
+
+12. den Zeitpunkt, bis zu dem Abstimmungsvorschläge für die Abstimmung der
     leitenden Angestellten beim Betriebswahlvorstand eingereicht werden
     können;
 
 
-10. die Anschrift des Betriebswahlvorstands;
+13. die Anschrift des Betriebswahlvorstands;
 
 
-11. wo und wie die Abstimmungsberechtigten von den Abstimmungsvorschlägen
+14. wo und wie die Abstimmungsberechtigten von den Abstimmungsvorschlägen
     Kenntnis erlangen können;
 
 
-12. Ort, Tag und Zeit der Stimmabgabe und der öffentlichen
+15. Ort, Tag und Zeit der Stimmabgabe und der öffentlichen
     Stimmauszählung;
 
 
-13. den Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe sowie
+16. den Hinweis auf die Möglichkeit der schriftlichen Stimmabgabe sowie
     die Betriebsteile und Kleinstbetriebe, für die schriftliche
     Stimmabgabe nach § 45 Abs. 3 Nr. 1 beschlossen ist und ob die
     schriftliche Stimmabgabe nach § 45 Abs. 3 Nr. 2 beschlossen worden
@@ -1123,9 +1168,10 @@ folgende Angaben enthalten:
 
 (1) Für den Beschluss über den Wahlvorschlag der leitenden
 Angestellten können die wahlberechtigten leitenden Angestellten
-Abstimmungsvorschläge machen. Jeder Abstimmungsvorschlag muss von
-einem Zwanzigstel oder 50 der wahlberechtigten leitenden Angestellten
-unterzeichnet sein. Abstimmungsvorschläge sind innerhalb einer vom
+Abstimmungsvorschläge machen; in diesen sollen Frauen und Männer
+vertreten sein. Jeder Abstimmungsvorschlag muss von einem Zwanzigstel
+oder 50 der wahlberechtigten leitenden Angestellten unterzeichnet
+sein. Abstimmungsvorschläge sind innerhalb einer vom
 Betriebswahlvorstand zu bestimmenden Frist beim Betriebswahlvorstand
 schriftlich einzureichen. Die Frist soll zwei Wochen betragen. Sie
 beginnt mit dem Erlass der Bekanntmachung nach § 28.
@@ -1218,8 +1264,7 @@ mit mehreren gekennzeichneten Stimmzetteln in der Wahlurne, werden die
 Stimmen einfach gezählt, wenn sie vollständig übereinstimmen,
 andernfalls sind sie ungültig. Ist auf einem Stimmzettel eine
 Bewerberin oder ein Bewerber mehrfach angekreuzt, so zählt dies als
-eine Stimme. Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4
-entsprechend.
+eine Stimme.
 
 (6) Als Bewerberinnen und Bewerber sind nach der Reihenfolge der auf
 sie entfallenden Stimmenzahlen nur so viele leitende Angestellte in
@@ -1243,27 +1288,24 @@ entsprechend anzuwenden.
 Nach Abschluss der Abstimmung stellt der Betriebswahlvorstand in einer
 Niederschrift fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
-
-
-5.  die Zahlen der auf die einzelnen Bewerberinnen oder Bewerber
+4.  die Zahlen der auf die einzelnen Bewerberinnen oder Bewerber
     entfallenden Stimmen;
 
 
-6.  die Namen der in den Wahlvorschlag aufgenommenen Bewerberinnen und
+5.  die Namen der in den Wahlvorschlag aufgenommenen Bewerberinnen und
     Bewerber und Ersatzmitglieder;
 
 
-7.  besondere während der Abstimmung eingetretene Zwischenfälle oder
+6.  besondere während der Abstimmung eingetretene Zwischenfälle oder
     sonstige Ereignisse.
 
 
@@ -1298,8 +1340,8 @@ schriftlich unter Angabe der Gründe zu unterrichten.
     Reihenfolge aufgeführt sind,
 
 
-3.  die nicht die in § 24 Abs. 1 Satz 2 Nr. 8 und 9 bezeichnete Zahl von
-    Bewerberinnen und Bewerbern enthalten,
+3.  die nicht die in § 24 Absatz 1 Satz 2 Nummer 12 und 13 bezeichnete
+    Zahl von Bewerberinnen und Bewerbern enthalten,
 
 
 4.  der in § 3 Abs. 1 Nr. 1 des Gesetzes bezeichneten Arbeitnehmer, wenn
@@ -1452,11 +1494,36 @@ ein Wahlausschreiben. Es muss folgende Angaben enthalten:
     ist;
 
 
-9.  dass Einsprüche, Anträge, Wahlvorschläge und sonstige Erklärungen
+9.  bei börsennotierten Unternehmen, ob zur Erreichung des
+    Geschlechteranteils nach § 96 Absatz 2 Satz 1 des Aktiengesetzes für
+    die Wahl die Gesamterfüllung oder die Getrennterfüllung gilt;
+
+
+10. bei börsennotierten Unternehmen im Fall der Gesamterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 96 Absatz 2 Satz 1 und 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern im
+    Aufsichtsrat;
+
+
+11. bei börsennotierten Unternehmen im Fall der Getrennterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 7 Absatz 3 des Gesetzes in
+    Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes erforderliche
+    Anzahl an Frauen und Männern unter den Aufsichtsratsmitgliedern der
+    Arbeitnehmer;
+
+
+12. im Fall der Nummer 11, wenn der Geschlechteranteil nach § 7 Absatz 3
+    des Gesetzes bei der Wahl nicht erreicht wurde, dass § 18a des
+    Gesetzes anzuwenden ist und der Geschlechteranteil im Wege der
+    gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der
+    Nachwahl hergestellt wird;
+
+
+13. dass Einsprüche, Anträge, Wahlvorschläge und sonstige Erklärungen
     gegenüber dem Betriebswahlvorstand abzugeben sind;
 
 
-10. die Anschrift des Betriebswahlvorstands.
+14. die Anschrift des Betriebswahlvorstands.
 
 
 
@@ -1495,9 +1562,9 @@ Stimmzetteln in der Farbe unterscheiden.
 
 (3) Die Wählerin kennzeichnet den von ihr und der Wähler den von ihm
 gewählten Wahlvorschlag durch Ankreuzen an der im Stimmzettel hierfür
-vorgesehenen Stelle. Für den Wahlvorgang sind die §§ 16 und 17
-entsprechend anzuwenden; die Stimmabgabe ist in der Wählerliste für
-jeden Wahlgang gesondert zu vermerken.
+vorgesehenen Stelle. Für den Wahlvorgang ist § 16 entsprechend
+anzuwenden; die Stimmabgabe ist in der Wählerliste für jeden Wahlgang
+gesondert zu vermerken.
 
 (4) Ungültig sind Stimmzettel,
 
@@ -1531,10 +1598,10 @@ Befindet sich ein Wahlumschlag mit mehreren gekennzeichneten
 Stimmzetteln in der Wahlurne, werden die Stimmen einfach gezählt, wenn
 sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
-(4) Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4 entsprechend.
+(4) (weggefallen)
 
 
-###### § 40 Ermittlung der Gewählten
+###### § 40 Verteilung der Stimmenzahlen
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -1559,9 +1626,7 @@ Wahlvorschläge desselben Wahlgangs über.
 einzelnen Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer
 Benennung.
 
-(4) Mit der Wahl einer Bewerberin oder eines Bewerbers ist das in dem
-Wahlvorschlag neben der gewählten Bewerberin oder dem gewählten
-Bewerber aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
+(4) (weggefallen)
 
 
 ##### Unterabschnitt 2 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
@@ -1624,15 +1689,15 @@ Bewerberin oder jeden Bewerber entfallenden Stimmen zusammen. § 39
 Abs. 3 ist anzuwenden. Ist auf einem Stimmzettel eine Bewerberin oder
 ein Bewerber mehrfach angekreuzt, so zählt dies als eine Stimme.
 
-(3) Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4 entsprechend.
+(3) (weggefallen)
 
 
-###### § 43 Ermittlung der Gewählten
+###### § 43 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
 
-Gewählt sind insgesamt so viele Bewerberinnen und Bewerber, wie in dem
-Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der Reihenfolge
-der auf sie entfallenden Stimmenzahlen. Bei Stimmengleichheit
-entscheidet das Los. § 40 Abs. 4 ist anzuwenden.
+Der Betriebswahlvorstand bestimmt so viele Bewerberinnen und Bewerber,
+wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der
+Reihenfolge der auf sie entfallenden Stimmenzahlen. Bei
+Stimmengleichheit entscheidet das Los.
 
 
 ##### Unterabschnitt 3 - Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
@@ -1771,46 +1836,112 @@ Ergebnisses der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 ungeöffnet zu vernichten, wenn die Wahl nicht angefochten worden ist.
 
 
-##### Unterabschnitt 5 - Wahlniederschrift, Benachrichtigungen
+##### Unterabschnitt 5 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
 
+
+
+###### § 46a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+
+(1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
+38, einem Wahlgang nach § 41 und in einem Wahlgang nach § 44 so viele
+Bewerberinnen und Bewerber gewählt, wie Aufsichtsratsmitglieder in dem
+jeweiligen Wahlgang zu wählen sind.
+
+(2) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
+
+
+###### § 46b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+
+(1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
+einem Wahlgang nach § 38, einem Wahlgang nach § 41 und in einem
+Wahlgang nach § 44 so viele Bewerberinnen und Bewerber gewählt, wie
+Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
+
+(2) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
+
+
+###### § 46c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+
+(1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
+die Höchstzahlen nach § 40 der Größe nach auf die Bewerberinnen und
+Bewerber verteilt und die Zahlen der auf die einzelnen Bewerberinnen
+und Bewerber entfallenden Stimmen nach den §§ 43 und 44 Absatz 3 Satz
+3 ermittelt, stellt der Betriebswahlvorstand fest, ob bei der Wahl der
+Geschlechteranteil nach § 7 Absatz 3 des Gesetzes in Verbindung mit §
+96 Absatz 2 Satz 4 des Aktiengesetzes eingehalten worden ist.
+
+(2) Ist der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der
+Wahl eingehalten, sind in einem Wahlgang nach § 38, einem Wahlgang
+nach § 41 und in einem Wahlgang nach § 44 so viele Bewerberinnen und
+Bewerber gewählt, wie Aufsichtsratsmitglieder in dem jeweiligen
+Wahlgang zu wählen sind.
+
+(3) Ist der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der
+Wahl nicht eingehalten, sind in einem Wahlgang nach § 38 und in einem
+Wahlgang nach § 41 nur diejenigen Bewerberinnen und Bewerber als
+Aufsichtsratsmitglieder gewählt, deren Wahl nicht nach § 18a Absatz 2
+Satz 1 des Gesetzes unwirksam ist. In einem Wahlgang nach § 44 ist die
+Bewerberin oder der Bewerber mit den meisten Stimmen als
+Aufsichtsratsmitglied der Arbeitnehmer gewählt.
+
+(4) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 47 Wahlniederschrift
 
-Nachdem ermittelt ist, wer gewählt ist, stellt der
+(1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
 gesondert fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
-
-
-5.  bei Verhältniswahl die Zahlen der auf die einzelnen Wahlvorschläge
+4.  bei Verhältniswahl die Zahlen der auf die einzelnen Wahlvorschläge
     entfallenden Stimmen, die berechneten Höchstzahlen und ihre Verteilung
     auf die Wahlvorschläge;
 
 
-6.  bei Mehrheitswahl die Zahlen der auf die einzelnen Bewerberinnen oder
+5.  bei Mehrheitswahl die Zahlen der auf die einzelnen Bewerberinnen oder
     Bewerber entfallenden Stimmen;
 
 
-7.  die Namen der gewählten Aufsichtsratsmitglieder;
+6.  die Namen der gewählten Aufsichtsratsmitglieder;
 
 
-8.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
+7.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
     Ersatzmitglieder;
 
 
-9.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
+8.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
     Ereignisse.
+
+
+
+
+(2) Der Betriebswahlvorstand stellt bei börsennotierten Unternehmen im
+Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
+
+1.  ob der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der Wahl
+    erreicht worden ist;
+
+
+2.  die Anzahl der Sitze, die aufgrund des Nichterreichens des
+    Geschlechteranteils nach § 7 Absatz 3 des Gesetzes nicht besetzt
+    worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der in
+    § 3 Absatz 1 Nummer 1 des Gesetzes bezeichneten Arbeitnehmer und den
+    Aufsichtsratsmitgliedern der Gewerkschaften.
 
 
 
@@ -1825,6 +1956,25 @@ Gewählten unverzüglich für die Dauer von zwei Wochen bekannt.
 schriftlich von ihrer Wahl und übermittelt die Bekanntmachung nach
 Absatz 1 dem Unternehmen und den im Unternehmen vertretenen
 Gewerkschaften.
+
+(3) Ist bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der Wahl
+nicht erreicht worden, informiert der Betriebswahlvorstand die
+Adressaten der Absätze 1 und 2 zusätzlich
+
+1.  über die Anzahl der Sitze, die aufgrund des Nichterreichens des
+    Geschlechteranteils nach § 7 Absatz 3 des Gesetzes nicht besetzt
+    worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der in
+    § 3 Absatz 1 Nummer 1 des Gesetzes bezeichneten Arbeitnehmer und den
+    Aufsichtsratsmitgliedern der Gewerkschaften und
+
+
+2.  darüber, dass diese nach § 18a Absatz 2 des Gesetzes nicht besetzten
+    Aufsichtsratssitze im Wege der gerichtlichen Ersatzbestellung nach §
+    104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
+
+
+
 
 
 ###### § 49 Aufbewahrung der Wahlakten
@@ -2265,9 +2415,9 @@ Stimmzetteln in der Farbe unterscheiden.
 
 (3) Die Wählerin kennzeichnet die von ihr und der Wähler den von ihm
 gewählten Wahlvorschlag durch Ankreuzen an der im Stimmzettel hierfür
-vorgesehenen Stelle. Für den Wahlvorgang sind die §§ 16 und 17
-entsprechend anzuwenden; die Stimmabgabe ist in der Wählerliste für
-jeden Wahlgang gesondert zu vermerken.
+vorgesehenen Stelle. Für den Wahlvorgang ist § 16 entsprechend
+anzuwenden; die Stimmabgabe ist in der Wählerliste für jeden Wahlgang
+gesondert zu vermerken.
 
 (4) Ungültig sind Stimmzettel,
 
@@ -2301,7 +2451,7 @@ Befindet sich ein Wahlumschlag mit mehreren gekennzeichneten
 Stimmzetteln in der Wahlurne, werden die Stimmen einfach gezählt, wenn
 sie vollständig übereinstimmen, andernfalls sind sie ungültig.
 
-(4) Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4 entsprechend.
+(4) (weggefallen)
 
 
 ###### § 61 Ermittlung der Gewählten
@@ -2462,28 +2612,25 @@ Nachdem ermittelt ist, wer als Delegierter gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
 gesondert fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
-
-
-5.  die Zahlen der auf die einzelnen Wahlvorschläge entfallenden Stimmen,
+4.  die Zahlen der auf die einzelnen Wahlvorschläge entfallenden Stimmen,
     die berechneten Höchstzahlen und ihre Verteilung auf die
     Wahlvorschläge;
 
 
-6.  den Wahlvorschlag, dessen Bewerberinnen und Bewerber als gewählt
+5.  den Wahlvorschlag, dessen Bewerberinnen und Bewerber als gewählt
     gelten (§ 62);
 
 
-7.  für jeden Wahlvorschlag gesondert die Namen und Anschriften
+6.  für jeden Wahlvorschlag gesondert die Namen und Anschriften
 
     a)  der gewählten Delegierten,
 
@@ -2496,7 +2643,7 @@ gesondert fest:
     in der Reihenfolge ihrer Benennung;
 
 
-8.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
+7.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
     Ereignisse.
 
 
@@ -2618,11 +2765,36 @@ Wochen vor dem Tag der Delegiertenversammlung mit:
 6.  dass die Stimmabgabe an Wahlvorschläge gebunden ist;
 
 
-7.  Ort, Tag und Zeit der Delegiertenversammlung und der öffentlichen
+7.  bei börsennotierten Unternehmen, ob zur Erreichung des
+    Geschlechteranteils nach § 96 Absatz 2 Satz 1 des Aktiengesetzes für
+    die Wahl die Gesamterfüllung oder die Getrennterfüllung gilt;
+
+
+8.  bei börsennotierten Unternehmen im Fall der Gesamterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 96 Absatz 2 Satz 1 und 4 des
+    Aktiengesetzes erforderliche Anzahl an Frauen und Männern im
+    Aufsichtsrat;
+
+
+9.  bei börsennotierten Unternehmen im Fall der Getrennterfüllung, die zur
+    Erreichung des Geschlechteranteils nach § 7 Absatz 3 des Gesetzes in
+    Verbindung mit § 96 Absatz 2 Satz 4 des Aktiengesetzes erforderliche
+    Anzahl an Frauen und Männern unter den Aufsichtsratsmitgliedern der
+    Arbeitnehmer;
+
+
+10. im Fall der Nummer 9, wenn der Geschlechteranteil nach § 7 Absatz 3
+    des Gesetzes bei der Wahl nicht erreicht wurde, dass § 18a des
+    Gesetzes anzuwenden ist und der Geschlechteranteil im Wege der
+    gerichtlichen Ersatzbestellung nach § 104 des Aktiengesetzes oder der
+    Nachwahl hergestellt wird;
+
+
+11. Ort, Tag und Zeit der Delegiertenversammlung und der öffentlichen
     Stimmauszählung;
 
 
-8.  die Anschrift des Betriebswahlvorstands.
+12. die Anschrift des Betriebswahlvorstands.
 
 
 
@@ -2686,9 +2858,9 @@ Farbe unterscheiden.
 
 (3) Der Delegierte kennzeichnet den von ihm gewählten Wahlvorschlag
 durch Ankreuzen an der im Stimmzettel hierfür vorgesehenen Stelle. Für
-den Wahlvorgang sind die §§ 16 und 17 entsprechend anzuwenden; die
-Stimmabgabe ist in der Delegiertenliste für jeden Wahlgang und für
-jede Stimme gesondert zu vermerken.
+den Wahlvorgang ist § 16 entsprechend anzuwenden; die Stimmabgabe ist
+in der Delegiertenliste für jeden Wahlgang und für jede Stimme
+gesondert zu vermerken.
 
 (4) Ungültig sind Stimmzettel,
 
@@ -2728,10 +2900,10 @@ mehrere gekennzeichnete Stimmzettel, so werden sie, wenn sie
 vollständig übereinstimmen, nur einfach gezählt, andernfalls sind sie
 ungültig.
 
-(4) Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4 entsprechend.
+(4) (weggefallen)
 
 
-###### § 74 Ermittlung der Gewählten
+###### § 74 Verteilung der Stimmenzahlen
 
 (1) Die in dem Wahlgang den einzelnen Wahlvorschlägen zugefallenen
 Stimmenzahlen werden in einer Reihe nebeneinander gestellt und
@@ -2756,9 +2928,7 @@ Wahlvorschläge desselben Wahlgangs über.
 einzelnen Wahlvorschläge bestimmt sich nach der Reihenfolge ihrer
 Benennung.
 
-(4) Mit der Wahl einer Bewerberin oder eines Bewerbers ist das in dem
-Wahlvorschlag neben der gewählten Bewerberin oder dem gewählten
-Bewerber aufgeführte Ersatzmitglied des Aufsichtsrats gewählt.
+(4) (weggefallen)
 
 
 ##### Unterabschnitt 4 - Wahl mehrerer Aufsichtsratsmitglieder der Arbeitnehmer in einem Wahlgang auf Grund nur eines Wahlvorschlags
@@ -2824,15 +2994,15 @@ Bewerberin oder jeden Bewerber entfallenden Stimmen zusammen. § 73
 Abs. 3 ist anzuwenden. Ist auf einem Stimmzettel ein Bewerber mehrfach
 angekreuzt, so zählt dies als eine Stimme.
 
-(3) Beim Einsatz von Wahlgeräten gilt § 20 Abs. 4 entsprechend.
+(3) (weggefallen)
 
 
-###### § 77 Ermittlung der Gewählten
+###### § 77 Verteilung der Stimmen auf die Bewerberinnen und Bewerber
 
-Gewählt sind so viele Bewerberinnen und Bewerber, wie in dem Wahlgang
-Aufsichtsratsmitglieder zu wählen sind, nach der Reihenfolge der auf
-sie entfallenden Stimmenzahlen. Bei Stimmengleichheit entscheidet das
-Los. § 74 Abs. 4 ist anzuwenden.
+Der Betriebswahlvorstand bestimmt so viele Bewerberinnen und Bewerber,
+wie in dem Wahlgang Aufsichtsratsmitglieder zu wählen sind, nach der
+Reihenfolge der auf sie entfallenden Stimmenzahlen. Bei
+Stimmengleichheit entscheidet das Los.
 
 
 ##### Unterabschnitt 5 - Wahl nur eines Aufsichtsratsmitglieds der Arbeitnehmer in einem Wahlgang
@@ -2864,46 +3034,112 @@ oder einen Bewerber ankreuzen. § 72 Abs. 3 Satz 2 und Abs. 5, § 75
 Abs. 4 und die §§ 76 und 77 sind anzuwenden.
 
 
-##### Unterabschnitt 6 - Wahlniederschrift; Benachrichtigungen
+##### Unterabschnitt 6 - Ermittlung der Gewählten, Wahlniederschrift, Benachrichtigungen
 
+
+
+###### § 78a Ermittlung der Gewählten bei nicht börsennotierten Unternehmen
+
+(1) In nicht börsennotierten Unternehmen sind in einem Wahlgang nach §
+72, einem Wahlgang nach § 75 und in einem Wahlgang nach § 78 so viele
+Bewerberinnen und Bewerber gewählt, wie Aufsichtsratsmitglieder in dem
+jeweiligen Wahlgang zu wählen sind.
+
+(2) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
+
+
+###### § 78b Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Gesamterfüllung
+
+(1) In börsennotierten Unternehmen sind im Fall der Gesamterfüllung in
+einem Wahlgang nach § 72, einem Wahlgang nach § 75 und in einem
+Wahlgang nach § 78 so viele Bewerberinnen und Bewerber gewählt, wie
+Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
+
+(2) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
+
+
+###### § 78c Ermittlung der Gewählten bei börsennotierten Unternehmen im Fall der Getrennterfüllung
+
+(1) Sind in börsennotierten Unternehmen im Fall der Getrennterfüllung
+die Höchstzahlen nach § 74 der Größe nach auf die Bewerberinnen und
+Bewerber verteilt und die Zahlen der auf die einzelnen Bewerberinnen
+und Bewerber entfallenden Stimmen nach den §§ 77 und 78 Absatz 3 Satz
+3 ermittelt, stellt der Betriebswahlvorstand fest, ob bei der Wahl der
+Geschlechteranteil nach § 7 Absatz 3 des Gesetzes in Verbindung mit §
+96 Absatz 2 Satz 4 des Aktiengesetzes eingehalten worden ist.
+
+(2) Ist der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der
+Wahl eingehalten, sind in einem Wahlgang nach § 72, einem Wahlgang
+nach § 75 und in einem Wahlgang nach § 78 so viele Bewerberinnen und
+Bewerber als Aufsichtsratsmitglieder gewählt, wie
+Aufsichtsratsmitglieder in dem jeweiligen Wahlgang zu wählen sind.
+
+(3) Ist der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der
+Wahl nicht eingehalten, sind in einem Wahlgang nach § 72 und in einem
+Wahlgang nach § 75 nur diejenigen Bewerberinnen und Bewerber als
+Aufsichtsratsmitglieder gewählt, deren Wahl nicht nach § 18a Absatz 2
+Satz 1 des Gesetzes unwirksam ist. In einem Wahlgang nach § 78 ist die
+Bewerberin oder der Bewerber mit den meisten Stimmen als
+Aufsichtsratsmitglied der Arbeitnehmer gewählt.
+
+(4) Mit der Wahl einer Bewerberin oder eines Bewerbers ist auch das in
+dem Wahlvorschlag neben der oder dem Gewählten aufgeführte
+Ersatzmitglied des Aufsichtsrats gewählt.
 
 
 ###### § 79 Wahlniederschrift
 
-Nachdem ermittelt ist, wer gewählt ist, stellt der
+(1) Nachdem ermittelt ist, wer gewählt ist, stellt der
 Betriebswahlvorstand in einer Niederschrift für jeden Wahlgang
 gesondert fest:
 
-1.  die Zahl der an Wahlgeräten abgegebenen Stimmen;
+1.  die Zahl der insgesamt abgegebenen Stimmen;
 
 
-2.  die Zahl der insgesamt abgegebenen Stimmen;
+2.  die Zahl der gültigen Stimmen;
 
 
-3.  die Zahl der gültigen Stimmen;
+3.  die Zahl der ungültigen Stimmen;
 
 
-4.  die Zahl der ungültigen Stimmen;
-
-
-5.  bei Verhältniswahl die Zahlen der auf die einzelnen Wahlvorschläge
+4.  bei Verhältniswahl die Zahlen der auf die einzelnen Wahlvorschläge
     entfallenden Stimmen, die berechneten Höchstzahlen und ihre Verteilung
     auf die Wahlvorschläge;
 
 
-6.  bei Mehrheitswahl die Zahlen der auf die einzelnen Bewerberinnen oder
+5.  bei Mehrheitswahl die Zahlen der auf die einzelnen Bewerberinnen oder
     Bewerber entfallenden Stimmen;
 
 
-7.  die Namen der gewählten Aufsichtsratsmitglieder;
+6.  die Namen der gewählten Aufsichtsratsmitglieder;
 
 
-8.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
+7.  die Namen der für die einzelnen Aufsichtsratsmitglieder gewählten
     Ersatzmitglieder;
 
 
-9.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
+8.  besondere während der Wahl eingetretene Zwischenfälle oder sonstige
     Ereignisse.
+
+
+
+
+(2) Der Betriebswahlvorstand stellt bei börsennotierten Unternehmen im
+Fall der Getrennterfüllung in der Niederschrift zusätzlich fest,
+
+1.  ob der Geschlechteranteil nach § 7 Absatz 3 des Gesetzes bei der Wahl
+    erreicht worden ist;
+
+
+2.  die Anzahl der Sitze, die aufgrund des Nichterreichens des
+    Geschlechteranteils nach § 7 Absatz 3 des Gesetzes nicht besetzt
+    worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der in
+    § 3 Absatz 1 Nummer 1 des Gesetzes bezeichneten Arbeitnehmer und den
+    Aufsichtsratsmitgliedern der Gewerkschaften.
 
 
 
@@ -2920,6 +3156,24 @@ von zwei Wochen im Betrieb bekannt.
 schriftlich von ihrer Wahl und übermittelt die Bekanntmachung nach
 Absatz 1 dem Unternehmen und den im Unternehmen vertretenen
 Gewerkschaften.
+
+(3) Ist bei börsennotierten Unternehmen der Geschlechteranteil nach §
+7 Absatz 3 des Gesetzes bei der Wahl nicht erreicht worden, informiert
+der Betriebswahlvorstand die Adressaten der Absätze 1 und 2 zusätzlich
+
+1.  über die Anzahl der Sitze, die aufgrund des Nichterreichens des
+    Geschlechteranteils nach § 7 Absatz 3 des Gesetzes nicht besetzt
+    worden sind, und ihre Zuordnung zu den Aufsichtsratsmitgliedern der in
+    § 3 Absatz 1 Nummer 1 des Gesetzes bezeichneten Arbeitnehmer und den
+    Aufsichtsratsmitgliedern der Gewerkschaften und
+
+
+2.  darüber, dass diese nach § 18a Absatz 2 des Gesetzes nicht besetzten
+    Aufsichtsratssitze im Wege der gerichtlichen Ersatzbestellung nach §
+    104 des Aktiengesetzes oder der Nachwahl zu besetzen sind.
+
+
+
 
 
 ###### § 81 Aufbewahrung der Wahlakten
@@ -3161,8 +3415,8 @@ zwei Wochen vor der Delegiertenversammlung übersandt werden.
 #### § 90 Abstimmung, Abstimmungsergebnis, Akten
 
 Für die Abstimmung, das Abstimmungsergebnis und die Aufbewahrung der
-Akten sind die §§ 15, 16, 17, 20, 21 und 72 Abs. 1 Satz 3 und 4, Abs.
-2 Satz 3 und Abs. 5 sowie die §§ 73, 80 und 87 Abs. 2 und 3
+Akten sind die §§ 15, 16, 20, 21 und 72 Absatz 1 Satz 3 und 4, Absatz
+2 Satz 3 und Absatz 5 sowie die §§ 73, 80 und 87 Abs. 2 und 3
 entsprechend anzuwenden.
 
 
@@ -3209,14 +3463,17 @@ Montag bis Freitag mit Ausnahme der gesetzlichen Feiertage.
 
 ### § 94 Übergangsregelung
 
-Auf Wahlen oder Abberufungen, die vor dem 1. Juni 2002 eingeleitet
-worden sind, sind die Vorschriften der Ersten Wahlordnung zum
-Mitbestimmungsgesetz vom 23. Juni 1977 (BGBl. I S. 861), geändert
-durch Artikel 1 der Verordnung vom 9. November 1990 (BGBl. I S. 2487),
-auch nach ihrem Außerkrafttreten nach Maßgabe des § 40 Abs. 2 des
-Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I S. 1153), das zuletzt
-durch Artikel 1 des Gesetzes vom 23. März 2002 (BGBl. I S. 1130)
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 abgeschlossen sind, ist die Erste Wahlordnung
+zum Mitbestimmungsgesetz vom 27. Mai 2002 (BGBl. I S. 1682), die durch
+Artikel 1 der Verordnung vom 10. Oktober 2005 (BGBl. I S. 2927)
 geändert worden ist, anzuwenden.
+
+(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 nicht abgeschlossen sind, ist die Erste
+Wahlordnung zum Mitbestimmungsgesetz in der durch Artikel 2 der
+Verordnung vom 26. August 2015 (BGBl. I S. 1443) geänderten Fassung
+anzuwenden.
 
 
 ### § 95 Inkrafttreten, Außerkrafttreten

@@ -4,7 +4,7 @@ Title: Abkommen zwischen der Regierung der Bundesrepublik Deutschland und der Re
   schweren Unglücksfällen
 jurabk: KatHiLAbk RussFö
 layout: default
-origslug: kathilabk_russf_
+origslug: kathilabk_russfoe
 slug: kathilabk_russfoe
 
 ---

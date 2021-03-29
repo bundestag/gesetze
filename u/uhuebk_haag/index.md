@@ -3,7 +3,7 @@ Title: Übereinkommen über das auf Unterhaltsverpflichtungen gegenüber Kindern
   Recht
 jurabk: UhÜbk Haag
 layout: default
-origslug: uh_bk_haag
+origslug: uhuebk_haag
 slug: uhuebk_haag
 
 ---

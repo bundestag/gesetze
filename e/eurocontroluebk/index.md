@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen über Zusammenarbeit zur Sicherung der Luf
   "EUROCONTROL"
 jurabk: EUROCONTROLÜbk
 layout: default
-origslug: eurocontrol_bk
+origslug: eurocontroluebk
 slug: eurocontroluebk
 
 ---

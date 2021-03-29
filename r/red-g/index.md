@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1798
 
+Zuletzt geändert durch
+:   Art. 11 G v. 14.8.2017 I 3202
+
 
 ## § 1 Datei zur Bekämpfung des gewaltbezogenen Rechtsextremismus
 
@@ -30,18 +33,19 @@ insbesondere zur Verhinderung und Verfolgung von Straftaten mit
 derartigem Hintergrund, eine gemeinsame standardisierte zentrale
 Datei.
 
-(2) Zur Teilnahme an der Datei sind als beteiligte Behörden im
-Benehmen mit dem Bundesministerium des Innern weitere
-Polizeivollzugsbehörden berechtigt, soweit
+(2) Der Bundesminister des Innern kann, bei Landesbehörden auf
+Ersuchen des jeweiligen Landes, durch Rechtsverordnung weitere
+Polizeivollzugsbehörden als beteiligte Behörden zur Teilnahme an der
+Rechtsextremismus-Datei berechtigen, soweit
 
 1.  diesen Aufgaben zur Bekämpfung des gewaltbezogenen Rechtsextremismus
-    nicht nur im Einzelfall besonders zugewiesen sind,
+    nicht nur im Einzelfall besonders zugewiesen sind und
 
 
-2.  ihr Zugriff auf die Datei für die Wahrnehmung der Aufgaben nach Nummer
-    1 erforderlich und dies unter Berücksichtigung der schutzwürdigen
-    Interessen der Betroffenen und der Sicherheitsinteressen der
-    beteiligten Behörden angemessen ist.
+2.  ihr Zugriff auf die Rechtsextremismus-Datei für die Wahrnehmung der
+    Aufgaben nach Nummer 1 erforderlich und dies unter Berücksichtigung
+    der schutzwürdigen Interessen der Betroffenen und der
+    Sicherheitsinteressen der beteiligten Behörden angemessen ist.
 
 
 
@@ -75,18 +79,11 @@ Daten sich beziehen auf
     Gewalt als Mittel zur Durchsetzung politischer Belange unterstützen,
     vorbereiten oder durch ihre Tätigkeiten vorsätzlich hervorrufen oder
     bei denen Schusswaffen ohne die erforderlichen waffenrechtlichen
-    Berechtigungen, Kriegswaffen oder Explosivstoffe aufgefunden wurden;
+    Berechtigungen, Kriegswaffen oder Explosivstoffe aufgefunden wurden,
+    oder
 
 
-3.  Personen, die den Sicherheitsbehörden aufgrund von Tatsachen als
-    Angehörige der rechtsextremistischen Szene bekannt sind, wenn sie mit
-    den in Nummer 1 oder in Nummer 2 genannten Personen nicht nur flüchtig
-    oder in zufälligem Kontakt stehen und durch sie weiterführende
-    Hinweise für die Aufklärung oder Bekämpfung des gewaltbezogenen
-    Rechtsextremismus zu erwarten sind (Kontaktpersonen), oder
-
-
-4.
+3.
     a)  rechtsextremistische Vereinigungen und Gruppierungen,
 
 
@@ -115,26 +112,20 @@ Rechtsvorschriften automatisiert verarbeiten dürfen.
 (1) In der Datei werden, soweit vorhanden, folgende Datenarten
 gespeichert:
 
-1.  zu Personen
+1.  zu Personen nach § 2 Satz 1 Nummer 1 und 2
 
-    a)  nach § 2 Satz 1 Nummer 1 bis 3 der Familienname, die Vornamen, frühere
-        Namen, andere Namen, Aliaspersonalien, abweichende
-        Namensschreibweisen, das Geschlecht, das Geburtsdatum, der Geburtsort,
-        der Geburtsstaat, aktuelle und frühere Staatsangehörigkeiten,
-        gegenwärtige und frühere Anschriften, besondere körperliche Merkmale,
-        Lichtbilder, die Bezeichnung der Fallgruppe nach den vorstehend
-        genannten Kriterien zum Personenkreis und, soweit keine anderen
-        gesetzlichen Bestimmungen entgegenstehen und dies zur Identifizierung
-        einer Person erforderlich ist, Angaben zu Identitätspapieren
-        (Grunddaten),
+    a)  der Familienname, die Vornamen, frühere Namen, andere Namen,
+        Aliaspersonalien, abweichende Namensschreibweisen, das Geschlecht, das
+        Geburtsdatum, der Geburtsort, der Geburtsstaat, aktuelle und frühere
+        Staatsangehörigkeiten, gegenwärtige und frühere Anschriften, besondere
+        körperliche Merkmale, Lichtbilder, die Bezeichnung der Fallgruppe nach
+        den vorstehend genannten Kriterien zum Personenkreis und, soweit keine
+        anderen gesetzlichen Bestimmungen entgegenstehen und dies zur
+        Identifizierung einer Person erforderlich ist, Angaben zu
+        Identitätspapieren (Grunddaten),
 
 
-    b)  nach § 2 Satz 1 Nummer 1 und 2 sowie zu Kontaktpersonen, bei denen
-        Tatsachen die Annahme rechtfertigen, dass sie von der Planung oder
-        Begehung einer unter § 2 Satz 1 Nummer 1 Buchstabe b genannten
-        Straftat oder der Ausübung, Unterstützung oder Vorbereitung
-        rechtsextremistischer Gewalt im Sinne von § 2 Satz 1 Nummer 2 Kenntnis
-        haben, folgende weitere Datenarten (erweiterte Grunddaten):
+    b)  folgende weitere Datenarten (erweiterte Grunddaten):
 
         aa) eigene oder von ihnen genutzte Telekommunikationsanschlüsse und
             Telekommunikationsendgeräte,
@@ -185,8 +176,8 @@ gespeichert:
             Nummer 1 oder 2 genannten Personen treffen,
 
 
-        mm) Kontaktpersonen nach § 2 Satz 1 Nummer 3 zu den jeweiligen Personen
-            nach § 2 Satz 1 Nummer 1 oder 2,
+        mm) Kontaktpersonen zu den jeweiligen Personen nach § 2 Satz 1 Nummer 1
+            oder 2,
 
 
         nn) der Tag, an dem das letzte Ereignis eingetreten ist, das die
@@ -221,7 +212,11 @@ gespeichert:
 
 
         uu) Zugehörigkeit zu rechtsextremistischen Netzwerken und sonstigen
-            rechtsextremistischen Gruppierungen;
+            rechtsextremistischen Gruppierungen, und
+
+
+        vv) von der Person betriebene oder maßgeblich zum Zweck ihrer Aktivitäten
+            nach § 2 Satz 1 Nummer 1 oder Nummer 2 genutzte Internetseiten;
 
 
 
@@ -230,7 +225,7 @@ gespeichert:
 
 
 
-2.  Angaben zur Identifizierung der in § 2 Satz 1 Nummer 4 genannten
+2.  Angaben zur Identifizierung der in § 2 Satz 1 Nummer 3 genannten
     rechtsextremistischen Vereinigungen und Gruppierungen, Sachen,
     Bankverbindungen, Anschriften, Telekommunikationsanschlüsse,
     Telekommunikationsendgeräte, Internetseiten oder Adressen für
@@ -245,9 +240,34 @@ gespeichert:
 
 
 
-(2) Soweit zu speichernde Daten aufgrund einer anderen
+(2) Kontaktpersonen nach Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe
+mm sind Personen, bei denen tatsächliche Anhaltspunkte vorliegen, dass
+sie mit den in § 2 Satz 1 Nummer 1 oder Nummer 2 genannten Personen
+nicht nur flüchtig oder in zufälligem Kontakt in Verbindung stehen und
+durch sie weiterführende Hinweise für die Aufklärung oder Bekämpfung
+des gewaltbezogenen Rechtsextremismus zu erwarten sind. Angaben zu
+Kontaktpersonen dürfen ausschließlich als erweiterte Grunddaten nach
+Absatz 1 Nummer 1 Buchstabe b Doppelbuchstabe mm mit folgenden
+Datenarten zur Identifizierung und Kontaktaufnahme gespeichert werden:
+der Familienname, die Vornamen, frühere Namen, andere Namen,
+Aliaspersonalien, abweichende Namensschreibweisen, das Geschlecht, das
+Geburtsdatum, der Geburtsort, der Geburtsstaat, die aktuelle
+Staatsangehörigkeit, die gegenwärtige Anschrift, Lichtbilder, eigene
+oder von ihnen genutzte Telekommunikationsanschlüsse sowie Adressen
+für elektronische Post, sonstige Angaben zur beruflichen
+Erreichbarkeit.
+
+(3) Soweit zu speichernde Daten aufgrund einer anderen
 Rechtsvorschrift zu kennzeichnen sind, ist diese Kennzeichnung bei der
 Speicherung der Daten in der Datei aufrechtzuerhalten.
+
+(4) Das Bundeskriminalamt legt die Kriterien und Kategorien für die zu
+speichernden Datenarten in den Fällen des Absatzes 1 Nummer 1
+Buchstabe b Doppelbuchstabe gg, ii und ll in einer
+Verwaltungsvorschrift fest. Diese ist in der jeweils aktuellen Fassung
+im Bundesanzeiger zu veröffentlichen. Das Bundeskriminalamt kann
+Kriterien für die zu speichernden Datenarten in den weiteren Fällen
+des Absatzes 1 in derselben Verwaltungsvorschrift vorsehen.
 
 
 ## § 4 Beschränkte und verdeckte Speicherung
@@ -281,6 +301,47 @@ Anfragedaten sowie die Dokumentation nach Satz 3 sind spätestens zu
 löschen oder zu vernichten, wenn die verdeckt gespeicherten Daten zu
 löschen sind.
 
+(3) Personenbezogene Daten, die durch
+
+1.  Maßnahmen nach § 100a der Strafprozessordnung oder § 51 des
+    Bundeskriminalamtgesetzes,
+
+
+2.  Maßnahmen nach den §§ 100b und 100c der Strafprozessordnung oder § 46
+    des Bundeskriminalamtgesetzes,
+
+
+3.  Maßnahmen nach § 99 der Strafprozessordnung,
+
+
+4.  Maßnahmen nach § 49 des Bundeskriminalamtgesetzes,
+
+
+5.  Maßnahmen innerhalb von Wohnungen nach § 34 des
+    Bundeskriminalamtgesetzes,
+
+
+6.  Beschränkungen nach § 1 Absatz 1 des Artikel 10-Gesetzes,
+
+
+7.  Maßnahmen nach § 9 Absatz 2 des Bundesverfassungsschutzgesetzes,
+
+
+8.  Maßnahmen nach § 22a oder § 32a des Zollfahndungsdienstgesetzes,
+
+
+9.  Maßnahmen nach § 23a des Zollfahndungsdienstgesetzes oder
+
+
+
+durch Maßnahmen nach entsprechenden landesrechtlichen Regelungen
+erlangt wurden, sind verdeckt zu speichern. Sofern zu einer Person
+nach § 2 Satz 1 Nummer 1 und 2 oder einer Angabe nach § 2 Satz 1
+Nummer 3 sowohl Daten nach Satz 1 als auch andere Daten zu speichern
+sind, müssen nur die Daten nach Satz 1 verdeckt gespeichert werden
+oder kann die einstellende Behörde von der Speicherung der Daten nach
+Satz 1 absehen (beschränkte Speicherung).
+
 
 ## § 5 Zugriff auf die Daten
 
@@ -299,7 +360,7 @@ Treffers erhält die abfragende Behörde Zugriff
         Gruppierungen, Sachen, Bankverbindungen, Anschriften,
         Telekommunikationsanschlüssen, Telekommunikationsendgeräten,
         Internetseiten oder Adressen für elektronische Post nach § 2 Satz 1
-        Nummer 4 auf die dazu gespeicherten Daten und
+        Nummer 3 auf die dazu gespeicherten Daten und
 
 
 
@@ -313,7 +374,12 @@ Auf die zu Personen gespeicherten erweiterten Grunddaten kann die
 abfragende Behörde im Falle eines Treffers Zugriff erhalten, wenn die
 Behörde, die die Daten eingegeben hat, dies im Einzelfall auf Ersuchen
 gewährt. Die Entscheidung hierüber richtet sich nach den jeweils
-geltenden Übermittlungsvorschriften.
+geltenden Übermittlungsvorschriften. Wenn die abfragende Behörde ohne
+Angabe eines Namens nach § 3 Absatz 1 Nummer 1 Buchstabe a mittels
+Angaben in den erweiterten Grunddaten sucht, erhält sie im Falle eines
+Treffers lediglich Zugriff auf die Daten nach § 3 Absatz 1 Nummer 3.
+Satz 5 gilt entsprechend, wenn die Suche trotz Angabe eines Namens
+mehrere Treffer erzeugt.
 
 (2) Die abfragende Behörde darf im Falle eines Treffers unmittelbar
 auf die erweiterten Grunddaten zugreifen, wenn dies aufgrund
@@ -349,7 +415,7 @@ und dokumentiert werden und erkennbar sein.
 
 (1) Die abfragende Behörde darf die Daten, auf die sie Zugriff
 erhalten hat, zur Prüfung, ob der Treffer der gesuchten Person oder
-der gesuchten Angabe nach § 2 Satz 1 Nummer 4 zuzuordnen ist, für ein
+der gesuchten Angabe nach § 2 Satz 1 Nummer 3 zuzuordnen ist, für ein
 Ersuchen um Übermittlung von Erkenntnissen zur Wahrnehmung ihrer
 jeweiligen Aufgabe zur Aufklärung oder Bekämpfung des gewaltbezogenen
 Rechtsextremismus und zu den Zwecken nach § 7 nutzen. Eine Nutzung zu
@@ -375,7 +441,7 @@ ist.
 (3) Im Falle einer Verwendung nach Absatz 1 Satz 2 oder Absatz 2 sind
 die Daten zu kennzeichnen. Nach einer Übermittlung ist die
 Kennzeichnung durch den Empfänger aufrechtzuerhalten; Gleiches gilt
-für Kennzeichnungen nach § 3 Absatz 2.
+für Kennzeichnungen nach § 3 Absatz 3.
 
 (4) Soweit das Bundeskriminalamt, die Landeskriminalämter oder weitere
 beteiligte Polizeivollzugsbehörden nach § 1 Absatz 2 auf Ersuchen oder
@@ -386,30 +452,55 @@ Strafverfolgung. Sie darf die Daten für Ersuchen nach Absatz 1 Satz 1
 verwenden. § 487 Absatz 3 der Strafprozessordnung gilt entsprechend.
 
 
-## § 7 Erweiterte Datennutzung
+## § 7 Erweiterte projektbezogene Datennutzung
 
-(1) Die beteiligten Behörden dürfen zur Erfüllung ihrer jeweiligen
+(1) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
 gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
-Datenarten erweitert nutzen, soweit dies im Rahmen eines bestimmten
-Projekts zur Sammlung und Auswertung von Informationen über konkrete
-rechtsextremistische Bestrebungen, die darauf gerichtet sind, Gewalt
-anzuwenden oder Gewaltanwendung vorzubereiten, oder zur Verfolgung
-gewaltbezogener rechtsextremistischer Straftaten im Einzelfall
-erforderlich ist, um weitere Zusammenhänge aufzuklären. Satz 1 gilt
-entsprechend für Projekte zur Verhinderung gewaltbezogener
-rechtsextremistischer Straftaten, soweit Tatsachen die Annahme
-rechtfertigen, dass eine solche Straftat begangen werden soll.
-Projekte zur Verfolgung oder Verhinderung von Straftaten nach Satz 1
-oder Satz 2 dürfen sich nur auf Straftaten nach den §§ 88 bis 89b, 91,
-102, 105, 106, 108, 125a bis 129a, 211, 212, 224, 226, 227, 239a,
-239b, 306 bis 306c, 308, 310 des Strafgesetzbuchs beziehen.
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts zur Sammlung und Auswertung von
+Informationen über eine konkrete rechtsextremistische Bestrebung, bei
+der bestimmte Tatsachen die Annahme rechtfertigen, dass sie darauf
+gerichtet ist, Gewalt anzuwenden oder Gewaltanwendung vorzubereiten
+und dadurch Gefahren für Leib, Leben oder Freiheit von Personen
+drohen, im Einzelfall erforderlich ist, um weitere Zusammenhänge des
+Einzelfalls aufzuklären.
 
-(2) Eine erweiterte Nutzung sind das Herstellen von Zusammenhängen
+(2) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
+gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts für die Verfolgung qualifizierter
+gewaltbezogener rechtsextremistischer Straftaten im Einzelfall
+erforderlich ist, um weitere Zusammenhänge des Einzelfalls
+aufzuklären. Qualifizierte gewaltbezogene rechtsextremistische
+Straftaten sind rechtsextremistische Taten, die einen Straftatbestand
+nach den §§ 88 bis 89b, 91, 102, 105, 106, 108, 125a bis 129a, 211,
+212, 224, 226, 227, 239a, 239b, 306 bis 306c, 308 und 310 des
+Strafgesetzbuchs erfüllen.
+
+(3) Eine beteiligte Behörde des Bundes darf zur Erfüllung ihrer
+gesetzlichen Aufgaben die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten
+erweitert nutzen, soweit dies im Rahmen eines bestimmten
+einzelfallbezogenen Projekts für die Verhinderung qualifizierter
+gewaltbezogener rechtsextremistischer Straftaten erforderlich ist, um
+weitere Zusammenhänge des Einzelfalls aufzuklären, und Tatsachen die
+Annahme rechtfertigen, dass eine solche Straftat begangen werden soll.
+Absatz 2 Satz 2 gilt entsprechend.
+
+(4) Ein Projekt ist eine gegenständlich abgrenzbare und auf bestimmte
+Zeiträume bezogene Aufgabe, der durch die Gefahr oder den drohenden
+Schaden, die am Sachverhalt beteiligten Personen, die Zielsetzung der
+Aufgabe oder deren Folgewirkungen eine besondere Bedeutung zukommt.
+
+(5) Eine erweiterte Nutzung sind das Herstellen von Zusammenhängen
 zwischen Personen, Personengruppierungen, Institutionen, Objekten und
 Sachen, der Ausschluss von unbedeutenden Informationen und
 Erkenntnissen, die Zuordnung eingehender Informationen zu bekannten
 Sachverhalten sowie die statistische Auswertung der gespeicherten
-Daten. Hierzu dürfen die beteiligten Behörden Daten auch mittels
+Daten. Hierzu dürfen die beteiligten Behörden des Bundes Daten auch
+mittels
 
 1.  phonetischer oder unvollständiger Daten,
 
@@ -430,38 +521,63 @@ zwischen Personen und Zusammenhänge zwischen Personen,
 Personengruppierungen, Institutionen, Objekten und Sachen darstellen
 sowie die Suchkriterien gewichten.
 
-(3) Die Zugriffsberechtigung ist im Rahmen der projektbezogenen
+(6) Die Zugriffsberechtigung ist im Rahmen der projektbezogenen
 erweiterten Nutzung auf die Personen zu beschränken, die unmittelbar
 mit Arbeiten auf diesem Anwendungsgebiet betraut sind. Die
 projektbezogene erweiterte Nutzung der Datei ist auf höchstens zwei
 Jahre zu befristen. Die Frist kann zweimalig um jeweils bis zu einem
-Jahr verlängert werden, wenn das Ziel der projektbezogenen erweiterten
-Nutzung bei Projektende noch nicht erreicht worden ist und diese
-weiterhin für die Erreichung des Ziels erforderlich ist.
+Jahr verlängert werden, wenn die Voraussetzungen für die
+projektbezogene erweiterte Datennutzung fortbestehen und sich aus den
+mit dem Projekt gewonnenen Erkenntnissen das Bedürfnis für eine
+Fortführung des Projekts ergibt.
 
-(4) Die projektbezogene erweiterte Nutzung darf nur auf Antrag
-angeordnet werden. Der Antrag ist durch den Behördenleiter oder seinen
+(7) Projektbezogene Datennutzungen dürfen nur auf Antrag angeordnet
+werden. Der Antrag ist durch den Behördenleiter oder seinen
 Stellvertreter schriftlich zu stellen und zu begründen. Er muss alle
 für die Anordnung erforderlichen Angaben enthalten. Zuständig für die
 Anordnung ist die die Fachaufsicht über die antragstellende Behörde
-führende oberste Bundes- oder Landesbehörde. Die Anordnung ergeht
-schriftlich. In ihr sind der Grund der Anordnung, die für die
-projektbezogene erweiterte Datennutzung erforderlichen Datenarten nach
-§ 3, der Funktionsumfang und die Dauer der projektbezogenen
-erweiterten Datennutzung anzugeben. Der Funktionsumfang der
-projektbezogenen erweiterten Datennutzung ist auf das zur Erreichung
-des Projektziels erforderliche Maß zu beschränken. Die Anordnung ist
-zu begründen. Aus der Begründung müssen sich die in den Absätzen 1 bis
-3 genannten Voraussetzungen ergeben, insbesondere, dass die
-projektbezogene erweiterte Nutzung erforderlich ist, um weitere
-Zusammenhänge aufzuklären. Die anordnende Behörde hält Antrag und
-Anordnung für datenschutzrechtliche Kontrollzwecke zwei Jahre,
-mindestens jedoch für die Dauer der projektbezogenen erweiterten
-Nutzung vor. Für Verlängerungen nach Absatz 3 Satz 3 gelten die Sätze
-1 bis 10 entsprechend.
+führende oberste Bundesbehörde. Die Anordnung ergeht schriftlich. In
+ihr sind der Grund der Anordnung, die für die projektbezogene
+erweiterte Datennutzung erforderlichen Datenarten nach § 3, der
+Funktionsumfang und die Dauer der projektbezogenen erweiterten
+Datennutzung anzugeben. Der Funktionsumfang der projektbezogenen
+erweiterten Datennutzung ist auf das zur Erreichung des Projektziels
+erforderliche Maß zu beschränken. Die Anordnung ist zu begründen. Aus
+der Begründung müssen sich die in den Absätzen 1 bis 3 genannten
+Voraussetzungen ergeben, insbesondere, dass die projektbezogene
+erweiterte Nutzung erforderlich ist, um weitere Zusammenhänge
+aufzuklären. Die anordnende Behörde hält Antrag und Anordnung für
+datenschutzrechtliche Kontrollzwecke zwei Jahre, mindestens jedoch für
+die Dauer der projektbezogenen erweiterten Nutzung vor.
 
-(5) § 6 Absatz 4 Satz 1 gilt für aus einem Projekt nach Absatz 1
-gewonnene Erkenntnisse entsprechend.
+(8) Eine nach Absatz 7 angeordnete erweiterte Nutzung darf nur mit
+Zustimmung der G 10-Kommission (§ 15 Absatz 1 bis 4 des Artikel
+10-Gesetzes) vollzogen werden. Bei Gefahr im Verzug kann die nach
+Absatz 7 Satz 4 zuständige Behörde den Vollzug auch bereits vor der
+Zustimmung der Kommission anordnen. Anordnungen, die die Kommission
+für unzulässig oder nicht notwendig erklärt, hat die nach Absatz 7
+Satz 4 zuständige Behörde unverzüglich aufzuheben. Die aus der
+erweiterten Datennutzung gewonnenen Daten und Erkenntnisse unterliegen
+in diesem Fall einem absoluten Verwendungsverbot und sind unverzüglich
+zu löschen.
+
+(9) Für Verlängerungen nach Absatz 6 Satz 3 gelten die Absätze 7 und 8
+entsprechend.
+
+(10) Die alleinige datenschutzrechtliche Verantwortung für die
+Durchführung des Projekts trägt die antragstellende Behörde. Die
+Übermittlung von aus einem Projekt gewonnenen Erkenntnissen richtet
+sich nach den allgemeinen Übermittlungsvorschriften. § 6 Absatz 4 Satz
+1 gilt für aus einem Projekt nach Absatz 1 gewonnene Erkenntnisse
+entsprechend.
+
+(11) Die nach § 1 Absatz 1 berechtigten Landesbehörden sind nach
+Maßgabe landesrechtlicher Regelungen, die den Vorgaben der Absätze 1
+bis 10 entsprechen, befugt, die in der Datei nach § 3 gespeicherten
+Datenarten mit Ausnahme der nach § 4 verdeckt gespeicherten Daten zu
+den in den Absätzen 1 bis 3 genannten Zwecken erweitert zu nutzen.
+Satz 1 gilt auch für Landesbehörden, die durch eine Rechtsverordnung
+nach § 1 Absatz 2 zur Teilnahme an der Datei berechtigt werden.
 
 
 ## § 8 Übermittlung von Erkenntnissen
@@ -504,22 +620,37 @@ soweit ihre Kenntnis für Zwecke der Datenschutzkontrolle, der
 Datensicherung, zur Sicherstellung eines ordnungsgemäßen Betriebs der
 Datenverarbeitungsanlage oder zum Nachweis der Kenntnisnahme bei
 Verschlusssachen erforderlich ist. Die ausschließlich für Zwecke nach
-Satz 1 gespeicherten Protokolldaten sind nach 18 Monaten zu löschen.
+Satz 1 gespeicherten Protokolldaten sind nach zwei Jahren zu löschen.
 
 (2) Das Bundeskriminalamt hat die nach § 9 des
 Bundesdatenschutzgesetzes erforderlichen technischen und
 organisatorischen Maßnahmen zu treffen.
+
+(3) Das Bundeskriminalamt berichtet dem Deutschen Bundestag alle drei
+Jahre, erstmalig zum 1. August 2017, über den Datenbestand und die
+Nutzung der Rechtsextremismus-Datei. Der Bericht ist zeitgleich mit
+der Zuleitung an den Deutschen Bundestag über den Internetauftritt des
+Bundeskriminalamts zu veröffentlichen.
 
 
 ## § 11 Datenschutzrechtliche Kontrolle, Auskunft an den Betroffenen
 
 (1) Die Kontrolle der Durchführung des Datenschutzes obliegt nach § 24
 Absatz 1 des Bundesdatenschutzgesetzes dem Bundesbeauftragten für den
-Datenschutz und die Informationsfreiheit. Die datenschutzrechtliche
-Kontrolle der Eingabe und der Abfrage von Daten durch eine
-Landesbehörde richtet sich nach dem Datenschutzgesetz des Landes.
+Datenschutz und die Informationsfreiheit. Die von den Ländern in die
+Rechtsextremismus-Datei eingegebenen Datensätze können auch von den
+jeweiligen Landesbeauftragten für den Datenschutz im Zusammenhang mit
+der Wahrnehmung ihrer Prüfungsaufgaben in den Ländern kontrolliert
+werden, soweit die Länder nach § 9 Absatz 1 verantwortlich sind. Der
+Bundesbeauftragte für den Datenschutz und die Informationsfreiheit
+arbeitet insoweit mit den Landesbeauftragten für den Datenschutz
+zusammen.
 
-(2) Über die nicht verdeckt gespeicherten Daten erteilt das
+(2) Die in Absatz 1 genannten Stellen sind im Rahmen ihrer jeweiligen
+Zuständigkeiten verpflichtet, mindestens alle zwei Jahre die
+Durchführung des Datenschutzes zu kontrollieren.
+
+(3) Über die nicht verdeckt gespeicherten Daten erteilt das
 Bundeskriminalamt die Auskunft nach § 19 des Bundesdatenschutzgesetzes
 im Einvernehmen mit der Behörde, die die datenschutzrechtliche
 Verantwortung nach § 9 Absatz 1 Satz 1 trägt und die Zulässigkeit der
@@ -603,9 +734,4 @@ Die Grundrechte des Brief-, Post- und Fernmeldegeheimnisses (Artikel
 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel
 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes
 eingeschränkt.
-
-
-## § 15 Außerkrafttreten
-
-§ 7 tritt am 31. Januar 2016 außer Kraft.
 

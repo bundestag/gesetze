@@ -332,7 +332,7 @@ Verbrauchsgüter gelten.
 Im Sinne der Vorschrift des § 4 Nr. 2 über die Abgrenzung der
 Instandhaltungskosten sind
 
-1.  bauliche Einheiten                    zum Beispiel
+1.  bauliche Einheiten zum Beispiel
 
     Dach
 
@@ -343,7 +343,7 @@ Instandhaltungskosten sind
     Treppenhaus,
 
 
-2.  Gebäudeteile                    zum Beispiel
+2.  Gebäudeteile zum Beispiel
 
     Anstrich
 
@@ -370,8 +370,7 @@ Instandhaltungskosten sind
     Türen,
 
 
-3.  betriebstechnische Anlagen und Einbauten                    zum
-    Beispiel
+3.  betriebstechnische Anlagen und Einbauten zum Beispiel
 
     Belüftungs-, Entlüftungs- und Klimaanlagen
 
@@ -394,7 +393,7 @@ Instandhaltungskosten sind
     Warmwasserversorgungsanlagen,
 
 
-4.  Außenanlagen                    zum Beispiel
+4.  Außenanlagen zum Beispiel
 
     Einfriedungen
 

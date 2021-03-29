@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2011, 1475
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 24 G v. 22.12.2011 I 3044
+:   Art. 11 Abs. 12 G v. 18.7.2017 I 2745
 
 [^F775521_01_BJNR147510011]:     Dieses Gesetz dient der Umsetzung der Richtlinie 2003/87/EG des
     Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
@@ -161,6 +161,15 @@ des Kalenderjahres durchführt, in dem die Voraussetzungen nach Satz 3
 erstmals erfüllt sind, fallen in den Anwendungsbereich dieses
 Gesetzes.
 
+(7) Dieses Gesetz gilt auch für Aufgaben im Zusammenhang mit der
+Bewilligung von Beihilfen zur Kompensation indirekter CO
+2-Kosten, soweit solche Beihilfen nach einer Förderrichtlinie nach
+Artikel 10a Absatz 6 der Richtlinie 2003/87/EG vorgesehen sind.
+
+(8) Dieses Gesetz gilt auch für Aufgaben im Zusammenhang mit der
+Überwachung und der Ahndung von Verstößen gegen die Überwachungs- und
+Berichterstattungspflichten der MRV-Seeverkehrsverordnung.
+
 
 ### § 3 Begriffsbestimmungen
 
@@ -243,39 +252,54 @@ Für dieses Gesetz gelten die folgenden Begriffsbestimmungen:
     S. 63) geändert worden ist, in der jeweils geltenden Fassung;
 
 
-11. Produktionsleistung
+11. MRV-Seeverkehrsverordnung
+
+    die Verordnung (EU) 2015/757 des Europäischen Parlaments und des Rates
+    vom 29. April 2015 über die Überwachung von Kohlendioxidemissionen aus
+    dem Seeverkehr, die Berichterstattung darüber und die Prüfung dieser
+    Emissionen und zur Änderung der Richtlinie 2009/16/EG (ABl. L 123 vom
+    19\.5.2015, S. 55);
+
+
+12. Polymerisationsanlage
+
+    eine Anlage, in der eine Tätigkeit nach Anhang 1 Teil 2 Nummer 27
+    Buchstabe b durchgeführt wird;
+
+
+13. Produktionsleistung
 
     die tatsächlich und rechtlich maximal mögliche Produktionsmenge pro
     Jahr;
 
 
-12. Tätigkeit
+14. Tätigkeit
 
     eine in Anhang 1 Teil 2 genannte Tätigkeit;
 
 
-13. Transportleistung
+15. Transportleistung
 
     das Produkt aus Flugstrecke und Nutzlast;
 
 
-14. Treibhausgase
+16. Treibhausgase
 
     Kohlendioxid (CO
-    2                   ), Methan (CH
-    4                   ), Distickstoffoxid (N
-    2                   O), teilfluorierte Kohlenwasserstoffe (HFKW),
-    perfluorierte Kohlenwasserstoffe (PFC) und Schwefelhexafluorid (SF
-    6                   );
+    2), Methan (CH
+    4), Distickstoffoxid (N
+    2O), teilfluorierte Kohlenwasserstoffe (HFKW), perfluorierte
+    Kohlenwasserstoffe (PFC) und Schwefelhexafluorid (SF
+    6);
 
 
-15. Überwachungsplan
+17. Überwachungsplan
 
     eine Darstellung der Methode, die ein Betreiber anwendet, um seine
     Emissionen zu ermitteln und darüber Bericht zu erstatten;
 
 
-16. zertifizierte Emissionsreduktion
+18. zertifizierte Emissionsreduktion
 
     eine Einheit im Sinne des § 2 Nummer 21 des Projekt-Mechanismen-
     Gesetzes.
@@ -371,8 +395,7 @@ und der zuständigen Behörde bis zum 31. März des Folgejahres über die
 Emissionen zu berichten.
 
 (2) Die Angaben im Emissionsbericht nach Absatz 1 müssen von einer
-sachverständigen Stelle, die nach § 21 durch die zuständige Behörde
-bekannt gegeben worden ist, nach Anhang 3 verifiziert worden sein.
+Prüfstelle nach § 21 verifiziert worden sein.
 
 
 ### § 6 Überwachungsplan
@@ -469,9 +492,7 @@ Emissionshandelsregister eingetragen ist, gilt der Inhalt des
 Registers als richtig. Dies gilt nicht für den Empfänger ausgegebener
 Berechtigungen, wenn ihm die Unrichtigkeit bei Ausgabe bekannt ist.
 
-(5) Berechtigungen sind keine Finanzinstrumente im Sinne des § 1
-Absatz 11 des Kreditwesengesetzes oder des § 2 Absatz 2b des
-Wertpapierhandelsgesetzes.
+(5) (weggefallen)
 
 
 ### § 8 Versteigerung von Berechtigungen
@@ -488,10 +509,10 @@ ein System für den Handel mit Treibhausgasemissionszertifikaten in der
 Gemeinschaft (ABl. L 302 vom 18.11.2010, S. 1) in der jeweils
 geltenden Fassung.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit beauftragt im Einvernehmen mit dem Bundesministerium
-der Finanzen und dem Bundesministerium für Wirtschaft und Technologie
-eine geeignete Stelle mit der Durchführung der Versteigerung.
+der Finanzen und dem Bundesministerium für Wirtschaft und Energie eine
+geeignete Stelle mit der Durchführung der Versteigerung.
 
 (3) Die Erlöse aus der Versteigerung der Berechtigungen nach Absatz 1
 stehen dem Bund zu. Die Kosten, die dem Bund durch die Wahrnehmung der
@@ -500,36 +521,14 @@ nicht durch Gebühren nach § 22 gedeckt sind, werden aus den Erlösen
 nach Satz 1 gedeckt.
 
 (4) Zur Gebotseinstellung auf eigene Rechnung oder im Namen der Kunden
-ihres Hauptgeschäftes bedürfen die in § 2a Absatz 1 Nummer 9 des
+ihres Hauptgeschäftes bedürfen die in § 3 Absatz 1 Nummer 8 des
 Wertpapierhandelsgesetzes genannten Unternehmen einer Erlaubnis der
-Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt). Für
-Berechtigungen, die nicht in Form eines Finanzinstruments gemäß
-Artikel 38 Absatz 3 der Verordnung (EG) Nr. 1287/2006 der Kommission
-vom 10. August 2006 zur Durchführung der Richtlinie 2004/39/EG des
-Europäischen Parlaments und des Rates betreffend die
-Aufzeichnungspflichten für Wertpapierfirmen, die Meldung von
-Geschäften, die Markttransparenz, die Zulassung von Finanzinstrumenten
-zum Handel und bestimmte Begriffe im Sinne dieser Richtlinie (ABl. L
-241 vom 2.9.2006, S. 1) versteigert werden, bedürfen zur
-Gebotseinstellung im Namen der Kunden ihres Hauptgeschäftes auch
-
-1.  Institute im Sinne des § 1 Absatz 1b des Kreditwesengesetzes, denen
-    eine Erlaubnis nach § 32 des Kreditwesengesetzes erteilt worden ist,
-    und
-
-
-2.  nach § 53 Absatz 1 Satz 1 des Kreditwesengesetzes tätige Unternehmen,
-    denen eine Erlaubnis nach § 32 des Kreditwesengesetzes erteilt worden
-    ist,
-
-
-
-einer Erlaubnis der Bundesanstalt. Die Erlaubnis wird erteilt, sofern
-das Unternehmen die Bedingungen des Artikels 59 Absatz 5 der
-Verordnung (EU) Nr. 1031/2010 erfüllt. Die Bundesanstalt kann die
-Erlaubnis außer nach den Vorschriften des
+Bundesanstalt für Finanzdienstleistungsaufsicht (Bundesanstalt). Die
+Erlaubnis wird erteilt, sofern das Unternehmen die Bedingungen des
+Artikels 59 Absatz 5 der Verordnung (EU) Nr. 1031/2010 erfüllt. Die
+Bundesanstalt kann die Erlaubnis außer nach den Vorschriften des
 Verwaltungsverfahrensgesetzes aufheben, wenn ihr Tatsachen bekannt
-werden, welche eine Erteilung der Erlaubnis nach Satz 3 ausschließen
+werden, welche eine Erteilung der Erlaubnis nach Satz 2 ausschließen
 würden.
 
 
@@ -554,9 +553,8 @@ Bei verspätetem Antrag besteht kein Anspruch auf kostenlose Zuteilung.
 Dem Antrag sind die zur Prüfung des Anspruchs erforderlichen
 Unterlagen beizufügen. Soweit in der Verordnung nach § 10 nichts
 anderes bestimmt ist, müssen die tatsächlichen Angaben im
-Zuteilungsantrag von einer sachverständigen Stelle, die nach § 21
-durch die zuständige Behörde bekannt gegeben worden ist, verifiziert
-worden sein.
+Zuteilungsantrag von einer Prüfstelle nach § 21 verifiziert worden
+sein.
 
 (3) Die zuständige Behörde berechnet die vorläufigen Zuteilungsmengen,
 veröffentlicht eine Liste aller unter den Anwendungsbereich dieses
@@ -651,18 +649,15 @@ Bundesregierung insbesondere regeln:
     a)  erforderlichen Angaben und
 
 
-    b)  erforderlichen Unterlagen sowie die Art der beizubringenden Nachweise,
+    b)  erforderlichen Unterlagen sowie die Art der beizubringenden Nachweise
+        und
 
 
 
 
 
 12. Anforderungen an die Verifizierung von Zuteilungsanträgen nach § 9
-    Absatz 2 Satz 5 sowie Ausnahmen von der Verifizierungspflicht und
-
-
-13. die Voraussetzungen und das Verfahren der Bekanntgabe der
-    sachverständigen Stelle durch die zuständige Behörde.
+    Absatz 2 Satz 5 sowie Ausnahmen von der Verifizierungspflicht.
 
 
 
@@ -707,10 +702,10 @@ gilt dieser Bericht als Antrag auf Zuteilung für die Handelsperiode
 Luftfahrzeugbetreiber dem nicht innerhalb eines Monats nach
 Inkrafttreten dieses Gesetzes widerspricht. Im Fall des Widerspruchs
 besteht kein Anspruch auf kostenlose Zuteilung nach Absatz 1. Die
-Angaben zur Transportleistung sind entsprechend § 5 Absatz 2 zu
-verifizieren. Dies gilt nicht, soweit ein Bericht über Flugstrecke und
-Nutzlast bereits nach § 11 der Datenerhebungsverordnung 2020 geprüft
-worden ist.
+Angaben zur Transportleistung müssen von einer Prüfstelle nach § 21
+verifiziert worden sein. Dies gilt nicht, soweit ein Bericht über
+Flugstrecke und Nutzlast bereits nach § 11 der
+Datenerhebungsverordnung 2020 geprüft worden ist.
 
 (5) Die zuständige Behörde übermittelt die Anträge spätestens 18
 Monate vor Beginn der Handelsperiode an die Europäische Kommission.
@@ -813,7 +808,7 @@ Angaben enthalten:
 
 Die zuständige Behörde übermittelt die Anträge spätestens sechs Monate
 nach Ablauf der Frist nach Absatz 1 Satz 1 an die Europäische
-Kommission. § 5 Absatz 2 und § 11 Absatz 5 Satz 2 und 3 gelten
+Kommission. § 11 Absatz 4 Satz 4 und Absatz 5 Satz 2 und 3 gelten
 entsprechend.
 
 (3) In dem Antrag nach Absatz 1 Satz 1 ist die nach den Anforderungen
@@ -871,7 +866,7 @@ Union in Anwendung der Richtlinie 2003/87/EG für die laufende
 Handelsperiode ausgegeben worden sind, stehen Berechtigungen gleich,
 die in der Bundesrepublik Deutschland ausgegeben worden sind.
 
-(2) Die Vorschriften über Berechtigungen nach § 7 Absatz 3 bis 5 und §
+(2) Die Vorschriften über Berechtigungen nach § 7 Absatz 3 und 4 und §
 17 gelten für Emissionsreduktionseinheiten, zertifizierte
 Emissionsreduktionen und Emissionsgutschriften, die in einer
 Rechtsverordnung nach § 28 Absatz 1 Nummer 3 anerkannt sind,
@@ -960,6 +955,12 @@ auch in der Handelsperiode 2008 bis 2012 genutzt werden durften.
     Landesrecht für den Vollzug des § 4 zuständige Behörde,
 
 
+1a. für den Vollzug des § 2 Absatz 8 im Rahmen der Hafenstaatkontrolle die
+    Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+    Telekommunikation; hiervon ausgenommen sind die Aufgaben der
+    Bußgeldbehörde,
+
+
 2.  für den Vollzug des § 31 Absatz 2 im Fall eines gewerblichen
     Luftfahrzeugbetreibers das Luftfahrt-Bundesamt,
 
@@ -970,11 +971,33 @@ auch in der Handelsperiode 2008 bis 2012 genutzt werden durften.
 
 
 (2) Ist für Streitigkeiten nach diesem Gesetz der Verwaltungsrechtsweg
-gegeben, so ist bei Anfechtungsklagen gegen Verwaltungsakte des
-Umweltbundesamtes das Gericht örtlich zuständig, in dessen Bezirk der
-Verwaltungsakt erlassen wurde. Satz 1 gilt entsprechend für
-Verpflichtungsklagen sowie für Klagen auf Feststellung der Nichtigkeit
-von Verwaltungsakten.
+gegeben, ist für Klagen, die sich gegen eine Handlung oder
+Unterlassung des Umweltbundesamtes richten, das Verwaltungsgericht am
+Sitz der Deutschen Emissionshandelsstelle im Umweltbundesamt örtlich
+zuständig.
+
+(3) Soweit die nach Absatz 1 Nummer 3 zuständige Behörde Aufgaben nach
+§ 2 Absatz 7 wahrnimmt, unterliegt sie der gemeinsamen Fachaufsicht
+durch das Bundesministerium für Wirtschaft und Energie und das
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
+
+(4) Die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation überprüft im Rahmen der Hafenstaatkontrolle nach § 6
+Absatz 1 des Seeaufgabengesetzes in der Fassung der Bekanntmachung vom
+17\. Juni 2016 (BGBl. I S. 1489), das zuletzt durch Artikel 21 des
+Gesetzes vom 13. Oktober 2016 (BGBl. I S. 2258) geändert worden ist,
+in Verbindung mit § 12 der Schiffssicherheitsverordnung vom 18.
+September 1998 (BGBl. I S. 3013, 3023), die zuletzt durch Artikel 177
+des Gesetzes vom 29. März 2017 (BGBl. I S. 626) geändert worden ist,
+auch, ob eine gültige Konformitätsbescheinigung nach Artikel 18 der
+MRV-Seeverkehrsverordnung an Bord mitgeführt wird. Zu diesem Zweck
+kann sie in den Betriebsräumen des Schiffes zu den üblichen Betriebs-
+und Geschäftszeiten Kontrollen durchführen. Stellt die
+Berufsgenossenschaft Verkehrswirtschaft Post-Logistik
+Telekommunikation fest, dass eine gültige Konformitätsbescheinigung
+nach Satz 1 fehlt, meldet sie dies an die nach Nummer 3 zuständige
+Behörde zur Prüfung, ob ein Verstoß gegen § 32 Absatz 3a vorliegt. §
+9e des Seeaufgabengesetzes ist in diesem Fall entsprechend anzuwenden.
 
 
 ### § 20 Überwachung
@@ -1008,54 +1031,51 @@ sowie Hilfsmittel bereitzustellen.
 Strafprozessordnung entsprechend.
 
 
-### § 21 Sachverständige Stellen
+### § 21 Prüfstellen
 
-(1) Die Bekanntgabe als sachverständige Stelle mit Geltung für das
-gesamte Bundesgebiet erfolgt durch die zuständige Behörde auf Antrag,
-sofern der Antragsteller die Anforderungen nach Anhang 4 sowie die
-Anforderungen der Verordnung der Europäischen Kommission nach Artikel
-15 Absatz 3 und 4 der Richtlinie 2003/87/EG erfüllt.
+(1) Zur Prüfung von Emissionsberichten nach § 5 Absatz 2 und zur
+Prüfung von Zuteilungsanträgen nach § 9 Absatz 2 Satz 6, § 11 Absatz 4
+Satz 4 und § 13 Absatz 2 Satz 4 sind berechtigt:
 
-(2) Vorbehaltlich weitergehender Anforderungen an die Akkreditierung
-und Bekanntgabe von sachverständigen Stellen in der Verordnung der
-Europäischen Kommission nach Artikel 15 Absatz 3 und 4 der Richtlinie
-2003/87/EG werden folgende Personen oder Organisationen ohne weitere
-Prüfung auf Antrag bekannt gegeben:
-
-1.  unabhängige Umweltgutachter oder Umweltgutachterorganisationen, die
-    nach dem Umweltauditgesetz tätig werden dürfen und für ihren
-    jeweiligen Zulassungsbereich zur Prüfung von Erklärungen der Betreiber
-    berechtigt sind, und
+1.  akkreditierte Prüfstellen nach der Verordnung (EU) Nr. 600/2012 der
+    Kommission vom 21. Juni 2012 über die Prüfung von
+    Treibhausgasemissionsberichten und Tonnenkilometerberichten sowie die
+    Akkreditierung von Prüfstellen gemäß der Richtlinie 2003/87/EG des
+    Europäischen Parlaments und des Rates (ABl. L 181 vom 12.7.2012, S. 1)
+    in der jeweils geltenden Fassung,
 
 
-2.  Personen, die nach § 36 Absatz 1 der Gewerbeordnung zur Prüfung von
-    Emissionsberichten öffentlich als Sachverständige bestellt worden
+2.  zertifizierte Prüfstellen, die durch die auf Grundlage des § 28 Absatz
+    4 Satz 1 Nummer 1 beliehene Zulassungsstelle oder durch die
+    entsprechende nationale Behörde eines anderen Mitgliedstaates nach
+    Artikel 54 Absatz 2 der Verordnung (EU) Nr. 600/2012 zertifiziert
     sind.
 
 
 
 
-(3) Weiterhin werden Personen, die entsprechend den vergleichbaren
-Vorgaben eines anderen Mitgliedstaats zur Prüfung von
-Emissionsberichten im gemeinschaftsweiten Emissionshandelssystem
-bestellt worden sind und die die erforderlichen Sprach- und
-Rechtskenntnisse besitzen, als sachverständige Stelle bekannt gegeben.
-Die Behörde kann verlangen, dass Kopien von Nachweisen beglaubigt
-werden. Sie kann darüber hinaus verlangen, dass für Nachweise in einer
-fremden Sprache eine beglaubigte deutsche Übersetzung vorgelegt wird.
+(2) Die Prüfstelle hat die Prüfung von Emissionsberichten nach § 5
+Absatz 2 sowie die Prüfung von Zuteilungsanträgen nach § 11 Absatz 4
+Satz 4 und § 13 Absatz 2 Satz 4 nach den Vorgaben der Verordnung (EU)
+Nr. 600/2012 in der jeweils geltenden Fassung und der Rechtsverordnung
+nach § 28 Absatz 2 Nummer 1 durchzuführen. Die Prüfstelle hat
+Zuteilungsanträge von Anlagenbetreibern nach den Anforderungen der
+Rechtsverordnung nach § 10 zu prüfen.
 
-(4) Über den Antrag ist innerhalb einer Frist von drei Monaten zu
-entscheiden. § 42a Absatz 2 Satz 2 bis 4 des
-Verwaltungsverfahrensgesetzes ist anzuwenden.
+(3) Die Prüfstelle nimmt die ihr nach Absatz 2 zugewiesenen Aufgaben
+nur im öffentlichen Interesse wahr.
 
 
-### § 22 Gebühren für Amtshandlungen von Bundesbehörden
+### § 22 Gebühren für individuell zurechenbare öffentliche Leistungen von Bundesbehörden
 
 (1) Für die Verwaltung eines Personen- oder Händlerkontos in dem
 Emissionshandelsregister erhebt die zuständige Behörde von dem
 Kontoinhaber eine Gebühr von 400 Euro pro Handelsperiode.
 
-(2) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz
+(2) Für Amtshandlungen der Zulassungsstelle nach § 28 Absatz 4 Satz 1
+Nummer 1 werden Gebühren und Auslagen erhoben.
+
+(3) Wird ein Widerspruch gegen Entscheidungen nach diesem Gesetz
 vollständig oder teilweise zurückgewiesen, mit Ausnahme des
 Widerspruchs gegen Entscheidungen nach § 4, beträgt die Gebühr
 entsprechend dem entstandenen Verwaltungsaufwand 50 bis 2 000 Euro.
@@ -1066,26 +1086,24 @@ Widerspruch nach Beginn der sachlichen Bearbeitung jedoch vor deren
 Beendigung zurückgenommen, ermäßigt sich die Gebühr um mindestens 25
 Prozent.
 
-(3) Die Befugnis der Länder zur Erhebung von Gebühren und Auslagen für
+(4) Die Befugnis der Länder zur Erhebung von Gebühren und Auslagen für
 Amtshandlungen nach § 4 bleibt unberührt.
 
 
 ### § 23 Elektronische Kommunikation
 
-Die zuständige Behörde kann für die in Satz 3 genannten Dokumente, für
-die Bekanntgabe von Entscheidungen und für die sonstige Kommunikation
-die Verwendung der Schriftform oder der elektronischen Form
-vorschreiben. Wird die elektronische Form vorgeschrieben, kann die
-zuständige Behörde eine bestimmte Verschlüsselung sowie die Eröffnung
-eines Zugangs für die Übermittlung elektronischer Dokumente
+(1) Die zuständige Behörde kann für die in Satz 3 genannten Dokumente,
+für die Bekanntgabe von Entscheidungen und für die sonstige
+Kommunikation die Verwendung der Schriftform oder der elektronischen
+Form vorschreiben. Wird die elektronische Form vorgeschrieben, kann
+die zuständige Behörde eine bestimmte Verschlüsselung sowie die
+Eröffnung eines Zugangs für die Übermittlung elektronischer Dokumente
 vorschreiben. Die zuständige Behörde kann auch vorschreiben, dass
-Betreiber zur Erstellung von Überwachungsplänen oder Berichten oder
-zur Stellung von Anträgen nur die auf ihrer Internetseite zur
-Verfügung gestellten elektronischen Formularvorlagen zu benutzen und
-die ausgefüllten Formularvorlagen in elektronischer Form sowie unter
-Verwendung einer qualifizierten Signatur nach dem Signaturgesetz vom
-16\. Mai 2001 (BGBl. I S. 876), das zuletzt durch Artikel 4 des
-Gesetzes vom 17. Juli 2009 (BGBl. I S. 2091) geändert worden ist, zu
+Betreiber oder Prüfstellen zur Erstellung von Überwachungsplänen oder
+Berichten oder zur Stellung von Anträgen nur die auf ihrer
+Internetseite zur Verfügung gestellten elektronischen Formularvorlagen
+zu benutzen und die ausgefüllten Formularvorlagen in elektronischer
+Form sowie unter Verwendung einer qualifizierten Signatur zu
 übermitteln haben. Wenn die Benutzung elektronischer Formatvorlagen
 vorgeschrieben ist, ist die Übermittlung zusätzlicher Dokumente als
 Ergänzung der Formatvorlagen unter Beachtung der Formvorschriften des
@@ -1093,6 +1111,9 @@ Satzes 3 möglich. Soweit das Umweltbundesamt zuständige Behörde ist,
 werden Anordnungen nach den Sätzen 1 bis 3 im Bundesanzeiger bekannt
 gemacht; im Übrigen werden sie im amtlichen Veröffentlichungsblatt der
 zuständigen Behörde bekannt gemacht.
+
+(2) Für Verfahren zur Bewilligung von Beihilfen im Sinne von § 2
+Absatz 7 gilt Absatz 1 entsprechend.
 
 
 ### § 24 Einheitliche Anlage
@@ -1118,7 +1139,11 @@ ursprünglichen Betreibers nach den §§ 5 und 7.
 (2) Ein Wechsel des Betreibers im Verlauf der Handelsperiode lässt die
 Zuteilungsentscheidung unberührt. Noch nicht ausgegebene
 Berechtigungen werden ab dem Nachweis des Betreiberwechsels an den
-neuen Betreiber ausgegeben, soweit er die Tätigkeit übernommen hat.
+neuen Betreiber ausgegeben, soweit er die Tätigkeit übernommen hat. Im
+Falle der Aufteilung einer Anlage teilt die zuständige Behörde die in
+der ursprünglichen Zuteilungsentscheidung ausgewiesene Zuteilungsmenge
+auf die aus der Aufteilung hervorgehenden Anlagen in dem Verhältnis
+auf, in dem sie die Tätigkeit der Anlage übernommen haben.
 
 
 ### § 26 Ausschluss der aufschiebenden Wirkung
@@ -1323,25 +1348,27 @@ nicht der Zustimmung des Bundesrates bedarf,
 
 
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung, die nicht
-der Zustimmung des Bundesrates bedarf,
+der Zustimmung des Bundesrates bedarf, zu regeln:
 
 1.  Einzelheiten zur Ermittlung von und Berichterstattung über Emissionen
-    nach § 5 Absatz 1 sowie zur Verifizierung nach § 5 Absatz 2 zu regeln,
-    soweit diese Sachverhalte nicht den Vollzug des § 4 betreffen und
-    weder in der Monitoring-Verordnung noch der Verordnung der
-    Europäischen Kommission nach Artikel 15 Absatz 3 und 4 der Richtlinie
-    2003/87/EG abschließend geregelt sind;
+    nach § 5 Absatz 1, zur Verifizierung der Angaben in Emissionsberichten
+    nach § 5 Absatz 2 und zur Verifizierung der Angaben zur
+    Transportleistung in Anträgen nach § 11 Absatz 4 Satz 4 und § 13
+    Absatz 2 Satz 4, soweit diese Sachverhalte nicht den Vollzug des § 4
+    betreffen und nicht in der Monitoring-Verordnung oder in der
+    Verordnung (EU) Nr. 600/2012 in ihrer jeweils geltenden Fassung
+    abschließend geregelt sind;
 
 
-2.  im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-    Technologie Einzelheiten zur Überführung von Berechtigungen, die von
-    Drittländern ausgegeben werden, nach § 16 Absatz 3 zu regeln;
+2.  im Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
+    Einzelheiten zur Überführung von Berechtigungen, die von Drittländern
+    ausgegeben werden, nach § 16 Absatz 3 und
 
 
 3.  Einzelheiten zur Einrichtung und Führung eines
-    Emissionshandelsregisters nach § 17 zu regeln, insbesondere die in der
+    Emissionshandelsregisters nach § 17, insbesondere die in der
     Verordnung nach Artikel 19 Absatz 3 der Richtlinie 2003/87/EG
     aufgeführten Sachverhalte zur ergänzenden Regelung durch die
     Mitgliedstaaten.
@@ -1349,7 +1376,7 @@ der Zustimmung des Bundesrates bedarf,
 
 
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, eine juristische Person des
 Privatrechts mit der Wahrnehmung aller oder eines Teils der Aufgaben
@@ -1378,6 +1405,38 @@ juristische Person bietet Gewähr im Sinne des Satzes 1, wenn
 
 
 Die Beliehene untersteht der Aufsicht des Umweltbundesamtes.
+
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung, die nicht
+der Zustimmung des Bundesrates bedarf,
+
+1.  eine juristische Person mit den Aufgaben und Befugnissen einer
+    Zulassungsstelle für Prüfstellen zu beleihen;
+
+
+2.  Anforderungen an die Zulassungsstelle und den Informationsaustausch
+    mit der zuständigen Behörde nach § 19 Absatz 1 Nummer 3 sowie mit den
+    für den Emissionshandel zuständigen Behörden anderer Mitgliedstaaten
+    zu regeln;
+
+
+3.  Einzelheiten zum Zertifizierungsverfahren, insbesondere zu
+    Anforderungen an die zu zertifizierenden Prüfstellen nach § 21 und zu
+    deren Aufgaben und Pflichten, sowie zur Aufsicht über die Prüfstellen
+    zu regeln;
+
+
+4.  die Erhebung von Gebühren und Auslagen für Amtshandlungen der
+    Zulassungsstelle zu regeln.
+
+
+
+Die Beleihung nach Satz 1 Nummer 1 ist nur zulässig, wenn die zu
+beleihende juristische Person die Gewähr für die ordnungsgemäße
+Erfüllung der Aufgaben der Zulassungsstelle im Einklang mit den
+Anforderungen der Verordnung (EU) Nr. 600/2012 in ihrer jeweils
+geltenden Fassung bietet; die Beliehene untersteht der Aufsicht des
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 
 ## Abschnitt 5 - Sanktionen
@@ -1528,9 +1587,19 @@ fahrlässig begeht.
 
 
 
+(3a) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen
+Artikel 11 Absatz 1 der Verordnung (EU) 2015/757 des Europäischen
+Parlaments und des Rates vom 29. April 2015 über die Überwachung von
+Kohlendioxidemissionen aus dem Seeverkehr, die Berichterstattung
+darüber und die Prüfung dieser Emissionen und zur Änderung der
+Richtlinie 2009/16/EG (ABl. L 123 vom 19.5.2015, S. 55) einen
+Emissionsbericht zu den CO
+2-Emissionen nicht oder nicht rechtzeitig vorlegt.
+
 (4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 1 mit einer
 Geldbuße bis zu fünfhunderttausend Euro und in den Fällen der Absätze
-2 und 3 mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
+2 bis 3a mit einer Geldbuße bis zu fünfzigtausend Euro geahndet
+werden.
 
 (5) Die zuständige Behörde soll in den Fällen des Absatzes 1 Nummer 1
 von einer Ahndung absehen, wenn der Betreiber infolge des nicht
@@ -1554,10 +1623,18 @@ auf Emissionen aus der Handelsperiode 2008 bis 2012 beziehen, fort.
 
 (3) § 22 Absatz 1 gilt für die Erhebung von Gebühren für die
 Verwaltung von Konten ab der Handelsperiode 2013 bis 2020. § 22 Absatz
-1 des Treibhausgas- Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I
+1 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I
 S. 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, gilt für Gebührentatbestände,
 die bis Ende des Jahres 2012 erfüllt sind.
+
+(4) Abweichend von § 9 Absatz 2 Satz 6 und § 21 können
+Anlagenbetreiber vor dem 1. Januar 2014 bei der zuständigen Behörde
+Zuteilungsanträge für Neuanlagen und Kapazitätserweiterungen auch mit
+einer Verifizierung durch eine sachverständige Stelle einreichen,
+soweit diese sachverständige Stelle nach § 21 des Treibhausgas-
+Emissionshandelsgesetzes in seiner bis zum 19. Juli 2013 geltenden
+Fassung bekannt gegeben wurde.
 
 
 ### § 34 Übergangsregelung für Anlagenbetreiber
@@ -1634,7 +1711,70 @@ nach § 11 mit Ausnahme der Zuteilungsentscheidung nach § 11 Absatz 6
 anwendbar.
 
 
-### Anhang 1 (zu § 1, § 2 Absatz 1 bis 3 Satz 1, Absatz 4 Satz 1, Absatz 5 Nummer 3, § 3 Absatz 1 Nummer 2, 5, 9 und 12, § 4 Absatz 1 Satz 1, § 7 Absatz 2 Satz 1 Nummer 1, § 24, § 27 Absatz 1 Satz 2 und § 28 Absatz 1 Nummer 4) Einbezogene Tätigkeiten und Treibhausgase
+### § 36 Übergangsregelung zur Einbeziehung von Polymerisationsanlagen
+
+(1) Auf Betreiber von Polymerisationsanlagen sind die Pflichten nach
+den §§ 4, 5 und 7 erst ab dem 1. Januar 2018 anzuwenden; soweit sich
+diese Vorschriften auf Emissionen beziehen, sind sie für
+Treibhausgase, die ab diesem Datum freigesetzt werden, anzuwenden. Die
+§§ 9 und 14 sind in der Handelsperiode 2013 bis 2020 nur auf die Jahre
+2018 bis 2020 anzuwenden.
+
+(2) Abweichend von Anhang 2 Teil 1 Nummer 1 Buchstabe a und b gelten
+für die Einreichung eines Überwachungsplans nach § 6 Absatz 1 Satz 1
+folgende Fristen:
+
+1.  Betreiber von Polymerisationsanlagen, die vor dem 31. Oktober 2017 in
+    Betrieb genommen wurden, müssen den Überwachungsplan bis zu diesem
+    Datum vorlegen;
+
+
+2.  Betreiber von Polymerisationsanlagen, die nach dem 31. Oktober 2017 in
+    Betrieb genommen werden, müssen den Überwachungsplan vor
+    Inbetriebnahme der Anlage vorlegen.
+
+
+
+
+(3) Soweit ein Anspruch auf Zuteilung von kostenlosen Berechtigungen
+nach § 9 Absatz 1 besteht, der nach dem Treibhausgas-
+Emissionshandelsgesetz in seiner bis zum 19. Juli 2017 geltenden
+Fassung noch nicht bestanden hat, ist der Antrag auf Zuteilung von
+kostenlosen Berechtigungen für die Jahre 2018 bis 2020 abweichend von
+§ 9 Absatz 2 Satz 2 bis zum 31. Oktober 2017 zu stellen.
+
+(4) Für Anlagen, die Wärme oder Restgas mit Polymerisationsanlagen
+austauschen, wird die vorläufige Zuteilungsmenge für die
+Handelsperiode 2013 bis 2020 nach Maßgabe von Satz 2 neu berechnet.
+Für die Berechnung der vorläufigen Zuteilungsmenge nach den Vorgaben
+der Rechtsverordnung nach § 10 für die Jahre 2013 bis 2017 gilt die
+Polymerisationsanlage in der gesamten Handelsperiode 2013 bis 2020 als
+nicht vom Anwendungsbereich dieses Gesetzes erfasst, für die Jahre
+2018 bis 2020 gilt die Polymerisationsanlage hingegen in der gesamten
+Handelsperiode 2013 bis 2020 als vom Anwendungsbereich dieses Gesetzes
+erfasst. Soweit die Neuberechnung der vorläufigen Zuteilungsmenge von
+der Berechnung in der ursprünglichen Zuteilungsentscheidung für die
+Handelsperiode 2013 bis 2020 abweicht, wird die Zuteilung von Amts
+wegen um die Differenzmenge angepasst. Sofern eine
+Polymerisationsanlage bereits vor dem 1. Januar 2018 aufgrund einer
+anderen Tätigkeit als der Herstellung von Polymeren vom
+Anwendungsbereich dieses Gesetzes erfasst war, wird die Zuteilung für
+die Jahre 2018 bis 2020 ebenfalls von Amts wegen nach Maßgabe der
+Sätze 1 bis 3 angepasst.
+
+(5) Soweit für Polymerisationsanlagen § 18 Absatz 2 Nummer 2
+einschlägig ist, sind anstelle der Emissionen in der Handelsperiode
+2013 bis 2020 die Emissionen in den Jahren 2018 bis 2020 maßgeblich.
+
+(6) § 27 ist für Polymerisationsanlagen für die Jahre 2018 bis 2020
+nicht anzuwenden.
+
+(zu § 1, § 2 Absatz 1 bis 3 Satz 1, Absatz 4 Satz 1,
+Absatz 5 Nummer 3, § 3 Nummer 2, 5, 9 und 12,
+§ 4 Absatz 1 Satz 1, § 7 Absatz 2 Satz 1 Nummer 1,
+§ 24, § 27 Absatz 1 Satz 2 und § 28 Absatz 1 Nummer 4)
+
+### Anhang 1 Einbezogene Tätigkeiten und Treibhausgase
 
 (Fundstelle: BGBl. I 2011, 1488 - 1491)
 
@@ -1839,7 +1979,7 @@ Teil 2
     *   Anlagen zur Herstellung von Primäraluminium
 
     *   CO
-        2                     ,
+        2,
         PFC
 
 
@@ -1947,9 +2087,9 @@ Teil 2
     *   Anlagen zur Herstellung von Salpetersäure
 
     *   CO
-        2                     ,
+        2,
         N
-        2                     O
+        2O
 
 
 *    *   24
@@ -1957,9 +2097,9 @@ Teil 2
     *   Anlagen zur Herstellung von Adipinsäure
 
     *   CO
-        2                     ,
+        2,
         N
-        2                     O
+        2O
 
 
 *    *   25
@@ -1967,9 +2107,9 @@ Teil 2
     *   Anlagen zur Herstellung von Glyoxal oder Glyoxylsäure
 
     *   CO
-        2                     ,
+        2,
         N
-        2                     O
+        2O
 
 
 *    *   26
@@ -1982,12 +2122,21 @@ Teil 2
 
 *    *   27
 
-    *   Anlagen zur Herstellung organischer Grundchemikalien (Alkene und
-        chlorierte Alkene; Alkine; Aromaten und alkylierte Aromaten; Phenole,
-        Alkohole; Aldehyde, Ketone; Carbonsäuren, Dicarbonsäuren,
-        Carbonsäureanhydride und Dimethylterephthalat; Epoxide; Vinylacetat,
-        Acrylnitril; Caprolactam und Melamin) mit einer Produktionsleistung
-        von über 100 Tonnen je Tag
+    *   Anlagen zur Herstellung von
+
+        a)  organischen Grundchemikalien (Alkene und chlorierte Alkene; Alkine;
+            Aromaten und alkylierte Aromaten; Phenole, Alkohole; Aldehyde, Ketone;
+            Carbonsäuren, Dicarbonsäuren, Carbonsäureanhydride und
+            Dimethylterephthalat; Epoxide; Vinylacetat, Acrylnitril; Caprolactam
+            und Melamin) oder
+
+
+        b)  Polymeren (Polyethylen, Polypropylen, Polystyrol, Polyvinylchlorid,
+            Polycarbonate, Polyamide, Polyurethane, Silikone)
+
+
+
+        mit einer Produktionsleistung von mehr als 100 Tonnen je Tag
 
     *   CO
         2
@@ -2018,13 +2167,13 @@ Teil 2
     *   Anlagen zur Abscheidung von Treibhausgasen aus Anlagen nach den
         Nummern 1 bis 29 zum Zwecke der Beförderung und geologischen
         Speicherung in einer in Übereinstimmung mit der Richtlinie
-        2009/31/EG                      des Europäischen Parlaments und des
-        Rates vom 23. April 2009 über die geologische Speicherung von
-        Kohlendioxid und zur Änderung der Richtlinie 85/337/EWG des Rates
-        sowie der Richtlinien 2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG
-        und 2008/1/EG des Europäischen Parlaments und des Rates sowie der
-        Verordnung (EG) Nr. 1013/2006 (ABl. L 140 vom 5.6.2009, S. 114)
-        zugelassenen Speicherstätte
+        2009/31/EG des Europäischen Parlaments und des Rates vom 23. April
+        2009 über die geologische Speicherung von Kohlendioxid und zur
+        Änderung der Richtlinie 85/337/EWG des Rates sowie der Richtlinien
+        2000/60/EG, 2001/80/EG, 2004/35/EG, 2006/12/EG und 2008/1/EG des
+        Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr.
+        1013/2006 (ABl. L 140 vom 5.6.2009, S. 114) zugelassenen
+        Speicherstätte
 
     *   CO
         2
@@ -2199,8 +2348,10 @@ Teil 2
 
 
 
+(zu § 5 Absatz 1, § 6 Absatz 1 Satz 2, Absatz 2 Satz 2,
+§ 13 Absatz 4, § 30 Absatz 2 Satz 1 und § 32 Absatz 1 Nummer 1)
 
-### Anhang 2 (zu § 5 Absatz 1, § 6 Absatz 1 Satz 2, Absatz 2 Satz 2, § 13 Absatz 4, § 30 Absatz 2 Satz 1 und § 32 Absatz 1 Nummer 1) Anforderungen an die Vorlage und Genehmigung von Überwachungsplänen nach den §§ 6 und 13 sowie an die Ermittlung von Emissionen und die Berichterstattung nach § 5
+### Anhang 2 Anforderungen an die Vorlage und Genehmigung von Überwachungsplänen nach den §§ 6 und 13 sowie an die Ermittlung von Emissionen und die Berichterstattung nach § 5
 
 (Fundstelle: BGBl. I 2011, 1492)
 
@@ -2276,258 +2427,31 @@ treffen, sind die folgenden Regelungen zu beachten:
 
 
 2.  Die CO
-    2                   -Emissionen von Anlagen im Sinne des Anhangs 1
-    Teil 2 Nummer 8 bis 10 sind über die Bilanzierung und Saldierung der
-    Kohlenstoffgehalte der CO
-    2                   -relevanten Inputs und Outputs zu erfassen, soweit
-    diese Anlagen nach § 24 als einheitliche Anlage gelten;
-    Verbundkraftwerke am Standort von Anlagen zur Eisen- und
-    Stahlerzeugung dürfen nicht gemeinsam mit den übrigen Anlagen
-    bilanziert werden.
+    2-Emissionen von Anlagen im Sinne des Anhangs 1 Teil 2 Nummer 8 bis 10
+    sind über die Bilanzierung und Saldierung der Kohlenstoffgehalte der
+    CO
+    2-relevanten Inputs und Outputs zu erfassen, soweit diese Anlagen nach
+    § 24 als einheitliche Anlage gelten; Verbundkraftwerke am Standort von
+    Anlagen zur Eisen- und Stahlerzeugung dürfen nicht gemeinsam mit den
+    übrigen Anlagen bilanziert werden.
 
 
 
 Abweichend von Satz 2 haben Luftfahrzeugbetreiber die Emissionen des
 Jahres 2012 nach der Entscheidung
-2007/589/EG              der Kommission zu ermitteln.
+2007/589/EG der Kommission zu ermitteln.
 
 
-### Anhang 3 (zu § 5 Absatz 2) Anforderungen an die Verifizierung
+### Anhang 3 (weggefallen)
 
-(Fundstelle: BGBl. I 2011, 1493 - 1494)
 
-Teil 1
-## Emissionsberichterstattung
 
-Die Angaben in Emissionsberichten müssen nach der Verordnung der
-Europäischen Kommission nach Artikel 15 Absatz 3 und 4 der Richtlinie
-2003/87/EG und der Rechtsverordnung nach § 28 Absatz 2 Nummer 1
-verifiziert werden. Soweit diese keine Regelungen treffen, gelten die
-folgenden Anforderungen:
+### Anhang 4 (weggefallen)
 
-A. Allgemeine Grundsätze
 
+(zu § 27 Absatz 4 und § 28 Absatz 1 Nummer 5 Buchstabe e)
 
-1.  Die Emissionen aus allen in Anhang 1 Teil 2 aufgeführten Tätigkeiten
-    unterliegen einer Verifizierung.
-
-
-2.  Im Rahmen des Verifizierungsverfahrens wird auf den Emissionsbericht
-    nach § 5 Absatz 1 und auf die Emissionsermittlung im Vorjahr
-    eingegangen. Geprüft werden ferner die Zuverlässigkeit,
-    Glaubhaftigkeit und Genauigkeit der Überwachungssysteme sowie die
-    übermittelten Daten und Angaben zu den Emissionen, insbesondere
-
-    a)  die übermittelten Tätigkeitsdaten und damit verbundenen Messungen und
-        Berechnungen,
-
-
-    b)  Wahl und Anwendung der Emissionsfaktoren,
-
-
-    c)  die Berechnungen für die Bestimmung der Gesamtemissionen und
-
-
-    d)  bei Messungen die Angemessenheit der Wahl und Anwendung des
-        Messverfahrens.
-
-
-
-
-
-3.  Die Validierung der Angaben zu den Emissionen setzt zuverlässige und
-    glaubhafte Daten und Informationen voraus, die eine Bestimmung der
-    Emissionen mit einem hohen Zuverlässigkeitsgrad gestatten. Ein hoher
-    Zuverlässigkeitsgrad verlangt vom Betreiber den Nachweis, dass
-
-    a)  die übermittelten Daten zuverlässig sind,
-
-
-    b)  die Erhebung der Daten in Übereinstimmung mit geltenden
-        wissenschaftlichen Standards erfolgt ist und
-
-
-    c)  die einschlägigen Angaben über die Anlage oder die Luftfahrzeuge, mit
-        denen die Tätigkeit durchgeführt wird, vollständig und schlüssig sind.
-
-
-
-
-
-4.  Die sachverständige Stelle erhält Zugang zu allen Standorten und zu
-    allen Informationen, die mit dem Gegenstand der Prüfung im
-    Zusammenhang stehen.
-
-
-5.  Die sachverständige Stelle berücksichtigt, ob es sich bei der Anlage
-    oder dem Luftfahrzeugbetreiber um einen registrierten Standort nach
-    Artikel 13 oder 14 der Verordnung (EG) Nr. 1221/2009 des Europäischen
-    Parlaments und des Rates vom 25. November 2009 über die freiwillige
-    Teilnahme von Organisationen an einem Gemeinschaftssystem für
-    Umweltmanagement und Umweltbetriebsprüfung (EMAS) (ABl. L 342 vom
-    22\.12.2009, S. 1) in der jeweils geltenden Fassung handelt.
-
-
-6.  Die sachverständige Stelle muss unabhängig von dem Betreiber sein,
-    dessen Erklärung sie verifiziert.
-
-
-
-
-B. Methodik
-
-Strategische Analyse
-
-7.  Die Prüfung basiert auf einer strategischen Analyse aller Tätigkeiten,
-    die in der Anlage durchgeführt werden, oder aller
-    Luftverkehrstätigkeiten, die von dem Bericht umfasst sind. Dazu
-    benötigt die sachverständige Stelle einen Überblick über alle
-    Tätigkeiten und ihre Bedeutung für die Emissionen.
-
-
-
-
-Prozessanalyse
-
-
-8.  Die Prüfung der übermittelten Informationen erfolgt bei Bedarf am
-    Standort der Anlage oder an den Standorten, die der
-    Luftfahrzeugbetreiber zur Durchführung der unter den Bericht fallenden
-    Luftverkehrstätigkeiten nutzt. Die sachverständige Stelle führt
-    Stichproben durch, um die Zuverlässigkeit der übermittelten Daten und
-    Informationen zu ermitteln.
-
-
-
-
-Risikoanalyse
-
-
-9.  Die sachverständige Stelle unterzieht alle Daten über Quellen von
-    Emissionen in der Anlage oder über Luftfahrzeuge einer Bewertung in
-    Bezug auf ihre Zuverlässigkeit.
-
-
-10. Anhand dieser Analyse ermittelt die sachverständige Stelle
-    ausdrücklich die Quellen oder Luftfahrzeuge, die ein hohes Risiko
-    aufweisen, fehlerhafte Daten zu liefern, und andere Aspekte des
-    Überwachungs- und Berichterstattungsverfahrens, die zu Fehlern bei der
-    Bestimmung der Gesamtemissionen führen können. Hier sind insbesondere
-    die Wahl der Emissionsfaktoren und die Berechnungen zur Bestimmung der
-    Emissionen einzelner Emissionsquellen oder Luftfahrzeuge zu nennen.
-    Besondere Aufmerksamkeit ist Quellen oder Luftfahrzeugen, die ein
-    hohes Risiko aufweisen, fehlerhafte Daten zu liefern, und den
-    genannten anderen Aspekten des Überwachungsverfahrens zu widmen.
-
-
-11. Die sachverständige Stelle berücksichtigt etwaige effektive Verfahren
-    zur Beherrschung der Risiken, die der Betreiber anwendet, um
-    Unsicherheiten so gering wie möglich zu halten.
-
-
-
-
-C. Bericht
-
-
-12. Die sachverständige Stelle erstellt einen Bericht über die Prüfung, in
-    dem angegeben wird, ob der Emissionsbericht nach § 5 Absatz 1
-    zufriedenstellend ist. In diesem Bericht sind alle für die
-    durchgeführten Arbeiten relevanten Aspekte aufzuführen. Der
-    Emissionsbericht ist als zufriedenstellend zu bewerten, wenn die
-    sachverständige Stelle zu der Ansicht gelangt, dass zu den
-    Gesamtemissionen keine wesentlich falschen Angaben gemacht wurden.
-    Stellt die sachverständige Stelle falsche Angaben fest, hat sie in
-    ihrem Bericht darauf hinzuweisen und den Fehler zu benennen sowie die
-    daraus resultierenden Auswirkungen auf die Gesamtemissionen der Anlage
-    zu schätzen.
-
-
-
-
-D. Zusätzliche Bestimmungen für die Prüfung von Emissionsberichten des
-Luftverkehrs
-
-
-13. Die sachverständige Stelle stellt insbesondere sicher, dass
-
-    a)  alle Flüge berücksichtigt werden, die unter eine der
-        Luftverkehrstätigkeiten gemäß Anhang 1 Teil 2 Nummer 33 fallen. Die
-        sachverständige Stelle verwendet hierzu Flugplandaten und sonstige
-        Daten über den Flugbetrieb des Betreibers, einschließlich Daten von
-        Eurocontrol, die der Betreiber angefordert hat;
-
-
-    b)  insgesamt Widerspruchsfreiheit besteht zwischen den Daten über den
-        Gesamttreibstoffverbrauch und den Daten über den Treibstoffkauf oder
-        die anderweitige Treibstoffversorgung des für die
-        Luftverkehrstätigkeit eingesetzten Luftfahrzeugs.
-
-
-
-
-
-
-
-Teil 2
-## Angaben zur Transportleistung
-
-
-1.  Die in diesem Anhang festgelegten allgemeinen Grundsätze und Methoden
-    für die Prüfung von Emissionsberichten gemäß § 5 Absatz 2 finden auf
-    die Prüfung von Tonnenkilometerdaten zum Zwecke der Zuteilung gemäß §
-    11 oder § 12 entsprechende Anwendung.
-
-
-2.  Die sachverständige Stelle stellt insbesondere sicher, dass im Antrag
-    des Betreibers gemäß § 11 Absatz 3 Satz 1 oder § 13 Absatz 1 Satz 1
-    nur Flüge berücksichtigt werden, die tatsächlich durchgeführt wurden
-    und die unter eine der Luftverkehrstätigkeiten gemäß Anhang 1 Teil 2
-    Nummer 33 fallen, für die der Betreiber verantwortlich ist. Die
-    sachverständige Stelle verwendet hierzu Daten über den Flugbetrieb des
-    Betreibers, einschließlich Daten von Eurocontrol, die der Betreiber
-    angefordert hat. Die sachverständige Stelle stellt ferner sicher, dass
-    die vom Betreiber mitgeteilte Nutzlast den Nutzlastdaten entspricht,
-    die der Betreiber aus Sicherheitsgründen verwahrt.
-
-
-
-
-
-### Anhang 4 (zu § 21 Absatz 1) Anforderungen an sachverständige Stellen
-
-(Fundstelle: BGBl. I 2011, 1495)
-
-Die sachverständige Stelle muss
-
-1.  die Voraussetzungen dafür bieten, ihre Aufgaben professionell und
-    objektiv auszuführen und
-
-
-2.  vertraut sein mit
-
-    a)  den Anforderungen dieses Gesetzes sowie den Normen und Leitlinien, die
-        von der Europäischen Kommission zur Konkretisierung der Anforderungen
-        des § 5 verabschiedet werden,
-
-
-    b)  den Rechts- und Verwaltungsvorschriften, die für die zu prüfenden
-        Tätigkeiten von Belang sind, und
-
-
-    c)  der Gewinnung aller Informationen über die einzelnen Emissionsquellen
-        in der Anlage oder den Luftfahrzeugen, insbesondere im Hinblick auf
-        Sammlung, messtechnische Erhebung, Berechnung und Übermittlung von
-        Daten.
-
-
-
-
-
-
-
-
-### Anhang 5 (zu § 27 Absatz 4 und § 28 Absatz 1 Nummer 5 Buchstabe e) Berechnung der spezifischen Emissionsminderung sowie des Ausgleichsbetrages bei Nichterfüllung der Selbstverpflichtung nach § 27 Absatz 4
+### Anhang 5 Berechnung der spezifischen Emissionsminderung sowie des Ausgleichsbetrages bei Nichterfüllung der Selbstverpflichtung nach § 27 Absatz 4
 
 (Fundstelle: BGBl. I 2011, 1496 - 1497)
 
@@ -2571,7 +2495,7 @@ Teil 1
 
             *   (Erfüllung der Minderungspflicht):
 
-            *   E-Mind-Ist(n)*                                    E-Mind-Soll(n)
+            *   E-Mind-Ist(n)* E-Mind-Soll(n)
 
 
         *            *   Formel 2
@@ -2597,7 +2521,7 @@ Teil 1
 
             *   (Erfüllung der Minderungspflicht):
 
-            *   EPool-Ist(n)*                                    EPool-Soll(n)
+            *   EPool-Ist(n)* EPool-Soll(n)
 
 
         *            *   Formel 5
@@ -2653,14 +2577,14 @@ Teil 1
     *        *   E(n)
 
         *   Im Berichtsjahr n erreichter anlagenspezifischer Emissionswert in t CO
-            2                             Äq pro Produkteinheit
+            2Äq pro Produkteinheit
 
 
     *        *   EBas
 
         *   In der für die Zuteilungsentscheidung nach § 9 maßgeblichen
             Basisperiode erreichter anlagenspezifischer Emissionswert in t CO
-            2                             Äq
+            2Äq
 
 
     *        *   Formeln 4 bis 7:
@@ -2698,14 +2622,14 @@ Teil 1
     *        *   E(a, n)
 
         *   Im Berichtsjahr n erreichter anlagenspezifischer Emissionswert in t CO
-            2                             Äq pro Produkteinheit
+            2Äq pro Produkteinheit
 
 
     *        *   EBas(a)
 
         *   In der für die Zuteilungsentscheidung nach § 9 maßgeblichen
             Basisperiode erreichter anlagenspezifischer Emissionswert in t CO
-            2                             Äq
+            2Äq
 
 
     *        *   W(a)

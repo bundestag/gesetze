@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen
-  in den Teilen I und II der Meisterprüfung im Chirurgiemechaniker-Handwerk
+Title: Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen
+  in den Teilen I und II der Meisterprüfung im  Chirurgiemechaniker-Handwerk
 jurabk: ChirMechMstrV
 layout: default
 origslug: chirmechmstrv
@@ -8,7 +8,7 @@ slug: chirmechmstrv
 
 ---
 
-# Verordnung über das Meisterprüfungsberufsbild und über die Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im Chirurgiemechaniker-Handwerk (ChirMechMstrV)
+# Verordnung über das Meisterprüfungsberufsbild und über die  Prüfungsanforderungen in den Teilen I und II der Meisterprüfung im  Chirurgiemechaniker-Handwerk (ChirMechMstrV)
 
 Ausfertigungsdatum
 :   2006-07-27

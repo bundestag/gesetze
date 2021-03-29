@@ -453,8 +453,8 @@ Investitionsvorhaben vom 19. März 2002 (ABl. EG Nr. C 70 S. 8),
 zuletzt geändert durch die Mitteilung der Kommission vom 1. November
 2003 (ABl. EU Nr. C 263 S. 3), oder die Leitlinien für staatliche
 Beihilfen mit regionaler Zielsetzung
-2007–2013              anzuwenden sind, sind die Absätze 1 und 2 nur
-insoweit anzuwenden, als der jeweils beihilferechtlich geltende
+2007–2013 anzuwenden sind, sind die Absätze 1 und 2 nur insoweit
+anzuwenden, als der jeweils beihilferechtlich geltende
 Regionalförderhöchstsatz durch die Gewährung von Investitionszulagen
 nicht überschritten wird.
 

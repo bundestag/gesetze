@@ -4,7 +4,7 @@ Title: Gesetz zu der Entschließung vom 12. Oktober 1978 zur Änderung des Über
   von Abfällen und anderen Stoffen
 jurabk: MeerAbfSchAbkÄndEntschlG
 layout: default
-origslug: meerabfschabk_ndentschlg
+origslug: meerabfschabkaendentschlg
 slug: meerabfschabkaendentschlg
 
 ---

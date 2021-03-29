@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 16.12.1993 I 2066;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 9.12.2010 I 1934
+:   Art. 3 G v. 17.7.2017 I 2421
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -406,11 +406,11 @@ Kommission in einzelnen Bereichen bis zu zwei Sachverständige als
 zusätzliche stellvertretende Mitglieder berufen werden.
 
 (2) Die Mitglieder der Kommission werden vom Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-den Bundesministerien für Bildung und Forschung, für Wirtschaft und
-Technologie, für Arbeit und Soziales, für Gesundheit sowie für Umwelt,
-Naturschutz und Reaktorsicherheit für die Dauer von drei Jahren
-berufen. Wiederberufung ist zulässig.
+Ernährung und Landwirtschaft im Einvernehmen mit den Bundesministerien
+für Bildung und Forschung, für Wirtschaft und Energie, für Arbeit und
+Soziales, für Gesundheit sowie für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit für die Dauer von drei Jahren berufen.
+Wiederberufung ist zulässig.
 
 (3) Die Mitglieder und die stellvertretenden Mitglieder sind in ihrer
 Tätigkeit unabhängig und nicht an Weisungen gebunden. Sie sind zur
@@ -422,7 +422,7 @@ allgemeiner Weise über ihre Arbeit.
 (5) Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates das Nähere über die Berufung und das
 Verfahren der Kommission, die Heranziehung externer Sachverständiger
-sowie die Zusammenarbeit der Ausschüsse mit den für den Vollzug des
+sowie die Zusammenarbeit der Kommission mit den für den Vollzug des
 Gesetzes zuständigen Behörden zu regeln. Durch Rechtsverordnung mit
 Zustimmung des Bundesrates kann auch bestimmt werden, daß die
 Berufungsentscheidung gemäß Absatz 2 im Benehmen mit den
@@ -1298,28 +1298,27 @@ Verwendungszweck oder den Umgang mit dem Produkt, insbesondere seine
 Anwendung, Beförderung oder Lagerung, beziehen, sofern die Genehmigung
 öffentlich bekannt gemacht wurde.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Verfahren der Beteiligung der
-Europäischen Kommission und der Mitgliedstaaten der Europäischen Union
-und der anderen Vertragsstaaten des Abkommens über den Europäischen
-Wirtschaftsraum im Zusammenhang mit der Freisetzung gentechnisch
-veränderter Organismen und dem Inverkehrbringen von Produkten, die
-gentechnisch veränderte Organismen enthalten oder aus solchen
-bestehen, und die Verpflichtung der zuständigen Behörde, Bemerkungen
-der Mitgliedstaaten der Europäischen Union und der anderen
-Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zu
-berücksichtigen oder Entscheidungen oder Beschlüsse der Europäischen
-Kommission umzusetzen, zu regeln, soweit dies zur Durchführung der
-Richtlinie des Rates über die absichtliche Freisetzung genetisch
-veränderter Organismen in die Umwelt in ihrer jeweils geltenden
-Fassung erforderlich ist. In der Rechtsverordnung nach Satz 1 kann
-vorgesehen werden, dass eine Genehmigung, auch abweichend von den
-Vorschriften dieses Gesetzes, zu erteilen oder zu versagen ist, soweit
-dies in einer Entscheidung oder in einem Beschluss der Europäischen
-Kommission vorgesehen ist; dies gilt entsprechend für das Ruhen einer
-Genehmigung nach § 20 Abs. 2 und eine Untersagung nach § 26 Abs. 5
-Satz 3.
+(6) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren der Beteiligung der Europäischen Kommission und der
+Mitgliedstaaten der Europäischen Union und der anderen Vertragsstaaten
+des Abkommens über den Europäischen Wirtschaftsraum im Zusammenhang
+mit der Freisetzung gentechnisch veränderter Organismen und dem
+Inverkehrbringen von Produkten, die gentechnisch veränderte Organismen
+enthalten oder aus solchen bestehen, und die Verpflichtung der
+zuständigen Behörde, Bemerkungen der Mitgliedstaaten der Europäischen
+Union und der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum zu berücksichtigen oder Entscheidungen
+oder Beschlüsse der Europäischen Kommission umzusetzen, zu regeln,
+soweit dies zur Durchführung der Richtlinie des Rates über die
+absichtliche Freisetzung genetisch veränderter Organismen in die
+Umwelt in ihrer jeweils geltenden Fassung erforderlich ist. In der
+Rechtsverordnung nach Satz 1 kann vorgesehen werden, dass eine
+Genehmigung, auch abweichend von den Vorschriften dieses Gesetzes, zu
+erteilen oder zu versagen ist, soweit dies in einer Entscheidung oder
+in einem Beschluss der Europäischen Kommission vorgesehen ist; dies
+gilt entsprechend für das Ruhen einer Genehmigung nach § 20 Abs. 2 und
+eine Untersagung nach § 26 Abs. 5 Satz 3.
 
 (7) Vor Erhebung einer verwaltungsgerichtlichen Klage findet bei einer
 Entscheidung über den Antrag auf Genehmigung einer Freisetzung ein
@@ -1913,9 +1912,9 @@ entscheiden. Entscheidungen oder der Beschlüsse der Europäischen
 Gemeinschaften oder der Europäischen Union nach Artikel 10 in
 Verbindung mit Artikel 30 Abs. 2 der Richtlinie 2001/18/EG, die die
 Form der Mitteilungen nach Absatz 4 festlegen und vom
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-im Bundesanzeiger bekannt gemacht sind, sind bei der Erstellung der
-Mitteilungen zu beachten.
+Bundesministerium für Ernährung und Landwirtschaft im Bundesanzeiger
+bekannt gemacht sind, sind bei der Erstellung der Mitteilungen zu
+beachten.
 
 (4a) Der Betreiber hat der zuständigen Bundesoberbehörde über die
 Beobachtung des Inverkehrbringens nach Maßgabe der Genehmigung für das
@@ -1974,21 +1973,22 @@ wirtschaftlich nicht vertretbar sind, kann lediglich Schadensersatz
 verlangt werden.
 
 
-### § 24 Kosten
+### § 24 Gebühren, Auslagen und Aufwendungen
 
-(1) Für Amtshandlungen nach diesem Gesetz und den zur Durchführung
-dieses Gesetzes erlassenen Rechtsvorschriften sind Kosten (Gebühren
-und Auslagen) zu erheben. Von der Zahlung von Gebühren sind außer den
-in § 8 Abs. 1 des Verwaltungskostengesetzes bezeichneten Rechtsträgern
-die als gemeinnützig anerkannten Forschungseinrichtungen befreit.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz und den zur Durchführung dieses Gesetzes erlassenen
+Rechtsvorschriften sind Gebühren und Auslagen zu erheben. Von der
+Zahlung von Gebühren und Auslagen sind außer den in § 8 Absatz 1 und 2
+des Bundesgebührengesetzes bezeichneten Rechtsträgern die als
+gemeinnützig anerkannten Forschungseinrichtungen befreit.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Gesundheit und dem Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit durch Rechtsverordnung ohne
-Zustimmung des Bundesrates die gebührenpflichtigen Tatbestände und die
-Gebühren durch feste Sätze, Rahmensätze oder nach dem Wert des
-Gegenstandes näher zu bestimmen.
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Gesundheit
+und dem Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die gebührenpflichtigen Tatbestände und die Gebühren durch
+feste Sätze, Rahmensätze oder nach dem Wert des Gegenstandes näher zu
+bestimmen.
 
 (3) Für die durch die Länder zu erhebenden Kosten gilt Landesrecht;
 Absatz 1 Satz 2 gilt entsprechend. Die Länder haben die bei der
@@ -2320,15 +2320,15 @@ die Art der zu übermittelnden Daten und die nach § 9 des
 Bundesdatenschutzgesetzes erforderlichen technischen und
 organisatorischen Maßnahmen schriftlich fest. Die Einrichtung des
 automatisierten Abrufverfahrens bedarf der Genehmigung des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-im Einvernehmen mit dem Bundesministerium für Wirtschaft und
-Technologie. Über die Einrichtung des Abrufverfahrens ist der
-Bundesbeauftragte für den Datenschutz unter Mitteilung der
-Festlegungen nach Satz 2 zu unterrichten. Die Verantwortung für die
-Zulässigkeit des einzelnen Abrufs trägt der Empfänger. Die zuständige
-Bundesoberbehörde prüft die Zulässigkeit der Abrufe nur, wenn dazu
-Anlaß besteht. Sie hat zu gewährleisten, daß die Übermittlung der
-Daten festgestellt und überprüft werden kann.
+Bundesministeriums für Ernährung und Landwirtschaft im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie. Über die
+Einrichtung des Abrufverfahrens ist der Bundesbeauftragte für den
+Datenschutz unter Mitteilung der Festlegungen nach Satz 2 zu
+unterrichten. Die Verantwortung für die Zulässigkeit des einzelnen
+Abrufs trägt der Empfänger. Die zuständige Bundesoberbehörde prüft die
+Zulässigkeit der Abrufe nur, wenn dazu Anlaß besteht. Sie hat zu
+gewährleisten, daß die Übermittlung der Daten festgestellt und
+überprüft werden kann.
 
 (2) Die Rechtsvorschriften über die Geheimhaltung bleiben unberührt.
 Die Übermittlung von sachbezogenen Erkenntnissen im Sinne des § 17a an
@@ -2347,9 +2347,9 @@ für die Beurteilung der Sachkunde des Projektleiters oder des oder der
 Beauftragten für die Biologische Sicherheit erforderlich ist.
 
 (4) Art und Umfang der Daten regelt das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates.
+Ernährung und Landwirtschaft im Einvernehmen mit dem Bundesministerium
+für Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des
+Bundesrates.
 
 
 ### § 30 Erlaß von Rechtsverordnungen und Verwaltungsvorschriften
@@ -2633,7 +2633,13 @@ dem Dritten insoweit Schadensersatz zu leisten, als der Getötete
 während der mutmaßlichen Dauer seines Lebens zur Gewährung des
 Unterhalts verpflichtet gewesen wäre. Die Ersatzpflicht tritt auch
 ein, wenn der Dritte zur Zeit der Verletzung gezeugt, aber noch nicht
-geboren war.
+geboren war. Der Ersatzpflichtige hat zudem dem Hinterbliebenen, der
+zur Zeit der Verletzung zu dem Getöteten in einem besonderen
+persönlichen Näheverhältnis stand, für das dem Hinterbliebenen
+zugefügte seelische Leid eine angemessene Entschädigung in Geld zu
+leisten. Ein besonderes persönliches Näheverhältnis wird vermutet,
+wenn der Hinterbliebene der Ehegatte, der Lebenspartner, ein
+Elternteil oder ein Kind des Getöteten war.
 
 (5) Im Falle der Verletzung des Körpers oder der Gesundheit ist Ersatz
 der Kosten der Heilung sowie des Vermögensnachteils zu leisten, den
@@ -2721,11 +2727,11 @@ in der Anlage durchgeführten Arbeiten zu berücksichtigen; dies gilt
 für Freisetzungen entsprechend. Die Rechtsverordnung muss auch nähere
 Vorschriften über die Befugnisse bei der Überwachung der
 Deckungsvorsorge enthalten. Nach Erlass der Rechtsverordnung gemäß
-Satz 1 kann das Bundesministerium der Justiz durch Rechtsverordnung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie,
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, dem Bundesministerium für Bildung und Forschung,
-dem Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+Satz 1 kann das Bundesministerium der Justiz und für Verbraucherschutz
+durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie, dem Bundesministerium für Ernährung und
+Landwirtschaft, dem Bundesministerium für Bildung und Forschung, dem
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
 sowie dem Bundesministerium für Gesundheit die Höhe der
 Deckungsvorsorge unter Beachtung der auf dem Versicherungsmarkt
 angebotenen Höchstbeträge neu festsetzen.

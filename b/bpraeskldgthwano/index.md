@@ -4,7 +4,7 @@ Title: Anordnung des Bundespräsidenten über die Übertragung der Befugnis zum 
   Technisches Hilfswerk
 jurabk: BPräsKldgTHWAnO
 layout: default
-origslug: bpr_skldgthwano
+origslug: bpraeskldgthwano
 slug: bpraeskldgthwano
 
 ---

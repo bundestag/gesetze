@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   der Entdeckung der Röntgenstrahlen)
 jurabk: Münz10DMBek 1995-07
 layout: default
-origslug: m_nz10dmbek_1995-07
+origslug: muenz10dmbek_1995-07
 slug: muenz10dmbek_1995-07
 
 ---

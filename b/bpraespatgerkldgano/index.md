@@ -2,7 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei dem Bundespatentgericht
 jurabk: BPräsPatGerKldgAnO
 layout: default
-origslug: bpr_spatgerkldgano
+origslug: bpraespatgerkldgano
 slug: bpraespatgerkldgano
 
 ---
@@ -75,7 +75,7 @@ Der Bundesminister der Justiz wird ermächtigt, Ausführungsbestimmungen
 zu dieser Anordnung zu erlassen.
 
 
-## Art 4 -
+## Art 4 - 
 
 
 

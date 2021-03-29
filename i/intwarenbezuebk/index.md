@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen über das Harmonisierte System zur Bezeich
   und Codierung der Waren
 jurabk: IntWarenBezÜbk
 layout: default
-origslug: intwarenbez_bk
+origslug: intwarenbezuebk
 slug: intwarenbezuebk
 
 ---

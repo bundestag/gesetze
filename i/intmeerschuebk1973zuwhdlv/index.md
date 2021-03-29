@@ -4,7 +4,7 @@ Title: Verordnung über Zuwiderhandlungen gegen das Internationale Übereinkomme
   von 1978 zu diesem Übereinkommen
 jurabk: IntMeerSchÜbk1973ZuwhdlV
 layout: default
-origslug: intmeersch_bk1973zuwhdlv
+origslug: intmeerschuebk1973zuwhdlv
 slug: intmeerschuebk1973zuwhdlv
 
 ---

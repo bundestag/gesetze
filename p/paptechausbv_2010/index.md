@@ -556,8 +556,9 @@ die Verordnung über die Berufsausbildung zum Papiertechnologen/zur
 Papiertechnologin vom 26. Mai 2005 (BGBl. I S. 1454, 2261; 2006 I S.
 1293) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin
 
 (Fundstelle: BGBl. I 2010, 439 - 445)
 

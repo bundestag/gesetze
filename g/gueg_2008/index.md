@@ -3,7 +3,7 @@ Title: Gesetz zur Überwachung des Verkehrs mit Grundstoffen, die für die unerl
   Herstellung von Betäubungsmitteln missbraucht werden können
 jurabk: GÜG 2008
 layout: default
-origslug: g_g_2008
+origslug: gueg_2008
 slug: gueg_2008
 
 ---
@@ -17,6 +17,9 @@ Fundstelle
 :   BGBl I: 2008, 306
 
 Stand: G ersetzt G 2121-6-26 v. 7.10.1994 I 2835 (GÜG) mWv 19.3.2008
+Zuletzt geändert durch
+:   Art. 6 Abs. 7 G v. 13.4.2017 I 872
+
 
 ## Abschnitt 1 - Allgemeine Vorschriften
 
@@ -113,16 +116,17 @@ verhindern.
 (2) Meldungen nach Artikel 8 Abs. 1 der Verordnung (EG) Nr. 273/2004
 und Artikel 9 Abs. 1 der Verordnung (EG) Nr. 111/2005 sind an die
 Gemeinsame Grundstoffüberwachungsstelle nach § 6 zu richten. Mündliche
-Meldungen sind innerhalb von drei Tagen schriftlich zu wiederholen.
-Die übermittelten personenbezogenen Daten dürfen nur verwendet werden,
-um Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20, die
-Abzweigung von Grundstoffen, die für die unerlaubte Herstellung von
-Betäubungsmitteln verwendet werden können, die unerlaubte Herstellung
-von Betäubungsmitteln und die mit den zuvor genannten Handlungen in
-unmittelbarem Zusammenhang stehenden Straftaten, Straftaten nach § 95
-des Arzneimittelgesetzes und den §§ 324, 324a, 326, 330 und 330a des
-Strafgesetzbuchs sowie die in § 100a Abs. 2 der Strafprozessordnung
-genannten Straftaten zu verhindern und zu verfolgen.
+Meldungen sind innerhalb von drei Tagen schriftlich oder elektronisch
+zu wiederholen. Die übermittelten personenbezogenen Daten dürfen nur
+verwendet werden, um Straftaten und Ordnungswidrigkeiten nach den §§
+19 und 20, die Abzweigung von Grundstoffen, die für die unerlaubte
+Herstellung von Betäubungsmitteln verwendet werden können, die
+unerlaubte Herstellung von Betäubungsmitteln und die mit den zuvor
+genannten Handlungen in unmittelbarem Zusammenhang stehenden
+Straftaten, Straftaten nach § 95 des Arzneimittelgesetzes und den §§
+324, 324a, 326, 330 und 330a des Strafgesetzbuchs sowie die in § 100a
+Abs. 2 der Strafprozessordnung genannten Straftaten zu verhindern und
+zu verfolgen.
 
 (3) Wer nach Absatz 2 Satz 1 Tatsachen mitteilt, die auf eine Straftat
 nach § 19 schließen lassen, kann wegen dieser Mitteilung nicht
@@ -247,8 +251,8 @@ Bei Straftaten und Ordnungswidrigkeiten nach den §§ 19 und 20 kann die
 zuständige Verfolgungsbehörde Ermittlungen (§ 161 Abs. 1 Satz 1 der
 Strafprozessordnung, § 46 Abs. 1 des Gesetzes über
 Ordnungswidrigkeiten) auch durch die Hauptzollämter oder die Behörden
-des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 37 Abs.
-2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
+des Zollfahndungsdienstes und deren Beamte vornehmen lassen. § 21
+Absatz 2 bis 4 des Außenwirtschaftsgesetzes gilt entsprechend.
 
 
 ### § 9 Daten beim Bundesinstitut für Arzneimittel und Medizinprodukte
@@ -415,16 +419,17 @@ Verordnung (EG) Nr. 111/2005.
 
 (1) Das Bundesinstitut für Arzneimittel und Medizinprodukte kann für
 die in Artikel 3 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel
-26 Abs. 5 der Verordnung (EG) Nr. 111/2005 bezeichneten Amtshandlungen
-Gebühren zur Deckung des Verwaltungsaufwands sowie Auslagen erheben.
+26 Abs. 5 der Verordnung (EG) Nr. 111/2005 bezeichneten individuell
+zurechenbaren öffentlichen Leistungen Gebühren zur Deckung des
+Verwaltungsaufwands sowie Auslagen erheben.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, im
 Einvernehmen mit dem Bundesministerium des Innern, dem
 Bundesministerium der Finanzen und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des
+Wirtschaft und Energie durch Rechtsverordnung ohne Zustimmung des
 Bundesrates die gebührenpflichtigen Tatbestände und Gebühren nach
 Absatz 1 zu bestimmen und dabei feste Sätze oder Rahmensätze
-vorzusehen. Das Verwaltungskostengesetz ist nach Maßgabe von Artikel 3
+vorzusehen. Das Bundesgebührengesetz ist nach Maßgabe von Artikel 3
 Abs. 7 der Verordnung (EG) Nr. 273/2004 und Artikel 26 Abs. 5 der
 Verordnung (EG) Nr. 111/2005 anzuwenden.
 
@@ -593,7 +598,7 @@ bestraft, wer
 
 
 4.  entgegen Artikel 12 Abs. 1 der Verordnung (EG) Nr. 111/2005 einen in
-    Kategorie 1, 2 oder 3 des Anhangs dieser Verordnung bezeichneten
+    Kategorie 1, 2, 3 oder 4 des Anhangs dieser Verordnung bezeichneten
     Grundstoff ohne Ausfuhrgenehmigung ausführt oder
 
 
@@ -618,15 +623,13 @@ liegt in der Regel vor, wenn der Täter
 
 
 
-In besonders schweren Fällen ist § 73d des Strafgesetzbuchs
-anzuwenden.
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 fahrlässig, so ist
 die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) Soweit auf die Verordnung (EG) Nr. 273/2004 oder die Verordnung
-(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 18. August
-2005 geltende Fassung maßgeblich.
+(EG) Nr. 111/2005 Bezug genommen wird, ist jeweils die am 21.
+September 2016 geltende Fassung maßgeblich.
 
 
 ### § 20 Bußgeldvorschriften

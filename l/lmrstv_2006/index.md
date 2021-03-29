@@ -17,18 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 2136
 
 Neugefasst durch
-:   Bek. v. 7.2.2012 I 190
-
-Geändert durch
-:   Art. 1 V v. 12.9.2012 I 2014
-
-
-## Eingangsformel
-
-Auf Grund des § 62 Abs. 1 des Lebensmittel- und
-Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 26.
-April 2006 (BGBl. I S. 945) verordnet das Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz:
+:   Bek. v. 9.5.2017 I 1170; 2018 I 1389
 
 
 ## § 1 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 999/2001
@@ -38,9 +27,9 @@ Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
 Nr. 999/2001 verstößt, indem er vorsätzlich oder fahrlässig
 
 1.  als Verfügungsberechtigter über Schlachttiere oder frisches Fleisch
-    entgegen Artikel 8 Absatz 1 Satz 1 in Verbindung mit Anhang V Nummer 1
-    und 4.1 Buchstabe a oder b spezifizierte Risikomaterialien nicht oder
-    nicht richtig entfernt,
+    entgegen Artikel 8 Absatz 1 Satz 1 in Verbindung mit Anhang V Nummer
+    1, 2 oder 4.1 Buchstabe a oder b spezifizierte Risikomaterialien nicht
+    oder nicht richtig entfernt,
 
 
 2.  entgegen Anhang V Nummer 5 Knochen oder nicht entbeintes Fleisch von
@@ -430,10 +419,14 @@ fahrlässig
         nicht, nicht richtig oder nicht rechtzeitig umhüllt, nicht, nicht
         richtig oder nicht rechtzeitig verpackt, nicht, nicht richtig oder
         nicht rechtzeitig kühlt oder nicht, nicht richtig oder nicht
-        rechtzeitig gefriert oder
+        rechtzeitig gefriert,
 
 
-    d)  Nummer 5 Hackfleisch, Fleischzubereitungen oder Separatorenfleisch
+    d)  Nummer 2 Buchstabe c Satz 2 eine dort genannte Temperatur bei der
+        Lagerung oder Beförderung nicht einhält oder
+
+
+    e)  Nummer 5 Hackfleisch, Fleischzubereitungen oder Separatorenfleisch
         nach dem Auftauen wieder einfriert,
 
 
@@ -677,20 +670,21 @@ Satz 3 in Verbindung mit Satz 4 oder Nummer 2 Satz 1 der Verordnung
 nicht rechtzeitig einer Sichtkontrolle unterzieht.
 
 
-## § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 2075/2005
+## § 7 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 124/2009
 
-(1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 13 Satz 1
-der Verordnung (EG) Nr. 2075/2005 Fleisch einführt.
+Nach § 58 Absatz 3 Nummer 2, Absatz 4 bis 6 des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer gegen die Verordnung (EG)
+Nr. 124/2009 verstößt, indem er vorsätzlich oder fahrlässig
 
-(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
-handelt nach § 60 Absatz 1 des Lebensmittel- und
-Futtermittelgesetzbuches ordnungswidrig.
+1.  entgegen Artikel 1 Absatz 1 Unterabsatz 1 ein Lebensmittel in den
+    Verkehr bringt oder
 
-(3) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 2 Absatz 2 Satz 1 der Verordnung (EG)
-Nr. 2075/2005 einen Schlachtkörper zerschneidet.
+
+2.  entgegen Artikel 1 Absatz 1 Unterabsatz 3 ein Lebensmittel mit einem
+    anderen Lebensmittel vermischt.
+
+
+
 
 
 ## § 8 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 669/2009
@@ -703,34 +697,7 @@ dort genannte Dokument nicht, nicht richtig, nicht vollständig oder
 nicht rechtzeitig übermittelt.
 
 
-## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1135/2009
-
-Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 2 Absatz
-1 der Verordnung (EG) Nr. 1135/2009 ein dort genanntes Erzeugnis
-einführt.
-
-
-## § 10 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1151/2009
-
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 3 Absatz 6 der Verordnung (EG) Nr.
-1151/2009 als Lebensmittelunternehmer oder als sein Vertreter eine
-Meldung nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
-macht.
-
-
-## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 1152/2009
-
-Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
-Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 5 Unterabsatz 2 der Verordnung (EG)
-Nr. 1152/2009 das dort genannte Dokument nicht, nicht richtig, nicht
-vollständig oder nicht rechtzeitig übermittelt.
-
-
-## § 12 Durchsetzung bestimmter Vorschriften der Verordnung (EG) Nr. 931/2011
+## § 9 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 931/2011
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
@@ -740,37 +707,142 @@ sicherstellt, dass der zuständigen Behörde eine dort genannte
 Information zur Verfügung gestellt wird.
 
 
-## § 13 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 284/2012
+## § 10 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 208/2013
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 3 Absatz 4 der
+Durchführungsverordnung (EU) Nr. 208/2013 der zuständigen Behörde eine
+dort genannte Angabe nicht, nicht richtig, nicht vollständig oder
+nicht rechtzeitig zur Verfügung stellt.
+
+
+## § 11 Durchsetzung bestimmter Vorschriften der Verordnung (EU) Nr. 609/2013
+
+(1) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 4 Absatz 1 in Verbindung mit Artikel
+10 Absatz 1 der Verordnung (EU) Nr. 609/2013 Säuglingsanfangsnahrung
+oder Folgenahrung in Verkehr bringt, die einer dort genannten
+Anforderung an die Kennzeichnung oder Aufmachung nicht entspricht.
+
+(2) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 4 Absatz 2 der Verordnung (EU) Nr.
+609/2013 ein Lebensmittel in einer anderen als der dort genannten Form
+im Einzelhandel vertreibt.
+
+
+## § 12 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 884/2014
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer gegen die
+Durchführungsverordnung (EU) Nr. 884/2014 verstößt, indem er als
+Lebensmittelunternehmer oder als sein Vertreter vorsätzlich oder
+fahrlässig
+
+1.  entgegen Artikel 7 Absatz 2 das dort genannte Dokument nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig übermittelt oder
+
+
+2.  entgegen Artikel 7 Absatz 4 Satz 1 in Verbindung mit Satz 2 die
+    zuständige Behörde nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig informiert.
+
+
+
+
+
+## § 13 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) Nr. 885/2014
 
 Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen Artikel 9 der Verordnung (EU) Nr. 284/2012
-als Lebensmittelunternehmer oder als sein Vertreter eine Mitteilung
-nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig macht.
+oder fahrlässig entgegen Artikel 7 Absatz 2 der
+Durchführungsverordnung (EU) Nr. 885/2014 das dort genannte Dokument
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+übermittelt.
 
 
-## § 14 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
+## § 14 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/175
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 7 Absatz 2 Satz 2 der
+Durchführungsverordnung (EU) 2015/175 als Lebensmittelunternehmer oder
+als sein Vertreter das dort genannte Dokument nicht, nicht richtig,
+nicht vollständig oder nicht rechtzeitig übermittelt.
+
+
+## § 15 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/943
+
+(1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 2 der
+Durchführungsverordnung (EU) 2015/943 ein dort genanntes Lebensmittel
+einführt.
+
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
+handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
+Futtermittelgesetzbuches ordnungswidrig.
+
+
+## § 16 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2015/1375
+
+(1) Nach § 59 Absatz 3 Nummer 2 Buchstabe a des Lebensmittel- und
+Futtermittelgesetzbuches wird bestraft, wer entgegen Artikel 13 Absatz
+1 der Durchführungsverordnung (EU) 2015/1375 Fleisch einführt.
+
+(2) Wer eine in Absatz 1 bezeichnete Handlung fahrlässig begeht,
+handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
+Futtermittelgesetzbuches ordnungswidrig.
+
+(3) Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe a des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 2 Absatz 3 Unterabsatz 1 der
+Durchführungsverordnung (EU) 2015/1375 einen Schlachtkörper zerlegt.
+
+
+## § 17 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2016/6
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 9 Absatz 2 Satz 2 der
+Durchführungsverordnung (EU) 2016/6 als Lebensmittelunternehmer oder
+als sein Vertreter ein dort genanntes Dokument nicht, nicht richtig,
+nicht vollständig oder nicht rechtzeitig übermittelt.
+
+
+## § 18 Durchsetzung bestimmter Vorschriften der Durchführungsverordnung (EU) 2017/186
+
+Ordnungswidrig im Sinne des § 60 Absatz 4 Nummer 2 Buchstabe b des
+Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
+oder fahrlässig entgegen Artikel 7 Absatz 2 der
+Durchführungsverordnung (EU) 2017/186 das dort genannte Dokument
+nicht, nicht richtig, nicht vollständig oder nicht rechtzeitig
+übermittelt.
+
+
+## § 19 Verweisungen auf Vorschriften der Europäischen Gemeinschaft
 
 Verweisungen in dieser Verordnung auf Rechtsakte der Europäischen
 Gemeinschaft beziehen sich auf die in der Anlage jeweils angegebene
 Fassung.
 
 
-## § 15 Inkrafttreten; Außerkrafttreten
-
-(Inkrafttreten; Außerkrafttreten)
+## § 20 (Inkrafttreten; Außerkrafttreten)
 
 
-## Anlage (zu § 14) Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+(zu § 19)
 
-(Fundstelle: BGBl. I 2012, 2014 - 2015)
+## Anlage Fundstellenverzeichnis der Verordnungen der Europäischen Gemeinschaft oder der Europäischen Union
+
+(Fundstelle: BGBl. I 2017, 1177 – 1178)
 
 
 1.  Verordnung (EG) Nr. 999/2001 des Europäischen Parlaments und des Rates
     vom 22. Mai 2001 mit Vorschriften zur Verhütung, Kontrolle und Tilgung
     bestimmter transmissibler spongiformer Enzephalopathien (ABl. L 147
-    vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) Nr.
-    189/2011 (ABl. L 53 vom 26.2.2011, S. 56) geändert worden ist,
+    vom 31.5.2001, S. 1), die zuletzt durch die Verordnung (EU) 2015/1162
+    (ABl. L 188 vom 16.7.2015, S. 3) geändert worden ist,
 
 
 2.  Verordnung (EG) Nr. 852/2004 des Europäischen Parlaments und des Rates
@@ -784,10 +856,10 @@ Fassung.
 3.  Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates
     vom 29. April 2004 mit spezifischen Hygienevorschriften für
     Lebensmittel tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 55, L
-    226 vom 25.6.2004, S. 22, L 204 vom 4.8.2007, S. 26, L 46 vom
-    21\.2.2008, S. 50, L 77 vom 24.3.2010, S. 59, L 119 vom 13.5.2010, S.
-    26), die zuletzt durch die Verordnung (EU) Nr. 16/2012 (ABl. L 8 vom
-    12\.1.2012, S. 29) geändert worden ist,
+    226 vom 25.6.2004, S. 22, L 46 vom 21.2.2008, S. 50, L 119 vom
+    13\.5.2010, S. 26, L 160 vom 12.6.2013, S. 15, L 66 vom 11.3.2015, S.
+    22), die zuletzt durch die Verordnung (EU) Nr. 1137/2014 (ABl. L 307
+    vom 28.10.2014, S. 28) geändert worden ist,
 
 
 4.  Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates
@@ -795,15 +867,16 @@ Fassung.
     amtliche Überwachung von zum menschlichen Verzehr bestimmten
     Erzeugnissen tierischen Ursprungs (ABl. L 139 vom 30.4.2004, S. 206, L
     226 vom 25.6.2004, S. 83, L 204 vom 4.8.2007, S. 26, L 46 vom
-    21\.2.2008, S. 51), die zuletzt durch die Durchführungsverordnung (EU)
-    Nr. 739/2011 (ABl. L 196 vom 28.7.2011, S. 3) geändert worden ist,
+    21\.2.2008, S. 51, ABl. L 160 vom 12.6.2013, S. 16), die zuletzt durch
+    die Verordnung (EU) Nr. 633/2014 (ABl. L 175 vom 14.6.2014, S. 6)
+    geändert worden ist,
 
 
 5.  Verordnung (EG) Nr. 2073/2005 der Kommission vom 15. November 2005
     über mikrobiologische Kriterien für Lebensmittel (ABl. L 338 vom
     22\.12.2005, S. 1, L 278 vom 10.10.2006, S. 32), die zuletzt durch die
-    Verordnung (EU) Nr. 1086/2011 (ABl. L 281 vom 28.10.2011, S. 7)
-    geändert worden ist,
+    Verordnung (EU) Nr. 217/2014 (ABl. L 69 vom 8.3.2014, S. 93) geändert
+    worden ist,
 
 
 6.  Verordnung (EG) Nr. 2074/2005 der Kommission vom 5. Dezember 2005 zur
@@ -815,15 +888,16 @@ Fassung.
     Kontrollen, zur Abweichung von der Verordnung (EG) Nr. 852/2004 des
     Europäischen Parlaments und des Rates und zur Änderung der
     Verordnungen (EG) Nr. 853/2004 und (EG) Nr. 854/2004 (ABl. L 338 vom
-    22\.12.2005, S. 27), die zuletzt durch die Durchführungsverordnung (EU)
-    Nr. 809/2011 (ABl. L 207 vom 12.8.2011, S. 1) geändert worden ist,
+    22\.12.2005, S. 27), die zuletzt durch die Verordnung (EU) Nr. 218/2014
+    (ABl. L 69 vom 8.3.2014, S. 95) geändert worden ist,
 
 
-7.  Verordnung (EG) Nr. 2075/2005 der Kommission vom 5. Dezember 2005 mit
-    spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf
-    Trichinen (ABl. L 338 vom 22.12.2005, S. 60), die zuletzt durch die
-    Durchführungsverordnung (EU) Nr. 1109/2011 (ABl. L 287 vom 4.11.2011,
-    S. 23) geändert worden ist,
+7.  Verordnung (EG) Nr. 124/2009 der Kommission vom 10. Februar 2009 zur
+    Festlegung von Höchstgehalten an Kokzidiostatika und Histomonostatika,
+    die in Lebensmitteln aufgrund unvermeidbarer Verschleppung in
+    Futtermittel für Nichtzieltierarten vorhanden sind (ABl. L 40 vom
+    11\.2.2009, S. 7), die durch die Verordnung (EU) Nr. 610/2012 (ABl. L
+    178 vom 10.7.2012, S. 1) geändert worden ist,
 
 
 8.  Verordnung (EG) Nr. 669/2009 der Kommission vom 24. Juli 2009 zur
@@ -833,47 +907,83 @@ Fassung.
     nicht tierischen Ursprungs und zur Änderung der Entscheidung
     2006/504/EG (ABl. L 194 vom 25.7.2009, S. 11, L 132 vom 19.5.2011, S.
     19, L 287 vom 4.11.2011, S. 42), die zuletzt durch die
-    Durchführungsverordnung (EU) Nr. 514/2012 (ABl. L 158 vom 19.6.2012,
-    S. 2) geändert worden ist,
+    Durchführungsverordnung (EU) 2017/186 (ABl. L 29 vom 3.2.2017, S. 24)
+    geändert worden ist,
 
 
-9.  Verordnung (EG) Nr. 1135/2009 der Kommission vom 25. November 2009 mit
-    Sondervorschriften für die Einfuhr von bestimmten Erzeugnissen, deren
-    Ursprung oder Herkunft China ist, und zur Aufhebung der Entscheidung
-    2008/798/EG (ABl. L 311 vom 26.11.2009, S. 3, L 161 vom 29.6.2010, S.
-    12),
-
-
-10. Verordnung (EG) Nr. 1151/2009 der Kommission vom 27. November 2009 mit
-    Sondervorschriften für die Einfuhr von Sonnenblumenöl, dessen Ursprung
-    oder Herkunft die Ukraine ist, wegen des Risikos einer Kontamination
-    durch Mineralöl sowie zur Aufhebung der Entscheidung 2008/433/EG (ABl.
-    L 313 vom 28.11.2009, S. 36),
-
-
-11. Verordnung (EG) Nr. 1152/2009 der Kommission vom 27. November 2009 mit
-    Sondervorschriften für die Einfuhr bestimmter Lebensmittel aus
-    bestimmten Drittländern wegen des Risikos einer Aflatoxin-
-    Kontamination und zur Aufhebung der Entscheidung 2006/504/EG (ABl. L
-    313 vom 28.11.2009, S. 40, L 249 vom 27.9.2011, S. 21), die durch die
-    Durchführungsverordnung (EU) Nr. 274/2012 (ABl. L 90 vom 28.3.2012, S.
-    14) geändert worden ist,
-
-
-12. Durchführungsverordnung (EU) Nr. 931/2011 der Kommission vom 19.
+9.  Durchführungsverordnung (EU) Nr. 931/2011 der Kommission vom 19.
     September 2011 über die mit der Verordnung (EG) Nr. 178/2002 des
     Europäischen Parlaments und des Rates festgelegten
     Rückverfolgbarkeitsanforderungen an Lebensmittel tierischen Ursprungs
-    (ABl. L 242 vom 20.9.2011, S. 2, L 327 vom 9.12.2011, S. 70),
+    (ABl. L 242 vom 20.9.2011, S. 2, L 327 vom 9.12.2011, S. 70, ABl. L 19
+    vom 22.1.2014, S. 8),
 
 
-13. Durchführungsverordnung (EU) Nr. 284/2012 der Kommission vom 29. März
-    2012 mit Sondervorschriften für die Einfuhr von Lebens- und
+10. Durchführungsverordnung (EU) Nr. 208/2013 der Kommission vom 11. März
+    2013 über die Anforderungen an die Rückverfolgbarkeit von Sprossen und
+    von Samen zur Erzeugung von Sprossen (ABl. L 68 vom 12.3.2013, S. 16),
+
+
+11. Verordnung (EU) Nr. 609/2013 des Europäischen Parlaments und des Rates
+    vom 12. Juni 2013 über Lebensmittel für Säuglinge und Kleinkinder,
+    Lebensmittel für besondere medizinische Zwecke und Tagesrationen für
+    gewichtskontrollierende Ernährung und zur Aufhebung der Richtlinie
+    92/52/EWG des Rates, der Richtlinien 96/8/EG, 1999/21/EG, 2006/125/EG
+    und 2006/141/EG der Kommission, der Richtlinie 2009/39/EG des
+    Europäischen Parlaments und des Rates sowie der Verordnungen (EG) Nr.
+    41/2009 und (EG) Nr. 953/2009 des Rates und der Kommission (ABl. L 181
+    vom 29.6.2013, S. 35),
+
+
+12. Durchführungsverordnung (EU) Nr. 884/2014 der Kommission vom 13.
+    August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr
+    bestimmter Futtermittel und Lebensmittel aus bestimmten Drittländern
+    wegen des Risikos einer Aflatoxin-Kontamination und zur Aufhebung der
+    Verordnung (EG) Nr. 1152/2009 (ABl. L 242 vom 14.8.2014, S. 4), die
+    durch die Durchführungsverordnung (EU) 2016/2106 (ABl. L 327 vom
+    2\.12.2016, S. 44) geändert worden ist,
+
+
+13. Durchführungsverordnung (EU) Nr. 885/2014 der Kommission vom 13.
+    August 2014 zur Festlegung besonderer Bedingungen für die Einfuhr von
+    Okra und Curryblättern aus Indien und zur Aufhebung der
+    Durchführungsverordnung (EU) Nr. 91/2013 (ABl. L 242 vom 14.8.2014, S.
+    20),
+
+
+14. Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar
+    2015 zur Festlegung von Sondervorschriften für die Einfuhr von
+    Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des
+    Risikos einer Kontamination mit Pentachlorphenol und Dioxinen (ABl. L
+    30 vom 6.2.2015, S. 10),
+
+
+15. Durchführungsverordnung (EU) 2015/943 der Kommission vom 18. Juni 2015
+    über Sofortmaßnahmen zur Aussetzung der Einfuhr getrockneter Bohnen
+    aus Nigeria und zur Änderung von Anhang I der Verordnung (EG) Nr.
+    669/2009 (ABl. L 154 vom 19.6.2015, S. 8), die durch die
+    Durchführungsverordnung (EU) 2016/874 (ABl. L 145 vom 2.6.2016, S. 18)
+    geändert worden ist,
+
+
+16. Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10. August
+    2015 mit spezifischen Vorschriften für die amtlichen
+    Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7),
+
+
+17. Durchführungsverordnung (EU) 2016/6 der Kommission vom 5. Januar 2016
+    mit besonderen Bedingungen für die Einfuhr von Lebens- und
     Futtermitteln, deren Ursprung oder Herkunft Japan ist, nach dem Unfall
     im Kernkraftwerk Fukushima und zur Aufhebung der
-    Durchführungsverordnung (EU) Nr. 961/2011 (ABl. L 92 vom 30.3.2012, S.
-    16), die durch die Durchführungsverordnung (EU) Nr. 561/2012 (ABl. L
-    168 vom 28.6.2012, S. 17) geändert worden ist.
+    Durchführungsverordnung (EU) Nr. 322/2014 (ABl. L 3 vom 6.1.2016, S.
+    5),
+
+
+18. Durchführungsverordnung (EU) 2017/186 der Kommission vom 2. Februar
+    2017 zur Festlegung besonderer Bedingungen für die Einfuhr von
+    Sendungen aus bestimmten Drittländern in die Union aufgrund von
+    mikrobieller Kontamination sowie zur Änderung der Verordnung (EG) Nr.
+    669/2009 (ABl. L 29 vom 3.2.2017, S. 24).
 
 
 

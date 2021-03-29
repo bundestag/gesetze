@@ -15,7 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl: 1950, 23
 
-Stand: Zuletzt geändert Art. 1 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 11 Abs. 1 G v. 18.7.2017 I 2745
+
 
 ## Abschnitt 1 - Verkündungen und Bekanntmachungen des Bundes
 
@@ -43,8 +45,8 @@ Verordnungsgeber feststellt, dass ihr unverzügliches Inkrafttreten
 wegen Gefahr im Verzug oder zur Durchführung oder Umsetzung von
 Rechtsakten der Europäischen Union erforderlich ist.
 
-(2) Rechtsverordnungen der Wasser- und Schifffahrtsverwaltung des
-Bundes können im Verkehrsblatt verkündet werden.
+(2) Rechtsverordnungen der Wasserstraßen- und Schifffahrtsverwaltung
+des Bundes können im Verkehrsblatt verkündet werden.
 
 (3) Auf Rechtsverordnungen, die im Bundesanzeiger oder im
 Verkehrsblatt verkündet werden, ist unter Angabe der Stelle ihrer
@@ -58,8 +60,8 @@ Bundesgesetzblatt hinzuweisen.
 Eisenbahnen des öffentlichen Verkehrs im Bundesgebiet verkündet
 werden.
 
-(2) Andere vom Bundesministerium für Verkehr, Bau- und
-Stadtentwicklung festgesetzte oder genehmigte Verkehrstarife
+(2) Andere vom Bundesministerium für Verkehr und digitale
+Infrastruktur festgesetzte oder genehmigte Verkehrstarife
 einschließlich der Tarife der Spedition und Lagerei und der
 Abgabentarife der Schiffahrt können im Verkehrsblatt verkündet werden.
 
@@ -85,8 +87,9 @@ falls nichts anderes bestimmt ist.
 
 ### § 5 Bundesanzeiger
 
-(1) Der Bundesanzeiger wird vom Bundesministerium der Justiz
-elektronisch herausgegeben. Er ist im Internet unter der Adresse
+(1) Der Bundesanzeiger wird vom Bundesministerium der Justiz und für
+Verbraucherschutz elektronisch herausgegeben. Er ist im Internet unter
+der Adresse
 
 ## www.bundesanzeiger.de
 
@@ -149,8 +152,8 @@ Veränderungen zuverlässig erkennbar sind.
 ist, muss es zeitnah in einem gesonderten, nicht für die Allgemeinheit
 zugänglichen informationstechnischen System archiviert werden. Die
 Archivierung muss den Verkündungs- oder Bekanntmachungszeitpunkt
-dokumentieren. § 17 der Signaturverordnung gilt für die archivierten
-Dokumente entsprechend.
+dokumentieren. § 15 des Vertrauensdienstegesetzes gilt für die
+archivierten Dokumente entsprechend.
 
 
 ### § 8 Ersatzverkündung, Ersatzbekanntmachung
@@ -163,9 +166,9 @@ entsprechend.
 
 (2) Im Fall des Absatzes 1 kann der Bundesanzeiger in gedruckter Form
 herausgegeben werden. Er ist nach einem zuvor vom Bundesministerium
-der Justiz im Bundesanzeiger bekannt gemachten Verteiler an
-Bibliotheken und Behörden zu verbreiten. Im Bundesgesetzblatt ist
-unverzüglich bekannt zu machen,
+der Justiz und für Verbraucherschutz im Bundesanzeiger bekannt
+gemachten Verteiler an Bibliotheken und Behörden zu verbreiten. Im
+Bundesgesetzblatt ist unverzüglich bekannt zu machen,
 
 1.  dass der Bundesanzeiger in gedruckter Form herausgegeben wird,
 
@@ -191,13 +194,14 @@ Absatz 4 ist möglichst aufrechtzuerhalten.
 
 ### § 9 Verordnungsermächtigung
 
-Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Näheres zum Verfahren
-der Verkündungen und der Bekanntmachungen im amtlichen Teil des
-Bundesanzeigers, zu den Anforderungen an die Dokumente und zur
-Archivierung zu regeln sowie Sicherheitsanforderungen für die
-Verkündung und Bekanntmachung festzulegen. Gleiches gilt für die
-Ersatzverkündung und Ersatzbekanntmachung.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Näheres zum Verfahren der Verkündungen und der Bekanntmachungen im
+amtlichen Teil des Bundesanzeigers, zu den Anforderungen an die
+Dokumente und zur Archivierung zu regeln sowie
+Sicherheitsanforderungen für die Verkündung und Bekanntmachung
+festzulegen. Gleiches gilt für die Ersatzverkündung und
+Ersatzbekanntmachung.
 
 
 ## Abschnitt 3 - Sonstige Bestimmungen

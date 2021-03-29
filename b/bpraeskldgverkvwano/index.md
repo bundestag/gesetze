@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   von Beamten der Bundesverkehrsverwaltung
 jurabk: BPräsKldgVerkVwAnO
 layout: default
-origslug: bpr_skldgverkvwano
+origslug: bpraeskldgverkvwano
 slug: bpraeskldgverkvwano
 
 ---

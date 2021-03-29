@@ -64,67 +64,264 @@ Kraft.
 
 ## Anlage
 
-An:
-....................................................................
-Kreditinstitut, bei dem das Anteilrecht begründet wurde
-ANTRAG auf Tilgung des Anteilrechtes Nr.:
-..............................
-----------------------------------------------------------------------
---
-......................................................................
-..
-Name und Anschrift des Inhabers des Anteilrechtes
-......................................................................
-..
-Name und Anschrift des Antragstellers (falls mit Inhaber nicht
-identisch)
-Beigefügte Unterlagen:
-.........................................
-(Nachweis eines Anteilrechtes,
-.........................................
-Erbunterlagen usw.)
-.........................................
-Der Antragsteller oder ein Rechtsvorgänger hat Leistungen für
-dieses Anteilrecht in der Bundesrepublik Deutschland aus dem
-Lastenausgleich erhalten?
-----                 ----
-I  I NEIN            I  I JA
-----                 ----
-Wenn ja, durch das Ausgleichsamt:
-......................................
-Gemeinde, Kreis
-----------------------------------------------------------------------
---
-**Wichtiger Hinweis:**
-- Die Staatsbank Berlin wird gemäß § 3 der Durchführungsbestimmung
-vom 20. Juli 1990 (GBl. I Nr. 49 S. 906) zur Verordnung über
-die Tilgung der Anteilrechte von Inhabern mit Wohnsitz
-außerhalb der DDR an der Altguthaben-Ablösungs-Anleihe vom
-27\. Juni 1990 (GBl. I Nr. 39 S. 543) der Ausgleichsverwaltung
-die Tilgung des Anteilrechtes mitteilen.
-- Bei Erhalt von Lastenausgleich ist der Antragsteller verpflichtet,
-gemäß § 342 Abs. 2 des Lastenausgleichsgesetzes (LAG) dem
-örtlichen Ausgleichsamt die Auszahlung des Anteilrechtes
-anzuzeigen.
-----------------------------------------------------------------------
---
-Ich bitte um Überweisung         I                 Wird vom
-Kreditinstitut
-des Betrages auf Konto-Nr.:      I   ------------------------
-**I   ausgefüllt:**
-...........................      I   ------------
-I   Höhe des
-...........................      I   Anteilrechtes    ................
-kontoführendes Kredit-           I   + Zinsen         ................
-institut                         I   ./. bereits
-I     gezahlte
-...........................      I     Zinsen         ................
-Bankleitzahl                     I
-Gesamt                          ................
-I   Nach Umstellung
-...........................      I   2:1 zu über-
-Datum                            I   weisender/aus-
-I   zuzahlender Betrag .......... DM
-...........................      I   .................. .............
-Unterschrift                     I      Bearbeiter         Prüfer
+(Fundstelle: GBl. DDR I 1990, 906)
+
+
+*    *   An:
+
+    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ..........................................................
+
+
+*    *
+    *   Kreditinstitut, bei dem das Anteilrecht begründet wurde
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   ANTRAG auf Tilgung des Anteilrechtes Nr.: ............................
+        ......................................................................
+        ......................................................................
+        ..........................................
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        .
+        Name und Anschrift des Inhabers des Anteilrechtes
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        .
+        Name und Anschrift des Antragstellers (falls mit Inhaber nicht
+        identisch)
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Beigefügte Unterlagen:
+
+    *   ......................................................................
+        ......................................................................
+        ............................................
+
+
+*    *   (Nachweis eines Anteilrechtes, Erbunterlagen usw.)
+
+    *   ......................................................................
+        ......................................................................
+        ............................................
+
+
+*    *
+    *
+    *
+    *
+
+*    *   Der Antragsteller oder ein Rechtsvorgänger hat Leistungen für dieses
+        Anteilrecht in der Bundesrepublik Deutschland aus dem Lastenausgleich
+        erhalten?
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *   *    NEIN
+
+    *   *    JA
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Wenn ja, durch das Ausgleichsamt: ....................................
+        ......................................................................
+        ......................................................................
+        ............................................
+
+
+*    *
+    *
+    *
+    *   Gemeinde, Kreis
+
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   **Wichtiger Hinweis:**
+
+    *
+    *
+    *
+
+*    *   -
+
+    *   Die Staatsbank Berlin wird gemäß § 3 der Durchführungsbestimmung vom
+        20\. Juli 1990 (GBl. I Nr. 49 S. 906) zur Verordnung über die Tilgung
+        der Anteilrechte von Inhabern mit Wohnsitz außerhalb der DDR an der
+        Altguthaben-Ablösungs-Anleihe vom 27. Juni 1990 (GBl. I Nr. 39 S. 543)
+        der Ausgleichsverwaltung die Tilgung des Anteilrechtes mitteilen.
+
+
+*    *   -
+
+    *   Bei Erhalt von Lastenausgleich ist der Antragsteller verpflichtet,
+        gemäß § 342 Abs. 2 des Lastenausgleichsgesetzes (LAG) dem örtlichen
+        Ausgleichsamt die Auszahlung des Anteilrechtes anzuzeigen.
+
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   Ich bitte um Überweisung des Betrages auf Konto-Nr.:
+
+    *
+    *   *Wird vom Kreditinstitut ausgefüllt:* ****
+
+
+*    *   ......................................................................
+        ......................................................................
+        .................
+
+    *
+    *   Höhe des Anteilrechtes
+
+    *   .....................................................
+
+
+*    *
+    *
+    *   + Zinsen
+
+    *   .....................................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        .................
+
+    *
+    *   ./. bereits gezahlte Zinsen
+
+    *   .....................................................
+
+
+*    *   kontoführendes Kreditinstitut
+
+    *
+    *   Gesamt
+
+    *   .....................................................
+
+
+*    *   ......................................................................
+        ......................................................................
+        .................
+
+    *
+    *   Nach Umstellung 2:1 zu
+
+    *
+
+*    *   Bankleitzahl
+
+    *
+    *   überweisender/auszu-
+
+    *
+
+*    *   ......................................................................
+        ......................................................................
+        .................
+
+    *
+    *   zahlender Betrag
+
+    *   .............................................. DM
+
+
+*    *   Datum
+
+    *
+    *
+    *
+
+*    *   ......................................................................
+        ......................................................................
+        .................
+
+    *
+    *   .........................................
+
+    *   .....................................................
+
+
+*    *   Unterschrift
+
+    *
+    *   Bearbeiter
+
+    *   Prüfer
+
+
 

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2852
 
+Zuletzt geändert durch
+:   Art. 53 G v. 29.3.2017 I 626
+
 
 ## § 1 Grundsatz
 
@@ -110,9 +113,9 @@ werden,
 
 ## § 3 Zulassungsverfahren
 
-(1) Der Antrag auf Zulassung ist schriftlich bei der zuständigen
-Behörde zu stellen. In dem Antrag ist anzugeben, für welches
-Untersuchungsgebiet die Zulassung beantragt wird.
+(1) Der Antrag auf Zulassung ist schriftlich oder elektronisch bei der
+zuständigen Behörde zu stellen. In dem Antrag ist anzugeben, für
+welches Untersuchungsgebiet die Zulassung beantragt wird.
 
 (2) Dem Antrag sind im Original oder in beglaubigter Kopie beizufügen:
 
@@ -143,9 +146,10 @@ Untersuchungsgebiet die Zulassung beantragt wird.
 
 Ferner sind die Anschrift des Hauptsitzes der oder des
 Gegenprobensachverständigen und die Anschrift des Sitzes des jeweils
-nach § 5 bewerteten und anerkannten Prüflaboratoriums sowie dessen von
-einer in Anlage 2 aufgeführten Akkreditierungsstelle vergebenen Kenn-
-Nummer anzugeben.
+nach § 5 akkreditierten Prüflaboratoriums sowie dessen von der
+Akkreditierungsstelle im Sinne des § 1 Absatz 1 Satz 1 des
+Akkreditierungsstellengesetzes vergebene Registrierungsnummer
+anzugeben.
 
 (3) Handelt es sich bei dem Antragsteller um eine Person nach § 2
 Absatz 2 Satz 1, sind dem Antrag die Unterlagen nach Absatz 2 Satz 1
@@ -181,10 +185,11 @@ anzuwenden.
 
 (1) Personen nach § 2 Absatz 2 Satz 2 müssen der zuständigen Behörde
 die Tätigkeit als Gegenprobensachverständiger vor dem erstmaligen
-Tätigwerden schriftlich anzeigen und der Anzeige folgende Unterlagen
-im Original, in beglaubigter Kopie oder, sofern die zuständige Behörde
-dies zur sachgerechten Bearbeitung der Anzeige als erforderlich
-ansieht, in beglaubigter Übersetzung beifügen:
+Tätigwerden schriftlich oder elektronisch anzeigen und der Anzeige
+folgende Unterlagen im Original, in schriftlich oder elektronisch
+beglaubigter Kopie oder, sofern die zuständige Behörde dies zur
+sachgerechten Bearbeitung der Anzeige als erforderlich ansieht, in
+beglaubigter Übersetzung beifügen:
 
 1.  einen Nachweis über die Staatsangehörigkeit,
 
@@ -238,45 +243,38 @@ die seine Anzeige betreffen, unverzüglich mitzuteilen. § 3 Absatz 5
 und 7 Satz 2 gilt entsprechend.
 
 
-## § 5 Bewertung und Anerkennung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
+## § 5 Akkreditierung von Prüflaboratorien als Voraussetzung für die Zulassung von Gegenprobensachverständigen
 
-(1) Prüflaboratorien, in denen Gegen- oder Zweitproben untersucht
+(1) Prüflaboratorien, in denen Gegenproben oder Zweitproben untersucht
 werden sollen, müssen die Anforderungen nach Artikel 12 Absatz 2
 Buchstabe a in Verbindung mit Absatz 3 der Verordnung (EG) Nr.
-882/2004 über amtliche Kontrollen zur Überprüfung der Einhaltung des
+882/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
+über amtliche Kontrollen zur Überprüfung der Einhaltung des
 Lebensmittel- und Futtermittelrechts sowie der Bestimmungen über
-Tiergesundheit und Tierschutz vom 29. April 2004 (ABl. L 191 vom
-28\.5.2004, S. 1) in der jeweils geltenden Fassung erfüllen.
-Prüflaboratorien, die einzelne Untersuchungen im Auftrag der oder des
-Gegenprobensachverständigen ausführen, müssen die Anforderungen nach
-Satz 1 erfüllen. Für die Bewertung und Anerkennung der
-Prüflaboratorien nach Satz 1 und 2 sind die in der Anlage 2
-aufgeführten Stellen zuständig.
+Tiergesundheit und Tierschutz (ABl. L 165 vom 30.4.2004, S. 1, L 191
+vom 28.5.2004, S. 1) in der jeweils geltenden Fassung erfüllen. Satz 1
+gilt auch für Prüflaboratorien, die nur einzelne Untersuchungen im
+Auftrag der oder des Gegenprobensachverständigen ausführen. Für die
+Akkreditierung der Prüflaboratorien ist die Akkreditierungsstelle im
+Sinne des § 1 Absatz 1 Satz 1 des Akkreditierungsstellengesetzes
+zuständig.
 
-[^F2_772413_BJNR285210009BJNE000500000]
-(2) Die Bewertung der Prüflaboratorien durch andere als in Anlage 2
-genannte Stellen, die ihrerseits die allgemeinen Anforderungen der
-Norm DIN EN ISO/IEC 17011:2005 über Konformitätsbewertung – Allgemeine
-Anforderungen an Akkreditierungsstellen, die
-Konformitätsbewertungsstellen akkreditieren
-, in der jeweils gültigen Fassung erfüllen, sind dabei nach Maßgabe
-des Absatzes 4 zu berücksichtigen, soweit es sich um die Bewertung von
-Anforderungen nach Artikel 12 Absatz 2 Buchstabe a der Verordnung (EG)
-Nr. 882/2004 handelt.
+(2) Die Akkreditierung eines Prüflaboratoriums durch die nationale
+Akkreditierungsstelle eines anderen Mitgliedstaates oder eines
+Drittstaates ist anzuerkennen, soweit
 
-(3) Bescheinigungen und Bestätigungen der Guten Laborpraxis nach § 19b
-des Chemikaliengesetzes sind von den in der Anlage 2 genannten Stellen
-nach Maßgabe des Absatzes 4 zu berücksichtigen.
+1.  diese nationale Akkreditierungsstelle sich erfolgreich der Beurteilung
+    unter Gleichrangigen nach Artikel 10 der Verordnung (EG) Nr. 765/2008
+    unterzogen hat und
 
-(4) Die Berücksichtigung in den Fällen der Absätze 2 und 3 erfolgt in
-der Regel dadurch, dass sich die in der Anlage 2 genannten Stellen auf
-eine Überprüfung der Dokumente beschränken, soweit die andere
-Akkreditierungsstelle denselben Sachverhalt bereits untersucht und
-bewertet hat und keine Anhaltspunkte vorliegen, die gegen die
-Zuverlässigkeit der anderen Akkreditierungsstelle sprechen.
 
-    Zu beziehen durch Beuth-Verlag GmbH, 10772 Berlin.
-[^F2_772413_BJNR285210009BJNE000500000]: 
+2.  die Akkreditierung sich auf die Erfüllung der Anforderungen nach
+    Artikel 12 Absatz 2 Buchstabe a der Verordnung (EG) Nr. 882/2004
+    bezieht.
+
+
+
+
 
 ## § 6 Bestehende Zulassungen
 
@@ -359,8 +357,9 @@ oder fahrlässig
 
 
 
+(zu § 2 Absatz 1)
 
-## Anlage 1 (zu § 2 Absatz 1) Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
+## Anlage 1 Anforderungen an die fachgerechte Untersuchung und Beurteilung von Gegen- oder Zweitproben
 
 (Fundstelle: BGBl. I 2009, 2855)
 
@@ -438,31 +437,11 @@ oder fahrlässig
 
 
 
-## Anlage 2 (zu § 3 Absatz 2 und § 5)
+## Anlage 2 (weggefallen)
 
-(Fundstelle: BGBl. I 2009, 2856)
+(zu § 3 Absatz 5)
 
-*    *   Hessisches Ministerium für Umwelt,
-        Energie, Landwirtschaft und
-        Verbraucherschutz
-        — Staatl. Anerkennungsstelle der
-        Lebensmittelüberwachung (SAL) —
-        Mainzer Straße 80
-        65189 Wiesbaden
-
-    *   Staatliche Akkreditierungsstelle
-        Hannover (AKS Hannover)
-        Niedersächsisches Ministerium
-        für Ernährung, Landwirtschaft,
-        Verbraucherschutz
-        und Landesentwicklung
-        Calenberger Straße 2
-        30169 Hannover
-
-
-
-
-## Anlage 3 (zu § 3 Absatz 5) Verpflichtungserklärung
+## Anlage 3 Verpflichtungserklärung
 
 (Fundstelle: BGBl. I 2009, 2856)
 Herr/Frau ................

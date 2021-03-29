@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 1568
 
-Geändert durch
-:   Art. 5 V v. 23.7.2010 I 1010
+Zuletzt geändert durch
+:   Art. 23 V v. 26.3.2014 I 274
 
 
 
@@ -681,7 +681,7 @@ Diese Verordnung tritt am 1. Oktober 2003 in Kraft.
 
 ## Anlage 1 (zu § 9 Abs. 4)
 
-(Fundstelle: BGBl. I 2003, 1573,
+(Fundstelle: BGBl. I 2003, 1573;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -700,9 +700,13 @@ Abschluss
 Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Hotelmeister/Geprüfte Hotelmeisterin vom 5. August 2003
-(BGBl. I S. 1568), die zuletzt durch Artikel 5 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+(BGBl. I S. 1568), die zuletzt durch Artikel 23 der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -710,7 +714,7 @@ Unterschrift(en) ...............................
 
 ## Anlage 2 (zu § 9 Abs. 4)
 
-(Fundstelle: BGBl. I 2003, 1574 - 1575,
+(Fundstelle: BGBl. I 2003, 1574 - 1575;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
@@ -729,8 +733,8 @@ Abschluss
 Geprüfter Hotelmeister/Geprüfte Hotelmeisterin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Hotelmeister/Geprüfte Hotelmeisterin vom 5. August 2003
-(BGBl. I S. 1568), die zuletzt durch Artikel 5 der Verordnung vom
-23\. Juli 2010 (BGBl. I S. 1010) geändert worden ist,
+(BGBl. I S. 1568), die zuletzt durch Artikel 23 der Verordnung
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 Note 1)
 I.   Wirtschaftsbezogene Qualifikationen
@@ -773,9 +777,13 @@ IV.  Berufs- und arbeitspädagogische Qualifikationen
 Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 4
 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Qualifikationen durch die Prüfung am .... in .... vor .... erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -------
+(Siegel der zuständigen Stelle)-------
 
 1)  Die beiden Gesamtnoten für die Prüfungsteile "Wirtschaftsbezogene
     Qualifikationen" und "Handlungsspezifische Qualifikationen" werden

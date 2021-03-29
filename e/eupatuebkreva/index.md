@@ -4,7 +4,7 @@ Title: Akte zur Revision des Übereinkommens über die Erteilung europäischer P
   Dezember 1991
 jurabk: EuPatÜbkRevA
 layout: default
-origslug: eupat_bkreva
+origslug: eupatuebkreva
 slug: eupatuebkreva
 
 ---

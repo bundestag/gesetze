@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 629
 
+V aufgeh. durch
+:   Art. 4 Abs. 95 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 23.9.2011 I 1946
+:   Art. 2 Abs. 123 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 99 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -32,9 +38,9 @@ Landwirtschaft und Forsten und dem Bundesministerium für Wirtschaft:
 
 ## § 1 Gebühren und Auslagen
 
-(1) Für Amtshandlungen nach dem Bundesnaturschutzgesetz und dem
-Umweltschadensgesetz erhebt das Bundesamt für Naturschutz Gebühren und
-Auslagen.
+(1) Für individuell zurechenbare öffentliche Leistungen nach dem
+Bundesnaturschutzgesetz und dem Umweltschadensgesetz erhebt das
+Bundesamt für Naturschutz Gebühren und Auslagen.
 
 (2) Die Vorschriften dieser Kostenverordnung gelten nach Maßgabe der
 Vorgaben des Seerechtsübereinkommens der Vereinten Nationen vom 10.
@@ -45,21 +51,21 @@ Festlandsockels.
 (3) Die gebührenpflichtigen Tatbestände und die Höhe der Gebühren
 ergeben sich aus dem anliegenden Gebührenverzeichnis.
 
-(4) Auslagen werden nach Maßgabe des § 10 des
-Verwaltungskostengesetzes erhoben. Erreichen die Auslagen nicht die
-Höhe von 5 Euro, werden sie nicht erhoben.
+(4) Auslagen werden nach Maßgabe des § 23 Absatz 6 des
+Bundesgebührengesetzes erhoben. Erreichen die Auslagen nicht die Höhe
+von 5 Euro, werden sie nicht erhoben.
 
 
 ## § 2 Nutzung von Anlage(blätter)n, Gebührenbefreiung und -ermäßigung bei Ein-, Durch- oder Ausfuhren oder dem Verbringen aus Drittstaaten nach dem Fünften Kapitel des Bundesnaturschutzgesetzes, der Verordnung (EG) Nr. 338/97 sowie der Verordnung (EG) Nr. 865/2006
 
-(1) Auf Antrag des Kostenschuldners ist eine Gebührenbefreiung zu
+(1) Auf Antrag des Gebührenschuldners ist eine Gebührenbefreiung zu
 gewähren, wenn die Exemplare für Zwecke der wissenschaftlichen
 Forschung und Lehre, die insbesondere zur Erhaltung der betreffenden
 Arten beitragen, oder für wissenschaftliche
 Arterhaltungszuchtprogramme ein- oder ausgeführt werden. Die
 Verwendung der Exemplare zu hauptsächlich kommerziellen Zwecken
 schließt eine Gebührenbefreiung aus. Als Nachweis kann vom
-Kostenschuldner eine Bescheinigung einer anerkannten
+Gebührenschuldner eine Bescheinigung einer anerkannten
 wissenschaftlichen Einrichtung verlangt werden, aus der hervorgeht,
 daß die Exemplare zu den oben genannten Zwecken verwendet werden.
 
@@ -93,10 +99,11 @@ bis zu einem Warenwert von 50 Euro wird keine Gebühr erhoben.
 ## § 3 Gebühren in besonderen Fällen
 
 Für die Rücknahme oder den Widerruf eines Verwaltungsaktes, die
-Ablehnung eines Antrages auf Vornahme einer Amtshandlung sowie in den
-Fällen der Rücknahme eines Antrages auf Vornahme einer Amtshandlung
-werden Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes
-erhoben.
+Ablehnung eines Antrages auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung sowie in den Fällen der Rücknahme eines Antrages
+auf Vornahme einer individuell zurechenbaren öffentlichen Leistung
+werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des
+Bundesgebührengesetzes erhoben.
 
 
 ## § 4 Zurückweisung oder Zurücknahme eines Widerspruchs gegen eine Sachentscheidung
@@ -122,8 +129,9 @@ eines ausschließlich gegen eine Festsetzung von Gebühren oder Auslagen
 gerichteten Widerspruchs kann eine Gebühr bis zur Höhe von zehn
 Prozent des streitigen Betrages erhoben werden.
 
+(zu § 1)
 
-## Anlage (zu § 1) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2011, 1947 - 1949)
 
@@ -248,9 +256,9 @@ Prozent des streitigen Betrages erhoben werden.
 
 *    *   3.
 
-    *   **Erteilung von Ausnahmen**                      nach Artikel 8 Absatz
-        3 der Verordnung (EG) Nr. 338/97 und von den Verboten des § 44 Absatz
-        2 des Bundesnaturschutzgesetzes nach § 45 Absatz 7 und 8 des
+    *   **Erteilung von Ausnahmen** nach Artikel 8 Absatz 3 der Verordnung
+        (EG) Nr. 338/97 und von den Verboten des § 44 Absatz 2 des
+        Bundesnaturschutzgesetzes nach § 45 Absatz 7 und 8 des
         Bundesnaturschutzgesetzes im Fall des Verbringens aus dem Ausland
 
     *   16
@@ -258,9 +266,9 @@ Prozent des streitigen Betrages erhoben werden.
 
 *    *   4.
 
-    *   **Negativbescheinigung oder Bestätigung**                      des
-        Bundesamtes für Naturschutz über bereits ausgestellte Genehmigungen
-        oder Bescheinigungen gegenüber Berechtigten
+    *   **Negativbescheinigung oder Bestätigung** des Bundesamtes für
+        Naturschutz über bereits ausgestellte Genehmigungen oder
+        Bescheinigungen gegenüber Berechtigten
 
     *   16
 
@@ -268,8 +276,8 @@ Prozent des streitigen Betrages erhoben werden.
 *    *   5.
 
     *   **Erteilung von Blanketten für künstlich vermehrte Pflanzen aus
-        registrierten Pflanzenvermehrungsbetrieben**                      nach
-        Artikel 29 der Verordnung (EG) Nr. 865/2006 pro Bescheinigung
+        registrierten Pflanzenvermehrungsbetrieben** nach Artikel 29 der
+        Verordnung (EG) Nr. 865/2006 pro Bescheinigung
 
     *   8
 
@@ -318,8 +326,7 @@ Prozent des streitigen Betrages erhoben werden.
 *    *   7.
 
     *   **Genehmigung des Ausbringens im Inland noch nicht vorkommender
-        Arten**                      nach § 40 Absatz 5 des
-        Bundesnaturschutzgesetzes
+        Arten** nach § 40 Absatz 5 des Bundesnaturschutzgesetzes
 
     *   50 bis 2 000
 
@@ -327,17 +334,17 @@ Prozent des streitigen Betrages erhoben werden.
 *    *   8.
 
     *   **Anordnung von Maßnahmen nach § 7 Absatz 2 des
-        Umweltschadensgesetzes**                      zur Erfüllung von
-        Pflichten aus den §§ 4 bis 6 des Umweltschadensgesetzes im Bereich der
-        deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
+        Umweltschadensgesetzes** zur Erfüllung von Pflichten aus den §§ 4 bis
+        6 des Umweltschadensgesetzes im Bereich der deutschen ausschließlichen
+        Wirtschaftszone und des Festlandsockels
 
     *   50 bis 10 000
 
 
 *    *   9.
 
-    *   **Anordnung nach § 3 Absatz 2 des Bundesnaturschutzgesetzes**
-        zur Sicherstellung der Einhaltung der Vorschriften des
+    *   **Anordnung nach § 3 Absatz 2 des Bundesnaturschutzgesetzes** zur
+        Sicherstellung der Einhaltung der Vorschriften des
         Bundesnaturschutzgesetzes und der auf Grund dieses Gesetzes erlassenen
         Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone
         und des Festlandsockels

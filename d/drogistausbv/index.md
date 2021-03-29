@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1992, 1197
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 2 G v. 23. 7.2001 I 1663
+:   Art. 2 Abs. 6 G v. 5. 7.2017 I 2234
 
 
 ## Eingangsformel
@@ -400,8 +400,11 @@ Verordnung.
 
 Diese Verordnung tritt am 1. August 1992 in Kraft.
 
+(zu § 4)
+Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur
+Drogistin
 
-## Anlage 1 (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Drogist/zur Drogistin - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1200 - 1212;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2127,8 +2130,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 3)
+Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin
 
-## Anlage 2 (zu § 3) Ausbildungsrahmenplan für die Berufsausbildung Drogist/Drogistin - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1992, 1213 - 1215)
 

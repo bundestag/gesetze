@@ -365,8 +365,9 @@ wird.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Produktveredler-Textil/zur Produktveredlerin-Textil
 
 (Fundstelle: BGBl. I 2005, 1272 - 1276)
 

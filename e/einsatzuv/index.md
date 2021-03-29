@@ -28,8 +28,9 @@ Bundesministerium der Verteidigung im Einvernehmen mit dem
 Bundesministerium für Gesundheit und dem Bundesministerium für Arbeit
 und Soziales:
 
+Einsatzunfall als
 
-## § 1 Einsatzunfall als Ursache einer psychischen Störung
+## § 1 Ursache einer psychischen Störung
 
 (1) Es wird vermutet, dass eine nachstehend benannte psychische
 Störung durch einen Einsatzunfall verursacht worden ist, wenn durch

@@ -526,11 +526,10 @@ bewertet worden sind.
 schlechter als „ausreichend“ bewerteten Prüfungsbereiche, in denen
 Prüfungsleistungen mit eigener Anforderung und Gewichtung schriftlich
 zu erbringen sind, durch eine mündliche Prüfung von etwa
-15 Minuten              zu ergänzen, wenn dies für das Bestehen der
-Prüfung den Ausschlag geben kann. Bei der Ermittlung des Ergebnisses
-für diesen Prüfungsbereich sind das bisherige Ergebnis und das
-Ergebnis der mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu
-gewichten.
+15 Minuten zu ergänzen, wenn dies für das Bestehen der Prüfung den
+Ausschlag geben kann. Bei der Ermittlung des Ergebnisses für diesen
+Prüfungsbereich sind das bisherige Ergebnis und das Ergebnis der
+mündlichen Ergänzungsprüfung im Verhältnis von 2:1 zu gewichten.
 
 
 ## § 7 Bestehende Berufsausbildungsverhältnisse
@@ -548,8 +547,9 @@ die Revierjäger-Ausbildungsverordnung vom 26. April 1982 (BGBl. I S.
 554), die durch Artikel 6 der Verordnung vom 19. Oktober 2007 (BGBl. I
 S. 2461) geändert worden ist, außer Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Revierjäger/zur Revierjägerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Revierjäger/zur Revierjägerin
 
 (Fundstelle: BGBl. I 2010, 634 - 638)
 
@@ -606,8 +606,7 @@ Fähigkeiten
 
         e)  Arbeitsplatz vorbereiten, Maßnahmen zur Vermeidung von Personen- und
             Sachschäden im Umfeld des
-            Arbeitsplatzes,                            insbesondere beim
-            Jagdbetrieb, treffen
+            Arbeitsplatzes, insbesondere beim Jagdbetrieb, treffen
 
 
         f)  Arbeits- und Betriebsanweisungen umsetzen

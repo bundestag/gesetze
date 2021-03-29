@@ -1849,9 +1849,9 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1080
         für Ernährung und Landwirtschaft S. 35).
 
 
-*    *   Aufgelöst:                        1a bis e und i durch Anordnung der
-        Food and Agriculture Division der britischen Militärregierung vom 21.
-        Mai 1947 (nicht veröffentlicht).
+*    *   Aufgelöst: 1a bis e und i durch Anordnung der Food and Agriculture
+        Division der britischen Militärregierung vom 21. Mai 1947 (nicht
+        veröffentlicht).
 
 
 *    *   1h durch Erlaß der Verwaltung für Ernährung, Landwirtschaft und
@@ -1863,17 +1863,16 @@ Fundstelle des Originaltextes: BGBl. I 1965, 1080
 
     *   **Saatenzentrale für die britische Zone**
 
-    *   **Errichtet durch Verordnung**                        des Zentralamts
-        für Ernährung und Landwirtschaft in der britischen Zone Nr. 135 vom
-        23\. Dezember 1946 (Amtsblatt für Ernährung und Landwirtschaft 1947 S.
-        5).
+    *   **Errichtet durch Verordnung** des Zentralamts für Ernährung und
+        Landwirtschaft in der britischen Zone Nr. 135 vom 23. Dezember 1946
+        (Amtsblatt für Ernährung und Landwirtschaft 1947 S. 5).
 
 
 *    *
     *
-    *   Aufgelöst                        durch Anordnung der Verwaltung für
-        Ernährung, Landwirtschaft und Forsten vom 16. Juli 1948 (Amtsblatt für
-        Ernährung, Landwirtschaft und Forsten S. 111).
+    *   Aufgelöst durch Anordnung der Verwaltung für Ernährung, Landwirtschaft
+        und Forsten vom 16. Juli 1948 (Amtsblatt für Ernährung, Landwirtschaft
+        und Forsten S. 111).
 
 
 

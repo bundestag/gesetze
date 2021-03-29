@@ -47,32 +47,32 @@ bemerkenswerten Pflanzen- und Tierarten.
 
 (2) Die Grenze des Nationalparkes hat folgenden Verlauf:
 
-**1.** **im Osten**                    eine Linie auf der Ostsee in ca. 500 m
-    Abstand von der Küste, beginnend am Ostrand der Ortslage Lohme
-    (Rechts- und Hochwert der Top. Karte R 541064, H 605147) - 530 m
-    seewärts nach Norden (R 541064, H 605200) - nördlich Hankenufer (R
-    541200, H 605200) - nordöstlich Stubbenkammer (R 541400, H 605074) -
-    östlich Kollicker Ort (R 541535, H 604890) - östlich Waldhalle (R
-    541535, H 604600) - südöstlich Ortsrand Saßnitz (R 541435, H 604400) -
-    Strand am Nordostrand der Ortslage Saßnitz (R 541385, H 604420),
+**1.** **im Osten** eine Linie auf der Ostsee in ca. 500 m Abstand von der
+    Küste, beginnend am Ostrand der Ortslage Lohme (Rechts- und Hochwert
+    der Top. Karte R 541064, H 605147) - 530 m seewärts nach Norden (R
+    541064, H 605200) - nördlich Hankenufer (R 541200, H 605200) -
+    nordöstlich Stubbenkammer (R 541400, H 605074) - östlich Kollicker Ort
+    (R 541535, H 604890) - östlich Waldhalle (R 541535, H 604600) -
+    südöstlich Ortsrand Saßnitz (R 541435, H 604400) - Strand am
+    Nordostrand der Ortslage Saßnitz (R 541385, H 604420),
 
 
-**2.** **im Süden**                    vom Strand NO Saßnitz der Grenze des
-    bisherigen Naturschutzgebietes folgend (Waldrand oberhalb von Saßnitz)
-    bis zur Stubbenkammerstraße und weiter am südlichen Waldrand des
-    Krampaser Berges oberhalb Saßnitz bis zum Westrand des Lenzberges,
+**2.** **im Süden** vom Strand NO Saßnitz der Grenze des bisherigen
+    Naturschutzgebietes folgend (Waldrand oberhalb von Saßnitz) bis zur
+    Stubbenkammerstraße und weiter am südlichen Waldrand des Krampaser
+    Berges oberhalb Saßnitz bis zum Westrand des Lenzberges,
 
 
-**3.** **im Westen**                    vom Lenzberg am nördlichen Waldrand
-    des Krampaser Berges bis an die Straße Lancken-Buddenhagen (R 541187,
-    H 604500) - westlicher Waldrand der Stubnitz bis zum Kreidebruch
-    Wittenhagen - obere Hangkante des Kreidebruches bis zur Südspitze der
-    Sehlitzer Krutt - südlicher Waldrand der Sehlitzer Krutt bis zum
-    Bachtal südlich des Steinberges (R 540948, H 604607) - nördlicher
-    Waldrand des Bachtales und nördlicher Waldrand des Boner Berges bis
-    zur Waldecke am Rusewaser Bach (R 541043, H 604658) - Waldrand der
-    Stubnitz um Rusewase bis R 541089, H 604666 - weiter in gerader Linie
-    bis zur Waldecke R 541069, H 604680 - entlang des Grabens bis zur
+**3.** **im Westen** vom Lenzberg am nördlichen Waldrand des Krampaser Berges
+    bis an die Straße Lancken-Buddenhagen (R 541187, H 604500) -
+    westlicher Waldrand der Stubnitz bis zum Kreidebruch Wittenhagen -
+    obere Hangkante des Kreidebruches bis zur Südspitze der Sehlitzer
+    Krutt - südlicher Waldrand der Sehlitzer Krutt bis zum Bachtal südlich
+    des Steinberges (R 540948, H 604607) - nördlicher Waldrand des
+    Bachtales und nördlicher Waldrand des Boner Berges bis zur Waldecke am
+    Rusewaser Bach (R 541043, H 604658) - Waldrand der Stubnitz um
+    Rusewase bis R 541089, H 604666 - weiter in gerader Linie bis zur
+    Waldecke R 541069, H 604680 - entlang des Grabens bis zur
     Gemarkungsgrenze (R 541063, H 604792) - Grenze Mineralboden/Moor nach
     NO bis zum Waldrand der Stubnitz (R 541097, H 604742) - Waldrand bis
     zum Seeufer - am Seeufer entlang unter Einschluß der Wasserfläche und
@@ -505,8 +505,10 @@ Diese Verordnung tritt am 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. 1990, Sonderdruck Nr. 1467)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

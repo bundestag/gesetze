@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "1.200 Jahre Magdeburg")
 jurabk: Münz10EuroBek 2005-07
 layout: default
-origslug: m_nz10eurobek_2005-07
+origslug: muenz10eurobek_2005-07
 slug: muenz10eurobek_2005-07
 
 ---

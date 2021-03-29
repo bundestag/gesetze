@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 1471
 
 Zuletzt geändert durch
-:   Art. 22 G v. 9.12.2010 I 1934
+:   Art. 5 G v. 16.01.2016 I 52
 
 
 ## Eingangsformel
@@ -47,6 +47,10 @@ beschlossen:
 
 
 soweit sie für den menschlichen Verzehr bestimmt sind.
+
+(1a) Dieses Gesetz dient auch der Durchführung von Rechtsakten der
+Europäischen Union und Europäischen Gemeinschaft im Anwendungsbereich
+des Absatzes 1.
 
 (2) Die Vorschriften dieses Gesetzes und der nach diesem Gesetz
 erlassenen Rechtsverordnungen gelten nicht für Erzeugnisse im Sinne
@@ -117,9 +121,9 @@ Erzeugnissen getrennt gehalten und kenntlich gemacht werden.
     anzusehen ist;
 
 
-9.  Milchwirtschaftliches Unternehmen: gewerbliches Unternehmen, das Milch
-    oder Milcherzeugnisse herstellt oder abgibt; ausgenommen sind die in
-    Absatz 2 Satz 2 genannten Gaststätten und Einrichtungen.
+9.  Milchwirtschaftliches Unternehmen: ein Unternehmen, das Milch oder
+    Milcherzeugnisse herstellt oder abgibt; ausgenommen sind die in Absatz
+    2 Satz 2 genannten Gaststätten und Einrichtungen.
 
 
 
@@ -137,9 +141,9 @@ Gemeinschaftsverpflegung.
 
 ### § 3 Ermächtigungen
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit den
-Bundesministerien der Justiz und für Wirtschaft und Technologie durch
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit den Bundesministerien der Justiz und
+für Verbraucherschutz und für Wirtschaft und Energie durch
 Rechtsverordnung mit Zustimmung des Bundesrates, um einheitliche
 Sorten von Erzeugnissen im Sinne dieses Gesetzes, auch aus bestimmten
 Herstellungsgebieten, zu schaffen,
@@ -158,11 +162,11 @@ In Rechtsverordnungen nach Satz 1 kann auch bestimmt werden, daß
 bestimmte geographische Bezeichnungen Erzeugnissen aus bestimmten
 Gebieten vorbehalten sind.
 
-(2) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates zum Erhalt und zur
-Förderung der Qualität von Erzeugnissen im Sinne des § 1 Abs. 1
+(2) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates zum
+Erhalt und zur Förderung der Qualität von Erzeugnissen im Sinne des §
+1 Abs. 1
 
 1.  Anforderungen an die Sachkunde für die in einem milchwirtschaftlichen
     Unternehmen für den milchwirtschaftlichen Betrieb Verantwortlichen zu
@@ -218,12 +222,11 @@ zugelassen werden
 
 
 (2) Zuständig für die Zulassung von Ausnahmen nach Absatz 1 Nr. 1 ist
-das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz im Einvernehmen mit den Bundesministerien der Justiz
-und für Wirtschaft und Technologie. In den Fällen des Absatzes 1 Nr. 2
-ist hinsichtlich der Organisationen des Bundes und der verbündeten
-Streitkräfte das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz im Einvernehmen mit den für diese fachlich
+das Bundesministerium für Ernährung und Landwirtschaft im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie. In den Fällen
+des Absatzes 1 Nr. 2 ist hinsichtlich der Organisationen des Bundes
+und der verbündeten Streitkräfte das Bundesministerium für Ernährung
+und Landwirtschaft im Einvernehmen mit den für diese fachlich
 zuständigen Bundesministerien zuständig. In den übrigen Fällen des
 Absatzes 1 Nr. 2 sind die von den Landesregierungen bestimmten
 Behörden zuständig.
@@ -254,10 +257,9 @@ Gesetzes Anwendung.
 
 ### § 6 Erlaß von allgemeinen Verwaltungsvorschriften
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz erläßt mit Zustimmung des Bundesrates die zur
-Durchführung dieses Gesetzes erforderlichen allgemeinen
-Verwaltungsvorschriften.
+Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit
+Zustimmung des Bundesrates die zur Durchführung dieses Gesetzes
+erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ### § 7 Befugnisse der Länder
@@ -331,11 +333,11 @@ Geldbuße bis zu fünfundzwanzigtausend Euro, in den Fällen des Absatzes
 
 ### § 10 Ermächtigung
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, soweit dies zur Durchsetzung der
-Rechtsakte der Europäischen Gemeinschaft oder der Europäischen Union
-erforderlich ist, durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Tatbestände zu bezeichnen, die
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
+Europäischen Gemeinschaft oder der Europäischen Union erforderlich
+ist, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+Tatbestände zu bezeichnen, die
 
 1.  als Straftat nach § 8 Nr. 2 zu ahnden sind oder
 
@@ -358,14 +360,13 @@ sind anzuwenden.
 
 
 
-### § 12 Angleichung an Unionsrecht
+### § 12 Rechtsverordnungen in besonderen Fällen
 
-Rechtsverordnungen nach diesem Gesetz können auch zum Zwecke der
-Angleichung der Rechts- und Verwaltungsvorschriften der
-Mitgliedstaaten der Europäischen Union erlassen werden, soweit dies
-zur Durchführung von Rechtsakten der Europäischen Gemeinschaft oder
-der Europäischen Union, die Sachbereiche dieses Gesetzes betreffen,
-erforderlich ist.
+Rechtsverordnungen nach § 3 Absatz 1 können ohne Zustimmung des
+Bundesrates erlassen werden, wenn ihr unverzügliches Inkrafttreten zur
+Durchführung von Rechtsakten im Sinne des § 1 Absatz 1a erforderlich
+und ihre Geltungsdauer auf einen bestimmten Zeitraum von höchstens
+sechs Monaten begrenzt ist.
 
 
 ### § 13 Anhörung von Sachkennern
@@ -387,6 +388,13 @@ Bis zum Erlaß einer Rechtsverordnung nach § 15 Nr. 1 sind § 13 Abs. 1
 Nr. 2 und § 14 Abs. 1, dieser in Verbindung mit § 13 Abs. 1 Nr. 2 und
 § 14 Abs. 3, in der bis zum 14. Juli 1998 geltenden Fassung weiter
 anzuwenden.
+
+
+### § 15a Verkündung von Rechtsverordnungen
+
+Rechtsverordnungen nach diesem Gesetz können abweichend von § 2 Absatz
+1 des Verkündungs- und Bekanntmachungsgesetzes im Bundesanzeiger
+verkündet werden.
 
 
 ### § 16 Inkrafttreten, abgelöste Vorschriften

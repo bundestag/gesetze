@@ -4,7 +4,7 @@ Title: Gesetz zur Ausführung des Haager Übereinkommens vom 15. April 1958 übe
   gegenüber Kindern
 jurabk: UhAnerkÜbkAG
 layout: default
-origslug: uhanerk_bkag
+origslug: uhanerkuebkag
 slug: uhanerkuebkag
 
 ---

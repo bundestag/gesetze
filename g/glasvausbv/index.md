@@ -726,8 +726,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glasveredler/zur Glasveredlerin
 
 (Fundstelle: BGBl. I 2004, 666 - 674)
 

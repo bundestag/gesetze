@@ -2,7 +2,7 @@
 Title: Verordnung über Allgemeine Bedingungen für die Versorgung mit Fernwärme
 jurabk: AVBFernwärmeV
 layout: default
-origslug: avbfernw_rmev
+origslug: avbfernwaermev
 slug: avbfernwaermev
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1980, 742
 
 Zuletzt geändert durch
-:   Art. 5 G v. 4.11.2010 I 1483
+:   Art. 16 G v. 25.7.2013 I 2722
 
 
 ## Eingangsformel
@@ -559,10 +559,10 @@ S. 109), zu beachten.
 (1) Der Kunde kann jederzeit die Nachprüfung der Meßeinrichtungen
 verlangen. Bei Meßeinrichtungen, die den eichrechtlichen Vorschriften
 entsprechen müssen, kann er die Nachprüfung durch eine Eichbehörde
-oder eine staatlich anerkannte Prüfstelle im Sinne des § 6 Abs. 2 des
-Eichgesetzes verlangen. Stellt der Kunde den Antrag auf Prüfung nicht
-bei dem Fernwärmeversorgungsunternehmen, so hat er dieses vor
-Antragstellung zu benachrichtigen.
+oder eine staatlich anerkannte Prüfstelle im Sinne des § 40 Absatz 3
+des Mess- und Eichgesetzes verlangen. Stellt der Kunde den Antrag auf
+Prüfung nicht bei dem Fernwärmeversorgungsunternehmen, so hat er
+dieses vor Antragstellung zu benachrichtigen.
 
 (2) Die Kosten der Prüfung fallen dem Unternehmen zur Last, falls eine
 nicht unerhebliche Ungenauigkeit festgestellt wird, sonst dem Kunden.
@@ -935,8 +935,10 @@ von neun Monaten gekündigt werden, solange sich der Vertrag nicht nach
 
 Der Bundesminister für Wirtschaft
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 1008)
 
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III (BGBl. II 1990, 889, 1008) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
 
 Abschnitt III
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet

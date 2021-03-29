@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 2026, 2031
 
-Geändert durch
-:   Art. 9 G v. 25.5.2009 I 1102
+Zuletzt geändert durch
+:   Art. 15 G v. 23.6.2017 I 1822
 
 
 ## § 1 Umstellung auf Euro
@@ -159,4 +159,53 @@ des Aktiengesetzes in der Fassung des
 Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102)
 findet keine Anwendung, solange alle Mitglieder des Aufsichtsrats und
 des Prüfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.
+
+
+## § 5 Übergangsvorschrift zu dem Gesetz für die gleichberechtigte Teilhabe von Frauen und Männern an Führungspositionen in der Privatwirtschaft und im öffentlichen Dienst
+
+Die Festlegungen nach § 36 Satz 1 und 3 sowie § 52 Absatz 2 Satz 1, 2
+und 4 des Gesetzes betreffend die Gesellschaften mit beschränkter
+Haftung haben erstmals bis spätestens 30. September 2015 zu erfolgen.
+Die nach § 36 Satz 3 und § 52 Absatz 2 Satz 4 des Gesetzes betreffend
+die Gesellschaften mit beschränkter Haftung erstmals festzulegende
+Frist darf nicht länger als bis zum 30. Juni 2017 dauern.
+
+
+## § 6 Übergangsvorschriften zum Bilanzrichtlinie-Umsetzungsgesetz
+
+§ 29 des Gesetzes betreffend die Gesellschaften mit beschränkter
+Haftung in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17.
+Juli 2015 (BGBl. I S. 1245) ist erstmals auf Jahres- und
+Konzernabschlüsse für ein nach dem 31. Dezember 2015 beginnendes
+Geschäftsjahr anzuwenden. Auf Jahres- und Konzernabschlüsse für ein
+vor dem 1. Januar 2016 beginnendes Geschäftsjahr bleibt § 29 des
+Gesetzes betreffend die Gesellschaften mit beschränkter Haftung in der
+bis zum 22. Juli 2015 geltenden Fassung anwendbar.
+
+
+## § 7 Übergangsvorschrift zum Abschlussprüfungsreformgesetz
+
+§ 52 Absatz 1 des Gesetzes betreffend die Gesellschaften mit
+beschränkter Haftung in Verbindung mit § 100 Absatz 5 und § 107 Absatz
+4 des Aktiengesetzes, jeweils in der Fassung des
+Abschlussprüfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142)
+müssen so lange nicht angewandt werden, wie alle Mitglieder des
+Aufsichtsrats und des Prüfungsausschusses vor dem 17. Juni 2016
+bestellt worden sind.
+
+
+## § 8 Übergangsvorschrift zum Gesetz zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der Zentralstelle für Finanztransaktionsuntersuchungen
+
+§ 8 Absatz 1 Nummer 3 und § 40 Absatz 1 Satz 1 bis 3 des Gesetzes
+betreffend die Gesellschaften mit beschränkter Haftung in der Fassung
+des Gesetzes zur Umsetzung der Vierten EU-Geldwäscherichtlinie, zur
+Ausführung der EU-Geldtransferverordnung und zur Neuorganisation der
+Zentralstelle für Finanztransaktionsuntersuchungen vom 23. Juni 2017
+(BGBl. I S. 1822) finden auf Gesellschaften mit beschränkter Haftung,
+die am 26. Juni 2017 in das Handelsregister eingetragen sind, mit der
+Maßgabe Anwendung, dass die geänderten Anforderungen an den Inhalt der
+Liste der Gesellschafter erst dann zu beachten sind, wenn aufgrund
+einer Veränderung nach § 40 Absatz 1 Satz 1 des Gesetzes betreffend
+die Gesellschaften mit beschränkter Haftung in der vor dem 26. Juni
+2017 geltenden Fassung eine Liste einzureichen ist.
 

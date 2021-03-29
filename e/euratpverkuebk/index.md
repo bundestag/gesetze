@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen über die Regelung des Personenverkehrs zwis
   den Mitgliedstaaten des Europarates
 jurabk: EuRatPVerkÜbk
 layout: default
-origslug: euratpverk_bk
+origslug: euratpverkuebk
 slug: euratpverkuebk
 
 ---

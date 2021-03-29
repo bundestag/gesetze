@@ -4,7 +4,7 @@ Title: Anordnung zur Änderung der Allgemeinen Anordnung über die Übertragung 
   Bundesministeriums der Verteidigung
 jurabk: WBOZustAnOÄndAnO
 layout: default
-origslug: wbozustano_ndano
+origslug: wbozustanoaendano
 slug: wbozustanoaendano
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 1970, 2009
 
 Zuletzt geändert durch
-:   Art. 2 G v. 26.7.2011 I 1554
+:   Art. 2 G v. 17.7.2017 I 2503
 
 
 ## § 1 Rechtsform, Name
@@ -29,7 +29,7 @@ errichtete "Regulierungsbehörde für Telekommunikation und Post" wird
 in "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post
 und Eisenbahnen" (Bundesnetzagentur) umbenannt. Sie ist eine
 selbständige Bundesoberbehörde im Geschäftsbereich des
-Bundesministeriums für Wirtschaft und Technologie mit Sitz in Bonn.
+Bundesministeriums für Wirtschaft und Energie mit Sitz in Bonn.
 
 
 ## § 2 Tätigkeiten, Aufgabendurchführung
@@ -57,6 +57,10 @@ tätig.
 zugewiesenen Tätigkeiten die Verwaltungsaufgaben des Bundes wahr, die
 ihr durch Gesetz oder auf Grund eines Gesetzes zugewiesen sind.
 
+(3) Die Bundesnetzagentur muss über eine personelle und sachliche
+Ausstattung verfügen, die der Bedeutung des Eisenbahnsektors in
+Deutschland entspricht.
+
 
 ## § 3 Organe
 
@@ -65,18 +69,22 @@ Präsidentin geleitet. Der Präsident oder die Präsidentin vertritt die
 Bundesnetzagentur gerichtlich und außergerichtlich und regelt die
 Verteilung und den Gang ihrer Geschäfte durch eine Geschäftsordnung;
 diese bedarf der Bestätigung durch das Bundesministerium für
-Wirtschaft und Technologie. Bestimmungen in anderen Rechtsvorschriften
-über die Bildung von Beschlusskammern bleiben unberührt.
+Wirtschaft und Energie im Benehmen mit dem Bundesministerium für
+Verkehr und digitale Infrastruktur. Bestimmungen in anderen
+Rechtsvorschriften über die Bildung von Beschlusskammern bleiben
+unberührt.
 
 (2) Der Präsident oder die Präsidentin hat als ständige Vertretung
 zwei Vizepräsidenten oder Vizepräsidentinnen.
 
 (3) Der Präsident oder die Präsidentin und die zwei Vizepräsidenten
 oder Vizepräsidentinnen werden jeweils auf Vorschlag des Beirates von
-der Bundesregierung benannt. Erfolgt trotz Aufforderung der
-Bundesregierung innerhalb von vier Wochen kein Vorschlag des Beirates,
-erlischt das Vorschlagsrecht. Findet ein Vorschlag des Beirates nicht
-die Zustimmung der Bundesregierung, kann der Beirat innerhalb von vier
+der Bundesregierung benannt. Der Beirat hat zur Vorbereitung seines
+Vorschlages die Stellungnahme des Eisenbahninfrastrukturbeirates
+einzuholen. Erfolgt trotz Aufforderung der Bundesregierung innerhalb
+von vier Wochen kein Vorschlag des Beirates, erlischt das
+Vorschlagsrecht. Findet ein Vorschlag des Beirates nicht die
+Zustimmung der Bundesregierung, kann der Beirat innerhalb von vier
 Wochen erneut einen Vorschlag unterbreiten. Das
 Letztentscheidungsrecht der Bundesregierung bleibt von diesem
 Verfahren unberührt.
@@ -89,12 +97,11 @@ Bundespräsidenten oder die Bundespräsidentin.
 ## § 4 Öffentlich-rechtliche Amtsverhältnisse
 
 (1) Der Präsident oder die Präsidentin der Bundesnetzagentur steht in
-einem öffentlich-rechtlichen Amtsverhältnis zum Bund, das in der Regel
-auf fünf Jahre befristet ist; eine einmalige Verlängerung ist
-zulässig.
+einem öffentlich-rechtlichen Amtsverhältnis zum Bund, das auf fünf
+Jahre befristet ist; eine einmalige Verlängerung ist zulässig.
 
 (2) Der Präsident oder die Präsidentin leistet vor dem Bundesminister
-für Wirtschaft und Technologie folgenden Eid:
+für Wirtschaft und Energie folgenden Eid:
 
 *   "Ich schwöre, das Grundgesetz für die Bundesrepublik Deutschland und
     alle in der Bundesrepublik Deutschland geltenden Gesetze zu wahren und
@@ -112,47 +119,48 @@ eines Landes angehören. Er oder sie darf nicht gegen Entgelt
 außergerichtliche Gutachten abgeben. Für die Zugehörigkeit zu einem
 Aufsichtsrat, Verwaltungsrat oder Beirat eines auf Erwerb gerichteten
 Unternehmens ist die Einwilligung des Bundesministeriums für
-Wirtschaft und Technologie erforderlich; dieses entscheidet, inwieweit
+Wirtschaft und Energie erforderlich; dieses entscheidet, inwieweit
 eine Vergütung abzuführen ist. In Firmen, die Dienstleistungen im
 Sinne des Artikels 87f des Grundgesetzes erbringen, ist seine oder
 ihre Zugehörigkeit zu den genannten Gremien untersagt. Der Präsident
 oder die Präsidentin hat dem Bundesministerium für Wirtschaft und
-Technologie über Geschenke Mitteilung zu machen, die er oder sie in
-Bezug auf das Amt erhält. Entsprechendes gilt für andere Vorteile, die
-ihm oder ihr in Bezug auf das Amt gewährt werden. Das
-Bundesministerium für Wirtschaft und Technologie entscheidet über die
-Verwendung der Geschenke und den Ausgleich der Vorteile.
+Energie über Geschenke Mitteilung zu machen, die er oder sie in Bezug
+auf das Amt erhält. Entsprechendes gilt für andere Vorteile, die ihm
+oder ihr in Bezug auf das Amt gewährt werden. Das Bundesministerium
+für Wirtschaft und Energie entscheidet über die Verwendung der
+Geschenke und den Ausgleich der Vorteile.
 
 (4) Die Rechtsverhältnisse des Präsidenten oder der Präsidentin,
 insbesondere Gehalt, Ruhegehalt, Hinterbliebenenbezüge und Haftung,
 werden durch einen Vertrag geregelt, den das Bundesministerium für
-Wirtschaft und Technologie mit dem Präsidenten oder der Präsidentin
-schließt. Der Vertrag bedarf der Zustimmung der Bundesregierung.
+Wirtschaft und Energie im Benehmen mit dem Bundesministerium für
+Verkehr und digitale Infrastruktur mit dem Präsidenten oder der
+Präsidentin schließt. Der Vertrag bedarf der Zustimmung der
+Bundesregierung.
 
 (5) Der Präsident oder die Präsidentin ist auf sein oder ihr Verlangen
 zu entlassen. Auf Antrag des Bundesministeriums für Wirtschaft und
-Technologie, das zuvor den Beirat der Bundesnetzagentur zu hören hat,
-kann der Präsident oder die Präsidentin durch Beschluss der
-Bundesregierung aus wichtigem Grund entlassen werden. Ein wichtiger
-Grund liegt vor, wenn der Präsident oder die Präsidentin nicht mehr
-die Voraussetzungen für die Ausübung des Amtes erfüllt, insbesondere
-wenn er oder sie sich eines erheblichen Fehlverhaltens schuldig
-gemacht hat. Vor dem Antrag ist ihm oder ihr Gelegenheit zur
-Stellungnahme zu geben. Über die Beendigung des Amtsverhältnisses
-erhält der Präsident oder die Präsidentin eine von dem
-Bundespräsidenten oder der Bundespräsidentin zu vollziehende Urkunde.
-Im Falle der Entlassung aus wichtigem Grund erhält der Präsident oder
-die Präsidentin zusätzlich von der Bundesregierung eine Begründung der
-Entlassung in Schriftform. Die Entlassung auf Verlangen wird mit dem
-Tag der Aushändigung der Urkunde wirksam, wenn in ihr nicht
-ausdrücklich ein späterer Tag bestimmt ist. Die Entlassung aus
-wichtigem Grund wird mit dem Vollzug des Beschlusses der
-Bundesregierung wirksam, wenn sie sie nicht ausdrücklich für einen
-späteren Tag beschließt. Der Entlassungsbeschluss der Bundesregierung
-ist zum Zeitpunkt des Wirksamwerdens der Entlassung zu
-veröffentlichen. Sofern der Präsident oder die Präsidentin dies
-verlangt, ist auch die Begründung der Bundesregierung zu der
-Entlassung zu veröffentlichen.
+Energie, das zuvor den Beirat der Bundesnetzagentur zu hören hat, kann
+der Präsident oder die Präsidentin durch Beschluss der Bundesregierung
+aus wichtigem Grund entlassen werden. Ein wichtiger Grund liegt vor,
+wenn der Präsident oder die Präsidentin nicht mehr die Voraussetzungen
+für die Ausübung des Amtes erfüllt, insbesondere wenn er oder sie sich
+eines erheblichen Fehlverhaltens schuldig gemacht hat. Vor dem Antrag
+ist ihm oder ihr Gelegenheit zur Stellungnahme zu geben. Über die
+Beendigung des Amtsverhältnisses erhält der Präsident oder die
+Präsidentin eine von dem Bundespräsidenten oder der Bundespräsidentin
+zu vollziehende Urkunde. Im Falle der Entlassung aus wichtigem Grund
+erhält der Präsident oder die Präsidentin zusätzlich von der
+Bundesregierung eine Begründung der Entlassung in Schriftform. Die
+Entlassung auf Verlangen wird mit dem Tag der Aushändigung der Urkunde
+wirksam, wenn in ihr nicht ausdrücklich ein späterer Tag bestimmt ist.
+Die Entlassung aus wichtigem Grund wird mit dem Vollzug des
+Beschlusses der Bundesregierung wirksam, wenn sie sie nicht
+ausdrücklich für einen späteren Tag beschließt. Der
+Entlassungsbeschluss der Bundesregierung ist zum Zeitpunkt des
+Wirksamwerdens der Entlassung zu veröffentlichen. Sofern der Präsident
+oder die Präsidentin dies verlangt, ist auch die Begründung der
+Bundesregierung zu der Entlassung zu veröffentlichen.
 
 (6) Wird ein Bundesbeamter oder eine Bundesbeamtin zum Präsidenten
 oder zur Präsidentin ernannt, scheidet er oder sie mit Beginn des
@@ -210,7 +218,7 @@ werden abberufen, wenn der Bundesrat an ihrer Stelle eine andere
 Person vorschlägt.
 
 (3) Die Mitglieder können gegenüber dem Bundesministerium für
-Wirtschaft und Technologie auf ihre Mitgliedschaft verzichten. Die
+Wirtschaft und Energie auf ihre Mitgliedschaft verzichten. Die
 Erklärung bedarf der Schriftform. Die vom Deutschen Bundestag
 vorgeschlagenen Mitglieder verlieren darüber hinaus ihre
 Mitgliedschaft mit dem Wegfall der Voraussetzungen ihrer Berufung.
@@ -227,7 +235,8 @@ entsprechend.
 ## § 6 Geschäftsordnung, Vorsitz, Sitzungen des Beirates
 
 (1) Der Beirat gibt sich eine Geschäftsordnung, die der Genehmigung
-des Bundesministeriums für Wirtschaft und Technologie bedarf.
+des Bundesministeriums für Wirtschaft und Energie im Benehmen mit dem
+Bundesministerium für Verkehr und digitale Infrastruktur bedarf.
 
 (2) Der Beirat wählt nach Maßgabe seiner Geschäftsordnung aus seiner
 Mitte ein vorsitzendes und ein stellvertretendes vorsitzendes
@@ -266,7 +275,8 @@ Verhinderungsfall einer stellvertretenden Person verlangen.
 
 (8) Die Mitglieder oder die sie vertretenden Personen erhalten Ersatz
 von Reisekosten und ein angemessenes Sitzungsgeld, das das
-Bundesministerium für Wirtschaft und Technologie festsetzt.
+Bundesministerium für Wirtschaft und Energie im Benehmen mit dem
+Bundesministerium für Verkehr und digitale Infrastruktur festsetzt.
 
 
 ## § 7 Aufgaben des Beirates

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 83
 
+Zuletzt geändert durch
+:   Art. 11 Abs. 31 G v. 18.7.2017 I 2745
+
 
 ## § 1 Elektronische Aktenführung
 
@@ -57,34 +60,65 @@ kann in elektronischen Bestandteilen der Akte statt der elektronischen
 Signatur ein anderer eindeutiger Herkunftsnachweis verwendet werden,
 der nicht unbemerkt verändert werden kann.
 
-(2) Ein elektronisches Dokument des Patentamts wird unterzeichnet,
-indem der Name der unterzeichnenden Person eingefügt und eine
-fortgeschrittene elektronische Signatur an das Dokument angebracht
-wird.
+(2) Ein elektronisches Dokument wird unterzeichnet, indem der Name der
+unterzeichnenden Person eingefügt wird. Die Dokumente werden durch
+einen qualifizierten Zeitstempel gesichert.
+
+(3) Eine Niederschrift oder ein Beschluss des Deutschen Patent- und
+Markenamts wird unterzeichnet, indem
+
+1.  der Name der unterzeichnenden Person oder der unterzeichnenden
+    Personen eingefügt wird und
 
 
-## § 6 Ausfertigung
+2.  das Dokument versehen wird
 
-Wird ein elektronisches Dokument durch das Patentamt ausgefertigt,
-genügt es, in den Ausdruck folgende Angaben aufzunehmen:
-
-1.  den Namen der Person, die eine elektronische Signatur angebracht hat,
-
-
-2.  den Tag, an dem die Signatur oder ein anderer Herkunftsnachweis
-    angebracht wurde, sowie
+    a)  mit einer fortgeschrittenen Signatur nach Artikel 3 Nummer 11 der
+        Verordnung (EU) Nr. 910/2014 des Europäischen Parlaments und des Rates
+        vom 23. Juli 2014 über elektronische Identifizierung und
+        Vertrauensdienste für elektronische Transaktionen im Binnenmarkt und
+        zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S.
+        73) oder
 
 
-3.  den Hinweis, dass die Ausfertigung nicht unterschrieben wird.
-
+    b)  mit einer qualifizierten elektronischen Signatur nach Artikel 3 Nummer
+        12 der Verordnung (EU) Nr. 910/2014.
 
 
 
 
-## § 7 Akteneinsicht
 
-Steht die Akteneinsicht beim Patentamt jedermann frei, kann sie auch
-durch elektronischen Zugriff auf den Inhalt der Akten gewährt werden.
+
+
+
+## § 6 Form der Ausfertigungen und Abschriften
+
+(1) Wird die Abschrift eines elektronischen Dokuments gefertigt, das
+mit einem Herkunftsnachweis nach § 5 Absatz 1 oder Absatz 2 versehen
+ist, müssen in den Ausdruck keine weiteren Informationen aufgenommen
+werden.
+
+(2) Wird die Abschrift eines elektronischen Dokuments gefertigt, das
+mit einem Herkunftsnachweis nach § 5 Absatz 3 versehen ist, genügt es,
+in den Ausdruck folgende Informationen aufzunehmen:
+
+1.  den Namen der Person, die das Dokument unterzeichnet hat, und
+
+
+2.  den Tag, an dem das Dokument mit einer elektronischen Signatur
+    versehen wurde.
+
+
+
+
+(3) Wird eine Ausfertigung eines elektronischen Dokuments gefertigt,
+ist in den Ausdruck zusätzlich zu den Angaben nach Absatz 2 der
+Hinweis aufzunehmen, dass die Ausfertigung elektronisch erstellt
+worden ist und daher nicht unterschrieben ist.
+
+
+## § 7 (weggefallen)
+
 
 
 ## § 8 Vorlegen von Akten

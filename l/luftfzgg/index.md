@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1959, 57, 223
 
 Zuletzt geändert durch
-:   Art. 32 G v. 8.12.2010 I 1864
+:   Art. 185 V v. 31.8.2015 I 1474
 
 
 ## Inhaltsverzeichnis
@@ -1498,44 +1498,43 @@ Schiffsregistergerichts gelten sinngemäß.
 (2) Die Bundesregierung und die Regierung des Landes, in dem das
 Beschwerdegericht seinen Sitz hat, bestimmen für ihren Bereich durch
 Rechtsverordnung den Zeitpunkt, von dem an elektronische Akten geführt
-und elektronische Dokumente bei Gericht eingereicht werden können. Die
-Bundesregierung und die Landesregierung bestimmen für ihren Bereich
-durch Rechtsverordnung die organisatorisch-technischen
-Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
-elektronischen Akten und die für die Bearbeitung der Dokumente
-geeignete Form. Die Rechtsverordnungen der Bundesregierung bedürfen
-nicht der Zustimmung des Bundesrates. Die Landesregierung kann die
-Ermächtigungen durch Rechtsverordnung auf die Landesjustizverwaltung
-übertragen. Die Zulassung der elektronischen Akte und der
-elektronischen Form kann auf einzelne Verfahren beschränkt werden.
+werden können. Die Bundesregierung und die Landesregierung bestimmen
+für ihren Bereich durch Rechtsverordnung die organisatorisch-
+technischen Rahmenbedingungen für die Bildung, Führung und
+Aufbewahrung der elektronischen Akten. Die Rechtsverordnungen der
+Bundesregierung bedürfen nicht der Zustimmung des Bundesrates. Die
+Landesregierung kann die Ermächtigungen durch Rechtsverordnung auf die
+Landesjustizverwaltung übertragen. Die Zulassung der elektronischen
+Akte kann auf einzelne Verfahren beschränkt werden.
 
 
 #### § 96
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates, bis zu deren Erlaß
-auch durch Allgemeine Verwaltungsvorschriften mit Zustimmung des
-Bundesrates, die näheren Vorschriften über die Einrichtung und Führung
-des Registers für Pfandrechte an Luftfahrzeugen, die Einsicht in das
-Register und die dazu gehörigen Akten sowie die Erteilung von
-Abschriften aus dem Register und den Registerakten zu erlassen. Es
-kann in der Rechtsverordnung auch bestimmen, daß das Register
-elektronisch geführt werden kann. Die Einzelheiten, insbesondere die
-Voraussetzungen für die Einrichtung eines automatisierten
-Abrufverfahrens und die hierbei zu treffenden Schutzvorkehrungen, sind
-in Anlehnung an die Bestimmungen des Siebenten Abschnitts der
-Grundbuchordnung, der §§ 55a und 79 des Bürgerlichen Gesetzbuches, der
-§§ 8a und 9 des Handelsgesetzbuchs und des § 387 Abs. 2 Satz 2 des
-Gesetzes über das Verfahren in Familiensachen und in den
-Angelegenheiten der freiwilligen Gerichtsbarkeit zu regeln.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, bis
+zu deren Erlaß auch durch Allgemeine Verwaltungsvorschriften mit
+Zustimmung des Bundesrates, die näheren Vorschriften über die
+Einrichtung und Führung des Registers für Pfandrechte an
+Luftfahrzeugen, die Einsicht in das Register und die dazu gehörigen
+Akten sowie die Erteilung von Abschriften aus dem Register und den
+Registerakten zu erlassen. Es kann in der Rechtsverordnung auch
+bestimmen, daß das Register elektronisch geführt werden kann. Die
+Einzelheiten, insbesondere die Voraussetzungen für die Einrichtung
+eines automatisierten Abrufverfahrens und die hierbei zu treffenden
+Schutzvorkehrungen, sind in Anlehnung an die Bestimmungen des
+Siebenten Abschnitts der Grundbuchordnung, der §§ 55a und 79 des
+Bürgerlichen Gesetzbuches, der §§ 8a und 9 des Handelsgesetzbuchs und
+des § 387 Abs. 2 Satz 2 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit zu regeln.
 
-(1a) Das Bundesministerium der Justiz wird auch ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die für die
-Schutzvorkehrungen bei dem elektronischen Abrufverfahren zuständige
-Stelle zu bestimmen. Es kann in der Rechtsverordnung nach Satz 1 die
-Landesregierung ermächtigen, durch Rechtsverordnung eine andere Stelle
-zu bestimmen und die Ermächtigung auf die Landesjustizverwaltung zu
-übertragen.
+(1a) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+auch ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+die für die Schutzvorkehrungen bei dem elektronischen Abrufverfahren
+zuständige Stelle zu bestimmen. Es kann in der Rechtsverordnung nach
+Satz 1 die Landesregierung ermächtigen, durch Rechtsverordnung eine
+andere Stelle zu bestimmen und die Ermächtigung auf die
+Landesjustizverwaltung zu übertragen.
 
 (2) Die sachliche Zuständigkeit der Registerbeamten bestimmt die
 Landesjustizverwaltung.
@@ -1543,15 +1542,16 @@ Landesjustizverwaltung.
 
 #### § 97
 
-Der Bundesminister der Justiz wird ermächtigt, mit Zustimmung des
-Bundesrates durch Rechtsverordnung das Verfahren zu bestimmen, nach
-dem ein Register für Pfandrechte an Luftfahrzeugen, das ganz oder zum
-Teil zerstört oder abhanden gekommen ist, wiederhergestellt wird und
-nach dem vernichtete oder abhanden gekommene Urkunden ersetzt werden,
-auf die eine Eintragung sich gründet oder Bezug nimmt. In der
-Rechtsverordnung kann auch bestimmt werden, in welcher Weise bis zur
-Wiederherstellung des Registers für Pfandrechte an Luftfahrzeugen die
-zu einer Rechtsänderung erforderliche Eintragung ersetzt wird.
+Der Bundesminister der Justiz und für Verbraucherschutz wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung das
+Verfahren zu bestimmen, nach dem ein Register für Pfandrechte an
+Luftfahrzeugen, das ganz oder zum Teil zerstört oder abhanden gekommen
+ist, wiederhergestellt wird und nach dem vernichtete oder abhanden
+gekommene Urkunden ersetzt werden, auf die eine Eintragung sich
+gründet oder Bezug nimmt. In der Rechtsverordnung kann auch bestimmt
+werden, in welcher Weise bis zur Wiederherstellung des Registers für
+Pfandrechte an Luftfahrzeugen die zu einer Rechtsänderung
+erforderliche Eintragung ersetzt wird.
 
 
 ### Achter Abschnitt - Anwendbarkeit der Vorschriften anderer Gesetze
@@ -1697,40 +1697,8 @@ einzureichen, soll erst nach Zahlung der Gebühr erlassen werden. Im
 übrigen gelten die Vorschriften des Gerichtskostengesetzes.
 
 
-#### § 102
+#### § 102 (weggefallen)
 
-(1) Die Vorschriften in §§ 23, 38
-Abs. 1              Nr. 5, §§ 86, 87 Nr. 1, §§ 89, 90, 111 und 122 der
-Kostenordnung gelten sinngemäß mit der Maßgabe, daß an die Stelle des
-Schiffes das Luftfahrzeug, an die Stelle der Schiffshypothek das
-Registerpfandrecht an einem Luftfahrzeug und an die Stelle des
-Schiffsregisters das Register für Pfandrechte an Luftfahrzeugen tritt.
-
-(2) Die Eintragung und die Löschung der Eintragung des Luftfahrzeugs
-oder des Ersatzteillagers sowie Eintragungen auf Grund der §§ 90 bis
-92 und die Löschung einer solchen Eintragung im Register für
-Pfandrechte an Luftfahrzeugen sind gebührenfrei.
-
-(3) Für die Eintragung oder Löschung des Registerpfandrechts und für
-die Eintragung von Veränderungen, die sich auf das Registerpfandrecht
-beziehen, ferner für die Eintragung oder Löschung von Vormerkungen,
-Widersprüchen und Verfügungsbeschränkungen gelten die für die
-entsprechenden Eintragungen im Grundbuch gegebenen Vorschriften
-sinngemäß mit der Maßgabe, daß in jedem Fall nur ein Viertel der
-vollen Gebühr erhoben wird. Für die Eintragung oder Löschung eines
-Schutzvermerks nach § 77 gelten die für die Eintragung oder Löschung
-einer Vormerkung nach Satz 1 geltenden Vorschriften sinngemäß.
-
-(4) Für die Eintragung der Erweiterung des Registerpfandrechts auf
-Ersatzteile oder die Löschung dieser Eintragung wird ein Viertel der
-vollen Gebühr nach dem Nennbetrag der Schuld erhoben; der von dem
-Gebührenschuldner glaubhaft gemachte Wert der Ersatzteile, auf die
-sich nach § 71 das Registerpfandrecht erstreckt, ist maßgebend, wenn
-er geringer ist. Wird gleichzeitig mit dem Antrag auf Eintragung oder
-Löschung des Registerpfandrechts die Eintragung oder Löschung der
-Erweiterung beantragt, so wird die Gebühr nach Satz 1 nicht erhoben.
-
-(5)
 
 
 ## Zweiter Teil - Vorschriften für ausländische Luftfahrzeuge

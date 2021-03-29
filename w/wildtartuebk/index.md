@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Erhaltung der wandernden wildlebenden Tierarten
 jurabk: WildTArtÜbk
 layout: default
-origslug: wildtart_bk
+origslug: wildtartuebk
 slug: wildtartuebk
 
 ---

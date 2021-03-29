@@ -13,10 +13,13 @@ Ausfertigungsdatum
 :   1993-05-27
 
 Fundstelle
-:   BGBl I: 1993, 741 (1994 I 523)
+:   BGBl I: 1993, 741 (1994 I 523) (1995 II 95)
 
 Zuletzt geändert durch
-:   Art. 3 § 7 V v. 19.12.2008 I 2868; 2010, 380
+:   Art. 175 G v. 29.3.2017 I 626
+
+Änderung durch
+:   Art. 2 § 3 Nr. 1 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -50,96 +53,54 @@ Anlage A zu dieser Verordnung.
 
 ## § 2 Ausnahmen
 
-(1) Für Fahrzeuge mit einer Fahrtauglichkeitsbescheinigung nach den §§
-5 und 6 der Binnenschiffsuntersuchungsordnung vom
-6\. Dezember              2008 (BGBl. I S. 2450) in der jeweils
-geltenden Fassung gelten folgende Ausnahmen:
-
-1.  Signallichter dürfen auch verwendet werden, wenn sie an Stelle der
-    Voraussetzungen der Anlagen 4 und 5 zu der Anlage A zu dieser
-    Verordnung den Vorschriften der
-
-    a)  Verordnung über die Farbe und Lichtstärke der Bordlichter sowie die
-        Zulassung von Signalleuchten in der Binnenschiffahrt auf Rhein und
-        Mosel vom 16. März 1992 (BGBl. I S. 531) oder der
-
-
-    b)  Verordnung über die Farbe und Lichtstärke der Bordlichter sowie die
-        Zulassung von Signalleuchten im Geltungsbereich der
-        Binnenschiffahrtsstraßen-Ordnung vom 14. September 1972 (BGBl. I S.
-        1775), zuletzt geändert durch die Verordnung vom 16. März 1992 (BGBl.
-        I S. 531),
-
-
-
-
-    in deren jeweils geltenden Fassung entsprechen.
-
-
-2.  Schallsignalanlagen dürfen auch verwendet werden, wenn sie an Stelle
-    der Voraussetzungen des § 4.01 der Anlage A zu dieser Verordnung und
-    der Anlage 6 zu der Anlage A zu dieser Verordnung den Vorschriften
-
-    a)  der Rheinschiffahrtspolizeiverordnung (Anhang zu Artikel 1 der
-        Verordnung zur Einführung der Rheinschiffahrtspolizeiverordnung vom
-        16\. August 1983, BGBl. I S. 1145), die durch Artikel 9 Nr. 5 der
-        Verordnung vom 16. März 1984 (BGBl. I S. 473) geändert worden ist,
-
-
-    b)  der Binnenschiffahrtsstraßen-Ordnung (Anhang zu Artikel 1 der
-        Verordnung zur Einführung der Binnenschiffahrtsstraßen-Ordnung vom 1.
-        Mai 1985, BGBl. I S. 734), die zuletzt durch Artikel 2 der Verordnung
-        vom 14. April 1992 (BGBl. I S. 911) geändert worden ist,
-
-
-    c)  (weggefallen)
-
-
-
-
-    entsprechen.
-
-
-
-
-(2) Absatz 1 gilt für nichtzulassungspflichtige Fahrzeuge
-entsprechend.
+Auf Fahrzeugen mit einer Fahrtauglichkeitsbescheinigung nach den §§ 5
+und 6 dürfen Signallichter auch verwendet werden, wenn sie an Stelle
+der Voraussetzungen der Anlagen 4 und 5 zu der Anlage A zu dieser
+Verordnung den Vorschriften nach Artikel 7.05 des Europäischen
+Standards der technischen Vorschriften für Binnenschiffe in der
+Edition 2017/1, der vom Europäischen Ausschuss für die Ausarbeitung
+von Standards im Bereich der Binnenschifffahrt (CESNI) angenommen
+wurde (Bekanntmachung des Bundesministeriums für Verkehr und digitale
+Infrastruktur vom 7. März 2018 (BAnz AT 13.03.2018 B4)) (ES-TRIN),
+entsprechen.
 
 
 ## § 3 Zuständige Behörde
 
 (1) Zuständige Behörde im Sinne des § 6.32 Nr. 1 Buchstabe a der
-Anlage A zu dieser Verordnung ist das Bundesministerium für Verkehr.
+Anlage A zu dieser Verordnung ist das Bundesministerium für Verkehr
+und digitale Infrastruktur.
 
 (2) Soweit in den Absätzen 4 und 5 nichts anderes bestimmt ist, ist
-zuständige Behörde im Sinne dieser Verordnung die Wasser- und
-Schiffahrtsdirektion Süd als Strom- und Schiffahrtspolizeibehörde. Sie
-kann die Regelung örtlicher Verhältnisse, auch Anordnungen nach § 1.22
-der Anlage A zu dieser Verordnung, ihren nachgeordneten Stellen
-übertragen und Hafenaufseher bestellen.
+zuständige Behörde im Sinne dieser Verordnung die Generaldirektion
+Wasserstraßen und Schifffahrt als Strom- und
+Schiffahrtspolizeibehörde. Sie kann die Regelung örtlicher
+Verhältnisse, auch Anordnungen nach § 1.22 der Anlage A zu dieser
+Verordnung, ihren nachgeordneten Stellen übertragen und Hafenaufseher
+bestellen.
 
 (3) Zuständige Behörde im Sinne des § 8.05 der Anlage A zu dieser
-Verordnung ist die Wasser- und Schiffahrtsdirektion Süd; zu diesem
-Zweck wird die Wasser- und Schiffahrtsdirektion Süd ermächtigt,
-Rechtsverordnungen auf Grund des § 3 Abs. 1 Nr. 1, 3 und 4 des
-Binnenschiffahrtsaufgabengesetzes und des § 46 des
+Verordnung ist die Generaldirektion Wasserstraßen und Schifffahrt; zu
+diesem Zweck wird die Generaldirektion Wasserstraßen und Schifffahrt
+ermächtigt, Rechtsverordnungen auf Grund des § 3 Abs. 1 Nr. 1, 3 und 4
+des Binnenschiffahrtsaufgabengesetzes und des § 46 des
 Bundeswasserstraßengesetzes vorübergehend bis zur Dauer von drei
 Jahren zu erlassen.
 
 (4) Zuständige Behörde im Sinne des § 1.10 Nr. 4, § 1.12 Nr. 3 und 4,
 § 1.13 Nr. 2 und 3, §§ 1.14, 1.15 Nr. 2 Satz 2, § 1.17 Nr. 1 Satz 1,
 §§ 1.19, 1.20, 6.08 Nr. 3 und § 8.15 Nr. 8 der Anlage A zu dieser
-Verordnung sind neben der Wasser- und Schiffahrtsdirektion Süd auch
-deren nachgeordnete Stellen und nach Maßgabe der nach § 1 Abs. 1 Nr. 2
-des Binnenschiffahrtsaufgabengesetzes geschlossenen Vereinbarung
-zwischen dem Bund und dem Land Bayern vom 14. Dezember 1954/18. April
-1955 die Polizeikräfte des Landes Bayern.
+Verordnung sind neben der Generaldirektion Wasserstraßen und
+Schifffahrt auch deren nachgeordnete Stellen und nach Maßgabe der nach
+§ 1 Abs. 1 Nr. 2 des Binnenschiffahrtsaufgabengesetzes geschlossenen
+Vereinbarung zwischen dem Bund und dem Land Bayern vom 14. Dezember
+1954/18. April 1955 die Polizeikräfte des Landes Bayern.
 
 (5) Zuständige Behörde für die Anbringung der Einsenkungsmarken nach §
 2\.04 Nr. 1 der Anlage A zu dieser Verordnung und der Tiefgangsanzeiger
 nach § 2.04 Nr. 2 der Anlage A zu dieser Verordnung in Verbindung mit
 Anlage 2 Nr. 3 und 4 zu der Anlage A zu dieser Verordnung ist die
-Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt.
+Generaldirektion Wasserstraßen und Schifffahrt.
 
 (6) Liegen die Voraussetzungen des § 48 oder 49 des
 Verwaltungsverfahrensgesetzes vor, kann die zuständige Behörde eine
@@ -149,9 +110,9 @@ befristen und mit Auflagen verbinden.
 
 ## § 4 Fahrzeuge des öffentlichen Dienstes
 
-Fahrzeuge der Wasser- und Schiffahrtsverwaltung des Bundes, der
-Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei, der
-Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und
+Fahrzeuge der Wasserstraßen- und Schifffahrtsverwaltung des Bundes,
+der Wasserschutzpolizei, der Bereitschaftspolizei, der Bundespolizei,
+der Streitkräfte, des Zolldienstes, der Feuerwehr, des Zivil- und
 Katastrophenschutzes sowie der Wasserwirtschaftsverwaltungen sind von
 den Vorschriften der Anlage A zu dieser Verordnung befreit, soweit
 dies zur Erfüllung hoheitlicher Aufgaben unter Berücksichtigung der
@@ -355,17 +316,16 @@ Fahrlässig als Schiffsführer oder Führer einer schwimmenden Anlage
 
 
 
+    zuwiderhandelt.
 
 
 
 
-
-zuwiderhandelt. (5) Ordnungswidrig im Sinne des § 7 Abs. 1 des
-    Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
-    der Anlage A zu dieser Verordnung verstößt, indem er vorsätzlich oder
-    fahrlässig als Schiffsführer oder nach § 8.02 für Kurs und
-    Geschwindigkeit verantwortliche Person
-
+(5) Ordnungswidrig im Sinne des § 7 Abs. 1 des
+Binnenschiffahrtsaufgabengesetzes handelt, wer gegen eine Vorschrift
+der Anlage A zu dieser Verordnung verstößt, indem er vorsätzlich oder
+fahrlässig als Schiffsführer oder nach § 8.02 für Kurs und
+Geschwindigkeit verantwortliche Person
 
 1.  ein Fahrzeug, einen Verband oder einen Schwimmkörper führt, deren
     Länge, Breite, Höhe, Tiefgang oder Geschwindigkeit entgegen § 1.06 den
@@ -488,7 +448,28 @@ zuwiderhandelt. (5) Ordnungswidrig im Sinne des § 7 Abs. 1 des
 
 
 15. entgegen § 10.04 Nr. 1 einen talfahrenden Schleppverband nicht
-    aufdreht oder
+    aufdreht,
+
+
+15a. entgegen § 10.09 Nummer 9 Buchstabe a nicht sicherstellt, dass das
+    Inland AIS Gerät ständig eingeschaltet ist,
+
+
+15b. entgegen § 10.09 Nummer 9 Buchstabe b nicht sicherstellt, dass die in
+    das Inland AIS Gerät eingegebenen Daten zu jedem Zeitpunkt den
+    tatsächlichen Daten des Fahrzeugs oder Verbandes entsprechen,
+
+
+15c. entgegen § 10.09 Nummer 9 Buchstabe c nicht sicherstellt, dass das
+    Inland AIS Gerät in dem in § 10.09 Nummer 2 Satz 3 genannten Fall
+    ausgeschaltet ist,
+
+
+15d. entgegen § 10.09 Nummer 9 Buchstabe d nicht sicherstellt, dass in dem
+    in § 10.09 Nummer 3 Satz 1 genannten Fall ein Inland ECDIS Gerät im
+    Informationsmodus, das mit dem Inland AIS Gerät verbunden ist, nicht
+    oder nicht zusammen mit einer aktuellen elektronischen
+    Binnenschifffahrtskarte genutzt wird oder,
 
 
 16. entgegen § 12.01 Nr. 1 Satz 1 ein Altwasser befährt.
@@ -532,10 +513,24 @@ fahrlässig als Schiffsführer
 
     f)  an Bord dessen entgegen § 8.05 Satz 2 ein Abdruck der Anlage A zu
         dieser Verordnung oder einer Rechtsverordnung nach § 8.05 Satz 1 in
-        jeweils geltender Fassung nicht mitgeführt wird oder
+        jeweils geltender Fassung nicht mitgeführt wird,
 
 
-    g)  das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zulässig eintaucht oder
+    g)  das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
+        ausgestattet ist,
+
+
+    h)  das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht
+        mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland
+        AIS Gerät verbunden ist, ausgestattet ist,
+
+
+    i)  das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit
+        einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
+        ist oder,
+
+
+    j)  das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zulässig eintaucht oder
         die Schleuse ohne Erlaubnis nach § 13.04 Nr. 2 Satz 2 durchfährt,
 
 
@@ -669,6 +664,12 @@ fahrlässig als Schiffsführer
     oder ein anderes Fahrzeug ohne Ruderanlage fortbewegt,
 
 
+24a. entgegen § 10.09 Nummer 4 die dort genannten Daten nicht, nicht
+    vollständig oder nicht rechtzeitig übermittelt oder entgegen § 10.09
+    Nummer 5 die dort genannten Daten bei Änderungen nicht, nicht
+    vollständig oder nicht rechtzeitig aktualisiert,
+
+
 25. entgegen § 13.02 Satz 1 die dort genannten Fahrzeuge oder
     Schwimmkörper einsetzt,
 
@@ -720,10 +721,24 @@ fahrlässig als Eigentümer oder Ausrüster
         oder 3 nicht oder nicht vorschriftsmäßig gekennzeichnet ist,
 
 
-    e)  das entgegen § 2.03 nicht geeicht ist oder
+    e)  das entgegen § 2.03 nicht geeicht ist,
 
 
-    f)  das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zugelassen eintaucht oder
+    f)  das entgegen § 10.09 Nummer 1 Satz 1 nicht mit einem Inland AIS Gerät
+        ausgestattet ist,
+
+
+    g)  das entgegen § 10.09 Nummer 3 Satz 1 in dem dort genannten Fall nicht
+        mit einem Inland ECDIS Gerät im Informationsmodus, das mit dem Inland
+        AIS Gerät verbunden ist, ausgestattet ist,
+
+
+    h)  das entgegen § 10.09 Nummer 8 in dem dort genannten Fall nicht mit
+        einer Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet
+        ist oder,
+
+
+    i)  das entgegen § 13.04 Nr. 2 Satz 1 tiefer als zugelassen eintaucht oder
         nicht über die erforderliche Erlaubnis nach § 13.04 Nr. 2 Satz 2 zur
         Durchfahrt der Schleuse verfügt,
 

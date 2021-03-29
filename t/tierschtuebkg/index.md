@@ -3,7 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 13. Dezember 1968 über de
   von Tieren beim internationalen Transport
 jurabk: TierSchTÜbkG
 layout: default
-origslug: tierscht_bkg
+origslug: tierschtuebkg
 slug: tierschtuebkg
 
 ---

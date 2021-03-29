@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 1946
 
 Zuletzt geändert durch
-:   Art. 13 Abs. 10 G v. 12.4.2012 I 579
+:   Art. 29 G v. 20.11.2015 I 2010
 
 
 ## Eingangsformel
@@ -1343,9 +1343,9 @@ Versicherungsträger auf Antrag ausgestellt.
 Unternehmerverzeichnis verzeichneten Unternehmer ein
 Rückantwortschreiben mit einem vorbereiteten Antrag zu übersenden. Die
 von den Unternehmern zur Ausstellung der Wahlausweise für sie und ihre
-Ehegatten zu machenden Angaben sind so auf die Rückantwort
-aufzudrucken, daß ein bloßes Ankreuzen der zutreffenden Angabe durch
-den Unternehmer genügt.
+Ehegatten oder Lebenspartner zu machenden Angaben sind so auf die
+Rückantwort aufzudrucken, daß ein bloßes Ankreuzen der zutreffenden
+Angabe durch den Unternehmer genügt.
 
 (3) Die Kosten für die Rückantwort trägt der Versicherungsträger.
 
@@ -1684,100 +1684,49 @@ einem Behälter gesammelt, ständig gegen Zugriffe gesichert und
 unverzüglich an den Adressaten abgesandt werden.
 
 
-#### § 47 Stimmabgabe im Ältestensprengel
+#### § 47
 
-Der Wähler, der die Versichertenältesten der Bundesknappschaft nicht
-brieflich wählt, kann seine Stimme nur in einem Wahlraum abgeben, der
-für den Ältestensprengel eingerichtet ist, in dem er seinen Wohnsitz
-hat.
+(weggefallen)
 
 
-#### § 48 Wahlräume und Wahlzeit für die Wahl der Versichertenältesten der Bundesknappschaft
+#### § 48
 
-(1) Der Wahlausschuß bestimmt, ob und welche Wahlräume eingerichtet
-werden. Er bestimmt auch die Tage und Zeiten zur Stimmabgabe in
-Wahlräumen.
-
-(2) Im Einvernehmen mit der Geschäftsleitung eines Betriebes können
-auch Räume in Betrieben zu Wahlräumen bestimmt werden.
+(weggefallen)
 
 
-#### § 49 Ausstattung der Wahlräume
+#### § 49
 
-Der Wahlausschuß stellt in jedem Wahlraum sicher, daß jeder Wähler
-seinen Stimmzettel unbeobachtet kennzeichnen kann und daß
-verschließbare Wahlurnen für die Aufnahme der Stimmzettel
-bereitstehen.
+(weggefallen)
 
 
-#### § 50 Beginn und Unterbrechung der Wahlhandlung
+#### § 50
 
-Die Wahlleitung überzeugt sich vor Beginn der Stimmabgabe davon, daß
-die Wahlurne leer ist. Der Vorsitzende der Wahlleitung verschließt die
-Wahlurne. Sie darf bis zum Schluß der Wahlhandlung nicht geöffnet und
-muß während einer Unterbrechung der Wahlhandlung gegen die Entnahme
-oder das Einwerfen von Stimmzetteln gesichert werden.
+(weggefallen)
 
 
-#### § 51 Öffentlichkeit der Wahlhandlung
+#### § 51
 
-Während der Wahlhandlung und der Ermittlung des Wahlergebnisses durch
-die Wahlleitung hat jedermann zum Wahlraum Zutritt.
-
-
-#### § 52 Ordnung in Gebäuden und in Wahlräumen
-
-(1) Jede Stelle, die einen Wahlraum eingerichtet hat, sorgt dafür, daß
-in dem Gebäude, in dem sich der Wahlraum befindet, jede Beeinflussung
-der Wähler unterbleibt.
-
-(2) Der Arbeitgeber und der Betriebsrat sorgen dafür, daß in den
-Betrieben außerhalb der eingerichteten Wahlräume Stimmen nicht
-abgegeben und Wahlbriefe nicht eingesammelt werden.
-
-(3) Die Wahlleitung sorgt für Ruhe und Ordnung im Wahlraum.
+(weggefallen)
 
 
-#### § 53 Stimmabgabe
+#### § 52
 
-(1) Der Wähler weist der Wahlleitung seinen Wahlausweis oder einen mit
-einer personenbezogenen Kennzeichnung versehenen Wahlbriefumschlag
-vor. Die Wahlleitung prüft den Wahlausweis oder den Wahlbriefumschlag.
-Bei Zweifeln über die Identität des Wählers kann die Wahlleitung
-verlangen, daß dieser sich über seine Person ausweist.
-
-(2) Soll ein Wähler zur Stimmabgabe nicht zugelassen werden, führt der
-Vorsitzende einen Beschluß der Wahlleitung herbei.
-
-(3) Läßt die Wahlleitung den Wähler zur Stimmabgabe zu, behält sie den
-Wahlausweis ein. Die Wahlausweise werden mit laufenden Nummern
-versehen. Wähler, die im Wahlraum den Stimmzettelumschlag nicht zur
-Hand haben, erhalten Stimmzettelumschläge von der Wahlleitung.
-
-(4) Nachdem der Wähler zur Stimmabgabe zugelassen ist, kennzeichnet er
-seinen Stimmzettel, legt ihn in den Stimmzettelumschlag und diesen in
-die Wahlurne.
+(weggefallen)
 
 
-#### § 54 Stimmabgabe behinderter Wähler
+#### § 53
 
-Ein Wähler, der infolge einer Behinderung, oder weil er des Lesens
-unkundig ist, bei der Stimmabgabe beeinträchtigt ist, bestimmt eine
-Person seines Vertrauens, der er sich bei der Stimmabgabe bedienen
-will, und teilt dies der Wahlleitung mit. Blinden oder sehbehinderten
-Wählern wird für das Kennzeichnen des Stimmzettels auf Antrag vom
-Versicherungsträger kostenfrei eine Wahlschablone zur Verfügung
-gestellt. Das Nähere regelt der Bundeswahlbeauftragte.
+(weggefallen)
 
 
-#### § 55 Schluß der Wahlhandlung
+#### § 54
 
-Sobald die Wahlzeit abgelaufen ist, wird dies vom Vorsitzenden der
-Wahlleitung bekanntgegeben. Von da an dürfen nur noch die Wähler zur
-Stimmabgabe zugelassen werden, die sich im Wahlraum befinden. Der
-Zutritt zum Wahlraum ist so lange zu sperren, bis die anwesenden
-Wähler ihre Stimme abgegeben haben. Sodann erklärt der Vorsitzende der
-Wahlleitung die Wahlhandlung für geschlossen.
+(weggefallen)
+
+
+#### § 55
+
+(weggefallen)
 
 
 ### Dritter Abschnitt - Ermittlung und Bekanntmachung des Wahlergebnisses
@@ -2090,7 +2039,7 @@ Niederschrift ist vom Vorsitzenden des Wahlausschusses und vom
 Vorsitzenden der Vertreterversammlung zu unterzeichnen.
 
 
-### Zweiter Abschnitt - Wahl der Vorsitzenden der Verwaltungsräte
+### Zweiter Abschnitt - Wahl der  Vorsitzenden der Verwaltungsräte
 
 
 
@@ -2486,8 +2435,9 @@ Diese Verordnung tritt am 1. Oktober 1997 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 15 Abs. 1 und § 65 Abs. 1)
 
-### Anlage 1 (zu § 15 Abs. 1 und § 65 Abs. 1) Vorschlagsliste für die Wahl einer Vertreterversammlung
+### Anlage 1 Vorschlagsliste für die Wahl einer Vertreterversammlung
 
 (Fundstelle: BGBl. I 1998, 1894 - 1897;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2775,8 +2725,9 @@ Alle Angaben sind in Maschinenschrift oder in anderer gut leserlicher
 Schrift (vorzugsweise Druckbuchstaben) einzusetzen. Unterschriften
 sind eigenhändig zu vollziehen.
 
+(zu § 15 Abs. 1)
 
-### Anlage 2 (zu § 15 Abs. 1) Vorschlagsliste für die Wahl eines Verwaltungsrates
+### Anlage 2 Vorschlagsliste für die Wahl eines Verwaltungsrates
 
 (Fundstelle: BGBl. I 1998, 1898 - 1901;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -2945,9 +2896,9 @@ vertreter  I                   I            I           I
 6 b           I                   I            I           I
 ----------------------------------------------------------------------
 ---------
-Fortsetzung auf .......... Einlageblättern. 8)             Die Liste
-umfaßt insgesamt .......... Blätter. 8) Erklärungen der Bewerber, daß
-sie ihrer Aufstellung zustimmen, sind beigefügt.
+Fortsetzung auf .......... Einlageblättern. 8)Die Liste umfaßt
+insgesamt .......... Blätter. 8) Erklärungen der Bewerber, daß sie
+ihrer Aufstellung zustimmen, sind beigefügt.
 Weiter sind beigefügt: 10) 11)
 ................................................ .....................
 ..........................................................
@@ -3077,8 +3028,9 @@ sind eigenhändig zu vollziehen.
 
 (weggefallen)
 
+(zu § 15 Abs. 1 und § 65 Abs. 1)
 
-### Anlage 4 (zu § 15 Abs. 1 und § 65 Abs. 1) Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung
+### Anlage 4 Unterstützerliste bei Trägern der Rentenversicherung und der Krankenversicherung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 15 u. 16;
@@ -3147,10 +3099,9 @@ I                   I                I           I            I
 Die Unterstützerliste besteht aus .......... Blättern. 4)
 Seite 2
 Handlungsanweisungen an den
-Listenvertreter bzw. Listenträger             Alle Angaben sind in
-Maschinenschrift oder in anderer gut leserlicher Schrift (vorzugsweise
-Druckbuchstaben) einzusetzen. Unterschriften sind eigenhändig zu
-vollziehen.
+Listenvertreter bzw. ListenträgerAlle Angaben sind in Maschinenschrift
+oder in anderer gut leserlicher Schrift (vorzugsweise Druckbuchstaben)
+einzusetzen. Unterschriften sind eigenhändig zu vollziehen.
 
 1)  Bei der Unterschriftensammlung ist dem Listenunterzeichner die
     vollständige Vorschlagsliste vorzulegen.
@@ -3176,8 +3127,9 @@ vollziehen.
 
 
 
+(zu § 15 Abs. 1)
 
-### Anlage 5 (zu § 15 Abs. 1) Unterstützerliste bei Trägern der Unfallversicherung
+### Anlage 5 Unterstützerliste bei Trägern der Unfallversicherung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 17 u. 18;
@@ -3246,10 +3198,9 @@ I                   I                I           I            I
 Die Unterstützerliste besteht aus .......... Blättern. 4)
 Seite 2
 Handlungsanweisungen an den
-Listenvertreter bzw. Listenträger             Alle Angaben sind in
-Maschinenschrift oder in anderer gut leserlicher Schrift (vorzugsweise
-Druckbuchstaben) einzusetzen. Unterschriften sind eigenhändig zu
-vollziehen.
+Listenvertreter bzw. ListenträgerAlle Angaben sind in Maschinenschrift
+oder in anderer gut leserlicher Schrift (vorzugsweise Druckbuchstaben)
+einzusetzen. Unterschriften sind eigenhändig zu vollziehen.
 
 1)  Bei der Unterschriftensammlung ist dem Listenunterzeichner die
     vollständige Vorschlagsliste vorzulegen.
@@ -3273,8 +3224,9 @@ vollziehen.
 
 
 
+(zu § 15 Abs. 4 und § 65 Abs. 2)
 
-### Anlage 6 (zu § 15 Abs. 4 und § 65 Abs. 2) Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates
+### Anlage 6 Zustimmungserklärung von Bewerberinnen/Bewerbern für die Wahl einer Vertreterversammlung/eines Verwaltungsrates
 
 (Fundstelle: BGBl. I 1998, 1902)
 ............................. 1)
@@ -3305,8 +3257,9 @@ stimme ich zu.
 
 (weggefallen)
 
+(zu § 15 Abs. 4)
 
-### Anlage 8 (zu § 15 Abs. 4) Erklärung des Listenvertreters über das Wahlrecht
+### Anlage 8 Erklärung des Listenvertreters über das Wahlrecht
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 21)
@@ -3351,8 +3304,9 @@ Person des Listenunterzeichners vorliegen.
 ......................................................................
 .........
 
+(zu § 41 Abs. 1)
 
-### Anlage 9 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten)
+### Anlage 9 Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Versicherten)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 22 bis 23;
@@ -3441,18 +3395,19 @@ I           I                 I                                I
 
 
 
-Seite 2             Der Stimmzettel darf nur von dem in dem
-Wahlausweis bezeichneten Wahlberechtigten gekennzeichnet werden. Ein
-Wähler, der des Lesens unkundig oder durch körperliche Gebrechen an
-der Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
+Seite 2Der Stimmzettel darf nur von dem in dem Wahlausweis
+bezeichneten Wahlberechtigten gekennzeichnet werden. Ein Wähler, der
+des Lesens unkundig oder durch körperliche Gebrechen an der
+Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
 Stimmzettels einer Person seines Vertrauens bedienen.
 Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
 herbeiführt oder das Ergebnis verfälscht, wird nach § 107 a in
 Verbindung mit § 108d des Strafgesetzbuches mit Freiheitsstrafe bis zu
 fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
+(zu § 41 Abs. 1)
 
-### Anlage 10 (zu § 41 Abs. 1) Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber)
+### Anlage 10 Wahlausweis und Stimmzettel für die Wahl einer Vertreterversammlung/eines Verwaltungsrates (Gruppe der Arbeitgeber)
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 24 u. 25;
@@ -3542,10 +3497,10 @@ I           I                 I                                I
 
 
 
-Seite 2             Der Stimmzettel darf nur von dem in dem
-Wahlausweis bezeichneten Wahlberechtigten gekennzeichnet werden. Ein
-Wähler, der des Lesens unkundig oder durch körperliche Gebrechen an
-der Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
+Seite 2Der Stimmzettel darf nur von dem in dem Wahlausweis
+bezeichneten Wahlberechtigten gekennzeichnet werden. Ein Wähler, der
+des Lesens unkundig oder durch körperliche Gebrechen an der
+Stimmabgabe behindert ist, kann sich bei der Kennzeichnung des
 Stimmzettels einer Person seines Vertrauens bedienen.
 Wer unbefugt wählt oder sonst ein unrichtiges Ergebnis einer Wahl
 herbeiführt oder das Ergebnis verfälscht, wird nach § 107a in
@@ -3557,8 +3512,9 @@ fünf Jahren oder mit Geldstrafe bestraft. Der Versuch ist strafbar.
 
 (weggefallen)
 
+(zu § 41 Abs. 4)
 
-### Anlage 12 (zu § 41 Abs. 4) Stimmzettelumschlag
+### Anlage 12 Stimmzettelumschlag
 
 Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 28;
@@ -3633,8 +3589,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
 
 
+(zu § 41 Abs. 4)
 
-### Anlage 13 (zu § 41 Abs. 4) Wahlbriefumschlag
+### Anlage 13 Wahlbriefumschlag
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 29;
@@ -3703,8 +3660,9 @@ I
 
 
 
+(zu § 3 Abs. 9 i.V.m. § 58 Abs. 5)
 
-### Anlage 14 (zu § 3 Abs. 9 i.V.m. § 58 Abs. 5) Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung
+### Anlage 14 Niederschrift des Wahlausschusses über die Ermittlung des Wahlergebnisses der Wahl zur Vertreterversammlung/zum Verwaltungsrat bei einer Wahl mit Wahlhandlung
 
 (Fundstelle: Anlageband zum BGBl. I Nr. 55 vom 5. August 1997, Seite
 30 bis 36;
@@ -3968,12 +3926,12 @@ I
 ---------
 Zahl d. I           I Zahl d.  I           I Zahl d.  I           I
 Sitze  I           I  Sitze   I           I  Sitze   I           I
--------------          -------------          -------------
-Da die für die Zuteilung des letzten Sitzes maßgebende Höchstzahl
-.......... auf die Liste/Listenverbindung .......... und die
-Liste/Listenverbindung .......... entfiel, wurde durch das Los
-entschieden, daß der auf diese Höchstzahl entfallende Sitz der
-Liste/Listenverbindung .......... zuzuteilen war.
+-------------          -------------          -------------Da die für
+die Zuteilung des letzten Sitzes maßgebende Höchstzahl .......... auf
+die Liste/Listenverbindung .......... und die Liste/Listenverbindung
+.......... entfiel, wurde durch das Los entschieden, daß der auf diese
+Höchstzahl entfallende Sitz der Liste/Listenverbindung ..........
+zuzuteilen war.
 Da die Liste/Listenverbindung .......... weniger Vorschläge enthielt,
 als Höchstzahlen auf sie entfielen, gingen ihre Stellen insoweit auf
 die folgenden Höchstzahlen der anderen Listen/Listenverbindungen über.
@@ -3998,9 +3956,9 @@ I    5      I              I            I              I            I
 ---------------------------------------------------------------------
 Zahl der    I            I  Zahl der    I            I
 Sitze  I            I       Sitze  I            I
---------------              --------------             Da die für die
-Zuteilung des letzten Sitzes maßgebende Höchstzahl .......... auf die
-Liste .......... und die Liste .......... entfiel, wurde durch das Los
+--------------              --------------Da die für die Zuteilung des
+letzten Sitzes maßgebende Höchstzahl .......... auf die Liste
+.......... und die Liste .......... entfiel, wurde durch das Los
 entschieden, daß der auf diese Höchstzahl entfallende Sitz der Liste
 .......... zuzuteilen war.
 Da die Liste .......... weniger Vorschläge enthielt, als Höchstzahlen
@@ -4080,8 +4038,7 @@ I
 I            I            I            I             I            I
 I
 ----------------------------------------------------------------------
----------             Die Sitze Nr. ..... sind mit Beauftragten
-besetzt. 2)
+---------Die Sitze Nr. ..... sind mit Beauftragten besetzt. 2)
 Für die Sitze Nr. ..... und Nr. ..... von der Liste ..... und der
 Liste ..... waren gleiche Höchstzahlen erzielt worden. In beiden
 Listen war nach der Reihenfolge der aufgeführten Bewerber der nächste
@@ -4168,8 +4125,9 @@ Beschlüsse des Wahlausschusses; besondere Vorfälle
 
 (weggefallen)
 
+(zu § 77 Abs. 3 Satz 1)
 
-### Anlage 18 (zu § 77 Abs. 3 Satz 1) Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes
+### Anlage 18 Vorschlagsliste für die Wahl eines - ehrenamtlichen - Vorstandes
 
 (Fundstelle: BGBl. I 1998, 1904 - 1906;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -4318,9 +4276,8 @@ vertreter  I                   I 4)         I           I
 5 b           I                   I            I           I
 ----------------------------------------------------------------------
 ---------
-Fortsetzung auf             Einlageblättern. 6)
-Erklärungen der Bewerber, daß sie ihrer Aufstellung zustimmen, sind
-beigefügt. 7)
+Fortsetzung auf             Einlageblättern. 6)Erklärungen der
+Bewerber, daß sie ihrer Aufstellung zustimmen, sind beigefügt. 7)
 Es wird ausdrücklich bestätigt, daß die Voraussetzungen der
 Wählbarkeit aller Bewerber geprüft worden sind, und zwar, soweit
 erforderlich, an Hand von Unterlagen. Die Prüfung hat ergeben, daß die
@@ -4367,8 +4324,9 @@ Vertreterversammlung, für die sie gelten sollen) 8)
 
 
 
+(zu § 77 Abs. 3 Satz 1)
 
-### Anlage 19 (zu § 77 Abs. 3 Satz 1) Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes
+### Anlage 19 Zustimmungserklärung von Bewerbern für die Wahl eines - ehrenamtlichen - Vorstandes
 
 (Fundstelle: BGBl. I 1998, 1907)
 ............................... 1)

@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Rechtsstellung der Staatenlosen
 jurabk: StaatenlÜbk
 layout: default
-origslug: staatenl_bk
+origslug: staatenluebk
 slug: staatenluebk
 
 ---

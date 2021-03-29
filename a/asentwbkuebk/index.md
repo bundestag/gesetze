@@ -2,7 +2,7 @@
 Title: Übereinkommen zur Errichtung der Asiatischen Entwicklungsbank
 jurabk: AsEntwBkÜbk
 layout: default
-origslug: asentwbk_bk
+origslug: asentwbkuebk
 slug: asentwbkuebk
 
 ---

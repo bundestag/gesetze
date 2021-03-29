@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2007, 179
 
 Zuletzt geändert durch
-:   Art. 1 G v. 31.5.2010 I 692
+:   Art. 1 G v. 28.9.2017 I 3530
 
 Artikel 1 dieses Gesetzes dient der Umsetzung der Richtlinie
 2000/31/EG des Europäischen Parlaments und des Rates vom 8. Juni 2000
@@ -102,6 +102,12 @@ Im Sinne dieses Gesetzes
     allein begründet keine Niederlassung des Anbieters,
 
 
+2a. ist drahtloses lokales Netzwerk ein Drahtloszugangssystem mit geringer
+    Leistung und geringer Reichweite sowie mit geringem Störungsrisiko für
+    weitere, von anderen Nutzern in unmittelbarer Nähe installierte
+    Systeme dieser Art, welches nicht exklusive Grundfrequenzen nutzt,
+
+
 3.  ist Nutzer jede natürliche oder juristische Person, die Telemedien
     nutzt, insbesondere um Informationen zu erlangen oder zugänglich zu
     machen,
@@ -149,59 +155,92 @@ Verbindlichkeiten einzugehen.
 
 ### § 2a Europäisches Sitzland
 
+[^F794738_02_BJNR017910007BJNE001801123]
+
 (1) Innerhalb des Geltungsbereichs der Richtlinie 2000/31/EG des
 Europäischen Parlaments und des Rates vom 8. Juni 2000 über bestimmte
 rechtliche Aspekte der Dienste der Informationsgesellschaft,
 insbesondere des elektronischen Geschäftsverkehrs, im Binnenmarkt
-(ABl. EG Nr. L 178 vom 17.7.2000, S. 1) bestimmt sich das Sitzland des
-Diensteanbieters danach, wo dieser seine Geschäftstätigkeit
-tatsächlich ausübt. Dies ist der Ort, an dem sich der Mittelpunkt der
-Tätigkeiten des Diensteanbieters im Hinblick auf ein bestimmtes
-Telemedienangebot befindet.
+(„Richtlinie über den elektronischen Geschäftsverkehr“) (ABl. L 178
+vom 17.7.2000, S. 1) bestimmt sich das Sitzland des Diensteanbieters
+danach, wo dieser seine Geschäftstätigkeit tatsächlich ausübt. Dies
+ist der Ort, an dem sich der Mittelpunkt der Tätigkeiten des
+Diensteanbieters im Hinblick auf ein bestimmtes Telemedienangebot
+befindet.
 
-(2) Innerhalb des Geltungsbereichs der Richtlinie 89/552/EWG bestimmt
-sich bei audiovisuellen Mediendiensten auf Abruf das Sitzland des
-Diensteanbieters
+(2) Abweichend von Absatz 1 gilt innerhalb des Geltungsbereichs der
+Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates vom
+10\. März 2010 zur Koordinierung bestimmter Rechts- und
+Verwaltungsvorschriften der Mitgliedstaaten über die Bereitstellung
+audiovisueller Mediendienste (Richtlinie über audiovisuelle
+Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1) bei audiovisuellen
+Mediendiensten auf Abruf Deutschland als Sitzland des
+Diensteanbieters, wenn
 
-a)  nach dem Ort der Hauptniederlassung, sofern dort die wirksame
-    Kontrolle über den audiovisuellen Mediendienst ausgeübt wird, und
-
-
-b)  nach dem Ort, in dem ein wesentlicher Teil des mit der Bereitstellung
-    des audiovisuellen Mediendienstes betrauten Personals tätig ist,
-    sofern die wirksame Kontrolle über den audiovisuellen Mediendienst
-    nicht in dem Mitgliedstaat der Europäischen Union oder einem Drittland
-    ausgeübt wird, an dem sich der Ort der Hauptniederlassung befindet;
-    lässt sich nicht feststellen, dass ein wesentlicher Teil des mit der
-    Bereitstellung des audiovisuellen Mediendienstes betrauten Personals
-    an einem bestimmten Ort befindet, bestimmt sich das Sitzland nach dem
-    Ort der Hauptniederlassung.
+1.  die Hauptverwaltung in Deutschland liegt und die redaktionellen
+    Entscheidungen über den audiovisuellen Mediendienst dort getroffen
+    werden,
 
 
+2.  die Hauptverwaltung in Deutschland liegt und die redaktionellen
+    Entscheidungen über den audiovisuellen Mediendienst in einem anderen
+    Mitgliedstaat der Europäischen Union getroffen werden, jedoch
+
+    a)  ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen
+        Mediendienstes betrauten Personals in Deutschland tätig ist,
 
 
-(3) Liegen die Voraussetzungen nach Absatz 2 Buchstabe a oder b nicht
-vor, bestimmt sich innerhalb des Geltungsbereichs der Richtlinie
-89/552/EWG              das Sitzland des Diensteanbieters nach dem
-Ort, an dem er zuerst mit seiner Tätigkeit nach Maßgabe des Rechts
-dieses Landes begonnen hat, sofern eine dauerhafte und tatsächliche
-Verbindung mit der Wirtschaft dieses Landes weiter besteht.
-
-(4) Anbieter von audiovisuellen Mediendiensten auf Abruf, bei denen
-nach den Absätzen 2 und 3 kein Sitzland innerhalb des Geltungsbereichs
-der Richtlinie 89/552/ EWG festgestellt werden kann, unterliegen dem
-deutschen Recht, sofern sie
-
-a)  eine in Deutschland gelegene Satelliten-Bodenstation für die
-    Aufwärtsstrecke oder
+    b)  ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen
+        Mediendienstes betrauten Personals sowohl in Deutschland als auch in
+        dem anderen Mitgliedstaat tätig ist oder
 
 
-b)  eine Deutschland gehörende Übertragungskapazität eines Satelliten
-    nutzen.
+    c)  ein wesentlicher Teil des mit der Bereitstellung des audiovisuellen
+        Mediendienstes betrauten Personals weder in Deutschland noch in dem
+        anderen Mitgliedstaat tätig ist, aber der Diensteanbieter zuerst in
+        Deutschland seine Tätigkeit aufgenommen hat und eine dauerhafte und
+        tatsächliche Verbindung mit der Wirtschaft Deutschlands fortbesteht,
+        oder
 
 
 
 
+
+3.  die Hauptverwaltung in Deutschland liegt und die redaktionellen
+    Entscheidungen über den audiovisuellen Mediendienst in einem
+    Drittstaat getroffen werden oder umgekehrt, aber ein wesentlicher Teil
+    des mit der Bereitstellung des audiovisuellen Mediendienstes betrauten
+    Personals in Deutschland tätig ist.
+
+
+
+
+(3) Für audiovisuelle Mediendiensteanbieter, die nicht bereits
+aufgrund ihrer Niederlassung der Rechtshoheit Deutschlands oder eines
+anderen Mitgliedstaats der Europäischen Union unterliegen, gilt
+Deutschland als Sitzland, wenn sie
+
+1.  eine in Deutschland gelegene Satelliten-Bodenstation für die
+    Aufwärtsstrecke nutzen oder
+
+
+2.  zwar keine in einem Mitgliedstaat der Europäischen Union gelegene
+    Satelliten-Bodenstation für die Aufwärtsstrecke nutzen, aber eine
+    Deutschland zugewiesene Übertragungskapazität eines Satelliten nutzen.
+
+
+
+Liegt keines dieser beiden Kriterien vor, gilt Deutschland auch als
+Sitzland für Diensteanbieter, die in Deutschland gemäß den Artikeln 49
+bis 55 des Vertrages über die Arbeitsweise der Europäischen Union
+niedergelassen sind.
+
+    § 2a dient der Umsetzung der Richtlinie 2010/13/EU des Europäischen
+    Parlaments und des Rates vom 10. März 2010 zur Koordinierung
+    bestimmter Rechts- und Verwaltungsvorschriften der Mitgliedstaaten
+    über die Bereitstellung audiovisueller Mediendienste (Richtlinie über
+    audiovisuelle Mediendienste) (ABl. L 95 vom 15.4.2010, S. 1).
+[^F794738_02_BJNR017910007BJNE001801123]: 
 
 ### § 3 Herkunftslandprinzip
 
@@ -284,7 +323,10 @@ unberührt.
 
 
 9.  die von den §§ 12, 13a bis 13c, 55a, 83, 110a bis 110d, 111b und 111c
-    des Versicherungsaufsichtsgesetzes und der
+    des Versicherungsaufsichtsgesetzes in der Fassung der Bekanntmachung
+    vom 17. Dezember 1992 (BGBl. 1993 I S. 2), das zuletzt durch Artikel 2
+    des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2305) geändert worden ist,
+    in der am 31. Dezember 2015 geltenden Fassung und der
     Versicherungsberichterstattungs-Verordnung erfassten Bereiche, die
     Regelungen über das auf Versicherungsverträge anwendbare Recht sowie
     für Pflichtversicherungen.
@@ -459,11 +501,26 @@ bereithalten, nach den allgemeinen Gesetzen verantwortlich.
 (2) Diensteanbieter im Sinne der §§ 8 bis 10 sind nicht verpflichtet,
 die von ihnen übermittelten oder gespeicherten Informationen zu
 überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige
-Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der
-Nutzung von Informationen nach den allgemeinen Gesetzen bleiben auch
-im Falle der Nichtverantwortlichkeit des Diensteanbieters nach den §§
-8 bis 10 unberührt. Das Fernmeldegeheimnis nach § 88 des
+Tätigkeit hinweisen.
+
+(3) Verpflichtungen zur Entfernung von Informationen oder zur Sperrung
+der Nutzung von Informationen nach den allgemeinen Gesetzen aufgrund
+von gerichtlichen oder behördlichen Anordnungen bleiben auch im Falle
+der Nichtverantwortlichkeit des Diensteanbieters nach den §§ 8 bis 10
+unberührt. Das Fernmeldegeheimnis nach § 88 des
 Telekommunikationsgesetzes ist zu wahren.
+
+(4) Wurde ein Telemediendienst von einem Nutzer in Anspruch genommen,
+um das Recht am geistigen Eigentum eines anderen zu verletzen und
+besteht für den Inhaber dieses Rechts keine andere Möglichkeit, der
+Verletzung seines Rechts abzuhelfen, so kann der Inhaber des Rechts
+von dem betroffenen Diensteanbieter nach § 8 Absatz 3 die Sperrung der
+Nutzung von Informationen verlangen, um die Wiederholung der
+Rechtsverletzung zu verhindern. Die Sperrung muss zumutbar und
+verhältnismäßig sein. Ein Anspruch gegen den Diensteanbieter auf
+Erstattung der vor- und außergerichtlichen Kosten für die
+Geltendmachung und Durchsetzung des Anspruchs nach Satz 1 besteht
+außer in den Fällen des § 8 Absatz 1 Satz 3 nicht.
 
 
 ### § 8 Durchleitung von Informationen
@@ -482,9 +539,14 @@ Nutzung vermitteln, nicht verantwortlich, sofern sie
 
 
 
-Satz 1 findet keine Anwendung, wenn der Diensteanbieter absichtlich
-mit einem Nutzer seines Dienstes zusammenarbeitet, um rechtswidrige
-Handlungen zu begehen.
+Sofern diese Diensteanbieter nicht verantwortlich sind, können sie
+insbesondere nicht wegen einer rechtswidrigen Handlung eines Nutzers
+auf Schadensersatz oder Beseitigung oder Unterlassung einer
+Rechtsverletzung in Anspruch genommen werden; dasselbe gilt
+hinsichtlich aller Kosten für die Geltendmachung und Durchsetzung
+dieser Ansprüche. Die Sätze 1 und 2 finden keine Anwendung, wenn der
+Diensteanbieter absichtlich mit einem Nutzer seines Dienstes
+zusammenarbeitet, um rechtswidrige Handlungen zu begehen.
 
 (2) Die Übermittlung von Informationen nach Absatz 1 und die
 Vermittlung des Zugangs zu ihnen umfasst auch die automatische
@@ -492,6 +554,33 @@ kurzzeitige Zwischenspeicherung dieser Informationen, soweit dies nur
 zur Durchführung der Übermittlung im Kommunikationsnetz geschieht und
 die Informationen nicht länger gespeichert werden, als für die
 Übermittlung üblicherweise erforderlich ist.
+
+(3) Die Absätze 1 und 2 gelten auch für Diensteanbieter nach Absatz 1,
+die Nutzern einen Internetzugang über ein drahtloses lokales Netzwerk
+zur Verfügung stellen.
+
+(4) Diensteanbieter nach § 8 Absatz 3 dürfen von einer Behörde nicht
+verpflichtet werden,
+
+1.  vor Gewährung des Zugangs
+
+    a)  die persönlichen Daten von Nutzern zu erheben und zu speichern
+        (Registrierung) oder
+
+
+    b)  die Eingabe eines Passworts zu verlangen oder
+
+
+
+
+
+2.  das Anbieten des Dienstes dauerhaft einzustellen.
+
+
+
+Davon unberührt bleibt, wenn ein Diensteanbieter auf freiwilliger
+Basis die Nutzer identifiziert, eine Passworteingabe verlangt oder
+andere freiwillige Maßnahmen ergreift.
 
 
 ### § 9 Zwischenspeicherung zur beschleunigten Übermittlung von Informationen
@@ -678,7 +767,32 @@ Bezahlung anonym oder unter Pseudonym zu ermöglichen, soweit dies
 technisch möglich und zumutbar ist. Der Nutzer ist über diese
 Möglichkeit zu informieren.
 
-(7) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des
+(7) Diensteanbieter haben, soweit dies technisch möglich und
+wirtschaftlich zumutbar ist, im Rahmen ihrer jeweiligen
+Verantwortlichkeit für geschäftsmäßig angebotene Telemedien durch
+technische und organisatorische Vorkehrungen sicherzustellen, dass
+
+1.  kein unerlaubter Zugriff auf die für ihre Telemedienangebote genutzten
+    technischen Einrichtungen möglich ist und
+
+
+2.  diese
+
+    a)  gegen Verletzungen des Schutzes personenbezogener Daten und
+
+
+    b)  gegen Störungen, auch soweit sie durch äußere Angriffe bedingt sind,
+
+
+
+
+
+
+gesichert sind. Vorkehrungen nach Satz 1 müssen den Stand der Technik
+berücksichtigen. Eine Maßnahme nach Satz 1 ist insbesondere die
+Anwendung eines als sicher anerkannten Verschlüsselungsverfahrens.
+
+(8) Der Diensteanbieter hat dem Nutzer nach Maßgabe von § 34 des
 Bundesdatenschutzgesetzes auf Verlangen Auskunft über die zu seiner
 Person oder zu seinem Pseudonym gespeicherten Daten zu erteilen. Die
 Auskunft kann auf Verlangen des Nutzers auch elektronisch erteilt
@@ -702,6 +816,28 @@ Bundesnachrichtendienstes oder des Militärischen Abschirmdienstes oder
 des Bundeskriminalamtes im Rahmen seiner Aufgabe zur Abwehr von
 Gefahren des internationalen Terrorismus oder zur Durchsetzung der
 Rechte am geistigen Eigentum erforderlich ist.
+
+(3) Der Diensteanbieter darf darüber hinaus im Einzelfall Auskunft
+über bei ihm vorhandene Bestandsdaten erteilen, soweit dies zur
+Durchsetzung zivilrechtlicher Ansprüche wegen der Verletzung absolut
+geschützter Rechte aufgrund rechtswidriger Inhalte, die von § 1 Absatz
+3 des Netzwerkdurchsetzungsgesetzes erfasst werden, erforderlich ist.
+
+(4) Für die Erteilung der Auskunft nach Absatz 3 ist eine vorherige
+gerichtliche Anordnung über die Zulässigkeit der Auskunftserteilung
+erforderlich, die vom Verletzten zu beantragen ist. Für den Erlass
+dieser Anordnung ist das Landgericht ohne Rücksicht auf den Streitwert
+zuständig. Örtlich zuständig ist das Gericht, in dessen Bezirk der
+Verletzte seinen Wohnsitz, seinen Sitz oder eine Niederlassung hat.
+Die Entscheidung trifft die Zivilkammer. Für das Verfahren gelten die
+Vorschriften des Gesetzes über das Verfahren in Familiensachen und in
+den Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Die
+Kosten der richterlichen Anordnung trägt der Verletzte. Gegen die
+Entscheidung des Landgerichts ist die Beschwerde statthaft.
+
+(5) Der Diensteanbieter ist als Beteiligter zu dem Verfahren nach
+Absatz 4 hinzuzuziehen. Er darf den Nutzer über die Einleitung des
+Verfahrens unterrichten.
 
 
 ### § 15 Nutzungsdaten
@@ -748,8 +884,8 @@ Diensteanbieter mit einem Dritten einen Vertrag über den Einzug des
 Entgelts geschlossen, so darf er diesem Dritten Abrechnungsdaten
 übermitteln, soweit es für diesen Zweck erforderlich ist. Zum Zwecke
 der Marktforschung anderer Diensteanbieter dürfen anonymisierte
-Nutzungsdaten übermittelt werden. § 14 Abs. 2 findet entsprechende
-Anwendung.
+Nutzungsdaten übermittelt werden. § 14 Absatz 2 bis 5 findet
+entsprechende Anwendung.
 
 (6) Die Abrechnung über die Inanspruchnahme von Telemedien darf
 Anbieter, Zeitpunkt, Dauer, Art, Inhalt und Häufigkeit bestimmter von
@@ -809,8 +945,9 @@ verschleiert oder verheimlicht.
     nicht vollständig oder nicht rechtzeitig unterrichtet,
 
 
-3.  einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 über eine
-    dort genannte Pflicht zur Sicherstellung zuwiderhandelt,
+3.  einer Vorschrift des § 13 Abs. 4 Satz 1 Nr. 1 bis 4 oder 5 oder Absatz
+    7 Satz 1 Nummer 1 oder Nummer 2 Buchstabe a über eine dort genannte
+    Pflicht zur Sicherstellung zuwiderhandelt,
 
 
 4.  entgegen § 14 Abs. 1 oder § 15 Abs. 1 Satz 1 oder Abs. 8 Satz 1 oder 2

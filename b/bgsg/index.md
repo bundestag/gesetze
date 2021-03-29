@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1834
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 8 G v. 5.2.2009 I 160
+:   Art. 13 V v. 31.8.2015 I 1474
 
 §§ 1 bis 47 u. §§ 62 bis 74 aufgeh. durch
 :   Art. 3 Abs. 1 Satz 2 G v. 19.10.1994 I 2978 mWv 1.11.1994
@@ -301,11 +301,11 @@ folgender Maßgabe anzuwenden:
 
 
 4.  An die Stelle des Beisitzers gemäß § 50 Abs.
-    4                    Satz 3 der Bundesdisziplinarordnung tritt ein
-    Dienstleistender, der der Laufbahn des beschuldigten Dienstleistenden
-    angehören soll. Der Bundesminister der Justiz bestellt die Beisitzer
-    für die Dauer ihres Grenzschutzdienstes auf Vorschlag des
-    Bundesministers des Innern; ein Beisitzer kann auch für mehrere
+    4 Satz 3 der Bundesdisziplinarordnung tritt ein Dienstleistender, der
+    der Laufbahn des beschuldigten Dienstleistenden angehören soll. Das
+    Bundesministerium der Justiz und für Verbraucherschutz bestellt die
+    Beisitzer für die Dauer ihres Grenzschutzdienstes auf Vorschlag des
+    Bundesministeriums des Innern; ein Beisitzer kann auch für mehrere
     Kammern bestellt werden.
 
 

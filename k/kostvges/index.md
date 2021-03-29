@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 665
 
+V aufgeh. durch
+:   Art. 4 Abs. 4 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 3 § 2 G v. 6.8.2002 I 3082
+:   Art. 2 Abs. 17 G v. 7.8.2013 I 3154
+
+V aufgeh. durch
+:   Art. 4 Abs. 4 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 4 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -35,8 +41,9 @@ Naturschutz und Reaktorsicherheit:
 
 Das Bundesinstitut für Arzneimittel und Medizinprodukte, das Bundesamt
 für Verbraucherschutz und Lebensmittelsicherheit und das Robert Koch-
-Institut erheben für die in dieser Verordnung genannten Amtshandlungen
-Kosten (Gebühren und Auslagen) nach dieser Verordnung.
+Institut erheben für die in dieser Verordnung genannten individuell
+zurechenbaren öffentlichen Leistungen Gebühren und Auslagen nach
+dieser Verordnung.
 
 
 ## § 2
@@ -346,7 +353,8 @@ Satz 1 der Verordnung (EG) Nr. 258/97 beträgt die Gebühr
 
 (1) Für die Bearbeitung von Änderungsanzeigen sowie bei nachträglicher
 Erteilung von Auflagen wird eine Gebühr bis zur Hälfte der für die
-jeweilige Amtshandlung vorgesehenen Gebühr erhoben.
+jeweilige individuell zurechenbare öffentliche Leistung vorgesehenen
+Gebühr erhoben.
 
 (2) Bei Änderungsanzeigen, die keinen inhaltlichen Prüfungsaufwand
 erfordern, zum Beispiel Änderung des Firmennamens oder der Anschrift
@@ -355,59 +363,62 @@ oder der Produktbezeichnung, beträgt die Gebühr 100 DM.
 
 ## § 7
 
-Für den Widerruf oder die Rücknahme einer Amtshandlung, die Ablehnung
-eines Antrages auf Vornahme einer Amtshandlung sowie in den Fällen der
-Zurücknahme eines Antrages auf Vornahme einer Amtshandlung werden
-Kosten nach Maßgabe des § 15 des Verwaltungskostengesetzes erhoben.
+Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die
+Ablehnung eines Antrages auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung sowie in den Fällen der Zurücknahme eines
+Antrages auf Vornahme einer individuell zurechenbaren öffentlichen
+Leistung werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2
+des Bundesgebührengesetzes erhoben.
 
 
 ## § 8
 
-(1) Erfordert eine der in den §§ 2 bis 5 aufgeführten Amtshandlungen
-im Einzelfall einen außergewöhnlich hohen Aufwand, so kann die Gebühr
-bis auf das Doppelte der danach zu erhebenden Gebühr erhöht werden.
-Der Gebührenschuldner ist zu hören, wenn mit der Erhöhung der Gebühr
-zu rechnen ist.
+(1) Erfordert eine der in den §§ 2 bis 5 aufgeführten individuell
+zurechenbaren öffentlichen Leistungen im Einzelfall einen
+außergewöhnlich hohen Aufwand, so kann die Gebühr bis auf das Doppelte
+der danach zu erhebenden Gebühr erhöht werden. Der Gebührenschuldner
+ist zu hören, wenn mit der Erhöhung der Gebühr zu rechnen ist.
 
 (2) Die nach den §§ 2 und 3 zu erhebenden Gebühren können auf Antrag
 des Gebührenschuldners bis auf die Hälfte der vorgesehenen Gebühr
 ermäßigt werden, wenn der Antragsteller einen den Entwicklungskosten
 einschließlich der Gebühren angemessenen wirtschaftlichen Nutzen nicht
-erwarten kann und an der Amtshandlung ein öffentliches Interesse
-besteht.
+erwarten kann und an der individuell zurechenbaren öffentlichen
+Leistung ein öffentliches Interesse besteht.
 
 (3) Die nach § 5 Abs. 1 zu erhebende Gebühr kann auf Antrag des
 Gebührenschuldners bis auf die Hälfte ermäßigt werden, wenn der mit
-der Amtshandlung verbundene Personal- und Sachaufwand einerseits und
-die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen der
-Amtshandlung für den Gebührenschuldner andererseits dies
-rechtfertigen.
+der individuell zurechenbaren öffentlichen Leistung verbundene
+Personal- und Sachaufwand einerseits und die Bedeutung, der
+wirtschaftliche Wert oder der sonstige Nutzen der individuell
+zurechenbaren öffentlichen Leistung für den Gebührenschuldner
+andererseits dies rechtfertigen.
 
 
 ## § 9
 
-Bei folgenden Amtshandlungen, die auf Antrag vorgenommen werden, sind
-an Gebühren zu erheben:
+Bei folgenden individuell zurechenbaren öffentlichen Leistungen, die
+auf Antrag vorgenommen werden, sind an Gebühren zu erheben:
 
 *    *   1.
 
     *   wissenschaftliche Stellungnahmen
 
-    *   200 bis 1.000 DM,
+    *   200 bis 1 000 DM,
 
 
 *    *   2.
 
     *   nicht einfache schriftliche Auskünfte
 
-    *   100 bis  200 DM,
+    *   100 bis 200 DM,
 
 
 *    *   3.
 
     *   Bescheinigungen und Beglaubigungen
 
-    *   25 bis  300 DM.
+    *   25 bis 300 DM.
 
 
 

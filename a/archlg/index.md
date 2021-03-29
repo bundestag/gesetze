@@ -101,24 +101,3 @@ bestimmten Ingenieurs oder Architekten in Anspruch zu nehmen, ist
 unwirksam. Die Wirksamkeit des auf den Erwerb des Grundstücks
 gerichteten Vertrages bleibt unberührt.
 
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 997) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-2.  Gesetz zur Regelung von Ingenieur- und Architektenleistungen vom 4.
-    November 1971 (BGBl. I S. 1745, 1749), geändert durch Gesetz vom 12.
-    November 1984 (BGBl. I S. 1337),
-
-    mit folgender Maßgabe:
-
-    Die Worte "bei Erteilung des Ingenieurauftrages" in § 1 Abs. 3 Nr. 3
-    und "bei Erteilung des Architektenauftrages" in § 2 Abs. 3 Nr. 3
-    gelten nicht bis zum 31. Dezember 1992.
-
-
-
-

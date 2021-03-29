@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1970, 230
 
 Zuletzt geändert durch
-:   Art. 4 V v. 8.11.2007 I 2569
+:   Art. 1 V v. 21.5.2015 I 782
 
 
 ## Eingangsformel
@@ -282,7 +282,7 @@ das Beschaffen oder die Entwertung des Fahrausweises aus Gründen
 unterblieben ist, die der Fahrgast nicht zu vertreten hat.
 
 (2) In den Fällen des Absatzes 1 kann der Unternehmer ein erhöhtes
-Beförderungsentgelt bis zu 40 Euro erheben. Er kann jedoch das
+Beförderungsentgelt bis zu 60 Euro erheben. Er kann jedoch das
 Doppelte des Beförderungsentgelts für einfache Fahrt auf der vom
 Fahrgast zurückgelegten Strecke erheben, sofern sich hiernach ein
 höherer Betrag als nach Satz 1 ergibt; hierbei kann das erhöhte

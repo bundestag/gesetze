@@ -2400,136 +2400,378 @@ Der Bundesminister des Innern
 
 ### Anlage (zu den §§ 47 und 49)
 
-Fundstelle des Originaltextes: BGBl. I 1984, 1364 - 1365
-(Vorderseite)
-An den
-Bundesminister des Innern
-Postfach 17 02 90
-5300 Bonn 1                                                     Lfd.
-Nr.: .....
-**Antrag auf Zulassung eines Volksbegehrens**
-Die Unterzeichneten, die zum Deutschen Bundestag wahlberechtigt
-sind, beantragen die Durchführung eines Volksbegehrens folgenden
-Inhalts:
-Für den zusammenhängenden, abgegrenzten Siedlungs- und
-Wirtschaftsraum,
-bestehend aus:
-1\. den Regierungsbezirken:
-.................................................1),
-kreisfreien Städten: ..........2),  Kreisen:
-............................2)
-Gemeinden: ................... 3),  (Kreis:
-.............................),
-des Landes
-.............................................................,4)
-2\. den Regierungsbezirken:
-.................................................1)
-kreisfreien Städten: ..........2),  Kreisen:
-............................2)
-Gemeinden: ....................3),  (Kreis:
-.............................),
-des Landes
-.............................................................,5)
-soll eine einheitliche Landeszugehörigkeit herbeigeführt werden, indem
-aus den unter Nummer 1 bis .... genannten Gebietsteilen der Länder
-............
-ein neues Bundesland .......................................6)
-gebildet wird 7)
-die unter Nr. 2 bis ..... genannten Gebietsteile aus dem Land/den
-Ländern .....
-ausgegliedert und in das Land
-.................................................
-eingegliedert werden.7)
-Die Unterzeichner dieses Antrags sind seit mindestens drei Monaten
-Einwohner des oben bezeichneten Neugliederungsraums.
-Vertrauensmann ist: .............. Sein Stellvertreter ist:
-...................
-(Rückseite)
-(Die Eintragungen sind von dem Unterzeichner persönlich und
-handschriftlich vorzunehmen)8)
-Bitte in Druckbuchstaben ausfüllen
-----------------------------------------------------------------------
----------
-I         I            I            I Wohnort,    I
-Familienname I Vorname I Geburtstag I Geburtsort I Straße, Nr. I
-Unterschrift
-I         I            I            I (Nur Haupt- I
-I         I            I            I wohnung!)   I
-----------------------------------------------------------------------
----------
-I         I            I            I             I
-I         I            I            I             I
-......................................................................
-.........
-I         I            I            I             I
-I         I            I            I             I
-......................................................................
-.........
-I         I            I            I             I
-**Bestätigung der Gemeinde**                9)
-Zusammenstellung umfaßt ..... Blätter, die durchnumeriert sind.
-Es wird hiermit bestätigt, daß die auf den Blättern mit den laufenden
-Nummern
-.......................... eingetragenen Unterzeichner vorstehenden
-Antrags zum
-Bundestag wahlberechtigt sind und seit mindestens drei Monaten in dem
-oben
-bezeichneten Neugliederungsraum wohnen. Die auf den Blättern mit den
-laufenden
-Nummern .................. eingetragenen Unterzeichner sind nicht zum
-Bundestag
-wahlberechtigt oder wohnen noch nicht drei Monate in dem oben
-bezeichneten
-Neugliederungsraum. Die Zusammenstellung enthält damit die
-Unterschriften von
-........... unterschriftsberechtigten Unterzeichneten. Bei der
-Sammlung der
-Unterschriften wurden - folgende - Unregelmäßigkeiten - nicht -
-festgestellt:
-......................................................................
-.........
-......................................................................
-.........
-......................................................................
-.........
-.................................. , den
-......................................
-(Dienststempel)        (Gemeinde)
-......................................
-(Unterschrift)
-**Anmerkungen zur Anlage**
-1) Es sind nur die Regierungsbezirke aufzuführen, die insgesamt zum
-Neugliederungsraum gehören. An Stelle von Regierungsbezirken
-können andere Verwaltungsbezirke - z. B. Siedlungs- oder
-Planungsverband,
-Großraum - genannt werden, die mehr als eine kreisfreie Stadt oder
-einen Kreis umfassen und insgesamt innerhalb des Neugliederungsraumes
-liegen.
-2) Es sind nur die kreisfreien Städte und Kreise aufzuführen, die
-nicht zu einem Regierungsbezirk - oder einem anderweitigen
-Verwaltungsbezirk, wenn ein solcher an Stelle eines Regierungsbezirkes
-genannt ist - gehören, der insgesamt innerhalb des
-Neugliederungsraumes
-liegt.
-3) Es sind nur die Gemeinden aufzuführen, die nicht zu einem Kreis
-gehören, der insgesamt innerhalb des Neugliederungsraumes liegt.
-4) Unter Nummer 1 ist dasjenige Land aufzuführen, in das
-gegebenenfalls
-Gebietsteile eines oder mehrerer anderer Länder eingegliedert
-werden sollen.
-5) Gebietsteile weiterer von der vorgeschlagenen Neugliederung
-betroffener Länder sind getrennt für jedes Land unter der
-fortlaufenden Nummer nach dem Muster der Nummern 1 und 2 aufzuführen.
-6) Hier ist der vorgeschlagene Name des neu zu bildenden Bundeslandes
-einzusetzen.
-7) Der Zulassungsantrag darf nur eine der beiden
-Neugliederungsmöglichkeiten
-nennen.
-8) Auf dem ersten Unterschriftsblatt unterschreibt der Vertrauensmann,
-auf dem zweiten sein Stellvertreter. Fehlen dieses Angaben,
-so gilt der Unterzeichner auf dem ersten Unterschriftsblatt als
-Vertrauensmann, der Unterzeichner auf dem zweiten Unterschriftsblatt
-als sein Stellvertreter.
-9) Die Gemeinde bestätigt nur einmal auf einem Formblatt für alle
-Unterschriftsblätter aus der Gemeinde.
+(Fundstelle des Originaltextes: BGBl. I 1984, 1364 - 1365)
 
+*    *   (Vorderseite)
+
+    *
+
+*    *
+    *
+    *
+
+*    *   An den
+
+    *
+    *
+
+*    *   Bundesminister des Innern
+
+    *
+    *
+
+*    *   Postfach 17 02 90
+
+    *
+    *
+
+*    *   5300 Bonn 1
+
+    *   Lfd. Nr.: ..................
+
+    *
+
+
+
+*    *   **Antrag auf Zulassung eines Volksbegehrens**
+
+
+*    *
+    *
+    *
+
+*    *   Die Unterzeichneten, die zum Deutschen Bundestag wahlberechtigt sind,
+        beantragen die Durchführung eines Volksbegehrens folgenden Inhalts:
+
+
+*    *
+    *
+    *
+
+*    *   Für den zusammenhängenden, abgegrenzten Siedlungs- und
+        Wirtschaftsraum, bestehend aus:
+
+
+*    *   1.
+
+    *[^BJNR013420984BJNE012300314_01]
+   den Regierungsbezirken: ..............................................
+        ......................................................................
+        ......................................................................
+        .................
+        ,
+
+
+*    *
+    *[^BJNR013420984BJNE012300314_02]
+   kreisfreien Städten: .................................................
+        ...............................
+        ,
+
+    *   Kreisen: .............................................................
+        ..........................
+
+
+*    *
+    *[^BJNR013420984BJNE012300314_03]
+   Gemeinden: ...........................................................
+        .................................
+        ,
+
+    *   (Kreis: ..............................................................
+        ............................,
+
+
+*    *
+    *[^BJNR013420984BJNE012300314_04]
+   des Landes ...........................................................
+        ......................................................................
+        ......................................................................
+        ............................,
+
+
+*    *
+    *
+    *
+
+*    *   2.
+
+    *   den Regierungsbezirken: ..............................................
+        ......................................................................
+        ......................................................................
+        ..................
+
+
+*    *
+    *   kreisfreien Städten: .................................................
+        ...............................
+        ,
+
+    *   Kreisen: .............................................................
+        ..........................
+
+
+*    *
+    *   Gemeinden: ...........................................................
+        .................................
+        ,
+
+    *   (Kreis:...............................................................
+        ...........................,
+
+
+*    *
+    *[^BJNR013420984BJNE012300314_05]
+   des Landes ...........................................................
+        ......................................................................
+        ......................................................................
+        ............................,
+
+
+*    *
+    *
+    *
+
+*    *   soll eine einheitliche Landeszugehörigkeit herbeigeführt werden, indem
+
+
+*    *   aus den unter Nummer 1 bis ............... genannten Gebietsteilen der
+        Länder ...............................................................
+        .............................................................
+
+
+*    *[^BJNR013420984BJNE012300314_06]
+   ein neues Bundesland .................................................
+        ......................................................................
+        ......................................................................
+        .
+[^BJNR013420984BJNE012300314_07]
+        gebildet wird
+
+
+*    *   die unter Nr. 2 bis ............. genannten Gebietsteile aus dem
+        Land/den Ländern .....................................................
+        ..................................................................
+
+
+*    *   ausgegliedert und in das Land ........................................
+        ......................................................................
+        ......................................................................
+        ....................
+
+
+*    *   eingegliedert werden.
+
+
+*    *
+
+*    *   Die Unterzeichner dieses Antrags sind seit mindestens drei Monaten
+        Einwohner des oben bezeichneten Neugliederungsraums.
+
+
+*    *
+    *
+    *
+
+*    *   Vertrauensmann ist:
+        .....................................................................
+
+    *   Sein Stellvertreter ist:
+        ..................................................
+
+
+*    *
+    *
+    *
+
+
+
+*    *   (Rückseite)
+
+
+*    *
+
+*    *[^BJNR013420984BJNE012300314_08]
+   (Die Eintragungen sind von dem Unterzeichner persönlich und
+        handschriftlich vorzunehmen)
+
+
+
+
+*    *   Bitte in Druckbuchstaben ausfüllen
+
+
+*    *   Familienname
+
+    *   Vorname
+
+    *   Geburtstag
+
+    *   Geburtsort
+
+    *   Wohnort, Straße, Nr.
+        (Nur Hauptwohnung!)
+
+    *   Unterschrift
+
+
+*    *   ................................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ................................................
+
+    *   ...........................................
+
+
+*    *   ................................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ................................................
+
+    *   ...........................................
+
+
+*    *   ................................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ................................................
+
+    *   ...........................................
+
+
+*    *   ................................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ...........................................
+
+    *   ................................................
+
+    *   ...........................................
+
+
+
+
+*    *[^BJNR013420984BJNE012300314_09]
+   **Bestätigung der Gemeinde**
+
+
+*    *
+    *
+
+*    *
+    *   Zusammenstellung umfaßt ............ Blätter, die durchnumeriert sind.
+
+
+*    *
+
+*    *   Es wird hiermit bestätigt, daß die auf den Blättern mit den laufenden
+        Nummern .......................... eingetragenen Unterzeichner
+        vorstehenden Antrags zum Bundestag wahlberechtigt sind und seit
+        mindestens drei Monaten in dem oben bezeichneten Neugliederungsraum
+        wohnen. Die auf den Blättern mit den laufenden Nummern
+        .................. eingetragenen Unterzeichner sind nicht zum
+        Bundestag wahlberechtigt oder wohnen noch nicht drei Monate in dem
+        oben bezeichneten Neugliederungsraum. Die Zusammenstellung enthält
+        damit die Unterschriften von ........... unterschriftsberechtigten
+        Unterzeichneten. Bei der Sammlung der Unterschriften wurden - folgende
+        - Unregelmäßigkeiten - nicht - festgestellt:
+
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ................
+
+
+*    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ......................................................................
+        ................
+
+
+*    *
+
+*    *   ......................................................................
+        ......................................................................
+        ..................................... ,    den .......................
+        ......................................................................
+        ..........
+
+
+
+
+*    *   (Dienststempel)
+
+    *   (Gemeinde)
+
+    *   ......................................................................
+        .....
+
+
+*    *
+    *
+    *   (Unterschrift)
+
+
+
+
+**Anmerkungen zur Anlage**
+
+    Es sind nur die Regierungsbezirke aufzuführen, die insgesamt zum
+    Neugliederungsraum gehören. An Stelle von Regierungsbezirken können
+    andere Verwaltungsbezirke - z. B. Siedlungs- oder Planungsverband,
+    Großraum - genannt werden, die mehr als eine kreisfreie Stadt oder
+    einen Kreis umfassen und insgesamt innerhalb des Neugliederungsraumes
+    liegen.
+[^BJNR013420984BJNE012300314_01]:     Es sind nur die kreisfreien Städte und Kreise aufzuführen, die nicht
+    zu einem Regierungsbezirk - oder einem anderweitigen
+    Verwaltungsbezirk, wenn ein solcher an Stelle eines Regierungsbezirkes
+    genannt ist - gehören, der insgesamt innerhalb des
+    Neugliederungsraumes liegt.
+[^BJNR013420984BJNE012300314_02]:     Es sind nur die Gemeinden aufzuführen, die nicht zu einem Kreis
+    gehören, der insgesamt innerhalb des Neugliederungsraumes liegt.
+[^BJNR013420984BJNE012300314_03]:     Unter Nummer 1 ist dasjenige Land aufzuführen, in das gegebenenfalls
+    Gebietsteile eines oder mehrerer anderer Länder eingegliedert werden
+    sollen.
+[^BJNR013420984BJNE012300314_04]:     Gebietsteile weiterer von der vorgeschlagenen Neugliederung
+    betroffener Länder sind getrennt für jedes Land unter der
+    fortlaufenden Nummer nach dem Muster der Nummern 1 und 2 aufzuführen.
+[^BJNR013420984BJNE012300314_05]:     Hier ist der vorgeschlagene Name des neu zu bildenden Bundeslandes
+    einzusetzen.
+[^BJNR013420984BJNE012300314_06]:     Der Zulassungsantrag darf nur eine der beiden
+    Neugliederungsmöglichkeiten nennen.
+[^BJNR013420984BJNE012300314_07]:     Auf dem ersten Unterschriftsblatt unterschreibt der Vertrauensmann,
+    auf dem zweiten sein Stellvertreter. Fehlen dieses Angaben, so gilt
+    der Unterzeichner auf dem ersten Unterschriftsblatt als
+    Vertrauensmann, der Unterzeichner auf dem zweiten Unterschriftsblatt
+    als sein Stellvertreter.
+[^BJNR013420984BJNE012300314_08]:     Die Gemeinde bestätigt nur einmal auf einem Formblatt für alle
+    Unterschriftsblätter aus der Gemeinde.
+[^BJNR013420984BJNE012300314_09]: 

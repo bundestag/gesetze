@@ -49,9 +49,9 @@ Mitgliedstaates der EWG ist, für
     soweit es sich dabei nicht um Arzneimittel im Sinne des
     § 1 des Arzneimittelgesetzes vom 16. Mai 1961 (Bundesgesetzbl. I S.
     533), zuletzt geändert durch das Kostenermächtigungs-Änderungsgesetz
-    vom 23. Juni 1970 (Bundesgesetzbl. I S. 805),
-    handelt (§ 4 Abs. 2 des Gesetzes über die Berufsausübung im
-    Einzelhandel vom 5. August 1957, Bundesgesetzbl. I S. 1121),
+    vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), handelt (§ 4 Abs. 2 des
+    Gesetzes über die Berufsausübung im Einzelhandel vom 5. August 1957,
+    Bundesgesetzbl. I S. 1121),
     zuletzt geändert durch das Einführungsgesetz zum Gesetz über
     Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503);
 
@@ -144,9 +144,9 @@ Staatsangehöriger eines Mitgliedstaates der EWG ist, für die
 Herstellung von jodiertem Speisesalz (§ 11 Abs. 2 der Verordnung über
 diätetische Lebensmittel vom 20. Juni 1963, Bundesgesetzbl. I S. 415,
 zuletzt geändert durch die Dritte Änderungsverordnung vom 22. Dezember
-1965, Bundesgesetzbl. I S. 2140)              als erbracht anzusehen,
-wenn er diese Tätigkeit in einem anderen Mitgliedstaat nach Maßgabe
-folgender Voraussetzungen ausgeübt hat:
+1965, Bundesgesetzbl. I S. 2140) als erbracht anzusehen, wenn er diese
+Tätigkeit in einem anderen Mitgliedstaat nach Maßgabe folgender
+Voraussetzungen ausgeübt hat:
 
 a)  sechs Jahre ununterbrochen als Selbständiger oder als Betriebsleiter,
 

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2001, 2652
 
 Zuletzt geändert durch
-:   Art. 3 Abs. 5 V v. 12.2.2009 I 320
+:   Art. 12 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -270,8 +270,9 @@ weitere Unterlagen beizubringen:
     Nachweis der Staatsangehörigkeit,
 
 
-3.  gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der
-    Geburtsurkunden der Kinder,
+3.  gegebenenfalls eine Ausfertigung der Eheurkunde oder der
+    Lebenspartnerschaftsurkunde und Ausfertigungen der Geburtsurkunden der
+    Kinder,
 
 
 4.  ein Führungszeugnis nach § 30 des Bundeszentralregistergesetzes zur
@@ -663,8 +664,8 @@ Leistungstests in schriftlicher Form zu erbringen.
 
 (6) Jeder Leistungsnachweis wird mindestens eine Woche vor der
 Ausführung angekündigt. Der Leistungsnachweis wird nach § 39 bewertet
-und schriftlich bestätigt. Die Anwärterinnen und Anwärter erhalten
-eine Ausfertigung der Bestätigung.
+und schriftlich oder elektronisch bestätigt. Die Anwärterinnen und
+Anwärter erhalten eine Ausfertigung der Bestätigung.
 
 (7) Wer an einem Leistungsnachweis nicht teilnehmen kann, erhält
 Gelegenheit, den Leistungsnachweis zu einem späteren Zeitpunkt der
@@ -692,13 +693,13 @@ Leistungsnachweises bestimmt hat.
 Anwärter während der Praktika I und II wird für jedes
 Ausbildungsgebiet, dem die Anwärterinnen und Anwärter nach dem
 Ausbildungsplan mindestens für einen Monat zugewiesen werden, eine
-schriftliche Bewertung nach § 39 abgegeben.
+schriftliche oder elektronische Bewertung nach § 39 abgegeben.
 
 (2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs
 mit den Anwärterinnen und Anwärtern besprochen. Sie ist den
 Anwärterinnen und Anwärtern zu eröffnen. Diese erhalten eine
-Ausfertigung der Bewertung und können zu ihr schriftlich Stellung
-nehmen.
+Ausfertigung der Bewertung und können zu ihr schriftlich oder
+elektronisch Stellung nehmen.
 
 (3) Zum Abschluss des Praktikums II erstellt das Bundesamt für
 Verfassungsschutz ein zusammenfassendes Zeugnis, das die Bewertungen
@@ -895,7 +896,7 @@ der schriftlichen Arbeiten bekannt gegeben werden.
 Aufsichtführenden fertigen eine Niederschrift und vermerken darin die
 Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeiten,
 in Anspruch genommene Prüfungserleichterungen im Sinne des § 12 sowie
-etwaige besondere Vorkommnisse und unterschreiben die Niederschrift.
+etwaige besondere Vorkommnisse.
 
 (7) § 29 Abs. 5 ist entsprechend anzuwenden.
 
@@ -944,7 +945,7 @@ Durchschnittspunktzahl auszudrücken, die sich aus der Summe der
 Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.
 
 (5) Über den Ablauf der Prüfung wird eine Niederschrift gefertigt, die
-die Mitglieder der Prüfungskommission unterschreiben.
+die Mitglieder der Prüfungskommission bestätigen.
 
 
 ### § 37 Verhinderung, Rücktritt, Säumnis

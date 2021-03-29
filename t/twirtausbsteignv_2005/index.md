@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 2172
 
+Geändert durch
+:   Art. 6 Abs. 28 G v. 23.5.2017 I 1228
+
 
 
 ## Eingangsformel
@@ -68,17 +71,18 @@ Regelungen für den Ausbildungsbetrieb gelten, sind diese in der
 Ausbildungsstätte zur Einsicht auszulegen.
 
 (6) Die Ausbildungsstätte muss die Gewähr dafür bieten, dass die
-Vorschriften des Jugendarbeitsschutzgesetzes, der
-Unfallverhütungsvorschriften, der Arbeitsstättenverordnung und
-sonstige Vorschriften zum Schutze der Auszubildenden eingehalten
-werden können. Sie muss über geeignete Sozialräume und Sanitärräume
-verfügen. Bei der Antragstellung gemäß § 27 Abs. 3 des
-Berufsbildungsgesetzes muss eine Unbedenklichkeitsbescheinigung der
-zuständigen Berufsgenossenschaft über die Einhaltung der
-Unfallverhütungsvorschriften vorliegen, die nicht älter als ein Jahr
-ist. Haben Ausbildende Auszubildende in die häusliche Gemeinschaft
-aufgenommen, so muss eine Unterkunft zur Verfügung gestellt werden,
-die zeitgemäß beschaffen und ausgestattet ist.
+Vorschriften des Jugendarbeitsschutzgesetzes, des
+Mutterschutzgesetzes, der Unfallverhütungsvorschriften, der
+Arbeitsstättenverordnung und sonstige Vorschriften zum Schutze der
+Auszubildenden eingehalten werden können. Sie muss über geeignete
+Sozialräume und Sanitärräume verfügen. Bei der Antragstellung gemäß §
+27 Abs. 3 des Berufsbildungsgesetzes muss eine
+Unbedenklichkeitsbescheinigung der zuständigen Berufsgenossenschaft
+über die Einhaltung der Unfallverhütungsvorschriften vorliegen, die
+nicht älter als ein Jahr ist. Haben Ausbildende Auszubildende in die
+häusliche Gemeinschaft aufgenommen, so muss eine Unterkunft zur
+Verfügung gestellt werden, die zeitgemäß beschaffen und ausgestattet
+ist.
 
 (7) Eine Ausbildungsstätte ist ungeeignet, wenn über das Vermögen des
 Inhabers oder der Inhaberin ein Insolvenz- oder Vergleichsverfahren

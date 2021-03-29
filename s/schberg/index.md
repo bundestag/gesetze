@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 899
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 11 G v. 12.8.2005 I 2354
+:   Art. 11 G v. 13.5.2015 I 706
 
 
 ## Erster Abschnitt - Schutzbereiche
@@ -182,10 +182,10 @@ Schutzbereichen.
 diesem Gesetz zulässigen Maßnahmen werden von den
 Schutzbereichbehörden getroffen und überwacht.
 
-(3) Schutzbereichbehörden sind die Wehrbereichsverwaltungen. Der
-Bundesminister der Verteidigung kann Aufgaben der
-Schutzbereichbehörden auf die unteren Behörden der
-Bundeswehrverwaltung übertragen.
+(3) Schutzbereichbehörde ist das Bundesamt für Infrastruktur,
+Umweltschutz und Dienstleistungen der Bundeswehr. Der Bundesminister
+der Verteidigung kann Aufgaben der Schutzbereichbehörden auf die
+unteren Behörden der Bundeswehrverwaltung übertragen.
 
 
 ### § 10
@@ -376,8 +376,7 @@ sinngemäß; der Klageerhebung (§ 209 des Bürgerlichen Gesetzbuchs)
 steht die Stellung des Antrags bei der Festsetzungsbehörde gleich.
 
 (2) Die Vorschriften über den Verlust von Ansprüchen
-nach Artikel 8 Abs. 6 des Finanzvertrags              bleiben
-unberührt.
+nach Artikel 8 Abs. 6 des Finanzvertrags bleiben unberührt.
 
 
 ## Fünfter Abschnitt - Rechtsmittel
@@ -481,9 +480,9 @@ genommen oder in dieser Weise behandelt worden, so gelten diese über
 die
 in Artikel 48 des Vertrags über die Rechte und Pflichten ausländischer
 Streitkräfte und ihrer Mitglieder in der Bundesrepublik Deutschland
-(Truppenvertrag)              und in den dazu ergangenen Gesetzen
-bestimmte Frist hinaus bis zu sechs Monate nach Inkrafttreten dieses
-Gesetzes als Schutzbereiche im Sinne dieses Gesetzes.
+(Truppenvertrag) und in den dazu ergangenen Gesetzen bestimmte Frist
+hinaus bis zu sechs Monate nach Inkrafttreten dieses Gesetzes als
+Schutzbereiche im Sinne dieses Gesetzes.
 
 (2) Die Vorschriften dieses Gesetzes über die Entschädigung finden auf
 die in Absatz 1 genannten Grundstücke mit Wirkung vom 5. Mai 1955 12
@@ -494,15 +493,15 @@ Uhr Anwendung.
 
 (1) Bestehen Beschränkungen von Grundeigentum im Sinne dieses Gesetzes
 auf Grund
-des Artikels 48 Abs. 1 des Truppenvertrags              oder des
-Artikels 13 des Ersten Teiles des Vertrags zur Regelung aus Krieg und
-Besatzung entstandener Fragen oder sind Grundstücke als Schutzbereiche
-behandelt worden, bemißt sich die Entschädigung hierfür mit Wirkung
-vom 5. Mai 1955 12 Uhr nach den Vorschriften dieses Gesetzes. Sofern
-dem Entschädigungsberechtigten bisher eine höhere laufende
-Entschädigung gezahlt worden ist, als nach § 12 zu zahlen wäre, ist
-die Entschädigung weiterhin in dieser Höhe zu gewähren, längstens
-jedoch bis zu dem in § 28 Abs. 1 genannten Zeitpunkt.
+des Artikels 48 Abs. 1 des Truppenvertrags oder des Artikels 13 des
+Ersten Teiles des Vertrags zur Regelung aus Krieg und Besatzung
+entstandener Fragen oder sind Grundstücke als Schutzbereiche behandelt
+worden, bemißt sich die Entschädigung hierfür mit Wirkung vom 5. Mai
+1955 12 Uhr nach den Vorschriften dieses Gesetzes. Sofern dem
+Entschädigungsberechtigten bisher eine höhere laufende Entschädigung
+gezahlt worden ist, als nach § 12 zu zahlen wäre, ist die
+Entschädigung weiterhin in dieser Höhe zu gewähren, längstens jedoch
+bis zu dem in § 28 Abs. 1 genannten Zeitpunkt.
 
 (2) Die in § 21 Abs. 2 genannte Frist läuft in den Fällen des Absatzes
 1 nicht vor dem 1. Januar 1957, sofern bis zum Inkrafttreten dieses

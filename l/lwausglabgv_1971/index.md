@@ -44,10 +44,9 @@ erhoben worden sind, mindert sich die Angleichungszollschuld um diesen
 Betrag.
 
 (3) Der Bundesminister
-für Wirtschaft und Finanzen              gibt die nach Absatz 1
-betroffenen Waren und die von der Kommission der Europäischen
-Gemeinschaften festgesetzten Ausgleichsbeträge im Bundesanzeiger
-bekannt.
+für Wirtschaft und Finanzen gibt die nach Absatz 1 betroffenen Waren
+und die von der Kommission der Europäischen Gemeinschaften
+festgesetzten Ausgleichsbeträge im Bundesanzeiger bekannt.
 
 
 ## § 2

@@ -15,8 +15,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1951, 491
 
+Das g tritt gem. § 7, dieser eingef. durch
+:   Art. 1 G v. 10.3.2017 I 420, mit Ablauf des 31.12.2018 außer Kraft
+
 Zuletzt geändert durch
-:   Art. 60 G v. 8.12.2010 I 1864
+:   Art. 1 G v. 10.3.2017 I 420
 
 
 ## § 1
@@ -68,5 +71,11 @@ beschließt.
 
 ## § 6
 
-Dieses Gesetz tritt mit dem 1. Oktober 1950 in Kraft.
+Die Bundesmonopolverwaltung für Branntwein ist mit Ablauf des 31.
+Dezember 2018 aufgelöst.
+
+
+## § 7
+
+Dieses Gesetz tritt mit Ablauf des 31. Dezember 2018 außer Kraft.
 

@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1988, 2150
 
 Zuletzt geändert durch
-:   Art. 1 V v. 21.2.2011 I 314
+:   Art. 3 V v. 19.12.2014 I 2371
+
+Änderung durch
+:   Art. 2 V v. 26.9.2018 I 1386 (Nr. 32) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Erster Abschnitt - Freigabe aus der Apothekenpflicht
@@ -343,6 +346,15 @@ auch ätherische, mit Äthanol-Äther-Gemischen im Verhältnis 1 : 5
 Baldrianwein als Fertigarzneimittel
 Benediktiner Essenz als Fertigarzneimittel
 Benzoetinktur, mit Äthanol 90% im Verhältnis 1 : 5
+Birkenblätter und ihre Zubereitungen, auch in Mischungen mit
+Orthosiphonblättern und ihren
+Zubereitungen und/oder Goldrutenkraut/Echtem Goldrutenkraut und seinen
+Zubereitungen, auch
+mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen, als
+Fertigarzneimittel,
+registriert als traditionelles pflanzliches Arzneimittel nach den §§
+39a bis 39d des
+Arzneimittelgesetzes
 Birkenteer zum äußeren Gebrauch bei Tieren
 Borsäure und ihre Salze zur Pufferung und/oder
 Isotonisierung in Benetzungslösungen oder
@@ -411,6 +423,11 @@ Germerwurzelstock (Nieswurzel) in Zubereitungen mit
 einem Gehalt bis zu 3% als Schneeberger Schnupftabak
 Glycerol 85% (Glycerin),
 auch mit Zusatz von Wasser
+Goldrutenkraut/Echtes Goldrutenkraut und seine Zubereitungen,
+auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
+als Fertigarzneimittel, registriert als traditionelles pflanzliches
+Arzneimittel
+nach den §§ 39a bis 39d des Arzneimittelgesetzes
 Haftmittel für Zahnersatz
 Hartparaffin,
 auch mit Zusatz von Heilerde, Bademooren oder
@@ -501,7 +518,7 @@ Stoffe oder Zubereitungen in Wochenbettpackungen als
 Fertigarzneimittel
 Milchsäure bis 15% ad us. vet.
 - zur Behandlung der Varroatose der Bienen -
-Minzöl, ätherisches
+Minzöl, ätherisches,
 auch mit Zusatz von bis zu 5 % Ethanol 96 % Ph. Eur., als
 Fertigarzneimittel
 Mischungen aus Dichlordifluormethan und Trichlorfluormethan
@@ -526,6 +543,13 @@ Natriumsulfat-Dekahydrat (Glaubersalz)
 Nelkenöl, ätherisches
 Nelkentinktur mit Äthanol 70% im Verhältnis 1 : 5
 Opodeldok, flüssiger
+Orthosiphonblätter und ihre Zubereitungen,
+auch mit Zusatz arzneilich nicht wirksamer Stoffe oder Zubereitungen,
+als Fertigarzneimittel, registriert als traditionelles pflanzliches
+Arzneimittel
+nach den §§ 39a bis 39d des Arzneimittelgesetzes
+Oxalsäuredihydratlösung bis zu einer Konzentration
+von 5,7 Prozent zur Anwendung bei Bienen
 Pappelsalbe
 Pepsinwein als Fertigarzneimittel
 Pfefferminzöl, ätherisches
@@ -578,6 +602,8 @@ Talkum
 Tamponadestreifen, imprägniert mit weißem Vaselin
 Tannin-Eiweiß-Tabletten als Fertigarzneimittel
 Thymianöl, ätherisches
+Thymol, in Fertigarzneimitteln auch in Kombinationen mit Eukalyptusöl,
+Campher und Menthol, zur Anwendung bei Bienen
 Ton, weißer
 Troxerutin bis zu einer maximalen Tagesdosis von 300 mg
 Vaselin, weißes oder gelbes
@@ -2086,13 +2112,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-        a)  0,04 mg Arsen entsprechend 0,075 mg Hydrogenarsenat oder mehr
+        a)  0,01 mg Arsen entsprechend 0,019 mg Hydrogenarsenat oder mehr
             enthalten oder
 
 
         b)  mehr als 3,7 Becquerel
-            226                             Radium oder mehr als 100 Becquerel
-            222                             Radon enthalten
+            226Radium oder mehr als 100 Becquerel
+            222Radon enthalten
 
 
 

@@ -2,7 +2,7 @@
 Title: Europäisches Übereinkommen über die Entschädigung für Opfer von Gewalttaten
 jurabk: EuOEÜbk
 layout: default
-origslug: euoe_bk
+origslug: euoeuebk
 slug: euoeuebk
 
 ---

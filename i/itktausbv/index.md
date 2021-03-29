@@ -15,6 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1997, 1741
 
+Geändert durch
+:   Art. 1 V v. 28.5.2018 I 654
+
+[^f971741_01_BJNR174100997]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne von § 25
+    des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
+    abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
+    in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
+    Berufsschule werden demnächst als Beilage zum Bundesanzeiger
+    veröffentlicht.
 
 
 ## Eingangsformel
@@ -177,7 +186,8 @@ Fertigkeiten und Kenntnisse:
     5.3 Installieren und Konfigurieren,
 
 
-    5.4 Datenschutz und Urheberrecht,
+    5.4 Sicherheit in der Informations- und Telekommunikationstechnik (IT-
+        Sicherheit), Datenschutz und Urheberrecht,
 
 
     5.5 Systempflege;
@@ -275,12 +285,8 @@ Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 7 Berichtsheft
+### § 7 (weggefallen)
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 8 Zwischenprüfung
@@ -391,13 +397,13 @@ nachfolgenden Aufgaben in Betracht:
 
 
 Für die Ganzheitliche Aufgabe II kommt insbesondere eine der
-nachfolgenden Aufgaben in Betracht: 1.
+nachfolgenden Aufgaben in Betracht:
 
-*   Bewerten eines Systems der Informations- und
+1.  Bewerten eines Systems der Informations- und
     Telekommunikationstechnik. Dabei soll der Prüfling zeigen, daß er die
     Leistungsmerkmale, Benutzerfreundlichkeit, Wirtschaftlichkeit und
-    Erweiterbarkeit des Systems hinsichtlich definierter Anforderungen
-    beurteilen kann;
+    Erweiterbarkeit des Systems sowie die IT-Sicherheit hinsichtlich
+    definierter Anforderungen beurteilen kann;
 
 
 2.  Entwerfen eines Datenmodells für ein Anwendungsbeispiel. Dabei soll
@@ -550,7 +556,7 @@ Fertigkeiten und Kenntnisse: 1.
 5.3 Installieren und Konfigurieren,
 
 
-5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
 5.5 Systempflege;
@@ -745,12 +751,8 @@ Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 13 Berichtsheft
+### § 13 (weggefallen)
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 14 Zwischenprüfung
@@ -892,13 +894,13 @@ nachfolgenden Aufgaben in Betracht:
 
 
 Für die Ganzheitliche Aufgabe II kommt für beide Fachrichtungen
-insbesondere eine der nachfolgenden Aufgaben in Betracht: 1.
+insbesondere eine der nachfolgenden Aufgaben in Betracht:
 
-*   Bewerten eines Systems der Informations- und
+1.  Bewerten eines Systems der Informations- und
     Telekommunikationstechnik. Dabei soll der Prüfling zeigen, daß er die
     Leistungsmerkmale, Benutzerfreundlichkeit, Wirtschaftlichkeit und
-    Erweiterbarkeit des Systems hinsichtlich definierter Anforderungen
-    beurteilen kann;
+    Erweiterbarkeit des Systems sowie die IT-Sicherheit hinsichtlich
+    definierter Anforderungen beurteilen kann;
 
 
 2.  Entwerfen eines Datenmodells für ein Anwendungsbeispiel. Dabei soll
@@ -1051,7 +1053,7 @@ Fertigkeiten und Kenntnisse:
     5.3 Installieren und Konfigurieren,
 
 
-    5.4 Datenschutz und Urheberrecht,
+    5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
     5.5 Systempflege;
@@ -1161,12 +1163,8 @@ Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 19 Berichtsheft
+### § 19 (weggefallen)
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 20 Zwischenprüfung
@@ -1269,13 +1267,13 @@ nachfolgenden Aufgaben in Betracht:
 
 
 Für die Ganzheitliche Aufgabe II kommt insbesondere eine der
-nachfolgenden Aufgaben in Betracht: 1.
+nachfolgenden Aufgaben in Betracht:
 
-*   Bewerten eines Systems der Informations- und
+1.  Bewerten eines Systems der Informations- und
     Telekommunikationstechnik. Dabei soll der Prüfling zeigen, daß er die
     Leistungsmerkmale, Benutzerfreundlichkeit, Wirtschaftlichkeit und
-    Erweiterbarkeit des Systems hinsichtlich definierter Anforderungen
-    beurteilen kann;
+    Erweiterbarkeit des Systems sowie die IT-Sicherheit hinsichtlich
+    definierter Anforderungen beurteilen kann;
 
 
 2.  Entwerfen eines Datenmodells für ein Anwendungsbeispiel. Dabei soll
@@ -1421,7 +1419,7 @@ Fertigkeiten und Kenntnisse:
     5.3 Installieren und Konfigurieren,
 
 
-    5.4 Datenschutz und Urheberrecht,
+    5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
     5.5 Systempflege;
@@ -1545,12 +1543,8 @@ Der Ausbildende hat unter Zugrundelegung des Ausbildungsrahmenplanes
 für den Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 25 Berichtsheft
+### § 25 (weggefallen)
 
-Der Auszubildende hat ein Berichtsheft in Form eines
-Ausbildungsnachweises zu führen. Ihm ist Gelegenheit zu geben, das
-Berichtsheft während der Ausbildungszeit zu führen. Der Ausbildende
-hat das Berichtsheft regelmäßig durchzusehen.
 
 
 ### § 26 Zwischenprüfung
@@ -1653,13 +1647,13 @@ nachfolgenden Aufgaben in Betracht:
 
 
 Für die Ganzheitliche Aufgabe II kommt insbesondere eine der
-nachfolgenden Aufgaben in Betracht: 1.
+nachfolgenden Aufgaben in Betracht:
 
-*   Bewerten eines Systems der Informations- und
+1.  Bewerten eines Systems der Informations- und
     Telekommunikationstechnik. Dabei soll der Prüfling zeigen, daß er die
     Leistungsmerkmale, Benutzerfreundlichkeit, Wirtschaftlichkeit und
-    Erweiterbarkeit des Systems hinsichtlich definierter Anforderungen
-    beurteilen kann;
+    Erweiterbarkeit des Systems sowie die IT-Sicherheit hinsichtlich
+    definierter Anforderungen beurteilen kann;
 
 
 2.  Entwerfen eines Datenmodells für ein Anwendungsbeispiel. Dabei soll
@@ -1731,39 +1725,41 @@ der drei Prüfungsbereiche mit "ungenügend" bewertet, so ist die
 Prüfung nicht bestanden.
 
 
-## Sechster Teil - Übergangs- und Schlußvorschriften
+## Sechster Teil - Übergangsvorschriften
 
 
 
-### § 28 Aufhebung von Vorschriften
+### § 28 Bestandsschutz
 
-Die bisher festgelegten Berufsbilder, Berufsbildungspläne und
-Prüfungsanforderungen für die Lehrberufe, Anlernberufe und
-vergleichbar geregelten Ausbildungsberufe, die in dieser Verordnung
-geregelt sind, insbesondere für den Ausbildungsberuf
-Datenverarbeitungskaufmann sind nicht mehr anzuwenden.
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, ist die Verordnung über die Berufsausbildung im Bereich der
+Informations- und Telekommunikationstechnik vom 10. Juli 1997 (BGBl. I
+S. 1741) weiter anzuwenden.
 
 
-### § 29 Übergangsregelung
+### § 29 Änderung bestehender Berufsausbildungsverhältnisse
 
-(1) Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
-
-(2) Für Berufsausbildungsverhältnisse, die bis zum 31. Dezember 1998
-beginnen, können die Vertragsparteien die Anwendung der bisherigen
-Vorschriften vereinbaren.
+Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
+1\. August 2018 geltenden Fassung unter Anrechnung der bisher
+absolvierten Ausbildungszeit fortgesetzt werden, wenn die
+Vertragsparteien dies vereinbaren und der oder die Auszubildende noch
+nicht die Zwischenprüfung absolviert hat.
 
 
 ### § 30 Inkrafttreten
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
+Telekommunikationssystem-Elektroniker/zur Informations- und
+Telekommunikationssystem-Elektronikerin
 
-### Anlage 1 Teil A (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Sachliche Gliederung -
+### Anlage 1 Teil A - Sachliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1752 - 1758)
+(Fundstelle: BGBl. I 1997, 1752 - 1758; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   **Abschnitt I: Gemeinsame Ausbildungsinhalte**
 
@@ -2123,6 +2119,14 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         Standardsoftware anwenden
 
 
+*    *   f)
+
+    *   die Auswirkungen des eigenen Kommunikations- und
+        Informationsverhaltens in beruflichen Kontexten erkennen und
+        Strategien zum verantwortungsvollen Umgang mit digitalen Medien
+        anwenden
+
+
 *    *   3.2
 
     *   Planen und Organisieren (§ 4 Abs. 1 Nr. 3.2)
@@ -2397,33 +2401,33 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 *    *   5.4
 
-    *   Datenschutz und Urheberrecht (§ 4 Abs. 1 Nr. 5.4)
+    *   IT-Sicherheit, Datenschutz und Urheberrecht (§ 4 Absatz 1 Nummer 5.4)
 
     *   a)
 
-    *   Verschlüsselungsverfahren und Zugriffsschutzmethoden anwenden
+    *   rechtliche Regelungen und betriebliche Vorgaben zur IT-Sicherheit
+        einhalten
 
 
 *    *   b)
 
-    *   Vorschriften zum Datenschutz anwenden
+    *   Bedrohungsszenarien und Schadenspotentiale erkennen und bewerten
 
 
 *    *   c)
 
-    *   Vorschriften zum Urheberrecht anwenden
+    *   Schutzmechanismen für informations- und telekommunikationstechnische
+        Systeme anwenden
 
 
 *    *   d)
 
-    *   technische Vorschriften zur Sicherung des Fernmeldegeheimnisses
-        anwenden
+    *   Vorschriften zum Datenschutz einhalten
 
 
 *    *   e)
 
-    *   Daten archivieren, nicht mehr benötigte Datenbestände löschen,
-        Datenträger entsorgen
+    *   Vorschriften zum Urheberrecht einhalten
 
 
 *    *   5.5
@@ -2697,6 +2701,16 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
         prüfen
 
 
+*    *   d)
+
+    *   Angriffsszenarien auf Netzwerke erkennen und bewerten
+
+
+*    *   e)
+
+    *   Systeme zur IT-Sicherheit in Netzwerken implementieren
+
+
 *    *   8.
 
     *   Serviceleistungen (§ 4 Abs. 1 Nr. 8)
@@ -2913,10 +2927,15 @@ Diese Verordnung tritt am 1. August 1997 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
+Telekommunikationssystem-Elektroniker/zur Informations- und
+Telekommunikationssystem-Elektronikerin
 
-### Anlage 1 Teil B (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Elektroniker/zur Informations- und Telekommunikationssystem-Elektronikerin - Zeitliche Gliederung -
+### Anlage 1 Teil B - Zeitliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1759 - 1760)
+(Fundstelle: BGBl. I 1997, 1759 - 1760; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 *
@@ -3123,7 +3142,7 @@ fortzuführen.
 schwerpunktmäßig die Fertigkeiten und Kenntnisse der
 Berufsbildpositionen
 
-5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
 5.5 Systempflege,
@@ -3142,7 +3161,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildposition
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit
@@ -3196,7 +3215,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -3214,6 +3233,9 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 5.1 Ist-Analyse und Konzeption,
 
 
+5.4 IT-Sicherheit, Datenschutz- und Urheberrecht,
+
+
 6.  Systemtechnik,
 
 
@@ -3223,10 +3245,14 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
+(zu § 11)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Fachinformatiker/zur Fachinformatikerin
 
-### Anlage 2 Teil A (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Sachliche Gliederung -
+### Anlage 2 Teil A - Sachliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1761 - 1770)
+(Fundstelle: BGBl. I 1997, 1761 - 1770; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   **Abschnitt I: Gemeinsame Ausbildungsinhalte**
 
@@ -3583,6 +3609,14 @@ fortzuführen.
         Standardsoftware anwenden
 
 
+*    *   f)
+
+    *   die Auswirkungen des eigenen Kommunikations- und
+        Informationsverhaltens in beruflichen Kontexten erkennen und
+        Strategien zum verantwortungsvollen Umgang mit digitalen Medien
+        anwenden
+
+
 *    *   3.2
 
     *   Planen und Organisieren (§ 10 Abs. 1 Nr. 3.2)
@@ -3855,33 +3889,33 @@ fortzuführen.
 
 *    *   5.4
 
-    *   Datenschutz und Urheberrecht (§ 10 Abs. 1 Nr. 5.4)
+    *   IT-Sicherheit, Datenschutz und Urheberrecht (§ 10 Absatz 1 Nummer 5.4)
 
     *   a)
 
-    *   Verschlüsselungsverfahren und Zugriffsschutzmethoden anwenden
+    *   rechtliche Regelungen und betriebliche Vorgaben zur IT-Sicherheit
+        einhalten
 
 
 *    *   b)
 
-    *   Vorschriften zum Datenschutz anwenden
+    *   Bedrohungsszenarien und Schadenspotentiale erkennen und bewerten
 
 
 *    *   c)
 
-    *   Vorschriften zum Urheberrecht anwenden
+    *   Schutzmechanismen für informations- und telekommunikationstechnische
+        Systeme anwenden
 
 
 *    *   d)
 
-    *   technische Vorschriften zur Sicherung des Fernmeldegeheimnisses
-        anwenden
+    *   Vorschriften zum Datenschutz einhalten
 
 
 *    *   e)
 
-    *   Daten archivieren, nicht mehr benötigte Datenbestände löschen,
-        Datenträger entsorgen
+    *   Vorschriften zum Urheberrecht einhalten
 
 
 *    *   5.5
@@ -4028,7 +4062,7 @@ fortzuführen.
 *    *   e)
 
     *   Programme unter Berücksichtigung der Wartbarkeit und
-        Wiederverwendbarkeit erstellen
+        Wiederverwendbarkeit und Sicherheit erstellen
 
 
 *    *   f)
@@ -4560,6 +4594,16 @@ fortzuführen.
     *   Softwarearchitekturen in Netze integrieren
 
 
+*    *   e)
+
+    *   Angriffsszenarien auf Netzwerke erkennen und bewerten
+
+
+*    *   f)
+
+    *   Systeme zur IT-Sicherheit in Netzwerken implementieren
+
+
 *    *   8.3
 
     *   Systemlösungen (§ 10 Abs. 4 Nr. 8.3)
@@ -4693,8 +4737,9 @@ fortzuführen.
 
     *   a)
 
-    *   Richtlinien zur Nutzung informations-und telekommunikationstechnischer
-        Systeme erstellen und einführen, insbesondere
+    *   Richtlinien zur Nutzung informations- und
+        telekommunikationstechnischer Systeme erstellen und einführen,
+        insbesondere
 
 
 *    *
@@ -4878,10 +4923,14 @@ fortzuführen.
 
 
 
+(zu § 11)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Fachinformatiker/zur Fachinformatikerin
 
-### Anlage 2 Teil B (zu § 11) Ausbildungsrahmenplan für die Berufsausbildung zum Fachinformatiker/zur Fachinformatikerin - Zeitliche Gliederung -
+### Anlage 2 Teil B - Zeitliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1771 - 1774)
+(Fundstelle: BGBl. I 1997, 1771 - 1774; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 *
@@ -5083,7 +5132,7 @@ Berufsbildpositionen
 4.4 Netze, Dienste,
 
 
-5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
 5.5 Systempflege,
@@ -5096,7 +5145,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildposition
 
 3.1 Informieren und Kommunizieren
@@ -5211,7 +5260,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -5224,6 +5273,9 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 
 3.  Arbeitsorganisation und Arbeitstechniken,
+
+
+5.4 IT-Sicherheit, Datenschutz- und Urheberrecht,
 
 
 6.  Systementwicklung,
@@ -5438,7 +5490,7 @@ Berufsbildpositionen
 4.4 Netze, Dienste,
 
 
-5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
 5.5 Systempflege,
@@ -5457,7 +5509,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildposition
 
 3.1 Informieren und Kommunizieren
@@ -5563,7 +5615,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -5578,6 +5630,9 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 3.  Arbeitsorganisation und Arbeitstechniken,
 
 
+5.4 IT-Sicherheit, Datenschutz- und Urheberrecht,
+
+
 6.  Systementwicklung,
 
 
@@ -5587,10 +5642,15 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
+(zu § 17)
+Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
+Telekommunikationssystem-Kaufmann/zur Informations- und
+Telekommunikationssystem-Kauffrau
 
-### Anlage 3 Teil A (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Sachliche Gliederung -
+### Anlage 3 Teil A - Sachliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1775 - 1782)
+(Fundstelle: BGBl. I 1997, 1775 - 1782; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   **Abschnitt I: Gemeinsame Ausbildungsinhalte**
 
@@ -5941,10 +6001,22 @@ fortzuführen.
     *   Schriftverkehr durchführen und Protokolle anfertigen
 
 
-*    *   e)
+*    *
+    *
+    *   e)
 
     *   Daten und Sachverhalte visualisieren und Grafiken erstellen sowie
         Standardsoftware anwenden
+
+
+*    *
+    *
+    *   f)
+
+    *   die Auswirkungen des eigenen Kommunikations- und
+        Informationsverhaltens in beruflichen Kontexten erkennen und
+        Strategien zum verantwortungsvollen Umgang mit digitalen Medien
+        anwenden
 
 
 *    *   3.2
@@ -6219,33 +6291,33 @@ fortzuführen.
 
 *    *   5.4
 
-    *   Datenschutz und Urheberrecht (§ 16 Abs. 1 Nr. 5.4)
+    *   IT-Sicherheit, Datenschutz und Urheberrecht (§ 16 Absatz 1 Nummer 5.4)
 
     *   a)
 
-    *   Verschlüsselungsverfahren und Zugriffsschutzmethoden anwenden
+    *   rechtliche Regelungen und betriebliche Vorgaben zur IT-Sicherheit
+        einhalten
 
 
 *    *   b)
 
-    *   Vorschriften zum Datenschutz anwenden
+    *   Bedrohungsszenarien und Schadenspotentiale erkennen und bewerten
 
 
 *    *   c)
 
-    *   Vorschriften zum Urheberrecht anwenden
+    *   Schutzmechanismen für informations- und telekommunikationstechnische
+        Systeme anwenden
 
 
 *    *   d)
 
-    *   technische Vorschriften zur Sicherung des Fernmeldegeheimnisses
-        anwenden
+    *   Vorschriften zum Datenschutz einhalten
 
 
 *    *   e)
 
-    *   Daten archivieren, nicht mehr benötigte Datenbestände löschen,
-        Datenträger entsorgen
+    *   Vorschriften zum Urheberrecht einhalten
 
 
 *    *   5.5
@@ -6496,7 +6568,8 @@ fortzuführen.
 *    *   b)
 
     *   Lösungsvarianten unter Berücksichtigung fachlicher, wirtschaftlicher,
-        arbeitsorganisatorischer und sozialer Aspekte entwickeln und bewerten
+        arbeitsorganisatorischer, sicherheitsrelevanter und sozialer Aspekte
+        entwickeln und bewerten
 
 
 *    *   c)
@@ -6753,10 +6826,15 @@ fortzuführen.
 
 
 
+(zu § 17)
+Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und
+Telekommunikationssystem-Kaufmann/zur Informations- und
+Telekommunikationssystem-Kauffrau
 
-### Anlage 3 Teil B (zu § 17) Ausbildungsrahmenplan für die Berufsausbildung zum Informations- und Telekommunikationssystem-Kaufmann/zur Informations- und Telekommunikationssystem-Kauffrau - Zeitliche Gliederung -
+### Anlage 3 Teil B - Zeitliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1783 - 1784)
+(Fundstelle: BGBl. I 1997, 1783 - 1784; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 *
@@ -6944,14 +7022,14 @@ Berufsbildpositionen
 4.4 Netze, Dienste,
 
 
-5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
 5.5 Systempflege
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz, Lernziele b bis d,
@@ -7057,13 +7135,16 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz,
 
 
 3.  Arbeitsorganisation und Arbeitstechniken,
+
+
+5.4 IT-Sicherheit, Datenschutz- und Urheberrecht,
 
 
 7.  Vertrieb,
@@ -7078,10 +7159,14 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 fortzuführen.
 
+(zu § 23)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Informatikkaufmann/zur Informatikkauffrau
 
-### Anlage 4 Teil A (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Sachliche Gliederung -
+### Anlage 4 Teil A - Sachliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1785 - 1796)
+(Fundstelle: BGBl. I 1997, 1785 - 1796; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   **Abschnitt I: Gemeinsame Ausbildungsinhalte**
 
@@ -7438,6 +7523,14 @@ fortzuführen.
         Standardsoftware anwenden
 
 
+*    *   f)
+
+    *   die Auswirkungen des eigenen Kommunikations- und
+        Informationsverhaltens in beruflichen Kontexten erkennen und
+        Strategien zum verantwortungsvollen Umgang mit digitalen Medien
+        anwenden
+
+
 *    *   3.2
 
     *   Planen und Organisieren (§ 22 Abs. 1 Nr. 3.2)
@@ -7710,33 +7803,33 @@ fortzuführen.
 
 *    *   5.4
 
-    *   Datenschutz und Urheberrecht (§ 22 Abs. 1 Nr. 5.4)
+    *   IT-Sicherheit, Datenschutz und Urheberrecht (§ 22 Absatz 1 Nummer 5.4)
 
     *   a)
 
-    *   Verschlüsselungsverfahren und Zugriffsschutzmethoden anwenden
+    *   rechtliche Regelungen und betriebliche Vorgaben zur IT-Sicherheit
+        einhalten
 
 
 *    *   b)
 
-    *   Vorschriften zum Datenschutz anwenden
+    *   Bedrohungsszenarien und Schadenspotentiale erkennen und bewerten
 
 
 *    *   c)
 
-    *   Vorschriften zum Urheberrecht anwenden
+    *   Schutzmechanismen für informations- und telekommunikationstechnische
+        Systeme anwenden
 
 
 *    *   d)
 
-    *   technische Vorschriften zur Sicherung des Fernmeldegeheimnisses
-        anwenden
+    *   Vorschriften zum Datenschutz einhalten
 
 
 *    *   e)
 
-    *   Daten archivieren, nicht mehr benötigte Datenbestände löschen,
-        Datenträger entsorgen
+    *   Vorschriften zum Urheberrecht einhalten
 
 
 *    *   5.5
@@ -8117,7 +8210,8 @@ fortzuführen.
 *    *   f)
 
     *   Lösungsvarianten unter Berücksichtigung fachlicher, wirtschaftlicher,
-        arbeitsorganisatorischer und sozialer Aspekte entwickeln und bewerten
+        arbeitsorganisatorischer, sicherheitsrelevanter und sozialer Aspekte
+        entwickeln und bewerten
 
 
 *    *   g)
@@ -8128,7 +8222,7 @@ fortzuführen.
 
 *    *   8.3
 
-    *   Projekt-vorbereitung (§ 22 Abs. 1 Nr. 8.3)
+    *   Projektvorbereitung (§ 22 Abs. 1 Nr. 8.3)
 
     *   a)
 
@@ -8911,10 +9005,14 @@ fortzuführen.
 
 
 
+(zu § 23)
+Ausbildungsrahmenplan für die Berufsausbildung zum
+Informatikkaufmann/zur Informatikkauffrau
 
-### Anlage 4 Teil B (zu § 23) Ausbildungsrahmenplan für die Berufsausbildung zum Informatikkaufmann/zur Informatikkauffrau - Zeitliche Gliederung -
+### Anlage 4 Teil B - Zeitliche Gliederung -
 
-(Fundstelle: BGBl. I 1997, 1797 - 1799)
+(Fundstelle: BGBl. I 1997, 1797 - 1799; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 
 *
@@ -9129,39 +9227,35 @@ fortzuführen.
 schwerpunktmäßig die Fertigkeiten und Kenntnisse der
 Berufsbildpositionen
 
-*
-    4.4 Netze, Dienste,
+4.4 Netze, Dienste,
 
 
-    5.4 Datenschutz und Urheberrecht,
+5.4 IT-Sicherheit, Datenschutz und Urheberrecht,
 
 
-    5.5 Systempflege,
+5.5 Systempflege,
 
 
-    9.1 Einkauf,
+9.1 Einkauf,
 
 
-    9.2 Auftragsabwicklung,
+9.2 Auftragsabwicklung,
 
 
-    9.3 Installation und Optimierung,
+9.3 Installation und Optimierung,
 
 
-    9.4 Systemverwaltung,
+9.4 Systemverwaltung,
 
 
-    10.1 Ergonomie,
+10.1 Ergonomie,
 
 
-    10.2 Anwendungsprobleme
-
-
+10.2 Anwendungsprobleme
 
 
 
-
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.3 Sicherheit und Gesundheitsschutz bei der Arbeit,
@@ -9179,7 +9273,8 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 5.2 Programmiertechniken,
 
 
-6.  branchenspezifische Leistungen (Abschnitt III)
+6.  branchenspezifische Leistungen (der fachbereichsspezifischen
+    Ausbildungsinhalte nach Abschnitt III)
 
 
 
@@ -9281,7 +9376,7 @@ Berufsbildpositionen
 
 
 
-zu vermitteln sowie in Verbindung damit die Vermittlung der
+zu vermitteln und ist in Verbindung damit die Vermittlung der
 Fertigkeiten und Kenntnisse der Berufsbildpositionen
 
 1.4 Umweltschutz,
@@ -9290,7 +9385,11 @@ Fertigkeiten und Kenntnisse der Berufsbildpositionen
 3.  Arbeitsorganisation und Arbeitstechniken,
 
 
-6.  branchenspezifische Leistungen (Abschnitt III),
+5.4 IT-Sicherheit, Datenschutz- und Urheberrecht,
+
+
+6.  branchenspezifische Leistungen (der fachbereichsspezifischen
+    Ausbildungsinhalte nach Abschnitt III),
 
 
 7.4 Rechnungswesen und Controlling,

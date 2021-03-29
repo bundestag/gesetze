@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 1731
 
 Zuletzt geändert durch
-:   Art. 51 G v. 6.12.2011 I 2515
+:   Art. 15 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -69,9 +69,9 @@ Prüfungsausschüsse sind vorher zu hören.
 (1) Bei jeder Schule wird ein Prüfungsausschuß gebildet. Er besteht
 aus mindestens vier Mitgliedern, und zwar:
 
-1.  einem Medizinalbeamten der zuständigen Behörde oder einer von der
-    zuständigen Behörde mit der Wahrnehmung dieser Aufgabe betrauten
-    Person,
+1.  einem fachlich geeigneten Vertreter der zuständigen Behörde oder einer
+    von der zuständigen Behörde mit der Wahrnehmung dieser Aufgabe
+    betrauten fachlich geeigneten Person als Vorsitzender,
 
 
 2.  einer von der Schulverwaltung betrauten Person, wenn die Schule nach
@@ -384,21 +384,20 @@ von der zuständigen Behörde des Herkunftsmitgliedstaats ausgestellte
 entsprechende Bescheinigung oder einen von einer solchen Behörde
 ausgestellten Strafregisterauszug oder, wenn ein solcher nicht
 beigebracht werden kann, einen gleichwertigen Nachweis vorlegen. Hat
-der Antragsteller den Beruf im Herkunftsmitgliedstaat bereits
-ausgeübt, so kann die für die Erteilung der Erlaubnis nach § 1 Abs. 1
-des Ergotherapeutengesetzes zuständige Behörde bei der zuständigen
-Behörde des Herkunftsmitgliedstaats Auskünfte über etwa gegen den
-Antragsteller verhängte Strafen oder sonstige berufs- oder
-strafrechtliche Maßnahmen wegen schwerwiegenden standeswidrigen
-Verhaltens oder strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsmitgliedstaat betreffen, einholen. Hat die für die Erteilung
-der Erlaubnis zuständige Behörde in den Fällen des Satzes 1 oder des
-Satzes 2 von Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs
-des Gesetzes eingetreten sind und im Hinblick auf die Voraussetzungen
-des § 2 Abs. 1 Nr. 2 des Gesetzes von Bedeutung sein können, so hat
-sie die zuständige Stelle des Herkunftsmitgliedstaats zu unterrichten
-und sie zu bitten, diese Tatbestände zu überprüfen und ihr das
-Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
+die für die Erteilung der Erlaubnis zuständige Behörde berechtigte
+Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaats
+eine Bestätigung verlangen, aus der sich ergibt, dass dem
+Antragsteller die Ausübung des Berufs, der dem des Ergotherapeuten
+entspricht, nicht auf Grund eines schwerwiegenden standeswidrigen
+Verhaltens oder einer Verurteilung wegen strafbarer Handlungen
+dauerhaft oder vorübergehend untersagt worden ist. Hat die für die
+Erteilung der Erlaubnis zuständige Behörde in den Fällen des Satzes 1
+oder des Satzes 2 von Tatbeständen Kenntnis, die außerhalb des
+Geltungsbereichs des Gesetzes eingetreten sind und im Hinblick auf die
+Voraussetzungen des § 2 Abs. 1 Nr. 2 des Gesetzes von Bedeutung sein
+können, so hat sie die zuständige Stelle des Herkunftsmitgliedstaats
+zu unterrichten und sie zu bitten, diese Tatbestände zu überprüfen und
+ihr das Ergebnis und die Folgerungen, die sie hinsichtlich der von ihr
 ausgestellten Bescheinigungen und Nachweise daraus zieht, mitzuteilen.
 Die in den Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen
 sind vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
@@ -433,30 +432,236 @@ Herkunftsmitgliedstaats ersetzen.
 erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 5a
 des Ergotherapeutengesetzes binnen eines Monats nach Eingang der
 Meldung und der Begleitdokumente über das Ergebnis ihrer Nachprüfung
-zu unterrichten. Ist eine Nachprüfung innerhalb dieser Frist in
-besonderen Ausnahmefällen nicht möglich, unterrichtet die zuständige
-Behörde den Dienstleistungserbringer innerhalb eines Monats über die
-Gründe für diese Verzögerung und über den Zeitplan für ihre
-Entscheidung, die vor Ablauf des zweiten Monats ab Eingang der
-vollständigen Unterlagen ergehen muss. Erhält der
-Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
-Fristen keine Rückmeldung der zuständigen Behörde, darf die
-Dienstleistung erbracht werden.
+zu unterrichten und ihm dabei mitzuteilen, ob sie die Erbringung der
+Dienstleistung erlaubt oder von ihm verlangt, eine Eignungsprüfung
+abzulegen. Ist der zuständigen Behörde eine Nachprüfung innerhalb
+eines Monats nach Eingang der Meldung und der Begleitdokumente in
+besonderen Ausnahmefällen nicht möglich, unterrichtet sie den
+Dienstleister innerhalb dieser Frist über die Gründe der Verzögerung;
+sie hat die der Verzögerung zugrunde liegenden Schwierigkeiten binnen
+eines Monats nach dieser Mitteilung zu beheben und spätestens
+innerhalb von zwei Monaten nach der Behebung der der Verzögerung
+zugrunde liegenden Schwierigkeiten über die Dienstleistungserbringung
+zu entscheiden. Erhält der Dienstleistungserbringer innerhalb der in
+den Sätzen 1 und 2 genannten Fristen keine Rückmeldung der zuständigen
+Behörde, darf die Dienstleistung erbracht werden.
+
+(6) Die Absätze 1 bis 5 gelten entsprechend für Drittstaatsdiplome,
+für deren Anerkennung sich nach dem Recht der Europäischen Union eine
+Gleichstellung ergibt.
 
 
-## § 16a Frist
+## § 16a Anerkennungsregelungen für Ausbildungsnachweise aus einem anderen Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
 
-Die zuständige Behörde bestätigt dem Antragsteller binnen eines Monats
-nach Eingang des Antrags den Antragseingang und den Empfang der
-Unterlagen und teilt ihm mit, welche Unterlagen fehlen. Sie hat über
-den Antrag kurzfristig, spätestens vier Monate nach Vorlage der
-Nachweise über das Vorliegen der Voraussetzungen dieses Gesetzes zu
-entscheiden. Über die Feststellung wesentlicher Unterschiede ist dem
-Antragsteller ein rechtsmittelfähiger Bescheid zu erteilen. Satz 2
-tritt für Anträge, denen ein Ausbildungsnachweis aus einem Drittstaat,
-der nicht in einem anderen Mitgliedstaat der Europäischen Union, des
-Europäischen Wirtschaftsraums oder der Schweiz anerkannt wurde,
-zugrunde liegt, am 1. Dezember 2012 in Kraft.
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
+Ergotherapeutengesetzes beantragen, haben einen Anpassungslehrgang
+nach Absatz 2 zu absolvieren oder eine Eignungsprüfung nach Absatz 3
+abzulegen, wenn sie über einen Ausbildungsnachweis verfügen, der in
+einem anderen Mitgliedstaat der Europäischen Union oder einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+erworben worden ist, und ihre Ausbildung wesentliche Unterschiede zu
+der deutschen Ausbildung aufweist, die von der zuständigen Behörde im
+Rahmen der Prüfung ihres Antrags auf Erteilung der Erlaubnis zur
+Führung der Berufsbezeichnung festgestellt worden sind und nicht durch
+Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+lebenslanges Lernen nach § 2 Absatz 3 Satz 7 des
+Ergotherapeutengesetzes erworben haben.
+
+(2) Der Anpassungslehrgang dient dem Ausgleich der von der zuständigen
+Behörde festgestellten wesentlichen Unterschiede (Lehrgangsziel). Er
+wird entsprechend dem Lehrgangsziel in Form von theoretischem und
+praktischem Unterricht, einer praktischen Ausbildung mit theoretischer
+Unterweisung oder beidem an Einrichtungen nach § 4 Absatz 1 des
+Ergotherapeutengesetzes oder an Einrichtungen durchgeführt, die von
+der zuständigen Behörde als vergleichbar anerkannt wurden. An der
+theoretischen Unterweisung sollen Personen nach § 3 Absatz 1 Satz 2
+Nummer 3 Buchstabe b in angemessenem Umfang beteiligt werden. Die
+zuständige Behörde legt die Dauer und die Inhalte des
+Anpassungslehrgangs so fest, dass das Lehrgangsziel erreicht werden
+kann. Die Ableistung des Anpassungslehrgangs ist durch eine
+Bescheinigung nach dem Muster der Anlage 4a nachzuweisen.
+
+(3) Bei der Eignungsprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zum Ausgleich der von der zuständigen Behörde
+festgestellten wesentlichen Unterschiede erforderlichen Kenntnisse und
+Fähigkeiten verfügen. Sie besteht aus einer praktischen Prüfung. Dabei
+hat der Prüfling an mindestens einem und höchstens drei Patienten aus
+den in Anlage 1 Teil B genannten Bereichen einen ergotherapeutischen
+Befund zu erheben, einen Behandlungsplan und dessen Durchführung mit
+den dazugehörigen Erörterungen und Begründungen in einem
+Prüfungsgespräch darzustellen sowie eine ergotherapeutische Behandlung
+entsprechend dem Behandlungsplan durchzuführen. Die zuständige Behörde
+legt die Bereiche, in denen die Eignungsprüfung durchgeführt wird,
+gemäß den festgestellten wesentlichen Unterschieden fest. Die
+Eignungsprüfung soll für jeden Bereich höchstens 120 Minuten dauern.
+Sie wird von zwei Fachprüfern, darunter mindestens einem Fachprüfer
+nach § 3 Absatz 1 Satz 2 Nummer 3 Buchstabe b, abgenommen und
+bewertet. Während der Eignungsprüfung sind den Prüfern Nachfragen
+gestattet, die sich auf das konkrete praktische Vorgehen beziehen. Die
+Eignungsprüfung ist erfolgreich abgeschlossen, wenn die Fachprüfer sie
+übereinstimmend mit „bestanden“ bewerten. Das Bestehen setzt
+mindestens voraus, dass die Leistung des Prüflings trotz ihrer Mängel
+noch den Anforderungen genügt. Kommen die Fachprüfer zu einer
+unterschiedlichen Bewertung, entscheidet der Vorsitzende des
+Prüfungsausschusses nach Rücksprache mit den Fachprüfern über das
+Bestehen. Die Eignungsprüfung soll mindestens zweimal jährlich
+angeboten werden. Sie darf einmal wiederholt werden. Über die
+bestandene Eignungsprüfung wird eine Bescheinigung nach dem Muster der
+Anlage 4b erteilt.
+
+(4) Absatz 3 gilt entsprechend für Personen, die sich gemäß § 5a
+Absatz 3 Satz 6 des Ergotherapeutengesetzes einer Eignungsprüfung zu
+unterziehen haben. Abweichend von Absatz 3 Satz 11 ist dabei
+sicherzustellen, dass die Eignungsprüfung innerhalb eines Monats nach
+der Entscheidung gemäß § 16 Absatz 5 Satz 1 oder Satz 2 abgelegt
+werden kann.
+
+
+## § 16b Anerkennungsregelungen für Ausbildungsnachweise aus einem Drittstaat
+
+(1) Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 des
+Ergotherapeutengesetzes beantragen, haben einen Anpassungslehrgang
+nach Absatz 2 zu absolvieren, der mit einer Prüfung über den Inhalt
+des Anpassungslehrgangs abschließt, oder eine Kenntnisprüfung nach
+Absatz 3 abzulegen, wenn sie über einen Ausbildungsnachweis verfügen,
+der in einem Drittstaat erworben worden ist und ihre Ausbildung
+wesentliche Unterschiede zu der deutschen Ausbildung aufweist, die von
+der zuständigen Behörde im Rahmen der Prüfung ihres Antrags auf
+Erteilung der Erlaubnis zur Führung der Berufsbezeichnung festgestellt
+worden sind und nicht durch Kenntnisse und Fähigkeiten ausgeglichen
+werden konnten, die die Antragsteller im Rahmen ihrer nachgewiesenen
+Berufspraxis erworben haben. Satz 1 gilt entsprechend für Fälle, in
+denen eine Prüfung der Gleichwertigkeit des Ausbildungsstandes auf
+Grund der in § 2 Absatz 2 Satz 5 des Ergotherapeutengesetzes
+vorliegenden Umstände nicht durchgeführt wird.
+
+(2) Der Anpassungslehrgang dient zusammen mit dem Abschlussgespräch
+der Feststellung, dass die Antragsteller über die zur Ausübung des
+Berufs des Ergotherapeuten erforderlichen Kenntnisse und Fähigkeiten
+verfügen (Lehrgangsziel). Er wird entsprechend dem Lehrgangsziel in
+Form von theoretischem und praktischem Unterricht, einer praktischen
+Ausbildung mit theoretischer Unterweisung oder beidem an Einrichtungen
+nach § 4 Absatz 1 des Ergotherapeutengesetzes oder an von der
+zuständigen Behörde als vergleichbar anerkannten Einrichtungen
+durchgeführt und schließt mit einer Prüfung über den Inhalt des
+Anpassungslehrgangs ab. An der theoretischen Unterweisung sollen
+Personen nach § 3 Absatz 1 Satz 2 Nummer 3 Buchstabe b in angemessenem
+Umfang beteiligt werden. Die zuständige Behörde legt die Dauer und die
+Inhalte des Anpassungslehrgangs so fest, dass das Lehrgangsziel
+erreicht werden kann. Die erfolgreiche Ableistung des
+Anpassungslehrgangs ist durch eine Bescheinigung nach dem Muster der
+Anlage 5 nachzuweisen. Die Bescheinigung wird erteilt, wenn in der
+Prüfung, die in Form eines Abschlussgesprächs durchgeführt wird,
+festgestellt worden ist, dass die Antragsteller das Lehrgangsziel
+erreicht haben. Das Abschlussgespräch wird von einem Fachprüfer nach §
+3 Absatz 1 Satz 2 Nummer 3 gemeinsam mit der Person nach Satz 3, die
+die Antragsteller während des Lehrgangs mit betreut hat, geführt und
+soll nicht länger als 60 Minuten dauern. Ergibt sich in dem
+Abschlussgespräch, dass die Antragsteller den Anpassungslehrgang nicht
+erfolgreich abgeleistet haben, entscheidet der Fachprüfer nach § 3
+Absatz 1 Satz 2 Nummer 3 im Benehmen mit der an dem Gespräch
+teilnehmenden Person nach Satz 3 über eine angemessene Verlängerung
+des Anpassungslehrgangs. Eine Verlängerung ist nur einmal zulässig.
+Der Verlängerung folgt ein weiteres Abschlussgespräch. Kann auch nach
+dem Ergebnis dieses Gesprächs die Bescheinigung nach Satz 5 nicht
+erteilt werden, darf der Anpassungslehrgang nur einmal wiederholt
+werden.
+
+(3) Bei der Kenntnisprüfung haben die Antragsteller nachzuweisen, dass
+sie über die zur Ausübung des Berufs des Ergotherapeuten
+erforderlichen Kenntnisse und Fähigkeiten verfügen. Die
+Kenntnisprüfung umfasst jeweils einen mündlichen und praktischen Teil.
+Sie ist erfolgreich abgeschlossen, wenn jeder der beiden Prüfungsteile
+bestanden ist.
+
+(4) Der mündliche Teil der Kenntnisprüfung erstreckt sich auf folgende
+Fächer:
+
+1.  Berufs- und Gesetzeskunde,
+
+
+2.  Spezielle Krankheitslehre einschließlich diagnostischer,
+    therapeutischer, präventiver und rehabilitativer Maßnahmen sowie
+    psychosozialer Aspekte,
+
+
+3.  Grundlagen der Ergotherapie.
+
+
+
+Der mündliche Teil der Prüfung soll für den einzelnen Prüfling
+mindestens 15 und nicht länger als 60 Minuten dauern. Er wird von zwei
+Fachprüfern nach § 3 Absatz 1 Satz 2 Nummer 3 abgenommen und bewertet.
+Der mündliche Teil der Kenntnisprüfung ist erfolgreich abgeschlossen,
+wenn die Fachprüfer ihn in einer Gesamtbetrachtung übereinstimmend mit
+„bestanden“ bewerten. Das Bestehen setzt mindestens voraus, dass die
+Leistung des Prüflings trotz ihrer Mängel noch den Anforderungen
+genügt. Kommen die Fachprüfer zu einer unterschiedlichen Bewertung,
+entscheidet der Vorsitzende des Prüfungsausschusses nach Rücksprache
+mit den Fachprüfern über das Bestehen.
+
+(5) Für den praktischen Teil der Kenntnisprüfung gilt § 16a Absatz 3
+Satz 2 bis 10 entsprechend.
+
+(6) Die Kenntnisprüfung soll mindestens zweimal jährlich angeboten
+werden und darf im mündlichen Teil sowie jedem Bereich, der Gegenstand
+der Prüfung war und nicht bestanden wurde, einmal wiederholt werden.
+
+(7) Über die bestandene Kenntnisprüfung wird eine Bescheinigung nach
+dem Muster der Anlage 6 erteilt.
+
+
+## § 16c Fristen, Bescheide, Durchführungsbestimmungen
+
+(1) Die zuständige Behörde hat über Anträge auf Erteilung einer
+Erlaubnis als Ergotherapeutin oder Ergotherapeut nach § 1 Absatz 1 des
+Ergotherapeutengesetzes in Verbindung mit § 2 Absatz 2, 3, 3a oder
+Absatz 4 des Ergotherapeutengesetzes kurzfristig, spätestens vier
+Monate, nach Vorlage der für Entscheidungen nach § 2 des
+Ergotherapeutengesetzes erforderlichen Unterlagen zu entscheiden.
+
+(2) Über die Feststellung wesentlicher Unterschiede, die zur
+Auferlegung von Anpassungsmaßnahmen nach den §§ 16a oder 16b führen,
+ist den Antragstellern ein rechtsmittelfähiger Bescheid zu erteilen,
+der folgende Angaben enthält:
+
+1.  das Niveau der in Deutschland verlangten Qualifikation und das Niveau
+    der von den Antragstellern vorgelegten Qualifikation gemäß der
+    Klassifizierung in Artikel 11 der Richtlinie 2005/36/EG des
+    Europäischen Parlaments und des Rates vom 7. September 2005 über die
+    Anerkennung von Berufsqualifikationen (ABl. L 255 vom 30.9.2005, S.
+    22, L 271 vom 16.10.2007, S. 18) in der jeweils geltenden Fassung,
+
+
+2.  die Fächer oder Ausbildungsbestandteile, bei denen wesentliche
+    Unterschiede festgestellt wurden,
+
+
+3.  eine inhaltliche Erläuterung der wesentlichen Unterschiede sowie die
+    Begründung, warum diese dazu führen, dass die Antragsteller nicht in
+    ausreichender Form über die in Deutschland zur Ausübung des Berufs des
+    Ergotherapeuten notwendigen Kenntnisse und Fähigkeiten verfügen, und
+
+
+4.  eine Begründung, warum die wesentlichen Unterschiede nicht durch
+    Kenntnisse und Fähigkeiten ausgeglichen werden konnten, die die
+    Antragsteller im Rahmen ihrer nachgewiesenen Berufspraxis oder durch
+    lebenslanges Lernen im Sinne des § 2 Absatz 3 Satz 7 des
+    Ergotherapeutengesetzes erworben haben.
+
+
+
+
+(3) Die Prüfungen nach § 16a Absatz 3 und § 16b Absatz 3 finden in
+Form einer staatlichen Prüfung vor einer staatlichen
+Prüfungskommission statt. Die Länder können zur Durchführung der
+Prüfungen die regulären Prüfungstermine der staatlichen Prüfung nach §
+2 Absatz 1 nutzen; sie haben dabei sicherzustellen, dass die
+Antragsteller die Prüfungen innerhalb von sechs Monaten nach der
+Entscheidung nach Absatz 1 ablegen können. Soweit in den §§ 16a und
+16b nichts anderes bestimmt ist, gelten die §§ 8, 11 bis 14 für die
+Durchführung der Prüfungen nach Satz 1 entsprechend.
 
 
 ## § 17 Übergangsvorschrift
@@ -2062,3 +2267,265 @@ Ort, Datum
 -------------------------
 (Unterschrift)
 
+
+## Anlage 4a (zu § 16a Absatz 2)
+
+(Fundstelle: BGBl. I 2016, 906)
+
+......................................................................
+..............
+(Bezeichnung der Einrichtung)
+
+Bescheinigung
+**über die Teilnahme am Anpassungslehrgang**
+
+Name, Vorname
+
+......................................................................
+.................................................
+Geburtsdatum       Geburtsort
+
+......................................................................
+.................................................
+
+hat in der Zeit vom
+..................... bis
+.....................
+regelmäßig an dem nach § 16a Absatz 2 der Ergotherapeuten-Ausbildungs-
+und Prüfungsverordnung von der zuständigen Behörde vorgeschriebenen
+Anpassungslehrgang teilgenommen.
+
+Ort, Datum
+
+.....................................................................
+(Stempel)
+
+.....................................................................
+Unterschrift(en) der Einrichtung
+
+
+## Anlage 4b (zu § 16a Absatz 3)
+
+(Fundstelle: BGBl. I 2016, 907)
+
+Die/Der Vorsitzende
+des Prüfungsausschusses
+
+Bescheinigung
+**über die staatliche Eignungsprüfung**
+für
+......................................................................
+...........
+
+
+*    *
+    *
+        *            *
+            *
+
+
+
+
+
+
+   Name, Vorname
+
+......................................................................
+.................................................
+Geburtsdatum       Geburtsort
+
+......................................................................
+.................................................
+
+hat am
+............................................................... die
+staatliche Eignungsprüfung nach § 16a Absatz 3 der
+Ergotherapeuten-Ausbildungs- und Prüfungsverordnung bestanden/nicht
+bestanden\*.
+
+*    *
+    *
+    *
+
+*    *   * Nichtzutreffendes streichen.
+
+
+
+
+Ort, Datum
+
+......................................................................
+.................. (Siegel)
+
+......................................................................
+..................
+(Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+## Anlage 5 (zu § 16b Absatz 2)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Bezeichnung der Einrichtung)
+
+
+*    *   Bescheinigung
+        über die Teilnahme am Anpassungslehrgang
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+
+*    *   hat in der Zeit vom . . . . . . . . . .  bis . . . . . . . . . .
+        regelmäßig an dem nach § 16b Absatz 2 der
+        Ergotherapeuten-Ausbildungs- und Prüfungsverordnung von der
+        zuständigen Behörde vorgeschriebenen
+        Anpassungslehrgang teilgenommen.
+
+
+*    *[^F781546_01_BJNR173100999BJNE002701116]
+   Das Abschlussgespräch hat sie/er bestanden/nicht bestanden.
+
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Einrichtung
+
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Stempel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   Unterschrift(en) der Personen nach § 16b Absatz 2 Satz 7
+
+    *
+
+
+   Nicht Zutreffendes streichen.
+[^F781546_01_BJNR173100999BJNE002701116]: 
+
+## Anlage 6 (zu § 16b Absatz 7)
+
+
+*    *   Die/der Vorsitzende
+        des Prüfungsausschusses
+
+
+*    *   Bescheinigung
+        über die staatliche Kenntnisprüfung
+        für
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Name, Vorname
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+*    *   Geburtsdatum
+
+    *   Geburtsort
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . .
+
+    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . .
+
+
+*    *   hat am . . . . . . . . . .  die staatliche Kenntnisprüfung nach § 16b
+        Absatz 3 der Ergotherapeuten-
+[^F781546_01_BJNR173100999BJNE002801116]
+        Ausbildungs- und Prüfungsverordnung bestanden/nicht bestanden
+        .
+
+
+*    *
+    *
+
+*    *
+    *
+
+*    *   Ort, Datum
+
+    *
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *   (Siegel)
+
+
+*    *   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+        . . . . . . . . . . . . . . . . . . . . . . . . .
+
+    *
+
+*    *   (Unterschrift(en) der/des Vorsitzenden des Prüfungsausschusses)
+
+
+
+    Nicht Zutreffendes streichen.
+[^F781546_01_BJNR173100999BJNE002801116]: 

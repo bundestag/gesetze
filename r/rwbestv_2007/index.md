@@ -1,5 +1,5 @@
 ---
-Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung
+Title: Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen  Rentenversicherung
   und in der Alterssicherung der Landwirte zum 1. Juli 2007
 jurabk: RWBestV 2007
 layout: default
@@ -8,7 +8,7 @@ slug: rwbestv_2007
 
 ---
 
-# Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2007 (RWBestV 2007)
+# Verordnung zur Bestimmung der Rentenwerte in der gesetzlichen  Rentenversicherung und in der Alterssicherung der Landwirte zum 1. Juli 2007 (RWBestV 2007)
 
 Ausfertigungsdatum
 :   2007-06-14

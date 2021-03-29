@@ -2,7 +2,7 @@
 Title: Übereinkommen über den Straßenverkehr
 jurabk: StVÜbk
 layout: default
-origslug: stv_bk
+origslug: stvuebk
 slug: stvuebk
 
 ---

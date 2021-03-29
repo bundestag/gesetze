@@ -3,7 +3,7 @@ Title: Bekanntmachung nach § 77 Abs. 2 und 3 des Bundesbesoldungsgesetzes und n
   § 2 Abs. 1 und § 3 Abs. 2 der Zweiten Besoldungs-Übergangsverordnung
 jurabk: BBesG/BesÜV2Bek 2008
 layout: default
-origslug: bbesg_bes_v2bek_2008
+origslug: bbesg_besuev2bek_2008
 slug: bbesg_besuev2bek_2008
 
 ---
@@ -26,8 +26,8 @@ eingefügt worden ist, und auf Grund des § 13 der Zweiten Besoldungs-
 Übergangsverordnung in der Fassung der Bekanntmachung vom 27. November
 1997 (BGBl. I S. 2764) und unter Berücksichtigung des Artikels 12 Nr.
 4 des Bundesbesoldungs- und
--versorgungsanpassungsgesetzes              2003/2004 vom 10.
-September 2003 (BGBl. I S. 1798), werden bekannt gemacht:
+-versorgungsanpassungsgesetzes 2003/2004 vom 10. September 2003 (BGBl.
+I S. 1798), werden bekannt gemacht:
 
 1.  als Anlage 1 die sich jeweils zum 1. Januar 2008 bzw. zum 1. Januar
     2009 ergebenden Grundgehaltssätze der fortgeltenden
@@ -670,8 +670,9 @@ Gültig ab 1. Januar 2008
 [^f771250_02a_BJNR161200008BJNE000300000]:     Nach Maßgabe des Artikels 1 § 5 des Haushaltsstrukturgesetzes vom 18.
     Dezember 1975 (BGBl. I S. 3091).
 [^f771250_02b_BJNR161200008BJNE000300000]: 
+(Anlage IV des BBesG)
 
-## Anlage 2 (Anlage IV des BBesG) (Zweite Besoldungs-Übergangsverordnung)
+## Anlage 2 (Zweite Besoldungs-Übergangsverordnung)
 
 ( Fundstelle: BGBl. I 2008, 1615 - 1622 )
 Gültig ab 1. Januar 2008 bis 31. März 2008

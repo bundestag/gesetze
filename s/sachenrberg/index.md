@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2457
 
 Zuletzt geändert durch
-:   Art. 110 Abs. 3 G v. 8.12.2010 I 1864
+:   Art. 21 G v. 23.7.2013 I 2586
 
 
 ## Kapitel 1 - Gegenstände der Sachenrechtsbereinigung
@@ -3630,15 +3630,16 @@ Rechtsstreit bindend.
 
 ##### § 100 Kosten
 
-(1) Für das notarielle Vermittlungsverfahren erhält der Notar das
-Vierfache der vollen Gebühr nach § 32 der Kostenordnung. Die Gebühr
-ermäßigt sich auf
+(1) Für das notarielle Vermittlungsverfahren erhält der Notar eine
+Gebühr mit einem Gebührensatz von 4,0 nach der Tabelle B des § 34
+Absatz 2 des Gerichts- und Notarkostengesetzes. Die Gebühr ermäßigt
+sich auf
 
-1.  das Doppelte der vollen Gebühr, wenn das Verfahren vor Ausarbeitung
-    eines Vermittlungsvorschlags beendet wird,
+1.  einen Gebührensatz von 2,0, wenn das Verfahren vor Ausarbeitung eines
+    Vermittlungsvorschlags beendet wird,
 
 
-2.  die Hälfte einer vollen Gebühr, wenn sich das Verfahren vor dem
+2.  einen Gebührensatz von 0,5, wenn sich das Verfahren vor dem
     Erörterungstermin erledigt.
 
 
@@ -3656,10 +3657,12 @@ bestimmt sich die Gebühr nach dem in Satz 2 genannten Mindestwert.
 
 (3) Wird mit einem Dritten eine Vereinbarung über die Bestellung oder
 den Verzicht auf dingliche Rechte geschlossen, erhält der Notar für
-deren Vermittlung die Hälfte der vollen Gebühr. Der Wert richtet sich
-nach den Bestimmungen über den Geschäftswert in der Kostenordnung, in
-den Fällen der §§ 36 und 63 jedoch nicht über den Anteil hinaus, für
-den der Nutzer nach Maßgabe dieser Vorschriften mithaftet.
+deren Vermittlung eine Gebühr mit einem Gebührensatz von 0,5 nach der
+Tabelle B des § 34 Absatz 2 des Gerichts- und Notarkostengesetzes. Der
+Wert richtet sich nach den Bestimmungen über den Geschäftswert im
+Gerichts- und Notarkostengesetz, in den Fällen der §§ 36 und 63 jedoch
+nicht über den Anteil hinaus, für den der Nutzer nach Maßgabe dieser
+Vorschriften mithaftet.
 
 
 ##### § 101 Kostenpflicht

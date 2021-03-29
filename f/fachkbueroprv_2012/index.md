@@ -1,21 +1,24 @@
 ---
 Title: Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter
-  Fachkaufmann für Büro- und Projektorganisation und Geprüfte Fachkauffrau für Büro-
-  und Projektorganisation
+  Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und
+  Projektorganisation
 jurabk: FachkBüroPrV 2012
 layout: default
-origslug: fachkb_roprv_2012
+origslug: fachkbueroprv_2012
 slug: fachkbueroprv_2012
 
 ---
 
-# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und Projektorganisation und Geprüfte Fachkauffrau für Büro- und Projektorganisation (FachkBüroPrV 2012)
+# Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss Geprüfter Fachwirt für Büro- und Projektorganisation und Geprüfte Fachwirtin für Büro- und Projektorganisation (FachkBüroPrV 2012)
 
 Ausfertigungsdatum
 :   2012-02-09
 
 Fundstelle
 :   BGBl I: 2012, 268
+
+Zuletzt geändert durch
+:   Art. 1 V v. 21.8.2014 I 1459
 
 
 ## Eingangsformel
@@ -32,11 +35,10 @@ Bundesministerium für Wirtschaft und Technologie:
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
 (1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
-Geprüften Fachkaufmann für Büro- und Projektorganisation und zur
-Geprüften Fachkauffrau für Büro- und Projektorganisation nach den §§ 2
-bis 9 durchführen, in denen die auf einen beruflichen Aufstieg
-abzielende Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen
-ist.
+Geprüften Fachwirt für Büro- und Projektorganisation und zur Geprüften
+Fachwirtin für Büro- und Projektorganisation nach den §§ 2 bis 9
+durchführen, in denen die auf einen beruflichen Aufstieg abzielende
+Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
 
 (2) Durch die Prüfung ist festzustellen, ob die notwendigen
 Kompetenzen vorhanden sind, um eigenständig und verantwortlich in den
@@ -81,8 +83,8 @@ insbesondere folgende Aufgaben wahrgenommen werden:
 
 
 (3) Die erfolgreich abgelegte Prüfung führt zum anerkannten
-Fortbildungsabschluss „Geprüfter Fachkaufmann für Büro- und
-Projektorganisation“ oder „Geprüfte Fachkauffrau für Büro- und
+Fortbildungsabschluss „Geprüfter Fachwirt für Büro- und
+Projektorganisation“ oder „Geprüfte Fachwirtin für Büro- und
 Projektorganisation“.
 
 
@@ -376,10 +378,12 @@ die Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter
 Fachkaufmann für Büromanagement/Geprüfte Fachkauffrau für
 Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 
+(zu § 6 Absatz 3)
 
-## Anlage 1 (zu § 6 Absatz 3) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2012, 271)
+(Fundstelle: BGBl. I 2012, 271;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   .........................................
@@ -392,8 +396,8 @@ Büromanagement vom 31. Oktober 2001 (BGBl. I S. 2887) außer Kraft.
 ## Zeugnis
 
 über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
+Geprüfter Fachwirt für Büro- und Projektorganisation
+## Geprüfte Fachwirtin für Büro- und Projektorganisation
 
 
 *    *   Herr/Frau ...........................
@@ -410,17 +414,23 @@ Geprüfter Fachkaufmann für Büro- und Projektorganisation
 
 
 
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
+Geprüfter Fachwirt für Büro- und Projektorganisation
+## Geprüfte Fachwirtin für Büro- und Projektorganisation
 
 nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und
-Projektorganisation und Geprüfte Fachkauffrau für Büro- und
-Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268) bestanden.
+Fortbildungsabschluss Geprüfter Fachwirt für Büro- und
+Projektorganisation und Geprüfte Fachwirtin für Büro- und
+Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268), die zuletzt
+durch Artikel 1 der Verordnung vom 21. August 2014 (BGBl. I S. 1459)
+geändert worden ist, bestanden.
 
 Damit wurden die berufs- und arbeitspädagogischen Fertigkeiten,
 Kenntnisse und Fähigkeiten im Sinne von § 30 Absatz 5 des
 Berufsbildungsgesetzes nachgewiesen.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -435,10 +445,12 @@ Berufsbildungsgesetzes nachgewiesen.
 
 
 
+(zu § 6 Absatz 3)
 
-## Anlage 2 (zu § 6 Absatz 3) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2012, 272 - 273)
+(Fundstelle: BGBl. I 2012, 272 - 273;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -452,8 +464,8 @@ Berufsbildungsgesetzes nachgewiesen.
 ## Zeugnis
 
 über die Prüfung zum anerkannten Fortbildungsabschluss
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
+Geprüfter Fachwirt für Büro- und Projektorganisation
+## Geprüfte Fachwirtin für Büro- und Projektorganisation
 
 
 *    *   Herr/Frau
@@ -475,13 +487,15 @@ Geprüfter Fachkaufmann für Büro- und Projektorganisation
 
 
 
-Geprüfter Fachkaufmann für Büro- und Projektorganisation
-## Geprüfte Fachkauffrau für Büro- und Projektorganisation
+Geprüfter Fachwirt für Büro- und Projektorganisation
+## Geprüfte Fachwirtin für Büro- und Projektorganisation
 
 nach der Verordnung über die Prüfung zum anerkannten
-Fortbildungsabschluss Geprüfter Fachkaufmann für Büro- und
-Projektorganisation und Geprüfte Fachkauffrau für Büro- und
-Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268) bestanden:
+Fortbildungsabschluss Geprüfter Fachwirt für Büro- und
+Projektorganisation und Geprüfte Fachwirtin für Büro- und
+Projektorganisation vom 9. Februar 2012 (BGBl. I S. 268), die zuletzt
+durch Artikel 1 der Verordnung vom 21. August 2014 (BGBl. I S. 1459)
+geändert worden ist, bestanden:
 
 Die Prüfung beinhaltet die Handlungsbereiche:
 
@@ -505,7 +519,7 @@ Die Prüfung beinhaltet die Handlungsbereiche:
 
 *    *   Prüfungsergebnis:
 
-    *[^f1775540_01_BJNR026800012BJNE001300000]
+    *[^f1775540_01_BJNR026800012BJNE001302377]
    Punkte
 
     *
@@ -562,6 +576,10 @@ Die Prüfung beinhaltet die Handlungsbereiche:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
         ......................................................................
@@ -577,6 +595,6 @@ Die Prüfung beinhaltet die Handlungsbereiche:
 
 
 
-[^f1775540_01_BJNR026800012BJNE001300000]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^f1775540_01_BJNR026800012BJNE001302377]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     .......................
 

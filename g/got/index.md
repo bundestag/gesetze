@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1999, 1691
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.6.2008 I 1110
+:   Art. 1 V v. 19.7.2017 I 2696
 
 
 ## Eingangsformel
@@ -99,7 +99,29 @@ Unterschreitung der einfachen Gebührensätze sind im begründeten
 Einzelfall vor Erbringung der Leistung des Tierarztes in einem
 Schriftstück zu vereinbaren. Der Tierarzt hat dem Zahlungspflichtigen
 ein Doppel der von ihm und dem Zahlungspflichtigen unterschriebenen
-Vereinbarung auszuhändigen.
+Vereinbarung auszuhändigen. Abweichend von Satz 1 können die einfachen
+Gebührensätze im Falle der Durchführung einer Kastration oder
+Sterilisation einer freilebenden Katze unterschritten werden, soweit
+
+1.  die Katze zu dem Zweck der Durchführung eines solchen Eingriffs
+    eingefangen worden ist,
+
+
+2.  beabsichtigt ist, die Katze unmittelbar nach der Durchführung des
+    Eingriffs einschließlich der auf Grund des Eingriffs vorgenommenen
+    oder mit dem Eingriff in Zusammenhang stehenden Behandlung
+    freizulassen, und
+
+
+3.  die tierärztliche Leistung für eine Einrichtung erbracht wird, die als
+    gemeinnützig im Hinblick auf die Förderung des Tierschutzes anerkannt
+    ist.
+
+
+
+Satz 3 gilt auch für sonstige Leistungen, soweit diese auf Grund der
+Kastration oder Sterilisation erforderlich werden oder üblicherweise
+im Zusammenhang mit einem solchen Eingriff erbracht werden.
 
 (2) Verträge, die sich auf die langfristige Betreuung geschlossener
 Tierbestände mit regelmäßigen Untersuchungen erstrecken
@@ -234,9 +256,9 @@ Monats in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage (zu §§ 1 und 2)
+## Anlage (zu den §§ 1 und 2)
 
-(Fundstelle: BGBl I 2008, 1110 - 1138)
+(Fundstelle: BGBl I 2017, 2696 - 2725)
 
 ## **Gebührenverzeichnis für tierärztliche Leistungen**
 
@@ -267,7 +289,7 @@ Der Bundesrat hat zugestimmt.
     *   20
 
 
-*    *   Folgeuntersuchung im gleichen Behandlungsfall mit Beratung
+*    *   Folgeuntersuchung im gleichen Behandlungsfall
 
     *   21
 
@@ -275,11 +297,6 @@ Der Bundesrat hat zugestimmt.
 *    *   Eilbesuche
 
     *   22
-
-
-*    *   Bestandsuntersuchung
-
-    *   31
 
 
 *    *   Anwesenheit bei Veranstaltungen
@@ -433,7 +450,7 @@ werden,
 
 
 
-Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
+Die Zeitgebühr beträgt je 15 Minuten 16,00 Euro.
 
 
 *    *   Laufende
@@ -468,7 +485,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   Beratung im einzelnen Fall ohne Untersuchung
         (auch schriftlich oder fernmündlich)
 
-    *   6,29
+    *   7,04
 
 
 *    *   11
@@ -482,7 +499,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
         Vorbereitung, beispielsweise bei Verhaltensstörungen und im Rahmen von
         Naturheilverfahren, z. B. Akupunktur, Homöopathie etc.
 
-    *   17,18 Z
+    *   19,24 Z
 
 
 *    *   20
@@ -495,16 +512,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -519,8 +538,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ca)
 
     *   Zuchtschwein
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -528,88 +548,99 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cb)
 
     *   Mastschwein
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   d)
 
     *   Kalb
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   e)
 
     *   Ferkel, Schaf, Ziege
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   f)
 
     *   Hund
+        .....
 
-    *   12,03
+    *   13,47
 
 
 *    *
     *   g)
 
     *   Katze
+        .....
 
-    *   8,02
+    *   8,98
 
 
 *    *
     *   h)
 
     *   Nutzgeflügel
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
     *   i)
 
     *   Fische
+        .....
 
-    *   13,74
+    *   15,39
 
 
 *    *
     *   j)
 
     *   Pelztiere, sonstige Farmtiere
+        .....
 
-    *   13,74
+    *   15,39
 
 
 *    *
     *   k)
 
     *   Wildtiere, Zootiere
+        .....
 
-    *   20,62
+    *   23,09
 
 
 *    *
     *   l)
 
     *   Heimtiere
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   m)
 
     *   Ziergeflügel
+        .....
 
-    *   6,29
+    *   7,04
 
 
 *    *   21
@@ -622,16 +653,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   13,74
+    *   15,39
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
@@ -646,8 +679,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ca)
 
     *   Zuchtschwein
+        .....
 
-    *   9,16
+    *   10,26
 
 
 *    *
@@ -655,88 +689,99 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cb)
 
     *   Mastschwein
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   d)
 
     *   Kalb
+        .....
 
-    *   9,16
+    *   10,26
 
 
 *    *
     *   e)
 
     *   Ferkel, Schaf, Ziege
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   f)
 
     *   Hund
+        .....
 
-    *   9,73
+    *   10,90
 
 
 *    *
     *   g)
 
     *   Katze
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   h)
 
     *   Nutzgeflügel, Gebühr nach Nummer VIIa
+        .....
 
-    *   2,30
+    *   2,58
 
 
 *    *
     *   i)
 
     *   Fische
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   j)
 
     *   Pelztiere, sonstige Farmtiere
+        .....
 
-    *   10,88
+    *   12,19
 
 
 *    *
     *   k)
 
     *   Wildtiere, Zootiere
+        .....
 
-    *   16,04
+    *   17,96
 
 
 *    *
     *   l)
 
     *   Heimtiere
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   m)
 
     *   Ziergeflügel
+        .....
 
-    *   5,15
+    *   5,77
 
 
 *    *   22
@@ -747,8 +792,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   sofern der Praxisbetrieb erheblich gestört wird, zusätzlich
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   31
@@ -772,8 +818,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   bis zu 20 Tieren
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -781,8 +828,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   jedes weitere Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
@@ -796,9 +844,10 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   aa)
 
-    *   bis zu   100 Tieren
+    *   bis zu 100 Tieren
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -806,8 +855,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   über    100 Tiere
+        .....
 
-    *   38,37
+    *   42,97
 
 
 *    *
@@ -815,8 +865,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cc)
 
     *   über    150 Tiere
+        .....
 
-    *   48,10
+    *   53,87
 
 
 *    *
@@ -824,8 +875,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   dd)
 
     *   über    200 Tiere
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -839,9 +891,10 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   aa)
 
-    *   bis zu   150 Tieren
+    *   bis zu 150 Tieren
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -849,8 +902,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   über    150 Tiere
+        .....
 
-    *   37,80
+    *   42,34
 
 
 *    *
@@ -858,8 +912,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cc)
 
     *   über    500 Tiere
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -881,8 +936,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   bis zu   10 Tieren
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
@@ -890,8 +946,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   über     10 Tiere
+        .....
 
-    *   13,74
+    *   15,39
 
 
 *    *
@@ -899,8 +956,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cc)
 
     *   über    100 Tiere
+        .....
 
-    *   24,05
+    *   26,94
 
 
 *    *
@@ -908,8 +966,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   dd)
 
     *   über    500 Tiere
+        .....
 
-    *   30,92
+    *   34,63
 
 
 *    *
@@ -917,8 +976,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ee)
 
     *   über  1 000 Tiere
+        .....
 
-    *   37,80
+    *   42,34
 
 
 *    *
@@ -926,8 +986,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ff)
 
     *   über  2 000 Tiere
+        .....
 
-    *   44,67
+    *   50,03
 
 
 *    *
@@ -935,8 +996,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   gg)
 
     *   über  3 000 Tiere
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
@@ -944,8 +1006,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   hh)
 
     *   über  4 000 Tiere
+        .....
 
-    *   61,85
+    *   69,27
 
 
 *    *
@@ -954,7 +1017,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *   über  5 000 Lege- und Zuchttiere
 
-    *   71,58
+    *   80,17
 
 
 *    *
@@ -962,8 +1025,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   jj)
 
     *   über 10 000 Lege- und Zuchttiere
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *
@@ -971,8 +1035,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   kk)
 
     *   über 15 000 Lege- und Zuchttiere
+        .....
 
-    *   120,25
+    *   134,68
 
 
 *    *
@@ -980,17 +1045,19 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ll)
 
     *   über 20 000 Lege- und Zuchttiere
+        .....
 
-    *   164,92
+    *   184,71
 
 
 *    *
     *
     *   mm)
 
-    *   über 50.000 Lege- und Zuchttiere
+    *   über 50 000 Lege- und Zuchttiere
+        .....
 
-    *   206,16
+    *   230,90
 
 
 *    *
@@ -998,8 +1065,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   nn)
 
     *   über 10 000 Masttiere
+        .....
 
-    *   82,47
+    *   92,37
 
 
 *    *
@@ -1007,8 +1075,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   oo)
 
     *   über 20 000 Masttiere
+        .....
 
-    *   120,25
+    *   134,68
 
 
 *    *
@@ -1016,8 +1085,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   pp)
 
     *   über 50 000 Masttiere
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
@@ -1031,9 +1101,10 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   aa)
 
-    *   bis zu   100 Tieren
+    *   bis zu 100 Tieren
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -1041,8 +1112,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   über    100 Tiere
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
@@ -1050,8 +1122,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cc)
 
     *   über    200 Tiere
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -1059,16 +1132,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   dd)
 
     *   über    500 Tiere
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   f)
 
     *   Fische
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *   40
@@ -1080,15 +1155,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   je angefangene halbe Stunde
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *
     *   je Kalendertag
+        .....
 
-    *   274,87
+    *   307,85
 
 
 *    *   50
@@ -1104,20 +1181,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Katze
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   Hund
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   Pferd
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   60
@@ -1128,14 +1208,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Tag/Nacht  bei Tag
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   bei Nacht
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -1156,29 +1238,33 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   101
 
     *   Impfbescheinigung
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *   102
 
     *   Sonstige Bescheinigung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   103
 
     *   Einfache Gutachten
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   104
 
     *   Ausführliche Gutachten
+        .....
 
-    *   74,45 Z
+    *   83,38 Z
 
 
 *    *   105
@@ -1186,22 +1272,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   Rezeptgebühr für Wiederholungsrezept ohne Beratung bei einer
         Inanspruchnahme des Tierarztes soweit keine weiteren Leistungen
         berechnet werden
+        .....
 
-    *   1,71
+    *   1,92
 
 
 *    *   106
 
     *   Verschreibung eines Fütterungsarzneimittels
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   107
 
     *   Auftrag zur Herstellung eines Fütterungsarzneimittels
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
@@ -1212,8 +1301,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   201
 
     *   Tuberkulinproben + Brucellinproben
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
@@ -1226,8 +1316,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   202
 
     *   Probeentnahmen in der Teichwirtschaft
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   203
@@ -1248,8 +1339,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Leber-, Nierenbiopsie
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -1257,8 +1349,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Lymphknoten-, Tumorbiopsie
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -1266,8 +1359,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   Hautbiopsie
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
@@ -1282,8 +1376,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Abdomen, Thorax, Blase, Gelenk
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -1291,8 +1386,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   Pericard, Liquorgewinnung, Prostata, Cysten
+        .....
 
-    *   25,77
+    *   28,86
 
 
 *    *
@@ -1300,8 +1396,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bc)
 
     *   Abszesse, Cysten einfach
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -1309,8 +1406,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bd)
 
     *   Liquorpunktion inklusive Pandy-Reaktion und Zellzahl
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *   204
@@ -1323,64 +1421,72 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Rind
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *
     *   b)
 
     *   Schwein, Kalb
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
     *   c)
 
     *   Schaf, Ziege, Ferkel
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
     *   d)
 
     *   Hund, Katze
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
     *   e)
 
     *   Geflügel
+        .....
 
-    *   3,44 Z
+    *   3,85 Z
 
 
 *    *
     *   f)
 
     *   Fische
+        .....
 
-    *   3,44 Z
+    *   3,85 Z
 
 
 *    *
     *   g)
 
     *   Pelztiere, Farmtiere, Heimtiere
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
     *   h)
 
     *   Wildtiere, Zootiere
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *   205
@@ -1394,64 +1500,72 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Rind
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
     *   b)
 
     *   Schwein, Kalb
+        .....
 
-    *   40,08 Z
+    *   44,89 Z
 
 
 *    *
     *   c)
 
     *   Schaf, Ziege, Ferkel
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
     *   d)
 
     *   Hund, Katze
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
     *   e)
 
     *   Geflügel
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
     *   f)
 
     *   Fische
+        .....
 
-    *   5,72 Z
+    *   6,41 Z
 
 
 *    *
     *   g)
 
     *   Pelztiere, Farmtiere, Heimtiere
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
     *   h)
 
     *   Wildtiere, Zootiere
+        .....
 
-    *   40,08 Z
+    *   44,89 Z
 
 
 *    *
@@ -1469,8 +1583,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   302
 
     *   Bearbeitung von Proben zum Versand
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   303
@@ -1483,24 +1598,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   ohne Resistenzbestimmung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   mit Resistenzbestimmung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   304
 
     *   Körperflüssigkeit, physikalische, chemische oder mikroskopische
         Untersuchung einfacher Art
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   305
@@ -1519,24 +1637,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Nativpräparat, auch Harnsediment
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   mit Anwendung einfacher Färbeverfahren
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   c)
 
     *   mit Anwendung besonderer (differenzierender) Färbeverfahren
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -1562,16 +1683,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Rhino-, Vagino-, Laryngo-, Tracheoskopie (außer Pferd)
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   b)
 
     *   Rhino-, Vagino-, Laryngo-, Tracheoskopie Pferd
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
@@ -1579,8 +1702,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *   Gastro-, Duodeno-, Ileo-, Kolo-, Recto-, Broncho-, Laparoskopie (außer
         Pferd)
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
@@ -1588,74 +1712,84 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *   Gastro-, Duodeno-, Ileo-, Kolo-, Recto-, Broncho-, Laparoskopie beim
         Pferd
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *   e)
 
     *   Endoskopie, je Luftsack
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   f)
 
     *   Laparoskopie, Geschlechtsbestimmung bei Geflügel, ein Tier
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   g)
 
     *   Laparoskopie, Geschlechtsbestimmung bei jedem weiteren Tier
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   403
 
     *   Heliotherapie
+        .....
 
-    *   6,88 Z
+    *   7,71 Z
 
 
 *    *   404
 
     *   Interferenzstromtherapie
+        .....
 
-    *   6,88 Z
+    *   7,71 Z
 
 
 *    *   405
 
     *   Laserakupunktur
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *   406
 
     *   Laser-Anwendung
+        .....
 
-    *   17,18 Z
+    *   19,24 Z
 
 
 *    *   407
 
     *   Magnetfeldtherapie
+        .....
 
-    *   8,59 Z
+    *   9,62 Z
 
 
 *    *   408
 
     *   Mikrowelle
+        .....
 
-    *   6,88 Z
+    *   7,71 Z
 
 
 *    *   409
@@ -1668,16 +1802,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   systemisch intravenös
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   lokal
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   410
@@ -1690,8 +1826,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Durchleuchtung
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
@@ -1704,29 +1841,33 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   erste und zweite Aufnahme je
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *
     *   jede weitere Aufnahme
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   kleine Vögel, kleine Heimtiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   ambulant, Zuschlag je Besuch
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
@@ -1739,50 +1880,57 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Fistulographie
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   Dakryozystographie
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *
     *   Urographie
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Zystographie
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *
     *   Magen-Darm
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *
     *   Epidurographie, Cysternographie, Myelographie
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *   411
 
     *   Strahlen- und Ultraschalltherapie
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *   412
@@ -1793,14 +1941,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Pferd
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
     *   Kleintier
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   413
@@ -1811,8 +1961,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   außer zur Untersuchung von Trächtigkeit
+        .....
 
-    *   37,80
+    *   42,34
 
 
 *    *
@@ -1828,8 +1979,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   z. B. Instillation von Medikamenten in das Euter
+        .....
 
-    *   2,30
+    *   2,58
 
 
 *    *   502
@@ -1842,55 +1994,62 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   82,47
+    *   92,37
 
 
 *    *
     *   b)
 
     *   Hund
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   c)
 
     *   Katze
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   d)
 
     *   Rind
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   e)
 
     *   Schwein, Kalb, Schaf, Ziege
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   f)
 
     *   Tiere im Säuglingsalter, Heimtiere, Ziergeflügel, Pelztiere
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   503
 
     *   Implantation eines Arzneimittels
+        .....
 
-    *   5,15
+    *   5,77
 
 
 *    *   504
@@ -1911,8 +2070,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Pferd, Hund, Katze
+        .....
 
-    *   5,15
+    *   5,77
 
 
 *    *
@@ -1920,8 +2080,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Rind, Schwein, Schaf, Ziege, Heimtiere, Geflügel, Wildtiere, Zootiere
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
@@ -1935,15 +2096,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   bis zu 5 Tieren, je Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   0,57
+    *   0,64
 
 
 *    *
@@ -1957,23 +2120,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   bis zu 5 Tieren, je Tier
+        .....
 
-    *   1,71
+    *   1,92
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   0,17
+    *   0,19
 
 
 *    *
     *   b)
 
     *   intravenös, intratracheal, subkonjunktival
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
@@ -1981,8 +2147,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Venenkatheter einlegen
+        .....
 
-    *   13,74 Z
+    *   15,39 Z
 
 
 *    *
@@ -1995,54 +2162,61 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Pferd, Hund, Katze, Wildtiere, Zootiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
-    *   sonstige
+    *   Sonstige
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   d)
 
     *   intrarektal, intrapräputial, intravaginal
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   e)
 
     *   intrauterin, intraabdominal
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   f)
 
     *   intranasal
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
     *   g)
 
     *   Infusion
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *   505
@@ -2055,39 +2229,44 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Einziehen von Ohrmarken
+        .....
 
-    *   1,43
+    *   1,60
 
 
 *    *
     *   b)
 
     *   Tätowieren
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   c)
 
     *   Implantation eines Microchips
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   ab dem 5. Tier
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   d)
 
     *   Ablesen eines Microchips
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   506
@@ -2098,39 +2277,45 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Akupunktur
+        .....
 
-    *   14,31 Z
+    *   16,03 Z
 
 
 *    *
     *   Akupressur, Triggerpunktdiagnostik manuell
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   Elektrostimulationsakupunktur
+        .....
 
-    *   37,22
+    *   41,69
 
 
 *    *
     *   Elektroakupunktur nach Voll (EAV)
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   Ohrakupunktur Dauernadel pro Punkt
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *   507
 
     *   Nasenring einziehen
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   508
@@ -2141,27 +2326,31 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Pferd
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   Rind
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   509
 
     *   Tupferprobenentnahme
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   gynäkologisch
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   510
@@ -2174,32 +2363,36 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   b)
 
     *   schwierig
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   c)
 
     *   Robert-Jones-Verband
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   d)
 
     *   Gipsverband oder ähnliche Schienung
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
@@ -2215,8 +2408,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Impfungen mittels Tauchbad pro kg Lebendgewicht
+        .....
 
-    *   0,17
+    *   0,19
 
 
 *    *   602
@@ -2229,78 +2423,88 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   4,01
+    *   4,49
 
 
 *    *
     *   b)
 
-    *   Rind, 1. bis 5. Tier
+    *   Rind, 1. – 5. Tier
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   2,30
+    *   2,58
 
 
 *    *
     *   c)
 
     *   Schwein, pro Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
     *   d)
 
     *   Schaf, pro Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
     *   e)
 
     *   Pelztiere, pro Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
     *   f)
 
     *   Fische, durch Injektion, bis zu 5 Tieren, je Tier
+        .....
 
-    *   1,71
+    *   1,92
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   0,17
+    *   0,19
 
 
 *    *
     *   g)
 
     *   Hund, Katze
+        .....
 
-    *   4,01
+    *   4,49
 
 
 *    *
     *   h)
 
     *   Bestandsgebühr
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   603
@@ -2322,8 +2526,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   bis zu     10 Tieren, je Tier
+        .....
 
-    *   0,29
+    *   0,32
 
 
 *    *
@@ -2331,8 +2536,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   über     10 Tiere, je Tier
+        .....
 
-    *   0,20
+    *   0,22
 
 
 *    *
@@ -2340,8 +2546,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   über    100 Tiere, je Tier
+        .....
 
-    *   0,11
+    *   0,12
 
 
 *    *
@@ -2349,8 +2556,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ad)
 
     *   über    500 Tiere, je Tier
+        .....
 
-    *   0,06
+    *   0,07
 
 
 *    *
@@ -2358,6 +2566,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ae)
 
     *   über  1 000 Tiere, je Tier
+        .....
 
     *   0,03
 
@@ -2367,6 +2576,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   af)
 
     *   über  5 000 Tiere, je Tier
+        .....
 
     *   0,03
 
@@ -2381,9 +2591,10 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   ag)
 
-    *   bis zu    10 Tieren, je Tier
+    *   bis zu 10 Tieren, je Tier
+        .....
 
-    *   0,29
+    *   0,32
 
 
 *    *
@@ -2391,8 +2602,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ah)
 
     *   über     10 Tiere, je Tier
+        .....
 
-    *   0,20
+    *   0,22
 
 
 *    *
@@ -2400,8 +2612,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ai)
 
     *   über    100 Tiere, je Tier
+        .....
 
-    *   0,11
+    *   0,12
 
 
 *    *
@@ -2409,8 +2622,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aj)
 
     *   über    500 Tiere, je Tier
+        .....
 
-    *   0,06
+    *   0,07
 
 
 *    *
@@ -2418,8 +2632,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ak)
 
     *   über  1 000 Tiere, je Tier
+        .....
 
-    *   0,06
+    *   0,07
 
 
 *    *
@@ -2427,6 +2642,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   al)
 
     *   über  5 000 Tiere, je Tier
+        .....
 
     *   0,04
 
@@ -2443,7 +2659,8 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   ba)
 
-    *   bis zu   1 000 Tieren, je Tier
+    *   bis zu 1 000 Tieren, je Tier
+        .....
 
     *   0,03
 
@@ -2453,6 +2670,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   über  1 000 Tiere, je Tier
+        .....
 
     *   0,02
 
@@ -2462,6 +2680,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bc)
 
     *   über  2 500 Tiere, je Tier
+        .....
 
     *   0,02
 
@@ -2471,6 +2690,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bd)
 
     *   über  5 000 Tiere, je Tier
+        .....
 
     *   0,01
 
@@ -2480,6 +2700,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   be)
 
     *   über 10 000 Tiere, je Tier
+        .....
 
     *   0,01
 
@@ -2489,6 +2710,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bf)
 
     *   über 20 000 Tiere, je Tier
+        .....
 
     *   0,01
 
@@ -2503,7 +2725,8 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   bg)
 
-    *   bis    5 000 Tiere
+    *   bis 5 000 Tiere
+        .....
 
     *   0,01
 
@@ -2512,7 +2735,8 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *   bh)
 
-    *   über  5 000 Tiere
+    *   über 5 000 Tiere
+        .....
 
     *   0,01
 
@@ -2547,45 +2771,45 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *
     *   Bestandsuntersuchung und Beratung
-        pro 15 Minuten
+        ..... pro 15 Minuten
 
-    *   17,18
+    *   22,33
 
 
 *    *   702
 
     *
     *   Gesamtklimastatus
-        pro 15 Minuten
+        ..... pro 15 Minuten
 
-    *   17,18
+    *   22,33
 
 
 *    *   703
 
     *
     *   Fütterungsberatung
-        pro 15 Minuten
+        ..... pro 15 Minuten
 
-    *   17,18
+    *   22,33
 
 
 *    *   704
 
     *
     *   Wirtschaftlichkeitsberechnung
-        pro 15 Minuten
+        ..... pro 15 Minuten
 
-    *   17,18
+    *   22,33
 
 
 *    *   705
 
     *
     *   Integrierte Tierärztliche Bestandsbetreuung (ITB)
-        je 15 Minuten
+        ..... je 15 Minuten
 
-    *   17,18
+    *   22,33
 
 
 *    *
@@ -2594,10 +2818,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
         beinhalten tierärztliche Leistungen, die auf der Grundlage einer
         Vereinbarung zur Durchführung der ITB erbracht werden. Die Gebühr
         besteht aus einem zeitabhängigen Betrag oder aus einer Kombination aus
-        Zeitfaktor, einem Betrag für die Datenerfassung und
-        -auswertung                     pro Tier pro Jahr und der nach der
-        Gebührenordnung abzurechnenden anderen tierärztlichen Leistungen, die
-        bei der ITB erbracht werden.
+        Zeitfaktor, einem Betrag für die Datenerfassung und -auswertung pro
+        Tier pro Jahr und der nach der Gebührenordnung abzurechnenden anderen
+        tierärztlichen Leistungen, die bei der ITB erbracht werden.
 
     *
 
@@ -2629,8 +2852,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Zeitfaktor 15 Minuten
+        .....
 
-    *   17,18
+    *   22,33
 
 
 *    *
@@ -2642,24 +2866,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   pro Kuh pro Jahr
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *
     *   pro Muttersau pro Jahr
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   b)
 
-    *   Tierheime einschließlich Kleintierzuchtbestände
-        pro 15 Minuten
+    *   Tierheime, einschließlich Kleintierzuchtbestände
+        ..... pro 15 Minuten
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -2694,16 +2920,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *   A 1
 
-    *   Eingehende Untersuchung einzelner Organe
+    *   Eingehende Untersuchung, einzelner Organe
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   A 2
 
     *   Inhalation
+        .....
 
-    *   8,59 Z
+    *   9,62 Z
 
 
 *    *   A 3
@@ -2714,21 +2942,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Stimmtaschenexstirpation
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
     *   Laryngoplastik nach Marks
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   A 4
 
     *   Kopperoperation
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *   A 5
@@ -2741,24 +2972,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Rind, Wildtiere, Zootiere
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   b)
 
     *   Hund, Katze
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *
     *   c)
 
     *   mit Dauerfistel bei Tieren nach den Buchstaben a und b
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   A 6
@@ -2771,16 +3005,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   alle Tiere außer Pferd
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   b)
 
     *   Pferd
+        .....
 
-    *   400,85
+    *   448,95
 
 
 *    *   A 7
@@ -2793,8 +3029,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Zoo- und Wildtiere
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -2807,15 +3044,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Stirn- und Nasennebenhöhlen
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *
     *
     *   Ausräumen der Nasenhöhle
+        .....
 
-    *   217,60 Z
+    *   243,71 Z
 
 
 *    *
@@ -2832,76 +3071,87 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   Au 1.1
 
     *   ERG (Elektroretinogramm)
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   Au 1.2
 
     *   Fluoresceinprobe je Auge
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   Au 1.3
 
     *   Fundusphotographie
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   zweites Foto
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   weitere
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   Au 1.4
 
     *   Gonioskopie, beide Augen
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   Au 1.5
 
     *   Indirekte Ophthalmoskopie
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   Au 1.6
 
     *   Spaltlampen-U, beide Augen
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   Au 1.7
 
     *   Schirmer-Tränentest je Auge
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *   Au 1.8
 
     *   Tonometrie, beide Augen
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   Au 1.9
 
     *   Tränenkanalspülung je Auge
+        .....
 
-    *   10,30
+    *   11,54
 
 
 *    *   Au 2
@@ -2920,37 +3170,42 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   80,17
+    *   89,79
 
 
 *    *
     *
     *   Hund, Katze, Schwein
+        .....
 
-    *   80,17
+    *   89,79
 
 
 *    *
     *
     *   kleine Heimtiere, Ziergeflügel
+        .....
 
-    *   40,08 Z
+    *   44,89 Z
 
 
 *    *
     *   b)
 
     *   mit Vorbereitung zur orbitalen Prothese
+        .....
 
-    *   91,63
+    *   102,63
 
 
 *    *   Au 2.2
 
     *   Intraoculäre Prothese
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   Au 2.3
@@ -2961,15 +3216,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einschließlich Kanthotomie
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *   Au 2.4
 
     *   Vitrektomie
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   Au 2.5
@@ -2982,30 +3239,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Cyclocryobehandlung
+        .....
 
-    *   91,63 Z
+    *   102,63 Z
 
 
 *    *
     *   b)
 
     *   fistulierende Operation
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *   Au 2.6
 
     *   Keratectomie (Korneasequester, Dermoid)
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *   Au 2.7
 
     *   Abrasio cornea (touchieren, Curettage)
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   Au 2.8
@@ -3016,15 +3277,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze, Geflügel
+        .....
 
-    *   68,72 Z
+    *   76,97 Z
 
 
 *    *   Au 2.9
 
     *   Verpflanzung des Ductus parotideus in den Conjunktivalsack einseitig
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *   Au 2.10
@@ -3037,24 +3300,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Epilation manuell
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   b)
 
     *   Epilation mit Kauter
+        .....
 
-    *   37,22 Z
+    *   41,69 Z
 
 
 *    *
     *   c)
 
     *   Epilation durch Lidsplitting
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   Au 2.11
@@ -3070,34 +3336,39 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze, Pferd
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   kleine Heimtiere
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   Schaf, Ziege
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   Au 2.12
 
     *   Lidspaltenplastik je Seite
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   Au 2.13
 
     *   Tarsorrhaphie
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   Au 2.14
@@ -3110,31 +3381,35 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Tränenpunkteröffnung je Seite
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   Tränenkanalplastik je Seite
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   c)
 
     *   Tränennasenkanalplastik je Seite
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   Au 2.15
@@ -3147,16 +3422,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   mit Keilexcision
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   b)
 
     *   ohne Keilexcision
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   Au 2.16
@@ -3169,61 +3446,69 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Entfernung der Glandula
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
     *   b)
 
     *   Reposition und Fixation der Glandula
+        .....
 
-    *   74,45
+    *   83,38
 
 
 *    *
     *   c)
 
     *   partielle Excision des Nickhautknorpels
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   d)
 
     *   Nickhautschürze
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   e)
 
     *   Bindehautlappenplastik
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   Au 2.17
 
     *   Entfernung der Follikel von Nickhaut und Conjunktiva beiderseits
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *   Au 2.18
 
     *   Linsenextraktion
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *   Au 2.19
 
     *   Linsenimplantation
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
@@ -3241,8 +3526,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   größere Teile von Extremitäten
+        ......
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *
@@ -3257,8 +3543,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Rind
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -3266,8 +3553,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   Schwein, Kalb, Schaf, Ziege
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
@@ -3282,16 +3570,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ca)
 
     *   Rind
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *
     *
     *   Rind, nur Schwanzspitze
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -3299,16 +3589,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cb)
 
     *   Hund, Katze
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *
     *
     *   Saugwelpe
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
@@ -3323,8 +3615,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   da)
 
     *   Saugwelpe, je Kralle
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
@@ -3332,16 +3625,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   db)
 
     *   älteres Tier, je Kralle
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   e)
 
     *   Zehe
+        .....
 
-    *   48,68
+    *   54,52
 
 
 *    *   B 2
@@ -3366,15 +3661,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -3387,15 +3684,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   B 2.2
@@ -3408,16 +3707,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfache Fraktur
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *   b)
 
     *   schwierige Fraktur
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
@@ -3436,22 +3737,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *   B 2.3
 
     *   Entfernung des distalen Fragmentes beim Griffelbein
+        .....
 
-    *   148,89
+    *   166,76
 
 
 *    *   B 2.4
@@ -3462,14 +3766,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   schwierig
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *   B 2.5
@@ -3482,31 +3788,35 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach
+        .....
 
-    *   217,60
+    *   243,71
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   274,87
+    *   307,85
 
 
 *    *
     *   b)
 
     *   Varisationsosteotomie, je Seite
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *
     *   c)
 
     *   Dreifachbeckenosteotomie
+        .....
 
-    *   429,49
+    *   481,03
 
 
 *    *
@@ -3521,8 +3831,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   da)
 
     *   ohne Ulnaosteotomie
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
@@ -3530,8 +3841,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   db)
 
     *   mit Ulnaosteotomie
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 3
@@ -3548,57 +3860,65 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
     *   Pferd
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
-    *   sonstige
+    *   Sonstige
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *   B 3.2
 
     *   Arthrotomie
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
     *   a)
 
     *   ohne Plattenfixation
+        .....
 
-    *   217,60
+    *   243,71
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   b)
 
     *   mit Plattenfixation
+        .....
 
-    *   314,96
+    *   352,76
 
 
 *    *   B 3.3
 
     *   Epiphyseolyse
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 3.4
@@ -3609,14 +3929,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *   Katze
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   B 3.5
@@ -3626,9 +3948,10 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
 
 *    *
-    *   inklusive Arthrotomie
+    *   inclusive Arthrotomie
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   B 3.6
@@ -3641,30 +3964,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   unblutig
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
     *   b)
 
     *   operativ
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 3.7
 
     *   Meniskusoperation
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   B 3.8
 
     *   Osteochondrosis dissecans
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *   B 3.9
@@ -3677,23 +4004,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   entfernen
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   b)
 
     *   fixieren
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *   B 3.10
 
     *   Fragmentierter Proc. coronoideus
+        .....
 
-    *   217,60
+    *   243,71
 
 
 *    *   B 3.11
@@ -3706,32 +4036,36 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   lateraler Zügel nach Flo
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *   b)
 
     *   Vertiefung der Trochlearinne
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *   c)
 
     *   Versetzung der Crista tibiae
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   d)
 
-    *   Kapselplastik plus Buchstabe b plus Buchstabe c
+    *   Kapselplastik plus b) plus c)
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
@@ -3744,15 +4078,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   operativ
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *
     *   konservativ
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   B 3.12
@@ -3765,23 +4101,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   ohne Meniskusresektion
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *
     *   b)
 
     *   mit Meniskusresektion
+        .....
 
-    *   314,96
+    *   352,76
 
 
 *    *   B 3.13
 
     *   Ruptur der Seitenbänder
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 3.14
@@ -3792,21 +4131,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   nach Wamberg
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *   nach Peter Schmidt
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 3.15
 
     *   Totalendoprothese
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *   B 4
@@ -3818,50 +4160,57 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   B 4.1
 
     *   Hornsäulenoperation
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   B 4.2
 
-    *   Huforthopädie, Hufabszess u. Ä.
+    *   Huforthopädie, Hufabszess u. ä.
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *   B 4.3
 
     *   Hufkrebs (Radikaloperation), je Huf
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   B 4.4
 
-    *   Klauenorthopädie, Sohlengeschwür u. Ä.
+    *   Klauenorthopädie, Sohlengeschwür u. ä.
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   B 4.5
 
     *   Klauenkorrektur
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   B 4.6
 
     *   Panaritiumoperation, Limax, je Fuß
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   B 4.7
 
     *   Rehefuß (Operation), je Huf/Klaue
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 5
@@ -3878,14 +4227,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze alle Extremitäten
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   Geflügel, Heimtiere
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *   B 5.2
@@ -3898,60 +4249,68 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Hund
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   b)
 
     *   Pferd
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
     *   c)
 
     *   Rind, Schwein, Katze
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   d)
 
     *   Schaf, Ziege
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   B 5.3
 
     *   Nervenschnitt, je Gliedmaße
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   B 5.4
 
     *   Pectineusmyoektomie beiderseits
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   B 5.5
 
     *   Ringentfernung bzw. Beringung bei Geflügel
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *   B 5.6
 
     *   Exstirpation eines Schleimbeutels
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   B 5.7
@@ -3962,28 +4321,32 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
     *   schwierig
+        .....
 
-    *   114,53 Z
+    *   128,27 Z
 
 
 *    *   B 5.8
 
     *   Sehnenspaltung (Splitting)
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   B 5.9
 
     *   Sohlenballengeschwür operativ bei Geflügel
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   B 5.10
@@ -3994,22 +4357,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Tenotomie, Neurektomie
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *   B 5.11
 
     *   Spongiosagewinnung
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   B 5.12
 
     *   Spongiosatransplantation
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -4020,8 +4386,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   Bl 1
 
     *   Aderlass
+        .....
 
-    *   20,62 Z
+    *   23,09 Z
 
 
 *    *   Bl 2
@@ -4032,15 +4399,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   photometrische Einzelparameter z. B. Haemoglobin, Blutzucker
+        .....
 
-    *   5,15
+    *   5,77
 
 
 *    *
     *   werden mehr als drei Parameter untersucht, beträgt die Gebühr je
         Parameter
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *   Bl 3
@@ -4051,14 +4420,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   unblutig
+        .....
 
-    *   8,59 Z
+    *   9,62 Z
 
 
 *    *
     *   operativ
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   Bl 4
@@ -4069,14 +4440,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   erste Messung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   jede weitere
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   Bl 5
@@ -4095,15 +4468,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   venös
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   arteriell
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -4116,29 +4491,33 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Pferd, Rind, Schwein, Schaf, Fische
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
     *
     *   Rind Laufstall bzw. Ammenkuhhaltung
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *
     *   Ferkel
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
     *
     *   Geflügel
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   Bl 6
@@ -4149,8 +4528,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einschließlich Gewinnung und Aufbewahrung
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   Bl 7
@@ -4163,47 +4543,53 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Blutausstrich mit Färbung und Differenzierung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   b)
 
     *   Blutsenkungsreaktion
+        .....
 
-    *   4,01
+    *   4,49
 
 
 *    *
     *   c)
 
     *   Hämatokritwert
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   d)
 
     *   Leukozytenzählung, Erythrozytenzählung, Thrombozytenzählung
+        .....
 
-    *   4,01
+    *   4,49
 
 
 *    *
     *   e)
 
     *   Blutungs- und/oder Gerinnungszeit
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   Bl 8
 
     *   Blutstatus komplett
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   Bl 9
@@ -4214,8 +4600,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   (z. B. FiP, FiV, FELV, PABA)
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   Bl 10
@@ -4231,20 +4618,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   1. Tier
+        .....
 
-    *   4,47
+    *   5,01
 
 
 *    *
     *   2. bis 100. Tier, je Tier
+        .....
 
-    *   0,86
+    *   0,96
 
 
 *    *
     *   jedes weitere Tier
+        .....
 
-    *   0,52
+    *   0,58
 
 
 *    *
@@ -4276,8 +4666,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Pferd
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -4285,8 +4676,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Rind
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -4294,8 +4686,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   Schwein
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -4303,8 +4696,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ad)
 
     *   Schaf, Ziege
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
@@ -4312,8 +4706,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ae)
 
     *   Hund, Kater
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -4321,8 +4716,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   af)
 
     *   Heimtiere
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -4337,8 +4733,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Pferd
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
@@ -4346,8 +4743,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   Rind
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -4355,8 +4753,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bc)
 
     *   Schwein
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -4364,8 +4763,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bd)
 
     *   Schaf, Ziege
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -4373,8 +4773,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   be)
 
     *   Hund, Kater
+        .....
 
-    *   68,72 Z
+    *   76,97 Z
 
 
 *    *
@@ -4382,8 +4783,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bf)
 
     *   Geflügel
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   G 1.2
@@ -4402,15 +4804,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   inguinal
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *
     *   abdominal
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
@@ -4423,15 +4827,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   inguinal
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *
     *   abdominal
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -4444,31 +4850,35 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   inguinal
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *
     *   abdominal
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   d)
 
     *   Schwein
+        .....
 
-    *   25,77
+    *   28,86
 
 
 *    *
     *   e)
 
     *   Ferkel
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   G 1.3
@@ -4481,38 +4891,43 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
     *   b)
 
     *   Kater
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *   c)
 
     *   Hund
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   G 1.4
 
     *   Penisreposition Pferd
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   G 1.5
 
     *   Phimoseoperation
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *   G 1.6
@@ -4525,16 +4940,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Rind, Schwein, Wildtiere, Zootiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   sonstige
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   G 1.7
@@ -4547,21 +4964,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Prostatektomie
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *
     *   b)
 
     *   Marsupialisation
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *   G 1.8
 
-    *   Rektale Untersuchung
+    *   rektale Untersuchung
 
     *
 
@@ -4569,16 +4988,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   b)
 
     *   sonstige
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   G 1.9
@@ -4591,16 +5012,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   143,16 Z
+    *   160,34 Z
 
 
 *    *
     *   b)
 
     *   sonstige
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *   G 2
@@ -4620,16 +5043,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *   Untersuchung des Spendertieres und Erstellung eines
         Superovulationsplanes
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   Auswahl und Synchronisation der Empfängertiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
@@ -4642,15 +5067,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   normale Spülung
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *
     *   Single Spülung
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -4665,8 +5092,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   da)
 
     *   normal
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
@@ -4674,16 +5102,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   db)
 
     *   Single
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   e)
 
     *   Embryonenübertragung (frisch), je Tier
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -4698,8 +5128,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   fa)
 
     *   multistep
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -4707,15 +5138,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   fb)
 
     *   one-step
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *
     *   jeder weitere
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -4728,29 +5161,33 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   multistep    ein Embryo
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *
     *   jeder weitere
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *
     *   one-step   ein Embryo
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *
     *   jeder weitere
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -4759,15 +5196,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   Lagerung von Tiefgefrierembryonen (einschließlich Transport) pro
         Embryo pro Monat einschließlich einer Spülung ohne Mengenbegrenzung
         der Embryonen
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   G 2.2
 
     *   Episiotomie
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   G 2.3
@@ -4780,16 +5219,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Totalfetotomie
+        .....
 
-    *   166,06 Z
+    *   185,99 Z
 
 
 *    *
     *   b)
 
     *   Teilfetotomie
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   G 2.4
@@ -4810,8 +5251,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   einfach
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
@@ -4819,8 +5261,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   schwierig
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
@@ -4835,8 +5278,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
@@ -4844,8 +5288,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   schwierig
+        .....
 
-    *   68,72 Z
+    *   76,97 Z
 
 
 *    *
@@ -4860,8 +5305,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ca)
 
     *   einfach
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
@@ -4869,24 +5315,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cb)
 
     *   schwierig
+        .....
 
-    *   42,95 Z
+    *   48,10 Z
 
 
 *    *
     *   d)
 
     *   Schaf, Ziege
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   e)
 
     *   Hund, Katze
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *   G 2.5
@@ -4914,40 +5363,45 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
     *
     *   rektale Untersuchung
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *
     *
     *   vaginale Untersuchung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *
     *   Follikelkontrolle
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *
     *
     *   Follikelkontrolle mit Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *
     *
     *   Tupferprobe
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -4955,40 +5409,45 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Rind, Schwein
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *
     *
     *   rektale Untersuchung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *
     *   vaginale Untersuchung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *
     *   Follikelkontrolle mit Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *
     *
     *   Tupferprobe
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -4996,8 +5455,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   Schaf, Ziege
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -5005,8 +5465,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ad)
 
     *   Hund, Katze
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
@@ -5014,51 +5475,58 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ae)
 
     *   Heimtiere
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   b)
 
     *   Uterusinstillation
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Scheiden-/Uterusspülung
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *
     *
     *   Schwein
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *
     *   Vaginalabstrich, Zyklusbestimmung, einschließlich Färbung
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   G 2.6
@@ -5083,55 +5551,62 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   c)
 
     *   Schwein
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   d)
 
     *   Schaf, Ziege
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   e)
 
     *   Hund
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   f)
 
     *   Geflügel, Kaninchen: 1. bis 10. Tier, je Tier
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
@@ -5139,8 +5614,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
         Buchstaben a bis d bei Nacht (zwischen 19.00 und 7.00 Uhr), während
         der Zeit des Bereitschaftsdienstes an Wochenenden und Feiertagen sowie
         auf der Weide, je Tier
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *   G 2.7
@@ -5161,8 +5637,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   total
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
@@ -5170,16 +5647,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   versuchte Ablösung und Einführung von Medikamenten
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   b)
 
     *   Pferd
+        .....
 
-    *   42,95 Z
+    *   48,10 Z
 
 
 *    *   G 2.8
@@ -5190,14 +5669,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Rind, Hund, Katze
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
     *   Pferd
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *   G 2.9
@@ -5217,8 +5698,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Hund
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
@@ -5226,8 +5708,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Katze
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -5235,8 +5718,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   Geflügel
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -5244,48 +5728,54 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ad)
 
     *   Stute
+        .....
 
-    *   400,85
+    *   448,95
 
 
 *    *
     *
     *
     *   vaginal
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   b)
 
     *   Perianalfistel
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   G 2.10
 
-    *   Rektale Untersuchung
+    *   rektale Untersuchung
 
     *
 
 *    *
     *   Pferd
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   Hund
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   sonstige
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   G 2.11
@@ -5306,8 +5796,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   nach Götze
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
@@ -5315,16 +5806,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   nach Caslick
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *   b)
 
     *   sonstige
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *   G 2.12
@@ -5335,14 +5828,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   schwierig mit Episiotomie
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *   G 2.13
@@ -5353,8 +5848,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Reposition und Verschluss
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *   G 2.14
@@ -5367,56 +5863,63 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   137,44
+    *   153,93
 
 
 *    *
     *   c)
 
     *   Schwein
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
     *   d)
 
     *   Schaf, Ziege
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *   e)
 
     *   Hund
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *   f)
 
     *   Katze
+        .....
 
-    *   108,81
+    *   121,87
 
 
 *    *
     *   g)
 
     *   Heimtiere
+        .....
 
-    *   91,63
+    *   102,63
 
 
 *    *   G 2.15
@@ -5435,15 +5938,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Rind
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
@@ -5456,15 +5961,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Rind
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   85,89 Z
+    *   96,20 Z
 
 
 *    *   G 2.16
@@ -5477,75 +5984,85 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *
     *   einschließlich Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   einschließlich Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *
     *   ab dem 5. Tier je Rind
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   c)
 
     *   Schwein einschließlich Ultraschall
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   d)
 
     *   Hund, Katze
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *
     *   einschließlich Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   e)
 
     *   Heimtiere
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   einschließlich Ultraschall
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -5556,15 +6073,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   G 2.17
 
     *   gynäkologisch
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   G 2.18
 
     *   Uterusamputation
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *   G 2.19
@@ -5576,22 +6095,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *   a)
 
-    *   Pferd
+    *   Pferd,
 
     *
 
 *    *
     *
     *   einfach
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   314,96
+    *   352,76
 
 
 *    *
@@ -5604,30 +6125,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   91,63
+    *   102,63
 
 
 *    *
     *   c)
 
     *   Schaf, Ziege
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   G 2.20
 
     *   Vaginalverschluss (operativ)
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   G 2.21
@@ -5643,14 +6168,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   schwierig
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *   G 3
@@ -5662,20 +6189,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   G 3.1
 
     *   Untersuchung des Euters
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
     *   Probenentnahme
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *
     *   Schalm Test
+        .....
 
-    *   1,14
+    *   1,28
 
 
 *    *   G 3.2
@@ -5688,24 +6218,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   klein, gut abgesetzt
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
     *   b)
 
     *   ein bis zwei Mammakomplexe
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   c)
 
     *   Entfernen einer Mammaleiste einschließlich Lymphknoten
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   G 3.3
@@ -5718,44 +6251,49 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Zitzenoperation (Atresie, Striktur), je Zitze
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   endoskopisch
+        .....
 
-    *   74,45
+    *   83,38
 
 
 *    *
     *   b)
 
     *   Milchfisteloperation, Rind
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   c)
 
     *   Operation Afterzitze
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   d)
 
     *   Zitzenamputation beim Rind
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   G 4
 
-    *   Geflügel, Sonstiges
+    *   Geflügel, sonstiges
 
     *
 
@@ -5769,16 +6307,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   konservativ
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   operativ
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   G 4.2
@@ -5789,14 +6329,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   nicht operativ
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   chirurgisch
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *   G 5
@@ -5815,24 +6357,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Jährlingsfohlen
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   b)
 
-    *   Hengst, zweijährig und älter
+    *   Hengst, zweijährige und älter
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *   c)
 
     *   Stute
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   G 5.2
@@ -5859,8 +6404,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Einzeltier
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
@@ -5868,8 +6414,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   jedes weitere Tier
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
@@ -5883,8 +6430,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Einzeltier
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
@@ -5892,8 +6440,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   jedes weitere Tier
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -5907,8 +6456,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Einzeltier
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -5916,16 +6466,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   jedes weitere Tier
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   Kuh
+        .....
 
-    *   62,99
+    *   70,55
 
 
 *    *   G 5.3
@@ -5938,16 +6490,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   männlich
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   b)
 
     *   weiblich
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   G 5.4
@@ -5960,16 +6514,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   männlich
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   weiblich
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *   G 5.5
@@ -5990,8 +6546,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Einzeltier
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
@@ -5999,24 +6556,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   jedes weitere Tier
+        .....
 
-    *   1,71
+    *   1,92
 
 
 *    *
     *   b)
 
     *   Zwitter
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   c)
 
     *   Bruchferkel
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -6031,8 +6591,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   da)
 
     *   Jungeber
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
@@ -6040,8 +6601,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   db)
 
     *   Zwitter
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
@@ -6049,8 +6611,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   dc)
 
     *   Alteber
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *   G 5.6
@@ -6071,8 +6634,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Bock bis zu zwei Monaten
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
@@ -6080,8 +6644,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Bock über zwei Monate
+        .....
 
-    *   10,88
+    *   12,19
 
 
 *    *
@@ -6096,8 +6661,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Bock bis zu zwei Monaten
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
@@ -6105,8 +6671,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   Bock über zwei Monate
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *   G 5.7
@@ -6124,22 +6691,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Einzeltier
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   b)
 
     *   jedes weitere Tier
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   weiblich
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
@@ -6157,16 +6727,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   b)
 
     *   schwierig
+        .....
 
-    *   17,18 Z
+    *   19,24 Z
 
 
 *    *   H 2
@@ -6179,16 +6751,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   1. bis 3. Probe
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   jede weitere Probe
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *   H 3
@@ -6201,16 +6775,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Kalb bis sechs Wochen
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   älteres Tier
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   H 4
@@ -6221,26 +6797,30 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Entnahme
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *   Färbung und Beurteilung
+        .....
 
-    *   10,30
+    *   11,54
 
 
 *    *
     *   Hautbiopsieentnahme
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *   ab drei Proben insgesamt
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *   H 5
@@ -6261,8 +6841,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Ziergeflügel, kleine Heimtiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
@@ -6270,23 +6851,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   sonstige
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
     *   b)
 
     *   schwierig
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *   H 6
 
     *   Woodsche Lampe anwenden
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *   H 7
@@ -6299,16 +6883,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Wundbehandlung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   Wundtoilette
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
@@ -6321,15 +6907,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
@@ -6342,15 +6930,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   28,63 Z
+    *   32,07 Z
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
@@ -6369,30 +6959,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *
     *   Pferd
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   f)
 
     *   Fäden ziehen, Klammern entfernen
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
@@ -6402,23 +6996,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *   Ha 1
 
-    *   Eingehende Untersuchung einzelner Organe
+    *   eingehende Untersuchung einzelner Organe
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   Ha 2
 
     *   OP-Harnblasenvorfall
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   Ha 3
 
     *   Harnröhrenfistel
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   Ha 4
@@ -6432,52 +7029,59 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
     *   Harnstatus (spezifisches Gewicht, Teststreifen, Eiweißprobe,
         Sedimentuntersuchung)
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   b)
 
     *   bakterielle Anreicherung (Uricult)
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   c)
 
     *   Teststreifen
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   Ha 5
 
     *   Nephrektomie
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   Ha 6
 
     *   Nephrotomie
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   Ha 7
 
     *   Urachusoperation (Harnblase)
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *   Ha 8
 
     *   Uretereinpflanzung in Harnblase
+        .....
 
-    *   217,60
+    *   243,71
 
 
 *    *   Ha 9
@@ -6496,59 +7100,67 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Rüde, Kater und sonstige, männlich
+        .....
 
-    *   10,30
+    *   11,54
 
 
 *    *
     *
     *   Hündin, Katze und sonstige, weiblich
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Rind, Schwein, Pferd, männlich
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   Pferd, weiblich
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   Rind, weiblich
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   Schwein, weiblich
+        .....
 
-    *   10,30
+    *   11,54
 
 
 *    *
     *   b)
 
     *   Blasenpunktion
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   c)
 
     *   Blase manuell entleeren
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *   Ha 10
@@ -6559,32 +7171,37 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *
     *   Katze
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
     *   Rind
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *
     *   kleine Heimtiere
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *   Pferd
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
@@ -6594,9 +7211,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *   He 1
 
-    *   Eingehende Untersuchung einzelner Organe
+    *   eingehende Untersuchung einzelner Organe
 
-    *   8,59
+    *   9,62
 
 
 *    *   He 2
@@ -6604,39 +7221,44 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Elektrocardiogramm
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   Elektrocardiogramm, Pferd
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   c)
 
     *   telemetrische Untersuchung
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *   d)
 
     *   telemetrische Untersuchung, Pferd
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   He 3
 
     *   Elektroschocktherapie (Reanimation)
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   He 4
@@ -6649,38 +7271,43 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Operation am Herzen, offen
+        .....
 
-    *   429,49
+    *   481,03
 
 
 *    *
     *   b)
 
     *   Operationen von Missbildungen am Herzen und an den großen Gefäßen
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *
     *   c)
 
     *   Pericardiozentese
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *   He 5
 
     *   Operationen am Oesophagus mit Thoraxöffnung
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   He 6
 
     *   Portocavaler Shunt
+        .....
 
-    *   217,60 Z
+    *   243,71 Z
 
 
 *    *   He 7
@@ -6693,30 +7320,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach, mit Heimlich-Ventildrainage
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *
     *   b)
 
     *   mit Eröffnung des Thorax
+        .....
 
-    *   286,33 Z
+    *   320,69 Z
 
 
 *    *   He 8
 
     *   Thorakozentese bzw. Thoraxdrainage
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *   He 9
 
     *   Zwerchfellhernie/Zwerchfellriss, Brusthöhle
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
@@ -6727,50 +7358,57 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   O 1
 
     *   Untersuchung, eingehend
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *   O 2
 
     *   Amputation eines Ohres
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   O 3
 
     *   Bullaosteotomie einseitig
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *   O 4
 
     *   Luftsackspülung, je Luftsack
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   O 5
 
     *   Eröffnen und Ausräumen eines Luftsackes bei Geflügel, je Luftsack
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *   O 6
 
     *   Legen einer Luftsackkanüle beim Ziergeflügel
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   O 7
 
     *   Luftsackoperation Pferd
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   O 8
@@ -6781,14 +7419,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   schwierig
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   O 9
@@ -6799,20 +7439,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Erstbehandlung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   Weiterbehandlung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   Spülbehandlung
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   O 10
@@ -6825,24 +7468,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   nach Hinz/Zepp
+        .....
 
-    *   108,81
+    *   121,87
 
 
 *    *
     *   b)
 
     *   mit Ablatio des gesamten vertikalen Gehörganges
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   c)
 
     *   mit Herausnahme des gesamten Gehörganges
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
@@ -6858,7 +7504,7 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *   V 1.1
 
-    *   Magen-Darm
+    *   Magen - Darm
 
     *
 
@@ -6872,63 +7518,71 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
     *   b)
 
     *   Hund
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   c)
 
     *   Katze
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   d)
 
     *   Rind
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   e)
 
     *   Kalb, Schaf, Ziege
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   f)
 
     *   kleine Heimtiere
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
     *   g)
 
     *   Ziergeflügel
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   V 1.1.2
 
     *   Caecumoperation beim Rind
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.1.3
@@ -6939,21 +7593,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze, Rind
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   Pferd (auch Kolik)
+        .....
 
-    *   572,64
+    *   641,36
 
 
 *    *   V 1.1.4
 
     *   Darmeinlauf, Koprostase behandeln
+        .....
 
-    *   14,31 Z
+    *   16,03 Z
 
 
 *    *   V 1.1.5
@@ -6964,14 +7621,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze, Rind
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   Pferd (auch Kolik)
+        .....
 
-    *   572,64
+    *   641,36
 
 
 *    *   V 1.1.6
@@ -6982,32 +7641,37 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *
     *   Katze
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
     *   Rind
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *
     *   kleine Heimtiere
+        .....
 
-    *   80,17
+    *   89,79
 
 
 *    *
     *   Pferd
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *   V 1.1.7
@@ -7020,30 +7684,34 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Einzeltier
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   5,15
+    *   5,77
 
 
 *    *
     *   b)
 
     *   Rind, Einzeltier
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
@@ -7056,15 +7724,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Einzeltier
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   1,71
+    *   1,92
 
 
 *    *
@@ -7077,22 +7747,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   1. Tier
+        .....
 
-    *   3,44
+    *   3,85
 
 
 *    *
     *
     *   2. bis 15. Tier, je Tier
+        .....
 
-    *   0,86
+    *   0,96
 
 
 *    *
     *
     *   jedes weitere Tier
+        .....
 
-    *   0,52
+    *   0,58
 
 
 *    *   V 1.1.8
@@ -7102,15 +7775,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *
 
 *    *
-    *   einfacher Ausstrich inklusive Beurteilung
+    *   einfacher Ausstrich, inclusive Beurteilung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   Beurteilung nach Anreicherung, z. B. Flotationsverfahren
+        .....
 
-    *   9,73
+    *   10,90
 
 
 *    *   V 1.1.9
@@ -7123,16 +7798,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   manuelle Entleerung
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   b)
 
     *   Spülung
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   V 1.1.10
@@ -7143,48 +7820,55 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einseitig
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *
     *   beidseitig
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   V 1.1.11
 
     *   Rektalschleimhautresektion
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.1.12
 
     *   Rektumdivertikel
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *   V 1.1.13
 
     *   Rektumprolaps einfach
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   Schwein
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   V 1.1.14
 
     *   Gastrotomie beim Rind
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *   V 1.1.15
@@ -7195,34 +7879,39 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Hund, Katze, Rind
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   Pferd (auch Kolik-OP)
+        .....
 
-    *   572,64
+    *   641,36
 
 
 *    *   V 1.1.16
 
     *   Labmagenreposition, Wälzen ohne transkutane Fixation
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   mit transkutaner Fixation
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   V 1.1.17
 
     *   Labmagenoperation beim Rind
+        .....
 
-    *   125,98
+    *   141,10
 
 
 *    *   V 1.1.18
@@ -7233,32 +7922,36 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Saftentnahme
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   Saftübertragung
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
     *   Spülung
+        .....
 
-    *   15,46
+    *   17,32
 
 
 *    *
-    *   Fistel
+    *   Fistel .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   Saftuntersuchung
+        .....
 
-    *   9,16
+    *   10,26
 
 
 *    *   V 1.1.19
@@ -7271,16 +7964,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   400,85
+    *   448,95
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   137,44
+    *   153,93
 
 
 *    *
@@ -7293,15 +7988,17 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Darm
+        .....
 
-    *   160,34
+    *   179,58
 
 
 *    *
     *
     *   Magen
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   V 1.1.20
@@ -7314,16 +8011,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
     *   b)
 
     *   sonstige Tiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   V 1.2
@@ -7342,24 +8041,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   125,98 Z
+    *   141,10 Z
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   45,81 Z
+    *   51,31 Z
 
 
 *    *
     *   c)
 
     *   Kalb, Schaf, Ziege, Schwein
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
@@ -7372,24 +8074,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   orale Extraktion
+        .....
 
-    *   42,95 Z
+    *   48,10 Z
 
 
 *    *
     *   e)
 
     *   Wildtiere, Zootiere
+        .....
 
-    *   114,53
+    *   128,27
 
 
 *    *
     *   f)
 
     *   Ziergeflügel, kleine Heimtiere
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   V 1.2.2
@@ -7402,40 +8107,45 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   b)
 
     *   Rind
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   c)
 
     *   Kalb, Ferkel, Schaf, Ziege
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
     *   d)
 
     *   Ziergeflügel
+        .....
 
-    *   2,87
+    *   3,21
 
 
 *    *
     *   e)
 
     *   sonstige
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *   V 1.2.3
@@ -7446,8 +8156,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   ohne Thoraxöffnung (Fremdkörper, Resektion, Dilatation, Divertikel)
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   V 1.3
@@ -7464,14 +8175,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   120,25
+    *   134,68
 
 
 *    *
     *   mehrere, je Pfeilerzahn
+        .....
 
-    *   97,35
+    *   109,03
 
 
 *    *   V 1.3.2
@@ -7492,8 +8205,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   aa)
 
     *   Pferd
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
@@ -7501,8 +8215,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ab)
 
     *   Rind
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -7510,8 +8225,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ac)
 
     *   sonstige
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
@@ -7526,8 +8242,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ba)
 
     *   Pferd
+        .....
 
-    *   143,16 Z
+    *   160,34 Z
 
 
 *    *
@@ -7535,16 +8252,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   bb)
 
     *   sonstige
+        .....
 
-    *   22,90 Z
+    *   25,65 Z
 
 
 *    *
     *   c)
 
     *   Reihenextraktion mehrerer gelockerter Zähne (auch Milchgebiss)
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   V 1.3.3
@@ -7557,16 +8276,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   schwierig
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *   V 1.3.4
@@ -7585,51 +8306,58 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Extraktion fehlgestellter Incisivi
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *
     *   Okklusionskorrektur Backenbereich
+        .....
 
-    *   37,22
+    *   41,69
 
 
 *    *
     *   b)
 
-    *   Zähne raspeln Pferd
+    *   Zähne Raspeln Pferd
+        .....
 
-    *   17,18 Z
+    *   19,24 Z
 
 
 *    *   V 1.3.5
 
     *   Schienung eines luxierten Zahnes
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *   V 1.3.6
 
     *   Freilegen eines retinierten Zahnes
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   V 1.3.7
@@ -7640,14 +8368,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   schwierig
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.3.8
@@ -7658,20 +8388,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   schwierig  – einwurzeliger Zahn
+        .....
 
-    *   51,54
+    *   57,72
 
 
 *    *
     *   – mehrwurzeliger Zahn
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   V 1.3.9
@@ -7682,14 +8415,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einwurzeliger Zahn
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   mehrwurzeliger Zahn
+        .....
 
-    *   91,63
+    *   102,63
 
 
 *    *   V 1.3.10
@@ -7702,8 +8437,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   manuell
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
@@ -7716,23 +8452,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   einfach
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *
     *
     *   schwierig
+        .....
 
-    *   40,08 Z
+    *   44,89 Z
 
 
 *    *
     *   c)
 
     *   Ultraschall mit Scaling, Fluorierung und Nachpolieren
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
@@ -7748,21 +8487,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   schwierig
+        .....
 
-    *   85,89 Z
+    *   96,20 Z
 
 
 *    *   V 1.3.12
 
     *   Gaumensegel kürzen
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   V 1.3.13
@@ -7773,21 +8515,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *
     *   schwierig
+        .....
 
-    *   80,17
+    *   89,79
 
 
 *    *   V 1.3.14
 
     *   Gingivaplastik
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *
@@ -7798,8 +8543,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   V 1.3.15
 
     *   Befunderhebung
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   V 1.3.16
@@ -7810,14 +8556,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Einschleiftherapie
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   Einsatz einer Dehnplatte
+        .....
 
-    *   125,98
+    *   141,10
 
 
 *    *
@@ -7827,14 +8575,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   schwierig
+        .....
 
-    *   20,05
+    *   22,46
 
 
 *    *   V 1.3.17
@@ -7847,55 +8597,62 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   einfach (Maulschlinge)
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
-    *   Draht-/Kunststoffschienung
+    *   Draht/Kunststoffschienung
+        .....
 
-    *   97,35
+    *   109,03
 
 
 *    *
     *   c)
 
     *   intermaxilläre Fixation
+        .....
 
-    *   125,98
+    *   141,10
 
 
 *    *
     *   d)
 
     *   Knochendrahtcerclage
+        .....
 
-    *   151,75
+    *   169,96
 
 
 *    *
     *   e)
 
     *   percutane Osteosynthese
+        .....
 
-    *   166,06
+    *   185,99
 
 
 *    *
     *   f)
 
     *   Plattenosteosynthese
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   V 1.3.18
 
-    *   Kiefergelenkluxation, unblutige Reposition
+    *   Kiefergelenksluxation, unblutige Reposition
+        .....
 
-    *   45,81
+    *   51,31
 
 
 *    *   V 1.3.19
@@ -7906,42 +8663,48 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   91,63
+    *   102,63
 
 
 *    *
     *   schwierig
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.3.20
 
     *   Mandibulektomie
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.3.21
 
     *   Maxillektomie
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.3.22
 
     *   Condylektomie
+        .....
 
-    *   143,16
+    *   160,34
 
 
 *    *   V 1.3.23
 
     *   Lippenfaltenkorrektur, je Seite
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *   V 1.3.24
@@ -7952,14 +8715,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *
     *   schwierig
+        .....
 
-    *   171,80 Z
+    *   192,42 Z
 
 
 *    *   V 1.3.25
@@ -7972,23 +8737,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   traumatisch
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
     *   b)
 
     *   angeboren
+        .....
 
-    *   114,53 Z
+    *   128,27 Z
 
 
 *    *   V 1.3.26
 
     *   Tonsillektomie
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *   V 1.3.27
@@ -7999,21 +8767,24 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach (Kauther)
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *
     *   schwierig
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *   V 1.3.28
 
     *   Zahnfisteloperation (oronasale Fistel)
+        .....
 
-    *   103,07 Z
+    *   115,44 Z
 
 
 *    *
@@ -8024,8 +8795,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   V 1.3.29
 
     *   Kürzen des Schnabels
+        .....
 
-    *   4,58
+    *   5,13
 
 
 *    *   V 2
@@ -8044,24 +8816,27 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
     *   b)
 
     *   Hund, Katze, Wildtiere, Zootiere
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *
     *   c)
 
     *   Ferkel
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   V 2.2
@@ -8072,14 +8847,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einseitig
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *
     *   beidseitig
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   V 2.3
@@ -8092,53 +8869,60 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Rind
+        .....
 
-    *   85,89
+    *   96,20
 
 
 *    *
     *   b)
 
     *   Schwein
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   c)
 
     *   Kalb
+        .....
 
-    *   42,95
+    *   48,10
 
 
 *    *
     *   d)
 
     *   Hund
+        .....
 
-    *   57,27
+    *   64,14
 
 
 *    *
     *   e)
 
     *   Katze, Welpen
+        .....
 
-    *   28,63
+    *   32,07
 
 
 *    *   V 2.4
 
     *   Zwerchfellhernie (außer Pferd)
+        .....
 
-    *   206,16
+    *   230,90
 
 
 *    *
-    *   Zwerchfellhernie Pferd
+    *   Zwerchfellhernie, Pferd
+        .....
 
-    *   400,85
+    *   448,95
 
 
 *    *   V 3
@@ -8150,29 +8934,33 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   V 3.1
 
     *   Gallenblasenoperation
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   V 3.2
 
     *   Leberlappenresektion
+        .....
 
-    *   188,98
+    *   211,66
 
 
 *    *   V 3.3
 
     *   Milzexstirpation
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *   V 3.4
 
     *   Partielle Pankreasresektion
+        .....
 
-    *   200,42
+    *   224,47
 
 
 *    *   V 4
@@ -8184,8 +8972,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   V 4.1
 
     *   Strumaoperation
+        .....
 
-    *   171,80
+    *   192,42
 
 
 *    *
@@ -8202,8 +8991,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   Z 1.1
 
     *   Elektroencephalogramm
+        .....
 
-    *   85,89 Z
+    *   96,20 Z
 
 
 *    *   Z 2
@@ -8222,32 +9012,36 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Fenestration Hals
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
     *   b)
 
     *   Fenestration übrige WS
+        .....
 
-    *   257,69
+    *   288,61
 
 
 *    *
     *   c)
 
     *   ventrale Spondylektomie
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *
     *   d)
 
     *   Hemilaminektomie/Laminektomie (einschließlich cauda equina)
+        .....
 
-    *   343,59
+    *   384,82
 
 
 *    *   Z 2.2
@@ -8258,14 +9052,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   einfach
+        .....
 
-    *   229,06
+    *   256,55
 
 
 *    *
     *   schwierig
+        .....
 
-    *   286,33
+    *   320,69
 
 
 *    *   Z 3
@@ -8277,14 +9073,16 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *   Z 3.1
 
     *   Klinische neurologische Untersuchung
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *   Nachuntersuchung
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *   Z 3.2
@@ -8295,26 +9093,30 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Elektromyographie und Nervenleitungsgeschwindigkeit
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
     *   Repetitive Nervenstimulation, komplett
+        .....
 
-    *   103,07
+    *   115,44
 
 
 *    *
     *   Brainstem auditory evoked potentials (BAEP) Einzeltier
+        .....
 
-    *   68,72
+    *   76,97
 
 
 *    *
     *   jedes weitere Tier
+        .....
 
-    *   45,81 Z
+    *   51,31 Z
 
 
 *    *   Z 4
@@ -8333,16 +9135,18 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Lokalanästhesie
+        .....
 
-    *   6,88
+    *   7,71
 
 
 *    *
     *   b)
 
     *   Leitungsanästhesie
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -8357,8 +9161,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   ca)
 
     *   Pferd, Hund, Katze, Wildtiere, Zootiere
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
@@ -8366,8 +9171,9 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   cb)
 
     *   Rind, Schwein, Schaf, Ziege, Heimtiere
+        .....
 
-    *   8,59
+    *   9,62
 
 
 *    *
@@ -8380,22 +9186,25 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *
     *   Neuraltherapie systemisch intravenös
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Neuraltherapie lokal (Gelosen, Narben)
+        .....
 
-    *   14,31
+    *   16,03
 
 
 *    *
     *
     *   Neuraltherapie segmental
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *   Z 4.2
@@ -8406,20 +9215,23 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 
 *    *
     *   Pferd
+        .....
 
-    *   57,27 Z
+    *   64,14 Z
 
 
 *    *
     *   Kleintiere
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
 
 
 *    *
     *   Geflügel, kleine Heimtiere
+        .....
 
-    *   11,46 Z
+    *   12,84 Z
 
 
 *    *
@@ -8430,23 +9242,26 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
 *    *
     *   a)
 
-    *   per Hand mittels AMBU-Beutel o. Ä.
+    *   per Hand mittels AMBU-Beutel o. ä.
+        .....
 
-    *   22,90
+    *   25,65
 
 
 *    *
     *   b)
 
     *   maschinelle Beatmung
+        .....
 
-    *   40,08
+    *   44,89
 
 
 *    *
     *   Pferd
+        .....
 
-    *   85,89 Z
+    *   96,20 Z
 
 
 *    *   Z 4.3
@@ -8459,67 +9274,77 @@ Die Zeitgebühr beträgt je 15 Minuten 14,30 Euro.
     *   a)
 
     *   Pferd, Wildtiere, Zootiere
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   b)
 
     *   Rind, Schwein
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   c)
 
     *   Schaf, Ziege
+        .....
 
-    *   11,46
+    *   12,84
 
 
 *    *
     *   d)
 
     *   Ferkel, Läufer
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   e)
 
     *   Hund, Katze
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *
     *   f)
 
     *   Geflügel, kleine Heimtiere
+        .....
 
-    *   5,72
+    *   6,41
 
 
 *    *
     *   mittels Gewehr zusätzlich
+        .....
 
-    *   34,36
+    *   38,48
 
 
 *    *
     *   mittels Blasrohr zusätzlich
+        .....
 
-    *   17,18
+    *   19,24
 
 
 *    *   Z 4.4
 
     *   Monitor-Überwachung von Narkosen oder von Vitalfunktionen
+        .....
 
-    *   34,36 Z
+    *   38,48 Z
+
 
 
 

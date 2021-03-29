@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 1995, 226
 
 Zuletzt geändert durch
-:   Art. 3 V v. 2.10.2012 I 2102
+:   Art. 11 Abs. 45 G v. 18.7.2017 I 2745
+
+Änderung durch
+:   Art. 2 § 4 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -73,18 +76,26 @@ Im Sinne dieser Verordnung sind:
 
 
 
-    b)  Wasserfahrzeuge, die nur mit Muskelkraft fortbewegt werden können;
+    b)  Fahrgastboote im Sinne des § 2 Absatz 3 Nummer 11 der
+        Binnenschiffsuntersuchungsordnung;
 
 
-    c)  Wasserfahrzeuge bis zu 5,50 m Länge, die nur unter Segel fortbewegt
+    c)  Barkassen im Sinne des § 2 Absatz 3 Nummer 12 der
+        Binnenschiffsuntersuchungsordnung;
+
+
+    d)  Wasserfahrzeuge, die nur mit Muskelkraft fortbewegt werden können;
+
+
+    e)  Wasserfahrzeuge bis zu 5,50 m Länge, die nur unter Segel fortbewegt
         werden können;
 
 
-    d)  Wasserfahrzeuge mit Antriebsmaschine, deren effektive Nutzleistung
+    f)  Wasserfahrzeuge mit Antriebsmaschine, deren effektive Nutzleistung
         nicht mehr als 2,21 kW beträgt;
 
 
-    e)  Beiboote.
+    g)  Beiboote.
 
 
 
@@ -104,7 +115,7 @@ Verwendung international üblicher Nationalitätenkennzeichen im Segel
 bleibt unberührt. Der Schiffsführer hat dafür zu sorgen, daß das
 Kennzeichen jederzeit deutlich sicht- und lesbar ist.
 
-(2) Deutsche Fahrzeuge nach § 1 Nr. 2 Buchstabe b bis e dürfen ein
+(2) Deutsche Fahrzeuge nach § 1 Nr. 2 Buchstabe d bis g dürfen ein
 Kennzeichen führen.
 
 (3) Der Eigentümer eines deutschen Kleinfahrzeugs muß das Kennzeichen
@@ -127,14 +138,15 @@ Nr. 3 der Wassermotorräder-Verordnung vom 31. Mai 1995 (BGBl. I S.
 769) auf den Binnenschiffahrtsstraßen nur geführt werden, wenn es mit
 einem amtlichen Kennzeichen versehen ist.
 
-(6) Das Wasser- und Schifffahrtsamt kann auf Antrag des Eigentümers
-ein Kleinfahrzeug nach § 1 Nr. 2 Buchstabe b bis d, das nur für eine
-Überführungsfahrt vorübergehend mit einer Antriebsmaschine mit einer
-effektiven Nutzleistung von mehr als 2,21 kW ausgerüstet wird, von der
-Führung eines Kennzeichens befreien. Zuständig ist das Wasser- und
-Schifffahrtsamt, in dessen Amtsbezirk die Fahrt beginnt. Berührt die
-Fahrt die Amtsbezirke mehrerer Wasser- und Schifffahrtsämter, darf die
-Entscheidung nur einvernehmlich getroffen werden.
+(6) Das Wasserstraßen- und Schifffahrtsamt kann auf Antrag des
+Eigentümers ein Kleinfahrzeug nach § 1 Nr. 2 Buchstabe d bis f, das
+nur für eine Überführungsfahrt vorübergehend mit einer
+Antriebsmaschine mit einer effektiven Nutzleistung von mehr als 2,21
+kW ausgerüstet wird, von der Führung eines Kennzeichens befreien.
+Zuständig ist das Wasserstraßen- und Schifffahrtsamt, in dessen
+Amtsbezirk die Fahrt beginnt. Berührt die Fahrt die Amtsbezirke
+mehrerer Wasserstraßen- und Schifffahrtsämter, darf die Entscheidung
+nur einvernehmlich getroffen werden.
 
 
 ### § 3 Ausnahmen
@@ -171,9 +183,9 @@ Kleinfahrzeuge, die
 
 
 4.  ein nach landesrechtlichen Vorschriften zugeteiltes amtliches
-    Kennzeichen führen, soweit es vom Bundesministerium für Verkehr, Bau
-    und Stadtentwicklung anerkannt worden ist; diese amtlichen Kennzeichen
-    werden im Verkehrsblatt bekanntgemacht.
+    Kennzeichen führen, soweit es vom Bundesministerium für Verkehr und
+    digitale Infrastruktur anerkannt worden ist; diese amtlichen
+    Kennzeichen werden im Verkehrsblatt bekanntgemacht.
 
 
 
@@ -183,15 +195,21 @@ Kleinfahrzeuge, die
 
 (1) Das in § 2 genannte Kennzeichen besteht aus einer Kombination von
 
-1.  einem oder mehreren Buchstaben, die das Wasser- und Schiffahrtsamt
-    erkennen läßt, das das Kennzeichen zugeteilt hat, und
+1.  einem oder mehreren Buchstaben, die das Wasserstraßen- und
+    Schifffahrtsamt erkennen läßt, das das Kennzeichen zugeteilt hat, und
 
 
 2.  Buchstaben und Ziffern, die mit Bindestrich angeschlossen werden.
 
 
 
-Die Kennzeichen nach Nummer 1 ergeben sich aus der Anlage 1.
+Die Kennzeichen nach Nummer 1 ergeben sich aus dem
+fahrzeugzulassungsrechtlichen Unterscheidungszeichen des
+Verwaltungsbezirkes in dem das zuteilende Wasserstraßen- und
+Schifffahrtsamt seinen Sitz hat; Unterscheidungszeichen, die als
+Wunschkennzeichen gelten, sind nicht zu berücksichtigen. Die
+Kennzeichen, die auf der Grundlage der am 3. Juni 2016 geltenden
+Fassung dieser Verordnung erteilt worden sind, gelten weiter.
 
 (2) Als amtliche Kennzeichen im Sinne dieser Verordnung gelten auch
 unverwechselbare Unterscheidungszeichen nach anderen
@@ -214,10 +232,10 @@ Rechtsvorschriften des Bundes, insbesondere:
     Oktober 1994, BGBl. I S. 3140), gefolgt von dem Kennbuchstaben F;
 
 
-4.  die Kennzeichen, die vom Wasser- und Schiffahrtsamt Berlin aufgrund
-    des § 1 Nr. 6 der Schiffahrtspolizeilichen Verordnung zur
-    vorübergehenden Abweichung von der Binnenschiffahrtsstraßen-Ordnung
-    vom 11. Juni 1992 (Verkehrsblatt S. 323) zugeteilt worden sind,
+4.  die Kennzeichen, die nach Maßgabe des § 1 Nummer 6 der
+    Schiffahrtspolizeilichen Verordnung zur vorübergehenden Abweichung von
+    der Binnenschiffahrtsstraßen-Ordnung vom 11. Juni 1992 (Verkehrsblatt
+    S. 323) zugeteilt worden sind,
 
 
 5.  das Vermietungskennzeichen nach § 7 der
@@ -279,9 +297,9 @@ Personen auf Verlangen zur Prüfung auszuhändigen.
 ### § 7 Antrag
 
 (1) Der Eigentümer des Kleinfahrzeugs hat ein amtliches Kennzeichen
-bei einem Wasser- und Schiffahrtsamt oder ein amtlich anerkanntes
-Kennzeichen bei einer der in § 5 genannten Organisationen zu
-beantragen.
+bei einem Wasserstraßen- und Schifffahrtsamt oder ein amtlich
+anerkanntes Kennzeichen bei einer der in § 5 genannten Organisationen
+zu beantragen.
 
 (2) Der Antrag muss enthalten:
 
@@ -352,42 +370,19 @@ durch Vorlage des Personalausweises oder des Reisepasses nachzuweisen;
 im Übrigen sind die Angaben glaubhaft zu machen. Der Vorlage des
 Personalausweises oder Reisepasses stehen bei schriftlicher
 Antragstellung die Beifügung einer Kopie oder bei elektronischer
-Antragstellung die qualifizierte elektronische Signatur nach dem
-Signaturgesetz gleich.
-
-(3) Bei einem Kleinfahrzeug, das auch § 1 Abs. 2 und 3 der Verordnung
-über die Bereitstellung von Sportbooten und den Verkehr mit
-Sportbooten vom 9. Juli 2004 (BGBl. I S. 1605), zuletzt geändert durch
-Artikel 20 des Gesetzes vom 8. November 2011 (BGBl. I S. 2178) vom 9.
-Juli 2004 (BGBl. I S. 1605) unterliegt und als
-
-1.  Sportboot nach dem 15. Juni 1998,
-
-
-2.  Wassermotorrad nach dem 31. Dezember 2005
-
-
-
-erstmals auf dem Markt der Europäischen Gemeinschaft oder eines
-anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum in Verkehr gebracht worden ist, ist über die Angaben
-nach Absatz 2 hinaus die Kopie der Konformitätserklärung nach § 3 Abs.
-1 Nr. 1 Buchstabe b der eingangs genannten Verordnung vorzulegen.
-Abweichend von Satz 1 Nr. 1 ist die Kopie der Konformitätserklärung
-nur für Sportboote vorzulegen, die in einem der am 1. Mai 2004 der
-Europäischen Union beigetretenen Staaten nach dem 30. April 2004 in
-Verkehr gebracht worden sind.
+Antragstellung die qualifizierte elektronische Signatur gleich.
 
 
 ### § 8 Zuteilung des Kennzeichens, Ausstellung des Ausweises
 
-(1) Das Wasser- und Schiffahrtsamt teilt das amtliche Kennzeichen zu.
-Kennzeichen können auf Antrag auch befristet oder als
+(1) Das Wasserstraßen- und Schifffahrtsamt teilt das amtliche
+Kennzeichen zu. Kennzeichen können auf Antrag auch befristet oder als
 Wechselkennzeichen für Probe-, Vorführ- oder Überführungsfahrten mit
 der Auflage zugeteilt werden, ein Fahrtenbuch zu führen.
 
-(2) Das Wasser- und Schiffahrtsamt stellt dem Eigentümer einen Ausweis
-über das zugeteilte Kennzeichen nach dem Muster der Anlage 2 aus.
+(2) Das Wasserstraßen- und Schifffahrtsamt stellt dem Eigentümer einen
+Ausweis über das zugeteilte Kennzeichen nach dem Muster der Anlage
+aus.
 
 (3) Die in § 5 Satz 2 genannten Organisationen teilen das amtlich
 anerkannte Kennzeichen zu. Der Internationale Bootsschein gilt als
@@ -422,9 +417,9 @@ vorzulegen. Satz 2 gilt auch, wenn das Kleinfahrzeug zerstört wird,
 für den Verkehr auf Binnenschiffahrtsstraßen nicht mehr geeignet ist
 oder abgemeldet werden soll.
 
-(2) Im Falle einer Wohnsitz- oder Eigentumsänderung kann das Wasser-
-und Schiffahrtsamt die Beibehaltung des bisherigen Kennzeichens
-zulassen.
+(2) Im Falle einer Wohnsitz- oder Eigentumsänderung kann das
+Wasserstraßen- und Schifffahrtsamt die Beibehaltung des bisherigen
+Kennzeichens zulassen.
 
 (3) Der Eigentümer hat ein ungültiges oder ungültig gewordenes
 Kennzeichen unverzüglich zu entfernen oder unkenntlich zu machen. Dies
@@ -586,214 +581,7 @@ genannten Verordnungen treten außer Kraft:
 
 
 
-### Anlage 1 (zu § 4 Abs. 1 Satz 2) Liste der amtlichen Kennzeichen
-
-Fundstelle des Originaltextes: BGBl. I 1995, 230
-
-*    *   Wasser - und Schiffahrtsamt
-
-    *   Kennzeichen
-
-
-*    *   Aschaffenburg
-
-    *   AB
-
-
-*    *   Berlin
-
-    *   B
-
-
-*    *   Bingen
-
-    *   MZ
-
-
-*    *   Brandenburg
-
-    *   BRB
-
-
-*    *   Braunschweig
-
-    *   BS
-
-
-*    *   Bremen
-
-    *   HB
-
-
-*    *   Bremerhaven
-
-    *   HBH
-
-
-*    *   Brunsbüttel
-
-    *   HEI
-
-
-*    *   Cuxhaven
-
-    *   CUX
-
-
-*    *   Dresden
-
-    *   DD
-
-
-*    *   Duisburg-Meiderich
-
-    *   DU
-
-
-*    *   Duisburg-Rhein
-
-    *   DUR
-
-
-*    *   Eberswalde
-
-    *   BAR
-
-
-*    *   Emden
-
-    *   EMD
-
-
-*    *   Freiburg
-
-    *   FR
-
-
-*    *   Hamburg
-
-    *   HH
-
-
-*    *   Hann.-Münden
-
-    *   GÖ
-
-
-*    *   Heidelberg
-
-    *   HD
-
-
-*    *   Kiel-Holtenau
-
-    *   KI
-
-
-*    *   Koblenz
-
-    *   KO
-
-
-*    *   Köln
-
-    *   K
-
-
-*    *   Lauenburg
-
-    *   RZ
-
-
-*    *   Lübeck
-
-    *   HL
-
-
-*    *   Magdeburg
-
-    *   MD
-
-
-*    *   Mannheim
-
-    *   MA
-
-
-*    *   Meppen
-
-    *   EL
-
-
-*    *   Minden
-
-    *   MI
-
-
-*    *   Nürnberg
-
-    *   N
-
-
-*    *   Regensburg
-
-    *   R
-
-
-*    *   Rheine
-
-    *   ST
-
-
-*    *   Saarbrücken
-
-    *   SB
-
-
-*    *   Schweinfurt
-
-    *   SW
-
-
-*    *   Stralsund
-
-    *   HST
-
-
-*    *   Stuttgart
-
-    *   S
-
-
-*    *   Tönning
-
-    *   NF
-
-
-*    *   Trier
-
-    *   TR
-
-
-*    *   Uelzen
-
-    *   UE
-
-
-*    *   Verden
-
-    *   VER
-
-
-*    *   Wilhelmshaven
-
-    *   WHV
-
-
-
-
-
-### Anlage 2 (zu § 8 Abs. 2)
+### Anlage (zu § 8 Abs. 2)
 
 (Inhalt: nicht darstellbarer Ausweis über das
 Kleinfahrzeugkennzeichen;

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 26
 
+Zuletzt geändert durch
+:   Art. 39 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -179,9 +182,8 @@ ist zuzulassen, wer Folgendes nachweist:
     nicht länger als fünf Jahre zurückliegt, und
 
 
-2.  im Fall des Absatzes 1 Nummer 1 mindestens ein Jahr Berufspraxis und
-    im Fall des Absatzes 1 Nummer 2 insgesamt mindestens zwei Jahre
-    Berufspraxis.
+2.  über die in Absatz 1 Nummer 1 bis 3 genannten Voraussetzungen hinaus
+    ein Jahr Berufspraxis.
 
 
 
@@ -605,8 +607,8 @@ Fähigkeit, Gefahren vorzubeugen, Störungen zu erkennen und zu
 analysieren sowie Maßnahmen zu ihrer Vermeidung oder Beseitigung
 einzuleiten sowie sicherzustellen, dass sich die Mitarbeiter und
 Mitarbeiterinnen
-arbeits-,              umwelt- und gesundheitsschutzbewusst verhalten
-und entsprechend handeln. In diesem Rahmen können folgende
+arbeits-, umwelt- und gesundheitsschutzbewusst verhalten und
+entsprechend handeln. In diesem Rahmen können folgende
 Qualifikationsinhalte geprüft werden:
 
 1.  Überprüfen und Gewährleisten der Arbeitssicherheit, des Arbeits-,
@@ -862,10 +864,12 @@ Meister/ Geprüfte Meisterin für Lagerwirtschaft vom 15. Oktober 1991
 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und § 4 Nummer 7 der Verordnung
 vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
 
+(zu § 7 Absatz 5)
 
-## Anlage 1 (zu § 7 Absatz 5) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2010, 32)
+(Fundstelle: BGBl. I 2010, 32;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   .................................
@@ -902,9 +906,15 @@ vom 15. April 1999 (BGBl. I S. 711) geändert worden ist, außer Kraft.
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte
-Logistikmeisterin vom 25. Januar 2010 (BGBl. I S. 26)
+Logistikmeisterin vom 25. Januar 2010 (BGBl. I S. 26), die zuletzt
+durch Artikel 39 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist,
 
 bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum .................................
@@ -921,10 +931,12 @@ bestanden.
 
 
 
+(zu § 7 Absatz 5)
 
-## Anlage 2 (zu § 7 Absatz 5) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2010, 33 - 34)
+(Fundstelle: BGBl. I 2010, 33 - 34;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *   .................................
@@ -961,17 +973,18 @@ bestanden.
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Logistikmeister/Geprüfte
-Logistikmeisterin vom 25. Januar 2010 (BGBl. I S. 26) mit folgenden
-Ergebnissen bestanden:
+Logistikmeisterin vom 25. Januar 2010 (BGBl. I S. 26), die zuletzt
+durch Artikel 39 der Verordnung vom 26. März 2014 (BGBl. I S. 274)
+geändert worden ist, mit folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^f772888_01_BJNR002600010BJNE001300000]
+    *[^f772888_01_BJNR002600010BJNE001302377]
    Punkte
 
     *
-    *[^f772888_02_BJNR002600010BJNE001300000]
+    *[^f772888_02_BJNR002600010BJNE001302377]
    Note
 
 
@@ -1107,6 +1120,10 @@ Ergebnissen bestanden:
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum .............
 
@@ -1121,7 +1138,7 @@ Ergebnissen bestanden:
 
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
-    ..............
-[^f772888_01_BJNR002600010BJNE001300000]:     Die Gesamtnote für den Prüfungsteil „Grundlegende Qualifikationen“
+    .............. .
+[^f772888_01_BJNR002600010BJNE001302377]:     Die Gesamtnote für den Prüfungsteil „Grundlegende Qualifikationen“
     wird aus dem arithmetischen Mittel der Punktebewertungen gebildet.
-[^f772888_02_BJNR002600010BJNE001300000]: 
+[^f772888_02_BJNR002600010BJNE001302377]: 

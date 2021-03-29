@@ -3,7 +3,7 @@ Title: Übereinkommen zur Gründung einer Europäischen Organisation für Astron
   Forschung in der Südlichen Hemisphäre
 jurabk: EuAstroOrgÜbk
 layout: default
-origslug: euastroorg_bk
+origslug: euastroorguebk
 slug: euastroorguebk
 
 ---

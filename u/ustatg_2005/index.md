@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2446
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 1 G v. 24.2.2012 I 212
+:   Art. 2 Abs. 5 G v. 5.7.2017 I 2234
 
 
 ## § 1 Zwecke der Umweltstatistik, Anordnung als Bundesstatistik
@@ -47,8 +47,9 @@ Bundesstatistik durchgeführt.
     Abwasserentsorgung (§ 8),
 
 
-6.  der Unfälle beim Umgang mit und bei der Beförderung von sowie der
-    Anlagen zum Umgang mit wassergefährdenden Stoffen (§ 9),
+6.  der Unfälle beim Umgang mit und bei der Beförderung von
+    wassergefährdenden Stoffen sowie der prüfpflichtigen Anlagen zum
+    Umgang mit wassergefährdenden Stoffen (§ 9),
 
 
 7.  bestimmter klimawirksamer Stoffe (§ 10),
@@ -199,7 +200,7 @@ Art, Menge und Verbleib der Verpackungen, gegliedert nach Ländern.
 2006, bei den Unternehmen, Einrichtungen und öffentlich-rechtlichen
 Entsorgungsträgern, die mit der Sammlung, Behandlung oder Entsorgung
 von Elektro- und Elektronikaltgeräten nach dem Elektro- und
-Elektronikgerätegesetz vom 16. März 2005 (BGBl. I S. 762) in der
+Elektronikgerätegesetz vom 20. Oktober 2015 (BGBl. I S. 1739) in der
 jeweils geltenden Fassung befasst sind, die Erhebungsmerkmale Art,
 Menge und Verbleib der Geräte.
 
@@ -353,7 +354,7 @@ andere Betriebe durchführen, wird zusätzlich der Wirtschaftszweig des
 Hauptauftraggebers erhoben.
 
 
-## § 9 Erhebungen der Unfälle beim Umgang mit und bei der Beförderung von sowie der Anlagen zum Umgang mit wassergefährdenden Stoffen
+## § 9 Erhebung der Unfälle beim Umgang mit und bei der Beförderung von wassergefährdenden Stoffen sowie der prüfpflichtigen Anlagen zum Umgang mit wassergefährdenden Stoffen
 
 (1) Die Erhebung erfasst bei den nach Landesrecht für die
 Entgegennahme der Anzeigen über die Unfälle beim Umgang mit
@@ -414,29 +415,61 @@ die Erhebungsmerkmale
 im Hinblick auf den Schutz der Gewässer nicht unerheblichen Menge
 wassergefährdender Stoffe.
 
-(4) Die Erhebung erfasst bei den nach Landesrecht zuständigen Behörden
-für die Genehmigung von Anlagen zum Umgang mit wassergefährdenden
-Stoffen, die im Hinblick auf gesetzlich vorgesehene
-Überwachungsmaßnahmen besonders erfasst sind, alle fünf Jahre,
-beginnend mit dem Berichtsjahr 2009, die Erhebungsmerkmale
+(4) Die Erhebung erfasst jährlich für alle im Berichtsjahr
+prüfpflichtigen und vollständig geprüften Anlagen zum Umgang mit
+wassergefährdenden Stoffen, beginnend mit dem Berichtsjahr 2018, die
+Erhebungsmerkmale
 
-1.  Art und Standort der Anlage, jeweils nach Verwendungszweck und den
-    Standortgegebenheiten,
+1.  Standort, einschließlich Standortgegebenheiten,
 
 
-2.  Bauart, Baujahr und Fassungsvermögen der Anlage,
+2.  Baujahr oder Jahr der Inbetriebnahme,
 
 
-3.  Art und maßgebende Wassergefährdungsklasse des Stoffes.
+3.  Art, Verwendungszweck und Bauart,
+
+
+4.  maßgebendes Volumen bei flüssigen, maßgebende Masse bei festen und
+    gasförmigen wassergefährdenden Stoffen,
+
+
+5.  Gefährdungsstufe,
+
+
+6.  wassergefährdende Stoffe, zusammengefasst zu Kategorien und nach
+    Wassergefährdungsklasse,
+
+
+7.  Jahr der Prüfung,
+
+
+8.  Nummer des Prüfberichts,
+
+
+9.  Art und Ergebnis der Prüfung,
+
+
+10. Art der festgestellten Mängel.
 
 
 
+Die Angaben sind dem Statistischen Bundesamt von den durch die
+zuständigen Behörden anerkannten Sachverständigenorganisationen bis
+zum 31. März des dem Berichtsjahr folgenden Jahres zu übermitteln.
+Entfällt die Berichtspflicht der Sachverständigenorganisation während
+des Berichtsjahres, sind die Angaben nach Satz 1 dem Statistischen
+Bundesamt für die Anlagen, die bis zu diesem Zeitpunkt vollständig
+geprüft wurden, innerhalb von zehn Wochen nach dem Wegfall der
+Berichtspflicht zu übermitteln.
+
+(5) Zuständige Behörde für die Erhebung und Aufbereitung der Angaben
+nach Absatz 4 ist das Statistische Bundesamt.
 
 
 ## § 10 Erhebung bestimmter klimawirksamer Stoffe
 
 (1) Die Erhebung erfasst bei Unternehmen, die Fluorderivate der
-aliphatischen und cyclischen Kohlenwasserstoffe mit bis zu sechs
+aliphatischen und cyclischen Kohlenwasserstoffe mit bis zu zehn
 Kohlenstoffatomen
 
 1.  herstellen, einführen oder ausführen oder
@@ -448,10 +481,23 @@ Kohlenstoffatomen
 
 
 
-jährlich, beginnend mit dem Berichtsjahr 2006, die Erhebungsmerkmale
-Art und Menge der Stoffe als solche oder in Zubereitungen.
+die Erhebungsmerkmale Art und Menge der Stoffe als solche oder in
+Zubereitungen.
 
-(2) Die Erhebung erfasst bei Unternehmen, die Schwefelhexafluorid
+(1a) Die Erhebung nach Absatz 1 erfolgt jährlich,
+
+1.  beginnend mit dem Berichtsjahr 2006 für Fluorderivate mit bis zu sechs
+    Kohlenstoffatomen und
+
+
+2.  beginnend mit dem Berichtsjahr 2015 für Fluorderivate mit bis zu zehn
+    Kohlenstoffatomen.
+
+
+
+
+(2) Die Erhebung erfasst bei Unternehmen, die Schwefelhexafluorid oder
+Stickstofftrifluorid
 
 1.  herstellen, einführen oder ausführen oder
 
@@ -460,11 +506,21 @@ Art und Menge der Stoffe als solche oder in Zubereitungen.
 
 
 
-jährlich, beginnend mit dem Berichtsjahr 2006, das Erhebungsmerkmal
-Menge des Stoffes und im Falle der Nummer 2 auch den vorgesehenen
-Verwendungszweck. Die Erhebung erstreckt sich nicht auf Unternehmen,
-die Produkte und Einrichtungen herstellen, die Schwefelhexafluorid zu
-deren Funktionieren benötigen.
+das Erhebungsmerkmal Menge des Stoffes und im Falle der Nummer 2 auch
+den vorgesehenen Verwendungszweck. Die Erhebung erstreckt sich nicht
+auf Unternehmen, die Produkte und Einrichtungen herstellen, die
+Schwefelhexafluorid oder Stickstofftrifluorid zu deren Funktionieren
+benötigen.
+
+(2a) Die Erhebung nach Absatz 2 erfolgt jährlich,
+
+1.  beginnend mit dem Berichtsjahr 2006 für Schwefelhexafluorid und
+
+
+2.  beginnend mit dem Berichtsjahr 2015 für Stickstofftrifluorid.
+
+
+
 
 (3) Zuständige Behörde für die Erhebung und Aufbereitung der Angaben
 nach Absatz 2 ist das Statistische Bundesamt.
@@ -477,45 +533,31 @@ und der Gewinnung von Steinen und Erden, des Verarbeitenden Gewerbes
 sowie der Energieversorgung, Wasserversorgung, Abwasser- und
 Abfallentsorgung und Beseitigung von Umweltverschmutzungen:
 
-1.  jährlich, beginnend mit dem Berichtsjahr 2008, bei höchstens 10.000
+1.  jährlich, beginnend mit dem Berichtsjahr 2016, bei höchstens 10 000
     Erhebungseinheiten die Erhebungsmerkmale Investitionen sowie Wert der
-    zusätzlich gemieteten und gepachteten Sachanlagen, die ausschließlich
+    erstmalig gemieteten und gepachteten Sachanlagen, die ausschließlich
     oder überwiegend dem Schutz der Umwelt dienen, nach Art der
     Investition und Sachanlage,
 
 
-2.  alle drei Jahre, beginnend mit dem Berichtsjahr 2010, bei 10.000
+2.  alle drei Jahre, beginnend mit dem Berichtsjahr 2016, bei 10 000
     Erhebungseinheiten das Erhebungsmerkmal laufende Aufwendungen für
     Maßnahmen, die ausschließlich oder überwiegend dem Schutz der Umwelt
     dienen, nach Art der Aufwendung.
 
 
 
-Die Erhebungsmerkmale werden nach folgenden Bereichen erfasst:
-
-1.  Abfallwirtschaft,
-
-
-2.  Gewässerschutz,
-
-
-3.  Lärmbekämpfung,
-
-
-4.  Luftreinhaltung,
-
-
-5.  Klimaschutz,
-
-
-6.  Naturschutz und Landschaftspflege,
-
-
-7.  Bodensanierung.
-
-
-
-Die Erhebung nach Satz 1 Nr. 2 führt das Statistische Bundesamt durch.
+Die Erhebungsmerkmale werden nach den Umweltbereichen nach Anhang IV
+der Verordnung (EU) Nr. 691/2011 des Europäischen Parlaments und des
+Rates vom 6. Juli 2011 über europäische umweltökonomische
+Gesamtrechnungen (ABl. L 192 vom 22.7.2011, S. 1), die zuletzt durch
+die Verordnung (EU) Nr. 538/2014 (ABl. L 158 vom 27.5.2014, S. 113)
+geändert worden ist, in der jeweils geltenden Fassung erhoben. Die
+Erhebungsmerkmale nach Satz 1 Nummer 1 werden im Bereich Klimaschutz
+darüber hinaus getrennt nach Maßnahmen in den Bereichen Treibhausgas-
+Emissionen, erneuerbare Energien und Energieeffizienz erfasst. Die
+Erhebung nach Satz 1 Nummer 2 wird vom Statistischen Bundesamt
+durchgeführt.
 
 (2) Die Erhebung erfasst alle drei Jahre nach Jahren, beginnend mit
 den Berichtsjahren 2008 bis 2010, für alle Betreiber von Anlagen der
@@ -524,31 +566,48 @@ Erhebungsmerkmale Wasserentgelte für die Wasserversorgung und
 Abwasserentgelte für die Abwasserentsorgung jeweils nach Gemeinden.
 
 
-## § 12 Erhebung der Waren und Dienstleistungen für den Umweltschutz
+## § 12 Erhebung der Güter und Leistungen für den Umweltschutz
 
-Die Erhebung erfasst bei höchstens 15.000
+(1) Die Erhebung erfasst bei höchstens 15 000 Betrieben und
+Einrichtungen, die dem Umweltschutz dienende Güter und Leistungen
+gemäß dem jeweils geltenden nationalen Verzeichnis der
+Umweltschutzleistungen produzieren und erbringen, jährlich, beginnend
+mit dem Berichtsjahr 2016, für diese Güter und Leistungen die
+Erhebungsmerkmale
 
-a)  Betrieben des Bergbaus und der Gewinnung von Steinen und Erden, der
-    Herstellung von Waren und des Baus, die dem Umweltschutz dienende
-    Waren und Bauleistungen produzieren, und
-
-
-b)  Architektur- und Ingenieurbüros, Instituten und Einrichtungen, die
-    technische, physikalische und chemische Untersuchungen, Beratungen und
-    andere Dienstleistungen für den Umweltschutz erbringen,
-
+1.  Art der Güter und Leistungen sowie die damit erzielten Umsätze nach
+    Umweltbereichen sowie nach inländischen und ausländischen Abnehmern,
 
 
-jährlich, beginnend mit dem Berichtsjahr 2006, für Waren und
-Dienstleistungen, die dem Umweltschutz dienen, die Erhebungsmerkmale
-
-1.  Umsatz nach der Art der Waren, der Bauleistung und der Dienstleistung,
-    jeweils getrennt nach inländischen und ausländischen Abnehmern,
+2.  in den Erhebungseinheiten in der Produktion und für die Erbringung
+    dieser Güter und Leistungen eingesetzte Arbeitskraft nach
+    Vollzeitäquivalenten.
 
 
-2.  Anzahl der in den Erhebungseinheiten mit der Herstellung von Waren und
-    der Erbringung von Bau- und Dienstleistungen für den Umweltschutz
-    Beschäftigten.
+
+Maßgebend für die Erhebung nach Satz 1 Nummer 1 sind die
+Umweltbereiche nach Anhang IV der Verordnung (EU) Nr. 691/2011. Im
+Bereich Klimaschutz werden diese Merkmale zusätzlich getrennt nach
+Maßnahmen in den Bereichen Treibhausgas-Emissionen, erneuerbare
+Energien und Energieeffizienz erfasst.
+
+(2) Ausgenommen von der Erhebung nach Absatz 1 sind Betriebe und
+Einrichtungen,
+
+1.  die ausschließlich Entsorgungsdienstleistungen im Bereich Abfall- und
+    Abwassermanagement sowie in der Behandlung von Boden, Grund- und
+    Oberflächenwasser erbringen,
+
+
+2.  die dem Bereich Land- und Forstwirtschaft, Fischerei angehören,
+
+
+3.  die dem Produzierenden Gewerbe angehören mit weniger als 20 tätigen
+    Personen,
+
+
+4.  die ausschließlich Dienstleistungen erbringen und damit weniger als 1
+    Million Euro Gesamtumsatz im Jahr erzielen.
 
 
 
@@ -696,10 +755,9 @@ Die Angaben zu § 13 Abs. 1 Nr. 2 sind freiwillig.
         Beseitigung von Unfallfolgen zuständig sind,
 
 
-    c)  im Falle des Absatzes 4
-
-        die Behörden, die nach Landesrecht für die Anlagen zum Umgang mit
-        wassergefährdenden Stoffen zuständig sind,
+    c)  im Falle des Absatzes 4 die vertretungsberechtigten natürlichen
+        Personen der anerkannten Sachverständigenorganisationen zur Prüfung
+        von Anlagen zum Umgang mit wassergefährdenden Stoffen,
 
 
 
@@ -743,6 +801,23 @@ Verwaltungsstellen befragt werden. Insoweit sind neben den nach § 14
 Abs. 2 Auskunftspflichtigen auch die Verwaltungsstellen
 auskunftspflichtig.
 
+(4) Für Unternehmen, deren Inhaber oder Inhaberinnen Existenzgründer
+oder Existenzgründerinnen sind, besteht im Kalenderjahr der
+Betriebseröffnung abweichend von Absatz 1 keine Auskunftspflicht für
+Erhebungen nach den §§ 11 und 12. In den beiden folgenden
+Kalenderjahren besteht dann keine Auskunftspflicht, wenn das
+Unternehmen im letzten abgeschlossenen Geschäftsjahr Umsätze in Höhe
+von weniger als 800 000 Euro erwirtschaftet hat. Gesellschaften können
+sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an
+der Gesellschaft Beteiligten Existenzgründer oder Existenzgründerinnen
+sind.
+
+(5) Existenzgründer und Existenzgründerinnen im Sinne von Absatz 4
+sind natürliche Personen, die eine gewerbliche oder freiberufliche
+Tätigkeit in Form einer Neugründung, einer Übernahme oder einer
+tätigen Beteiligung aus abhängiger Beschäftigung oder aus der
+Nichtbeschäftigung heraus aufnehmen.
+
 
 ## § 15 Anschriftenübermittlung
 
@@ -767,6 +842,12 @@ statistischen Ämtern der Länder auf Anforderung die für die Erhebungen
 nach § 8 erforderlichen Namen und Anschriften der Wassergewinner und
 Abwassereinleiter.
 
+(4) Die für die Anerkennung von Sachverständigenorganisationen zur
+Prüfung von Anlagen zum Umgang mit wassergefährdenden Stoffen
+zuständigen Behörden übermitteln dem Statistischen Bundesamt auf
+Anforderung die für die Erhebung nach § 9 Absatz 4 erforderlichen
+Namen und Anschriften der anerkannten Sachverständigenorganisationen.
+
 
 ## § 16 Übermittlung
 
@@ -783,20 +864,38 @@ Abfallentsorgungsanlagen handelt, sowie nach §§ 7 und 11 Abs. 2
 veröffentlichen, auch soweit Tabellenfelder nur einen einzigen Fall
 ausweisen.
 
-(3) Die Angaben zur Produktion nach § 2 Buchstabe B Ziffer I Nr. 1 und
-Ziffer II Nr. 1 des Gesetzes über die Statistik im Produzierenden
-Gewerbe in Bezug auf Güter, die dem Umweltschutz dienen, dürfen,
-zusammen mit den Hilfsmerkmalen nach § 7 Abs. 2 Nr. 1 des Gesetzes
-über die Statistik im Produzierenden Gewerbe, verwendet werden für die
-Auswahl von zu Befragenden für die Erhebung der Waren und
-Dienstleistungen für den Umweltschutz nach § 12 dieses Gesetzes.
+(3) Die Angaben zu Investitionen, zu tätigen Personen und zum Umsatz
+in Unternehmen und Betrieben nach § 2 Satz 2 Buchstabe A Ziffer I
+Nummer 1 und 4 und Ziffer II, Buchstabe B Ziffer II Nummer 1, 3 und 4,
+§ 3 Buchstabe A Ziffer I Nummer 1 und 3, Ziffer II Nummer 1 und Ziffer
+III Nummer 1 und 2, § 6 Buchstabe A Nummer 1, Buchstabe B Ziffer I
+Nummer 1 und Ziffer II Nummer 1 Buchstabe a und d sowie § 6a Buchstabe
+A Nummer 1, Buchstabe B Ziffer I Nummer 1 und 3 und Ziffer II Nummer 1
+Buchstabe a und d des Gesetzes über die Statistik im Produzierenden
+Gewerbe dürfen, zusammen mit den Hilfsmerkmalen nach § 7 Absatz 2
+Nummer 1 des Gesetzes über die Statistik im Produzierenden Gewerbe,
+für den Abgleich des Kreises der zu Befragenden und für die
+Plausibilisierung der erhobenen Daten über Investitionen für den
+Umweltschutz nach § 11 verwendet werden.
 
-(4) Die statistischen Ämter der Länder übermitteln dem Statistischen
+(4) Die Angaben zu tätigen Personen und zum Umsatz in Unternehmen oder
+Betrieben nach § 2 Buchstabe A Ziffer I Nummer 1 und 4 und Buchstabe B
+Ziffer II Nummer 1 und 3, § 4 Buchstabe A Ziffer I Nummer 1 und 4,
+Buchstabe B Ziffer I Nummer 1 und 4 und Buchstabe C Ziffer I Nummer 1
+Buchstabe a und d und Nummer 2 sowie § 5 Ziffer I Nummer 1 und 3 des
+Gesetzes über die Statistik im Produzierenden Gewerbe dürfen, zusammen
+mit den Hilfsmerkmalen nach § 7 Absatz 2 Nummer 1 des Gesetzes über
+die Statistik im Produzierenden Gewerbe, für die Auswahl der zu
+Befragenden und für die Plausibilitätsprüfung der erhobenen Angaben
+über Güter und Leistungen für den Umweltschutz nach § 12 verwendet
+werden.
+
+(5) Die statistischen Ämter der Länder übermitteln dem Statistischen
 Bundesamt die von ihnen erhobenen, anonymisierten Einzelangaben für
 Zusatzaufbereitungen des Bundes und für die Erfüllung von über- und
 zwischenstaatlichen Aufgaben.
 
-(5) An das Umweltbundesamt dürfen zur Erfüllung europa- und
+(6) An das Umweltbundesamt dürfen zur Erfüllung europa- und
 völkerrechtlicher Pflichten der Bundesrepublik Deutschland zur
 Emissionsberichterstattung, jedoch nicht für die Regelung von
 Einzelfällen, vom Statistischen Bundesamt Tabellen mit statistischen

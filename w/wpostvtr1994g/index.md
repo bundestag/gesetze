@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1998, 2082
 
-Zuletzt geändert durch
-:   Art. 274 V v. 31.10.2006 I 2407
-
+Stand: Zuletzt geändert Art. 454 V v. 31.8.2015 I 1474
 
 ## Eingangsformel
 
@@ -60,15 +58,14 @@ nebst Schlußprotokollen wird zugestimmt. Die Verträge nebst
 Schlußprotokollen werden nachstehend mit einer amtlichen deutschen
 Übersetzung veröffentlicht.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann den
-Wortlaut der Satzung in der vom Inkrafttreten des Fünften
-Zusatzprotokolls an geltenden Fassung im Bundesgesetzblatt
-bekanntmachen.
+(2) Das Bundesministerium für Wirtschaft und Energie kann den Wortlaut
+der Satzung in der vom Inkrafttreten des Fünften Zusatzprotokolls an
+geltenden Fassung im Bundesgesetzblatt bekanntmachen.
 
 
 ## Art 2
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Vollzugsordnungen vom 16. Februar 1995 zu den in Artikel 1 unter den
 Nummern 3 bis 7 genannten Verträgen sowie Änderungen, die der Rat für
@@ -93,16 +90,16 @@ Pflichten können auf Antrag auch andere Unternehmen zugelassen werden.
 Die Zulassung ist ausgeschlossen, soweit ausschließliche Rechte, die
 der Deutschen Post AG durch Bundesgesetz eingeräumt sind oder künftig
 eingeräumt werden, entgegenstehen. Das Bundesministerium für
-Wirtschaft und Technologie wird ermächtigt, durch Rechtsverordnung
-ohne Zustimmung des Bundesrates die erforderlichen Einzelheiten der
+Wirtschaft und Energie wird ermächtigt, durch Rechtsverordnung ohne
+Zustimmung des Bundesrates die erforderlichen Einzelheiten der
 Zulassung zu bestimmen; dabei ist das Auswahlverfahren zu regeln sowie
 zu bestimmen, welchen Inhalt die Zulassung hat und für welchen
 Zeitraum sie gilt. Für die Zulassung und deren Widerruf oder
 Rücknahme, in den Fällen der Rücknahme oder Ablehnung eines Antrages
 sowie bei Zurückweisung eines Widerspruchs werden Kosten (Gebühren und
-Auslagen) erhoben. Das Bundesministerium für Wirtschaft und
-Technologie wird ermächtigt, durch Rechtsverordnung ohne Zustimmung
-des Bundesrates die Gebührentatbestände und Gebührensätze näher zu
+Auslagen) erhoben. Das Bundesministerium für Wirtschaft und Energie
+wird ermächtigt, durch Rechtsverordnung ohne Zustimmung des
+Bundesrates die Gebührentatbestände und Gebührensätze näher zu
 bestimmen. Die Rechtsverordnungen nach den Sätzen 3 und 5 ergehen im
 Einvernehmen mit dem Bundesministerium der Finanzen und dem
 Bundesministerium des Innern.
@@ -128,7 +125,7 @@ Artikels 3 Abs. 2 Satz 1, 3 bis 6 gelten entsprechend.
 
 ## Art 5
 
-(1) Das Bundesministerium für Wirtschaft und Technologie überwacht bei
+(1) Das Bundesministerium für Wirtschaft und Energie überwacht bei
 Unternehmen, die nach den Artikeln 3 und 4 für die Bundesrepublik
 Deutschland Rechte und Pflichten wahrnehmen, die Einhaltung der in
 Artikel 1 genannten Verträge des Weltpostvereins sowie der auf Grund

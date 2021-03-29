@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 369
 
-Geändert durch
-:   Art. 1 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 1 V v. 26.3.2014 I 274
 
 
 
@@ -977,7 +977,7 @@ Diese Verordnung tritt am 1. März 2005 in Kraft.
 
 ## Anlage 1 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2005, 376,
+(Fundstelle: BGBl. I 2005, 376;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Muster
@@ -1027,13 +1027,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
         Geprüfter Abwassermeister/Geprüfte Abwassermeisterin vom 23. Februar
-        2005 (BGBl. I S. 369), die durch Artikel 1 der Verordnung vom 25.
-        August 2009 (BGBl. I S. 2960) geändert worden ist,
+        2005 (BGBl. I S. 369), die zuletzt durch Artikel 1 der Verordnung vom
+        26\. März 2014 (BGBl. I S. 274) geändert worden ist,
 
 
 *    *
 
 *    *   bestanden.
+
+
+*    *
+
+*    *   Dieser Abschluss ist im Deutschen und Europäischen
+        Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+        Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *
@@ -1052,8 +1059,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Anlage 2 (zu § 7 Abs. 5)
 
-(Fundstelle: BGBl. I 2005, 377 - 378,
+(Fundstelle: BGBl. I 2005, 377 - 378;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+﻿
 M u s t e r
 ......................................................................
 .........
@@ -1072,8 +1080,9 @@ Geprüfter Abwassermeister/Geprüfte Abwassermeisterin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Abwassermeister/Geprüfte Abwassermeisterin vom 23. Februar 2005
-(BGBl. I S. 369), die durch Artikel 1 der Verordnung vom
-25\. August 2009 (BGBl. I S. 2960) geändert worden ist,
+(BGBl. I S. 369), die zuletzt durch Artikel 1 der Verordnung vom 26.
+März 2014
+(BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen 1) bestanden:
 -----
 1) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
@@ -1112,6 +1121,10 @@ Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat gemäß § 2 Abs. 2
 den Nachweis über den Erwerb der berufs- und arbeitspädagogischen
 Kenntnisse durch die Prüfung am .............. in ..............
 vor .............. erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)

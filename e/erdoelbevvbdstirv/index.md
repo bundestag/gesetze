@@ -2,7 +2,7 @@
 Title: Verordnung über das Stimmrecht der Mitglieder des Erdölbevorratungsverbandes
 jurabk: ErdölBevVbdStiRV
 layout: default
-origslug: erd_lbevvbdstirv
+origslug: erdoelbevvbdstirv
 slug: erdoelbevvbdstirv
 
 ---

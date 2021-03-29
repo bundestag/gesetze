@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1654
 
+Zuletzt geändert durch
+:   Art. 6 G v. 21.11.2016 I 2591
+
 
 ## Eingangsformel
 
@@ -129,10 +132,7 @@ der Zivilprozessordnung.
 
 (1) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
 Schuldnerverzeichnis nach dem Ablauf von drei Jahren seit dem Tag der
-Eintragungsanordnung. Im Fall des § 882b Absatz 1 Nummer 3 der
-Zivilprozessordnung löscht das zentrale Vollstreckungsgericht eine
-Eintragung im Schuldnerverzeichnis nach dem Ablauf von fünf Jahren
-seit dem Erlass des Abweisungsbeschlusses.
+Eintragungsanordnung.
 
 (2) Das zentrale Vollstreckungsgericht löscht eine Eintragung im
 Schuldnerverzeichnis außerdem, wenn
@@ -174,10 +174,14 @@ Zivilprozessordnung zu benötigen
     dass Schuldner ihren Zahlungsverpflichtungen nicht nachkommen;
 
 
-5.  für Zwecke der Strafverfolgung und der Strafvollstreckung oder
+5.  für Zwecke der Strafverfolgung und der Strafvollstreckung;
 
 
-6.  zur Auskunft über ihn selbst betreffende Eintragungen.
+6.  zur Auskunft über ihn selbst betreffende Eintragungen;
+
+
+7.  für Zwecke der Dienstaufsicht über Justizbedienstete, die mit dem
+    Schuldnerverzeichnis befasst sind.
 
 
 
@@ -191,7 +195,7 @@ Kommunikationssystem der Länder im Internet.
 
 (2) Die Einsichtnahme in das Schuldnerverzeichnis wird nur
 registrierten Nutzern gewährt. Die jeweilige Einsichtnahme ist erst
-nach Darlegung des Verwendungszwecks nach § 5 Nummer 1 bis 6 zu
+nach Darlegung des Verwendungszwecks nach § 5 Nummer 1 bis 7 zu
 ermöglichen.
 
 (3) Bei jeder Einsichtnahme ist der Abrufvorgang so zu protokollieren,
@@ -284,9 +288,8 @@ mindestens folgende Suchkriterien angibt:
     und
 
 
-2.  den Sitz des zuständigen zentralen Vollstreckungsgerichts oder den
-    Wohnsitz oder das Geburtsdatum des Schuldners oder den Ort, an dem der
-    Schuldner seinen Sitz hat.
+2.  den Wohnsitz des Schuldners oder den Ort, an dem der Schuldner seinen
+    Sitz hat.
 
 
 
@@ -297,16 +300,15 @@ Schuldners.
 
 (3) Sind zu einer Abfrage gemäß Absatz 2 mehrere Datensätze vorhanden,
 hat der Nutzer zusätzlich das Geburtsdatum des Schuldners einzugeben.
-Ergibt auch diese Abfrage mehrere Treffer, hat der Nutzer außerdem zu
-der Angabe gemäß Satz 1 den Geburtsort des Schuldners einzugeben; sind
-dann weiterhin mehrere Treffer vorhanden, sind diese zu übermitteln.
+Sind dann weiterhin mehrere Treffer vorhanden, sind diese gemeinsam zu
+übermitteln (übermittelter Datensatz).
 
 (4) Kann der Nutzer abweichend von der Abfrage gemäß den Absätzen 2
-und 3 Familiennamen, Vornamen, Geburtsdatum und Geburtsort des
-Schuldners sofort angeben, werden ihm sämtliche zu einem Schuldner
-vorhandene Datensätze übermittelt. Das Gleiche gilt, wenn der
-Schuldner keine natürliche Person ist und bei der Abfrage Name oder
-Firma und Sitz des Schuldners angegeben werden.
+und 3 Familiennamen, Vornamen und Geburtsdatum des Schuldners sofort
+angeben, werden ihm sämtliche zu einem Schuldner vorhandene Datensätze
+übermittelt. Das Gleiche gilt, wenn der Schuldner keine natürliche
+Person ist und bei der Abfrage Name oder Firma und Sitz des Schuldners
+angegeben werden.
 
 (5) Die Absätze 2 bis 4 sind nicht anzuwenden auf die Einsichtnahme in
 das Schuldnerverzeichnis durch Gerichte und Behörden aus den
@@ -329,7 +331,7 @@ sind darauf bei der Übermittlung hinzuweisen.
 
 (1) Ein nach § 7 registrierter Nutzer kann bei missbräuchlicher
 Datenverwendung oder missbräuchlichen Datenabrufen von der
-Einsichtnahme in das Schuldnerverzeichnis ganz oder bis zu fünf Jahre
+Einsichtnahme in das Schuldnerverzeichnis ganz oder bis zu drei Jahre
 ausgeschlossen werden.
 
 (2) Handelt es sich bei dem nach § 7 registrierten Nutzer um eine
@@ -337,7 +339,7 @@ juristische Person, für die nach § 7 Absatz 1 Satz 4 und 5 mehrere
 natürliche Personen registriert sind, können bei missbräuchlicher
 Datenverwendung oder missbräuchlichen Datenabrufen alle nach § 7
 Absatz 1 Satz 4 und 5 für die juristische Person handelnden Personen
-von der Einsichtnahme in das Schuldnerportal ganz oder bis zu fünf
+von der Einsichtnahme in das Schuldnerportal ganz oder bis zu drei
 Jahre ausgeschlossen werden.
 
 (3) Auf den Ausschluss von der Einsichtnahme sind § 49 Absatz 2, 3 und
@@ -381,6 +383,16 @@ Auf Entscheidungen des zentralen Vollstreckungsgerichts sind, soweit
 es sich um Angelegenheiten der Justizverwaltungen im Sinne des § 882h
 Absatz 2 Satz 3 der Zivilprozessordnung handelt, die §§ 23 bis 30 des
 Einführungsgesetzes zum Gerichtsverfassungsgesetz anzuwenden.
+
+
+### § 12a Evaluierung
+
+Die in § 8 Absatz 2 bis 4 festgesetzten Suchkriterien zur Übermittlung
+von Datensätzen sind drei Jahre nach dem 1. Oktober 2015 durch das
+Bundesministerium der Justiz und für Verbraucherschutz im
+Zusammenwirken mit den Landesjustizverwaltungen sowie der
+Bundesbeauftragten für den Datenschutz und die Informationsfreiheit zu
+überprüfen.
 
 
 ### § 13 Inkrafttreten, Außerkrafttreten

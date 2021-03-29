@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   der beamteten Patentinhaber auf Hilfsschiffen der Bundeswehr
 jurabk: BPräsKldgPatAnO
 layout: default
-origslug: bpr_skldgpatano
+origslug: bpraeskldgpatano
 slug: bpraeskldgpatano
 
 ---

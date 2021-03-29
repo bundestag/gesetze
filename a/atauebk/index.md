@@ -3,7 +3,7 @@ Title: Zollübereinkommen über das Carnet A.T.A. für die vorübergehende Einfu
   Waren
 jurabk: ATAÜbk
 layout: default
-origslug: ata_bk
+origslug: atauebk
 slug: atauebk
 
 ---

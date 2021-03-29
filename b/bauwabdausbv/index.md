@@ -432,8 +432,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 1997 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bauwerksabdichter/zur Bauwerksabdichterin
 
 (Fundstelle: BGBl. I 1997, 949 - 954)
 

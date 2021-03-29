@@ -2,7 +2,7 @@
 Title: Gesetz zur Übertragung von Verwaltungsaufgaben auf dem Gebiet der Raumfahrt
 jurabk: RAÜG
 layout: default
-origslug: ra_g
+origslug: raueg
 slug: raueg
 
 ---

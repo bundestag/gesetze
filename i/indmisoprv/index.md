@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1993, 1117
 
 Zuletzt geändert durch
-:   Art. 17 V v. 25.8.2009 I 2960
+:   Art. 27 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -730,10 +730,11 @@ können nach den bisherigen Vorschriften zu Ende geführt werden.
 
 Diese Verordnung tritt am 1. September 1993 in Kraft.
 
+(zu § 7 Absatz 3)
 
-## Anlage (zu § 7 Absatz 3) Muster
+## Anlage Muster
 
-(Fundstelle: BGBl. I 1993, 1123 - 1124,
+(Fundstelle: BGBl. I 1993, 1123 - 1124;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 Seite 1
 ......................................................................
@@ -756,9 +757,13 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter Industriemeister/Geprüfte Industriemeisterin
 - Fachrichtung Isolierung (Wärme-, Kälte-, Schall- und Brandschutz)
 vom 29. Juni 1993 (BGBl. I S. 1117),
-die zuletzt durch Artikel 17 der Verordnung vom 25. August 2009
-(BGBl. I S. 2960) geändert worden ist,
+die zuletzt durch Artikel 27 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .............................
 Unterschrift ......................
 (Siegel der zuständigen Stelle)

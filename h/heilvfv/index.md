@@ -79,12 +79,12 @@ nach § 19 des Gesetzes über die Ausübung der Zahnheilkunde in der im
 Bundesgesetzblatt Teil III, Gliederungsnummer 2123-1, veröffentlichten
 bereinigten Fassung,
 zuletzt geändert durch § 2 der Verordnung vom 27. September 1977
-(BGBl. I S. 1869),              zur Ausübung der Zahnheilkunde
-berechtigt sind, oder von Personen, die nach dem Heilpraktikergesetz
-in der im Bundesgesetzblatt Teil III, Gliederungsnummer 2122-2,
-veröffentlichten bereinigten Fassung, geändert durch Artikel 53 des
-Gesetzes vom 2. März 1974 (BGBl. I S. 469), zur Ausübung der Heilkunde
-berechtigt sind, sind zu erstatten.
+(BGBl. I S. 1869), zur Ausübung der Zahnheilkunde berechtigt sind,
+oder von Personen, die nach dem Heilpraktikergesetz in der im
+Bundesgesetzblatt Teil III, Gliederungsnummer 2122-2, veröffentlichten
+bereinigten Fassung, geändert durch Artikel 53 des Gesetzes vom 2.
+März 1974 (BGBl. I S. 469), zur Ausübung der Heilkunde berechtigt
+sind, sind zu erstatten.
 
 (3) Die Kosten für eine Untersuchung, Beobachtung und Begutachtung im
 unmittelbaren Anschluß an den Dienstunfall werden auch dann erstattet,

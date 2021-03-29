@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 1014, 1015
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.10.2012 I 2246
+:   Art. 9 G v. 18.7.2017 I 2757
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -44,15 +44,11 @@ wahrgenommen.
 leisten, die wegen der Schwere der Pflegebedürftigkeit auf
 solidarische Unterstützung angewiesen sind.
 
-(4a) In der Pflegeversicherung sollen geschlechtsspezifische
+(5) In der Pflegeversicherung sollen geschlechtsspezifische
 Unterschiede bezüglich der Pflegebedürftigkeit von Männern und Frauen
 und ihrer Bedarfe an Leistungen berücksichtigt und den Bedürfnissen
 nach einer kultursensiblen Pflege nach Möglichkeit Rechnung getragen
 werden.
-
-(5) Die Leistungen der Pflegeversicherung werden in Stufen eingeführt:
-die Leistungen bei häuslicher Pflege vom 1. April 1995, die Leistungen
-bei stationärer Pflege vom 1. Juli 1996 an.
 
 (6) Die Ausgaben der Pflegeversicherung werden durch Beiträge der
 Mitglieder und der Arbeitgeber finanziert. Die Beiträge richten sich
@@ -67,8 +63,8 @@ werden Beiträge nicht erhoben.
 helfen, trotz ihres Hilfebedarfs ein möglichst selbständiges und
 selbstbestimmtes Leben zu führen, das der Würde des Menschen
 entspricht. Die Hilfen sind darauf auszurichten, die körperlichen,
-geistigen und seelischen Kräfte der Pflegebedürftigen wiederzugewinnen
-oder zu erhalten.
+geistigen und seelischen Kräfte der Pflegebedürftigen, auch in Form
+der aktivierenden Pflege, wiederzugewinnen oder zu erhalten.
 
 (2) Die Pflegebedürftigen können zwischen Einrichtungen und Diensten
 verschiedener Träger wählen. Ihren Wünschen zur Gestaltung der Hilfe
@@ -99,11 +95,12 @@ vollstationären Pflege vor.
 ### § 4 Art und Umfang der Leistungen
 
 (1) Die Leistungen der Pflegeversicherung sind Dienst-, Sach- und
-Geldleistungen für den Bedarf an Grundpflege und hauswirtschaftlicher
-Versorgung sowie Kostenerstattung, soweit es dieses Buch vorsieht. Art
-und Umfang der Leistungen richten sich nach der Schwere der
-Pflegebedürftigkeit und danach, ob häusliche, teilstationäre oder
-vollstationäre Pflege in Anspruch genommen wird.
+Geldleistungen für den Bedarf an körperbezogenen Pflegemaßnahmen,
+pflegerischen Betreuungsmaßnahmen und Hilfen bei der Haushaltsführung
+sowie Kostenerstattung, soweit es dieses Buch vorsieht. Art und Umfang
+der Leistungen richten sich nach der Schwere der Pflegebedürftigkeit
+und danach, ob häusliche, teilstationäre oder vollstationäre Pflege in
+Anspruch genommen wird.
 
 (2) Bei häuslicher und teilstationärer Pflege ergänzen die Leistungen
 der Pflegeversicherung die familiäre, nachbarschaftliche oder sonstige
@@ -118,14 +115,56 @@ darauf hinzuwirken, daß die Leistungen wirksam und wirtschaftlich
 erbracht und nur im notwendigen Umfang in Anspruch genommen werden.
 
 
-### § 5 Vorrang von Prävention und medizinischer Rehabilitation
+### § 5 Prävention in Pflegeeinrichtungen, Vorrang von Prävention und medizinischer Rehabilitation
 
-(1) Die Pflegekassen wirken bei den zuständigen Leistungsträgern
-darauf hin, daß frühzeitig alle geeigneten Leistungen der Prävention,
-der Krankenbehandlung und zur medizinischen Rehabilitation eingeleitet
-werden, um den Eintritt von Pflegebedürftigkeit zu vermeiden.
+(1) Die Pflegekassen sollen Leistungen zur Prävention in stationären
+Pflegeeinrichtungen nach § 71 Absatz 2 für in der sozialen
+Pflegeversicherung Versicherte erbringen, indem sie unter Beteiligung
+der versicherten Pflegebedürftigen und der Pflegeeinrichtung
+Vorschläge zur Verbesserung der gesundheitlichen Situation und zur
+Stärkung der gesundheitlichen Ressourcen und Fähigkeiten entwickeln
+sowie deren Umsetzung unterstützen. Die Pflichten der
+Pflegeeinrichtungen nach § 11 Absatz 1 bleiben unberührt. Der
+Spitzenverband Bund der Pflegekassen legt unter Einbeziehung
+unabhängigen Sachverstandes die Kriterien für die Leistungen nach Satz
+1 fest, insbesondere hinsichtlich Inhalt, Methodik, Qualität,
+wissenschaftlicher Evaluation und der Messung der Erreichung der mit
+den Leistungen verfolgten Ziele.
 
-(2) Die Leistungsträger haben im Rahmen ihres Leistungsrechts auch
+(2) Die Ausgaben der Pflegekassen für die Wahrnehmung ihrer Aufgaben
+nach Absatz 1 sollen insgesamt im Jahr 2016 für jeden ihrer
+Versicherten einen Betrag von 0,30 Euro umfassen. Die Ausgaben sind in
+den Folgejahren entsprechend der prozentualen Veränderung der
+monatlichen Bezugsgröße nach § 18 Absatz 1 des Vierten Buches
+anzupassen. Sind in einem Jahr die Ausgaben rundungsbedingt nicht
+anzupassen, ist die unterbliebene Anpassung bei der Berechnung der
+Anpassung der Ausgaben im Folgejahr zu berücksichtigen.
+
+(3) Bei der Wahrnehmung ihrer Aufgaben nach Absatz 1 sollen die
+Pflegekassen zusammenarbeiten und kassenübergreifende Leistungen zur
+Prävention erbringen. Erreicht eine Pflegekasse den in Absatz 2
+festgelegten Betrag in einem Jahr nicht, stellt sie die nicht
+verausgabten Mittel im Folgejahr dem Spitzenverband Bund der
+Pflegekassen zur Verfügung, der die Mittel nach einem von ihm
+festzulegenden Schlüssel auf die Pflegekassen zur Wahrnehmung der
+Aufgaben nach Absatz 1 verteilt, die Kooperationsvereinbarungen zur
+Durchführung kassenübergreifender Leistungen geschlossen haben. Auf
+die zum Zwecke der Vorbereitung und Umsetzung der
+Kooperationsvereinbarungen nach Satz 2 gebildeten
+Arbeitsgemeinschaften findet § 94 Absatz 1a Satz 2 und 3 des Zehnten
+Buches keine Anwendung.
+
+(4) Die Pflegekassen wirken unbeschadet ihrer Aufgaben nach Absatz 1
+bei den zuständigen Leistungsträgern darauf hin, dass frühzeitig alle
+geeigneten Leistungen zur Prävention, zur Krankenbehandlung und zur
+medizinischen Rehabilitation eingeleitet werden, um den Eintritt von
+Pflegebedürftigkeit zu vermeiden.
+
+(5) Die Pflegekassen beteiligen sich an der nationalen
+Präventionsstrategie nach den §§ 20d bis 20f des Fünften Buches mit
+den Aufgaben nach den Absätzen 1 und 2.
+
+(6) Die Leistungsträger haben im Rahmen ihres Leistungsrechts auch
 nach Eintritt der Pflegebedürftigkeit ihre Leistungen zur
 medizinischen Rehabilitation und ergänzenden Leistungen in vollem
 Umfang einzusetzen und darauf hinzuwirken, die Pflegebedürftigkeit zu
@@ -145,10 +184,10 @@ Pflege mitzuwirken, um die Pflegebedürftigkeit zu überwinden, zu
 mindern oder eine Verschlimmerung zu verhindern.
 
 
-### § 7 Aufklärung, Beratung
+### § 7 Aufklärung, Auskunft
 
 (1) Die Pflegekassen haben die Eigenverantwortung der Versicherten
-durch Aufklärung und Beratung über eine gesunde, der
+durch Aufklärung und Auskunft über eine gesunde, der
 Pflegebedürftigkeit vorbeugende Lebensführung zu unterstützen und auf
 die Teilnahme an gesundheitsfördernden Maßnahmen hinzuwirken.
 
@@ -156,14 +195,15 @@ die Teilnahme an gesundheitsfördernden Maßnahmen hinzuwirken.
 Lebenspartner in den mit der Pflegebedürftigkeit zusammenhängenden
 Fragen, insbesondere über die Leistungen der Pflegekassen sowie über
 die Leistungen und Hilfen anderer Träger, in für sie verständlicher
-Weise zu unterrichten, zu beraten und darüber aufzuklären, dass ein
-Anspruch besteht auf die Übermittlung
+Weise zu informieren und darüber aufzuklären, dass ein Anspruch
+besteht auf die Übermittlung
 
 1.  des Gutachtens des Medizinischen Dienstes der Krankenversicherung oder
     eines anderen von der Pflegekasse beauftragten Gutachters sowie
 
 
-2.  der gesonderten Rehabilitationsempfehlung gemäß § 18a Absatz 1.
+2.  der gesonderten Präventions- und Rehabilitationsempfehlung gemäß § 18a
+    Absatz 1.
 
 
 
@@ -171,58 +211,96 @@ Mit Einwilligung des Versicherten haben der behandelnde Arzt, das
 Krankenhaus, die Rehabilitations- und Vorsorgeeinrichtungen sowie die
 Sozialleistungsträger unverzüglich die zuständige Pflegekasse zu
 benachrichtigen, wenn sich der Eintritt von Pflegebedürftigkeit
-abzeichnet oder wenn Pflegebedürftigkeit festgestellt wird. Für die
-Beratung erforderliche personenbezogene Daten dürfen nur mit
-Einwilligung des Versicherten erhoben, verarbeitet und genutzt werden.
+abzeichnet oder wenn Pflegebedürftigkeit festgestellt wird. Die
+zuständige Pflegekasse informiert die Versicherten unverzüglich nach
+Eingang eines Antrags auf Leistungen nach diesem Buch insbesondere
+über ihren Anspruch auf die unentgeltliche Pflegeberatung nach § 7a,
+den nächstgelegenen Pflegestützpunkt nach § 7c sowie die Leistungs-
+und Preisvergleichsliste nach Absatz 3. Ebenso gibt die zuständige
+Pflegekasse Auskunft über die in ihren Verträgen zur integrierten
+Versorgung nach § 92b Absatz 2 getroffenen Festlegungen, insbesondere
+zu Art, Inhalt und Umfang der zu erbringenden Leistungen und der für
+die Versicherten entstehenden Kosten, und veröffentlicht diese Angaben
+auf einer eigenen Internetseite.
 
-(3) Zur Unterstützung des Pflegebedürftigen bei der Ausübung seines
-Wahlrechts nach § 2 Abs. 2 sowie zur Förderung des Wettbewerbs und der
-Überschaubarkeit des vorhandenen Angebots hat die zuständige
-Pflegekasse dem Pflegebedürftigen unverzüglich nach Eingang seines
-Antrags auf Leistungen nach diesem Buch eine Vergleichsliste über die
-Leistungen und Vergütungen der zugelassenen Pflegeeinrichtungen zu
-übermitteln, in deren Einzugsbereich die pflegerische Versorgung
-gewährleistet werden soll (Leistungs- und Preisvergleichsliste).
-Gleichzeitig ist der Pflegebedürftige über den nächstgelegenen
-Pflegestützpunkt (§ 92c), die Pflegeberatung (§ 7a) und darüber zu
-unterrichten, dass die Beratung und Unterstützung durch den
-Pflegestützpunkt sowie die Pflegeberatung unentgeltlich sind. Die
-Leistungs- und Preisvergleichsliste ist der Pflegekasse vom
-Landesverband der Pflegekassen zur Verfügung zu stellen und zeitnah
-fortzuschreiben; sie hat zumindest die für die Pflegeeinrichtungen
-jeweils geltenden Festlegungen der Vergütungsvereinbarungen nach dem
-Achten Kapitel und zur wohnortnahen Versorgung nach § 92c zu enthalten
-und ist von der Pflegekasse um die Festlegungen in den Verträgen zur
-integrierten Versorgung nach § 92b, an denen sie beteiligt ist, zu
-ergänzen. Zugleich ist dem Pflegebedürftigen eine Beratung darüber
-anzubieten, welche Pflegeleistungen für ihn in seiner persönlichen
-Situation in Betracht kommen. Ferner ist der Pflegebedürftige auf die
-Veröffentlichung der Ergebnisse von Qualitätsprüfungen hinzuweisen.
-Versicherte mit erheblichem allgemeinem Betreuungsbedarf sind in
-gleicher Weise, insbesondere über anerkannte niedrigschwellige
-Betreuungsangebote, zu unterrichten und zu beraten.
+(3) Zur Unterstützung der pflegebedürftigen Person bei der Ausübung
+ihres Wahlrechts nach § 2 Absatz 2 sowie zur Förderung des Wettbewerbs
+und der Überschaubarkeit des vorhandenen Angebots hat die zuständige
+Pflegekasse der antragstellenden Person auf Anforderung unverzüglich
+und in geeigneter Form eine Leistungs- und Preisvergleichsliste zu
+übermitteln; die Leistungs- und Preisvergleichsliste muss für den
+Einzugsbereich der antragstellenden Person, in dem die pflegerische
+Versorgung und Betreuung gewährleistet werden soll, die Leistungen und
+Vergütungen der zugelassenen Pflegeeinrichtungen, die Angebote zur
+Unterstützung im Alltag nach § 45a sowie Angaben zur Person des
+zugelassenen oder anerkannten Leistungserbringers enthalten. Die
+Landesverbände der Pflegekassen erstellen eine Leistungs- und
+Preisvergleichsliste nach Satz 1, aktualisieren diese einmal im
+Quartal und veröffentlichen sie auf einer eigenen Internetseite. Die
+Liste hat zumindest die jeweils geltenden Festlegungen der
+Vergütungsvereinbarungen nach dem Achten Kapitel sowie die im Rahmen
+der Vereinbarungen nach Absatz 4 übermittelten Angaben zu Art, Inhalt
+und Umfang der Angebote sowie zu den Kosten in einer Form zu
+enthalten, die einen regionalen Vergleich von Angeboten und Kosten und
+der regionalen Verfügbarkeit ermöglicht. Auf der Internetseite nach
+Satz 2 sind auch die nach § 115 Absatz 1a veröffentlichten Ergebnisse
+der Qualitätsprüfungen und die nach § 115 Absatz 1b veröffentlichten
+Informationen zu berücksichtigen. Die Leistungs- und
+Preisvergleichsliste ist der Pflegekasse sowie dem Verband der
+privaten Krankenversicherung e. V. für die Wahrnehmung ihrer Aufgaben
+nach diesem Buch und zur Veröffentlichung nach Absatz 2 Satz 4 und 5
+vom Landesverband der Pflegekassen durch elektronische
+Datenübertragung zur Verfügung zu stellen. Die Landesverbände der
+Pflegekassen erarbeiten Nutzungsbedingungen für eine zweckgerechte,
+nicht gewerbliche Nutzung der Angaben nach Satz 1 durch Dritte; die
+Übermittlung der Angaben erfolgt gegen Verwaltungskostenersatz, es sei
+denn, es handelt sich bei den Dritten um öffentlich-rechtliche
+Stellen.
 
-(4) Die Pflegekassen können sich zur Wahrnehmung ihrer
-Beratungsaufgaben nach diesem Buch aus ihren Verwaltungsmitteln an der
-Finanzierung und arbeitsteiligen Organisation von Beratungsangeboten
-anderer Träger beteiligen; die Neutralität und Unabhängigkeit der
-Beratung ist zu gewährleisten.
+(4) Im Einvernehmen mit den zuständigen obersten Landesbehörden
+vereinbaren die Landesverbände der Pflegekassen gemeinsam mit den nach
+Landesrecht zuständigen Stellen für die Anerkennung der Angebote zur
+Unterstützung im Alltag nach den Vorschriften dieses Buches das Nähere
+zur Übermittlung von Angaben im Wege elektronischer Datenübertragung
+insbesondere zu Art, Inhalt und Umfang der Angebote, Kosten und
+regionaler Verfügbarkeit dieser Angebote einschließlich der
+Finanzierung des Verfahrens für die Übermittlung. Träger weiterer
+Angebote, in denen Leistungen zur medizinischen Vorsorge und
+Rehabilitation, zur Teilhabe am Arbeitsleben oder Leben in der
+Gemeinschaft, zur schulischen Ausbildung oder Erziehung kranker oder
+behinderter Kinder, zur Alltagsunterstützung und zum Wohnen im
+Vordergrund stehen, können an Vereinbarungen nach Satz 1 beteiligt
+werden, falls sie insbesondere die Angaben nach Satz 1 im Wege der von
+den Parteien nach Satz 1 vorgesehenen Form der elektronischen
+Datenübertragung unentgeltlich bereitstellen. Dazu gehören auch
+Angebote der Träger von Leistungen der Eingliederungshilfe, soweit
+diese in der vorgesehenen Form der elektronischen Datenübermittlung
+kostenfrei bereitgestellt werden. Der Spitzenverband Bund der
+Pflegekassen gibt Empfehlungen für einen bundesweit einheitlichen
+technischen Standard zur elektronischen Datenübermittlung ab. Die
+Empfehlungen bedürfen der Zustimmung der Länder.
 
 
 ### § 7a Pflegeberatung
 
-(1) Personen, die Leistungen nach diesem Buch erhalten, haben ab dem
-1\. Januar 2009 Anspruch auf individuelle Beratung und Hilfestellung
-durch einen Pflegeberater oder eine Pflegeberaterin bei der Auswahl
-und Inanspruchnahme von bundes- oder landesrechtlich vorgesehenen
-Sozialleistungen sowie sonstigen Hilfsangeboten, die auf die
-Unterstützung von Menschen mit Pflege-, Versorgungs- oder
-Betreuungsbedarf ausgerichtet sind (Pflegeberatung). Aufgabe der
-Pflegeberatung ist es insbesondere,
+(1) Personen, die Leistungen nach diesem Buch erhalten, haben Anspruch
+auf individuelle Beratung und Hilfestellung durch einen Pflegeberater
+oder eine Pflegeberaterin bei der Auswahl und Inanspruchnahme von
+bundes- oder landesrechtlich vorgesehenen Sozialleistungen sowie
+sonstigen Hilfsangeboten, die auf die Unterstützung von Menschen mit
+Pflege-, Versorgungs- oder Betreuungsbedarf ausgerichtet sind
+(Pflegeberatung); Anspruchsberechtigten soll durch die Pflegekassen
+vor der erstmaligen Beratung unverzüglich ein zuständiger
+Pflegeberater, eine zuständige Pflegeberaterin oder eine sonstige
+Beratungsstelle benannt werden. Für das Verfahren, die Durchführung
+und die Inhalte der Pflegeberatung sind die Richtlinien nach § 17
+Absatz 1a maßgeblich. Aufgabe der Pflegeberatung ist es insbesondere,
 
-1.  den Hilfebedarf unter Berücksichtigung der Feststellungen der
-    Begutachtung durch den Medizinischen Dienst der Krankenversicherung
-    systematisch zu erfassen und zu analysieren,
+1.  den Hilfebedarf unter Berücksichtigung der Ergebnisse der Begutachtung
+    durch den Medizinischen Dienst der Krankenversicherung sowie, wenn die
+    nach Satz 1 anspruchsberechtigte Person zustimmt, die Ergebnisse der
+    Beratung in der eigenen Häuslichkeit nach § 37 Absatz 3 systematisch
+    zu erfassen und zu analysieren,
 
 
 2.  einen individuellen Versorgungsplan mit den im Einzelfall
@@ -237,45 +315,50 @@ Pflegeberatung ist es insbesondere,
 
 
 4.  die Durchführung des Versorgungsplans zu überwachen und
-    erforderlichenfalls einer veränderten Bedarfslage anzupassen sowie
+    erforderlichenfalls einer veränderten Bedarfslage anzupassen,
 
 
 5.  bei besonders komplexen Fallgestaltungen den Hilfeprozess auszuwerten
-    und zu dokumentieren.
+    und zu dokumentieren sowie
+
+
+6.  über Leistungen zur Entlastung der Pflegepersonen zu informieren.
 
 
 
-Der Versorgungsplan beinhaltet insbesondere Empfehlungen zu den im
-Einzelfall erforderlichen Maßnahmen nach Satz 2 Nr. 3, Hinweise zu dem
-dazu vorhandenen örtlichen Leistungsangebot sowie zur Überprüfung und
-Anpassung der empfohlenen Maßnahmen. Bei Erstellung und Umsetzung des
-Versorgungsplans ist Einvernehmen mit dem Hilfesuchenden und allen an
-der Pflege, Versorgung und Betreuung Beteiligten anzustreben. Soweit
-Leistungen nach sonstigen bundes- oder landesrechtlichen Vorschriften
-erforderlich sind, sind die zuständigen Leistungsträger frühzeitig mit
-dem Ziel der Abstimmung einzubeziehen. Eine enge Zusammenarbeit mit
-anderen Koordinierungsstellen, insbesondere den gemeinsamen
-Servicestellen nach § 23 des Neunten Buches, ist sicherzustellen.
-Ihnen obliegende Aufgaben der Pflegeberatung können die Pflegekassen
-ganz oder teilweise auf Dritte übertragen; § 80 des Zehnten Buches
-bleibt unberührt. Ein Anspruch auf Pflegeberatung besteht auch dann,
-wenn ein Antrag auf Leistungen nach diesem Buch gestellt wurde und
-erkennbar ein Hilfe- und Beratungsbedarf besteht. Vor dem 1. Januar
-2009 kann Pflegeberatung gewährt werden, wenn und soweit eine
-Pflegekasse eine entsprechende Struktur aufgebaut hat. Es ist
-sicherzustellen, dass im jeweiligen Pflegestützpunkt nach § 92c
-Pflegeberatung im Sinne dieser Vorschrift in Anspruch genommen werden
-kann und die Unabhängigkeit der Beratung gewährleistet ist.
+Der Versorgungsplan wird nach Maßgabe der Richtlinien nach § 17 Absatz
+1a erstellt und umgesetzt; er beinhaltet insbesondere Empfehlungen zu
+den im Einzelfall erforderlichen Maßnahmen nach Satz 3 Nummer 3,
+Hinweise zu dem dazu vorhandenen örtlichen Leistungsangebot sowie zur
+Überprüfung und Anpassung der empfohlenen Maßnahmen. Bei Erstellung
+und Umsetzung des Versorgungsplans ist Einvernehmen mit dem
+Hilfesuchenden und allen an der Pflege, Versorgung und Betreuung
+Beteiligten anzustreben. Soweit Leistungen nach sonstigen bundes- oder
+landesrechtlichen Vorschriften erforderlich sind, sind die zuständigen
+Leistungsträger frühzeitig mit dem Ziel der Abstimmung einzubeziehen.
+Eine enge Zusammenarbeit mit anderen Koordinierungsstellen,
+insbesondere den Ansprechstellen der Rehabilitationsträger nach § 12
+Absatz 1 Satz 3 des Neunten Buches, ist sicherzustellen. Ihnen
+obliegende Aufgaben der Pflegeberatung können die Pflegekassen ganz
+oder teilweise auf Dritte übertragen; § 80 des Zehnten Buches bleibt
+unberührt. Ein Anspruch auf Pflegeberatung besteht auch dann, wenn ein
+Antrag auf Leistungen nach diesem Buch gestellt wurde und erkennbar
+ein Hilfe- und Beratungsbedarf besteht. Es ist sicherzustellen, dass
+im jeweiligen Pflegestützpunkt nach § 7c Pflegeberatung im Sinne
+dieser Vorschrift in Anspruch genommen werden kann und die
+Unabhängigkeit der Beratung gewährleistet ist.
 
-(2) Auf Wunsch erfolgt die Pflegeberatung unter Einbeziehung von
-Dritten, insbesondere Angehörigen und Lebenspartnern, und in der
-häuslichen Umgebung oder in der Einrichtung, in der der
-Anspruchsberechtigte lebt. Ein Versicherter kann einen Leistungsantrag
-nach diesem oder dem Fünften Buch auch gegenüber dem Pflegeberater
-oder der Pflegeberaterin stellen. Der Antrag ist unverzüglich der
-zuständigen Pflege- oder Krankenkasse zu übermitteln, die den
-Leistungsbescheid unverzüglich dem Antragsteller und zeitgleich dem
-Pflegeberater oder der Pflegeberaterin zuleitet.
+(2) Auf Wunsch einer anspruchsberechtigten Person nach Absatz 1 Satz 1
+erfolgt die Pflegeberatung auch gegenüber ihren Angehörigen oder
+weiteren Personen oder unter deren Einbeziehung. Sie erfolgt auf
+Wunsch einer anspruchsberechtigten Person nach Absatz 1 Satz 1 in der
+häuslichen Umgebung oder in der Einrichtung, in der diese Person lebt.
+Ein Versicherter kann einen Leistungsantrag nach diesem oder dem
+Fünften Buch auch gegenüber dem Pflegeberater oder der Pflegeberaterin
+stellen. Der Antrag ist unverzüglich der zuständigen Pflege- oder
+Krankenkasse zu übermitteln, die den Leistungsbescheid unverzüglich
+dem Antragsteller und zeitgleich dem Pflegeberater oder der
+Pflegeberaterin zuleitet.
 
 (3) Die Anzahl von Pflegeberatern und Pflegeberaterinnen ist so zu
 bemessen, dass die Aufgaben nach Absatz 1 im Interesse der
@@ -284,29 +367,29 @@ Pflegekassen setzen für die persönliche Beratung und Betreuung durch
 Pflegeberater und Pflegeberaterinnen entsprechend qualifiziertes
 Personal ein, insbesondere Pflegefachkräfte,
 Sozialversicherungsfachangestellte oder Sozialarbeiter mit der jeweils
-erforderlichen Zusatzqualifikation. Zur erforderlichen Anzahl und
-Qualifikation von Pflegeberatern und Pflegeberaterinnen gibt der
-Spitzenverband Bund der Pflegekassen bis zum 31. August 2008
-Empfehlungen ab. Die Qualifikationsanforderungen nach Satz 2 müssen
-spätestens zum 30. Juni 2011 erfüllt sein.
+erforderlichen Zusatzqualifikation. Der Spitzenverband Bund der
+Pflegekassen gibt unter Beteiligung der in § 17 Absatz 1a Satz 2
+genannten Parteien bis zum 31. Juli 2018 Empfehlungen zur
+erforderlichen Anzahl, Qualifikation und Fortbildung von
+Pflegeberaterinnen und Pflegeberatern ab.
 
 (4) Die Pflegekassen im Land haben Pflegeberater und
 Pflegeberaterinnen zur Sicherstellung einer wirtschaftlichen
 Aufgabenwahrnehmung in den Pflegestützpunkten nach Anzahl und
 örtlicher Zuständigkeit aufeinander abgestimmt bereitzustellen und
-hierüber einheitlich und gemeinsam Vereinbarungen bis zum 31. Oktober
-2008 zu treffen. Die Pflegekassen können diese Aufgabe auf die
-Landesverbände der Pflegekassen übertragen. Kommt eine Einigung bis zu
-dem in Satz 1 genannten Zeitpunkt ganz oder teilweise nicht zustande,
-haben die Landesverbände der Pflegekassen innerhalb eines Monats zu
-entscheiden; § 81 Abs. 1 Satz 2 gilt entsprechend. Die Pflegekassen
-und die gesetzlichen Krankenkassen können zur Aufgabenwahrnehmung
-durch Pflegeberater und Pflegeberaterinnen von der Möglichkeit der
+hierüber einheitlich und gemeinsam Vereinbarungen zu treffen. Die
+Pflegekassen können diese Aufgabe auf die Landesverbände der
+Pflegekassen übertragen. Kommt eine Einigung bis zu dem in Satz 1
+genannten Zeitpunkt ganz oder teilweise nicht zustande, haben die
+Landesverbände der Pflegekassen innerhalb eines Monats zu entscheiden;
+§ 81 Abs. 1 Satz 2 gilt entsprechend. Die Pflegekassen und die
+gesetzlichen Krankenkassen können zur Aufgabenwahrnehmung durch
+Pflegeberater und Pflegeberaterinnen von der Möglichkeit der
 Beauftragung nach Maßgabe der §§ 88 bis 92 des Zehnten Buches Gebrauch
-machen. Die durch die Tätigkeit von Pflegeberatern und
-Pflegeberaterinnen entstehenden Aufwendungen werden von den
-Pflegekassen getragen und zur Hälfte auf die
-Verwaltungskostenpauschale nach § 46 Abs. 3 Satz 1 angerechnet.
+machen; § 94 Absatz 1 Nummer 8 gilt entsprechend. Die durch die
+Tätigkeit von Pflegeberatern und Pflegeberaterinnen entstehenden
+Aufwendungen werden von den Pflegekassen getragen und zur Hälfte auf
+die Verwaltungskostenpauschale nach § 46 Abs. 3 Satz 1 angerechnet.
 
 (5) Zur Durchführung der Pflegeberatung können die privaten
 Versicherungsunternehmen, die die private Pflege-Pflichtversicherung
@@ -349,17 +432,56 @@ diesem Buch erforderlich oder durch Rechtsvorschriften des
 Sozialgesetzbuches oder Regelungen des Versicherungsvertrags- oder des
 Versicherungsaufsichtsgesetzes angeordnet oder erlaubt ist.
 
-(7) Über die Erfahrungen mit der Pflegeberatung legt der
-Spitzenverband Bund der Pflegekassen dem Bundesministerium für
-Gesundheit bis zum 30. Juni 2011 einen unter wissenschaftlicher
-Begleitung zu erstellenden Bericht vor. Er kann hierzu Mittel nach § 8
-Abs. 3 einsetzen.
+(7) Die Landesverbände der Pflegekassen vereinbaren gemeinsam und
+einheitlich mit dem Verband der privaten Krankenversicherung e. V.,
+den nach Landesrecht bestimmten Stellen für die wohnortnahe Betreuung
+im Rahmen der Altenhilfe und den zuständigen Trägern der Sozialhilfe
+sowie mit den kommunalen Spitzenverbänden auf Landesebene
+Rahmenverträge über die Zusammenarbeit in der Beratung. Zu den
+Verträgen nach Satz 1 sind die Verbände der Träger weiterer nicht
+gewerblicher Beratungsstellen auf Landesebene anzuhören, die für die
+Beratung Pflegebedürftiger und ihrer Angehörigen von Bedeutung sind.
+Die Landesverbände der Pflegekassen vereinbaren gemeinsam und
+einheitlich mit dem Verband der privaten Krankenversicherung e. V. und
+dem zuständigen Träger der Sozialhilfe auf dessen Verlangen eine
+ergänzende Vereinbarung zu den Verträgen nach Satz 1 über die
+Zusammenarbeit in der örtlichen Beratung im Gebiet des Kreises oder
+der kreisfreien Stadt für den Bereich der örtlichen Zuständigkeit des
+Trägers der Sozialhilfe. Für Modellvorhaben nach § 123 kann der
+Antragsteller nach § 123 Absatz 1 die ergänzende Vereinbarung für den
+Geltungsbereich des Modellvorhabens verlangen.
+
+(8) Die Pflegekassen können sich zur Wahrnehmung ihrer
+Beratungsaufgaben nach diesem Buch aus ihren Verwaltungsmitteln an der
+Finanzierung und arbeitsteiligen Organisation von Beratungsaufgaben
+anderer Träger beteiligen; die Neutralität und Unabhängigkeit der
+Beratung sind zu gewährleisten.
+
+(9) Der Spitzenverband Bund der Pflegekassen legt dem
+Bundesministerium für Gesundheit alle drei Jahre, erstmals zum 30.
+Juni 2020, einen unter wissenschaftlicher Begleitung zu erstellenden
+Bericht vor über
+
+1.  die Erfahrungen und Weiterentwicklung der Pflegeberatung und
+    Pflegeberatungsstrukturen nach den Absätzen 1 bis 4, 7 und 8, § 7b
+    Absatz 1 und 2 und § 7c und
+
+
+2.  die Durchführung, Ergebnisse und Wirkungen der Beratung in der eigenen
+    Häuslichkeit sowie die Fortentwicklung der Beratungsstrukturen nach §
+    37 Absatz 3 bis 8.
+
+
+
+Er kann hierfür Mittel nach § 8 Absatz 3 einsetzen.
 
 
 ### § 7b Beratungsgutscheine
 
 (1) Die Pflegekasse hat dem Antragsteller unmittelbar nach Eingang
-eines erstmaligen Antrags auf Leistungen nach diesem Buch entweder
+eines erstmaligen Antrags auf Leistungen nach diesem Buch sowie
+weiterer Anträge auf Leistungen nach § 18 Absatz 3, den §§ 36 bis 38,
+41 bis 43, 44a, 45, 87a Absatz 2 Satz 1 und § 115 Absatz 4 entweder
 
 1.  unter Angabe einer Kontaktperson einen konkreten Beratungstermin
     anzubieten, der spätestens innerhalb von zwei Wochen nach
@@ -373,16 +495,16 @@ eines erstmaligen Antrags auf Leistungen nach diesem Buch entweder
 
 
 
-Die Beratung richtet sich nach den §§ 7 und 7a. Auf Wunsch des
-Versicherten hat die Beratung in der häuslichen Umgebung stattzufinden
-und kann auch nach Ablauf der in Satz 1 genannten Frist durchgeführt
-werden; über diese Möglichkeiten hat ihn die Pflegekasse aufzuklären.
+Die Beratung richtet sich nach § 7a. Auf Wunsch des Versicherten hat
+die Beratung in der häuslichen Umgebung stattzufinden und kann auch
+nach Ablauf der in Satz 1 genannten Frist durchgeführt werden; über
+diese Möglichkeiten hat ihn die Pflegekasse aufzuklären.
 
 (2) Die Pflegekasse hat sicherzustellen, dass die Beratungsstellen die
-Anforderungen an die Beratung nach den §§ 7 und 7a einhalten. Die
-Pflegekasse schließt hierzu allein oder gemeinsam mit anderen
-Pflegekassen vertragliche Vereinbarungen mit unabhängigen und
-neutralen Beratungsstellen, die insbesondere Regelungen treffen für
+Anforderungen an die Beratung nach § 7a einhalten. Die Pflegekasse
+schließt hierzu allein oder gemeinsam mit anderen Pflegekassen
+vertragliche Vereinbarungen mit unabhängigen und neutralen
+Beratungsstellen, die insbesondere Regelungen treffen für
 
 1.  die Anforderungen an die Beratungsleistung und die Beratungspersonen,
 
@@ -396,16 +518,253 @@ neutralen Beratungsstellen, die insbesondere Regelungen treffen für
 
 
 
+(2a) Sofern kommunale Gebietskörperschaften, von diesen geschlossene
+Zweckgemeinschaften oder nach Landesrecht zu bestimmende Stellen
+
+1.  für die wohnortnahe Betreuung im Rahmen der örtlichen Altenhilfe oder
+
+
+2.  für die Gewährung der Hilfe zur Pflege nach dem Zwölften Buch
+
+
+
+Pflegeberatung im Sinne von § 7a erbringen, sind sie Beratungsstellen,
+bei denen Pflegebedürftige nach Absatz 1 Satz 1 Nummer 2
+Beratungsgutscheine einlösen können; sie haben die Empfehlungen nach §
+7a Absatz 3 Satz 3 zu berücksichtigen und die Pflegeberatungs-
+Richtlinien nach § 17 Absatz 1a zu beachten. Absatz 2 Satz 1 findet
+keine Anwendung. Die Pflegekasse schließt hierzu allein oder gemeinsam
+mit anderen Pflegekassen mit den in Satz 1 genannten Stellen
+vertragliche Vereinbarungen über die Vergütung. Für die Erhebung,
+Verarbeitung und Nutzung der Sozialdaten gilt § 7a Absatz 6
+entsprechend.
+
 (3) Stellen nach Absatz 1 Satz 1 Nummer 2 dürfen personenbezogene
 Daten nur erheben, verarbeiten und nutzen, soweit dies für Zwecke der
-Beratung nach den §§ 7 und 7a erforderlich ist und der Versicherte
-oder sein gesetzlicher Vertreter eingewilligt hat. Zudem ist der
-Versicherte oder sein gesetzlicher Vertreter zu Beginn der Beratung
-darauf hinzuweisen, dass die Einwilligung jederzeit widerrufen werden
-kann.
+Beratung nach § 7a erforderlich ist und der Versicherte oder sein
+gesetzlicher Vertreter eingewilligt hat. Zudem ist der Versicherte
+oder sein gesetzlicher Vertreter zu Beginn der Beratung darauf
+hinzuweisen, dass die Einwilligung jederzeit widerrufen werden kann.
 
 (4) Die Absätze 1 bis 3 gelten für private Versicherungsunternehmen,
 die die private Pflege-Pflichtversicherung durchführen, entsprechend.
+
+
+### § 7c Pflegestützpunkte, Verordnungsermächtigung
+
+(1) Zur wohnortnahen Beratung, Versorgung und Betreuung der
+Versicherten richten die Pflegekassen und Krankenkassen
+Pflegestützpunkte ein, sofern die zuständige oberste Landesbehörde
+dies bestimmt. Die Einrichtung muss innerhalb von sechs Monaten nach
+der Bestimmung durch die oberste Landesbehörde erfolgen. Kommen die
+hierfür erforderlichen Verträge nicht innerhalb von drei Monaten nach
+der Bestimmung durch die oberste Landesbehörde zustande, haben die
+Landesverbände der Pflegekassen innerhalb eines weiteren Monats den
+Inhalt der Verträge festzulegen; hierbei haben sie auch die Interessen
+der Ersatzkassen und der Landesverbände der Krankenkassen
+wahrzunehmen. Hinsichtlich der Mehrheitsverhältnisse bei der
+Beschlussfassung ist § 81 Absatz 1 Satz 2 entsprechend anzuwenden.
+Widerspruch und Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden
+zur Einrichtung von Pflegestützpunkten haben keine aufschiebende
+Wirkung.
+
+(1a) Die für die Hilfe zur Pflege zuständigen Träger der Sozialhilfe
+nach dem Zwölften Buch sowie die nach Landesrecht zu bestimmenden
+Stellen der Altenhilfe können bis zum 31. Dezember 2021 auf Grund
+landesrechtlicher Vorschriften von den Pflegekassen und Krankenkassen
+den Abschluss einer Vereinbarung zur Einrichtung von
+Pflegestützpunkten verlangen. Ist in der Vereinbarung zur Einrichtung
+eines Pflegestützpunktes oder in den Rahmenverträgen nach Absatz 6
+nichts anderes vereinbart, werden die Aufwendungen, die für den
+Betrieb des Pflegestützpunktes erforderlich sind, von den Trägern des
+Pflegestützpunktes zu gleichen Teilen unter Berücksichtigung der
+anrechnungsfähigen Aufwendungen für das eingesetzte Personal getragen.
+
+(2) Aufgaben der Pflegestützpunkte sind
+
+1.  umfassende sowie unabhängige Auskunft und Beratung zu den Rechten und
+    Pflichten nach dem Sozialgesetzbuch und zur Auswahl und
+    Inanspruchnahme der bundes- oder landesrechtlich vorgesehenen
+    Sozialleistungen und sonstigen Hilfsangebote einschließlich der
+    Pflegeberatung nach § 7a in Verbindung mit den Richtlinien nach § 17
+    Absatz 1a,
+
+
+2.  Koordinierung aller für die wohnortnahe Versorgung und Betreuung in
+    Betracht kommenden gesundheitsfördernden, präventiven, kurativen,
+    rehabilitativen und sonstigen medizinischen sowie pflegerischen und
+    sozialen Hilfs- und Unterstützungsangebote einschließlich der
+    Hilfestellung bei der Inanspruchnahme der Leistungen,
+
+
+3.  Vernetzung aufeinander abgestimmter pflegerischer und sozialer
+    Versorgungs- und Betreuungsangebote.
+
+
+
+Auf vorhandene vernetzte Beratungsstrukturen ist zurückzugreifen. Die
+Pflegekassen haben jederzeit darauf hinzuwirken, dass sich
+insbesondere die
+
+1.  nach Landesrecht zu bestimmenden Stellen für die wohnortnahe Betreuung
+    im Rahmen der örtlichen Altenhilfe und für die Gewährung der Hilfe zur
+    Pflege nach dem Zwölften Buch,
+
+
+2.  im Land zugelassenen und tätigen Pflegeeinrichtungen,
+
+
+3.  im Land tätigen Unternehmen der privaten Kranken- und
+    Pflegeversicherung
+
+
+
+an den Pflegestützpunkten beteiligen. Die Krankenkassen haben sich an
+den Pflegestützpunkten zu beteiligen. Träger der Pflegestützpunkte
+sind die beteiligten Kosten- und Leistungsträger. Die Träger
+
+1.  sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte
+    einbinden,
+
+
+2.  haben nach Möglichkeit Mitglieder von Selbsthilfegruppen sowie
+    ehrenamtliche und sonstige zum bürgerschaftlichen Engagement bereite
+    Personen und Organisationen in die Tätigkeit der Pflegestützpunkte
+    einzubinden,
+
+
+3.  sollen interessierten kirchlichen sowie sonstigen religiösen und
+    gesellschaftlichen Trägern und Organisationen sowie nicht
+    gewerblichen, gemeinwohlorientierten Einrichtungen mit öffentlich
+    zugänglichen Angeboten und insbesondere Selbsthilfe stärkender und
+    generationenübergreifender Ausrichtung in kommunalen
+    Gebietskörperschaften die Beteiligung an den Pflegestützpunkten
+    ermöglichen,
+
+
+4.  können sich zur Erfüllung ihrer Aufgaben dritter Stellen bedienen,
+
+
+5.  sollen im Hinblick auf die Vermittlung und Qualifizierung von für die
+    Pflege und Betreuung geeigneten Kräften eng mit dem Träger der
+    Arbeitsförderung nach dem Dritten Buch und den Trägern der
+    Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
+    zusammenarbeiten.
+
+
+
+
+(3) Die an den Pflegestützpunkten beteiligten Kostenträger und
+Leistungserbringer können für das Einzugsgebiet der Pflegestützpunkte
+Verträge zur wohnortnahen integrierten Versorgung schließen; insoweit
+ist § 92b mit der Maßgabe entsprechend anzuwenden, dass die Pflege-
+und Krankenkassen gemeinsam und einheitlich handeln.
+
+(4) Der Pflegestützpunkt kann bei einer im Land zugelassenen und
+tätigen Pflegeeinrichtung errichtet werden, wenn dies nicht zu einer
+unzulässigen Beeinträchtigung des Wettbewerbs zwischen den
+Pflegeeinrichtungen führt. Die für den Betrieb des Pflegestützpunktes
+erforderlichen Aufwendungen werden von den Trägern der
+Pflegestützpunkte unter Berücksichtigung der anrechnungsfähigen
+Aufwendungen für das eingesetzte Personal auf der Grundlage einer
+vertraglichen Vereinbarung anteilig getragen. Die Verteilung der für
+den Betrieb des Pflegestützpunktes erforderlichen Aufwendungen wird
+mit der Maßgabe vereinbart, dass der auf eine einzelne Pflegekasse
+entfallende Anteil nicht höher sein darf als der von der Krankenkasse,
+bei der sie errichtet ist, zu tragende Anteil. Soweit sich private
+Versicherungsunternehmen, die die private Pflege-Pflichtversicherung
+durchführen, nicht an der Finanzierung der Pflegestützpunkte
+beteiligen, haben sie mit den Trägern der Pflegestützpunkte über Art,
+Inhalt und Umfang der Inanspruchnahme der Pflegestützpunkte durch
+privat Pflege-Pflichtversicherte sowie über die Vergütung der hierfür
+je Fall entstehenden Aufwendungen Vereinbarungen zu treffen; dies gilt
+für private Versicherungsunternehmen, die die private
+Krankenversicherung durchführen, entsprechend.
+
+(5) Im Pflegestützpunkt tätige Personen sowie sonstige mit der
+Wahrnehmung von Aufgaben nach Absatz 1 befasste Stellen, insbesondere
+
+1.  nach Landesrecht für die wohnortnahe Betreuung im Rahmen der örtlichen
+    Altenhilfe und für die Gewährung der Hilfe zur Pflege nach dem
+    Zwölften Buch zu bestimmende Stellen,
+
+
+2.  Unternehmen der privaten Kranken- und Pflegeversicherung,
+
+
+3.  Pflegeeinrichtungen und Einzelpersonen nach § 77,
+
+
+4.  Mitglieder von Selbsthilfegruppen, ehrenamtliche und sonstige zum
+    bürgerschaftlichen Engagement bereite Personen und Organisationen
+    sowie
+
+
+5.  Agenturen für Arbeit und Träger der Grundsicherung für Arbeitsuchende,
+
+
+
+dürfen Sozialdaten nur erheben, verarbeiten und nutzen, soweit dies
+zur Erfüllung der Aufgaben nach diesem Buch erforderlich oder durch
+Rechtsvorschriften des Sozialgesetzbuches oder Regelungen des
+Versicherungsvertrags- oder des Versicherungsaufsichtsgesetzes
+angeordnet oder erlaubt ist.
+
+(6) Sofern die zuständige oberste Landesbehörde die Einrichtung von
+Pflegestützpunkten bestimmt hat, vereinbaren die Landesverbände der
+Pflegekassen mit den Landesverbänden der Krankenkassen sowie den
+Ersatzkassen und den für die Hilfe zur Pflege zuständigen Trägern der
+Sozialhilfe nach dem Zwölften Buch und den kommunalen Spitzenverbänden
+auf Landesebene Rahmenverträge zur Arbeit und zur Finanzierung der
+Pflegestützpunkte. Bestandskräftige Rahmenverträge gelten bis zum
+Inkrafttreten von Rahmenverträgen nach Satz 1 fort. Die von der
+zuständigen obersten Landesbehörde getroffene Bestimmung zur
+Einrichtung von Pflegestützpunkten sowie die Empfehlungen nach Absatz
+9 sind beim Abschluss der Rahmenverträge zu berücksichtigen. In den
+Rahmenverträgen nach Satz 1 sind die Strukturierung der Zusammenarbeit
+mit weiteren Beteiligten sowie die Zuständigkeit insbesondere für die
+Koordinierung der Arbeit, die Qualitätssicherung und die
+Auskunftspflicht gegenüber den Trägern, den Ländern und dem
+Bundesversicherungsamt zu bestimmen. Ferner sollen Regelungen zur
+Aufteilung der Kosten unter Berücksichtigung der Vorschriften nach
+Absatz 4 getroffen werden. Die Regelungen zur Kostenaufteilung gelten
+unmittelbar für die Pflegestützpunkte, soweit in den Verträgen zur
+Errichtung der Pflegestützpunkte nach Absatz 1 nichts anderes
+vereinbart ist.
+
+(7) Die Landesregierungen werden ermächtigt, Schiedsstellen
+einzurichten. Diese setzen den Inhalt der Rahmenverträge nach Absatz 6
+fest, sofern ein Rahmenvertrag nicht innerhalb der in der
+Rechtsverordnung nach Satz 6 zu bestimmenden Frist zustande kommt. Die
+Schiedsstelle besteht aus Vertretungen der Pflegekassen und der für
+die Hilfe zur Pflege zuständigen Träger der Sozialhilfe nach dem
+Zwölften Buch in gleicher Zahl sowie einem unparteiischen Vorsitzenden
+und zwei weiteren unparteiischen Mitgliedern. Für den Vorsitzenden und
+die unparteiischen Mitglieder können Stellvertretungen bestellt
+werden. § 76 Absatz 3 und 4 gilt entsprechend. Die Landesregierungen
+werden ermächtigt, durch Rechtsverordnung das Nähere über die Zahl,
+die Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der
+baren Auslagen und die Entschädigung für den Zeitaufwand der
+Mitglieder der Schiedsstelle, die Geschäftsführung, das Verfahren, die
+Frist, nach deren Ablauf die Schiedsstelle ihre Arbeit aufnimmt, die
+Erhebung und die Höhe der Gebühren sowie über die Verteilung der
+Kosten zu regeln.
+
+(8) Abweichend von Absatz 7 können die Parteien des Rahmenvertrages
+nach Absatz 6 Satz 1 einvernehmlich eine unparteiische Schiedsperson
+und zwei unparteiische Mitglieder bestellen, die den Inhalt des
+Rahmenvertrages nach Absatz 6 innerhalb von sechs Wochen nach ihrer
+Bestellung festlegen. Die Kosten des Schiedsverfahrens tragen die
+Vertragspartner zu gleichen Teilen.
+
+(9) Der Spitzenverband Bund der Pflegekassen, der Spitzenverband Bund
+der Krankenkassen, die Bundesarbeitsgemeinschaft der überörtlichen
+Träger der Sozialhilfe und die Bundesvereinigung der kommunalen
+Spitzenverbände können gemeinsam und einheitlich Empfehlungen zur
+Arbeit und zur Finanzierung von Pflegestützpunkten in der gemeinsamen
+Trägerschaft der gesetzlichen Kranken- und Pflegekassen sowie der nach
+Landesrecht zu bestimmenden Stellen der Alten- und Sozialhilfe
+vereinbaren.
 
 
 ### § 8 Gemeinsame Verantwortung
@@ -431,7 +790,8 @@ Helfens und der mitmenschlichen Zuwendung hin.
 
 (3) Der Spitzenverband Bund der Pflegekassen kann aus Mitteln des
 Ausgleichsfonds der Pflegeversicherung mit 5 Millionen Euro im
-Kalenderjahr Modellvorhaben zur Weiterentwicklung der
+Kalenderjahr Maßnahmen wie Modellvorhaben, Studien, wissenschaftliche
+Expertisen und Fachtagungen zur Weiterentwicklung der
 Pflegeversicherung, insbesondere zur Entwicklung neuer
 qualitätsgesicherter Versorgungsformen für Pflegebedürftige,
 durchführen und mit Leistungserbringern vereinbaren. Dabei sind
@@ -449,14 +809,85 @@ genannten Mittel im jeweiligen Haushaltsjahr nicht verbraucht wurden,
 können sie in das Folgejahr übertragen werden. Die Modellvorhaben sind
 auf längstens fünf Jahre zu befristen. Der Spitzenverband Bund der
 Pflegekassen bestimmt Ziele, Dauer, Inhalte und Durchführung der
-Modellvorhaben. Die Modellvorhaben sind mit dem Bundesministerium für
+Maßnahmen; dabei sind auch regionale Modellvorhaben einzelner Länder
+zu berücksichtigen. Die Maßnahmen sind mit dem Bundesministerium für
 Gesundheit abzustimmen. Soweit finanzielle Interessen einzelner Länder
 berührt werden, sind diese zu beteiligen. Näheres über das Verfahren
 zur Auszahlung der aus dem Ausgleichsfonds zu finanzierenden
 Fördermittel regeln der Spitzenverband Bund der Pflegekassen und das
 Bundesversicherungsamt durch Vereinbarung. Für die Modellvorhaben ist
 eine wissenschaftliche Begleitung und Auswertung vorzusehen. § 45c
-Abs. 4 Satz 6 gilt entsprechend.
+Absatz 5 Satz 6 gilt entsprechend.
+
+(4) Aus den Mitteln nach Absatz 3 ist ebenfalls die Finanzierung der
+qualifizierten Geschäftsstelle nach § 113b Absatz 6 und der
+wissenschaftlichen Aufträge nach § 113b Absatz 4 sicherzustellen.
+Sofern der Verband der privaten Krankenversicherung e. V. als Mitglied
+im Qualitätsausschuss nach § 113b vertreten ist, beteiligen sich die
+privaten Versicherungsunternehmen, die die private Pflege-
+Pflichtversicherung durchführen, mit einem Anteil von 10 Prozent an
+den Aufwendungen nach Satz 1. Aus den Mitteln nach Absatz 3 ist zudem
+die Finanzierung der Aufgaben nach § 113c sicherzustellen. Die
+privaten Versicherungsunternehmen, die die private Pflege-
+Pflichtversicherung durchführen, beteiligen sich mit einem Anteil von
+10 Prozent an diesen Aufwendungen. Der Finanzierungsanteil nach den
+Sätzen 2 und 4, der auf die privaten Versicherungsunternehmen
+entfällt, kann von dem Verband der privaten Krankenversicherung e. V.
+unmittelbar an das Bundesversicherungsamt zugunsten des
+Ausgleichsfonds der Pflegeversicherung nach § 65 geleistet werden.
+
+
+### § 8a Gemeinsame Empfehlungen zur pflegerischen Versorgung
+
+(1) Für jedes Land oder für Teile des Landes wird zur Beratung über
+Fragen der Pflegeversicherung ein Landespflegeausschuss gebildet. Der
+Ausschuss kann zur Umsetzung der Pflegeversicherung einvernehmlich
+Empfehlungen abgeben. Die Landesregierungen werden ermächtigt, durch
+Rechtsverordnung das Nähere zu den Landespflegeausschüssen zu
+bestimmen; insbesondere können sie die den Landespflegeausschüssen
+angehörenden Organisationen unter Berücksichtigung der Interessen
+aller an der Pflege im Land Beteiligten berufen.
+
+(2) Sofern nach Maßgabe landesrechtlicher Vorschriften ein Ausschuss
+zur Beratung über sektorenübergreifende Zusammenarbeit in der
+Versorgung von Pflegebedürftigen (sektorenübergreifender
+Landespflegeausschuss) eingerichtet worden ist, entsenden die
+Landesverbände der Pflegekassen und der Krankenkassen sowie die
+Ersatzkassen, die Kassenärztlichen Vereinigungen und die
+Landeskrankenhausgesellschaften Vertreter in diesen Ausschuss und
+wirken an der Abgabe gemeinsamer Empfehlungen mit. Soweit
+erforderlich, ist eine Abstimmung mit dem Landesgremium nach § 90a des
+Fünften Buches herbeizuführen.
+
+(3) Sofern nach Maßgabe landesrechtlicher Vorschriften regionale
+Ausschüsse insbesondere zur Beratung über Fragen der
+Pflegeversicherung in Landkreisen und kreisfreien Städten eingerichtet
+worden sind, entsenden die Landesverbände der Pflegekassen Vertreter
+in diese Ausschüsse und wirken an der einvernehmlichen Abgabe
+gemeinsamer Empfehlungen mit.
+
+(4) Die in den Ausschüssen nach den Absätzen 1 und 3 vertretenen
+Pflegekassen, Landesverbände der Pflegekassen sowie die sonstigen in
+Absatz 2 genannten Mitglieder wirken in dem jeweiligen Ausschuss an
+einer nach Maßgabe landesrechtlicher Vorschriften vorgesehenen
+Erstellung und Fortschreibung von Empfehlungen zur Sicherstellung der
+pflegerischen Infrastruktur (Pflegestrukturplanungsempfehlung) mit.
+Sie stellen die hierfür erforderlichen Angaben bereit, soweit diese
+ihnen im Rahmen ihrer gesetzlichen Aufgaben verfügbar sind und es sich
+nicht um personenbezogene Daten handelt. Die Mitglieder nach Satz 1
+berichten den jeweiligen Ausschüssen nach den Absätzen 1 bis 3
+insbesondere darüber, inwieweit diese Empfehlungen von den
+Landesverbänden der Pflegekassen und der Krankenkassen sowie den
+Ersatzkassen, den Kassenärztlichen Vereinigungen und den
+Landeskrankenhausgesellschaften bei der Erfüllung der ihnen nach
+diesem und dem Fünften Buch übertragenen Aufgaben berücksichtigt
+wurden.
+
+(5) Empfehlungen der Ausschüsse nach den Absätzen 1 bis 3 zur
+Weiterentwicklung der Versorgung sollen von den Vertragsparteien nach
+dem Siebten Kapitel beim Abschluss der Versorgungs- und Rahmenverträge
+und von den Vertragsparteien nach dem Achten Kapitel beim Abschluss
+der Vergütungsverträge einbezogen werden.
 
 
 ### § 9 Aufgaben der Länder
@@ -486,12 +917,18 @@ eingesetzt werden, die den Trägern der Sozialhilfe durch die
 Einführung der Pflegeversicherung entstehen.
 
 
-### § 10 Pflegebericht der Bundesregierung
+### § 10 Berichtspflichten des Bundes und der Länder
 
-Die Bundesregierung berichtet den gesetzgebenden Körperschaften des
-Bundes ab 2011 im Abstand von vier Jahren über die Entwicklung der
+(1) Die Bundesregierung berichtet den gesetzgebenden Körperschaften
+des Bundes ab 2016 im Abstand von vier Jahren über die Entwicklung der
 Pflegeversicherung und den Stand der pflegerischen Versorgung in der
 Bundesrepublik Deutschland.
+
+(2) Die Länder berichten dem Bundesministerium für Gesundheit jährlich
+bis zum 30. Juni über Art und Umfang der finanziellen Förderung der
+Pflegeeinrichtungen im vorausgegangenen Kalenderjahr sowie über die
+mit dieser Förderung verbundenen durchschnittlichen Investitionskosten
+für die Pflegebedürftigen.
 
 
 ### § 11 Rechte und Pflichten der Pflegeeinrichtungen
@@ -522,7 +959,7 @@ unberührt.
 Versorgung ihrer Versicherten verantwortlich. Sie arbeiten dabei mit
 allen an der pflegerischen, gesundheitlichen und sozialen Versorgung
 Beteiligten eng zusammen und wirken, insbesondere durch
-Pflegestützpunkte nach § 92c, auf eine Vernetzung der regionalen und
+Pflegestützpunkte nach § 7c, auf eine Vernetzung der regionalen und
 kommunalen Versorgungsstrukturen hin, um eine Verbesserung der
 wohnortnahen Versorgung pflege- und betreuungsbedürftiger Menschen zu
 ermöglichen. Die Pflegekassen sollen zur Durchführung der ihnen
@@ -534,16 +971,16 @@ gilt entsprechend.
 stationären gesundheitlichen und sozialen Versorgung partnerschaftlich
 zusammen, um die für den Pflegebedürftigen zur Verfügung stehenden
 Hilfen zu koordinieren. Sie stellen insbesondere über die
-Pflegeberatung nach § 7a sicher, dass im Einzelfall Grundpflege,
-Behandlungspflege, ärztliche Behandlung, spezialisierte
+Pflegeberatung nach § 7a sicher, dass im Einzelfall häusliche
+Pflegehilfe, Behandlungspflege, ärztliche Behandlung, spezialisierte
 Palliativversorgung, Leistungen zur Prävention, zur medizinischen
-Rehabilitation und zur Teilhabe sowie hauswirtschaftliche Versorgung
-nahtlos und störungsfrei ineinandergreifen. Die Pflegekassen nutzen
-darüber hinaus das Instrument der integrierten Versorgung nach § 92b
-und wirken zur Sicherstellung der haus-, fach- und zahnärztlichen
-Versorgung der Pflegebedürftigen darauf hin, dass die stationären
-Pflegeeinrichtungen Kooperationen mit niedergelassenen Ärzten eingehen
-oder § 119b des Fünften Buches anwenden.
+Rehabilitation und zur Teilhabe nahtlos und störungsfrei
+ineinandergreifen. Die Pflegekassen nutzen darüber hinaus das
+Instrument der integrierten Versorgung nach § 92b und wirken zur
+Sicherstellung der haus-, fach- und zahnärztlichen Versorgung der
+Pflegebedürftigen darauf hin, dass die stationären Pflegeeinrichtungen
+Kooperationen mit niedergelassenen Ärzten eingehen oder § 119b des
+Fünften Buches anwenden.
 
 
 ### § 13 Verhältnis der Leistungen der Pflegeversicherung zu anderen Sozialleistungen
@@ -565,8 +1002,11 @@ Entschädigungsleistungen wegen Pflegebedürftigkeit
 
 vor.
 
-(2) Die Leistungen der häuslichen Krankenpflege nach § 37 des Fünften
-Buches bleiben unberührt.
+(2) Die Leistungen nach dem Fünften Buch einschließlich der Leistungen
+der häuslichen Krankenpflege nach § 37 des Fünften Buches bleiben
+unberührt. Dies gilt auch für krankheitsspezifische Pflegemaßnahmen,
+soweit diese im Rahmen der häuslichen Krankenpflege nach § 37 des
+Fünften Buches zu leisten sind.
 
 (3) Die Leistungen der Pflegeversicherung gehen den Fürsorgeleistungen
 zur Pflege
@@ -584,35 +1024,83 @@ zur Pflege
 
 
 
-vor. Leistungen zur Pflege nach diesen Gesetzen sind zu gewähren, wenn
-und soweit Leistungen der Pflegeversicherung nicht erbracht werden
-oder diese Gesetze dem Grunde oder der Höhe nach weitergehende
-Leistungen als die Pflegeversicherung vorsehen. Die Leistungen der
-Eingliederungshilfe für behinderte Menschen nach dem Zwölften Buch,
-dem Bundesversorgungsgesetz und dem Achten Buch bleiben unberührt, sie
-sind im Verhältnis zur Pflegeversicherung nicht nachrangig; die
-notwendige Hilfe in den Einrichtungen nach § 71 Abs. 4 ist
-einschließlich der Pflegeleistungen zu gewähren.
+vor, soweit dieses Buch nichts anderes bestimmt. Leistungen zur Pflege
+nach diesen Gesetzen sind zu gewähren, wenn und soweit Leistungen der
+Pflegeversicherung nicht erbracht werden oder diese Gesetze dem Grunde
+oder der Höhe nach weitergehende Leistungen als die Pflegeversicherung
+vorsehen. Die Leistungen der Eingliederungshilfe für Menschen mit
+Behinderungen nach dem Zwölften Buch, dem Bundesversorgungsgesetz und
+dem Achten Buch bleiben unberührt, sie sind im Verhältnis zur
+Pflegeversicherung nicht nachrangig; die notwendige Hilfe in den
+Einrichtungen nach § 71 Abs. 4 ist einschließlich der Pflegeleistungen
+zu gewähren.
 
-(3a) Die Leistungen nach § 45b finden bei den Fürsorgeleistungen zur
-Pflege nach Absatz 3 Satz 1 keine Berücksichtigung.
+(3a) (weggefallen)
 
-(4) Treffen Pflegeleistungen mit Leistungen der Eingliederungshilfe
-oder mit weitergehenden Pflegeleistungen nach dem Zwölften Buch
-zusammen, sollen die Pflegekassen und der Träger der Sozialhilfe
-vereinbaren, daß im Verhältnis zum Pflegebedürftigen nur eine Stelle
-die Leistungen übernimmt und die andere Stelle die Kosten der von ihr
-zu tragenden Leistungen erstattet.
+(4) Treffen Leistungen der Pflegeversicherung und Leistungen der
+Eingliederungshilfe zusammen, vereinbaren mit Zustimmung des
+Leistungsberechtigten die zuständige Pflegekasse und der für die
+Eingliederungshilfe zuständige Träger,
+
+1.  dass im Verhältnis zum Pflegebedürftigen der für die
+    Eingliederungshilfe zuständige Träger die Leistungen der
+    Pflegeversicherung auf der Grundlage des von der Pflegekasse
+    erlassenen Leistungsbescheids zu übernehmen hat,
+
+
+2.  dass die zuständige Pflegekasse dem für die Eingliederungshilfe
+    zuständigen Träger die Kosten der von ihr zu tragenden Leistungen zu
+    erstatten hat sowie
+
+
+3.  die Modalitäten der Übernahme und der Durchführung der Leistungen
+    sowie der Erstattung.
+
+
+
+Die bestehenden Wunsch- und Wahlrechte der Leistungsberechtigten
+bleiben unberührt und sind zu beachten. Die Ausführung der Leistungen
+erfolgt nach den für den zuständigen Leistungsträger geltenden
+Rechtsvorschriften. Soweit auch Leistungen der Hilfe zur Pflege nach
+dem Zwölften Buch zu erbringen sind, ist der für die Hilfe zur Pflege
+zuständige Träger zu beteiligen. Der Spitzenverband Bund der
+Pflegekassen beschließt gemeinsam mit der Bundesarbeitsgemeinschaft
+der überörtlichen Träger der Sozialhilfe bis zum 1. Januar 2018 in
+einer Empfehlung Näheres zu den Modalitäten der Übernahme und der
+Durchführung der Leistungen sowie der Erstattung und zu der
+Beteiligung des für die Hilfe zur Pflege zuständigen Trägers. Die
+Länder, die kommunalen Spitzenverbände auf Bundesebene, die
+Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege, die
+Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, die
+Vereinigungen der Leistungserbringer der Eingliederungshilfe auf
+Bundesebene sowie die auf Bundesebene maßgeblichen Organisationen für
+die Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger
+und behinderter Menschen sind vor dem Beschluss anzuhören. Die
+Empfehlung bedarf der Zustimmung des Bundesministeriums für Gesundheit
+und des Bundesministeriums für Arbeit und Soziales.
+
+(4a) Bestehen im Einzelfall Anhaltspunkte für ein Zusammentreffen von
+Leistungen der Pflegeversicherung und Leistungen der
+Eingliederungshilfe, bezieht der für die Durchführung eines
+Teilhabeplanverfahrens oder Gesamtplanverfahrens verantwortliche
+Träger mit Zustimmung des Leistungsberechtigten die zuständige
+Pflegekasse in das Verfahren beratend mit ein, um die Vereinbarung
+nach Absatz 4 gemeinsam vorzubereiten.
+
+(4b) Die Regelungen nach Absatz 3 Satz 3, Absatz 4 und 4a werden bis
+zum 1. Juli 2019 evaluiert.
 
 (5) Die Leistungen der Pflegeversicherung bleiben als Einkommen bei
 Sozialleistungen und bei Leistungen nach dem
 Asylbewerberleistungsgesetz, deren Gewährung von anderen Einkommen
-abhängig ist, unberücksichtigt. Satz 1 gilt entsprechend bei
-Vertragsleistungen aus privaten Pflegeversicherungen, die der Art und
-dem Umfang nach den Leistungen der sozialen Pflegeversicherung
-gleichwertig sind. Rechtsvorschriften, die weitergehende oder
-ergänzende Leistungen aus einer privaten Pflegeversicherung von der
-Einkommensermittlung ausschließen, bleiben unberührt.
+abhängig ist, unberücksichtigt; dies gilt nicht für das
+Pflegeunterstützungsgeld gemäß § 44a Absatz 3. Satz 1 gilt
+entsprechend bei Vertragsleistungen aus privaten Pflegeversicherungen,
+die der Art und dem Umfang nach den Leistungen der sozialen
+Pflegeversicherung gleichwertig sind. Rechtsvorschriften, die
+weitergehende oder ergänzende Leistungen aus einer privaten
+Pflegeversicherung von der Einkommensermittlung ausschließen, bleiben
+unberührt.
 
 (6) Wird Pflegegeld nach § 37 oder eine vergleichbare Geldleistung an
 eine Pflegeperson (§ 19) weitergeleitet, bleibt dies bei der
@@ -638,130 +1126,256 @@ Pflegeperson unberücksichtigt. Dies gilt nicht
 
 ### § 14 Begriff der Pflegebedürftigkeit
 
-(1) Pflegebedürftig im Sinne dieses Buches sind Personen, die wegen
-einer körperlichen, geistigen oder seelischen Krankheit oder
-Behinderung für die gewöhnlichen und regelmäßig wiederkehrenden
-Verrichtungen im Ablauf des täglichen Lebens auf Dauer,
-voraussichtlich für mindestens sechs Monate, in erheblichem oder
-höherem Maße (§ 15) der Hilfe bedürfen.
+(1) Pflegebedürftig im Sinne dieses Buches sind Personen, die
+gesundheitlich bedingte Beeinträchtigungen der Selbständigkeit oder
+der Fähigkeiten aufweisen und deshalb der Hilfe durch andere bedürfen.
+Es muss sich um Personen handeln, die körperliche, kognitive oder
+psychische Beeinträchtigungen oder gesundheitlich bedingte Belastungen
+oder Anforderungen nicht selbständig kompensieren oder bewältigen
+können. Die Pflegebedürftigkeit muss auf Dauer, voraussichtlich für
+mindestens sechs Monate, und mit mindestens der in § 15 festgelegten
+Schwere bestehen.
 
-(2) Krankheiten oder Behinderungen im Sinne des Absatzes 1 sind:
+(2) Maßgeblich für das Vorliegen von gesundheitlich bedingten
+Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten sind die
+in den folgenden sechs Bereichen genannten pflegefachlich begründeten
+Kriterien:
 
-1.  Verluste, Lähmungen oder andere Funktionsstörungen am Stütz- und
-    Bewegungsapparat,
-
-
-2.  Funktionsstörungen der inneren Organe oder der Sinnesorgane,
-
-
-3.  Störungen des Zentralnervensystems wie Antriebs-, Gedächtnis- oder
-    Orientierungsstörungen sowie endogene Psychosen, Neurosen oder
-    geistige Behinderungen.
-
+1.  Mobilität: Positionswechsel im Bett, Halten einer stabilen
+    Sitzposition, Umsetzen, Fortbewegen innerhalb des Wohnbereichs,
+    Treppensteigen;
 
 
-
-(3) Die Hilfe im Sinne des Absatzes 1 besteht in der Unterstützung, in
-der teilweisen oder vollständigen Übernahme der Verrichtungen im
-Ablauf des täglichen Lebens oder in Beaufsichtigung oder Anleitung mit
-dem Ziel der eigenständigen Übernahme dieser Verrichtungen.
-
-(4) Gewöhnliche und regelmäßig wiederkehrende Verrichtungen im Sinne
-des Absatzes 1 sind:
-
-1.  im Bereich der Körperpflege das Waschen, Duschen, Baden, die
-    Zahnpflege, das Kämmen, Rasieren, die Darm- oder Blasenentleerung,
+2.  kognitive und kommunikative Fähigkeiten: Erkennen von Personen aus dem
+    näheren Umfeld, örtliche Orientierung, zeitliche Orientierung,
+    Erinnern an wesentliche Ereignisse oder Beobachtungen, Steuern von
+    mehrschrittigen Alltagshandlungen, Treffen von Entscheidungen im
+    Alltagsleben, Verstehen von Sachverhalten und Informationen, Erkennen
+    von Risiken und Gefahren, Mitteilen von elementaren Bedürfnissen,
+    Verstehen von Aufforderungen, Beteiligen an einem Gespräch;
 
 
-2.  im Bereich der Ernährung das mundgerechte Zubereiten oder die Aufnahme
-    der Nahrung,
+3.  Verhaltensweisen und psychische Problemlagen: motorisch geprägte
+    Verhaltensauffälligkeiten, nächtliche Unruhe, selbstschädigendes und
+    autoaggressives Verhalten, Beschädigen von Gegenständen, physisch
+    aggressives Verhalten gegenüber anderen Personen, verbale Aggression,
+    andere pflegerelevante vokale Auffälligkeiten, Abwehr pflegerischer
+    und anderer unterstützender Maßnahmen, Wahnvorstellungen, Ängste,
+    Antriebslosigkeit bei depressiver Stimmungslage, sozial inadäquate
+    Verhaltensweisen, sonstige pflegerelevante inadäquate Handlungen;
 
 
-3.  im Bereich der Mobilität das selbständige Aufstehen und Zu-Bett-Gehen,
-    An- und Auskleiden, Gehen, Stehen, Treppensteigen oder das Verlassen
-    und Wiederaufsuchen der Wohnung,
+4.  Selbstversorgung: Waschen des vorderen Oberkörpers, Körperpflege im
+    Bereich des Kopfes, Waschen des Intimbereichs, Duschen und Baden
+    einschließlich Waschen der Haare, An- und Auskleiden des Oberkörpers,
+    An- und Auskleiden des Unterkörpers, mundgerechtes Zubereiten der
+    Nahrung und Eingießen von Getränken, Essen, Trinken, Benutzen einer
+    Toilette oder eines Toilettenstuhls, Bewältigen der Folgen einer
+    Harninkontinenz und Umgang mit Dauerkatheter und Urostoma, Bewältigen
+    der Folgen einer Stuhlinkontinenz und Umgang mit Stoma, Ernährung
+    parenteral oder über Sonde, Bestehen gravierender Probleme bei der
+    Nahrungsaufnahme bei Kindern bis zu 18 Monaten, die einen
+    außergewöhnlich pflegeintensiven Hilfebedarf auslösen;
 
 
-4.  im Bereich der hauswirtschaftlichen Versorgung das Einkaufen, Kochen,
-    Reinigen der Wohnung, Spülen, Wechseln und Waschen der Wäsche und
-    Kleidung oder das Beheizen.
+5.  Bewältigung von und selbständiger Umgang mit krankheits- oder
+    therapiebedingten Anforderungen und Belastungen:
+
+    a)  in Bezug auf Medikation, Injektionen, Versorgung intravenöser Zugänge,
+        Absaugen und Sauerstoffgabe, Einreibungen sowie Kälte- und
+        Wärmeanwendungen, Messung und Deutung von Körperzuständen, körpernahe
+        Hilfsmittel,
 
 
+    b)  in Bezug auf Verbandswechsel und Wundversorgung, Versorgung mit Stoma,
+        regelmäßige Einmalkatheterisierung und Nutzung von Abführmethoden,
+        Therapiemaßnahmen in häuslicher Umgebung,
 
 
-
-### § 15 Stufen der Pflegebedürftigkeit
-
-(1) Für die Gewährung von Leistungen nach diesem Gesetz sind
-pflegebedürftige Personen (§ 14) einer der folgenden drei Pflegestufen
-zuzuordnen:
-
-1.  Pflegebedürftige der Pflegestufe I (erheblich Pflegebedürftige) sind
-    Personen, die bei der Körperpflege, der Ernährung oder der Mobilität
-    für wenigstens zwei Verrichtungen aus einem oder mehreren Bereichen
-    mindestens einmal täglich der Hilfe bedürfen und zusätzlich mehrfach
-    in der Woche Hilfen bei der hauswirtschaftlichen Versorgung benötigen.
+    c)  in Bezug auf zeit- und technikintensive Maßnahmen in häuslicher
+        Umgebung, Arztbesuche, Besuche anderer medizinischer oder
+        therapeutischer Einrichtungen, zeitlich ausgedehnte Besuche
+        medizinischer oder therapeutischer Einrichtungen, Besuch von
+        Einrichtungen zur Frühförderung bei Kindern sowie
 
 
-2.  Pflegebedürftige der Pflegestufe II (Schwerpflegebedürftige) sind
-    Personen, die bei der Körperpflege, der Ernährung oder der Mobilität
-    mindestens dreimal täglich zu verschiedenen Tageszeiten der Hilfe
-    bedürfen und zusätzlich mehrfach in der Woche Hilfen bei der
-    hauswirtschaftlichen Versorgung benötigen.
-
-
-3.  Pflegebedürftige der Pflegestufe III (Schwerstpflegebedürftige) sind
-    Personen, die bei der Körperpflege, der Ernährung oder der Mobilität
-    täglich rund um die Uhr, auch nachts, der Hilfe bedürfen und
-    zusätzlich mehrfach in der Woche Hilfen bei der hauswirtschaftlichen
-    Versorgung benötigen.
+    d)  in Bezug auf das Einhalten einer Diät oder anderer krankheits- oder
+        therapiebedingter Verhaltensvorschriften;
 
 
 
-Für die Gewährung von Leistungen nach § 43a reicht die Feststellung,
-daß die Voraussetzungen der Pflegestufe I erfüllt sind.
-
-(2) Bei Kindern ist für die Zuordnung der zusätzliche Hilfebedarf
-gegenüber einem gesunden gleichaltrigen Kind maßgebend.
-
-(3) Der Zeitaufwand, den ein Familienangehöriger oder eine andere
-nicht als Pflegekraft ausgebildete Pflegeperson für die erforderlichen
-Leistungen der Grundpflege und hauswirtschaftlichen Versorgung
-benötigt, muß wöchentlich im Tagesdurchschnitt
-
-1.  in der Pflegestufe I mindestens 90 Minuten betragen; hierbei müssen
-    auf die Grundpflege mehr als 45 Minuten entfallen,
 
 
-2.  in der Pflegestufe II mindestens drei Stunden betragen; hierbei müssen
-    auf die Grundpflege mindestens zwei Stunden entfallen,
-
-
-3.  in der Pflegestufe III mindestens fünf Stunden betragen; hierbei
-    müssen auf die Grundpflege mindestens vier Stunden entfallen.
+6.  Gestaltung des Alltagslebens und sozialer Kontakte: Gestaltung des
+    Tagesablaufs und Anpassung an Veränderungen, Ruhen und Schlafen,
+    Sichbeschäftigen, Vornehmen von in die Zukunft gerichteten Planungen,
+    Interaktion mit Personen im direkten Kontakt, Kontaktpflege zu
+    Personen außerhalb des direkten Umfelds.
 
 
 
-Bei der Feststellung des Zeitaufwandes ist ein Zeitaufwand für
-erforderliche verrichtungsbezogene krankheitsspezifische
-Pflegemaßnahmen zu berücksichtigen; dies gilt auch dann, wenn der
-Hilfebedarf zu Leistungen nach dem Fünften Buch führt.
-Verrichtungsbezogene krankheitsspezifische Pflegemaßnahmen sind
-Maßnahmen der Behandlungspflege, bei denen der behandlungspflegerische
-Hilfebedarf untrennbarer Bestandteil einer Verrichtung nach § 14 Abs.
-4 ist oder mit einer solchen Verrichtung notwendig in einem
-unmittelbaren zeitlichen und sachlichen Zusammenhang steht.
+
+(3) Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten, die
+dazu führen, dass die Haushaltsführung nicht mehr ohne Hilfe bewältigt
+werden kann, werden bei den Kriterien der in Absatz 2 genannten
+Bereiche berücksichtigt.
+
+
+### § 15 Ermittlung des Grades der Pflegebedürftigkeit, Begutachtungsinstrument
+
+(1) Pflegebedürftige erhalten nach der Schwere der Beeinträchtigungen
+der Selbständigkeit oder der Fähigkeiten einen Grad der
+Pflegebedürftigkeit (Pflegegrad). Der Pflegegrad wird mit Hilfe eines
+pflegefachlich begründeten Begutachtungsinstruments ermittelt.
+
+(2) Das Begutachtungsinstrument ist in sechs Module gegliedert, die
+den sechs Bereichen in § 14 Absatz 2 entsprechen. In jedem Modul sind
+für die in den Bereichen genannten Kriterien die in Anlage 1
+dargestellten Kategorien vorgesehen. Die Kategorien stellen die in
+ihnen zum Ausdruck kommenden verschiedenen Schweregrade der
+Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten dar. Den
+Kategorien werden in Bezug auf die einzelnen Kriterien pflegefachlich
+fundierte Einzelpunkte zugeordnet, die aus Anlage 1 ersichtlich sind.
+In jedem Modul werden die jeweils erreichbaren Summen aus
+Einzelpunkten nach den in Anlage 2 festgelegten Punktbereichen
+gegliedert. Die Summen der Punkte werden nach den in ihnen zum
+Ausdruck kommenden Schweregraden der Beeinträchtigungen der
+Selbständigkeit oder der Fähigkeiten wie folgt bezeichnet:
+
+1.  Punktbereich 0: keine Beeinträchtigungen der Selbständigkeit oder der
+    Fähigkeiten,
+
+
+2.  Punktbereich 1: geringe Beeinträchtigungen der Selbständigkeit oder
+    der Fähigkeiten,
+
+
+3.  Punktbereich 2: erhebliche Beeinträchtigungen der Selbständigkeit oder
+    der Fähigkeiten,
+
+
+4.  Punktbereich 3: schwere Beeinträchtigungen der Selbständigkeit oder
+    der Fähigkeiten und
+
+
+5.  Punktbereich 4: schwerste Beeinträchtigungen der Selbständigkeit oder
+    der Fähigkeiten.
+
+
+
+Jedem Punktbereich in einem Modul werden unter Berücksichtigung der in
+ihm zum Ausdruck kommenden Schwere der Beeinträchtigungen der
+Selbständigkeit oder der Fähigkeiten sowie der folgenden Gewichtung
+der Module die in Anlage 2 festgelegten, gewichteten Punkte
+zugeordnet. Die Module des Begutachtungsinstruments werden wie folgt
+gewichtet:
+
+1.  Mobilität mit 10 Prozent,
+
+
+2.  kognitive und kommunikative Fähigkeiten sowie Verhaltensweisen und
+    psychische Problemlagen zusammen mit 15 Prozent,
+
+
+3.  Selbstversorgung mit 40 Prozent,
+
+
+4.  Bewältigung von und selbständiger Umgang mit krankheits- oder
+    therapiebedingten Anforderungen und Belastungen mit 20 Prozent,
+
+
+5.  Gestaltung des Alltagslebens und sozialer Kontakte mit 15 Prozent.
+
+
+
+
+(3) Zur Ermittlung des Pflegegrades sind die bei der Begutachtung
+festgestellten Einzelpunkte in jedem Modul zu addieren und dem in
+Anlage 2 festgelegten Punktbereich sowie den sich daraus ergebenden
+gewichteten Punkten zuzuordnen. Den Modulen 2 und 3 ist ein
+gemeinsamer gewichteter Punkt zuzuordnen, der aus den höchsten
+gewichteten Punkten entweder des Moduls 2 oder des Moduls 3 besteht.
+Aus den gewichteten Punkten aller Module sind durch Addition die
+Gesamtpunkte zu bilden. Auf der Basis der erreichten Gesamtpunkte sind
+pflegebedürftige Personen in einen der nachfolgenden Pflegegrade
+einzuordnen:
+
+1.  ab 12,5 bis unter 27 Gesamtpunkten in den Pflegegrad 1: geringe
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten,
+
+
+2.  ab 27 bis unter 47,5 Gesamtpunkten in den Pflegegrad 2: erhebliche
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten,
+
+
+3.  ab 47,5 bis unter 70 Gesamtpunkten in den Pflegegrad 3: schwere
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten,
+
+
+4.  ab 70 bis unter 90 Gesamtpunkten in den Pflegegrad 4: schwerste
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten,
+
+
+5.  ab 90 bis 100 Gesamtpunkten in den Pflegegrad 5: schwerste
+    Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten mit
+    besonderen Anforderungen an die pflegerische Versorgung.
+
+
+
+
+(4) Pflegebedürftige mit besonderen Bedarfskonstellationen, die einen
+spezifischen, außergewöhnlich hohen Hilfebedarf mit besonderen
+Anforderungen an die pflegerische Versorgung aufweisen, können aus
+pflegefachlichen Gründen dem Pflegegrad 5 zugeordnet werden, auch wenn
+ihre Gesamtpunkte unter 90 liegen. Der Spitzenverband Bund der
+Pflegekassen konkretisiert in den Richtlinien nach § 17 Absatz 1 die
+pflegefachlich begründeten Voraussetzungen für solche besonderen
+Bedarfskonstellationen.
+
+(5) Bei der Begutachtung sind auch solche Kriterien zu
+berücksichtigen, die zu einem Hilfebedarf führen, für den Leistungen
+des Fünften Buches vorgesehen sind. Dies gilt auch für
+krankheitsspezifische Pflegemaßnahmen. Krankheitsspezifische
+Pflegemaßnahmen sind Maßnahmen der Behandlungspflege, bei denen der
+behandlungspflegerische Hilfebedarf aus medizinisch-pflegerischen
+Gründen regelmäßig und auf Dauer untrennbarer Bestandteil einer
+pflegerischen Maßnahme in den in § 14 Absatz 2 genannten sechs
+Bereichen ist oder mit einer solchen notwendig in einem unmittelbaren
+zeitlichen und sachlichen Zusammenhang steht.
+
+(6) Bei pflegebedürftigen Kindern wird der Pflegegrad durch einen
+Vergleich der Beeinträchtigungen ihrer Selbständigkeit und ihrer
+Fähigkeiten mit altersentsprechend entwickelten Kindern ermittelt. Im
+Übrigen gelten die Absätze 1 bis 5 entsprechend.
+
+(7) Pflegebedürftige Kinder im Alter bis zu 18 Monaten werden
+abweichend von den Absätzen 3, 4 und 6 Satz 2 wie folgt eingestuft:
+
+1.  ab 12,5 bis unter 27 Gesamtpunkten in den Pflegegrad 2,
+
+
+2.  ab 27 bis unter 47,5 Gesamtpunkten in den Pflegegrad 3,
+
+
+3.  ab 47,5 bis unter 70 Gesamtpunkten in den Pflegegrad 4,
+
+
+4.  ab 70 bis 100 Gesamtpunkten in den Pflegegrad 5.
+
+
+
 
 
 ### § 16 Verordnungsermächtigung
 
 Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Familie, Senioren, Frauen und Jugend und
-dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung
-mit Zustimmung des Bundesrates Vorschriften zur näheren Abgrenzung der
-in § 14 genannten Merkmale der Pflegebedürftigkeit, der Pflegestufen
-nach § 15 sowie zur Anwendung der Härtefallregelung des § 36 Abs. 4
-und des § 43 Abs. 3 zu erlassen.
+mit dem Bundesministerium für Familien, Senioren, Frauen und Jugend
+und dem Bundesministerium für Arbeit und Soziales durch
+Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zur
+pflegefachlichen Konkretisierung der Inhalte des
+Begutachtungsinstruments nach § 15 sowie zum Verfahren der
+Feststellung der Pflegebedürftigkeit nach § 18 zu erlassen. Es kann
+sich dabei von unabhängigen Sachverständigen beraten lassen.
 
 
 ### § 17 Richtlinien der Pflegekassen
@@ -769,46 +1383,103 @@ und des § 43 Abs. 3 zu erlassen.
 (1) Der Spitzenverband Bund der Pflegekassen erlässt mit dem Ziel,
 eine einheitliche Rechtsanwendung zu fördern, unter Beteiligung des
 Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen
-Richtlinien zur näheren Abgrenzung der in § 14 genannten Merkmale der
-Pflegebedürftigkeit, der Pflegestufen nach § 15 und zum Verfahren der
-Feststellung der Pflegebedürftigkeit. Er hat die Kassenärztliche
-Bundesvereinigung, die Bundesverbände der Pflegeberufe und der
-behinderten Menschen, die Bundesarbeitsgemeinschaft der Freien
-Wohlfahrtspflege, die Bundesarbeitsgemeinschaft der überörtlichen
-Träger der Sozialhilfe, die kommunalen Spitzenverbände auf
-Bundesebene, die Bundesverbände privater Alten- und Pflegeheime sowie
-die Verbände der privaten ambulanten Dienste zu beteiligen. Der
-Spitzenverband Bund der Pflegekassen erlässt unter Beteiligung des
-Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen
-Richtlinien zur Anwendung der Härtefallregelungen des § 36 Abs. 4 und
-des § 43 Abs. 3.
+Richtlinien zur pflegefachlichen Konkretisierung der Inhalte des
+Begutachtungsinstruments nach § 15 sowie zum Verfahren der
+Feststellung der Pflegebedürftigkeit nach § 18 (Begutachtungs-
+Richtlinien). Er hat dabei die Vereinigungen der Träger der
+Pflegeeinrichtungen auf Bundesebene, den Verband der privaten
+Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der
+überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände
+auf Bundesebene und die Verbände der Pflegeberufe auf Bundesebene zu
+beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen
+Informationen innerhalb einer angemessenen Frist vor der Entscheidung
+Gelegenheit zur Stellungnahme zu geben. Die Stellungnahmen sind in die
+Entscheidung einzubeziehen. Die maßgeblichen Organisationen für die
+Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen
+und behinderten Menschen wirken nach Maßgabe der nach § 118 Absatz 2
+erlassenen Verordnung beratend mit. § 118 Absatz 1 Satz 2 und 3 gilt
+entsprechend.
 
-(2) Die Richtlinien nach Absatz 1 werden erst wirksam, wenn das
-Bundesministerium für Gesundheit sie genehmigt. Die Genehmigung gilt
-als erteilt, wenn die Richtlinien nicht innerhalb eines Monats,
-nachdem sie dem Bundesministerium für Gesundheit vorgelegt worden
-sind, beanstandet werden. Beanstandungen des Bundesministeriums für
-Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben.
+(1a) Der Spitzenverband Bund der Pflegekassen erlässt unter
+Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der
+Krankenkassen bis zum 31. Juli 2018 Richtlinien zur einheitlichen
+Durchführung der Pflegeberatung nach § 7a, die für die Pflegeberater
+und Pflegeberaterinnen der Pflegekassen, der Beratungsstellen nach §
+7b Absatz 1 Satz 1 Nummer 2 sowie der Pflegestützpunkte nach § 7c
+unmittelbar verbindlich sind (Pflegeberatungs-Richtlinien). An den
+Richtlinien nach Satz 1 sind die Länder, der Verband der privaten
+Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der
+überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände
+auf Bundesebene, die Bundesarbeitsgemeinschaft der Freien
+Wohlfahrtspflege sowie die Verbände der Träger der Pflegeeinrichtungen
+auf Bundesebene zu beteiligen. Den Verbänden der Pflegeberufe auf
+Bundesebene, unabhängigen Sachverständigen sowie den maßgeblichen
+Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe
+der pflegebedürftigen und behinderten Menschen sowie ihrer Angehörigen
+ist Gelegenheit zur Stellungnahme zu geben.
+
+(1b) Der Spitzenverband Bund der Pflegekassen erlässt unter
+Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der
+Krankenkassen bis zum 30. November 2016 Richtlinien zur Feststellung
+des Zeitanteils, für den die Pflegeversicherung bei ambulant
+versorgten Pflegebedürftigen, die einen besonders hohen Bedarf an
+behandlungspflegerischen Leistungen haben und die Leistungen der
+häuslichen Pflegehilfe nach § 36 und der häuslichen Krankenpflege nach
+§ 37 Absatz 2 des Fünften Buches beziehen, die hälftigen Kosten zu
+tragen hat. Von den Leistungen der häuslichen Pflegehilfe nach § 36
+sind dabei nur Maßnahmen der körperbezogenen Pflege zu
+berücksichtigen. Im Übrigen gilt § 17 Absatz 1 Satz 2 bis 6
+entsprechend. Der Spitzenverband Bund der Pflegekassen gibt eine
+wissenschaftliche Evaluation der Richtlinien in Auftrag. Ein Bericht
+über die Ergebnisse der Evaluation ist bis zum 31. Dezember 2018 zu
+veröffentlichen.
+
+(2) Die Richtlinien nach den Absätzen 1, 1a und 1b werden erst
+wirksam, wenn das Bundesministerium für Gesundheit sie genehmigt. Die
+Genehmigung gilt als erteilt, wenn die Richtlinien nicht innerhalb
+eines Monats, nachdem sie dem Bundesministerium für Gesundheit
+vorgelegt worden sind, beanstandet werden. Beanstandungen des
+Bundesministeriums für Gesundheit sind innerhalb der von ihm gesetzten
+Frist zu beheben.
+
+
+### § 17a (weggefallen)
 
 
 ### § 18 Verfahren zur Feststellung der Pflegebedürftigkeit
 
 (1) Die Pflegekassen beauftragen den Medizinischen Dienst der
 Krankenversicherung oder andere unabhängige Gutachter mit der Prüfung,
-ob die Voraussetzungen der Pflegebedürftigkeit erfüllt sind und welche
-Stufe der Pflegebedürftigkeit vorliegt. Im Rahmen dieser Prüfungen
-haben der Medizinische Dienst oder die von der Pflegekasse
-beauftragten Gutachter durch eine Untersuchung des Antragstellers die
-Einschränkungen bei den Verrichtungen im Sinne des § 14 Abs. 4
-festzustellen sowie Art, Umfang und voraussichtliche Dauer der
-Hilfebedürftigkeit und das Vorliegen einer erheblich eingeschränkten
-Alltagskompetenz nach § 45a zu ermitteln. Darüber hinaus sind auch
-Feststellungen darüber zu treffen, ob und in welchem Umfang Maßnahmen
-zur Beseitigung, Minderung oder Verhütung einer Verschlimmerung der
-Pflegebedürftigkeit einschließlich der Leistungen zur medizinischen
-Rehabilitation geeignet, notwendig und zumutbar sind; insoweit haben
-Versicherte einen Anspruch gegen den zuständigen Träger auf Leistungen
-zur medizinischen Rehabilitation.
+ob die Voraussetzungen der Pflegebedürftigkeit erfüllt sind und
+welcher Pflegegrad vorliegt. Im Rahmen dieser Prüfungen haben der
+Medizinische Dienst oder die von der Pflegekasse beauftragten
+Gutachter durch eine Untersuchung des Antragstellers die
+Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten bei den in
+§ 14 Absatz 2 genannten Kriterien nach Maßgabe des § 15 sowie die
+voraussichtliche Dauer der Pflegebedürftigkeit zu ermitteln. Darüber
+hinaus sind auch Feststellungen darüber zu treffen, ob und in welchem
+Umfang Maßnahmen zur Beseitigung, Minderung oder Verhütung einer
+Verschlimmerung der Pflegebedürftigkeit einschließlich der Leistungen
+zur medizinischen Rehabilitation geeignet, notwendig und zumutbar
+sind; insoweit haben Versicherte einen Anspruch gegen den zuständigen
+Träger auf Leistungen zur medizinischen Rehabilitation. Jede
+Feststellung hat zudem eine Aussage darüber zu treffen, ob
+Beratungsbedarf insbesondere in der häuslichen Umgebung oder in der
+Einrichtung, in der der Anspruchsberechtigte lebt, hinsichtlich
+Leistungen zur verhaltensbezogenen Prävention nach § 20 Absatz 5 des
+Fünften Buches besteht.
+
+(1a) Die Pflegekassen können den Medizinischen Dienst der
+Krankenversicherung oder andere unabhängige Gutachter mit der Prüfung
+beauftragen, für welchen Zeitanteil die Pflegeversicherung bei
+ambulant versorgten Pflegebedürftigen, die einen besonders hohen
+Bedarf an behandlungspflegerischen Leistungen haben und die Leistungen
+der häuslichen Pflegehilfe nach § 36 und der häuslichen Krankenpflege
+nach § 37 Absatz 2 des Fünften Buches beziehen, die hälftigen Kosten
+zu tragen hat. Von den Leistungen der häuslichen Pflegehilfe nach § 36
+sind nur Maßnahmen der körperbezogenen Pflege zu berücksichtigen. Bei
+der Prüfung des Zeitanteils sind die Richtlinien nach § 17 Absatz 1b
+zu beachten.
 
 (2) Der Medizinische Dienst oder die von der Pflegekasse beauftragten
 Gutachter haben den Versicherten in seinem Wohnbereich zu untersuchen.
@@ -820,10 +1491,43 @@ einer eindeutigen Aktenlage das Ergebnis der medizinischen
 Untersuchung bereits feststeht. Die Untersuchung ist in angemessenen
 Zeitabständen zu wiederholen.
 
+(2a) Bei pflegebedürftigen Versicherten werden vom 1. Juli 2016 bis
+zum 31. Dezember 2016 keine Wiederholungsbegutachtungen nach Absatz 2
+Satz 5 durchgeführt, auch dann nicht, wenn die
+Wiederholungsbegutachtung vor diesem Zeitpunkt vom Medizinischen
+Dienst der Krankenversicherung oder anderen unabhängigen Gutachtern
+empfohlen wurde. Abweichend von Satz 1 können
+Wiederholungsbegutachtungen durchgeführt werden, wenn eine
+Verringerung des Hilfebedarfs, insbesondere aufgrund von
+durchgeführten Operationen oder Rehabilitationsmaßnahmen, zu erwarten
+ist.
+
+(2b) Die Frist nach Absatz 3 Satz 2 ist vom 1. November 2016 bis zum
+31\. Dezember 2016 unbeachtlich. Abweichend davon ist einem
+Antragsteller, der ab dem 1. November 2016 einen Antrag auf Leistungen
+der Pflegeversicherung stellt und bei dem ein besonders dringlicher
+Entscheidungsbedarf vorliegt, spätestens 25 Arbeitstage nach Eingang
+des Antrags bei der zuständigen Pflegekasse die Entscheidung der
+Pflegekasse schriftlich mitzuteilen. Der Spitzenverband Bund der
+Pflegekassen entwickelt bundesweit einheitliche Kriterien für das
+Vorliegen, die Gewichtung und die Feststellung eines besonders
+dringlichen Entscheidungsbedarfs. Die Pflegekassen und die privaten
+Versicherungsunternehmen berichten in der nach Absatz 3b Satz 4 zu
+veröffentlichenden Statistik auch über die Anwendung der Kriterien zum
+Vorliegen und zur Feststellung eines besonders dringlichen
+Entscheidungsbedarfs.
+
+(2c) Abweichend von Absatz 3a Satz 1 Nummer 2 ist die Pflegekasse vom
+1\. November 2016 bis zum 31. Dezember 2016 nur bei Vorliegen eines
+besonders dringlichen Entscheidungsbedarfs gemäß Absatz 2b dazu
+verpflichtet, dem Antragsteller mindestens drei unabhängige Gutachter
+zur Auswahl zu benennen, wenn innerhalb von 20 Arbeitstagen nach
+Antragstellung keine Begutachtung erfolgt ist.
+
 (3) Die Pflegekasse leitet die Anträge zur Feststellung von
 Pflegebedürftigkeit unverzüglich an den Medizinischen Dienst der
 Krankenversicherung oder die von der Pflegekasse beauftragten
-Gutachter weiter. Dem Antragsteller ist spätestens fünf Wochen nach
+Gutachter weiter. Dem Antragsteller ist spätestens 25 Arbeitstage nach
 Eingang des Antrags bei der zuständigen Pflegekasse die Entscheidung
 der Pflegekasse schriftlich mitzuteilen. Befindet sich der
 Antragsteller im Krankenhaus oder in einer stationären
@@ -867,29 +1571,59 @@ Empfehlung nur die Feststellung beinhalten, ob Pflegebedürftigkeit im
 Sinne der §§ 14 und 15 vorliegt. Die Entscheidung der Pflegekasse ist
 dem Antragsteller unverzüglich nach Eingang der Empfehlung des
 Medizinischen Dienstes oder der beauftragten Gutachter bei der
-Pflegekasse schriftlich mitzuteilen. Der Antragsteller hat ein Recht
-darauf, dass mit dem Bescheid das Gutachten übermittelt wird. Bei der
-Begutachtung ist zu erfassen, ob der Antragsteller von diesem Recht
-Gebrauch machen will. Der Antragsteller kann die Übermittlung des
-Gutachtens auch zu einem späteren Zeitpunkt verlangen.
+Pflegekasse schriftlich mitzuteilen. Der Antragsteller ist bei der
+Begutachtung auf die maßgebliche Bedeutung des Gutachtens insbesondere
+für eine umfassende Beratung, das Erstellen eines individuellen
+Versorgungsplans nach § 7a, das Versorgungsmanagement nach § 11 Absatz
+4 des Fünften Buches und für die Pflegeplanung hinzuweisen. Das
+Gutachten wird dem Antragsteller durch die Pflegekasse übersandt,
+sofern er der Übersendung nicht widerspricht. Das Ergebnis des
+Gutachtens ist transparent darzustellen und dem Antragsteller
+verständlich zu erläutern. Der Spitzenverband Bund der Pflegekassen
+konkretisiert in den Richtlinien nach § 17 Absatz 1 die Anforderungen
+an eine transparente Darstellungsweise und verständliche Erläuterung
+des Gutachtens. Der Antragsteller kann die Übermittlung des Gutachtens
+auch zu einem späteren Zeitpunkt verlangen.
 
-(3a) Tritt zukünftig in Kraft
+(3a) Die Pflegekasse ist verpflichtet, dem Antragsteller mindestens
+drei unabhängige Gutachter zur Auswahl zu benennen,
+
+1.  soweit nach Absatz 1 unabhängige Gutachter mit der Prüfung beauftragt
+    werden sollen oder
+
+
+2.  wenn innerhalb von 20 Arbeitstagen ab Antragstellung keine
+    Begutachtung erfolgt ist.
+
+
+
+Auf die Qualifikation und Unabhängigkeit des Gutachters ist der
+Versicherte hinzuweisen. Hat sich der Antragsteller für einen
+benannten Gutachter entschieden, wird dem Wunsch Rechnung getragen.
+Der Antragsteller hat der Pflegekasse seine Entscheidung innerhalb
+einer Woche ab Kenntnis der Namen der Gutachter mitzuteilen, ansonsten
+kann die Pflegekasse einen Gutachter aus der übersandten Liste
+beauftragen. Die Gutachter sind bei der Wahrnehmung ihrer Aufgaben nur
+ihrem Gewissen unterworfen. Satz 1 Nummer 2 gilt nicht, wenn die
+Pflegekasse die Verzögerung nicht zu vertreten hat.
 
 (3b) Erteilt die Pflegekasse den schriftlichen Bescheid über den
-Antrag nicht innerhalb von fünf Wochen nach Eingang des Antrags oder
-wird eine der in Absatz 3 genannten verkürzten Begutachtungsfristen
-nicht eingehalten, hat die Pflegekasse nach Fristablauf für jede
-begonnene Woche der Fristüberschreitung unverzüglich 70 Euro an den
-Antragsteller zu zahlen. Dies gilt nicht, wenn die Pflegekasse die
-Verzögerung nicht zu vertreten hat oder wenn sich der Antragsteller in
-stationärer Pflege befindet und bereits als mindestens erheblich
-pflegebedürftig (mindestens Pflegestufe I) anerkannt ist.
+Antrag nicht innerhalb von 25 Arbeitstagen nach Eingang des Antrags
+oder wird eine der in Absatz 3 genannten verkürzten
+Begutachtungsfristen nicht eingehalten, hat die Pflegekasse nach
+Fristablauf für jede begonnene Woche der Fristüberschreitung
+unverzüglich 70 Euro an den Antragsteller zu zahlen. Dies gilt nicht,
+wenn die Pflegekasse die Verzögerung nicht zu vertreten hat oder wenn
+sich der Antragsteller in vollstationärer Pflege befindet und bereits
+bei ihm mindestens erhebliche Beeinträchtigungen der Selbständigkeit
+oder der Fähigkeiten (mindestens Pflegegrad 2) festgestellt ist.
 Entsprechendes gilt für die privaten Versicherungsunternehmen, die die
 private Pflege-Pflichtversicherung durchführen. Die Träger der
 Pflegeversicherung und die privaten Versicherungsunternehmen
 veröffentlichen jährlich jeweils bis zum 31. März des dem Berichtsjahr
 folgenden Jahres eine Statistik über die Einhaltung der Fristen nach
-Absatz 3.
+Absatz 3. Die Sätze 1 bis 3 finden vom 1. November 2016 bis 31.
+Dezember 2017 keine Anwendung.
 
 (4) Der Medizinische Dienst oder die von der Pflegekasse beauftragten
 Gutachter sollen, soweit der Versicherte einwilligt, die behandelnden
@@ -907,21 +1641,81 @@ beauftragten Gutachtern die für die Begutachtung erforderlichen
 Unterlagen vorzulegen und Auskünfte zu erteilen. § 276 Abs. 1 Satz 2
 und 3 des Fünften Buches gilt entsprechend.
 
-(6) Der Medizinische Dienst der Krankenversicherung oder die von der
-Pflegekasse beauftragten Gutachter haben der Pflegekasse das Ergebnis
-seiner oder ihrer Prüfung zur Feststellung der Pflegebedürftigkeit
-unverzüglich zu übermitteln. In seiner oder ihrer Stellungnahme haben
-der Medizinische Dienst oder die von der Pflegekasse beauftragten
-Gutachter auch das Ergebnis der Prüfung, ob und gegebenenfalls welche
-Maßnahmen der Prävention und der medizinischen Rehabilitation
-geeignet, notwendig und zumutbar sind, mitzuteilen und Art und Umfang
-von Pflegeleistungen sowie einen individuellen Pflegeplan zu
-empfehlen. Die Feststellungen zur medizinischen Rehabilitation sind
-durch den Medizinischen Dienst oder die von der Pflegekasse
-beauftragten Gutachter in einer gesonderten Rehabilitationsempfehlung
-zu dokumentieren. Beantragt der Pflegebedürftige Pflegegeld, hat sich
-die Stellungnahme auch darauf zu erstrecken, ob die häusliche Pflege
-in geeigneter Weise sichergestellt ist.
+(5a) Bei der Begutachtung sind darüber hinaus die Beeinträchtigungen
+der Selbständigkeit oder der Fähigkeiten in den Bereichen
+außerhäusliche Aktivitäten und Haushaltsführung festzustellen. Mit
+diesen Informationen sollen eine umfassende Beratung und das Erstellen
+eines individuellen Versorgungsplans nach § 7a, das
+Versorgungsmanagement nach § 11 Absatz 4 des Fünften Buches und eine
+individuelle Pflegeplanung sowie eine sachgerechte Erbringung von
+Hilfen bei der Haushaltsführung ermöglicht werden. Hierbei ist im
+Einzelnen auf die nachfolgenden Kriterien abzustellen:
+
+1.  außerhäusliche Aktivitäten: Verlassen des Bereichs der Wohnung oder
+    der Einrichtung, Fortbewegen außerhalb der Wohnung oder der
+    Einrichtung, Nutzung öffentlicher Verkehrsmittel im Nahverkehr,
+    Mitfahren in einem Kraftfahrzeug, Teilnahme an kulturellen, religiösen
+    oder sportlichen Veranstaltungen, Besuch von Schule, Kindergarten,
+    Arbeitsplatz, einer Werkstatt für behinderte Menschen oder Besuch
+    einer Einrichtung der Tages- oder Nachtpflege oder eines
+    Tagesbetreuungsangebotes, Teilnahme an sonstigen Aktivitäten mit
+    anderen Menschen;
+
+
+2.  Haushaltsführung: Einkaufen für den täglichen Bedarf, Zubereitung
+    einfacher Mahlzeiten, einfache Aufräum- und Reinigungsarbeiten,
+    aufwändige Aufräum- und Reinigungsarbeiten einschließlich
+    Wäschepflege, Nutzung von Dienstleistungen, Umgang mit finanziellen
+    Angelegenheiten, Umgang mit Behördenangelegenheiten.
+
+
+
+Der Spitzenverband Bund der Pflegekassen wird ermächtigt, in den
+Richtlinien nach § 17 Absatz 1 die in Satz 3 genannten Kriterien
+pflegefachlich unter Berücksichtigung der Ziele nach Satz 2 zu
+konkretisieren.
+
+(6) Der Medizinische Dienst der Krankenversicherung oder ein von der
+Pflegekasse beauftragter Gutachter hat der Pflegekasse das Ergebnis
+seiner Prüfung zur Feststellung der Pflegebedürftigkeit durch
+Übersendung des vollständigen Gutachtens unverzüglich mitzuteilen. In
+seiner oder ihrer Stellungnahme haben der Medizinische Dienst oder die
+von der Pflegekasse beauftragten Gutachter auch das Ergebnis der
+Prüfung, ob und gegebenenfalls welche Maßnahmen der Prävention und der
+medizinischen Rehabilitation geeignet, notwendig und zumutbar sind,
+mitzuteilen und Art und Umfang von Pflegeleistungen sowie einen
+individuellen Pflegeplan zu empfehlen. Die Feststellungen zur
+Prävention und zur medizinischen Rehabilitation sind durch den
+Medizinischen Dienst oder die von der Pflegekasse beauftragten
+Gutachter auf der Grundlage eines bundeseinheitlichen, strukturierten
+Verfahrens zu treffen und in einer gesonderten Präventions- und
+Rehabilitationsempfehlung zu dokumentieren. Beantragt der
+Pflegebedürftige Pflegegeld, hat sich die Stellungnahme auch darauf zu
+erstrecken, ob die häusliche Pflege in geeigneter Weise sichergestellt
+ist.
+
+(6a) Der Medizinische Dienst der Krankenversicherung oder die von der
+Pflegekasse beauftragten Gutachter haben gegenüber der Pflegekasse in
+ihrem Gutachten zur Feststellung der Pflegebedürftigkeit konkrete
+Empfehlungen zur Hilfsmittel- und Pflegehilfsmittelversorgung
+abzugeben. Die Empfehlungen gelten hinsichtlich Hilfsmitteln und
+Pflegehilfsmitteln, die den Zielen von § 40 dienen, jeweils als Antrag
+auf Leistungsgewährung, sofern der Versicherte zustimmt. Die
+Zustimmung erfolgt gegenüber dem Gutachter im Rahmen der Begutachtung
+und wird im Begutachtungsformular schriftlich dokumentiert. Bezüglich
+der empfohlenen Pflegehilfsmittel wird die Notwendigkeit der
+Versorgung nach § 40 Absatz 1 Satz 2 vermutet. Bis zum 31. Dezember
+2020 wird auch die Erforderlichkeit der empfohlenen Hilfsmittel, die
+den Zielen von § 40 dienen, nach § 33 Absatz 1 des Fünften Buches
+vermutet; insofern bedarf es keiner ärztlichen Verordnung gemäß § 33
+Absatz 5a des Fünften Buches. Welche Hilfsmittel und Pflegehilfsmittel
+im Sinne von Satz 2 den Zielen von § 40 dienen, wird in den
+Begutachtungs-Richtlinien nach § 17 konkretisiert. Dabei ist auch die
+Richtlinie des Gemeinsamen Bundesausschusses nach § 92 Absatz 1 des
+Fünften Buches über die Verordnung von Hilfsmitteln zu
+berücksichtigen. Die Pflegekasse übermittelt dem Antragsteller
+unverzüglich die Entscheidung über die empfohlenen Hilfsmittel und
+Pflegehilfsmittel.
 
 (7) Die Aufgaben des Medizinischen Dienstes werden durch Ärzte in
 enger Zusammenarbeit mit Pflegefachkräften und anderen geeigneten
@@ -932,7 +1726,7 @@ Gesundheits- und Kinderkrankenpfleger oder als Kinderärztin oder
 Kinderarzt vorzunehmen. Der Medizinische Dienst ist befugt, den
 Pflegefachkräften oder sonstigen geeigneten Fachkräften, die nicht dem
 Medizinischen Dienst angehören, die für deren jeweilige Beteiligung
-erforderlichen personenbezogenen Daten zu übermitteln.Für andere
+erforderlichen personenbezogenen Daten zu übermitteln. Für andere
 unabhängige Gutachter gelten die Sätze 1 bis 3 entsprechend.
 
 
@@ -940,23 +1734,25 @@ unabhängige Gutachter gelten die Sätze 1 bis 3 entsprechend.
 
 (1) Spätestens mit der Mitteilung der Entscheidung über die
 Pflegebedürftigkeit leitet die Pflegekasse dem Antragsteller die
-gesonderte Rehabilitationsempfehlung des Medizinischen Dienstes oder
-der von der Pflegekasse beauftragten Gutachter zu und nimmt umfassend
-und begründet dazu Stellung, inwieweit auf der Grundlage der
-Empfehlung die Durchführung einer Maßnahme zur medizinischen
-Rehabilitation angezeigt ist. Die Pflegekasse hat den Antragsteller
-zusätzlich darüber zu informieren, dass mit der Zuleitung einer
-Mitteilung über den Rehabilitationsbedarf an den zuständigen
-Rehabilitationsträger ein Antragsverfahren auf Leistungen zur
-medizinischen Rehabilitation entsprechend den Vorschriften des Neunten
-Buches ausgelöst wird, sofern der Antragsteller in dieses Verfahren
-einwilligt.
+gesonderte Präventions- und Rehabilitationsempfehlung des
+Medizinischen Dienstes oder der von der Pflegekasse beauftragten
+Gutachter zu und nimmt umfassend und begründet dazu Stellung,
+inwieweit auf der Grundlage der Empfehlung die Durchführung einer
+Maßnahme zur Prävention oder zur medizinischen Rehabilitation
+angezeigt ist. Die Pflegekasse hat den Antragsteller zusätzlich
+darüber zu informieren, dass mit der Zuleitung einer Mitteilung über
+den Rehabilitationsbedarf an den zuständigen Rehabilitationsträger ein
+Antragsverfahren auf Leistungen zur medizinischen Rehabilitation
+entsprechend den Vorschriften des Neunten Buches ausgelöst wird,
+sofern der Antragsteller in dieses Verfahren einwilligt.
 
-(2) Die Pflegekassen berichten für die Geschäftsjahre 2013 bis 2015
-jährlich über die Erfahrungen mit der Umsetzung der Empfehlungen der
-Medizinischen Dienste der Krankenversicherung oder der beauftragten
-Gutachter zur medizinischen Rehabilitation. Hierzu wird insbesondere
-Folgendes gemeldet:
+(2) Die Pflegekassen berichten für die Geschäftsjahre 2013 bis 2018
+jährlich über die Anwendung eines bundeseinheitlichen, strukturierten
+Verfahrens zur Erkennung rehabilitativer Bedarfe in der
+Pflegebegutachtung und die Erfahrungen mit der Umsetzung der
+Empfehlungen der Medizinischen Dienste der Krankenversicherung oder
+der beauftragten Gutachter zur medizinischen Rehabilitation. Hierzu
+wird insbesondere Folgendes gemeldet:
 
 1.  die Anzahl der Empfehlungen der Medizinischen Dienste der
     Krankenversicherung und der beauftragten Gutachter für Leistungen der
@@ -1037,13 +1833,81 @@ werden. Beanstandungen des Bundesministeriums für Gesundheit sind
 innerhalb der von ihm gesetzten Frist zu beheben.
 
 
+### § 18c Fachliche und wissenschaftliche Begleitung der Umstellung des Verfahrens zur Feststellung der Pflegebedürftigkeit
+
+(1) Das Bundesministerium für Gesundheit richtet im Benehmen mit dem
+Bundesministerium für Arbeit und Soziales und dem Bundesministerium
+für Familie, Senioren, Frauen und Jugend ein Begleitgremium ein, das
+die Vorbereitung der Umstellung des Verfahrens zur Feststellung der
+Pflegebedürftigkeit nach den §§ 14, 15 und 18 Absatz 5a in der ab dem
+1\. Januar 2017 geltenden Fassung mit pflegefachlicher und
+wissenschaftlicher Kompetenz unterstützt. Aufgabe des Begleitgremiums
+ist, das Bundesministerium für Gesundheit bei der Klärung fachlicher
+Fragen zu beraten und den Spitzenverband Bund der Pflegekassen, den
+Medizinischen Dienst des Spitzenverbandes Bund der Krankenkassen sowie
+die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene
+bei der Vorbereitung der Umstellung zu unterstützen. Dem
+Begleitgremium wird ab dem 1. Januar 2017 zusätzlich die Aufgabe
+übertragen, das Bundesministerium für Gesundheit bei der Klärung
+fachlicher Fragen zu beraten, die nach der Umstellung im Zuge der
+Umsetzung auftreten.
+
+(2) Das Bundesministerium für Gesundheit beauftragt eine begleitende
+wissenschaftliche Evaluation insbesondere zu Maßnahmen und Ergebnissen
+der Vorbereitung und der Umsetzung der Umstellung des Verfahrens zur
+Feststellung der Pflegebedürftigkeit nach den §§ 14, 15 und 18 Absatz
+5a in der ab dem 1. Januar 2017 geltenden Fassung. Die
+Auftragserteilung erfolgt im Benehmen mit dem Bundesministerium für
+Arbeit und Soziales, soweit Auswirkungen auf andere
+Sozialleistungssysteme aus dem Zuständigkeitsbereich des
+Bundesministeriums für Arbeit und Soziales untersucht werden. Im
+Rahmen der Evaluation sind insbesondere Erfahrungen und Auswirkungen
+hinsichtlich der folgenden Aspekte zu untersuchen:
+
+1.  Leistungsentscheidungsverfahren und Leistungsentscheidungen bei
+    Pflegekassen und Medizinischen Diensten, beispielsweise
+    Bearbeitungsfristen und Übermittlung von Ergebnissen;
+
+
+2.  Umsetzung der Übergangsregelungen im Begutachtungsverfahren;
+
+
+3.  Leistungsentscheidungsverfahren und Leistungsentscheidungen anderer
+    Sozialleistungsträger, soweit diese pflegebedürftige Personen
+    betreffen;
+
+
+4.  Umgang mit dem neuen Begutachtungsinstrument bei pflegebedürftigen
+    Antragstellern, beispielsweise Antragsverhalten und Informationsstand;
+
+
+5.  Entwicklung der ambulanten Pflegevergütungen und der stationären
+    Pflegesätze einschließlich der einrichtungseinheitlichen Eigenanteile;
+
+
+6.  Entwicklungen in den vertraglichen Grundlagen, in der Pflegeplanung,
+    den pflegefachlichen Konzeptionen und in der konkreten
+    Versorgungssituation in der ambulanten und in der stationären Pflege
+    unter Berücksichtigung unterschiedlicher Gruppen von Pflegebedürftigen
+    und Versorgungskonstellationen einschließlich derjenigen von
+    pflegebedürftigen Personen, die im Rahmen der Eingliederungshilfe für
+    behinderte Menschen versorgt werden.
+
+
+
+Ein Bericht über die Ergebnisse der Evaluation ist bis zum 1. Januar
+2020 zu veröffentlichen. Dem Bundesministerium für Gesundheit sind auf
+Verlangen Zwischenberichte vorzulegen.
+
+
 ### § 19 Begriff der Pflegepersonen
 
 Pflegepersonen im Sinne dieses Buches sind Personen, die nicht
 erwerbsmäßig einen Pflegebedürftigen im Sinne des § 14 in seiner
 häuslichen Umgebung pflegen. Leistungen zur sozialen Sicherung nach §
-44 erhält eine Pflegeperson nur dann, wenn sie eine pflegebedürftige
-Person wenigstens 14 Stunden wöchentlich pflegt.
+44 erhält eine Pflegeperson nur dann, wenn sie eine oder mehrere
+pflegebedürftige Personen wenigstens zehn Stunden wöchentlich,
+verteilt auf regelmäßig mindestens zwei Tage in der Woche, pflegt.
 
 
 ## Drittes Kapitel - Versicherungspflichtiger Personenkreis
@@ -1063,17 +1927,18 @@ Krankenversicherung. Dies sind:
 
 
 2.  Personen in der Zeit, für die sie Arbeitslosengeld nach dem Dritten
-    Buch beziehen, auch wenn die Entscheidung, die zum Bezug der Leistung
-    geführt hat, rückwirkend aufgehoben oder die Leistung zurückgefordert
-    oder zurückgezahlt worden ist; ab Beginn des zweiten Monats bis zur
-    zwölften Woche einer Sperrzeit (§ 159 des Dritten Buches) oder ab
-    Beginn des zweiten Monats der Ruhenszeit wegen einer Urlaubsabgeltung
-    (§ 157 Absatz 2 des Dritten Buches) gelten die Leistungen als bezogen,
+    Buch beziehen oder nur deshalb nicht beziehen, weil der Anspruch wegen
+    einer Sperrzeit (§ 159 des Dritten Buches) oder wegen einer
+    Urlaubsabgeltung (§ 157 Absatz 2 des Dritten Buches) ruht; dies gilt
+    auch, wenn die Entscheidung, die zum Bezug der Leistung geführt hat,
+    rückwirkend aufgehoben oder die Leistung zurückgefordert oder
+    zurückgezahlt worden ist,
 
 
 2a. Personen in der Zeit, für die sie Arbeitslosengeld II nach dem Zweiten
-    Buch beziehen, soweit sie in der gesetzlichen Krankenversicherung
-    nicht familienversichert sind, es sei denn, dass diese Leistung nur
+    Buch beziehen, auch wenn die Entscheidung, die zum Bezug der Leistung
+    geführt hat, rückwirkend aufgehoben oder die Leistung zurückgefordert
+    oder zurückgezahlt worden ist, es sei denn, dass diese Leistung nur
     darlehensweise gewährt wird oder nur Leistungen nach § 24 Absatz 3
     Satz 1 des Zweiten Buches bezogen werden,
 
@@ -1098,8 +1963,9 @@ Krankenversicherung. Dies sind:
 
 
 7.  behinderte Menschen, die in anerkannten Werkstätten für behinderte
-    Menschen oder in Blindenwerkstätten im Sinne des § 143 des Neunten
-    Buches oder für diese Einrichtungen in Heimarbeit tätig sind,
+    Menschen oder in Blindenwerkstätten im Sinne des § 226 des Neunten
+    Buches oder für diese Einrichtungen in Heimarbeit oder bei einem
+    anderen Leistungsanbieter nach § 60 des Neunten Buches tätig sind,
 
 
 8.  Behinderte Menschen, die in Anstalten, Heimen oder gleichartigen
@@ -1126,7 +1992,7 @@ Krankenversicherung. Dies sind:
 
 11. Personen, die die Voraussetzungen für den Anspruch auf eine Rente aus
     der gesetzlichen Rentenversicherung erfüllen und diese Rente beantragt
-    haben, soweit sie nach § 5 Abs. 1 Nr. 11, 11a oder 12 des Fünften
+    haben, soweit sie nach § 5 Abs. 1 Nr. 11, 11a, 11b oder 12 des Fünften
     Buches der Krankenversicherungspflicht unterliegen,
 
 
@@ -1297,7 +2163,7 @@ Pflegeversicherung betreibendes Versicherungsunternehmen sind
 verpflichtet,
 
 1.  für die Feststellung der Pflegebedürftigkeit sowie für die Zuordnung
-    zu einer Pflegestufe dieselben Maßstäbe wie in der sozialen
+    zu einem Pflegegrad dieselben Maßstäbe wie in der sozialen
     Pflegeversicherung anzulegen und
 
 
@@ -1346,7 +2212,7 @@ diese Familienangehörigen
     bei Renten wird der Zahlbetrag ohne den auf Entgeltpunkte für
     Kindererziehungszeiten entfallenden Teil berücksichtigt; für
     geringfügig Beschäftigte nach § 8 Abs. 1 Nr. 1, § 8a des Vierten
-    Buches beträgt das zulässige Gesamteinkommen 400 Euro.
+    Buches beträgt das zulässige Gesamteinkommen 450 Euro.
 
 
 
@@ -1372,8 +2238,8 @@ Fünften Buches gelten entsprechend.
     besteht die Versicherung auch für einen der Dauer dieses Dienstes
     entsprechenden Zeitraum über das 25. Lebensjahr hinaus; dies gilt ab
     dem 1. Juli 2011 auch bei einer Unterbrechung durch den freiwilligen
-    Wehrdienst nach Abschnitt 7 des Wehrpflichtgesetzes, einen
-    Freiwilligendienst nach dem Bundesfreiwilligendienstgesetz, dem
+    Wehrdienst nach § 58b des Soldatengesetzes, einen Freiwilligendienst
+    nach dem Bundesfreiwilligendienstgesetz, dem
     Jugendfreiwilligendienstegesetz oder einen vergleichbaren anerkannten
     Freiwilligendienst oder durch eine Tätigkeit als Entwicklungshelfer im
     Sinne des § 1 Absatz 1 des Entwicklungshelfer-Gesetzes für die Dauer
@@ -1544,20 +2410,27 @@ wenn für sie eine Familienversicherung nach § 25 eintritt. § 5 Absatz
     Menschen (§ 43a),
 
 
+9a. Zusätzliche Betreuung und Aktivierung in stationären
+    Pflegeeinrichtungen (§ 43b),
+
+
 10. Leistungen zur sozialen Sicherung der Pflegepersonen (§ 44),
 
 
-11. zusätzliche Leistungen bei Pflegezeit (§ 44a),
+11. zusätzliche Leistungen bei Pflegezeit und kurzzeitiger
+    Arbeitsverhinderung (§ 44a),
 
 
 12. Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen (§ 45),
 
 
-13. zusätzliche Betreuungsleistungen (§ 45b),
+12a. Umwandlung des ambulanten Sachleistungsbetrags (§ 45a),
 
 
-14. Leistungen des Persönlichen Budgets nach § 17 Abs. 2 bis 4 des Neunten
-    Buches,
+13. Entlastungsbetrag (§ 45b),
+
+
+14. Leistungen des Persönlichen Budgets nach § 29 des Neunten Buches,
 
 
 15. zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten
@@ -1583,12 +2456,59 @@ Hälfte; dies gilt auch für den Wert von Sachleistungen.
 daß die Leistungen nach Absatz 1 nach allgemein anerkanntem Stand
 medizinisch-pflegerischer Erkenntnisse erbracht werden.
 
-(4) Die Pflege soll auch die Aktivierung des Pflegebedürftigen zum
-Ziel haben, um vorhandene Fähigkeiten zu erhalten und, soweit dies
-möglich ist, verlorene Fähigkeiten zurückzugewinnen. Um der Gefahr
-einer Vereinsamung des Pflegebedürftigen entgegenzuwirken, sollen bei
-der Leistungserbringung auch die Bedürfnisse des Pflegebedürftigen
-nach Kommunikation berücksichtigt werden.
+(4) Pflege schließt Sterbebegleitung mit ein; Leistungen anderer
+Sozialleistungsträger bleiben unberührt.
+
+
+#### § 28a Leistungen bei Pflegegrad 1
+
+(1) Abweichend von § 28 Absatz 1 und 1a gewährt die Pflegeversicherung
+bei Pflegegrad 1 folgende Leistungen:
+
+1.  Pflegeberatung gemäß den §§ 7a und 7b,
+
+
+2.  Beratung in der eigenen Häuslichkeit gemäß § 37 Absatz 3,
+
+
+3.  zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten
+    Wohngruppen gemäß § 38a, ohne dass § 38a Absatz 1 Satz 1 Nummer 2
+    erfüllt sein muss,
+
+
+4.  Versorgung mit Pflegehilfsmitteln gemäß § 40 Absatz 1 bis 3 und 5,
+
+
+5.  finanzielle Zuschüsse für Maßnahmen zur Verbesserung des individuellen
+    oder gemeinsamen Wohnumfelds gemäß § 40 Absatz 4,
+
+
+6.  zusätzliche Betreuung und Aktivierung in stationären
+    Pflegeeinrichtungen gemäß § 43b,
+
+
+7.  zusätzliche Leistungen bei Pflegezeit und kurzzeitiger
+    Arbeitsverhinderung gemäß § 44a,
+
+
+8.  Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen gemäß §
+    45\.
+
+
+
+
+(2) Zudem gewährt die Pflegeversicherung den Entlastungsbetrag gemäß §
+45b Absatz 1 Satz 1 in Höhe von 125 Euro monatlich. Dieser kann gemäß
+§ 45b im Wege der Erstattung von Kosten eingesetzt werden, die dem
+Versicherten im Zusammenhang mit der Inanspruchnahme von Leistungen
+der Tages- und Nachtpflege sowie der Kurzzeitpflege, von Leistungen
+der ambulanten Pflegedienste im Sinne des § 36 sowie von Leistungen
+der nach Landesrecht anerkannten Angebote zur Unterstützung im Alltag
+im Sinne des § 45a Absatz 1 und 2 entstehen.
+
+(3) Wählen Pflegebedürftige des Pflegegrades 1 vollstationäre Pflege,
+gewährt die Pflegeversicherung gemäß § 43 Absatz 3 einen Zuschuss in
+Höhe von 125 Euro monatlich.
 
 
 ### Zweiter Abschnitt - Gemeinsame Vorschriften
@@ -1609,9 +2529,9 @@ werden, mit denen die Pflegekassen oder die für sie tätigen Verbände
 Verträge abgeschlossen haben.
 
 
-#### § 30 Dynamisierung
+#### § 30 Dynamisierung, Verordnungsermächtigung
 
-Die Bundesregierung prüft alle drei Jahre, erstmals im Jahre 2014,
+(1) Die Bundesregierung prüft alle drei Jahre, erneut im Jahre 2020,
 Notwendigkeit und Höhe einer Anpassung der Leistungen der
 Pflegeversicherung. Als ein Orientierungswert für die
 Anpassungsnotwendigkeit dient die kumulierte Preisentwicklung in den
@@ -1621,15 +2541,17 @@ ausfällt als die Bruttolohnentwicklung im gleichen Zeitraum. Bei der
 Prüfung können die gesamtwirtschaftlichen Rahmenbedingungen mit
 berücksichtigt werden. Die Bundesregierung legt den gesetzgebenden
 Körperschaften des Bundes einen Bericht über das Ergebnis der Prüfung
-und die tragenden Gründe vor. Die Bundesregierung wird ermächtigt,
-nach Vorlage des Berichts unter Berücksichtigung etwaiger
-Stellungnahmen der gesetzgebenden Körperschaften des Bundes die Höhe
-der Leistungen der Pflegeversicherung sowie die in § 37 Abs. 3
-festgelegten Vergütungen durch Rechtsverordnung mit Zustimmung des
-Bundesrates zum 1. Januar des Folgejahres anzupassen. Die
-Rechtsverordnung soll frühestens zwei Monate nach Vorlage des Berichts
-erlassen werden, um den gesetzgebenden Körperschaften des Bundes
-Gelegenheit zur Stellungnahme zu geben.
+und die tragenden Gründe vor.
+
+(2) Die Bundesregierung wird ermächtigt, nach Vorlage des Berichts
+unter Berücksichtigung etwaiger Stellungnahmen der gesetzgebenden
+Körperschaften des Bundes die Höhe der Leistungen der
+Pflegeversicherung sowie die in § 37 Abs. 3 festgelegten Vergütungen
+durch Rechtsverordnung mit Zustimmung des Bundesrates zum 1. Januar
+des Folgejahres anzupassen. Die Rechtsverordnung soll frühestens zwei
+Monate nach Vorlage des Berichts erlassen werden, um den
+gesetzgebenden Körperschaften des Bundes Gelegenheit zur Stellungnahme
+zu geben.
 
 
 #### § 31 Vorrang der Rehabilitation vor Pflege
@@ -1691,54 +2613,28 @@ Antrag. Die Leistungen werden ab Antragstellung gewährt, frühestens
 jedoch von dem Zeitpunkt an, in dem die Anspruchsvoraussetzungen
 vorliegen. Wird der Antrag später als einen Monat nach Eintritt der
 Pflegebedürftigkeit gestellt, werden die Leistungen vom Beginn des
-Monats der Antragstellung an gewährt. Die Zuordnung zu einer
-Pflegestufe, die Anerkennung als Härtefall sowie die Bewilligung von
-Leistungen können befristet werden und enden mit Ablauf der Frist. Die
-Befristung erfolgt, wenn und soweit eine Verringerung des Hilfebedarfs
-nach der Einschätzung des Medizinischen Dienstes der
-Krankenversicherung zu erwarten ist. Die Befristung kann wiederholt
-werden und schließt Änderungen bei der Zuordnung zu einer Pflegestufe,
-bei der Anerkennung als Härtefall sowie bei bewilligten Leistungen im
-Befristungszeitraum nicht aus, soweit dies durch Rechtsvorschriften
-des Sozialgesetzbuches angeordnet oder erlaubt ist. Der
-Befristungszeitraum darf insgesamt die Dauer von drei Jahren nicht
-überschreiten. Um eine nahtlose Leistungsgewährung sicherzustellen,
-hat die Pflegekasse vor Ablauf einer Befristung rechtzeitig zu prüfen
-und dem Pflegebedürftigen sowie der ihn betreuenden Pflegeeinrichtung
-mitzuteilen, ob Pflegeleistungen weiterhin bewilligt werden und
-welcher Pflegestufe der Pflegebedürftige zuzuordnen ist.
+Monats der Antragstellung an gewährt. Die Zuordnung zu einem
+Pflegegrad und die Bewilligung von Leistungen können befristet werden
+und enden mit Ablauf der Frist. Die Befristung erfolgt, wenn und
+soweit eine Verringerung der Beeinträchtigungen der Selbständigkeit
+oder der Fähigkeiten nach der Einschätzung des Medizinischen Dienstes
+der Krankenversicherung zu erwarten ist. Die Befristung kann
+wiederholt werden und schließt Änderungen bei der Zuordnung zu einem
+Pflegegrad und bei bewilligten Leistungen im Befristungszeitraum nicht
+aus, soweit dies durch Rechtsvorschriften des Sozialgesetzbuches
+angeordnet oder erlaubt ist. Der Befristungszeitraum darf insgesamt
+die Dauer von drei Jahren nicht überschreiten. Um eine nahtlose
+Leistungsgewährung sicherzustellen, hat die Pflegekasse vor Ablauf
+einer Befristung rechtzeitig zu prüfen und dem Pflegebedürftigen sowie
+der ihn betreuenden Pflegeeinrichtung mitzuteilen, ob Pflegeleistungen
+weiterhin bewilligt werden und welchem Pflegegrad der Pflegebedürftige
+zuzuordnen ist.
 
-(2) Anspruch auf Leistungen besteht:
-
-1.  in der Zeit vom 1. Januar 1996 bis 31. Dezember 1996, wenn der
-    Versicherte vor der Antragstellung mindestens ein Jahr,
-
-
-2.  in der Zeit vom 1. Januar 1997 bis 31. Dezember 1997, wenn der
-    Versicherte vor der Antragstellung mindestens zwei Jahre,
-
-
-3.  in der Zeit vom 1. Januar 1998 bis 31. Dezember 1998, wenn der
-    Versicherte vor der Antragstellung mindestens drei Jahre,
-
-
-4.  in der Zeit vom 1. Januar 1999 bis 31. Dezember 1999, wenn der
-    Versicherte vor der Antragstellung mindestens vier Jahre,
-
-
-5.  in der Zeit vom 1. Januar 2000 bis 30. Juni 2008, wenn der Versicherte
-    in den letzten zehn Jahren vor der Antragstellung mindestens fünf
-    Jahre,
-
-
-6.  in der Zeit ab 1. Juli 2008, wenn der Versicherte in den letzten zehn
-    Jahren vor der Antragstellung mindestens zwei Jahre
-
-
-
-als Mitglied versichert oder nach § 25 familienversichert war. Zeiten
-der Weiterversicherung nach § 26 Abs. 2 werden bei der Ermittlung der
-nach Satz 1 erforderlichen Vorversicherungszeit mitberücksichtigt. Für
+(2) Anspruch auf Leistungen besteht, wenn der Versicherte in den
+letzten zehn Jahren vor der Antragstellung mindestens zwei Jahre als
+Mitglied versichert oder nach § 25 familienversichert war. Zeiten der
+Weiterversicherung nach § 26 Abs. 2 werden bei der Ermittlung der nach
+Satz 1 erforderlichen Vorversicherungszeit mitberücksichtigt. Für
 versicherte Kinder gilt die Vorversicherungszeit nach Satz 1 als
 erfüllt, wenn ein Elternteil sie erfüllt.
 
@@ -1793,17 +2689,18 @@ aufhalten.
 
 (2) Der Anspruch auf Leistungen bei häuslicher Pflege ruht darüber
 hinaus, soweit im Rahmen des Anspruchs auf häusliche Krankenpflege (§
-37 des Fünften Buches) auch Anspruch auf Grundpflege und
-hauswirtschaftliche Versorgung besteht, sowie für die Dauer des
+37 des Fünften Buches) auch Anspruch auf Leistungen besteht, deren
+Inhalt den Leistungen nach § 36 entspricht, sowie für die Dauer des
 stationären Aufenthalts in einer Einrichtung im Sinne des § 71 Abs. 4,
 soweit § 39 nichts Abweichendes bestimmt. Pflegegeld nach § 37 oder
 anteiliges Pflegegeld nach § 38 ist in den ersten vier Wochen einer
 vollstationären Krankenhausbehandlung, einer häuslichen Krankenpflege
-mit Anspruch auf Grundpflege und hauswirtschaftliche Versorgung oder
-einer stationären Leistung zur medizinischen Rehabilitation weiter zu
-zahlen; bei Pflegebedürftigen, die ihre Pflege durch von ihnen
-beschäftigte besondere Pflegekräfte sicherstellen und bei denen § 66
-Absatz 4 Satz 2 des Zwölften Buches Anwendung findet, wird das
+mit Anspruch auf Leistungen, deren Inhalt den Leistungen nach § 36
+entspricht, oder einer Aufnahme in Vorsorge- oder
+Rehabilitationseinrichtungen nach § 107 Absatz 2 des Fünften Buches
+weiter zu zahlen; bei Pflegebedürftigen, die ihre Pflege durch von
+ihnen beschäftigte besondere Pflegekräfte sicherstellen und bei denen
+§ 63b Absatz 6 Satz 1 des Zwölften Buches Anwendung findet, wird das
 Pflegegeld nach § 37 oder anteiliges Pflegegeld nach § 38 auch über
 die ersten vier Wochen hinaus weiter gezahlt.
 
@@ -1822,23 +2719,22 @@ soweit in diesem Buch nichts Abweichendes bestimmt ist. § 19 Absatz 1a
 des Fünften Buches gilt entsprechend.
 
 
-#### § 35a Teilnahme an einem trägerübergreifenden Persönlichen Budget nach § 17 Abs. 2 bis 4 des Neunten Buches
+#### § 35a Teilnahme an einem Persönlichen Budget nach § 29 des Neunten Buches
 
-Pflegebedürftige können auf Antrag die Leistungen nach den §§ 36, 37
-Abs. 1, §§ 38, 40 Abs. 2 und § 41 auch als Teil eines
-trägerübergreifenden Budgets nach § 17 Abs. 2 bis 4 des Neunten Buches
-in Verbindung mit der Budgetverordnung und § 159 des Neunten Buches
-erhalten; bei der Kombinationsleistung nach § 38 ist nur das anteilige
-und im Voraus bestimmte Pflegegeld als Geldleistung budgetfähig, die
-Sachleistungen nach den §§ 36, 38 und 41 dürfen nur in Form von
-Gutscheinen zur Verfügung gestellt werden, die zur Inanspruchnahme von
-zugelassenen Pflegeeinrichtungen nach diesem Buch berechtigen. Der
-beauftragte Leistungsträger nach § 17 Abs. 4 des Neunten Buches hat
-sicherzustellen, dass eine den Vorschriften dieses Buches
-entsprechende Leistungsbewilligung und Verwendung der Leistungen durch
-den Pflegebedürftigen gewährleistet ist. Andere als die in Satz 1
-genannten Leistungsansprüche bleiben ebenso wie die sonstigen
-Vorschriften dieses Buches unberührt.
+Pflegebedürftigen werden auf Antrag die Leistungen nach den §§ 36, 37
+Abs. 1, §§ 38, 40 Abs. 2 und § 41 durch ein Persönliches Budget nach §
+29 des Neunten Buches erbracht; bei der Kombinationsleistung nach § 38
+ist nur das anteilige und im Voraus bestimmte Pflegegeld als
+Geldleistung budgetfähig, die Sachleistungen nach den §§ 36, 38 und 41
+dürfen nur in Form von Gutscheinen zur Verfügung gestellt werden, die
+zur Inanspruchnahme von zugelassenen Pflegeeinrichtungen nach diesem
+Buch berechtigen. Der Leistungsträger, der das Persönliche Budget nach
+§ 29 Absatz 3 des Neunten Buches durchführt, hat sicherzustellen, dass
+eine den Vorschriften dieses Buches entsprechende Leistungsbewilligung
+und Verwendung der Leistungen durch den Pflegebedürftigen
+gewährleistet ist. Andere als die in Satz 1 genannten
+Leistungsansprüche bleiben ebenso wie die sonstigen Vorschriften
+dieses Buches unberührt.
 
 
 ### Dritter Abschnitt - Leistungen
@@ -1851,148 +2747,93 @@ Vorschriften dieses Buches unberührt.
 
 ##### § 36 Pflegesachleistung
 
-(1) Pflegebedürftige haben bei häuslicher Pflege Anspruch auf
-Grundpflege und hauswirtschaftliche Versorgung als Sachleistung
-(häusliche Pflegehilfe). Leistungen der häuslichen Pflege sind auch
-zulässig, wenn Pflegebedürftige nicht in ihrem eigenen Haushalt
-gepflegt werden; sie sind nicht zulässig, wenn Pflegebedürftige in
-einer stationären Pflegeeinrichtung oder in einer Einrichtung im Sinne
-des § 71 Abs. 4 gepflegt werden. Häusliche Pflegehilfe wird durch
-geeignete Pflegekräfte erbracht, die entweder von der Pflegekasse oder
-bei ambulanten Pflegeeinrichtungen, mit denen die Pflegekasse einen
-Versorgungsvertrag abgeschlossen hat, angestellt sind. Auch durch
-Einzelpersonen, mit denen die Pflegekasse einen Vertrag nach § 77 Abs.
-1 abgeschlossen hat, kann häusliche Pflegehilfe als Sachleistung
-erbracht werden. Mehrere Pflegebedürftige können Pflege- und
-Betreuungsleistungen sowie hauswirtschaftliche Versorgung gemeinsam
-als Sachleistung in Anspruch nehmen. Der Anspruch auf
-Betreuungsleistungen als Sachleistung setzt voraus, dass die
-Grundpflege und die hauswirtschaftliche Versorgung im Einzelfall
-sichergestellt sind. Betreuungsleistungen als Sachleistungen nach Satz
-5 dürfen nicht zulasten der Pflegekassen in Anspruch genommen werden,
-wenn diese Leistungen im Rahmen der Eingliederungshilfe für behinderte
-Menschen nach dem Zwölften Buch, durch den zuständigen Träger der
-Eingliederungshilfe nach dem Achten Buch oder nach dem
-Bundesversorgungsgesetz finanziert werden.
+(1) Pflegebedürftige der Pflegegrade 2 bis 5 haben bei häuslicher
+Pflege Anspruch auf körperbezogene Pflegemaßnahmen und pflegerische
+Betreuungsmaßnahmen sowie auf Hilfen bei der Haushaltsführung als
+Sachleistung (häusliche Pflegehilfe). Der Anspruch umfasst
+pflegerische Maßnahmen in den in § 14 Absatz 2 genannten Bereichen
+Mobilität, kognitive und kommunikative Fähigkeiten, Verhaltensweisen
+und psychische Problemlagen, Selbstversorgung, Bewältigung von und
+selbständiger Umgang mit krankheits- oder therapiebedingten
+Anforderungen und Belastungen sowie Gestaltung des Alltagslebens und
+sozialer Kontakte.
 
-(2) Grundpflege und hauswirtschaftliche Versorgung umfassen
-Hilfeleistungen bei den in § 14 genannten Verrichtungen; die
-verrichtungsbezogenen krankheitsspezifischen Pflegemaßnahmen gehören
-nicht dazu, soweit diese im Rahmen der häuslichen Krankenpflege nach §
-37 des Fünften Buches zu leisten sind.
+(2) Häusliche Pflegehilfe wird erbracht, um Beeinträchtigungen der
+Selbständigkeit oder der Fähigkeiten des Pflegebedürftigen so weit wie
+möglich durch pflegerische Maßnahmen zu beseitigen oder zu mindern und
+eine Verschlimmerung der Pflegebedürftigkeit zu verhindern.
+Bestandteil der häuslichen Pflegehilfe ist auch die pflegefachliche
+Anleitung von Pflegebedürftigen und Pflegepersonen. Pflegerische
+Betreuungsmaßnahmen umfassen Unterstützungsleistungen zur Bewältigung
+und Gestaltung des alltäglichen Lebens im häuslichen Umfeld,
+insbesondere
+
+1.  bei der Bewältigung psychosozialer Problemlagen oder von Gefährdungen,
+
+
+2.  bei der Orientierung, bei der Tagesstrukturierung, bei der
+    Kommunikation, bei der Aufrechterhaltung sozialer Kontakte und bei
+    bedürfnisgerechten Beschäftigungen im Alltag sowie
+
+
+3.  durch Maßnahmen zur kognitiven Aktivierung.
+
+
+
 
 (3) Der Anspruch auf häusliche Pflegehilfe umfasst je Kalendermonat
 
-1.  für Pflegebedürftige der Pflegestufe I Pflegeeinsätze bis zu einem
-    Gesamtwert von
-
-    a)  420 Euro ab 1. Juli 2008,
+1.  für Pflegebedürftige des Pflegegrades 2 Leistungen bis zu einem
+    Gesamtwert von 689 Euro,
 
 
-    b)  440 Euro ab 1. Januar 2010,
+2.  für Pflegebedürftige des Pflegegrades 3 Leistungen bis zu einem
+    Gesamtwert von 1 298 Euro,
 
 
-    c)  450 Euro ab 1. Januar 2012,
+3.  für Pflegebedürftige des Pflegegrades 4 Leistungen bis zu einem
+    Gesamtwert von 1 612 Euro,
 
 
-
-
-
-2.  für Pflegebedürftige der Pflegestufe II Pflegeeinsätze bis zu einem
-    Gesamtwert von
-
-    a)  980 Euro ab 1. Juli 2008,
-
-
-    b)  1.040 Euro ab 1. Januar 2010,
-
-
-    c)  1.100 Euro ab 1. Januar 2012,
+4.  für Pflegebedürftige des Pflegegrades 5 Leistungen bis zu einem
+    Gesamtwert von 1 995 Euro.
 
 
 
 
-
-3.  für Pflegebedürftige der Pflegestufe III Pflegeeinsätze bis zu einem
-    Gesamtwert von
-
-    a)  1.470 Euro ab 1. Juli 2008,
-
-
-    b)  1.510 Euro ab 1. Januar 2010,
-
-
-    c)  1.550 Euro ab 1. Januar 2012.
-
-
-
-
-
-
-
-(4) Die Pflegekassen können in besonders gelagerten Einzelfällen zur
-Vermeidung von Härten Pflegebedürftigen der Pflegestufe III weitere
-Pflegeeinsätze bis zu einem Gesamtwert von 1.918 Euro monatlich
-gewähren, wenn ein außergewöhnlich hoher Pflegeaufwand vorliegt, der
-das übliche Maß der Pflegestufe III weit übersteigt, beispielsweise
-wenn im Endstadium von Krebserkrankungen regelmäßig mehrfach auch in
-der Nacht Hilfe geleistet werden muß. Die Ausnahmeregelung des Satzes
-1 darf für nicht mehr als 3 vom Hundert aller versicherten
-Pflegebedürftigen der Pflegestufe III, die häuslich gepflegt werden,
-Anwendung finden. Der Spitzenverband Bund der Pflegekassen überwacht
-die Einhaltung dieses Höchstsatzes und hat erforderlichenfalls
-geeignete Maßnahmen zur Einhaltung zu ergreifen.
+(4) Häusliche Pflegehilfe ist auch zulässig, wenn Pflegebedürftige
+nicht in ihrem eigenen Haushalt gepflegt werden; sie ist nicht
+zulässig, wenn Pflegebedürftige in einer stationären Pflegeeinrichtung
+oder in einer Einrichtung im Sinne des § 71 Absatz 4 gepflegt werden.
+Häusliche Pflegehilfe wird durch geeignete Pflegekräfte erbracht, die
+entweder von der Pflegekasse oder bei ambulanten Pflegeeinrichtungen,
+mit denen die Pflegekasse einen Versorgungsvertrag abgeschlossen hat,
+angestellt sind. Auch durch Einzelpersonen, mit denen die Pflegekasse
+einen Vertrag nach § 77 Absatz 1 abgeschlossen hat, kann häusliche
+Pflegehilfe als Sachleistung erbracht werden. Mehrere Pflegebedürftige
+können häusliche Pflegehilfe gemeinsam in Anspruch nehmen.
 
 
 ##### § 37 Pflegegeld für selbst beschaffte Pflegehilfen
 
-(1) Pflegebedürftige können anstelle der häuslichen Pflegehilfe ein
-Pflegegeld beantragen. Der Anspruch setzt voraus, daß der
-Pflegebedürftige mit dem Pflegegeld dessen Umfang entsprechend die
-erforderliche Grundpflege und hauswirtschaftliche Versorgung in
-geeigneter Weise selbst sicherstellt. Das Pflegegeld beträgt je
-Kalendermonat
+(1) Pflegebedürftige der Pflegegrade 2 bis 5 können anstelle der
+häuslichen Pflegehilfe ein Pflegegeld beantragen. Der Anspruch setzt
+voraus, dass der Pflegebedürftige mit dem Pflegegeld dessen Umfang
+entsprechend die erforderlichen körperbezogenen Pflegemaßnahmen und
+pflegerischen Betreuungsmaßnahmen sowie Hilfen bei der
+Haushaltsführung in geeigneter Weise selbst sicherstellt. Das
+Pflegegeld beträgt je Kalendermonat
 
-1.  für Pflegebedürftige der Pflegestufe I
-
-    a)  215 Euro ab 1. Juli 2008,
-
-
-    b)  225 Euro ab 1. Januar 2010,
+1.  316 Euro für Pflegebedürftige des Pflegegrades 2,
 
 
-    c)  235 Euro ab 1. Januar 2012,
+2.  545 Euro für Pflegebedürftige des Pflegegrades 3,
 
 
+3.  728 Euro für Pflegebedürftige des Pflegegrades 4,
 
 
-
-2.  für Pflegebedürftige der Pflegestufe II
-
-    a)  420 Euro ab 1. Juli 2008,
-
-
-    b)  430 Euro ab 1. Januar 2010,
-
-
-    c)  440 Euro ab 1. Januar 2012,
-
-
-
-
-
-3.  für Pflegebedürftige der Pflegestufe III
-
-    a)  675 Euro ab 1. Juli 2008,
-
-
-    b)  685 Euro ab 1. Januar 2010,
-
-
-    c)  700 Euro ab 1. Januar 2012.
-
-
-
+4.  901 Euro für Pflegebedürftige des Pflegegrades 5.
 
 
 
@@ -2000,20 +2841,20 @@ Kalendermonat
 (2) Besteht der Anspruch nach Absatz 1 nicht für den vollen
 Kalendermonat, ist der Geldbetrag entsprechend zu kürzen; dabei ist
 der Kalendermonat mit 30 Tagen anzusetzen. Die Hälfte des bisher
-bezogenen Pflegegeldes wird während einer Kurzzeitpflege nach § 42 und
-einer Verhinderungspflege nach § 39 jeweils für bis zu vier Wochen je
-Kalenderjahr fortgewährt. Das Pflegegeld wird bis zum Ende des
-Kalendermonats geleistet, in dem der Pflegebedürftige gestorben ist. §
-118 Abs. 3 und 4 des Sechsten Buches gilt entsprechend, wenn für die
-Zeit nach dem Monat, in dem der Pflegebedürftige verstorben ist,
-Pflegegeld überwiesen wurde.
+bezogenen Pflegegeldes wird während einer Kurzzeitpflege nach § 42 für
+bis zu acht Wochen und während einer Verhinderungspflege nach § 39 für
+bis zu sechs Wochen je Kalenderjahr fortgewährt. Das Pflegegeld wird
+bis zum Ende des Kalendermonats geleistet, in dem der Pflegebedürftige
+gestorben ist. § 118 Abs. 3 und 4 des Sechsten Buches gilt
+entsprechend, wenn für die Zeit nach dem Monat, in dem der
+Pflegebedürftige verstorben ist, Pflegegeld überwiesen wurde.
 
 (3) Pflegebedürftige, die Pflegegeld nach Absatz 1 beziehen, haben
 
-1.  bei Pflegestufe I und II halbjährlich einmal,
+1.  bei Pflegegrad 2 und 3 halbjährlich einmal,
 
 
-2.  bei Pflegestufe III vierteljährlich einmal
+2.  bei Pflegegrad 4 und 5 vierteljährlich einmal
 
 
 
@@ -2028,24 +2869,22 @@ von der Pflegekasse beauftragte, jedoch von ihr nicht beschäftigte
 Pflegefachkraft abzurufen. Die Beratung dient der Sicherung der
 Qualität der häuslichen Pflege und der regelmäßigen Hilfestellung und
 praktischen pflegefachlichen Unterstützung der häuslich Pflegenden.
-Die Vergütung für die Beratung ist von der zuständigen Pflegekasse,
-bei privat Pflegeversicherten von dem zuständigen privaten
+Die Pflegebedürftigen und die häuslich Pflegenden sind bei der
+Beratung auch auf die Auskunfts-, Beratungs- und
+Unterstützungsangebote des für sie zuständigen Pflegestützpunktes
+sowie auf die Pflegeberatung nach § 7a hinzuweisen. Die Vergütung für
+die Beratung ist von der zuständigen Pflegekasse, bei privat
+Pflegeversicherten von dem zuständigen privaten
 Versicherungsunternehmen zu tragen, im Fall der Beihilfeberechtigung
 anteilig von den Beihilfefestsetzungsstellen. Sie beträgt in den
-Pflegestufen I und II bis zu 21 Euro und in der Pflegestufe III bis zu
-31 Euro. Pflegebedürftige, bei denen ein erheblicher Bedarf an
-allgemeiner Beaufsichtigung und Betreuung nach § 45a festgestellt ist,
-sind berechtigt, den Beratungseinsatz innerhalb der in Satz 1
-genannten Zeiträume zweimal in Anspruch zu nehmen. Personen, bei denen
-ein erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung
-nach § 45a festgestellt ist und die noch nicht die Voraussetzungen der
-Pflegestufe I erfüllen, können halbjährlich einmal einen
-Beratungsbesuch in Anspruch nehmen; die Vergütung für die Beratung
-entspricht der für die Pflegestufen I und II nach Satz 4. In diesen
-Fällen kann die Beratung auch durch von den Landesverbänden der
-Pflegekassen anerkannte Beratungsstellen wahrgenommen werden, ohne
-dass für die Anerkennung eine pflegefachliche Kompetenz nachgewiesen
-werden muss.
+Pflegegraden 2 und 3 bis zu 23 Euro und in den Pflegegraden 4 und 5
+bis zu 33 Euro. Pflegebedürftige des Pflegegrades 1 haben Anspruch,
+halbjährlich einmal einen Beratungsbesuch abzurufen; die Vergütung für
+die Beratung entspricht der für die Pflegegrade 2 und 3 nach Satz 5.
+Beziehen Pflegebedürftige von einem ambulanten Pflegedienst
+Pflegesachleistungen, können sie ebenfalls halbjährlich einmal einen
+Beratungsbesuch in Anspruch nehmen; für die Vergütung der Beratung
+gelten die Sätze 4 bis 6.
 
 (4) Die Pflegedienste und die anerkannten Beratungsstellen sowie die
 beauftragten Pflegefachkräfte haben die Durchführung der
@@ -2068,13 +2907,15 @@ bei der Planung für die Beratungsbesuche weitestgehend sichergestellt
 werden, dass der Beratungsbesuch bei einem Pflegebedürftigen möglichst
 auf Dauer von derselben Pflegekraft durchgeführt wird.
 
-(5) Der Spitzenverband Bund der Pflegekassen und der Verband der
-privaten Krankenversicherung e. V. beschließen gemeinsam mit den
-Vereinigungen der Träger der ambulanten Pflegeeinrichtungen auf
-Bundesebene unter Beteiligung des Medizinischen Dienstes des
-Spitzenverbandes Bund der Krankenkassen Empfehlungen zur
-Qualitätssicherung der Beratungsbesuche nach Absatz 3. Die
-Empfehlungen gelten für die anerkannten Beratungsstellen entsprechend.
+(5) Die Vertragsparteien nach § 113 beschließen gemäß § 113b bis zum
+1\. Januar 2018 unter Beachtung der in Absatz 4 festgelegten
+Anforderungen Empfehlungen zur Qualitätssicherung der Beratungsbesuche
+nach Absatz 3. Fordert das Bundesministerium für Gesundheit oder eine
+Vertragspartei nach § 113 im Einvernehmen mit dem Bundesministerium
+für Gesundheit die Vertragsparteien schriftlich zum Beschluss neuer
+Empfehlungen nach Satz 1 auf, sind diese innerhalb von sechs Monaten
+nach Eingang der Aufforderung neu zu beschließen. Die Empfehlungen
+gelten für die anerkannten Beratungsstellen entsprechend.
 
 (6) Rufen Pflegebedürftige die Beratung nach Absatz 3 Satz 1 nicht ab,
 hat die Pflegekasse oder das private Versicherungsunternehmen das
@@ -2086,94 +2927,148 @@ Beratungsstellen zur Durchführung der Beratung nach den Absätzen 3 und
 erforderliche pflegefachliche Kompetenz der Beratungsstelle und ein
 Konzept zur Qualitätssicherung des Beratungsangebotes beizufügen. Die
 Landesverbände der Pflegekassen regeln das Nähere zur Anerkennung der
-Beratungsstellen. Für die Durchführung von Beratungen nach Absatz 3
-Satz 6 können die Landesverbände der Pflegekassen geeignete
-Beratungsstellen anerkennen, ohne dass ein Nachweis über die
-pflegefachliche Kompetenz erforderlich ist.
+Beratungsstellen.
 
-(8) Der Pflegeberater oder die Pflegeberaterin (§ 7a) kann die
-vorgeschriebenen Beratungseinsätze durchführen und diese bescheinigen.
+(8) Die Beratungsbesuche nach Absatz 3 können auch von
+Pflegeberaterinnen und Pflegeberatern im Sinne des § 7a oder von
+Beratungspersonen der kommunalen Gebietskörperschaften, die die
+erforderliche pflegefachliche Kompetenz aufweisen, durchgeführt
+werden. Absatz 4 findet entsprechende Anwendung. Die Inhalte der
+Empfehlungen zur Qualitätssicherung der Beratungsbesuche nach Absatz 5
+sind zu beachten.
 
 
 ##### § 38 Kombination von Geldleistung und Sachleistung (Kombinationsleistung)
 
-Nimmt der Pflegebedürftige die ihm nach § 36 Abs. 3 und 4 zustehende
+Nimmt der Pflegebedürftige die ihm nach § 36 Absatz 3 zustehende
 Sachleistung nur teilweise in Anspruch, erhält er daneben ein
 anteiliges Pflegegeld im Sinne des § 37. Das Pflegegeld wird um den
 Vomhundertsatz vermindert, in dem der Pflegebedürftige Sachleistungen
 in Anspruch genommen hat. An die Entscheidung, in welchem Verhältnis
 er Geld- und Sachleistung in Anspruch nehmen will, ist der
 Pflegebedürftige für die Dauer von sechs Monaten gebunden. Anteiliges
-Pflegegeld wird während einer Kurzzeitpflege nach § 42 und einer
-Verhinderungspflege nach § 39 jeweils für bis zu vier Wochen je
-Kalenderjahr in Höhe der Hälfte der vor Beginn der Kurzzeit- oder
-Verhinderungspflege geleisteten Höhe fortgewährt. Pflegebedürftige in
-vollstationären Einrichtungen der Hilfe für behinderte Menschen (§
-43a) haben Anspruch auf ungekürztes Pflegegeld anteilig für die Tage,
-an denen sie sich in häuslicher Pflege befinden.
+Pflegegeld wird während einer Kurzzeitpflege nach § 42 für bis zu acht
+Wochen und während einer Verhinderungspflege nach § 39 für bis zu
+sechs Wochen je Kalenderjahr in Höhe der Hälfte der vor Beginn der
+Kurzzeit- oder Verhinderungspflege geleisteten Höhe fortgewährt.
+Pflegebedürftige in vollstationären Einrichtungen der Hilfe für
+behinderte Menschen (§ 43a) haben Anspruch auf ungekürztes Pflegegeld
+anteilig für die Tage, an denen sie sich in häuslicher Pflege
+befinden.
 
 
 ##### § 38a Zusätzliche Leistungen für Pflegebedürftige in ambulant betreuten Wohngruppen
 
 (1) Pflegebedürftige haben Anspruch auf einen pauschalen Zuschlag in
-Höhe von 200 Euro monatlich, wenn
+Höhe von 214 Euro monatlich, wenn
 
-1.  sie in ambulant betreuten Wohngruppen in einer gemeinsamen Wohnung mit
-    häuslicher pflegerischer Versorgung leben,
-
-
-2.  sie Leistungen nach § 36, § 37 oder § 38 beziehen,
-
-
-3.  in der ambulant betreuten Wohngruppe eine Pflegekraft tätig ist, die
-    organisatorische, verwaltende oder pflegerische Tätigkeiten
-    verrichtet, und
+1.  sie mit mindestens zwei und höchstens elf weiteren Personen in einer
+    ambulant betreuten Wohngruppe in einer gemeinsamen Wohnung zum Zweck
+    der gemeinschaftlich organisierten pflegerischen Versorgung leben und
+    davon mindestens zwei weitere Personen pflegebedürftig im Sinne der §§
+    14, 15 sind,
 
 
-4.  es sich um ein gemeinschaftliches Wohnen von regelmäßig mindestens
-    drei Pflegebedürftigen handelt mit dem Zweck der gemeinschaftlich
-    organisierten pflegerischen Versorgung, dem die jeweils maßgeblichen
-    heimrechtlichen Vorschriften oder ihre Anforderungen an
-    Leistungserbringer nicht entgegenstehen.
+2.  sie Leistungen nach den §§ 36, 37, 38, 45a oder § 45b beziehen,
+
+
+3.  eine Person durch die Mitglieder der Wohngruppe gemeinschaftlich
+    beauftragt ist, unabhängig von der individuellen pflegerischen
+    Versorgung allgemeine organisatorische, verwaltende, betreuende oder
+    das Gemeinschaftsleben fördernde Tätigkeiten zu verrichten oder
+    hauswirtschaftliche Unterstützung zu leisten, und
+
+
+4.  keine Versorgungsform einschließlich teilstationärer Pflege vorliegt,
+    in der ein Anbieter der Wohngruppe oder ein Dritter den
+    Pflegebedürftigen Leistungen anbietet oder gewährleistet, die dem im
+    jeweiligen Rahmenvertrag nach § 75 Absatz 1 für vollstationäre Pflege
+    vereinbarten Leistungsumfang weitgehend entsprechen; der Anbieter
+    einer ambulant betreuten Wohngruppe hat die Pflegebedürftigen vor
+    deren Einzug in die Wohngruppe in geeigneter Weise darauf hinzuweisen,
+    dass dieser Leistungsumfang von ihm oder einem Dritten nicht erbracht
+    wird, sondern die Versorgung in der Wohngruppe auch durch die aktive
+    Einbindung ihrer eigenen Ressourcen und ihres sozialen Umfelds
+    sichergestellt werden kann.
 
 
 
 
-(2) Keine ambulante Versorgungsform im Sinne von Absatz 1 liegt vor,
-wenn die freie Wählbarkeit der Pflege- und Betreuungsleistungen
-rechtlich oder tatsächlich eingeschränkt ist. Die von der Gemeinschaft
-unabhängig getroffenen Regelungen und Absprachen sind keine
-tatsächlichen Einschränkungen in diesem Sinne.
+Leistungen der Tages- und Nachtpflege gemäß § 41 können neben den
+Leistungen nach dieser Vorschrift nur in Anspruch genommen werden,
+wenn gegenüber der zuständigen Pflegekasse durch eine Prüfung des
+Medizinischen Dienstes der Krankenversicherung nachgewiesen ist, dass
+die Pflege in der ambulant betreuten Wohngruppe ohne teilstationäre
+Pflege nicht in ausreichendem Umfang sichergestellt ist; dies gilt
+entsprechend für die Versicherten der privaten Pflege-
+Pflichtversicherung.
+
+(2) Die Pflegekassen sind berechtigt, zur Feststellung der
+Anspruchsvoraussetzungen bei dem Antragsteller folgende Daten zu
+erheben, zu verarbeiten und zu nutzen und folgende Unterlagen
+anzufordern:
+
+1.  eine formlose Bestätigung des Antragstellers, dass die Voraussetzungen
+    nach Absatz 1 Nummer 1 erfüllt sind,
+
+
+2.  die Adresse und das Gründungsdatum der Wohngruppe,
+
+
+3.  den Mietvertrag einschließlich eines Grundrisses der Wohnung und den
+    Pflegevertrag nach § 120,
+
+
+4.  Vorname, Name, Anschrift und Telefonnummer sowie Unterschrift der
+    Person nach Absatz 1 Nummer 3 und
+
+
+5.  die vereinbarten Aufgaben der Person nach Absatz 1 Nummer 3.
+
+
+
 
 
 ##### § 39 Häusliche Pflege bei Verhinderung der Pflegeperson
 
-Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus
+(1) Ist eine Pflegeperson wegen Erholungsurlaubs, Krankheit oder aus
 anderen Gründen an der Pflege gehindert, übernimmt die Pflegekasse die
-Kosten einer notwendigen Ersatzpflege für längstens vier Wochen je
-Kalenderjahr; § 34 Abs. 2 Satz 1 gilt nicht. Voraussetzung ist, daß
-die Pflegeperson den Pflegebedürftigen vor der erstmaligen
-Verhinderung mindestens sechs Monate in seiner häuslichen Umgebung
-gepflegt hat. Die Aufwendungen der Pflegekassen können sich im
-Kalenderjahr auf bis zu 1.470 Euro ab 1. Juli 2008, auf bis zu 1.510
-Euro ab 1. Januar 2010 und auf bis zu 1.550 Euro ab 1. Januar 2012
-belaufen, wenn die Ersatzpflege durch Pflegepersonen sichergestellt
-wird, die mit dem Pflegebedürftigen nicht bis zum zweiten Grade
-verwandt oder verschwägert sind und nicht mit ihm in häuslicher
-Gemeinschaft leben. Bei einer Ersatzpflege durch Pflegepersonen, die
-mit dem Pflegebedürftigen bis zum zweiten Grade verwandt oder
-verschwägert sind oder mit ihm in häuslicher Gemeinschaft leben,
-dürfen die Aufwendungen der Pflegekasse regelmäßig den Betrag des
-Pflegegeldes nach § 37 Abs. 1 nicht überschreiten, es sei denn, die
-Ersatzpflege wird erwerbsmäßig ausgeübt; in diesen Fällen findet der
-Leistungsbetrag nach Satz 3 Anwendung. Bei Bezug der Leistung in Höhe
+nachgewiesenen Kosten einer notwendigen Ersatzpflege für längstens
+sechs Wochen je Kalenderjahr; § 34 Absatz 2 Satz 1 gilt nicht.
+Voraussetzung ist, dass die Pflegeperson den Pflegebedürftigen vor der
+erstmaligen Verhinderung mindestens sechs Monate in seiner häuslichen
+Umgebung gepflegt hat und der Pflegebedürftige zum Zeitpunkt der
+Verhinderung mindestens in Pflegegrad 2 eingestuft ist. Die
+Aufwendungen der Pflegekasse können sich im Kalenderjahr auf bis zu 1
+612 Euro belaufen, wenn die Ersatzpflege durch andere Pflegepersonen
+sichergestellt wird als solche, die mit dem Pflegebedürftigen bis zum
+zweiten Grade verwandt oder verschwägert sind oder die mit ihm in
+häuslicher Gemeinschaft leben.
+
+(2) Der Leistungsbetrag nach Absatz 1 Satz 3 kann um bis zu 806 Euro
+aus noch nicht in Anspruch genommenen Mitteln der Kurzzeitpflege nach
+§ 42 Absatz 2 Satz 2 auf insgesamt bis zu 2 418 Euro im Kalenderjahr
+erhöht werden. Der für die Verhinderungspflege in Anspruch genommene
+Erhöhungsbetrag wird auf den Leistungsbetrag für eine Kurzzeitpflege
+nach § 42 Absatz 2 Satz 2 angerechnet.
+
+(3) Bei einer Ersatzpflege durch Pflegepersonen, die mit dem
+Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert
+sind oder mit ihm in häuslicher Gemeinschaft leben, dürfen die
+Aufwendungen der Pflegekasse regelmäßig den Betrag des Pflegegeldes
+nach § 37 Absatz 1 Satz 3 für bis zu sechs Wochen nicht überschreiten.
+Wird die Ersatzpflege von den in Satz 1 genannten Personen
+erwerbsmäßig ausgeübt, können sich die Aufwendungen der Pflegekasse
+abweichend von Satz 1 auf den Leistungsbetrag nach Absatz 1 Satz 3
+belaufen; Absatz 2 findet Anwendung. Bei Bezug der Leistung in Höhe
 des Pflegegeldes für eine Ersatzpflege durch Pflegepersonen, die mit
 dem Pflegebedürftigen bis zum zweiten Grade verwandt oder verschwägert
 sind oder mit ihm in häuslicher Gemeinschaft leben, können von der
 Pflegekasse auf Nachweis notwendige Aufwendungen, die der Pflegeperson
 im Zusammenhang mit der Ersatzpflege entstanden sind, übernommen
-werden. Die Aufwendungen der Pflegekasse nach den Sätzen 4 und 5
-dürfen zusammen den in Satz 3 genannten Betrag nicht übersteigen.
+werden. Die Aufwendungen der Pflegekasse nach den Sätzen 1 und 3
+dürfen zusammen den Leistungsbetrag nach Absatz 1 Satz 3 nicht
+übersteigen; Absatz 2 findet Anwendung.
 
 
 ##### § 40 Pflegehilfsmittel und wohnumfeldverbessernde Maßnahmen
@@ -2193,7 +3088,7 @@ Folgekosten selbst zu tragen. § 33 Abs. 6 und 7 des Fünften Buches
 gilt entsprechend.
 
 (2) Die Aufwendungen der Pflegekassen für zum Verbrauch bestimmte
-Pflegehilfsmittel dürfen monatlich den Betrag von 31 Euro nicht
+Pflegehilfsmittel dürfen monatlich den Betrag von 40 Euro nicht
 übersteigen. Die Leistung kann auch in Form einer Kostenerstattung
 erbracht werden.
 
@@ -2225,12 +3120,12 @@ Pflegebedürftigen gewähren, beispielsweise für technische Hilfen im
 Haushalt, wenn dadurch im Einzelfall die häusliche Pflege ermöglicht
 oder erheblich erleichtert oder eine möglichst selbständige
 Lebensführung des Pflegebedürftigen wiederhergestellt wird. Die
-Zuschüsse dürfen einen Betrag in Höhe von 2 557 Euro je Maßnahme nicht
+Zuschüsse dürfen einen Betrag in Höhe von 4 000 Euro je Maßnahme nicht
 übersteigen. Leben mehrere Pflegebedürftige in einer gemeinsamen
 Wohnung, dürfen die Zuschüsse für Maßnahmen zur Verbesserung des
-gemeinsamen Wohnumfeldes einen Betrag in Höhe von 2 557 Euro je
+gemeinsamen Wohnumfeldes einen Betrag in Höhe von 4 000 Euro je
 Pflegebedürftigem nicht übersteigen. Der Gesamtbetrag je Maßnahme nach
-Satz 3 ist auf 10 228 Euro begrenzt und wird bei mehr als vier
+Satz 3 ist auf 16 000 Euro begrenzt und wird bei mehr als vier
 Anspruchsberechtigten anteilig auf die Versicherungsträger der
 Anspruchsberechtigten aufgeteilt.
 
@@ -2272,110 +3167,54 @@ von Pflegebedürftigen nach § 28 Absatz 2.
 
 ##### § 41 Tagespflege und Nachtpflege
 
-(1) Pflegebedürftige haben Anspruch auf teilstationäre Pflege in
-Einrichtungen der Tages- oder Nachtpflege, wenn häusliche Pflege nicht
-in ausreichendem Umfang sichergestellt werden kann oder wenn dies zur
-Ergänzung oder Stärkung der häuslichen Pflege erforderlich ist. Die
-teilstationäre Pflege umfaßt auch die notwendige Beförderung des
-Pflegebedürftigen von der Wohnung zur Einrichtung der Tagespflege oder
-der Nachtpflege und zurück.
+(1) Pflegebedürftige der Pflegegrade 2 bis 5 haben Anspruch auf
+teilstationäre Pflege in Einrichtungen der Tages- oder Nachtpflege,
+wenn häusliche Pflege nicht in ausreichendem Umfang sichergestellt
+werden kann oder wenn dies zur Ergänzung oder Stärkung der häuslichen
+Pflege erforderlich ist. Die teilstationäre Pflege umfaßt auch die
+notwendige Beförderung des Pflegebedürftigen von der Wohnung zur
+Einrichtung der Tagespflege oder der Nachtpflege und zurück.
 
 (2) Die Pflegekasse übernimmt im Rahmen der Leistungsbeträge nach Satz
-2 die pflegebedingten Aufwendungen der teilstationären Pflege, die
-Aufwendungen der sozialen Betreuung und die Aufwendungen für die in
-der Einrichtung notwendigen Leistungen der medizinischen
+2 die pflegebedingten Aufwendungen der teilstationären Pflege
+einschließlich der Aufwendungen für Betreuung und die Aufwendungen für
+die in der Einrichtung notwendigen Leistungen der medizinischen
 Behandlungspflege. Der Anspruch auf teilstationäre Pflege umfasst je
 Kalendermonat
 
-1.  für Pflegebedürftige der Pflegestufe I einen Gesamtwert bis zu
-
-    a)  420 Euro ab 1. Juli 2008,
-
-
-    b)  440 Euro ab 1. Januar 2010,
+1.  für Pflegebedürftige des Pflegegrades 2 einen Gesamtwert bis zu 689
+    Euro,
 
 
-    c)  450 Euro ab 1. Januar 2012,
+2.  für Pflegebedürftige des Pflegegrades 3 einen Gesamtwert bis zu 1 298
+    Euro,
 
 
+3.  für Pflegebedürftige des Pflegegrades 4 einen Gesamtwert bis zu 1 612
+    Euro,
 
 
-
-2.  für Pflegebedürftige der Pflegestufe II einen Gesamtwert bis zu
-
-    a)  980 Euro ab 1. Juli 2008,
-
-
-    b)  1 040 Euro ab 1. Januar 2010,
-
-
-    c)  1 100 Euro ab 1. Januar 2012,
+4.  für Pflegebedürftige des Pflegegrades 5 einen Gesamtwert bis zu 1 995
+    Euro.
 
 
 
 
+(3) Pflegebedürftige der Pflegegrade 2 bis 5 können teilstationäre
+Tages- und Nachtpflege zusätzlich zu ambulanten Pflegesachleistungen,
+Pflegegeld oder der Kombinationsleistung nach § 38 in Anspruch nehmen,
+ohne dass eine Anrechnung auf diese Ansprüche erfolgt.
 
-3.  für Pflegebedürftige der Pflegestufe III einen Gesamtwert bis zu
-
-    a)  1 470 Euro ab 1. Juli 2008,
-
-
-    b)  1 510 Euro ab 1. Januar 2010,
-
-
-    c)  1 550 Euro ab 1. Januar 2012.
-
-
-
-
-
-
-
-(3) Pflegebedürftige können nach näherer Bestimmung der Absätze 4 bis
-6 die Ansprüche auf Tages- und Nachtpflege, Pflegegeld und
-Pflegesachleistung nach ihrer Wahl miteinander kombinieren.
-
-(4) Wird die Leistung nach Absatz 2 nur zusammen mit Sachleistungen
-nach § 36 in Anspruch genommen, dürfen die Aufwendungen insgesamt je
-Kalendermonat 150 vom Hundert des in § 36 Abs. 3 und 4 für die
-jeweilige Pflegestufe vorgesehenen Höchstbetrages nicht übersteigen.
-Dabei mindert sich der Sachleistungsanspruch nach § 36 Abs. 3 und 4 um
-den Vomhundertsatz, mit dem die Leistung nach Absatz 2 über 50 vom
-Hundert in Anspruch genommen wird.
-
-(5) Wird die Leistung nach Absatz 2 nur zusammen mit Pflegegeld nach §
-37 in Anspruch genommen, erfolgt keine Minderung des Pflegegeldes,
-soweit die Aufwendungen für die Leistung nach Absatz 2 je
-Kalendermonat 50 vom Hundert des in § 36 Abs. 3 und 4 für die
-jeweilige Pflegestufe vorgesehenen Höchstbetrages nicht übersteigen.
-Ansonsten mindert sich der Pflegegeldanspruch nach § 37 um den
-Vomhundertsatz, mit dem die Leistung nach Absatz 2 über 50 vom Hundert
-in Anspruch genommen wird.
-
-(6) Wird die Leistung nach Absatz 2 zusammen mit der Kombination von
-Geldleistung und Sachleistung (§ 38) in Anspruch genommen, bleibt die
-Leistung nach Absatz 2 unberücksichtigt, soweit sie je Kalendermonat
-50 vom Hundert des in § 36 Abs. 3 und 4 für die jeweilige Pflegestufe
-vorgesehenen Höchstbetrages nicht übersteigt. Ansonsten findet § 38
-Satz 2 mit der Maßgabe Anwendung, dass bei der Ermittlung des
-Vomhundertsatzes, um den das Pflegegeld zu kürzen ist, von einem
-Gesamtleistungsanspruch in Höhe von 150 vom Hundert auszugehen ist und
-der Restpflegegeldanspruch auf den Betrag begrenzt ist, der sich ohne
-Inanspruchnahme der Tagespflege ergeben würde.
-
-(7) In Fällen, in denen Pflegebedürftige ambulante
-Pflegesachleistungen und Tages- oder Nachtpflege in Anspruch nehmen,
-sind die Vergütungen für ambulante Pflegesachleistungen vorrangig vor
-den Vergütungen für Tages- oder Nachtpflege abzurechnen und zu
-bezahlen.
+(4) bis (7) (weggefallen)
 
 
 ##### § 42 Kurzzeitpflege
 
 (1) Kann die häusliche Pflege zeitweise nicht, noch nicht oder nicht
 im erforderlichen Umfang erbracht werden und reicht auch
-teilstationäre Pflege nicht aus, besteht Anspruch auf Pflege in einer
-vollstationären Einrichtung. Dies gilt:
+teilstationäre Pflege nicht aus, besteht für Pflegebedürftige der
+Pflegegrade 2 bis 5 Anspruch auf Pflege in einer vollstationären
+Einrichtung. Dies gilt:
 
 1.  für eine Übergangszeit im Anschluß an eine stationäre Behandlung des
     Pflegebedürftigen oder
@@ -2387,27 +3226,31 @@ vollstationären Einrichtung. Dies gilt:
 
 
 
-(2) Der Anspruch auf Kurzzeitpflege ist auf vier Wochen pro
+(2) Der Anspruch auf Kurzzeitpflege ist auf acht Wochen pro
 Kalenderjahr beschränkt. Die Pflegekasse übernimmt die pflegebedingten
-Aufwendungen, die Aufwendungen der sozialen Betreuung sowie die
+Aufwendungen einschließlich der Aufwendungen für Betreuung sowie die
 Aufwendungen für Leistungen der medizinischen Behandlungspflege bis zu
-dem Gesamtbetrag von 1 470 Euro ab 1. Juli 2008, 1 510 Euro ab 1.
-Januar 2010 und 1 550 Euro ab 1. Januar 2012 im Kalenderjahr.
+dem Gesamtbetrag von 1 612 Euro im Kalenderjahr. Der Leistungsbetrag
+nach Satz 2 kann um bis zu 1 612 Euro aus noch nicht in Anspruch
+genommenen Mitteln der Verhinderungspflege nach § 39 Absatz 1 Satz 3
+auf insgesamt bis zu 3 224 Euro im Kalenderjahr erhöht werden. Der für
+die Kurzzeitpflege in Anspruch genommene Erhöhungsbetrag wird auf den
+Leistungsbetrag für eine Verhinderungspflege nach § 39 Absatz 1 Satz 3
+angerechnet.
 
 (3) Abweichend von den Absätzen 1 und 2 besteht der Anspruch auf
 Kurzzeitpflege in begründeten Einzelfällen bei zu Hause gepflegten
-Kindern bis zur Vollendung des 25. Lebensjahres auch in geeigneten
-Einrichtungen der Hilfe für behinderte Menschen und anderen geeigneten
-Einrichtungen, wenn die Pflege in einer von den Pflegekassen zur
-Kurzzeitpflege zugelassenen Pflegeeinrichtung nicht möglich ist oder
-nicht zumutbar erscheint. § 34 Abs. 2 Satz 1 findet keine Anwendung.
-Sind in dem Entgelt für die Einrichtung Kosten für Unterkunft und
-Verpflegung sowie Aufwendungen für Investitionen enthalten, ohne
-gesondert ausgewiesen zu sein, so sind 60 vom Hundert des Entgelts
-zuschussfähig. In begründeten Einzelfällen kann die Pflegekasse in
-Ansehung der Kosten für Unterkunft und Verpflegung sowie der
-Aufwendungen für Investitionen davon abweichende pauschale Abschläge
-vornehmen.
+Pflegebedürftigen auch in geeigneten Einrichtungen der Hilfe für
+behinderte Menschen und anderen geeigneten Einrichtungen, wenn die
+Pflege in einer von den Pflegekassen zur Kurzzeitpflege zugelassenen
+Pflegeeinrichtung nicht möglich ist oder nicht zumutbar erscheint. §
+34 Abs. 2 Satz 1 findet keine Anwendung. Sind in dem Entgelt für die
+Einrichtung Kosten für Unterkunft und Verpflegung sowie Aufwendungen
+für Investitionen enthalten, ohne gesondert ausgewiesen zu sein, so
+sind 60 vom Hundert des Entgelts zuschussfähig. In begründeten
+Einzelfällen kann die Pflegekasse in Ansehung der Kosten für
+Unterkunft und Verpflegung sowie der Aufwendungen für Investitionen
+davon abweichende pauschale Abschläge vornehmen.
 
 (4) Abweichend von den Absätzen 1 und 2 besteht der Anspruch auf
 Kurzzeitpflege auch in Einrichtungen, die stationäre Leistungen zur
@@ -2423,79 +3266,37 @@ Pflegebedürftigen erforderlich ist.
 
 ##### § 43 Inhalt der Leistung
 
-(1) Pflegebedürftige haben Anspruch auf Pflege in vollstationären
-Einrichtungen, wenn häusliche oder teilstationäre Pflege nicht möglich
-ist oder wegen der Besonderheit des einzelnen Falles nicht in Betracht
-kommt.
+(1) Pflegebedürftige der Pflegegrade 2 bis 5 haben Anspruch auf Pflege
+in vollstationären Einrichtungen.
 
 (2) Für Pflegebedürftige in vollstationären Einrichtungen übernimmt
 die Pflegekasse im Rahmen der pauschalen Leistungsbeträge nach Satz 2
-die pflegebedingten Aufwendungen, die Aufwendungen der sozialen
+die pflegebedingten Aufwendungen einschließlich der Aufwendungen für
 Betreuung und die Aufwendungen für Leistungen der medizinischen
 Behandlungspflege. Der Anspruch beträgt je Kalendermonat
 
-1.  für Pflegebedürftige der Pflegestufe I 1.023 Euro,
+1.  770 Euro für Pflegebedürftige des Pflegegrades 2,
 
 
-2.  für Pflegebedürftige der Pflegestufe II 1.279 Euro,
+2.  1 262 Euro für Pflegebedürftige des Pflegegrades 3,
 
 
-3.  für Pflegebedürftige der Pflegestufe III
-
-    a)  1.470 Euro ab 1. Juli 2008,
+3.  1 775 Euro für Pflegebedürftige des Pflegegrades 4,
 
 
-    b)  1.510 Euro ab 1. Januar 2010,
-
-
-    c)  1.550 Euro ab 1. Januar 2012,
+4.  2 005 Euro für Pflegebedürftige des Pflegegrades 5.
 
 
 
+Abweichend von Satz 1 übernimmt die Pflegekasse auch Aufwendungen für
+Unterkunft und Verpflegung, soweit der nach Satz 2 gewährte
+Leistungsbetrag die in Satz 1 genannten Aufwendungen übersteigt.
 
+(3) Wählen Pflegebedürftige des Pflegegrades 1 vollstationäre Pflege,
+erhalten sie für die in Absatz 2 Satz 1 genannten Aufwendungen einen
+Zuschuss in Höhe von 125 Euro monatlich.
 
-4.  für Pflegebedürftige, die nach Absatz 3 als Härtefall anerkannt sind,
-
-    a)  1.750 Euro ab 1. Juli 2008,
-
-
-    b)  1.825 Euro ab 1. Januar 2010,
-
-
-    c)  1.918 Euro ab 1. Januar 2012.
-
-
-
-
-
-
-Der von der Pflegekasse einschließlich einer Dynamisierung nach § 30
-zu übernehmende Betrag darf 75 vom Hundert des Gesamtbetrages aus
-Pflegesatz, Entgelt für Unterkunft und Verpflegung und gesondert
-berechenbaren Investitionskosten nach § 82 Abs. 3 und 4 nicht
-übersteigen.
-
-(3) Die Pflegekassen können in besonderen Ausnahmefällen zur
-Vermeidung von Härten die pflegebedingten Aufwendungen, die
-Aufwendungen der sozialen Betreuung und die Aufwendungen für
-Leistungen der medizinischen Behandlungspflege pauschal in Höhe des
-nach Absatz 2 Satz 2 Nr. 4 geltenden Betrages übernehmen, wenn ein
-außergewöhnlich hoher und intensiver Pflegeaufwand erforderlich ist,
-der das übliche Maß der Pflegestufe III weit übersteigt,
-beispielsweise bei Apallikern, schwerer Demenz oder im Endstadium von
-Krebserkrankungen. Die Ausnahmeregelung des Satzes 1 darf für nicht
-mehr als 5 vom Hundert aller versicherten Pflegebedürftigen der
-Pflegestufe III, die stationäre Pflegeleistungen erhalten, Anwendung
-finden. Der Spitzenverband Bund der Pflegekassen überwacht die
-Einhaltung dieses Höchstsatzes und hat erforderlichenfalls geeignete
-Maßnahmen zur Einhaltung zu ergreifen.
-
-(4) Wählen Pflegebedürftige vollstationäre Pflege, obwohl diese nach
-Feststellung der Pflegekasse nicht erforderlich ist, erhalten sie zu
-den pflegebedingten Aufwendungen einen Zuschuß in Höhe des in § 36
-Abs. 3 für die jeweilige Pflegestufe vorgesehenen Gesamtwertes.
-
-(5) Bei vorübergehender Abwesenheit von Pflegebedürftigen aus dem
+(4) Bei vorübergehender Abwesenheit von Pflegebedürftigen aus dem
 Pflegeheim werden die Leistungen für vollstationäre Pflege erbracht,
 solange die Voraussetzungen des § 87a Abs. 1 Satz 5 und 6 vorliegen.
 
@@ -2506,18 +3307,30 @@ solange die Voraussetzungen des § 87a Abs. 1 Satz 5 und 6 vorliegen.
 
 ##### § 43a Inhalt der Leistung
 
-Für Pflegebedürftige in einer vollstationären Einrichtung der Hilfe
-für behinderte Menschen, in der die Teilhabe am Arbeitsleben und am
-Leben in der Gemeinschaft, die schulische Ausbildung oder die
-Erziehung behinderter Menschen im Vordergrund des Einrichtungszwecks
-stehen (§ 71 Abs. 4), übernimmt die Pflegekasse zur Abgeltung der in §
-43 Abs. 2 genannten Aufwendungen zehn vom Hundert des nach § 75 Abs. 3
-des Zwölften Buches vereinbarten Heimentgelts. Die Aufwendungen der
-Pflegekasse dürfen im Einzelfall je Kalendermonat 256 Euro nicht
-überschreiten. Wird für die Tage, an denen die pflegebedürftigen
-Behinderten zu Hause gepflegt und betreut werden, anteiliges
-Pflegegeld beansprucht, gelten die Tage der An- und Abreise als volle
-Tage der häuslichen Pflege.
+Für Pflegebedürftige der Pflegegrade 2 bis 5 in einer vollstationären
+Einrichtung der Hilfe für behinderte Menschen, in der die Teilhabe am
+Arbeitsleben und am Leben in der Gemeinschaft, die schulische
+Ausbildung oder die Erziehung behinderter Menschen im Vordergrund des
+Einrichtungszwecks stehen (§ 71 Abs. 4), übernimmt die Pflegekasse zur
+Abgeltung der in § 43 Abs. 2 genannten Aufwendungen zehn vom Hundert
+des nach § 75 Abs. 3 des Zwölften Buches vereinbarten Heimentgelts.
+Die Aufwendungen der Pflegekasse dürfen im Einzelfall je Kalendermonat
+266 Euro nicht überschreiten. Wird für die Tage, an denen die
+pflegebedürftigen Behinderten zu Hause gepflegt und betreut werden,
+anteiliges Pflegegeld beansprucht, gelten die Tage der An- und Abreise
+als volle Tage der häuslichen Pflege.
+
+
+#### Fünfter Titel - Zusätzliche Betreuung und Aktivierung in stationären Pflegeeinrichtungen
+
+
+
+##### § 43b Inhalt der Leistung
+
+Pflegebedürftige in stationären Pflegeeinrichtungen haben nach Maßgabe
+von § 84 Absatz 8 und § 85 Absatz 8 Anspruch auf zusätzliche Betreuung
+und Aktivierung, die über die nach Art und Schwere der
+Pflegebedürftigkeit notwendige Versorgung hinausgeht.
 
 
 ### Vierter Abschnitt - Leistungen für Pflegepersonen
@@ -2527,41 +3340,62 @@ Tage der häuslichen Pflege.
 #### § 44 Leistungen zur sozialen Sicherung der Pflegepersonen
 
 (1) Zur Verbesserung der sozialen Sicherung der Pflegepersonen im
-Sinne des § 19 entrichten die Pflegekassen und die privaten
+Sinne des § 19, die einen Pflegebedürftigen mit mindestens Pflegegrad
+2 pflegen, entrichten die Pflegekassen und die privaten
 Versicherungsunternehmen, bei denen eine private Pflege-
 Pflichtversicherung durchgeführt wird, sowie die sonstigen in § 170
-Abs. 1 Nr. 6 des Sechsten Buches genannten Stellen Beiträge an den
-zuständigen Träger der gesetzlichen Rentenversicherung, wenn die
-Pflegeperson regelmäßig nicht mehr als dreißig Stunden wöchentlich
-erwerbstätig ist. Näheres regeln die §§ 3, 137, 166 und 170 des
-Sechsten Buches. Der Medizinische Dienst der Krankenversicherung
-stellt im Einzelfall fest, ob und in welchem zeitlichen Umfang
-häusliche Pflege durch eine Pflegeperson erforderlich ist. Der
-Pflegebedürftige oder die Pflegeperson haben darzulegen und auf
-Verlangen glaubhaft zu machen, daß Pflegeleistungen in diesem
-zeitlichen Umfang auch tatsächlich erbracht werden. Dies gilt
-insbesondere, wenn Pflegesachleistungen (§ 36) in Anspruch genommen
-werden. Während der pflegerischen Tätigkeit sind die Pflegepersonen
-nach Maßgabe der §§ 2, 4, 105, 106, 129, 185 des Siebten Buches in den
-Versicherungsschutz der gesetzlichen Unfallversicherung einbezogen.
-Pflegepersonen, die nach der Pflegetätigkeit in das Erwerbsleben
-zurückkehren wollen, können bei beruflicher Weiterbildung nach Maßgabe
-des Dritten Buches bei Vorliegen der dort genannten Voraussetzungen
-gefördert werden.
+Absatz 1 Nummer 6 des Sechsten Buches genannten Stellen Beiträge nach
+Maßgabe des § 166 Absatz 2 des Sechsten Buches an den zuständigen
+Träger der gesetzlichen Rentenversicherung, wenn die Pflegeperson
+regelmäßig nicht mehr als 30 Stunden wöchentlich erwerbstätig ist. Der
+Medizinische Dienst der Krankenversicherung oder ein anderer von der
+Pflegekasse beauftragter unabhängiger Gutachter ermittelt im
+Einzelfall, ob die Pflegeperson eine oder mehrere pflegebedürftige
+Personen wenigstens zehn Stunden wöchentlich, verteilt auf regelmäßig
+mindestens zwei Tage in der Woche, pflegt. Wird die Pflege eines
+Pflegebedürftigen von mehreren Pflegepersonen erbracht
+(Mehrfachpflege), wird zudem der Umfang der jeweiligen Pflegetätigkeit
+je Pflegeperson im Verhältnis zum Umfang der von den Pflegepersonen zu
+leistenden Pflegetätigkeit insgesamt (Gesamtpflegeaufwand) ermittelt.
+Dabei werden die Angaben der beteiligten Pflegepersonen zugrunde
+gelegt. Werden keine oder keine übereinstimmenden Angaben gemacht,
+erfolgt eine Aufteilung zu gleichen Teilen. Die Feststellungen zu den
+Pflegezeiten und zum Pflegeaufwand der Pflegeperson sowie bei
+Mehrfachpflege zum Einzel- und Gesamtpflegeaufwand trifft die für die
+Pflegeleistungen nach diesem Buch zuständige Stelle. Diese
+Feststellungen sind der Pflegeperson auf Wunsch zu übermitteln.
 
 (2) Für Pflegepersonen, die wegen einer Pflichtmitgliedschaft in einer
 berufsständischen Versorgungseinrichtung auch in ihrer Pflegetätigkeit
 von der Versicherungspflicht in der gesetzlichen Rentenversicherung
 befreit sind oder befreit wären, wenn sie in der gesetzlichen
 Rentenversicherung versicherungspflichtig wären und einen
-Befreiungsantrag gestellt hätten, werden die nach Absatz 1 Satz 1 und
-2 zu entrichtenden Beiträge auf Antrag an die berufsständische
+Befreiungsantrag gestellt hätten, werden die nach Absatz 1 zu
+entrichtenden Beiträge auf Antrag an die berufsständische
 Versorgungseinrichtung gezahlt.
 
+(2a) Während der pflegerischen Tätigkeit sind Pflegepersonen im Sinne
+des § 19, die einen Pflegebedürftigen mit mindestens Pflegegrad 2
+pflegen, nach Maßgabe des § 2 Absatz 1 Nummer 17 des Siebten Buches in
+den Versicherungsschutz der gesetzlichen Unfallversicherung
+einbezogen.
+
+(2b) Während der pflegerischen Tätigkeit sind Pflegepersonen im Sinne
+des § 19, die einen Pflegebedürftigen mit mindestens Pflegegrad 2
+pflegen, nach Maßgabe des § 26 Absatz 2b des Dritten Buches nach dem
+Recht der Arbeitsförderung versichert. Die Pflegekassen und die
+privaten Versicherungsunternehmen, bei denen eine private Pflege-
+Pflichtversicherung durchgeführt wird, sowie die sonstigen in § 347
+Nummer 10 Buchstabe c des Dritten Buches genannten Stellen entrichten
+für die Pflegepersonen Beiträge an die Bundesagentur für Arbeit.
+Näheres zu den Beiträgen und zum Verfahren regeln die §§ 345, 347 und
+349 des Dritten Buches.
+
 (3) Die Pflegekasse und das private Versicherungsunternehmen haben die
-in der Renten- und Unfallversicherung zu versichernde Pflegeperson den
-zuständigen Renten- und Unfallversicherungsträgern zu melden. Die
-Meldung für die Pflegeperson enthält:
+in der Renten- und Unfallversicherung sowie nach dem Dritten Buch zu
+versichernde Pflegeperson den zuständigen Renten- und
+Unfallversicherungsträgern sowie der Bundesagentur für Arbeit zu
+melden. Die Meldung für die Pflegeperson enthält:
 
 1.  ihre Versicherungsnummer, soweit bekannt,
 
@@ -2581,18 +3415,19 @@ Meldung für die Pflegeperson enthält:
 6.  Beginn und Ende der Pflegetätigkeit,
 
 
-7.  die Pflegestufe des Pflegebedürftigen und
+7.  den Pflegegrad des Pflegebedürftigen und
 
 
-8.  die unter Berücksichtigung des Umfangs der Pflegetätigkeit nach § 166
-    des Sechsten Buches maßgeblichen beitragspflichtigen Einnahmen.
+8.  die nach § 166 Absatz 2 des Sechsten Buches maßgeblichen
+    beitragspflichtigen Einnahmen.
 
 
 
 Der Spitzenverband Bund der Pflegekassen sowie der Verband der
 privaten Krankenversicherung e. V. können mit der Deutschen
 Rentenversicherung Bund und mit den Trägern der Unfallversicherung
-Näheres über das Meldeverfahren vereinbaren.
+sowie mit der Bundesagentur für Arbeit Näheres über das Meldeverfahren
+vereinbaren.
 
 (4) Der Inhalt der Meldung nach Absatz 3 Satz 2 Nr. 1 bis 6 und 8 ist
 der Pflegeperson, der Inhalt der Meldung nach Absatz 3 Satz 2 Nr. 7
@@ -2600,21 +3435,46 @@ dem Pflegebedürftigen schriftlich mitzuteilen.
 
 (5) Die Pflegekasse und das private Versicherungsunternehmen haben in
 den Fällen, in denen eine nicht erwerbsmäßig tätige Pflegeperson einen
-Pflegebedürftigen pflegt, der Anspruch auf Beihilfeleistungen oder
-Leistungen der Heilfürsorge hat und für die die Beiträge an die
-gesetzliche Rentenversicherung nach § 170 Abs. 1 Nr. 6 Buchstabe c des
-Sechsten Buches anteilig getragen werden, im Antragsverfahren auf
-Leistungen der Pflegeversicherung von dem Pflegebedürftigen ab dem 1.
-Juni 2005 die zuständige Festsetzungsstelle für die Beihilfe oder den
-Dienstherrn unter Hinweis auf die beabsichtigte Weiterleitung der in
-Satz 2 genannten Angaben an diese Stelle zu erfragen. Der angegebenen
-Festsetzungsstelle für die Beihilfe oder dem Dienstherrn sind bei
-Feststellung der Beitragspflicht die in Absatz 3 Satz 2 Nr. 1 bis 5
-und 8 genannten Angaben sowie der Beginn der Beitragspflicht
-mitzuteilen. Absatz 4 findet auf Satz 2 entsprechende Anwendung.
+Pflegebedürftigen mit mindestens Pflegegrad 2 pflegt, der Anspruch auf
+Beihilfeleistungen oder Leistungen der Heilfürsorge hat, und für die
+die Beiträge an die gesetzliche Rentenversicherung nach § 170 Absatz 1
+Nummer 6 Buchstabe c des Sechsten Buches oder an die Bundesagentur für
+Arbeit nach § 347 Nummer 10 Buchstabe c des Dritten Buches anteilig
+getragen werden, im Antragsverfahren auf Leistungen der
+Pflegeversicherung von dem Pflegebedürftigen die zuständige
+Festsetzungsstelle für die Beihilfe oder den Dienstherrn unter Hinweis
+auf die beabsichtigte Weiterleitung der in Satz 2 genannten Angaben an
+diese Stelle zu erfragen. Der angegebenen Festsetzungsstelle für die
+Beihilfe oder dem Dienstherrn sind bei Feststellung der
+Beitragspflicht sowie bei Änderungen in den Verhältnissen des
+Pflegebedürftigen oder der Pflegeperson, insbesondere bei einer
+Änderung des Pflegegrades, einer Unterbrechung der Pflegetätigkeit
+oder einem Wechsel der Pflegeperson, die in Absatz 3 Satz 2 genannten
+Angaben mitzuteilen. Absatz 4 findet auf Satz 2 entsprechende
+Anwendung.
+
+(6) Für Pflegepersonen, bei denen die Mindeststundenzahl von zehn
+Stunden wöchentlicher Pflege, verteilt auf regelmäßig mindestens zwei
+Tage in der Woche, nur durch die Pflege mehrerer Pflegebedürftiger
+erreicht wird, haben der Spitzenverband Bund der Pflegekassen, der
+Verband der privaten Krankenversicherung e. V., die Deutsche
+Rentenversicherung Bund und die Bundesagentur für Arbeit das Verfahren
+und die Mitteilungspflichten zwischen den an einer Addition von
+Pflegezeiten und Pflegeaufwänden beteiligten Pflegekassen und
+Versicherungsunternehmen durch Vereinbarung zu regeln. Die
+Pflegekassen und Versicherungsunternehmen dürfen die in Absatz 3 Satz
+2 Nummer 1 bis 3 und 6 und, soweit dies für eine sichere
+Identifikation der Pflegeperson erforderlich ist, die in den Nummern 4
+und 5 genannten Daten sowie die Angabe des zeitlichen Umfangs der
+Pflegetätigkeit der Pflegeperson an andere Pflegekassen und
+Versicherungsunternehmen, die an einer Addition von Pflegezeiten und
+Pflegeaufwänden beteiligt sind, zur Überprüfung der Voraussetzungen
+der Rentenversicherungspflicht oder der Versicherungspflicht nach dem
+Dritten Buch der Pflegeperson übermitteln und ihnen übermittelte Daten
+verarbeiten und nutzen.
 
 
-#### § 44a Zusätzliche Leistungen bei Pflegezeit
+#### § 44a Zusätzliche Leistungen bei Pflegezeit und kurzzeitiger Arbeitsverhinderung
 
 (1) Beschäftigte, die nach § 3 des Pflegezeitgesetzes von der
 Arbeitsleistung vollständig freigestellt wurden oder deren
@@ -2635,40 +3495,160 @@ der gesetzlichen Krankenversicherung versicherten Personen zur
 gesetzlichen Krankenversicherung (§ 240 Abs. 4 Satz 1 des Fünften
 Buches) und zur sozialen Pflegeversicherung (§ 57 Abs. 4) zu
 entrichten sind und dürfen die tatsächliche Höhe der Beiträge nicht
-übersteigen; dabei wird ab 1. Januar 2009 für die Berechnung der
-Mindestbeiträge zur gesetzlichen Krankenversicherung der allgemeine
-Beitragssatz zugrunde gelegt. In der Zeit vom 1. Juli bis 31. Dezember
-2008 wird bei Mitgliedern der gesetzlichen Krankenversicherung der
-allgemeine Beitragssatz der jeweiligen Krankenkasse (§ 241 des Fünften
-Buches), bei Mitgliedern der landwirtschaftlichen Krankenversicherung
-der durchschnittliche allgemeine Beitragssatz der Krankenkassen sowie
-jeweils der zusätzliche Beitragssatz in Höhe von 0,9 vom Hundert (§
-241a des Fünften Buches) zugrunde gelegt. Bei Personen, die nicht
-Mitglieder in der gesetzlichen Krankenversicherung sind, wird in der
-Zeit vom 1. Juli bis 31. Dezember 2008 der durchschnittliche
-allgemeine Beitragssatz der Krankenkassen nach § 245 Abs. 1 des
-Fünften Buches sowie der zusätzliche Beitragssatz in Höhe von 0,9 vom
-Hundert (§ 241a des Fünften Buches) zugrunde gelegt. Beschäftigte
-haben Änderungen in den Verhältnissen, die sich auf die
-Zuschussgewährung auswirken können, unverzüglich der Pflegekasse oder
-dem privaten Versicherungsunternehmen, bei dem der Pflegebedürftige
-versichert ist, mitzuteilen.
+übersteigen. Für die Berechnung der Mindestbeiträge zur gesetzlichen
+Krankenversicherung werden bei Mitgliedern der gesetzlichen
+Krankenversicherung der allgemeine Beitragssatz nach § 241 des Fünften
+Buches sowie der kassenindividuelle Zusatzbeitragssatz nach § 242
+Absatz 1 des Fünften Buches zugrunde gelegt. Bei Mitgliedern der
+landwirtschaftlichen Krankenversicherung sowie bei Personen, die nicht
+in der gesetzlichen Krankenversicherung versichert sind, werden der
+allgemeine Beitragssatz nach § 241 des Fünften Buches sowie der
+durchschnittliche Zusatzbeitragssatz nach § 242a des Fünften Buches
+zugrunde gelegt. Beschäftigte haben Änderungen in den Verhältnissen,
+die sich auf die Zuschussgewährung auswirken können, unverzüglich der
+Pflegekasse oder dem privaten Versicherungsunternehmen, bei dem der
+Pflegebedürftige versichert ist, mitzuteilen.
 
-(2) Pflegende Personen sind während der Inanspruchnahme einer
-Pflegezeit im Sinne des Pflegezeitgesetzes nach Maßgabe des Dritten
-Buches nach dem Recht der Arbeitsförderung versichert.
+(2) (weggefallen)
+
+(3) Für kurzzeitige Arbeitsverhinderung nach § 2 des
+Pflegezeitgesetzes hat eine Beschäftigte oder ein Beschäftigter im
+Sinne des § 7 Absatz 1 des Pflegezeitgesetzes, die oder der für diesen
+Zeitraum keine Entgeltfortzahlung vom Arbeitgeber und kein Kranken-
+oder Verletztengeld bei Erkrankung oder Unfall eines Kindes nach § 45
+des Fünften Buches oder nach § 45 Absatz 4 des Siebten Buches
+beanspruchen kann, Anspruch auf einen Ausgleich für entgangenes
+Arbeitsentgelt (Pflegeunterstützungsgeld) für bis zu insgesamt zehn
+Arbeitstage. Wenn mehrere Beschäftigte den Anspruch nach § 2 Absatz 1
+des Pflegezeitgesetzes für einen pflegebedürftigen nahen Angehörigen
+geltend machen, ist deren Anspruch auf Pflegeunterstützungsgeld auf
+insgesamt bis zu zehn Arbeitstage begrenzt. Das
+Pflegeunterstützungsgeld wird auf Antrag, der unverzüglich zu stellen
+ist, unter Vorlage der ärztlichen Bescheinigung nach § 2 Absatz 2 Satz
+2 des Pflegezeitgesetzes von der Pflegekasse oder dem
+Versicherungsunternehmen des pflegebedürftigen nahen Angehörigen
+gewährt. Für die Höhe des Pflegeunterstützungsgeldes gilt § 45 Absatz
+2 Satz 3 bis 5 des Fünften Buches entsprechend.
+
+(4) Beschäftigte, die Pflegeunterstützungsgeld nach Absatz 3 beziehen,
+erhalten für die Dauer des Leistungsbezuges von den in Absatz 3
+bezeichneten Organisationen auf Antrag Zuschüsse zur
+Krankenversicherung. Zuschüsse werden gewährt für eine Versicherung
+bei einem privaten Krankenversicherungsunternehmen, eine Versicherung
+bei der Postbeamtenkrankenkasse oder der Krankenversorgung der
+Bundesbahnbeamten. Die Zuschüsse belaufen sich auf den Betrag, der bei
+Versicherungspflicht in der gesetzlichen Krankenversicherung als
+Leistungsträgeranteil nach § 249c des Fünften Buches aufzubringen
+wäre, und dürfen die tatsächliche Höhe der Beiträge nicht übersteigen.
+Für die Berechnung nach Satz 3 werden der allgemeine Beitragssatz nach
+§ 241 des Fünften Buches sowie der durchschnittliche
+Zusatzbeitragssatz nach § 242a Absatz 2 des Fünften Buches zugrunde
+gelegt. Für Beschäftigte, die Pflegeunterstützungsgeld nach Absatz 3
+beziehen und wegen einer Pflichtmitgliedschaft in einer
+berufsständischen Versorgungseinrichtung von der Versicherungspflicht
+in der gesetzlichen Rentenversicherung befreit sind, zahlen die in §
+170 Absatz 1 Nummer 2 Buchstabe e des Sechsten Buches genannten
+Stellen auf Antrag Beiträge an die zuständige berufsständische
+Versorgungseinrichtung in der Höhe, wie sie bei Eintritt von
+Versicherungspflicht nach § 3 Satz 1 Nummer 3 des Sechsten Buches an
+die gesetzliche Rentenversicherung zu entrichten wären. Die von den in
+§ 170 Absatz 1 Nummer 2 Buchstabe e des Sechsten Buches genannten
+Stellen zu zahlenden Beiträge sind auf die Höhe der Beiträge begrenzt,
+die von diesen Stellen ohne die Befreiung von der Versicherungspflicht
+in der gesetzlichen Rentenversicherung für die Dauer des
+Leistungsbezugs zu tragen wären; die Beiträge dürfen die Hälfte der in
+der Zeit des Leistungsbezugs vom Beschäftigten an die berufsständische
+Versorgungseinrichtung zu zahlenden Beiträge nicht übersteigen.
+
+(5) Die Pflegekasse oder das private Pflegeversicherungsunternehmen
+des pflegebedürftigen nahen Angehörigen stellt dem Leistungsbezieher
+nach Absatz 3 mit der Leistungsbewilligung eine Bescheinigung über den
+Zeitraum des Bezugs und die Höhe des gewährten
+Pflegeunterstützungsgeldes aus. Der Leistungsbezieher hat diese
+Bescheinigung unverzüglich seinem Arbeitgeber vorzulegen. In den
+Fällen des § 170 Absatz 1 Nummer 2 Buchstabe e Doppelbuchstabe cc des
+Sechsten Buches bescheinigt die Pflegekasse oder das private
+Versicherungsunternehmen die gesamte Höhe der Leistung.
+
+(6) Landwirtschaftlichen Unternehmern im Sinne des § 2 Absatz 1 Nummer
+1 und 2 des Zweiten Gesetzes über die Krankenversicherung der
+Landwirte, die an der Führung des Unternehmens gehindert sind, weil
+sie für einen pflegebedürftigen nahen Angehörigen in einer akut
+aufgetretenen Pflegesituation eine bedarfsgerechte Pflege organisieren
+oder eine pflegerische Versorgung in dieser Zeit sicherstellen müssen,
+wird anstelle des Pflegeunterstützungsgeldes für bis zu zehn
+Arbeitstage Betriebshilfe entsprechend § 9 des Zweiten Gesetzes über
+die Krankenversicherung der Landwirte gewährt. Diese Kosten der
+Leistungen für die Betriebshilfe werden der landwirtschaftlichen
+Pflegekasse von der Pflegeversicherung des pflegebedürftigen nahen
+Angehörigen erstattet; innerhalb der sozialen Pflegeversicherung wird
+von einer Erstattung abgesehen. Privat pflegeversicherte
+landwirtschaftliche Unternehmer, die an der Führung des Unternehmens
+gehindert sind, weil dies erforderlich ist, um für einen
+pflegebedürftigen nahen Angehörigen in einer akut aufgetretenen
+Pflegesituation eine bedarfsgerechte Pflege zu organisieren oder eine
+pflegerische Versorgung in dieser Zeit sicherzustellen, erhalten von
+der Pflegekasse des Pflegebedürftigen oder in Höhe des tariflichen
+Erstattungssatzes von dem privaten Versicherungsunternehmen des
+Pflegebedürftigen eine Kostenerstattung für bis zu zehn Arbeitstage
+Betriebshilfe; dabei werden nicht die tatsächlichen Kosten, sondern
+ein pauschaler Betrag in Höhe von 200 Euro je Tag Betriebshilfe
+zugrunde gelegt.
+
+(7) Die Pflegekasse und das private Versicherungsunternehmen haben in
+den Fällen, in denen ein Leistungsbezieher nach Absatz 3 einen
+pflegebedürftigen nahen Angehörigen pflegt, der Anspruch auf
+Beihilfeleistungen oder Leistungen der Heilfürsorge hat, und für den
+Beiträge anteilig getragen werden, im Antragsverfahren auf
+Pflegeunterstützungsgeld von dem Pflegebedürftigen die zuständige
+Festsetzungsstelle für die Beihilfe oder den Dienstherrn unter Hinweis
+auf die beabsichtigte Information dieser Stelle über den
+beitragspflichtigen Bezug von Pflegeunterstützungsgeld zu erfragen.
+Der angegebenen Festsetzungsstelle für die Beihilfe oder dem
+angegebenen Dienstherrn sind bei Feststellung der Beitragspflicht
+folgende Angaben zum Leistungsbezieher mitzuteilen:
+
+1.  die Versicherungsnummer, soweit bekannt,
+
+
+2.  der Familien- und der Vorname,
+
+
+3.  das Geburtsdatum,
+
+
+4.  die Staatsangehörigkeit,
+
+
+5.  die Anschrift,
+
+
+6.  der Beginn des Bezugs von Pflegeunterstützungsgeld,
+
+
+7.  die Höhe des dem Pflegeunterstützungsgeld zugrunde liegenden
+    ausgefallenen Arbeitsentgelts und
+
+
+8.  Name und Anschrift der Krankenkasse oder des privaten
+    Krankenversicherungsunternehmens.
+
+
+
 
 
 #### § 45 Pflegekurse für Angehörige und ehrenamtliche Pflegepersonen
 
-(1) Die Pflegekassen sollen für Angehörige und sonstige an einer
-ehrenamtlichen Pflegetätigkeit interessierte Personen Schulungskurse
-unentgeltlich anbieten, um soziales Engagement im Bereich der Pflege
-zu fördern und zu stärken, Pflege und Betreuung zu erleichtern und zu
-verbessern sowie pflegebedingte körperliche und seelische Belastungen
-zu mindern. Die Kurse sollen Fertigkeiten für eine eigenständige
-Durchführung der Pflege vermitteln. Die Schulung soll auch in der
-häuslichen Umgebung des Pflegebedürftigen stattfinden.
+(1) Die Pflegekassen haben für Angehörige und sonstige an einer
+ehrenamtlichen Pflegetätigkeit interessierte Personen unentgeltlich
+Schulungskurse durchzuführen, um soziales Engagement im Bereich der
+Pflege zu fördern und zu stärken, Pflege und Betreuung zu erleichtern
+und zu verbessern sowie pflegebedingte körperliche und seelische
+Belastungen zu mindern und ihrer Entstehung vorzubeugen. Die Kurse
+sollen Fertigkeiten für eine eigenständige Durchführung der Pflege
+vermitteln. Auf Wunsch der Pflegeperson und der pflegebedürftigen
+Person findet die Schulung auch in der häuslichen Umgebung des
+Pflegebedürftigen statt. § 114a Absatz 3a gilt entsprechend.
 
 (2) Die Pflegekasse kann die Kurse entweder selbst oder gemeinsam mit
 anderen Pflegekassen durchführen oder geeignete andere Einrichtungen
@@ -2680,256 +3660,323 @@ Rahmenvereinbarungen mit den Trägern der Einrichtungen schließen, die
 die Pflegekurse durchführen.
 
 
-### Fünfter Abschnitt - Leistungen für Versicherte mit erheblichem allgemeinem Betreuungsbedarf und Weiterentwicklung der Versorgungsstrukturen
+### Fünfter Abschnitt - Angebote zur Unterstützung im Alltag, Entlastungsbetrag, Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts sowie der Selbsthilfe
 
 
 
-#### § 45a Berechtigter Personenkreis
+#### § 45a Angebote zur Unterstützung im Alltag, Umwandlung des ambulanten Sachleistungsbetrags (Umwandlungsanspruch), Verordnungsermächtigung
 
-(1) Die Leistungen in diesem Abschnitt betreffen Pflegebedürftige in
-häuslicher Pflege, bei denen neben dem Hilfebedarf im Bereich der
-Grundpflege und der hauswirtschaftlichen Versorgung (§§ 14 und 15) ein
-erheblicher Bedarf an allgemeiner Beaufsichtigung und Betreuung
-gegeben ist. Dies sind
+(1) Angebote zur Unterstützung im Alltag tragen dazu bei,
+Pflegepersonen zu entlasten, und helfen Pflegebedürftigen, möglichst
+lange in ihrer häuslichen Umgebung zu bleiben, soziale Kontakte
+aufrechtzuerhalten und ihren Alltag weiterhin möglichst selbständig
+bewältigen zu können. Angebote zur Unterstützung im Alltag sind
 
-1.  Pflegebedürftige der Pflegestufen I, II und III sowie
-
-
-2.  Personen, die einen Hilfebedarf im Bereich der Grundpflege und
-    hauswirtschaftlichen Versorgung haben, der nicht das Ausmaß der
-    Pflegestufe I erreicht,
+1.  Angebote, in denen insbesondere ehrenamtliche Helferinnen und Helfer
+    unter pflegefachlicher Anleitung die Betreuung von Pflegebedürftigen
+    mit allgemeinem oder mit besonderem Betreuungsbedarf in Gruppen oder
+    im häuslichen Bereich übernehmen (Betreuungsangebote),
 
 
-
-mit demenzbedingten Fähigkeitsstörungen, geistigen Behinderungen oder
-psychischen Erkrankungen, bei denen der Medizinische Dienst der
-Krankenversicherung oder die von der Pflegekasse beauftragten
-Gutachter im Rahmen der Begutachtung nach § 18 als Folge der Krankheit
-oder Behinderung Auswirkungen auf die Aktivitäten des täglichen Lebens
-festgestellt haben, die dauerhaft zu einer erheblichen Einschränkung
-der Alltagskompetenz geführt haben.
-
-(2) Für die Bewertung, ob die Einschränkung der Alltagskompetenz auf
-Dauer erheblich ist, sind folgende Schädigungen und
-Fähigkeitsstörungen maßgebend:
-
-1.  unkontrolliertes Verlassen des Wohnbereiches (Weglauftendenz);
+2.  Angebote, die der gezielten Entlastung und beratenden Unterstützung
+    von pflegenden Angehörigen und vergleichbar nahestehenden
+    Pflegepersonen in ihrer Eigenschaft als Pflegende dienen (Angebote zur
+    Entlastung von Pflegenden),
 
 
-2.  Verkennen oder Verursachen gefährdender Situationen;
-
-
-3.  unsachgemäßer Umgang mit gefährlichen Gegenständen oder potenziell
-    gefährdenden Substanzen;
-
-
-4.  tätlich oder verbal aggressives Verhalten in Verkennung der Situation;
-
-
-5.  im situativen Kontext inadäquates Verhalten;
-
-
-6.  Unfähigkeit, die eigenen körperlichen und seelischen Gefühle oder
-    Bedürfnisse wahrzunehmen;
-
-
-7.  Unfähigkeit zu einer erforderlichen Kooperation bei therapeutischen
-    oder schützenden Maßnahmen als Folge einer therapieresistenten
-    Depression oder Angststörung;
-
-
-8.  Störungen der höheren Hirnfunktionen (Beeinträchtigungen des
-    Gedächtnisses, herabgesetztes Urteilsvermögen), die zu Problemen bei
-    der Bewältigung von sozialen Alltagsleistungen geführt haben;
-
-
-9.  Störung des Tag-/Nacht-Rhythmus;
-
-
-10. Unfähigkeit, eigenständig den Tagesablauf zu planen und zu
-    strukturieren;
-
-
-11. Verkennen von Alltagssituationen und inadäquates Reagieren in
-    Alltagssituationen;
-
-
-12. ausgeprägtes labiles oder unkontrolliert emotionales Verhalten;
-
-
-13. zeitlich überwiegend Niedergeschlagenheit, Verzagtheit, Hilflosigkeit
-    oder Hoffnungslosigkeit aufgrund einer therapieresistenten Depression.
+3.  Angebote, die dazu dienen, die Pflegebedürftigen bei der Bewältigung
+    von allgemeinen oder pflegebedingten Anforderungen des Alltags oder im
+    Haushalt, insbesondere bei der Haushaltsführung, oder bei der
+    eigenverantwortlichen Organisation individuell benötigter
+    Hilfeleistungen zu unterstützen (Angebote zur Entlastung im Alltag).
 
 
 
-Die Alltagskompetenz ist erheblich eingeschränkt, wenn der Gutachter
-des Medizinischen Dienstes oder die von der Pflegekasse beauftragten
-Gutachter bei dem Pflegebedürftigen wenigstens in zwei Bereichen,
-davon mindestens einmal aus einem der Bereiche 1 bis 9, dauerhafte und
-regelmäßige Schädigungen oder Fähigkeitsstörungen feststellen. Der
-Spitzenverband Bund der Pflegekassen beschließt mit dem Verband der
-privaten Krankenversicherung e. V. unter Beteiligung der kommunalen
-Spitzenverbände auf Bundesebene, der maßgeblichen Organisationen für
-die Wahrnehmung der Interessen und der Selbsthilfe der
-pflegebedürftigen und behinderten Menschen auf Bundesebene und des
-Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen in
-Ergänzung der Richtlinien nach § 17 das Nähere zur einheitlichen
-Begutachtung und Feststellung des erheblichen und dauerhaften Bedarfs
-an allgemeiner Beaufsichtigung und Betreuung.
+Die Angebote benötigen eine Anerkennung durch die zuständige Behörde
+nach Maßgabe des gemäß Absatz 3 erlassenen Landesrechts. Durch ein
+Angebot zur Unterstützung im Alltag können auch mehrere der in Satz 2
+Nummer 1 bis 3 genannten Bereiche abgedeckt werden. In Betracht kommen
+als Angebote zur Unterstützung im Alltag insbesondere
+Betreuungsgruppen für an Demenz erkrankte Menschen, Helferinnen- und
+Helferkreise zur stundenweisen Entlastung pflegender Angehöriger im
+häuslichen Bereich, die Tagesbetreuung in Kleingruppen oder
+Einzelbetreuung durch anerkannte Helferinnen oder Helfer, Agenturen
+zur Vermittlung von Betreuungs- und Entlastungsleistungen für
+Pflegebedürftige und pflegende Angehörige sowie vergleichbar
+nahestehende Pflegepersonen, Familienentlastende Dienste,
+Alltagsbegleiter, Pflegebegleiter und Serviceangebote für
+haushaltsnahe Dienstleistungen.
 
+(2) Angebote zur Unterstützung im Alltag beinhalten die Übernahme von
+Betreuung und allgemeiner Beaufsichtigung, eine die vorhandenen
+Ressourcen und Fähigkeiten stärkende oder stabilisierende
+Alltagsbegleitung, Unterstützungsleistungen für Angehörige und
+vergleichbar Nahestehende in ihrer Eigenschaft als Pflegende zur
+besseren Bewältigung des Pflegealltags, die Erbringung von
+Dienstleistungen, organisatorische Hilfestellungen oder andere
+geeignete Maßnahmen. Die Angebote verfügen über ein Konzept, das
+Angaben zur Qualitätssicherung des Angebots sowie eine Übersicht über
+die Leistungen, die angeboten werden sollen, und die Höhe der den
+Pflegebedürftigen hierfür in Rechnung gestellten Kosten enthält. Das
+Konzept umfasst ferner Angaben zur zielgruppen- und
+tätigkeitsgerechten Qualifikation der Helfenden und zu dem
+Vorhandensein von Grund- und Notfallwissen im Umgang mit
+Pflegebedürftigen sowie dazu, wie eine angemessene Schulung und
+Fortbildung der Helfenden sowie eine kontinuierliche fachliche
+Begleitung und Unterstützung insbesondere von ehrenamtlich Helfenden
+in ihrer Arbeit gesichert werden. Bei wesentlichen Änderungen
+hinsichtlich der angebotenen Leistungen ist das Konzept entsprechend
+fortzuschreiben; bei Änderung der hierfür in Rechnung gestellten
+Kosten sind die entsprechenden Angaben zu aktualisieren.
 
-#### § 45b Zusätzliche Betreuungsleistungen
+(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
+das Nähere über die Anerkennung der Angebote zur Unterstützung im
+Alltag im Sinne der Absätze 1 und 2 einschließlich der Vorgaben zur
+regelmäßigen Qualitätssicherung der Angebote und zur regelmäßigen
+Übermittlung einer Übersicht über die aktuell angebotenen Leistungen
+und die Höhe der hierfür erhobenen Kosten zu bestimmen. Beim Erlass
+der Rechtsverordnung sollen sie die gemäß § 45c Absatz 7 beschlossenen
+Empfehlungen berücksichtigen.
 
-(1) Versicherte, die die Voraussetzungen des § 45a erfüllen, können je
-nach Umfang des erheblichen allgemeinen Betreuungsbedarfs zusätzliche
-Betreuungsleistungen in Anspruch nehmen. Die Kosten hierfür werden
-ersetzt, höchstens jedoch 100 Euro monatlich (Grundbetrag) oder 200
-Euro monatlich (erhöhter Betrag). Die Höhe des jeweiligen Anspruchs
-nach Satz 2 wird von der Pflegekasse auf Empfehlung des Medizinischen
-Dienstes der Krankenversicherung im Einzelfall festgelegt und dem
-Versicherten mitgeteilt. Der Spitzenverband Bund der Pflegekassen
-beschließt unter Beteiligung des Medizinischen Dienstes des
-Spitzenverbandes Bund der Krankenkassen, des Verbandes der privaten
-Krankenversicherung e. V., der kommunalen Spitzenverbände auf
-Bundesebene und der maßgeblichen Organisationen für die Wahrnehmung
-der Interessen und der Selbsthilfe der pflegebedürftigen und
-behinderten Menschen auf Bundesebene Richtlinien über einheitliche
-Maßstäbe zur Bewertung des Hilfebedarfs auf Grund der Schädigungen und
-Fähigkeitsstörungen in den in § 45a Abs. 2 Nr. 1 bis 13 aufgeführten
-Bereichen für die Empfehlung des Medizinischen Dienstes der
-Krankenversicherung zur Bemessung der jeweiligen Höhe des
-Betreuungsbetrages; § 17 Abs. 2 gilt entsprechend. Der Betrag ist
-zweckgebunden einzusetzen für qualitätsgesicherte
-Betreuungsleistungen. Er dient der Erstattung von Aufwendungen, die
-den Versicherten entstehen im Zusammenhang mit der Inanspruchnahme von
-Leistungen
-
-1.  der Tages- oder Nachtpflege,
-
-
-2.  der Kurzzeitpflege,
-
-
-3.  der zugelassenen Pflegedienste, sofern es sich um besondere Angebote
-    der allgemeinen Anleitung und Betreuung und nicht um Leistungen der
-    Grundpflege und hauswirtschaftlichen Versorgung handelt, oder
-
-
-4.  der nach Landesrecht anerkannten niedrigschwelligen
-    Betreuungsangebote, die nach § 45c gefördert oder förderungsfähig
-    sind.
-
-
-
-
-(2) Die Pflegebedürftigen erhalten die zusätzlichen finanziellen
-Mittel auf Antrag von der zuständigen Pflegekasse oder dem zuständigen
-privaten Versicherungsunternehmen sowie im Fall der
+(4) Pflegebedürftige in häuslicher Pflege mit mindestens Pflegegrad 2
+können eine Kostenerstattung zum Ersatz von Aufwendungen für
+Leistungen der nach Landesrecht anerkannten Angebote zur Unterstützung
+im Alltag unter Anrechnung auf ihren Anspruch auf ambulante
+Pflegesachleistungen nach § 36 erhalten, soweit für den entsprechenden
+Leistungsbetrag nach § 36 in dem jeweiligen Kalendermonat keine
+ambulanten Pflegesachleistungen bezogen wurden. Der hierfür verwendete
+Betrag darf je Kalendermonat 40 Prozent des nach § 36 für den
+jeweiligen Pflegegrad vorgesehenen Höchstleistungsbetrags nicht
+überschreiten. Die Anspruchsberechtigten erhalten die Kostenerstattung
+nach Satz 1 auf Antrag von der zuständigen Pflegekasse oder dem
+zuständigen privaten Versicherungsunternehmen sowie im Fall der
 Beihilfeberechtigung anteilig von der Beihilfefestsetzungsstelle gegen
-Vorlage entsprechender Belege über entstandene Eigenbelastungen im
-Zusammenhang mit der Inanspruchnahme der in Absatz 1 genannten
-Betreuungsleistungen. Die Leistung nach Absatz 1 kann innerhalb des
+Vorlage entsprechender Belege über Eigenbelastungen, die ihnen im
+Zusammenhang mit der Inanspruchnahme der in Satz 1 genannten
+Leistungen entstanden sind. Die Vergütungen für ambulante
+Pflegesachleistungen nach § 36 sind vorrangig abzurechnen. Im Rahmen
+der Kombinationsleistung nach § 38 gilt die Erstattung der
+Aufwendungen nach Satz 1 als Inanspruchnahme der dem
+Anspruchsberechtigten nach § 36 Absatz 3 zustehenden Sachleistung.
+Beziehen Anspruchsberechtigte die Leistung nach Satz 1, findet § 37
+Absatz 3 bis 5, 7 und 8 Anwendung; § 37 Absatz 6 findet mit der
+Maßgabe entsprechende Anwendung, dass eine Kürzung oder Entziehung in
+Bezug auf die Kostenerstattung nach Satz 1 erfolgt. Das
+Bundesministerium für Gesundheit evaluiert die Möglichkeit zur
+anteiligen Verwendung der in § 36 für den Bezug ambulanter
+Pflegesachleistungen vorgesehenen Leistungsbeträge auch für Leistungen
+nach Landesrecht anerkannter Angebote zur Unterstützung im Alltag nach
+den Sätzen 1 bis 6 spätestens bis zum 31. Dezember 2018. Die
+Inanspruchnahme der Umwandlung des ambulanten Sachleistungsbetrags
+nach Satz 1 und die Inanspruchnahme des Entlastungsbetrags nach § 45b
+erfolgen unabhängig voneinander.
+
+
+#### § 45b Entlastungsbetrag
+
+(1) Pflegebedürftige in häuslicher Pflege haben Anspruch auf einen
+Entlastungsbetrag in Höhe von bis zu 125 Euro monatlich. Der Betrag
+ist zweckgebunden einzusetzen für qualitätsgesicherte Leistungen zur
+Entlastung pflegender Angehöriger und vergleichbar Nahestehender in
+ihrer Eigenschaft als Pflegende sowie zur Förderung der
+Selbständigkeit und Selbstbestimmtheit der Pflegebedürftigen bei der
+Gestaltung ihres Alltags. Er dient der Erstattung von Aufwendungen,
+die den Versicherten entstehen im Zusammenhang mit der Inanspruchnahme
+von
+
+1.  Leistungen der Tages- oder Nachtpflege,
+
+
+2.  Leistungen der Kurzzeitpflege,
+
+
+3.  Leistungen der ambulanten Pflegedienste im Sinne des § 36, in den
+    Pflegegraden 2 bis 5 jedoch nicht von Leistungen im Bereich der
+    Selbstversorgung,
+
+
+4.  Leistungen der nach Landesrecht anerkannten Angebote zur Unterstützung
+    im Alltag im Sinne des § 45a.
+
+
+
+Die Erstattung der Aufwendungen erfolgt auch, wenn für die
+Finanzierung der in Satz 3 genannten Leistungen Mittel der
+Verhinderungspflege gemäß § 39 eingesetzt werden.
+
+(2) Der Anspruch auf den Entlastungsbetrag entsteht, sobald die in
+Absatz 1 Satz 1 genannten Anspruchsvoraussetzungen vorliegen, ohne
+dass es einer vorherigen Antragstellung bedarf. Die Kostenerstattung
+in Höhe des Entlastungsbetrags nach Absatz 1 erhalten die
+Pflegebedürftigen von der zuständigen Pflegekasse oder dem zuständigen
+privaten Versicherungsunternehmen sowie im Fall der
+Beihilfeberechtigung anteilig von der Beihilfefestsetzungsstelle bei
+Beantragung der dafür erforderlichen finanziellen Mittel gegen Vorlage
+entsprechender Belege über entstandene Eigenbelastungen im
+Zusammenhang mit der Inanspruchnahme der in Absatz 1 Satz 3 genannten
+Leistungen. Die Leistung nach Absatz 1 Satz 1 kann innerhalb des
 jeweiligen Kalenderjahres in Anspruch genommen werden; wird die
 Leistung in einem Kalenderjahr nicht ausgeschöpft, kann der nicht
 verbrauchte Betrag in das folgende Kalenderhalbjahr übertragen werden.
-Ist der Betrag für zusätzliche Betreuungsleistungen nach dem bis zum
-30\. Juni 2008 geltenden Recht nicht ausgeschöpft worden, kann der
-nicht verbrauchte kalenderjährliche Betrag in das zweite Halbjahr 2008
-und in das Jahr 2009 übertragen werden.
 
-(3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-das Nähere über die Anerkennung der niedrigschwelligen
-Betreuungsangebote zu bestimmen.
+(3) Der Entlastungsbetrag nach Absatz 1 Satz 1 findet bei den
+Fürsorgeleistungen zur Pflege nach § 13 Absatz 3 Satz 1 keine
+Berücksichtigung. § 63b Absatz 1 des Zwölften Buches findet auf den
+Entlastungsbetrag keine Anwendung. Abweichend von den Sätzen 1 und 2
+darf der Entlastungsbetrag hinsichtlich der Leistungen nach § 64i oder
+§ 66 des Zwölften Buches bei der Hilfe zur Pflege Berücksichtigung
+finden, soweit nach diesen Vorschriften Leistungen zu gewähren sind,
+deren Inhalte den Leistungen nach Absatz 1 Satz 3 entsprechen.
+
+(4) Die für die Erbringung von Leistungen nach Absatz 1 Satz 3 Nummer
+1 bis 4 verlangte Vergütung darf die Preise für vergleichbare
+Sachleistungen von zugelassenen Pflegeeinrichtungen nicht übersteigen.
+Näheres zur Ausgestaltung einer entsprechenden Begrenzung der
+Vergütung, die für die Erbringung von Leistungen nach Absatz 1 Satz 3
+Nummer 4 durch nach Landesrecht anerkannte Angebote zur Unterstützung
+im Alltag verlangt werden darf, können die Landesregierungen in der
+Rechtsverordnung nach § 45a Absatz 3 bestimmen.
 
 
-#### § 45c Weiterentwicklung der Versorgungsstrukturen
+#### § 45c Förderung der Weiterentwicklung der Versorgungsstrukturen und des Ehrenamts, Verordnungsermächtigung
 
 (1) Zur Weiterentwicklung der Versorgungsstrukturen und
-Versorgungskonzepte insbesondere für demenzkranke Pflegebedürftige
+Versorgungskonzepte und zur Förderung ehrenamtlicher Strukturen
 fördert der Spitzenverband Bund der Pflegekassen im Wege der
 Anteilsfinanzierung aus Mitteln des Ausgleichsfonds mit 25 Millionen
-Euro je Kalenderjahr den Auf- und Ausbau von niedrigschwelligen
-Betreuungsangeboten sowie Modellvorhaben zur Erprobung neuer
-Versorgungskonzepte und Versorgungsstrukturen insbesondere für
-demenzkranke Pflegebedürftige. Die privaten Versicherungsunternehmen,
-die die private Pflegepflichtversicherung durchführen, beteiligen sich
-an dieser Förderung mit insgesamt 10 vom Hundert des in Satz 1
-genannten Fördervolumens.
+Euro je Kalenderjahr
+
+1.  den Auf- und Ausbau von Angeboten zur Unterstützung im Alltag im Sinne
+    des § 45a,
+
+
+2.  den Auf- und Ausbau und die Unterstützung von Gruppen ehrenamtlich
+    tätiger sowie sonstiger zum bürgerschaftlichen Engagement bereiter
+    Personen und entsprechender ehrenamtlicher Strukturen sowie
+
+
+3.  Modellvorhaben zur Erprobung neuer Versorgungskonzepte und
+    Versorgungsstrukturen insbesondere für an Demenz erkrankte
+    Pflegebedürftige sowie andere Gruppen von Pflegebedürftigen, deren
+    Versorgung in besonderem Maße der strukturellen Weiterentwicklung
+    bedarf.
+
+
+
+Die privaten Versicherungsunternehmen, die die private Pflege-
+Pflichtversicherung durchführen, beteiligen sich an dieser Förderung
+mit insgesamt 10 Prozent des in Satz 1 genannten Fördervolumens.
+Darüber hinaus fördert der Spitzenverband Bund der Pflegekassen aus
+Mitteln des Ausgleichsfonds mit 10 Millionen Euro je Kalenderjahr die
+strukturierte Zusammenarbeit in regionalen Netzwerken nach Absatz 9;
+Satz 2 gilt entsprechend. Fördermittel nach Satz 3, die in dem
+jeweiligen Kalenderjahr nicht in Anspruch genommen worden sind,
+erhöhen im Folgejahr das Fördervolumen nach Satz 1; dadurch erhöht
+sich auch das in Absatz 2 Satz 2 genannte Gesamtfördervolumen
+entsprechend.
 
 (2) Der Zuschuss aus Mitteln der sozialen und privaten
-Pflegeversicherung ergänzt eine Förderung der niedrigschwelligen
-Betreuungsangebote und der Modellvorhaben zur Weiterentwicklung der
-Versorgungsstrukturen für Pflegebedürftige mit erheblichem allgemeinem
-Betreuungsbedarf durch das jeweilige Land oder die jeweilige kommunale
+Pflegeversicherung ergänzt eine Förderung der in Absatz 1 Satz 1
+genannten Zwecke durch das jeweilige Land oder die jeweilige kommunale
 Gebietskörperschaft. Der Zuschuss wird jeweils in gleicher Höhe
 gewährt wie der Zuschuss, der vom Land oder von der kommunalen
-Gebietskörperschaft für die einzelne Fördermaßnahme geleistet wird, so
-dass insgesamt ein Fördervolumen von 50 Millionen Euro im Kalenderjahr
-erreicht wird. Soweit Mittel der Arbeitsförderung bei einem Projekt
-eingesetzt werden, sind diese einem vom Land oder von der Kommune
-geleisteten Zuschuss gleichgestellt.
+Gebietskörperschaft für die einzelne Fördermaßnahme geleistet wird,
+sodass insgesamt ein Fördervolumen von 50 Millionen Euro im
+Kalenderjahr erreicht wird. Im Einvernehmen mit allen Fördergebern
+können Zuschüsse der kommunalen Gebietskörperschaften auch als
+Personal- oder Sachmittel eingebracht werden, sofern diese Mittel
+nachweislich ausschließlich und unmittelbar dazu dienen, den
+jeweiligen Förderzweck zu erreichen. Soweit Mittel der
+Arbeitsförderung bei einem Projekt eingesetzt werden, sind diese einem
+vom Land oder von der Kommune geleisteten Zuschuss gleichgestellt.
 
-(3) Niedrigschwellige Betreuungsangebote im Sinne des Absatzes 1 Satz
-1 sind Betreuungsangebote, in denen Helfer und Helferinnen unter
-pflegefachlicher Anleitung die Betreuung von Pflegebedürftigen mit
-erheblichem Bedarf an allgemeiner Beaufsichtigung und Betreuung in
-Gruppen oder im häuslichen Bereich übernehmen sowie pflegende
-Angehörige entlasten und beratend unterstützen. Die Förderung dieser
-niedrigschwelligen Betreuungsangebote erfolgt als Projektförderung und
-dient insbesondere dazu, Aufwandsentschädigungen für die
-ehrenamtlichen Betreuungspersonen zu finanzieren, sowie notwendige
+(3) Die Förderung des Auf- und Ausbaus von Angeboten zur Unterstützung
+im Alltag im Sinne des § 45a nach Absatz 1 Satz 1 Nummer 1 erfolgt als
+Projektförderung und dient insbesondere dazu, Aufwandsentschädigungen
+für die ehrenamtlich tätigen Helfenden zu finanzieren sowie notwendige
 Personal- und Sachkosten, die mit der Koordination und Organisation
-der Hilfen und der fachlichen Anleitung und Schulung der Betreuenden
+der Hilfen und der fachlichen Anleitung und Schulung der Helfenden
 durch Fachkräfte verbunden sind. Dem Antrag auf Förderung ist ein
-Konzept zur Qualitätssicherung des Betreuungsangebotes beizufügen. Aus
-dem Konzept muss sich ergeben, dass eine angemessene Schulung und
+Konzept zur Qualitätssicherung des Angebots beizufügen. Aus dem
+Konzept muss sich ergeben, dass eine angemessene Schulung und
 Fortbildung der Helfenden sowie eine kontinuierliche fachliche
 Begleitung und Unterstützung der ehrenamtlich Helfenden in ihrer
-Arbeit gesichert ist. Als grundsätzlich förderungsfähige
-niedrigschwellige Betreuungsangebote kommen in Betracht
-Betreuungsgruppen für Demenzkranke, Helferinnenkreise zur
-stundenweisen Entlastung pflegender Angehöriger im häuslichen Bereich,
-die Tagesbetreuung in Kleingruppen oder Einzelbetreuung durch
-anerkannte Helfer, Agenturen zur Vermittlung von Betreuungsleistungen
-für Pflegebedürftige im Sinne des § 45a sowie Familienentlastende
-Dienste.
+Arbeit gesichert sind.
 
-(4) Im Rahmen der Modellförderung nach Absatz 1 Satz 1 sollen
+(4) Die Förderung des Auf- und Ausbaus und der Unterstützung von
+Gruppen ehrenamtlich tätiger sowie sonstiger zum bürgerschaftlichen
+Engagement bereiter Personen und entsprechender ehrenamtlicher
+Strukturen nach Absatz 1 Satz 1 Nummer 2 erfolgt zur Förderung von
+Initiativen, die sich die Unterstützung, allgemeine Betreuung und
+Entlastung von Pflegebedürftigen und deren Angehörigen sowie
+vergleichbar nahestehenden Pflegepersonen zum Ziel gesetzt haben.
+
+(5) Im Rahmen der Modellförderung nach Absatz 1 Satz 1 Nummer 3 sollen
 insbesondere modellhaft Möglichkeiten einer wirksamen Vernetzung der
-für demenzkranke Pflegebedürftige erforderlichen Hilfen in einzelnen
-Regionen erprobt werden. Dabei können auch stationäre
-Versorgungsangebote berücksichtigt werden. Die Modellvorhaben sind auf
-längstens fünf Jahre zu befristen. Bei der Vereinbarung und
-Durchführung von Modellvorhaben kann im Einzelfall von den Regelungen
-des Siebten Kapitels abgewichen werden. Für die Modellvorhaben ist
-eine wissenschaftliche Begleitung und Auswertung vorzusehen. Soweit im
+erforderlichen Hilfen für an Demenz erkrankte Pflegebedürftige und
+andere Gruppen von Pflegebedürftigen, deren Versorgung in besonderem
+Maße der strukturellen Weiterentwicklung bedarf, in einzelnen Regionen
+erprobt werden. Dabei können auch stationäre Versorgungsangebote
+berücksichtigt werden. Die Modellvorhaben sind auf längstens fünf
+Jahre zu befristen. Bei der Vereinbarung und Durchführung von
+Modellvorhaben kann im Einzelfall von den Regelungen des Siebten
+Kapitels abgewichen werden. Für die Modellvorhaben sind eine
+wissenschaftliche Begleitung und Auswertung vorzusehen. Soweit im
 Rahmen der Modellvorhaben personenbezogene Daten benötigt werden,
 können diese nur mit Einwilligung des Pflegebedürftigen erhoben,
 verarbeitet und genutzt werden.
 
-(5) Um eine gerechte Verteilung der Fördermittel der
-Pflegeversicherung auf die Länder zu gewährleisten, werden die
-Fördermittel der sozialen und privaten Pflegeversicherung nach dem
-Königsteiner Schlüssel aufgeteilt. Mittel, die in einem Land im
-jeweiligen Haushaltsjahr nicht in Anspruch genommen werden, können in
-das Folgejahr übertragen werden.
+(6) Um eine gerechte Verteilung der Fördermittel der
+Pflegeversicherung auf die Länder zu gewährleisten, werden die nach
+Absatz 1 Satz 1 und 2 zur Verfügung stehenden Fördermittel der
+sozialen und privaten Pflegeversicherung nach dem Königsteiner
+Schlüssel aufgeteilt. Mittel, die in einem Land im jeweiligen
+Haushaltsjahr nicht in Anspruch genommen werden, können in das
+Folgejahr übertragen werden. Nach Satz 2 übertragene Mittel, die am
+Ende des Folgejahres nicht in Anspruch genommen worden sind, können
+für Projekte, für die bis zum Stichtag nach Satz 5 mindestens Art,
+Region und geplante Förderhöhe konkret benannt werden, im darauf
+folgenden Jahr von Ländern beantragt werden, die im Jahr vor der
+Übertragung der Mittel nach Satz 2 mindestens 80 Prozent der auf sie
+nach dem Königsteiner Schlüssel entfallenden Mittel ausgeschöpft
+haben. Die Verausgabung der nach Satz 3 beantragten Fördermittel durch
+die Länder oder kommunalen Gebietskörperschaften darf sich für die
+entsprechend benannten Projekte über einen Zeitraum von maximal drei
+Jahren erstrecken. Der Ausgleichsfonds sammelt die nach Satz 3
+eingereichten Anträge bis zum 30. April des auf das Folgejahr
+folgenden Jahres und stellt anschließend fest, in welchem Umfang die
+Mittel jeweils auf die beantragenden Länder entfallen. Die Auszahlung
+der Mittel für ein Projekt erfolgt, sobald für das Projekt eine
+konkrete Förderzusage durch das Land oder die kommunale
+Gebietskörperschaft vorliegt. Ist die Summe der bis zum 30. April
+beantragten Mittel insgesamt größer als der dafür vorhandene
+Mittelbestand, so werden die vorhandenen Mittel nach dem Königsteiner
+Schlüssel auf die beantragenden Länder verteilt. Nach dem 30. April
+eingehende Anträge werden in der Reihenfolge des Antragseingangs
+bearbeitet, bis die Fördermittel verbraucht sind. Fördermittel, die
+bis zum Ende des auf das Folgejahr folgenden Jahres nicht beantragt
+sind, verfallen.
 
-(6) Der Spitzenverband Bund der Pflegekassen beschließt mit dem
+(7) Der Spitzenverband Bund der Pflegekassen beschließt mit dem
 Verband der privaten Krankenversicherung e. V. nach Anhörung der
 Verbände der Behinderten und Pflegebedürftigen auf Bundesebene
 Empfehlungen über die Voraussetzungen, Ziele, Dauer, Inhalte und
 Durchführung der Förderung sowie zu dem Verfahren zur Vergabe der
-Fördermittel für die niedrigschwelligen Betreuungsangebote und die
-Modellprojekte. In den Empfehlungen ist unter anderem auch
-festzulegen, dass jeweils im Einzelfall zu prüfen ist, ob im Rahmen
-der neuen Betreuungsangebote und Versorgungskonzepte Mittel und
-Möglichkeiten der Arbeitsförderung genutzt werden können. Die
-Empfehlungen bedürfen der Zustimmung des Bundesministeriums für
-Gesundheit und der Länder. Die Landesregierungen werden ermächtigt,
+Fördermittel für die in Absatz 1 Satz 1 genannten Zwecke. In den
+Empfehlungen ist unter anderem auch festzulegen, welchen Anforderungen
+die Einbringung von Zuschüssen der kommunalen Gebietskörperschaften
+als Personal- oder Sachmittel genügen muss und dass jeweils im
+Einzelfall zu prüfen ist, ob im Rahmen der in Absatz 1 Satz 1
+genannten Zwecke Mittel und Möglichkeiten der Arbeitsförderung genutzt
+werden können. Die Empfehlungen bedürfen der Zustimmung des
+Bundesministeriums für Gesundheit und der Länder. Soweit Belange des
+Ehrenamts betroffen sind, erteilt das Bundesministerium für Gesundheit
+seine Zustimmung im Benehmen mit dem Bundesministerium für Familie,
+Senioren, Frauen und Jugend. Die Landesregierungen werden ermächtigt,
 durch Rechtsverordnung das Nähere über die Umsetzung der Empfehlungen
 zu bestimmen.
 
-(7) Der Finanzierungsanteil, der auf die privaten
+(8) Der Finanzierungsanteil, der auf die privaten
 Versicherungsunternehmen entfällt, kann von dem Verband der privaten
 Krankenversicherung e. V. unmittelbar an das Bundesversicherungsamt
 zugunsten des Ausgleichsfonds der Pflegeversicherung (§ 65) überwiesen
@@ -2940,45 +3987,54 @@ Versicherungsunternehmen regeln das Bundesversicherungsamt, der
 Spitzenverband Bund der Pflegekassen und der Verband der privaten
 Krankenversicherung e. V. durch Vereinbarung.
 
+(9) Zur Verbesserung der Versorgung und Unterstützung von
+Pflegebedürftigen und deren Angehörigen sowie vergleichbar
+nahestehenden Pflegepersonen können die in Absatz 1 Satz 3 genannten
+Mittel für die Beteiligung von Pflegekassen an regionalen Netzwerken
+verwendet werden, die der strukturierten Zusammenarbeit von Akteuren
+dienen, die an der Versorgung Pflegebedürftiger beteiligt sind und die
+sich im Rahmen einer freiwilligen Vereinbarung vernetzen. Die
+Förderung der strukturierten regionalen Zusammenarbeit erfolgt, indem
+sich die Pflegekassen einzeln oder gemeinsam im Wege einer
+Anteilsfinanzierung an den netzwerkbedingten Kosten beteiligen. Je
+Kreis oder kreisfreier Stadt darf der Förderbetrag dabei 20 000 Euro
+je Kalenderjahr nicht überschreiten. Den Kreisen und kreisfreien
+Städten, Selbsthilfegruppen, -organisationen und -kontaktstellen im
+Sinne des § 45d sowie organisierten Gruppen ehrenamtlich tätiger sowie
+sonstiger zum bürgerschaftlichen Engagement bereiter Personen im Sinne
+des Absatzes 4 ist in ihrem jeweiligen Einzugsgebiet die Teilnahme an
+der geförderten strukturierten regionalen Zusammenarbeit zu
+ermöglichen. Für private Versicherungsunternehmen, die die private
+Pflege-Pflichtversicherung durchführen, gelten die Sätze 1 bis 4
+entsprechend. Absatz 7 Satz 1 bis 4 und Absatz 8 finden entsprechende
+Anwendung. Die Absätze 2 und 6 finden keine Anwendung.
 
-#### § 45d Förderung ehrenamtlicher Strukturen sowie der Selbsthilfe
 
-(1) In entsprechender Anwendung des § 45c können die dort vorgesehenen
-Mittel des Ausgleichsfonds, die dem Spitzenverband Bund der
-Pflegekassen zur Förderung der Weiterentwicklung der
-Versorgungsstrukturen und Versorgungskonzepte insbesondere für
-demenziell Erkrankte zur Verfügung stehen, auch verwendet werden zur
-Förderung und zum Auf- und Ausbau von Gruppen ehrenamtlich tätiger
-sowie sonstiger zum bürgerschaftlichen Engagement bereiter Personen,
-die sich die Unterstützung, allgemeine Betreuung und Entlastung von
-Pflegebedürftigen, von Personen mit erheblichem allgemeinem
-Betreuungsbedarf sowie deren Angehörigen zum Ziel gesetzt haben.
+#### § 45d Förderung der Selbsthilfe, Verordnungsermächtigung
 
-(2) Je Versicherten werden 0,10 Euro je Kalenderjahr verwendet zur
+Je Versichertem werden 0,10 Euro je Kalenderjahr verwendet zur
 Förderung und zum Auf- und Ausbau von Selbsthilfegruppen,
 -organisationen und -kontaktstellen, die sich die Unterstützung von
-Pflegebedürftigen, von Personen mit erheblichem allgemeinem
-Betreuungsbedarf sowie deren Angehörigen zum Ziel gesetzt haben. Dabei
-werden die Vorgaben des § 45c und das dortige Verfahren entsprechend
-angewendet. Selbsthilfegruppen sind freiwillige, neutrale, unabhängige
-und nicht gewinnorientierte Zusammenschlüsse von Personen, die
-entweder auf Grund eigener Betroffenheit oder als Angehörige das Ziel
-verfolgen, durch persönliche, wechselseitige Unterstützung, auch unter
-Zuhilfenahme von Angeboten ehrenamtlicher und sonstiger zum
-bürgerschaftlichen Engagement bereiter Personen, die Lebenssituation
-von Pflegebedürftigen, von Personen mit erheblichem allgemeinem
-Betreuungsbedarf sowie deren Angehörigen zu verbessern.
-Selbsthilfeorganisationen sind die Zusammenschlüsse von
-Selbsthilfegruppen in Verbänden. Selbsthilfekontaktstellen sind
-örtlich oder regional arbeitende professionelle Beratungseinrichtungen
-mit hauptamtlichem Personal, die das Ziel verfolgen, die
-Lebenssituation von Pflegebedürftigen, von Personen mit erheblichem
-allgemeinem Betreuungsbedarf sowie deren Angehörigen zu verbessern.
+Pflegebedürftigen sowie von deren Angehörigen und vergleichbar
+Nahestehenden zum Ziel gesetzt haben. Dabei werden die Vorgaben des §
+45c und das dortige Verfahren entsprechend angewendet.
+Selbsthilfegruppen sind freiwillige, neutrale, unabhängige und nicht
+gewinnorientierte Zusammenschlüsse von Personen, die entweder aufgrund
+eigener Betroffenheit oder als Angehörige das Ziel verfolgen, durch
+persönliche, wechselseitige Unterstützung, auch unter Zuhilfenahme von
+Angeboten ehrenamtlicher und sonstiger zum bürgerschaftlichen
+Engagement bereiter Personen, die Lebenssituation von
+Pflegebedürftigen sowie von deren Angehörigen und vergleichbar
+Nahestehenden zu verbessern. Selbsthilfeorganisationen sind die
+Zusammenschlüsse von Selbsthilfegruppen in Verbänden.
+Selbsthilfekontaktstellen sind örtlich oder regional arbeitende
+professionelle Beratungseinrichtungen mit hauptamtlichem Personal, die
+das Ziel verfolgen, die Lebenssituation von Pflegebedürftigen sowie
+von deren Angehörigen und vergleichbar Nahestehenden zu verbessern.
 Eine Förderung der Selbsthilfe nach dieser Vorschrift ist
 ausgeschlossen, soweit für dieselbe Zweckbestimmung eine Förderung
-nach § 20c des Fünften Buches erfolgt.
-
-(3) § 45c Abs. 6 Satz 4 gilt entsprechend.
+nach § 20h des Fünften Buches erfolgt. § 45c Absatz 7 Satz 5 gilt
+entsprechend.
 
 
 ### Sechster Abschnitt - Initiativprogramm zur Förderung neuer Wohnformen
@@ -2996,18 +4052,20 @@ Euro gewährt. Der Gesamtbetrag ist je Wohngruppe auf 10 000 Euro
 begrenzt und wird bei mehr als vier Anspruchsberechtigten anteilig auf
 die Versicherungsträger der Anspruchsberechtigten aufgeteilt. Der
 Antrag ist innerhalb eines Jahres nach Vorliegen der
-Anspruchsvoraussetzungen zu stellen. Die Sätze 1 bis 3 gelten für die
-Versicherten der privaten Pflege-Pflichtversicherung entsprechend.
+Anspruchsvoraussetzungen zu stellen. Dabei kann die
+Umgestaltungsmaßnahme auch vor der Gründung und dem Einzug erfolgen.
+Die Sätze 1 bis 4 gelten für die Versicherten der privaten Pflege-
+Pflichtversicherung entsprechend.
 
 (2) Die Pflegekassen zahlen den Förderbetrag aus, wenn die Gründung
 einer ambulant betreuten Wohngruppe nachgewiesen wird. Der Anspruch
 endet mit Ablauf des Monats, in dem das Bundesversicherungsamt den
 Pflegekassen und dem Verband der privaten Krankenversicherung e. V.
 mitteilt, dass mit der Förderung eine Gesamthöhe von 30 Millionen Euro
-erreicht worden ist, spätestens aber am 31. Dezember 2015.
-Einzelheiten zu den Voraussetzungen und dem Verfahren der Förderung
-regelt der Spitzenverband Bund der Pflegekassen im Einvernehmen mit
-dem Verband der privaten Krankenversicherung e. V.
+erreicht worden ist. Einzelheiten zu den Voraussetzungen und dem
+Verfahren der Förderung regelt der Spitzenverband Bund der
+Pflegekassen im Einvernehmen mit dem Verband der privaten
+Krankenversicherung e. V.
 
 
 #### § 45f Weiterentwicklung neuer Wohnformen
@@ -3051,23 +4109,28 @@ Pflegeversicherungsbeiträge selbst zu zahlen haben, die Höhe der
 Beiträge zur Kranken- und Pflegeversicherung in einem gemeinsamen
 Beitragsbescheid festsetzen. Das Mitglied ist darauf hinzuweisen, dass
 der Bescheid über den Beitrag zur Pflegeversicherung im Namen der
-Pflegekasse ergeht. Bei der Ausführung dieses Buches ist das Erste
-Kapitel des Zehnten Buches anzuwenden.
+Pflegekasse ergeht. In den Fällen des Satzes 4 kann auch ein
+gemeinsamer Widerspruchsbescheid erlassen werden; Satz 5 gilt
+entsprechend. Bei der Ausführung dieses Buches ist das Erste Kapitel
+des Zehnten Buches anzuwenden.
 
 (3) Die Verwaltungskosten einschließlich der Personalkosten, die den
 Krankenkassen auf Grund dieses Buches entstehen, werden von den
-Pflegekassen in Höhe von 3,5 vom Hundert des Mittelwertes von
+Pflegekassen in Höhe von 3,2 Prozent des Mittelwertes von
 Leistungsaufwendungen und Beitragseinnahmen erstattet; dabei ist der
 Erstattungsbetrag für die einzelne Krankenkasse um die Hälfte der
 Aufwendungen der jeweiligen Pflegekasse für Pflegeberatung nach § 7a
 Abs. 4 Satz 5 und um die Aufwendungen für Zahlungen nach § 18 Absatz
-3b zu vermindern. Der Gesamtbetrag der nach Satz 1 zu erstattenden
-Verwaltungskosten aller Krankenkassen ist nach dem tatsächlich
-entstehenden Aufwand (Beitragseinzug/Leistungsgewährung) auf die
-Krankenkassen zu verteilen. Der Spitzenverband Bund der Pflegekassen
-bestimmt das Nähere über die Verteilung. Außerdem übernehmen die
-Pflegekassen 50 vom Hundert der umlagefinanzierten Kosten des
-Medizinischen Dienstes der Krankenversicherung. Personelle
+3b zu vermindern. Bei der Berechnung der Erstattung sind die
+Beitragseinnahmen um die Beitragseinnahmen zu vermindern, die dazu
+bestimmt sind, nach § 135 dem Vorsorgefonds der sozialen
+Pflegeversicherung zugeführt zu werden. Der Gesamtbetrag der nach Satz
+1 zu erstattenden Verwaltungskosten aller Krankenkassen ist nach dem
+tatsächlich entstehenden Aufwand (Beitragseinzug/Leistungsgewährung)
+auf die Krankenkassen zu verteilen. Der Spitzenverband Bund der
+Pflegekassen bestimmt das Nähere über die Verteilung. Außerdem
+übernehmen die Pflegekassen 50 vom Hundert der umlagefinanzierten
+Kosten des Medizinischen Dienstes der Krankenversicherung. Personelle
 Verwaltungskosten, die einer Betriebskrankenkasse von der Pflegekasse
 erstattet werden, sind an den Arbeitgeber weiterzuleiten, wenn er die
 Personalkosten der Betriebskrankenkasse nach § 147 Abs. 2 des Fünften
@@ -3101,8 +4164,12 @@ unabhängig ist. Die Prüfung hat sich auf den gesamten Geschäftsbetrieb
 zu erstrecken; sie umfaßt die Prüfung seiner Gesetzmäßigkeit und
 Wirtschaftlichkeit. Die Pflegekassen und deren Arbeitsgemeinschaften
 haben auf Verlangen alle Unterlagen vorzulegen und alle Auskünfte zu
-erteilen, die zur Durchführung der Prüfung erforderlich sind. § 274
-Abs. 2 und 3 des Fünften Buches gilt entsprechend.
+erteilen, die zur Durchführung der Prüfung erforderlich sind. Die mit
+der Prüfung nach diesem Absatz befassten Stellen können nach Anhörung
+des Spitzenverbandes Bund der Krankenkassen als Spitzenverband Bund
+der Pflegekassen bestimmen, dass die Pflegekassen die zu prüfenden
+Daten elektronisch und in einer bestimmten Form zur Verfügung stellen.
+§ 274 Abs. 2 und 3 des Fünften Buches gilt entsprechend.
 
 
 #### § 47 Satzung
@@ -3149,10 +4216,43 @@ die Pflegekasse errichtet ist, zuständig ist.
 
 #### § 47a Stellen zur Bekämpfung von Fehlverhalten im Gesundheitswesen
 
-§ 197a des Fünften Buches gilt entsprechend. Die organisatorischen
-Einheiten nach § 197a Abs. 1 des Fünften Buches sind die Stellen zur
-Bekämpfung von Fehlverhalten im Gesundheitswesen bei den Pflegekassen,
-ihren Landesverbänden und dem Spitzenverband Bund der Pflegekassen.
+(1) § 197a des Fünften Buches gilt entsprechend; § 197a Absatz 3 des
+Fünften Buches gilt mit der Maßgabe, auch mit den nach Landesrecht
+bestimmten Trägern der Sozialhilfe, die für die Hilfe zur Pflege im
+Sinne des Siebten Kapitels des Zwölften Buches zuständig sind,
+zusammenzuarbeiten. Die organisatorischen Einheiten nach § 197a Abs. 1
+des Fünften Buches sind die Stellen zur Bekämpfung von Fehlverhalten
+im Gesundheitswesen bei den Pflegekassen, ihren Landesverbänden und
+dem Spitzenverband Bund der Pflegekassen.
+
+(2) Die Einrichtungen nach Absatz 1 Satz 2 dürfen personenbezogene
+Daten, die von ihnen zur Erfüllung ihrer Aufgaben nach Absatz 1
+erhoben oder an sie weitergegeben oder übermittelt wurden,
+untereinander übermitteln, soweit dies für die Feststellung und
+Bekämpfung von Fehlverhalten im Gesundheitswesen beim Empfänger
+erforderlich ist. An die nach Landesrecht bestimmten Träger der
+Sozialhilfe, die für die Hilfe zur Pflege im Sinne des Siebten
+Kapitels des Zwölften Buches zuständig sind, dürfen die Einrichtungen
+nach Absatz 1 Satz 2 personenbezogene Daten nur übermitteln, soweit
+dies für die Feststellung und Bekämpfung von Fehlverhalten im
+Zusammenhang mit den Regelungen des Siebten Kapitels des Zwölften
+Buches erforderlich ist und im Einzelfall konkrete Anhaltspunkte dafür
+vorliegen. Der Empfänger darf diese Daten nur zu dem Zweck verarbeiten
+und nutzen, zu dem sie ihm übermittelt worden sind. Ebenso dürfen die
+nach Landesrecht bestimmten Träger der Sozialhilfe, die für die Hilfe
+zur Pflege im Sinne des Siebten Kapitels des Zwölften Buches zuständig
+sind, personenbezogene Daten, die von ihnen zur Erfüllung ihrer
+Aufgaben erhoben oder an sie weitergegeben oder übermittelt wurden, an
+die in Absatz 1 Satz 2 genannten Einrichtungen übermitteln, soweit
+dies für die Feststellung und Bekämpfung von Fehlverhalten im
+Gesundheitswesen beim Empfänger erforderlich ist. Die in Absatz 1 Satz
+2 genannten Einrichtungen dürfen diese nur zu dem Zweck verarbeiten
+und nutzen, zu dem sie ihnen übermittelt worden sind. Die
+Einrichtungen nach Absatz 1 Satz 2 sowie die nach Landesrecht
+bestimmten Träger der Sozialhilfe, die für die Hilfe zur Pflege im
+Sinne des Siebten Kapitels des Zwölften Buches zuständig sind, haben
+sicherzustellen, dass die personenbezogenen Daten nur Befugten
+zugänglich sind oder nur an diese weitergegeben werden.
 
 
 ### Zweiter Abschnitt - Zuständigkeit, Mitgliedschaft
@@ -3313,12 +4413,14 @@ gegen Krankheit versichert sind und trotz Aufforderung innerhalb von
 sechs Monaten nach Inkrafttreten des Pflege-Versicherungsgesetzes, bei
 Neuabschlüssen von Krankenversicherungsverträgen innerhalb von drei
 Monaten nach Abschluß des Vertrages, keinen privaten
-Pflegeversicherungsvertrag abgeschlossen haben, unverzüglich dem
-Bundesversicherungsamt zu melden. Das Versicherungsunternehmen hat
-auch Versicherungsnehmer zu melden, die mit der Entrichtung von sechs
-Monatsprämien in Verzug geraten sind. Das Bundesversicherungsamt kann
-mit dem Verband der privaten Krankenversicherung e.V. Näheres über das
-Meldeverfahren vereinbaren.
+Pflegeversicherungsvertrag abgeschlossen haben, unverzüglich
+elektronisch dem Bundesversicherungsamt zu melden. Das
+Versicherungsunternehmen hat auch Versicherungsnehmer zu melden,
+sobald diese mit der Entrichtung von sechs insgesamt vollen
+Monatsprämien in Verzug geraten sind. Das Bundesversicherungsamt und
+der Verband der privaten Krankenversicherung e. V. haben bis zum 31.
+Dezember 2017 Näheres über das elektronische Meldeverfahren zu
+vereinbaren.
 
 (2) Der Dienstherr hat für Heilfürsorgeberechtigte, die weder privat
 krankenversichert noch Mitglied in der gesetzlichen
@@ -3344,9 +4446,9 @@ nachgewiesen wird.
 Betriebskrankenkassen und der Innungskrankenkassen, die Deutsche
 Rentenversicherung Knappschaft-Bahn-See, die nach § 36 des Zweiten
 Gesetzes über die Krankenversicherung der Landwirte als Landesverband
-tätigen landwirtschaftlichen Krankenkassen sowie die Ersatzkassen
-nehmen die Aufgaben der Landesverbände der Pflegekassen wahr. § 211a
-und § 212 Abs. 5 Satz 4 bis 10 des Fünften Buches gelten entsprechend.
+tätige landwirtschaftliche Krankenkasse sowie die Ersatzkassen nehmen
+die Aufgaben der Landesverbände der Pflegekassen wahr. § 211a und §
+212 Abs. 5 Satz 4 bis 10 des Fünften Buches gelten entsprechend.
 
 (2) Für die Aufgaben der Landesverbände nach Absatz 1 gilt § 211 des
 Fünften Buches entsprechend. Die Landesverbände haben insbesondere den
@@ -3412,7 +4514,7 @@ sind für die Pflegekassen verbindlich.
 
 2.  das Verfahren, mit dem sichergestellt wird, dass die von den
     Pflegekassen beauftragten unabhängigen Gutachter bei der Feststellung
-    der Pflegebedürftigkeit und bei der Zuordnung zu einer Pflegestufe
+    der Pflegebedürftigkeit und bei der Zuordnung zu einem Pflegegrad
     dieselben Maßstäbe wie der Medizinische Dienst der Krankenversicherung
     anlegen,
 
@@ -3430,6 +4532,21 @@ sind für die Pflegekassen verbindlich.
 
 (3) Die Richtlinien bedürfen der Zustimmung des Bundesministeriums für
 Gesundheit.
+
+
+#### § 53c Richtlinien zur Qualifikation und zu den Aufgaben zusätzlicher Betreuungskräfte
+
+Der Spitzenverband Bund der Pflegekassen hat für die zusätzlich
+einzusetzenden Betreuungskräfte für die Leistungen nach § 43b
+Richtlinien zur Qualifikation und zu den Aufgaben in stationären
+Pflegeeinrichtungen zu beschließen. Er hat hierzu die
+Bundesvereinigungen der Träger stationärer Pflegeeinrichtungen und die
+Verbände der Pflegeberufe auf Bundesebene anzuhören und den allgemein
+anerkannten Stand medizinisch-pflegerischer Erkenntnisse zu beachten.
+Die Richtlinien werden für alle Pflegekassen und deren Verbände sowie
+für die stationären Pflegeeinrichtungen erst nach Genehmigung durch
+das Bundesministerium für Gesundheit wirksam. § 17 Absatz 2 Satz 2 und
+3 gilt entsprechend.
 
 
 ## Sechstes Kapitel - Finanzierung
@@ -3458,7 +4575,7 @@ entsprechend.
 
 #### § 55 Beitragssatz, Beitragsbemessungsgrenze
 
-(1) Der Beitragssatz beträgt bundeseinheitlich 1,95 vom Hundert der
+(1) Der Beitragssatz beträgt bundeseinheitlich 2,55 Prozent der
 beitragspflichtigen Einnahmen der Mitglieder; er wird durch Gesetz
 festgesetzt. Für Personen, bei denen § 28 Abs. 2 Anwendung findet,
 beträgt der Beitragssatz die Hälfte des Beitragssatzes nach Satz 1.
@@ -3514,6 +4631,21 @@ nicht beitrags- oder zuschlagspflichtig sind, wird der
 Beitragszuschlag des Monats April 2005 entsprechend der Dauer dieser
 Zeit reduziert.
 
+(5) Sind landwirtschaftliche Unternehmer, die nicht zugleich
+Arbeitslosengeld II beziehen, sowie mitarbeitende Familienangehörige
+Mitglied der landwirtschaftlichen Krankenkasse, wird der Beitrag
+abweichend von den Absätzen 1 bis 3 in Form eines Zuschlags auf den
+Krankenversicherungsbeitrag, den sie nach den Vorschriften des Zweiten
+Gesetzes über die Krankenversicherung der Landwirte aus dem
+Arbeitseinkommen aus Land- und Forstwirtschaft zu zahlen haben,
+erhoben. Die Höhe des Zuschlags ergibt sich aus dem Verhältnis des
+Beitragssatzes nach Absatz 1 Satz 1 zu dem um den durchschnittlichen
+Zusatzbeitragssatz erhöhten allgemeinen Beitragssatz nach § 241 des
+Fünften Buches. Sind die Voraussetzungen für einen Beitragszuschlag
+für Kinderlose nach Absatz 3 erfüllt, erhöht sich der Zuschlag nach
+Satz 2 um das Verhältnis des Beitragszuschlags für Kinderlose nach
+Absatz 3 Satz 1 zu dem Beitragssatz nach Absatz 1 Satz 1.
+
 
 #### § 56 Beitragsfreiheit
 
@@ -3547,7 +4679,7 @@ Satz 1 gilt nicht, wenn der Rentenantragsteller eine eigene Rente,
 Arbeitsentgelt, Arbeitseinkommen oder Versorgungsbezüge erhält.
 
 (3) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von
-Mutterschafts-, Erziehungs- oder Elterngeld. Die Beitragsfreiheit
+Mutterschafts-, Eltern- oder Betreuungsgeld. Die Beitragsfreiheit
 erstreckt sich nur auf die in Satz 1 genannten Leistungen.
 
 (4) Beitragsfrei sind auf Antrag Mitglieder, die sich auf nicht
@@ -3558,16 +4690,23 @@ Gesetzen erhalten, die eine entsprechende Anwendung des
 Bundesversorgungsgesetzes vorsehen, wenn sie keine Familienangehörigen
 haben, für die eine Versicherung nach § 25 besteht.
 
+(5) Beitragsfrei sind Mitglieder für die Dauer des Bezuges von
+Pflegeunterstützungsgeld. Die Beitragsfreiheit erstreckt sich nur auf
+die in Satz 1 genannten Leistungen.
+
 
 #### § 57 Beitragspflichtige Einnahmen
 
 (1) Bei Mitgliedern der Pflegekasse, die in der gesetzlichen
 Krankenversicherung pflichtversichert sind, gelten für die
-Beitragsbemessung die §§ 226 bis 238 und § 244 des Fünften Buches
-sowie die §§ 23a und 23b Abs. 2 bis 4 des Vierten Buches. Bei
-Personen, die Arbeitslosengeld II beziehen, ist abweichend von § 232a
-Abs. 1 Satz 1 Nr. 2 des Fünften Buches der 30. Teil des 0,3620fachen
-der monatlichen Bezugsgröße zugrunde zu legen.
+Beitragsbemessung die §§ 226 bis 232a, 233 bis 238 und § 244 des
+Fünften Buches sowie die §§ 23a und 23b Abs. 2 bis 4 des Vierten
+Buches. Bei Personen, die Arbeitslosengeld II beziehen, ist abweichend
+von § 232a Abs. 1 Satz 1 Nr. 2 des Fünften Buches das 0,2266fache der
+monatlichen Bezugsgröße zugrunde zu legen und sind abweichend von § 54
+Absatz 2 Satz 2 die Beiträge für jeden Kalendermonat, in dem
+mindestens für einen Tag eine Mitgliedschaft besteht, zu zahlen; §
+232a Absatz 1a des Fünften Buches gilt entsprechend.
 
 (2) Bei Beziehern von Krankengeld gilt als beitragspflichtige
 Einnahmen 80 vom Hundert des Arbeitsentgelts, das der Bemessung des
@@ -3589,27 +4728,19 @@ truppenärztlichen Versorgung oder von einem öffentlich-rechtlichen
 Träger von Kosten in Krankheitsfällen auf Landesebene, soweit
 Landesrecht dies vorsieht, im Zusammenhang mit einer nach den §§ 8 und
 8a des Transplantationsgesetzes erfolgenden Spende von Organen oder
-Geweben erhalten, wird das diesen Leistungen zugrunde liegende
-Arbeitsentgelt oder Arbeitseinkommen zugrunde gelegt.
+Geweben oder im Zusammenhang mit einer im Sinne von § 9 des
+Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
+Blutstammzellen oder anderen Blutbestandteilen erhalten, wird das
+diesen Leistungen zugrunde liegende Arbeitsentgelt oder
+Arbeitseinkommen zugrunde gelegt. Bei Personen, die Krankengeld nach §
+45 Absatz 1 des Fünften Buches beziehen, gelten als beitragspflichtige
+Einnahmen 80 Prozent des während der Freistellung ausgefallenen,
+laufenden Arbeitsentgelts oder des der Leistung zugrunde liegenden
+Arbeitseinkommens.
 
-(3) Bei landwirtschaftlichen Unternehmern sowie bei mitarbeitenden
-Familienangehörigen wird auf den Krankenversicherungsbeitrag, der nach
-den Vorschriften des Zweiten Gesetzes über die Krankenversicherung der
-Landwirte aus dem Arbeitseinkommen aus Land- und Forstwirtschaft zu
-zahlen ist, ein Zuschlag erhoben. Die Höhe des Zuschlags ergibt sich
-aus dem Verhältnis des Beitragssatzes nach § 55 Abs. 1 Satz 1 zu dem
-nach § 241 des Fünften Buches festgelegten allgemeinen Beitragssatz.
-Sind die Voraussetzungen für einen Beitragszuschlag für Kinderlose
-nach § 55 Abs. 3 erfüllt, erhöht sich der Zuschlag nach Satz 2 um das
-Verhältnis des Beitragszuschlags für Kinderlose nach § 55 Abs. 3 Satz
-1 zu dem Beitragssatz nach § 55 Abs. 1 Satz 1. Das Bundesministerium
-für Gesundheit stellt die Höhe der Zuschläge nach den Sätzen 2 und 3
-zum 1. Januar jeden Jahres fest. Er gilt für das folgende
-Kalenderjahr. Für die Beitragsbemessung der Altenteiler gilt § 45 des
-Zweiten Gesetzes über die Krankenversicherung der Landwirte. Wird der
-Beitragssatz im Laufe eines Kalenderjahres geändert, stellt das
-Bundesministerium für Gesundheit die Höhe der Zuschläge nach den
-Sätzen 2 und 3 für den Zeitraum ab der Änderung fest.
+(3) Für die Beitragsbemessung der in § 20 Absatz 1 Satz 2 Nummer 3
+genannten Altenteiler gilt § 45 des Zweiten Gesetzes über die
+Krankenversicherung der Landwirte.
 
 (4) Bei freiwilligen Mitgliedern der gesetzlichen Krankenversicherung
 und bei Mitgliedern der sozialen Pflegeversicherung, die nicht in der
@@ -3663,19 +4794,22 @@ auf einen Werktag fiel, vermindert worden ist. In Fällen des § 55 Abs.
 getragen. Im Übrigen findet Absatz 1 Anwendung, soweit es sich nicht
 um eine versicherungspflichtige Beschäftigung mit einem monatlichen
 Arbeitsentgelt innerhalb der Gleitzone nach § 20 Abs. 2 des Vierten
-Buches handelt, für die Absatz 5 Satz 2 Anwendung findet.
+Buches handelt, für die Absatz 5 Satz 2 Anwendung findet. Die Beiträge
+der Beschäftigten erhöhen sich nicht, wenn Länder im Jahr 2017 den
+Reformationstag einmalig zu einem gesetzlichen Feiertag erheben.
 
 (4) Die Aufhebung eines Feiertages wirkt für das gesamte Kalenderjahr.
 Handelt es sich um einen Feiertag, der im laufenden Kalenderjahr vor
 dem Zeitpunkt des Inkrafttretens der Regelung über die Streichung
 liegt, wirkt die Aufhebung erst im folgenden Kalenderjahr.
 
-(5) § 249 Abs. 2 des Fünften Buches gilt entsprechend. § 249 Abs. 4
+(5) § 249 Abs. 2 des Fünften Buches gilt entsprechend. § 249 Absatz 3
 des Fünften Buches gilt mit der Maßgabe, dass statt des Beitragssatzes
 der Krankenkasse der Beitragssatz der Pflegeversicherung und bei den
 in Absatz 3 Satz 1 genannten Beschäftigten für die Berechnung des
-Beitragsanteils des Arbeitgebers ein Beitragssatz in Höhe von 0,7 vom
-Hundert Anwendung findet.
+Beitragsanteils des Arbeitgebers ein Beitragssatz in Höhe des um einen
+Prozentpunkt verminderten Beitragssatzes der Pflegeversicherung
+Anwendung findet.
 
 
 #### § 59 Beitragstragung bei anderen Mitgliedern
@@ -3701,14 +4835,15 @@ soweit sie auf das Krankengeld entfallen und dieses nicht in Höhe der
 Leistungen der Bundesagentur für Arbeit zu zahlen ist, im übrigen von
 den Krankenkassen; die Beiträge werden auch dann von den Krankenkassen
 getragen, wenn das dem Krankengeld zugrunde liegende monatliche
-Arbeitsentgelt ein Siebtel der monatlichen Bezugsgröße nicht
-übersteigt. Die Beiträge für Bezieher von Krankengeld nach § 44a des
-Fünften Buches oder für den Ausfall von Arbeitseinkünften im
-Zusammenhang mit einer nach den §§ 8 und 8a des
+Arbeitsentgelt 450 Euro nicht übersteigt. Die Beiträge für Bezieher
+von Krankengeld nach § 44a des Fünften Buches oder für den Ausfall von
+Arbeitseinkünften im Zusammenhang mit einer nach den §§ 8 und 8a des
 Transplantationsgesetzes erfolgenden Spende von Organen oder Geweben
-sind von der Stelle zu tragen, die die Leistung erbringt; wird die
-Leistung von mehreren Stellen erbracht, sind die Beiträge entsprechend
-anteilig zu tragen.
+oder im Zusammenhang mit einer im Sinne von § 9 des
+Transfusionsgesetzes erfolgenden Spende von Blut zur Separation von
+Blutstammzellen oder anderen Blutbestandteilen sind von der Stelle zu
+tragen, die die Leistung erbringt; wird die Leistung von mehreren
+Stellen erbracht, sind die Beiträge entsprechend anteilig zu tragen.
 
 (3) Die Beiträge für die nach § 21 Nr. 1 bis 5 versicherten
 Leistungsempfänger werden vom jeweiligen Leistungsträger getragen.
@@ -3744,13 +4879,14 @@ Mitglied.
 
 (1) Soweit gesetzlich nichts Abweichendes bestimmt ist, sind die
 Beiträge von demjenigen zu zahlen, der sie zu tragen hat. § 252 Abs. 1
-Satz 2, die §§ 253 bis 256 des Fünften Buches und § 50 des Zweiten
-Gesetzes über die Krankenversicherung der Landwirte gelten
-entsprechend. Die aus einer Rente nach dem Gesetz über die
-Alterssicherung der Landwirte und einer laufenden Geldleistung nach
-dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen
-Erwerbstätigkeit zu entrichtenden Beiträge werden von der Alterskasse
-gezahlt; § 28g Satz 1 des Vierten Buches gilt entsprechend.
+Satz 2, die §§ 253 bis 256a des Fünften Buches und § 49 Satz 2, die §§
+50 und 50a des Zweiten Gesetzes über die Krankenversicherung der
+Landwirte gelten entsprechend. Die aus einer Rente nach dem Gesetz
+über die Alterssicherung der Landwirte und einer laufenden
+Geldleistung nach dem Gesetz zur Förderung der Einstellung der
+landwirtschaftlichen Erwerbstätigkeit zu entrichtenden Beiträge werden
+von der Alterskasse gezahlt; § 28g Satz 1 des Vierten Buches gilt
+entsprechend.
 
 (2) Für Bezieher von Krankengeld zahlen die Krankenkassen die
 Beiträge; für den Beitragsabzug gilt § 28g Satz 1 des Vierten Buches
@@ -4003,6 +5139,14 @@ Sondervermögen gutgeschrieben.
 (3) Die Mittel des Ausgleichsfonds sind so anzulegen, daß sie für den
 in den §§ 67, 68 genannten Zweck verfügbar sind.
 
+(4) Die dem Bundesversicherungsamt bei der Verwaltung des
+Ausgleichsfonds entstehenden Kosten werden durch die Mittel des
+Ausgleichsfonds gedeckt. Das Bundesministerium für Gesundheit wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und
+dem Bundesministerium für Arbeit und Soziales durch Rechtsverordnung
+ohne Zustimmung des Bundesrates Vorschriften zu erlassen, die Näheres
+zu der Erstattung der Verwaltungskosten regeln.
+
 
 #### § 66 Finanzausgleich
 
@@ -4128,8 +5272,8 @@ der Beitragssatzstabilität widersprechen, sind unwirksam.
 (1) Ambulante Pflegeeinrichtungen (Pflegedienste) im Sinne dieses
 Buches sind selbständig wirtschaftende Einrichtungen, die unter
 ständiger Verantwortung einer ausgebildeten Pflegefachkraft
-Pflegebedürftige in ihrer Wohnung pflegen und hauswirtschaftlich
-versorgen.
+Pflegebedürftige in ihrer Wohnung mit Leistungen der häuslichen
+Pflegehilfe im Sinne des § 36 versorgen.
 
 (2) Stationäre Pflegeeinrichtungen (Pflegeheime) im Sinne dieses
 Buches sind selbständig wirtschaftende Einrichtungen, in denen
@@ -4198,12 +5342,14 @@ gleicher Träger und den Landesverbänden der Pflegekassen im
 Einvernehmen mit den überörtlichen Trägern der Sozialhilfe im Land
 abgeschlossen, soweit nicht nach Landesrecht der örtliche Träger für
 die Pflegeeinrichtung zuständig ist; für mehrere oder alle selbständig
-wirtschaftenden Einrichtungen (§ 71 Abs. 1 und 2) eines
-Pflegeeinrichtungsträgers, die vor Ort organisatorisch miteinander
-verbunden sind, kann ein einheitlicher Versorgungsvertrag
-(Gesamtversorgungsvertrag) geschlossen werden. Er ist für die
-Pflegeeinrichtung und für alle Pflegekassen im Inland unmittelbar
-verbindlich.
+wirtschaftenden Einrichtungen (§ 71 Abs. 1 und 2) einschließlich für
+einzelne, eingestreute Pflegeplätze eines Pflegeeinrichtungsträgers,
+die vor Ort organisatorisch miteinander verbunden sind, kann,
+insbesondere zur Sicherstellung einer quartiersnahen Unterstützung
+zwischen den verschiedenen Versorgungsbereichen, ein einheitlicher
+Versorgungsvertrag (Gesamtversorgungsvertrag) geschlossen werden. Er
+ist für die Pflegeeinrichtung und für alle Pflegekassen im Inland
+unmittelbar verbindlich.
 
 (3) Versorgungsverträge dürfen nur mit Pflegeeinrichtungen
 abgeschlossen werden, die
@@ -4356,12 +5502,15 @@ Pflegeeinrichtungen im Inland unmittelbar verbindlich.
 
 (2) Die Verträge regeln insbesondere:
 
-1.  den Inhalt der Pflegeleistungen sowie bei stationärer Pflege die
-    Abgrenzung zwischen den allgemeinen Pflegeleistungen, den Leistungen
-    bei Unterkunft und Verpflegung und den Zusatzleistungen,
+1.  den Inhalt der Pflegeleistungen einschließlich der Sterbebegleitung
+    sowie bei stationärer Pflege die Abgrenzung zwischen den allgemeinen
+    Pflegeleistungen, den Leistungen bei Unterkunft und Verpflegung und
+    den Zusatzleistungen,
 
 
 2.  die allgemeinen Bedingungen der Pflege einschließlich der
+    Vertragsvoraussetzungen und der Vertragserfüllung für eine
+    leistungsfähige und wirtschaftliche pflegerische Versorgung, der
     Kostenübernahme, der Abrechnung der Entgelte und der hierzu
     erforderlichen Bescheinigungen und Berichte,
 
@@ -4383,8 +5532,8 @@ Pflegeeinrichtungen im Inland unmittelbar verbindlich.
     Pflegekassen beauftragter Prüfer zu den Pflegeeinrichtungen,
 
 
-7.  die Verfahrens- und Prüfungsgrundsätze für
-    Wirtschaftlichkeitsprüfungen,
+7.  die Verfahrens- und Prüfungsgrundsätze für Wirtschaftlichkeits- und
+    Abrechnungsprüfungen,
 
 
 8.  die Grundsätze zur Festlegung der örtlichen oder regionalen
@@ -4396,7 +5545,16 @@ Pflegeeinrichtungen im Inland unmittelbar verbindlich.
     ehrenamtliche Pflegepersonen und sonstige zum bürgerschaftlichen
     Engagement bereite Personen und Organisationen in der häuslichen
     Pflege sowie in ambulanten und stationären Pflegeeinrichtungen an der
-    Betreuung Pflegebedürftiger beteiligen können.
+    Betreuung Pflegebedürftiger beteiligen können,
+
+
+10. die Verfahrens- und Prüfungsgrundsätze für die Zahlung einer
+    ortsüblichen Vergütung an die Beschäftigten nach § 72 Absatz 3 Satz 1
+    Nummer 2,
+
+
+11. die Anforderungen an die nach § 85 Absatz 3 geeigneten Nachweise bei
+    den Vergütungsverhandlungen.
 
 
 
@@ -4425,16 +5583,15 @@ werden und umfassen bei teil- oder vollstationärer Pflege wenigstens
 
 1.  das Verhältnis zwischen der Zahl der Heimbewohner und der Zahl der
     Pflege- und Betreuungskräfte (in Vollzeitkräfte umgerechnet),
-    unterteilt nach Pflegestufen (Personalanhaltszahlen), sowie
+    unterteilt nach Pflegegrad (Personalanhaltszahlen), sowie
 
 
-2.  im Bereich der Pflege, der sozialen Betreuung und der medizinischen
+2.  im Bereich der Pflege, der Betreuung und der medizinischen
     Behandlungspflege zusätzlich den Anteil der ausgebildeten Fachkräfte
     am Pflege- und Betreuungspersonal.
 
 
 
-Die Heimpersonalverordnung bleibt in allen Fällen unberührt.
 
 (4) Kommt ein Vertrag nach Absatz 1 innerhalb von sechs Monaten ganz
 oder teilweise nicht zustande, nachdem eine Vertragspartei schriftlich
@@ -4537,25 +5694,24 @@ Abs. 6 gilt entsprechend.
 
 #### § 77 Häusliche Pflege durch Einzelpersonen
 
-(1) Zur Sicherstellung der häuslichen Pflege und Betreuung sowie der
-hauswirtschaftlichen Versorgung soll die Pflegekasse Verträge mit
-einzelnen geeigneten Pflegekräften schließen, um dem Pflegebedürftigen
-zu helfen, ein möglichst selbständiges und selbstbestimmtes Leben zu
-führen oder dem besonderen Wunsch des Pflegebedürftigen zur Gestaltung
-der Hilfe zu entsprechen; Verträge mit Verwandten oder Verschwägerten
-des Pflegebedürftigen bis zum dritten Grad sowie mit Personen, die mit
-dem Pflegebedürftigen in häuslicher Gemeinschaft leben, sind
-unzulässig. In dem Vertrag sind Inhalt, Umfang, Qualität,
-Qualitätssicherung, Vergütung sowie Prüfung der Qualität und
-Wirtschaftlichkeit der vereinbarten Leistungen zu regeln; § 112 ist
-entsprechend anzuwenden. Die Vergütungen sind für Leistungen der
-Grundpflege und der hauswirtschaftlichen Versorgung sowie für
-Betreuungsleistungen nach § 36 Absatz 1 zu vereinbaren. In dem Vertrag
-ist weiter zu regeln, dass die Pflegekräfte mit dem Pflegebedürftigen,
-dem sie Leistungen der häuslichen Pflege und der hauswirtschaftlichen
-Versorgung erbringen, kein Beschäftigungsverhältnis eingehen dürfen.
-Soweit davon abweichend Verträge geschlossen sind, sind sie zu
-kündigen. Die Sätze 4 und 5 gelten nicht, wenn
+(1) Zur Sicherstellung der körperbezogenen Pflege, der pflegerischen
+Betreuung sowie der Haushaltsführung im Sinne des § 36 soll die
+Pflegekasse Verträge mit einzelnen geeigneten Pflegekräften schließen,
+um dem Pflegebedürftigen zu helfen, ein möglichst selbständiges und
+selbstbestimmtes Leben zu führen oder dem besonderen Wunsch des
+Pflegebedürftigen zur Gestaltung der Hilfe zu entsprechen; Verträge
+mit Verwandten oder Verschwägerten des Pflegebedürftigen bis zum
+dritten Grad sowie mit Personen, die mit dem Pflegebedürftigen in
+häuslicher Gemeinschaft leben, sind unzulässig. In dem Vertrag sind
+Inhalt, Umfang, Qualität, Qualitätssicherung, Vergütung sowie Prüfung
+der Qualität und Wirtschaftlichkeit der vereinbarten Leistungen zu
+regeln; § 112 ist entsprechend anzuwenden. Die Vergütungen sind für
+Leistungen der häuslichen Pflegehilfe nach § 36 Absatz 1 zu
+vereinbaren. In dem Vertrag ist weiter zu regeln, dass die
+Pflegekräfte mit dem Pflegebedürftigen, dem sie Leistungen der
+häuslichen Pflegehilfe erbringen, kein Beschäftigungsverhältnis
+eingehen dürfen. Soweit davon abweichend Verträge geschlossen sind,
+sind sie zu kündigen. Die Sätze 4 und 5 gelten nicht, wenn
 
 1.  das Beschäftigungsverhältnis vor dem 1. Mai 1996 bestanden hat und
 
@@ -4572,10 +5728,11 @@ einschließlich der dafür mit den Kostenträgern vereinbarten
 Vergütungen zu beschreiben. § 120 Absatz 1 Satz 2 gilt entsprechend.
 
 (2) Die Pflegekassen können bei Bedarf einzelne Pflegekräfte zur
-Sicherstellung der häuslichen Pflege anstellen, für die hinsichtlich
-der Wirtschaftlichkeit und Qualität ihrer Leistungen die gleichen
-Anforderungen wie für die zugelassenen Pflegedienste nach diesem Buch
-gelten.
+Sicherstellung der körperbezogenen Pflege, der pflegerischen Betreuung
+sowie der Haushaltsführung im Sinne des § 36 anstellen, für die
+hinsichtlich der Wirtschaftlichkeit und Qualität ihrer Leistungen die
+gleichen Anforderungen wie für die zugelassenen Pflegedienste nach
+diesem Buch gelten.
 
 
 #### § 78 Verträge über Pflegehilfsmittel
@@ -4617,11 +5774,11 @@ für Familie, Senioren, Frauen und Jugend und mit Zustimmung des
 Bundesrates zu bestimmen; § 40 Abs. 5 bleibt unberührt.
 
 
-### Vierter Abschnitt - Wirtschaftlichkeitsprüfungen und Qualitätssicherung
+### Vierter Abschnitt - Wirtschaftlichkeitsprüfungen
 
 
 
-#### § 79 Wirtschaftlichkeitsprüfungen
+#### § 79 Wirtschaftlichkeits- und Abrechnungsprüfungen
 
 (1) Die Landesverbände der Pflegekassen können die Wirtschaftlichkeit
 und Wirksamkeit der ambulanten, teilstationären und vollstationären
@@ -4642,6 +5799,24 @@ notwendigen Unterlagen vorzulegen und Auskünfte zu erteilen.
 ergebenden Folgerungen für eine Kündigung des Versorgungsvertrags nach
 § 74, in der nächstmöglichen Vergütungsvereinbarung mit Wirkung für
 die Zukunft zu berücksichtigen.
+
+(4) Die Landesverbände der Pflegekassen können eine Abrechnungsprüfung
+selbst oder durch von ihnen bestellte Sachverständige durchführen
+lassen, wenn tatsächliche Anhaltspunkte dafür bestehen, dass die
+Pflegeeinrichtung fehlerhaft abrechnet. Die Abrechnungsprüfung bezieht
+sich
+
+1.  auf die Abrechnung von Leistungen, die zu Lasten der
+    Pflegeversicherung erbracht oder erstattet werden, sowie
+
+
+2.  auf die Abrechnung der Leistungen für Unterkunft und Verpflegung (§
+    87).
+
+
+
+Für die Abrechnungsprüfung sind Absatz 1 Satz 3 und 4 sowie die
+Absätze 2 und 3 entsprechend anzuwenden.
 
 
 #### § 80 (weggefallen)
@@ -4713,18 +5888,18 @@ dieses Kapitels
 
 
 Die Pflegevergütung ist von den Pflegebedürftigen oder deren
-Kostenträgern zu tragen. Sie umfasst bei stationärer Pflege auch die
-soziale Betreuung und, soweit kein Anspruch auf Krankenpflege nach §
-37 des Fünften Buches besteht, die medizinische Behandlungspflege. Für
+Kostenträgern zu tragen. Sie umfasst auch die Betreuung und, soweit
+bei stationärer Pflege kein Anspruch auf Krankenpflege nach § 37 des
+Fünften Buches besteht, die medizinische Behandlungspflege. Für
 Unterkunft und Verpflegung bei stationärer Pflege hat der
 Pflegebedürftige selbst aufzukommen.
 
 (2) In der Pflegevergütung und in den Entgelten für Unterkunft und
 Verpflegung dürfen keine Aufwendungen berücksichtigt werden für
 
-1.  Maßnahmen, die dazu bestimmt sind, die für den Betrieb der
-    Pflegeeinrichtung notwendigen Gebäude und sonstigen
-    abschreibungsfähigen Anlagegüter herzustellen, anzuschaffen,
+1.  Maßnahmen einschließlich Kapitalkosten, die dazu bestimmt sind, die
+    für den Betrieb der Pflegeeinrichtung notwendigen Gebäude und
+    sonstigen abschreibungsfähigen Anlagegüter herzustellen, anzuschaffen,
     wiederzubeschaffen, zu ergänzen, instandzuhalten oder instandzusetzen;
     ausgenommen sind die zum Verbrauch bestimmten Güter (Verbrauchsgüter),
     die der Pflegevergütung nach Absatz 1 Satz 1 Nr. 1 zuzuordnen sind,
@@ -4733,8 +5908,8 @@ Verpflegung dürfen keine Aufwendungen berücksichtigt werden für
 2.  den Erwerb und die Erschließung von Grundstücken,
 
 
-3.  Miete, Pacht, Nutzung oder Mitbenutzung von Grundstücken, Gebäuden
-    oder sonstigen Anlagegütern,
+3.  Miete, Pacht, Erbbauzins, Nutzung oder Mitbenutzung von Grundstücken,
+    Gebäuden oder sonstigen Anlagegütern,
 
 
 4.  den Anlauf oder die innerbetriebliche Umstellung von
@@ -4748,17 +5923,21 @@ Verpflegung dürfen keine Aufwendungen berücksichtigt werden für
 
 
 (3) Soweit betriebsnotwendige Investitionsaufwendungen nach Absatz 2
-Nr. 1 oder Aufwendungen für Miete, Pacht, Nutzung oder Mitbenutzung
-von Gebäuden oder sonstige abschreibungsfähige Anlagegüter nach Absatz
-2 Nr. 3 durch öffentliche Förderung gemäß § 9 nicht vollständig
-gedeckt sind, kann die Pflegeeinrichtung diesen Teil der Aufwendungen
-den Pflegebedürftigen gesondert berechnen. Gleiches gilt, soweit die
-Aufwendungen nach Satz 1 vom Land durch Darlehen oder sonstige
-rückzahlbare Zuschüsse gefördert werden. Die gesonderte Berechnung
-bedarf der Zustimmung der zuständigen Landesbehörde; das Nähere
-hierzu, insbesondere auch zu Art, Höhe und Laufzeit sowie die
+Nr. 1 oder Aufwendungen für Miete, Pacht, Erbbauzins, Nutzung oder
+Mitbenutzung von Gebäuden oder sonstige abschreibungsfähige
+Anlagegüter nach Absatz 2 Nr. 3 durch öffentliche Förderung gemäß § 9
+nicht vollständig gedeckt sind, kann die Pflegeeinrichtung diesen Teil
+der Aufwendungen den Pflegebedürftigen gesondert berechnen. Gleiches
+gilt, soweit die Aufwendungen nach Satz 1 vom Land durch Darlehen oder
+sonstige rückzahlbare Zuschüsse gefördert werden. Die gesonderte
+Berechnung bedarf der Zustimmung der zuständigen Landesbehörde; das
+Nähere hierzu, insbesondere auch zu Art, Höhe und Laufzeit sowie die
 Verteilung der gesondert berechenbaren Aufwendungen auf die
-Pflegebedürftigen, wird durch Landesrecht bestimmt.
+Pflegebedürftigen einschließlich der Berücksichtigung pauschalierter
+Instandhaltungs- und Instandsetzungsaufwendungen sowie der zugrunde zu
+legenden Belegungsquote, wird durch Landesrecht bestimmt. Die
+Pauschalen müssen in einem angemessenen Verhältnis zur tatsächlichen
+Höhe der Instandhaltungs- und Instandsetzungsaufwendungen stehen.
 
 (4) Pflegeeinrichtungen, die nicht nach Landesrecht gefördert werden,
 können ihre betriebsnotwendigen Investitionsaufwendungen den
@@ -4938,8 +6117,8 @@ Regelungsbereichen nicht mehr zulässig.
 
 (1) Pflegesätze sind die Entgelte der Heimbewohner oder ihrer
 Kostenträger für die teil- oder vollstationären Pflegeleistungen des
-Pflegeheims sowie für die soziale Betreuung und, soweit kein Anspruch
-auf Krankenpflege nach § 37 des Fünften Buches besteht, für die
+Pflegeheims sowie für die Betreuung und, soweit kein Anspruch auf
+Krankenpflege nach § 37 des Fünften Buches besteht, für die
 medizinische Behandlungspflege. In den Pflegesätzen dürfen keine
 Aufwendungen berücksichtigt werden, die nicht der
 Finanzierungszuständigkeit der sozialen Pflegeversicherung
@@ -4947,19 +6126,20 @@ unterliegen.
 
 (2) Die Pflegesätze müssen leistungsgerecht sein. Sie sind nach dem
 Versorgungsaufwand, den der Pflegebedürftige nach Art und Schwere
-seiner Pflegebedürftigkeit benötigt, in drei Pflegeklassen
-einzuteilen; für Pflegebedürftige, die als Härtefall anerkannt sind,
-können Zuschläge zum Pflegesatz der Pflegeklasse 3 bis zur Höhe des
-kalendertäglichen Unterschiedsbetrages vereinbart werden, der sich aus
-§ 43 Abs. 2 Satz 2 Nr. 3 und 4 ergibt. Bei der Zuordnung der
-Pflegebedürftigen zu den Pflegeklassen sind die Pflegestufen gemäß §
-15 zugrunde zu legen, soweit nicht nach der gemeinsamen Beurteilung
-des Medizinischen Dienstes und der Pflegeleitung des Pflegeheimes die
-Zuordnung zu einer anderen Pflegeklasse notwendig oder ausreichend
-ist. Die Pflegesätze müssen einem Pflegeheim bei wirtschaftlicher
-Betriebsführung ermöglichen, seine Aufwendungen zu finanzieren und
-seinen Versorgungsauftrag zu erfüllen. Überschüsse verbleiben dem
-Pflegeheim; Verluste sind von ihm zu tragen. Der Grundsatz der
+seiner Pflegebedürftigkeit benötigt, entsprechend den fünf
+Pflegegraden einzuteilen. Davon ausgehend sind bei vollstationärer
+Pflege nach § 43 für die Pflegegrade 2 bis 5 einrichtungseinheitliche
+Eigenanteile zu ermitteln; dies gilt auch bei Änderungen der
+Leistungsbeträge. Die Pflegesätze müssen einem Pflegeheim bei
+wirtschaftlicher Betriebsführung ermöglichen, seine Aufwendungen zu
+finanzieren und seinen Versorgungsauftrag zu erfüllen unter
+Berücksichtigung einer angemessenen Vergütung ihres
+Unternehmerrisikos. Die Bezahlung von Gehältern bis zur Höhe
+tarifvertraglich vereinbarter Vergütungen sowie entsprechender
+Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht
+als unwirtschaftlich abgelehnt werden. Für eine darüber hinausgehende
+Bezahlung bedarf es eines sachlichen Grundes. Überschüsse verbleiben
+dem Pflegeheim; Verluste sind von ihm zu tragen. Der Grundsatz der
 Beitragssatzstabilität ist zu beachten. Bei der Bemessung der
 Pflegesätze einer Pflegeeinrichtung können die Pflegesätze derjenigen
 Pflegeeinrichtungen, die nach Art und Größe sowie hinsichtlich der in
@@ -5010,6 +6190,28 @@ Personalausstattung tatsächlich bereitgestellt und bestimmungsgemäß
 eingesetzt wird. Das Nähere zur Durchführung des Personalabgleichs
 wird in den Verträgen nach § 75 Abs. 1 und 2 geregelt.
 
+(7) Der Träger der Einrichtung ist verpflichtet, im Falle einer
+Vereinbarung der Pflegesätze auf Grundlage der Bezahlung von Gehältern
+bis zur Höhe tarifvertraglich vereinbarter Vergütungen sowie
+entsprechender Vergütungen nach kirchlichen Arbeitsrechtsregelungen,
+die entsprechende Bezahlung der Beschäftigten jederzeit einzuhalten.
+Auf Verlangen einer Vertragspartei hat der Träger der Einrichtung
+dieses nachzuweisen. Personenbezogene Daten sind zu anonymisieren. Das
+Nähere zur Durchführung des Nachweises wird in den Verträgen nach § 75
+Absatz 1 und 2 geregelt.
+
+(8) Vergütungszuschläge sind abweichend von Absatz 2 Satz 2 und Absatz
+4 Satz 1 sowie unter entsprechender Anwendung des Absatzes 2 Satz 1
+und 5, des Absatzes 7 und des § 87a zusätzliche Entgelte zur
+Pflegevergütung für die Leistungen nach § 43b. Der Vergütungszuschlag
+ist von der Pflegekasse zu tragen und von dem privaten
+Versicherungsunternehmen im Rahmen des vereinbarten
+Versicherungsschutzes zu erstatten; § 28 Absatz 2 ist entsprechend
+anzuwenden. Mit den Vergütungszuschlägen sind alle zusätzlichen
+Leistungen der Betreuung und Aktivierung in stationären
+Pflegeeinrichtungen abgegolten. Pflegebedürftige dürfen mit den
+Vergütungszuschlägen weder ganz noch teilweise belastet werden.
+
 
 #### § 85 Pflegesatzverfahren
 
@@ -5055,8 +6257,11 @@ erteilen. Hierzu gehören auch pflegesatzerhebliche Angaben zum
 Jahresabschluß entsprechend den Grundsätzen ordnungsgemäßer
 Pflegebuchführung, zur personellen und sachlichen Ausstattung des
 Pflegeheims einschließlich der Kosten sowie zur tatsächlichen
-Stellenbesetzung und Eingruppierung. Personenbezogene Daten sind zu
-anonymisieren.
+Stellenbesetzung und Eingruppierung. Dabei sind insbesondere die in
+der Pflegesatzverhandlung geltend gemachten, voraussichtlichen
+Personalkosten einschließlich entsprechender Erhöhungen im Vergleich
+zum bisherigen Pflegesatzzeitraum vorzuweisen. Personenbezogene Daten
+sind zu anonymisieren.
 
 (4) Die Pflegesatzvereinbarung kommt durch Einigung zwischen dem
 Träger des Pflegeheimes und der Mehrheit der Kostenträger nach Absatz
@@ -5069,16 +6274,16 @@ schriftliche Verhandlungs- und Abschlußvollmacht vorzulegen.
 (5) Kommt eine Pflegesatzvereinbarung innerhalb von sechs Wochen nicht
 zustande, nachdem eine Vertragspartei schriftlich zu
 Pflegesatzverhandlungen aufgefordert hat, setzt die Schiedsstelle nach
-§ 76 auf Antrag einer Vertragspartei die Pflegesätze unverzüglich
-fest. Satz 1 gilt auch, soweit der nach Absatz 2 Satz 1 Nr. 2
-zuständige Träger der Sozialhilfe der Pflegesatzvereinbarung innerhalb
-von zwei Wochen nach Vertragsschluß widerspricht; der Träger der
-Sozialhilfe kann im voraus verlangen, daß an Stelle der gesamten
-Schiedsstelle nur der Vorsitzende und die beiden weiteren
-unparteiischen Mitglieder oder nur der Vorsitzende allein entscheiden.
-Gegen die Festsetzung ist der Rechtsweg zu den Sozialgerichten
-gegeben. Ein Vorverfahren findet nicht statt; die Klage hat keine
-aufschiebende Wirkung.
+§ 76 auf Antrag einer Vertragspartei die Pflegesätze unverzüglich, in
+der Regel binnen drei Monaten, fest. Satz 1 gilt auch, soweit der nach
+Absatz 2 Satz 1 Nr. 2 zuständige Träger der Sozialhilfe der
+Pflegesatzvereinbarung innerhalb von zwei Wochen nach Vertragsschluß
+widerspricht; der Träger der Sozialhilfe kann im voraus verlangen, daß
+an Stelle der gesamten Schiedsstelle nur der Vorsitzende und die
+beiden weiteren unparteiischen Mitglieder oder nur der Vorsitzende
+allein entscheiden. Gegen die Festsetzung ist der Rechtsweg zu den
+Sozialgerichten gegeben. Ein Vorverfahren findet nicht statt; die
+Klage hat keine aufschiebende Wirkung.
 
 (6) Pflegesatzvereinbarungen sowie Schiedsstellenentscheidungen nach
 Absatz 5 Satz 1 oder 2 treten zu dem darin unter angemessener
@@ -5093,8 +6298,41 @@ neuer Pflegesätze weiter.
 (7) Bei unvorhersehbaren wesentlichen Veränderungen der Annahmen, die
 der Vereinbarung oder Festsetzung der Pflegesätze zugrunde lagen, sind
 die Pflegesätze auf Verlangen einer Vertragspartei für den laufenden
-Pflegesatzzeitraum neu zu verhandeln; die Absätze 3 bis 6 gelten
-entsprechend.
+Pflegesatzzeitraum neu zu verhandeln. Dies gilt insbesondere bei einer
+erheblichen Abweichung der tatsächlichen Bewohnerstruktur. Die Absätze
+3 bis 6 gelten entsprechend. Im Fall von Satz 2 kann eine Festsetzung
+der Pflegesätze durch die Schiedsstelle abweichend von Satz 3 in
+Verbindung mit Absatz 5 Satz 1 bereits nach einem Monat beantragt
+werden.
+
+(8) Die Vereinbarung des Vergütungszuschlags nach § 84 Absatz 8
+erfolgt auf der Grundlage, dass
+
+1.  die stationäre Pflegeeinrichtung für die zusätzliche Betreuung und
+    Aktivierung der Pflegebedürftigen über zusätzliches
+    Betreuungspersonal, in vollstationären Pflegeeinrichtungen in
+    sozialversicherungspflichtiger Beschäftigung verfügt und die
+    Aufwendungen für dieses Personal weder bei der Bemessung der
+    Pflegesätze noch bei den Zusatzleistungen nach § 88 berücksichtigt
+    werden,
+
+
+2.  in der Regel für jeden Pflegebedürftigen 5 Prozent der
+    Personalaufwendungen für eine zusätzliche Vollzeitkraft finanziert
+    wird und
+
+
+3.  die Vertragsparteien Einvernehmen erzielt haben, dass der vereinbarte
+    Vergütungszuschlag nicht berechnet werden darf, soweit die zusätzliche
+    Betreuung und Aktivierung für Pflegebedürftige nicht erbracht wird.
+
+
+
+Pflegebedürftige und ihre Angehörigen sind von der stationären
+Pflegeeinrichtung im Rahmen der Verhandlung und des Abschlusses des
+stationären Pflegevertrages nachprüfbar und deutlich darauf
+hinzuweisen, dass ein zusätzliches Betreuungsangebot besteht. Im
+Übrigen gelten die Absätze 1 bis 7 entsprechend.
 
 
 #### § 86 Pflegesatzkommission
@@ -5159,17 +6397,17 @@ Pflegevergütung, der Entgelte für Unterkunft und Verpflegung und der
 Zuschläge nach § 92b vorzusehen.
 
 (2) Bestehen Anhaltspunkte dafür, dass der pflegebedürftige
-Heimbewohner auf Grund der Entwicklung seines Zustands einer höheren
-Pflegestufe zuzuordnen ist, so ist er auf schriftliche Aufforderung
-des Heimträgers verpflichtet, bei seiner Pflegekasse die Zuordnung zu
+Heimbewohner auf Grund der Entwicklung seines Zustands einem höheren
+Pflegegrad zuzuordnen ist, so ist er auf schriftliche Aufforderung des
+Heimträgers verpflichtet, bei seiner Pflegekasse die Zuordnung zu
 einer höheren Pflegestufe zu beantragen. Die Aufforderung ist zu
 begründen und auch der Pflegekasse sowie bei Sozialhilfeempfängern dem
 zuständigen Träger der Sozialhilfe zuzuleiten. Weigert sich der
 Heimbewohner, den Antrag zu stellen, kann der Heimträger ihm oder
 seinem Kostenträger ab dem ersten Tag des zweiten Monats nach der
-Aufforderung vorläufig den Pflegesatz nach der nächsthöheren
-Pflegeklasse berechnen. Werden die Voraussetzungen für eine höhere
-Pflegestufe vom Medizinischen Dienst nicht bestätigt und lehnt die
+Aufforderung vorläufig den Pflegesatz nach dem nächsthöheren
+Pflegegrad berechnen. Werden die Voraussetzungen für einen höheren
+Pflegegrad vom Medizinischen Dienst nicht bestätigt und lehnt die
 Pflegekasse eine Höherstufung deswegen ab, hat das Pflegeheim dem
 Pflegebedürftigen den überzahlten Betrag unverzüglich zurückzuzahlen;
 der Rückzahlungsbetrag ist rückwirkend ab dem in Satz 3 genannten
@@ -5185,82 +6423,19 @@ Leistungsbeträge werden bei vollstationärer Pflege (§ 43) zum 15.
 eines jeden Monats fällig.
 
 (4) Pflegeeinrichtungen, die Leistungen im Sinne des § 43 erbringen,
-erhalten von der Pflegekasse zusätzlich den Betrag von 1.536 Euro,
+erhalten von der Pflegekasse zusätzlich den Betrag von 2 952 Euro,
 wenn der Pflegebedürftige nach der Durchführung aktivierender oder
-rehabilitativer Maßnahmen in eine niedrigere Pflegestufe oder von
-erheblicher zu nicht erheblicher Pflegebedürftigkeit zurückgestuft
-wurde. Der Betrag wird entsprechend § 30 angepasst. Der von der
-Pflegekasse gezahlte Betrag ist von der Pflegeeinrichtung
-zurückzuzahlen, wenn der Pflegebedürftige innerhalb von sechs Monaten
-in eine höhere Pflegestufe oder von nicht erheblicher zu erheblicher
-Pflegebedürftigkeit eingestuft wird.
+rehabilitativer Maßnahmen in einen niedrigeren Pflegegrad
+zurückgestuft wurde oder festgestellt wurde, dass er nicht mehr
+pflegebedürftig im Sinne der §§ 14 und 15 ist. Der Betrag wird
+entsprechend § 30 angepasst. Der von der Pflegekasse gezahlte Betrag
+ist von der Pflegeeinrichtung zurückzuzahlen, wenn der
+Pflegebedürftige innerhalb von sechs Monaten in einen höheren
+Pflegegrad oder wieder als pflegebedürftig im Sinne der §§ 14 und 15
+eingestuft wird.
 
 
-#### § 87b Vergütungszuschläge für Pflegebedürftige mit erheblichem allgemeinem Betreuungsbedarf
-
-(1) Vollstationäre Pflegeeinrichtungen haben abweichend von § 84 Abs.
-2 Satz 2 und Abs. 4 Satz 1 sowie unter entsprechender Anwendung der §§
-45a, 85 und 87a für die zusätzliche Betreuung und Aktivierung der
-pflegebedürftigen Heimbewohner mit erheblichem Bedarf an allgemeiner
-Beaufsichtigung und Betreuung Anspruch auf Vereinbarung
-leistungsgerechter Zuschläge zur Pflegevergütung. Die Vereinbarung der
-Vergütungszuschläge setzt voraus, dass
-
-1.  die Heimbewohner über die nach Art und Schwere der Pflegebedürftigkeit
-    notwendige Versorgung hinaus zusätzlich betreut und aktiviert werden,
-
-
-2.  das Pflegeheim für die zusätzliche Betreuung und Aktivierung der
-    Heimbewohner über zusätzliches Betreuungspersonal, in vollstationären
-    Pflegeeinrichtungen in sozialversicherungspflichtiger Beschäftigung
-    verfügt und die Aufwendungen für dieses Personal weder bei der
-    Bemessung der Pflegesätze noch bei den Zusatzleistungen nach § 88
-    berücksichtigt werden,
-
-
-3.  die Vergütungszuschläge auf der Grundlage vereinbart werden, dass in
-    der Regel für jeden Heimbewohner mit erheblichem allgemeinem Bedarf an
-    Beaufsichtigung und Betreuung der vierundzwanzigste Teil der
-    Personalaufwendungen für eine zusätzliche Vollzeitkraft finanziert
-    wird und
-
-
-4.  die Vertragsparteien Einvernehmen erzielt haben, dass der vereinbarte
-    Vergütungszuschlag nicht berechnet werden darf, soweit die zusätzliche
-    Betreuung und Aktivierung für Heimbewohner nicht erbracht wird.
-
-
-
-Eine Vereinbarung darf darüber hinaus nur mit Pflegeheimen getroffen
-werden, die Pflegebedürftige und ihre Angehörigen im Rahmen der
-Verhandlung und des Abschlusses des Heimvertrages nachprüfbar und
-deutlich darauf hinweisen, dass ein zusätzliches Betreuungsangebot,
-für das ein Vergütungszuschlag nach Absatz 1 gezahlt wird, besteht.
-Die Leistungs- und Preisvergleichsliste nach § 7 Abs. 3 ist
-entsprechend zu ergänzen.
-
-(2) Der Vergütungszuschlag ist von der Pflegekasse zu tragen und von
-dem privaten Versicherungsunternehmen im Rahmen des vereinbarten
-Versicherungsschutzes zu erstatten; § 28 Absatz 2 ist entsprechend
-anzuwenden. Mit den Vergütungszuschlägen sind alle zusätzlichen
-Leistungen der Betreuung und Aktivierung für Heimbewohner im Sinne von
-Absatz 1 abgegolten. Die Heimbewohner und die Träger der Sozialhilfe
-dürfen mit den Vergütungszuschlägen weder ganz noch teilweise belastet
-werden. Mit der Zahlung des Vergütungszuschlags von der Pflegekasse an
-die Pflegeeinrichtung hat der Pflegebedürftige Anspruch auf Erbringung
-der zusätzlichen Betreuung und Aktivierung gegenüber der
-Pflegeeinrichtung.
-
-(3) Der Spitzenverband Bund der Pflegekassen hat für die zusätzlich
-einzusetzenden Betreuungskräfte auf der Grundlage des § 45c Abs. 3
-Richtlinien zur Qualifikation und zu den Aufgaben in der stationären
-Versorgung der Pflegebedürftigen zu beschließen; er hat hierzu die
-Bundesvereinigungen der Träger stationärer Pflegeeinrichtungen
-anzuhören und den allgemein anerkannten Stand medizinisch-
-pflegerischer Erkenntnisse zu beachten. Die Richtlinien werden für
-alle Pflegekassen und deren Verbände sowie für die stationären
-Pflegeeinrichtungen erst nach Genehmigung durch das Bundesministerium
-für Gesundheit wirksam; § 17 Abs. 2 gilt entsprechend.
+#### § 87b (weggefallen)
 
 
 #### § 88 Zusatzleistungen
@@ -5308,15 +6483,20 @@ zulässig, wenn:
 
 #### § 89 Grundsätze für die Vergütungsregelung
 
-(1) Die Vergütung der ambulanten Pflegeleistungen und der
-hauswirtschaftlichen Versorgung wird, soweit nicht die Gebührenordnung
-nach § 90 Anwendung findet, zwischen dem Träger des Pflegedienstes und
-den Leistungsträgern nach Absatz 2 für alle Pflegebedürftigen nach
-einheitlichen Grundsätzen vereinbart. Sie muß leistungsgerecht sein.
-Die Vergütung muß einem Pflegedienst bei wirtschaftlicher
-Betriebsführung ermöglichen, seine Aufwendungen zu finanzieren und
-seinen Versorgungsauftrag zu erfüllen; eine Differenzierung in der
-Vergütung nach Kostenträgern ist unzulässig.
+(1) Die Vergütung der ambulanten Leistungen der häuslichen Pflegehilfe
+wird, soweit nicht die Gebührenordnung nach § 90 Anwendung findet,
+zwischen dem Träger des Pflegedienstes und den Leistungsträgern nach
+Absatz 2 für alle Pflegebedürftigen nach einheitlichen Grundsätzen
+vereinbart. Sie muß leistungsgerecht sein. Die Vergütung muss einem
+Pflegedienst bei wirtschaftlicher Betriebsführung ermöglichen, seine
+Aufwendungen zu finanzieren und seinen Versorgungsauftrag zu erfüllen
+unter Berücksichtigung einer angemessenen Vergütung ihres
+Unternehmerrisikos. Die Bezahlung von Gehältern bis zur Höhe
+tarifvertraglich vereinbarter Vergütungen sowie entsprechender
+Vergütungen nach kirchlichen Arbeitsrechtsregelungen kann dabei nicht
+als unwirtschaftlich abgelehnt werden. Für eine darüber hinausgehende
+Bezahlung bedarf es eines sachlichen Grundes. Eine Differenzierung in
+der Vergütung nach Kostenträgern ist unzulässig.
 
 (2) Vertragsparteien der Vergütungsvereinbarung sind die Träger des
 Pflegedienstes sowie
@@ -5340,20 +6520,18 @@ abzuschließen und gilt für den nach § 72 Abs. 3 Satz 3 vereinbarten
 Einzugsbereich, soweit nicht ausdrücklich etwas Abweichendes
 vereinbart wird.
 
-(3) Die Vergütungen sind mit Wirkung ab dem 1. Januar 2013 nach
-Zeitaufwand und unabhängig vom Zeitaufwand nach dem Leistungsinhalt
-des jeweiligen Pflegeeinsatzes, nach Komplexleistungen oder in
-Ausnahmefällen auch nach Einzelleistungen je nach Art und Umfang der
-Pflegeleistung zu bemessen; sonstige Leistungen wie
+(3) Die Vergütungen können, je nach Art und Umfang der Pflegeleistung,
+nach dem dafür erforderlichen Zeitaufwand oder unabhängig vom
+Zeitaufwand nach dem Leistungsinhalt des jeweiligen Pflegeeinsatzes,
+nach Komplexleistungen oder in Ausnahmefällen auch nach
+Einzelleistungen bemessen werden; sonstige Leistungen wie
 hauswirtschaftliche Versorgung, Behördengänge oder Fahrkosten können
 auch mit Pauschalen vergütet werden. Die Vergütungen haben zu
 berücksichtigen, dass Leistungen von mehreren Pflegebedürftigen
 gemeinsam abgerufen und in Anspruch genommen werden können; die sich
 aus einer gemeinsamen Leistungsinanspruchnahme ergebenden Zeit- und
-Kostenersparnisse kommen den Pflegebedürftigen zugute. Darüber hinaus
-sind auch Vergütungen für Betreuungsleistungen nach § 36 Abs. 1 zu
-vereinbaren. § 84 Abs. 4 Satz 2, § 85 Abs. 3 bis 7 und § 86 gelten
-entsprechend.
+Kostenersparnisse kommen den Pflegebedürftigen zugute. § 84 Absatz 4
+Satz 2 und Absatz 7, § 85 Absatz 3 bis 7 und § 86 gelten entsprechend.
 
 
 #### § 90 Gebührenordnung für ambulante Pflegeleistungen
@@ -5362,26 +6540,24 @@ entsprechend.
 Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen
 und Jugend und dem Bundesministerium für Arbeit und Soziales durch
 Rechtsverordnung mit Zustimmung des Bundesrates eine Gebührenordnung
-für die Vergütung der ambulanten Pflegeleistungen und der
-hauswirtschaftlichen Versorgung der Pflegebedürftigen zu erlassen,
-soweit die Versorgung von der Leistungspflicht der Pflegeversicherung
-umfaßt ist. Die Vergütung muß leistungsgerecht sein, den
-Bemessungsgrundsätzen nach § 89 entsprechen und hinsichtlich ihrer
-Höhe regionale Unterschiede berücksichtigen. § 82 Abs. 2 gilt
+für die Vergütung der ambulanten Leistungen der häuslichen Pflegehilfe
+zu erlassen, soweit die Versorgung von der Leistungspflicht der
+Pflegeversicherung umfaßt ist. Die Vergütung muß leistungsgerecht
+sein, den Bemessungsgrundsätzen nach § 89 entsprechen und hinsichtlich
+ihrer Höhe regionale Unterschiede berücksichtigen. § 82 Abs. 2 gilt
 entsprechend. In der Verordnung ist auch das Nähere zur Abrechnung der
 Vergütung zwischen den Pflegekassen und den Pflegediensten zu regeln.
 
 (2) Die Gebührenordnung gilt nicht für die Vergütung von ambulanten
-Pflegeleistungen und der hauswirtschaftlichen Versorgung durch
-Familienangehörige und sonstige Personen, die mit dem
-Pflegebedürftigen in häuslicher Gemeinschaft leben. Soweit die
-Gebührenordnung Anwendung findet, sind die davon betroffenen
-Pflegeeinrichtungen und Pflegepersonen nicht berechtigt, über die
-Berechnung der Gebühren hinaus weitergehende Ansprüche an die
-Pflegebedürftigen oder deren Kostenträger zu stellen.
+Leistungen der häuslichen Pflegehilfe durch Familienangehörige und
+sonstige Personen, die mit dem Pflegebedürftigen in häuslicher
+Gemeinschaft leben. Soweit die Gebührenordnung Anwendung findet, sind
+die davon betroffenen Pflegeeinrichtungen und Pflegepersonen nicht
+berechtigt, über die Berechnung der Gebühren hinaus weitergehende
+Ansprüche an die Pflegebedürftigen oder deren Kostenträger zu stellen.
 
 
-### Vierter Abschnitt - Kostenerstattung, Landespflegeausschüsse, Pflegeheimvergleich
+### Vierter Abschnitt - Kostenerstattung, Pflegeheimvergleich
 
 
 
@@ -5411,16 +6587,8 @@ Pflegekasse und der Pflegeeinrichtung rechtzeitig auf die Rechtsfolgen
 der Absätze 2 und 3 hinzuweisen.
 
 
-#### § 92 Landespflegeausschüsse
+#### § 92 (weggefallen)
 
-Für jedes Land oder für Teile des Landes wird zur Beratung über Fragen
-der Pflegeversicherung ein Landespflegeausschuss gebildet. Der
-Ausschuss kann zur Umsetzung der Pflegeversicherung einvernehmlich
-Empfehlungen abgeben. Die Landesregierungen werden ermächtigt, durch
-Rechtsverordnung das Nähere zu den Landespflegeausschüssen zu
-bestimmen; insbesondere können sie die den Landespflegeausschüssen
-angehörenden Organisationen unter Berücksichtigung der Interessen
-aller an der Pflege im Land Beteiligten berufen.
 
 
 #### § 92a Pflegeheimvergleich
@@ -5536,15 +6704,15 @@ zugelassenen Pflegedienste (Pflegedienstvergleich) in entsprechender
 Anwendung der vorstehenden Absätze anzuordnen.
 
 
-### Fünfter Abschnitt - Integrierte Versorgung und Pflegestützpunkte
+### Fünfter Abschnitt - Integrierte Versorgung
 
 
 
 #### § 92b Integrierte Versorgung
 
 (1) Die Pflegekassen können mit zugelassenen Pflegeeinrichtungen und
-den weiteren Vertragspartnern nach § 140b Abs. 1 des Fünften Buches
-Verträge zur integrierten Versorgung schließen oder derartigen
+den weiteren Vertragspartnern nach § 140a Absatz 3 Satz 1 des Fünften
+Buches Verträge zur integrierten Versorgung schließen oder derartigen
 Verträgen mit Zustimmung der Vertragspartner beitreten.
 
 (2) In den Verträgen nach Absatz 1 ist das Nähere über Art, Inhalt und
@@ -5560,212 +6728,16 @@ berücksichtigt werden, die nicht der Finanzierungszuständigkeit der
 sozialen Pflegeversicherung unterliegen. Soweit Pflegeeinrichtungen
 durch die integrierte Versorgung Mehraufwendungen für Pflegeleistungen
 entstehen, vereinbaren die Beteiligten leistungsgerechte Zuschläge zu
-den Pflegevergütungen (§§ 85 und 89). § 140b Abs. 3 des Fünften Buches
-gilt für Leistungsansprüche der Pflegeversicherten gegenüber ihrer
-Pflegekasse entsprechend.
+den Pflegevergütungen (§§ 85 und 89). § 140a Absatz 2 Satz 1 bis 3 des
+Fünften Buches gilt für Leistungsansprüche der Pflegeversicherten
+gegenüber ihrer Pflegekasse entsprechend.
 
-(3) § 140a Abs. 2 und 3 des Fünften Buches gilt für die
-Informationsrechte der Pflegeversicherten gegenüber ihrer Pflegekasse
-und für die Teilnahme der Pflegeversicherten an den integrierten
-Versorgungsformen entsprechend.
+(3) § 140a Absatz 4 des Fünften Buches gilt für die Teilnahme der
+Pflegeversicherten an den integrierten Versorgungsformen entsprechend.
 
 
-#### § 92c Pflegestützpunkte
+### Sechster Abschnitt - (weggefallen)
 
-(1) Zur wohnortnahen Beratung, Versorgung und Betreuung der
-Versicherten richten die Pflegekassen und Krankenkassen
-Pflegestützpunkte ein, sofern die zuständige oberste Landesbehörde
-dies bestimmt. Die Einrichtung muss innerhalb von sechs Monaten nach
-der Bestimmung durch die oberste Landesbehörde erfolgen. Kommen die
-hierfür erforderlichen Verträge nicht innerhalb von drei Monaten nach
-der Bestimmung durch die oberste Landesbehörde zustande, haben die
-Landesverbände der Pflegekassen innerhalb eines weiteren Monats den
-Inhalt der Verträge festzulegen; hierbei haben sie auch die Interessen
-der Ersatzkassen und der Landesverbände der Krankenkassen
-wahrzunehmen. Hinsichtlich der Mehrheitsverhältnisse bei der
-Beschlussfassung ist § 81 Abs. 1 Satz 2 entsprechend anzuwenden.
-Widerspruch und Anfechtungsklage gegen Maßnahmen der Aufsichtsbehörden
-zur Einrichtung von Pflegestützpunkten haben keine aufschiebende
-Wirkung.
-
-(2) Aufgaben der Pflegestützpunkte sind
-
-1.  umfassende sowie unabhängige Auskunft und Beratung zu den Rechten und
-    Pflichten nach dem Sozialgesetzbuch und zur Auswahl und
-    Inanspruchnahme der bundes- oder landesrechtlich vorgesehenen
-    Sozialleistungen und sonstigen Hilfsangebote,
-
-
-2.  Koordinierung aller für die wohnortnahe Versorgung und Betreuung in
-    Betracht kommenden gesundheitsfördernden, präventiven, kurativen,
-    rehabilitativen und sonstigen medizinischen sowie pflegerischen und
-    sozialen Hilfs- und Unterstützungsangebote einschließlich der
-    Hilfestellung bei der Inanspruchnahme der Leistungen,
-
-
-3.  Vernetzung aufeinander abgestimmter pflegerischer und sozialer
-    Versorgungs- und Betreuungsangebote.
-
-
-
-Auf vorhandene vernetzte Beratungsstrukturen ist zurückzugreifen. Die
-Pflegekassen haben jederzeit darauf hinzuwirken, dass sich
-insbesondere die
-
-1.  nach Landesrecht zu bestimmenden Stellen für die wohnortnahe Betreuung
-    im Rahmen der örtlichen Altenhilfe und für die Gewährung der Hilfe zur
-    Pflege nach dem Zwölften Buch,
-
-
-2.  im Land zugelassenen und tätigen Pflegeeinrichtungen,
-
-
-3.  im Land tätigen Unternehmen der privaten Kranken- und
-    Pflegeversicherung
-
-
-
-an den Pflegestützpunkten beteiligen. Die Krankenkassen haben sich an
-den Pflegestützpunkten zu beteiligen. Träger der Pflegestützpunkte
-sind die beteiligten Kosten- und Leistungsträger. Die Träger
-
-1.  sollen Pflegefachkräfte in die Tätigkeit der Pflegestützpunkte
-    einbinden,
-
-
-2.  haben nach Möglichkeit Mitglieder von Selbsthilfegruppen sowie
-    ehrenamtliche und sonstige zum bürgerschaftlichen Engagement bereite
-    Personen und Organisationen in die Tätigkeit der Pflegestützpunkte
-    einzubinden,
-
-
-3.  sollen interessierten kirchlichen sowie sonstigen religiösen und
-    gesellschaftlichen Trägern und Organisationen die Beteiligung an den
-    Pflegestützpunkten ermöglichen,
-
-
-4.  können sich zur Erfüllung ihrer Aufgaben dritter Stellen bedienen,
-
-
-5.  sollen im Hinblick auf die Vermittlung und Qualifizierung von für die
-    Pflege und Betreuung geeigneten Kräften eng mit dem Träger der
-    Arbeitsförderung nach dem Dritten Buch und den Trägern der
-    Grundsicherung für Arbeitsuchende nach dem Zweiten Buch
-    zusammenarbeiten.
-
-
-
-
-(3) Die an den Pflegestützpunkten beteiligten Kostenträger und
-Leistungserbringer können für das Einzugsgebiet der Pflegestützpunkte
-Verträge zur wohnortnahen integrierten Versorgung schließen; insoweit
-ist § 92b mit der Maßgabe entsprechend anzuwenden, dass die Pflege-
-und Krankenkassen gemeinsam und einheitlich handeln.
-
-(4) Der Pflegestützpunkt kann bei einer im Land zugelassenen und
-tätigen Pflegeeinrichtung errichtet werden, wenn dies nicht zu einer
-unzulässigen Beeinträchtigung des Wettbewerbs zwischen den
-Pflegeeinrichtungen führt. Die für den Betrieb des Pflegestützpunktes
-erforderlichen Aufwendungen werden von den Trägern der
-Pflegestützpunkte unter Berücksichtigung der anrechnungsfähigen
-Aufwendungen für das eingesetzte Personal auf der Grundlage einer
-vertraglichen Vereinbarung anteilig getragen. Die Verteilung der für
-den Betrieb des Pflegestützpunktes erforderlichen Aufwendungen wird
-mit der Maßgabe vereinbart, dass der auf eine einzelne Pflegekasse
-entfallende Anteil nicht höher sein darf, als der von der
-Krankenkasse, bei der sie errichtet ist, zu tragende Anteil. Soweit
-sich private Versicherungsunternehmen, die die private Pflege-
-Pflichtversicherung durchführen, nicht an der Finanzierung der
-Pflegestützpunkte beteiligen, haben sie mit den Trägern der
-Pflegestützpunkte über Art, Inhalt und Umfang der Inanspruchnahme der
-Pflegestützpunkte durch privat Pflege-Pflichtversicherte sowie über
-die Vergütung der hierfür je Fall entstehenden Aufwendungen
-Vereinbarungen zu treffen; dies gilt für private
-Versicherungsunternehmen, die die private Krankenversicherung
-durchführen, entsprechend.
-
-(5) Der Aufbau der in der gemeinsamen Trägerschaft von Pflege- und
-Krankenkassen sowie den nach Landesrecht zu bestimmenden Stellen
-stehenden Pflegestützpunkte ist im Rahmen der verfügbaren Mittel bis
-zum 30. Juni 2011 entsprechend dem jeweiligen Bedarf mit einem
-Zuschuss bis zu 45.000 Euro je Pflegestützpunkt zu fördern; der Bedarf
-umfasst auch die Anlaufkosten des Pflegestützpunktes. Die Förderung
-ist dem Bedarf entsprechend um bis zu 5.000 Euro zu erhöhen, wenn
-Mitglieder von Selbsthilfegruppen, ehrenamtliche und sonstige zum
-bürgerschaftlichen Engagement bereite Personen und Organisationen
-nachhaltig in die Tätigkeit des Stützpunktes einbezogen werden. Der
-Bedarf, die Höhe des beantragten Zuschusses, der Auszahlungsplan und
-der Zahlungsempfänger werden dem Spitzenverband Bund der Pflegekassen
-von den in Satz 1 genannten Trägern des Pflegestützpunktes im Rahmen
-ihres Förderantrags mitgeteilt. Das Bundesversicherungsamt zahlt die
-Fördermittel nach Eingang der Prüfungsmitteilung des Spitzenverbandes
-Bund der Pflegekassen über die Erfüllung der
-Auszahlungsvoraussetzungen an den Zahlungsempfänger aus. Die
-Antragsteller haben dem Spitzenverband Bund der Pflegekassen
-spätestens ein Jahr nach der letzten Auszahlung einen Nachweis über
-die zweckentsprechende Verwendung der Fördermittel vorzulegen.
-
-(6) Das Bundesversicherungsamt entnimmt die Fördermittel aus dem
-Ausgleichsfonds der Pflegeversicherung bis zu einer Gesamthöhe von 60
-Millionen Euro, für das jeweilige Land jedoch höchstens bis zu der
-Höhe, die sich durch die Aufteilung nach dem Königsteiner Schlüssel
-ergibt. Die Auszahlung der einzelnen Förderbeträge erfolgt
-entsprechend dem Zeitpunkt des Eingangs der Anträge beim
-Spitzenverband Bund der Pflegekassen. Näheres über das Verfahren der
-Auszahlung und die Verwendung der Fördermittel regelt das
-Bundesversicherungsamt mit dem Spitzenverband Bund der Pflegekassen
-durch Vereinbarung.
-
-(7) Im Pflegestützpunkt tätige Personen sowie sonstige mit der
-Wahrnehmung von Aufgaben nach Absatz 1 befasste Stellen, insbesondere
-
-1.  nach Landesrecht für die wohnortnahe Betreuung im Rahmen der örtlichen
-    Altenhilfe und für die Gewährung der Hilfe zur Pflege nach dem
-    Zwölften Buch zu bestimmende Stellen,
-
-
-2.  Unternehmen der privaten Kranken- und Pflegeversicherung,
-
-
-3.  Pflegeeinrichtungen und Einzelpersonen nach § 77,
-
-
-4.  Mitglieder von Selbsthilfegruppen, ehrenamtliche und sonstige zum
-    bürgerschaftlichen Engagement bereite Personen und Organisationen
-    sowie
-
-
-5.  Agenturen für Arbeit und Träger der Grundsicherung für Arbeitsuchende
-
-
-
-dürfen Sozialdaten nur erheben, verarbeiten und nutzen, soweit dies
-zur Erfüllung der Aufgaben nach diesem Buch erforderlich oder durch
-Rechtsvorschriften des Sozialgesetzbuches oder Regelungen des
-Versicherungsvertrags- oder des Versicherungsaufsichtsgesetzes
-angeordnet oder erlaubt ist.
-
-(8) Die Landesverbände der Pflegekassen können mit den Landesverbänden
-der Krankenkassen sowie den Ersatzkassen und den nach Landesrecht zu
-bestimmenden Stellen der Altenhilfe und der Hilfe zur Pflege nach dem
-Zwölften Buch Rahmenverträge zur Arbeit und zur Finanzierung der
-Pflegestützpunkte vereinbaren. Die von der zuständigen obersten
-Landesbehörde getroffene Bestimmung zur Einrichtung von
-Pflegestützpunkten sowie die Empfehlungen nach Absatz 9 sind hierbei
-zu berücksichtigen. Die Rahmenverträge sind bei der Arbeit und der
-Finanzierung von Pflegestützpunkten in der gemeinsamen Trägerschaft
-der gesetzlichen Kranken- und Pflegekassen und der nach Landesrecht zu
-bestimmenden Stellen für die Altenhilfe und für die Hilfe zur Pflege
-nach dem Zwölften Buch zu beachten.
-
-(9) Der Spitzenverband Bund der Pflegekassen, der Spitzenverband Bund
-der Krankenkassen, die Bundesarbeitsgemeinschaft der überörtlichen
-Träger der Sozialhilfe und die Bundesvereinigung der kommunalen
-Spitzenverbände können gemeinsam und einheitlich Empfehlungen zur
-Arbeit und zur Finanzierung von Pflegestützpunkten in der gemeinsamen
-Trägerschaft der gesetzlichen Kranken- und Pflegekassen sowie der nach
-Landesrecht zu bestimmenden Stellen der Alten- und Sozialhilfe
-vereinbaren.
 
 
 ## Neuntes Kapitel - Datenschutz und Statistik
@@ -5803,8 +6775,8 @@ für:
 
 
 3.  die Prüfung der Leistungspflicht und die Gewährung von Leistungen an
-    Versicherte (§§ 4 und 28) sowie die Durchführung von Erstattungs- und
-    Ersatzansprüchen,
+    Versicherte (§§ 4, 28 und 28a) sowie die Durchführung von Erstattungs-
+    und Ersatzansprüchen,
 
 
 4.  die Beteiligung des Medizinischen Dienstes (§§ 18 und 40),
@@ -5814,8 +6786,9 @@ für:
     (§§ 84 bis 91 und 105),
 
 
-6.  die Überwachung der Wirtschaftlichkeit und der Qualität der
-    Leistungserbringung (§§ 79, 112, 113, 114, 114a, 115 und 117),
+6.  die Überwachung der Wirtschaftlichkeit, der Abrechnung und der
+    Qualität der Leistungserbringung (§§ 79, 112, 113, 114, 114a, 115 und
+    117),
 
 
 6a. den Abschluss und die Durchführung von Pflegesatzvereinbarungen (§§
@@ -5823,13 +6796,12 @@ für:
     integrierten Versorgung (§ 92b),
 
 
-7.  die Beratung über Leistungen der Prävention und Teilhabe sowie über
-    die Leistungen und Hilfen zur Pflege (§ 7),
+7.  die Aufklärung und Auskunft (§ 7),
 
 
 8.  die Koordinierung pflegerischer Hilfen (§ 12), die Pflegeberatung (§
     7a), das Ausstellen von Beratungsgutscheinen (§ 7b) sowie die
-    Wahrnehmung der Aufgaben in den Pflegestützpunkten (§ 92c),
+    Wahrnehmung der Aufgaben in den Pflegestützpunkten (§ 7c),
 
 
 9.  die Abrechnung mit anderen Leistungsträgern,
@@ -5870,8 +6842,13 @@ offenbart werden.
 Zwecke der Pflegeversicherung nur erheben, verarbeiten und nutzen,
 soweit diese für:
 
-1.  die Überwachung der Wirtschaftlichkeit und der Qualitätssicherung der
-    Leistungserbringung (§§ 79, 112, 113, 114, 114a, 115 und 117),
+1.  die Überwachung der Wirtschaftlichkeit, der Abrechnung und der
+    Qualitätssicherung der Leistungserbringung (§§ 79, 112, 113, 114,
+    114a, 115 und 117),
+
+
+1a. die Information über die Erbringer von Leistungen der Prävention,
+    Teilhabe sowie von Leistungen und Hilfen zur Pflege (§ 7),
 
 
 2.  den Abschluss und die Durchführung von Versorgungsverträgen (§§ 72 bis
@@ -5911,8 +6888,8 @@ Pflege- und Krankenkassen.
 (1) Der Medizinische Dienst darf personenbezogene Daten für Zwecke der
 Pflegeversicherung nur erheben, verarbeiten und nutzen, soweit dies
 für die Prüfungen, Beratungen und gutachtlichen Stellungnahmen nach
-den §§ 18, 40, 112, 113, 114, 114a, 115 und 117 erforderlich ist. Die
-Daten dürfen für andere Zwecke nur verarbeitet und genutzt werden,
+den §§ 18, 38a, 40, 112, 113, 114, 114a, 115 und 117 erforderlich ist.
+Die Daten dürfen für andere Zwecke nur verarbeitet und genutzt werden,
 soweit dies durch Rechtsvorschriften des Sozialgesetzbuches angeordnet
 oder erlaubt ist.
 
@@ -5938,17 +6915,15 @@ zugänglich gemacht werden. Jede Zusammenführung ist zu protokollieren.
 Buches entsprechend.
 
 
-##### § 97a Qualitätssicherung durch Sachverständige und Prüfstellen
+##### § 97a Qualitätssicherung durch Sachverständige
 
 (1) Von den Landesverbänden der Pflegekassen bestellte sonstige
-Sachverständige (§ 114 Abs. 1 Satz 1) sowie Sachverständige und
-Prüfinstitutionen im Sinne des § 114 Abs. 4 Satz 2 sind berechtigt,
-für Zwecke der Qualitätssicherung und
--prüfung              Daten nach den §§ 112, 113, 114, 114a, 115 und
-117 zu erheben, zu verarbeiten und zu nutzen; sie dürfen die Daten an
-die Pflegekassen und deren Verbände sowie an die in den §§ 112, 114,
-114a, 115 und 117 genannten Stellen übermitteln, soweit dies zur
-Erfüllung der gesetzlichen Aufgaben auf dem Gebiet der
+Sachverständige (§ 114 Abs. 1 Satz 1) sind berechtigt, für Zwecke der
+Qualitätssicherung und -prüfung Daten nach den §§ 112, 113, 114, 114a,
+115 und 117 zu erheben, zu verarbeiten und zu nutzen; sie dürfen die
+Daten an die Pflegekassen und deren Verbände sowie an die in den §§
+112, 114, 114a, 115 und 117 genannten Stellen übermitteln, soweit dies
+zur Erfüllung der gesetzlichen Aufgaben auf dem Gebiet der
 Qualitätssicherung und Qualitätsprüfung dieser Stellen erforderlich
 ist. Die Daten sind vertraulich zu behandeln.
 
@@ -5986,12 +6961,12 @@ zugänglich sind, die sie zur Erfüllung des dem Gutachter von den
 Pflegekassen nach § 18 Absatz 1 Satz 1 erteilten Auftrags benötigen.
 
 (2) Die unabhängigen Gutachter dürfen das Ergebnis der Prüfung zur
-Feststellung der Pflegebedürftigkeit sowie die
+Feststellung der Pflegebedürftigkeit sowie die Präventions- und
 Rehabilitationsempfehlung gemäß § 18 an die sie beauftragende
 Pflegekasse übermitteln, soweit dies zur Erfüllung der gesetzlichen
 Aufgaben der Pflegekasse erforderlich ist; § 35 des Ersten Buches gilt
 entsprechend. Dabei ist sicherzustellen, dass das Ergebnis der Prüfung
-zur Feststellung der Pflegebedürftigkeit sowie die
+zur Feststellung der Pflegebedürftigkeit sowie die Präventions- und
 Rehabilitationsempfehlung nur den Personen zugänglich gemacht werden,
 die sie zur Erfüllung ihrer Aufgaben benötigen.
 
@@ -6127,8 +7102,24 @@ verwenden.
 (2) Das Nähere über Form und Inhalt der Abrechnungsunterlagen sowie
 Einzelheiten des Datenträgeraustausches werden vom Spitzenverband Bund
 der Pflegekassen im Einvernehmen mit den Verbänden der
-Leistungserbringer festgelegt. § 302 Absatz 2 Satz 2 und 3 des Fünften
-Buches gilt entsprechend.
+Leistungserbringer festgelegt. Der Spitzenverband Bund der
+Pflegekassen und die Verbände der Leistungserbringer legen bis zum 1.
+Januar 2018 die Einzelheiten für eine elektronische Datenübertragung
+aller Angaben und Nachweise fest, die für die Abrechnung pflegerischer
+Leistungen in der Form elektronischer Dokumente erforderlich sind. Für
+die elektronische Datenübertragung elektronischer Dokumente ist neben
+der qualifizierten elektronischen Signatur auch ein anderes sicheres
+Verfahren vorzusehen, das den Absender der Daten authentifiziert und
+die Integrität des elektronisch übermittelten Datensatzes
+gewährleistet. Zur Authentifizierung des Absenders der Daten können
+auch der elektronische Heilberufs- oder Berufsausweis nach § 291a
+Absatz 5 Satz 5 des Fünften Buches, die elektronische Gesundheitskarte
+nach § 291 des Fünften Buches sowie der elektronische
+Identitätsnachweis des Personalausweises genutzt werden; die zur
+Authentifizierung des Absenders der Daten erforderlichen Daten dürfen
+zusammen mit den übrigen übermittelten Daten gespeichert und verwendet
+werden. § 302 Absatz 2 Satz 2 und 3 des Fünften Buches gilt
+entsprechend.
 
 
 #### § 106 Abweichende Vereinbarungen
@@ -6150,8 +7141,9 @@ der gesetzlichen Aufgaben der Pflegekassen nicht gefährdet werden.
 
 #### § 106a Mitteilungspflichten
 
-Zugelassene Pflegeeinrichtungen, anerkannte Beratungsstellen sowie
-beauftragte Pflegefachkräfte, die Pflegeeinsätze nach § 37 Abs. 3
+Zugelassene Pflegeeinrichtungen, anerkannte Beratungsstellen,
+beauftragte Pflegefachkräfte sowie Beratungspersonen der kommunalen
+Gebietskörperschaften, die Pflegeeinsätze nach § 37 Abs. 3
 durchführen, sind mit Einverständnis des Versicherten berechtigt und
 verpflichtet, die für die Erfüllung der Aufgaben der Pflegekassen und
 der privaten Versicherungsunternehmen erforderlichen Angaben zur
@@ -6199,11 +7191,11 @@ Pflegekasse mitzuteilen.
 #### § 108 Auskünfte an Versicherte
 
 Die Pflegekassen unterrichten die Versicherten auf deren Antrag über
-die im jeweils letzten Geschäftsjahr in Anspruch genommenen Leistungen
-und deren Kosten. Eine Mitteilung an die Leistungserbringer über die
-Unterrichtung des Versicherten ist nicht zulässig. Die Pflegekassen
-können in ihren Satzungen das Nähere über das Verfahren der
-Unterrichtung regeln.
+die in einem Zeitraum von mindestens 18 Monaten vor Antragstellung in
+Anspruch genommenen Leistungen und deren Kosten. Eine Mitteilung an
+die Leistungserbringer über die Unterrichtung des Versicherten ist
+nicht zulässig. Die Pflegekassen können in ihren Satzungen das Nähere
+über das Verfahren der Unterrichtung regeln.
 
 
 ### Vierter Abschnitt - Statistik
@@ -6236,10 +7228,10 @@ Bundesstatistik kann folgende Sachverhalte umfassen:
     Pflegeeinrichtung, Ausbildungsstätten an Pflegeeinrichtungen,
 
 
-5.  betreute Pflegebedürftige und Personen mit erheblich eingeschränkter
-    Alltagskompetenz nach Geschlecht, Geburtsjahr, Wohnort, Art, Ursache,
-    Grad und Dauer der Pflegebedürftigkeit, Art des
-    Versicherungsverhältnisses,
+5.  Pflegebedürftige nach Geschlecht, Geburtsjahr, Wohnort
+    , Postleitzahl des Wohnorts vor dem Einzug in eine vollstationäre
+    Pflegeeinrichtung, Art, Ursache, Grad und Dauer der
+    Pflegebedürftigkeit, Art des Versicherungsverhältnisses,
 
 
 6.  in Anspruch genommene Pflegeleistungen nach Art, Dauer und Häufigkeit
@@ -6269,7 +7261,7 @@ folgende Sachverhalte umfassen:
 
 
 3.  Pflege- und Betreuungsleistungen durch Pflegefachkräfte, Angehörige
-    und ehrenamtliche Helfer,
+    und ehrenamtliche Helfer sowie Angebote zur Unterstützung im Alltag,
 
 
 4.  Leistungen zur Prävention und Teilhabe,
@@ -6295,7 +7287,10 @@ gleichzeitig den für die Planung und Investitionsfinanzierung der
 Pflegeeinrichtungen zuständigen Landesbehörden mit. Die Befugnis der
 Länder, zusätzliche, von den Absätzen 1 und 2 nicht erfaßte Erhebungen
 über Sachverhalte des Pflegewesens als Landesstatistik anzuordnen,
-bleibt unberührt.
+bleibt unberührt. Die Verordnung nach Absatz 1 Satz 1 hat
+sicherzustellen, dass die Pflegeeinrichtungen diesen
+Auskunftsverpflichtungen gemeinsam mit der Auskunftsverpflichtung nach
+Absatz 1 durch eine einheitliche Auskunftserteilung nachkommen können.
 
 (4) Daten der Pflegebedürftigen, der in der Pflege tätigen Personen,
 der Angehörigen und ehrenamtlichen Helfer dürfen für Zwecke der
@@ -6382,25 +7377,20 @@ Versicherungsgesetzes innerhalb von sechs Monaten nach Inkrafttreten
 dieses Gesetzes von der Versicherungspflicht in der sozialen
 Pflegeversicherung befreien lassen. Die in Absatz 1 Nr. 1 und 2
 Buchstabe a bis f genannten Bedingungen gelten auch für Verträge mit
-Personen, die im Basistarif nach § 12 des
+Personen, die im Basistarif nach § 152 des
 Versicherungsaufsichtsgesetzes versichert sind. Für Personen, die im
-Basistarif nach § 12 des Versicherungsaufsichtsgesetzes versichert
-sind und deren Beitrag zur Krankenversicherung sich nach § 12 Abs. 1c
-Satz 4 oder 6 des Versicherungsaufsichtsgesetzes vermindert, darf der
-Beitrag 50 vom Hundert des sich nach Absatz 1 Nr. 2 Buchstabe e
-ergebenden Beitrags nicht übersteigen; die Beitragsbegrenzung für
-Ehegatten oder Lebenspartner nach Absatz 1 Nr. 2 Buchstabe g gilt für
-diese Versicherten nicht. Für die Aufbringung der nach Satz 3
-verminderten Beiträge gilt § 12 Abs. 1c Satz 5 oder 6 des
-Versicherungsaufsichtsgesetzes entsprechend; dabei gilt Satz 6 mit der
-Maßgabe, dass der zuständige Träger den Betrag zahlt, der auch für
-einen Bezieher von Arbeitslosengeld II in der sozialen
-Pflegeversicherung zu tragen ist. Entsteht allein durch die Zahlung
-des Beitrags zur Pflegeversicherung nach Satz 2 Hilfebedürftigkeit im
-Sinne des Zweiten oder Zwölften Buches, gelten die Sätze 3 und 4
-entsprechend; die Hilfebedürftigkeit ist vom zuständigen Träger nach
-dem Zweiten oder Zwölften Buch auf Antrag des Versicherten zu prüfen
-und zu bescheinigen.
+Basistarif nach § 152 des Versicherungsaufsichtsgesetzes versichert
+sind und deren Beitrag zur Krankenversicherung sich nach § 152 Absatz
+4 des Versicherungsaufsichtsgesetzes vermindert, darf der Beitrag 50
+vom Hundert des sich nach Absatz 1 Nr. 2 Buchstabe e ergebenden
+Beitrags nicht übersteigen; die Beitragsbegrenzung für Ehegatten oder
+Lebenspartner nach Absatz 1 Nr. 2 Buchstabe g gilt für diese
+Versicherten nicht. Würde allein durch die Zahlung des Beitrags zur
+Pflegeversicherung nach Satz 2 Hilfebedürftigkeit im Sinne des Zweiten
+oder Zwölften Buches entstehen, gilt Satz 3 entsprechend; die
+Hilfebedürftigkeit ist vom zuständigen Träger nach dem Zweiten oder
+Zwölften Buch auf Antrag des Versicherten zu prüfen und zu
+bescheinigen.
 
 (3) Für Versicherungsverträge, die mit Personen abgeschlossen werden,
 die erst nach Inkrafttreten dieses Gesetzes Mitglied eines privaten
@@ -6488,9 +7478,8 @@ Vereinbarungen nach § 113 durchzuführen, Expertenstandards nach § 113a
 anzuwenden sowie bei Qualitätsprüfungen nach § 114 mitzuwirken. Bei
 stationärer Pflege erstreckt sich die Qualitätssicherung neben den
 allgemeinen Pflegeleistungen auch auf die medizinische
-Behandlungspflege, die soziale Betreuung, die Leistungen bei
-Unterkunft und Verpflegung (§ 87) sowie auf die Zusatzleistungen (§
-88).
+Behandlungspflege, die Betreuung, die Leistungen bei Unterkunft und
+Verpflegung (§ 87) sowie auf die Zusatzleistungen (§ 88).
 
 (3) Der Medizinische Dienst der Krankenversicherung und der Prüfdienst
 des Verbandes der privaten Krankenversicherung e. V. beraten die
@@ -6504,62 +7493,97 @@ Weiterentwicklung der Pflegequalität zu stärken.
 
 (1) Der Spitzenverband Bund der Pflegekassen, die
 Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe,
-die Bundesvereinigung der kommunalen Spitzenverbände und die
-Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene
-vereinbaren bis zum 31. März 2009 gemeinsam und einheitlich unter
+die kommunalen Spitzenverbände auf Bundesebene und die Vereinigungen
+der Träger der Pflegeeinrichtungen auf Bundesebene vereinbaren unter
 Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der
 Krankenkassen, des Verbandes der privaten Krankenversicherung e. V.,
 der Verbände der Pflegeberufe auf Bundesebene, der maßgeblichen
 Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe
-der pflegebedürftigen und behinderten Menschen sowie unabhängiger
-Sachverständiger Maßstäbe und Grundsätze für die Qualität und die
-Qualitätssicherung in der ambulanten und stationären Pflege sowie für
-die Entwicklung eines einrichtungsinternen Qualitätsmanagements, das
-auf eine stetige Sicherung und Weiterentwicklung der Pflegequalität
-ausgerichtet ist. Die Vereinbarungen sind im Bundesanzeiger zu
-veröffentlichen und gelten vom ersten Tag des auf die Veröffentlichung
-folgenden Monats. Sie sind für alle Pflegekassen und deren Verbände
-sowie für die zugelassenen Pflegeeinrichtungen unmittelbar
-verbindlich. In den Vereinbarungen nach Satz 1 sind insbesondere auch
-Anforderungen zu regeln
+der pflegebedürftigen und behinderten Menschen nach Maßgabe von § 118
+sowie unabhängiger Sachverständiger Maßstäbe und Grundsätze für die
+Qualität, Qualitätssicherung und Qualitätsdarstellung in der
+ambulanten und stationären Pflege sowie für die Entwicklung eines
+einrichtungsinternen Qualitätsmanagements, das auf eine stetige
+Sicherung und Weiterentwicklung der Pflegequalität ausgerichtet ist.
+In den Vereinbarungen sind insbesondere auch Anforderungen an eine
+praxistaugliche, den Pflegeprozess unterstützende und die
+Pflegequalität fördernde Pflegedokumentation zu regeln. Die
+Anforderungen dürfen über ein für die Pflegeeinrichtungen vertretbares
+und wirtschaftliches Maß nicht hinausgehen und sollen den Aufwand für
+Pflegedokumentation in ein angemessenes Verhältnis zu den Aufgaben der
+pflegerischen Versorgung setzen. Die Maßstäbe und Grundsätze für die
+stationäre Pflege sind bis zum 30. Juni 2017, die Maßstäbe und
+Grundsätze für die ambulante Pflege bis zum 30. Juni 2018 zu
+vereinbaren. Sie sind in regelmäßigen Abständen an den medizinisch-
+pflegefachlichen Fortschritt anzupassen. Soweit sich in den
+Pflegeeinrichtungen zeitliche Einsparungen ergeben, die Ergebnis der
+Weiterentwicklung der Pflegedokumentation auf Grundlage des
+pflegefachlichen Fortschritts durch neue, den Anforderungen nach Satz
+3 entsprechende Pflegedokumentationsmodelle sind, führen diese nicht
+zu einer Absenkung der Pflegevergütung, sondern wirken der
+Arbeitsverdichtung entgegen. Die Vereinbarungen sind im Bundesanzeiger
+zu veröffentlichen und gelten vom ersten Tag des auf die
+Veröffentlichung folgenden Monats. Sie sind für alle Pflegekassen und
+deren Verbände sowie für die zugelassenen Pflegeeinrichtungen
+unmittelbar verbindlich.
 
-1.  an eine praxistaugliche, den Pflegeprozess unterstützende und die
-    Pflegequalität fördernde Pflegedokumentation, die über ein für die
-    Pflegeeinrichtungen vertretbares und wirtschaftliches Maß nicht
-    hinausgehen dürfen,
+(1a) In den Maßstäben und Grundsätzen für die stationäre Pflege nach
+Absatz 1 ist insbesondere das indikatorengestützte Verfahren zur
+vergleichenden Messung und Darstellung von Ergebnisqualität im
+stationären Bereich, das auf der Grundlage einer strukturierten
+Datenerhebung im Rahmen des internen Qualitätsmanagements eine
+Qualitätsberichterstattung und die externe Qualitätsprüfung
+ermöglicht, zu beschreiben. Insbesondere sind die Indikatoren, das
+Datenerhebungsinstrument sowie die bundesweiten Verfahren für die
+Übermittlung, Auswertung und Bewertung der Daten sowie die von
+Externen durchzuführende Prüfung der Daten festzulegen. Die
+datenschutzrechtlichen Bestimmungen sind zu beachten, insbesondere
+sind personenbezogene Daten von Versicherten vor der Übermittlung an
+die fachlich unabhängige Institution nach Absatz 1b zu
+pseudonymisieren. Eine Wiederherstellung des Personenbezugs durch die
+fachlich unabhängige Institution nach Absatz 1b ist ausgeschlossen.
+Ein Datenschutzkonzept ist mit den zuständigen
+Datenschutzaufsichtsbehörden abzustimmen. Zur Sicherstellung der
+Wissenschaftlichkeit beschließen die Vertragsparteien nach Absatz 1
+Satz 1 unverzüglich die Vergabe der Aufträge nach § 113b Absatz 4 Satz
+2 Nummer 1 und 2.
 
-
-2.  an Sachverständige und Prüfinstitutionen nach § 114 Abs. 4 im Hinblick
-    auf ihre Zuverlässigkeit, Unabhängigkeit und Qualifikation,
-
-
-3.  an die methodische Verlässlichkeit von Zertifizierungs- und
-    Prüfverfahren nach § 114 Abs. 4, die den jeweils geltenden Richtlinien
-    des Spitzenverbandes Bund der Pflegekassen über die Prüfung der in
-    Pflegeeinrichtungen erbrachten Leistungen und deren Qualität
-    entsprechen müssen sowie
-
-
-4.  an ein indikatorengestütztes Verfahren zur vergleichenden Messung und
-    Darstellung von Ergebnisqualität im stationären Bereich, das auf der
-    Grundlage einer strukturierten Datenerhebung im Rahmen des internen
-    Qualitätsmanagements eine Qualitätsberichterstattung und die externe
-    Qualitätsprüfung ermöglicht.
-
-
-
+(1b) Die Vertragsparteien nach Absatz 1 Satz 1 beauftragen im Rahmen
+eines Vergabeverfahrens eine fachlich unabhängige Institution, die
+entsprechend den Festlegungen nach Absatz 1a erhobenen Daten
+zusammenzuführen sowie leistungserbringerbeziehbar und fallbeziehbar
+nach Maßgabe von Absatz 1a auszuwerten. Das Vergabeverfahren ist
+spätestens bis zum 15. Januar 2018 einzuleiten und es ist
+sicherzustellen, dass ein Zuschlag unter Beachtung der
+vergaberechtlichen Vorgaben zum frühestmöglichen Zeitpunkt erfolgt.
+Zum Zweck der Prüfung der von den Pflegeeinrichtungen erbrachten
+Leistungen und deren Qualität nach den §§ 114 und 114a sowie zum Zweck
+der Qualitätsdarstellung nach § 115 Absatz 1a leitet die beauftragte
+Institution die Ergebnisse der nach Absatz 1a ausgewerteten Daten an
+die Landesverbände der Pflegekassen und die von ihnen beauftragten
+Prüfinstitutionen und Sachverständigen weiter; diese dürfen die
+übermittelten Daten zu den genannten Zwecken verarbeiten und nutzen.
+Die Vertragsparteien nach Absatz 1 Satz 1 vereinbaren diesbezüglich
+entsprechende Verfahren zur Weiterleitung der Daten. Die
+datenschutzrechtlichen Bestimmungen sind jeweils zu beachten. Die
+Vertragsparteien nach Absatz 1 Satz 1 sind verpflichtet, dem
+Bundesministerium für Gesundheit auf Verlangen unverzüglich Auskunft
+über den Stand der Bearbeitung ihrer Aufgaben zu geben. Die
+Vertragsparteien nach Absatz 1 Satz 1 legen dem Bundesministerium für
+Gesundheit spätestens bis zum 31. Januar 2018 einen konkreten Zeitplan
+für die Bearbeitung ihrer Aufgaben vor, aus dem einzelne
+Umsetzungsschritte erkennbar sind. § 113b Absatz 8 Satz 3 bis 5 gilt
+entsprechend.
 
 (2) Die Vereinbarungen nach Absatz 1 können von jeder Partei mit einer
 Frist von einem Jahr ganz oder teilweise gekündigt werden. Nach Ablauf
 des Vereinbarungszeitraums oder der Kündigungsfrist gilt die
-Vereinbarung bis zum Abschluss einer neuen Vereinbarung weiter.
+Vereinbarung bis zum Abschluss einer neuen Vereinbarung weiter. Die am
+1\. Januar 2016 bestehenden Maßstäbe und Grundsätze zur Sicherung und
+Weiterentwicklung der Pflege gelten bis zum Abschluss der
+Vereinbarungen nach Absatz 1 fort.
 
-(3) Kommen Vereinbarungen nach Absatz 1 innerhalb von sechs Monaten,
-nachdem eine Vertragspartei schriftlich zu Verhandlungen aufgefordert
-hat, ganz oder teilweise nicht zustande, kann jede Vertragspartei oder
-das Bundesministerium für Gesundheit die Schiedsstelle nach § 113b
-anrufen. Die Schiedsstelle setzt mit der Mehrheit ihrer Mitglieder
-innerhalb von drei Monaten den Inhalt der Vereinbarungen fest.
+(3) (weggefallen)
 
 
 ### § 113a Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in der Pflege
@@ -6569,23 +7593,19 @@ Aktualisierung wissenschaftlich fundierter und fachlich abgestimmter
 Expertenstandards zur Sicherung und Weiterentwicklung der Qualität in
 der Pflege sicher. Expertenstandards tragen für ihren Themenbereich
 zur Konkretisierung des allgemein anerkannten Standes der medizinisch-
-pflegerischen Erkenntnisse bei. Der Medizinische Dienst des
-Spitzenverbandes Bund der Krankenkassen, der Verband der privaten
-Krankenversicherung e. V., die Verbände der Pflegeberufe auf
-Bundesebene, die maßgeblichen Organisationen für die Wahrnehmung der
-Interessen und der Selbsthilfe der pflegebedürftigen und behinderten
-Menschen auf Bundesebene sowie unabhängige Sachverständige sind zu
-beteiligen. Sie können vorschlagen, zu welchen Themen
-Expertenstandards entwickelt werden sollen. Der Auftrag zur
-Entwicklung oder Aktualisierung und die Einführung von
+pflegerischen Erkenntnisse bei. Dabei ist das Ziel, auch nach Eintritt
+der Pflegebedürftigkeit Leistungen zur Prävention und zur
+medizinischen Rehabilitation einzusetzen, zu berücksichtigen. Der
+Medizinische Dienst des Spitzenverbandes Bund der Krankenkassen, der
+Verband der privaten Krankenversicherung e. V., die Verbände der
+Pflegeberufe auf Bundesebene sowie unabhängige Sachverständige sind zu
+beteiligen. Sie und die nach § 118 zu beteiligenden Organisationen für
+die Wahrnehmung der Interessen und der Selbsthilfe der
+pflegebedürftigen und behinderten Menschen können vorschlagen, zu
+welchen Themen Expertenstandards entwickelt werden sollen. Der Auftrag
+zur Entwicklung oder Aktualisierung und die Einführung von
 Expertenstandards erfolgen jeweils durch einen Beschluss der
-Vertragsparteien. Kommen solche Beschlüsse nicht zustande, kann jede
-Vertragspartei sowie das Bundesministerium für Gesundheit im
-Einvernehmen mit dem Bundesministerium für Familie, Senioren, Frauen
-und Jugend die Schiedsstelle nach § 113b anrufen. Ein Beschluss der
-Schiedsstelle, dass ein Expertenstandard gemäß der Verfahrensordnung
-nach Absatz 2 zustande gekommen ist, ersetzt den Einführungsbeschluss
-der Vertragsparteien.
+Vertragsparteien.
 
 (2) Die Vertragsparteien stellen die methodische und pflegefachliche
 Qualität des Verfahrens der Entwicklung und Aktualisierung von
@@ -6598,11 +7618,7 @@ Entwicklung, der fachlichen Abstimmung, der Praxiserprobung und der
 modellhaften Umsetzung eines Expertenstandards sowie die Transparenz
 des Verfahrens festzulegen. Die Verfahrensordnung ist durch das
 Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium
-für Familie, Senioren, Frauen und Jugend zu genehmigen. Kommt eine
-Einigung über eine Verfahrensordnung bis zum 30. September 2008 nicht
-zustande, wird sie durch das Bundesministerium für Gesundheit im
-Benehmen mit dem Bundesministerium für Familie, Senioren, Frauen und
-Jugend festgelegt.
+für Familie, Senioren, Frauen und Jugend zu genehmigen.
 
 (3) Die Expertenstandards sind im Bundesanzeiger zu veröffentlichen.
 Sie sind für alle Pflegekassen und deren Verbände sowie für die
@@ -6611,8 +7627,9 @@ Vertragsparteien unterstützen die Einführung der Expertenstandards in
 die Praxis.
 
 (4) Die Kosten für die Entwicklung und Aktualisierung von
-Expertenstandards sind Verwaltungskosten, die vom Spitzenverband Bund
-der Pflegekassen getragen werden. Die privaten
+Expertenstandards, mit Ausnahme der Kosten für die qualifizierte
+Geschäftsstelle nach § 113b Absatz 6, sind Verwaltungskosten, die vom
+Spitzenverband Bund der Pflegekassen getragen werden. Die privaten
 Versicherungsunternehmen, die die private Pflege-Pflichtversicherung
 durchführen, beteiligen sich mit einem Anteil von 10 vom Hundert an
 den Aufwendungen nach Satz 1. Der Finanzierungsanteil, der auf die
@@ -6621,53 +7638,320 @@ privaten Krankenversicherung e. V. unmittelbar an den Spitzenverband
 Bund der Pflegekassen geleistet werden.
 
 
-### § 113b Schiedsstelle Qualitätssicherung
+### § 113b Qualitätsausschuss
 
-(1) Die Vertragsparteien nach § 113 richten gemeinsam bis zum 30.
-September 2008 eine Schiedsstelle Qualitätssicherung ein. Diese
-entscheidet in den ihr nach diesem Gesetz zugewiesenen Fällen. Gegen
-die Entscheidung der Schiedsstelle ist der Rechtsweg zu den
-Sozialgerichten gegeben. Ein Vorverfahren findet nicht statt; die
-Klage gegen die Entscheidung der Schiedsstelle hat keine aufschiebende
-Wirkung.
+(1) Die von den Vertragsparteien nach § 113 im Jahr 2008 eingerichtete
+Schiedsstelle Qualitätssicherung entscheidet als Qualitätsausschuss
+nach Maßgabe der Absätze 2 bis 8. Die Vertragsparteien nach § 113
+treffen die Vereinbarungen und erlassen die Beschlüsse nach § 37
+Absatz 5, den §§ 113, 113a, 115 Absatz 1a, 1c und 3b sowie § 115a
+Absatz 1 und 2 durch diesen Qualitätsausschuss. Die Vertragsparteien
+nach § 113 treffen auch die zur Wahrnehmung ihrer Aufgaben und
+Pflichten nach den Absätzen 4 und 8 notwendigen Entscheidungen durch
+den Qualitätsausschuss.
 
-(2) Die Schiedsstelle besteht aus Vertretern des Spitzenverbandes Bund
-der Pflegekassen und der Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene in gleicher Zahl sowie einem
-unparteiischen Vorsitzenden und zwei weiteren unparteiischen
-Mitgliedern. Die unparteiischen Mitglieder sowie deren Stellvertreter
-werden von den Vertragsparteien gemeinsam bestellt. Kommt eine
-Einigung nicht zustande, werden die unparteiischen Mitglieder und ihre
-Vertreter bis zum 31. Oktober 2008 durch den Präsidenten des
-Bundessozialgerichts berufen. Der Schiedsstelle gehört auch ein
-Vertreter der Arbeitsgemeinschaft der überörtlichen Träger der
-Sozialhilfe und ein Vertreter der kommunalen Spitzenverbände an; sie
-werden auf die Zahl der Vertreter des Spitzenverbandes Bund der
-Pflegekassen angerechnet. Der Schiedsstelle kann auch ein Vertreter
-des Verbandes der privaten Krankenversicherung e. V. angehören, dieser
-wird auch auf die Zahl der Vertreter des Spitzenverbandes Bund der
-Pflegekassen angerechnet. Ein Vertreter der Verbände der Pflegeberufe
-kann der Schiedsstelle unter Anrechnung auf die Zahl der Vertreter der
-Vereinigungen der Träger der Pflegeeinrichtungen angehören. Soweit die
-beteiligten Organisationen bis zum 30. September 2008 keine Mitglieder
-bestellen, wird die Schiedsstelle durch die drei vom Präsidenten des
-Bundessozialgerichts berufenen unparteiischen Mitglieder gebildet.
+(2) Der Qualitätsausschuss besteht aus Vertretern des Spitzenverbandes
+Bund der Pflegekassen (Leistungsträger) und aus Vertretern der
+Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene
+(Leistungserbringer) in gleicher Zahl; Leistungsträger und
+Leistungserbringer können jeweils höchstens zehn Mitglieder entsenden.
+Dem Qualitätsausschuss gehören auch ein Vertreter der
+Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe und
+ein Vertreter der kommunalen Spitzenverbände auf Bundesebene an; sie
+werden auf die Zahl der Leistungsträger angerechnet. Dem
+Qualitätsausschuss kann auch ein Vertreter des Verbandes der privaten
+Krankenversicherung e. V. angehören; die Entscheidung hierüber obliegt
+dem Verband der privaten Krankenversicherung e. V. Sofern der Verband
+der privaten Krankenversicherung e. V. ein Mitglied entsendet, wird
+dieses Mitglied auf die Zahl der Leistungsträger angerechnet. Dem
+Qualitätsausschuss soll auch ein Vertreter der Verbände der
+Pflegeberufe angehören; er wird auf die Zahl der Leistungserbringer
+angerechnet. Eine Organisation kann nicht gleichzeitig der
+Leistungsträgerseite und der Leistungserbringerseite zugerechnet
+werden. Jedes Mitglied erhält eine Stimme; die Stimmen sind gleich zu
+gewichten. Der Medizinische Dienst des Spitzenverbandes Bund der
+Krankenkassen wirkt in den Sitzungen und an den Beschlussfassungen im
+Qualitätsausschuss, auch in seiner erweiterten Form nach Absatz 3,
+beratend mit. Die auf Bundesebene maßgeblichen Organisationen für die
+Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger und
+behinderter Menschen wirken in den Sitzungen und an den
+Beschlussfassungen im Qualitätsausschuss, auch in seiner erweiterten
+Form nach Absatz 3, nach Maßgabe von § 118 mit.
 
-(3) Die Vertragsparteien nach § 113 vereinbaren in einer
-Geschäftsordnung das Nähere über die Zahl, die Bestellung, die
-Amtsdauer, die Amtsführung, die Erstattung der baren Auslagen und die
-Entschädigung für den Zeitaufwand der Mitglieder der Schiedsstelle
-sowie die Geschäftsführung, das Verfahren, die Erhebung und die Höhe
-der Gebühren und die Verteilung der Kosten. Kommt die Geschäftsordnung
-bis zum 30. September 2008 nicht zustande, wird ihr Inhalt durch das
-Bundesministerium für Gesundheit bestimmt. Entscheidungen der
-Schiedsstelle sind mit der Mehrheit ihrer Mitglieder innerhalb von
-drei Monaten zu treffen; im Übrigen gilt § 76 Abs. 3 entsprechend.
+(3) Kommt im Qualitätsausschuss eine Vereinbarung, ein Beschluss oder
+eine Entscheidung nach Absatz 1 Satz 2 und 3 ganz oder teilweise nicht
+durch einvernehmliche Einigung zustande, so wird der
+Qualitätsausschuss auf Verlangen von mindestens einer Vertragspartei
+nach § 113, eines Mitglieds des Qualitätsausschusses oder des
+Bundesministeriums für Gesundheit um einen unparteiischen Vorsitzenden
+und zwei weitere unparteiische Mitglieder erweitert (erweiterter
+Qualitätsausschuss). Sofern die Organisationen, die Mitglieder in den
+Qualitätsausschuss entsenden, nicht bis zum 31. März 2016 die
+Mitglieder nach Maßgabe von Absatz 2 Satz 1 benannt haben, wird der
+Qualitätsausschuss durch die drei unparteiischen Mitglieder gebildet.
+Der unparteiische Vorsitzende und die weiteren unparteiischen
+Mitglieder sowie deren Stellvertreter führen ihr Amt als Ehrenamt. Der
+unparteiische Vorsitzende wird vom Bundesministerium für Gesundheit
+benannt; der Stellvertreter des unparteiischen Vorsitzenden und die
+weiteren unparteiischen Mitglieder sowie deren Stellvertreter werden
+von den Vertragsparteien nach § 113 gemeinsam benannt. Mitglieder des
+Qualitätsausschusses können nicht als Stellvertreter des
+unparteiischen Vorsitzenden oder der weiteren unparteiischen
+Mitglieder benannt werden. Kommt eine Einigung über die Benennung der
+unparteiischen Mitglieder nicht innerhalb einer vom Bundesministerium
+für Gesundheit gesetzten Frist zustande, erfolgt die Benennung durch
+das Bundesministerium für Gesundheit. Der erweiterte
+Qualitätsausschuss setzt mit der Mehrheit seiner Mitglieder den Inhalt
+der Vereinbarungen oder der Beschlüsse der Vertragsparteien nach § 113
+fest. Die Festsetzungen des erweiterten Qualitätsausschusses haben die
+Rechtswirkung einer vertraglichen Vereinbarung, Beschlussfassung oder
+Entscheidung im Sinne der Absätze 4 und 8, des § 37 Absatz 5, der §§
+113, 113a und 115 Absatz 1a, 1c und 3b.
 
-(4) Die Rechtsaufsicht über die Schiedsstelle führt das
-Bundesministerium für Gesundheit. Es kann die Rechtsaufsicht ganz oder
-teilweise sowie dauerhaft oder vorübergehend auf das
-Bundesversicherungsamt übertragen.
+(4) Die Vertragsparteien nach § 113 beauftragen zur Sicherstellung der
+Wissenschaftlichkeit bei der Wahrnehmung ihrer Aufgaben mit
+Unterstützung der qualifizierten Geschäftsstelle nach Absatz 6
+fachlich unabhängige wissenschaftliche Einrichtungen oder
+Sachverständige. Diese wissenschaftlichen Einrichtungen oder
+Sachverständigen werden beauftragt, insbesondere
+
+1.  bis zum 31. März 2017 die Instrumente für die Prüfung der Qualität der
+    Leistungen, die von den stationären Pflegeeinrichtungen erbracht
+    werden, und für die Qualitätsberichterstattung in der stationären
+    Pflege zu entwickeln, wobei
+
+    a)  insbesondere die 2011 vorgelegten Ergebnisse des vom Bundesministerium
+        für Gesundheit und vom Bundesministerium für Familie, Senioren, Frauen
+        und Jugend geförderten Projektes „Entwicklung und Erprobung von
+        Instrumenten zur Beurteilung der Ergebnisqualität in der stationären
+        Altenhilfe“ und die Ergebnisse der dazu durchgeführten
+        Umsetzungsprojekte einzubeziehen sind und
+
+
+    b)  Aspekte der Prozess- und Strukturqualität zu berücksichtigen sind;
+
+
+
+
+
+2.  bis zum 31. März 2017 auf der Grundlage der Ergebnisse nach Nummer 1
+    unter Beachtung des Prinzips der Datensparsamkeit ein bundesweites
+    Datenerhebungsinstrument, bundesweite Verfahren für die Übermittlung
+    und Auswertung der Daten einschließlich einer Bewertungssystematik
+    sowie für die von Externen durchzuführende Prüfung der Daten zu
+    entwickeln;
+
+
+3.  bis zum 30. Juni 2017 die Instrumente für die Prüfung der Qualität der
+    von den ambulanten Pflegeeinrichtungen erbrachten Leistungen und für
+    die Qualitätsberichterstattung in der ambulanten Pflege zu entwickeln,
+    eine anschließende Pilotierung durchzuführen und einen
+    Abschlussbericht bis zum 31. März 2018 vorzulegen;
+
+
+4.  ergänzende Instrumente für die Ermittlung und Bewertung von
+    Lebensqualität zu entwickeln;
+
+
+5.  die Umsetzung der nach den Nummern 1 bis 3 entwickelten Verfahren zur
+    Qualitätsmessung und Qualitätsdarstellung wissenschaftlich zu
+    evaluieren und den Vertragsparteien nach § 113 Vorschläge zur
+    Anpassung der Verfahren an den neuesten Stand der wissenschaftlichen
+    Erkenntnisse zu unterbreiten sowie
+
+
+6.  bis zum 31. März 2018 ein Konzept für eine Qualitätssicherung in neuen
+    Wohnformen zu entwickeln und zu erproben, insbesondere Instrumente zur
+    internen und externen Qualitätssicherung sowie für eine angemessene
+    Qualitätsberichterstattung zu entwickeln und ihre Eignung zu erproben.
+
+
+
+Das Bundesministerium für Gesundheit sowie das Bundesministerium für
+Familie, Senioren, Frauen und Jugend in Abstimmung mit dem
+Bundesministerium für Gesundheit können den Vertragsparteien nach §
+113 weitere Themen zur wissenschaftlichen Bearbeitung vorschlagen.
+
+(5) Die Finanzierung der Aufträge nach Absatz 4 erfolgt aus Mitteln
+des Ausgleichsfonds der Pflegeversicherung nach § 8 Absatz 4. Bei der
+Bearbeitung der Aufträge nach Absatz 4 Satz 2 ist zu gewährleisten,
+dass die Arbeitsergebnisse umsetzbar sind. Der jeweilige Auftragnehmer
+hat darzulegen, zu welchen finanziellen Auswirkungen die Umsetzung der
+Arbeitsergebnisse führen wird. Den Arbeitsergebnissen ist
+diesbezüglich eine Praktikabilitäts- und Kostenanalyse beizufügen. Die
+Ergebnisse der Arbeiten nach Absatz 4 Satz 2 sind dem
+Bundesministerium für Gesundheit zur Kenntnisnahme vor der
+Veröffentlichung vorzulegen.
+
+(6) Die Vertragsparteien nach § 113 richten gemeinsam bis zum 31. März
+2016 eine unabhängige qualifizierte Geschäftsstelle des
+Qualitätsausschusses für die Dauer von fünf Jahren ein. Die
+Geschäftsstelle nimmt auch die Aufgaben einer wissenschaftlichen
+Beratungs- und Koordinierungsstelle wahr. Sie soll insbesondere den
+Qualitätsausschuss und seine Mitglieder fachwissenschaftlich beraten,
+die Auftragsverfahren nach Absatz 4 koordinieren und die
+wissenschaftlichen Arbeitsergebnisse für die Entscheidungen im
+Qualitätsausschuss aufbereiten. Näheres zur Zusammensetzung und
+Arbeitsweise der qualifizierten Geschäftsstelle regeln die
+Vertragsparteien nach § 113 in der Geschäftsordnung nach Absatz 7.
+
+(7) Die Vertragsparteien nach § 113 vereinbaren in einer
+Geschäftsordnung mit dem Verband der privaten Krankenversicherung e.
+V., mit den Verbänden der Pflegeberufe auf Bundesebene und mit den auf
+Bundesebene maßgeblichen Organisationen für die Wahrnehmung der
+Interessen und der Selbsthilfe pflegebedürftiger und behinderter
+Menschen das Nähere zur Arbeitsweise des Qualitätsausschusses,
+insbesondere
+
+1.  zur Benennung der Mitglieder und der unparteiischen Mitglieder,
+
+
+2.  zur Amtsdauer, Amtsführung und Entschädigung für den Zeitaufwand der
+    unparteiischen Mitglieder,
+
+
+3.  zum Vorsitz,
+
+
+4.  zu den Beschlussverfahren,
+
+
+5.  zur Errichtung einer qualifizierten Geschäftsstelle auch mit der
+    Aufgabe als wissenschaftliche Beratungs- und Koordinierungsstelle nach
+    Absatz 6,
+
+
+6.  zur Sicherstellung der jeweiligen Auftragserteilung nach Absatz 4,
+
+
+7.  zur Einbeziehung weiterer Sachverständiger oder Gutachter,
+
+
+8.  zur Bildung von Arbeitsgruppen,
+
+
+9.  zur Gewährleistung der Beteiligungs- und Mitberatungsrechte nach
+    diesem Gesetz einschließlich der Erstattung von Reisekosten nach § 118
+    Absatz 1 Satz 6 sowie
+
+
+10. zur Verteilung der Kosten für die Entschädigung der unparteiischen
+    Mitglieder und der einbezogenen weiteren Sachverständigen und
+    Gutachter sowie für die Erstattung von Reisekosten nach § 118 Absatz 1
+    Satz 6; die Kosten können auch den Kosten der qualifizierten
+    Geschäftsstelle nach Absatz 6 zugerechnet werden.
+
+
+
+Die Geschäftsordnung und die Änderung der Geschäftsordnung sind durch
+das Bundesministerium für Gesundheit im Benehmen mit dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend zu
+genehmigen. Kommt die Geschäftsordnung nicht bis zum 29. Februar 2016
+zustande, wird ihr Inhalt durch das Bundesministerium für Gesundheit
+im Benehmen mit dem Bundesministerium für Familie, Senioren, Frauen
+und Jugend bestimmt.
+
+(8) Die Vertragsparteien nach § 113 sind verpflichtet, dem
+Bundesministerium für Gesundheit auf Verlangen unverzüglich Auskunft
+über den Stand der Bearbeitung der mit gesetzlichen Fristen versehenen
+Aufgaben nach Absatz 1 Satz 2 und über den Stand der Auftragserteilung
+und Bearbeitung der nach Absatz 4 zu erteilenden Aufträge sowie über
+erforderliche besondere Maßnahmen zur Einhaltung der gesetzlichen
+Fristen zu geben. Die Vertragsparteien legen dem Bundesministerium für
+Gesundheit bis zum 15. Januar 2017 einen konkreten Zeitplan für die
+Bearbeitung der mit gesetzlichen Fristen versehenen Aufgaben nach
+Absatz 1 Satz 2 und der Aufträge nach Absatz 4 vor, aus dem einzelne
+Umsetzungsschritte erkennbar sind. Der Zeitplan ist durch das
+Bundesministerium für Gesundheit im Benehmen mit dem Bundesministerium
+für Familie, Senioren, Frauen und Jugend zu genehmigen. Die
+Vertragsparteien nach § 113 sind verpflichtet, das Bundesministerium
+für Gesundheit unverzüglich zu informieren, wenn absehbar ist, dass
+ein Zeitziel des Zeitplans nicht eingehalten werden kann. In diesem
+Fall kann das Bundesministerium für Gesundheit im Benehmen mit dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend einzelne
+Umsetzungsschritte im Wege der Ersatzvornahme selbst vornehmen.
+
+(9) Die durch den Qualitätsausschuss getroffenen Entscheidungen sind
+dem Bundesministerium für Gesundheit vorzulegen. Es kann die
+Entscheidungen innerhalb von zwei Monaten beanstanden. Das
+Bundesministerium für Gesundheit kann im Rahmen der Prüfung vom
+Qualitätsausschuss zusätzliche Informationen und ergänzende
+Stellungnahmen anfordern; bis zu deren Eingang ist der Lauf der Frist
+nach Satz 2 unterbrochen. Beanstandungen des Bundesministeriums für
+Gesundheit sind innerhalb der von ihm gesetzten Frist zu beheben. Die
+Nichtbeanstandung von Entscheidungen kann vom Bundesministerium für
+Gesundheit mit Auflagen verbunden werden. Kommen Entscheidungen des
+Qualitätsausschusses ganz oder teilweise nicht fristgerecht zustande
+oder werden die Beanstandungen des Bundesministeriums für Gesundheit
+nicht innerhalb der von ihm gesetzten Frist behoben, kann das
+Bundesministerium für Gesundheit den Inhalt der Vereinbarungen und der
+Beschlüsse nach Absatz 1 Satz 2 festsetzen. Bei den Verfahren nach den
+Sätzen 1 bis 6 setzt sich das Bundesministerium für Gesundheit mit dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend ins
+Benehmen. Bezüglich der Vereinbarungen nach § 115 Absatz 3b setzt sich
+das Bundesministerium für Gesundheit bei den Verfahren nach den Sätzen
+1 bis 6 darüber hinaus mit dem Bundesministerium für Arbeit und
+Soziales ins Benehmen.
+
+
+### § 113c Personalbemessung in Pflegeeinrichtungen
+
+(1) Die Vertragsparteien nach § 113 stellen im Einvernehmen mit dem
+Bundesministerium für Gesundheit und dem Bundesministerium für
+Familie, Senioren, Frauen und Jugend die Entwicklung und Erprobung
+eines wissenschaftlich fundierten Verfahrens zur einheitlichen
+Bemessung des Personalbedarfs in Pflegeeinrichtungen nach qualitativen
+und quantitativen Maßstäben sicher. Die Entwicklung und Erprobung ist
+bis zum 30. Juni 2020 abzuschließen. Es ist ein strukturiertes,
+empirisch abgesichertes und valides Verfahren für die
+Personalbemessung in Pflegeeinrichtungen auf der Basis des
+durchschnittlichen Versorgungsaufwands für direkte und indirekte
+pflegerische Maßnahmen sowie für Hilfen bei der Haushaltsführung unter
+Berücksichtigung der fachlichen Ziele und Konzeption des ab dem 1.
+Januar 2017 geltenden Pflegebedürftigkeitsbegriffs zu erstellen.
+Hierzu sind einheitliche Maßstäbe zu ermitteln, die insbesondere
+Qualifikationsanforderungen, quantitative Bedarfe und die fachliche
+Angemessenheit der Maßnahmen berücksichtigen. Die Vertragsparteien
+beauftragen zur Sicherstellung der Wissenschaftlichkeit des Verfahrens
+fachlich unabhängige wissenschaftliche Einrichtungen oder
+Sachverständige. Soweit bei der Entwicklung und Erprobung des
+Verfahrens eine modellhafte Vorgehensweise erforderlich ist, kann im
+Einzelfall von den Regelungen des Siebten Kapitels sowie von § 36 und
+zur Entwicklung besonders pauschalierter Pflegesätze von § 84 Absatz 2
+Satz 2 abgewichen werden. Bei den Aufgaben nach den Sätzen 1 bis 6
+sollen die Vertragsparteien von der unabhängigen qualifizierten
+Geschäftsstelle nach § 113b Absatz 6 unterstützt werden.
+
+(2) Der Medizinische Dienst des Spitzenverbandes Bund der
+Krankenkassen, der Verband der privaten Krankenversicherung e. V. und
+die Verbände der Pflegeberufe auf Bundesebene wirken beratend mit. Die
+auf Bundesebene maßgeblichen Organisationen für die Wahrnehmung der
+Interessen und der Selbsthilfe pflegebedürftiger und behinderter
+Menschen wirken nach Maßgabe von § 118 mit. Für die Arbeitsweise der
+Vertragsparteien soll im Übrigen die Geschäftsordnung nach § 113b
+Absatz 7 entsprechende Anwendung finden.
+
+(3) Das Bundesministerium für Gesundheit legt im Einvernehmen mit dem
+Bundesministerium für Familie, Senioren, Frauen und Jugend unter
+Beteiligung der Vertragsparteien nach § 113 unverzüglich in einem
+Zeitplan konkrete Zeitziele für die Entwicklung, Erprobung und die
+Auftragsvergabe fest. Die Vertragsparteien nach § 113 sind
+verpflichtet, dem Bundesministerium für Gesundheit auf Verlangen
+unverzüglich Auskunft über den Bearbeitungsstand der Entwicklung,
+Erprobung und der Auftragsvergabe sowie über Problembereiche und
+mögliche Lösungen zu geben.
+
+(4) Wird ein Zeitziel nach Absatz 3 nicht fristgerecht erreicht und
+ist deshalb die fristgerechte Entwicklung, Erprobung oder
+Auftragsvergabe gefährdet, kann das Bundesministerium für Gesundheit
+im Einvernehmen mit dem Bundesministerium für Familie, Senioren,
+Frauen und Jugend einzelne Verfahrensschritte im Wege der
+Ersatzvornahme selbst durchführen. Haben die Vertragsparteien nach §
+113 sich bis zum 31. Dezember 2016 nicht über die Beauftragung gemäß
+Absatz 1 Satz 2 geeinigt, bestimmen das Bundesministerium für
+Gesundheit und das Bundesministerium für Familie, Senioren, Frauen und
+Jugend innerhalb von vier Monaten das Verfahren und die Inhalte der
+Beauftragung.
 
 
 ### § 114 Qualitätsprüfungen
@@ -6686,18 +7970,23 @@ dem 1. Januar 2014 verpflichtet, die Landesverbände der Pflegekassen
 unmittelbar nach einer Regelprüfung darüber zu informieren, wie die
 ärztliche, fachärztliche und zahnärztliche Versorgung sowie die
 Arzneimittelversorgung in den Einrichtungen geregelt sind. Sie sollen
-insbesondere hinweisen auf
+insbesondere auf Folgendes hinweisen:
 
-1.  den Abschluss und den Inhalt von Kooperationsverträgen oder die
-    Einbindung der Einrichtung in Ärztenetze sowie
+1.  auf den Abschluss und den Inhalt von Kooperationsverträgen oder die
+    Einbindung der Einrichtung in Ärztenetze,
 
 
-2.  den Abschluss von Vereinbarungen mit Apotheken.
+2.  auf den Abschluss von Vereinbarungen mit Apotheken sowie
+
+
+3.  ab dem 1. Juli 2016 auf die Zusammenarbeit mit einem Hospiz- und
+    Palliativnetz.
 
 
 
 Wesentliche Änderungen hinsichtlich der ärztlichen, fachärztlichen und
-zahnärztlichen Versorgung sowie der Arzneimittelversorgung sind den
+zahnärztlichen Versorgung, der Arzneimittelversorgung sowie der
+Zusammenarbeit mit einem Hospiz- und Palliativnetz sind den
 Landesverbänden der Pflegekassen innerhalb von vier Wochen zu melden.
 
 (2) Die Landesverbände der Pflegekassen veranlassen in zugelassenen
@@ -6715,15 +8004,18 @@ die Durchführung und die Evaluation der Leistungserbringung
 (Prozessqualität) sowie die unmittelbaren Rahmenbedingungen der
 Leistungserbringung (Strukturqualität) erstreckt werden. Die
 Regelprüfung bezieht sich auf die Qualität der allgemeinen
-Pflegeleistungen, der medizinischen Behandlungspflege, der sozialen
-Betreuung einschließlich der zusätzlichen Betreuung und Aktivierung im
-Sinne des § 87b, der Leistungen bei Unterkunft und Verpflegung (§ 87),
-der Zusatzleistungen (§ 88) und der nach § 37 des Fünften Buches
-erbrachten Leistungen der häuslichen Krankenpflege. Sie kann sich auch
-auf die Abrechnung der genannten Leistungen erstrecken. Zu prüfen ist
-auch, ob die Versorgung der Pflegebedürftigen den Empfehlungen der
-Kommission für Krankenhaushygiene und Infektionsprävention nach § 23
-Absatz 1 des Infektionsschutzgesetzes entspricht.
+Pflegeleistungen, der medizinischen Behandlungspflege, der Betreuung
+einschließlich der zusätzlichen Betreuung und Aktivierung im Sinne des
+§ 43b, der Leistungen bei Unterkunft und Verpflegung (§ 87) und der
+Zusatzleistungen (§ 88). Auch die nach § 37 des Fünften Buches
+erbrachten Leistungen der häuslichen Krankenpflege sind in die
+Regelprüfung einzubeziehen, unabhängig davon, ob von der
+Pflegeversicherung Leistungen nach § 36 erbracht werden. Die
+Regelprüfung umfasst auch die Abrechnung der genannten Leistungen. Zu
+prüfen ist auch, ob die Versorgung der Pflegebedürftigen den
+Empfehlungen der Kommission für Krankenhaushygiene und
+Infektionsprävention nach § 23 Absatz 1 des Infektionsschutzgesetzes
+entspricht.
 
 (3) Die Landesverbände der Pflegekassen haben im Rahmen der
 Zusammenarbeit mit den nach heimrechtlichen Vorschriften zuständigen
@@ -6748,47 +8040,26 @@ Regelprüfung in angemessener Weise zu verringern, wenn
 
 
 3.  die Veröffentlichung der von den Pflegeeinrichtungen erbrachten
-    Leistungen und deren Qualität, insbesondere hinsichtlich der Ergebnis-
-    und Lebensqualität, gemäß § 115 Absatz 1a gewährleistet ist.
+    Leistungen und deren Qualität gemäß § 115 Absatz 1a gewährleistet ist.
 
 
 
 Die Pflegeeinrichtung kann verlangen, dass von einer Verringerung der
 Prüfpflicht abgesehen wird.
 
-(4) Liegen den Landesverbänden der Pflegekassen Ergebnisse zur
-Prozess- und Strukturqualität aus einer Prüfung vor, die von der
-Pflegeeinrichtung oder dem Einrichtungsträger veranlasst wurde, so
-haben sie den Umfang der Regelprüfung in angemessener Weise zu
-verringern. Voraussetzung ist, dass die vorgelegten Prüfergebnisse
-nach einem durch die Landesverbände der Pflegekassen anerkannten
-Verfahren zur Messung und Bewertung der Pflegequalität durch
-unabhängige Sachverständige oder Prüfinstitutionen entsprechend den
-von den Vertragsparteien nach § 113 Abs. 1 Satz 4 Nr. 2 und 3
-festgelegten Anforderungen durchgeführt wurde, die Prüfung nicht
-länger als ein Jahr zurückliegt und die Prüfungsergebnisse gemäß § 115
-Abs. 1a veröffentlicht werden. Eine Prüfung der Ergebnisqualität durch
-den Medizinischen Dienst der Krankenversicherung oder den Prüfdienst
-des Verbandes der privaten Krankenversicherung e. V. ist stets
-durchzuführen.
-
-(5) Bei Anlassprüfungen geht der Prüfauftrag in der Regel über den
+(4) Bei Anlassprüfungen geht der Prüfauftrag in der Regel über den
 jeweiligen Prüfanlass hinaus; er umfasst eine vollständige Prüfung mit
-dem Schwerpunkt der Ergebnisqualität. Im Zusammenhang mit einer zuvor
-durchgeführten Regel- oder Anlassprüfung kann von den Landesverbänden
-der Pflegekassen auf Kosten der Pflegeeinrichtung eine
+dem Schwerpunkt der Ergebnisqualität. Gibt es im Rahmen einer Anlass-,
+Regel- oder Wiederholungsprüfung sachlich begründete Hinweise auf eine
+nicht fachgerechte Pflege bei Pflegebedürftigen, auf die sich die
+Prüfung nicht erstreckt, sind die betroffenen Pflegebedürftigen unter
+Beachtung der datenschutzrechtlichen Bestimmungen in die Prüfung
+einzubeziehen. Die Prüfung ist insgesamt als Anlassprüfung
+durchzuführen. Im Zusammenhang mit einer zuvor durchgeführten Regel-
+oder Anlassprüfung kann von den Landesverbänden der Pflegekassen eine
 Wiederholungsprüfung veranlasst werden, um zu überprüfen, ob die
 festgestellten Qualitätsmängel durch die nach § 115 Abs. 2
-angeordneten Maßnahmen beseitigt worden sind. Auf Antrag und auf
-Kosten der Pflegeeinrichtung ist eine Wiederholungsprüfung von den
-Landesverbänden der Pflegekassen zu veranlassen, wenn wesentliche
-Aspekte der Pflegequalität betroffen sind und ohne zeitnahe
-Nachprüfung der Pflegeeinrichtung unzumutbare Nachteile drohen. Kosten
-im Sinne der Sätze 2 und 3 sind nur zusätzliche, tatsächlich bei der
-Wiederholungsprüfung angefallene Aufwendungen, nicht aber Verwaltungs-
-oder Vorhaltekosten, die auch ohne Wiederholungsprüfung angefallen
-wären. Pauschalen oder Durchschnittswerte können nicht angesetzt
-werden.
+angeordneten Maßnahmen beseitigt worden sind.
 
 
 ### § 114a Durchführung der Qualitätsprüfungen
@@ -6801,7 +8072,8 @@ verpflichtet, an Ort und Stelle zu überprüfen, ob die zugelassenen
 Pflegeeinrichtungen die Leistungs- und Qualitätsanforderungen nach
 diesem Buch erfüllen. Prüfungen in stationären Pflegeeinrichtungen
 sind grundsätzlich unangemeldet durchzuführen. Qualitätsprüfungen in
-ambulanten Pflegeeinrichtungen sind am Tag zuvor anzukündigen. Der
+ambulanten Pflegeeinrichtungen sind grundsätzlich am Tag zuvor
+anzukündigen; Anlassprüfungen sollen unangemeldet erfolgen. Der
 Medizinische Dienst der Krankenversicherung, der Prüfdienst des
 Verbandes der privaten Krankenversicherung e. V. und die von den
 Landesverbänden der Pflegekassen bestellten Sachverständigen beraten
@@ -6822,7 +8094,7 @@ Prüfungen und Besichtigungen zur Nachtzeit sind nur zulässig, wenn und
 soweit das Ziel der Qualitätssicherung zu anderen Tageszeiten nicht
 erreicht werden kann. Soweit Räume einem Wohnrecht der Heimbewohner
 unterliegen, dürfen sie ohne deren Einwilligung nur betreten werden,
-soweit dies zur Verhütung drohender Gefahren für die öffentliche
+soweit dies zur Verhütung dringender Gefahren für die öffentliche
 Sicherheit und Ordnung erforderlich ist; das Grundrecht der
 Unverletzlichkeit der Wohnung (Artikel 13 Abs. 1 des Grundgesetzes)
 wird insoweit eingeschränkt. Bei der ambulanten Pflege sind der
@@ -6830,38 +8102,66 @@ Medizinische Dienst der Krankenversicherung, der Prüfdienst des
 Verbandes der privaten Krankenversicherung e. V. und die von den
 Landesverbänden der Pflegekassen bestellten Sachverständigen
 berechtigt, die Qualität der Leistungen des Pflegedienstes mit
-Einwilligung des Pflegebedürftigen auch in dessen Wohnung zu
-überprüfen. Der Medizinische Dienst der Krankenversicherung und der
-Prüfdienst des Verbandes der privaten Krankenversicherung e. V. sollen
-die nach heimrechtlichen Vorschriften zuständige Aufsichtsbehörde an
-Prüfungen beteiligen, soweit dadurch die Prüfung nicht verzögert wird.
+Einwilligung der von dem Pflegedienst versorgten Person auch in deren
+Wohnung zu überprüfen. Der Medizinische Dienst der Krankenversicherung
+und der Prüfdienst des Verbandes der privaten Krankenversicherung e.
+V. sollen die nach heimrechtlichen Vorschriften zuständige
+Aufsichtsbehörde an Prüfungen beteiligen, soweit dadurch die Prüfung
+nicht verzögert wird.
 
 (3) Die Prüfungen beinhalten auch Inaugenscheinnahmen des
-gesundheitlichen und pflegerischen Zustands von Pflegebedürftigen.
-Sowohl Pflegebedürftige als auch Beschäftigte der Pflegeeinrichtungen,
-Betreuer und Angehörige sowie Mitglieder der heimrechtlichen
-Interessenvertretungen der Bewohnerinnen und Bewohner können dazu
-befragt werden. Bei der Beurteilung der Pflegequalität sind die
-Pflegedokumentation, die Inaugenscheinnahme der Pflegebedürftigen und
-Befragungen der Beschäftigten der Pflegeeinrichtungen sowie der
-Pflegebedürftigen, ihrer Angehörigen und der vertretungsberechtigten
-Personen angemessen zu berücksichtigen. Die Teilnahme an
-Inaugenscheinnahmen und Befragungen ist freiwillig; durch die
-Ablehnung dürfen keine Nachteile entstehen. Einsichtnahmen in
-Pflegedokumentationen, Inaugenscheinnahmen von Pflegebedürftigen und
-Befragungen von Personen nach Satz 2 sowie die damit jeweils
+gesundheitlichen und pflegerischen Zustands von durch die
+Pflegeeinrichtung versorgten Personen. Zum gesundheitlichen und
+pflegerischen Zustand der durch Inaugenscheinnahme in die Prüfung
+einbezogenen Personen können sowohl diese Personen selbst als auch
+Beschäftigte der Pflegeeinrichtungen, Betreuer und Angehörige sowie
+Mitglieder der heimrechtlichen Interessenvertretungen der
+Bewohnerinnen und Bewohner befragt werden. Bei der Beurteilung der
+Pflegequalität sind die Pflegedokumentation, die Inaugenscheinnahme
+von Personen nach Satz 1 und Befragungen der Beschäftigten der
+Pflegeeinrichtungen sowie der durch Inaugenscheinnahme in die Prüfung
+einbezogenen Personen, ihrer Angehörigen und der
+vertretungsberechtigten Personen angemessen zu berücksichtigen. Die
+Teilnahme an Inaugenscheinnahmen und Befragungen ist freiwillig. Durch
+die Ablehnung dürfen keine Nachteile entstehen. Einsichtnahmen in
+Pflegedokumentationen, Inaugenscheinnahmen von Personen nach Satz 1
+und Befragungen von Personen nach Satz 2 sowie die damit jeweils
 zusammenhängende Erhebung, Verarbeitung und Nutzung personenbezogener
-Daten von Pflegebedürftigen zum Zwecke der Erstellung eines
-Prüfberichts bedürfen der Einwilligung der betroffenen
-Pflegebedürftigen.
+Daten von durch Inaugenscheinnahme in die Prüfung einbezogenen
+Personen zum Zwecke der Erstellung eines Prüfberichts bedürfen der
+Einwilligung der betroffenen Personen.
 
-(3a) Die Einwilligung nach Absatz 2 oder 3 muss in einer Urkunde oder
-auf andere zur dauerhaften Wiedergabe in Schriftzeichen geeignete
-Weise abgegeben werden, die Person des Erklärenden benennen und den
-Abschluss der Erklärung durch Nachbildung der Namensunterschrift oder
-anders erkennbar machen (Textform). Ist der Pflegebedürftige
-einwilligungsunfähig, ist die Einwilligung eines hierzu Berechtigten
-einzuholen.
+(3a) Die Pflegeeinrichtungen haben im Rahmen ihrer Mitwirkungspflicht
+nach § 114 Absatz 1 Satz 4 insbesondere die Namen und Kontaktdaten der
+von ihnen versorgten Personen an die jeweiligen Prüfer weiterzuleiten.
+Die Prüfer sind jeweils verpflichtet, die durch Inaugenscheinnahme
+nach Absatz 3 Satz 1 in die Qualitätsprüfung einzubeziehenden Personen
+vor der Durchführung der Qualitätsprüfung in verständlicher Weise über
+die für die Einwilligung in die Prüfhandlungen nach Absatz 3 Satz 6
+wesentlichen Umstände aufzuklären. Ergänzend kann auch auf Unterlagen
+Bezug genommen werden, die die durch Inaugenscheinnahme in die Prüfung
+einzubeziehende Person in Textform erhält. Die Aufklärung muss so
+rechtzeitig erfolgen, dass die durch Inaugenscheinnahme in die Prüfung
+einzubeziehende Person ihre Entscheidung über die Einwilligung
+wohlüberlegt treffen kann. Die Einwilligung nach Absatz 2 oder Absatz
+3 kann erst nach Bekanntgabe der Einbeziehung der in Augenschein zu
+nehmenden Person in die Qualitätsprüfung erklärt werden und muss in
+einer Urkunde oder auf andere zur dauerhaften Wiedergabe in
+Schriftzeichen geeignete Weise gegenüber den Prüfern abgegeben werden,
+die Person des Erklärenden benennen und den Abschluss der Erklärung
+durch Nachbildung der Namensunterschrift oder anders erkennbar machen
+(Textform). Ist die durch Inaugenscheinnahme in die Prüfung
+einzubeziehende Person einwilligungsunfähig, ist die Einwilligung
+eines hierzu Berechtigten einzuholen, wobei dieser nach Maßgabe der
+Sätze 2 bis 4 aufzuklären ist. Ist ein Berechtigter nicht am Ort einer
+unangemeldeten Prüfung anwesend und ist eine rechtzeitige Einholung
+der Einwilligung in Textform nicht möglich, so genügt nach einer den
+Maßgaben der Sätze 2 bis 4 entsprechenden Aufklärung durch die Prüfer
+ausnahmsweise eine mündliche Einwilligung, wenn andernfalls die
+Durchführung der Prüfung erschwert würde. Die mündliche Einwilligung
+oder Nichteinwilligung des Berechtigten sowie die Gründe für ein
+ausnahmsweises Abweichen von der erforderlichen Textform sind
+schriftlich zu dokumentieren.
 
 (4) Auf Verlangen sind Vertreter der betroffenen Pflegekassen oder
 ihrer Verbände, des zuständigen Sozialhilfeträgers sowie des Verbandes
@@ -6946,30 +8246,39 @@ Länderministerien vor.
 (7) Der Spitzenverband Bund der Pflegekassen beschließt unter
 Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der
 Krankenkassen und des Prüfdienstes des Verbandes der privaten
-Krankenversicherung e. V. Richtlinien über die Prüfung der in
+Krankenversicherung e. V. zur verfahrensrechtlichen Konkretisierung
+Richtlinien über die Durchführung der Prüfung der in
 Pflegeeinrichtungen erbrachten Leistungen und deren Qualität nach §
-114\. Er hat die Bundesarbeitsgemeinschaft der Freien Wohlfahrtspflege,
-die Bundesverbände privater Alten- und Pflegeheime, die Verbände der
-privaten ambulanten Dienste, die Bundesverbände der Pflegeberufe, die
-Kassenärztliche Bundesvereinigung, den Verband der privaten
-Krankenversicherung e. V., die Bundesarbeitsgemeinschaft der
-überörtlichen Träger der Sozialhilfe, die kommunalen Spitzenverbände
-auf Bundesebene sowie die maßgeblichen Organisationen für die
-Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen
-und behinderten Menschen zu beteiligen. Ihnen ist unter Übermittlung
-der hierfür erforderlichen Informationen innerhalb einer angemessenen
-Frist vor der Entscheidung Gelegenheit zur Stellungnahme zu geben; die
-Stellungnahmen sind in die Entscheidung einzubeziehen. Die Richtlinien
-sind regelmäßig an den medizinisch-pflegefachlichen Fortschritt
-anzupassen. Sie bedürfen der Genehmigung des Bundesministeriums für
-Gesundheit. Beanstandungen des Bundesministeriums für Gesundheit sind
-innerhalb der von ihm gesetzten Frist zu beheben. Die
-Qualitätsprüfungs-Richtlinien sind für den Medizinischen Dienst der
-Krankenversicherung und den Prüfdienst des Verbandes der privaten
-Krankenversicherung e. V. verbindlich.
+114 sowohl für den ambulanten als auch für den stationären Bereich. In
+den Richtlinien sind die Maßstäbe und Grundsätze zur Sicherung und
+Weiterentwicklung der Pflegequalität nach § 113 zu berücksichtigen.
+Die Richtlinien für den stationären Bereich sind bis zum 31. Oktober
+2017, die Richtlinien für den ambulanten Bereich bis zum 31. Oktober
+2018 zu beschließen. Sie treten jeweils gleichzeitig mit der
+entsprechenden Qualitätsdarstellungsvereinbarung nach § 115 Absatz 1a
+in Kraft. Die maßgeblichen Organisationen für die Wahrnehmung der
+Interessen und der Selbsthilfe der pflegebedürftigen und behinderten
+Menschen wirken nach Maßgabe von § 118 mit. Der Spitzenverband Bund
+der Pflegekassen hat die Vereinigungen der Träger der
+Pflegeeinrichtungen auf Bundesebene, die Verbände der Pflegeberufe auf
+Bundesebene, den Verband der privaten Krankenversicherung e. V. sowie
+die Bundesarbeitsgemeinschaft der überörtlichen Träger der Sozialhilfe
+und die kommunalen Spitzenverbände auf Bundesebene zu beteiligen.
+Ihnen ist unter Übermittlung der hierfür erforderlichen Informationen
+innerhalb einer angemessenen Frist vor der Entscheidung Gelegenheit
+zur Stellungnahme zu geben; die Stellungnahmen sind in die
+Entscheidung einzubeziehen. Die Richtlinien sind in regelmäßigen
+Abständen an den medizinisch-pflegefachlichen Fortschritt anzupassen.
+Sie sind durch das Bundesministerium für Gesundheit im Benehmen mit
+dem Bundesministerium für Familie, Senioren, Frauen und Jugend zu
+genehmigen. Beanstandungen des Bundesministeriums für Gesundheit sind
+innerhalb der von ihm gesetzten Frist zu beheben. Die Richtlinien über
+die Durchführung der Qualitätsprüfung sind für den Medizinischen
+Dienst der Krankenversicherung und den Prüfdienst des Verbandes der
+privaten Krankenversicherung e. V. verbindlich.
 
 
-### § 115 Ergebnisse von Qualitätsprüfungen
+### § 115 Ergebnisse von Qualitätsprüfungen, Qualitätsdarstellung, Vergütungskürzung
 
 (1) Die Medizinischen Dienste der Krankenversicherung, der Prüfdienst
 des Verbandes der privaten Krankenversicherung e. V. sowie die von den
@@ -6980,15 +8289,11 @@ Pflegekassen und den zuständigen Trägern der Sozialhilfe sowie den
 nach heimrechtlichen Vorschriften zuständigen Aufsichtsbehörden im
 Rahmen ihrer Zuständigkeit und bei häuslicher Pflege den zuständigen
 Pflegekassen zum Zwecke der Erfüllung ihrer gesetzlichen Aufgaben
-sowie der betroffenen Pflegeeinrichtung mitzuteilen. Das Gleiche gilt
-für die Ergebnisse von Qualitätsprüfungen, die durch unabhängige
-Sachverständige oder Prüfinstitutionen gemäß § 114 Abs. 4 durchgeführt
-werden und eine Regelprüfung durch den Medizinischen Dienst der
-Krankenversicherung teilweise ersetzen. Die Landesverbände der
-Pflegekassen sind befugt und auf Anforderung verpflichtet, die ihnen
-nach Satz 1 oder 2 bekannt gewordenen Daten und Informationen mit
-Zustimmung des Trägers der Pflegeeinrichtung auch seiner
-Trägervereinigung zu übermitteln, soweit deren Kenntnis für die
+sowie der betroffenen Pflegeeinrichtung mitzuteilen. Die
+Landesverbände der Pflegekassen sind befugt und auf Anforderung
+verpflichtet, die ihnen nach Satz 1 bekannt gewordenen Daten und
+Informationen mit Zustimmung des Trägers der Pflegeeinrichtung auch
+seiner Trägervereinigung zu übermitteln, soweit deren Kenntnis für die
 Anhörung oder eine Stellungnahme der Pflegeeinrichtung zu einem
 Bescheid nach Absatz 2 erforderlich ist. Gegenüber Dritten sind die
 Prüfer und die Empfänger der Daten zur Verschwiegenheit verpflichtet;
@@ -6997,64 +8302,88 @@ Qualitätsprüfungen nach Absatz 1a erforderlichen Daten und
 Informationen.
 
 (1a) Die Landesverbände der Pflegekassen stellen sicher, dass die von
-Pflegeeinrichtungen erbrachten Leistungen und deren Qualität,
-insbesondere hinsichtlich der Ergebnis- und Lebensqualität, für die
+Pflegeeinrichtungen erbrachten Leistungen und deren Qualität für die
 Pflegebedürftigen und ihre Angehörigen verständlich, übersichtlich und
 vergleichbar sowohl im Internet als auch in anderer geeigneter Form
-kostenfrei veröffentlicht werden. Hierbei sind die Ergebnisse der
-Qualitätsprüfungen des Medizinischen Dienstes der Krankenversicherung
-und des Prüfdienstes des Verbandes der privaten Krankenversicherung e.
-V. sowie gleichwertige Prüfergebnisse nach § 114 Abs. 3 und 4 zugrunde
-zu legen; sie können durch in anderen Prüfverfahren gewonnene
-Informationen, die die von Pflegeeinrichtungen erbrachten Leistungen
-und deren Qualität, insbesondere hinsichtlich der Ergebnis- und
-Lebensqualität, darstellen, ergänzt werden. Personenbezogene und
-personenbeziehbare Daten sind zu anonymisieren. Ergebnisse von
-Wiederholungsprüfungen sind zeitnah zu berücksichtigen. Das Datum der
-letzten Prüfung durch den Medizinischen Dienst der Krankenversicherung
-oder durch den Prüfdienst des Verbandes der privaten
-Krankenversicherung e. V., eine Einordnung des Prüfergebnisses nach
-einer Bewertungssystematik sowie eine Zusammenfassung der
-Prüfergebnisse sind an gut sichtbarer Stelle in jeder
-Pflegeeinrichtung auszuhängen. Die Kriterien der Veröffentlichung
-einschließlich der Bewertungssystematik sind durch den Spitzenverband
-Bund der Pflegekassen, die Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene, die Bundesarbeitsgemeinschaft der
-überörtlichen Träger der Sozialhilfe und die Bundesvereinigung der
-kommunalen Spitzenverbände bis zum 30. September 2008 unter
-Beteiligung des Medizinischen Dienstes des Spitzenverbandes Bund der
-Krankenkassen zu vereinbaren. Die maßgeblichen Organisationen für die
-Wahrnehmung der Interessen und der Selbsthilfe der pflegebedürftigen
-und behinderten Menschen, unabhängige Verbraucherorganisationen auf
-Bundesebene sowie der Verband der privaten Krankenversicherung e. V.
-und die Verbände der Pflegeberufe auf Bundesebene sind frühzeitig zu
-beteiligen. Ihnen ist unter Übermittlung der hierfür erforderlichen
-Informationen innerhalb einer angemessenen Frist vor der Entscheidung
-Gelegenheit zur Stellungnahme zu geben; die Stellungnahmen sind in die
-Entscheidung einzubeziehen. Die Vereinbarungen über die Kriterien der
-Veröffentlichung einschließlich der Bewertungssystematik sind an den
-medizinisch-pflegefachlichen Fortschritt anzupassen. Kommt innerhalb
-von sechs Monaten ab schriftlicher Aufforderung eines
-Vereinbarungspartners zu Verhandlungen eine einvernehmliche Einigung
-nicht zustande, kann jeder Vereinbarungspartner die Schiedsstelle nach
-§ 113b anrufen. Die Frist entfällt, wenn der Spitzenverband Bund der
-Pflegekassen und die Mehrheit der Vereinigungen der Träger der
-Pflegeeinrichtungen auf Bundesebene nach einer Beratung aller
-Vereinbarungspartner die Schiedsstelle einvernehmlich anrufen. Die
-Schiedsstelle soll eine Entscheidung innerhalb von drei Monaten
-treffen. Bestehende Vereinbarungen gelten bis zum Abschluss einer
-neuen Vereinbarung fort.
+kostenfrei veröffentlicht werden. Die Vertragsparteien nach § 113
+vereinbaren insbesondere auf der Grundlage der Maßstäbe und Grundsätze
+nach § 113 und der Richtlinien zur Durchführung der Prüfung der in
+Pflegeeinrichtungen erbrachten Leistungen und deren Qualität nach §
+114a Absatz 7, welche Ergebnisse bei der Darstellung der Qualität für
+den ambulanten und den stationären Bereich zugrunde zu legen sind und
+inwieweit die Ergebnisse durch weitere Informationen ergänzt werden.
+In den Vereinbarungen sind die Ergebnisse der nach § 113b Absatz 4
+Satz 2 Nummer 1 bis 4 vergebenen Aufträge zu berücksichtigen. Die
+Vereinbarungen umfassen auch die Form der Darstellung einschließlich
+einer Bewertungssystematik (Qualitätsdarstellungsvereinbarungen). Bei
+Anlassprüfungen nach § 114 Absatz 5 bilden die Prüfergebnisse aller in
+die Prüfung einbezogenen Pflegebedürftigen die Grundlage für die
+Bewertung und Darstellung der Qualität. Personenbezogene Daten sind zu
+anonymisieren. Ergebnisse von Wiederholungsprüfungen sind zeitnah zu
+berücksichtigen. Bei der Darstellung der Qualität ist die Art der
+Prüfung als Anlass-, Regel- oder Wiederholungsprüfung kenntlich zu
+machen. Das Datum der letzten Prüfung durch den Medizinischen Dienst
+der Krankenversicherung oder durch den Prüfdienst des Verbandes der
+privaten Krankenversicherung e. V., eine Einordnung des
+Prüfergebnisses nach einer Bewertungssystematik sowie eine
+Zusammenfassung der Prüfergebnisse sind an gut sichtbarer Stelle in
+jeder Pflegeeinrichtung auszuhängen. Die
+Qualitätsdarstellungsvereinbarungen für den stationären Bereich sind
+bis zum 31. Dezember 2017 und für den ambulanten Bereich bis zum 31.
+Dezember 2018 jeweils unter Beteiligung des Medizinischen Dienstes des
+Spitzenverbandes Bund der Krankenkassen, des Verbandes der privaten
+Krankenversicherung e. V. und der Verbände der Pflegeberufe auf
+Bundesebene zu schließen. Die auf Bundesebene maßgeblichen
+Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe
+der pflegebedürftigen und behinderten Menschen wirken nach Maßgabe von
+§ 118 mit. Die Qualitätsdarstellungsvereinbarungen sind an den
+medizinisch-pflegefachlichen Fortschritt anzupassen. Bestehende
+Vereinbarungen gelten bis zum Abschluss einer neuen Vereinbarung fort;
+dies gilt entsprechend auch für die bestehenden Vereinbarungen über
+die Kriterien der Veröffentlichung einschließlich der
+Bewertungssystematik (Pflege-Transparenzvereinbarungen).
 
 (1b) Die Landesverbände der Pflegekassen stellen sicher, dass ab dem
 1\. Januar 2014 die Informationen gemäß § 114 Absatz 1 über die
 Regelungen zur ärztlichen, fachärztlichen und zahnärztlichen
-Versorgung sowie zur Arzneimittelversorgung in vollstationären
-Einrichtungen für die Pflegebedürftigen und ihre Angehörigen
-verständlich, übersichtlich und vergleichbar sowohl im Internet als
-auch in anderer geeigneter Form kostenfrei zur Verfügung gestellt
-werden. Die Pflegeeinrichtungen sind verpflichtet, die Informationen
-nach Satz 1 an gut sichtbarer Stelle in der Pflegeeinrichtung
-auszuhängen.
+Versorgung sowie zur Arzneimittelversorgung und ab dem 1. Juli 2016
+die Informationen gemäß § 114 Absatz 1 zur Zusammenarbeit mit einem
+Hospiz- und Palliativnetz in vollstationären Einrichtungen für die
+Pflegebedürftigen und ihre Angehörigen verständlich, übersichtlich und
+vergleichbar sowohl im Internet als auch in anderer geeigneter Form
+kostenfrei zur Verfügung gestellt werden. Die Pflegeeinrichtungen sind
+verpflichtet, die Informationen nach Satz 1 an gut sichtbarer Stelle
+in der Pflegeeinrichtung auszuhängen. Die Landesverbände der
+Pflegekassen übermitteln die Informationen nach Satz 1 an den Verband
+der privaten Krankenversicherung e. V. zum Zweck der einheitlichen
+Veröffentlichung.
+
+(1c) Die Landesverbände der Pflegekassen haben Dritten für eine
+zweckgerechte, nicht gewerbliche Nutzung die Daten, die nach den
+Qualitätsdarstellungsvereinbarungen nach Absatz 1a der Darstellung der
+Qualität zu Grunde liegen, sowie rückwirkend zum 1. Januar 2017 ab dem
+1\. April 2017 die Daten, die nach den nach § 115a übergeleiteten
+Pflege-Transparenzvereinbarungen der Darstellung der Qualität bis zum
+Inkrafttreten der Qualitätsdarstellungsvereinbarungen zu Grunde
+liegen, auf Antrag in maschinen- und menschenlesbarer sowie
+plattformunabhängiger Form zur Verarbeitung und Veröffentlichung zur
+Verfügung zu stellen. Das Nähere zu der Übermittlung der Daten an
+Dritte, insbesondere zum Datenformat, zum Datennutzungsvertrag, zu den
+Nutzungsrechten und den Pflichten des Nutzers bei der Verwendung der
+Daten, bestimmen die Vertragsparteien nach § 113 bis zum 31. März 2017
+in Nutzungsbedingungen, die dem Datennutzungsvertrag unabdingbar zu
+Grunde zu legen sind. Mit den Nutzungsbedingungen ist eine nicht
+missbräuchliche, nicht wettbewerbsverzerrende und manipulationsfreie
+Verwendung der Daten sicherzustellen. Der Dritte hat zu gewährleisten,
+dass die Herkunft der Daten für die Endverbraucherin oder den
+Endverbraucher transparent bleibt. Dies gilt insbesondere, wenn eine
+Verwendung der Daten in Zusammenhang mit anderen Daten erfolgt. Für
+die Informationen nach Absatz 1b gelten die Sätze 1 bis 4
+entsprechend. Die Übermittlung der Daten erfolgt gegen Ersatz der
+entstehenden Verwaltungskosten, es sei denn, es handelt sich bei den
+Dritten um öffentlich-rechtliche Stellen. Die entsprechenden
+Aufwendungen sind von den Landesverbänden der Pflegekassen
+nachzuweisen.
 
 (2) Soweit bei einer Prüfung nach diesem Buch Qualitätsmängel
 festgestellt werden, entscheiden die Landesverbände der Pflegekassen
@@ -7091,6 +8420,38 @@ Achten Kapitel refinanziert werden. Schadensersatzansprüche der
 betroffenen Pflegebedürftigen nach anderen Vorschriften bleiben
 unberührt; § 66 des Fünften Buches gilt entsprechend.
 
+(3a) Eine Verletzung der Verpflichtungen zu einer qualitätsgerechten
+Leistungserbringung im Sinne des Absatzes 3 Satz 1 wird unwiderlegbar
+vermutet
+
+1.  bei einem planmäßigen und zielgerichteten Verstoß des Trägers der
+    Einrichtung gegen seine Verpflichtung zur Einhaltung der nach § 84
+    Absatz 5 Satz 2 Nummer 2 vereinbarten Personalausstattung oder
+
+
+2.  bei nicht nur vorübergehenden Unterschreitungen der nach § 84 Absatz 5
+    Satz 2 Nummer 2 vereinbarten Personalausstattung.
+
+
+
+Entsprechendes gilt bei Nichtbezahlung der nach § 84 Absatz 2 Satz 5
+beziehungsweise nach § 89 Absatz 1 Satz 4 zu Grunde gelegten Gehälter.
+Abweichend von Absatz 3 Satz 2 und 3 ist das Einvernehmen über den
+Kürzungsbetrag unverzüglich herbeizuführen und die Schiedsstelle hat
+in der Regel binnen drei Monaten zu entscheiden. Bei Verstößen im
+Sinne von Satz 1 Nummer 1 können die Landesverbände der Pflegekassen
+gemeinsam den Versorgungsvertrag gemäß § 74 Absatz 1, in
+schwerwiegenden Fällen nach § 74 Absatz 2, kündigen; § 73 Absatz 2
+gilt entsprechend.
+
+(3b) Die Vertragsparteien nach § 113 vereinbaren durch den
+Qualitätsausschuss gemäß § 113b bis zum 1. Januar 2018 das Verfahren
+zur Kürzung der Pflegevergütung nach den Absätzen 3 und 3a. Die
+Vereinbarungen sind im Bundesanzeiger zu veröffentlichen und gelten
+vom ersten Tag des auf die Veröffentlichung folgenden Monats. Sie sind
+für alle Pflegekassen und deren Verbände sowie für die zugelassenen
+Pflegeeinrichtungen unmittelbar verbindlich.
+
 (4) Bei Feststellung schwerwiegender, kurzfristig nicht behebbarer
 Mängel in der stationären Pflege sind die Pflegekassen verpflichtet,
 den betroffenen Heimbewohnern auf deren Antrag eine andere geeignete
@@ -7104,7 +8465,7 @@ schwerwiegende Mängel in der ambulanten Pflege fest, kann die
 zuständige Pflegekasse dem Pflegedienst auf Empfehlung des
 Medizinischen Dienstes der Krankenversicherung oder des Prüfdienstes
 des Verbandes der privaten Krankenversicherung e. V. die weitere
-Betreuung des Pflegebedürftigen vorläufig untersagen; § 73 Absatz 2
+Versorgung des Pflegebedürftigen vorläufig untersagen; § 73 Absatz 2
 gilt entsprechend. Die Pflegekasse hat dem Pflegebedürftigen in diesem
 Fall einen anderen geeigneten Pflegedienst zu vermitteln, der die
 Pflege nahtlos übernimmt; dabei ist so weit wie möglich das Wahlrecht
@@ -7117,6 +8478,80 @@ deren Kostenträgern für die Kosten der Vermittlung einer anderen
 ambulanten oder stationären Pflegeeinrichtung, soweit er die Mängel in
 entsprechender Anwendung des § 276 des Bürgerlichen Gesetzbuches zu
 vertreten hat. Absatz 3 Satz 7 bleibt unberührt.
+
+
+### § 115a Übergangsregelung für Pflege-Transparenzvereinbarungen und Qualitätsprüfungs-Richtlinien
+
+(1) Die Vertragsparteien nach § 113 passen unter Beteiligung des
+Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen,
+des Verbandes der privaten Krankenversicherung e. V. und der Verbände
+der Pflegeberufe auf Bundesebene die Pflege-Transparenzvereinbarungen
+an dieses Gesetz in der am 1. Januar 2017 geltenden Fassung an
+(übergeleitete Pflege-Transparenzvereinbarungen). Die auf Bundesebene
+maßgeblichen Organisationen für die Wahrnehmung der Interessen und der
+Selbsthilfe der pflegebedürftigen und behinderten Menschen wirken nach
+Maßgabe von § 118 mit. Kommt bis zum 30. April 2016 keine
+einvernehmliche Einigung zustande, entscheidet der erweiterte
+Qualitätsausschuss nach § 113b Absatz 3 bis zum 30. Juni 2016. Die
+übergeleiteten Pflege-Transparenzvereinbarungen gelten ab 1. Januar
+2017 bis zum Inkrafttreten der in § 115 Absatz 1a vorgesehenen
+Qualitätsdarstellungsvereinbarungen.
+
+(2) Schiedsstellenverfahren zu den Pflege-Transparenzvereinbarungen,
+die am 1. Januar 2016 anhängig sind, werden nach Maßgabe des § 113b
+Absatz 2, 3 und 8 durch den Qualitätsausschuss entschieden; die
+Verfahren sind bis zum 30. Juni 2016 abzuschließen.
+
+(3) Die Richtlinien über die Prüfung der in Pflegeeinrichtungen
+erbrachten Leistungen und deren Qualität nach § 114
+(Qualitätsprüfungs-Richtlinien) in der am 31. Dezember 2015 geltenden
+Fassung gelten nach Maßgabe der Absätze 4 und 5 bis zum Inkrafttreten
+der Richtlinien über die Durchführung der Prüfung der in
+Pflegeeinrichtungen erbrachten Leistungen und deren Qualität nach §
+114a Absatz 7 fort und sind für den Medizinischen Dienst der
+Krankenversicherung und den Prüfdienst des Verbandes der privaten
+Krankenversicherung e. V. verbindlich.
+
+(4) Der Spitzenverband Bund der Pflegekassen passt unter Beteiligung
+des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen
+und des Prüfdienstes des Verbandes der privaten Krankenversicherung e.
+V. die Qualitätsprüfungs-Richtlinien unverzüglich an dieses Gesetz in
+der am 1. Januar 2016 geltenden Fassung an. Die auf Bundesebene
+maßgeblichen Organisationen für die Wahrnehmung der Interessen und der
+Selbsthilfe der pflegebedürftigen und behinderten Menschen wirken nach
+Maßgabe von § 118 mit. Der Spitzenverband Bund der Pflegekassen hat
+die Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene,
+die Verbände der Pflegeberufe auf Bundesebene, den Verband der
+privaten Krankenversicherung e. V. sowie die Bundesarbeitsgemeinschaft
+der überörtlichen Träger der Sozialhilfe und die kommunalen
+Spitzenverbände auf Bundesebene zu beteiligen. Ihnen ist unter
+Übermittlung der hierfür erforderlichen Informationen innerhalb einer
+angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme
+zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen.
+Die angepassten Qualitätsprüfungs-Richtlinien bedürfen der Genehmigung
+des Bundesministeriums für Gesundheit.
+
+(5) Der Spitzenverband Bund der Pflegekassen passt unter Beteiligung
+des Medizinischen Dienstes des Spitzenverbandes Bund der Krankenkassen
+und des Prüfdienstes des Verbandes der privaten Krankenversicherung e.
+V. die nach Absatz 4 angepassten Qualitätsprüfungs-Richtlinien bis zum
+30\. September 2016 an die nach Absatz 1 übergeleiteten und
+gegebenenfalls nach Absatz 2 geänderten Pflege-
+Transparenzvereinbarungen an. Die auf Bundesebene maßgeblichen
+Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe
+der pflegebedürftigen und behinderten Menschen wirken nach Maßgabe von
+§ 118 mit. Der Spitzenverband Bund der Pflegekassen hat die
+Vereinigungen der Träger der Pflegeeinrichtungen auf Bundesebene, die
+Verbände der Pflegeberufe auf Bundesebene, den Verband der privaten
+Krankenversicherung e. V. sowie die Bundesarbeitsgemeinschaft der
+überörtlichen Träger der Sozialhilfe und die kommunalen
+Spitzenverbände auf Bundesebene zu beteiligen. Ihnen ist unter
+Übermittlung der hierfür erforderlichen Informationen innerhalb einer
+angemessenen Frist vor der Entscheidung Gelegenheit zur Stellungnahme
+zu geben; die Stellungnahmen sind in die Entscheidung einzubeziehen.
+Die angepassten Qualitätsprüfungs-Richtlinien bedürfen der Genehmigung
+des Bundesministeriums für Gesundheit und treten zum 1. Januar 2017 in
+Kraft.
 
 
 ### § 116 Kostenregelungen
@@ -7175,18 +8610,18 @@ entsprechenden Vereinbarungen zu beteiligen.
 (2) Die Landesverbände der Pflegekassen sowie der Medizinische Dienst
 und der Prüfdienst des Verbandes der privaten Krankenversicherung e.
 V. können mit den nach heimrechtlichen Vorschriften zuständigen
-Aufsichtsbehörden ein Modellvorhaben vereinbaren, das darauf zielt,
-eine abgestimmte Vorgehensweise bei der Prüfung der Qualität von
-Pflegeeinrichtungen nach diesem Buch und nach heimrechtlichen
-Vorschriften zu erarbeiten. Von den Richtlinien nach § 114a Absatz 7
-und den nach § 115 Absatz 1a Satz 6 bundesweit getroffenen
+Aufsichtsbehörden oder den obersten Landesbehörden ein Modellvorhaben
+vereinbaren, das darauf zielt, eine abgestimmte Vorgehensweise bei der
+Prüfung der Qualität von Pflegeeinrichtungen nach diesem Buch und nach
+heimrechtlichen Vorschriften zu erarbeiten. Von den Richtlinien nach §
+114a Absatz 7 und den nach § 115 Absatz 1a bundesweit getroffenen
 Vereinbarungen kann dabei für die Zwecke und die Dauer des
 Modellvorhabens abgewichen werden. Die Verantwortung der Pflegekassen
 und ihrer Verbände für die inhaltliche Bestimmung, Sicherung und
 Prüfung der Pflege-, Versorgungs- und Betreuungsqualität nach diesem
 Buch kann durch eine Zusammenarbeit mit den nach heimrechtlichen
-Vorschriften zuständigen Aufsichtsbehörden weder eingeschränkt noch
-erweitert werden.
+Vorschriften zuständigen Aufsichtsbehörden oder den obersten
+Landesbehörden weder eingeschränkt noch erweitert werden.
 
 (3) Zur Verwirklichung der engen Zusammenarbeit sind die
 Landesverbände der Pflegekassen sowie der Medizinische Dienst der
@@ -7208,7 +8643,7 @@ diesem Buch durchführen, unverzüglich der nach heimrechtlichen
 Vorschriften zuständigen Aufsichtsbehörde mitzuteilen, soweit sie zur
 Vorbereitung und Durchführung von aufsichtsrechtlichen Maßnahmen nach
 den heimrechtlichen Vorschriften erforderlich sind. § 115 Abs. 1 Satz
-1 und 2 bleibt hiervon unberührt.
+1 bleibt hiervon unberührt.
 
 (5) Die Pflegekassen und ihre Verbände sowie der Medizinische Dienst
 der Krankenversicherung und der Prüfdienst des Verbandes der privaten
@@ -7232,13 +8667,16 @@ aufschiebende Wirkung.
 
 (1) Bei Erarbeitung oder Änderung
 
-1.  der in § 17 Absatz 1, den §§ 18b, 45a Absatz 2 Satz 3, § 45b Absatz 1
-    Satz 4 und § 114a Absatz 7 vorgesehenen Richtlinien des
-    Spitzenverbandes Bund der Pflegekassen sowie
+1.  der in § 17 Absatz 1, den §§ 18b, 114a Absatz 7 und § 115a Absatz 3
+    bis 5 vorgesehenen Richtlinien des Spitzenverbandes Bund der
+    Pflegekassen sowie
 
 
-2.  der Vereinbarungen der Selbstverwaltungspartner nach § 113 Absatz 1, §
-    113a Absatz 1 und § 115 Absatz 1a
+2.  der Vereinbarungen und Beschlüsse nach § 37 Absatz 5 in der ab dem 1.
+    Januar 2017 geltenden Fassung, den §§ 113, 113a, 115 Absatz 1a sowie §
+    115a Absatz 1 Satz 3 und Absatz 2 durch den Qualitätsausschuss nach §
+    113b sowie der Vereinbarungen und Beschlüsse nach § 113c und der
+    Vereinbarungen nach § 115a Absatz 1 Satz 1
 
 
 
@@ -7246,9 +8684,21 @@ wirken die auf Bundesebene maßgeblichen Organisationen für die
 Wahrnehmung der Interessen und der Selbsthilfe pflegebedürftiger und
 behinderter Menschen nach Maßgabe der Verordnung nach Absatz 2
 beratend mit. Das Mitberatungsrecht beinhaltet auch das Recht zur
-Anwesenheit bei Beschlussfassungen. Wird den schriftlichen Anliegen
-dieser Organisationen nicht gefolgt, sind ihnen auf Verlangen die
-Gründe dafür schriftlich mitzuteilen.
+Anwesenheit bei Beschlussfassungen. Bei den durch den
+Qualitätsausschuss nach § 113b zu treffenden Entscheidungen erhalten
+diese Organisationen das Recht, Anträge zu stellen. Der
+Qualitätsausschuss nach § 113b hat über solche Anträge in der nächsten
+Sitzung zu beraten. Wenn über einen Antrag nicht entschieden werden
+kann, soll in der Sitzung das Verfahren hinsichtlich der weiteren
+Beratung und Entscheidung festgelegt werden. Ehrenamtlich Tätige, die
+von den auf Bundesebene maßgeblichen Organisationen nach Maßgabe einer
+auf Grund des Absatzes 2 erlassenen Verordnung in die Gremien des
+Qualitätsausschusses nach § 113b entsandt werden, damit sie dort die
+in den Sätzen 1 und 3 genannten Rechte dieser Organisationen
+wahrnehmen, haben Anspruch auf Erstattung der Reisekosten, die ihnen
+durch die Entsendung entstanden sind. Das Nähere zur Erstattung der
+Reisekosten regeln die Vereinbarungspartner in der Geschäftsordnung
+nach § 113b Absatz 7.
 
 (2) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates Einzelheiten
@@ -7282,23 +8732,25 @@ Betreuungsvertragsgesetz entsprechend.
 spätestens mit Beginn des ersten Pflegeeinsatzes auch gegenüber dem
 Pflegebedürftigen die Verpflichtung, diesen nach Art und Schwere
 seiner Pflegebedürftigkeit, entsprechend den von ihm in Anspruch
-genommenen Leistungen, zu pflegen und hauswirtschaftlich zu versorgen
-(Pflegevertrag). Bei jeder wesentlichen Veränderung des Zustandes des
-Pflegebedürftigen hat der Pflegedienst dies der zuständigen
-Pflegekasse unverzüglich mitzuteilen.
+genommenen Leistungen der häuslichen Pflegehilfe im Sinne des § 36 zu
+versorgen (Pflegevertrag). Bei jeder wesentlichen Veränderung des
+Zustandes des Pflegebedürftigen hat der Pflegedienst dies der
+zuständigen Pflegekasse unverzüglich mitzuteilen.
 
 (2) Der Pflegedienst hat nach Aufforderung der zuständigen Pflegekasse
 unverzüglich eine Ausfertigung des Pflegevertrages auszuhändigen. Der
 Pflegevertrag kann von dem Pflegebedürftigen jederzeit ohne Einhaltung
 einer Frist gekündigt werden.
 
-(3) In dem Pflegevertrag sind wenigstens Art, Inhalt und Umfang der
+(3) In dem Pflegevertrag sind mindestens Art, Inhalt und Umfang der
 Leistungen einschließlich der dafür mit den Kostenträgern nach § 89
 vereinbarten Vergütungen für jede Leistung oder jeden Leistungskomplex
-gesondert zu beschreiben.
+gesondert zu beschreiben. Der Pflegedienst hat den Pflegebedürftigen
+vor Vertragsschluss und bei jeder wesentlichen Veränderung in der
+Regel schriftlich über die voraussichtlichen Kosten zu unterrichten.
 
-(4) Der Anspruch des Pflegedienstes auf Vergütung seiner pflegerischen
-und hauswirtschaftlichen Leistungen ist unmittelbar gegen die
+(4) Der Anspruch des Pflegedienstes auf Vergütung seiner Leistungen
+der häuslichen Pflegehilfe im Sinne des § 36 ist unmittelbar gegen die
 zuständige Pflegekasse zu richten. Soweit die von dem
 Pflegebedürftigen abgerufenen Leistungen nach Satz 1 den von der
 Pflegekasse mit Bescheid festgelegten und von ihr zu zahlenden
@@ -7343,7 +8795,11 @@ höhere als die nach § 89 vereinbarte Vergütung berechnen.
 
 
 6.  mit der Entrichtung von sechs Monatsprämien zur privaten
-    Pflegeversicherung in Verzug gerät.
+    Pflegeversicherung in Verzug gerät,
+
+
+7.  entgegen § 128 Absatz 1 Satz 4 die dort genannten Daten nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig übermittelt.
 
 
 
@@ -7352,24 +8808,2717 @@ höhere als die nach § 89 vereinbarte Vergütung berechnen.
 Zweitausendfünfhundert Euro geahndet werden.
 
 (3) Für die von privaten Versicherungsunternehmen begangenen
-Ordnungswidrigkeiten nach Absatz 1 Nr. 2 ist das
+Ordnungswidrigkeiten nach Absatz 1 Nummer 2 und 7 ist das
 Bundesversicherungsamt die Verwaltungsbehörde im Sinne des § 36 Abs. 1
 Nr. 1 des Gesetzes über Ordnungswidrigkeiten.
 
+(4) Die für die Verfolgung und Ahndung der Ordnungswidrigkeiten nach
+Absatz 1 Nummer 1 und 6 zuständige Verwaltungsbehörde im Sinne des §
+36 Absatz 1 Nummer 2 Buchstabe a oder Absatz 2 des Gesetzes über
+Ordnungswidrigkeiten kann die zur Ermittlung des Sachverhalts
+erforderlichen Auskünfte, auch elektronisch und als elektronisches
+Dokument, bei den nach § 51 Absatz 1 Satz 1 und 2 und Absatz 2
+Meldepflichtigen einholen. Diese sollen bei der Ermittlung des
+Sachverhalts mitwirken. Sie sollen insbesondere ihnen bekannte
+Tatsachen und Beweismittel angeben. Eine weitergehende Pflicht, bei
+der Ermittlung des Sachverhalts mitzuwirken, insbesondere eine Pflicht
+zum persönlichen Erscheinen oder zur Aussage, besteht nur, soweit sie
+durch Rechtsvorschrift besonders vorgesehen ist.
 
-### § 122 Übergangsregelung
 
-(1) § 45b ist mit Ausnahme des Absatzes 2 Satz 3 erst ab 1. April 2002
-anzuwenden; Absatz 2 Satz 3 ist ab 1. Januar 2003 anzuwenden.
+### § 122 (weggefallen)
 
-(2) Die Spitzenverbände der Pflegekassen haben die nach § 45b Abs. 1
-Satz 4 in der ab dem 1. Juli 2008 geltenden Fassung vorgesehenen
-Richtlinien unter Beteiligung des Medizinischen Dienstes der
-Spitzenverbände der Krankenkassen, des Verbandes der privaten
-Krankenversicherung e. V., der kommunalen Spitzenverbände auf
-Bundesebene und der maßgeblichen Organisationen für die Wahrnehmung
-der Interessen und der Selbsthilfe der pflegebedürftigen und
-behinderten Menschen auf Bundesebene zu beschließen und dem
-Bundesministerium für Gesundheit bis zum 31. Mai 2008 zur Genehmigung
-vorzulegen. § 17 Abs. 2 gilt entsprechend.
+
+## Dreizehntes Kapitel - Befristete Modellvorhaben
+
+
+
+### § 123 Durchführung der Modellvorhaben zur kommunalen Beratung Pflegebedürftiger und ihrer Angehörigen, Verordnungsermächtigung
+
+(1) Die für die Hilfe zur Pflege zuständigen Träger der Sozialhilfe
+nach dem Zwölften Buch können Modellvorhaben zur Beratung von
+Pflegebedürftigen und deren Angehörigen für ihren
+Zuständigkeitsbereich bei der zuständigen obersten Landesbehörde
+beantragen, sofern dies nach Maßgabe landesrechtlicher Vorschriften
+vorgesehen ist. Ist als überörtlicher Träger für die Hilfe zur Pflege
+durch landesrechtliche Vorschriften das Land bestimmt, können die
+örtlichen Träger der Sozialhilfe, die im Auftrag des Landes die Hilfe
+zur Pflege durchführen, Modellvorhaben nach Satz 1 beantragen. Sofern
+sich die Zuständigkeit des jeweiligen Trägers der Sozialhilfe nach dem
+Zwölften Buch auf mehrere Kreise erstreckt, soll sich das
+Modellvorhaben auf einen Kreis oder eine kreisfreie Stadt beschränken.
+Für Stadtstaaten, die nur aus einer kreisfreien Stadt bestehen, ist
+das Modellvorhaben auf jeweils einen Stadtbezirk zu beschränken. Die
+Modellvorhaben umfassen insbesondere die Übernahme folgender Aufgaben
+durch eigene Beratungsstellen:
+
+1.  die Pflegeberatung nach den §§ 7a bis 7c,
+
+
+2.  die Beratung in der eigenen Häuslichkeit nach § 37 Absatz 3 und
+
+
+3.  Pflegekurse nach § 45.
+
+
+
+Die §§ 7a bis 7c, § 17 Absatz 1a, § 37 Absatz 3 Satz 1, 2, 3, 6 erster
+Halbsatz, Satz 7 und Absatz 4 sowie § 45 gelten entsprechend. In den
+Modellvorhaben ist eine Zusammenarbeit bei der Beratung nach Satz 5
+Nummer 1 und 2 insbesondere mit der Beratung zu Leistungen der
+Altenhilfe, der Hilfe zur Pflege nach dem Zwölften Buch und der
+Eingliederungshilfe nach dem Neunten Buch sowie mit der Beratung zu
+Leistungen des öffentlichen Gesundheitsdienstes, zur rechtlichen
+Betreuung, zu behindertengerechten Wohnangeboten, zum öffentlichen
+Nahverkehr und zur Förderung des bürgerschaftlichen Engagements
+sicherzustellen. Abweichend von Satz 5 Nummer 1 und Absatz 6 Satz 1
+kann die Pflegeberatung nach den §§ 7a bis 7c durch die Pflegekassen
+erfolgen, soweit die Zusammenarbeit in der Beratung für den örtlichen
+Geltungsbereich des Modellvorhabens in einer ergänzenden Vereinbarung
+nach § 7a Absatz 7 Satz 4 in Verbindung mit einer Vereinbarung nach
+Absatz 5 gewährleistet ist. Die Landesregierungen werden ermächtigt,
+Schiedsstellen entsprechend § 7c Absatz 7 Satz 1 bis 5 einzurichten
+und eine Rechtsverordnung entsprechend § 7c Absatz 7 Satz 6 zu
+erlassen. Absatz 5 Satz 5 bis 7 gilt entsprechend.
+
+(2) Dem Antrag nach Absatz 1 ist ein Konzept beizufügen, wie die
+Aufgaben durch die Beratungsstellen wahrgenommen werden und mit
+welchen eigenen sächlichen, personellen und finanziellen Mitteln die
+Beratungsstellen ausgestattet werden. Eine Zusammenarbeit mit den
+privaten Versicherungsunternehmen, die die private Pflege-
+Pflichtversicherung durchführen, ist anzustreben und im Konzept
+nachzuweisen. Das Nähere, insbesondere zu den Anforderungen an die
+Beratungsstellen und an die Anträge nach Absatz 1 sowie zum Widerruf
+einer Genehmigung nach § 124 Absatz 2 Satz 1, ist bis zum 31. Dezember
+2018 durch landesrechtliche Vorschriften zu regeln.
+
+(3) Die zuständige oberste Landesbehörde kann höchstens so viele
+Modellvorhaben genehmigen, wie ihr nach dem Königsteiner Schlüssel,
+der für das Jahr 2017 im Bundesanzeiger veröffentlicht ist, bei einer
+Gesamtzahl von insgesamt 60 Modellvorhaben zustehen. Der Antrag kann
+genehmigt werden, wenn die Anforderungen nach den Absätzen 1 und 2 in
+Verbindung mit den landesrechtlichen Vorgaben im Sinne des Absatzes 2
+Satz 3 erfüllt sind. Den kommunalen Spitzenverbänden auf Landesebene
+und den Landesverbänden der Pflegekassen ist zu jedem Antrag vor der
+Genehmigung Gelegenheit zur Stellungnahme zu geben. Die Länder
+insgesamt sollen bei der Genehmigung sicherstellen, dass die Hälfte
+aller bewilligten Modellvorhaben durch Antragsteller nach Absatz 1
+durchgeführt wird, die keine mehrjährigen Erfahrungen in
+strukturierter Zusammenarbeit in der Beratung aufweisen. Länder, die
+innerhalb der in Absatz 2 Satz 3 genannten Frist keine
+landesrechtlichen Regelungen getroffen haben oder die die ihnen
+zustehenden Modellvorhaben nicht nutzen wollen, treten die ihnen
+zustehenden Modellvorhaben an andere Länder ab. Die Verteilung der
+nicht in Anspruch genommenen Modellvorhaben auf die anderen Länder
+wird von den Ländern im Einvernehmen mit dem Bundesministerium für
+Gesundheit bestimmt.
+
+(4) Der Spitzenverband Bund der Pflegekassen beschließt nach Anhörung
+der kommunalen Spitzenverbände sowie der auf Bundesebene maßgeblichen
+Organisationen für die Wahrnehmung der Interessen und der Selbsthilfe
+der pflegebedürftigen und behinderten Menschen und ihrer Angehörigen
+sowie des Verbands der privaten Krankenversicherung e. V. Empfehlungen
+über die konkreten Voraussetzungen, Ziele, Inhalte und Durchführung
+der Modellvorhaben. Die Empfehlungen sind bis zum 30. Juni 2017
+vorzulegen und bedürfen der Zustimmung des Bundesministeriums für
+Gesundheit und der Länder. Das Bundesministerium für Gesundheit trifft
+seine Entscheidung im Benehmen mit dem Bundesministerium für Familie,
+Senioren, Frauen und Jugend. Zur Begleitung der Modellvorhaben eines
+Landes kann die oberste Landesbehörde einen Beirat einrichten, der
+insbesondere aus den kommunalen Spitzenverbänden auf Landesebene und
+den Landesverbänden der Pflegekassen besteht. Aufgaben des Beirates
+sind insbesondere, die oberste Landesbehörde bei der Klärung
+fachlicher und verfahrensbezogener Fragen zu beraten, sowie der
+Austausch der Mitglieder untereinander über die Unterstützung der
+Modellvorhaben in eigener Zuständigkeit.
+
+(5) Ist ein Antrag nach Absatz 3 Satz 2 genehmigt, trifft der
+Antragsteller mit den Landesverbänden der Pflegekassen gemeinsam und
+einheitlich eine Vereinbarung
+
+1.  zur Zusammenarbeit,
+
+
+2.  zur Einbeziehung bestehender Beratungs- und Kursangebote,
+
+
+3.  zu Nachweis- und Berichtspflichten gegenüber den Landesverbänden der
+    Pflegekassen,
+
+
+4.  zum Übergang der Beratungsaufgaben auf die Beratungsstellen nach
+    Absatz 1 Satz 5,
+
+
+5.  zur Haftung für Schäden, die den Pflegekassen durch fehlerhafte
+    Beratung entstehen, und
+
+
+6.  zur Beteiligung der Pflegekassen mit sächlichen, personellen und
+    finanziellen Mitteln.
+
+
+
+Der Beitrag der Pflegekassen nach Satz 1 Nummer 6 darf den Aufwand
+nicht übersteigen, der entstehen würde, wenn sie die Aufgaben anstelle
+der Antragsteller nach Absatz 1 im selben Umfang selbst erbringen
+würden. Grundlage hierfür sind die bisherigen Ausgaben der
+Pflegekassen für die Aufgabenerfüllung nach Absatz 1 Satz 5. Die
+Landesregierungen werden ermächtigt, Schiedsstellen entsprechend § 7c
+Absatz 7 Satz 1 bis 5 einzurichten und eine Rechtsverordnung
+entsprechend § 7c Absatz 7 Satz 6 zu erlassen. Abweichend von Satz 4
+können die Parteien der Vereinbarung nach Satz 1 einvernehmlich eine
+unparteiische Schiedsperson und zwei unparteiische Mitglieder
+bestellen, die den Inhalt der Vereinbarung nach Satz 1 innerhalb von
+sechs Wochen nach ihrer Bestellung festlegen. Die Kosten des
+Schiedsverfahrens tragen die Parteien der Vereinbarung zu gleichen
+Teilen. Kommt eine Einigung der Landesverbände der Pflegekassen
+untereinander nicht zustande, erfolgt die Beschlussfassung durch die
+Mehrheit der in § 52 Absatz 1 Satz 1 genannten Stellen.
+
+(6) Mit dem Inkrafttreten der Vereinbarung nach Absatz 5 Satz 1 geht
+die Verantwortung für die Pflegeberatung nach den §§ 7a bis 7c und für
+die Beratung in der eigenen Häuslichkeit nach § 37 Absatz 3 von
+anspruchsberechtigten Pflegebedürftigen mit Wohnort im Bereich der
+örtlichen Zuständigkeit der Beratungsstelle und von deren Angehörigen
+sowie für die Pflegekurse nach § 45 auf den Antragsteller nach Absatz
+1 über. Die Antragsteller können sich zur Erfüllung ihrer Aufgaben
+Dritter bedienen. Die Erfüllung der Aufgaben durch Dritte ist im
+Konzept nach Absatz 2 darzulegen. Sofern sie sich für die Beratung in
+der eigenen Häuslichkeit nach § 37 Absatz 3 Dritter bedienen, ist die
+Leistungserbringung allen in § 37 Absatz 3 Satz 1 und Absatz 8
+genannten Einrichtungen zu ermöglichen.
+
+(7) Während der Durchführung des Modellvorhabens weist der
+Antragsteller gegenüber der obersten Landesbehörde und den am Vertrag
+beteiligten Landesverbänden der Pflegekassen die Höhe der
+eingebrachten sächlichen und personellen Mittel je Haushaltsjahr nach.
+Diese Mittel dürfen die durchschnittlich aufgewendeten
+Verwaltungsausgaben für die Hilfe zur Pflege und die
+Eingliederungshilfe bezogen auf den einzelnen Empfänger und für die
+Altenhilfe bezogen auf alte Menschen im Haushaltsjahr vor Beginn des
+Modellvorhabens nicht unterschreiten; Ausnahmen hiervon sind bei den
+sächlichen Mitteln möglich, soweit sich die Abweichung nachweislich
+aus Einsparungen aufgrund der Zusammenlegung von Beratungsaufgaben
+ergibt. Die Mittel sind auf der Grundlage der Haushaltsaufstellung im
+Konzept nach Absatz 2 Satz 1 nachzuweisen.
+
+
+### § 124 Befristung, Widerruf und Begleitung der Modellvorhaben zur kommunalen Beratung; Beirat
+
+(1) Anträge zur Durchführung von Modellvorhaben können bis zum 31.
+Dezember 2019 gestellt werden. Modellvorhaben nach diesem Kapitel sind
+auf fünf Jahre zu befristen.
+
+(2) Die Genehmigung zur Durchführung eines Modellvorhabens ist zu
+widerrufen, wenn die in § 123 Absatz 1 Satz 5 genannten Aufgaben nicht
+in vollem Umfang erfüllt werden. Die Genehmigung ist auch dann zu
+widerrufen, wenn die nach § 123 Absatz 5 Satz 1 vereinbarten oder die
+in § 123 Absatz 5 Satz 2 oder Absatz 7 festgelegten Anforderungen
+überwiegend nicht erfüllt werden. Eine Klage gegen den Widerruf hat
+keine aufschiebende Wirkung. Die zuständige oberste Landesbehörde
+überprüft die Erfüllung der Aufgaben nach § 123 Absatz 1 anhand der
+wissenschaftlichen Begleitung und Auswertung nach Absatz 3 zum
+Abschluss des jeweiligen Haushaltsjahres. Sie überprüft die Erfüllung
+der Anforderungen nach § 123 Absatz 7 anhand der jeweiligen
+Haushaltspläne.
+
+(3) Der Spitzenverband Bund der Pflegekassen und die für die
+Modellvorhaben nach § 123 Absatz 1 Satz 1 zuständigen obersten
+Landesbehörden veranlassen gemeinsam im Einvernehmen mit dem
+Bundesministerium für Gesundheit und im Benehmen mit den kommunalen
+Spitzenverbänden eine wissenschaftliche Begleitung und Auswertung
+aller Modellvorhaben durch unabhängige Sachverständige. Die Auswertung
+erfolgt nach allgemein anerkannten wissenschaftlichen Standards
+hinsichtlich der Wirksamkeit, Qualität und Kosten der Beratung im
+Vergleich zur Beratung vor Beginn des jeweiligen Modellvorhabens und
+außerhalb der Modellvorhaben. Die Auswertung schließt einen Vergleich
+mit den Beratungsangeboten der sozialen Pflegeversicherung und der
+privaten Pflege-Pflichtversicherung jeweils außerhalb der
+Modellvorhaben ein. Die unabhängigen Sachverständigen haben einen
+Zwischenbericht und einen Abschlussbericht über die Ergebnisse der
+Auswertungen zu erstellen. Der Zwischenbericht ist spätestens am 31.
+Dezember 2023 und der Abschlussbericht spätestens am 31. Juli 2026 zu
+veröffentlichen. Die Kosten der wissenschaftlichen Begleitung und der
+Auswertung der Modellvorhaben tragen je zur Hälfte die für diese
+Modellvorhaben zuständigen obersten Landesbehörden gemeinsam und der
+Spitzenverband Bund der Pflegekassen, dessen Beitrag aus Mitteln des
+Ausgleichsfonds nach § 65 zu finanzieren ist.
+
+(4) Die nach Landesrecht zuständigen Stellen begleiten die
+Modellvorhaben über die gesamte Laufzeit und sorgen für einen
+bundesweiten Austausch der Modellvorhaben untereinander unter
+Beteiligung der für die Begleitung und Auswertung nach Absatz 3
+zuständigen unabhängigen Sachverständigen sowie des Spitzenverbandes
+Bund der Pflegekassen und der kommunalen Spitzenverbände. Bei der
+Organisation und Durchführung des Austausches können sich die nach
+Landesrecht zuständigen Stellen von den unabhängigen Sachverständigen
+unterstützen lassen, die die wissenschaftliche Begleitung und
+Auswertung nach Absatz 3 durchführen.
+
+(5) Der Spitzenverband Bund der Pflegekassen richtet einen Beirat zur
+Begleitung der Modellvorhaben im Einvernehmen mit dem
+Bundesministerium für Gesundheit ein. Der Beirat tagt mindestens
+zweimal jährlich und berät den Sachstand der Modellvorhaben. Ihm
+gehören Vertreterinnen und Vertreter der kommunalen Spitzenverbände,
+der Länder, der Pflegekassen, der Wissenschaft, des Bundesministeriums
+für Gesundheit und des Bundesministeriums für Familie, Senioren,
+Frauen und Jugend an.
+
+
+### § 125 Modellvorhaben zur Erprobung von Leistungen der häuslichen Betreuung durch Betreuungsdienste
+
+(1) Der Spitzenverband Bund der Pflegekassen kann in den Jahren 2013
+und 2014 aus Mitteln des Ausgleichsfonds der Pflegeversicherung mit
+bis zu 5 Millionen Euro Modellvorhaben zur Erprobung von Leistungen
+der häuslichen Betreuung durch Betreuungsdienste vereinbaren. Dienste
+können als Betreuungsdienste Vereinbarungspartner werden, die
+insbesondere für demenziell erkrankte Pflegebedürftige dauerhaft
+häusliche Betreuung und hauswirtschaftliche Versorgung erbringen.
+
+(2) Die Modellvorhaben sind darauf auszurichten, die Wirkungen des
+Einsatzes von Betreuungsdiensten auf die pflegerische Versorgung
+umfassend bezüglich Qualität, Wirtschaftlichkeit, Inhalt der
+erbrachten Leistungen und Akzeptanz bei den Pflegebedürftigen zu
+untersuchen und sind auf längstens drei Jahre zu befristen. Für die
+Modellvorhaben ist eine wissenschaftliche Begleitung und Auswertung
+vorzusehen. Soweit im Rahmen der Modellvorhaben personenbezogene Daten
+benötigt werden, können diese mit Einwilligung des Pflegebedürftigen
+erhoben, verarbeitet und genutzt werden. Der Spitzenverband Bund der
+Pflegekassen bestimmt Ziele, Dauer, Inhalte und Durchführung der
+Modellvorhaben. Die Modellvorhaben sind mit dem Bundesministerium für
+Gesundheit abzustimmen.
+
+(3) Auf die am Modell teilnehmenden Dienste sind die Vorschriften
+dieses Buches für Pflegedienste entsprechend anzuwenden. Anstelle der
+verantwortlichen Pflegefachkraft können sie eine entsprechend
+qualifizierte, fachlich geeignete und zuverlässige Kraft mit
+praktischer Berufserfahrung im erlernten Beruf von zwei Jahren
+innerhalb der letzten acht Jahre als verantwortliche Kraft einsetzen;
+§ 71 Absatz 3 Satz 4 ist entsprechend anzuwenden. Die Zulassung der
+teilnehmenden Betreuungsdienste zur Versorgung bleibt bis zu zwei
+Jahre nach dem Ende des Modellprogramms gültig.
+
+
+## Vierzehntes Kapitel - Zulagenförderung der privaten Pflegevorsorge
+
+
+
+### § 126 Zulageberechtigte
+
+Personen, die nach dem Dritten Kapitel in der sozialen oder privaten
+Pflegeversicherung versichert sind (zulageberechtigte Personen), haben
+bei Vorliegen einer auf ihren Namen lautenden privaten Pflege-
+Zusatzversicherung unter den in § 127 Absatz 2 genannten
+Voraussetzungen Anspruch auf eine Pflegevorsorgezulage. Davon
+ausgenommen sind Personen, die das 18. Lebensjahr noch nicht vollendet
+haben, sowie Personen, die vor Abschluss der privaten Pflege-
+Zusatzversicherung bereits als Pflegebedürftige Leistungen nach dem
+Vierten Kapitel oder gleichwertige Vertragsleistungen der privaten
+Pflege-Pflichtversicherung beziehen oder bezogen haben.
+
+
+### § 127 Pflegevorsorgezulage; Fördervoraussetzungen
+
+(1) Leistet die zulageberechtigte Person mindestens einen Beitrag von
+monatlich 10 Euro im jeweiligen Beitragsjahr zugunsten einer auf ihren
+Namen lautenden, gemäß Absatz 2 förderfähigen privaten Pflege-
+Zusatzversicherung, hat sie Anspruch auf eine Zulage in Höhe von
+monatlich 5 Euro. Die Zulage wird bei dem Mindestbeitrag nach Satz 1
+nicht berücksichtigt. Die Zulage wird je zulageberechtigter Person für
+jeden Monat nur für einen Versicherungsvertrag gewährt. Der
+Mindestbeitrag und die Zulage sind für den förderfähigen Tarif zu
+verwenden.
+
+(2) Eine nach diesem Kapitel förderfähige private Pflege-
+Zusatzversicherung liegt vor, wenn das Versicherungsunternehmen
+hierfür
+
+1.  die Kalkulation nach Art der Lebensversicherung gemäß § 146 Absatz 1
+    Nummer 1 und 2 des Versicherungsaufsichtsgesetzes vorsieht,
+
+
+2.  allen in § 126 genannten Personen einen Anspruch auf Versicherung
+    gewährt,
+
+
+3.  auf das ordentliche Kündigungsrecht sowie auf eine Risikoprüfung und
+    die Vereinbarung von Risikozuschlägen und Leistungsausschlüssen
+    verzichtet,
+
+
+4.  bei Vorliegen von Pflegebedürftigkeit im Sinne des § 14 einen
+    vertraglichen Anspruch auf Auszahlung von Geldleistungen für jeden der
+    in § 15 Absatz 3 und 7 aufgeführten Pflegegrade, dabei in Höhe von
+    mindestens 600 Euro für Pflegegrad 5, vorsieht; die tariflich
+    vorgesehenen Geldleistungen dürfen dabei die zum Zeitpunkt des
+    Vertragsabschlusses jeweils geltende Höhe der Leistungen dieses Buches
+    nicht überschreiten, eine Dynamisierung bis zur Höhe der allgemeinen
+    Inflationsrate ist jedoch zulässig; weitere Leistungen darf der
+    förderfähige Tarif nicht vorsehen,
+
+
+5.  bei der Feststellung des Versicherungsfalles sowie der Festsetzung des
+    Pflegegrades dem Ergebnis des Verfahrens zur Feststellung der
+    Pflegebedürftigkeit gemäß § 18 folgt; bei Versicherten der privaten
+    Pflege-Pflichtversicherung sind die entsprechenden Feststellungen des
+    privaten Versicherungsunternehmens zugrunde zu legen,
+
+
+6.  die Wartezeit auf höchstens fünf Jahre beschränkt,
+
+
+7.  einem Versicherungsnehmer, der hilfebedürftig im Sinne des Zweiten
+    oder Zwölften Buches ist oder allein durch Zahlung des Beitrags
+    hilfebedürftig würde, einen Anspruch gewährt, den Vertrag ohne
+    Aufrechterhaltung des Versicherungsschutzes für eine Dauer von
+    mindestens drei Jahren ruhen zu lassen oder den Vertrag binnen einer
+    Frist von drei Monaten nach Eintritt der Hilfebedürftigkeit
+    rückwirkend zum Zeitpunkt des Eintritts zu kündigen; für den Fall der
+    Ruhendstellung beginnt diese Frist mit dem Ende der Ruhendstellung,
+    wenn Hilfebedürftigkeit weiterhin vorliegt,
+
+
+8.  die Höhe der in Ansatz gebrachten Verwaltungs- und Abschlusskosten
+    begrenzt; das Nähere dazu wird in der Rechtsverordnung nach § 130
+    geregelt.
+
+
+
+Der Verband der privaten Krankenversicherung e. V. wird damit
+beliehen, hierfür brancheneinheitliche Vertragsmuster festzulegen, die
+von den Versicherungsunternehmen als Teil der Allgemeinen
+Versicherungsbedingungen förderfähiger Pflege-Zusatzversicherungen zu
+verwenden sind. Die Beleihung nach Satz 2 umfasst die Befugnis, für
+Versicherungsunternehmen, die förderfähige private Pflege-
+Zusatzversicherungen anbieten, einen Ausgleich für Überschäden
+einzurichten; § 111 Absatz 1 Satz 1 und 2 und Absatz 2 gilt
+entsprechend. Die Fachaufsicht über den Verband der privaten
+Krankenversicherung e. V. zu den in den Sätzen 2 und 3 genannten
+Aufgaben übt das Bundesministerium für Gesundheit aus.
+
+(3) Der Anspruch auf die Zulage entsteht mit Ablauf des
+Kalenderjahres, für das die Beiträge zu einer privaten Pflege-
+Zusatzversicherung gemäß § 127 Absatz 1 geleistet worden sind
+(Beitragsjahr).
+
+
+### § 128 Verfahren; Haftung des Versicherungsunternehmens
+
+(1) Die Zulage gemäß § 127 Absatz 1 wird auf Antrag gewährt. Die
+zulageberechtigte Person bevollmächtigt das Versicherungsunternehmen
+mit dem Abschluss des Vertrags über eine förderfähige private Pflege-
+Zusatzversicherung, die Zulage für jedes Beitragsjahr zu beantragen.
+Sofern eine Zulagenummer oder eine Versicherungsnummer nach § 147 des
+Sechsten Buches für die zulageberechtigte Person noch nicht vergeben
+ist, bevollmächtigt sie zugleich ihr Versicherungsunternehmen, eine
+Zulagenummer bei der zentralen Stelle zu beantragen. Das
+Versicherungsunternehmen ist verpflichtet, der zentralen Stelle nach
+amtlich vorgeschriebenem Datensatz durch amtlich bestimmte
+Datenfernübertragung zur Feststellung der Anspruchsberechtigung auf
+Auszahlung der Zulage zugleich mit dem Antrag in dem Zeitraum vom 1.
+Januar bis zum 31. März des Kalenderjahres, das auf das Beitragsjahr
+folgt, Folgendes zu übermitteln:
+
+1.  die Antragsdaten,
+
+
+2.  die Höhe der für die zulagefähige private Pflege-Zusatzversicherung
+    geleisteten Beiträge,
+
+
+3.  die Vertragsdaten,
+
+
+4.  die Versicherungsnummer nach § 147 des Sechsten Buches, die
+    Zulagenummer der zulageberechtigten Person oder einen Antrag auf
+    Vergabe einer Zulagenummer,
+
+
+5.  weitere zur Auszahlung der Zulage erforderliche Angaben,
+
+
+6.  die Bestätigung, dass der Antragsteller eine zulageberechtigte Person
+    im Sinne des § 126 ist, sowie
+
+
+7.  die Bestätigung, dass der jeweilige Versicherungsvertrag die
+    Voraussetzungen des § 127 Absatz 2 erfüllt.
+
+
+
+Die zulageberechtigte Person ist verpflichtet, dem
+Versicherungsunternehmen unverzüglich eine Änderung der Verhältnisse
+mitzuteilen, die zu einem Wegfall des Zulageanspruchs führt. Hat für
+das Beitragsjahr, für das das Versicherungsunternehmen bereits eine
+Zulage beantragt hat, kein Zulageanspruch bestanden, hat das
+Versicherungsunternehmen diesen Antragsdatensatz zu stornieren.
+
+(2) Die Auszahlung der Zulage erfolgt durch eine zentrale Stelle bei
+der Deutschen Rentenversicherung Bund; das Nähere, insbesondere die
+Höhe der Verwaltungskostenerstattung, wird durch
+Verwaltungsvereinbarung zwischen dem Bundesministerium für Gesundheit
+und der Deutschen Rentenversicherung Bund geregelt. Die Zulage wird
+bei Vorliegen der Voraussetzungen an das Versicherungsunternehmen
+gezahlt, bei dem der Vertrag über die private Pflege-
+Zusatzversicherung besteht, für den die Zulage beantragt wurde. Wird
+für eine zulageberechtigte Person die Zulage für mehr als einen
+privaten Pflege-Zusatzversicherungsvertrag beantragt, so wird die
+Zulage für den jeweiligen Monat nur für den Vertrag gewährt, für den
+der Antrag zuerst bei der zentralen Stelle eingegangen ist. Soweit der
+zuständige Träger der Rentenversicherung keine Versicherungsnummer
+vergeben hat, vergibt die zentrale Stelle zur Erfüllung der ihr
+zugewiesenen Aufgaben eine Zulagenummer. Im Fall eines Antrags nach
+Absatz 1 Satz 3 teilt die zentrale Stelle dem Versicherungsunternehmen
+die Zulagenummer mit; von dort wird sie an den Antragsteller
+weitergeleitet. Die zentrale Stelle stellt aufgrund der ihr
+vorliegenden Informationen fest, ob ein Anspruch auf Zulage besteht,
+und veranlasst die Auszahlung an das Versicherungsunternehmen
+zugunsten der zulageberechtigten Person. Ein gesonderter
+Zulagebescheid ergeht vorbehaltlich des Satzes 9 nicht. Das
+Versicherungsunternehmen hat die erhaltenen Zulagen unverzüglich dem
+begünstigten Vertrag gutzuschreiben. Eine Festsetzung der Zulage
+erfolgt nur auf besonderen Antrag der zulageberechtigten Person. Der
+Antrag ist schriftlich innerhalb eines Jahres nach Übersendung der
+Information nach Absatz 3 durch das Versicherungsunternehmen vom
+Antragsteller an das Versicherungsunternehmen zu richten. Das
+Versicherungsunternehmen leitet den Antrag der zentralen Stelle zur
+Festsetzung zu. Es hat dem Antrag eine Stellungnahme und die zur
+Festsetzung erforderlichen Unterlagen beizufügen. Die zentrale Stelle
+teilt die Festsetzung auch dem Versicherungsunternehmen mit. Erkennt
+die zentrale Stelle nachträglich, dass der Zulageanspruch nicht
+bestanden hat oder weggefallen ist, so hat sie zu Unrecht
+gutgeschriebene oder ausgezahlte Zulagen zurückzufordern und dies dem
+Versicherungsunternehmen durch Datensatz mitzuteilen.
+
+(3) Kommt die zentrale Stelle zu dem Ergebnis, dass kein Anspruch auf
+Zulage besteht oder bestanden hat, teilt sie dies dem
+Versicherungsunternehmen mit. Dieses hat die versicherte Person
+innerhalb eines Monats nach Eingang des entsprechenden Datensatzes
+darüber zu informieren.
+
+(4) Das Versicherungsunternehmen haftet im Fall der Auszahlung einer
+Zulage gegenüber dem Zulageempfänger dafür, dass die in § 127 Absatz 2
+genannten Voraussetzungen erfüllt sind.
+
+(5) Die von der zentralen Stelle veranlassten Auszahlungen von
+Pflegevorsorgezulagen sowie die entstehenden Verwaltungskosten werden
+vom Bundesministerium für Gesundheit getragen. Zu den
+Verwaltungskosten gehören auch die entsprechenden Kosten für den
+Aufbau der technischen und organisatorischen Infrastruktur. Die
+gesamten Verwaltungskosten werden nach Ablauf eines jeden
+Beitragsjahres erstattet; dabei sind die Personal- und Sachkostensätze
+des Bundes entsprechend anzuwenden. Ab dem Jahr 2014 werden monatliche
+Abschläge gezahlt. Soweit das Bundesversicherungsamt die Aufsicht über
+die zentrale Stelle ausübt, untersteht es abweichend von § 94 Absatz 2
+Satz 2 des Vierten Buches dem Bundesministerium für Gesundheit.
+
+
+### § 129 Wartezeit bei förderfähigen Pflege-Zusatzversicherungen
+
+Soweit im Vertrag über eine gemäß § 127 Absatz 2 förderfähige private
+Pflege-Zusatzversicherung eine Wartezeit vereinbart wird, darf diese
+abweichend von § 197 Absatz 1 des Versicherungsvertragsgesetzes fünf
+Jahre nicht überschreiten.
+
+
+### § 130 Verordnungsermächtigung
+
+Das Bundesministerium für Gesundheit wird ermächtigt, im Einvernehmen
+mit dem Bundesministerium der Finanzen und dem Bundesministerium für
+Arbeit und Soziales durch Rechtsverordnung ohne Zustimmung des
+Bundesrates Vorschriften zu erlassen, die Näheres regeln über
+
+1.  die zentrale Stelle gemäß § 128 Absatz 2 und ihre Aufgaben,
+
+
+2.  das Verfahren für die Ermittlung, Festsetzung, Auszahlung, Rückzahlung
+    und Rückforderung der Zulage,
+
+
+3.  den Datenaustausch zwischen Versicherungsunternehmen und zentraler
+    Stelle nach § 128 Absatz 1 und 2,
+
+
+4.  die Begrenzung der Höhe der bei förderfähigen Pflege-
+    Zusatzversicherungen in Ansatz gebrachten Verwaltungs- und
+    Abschlusskosten.
+
+
+
+
+
+## Fünfzehntes Kapitel - Bildung eines Pflegevorsorgefonds
+
+
+
+### § 131 Pflegevorsorgefonds
+
+In der sozialen Pflegeversicherung wird ein Sondervermögen unter dem
+Namen „Vorsorgefonds der sozialen Pflegeversicherung“ errichtet.
+
+
+### § 132 Zweck des Vorsorgefonds
+
+Das Sondervermögen dient der langfristigen Stabilisierung der
+Beitragsentwicklung in der sozialen Pflegeversicherung. Es darf nach
+Maßgabe des § 136 nur zur Finanzierung der Leistungsaufwendungen der
+sozialen Pflegeversicherung verwendet werden.
+
+
+### § 133 Rechtsform
+
+Das Sondervermögen ist nicht rechtsfähig. Es kann unter seinem Namen
+im rechtsgeschäftlichen Verkehr handeln, klagen und verklagt werden.
+Der allgemeine Gerichtsstand des Sondervermögens ist Frankfurt am
+Main.
+
+
+### § 134 Verwaltung und Anlage der Mittel
+
+(1) Die Verwaltung und die Anlage der Mittel des Sondervermögens
+werden der Deutschen Bundesbank übertragen. Für die Verwaltung des
+Sondervermögens und seiner Mittel werden der Bundesbank entsprechend §
+20 Satz 2 des Gesetzes über die Deutsche Bundesbank keine Kosten
+erstattet.
+
+(2) Die dem Sondervermögen zufließenden Mittel einschließlich der
+Erträge sind unter sinngemäßer Anwendung der Anlagerichtlinien für die
+Sondervermögen „Versorgungsrücklage des Bundes“, „Versorgungsfonds des
+Bundes“, „Versorgungsfonds der Bundesagentur für Arbeit“ und
+„Vorsorgefonds der sozialen Pflegeversicherung“ (Anlagerichtlinien
+Sondervermögen) zu marktüblichen Bedingungen anzulegen. Dabei ist der
+in Aktien oder Aktienfonds angelegte Anteil des Sondervermögens ab dem
+Jahr 2035 über einen Zeitraum von höchstens zehn Jahren abzubauen. Das
+Bundesministerium für Gesundheit ist im Anlageausschuss nach § 5 der
+Anlagerichtlinien für die Sondervermögen „Versorgungsrücklage des
+Bundes“, „Versorgungsfonds des Bundes“, „Versorgungsfonds der
+Bundesagentur für Arbeit“ und „Vorsorgefonds der sozialen
+Pflegeversicherung“ (Anlagerichtlinien Sondervermögen) vertreten.
+
+
+### § 135 Zuführung der Mittel
+
+(1) Das Bundesversicherungsamt führt dem Sondervermögen monatlich zum
+20\. des Monats zu Lasten des Ausgleichsfonds einen Betrag zu, der
+einem Zwölftel von 0,1 Prozent der beitragspflichtigen Einnahmen der
+sozialen Pflegeversicherung des Vorjahres entspricht. Für die
+Berechnung des Abführungsbetrags wird der Beitragssatz gemäß § 55
+Absatz 1 zugrunde gelegt.
+
+(2) Die Zuführung nach Absatz 1 erfolgt erstmals zum 20. Februar 2015
+und endet mit der Zahlung für Dezember 2033.
+
+
+### § 136 Verwendung des Sondervermögens
+
+Ab dem Jahr 2035 kann das Sondervermögen zur Sicherung der
+Beitragssatzstabilität der sozialen Pflegeversicherung verwendet
+werden, wenn ohne eine Zuführung von Mitteln an den Ausgleichsfonds
+eine Beitragssatzanhebung erforderlich würde, die nicht auf über eine
+allgemeine Dynamisierung der Leistungen hinausgehenden
+Leistungsverbesserungen beruht. Die Obergrenze der jährlich auf
+Anforderung des Bundesversicherungsamtes an den Ausgleichsfonds
+abführbaren Mittel ist der 20. Teil des Realwertes des zum 31.
+Dezember 2034 vorhandenen Mittelbestandes des Sondervermögens. Erfolgt
+in einem Jahr kein Abruf, so können die für dieses Jahr vorgesehenen
+Mittel in den Folgejahren mit abgerufen werden, wenn ohne eine
+entsprechende Zuführung von Mitteln an den Ausgleichsfonds eine
+Beitragssatzanhebung erforderlich würde, die nicht auf über eine
+allgemeine Dynamisierung der Leistungen hinausgehenden
+Leistungsverbesserungen beruht.
+
+
+### § 137 Vermögenstrennung
+
+Das Vermögen ist von dem übrigen Vermögen der sozialen
+Pflegeversicherung sowie von seinen Rechten und Verbindlichkeiten
+getrennt zu halten.
+
+
+### § 138 Jahresrechnung
+
+Die Deutsche Bundesbank legt dem Bundesministerium für Gesundheit
+jährlich einen Bericht über die Verwaltung der Mittel des
+Sondervermögens vor. Darin sind der Bestand des Sondervermögens
+einschließlich der Forderungen und Verbindlichkeiten sowie die
+Einnahmen und Ausgaben auszuweisen.
+
+
+### § 139 Auflösung
+
+Das Sondervermögen gilt nach Auszahlung seines Vermögens als
+aufgelöst.
+
+
+## Sechzehntes Kapitel - Überleitungs- und Übergangsrecht
+
+
+
+### Erster Abschnitt - Regelungen zur Rechtsanwendung im Übergangszeitraum, zur Überleitung in die Pflegegrade, zum Besitzstandsschutz für Leistungen der Pflegeversicherung sowie Übergangsregelungen im Begutachtungsverfahren im Rahmen der Einführung des neuen Pflegebedürftigkeitsbegriffs
+
+
+
+#### § 140 Anzuwendendes Recht und Überleitung in die Pflegegrade
+
+(1) Die Feststellung des Vorliegens von Pflegebedürftigkeit oder einer
+erheblich eingeschränkten Alltagskompetenz nach § 45a in der am 31.
+Dezember 2016 geltenden Fassung erfolgt jeweils auf der Grundlage des
+zum Zeitpunkt der Antragstellung geltenden Rechts. Der Erwerb einer
+Anspruchsberechtigung auf Leistungen der Pflegeversicherung richtet
+sich ebenfalls nach dem zum Zeitpunkt der Antragstellung geltenden
+Recht.
+
+(2) Versicherte der sozialen Pflegeversicherung und der privaten
+Pflege-Pflichtversicherung,
+
+1.  bei denen das Vorliegen einer Pflegestufe im Sinne der §§ 14 und 15 in
+    der am 31. Dezember 2016 geltenden Fassung oder einer erheblich
+    eingeschränkten Alltagskompetenz nach § 45a in der am 31. Dezember
+    2016 geltenden Fassung festgestellt worden ist und
+
+
+2.  bei denen spätestens am 31. Dezember 2016 alle Voraussetzungen für
+    einen Anspruch auf eine regelmäßig wiederkehrende Leistung der
+    Pflegeversicherung vorliegen,
+
+
+
+werden mit Wirkung ab dem 1. Januar 2017 ohne erneute Antragstellung
+und ohne erneute Begutachtung nach Maßgabe von Satz 3 einem Pflegegrad
+zugeordnet. Die Zuordnung ist dem Versicherten schriftlich
+mitzuteilen. Für die Zuordnung gelten die folgenden Kriterien:
+
+1.  Versicherte, bei denen eine Pflegestufe nach den §§ 14 und 15 in der
+    am 31. Dezember 2016 geltenden Fassung, aber nicht zusätzlich eine
+    erheblich eingeschränkte Alltagskompetenz nach § 45a in der am 31.
+    Dezember 2016 geltenden Fassung festgestellt wurde, werden
+    übergeleitet
+
+    a)  von Pflegestufe I in den Pflegegrad 2,
+
+
+    b)  von Pflegestufe II in den Pflegegrad 3,
+
+
+    c)  von Pflegestufe III in den Pflegegrad 4 oder
+
+
+    d)  von Pflegestufe III in den Pflegegrad 5, soweit die Voraussetzungen
+        für Leistungen nach § 36 Absatz 4 oder § 43 Absatz 3 in der am 31.
+        Dezember 2016 geltenden Fassung festgestellt wurden;
+
+
+
+
+
+2.  Versicherte, bei denen eine erheblich eingeschränkte Alltagskompetenz
+    nach § 45a in der am 31. Dezember 2016 geltenden Fassung festgestellt
+    wurde, werden übergeleitet
+
+    a)  bei nicht gleichzeitigem Vorliegen einer Pflegestufe nach den §§ 14
+        und 15 in der am 31. Dezember 2016 geltenden Fassung in den Pflegegrad
+        2,
+
+
+    b)  bei gleichzeitigem Vorliegen der Pflegestufe I nach den §§ 14 und 15
+        in der am 31. Dezember 2016 geltenden Fassung in den Pflegegrad 3,
+
+
+    c)  bei gleichzeitigem Vorliegen der Pflegestufe II nach den §§ 14 und 15
+        in der am 31. Dezember 2016 geltenden Fassung in den Pflegegrad 4,
+
+
+    d)  bei gleichzeitigem Vorliegen der Pflegestufe III nach den §§ 14 und 15
+        in der am 31. Dezember 2016 geltenden Fassung, auch soweit zusätzlich
+        die Voraussetzungen für Leistungen nach § 36 Absatz 4 oder § 43 Absatz
+        3 in der am 31. Dezember 2016 geltenden Fassung festgestellt wurden,
+        in den Pflegegrad 5.
+
+
+
+
+
+
+
+(3) Die Zuordnung zu dem Pflegegrad, in den der Versicherte gemäß
+Absatz 2 übergeleitet worden ist, bleibt auch bei einer Begutachtung
+nach dem ab dem 1. Januar 2017 geltenden Recht erhalten, es sei denn,
+die Begutachtung führt zu einer Anhebung des Pflegegrades oder zu der
+Feststellung, dass keine Pflegebedürftigkeit im Sinne der §§ 14 und 15
+in der ab dem 1. Januar 2017 geltenden Fassung mehr vorliegt. Satz 1
+gilt auch bei einem Erlöschen der Mitgliedschaft im Sinne von § 35 ab
+dem 1. Januar 2017, wenn die neue Mitgliedschaft unmittelbar im
+Anschluss begründet wird. Die Pflegekasse, bei der die Mitgliedschaft
+beendet wird, ist verpflichtet, der Pflegekasse, bei der die neue
+Mitgliedschaft begründet wird, die bisherige Einstufung des
+Versicherten rechtzeitig schriftlich mitzuteilen. Entsprechendes gilt
+bei einem Wechsel zwischen privaten Krankenversicherungsunternehmen
+und einem Wechsel von sozialer zu privater sowie von privater zu
+sozialer Pflegeversicherung.
+
+(4) Stellt ein Versicherter, bei dem das Vorliegen einer
+Pflegebedürftigkeit oder einer erheblich eingeschränkten
+Alltagskompetenz nach § 45a in der am 31. Dezember 2016 geltenden
+Fassung festgestellt wurde, ab dem 1. Januar 2017 einen erneuten
+Antrag auf Feststellung von Pflegebedürftigkeit und lagen die
+tatsächlichen Voraussetzungen für einen höheren als durch die
+Überleitung erreichten Pflegegrad bereits vor dem 1. Januar 2017 vor,
+richten sich die ab dem Zeitpunkt der Änderung der tatsächlichen
+Verhältnisse zu erbringenden Leistungen im Zeitraum vom 1. November
+2016 bis 31. Dezember 2016 nach dem ab 1. Januar 2017 geltenden Recht.
+Entsprechendes gilt für Versicherte bei einem privaten
+Pflegeversicherungsunternehmen.
+
+
+#### § 141 Besitzstandsschutz und Übergangsrecht zur sozialen Sicherung von Pflegepersonen
+
+(1) Versicherte der sozialen Pflegeversicherung und der privaten
+Pflege-Pflichtversicherung sowie Pflegepersonen, die am 31. Dezember
+2016 Anspruch auf Leistungen der Pflegeversicherung haben, erhalten
+Besitzstandsschutz auf die ihnen unmittelbar vor dem 1. Januar 2017
+zustehenden, regelmäßig wiederkehrenden Leistungen nach den §§ 36, 37,
+38, 38a, 40 Absatz 2, den §§ 41, 44a, 45b, 123 und 124 in der am 31.
+Dezember 2016 geltenden Fassung. Hinsichtlich eines Anspruchs auf den
+erhöhten Betrag nach § 45b in der am 31. Dezember 2016 geltenden
+Fassung richtet sich die Gewährung von Besitzstandsschutz abweichend
+von Satz 1 nach Absatz 2. Für Versicherte, die am 31. Dezember 2016
+Leistungen nach § 43 bezogen haben, richtet sich der
+Besitzstandsschutz nach Absatz 3. Kurzfristige Unterbrechungen im
+Leistungsbezug lassen den Besitzstandsschutz jeweils unberührt.
+
+(2) Versicherte,
+
+1.  die am 31. Dezember 2016 einen Anspruch auf den erhöhten Betrag nach §
+    45b Absatz 1 in der am 31. Dezember 2016 geltenden Fassung haben und
+
+
+2.  deren Höchstleistungsansprüche, die ihnen nach den §§ 36, 37 und 41
+    unter Berücksichtigung des § 140 Absatz 2 und 3 ab dem 1. Januar 2017
+    zustehen, nicht um jeweils mindestens 83 Euro monatlich höher sind als
+    die entsprechenden Höchstleistungsansprüche, die ihnen nach den §§ 36,
+    37 und 41 unter Berücksichtigung des § 123 in der am 31. Dezember 2016
+    geltenden Fassung am 31. Dezember 2016 zustanden,
+
+
+
+haben ab dem 1. Januar 2017 Anspruch auf einen Zuschlag auf den
+Entlastungsbetrag nach § 45b in der ab dem 1. Januar 2017 jeweils
+geltenden Fassung. Die Höhe des monatlichen Zuschlags ergibt sich aus
+der Differenz zwischen 208 Euro und dem Leistungsbetrag, der in § 45b
+Absatz 1 Satz 1 in der ab dem 1. Januar 2017 jeweils geltenden Fassung
+festgelegt ist. Das Bestehen eines Anspruchs auf diesen Zuschlag ist
+den Versicherten schriftlich mitzuteilen und zu erläutern. Für den
+Zuschlag auf den Entlastungsbetrag gilt § 45b Absatz 3 entsprechend.
+Bei Versicherten, die keinen Anspruch auf einen Zuschlag haben und
+deren Ansprüche nach § 45b zum 1. Januar 2017 von 208 Euro auf 125
+Euro monatlich abgesenkt werden, sind zur Sicherstellung des
+Besitzstandsschutzes monatlich Leistungen der Pflegeversicherung in
+Höhe von bis zu 83 Euro nicht auf Fürsorgeleistungen zur Pflege
+anzurechnen.
+
+(3) Ist bei Pflegebedürftigen der Pflegegrade 2 bis 5 in der
+vollstationären Pflege der einrichtungseinheitliche Eigenanteil nach §
+92e oder nach § 84 Absatz 2 Satz 3 im ersten Monat nach der Einführung
+des neuen Pflegebedürftigkeitsbegriffs höher als der jeweilige
+individuelle Eigenanteil im Vormonat, so ist zum Leistungsbetrag nach
+§ 43 von Amts wegen ein monatlicher Zuschlag in Höhe der Differenz von
+der Pflegekasse an die Pflegeeinrichtung zu zahlen. In der
+Vergleichsberechnung nach Satz 1 sind für beide Monate jeweils die
+vollen Pflegesätze und Leistungsbeträge zugrunde zu legen. Die Sätze 1
+und 2 gelten entsprechend, wenn der Leistungsbetrag nach § 43 Absatz 2
+Satz 2 die in § 43 Absatz 2 Satz 1 genannten Aufwendungen übersteigt
+und zur Finanzierung von Aufwendungen für Unterkunft und Verpflegung
+eingesetzt worden ist. Verringert sich die Differenz zwischen
+Pflegesatz und Leistungsbetrag in der Folgezeit, ist der Zuschlag
+entsprechend zu kürzen. Die Pflegekassen teilen die Höhe des
+monatlichen Zuschlages nach Satz 1 sowie jede Änderung der
+Zuschlagshöhe den Pflegebedürftigen schriftlich mit. Die Sätze 1 bis 5
+gelten entsprechend für Versicherte der privaten Pflege-
+Pflichtversicherung.
+
+(3a) Für Pflegebedürftige, die am 31. Dezember 2016 Leistungen der
+Kurzzeitpflege nach § 42 Absatz 1 und 2 in Anspruch nehmen, gilt der
+am 31. Dezember 2016 gezahlte Pflegesatz für die Dauer der
+Kurzzeitpflege fort. Nehmen Pflegebedürftige am 31. Dezember 2016
+Leistungen der Kurzzeitpflege nach § 42 und nach dem Ende der
+Kurzzeitpflege ohne Unterbrechung des Heimaufenthalts auch
+Sachleistungen der vollstationären Pflege nach § 43 in derselben
+Einrichtung in Anspruch, so ermittelt sich der von der Pflegekasse an
+die Pflegeeinrichtung nach Absatz 3 Satz 1 von Amts wegen ab dem
+Zeitpunkt der Inanspruchnahme von vollstationärer Pflege nach § 43 zu
+zahlende monatliche Zuschlag aus der Differenz zwischen dem
+einrichtungseinheitlichen Eigenanteil nach § 92e oder nach § 84 Absatz
+2 Satz 3 und dem individuellen Eigenanteil, den die Pflegebedürftigen
+im Monat Dezember 2016 in der Einrichtung zu tragen gehabt hätten.
+Absatz 3 Satz 4 bis 6 gilt entsprechend.
+
+(3b) Wechseln Pflegebedürftige im Sinne der Absätze 3 und 3a zwischen
+dem 1. Januar 2017 und dem 31. Dezember 2021 die vollstationäre
+Pflegeeinrichtung, so ermittelt sich der von der Pflegekasse an die
+neue Pflegeeinrichtung nach Absatz 3 Satz 1 von Amts wegen ab dem
+Zeitpunkt des Wechsels zu zahlende monatliche Zuschlag aus der
+Differenz zwischen dem einrichtungseinheitlichen Eigenanteil nach §
+92e oder nach § 84 Absatz 2 Satz 3, den die Pflegebedürftigen im Monat
+Januar 2017 in der neuen Einrichtung zu tragen haben oder zu tragen
+gehabt hätten, und dem individuellen Eigenanteil, den die
+Pflegebedürftigen im Monat Dezember 2016 in der neuen Einrichtung zu
+tragen gehabt hätten. Bei einem Wechsel in eine neu zugelassene
+vollstationäre Pflegeeinrichtung, die erstmalig ab 1. Januar 2017 oder
+später eine Pflegesatzvereinbarung abgeschlossen hat, behalten
+Pflegebedürftige mit ihrem Wechsel ihren nach Absatz 3 ermittelten
+monatlichen Zuschlagsbetrag. Absatz 3 Satz 2 bis 6 gilt entsprechend.
+
+(3c) Erhöht sich der einrichtungseinheitliche Eigenanteil nach § 92e
+oder nach § 84 Absatz 2 Satz 3 für Pflegebedürftige im Sinne der
+Absätze 3, 3a und 3b im Zeitraum vom 1. Februar 2017 bis 31. Dezember
+2017, findet Absatz 3 entsprechende Anwendung, sofern sich die
+Erhöhung aus der erstmaligen Vereinbarung der neuen Pflegesätze im
+Rahmen der Überleitung, Einführung und Umsetzung des neuen
+Pflegebedürftigkeitsbegriffs ergibt. Dies gilt auch für
+Pflegebedürftige, die im Dezember 2016 in einer vollstationären
+Pflegeeinrichtung versorgt wurden, und die durch die Erhöhung erstmals
+einen höheren einrichtungseinheitlichen Eigenanteil zu tragen hätten
+im Vergleich zum jeweiligen individuellen Eigenanteil im Dezember
+2016\. Der Vergleichsberechnung ist neben dem Monat Dezember 2016 der
+Monat im Zeitraum vom 1. Februar 2017 bis 31. Dezember 2017 zugrunde
+zu legen, in dem der einrichtungseinheitliche Eigenanteil erstmalig
+höher als der jeweilige individuelle Eigenanteil im Monat Dezember
+2016 ist oder in den Fällen des Absatzes 3a gewesen wäre.
+
+(4) Für Personen, die am 31. Dezember 2016 wegen nicht erwerbsmäßiger
+Pflege rentenversicherungspflichtig waren und Anspruch auf die Zahlung
+von Beiträgen zur gesetzlichen Rentenversicherung nach § 44 in der am
+31\. Dezember 2016 geltenden Fassung hatten, besteht die
+Versicherungspflicht für die Dauer dieser Pflegetätigkeit fort. Die
+beitragspflichtigen Einnahmen ab dem 1. Januar 2017 bestimmen sich in
+den Fällen des Satzes 1 nach Maßgabe des § 166 Absatz 2 und 3 des
+Sechsten Buches in der am 31. Dezember 2016 geltenden Fassung, wenn
+sie höher sind als die beitragspflichtigen Einnahmen, die sich aus dem
+ab dem 1. Januar 2017 geltenden Recht ergeben.
+
+(4a) In den Fällen des § 140 Absatz 4 richten sich die
+Versicherungspflicht als Pflegeperson in der Rentenversicherung und
+die Bestimmung der beitragspflichtigen Einnahmen für Zeiten vor dem 1.
+Januar 2017 nach den §§ 3 und 166 des Sechsten Buches in der bis zum
+31\. Dezember 2016 geltenden Fassung. Die dabei anzusetzende
+Pflegestufe erhöht sich entsprechend dem Anstieg des Pflegegrades
+gegenüber dem durch die Überleitung erreichten Pflegegrad.
+
+(5) Absatz 4 ist ab dem Zeitpunkt nicht mehr anwendbar, zu dem nach
+dem ab dem 1. Januar 2017 geltenden Recht festgestellt wird, dass
+
+1.  bei der versorgten Person keine Pflegebedürftigkeit im Sinne der §§ 14
+    und 15 in der ab dem 1. Januar 2017 geltenden Fassung vorliegt oder
+
+
+2.  die pflegende Person keine Pflegeperson im Sinne des § 19 in der ab
+    dem 1. Januar 2017 geltenden Fassung ist.
+
+
+
+Absatz 4 ist auch nicht mehr anwendbar, wenn sich nach dem 31.
+Dezember 2016 eine Änderung in den Pflegeverhältnissen ergibt, die zu
+einer Änderung der beitragspflichtigen Einnahmen nach § 166 Absatz 2
+des Sechsten Buches in der ab dem 1. Januar 2017 geltenden Fassung
+führt oder ein Ausschlussgrund nach § 3 Satz 2 oder 3 des Sechsten
+Buches eintritt.
+
+(6) Für Pflegepersonen im Sinne des § 44 Absatz 2 gelten die Absätze
+4, 4a und 5 entsprechend.
+
+(7) Für Personen, die am 31. Dezember 2016 wegen nicht erwerbsmäßiger
+Pflege in der gesetzlichen Unfallversicherung versicherungspflichtig
+waren, besteht die Versicherungspflicht für die Dauer dieser
+Pflegetätigkeit fort. Satz 1 gilt, soweit und solange sich aus dem ab
+dem 1. Januar 2017 geltenden Recht keine günstigeren Ansprüche
+ergeben. Satz 1 ist ab dem Zeitpunkt nicht mehr anwendbar, zu dem nach
+dem ab dem 1. Januar 2017 geltenden Recht festgestellt wird, dass bei
+der versorgten Person keine Pflegebedürftigkeit im Sinne der §§ 14 und
+15 in der ab dem 1. Januar 2017 geltenden Fassung vorliegt.
+
+(8) Pflegebedürftige, die am 31. Dezember 2016 von zugelassenen
+Pflegeeinrichtungen ohne Vergütungsvereinbarung versorgt werden, haben
+ab dem 1. Januar 2017 Anspruch auf Erstattung der Kosten für die
+pflegebedingten Aufwendungen gemäß § 91 Absatz 2 in Höhe des ihnen für
+den Monat Dezember 2016 zustehenden Leistungsbetrages, wenn dieser
+höher ist als der ihnen für Januar 2017 zustehende Leistungsbetrag.
+Dies gilt entsprechend für Versicherte der privaten Pflege-
+Pflichtversicherung.
+
+
+#### § 142 Übergangsregelungen im Begutachtungsverfahren
+
+(1) Bei Versicherten, die nach § 140 von einer Pflegestufe in einen
+Pflegegrad übergeleitet wurden, werden bis zum 1. Januar 2019 keine
+Wiederholungsbegutachtungen nach § 18 Absatz 2 Satz 5 durchgeführt;
+auch dann nicht, wenn die Wiederholungsbegutachtung vor diesem
+Zeitpunkt vom Medizinischen Dienst der Krankenversicherung oder
+anderen unabhängigen Gutachtern empfohlen wurde. Abweichend von Satz 1
+können Wiederholungsbegutachtungen durchgeführt werden, wenn eine
+Verbesserung der gesundheitlich bedingten Beeinträchtigungen der
+Selbständigkeit oder der Fähigkeiten, insbesondere aufgrund von
+durchgeführten Operationen oder Rehabilitationsmaßnahmen, zu erwarten
+ist.
+
+(2) Die Frist nach § 18 Absatz 3 Satz 2 ist vom 1. Januar 2017 bis zum
+31\. Dezember 2017 unbeachtlich. Abweichend davon ist denjenigen, die
+ab dem 1. Januar 2017 einen Antrag auf Leistungen der
+Pflegeversicherung stellen und bei denen ein besonders dringlicher
+Entscheidungsbedarf vorliegt, spätestens 25 Arbeitstage nach Eingang
+des Antrags bei der zuständigen Pflegekasse die Entscheidung der
+Pflegekasse schriftlich mitzuteilen. Der Spitzenverband Bund der
+Pflegekassen entwickelt bundesweit einheitliche Kriterien für das
+Vorliegen, die Gewichtung und die Feststellung eines besonders
+dringlichen Entscheidungsbedarfs. Die Pflegekassen und die privaten
+Versicherungsunternehmen berichten in der nach § 18 Absatz 3b Satz 4
+zu veröffentlichenden Statistik auch über die Anwendung der Kriterien
+zum Vorliegen und zur Feststellung eines besonders dringlichen
+Entscheidungsbedarfs.
+
+(3) Abweichend von § 18 Absatz 3a Satz 1 Nummer 2 ist die Pflegekasse
+vom 1. Januar 2017 bis zum 31. Dezember 2017 nur bei Vorliegen eines
+besonders dringlichen Entscheidungsbedarfs gemäß Absatz 2 dazu
+verpflichtet, dem Antragsteller mindestens drei unabhängige Gutachter
+zur Auswahl zu benennen, wenn innerhalb von 20 Arbeitstagen nach
+Antragstellung keine Begutachtung erfolgt ist.
+
+
+#### § 143 Sonderanpassungsrecht für die Allgemeinen Versicherungsbedingungen und die technischen Berechnungsgrundlagen privater Pflegeversicherungsverträge
+
+(1) Bei einer Pflegeversicherung, bei der die Prämie nach Art der
+Lebensversicherung berechnet wird und bei der das ordentliche
+Kündigungsrecht des Versicherers gesetzlich oder vertraglich
+ausgeschlossen ist, kann der Versicherer seine Allgemeinen
+Versicherungsbedingungen auch für bestehende Versicherungsverhältnisse
+entsprechend den Vorgaben nach § 140 ändern, soweit der
+Versicherungsfall durch den Pflegebedürftigkeitsbegriff nach den §§ 14
+und 15 bestimmt wird.
+
+(2) Der Versicherer ist zudem berechtigt, auch für bestehende
+Versicherungsverhältnisse die technischen Berechnungsgrundlagen
+insoweit zu ändern, als die Leistungen an die Pflegegrade nach § 140
+Absatz 2 und die Prämien daran angepasst werden. § 12b Absatz 1 und 1a
+des Versicherungsaufsichtsgesetzes findet Anwendung.
+
+(3) Dem Versicherungsnehmer sind die geänderten
+Versicherungsbedingungen nach Absatz 1 und die Neufestsetzung der
+Prämie nach Absatz 2 unter Kenntlichmachung der Unterschiede sowie
+unter Hinweis auf die hierfür maßgeblichen Gründe in Textform
+mitzuteilen. Anpassungen nach den Absätzen 1 und 2 werden zu Beginn
+des zweiten Monats wirksam, der auf die Benachrichtigung des
+Versicherungsnehmers folgt.
+
+(4) Gesetzlich oder vertraglich vorgesehene Sonderkündigungsrechte des
+Versicherungsnehmers bleiben hiervon unberührt.
+
+
+### Zweiter Abschnitt - Sonstige Überleitungs-, Übergangs- und Besitzstandsschutzregelungen
+
+
+
+#### § 144 Überleitungs- und Übergangsregelungen, Verordnungsermächtigung
+
+(1) Für Personen, die am 31. Dezember 2014 einen Anspruch auf einen
+Wohngruppenzuschlag nach § 38a in der am 31. Dezember 2014 geltenden
+Fassung haben, wird diese Leistung weiter erbracht, wenn sich an den
+tatsächlichen Verhältnissen nichts geändert hat.
+
+(2) Am 31. Dezember 2016 nach Landesrecht anerkannte niedrigschwellige
+Betreuungsangebote und niedrigschwellige Entlastungsangebote im Sinne
+der §§ 45b und 45c in der zu diesem Zeitpunkt geltenden Fassung gelten
+auch ohne neues Anerkennungsverfahren als nach Landesrecht anerkannte
+Angebote zur Unterstützung im Alltag im Sinne des § 45a in der ab dem
+1\. Januar 2017 geltenden Fassung. Die Landesregierungen werden
+ermächtigt, durch Rechtsverordnung hiervon abweichende Regelungen zu
+treffen.
+
+(3) Soweit Versicherte im Zeitraum vom 1. Januar 2015 bis zum 31.
+Dezember 2016 die Anspruchsvoraussetzungen nach § 45b Absatz 1 oder
+Absatz 1a in der bis zum 31. Dezember 2016 geltenden Fassung erfüllt
+haben und ab dem 1. Januar 2017 die Anspruchsvoraussetzungen nach §
+45b Absatz 1 Satz 1 in der ab dem 1. Januar 2017 geltenden Fassung
+erfüllen, können sie Leistungsbeträge nach § 45b, die sie in der Zeit
+vom 1. Januar 2015 bis zum 31. Dezember 2016 nicht zum Bezug von
+Leistungen nach § 45b Absatz 1 Satz 6 in der bis zum 31. Dezember 2016
+geltenden Fassung genutzt haben, bis zum 31. Dezember 2018 zum Bezug
+von Leistungen nach § 45b Absatz 1 Satz 3 in der ab dem 1. Januar 2017
+geltenden Fassung einsetzen. Die in Satz 1 genannten Mittel können
+ebenfalls zur nachträglichen Kostenerstattung für Leistungen nach §
+45b Absatz 1 Satz 6 in der bis zum 31. Dezember 2016 geltenden Fassung
+genutzt werden, die von den Anspruchsberechtigten in der Zeit vom 1.
+Januar 2015 bis zum 31. Dezember 2016 bezogen worden sind. Die
+Kostenerstattung nach Satz 2 ist bis zum Ablauf des 31. Dezember 2018
+zu beantragen. Dem Antrag sind entsprechende Belege über entstandene
+Eigenbelastungen im Zusammenhang mit der Inanspruchnahme der bezogenen
+Leistungen beizufügen.
+
+(4) Die im Jahr 2015 gemäß § 45c zur Verfügung gestellten
+Fördermittel, die nach § 45c Absatz 5 Satz 2 in der bis zum 31.
+Dezember 2016 geltenden Fassung auf das Folgejahr 2016 übertragen und
+bis zum Ende des Jahres 2016 in den Ländern nicht in Anspruch genommen
+worden sind, können im Jahr 2017 gemäß § 45c Absatz 6 Satz 3 bis 9 in
+der ab dem 1. Januar 2017 geltenden Fassung von den Ländern beantragt
+werden, die im Jahr 2015 mindestens 80 Prozent der auf sie gemäß § 45c
+Absatz 5 Satz 1 in der bis zum 31. Dezember 2016 geltenden Fassung
+nach dem Königsteiner Schlüssel entfallenden Mittel ausgeschöpft
+haben.
+
+(5) In Fällen, in denen am 31. Dezember 2016 der Bezug von Leistungen
+der Pflegeversicherung mit Leistungen der Eingliederungshilfe für
+Menschen mit Behinderungen nach dem Zwölften Buch, dem
+Bundesversorgungsgesetz oder dem Achten Buch bereits zusammentrifft,
+muss eine Vereinbarung nach § 13 Absatz 4 in der ab dem 1. Januar 2017
+geltenden Fassung nur dann abgeschlossen werden, wenn einer der
+beteiligten Träger oder der Leistungsbezieher dies verlangt. Trifft
+der Bezug von Leistungen der Pflegeversicherung außerdem mit
+Leistungen der Hilfe zur Pflege nach dem Zwölften Buch oder dem
+Bundesversorgungsgesetz zusammen, gilt Satz 1 entsprechend.
+
+
+#### § 145 Besitzstandsschutz für pflegebedürftige Menschen mit Behinderungen in häuslicher Pflege
+
+Für pflegebedürftige Menschen mit Behinderungen, die am 1. Januar 2017
+Anspruch auf Leistungen der Pflegeversicherung bei häuslicher Pflege
+haben und in einer Wohnform leben, auf die § 43a in der am 1. Januar
+2017 geltenden Fassung keine Anwendung findet, findet § 43a auch in
+der ab dem 1. Januar 2020 geltenden Fassung keine Anwendung. Wechseln
+diese pflegebedürftigen Menschen mit Behinderungen nach dem 1. Januar
+2017 die Wohnform, findet Satz 1 keine Anwendung, solange sie in einer
+Wohnform leben, auf die § 43a in der am 1. Januar 2017 geltenden
+Fassung Anwendung gefunden hätte, wenn sie am 1. Januar 2017 in einer
+solchen Wohnform gelebt hätten.
+
+(zu § 15)
+
+#### Anlage 1 Einzelpunkte der Module 1 bis 6; Bildung der Summe der Einzelpunkte in jedem Modul
+
+**Modul 1: Einzelpunkte im Bereich der Mobilität**
+
+Das Modul umfasst fünf Kriterien, deren Ausprägungen in den folgenden
+Kategorien mit den nachstehenden Einzelpunkten gewertet werden:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   selbständig
+
+    *   überwiegend
+        selbständig
+
+    *   überwiegend
+        unselbständig
+
+    *   unselbständig
+
+
+*    *   1.1
+
+    *   Positionswechsel im Bett
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   1.2
+
+    *   Halten einer stabilen Sitzposition
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   1.3
+
+    *   Umsetzen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   1.4
+
+    *   Fortbewegen innerhalb des
+        Wohnbereichs
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   1.5
+
+    *   Treppensteigen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+**Modul 2: Einzelpunkte im Bereich der kognitiven und kommunikativen
+Fähigkeiten**
+
+Das Modul umfasst elf Kriterien, deren Ausprägungen in den folgenden
+Kategorien mit den nachstehenden Einzelpunkten gewertet werden:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   Fähigkeit
+        vorhanden/
+        unbeeinträchtigt
+
+    *   Fähigkeit
+        größtenteils
+        vorhanden
+
+    *   Fähigkeit
+        in geringem
+        Maße
+        vorhanden
+
+    *   Fähigkeit
+        nicht
+        vorhanden
+
+
+*    *   2.1
+
+    *   Erkennen von Personen aus dem näheren Umfeld
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.2
+
+    *   Örtliche Orientierung
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.3
+
+    *   Zeitliche Orientierung
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.4
+
+    *   Erinnern an wesentliche Ereignisse oder Beobachtungen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.5
+
+    *   Steuern von mehrschrittigen
+        Alltagshandlungen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.6
+
+    *   Treffen von Entscheidungen im Alltag
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.7
+
+    *   Verstehen von Sachverhalten und
+        Informationen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.8
+
+    *   Erkennen von Risiken und Gefahren
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.9
+
+    *   Mitteilen von elementaren Bedürfnissen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.10
+
+    *   Verstehen von Aufforderungen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   2.11
+
+    *   Beteiligen an einem Gespräch
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+**Modul 3: Einzelpunkte im Bereich der Verhaltensweisen und psychische
+Problemlagen**
+
+Das Modul umfasst dreizehn Kriterien, deren Häufigkeit des Auftretens
+in den folgenden Kategorien mit den nachstehenden Einzelpunkten
+gewertet wird:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   nie oder
+        sehr selten
+
+    *   selten
+        (ein- bis dreimal innerhalb von zwei Wochen)
+
+    *   häufig
+        (zweimal
+        bis mehrmals
+        wöchentlich,
+        aber nicht
+        täglich)
+
+    *   täglich
+
+
+*    *   3.1
+
+    *   Motorisch geprägte
+        Verhaltensauffälligkeiten
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.2
+
+    *   Nächtliche Unruhe
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.3
+
+    *   Selbstschädigendes und
+        autoaggressives Verhalten
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.4
+
+    *   Beschädigen von Gegenständen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.5
+
+    *   Physisch aggressives Verhalten
+        gegenüber anderen Personen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.6
+
+    *   Verbale Aggression
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.7
+
+    *   Andere pflegerelevante vokale
+        Auffälligkeiten
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.8
+
+    *   Abwehr pflegerischer und anderer
+        unterstützender Maßnahmen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.9
+
+    *   Wahnvorstellungen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.10
+
+    *   Ängste
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.11
+
+    *   Antriebslosigkeit bei depressiver
+        Stimmungslage
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.12
+
+    *   Sozial inadäquate Verhaltensweisen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+*    *   3.13
+
+    *   Sonstige pflegerelevante inadäquate Handlungen
+
+    *   0
+
+    *   1
+
+    *   3
+
+    *   5
+
+
+
+
+**Modul 4: Einzelpunkte im Bereich der Selbstversorgung**
+
+Das Modul umfasst dreizehn Kriterien:
+
+*Einzelpunkte für die Kriterien der Ziffern 4.1 bis 4.12*
+
+Die Ausprägungen der Kriterien 4.1 bis 4.12 werden in den folgenden
+Kategorien mit den nachstehenden Punkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   selbständig
+
+    *   überwiegend
+        selbständig
+
+    *   überwiegend
+        unselbständig
+
+    *   unselbständig
+
+
+*    *   4.1
+
+    *   Waschen des vorderen Oberkörpers
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.2
+
+    *   Körperpflege im Bereich des Kopfes (Kämmen,
+        Zahnpflege/Prothesenreinigung, Rasieren)
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.3
+
+    *   Waschen des Intimbereichs
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.4
+
+    *   Duschen und Baden einschließlich
+        Waschen der Haare
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.5
+
+    *   An- und Auskleiden des Oberkörpers
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.6
+
+    *   An- und Auskleiden des Unterkörpers
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.7
+
+    *   Mundgerechtes Zubereiten der Nahrung und Eingießen von Getränken
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.8
+
+    *   Essen
+
+    *   0
+
+    *   3
+
+    *   6
+
+    *   9
+
+
+*    *   4.9
+
+    *   Trinken
+
+    *   0
+
+    *   2
+
+    *   4
+
+    *   6
+
+
+*    *   4.10
+
+    *   Benutzen einer Toilette oder eines
+        Toilettenstuhls
+
+    *   0
+
+    *   2
+
+    *   4
+
+    *   6
+
+
+*    *   4.11
+
+    *   Bewältigen der Folgen einer
+        Harninkontinenz und Umgang mit
+        Dauerkatheter und Urostoma
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   4.12
+
+    *   Bewältigen der Folgen einer
+        Stuhlinkontinenz und Umgang mit Stoma
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+Die Ausprägungen des Kriteriums der Ziffer 4.8 sowie die Ausprägung
+der Kriterien der Ziffern 4.9 und 4.10 werden wegen ihrer besonderen
+Bedeutung für die pflegerische Versorgung stärker gewichtet.
+
+Die Einzelpunkte für die Kriterien der Ziffern 4.11 und 4.12 gehen in
+die Berechnung nur ein, wenn bei der Begutachtung beim Versicherten
+darüber hinaus die Feststellung „überwiegend inkontinent“ oder
+„vollständig inkontinent“ getroffen wird oder eine künstliche
+Ableitung von Stuhl oder Harn erfolgt.
+
+*Einzelpunkte für das Kriterium der Ziffer 4.13*
+
+Die Ausprägungen des Kriteriums der Ziffer 4.13 werden in den
+folgenden Kategorien mit den nachstehenden Einzelpunkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterium
+
+    *   entfällt
+
+    *   teilweise
+
+    *   vollständig
+
+
+*    *   4.13
+
+    *   Ernährung parental oder über Sonde
+
+    *   0
+
+    *   6
+
+    *   3
+
+
+
+
+Das Kriterium ist mit „entfällt“ (0 Punkte) zu bewerten, wenn eine
+regelmäßige und tägliche parenterale Ernährung oder Sondenernährung
+auf Dauer, voraussichtlich für mindestens sechs Monate, nicht
+erforderlich ist. Kann die parenterale Ernährung oder Sondenernährung
+ohne Hilfe durch andere selbständig durchgeführt werden, werden
+ebenfalls keine Punkte vergeben.
+
+Das Kriterium ist mit „teilweise“ (6 Punkte) zu bewerten, wenn eine
+parenterale Ernährung oder Sondenernährung zur Vermeidung von
+Mangelernährung mit Hilfe täglich und zusätzlich zur oralen Aufnahme
+von Nahrung oder Flüssigkeit erfolgt.
+
+Das Kriterium ist mit „vollständig“ (3 Punkte) zu bewerten, wenn die
+Aufnahme von Nahrung oder Flüssigkeit ausschließlich oder nahezu
+ausschließlich parenteral oder über eine Sonde erfolgt.
+
+Bei einer vollständigen parenteralen Ernährung oder Sondenernährung
+werden weniger Punkte vergeben als bei einer teilweisen parenteralen
+Ernährung oder Sondenernährung, da der oft hohe Aufwand zur
+Unterstützung bei der oralen Nahrungsaufnahme im Fall ausschließlich
+parenteraler oder Sondenernährung weitgehend entfällt.
+
+*Einzelpunkte für das Kriterium der Ziffer 4.K*
+
+Bei Kindern im Alter bis 18 Monate werden die Kriterien der Ziffern
+4\.1 bis 4.13 durch das Kriterium 4.K ersetzt und wie folgt gewertet:
+
+*    *   Ziffer
+
+    *   Kriterium
+
+    *   Einzelpunkte
+
+
+*    *   4.K
+
+    *   Bestehen gravierender Probleme bei der Nahrungsaufnahme bei Kindern
+        bis zu
+        18 Monaten, die einen außergewöhnlich pflegeintensiven Hilfebedarf
+        auslösen
+
+    *   20
+
+
+
+
+**Modul 5: Einzelpunkte im Bereich der Bewältigung von und des
+selbständigen Umgangs mit krankheits- oder therapiebedingten
+Anforderungen und Belastungen**
+
+Das Modul umfasst sechzehn Kriterien.
+
+*Einzelpunkte für die Kriterien der Ziffern 5.1 bis 5.7*
+
+Die durchschnittliche Häufigkeit der Maßnahmen pro Tag bei den
+Kriterien der Ziffern 5.1 bis 5.7 wird in den folgenden Kategorien mit
+den nachstehenden Einzelpunkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterien in Bezug auf
+
+    *   entfällt oder selbständig
+
+    *   Anzahl der Maßnahmen
+
+
+*    *   pro Tag
+
+    *   pro Woche
+
+    *   pro Monat
+
+
+*    *   5.1
+
+    *   Medikation
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.2
+
+    *   Injektionen (subcutan oder intramuskulär)
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.3
+
+    *   Versorgung intravenöser Zugänge (Port)
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.4
+
+    *   Absaugen und Sauerstoffgabe
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.5
+
+    *   Einreibungen oder Kälte- und
+        Wärmeanwendungen
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.6
+
+    *   Messung und Deutung von
+        Körperzuständen
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.7
+
+    *   Körpernahe Hilfsmittel
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   Summe der Maßnahmen aus 5.1 bis 5.7
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   Umrechnung in Maßnahmen pro Tag
+
+    *   0
+
+    *
+    *
+    *
+
+
+
+
+*    *   Einzelpunkte für die Kriterien der Ziffern 5.1 bis 5.7
+
+
+*    *   Maßnahme pro Tag
+
+    *   keine oder
+        seltener als
+        einmal täglich
+
+    *   mindestens einmal bis maximal
+        dreimal
+        täglich
+
+    *   mehr als
+        dreimal bis
+        maximal achtmal
+        täglich
+
+    *   mehr als achtmal
+        täglich
+
+
+*    *   Einzelpunkte
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+Für jedes der Kriterien 5.1 bis 5.7 wird zunächst die Anzahl der
+durchschnittlich durchgeführten Maßnahmen, die täglich und auf Dauer,
+voraussichtlich für mindestens sechs Monate, vorkommen, in der Spalte
+pro Tag, die Maßnahmen, die wöchentlich und auf Dauer, voraussichtlich
+für mindestens sechs Monate, vorkommen, in der Spalte pro Woche und
+die Maßnahmen, die monatlich und auf Dauer, voraussichtlich für
+mindestens sechs Monate, vorkommen, in der Spalte pro Monat erfasst.
+Berücksichtigt werden nur Maßnahmen, die vom Versicherten nicht
+selbständig durchgeführt werden können.
+
+Die Zahl der durchschnittlich durchgeführten täglichen, wöchentlichen
+und monatlichen Maßnahmen wird für die Kriterien 5.1 bis 5.7 summiert
+(erfolgt zum Beispiel täglich dreimal eine Medikamentengabe –
+Kriterium 5.1 – und einmal Blutzuckermessen – Kriterium 5.6 –,
+entspricht dies vier Maßnahmen pro Tag). Diese Häufigkeit wird
+umgerechnet in einen Durchschnittswert pro Tag. Für die Umrechnung der
+Maßnahmen pro Monat in Maßnahmen pro Tag wird die Summe der Maßnahmen
+pro Monat durch 30 geteilt. Für die Umrechnung der Maßnahmen pro Woche
+in Maßnahmen pro Tag wird die Summe der Maßnahmen pro Woche durch 7
+geteilt.
+
+*Einzelpunkte für die Kriterien der Ziffern 5.8 bis 5.11*
+
+Die durchschnittliche Häufigkeit der Maßnahmen pro Tag bei den
+Kriterien der Ziffern 5.8 bis 5.11 wird in den folgenden Kategorien
+mit den nachstehenden Einzelpunkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterien in Bezug auf
+
+    *   entfällt oder
+        selbständig
+
+    *   Anzahl der Maßnahmen
+
+
+*    *   pro Tag
+
+    *   pro Woche
+
+    *   pro Monat
+
+
+*    *   5.8
+
+    *   Verbandswechsel und Wundversorgung
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.9
+
+    *   Versorgung mit Stoma
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.10
+
+    *   Regelmäßige Einmalkatheterisierung
+        und Nutzung von Abführmethoden
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   5.11
+
+    *   Therapiemaßnahmen in häuslicher
+        Umgebung
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   Summe der Maßnahmen aus 5.8 bis 5.11
+
+    *   0
+
+    *
+    *
+    *
+
+*    *   Umrechnung in Maßnahmen pro Tag
+
+    *   0
+
+    *
+    *
+    *
+
+
+
+
+*    *   Einzelpunkte für die Kriterien der Ziffern 5.8 bis 5.11
+
+
+*    *   Maßnahme pro Tag
+
+    *   keine oder seltener als
+        einmal
+        wöchentlich
+
+    *   ein- bis
+        mehrmals wöchentlich
+
+    *   ein- bis unter
+        dreimal
+        täglich
+
+    *   mindestens dreimal
+        täglich
+
+
+*    *   Einzelpunkte
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+Für jedes der Kriterien 5.8 bis 5.11 wird zunächst die Anzahl der
+durchschnittlich durchgeführten Maßnahmen, die täglich und auf Dauer,
+voraussichtlich für mindestens sechs Monate, vorkommen, in der Spalte
+pro Tag, die Maßnahmen, die wöchentlich und auf Dauer, voraussichtlich
+für mindestens sechs Monate, vorkommen, in der Spalte pro Woche und
+die Maßnahmen, die monatlich und auf Dauer, voraussichtlich für
+mindestens sechs Monate, vorkommen, in der Spalte pro Monat erfasst.
+Berücksichtigt werden nur Maßnahmen, die vom Versicherten nicht
+selbständig durchgeführt werden können.
+
+Die Zahl der durchschnittlich durchgeführten täglichen, wöchentlichen
+und monatlichen Maßnahmen wird für die Kriterien 5.8 bis 5.11
+summiert. Diese Häufigkeit wird umgerechnet in einen Durchschnittswert
+pro Tag. Für die Umrechnung der Maßnahmen pro Monat in Maßnahmen pro
+Tag wird die Summe der Maßnahmen pro Monat durch 30 geteilt. Für die
+Umrechnung der Maßnahmen pro Woche in Maßnahmen pro Tag wird die Summe
+der Maßnahmen pro Woche durch 7 geteilt.
+
+*Einzelpunkte für die Kriterien der Ziffern 5.12 bis 5.K*
+
+Die durchschnittliche wöchentliche oder monatliche Häufigkeit von
+zeit- und technikintensiven Maßnahmen in häuslicher Umgebung, die auf
+Dauer, voraussichtlich für mindestens sechs Monate, vorkommen, wird in
+den folgenden Kategorien mit den nachstehenden Einzelpunkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterium in Bezug auf
+
+    *   entfällt oder
+        selbständig
+
+    *   täglich
+
+    *   wöchentliche Häufigkeit
+        multipliziert mit
+
+    *   monatliche Häufigkeit
+        multipliziert mit
+
+
+*    *   5.12
+
+    *   Zeit- und technikintensive Maßnahmen
+        in häuslicher Umgebung
+
+    *   0
+
+    *   60
+
+    *   8,6
+
+    *   2
+
+
+
+
+Für das Kriterium der Ziffer 5.12 wird zunächst die Anzahl der
+regelmäßig und mit durchschnittlicher Häufigkeit durchgeführten
+Maßnahmen, die wöchentlich vorkommen, und die Anzahl der regelmäßig
+und mit durchschnittlicher Häufigkeit durchgeführten Maßnahmen, die
+monatlich vorkommen, erfasst. Kommen Maßnahmen regelmäßig täglich vor,
+werden 60 Punkte vergeben.
+
+Jede regelmäßige wöchentliche Maßnahme wird mit 8,6 Punkten gewertet.
+Jede regelmäßige monatliche Maßnahme wird mit zwei Punkten gewertet.
+
+Die durchschnittliche wöchentliche oder monatliche Häufigkeit der
+Kriterien der Ziffern 5.13 bis 5.K wird wie folgt erhoben und mit den
+nachstehenden Punkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   entfällt oder
+        selbständig
+
+    *   wöchentliche
+        Häufigkeit
+        multipliziert mit
+
+    *   monatliche
+        Häufigkeit
+        multipliziert mit
+
+
+*    *   5.13
+
+    *   Arztbesuche
+
+    *   0
+
+    *   4,3
+
+    *   1
+
+
+*    *   5.14
+
+    *   Besuch anderer medizinischer oder therapeutischer
+        Einrichtungen (bis zu drei Stunden)
+
+    *   0
+
+    *   4,3
+
+    *   1
+
+
+*    *   5.15
+
+    *   Zeitlich ausgedehnte Besuche anderer medizinischer oder
+        therapeutischer Einrichtungen (länger als drei
+        Stunden)
+
+    *   0
+
+    *   8,6
+
+    *   2
+
+
+*    *   5.K
+
+    *   Besuche von Einrichtungen zur Frühförderung bei
+        Kindern
+
+    *   0
+
+    *   4,3
+
+    *   1
+
+
+
+
+Für jedes der Kriterien der Ziffern 5.13 bis 5.K wird zunächst die
+Anzahl der regelmäßig und mit durchschnittlicher Häufigkeit
+durchgeführten Besuche, die wöchentlich und auf Dauer, voraussichtlich
+für mindestens sechs Monate, vorkommen, und die Anzahl der regelmäßig
+und mit durchschnittlicher Häufigkeit durchgeführten Besuche, die
+monatlich und auf Dauer, voraussichtlich für mindestens sechs Monate,
+vorkommen, erfasst. Jeder regelmäßige monatliche Besuch wird mit einem
+Punkt gewertet. Jeder regelmäßige wöchentliche Besuch wird mit 4,3
+Punkten gewertet. Handelt es sich um zeitlich ausgedehnte Arztbesuche
+oder Besuche von anderen medizinischen oder therapeutischen
+Einrichtungen, werden sie doppelt gewertet.
+
+Die Punkte der Kriterien 5.12 bis 5.15 – bei Kindern bis 5.K – werden
+addiert. Die Kriterien der Ziffern 5.12 bis 5.15 – bei Kindern bis 5.K
+– werden anhand der Summe der so erreichten Punkte mit den
+nachstehenden Einzelpunkten gewertet:
+
+*    *   Summe
+
+    *   Einzelpunkte
+
+
+*    *   0
+
+    *   bis unter
+
+    *   4,3
+
+    *   0
+
+
+*    *   4,3
+
+    *   bis unter
+
+    *   8,6
+
+    *   1
+
+
+*    *   8,6
+
+    *   bis unter
+
+    *   12,9
+
+    *   2
+
+
+*    *   12,9
+
+    *   bis unter
+
+    *   60
+
+    *   3
+
+
+*    *   60 und
+
+    *   mehr
+
+    *
+    *   6
+
+
+
+
+*Einzelpunkte für das Kriterium der Ziffer 5.16*
+
+Die Ausprägungen des Kriteriums der Ziffer 5.16 werden in den
+folgenden Kategorien mit den nachstehenden Einzelpunkten gewertet:
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   entfällt oder
+        selbständig
+
+    *   überwiegend
+        selbständig
+
+    *   überwiegend
+        unselbständig
+
+    *   unselbständig
+
+
+*    *   5.16
+
+    *   Einhaltung einer Diät und anderer
+        krankheits- oder therapiebedingter
+        Verhaltensvorschriften
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+**Modul 6: Einzelpunkte im Bereich der Gestaltung des Alltagslebens
+und sozialer Kontakte**
+
+Das Modul umfasst sechs Kriterien, deren Ausprägungen in den folgenden
+Kategorien mit den nachstehenden Punkten gewertet werden:
+
+
+*    *   Ziffer
+
+    *   Kriterien
+
+    *   selbständig
+
+    *   überwiegend
+        selbständig
+
+    *   überwiegend
+        unselbständig
+
+    *   unselbständig
+
+
+*    *   6.1
+
+    *   Gestaltung des Tagesablaufs und
+        Anpassung an Veränderungen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   6.2
+
+    *   Ruhen und Schlafen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   6.3
+
+    *   Sichbeschäftigen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   6.4
+
+    *   Vornehmen von in die Zukunft gerichteten Planungen
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   6.5
+
+    *   Interaktion mit Personen im direkten Kontakt
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+*    *   6.6
+
+    *   Kontaktpflege zu Personen außerhalb
+        des direkten Umfelds
+
+    *   0
+
+    *   1
+
+    *   2
+
+    *   3
+
+
+
+
+(zu § 15)
+Bewertungssystematik (Summe der Punkte und gewichtete Punkte)
+
+#### Anlage 2 Schweregrad der Beeinträchtigungen der Selbständigkeit oder der Fähigkeiten im Modul
+
+
+*    *
+    *   Module
+
+    *   Gewichtung
+
+    *   0
+        Keine
+
+    *   1
+        Geringe
+
+    *   2
+        Erhebliche
+
+    *   3
+        Schwere
+
+    *   4
+        Schwerste
+
+    *
+
+*    *   1
+
+    *   Mobilität
+
+    *   **10 %**
+
+    *   0 – 1
+
+    *   2 – 3
+
+    *   4 – 5
+
+    *   6 – 9
+
+    *   10 – 15
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 1
+
+
+*    *   **0**
+
+    *   **2,5**
+
+    *   **5**
+
+    *   **7,5**
+
+    *   **10**
+
+    *   Gewichtete Punkte im
+        **Modul 1**
+
+
+*    *   2
+
+    *   Kognitive und
+        kommunikative
+        Fähigkeiten
+
+    *   **15 %**
+
+    *   0 – 1
+
+    *   2 – 5
+
+    *   6 – 10
+
+    *   11 – 16
+
+    *   17 – 33
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 2
+
+
+*    *   3
+
+    *   Verhaltensweisen und psychische Problemlagen
+
+    *   0
+
+    *   1 – 2
+
+    *   3 – 4
+
+    *   5 – 6
+
+    *   7 – 65
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 3
+
+
+*    *
+    *   Höchster Wert
+        aus Modul 2 oder Modul 3
+
+    *   **0**
+
+    *   **3,75**
+
+    *   **7,5**
+
+    *   **11,25**
+
+    *   **15**
+
+    *   **Gewichtete Punkte für die Module 2 und 3**
+
+
+*    *   4
+
+    *   Selbstversorgung
+
+    *   **40 %**
+
+    *   0 – 2
+
+    *   3 – 7
+
+    *   8 – 18
+
+    *   19 – 36
+
+    *   37 – 54
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 4
+
+
+*    *   **0**
+
+    *   **10**
+
+    *   **20**
+
+    *   **30**
+
+    *   **40**
+
+    *   Gewichtete Punkte im
+        **Modul 4**
+
+
+*    *   5
+
+    *   Bewältigung von und selbständiger Umgang mit
+        krankheits- oder therapiebedingten Anforderungen
+        und Belastungen
+
+    *   **20 %**
+
+    *   0
+
+    *   1
+
+    *   2 – 3
+
+    *   4 – 5
+
+    *   6 – 15
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 5
+
+
+*    *   **0**
+
+    *   **5**
+
+    *   **10**
+
+    *   **15**
+
+    *   **20**
+
+    *   Gewichtete Punkte im
+        **Modul 5**
+
+
+*    *   6
+
+    *   Gestaltung des
+        Alltagslebens und sozialer Kontakte
+
+    *   **15 %**
+
+    *   0
+
+    *   1 – 3
+
+    *   4 – 6
+
+    *   7 – 11
+
+    *   12 – 18
+
+    *   Summe der
+        Einzelpunkte
+        im Modul 6
+
+
+*    *   **0**
+
+    *   **3,75**
+
+    *   **7,5**
+
+    *   **11,25**
+
+    *   **15**
+
+    *   Gewichtete Punkte im
+        **Modul 6**
+
+
+*    *   7
+
+    *   Außerhäusliche
+        Aktivitäten
+
+    *
+    *   Die Berechnung einer Modulbewertung ist entbehrlich, da die
+        Darstellung der qualitativen Ausprägungen bei den einzelnen Kriterien
+        ausreichend ist, um Anhaltspunkte für eine Versorgungs- und
+        Pflegeplanung ableiten zu können.
+
+    *
+
+*    *   8
+
+    *   Haushaltsführung
+
+    *
+
 

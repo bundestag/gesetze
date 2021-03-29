@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1993, 1113
 
 Zuletzt geändert durch
-:   Art. 15 G v. 29.7.2009 I 2542
+:   Art. 419 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -46,7 +46,7 @@ sobald sie sich dort selbständig erhalten können.
 ## Art 3
 
 Koordinierungsbehörde im Sinne der Nummer 2.3 des Abkommens ist das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit.
 
 
 ## Art 4

@@ -2,7 +2,7 @@
 Title: Gesetz über die Änderung von Familiennamen und Vornamen
 jurabk: NamÄndG
 layout: default
-origslug: nam_ndg
+origslug: namaendg
 slug: namaendg
 
 ---
@@ -92,7 +92,7 @@ zu Protokoll bei der unteren Verwaltungsbehörde zu stellen, in deren
 Bezirk der Antragsteller seinen Wohnsitz oder beim Fehlen eines
 Wohnsitzes seinen Aufenthalt hat. Hat er im Deutschen Reich weder
 Wohnsitz noch Aufenthalt, so bestimmt der
-Reichsminister des Innern              die zuständige Behörde.
+Reichsminister des Innern die zuständige Behörde.
 
 (2) Beantragen mehrere Angehörige einer Familie dieselbe
 Namensänderung, so kann der Antrag bei jeder Behörde gestellt werden,
@@ -103,8 +103,7 @@ die zur Entgegennahme auch nur eines Antrags zuständig ist.
 
 Zur Änderung eines Familiennamens ist die höhere Verwaltungsbehörde
 zuständig. Der
-Reichsminister des Innern              kann sich die Entscheidung
-vorbehalten.
+Reichsminister des Innern kann sich die Entscheidung vorbehalten.
 
 
 ## § 7
@@ -118,23 +117,22 @@ vorbehalten.
 Staatsangehöriger oder ein Staatenloser, der seinen Wohnsitz oder
 gewöhnlichen Aufenthalt im Deutschen Reich hat, zu führen berechtigt
 ist, so kann der
-Reichsminister des Innern              diesen Namen auf Antrag eines
-Beteiligten oder von Amts wegen
-mit allgemein verbindlicher Wirkung              feststellen. Die
-Vorschriften der § 2, § 3 Abs. 2, §§ 4 und 5 finden entsprechende
-Anwendung.
+Reichsminister des Innern diesen Namen auf Antrag eines Beteiligten
+oder von Amts wegen
+mit allgemein verbindlicher Wirkung feststellen. Die Vorschriften der
+§ 2, § 3 Abs. 2, §§ 4 und 5 finden entsprechende Anwendung.
 
 (2) Ist in einem auf Antrag eines Beteiligten eingeleiteten Verfahren
 die Entscheidung von der Beurteilung einer familienrechtlichen
 Vorfrage abhängig, so kann der
-Reichsminister des Innern              das Verfahren auf Antrag oder
-von Amts wegen aussetzen und den Antragsteller zur Herbeiführung einer
-Entscheidung über diese Vorfrage auf den Rechtsweg verweisen.
+Reichsminister des Innern das Verfahren auf Antrag oder von Amts wegen
+aussetzen und den Antragsteller zur Herbeiführung einer Entscheidung
+über diese Vorfrage auf den Rechtsweg verweisen.
 
 (3) Hat ein gerichtliches Verfahren das Recht zur Führung eines Namens
 zum Gegenstand, so ist es
-auf Verlangen des Reichsministers des Innern              auszusetzen,
-bis der Name nach Absatz 1 festgestellt ist.
+auf Verlangen des Reichsministers des Innern auszusetzen, bis der Name
+nach Absatz 1 festgestellt ist.
 
 
 ## § 9
@@ -151,9 +149,8 @@ Schriftform.
 ## § 10
 
 Die §§ 1355,
-1577,              1706, 1719, 1736,
-1758              und 1772 des Bürgerlichen Gesetzbuchs bleiben
-unberührt.
+1577, 1706, 1719, 1736,
+1758 und 1772 des Bürgerlichen Gesetzbuchs bleiben unberührt.
 
 
 ## § 11
@@ -173,8 +170,8 @@ entscheidet.
 ## § 13
 
 Der
-Reichsminister des Innern              erläßt die zur Durchführung ...
-dieses Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
+Reichsminister des Innern erläßt die zur Durchführung ... dieses
+Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## § 13a

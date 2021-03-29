@@ -2,7 +2,7 @@
 Title: Anordnung betreffend die Übertragung von Aufgaben auf das Bundesverwaltungsamt
 jurabk: BVwAAufgÜAnO 1992
 layout: default
-origslug: bvwaaufg_ano_1992
+origslug: bvwaaufgueano_1992
 slug: bvwaaufgueano_1992
 
 ---

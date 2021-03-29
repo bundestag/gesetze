@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über Sera, Impfstoffe und Antigene nach dem Tierseuchengesetz
+Title: Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz
 jurabk: TierImpfStV 2006
 layout: default
 origslug: tierimpfstv_2006
@@ -7,7 +7,7 @@ slug: tierimpfstv_2006
 
 ---
 
-# Verordnung über Sera, Impfstoffe und Antigene nach dem Tierseuchengesetz (TierImpfStV 2006)
+# Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz (TierImpfStV 2006)
 
 Ausfertigungsdatum
 :   2006-10-24
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2355
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.9.2011 I 1976
+:   Art. 135 G v. 29.3.2017 I 626
 
 Diese Verordnung dient der Umsetzung der Richtlinie 2001/82/EG des
 Europäischen Parlaments und des Rates vom 6. November 2001 zur
@@ -524,9 +524,9 @@ Behörden.
 
 ### § 3 Herstellungserlaubnis
 
-(1) Der Antrag auf Erlaubnis nach § 17d Abs. 1 des Tierseuchengesetzes
-(Herstellungserlaubnis) muss folgende Angaben und Unterlagen
-enthalten:
+(1) Der Antrag auf Erlaubnis nach § 12 Absatz 1 des
+Tiergesundheitsgesetzes (Herstellungserlaubnis) muss folgende Angaben
+und Unterlagen enthalten:
 
 1.  Angaben zur Person einschließlich Name und Anschrift,
 
@@ -634,7 +634,7 @@ zuständigen Behörde gesetzten Frist gehemmt.
 
 
 (2) Die zuständige Behörde übermittelt dem Bundesministerium für
-Ernährung, Landwirtschaft und Verbraucherschutz eine Durchschrift der
+Ernährung und Landwirtschaft eine Durchschrift der
 Herstellungserlaubnis zur Weiterleitung an die Agentur.
 
 (3) Eine von der zuständigen Behörde vor dem 30. Oktober 2006 erteilte
@@ -721,9 +721,9 @@ des Vertriebsleiters hat die Anzeige unverzüglich zu erfolgen.
 
 ### § 7 Ruhen der Erlaubnis
 
-Anstelle der Rücknahme oder des Widerrufs nach § 17d Abs. 5 Satz 1 des
-Tierseuchengesetzes kann die zuständige Behörde bis zur Beseitigung
-der Rücknahme- oder Widerrufsgründe das Ruhen der
+Anstelle der Rücknahme oder des Widerrufs nach § 12 Absatz 5 Satz 1
+des Tiergesundheitsgesetzes kann die zuständige Behörde bis zur
+Beseitigung der Rücknahme- oder Widerrufsgründe das Ruhen der
 Herstellungserlaubnis anordnen. Die zuständige Behörde unterrichtet
 die jeweils zuständige Zulassungsstelle unverzüglich über die
 Anordnung und das Ende des Ruhens der Herstellungserlaubnis.
@@ -1173,9 +1173,9 @@ einen Bericht.
 (2) Ergibt die Prüfung nach Absatz 1 Satz 2, dass die Voraussetzungen
 nach Absatz 1 Satz 1 vorliegen, erteilt die zuständige Behörde die
 GMP-Bescheinigung innerhalb von 90 Tagen nach Beendigung der Prüfung.
-Sie übermittelt dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz zur Weiterleitung an die Agentur eine
-Durchschrift der Bescheinigung nach Absatz 1.
+Sie übermittelt dem Bundesministerium für Ernährung und Landwirtschaft
+zur Weiterleitung an die Agentur eine Durchschrift der Bescheinigung
+nach Absatz 1.
 
 (3) Beantragt der Inhaber einer Herstellungserlaubnis mit Sitz im
 Inland, der Mittel in einem Drittland herstellt, prüft oder lagert,
@@ -1207,15 +1207,16 @@ Ausgangsstoffen Prüfungen nach Absatz 1 oder § 18 durchführen.
 
 ### § 20 Zulassungsantrag
 
-(1) Die Zulassung nach § 17c Abs. 1 Satz 1 Nr. 1, auch in Verbindung
-mit Satz 2, des Tierseuchengesetzes ist vom pharmazeutischen
-Unternehmer schriftlich und, im Falle eines Mittels, das nicht zur
-Anwendung am Tier bestimmt ist, in deutscher Sprache nach einem von
-der jeweils zuständigen Zulassungsstelle im Bundesanzeiger bekannt
-gemachten Muster zu beantragen. Abweichend von Satz 1 kann die
-zuständige Zulassungsstelle in begründeten Ausnahmefällen die
-Verwendung einer anderen als der deutschen Sprache, insbesondere
-hinsichtlich der dem Antrag beizufügenden Unterlagen, zulassen.
+(1) Die Zulassung nach § 11 Absatz 1 Satz 1 Nummer 1 oder Absatz 2
+Satz 1 des Tiergesundheitsgesetzes ist vom pharmazeutischen
+Unternehmer schriftlich oder elektronisch und, im Falle eines Mittels,
+das nicht zur Anwendung am Tier bestimmt ist, in deutscher Sprache
+nach einem von der jeweils zuständigen Zulassungsstelle im
+Bundesanzeiger bekannt gemachten Muster zu beantragen. Abweichend von
+Satz 1 kann die zuständige Zulassungsstelle in begründeten
+Ausnahmefällen die Verwendung einer anderen als der deutschen Sprache,
+insbesondere hinsichtlich der dem Antrag beizufügenden Unterlagen,
+zulassen.
 
 (2) Die Zulassung kann beantragen, wer seinen Sitz in einem
 Mitgliedstaat oder einem Vertragsstaat des Abkommens über den
@@ -1472,8 +1473,8 @@ Ausnahmenfällen in englischer Sprache vorgelegt werden.
 (2) Ist das Mittel zum Zeitpunkt der Antragstellung bereits in einem
 anderen Mitgliedstaat zugelassen, ist diese Zulassung auf der
 Grundlage des von dem Mitgliedstaat, der das Mittel zugelassen hat,
-übermittelten Beurteilungsberichtes als Zulassung nach § 17c Abs. 1
-Satz 1 Nr. 1, auch in Verbindung mit Satz 2, des Tierseuchengesetzes
+übermittelten Beurteilungsberichtes als Zulassung nach § 11 Absatz 1
+Satz 1 Nummer 1 oder Absatz 2 Satz 1 des Tiergesundheitsgesetzes
 anzuerkennen, es sei denn, dass Anhaltspunkte dafür bestehen, dass die
 Zulassung des Mittels eine schwerwiegende Gefahr für die Gesundheit
 von Mensch oder Tier darstellt oder dieser Zulassung schwerwiegende
@@ -1530,7 +1531,8 @@ ein Vorverfahren nach § 68 der Verwaltungsgerichtsordnung nicht statt.
     Verkehr befunden hat,
 
 
-2.  durch schriftlichen Verzicht des Inhabers der Zulassung oder
+2.  durch schriftlichen oder elektronischen Verzicht des Inhabers der
+    Zulassung oder
 
 
 3.  nach Ablauf von fünf Jahren seit ihrer Erteilung.
@@ -1970,7 +1972,8 @@ Die Charge ist ferner freizugeben, wenn die zuständige Behörde eines
 anderen Mitgliedstaates auf der Grundlage eigener Untersuchungen
 festgestellt hat, dass die Voraussetzungen nach Satz 1 erfüllt sind.
 
-(5) Die Freigabe der Charge wird schriftlich erteilt.
+(5) Die Freigabe der Charge wird schriftlich oder elektronisch
+erteilt.
 
 (6) Die Freigabe der Charge kann mit Auflagen verbunden werden. § 23
 Abs. 4 Satz 2 und 3 gilt entsprechend.
@@ -2029,11 +2032,12 @@ zur Anwendung am Tier bestimmt sind, abweichend von § 32 Abs. 1 auf
 Grund einer Risikoabschätzung im Hinblick auf das Mittel von einer
 staatlichen Chargenprüfung freistellen. Die zuständige
 Zulassungsstelle teilt dem Antragsteller die Freistellung schriftlich
-mit. Liegen der zuständigen Zulassungsstelle Anhaltspunkte dafür vor,
-dass bei einem von der staatlichen Chargenprüfung freigestellten
-Mittel Mängel hinsichtlich der Qualität, der Sicherheit oder der
-Unbedenklichkeit vorliegen, kann die zuständige Zulassungsstelle die
-Freistellung von der staatlichen Chargenprüfung widerrufen.
+oder elektronisch mit. Liegen der zuständigen Zulassungsstelle
+Anhaltspunkte dafür vor, dass bei einem von der staatlichen
+Chargenprüfung freigestellten Mittel Mängel hinsichtlich der Qualität,
+der Sicherheit oder der Unbedenklichkeit vorliegen, kann die
+zuständige Zulassungsstelle die Freistellung von der staatlichen
+Chargenprüfung widerrufen.
 
 
 ### § 34 Rücknahme der Freigabe
@@ -2440,8 +2444,8 @@ vorher anzuzeigen:
 § 6 Abs. 2 gilt entsprechend. Für die Prüfung und Lagerung der Mittel
 gilt § 8 entsprechend.
 
-(6) Für die Rücknahme oder den Widerruf der Einfuhrerlaubnis gilt §
-17d Abs. 5 Satz 1 des Tierseuchengesetzes, für das Ruhen der
+(6) Für die Rücknahme oder den Widerruf der Einfuhrerlaubnis gilt § 12
+Absatz 5 Satz 1 des Tiergesundheitsgesetzes, für das Ruhen der
 Einfuhrerlaubnis § 7 entsprechend.
 
 
@@ -2501,8 +2505,8 @@ Anwendung am Tier bestimmt sind, nur abgeben an
 
 
 (2) Pharmazeutische Unternehmer dürfen Muster von Mitteln, die zur
-Anwendung am Tier bestimmt sind, nur auf jeweilige schriftliche
-Anforderung abgeben
+Anwendung am Tier bestimmt sind, nur auf jeweilige schriftliche oder
+elektronische Anforderung abgeben
 
 1.  an Tierärzte,
 
@@ -2617,7 +2621,7 @@ oder an eine von diesem beauftragte Person, das bestimmt ist
 
 
 3.  zur Durchführung von Impfungen, die auf Grund einer Genehmigung nach §
-    17c Abs. 4 Nr. 2 des Tierseuchengesetzes durchgeführt werden,
+    11 Absatz 5 Satz 1 des Tiergesundheitsgesetzes durchgeführt werden,
 
 
 
@@ -2744,13 +2748,14 @@ Behörde auf Verlangen vorzulegen.
 Anwendung durch den Tierhalter oder der von diesem beauftragten Person
 vorgesehen ist, der für den Tierhalter zuständigen Behörde unter
 Vorlage des Anwendungsplans nach Absatz 1 Satz 1 Nr. 3 und der Angabe
-der Anschrift des Tierhalters schriftlich anzuzeigen. Die wiederholte
-Abgabe eines Mittels nach Satz 1 ist erneut anzuzeigen, soweit sie in
-einem Kalenderjahr erfolgt, in dem der Tierarzt noch keine Abgabe
-dieses Mittels an den Tierhalter oder die von diesem beauftragte
-Person vorgenommen hat. In den Fällen des Satzes 2 bedarf es keiner
-erneuten Vorlage eines Anwendungsplans. Die Anzeigen nach Satz 1 und
-Satz 2 können im automatisierten Verfahren erfolgen.
+der Anschrift des Tierhalters schriftlich oder elektronisch
+anzuzeigen. Die wiederholte Abgabe eines Mittels nach Satz 1 ist
+erneut anzuzeigen, soweit sie in einem Kalenderjahr erfolgt, in dem
+der Tierarzt noch keine Abgabe dieses Mittels an den Tierhalter oder
+die von diesem beauftragte Person vorgenommen hat. In den Fällen des
+Satzes 2 bedarf es keiner erneuten Vorlage eines Anwendungsplans. Die
+Anzeigen nach Satz 1 und Satz 2 können im automatisierten Verfahren
+erfolgen.
 
 (7) Abweichend von Absatz 1 Satz 1 dürfen in folgenden Fällen Mittel
 nicht vom Tierhalter oder der von diesem beauftragten Person
@@ -2764,8 +2769,8 @@ angewendet werden:
     vorgeschriebene Impfungen, die mittels Injektion vorzunehmen sind,
 
 
-3.  Impfungen, die auf Grund einer Genehmigung nach § 17c Abs. 4 Nr. 2 des
-    Tierseuchengesetzes durchgeführt werden.
+3.  Impfungen, die auf Grund einer Genehmigung nach § 11 Absatz 5 Satz 1
+    des Tiergesundheitsgesetzes durchgeführt werden.
 
 
 
@@ -2807,106 +2812,99 @@ Hochschulbereich oder der pharmazeutischen Industrie tätig sind.
 
 ### § 47 Ordnungswidrigkeiten
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig einer mit
-einer Anordnung nach § 15 Abs. 1 Satz 3 verbundenen vollziehbaren
-Auflage zuwiderhandelt.
+(1) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 6 Abs. 1 Satz 1 oder Abs. 2, § 28 Abs. 3 Satz 2, auch in
-    Verbindung mit Abs. 4, oder § 30 Abs. 4 Nr. 1 eine Anzeige nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+1.  entgegen § 9 Absatz 3 Satz 2 oder Satz 3 ein Kleidungsstück, einen
+    sonstigen Gegenstand oder eine Schutzkleidung nicht oder nicht
+    rechtzeitig ablegt oder eine dort genannte Schutzkleidung nicht oder
+    nicht rechtzeitig anlegt,
 
 
-2.  entgegen § 8 Abs. 2, auch in Verbindung mit § 38 Abs. 5 Satz 3, nicht
-    sicherstellt, dass ein Mittel in der dort genannten Weise hergestellt,
-    geprüft oder gelagert wird,
+2.  entgegen § 9 Absatz 4 Nummer 2 Satzteil vor Satz 2 nicht sicherstellt,
+    dass eine dort genannte Aufzeichnung gemacht wird,
 
 
-3.  entgegen § 8 Abs. 3 Satz 1, auch in Verbindung mit § 14 Satz 1 oder §
-    38 Abs. 5 Satz 3, § 12 Satz 2, § 15 Abs. 2 Satz 2, § 30 Abs. 4 Nr. 3
-    Buchstabe a oder § 40 Abs. 4 Satz 1 Nr. 1, 2, 3, 4, 5 oder 6 oder Abs.
-    5 Satz 2 eine Aufzeichnung nicht, nicht richtig oder nicht vollständig
-    macht,
-
-
-4.  entgegen § 8 Abs. 3 Satz 2, auch in Verbindung mit § 14 Satz 1 oder §
-    38 Abs. 5 Satz 3, § 10 Abs. 2 Satz 4, § 15 Abs. 1 Satz 1 oder § 30
-    Abs. 4 Nr. 4 ein Chargenprotokoll, eine Aufzeichnung, eine Probe oder
-    eine Unterlage nicht oder nicht für die vorgeschriebene Dauer
-    aufbewahrt,
-
-
-5.  entgegen § 8 Abs. 6, auch in Verbindung mit § 14 Satz 1 oder § 38 Abs.
-    5 Satz 3, ein Chargenprotokoll nicht oder nicht rechtzeitig
-    unterzeichnet,
-
-
-6.  entgegen § 9 Abs. 3 Satz 2 oder 3 ein Kleidungsstück, einen sonstigen
-    Gegenstand oder eine Schutzkleidung nicht ablegt oder eine dort
-    genannte Schutzkleidung nicht anlegt,
-
-
-7.  entgegen § 9 Abs. 4 Nr. 2 nicht sicherstellt, dass die dort genannten
-    Aufzeichnungen gemacht werden,
-
-
-8.  entgegen § 9 Abs. 6 Satz 1 ein totes Tier, einen Teil eines toten
+3.  entgegen § 9 Absatz 6 Satz 1 ein totes Tier, einen Teil eines toten
     Tieres, ein Gerät oder einen sonstigen Gegenstand verbringt,
 
 
-9.  entgegen § 9 Abs. 7 Satz 1 Dung oder flüssige Abgänge verbringt,
+4.  entgegen § 9 Absatz 7 Satz 1 Dung oder flüssigen Abgang verbringt,
 
 
-10. entgegen § 10 Abs. 1 Nr. 1 nicht sicherstellt, dass ein Tier in der
-    dort genannten Weise gehalten wird,
+5.  entgegen § 28 Absatz 2 Satz 1, auch in Verbindung mit Absatz 4, eine
+    Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
+    rechtzeitig macht oder
 
 
-11. entgegen § 10 Abs. 1 Nr. 2 nicht sicherstellt, dass eine dort genannte
-    Person in anderen Teilen des Betriebs eingesetzt wird,
+6.  entgegen § 30 Absatz 6 Nummer 3 die zuständige Zulassungsstelle nicht,
+    nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet.
 
 
-12. entgegen § 12 Satz 1 eine Wartezeit nicht, nicht richtig oder nicht
+
+
+(2) Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe c des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
+
+1.  entgegen § 6 Absatz 1 Satz 1 oder Absatz 2 eine Anzeige nicht, nicht
+    richtig, nicht vollständig oder nicht rechtzeitig erstattet,
+
+
+2.  entgegen § 8 Absatz 2, auch in Verbindung mit § 38 Absatz 5 Satz 3,
+    nicht sicherstellt, dass ein Mittel in der dort genannten Weise
+    hergestellt, geprüft oder gelagert wird,
+
+
+3.  entgegen § 8 Absatz 3 Satz 2, auch in Verbindung mit § 14 Satz 1 oder
+    § 38 Absatz 5 Satz 3, § 10 Absatz 2 Satz 4 oder § 15 Absatz 1 Satz 1
+    ein Chargenprotokoll, eine Aufzeichnung oder eine Probe nicht oder
+    nicht für die vorgeschriebene Dauer aufbewahrt,
+
+
+4.  entgegen § 8 Absatz 6, auch in Verbindung mit § 14 Satz 1 oder § 38
+    Absatz 5 Satz 3, ein Chargenprotokoll nicht oder nicht rechtzeitig
+    unterzeichnet,
+
+
+5.  entgegen § 10 Absatz 1 Nummer 1 nicht sicherstellt, dass ein Tier in
+    der dort genannten Weise gehalten wird,
+
+
+6.  entgegen § 10 Absatz 1 Nummer 2 nicht sicherstellt, dass eine dort
+    genannte Person nicht in einem anderen Teil des Betriebs eingesetzt
+    wird,
+
+
+7.  entgegen § 12 Satz 1 eine Wartezeit nicht, nicht richtig oder nicht
     rechtzeitig festlegt,
 
 
-13. entgegen § 14 Satz 2 Nr. 2 nicht sicherstellt, dass die dort genannten
-    Proben entnommen werden,
+8.  entgegen § 14 Satz 2 Nummer 2 nicht sicherstellt, dass eine dort
+    genannte Probe entnommen wird,
 
 
-14. entgegen § 15 Abs. 1 Satz 2 nicht sicherstellt, dass die Identität
+9.  entgegen § 15 Absatz 1 Satz 2 nicht sicherstellt, dass die Identität
     einer Probe mit der Charge gewahrt ist,
 
 
-15. entgegen § 28 Abs. 2 Satz 1, auch in Verbindung mit Abs. 4, eine
-    Mitteilung nicht, nicht richtig, nicht vollständig oder nicht
-    rechtzeitig macht,
+10. einer mit einer Zulassung nach § 15 Absatz 1 Satz 3 verbundenen
+    vollziehbaren Auflage zuwiderhandelt,
 
 
-16. entgegen § 30 Abs. 6 Nr. 3 die zuständige Zulassungsstelle nicht,
-    nicht richtig, nicht vollständig oder nicht rechtzeitig unterrichtet,
+11. entgegen § 32 Absatz 1 Satz 1, § 35 Absatz 1 Satz 1, § 36 Absatz 1
+    Satz 1, § 40 Absatz 1, 2 oder Absatz 3 Satz 2 oder 3, § 41 Absatz 1
+    Satz 1 oder § 42 ein Mittel, eine Charge oder ein Muster eines Mittels
+    abgibt,
 
 
-17. entgegen § 32 Abs. 1 Satz 1, § 35 Abs. 1 Satz 1, § 36 Abs. 1 Satz 1, §
-    40 Abs. 1, 2 oder 3 Satz 2 oder 3, § 41 Abs. 1 Satz 1 oder § 42 ein
-    Mittel, eine Charge oder ein Muster eines Mittels abgibt,
+12. entgegen § 40 Absatz 5 Satz 1 eine Prüfung nicht oder nicht
+    rechtzeitig durchführt,
 
 
-18. ohne Erlaubnis nach § 38 Abs. 1 ein Mittel einführt,
+13. entgegen § 43 ein Mittel anwendet oder
 
 
-19. entgegen § 39 Abs. 1 ein Mittel einführt,
-
-
-20. entgegen § 40 Abs. 5 Satz 1 eine Prüfung nicht durchführt,
-
-
-21. entgegen § 43 ein Mittel oder eine Mischung von Mitteln anwendet oder
-
-
-22. entgegen § 45 Abs. 1 Satz 1 ein Mittel vorrätig hält.
+14. entgegen § 45 Absatz 1 Satz 1 ein Mittel vorrätig hält.
 
 
 

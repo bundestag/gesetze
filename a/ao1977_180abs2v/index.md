@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1986, 2663
 
 Zuletzt geändert durch
-:   Art. 4 G v. 20.12.2008 I 2850
+:   Art. 4 V v. 18.7.2016 I 1722
 
 
 ## Eingangsformel
@@ -46,20 +46,10 @@ dienende Wirtschaftsgüter, Anlagen oder Einrichtungen
     hergestellt oder unterhalten haben (Gesamtobjekt).
 
 
-Satz 1 Nr. 2 gilt entsprechend a) bei Wohneigentum, das nicht der Einkunftserzielung dient,
 
-
-b)  bei der Anschaffung von Genossenschaftsanteilen im Sinne des § 17 des
-    Eigenheimzulagengesetzes und
-
-
-c)  bei Mietwohngebäuden,
-
-
-
-wenn die Feststellung für die Besteuerung, für die Festsetzung der
-Eigenheimzulage oder für die Festsetzung der Investitionszulage von
-Bedeutung ist.
+Satz 1 Nummer 2 gilt entsprechend bei Wohneigentum, das nicht der
+Einkunftserzielung dient, und bei Mietwohngebäuden, wenn die
+Feststellung für die Besteuerung von Bedeutung ist.
 
 (2) Absatz 1 gilt für die Umsatzsteuer nur, wenn mehrere Unternehmer
 im Rahmen eines Gesamtobjekts Umsätze ausführen oder empfangen.
@@ -200,14 +190,32 @@ gesondert und bei mehreren Beteiligten einheitlich festzustellen.
 
 ## § 9 Feststellungsgegenstand bei Einsatz von Versicherungen auf den Erlebens- oder Todesfall zu Finanzierungszwecken
 
-Sind für Beiträge zu Versicherungen auf den Erlebens- oder Todesfall
-die Voraussetzungen für den Sonderausgabenabzug nach § 10 Abs. 1 Nr. 3
-Buchstabe b des Einkommensteuergesetzes nicht erfüllt, stellt das für
-die Einkommensbesteuerung des Versicherungsnehmers zuständige
-Finanzamt die Steuerpflicht der außerrechnungsmäßigen und
-rechnungsmäßigen Zinsen aus den in den Beiträgen enthaltenen
-Sparanteilen (§ 52 Abs. 36 letzter Satz des Einkommensteuergesetzes)
-gesondert fest.
+Das für die Besteuerung des Einkommens des Versicherungsnehmers
+zuständige Finanzamt stellt die Steuerpflicht der
+außerrechnungsmäßigen und rechnungsmäßigen Zinsen aus den in den
+Beiträgen zu Versicherungen auf den Erlebens- oder den Todesfall
+enthaltenen Sparanteilen (§ 20 Absatz 1 Nummer 6 in Verbindung mit §
+10 Absatz 1 Nummer 2 Buchstabe b Doppelbuchstabe bb bis dd des
+Einkommensteuergesetzes in der am 31. Dezember 2004 geltenden Fassung)
+gesondert fest, wenn
+
+1.  die Ansprüche aus den Versicherungsverträgen während deren Dauer im
+    Erlebensfall der Tilgung oder Sicherung eines Darlehens dienen, dessen
+    Finanzierungskosten Betriebsausgaben oder Werbungskosten sind und
+
+
+2.  nicht die Voraussetzungen für den Sonderausgabenabzug nach § 10 Absatz
+    2 Satz 2 Buchstabe a oder Buchstabe b des Einkommensteuergesetzes in
+    der am 31. Dezember 2004 geltenden Fassung erfüllt sind oder soweit
+    bei Versicherungsbeiträgen Zinsen in Veranlagungszeiträumen
+    gutgeschrieben werden, in denen die Beiträge nach § 10 Absatz 2 Satz 2
+    Buchstabe c des Einkommensteuergesetzes in der am 31. Dezember 2004
+    geltenden Fassung nicht abgezogen werden können.
+
+
+
+Versicherungen im Sinne des Satzes 1 sind solche, deren
+Versicherungsvertrag vor dem 1. Januar 2005 abgeschlossen worden ist.
 
 
 ## § 10 (weggefallen)
@@ -231,5 +239,9 @@ der Anteile die Steuerfreistellung nach § 8b Abs. 4 des
 Körperschaftsteuergesetzes in der am 12. Dezember 2006 geltenden
 Fassung oder nach § 3 Nr. 40 Satz 3 und 4 des Einkommensteuergesetzes
 in der am 12. Dezember 2006 geltenden Fassung ausgeschlossen ist,
-weiterhin anzuwenden.
+weiterhin anzuwenden. § 1 Absatz 1 Satz 2 in der am 23. Juli 2016
+geltenden Fassung ist erstmals auf Feststellungszeiträume anzuwenden,
+die nach dem 31. Dezember 2015 beginnen; für Feststellungszeiträume,
+die vor dem 1. Januar 2016 geendet haben, ist § 1 Absatz 1 Satz 2 in
+der am 22. Juli 2016 geltenden Fassung weiterhin anzuwenden.
 

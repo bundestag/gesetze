@@ -2,7 +2,7 @@
 Title: Zollübereinkommen über den internationalen Warentransport mit Carnets TIR
 jurabk: TIRÜbk 1975
 layout: default
-origslug: tir_bk_1975
+origslug: tiruebk_1975
 slug: tiruebk_1975
 
 ---

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 3603
 
+Zuletzt geändert durch
+:   Art. 24 Abs. 34 G v. 23.6.2017 I 1693
+
     Diese Verordnung dient der weiteren Umsetzung der aufsichtsrechtlichen
     Vorschriften der Richtlinie 2007/64/EG des Europäischen Parlaments und
     des Rates vom 13. November 2007 über Zahlungsdienste im Binnenmarkt,
@@ -189,12 +192,12 @@ mittelbar über ein oder mehrere Tochterunternehmen oder ein
 gleichartiges Verhältnis, über mehrere Beteiligungsketten, im
 Zusammenwirken mit anderen, bei Treuhandverhältnissen oder in anderen
 Fällen der Zurechnung von Stimmrechtsanteilen nach § 1 Absatz 9 Satz 2
-und 3 des Kreditwesengesetzes in Verbindung mit § 22 Absatz 1 bis 3a
-des Wertpapierhandelsgesetzes gehalten werden. Die Absichtsanzeigen
-sind vollständig im Sinne des § 11 Absatz 1 Satz 2 des
-Zahlungsdiensteaufsichtsgesetzes in Verbindung mit § 2c Absatz 1 Satz
-7 und Absatz 1a Satz 1 des Kreditwesengesetzes, wenn das Formular nach
-Satz 1 vollständig ausgefüllt ist und alle erforderlichen Anlagen
+und 3 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit § 34
+Absatz 1 und 2 und § 35 des Wertpapierhandelsgesetzes gehalten werden.
+Die Absichtsanzeigen sind vollständig im Sinne des § 11 Absatz 1 Satz
+2 des Zahlungsdiensteaufsichtsgesetzes in Verbindung mit § 2c Absatz 1
+Satz 7 und Absatz 1a Satz 1 des Kreditwesengesetzes, wenn das Formular
+nach Satz 1 vollständig ausgefüllt ist und alle erforderlichen Anlagen
 beigefügt sind. Können nicht alle erforderlichen Anlagen beigefügt
 werden, sind die Gründe hierfür anzugeben und die fehlenden Anlagen
 unverzüglich nachzureichen. Erst mit deren Eingang gelten die
@@ -617,19 +620,30 @@ Diese Verordnung tritt am 31. Oktober 2009 in Kraft.
 
 ## Anlage 6 (zu § 10 Absatz 2 Satz 5)
 
-(Fundstelle: BGBl. I 2009, 3634 - 3635)
+(Fundstelle: BGBl. I 2009, 3634 - 3635; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
+
+(Inhalt Seite 1: Nicht darstellbares Formblatt)
 
 
 
 ## Anlage 7 (zu § 11 Absatz 1 und 2)
 
-(Fundstelle: BGBl. I 2009, 3636 - 3638)
+(Fundstelle: BGBl. I 2009, 3636 - 3638; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
+
+(Inhalt Seite 1: Nicht darstellbares Formblatt)
 
 
 
 
 ## Anlage 8 (zu § 12 Absatz 1 und 2)
 
-(Fundstelle: BGBl. I 2009, 3639 - 3640)
+(Fundstelle: BGBl. I 2009, 3639 - 3640; bzgl. einzelner Änderungen
+vgl. Fußnote)
+
+(Inhalt Seite 1: Nicht darstellbares Formblatt)
 
 

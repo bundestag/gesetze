@@ -16,14 +16,14 @@ Fundstelle
 :   BGBl I: 1976, 3341 (1977 I 667)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 1.11.2011 I 2131
+:   Art. 3 G v. 30.6.2017 I 2143
 
 
 ## Erster Abschnitt - Änderung von Gesetzen auf dem Gebiet des Finanzwesens
 
 
 
-### Art 1 bis 6 -
+### Art 1 bis 6 - 
 
 
 
@@ -40,7 +40,7 @@ Betriebe auf den 1. Januar 1977 und bei der Festsetzung von Steuern,
 bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
 
-### Art 8 bis 38 -
+### Art 8 bis 38 - 
 
 
 
@@ -48,7 +48,7 @@ bei denen die Steuer nach dem 31. Dezember 1976 entsteht.
 
 
 
-### Art 39 bis 96 -
+### Art 39 bis 96 - 
 
 
 
@@ -115,6 +115,27 @@ zugeleitet werden, können bestimmen, dass sie ab dem Zeitpunkt der
 Bekanntgabe der in § 2 Absatz 2 der Abgabenordnung genannten und nach
 dem 31. Dezember 2010 geschlossenen Konsultationsvereinbarung im
 Bundessteuerblatt gelten.
+
+(10) Die durch Artikel 3 des Gesetzes vom 18. Juli 2014 (BGBl. I S.
+1042) geänderten Vorschriften sind auf alle am 24. Juli 2014
+anhängigen Verfahren anzuwenden, soweit nichts anderes bestimmt ist. §
+122 Absatz 7 Satz 1 und § 183 Absatz 4 in der Fassung des Artikels 3
+des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) gelten für alle nach
+dem 23. Juli 2014 erlassenen Verwaltungsakte. § 15 und § 263 in der
+Fassung des Artikels 3 des Gesetzes vom 18. Juli 2014 (BGBl. I S.
+1042) sind ab dem 24. Juli 2014 anzuwenden.
+
+(11) Durch das Gesetz vom 18. Juli 2016 (BGBl. I S. 1679) geänderte
+oder eingefügte Vorschriften der Abgabenordnung sind auf alle bei
+Inkrafttreten dieser Vorschriften anhängigen Verfahren anzuwenden,
+soweit nichts anderes bestimmt ist.
+
+(12) Die durch das Gesetz vom 23. Juni 2017 (BGBl. I S. 1682)
+geänderten oder eingefügten Vorschriften der Abgabenordnung sind auf
+alle am 25. Juni 2017 anhängigen Verfahren anzuwenden, soweit nichts
+anderes bestimmt ist. § 30a der Abgabenordnung in der am 24. Juni 2017
+geltenden Fassung ist ab dem 25. Juni 2017 auch auf Sachverhalte, die
+vor diesem Zeitpunkt verwirklicht worden sind, nicht mehr anzuwenden.
 
 
 ### § 1a Steuerlich unschädliche Betätigungen
@@ -261,11 +282,6 @@ sowie der Verbrauchsteuern bedarf nicht der Zustimmung des
 Bundesrates.
 
 
-### § 7
-
-(weggefallen)
-
-
 ### § 6 Zahlungszeitpunkt bei Scheckzahlung
 
 § 224 Abs. 2 Nr. 1 der Abgabenordnung in der Fassung des Artikels 10
@@ -305,6 +321,30 @@ hierbei nicht zu berücksichtigen.
 auf Steuererklärungen anzuwenden, die Steuern betreffen, die nach dem
 31\. Dezember 2001 entstehen.
 
+(4) § 152 der Abgabenordnung in der am 1. Januar 2017 geltenden
+Fassung ist vorbehaltlich des Satzes 4 erstmals auf Steuererklärungen
+anzuwenden, die nach dem 31. Dezember 2018 einzureichen sind. Eine
+Verlängerung der Steuererklärungsfrist ist hierbei nicht zu
+berücksichtigen. § 152 der Abgabenordnung in der am 31. Dezember 2016
+geltenden Fassung ist weiterhin anzuwenden auf
+
+1.  Steuererklärungen, die vor dem 1. Januar 2019 einzureichen sind, und
+
+
+2.  Umsatzsteuererklärungen für den kürzeren Besteuerungszeitraum nach §
+    18 Absatz 3 Satz 1 und 2 des Umsatzsteuergesetzes, wenn die
+    gewerbliche oder berufliche Tätigkeit im Laufe des Kalenderjahres 2018
+    endet.
+
+
+
+Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung des
+Bundesrates durch Rechtsverordnung einen abweichenden erstmaligen
+Anwendungszeitpunkt zu bestimmen, wenn bis zum 30. Juni 2018 erkennbar
+ist, dass die technischen oder organisatorischen Voraussetzungen für
+eine Anwendung des § 152 der Abgabenordnung in der am 1. Januar 2017
+geltenden Fassung noch nicht erfüllt sind.
+
 
 ### § 9 Aufhebung und Änderung von Verwaltungsakten
 
@@ -332,6 +372,10 @@ Abgabenordnung in der in Satz 1 genannten Fassung ist nicht für die
 Bescheinigung der anrechenbaren Körperschaftsteuer bei verdeckten
 Gewinnausschüttungen anzuwenden.
 
+(4) § 173a der Abgabenordnung in der am 1. Januar 2017 geltenden
+Fassung ist erstmals auf Verwaltungsakte anzuwenden, die nach dem 31.
+Dezember 2016 erlassen worden sind.
+
 
 ### § 9a Absehen von Steuerfestsetzung, Abrundung
 
@@ -346,6 +390,13 @@ Fassung vorbehaltlich des Absatzes 2 weiter anwendbar.
 (BGBl. I S. 2255) in der bis zum 31. Dezember 2001 geltenden Fassung
 ist auf Zinsen letztmals anzuwenden, wenn die Zinsen vor dem 1. Januar
 2002 festgesetzt werden.
+
+(3) Die Vorschriften der Kleinbetragsverordnung vom 19. Dezember 2000
+(BGBl. I S. 1790, 1805) in der am 1. Januar 2017 geltenden Fassung
+sind auf Steuern anzuwenden, die nach dem 31. Dezember 2016 entstehen.
+Für Steuern, die vor dem 1. Januar 2017 entstehen, sind die
+Vorschriften der Kleinbetragsverordnung in der am 31. Dezember 2016
+geltenden Fassung weiter anzuwenden.
 
 
 ### § 10 Festsetzungsverjährung
@@ -407,6 +458,27 @@ Artikels 9 des Gesetzes vom 8. Dezember 2010 (BGBl. I S. 1768) gilt
 für die Energiesteuer auf Erdgas für alle am 14. Dezember 2010 noch
 nicht abgelaufenen Festsetzungsfristen.
 
+(11) § 171 Absatz 15 der Abgabenordnung in der Fassung des Artikels 11
+des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) gilt für alle am 30.
+Juni 2013 noch nicht abgelaufenen Festsetzungsfristen.
+
+(12) § 171 Absatz 10 Satz 2 der Abgabenordnung in der Fassung des
+Artikels 1 des Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) gilt
+für alle am 31. Dezember 2014 noch nicht abgelaufenen
+Festsetzungsfristen.
+
+(13) § 170 Absatz 6 der Abgabenordnung in der Fassung des Artikels 1
+des Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2415) gilt für alle
+nach dem 31. Dezember 2014 beginnenden Festsetzungsfristen.
+
+(14) § 171 Absatz 2 Satz 2 und Absatz 10 Satz 1 bis 3 der
+Abgabenordnung in der am 1. Januar 2017 geltenden Fassung gilt für
+alle am 31. Dezember 2016 noch nicht abgelaufenen Festsetzungsfristen.
+
+(15) § 170 Absatz 7 der Abgabenordnung in der am 25. Juni 2017
+geltenden Fassung gilt für alle nach dem 31. Dezember 2017 beginnenden
+Festsetzungsfristen.
+
 
 ### § 10a Erklärungspflicht
 
@@ -425,13 +497,35 @@ Artikels 3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist
 erstmals für Besteuerungszeiträume anzuwenden, die nach dem 31.
 Dezember 2009 beginnen.
 
+(4) Die §§ 109 und 149 der Abgabenordnung in der am 1. Januar 2017
+geltenden Fassung sind erstmals anzuwenden für Besteuerungszeiträume,
+die nach dem 31. Dezember 2017 beginnen, und Besteuerungszeitpunkte,
+die nach dem 31. Dezember 2017 liegen. § 150 Absatz 7 der
+Abgabenordnung in der am 1. Januar 2017 geltenden Fassung ist erstmals
+anzuwenden für Besteuerungszeiträume, die nach dem 31. Dezember 2016
+beginnen, und Besteuerungszeitpunkte, die nach dem 31. Dezember 2016
+liegen. § 8 Absatz 4 Satz 3 und 4 ist entsprechend anzuwenden.
+
 
 ### § 10b Gesonderte Feststellungen
 
 § 180 Abs. 1 Nr. 2 Buchstabe a, Abs. 4 und Abs. 5 der Abgabenordnung
 in der Fassung des Artikels 26 des Gesetzes vom 21. Dezember 1993
 (BGBl. I S. 2310) ist erstmals auf Feststellungszeiträume anzuwenden,
-die nach dem 31. Dezember 1994 beginnen.
+die nach dem 31. Dezember 1994 beginnen. § 180 Absatz 1 Satz 2 der
+Abgabenordnung in der Fassung des Artikels 1 des Gesetzes vom 22.
+Dezember 2014 (BGBl. I S. 2417) ist erstmals auf
+Feststellungszeiträume anzuwenden, die nach dem 31. Dezember 2014
+beginnen.
+
+
+### § 10c Billigkeitsmaßnahmen bei der Festsetzung des Gewerbesteuermessbetrags
+
+§ 184 Absatz 2 der Abgabenordnung in der Fassung des Artikels 1 des
+Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) ist auch für nach dem
+31\. Dezember 2014 getroffene Maßnahmen nach § 163 Absatz 1 Satz 1 der
+Abgabenordnung anzuwenden, die Besteuerungszeiträume betreffen, die
+vor dem 1. Januar 2015 abgelaufen sind.
 
 
 ### § 11 Haftung
@@ -444,6 +538,10 @@ Tatbestand nach dem 31. Dezember 1976 verwirklicht worden ist.
 Fassung des Steuerbereinigungsgesetzes 1986 anzuwenden, wenn der
 haftungsbegründende Tatbestand nach dem 31. Dezember 1986 verwirklicht
 worden ist.
+
+(3) § 71 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
+ist erstmals anzuwenden, wenn der haftungsbegründende Tatbestand nach
+dem 31. Dezember 2016 verwirklicht worden ist.
 
 
 ### § 11a Insolvenzverfahren
@@ -493,6 +591,15 @@ Verwaltungsakte, die ein Sicherungsgeld festsetzen, ist § 100 Abs. 2
 der Finanzgerichtsordnung nicht anzuwenden.
 
 
+### § 13a Änderung widerstreitender Abrechnungsbescheide und Anrechnungsverfügungen
+
+§ 218 Absatz 3 der Abgabenordnung in der Fassung des Artikels 1 des
+Gesetzes vom 22. Dezember 2014 (BGBl. I S. 2417) gilt ab dem 31.
+Dezember 2014 auch für Abrechnungsbescheide und
+Anrechnungsverfügungen, die vor dem 31. Dezember 2014 erlassen worden
+sind.
+
+
 ### § 14 Zahlungsverjährung
 
 (1) Die Vorschriften der Abgabenordnung über die Zahlungsverjährung
@@ -517,6 +624,10 @@ Verjährungsfristen.
 Fassung des Artikels 17 des Gesetzes vom 22. Dezember 1999 (BGBl. I S.
 2601) gilt für alle bei Inkrafttreten dieses Gesetzes noch nicht
 abgelaufenen Verjährungsfristen.
+
+(5) § 228 Satz 2 sowie § 231 Absatz 1 Satz 1 und Absatz 2 Satz 1 der
+Abgabenordnung in der am 25. Juni 2017 geltenden Fassung gelten für
+alle am 24. Juni 2017 noch nicht abgelaufenen Verjährungsfristen.
 
 
 ### § 15 Zinsen
@@ -572,6 +683,13 @@ I S. 1790) gilt in allen Fällen, in denen Zinsen nach dem 31. Dezember
 (11) § 233a Absatz 2 Satz 2 der Abgabenordnung in der Fassung des
 Artikels 3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) gilt
 für alle Steuern, die nach dem 31. Dezember 2009 entstehen.
+
+(12) § 239 Absatz 3 der Abgabenordnung in der am 1. Januar 2017
+geltenden Fassung ist erstmals auf Feststellungszeiträume anzuwenden,
+die nach dem 31. Dezember 2016 beginnen. § 239 Absatz 4 der
+Abgabenordnung in der am 1. Januar 2017 geltenden Fassung ist erstmals
+auf Zinsbescheide anzuwenden, die nach dem 31. Dezember 2016 erlassen
+worden sind.
 
 
 ### § 16 Säumniszuschläge
@@ -639,22 +757,12 @@ die Art der Abgabe und die Höhe des beizutreibenden Betrags angibt und
 auf den Kontoauszug Bezug nimmt, der den Rückstand ausweist.
 
 
-### § 17a Pfändungsgebühren
+### § 17a Kosten der Vollstreckung
 
-Die Höhe der Pfändungsgebühren richtet sich
-
-1.  in den Fällen des § 339 Abs. 1 Nr. 1 der Abgabenordnung nach dem
-    Gebührenrecht, das in dem Zeitpunkt gilt, in dem der für die Erhebung
-    der Gebühr maßgebende Tatbestand erfüllt wird,
-
-
-2.  in den Fällen des § 339 Abs. 1 Nr. 2 der Abgabenordnung nach dem
-    Gebührenrecht, das in dem Zeitpunkt gilt, in dem die
-    Pfändungsverfügung den Bereich der Vollstreckungsbehörde verlassen
-    hat.
-
-
-
+Die Höhe der Gebühren und Auslagen im Vollstreckungsverfahren richtet
+sich nach dem Recht, das in dem Zeitpunkt gilt, in dem der Tatbestand
+verwirklicht ist, an den die Abgabenordnung die Entstehung der Gebühr
+oder der Auslage knüpft.
 
 
 ### § 17b Eidesstattliche Versicherung
@@ -683,12 +791,19 @@ vom 22. Dezember 1999 (BGBl. I S. 2601) gilt in allen Fällen, in denen
 ein Zwangsgeld nach dem 31. Dezember 1999 angedroht wird.
 
 
-### § 17e Aufteilung einer Gesamtschuld bei Ehegatten
+### § 17e Aufteilung einer Gesamtschuld bei Ehegatten oder Lebenspartnern
 
-Die §§ 270, 273 Absatz 1 und § 279 Absatz 2 Nummer 4 der
+(1) Die §§ 270, 273 Absatz 1 und § 279 Absatz 2 Nummer 4 der
 Abgabenordnung in der Fassung des Artikels 3 des Gesetzes vom 1.
 November 2011 (BGBl. I S. 2131) sind erstmals für den
 Veranlagungszeitraum 2013 anzuwenden.
+
+(2) § 269 Absatz 1 der Abgabenordnung in der am 1. Januar 2017
+geltenden Fassung ist ab dem 1. Januar 2017 anzuwenden. § 279 Absatz 1
+Satz 1 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
+ist erstmals auf Aufteilungsbescheide anzuwenden, die nach dem 31.
+Dezember 2016 erlassen worden sind; § 8 Absatz 4 Satz 4 gilt
+entsprechend.
 
 
 ### § 18 Außergerichtliche Rechtsbehelfe
@@ -878,7 +993,10 @@ Gewinne der Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
 2003 beginnen. § 141 Abs. 1 Satz 1 Nr. 4 der Abgabenordnung in der
 Fassung des Artikels 5 des Gesetzes vom 7. September 2007 (BGBl. I S.
 2246) ist auf Gewinne der Wirtschaftsjahre anzuwenden, die nach dem
-31\. Dezember 2007 beginnen.
+31\. Dezember 2007 beginnen. § 141 Absatz 1 Satz 1 Nummer 4 der
+Abgabenordnung in der am 1. Januar 2016 geltenden Fassung ist auf
+Gewinne der Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
+2015 beginnen.
 
 (4) § 141 Abs. 1 Satz 1 Nr. 5 der Abgabenordnung in der Fassung des
 Artikels 6 des Gesetzes vom 31. Juli 2003 (BGBl. I S. 1550) ist auf
@@ -886,7 +1004,10 @@ Gewinne der Kalenderjahre anzuwenden, die nach dem 31. Dezember 2003
 beginnen. § 141 Abs. 1 Satz 1 Nr. 5 der Abgabenordnung in der Fassung
 des Artikels 5 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246)
 ist auf Gewinne der Kalenderjahre anzuwenden, die nach dem 31.
-Dezember 2007 beginnen.
+Dezember 2007 beginnen. § 141 Absatz 1 Satz 1 Nummer 5 der
+Abgabenordnung in der am 1. Januar 2016 geltenden Fassung ist auf
+Gewinne der Kalenderjahre anzuwenden, die nach dem 31. Dezember 2015
+beginnen.
 
 (5) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
 nicht, wenn die Voraussetzungen des § 141 Abs. 1 der Abgabenordnung
@@ -915,6 +1036,25 @@ jedoch im Kalenderjahr 2007 nicht die Voraussetzungen des § 141 Abs. 1
 Satz 1 Nr. 4 und Nr. 5 der Abgabenordnung in der Fassung des Artikels
 5 des Gesetzes vom 7. September 2007 (BGBl. I S. 2246).
 
+(8) § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung in der am 1.
+Januar 2016 geltenden Fassung ist auf Umsätze der Kalenderjahre
+anzuwenden, die nach dem 31. Dezember 2015 beginnen. Eine Mitteilung
+über den Beginn der Buchführungspflicht ergeht nicht, wenn die
+Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der Abgabenordnung
+in der am 31. Dezember 2015 geltenden Fassung für Kalenderjahre, die
+vor dem 1. Januar 2016 liegen, erfüllt sind, jedoch im Kalenderjahr
+2015 die Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 1 der
+Abgabenordnung in der am 1. Januar 2016 geltenden Fassung nicht
+erfüllt sind.
+
+(9) Eine Mitteilung über den Beginn der Buchführungspflicht ergeht
+nicht, wenn die Voraussetzungen des § 141 Absatz 1 Satz 1 Nummer 4 und
+5 der Abgabenordnung in der am 31. Dezember 2015 geltenden Fassung für
+Kalenderjahre, die vor dem 1. Januar 2016 liegen, erfüllt sind, jedoch
+im Kalenderjahr 2015 die Voraussetzungen des § 141 Absatz 1 Satz 1
+Nummer 4 und 5 der Abgabenordnung in der am 1. Januar 2016 geltenden
+Fassung nicht erfüllt sind.
+
 
 ### § 19a Aufbewahrungsfristen
 
@@ -922,6 +1062,10 @@ Satz 1 Nr. 4 und Nr. 5 der Abgabenordnung in der Fassung des Artikels
 Gesetzes vom 19. Dezember 1998 (BGBl. I S. 3816) gilt erstmals für
 Unterlagen, deren Aufbewahrungsfrist nach § 147 Abs. 3 der
 Abgabenordnung in der bis zum 23. Dezember 1998 geltenden Fassung noch
+nicht abgelaufen ist. § 147 Absatz 3 Satz 3 und 4 der Abgabenordnung
+in der am 1. Januar 2017 geltenden Fassung gilt für alle
+Lieferscheine, deren Aufbewahrungsfrist nach § 147 Absatz 3 der
+Abgabenordnung in der bis zum 31. Dezember 2016 geltenden Fassung noch
 nicht abgelaufen ist.
 
 
@@ -978,13 +1122,20 @@ Wirtschaftsjahre noch bestehen, sind die Aufzeichnungen der sie
 betreffenden wirtschaftlichen und rechtlichen Grundlagen spätestens
 sechs Monate nach Inkrafttreten der Rechtsverordnung im Sinne des § 90
 Abs. 3 der Abgabenordnung in der Fassung des Artikels 9 des Gesetzes
-vom 16. Mai 2003 (BGBl. I S. 660) zu erstellen.
+vom 16. Mai 2003 (BGBl. I S. 660) zu erstellen. § 90 Absatz 3 der
+Abgabenordnung in der am 24. Dezember 2016 geltenden Fassung ist
+erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
+2016 beginnen.
 
 (2) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
 des Bundesrates den Zeitpunkt der erstmaligen Anwendung von § 90
 Absatz 2 Satz 3, § 147a, § 162 Absatz 2 Satz 3 und § 193 Absatz 1 und
 Absatz 2 Nummer 3 in der Fassung des Artikels 3 des Gesetzes vom 29.
 Juli 2009 (BGBl. I S. 2302).
+
+(3) § 147a Absatz 2 der Abgabenordnung in der am 25. Juni 2017
+geltenden Fassung ist erstmals auf Besteuerungszeiträume anzuwenden,
+die nach dem 31. Dezember 2017 beginnen.
 
 
 ### § 23 Verfolgungsverjährung
@@ -1007,19 +1158,212 @@ leichtfertigen Steuerverkürzung für die Anwendung des § 378 Absatz 3
 der Abgabenordnung.
 
 
-### § 25 Gebühren für die Bearbeitung von Anträgen auf Erteilung einer verbindlichen Auskunft
+### § 25 Erteilung einer verbindlichen Auskunft
 
-§ 89 Absatz 3 bis 7 der Abgabenordnung in der Fassung des Artikels 3
-des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals auf
+(1) § 89 Absatz 3 bis 7 der Abgabenordnung in der Fassung des Artikels
+3 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals auf
 Anträge anzuwenden, die nach dem 4. November 2011 bei der zuständigen
 Finanzbehörde eingegangen sind.
 
+(2) § 89 Absatz 2 Satz 4 in der am 1. Januar 2017 geltenden Fassung
+ist erstmals auf nach dem 31. Dezember 2016 bei der zuständigen
+Finanzbehörde eingegangene Anträge auf Erteilung einer verbindlichen
+Auskunft anzuwenden. § 89 Absatz 3 Satz 2 in der am 23. Juli 2016
+geltenden Fassung ist erstmals auf nach dem 22. Juli 2016 bei der
+zuständigen Finanzbehörde eingegangene Anträge auf Erteilung einer
+einheitlichen verbindlichen Auskunft anzuwenden.
 
-### § 26 Kontenabrufmöglichkeit
 
-§ 93 Absatz 7 Satz 1 Nummer 2 der Abgabenordnung in der am 31.
+### § 26 Kontenabrufmöglichkeit und Kontenwahrheit
+
+(1) § 93 Absatz 7 Satz 1 Nummer 2 der Abgabenordnung in der am 31.
 Dezember 2011 geltenden Fassung ist für Veranlagungszeiträume vor 2012
 weiterhin anzuwenden.
+
+(2) § 93 Absatz 7 Satz 1 Nummer 4 bis 4b und Satz 2 zweiter Halbsatz
+der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung ist ab
+dem 1. Januar 2018 anzuwenden. Bis zum 31. Dezember 2017 ist § 93
+Absatz 7 der Abgabenordnung in der am 24. Juni 2017 geltenden Fassung
+weiter anzuwenden.
+
+(3) § 93 Absatz 7 Satz 2 erster Halbsatz und Absatz 8 sowie § 93b
+Absatz 1a und 2 der Abgabenordnung in der am 25. Juni 2017 geltenden
+Fassung sind ab dem 1. Januar 2020 anzuwenden. Bis zum 31. Dezember
+2019 ist § 93 Absatz 7 Satz 2 Halbsatz 1 und Absatz 8 sowie § 93b
+Absatz 2 der Abgabenordnung in der am 24. Juni 2017 geltenden Fassung
+weiter anzuwenden.
+
+(4) § 154 Absatz 2 bis 2c der Abgabenordnung in der am 25. Juni 2017
+geltenden Fassung ist erstmals auf nach dem 31. Dezember 2017
+begründete Geschäftsbeziehungen anzuwenden.
+
+(5) Für Geschäftsbeziehungen zu Kreditinstituten im Sinne des § 154
+Absatz 2 Satz 1 der Abgabenordnung in der am 25. Juni 2017 geltenden
+Fassung, die vor dem 1. Januar 2018 begründet worden sind und am 1.
+Januar 2018 noch bestehen, gilt Folgendes:
+
+1.  Kreditinstitute haben bis zum 31. Dezember 2019 für den Kontoinhaber,
+    jeden anderen Verfügungsberechtigten und jeden wirtschaftlich
+    Berechtigten im Sinne des Geldwäschegesetzes
+
+    a)  die Adresse,
+
+
+    b)  bei natürlichen Personen das Geburtsdatum sowie
+
+
+    c)  die in § 154 Absatz 2a Satz 1 der Abgabenordnung in der am 25. Juni
+        2017 geltenden Fassung genannten Daten
+
+
+
+    in den Aufzeichnungen nach § 154 Absatz 2 bis 2c der Abgabenordnung in
+    der am 25. Juni 2017 geltenden Fassung und in dem nach § 93b Absatz 1
+    und 1a der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung zu
+    führenden Dateisystem zu erfassen. § 154 Absatz 2a Satz 3 der
+    Abgabenordnung in der am 25. Juni 2017 geltenden Fassung ist
+    entsprechend anzuwenden.
+
+
+2.  Teilen der Vertragspartner oder gegebenenfalls für ihn handelnde
+    Personen dem Kreditinstitut die nach § 154 Absatz 2a Satz 1 Nummer 1
+    der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung zu
+    erfassende Identifikationsnummer einer betroffenen Person bis zum 31.
+    Dezember 2019 nicht mit und hat das Kreditinstitut die
+    Identifikationsnummer dieser Person auch nicht aus anderem Anlass
+    rechtmäßig erfasst, hat es sie bis zum 30. Juni 2020 in einem
+    maschinellen Verfahren beim Bundeszentralamt für Steuern zu erfragen.
+    § 154 Absatz 2b Satz 2 und 3 der Abgabenordnung in der am 25. Juni
+    2017 geltenden Fassung gilt entsprechend.
+
+
+3.  Soweit das Kreditinstitut die nach § 154 Absatz 2a der Abgabenordnung
+    in der am 25. Juni 2017 geltenden Fassung zu erhebenden Daten auf
+    Grund unzureichender Mitwirkung des Vertragspartners und
+    gegebenenfalls für ihn handelnder Personen bis zum 30. Juni 2020 nicht
+    ermitteln kann, hat es dies auf dem Konto festzuhalten. In diesem Fall
+    hat das Kreditinstitut dem Bundeszentralamt für Steuern die
+    betroffenen Konten sowie die hierzu nach § 154 Absatz 2 der
+    Abgabenordnung in der am 25. Juni 2017 geltenden Fassung erhobenen
+    Daten bis zum 30. September 2020 mitzuteilen.
+
+
+4.  § 154 Absatz 2d der Abgabenordnung in der am 25. Juni 2017 geltenden
+    Fassung bleibt unberührt.
+
+
+
+
+
+### § 27 Elektronische Datenübermittlung an Finanzbehörden
+
+(1) § 72a Absatz 1 bis 3, § 87a Absatz 6, die §§ 87b bis 87e und 150
+Absatz 6 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
+sind erstmals anzuwenden, wenn Daten nach dem 31. Dezember 2016 auf
+Grund gesetzlicher Vorschriften nach amtlich vorgeschriebenem
+Datensatz über amtlich bestimmte Schnittstellen an Finanzbehörden zu
+übermitteln sind oder freiwillig übermittelt werden. Für Daten im
+Sinne des Satzes 1, die vor dem 1. Januar 2017 zu übermitteln sind
+oder freiwillig übermittelt werden, sind § 150 Absatz 6 und 7 der
+Abgabenordnung und die Vorschriften der Steuerdaten-
+Übermittlungsverordnung in der jeweils am 31. Dezember 2016 geltenden
+Fassung weiter anzuwenden.
+
+(2) § 72a Absatz 4, die §§ 93c, 93d und 171 Absatz 10a sowie die §§
+175b und 203a der Abgabenordnung in der am 1. Januar 2017 geltenden
+Fassung sind erstmals anzuwenden, wenn steuerliche Daten eines
+Steuerpflichtigen für Besteuerungszeiträume nach 2016 oder
+Besteuerungszeitpunkte nach dem 31. Dezember 2016 auf Grund
+gesetzlicher Vorschriften von einem Dritten als mitteilungspflichtiger
+Stelle elektronisch an Finanzbehörden zu übermitteln sind.
+
+(3) § 175b Absatz 4 der Abgabenordnung in der am 25. Juni 2017
+geltenden Fassung ist erstmals anzuwenden, wenn Daten im Sinne des §
+93c der Abgabenordnung der Finanzbehörde nach dem 24. Juni 2017
+zugehen.
+
+
+### § 28 Elektronische Bekanntgabe von Verwaltungsakten
+
+§ 87a Absatz 7 und 8, die §§ 122a und 169 Absatz 1 der Abgabenordnung
+in der am 1. Januar 2017 geltenden Fassung sind erstmals auf
+Verwaltungsakte anzuwenden, die nach dem 31. Dezember 2016 erlassen
+worden sind. § 8 Absatz 4 Satz 4 gilt entsprechend.
+
+
+### § 29 Abweichende Festsetzung von Steuern aus Billigkeitsgründen
+
+§ 163 der Abgabenordnung in der am 1. Januar 2017 geltenden Fassung
+ist für nach dem 31. Dezember 2016 getroffene Billigkeitsmaßnahmen
+auch dann anzuwenden, wenn sie Besteuerungszeiträume oder
+Besteuerungszeitpunkte betreffen, die vor dem 1. Januar 2017
+abgelaufen oder eingetreten sind.
+
+
+### § 30 Ordnungsvorschrift für die Buchführung und für Aufzeichnungen mittels elektronischer Aufzeichnungssysteme
+
+(1) Die §§ 146a und 379 Absatz 1 Satz 1 und Absatz 4 der
+Abgabenordnung in der am 29. Dezember 2016 geltenden Fassung sowie §
+379 Absatz 5 und 6 der Abgabenordnung in der am 25. Juni 2017
+geltenden Fassung sind erstmals für Kalenderjahre nach Ablauf des 31.
+Dezember 2019 anzuwenden. Die Mitteilung nach § 146a Absatz 4 der
+Abgabenordnung in der am 29. Dezember 2016 geltenden Fassung ist für
+elektronische Aufzeichnungssysteme, die der Steuerpflichtige vor dem
+1\. Januar 2020 angeschafft hat, bis zum 31. Januar 2020 zu erstatten.
+
+(2) § 146b der Abgabenordnung in der am 29. Dezember 2016 geltenden
+Fassung ist nach Ablauf des 31. Dezember 2017 anzuwenden. § 146b
+Absatz 2 Satz 2 der Abgabenordnung ist in der am 29. Dezember 2016
+geltenden Fassung vor dem 1. Januar 2020 mit der Maßgabe anzuwenden,
+dass keine Datenübermittlung über die einheitliche Schnittstelle
+verlangt werden kann oder dass diese auf einem maschinell auswertbaren
+Datenträger nach den Vorgaben der einheitlichen Schnittstelle zur
+Verfügung gestellt werden muss. § 146b Absatz 1 Satz 2 der
+Abgabenordnung in der am 29. Dezember 2016 geltenden Fassung ist
+erstmals für Kalenderjahre nach Ablauf des 31. Dezember 2019
+anzuwenden.
+
+(3) Wurden Registrierkassen nach dem 25. November 2010 und vor dem 1.
+Januar 2020 angeschafft, die den Anforderungen des BMF-Schreibens vom
+26\. November 2010 (BStBl. I S. 1342) entsprechen und die bauartbedingt
+nicht aufrüstbar sind, so dass sie die Anforderungen des § 146a der
+Abgabenordnung nicht erfüllen, dürfen diese Registrierkassen bis zum
+31\. Dezember 2022 abweichend von den § 146a und § 379 Absatz 1 Satz 1
+und Absatz 4 der Abgabenordnung weiter verwendet werden.
+
+
+### § 31 Länderbezogener Bericht multinationaler Unternehmensgruppen
+
+§ 138a Absatz 1, 2, 3, 6 und 7 der Abgabenordnung in der am 24.
+Dezember 2016 geltenden Fassung ist erstmals für Wirtschaftsjahre
+anzuwenden, die nach dem 31. Dezember 2015 beginnen. § 138a Absatz 4
+und 5 der Abgabenordnung in der am 24. Dezember 2016 geltenden Fassung
+ist erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31.
+Dezember 2016 beginnen.
+
+
+### § 32 Mitteilungspflicht über Beziehungen zu Drittstaat-Gesellschaften
+
+(1) § 138 Absatz 2 bis 5, § 138b und § 379 Absatz 2 Nummer 1d der
+Abgabenordnung in der am 25. Juni 2017 geltenden Fassung sind erstmals
+auf mitteilungspflichtige Sachverhalte anzuwenden, die nach dem 31.
+Dezember 2017 verwirklicht worden sind. Auf Sachverhalte, die vor dem
+1\. Januar 2018 verwirklicht worden sind, ist § 138 Absatz 2 und 3 der
+Abgabenordnung in der am 24. Juni 2017 geltenden Fassung weiter
+anzuwenden.
+
+(2) Inländische Steuerpflichtige im Sinne des § 138 Absatz 2 Satz 1
+der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung, die vor
+dem 1. Januar 2018 erstmals unmittelbar oder mittelbar einen
+beherrschenden oder bestimmenden Einfluss auf die
+gesellschaftsrechtlichen, finanziellen oder geschäftlichen
+Angelegenheiten einer Drittstaat-Gesellschaft im Sinne des § 138
+Absatz 3 der Abgabenordnung in der am 25. Juni 2017 geltenden Fassung
+ausüben konnten, haben dies dem für sie nach den §§ 18 bis 20 der
+Abgabenordnung zuständigen Finanzamt mitzuteilen, wenn dieser Einfluss
+auch noch am 1. Januar 2018 fortbesteht. § 138 Absatz 5 der
+Abgabenordnung in der am 25. Juni 2017 geltenden Fassung gilt in
+diesem Fall entsprechend.
 
 
 ### Art 97a - Überleitungsregelungen aus Anlaß der Herstellung der Einheit Deutschlands
@@ -1230,7 +1574,7 @@ Betriebe und Einrichtungen zu verrechnen.
 (weggefallen)
 
 
-### Art 98 -
+### Art 98 - 
 
 Soweit in Rechtsvorschriften auf Vorschriften verwiesen wird, die
 durch dieses Gesetz aufgehoben werden, treten an deren Stelle die
@@ -1277,7 +1621,7 @@ erlassen werden, bedürfen, außer wenn sie die Biersteuer betreffen,
 nicht der Zustimmung des Bundesrates.
 
 
-### Art 100 -
+### Art 100 - 
 
 -
 

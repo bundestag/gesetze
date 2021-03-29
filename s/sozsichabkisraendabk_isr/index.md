@@ -3,7 +3,7 @@ Title: Abkommen zur Änderung des Abkommens vom 17. Dezember 1973 zwischen der B
   Deutschland und dem Staat Israel über Soziale Sicherheit
 jurabk: SozSichAbkISRÄndAbk ISR
 layout: default
-origslug: sozsichabkisr_ndabk_isr
+origslug: sozsichabkisraendabk_isr
 slug: sozsichabkisraendabk_isr
 
 ---

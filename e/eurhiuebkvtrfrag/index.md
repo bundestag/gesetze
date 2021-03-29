@@ -4,7 +4,7 @@ Title: Gesetz zu dem Vertrag vom 24. Oktober 1974 zwischen der Bundesrepublik De
   über die Rechtshilfe in Strafsachen
 jurabk: EuRHiÜbkVtrFRAG
 layout: default
-origslug: eurhi_bkvtrfrag
+origslug: eurhiuebkvtrfrag
 slug: eurhiuebkvtrfrag
 
 ---

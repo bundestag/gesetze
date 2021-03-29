@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1976, 1153
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 113 G v. 22.12.2011 I 3044
+:   Art. 7 G v. 24.4.2015 I 642
 
 
 ## Erster Teil - Geltungsbereich
@@ -181,9 +181,9 @@ gesetzlichen Vorschriften ergibt.
 (2) Die Bildung und die Zusammensetzung des Aufsichtsrats sowie die
 Bestellung und die Abberufung seiner Mitglieder bestimmen sich nach
 den §§ 7 bis 24 dieses Gesetzes und, soweit sich dies nicht schon aus
-anderen gesetzlichen Vorschriften ergibt, nach § 96 Abs. 2, den §§ 97
-bis 101 Abs. 1 und 3 und den §§ 102 bis 106 des Aktiengesetzes mit der
-Maßgabe, daß die Wählbarkeit eines Prokuristen als
+anderen gesetzlichen Vorschriften ergibt, nach § 96 Absatz 4, den §§
+97 bis 101 Abs. 1 und 3 und den §§ 102 bis 106 des Aktiengesetzes mit
+der Maßgabe, daß die Wählbarkeit eines Prokuristen als
 Aufsichtsratsmitglied der Arbeitnehmer nur ausgeschlossen ist, wenn
 dieser dem zur gesetzlichen Vertretung des Unternehmens befugten Organ
 unmittelbar unterstellt und zur Ausübung der Prokura für den gesamten
@@ -203,17 +203,17 @@ Genossenschaftsgesetzes nicht anzuwenden.
 
 (1) Der Aufsichtsrat eines Unternehmens
 
-1.  mit in der Regel nicht mehr als 10.000 Arbeitnehmern setzt sich
+1.  mit in der Regel nicht mehr als 10 000 Arbeitnehmern setzt sich
     zusammen aus je sechs Aufsichtsratsmitgliedern der Anteilseigner und
     der Arbeitnehmer;
 
 
-2.  mit in der Regel mehr als 10.000, jedoch nicht mehr als 20.000
+2.  mit in der Regel mehr als 10 000, jedoch nicht mehr als 20 000
     Arbeitnehmern setzt sich zusammen aus je acht Aufsichtsratsmitgliedern
     der Anteilseigner und der Arbeitnehmer;
 
 
-3.  mit in der Regel mehr als 20.000 Arbeitnehmern setzt sich zusammen aus
+3.  mit in der Regel mehr als 20 000 Arbeitnehmern setzt sich zusammen aus
     je zehn Aufsichtsratsmitgliedern der Anteilseigner und der
     Arbeitnehmer.
 
@@ -244,7 +244,12 @@ befinden
 
 
 
-(3) Die in Absatz 2 bezeichneten Arbeitnehmer des Unternehmens müssen
+(3) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in § 1
+Absatz 1 genannten, börsennotierten Unternehmens müssen im Fall des §
+96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und Männer jeweils mit
+einem Anteil von mindestens 30 Prozent vertreten sein.
+
+(4) Die in Absatz 2 bezeichneten Arbeitnehmer des Unternehmens müssen
 das 18. Lebensjahr vollendet haben und ein Jahr dem Unternehmen
 angehören. Auf die einjährige Unternehmensangehörigkeit werden Zeiten
 der Angehörigkeit zu einem anderen Unternehmen, dessen Arbeitnehmer
@@ -255,7 +260,7 @@ Aufsichtsratsmitgliedern des Unternehmens berechtigt sind. Die
 weiteren Wählbarkeitsvoraussetzungen des § 8 Abs. 1 des
 Betriebsverfassungsgesetzes müssen erfüllt sein.
 
-(4) Die in Absatz 2 bezeichneten Gewerkschaften müssen in dem
+(5) Die in Absatz 2 bezeichneten Gewerkschaften müssen in dem
 Unternehmen selbst oder in einem anderen Unternehmen vertreten sein,
 dessen Arbeitnehmer nach diesem Gesetz an der Wahl von
 Aufsichtsratsmitgliedern des Unternehmens teilnehmen.
@@ -522,7 +527,7 @@ Zeit.
 die in dem Unternehmen selbst oder in einem anderen Unternehmen
 vertreten sind, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von
 Aufsichtsratsmitgliedern des Unternehmens teilnehmen. Wird nur ein
-Wahlvorschlag gemacht, so findet abweichend von Satz 1 Mehrheitswahl
+Wahlvorschlag gemacht, so findet abweichend von Absatz 1 Mehrheitswahl
 statt. In diesem Fall muß der Wahlvorschlag mindestens doppelt so
 viele Bewerber enthalten, wie Vertreter von Gewerkschaften in den
 Aufsichtsrat zu wählen sind.
@@ -541,6 +546,12 @@ als Ersatzmitglied vorgeschlagen werden.
 (2) Wird ein Bewerber als Aufsichtsratsmitglied gewählt, so ist auch
 das zusammen mit ihm vorgeschlagene Ersatzmitglied gewählt.
 
+(3) Im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes ist das
+Nachrücken eines Ersatzmitgliedes ausgeschlossen, wenn dadurch der
+Anteil von Frauen und Männern unter den Aufsichtsratsmitgliedern der
+Arbeitnehmer nicht mehr den Vorgaben des § 7 Absatz 3 entspricht; §
+18a Absatz 2 Satz 2 gilt entsprechend.
+
 
 #### Vierter Unterabschnitt - Unmittelbare Wahl der Aufsichtsratsmitglieder der Arbeitnehmer
 
@@ -557,7 +568,57 @@ Stelle der Delegierten die wahlberechtigten Arbeitnehmer des
 Unternehmens treten.
 
 
-#### Fünfter Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern
+#### Fünfter Unterabschnitt - Nichterreichen des Geschlechteranteils durch die Wahl
+
+
+
+##### § 18a
+
+(1) Ergibt im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes die
+Auszählung der Stimmen und ihre Verteilung auf die Bewerber, dass die
+Vorgaben des § 7 Absatz 3 nicht erreicht worden sind, ist folgendes
+Geschlechterverhältnis für die Aufsichtsratssitze der Arbeitnehmer
+herzustellen:
+
+1.  in Aufsichtsräten nach § 7 Absatz 2 Nummer 1 und 2 müssen unter den
+    Aufsichtsratsmitgliedern der Arbeitnehmer nach § 3 Absatz 1 Nummer 1
+    jeweils mindestens eine Frau und mindestens ein Mann und unter den
+    Aufsichtsratsmitgliedern der Gewerkschaften jeweils eine Frau und ein
+    Mann vertreten sein;
+
+
+2.  in einem Aufsichtsrat nach § 7 Absatz 2 Nummer 3 müssen unter den
+    Aufsichtsratsmitgliedern der Arbeitnehmer nach § 3 Absatz 1 Nummer 1
+    mindestens zwei Frauen und mindestens zwei Männer und unter den
+    Aufsichtsratsmitgliedern der Gewerkschaften eine Frau und ein Mann
+    vertreten sein.
+
+
+
+
+(2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen, ist
+die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der
+Arbeitnehmer unwirksam, deren Geschlecht in dem jeweiligen Wahlgang
+nach der Verteilung der Stimmen auf die Bewerber mehrheitlich
+vertreten ist und die
+
+1.  bei einer Mehrheitswahl in dem jeweiligen Wahlgang nach der
+    Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die
+    niedrigsten Stimmenzahlen erhalten haben oder
+
+
+2.  bei einer Verhältniswahl in dem jeweiligen Wahlgang nach der
+    Reihenfolge der auf die Bewerber entfallenden Höchstzahlen die
+    niedrigsten Höchstzahlen erhalten haben.
+
+
+
+Die durch unwirksame Wahl nach Satz 1 nicht besetzten
+Aufsichtsratssitze werden im Wege der gerichtlichen Ersatzbestellung
+nach § 104 des Aktiengesetzes oder der Nachwahl besetzt.
+
+
+#### Sechster Unterabschnitt - Weitere Vorschriften über das Wahlverfahren sowie über die Bestellung und Abberufung von Aufsichtsratsmitgliedern
 
 
 
@@ -1016,7 +1077,8 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 4.  die Errechnung der Zahl der Aufsichtsratsmitglieder der Arbeitnehmer
     sowie ihre Verteilung auf die in § 3 Abs. 1 Nr. 1 bezeichneten
     Arbeitnehmer, die leitenden Angestellten und die
-    Gewerkschaftsvertreter,
+    Gewerkschaftsvertreter sowie das Verfahren zur Berücksichtigung der
+    Geschlechter,
 
 
 5.  die Errechnung der Zahl der Delegierten,
@@ -1048,40 +1110,21 @@ Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere
 
 ### § 40 Übergangsregelung
 
-(1) Auf Wahlen oder Abberufungen von Aufsichtsratsmitgliedern der
-Arbeitnehmer, die nach dem 28. Juli 2001 bis zum 26. März 2002
-eingeleitet wurden, ist das Mitbestimmungsgesetz vom 4. Mai 1976
-(BGBl. I S. 1153) in der durch Artikel 12 des Betriebsverfassungs-
-Reformgesetzes vom 23. Juli 2001 (BGBl. I S. 1852) geänderten Fassung
-anzuwenden. Abweichend von Satz 1 findet § 11 des
-Mitbestimmungsgesetzes vom 4. Mai 1976 (BGBl. I S. 1153) in der durch
-Artikel 1 des Gesetzes zur Vereinfachung der Wahl der
-Arbeitnehmervertreter in den Aufsichtsrat vom 23. März 2002 (BGBl. I
-S. 1130) geänderten Fassung Anwendung, wenn feststeht, dass die
-Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte zu wählen
-sind und bis zum 26. März 2002 die Errechnung der Zahl der Delegierten
-noch nicht erfolgt ist.
+(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 abgeschlossen sind, ist das Mitbestimmungsgesetz
+vom 4. Mai 1976 (BGBl. I S. 1153) in der Fassung des Artikels 2 Absatz
+113 des Gesetzes vom 22. Dezember 2011 (BGBl. I S. 3044) anzuwenden.
 
-(2) Auf Wahlen oder Abberufungen von Aufsichtsratsmitgliedern der
-Arbeitnehmer, die nach dem 28. Juli 2001 eingeleitet wurden, finden
-die Erste Wahlordnung zum Mitbestimmungsgesetz vom 23. Juni 1977
-(BGBl. I S. 861), geändert durch Artikel 1 der Verordnung vom 9.
-November 1990 (BGBl. I S. 2487), die Zweite Wahlordnung zum
-Mitbestimmungsgesetz vom 23. Juni 1977 (BGBl. I S. 893), geändert
-durch Artikel 2 der Verordnung vom 9. November 1990 (BGBl. I S. 2487)
-und die Dritte Wahlordnung zum Mitbestimmungsgesetz vom 23. Juni 1977
-(BGBl. I S. 934), geändert durch Artikel 3 der Verordnung vom 9.
-November 1990 (BGBl. I S. 2487) bis zu deren Änderung entsprechende
-Anwendung. Für die entsprechende Anwendung ist für Wahlen oder
-Abberufungen von Aufsichtsratsmitgliedern der Arbeitnehmer, die in dem
-Zeitraum nach dem 28. Juli 2001 bis zum 26. März 2002 eingeleitet
-wurden, das Mitbestimmungsgesetz vom 4. Mai 1976 (BGBl. I S. 1153) in
-der nach Absatz 1 anzuwendenden Fassung maßgeblich; für Wahlen oder
-Abberufungen von Aufsichtsratsmitgliedern der Arbeitnehmer, die nach
-dem 26. März 2002 eingeleitet werden, ist das Mitbestimmungsgesetz vom
-4\. Mai 1976 (BGBl. I S. 1153) in der durch Artikel 1 des Gesetzes zur
-Vereinfachung der Wahl der Arbeitnehmervertreter in den Aufsichtsrat
-vom 23. März 2002 (BGBl. I S. 1130) geänderten Fassung maßgeblich.
+(2) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis
+zum 31. Dezember 2015 nicht abgeschlossen sind, ist im Fall des § 96
+Absatz 2 Satz 3 des Aktiengesetzes das Mitbestimmungsgesetz in der
+durch Artikel 7 des Gesetzes vom 24. April 2015 (BGBl. I S. 642)
+geänderten Fassung anzuwenden.
+
+(3) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als
+abgeschlossen, wenn die Bekanntmachung der Mitglieder des
+Aufsichtsrates nach § 19 Satz 1 durch das zur gesetzlichen Vertretung
+des Unternehmens befugte Organ erfolgt ist.
 
 
 ### § 41 Inkrafttreten

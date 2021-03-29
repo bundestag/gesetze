@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 2860
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.3.2012 I 483
+:   Art. 1 V v. 2.7.2017 I 2268
 
 
 ## § 1 Anwendungsbereich und Begriffsbestimmungen
@@ -30,16 +30,16 @@ Zusammenhang stehenden Arbeitsschutz zu gewährleisten.
 (2) Internationale Regelungen im Sinne dieses Gesetzes sind die in den
 Abschnitten A bis C der Anlage aufgeführten Vorschriften des
 innerstaatlich geltenden Völkerrechts und die in Abschnitt D der
-Anlage aufgeführten Rechtsakte der Europäischen Gemeinschaften in der
-jeweils angegebenen Fassung. Internationale Schiffssicherheitsnormen
-im Sinne dieses Gesetzes sind die in Abschnitt E der Anlage
-aufgeführten in Deutschland als anwendbare anerkannte Regeln der
-Technik oder der seemännischen Praxis bekanntgemachten Vorschriften in
-der jeweils angegebenen Fassung. Zu den Schiffssicherheitsregelungen
-im Sinne des Satzes 1 gehören auch die internationalen Vorschriften,
-die die Abwehr äußerer Gefahren regeln, soweit auf diese Vorschriften
-in Übereinstimmung mit den nachfolgenden Bestimmungen in der Anlage
-Bezug genommen ist.
+Anlage aufgeführten Rechtsakte der Europäischen Gemeinschaften oder
+der Europäischen Union in der jeweils angegebenen Fassung.
+Internationale Schiffssicherheitsnormen im Sinne dieses Gesetzes sind
+die in Abschnitt E der Anlage aufgeführten in Deutschland als
+anwendbare anerkannte Regeln der Technik oder der seemännischen Praxis
+bekanntgemachten Vorschriften in der jeweils angegebenen Fassung. Zu
+den Schiffssicherheitsregelungen im Sinne des Satzes 1 gehören auch
+die internationalen Vorschriften, die die Abwehr äußerer Gefahren
+regeln, soweit auf diese Vorschriften in Übereinstimmung mit den
+nachfolgenden Bestimmungen in der Anlage Bezug genommen ist.
 
 (3) Dieses Gesetz gilt, vorbehaltlich der Bestimmung des § 6 Abs. 3,
 nicht für
@@ -50,9 +50,7 @@ nicht für
     Verwendung von Lichtern und Signalen,
 
 
-2.  die Durchführung des Seemannsgesetzes einschließlich der beruflichen
-    Ausbildung, Prüfung und Befähigung des Seefahrtpersonals und der
-    darauf bezogenen Nachweise,
+2.  (weggefallen)
 
 
 3.  die Beförderung gefährlicher Güter im Sinne des § 9 Abs. 1 Satz 1 Nr.
@@ -138,7 +136,8 @@ den folgenden Grundsätzen anwendbar:
     unberührt. Zusätzliche Verpflichtungen in diesem Sinne sind für
     Schiffe unter der Flagge eines Mitgliedstaats der Europäischen Union
     auch Verpflichtungen auf Grund der in § 14 Abs. 1 und in Abschnitt D
-    der Anlage genannten Rechtsakte der Europäischen Gemeinschaften.
+    der Anlage genannten Rechtsakte der Europäischen Gemeinschaften oder
+    der Europäischen Union.
 
 
 5.  Die in Abschnitt D der Anlage genannten Regelungen in bezug auf
@@ -167,11 +166,12 @@ nicht anwendbar.
 Wer ein Schiff zur Seefahrt einsetzt, ist verpflichtet, für dessen
 sicheren Betrieb und insbesondere dafür zu sorgen, daß es samt seinem
 Zubehör in betriebssicherem Zustand gehalten und sicher geführt wird
-und daß die notwendigen Vorkehrungen zum Schutze Dritter und der
-Meeresumwelt vor Gefahren oder widerrechtlichen Beeinträchtigungen aus
-dem Betrieb getroffen werden. Dies umfaßt auch, daß Personen, die in
-dem Schiffahrtsunternehmen und auf dem Schiff hierfür beauftragt
-werden, wirksam ausgewählt, angeleitet, unterrichtet, beobachtet und
+und daß die notwendigen Vorkehrungen zum Schutze Dritter vor Gefahren
+aus dem Betrieb sowie zum Schutz der Meeresumwelt und der Luft vor
+Gefahren oder widerrechtlichen Beeinträchtigungen aus dem Betrieb
+getroffen werden. Dies umfaßt auch, daß Personen, die in dem
+Schiffahrtsunternehmen und auf dem Schiff hierfür beauftragt werden,
+wirksam ausgewählt, angeleitet, unterrichtet, beobachtet und
 unterstützt werden.
 
 
@@ -190,23 +190,23 @@ Grundsätze. Bei der Erfüllung der Pflichten sind die in Abschnitt C
 der Anlage genannten Bestimmungen zugrunde zu legen.
 
 
-## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften
+## § 5 Umsetzung von Verpflichtungen in Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union\*)
 
 (1) Soweit die in Abschnitt D der Anlage genannten Regelungen der
-Europäischen Gemeinschaften durch Verpflichtung der Mitgliedstaaten
-der Europäischen Union darauf abzielen, daß in ihnen genannte
-Personen, Organisationen oder Unternehmen bestimmte Pflichten
-einzuhalten haben, sind die sich daraus ergebenden Pflichten von den
-jeweils Genannten zu erfüllen; diese sind insoweit für die Einhaltung
-der Regelungen verantwortlich.
+Europäischen Gemeinschaften oder der Europäischen Union durch
+Verpflichtung der Mitgliedstaaten der Europäischen Union darauf
+abzielen, daß in ihnen genannte Personen, Organisationen oder
+Unternehmen bestimmte Pflichten einzuhalten haben, sind die sich
+daraus ergebenden Pflichten von den jeweils Genannten zu erfüllen;
+diese sind insoweit für die Einhaltung der Regelungen verantwortlich.
 
 (2) Soweit die in Abschnitt D der Anlage genannten Regelungen der
-Europäischen Gemeinschaften auf die Einhaltung bestimmter Pflichten
-von Personen, Organisationen oder Unternehmen abzielen, ohne daß
-hierfür bestimmte Personen, Organisationen oder Unternehmen als
-verantwortlich genannt sind, gelten für die Verantwortlichkeit
-hinsichtlich der Erfüllung der sich daraus ergebenden Pflichten die §§
-7 bis 9 entsprechend.
+Europäischen Gemeinschaften oder der Europäischen Union auf die
+Einhaltung bestimmter Pflichten von Personen, Organisationen oder
+Unternehmen abzielen, ohne daß hierfür bestimmte Personen,
+Organisationen oder Unternehmen als verantwortlich genannt sind,
+gelten für die Verantwortlichkeit hinsichtlich der Erfüllung der sich
+daraus ergebenden Pflichten die §§ 7 bis 9 entsprechend.
 ----------
 
 \*) Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage
@@ -242,9 +242,10 @@ Sicherstellung der Eintragungsunterlagen zu sorgen.
 
 (4) Die Anwendung der in Abschnitt E der Anlage aufgeführten
 internationalen Schiffssicherheitsnormen als allgemein anerkannte
-Regeln der Technik bleibt unberührt. Das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung macht den Abschnitt E betreffende
-Änderungen und Ergänzungen im Verkehrsblatt bekannt.
+Regeln der Technik oder der seemännischen Praxis bleibt unberührt. Das
+Bundesministerium für Verkehr und digitale Infrastruktur macht den
+Abschnitt E betreffende Änderungen und Ergänzungen im Verkehrsblatt
+bekannt.
 
 
 ## § 7 Organisation, bauliche Beschaffenheit und Ausrüstung der Schiffe
@@ -253,8 +254,9 @@ Für die Erfüllung von Anforderungen, die
 
 1.  die Organisation der Geschäftsführung, die innerbetriebliche
     Überwachung, die Konzepte und Verfahren für die Vorschriften zur
-    Schiffssicherheit einschließlich des Arbeitsschutzes und zur Verhütung
-    der Meeresverschmutzung,
+    Schiffssicherheit einschließlich des Arbeitsschutzes und über den
+    Schutz der Meeresumwelt und der Luft vor den von der Seeschifffahrt
+    ausgehenden Gefahren,
 
 
 2.  die Bauart, die Bauausführung und den baulichen Zustand der Schiffe,
@@ -400,7 +402,7 @@ Flaggenstaats.
 Rechtsvorschriften Genannten bleibt unberührt.
 
 
-## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften
+## § 11 Behördliche Aufgaben aufgrund von Rechtsakten der Europäischen Gemeinschaften und der Europäischen Union\*)
 
 (1) Die im Sinne des § 10 Abs. 2 zuständigen Behörden des Bundes haben
 - hinsichtlich der schiffahrtspolizeilichen Vollzugsaufgaben
@@ -417,11 +419,11 @@ zulassen.
 
 (2) Die Zeugnisse und Bescheinigungen, die für den Nachweis der
 Einhaltung der Anforderungen und Pflichten nach den Rechtsakten der
-Europäischen Gemeinschaften in Abschnitt D der Anlage erforderlich
-sind, werden in Übereinstimmung mit diesen Vorschriften ausgestellt,
-erteilt, geändert, bestätigt, verlängert, anerkannt, zugelassen und
-angewendet, eingeschränkt, zurückgewiesen, für ungültig erklärt,
-eingezogen oder verwahrt.
+Europäischen Gemeinschaften oder der Europäischen Union in Abschnitt D
+der Anlage erforderlich sind, werden in Übereinstimmung mit diesen
+Vorschriften ausgestellt, erteilt, geändert, bestätigt, verlängert,
+anerkannt, zugelassen und angewendet, eingeschränkt, zurückgewiesen,
+für ungültig erklärt, eingezogen oder verwahrt.
 ----------
 
 \*) Diese Bestimmung dient der Umsetzung der in Abschnitt D der Anlage
@@ -447,9 +449,10 @@ Sprache bekanntgemacht hat.
 
 (1) Bei der Anordnung von Maßnahmen wegen eines Verstoßes gegen
 internationale Schiffssicherheitsregelungen und Pflichten nach diesem
-Gesetz richten sich die zuständigen Behörden auch nach den hierfür in
-diesen Regelungen sowie nach dem Seerechtsübereinkommen der Vereinten
-Nationen von 1982 vorgeschriebenen Regeln, Verfahren und Gebräuchen.
+Gesetz einschließlich solcher aus Umweltvorschriften richten sich die
+zuständigen Behörden auch nach den hierfür in diesen Regelungen sowie
+nach dem Seerechtsübereinkommen der Vereinten Nationen von 1982
+vorgeschriebenen Regeln, Verfahren und Gebräuchen.
 
 (2) Ein Zeugnis über die Erfüllung der einschlägigen Vorschriften, das
 nach Regel IX/4.1 des in Abschnitt A der Anlage unter Nummer 1
@@ -463,7 +466,7 @@ Umfang gegen internationale Schiffssicherheitsregelungen hinsichtlich
 der Sicherheitsorganisation verstoßen wird.
 
 
-## § 14 Überprüfung von Schiffen unter ausländischer Flagge
+## § 14 Überprüfung von Schiffen unter ausländischer Flagge\*)
 
 (1) Die Überprüfung von Schiffen unter ausländischer Flagge erfolgt
 unter Beachtung der allgemeinen Regeln des Völkerrechts und der
@@ -479,7 +482,9 @@ nicht Vertragspartei der zugrundeliegenden internationalen Regelung
 ist, so ist als Schiffssicherheitsanforderung insofern ein Standard
 einzuhalten, der den Zielen der internationalen
 Schiffssicherheitsregelungen nach Maßgabe der
-Schiffssicherheitsverordnung entspricht.
+Schiffssicherheitsverordnung entspricht. Dies gilt entsprechend für
+nach Abschnitt A der Anlage erforderliche Nachweise über die
+Einhaltung von Umweltschutzstandards.
 ----------
 
 \*) Diese Bestimmung dient zugleich der Umsetzung folgender Vorschriften:
@@ -497,15 +502,17 @@ Schiffssicherheitsverordnung entspricht.
 
 ## § 15 Rechtsetzungsermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, zur Abwehr von Gefahren im Sinne des Seeaufgabengesetzes
 durch Rechtsverordnung die Anlage in Anpassung an den Gesamtbestand
 der völkerrechtlich als verbindlich angenommenen und aufgrund
-innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich in
-Kraft getretenen schiffsbezogenen Regelungen zu ändern.
+innerstaatlichen Rechts anzuwendenden oder gemeinschaftsrechtlich oder
+unionsrechtlich in Kraft getretenen schiffsbezogenen Regelungen zu
+ändern.
 
+zum Schiffssicherheitsgesetz
 
-## Anlage zum Schiffssicherheitsgesetz Internationaler schiffsbezogener Sicherheitsstandard
+## Anlage Internationaler schiffsbezogener Sicherheitsstandard
 
 (Fundstelle: BGBl. I 2005, 2986 - 3006;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -658,6 +665,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (BGBl. 2011 II S. 506)
 
 
+    I.0.20 Änderungen vom Mai 2010, vom Dezember 2010 und vom Mai
+        2011(MSC.290(87), MSC.291(87), MSC.308(88), MSC.309(88) und
+        MSC.317(89))
+        Angenommen am 21. Mai 2010, am 3. Dezember 2010 und am 20. Mai 2011
+        (BGBl. 2012 II S. 690)
+
+
+    I.0.21 Änderungen vom Mai 2012 und vom November 2012 (MSC.325(90),
+        MSC.338(91) und MSC.344(91))
+        Angenommen am 24. Mai 2012, am 30. November 2012 und am 30. November
+        2012
+        (BGBl. 2014 II S. 1122, BGBl. 2016 II S. 526)
+
+
+    I.0.22 Änderungen vom Juni 2013 (MSC.350(92)) und vom Mai 2014 (MSC.366(93))
+        Angenommen am 21. Juni 2013 und am 22. Mai 2014
+        (BGBl. 2016 II S. 411)
+
+
+    I.0.23 Änderungen vom Mai 2014 (MSC.365(93)) und vom November 2014
+        (MSC.380(94))
+        Angenommen am 22. Mai 2014 und am 21. November 2014
+        (BGBl. 2016 II S. 627)
+
+
+    I.0.24 Änderungen vom November 2014 (MSC.386(94)) und vom Juni 2015
+        (MSC.392(95))
+        Angenommen am 21. November 2014 und am 11. Juni 2015
+        (BGBl. 2016 II S. 1408)
+
+
+    I.0.25 Änderung vom Juni 2015 (MSC.395(95))
+        Angenommen am 11. Juni 2015
+        (BGBl. 2016 II S. 1408)
+
+
     I.1 Zu Kapitel I der Anlage zu SOLAS (Allgemeine Bestimmungen):
 
         - keine -
@@ -665,6 +708,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     I.2/1 Zu Kapitel II-1 der Anlage zu SOLAS (Bauart - Bauweise, Unterteilung
         und Stabilität, Maschinen und elektrische Anlagen):
+        Zu Regeln II-1/2.28 und II-1/3-10:
+        Internationale Zielorientierte Schiffbaunormen für Massengutschiffe
+        und Öltankschiffe
+        Entschließung MSC.287(87)
+        Angenommen am 20. Mai 2010
+        (VkBl. 2012 S. 138)
+        Zu Regeln II-1/2.29 und II-1/2.30, II-1/55 und II-1/56:
+        Internationaler Code für die Sicherheit von Schiffen, die Gase oder
+        andere Brennstoffe mit niedrigem Flammpunkt verwenden (IGF-Code)
+        (MSC.391(95))
+        Angenommen am 11. Juni 2015
+        (VkBl. 2016 S. 655, Sonderband C 8151)
+        Zu Regel II-1/3-11:
+
+        a)  Leistungsanforderung für Schutzbeschichtungen für Ladeöltanks von
+            Rohöltankern
+            Entschließung MSC.288(87)
+            Angenommen am 14. Mai 2010
+            (VkBl. 2013 S. 230)
+
+            –   Änderung von 2012 (MSC.342(91))
+                Angenommen am 30. November 2012
+                (VkBl. 2013 S. 781)
+
+
+
+
+
+        b)  Leistungsstandard für alternative Korrosionsschutzmittel für
+            Ladeöltanks von Rohöltankern
+            Entschließung MSC.289(87)
+            Angenommen am 14. Mai 2010
+            (VkBl. 2011 S. 943)
+
+
+
 
         Zu Regel II-1/3-2:
 
@@ -673,6 +752,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Doppelhüllenräume von Massengutschiffen (MSC.215(82))
             Angenommen am 8. Dezember 2006
             (VkBl. 2009 S. 639)
+
+            –   Änderung von 2012 (MSC.341(91))
+                Angenommen am 30. November 2012
+                (VkBl. 2014 S. 624)
+
+
+
 
 
         b)  Leistungsanforderungen für Schutzanstriche für Leerräume auf
@@ -724,9 +810,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
             (VkBl. 2006 S. 8)
 
+            Zu Regel II-1/3-11:
+
+
+        a)  Leistungsanforderung für Schutzbeschichtungen für Ladeöltanks von
+            Rohöltankern
+            Entschließung MSC.288(87)
+            Angenommen am 14. Mai 2010
+            (VkBl. 2013 S. 230)
+
+            –   Änderung von 2012 (MSC.342(91))
+                Angenommen am 30. November 2012
+                (VkBl. 2013 S. 781)
 
 
 
+
+
+        b)  Leistungsstandard für alternative Korrosionsschutzmittel für
+            Ladeöltanks von Rohöltankern
+            Entschließung MSC.289(87)
+            Angenommen am 14. Mai 2010
+            (VkBl. 2011 S. 943)
+
+
+
+
+        Zu Regel II-1/3-12:
+        Code über Lärmpegel an Bord von Schiffen (MSC.337(91))
+        Angenommen am 30. November 2012
+        (VkBl. 2014 S. 143, Anlageband B 8140)
+        Zu Regel II-1/5:
+        Präambel und Teil A des Internationalen Codes über Intaktstabilität
+        aller Schiffstypen von 2008 (IS-Code 2008)
+        (MSC.267(85))
+        Angenommen am 4. Dezember 2008
+        (VkBl. 2009 S. 724, Sonderdruck B 8142)
         Zu Regel II-1/23-3:
 
         Leistungsnormen für Wasserstandsmelder auf Massengutschiffen und
@@ -743,28 +862,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Zu Regel 3:
 
         a)  Internationaler Code für die Anwendung von Brandprüfverfahren (FTP-
-            Code) (MSC.61(67))
-
-            Angenommen am 5. Dezember 1996
-
-            (VkBl. 1998 S. 387, Anlagenband B 8058)
-
-            -   Änderung von 2000 (MSC.101(73))
-
-                Angenommen am 5. Dezember 2000
-
-                (VkBl. 2002 S. 449, Anlagenband B 8128)
-
-
-            -   Änderungen zum Internationalen Code für die Anwendung von
-                Brandprüfverfahren (FTP-Code) (MSC.173(79))
-
-                Angenommen am 10. Dezember 2004
-
-                (VkBl. 2006 S. 517)
-
-
-
+            Code 2010) (MSC.307(88))
+            Angenommen am 3. Dezember 2010
+            (VkBl. 2012 S. 759)
 
 
         b)  Internationaler Code für Brandsicherheitssysteme (FSS-Code)
@@ -779,10 +879,42 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 (VkBl. 2009 S. 752 und S. 756)
 
 
+            –   Änderung von 2010 (MSC.292(87))
+                Angenommen am 21. Mai 2010
+                (VkBl. 2013 S. 694)
+
+
+            –   Änderung von 2010 (MSC.311(88))
+                Angenommen am 3. Dezember 2010
+                (VkBl. 2013 S. 699)
+
+
+            –   Änderung von 2012 (MSC.327(90))
+                Angenommen am 25. Mai 2012
+                (VkBl. 2013 S. 774)
+
+
+            –   Änderung von 2013 (MSC.339(91))
+                Angenommen am 30. November 2012
+                (VkBl. 2013 S. 1280)
+
+
+            –   Änderung von 2014 (MSC.367(93))
+                Angenommen am 22. Mai 2014
+                (VkBl. 2015 S. 330)
 
 
 
 
+
+
+
+        Zu Regeln 4, 11 und 20:
+        Internationaler Code für die Sicherheit von Schiffen, die Gase oder
+        andere Brennstoffe mit niedrigem Flammpunkt verwenden (IGF-Code)
+        (MSC.391(95))
+        Angenommen am 11. Juni 2015
+        (VkBl. 2016 S. 655, Sonderband C 8151)
 
         Zu Regel 18:
 
@@ -823,6 +955,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2009 S. 426)
 
 
+        –   Änderung von 2010 (MSC.293(87))
+            Angenommen am 21. Mai 2010
+            (VkBl. 2011 S. 949)
+
+
+        –   Änderung von 2010 (MSC.320(89))
+            Angenommen am 20. Mai 2011
+            (VkBl. 2011 S. 878)
+
+
+        –   Änderung von 2014 (MSC.368(93))
+            Angenommen am 22. Mai 2014
+            (VkBl. 2015 S. 463)
+
+
 
 
         Zu Regel 4 (in Verbindung mit Regel 1.2.2.7 des LSA-Codes):
@@ -848,15 +995,6 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-
-        Zu Regel 20.8.1.2:
-
-        Empfehlung über die Bedingungen für die Zulassung von
-        Wartungsstationen für aufblasbare Rettungsflöße (Entschl.A.761(18))
-
-        Angenommen am 4. November 1993
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
 
         Empfehlungen über die Prüfung von Rettungsmitteln (MSC.81(70))
 
@@ -885,6 +1023,26 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2009 S. 432)
 
 
+        –   Änderung von 2010 (MSC.295(87))
+            Angenommen am 21. Mai 2010
+            (VkBl. 2011 S. 949)
+
+
+        –   Änderung von 2011 (MSC.321(89))
+            Angenommen am 20. Mai 2011
+            (VkBl. 2011 S. 881)
+
+
+        –   Änderung von 2011 (MSC.323(89))
+            Angenommen am 20. Mai 2011
+            (VkBl. 2011 S. 883)
+
+
+        –   Änderung von 2014 (MSC.378(93))
+            Angenommen am 22. Mai 2014
+            (VkBl. 2015 S. 186)
+
+
 
 
 
@@ -910,56 +1068,81 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Organisation angenommenen Standards, die bei einer durch die
         internationalen Regelungen vorgeschriebenen Baumusterprüfung zugrunde
         zu legen sind, werden jeweils nach § 9d des Seeaufgabengesetzes
-        amtlich bekannt gemacht.
+        amtlich bekannt gemacht
+
+        Zu Regel 23 (– hinsichtlich Lotsenversetzeinrichtungen –):
+        Entschl. A.1045(27)
+        Angenommen am 30. November 2011
+        (VkBl. 2014 S. 93).
 
 
     I.6 Zu Kapitel VI der Anlage zu SOLAS (Beförderung von Ladung):
 
-        Zu Regel 2:
+        Zu Regel 1-2:
+
+        Internationaler Code für die Beförderung von Schüttgut über See
+        (IMSBC-Code)
+        (MSC.268(85))
+        Angenommen am 4. Dezember 2008
+        (VkBl. 2009 S. 775, Anlagenband C 8145)
+
+        –   Änderung von 2011 (MSC.318(89))
+            Angenommen am 20. Mai 2011
+            (VkBl. 2011 S. 990), korrigiert durch Bekanntmachung vom 8. August
+            2012 (VkBl. 2012 S. 682)
+
+
+        –   Änderung von 2013 (MSC.354(92))
+            Angenommen am 21. Juni 2013
+            (VkBl. 2013 S. 1825), korrigiert durch Bekanntmachung vom 15. Mai 2014
+            (VkBl. 2014 S. 467)
+
+
+        –   Änderung von 2015 (MSC.393(95))
+            Angenommen am 11. Juni 2015
+            (VkBl. 2015 S. 789)
+
+
+
+
+        Zu Regel 5:
 
         Code für die sachgerechte Stauung und Sicherung von Ladung (CSS-Code)
         (Entschl.A.714(17)), veröffentlicht als Bekanntmachung der
         inhaltsgleichen Richtlinien für die sachgerechte Stauung und Sicherung
         von Ladung bei der Beförderung mit Seeschiffen (MSC/Rundschreiben 530
         vom 11. Juni 1990)
-
         Angenommen am 6. November 1991
-
         (BAnz. Nr. 8a vom 12. Januar 1991)
 
-        -   Änderungen von 1994 und 1995 (MSC/Rundschreiben 664 vom 22. Dezember
+        –   Änderungen von 1994 und 1995 (MSC/Rundschreiben 664 vom 22. Dezember
             1994 und MSC/Rundschreiben 691 vom 1. Juni 1995)
-
             (BAnz. Nr. 85a vom 7. Mai 1996)
 
 
-        -   Änderungen von 1996 und 1997 (MSC/Rundschreiben 740 vom 14. Juni 1996
+        –   Änderungen von 1996 und 1997 (MSC/Rundschreiben 740 vom 14. Juni 1996
             und MSC/Rundschreiben 812 vom 16. Juni 1997)
+            (VkBl. 1998 S. 892, Anlageband B 8119)
 
-            (VkBl. 1998 S. 892, Anlagenband B 8119)
 
-
-        -   Änderung von 2002 (MSC/Rundschreiben 1026 vom 27. Mai 2002)
-
+        –   Änderung von 2002 (MSC/Rundschreiben 1026 vom 27. Mai 2002)
             (VkBl. 2003 S. 206)
 
 
-        -   Änderung von 2010 (MSC/Rundschreiben 1352 vom 30. Juni 2010)
-
-            (VkBl. 2011 S. 119)
-
-
+        –   Änderung von 2014 (MSC.1/Rundschreiben 1352/Rev.1 vom 15. Dezember
+            2014)
+            (VkBl. 2016 S. 100)
 
 
-        Zu Kapitel VI Regel 6 (1):
 
-        Internationaler Code für die Beförderung von Schüttgüter über See
-        (IMSBC-Code) (MSC.268(85))
 
-        Angenommen am 4. Dezember 2008
+        Zu Regel 5 (1):
 
-[^F2_774017_BJNR286010998BJNE001645140]
-        (VkBl. 2009 S. 775, Anlagenband C 8145)
+        Richtlinien für die sachgerechte Stauung und Sicherung von
+        Holzdecksladungen bei der Beförderung mit Seeschiffen, 2011 (2011 TDC-
+        Code) (A.1048(27), A.1048(27)/Corr. 1)
+        Angenommen am 30. November 2011
+        (VkBl. 2014, S. 608, Anlageband B 8061)
 
         Zu Regel 9(1):
 
@@ -970,10 +1153,20 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         (BAnz. Nr. 213a vom 11. November 1993)
 
+        –   Änderung von 2013 (MSC.354(92))
+            Angenommen am 21. Juni 2013
+            (VkBl. 2013 S. 1285), korrigiert durch Bekanntmachung vom 15. Mai 2014
+            (VkBl. 2014 S. 467)
+
+
+
+
 
     I.7 Zu Kapitel VII der Anlage zu SOLAS (Beförderung gefährlicher Güter):
 
-        (unter dem Vorbehalt des § 1 Abs. 3 Nr. 3 dieses Gesetzes) 1)
+        (soweit der Anwendungsbereich dieses Gesetzes nach seinem § 1 Absatz 3
+        Nummer 3 in Verbindung mit § 9 Absatz 1 Satz 1 Nummer 5
+        Seeaufgabengesetz gegeben ist) 1)
 
         Zu Regel 8:
 
@@ -985,37 +1178,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         (BAnz. Nr. 125a vom 12. Juli 1986)
 
-        -   Änderung von 1987 (MEPC.19(22))
+        –   Änderung von 1987 (MEPC.19(22))
 
             (BAnz. Nr. 166a vom 8. September 1987)
 
 
-        -   Änderung von 1989 (MSC.14(57))
+        –   Änderung von 1989 (MSC.14(57))
 
             (BAnz. Nr. 13a vom 19. Januar 1991)
 
 
-        -   Änderung von 1990 (MSC.16(58))
+        –   Änderung von 1990 (MSC.16(58))
 
             (BAnz. Nr. 144a vom 3. August 1994)
 
 
-        -   Änderung von 1992 (MSC.28(61))
+        –   Änderung von 1992 (MSC.28(61))
 
             (BAnz. Nr. 67a vom 9. April 1994)
 
 
-        -   Änderungen von 1996 (MSC.50(66) und MSC.58(67))
+        –   Änderungen von 1996 (MSC.50(66) und MSC.58(67))
 
             (BAnz. Nr. 89a vom 14. Mai 1998)
 
 
-        -   Änderung von 2000 (MSC.102(73))
+        –   Änderung von 2000 (MSC.102(73))
 
             (BAnz. Nr. 109a vom 18. Juni 2002)
 
 
-        -   Neufassung des Internationalen Code für den Bau und die Ausrüstung von
+        –   Neufassung des Internationalen Code für den Bau und die Ausrüstung von
             Schiffen zur Beförderung gefährlicher Chemikalien als Massengut (IBC-
             Code), ergänzte Stofflisten aus dem MEPC.2/Rundschreiben 12 sowie
             MEPC.1/Rundschreiben 512 (Tripartite-Übereinkommen) (MSC.176(79))
@@ -1025,6 +1218,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         –   Änderung von 2007 (MEPC.166(56) und MSC.219(82))
             (VkBl. 2011 S. 143)
+
+
+        –   Änderung von 2012 (MEPC.225(64) und MSC.340(91))
+            (VkBl. 2014 S. 564 und VkBl. 2013 S. 1033, Sonderband C 8020)
+
+
+        –   Änderung von 2014 (Entschließungen MSC.369(93) und MEPC.250(66))
+            (VkBl. 2015 S. 257)
 
 
 
@@ -1066,6 +1267,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2009 S. 758 und S. 760)
 
 
+        -   Änderungen von 2014 (MSC.370(93))
+            (VkBl. 2016 S. 67)
+
+
 
 
         Zu Regel 14:
@@ -1105,8 +1310,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 -----
 
-1)  Vgl. § 1 der Gefahrgutverordnung See vom 4. November 2003 (BGBl. I S.
-    2286).
+1)  Vgl. § 1 der Gefahrgutverordnung See in der Fassung der Bekanntmachung
+    vom 9. Februar 2016 (BGBl. I S. 182), in der jeweiligen Fassung
 
 
 
@@ -1194,6 +1399,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 (VkBl. 2010 S. 464)
 
 
+            –   Änderung von 2013 (MSC.351(92))
+                Angenommen am 21. Juni 2013
+                (VkBl. 2015 S. 37)
+
+
 
 
 
@@ -1222,6 +1432,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 (VkBl. 2010 S. 465 und S. 485)
 
 
+            –   Änderung von 2012 (MSC.326(90))
+                Angenommen am 24. Mai 2012
+                (VkBl. 2013 S. 773)
+
+
+            –   Änderung von 2013 (MSC.352(92))
+                Angenommen am 21. Juni 2013
+                (VkBl. 2015 S. 38)
+
+
 
 
 
@@ -1233,28 +1453,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Zu Regel 1:
 
-        Richtlinien für die Beauftragung anerkannter Organisationen, die für
-        die Verwaltung handeln (Entschl. A.739(18))
-
-        Angenommen am 4. November 1993
-
-        (VkBl. 2008 S. 508)
-
-        –   geändert durch Entschließung MSC.208(81),
-
-            angenommen am 18. Mai 2006
-
-            (VkBl. 2009 S. 354)
-
-
-
-        und Spezifikationen für die Besichtigungs- und Zertifizierungsaufgaben
-        der für die Verwaltung tätigen anerkannten Organisationen (Entschl.
-        A.789(19))
-
-        Angenommen am 23. November 1995
-
-        (VkBl. 2008 S. 511)
+        Code für anerkannte Organisationen (RO-Code) (Entschließung
+        MSC.349(92))
+        Angenommen am 21. Juni 2013
+        (VkBl. 2014 S. 942, Sonderband C 8012)
 
         Zu Regel 3:
 
@@ -1283,7 +1485,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         der Gefahrenabwehr in der Schifffahrt):
 
         Teil A des Internationalen Codes für die Gefahrenabwehr auf Schiffen
-        und in Hafenanlagen
+        und in Hafenanlagen (Entschließung 2 der Konferenz der
+        Vertragsregierungen)
 
         Angenommen am 12. Dezember 2002
 
@@ -1343,6 +1546,21 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (VkBl. 2006 S. 689)
 
 
+    I.13 Zu Kapitel XIII der Anlage zu SOLAS (Überprüfung der Einhaltung):
+        Code für die Anwendung der IMO-Instrumente (III-Code) (Entschließung
+        A.1070(28))
+        Angenommen am 4. Dezember 2013
+        (VkBl. 2015 S. 636)
+
+
+    I.14 Zu Kapitel XIV der Anlage zu SOLAS (Sicherheitsmaßnahmen für Schiffe,
+        die in Polargewässern verkehren):
+        Teil I-A und II-A des Internationalen Codes für Schiffe, die in
+        Polargewässern verkehren (Polar Code) (Entschließung MSC.385(94))
+        Angenommen am 21. November 2014
+        (VkBl. 2015 S. 843, Sonderband C 8146)
+
+
 
 
 
@@ -1360,27 +1578,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         –   Bekanntmachung der Neufassung der amtlichen deutschen Übersetzung des
             Internationalen Übereinkommens von 1973 zur Verhütung der
             Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu
-            diesem Übereinkommen vom 12. März 1996 (BGBl. 1996 II S. 399) –
+            diesem Übereinkommen vom 12. März 1996
+            (BGBl. 1996 II S. 399)
 
 
         –   Protokoll von 1997 zur Änderung des Internationalen Übereinkommens von
             1973 zur Verhütung der Meeresverschmutzung durch Schiffe in der
-            Fassung des Protokolls von 1978 zu diesem Übereinkommen
-            (BGBl. 2003 II S. 130) (Anlage VI des MARPOL-Übereinkommens) –
-
-
-
-
-        -   Bekanntmachung der Neufassung der amtlichen deutschen Übersetzung des
-            Internationalen Übereinkommens von 1973 zur Verhütung der
-            Meeresverschmutzung durch Schiffe und des Protokolls von 1978 zu
-            diesem Übereinkommen vom 12. März 1996 (BGBl. 1996 II S. 399) -
-
-
-        -   Protokoll von 1997 zur Änderung des Internationalen Übereinkommens von
-            1973 zur Verhütung der Meeresverschmutzung durch Schiffe in der
-            Fassung des Protokolls von 1978 zu diesem Übereinkommen (BGBl. 2003 II
-            S. 130) 1) -
+            Fassung des Protokolls von 1978 zu diesem Übereinkommen (Anlage VI des
+            MARPOL-Übereinkommens)
+            (BGBl. 2003 II S. 130)
 
 
 
@@ -1537,7 +1743,38 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (BGBl. 2011 II S. 850)
 
 
+    II.0.22 Änderungen vom Juli 2011(MEPC.202(62) und MEPC.203(62))
+        Angenommen am 15. Juli 2011
+        (BGBl. 2012 II S. 1146)
+
+
+    II.0.23 Änderungen vom Juli 2011 (MEPC.200(62) und MEPC.201(62))
+        Angenommen am 15. Juli 2011
+        (BGBl. 2012 II S. 1194)
+
+
+    II.0.24 Änderungen vom Juli 2011 (MEPC.216(63) und MEPC.217(63))
+        Angenommen am 15. Juli 2011
+        (BGBl. 2013 II S. 356)
+
+
+    II.0.25 Änderungen vom Oktober 2010 (MEPC.193(61))
+        Angenommen am 1. Oktober 2010
+        (BGBl. 2013 II S. 1098)
+
+
+    II.0.26 Änderungen vom Mai 2013 (MEPC.235(65) und MEPC.238(65))
+        Angenommen am 17. Mai 2013
+        (BGBl. 2014 II S. 709)
+
+
     II.1 Zu Anlage I:
+
+        Zu Regel 6 Absatz 3.1 Satz 3:
+        Code für anerkannte Organisationen (RO-Code) (Entschließung
+        MEPC.237(65))
+        Angenommen am 17. Mai 2013
+        (VkBl. 2014 S. 942, Sonderband C 8012)
 
         Zu Regel 19:
 
@@ -1607,6 +1844,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     II.2 Zu Anlage II:
 
+        Zu Regel 8 Absatz 2.2:
+        Code für anerkannte Organisationen (RO-Code) (MEPC.237(65))
+        Angenommen am 17. Mai 2013
+        (VkBl. 2014 S. 942, Sonderband C 8012)
+
         Zu Regel 11: (- siehe auch oben Nr. I.7 -)
 
         Code für den Bau und die Ausrüstung von Schiffen zur Beförderung
@@ -1660,6 +1902,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2010 S. 653)
 
 
+        –   Änderung von 2014 (Entschließung MEPC.249(66))
+            Angenommen am 4. April 2014
+            (VkBl. 2015 S. 261)
+
+
 
 
 
@@ -1667,10 +1914,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         Zu Regel 9:
 
-        Revidierte Richtlinien für die Anwendung von Ausflussnormen und die
-        Prüfung von Abwasser-Aufbereitungsanlagen (Entschließung MEPC.159(55))
-        Angenommen am 13. Oktober 2006
-        (VkBl. 2010 S. 166)
+        Richtlinien von 2012 für die Anwendung von Ausflussnormen und die
+        Leistungsprüfungen von Abwasser-Aufbereitungsanlagen (Entschließung
+        MEPC.227(64))
+        Angenommen am 5. Oktober 2012
+        (VkBl. 2015 S. 697)
 
 
     II.4 Zu Anlage VI:
@@ -1694,6 +1942,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+        Zu Regel 20:
+        Richtlinien von 2012 über die Methode zur Berechnung des erreichten
+        Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten (Entschließung
+        MEPC.212(63))
+        Angenommen am 2. März 2012
+        (VkBl. 2013 S. 128)
 
 
 
@@ -1739,6 +1993,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (BGBl. 2010 II S. 1059)
 
 
+    III.0.5 Änderung vom Mai 2012 und vom November 2012 (MSC.329(90) und
+        MSC.345(91))
+        Angenommen am 24. Mai 2012 und am 30. November 2012
+        (BGBl. 2014 II S. 474)
+
+
+    III.0.6 Änderungen vom Juni 2013 und vom Mai 2014 (MSC.356(92) und
+        MSC.375(93))
+        Angenommen am 21. Juni 2013 und am 22. Mai 2014
+        (BGBl. 2016 II S. 380)
+
+
 
 
 
@@ -1752,6 +2018,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (BGBl. 1975 II S. 65)
 
 
+
+
+    IV.0.1 Änderung vom Dezember 2013 (Entschließung A.1084(28))
+        Angenommen am 4. Dezember 2013
+        (BGBl. 2017 II S. 50)
 
 
     IV.1 Empfehlungen zur Vermessung oben offener Containerschiffe
@@ -1779,7 +2050,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
-    **VI.** **Regeln I/2 Abs. 9, I/4 und I/14 sowie - soweit es sich um die
+    **VI.** **Regel I/2 Absatz 11, I/4 und I/14 sowie - soweit es sich um die
         Verantwortlichkeiten des Schiffseigentümers und des Schiffsführers
         nach den §§ 7 bis 9 dieses Gesetzes handelt - die Kapitel II bis VIII
         \*) in Verbindung mit Regel I/1 der Anlage zum Internationalen
@@ -1787,31 +2058,31 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-
         Übereinkommen)**
 
-        **(BGBl. 1982 II S. 297);**
+        (BGBl. 1982 II S. 297);
 
-        **zuletzt geändert durch die Siebte Verordnung über Änderungen der
+        zuletzt geändert durch die Zehnte Verordnung über Änderungen der
         Anlage des Internationalen Übereinkommens von 1978 über Normen für die
         Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst
-        von Seeleuten vom 26. August 2008 (BGBl. 2008 II S. 870)**
+        von Seeleuten vom 30. März 2017 (BGBl. 2017 II S. 331)
 
 
 
 
 
 
-**-----**
+-----
 
-**\*)** **Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-
+\*) Eine deutsche Übersetzung der in Kapitel IV der Anlage zum STCW-
     Übereinkommen genannten Vorschriften der Vollzugsverordnung für den
     Funkdienst (Radio Regulations) der Internationalen Fernmeldeunion nach
     dem Stand vom 1. September 2001, soweit sie den mobilen Seefunkdienst
     und den mobilen Seefunkdienst über Satelliten betreffen, kann beim
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung, Robert-
-    Schuman-Platz 1, 53175 Bonn, bezogen werden.**
+    Bundesministerium für Verkehr und digitale Infrastruktur, Robert-
+    Schuman-Platz 1, 53175 Bonn, bezogen werden.
 
 
 
-**-----**
+-----
 
 
 *
@@ -1820,15 +2091,19 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         **Teil A Kapitel VIII des Codes für die Ausbildung, die Erteilung von
         Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code)**
 
-        **(BGBl. 1997 II S. 1118 sowie Anlageband zum Bundesgesetzblatt Teil
-        II Nr. 26 vom 25. Juni 1997)**
+        (BGBl. 2013 II S. 934 sowie Anlageband zum Bundesgesetzblatt Teil II
+        Nr. 18 vom 4. Juli 2013);
+
+        zuletzt geändert durch die Zehnte Verordnung über Änderungen der
+        Anlage des Internationalen Übereinkommens von 1978 über Normen für die
+        Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst
+        von Seeleuten vom 30. März 2017 (BGBl. 2017 II S. 331)
 
 
 
 
 
 
-****
 
 
 *
@@ -1891,15 +2166,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
-    **III.** **Regel 4 in der Fassung der HELCOM-Empfehlung 22 E/5 (BGBl. 2002 II
-        S. 2953, 2961) und Regel 5 Abschnitte A bis D sowie F bis G in
-        Verbindung mit Regel 3 der Anlage IV sowie die durch die HELCOM-
-        Empfehlung 21/2 eingefügten Regeln 6, 7 und 8 (BGBl. 2002 II S. 2953,
-        2959) der Anlage IV in Verbindung mit Artikel 8 Abs. 1 und Regeln 5
-        und 6 der Anlage VII in Verbindung mit Artikel 11 Abs. 5 des
+    **III.** **Regeln 4 und 5 Abschnitte A, B sowie D in Verbindung mit Regel 1 der
+        Anlage IV in der Fassung der HELCOM-Empfehlung 24/8 (BGBl. 2004 II S.
+        1667, 1671) in Verbindung mit Artikel 8 Absatz 1 und Regeln 5 und 6
+        der Anlage VII in Verbindung mit Artikel 11 Absatz 5 des
         Übereinkommens vom 9. April 1992 über den Schutz der Meeresumwelt des
         Ostseegebietes (Helsinki-Übereinkommen)**
-
         (BGBl. 1994 II S. 1355, 1397)
 
 
@@ -2049,7 +2321,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     **I.** **Zu der Anlage zu SOLAS:**
 
 
-    I.1 Zu Regeln II-1/22 und II-1/25-8:
+    I.1.1 Zu den Regeln II-1/2.28 und
+        II-1/3-10:
+        Richtlinien für die Prüfung der Konformität mit den Zielorientierten
+        Schiffbaunormen für Massengutschiffe und Öltankschiffe
+        Entschließung MSC.296(87)
+        Angenommen am 20. Mai 2010
+        (VkBl. 2013 S. 153)
+
+
+    I.1.2 Zu Regel II-1/4:
+        Erläuterungen zu den Unterteilungs- und Leckstabilitäts-Vorschriften
+        in Kapitel II-1 SOLAS
+        Entschließung MSC.281(85)
+        Angenommen am 4. Dezember 2008
+        (VkBl. 2011 S. 651)
+
+
+    I.1.3 Zu Regel II-1/5:
+
+        Teil B des Internationalen Codes über Intaktstabilität aller
+        Schiffstypen von 2008 (MSC.267(85))
+        Angenommen am 4. Dezember 2008
+        (VkBl. 2009 S. 724, Sonderdruck B 8142)
+
+        –   Änderung von 2011 (MSC.319(89))
+            Angenommen am 20. Mai 2011
+            (VkBl. 2011 S. 877)
+
+
+        –   Änderung von 2015 (MSC.398(95))
+            Angenommen am 5. Juni 2015
+            (VkBl. 2016 S. 290)
+
+
+
+
+
+    I.1.4 Zu Regeln II-1/22 und II-1/25-8:
 
         Richtlinien für die Zulassung von Stabilitätsrechnern
 
@@ -2084,7 +2393,28 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    I.2.2 Zu Regeln II-2/15.2.4 und II-2/15.3.2:
+    I.2.2 Zu Regel II-2/10:
+        Überarbeitete Richtlinien für die Zulassung von Sprinkler- und
+        Wassersprühsystemen, die Regel II-2/12 SOLAS gleichwertig sind
+        (Entschließung
+        A.800(19))
+        Angenommen am 23. November 1995
+        (VkBl. 2011 S. 276)
+
+        –   geändert durch Entschließung MSC.265(84)
+            Angenommen am 9. Mai 2008
+            (VkBl. 2010 S. 466; 2011 S. 276)
+
+
+        –   geändert durch Entschließung MSC.284(86)
+            Angenommen am 10. März 2011
+            (VkBl. 2010 S. 466; 2011 S. 276)
+
+
+
+
+
+    I.2.3 Zu Regeln II-2/15.2.4 und II-2/15.3.2:
 
         Richtlinien für die inhaltliche Gestaltung von Brandschutz-Plänen und
         -Handbüchern auf Fahrgastschiffen in der Auslandfahrt nach den
@@ -2096,7 +2426,23 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (VkBl. 1994 S. 549)
 
 
-    I.3 Zu Regel III/28.2:
+    I.3.1 Zu Regel III/20:
+
+        Empfehlung über die Bedingungen für die Zulassung von
+        Wartungsstationen für aufblasbare Rettungsflöße (Entschließung
+        A.761(18))
+        Angenommen am 4. November 1993
+        (VkBl. 1998 S. 892, Sonderband B 8119)
+
+        –   Änderung von 2014 (MSC.388(94))
+            Angenommen am 18. November 2014
+            (VkBl. 2015 S. 546)
+
+
+
+
+
+    I.3.2 Zu Regel III/28.2:
 
         Empfehlungen für Hubschrauberlandeflächen auf Ro-Ro-Fahrgastschiffen
         (MSC/Rundschreiben 895)
@@ -2107,6 +2453,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     I.4 Zu Kapitel V:
+
+
+    I.4.0 Zu Regel V/14
+        Entschließung A.1047(27) „Grundsätze für eine sichere
+        Mindestbesatzung“
+        Angenommen am 30. November 2011
+        (VkBl. 2013 S. 201)
 
 
     I.4.1 Zu Regel V/15 (hinsichtlich der anzuwendenden Mindestanforderungen):
@@ -2131,7 +2484,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    I.4.2 Zu Regel V/19:
+    I.4.2 Zu Regel V/18:
+        Leistungsanforderungen für elektronische Neigungsmesser (Entschl.
+        MSC.363(92))
+        Angenommen am 14. Juni 2013
+        (VkBl. 2014 S. 326)
+
+
+    I.4.3 Zu Regel V/19:
 
         a)  Richtlinien für den bordseitigen Betrieb von automatischen
             Schiffsidentifizierungssystemen (AIS) (Entschl.A.917(22))
@@ -2157,7 +2517,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
-    I.4.3 Zu Regel V/23:
+    I.4.4 Zu Regel V/23:
 
         Lotsenversetzeinrichtungen (Entschl.A.889(21))
 
@@ -2166,7 +2526,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (VkBl. 2000 S. 409)
 
 
-    I.4.4 Zu Regel V/34:
+    I.4.5 Zu Regel V/34:
 
         Richtlinien für die Reiseplanung (Entschl.A.893(21))
 
@@ -2175,7 +2535,18 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (VkBl. 2002 S. 264)
 
 
-    I.5 Zu Regel VI/5.6:
+    1.5. Zu Kapitel VI:
+
+
+    I.5.1 Zu Regel VI/2:
+
+        Richtlinien zur Bestimmung der bestätigten Bruttomasse von
+        Frachtcontainern
+        MSC.1/Rundschreiben 1475 vom 9. Juni 2014
+        (VkBl. 2015 S. 29)
+
+
+    I.5.2 Zu Regel 5.6
 
         a)  Richtlinien zur Erstellung des Ladungssicherungshandbuchs
             (Rundschreiben 1 des Unterausschusses für gefährliche Güter, feste
@@ -2187,6 +2558,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b)  Änderung dieser Richtlinien (MSC/Rundschreiben 745 vom 13. Juni 1996)
 
             (BAnz. S. 10101)
+
+
+        c)  Neufassung der Richtlinien für die Erstellung des
+            Ladungssicherungshandbuchs
+            (MSC.1/Rundschreiben 1353/Rev.1 vom 15. Dezember 2014)
+            (VkBl. 2015 S. 534)
 
 
 
@@ -2237,6 +2614,14 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         (SLS.14/Rundschreiben 250 vom 2. Dezember 2005)
 
         (VkBl. 2006 S. 668)
+
+
+    I.9 Zu Kapitel XIV:
+
+        Teil I-B und II-B des Internationalen Codes für Schiffe, die in
+        Polargewässern verkehren (Polar Code) (Entschließung MSC.385(94))
+        Angenommen am 21. November 2014
+        (VkBl. 2015 S. 843, Sonderband C 8146)
 
 
 
@@ -2386,30 +2771,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 1991 S. 504)
 
 
-        -   Änderung von 1997
-
-            Normspezifikation für bordseitige Verbrennungsanlagen (MEPC.76(40))
-
-            Angenommen am 25. September 1997
-
-            (VkBl. 2007 S. 174)
-
-
-        -   Änderung von 2000 (MEPC.92(45))
-
-            Angenommen am 5. Oktober 2000
-
-            (VkBl. 2001 S. 485)
-
-
-        -   Änderung von 2000
-
-            Änderung der Normspezifikation für bordseitige Verbrennungsanlagen
-            (MEPC.93(45))
-
-            Angenommen am 5. Oktober 2000
-
-            (VkBl. 2007 S. 185)
+        –   Änderung von 2013 (MEPC.239(65))
+            Angenommen am 17. Mai 2013
+            (VkBl. 2014 S. 533)
 
 
         -   Zu Regel 9(2):
@@ -2422,16 +2786,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 1997 S. 545)
 
 
+        –   Zu Regel 10:
+            Richtlinien von 2012 für die Ausarbeitung von Müllbehandlungsplänen
+            (MEPC.220(63))
+            Angenommen am 2. März 2012
+            (VkBl. 2012 S. 838)
+
+
 
 
 
     II.5 Zu Anlage VI:
-
-        Normspezifikation für bordseitige Verbrennungsanlagen (MEPC.76(40)) (–
-        siehe oben Nr. II.3 –)
-
-        Änderung der Normspezifikation für bordseitige Verbrennungsanlagen
-        (MEPC.93(45)) (– siehe oben Nr. II.3 –)
 
         Richtlinie für bordseitige NOx-Verifikationsverfahren - direktes Mess-
         und Überwachungsverfahren (MEPC.103(49))
@@ -2452,6 +2817,66 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+        Zu Regel 5 Absatz 4:
+        Richtlinien von 2012 über Besichtigungen im Hinblick auf den
+        Energieeffizienz-Kennwert (EEDI) und die Ausstellung von Zeugnissen
+        darüber (MEPC.214(63))
+        Angenommen am 2. März 2012
+        (VkBl. 2013 S. 314)
+
+        –   Änderung von 2013 (Entschließung MEPC.234(65))
+            Angenommen am 17. Mai 2013
+            (VkBl. 2015 S. 252)
+
+
+
+        Zu Regel 13 Absatz 2.2:
+        Richtlinien von 2013 nach Anlage VI Regel 13.2.2 von MARPOL bezüglich
+        nicht vollständig baugleicher Austauschmotoren, die den Grenzwert der
+        Stufe III nicht einhalten müssen (Entschließung MEPC.230(65))
+        Angenommen am 17. Mai 2013
+        (VkBl. 2015 S. 246)
+        Zu Regel 13 Absatz 7.1:
+        Richtlinien von 2014 betreffend die der Organisation durch die
+        Verwaltung im Zusammenhang mit der nach Regel 13 Absatz 7.1 der Anlage
+        VI von MARPOL vorgeschriebenen Bescheinigung eines zugelassenen
+        Verfahrens zu übermittelnden Angaben (Entschließung MEPC.242(66))
+        Angenommen am 4. April 2014
+        (VkBl. 2015 S. 837)
+        Richtlinien von 2014 über die Durchführung für zugelassene Verfahren
+        (Entschließung MEPC.243(66))
+        Angenommen am 4. April 2014
+        (VkBl. 2015 S. 839)
+        Zu Regel 16 Absatz 6.1 und Anhang IV:
+        Normspezifikation für bordseitige Verbrennungsanlagen von 2014
+        (Entschließung MEPC.244(66))
+        Angenommen am 4. April 2014
+        (VkBl. 2015 S. 335)
+        Zu Regel 20 Absatz 2:
+        Änderungen der Richtlinien von 2012 über die Methode zur Berechnung
+        des erreichten Energieeffizienz-Kennwerts (EEDI) für Schiffsneubauten
+        (Entschl. MEPC.224(64))
+        Angenommen am 5. Oktober 2012
+        (VkBl. 2014 S. 638)
+        Zu Regel 21:
+        Richtlinien von 2013 für die Berechnung von Referenzlinien zur
+        Verwendung in Verbindung mit dem Energieeffizienz-Kennwert (EEDI) von
+        für Kreuzfahrten eingesetzten Fahrgastschiffen mit nicht-
+        konventionellen Antriebssystemen (Entschließung MEPC.233(65))
+        Angenommen am 17. Mai 2013
+        (VkBl. 2015 S. 182)
+        Zu Regel 21 Absatz 5:
+        Interimsrichtlinien von 2013 für die Festlegung der
+        Mindestantriebsleistung, die benötigt wird, um die Manövrierfähigkeit
+        von Schiffen unter ungünstigen Bedingungen aufrechtzuerhalten
+        (Entschließung MEPC.232(65))
+        Angenommen am 17. Mai 2013
+        (VkBl. 2015 S. 248)
+        Zu Regel 22:
+        Richtlinien von 2012 für die Erstellung eines Schiffsenergieeffizienz-
+        Managementplans (SEEMP) (MEPC.213(63))
+        Angenommen am 2. März 2012
+        (VkBl. 2012 S. 676)
 
 
     II.6 Zu Protokoll I:
@@ -2486,21 +2911,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     III.1 Teil B Kapitel VIII des Codes für die Ausbildung, die Erteilung von
         Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code)
 
-        (Anlageband zum Bundesgesetzblatt Teil II Nr. 26 vom 25. Juni 1997)
+        (Anlageband zum Bundesgesetzblatt Teil II Nr. 18 vom 4. Juli 2013)
 
 
-    III.1.1 Änderung von 1998 (STCW.6/Circ.3)
-
-        Angenommen am 22. Mai 1998
-
-        (BGBl. 1999 II S. 154, 170)
+    III.1.1 (weggefallen)
 
 
-    III.1.2 Änderung von 2005 (STCW.6/Circ.7)
-
-        Angenommen am 20. Mai 2005
-
-        (VkBl. 2007 S. 647)
+    III.1.2 (weggefallen)
 
 
 
@@ -2510,10 +2927,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *
-    **D.** **Rechtsakte der Europäischen Gemeinschaften 4):**
+    IV. Zum Internationalen Übereinkommen von 2001 über die Beschränkung des
+        Einsatzes schädlicher Bewuchsschutzsysteme auf Schiffen vom 5. Oktober
+        2001 (BGBl. 2008 II S. 522) (AFS-Übereinkommen):
 
-        -   Die hier genannten Gemeinschaftsverpflichtungen umfassen nicht die
-            unmittelbar geltenden Verordnungen des Gemeinschaftsrechts. -
+
+    IV.1 Zum Übereinkommen:
+
+        Zu Artikel 11 Absatz 1 und 2:
+        Richtlinien von 2011 für die Überprüfung von Bewuchsschutzsystemen an
+        Schiffen (Entschl. MEPC.208(62))
+        Angenommen am 15. Juli 2011
+        (VkBl. 2012 S. 202)
+
+        Zu Artikel 11 Absatz 1 Buchstabe b:
+        Richtlinien für die Entnahme kleiner Stichproben des
+        Bewuchsschutzsystems an Schiffen (Entschl. MEPC.104(49))
+        Angenommen am 18. Juli 2003
+        (VkBl. 2007 S. 661)
+
+
+    IV.2 Zu Anlage 4:
+
+        Zu Regel 1 Absatz 4:
+        Richtlinien von 2010 für Besichtigungen von Bewuchsschutzsystemen auf
+        Schiffen und für die Erteilung von Zeugnissen über solche
+        Besichtigungen (Entschl. MEPC.195(61))
+        Angenommen am 1. Oktober 2010
+        (VkBl. 2011 S. 30)
+
+
+
+
+
+
+
+
+*
+    **D.** Rechtsakte der Europäischen Gemeinschaften und der Europäischen Union
+        4) **:**
+
+        –   Die Änderungshistorie der in diesem Abschnitt genannten
+            Rechtsvorschriften des Gemeinschafts- und Unionsrechts ist über das
+            Internet unter *www.eur-lex.europa.eu* abrufbar. –
 
 
         1.  Bezogen auf die Wasserstraßen der Zonen 1 und 2 (Anhang I Kapitel 1
@@ -2525,8 +2981,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Richtlinie 2006/87/EG des Europäischen Parlaments und des Rates vom
             12\. Dezember 2006 über die technischen Vorschriften für Binnenschiffe
             und zur Änderung der Richtlinie 82/714/EWG des Rates (ABl. L 389 vom
-            30\.12.2006, S. 1), die zuletzt durch die Richtlinie 2008/126/EG (ABl.
-            L 32 vom 31.1.2009, S. 1) geändert worden ist
+            30\.12.2006, S. 1), die zuletzt durch die Richtlinie 2013/49/EU (ABl. L
+            272 vom 12.10.2013, S. 41) geändert worden ist
 
 
         1.1 Artikel 1 und 2 des Vertrages über den Beitritt der Tschechischen
@@ -2593,24 +3049,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             genannten Akte (ABl. EU 2003 Nr. L 236 S. 33)
 
 
-        4.  Artikel 14, 16, 17, 19, 21 und 24 der Richtlinie 2002/59/EG des
-            Europäischen Parlaments und des Rates vom 27. Juni 2002 über die
+        4.  Artikel 2, 4 und 5 Absatz 1, Artikel 6, 6a und 6b Absatz 1 Satz 1,
+            Artikel 7 Absatz 1, Artikel 8, 10, 12, 13, 16 bis 19, 20a bis 20c, 21
+            Absatz 1, Artikel 22 Absatz 2 und Artikel 24 der Richtlinie 2002/59/EG
+            des Europäischen Parlaments und des Rates vom 27. Juni 2002 über die
             Einrichtung eines gemeinschaftlichen Überwachungs- und
             Informationssystems für den Schiffsverkehr und zur Aufhebung der
-            Richtlinie 93/75/EWG des Rates
-
-            (ABl. EG Nr. L 208 S. 10) geändert durch
-
-
-        4.1 Artikel 1 der Richtlinie 2009/17/EG des Europäischen Parlaments und
-            des Rates vom 23. April 2009 (ABl. L 131 vom 28.5.2009, S. 101)
-
-
-        4.2 Artikel 1 der Richtlinie 2011/15/EU der Kommission vom 23. Februar
-            2011 zur Änderung der Richtlinie 2002/59/EG des Europäischen
-            Parlaments und des Rates über die Einrichtung eines gemeinschaftlichen
-            Überwachungs- und Informationssystems für den Schiffsverkehr (ABl. L
-            49 vom 24.2.2011, S. 33)
+            Richtlinie 93/75/EWG des Rates (ABl. L 208 vom 5.8.2002, S. 10),
+            zuletzt geändert durch Artikel 1 der Richtlinie 2014/100/EU (ABl. L
+            308 vom 29.10.2014, S. 82)
 
 
         5.  Bezogen auf die Inbetriebnahme von Sportbooten:
@@ -2647,77 +3094,34 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             des Rates vom 17. November 2003 (ABl. EU Nr. L 326 S. 28)
 
 
-        7.  Artikel 3, 4 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1, Artikel 5, 6
+        7.[^f791207_02_BJNR286010998BJNE001658124]
+  Artikel 3, 4 Absatz 1 Satz 1 und 2, Absatz 2 Satz 1, Artikel 5, 6
             Absatz 2, Artikel 8 bis 11 und 14 in Verbindung mit den Anhängen I und
             II sowie Artikel 1 und 2 der Richtlinie 2009/15/EG des Europäischen
             Parlaments und des Rates vom 23. April 2009 über gemeinsame
             Vorschriften und Normen für Schiffsüberprüfungs- und
             -besichtigungsorganisationen und die einschlägigen Maßnahmen der
-            Seebehörden (Neufassung)
-
-            (ABl. L 131 vom 28.5.2009, S. 47)
-
-
-        7.1 Artikel 1 der Richtlinie 97/58/EG der Kommission vom 26. September
-            1997 (ABl. EG Nr. L 274 S. 8)
-
-
-        7.2 Artikel 1 der Richtlinie 2001/105/EG des Europäischen Parlaments und
-            des Rates vom 19. Dezember 2001 (ABl. EG 2002 Nr. L 19 S. 9)
+            Seebehörden (ABl. L 131 vom 28.05.2009, S. 47), zuletzt geändert durch
+            Artikel 1 der Durchführungsrichtlinie 2014/111/EU der Kommission vom
+            17\. Dezember 2014 zur Änderung der Richtlinie 2009/15/EG hinsichtlich
+            der Annahme bestimmter Codes und diesbezüglicher Änderungen bestimmter
+            Übereinkommen und Protokolle durch die Internationale
+            Seeschifffahrtsorganisation (IMO) (ABl. L 366 vom 20.12.2014, S. 83)
 
 
-        7.3 Artikel 3 der Richtlinie 2002/84/EG des Europäischen Parlaments und
-            des Rates vom 5. November 2002 (ABl. EG Nr. L 324 S. 53)
-
-
-        8.  Artikel 4 bis 6, 7 Absatz 1 und 2, Artikel 8 bis 13, Artikel 14 Absatz
-            1 bis 4 Satz 1, Artikel 15 bis 22, Artikel 23 Absatz 4, Artikel 24
-            Absatz 2 bis 4, Artikel 29 in Verbindung mit den Anhängen I bis XI und
-            XIV sowie den Artikeln 1 bis 3 der Richtlinie 2009/16/EG des
-            Europäischen Parlaments und des Rates vom 23. April 2009 über die
-            Hafenstaatkontrolle (Neufassung) (ABl. L 131 vom 28.5.2009, S. 57) in
-            Verbindung mit Artikel 1 der Richtlinie 96/40/EG der Kommission vom
-            25\. Juni 1996 zur Erstellung eines einheitlichen Musters für Ausweise
-            der Besichtiger der Hafenstaatkontrolle
-
-            (ABl. L 196 vom 7.8.1996, S. 8)
-
-            a)  in Verbindung mit:
-
-                8.01 Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur
-                    Erstellung eines einheitlichen Musters für die Ausweise der
-                    Besichtiger der Hafenstaatkontrolle (ABl. EG Nr. L 196 S. 8);
-
-
-
-
-
-            b)  eingeführt oder geändert durch:
-
-                8.1 Artikel 1 der Richtlinie 98/25/EG des Rates vom 27. April 1998 (ABl.
-                    EG Nr. L 133 S. 19)
-
-
-                8.2 Artikel 1 der Richtlinie 98/42/EG der Kommission vom 19. Juni 1998
-                    (ABl. EG Nr. L 184 S. 40)
-
-
-                8.3 Artikel 1 der Richtlinie 1999/97/EG der Kommission vom 13. Dezember
-                    1999 (ABl. EG Nr. L 331 S. 67)
-
-
-                8.4 Artikel 1 der Richtlinie 2001/106/EG des Europäischen Parlaments und
-                    des Rates vom 19. Dezember 2001 (ABl. EG 2002 Nr. L 19 S. 17)
-
-
-                8.5 Artikel 4 der Richtlinie 2002/84/EG des Europäischen Parlaments und
-                    des Rates vom 5. November 2002 (ABl. EG Nr. L 324 S. 53)
-
-
-
-
-
-
+        8.  Artikel 4 bis 6, Artikel 7 Absatz 1 und 2, Artikel 8 und 9, Artikel 11
+            bis 13, Artikel 14 Absatz 1 bis 3, Absatz 4 Satz 1, Artikel 15 Absatz
+            1 bis 3, Artikel 16 bis 18, Artikel 18a Absatz 1 bis 6, Absatz 8,
+            Artikel 19 Absatz 1 bis 6, Absatz 8 bis 10, Artikel 20 bis 22, Artikel
+            23 Absatz 4, Artikel 24 Absatz 2 und 3, Artikel 29 in Verbindung mit
+            den Anhängen I bis XI und XIV sowie den Artikeln 1 bis 3 der
+            Richtlinie 2009/16/EG des Europäischen Parlaments und des Rates vom
+            23\. April 2009 über die Hafenstaatkontrolle (ABl. L 131 vom
+            28\.05.2009, S. 57), zuletzt geändert durch Artikel 2 der Verordnung
+            (EU) 2015/757 (ABl. L 123 vom 19.5.2015, S. 55), in Verbindung mit
+            Artikel 1 der Richtlinie 96/40/EG der Kommission vom 25. Juni 1996 zur
+            Erstellung eines einheitlichen Musters für Ausweise der Besichtiger
+            der Hafenstaatkontrolle (ABl. L 196 vom 7.8.1996, S. 1).
 
 
 
@@ -2751,994 +3155,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (ABl. EG Nr. L 235 S. 31)
 
 
-        10. Artikel 3 bis 6, 8 bis 13 Abs. 1 und 3, Artikel 14 bis 16 sowie 19 in
-            Verbindung mit den Anhängen A bis D sowie mit den Artikeln 1 und 2 der
-            Richtlinie 96/98/EG des Rates vom 20. Dezember 1996 über
-            Schiffsausrüstung
+        10.[^f791207_04_BJNR286010998BJNE001658124]
+ Artikel 3 bis 7, 9 bis 11 Absatz 1, 5 und 6, Artikel 12 bis 15 Absatz
+            1 und 2, Artikel 16 bis 19 Absatz 1, Artikel 20 bis 22 Absatz 2,
+            Artikel 23 bis 27 Absatz 4 und 5, Artikel 28 Absatz 1 bis 3, Artikel
+            29, Artikel 30 Absatz 1 bis 4, Artikel 31, Artikel 32 Absatz 1 bis 8
+            Satz 1, Artikel 34 Absatz 2, Artikel 35 Absatz 1 und 2, Artikel 36,
+            Artikel 37 Absatz 1 bis 3 und die Artikel 39 und 40
+            der Richtlinie 2014/90/EU des Europäischen Parlaments und des Rates
+            vom 23. Juli 2014 über Schiffsausrüstung und zur Aufhebung der
+            Richtlinie 96/98/EG des Rates (ABl. L 257 vom 28.8.2014, S. 146)
 
-            (ABl. EG 1997 Nr. L 46 S. 25),
 
-            geändert durch:
 
-            *
-                10.1 Artikel 1 der Richtlinie 98/85/EG der Kommission vom 11. November 1998
-                    (ABl. EG Nr. L 315 S. 14)
 
 
-                10.2 Artikel 1 und 2 der Richtlinie 2001/53/EG der Kommission vom 10. Juli
-                    2001 (ABl. EG Nr. L 204 S. 1)
 
 
-                10.3 Artikel 1 und 2 der Richtlinie 2002/75/EG der Kommission vom 2.
-                    September 2002 (ABl. EG Nr. L 254 S. 1) 6)
 
 
-                10.4 Artikel 5 der Richtlinie 2002/84/EG des Europäischen Parlaments und
-                    des Rates vom 5. November 2002 (ABl. EG Nr. L 324 S. 53)
-
-
-                10.5 Artikel 1 und 2 der Richtlinie 2008/67/EG der Kommission vom 30. Juni
-                    2008 zur Änderung der Richtlinie 96/98/EG des Rates über
-                    Schiffsausrüstung (ABl. L 171 vom 1.7.2008, S. 16)
-
-
-                10.6 Artikel 1 und 2 der Richtlinie 2009/26/EG der Kommission vom 6. April
-                    2009 zur Änderung der Richtlinie 96/98/EG des Rates über
-                    Schiffsausrüstung
-
-                    (ABl. L 113 vom 6.5.2009, S. 1)
-
-
-                10.7 Artikel 1 und 2 der Richtlinie 2010/68/EU der Kommission vom 22.
-                    Oktober 2010 zur Änderung der Richtlinie 96/98/EG des Rates über
-                    Schiffsausrüstung
-
-                    (ABl. L 305 vom 20.11.2010, S. 1)
-
-
-                10.8 Artikel 1 und 2 der Richtlinie 2011/75/EU der Kommission vom 2.
-                    September 2011 zur Änderung der Richtlinie 96/98/EG des Rates über
-                    Schiffsausrüstung
-
-[^F776253_02_BJNR286010998BJNE001645140]
-                    (ABl. L 239 vom 15.9.2011, S. 1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
------
-
-6)  Anhang A.1 der Richtlinie verweist zusätzlich zu den Bestimmungen
-    dieses Gesetzes auf Bestimmungen folgender Instrumente der IMO:
-
-    1.  Entschl.A.123(V) vom 25. Oktober 1967
-
-        Brandschutz: Düsen für fest eingebaute Druckwasser-Sprühlöschanlagen
-        in Sonderräumen, Ro-Ro-Laderäumen, Ro-Ro-Räumen und Fahrzeugräumen
-
-        (vgl. Anhang A.1 Nr. 3.49 des Anhangs der Richtlinie),
-
-
-    2.  Entschl.A.224(VII) vom 12. Oktober 1971
-
-        Leistungsanforderungen für Echolotanlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.6 des Anhangs der Richtlinie),
-
-
-    3.  Entschl.A.278(VIII) vom 20. November 1973
-
-        Symbole für Bedienelemente für Schiffs-Navigationsradaranlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.34 bis 4.36 des Anhangs der Richtlinie),
-
-
-    4.  Entschl. A.342(IX) vom 12. November 1975
-
-        Empfehlung für Leistungsanforderungen für Selbststeueranlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.16 des Anhangs der Richtlinie),
-
-
-    5.  Entschl.A.382(X) vom 14. November 1977
-
-        Magnetkompasse - Mitführung und Leistungsanforderungen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.1 des Anhangs der Richtlinie),
-
-
-    6.  Entschl.A.384(X) vom 14. November 1977
-
-        Rettungsmittel und Navigationsausrüstung: Radarreflektor für
-        Rettungsboote und Bereitschaftsboote
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 1.33 und 4.39 des Anhangs der Richtlinie),
-
-
-    7.  Entschl.A.385(X) vom 14. November 1977
-
-        Funkausrüstung: UKW-Funkanlage zur Abwicklung von DSC und Sprechfunk
-
-        (vgl. Anhang A.1 Nr. 5.1 des Anhangs der Richtlinie),
-
-
-    8.  Entschl.A.424(XI) vom 15. November 1979
-
-        Leistungsanforderungen für Kreiselkompasse
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.3 des Anhangs der Richtlinie),
-
-
-    9.  Entschl.A.477(XII) vom 19. November 1981
-
-        Leistungsanforderungen für Radaranlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.34 bis 4.36 des Anhangs der Richtlinie),
-
-
-    10. Entschl.A.524(13) vom 17. November 1983
-
-        Funkausrüstung: UKW-Funkanlage zur Abwicklung von DSC und Sprechfunk
-
-        (vgl. Anhang A.1 Nr. 5.1 des Anhangs der Richtlinie),
-
-
-    11. Entschl.A.525(13) vom 17. November 1983
-
-        Funkausrüstung: NAVTEX-Empfänger
-
-        (vgl. Anhang A.1 Nr. 5.3 des Anhangs der Richtlinie),
-
-
-    12. Entschl.A.526(13) vom 17. November 1983
-
-        Leistungsanforderungen für Wendeanzeiger
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.9 des Anhangs der Richtlinie),
-
-
-    13. Entschl.A.530(13) vom 17. November 1983
-
-        Verwendung von Radartranspondern für Suche und Rettung
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.18 des Anhangs der Richtlinie),
-
-
-    14. Entschl.A.567(14) vom 20. November 1985
-
-        Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    15. Entschl.A.570(14) vom 20. November 1985
-
-        Funkausrüstung: EGC-Empfänger, INMARSAT-B SES, INMARSAT-C SES
-
-        (vgl. Anhang A.1 Nr. 5.4, 5.12, 5.13 des Anhangs der Richtlinie),
-
-
-    16. Entschl.A.586(14) vom 20. November 1985
-
-        Neufassung der Richtlinien für und Anforderungen an Überwachungs- und
-        Kontrollsysteme für das Einleiten von Öl für Öltankschiffe
-
-        (VkBl. 1998 S. 908, 1999 S. 40)
-
-        (vgl. Anhang A.1 Nr. 2.5 des Anhangs der Richtlinie),
-
-
-    17. Entschl.A.602(15) vom 19. November 1987
-
-        Brandschutz: Tragbare Feuerlöscher und tragbare Feuerlöscher für
-        Rettungsboote und Bereitschaftsboote
-
-        (vgl. Anhang A.1 Nr. 3.2, 3.38 des Anhangs der Richtlinie),
-
-
-    18. Entschl.A.652(16) vom 19. Oktober 1989
-
-        Brandschutz: Empfehlungen für Brandprüfverfahren für Polstermöbel
-
-        (VkBl. 1997 S. 191)
-
-        (vgl. Anhang A.1 Nr. 3.20 des Anhangs der Richtlinie),
-
-
-    19. Entschl.A.653(16) vom 19. Oktober 1989
-
-        Prüfungs- und Zulassungsvoraussetzungen zur Feststellung der
-        Schwerentflammbarkeit von Beschichtungswerkstoffen auf Schotten,
-        Verkleidungen, Decks und Decken sowie von Fußbodenaufbelägen
-
-        (VkBl. 1996 S. 253)
-
-        (vgl. Anhang A.1 Nr. 3.18 des Anhangs der Richtlinie),
-
-
-    20. Entschl.A.658(16) vom 19. Oktober 1989
-
-        Verwendung und Anbringung von Reflexstoffen an Rettungsmitteln
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 1.30 des Anhangs der Richtlinie),
-
-
-    21. Entschl.A.662(16) vom 19. Oktober 1989
-
-        Funkausrüstung: Satelliten-EPIRB 406 MHz (COSPAS-SARSAT), L-Band:
-        Satelliten-EPIRB 1,6 GHz (INMARSAT)
-
-        (vgl. Anhang A.1 Nr. 5.6, 5.7 des Anhangs der Richtlinie),
-
-
-    22. Entschl.A.664(16) vom 19. Oktober 1989
-
-        Funkausrüstung: EGC-Empfänger, INMARSAT-C SES
-
-        (vgl. Anhang A.1 Nr. 5.4, 5.13 des Anhangs der Richtlinie),
-
-
-    23. Entschl.A.688(17) vom 6. November 1991
-
-        Prüfungs- und Zulassungsvoraussetzungen zur Feststellung der
-        Entzündbarkeit von Bettzeug
-
-        (VkBl. 1998 S. 388)
-
-        (vgl. Anhang A.1 Nr. 3.21 des Anhangs der Richtlinie),
-
-
-    24. Entschl.A.694(17) vom 6. November 1991
-
-        Allgemeine Anforderungen für auf Schiffen mitgeführte Funkausrüstung
-        als Teil des Weltweiten Seenot- und Sicherheitsfunksystems (GMDSS) und
-        an elektronische Navigationshilfen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.1 bis 4.3, 4.6, 4.7, 4.9, 4.11, 4.12, 4.14 bis
-        4\.16, 4.18, 4.20 bis 4.22, 4.28, 5.1 bis 5.7, 5.10, 5.11 bis 5.18 des
-        Anhangs der Richtlinie),
-
-
-    25. Entschl.A.696(17) vom 6. November 1991
-
-        Funkausrüstung: Satelliten-EPIRB 406 MHz (COSPAS-SARSAT)
-
-        (vgl. Anhang A.1 Nr. 5.6 des Anhangs der Richtlinie),
-
-
-    26. Entschl.A.699(17) vom 6. November 1991
-
-        Funkausrüstung: KW-MSI-Empfänger (KW-NBDP-Empfänger)
-
-        (vgl. Anhang A.1 Nr. 5.5 des Anhangs der Richtlinie),
-
-
-    27. Entschl.A.700(17) vom 6. November 1991
-
-        Funkausrüstung: KW-MSI-Empfänger (KW-NBDP-Empfänger)
-
-        (vgl. Anhang A.1 Nr. 5.5 des Anhangs der Richtlinie),
-
-
-    28. Entschl.A.752(18) vom 4. November 1993
-
-        Brandschutz: Bodennahe Sicherheitsleitsysteme (nur Bestandteile)
-
-        (vgl. Anhang A.1 Nr. 3.40 des Anhangs der Richtlinie),
-
-
-    29. Entschl.A.753(18) vom 4. November 1993
-
-        Richtlinien für die Verwendung von Kunststoffrohren auf Schiffen
-
-        (VkBl. 1999 S. 434, Anlagenband B 8123)
-
-        (vgl. Anhang A.1 Nr. 3.14, 3.15 des Anhangs der Richtlinie),
-
-
-    30. Entschl.A.754(18) vom 4. November 1993
-
-        Prüfungs- und Zulassungsvoraussetzungen zur Feststellung der
-        Brandwiderstandsfähigkeit von Trennflächen des Typs A, B und F
-
-        (VkBl. 1998 S. 343, Anlagenband B 8056)
-
-        (vgl. Anhang A.1 Nr. 3.11, 3.14, 3.16, 3.22, 3.25 bis 3.27 des Anhangs
-        der Richtlinie),
-
-
-    31. Entschl.A.799(19) vom 23. November 1995
-
-        Brandschutz: Nichtbrennbare Werkstoffe
-
-        (vgl. Anhang A.1 Nr. 3.13 des Anhangs der Richtlinie),
-
-
-    32. Entschl.A.800(19) vom 23. November 1995
-
-        Brandschutz: Berieselungssysteme nach SOLAS-Regel II-2/12
-
-        (vgl. Anhang A.1 Nr. 3.9, 3.31 des Anhangs der Richtlinie),
-
-
-    33. Entschl.A.802(19) vom 23. November 1995
-
-        Leistungsanforderungen für Radartransponder auf Überlebensfahrzeugen
-        für den Gebrauch bei Such- und Rettungseinsätzen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.18 des Anhangs der Richtlinie),
-
-
-    34. Entschl.A.803(19) vom 23. November 1995
-
-        Funkausrüstung: UKW-Funkanlage zur Abwicklung von DSC und Sprechfunk;
-        UKW-DSC-Wachempfänger
-
-        (vgl. Anhang A.1 Nr. 5.1, 5.2 des Anhangs der Richtlinie),
-
-
-    35. Entschl.A.804(19) vom 23. November 1995
-
-        Funkausrüstung: GW-Funkanlage zur Abwicklung von DSC und Sprechfunk;
-        GW-Funk-DSC-Wachempfänger
-
-        (vgl. Anhang A.1 Nr. 5.10, 5.11 des Anhangs der Richtlinie),
-
-
-    36. Entschl.A.806(19) vom 23. November 1995
-
-        Funkausrüstung: KW-MSI-Empfänger (KW-NBDP-Empfänger; GW-KW-Funkanlage
-        zur Abwicklung von DSC, NBDP und Sprechfunk; GW-KW-DSC-Wachempfänger)
-
-        (vgl. Anhang A.1 Nr. 5.5, 5.14, 5.15 des Anhangs der Richtlinie),
-
-
-    37. Entschl.A.807(19) vom 23. November 1995
-
-        Funkausrüstung: INMARSAT-C SES
-
-        (vgl. Anhang A.1 Nr. 5.13 des Anhangs der Richtlinie),
-
-
-    38. Entschl.A.808(19) vom 23. November 1995
-
-        Funkausrüstung: INMARSAT-B SES
-
-        (vgl. Anhang A.1 Nr. 5.12 des Anhangs der Richtlinie),
-
-
-    39. Entschl.A.809(19) vom 23. November 1995
-
-        Funkausrüstung: Tragbare bzw. fest eingebaute UKW-Sprechfunkgeräte
-        (Sender/Empfänger) für Überlebensfahrzeuge
-
-        (vgl. Anhang A.1 Nr. 5.17, 5.18 des Anhangs der Richtlinie),
-
-
-    40. Entschl.A.810(19) vom 23. November 1995
-
-        Funkausrüstung: Satelliten-EPIRB 406 MHz (COSPAS-SARSAT)
-
-        (vgl. Anhang A.1 Nr. 5.6 des Anhangs der Richtlinie),
-
-
-    41. Entschl.A.812(19) vom 23. November 1995
-
-        Funkausrüstung: L-Band: Satelliten-EPIRB 1,6 GHz (INMARSAT)
-
-        (vgl. Anhang A.1 Nr. 5.7 des Anhangs der Richtlinie),
-
-
-    42. Entschl.A.817(19) vom 23. November 1995
-
-        Leistungsanforderungen für elektronische Seekartendarstellungs- und
-        Informationssysteme (ECDIS)
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119; VkBl. 2000 S. 234 (Nachträge))
-
-        (vgl. Anhang A.1 Nr. 4.30 des Anhangs der Richtlinie),
-
-
-    43. Entschl.A.818(19) vom 23. November 1995
-
-        Leistungsanforderungen für an Bord mitgeführte LORAN-C und CHAYKA-
-        Empfänger
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.11, 4.12 des Anhangs der Richtlinie),
-
-
-    44. Entschl.A.819(19) vom 23. November 1995
-
-        Leistungsanforderungen für an Bord mitgeführte Empfangsanlagen eines
-        weltweiten Positionsbestimmungssystems (GPS)
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.14 des Anhangs der Richtlinie),
-
-
-    45. Entschl.A.820(19) vom 23. November 1995
-
-        Leistungsanforderungen für Navigations-Radaranlagen auf
-        Hochgeschwindigkeitsfahrzeugen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.37 und 4.38 des Anhangs der Richtlinie),
-
-
-    46. Entschl.A.821(19) vom 23. November 1995
-
-        Leistungsanforderungen für Kreiselkompasse für
-        Hochgeschwindigkeitsfahrzeuge
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.31 des Anhangs der Richtlinie),
-
-
-    47. Entschl.A.823(19) vom 23. November 1995
-
-        Leistungsanforderungen für automatische Radar-Plotthilfen (ARPA)
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.34, 4.37 des Anhangs der Richtlinie),
-
-
-    48. Entschl.A.824(19) vom 23. November 1995
-
-        Leistungsanforderungen für Fahrtmessanlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.7 des Anhangs der Richtlinie),
-
-
-    49. Entschl.A.861(20) vom 27. November 1997
-
-        Navigationsausrüstung: Schiffsdatenschreiber (VDR)
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 4.29 des Anhangs der Richtlinie),
-
-
-    50. Entschl.A.889(21) vom 25. November 1999
-
-        Lotsenversetzeinrichtungen
-
-        (VkBl. 2000 S. 409)
-
-        (vgl. Anhang A.1 Nr. 1.40 des Anhangs der Richtlinie),
-
-
-    51. MSC/Rundschreiben 282 vom 23. Mai 1980
-
-        Brandschutz: Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    52. MSC/Rundschreiben 353 vom 17. Juni 1983
-
-        Brandschutz: Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    53. MSC/Rundschreiben 387 vom 30. November 1984
-
-        Brandschutz: Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    54. MSC/Rundschreiben 450/Rev. 1
-
-        Brandschutz: Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    55. MSC/Rundschreiben 485 vom 22. April 1988
-
-        Brandschutz: Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.42 des Anhangs der Richtlinie),
-
-
-    56. MSC/Rundschreiben 668 vom 30. Dezember 1994
-
-        Brandschutz: Alternativvorrichtungen für Bestandteile von Halon-
-        Löschanlagen in Maschinenräumen und Pumpenräumen - gleichwertige
-        Löschanlagen auf Wasserbasis und deren Bestandteile
-
-        (vgl. Anhang A.1 Nr. 3.39 des Anhangs der Richtlinie),
-
-
-    57. MSC/Rundschreiben 670 vom 9. Dezember 1994
-
-        Brandschutz: Konzentrat für fest eingebaute hochwirksame
-        Schaumlöschanlagen für Maschinenräume und Ladungspumpenräume
-
-        (vgl. Anhang A.1 Nr. 3.47 des Anhangs der Richtlinie),
-
-
-    58. MSC/Rundschreiben 677 vom 30. Dezember 1994
-
-        Anforderungen für Konstruktion, Prüfung und Anordnung von
-        Sicherungseinrichtungen zur Verhinderung des Durchgangs von Flammen in
-        Ladetanks von Tankschiffen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 3.12, 3.42 des Anhangs der Richtlinie),
-
-
-    59. MSC/Rundschreiben 728 vom 4. Juni 1996
-
-        Brandschutz: Alternativvorrichtungen für Bestandteile von Halon-
-        Löschanlagen in Maschinenräumen und Pumpenräumen - gleichwertige
-        Löschanlagen auf Wasserbasis und deren Bestandteile
-
-        (vgl. Anhang A.1 Nr. 3.39 des Anhangs der Richtlinie),
-
-
-    60. MSC/Rundschreiben 773 vom 2. Januar 1997
-
-        Lotsenversetzeinrichtungen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 1.40 des Anhangs der Richtlinie),
-
-
-    61. MSC/Rundschreiben 774 vom 6. Dezember 1996
-
-        Brandschutz: Sauerstoffanalyse und Gasspürgeräte
-
-        (vgl. Anhang A.1 Nr. 3.30 des Anhangs der Richtlinie),
-
-
-    62. MSC/Rundschreiben 809 vom 30. Juni 1997
-
-        Rettungsmittel: Automatisch selbstaufrichtende Rettungsflöße bzw.
-        beidseitig verwendbare Rettungsflöße mit Schutzdach; schnelle
-        Bereitschaftsboote; Aussetzvorrichtungen für schnelle
-        Bereitschaftsboote
-
-        (vgl. Anhang A.1 Nr. 1.14, 1.15, 1.20, 1.25 des Anhangs der
-        Richtlinie),
-
-
-    63. MSC/Rundschreiben 810 vom 30. Juni 1997
-
-        Empfehlungen für Mittel für das Bergen Schiffbrüchiger auf Ro-Ro-
-        Fahrgastschiffen
-
-        (VkBl. 1999 S. 434, Anlagenband B 8123)
-
-        (vgl. Anhang A.1 Nr. 1.28 des Anhangs der Richtlinie),
-
-
-    64. MSC/Rundschreiben 811 vom 8. Juli 1997
-
-        Rettungsmittel: Aufblasbare, starre oder automatisch
-        selbstaufrichtende Rettungsflöße oder beidseitig verwendbare
-        Rettungsflöße mit Schutzdach oder Aufschwimmvorrichtungen für
-        Rettungsflöße
-
-        (vgl. Anhang A.1 Nr. 1.12 bis 1.16 des Anhangs der Richtlinie),
-
-
-    65. MSC/Rundschreiben 847 vom 12. Juni 1998
-
-        Interpretationen unbestimmter Ausdrücke und sonstiger unpräziser
-        Formulierungen im Kapitel II-2 des SOLAS-Übereinkommens
-
-        (VkBl. 2000 S. 259, Anlagenband B 8115)
-
-        (vgl. Anhang A.1 Nr. 3.3, 3.5, 3.25, 3.42 des Anhangs der Richtlinie),
-
-
-    66. MSC/Rundschreiben 848 vom 8. Juni 1998
-
-        Brandschutz: Gleichwertige Bestandteile von fest eingebauten Gas-
-        Löschanlagen für Maschinenräume und Ladungspumpenräume
-
-        (vgl. Anhang A.1 Nr. 3.45 des Anhangs der Richtlinie),
-
-
-    67. MSC/Rundschreiben 849 vom 8. Juni 1998
-
-        Brandschutz: Fluchtretter (EEBD)
-
-        (vgl. Anhang A.1 Nr. 3.41 des Anhangs der Richtlinie),
-
-
-    68. MSC/Rundschreiben 862 vom 22. Mai 1998
-
-        Funkausrüstung: UKW-Funkanlage zur Abwicklung von DSC und Sprechfunk;
-        Satelliten-EPIRB 406 MHz (COSPAS-SARSAT); L-Band: Satelliten-EPIRB 1,6
-        GHz (INMARSAT); GW-Funkanlage zur Abwicklung von DSC und Sprechfunk;
-        INMARSAT-B SES; INMARSAT-C SES; GW-KW-Funkanlage zur Abwicklung von
-        DSC, NBDP und Sprechfunk
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 5.1, 5.6, 5.7, 5.10, 5.12 bis 5.14 des Anhangs
-        der Richtlinie),
-
-
-    69. MSC/Rundschreiben 885 vom 21. Dezember 1998
-
-        Rettungsmittel: Positionslaternen für Rettungsmittel
-
-        (vgl. Anhang A.1 Nr. 1.2 des Anhangs der Richtlinie),
-
-
-    70. MSC/Rundschreiben 912 vom 4. Juni 1999
-
-        Interpretationen zu den Standards für festeingebaute Sprinklersysteme
-        auf Hochgeschwindigkeitsfahrzeugen
-
-        (VkBl. 2001 S. 150)
-
-        (vgl. Anhang A.1 Nr. 3.31 des Anhangs der Richtlinie),
-
-
-    71. MSC/Rundschreiben 913 vom 4. Juni 1999
-
-        Brandschutz: Bestandteile von fest eingebauten, örtlich einzusetzenden
-        Feuerlöschsystemen auf Wasserbasis für Maschinenräume vom Typ "A"
-
-        (vgl. Anhang A.1 Nr. 3.48 des Anhangs der Richtlinie),
-
-
-    72. MSC/Rundschreiben 914 vom 4. Juni 1999
-
-        Brandschutz: Düsen für fest eingebaute Druckwasser-Sprühlöschanlagen
-        in Sonderräumen, Ro-Ro-Laderäumen, Ro-Ro-Räumen und Fahrzeugräumen
-
-        (vgl. Anhang A.1 Nr. 3.49 des Anhangs der Richtlinie),
-
-
-    73. MSC/Rundschreiben 916 vom 4. Juni 1999
-
-        Brandschutz: Trennflächen vom Typ "A" und "B", Feuerbeständigkeit;
-        Feuertüren; Oberflächenwerkstoffe und Bodenbeläge mit geringem
-        Brandausbreitungsvermögen (Dekorfurniere, Anstrichsysteme,
-        Bodenbeläge, Isolierverkleidungen für Rohre)
-
-        (vgl. Anhang A.1 Nr. 3.11, 3.16, 3.18 des Anhangs der Richtlinie),
-
-
-    74. MSC/Rundschreiben 1004 vom 14. Juni 2001
-
-        Brandschutz: Unterboden-Dünnschichtbeläge; Trennflächen vom Typ "A"
-        und "B", Feuerbeständigkeit; Feuertüren; Oberflächenwerkstoffe und
-        Bodenbeläge mit geringem Brandausbreitungsvermögen (Dekorfurniere,
-        Anstrichsysteme, Bodenbeläge, Isolierverkleidungen für Rohre); eckige
-        und runde Schiffsfenster
-
-        (vgl. Anhang A.1 Nr. 3.1, 3.11, 3.16, 3.18, 3.25 des Anhangs der
-        Richtlinie),
-
-
-    75. MSC/Rundschreiben 1005 vom 8. Juni 2001
-
-        Brandschutz: Trennflächen vom Typ "A" und "B", Feuerbeständigkeit
-
-        (vgl. Anhang A.1 Nr. 3.11 des Anhangs der Richtlinie),
-
-
-    76. MSC/Rundschreiben 1007 vom 26. Juni 2001
-
-        Brandschutz: Gleichwertige Bestandteile von fest eingebauten Gas-
-        Löschanlagen für Maschinenräume (Aerosolanlagen)
-
-        (vgl. Anhang A.1 Nr. 3.46 des Anhangs der Richtlinie),
-
-
-    77. MSC/Rundschreiben 1008 vom 8. Juni 2001
-
-        Brandschutz: Oberflächenwerkstoffe und Bodenbeläge mit geringem
-        Brandausbreitungsvermögen (Dekorfurniere, Anstrichsysteme,
-        Bodenbeläge, Isolierverkleidungen für Rohre)
-
-        (vgl. Anhang A.1 Nr. 3.18 des Anhangs der Richtlinie),
-
-
-    78. MSC/Rundschreiben 1009 vom 8. Juni 2001
-
-        Brandschutz: Sicherheitseinrichtungen, die den Durchgang von Flammen
-        in die Ladetanks bei Öltankschiffen verhindern (nur
-        Hochgeschwindigkeitsventile); Bestandteile von Inertgasanlagen
-
-        (vgl. Anhang A.1 Nr. 3.12, 3.42 des Anhangs der Richtlinie),
-
-
-    79. Entschl.MSC.36(63) vom 20. Mai 1994
-
-        Internationaler Code für die Sicherheit von
-        Hochgeschwindigkeitsfahrzeugen (HSC-Code)
-
-        (BAnz. Nr. 21a vom 31. Januar 1996)
-
-        (vgl. Anhang A.1 Nr. 1.1 bis 1.6, 1.8, 1.11 bis 1.16, 1.18 bis 1.21,
-        1\.23 bis 1.28, 1.33, 1.38, 1.39, 3.2 bis 3.8, 3.13, 3.15, 3.17 bis
-        3\.21, 3.29, 3.31 bis 3.38, 3.44 bis 3.46, 3.49, 4.2, 4.6, 4.7, 4.9,
-        4\.11, 4.12, 4.14, 4.15, 4.18, 4.20, 4.23, 4.31, 4.37, 4.38, 5.1 bis
-        5\.7, 5.10 bis 5.18 des Anhangs der Richtlinie),
-
-
-    80. Entschl.MSC.40(64) vom 5. Dezember 1994
-
-        Standards für die Qualifizierung von Schiffbauwerkstoffen für
-        Hochgeschwindigkeitsfahrzeuge als feuerhemmende Werkstoffe
-
-        (VkBl. 2001 S. 150)
-
-        (vgl. Anhang A.1 Nr. 3.32, 3.33 des Anhangs der Richtlinie),
-
-
-    81. Entschl.MSC.44(65) vom 11. Mai 1995
-
-        Standards für festeingebaute Sprinklersysteme auf
-        Hochgeschwindigkeitsfahrzeugen
-
-        (VkBl. 2001 S. 150)
-
-        (vgl. Anhang A.1 Nr. 3.31 des Anhangs der Richtlinie),
-
-
-    82. Entschl.MSC.45(65) vom 11. Mai 1995
-
-        Prüfverfahren für feuerwiderstandsfähige Brandflächen auf
-        Hochgeschwindigkeitsfahrzeugen
-
-        (VkBl. 2001 S. 150)
-
-        (vgl. Anhang A.1 Nr. 3.34 bis 3.37 des Anhangs der Richtlinie),
-
-
-    83. Entschl.MSC.48(66) vom 4. Juni 1996
-
-        Internationaler Rettungsmittel-(LSA-)Code
-
-        (BAnz. Nr. 118a vom 1. Juli 1998)
-
-        (vgl. Anhang A.1 Nr. 1.1 bis 1.21, 1.23 bis 1.30, 1.33, 1.39, 3.38,
-        4\.23 des Anhangs der Richtlinie),
-
-
-    84. Entschl.MSC.53(66) vom 30. Mai 1996
-
-        Leistungsanforderungen für an Bord mitgeführte Empfangsanlagen eines
-        weltweiten Navigations-Satellitensystems (GLONASS)
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119)
-
-        (vgl. Anhang A.1 Nr. 4.15 des Anhangs der Richtlinie),
-
-
-    85. Entschl.MSC.56(66) vom 3. Juni 1996
-
-        Funkausrüstung: Satelliten-EPIRB 406 MHz (COSPAS-SARSAT)
-
-        (vgl. Anhang A.1 Nr. 5.6 des Anhangs der Richtlinie),
-
-
-    86. Entschl.MSC.61(67) vom 5. Dezember 1996
-
-        Internationaler Code für die Anwendung von Brandprüfverfahren
-
-        (VkBl. 1998 S. 387, Anlagenband B 8058)
-
-        (vgl. Anhang A.1 Nr. 3.1, 3.11, 3.13, 3.14, 3.16 bis 3.22, 3.25 bis
-        3\.27 des Anhangs der Richtlinie),
-
-
-    87. Entschl.MSC.64(67) vom 4. Dezember 1996
-
-        Neue und ergänzte Leistungsanforderungen an Funk- und
-        Navigationsanlagen
-
-        (VkBl. 1998 S. 892, Anlagenband B 8119 und VkBl. 2002 S. 689,
-        Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 4.16, 4.28, 4.30, 4.34 bis 4.36, 4.38 des Anhangs
-        der Richtlinie),
-
-
-    88. Entschl.MSC.68(68) vom 6. Juni 1997
-
-        Funkausrüstung: UKW-Funkanlage zur Abwicklung von DSC und Sprechfunk;
-        UKW-DSC-Wachempfänger; GW-Funkanlage zur Abwicklung von DSC und
-        Sprechfunk; GW-Funk-DSC-Wachempfänger; INMARSAT-C SES; GW-KW-
-        Funkanlage zur Abwicklung von DSC, NDBP und Sprechfunk; GW-KW-DSC-
-        Wachempfänger
-
-        (vgl. Anhang A.1 Nr. 5.1, 5.2, 5.10, 5.11, 5.13 bis 5.15 des Anhangs
-        der Richtlinie),
-
-
-    89. Entschl.MSC.74(69) vom 12. Mai 1998
-
-        Neue und ergänzte Leistungsnormen für (a) Bahnführungssysteme, (b)
-        Echolotanlagen
-
-        (VkBl. 2000 S. 234 und VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 4.6, 4.32, 4.33 des Anhangs der Richtlinie),
-
-
-    90. Entschl.MSC.80(70) vom 8. Dezember 1998
-
-        Funkausrüstung: UKW-Flugsprechfunkgeräte (Senden/Empfangen)
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 5.16 des Anhangs der Richtlinie),
-
-
-    91. Entschl.MSC.81(70) vom 11. Dezember 1998
-
-        Überarbeitete Richtlinien zur Prüfung von Rettungsmitteln
-
-        (VkBl. 1999 S. 434, Anlagenband B 8123)
-
-        (vgl. Anhang A.1 Nr. 1.1 bis 1.21, 1.23 bis 1.28, 1.36 bis 1.38 des
-        Anhangs der Richtlinie),
-
-
-    92. Entschl.MSC.86(70) vom 8. Dezember 1998
-
-        Empfehlung neuer und ergänzter Leistungsnormen für (a) Schallsignal-
-        Empfangsanlagen, (b) Magnetische Kursübertragungssysteme (TMHDs), (c)
-        Integrierte Navigationssysteme, (d) Elektronische Seekarten- und
-        Informationssysteme (ECDISs)
-
-        (VkBl. 2000 S. 234)
-
-        (vgl. Anhang A.1 Nr. 4.2, 4.30 des Anhangs der Richtlinie),
-
-
-    93. Entschl.MSC.90(71) vom 21. Mai 1999
-
-        Brandschutz: Feuerdämmende Werkstoffe (ausgenommen Möbel) für
-        Hochgeschwindigkeitsfahrzeuge; feuerdämmende Werkstoffe für Möbel auf
-        Hochgeschwindigkeitsfahrzeugen
-
-        (vgl. Anhang A.1 Nr. 3.32, 3,33 des Anhangs der Richtlinie),
-
-
-    94. Entschl.MSC.96(72) vom 22. Mai 2000
-
-        Navigationsausrüstung: Geräte zum Anzeigen der Geschwindigkeit und der
-        zurückgelegten Distanz (SDME)
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 4.7 des Anhangs der Richtlinie),
-
-
-    95. Entschl.MSC.97(73) vom 5. Dezember 2000
-
-        Internationaler Code für die Sicherheit von
-        Hochgeschwindigkeitsfahrzeugen (HSC-Code 2000)
-
-        (VkBl. 2002 S. 449, Anlagenband B 8128)
-
-        (vgl. Anhang A.1 Nr. 1.1 bis 1.6, 1.8, 1.11, 1.16, 1.18 bis 1.21, 1.23
-        bis 1.28, 1.39, 3.2 bis 3.7, 3.13, 3.15, 3.17 bis 3.21, 3.29, 3.31 bis
-        3\.38, 3.42 bis 3.46, 3.48, 3.49, 4.2, 4.6, 4.7, 4.9, 4.11, 4.12, 4.14,
-        4\.15, 4.18, 4.20, 4.23, 4.28 bis 4.33, 4.37 bis 4.39, 5.1 bis 5.7,
-        5\.10 bis 5.18 des Anhangs der Richtlinie),
-
-
-    96. Entschl.MSC.98(73) vom 5. Dezember 2000
-
-        Internationaler Code für Brandsicherheitssysteme (FSS-Code)
-
-        (VkBl. 2002 S. 449, Anlagenband B 8128)
-
-        (vgl. Anhang A.1 Nr. 3.2 bis 3.7, 3.9, 3.28, 3.30, 3.39 bis 3.42, 3.44
-        bis 3.47, 3.49 des Anhangs der Richtlinie),
-
-
-    97. Entschl.MSC.99(73) vom 5. Dezember 2000
-
-        Änderungen des Internationalen Übereinkommens von 1974 zum Schutz des
-        menschlichen Lebens auf See in seiner zuletzt geänderten Fassung
-
-        (BGBl. 2002 II S. 1523)
-
-        (vgl. Anhang A.1 Nr. 3.8, 3.41, 3.43, 3.48 (jeweils Fußnote)),
-
-
-    98. Entschl.MSC.120(74) vom 31. Mai 2001
-
-        Funkausrüstung: Satelliten-EPIRB 406 MHz (COSPAS-SARSAT)
-
-        (VkBl. 2002 S. 689, Anlagenband B 8120)
-
-        (vgl. Anhang A.1 Nr. 5.6 des Anhangs der Richtlinie),
-
-
-    99. Entschl.MEPC.2(VI)
-
-        Verhütung der Meeresverschmutzung: Abwasser-Aufbereitungsanlage
-
-        (vgl. Anhang A.1 Nr. 2.6 des Anhangs der Richtlinie),
-
-
-    100. Entschl.MEPC.5(XIII)
-
-        Verhütung der Meeresverschmutzung: Messgeräte zur Bestimmung der
-        Grenzfläche zwischen Öl und Wasser
-
-        (vgl. Anhang A.1 Nr. 2.2 des Anhangs der Richtlinie),
-
-
-    101. Entschl.MEPC.60(33) vom 30. Oktober 1992
-
-        Verhütung der Meeresverschmutzung: Öl-Filteranlage für einen Ölgehalt
-        des Ausflusses von höchstens 15 ppm; Ölgehaltsmessgeräte
-
-        (vgl. Anhang A.1 Nr. 2.1 und 2.3 des Anhangs der Richtlinie),
-
-
-    102. Entschl.MEPC.76(40) vom 25. September 1997
-
-        Verhütung der Meeresverschmutzung: Verbrennungsöfen an Bord
-
-        (vgl. Anhang A.1 Nr. 2.7 des Anhangs der Richtlinie).
-
-
-
-
-
-
------
 
 *
     *
@@ -3788,23 +3223,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *
     *
-        12. Artikel 3 bis 8, 11 Absatz 2 und 3, 12, 13, 15 und 17 in Verbindung
-            mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der Richtlinie
-            2009/45/EG des Europäischen Parlaments und des Rates vom 6. Mai 2009
-            über Sicherheitsvorschriften und -normen für Fahrgastschiffe
-            (Neufassung)
-
-            (ABl. L 163 vom 25.6.2009, S. 1) 8) geändert durch:
-
-            *
-                12.1. Artikel 1 der Richtlinie 2010/36/EU der Kommission vom 1. Juni 2010
-                    (ABl. L 162 vom 29.6.2010, S. 1)
-
-
-
-
-
-
+        12. Artikel 3 bis 8, 11 Absatz 2 und 3, Artikel 12, 13, 15 und 17 in
+            Verbindung mit den Anhängen I bis V sowie mit den Artikeln 1 und 2 der
+            Richtlinie 2009/45/EG des Europäischen Parlaments und des Rates vom 6.
+            Mai 2009 über Sicherheitsvorschriften und -normen für Fahrgastschiffe
+            (Neufassung) (ABl. L 163 vom 25.6.2009, S. 1), zuletzt geändert durch
+            Artikel 1 der Richtlinie (EU) 2016/844 (ABl. L 141 vom 28.5.2016, S.
+            51; L 193 vom 19.7.2016, S. 117)
 
 
 
@@ -4117,24 +3542,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (ABl. EG 2000 Nr. L 14 S. 29)
 
 
-        16. Artikel 6, 7, 9 Abs. 1, Artikel 10 und 11 in Verbindung mit Anhang II
-            und den Artikeln 1 bis 4 und 16 der Richtlinie 2000/59/EG des
+        16. Artikel 6, 7, 9 Absatz 1, Artikel 10 und 11 in Verbindung mit Anhang
+            II und den Artikeln 1 bis 4 und 16 der Richtlinie 2000/59/EG des
             Europäischen Parlaments und des Rates vom 27. November 2000 über
             Hafenauffangeinrichtungen für Schiffsabfälle und Ladungsrückstände
-
-            (ABl. EG Nr. L 332 S. 81),
-
-            geändert durch:
-
-            *
-                16.1 Artikel 10 der Richtlinie 2002/84/EG des Europäischen Parlaments und
-                    des Rates vom 5. November 2002 (ABl. EG Nr. L 324 S. 53)
-
-
-
-
-
-
+            (ABl. L 332 vom 28.12.2000, S. 81), zuletzt geändert durch Artikel 1
+            der Richtlinie (EU) 2015/2087 (ABl. L 302 vom 19.11.2015, S. 99).
 
 
         17. Artikel 7 Nr. 1, Artikel 8 Nr. 1 bis 3, Artikel 9, 10 Abs. 2 bis 4 in
@@ -4168,17 +3581,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (ABl. L 283 vom 29.10.2010, S. 1)
 
 
-        19. Artikel 10 Abs. 1 in Verbindung mit Artikel 2 Abs. 1 und Anhang II
-            Abschnitt II, Artikel 11 (im Hinblick auf § 1 Nr. 4a des
-            Seeaufgabengesetzes und Abschnitt 3 des Seesicherheits-Untersuchungs-
-            Gesetzes) sowie Artikel 19 Abs. 3 in Verbindung mit den Artikeln 2 und
-            3 Buchstabe r sowie Artikel 17 Abs. 1 der Richtlinie 2002/59/EG des
-            Europäischen Parlaments und des Rates vom 27. Juni 2002 über die
-            Einrichtung eines gemeinschaftlichen Überwachungs- und
-            Informationssystems für den Schiffsverkehr und zur Aufhebung der
-            Richtlinie 93/75/EWG des Rates
-
-            (ABl. EG Nr. L 208 S. 10)
+        19. (weggefallen)
 
 
         20. Artikel 4 bis 10 der Richtlinie 2003/25/EG des Europäischen Parlaments
@@ -4245,6 +3648,11 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 (VkBl. 2009 S. 652)
 
 
+            –   Änderung von 2014 (MSC.377(93))
+                Angenommen am 22. Mai 2014
+                (VkBl. 2015 S. 263)
+
+
 
 
 
@@ -4252,18 +3660,17 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             Bohrplattformen
 
             a)  für Plattformen, deren Kiellegung vor dem 1. Januar 2012 erfolgt ist
-                und die sich am 1. Januar 2012 nicht in einem entsprechenden
+                oder die sich am 1. Januar 2012 nicht in einem entsprechenden
                 Bauzustand befinden –
 
-                -   Code für den Bau und die Ausrüstung beweglicher Offshore-
+                –   Code für den Bau und die Ausrüstung beweglicher Offshore-
                     Bohrplattformen (MODU-Code 89) (Entschl. A.649(16))
                     Angenommen am 19. Oktober 1989 und geändert 1991 und 1994
                     (MSC/Rundschreiben 561 und MSC.38(63))
                     (BAnz. Nr. 121a vom 4. Juli 1997)
 
-                    -   § 10 Absatz 3 der Festlandsockel-Bergverordnung vom 21. März 1989
-                        (BGBl. I S. 554), die zuletzt durch Artikel 292 der Verordnung vom 25.
-                        November 2003 (BGBl. I S. 2304) geändert worden ist –
+                    -   § 53 Absatz 2 Satz 1 Nummer 4 Buchstabe a der Offshore-Bergverordnung
+                        vom 3. August 2016 (BGBl. I S. 1866)
 
 
                     -   Änderung von 2004 (MSC.187(79))
@@ -4271,6 +3678,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+
+
+                –   Änderung von 2013 (MSC.357(92) und MSC.358(92))
+                    Angenommen am 21. Juni 2013
+                    (VkBl. 2014 S. 387 und 389)
+
+
+                –   Änderung von 2014 (MSC.383(94))
+                    Angenommen am 21. November 2014 (VkBl. 2015 S. 472)
 
 
 
@@ -4282,45 +3698,44 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
                 erfolgt oder die sich zu diesem Zeitpunkt in einem entsprechenden
                 Bauzustand befinden –
 
-                -   Code für den Bau und die Ausrüstung beweglicher Offshore-
+                –   Code für den Bau und die Ausrüstung beweglicher Offshore-
                     Bohrplattformen (2009 MODU-Code) (Entschl. A.1023(26))
                     Angenommen am 2. Dezember 2009 (VkBl. 2011 S. 747, Sonderdruck B 8150)
 
 
+                –   § 53 Absatz 2 Satz 1 Nummer 4 Buchstabe b der Offshore-Bergverordnung
+                    vom 3. August 2016 (BGBl. I S. 1866)
+
+
+                –   Änderungen von 2013 (MSC.359(92))
+                    Angenommen am 21. Juni 2013
+                    (VkBl. 2014 S. 390)
+
+
+                –   Änderungen von 2014 (MSC.384(94) und MSC.387(94))
+                    Angenommen am 21. November 2014 und am 18. November 2014
+                    (VkBl. 2015 S. 473 und 474)
 
 
 
 
 
 
-        3.  Richtlinien für die sichere Behandlung von Schüttladungen bei der
-            Beförderung mit Seeschiffen (Entschl.A.434(XI))
-
-            Angenommen am 15. November 1979 und geändert gemäß MSC/Rundschreiben
-            507 vom 17. Mai 1989 und MSC/Rundschreiben 532 vom 12. Juni 1990
-
-            (BAnz. Nr. 226a vom 6. Dezember 1990 - Neufassung)
-
-            -   Änderungen 1991 (MSC/Rundschreiben 554 und 555 vom 20. Juni 1991)
-
-                (BAnz. 1993 S. 810)
 
 
-            -   Änderung 1993 (MSC/Rundschreiben 626 vom 18. Juni 1993)
+        3.  Richtlinien für die Verwendung von Kunststoffrohren auf Schiffen
+            (Entschließung A.753(18))
+            Angenommen am 4. November 1993
+            (VkBl. 1999 S. 434)
 
-                (BAnz. 1994 S. 4477)
+            –   Änderung von 2010 (MSC.313(88))
+                Angenommen am 26. November 2010
+                (VkBl. 2012 S. 137)
 
 
-            -   Änderungen 1994 und 1996 (MSC/Rundschreiben 662 vom 22. Dezember 1994
-                und MSC/Rundschreiben 742 vom 14. Juni 1996)
-
-                (BAnz. 1996 S. 12621; VkBl. 1997 S. 116)
-
-
-            -   Änderungen von 1999 und 2000 (MSC/Rundschreiben 921 vom 4. Juni 1999
-                und MSC/Rundschreiben 962 vom 1. Juni 2000)
-
-                (BAnz. 2001 Nr. 61a vom 28. März 2001; VkBl. 2001 S. 16)
+            –   Änderung von 2015 (MSC.399(95))
+                Angenommen am 5. Juni 2015
+                (VkBl. 2016 S. 163)
 
 
 
@@ -4352,6 +3767,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
                 –   Änderung von 2004 (MSC.183(79))
                     (VkBl. 2009 S. 272)
+
+
+                –   Änderung von 2010 (MSC.299(87))
+                    Angenommen am 14. Mai 2010
+                    (VkBl. 2011 S. 1012)
+
+
+                –   Änderung von 2016 (MSC.408(96))
+                    Angenommen am 13. Mai 2016
+                    (VkBl. 2016 S. 675)
 
 
 
@@ -4471,8 +3896,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
         15.
-            -   Unbeschadet Regel V/3 Abs. 1 Satz 1 der Anlage zum STCW-Übereinkommen
-                -
+            -   Unbeschadet Regel V/2 Absatz 1 Satz 1 der Anlage zum STCW-
+                Übereinkommen -
 
 
 
@@ -4486,30 +3911,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 1999 S. 378)
 
 
-        16.
-            -   Vorbehaltlich Abschnitt D Nr. 12 (Fußnote 5) für Schiffe, die am 1.
-                April 2001 oder später auf Kiel gelegt werden -
-
-
-
-
-            Code über die Intaktstabilität aller Schiffstypen (Entschl.A.749(18)
+        16. Code über die Intaktstabilität aller Schiffstypen (Entschl.A.749(18)
             in der Fassung MSC.75(69)) sowie hierzu die Richtlinien für die
             Überwachung der Schiffsstabilität vom 15. Dezember 2006
 
             Angenommen am 4. November 1993 und 14. Mai 1998
 
             (VkBl. 1999 S. 164, Anlagenband B 8142 sowie VkBl. 2007 S. 14)
-
-            –   Änderung von 2008 (MSC.267(85))
-                (VkBl. 2009 S. 724, Sonderdruck B 8142)
-
-
-            -   Änderung von Dezember 2008 (MSC.269(85))
-                (BGBl. 2011 II S. 506)
-
-
-
 
 
         17. Erweitere Anwendung der Erläuterungen zu den SOLAS-Regeln über die
@@ -4596,10 +4004,15 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2010 S. 451)
 
 
-        25. Empfehlung für ein Standardverfahren zur Bewertung von
-            Querflutungseinrichtungen (MSC.245(83))
-            Angenommen am 12. Oktober 2007
-            (VkBl. 2010 S. 457)
+        –   geändert durch Entschl. MSC.335(90)
+            Angenommen am 22. Mai 2012
+            (VkBl. 2013 S. 780)
+
+
+        25. Überarbeitete Empfehlung für ein Standardverfahren zur Bewertung von
+            Querflutungseinrichtungen (Entschl. MSC.362(92))
+            Angenommen am 14. Juni 2013
+            (VkBl. 2014 S. 553)
 
 
         26. Code für Alarmierungs- und Anzeigeneinrichtungen, 2009 (A.1021(26))
@@ -4618,6 +4031,79 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
             (VkBl. 2012 S. 43)
 
 
+        29. Richtlinien von 2011 über zusätzliche Aspekte der Technischen NO
+            x-Vorschrift 2008 in Bezug auf besondere Anforderungen an
+            Schiffsdieselmotoren mit Systemen zur selektiven katalytischen
+            Reduktion (SCR)
+            Entschließung MEPC.198(62)
+            Angenommen am 15. Juli 2011
+            (VkBl. 2012 S. 1009)
+
+
+        30. Richtlinien von 2011 für Auffanganlagen nach Anlage VI von MARPOL
+            Entschließung MEPC.199(62)
+            Angenommen am 15. Juli 2011
+            (VkBl. 2011 S. 927)
+
+
+        31. Entschließung A.891(21) „Empfehlungen zur Ausbildung von Personal auf
+            beweglichen Offshore-Plattformen (MOUs)“
+            Angenommen am 25. November 1999
+            (VkBl. 2013 S. 172)
+
+
+        32. Leistungsanforderungen für das Brücken-Alert-Management
+            Entschließung MSC.302(87)
+            Angenommen am 17. Mai 2010
+            (VkBl. 2012 S. 829)
+
+
+        33. MEPC.2/Rundschreiben 18 „Vorläufige Einstufung Flüssiger Stoffe“ vom
+            17\. Dezember 2010
+            (VkBl. 2013 S. 125)
+
+
+        34. Entschließung A.1050(27) „Überarbeitete Empfehlungen zum Begehen
+            geschlossener Räume an Bord von Schiffen“
+            Angenommen am 30. November 2011
+            (VkBl. 2013 S. 782)
+
+
+        35. Entschließung MSC.346(91) „Anwendung von Regel III/17-1 SOLAS auf
+            Schiffe, auf die sich Kapitel III nicht bezieht“
+            Angenommen am 30. November 2012
+            (VkBl. 2014 S. 625)
+
+
+        36. Richtlinien für die Zulassung von Leichtschaum-Feuerlöschsystemen
+            unter Verwendung von Innenraumluft für den Schutz von Maschinenräumen
+            und Ladepumpenräumen, MSC.1/Rundschreiben 1271
+            Angenommen am 4. Juni 2008
+            (VkBl. 2012 S. 118)
+
+
+        37. Überarbeitete Richtlinien für die Instandhaltung und Inspektion von
+            Brandschutzsystemen und Brandschutzeinrichtungen, MSC.1/Rundschreiben
+            1432
+            Angenommen am 31. Mai 2012
+            (VkBl. 2013 S.1273)
+
+            –   geändert durch MSC.1/Rundschreiben 1516
+                Angenommen am 8. Juni 2015
+                (VkBl. 2016 S. 235)
+
+
+
+
+
+        38. Verfahrensregeln der Internationalen Seeschifffahrts-Organisation
+            (IMO), der Internationalen Arbeitsorganisation (ILO) und der
+            Wirtschaftskommission der Vereinten Nationen für Europa (UNECE) für
+            das Packen von Güterbeförderungseinheiten (CTUs) (CTU-Code)
+            MSC.1/Rundschreiben 1497 vom 16. Dezember 2014
+            (VkBl. 2015 S. 422)
+
+
 
 
 
@@ -4628,6 +4114,16 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     Der IMSBC-Code darf bereits ab dem 15. April 2010 freiwillig
     angewendet werden.
-[^F2_774017_BJNR286010998BJNE001645140]:     Amtlicher Hinweis zu 10.8 – Die dort genannte Richtlinie ist nach
-    ihrem Artikel 3 erst ab dem 5. Oktober 2012 anzuwenden.
-[^F776253_02_BJNR286010998BJNE001645140]: 
+[^F2_774017_BJNR286010998BJNE001658124]:     Amtlicher Hinweis zu 10.10 – Die dort genannte Richtlinie ist nach
+    ihrem Artikel 3 erst ab dem 4. Dezember 2014 anzuwenden.
+[^F784160_02_BJNR286010998BJNE001658124]:     Amtlicher Hinweis zu Nummer 7 – Nach Artikel 2 der Richtlinie
+    2014/111/EU sind die Rechtsvorschriften ab dem 1. Januar 2016
+    anzuwenden.
+[^f791207_02_BJNR286010998BJNE001658124]:     Amtlicher Hinweis: Artikel 40 Absatz 2 der Richtlinie 2014/90/EU
+    lautet wie folgt: „Die Anforderungen und Prüfnormen für
+    Schiffsausrüstung, die aufgrund nationaler Rechtsvorschriften, die die
+    Mitgliedstaaten erlassen haben, um der Richtlinie 96/98/EG
+    nachzukommen, am 18. September 2016 gelten, finden bis zum
+    Inkrafttreten der Durchführungsrechtsakte nach Artikel 35 Absatz 2
+    weiterhin Anwendung.
+[^f791207_04_BJNR286010998BJNE001658124]: 

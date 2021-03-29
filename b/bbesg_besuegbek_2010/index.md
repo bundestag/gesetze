@@ -3,7 +3,7 @@ Title: Bekanntmachung nach § 77 Absatz 4 und § 78 Absatz 2 des Bundesbesoldung
   sowie nach § 6 Absatz 3 des Besoldungsüberleitungsgesetzes
 jurabk: BBesG/BesÜGBek 2010
 layout: default
-origslug: bbesg_bes_gbek_2010
+origslug: bbesg_besuegbek_2010
 slug: bbesg_besuegbek_2010
 
 ---
@@ -3097,8 +3097,8 @@ jedes weitere zu berücksichtigende Kind um 302,75 Euro.
 **Erhöhungsbeträge für die Besoldungsgruppen A 2 bis A 5**
 Der Familienzuschlag der Stufe 2 erhöht sich für das erste zu
 berücksichtigende Kind in den Besoldungsgruppen
-A 2             bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere
-zu berücksichtigende Kind
+A 2bis A 5 um je 5,11 Euro, ab Stufe 3 für jedes weitere zu
+berücksichtigende Kind
 in den Besoldungsgruppen A 2 bis A 3 um je 25,56 Euro,
 in der Besoldungsgruppe A 4 um je 20,45 Euro und
 in der Besoldungsgruppe A 5 um je 15,34 Euro.

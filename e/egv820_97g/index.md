@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 22.6.2004 I 1280;
 
 Zuletzt geändert durch
-:   Art. 28 G v. 9.12.2010 I 1934
+:   Art. 403 V v. 31.8.2015 I 1474
 
 
 ## § 1 Zweck und Anwendungsbereich
@@ -67,16 +67,16 @@ können die übermittelten Daten im Rahmen ihrer Aufgabenerfüllung zu
 den in Absatz 1 genannten Zwecken verwenden.
 
 (3) Auf Anforderung dürfen der nach Landesrecht für die Gewährung der
-Entschädigung für Tierverluste nach dem Tierseuchengesetz zuständigen
-Stelle durch die zuständige Behörde oder die von ihr beauftragte
-Stelle die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten insoweit
-übermittelt werden, als dies zur Erfassung von Rinderbeständen zu
-Zwecken
+Entschädigung für Tierverluste nach dem Tiergesundheitsgesetz
+zuständigen Stelle durch die zuständige Behörde oder die von ihr
+beauftragte Stelle die nach Absatz 1 Satz 1 Nr. 1 erhobenen Daten
+insoweit übermittelt werden, als dies zur Erfassung von
+Rinderbeständen zu Zwecken
 
 1.  der Beitragserhebung,
 
 
-2.  der Gewährung von Entschädigungen nach dem Tierseuchengesetz oder
+2.  der Gewährung von Entschädigungen nach dem Tiergesundheitsgesetz oder
     einem der Verhütung oder Bekämpfung von Tierseuchen dienenden
     unmittelbar geltenden Rechtsakt der Europäischen Gemeinschaft oder der
     Europäischen Union oder
@@ -95,8 +95,8 @@ der Verarbeitung und Nutzung der Daten gilt Satz 1 entsprechend.
 ihr beauftragte Stelle dem Friedrich-Loeffler-Institut die nach Absatz
 1 Satz 1 Nr. 1 erhobenen Daten, soweit dies
 
-1.  zur Mitwirkung nach § 4 Abs. 2 Satz 2 Nr. 2 des Tierseuchengesetzes
-    erforderlich ist oder
+1.  zur Mitwirkung nach § 27 Absatz 3 Satz 1 Nummer 3 des
+    Tiergesundheitsgesetzes erforderlich ist oder
 
 
 2.  zur Durchführung wissenschaftlicher Forschung auf dem Gebiet der
@@ -219,9 +219,8 @@ die §§ 9 und 10 Abs. 4 Satz 3 des Bundesdatenschutzgesetzes Anwendung.
 
 ## § 6 Ermächtigung zum Erlass von Rechtsverordnungen
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates das Verfahren der Datenverarbeitung und
-Datennutzung zu regeln, soweit dies für die Durchführung dieses
-Gesetzes erforderlich ist.
+Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+Verfahren der Datenverarbeitung und Datennutzung zu regeln, soweit
+dies für die Durchführung dieses Gesetzes erforderlich ist.
 

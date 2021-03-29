@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 3970 (4592) (2003 I 1957)
 
 Zuletzt geändert durch
-:   Art. 1b G v. 25.11.2012 II 1381
+:   Art. 1 G v. 30.6.2017 I 2133
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -202,18 +202,18 @@ Zeitraums das Fortbestehen des Bedürfnisses prüfen.
 
 
 (2) Die erforderliche Zuverlässigkeit besitzen in der Regel Personen
-nicht, die
+nicht,
 
 1.
-    a)  wegen einer vorsätzlichen Straftat,
+    a)  die wegen einer vorsätzlichen Straftat,
 
 
-    b)  wegen einer fahrlässigen Straftat im Zusammenhang mit dem Umgang mit
-        Waffen, Munition oder explosionsgefährlichen Stoffen oder wegen einer
-        fahrlässigen gemeingefährlichen Straftat,
+    b)  die wegen einer fahrlässigen Straftat im Zusammenhang mit dem Umgang
+        mit Waffen, Munition oder explosionsgefährlichen Stoffen oder wegen
+        einer fahrlässigen gemeingefährlichen Straftat,
 
 
-    c)  wegen einer Straftat nach dem Waffengesetz, dem Gesetz über die
+    c)  die wegen einer Straftat nach dem Waffengesetz, dem Gesetz über die
         Kontrolle von Kriegswaffen, dem Sprengstoffgesetz oder dem
         Bundesjagdgesetz
 
@@ -228,7 +228,7 @@ nicht, die
     sind,
 
 
-2.  Mitglied
+2.  die Mitglied
 
     a)  in einem Verein, der nach dem Vereinsgesetz als Organisation
         unanfechtbar verboten wurde oder der einem unanfechtbaren
@@ -246,9 +246,10 @@ nicht, die
     nicht verstrichen sind,
 
 
-3.  einzeln oder als Mitglied einer Vereinigung Bestrebungen verfolgen
-    oder unterstützen oder in den letzten fünf Jahren verfolgt oder
-    unterstützt haben, die
+3.  bei denen Tatsachen die Annahme rechtfertigen, dass sie einzeln oder
+    als Mitglied einer Vereinigung Bestrebungen verfolgen oder
+    unterstützen oder in den letzten fünf Jahren verfolgt oder unterstützt
+    haben, die
 
     a)  gegen die verfassungsmäßige Ordnung oder
 
@@ -265,13 +266,13 @@ nicht, die
 
 
 
-4.  innerhalb der letzten fünf Jahre mehr als einmal wegen Gewalttätigkeit
-    mit richterlicher Genehmigung in polizeilichem Präventivgewahrsam
-    waren,
+4.  die innerhalb der letzten fünf Jahre mehr als einmal wegen
+    Gewalttätigkeit mit richterlicher Genehmigung in polizeilichem
+    Präventivgewahrsam waren,
 
 
-5.  wiederholt oder gröblich gegen die Vorschriften eines der in Nummer 1
-    Buchstabe c genannten Gesetze verstoßen haben.
+5.  die wiederholt oder gröblich gegen die Vorschriften eines der in
+    Nummer 1 Buchstabe c genannten Gesetze verstoßen haben.
 
 
 
@@ -423,11 +424,11 @@ Schusswaffen sind Art, Anzahl und Kaliber der Schusswaffen anzugeben.
 Die Erlaubnis zum Erwerb einer Waffe gilt für die Dauer eines Jahres,
 die Erlaubnis zum Besitz wird in der Regel unbefristet erteilt.
 
-(1a) Wer eine Waffe aufgrund einer Erlaubnis nach Absatz 1 Satz 1
+(1a) Wer eine Waffe auf Grund einer Erlaubnis nach Absatz 1 Satz 1
 erwirbt, hat binnen zwei Wochen der zuständigen Behörde unter
 Benennung von Name und Anschrift des Überlassenden den Erwerb
-schriftlich anzuzeigen und seine Waffenbesitzkarte zur Eintragung des
-Erwerbs vorzulegen.
+schriftlich oder elektronisch anzuzeigen und seine Waffenbesitzkarte
+zur Eintragung des Erwerbs vorzulegen.
 
 (2) Eine Waffenbesitzkarte über Schusswaffen, die mehrere Personen
 besitzen, kann auf diese Personen ausgestellt werden. Eine
@@ -476,21 +477,20 @@ Unterabschnitt 3 Nr. 2 und 2.1 genannt (Kleiner Waffenschein).
 Erlaubnisschein erteilt.
 
 
-#### § 11 Erwerb und Besitz von Schusswaffen oder Munition mit Bezug zu einem anderen Mitgliedstaat der Europäischen Union
+#### § 11 Erwerb und Besitz von Schusswaffen oder Munition mit Bezug zu einem anderen Mitgliedstaat
 
 (1) Eine Erlaubnis zum Erwerb und Besitz einer Schusswaffe nach Anlage
 1 Abschnitt 3 Nr. 1 bis 3 (Kategorien A bis C) oder von Munition für
 eine solche darf einer Person, die ihren gewöhnlichen Aufenthalt in
-einem anderen Mitgliedstaat der Europäischen Union (Mitgliedstaat)
-hat, nur erteilt werden, wenn sie
+einem anderen Mitgliedstaat hat, nur erteilt werden, wenn sie
 
 1.  die Schusswaffen oder die Munition in den Mitgliedstaat im Wege der
     Selbstvornahme verbringen wird oder
 
 
-2.  eine schriftliche Erklärung vorlegt, dass und aus welchen Gründen sie
-    die Schusswaffen oder die Munition nur im Geltungsbereich dieses
-    Gesetzes zu besitzen beabsichtigt.
+2.  eine schriftliche oder elektronische Erklärung vorlegt, dass und aus
+    welchen Gründen sie die Schusswaffen oder die Munition nur im
+    Geltungsbereich dieses Gesetzes zu besitzen beabsichtigt.
 
 
 
@@ -619,7 +619,13 @@ wer diese
 
 5.  eine Schreckschuss- oder eine Signalwaffe zur Abgabe von Start- oder
     Beendigungszeichen bei Sportveranstaltungen führt, wenn optische oder
-    akustische Signalgebung erforderlich ist.
+    akustische Signalgebung erforderlich ist;
+
+
+6.  in Fällen der vorübergehenden Aufbewahrung von Waffen außerhalb der
+    Wohnung diesen ein wesentliches Teil entnimmt und mit sich führt;
+    mehrere mitgeführte wesentliche Teile dürfen nicht zu einer
+    schussfähigen Waffe zusammengefügt werden können.
 
 
 
@@ -710,10 +716,19 @@ Voraussetzungen des Absatzes 1 Nr. 2 vorliegen.
 
 (3) Inhaber eines gültigen Jahresjagdscheines im Sinne des § 15 Abs. 2
 in Verbindung mit Abs. 1 Satz 1 des Bundesjagdgesetzes bedürfen zum
-Erwerb von Langwaffen nach Absatz 1 Nr. 2 keiner Erlaubnis. Die
-Ausstellung der Waffenbesitzkarte oder die Eintragung in eine bereits
-erteilte Waffenbesitzkarte ist binnen zwei Wochen durch den Erwerber
-zu beantragen.
+Erwerb von Langwaffen nach Absatz 1 Nr. 2 keiner Erlaubnis. Der
+Jagdscheininhaber nach Satz 1 hat binnen zwei Wochen
+
+1.  der zuständigen Behörde unter Benennung von Name und Anschrift des
+    Überlassenden den Erwerb schriftlich anzuzeigen und
+
+
+2.  bei der zuständigen Behörde die Ausstellung einer Waffenbesitzkarte
+    oder die Eintragung des Erwerbs in eine bereits erteilte
+    Waffenbesitzkarte zu beantragen.
+
+
+
 
 (4) Für den Erwerb und vorübergehenden Besitz gemäß § 12 Abs. 1 Nr. 1
 von Langwaffen nach Absatz 1 Nr. 2 steht ein Jagdschein im Sinne von §
@@ -748,7 +763,7 @@ schussbereit ohne Erlaubnis führen.
 Jagdwaffen in der Ausbildung ohne Erlaubnis unter Aufsicht eines
 Ausbilders erwerben, besitzen und führen, wenn sie das 14. Lebensjahr
 vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr
-Einverständnis in einer von beiden unterzeichneten
+Einverständnis in einer schriftlichen oder elektronischen
 Berechtigungsbescheinigung erklärt haben. Die Person hat in der
 Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
 
@@ -928,22 +943,23 @@ kampfmäßigen Schießens, insbesondere die Verwendung von Zielen oder
 Scheiben, die Menschen darstellen oder symbolisieren, sind im
 Schießsport nicht zulässig.
 
-(2) Das Bundesverwaltungsamt entscheidet über die Genehmigung der
-Teile der Sportordnungen von Verbänden und Vereinen, die für die
-Ausführung dieses Gesetzes und der auf seiner Grundlage erlassenen
-Rechtsverordnungen erheblich sind. Die Genehmigung einer Sportordnung
-muss im besonderen öffentlichen Interesse liegen. Änderungen von
-Sportordnungen sind dem Bundesverwaltungsamt zur Prüfung vorzulegen.
-Sofern das Bundesverwaltungsamt nicht binnen drei Monaten Änderungen
-verlangt oder dem Betroffenen mitteilt, dass die Prüfung aus anderen
-wichtigen Gründen nicht abgeschlossen werden kann, gilt die Änderung
-als genehmigt. Die Frist nach Satz 3 beginnt mit Zugang aller
-erforderlichen Prüfunterlagen beim Bundesverwaltungsamt.
+(2) Das Bundesverwaltungsamt entscheidet über die erstmalige
+Genehmigung und die Änderung der Teile der Sportordnungen von
+Verbänden und Vereinen, die für die Ausführung dieses Gesetzes und der
+auf seiner Grundlage erlassenen Rechtsverordnungen erheblich sind. Die
+erstmalige Genehmigung oder die Genehmigung von Änderungen erfolgt,
+wenn die zu prüfenden Teile der Sportordnungen den Anforderungen
+dieses Gesetzes und der auf Grundlage von Absatz 4 erlassenen
+Rechtsverordnung genügen. Eine Änderung gilt als genehmigt, wenn das
+Bundesverwaltungsamt nicht binnen drei Monaten nach Zugang aller
+erforderlichen Prüfunterlagen Änderungen verlangt oder dem Betroffenen
+mitteilt, dass die Prüfung aus anderen wichtigen Gründen nicht
+abgeschlossen werden kann.
 
-(3) Die Genehmigung einer Sportordnung ohne gleichzeitige Anerkennung
-als Verband nach § 15 Abs. 1 kann erfolgen, wenn die Vorgaben des
-Buchstabens a des § 15 Abs. 1 Nr. 4 und der Buchstaben a bis c des §
-15 Abs. 1 Nr. 7 erfüllt sind.
+(3) Die Genehmigung von Sportordnungen ohne gleichzeitige Anerkennung
+als Verband nach § 15 Absatz 1 erfolgt, wenn die Vorgaben des § 15
+Absatz 1 Nummer 4 Buchstabe a und Nummer 7 sowie die Vorgaben des
+Absatzes 2 Satz 2 erfüllt sind.
 
 (4) Das Bundesministerium des Innern wird ermächtigt, durch
 Rechtsverordnung mit Zustimmung des Bundesrates zur Abwehr von
@@ -1088,7 +1104,7 @@ außerhalb der eigenen Wohnung, Geschäftsräume oder des eigenen
 befriedeten Besitztums vorliegen.
 
 
-#### § 20 Erwerb und Besitz von Schusswaffen durch Erwerber infolge Erbfalls
+#### § 20 Erwerb und Besitz von Schusswaffen durch Erwerber infolge eines Erbfalls
 
 (1) Der Erbe hat binnen eines Monats nach der Annahme der Erbschaft
 oder dem Ablauf der für die Ausschlagung der Erbschaft
@@ -1112,7 +1128,7 @@ ein dem Stand der Technik entsprechendes Blockiersystem zu sichern und
 ist erlaubnispflichtige Munition binnen angemessener Frist unbrauchbar
 zu machen oder einem Berechtigten zu überlassen. Einer Sicherung durch
 ein Blockiersystem bedarf es nicht, wenn der Erwerber der Erbwaffe
-bereits aufgrund eines Bedürfnisses nach § 8 oder §§ 13 ff.
+bereits auf Grund eines Bedürfnisses nach § 8 oder §§ 13 ff.
 berechtigter Besitzer einer erlaubnispflichtigen Schusswaffe ist. Für
 den Transport der Schusswaffe im Zusammenhang mit dem Einbau des
 Blockiersystems gilt § 12 Abs. 3 Nr. 2 entsprechend.
@@ -1128,13 +1144,13 @@ Prüfung der Konformität und die Zulassung neu entwickelter
 Blockiersysteme gemäß der Technischen Richtlinie erfolgt durch die
 Physikalisch-Technische Bundesanstalt.
 
-(5) Der Einbau und die Entsperrung von Blockiersystemen darf nur durch
-hierin eingewiesene Inhaber einer Waffenherstellungserlaubnis oder
-einer Waffenhandelserlaubnis nach § 21 Abs. 1 oder durch deren hierzu
-bevollmächtigten Mitarbeiter erfolgen. Die vorübergehende Entsperrung
-aus besonderem Anlass ist möglich. Die Zeitpunkte aller Einbauten und
-Entsperrungen sind schriftlich festzuhalten. § 39 Abs. 1 Satz 1 gilt
-entsprechend.
+(5) Der Einbau und die Entsperrung von Blockiersystemen dürfen nur
+durch hierin eingewiesene Inhaber einer Waffenherstellungserlaubnis
+oder einer Waffenhandelserlaubnis nach § 21 Abs. 1 oder durch deren
+hierzu bevollmächtigten Mitarbeiter erfolgen. Die vorübergehende
+Entsperrung aus besonderem Anlass ist möglich. Die Zeitpunkte aller
+Einbauten und Entsperrungen sind schriftlich oder elektronisch
+festzuhalten. § 39 Abs. 1 Satz 1 gilt entsprechend.
 
 (6) In der Waffenbesitzkarte ist von der Waffenbehörde einzutragen,
 dass die Schusswaffe mit einem Blockiersystem gesichert wurde.
@@ -1277,25 +1293,33 @@ Satz 1 ist nicht anzuwenden auf
 
 
 2.  Schusswaffen, über die in demselben Betrieb ein Waffenherstellungsbuch
-    nach Absatz 1 zu führen ist,
-
-
-3.  Verwahr-, Reparatur- und Kommissionswaffen.
+    nach Absatz 1 zu führen ist.
 
 
 
+Für Verwahr-, Reparatur- und Kommissionswaffen kann ein gesondertes
+Buch geführt werden.
 
 
 #### § 24 Kennzeichnungspflicht, Markenanzeigepflicht
 
-(1) Wer gewerbsmäßig Schusswaffen herstellt oder in den
-Geltungsbereich dieses Gesetzes verbringt, hat unverzüglich mindestens
-auf einem wesentlichen Teil der Waffe deutlich sichtbar und dauerhaft
-folgende Angaben anzubringen:
+(1) Wer Schusswaffen herstellt oder in den Geltungsbereich dieses
+Gesetzes verbringt, hat unverzüglich mindestens auf einem wesentlichen
+Teil der Waffe deutlich sichtbar und dauerhaft folgende Angaben
+anzubringen:
 
-1.  den Namen, die Firma oder eine eingetragene Marke eines
-    Waffenherstellers oder -händlers, der im Geltungsbereich dieses
-    Gesetzes eine gewerbliche Niederlassung hat,
+1.  Im Fall
+
+    a)  der gewerbsmäßigen Herstellung den Namen, die Firma oder eine
+        eingetragene Marke des Waffenherstellers oder -händlers, der im
+        Geltungsbereich dieses Gesetzes eine gewerbliche Niederlassung hat,
+
+
+    b)  der nichtgewerbsmäßigen Herstellung nach § 26 den Namen des nicht
+        gewerblichen Waffenherstellers,
+
+
+
 
 
 2.  das Herstellungsland (zweistelliges Landeskürzel nach ISO 3166),
@@ -1357,8 +1381,9 @@ Schussapparate herstellt, Munition wiederlädt oder im Geltungsbereich
 dieses Gesetzes mit diesen Gegenständen Handel treibt und eine Marke
 für diese Gegenstände benutzen will, hat dies der Physikalisch-
 Technischen Bundesanstalt unter Vorlage der Marke vorher schriftlich
-anzuzeigen. Verbringer, die die Marke eines Herstellers aus einem
-anderen Staat benutzen wollen, haben diese Marke anzuzeigen.
+oder elektronisch anzuzeigen. Verbringer, die die Marke eines
+Herstellers aus einem anderen Staat benutzen wollen, haben diese Marke
+anzuzeigen.
 
 (6) Absatz 3 Satz 3 und Absatz 4 gelten nicht, sofern es sich um
 Munition handelt, die Teil einer Sammlung (§ 17 Abs. 1) oder für eine
@@ -1453,7 +1478,7 @@ Nr. 2 dieser Verordnung. Bei ortsveränderlichen Schießstätten ist eine
 einmalige Erlaubnis vor der erstmaligen Aufstellung ausreichend. Der
 Inhaber einer Erlaubnis nach Satz 5 hat Aufnahme und Beendigung des
 Betriebs der Schießstätte der örtlich zuständigen Behörde zwei Wochen
-vorher schriftlich anzuzeigen.
+vorher schriftlich oder elektronisch anzuzeigen.
 
 (2) Absatz 1 Satz 1 ist nicht anzuwenden auf Schießstätten, bei denen
 in geschlossenen Räumen ausschließlich zur Erprobung von Schusswaffen
@@ -1461,7 +1486,7 @@ oder Munition durch Waffen- oder Munitionshersteller, durch Waffen-
 oder Munitionssachverständige oder durch wissenschaftliche
 Einrichtungen geschossen wird. Der Betreiber hat die Aufnahme und
 Beendigung des Betriebs der Schießstätte der zuständigen Behörde zwei
-Wochen vorher schriftlich anzuzeigen.
+Wochen vorher schriftlich oder elektronisch anzuzeigen.
 
 (3) Unter Obhut des zur Aufsichtsführung berechtigten
 Sorgeberechtigten oder verantwortlicher und zur Kinder- und
@@ -1483,18 +1508,19 @@ Jugendarbeit für das Schießen geeigneter Aufsichtspersonen darf
 
 
 
-gestattet werden, wenn der Sorgeberechtigte schriftlich sein
-Einverständnis erklärt hat oder beim Schießen anwesend ist. Die
-verantwortlichen Aufsichtspersonen haben die schriftlichen
-Einverständniserklärungen der Sorgeberechtigten vor der Aufnahme des
-Schießens entgegenzunehmen und während des Schießens aufzubewahren.
-Sie sind der zuständigen Behörde oder deren Beauftragten auf Verlangen
-zur Prüfung auszuhändigen. Die verantwortliche Aufsichtsperson hat die
-Geeignetheit zur Kinder- und Jugendarbeit glaubhaft zu machen. Der in
-Satz 1 genannten besonderen Obhut bedarf es nicht beim Schießen durch
-Jugendliche mit Waffen nach Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr.
-1\.1 und 1.2 und nicht beim Schießen mit sonstigen Schusswaffen durch
-Jugendliche, die das 16. Lebensjahr vollendet haben.
+gestattet werden, wenn der Sorgeberechtigte schriftlich oder
+elektronisch sein Einverständnis erklärt hat oder beim Schießen
+anwesend ist. Die verantwortlichen Aufsichtspersonen haben die
+schriftlichen Einverständniserklärungen der Sorgeberechtigten vor der
+Aufnahme des Schießens entgegenzunehmen und während des Schießens
+aufzubewahren. Sie sind der zuständigen Behörde oder deren
+Beauftragten auf Verlangen zur Prüfung auszuhändigen. Die
+verantwortliche Aufsichtsperson hat die Geeignetheit zur Kinder- und
+Jugendarbeit glaubhaft zu machen. Der in Satz 1 genannten besonderen
+Obhut bedarf es nicht beim Schießen durch Jugendliche mit Waffen nach
+Anlage 2 Abschnitt 2 Unterabschnitt 2 Nr. 1.1 und 1.2 und nicht beim
+Schießen mit sonstigen Schusswaffen durch Jugendliche, die das 16.
+Lebensjahr vollendet haben.
 
 (4) Die zuständige Behörde kann einem Kind zur Förderung des
 Leistungssports eine Ausnahme von dem Mindestalter des Absatzes 3 Satz
@@ -1506,7 +1532,7 @@ gemacht sind.
 (5) Personen in der Ausbildung zum Jäger dürfen in der Ausbildung ohne
 Erlaubnis mit Jagdwaffen schießen, wenn sie das 14. Lebensjahr
 vollendet haben und der Sorgeberechtigte und der Ausbildungsleiter ihr
-Einverständnis in einer von beiden unterzeichneten
+Einverständnis in einer schriftlichen oder elektronischen
 Berechtigungsbescheinigung erklärt haben. Die Person hat in der
 Ausbildung die Berechtigungsbescheinigung mit sich zu führen.
 
@@ -1605,6 +1631,85 @@ ihnen überlassenen Waffen nach Weisung des Erlaubnisinhabers führen
 dürfen.
 
 
+#### § 28a Erwerb, Besitz und Führen von Schusswaffen und Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung
+
+(1) Für den Erwerb, Besitz und das Führen von Schusswaffen und
+Munition durch Bewachungsunternehmen und ihr Bewachungspersonal für
+Bewachungsaufgaben nach § 31 Absatz 1 der Gewerbeordnung auf
+Seeschiffen, die die Bundesflagge führen, ist § 28 entsprechend
+anzuwenden. Abweichend von § 28 Absatz 1 wird ein Bedürfnis für
+derartige Bewachungsaufgaben bei Bewachungsunternehmen anerkannt, die
+eine Zulassung nach § 31 Absatz 1 der Gewerbeordnung besitzen.
+Abweichend von § 28 Absatz 3 wird die Erlaubnis mit Auflagen erteilt,
+die die Unternehmer verpflichten,
+
+1.  als Bewachungspersonal nur Personen zu beschäftigen, welche die
+    Voraussetzungen nach § 4 Absatz 1 Nummer 1 bis 3 erfüllen,
+
+
+2.  der zuständigen Behörde die eingesetzten Personen in einem von der
+    Behörde bestimmten Zeitraum zu benennen und
+
+
+3.  auf Verlangen der zuständigen Behörde Nachweise vorzulegen, die
+    belegen, dass die eingesetzten Personen die Anforderungen nach § 4
+    Absatz 1 Nummer 1 bis 3 erfüllen.
+
+
+
+
+(2) Die Erlaubnis ist auf die Dauer der Zulassung nach § 31 der
+Gewerbeordnung zu befristen. Sie kann verlängert werden. Die
+Verlängerung der Erlaubnis ist insbesondere zu versagen, wenn die
+Auflagen nach Absatz 1 Satz 3 nicht eingehalten wurden. Im Übrigen
+gelten die allgemeinen Bestimmungen dieses Gesetzes. Die Erlaubnis
+schließt die Erlaubnis zum Verbringen an Bord nach § 29 Absatz 1 ein.
+
+(3) Die zuständige Behörde kann zur Prüfung der Zuverlässigkeit,
+Eignung und Sachkunde der im Bewachungsunternehmen verantwortlichen
+Geschäftsleitung sowie der mit der Leitung des Betriebes oder einer
+Zweigniederlassung beauftragten Personen und der im Zusammenhang mit
+der Bewachungsaufgabe tätigen Personen auf die Erkenntnisse und
+Bewertungen der für die Zulassung nach § 31 Absatz 2 Satz 1 der
+Gewerbeordnung zuständigen Behörde zurückgreifen. Abweichend von § 7
+Absatz 2 orientieren sich die Anforderungen an die Sachkunde an den
+auf der Grundlage von § 31 Absatz 4 Satz 1 Nummer 3 Buchstabe a der
+Gewerbeordnung in einer Rechtsverordnung festgelegten besonderen
+Anforderungen für den Einsatz auf Seeschiffen. Die für das
+gewerberechtliche Verfahren zuständige Behörde sowie die Bundespolizei
+dürfen der zuständigen Behörde auch ohne Ersuchen Informationen
+einschließlich personenbezogener Daten übermitteln, soweit dies zur
+Erfüllung der waffenbehördlichen Aufgaben erforderlich ist. Die
+Bundespolizei ist im Rahmen der Prüfung nach § 8 Nummer 2 zu
+beteiligen.
+
+(4) Absatz 3 Satz 3 ist entsprechend anzuwenden auf die Übermittlung
+von Informationen einschließlich personenbezogener Daten durch die
+zuständige Behörde, soweit dies zur Erfüllung der Aufgaben nach § 31
+Absatz 2 der Gewerbeordnung erforderlich ist.
+
+(5) Hat das Bewachungsunternehmen seinen Sitz im Inland, so erfolgt
+die Erteilung der Erlaubnis durch die nach § 48 Absatz 1 Satz 2
+bestimmte Behörde im Benehmen mit der für die gewerbliche
+Hauptniederlassung zuständigen Behörde.
+
+(6) Eine auf der Grundlage des § 28 erteilte Erlaubnis gilt befristet
+bis zum 31. Dezember 2013 für Aufträge nach § 31 der Gewerbeordnung
+mit der Maßgabe fort, dass der Inhaber der Erlaubnis der zuständigen
+Behörde unverzüglich anzuzeigen hat, dass er Aufträge im Sinne des §
+31 der Gewerbeordnung wahrnimmt oder wahrnehmen möchte. Die nach § 48
+Absatz 1 Satz 1 zuständige Behörde übermittelt der nach § 48 Absatz 1
+Satz 2 zuständigen Behörde die Anzeige einschließlich der für die
+Entscheidung erforderlichen Unterlagen. Weist der in Satz 1 genannte
+Inhaber der Erlaubnis der nach § 48 Absatz 1 Satz 2 zuständigen
+Behörde bis zum 31. Dezember 2013 die Zulassung nach § 31 Absatz 1 der
+Gewerbeordnung und das Vorliegen der Voraussetzungen nach Absatz 1
+nach, erteilt diese eine auf die Durchführung von Bewachungsaufgaben
+nach § 31 Absatz 1 der Gewerbeordnung beschränkte Erlaubnis. Absatz 1
+Satz 3, Absatz 2 Satz 1, 4 und 5 sowie Absatz 5 gelten für diese
+Erlaubnis entsprechend.
+
+
 ### Unterabschnitt 5 - Verbringen und Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes
 
 
@@ -1627,11 +1732,10 @@ Geltungsbereich des Gesetzes kann erteilt werden, wenn
 
 
 (2) Sollen Schusswaffen oder Munition nach Anlage 1 Abschnitt 3
-(Kategorien A 1.2 bis D) aus einem anderen Mitgliedstaat der
-Europäischen Union (Mitgliedstaat) in den Geltungsbereich des Gesetzes
-verbracht werden, wird die Erlaubnis nach Absatz 1 als Zustimmung zu
-der Erlaubnis des anderen Mitgliedstaates für das betreffende
-Verbringen erteilt.
+(Kategorien A 1.2 bis D) aus einem anderen Mitgliedstaat in den
+Geltungsbereich des Gesetzes verbracht werden, wird die Erlaubnis nach
+Absatz 1 als Zustimmung zu der Erlaubnis des anderen Mitgliedstaates
+für das betreffende Verbringen erteilt.
 
 
 #### § 30 Verbringen von Waffen oder Munition durch den Geltungsbereich des Gesetzes
@@ -1643,15 +1747,14 @@ dieser Waffen oder Munition Berechtigten gewährleistet ist. § 29 Abs.
 2 gilt entsprechend.
 
 (2) Sollen Schusswaffen oder Munition nach Anlage 1 Abschnitt 3
-(Kategorien A 1.2 bis D) aus einem Staat, der nicht Mitgliedstaat der
-Europäischen Union ist (Drittstaat), durch den Geltungsbereich des
-Gesetzes in einen Mitgliedstaat verbracht werden, so bedarf die
-Erlaubnis zu dem Verbringen nach Absatz 1 auch, soweit die Zustimmung
-des anderen Mitgliedstaates erforderlich ist, dessen vorheriger
-Zustimmung.
+(Kategorien A 1.2 bis D) aus einem Staat, der nicht Mitgliedstaat ist
+(Drittstaat), durch den Geltungsbereich des Gesetzes in einen
+Mitgliedstaat verbracht werden, so bedarf die Erlaubnis zu dem
+Verbringen nach Absatz 1 auch, soweit die Zustimmung des anderen
+Mitgliedstaates erforderlich ist, dessen vorheriger Zustimmung.
 
 
-#### § 31 Verbringen von Waffen oder Munition aus dem Geltungsbereich des Gesetzes in andere Mitgliedstaaten der Europäischen Union
+#### § 31 Verbringen von Waffen oder Munition aus dem Geltungsbereich des Gesetzes in andere Mitgliedstaaten
 
 (1) Die Erlaubnis zum Verbringen von Schusswaffen oder Munition nach
 Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) aus dem Geltungsbereich
@@ -1667,7 +1770,7 @@ Geltungsbereich des Gesetzes zu Waffenhändlern in anderen
 Mitgliedstaaten für die Dauer von bis zu drei Jahren erteilt werden.
 Die Erlaubnis kann auf bestimmte Arten von Schusswaffen oder Munition
 beschränkt werden. Der Inhaber einer Erlaubnis nach Satz 1 hat ein
-Verbringen dem Bundeskriminalamt vorher schriftlich anzuzeigen.
+Verbringen dem Bundesverwaltungsamt vorher schriftlich anzuzeigen.
 
 
 #### § 32 Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich des Gesetzes, Europäischer Feuerwaffenpass
@@ -1684,6 +1787,26 @@ der Mitnahme von Schusswaffen oder Munition nach Anlage 1 Abschnitt 3
 (Kategorien A 1.2 bis D) durch den Geltungsbereich des Gesetzes in
 einen anderen Mitgliedstaat § 30 Abs. 2 entsprechend.
 
+(1a) Die Erlaubnis zur Mitnahme von Schusswaffen oder Munition nach
+Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) und sonstiger Waffen
+oder Munition, deren Erwerb und Besitz der Erlaubnis bedürfen, in
+einen anderen Mitgliedstaat kann erteilt werden, wenn der
+Antragsteller
+
+1.  zum Erwerb und Besitz der Waffen nach Maßgabe dieses Gesetzes
+    berechtigt ist,
+
+
+2.  die nach dem Recht des anderen Mitgliedstaates erforderliche vorherige
+    Zustimmung vorliegt und
+
+
+3.  der sichere Transport durch den Antragsteller gewährleistet ist.
+
+
+
+Absatz 1 Satz 2 gilt entsprechend.
+
 (2) Eine Erlaubnis nach Absatz 1 darf Personen, die ihren gewöhnlichen
 Aufenthalt in einem anderen Mitgliedstaat haben und Schusswaffen nach
 Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) und die dafür bestimmte
@@ -1692,26 +1815,28 @@ Inhaber eines durch diesen Mitgliedstaat ausgestellten Europäischen
 Feuerwaffenpasses sind und die Waffen in den Europäischen
 Feuerwaffenpass eingetragen sind.
 
-(3) Einer Erlaubnis nach Absatz 1 bedarf es unter den Voraussetzungen
-des Absatzes 2 nicht für
+(3) Sofern sie den Grund der Mitnahme nachweisen können, Inhaber eines
+Europäischen Feuerwaffenpasses sind und die Waffen in den Europäischen
+Feuerwaffenpass eingetragen sind, bedarf es einer Erlaubnis nach
+Absatz 1 oder Absatz 1a nicht für
 
 1.  Jäger, die bis zu drei Langwaffen nach Anlage 1 Abschnitt 3 der
     Kategorien C und D und die dafür bestimmte Munition im Sinne des § 13
-    Abs. 1 Nr. 2, Abs. 5 zum Zweck der Jagd,
+    Absatz 1 Nummer 2, Absatz 5 zum Zweck der Jagd mitnehmen,
 
 
 2.  Sportschützen, die bis zu sechs Schusswaffen nach Anlage 1 Abschnitt 3
     der Kategorien B, C oder D und die dafür bestimmte Munition zum Zweck
-    des Schießsports,
+    des Schießsports mitnehmen,
 
 
 3.  Brauchtumsschützen, die bis zu drei Einzellader- oder Repetier-
-    Langwaffen nach Anlage 1 Abschnitt 3 Kategorien C und D und die dafür
-    bestimmte Munition zur Teilnahme an einer Brauchtumsveranstaltung
+    Langwaffen nach Anlage 1 Abschnitt 3 der Kategorien C und D und die
+    dafür bestimmte Munition zur Teilnahme an einer
+    Brauchtumsveranstaltung mitnehmen.
 
 
 
-mitnehmen, sofern sie den Grund der Mitnahme nachweisen können.
 
 (4) Zu den in Absatz 3 Nr. 1 bis 3 beschriebenen Zwecken kann für die
 dort jeweils genannten Waffen und Munition Personen, die ihren
@@ -1741,16 +1866,18 @@ durch den Geltungsbereich des Gesetzes bedarf es nicht
 
 
 
+Ein Jagdschein im Sinne von § 15 Absatz 1 Satz 1 des
+Bundesjagdgesetzes stellt keine Erlaubnis im Sinne des Satzes 1 Nummer
+1 dar.
 
-(6) Personen, die ihren gewöhnlichen Aufenthalt im Geltungsbereich des
-Gesetzes haben und Schusswaffen oder Munition nach Anlage 1 Abschnitt
-3 (Kategorien A 1.2 bis D) in einen anderen Mitgliedstaat mitnehmen
-wollen, wird ein Europäischer Feuerwaffenpass ausgestellt, wenn sie
-zum Besitz der Waffen, die in den Europäischen Feuerwaffenpass
-eingetragen werden sollen, berechtigt sind.
+(6) Personen, die nach diesem Gesetz zum Besitz von Schusswaffen oder
+Munition nach Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) berechtigt
+sind und diese Schusswaffen oder diese Munition in einen anderen
+Mitgliedstaat mitnehmen wollen, wird auf Antrag ein Europäischer
+Feuerwaffenpass ausgestellt.
 
 
-#### § 33 Anmelde- und Nachweispflicht bei Verbringen oder Mitnahme von Waffen oder Munition in den oder durch den Geltungsbereich des Gesetzes
+#### § 33 Anmelde- und Nachweispflichten, Befugnisse der Überwachungsbehörden beim Verbringen oder der Mitnahme von Waffen oder Munition in den, durch den oder aus dem Geltungsbereich dieses Gesetzes
 
 (1) Waffen oder Munition im Sinne des § 29 Abs. 1 hat derjenige, der
 sie aus einem Drittstaat in den oder durch den Geltungsbereich dieses
@@ -1763,8 +1890,17 @@ Nachweise den Überwachungsbehörden zur Prüfung auszuhändigen.
 (2) Die nach Absatz 3 zuständigen Überwachungsbehörden können
 Beförderungsmittel und -behälter sowie deren Lade- und
 Verpackungsmittel anhalten, um zu prüfen, ob die für das Verbringen
-oder die Mitnahme in den Geltungsbereich dieses Gesetzes geltenden
-Bestimmungen eingehalten sind.
+oder die Mitnahme in den, durch den oder aus dem Geltungsbereich
+dieses Gesetzes geltenden Bestimmungen eingehalten sind. Werden
+Verstöße gegen die in Satz 1 genannten Bestimmungen festgestellt, so
+können die zuständigen Überwachungsbehörden, soweit erforderlich,
+Vor-, Familien- und gegebenenfalls Geburtsname, Geburtsdatum und -ort,
+Wohnort und Staatsangehörigkeit der betroffenen Personen erheben und
+diese Daten sowie Feststellungen zum Sachverhalt den zuständigen
+Behörden zum Zweck der Ahndung übermitteln. Für Postsendungen gilt
+dies nur, wenn zureichende tatsächliche Anhaltspunkte für eine
+Straftat vorliegen. Das Brief- und Postgeheimnis nach Artikel 10 des
+Grundgesetzes wird nach Maßgabe der Sätze 2 und 3 eingeschränkt.
 
 (3) Das Bundesministerium der Finanzen bestimmt die Zolldienststellen,
 das Bundesministerium des Innern bestimmt die Behörden der
@@ -1800,18 +1936,21 @@ Schusswaffe überlässt, hat in die Waffenbesitzkarte unverzüglich
 Herstellerzeichen oder Marke und - wenn gegeben - die
 Herstellungsnummer der Waffe, ferner den Tag des Überlassens und die
 Bezeichnung und den Sitz des Betriebs dauerhaft einzutragen und das
-Überlassen binnen zwei Wochen der zuständigen Behörde schriftlich
-anzuzeigen. Überlässt sonst jemand einem anderen eine Schusswaffe, zu
-deren Erwerb es einer Erlaubnis bedarf, so hat er dies binnen zwei
-Wochen der zuständigen Behörde schriftlich anzuzeigen und ihr, sofern
-ihm eine Waffenbesitzkarte oder ein Europäischer Feuerwaffenpass
-erteilt worden ist, diese zur Berichtigung vorzulegen; dies gilt nicht
-in den Fällen des § 12 Abs. 1. In der Anzeige nach den Sätzen 1 und 2
-sind anzugeben Name, Vorname, Geburtsdatum, Geburtsort und
-Wohnanschrift des Erwerbers sowie Art und Gültigkeitsdauer der
-Erwerbs- und Besitzberechtigung. Bei Nachweis der Erwerbs- und
-Besitzerlaubnis durch eine Waffenbesitzkarte sind darüber hinaus deren
-Nummer und ausstellende Behörde anzugeben. Bei Überlassung an einen
+Überlassen binnen zwei Wochen der zuständigen Behörde schriftlich oder
+elektronisch anzuzeigen. Überlässt sonst jemand einem anderen eine
+Schusswaffe, zu deren Erwerb es einer Erlaubnis bedarf, so hat er dies
+binnen zwei Wochen der zuständigen Behörde schriftlich oder
+elektronisch anzuzeigen und ihr, sofern ihm eine Waffenbesitzkarte
+oder ein Europäischer Feuerwaffenpass erteilt worden ist, diese zur
+Berichtigung vorzulegen; dies gilt nicht in den Fällen des § 12 Absatz
+1 oder beim Überlassen an einen Erlaubnisinhaber nach § 21 Absatz 1
+Satz 1 zum Zweck der Verwahrung, der Reparatur oder des
+Kommissionsverkaufs. In der Anzeige nach den Sätzen 1 und 2 sind
+anzugeben Name, Vorname, Geburtsdatum, Geburtsort und Wohnanschrift
+des Erwerbers sowie Art und Gültigkeitsdauer der Erwerbs- und
+Besitzberechtigung. Bei Nachweis der Erwerbs- und Besitzerlaubnis
+durch eine Waffenbesitzkarte sind darüber hinaus deren Nummer und
+ausstellende Behörde anzugeben. Bei Überlassung an einen
 Erlaubnisinhaber nach § 21 Abs. 1 Satz 1 sind in der Anzeige lediglich
 der Name der Firma und die Anschrift der Niederlassung anzugeben.
 
@@ -1821,11 +1960,10 @@ des Gesetzes erwirbt, insbesondere im Versandwege unter eigenem Namen
 überlässt. Die Vorschriften des § 31 bleiben unberührt.
 
 (4) Wer Personen, die ihren gewöhnlichen Aufenthalt in einem anderen
-Mitgliedstaat der Europäischen Union haben, eine Schusswaffe nach
-Anlage 1 Abschnitt 3 (Kategorien B und C) oder Munition für eine
-solche überlässt, hat dies unverzüglich dem Bundeskriminalamt
-schriftlich anzuzeigen; dies gilt nicht in den Fällen des § 12 Abs. 1
-Nr. 1 und 5.
+Mitgliedstaat haben, eine Schusswaffe nach Anlage 1 Abschnitt 3
+(Kategorien B und C) oder Munition für eine solche überlässt, hat dies
+unverzüglich dem Bundesverwaltungsamt schriftlich anzuzeigen; dies
+gilt nicht in den Fällen des § 12 Abs. 1 Nr. 1 und 5.
 
 (5) Wer erlaubnispflichtige Feuerwaffen nach Anlage 1 Abschnitt 1
 Unterabschnitt 1 Nr. 2, ausgenommen Einzellader-Langwaffen mit nur
@@ -1836,7 +1974,7 @@ Aufenthalt in einem Mitgliedstaat des Übereinkommens vom 28. Juni 1978
 über die Kontrolle des Erwerbs und Besitzes von Schusswaffen durch
 Einzelpersonen (BGBl. 1980 II S. 953) hat, überlässt, dorthin
 versendet oder ohne Wechsel des Besitzers endgültig dorthin verbringt,
-hat dies unverzüglich dem Bundeskriminalamt schriftlich anzuzeigen.
+hat dies unverzüglich dem Bundesverwaltungsamt schriftlich anzuzeigen.
 Dies gilt nicht
 
 1.  für das Überlassen und Versenden der in Satz 1 bezeichneten
@@ -1932,54 +2070,67 @@ Bezirk zulassen, wenn öffentliche Interessen nicht entgegenstehen.
 
 (1) Wer Waffen oder Munition besitzt, hat die erforderlichen
 Vorkehrungen zu treffen, um zu verhindern, dass diese Gegenstände
-abhanden kommen oder Dritte sie unbefugt an sich nehmen. Schusswaffen
-dürfen nur getrennt von Munition aufbewahrt werden, sofern nicht die
-Aufbewahrung in einem Sicherheitsbehältnis erfolgt, das mindestens der
-Norm DIN/EN 1143-1 Widerstandsgrad 0 (Stand Mai 1997) 1) oder einer
-Norm mit gleichem Schutzniveau eines anderen Mitgliedstaates des
-Übereinkommens über den Europäischen Wirtschaftsraum (EWR-
-Mitgliedstaat) entspricht.
+abhanden kommen oder Dritte sie unbefugt an sich nehmen.
 
-(2) Schusswaffen, deren Erwerb nicht von der Erlaubnispflicht
-freigestellt ist, und verbotene Waffen sind mindestens in einem der
-Norm DIN/EN 1143-1 Widerstandsgrad 0 (Stand Mai 1997) entsprechenden
-oder gleichwertigen Behältnis aufzubewahren; als gleichwertig gilt
-insbesondere ein Behältnis der Sicherheitsstufe B nach VDMA 2) 3)
-24992 (Stand Mai 1995). Für bis zu zehn Langwaffen gilt die sichere
-Aufbewahrung auch in einem Behältnis als gewährleistet, das der
-Sicherheitsstufe A nach VDMA 24992 (Stand Mai 1995) oder einer Norm
-mit gleichem Schutzniveau eines anderen EWR-Mitgliedstaates
-entspricht. Vergleichbar gesicherte Räume sind als gleichwertig
-anzusehen.
+(2) (weggefallen)
 
 (3) Wer erlaubnispflichtige Schusswaffen, Munition oder verbotene
 Waffen besitzt oder die Erteilung einer Erlaubnis zum Besitz beantragt
 hat, hat der zuständigen Behörde die zur sicheren Aufbewahrung
 getroffenen oder vorgesehenen Maßnahmen nachzuweisen. Besitzer von
 erlaubnispflichtigen Schusswaffen, Munition oder verbotenen Waffen
-haben außerdem der Behörde zur Überprüfung der Pflichten aus den
-Absätzen 1 und 2 Zutritt zu den Räumen zu gestatten, in denen die
-Waffen und die Munition aufbewahrt werden. Wohnräume dürfen gegen den
-Willen des Inhabers nur zur Verhütung dringender Gefahren für die
-öffentliche Sicherheit betreten werden; das Grundrecht der
-Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) wird
-insoweit eingeschränkt.
+haben außerdem der Behörde zur Überprüfung der Pflichten aus Absatz 1
+in Verbindung mit einer Rechtsverordnung nach Absatz 5 Zutritt zu den
+Räumen zu gestatten, in denen die Waffen und die Munition aufbewahrt
+werden. Wohnräume dürfen gegen den Willen des Inhabers nur zur
+Verhütung dringender Gefahren für die öffentliche Sicherheit betreten
+werden; das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13
+des Grundgesetzes) wird insoweit eingeschränkt.
 
-(4) Entspricht die bisherige Aufbewahrung von Waffen oder Munition,
-deren Erwerb und Besitz ihrer Art nach der Erlaubnis bedarf, nicht den
-in diesem Gesetz oder in einer Rechtsverordnung nach Absatz 5
-festgelegten Anforderungen, so hat der Besitzer bis zum 31. August
-2003 die ergänzenden Vorkehrungen zur Gewährleistung einer diesen
-Anforderungen entsprechenden Aufbewahrung vorzunehmen. Dies ist
-gegenüber der zuständigen Behörde innerhalb der Frist des Satzes 1
-anzuzeigen und nachzuweisen.
+(4) Die in einer Rechtsverordnung nach Absatz 5 festgelegten
+Anforderungen an die Aufbewahrung von Schusswaffen und Munition gelten
+nicht bei Aufrechterhaltung der bis zum 6. Juli 2017 erfolgten Nutzung
+von Sicherheitsbehältnissen, die den Anforderungen des § 36 Absatz 2
+Satz 1 zweiter Halbsatz und Satz 2 in der Fassung des Gesetzes vom 11.
+Oktober 2002 (BGBl. I S. 3970, 4592; 2003 I S. 1957), das zuletzt
+durch Artikel 6 Absatz 34 des Gesetzes vom 13. April 2017 (BGBl. I S.
+872) geändert worden ist, entsprechen oder die von der zuständigen
+Behörde als gleichwertig anerkannt wurden. Diese
+Sicherheitsbehältnisse können nach Maßgabe des § 36 Absatz 1 und 2 in
+der Fassung des Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592;
+2003 I S. 1957), das zuletzt durch Artikel 6 Absatz 34 des Gesetzes
+vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, sowie des §
+13 der Allgemeinen Waffengesetz-Verordnung vom 27. Oktober 2003 (BGBl.
+I S. 2123), die zuletzt durch Artikel 108 des Gesetzes vom 29. März
+2017 (BGBl. I S. 626) geändert worden ist,
+
+1.  vom bisherigen Besitzer weitergenutzt werden sowie
+
+
+2.  für die Dauer der gemeinschaftlichen Aufbewahrung auch von
+    berechtigten Personen mitgenutzt werden, die mit dem bisherigen
+    Besitzer nach Nummer 1 in häuslicher Gemeinschaft leben.
+
+
+
+Die Berechtigung zur Nutzung nach Satz 2 Nummer 2 bleibt über den Tod
+des bisherigen Besitzers hinaus für eine berechtigte Person nach Satz
+2 Nummer 2 bestehen, wenn sie infolge des Erbfalls Eigentümer des
+Sicherheitsbehältnisses wird; die berechtigte Person wird in diesem
+Fall nicht bisheriger Besitzer im Sinne des Satzes 2 Nummer 1. In den
+Fällen der Sätze 1 bis 3 finden § 53 Absatz 1 Nummer 19 und § 52a in
+der Fassung des Gesetzes vom 11. Oktober 2002 (BGBl. I S. 3970, 4592;
+2003 I S. 1957), das zuletzt durch Artikel 6 Absatz 34 des Gesetzes
+vom 13. April 2017 (BGBl. I S. 872) geändert worden ist, und § 34
+Nummer 12 der Allgemeinen Waffengesetz-Verordnung vom 27. Oktober 2003
+(BGBl. I S. 2123), die zuletzt durch Artikel 108 des Gesetzes vom 29.
+März 2017 (BGBl. I S. 626) geändert worden ist, weiterhin Anwendung.
 
 (5) Das Bundesministerium des Innern wird ermächtigt, nach Anhörung
 der beteiligten Kreise durch Rechtsverordnung mit Zustimmung des
 Bundesrates unter Berücksichtigung des Standes der Technik, der Art
-und Zahl der Waffen, der Munition oder der Örtlichkeit von den
-Anforderungen an die Aufbewahrung abzusehen oder zusätzliche
-Anforderungen an die Aufbewahrung oder die Sicherung der Waffe
+und Zahl der Waffen, der Munition oder der Örtlichkeit die
+Anforderungen an die Aufbewahrung oder an die Sicherung der Waffe
 festzulegen. Dabei können
 
 1.  Anforderungen an technische Sicherungssysteme zur Verhinderung einer
@@ -2003,9 +2154,9 @@ zuständige Behörde die notwendigen Ergänzungen anzuordnen und zu deren
 Umsetzung eine angemessene Frist zu setzen.
 
     Herausgegeben im Beuth-Verlag GmbH, Berlin und Köln.
-[^bjnr397010002bjne003601377_01_BJNR397010002BJNE003601377]:     Verband Deutscher Maschinen- und Anlagenbau e. V.
-[^bjnr397010002bjne003601377_02_BJNR397010002BJNE003601377]:     Herausgegeben im Beuth-Verlag GmbH, Berlin und Köln.
-[^bjnr397010002bjne003601377_03_BJNR397010002BJNE003601377]: 
+[^bjnr397010002bjne003601377_01_BJNR397010002BJNE003602118]:     Verband Deutscher Maschinen- und Anlagenbau e. V.
+[^bjnr397010002bjne003601377_02_BJNR397010002BJNE003602118]:     Herausgegeben im Beuth-Verlag GmbH, Berlin und Köln.
+[^bjnr397010002bjne003601377_03_BJNR397010002BJNE003602118]: 
 
 #### § 37 Anzeigepflichten
 
@@ -2040,10 +2191,11 @@ das Abhandenkommen.
 oder eine verbotene Schusswaffe nach Anlage 2 Abschnitt 1 Nr. 1.2 nach
 den Anforderungen der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.4
 unbrauchbar gemacht oder zerstört, so hat der Besitzer dies der
-zuständigen Behörde binnen zwei Wochen schriftlich anzuzeigen und ihr
-auf Verlangen den Gegenstand vorzulegen. Dabei hat er seine
-Personalien sowie Art, Kaliber, Herstellerzeichen oder Marke und -
-sofern vorhanden - die Herstellungsnummer der Schusswaffe anzugeben.
+zuständigen Behörde binnen zwei Wochen schriftlich oder elektronisch
+anzuzeigen und ihr auf Verlangen den Gegenstand vorzulegen. Dabei hat
+er seine Personalien sowie Art, Kaliber, Herstellerzeichen oder Marke
+und - sofern vorhanden - die Herstellungsnummer der Schusswaffe
+anzugeben.
 
 (4) Inhaber waffenrechtlicher Erlaubnisse und Bescheinigungen sind
 verpflichtet, bei ihrem Wegzug ins Ausland ihre neue Anschrift der
@@ -2052,7 +2204,7 @@ zuletzt für sie zuständigen Waffenbehörde mitzuteilen.
 
 #### § 38 Ausweispflichten
 
-Wer eine Waffe führt, muss
+(1) Wer eine Waffe führt, muss folgende Dokumente mit sich führen:
 
 1.  seinen Personalausweis oder Pass und
 
@@ -2060,48 +2212,74 @@ Wer eine Waffe führt, muss
         wenn es einer Erlaubnis zum Führen bedarf, den Waffenschein,
 
 
-    b)  im Fall des Verbringens oder der Mitnahme einer Waffe oder von
-        Munition im Sinne von § 29 Abs. 1 aus einem Drittstaat gemäß § 29 Abs.
-        1, § 30 Abs. 1 oder § 32 Abs. 1 den Erlaubnisschein, im Falle der
-        Mitnahme auf Grund einer Erlaubnis nach § 32 Abs. 4 auch den Beleg für
-        den Grund der Mitnahme,
+    b)  im Fall des Verbringens einer Waffe oder von Munition im Sinne von §
+        29 Absatz 1 aus einem Drittstaat gemäß § 29 Absatz 1 oder § 30 Absatz
+        1 den Erlaubnisschein,
 
 
-    c)  im Fall des Verbringens einer Schusswaffe nach Anlage 1 Abschnitt 3
-        (Kategorien A bis D) gemäß § 29 Abs. 1 oder § 30 Abs. 1 aus einem
-        anderen Mitgliedstaat den Erlaubnisschein dieses Staates oder eine
-        Bescheinigung, die auf diesen Erlaubnisschein Bezug nimmt,
+    c)  im Fall der Mitnahme einer Waffe oder von Munition im Sinne von § 29
+        Absatz 1 aus einem Drittstaat gemäß § 32 Absatz 1 den Erlaubnisschein,
+        im Fall der Mitnahme auf Grund einer Erlaubnis nach § 32 Absatz 4 auch
+        den Beleg für den Grund der Mitnahme,
 
 
-    d)  im Fall der Mitnahme einer Schusswaffe nach Anlage 1 Abschnitt 3
-        (Kategorien A bis D) aus einem anderen Mitgliedstaat gemäß § 32 Abs. 1
-        bis 3 den Europäischen Feuerwaffenpass und im Falle des § 32 Abs. 3
-        zusätzlich einen Beleg für den Grund der Mitnahme,
+    d)  im Fall des Verbringens einer Schusswaffe oder von Munition nach
+        Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) gemäß § 29 Absatz 2 oder
+        § 30 Absatz 1 aus einem anderen Mitgliedstaat den Erlaubnisschein oder
+        eine Bescheinigung, die auf diesen Erlaubnisschein Bezug nimmt,
 
 
-    e)  im Fall der vorübergehenden Berechtigung zum Erwerb oder zum Führen
-        auf Grund des § 12 Abs. 1 Nr. 1 und 2 oder § 28 Abs. 4 einen Beleg,
-        aus dem der Name des Überlassers, des Besitzberechtigten und das Datum
-        der Überlassung hervorgeht, oder
+    e)  im Fall des Verbringens einer Schusswaffe oder von Munition nach
+        Anlage 1 Abschnitt 3 (Kategorien A 1.2 bis D) aus dem Geltungsbereich
+        dieses Gesetzes in einen anderen Mitgliedstaat gemäß § 31 den
+        Erlaubnisschein oder eine Bescheinigung, die auf diesen
+        Erlaubnisschein Bezug nimmt,
 
 
-    f)  im Fall des Schießens mit einer Schießerlaubnis nach § 10 Abs. 5
-        diese, und
+    f)  im Fall der Mitnahme einer Schusswaffe oder von Munition nach Anlage 1
+        Abschnitt 3 (Kategorien A 1.2 bis D)
+
+        aa) aus einem anderen Mitgliedstaat gemäß § 32 Absatz 1 und 2 den
+            Erlaubnisschein und den Europäischen Feuerwaffenpass,
+
+
+        bb) aus dem Geltungsbereich dieses Gesetzes gemäß § 32 Absatz 1a den
+            Erlaubnisschein,
+
+
+        cc) aus einem anderen Mitgliedstaat oder aus dem Geltungsbereich dieses
+            Gesetzes gemäß § 32 Absatz 3 den Europäischen Feuerwaffenpass und
+            einen Beleg für den Grund der Mitnahme,
 
 
 
 
 
-2.  in den Fällen des § 13 Abs. 6 den Jagdschein
+    g)  im Fall der vorübergehenden Berechtigung zum Erwerb oder zum Führen
+        auf Grund des § 12 Absatz 1 Nummer 1 und 2 oder § 28 Absatz 4 einen
+        Beleg, aus dem der Name des Überlassers und des Besitzberechtigten
+        sowie das Datum der Überlassung hervorgeht, oder
+
+
+    h)  im Fall des Schießens mit einer Schießerlaubnis nach § 10 Absatz 5
+        diese und
 
 
 
-mit sich führen und Polizeibeamten oder sonst zur Personenkontrolle
-Befugten auf Verlangen zur Prüfung aushändigen. In den Fällen des § 13
-Abs. 3 und § 14 Abs. 4 Satz 2 genügt an Stelle der Waffenbesitzkarte
-ein schriftlicher Nachweis darüber, dass die Antragsfrist noch nicht
-verstrichen oder ein Antrag gestellt worden ist. Satz 1 gilt nicht in
-Fällen des § 12 Abs. 3 Nr. 1.
+
+
+2.  in den Fällen des § 13 Absatz 6 den Jagdschein.
+
+
+
+In den Fällen des § 13 Absatz 3 und § 14 Absatz 4 Satz 2 genügt an
+Stelle der Waffenbesitzkarte ein schriftlicher Nachweis darüber, dass
+die Antragsfrist noch nicht verstrichen oder ein Antrag gestellt
+worden ist. Satz 1 gilt nicht in Fällen des § 12 Absatz 3 Nummer 1.
+
+(2) Die nach Absatz 1 Satz 1 und 2 mitzuführenden Dokumente sind
+Polizeibeamten oder sonst zur Personenkontrolle Befugten auf Verlangen
+zur Prüfung auszuhändigen.
 
 
 #### § 39 Auskunfts- und Vorzeigepflicht, Nachschau
@@ -2147,6 +2325,51 @@ der Besitzer von
 
 ihr diese sowie Erlaubnisscheine oder Ausnahmebescheinigungen binnen
 angemessener, von ihr zu bestimmender Frist zur Prüfung vorlegt.
+
+
+### Unterabschnitt 6a - Unbrauchbarmachung von Schusswaffen und Umgang mit unbrauchbar gemachten Schusswaffen
+
+
+
+#### § 39a Verordnungsermächtigung
+
+(1) Das Bundesministerium des Innern wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+nähere Regelungen zur Unbrauchbarmachung von Schusswaffen zu treffen;
+insbesondere kann es
+
+1.  die Vornahme der Unbrauchbarmachung von bestimmten Qualifikationen
+    abhängig machen,
+
+
+2.  darauf bezogene Dokumentationen und Mitteilungen verlangen und
+
+
+3.  Regelungen in Bezug auf vor Inkrafttreten dieser Bestimmung
+    unbrauchbar gemachte Schusswaffen treffen.
+
+
+
+
+(2) Das Bundesministerium des Innern wird ermächtigt, durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
+Anwendbarkeit von Vorschriften des Waffengesetzes auf unbrauchbar
+gemachte Schusswaffen zu regeln sowie den Umgang mit unbrauchbar
+gemachten Schusswaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1 Nummer
+1\.4) zu verbieten oder zu beschränken oder mit bestimmten
+Verpflichtungen zu verbinden; insbesondere kann es
+
+1.  bestimmte Arten des Umgangs mit unbrauchbar gemachten Schusswaffen
+    verbieten oder unter Genehmigungsvorbehalt stellen und
+
+
+2.  Anzeigen oder Begleitdokumente vorschreiben.
+
+
+
+Durch die Verordnung können diejenigen Teile der Anlage 2 zu diesem
+Gesetz, die unbrauchbar gemachte Schusswaffen betreffen, aufgehoben
+werden.
 
 
 ### Unterabschnitt 7 - Verbote
@@ -2242,7 +2465,9 @@ Polizeidienststelle über den Erlass eines Waffenbesitzverbotes.
 (1) Wer an öffentlichen Vergnügungen, Volksfesten,
 Sportveranstaltungen, Messen, Ausstellungen, Märkten oder ähnlichen
 öffentlichen Veranstaltungen teilnimmt, darf keine Waffen im Sinne des
-§ 1 Abs. 2 führen.
+§ 1 Abs. 2 führen. Dies gilt auch, wenn für die Teilnahme ein
+Eintrittsgeld zu entrichten ist, sowie für Theater-, Kino-, und
+Diskothekenbesuche und für Tanzveranstaltungen.
 
 (2) Die zuständige Behörde kann allgemein oder für den Einzelfall
 Ausnahmen von Absatz 1 zulassen, wenn
@@ -2346,9 +2571,9 @@ zu führen.
 
 Weitergehende Regelungen bleiben unberührt.
 
-(3) Ein berechtigtes Interesse nach Absatz 2 Nr. 3 liegt insbesondere
-vor, wenn das Führen der Gegenstände im Zusammenhang mit der
-Berufsausübung erfolgt, der Brauchtumspflege, dem Sport oder einem
+(3) Ein berechtigtes Interesse nach Absatz 2 Satz 1 Nr. 3 liegt
+insbesondere vor, wenn das Führen der Gegenstände im Zusammenhang mit
+der Berufsausübung erfolgt, der Brauchtumspflege, dem Sport oder einem
 allgemein anerkannten Zweck dient.
 
 
@@ -2390,8 +2615,10 @@ diese Behörde, wenn eine Person über keine waffenrechtlichen
 Erlaubnisse mehr verfügt.
 
 (2) Die Meldebehörden teilen den Waffenerlaubnisbehörden
-Namensänderungen, Zuzug, Wegzug und Tod der Einwohner mit, für die das
-Vorliegen einer waffenrechtlichen Erlaubnis gespeichert ist.
+Namensänderungen, Zuzug, Änderungen der derzeitigen Anschrift im
+Zuständigkeitsbereich der Meldebehörde, Wegzug und Tod des Einwohners
+mit, für den das Vorliegen einer waffenrechtlichen Erlaubnis
+gespeichert ist.
 
 
 ### § 44a Behördliche Aufbewahrungspflichten
@@ -2399,7 +2626,21 @@ Vorliegen einer waffenrechtlichen Erlaubnis gespeichert ist.
 (1) Die für die Ausführung dieses Gesetzes zuständigen Behörden haben
 alle Unterlagen, die für die Feststellung der gegenwärtigen und
 früheren Besitzverhältnisse sowie die Rückverfolgung von Verkaufswegen
-erforderlich sind, aufzubewahren.
+erforderlich sind, aufzubewahren. Ferner haben die in Satz 1 genannten
+Behörden alle Unterlagen aufzubewahren, aus denen sich die Versagung
+einer waffenrechtlichen Erlaubnis
+
+1.  wegen fehlender Zuverlässigkeit nach § 4 Absatz 1 Nummer 2 in
+    Verbindung mit § 5 Absatz 1 Nummer 2 oder Absatz 2 Nummer 2, 3 oder
+    Nummer 4 oder
+
+
+2.  wegen fehlender persönlicher Eignung nach § 4 Absatz 1 Nummer 2 in
+    Verbindung mit § 6 Absatz 1 Satz 1 und 2,
+
+
+
+einschließlich der Gründe hierfür, ergibt.
 
 (2) Die Aufbewahrungspflicht bezieht sich sowohl auf eigene Unterlagen
 als auch auf nach § 17 Abs. 6 Satz 2 und 3 der Allgemeinen
@@ -2409,9 +2650,10 @@ zuletzt durch Artikel 2 des Gesetzes vom 26. März 2008 (BGBl. I S.
 Waffenhandelsbücher.
 
 (3) Für die Waffenherstellungsbücher beträgt die Aufbewahrungsfrist
-mindestens 30 Jahre. Für alle anderen Unterlagen einschließlich der
-Einfuhr- und Ausfuhraufzeichnungen beträgt die Aufbewahrungsfrist
-mindestens 20 Jahre.
+mindestens 30 Jahre. Für alle anderen Unterlagen nach Absatz 1 Satz 1
+einschließlich der Einfuhr- und Ausfuhraufzeichnungen beträgt die
+Aufbewahrungsfrist mindestens 20 Jahre. Für Unterlagen nach Absatz 1
+Satz 2 beträgt die Aufbewahrungsfrist fünf Jahre.
 
 
 ### § 45 Rücknahme und Widerruf
@@ -2546,7 +2788,10 @@ Rechtsverordnungen zu erlassen, die insbesondere
 (1) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen können durch Rechtsverordnung die für die
 Ausführung dieses Gesetzes zuständigen Behörden bestimmen, soweit
-nicht Bundesbehörden zuständig sind.
+nicht Bundesbehörden zuständig sind. Abweichend von Satz 1 ist für die
+Erteilung von Erlaubnissen an Bewachungsunternehmen für
+Bewachungsaufgaben nach § 28a Absatz 1 Satz 1 die für das Gebiet der
+Freien und Hansestadt Hamburg bestimmte Waffenbehörde zuständig.
 
 (1a) Die Landesregierungen oder die von ihnen durch Rechtsverordnung
 bestimmten Stellen bestimmen durch Rechtsverordnung die nach Artikel 6
@@ -2575,7 +2820,12 @@ zuständige Kontaktstelle.
     gewöhnlichen Aufenthalt außerhalb des Geltungsbereichs dieses Gesetzes
     haben; dies gilt nicht für die in den §§ 21 und 28 genannten Personen,
     wenn sich der Sitz des Unternehmens im Geltungsbereich dieses Gesetzes
-    befindet.
+    befindet,
+
+
+5.  natürliche und juristische Personen, die im Geltungsbereich dieses
+    Gesetzes im Sinne des § 21 Handel treiben, hier aber keinen
+    Unternehmenssitz haben.
 
 
 
@@ -2672,26 +2922,26 @@ ist
 
 
 
-### § 50 Kosten
+### § 50 Gebühren und Auslagen
 
-(1) Für Amtshandlungen, Prüfungen und Untersuchungen nach diesem
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
 Gesetz und nach den auf diesem Gesetz beruhenden Rechtsvorschriften
-werden Kosten (Gebühren und Auslagen) erhoben.
+werden Gebühren und Auslagen erhoben.
 
 (2) Das Bundesministerium des Innern wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie für den
-Bereich der Bundesverwaltung durch Rechtsverordnung, die nicht der
-Zustimmung des Bundesrates bedarf, die gebührenpflichtigen Tatbestände
-näher zu bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen.
-Die Gebührensätze sind so zu bemessen, dass der mit den
-Amtshandlungen, Prüfungen oder Untersuchungen verbundene Personal- und
-Sachaufwand gedeckt wird. Bei begünstigenden Amtshandlungen kann
-daneben die Bedeutung, der wirtschaftliche Wert oder der sonstige
-Nutzen für den Gebührenschuldner angemessen berücksichtigt werden.
-Soweit der Gegenstand der Gebühr in den Anwendungsbereich der
-Richtlinie 2006/123/EG des Europäischen Parlaments und des Rates vom
-12\. Dezember 2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom
-27\.12.2006, S. 36) fällt, findet Satz 3 keine Anwendung; inländische
+mit dem Bundesministerium für Wirtschaft und Energie für den Bereich
+der Bundesverwaltung durch Rechtsverordnung, die nicht der Zustimmung
+des Bundesrates bedarf, die gebührenpflichtigen Tatbestände näher zu
+bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
+Gebührensätze sind so zu bemessen, dass der mit den individuell
+zurechenbaren öffentlichen Leistungen verbundene Personal- und
+Sachaufwand gedeckt wird. Bei begünstigenden Leistungen kann daneben
+die Bedeutung, der wirtschaftliche Wert oder der sonstige Nutzen für
+den Gebührenschuldner angemessen berücksichtigt werden. Soweit der
+Gegenstand der Gebühr in den Anwendungsbereich der Richtlinie
+2006/123/EG des Europäischen Parlaments und des Rates vom 12. Dezember
+2006 über Dienstleistungen im Binnenmarkt (ABl. L 376 vom 27.12.2006,
+S. 36) fällt, findet Satz 3 keine Anwendung; inländische
 Gebührenschuldner dürfen hierdurch nicht benachteiligt werden.
 
 (3) In der Rechtsverordnung nach Absatz 2 kann bestimmt werden, dass
@@ -2700,10 +2950,10 @@ werden darf, wenn die Prüfung oder Untersuchung ohne Verschulden der
 prüfenden oder untersuchenden Stelle und ohne ausreichende
 Entschuldigung des Bewerbers oder Antragstellers am festgesetzten
 Termin nicht stattfinden konnte oder abgebrochen werden musste. In der
-Rechtsverordnung können ferner die Kostenbefreiung, die
-Kostengläubigerschaft, die Kostenschuldnerschaft, der Umfang der zu
-erstattenden Auslagen und die Kostenerhebung abweichend von den
-Vorschriften des Verwaltungskostengesetzes geregelt werden.
+Rechtsverordnung können ferner die Gebühren- und Auslagenbefreiung,
+die Gebührengläubigerschaft, die Gebührenschuldnerschaft, der Umfang
+der zu erstattenden Auslagen und die Gebührenerhebung abweichend von
+den Vorschriften des Bundesgebührengesetzes geregelt werden.
 
 
 ## Abschnitt 4 - Straf- und Bußgeldvorschriften
@@ -2791,7 +3041,7 @@ bestraft, wer
 bestraft, wer
 
 1.  entgegen § 2 Abs. 1 oder 3, jeweils in Verbindung mit Anlage 2
-    Abschnitt 1 Nr. 1.2.2 bis 1.2.5, 1.3.1 bis 1.3.3, 1.3.5, 1.3.7, 1.3.8,
+    Abschnitt 1 Nr. 1.2.2 bis 1.2.5, 1.3.1 bis 1.3.3, 1.3.5 bis 1.3.8,
     1\.4.1 Satz 1, Nr. 1.4.2 bis 1.4.4 oder 1.5.3 bis 1.5.7, einen dort
     genannten Gegenstand erwirbt, besitzt, überlässt, führt, verbringt,
     mitnimmt, herstellt, bearbeitet, instand setzt oder damit Handel
@@ -2817,10 +3067,18 @@ bestraft, wer
     Schusswaffe herstellt, bearbeitet oder instand setzt,
 
 
-4.  ohne Erlaubnis nach § 2 Abs. 2 in Verbindung mit Anlage 2 Abschnitt 2
-    Unterabschnitt 1 Satz 1 in Verbindung mit § 31 Abs. 1 eine dort
-    genannte Schusswaffe oder Munition in einen anderen Mitgliedstaat
-    verbringt,
+4.  ohne Erlaubnis nach § 2 Absatz 2 in Verbindung mit Anlage 2 Abschnitt
+    2 Unterabschnitt 1 Satz 1 in Verbindung mit
+
+    a)  § 31 Absatz 1 eine dort genannte Schusswaffe oder Munition in einen
+        anderen Mitgliedstaat verbringt oder
+
+
+    b)  § 32 Absatz 1a Satz 1 eine dort genannte Schusswaffe oder Munition in
+        einen anderen Mitgliedstaat mitnimmt,
+
+
+
 
 
 5.  entgegen § 28 Abs. 2 Satz 1 eine Schusswaffe führt,
@@ -2831,6 +3089,13 @@ bestraft, wer
 
 7.  entgegen § 34 Abs. 1 Satz 1 eine erlaubnispflichtige Schusswaffe oder
     erlaubnispflichtige Munition einem Nichtberechtigten überlässt,
+
+
+7a. entgegen § 36 Absatz 1 Satz 1 in Verbindung mit einer Rechtsverordnung
+    nach § 36 Absatz 5 Satz 1 eine dort genannte Vorkehrung für eine
+    Schusswaffe nicht, nicht richtig oder nicht rechtzeitig trifft und
+    dadurch die Gefahr verursacht, dass eine Schusswaffe oder Munition
+    abhandenkommt oder darauf unbefugt zugegriffen wird,
 
 
 8.  einer vollziehbaren Anordnung nach § 41 Abs. 1 Satz 1 oder Abs. 2
@@ -2847,10 +3112,10 @@ bestraft, wer
 
 
 (4) Handelt der Täter in den Fällen des Absatzes 1 Nr. 1, 2 Buchstabe
-b, c oder d oder Nr. 3 oder des Absatzes 3 fahrlässig, so ist die
-Strafe bei den bezeichneten Taten nach Absatz 1 Freiheitsstrafe bis zu
-zwei Jahren oder Geldstrafe, bei Taten nach Absatz 3 Freiheitsstrafe
-bis zu einem Jahr oder Geldstrafe.
+b, c oder d oder Nr. 3 oder des Absatzes 3 Nummer 1 bis 7, 8, 9 oder
+10 fahrlässig, so ist die Strafe bei den bezeichneten Taten nach
+Absatz 1 Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe, bei Taten
+nach Absatz 3 Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.
 
 (5) In besonders schweren Fällen des Absatzes 1 Nr. 1 ist die Strafe
 Freiheitsstrafe von einem Jahr bis zu zehn Jahren. Ein besonders
@@ -2863,13 +3128,8 @@ Bandenmitgliedes handelt.
 Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
 
-### § 52a Strafvorschriften
+### § 52a (weggefallen)
 
-Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird
-bestraft, wer eine in § 53 Absatz 1 Nummer 19 bezeichnete Handlung
-vorsätzlich begeht und dadurch die Gefahr verursacht, dass eine
-Schusswaffe oder Munition abhanden kommt oder darauf unbefugt
-zugegriffen wird.
 
 
 ### § 53 Bußgeldvorschriften
@@ -2880,10 +3140,7 @@ zugegriffen wird.
     erlaubnispflichtige Munition erwirbt oder besitzt,
 
 
-2.  entgegen § 2 Abs. 1 oder 3, jeweils in Verbindung mit Anlage 2
-    Abschnitt 1 Nr. 1.3.6, einen dort genannten Gegenstand erwirbt,
-    besitzt, überlässt, führt, verbringt, mitnimmt, herstellt, bearbeitet,
-    instand setzt oder damit Handel treibt,
+2.  (weggefallen)
 
 
 3.  ohne Erlaubnis nach § 2 Abs. 2 in Verbindung mit Abs. 4, dieser in
@@ -2892,18 +3149,18 @@ zugegriffen wird.
 
 
 4.  einer vollziehbaren Auflage nach § 9 Abs. 2 Satz 1, § 10 Abs. 2 Satz
-    3, § 17 Abs. 2 Satz 2 oder § 18 Abs. 2 Satz 2 oder einer vollziehbaren
-    Anordnung nach § 9 Abs. 3, § 36 Abs. 3 Satz 1 oder Abs. 6, § 37 Abs. 1
-    Satz 2, § 39 Abs. 3, § 40 Abs. 5 Satz 2 oder § 46 Abs. 2 Satz 1 oder
-    Abs. 3 Satz 1 zuwiderhandelt,
+    3, § 17 Abs. 2 Satz 2, § 18 Absatz 2 Satz 2 oder § 28a Absatz 1 Satz 3
+    oder einer vollziehbaren Anordnung nach § 9 Abs. 3, § 36 Abs. 3 Satz 1
+    oder Abs. 6, § 37 Abs. 1 Satz 2, § 39 Abs. 3, § 40 Abs. 5 Satz 2 oder
+    § 46 Abs. 2 Satz 1 oder Abs. 3 Satz 1 zuwiderhandelt,
 
 
 5.  entgegen § 10 Abs. 1a, § 21 Abs. 6 Satz 1 und 4, § 24 Abs. 5, § 27
     Abs. 1 Satz 6, Abs. 2 Satz 2, § 31 Abs. 2 Satz 3, § 34 Absatz 2 Satz 1
-    oder Satz 2, Abs. 4 oder Abs. 5 Satz 1, § 36 Abs. 4 Satz 2, § 37 Abs.
-    1 Satz 1, Abs. 2 Satz 1 oder Abs. 3 Satz 1 oder § 40 Abs. 5 Satz 1
-    eine Anzeige nicht, nicht richtig, nicht vollständig, nicht in der
-    vorgeschriebenen Weise oder nicht rechtzeitig erstattet,
+    oder Satz 2, Abs. 4 oder Abs. 5 Satz 1, § 37 Abs. 1 Satz 1, Abs. 2
+    Satz 1 oder Abs. 3 Satz 1 oder § 40 Abs. 5 Satz 1 eine Anzeige nicht,
+    nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
+    oder nicht rechtzeitig erstattet,
 
 
 6.  entgegen § 10 Absatz 2 Satz 4 oder § 37 Absatz 4 eine Mitteilung
@@ -2913,8 +3170,8 @@ zugegriffen wird.
 7.  entgegen § 13 Abs. 3 Satz 2, § 14 Abs. 4 Satz 2 oder § 20 Absatz 1 die
     Ausstellung einer Waffenbesitzkarte oder die Eintragung der Waffe in
     eine bereits erteilte Waffenbesitzkarte nicht beantragt oder entgegen
-    § 34 Absatz 2 Satz 2 den Europäischen Feuerwaffenpass nicht oder nicht
-    rechtzeitig vorlegt,
+    § 34 Absatz 2 Satz 2 erster Halbsatz die Waffenbesitzkarte oder den
+    Europäischen Feuerwaffenpass nicht oder nicht rechtzeitig vorlegt,
 
 
 8.  entgegen § 23 Abs. 1 Satz 1 oder Abs. 2 Satz 1, jeweils auch in
@@ -2972,11 +3229,11 @@ zugegriffen wird.
     rechtzeitig protokolliert,
 
 
-19. entgegen § 36 Abs. 1 Satz 2 oder Abs. 2 eine Schusswaffe aufbewahrt,
+19. (weggefallen)
 
 
-20. entgegen § 38 Satz 1 eine dort genannte Urkunde nicht mit sich führt
-    oder nicht oder nicht rechtzeitig aushändigt,
+20. entgegen § 38 Absatz 1 Satz 1 oder Absatz 2 eine dort genannte Urkunde
+    nicht mit sich führt oder nicht oder nicht rechtzeitig aushändigt,
 
 
 21. entgegen § 39 Abs. 1 Satz 1 eine Auskunft nicht, nicht richtig, nicht
@@ -2993,8 +3250,8 @@ zugegriffen wird.
 
 
 23. einer Rechtsverordnung nach § 15a Absatz 4, § 25 Abs. 1 Nr. 1
-    Buchstabe b, § 27 Abs. 7, § 36 Abs. 5, § 42 Abs. 5 Satz 1, auch in
-    Verbindung mit Satz 2, oder § 47 oder einer vollziehbaren Anordnung
+    Buchstabe b, § 27 Abs. 7, § 36 Abs. 5, § 39a, § 42 Abs. 5 Satz 1, auch
+    in Verbindung mit Satz 2, oder § 47 oder einer vollziehbaren Anordnung
     auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die
     Rechtsverordnung für einen bestimmten Tatbestand auf diese
     Bußgeldvorschrift verweist.
@@ -3018,14 +3275,22 @@ einen dort genannten Gegenstand ausführt.
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu zehntausend
 Euro geahndet werden.
 
-(3) Verwaltungsbehörde im Sinne des § 36 Abs. 1 Nr. 1 des Gesetzes
-über Ordnungswidrigkeiten ist, soweit dieses Gesetz von der
-Physikalisch-Technischen Bundesanstalt, dem Bundesverwaltungsamt oder
-dem Bundeskriminalamt ausgeführt wird, die für die Erteilung von
-Erlaubnissen nach § 21 Abs. 1 zuständige Behörde.
+(3) Verwaltungsbehörden im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten sind
+
+1.  in den Fällen des Absatzes 1, soweit dieses Gesetz von der
+    Physikalisch-Technischen Bundesanstalt, dem Bundesverwaltungsamt oder
+    dem Bundeskriminalamt ausgeführt wird, die für die Erteilung von
+    Erlaubnissen nach § 21 Absatz 1 zuständigen Behörden,
 
 
-### § 54 Einziehung und erweiterter Verfall
+2.  in den Fällen des Absatzes 1a die Hauptzollämter.
+
+
+
+
+
+### § 54 Einziehung
 
 (1) Ist eine Straftat nach den §§ 51, 52 Abs. 1, 2 oder 3 Nr. 1, 2
 oder 3 oder Abs. 5 begangen worden, so werden Gegenstände,
@@ -3045,12 +3310,9 @@ nach § 53 begangen worden, so können in Absatz 1 bezeichnete
 Gegenstände eingezogen werden.
 
 (3) § 74a des Strafgesetzbuches und § 23 des Gesetzes über
-Ordnungswidrigkeiten sind anzuwenden. In den Fällen der §§ 51, 52 Abs.
-1 oder 3 Nr. 1 bis 3 ist § 73d des Strafgesetzbuches anzuwenden, wenn
-der Täter gewerbsmäßig oder als Mitglied einer Bande handelt, die sich
-zur fortgesetzten Begehung solcher Straftaten verbunden hat.
+Ordnungswidrigkeiten sind anzuwenden.
 
-(4) Als Maßnahme im Sinne des § 74b Abs. 2 Satz 2 des
+(4) Als Maßnahme im Sinne des § 74f Absatz 1 Satz 3 des
 Strafgesetzbuches kommt auch die Anweisung in Betracht, binnen einer
 angemessenen Frist eine Entscheidung der zuständigen Behörde über die
 Erteilung einer Erlaubnis nach § 10 vorzulegen oder die Gegenstände
@@ -3153,8 +3415,8 @@ Auf
 
 
 
-ist § 10 und Abschnitt 2 Unterabschnitt 5 nicht anzuwenden, wenn ihnen
-das Bundesverwaltungsamt oder, soweit es sich nicht um Gäste des
+sind § 10 und Abschnitt 2 Unterabschnitt 5 nicht anzuwenden, wenn
+ihnen das Bundesverwaltungsamt oder, soweit es sich nicht um Gäste des
 Bundes handelt, die nach § 48 Abs. 1 zuständige Behörde hierüber eine
 Bescheinigung erteilt hat. Die Bescheinigung, zu deren Wirksamkeit es
 der Bekanntgabe an den Betroffenen nicht bedarf, ist zu erteilen, wenn
@@ -3177,12 +3439,14 @@ die nach § 48 Abs. 1 zuständige Behörde. Das Bundesverwaltungsamt ist
 die eine Waffenbesitzkarte nach § 59 Abs. 4 Satz 2 des Waffengesetzes
 in der vor dem 1. Juli 1976 geltenden Fassung erteilt worden ist, sind
 unbeschadet der Vorschriften des Gesetzes über die Kontrolle von
-Kriegswaffen § 4 Abs. 3, § 45 Abs. 1 und 2 sowie die §§ 36 und 53 Abs.
-1 Nr. 19 anzuwenden. Auf Verstöße gegen § 59 Abs. 2 des Waffengesetzes
-in der vor dem 1. Juli 1976 geltenden Fassung und gegen § 58 Abs. 1
-des Waffengesetzes in der vor dem 1. April 2003 geltenden Fassung ist
-§ 52 Abs. 3 Nr. 1 anzuwenden. Zuständige Behörde für Maßnahmen nach
-Satz 2 ist das Bundesamt für Wirtschaft und Ausfuhrkontrolle.
+Kriegswaffen § 4 Abs. 3, § 45 Abs. 1 und 2 sowie § 36, die
+Vorschriften einer Rechtsverordnung nach § 36 Absatz 5 und § 52 Absatz
+3 Nummer 7a anzuwenden. Auf Verstöße gegen § 59 Abs. 2 des
+Waffengesetzes in der vor dem 1. Juli 1976 geltenden Fassung und gegen
+§ 58 Abs. 1 des Waffengesetzes in der vor dem 1. April 2003 geltenden
+Fassung ist § 52 Abs. 3 Nr. 1 anzuwenden. Zuständige Behörde für
+Maßnahmen nach Satz 2 ist das Bundesamt für Wirtschaft und
+Ausfuhrkontrolle.
 
 (2) Wird die Anlage zu dem Gesetz über die Kontrolle von Kriegswaffen
 (Kriegswaffenliste) geändert und verlieren deshalb tragbare
@@ -3270,20 +3534,26 @@ Bekanntmachung vom 8. März 1976 (BGBl. I S. 432) ausgesprochenen
 Verbote gelten in dem bisherigen Umfang als Verbote nach § 41 dieses
 Gesetzes.
 
-(7) Hat jemand am 1. April 2003 eine bislang nicht einem Verbot nach §
-37 Abs. 1 des Waffengesetzes in der Fassung der Bekanntmachung vom 8.
-März 1976 (BGBl. I S. 432) unterliegende Waffe im Sinne der Anlage 2
-Abschnitt 1 dieses Gesetzes besessen, so wird das Verbot nicht
-wirksam, wenn er bis zum 31. August 2003 diese Waffe unbrauchbar
-macht, einem Berechtigten überlässt oder einen Antrag nach § 40 Abs. 4
-dieses Gesetzes stellt. § 46 Abs. 3 Satz 2 und Abs. 5 findet
-entsprechend Anwendung.
+(7) Besitzt eine Person am 6. Juli 2017 ein Geschoss, das nicht dem
+bis zum 5. Juli 2017 geltenden Verbot der Anlage 2 Abschnitt 1 Nummer
+1\.5.4 unterfiel, so wird das Verbot nach Anlage 2 Abschnitt 1 Nummer
+1\.5.4 gegenüber dieser Person nicht wirksam, wenn
 
-(8) Wer eine am 25. Juli 2009 unerlaubt besessene Waffe bis zum 31.
-Dezember 2009 unbrauchbar macht, einem Berechtigten überlässt oder der
-zuständigen Behörde oder einer Polizeidienststelle übergibt, wird
-nicht wegen unerlaubten Erwerbs, unerlaubten Besitzes oder unerlaubten
-Verbringens bestraft. Satz 1 gilt nicht, wenn
+1.  sie bis zum 1. Juli 2018 einen Antrag nach § 40 Absatz 4 stellt und
+
+
+2.  ihr daraufhin eine Erlaubnis nach § 40 Absatz 4 erteilt wird.
+
+
+
+§ 46 Abs. 3 Satz 2 und Abs. 5 findet entsprechend Anwendung.
+
+(8) Wer eine am 6. Juli 2017 unerlaubt besessene Waffe oder unerlaubt
+besessene Munition bis zum 1. Juli 2018 der zuständigen Behörde oder
+einer Polizeidienststelle übergibt, wird nicht wegen unerlaubten
+Erwerbs, unerlaubten Besitzes, unerlaubten Führens auf dem direkten
+Weg zur Übergabe an die zuständige Behörde oder Polizeidienststelle
+oder wegen unerlaubten Verbringens bestraft. Satz 1 gilt nicht, wenn
 
 1.  vor der Unbrauchbarmachung, Überlassung oder Übergabe dem bisherigen
     Besitzer der Waffe die Einleitung des Straf- oder Bußgeldverfahrens
@@ -3338,7 +3608,20 @@ Verwaltungsvorschriften für ihren Geschäftsbereich im Einvernehmen mit
 dem Bundesministerium des Innern.
 
 
-### Anlage 1 (zu § 1 Abs. 4) Begriffsbestimmungen
+### § 60 Übergangsvorschrift
+
+Die Kostenverordnung zum Waffengesetz in der Fassung der
+Bekanntmachung vom 20. April 1990 (BGBl. I S. 780), die zuletzt durch
+Artikel 2 der Verordnung vom 10. Januar 2000 (BGBl. I S. 38) geändert
+worden ist, gilt in den Ländern bis zum 1. Oktober 2021 fort, solange
+die Länder keine anderweitigen Regelungen getroffen haben; für die
+Erhebung von Auslagen ist insoweit § 10 des Verwaltungskostengesetzes
+vom 23. Juni 1970 in der bis zum
+14\. August 2013 geltenden Fassung weiter anzuwenden.
+
+(zu § 1 Abs. 4)
+
+### Anlage 1 Begriffsbestimmungen
 
 ( Fundstelle: BGBl. I 2002, 3994 - 3998;
 bzgl. der einzelnen Änderungen vgl. Fußnote )
@@ -3361,13 +3644,38 @@ Den Schusswaffen stehen gleich tragbare Gegenstände,
 die zum Abschießen von Munition für die in Nummer 1.1 genannten Zwecke
 bestimmt sind,
 1\.2.2
+die in Anhang IV Nummer 18 der Richtlinie 2006/42/EG des Europäischen
+Parlaments und des Rates vom 17. Mai 2006 über Maschinen und zur
+Änderung der Richtlinie 95/16/EG (Neufassung) (ABl. L 157 vom
+9\.6.2006, S. 24; L 76 vom 16.3.2007, S. 35), die zuletzt durch die
+Verordnung (EU) Nr. 167/2013 (ABl. L 60 vom 2.3.2013, S. 1) geändert
+worden ist, aufgeführt sind und zum Abschießen von Munition für andere
+als die in Nummer 1.1 genannten Zwecke (insbesondere Schlachtzwecke,
+technische und industrielle Zwecke) bestimmt sind (tragbare
+Befestigungsgeräte mit Treibladung und andere Schussgeräte), sofern
+
+a)  sie nicht die Anforderungen des § 7 des Beschussgesetzes erfüllen und
+    zum Nachweis das Kennzeichen der in § 20 Absatz 3 Satz 1 des
+    Beschussgesetzes bezeichneten Stelle oder ein anerkanntes Prüfzeichen
+    eines Staates, mit dem die gegenseitige Anerkennung der Prüfzeichen
+    vereinbart ist, tragen oder
+
+
+b)  bei ihnen nicht die Einhaltung der Anforderungen nach Anhang I Nummer
+    2\.2.2.1 der Richtlinie 2006/42/EG durch Bescheinigung einer
+    zuständigen Stelle eines Mitgliedstaates oder des Übereinkommens über
+    den Europäischen Wirtschaftsraum nachgewiesen ist,
+
+
+
+1\.2.3
 bei denen bestimmungsgemäß feste Körper gezielt verschossen werden,
 deren Antriebsenergie durch Muskelkraft eingebracht und durch eine
 Sperrvorrichtung gespeichert werden kann (z. B. Armbrüste). Dies gilt
 nicht für feste Körper, die mit elastischen Geschossspitzen (z. B.
 Saugnapf aus Gummi) versehen sind, bei denen eine maximale
 Bewegungsenergie der Geschossspitzen je Flächeneinheit von 0,16 J/cm
-2              nicht überschritten wird;
+2 nicht überschritten wird;
 1\.3
 Wesentliche Teile von Schusswaffen, Schalldämpfer
 Wesentliche Teile von Schusswaffen und Schalldämpfer stehen, soweit in
@@ -3411,50 +3719,13 @@ können. Schalldämpfer sind Vorrichtungen, die der wesentlichen
 Dämpfung des Mündungsknalls dienen und für Schusswaffen bestimmt sind;
 1\.4
 Unbrauchbar gemachte Schusswaffen (Dekorationswaffen)
-Schusswaffen sind dann unbrauchbar, wenn
-1\.4.1
-das Patronenlager dauerhaft so verändert ist, dass weder Munition noch
-Treibladungen geladen werden können,
-1\.4.2
-der Verschluss dauerhaft funktionsunfähig gemacht worden ist,
-1\.4.3
-in Griffstücken oder anderen wesentlichen Waffenteilen für Handfeuer-
-Kurzwaffen der Auslösemechanismus dauerhaft funktionsunfähig gemacht
-worden ist,
-1\.4.4
-bei Kurzwaffen der Lauf auf seiner ganzen Länge, im Patronenlager
-beginnend,
-
--   bis zur Laufmündung einen durchgehenden Längsschlitz von mindestens 4
-    mm Breite oder
-
-
--   im Abstand von jeweils 3 cm, mindestens jedoch 3 kalibergroße
-    Bohrungen oder
-
-
--   andere gleichwertige Laufveränderungen
-
-
-
-aufweist,
-1\.4.5
-bei Langwaffen der Lauf in dem dem Patronenlager zugekehrten Drittel
-
--   mindestens 6 kalibergroße Bohrungen oder
-
-
--   andere gleichwertige Laufveränderungen
-
-
-
-aufweist und vor diesen in Richtung der Laufmündung mit einem
-kalibergroßen gehärteten Stahlstift dauerhaft verschlossen ist,
-1\.4.6
-dauerhaft unbrauchbar gemacht oder geworden ist eine Schusswaffe dann,
-wenn mit allgemein gebräuchlichen Werkzeugen die Schussfähigkeit der
-Waffe oder die Funktionsfähigkeit der wesentlichen Teile nicht
-wiederhergestellt werden kann.
+Schusswaffen sind unbrauchbar, wenn sie gemäß ihrem Waffentyp und in
+jedem wesentlichen Bestandteil den Maßgaben des Anhangs I Tabelle I
+bis III der Durchführungsverordnung (EU) 2015/2403 der Kommission vom
+15\. Dezember 2015 zur Festlegung gemeinsamer Leitlinien über
+Deaktivierungsstandards und -techniken, die gewährleisten, dass
+Feuerwaffen bei der Deaktivierung endgültig unbrauchbar gemacht werden
+(ABl. L 333 vom 19.12.2015, S. 62), entsprechen.
 1\.5
 Salutwaffen
 Salutwaffen sind veränderte Langwaffen, die u. a. für
@@ -3666,7 +3937,7 @@ a)  eine angriffsunfähig machende Wirkung durch ein gezieltes Versprühen
 
 b)  eine gesundheitsschädliche Wirkung durch eine andere als kinetische
     Energie, insbesondere durch ein gezieltes Ausstrahlen einer
-    elektromagnetischen Strahlung
+    elektromagnetischen Strahlung,
 
 
 
@@ -3686,9 +3957,9 @@ Drosseln die Gesundheit zu schädigen,
 1\.3
 Schleudern, die zur Erreichung einer höchstmöglichen Bewegungsenergie
 eine Armstütze oder eine vergleichbare Vorrichtung besitzen oder für
-eine solche Vorrichtung eingerichtet sind (Präzisionsschleudern) sowie
-Armstützen und vergleichbare Vorrichtungen für die vorbezeichneten
-Gegenstände.
+eine solche Vorrichtung eingerichtet sind (Präzisionsschleudern),
+sowie Armstützen und vergleichbare Vorrichtungen für die
+vorbezeichneten Gegenstände.
 2\.
 Tragbare Gegenstände im Sinne des § 1 Abs. 2 Nr. 2 Buchstabe b sind
 2\.1
@@ -3714,11 +3985,6 @@ mechanischen Energie Tieren Schmerzen beibringen (z. B.
 Elektroimpulsgeräte), mit Ausnahme der ihrer Bestimmung entsprechend
 im Bereich der Tierhaltung oder bei der sachgerechten Hundeausbildung
 Verwendung findenden Gegenstände (z. B. Viehtreiber).
-2\.2.1
-die bestimmungsgemäß unter Ausnutzung einer anderen als mechanischen
-Energie Tieren Verletzungen beibringen (z. B. Elektroimpulsgeräte),
-mit Ausnahme der ihrer Bestimmung entsprechend im Bereich der
-Tierhaltung Verwendung findenden Gegenstände.
 
 Unterabschnitt 3:
 Munition und Geschosse
@@ -3837,7 +4103,11 @@ gespannt ist;
 13\.
 ist eine Schusswaffe zugriffsbereit, wenn sie unmittelbar in Anschlag
 gebracht werden kann; sie ist nicht zugriffsbereit, wenn sie in einem
-verschlossenen Behältnis mitgeführt wird.
+verschlossenen Behältnis mitgeführt wird;
+14\.
+sind Mitgliedstaaten die Mitgliedstaaten der Europäischen Union und
+gelten als Mitgliedstaaten auch die Vertragsstaaten des Schengener
+Übereinkommens.
 
 Abschnitt 3:
 Einteilung der Schusswaffen oder Munition in die Kategorien A bis D
@@ -3878,8 +4148,8 @@ mit allgemein gebräuchlichen Werkzeugen nicht zu Waffen, deren Magazin
 und Patronenlager mehr als drei Patronen aufnehmen kann, umgebaut
 werden können,
 2\.6
-lange Repetier-Schusswaffen und halbautomatische Schusswaffen mit
-glattem Lauf, deren Lauf nicht länger als 60 cm ist,
+lange Repetier-Schusswaffen und halbautomatische Schusswaffen jeweils
+mit glattem Lauf, deren Lauf nicht länger als 60 cm ist,
 2\.7
 zivile halbautomatische Schusswaffen, die wie vollautomatische
 Kriegswaffen aussehen.
@@ -3898,8 +4168,9 @@ einer Gesamtlänge von 28 cm.
 4\.1
 lange Einzellader-Schusswaffen mit glattem Lauf/glatten Läufen.
 
+(zu § 2 Abs. 2 bis 4)
 
-### Anlage 2 (zu § 2 Abs. 2 bis 4) Waffenliste
+### Anlage 2 Waffenliste
 
 (Fundstelle: BGBl. I 2002, 3999 - 4002;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -3918,7 +4189,7 @@ Schusswaffen im Sinne des § 1 Abs. 2 Nr. 1 nach den Nummern 1.2.1 bis
 1\.2.3 und deren Zubehör nach Nummer 1.2.4, die
 1\.2.1.1
 Vollautomaten im Sinne der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr.
-2\.2 oder
+2\.2 sind oder
 1\.2.1.2
 Vorderschaftrepetierflinten, bei denen anstelle des Hinterschaftes ein
 Kurzwaffengriff vorhanden ist oder die Waffengesamtlänge in der
@@ -4038,11 +4309,11 @@ Geschosse im Durchmesser kleiner sind als die Felddurchmesser der
 dazugehörigen Schusswaffen und die mit einer Treib- und Führungshülse
 umgeben sind, die sich nach Verlassen des Laufes vom Geschoss trennt;
 1\.5.4
-Patronenmunition mit Geschossen, die einen Leuchtspur-, Brand- oder
-Sprengsatz oder einen Hartkern (mindestens 400 HB 25 - Brinellhärte -
-bzw. 421 HV - Vickershärte -) enthalten, ausgenommen pyrotechnische
-Munition, die bestimmungsgemäß zur Signalgebung bei der Gefahrenabwehr
-dient;
+Munition und Geschosse nach Anlage 1 Abschnitt 3 Nummer 1.5 sowie
+Munition mit Geschossen, die einen Hartkern (mindestens 400 HB 25 –
+Brinellhärte – bzw. 421 HV – Vickershärte –) enthalten, sowie
+entsprechende Geschosse, ausgenommen pyrotechnische Munition, die
+bestimmungsgemäß zur Signalgebung bei der Gefahrenabwehr dient;
 1\.5.5
 Knallkartuschen, Reiz- und sonstige Wirkstoffmunition nach Tabelle 5
 der Maßtafeln nach § 1 Abs. 3 Satz 3 der Dritten Verordnung zum
@@ -4207,7 +4478,7 @@ tragen;
 veränderte Langwaffen, die zu Theateraufführungen, Foto-, Film- oder
 Fernsehaufnahmen bestimmt sind (Salutwaffen), wenn sie entsprechend
 den Anforderungen der Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. 1.5
-abgeändert worden sind.
+abgeändert worden sind;
 7\.4
 Schusswaffen, die vor dem 1. April 1976 entsprechend den Anforderungen
 des § 3 der Ersten Verordnung zum Waffengesetz vom 19. Dezember 1972
@@ -4227,12 +4498,19 @@ Armbrüste;
 pyrotechnische Munition, die das Zulassungszeichen nach Anlage II
 Abbildung 5 zur Dritten Verordnung zum Waffengesetz in der Fassung der
 Bekanntmachung vom 2. September 1991 (BGBl. I S. 1872) mit der
-Klassenbezeichnung PM I trägt.
+Klassenbezeichnung PM I trägt;
+7\.10
+Kartuschenmunition für die nach Nummer 7.3 abgeänderten Schusswaffen
+sowie für Schussapparate nach § 7 des Beschussgesetzes.
 8\.
 Erlaubnisfreies Verbringen und erlaubnisfreie Mitnahme aus dem
-Geltungsbereich des Gesetzes in einen Staat, der nicht Mitgliedstaat
-der Europäischen Union ist
-Sämtliche Waffen im Sinne des § 1 Absatz 2.
+Geltungsbereich dieses Gesetzes in einen Staat, der nicht
+Mitgliedstaat ist (Drittstaat)
+8\.1
+Sämtliche Waffen im Sinne des § 1 Absatz 2 und die hierfür bestimmte
+Munition. Außenwirtschaftsrechtliche Genehmigungspflichten,
+insbesondere nach der in § 48 Absatz 3a genannten Verordnung (EU) Nr.
+258/2012, bleiben hiervon unberührt.
 Unterabschnitt 3:
 Entbehrlichkeit einzelner Erlaubnisvoraussetzungen
 1\.
@@ -4258,8 +4536,31 @@ Abschnitt 3:
 Vom Gesetz ganz oder teilweise ausgenommene Waffen
 Unterabschnitt 1:
 Vom Gesetz mit Ausnahme von § 2 Abs. 1 und § 41 ausgenommene Waffen
+1\.
 Unterwassersportgeräte, bei denen zum Antrieb der Geschosse keine
 Munition verwendet wird (Harpunengeräte).
+2\.
+Geräte nach Anhang IV Nummer 18 der Richtlinie 2006/42/EG, die zum
+Abschießen von Munition für andere als die in Anlage 1 Abschnitt 1
+Unterabschnitt 1 Nummer 1.1 genannten Zwecke (insbesondere
+Schlachtzwecke, technische und industrielle Zwecke) bestimmt sind
+(tragbare Befestigungsgeräte mit Treibladung und andere Schussgeräte)
+und
+
+a)  die die Anforderungen nach § 7 des Beschussgesetzes erfüllen und zum
+    Nachweis das Kennzeichen der in § 20 Absatz 3 Satz 1 des
+    Beschussgesetzes bezeichneten Stelle oder ein anerkanntes Prüfzeichen
+    eines Staates, mit dem die gegenseitige Anerkennung von Prüfzeichen
+    vereinbart ist, tragen oder
+
+
+b)  bei denen die Einhaltung der Anforderungen nach Anhang I Nummer
+    2\.2.2.1 der Richtlinie 2006/42/EG durch Bescheinigung einer
+    zuständigen Stelle eines Mitgliedstaates oder des Übereinkommens über
+    den Europäischen Wirtschaftsraum nachgewiesen ist.
+
+
+
 Unterabschnitt 2:
 Vom Gesetz mit Ausnahme des § 42a ausgenommene Waffen
 1\.

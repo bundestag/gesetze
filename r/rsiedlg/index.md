@@ -26,7 +26,7 @@ Zuletzt geändert durch
 ### § 1
 
 (1) Die
-Bundesstaaten              sind verpflichtet, wo gemeinnützige
+Bundesstaaten sind verpflichtet, wo gemeinnützige
 Siedlungsunternehmungen nicht vorhanden sind, solche zu begründen zur
 Schaffung neuer Ansiedlungen sowie zur Hebung bestehender
 Kleinbetriebe, doch höchstens auf die Größe einer selbständigen
@@ -57,9 +57,9 @@ auch mit der Durchführung von Umsiedlungen beauftragt werden.
 (2) An der Aufsicht über das Siedlungswesen sind Vertrauensleute der
 Ansiedler und der alten Besitzer mit beschließender Stimme nach
 näherer Bestimmung der
-Bundesstaaten              zu beteiligen. Dieser Beteiligung an der
-Aufsicht bedarf es nicht, soweit solche Vertrauensleute in den
-Aufsichtsrat der einzelnen Siedlungsunternehmungen berufen werden.
+Bundesstaaten zu beteiligen. Dieser Beteiligung an der Aufsicht bedarf
+es nicht, soweit solche Vertrauensleute in den Aufsichtsrat der
+einzelnen Siedlungsunternehmungen berufen werden.
 
 
 ## - - Bereitstellung
@@ -99,7 +99,7 @@ kann dann eine höhere Entschädigung festsetzen, wenn besondere
 Verhältnisse dies als angemessen erscheinen lassen. ... Im übrigen
 bleibt die Regelung der Enteignung, einschließlich der Rechtsbehelfe
 gegen die Festsetzung der Entschädigung, den
-Bundesstaaten              vorbehalten.
+Bundesstaaten vorbehalten.
 
 
 ## - - Vorkaufsrecht des Siedlungsunternehmens
@@ -357,7 +357,7 @@ Enteignung ist der Eigentümer und der Betriebsrat des Gutes zu hören.
 
 (4) Im übrigen bleibt die Regelung der Enteignung einschließlich der
 Rechtsbehelfe gegen die Festsetzung der Entschädigung den
-Bundesstaaten              vorbehalten.
+Bundesstaaten vorbehalten.
 
 
 ### § 16
@@ -418,8 +418,8 @@ zu entrichtenden Erwerbspreis zu zahlen,
 
 
 (2) Der
-Reichsarbeitsminister              bestimmt, inwieweit dem
-Erwerbspreis Kosten zugerechnet werden dürfen.
+Reichsarbeitsminister bestimmt, inwieweit dem Erwerbspreis Kosten
+zugerechnet werden dürfen.
 
 (3) Aufwendungen des Landlieferungsverbandes, die nicht gemäß Absatz 2
 dem von dem Siedlungsunternehmen zu zahlenden Preise zugerechnet
@@ -518,7 +518,7 @@ entsprechend.
 
 (4) Im übrigen bleibt die Regelung der Zwangspachtung und Enteignung
 den
-Bundesstaaten              vorbehalten.
+Bundesstaaten vorbehalten.
 
 
 ### § 25
@@ -582,11 +582,11 @@ gleichen Konfession zu erfolgen.
 ### § 26
 
 Der
-Reichsarbeitsminister              ist ermächtigt, soweit nichts
-anderes bestimmt ist, nähere Vorschriften, insbesondere zur Ausführung
-dieses Gesetzes, zu erlassen. Soweit er von dieser Befugnis keinen
-Gebrauch macht, können die Landeszentralbehörden die erforderlichen
-Vorschriften erlassen.
+Reichsarbeitsminister ist ermächtigt, soweit nichts anderes bestimmt
+ist, nähere Vorschriften, insbesondere zur Ausführung dieses Gesetzes,
+zu erlassen. Soweit er von dieser Befugnis keinen Gebrauch macht,
+können die Landeszentralbehörden die erforderlichen Vorschriften
+erlassen.
 
 
 ### § 27
@@ -604,8 +604,7 @@ Siedlungszwecken jedoch nicht enteignet werden.
 Soweit durch landesrechtliche Regelung die Beschaffung von
 landwirtschaftlichem Siedlungslande bereits in ausreichender Weise
 gesichert ist, kann der
-Reichsarbeitsminister              Ausnahmen von diesem Gesetze
-zulassen.
+Reichsarbeitsminister Ausnahmen von diesem Gesetze zulassen.
 
 
 ### § 29
@@ -614,11 +613,10 @@ zulassen.
 Siedlungsverfahren im Sinne dieses Gesetzes dienen, sind, soweit sie
 nicht im Wege des ordentlichen Rechtsstreits vorgenommen werden, von
 allen Gebühren, ... und Steuern des
-Reichs,              der
-Bundesstaaten              und sonstigen öffentlichen Körperschaften
-befreit. Die Befreiung erstreckt sich insbesondere auch auf Umsatz-
-und
-Wertzuwachs             steuern jeder Art,
+Reichs, der
+Bundesstaaten und sonstigen öffentlichen Körperschaften befreit. Die
+Befreiung erstreckt sich insbesondere auch auf Umsatz- und
+Wertzuwachssteuern jeder Art,
 auf letztere insbesondere auch dann, wenn sie von dem Erwerbe von Land
 oder Inventar durch das gemeinnützige Siedlungsunternehmen erhoben
 werden.
@@ -646,8 +644,9 @@ Finanzbehörden.
 
 Dieses Gesetz tritt mit dem Tage der Verkündung in Kraft.
 
+Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. VI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1017)
+### Anhang EV (BGBl. II 1990, 889, 1017)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

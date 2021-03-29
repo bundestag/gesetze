@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 5 
   Mark (Gedenkmünze Friedrich der Große)
 jurabk: Münz5DMBek 1986-09
 layout: default
-origslug: m_nz5dmbek_1986-09
+origslug: muenz5dmbek_1986-09
 slug: muenz5dmbek_1986-09
 
 ---
@@ -62,8 +62,8 @@ Münzzeichen "F" der Staatlichen Münze Stuttgart und die Umschrift:
 
 (7) Die Jahreszahl 1986 ist Teil der Umschrift und schließt sich dem
 Wort
-"MARK"              an. Links davon im Feld (zwischen Jahreszahl und
-Adler) befindet sich das Münzzeichen "F".
+"MARK" an. Links davon im Feld (zwischen Jahreszahl und Adler)
+befindet sich das Münzzeichen "F".
 
 *   Der glatte Münzrand enthält die vertiefte Inschrift:
 

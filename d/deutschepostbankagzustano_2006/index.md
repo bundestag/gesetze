@@ -1,5 +1,5 @@
 ---
-Title: Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den Bereich
+Title: Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den  Bereich
   der Deutschen Postbank AG
 jurabk: DeutschePostbankAGZustAnO 2006
 layout: default
@@ -8,7 +8,7 @@ slug: deutschepostbankagzustano_2006
 
 ---
 
-# Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den Bereich der Deutschen Postbank AG (DeutschePostbankAGZustAnO 2006)
+# Anordnung zur Übertragung dienstrechtlicher Zuständigkeiten für den  Bereich der Deutschen Postbank AG (DeutschePostbankAGZustAnO 2006)
 
 Ausfertigungsdatum
 :   2006-05-24

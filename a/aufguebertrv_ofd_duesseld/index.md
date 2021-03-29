@@ -2,7 +2,7 @@
 Title: Verordnung zur Übertragung von Aufgaben der Oberfinanzdirektion Düsseldorf
 jurabk: AufgÜbertrV OFD Düsseld
 layout: default
-origslug: aufg_bertrv_ofd_d_sseld
+origslug: aufguebertrv_ofd_duesseld
 slug: aufguebertrv_ofd_duesseld
 
 ---

@@ -1,14 +1,14 @@
 ---
-Title: Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden Nebenstrecken
+Title: Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden  Nebenstrecken
   auf die Hansestadt Lübeck
 jurabk: WaStrTraveÜbgV
 layout: default
-origslug: wastrtrave_bgv
+origslug: wastrtraveuebgv
 slug: wastrtraveuebgv
 
 ---
 
-# Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden Nebenstrecken auf die Hansestadt Lübeck (WaStrTraveÜbgV)
+# Verordnung über den Übergang von zur Bundeswasserstraße Trave gehörenden  Nebenstrecken auf die Hansestadt Lübeck (WaStrTraveÜbgV)
 
 Ausfertigungsdatum
 :   2007-06-29

@@ -19,10 +19,7 @@ Neugefasst durch
 :   Bek. v. 7.8.2002 I 3146;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 19.10.2012 I 2192
-
-Mittelbare änderung durch
-:   Art. 11a G v. 19.10.2012 I 2192 ist berücksichtigt
+:   Art. 7 G v. 18.7.2017 I 2757
 
 Dieses Gesetz dient der Umsetzung
 
@@ -710,22 +707,7 @@ können durch Rechtsverordnung nach § 37 Abs. 2, Regelungen über die
 Vertriebswege von Medizinprodukten durch Rechtsverordnung nach § 37
 Abs. 3 getroffen werden.
 
-(3a) In-vitro-Diagnostika zur Erkennung von HIV-Infektionen dürfen nur
-an
-
-1.  Ärzte,
-
-
-2.  ambulante und stationäre Einrichtungen im Gesundheitswesen, Großhandel
-    und Apotheken,
-
-
-3.  Gesundheitsbehörden des Bundes, der Länder, der Gemeinden und
-    Gemeindeverbände
-
-
-
-abgegeben werden.
+(3a) weggefallen
 
 (4) Durch Rechtsverordnung nach § 37 Abs. 4 können Regelungen für
 Betriebe und Einrichtungen erlassen werden, die Medizinprodukte in
@@ -786,14 +768,38 @@ Klassifizierung erfolgt nach den Klassifizierungsregeln des Anhangs IX
 der Richtlinie 93/42/EWG.
 
 (2) Bei Meinungsverschiedenheiten zwischen dem Hersteller und einer
-Benannten Stelle über die Anwendung der vorgenannten Regeln hat die
-Benannte Stelle der zuständigen Bundesoberbehörde die Angelegenheit
-zur Entscheidung vorzulegen.
+Benannten Stelle über
+
+1.  die Anwendung der vorgenannten Regeln,
+
+
+2.  die Abgrenzung von Medizinprodukten zu anderen Produkten oder
+
+
+3.  die Einstufung, ob es sich bei Medizinprodukten der Klasse I um solche
+    mit Messfunktion oder um steril in Verkehr gebrachte Medizinprodukte
+    handelt,
+
+
+
+hat die Benannte Stelle der zuständigen Bundesoberbehörde die
+Angelegenheit zur Entscheidung vorzulegen.
 
 (3) Die zuständige Bundesoberbehörde entscheidet ferner auf Antrag
-einer zuständigen Behörde oder des Herstellers über die
-Klassifizierung einzelner Medizinprodukte oder über die Abgrenzung von
-Medizinprodukten zu anderen Produkten.
+einer zuständigen Behörde oder des Herstellers über
+
+1.  die Klassifizierung einzelner Medizinprodukte,
+
+
+2.  die Abgrenzung von Medizinprodukten zu anderen Produkten oder
+
+
+3.  die Einstufung, ob es sich bei Medizinprodukten der Klasse I um solche
+    mit Messfunktion oder um steril in Verkehr gebrachte Medizinprodukte
+    handelt.
+
+
+
 
 (4) Die zuständige Behörde übermittelt alle Entscheidungen über die
 Klassifizierung von Medizinprodukten und zur Abgrenzung von
@@ -803,13 +809,12 @@ und Nutzung nach § 33 Abs. 1 Satz 1. Dies gilt für Entscheidungen der
 zuständigen Bundesoberbehörde nach Absatz 2 und 3 entsprechend.
 
 
-### § 14 Errichten, Betreiben, Anwenden und Instandhalten von Medizinprodukten
+### § 14 Tätigkeiten im Zusammenhang mit Medizinprodukten
 
 Medizinprodukte dürfen nur nach Maßgabe der Rechtsverordnung nach § 37
-Abs. 5 errichtet, betrieben, angewendet und in Stand gehalten werden.
-Sie dürfen nicht betrieben und angewendet werden, wenn sie Mängel
-aufweisen, durch die Patienten, Beschäftigte oder Dritte gefährdet
-werden können.
+Absatz 5 betrieben und angewendet werden. Medizinprodukte dürfen nicht
+betrieben und angewendet werden, wenn sie Mängel aufweisen, durch die
+Patienten, Beschäftigte oder Dritte gefährdet werden können.
 
 
 ## Dritter Abschnitt - Benannte Stellen und Bescheinigungen
@@ -818,48 +823,48 @@ werden können.
 
 ### § 15 Benennung und Überwachung der Stellen, Anerkennung und Beauftragung von Prüflaboratorien
 
-(1) Das Bundesministerium für Gesundheit teilt dem Bundesministerium
-für Wirtschaft und Technologie die von der zuständigen Behörde für die
-Durchführung von Aufgaben im Zusammenhang mit der
-Konformitätsbewertung nach Maßgabe der Rechtsverordnung nach § 37 Abs.
-1 benannten Stellen und deren Aufgabengebiete mit, die von diesem an
-die Europäische Kommission und die anderen Vertragsstaaten des
-Abkommens über den Europäischen Wirtschaftsraum weitergeleitet werden.
-Bei der zuständigen Behörde kann ein Antrag auf Benennung als Benannte
-Stelle gestellt werden. Voraussetzung für die Benennung ist, dass die
-Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie die
-Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des
-Anhangs XI der Richtlinie 93/42/EWG oder des Anhangs IX der Richtlinie
-98/79/EG entsprechend den Verfahren, für die sie benannt werden soll,
-durch die zuständige Behörde in einem Benennungsverfahren festgestellt
-wurden. Von den Stellen, die den Kriterien entsprechen, welche in den
-zur Umsetzung der einschlägigen harmonisierten Normen erlassenen
-einzelstaatlichen Normen festgelegt sind, wird angenommen, dass sie
-den einschlägigen Kriterien entsprechen. Die Benennung kann unter
-Auflagen erteilt werden und ist zu befristen. Erteilung, Ablauf,
-Rücknahme, Widerruf und Erlöschen der Benennung sind dem
-Bundesministerium für Gesundheit unverzüglich anzuzeigen.
+(1) Bei der zuständigen Behörde kann ein Antrag auf Benennung als
+Benannte Stelle gestellt werden. Voraussetzung für die Benennung ist,
+dass die Befähigung der Stelle zur Wahrnehmung ihrer Aufgaben sowie
+die Einhaltung der Kriterien des Anhangs 8 der Richtlinie 90/385/EWG,
+des Anhangs XI der Richtlinie 93/42/EWG, des Anhangs IX der Richtlinie
+98/79/EG und der Durchführungsverordnung (EU) Nr. 920/2013 der
+Kommission vom 24. September 2013 über die Benennung und
+Beaufsichtigung benannter Stellen gemäß der Richtlinie
+90/385/EWG des Rates über aktive implantierbare medizinische Geräte
+und der Richtlinie
+93/42/EWG des Rates über Medizinprodukte (ABl. L 253 vom 25.9.2013, S.
+8) entsprechend den Verfahren, für die sie benannt werden soll, durch
+die zuständige Behörde in einem Benennungsverfahren festgestellt
+wurden. Die Benennung kann unter Auflagen erteilt werden und ist zu
+befristen. Die zuständige Behörde teilt der Europäischen Kommission
+die Benannten Stellen, die für Aufgaben im Zusammenhang mit der
+Durchführung von Konformitätsbewertungsverfahren nach Maßgabe der
+Rechtsverordnung nach § 37 Absatz 1 benannt wurden, sowie die
+Aufgabengebiete der Benannten Stellen mit.
 
 (2) Die zuständige Behörde überwacht die Einhaltung der in Absatz 1
 für Benannte Stellen festgelegten Verpflichtungen und Anforderungen.
-Sie trifft die zur Beseitigung festgestellter Mängel oder zur
-Verhütung künftiger Verstöße notwendigen Anordnungen. Die Überwachung
-der Benannten Stellen, die an der Durchführung von
-Konformitätsbewertungsverfahren für Medizinprodukte, die ionisierende
-Strahlen erzeugen oder radioaktive Stoffe enthalten, beteiligt sind,
-wird insoweit im Auftrag des Bundes durch die Länder ausgeführt. Die
-zuständige Behörde kann von der Benannten Stelle und ihrem mit der
-Leitung und der Durchführung von Fachaufgaben beauftragten Personal
-die zur Erfüllung ihrer Überwachungsaufgaben erforderlichen Auskünfte
-und sonstige Unterstützung verlangen; sie ist befugt, die Benannte
-Stelle bei Überprüfungen zu begleiten. Ihre Beauftragten sind befugt,
-zu den Betriebs- und Geschäftszeiten Grundstücke und Geschäftsräume
-sowie Prüflaboratorien zu betreten und zu besichtigen und die Vorlage
-von Unterlagen insbesondere über die Erteilung der Bescheinigungen und
-zum Nachweis der Erfüllung der Anforderungen des Absatzes 1 Satz 2 zu
-verlangen. Das Betretungsrecht erstreckt sich auch auf Grundstücke des
-Herstellers, soweit die Überwachung dort erfolgt. § 26 Abs. 4 und 5
-gilt entsprechend.
+Die zuständige Behörde trifft die Anordnungen, die zur Beseitigung
+festgestellter Mängel oder zur Verhütung künftiger Verstöße notwendig
+sind. Die Überwachung der Benannten Stellen, die an der Durchführung
+von Konformitätsbewertungsverfahren für Medizinprodukte, die
+ionisierende Strahlen erzeugen oder radioaktive Stoffe enthalten,
+beteiligt sind, wird im Auftrag des Bundes durch die Länder
+ausgeführt. Die zuständige Behörde kann von der Benannten Stelle und
+deren mit der Leitung und der Durchführung von Fachaufgaben
+beauftragten Personal die zur Erfüllung ihrer Überwachungsaufgaben
+erforderlichen Auskünfte und sonstige Unterstützung verlangen. Die
+zuständige Behörde ist befugt, die Benannte Stelle bei Überprüfungen
+zu begleiten. Die Beauftragten der zuständigen Behörde sind befugt, zu
+den üblichen Betriebs- und Geschäftszeiten Grundstücke und
+Geschäftsräume sowie Prüflaboratorien zu betreten und zu besichtigen
+und die Vorlage von Unterlagen, insbesondere Unterlagen über die
+Erteilung der Bescheinigungen und zum Nachweis der Erfüllung der
+Anforderungen des Absatzes 1 Satz 2, zu verlangen. Das Betretungsrecht
+erstreckt sich auch auf Grundstücke des Herstellers und seiner
+Unterauftragnehmer von entscheidender Bedeutung, soweit die
+Überwachung dort erfolgt. § 26 Absatz 4 und 5 gilt entsprechend.
 
 (3) Stellen, die der Europäischen Kommission und den anderen
 Mitgliedstaaten der Europäischen Union auf Grund eines Rechtsaktes des
@@ -867,17 +872,32 @@ Rates oder der Europäischen Kommission von einem Vertragsstaat des
 Abkommens über den Europäischen Wirtschaftsraum mitgeteilt wurden,
 sind Benannten Stellen nach Absatz 1 gleichgestellt.
 
-(4) Die deutschen Benannten Stellen werden mit ihren jeweiligen
-Aufgaben und ihrer Kennnummer von der zuständigen Behörde auf ihrer
-Internetseite bekannt gemacht.
+(4) Die zuständige Behörde macht die deutschen Benannten Stellen mit
+ihren jeweiligen Aufgaben und ihrer Kennnummer auf ihrer Internetseite
+bekannt.
 
 (5) Soweit eine Benannte Stelle zur Erfüllung ihrer Aufgaben
 Prüflaboratorien beauftragt, muss sie sicherstellen, dass diese die
-Kriterien des Anhangs 8 der Richtlinie 90/385/EWG, des Anhangs XI der
-Richtlinie 93/42/EWG oder des Anhangs IX der Richtlinie 98/79/EG
-entsprechend den Verfahren, für die sie beauftragt werden sollen,
-erfüllen. Die Erfüllung der Mindestkriterien ist in einem
-Anerkennungsverfahren durch die zuständige Behörde festzustellen.
+auf sie zutreffenden Kriterien des Anhangs 8 der Richtlinie
+90/385/EWG, des Anhangs XI der Richtlinie
+93/42/EWG in Verbindung mit Anhang I der Durchführungsverordnung (EU)
+Nr. 920/2013 oder des Anhangs IX der Richtlinie 98/79/EG entsprechend
+den Verfahren, für die sie beauftragt werden sollen, erfüllen. Die
+Erfüllung der Mindestkriterien ist in einem Anerkennungsverfahren
+durch die zuständige Behörde festzustellen. Die Anerkennung kann unter
+Auflagen erteilt werden und ist zu befristen. Absatz 2 Satz 1, 2, 4
+bis 8 und Absatz 4 gelten entsprechend.
+
+(6) Die Anerkennung nach Absatz 5 erlischt mit Fristablauf, mit der
+Einstellung des Betriebs des Prüflaboratoriums oder durch Verzicht.
+Die Einstellung oder der Verzicht sind der zuständigen Behörde
+unverzüglich schriftlich mitzuteilen. Die zuständige Behörde nimmt die
+Anerkennung zurück, soweit nachträglich bekannt wird, dass ein
+Prüflaboratorium bei der Anerkennung nicht die Voraussetzungen für
+eine Anerkennung erfüllt hat. Sie widerruft die Anerkennung, soweit
+die Voraussetzungen für eine Anerkennung nachträglich weggefallen
+sind. An Stelle des Widerrufs kann das Ruhen der Anerkennung
+angeordnet werden.
 
 
 ### § 15a Benennung und Überwachung von Konformitätsbewertungsstellen für Drittstaaten
@@ -889,8 +909,8 @@ Konformitätsbewertung im Bereich der Medizinprodukte für den oder die
 genannten Drittstaaten im Rahmen des jeweiligen Abkommens der
 Europäischen Gemeinschaft oder der Europäischen Union mit dritten
 Staaten oder Organisationen nach Artikel 216 des Vertrages über die
-Arbeitsweise der Europäischen Union wahrzunehmen. § 15 Absatz 1 und 2
-gilt entsprechend.
+Arbeitsweise der Europäischen Union wahrzunehmen. § 15 Absatz 1, 2 und
+4 gilt entsprechend.
 
 (2) Grundlage für die Benennung als Konformitätsbewertungsstelle für
 Drittstaaten ist ein von der zuständigen Behörde durchgeführtes
@@ -900,9 +920,9 @@ jeweiligen Abkommen festgestellt wird.
 
 (3) Die Benennung als Konformitätsbewertungsstelle für Drittstaaten
 kann unter Auflagen erteilt werden und ist zu befristen. Erteilung,
-Ablauf, Rücknahme, Widerruf und Erlöschen der Benennung sind dem
-Bundesministerium für Gesundheit sowie den in den jeweiligen Abkommen
-genannten Institutionen unverzüglich anzuzeigen.
+Ablauf, Rücknahme, Widerruf und Erlöschen der Benennung sind der
+Europäischen Kommission sowie den in den jeweiligen Abkommen genannten
+Institutionen unverzüglich anzuzeigen.
 
 
 ### § 16 Erlöschen, Rücknahme, Widerruf und Ruhen der Benennung
@@ -924,16 +944,11 @@ Stelle verpflichtet, alle einschlägigen Informationen und Unterlagen
 der Benannten Stelle zur Verfügung zu stellen, mit der der Hersteller
 die Fortführung der Konformitätsbewertungsverfahren vereinbart.
 
-(4) Die zuständige Behörde teilt das Erlöschen, die Rücknahme und den
-Widerruf unverzüglich dem Bundesministerium für Gesundheit sowie den
-anderen zuständigen Behörden in Deutschland unter Angabe der Gründe
-und der für notwendig erachteten Maßnahmen mit. Das Bundesministerium
-für Gesundheit unterrichtet darüber unverzüglich das Bundesministerium
-für Wirtschaft und Technologie, das unverzüglich die Europäische
-Kommission und die anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum unterrichtet. Erlöschen, Rücknahme und
-Widerruf einer Benennung sind von der zuständigen Behörde auf deren
-Internetseite bekannt zu machen.
+(4) Die zuständige Behörde teilt der Europäischen Kommission
+unverzüglich das Erlöschen, die Rücknahme und den Widerruf unter
+Angabe der Gründe und der für notwendig erachteten Maßnahmen mit.
+Erlöschen, Rücknahme und Widerruf einer Benennung sind von der
+zuständigen Behörde auf deren Internetseite bekannt zu machen.
 
 (5) Die Absätze 1, 2 und 4 gelten für Konformitätsbewertungsstellen
 für Drittstaaten entsprechend.
@@ -946,7 +961,7 @@ Konformitätsbewertungsverfahrens nach Maßgabe der Rechtsverordnung
 nach § 37 Abs. 1 erteilte Bescheinigung eine begrenzte Geltungsdauer
 hat, kann die Geltungsdauer auf Antrag um jeweils höchstens fünf Jahre
 verlängert werden. Sollte diese Benannte Stelle nicht mehr bestehen
-oder anderen Gründe den Wechsel der Benannten Stelle erfordern, kann
+oder andere Gründe den Wechsel der Benannten Stelle erfordern, kann
 der Antrag bei einer anderen Benannten Stelle gestellt werden.
 
 (2) Mit dem Antrag auf Verlängerung ist ein Bericht einzureichen, der
@@ -1676,11 +1691,14 @@ allgemeine Verwaltungsvorschrift nach § 37a.
 
 (3) Die mit der Überwachung beauftragten Personen sind befugt,
 
-1.  Grundstücke, Geschäftsräume, Betriebsräume, Beförderungsmittel und zur
-    Verhütung drohender Gefahr für die öffentliche Sicherheit und Ordnung
-    auch Wohnräume zu den üblichen Geschäftszeiten zu betreten und zu
-    besichtigen, in denen eine Tätigkeit nach Absatz 1 ausgeübt wird; das
-    Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
+1.  Grundstücke, Geschäftsräume, Betriebsräume, Beförderungsmittel, in
+    denen eine Tätigkeit nach Absatz 1 ausgeübt wird, zu den üblichen
+    Geschäftszeiten und zur Verhütung dringender Gefahr für die
+    öffentliche Sicherheit und Ordnung auch Wohnräume, in denen eine
+    Tätigkeit nach Absatz 1 ausgeübt wird, zu betreten und zu besichtigen
+    sowie in Geschäftsräumen, Betriebsräumen und Beförderungsmitteln zur
+    Dokumentation bewegte und unbewegte Bildaufzeichnungen anzufertigen;
+    das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
     Grundgesetzes) wird insoweit eingeschränkt,
 
 
@@ -1692,12 +1710,23 @@ allgemeine Verwaltungsvorschrift nach § 37a.
     Prüfung, Leistungsbewertungsprüfung oder Erwerb, Aufbereitung,
     Lagerung, Verpackung, Inverkehrbringen und sonstigen Verbleib der
     Medizinprodukte sowie über das im Verkehr befindliche Werbematerial
-    einzusehen und hieraus in begründeten Fällen Abschriften oder
-    Ablichtungen anzufertigen,
+    einzusehen,
 
 
-4.  alle erforderlichen Auskünfte, insbesondere über die in Nummer 3
-    genannten Betriebsvorgänge, zu verlangen.
+4.  von natürlichen und juristischen Personen und nicht rechtsfähigen
+    Personenvereinigungen alle erforderlichen Auskünfte, insbesondere über
+    die in Nummer 3 genannten Betriebsvorgänge, zu verlangen,
+
+
+5.  Unterlagen und Dokumente, die nach Maßgabe der Verordnung nach § 37
+    Absatz 5 zu erstellen und zu führen sind, einzusehen,
+
+
+6.  Abschriften oder Ablichtungen von Unterlagen oder Dokumenten nach den
+    Nummern 3 und 5 oder Ausdrucke oder Kopien von Datenträgern, auf denen
+    Unterlagen oder Dokumente nach den Nummern 3 und 5 gespeichert sind,
+    anzufertigen oder zu verlangen, soweit es sich nicht um
+    personenbezogene Daten von Patienten handelt.
 
 
 
@@ -1963,10 +1992,10 @@ regelmäßige Schulung des Medizinprodukteberaters zu sorgen.
 (4) Der Medizinprodukteberater hat Mitteilungen von Angehörigen der
 Fachkreise über Nebenwirkungen, wechselseitige Beeinflussungen,
 Fehlfunktionen, technische Mängel, Gegenanzeigen, Verfälschungen oder
-sonstige Risiken bei Medizinprodukten schriftlich aufzuzeichnen und
-unverzüglich dem Verantwortlichen nach § 5 Satz 1 und 2 oder dessen
-Sicherheitsbeauftragten für Medizinprodukte schriftlich zu
-übermitteln.
+sonstige Risiken bei Medizinprodukten aufzuzeichnen und unverzüglich
+dem Verantwortlichen nach § 5 Satz 1 und 2 oder dessen
+Sicherheitsbeauftragten für Medizinprodukte schriftlich oder
+elektronisch zu übermitteln.
 
 
 ## Sechster Abschnitt - Zuständige Behörden, Rechtsverordnungen, sonstige Bestimmungen
@@ -2024,11 +2053,23 @@ Sicherung der Einheitlichkeit des Messwesens in der Heilkunde und hat
     entwickeln und auf Antrag zu prüfen und
 
 
-3.  die zuständigen Behörden und Benannten Stellen wissenschaftlich zu
-    beraten.
+3.  die Bundesoberbehörden, die zuständigen Behörden und Benannten Stellen
+    wissenschaftlich zu beraten.
 
 
 
+
+
+### § 32a Besondere Zuständigkeiten
+
+Die Bearbeitung von Meldungen der für die Kontrolle der Außengrenzen
+zuständigen Behörden über Aussetzungen gemäß Artikel 27 Absatz 3 Satz
+1 der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des
+Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung
+und Marktüberwachung im Zusammenhang mit der Vermarktung von Produkten
+und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L
+218 vom 13.8.2008, S. 30) obliegt der Überwachungsbehörde, die für die
+Zollstelle örtlich zuständig ist.
 
 
 ### § 33 Datenbankgestütztes Informationssystem, Europäische Datenbank
@@ -2094,15 +2135,12 @@ zuständigen Behörde über die jeweiligen Verbotsgründe informiert
 wurde.
 
 
-### § 35 Kosten
+### § 35 Gebühren und Auslagen
 
-Für Amtshandlungen nach diesem Gesetz und den zur Durchführung dieses
-Gesetzes erlassenen Rechtsverordnungen sind Kosten (Gebühren und
-Auslagen) nach Maßgabe der Rechtsverordnung nach § 37 Abs. 9 zu
-erheben. Soweit das Bundesministerium für Gesundheit von der
-Ermächtigung keinen Gebrauch macht, werden die Landesregierungen
-ermächtigt, entsprechende Vorschriften zu erlassen. Das
-Verwaltungskostengesetz findet Anwendung.
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
+und den zur Durchführung dieses Gesetzes erlassenen Rechtsverordnungen
+sind Gebühren und Auslagen nach Maßgabe der Rechtsverordnung nach § 37
+Absatz 9 zu erheben.
 
 
 ### § 36 Zusammenarbeit der Behörden und Benannten Stellen im Europäischen Wirtschaftsraum und der Europäischen Kommission
@@ -2334,15 +2372,16 @@ Näheres zu regeln, auch hinsichtlich der Art, des Umfangs und der
 Anforderungen an Daten. In dieser Rechtsverordnung können auch die
 Gebühren für Handlungen dieses Institutes festgelegt werden.
 
-(9) Das Bundesministerium für Gesundheit wird ermächtigt, durch
-Rechtsverordnung die gebührenpflichtigen Tatbestände nach § 35 zu
-bestimmen und dabei feste Sätze oder Rahmensätze vorzusehen. Die
-Gebührensätze sind so zu bemessen, dass der mit den Amtshandlungen
-verbundene Personal- und Sachaufwand abgedeckt ist. In der
+(9) Das Bundesministerium für Gesundheit wird ermächtigt, für den
+Bereich der Bundesverwaltung durch Rechtsverordnung die
+gebührenpflichtigen Tatbestände nach § 35 zu bestimmen und dabei feste
+Sätze oder Rahmensätze vorzusehen. Die Gebührensätze sind so zu
+bemessen, dass der mit den individuell zurechenbaren öffentlichen
+Leistungen verbundene Personal- und Sachaufwand abgedeckt ist. In der
 Rechtsverordnung kann bestimmt werden, dass eine Gebühr auch für eine
-Amtshandlung erhoben werden kann, die nicht zu Ende geführt worden
-ist, wenn die Gründe hierfür von demjenigen zu vertreten sind, der die
-Amtshandlung veranlasst hat.
+Leistung erhoben werden kann, die nicht zu Ende geführt worden ist,
+wenn die Gründe hierfür von demjenigen zu vertreten sind, der die
+Leistung veranlasst hat.
 
 (10) Das Bundesministerium für Gesundheit wird ermächtigt, durch
 Rechtsverordnung Regelungen zur Erfüllung von Verpflichtungen aus
@@ -2358,9 +2397,9 @@ die Benennung und Überwachung von Benannten Stellen, zu treffen.
 
 (11) Die Rechtsverordnungen nach den Absätzen 1 bis 10 ergehen mit
 Zustimmung des Bundesrates und im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie. Sie ergehen im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit, soweit der Strahlenschutz betroffen ist oder es
+Bundesministerium für Wirtschaft und Energie. Sie ergehen im
+Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit, soweit der Strahlenschutz betroffen ist oder es
 sich um Medizinprodukte handelt, bei deren Herstellung radioaktive
 Stoffe oder ionisierende Strahlen verwendet werden, und im
 Einvernehmen mit dem Bundesministerium für Arbeit und Soziales, soweit
@@ -2374,14 +2413,14 @@ Europäischen Gemeinschaft oder der Europäischen Union erforderlich
 ist. Die Rechtsverordnungen nach den Absätzen 1 bis 3 können ohne
 Zustimmung des Bundesrates erlassen werden, wenn unvorhergesehene
 gesundheitliche Gefährdungen dies erfordern. Soweit die
-Rechtsverordnung nach Absatz 9 Kosten von Bundesbehörden betrifft,
-bedarf sie nicht der Zustimmung des Bundesrates. Die
-Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen nicht des
-Einvernehmens mit den jeweils beteiligten Bundesministerien. Sie
-treten spätestens sechs Monate nach ihrem Inkrafttreten außer Kraft.
-Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates verlängert
-werden. Soweit der Strahlenschutz betroffen ist, bleibt Absatz 11
-unberührt.
+Rechtsverordnung nach Absatz 9 Gebühren und Auslagen von
+Bundesbehörden betrifft, bedarf sie nicht der Zustimmung des
+Bundesrates. Die Rechtsverordnungen nach den Sätzen 1 und 2 bedürfen
+nicht des Einvernehmens mit den jeweils beteiligten Bundesministerien.
+Sie treten spätestens sechs Monate nach ihrem Inkrafttreten außer
+Kraft. Ihre Geltungsdauer kann nur mit Zustimmung des Bundesrates
+verlängert werden. Soweit der Strahlenschutz betroffen ist, bleibt
+Absatz 11 unberührt.
 
 
 ### § 37a Allgemeine Verwaltungsvorschriften
@@ -2556,8 +2595,7 @@ Handlungen fahrlässig begeht.
     nicht beifügt,
 
 
-5.  entgegen § 11 Absatz 2 Satz 1 oder Absatz 3a ein Medizinprodukt
-    abgibt,
+5.  entgegen § 11 Absatz 2 Satz 1 ein Medizinprodukt abgibt,
 
 
 6.  entgegen § 12 Abs. 1 Satz 1 in Verbindung mit einer Rechtsverordnung
@@ -2596,22 +2634,24 @@ Handlungen fahrlässig begeht.
     Tätigkeit ausübt,
 
 
-15. entgegen § 31 Abs. 4 eine Mitteilung nicht, nicht richtig, nicht
-    vollständig oder nicht in der vorgeschriebenen Weise aufzeichnet oder
-    nicht oder nicht rechtzeitig übermittelt oder
+15. entgegen § 31 Abs. 4 eine Mitteilung nicht, nicht richtig oder nicht
+    vollständig aufzeichnet oder nicht, nicht richtig, nicht vollständig,
+    nicht in der vorgeschriebenen Weise oder nicht rechtzeitig übermittelt
+    oder
 
 
-16. einer Rechtsverordnung nach § 37 Abs. 1, 2a, 3, 4 Satz 1 oder 3, Abs.
-    5 Nr. 1, 2 Buchstabe a oder b Doppelbuchstabe bb oder Nr. 3, Abs. 7
-    oder 8 Satz 1 oder einer vollziehbaren Anordnung auf Grund einer
-    solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung
-    für einen bestimmten Tatbestand auf diese Bußgeldvorschrift verweist.
+16. einer Rechtsverordnung nach § 37 Abs. 1, 2, 2a, 3, 4 Satz 1 oder 3,
+    Abs. 5 Nr. 1, 1a, 2 Buchstabe a oder b Doppelbuchstabe bb oder Nr. 3,
+    Abs. 7 oder 8 Satz 1 oder einer vollziehbaren Anordnung auf Grund
+    einer solchen Rechtsverordnung zuwiderhandelt, soweit die
+    Rechtsverordnung für einen bestimmten Tatbestand auf diese
+    Bußgeldvorschrift verweist.
 
 
 
 
 (3) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfundzwanzigtausend Euro geahndet werden.
+dreißigtausend Euro geahndet werden.
 
 
 ### § 43 Einziehung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1785
 
 Zuletzt geändert durch
-:   Art. 67 G v. 19.9.2006 I 2146
+:   Art. 2 § 1 V v. 2.3.2017 I 330
 
 
 ## Eingangsformel
@@ -51,21 +51,44 @@ Im Sinne dieser Verordnung sind:
 
 3.  "Zentralstelle"
 
-    die Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei
-    der Wasser- und Schiffahrtsdirektion Südwest;
+    die Generaldirektion Wasserstraßen und Schifffahrt;
 
 
 4.  "Schiffe"
 
     Binnenschiffe, die zur Beförderung von Gütern bestimmt sind, und
-    andere auf Binnenwasserstraßen verkehrende Fahrzeuge (z.B.
+    andere auf Binnenwasserstraßen verkehrende Fahrzeuge (z. B.
     Fahrgastschiffe, Fähren, schwimmende Geräte, Schlepper, Schubboote);
 
 
 5.  "Antragsberechtigte"
 
     der Schiffseigentümer, der Schiffseigner oder eine von ihnen
-    beauftragte Person.
+    beauftragte Person;
+
+
+6.  „Schiffsregisterordnung“
+
+    Schiffsregisterordnung in der Fassung der Bekanntmachung vom 26. Mai
+    1994 (BGBl. I S. 1133), die zuletzt durch Artikel 2 des Gesetzes vom
+    20\. Dezember 2012 (BGBl. I S. 2792) geändert worden ist, in der
+    jeweils geltenden Fassung;
+
+
+7.  „Eichgesetz“
+
+    Eichgesetz in der Fassung der Bekanntmachung vom 23. März 1992 (BGBl.
+    I S. 711), das zuletzt durch Artikel 1 des Gesetzes vom 7. März 2011
+    (BGBl. I S. 338) geändert worden ist, in der jeweils geltenden
+    Fassung;
+
+
+8.  „Binnenschiffsuntersuchungsordnung“
+
+    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
+    2450), die zuletzt durch Artikel 1 der Verordnung vom 20. Dezember
+    2012 (BGBl. I S. 2802) geändert worden ist, in der jeweils geltenden
+    Fassung.
 
 
 
@@ -79,11 +102,13 @@ Bundeswasserstraßen.
 
 ### § 3 Schiffseichamt
 
-(1) Die Eichung von Schiffen obliegt der Zentralstelle mit ihren
-Außenstellen als Schiffseichamt.
+(1) Die Eichung von Schiffen obliegt der Zentralstelle mit ihrem
+Außendienst als Schiffseichamt.
 
-(2) Die Kennbuchstaben des Schiffseichamtes und der Sitz der
-Außenstellen werden im Verkehrsblatt bekanntgemacht.
+(2) Die Kennbuchstaben des Schiffseichamtes und die Sitze des
+Außendienstes werden durch das Bundesministerium für Verkehr und
+digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger
+bekanntgemacht.
 
 
 ### § 4 Zentralstelle
@@ -93,11 +118,10 @@ Artikel 8 des Übereinkommens wahr.
 
 (2) Die Zentralstelle hat die Aufgaben
 
-1.  die Außenstelle fachtechnisch zu beraten und mit technischen
-    Anweisungen zu versehen;
+1.  die Eichscheine und die Eichbescheinigungen zu erteilen;
 
 
-2.  die Messungen und Berechnungen der Außenstelle zu prüfen und
+2.  die Messungen und Berechnungen des Außendienstes zu prüfen und
     erforderlichenfalls zu berichtigen; dies gilt nicht für Eichungen im
     Sportboot-Eichverfahren;
 
@@ -175,7 +199,8 @@ anzuwenden. Es ist jedoch ein formloser Antrag zu stellen.
 
 (5) Ort und Zeitpunkt einer Eichung sind spätestens eine Woche vor dem
 gewünschten Termin mit dem Schiffseichamt zu vereinbaren. Die Eichung
-soll am ständigen Eichplatz einer Außenstelle stattfinden.
+soll am ständigen Eichplatz an einem Sitz des Außendienstes
+stattfinden.
 
 
 ### § 8 Eichschein
@@ -184,11 +209,11 @@ soll am ständigen Eichplatz einer Außenstelle stattfinden.
 Eichschein aus, und zwar
 
 1.  bei Verfahren nach dem zweiten Abschnitt entsprechend dem Muster der
-    Anlage 2;
+    Anlage 1;
 
 
 2.  bei Verfahren nach dem dritten Abschnitt entsprechend dem Muster der
-    Anlage 3.
+    Anlage 2.
 
 
 
@@ -289,29 +314,28 @@ vorgenommen werden.
 
 ### § 12 Vorläufige Eichbescheinigung
 
-Auf Antrag kann eine auf höchstens 6 Monate befristete Bescheinigung
-über das vorläufige Eichergebnis ausgestellt werden, und zwar
+Auf Antrag kann eine auf höchstens sechs Monate befristete vorläufige
+Eichbescheinigung über das vorläufige Eichergebnis ausgestellt werden,
+und zwar
 
 1.  bei Verfahren nach dem zweiten Abschnitt entsprechend dem Muster der
-    Anlage 6;
+    Anlage 3;
 
 
 2.  bei Verfahren nach dem dritten Abschnitt entsprechend dem Muster der
-    Anlage 7.
+    Anlage 4.
 
 
 
-Eine solche Bescheinigung verliert mit der Aushändigung des
+Eine vorläufige Eichbescheinigung verliert mit der Aushändigung des
 Eichscheins ihre Gültigkeit.
 
 
 ### § 13 Meßgeräte
 
 Bei der Eichung sind Meßgeräte der nachfolgend genannten Art zu
-verwenden, die nach den Bestimmungen des Gesetzes über das Meß- und
-Eichwesen (Eichgesetz) in der Fassung der Bekanntmachung vom 23. März
-1992 (BGBl. I S. 711), zuletzt geändert durch Artikel 2 der Verordnung
-vom 26. November 1993 (BGBl. I S. 1973), geeicht sein müssen:
+verwenden, die den Bestimmungen des Mess- und Eichgesetzes entsprechen
+müssen:
 
 1.  Meßbänder,
 
@@ -614,15 +638,17 @@ einzutragen, wobei auf 3 Dezimalstellen gerundet wird.
 
 ### § 25 Ebene der größten Eintauchung
 
-(1) Bei Schiffen, die der Untersuchungspflicht unterliegen, wird die
-Ebene der größten Eintauchung entsprechend § 18 Abs. 2 festgelegt.
+(1) Bei Schiffen, die der Untersuchungspflicht nach der
+Binnenschiffsuntersuchungsordnung unterliegen, wird die Ebene der
+größten Eintauchung entsprechend § 18 Abs. 2 festgelegt.
 
-(2) Bei Schiffen, die keiner Untersuchungspflicht unterliegen, und
-deren größte zulässige Eintauchung durch andere Vorschriften nicht
-bestimmt wird, ist die Ebene der größten Eintauchung die Schwimmebene,
-welche das betriebsfertig ausgerüstete und besetzte Schiff einnimmt,
-wenn alle Verbrauchsstoffe, wie Brenn- und Schmierstoffe, Wasser und
-Proviant sowie gegebenenfalls vorgesehene Personen an Bord sind.
+(2) Bei Schiffen, die keiner Untersuchungspflicht nach der
+Binnenschiffsuntersuchungsordnung unterliegen, und deren größte
+zulässige Eintauchung durch andere Vorschriften nicht bestimmt wird,
+ist die Ebene der größten Eintauchung die Schwimmebene, welche das
+betriebsfertig ausgerüstete und besetzte Schiff einnimmt, wenn alle
+Verbrauchsstoffe, wie Brenn- und Schmierstoffe, Wasser und Proviant
+sowie gegebenenfalls vorgesehene Personen an Bord sind.
 
 
 ### § 26 Berechnung
@@ -709,9 +735,9 @@ Ermittlung der Tragfähigkeit verwendet werden.
 (1) Die Schiffe erhalten Eichmarken nach § 20. Es genügt eine
 Eichmarke auf halber Schiffslänge.
 
-(2) Bei Schiffen, die keiner Untersuchungspflicht unterliegen, kann
-auf die Ergänzung der Eichmarke entsprechend § 20 Abs. 3 Satz 2
-verzichtet werden.
+(2) Bei Schiffen, die keiner Untersuchungspflicht nach der
+Binnenschiffsuntersuchungsordnung unterliegen, kann auf die Ergänzung
+der Eichmarke entsprechend § 20 Abs. 3 Satz 2 verzichtet werden.
 
 
 ### § 29 Eichzeichen
@@ -775,10 +801,10 @@ Sportboot-Eichverfahren geeicht werden, wenn dies als Baumuster-
 Eichung beantragt wird.
 
 (2) Dem Antrag sind Zeichnungen, Abbildungen und eine umfassende
-Baubeschreibung - je elffach - beizufügen, aus denen die
-Beschaffenheit des Bootskörpers, der Antriebsmaschinen - soweit diese
-fest eingebaut sind -, die Einrichtung und Ausrüstung und die Serien-
-Ausstattung im einzelnen hervorgeht.
+Baubeschreibung beizufügen, aus denen die Beschaffenheit des
+Bootskörpers, der Antriebsmaschinen - soweit diese fest eingebaut sind
+-, die Einrichtung und Ausrüstung und die Serien-Ausstattung im
+einzelnen hervorgeht.
 
 (3) Der Antragsteller ist verpflichtet, Änderungen der Serie, die
 Einfluß auf das Gewicht haben, unverzüglich der Zentralstelle
@@ -789,35 +815,8 @@ bei einem Sportboot, das für den Betrieb mit einem Außenbordmotor
 gebaut ist, ohne das Gewicht des Motors, der Tanks und der
 Startbatterie festgelegt.
 
-(5) Das Ergebnis der Baumuster-Eichung wird in eine Liste aufgenommen,
-die von der Zentralstelle geführt und fortgeschrieben wird. Die Liste
-enthält als Ergebnis der Baumuster-Eichung folgende Angaben:
-
-1.  Eichzeichen,
-
-
-2.  Hersteller,
-
-
-3.  Typbezeichnung,
-
-
-4.  Länge über alles,
-
-
-5.  größte Breite,
-
-
-6.  Wasserverdrängung bei größter Eintauchung,
-
-
-7.  Baumaterial des Rumpfes,
-
-
-8.  Hersteller, Leistung und Gewicht der Antriebsmaschine.
-
-
-
+(5) Die Zentralstelle trägt jede Baumuster-Eichung unter fortlaufender
+Nummer in ein Eichverzeichnis ein.
 
 
 ### § 34 Überprüfung von Nachbauten
@@ -832,13 +831,10 @@ Eichung hinzugefügt werden.
 
 ### § 35 Eichbescheinigung
 
-(1) Das Schiffseichamt erteilt für das im Sportboot- Eichverfahren
+(1) Das Schiffseichamt erteilt für das im Sportboot-Eichverfahren
 geeichte oder nach § 34 überprüfte Sportboot eine Eichbescheinigung
-nach dem Muster der Anlage 8. Die Eichbescheinigung ist eine Urkunde
-nach § 13 Abs. 1 der Schiffsregisterordnung in der im
-Bundesgesetzblatt Teil III, Gliederungsnummer 315-18, veröffentlichten
-bereinigten Fassung, zuletzt geändert durch Artikel 1 des Gesetzes vom
-4\. Juli 1980 (BGBl. I S. 833).
+nach dem Muster der Anlage 5. Die Eichbescheinigung ist eine Urkunde
+nach § 13 Absatz 1 der Schiffsregisterordnung.
 
 (2) Die Eichbescheinigung für Sportboote wird ungültig, wenn
 
@@ -856,9 +852,8 @@ bereinigten Fassung, zuletzt geändert durch Artikel 1 des Gesetzes vom
 Eine ungültig gewordene Eichbescheinigung kann nach Änderung wieder in
 Kraft gesetzt werden.
 
-(3) Das Schiffseichamt trägt jede Eichbescheinigung unter
-fortlaufender Nummer in das Eichverzeichnis für Sportboote nach dem
-Muster der Anlage 5 ein.
+(3) Die Zentralstelle trägt jede Eichbescheinigung unter fortlaufender
+Nummer in ein Eichverzeichnis.
 
 (4) Die Eichbescheinigung für das Baumuster eines Sportboots erhält
 den Zusatz "Baumuster". Sie ist nicht Urkunde nach § 13 Abs. 1 der
@@ -869,7 +864,7 @@ Schiffsregisterordnung; der entsprechende Hinweis wird gestrichen.
 
 (1) Ein Sportboot, das im Sportboot-Eichverfahren geeicht oder nach §
 34 überprüft ist, erhält anstelle der Eichmarken (§ 20) eine
-Eichplakette nach dem Muster der Anlage 9 mit aufgedrucktem
+Eichplakette nach dem Muster der Anlage 6 mit aufgedrucktem
 Eichzeichen.
 
 (2) Die Eichplakette besteht aus einer rechteckigen, zerstörbaren
@@ -945,8 +940,9 @@ Ergibt die Prüfung nach § 4 Abs. 2 Nr. 4, daß eine Angabe im
 Eichschein auf fehlerhafter Messung oder Berechnung beruht, so daß die
 in § 14 angegebenen Fehlergrenzen nicht eingehalten werden, so ist die
 Eichung in dem von der Zentralstelle festzulegenden Umfang zu
-wiederholen. Die Zentralstelle kann eine andere als die ursprünglich
-damit befaßte Außenstelle mit der Überprüfung beauftragen.
+wiederholen. Die Zentralstelle kann mit der Wiederholung der Eichung
+den Außendienst eines anderen Sitzes als den ursprünglich damit
+befassten beauftragen.
 
 
 ## Sechster Abschnitt - Kosten
@@ -1000,87 +996,81 @@ Der Bundesminister für Verkehr
 
 ### Anlagen zur Verordnung über die Eichung von Binnenschiffen (BinSchEO)
 
-Anlage 1 - (weggefallen)
-Anlage 2 - Eichschein (Güterbeförderer)
-Anlage 3 - Eichschein (Nichtgüterbeförderer)
-Anlage 4 - (weggefallen)
-Anlage 5 - (weggefallen)
-Anlage 6 - Vorläufige Bescheinigung (Güterbeförderer)
-Anlage 7 - Vorläufige Bescheinigung (Nichtgüterbeförderer)
-Anlage 8 - Muster der Eichbescheinigung
-Anlage 9 - Muster der Eichplakette
+
+Anlage 1: Muster des Eichscheins für Binnenschiffe (Güterbeförderer)
 
 
-### Anlage 1
-
--
+Anlage 2: Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)
 
 
-### Anlage 2 Muster
-
-(Inhalt: nicht darstellbares Muster eines Eichscheins,
-Fundstelle: BGBl. I 1975, 1797 - 1807;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+Anlage 3: Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)
 
 
-### Anlage 3 Muster
-
-(Inhalt: nicht darstellbares Muster eines Eichscheins,
-Fundstelle: BGBl. I 1975, 1808 - 1815)
+Anlage 4: Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer)
 
 
-### Anlage 4
-
--
+Anlage 5: Muster der Eichbescheinigung für Sportboote
 
 
-### Anlage 5
-
--
-
-
-### Anlage 6 Muster
-
-(Inhalt: nicht darstellbares Muster einer vorläufigen Bescheinigung,
-Fundstelle: BGBl. I 1975, 1836 - 1839)
-
-
-### Anlage 7 Muster
-
-(Inhalt: nicht darstellbares Muster einer vorläufigen Bescheinigung,
-Fundstelle: BGBl. I 1975, 1840)
-
-
-### Anlage 8
-
-(Inhalt: nicht darstellbares Muster einer Eichbescheinigung für
-Sportboote,
-Fundstelle: BGBl. I 1983, 322 - 323)
-
-
-### Anlage 9
-
-(Inhalt: nicht darstellbares Muster einer Eichplakette für Sportboote,
-Fundstelle: BGBl. I 1983, 324)
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet E Abschnitt III (BGBl. II 1990, 889, 1110)
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-1\. ...
-
-2.  Verordnung über die Eichung von Binnenschiffen vom 30. Juni 1975
-    (BGBl. I S. 1785), zuletzt geändert durch Verordnung vom 11. September
-    1989 (BGBl. I S. 1665),
-
-    mit folgender Maßgabe:
-
-    Die nach den bisher geltenden Vorschriften der Deutschen
-    Demokratischen Republik ausgestellten Eichscheine gelten bis zum
-    Ablauf ihrer Gültigkeit weiter.
+Anlage 6: Muster der Eichplakette für Sportboote
 
 
 
-...
+
+
+### Anlage 1 Muster des Eichscheins für Binnenschiffe (Güterbeförderer)
+
+(Fundstelle: BGBl. I 2017, 354 – 364)
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Anlage 2 Muster des Eichscheins für Binnenschiffe (Nichtgüterbeförderer)
+
+(Fundstelle: BGBl. I 2017, 365 – 372)
+
+
+
+
+
+
+
+
+
+
+### Anlage 3 Muster der Vorläufigen Eichbescheinigung (Güterbeförderer)
+
+(Fundstelle: BGBl. I 2017, 373 – 376)
+
+
+
+
+
+
+### Anlage 4 Muster der Vorläufigen Eichbescheinigung (Nichtgüterbeförderer)
+
+(Fundstelle: BGBl. I 2017, 377)
+
+
+
+### Anlage 5 Muster der Eichbescheinigung für Sportboote
+
+(Fundstelle: BGBl. I 2017, 378 - 379)
+
+
+
+
+### Anlage 6 Muster der Eichplakette für Sportboote
+
+(Fundstelle: BGBl. I 2017, 380)
+
 

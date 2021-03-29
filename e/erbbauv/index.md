@@ -16,7 +16,7 @@ Fundstelle
 :   RGBl: 1919, 72, 122
 
 Zuletzt geändert durch
-:   Art. 31 G v. 8.12.2010 I 1864
+:   Art. 4 Abs. 7 G v. 1.10.2013 I 3719
 
 
 ## I. - Begriff und Inhalt des Erbbaurechts
@@ -210,7 +210,7 @@ Erbbauzinsreallast im Rang vorgehenden oder gleichstehenden dinglichen
 Rechte erforderlich.
 
 (4) Zahlungsverzug des Erbbauberechtigten kann den Heimfallanspruch
-nur dann begründen, wenn der Erbbauberechtigte mit dem Erbbauzins
+nur dann begründen, wenn der Erbbauberechtigte mit dem Erbbauzinse
 mindestens in Höhe zweier Jahresbeträge im Rückstand ist.
 
 
@@ -324,9 +324,9 @@ Das Erbbaurecht erlischt nicht dadurch, daß das Bauwerk untergeht.
 
 (1) Für das Erbbaurecht wird bei der Eintragung in das Grundbuch von
 Amts wegen ein besonderes Grundbuchblatt (Erbbaugrundbuch) angelegt.
-Im Erbbaugrundbuch soll auch der Eigentümer und jeder spätere Erwerber
-des Grundstücks vermerkt werden. Zur näheren Bezeichnung des Inhalts
-des Erbbaurechts kann auf die Eintragungsbewilligung Bezug genommen
+Im Erbbaugrundbuch sind auch der Eigentümer und jeder spätere Erwerber
+des Grundstücks zu vermerken. Zur näheren Bezeichnung des Inhalts des
+Erbbaurechts kann auf die Eintragungsbewilligung Bezug genommen
 werden.
 
 (2) Bei der Eintragung im Grundbuch des Grundstücks ist zur näheren
@@ -335,20 +335,23 @@ zu nehmen.
 
 (3) Das Erbbaugrundbuch ist für das Erbbaurecht das Grundbuch im Sinne
 des Bürgerlichen Gesetzbuchs. Die Eintragung eines neuen
-Erbbauberechtigten ist unverzüglich auf dem Blatt des Grundstücks zu
-vermerken. Der Vermerk kann durch Bezugnahme auf das Erbbaugrundbuch
-ersetzt werden.
+Erbbauberechtigten ist unverzüglich auf dem Blatte des Grundstücks zu
+vermerken. Bei Wohnungs- und Teilerbbauberechtigten wird der Vermerk
+durch Bezugnahme auf die Wohnungs- und Teilerbbaugrundbücher ersetzt.
 
-(4) Werden das Grundbuch und das Erbbaugrundbuch in maschineller Form
-geführt, so genügt es für die Eintragung nach Absatz 1 Satz 2, daß
-lediglich der Eigentümer des belasteten Grundstücks gemäß der jeweils
-letzten Eintragung im Grundbuch dieses Grundstücks vermerkt ist.
+(4) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zu
+bestimmen, dass die Vermerke nach Absatz 1 Satz 2 und Absatz 3 Satz 2
+automatisiert angebracht werden, wenn das Grundbuch und das
+Erbbaugrundbuch als Datenbankgrundbuch geführt werden. Die Anordnung
+kann auf einzelne Grundbuchämter sowie auf einzelne Grundbuchblätter
+beschränkt werden. Die Landesregierungen können die Ermächtigung durch
+Rechtsverordnung auf die Landesjustizverwaltungen übertragen.
 
 
 ### § 15
 
 In den Fällen des § 5 darf der Rechtsübergang und die Belastung erst
-eingetragen werden, wenn dem Grundbuchamt die Zustimmung des
+eingetragen werden, wenn dem Grundbuchamte die Zustimmung des
 Grundstückseigentümers nachgewiesen ist.
 
 
@@ -532,7 +535,7 @@ Zahlung sowie über ihre Ausschließung getroffen werden.
 
 (2) Ist das Erbbaurecht zur Befriedigung des Wohnbedürfnisses
 minderbemittelter Bevölkerungskreise bestellt, so muß die
-Entschädigung mindestens zwei Drittel des gemeinen Wertes betragen,
+Entschädigung mindestens zwei Dritteile des gemeinen Wertes betragen,
 den das Bauwerk bei Ablauf des Erbbaurechts hat. Auf eine abweichende
 Vereinbarung kann sich der Grundstückseigentümer nicht berufen.
 
@@ -550,7 +553,7 @@ nicht abgetreten werden.
 ##### § 28
 
 Die Entschädigungsforderung haftet auf dem Grundstück an Stelle des
-Erbbaurechts und mit dessen Rang.
+Erbbaurechts und mit dessen Range.
 
 
 ##### § 29
@@ -560,7 +563,7 @@ mit einer Hypothek oder Grundschuld oder mit Rückständen aus
 Rentenschulden oder Reallasten belastet, so hat der Gläubiger der
 Hypothek, Grund- oder Rentenschuld oder Reallast an dem
 Entschädigungsanspruch dieselben Rechte, die ihm im Falle des
-Erlöschens seines Rechts durch Zwangsversteigerung an dem Erlös
+Erlöschens seines Rechts durch Zwangsversteigerung an dem Erlöse
 zustehen.
 
 

@@ -26,15 +26,15 @@ Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz
 beschlossen:
 
 
-## Art 1 -
+## Art 1 - 
 
 
 
-## Art 2 -
+## Art 2 - 
 
 
 
-## Art 3 -
+## Art 3 - 
 
 
 
@@ -42,7 +42,7 @@ beschlossen:
 
 
 
-## Art 5 -
+## Art 5 - 
 
 
 
@@ -97,11 +97,11 @@ Wohnraumförderungsgesetzes sowie die landesrechtlichen Vorschriften
 über Belegungsbindungen bleiben unberührt.
 
 
-## Art 7 -
+## Art 7 - 
 
 
 
-## Art 8 -
+## Art 8 - 
 
 
 

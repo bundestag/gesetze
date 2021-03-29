@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 555
 
+Geändert durch
+:   Art. 3 V v. 25.7.2014 I 1227
+
 
 ## § 1 Anwendungsbereich
 
@@ -116,7 +119,8 @@ bestimmt ist, in englischer Sprache abgefasste Anlagen beizufügen:
     Standards,
 
 
-3.  die präklinische Bewertung,
+3.  die präklinische Bewertung einschließlich des zugrunde liegenden
+    wissenschaftlichen Erkenntnismaterials,
 
 
 4.  Informationen zur sicheren Anwendung des Medizinproduktes in deutscher
@@ -523,7 +527,8 @@ beizufügen:
 3.  für Medizinprodukte, die steril angewendet werden, die Nachweise zur
     Validierung der herstellerseitigen Sterilisationsverfahren oder
     Angaben zu den Aufbereitungs- oder Sterilisationsverfahren, die von
-    der Prüfstelle durchgeführt werden müssen.
+    der Prüfstelle durchgeführt werden müssen, es sei denn, es handelt
+    sich um eine klinische Prüfung nach Absatz 1 Nummer 3.
 
 
 

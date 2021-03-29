@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1982, 734
 
+Geändert durch
+:   Art. 11 G v. 8.7.2016 I 1594
+
 
 
 ## Eingangsformel
@@ -72,35 +75,8 @@ Die Regierungen der Länder Niedersachsen und Nordrhein-Westfalen
 können die Ermächtigung auf die Landesjustizverwaltung übertragen.
 
 
-## Art 4
+## (XXXX) Art 4 und 5 (weggefallen)
 
-(1) Waren, die in der Bundesrepublik Deutschland Verbrauchssteuern -
-ausgenommen Einfuhrumsatzsteuer - unterliegen und sich bei
-Inkrafttreten des Vertrags in den nach den Artikeln 1 und 2 des
-Vertrags der Bundesrepublik Deutschland zufallenden Gebietsteilen
-befinden, gelten mit diesem Zeitpunkt als in das Erhebungsgebiet der
-Verbrauchssteuern verbracht.
-
-(2) Befanden sich solche Waren bis zu diesem Zeitpunkt nach
-niederländischem Recht
-
-1.  nicht im freien Verkehr, so sind sie wie in das Erhebungsgebiet
-    eingeführte Waren zu behandeln,
-
-
-2.  im freien Verkehr, so sind sie nur dann wie in das Erhebungsgebiet
-    eingeführte Waren zu behandeln, wenn sie zum Handel bestimmt sind;
-    Warenmengen, die den üblichen persönlichen Bedarf übersteigen, gelten
-    als zum Handel bestimmt.
-
-
-
-
-
-## Art 5
-
-Dieses Gesetz gilt auch im Land Berlin, sofern das Land Berlin die
-Anwendung dieses Gesetzes feststellt.
 
 
 ## Art 6

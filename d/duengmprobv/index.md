@@ -2,7 +2,7 @@
 Title: Verordnung über Probenahmeverfahren und Analysemethoden für die amtliche Düngemittelüberwachung
 jurabk: DüngMProbV
 layout: default
-origslug: d_ngmprobv
+origslug: duengmprobv
 slug: duengmprobv
 
 ---
@@ -519,8 +519,9 @@ anzuwenden.
 
 -
 
+(zu § 12 Abs. 2 Satz 2 Nr. 2)
 
-## Anlage (zu § 12 Abs. 2 Satz 2 Nr. 2) Analysemethoden des Deutschen Instituts für Normung
+## Anlage Analysemethoden des Deutschen Instituts für Normung
 
 (Fundstelle des Originaltextes: BGBl. I 2006, 1826)
 

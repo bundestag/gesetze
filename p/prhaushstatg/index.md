@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1961, 18
 
-Geändert durch
-:   Art. 10 G v. 14.3.1980 I 294
+Zuletzt geändert durch
+:   Art. 5 G v. 21.7.2016 I 1768
 
 
 ## § 1
@@ -81,11 +81,21 @@ der Haushalte mit technischen Gebrauchsgütern, soweit diese Angaben
 für die statistische Zuordnung der Haushalte und für die Darstellung
 der Ergebnisse erforderlich sind.
 
+(3) Hilfsmerkmale der Erhebung sind:
+
+1.  Name und Kontaktdaten der Auskunftgebenden,
+
+
+2.  Vornamen der Haushaltsmitglieder.
+
+
+
+
 
 ## § 3
 
-(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens
-1\.000\*) Haushalte in jedem Monat.
+(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 2
+000\*) Haushalte in jedem Monat.
 
 (2) Die Erhebungen nach § 1 Nr. 2 erstrecken sich auf höchstens 0,3
 vom Hundert aller Haushalte.
@@ -94,8 +104,8 @@ vom Hundert aller Haushalte.
 \*) Gemäß Art. 2 der Statistikanpassungsverordnung vom 26. März 1991
     (BGBl. I S. 846) gilt abweichend von § 3 Abs. 1:
 
-    "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6.000
-    Haushalte, ab 1. Januar 1993 auf 2.000 Haushalte in jedem Monat."
+    "(1) Die Erhebungen nach § 1 Nr. 1 erstrecken sich auf höchstens 6 000
+    Haushalte, ab 1. Januar 1993 auf 2 000 Haushalte in jedem Monat."
 
 
 

@@ -559,8 +559,9 @@ Zwischenprüfung abgelegt wurde.
 
 Diese Verordnung tritt am 1. August 2008 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Friseur/zur Friseurin
 
 (Fundstelle: BGBl. I 2008, 860 - 866)
 

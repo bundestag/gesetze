@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1975, 1173
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 46 G v. 5.2.2009 I 160
+:   Art. 14 G v. 19.10.2013 I 3836
 
 
 ## Eingangsformel
@@ -34,7 +34,7 @@ beschlossen:
 
 
 
-## Art III - Anwendung der Übergangsvorschriften des Art II des 1. BesVNG auf Versorgungsempfänger
+## Art III - Anwendung der Übergangsvorschriften des Art  II des 1. BesVNG auf Versorgungsempfänger
 
 
 
@@ -267,23 +267,7 @@ Angestellten
 
 
 
-(2) Bei der besoldungsrechtlichen Einstufung der Dienstposten der
-Geschäftsführer und stellvertretenden Geschäftsführer der in Absatz 1
-genannten bundesunmittelbaren Körperschaften im Bereich der
-gesetzlichen Unfallversicherung sowie der landwirtschaftlichen
-Sozialversicherung sind Einstufungshöchstgrenzen einzuhalten. Das
-Bundesministerium für Arbeit und Soziales wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium des Innern und dem
-Bundesministerium der Finanzen durch Rechtsverordnung mit Zustimmung
-des Bundesrates unter Angabe von Bewertungskriterien und deren
-Gewichtung Höchstgrenzen nach Satz 1 festzulegen. Dabei sind
-insbesondere Aufgabenbereich, Größe und Bedeutung der Körperschaft,
-die gesetzlich übertragenen weiteren Aufgaben sowie die
-bundesgesetzlichen Einstufungen von Geschäftsführern anderer
-Sozialversicherungsträger zu berücksichtigen. Die Besoldungsgruppe B 6
-darf nicht überschritten werden. Der stellvertretende Geschäftsführer
-ist jeweils mindestens eine Besoldungsgruppe niedriger einzustufen als
-der Geschäftsführer.
+(2) (weggefallen)
 
 (3) u. (4) weggefallen)
 
@@ -297,8 +281,9 @@ Körperschaften im Bereich der gesetzlichen Unfallversicherung sowie
 der landwirtschaftlichen Sozialversicherung unter Berücksichtigung der
 für Bundesbeamte geltenden Grundsätze zur sachgerechten Bewertung der
 Funktionen für die Zahl der Beförderungsämter Obergrenzen festzulegen.
-Die Dienstposten der Aufsichtspersonen dürfen entsprechend Absatz 2
-Satz 5 bewertet und eingestuft werden.
+Die Dienstposten der Aufsichtspersonen dürfen entsprechend § 147a
+Absatz 3 des Siebten Buches Sozialgesetzbuch bewertet und eingestuft
+werden.
 
 
 ## § 2
@@ -899,13 +884,13 @@ Die bundesrechtlichen Vorschriften über Zulagen, die wegen der
 Abgelegenheit einer Dienststelle gewährt werden, treten außer Kraft;
 dies gilt auch für die Zulagen oder Zuwendungen zur Abgeltung
 besonderer bei der Bewertung des Amtes nicht berücksichtigter
-Erschwernisse, die für diesen Bereich gewährt werden.
-Zuwendungen zur Abgeltung von Aufwand auf Grund von in Satz 1
-bezeichneten Tatbeständen dürfen nicht gewährt werden.
+Erschwernisse, die für diesen Bereich gewährt werden. Zuwendungen zur
+Abgeltung von Aufwand auf Grund von in Satz 1 bezeichneten
+Tatbeständen dürfen nicht gewährt werden.
 
 (2)
 § 2 Abs. 4 des Ersten Besoldungsneuregelungsgesetzes vom 6. Juli 1967
-(Bundesgesetzbl. I S. 629) wird gestrichen.              Sieht ein
+(Bundesgesetzbl. I S. 629) wird gestrichen. Sieht ein
 völkerrechtlicher Vertrag für einen Dienstort im Ausland die Gewährung
 einer Zulage vor, so bleibt die Zulage für Beamte mit dienstlichem
 Wohnsitz an diesem Ort aufrechterhalten.

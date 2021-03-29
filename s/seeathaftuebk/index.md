@@ -3,7 +3,7 @@ Title: Übereinkommen über die zivilrechtliche Haftung bei der Beförderung von
   auf See
 jurabk: SeeAtHaftÜbk
 layout: default
-origslug: seeathaft_bk
+origslug: seeathaftuebk
 slug: seeathaftuebk
 
 ---

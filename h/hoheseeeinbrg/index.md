@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1998, 2455
 
 Zuletzt geändert durch
-:   Art. 72 V v. 31.10.2006 I 2407
+:   Art. 5 G v. 24.5.2016 I 1217
 
 
 ## § 1 Zielsetzung
@@ -173,56 +173,82 @@ der eingebrachten oder eingeleiteten Stoffe dem Bundesamt für
 Seeschiffahrt und Hydrographie zu melden.
 
 
-## § 8 Erlaubnisbehörde
+## § 8 Zuständigkeiten, Aufgaben und Befugnisse
 
-(1) Für die Entscheidung über die Erteilung von Erlaubnissen nach § 5
-ist das Bundesamt für Seeschiffahrt und Hydrographie zuständig. Um
-festzustellen, ob die Voraussetzungen des § 5 Abs. 2 Satz 1 und 2
-vorliegen, hört es die zuständigen Behörden des Bundes und der Länder
-an. Das Bundesamt für Seeschiffahrt und Hydrographie holt bei
-Baggergut vor der Entscheidung eine Stellungnahme des
-Umweltbundesamtes ein. Das Umweltbundesamt stellt nach Anhörung der
-zuständigen Landesbehörde, in deren Bereich das Baggergut angefallen
-ist oder beseitigt werden könnte, fest, ob die Voraussetzungen des § 5
-Abs. 2 Satz 3 vorliegen. Das Bundesamt für Seeschiffahrt und
-Hydrographie kann die zur Entscheidungsfindung erforderlichen
-Feststellungen treffen, Untersuchungen anordnen und die Einhaltung der
-Bedingungen und Auflagen überwachen.
+(1) Das Bundesamt für Seeschifffahrt und Hydrographie ist für den
+Vollzug dieses Gesetzes zuständig; es untersteht insoweit der
+Fachaufsicht des Bundesministeriums für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit. Um festzustellen, ob die Voraussetzungen des § 5
+Abs. 2 Satz 1 und 2 vorliegen, hört es die zuständigen Behörden des
+Bundes und der Länder an. Das Bundesamt für Seeschiffahrt und
+Hydrographie holt bei Baggergut vor der Entscheidung eine
+Stellungnahme des Umweltbundesamtes ein. Das Umweltbundesamt stellt
+nach Anhörung der zuständigen Landesbehörde, in deren Bereich das
+Baggergut angefallen ist oder beseitigt werden könnte, fest, ob die
+Voraussetzungen des § 5 Abs. 2 Satz 3 vorliegen. Das Bundesamt für
+Seeschiffahrt und Hydrographie kann die zur Entscheidungsfindung
+erforderlichen Feststellungen treffen, Untersuchungen anordnen und die
+Einhaltung der Bedingungen und Auflagen überwachen.
 
-(2) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
+(2) Das Bundesamt für Seeschifffahrt und Hydrographie kann die
+notwendigen Maßnahmen treffen, die zur Feststellung oder zur
+Ausräumung eines hinreichenden Verdachts eines Verstoßes oder zur
+Beseitigung festgestellter Verstöße oder zur Verhütung künftiger
+Verstöße erforderlich sind. Insbesondere kann das Bundesamt für
+Seeschifffahrt und Hydrographie anordnen, dass Abfälle oder sonstige
+Stoffe oder Gegenstände, die
+
+1.  entgegen § 4 Satz 1,
+
+
+2.  ohne Erlaubnis nach § 5 Absatz 1 oder
+
+
+3.  entgegen einer mit einer Erlaubnis nach § 5 Absatz 1 verbundenen
+    vollziehbaren Auflage
+
+
+
+in die Hohe See eingebracht worden sind, zu entfernen sind oder so zu
+sichern sind, dass sie nicht zu einer Verschmutzung der Meeresumwelt
+führen können.
+
+(3) Verwaltungsakte zur Durchführung dieses Gesetzes oder der
 Vorschriften aufgrund von § 9 Abs. 1 Nr. 1 werden nach dem
 Verwaltungs-Vollstreckungsgesetz und dem Gesetz über den unmittelbaren
 Zwang bei Ausübung öffentlicher Gewalt durch Vollzugsbeamte des Bundes
-vollzogen. Unmittelbarer Zwang wird von den Vollzugsbeamten der
-Wasser- und Schiffahrtsverwaltung des Bundes mit strom- und
+vollzogen. Das Verwaltungsverfahrensgesetz ist anzuwenden.
+Unmittelbarer Zwang wird von den Vollzugsbeamten der Wasserstraßen-
+und Schifffahrtsverwaltung des Bundes mit strom- und
 schiffahrtspolizeilichen Befugnissen sowie den Vollzugsbeamten der
 Bundespolizei und der Zollverwaltung ausgeübt; das Bundesministerium
-für Verkehr, Bau und Stadtentwicklung regelt im Einvernehmen mit dem
+für Verkehr und digitale Infrastruktur regelt im Einvernehmen mit dem
 Bundesministerium des Innern und dem Bundesministerium der Finanzen
-das Zusammenwirken der Wasser- und Schiffahrtsverwaltung, der
+das Zusammenwirken der Wasserstraßen- und Schifffahrtsverwaltung, der
 Bundespolizei und der Zollverwaltung.
 
-(3) § 8 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
+(4) § 8 des Gesetzes über die Aufgaben des Bundes auf dem Gebiet der
 Seeschiffahrt gilt entsprechend. Das Grundrecht der Unverletzlichkeit
 der Wohnung (Artikel 13 des Grundgesetzes) wird insoweit
 eingeschränkt.
 
-(4) Für Amtshandlungen aufgrund des Absatzes 1 oder der auf § 9 Abs. 1
-Nr. 1 beruhenden Rechtsverordnungen werden Gebühren und Auslagen
-erhoben.
+(5) Für Amtshandlungen aufgrund der Absätze 1 und 2 oder der auf § 9
+Abs. 1 Nr. 1 beruhenden Rechtsverordnungen werden Gebühren und
+Auslagen erhoben.
 
 
 ## § 9 Verordnungsermächtigungen
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates
 
-1.  im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung und dem Bundesministerium für Wirtschaft und
-    Technologie Durchführungsvorschriften zu erlassen, die das Verfahren
-    bei der Erteilung der Erlaubnisse nach § 5 regeln; es kann
-    insbesondere Vorschriften über die Antragsunterlagen und die Form der
-    Erlaubnis erlassen;
+1.  im Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+    Infrastruktur und dem Bundesministerium für Wirtschaft und Energie
+    Durchführungsvorschriften zu erlassen, die das Verfahren bei der
+    Erteilung der Erlaubnisse nach § 5 regeln; es kann insbesondere
+    Vorschriften über die Antragsunterlagen und die Form der Erlaubnis
+    erlassen;
 
 
 2.  im Einvernehmen mit dem Bundesministerium der Finanzen die Gebühren
@@ -265,10 +291,14 @@ wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
 fünfzigtausend Euro geahndet werden.
 
+(3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
+Gesetzes über Ordnungswidrigkeiten ist das Bundesamt für
+Seeschifffahrt und Hydrographie.
+
 
 ## § 11 Vollzugsbeamte
 
-Die in § 8 Abs. 2 bezeichneten Vollzugsbeamten des Bundes haben auf
+Die in § 8 Absatz 3 bezeichneten Vollzugsbeamten des Bundes haben auf
 der Hohen See bei der Erforschung von Zuwiderhandlungen nach § 10 und
 nach den §§ 324, 326, 330 und 330a des Strafgesetzbuches die Rechte
 und Pflichten der Polizeibeamten nach den Vorschriften der

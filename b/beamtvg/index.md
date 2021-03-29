@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1976, 2485 (3839)
 
 Neugefasst durch
-:   Bek. v. 24.2.2010 I 150
+:   Bek. v. 24.2.2010 I 150;
 
 Zuletzt geändert durch
-:   Art. 9 G v. 15.8.2012 I 1670
+:   Art. 11 G v. 8.6.2017 I 1570
 
 
 ## Abschnitt I - Allgemeine Vorschriften
@@ -158,12 +158,14 @@ teilweise verzichtet werden.
 
 
 Die Dienstzeit wird vom Zeitpunkt der ersten Berufung in das
-Beamtenverhältnis ab gerechnet und nur berücksichtigt, soweit sie
-ruhegehaltfähig ist. Zeiten, die kraft gesetzlicher Vorschrift als
+Beamtenverhältnis ab gerechnet und nur berücksichtigt, sofern sie
+ruhegehaltfähig ist; § 6 Absatz 1 Satz 3 und 4 ist insoweit nicht
+anzuwenden. Zeiten, die kraft gesetzlicher Vorschrift als
 ruhegehaltfähig gelten oder nach § 10 als ruhegehaltfähige Dienstzeit
-berücksichtigt werden, sind einzurechnen. Satz 3 gilt nicht für
-Zeiten, die der Beamte vor dem 3. Oktober 1990 in dem in Artikel 3 des
-Einigungsvertrages genannten Gebiet zurückgelegt hat.
+berücksichtigt werden, sind einzurechnen; Satz 2 zweiter Halbsatz gilt
+entsprechend. Satz 3 gilt nicht für Zeiten, die der Beamte vor dem 3.
+Oktober 1990 in dem in Artikel 3 des Einigungsvertrages genannten
+Gebiet zurückgelegt hat.
 
 (2) Der Anspruch auf Ruhegehalt entsteht mit dem Beginn des
 Ruhestandes, in den Fällen des § 4 des Bundesbesoldungsgesetzes nach
@@ -193,17 +195,15 @@ Dienstbezüge und der ruhegehaltfähigen Dienstzeit berechnet.
 
 
 
-[^F4_772794_BJNR024850976BJNE017200310]
 die dem Beamten in den Fällen der Nummern 1 und 3 zuletzt zugestanden
 haben oder in den Fällen der Nummer 2 nach dem Besoldungsrecht
-zustehen würden; sie werden mit dem Faktor 0,9901
-vervielfältigt. Bei Teilzeitbeschäftigung und Beurlaubung ohne
-Dienstbezüge (Freistellung) gelten als ruhegehaltfähige Dienstbezüge
-die dem letzten Amt entsprechenden vollen ruhegehaltfähigen
-Dienstbezüge. Satz 2 gilt entsprechend bei eingeschränkter Verwendung
-eines Beamten wegen begrenzter Dienstfähigkeit nach § 45 des
-Bundesbeamtengesetzes. § 78 des Bundesbesoldungsgesetzes ist nicht
-anzuwenden.
+zustehen würden; sie werden mit dem Faktor 0,9901 vervielfältigt. Bei
+Teilzeitbeschäftigung und Beurlaubung ohne Dienstbezüge (Freistellung)
+gelten als ruhegehaltfähige Dienstbezüge die dem letzten Amt
+entsprechenden vollen ruhegehaltfähigen Dienstbezüge. Satz 2 gilt
+entsprechend bei eingeschränkter Verwendung eines Beamten wegen
+begrenzter Dienstfähigkeit nach § 45 des Bundesbeamtengesetzes. § 78
+des Bundesbesoldungsgesetzes ist nicht anzuwenden.
 
 (2) Ist der Beamte wegen Dienstunfähigkeit auf Grund eines
 Dienstunfalls im Sinne des § 31 in den Ruhestand getreten, so ist das
@@ -253,10 +253,6 @@ Zweijahresfrist wird der Zeitraum, in dem der Beamte Dienstbezüge aus
 einem Amt der Besoldungsordnung W erhalten hat, angerechnet. Absatz 5
 Satz 2 und 3 gilt entsprechend.
 
-    Gemäß Artikel 4a Nummer 3 des Gesetzes vom 5. Februar 2009 (BGBl. I S.
-    160) wird am 1. Januar 2011 in § 5 Absatz 1 Satz 1 die Zahl „0,9951“
-    durch die Zahl „0,9905“ ersetzt.
-[^F4_772794_BJNR024850976BJNE017200310]: 
 
 ### § 6 Regelmäßige ruhegehaltfähige Dienstzeit
 
@@ -265,7 +261,7 @@ ersten Berufung in das Beamtenverhältnis an im Dienst eines
 öffentlich-rechtlichen Dienstherrn im Beamtenverhältnis zurückgelegt
 hat. Dies gilt nicht für die Zeit
 
-1.  vor Vollendung des siebzehnten Lebensjahres,
+1.  (weggefallen)
 
 
 2.  in einem Amt, das die Arbeitskraft des Beamten nur nebenbei
@@ -281,9 +277,22 @@ hat. Dies gilt nicht für die Zeit
 
 
 5.  einer Beurlaubung ohne Dienstbezüge; die Zeit einer Beurlaubung ohne
-    Dienstbezüge kann berücksichtigt werden, wenn spätestens bei
-    Beendigung des Urlaubs schriftlich zugestanden worden ist, dass dieser
-    öffentlichen Belangen oder dienstlichen Interessen dient,
+    Dienstbezüge kann berücksichtigt werden, wenn
+
+    a)  spätestens bei Beendigung des Urlaubs schriftlich oder elektronisch
+        anerkannt worden ist, dass dieser dienstlichen Interessen oder
+        öffentlichen Belangen dient, und
+
+
+    b)  der Beamte für die Dauer der Beurlaubung einen Versorgungszuschlag
+        zahlt, sofern gesetzlich nichts anderes bestimmt ist; der
+        Versorgungszuschlag beträgt 30 Prozent der ohne Beurlaubung
+        zustehenden ruhegehaltfähigen Dienstbezüge, wobei Leistungsbezüge nach
+        § 5 Absatz 1 Nummer 4 von Anfang an in voller Höhe zu berücksichtigen
+        sind; das Bundesministerium des Innern kann Ausnahmen zulassen,
+
+
+
 
 
 6.  eines schuldhaften Fernbleibens vom Dienst unter Verlust der
@@ -390,11 +399,11 @@ Anwendung des Satzes 1 Nr. 1 außerdem § 6 Abs. 1 Satz 2 Nr. 7.
 
 ### § 8 Berufsmäßiger Wehrdienst und vergleichbare Zeiten
 
-(1) Als ruhegehaltfähig gilt die Dienstzeit, in der ein Beamter nach
-Vollendung des 17. Lebensjahres vor der Berufung in das
-Beamtenverhältnis berufsmäßig im Dienst der Bundeswehr, der Nationalen
-Volksarmee der ehemaligen Deutschen Demokratischen Republik oder im
-Vollzugsdienst der Polizei gestanden hat.
+(1) Als ruhegehaltfähig gilt die Dienstzeit, in der ein Beamter vor
+der Berufung in das Beamtenverhältnis berufsmäßig im Dienst der
+Bundeswehr, der Nationalen Volksarmee der ehemaligen Deutschen
+Demokratischen Republik oder im Vollzugsdienst der Polizei gestanden
+hat.
 
 (2) § 6 Abs. 1 Satz 2 Nr. 5 bis 7, Satz 3 und Abs. 2 gilt
 entsprechend.
@@ -402,9 +411,8 @@ entsprechend.
 
 ### § 9 Nichtberufsmäßiger Wehrdienst und vergleichbare Zeiten
 
-(1) Als ruhegehaltfähig gilt die Zeit, während der ein Beamter nach
-Vollendung des 17. Lebensjahres vor der Berufung in das
-Beamtenverhältnis
+(1) Als ruhegehaltfähig gilt die Zeit, während der ein Beamter vor der
+Berufung in das Beamtenverhältnis
 
 1.  nichtberufsmäßigen Wehrdienst in der Bundeswehr oder der Nationalen
     Volksarmee der ehemaligen Deutschen Demokratischen Republik oder einen
@@ -430,11 +438,11 @@ Beamtenverhältnis
 ### § 10 Zeiten im privatrechtlichen Arbeitsverhältnis im öffentlichen Dienst
 
 Als ruhegehaltfähig sollen auch folgende Zeiten berücksichtigt werden,
-in denen ein Beamter nach Vollendung des siebzehnten Lebensjahres vor
-der Berufung in das Beamtenverhältnis im privatrechtlichen
-Arbeitsverhältnis im Dienst eines öffentlich-rechtlichen Dienstherrn
-ohne von dem Beamten zu vertretende Unterbrechung tätig war, sofern
-diese Tätigkeit zu seiner Ernennung geführt hat:
+in denen ein Beamter vor der Berufung in das Beamtenverhältnis im
+privatrechtlichen Arbeitsverhältnis im Dienst eines öffentlich-
+rechtlichen Dienstherrn ohne von dem Beamten zu vertretende
+Unterbrechung tätig war, sofern diese Tätigkeit zu seiner Ernennung
+geführt hat:
 
 1.  Zeiten einer hauptberuflichen in der Regel einem Beamten obliegenden
     oder später einem Beamten übertragenen entgeltlichen Beschäftigung
@@ -457,8 +465,8 @@ tatsächlichen zur regelmäßigen Arbeitszeit entspricht.
 
 ### § 11 Sonstige Zeiten
 
-Die Zeit, während der ein Beamter nach Vollendung des siebzehnten
-Lebensjahres vor der Berufung in das Beamtenverhältnis
+Die Zeit, während der ein Beamter vor der Berufung in das
+Beamtenverhältnis
 
 1.
     a)  als Rechtsanwalt oder Verwaltungsrechtsrat oder als Beamter oder
@@ -509,8 +517,7 @@ und in der Regel nicht über zehn Jahre hinaus.
 
 ### § 12 Ausbildungszeiten
 
-(1) Die nach Vollendung des siebzehnten Lebensjahres verbrachte
-Mindestzeit
+(1) Die verbrachte Mindestzeit
 
 1.  der außer der allgemeinen Schulbildung vorgeschriebenen Ausbildung
     (Fachschul-, Hochschul- und praktische Ausbildung,
@@ -547,12 +554,12 @@ entsprechen, der sich durch Vervielfältigung des aktuellen
 Rentenwertes mit dem Faktor 2,25 ergibt.
 
 (2) Für Beamte des Vollzugsdienstes und des Einsatzdienstes der
-Feuerwehr können nach Vollendung des 17. Lebensjahres verbrachte
-Zeiten einer praktischen Ausbildung und einer praktischen
-hauptberuflichen Tätigkeit an Stelle einer Berücksichtigung nach
-Absatz 1 bis zu einer Gesamtzeit von fünf Jahren als ruhegehaltfähige
-Dienstzeit berücksichtigt werden, wenn sie für die Wahrnehmung des
-Amtes förderlich sind. Absatz 1 Satz 2 gilt entsprechend.
+Feuerwehr können verbrachte Zeiten einer praktischen Ausbildung und
+einer praktischen hauptberuflichen Tätigkeit an Stelle einer
+Berücksichtigung nach Absatz 1 bis zu einer Gesamtzeit von fünf Jahren
+als ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn sie für
+die Wahrnehmung des Amtes förderlich sind. Absatz 1 Satz 2 gilt
+entsprechend.
 
 (3) Hat der Beamte sein Studium nach der Festsetzung von
 Regelstudienzeiten in dem jeweiligen Studiengang begonnen, kann die
@@ -612,18 +619,17 @@ Ruhegehalt zugrunde liegenden Dienstjahre hinter der Zahl der dem
 früheren Ruhegehalt zugrunde gelegenen Dienstjahre zurückbleibt.
 
 (2) Die Zeit der Verwendung eines Beamten in Ländern, in denen er
-gesundheitsschädigenden klimatischen Einflüssen ausgesetzt ist, kann,
-soweit sie nach Vollendung des siebzehnten Lebensjahres liegt, bis zum
-Doppelten als ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn
-sie ununterbrochen mindestens ein Jahr gedauert hat. Entsprechendes
-gilt für einen beurlaubten Beamten, dessen Tätigkeit in den in Satz 1
-genannten Gebieten öffentlichen Belangen oder dienstlichen Interessen
-diente, wenn dies spätestens bei Beendigung des Urlaubs anerkannt
-worden ist. Zeiten einer besonderen Verwendung im Ausland nach § 31a
-Absatz 1 können, soweit sie nach Vollendung des 17. Lebensjahres
-liegen, bis zum Doppelten als ruhegehaltfähige Dienstzeit
-berücksichtigt werden, wenn sie einzeln ununterbrochen mindestens 30
-Tage und insgesamt mindestens 180 Tage gedauert haben.
+gesundheitsschädigenden klimatischen Einflüssen ausgesetzt ist, kann
+bis zum Doppelten als ruhegehaltfähige Dienstzeit berücksichtigt
+werden, wenn sie ununterbrochen mindestens ein Jahr gedauert hat.
+Entsprechendes gilt für einen beurlaubten Beamten, dessen Tätigkeit in
+den in Satz 1 genannten Gebieten öffentlichen Belangen oder
+dienstlichen Interessen diente, wenn dies spätestens bei Beendigung
+des Urlaubs anerkannt worden ist. Zeiten einer besonderen Verwendung
+im Ausland nach § 31a Absatz 1 können bis zum Doppelten als
+ruhegehaltfähige Dienstzeit berücksichtigt werden, wenn sie einzeln
+ununterbrochen mindestens 30 Tage und insgesamt mindestens 180 Tage
+gedauert haben.
 
 (3) Sind sowohl die Voraussetzungen des Absatzes 1 als auch die
 Voraussetzungen des Absatzes 2 erfüllt, findet nur die für den Beamten
@@ -697,7 +703,12 @@ nach Satz 1 treten, wenn dies günstiger ist, fünfundsechzig vom
 Hundert der jeweils ruhegehaltfähigen Dienstbezüge aus der Endstufe
 der Besoldungsgruppe A 4. Die Mindestversorgung nach Satz 2 erhöht
 sich um 30,68 Euro für den Ruhestandsbeamten und die Witwe; der
-Erhöhungsbetrag bleibt bei einer Kürzung nach § 25 außer Betracht.
+Erhöhungsbetrag bleibt bei einer Kürzung nach § 25 außer Betracht. Die
+Sätze 1 bis 3 sind nicht anzuwenden, wenn der Beamte eine
+ruhegehaltfähige Dienstzeit nach den §§ 6, 8, 9, 10 und 67 von weniger
+als fünf Jahren zurückgelegt hat. Dies gilt nicht, wenn in Fällen des
+§ 4 Absatz 1 Satz 1 Nummer 2 der Beamte wegen Dienstunfähigkeit in den
+Ruhestand versetzt wurde.
 
 (5) Übersteigt beim Zusammentreffen von Mindestversorgung nach Absatz
 4 mit einer Rente nach Anwendung des § 55 die Versorgung das erdiente
@@ -751,10 +762,8 @@ Bundesbeamtengesetzes in den Ruhestand getreten ist und er
     und
 
 
-4.  keine Einkünfte im Sinne des § 53 Abs. 7 bezieht. Die Einkünfte
-    bleiben außer Betracht, soweit sie durchschnittlich im Monat einen
-    Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb
-    eines Kalenderjahres nicht überschreiten.
+4.  kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7 bezieht,
+    das im Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt.
 
 
 
@@ -763,14 +772,14 @@ Bundesbeamtengesetzes in den Ruhestand getreten ist und er
 ruhegehaltfähigen Dienstbezüge für je zwölf Kalendermonate der für die
 Erfüllung der Wartezeit (Absatz 1 Nr. 1) anrechnungsfähigen
 Pflichtbeitragszeiten, soweit sie nicht von § 50e Abs. 1 erfasst
-werden, nach Vollendung des 17. Lebensjahres und vor Begründung des
-Beamtenverhältnisses zurückgelegt wurden und nicht als ruhegehaltfähig
-berücksichtigt sind. Der hiernach berechnete Ruhegehaltssatz darf
-66,97 vom Hundert nicht überschreiten. In den Fällen des § 14 Abs. 3
-ist das Ruhegehalt, das sich nach Anwendung der Sätze 1 und 2 ergibt,
-entsprechend zu vermindern. Für die Berechnung nach Satz 1 sind
-verbleibende Kalendermonate unter Benutzung des Nenners 12
-umzurechnen; § 14 Abs. 1 Satz 2 und 3 gilt entsprechend.
+werden, vor Begründung des Beamtenverhältnisses zurückgelegt wurden
+und nicht als ruhegehaltfähig berücksichtigt sind. Der hiernach
+berechnete Ruhegehaltssatz darf 66,97 vom Hundert nicht überschreiten.
+In den Fällen des § 14 Abs. 3 ist das Ruhegehalt, das sich nach
+Anwendung der Sätze 1 und 2 ergibt, entsprechend zu vermindern. Für
+die Berechnung nach Satz 1 sind verbleibende Kalendermonate unter
+Benutzung des Nenners 12 umzurechnen; § 14 Abs. 1 Satz 2 und 3 gilt
+entsprechend.
 
 (3) Die Erhöhung fällt spätestens mit Ablauf des Monats weg, in dem
 der Ruhestandsbeamte die Regelaltersgrenze nach § 51 Abs. 1 und 2 des
@@ -808,8 +817,8 @@ an ein.
 (1) Einem Beamten auf Lebenszeit, der vor Ableistung einer Dienstzeit
 von fünf Jahren (§ 4 Abs. 1 Nr. 1) wegen Dienstunfähigkeit oder
 Erreichens der Altersgrenze nach § 32 Abs. 1 Nr. 2 des
-Bundesbeamtengesetzes entlassen ist, kann ein Unterhaltsbeitrag bis
-zur Höhe des Ruhegehalts bewilligt werden.
+Bundesbeamtengesetzes entlassen ist, kann auf Antrag ein
+Unterhaltsbeitrag bis zur Höhe des Ruhegehalts bewilligt werden.
 
 (2) Das Gleiche gilt für einen Beamten auf Probe, der wegen
 Dienstunfähigkeit oder wegen Erreichens der Altersgrenze entlassen ist
@@ -1119,9 +1128,9 @@ Höchstgrenze nicht übersteigen.
 
 (1) Der Witwe, der geschiedenen Ehefrau (§ 22 Abs. 2, 3) und den
 Kindern eines Beamten, dem nach § 15 ein Unterhaltsbeitrag bewilligt
-worden ist oder hätte bewilligt werden können, kann die in den §§ 19,
-20 und 22 bis 25 vorgesehene Versorgung bis zu der dort bezeichneten
-Höhe als Unterhaltsbeitrag bewilligt werden.
+worden ist oder hätte bewilligt werden können, kann auf Antrag die in
+den §§ 19, 20 und 22 bis 25 vorgesehene Versorgung bis zu der dort
+bezeichneten Höhe als Unterhaltsbeitrag bewilligt werden.
 
 (2) § 21 gilt entsprechend.
 
@@ -1218,7 +1227,7 @@ Dienstunfall im Sinne des § 31 Abs. 3 zu verursachen.
 5.  Unfall-Hinterbliebenenversorgung (§§ 39 bis 42),
 
 
-6.  einmalige Unfallentschädigung (§ 43),
+6.  einmalige Unfallentschädigung und einmalige Entschädigung (§ 43),
 
 
 7.  Schadensausgleich in besonderen Fällen (§ 43a),
@@ -1238,8 +1247,8 @@ Leistungen nach den Nummern 2 und 3 sowie nach § 38a.
 
 (1) Dienstunfall ist ein auf äußerer Einwirkung beruhendes,
 plötzliches, örtlich und zeitlich bestimmbares, einen Körperschaden
-verursachendes Ereignis, das in Ausübung oder infolge des Dienstes
-eingetreten ist. Zum Dienst gehören auch
+verursachendes Ereignis, das in Ausübung des Dienstes eingetreten ist.
+Zum Dienst gehören auch
 
 1.  Dienstreisen und die dienstliche Tätigkeit am Bestimmungsort,
 
@@ -1264,15 +1273,14 @@ diesem oder in dessen Nähe eine Unterkunft, so gilt Halbsatz 1 auch
 für den Weg von und nach der Familienwohnung. Der Zusammenhang mit dem
 Dienst gilt als nicht unterbrochen, wenn der Beamte von dem
 unmittelbaren Wege zwischen der Wohnung und der Dienststelle in
-vertretbarem Umfang abweicht, weil sein dem Grunde nach
-kindergeldberechtigendes Kind, das mit ihm in einem Haushalt lebt,
-wegen seiner oder seines Ehegatten beruflichen Tätigkeit fremder Obhut
-anvertraut wird oder weil er mit anderen berufstätigen oder in der
-gesetzlichen Unfallversicherung versicherten Personen gemeinsam ein
-Fahrzeug für den Weg nach und von der Dienststelle benutzt. Ein
-Unfall, den der Verletzte bei Durchführung des Heilverfahrens (§ 33)
-oder auf einem hierzu notwendigen Wege erleidet, gilt als Folge eines
-Dienstunfalles.
+vertretbarem Umfang abweicht, weil sein eigenes dem Grunde nach
+kindergeldberechtigendes Kind wegen seiner oder seines Ehegatten
+beruflichen Tätigkeit fremder Obhut anvertraut wird oder weil er mit
+anderen berufstätigen oder in der gesetzlichen Unfallversicherung
+versicherten Personen gemeinsam ein Fahrzeug für den Weg nach und von
+der Dienststelle benutzt. Ein Unfall, den der Verletzte bei
+Durchführung des Heilverfahrens (§ 33) oder auf einem hierzu
+notwendigen Wege erleidet, gilt als Folge eines Dienstunfalles.
 
 (3) Erkrankt ein Beamter, der nach der Art seiner dienstlichen
 Verrichtung der Gefahr der Erkrankung an bestimmten Krankheiten
@@ -1306,7 +1314,7 @@ Körperschaden erleidet.
 ### § 31a Einsatzversorgung
 
 (1) Unfallfürsorge wie bei einem Dienstunfall wird auch dann gewährt,
-wenn ein Beamter auf Grund eines in Ausübung oder infolge des Dienstes
+wenn ein Beamter auf Grund eines in Ausübung des Dienstes
 eingetretenen Unfalls oder einer derart eingetretenen Erkrankung im
 Sinne des § 31 bei einer besonderen Verwendung im Ausland eine
 gesundheitliche Schädigung erleidet (Einsatzunfall). Eine besondere
@@ -1343,9 +1351,10 @@ Ausschluss für ihn eine unbillige Härte wäre.
 ### § 32 Erstattung von Sachschäden und besonderen Aufwendungen
 
 Sind bei einem Dienstunfall Kleidungsstücke oder sonstige Gegenstände,
-die der Beamte mit sich geführt hat, beschädigt oder zerstört worden
-oder abhanden gekommen, so kann dafür Ersatz geleistet werden. Anträge
-auf Gewährung von Sachschadenersatz nach Satz 1 sind innerhalb einer
+die der Beamte zur Dienstausübung oder während der Dienstzeit benötigt
+und deshalb mit sich geführt hat, beschädigt oder zerstört worden oder
+abhanden gekommen, so kann dafür Ersatz geleistet werden. Anträge auf
+Gewährung von Sachschadenersatz nach Satz 1 sind innerhalb einer
 Ausschlussfrist von drei Monaten zu stellen. Sind durch die erste
 Hilfeleistung nach dem Unfall besondere Kosten entstanden, so ist dem
 Beamten der nachweisbar notwendige Aufwand zu ersetzen.
@@ -1355,7 +1364,7 @@ Beamten der nachweisbar notwendige Aufwand zu ersetzen.
 
 (1) Das Heilverfahren umfasst
 
-1.  die notwendige ärztliche Behandlung,
+1.  die notwendige ärztliche und zahnärztliche Behandlung,
 
 
 2.  die notwendige Versorgung mit Arznei- und anderen Heilmitteln,
@@ -1364,24 +1373,32 @@ Beamten der nachweisbar notwendige Aufwand zu ersetzen.
     Unfallfolgen erleichtern sollen,
 
 
-3.  die notwendige Pflege (§ 34).
+3.  die notwendige Pflege (§ 34),
+
+
+4.  die notwendige Haushaltshilfe und
+
+
+5.  die notwendigen Reisekosten.
 
 
 
 
 (2) An Stelle der ärztlichen Behandlung sowie der Versorgung mit
-Arznei- und anderen Heilmitteln kann Krankenhausbehandlung oder
-Heilanstaltspflege gewährt werden. Der Verletzte ist verpflichtet,
-sich einer Krankenhausbehandlung oder Heilanstaltspflege zu
-unterziehen, wenn sie nach einer Stellungnahme eines durch die
-Dienstbehörde bestimmten Arztes zur Sicherung des Heilerfolges
-notwendig ist.
+Arznei- und anderen Heilmitteln kann Krankenhausbehandlung gewährt
+werden. Der Verletzte ist verpflichtet, sich einer
+Krankenhausbehandlung zu unterziehen, wenn sie nach einer
+Stellungnahme eines durch die Dienstbehörde bestimmten Arztes zur
+Sicherung des Heilerfolges notwendig ist.
 
-(3) Der Verletzte ist verpflichtet, sich einer ärztlichen Behandlung
-zu unterziehen, es sei denn, dass sie mit einer erheblichen Gefahr für
-Leben oder Gesundheit des Verletzten verbunden ist. Das Gleiche gilt
-für eine Operation dann, wenn sie keinen erheblichen Eingriff in die
-körperliche Unversehrtheit bedeutet.
+(3) Der Verletzte ist verpflichtet, sich einer ärztlichen Untersuchung
+und Behandlung zu unterziehen, es sei denn, dass sie mit einer
+erheblichen Gefahr für Leben oder Gesundheit des Verletzten verbunden
+ist. Das Gleiche gilt für eine Operation dann, wenn sie keinen
+erheblichen Eingriff in die körperliche Unversehrtheit bedeutet. Die
+oberste Dienstbehörde oder die von ihr bestimmte Stelle kann
+bestimmen, welcher Arzt die Untersuchung oder Behandlung nach Satz 1
+durchführt.
 
 (4) Verursachen die Folgen des Dienstunfalles außergewöhnliche Kosten
 für Kleider- und Wäscheverschleiß, so sind diese in angemessenem
@@ -1396,7 +1413,7 @@ Rechtsverordnung.
 ### § 34 Pflegekosten und Hilflosigkeitszuschlag
 
 (1) Ist der Verletzte infolge des Dienstunfalles so hilflos, dass er
-nicht ohne fremde Wartung und Pflege auskommen kann, so sind ihm die
+nicht ohne fremde Hilfe und Pflege auskommen kann, so sind ihm die
 Kosten einer notwendigen Pflege in angemessenem Umfang zu erstatten.
 Die Dienstbehörde kann jedoch selbst für die Pflege Sorge tragen.
 
@@ -1409,11 +1426,15 @@ Kostenerstattung nach Absatz 1 entfällt.
 ### § 35 Unfallausgleich
 
 (1) Ist der Verletzte infolge des Dienstunfalles in seiner
-Erwerbsfähigkeit länger als sechs Monate wesentlich beschränkt, so
-erhält er, solange dieser Zustand andauert, neben den Dienstbezügen,
-den Anwärterbezügen oder dem Ruhegehalt einen Unfallausgleich. Dieser
-wird in Höhe der Grundrente nach § 30 Absatz 1 und § 31 Abs. 1 bis 3
-des Bundesversorgungsgesetzes gewährt.
+Erwerbsfähigkeit länger als sechs Monate um mindestens 25 Prozent
+gemindert, so erhält er, solange dieser Zustand andauert, neben den
+Dienstbezügen, den Anwärterbezügen oder dem Ruhegehalt einen
+Unfallausgleich. Dieser wird in Höhe der Grundrente nach § 31 Absatz 1
+bis 3 in Verbindung mit § 30 Absatz 1 Satz 2 zweiter Halbsatz des
+Bundesversorgungsgesetzes gewährt. Wird die Minderung der
+Erwerbsfähigkeit bei der Feststellung gestaffelt eingeschätzt, ist der
+Unfallausgleich in Höhe desjenigen Grades der Minderung der
+Erwerbsfähigkeit zu zahlen, der wenigstens sechs Monate Bestand hat.
 
 (2) Die Minderung der Erwerbsfähigkeit ist nach der körperlichen
 Beeinträchtigung im Allgemeinen Erwerbsleben zu beurteilen. Hat bei
@@ -1424,8 +1445,7 @@ Verletzten, die unmittelbar vor dem Eintritt des Dienstunfalles
 bestand, auszugehen und zu ermitteln, welcher Teil dieser
 individuellen Erwerbsfähigkeit durch den Dienstunfall gemindert wurde.
 Beruht die frühere Erwerbsminderung auf einem Dienstunfall, so kann
-ein einheitlicher Unfallausgleich festgesetzt werden. Für äußere
-Körperschäden können Mindestvomhundertsätze festgesetzt werden.
+ein einheitlicher Unfallausgleich festgesetzt werden.
 
 (3) Der Unfallausgleich wird neu festgestellt, wenn in den
 Verhältnissen, die für die Feststellung maßgebend gewesen sind, eine
@@ -1441,21 +1461,21 @@ Dienstbezüge gewährt.
 ### § 36 Unfallruhegehalt
 
 (1) Ist der Beamte infolge des Dienstunfalles dienstunfähig geworden
-und in den Ruhestand getreten, so erhält er Unfallruhegehalt.
+und deswegen in den Ruhestand versetzt worden, so erhält er
+Unfallruhegehalt.
 
 (2) Für die Berechnung des Unfallruhegehalts eines vor Vollendung des
-60\. Lebensjahres in den Ruhestand getretenen Beamten wird der
+60\. Lebensjahres in den Ruhestand versetzten Beamten wird der
 ruhegehaltfähigen Dienstzeit nur die Hälfte der Zurechnungszeit nach §
 13 Abs. 1 hinzugerechnet; § 13 Abs. 3 gilt entsprechend.
 
 (3) Der Ruhegehaltssatz nach § 14 Abs. 1 erhöht sich um zwanzig vom
-Hundert. Das Unfallruhegehalt beträgt mindestens
-sechsundsechzigzweidrittel vom Hundert der ruhegehaltfähigen
-Dienstbezüge und darf fünfundsiebzig vom Hundert der ruhegehaltfähigen
-Dienstbezüge nicht übersteigen. Es darf nicht hinter fünfundsiebzig
-vom Hundert der jeweils ruhegehaltfähigen Dienstbezüge aus der
-Endstufe der Besoldungsgruppe A 4 zurückbleiben; § 14 Abs. 4 Satz 3
-gilt entsprechend.
+Hundert. Das Unfallruhegehalt beträgt mindestens 66,67 vom Hundert der
+ruhegehaltfähigen Dienstbezüge und darf fünfundsiebzig vom Hundert der
+ruhegehaltfähigen Dienstbezüge nicht übersteigen. Es darf nicht hinter
+fünfundsiebzig vom Hundert der jeweils ruhegehaltfähigen Dienstbezüge
+aus der Endstufe der Besoldungsgruppe A 4 zurückbleiben; § 14 Abs. 4
+Satz 3 gilt entsprechend.
 
 
 ### § 37 Erhöhtes Unfallruhegehalt
@@ -1466,15 +1486,15 @@ dieser Gefährdung einen Dienstunfall, so sind bei der Bemessung des
 Unfallruhegehalts 80 vom Hundert der ruhegehaltfähigen Dienstbezüge
 aus der Endstufe der übernächsten Besoldungsgruppe zugrunde zu legen,
 wenn er infolge dieses Dienstunfalles dienstunfähig geworden und in
-den Ruhestand getreten und im Zeitpunkt des Eintritts in den Ruhestand
-infolge des Dienstunfalles in seiner Erwerbsfähigkeit um mindestens 50
-vom Hundert beschränkt ist. Satz 1 gilt mit der Maßgabe, dass sich für
-Beamte der Laufbahngruppe des einfachen Dienstes die ruhegehaltfähigen
-Dienstbezüge mindestens nach der Besoldungsgruppe A 6, für Beamte der
-Laufbahngruppe des mittleren Dienstes mindestens nach der
-Besoldungsgruppe A 9, für Beamte der Laufbahngruppe des gehobenen
-Dienstes mindestens nach der Besoldungsgruppe A 12 und für Beamte der
-Laufbahngruppe des höheren Dienstes mindestens nach der
+den Ruhestand versetzt wurde und im Zeitpunkt der Versetzung in den
+Ruhestand infolge des Dienstunfalles in seiner Erwerbsfähigkeit um
+mindestens 50 vom Hundert beschränkt ist. Satz 1 gilt mit der Maßgabe,
+dass sich für Beamte der Laufbahngruppe des einfachen Dienstes die
+ruhegehaltfähigen Dienstbezüge mindestens nach der Besoldungsgruppe A
+6, für Beamte der Laufbahngruppe des mittleren Dienstes mindestens
+nach der Besoldungsgruppe A 9, für Beamte der Laufbahngruppe des
+gehobenen Dienstes mindestens nach der Besoldungsgruppe A 12 und für
+Beamte der Laufbahngruppe des höheren Dienstes mindestens nach der
 Besoldungsgruppe A 16 bemessen; die Einteilung in Laufbahngruppen gilt
 für die Polizeivollzugsbeamten, die sonstigen Beamten des
 Vollzugsdienstes und die Beamten des Einsatzdienstes der
@@ -1495,10 +1515,10 @@ einen Dienstunfall mit den in Absatz 1 genannten Folgen erleidet.
 einen Einsatzunfall oder ein diesem gleichstehendes Ereignis im Sinne
 des § 31a erleidet und er infolge des Einsatzunfalls oder des diesem
 gleichstehenden Ereignisses dienstunfähig geworden und in den
-Ruhestand getreten und im Zeitpunkt des Eintritts in den Ruhestand
-infolge des Einsatzunfalls oder des diesem gleichstehenden Ereignisses
-in seiner Erwerbsfähigkeit um mindestens 50 vom Hundert beschränkt
-ist.
+Ruhestand versetzt wurde und im Zeitpunkt der Versetzung in den
+Ruhestand infolge des Einsatzunfalls oder des diesem gleichstehenden
+Ereignisses in seiner Erwerbsfähigkeit um mindestens 50 vom Hundert
+beschränkt ist.
 
 (4) weggefallen
 
@@ -1506,20 +1526,21 @@ ist.
 ### § 38 Unterhaltsbeitrag für frühere Beamte und frühere Ruhestandsbeamte
 
 (1) Ein durch Dienstunfall verletzter früherer Beamter, dessen
-Beamtenverhältnis nicht durch Eintritt in den Ruhestand geendet hat,
-erhält neben dem Heilverfahren (§§ 33, 34) für die Dauer einer durch
-den Dienstunfall verursachten Erwerbsbeschränkung einen
-Unterhaltsbeitrag.
+Beamtenverhältnis nicht durch Eintritt oder Versetzung in den
+Ruhestand geendet hat, erhält neben dem Heilverfahren (§§ 33, 34) für
+die Dauer einer durch den Dienstunfall verursachten
+Erwerbsbeschränkung einen Unterhaltsbeitrag. Der Anspruch erlischt ab
+der Gewährung von Altersgeld.
 
 (2) Der Unterhaltsbeitrag beträgt
 
-1.  bei völliger Erwerbsunfähigkeit sechsundsechzigzweidrittel vom Hundert
-    der ruhegehaltfähigen Dienstbezüge nach Absatz 4,
+1.  bei völliger Erwerbsunfähigkeit 66,67 vom Hundert der
+    ruhegehaltfähigen Dienstbezüge nach Absatz 4,
 
 
-2.  bei Minderung der Erwerbsfähigkeit um wenigstens zwanzig vom Hundert
-    den der Minderung entsprechenden Teil des Unterhaltsbeitrages nach
-    Nummer 1.
+2.  bei Minderung der Erwerbsfähigkeit um wenigstens 25 vom Hundert den
+    der Minderung entsprechenden Teil des Unterhaltsbeitrages nach Nummer
+    1\.
 
 
 
@@ -1576,7 +1597,7 @@ Minderung der Erwerbsfähigkeit gewährt
     nach § 39 Abs. 1 Nr. 2 in Verbindung mit § 36 Abs. 3 Satz 3,
 
 
-2.  bei Minderung der Erwerbsfähigkeit um mindestens 20 vom Hundert in
+2.  bei Minderung der Erwerbsfähigkeit um mindestens 25 vom Hundert in
     Höhe eines der Minderung der Erwerbsfähigkeit entsprechenden Teils des
     Unterhaltsbeitrages nach Nummer 1.
 
@@ -1849,9 +1870,8 @@ im Falle des § 22 Abs. 1 nicht gewährt.
 entstehen können, sind innerhalb einer Ausschlussfrist von zwei Jahren
 nach dem Eintritt des Unfalles bei dem Dienstvorgesetzten des
 Verletzten zu melden. § 32 Satz 2 bleibt unberührt. Die Frist nach
-Satz 1 gilt auch dann als gewahrt, wenn der Unfall bei der für den
-Wohnort des Berechtigten zuständigen unteren Verwaltungsbehörde
-gemeldet worden ist.
+Satz 1 gilt auch dann als gewahrt, wenn der Unfall bei der zuständigen
+Dienstunfallfürsorgestelle gemeldet worden ist.
 
 (2) Nach Ablauf der Ausschlussfrist wird Unfallfürsorge nur gewährt,
 wenn seit dem Unfall noch nicht zehn Jahre vergangen sind und
@@ -1867,11 +1887,13 @@ Fällen vom Tage der Meldung an gewährt; zur Vermeidung von Härten kann
 sie auch von einem früheren Zeitpunkt an gewährt werden.
 
 (3) Der Dienstvorgesetzte hat jeden Unfall, der ihm von Amts wegen
-oder durch Meldung der Beteiligten bekannt wird, sofort zu
-untersuchen. Die oberste Dienstbehörde oder die von ihr bestimmte
-Stelle entscheidet, ob ein Dienstunfall vorliegt und ob der Verletzte
-den Unfall vorsätzlich herbeigeführt hat. Die Entscheidung ist dem
-Verletzten oder seinen Hinterbliebenen bekannt zu geben.
+oder durch die Meldung des verletzten Beamten bekannt wird,
+unverzüglich zu untersuchen und das Ergebnis der zuständigen
+Dienstunfallfürsorgestelle mitzuteilen. Die oberste Dienstbehörde oder
+die von ihr bestimmte Stelle entscheidet, ob ein Dienstunfall vorliegt
+und ob der Verletzte den Unfall vorsätzlich herbeigeführt hat. Die
+Entscheidung ist dem Verletzten oder seinen Hinterbliebenen bekannt zu
+geben.
 
 (4) Unfallfürsorge nach § 30 Abs. 1 Satz 2 wird nur gewährt, wenn der
 Unfall der Beamtin innerhalb der Fristen nach den Absätzen 1 und 2
@@ -1893,7 +1915,11 @@ eines Dienstunfalles gegen den Dienstherrn nur die in den §§ 30 bis
 Dienstbereich eines anderen öffentlich-rechtlichen Dienstherrn
 versetzt worden, so richten sich die Ansprüche gegen diesen; das
 Gleiche gilt in den Fällen des gesetzlichen Übertritts oder der
-Übernahme bei der Umbildung von Körperschaften.
+Übernahme bei der Umbildung von Körperschaften. Satz 2 gilt in den
+Fällen, in denen der Beamte aus dem Dienstbereich eines öffentlich-
+rechtlichen Dienstherrn außerhalb des Geltungsbereichs dieses Gesetzes
+zu einem Dienstherrn im Geltungsbereich dieses Gesetzes versetzt wird,
+mit der Maßgabe, dass dieses Gesetz angewendet wird.
 
 (2) Weitergehende Ansprüche auf Grund allgemeiner gesetzlicher
 Vorschriften können gegen einen öffentlich-rechtlichen Dienstherrn im
@@ -2060,11 +2086,13 @@ Versorgungsrecht zuständigen Ministerium auf andere Stellen
 (2) Entscheidungen über die Bewilligung von Versorgungsbezügen auf
 Grund von Kannvorschriften dürfen erst beim Eintritt des
 Versorgungsfalles getroffen werden; vorherige Zusicherungen sind
-unwirksam. Ob Zeiten auf Grund der §§ 10 bis 12 als ruhegehaltfähige
-Dienstzeit zu berücksichtigen sind, soll in der Regel bei der Berufung
-in das Beamtenverhältnis entschieden werden; diese Entscheidungen
-stehen unter dem Vorbehalt eines Gleichbleibens der Rechtslage, die
-ihnen zugrunde liegt.
+unwirksam. Bei der Einstellung eines Beamten des Bundes ist auf Antrag
+zu entscheiden, ob ruhegehaltfähige Zeiten nach § 10 vorliegen und
+Zeiten auf Grund der §§ 11 und 12 als ruhegehaltfähig berücksichtigt
+werden können. Satz 2 gilt für die Versetzung eines Beamten von einem
+anderen Dienstherrn in den Dienst des Bundes entsprechend. Die
+Entscheidungen stehen unter dem Vorbehalt des Gleichbleibens der Sach-
+und Rechtslage, die diesen Entscheidungen zugrunde liegt.
 
 (3) Entscheidungen in versorgungsrechtlichen Angelegenheiten, die eine
 grundsätzliche, über den Einzelfall hinausgehende Bedeutung haben,
@@ -2093,12 +2121,12 @@ Konto des Empfängers trägt die die Versorgungsbezüge zahlende Stelle;
 bei einer Überweisung der Versorgungsbezüge auf ein im Ausland
 geführtes Konto trägt der Versorgungsempfänger die Kosten und die
 Gefahr der Übermittlung der Versorgungsbezüge sowie die Kosten einer
-Meldung nach § 59 der Außenwirtschaftsverordnung in der jeweils
-geltenden Fassung. Die Kontoeinrichtungs-, Kontoführungs- oder
-Buchungsgebühren trägt der Empfänger. Eine Auszahlung auf andere Weise
-kann nur zugestanden werden, wenn dem Empfänger die Einrichtung oder
-Benutzung eines Kontos aus wichtigem Grund nicht zugemutet werden
-kann.
+Meldung nach § 11 Absatz 2 des Außenwirtschaftsgesetzes in Verbindung
+mit einer auf Grund dieser Vorschrift erlassenen Rechtsverordnung. Die
+Kontoeinrichtungs-, Kontoführungs- oder Buchungsgebühren trägt der
+Empfänger. Eine Auszahlung auf andere Weise kann nur zugestanden
+werden, wenn dem Empfänger die Einrichtung oder Benutzung eines Kontos
+aus wichtigem Grund nicht zugemutet werden kann.
 
 (8) Bei der Berechnung von Versorgungsbezügen sind die sich ergebenden
 Bruchteile eines Cents unter 0,5 abzurunden und ab 0,5 aufzurunden.
@@ -2209,8 +2237,10 @@ nicht anzuwenden.
 (8) Hat ein Beamter vor der Berufung in ein Beamtenverhältnis ein vor
 dem 1. Januar 1992 geborenes Kind erzogen, gelten die Absätze 1 bis 7
 entsprechend mit der Maßgabe, dass die Kindererziehungszeit zwölf
-Kalendermonate nach Ablauf des Monats der Geburt endet. Die §§ 249 und
-249a des Sechsten Buches Sozialgesetzbuch gelten entsprechend.
+Kalendermonate nach Ablauf des Monats der Geburt endet. § 249 des
+Sechsten Buches Sozialgesetzbuch in der bis zum 30. Juni 2014
+geltenden Fassung und § 249a des Sechsten Buches Sozialgesetzbuch
+gelten entsprechend.
 
 
 ### § 50b Kindererziehungsergänzungszuschlag
@@ -2367,10 +2397,9 @@ erhalten vorübergehend Leistungen entsprechend den §§ 50a, 50b und
     haben,
 
 
-5.  keine Einkünfte im Sinne des § 53 Abs. 7 bezogen werden; die Einkünfte
-    bleiben außer Betracht, soweit sie durchschnittlich im Monat einen
-    Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb
-    eines Kalenderjahres nicht überschreiten.
+5.  sie kein Erwerbs- oder Erwerbsersatzeinkommen nach § 53 Absatz 7
+    beziehen, das im Durchschnitt des Kalenderjahres 525 Euro monatlich
+    übersteigt.
 
 
 
@@ -2387,10 +2416,9 @@ Versorgungsempfänger
     mit Ablauf des Tages vor dem Beginn der Rente, oder
 
 
-2.  ein Erwerbseinkommen bezieht, das durchschnittlich im Monat einen
-    Betrag von 400 Euro zuzüglich des Zweifachen dieses Betrages innerhalb
-    eines Kalenderjahres übersteigt, mit Ablauf des Tages vor Beginn der
-    Erwerbstätigkeit.
+2.  ein Erwerbseinkommen (§ 53 Absatz 7 Satz 1 und 2) bezieht, das im
+    Durchschnitt des Kalenderjahres 525 Euro monatlich übersteigt, mit
+    Ablauf des Tages vor Beginn der Erwerbstätigkeit.
 
 
 
@@ -2449,7 +2477,7 @@ aus Überzahlungen von Dienst- oder Versorgungsbezügen können auf das
 Sterbegeld angerechnet werden.
 
 
-### § 52
+### § 52 Rückforderung von Versorgungsbezügen
 
 (1) Wird ein Versorgungsberechtigter durch eine gesetzliche Änderung
 seiner Versorgungsbezüge mit rückwirkender Kraft schlechter gestellt,
@@ -2480,7 +2508,8 @@ entsprechend.
 (1) Bezieht ein Versorgungsberechtigter Erwerbs- oder
 Erwerbsersatzeinkommen (Absatz 7), erhält er daneben seine
 Versorgungsbezüge nur bis zum Erreichen der in Absatz 2 bezeichneten
-Höchstgrenze.
+Höchstgrenze. Satz 1 ist nicht auf Empfänger von Waisengeld
+anzuwenden.
 
 (2) Als Höchstgrenze gelten
 
@@ -2492,9 +2521,7 @@ Höchstgrenze.
     Unterschiedsbetrages nach § 50 Abs. 1,
 
 
-2.  für Waisen vierzig vom Hundert des Betrages, der sich nach Nummer 1
-    unter Berücksichtigung des ihnen zustehenden Unterschiedsbetrages nach
-    § 50 Abs. 1 ergibt,
+2.  (weggefallen)
 
 
 3.  für Ruhestandsbeamte, die wegen Dienstunfähigkeit, die nicht auf einem
@@ -2507,8 +2534,7 @@ Höchstgrenze.
     von 71,75 vom Hundert des Eineinhalbfachen der jeweils
     ruhegehaltfähigen Dienstbezüge aus der Endstufe der Besoldungsgruppe A
     4, zuzüglich des jeweils zustehenden Unterschiedsbetrages nach § 50
-    Abs. 1 sowie eines Betrages von monatlich 400 Euro zuzüglich des
-    Zweifachen dieses Betrages innerhalb eines Kalenderjahres.
+    Abs. 1 sowie eines Betrages von monatlich 525 Euro.
 
 
 
@@ -2523,7 +2549,7 @@ Satz 1 gilt nicht beim Bezug von Verwendungseinkommen, das mindestens
 aus derselben Besoldungsgruppe oder einer vergleichbaren
 Vergütungsgruppe berechnet wird, aus der sich auch die
 ruhegehaltfähigen Dienstbezüge bestimmen. Für sonstiges in der Höhe
-vergleichbares Verwendungseinkommen gelten Satz 2 und Absatz 7 Satz 5
+vergleichbares Verwendungseinkommen gelten Satz 2 und Absatz 7 Satz 4
 entsprechend.
 
 (6) Bei der Ruhensberechnung für einen früheren Beamten oder früheren
@@ -2537,20 +2563,51 @@ zusteht.
 (7) Erwerbseinkommen sind Einkünfte aus nichtselbständiger Arbeit
 einschließlich Abfindungen, aus selbständiger Arbeit sowie aus
 Gewerbebetrieb und aus Land- und Forstwirtschaft. Nicht als
-Erwerbseinkommen gelten Aufwandsentschädigungen, im Rahmen der
-Einkunftsarten nach Satz 1 anerkannte Betriebsausgaben und
-Werbungskosten nach dem Einkommensteuergesetz, Jubiläumszuwendungen,
-ein Unfallausgleich (§ 35), steuerfreie Einnahmen für Leistungen zur
-Grundpflege oder hauswirtschaftlichen Versorgung sowie Einkünfte aus
-Tätigkeiten, die nach Art und Umfang Nebentätigkeiten im Sinne des §
-100 Abs. 1 Nr. 2 des Bundesbeamtengesetzes entsprechen.
+Erwerbseinkommen gelten
+
+1.  Aufwandsentschädigungen,
+
+
+2.  im Rahmen der Einkunftsarten nach Satz 1 anerkannte Betriebsausgaben
+    und Werbungskosten nach dem Einkommensteuergesetz,
+
+
+3.  Jubiläumszuwendungen,
+
+
+4.  ein Unfallausgleich nach § 35,
+
+
+5.  steuerfreie Einnahmen für Leistungen zur Grundpflege oder
+    hauswirtschaftlichen Versorgung nach § 3 Nummer 36 des
+    Einkommensteuergesetzes,
+
+
+6.  Einkünfte aus Tätigkeiten, die nach Art und Umfang Nebentätigkeiten im
+    Sinne des § 100 Absatz 1 Nummer 2 des Bundesbeamtengesetzes
+    entsprechen,
+
+
+7.  als Einmalzahlung gewährte Leistungsbezüge im Sinne der
+    Bundesleistungsbesoldungsverordnung und des § 18 (Bund) des
+    Tarifvertrags für den öffentlichen Dienst und vergleichbare Leistungen
+    aus einer Beschäftigung im öffentlichen Dienst sowie
+
+
+8.  Bezüge nach den §§ 52 bis 56 des Bundesbesoldungsgesetzes, wenn ein
+    Versorgungsberechtigter auf Grund seiner Verwendung außerhalb des
+    Geltungsbereiches des Grundgesetzes ein Einkommen nach Absatz 8
+    bezieht.
+
+
+
 Erwerbsersatzeinkommen sind Leistungen, die auf Grund oder in
 entsprechender Anwendung öffentlich-rechtlicher Vorschriften
-kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen. Die
-Berücksichtigung des Erwerbs- und des Erwerbsersatzeinkommens erfolgt
-monatsbezogen. Wird Einkommen nicht in Monatsbeträgen erzielt, ist das
-Einkommen des Kalenderjahres, geteilt durch zwölf Kalendermonate,
-anzusetzen.
+kurzfristig erbracht werden, um Erwerbseinkommen zu ersetzen.
+Erwerbseinkommen wird in den Monaten des Zusammentreffens mit
+Versorgungsbezügen mit einem Zwölftel des im Kalenderjahr erzielten
+Einkommens angerechnet. Erwerbsersatzeinkommen werden im Zuflussmonat
+angerechnet.
 
 (8) Nach Ablauf des Monats, in dem der Versorgungsberechtigte die
 Regelaltersgrenze nach § 51 Abs. 1 und 2 des Bundesbeamtengesetzes
@@ -2581,9 +2638,20 @@ des Betrages, um den sie und das Einkommen die Höchstgrenze
 übersteigen.
 
 
-### § 53a (weggefallen)
+### § 53a Zusammentreffen von Versorgungsbezügen mit Altersgeld, Witwenaltersgeld oder Waisenaltersgeld
 
--
+Bezieht ein Versorgungsempfänger Altersgeld, Witwenaltersgeld oder
+Waisenaltersgeld nach dem Altersgeldgesetz vom 28. August 2013 (BGBl.
+I S. 3386) oder eine vergleichbare Alterssicherungsleistung, ruhen
+seine Versorgungsbezüge nach Anwendung des § 55 in Höhe des jeweiligen
+Betrages des Altersgelds, Witwenaltersgelds oder Waisenaltersgelds.
+Satz 1 gilt nicht beim Bezug einer Mindestversorgung nach § 14 Absatz
+4\. Beim Zusammentreffen von Ruhegehalt mit Witwenaltersgeld wird
+mindestens ein Betrag in Höhe des Ruhegehalts zuzüglich 20 vom Hundert
+des Witwenaltersgelds gezahlt. Beim Zusammentreffen von Witwen- oder
+Witwergeld mit Altersgeld wird mindestens ein Betrag in Höhe des
+Altersgelds zuzüglich 20 vom Hundert des Witwen- oder Witwergelds
+gezahlt.
 
 
 ### § 54 Zusammentreffen mehrerer Versorgungsbezüge
@@ -2656,14 +2724,18 @@ vom Hundert beträgt.
 mindestens ein Betrag in Höhe von zwanzig vom Hundert des früheren
 Versorgungsbezuges zu belassen.
 
-(4) Erwirbt ein Ruhestandsbeamter einen Anspruch auf Witwengeld oder
-eine ähnliche Versorgung, so erhält er daneben sein Ruhegehalt
-zuzüglich des Unterschiedsbetrages nach § 50 Abs. 1 nur bis zum
-Erreichen der in Absatz 2 Satz 1 Nr. 3 sowie Satz 3 und 5 bezeichneten
-Höchstgrenze. Die Gesamtbezüge dürfen nicht hinter seinem Ruhegehalt
-zuzüglich des Unterschiedsbetrages nach § 50 Abs. 1 sowie eines
-Betrages in Höhe von zwanzig vom Hundert des neuen Versorgungsbezuges
-zurückbleiben.
+(4) Erwirbt ein Ruhestandsbeamter einen Anspruch auf Witwer- oder
+Witwengeld oder eine ähnliche Versorgung, so erhält er daneben sein
+Ruhegehalt zuzüglich des Unterschiedsbetrages nach § 50 Abs. 1 nur bis
+zum Erreichen der in Absatz 2 Satz 1 Nr. 3 sowie Satz 3 und 5
+bezeichneten Höchstgrenze; beruht das Witwengeld, das Witwergeld oder
+die ähnliche Versorgung auf dem Recht eines anderen Dienstherrn und
+gewährt dieser eine einmalige Sonderzahlung, so ist die monatliche
+Höchstgrenze um ein Zwölftel der tatsächlich an die Witwe oder den
+Witwer gewährten Sonderzahlung zu erhöhen. Die Gesamtbezüge dürfen
+nicht hinter seinem Ruhegehalt zuzüglich des Unterschiedsbetrages nach
+§ 50 Abs. 1 sowie eines Betrages in Höhe von zwanzig vom Hundert des
+neuen Versorgungsbezuges zurückbleiben.
 
 (5) § 53 Abs. 6 gilt entsprechend.
 
@@ -2674,6 +2746,9 @@ zurückbleiben.
 Absatz 2 bezeichneten Höchstgrenze gezahlt. Als Renten gelten
 
 1.  Renten aus den gesetzlichen Rentenversicherungen,
+
+
+1a. Renten nach dem Gesetz über die Alterssicherung der Landwirte,
 
 
 2.  Renten aus einer zusätzlichen Alters- oder Hinterbliebenenversorgung
@@ -2701,9 +2776,10 @@ Wird eine Rente im Sinne des Satzes 2 nicht beantragt oder auf sie
 verzichtet oder wird an deren Stelle eine Kapitalleistung,
 Beitragserstattung oder Abfindung gezahlt, so tritt an die Stelle der
 Rente der Betrag, der vom Leistungsträger ansonsten zu zahlen wäre.
-Bei Zahlung einer Abfindung, Beitragserstattung oder eines sonstigen
-Kapitalbetrages ist der sich bei einer Verrentung ergebende Betrag
-zugrunde zu legen. Dies gilt nicht, wenn der Ruhestandsbeamte
+Erfolgt die Zahlung einer Abfindung oder eines sonstigen
+Kapitalbetrages, weil kein Anspruch auf eine laufende Rente besteht,
+so ist der Betrag zugrunde zu legen, der sich bei einer Verrentung der
+einmaligen Zahlung ergibt. Dies gilt nicht, wenn der Ruhestandsbeamte
 innerhalb von drei Monaten nach Zufluss den Kapitalbetrag zuzüglich
 der hierauf gewährten Zinsen an den Dienstherrn abführt. Zu den Renten
 und den Leistungen nach Nummer 4 rechnet nicht der Kinderzuschuss.
@@ -2736,10 +2812,11 @@ zu § 14 Absatz 1 Satz 4 des Bewertungsgesetzes ergibt.
 
     b)  als ruhegehaltfähige Dienstzeit die Zeit vom vollendeten siebzehnten
         Lebensjahr bis zum Eintritt des Versorgungsfalles abzüglich von Zeiten
-        nach § 12a, zuzüglich der Zeiten, um die sich die ruhegehaltfähige
-        Dienstzeit erhöht, und der bei der Rente berücksichtigten Zeiten einer
-        rentenversicherungspflichtigen Beschäftigung oder Tätigkeit nach
-        Eintritt des Versorgungsfalles,
+        nach § 12a, zuzüglich ruhegehaltfähiger Dienstzeiten vor Vollendung
+        des 17. Lebensjahres sowie der Zeiten, um die sich die
+        ruhegehaltfähige Dienstzeit erhöht, und der bei der Rente
+        berücksichtigten Zeiten einer rentenversicherungspflichtigen
+        Beschäftigung oder Tätigkeit nach Eintritt des Versorgungsfalles,
 
 
 
@@ -2818,7 +2895,8 @@ zu Zusatz- oder Sonderversorgungssystemen der ehemaligen Deutschen
 Demokratischen Republik geleistet werden oder die von einem
 ausländischen Versicherungsträger nach einem für die Bundesrepublik
 Deutschland wirksamen zwischen- oder überstaatlichen Abkommen gewährt
-werden.
+werden. Für die Umrechnung von Renten ausländischer Versorgungsträger
+gilt § 17a Absatz 1 des Vierten Buches Sozialgesetzbuch entsprechend.
 
 
 ### § 56 Zusammentreffen von Versorgungsbezügen mit Versorgung aus zwischenstaatlicher und überstaatlicher Verwendung
@@ -2848,13 +2926,12 @@ bei der Berechnung des Ruhegehalts wie Dienstzeiten berücksichtigt
 werden.
 
 (2) Als Höchstgrenze gelten die in § 54 Abs. 2 bezeichneten
-Höchstgrenzen sinngemäß, wobei § 50 Abs. 5 Satz 2 nicht anzuwenden
-ist; dabei ist als Ruhegehalt dasjenige deutsche Ruhegehalt zugrunde
-zu legen, das sich unter Einbeziehung der Zeiten einer Verwendung im
-öffentlichen Dienst einer zwischenstaatlichen oder überstaatlichen
-Einrichtung als ruhegehaltfähige Dienstzeit und auf der Grundlage der
-ruhegehaltfähigen Dienstbezüge aus der Endstufe der nächsthöheren
-Besoldungsgruppe ergibt.
+Höchstgrenzen sinngemäß; dabei ist als Ruhegehalt dasjenige deutsche
+Ruhegehalt zugrunde zu legen, das sich unter Einbeziehung der Zeiten
+einer Verwendung im öffentlichen Dienst einer zwischenstaatlichen oder
+überstaatlichen Einrichtung als ruhegehaltfähige Dienstzeit und auf
+der Grundlage der ruhegehaltfähigen Dienstbezüge aus der Endstufe der
+nächsthöheren Besoldungsgruppe ergibt.
 
 (3) Verzichtet der Beamte oder Ruhestandsbeamte bei seinem Ausscheiden
 aus dem öffentlichen Dienst einer zwischenstaatlichen oder
@@ -2978,16 +3055,15 @@ Kapitalbetrages an den Dienstherrn abgewendet werden.
 
 (2) Als voller Kapitalbetrag wird der Betrag angesetzt, der auf Grund
 der Entscheidung des Familiengerichts zu leisten gewesen wäre, erhöht
-oder vermindert um die Hundertsätze der nach dem Tage, an dem die
-Entscheidung des Familiengerichts ergangen ist, bis zum Tag der
-Zahlung des Kapitalbetrages eingetretenen Erhöhungen oder
+oder vermindert um die Hundertsätze der nach dem Ende der Ehezeit bis
+zum Tag der Zahlung des Kapitalbetrages eingetretenen Erhöhungen oder
 Verminderungen der beamtenrechtlichen Versorgungsbezüge, die in festen
 Beträgen festgesetzt sind. Vom Zeitpunkt des Eintritts in den
-Ruhestand an, bei einem Ruhestandsbeamten von dem Tage, an dem die
-Entscheidung des Familiengerichts ergangen ist, erhöht oder vermindert
-sich der Kapitalbetrag in dem Verhältnis, in dem sich das Ruhegehalt
-vor Anwendung von Ruhens-, Kürzungs- und Anrechnungsvorschriften durch
-Anpassung der Versorgungsbezüge erhöht oder vermindert.
+Ruhestand an, bei einem Ruhestandsbeamten vom Tage nach dem Ende der
+Ehezeit an, erhöht oder vermindert sich der Kapitalbetrag in dem
+Verhältnis, in dem sich das Ruhegehalt vor Anwendung von Ruhens-,
+Kürzungs- und Anrechnungsvorschriften durch Anpassung der
+Versorgungsbezüge erhöht oder vermindert.
 
 (3) Bei teilweiser Zahlung vermindert sich die Kürzung der
 Versorgungsbezüge in dem entsprechenden Verhältnis; der Betrag der
@@ -3081,41 +3157,64 @@ Grundrecht verwirkt hat. In den Fällen des Satzes 1 Nr. 4 und des
 Satzes 2 gilt § 41 sinngemäß. Die §§ 42 und 43 des
 Bundesbeamtengesetzes finden entsprechende Anwendung.
 
-(2) Das Waisengeld wird nach Vollendung des achtzehnten Lebensjahres
-auf Antrag gewährt, solange die in § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe
-a, b und d, Nr. 3 und Abs. 5 Satz 1, 2 und 4 des
-Einkommensteuergesetzes in der bis zum 31. Dezember 2006 geltenden
-Fassung genannten Voraussetzungen gegeben sind. Im Falle einer
-körperlichen, geistigen oder seelischen Behinderung im Sinne des § 32
-Abs. 4 Satz 1 Nr. 3 des Einkommensteuergesetzes in der bis zum 31.
-Dezember 2006 geltenden Fassung wird das Waisengeld ungeachtet der
-Höhe eines eigenen Einkommens dem Grunde nach gewährt; soweit ein
-eigenes Einkommen der Waise das Zweifache des Mindestvollwaisengeldes
-(§ 14 Abs. 4 Satz 2 in Verbindung mit § 24 Abs. 1) übersteigt, wird es
-zur Hälfte auf das Waisengeld zuzüglich des Unterschiedsbetrages (§ 50
-Abs. 1) angerechnet. Das Waisengeld nach Satz 2 wird über das
-siebenundzwanzigste Lebensjahr hinaus nur gewährt, wenn
+(2) Waisengeld wird nach Vollendung des 18. Lebensjahres auf Antrag
+gewährt, wenn die Waise
 
-1.  die Behinderung bei Vollendung des siebenundzwanzigsten Lebensjahres
-    bestanden hat oder bis zu dem sich nach § 32 Abs. 5 des
-    Einkommensteuergesetzes in der bis zum 31. Dezember 2006 geltenden
-    Fassung ergebenden Zeitpunkt eingetreten ist, wenn die Waise sich in
-    verzögerter Schul- oder Berufsausbildung befunden hat, und
+1.  das 27. Lebensjahr noch nicht vollendet hat und
+
+    a)  sich in Schulausbildung oder Berufsausbildung befindet,
 
 
-2.  die Waise ledig oder verwitwet ist oder ihr Ehegatte oder früherer
-    Ehegatte ihr keinen ausreichenden Unterhalt leisten kann oder dem
-    Grunde nach nicht unterhaltspflichtig ist und sie nicht unterhält.
+    b)  sich in einer Übergangszeit von höchstens vier Kalendermonaten
+        befindet, die zwischen zwei Ausbildungsabschnitten oder zwischen einem
+        Ausbildungsabschnitt und der Ableistung des gesetzlichen Wehr- oder
+        Zivildienstes oder der Ableistung eines freiwilligen Dienstes im Sinne
+        des Buchstaben c liegt, oder
+
+
+    c)  einen freiwilligen Dienst im Sinne des § 32 Absatz 4 Satz 1 Nummer 2
+        Buchstabe d des Einkommensteuergesetzes leistet;
 
 
 
-Das Waisengeld wird nach Vollendung des 18. Lebensjahres auf Antrag
-auch dann gewährt, wenn die Waise vor Ablauf des Monats, in dem sie
-das 27. Lebensjahr vollendet, entweder den Bundesfreiwilligendienst
-nach dem Bundesfreiwilligendienstgesetz leistet oder sich in einer
-Übergangszeit von höchstens vier Monaten zwischen einem
-Ausbildungsabschnitt und der Ableistung des Bundesfreiwilligendienstes
-nach dem Bundesfreiwilligendienstgesetz befindet.
+
+
+2.  wegen körperlicher, geistiger oder seelischer Behinderung außerstande
+    ist, sich selbst zu unterhalten; Waisengeld wird auch über das 27.
+    Lebensjahr hinaus gewährt, wenn
+
+    a)  die Behinderung vor Vollendung des 27. Lebensjahres eingetreten ist
+        und
+
+
+    b)  die Waise ledig oder verwitwet ist oder ihr Ehegatte oder früherer
+        Ehegatte ihr keinen ausreichenden Unterhalt leisten kann oder dem
+        Grunde nach nicht unterhaltspflichtig ist und sie auch nicht
+        unterhält.
+
+
+
+
+
+
+In den Fällen des Satzes 1 Nummer 1 Buchstabe a und b sowie Nummer 2
+erhöht sich die jeweilige Altersgrenze für eine Waise, die einen in §
+32 Absatz 5 Satz 1 Nummer 1 oder 2 des Einkommensteuergesetzes
+genannten Dienst oder eine in § 32 Absatz 5 Satz 1 Nummer 3 des
+Einkommensteuergesetzes genannte Tätigkeit ausgeübt hat, um den
+Zeitraum, der der Dauer des jeweiligen Dienstes oder der jeweiligen
+Tätigkeit entspricht. Die Altersgrenze erhöht sich jedoch höchstens um
+die Dauer des inländischen gesetzlichen Grundwehrdienstes oder bei
+anerkannten Kriegsdienstverweigerern um die Dauer des inländischen
+gesetzlichen Zivildienstes. Die Ableistung eines freiwilligen Dienstes
+im Sinne des Satzes 1 Nummer 1 Buchstabe c ist kein gleichgestellter
+Dienst im Sinne des Satzes 2. In den Fällen des Satzes 1 Nummer 2 wird
+Waisengeld ungeachtet der Höhe eines eigenen Einkommens dem Grunde
+nach gewährt. Soweit ein eigenes Einkommen der Waise jedoch das
+Zweifache des Mindestvollwaisengeldes nach § 14 Absatz 4 Satz 2 in
+Verbindung mit § 24 Absatz 1 übersteigt, wird es zur Hälfte auf das
+Waisengeld zuzüglich des Unterschiedsbetrages nach § 50 Absatz 1
+angerechnet.
 
 (3) Hat eine Witwe geheiratet und wird die Ehe aufgelöst, so lebt der
 Anspruch auf Witwengeld wieder auf; ein von der Witwe infolge
@@ -3158,8 +3257,7 @@ Gewährung einer Versorgung unverzüglich anzuzeigen.
 
 
 5.  die Erfüllung der allgemeinen Wartezeit nach dem Sechsten Buch
-    Sozialgesetzbuch in den Fällen des § 12b sowie im Rahmen der §§ 50a
-    bis 50e
+    Sozialgesetzbuch
 
 
 
@@ -3173,6 +3271,12 @@ nach § 69 Absatz 1 Nummer 1 und 2 des Zehnten Buches Sozialgesetzbuch
 oder nach § 151 des Sechsten Buches Sozialgesetzbuch erforderlich
 sind.
 
+(2a) Wer Dienstunfallfürsorgeleistungen nach Abschnitt V dieses
+Gesetzes beantragt oder erhält, hat gegenüber der obersten
+Dienstbehörde oder der von ihr bestimmten Stelle alle Tatsachen
+anzugeben, die für die Leistung erheblich sind. Absatz 2 Satz 2 gilt
+entsprechend.
+
 (3) Kommt ein Versorgungsberechtigter der ihm nach Absatz 2 Satz 1 Nr.
 2 und 3 auferlegten Verpflichtung schuldhaft nicht nach, so kann ihm
 die Versorgung ganz oder teilweise auf Zeit oder Dauer entzogen
@@ -3181,13 +3285,20 @@ ganz oder teilweise wieder zuerkannt werden. Die Entscheidung trifft
 die oberste Dienstbehörde oder die von ihr bestimmte Stelle.
 
 
-### § 62a Mitteilungspflicht für den Versorgungsbericht
+### § 62a Versorgungsbericht, Mitteilungspflichten
 
-Öffentliche Stellen im Sinne des § 2 Abs. 1 und 2 des
-Bundesdatenschutzgesetzes, die Dienstvorgesetzte im Sinne des § 3 Abs.
-2 des Bundesbeamtengesetzes sind, übermitteln dem Bundesministerium
-des Innen die für die Erstellung des Berichtes der Bundesregierung
-über die Entwicklung der Versorgungsleistungen erforderlichen Daten
+(1) Die Bundesregierung soll dem Deutschen Bundestag in jeder
+Wahlperiode einen Bericht über die jeweils im Vorjahr erbrachten
+Versorgungsleistungen im öffentlichen Dienst, über die Entwicklung der
+Sondervermögen nach dem Versorgungsrücklagegesetz sowie über
+Vorausberechnungen der zumindest in den nächsten 30 Jahren zu
+erwartenden Versorgungsleistungen vorlegen.
+
+(2) Öffentliche Stellen im Sinne des § 2 Absatz 1 und 2 des
+Bundesdatenschutzgesetzes, die Dienstvorgesetzte im Sinne des § 3
+Absatz 2 des Bundesbeamtengesetzes sind, übermitteln dem
+Bundesministerium des Innern die für die Erstellung des Berichtes
+erforderlichen Daten
 
 1.  zu den Gründen der Dienstunfähigkeit nach Hauptdiagnoseklassen und
 
@@ -3378,10 +3489,10 @@ letzten Monats.
 Erleidet der Ehrenbeamte einen Dienstunfall (§ 31), so hat er Anspruch
 auf ein Heilverfahren (§ 33). Außerdem kann ihm Ersatz von Sachschäden
 (§ 32) und von der obersten Dienstbehörde oder der von ihr bestimmten
-Stelle, für Ehrenbeamte des Bundes im Einvernehmen mit dem für das
-Versorgungsrecht zuständigen Ministerium oder der von ihm bestimmten
-Stelle, ein nach billigem Ermessen festzusetzender Unterhaltsbeitrag
-bewilligt werden. Das Gleiche gilt für seine Hinterbliebenen.
+Stelle im Einvernehmen mit dem für das Versorgungsrecht zuständigen
+Ministerium oder der von ihm bestimmten Stelle ein nach billigem
+Ermessen festzusetzender Unterhaltsbeitrag bewilligt werden. Das
+Gleiche gilt für seine Hinterbliebenen.
 
 
 ## Abschnitt X - Vorhandene Versorgungsempfänger
@@ -4406,9 +4517,9 @@ werden, ist § 14 Abs. 3 mit folgenden Maßgaben anzuwenden:
 
 
 
-### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes
+### § 69i Übergangsregelung aus Anlass des Einsatzversorgungs-Verbesserungsgesetzes und des Bundeswehr-Attraktivitätssteigerungsgesetzes
 
-Ist der Anspruch nach § 43 in der Zeit vom 1. Dezember 2002 bis zum
+Ist der Anspruch nach § 43 in der Zeit vom 1. November 1991 bis zum
 12\. Dezember 2011 entstanden, beträgt die Unfallentschädigung
 
 1.
@@ -4455,6 +4566,42 @@ Aus gleichem Anlass bereits gewährte Leistungen nach § 43 sind
 anzurechnen.
 
 
+### § 69j Übergangsregelung aus Anlass des Professorenbesoldungsneuregelungsgesetzes
+
+Die ruhegehaltfähigen Dienstbezüge nach § 5 Absatz 1 Satz 1 Nummer 1
+und 4 der Professoren sowie der hauptberuflichen Leiter von
+Hochschulen und Mitglieder von Leitungsgremien an Hochschulen, die vor
+dem 1. Januar 2013 aus einem Amt der Besoldungsgruppe W 2 oder W 3 in
+den Ruhestand versetzt worden sind, werden neu festgesetzt. § 77a des
+Bundesbesoldungsgesetzes gilt entsprechend. Die ruhegehaltfähigen
+Dienstbezüge nach Satz 1 sind nach Maßgabe des Satzes 2 zusammen
+mindestens in der Höhe festzusetzen, in der sie auf der Grundlage des
+bis zum 31. Dezember 2012 geltenden Rechts festgesetzt worden sind.
+Für Hinterbliebene gelten die Sätze 1 bis 3 entsprechend.
+
+
+### § 69k Übergangsregelung aus Anlass des Gesetzes zur Änderung des Versorgungsrücklagegesetzes und weiterer dienstrechtlicher Vorschriften
+
+Für Versorgungsfälle, die vor dem 11. Januar 2017 eingetreten sind,
+sind § 6 Absatz 1 Satz 2 Nummer 1, § 8 Absatz 1, § 9 Absatz 1, § 10
+Satz 1, die §§ 11, 12 Absatz 1 Satz 1 und Absatz 2, § 13 Absatz 2 Satz
+1 und 3, § 14a Absatz 2 Satz 1, § 38 Absatz 2 Nummer 2 und § 55 Absatz
+2 in der bis zum 10. Januar 2017 geltenden Fassung anzuwenden. Satz 1
+gilt entsprechend für künftige Hinterbliebene eines vor dem 11. Januar
+2017 vorhandenen Versorgungsempfängers.
+
+
+### § 69l Übergangsregelung zu § 55
+
+§ 55 Absatz 1 Satz 2 Nummer 1a gilt nicht für Versorgungsfälle, die am
+14\. Juni 2017 vorhanden waren. Für Versorgungsfälle, die nach dem 14.
+Juni 2017 eintreten, sind Renten nach dem Gesetz über die
+Alterssicherung der Landwirte mit der Maßgabe zu berücksichtigen, dass
+der Teil der Rente nach dem Gesetz über die Alterssicherung der
+Landwirte außer Ansatz bleibt, der auf rentenrechtlichen Zeiten
+beruht, die bis zum 14. Juni 2017 zurückgelegt worden sind.
+
+
 ## Abschnitt XI - Anpassung der Versorgungsbezüge
 
 
@@ -4477,14 +4624,14 @@ Erhöhung oder Verminderung der Dienstbezüge um feste Beträge.
 Bundesbesoldungsgesetzes entsprechend für die in Artikel 2 § 2 Abs. 1
 bis 5 des Bundesbesoldungs- und -versorgungsanpassungsgesetzes 1995
 vom 18. Dezember 1995 (BGBl. I S. 1942) genannten Bezügebestandteile
-sowie für die in § 14 Abs. 2 Satz 1 Nr. 3 und § 84 Nr. 3 und 4 des
+sowie für die in § 14 Absatz 2 Nummer 3 und § 84 Nr. 3 und 4 des
 Bundesbesoldungsgesetzes aufgeführten Stellenzulagen und Bezüge. Satz
 1 gilt entsprechend für Empfänger von Versorgungsbezügen der
 weggefallenen Besoldungsgruppe A 1.
 
 (2) Versorgungsbezüge, deren Berechnung ein Ortszuschlag nach dem
 Bundesbesoldungsgesetz in der bis zum 30. Juni 1997 geltenden Fassung
-nicht zugrunde liegt, werden ab 1. Januar 2013 um 1,1 vom Hundert
+nicht zugrunde liegt, werden ab 1. Februar 2017 um 2,25 vom Hundert
 erhöht, wenn der Versorgungsfall vor dem 1. Juli 1997 eingetreten ist.
 Satz 1 gilt entsprechend für
 
@@ -4495,7 +4642,7 @@ Satz 1 gilt entsprechend für
 2.  Versorgungsbezüge, die in festen Beträgen festgesetzt sind,
 
 
-3.  den Betrag nach Artikel 13 § 2 Abs. 4 des Fünften Gesetzes zur
+3.  den Betrag nach Artikel 13 § 2 Absatz 4 des Fünften Gesetzes zur
     Änderung besoldungsrechtlicher Vorschriften vom 28. Mai 1990 (BGBl. I
     S. 967).
 
@@ -4505,7 +4652,7 @@ Satz 1 gilt entsprechend für
 (3) Bei Versorgungsempfängern, deren Versorgungsbezügen ein
 Grundgehalt der Besoldungsgruppen A 1 bis A 8 oder ein Grundgehalt
 nach Zwischenbesoldungsgruppen zugrunde liegt, vermindert sich das
-Grundgehalt ab 1. Januar 2013 um 53,98 Euro, wenn ihren
+Grundgehalt ab 1. Februar 2017 um 60,04 Euro, wenn ihren
 ruhegehaltfähigen Dienstbezügen die Stellenzulage nach Vorbemerkung
 Nummer 27 Abs. 1 Buchstabe a oder b der Bundesbesoldungsordnungen A
 und B bei Eintritt in den Ruhestand nicht zugrunde gelegen hat.
@@ -4957,7 +5104,7 @@ Wahrnehmung einer höherwertigen Funktion.
 (3) Wird der übernommene Beamte oder Richter vom aufnehmenden
 Dienstherrn in den einstweiligen Ruhestand versetzt, beginnt die
 Versorgungslastenbeteiligung des abgebenden Dienstherrn erst mit der
-Antragsaltersgrenze (§ 26 Abs. 4 des Beamtenrechtsrahmengesetzes) des
+Antragsaltersgrenze (§ 52 Absatz 3 des Bundesbeamtengesetzes) des
 Beamten oder Richters, spätestens jedoch mit Einsetzen der
 Hinterbliebenenversorgung.
 
@@ -4982,6 +5129,16 @@ an Stelle des aufnehmenden Dienstherrn eine Versorgungskasse die
 Versorgungsbezüge aus, hat der aufnehmende Dienstherr den ihm nach
 Satz 2 erstatteten Betrag an die Versorgungskasse abzuführen.
 
+(6) Ist ein Dienstherr zur Zahlung einer Abfindung nach Abschnitt 2
+des Versorgungslastenteilungs-Staatsvertrages verpflichtet und hat
+zuvor bereits ein Dienstherrenwechsel im Sinne von Absatz 1 Satz 1 von
+einem anderen Dienstherrn nach § 2 des Bundesbeamtengesetzes
+stattgefunden, so hat der frühere Dienstherr dem abgebenden
+Dienstherrn die zu zahlende Abfindung vorbehaltlich des § 17 des
+Versorgungsrücklagegesetzes anteilig nach den bei ihm zurückgelegten
+Dienstzeiten zu erstatten. Absatz 2 Satz 2 sowie § 6 Absatz 1 des
+Versorgungslastenteilungs-Staatsvertrages gelten entsprechend.
+
 
 ### § 107c Verteilung der Versorgungslasten bei erneuter Berufung in ein öffentlich-rechtliches Dienstverhältnis in dem Artikel 3 des Einigungsvertrages genannten Gebiet
 
@@ -4998,6 +5155,18 @@ Ruhensvorschrift des § 54 nicht zur Auszahlung gelangen, sofern der
 Ruhestandsbeamte oder Richter im Ruhestand im Zeitpunkt der Berufung
 in das neue öffentlich-rechtliche Dienstverhältnis das fünfzigste
 Lebensjahr vollendet hatte.
+
+
+### § 107d Befristete Ausnahme für Verwendungseinkommen
+
+§ 53 ist auf Ruhestandsbeamte, die ein Verwendungseinkommen aus einer
+Beschäftigung beim Auswärtigen Amt, beim Bundesamt für Migration und
+Flüchtlinge oder im Rahmen der Mithilfe bei der Aufnahme oder
+Betreuung von Flüchtlingen beziehen, bis zum 31. Dezember 2018 nicht
+anzuwenden. Satz 1 gilt für Beamte, die wegen Dienstunfähigkeit in den
+Ruhestand versetzt worden sind, erst nach Ablauf des Monats, in dem
+sie die Regelaltersgrenze nach § 51 Absatz 1 und 2 des
+Bundesbeamtengesetzes erreicht haben.
 
 
 ### § 108 Anwendungsbereich in den Ländern
@@ -5018,8 +5187,9 @@ anderes bestimmt ist.
 
 (Inkrafttreten)
 
+Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage I Kap. XIX Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1142)
+### Anhang EV (BGBl. II 1990, 889, 1142)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

@@ -17,10 +17,10 @@ Fundstelle
 :   BGBl I: 1992, 242
 
 Neugefasst durch
-:   Bek. v. 15.2.1995 I 211,
+:   Bek. v. 15.2.1995 I 211;
 
 Geändert durch
-:   Art. 1 V v. 3.9.1997 I 2216
+:   Art. 28 V v. 2.6.2016 I 1257
 
 
 ## § 1
@@ -54,11 +54,11 @@ Seeschiffahrtsstraßen-Ordnung in der Fassung der Bekanntmachung vom
 15\. April 1987 (BGBl. I S. 1266) in der jeweils geltenden Fassung
 bestimmen sich nach der Darstellung in den amtlichen Seekarten des
 Bundesamtes für Seeschiffahrt und Hydrographie in der jeweils
-geltenden Fassung. Die amtlichen Seekarten können bei den Wasser- und
-Schiffahrtsämtern des Bundes im Küstenbereich während der Dienstzeiten
-eingesehen und von den Vertriebs- und Auslieferungsstellen des
-Bundesamtes für Seeschiffahrt und Hydrographie, 20359 Hamburg,
-Bernhard-Nocht-Straße 78, bezogen werden.
+geltenden Fassung. Die amtlichen Seekarten können bei den
+Wasserstraßen- und Schifffahrtsämtern des Bundes im Küstenbereich
+während der Dienstzeiten eingesehen und von den Vertriebs- und
+Auslieferungsstellen des Bundesamtes für Seeschiffahrt und
+Hydrographie, 20359 Hamburg, Bernhard-Nocht-Straße 78, bezogen werden.
 
 
 ## § 2
@@ -130,9 +130,9 @@ betreiben.
 
 ## § 5
 
-(1) Die jeweils örtlich zuständige Wasser- und Schiffahrtsdirektion
-des Bundes kann Befreiungen von den Verboten nach § 4 Abs. 1 oder 3
-Satz 2 gewähren, wenn
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt kann
+Befreiungen von den Verboten nach § 4 Abs. 1 oder 3 Satz 2 gewähren,
+wenn
 
 1.  die Einhaltung der Verbote zu einer nicht beabsichtigten Härte führen
     würde oder

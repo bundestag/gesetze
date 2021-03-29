@@ -3,7 +3,7 @@ Title: Erlass über die Genehmigung einer Änderung des Erlasses über die Stift
   Verleihung der Goethe-Medaille
 jurabk: OrdenErl4ÄndErl
 layout: default
-origslug: ordenerl4_nderl
+origslug: ordenerl4aenderl
 slug: ordenerl4aenderl
 
 ---

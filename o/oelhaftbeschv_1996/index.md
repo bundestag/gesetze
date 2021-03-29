@@ -5,7 +5,7 @@ Title: Verordnung über die Ausstellung von Bescheinigungen nach dem Ölschadeng
   und Hydrographie)
 jurabk: ÖlHaftBeschV 1996
 layout: default
-origslug: _lhaftbeschv_1996
+origslug: oelhaftbeschv_1996
 slug: oelhaftbeschv_1996
 
 ---
@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl I: 1996, 707
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.7.2006 I 1461 u. Bek. v. 14.10.2008 I 2070
+:   Art. 61 G v. 29.3.2017 I 626
 
 
 ## § 1 Begriffsbestimmungen
@@ -56,7 +56,8 @@ das Bundesamt für Seeschiffahrt und Hydrographie zuständig.
 ## § 3 Voraussetzungen
 
 (1) Die Ausstellung einer Ölhaftungsbescheinigung setzt einen
-schriftlichen Antrag des Eigentümers voraus. Der Antrag muß enthalten:
+schriftlichen oder elektronischen Antrag des Eigentümers voraus. Der
+Antrag muß enthalten:
 
 1.  den Namen, das Unterscheidungssignal und den Heimathafen des Schiffes;
 
@@ -166,13 +167,8 @@ eine Ersatzausfertigung ausgestellt. Die unbrauchbar gewordene
 Ölhaftungsbescheinigung ist zurückzugeben.
 
 
-## § 4a
+## § 4a (weggefallen)
 
-Soweit durch diese Rechtsverordnung Schriftform angeordnet ist oder
-Zeugnisse, Bescheinigungen oder andere Dokumente ausgestellt werden,
-deren Ausstellung schriftlich zu beantragen ist, sie auszuhändigen,
-vorzulegen oder mitzuführen sind, ist die elektronische Form
-ausgeschlossen.
 
 
 ## § 5 Pflichten des Eigentümers
@@ -207,9 +203,9 @@ handelt, wer vorsätzlich oder fahrlässig entgegen § 5 eine Mitteilung
 nicht oder nicht rechtzeitig macht.
 
 (2) Die Zuständigkeit für die Verfolgung und Ahndung von
-Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Abs. 1 Nr. 2 bis 4
-des Ölschadengesetzes wird auf das Bundesamt für Seeschiffahrt und
-Hydrographie übertragen.
+Ordnungswidrigkeiten nach Absatz 1 sowie nach § 8 Absatz 1 Nummer 2
+bis 4 und Absatz 2 des Ölschadengesetzes wird auf das Bundesamt für
+Seeschiffahrt und Hydrographie übertragen.
 
 
 ## Anlage 1 (zu § 4 Abs. 1)

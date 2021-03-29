@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 141
 
+Zuletzt geändert durch
+:   Art. 4 Abs. 105 G v. 18.7.2016 I 1666
+
 
 ## Eingangsformel
 

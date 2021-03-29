@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2005, 3475
 
 Zuletzt geändert durch
-:   Art. 1 V v. 9.5.2011 I 818
+:   Art. 3 V v. 7.12.2015 I 2204
 
 
 ## Eingangsformel
@@ -34,11 +34,7 @@ Bundesministerium des Innern:
 
 Den Beamtinnen und Beamten mit Dienstbezügen, die bei der Deutschen
 Post AG beschäftigt sind, kann ein nicht ruhegehaltfähiges
-leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden. Daneben
-können Erfolgs-, Akquisitions- und Mengenzulagen nach den §§ 6 bis 8
-der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl. I S.
-1833), die durch die Verordnung vom 3. Dezember 1998 (BGBl. I S. 3650)
-geändert worden ist, gewährt werden.
+leistungsbezogenes Entgelt (Leistungsentgelt) gewährt werden.
 
 
 ## § 2 Leistungsentgelt
@@ -404,13 +400,11 @@ Bezügen für Dezember des jeweiligen Jahres ausgezahlt, spätestens aber
 mit den Bezügen des zweiten auf die Verkündung dieser Verordnung
 folgenden Kalendermonats.
 
+(6) Für die Jahre 2012 bis 2020 wird kein Leistungsentgelt nach § 1
+Satz 1 gezahlt.
+
 
 ## § 14 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft. Die §§
-4 und 5 der Postleistungszulagenverordnung vom 3. Dezember 1996 (BGBl.
-I S. 1833), die durch die Verordnung vom 3. Dezember 1998 (BGBl. I S.
-3650) geändert worden ist, treten am Tag der Verkündung dieser
-Verordnung für die bei der Deutschen Post AG beschäftigten Beamtinnen
-und Beamten außer Kraft.
+Diese Verordnung tritt mit Wirkung vom 1. Januar 2005 in Kraft.
 

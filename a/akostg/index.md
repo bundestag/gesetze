@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1978, 301
 
+V aufgeh. durch
+:   Art. 4 Abs. 40 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 4 Abs. 15 G v. 5. 5.2004 I 718
+:   Art. 12 G v. 23.7.2013 I 2586
+
+V aufgeh. durch
+:   Art. 4 Abs. 43 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 43 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## § 1 Anwendungsbereich
@@ -130,7 +136,8 @@ erhoben:
 
 2.  Schreibauslagen für Ausfertigungen, Abschriften und Auszüge, die auf
     besonderen Antrag erteilt werden; die Höhe der Schreibauslagen
-    bestimmt sich nach § 136 Abs. 3 bis 5 der Kostenordnung,
+    bestimmt sich nach Nummer 31000 des Kostenverzeichnisses zum Gerichts-
+    und Notarkostengesetz,
 
 
 3.  Aufwendungen für Übersetzungen, die auf besonderen Antrag gefertigt

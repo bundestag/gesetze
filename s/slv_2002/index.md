@@ -18,8 +18,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 19.8.2011 I 1813
 
-Geändert durch
-:   Art. 10 G v. 21.7.2012 I 1583
+Zuletzt geändert durch
+:   Art. 1 V v. 18.7.2017 I 2654
 
 
 ## Kapitel 1 - Allgemeines
@@ -35,7 +35,8 @@ Diese Verordnung gilt für
     Zeit,
 
 
-2.  Soldatinnen und Soldaten, die Wehrdienst nach Abschnitt 7 des
+2.  Soldatinnen und Soldaten, die Wehrdienst nach § 58b des
+    Soldatengesetzes oder nach § 4 Absatz 1 Nummer 1, 4 oder 7 des
     Wehrpflichtgesetzes leisten,
 
 
@@ -342,13 +343,7 @@ sind.
 
 
 4.  einer Elternzeit nach § 28 Absatz 7 des Soldatengesetzes sowie eines
-    Urlaubs nach § 28 Absatz 5 des Soldatengesetzes; nimmt eine Soldatin
-    oder ein Soldat Elternzeit oder Urlaub einmal in Anspruch, ist der
-    Zeitraum der tatsächlichen Verzögerung zu berücksichtigen, höchstens
-    jedoch ein Jahr; dies gilt auch, wenn Elternzeit oder Urlaub in
-    mehreren Zeitabschnitten genommen wird; wird die Elternzeit oder der
-    Urlaub wiederholt oder nacheinander in Anspruch genommen, ist
-    insgesamt höchstens ein Zeitraum von zwei Jahren zu berücksichtigen.
+    Urlaubs nach § 28 Absatz 5 des Soldatengesetzes.
 
 
 
@@ -879,10 +874,6 @@ voraus.
 
 
 
-Zum Oberstabsfeldwebel dürfen nur Soldatinnen und Soldaten im
-Dienstverhältnis einer Berufssoldatin oder eines Berufssoldaten und
-die in § 1 Satz 1 Nummer 2a bis 7 genannten Soldatinnen und Soldaten
-befördert werden.
 
 
 ##### § 19 Aufstieg aus der Laufbahngruppe der Mannschaften
@@ -1838,9 +1829,9 @@ verliehen. Er kann nach einem Wehrdienst von mindestens 24 Tagen
 endgültig verliehen werden.
 
 (4) Für die Beförderung der Reserveoffizier-Anwärterinnen und
-Reserveoffizier-Anwärter, die Wehrdienst nach Abschnitt 7 des
-Wehrpflichtgesetzes leisten oder in ein Dienstverhältnis als Soldatin
-auf Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz 1
+Reserveoffizier-Anwärter, die Wehrdienst nach § 58b des
+Soldatengesetzes leisten oder in ein Dienstverhältnis als Soldatin auf
+Zeit oder Soldat auf Zeit berufen worden sind, gilt § 24 Absatz 1
 entsprechend. Im Übrigen können sie jeweils nach einem Wehrdienst von
 mindestens 24 Tagen befördert werden, jedoch erst nach Ablauf einer
 Zeit, die nach Satz 1 als Dienstzeit vorausgesetzt wird. Vor der
@@ -1938,22 +1929,7 @@ weggefallen sind, sind bei erneuter Einstellung einer Laufbahn
 zuzuordnen, die ihrer Eignung, Befähigung und Leistung entspricht.
 Ihre Zustimmung zum Laufbahnwechsel ist nicht erforderlich.
 
-(2) Auf Elternzeiten nach § 28 Absatz 7 des Soldatengesetzes und
-Beurlaubungen nach § 28 Absatz 5 des Soldatengesetzes, die vor dem
-Inkrafttreten des Soldatinnen- und
-Soldatengleichstellungsdurchsetzungsgesetzes vom 27. Dezember 2004
-(BGBl. I S. 3822) angetreten wurden, ist § 5 Absatz 6 in der bis zum
-Inkrafttreten des Soldatinnen- und
-Soldatengleichstellungsdurchsetzungsgesetzes vom 27. Dezember 2004
-(BGBl. I S. 3822) geltenden Fassung anzuwenden.
-
-(3) Bis zum 31. Dezember 2016 können Soldatinnen und Soldaten auch
-ohne ihre Zustimmung aus der Laufbahn der Feldwebel des
-Truppendienstes in eine andere Feldwebellaufbahn und aus einer anderen
-Feldwebellaufbahn in die Laufbahn der Feldwebel des Truppendienstes
-versetzt werden.
-
-(4) Für vor dem 1. Juli 2011 nach § 38 Absatz 1 in der bis zu diesem
+(2) Für vor dem 1. Juli 2011 nach § 38 Absatz 1 in der bis zu diesem
 Tag geltenden Fassung eingestellte Offiziere in der Laufbahn der
 Offiziere des Geoinformationsdienstes der Bundeswehr gilt für die
 Beförderung zum Major § 5a Absatz 1. Dies gilt auch für Studierende,
@@ -1967,8 +1943,9 @@ erhalten.
 
 -
 
+(zu § 3)
 
-### Anlage (zu § 3) Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffiziere und der Offiziere
+### Anlage Zuordnung der Laufbahnen der Soldatinnen und Soldaten zu den Laufbahngruppen der Mannschaften, der Unteroffiziere und der Offiziere
 
 (Fundstelle: BGBl. I 2011, 1829)
 

@@ -19,6 +19,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2001, 946
 
+Geändert durch
+:   Art. 161 V v. 31.8.2015 I 1474
+
 
 
 ## Eingangsformel
@@ -77,13 +80,13 @@ Schweizerischen Eidgenossenschaft über die grenzüberschreitende
 polizeiliche und justitielle Zusammenarbeit in Kraft zu setzen:
 
 1.  das Bundesministerium des Innern zu Artikel 23 Abs. 6 und 7 sowie, im
-    Einvernehmen mit dem Bundesministerium der Justiz, zu Artikel 49 Abs.
-    2,
+    Einvernehmen mit dem Bundesministerium der Justiz und für
+    Verbraucherschutz, zu Artikel 49 Abs. 2,
 
 
 2.  das Bundesministerium der Finanzen im Einvernehmen mit dem
-    Bundesministerium des Innern und dem Bundesministerium der Justiz zu
-    Artikel 44 Abs. 3.
+    Bundesministerium des Innern und dem Bundesministerium der Justiz und
+    für Verbraucherschutz zu Artikel 44 Abs. 3.
 
 
 

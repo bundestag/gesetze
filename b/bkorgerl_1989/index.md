@@ -15,13 +15,16 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1989, 901
 
+Geändert durch
+:   Ziff. V d. Organisationserlasses v. 14.3.2018 I 374
+
 
 
 ## I.
 
 Der Bundesnachrichtendienst wird dem Chef des Bundeskanzleramtes
-unterstellt. Dessen Vertreter ist ein Abteilungsleiter im
-Bundeskanzleramt.
+unterstellt. Dessen Vertreter ist ein Staatssekretär oder ein
+Abteilungsleiter im Bundeskanzleramt.
 
 
 ## II.

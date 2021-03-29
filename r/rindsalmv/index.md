@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1972, 7
 
 Neugefasst durch
-:   Bek. v. 14.11.1991 I 2118
+:   Bek. v. 14.11.1991 I 2118;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 18.12.2009 I 3939
+:   Art. 2 V v. 17.4.2014 I 388
 
 
 ## I. - Begriffsbestimmung
@@ -241,12 +241,12 @@ sonstige Standort nach Maßgabe folgender Vorschriften der Sperre:
     betroffenen Teilbestand verbracht werden.
 
 
-6.  Die Milch von Kühen, bei denen Salmonellose im Sinne des § 1 Abs. 2
-    Nr. 1 Buchstabe b vorliegt, ist unschädlich zu beseitigen; sie darf
-    statt dessen im eigenen Betrieb verfüttert werden, wenn sie zuvor
-    aufgekocht worden ist. Die Milch der übrigen Kühe des Bestandes oder
-    des betroffenen Teilbestandes ist entweder vor der Verfütterung
-    aufzukochen oder an Sammelmolkereien abzugeben.
+6.  Die Milch von Kühen, bei denen Salmonellose im Sinne des § 1 Absatz 2
+    Nummer 1 Buchstabe b vorliegt, ist vom Besitzer der Tiere unschädlich
+    zu beseitigen. Sie darf statt dessen im eigenen Betrieb verfüttert
+    werden, wenn sie zuvor aufgekocht worden ist. Die Milch der übrigen
+    Kühe des Bestandes oder des betroffenen Teilbestandes ist entweder vor
+    der Verfütterung aufzukochen oder an Sammelmolkereien abzugeben.
 
 
 7.  Gerätschaften, die zur Wartung und Pflege der nach Nummer 2
@@ -364,60 +364,62 @@ Nr. 1 Buchstabe b entbehrlich.
 
 ### § 8
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer vollziehbaren Anordnung nach § 3 Abs. 1 oder 2 oder § 5 oder
-
-
-2.  einer mit einer Genehmigung nach § 4 Abs. 1 Nr. 5 oder Abs. 2
-    verbundenen vollziehbaren Auflage zuwiderhandelt.
+1.  entgegen § 2 Nummer 1 Satz 1 ein Kalb einstellt,
 
 
+2.  entgegen § 2 Nummer 1 Satz 2 eine Box, eine Bucht, eine Abteilung,
+    einen Stall, eine Einrichtung oder einen Gegenstand nicht oder nicht
+    rechtzeitig reinigt oder nicht oder nicht rechtzeitig desinfiziert
+    oder eine Schadnagerbekämpfung nicht oder nicht rechtzeitig
+    durchführt,
 
 
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 Nr. 1 Satz 1 ein Kalb einstellt,
+3.  entgegen § 2 Nummer 2 Satz 1 ein Kontrollbuch nicht führt oder nicht
+    oder nicht rechtzeitig vorlegt,
 
 
-2.  einer Vorschrift des
-
-    a)  § 2 Nr. 1 Satz 2 oder § 6 Abs. 1 Satz 1 über die Reinigung,
-        Desinfektion oder Schadnagerbekämpfung,
+4.  entgegen § 2 Nummer 3 Satz 3 die Einwegschutzkleidung nicht oder nicht
+    rechtzeitig beseitigt,
 
 
-    b)  § 2 Nr. 2 über das Kontrollbuch,
-
-
-    c)  § 2 Nr. 3 Satz 3 über die unschädliche Beseitigung von
-        Einwegschutzkleidung oder
-
-
-    d)  § 6 Abs. 1 Satz 2 oder Abs. 2 über die unschädliche Beseitigung von
-        Futter oder Einstreu oder die Behandlung von Futter oder Dung
-
-
-
-
+5.  einer vollziehbaren Anordnung nach § 3 Absatz 1 oder Absatz 2 oder § 5
     zuwiderhandelt,
 
 
-3.  entgegen § 4 Abs. 1 Nr. 3 ein Rind entfernt,
+6.  entgegen § 4 Absatz 1 Nummer 3 ein Rind entfernt,
 
 
-4.  entgegen § 4 Abs. 1 Nr. 4 eine Mitteilung nicht oder nicht rechtzeitig
-    macht,
+7.  entgegen § 4 Absatz 1 Nummer 4 eine Mitteilung nicht, nicht richtig,
+    nicht vollständig oder nicht rechtzeitig macht,
 
 
-5.  ohne Genehmigung nach § 4 Abs. 1 Nr. 5 ein Rind oder ein anderes für
-    die Seuche empfängliches Tier in den Bestand oder den betroffenen
-    Teilbestand verbringt oder
+8.  ohne Genehmigung nach § 4 Absatz 1 Nummer 5 ein Rind oder ein anderes
+    Tier verbringt,
 
 
-6.  entgegen § 4 Abs. 1 Nr. 6 Milch nicht unschädlich beseitigt, aufkocht
-    oder abgibt.
+9.  einer mit einer Genehmigung nach § 4 Absatz 1 Nummer 5 oder Absatz 2
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
+
+
+10. entgegen § 4 Absatz 1 Nummer 6 Satz 1 Milch nicht, nicht richtig oder
+    nicht rechtzeitig beseitigt,
+
+
+11. entgegen § 6 Absatz 1 Satz 1 einen Stall oder einen sonstigen Standort
+    nicht oder nicht rechtzeitig reinigt oder nicht oder nicht rechtzeitig
+    desinfiziert,
+
+
+12. entgegen § 6 Absatz 2 erster Halbsatz Dung nicht oder nicht
+    rechtzeitig packt, nicht oder nicht rechtzeitig bedeckt oder nicht
+    oder nicht für die vorgeschriebene Dauer lagert oder
+
+
+13. entgegen § 6 Absatz 2 zweiter Halbsatz flüssigen Abgang nicht oder
+    nicht rechtzeitig desinfiziert.
 
 
 

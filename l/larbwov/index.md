@@ -105,9 +105,9 @@ dienen bestimmt sind.
 vom 1. September 1965 (Bundesgesetzbl. I S. 1617), zuletzt geändert
 durch
 das Wohnungsbauänderungsgesetz 1973 vom 21. Dezember 1973
-(Bundesgesetzblatt I S. 1970),              angegebenen Grenzen nicht
-übersteigen. Für die Berechnung der Wohnfläche gelten die Vorschriften
-der Zweiten Berechnungsverordnung in der jeweils geltenden Fassung.
+(Bundesgesetzblatt I S. 1970), angegebenen Grenzen nicht übersteigen.
+Für die Berechnung der Wohnfläche gelten die Vorschriften der Zweiten
+Berechnungsverordnung in der jeweils geltenden Fassung.
 
 
 ## § 4 Selbstaufbringungsbetrag

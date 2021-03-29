@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 27
 
-Geändert durch
-:   Art. 14 G v. 29.7.2009 I 2424
+Zuletzt geändert durch
+:   Art. 576 V v. 31.8.2015 I 1474
 
 
 
@@ -234,8 +234,9 @@ zugelassen im Sinne dieser Verordnung.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 6 Abs. 1)
 
-## Anlage (zu § 6 Abs. 1) (Muster)
+## Anlage (Muster)
 
 Fundstelle des Originaltextes: BGBl. I 2002, 29
 (Muster)                                (Seite 1)
@@ -250,12 +251,11 @@ Postfach 1234
 88888 Musterstadt
 bestehend aus          Sender/Empfänger mit Stromversorgung aus dem
 Niederspannungsnetz oder Batterien
-für die Betriebsart    A 3 E             ist auf Einhaltung der
-Anforderungen und Geräte für Zwecke der Flugsicherung gemäß § 4
-Flugsicherungs-Anlagen- und Geräte-Musterzulassungs-Verordnung
-(FSMusterzulV) geprüft worden.
+für die Betriebsart    A 3 Eist auf Einhaltung der Anforderungen und
+Geräte für Zwecke der Flugsicherung gemäß § 4 Flugsicherungs-Anlagen-
+und Geräte-Musterzulassungs-Verordnung (FSMusterzulV) geprüft worden.
 Die Anlage oder das Gerät entspricht damit den Festlegungen des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung hinsichtlich
+Bundesministeriums für Verkehr und digitale Infrastruktur hinsichtlich
 Art, Umfang und Beschaffenheit von flugsicherungstechnischen
 Einrichtungen gemäß § 32 Abs. 4 des Luftverkehrsgesetzes sowie den
 Richtlinien und Empfehlungen der Internationalen Zivilluftfahrt-

@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1991, 1178
 
 Neugefasst durch
-:   Bek. v. 19.7.2011 I 1404
+:   Bek. v. 19.7.2011 I 1404;
+
+Zuletzt geändert durch
+:   Art. 3 V v. 3.5.2016 I 1057
 
 
 ## § 1 Anzeigepflichtige Tierseuchen
@@ -44,7 +47,7 @@ Folgende Tierseuchen sind anzeigepflichtig:
 4.  (weggefallen)
 
 
-5.  Aujeszkysche Krankheit,
+5.  Aujeszkysche Krankheit bei Hausrindern und Hausschweinen,
 
 
 5a. Befall mit dem Kleinen Bienenbeutenkäfer
@@ -66,7 +69,7 @@ Folgende Tierseuchen sind anzeigepflichtig:
 8a. Bovine Virus Diarrhoe,
 
 
-9.  Brucellose der Rinder, Schweine, Schafe und Ziegen,
+9.  Brucellose der Rinder, Hausschweine, Schafe und Ziegen,
 
 
 9a. Ebola-Virus-Infektion,
@@ -78,7 +81,7 @@ Folgende Tierseuchen sind anzeigepflichtig:
 9c. Epizootische Hämatopoetische Nekrose,
 
 
-9d. Epizootisches Ulzeratives Syndrom,
+9d. (weggefallen)
 
 
 10. Enzootische Leukose der Rinder,
@@ -186,7 +189,7 @@ Folgende Tierseuchen sind anzeigepflichtig:
 35. Trichomonadenseuche der Rinder,
 
 
-36. Tuberkulose der Rinder (Mykobakterium bovis und Mykobakterium caprae),
+36. Tuberkulose der Rinder (Mycobacterium bovis und Mycobacterium caprae),
 
 
 37. Vesikuläre Schweinekrankheit,

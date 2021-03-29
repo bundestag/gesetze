@@ -18,6 +18,7 @@ Fundstelle
 Geändert durch
 :   Art. 7 G v. 7.12.2011 I 2576
 
+Stand: Dieses G tritt, soweit Art. 1, Art. 2 Nr. 1 u. 5, Art. 3, Art. 5 u. Art. 6 Nr. 1 betroffen sind, nach seinem Art. 7 Abs. 1 Satz 2 iVm Bek. v. 2.4.2013 I 727 mWv 9.4.2013 in Kraft. Art. 2 Nr. 2 bis 4, Art. 4 u. Art. 5, soweit hierdurch Artikel 6 Nr. 1 des Gesetzes zu dem Schengener Übereinkommen vom 19. Juni 1990 betreffend den schrittweisen Abbau der Kontrollen an den gemeinsamen Grenzen aufgehoben wird, treten mWv 18.6.2009 in Kraft
 [^F772013_01_BJNR122600009]:     Dieses Gesetz dient der Umsetzung des Beschlusses 2007/533/JI des
     Rates vom 12. Juni 2007 über die Einrichtung, den Betrieb und die
     Nutzung des Schengener Informationssystems der zweiten Generation (SIS

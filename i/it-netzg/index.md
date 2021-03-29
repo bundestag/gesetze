@@ -14,7 +14,7 @@ Ausfertigungsdatum
 :   2009-08-10
 
 Fundstelle
-:   BGBl I: 2009, 2706
+:   BGBl I: 2009, 2702, 2706
 
 
 ## § 1 Gegenstand der Zusammenarbeit; Koordinierungsgremium

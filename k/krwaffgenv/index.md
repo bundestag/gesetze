@@ -17,7 +17,7 @@ Fundstelle
 :   BAnz: 1961, Nr 150
 
 Zuletzt geändert durch
-:   Art. 5 G v. 27.7.2011 I 1595
+:   Art. 2 Abs. 3 G v. 6.6.2013 I 1482
 
 
 ## Eingangsformel
@@ -53,17 +53,17 @@ in das Bundesgebiet wird eine Allgemeine Genehmigung erteilt, soweit
 die Kriegswaffen auf Grund einer Verbringungsgenehmigung aus einem
 Mitgliedstaat der Europäischen Union versandt werden und Empfänger
 dieser Kriegswaffen ein im Bundesgebiet ansässiges Unternehmen ist,
-das gemäß § 2a des Außenwirtschaftsgesetzes in Verbindung mit § 21a
-der Außenwirtschaftsverordnung zertifiziert ist.
+das gemäß § 9 des Außenwirtschaftsgesetzes in Verbindung mit einer auf
+Grund dieser Vorschrift erlassenen Rechtsverordnung zertifiziert ist.
 
 
 ## § 1c
 
 Für die Beförderung von Kriegswaffen innerhalb des Bundesgebietes wird
 eine Allgemeine Genehmigung erteilt, soweit der Versender und der
-Empfänger im Bundesgebiet ansässige Unternehmen sind, die gemäß § 2a
-des Außenwirtschaftsgesetzes in Verbindung mit § 21a der
-Außenwirtschaftsverordnung zertifiziert sind.
+Empfänger im Bundesgebiet ansässige Unternehmen sind, die gemäß § 9
+des Außenwirtschaftsgesetzes in Verbindung mit einer auf Grund dieser
+Vorschrift erlassenen Rechtsverordnung zertifiziert sind.
 
 
 ## § 2

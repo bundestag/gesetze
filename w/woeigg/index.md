@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1951, 175, 209
 
 Zuletzt geändert durch
-:   Art. 2 G v. 10.5.2012 I 1084
+:   Art. 4 G v. 5.12.2014 I 1962
 
 
 ## I. Teil - Wohnungseigentum
@@ -146,10 +146,7 @@ Miteigentums die Einräumung der zu den anderen Miteigentumsanteilen
 gehörenden Sondereigentumsrechte einzutragen. Das Grundbuchblatt des
 Grundstücks wird von Amts wegen geschlossen.
 
-(2) Von der Anlegung besonderer Grundbuchblätter kann abgesehen
-werden, wenn hiervon Verwirrung nicht zu besorgen ist. In diesem Fall
-ist das Grundbuchblatt als gemeinschaftliches Wohnungsgrundbuch
-(Teileigentumsgrundbuch) zu bezeichnen.
+(2) (weggefallen)
 
 (3) Zur näheren Bezeichnung des Gegenstands und des Inhalts des
 Sondereigentums kann auf die Eintragungsbewilligung Bezug genommen
@@ -343,7 +340,7 @@ Gemeinschaft findet nicht statt.
 Wohnungseigentümer zur Veräußerung seines Wohnungseigentums der
 Zustimmung anderer Wohnungseigentümer oder eines Dritten bedarf.
 
-(2) Die Zustimmung darf nur aus einem wichtigen Grund versagt werden.
+(2) Die Zustimmung darf nur aus einem wichtigen Grunde versagt werden.
 Durch Vereinbarung gemäß Absatz 1 kann dem Wohnungseigentümer darüber
 hinaus für bestimmte Fälle ein Anspruch auf Erteilung der Zustimmung
 eingeräumt werden.
@@ -651,9 +648,9 @@ die Rechte eines Wohnungseigentümers nicht in der in Satz 1
 bezeichneten Weise beeinträchtigt werden.
 
 (2) Maßnahmen gemäß Absatz 1 Satz 1, die der Modernisierung
-entsprechend § 559 Abs. 1 des Bürgerlichen Gesetzbuches oder der
-Anpassung des gemeinschaftlichen Eigentums an den Stand der Technik
-dienen, die Eigenart der Wohnanlage nicht ändern und keinen
+entsprechend § 555b Nummer 1 bis 5 des Bürgerlichen Gesetzbuches oder
+der Anpassung des gemeinschaftlichen Eigentums an den Stand der
+Technik dienen, die Eigenart der Wohnanlage nicht ändern und keinen
 Wohnungseigentümer gegenüber anderen unbillig beeinträchtigen, können
 abweichend von Absatz 1 durch eine Mehrheit von drei Viertel aller
 stimmberechtigten Wohnungseigentümer im Sinne des § 25 Abs. 2 und mehr
@@ -1462,7 +1459,7 @@ ihrer bis dahin geltenden Fassung weiter anzuwenden.
 (2) In Wohnungseigentumssachen nach § 43 Nr. 1 bis 4 finden die
 Bestimmungen über die Nichtzulassungsbeschwerde (§ 543 Abs. 1 Nr. 2, §
 544 der Zivilprozessordnung) keine Anwendung, soweit die anzufechtende
-Entscheidung vor dem 31. Dezember 2014 verkündet worden ist.
+Entscheidung vor dem 31. Dezember 2015 verkündet worden ist.
 
 
 ### § 63 Überleitung bestehender Rechtsverhältnisse

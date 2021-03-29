@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 1994, 486
 
+Geändert durch
+:   Art. 47 V v. 31.8.2015 I 1474
+
 
 
 ## Eingangsformel
@@ -38,8 +41,8 @@ nachstehend mit einer amtlichen deutschen Übersetzung veröffentlicht.
 
 Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften erläßt der Bundesminister des Innern im
-Benehmen mit dem Bundesminister der Justiz und mit Zustimmung des
-Bundesrates.
+Benehmen mit dem Bundesminister der Justiz und für Verbraucherschutz
+und mit Zustimmung des Bundesrates.
 
 
 ## Art 3

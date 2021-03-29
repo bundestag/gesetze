@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 18.11.2004 I 2855;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 12.2.2009 I 320
+:   Art. 87 G v. 29.3.2017 I 626
 
 
 ## § 1 Beginn und Ende des Anspruchs
@@ -34,9 +34,9 @@ dem Unterhaltssicherungsgesetz.
 Lebensjahres des Kindes, bei einem angenommenen, in Vollzeitpflege
 oder in Adoptionspflege genommenen Kind bis zu drei Jahren ab der
 Aufnahme bei der berechtigten Person, längstens bis zur Vollendung des
-achten Lebensjahres des Kindes. Ein Anteil von bis zu zwölf Monaten
-kann jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs. 5
-Satz 1 Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann die
+achten Lebensjahres des Kindes. Ein Anteil von bis zu 24 Monaten kann
+jedoch zu einem späteren Zeitpunkt nach Maßgabe des § 28 Abs. 5 Satz 1
+Nr. 1 des Soldatengesetzes genommen werden. Insgesamt kann die
 Elternzeit auf bis zu vier Zeitabschnitte verteilt werden. Die
 Übertragung eines Anteils der Elternzeit muss rechtzeitig vor Beginn
 des zu übertragenden Zeitraums beantragt werden. Sie bedarf nicht der
@@ -52,12 +52,13 @@ zustimmt. Die vorzeitige Beendigung wegen der Geburt eines weiteren
 Kindes oder wegen eines besonderen Härtefalles (§ 7 Absatz 2 Satz 3
 des Bundeselterngeld- und Elternzeitgesetzes) kann nur innerhalb von
 vier Wochen nach Antragstellung aus zwingenden dienstlichen Gründen
-abgelehnt werden. Eine vorzeitige Beendigung der Elternzeit zum Zwecke
-der Inanspruchnahme der Beschäftigungsverbote nach § 5 Abs. 1 Satz 1
-der Mutterschutzverordnung für Soldatinnen ist nicht zulässig. Die
-Elternzeit ist auf Wunsch zu verlängern, wenn ein vorgesehener Wechsel
-in der Anspruchsberechtigung aus einem wichtigen Grund nicht erfolgen
-kann.
+abgelehnt werden. Die Elternzeit kann zur Inanspruchnahme der
+Schutzfristen nach § 5 Absatz 1 Satz 1 der Mutterschutzverordnung für
+Soldatinnen auch ohne Zustimmung des Dienstherrn vorzeitig beendet
+werden; in diesen Fällen soll die Soldatin die Beendigung der
+Elternzeit rechtzeitig mitteilen. Die Elternzeit ist auf Wunsch zu
+verlängern, wenn ein vorgesehener Wechsel in der Anspruchsberechtigung
+aus einem wichtigen Grund nicht erfolgen kann.
 
 (5) Stirbt das Kind während der Elternzeit, so endet diese spätestens
 drei Wochen nach dem Tod des Kindes.
@@ -71,10 +72,10 @@ Beendigung des Wehrdienstverhältnisses.
 (1) Die Elternzeit soll, wenn sie unmittelbar nach der Geburt des
 Kindes oder nach Ablauf der Mutterschutzfrist (§ 5 Abs. 1 Satz 1 der
 Mutterschutzverordnung für Soldatinnen) beginnen soll, sechs Wochen,
-andernfalls acht Wochen vor Beginn schriftlich beantragt werden. Dabei
-ist anzugeben, für welche Zeiträume innerhalb von zwei Jahren
-Elternzeit beantragt wird. Nimmt die Mutter die Elternzeit im
-Anschluss an die Mutterschutzfrist, wird die Zeit der
+andernfalls acht Wochen vor Beginn schriftlich oder elektronisch
+beantragt werden. Dabei ist anzugeben, für welche Zeiträume innerhalb
+von zwei Jahren Elternzeit beantragt wird. Nimmt die Mutter die
+Elternzeit im Anschluss an die Mutterschutzfrist, wird die Zeit der
 Mutterschutzfrist nach § 5 Abs. 1 der Mutterschutzverordnung für
 Soldatinnen auf den Zweijahreszeitraum nach Satz 2 angerechnet. Nimmt
 die Mutter die Elternzeit im Anschluss an einen auf die

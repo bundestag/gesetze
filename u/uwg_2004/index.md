@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 3.3.2010 I 254
 
+Zuletzt geändert durch
+:   Art. 4 G v. 17.2.2016 I 233
+
 Dieses Gesetz dient der Umsetzung der Richtlinie 2005/29/EG des
 Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere
 Geschäftspraktiken von Unternehmen gegenüber Verbrauchern im
@@ -103,10 +106,28 @@ Allgemeinheit an einem unverfälschten Wettbewerb.
     oder Auftrag einer solchen Person handelt;
 
 
-7.  „fachliche Sorgfalt“ der Standard an Fachkenntnissen und Sorgfalt, von
-    dem billigerweise angenommen werden kann, dass ein Unternehmer ihn in
-    seinem Tätigkeitsbereich gegenüber Verbrauchern nach Treu und Glauben
-    unter Berücksichtigung der Marktgepflogenheiten einhält.
+7.  „unternehmerische Sorgfalt“ der Standard an Fachkenntnissen und
+    Sorgfalt, von dem billigerweise angenommen werden kann, dass ein
+    Unternehmer ihn in seinem Tätigkeitsbereich gegenüber Verbrauchern
+    nach Treu und Glauben unter Berücksichtigung der anständigen
+    Marktgepflogenheiten einhält;
+
+
+8.  „wesentliche Beeinflussung des wirtschaftlichen Verhaltens des
+    Verbrauchers“ die Vornahme einer geschäftlichen Handlung, um die
+    Fähigkeit des Verbrauchers, eine informierte Entscheidung zu treffen,
+    spürbar zu beeinträchtigen und damit den Verbraucher zu einer
+    geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
+    getroffen hätte;
+
+
+9.  „geschäftliche Entscheidung“ jede Entscheidung eines Verbrauchers oder
+    sonstigen Marktteilnehmers darüber, ob, wie und unter welchen
+    Bedingungen er ein Geschäft abschließen, eine Zahlung leisten, eine
+    Ware oder Dienstleistung behalten oder abgeben oder ein vertragliches
+    Recht im Zusammenhang mit einer Ware oder Dienstleistung ausüben will,
+    unabhängig davon, ob der Verbraucher oder sonstige Marktteilnehmer
+    sich entschließt, tätig zu werden.
 
 
 
@@ -117,70 +138,49 @@ entsprechend.
 
 ### § 3 Verbot unlauterer geschäftlicher Handlungen
 
-(1) Unlautere geschäftliche Handlungen sind unzulässig, wenn sie
-geeignet sind, die Interessen von Mitbewerbern, Verbrauchern oder
-sonstigen Marktteilnehmern spürbar zu beeinträchtigen.
+(1) Unlautere geschäftliche Handlungen sind unzulässig.
 
-(2) Geschäftliche Handlungen gegenüber Verbrauchern sind jedenfalls
-dann unzulässig, wenn sie nicht der für den Unternehmer geltenden
-fachlichen Sorgfalt entsprechen und dazu geeignet sind, die Fähigkeit
-des Verbrauchers, sich auf Grund von Informationen zu entscheiden,
-spürbar zu beeinträchtigen und ihn damit zu einer geschäftlichen
-Entscheidung zu veranlassen, die er andernfalls nicht getroffen hätte.
-Dabei ist auf den durchschnittlichen Verbraucher oder, wenn sich die
-geschäftliche Handlung an eine bestimmte Gruppe von Verbrauchern
-wendet, auf ein durchschnittliches Mitglied dieser Gruppe abzustellen.
-Auf die Sicht eines durchschnittlichen Mitglieds einer auf Grund von
-geistigen oder körperlichen Gebrechen, Alter oder Leichtgläubigkeit
-besonders schutzbedürftigen und eindeutig identifizierbaren Gruppe von
-Verbrauchern ist abzustellen, wenn für den Unternehmer vorhersehbar
-ist, dass seine geschäftliche Handlung nur diese Gruppe betrifft.
+(2) Geschäftliche Handlungen, die sich an Verbraucher richten oder
+diese erreichen, sind unlauter, wenn sie nicht der unternehmerischen
+Sorgfalt entsprechen und dazu geeignet sind, das wirtschaftliche
+Verhalten des Verbrauchers wesentlich zu beeinflussen.
 
 (3) Die im Anhang dieses Gesetzes aufgeführten geschäftlichen
 Handlungen gegenüber Verbrauchern sind stets unzulässig.
 
-
-### § 4 Beispiele unlauterer geschäftlicher Handlungen
-
-Unlauter handelt insbesondere, wer
-
-1.  geschäftliche Handlungen vornimmt, die geeignet sind, die
-    Entscheidungsfreiheit der Verbraucher oder sonstiger Marktteilnehmer
-    durch Ausübung von Druck, in menschenverachtender Weise oder durch
-    sonstigen unangemessenen unsachlichen Einfluss zu beeinträchtigen;
-
-
-2.  geschäftliche Handlungen vornimmt, die geeignet sind, geistige oder
-    körperliche Gebrechen, das Alter, die geschäftliche Unerfahrenheit,
-    die Leichtgläubigkeit, die Angst oder die Zwangslage von Verbrauchern
-    auszunutzen;
+(4) Bei der Beurteilung von geschäftlichen Handlungen gegenüber
+Verbrauchern ist auf den durchschnittlichen Verbraucher oder, wenn
+sich die geschäftliche Handlung an eine bestimmte Gruppe von
+Verbrauchern wendet, auf ein durchschnittliches Mitglied dieser Gruppe
+abzustellen. Geschäftliche Handlungen, die für den Unternehmer
+vorhersehbar das wirtschaftliche Verhalten nur einer eindeutig
+identifizierbaren Gruppe von Verbrauchern wesentlich beeinflussen, die
+auf Grund von geistigen oder körperlichen Beeinträchtigungen, Alter
+oder Leichtgläubigkeit im Hinblick auf diese geschäftlichen Handlungen
+oder die diesen zugrunde liegenden Waren oder Dienstleistungen
+besonders schutzbedürftig sind, sind aus der Sicht eines
+durchschnittlichen Mitglieds dieser Gruppe zu beurteilen.
 
 
-3.  den Werbecharakter von geschäftlichen Handlungen verschleiert;
+### § 3a Rechtsbruch
+
+Unlauter handelt, wer einer gesetzlichen Vorschrift zuwiderhandelt,
+die auch dazu bestimmt ist, im Interesse der Marktteilnehmer das
+Marktverhalten zu regeln, und der Verstoß geeignet ist, die Interessen
+von Verbrauchern, sonstigen Marktteilnehmern oder Mitbewerbern spürbar
+zu beeinträchtigen.
 
 
-4.  bei Verkaufsförderungsmaßnahmen wie Preisnachlässen, Zugaben oder
-    Geschenken die Bedingungen für ihre Inanspruchnahme nicht klar und
-    eindeutig angibt;
+### § 4 Mitbewerberschutz
 
+Unlauter handelt, wer
 
-5.  bei Preisausschreiben oder Gewinnspielen mit Werbecharakter die
-    Teilnahmebedingungen nicht klar und eindeutig angibt;
-
-
-6.  die Teilnahme von Verbrauchern an einem Preisausschreiben oder
-    Gewinnspiel von dem Erwerb einer Ware oder der Inanspruchnahme einer
-    Dienstleistung abhängig macht, es sei denn, das Preisausschreiben oder
-    Gewinnspiel ist naturgemäß mit der Ware oder der Dienstleistung
-    verbunden;
-
-
-7.  die Kennzeichen, Waren, Dienstleistungen, Tätigkeiten oder
+1.  die Kennzeichen, Waren, Dienstleistungen, Tätigkeiten oder
     persönlichen oder geschäftlichen Verhältnisse eines Mitbewerbers
     herabsetzt oder verunglimpft;
 
 
-8.  über die Waren, Dienstleistungen oder das Unternehmen eines
+2.  über die Waren, Dienstleistungen oder das Unternehmen eines
     Mitbewerbers oder über den Unternehmer oder ein Mitglied der
     Unternehmensleitung Tatsachen behauptet oder verbreitet, die geeignet
     sind, den Betrieb des Unternehmens oder den Kredit des Unternehmers zu
@@ -191,7 +191,7 @@ Unlauter handelt insbesondere, wer
     behauptet oder verbreitet wurden;
 
 
-9.  Waren oder Dienstleistungen anbietet, die eine Nachahmung der Waren
+3.  Waren oder Dienstleistungen anbietet, die eine Nachahmung der Waren
     oder Dienstleistungen eines Mitbewerbers sind, wenn er
 
     a)  eine vermeidbare Täuschung der Abnehmer über die betriebliche Herkunft
@@ -209,22 +209,82 @@ Unlauter handelt insbesondere, wer
 
 
 
-10. Mitbewerber gezielt behindert;
-
-
-11. einer gesetzlichen Vorschrift zuwiderhandelt, die auch dazu bestimmt
-    ist, im Interesse der Marktteilnehmer das Marktverhalten zu regeln.
+4.  Mitbewerber gezielt behindert.
 
 
 
+
+
+### § 4a Aggressive geschäftliche Handlungen
+
+(1) Unlauter handelt, wer eine aggressive geschäftliche Handlung
+vornimmt, die geeignet ist, den Verbraucher oder sonstigen
+Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen,
+die dieser andernfalls nicht getroffen hätte. Eine geschäftliche
+Handlung ist aggressiv, wenn sie im konkreten Fall unter
+Berücksichtigung aller Umstände geeignet ist, die
+Entscheidungsfreiheit des Verbrauchers oder sonstigen Marktteilnehmers
+erheblich zu beeinträchtigen durch
+
+1.  Belästigung,
+
+
+2.  Nötigung einschließlich der Anwendung körperlicher Gewalt oder
+
+
+3.  unzulässige Beeinflussung.
+
+
+
+Eine unzulässige Beeinflussung liegt vor, wenn der Unternehmer eine
+Machtposition gegenüber dem Verbraucher oder sonstigen Marktteilnehmer
+zur Ausübung von Druck, auch ohne Anwendung oder Androhung von
+körperlicher Gewalt, in einer Weise ausnutzt, die die Fähigkeit des
+Verbrauchers oder sonstigen Marktteilnehmers zu einer informierten
+Entscheidung wesentlich einschränkt.
+
+(2) Bei der Feststellung, ob eine geschäftliche Handlung aggressiv im
+Sinne des Absatzes 1 Satz 2 ist, ist abzustellen auf
+
+1.  Zeitpunkt, Ort, Art oder Dauer der Handlung;
+
+
+2.  die Verwendung drohender oder beleidigender Formulierungen oder
+    Verhaltensweisen;
+
+
+3.  die bewusste Ausnutzung von konkreten Unglückssituationen oder
+    Umständen von solcher Schwere, dass sie das Urteilsvermögen des
+    Verbrauchers oder sonstigen Marktteilnehmers beeinträchtigen, um
+    dessen Entscheidung zu beeinflussen;
+
+
+4.  belastende oder unverhältnismäßige Hindernisse nichtvertraglicher Art,
+    mit denen der Unternehmer den Verbraucher oder sonstigen
+    Marktteilnehmer an der Ausübung seiner vertraglichen Rechte zu hindern
+    versucht, wozu auch das Recht gehört, den Vertrag zu kündigen oder zu
+    einer anderen Ware oder Dienstleistung oder einem anderen Unternehmer
+    zu wechseln;
+
+
+5.  Drohungen mit rechtlich unzulässigen Handlungen.
+
+
+
+Zu den Umständen, die nach Nummer 3 zu berücksichtigen sind, zählen
+insbesondere geistige und körperliche Beeinträchtigungen, das Alter,
+die geschäftliche Unerfahrenheit, die Leichtgläubigkeit, die Angst und
+die Zwangslage von Verbrauchern.
 
 
 ### § 5 Irreführende geschäftliche Handlungen
 
 (1) Unlauter handelt, wer eine irreführende geschäftliche Handlung
-vornimmt. Eine geschäftliche Handlung ist irreführend, wenn sie
-unwahre Angaben enthält oder sonstige zur Täuschung geeignete Angaben
-über folgende Umstände enthält:
+vornimmt, die geeignet ist, den Verbraucher oder sonstigen
+Marktteilnehmer zu einer geschäftlichen Entscheidung zu veranlassen,
+die er andernfalls nicht getroffen hätte. Eine geschäftliche Handlung
+ist irreführend, wenn sie unwahre Angaben enthält oder sonstige zur
+Täuschung geeignete Angaben über folgende Umstände enthält:
 
 1.  die wesentlichen Merkmale der Ware oder Dienstleistung wie
     Verfügbarkeit, Art, Ausführung, Vorteile, Risiken, Zusammensetzung,
@@ -294,11 +354,33 @@ geschäftliche Entscheidung nach der Verkehrsauffassung sowie die
 Eignung des Verschweigens zur Beeinflussung der Entscheidung zu
 berücksichtigen.
 
-(2) Unlauter handelt, wer die Entscheidungsfähigkeit von Verbrauchern
-im Sinne des § 3 Absatz 2 dadurch beeinflusst, dass er eine
-Information vorenthält, die im konkreten Fall unter Berücksichtigung
-aller Umstände einschließlich der Beschränkungen des
-Kommunikationsmittels wesentlich ist.
+(2) Unlauter handelt, wer im konkreten Fall unter Berücksichtigung
+aller Umstände dem Verbraucher eine wesentliche Information
+vorenthält,
+
+1.  die der Verbraucher je nach den Umständen benötigt, um eine
+    informierte geschäftliche Entscheidung zu treffen, und
+
+
+2.  deren Vorenthalten geeignet ist, den Verbraucher zu einer
+    geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
+    getroffen hätte.
+
+
+
+Als Vorenthalten gilt auch
+
+1.  das Verheimlichen wesentlicher Informationen,
+
+
+2.  die Bereitstellung wesentlicher Informationen in unklarer,
+    unverständlicher oder zweideutiger Weise,
+
+
+3.  die nicht rechtzeitige Bereitstellung wesentlicher Informationen.
+
+
+
 
 (3) Werden Waren oder Dienstleistungen unter Hinweis auf deren
 Merkmale und Preis in einer dem verwendeten Kommunikationsmittel
@@ -315,17 +397,17 @@ nicht unmittelbar aus den Umständen ergeben:
     Identität und Anschrift des Unternehmers, für den er handelt;
 
 
-3.  der Endpreis oder in Fällen, in denen ein solcher Preis auf Grund der
-    Beschaffenheit der Ware oder Dienstleistung nicht im Voraus berechnet
-    werden kann, die Art der Preisberechnung sowie gegebenenfalls alle
-    zusätzlichen Fracht-, Liefer- und Zustellkosten oder in Fällen, in
-    denen diese Kosten nicht im Voraus berechnet werden können, die
-    Tatsache, dass solche zusätzlichen Kosten anfallen können;
+3.  der Gesamtpreis oder in Fällen, in denen ein solcher Preis auf Grund
+    der Beschaffenheit der Ware oder Dienstleistung nicht im Voraus
+    berechnet werden kann, die Art der Preisberechnung sowie
+    gegebenenfalls alle zusätzlichen Fracht-, Liefer- und Zustellkosten
+    oder in Fällen, in denen diese Kosten nicht im Voraus berechnet werden
+    können, die Tatsache, dass solche zusätzlichen Kosten anfallen können;
 
 
 4.  Zahlungs-, Liefer- und Leistungsbedingungen sowie Verfahren zum Umgang
-    mit Beschwerden, soweit sie von Erfordernissen der fachlichen Sorgfalt
-    abweichen, und
+    mit Beschwerden, soweit sie von Erfordernissen der unternehmerischen
+    Sorgfalt abweichen, und
 
 
 5.  das Bestehen eines Rechts zum Rücktritt oder Widerruf.
@@ -334,10 +416,31 @@ nicht unmittelbar aus den Umständen ergeben:
 
 
 (4) Als wesentlich im Sinne des Absatzes 2 gelten auch Informationen,
-die dem Verbraucher auf Grund gemeinschaftsrechtlicher Verordnungen
-oder nach Rechtsvorschriften zur Umsetzung gemeinschaftsrechtlicher
-Richtlinien für kommerzielle Kommunikation einschließlich Werbung und
-Marketing nicht vorenthalten werden dürfen.
+die dem Verbraucher auf Grund unionsrechtlicher Verordnungen oder nach
+Rechtsvorschriften zur Umsetzung unionsrechtlicher Richtlinien für
+kommerzielle Kommunikation einschließlich Werbung und Marketing nicht
+vorenthalten werden dürfen.
+
+(5) Bei der Beurteilung, ob Informationen vorenthalten wurden, sind zu
+berücksichtigen:
+
+1.  räumliche oder zeitliche Beschränkungen durch das für die
+    geschäftliche Handlung gewählte Kommunikationsmittel sowie
+
+
+2.  alle Maßnahmen des Unternehmers, um dem Verbraucher die Informationen
+    auf andere Weise als durch das Kommunikationsmittel nach Nummer 1 zur
+    Verfügung zu stellen.
+
+
+
+
+(6) Unlauter handelt auch, wer den kommerziellen Zweck einer
+geschäftlichen Handlung nicht kenntlich macht, sofern sich dieser
+nicht unmittelbar aus den Umständen ergibt, und das
+Nichtkenntlichmachen geeignet ist, den Verbraucher zu einer
+geschäftlichen Entscheidung zu veranlassen, die er andernfalls nicht
+getroffen hätte.
 
 
 ### § 6 Vergleichende Werbung
@@ -406,12 +509,24 @@ Marktteilnehmer diese Werbung nicht wünscht.
     ausdrückliche Einwilligung des Adressaten vorliegt, oder
 
 
-4.  bei Werbung mit einer Nachricht, bei der die Identität des Absenders,
-    in dessen Auftrag die Nachricht übermittelt wird, verschleiert oder
-    verheimlicht wird oder bei der keine gültige Adresse vorhanden ist, an
-    die der Empfänger eine Aufforderung zur Einstellung solcher
-    Nachrichten richten kann, ohne dass hierfür andere als die
-    Übermittlungskosten nach den Basistarifen entstehen.
+4.  bei Werbung mit einer Nachricht,
+
+    a)  bei der die Identität des Absenders, in dessen Auftrag die Nachricht
+        übermittelt wird, verschleiert oder verheimlicht wird oder
+
+
+    b)  bei der gegen § 6 Absatz 1 des Telemediengesetzes verstoßen wird oder
+        in der der Empfänger aufgefordert wird, eine Website aufzurufen, die
+        gegen diese Vorschrift verstößt, oder
+
+
+    c)  bei der keine gültige Adresse vorhanden ist, an die der Empfänger eine
+        Aufforderung zur Einstellung solcher Nachrichten richten kann, ohne
+        dass hierfür andere als die Übermittlungskosten nach den Basistarifen
+        entstehen.
+
+
+
 
 
 
@@ -466,7 +581,7 @@ Inhaber des Unternehmens begründet.
 2.  rechtsfähigen Verbänden zur Förderung gewerblicher oder selbständiger
     beruflicher Interessen, soweit ihnen eine erhebliche Zahl von
     Unternehmern angehört, die Waren oder Dienstleistungen gleicher oder
-    verwandter Art auf demselben Markt vertreiben, soweit sie insbesondere
+    verwandter Art auf demselben Markt vertreiben, wenn sie insbesondere
     nach ihrer personellen, sachlichen und finanziellen Ausstattung
     imstande sind, ihre satzungsmäßigen Aufgaben der Verfolgung
     gewerblicher oder selbständiger beruflicher Interessen tatsächlich
@@ -474,12 +589,13 @@ Inhaber des Unternehmens begründet.
     Mitglieder berührt;
 
 
-3.  qualifizierten Einrichtungen, die nachweisen, dass sie in die Liste
-    qualifizierter Einrichtungen nach § 4 des Unterlassungsklagengesetzes
-    oder in dem Verzeichnis der Kommission der Europäischen Gemeinschaften
-    nach Artikel 4 der Richtlinie 98/27/EG des Europäischen Parlaments und
-    des Rates vom 19. Mai 1998 über Unterlassungsklagen zum Schutz der
-    Verbraucherinteressen (ABl. EG Nr. L 166 S. 51) eingetragen sind;
+3.  qualifizierten Einrichtungen, die nachweisen, dass sie in der Liste
+    der qualifizierten Einrichtungen nach § 4 des
+    Unterlassungsklagengesetzes oder in dem Verzeichnis der Europäischen
+    Kommission nach Artikel 4 Absatz 3 der Richtlinie 2009/22/EG des
+    Europäischen Parlaments und des Rates vom 23. April 2009 über
+    Unterlassungsklagen zum Schutz der Verbraucherinteressen (ABl. L 110
+    vom 1.5.2009, S. 30) eingetragen sind;
 
 
 4.  den Industrie- und Handelskammern oder den Handwerkskammern.
@@ -491,15 +607,17 @@ Inhaber des Unternehmens begründet.
 unzulässig, wenn sie unter Berücksichtigung der gesamten Umstände
 missbräuchlich ist, insbesondere wenn sie vorwiegend dazu dient, gegen
 den Zuwiderhandelnden einen Anspruch auf Ersatz von Aufwendungen oder
-Kosten der Rechtsverfolgung entstehen zu lassen.
+Kosten der Rechtsverfolgung entstehen zu lassen. In diesen Fällen kann
+der Anspruchsgegner Ersatz der für seine Rechtsverteidigung
+erforderlichen Aufwendungen verlangen. Weiter gehende Ersatzansprüche
+bleiben unberührt.
 
 (5) § 13 des Unterlassungsklagengesetzes ist entsprechend anzuwenden;
 in § 13 Absatz 1 und 3 Satz 2 des Unterlassungsklagengesetzes treten
-an die Stelle des Anspruchs gemäß § 1 oder § 2 des
-Unterlassungsklagengesetzes die Unterlassungsansprüche nach dieser
-Vorschrift. Im Übrigen findet das Unterlassungsklagengesetz keine
-Anwendung, es sei denn, es liegt ein Fall des § 4a des
-Unterlassungsklagengesetzes vor.
+an die Stelle der dort aufgeführten Ansprüche nach dem
+Unterlassungsklagengesetz die Ansprüche nach dieser Vorschrift. Im
+Übrigen findet das Unterlassungsklagengesetz keine Anwendung, es sei
+denn, es liegt ein Fall des § 4a des Unterlassungsklagengesetzes vor.
 
 
 ### § 9 Schadensersatz
@@ -595,11 +713,39 @@ erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt
 der Rechtskraft Gebrauch gemacht worden ist. Der Ausspruch nach Satz 1
 ist nicht vorläufig vollstreckbar.
 
-(4) Bei der Bemessung des Streitwerts für Ansprüche nach § 8 Absatz 1
-ist es wertmindernd zu berücksichtigen, wenn die Sache nach Art und
-Umfang einfach gelagert ist oder wenn die Belastung einer der Parteien
-mit den Prozesskosten nach dem vollen Streitwert angesichts ihrer
-Vermögens- und Einkommensverhältnisse nicht tragbar erscheint.
+(4) Macht eine Partei in Rechtsstreitigkeiten, in denen durch Klage
+ein Anspruch aus einem der in diesem Gesetz geregelten
+Rechtsverhältnisse geltend gemacht wird, glaubhaft, dass die Belastung
+mit den Prozesskosten nach dem vollen Streitwert ihre wirtschaftliche
+Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag
+anordnen, dass die Verpflichtung dieser Partei zur Zahlung von
+Gerichtskosten sich nach einem ihrer Wirtschaftslage angepassten Teil
+des Streitwerts bemisst. Die Anordnung hat zur Folge, dass
+
+1.  die begünstigte Partei die Gebühren ihres Rechtsanwalts ebenfalls nur
+    nach diesem Teil des Streitwerts zu entrichten hat,
+
+
+2.  die begünstigte Partei, soweit ihr Kosten des Rechtsstreits auferlegt
+    werden oder soweit sie diese übernimmt, die von dem Gegner
+    entrichteten Gerichtsgebühren und die Gebühren seines Rechtsanwalts
+    nur nach dem Teil des Streitwerts zu erstatten hat und
+
+
+3.  der Rechtsanwalt der begünstigten Partei, soweit die
+    außergerichtlichen Kosten dem Gegner auferlegt oder von ihm übernommen
+    werden, seine Gebühren von dem Gegner nach dem für diesen geltenden
+    Streitwert beitreiben kann.
+
+
+
+
+(5) Der Antrag nach Absatz 4 kann vor der Geschäftsstelle des Gerichts
+zur Niederschrift erklärt werden. Er ist vor der Verhandlung zur
+Hauptsache anzubringen. Danach ist er nur zulässig, wenn der
+angenommene oder festgesetzte Streitwert später durch das Gericht
+heraufgesetzt wird. Vor der Entscheidung über den Antrag ist der
+Gegner zu hören.
 
 
 ### § 13 Sachliche Zuständigkeit
@@ -865,12 +1011,21 @@ hält.
 ### § 20 Bußgeldvorschriften
 
 (1) Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig entgegen §
-7 Absatz 1 in Verbindung mit Absatz 2 Nummer 2 gegenüber einem
-Verbraucher ohne dessen vorherige ausdrückliche Einwilligung mit einem
-Telefonanruf wirbt.
+7 Absatz 1
+
+1.  in Verbindung mit § 7 Absatz 2 Nummer 2 mit einem Telefonanruf oder
+
+
+2.  in Verbindung mit § 7 Absatz 2 Nummer 3 unter Verwendung einer
+    automatischen Anrufmaschine
+
+
+
+gegenüber einem Verbraucher ohne dessen vorherige ausdrückliche
+Einwilligung wirbt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße bis zu
-fünfzigtausend Euro geahndet werden.
+dreihunderttausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die Bundesnetzagentur für
@@ -959,16 +1114,16 @@ Unzulässige geschäftliche Handlungen im Sinne des § 3 Absatz 3 sind
 
 
 13. Werbung für eine Ware oder Dienstleistung, die der Ware oder
-    Dienstleistung eines Mitbewerbers ähnlich ist, wenn dies in der
-    Absicht geschieht, über die betriebliche Herkunft der beworbenen Ware
-    oder Dienstleistung zu täuschen;
+    Dienstleistung eines bestimmten Herstellers ähnlich ist, wenn dies in
+    der Absicht geschieht, über die betriebliche Herkunft der beworbenen
+    Ware oder Dienstleistung zu täuschen;
 
 
 14. die Einführung, der Betrieb oder die Förderung eines Systems zur
-    Verkaufsförderung, das den Eindruck vermittelt, allein oder
-    hauptsächlich durch die Einführung weiterer Teilnehmer in das System
-    könne eine Vergütung erlangt werden (Schneeball- oder
-    Pyramidensystem);
+    Verkaufsförderung, bei dem vom Verbraucher ein finanzieller Beitrag
+    für die Möglichkeit verlangt wird, allein oder hauptsächlich durch die
+    Einführung weiterer Teilnehmer in das System eine Vergütung zu
+    erlangen (Schneeball- oder Pyramidensystem);
 
 
 15. die unwahre Angabe, der Unternehmer werde demnächst sein Geschäft
@@ -1052,11 +1207,9 @@ Unzulässige geschäftliche Handlungen im Sinne des § 3 Absatz 3 sind
     Erwachsene dazu zu veranlassen;
 
 
-29. die Aufforderung zur Bezahlung nicht bestellter Waren oder
-    Dienstleistungen oder eine Aufforderung zur Rücksendung oder
-    Aufbewahrung nicht bestellter Sachen, sofern es sich nicht um eine
-    nach den Vorschriften über Vertragsabschlüsse im Fernabsatz zulässige
-    Ersatzlieferung handelt, und
+29. die Aufforderung zur Bezahlung nicht bestellter, aber gelieferter
+    Waren oder erbrachter Dienstleistungen oder eine Aufforderung zur
+    Rücksendung oder Aufbewahrung nicht bestellter Sachen und
 
 
 30. die ausdrückliche Angabe, dass der Arbeitsplatz oder Lebensunterhalt

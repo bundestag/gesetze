@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1965, 1273
 
 Zuletzt geändert durch
-:   Art. 1 G v. 14.12.2012 I 2579
+:   Art. 1 G v. 1.9.2017 I 3346
 
 
 ## Teil 1 - Urheberrecht
@@ -468,7 +468,9 @@ Verfilmung des Werkes, um die Ausführung von Plänen und Entwürfen
 eines Werkes der bildenden Künste, um den Nachbau eines Werkes der
 Baukunst oder um die Bearbeitung oder Umgestaltung eines
 Datenbankwerkes, so bedarf bereits das Herstellen der Bearbeitung oder
-Umgestaltung der Einwilligung des Urhebers.
+Umgestaltung der Einwilligung des Urhebers. Auf ausschließlich
+technisch bedingte Änderungen eines Werkes nach § 60d Absatz 1, § 60e
+Absatz 1 sowie § 60f Absatz 2 sind die Sätze 1 und 2 nicht anzuwenden.
 
 
 ##### § 24 Freie Benutzung
@@ -704,12 +706,16 @@ Urheber die angemessene Vergütung gewährt wird.
 Vergütung ist angemessen. Im Übrigen ist die Vergütung angemessen,
 wenn sie im Zeitpunkt des Vertragsschlusses dem entspricht, was im
 Geschäftsverkehr nach Art und Umfang der eingeräumten
-Nutzungsmöglichkeit, insbesondere nach Dauer und Zeitpunkt der
-Nutzung, unter Berücksichtigung aller Umstände üblicher- und
-redlicherweise zu leisten ist.
+Nutzungsmöglichkeit, insbesondere nach Dauer, Häufigkeit, Ausmaß und
+Zeitpunkt der Nutzung, unter Berücksichtigung aller Umstände üblicher-
+und redlicherweise zu leisten ist.
+
+(2a) Eine gemeinsame Vergütungsregel kann zur Ermittlung der
+angemessenen Vergütung auch bei Verträgen herangezogen werden, die vor
+ihrem zeitlichen Anwendungsbereich abgeschlossen wurden.
 
 (3) Auf eine Vereinbarung, die zum Nachteil des Urhebers von den
-Absätzen 1 und 2 abweicht, kann der Vertragspartner sich nicht
+Absätzen 1 bis 2a abweicht, kann der Vertragspartner sich nicht
 berufen. Die in Satz 1 bezeichneten Vorschriften finden auch
 Anwendung, wenn sie durch anderweitige Gestaltungen umgangen werden.
 Der Urheber kann aber unentgeltlich ein einfaches Nutzungsrecht für
@@ -748,7 +754,8 @@ Nutzungsrecht für jedermann einräumen.
 (4) Der Urheber hat keinen Anspruch nach Absatz 1, soweit die
 Vergütung nach einer gemeinsamen Vergütungsregel (§ 36) oder
 tarifvertraglich bestimmt worden ist und ausdrücklich eine weitere
-angemessene Beteiligung für den Fall des Absatzes 1 vorsieht.
+angemessene Beteiligung für den Fall des Absatzes 1 vorsieht. § 32
+Absatz 2a ist entsprechend anzuwenden.
 
 
 ##### § 32b Zwingende Anwendung
@@ -783,6 +790,62 @@ Vertragspartners entfällt.
 (3) Auf die Rechte nach den Absätzen 1 und 2 kann im Voraus nicht
 verzichtet werden. Der Urheber kann aber unentgeltlich ein einfaches
 Nutzungsrecht für jedermann einräumen.
+
+
+##### § 32d Anspruch auf Auskunft und Rechenschaft
+
+(1) Bei entgeltlicher Einräumung oder Übertragung eines Nutzungsrechts
+kann der Urheber von seinem Vertragspartner einmal jährlich Auskunft
+und Rechenschaft über den Umfang der Werknutzung und die hieraus
+gezogenen Erträge und Vorteile auf Grundlage der im Rahmen eines
+ordnungsgemäßen Geschäftsbetriebes üblicherweise vorhandenen
+Informationen verlangen.
+
+(2) Der Anspruch nach Absatz 1 ist ausgeschlossen, soweit
+
+1.  der Urheber einen lediglich nachrangigen Beitrag zu einem Werk, einem
+    Produkt oder einer Dienstleistung erbracht hat; nachrangig ist ein
+    Beitrag insbesondere dann, wenn er den Gesamteindruck eines Werkes
+    oder die Beschaffenheit eines Produktes oder einer Dienstleistung
+    wenig prägt, etwa weil er nicht zum typischen Inhalt eines Werkes,
+    eines Produktes oder einer Dienstleistung gehört, oder
+
+
+2.  die Inanspruchnahme des Vertragspartners aus anderen Gründen
+    unverhältnismäßig ist.
+
+
+
+
+(3) Von den Absätzen 1 und 2 kann zum Nachteil des Urhebers nur durch
+eine Vereinbarung abgewichen werden, die auf einer gemeinsamen
+Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
+
+
+##### § 32e Anspruch auf Auskunft und Rechenschaft in der Lizenzkette
+
+(1) Hat der Vertragspartner des Urhebers das Nutzungsrecht übertragen
+oder weitere Nutzungsrechte eingeräumt, so kann der Urheber Auskunft
+und Rechenschaft nach § 32d Absatz 1 und 2 auch von denjenigen Dritten
+verlangen,
+
+1.  die die Nutzungsvorgänge in der Lizenzkette wirtschaftlich wesentlich
+    bestimmen oder
+
+
+2.  aus deren Erträgnissen oder Vorteilen sich das auffällige
+    Missverhältnis gemäß § 32a Absatz 2 ergibt.
+
+
+
+
+(2) Für die Geltendmachung der Ansprüche nach Absatz 1 genügt es, dass
+aufgrund nachprüfbarer Tatsachen klare Anhaltspunkte für deren
+Voraussetzungen vorliegen.
+
+(3) Von den Absätzen 1 und 2 kann zum Nachteil des Urhebers nur durch
+eine Vereinbarung abgewichen werden, die auf einer gemeinsamen
+Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 
 ##### § 33 Weiterwirkung von Nutzungsrechten
@@ -844,7 +907,11 @@ der Verwerter. In Tarifverträgen enthaltene Regelungen gehen
 gemeinsamen Vergütungsregeln vor.
 
 (2) Vereinigungen nach Absatz 1 müssen repräsentativ, unabhängig und
-zur Aufstellung gemeinsamer Vergütungsregeln ermächtigt sein.
+zur Aufstellung gemeinsamer Vergütungsregeln ermächtigt sein. Eine
+Vereinigung, die einen wesentlichen Teil der jeweiligen Urheber oder
+Werknutzer vertritt, gilt als ermächtigt im Sinne des Satzes 1, es sei
+denn, die Mitglieder der Vereinigung fassen einen entgegenstehenden
+Beschluss.
 
 (3) Ein Verfahren zur Aufstellung gemeinsamer Vergütungsregeln vor der
 Schlichtungsstelle (§ 36a) findet statt, wenn die Parteien dies
@@ -866,11 +933,12 @@ Partei statt, wenn
 
 
 
-(4) Die Schlichtungsstelle hat den Parteien einen begründeten
-Einigungsvorschlag zu machen, der den Inhalt der gemeinsamen
-Vergütungsregeln enthält. Er gilt als angenommen, wenn ihm nicht
-innerhalb von drei Monaten nach Empfang des Vorschlages schriftlich
-widersprochen wird.
+(4) Die Schlichtungsstelle hat allen Parteien, die sich am Verfahren
+beteiligt haben oder nach § 36a Absatz 4a zur Beteiligung aufgefordert
+worden sind, einen begründeten Einigungsvorschlag zu machen, der den
+Inhalt der gemeinsamen Vergütungsregeln enthält. Er gilt als
+angenommen, wenn innerhalb von sechs Wochen nach Empfang des
+Vorschlages keine der in Satz 1 genannten Parteien widerspricht.
 
 
 ##### § 36a Schlichtungsstelle
@@ -886,16 +954,53 @@ Beisitzern, die jeweils von einer Partei bestellt werden, und einem
 unparteiischen Vorsitzenden, auf dessen Person sich beide Parteien
 einigen sollen.
 
-(3) Kommt eine Einigung über die Person des Vorsitzenden nicht
-zustande, so bestellt ihn das nach § 1062 der Zivilprozessordnung
-zuständige Oberlandesgericht. Das Oberlandesgericht entscheidet auch,
-wenn keine Einigung über die Zahl der Beisitzer erzielt wird. Für das
-Verfahren vor dem Oberlandesgericht gelten die §§ 1063, 1065 der
-Zivilprozessordnung entsprechend.
+(3) Wenn sich die Parteien nicht einigen, entscheidet das nach § 1062
+der Zivilprozessordnung zuständige Oberlandesgericht auf Antrag einer
+Partei über
+
+1.  die Person des Vorsitzenden,
+
+
+2.  die Anzahl der Beisitzer,
+
+
+3.  die Voraussetzungen des Schlichtungsverfahrens in Bezug auf
+
+    a)  die Fähigkeit der Werknutzer sowie Vereinigungen von Werknutzern und
+        Urhebern, Partei des Schlichtungsverfahrens zu sein (§ 36 Absatz 1
+        Satz 1 und Absatz 2),
+
+
+    b)  ein Verfahren vor der Schlichtungsstelle, das auf Verlangen nur einer
+        Partei stattfindet (§ 36 Absatz 3 Satz 2).
+
+
+
+
+
+
+Solange der Ort des Schlichtungsverfahrens noch nicht bestimmt ist,
+ist für die Entscheidung das Oberlandesgericht zuständig, in dessen
+Bezirk der Antragsgegner seinen Sitz oder seinen gewöhnlichen
+Aufenthalt hat. Für das Verfahren vor dem Oberlandesgericht gelten die
+§§ 1063 und 1065 der Zivilprozessordnung entsprechend.
 
 (4) Das Verlangen auf Durchführung des Schlichtungsverfahrens gemäß §
 36 Abs. 3 Satz 2 muss einen Vorschlag über die Aufstellung gemeinsamer
-Vergütungsregeln enthalten.
+Vergütungsregeln enthalten. Die Schlichtungsstelle stellt den
+Schriftsatz, mit dem die Durchführung des Verfahrens verlangt wird,
+der anderen Partei mit der Aufforderung zu, sich innerhalb eines
+Monats schriftlich zur Sache zu äußern.
+
+(4a) Jede Partei kann binnen drei Monaten nach Kenntnis vom
+Schlichtungsverfahren verlangen, dass die Schlichtungsstelle andere
+Vereinigungen von Urhebern zur Beteiligung auffordert, wenn der
+Vorschlag nach Absatz 4 Satz 1 Werke oder verbundene Werke betrifft,
+die üblicherweise nur unter Mitwirkung von weiteren Urhebern
+geschaffen werden können, die von den benannten Vereinigungen
+vertreten werden. Absatz 4 Satz 2 ist entsprechend anzuwenden.
+Beteiligt sich die Vereinigung von Urhebern, so benennt sie und die
+Partei der Werknutzer je weitere Beisitzer.
 
 (5) Die Schlichtungsstelle fasst ihren Beschluss nach mündlicher
 Beratung mit Stimmenmehrheit. Die Beschlussfassung erfolgt zunächst
@@ -910,18 +1015,56 @@ Vorsitzenden zu unterschreiben und beiden Parteien zuzuleiten.
 
 (6) Die Parteien tragen ihre eigenen Kosten sowie die Kosten der von
 ihnen bestellten Beisitzer. Die sonstigen Kosten tragen die Parteien
-jeweils zur Hälfte. Die Parteien haben als Gesamtschuldner auf
+der Urheber, die sich am Verfahren beteiligen, und die Partei der
+Werknutzer jeweils zur Hälfte. Sie haben als Gesamtschuldner auf
 Anforderung des Vorsitzenden zu dessen Händen einen für die Tätigkeit
 der Schlichtungsstelle erforderlichen Vorschuss zu leisten.
 
 (7) Die Parteien können durch Vereinbarung die Einzelheiten des
-Verfahrens vor der Schlichtungsstelle regeln.
+Verfahrens vor der Schlichtungsstelle regeln. Die Schlichtungsstelle
+informiert nach Absatz 4a beteiligte Vereinigungen von Urhebern über
+den Gang des Verfahrens.
 
-(8) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates die weiteren
-Einzelheiten des Verfahrens vor der Schlichtungsstelle zu regeln sowie
-weitere Vorschriften über die Kosten des Verfahrens und die
-Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
+(8) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+weiteren Einzelheiten des Verfahrens vor der Schlichtungsstelle zu
+regeln sowie weitere Vorschriften über die Kosten des Verfahrens und
+die Entschädigung der Mitglieder der Schlichtungsstelle zu erlassen.
+
+
+##### § 36b Unterlassungsanspruch bei Verstoß gegen gemeinsame Vergütungsregeln
+
+(1) Wer in einem Vertrag mit einem Urheber eine Bestimmung verwendet,
+die zum Nachteil des Urhebers von gemeinsamen Vergütungsregeln
+abweicht, kann auf Unterlassung in Anspruch genommen werden, wenn und
+soweit er
+
+1.  als Werknutzer die gemeinsamen Vergütungsregeln selbst aufgestellt hat
+    oder
+
+
+2.  Mitglied einer Vereinigung von Werknutzern ist, die die gemeinsamen
+    Vergütungsregeln aufgestellt hat.
+
+
+
+Der Anspruch auf Unterlassung steht denjenigen Vereinigungen von
+Urhebern oder Werknutzern und denjenigen einzelnen Werknutzern zu, die
+die gemeinsamen Vergütungsregeln aufgestellt haben.
+
+(2) Auf das Verfahren sind § 8 Absatz 4 sowie § 12 Absatz 1, 2, 4 und
+5 des Gesetzes gegen den unlauteren Wettbewerb anzuwenden. Für die
+Bekanntmachung des Urteils gilt § 103.
+
+
+##### § 36c Individualvertragliche Folgen des Verstoßes gegen gemeinsame Vergütungsregeln
+
+Der Vertragspartner, der an der Aufstellung von gemeinsamen
+Vergütungsregeln gemäß § 36b Absatz 1 Satz 1 Nummer 1 oder 2 beteiligt
+war, kann sich nicht auf eine Bestimmung berufen, die zum Nachteil des
+Urhebers von den gemeinsamen Vergütungsregeln abweicht. Der Urheber
+kann von seinem Vertragspartner die Einwilligung in die Änderung des
+Vertrages verlangen, mit der die Abweichung beseitigt wird.
 
 
 ##### § 37 Verträge über die Einräumung von Nutzungsrechten
@@ -945,10 +1088,11 @@ Einrichtungen öffentlich wahrnehmbar zu machen.
 
 (1) Gestattet der Urheber die Aufnahme des Werkes in eine periodisch
 erscheinende Sammlung, so erwirbt der Verleger oder Herausgeber im
-Zweifel ein ausschließliches Nutzungsrecht zur Vervielfältigung und
-Verbreitung. Jedoch darf der Urheber das Werk nach Ablauf eines Jahres
-seit Erscheinen anderweit vervielfältigen und verbreiten, wenn nichts
-anderes vereinbart ist.
+Zweifel ein ausschließliches Nutzungsrecht zur Vervielfältigung,
+Verbreitung und öffentlichen Zugänglichmachung. Jedoch darf der
+Urheber das Werk nach Ablauf eines Jahres seit Erscheinen anderweit
+vervielfältigen, verbreiten und öffentlich zugänglich machen, wenn
+nichts anderes vereinbart ist.
 
 (2) Absatz 1 Satz 2 gilt auch für einen Beitrag zu einer nicht
 periodisch erscheinenden Sammlung, für dessen Überlassung dem Urheber
@@ -960,6 +1104,18 @@ vereinbart ist. Räumt der Urheber ein ausschließliches Nutzungsrecht
 ein, so ist er sogleich nach Erscheinen des Beitrags berechtigt, ihn
 anderweit zu vervielfältigen und zu verbreiten, wenn nichts anderes
 vereinbart ist.
+
+(4) Der Urheber eines wissenschaftlichen Beitrags, der im Rahmen einer
+mindestens zur Hälfte mit öffentlichen Mitteln geförderten
+Forschungstätigkeit entstanden und in einer periodisch mindestens
+zweimal jährlich erscheinenden Sammlung erschienen ist, hat auch dann,
+wenn er dem Verleger oder Herausgeber ein ausschließliches
+Nutzungsrecht eingeräumt hat, das Recht, den Beitrag nach Ablauf von
+zwölf Monaten seit der Erstveröffentlichung in der akzeptierten
+Manuskriptversion öffentlich zugänglich zu machen, soweit dies keinem
+gewerblichen Zweck dient. Die Quelle der Erstveröffentlichung ist
+anzugeben. Eine zum Nachteil des Urhebers abweichende Vereinbarung ist
+unwirksam.
 
 
 ##### § 39 Änderungen des Werkes
@@ -993,6 +1149,51 @@ Verfügung hinsichtlich der Werke unwirksam, die zu diesem Zeitpunkt
 noch nicht abgeliefert sind.
 
 
+##### § 40a Recht zur anderweitigen Verwertung nach zehn Jahren bei pauschaler Vergütung
+
+(1) Hat der Urheber ein ausschließliches Nutzungsrecht gegen eine
+pauschale Vergütung eingeräumt, ist er gleichwohl berechtigt, das Werk
+nach Ablauf von zehn Jahren anderweitig zu verwerten. Für die
+verbleibende Dauer der Einräumung besteht das Nutzungsrecht des ersten
+Inhabers als einfaches Nutzungsrecht fort. Die Frist nach Satz 1
+beginnt mit der Einräumung des Nutzungsrechts oder, wenn das Werk
+später abgeliefert wird, mit der Ablieferung. § 38 Absatz 4 Satz 2 ist
+entsprechend anzuwenden.
+
+(2) Frühestens fünf Jahre nach dem in Absatz 1 Satz 3 genannten
+Zeitpunkt können die Vertragspartner die Ausschließlichkeit auf die
+gesamte Dauer der Nutzungsrechtseinräumung erstrecken.
+
+(3) Abweichend von Absatz 1 kann der Urheber bei Vertragsschluss ein
+zeitlich unbeschränktes ausschließliches Nutzungsrecht einräumen, wenn
+
+1.  er einen lediglich nachrangigen Beitrag zu einem Werk, einem Produkt
+    oder einer Dienstleistung erbringt; nachrangig ist ein Beitrag
+    insbesondere dann, wenn er den Gesamteindruck eines Werkes oder die
+    Beschaffenheit eines Produktes oder einer Dienstleistung wenig prägt,
+    etwa weil er nicht zum typischen Inhalt eines Werkes, eines Produktes
+    oder einer Dienstleistung gehört,
+
+
+2.  es sich um ein Werk der Baukunst oder den Entwurf eines solchen Werkes
+    handelt,
+
+
+3.  das Werk mit Zustimmung des Urhebers für eine Marke oder ein sonstiges
+    Kennzeichen, ein Design oder ein Gemeinschaftsgeschmacksmuster
+    bestimmt ist oder
+
+
+4.  das Werk nicht veröffentlicht werden soll.
+
+
+
+
+(4) Von den Absätzen 1 bis 3 kann zum Nachteil des Urhebers nur durch
+eine Vereinbarung abgewichen werden, die auf einer gemeinsamen
+Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
+
+
 ##### § 41 Rückrufsrecht wegen Nichtausübung
 
 (1) Übt der Inhaber eines ausschließlichen Nutzungsrechts das Recht
@@ -1018,9 +1219,9 @@ Ausübung des Nutzungsrechts seinem Inhaber unmöglich ist oder von ihm
 verweigert wird oder wenn durch die Gewährung einer Nachfrist
 überwiegende Interessen des Urhebers gefährdet würden.
 
-(4) Auf das Rückrufsrecht kann im voraus nicht verzichtet werden.
-Seine Ausübung kann im voraus für mehr als fünf Jahre nicht
-ausgeschlossen werden.
+(4) Von den Absätzen 1 bis 3 kann zum Nachteil des Urhebers nur durch
+eine Vereinbarung abgewichen werden, die auf einer gemeinsamen
+Vergütungsregel (§ 36) oder einem Tarifvertrag beruht.
 
 (5) Mit Wirksamwerden des Rückrufs erlischt das Nutzungsrecht.
 
@@ -1087,8 +1288,9 @@ Gesetzes hat, besteht die Verpflichtung nach Absatz 1, soweit in dem
 Staat, in dem er seine Hauptniederlassung oder seinen Wohnsitz hat,
 den Herstellern von Tonträgern, die ihre Hauptniederlassung oder ihren
 Wohnsitz im Geltungsbereich dieses Gesetzes haben, nach einer
-Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt
-ein entsprechendes Recht gewährt wird.
+Bekanntmachung des Bundesministeriums der Justiz und für
+Verbraucherschutz im Bundesgesetzblatt ein entsprechendes Recht
+gewährt wird.
 
 (3) Das nach den vorstehenden Bestimmungen einzuräumende Nutzungsrecht
 wirkt nur im Geltungsbereich dieses Gesetzes und für die Ausfuhr nach
@@ -1144,11 +1346,15 @@ daß der Urheber dies bei der Veräußerung des Originals ausdrücklich
 ausgeschlossen hat.
 
 
-### Abschnitt 6 - Schranken des Urheberrechts
+### Abschnitt 6 - Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen
 
 
 
-#### § 44a Vorübergehende Vervielfältigungshandlungen
+#### Unterabschnitt 1 - Gesetzlich erlaubte Nutzungen
+
+
+
+##### § 44a Vorübergehende Vervielfältigungshandlungen
 
 Zulässig sind vorübergehende Vervielfältigungshandlungen, die flüchtig
 oder begleitend sind und einen integralen und wesentlichen Teil eines
@@ -1166,7 +1372,7 @@ eines Werkes oder sonstigen Schutzgegenstands zu ermöglichen, und die
 keine eigenständige wirtschaftliche Bedeutung haben.
 
 
-#### § 45 Rechtspflege und öffentliche Sicherheit
+##### § 45 Rechtspflege und öffentliche Sicherheit
 
 (1) Zulässig ist, einzelne Vervielfältigungsstücke von Werken zur
 Verwendung in Verfahren vor einem Gericht, einem Schiedsgericht oder
@@ -1181,7 +1387,7 @@ auch die Verbreitung, öffentliche Ausstellung und öffentliche
 Wiedergabe der Werke zulässig.
 
 
-#### § 45a Behinderte Menschen
+##### § 45a Behinderte Menschen
 
 (1) Zulässig ist die nicht Erwerbszwecken dienende Vervielfältigung
 eines Werkes für und deren Verbreitung ausschließlich an Menschen,
@@ -1196,7 +1402,7 @@ lediglich einzelner Vervielfältigungsstücke. Der Anspruch kann nur
 durch eine Verwertungsgesellschaft geltend gemacht werden.
 
 
-#### § 46 Sammlungen für Kirchen-, Schul- oder Unterrichtsgebrauch
+##### § 46 Sammlungen für den religiösen Gebrauch
 
 (1) Nach der Veröffentlichung zulässig ist die Vervielfältigung,
 Verbreitung und öffentliche Zugänglichmachung von Teilen eines Werkes,
@@ -1204,18 +1410,11 @@ von Sprachwerken oder von Werken der Musik von geringem Umfang, von
 einzelnen Werken der bildenden Künste oder einzelnen Lichtbildwerken
 als Element einer Sammlung, die Werke einer größeren Anzahl von
 Urhebern vereinigt und die nach ihrer Beschaffenheit nur für den
-Unterrichtsgebrauch in Schulen, in nichtgewerblichen Einrichtungen der
-Aus- und Weiterbildung oder in Einrichtungen der Berufsbildung oder
-für den Kirchengebrauch bestimmt ist. Die öffentliche
-Zugänglichmachung eines für den Unterrichtsgebrauch an Schulen
-bestimmten Werkes ist stets nur mit Einwilligung des Berechtigten
-zulässig. In den Vervielfältigungsstücken oder bei der öffentlichen
-Zugänglichmachung ist deutlich anzugeben, wozu die Sammlung bestimmt
-ist.
+Gebrauch während religiöser Feierlichkeiten bestimmt ist. In den
+Vervielfältigungsstücken oder bei der öffentlichen Zugänglichmachung
+ist deutlich anzugeben, wozu die Sammlung bestimmt ist.
 
-(2) Absatz 1 gilt für Werke der Musik nur, wenn diese Elemente einer
-Sammlung sind, die für den Gebrauch im Musikunterricht in Schulen mit
-Ausnahme der Musikschulen bestimmt ist.
+(2) (weggefallen)
 
 (3) Mit der Vervielfältigung oder der öffentlichen Zugänglichmachung
 darf erst begonnen werden, wenn die Absicht, von der Berechtigung nach
@@ -1227,18 +1426,18 @@ Wohnort oder Aufenthaltsort des Inhabers des ausschließlichen
 Nutzungsrechts unbekannt, so kann die Mitteilung durch
 Veröffentlichung im Bundesanzeiger bewirkt werden.
 
-(4) Für die nach den Absätzen 1 und 2 zulässige Verwertung ist dem
+(4) Für die nach dieser Vorschrift zulässige Verwertung ist dem
 Urheber eine angemessene Vergütung zu zahlen.
 
-(5) Der Urheber kann die nach den Absätzen 1 und 2 zulässige
-Verwertung verbieten, wenn das Werk seiner Überzeugung nicht mehr
-entspricht, ihm deshalb die Verwertung des Werkes nicht mehr zugemutet
-werden kann und er ein etwa bestehendes Nutzungsrecht aus diesem
-Grunde zurückgerufen hat (§ 42). Die Bestimmungen in § 136 Abs. 1 und
-2 sind entsprechend anzuwenden.
+(5) Der Urheber kann die nach dieser Vorschrift zulässige Verwertung
+verbieten, wenn das Werk seiner Überzeugung nicht mehr entspricht, ihm
+deshalb die Verwertung des Werkes nicht mehr zugemutet werden kann und
+er ein etwa bestehendes Nutzungsrecht aus diesem Grunde zurückgerufen
+hat (§ 42). Die Bestimmungen in § 136 Abs. 1 und 2 sind entsprechend
+anzuwenden.
 
 
-#### § 47 Schulfunksendungen
+##### § 47 Schulfunksendungen
 
 (1) Schulen sowie Einrichtungen der Lehrerbildung und der
 Lehrerfortbildung dürfen einzelne Vervielfältigungsstücke von Werken,
@@ -1253,7 +1452,7 @@ Schulfunksendung folgenden Schuljahrs zu löschen, es sei denn, daß dem
 Urheber eine angemessene Vergütung gezahlt wird.
 
 
-#### § 48 Öffentliche Reden
+##### § 48 Öffentliche Reden
 
 (1) Zulässig ist
 
@@ -1278,7 +1477,7 @@ Absatz 1 Nr. 2 bezeichneten Reden in Form einer Sammlung, die
 überwiegend Reden desselben Urhebers enthält.
 
 
-#### § 49 Zeitungsartikel und Rundfunkkommentare
+##### § 49 Zeitungsartikel und Rundfunkkommentare
 
 (1) Zulässig ist die Vervielfältigung und Verbreitung einzelner
 Rundfunkkommentare und einzelner Artikel sowie mit ihnen im
@@ -1302,7 +1501,7 @@ veröffentlicht worden sind; ein durch andere gesetzliche Vorschriften
 gewährter Schutz bleibt unberührt.
 
 
-#### § 50 Berichterstattung über Tagesereignisse
+##### § 50 Berichterstattung über Tagesereignisse
 
 Zur Berichterstattung über Tagesereignisse durch Funk oder durch
 ähnliche technische Mittel, in Zeitungen, Zeitschriften und in anderen
@@ -1313,7 +1512,7 @@ die im Verlauf dieser Ereignisse wahrnehmbar werden, in einem durch
 den Zweck gebotenen Umfang zulässig.
 
 
-#### § 51 Zitate
+##### § 51 Zitate
 
 Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
 Wiedergabe eines veröffentlichten Werkes zum Zweck des Zitats, sofern
@@ -1334,9 +1533,13 @@ ist. Zulässig ist dies insbesondere, wenn
 
 
 
+Von der Zitierbefugnis gemäß den Sätzen 1 und 2 umfasst ist die
+Nutzung einer Abbildung oder sonstigen Vervielfältigung des zitierten
+Werkes, auch wenn diese selbst durch ein Urheberrecht oder ein
+verwandtes Schutzrecht geschützt ist.
 
 
-#### § 52 Öffentliche Wiedergabe
+##### § 52 Öffentliche Wiedergabe
 
 (1) Zulässig ist die öffentliche Wiedergabe eines veröffentlichten
 Werkes, wenn die Wiedergabe keinem Erwerbszweck des Veranstalters
@@ -1345,12 +1548,11 @@ Vortrags oder der Aufführung des Werkes keiner der ausübenden Künstler
 (§ 73) eine besondere Vergütung erhält. Für die Wiedergabe ist eine
 angemessene Vergütung zu zahlen. Die Vergütungspflicht entfällt für
 Veranstaltungen der Jugendhilfe, der Sozialhilfe, der Alten- und
-Wohlfahrtspflege, der Gefangenenbetreuung sowie für
-Schulveranstaltungen, sofern sie nach ihrer sozialen oder
-erzieherischen Zweckbestimmung nur einem bestimmt abgegrenzten Kreis
-von Personen zugänglich sind. Dies gilt nicht, wenn die Veranstaltung
-dem Erwerbszweck eines Dritten dient; in diesem Fall hat der Dritte
-die Vergütung zu zahlen.
+Wohlfahrtspflege sowie der Gefangenenbetreuung, sofern sie nach ihrer
+sozialen oder erzieherischen Zweckbestimmung nur einem bestimmt
+abgegrenzten Kreis von Personen zugänglich sind. Dies gilt nicht, wenn
+die Veranstaltung dem Erwerbszweck eines Dritten dient; in diesem Fall
+hat der Dritte die Vergütung zu zahlen.
 
 (2) Zulässig ist die öffentliche Wiedergabe eines erschienenen Werkes
 auch bei einem Gottesdienst oder einer kirchlichen Feier der Kirchen
@@ -1363,62 +1565,10 @@ Vorführungen eines Filmwerks sind stets nur mit Einwilligung des
 Berechtigten zulässig.
 
 
-#### § 52a Öffentliche Zugänglichmachung für Unterricht und Forschung
-
-(1) Zulässig ist,
-
-1.  veröffentlichte kleine Teile eines Werkes, Werke geringen Umfangs
-    sowie einzelne Beiträge aus Zeitungen oder Zeitschriften zur
-    Veranschaulichung im Unterricht an Schulen, Hochschulen,
-    nichtgewerblichen Einrichtungen der Aus- und Weiterbildung sowie an
-    Einrichtungen der Berufsbildung ausschließlich für den bestimmt
-    abgegrenzten Kreis von Unterrichtsteilnehmern oder
+##### (XXXX) §§ 52a und 52b (weggefallen)
 
 
-2.  veröffentlichte Teile eines Werkes, Werke geringen Umfangs sowie
-    einzelne Beiträge aus Zeitungen oder Zeitschriften ausschließlich für
-    einen bestimmt abgegrenzten Kreis von Personen für deren eigene
-    wissenschaftliche Forschung
-
-
-
-öffentlich zugänglich zu machen, soweit dies zu dem jeweiligen Zweck
-geboten und zur Verfolgung nicht kommerzieller Zwecke gerechtfertigt
-ist.
-
-(2) Die öffentliche Zugänglichmachung eines für den
-Unterrichtsgebrauch an Schulen bestimmten Werkes ist stets nur mit
-Einwilligung des Berechtigten zulässig. Die öffentliche
-Zugänglichmachung eines Filmwerkes ist vor Ablauf von zwei Jahren nach
-Beginn der üblichen regulären Auswertung in Filmtheatern im
-Geltungsbereich dieses Gesetzes stets nur mit Einwilligung des
-Berechtigten zulässig.
-
-(3) Zulässig sind in den Fällen des Absatzes 1 auch die zur
-öffentlichen Zugänglichmachung erforderlichen Vervielfältigungen.
-
-(4) Für die öffentliche Zugänglichmachung nach Absatz 1 ist eine
-angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
-Verwertungsgesellschaft geltend gemacht werden.
-
-
-#### § 52b Wiedergabe von Werken an elektronischen Leseplätzen in öffentlichen Bibliotheken, Museen und Archiven
-
-Zulässig ist, veröffentlichte Werke aus dem Bestand öffentlich
-zugänglicher Bibliotheken, Museen oder Archive, die keinen unmittelbar
-oder mittelbar wirtschaftlichen oder Erwerbszweck verfolgen,
-ausschließlich in den Räumen der jeweiligen Einrichtung an eigens
-dafür eingerichteten elektronischen Leseplätzen zur Forschung und für
-private Studien zugänglich zu machen, soweit dem keine vertraglichen
-Regelungen entgegenstehen. Es dürfen grundsätzlich nicht mehr
-Exemplare eines Werkes an den eingerichteten elektronischen
-Leseplätzen gleichzeitig zugänglich gemacht werden, als der Bestand
-der Einrichtung umfasst. Für die Zugänglichmachung ist eine
-angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
-Verwertungsgesellschaft geltend gemacht werden.
-
-
-#### § 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch
+##### § 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch
 
 (1) Zulässig sind einzelne Vervielfältigungen eines Werkes durch eine
 natürliche Person zum privaten Gebrauch auf beliebigen Trägern, sofern
@@ -1435,9 +1585,7 @@ Wirkung handelt.
 (2) Zulässig ist, einzelne Vervielfältigungsstücke eines Werkes
 herzustellen oder herstellen zu lassen
 
-1.  zum eigenen wissenschaftlichen Gebrauch, wenn und soweit die
-    Vervielfältigung zu diesem Zweck geboten ist und sie keinen
-    gewerblichen Zwecken dient,
+1.  (weggefallen)
 
 
 2.  zur Aufnahme in ein eigenes Archiv, wenn und soweit die
@@ -1464,45 +1612,19 @@ herzustellen oder herstellen zu lassen
 
 
 
-Dies gilt im Fall des Satzes 1 Nr. 2 nur, wenn zusätzlich
+Dies gilt nur, wenn zusätzlich
 
 1.  die Vervielfältigung auf Papier oder einem ähnlichen Träger mittels
     beliebiger photomechanischer Verfahren oder anderer Verfahren mit
     ähnlicher Wirkung vorgenommen wird oder
 
 
-2.  eine ausschließlich analoge Nutzung stattfindet oder
-
-
-3.  das Archiv im öffentlichen Interesse tätig ist und keinen unmittelbar
-    oder mittelbar wirtschaftlichen oder Erwerbszweck verfolgt.
+2.  eine ausschließlich analoge Nutzung stattfindet.
 
 
 
-Dies gilt in den Fällen des Satzes 1 Nr. 3 und 4 nur, wenn zusätzlich
-eine der Voraussetzungen des Satzes 2 Nr. 1 oder 2 vorliegt.
 
-(3) Zulässig ist, Vervielfältigungsstücke von kleinen Teilen eines
-Werkes, von Werken von geringem Umfang oder von einzelnen Beiträgen,
-die in Zeitungen oder Zeitschriften erschienen oder öffentlich
-zugänglich gemacht worden sind, zum eigenen Gebrauch
-
-1.  zur Veranschaulichung des Unterrichts in Schulen, in nichtgewerblichen
-    Einrichtungen der Aus- und Weiterbildung sowie in Einrichtungen der
-    Berufsbildung in der für die Unterrichtsteilnehmer erforderlichen
-    Anzahl oder
-
-
-2.  für staatliche Prüfungen und Prüfungen in Schulen, Hochschulen, in
-    nichtgewerblichen Einrichtungen der Aus- und Weiterbildung sowie in
-    der Berufsbildung in der erforderlichen Anzahl
-
-
-
-herzustellen oder herstellen zu lassen, wenn und soweit die
-Vervielfältigung zu diesem Zweck geboten ist. Die Vervielfältigung
-eines Werkes, das für den Unterrichtsgebrauch an Schulen bestimmt ist,
-ist stets nur mit Einwilligung des Berechtigten zulässig.
+(3) (weggefallen)
 
 (4) Die Vervielfältigung
 
@@ -1520,12 +1642,9 @@ Voraussetzungen des Absatzes 2 Satz 1 Nr. 2 oder zum eigenen Gebrauch,
 wenn es sich um ein seit mindestens zwei Jahren vergriffenes Werk
 handelt.
 
-(5) Absatz 1, Absatz 2 Satz 1 Nr. 2 bis 4 sowie Absatz 3 Nr. 2 finden
-keine Anwendung auf Datenbankwerke, deren Elemente einzeln mit Hilfe
-elektronischer Mittel zugänglich sind. Absatz 2 Satz 1 Nr. 1 sowie
-Absatz 3 Nr. 1 finden auf solche Datenbankwerke mit der Maßgabe
-Anwendung, dass der wissenschaftliche Gebrauch sowie der Gebrauch im
-Unterricht nicht zu gewerblichen Zwecken erfolgen.
+(5) Die Absätze 1 und 2 Satz 1 Nr. 2 bis 4 finden keine Anwendung auf
+Datenbankwerke, deren Elemente einzeln mit Hilfe elektronischer Mittel
+zugänglich sind.
 
 (6) Die Vervielfältigungsstücke dürfen weder verbreitet noch zu
 öffentlichen Wiedergaben benutzt werden. Zulässig ist jedoch,
@@ -1541,37 +1660,21 @@ der Baukunst sind stets nur mit Einwilligung des Berechtigten
 zulässig.
 
 
-#### § 53a Kopienversand auf Bestellung
-
-(1) Zulässig ist auf Einzelbestellung die Vervielfältigung und
-Übermittlung einzelner in Zeitungen und Zeitschriften erschienener
-Beiträge sowie kleiner Teile eines erschienenen Werkes im Wege des
-Post- oder Faxversands durch öffentliche Bibliotheken, sofern die
-Nutzung durch den Besteller nach § 53 zulässig ist. Die
-Vervielfältigung und Übermittlung in sonstiger elektronischer Form ist
-ausschließlich als grafische Datei und zur Veranschaulichung des
-Unterrichts oder für Zwecke der wissenschaftlichen Forschung zulässig,
-soweit dies zur Verfolgung nicht gewerblicher Zwecke gerechtfertigt
-ist. Die Vervielfältigung und Übermittlung in sonstiger elektronischer
-Form ist ferner nur dann zulässig, wenn der Zugang zu den Beiträgen
-oder kleinen Teilen eines Werkes den Mitgliedern der Öffentlichkeit
-nicht offensichtlich von Orten und zu Zeiten ihrer Wahl mittels einer
-vertraglichen Vereinbarung zu angemessenen Bedingungen ermöglicht
-wird.
-
-(2) Für die Vervielfältigung und Übermittlung ist dem Urheber eine
-angemessene Vergütung zu zahlen. Der Anspruch kann nur durch eine
-Verwertungsgesellschaft geltend gemacht werden.
+##### § 53a (weggefallen)
 
 
-#### § 54 Vergütungspflicht
+#### Unterabschnitt 2 - Vergütung der nach den §§ 53, 60a bis 60f erlaubten Vervielfältigungen
 
-(1) Ist nach der Art eines Werkes zu erwarten, dass es nach § 53 Abs.
-1 bis 3 vervielfältigt wird, so hat der Urheber des Werkes gegen den
-Hersteller von Geräten und von Speichermedien, deren Typ allein oder
-in Verbindung mit anderen Geräten, Speichermedien oder Zubehör zur
-Vornahme solcher Vervielfältigungen benutzt wird, Anspruch auf Zahlung
-einer angemessenen Vergütung.
+
+
+##### § 54 Vergütungspflicht
+
+(1) Lässt die Art des Werkes eine nach § 53 Absatz 1 oder 2 oder den
+§§ 60a bis 60f erlaubte Vervielfältigung erwarten, so hat der Urheber
+des Werkes gegen den Hersteller von Geräten und von Speichermedien,
+deren Typ allein oder in Verbindung mit anderen Geräten,
+Speichermedien oder Zubehör zur Vornahme solcher Vervielfältigungen
+benutzt wird, Anspruch auf Zahlung einer angemessenen Vergütung.
 
 (2) Der Anspruch nach Absatz 1 entfällt, soweit nach den Umständen
 erwartet werden kann, dass die Geräte oder Speichermedien im
@@ -1579,13 +1682,13 @@ Geltungsbereich dieses Gesetzes nicht zu Vervielfältigungen benutzt
 werden.
 
 
-#### § 54a Vergütungshöhe
+##### § 54a Vergütungshöhe
 
 (1) Maßgebend für die Vergütungshöhe ist, in welchem Maß die Geräte
 und Speichermedien als Typen tatsächlich für Vervielfältigungen nach §
-53 Abs. 1 bis 3 genutzt werden. Dabei ist zu berücksichtigen,
-inwieweit technische Schutzmaßnahmen nach § 95a auf die betreffenden
-Werke angewendet werden.
+53 Absatz 1 oder 2 oder den §§ 60a bis 60f genutzt werden. Dabei ist
+zu berücksichtigen, inwieweit technische Schutzmaßnahmen nach § 95a
+auf die betreffenden Werke angewendet werden.
 
 (2) Die Vergütung für Geräte ist so zu gestalten, dass sie auch mit
 Blick auf die Vergütungspflicht für in diesen Geräten enthaltene
@@ -1603,7 +1706,7 @@ angemessenen Verhältnis zum Preisniveau des Geräts oder des
 Speichermediums stehen.
 
 
-#### § 54b Vergütungspflicht des Händlers oder Importeurs
+##### § 54b Vergütungspflicht des Händlers oder Importeurs
 
 (1) Neben dem Hersteller haftet als Gesamtschuldner, wer die Geräte
 oder Speichermedien in den Geltungsbereich dieses Gesetzes gewerblich
@@ -1639,17 +1742,19 @@ sie in den zollrechtlich freien Verkehr übergeführt werden.
 
 
 
-#### § 54c Vergütungspflicht des Betreibers von Ablichtungsgeräten
+##### § 54c Vergütungspflicht des Betreibers von Ablichtungsgeräten
 
 (1) Werden Geräte der in § 54 Abs. 1 genannten Art, die im Weg der
 Ablichtung oder in einem Verfahren vergleichbarer Wirkung
 vervielfältigen, in Schulen, Hochschulen sowie Einrichtungen der
-Berufsbildung oder der sonstigen Aus- und Weiterbildung
-(Bildungseinrichtungen), Forschungseinrichtungen, öffentlichen
-Bibliotheken oder in Einrichtungen betrieben, die Geräte für die
-entgeltliche Herstellung von Ablichtungen bereithalten, so hat der
-Urheber auch gegen den Betreiber des Geräts einen Anspruch auf Zahlung
-einer angemessenen Vergütung.
+Berufsbildung oder der sonstigen Aus- und Weiterbildung,
+Forschungseinrichtungen, öffentlichen Bibliotheken, in nicht
+kommerziellen Archiven oder Einrichtungen im Bereich des Film- oder
+Tonerbes oder in nicht kommerziellen öffentlich zugänglichen Museen
+oder in Einrichtungen betrieben, die Geräte für die entgeltliche
+Herstellung von Ablichtungen bereithalten, so hat der Urheber auch
+gegen den Betreiber des Geräts einen Anspruch auf Zahlung einer
+angemessenen Vergütung.
 
 (2) Die Höhe der von dem Betreiber insgesamt geschuldeten Vergütung
 bemisst sich nach der Art und dem Umfang der Nutzung des Geräts, die
@@ -1657,7 +1762,7 @@ nach den Umständen, insbesondere nach dem Standort und der üblichen
 Verwendung, wahrscheinlich ist.
 
 
-#### § 54d Hinweispflicht
+##### § 54d Hinweispflicht
 
 Soweit nach § 14 Abs. 2 Satz 1 Nr. 2 Satz 2 des Umsatzsteuergesetzes
 eine Verpflichtung zur Erteilung einer Rechnung besteht, ist in
@@ -1667,7 +1772,7 @@ das Gerät oder Speichermedium entfallende Urhebervergütung
 hinzuweisen.
 
 
-#### § 54e Meldepflicht
+##### § 54e Meldepflicht
 
 (1) Wer Geräte oder Speichermedien in den Geltungsbereich dieses
 Gesetzes gewerblich einführt oder wiedereinführt, ist dem Urheber
@@ -1680,7 +1785,7 @@ unvollständig oder sonst unrichtig nach, kann der doppelte
 Vergütungssatz verlangt werden.
 
 
-#### § 54f Auskunftspflicht
+##### § 54f Auskunftspflicht
 
 (1) Der Urheber kann von dem nach § 54 oder § 54b zur Zahlung der
 Vergütung Verpflichteten Auskunft über Art und Stückzahl der im
@@ -1698,7 +1803,7 @@ Auskunftspflicht nicht, nur unvollständig oder sonst unrichtig nach,
 so kann der doppelte Vergütungssatz verlangt werden.
 
 
-#### § 54g Kontrollbesuch
+##### § 54g Kontrollbesuch
 
 Soweit dies für die Bemessung der vom Betreiber nach § 54c
 geschuldeten Vergütung erforderlich ist, kann der Urheber verlangen,
@@ -1709,7 +1814,7 @@ gestattet wird. Der Kontrollbesuch muss so ausgeübt werden, dass
 vermeidbare Betriebsstörungen unterbleiben.
 
 
-#### § 54h Verwertungsgesellschaften; Handhabung der Mitteilungen
+##### § 54h Verwertungsgesellschaften; Handhabung der Mitteilungen
 
 (1) Die Ansprüche nach den §§ 54 bis 54c, 54e Abs. 2, §§ 54f und 54g
 können nur durch eine Verwertungsgesellschaft geltend gemacht werden.
@@ -1734,7 +1839,11 @@ gemäß § 54b Abs. 3 Nr. 2, den §§ 54e und 54f erhaltenen Angaben nur
 zur Geltendmachung der Ansprüche nach Absatz 1 verwenden.
 
 
-#### § 55 Vervielfältigung durch Sendeunternehmen
+#### Unterabschnitt 3 - Weitere gesetzlich erlaubte Nutzungen
+
+
+
+##### § 55 Vervielfältigung durch Sendeunternehmen
 
 (1) Ein Sendeunternehmen, das zur Funksendung eines Werkes berechtigt
 ist, darf das Werk mit eigenen Mitteln auf Bild- oder Tonträger
@@ -1749,7 +1858,7 @@ Archiv aufgenommen werden. Von der Aufnahme in das Archiv ist der
 Urheber unverzüglich zu benachrichtigen.
 
 
-#### § 55a Benutzung eines Datenbankwerkes
+##### § 55a Benutzung eines Datenbankwerkes
 
 Zulässig ist die Bearbeitung sowie die Vervielfältigung eines
 Datenbankwerkes durch den Eigentümer eines mit Zustimmung des Urhebers
@@ -1766,7 +1875,7 @@ die Vervielfältigung dieses Teils zulässig. Entgegenstehende
 vertragliche Vereinbarungen sind nichtig.
 
 
-#### § 56 Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben
+##### § 56 Vervielfältigung und öffentliche Wiedergabe in Geschäftsbetrieben
 
 (1) In Geschäftsbetrieben, in denen Geräte zur Herstellung oder zur
 Wiedergabe von Bild- oder Tonträgern, zum Empfang von Funksendungen
@@ -1782,7 +1891,7 @@ vorzuführen oder instand zu setzen.
 unverzüglich zu löschen.
 
 
-#### § 57 Unwesentliches Beiwerk
+##### § 57 Unwesentliches Beiwerk
 
 Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
 Wiedergabe von Werken, wenn sie als unwesentliches Beiwerk neben dem
@@ -1790,23 +1899,16 @@ eigentlichen Gegenstand der Vervielfältigung, Verbreitung oder
 öffentlichen Wiedergabe anzusehen sind.
 
 
-#### § 58 Werke in Ausstellungen, öffentlichem Verkauf und öffentlich zugänglichen Einrichtungen
+##### § 58 Werbung für die Ausstellung und den öffentlichen Verkauf von Werken
 
-(1) Zulässig ist die Vervielfältigung, Verbreitung und öffentliche
+Zulässig sind die Vervielfältigung, Verbreitung und öffentliche
 Zugänglichmachung von öffentlich ausgestellten oder zur öffentlichen
-Ausstellung oder zum öffentlichen Verkauf bestimmten Werken der
-bildenden Künste und Lichtbildwerken durch den Veranstalter zur
-Werbung, soweit dies zur Förderung der Veranstaltung erforderlich ist.
-
-(2) Zulässig ist ferner die Vervielfältigung und Verbreitung der in
-Absatz 1 genannten Werke in Verzeichnissen, die von öffentlich
-zugänglichen Bibliotheken, Bildungseinrichtungen oder Museen in
-inhaltlichem und zeitlichem Zusammenhang mit einer Ausstellung oder
-zur Dokumentation von Beständen herausgegeben werden und mit denen
-kein eigenständiger Erwerbszweck verfolgt wird.
+Ausstellung oder zum öffentlichen Verkauf bestimmten Werken gemäß § 2
+Absatz 1 Nummer 4 bis 6 durch den Veranstalter zur Werbung, soweit
+dies zur Förderung der Veranstaltung erforderlich ist.
 
 
-#### § 59 Werke an öffentlichen Plätzen
+##### § 59 Werke an öffentlichen Plätzen
 
 (1) Zulässig ist, Werke, die sich bleibend an öffentlichen Wegen,
 Straßen oder Plätzen befinden, mit Mitteln der Malerei oder Graphik,
@@ -1818,7 +1920,7 @@ Befugnisse nur auf die äußere Ansicht.
 werden.
 
 
-#### § 60 Bildnisse
+##### § 60 Bildnisse
 
 (1) Zulässig ist die Vervielfältigung sowie die unentgeltliche und
 nicht zu gewerblichen Zwecken vorgenommene Verbreitung eines
@@ -1834,12 +1936,378 @@ Lebenspartner und die Kinder oder, wenn weder ein Ehegatte oder
 Lebenspartner noch Kinder vorhanden sind, die Eltern.
 
 
-#### § 61 (weggefallen)
-
--
+#### Unterabschnitt 4 - Gesetzlich erlaubte Nutzungen für Unterricht, Wissenschaft und Institutionen
 
 
-#### § 62 Änderungsverbot
+
+##### § 60a Unterricht und Lehre
+
+(1) Zur Veranschaulichung des Unterrichts und der Lehre an
+Bildungseinrichtungen dürfen zu nicht kommerziellen Zwecken bis zu 15
+Prozent eines veröffentlichten Werkes vervielfältigt, verbreitet,
+öffentlich zugänglich gemacht und in sonstiger Weise öffentlich
+wiedergegeben werden
+
+1.  für Lehrende und Teilnehmer der jeweiligen Veranstaltung,
+
+
+2.  für Lehrende und Prüfer an derselben Bildungseinrichtung sowie
+
+
+3.  für Dritte, soweit dies der Präsentation des Unterrichts, von
+    Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.
+
+
+
+
+(2) Abbildungen, einzelne Beiträge aus derselben Fachzeitschrift oder
+wissenschaftlichen Zeitschrift, sonstige Werke geringen Umfangs und
+vergriffene Werke dürfen abweichend von Absatz 1 vollständig genutzt
+werden.
+
+(3) Nicht nach den Absätzen 1 und 2 erlaubt sind folgende Nutzungen:
+
+1.  Vervielfältigung durch Aufnahme auf Bild- oder Tonträger und
+    öffentliche Wiedergabe eines Werkes, während es öffentlich
+    vorgetragen, aufgeführt oder vorgeführt wird,
+
+
+2.  Vervielfältigung, Verbreitung und öffentliche Wiedergabe eines Werkes,
+    das ausschließlich für den Unterricht an Schulen geeignet, bestimmt
+    und entsprechend gekennzeichnet ist, an Schulen sowie
+
+
+3.  Vervielfältigung von grafischen Aufzeichnungen von Werken der Musik,
+    soweit sie nicht für die öffentliche Zugänglichmachung nach den
+    Absätzen 1 oder 2 erforderlich ist.
+
+
+
+
+(4) Bildungseinrichtungen sind frühkindliche Bildungseinrichtungen,
+Schulen, Hochschulen sowie Einrichtungen der Berufsbildung oder der
+sonstigen Aus- und Weiterbildung.
+
+
+##### § 60b Unterrichts- und Lehrmedien
+
+(1) Hersteller von Unterrichts- und Lehrmedien dürfen für solche
+Sammlungen bis zu 10 Prozent eines veröffentlichten Werkes
+vervielfältigen, verbreiten und öffentlich zugänglich machen.
+
+(2) § 60a Absatz 2 und 3 ist entsprechend anzuwenden.
+
+(3) Unterrichts- und Lehrmedien im Sinne dieses Gesetzes sind
+Sammlungen, die Werke einer größeren Anzahl von Urhebern vereinigen
+und ausschließlich zur Veranschaulichung des Unterrichts und der Lehre
+an Bildungseinrichtungen (§ 60a) zu nicht kommerziellen Zwecken
+geeignet, bestimmt und entsprechend gekennzeichnet sind.
+
+
+##### § 60c Wissenschaftliche Forschung
+
+(1) Zum Zweck der nicht kommerziellen wissenschaftlichen Forschung
+dürfen bis zu 15 Prozent eines Werkes vervielfältigt, verbreitet und
+öffentlich zugänglich gemacht werden
+
+1.  für einen bestimmt abgegrenzten Kreis von Personen für deren eigene
+    wissenschaftliche Forschung sowie
+
+
+2.  für einzelne Dritte, soweit dies der Überprüfung der Qualität
+    wissenschaftlicher Forschung dient.
+
+
+
+
+(2) Für die eigene wissenschaftliche Forschung dürfen bis zu 75
+Prozent eines Werkes vervielfältigt werden.
+
+(3) Abbildungen, einzelne Beiträge aus derselben Fachzeitschrift oder
+wissenschaftlichen Zeitschrift, sonstige Werke geringen Umfangs und
+vergriffene Werke dürfen abweichend von den Absätzen 1 und 2
+vollständig genutzt werden.
+
+(4) Nicht nach den Absätzen 1 bis 3 erlaubt ist es, während
+öffentlicher Vorträge, Aufführungen oder Vorführungen eines Werkes
+diese auf Bild- oder Tonträger aufzunehmen und später öffentlich
+zugänglich zu machen.
+
+
+##### § 60d Text und Data Mining
+
+(1) Um eine Vielzahl von Werken (Ursprungsmaterial) für die
+wissenschaftliche Forschung automatisiert auszuwerten, ist es
+zulässig,
+
+1.  das Ursprungsmaterial auch automatisiert und systematisch zu
+    vervielfältigen, um daraus insbesondere durch Normalisierung,
+    Strukturierung und Kategorisierung ein auszuwertendes Korpus zu
+    erstellen, und
+
+
+2.  das Korpus einem bestimmt abgegrenzten Kreis von Personen für die
+    gemeinsame wissenschaftliche Forschung sowie einzelnen Dritten zur
+    Überprüfung der Qualität wissenschaftlicher Forschung öffentlich
+    zugänglich zu machen.
+
+
+
+Der Nutzer darf hierbei nur nicht kommerzielle Zwecke verfolgen.
+
+(2) Werden Datenbankwerke nach Maßgabe des Absatzes 1 genutzt, so gilt
+dies als übliche Benutzung nach § 55a Satz 1. Werden unwesentliche
+Teile von Datenbanken nach Maßgabe des Absatzes 1 genutzt, so gilt
+dies mit der normalen Auswertung der Datenbank sowie mit den
+berechtigten Interessen des Datenbankherstellers im Sinne von § 87b
+Absatz 1 Satz 2 und § 87e als vereinbar.
+
+(3) Das Korpus und die Vervielfältigungen des Ursprungsmaterials sind
+nach Abschluss der Forschungsarbeiten zu löschen; die öffentliche
+Zugänglichmachung ist zu beenden. Zulässig ist es jedoch, das Korpus
+und die Vervielfältigungen des Ursprungsmaterials den in den §§ 60e
+und 60f genannten Institutionen zur dauerhaften Aufbewahrung zu
+übermitteln.
+
+
+##### § 60e Bibliotheken
+
+(1) Öffentlich zugängliche Bibliotheken, die keine unmittelbaren oder
+mittelbaren kommerziellen Zwecke verfolgen (Bibliotheken), dürfen ein
+Werk aus ihrem Bestand oder ihrer Ausstellung für Zwecke der
+Zugänglichmachung, Indexierung, Katalogisierung, Erhaltung und
+Restaurierung vervielfältigen oder vervielfältigen lassen, auch
+mehrfach und mit technisch bedingten Änderungen.
+
+(2) Verbreiten dürfen Bibliotheken Vervielfältigungen eines Werkes aus
+ihrem Bestand an andere Bibliotheken oder an in § 60f genannte
+Institutionen für Zwecke der Restaurierung. Verleihen dürfen sie
+restaurierte Werke sowie Vervielfältigungsstücke von Zeitungen,
+vergriffenen oder zerstörten Werken aus ihrem Bestand.
+
+(3) Verbreiten dürfen Bibliotheken Vervielfältigungen eines in § 2
+Absatz 1 Nummer 4 bis 7 genannten Werkes, sofern dies in Zusammenhang
+mit dessen öffentlicher Ausstellung oder zur Dokumentation des
+Bestandes der Bibliothek erfolgt.
+
+(4) Zugänglich machen dürfen Bibliotheken an Terminals in ihren Räumen
+ein Werk aus ihrem Bestand ihren Nutzern für deren Forschung oder
+private Studien. Sie dürfen den Nutzern je Sitzung Vervielfältigungen
+an den Terminals von bis zu 10 Prozent eines Werkes sowie von
+einzelnen Abbildungen, Beiträgen aus derselben Fachzeitschrift oder
+wissenschaftlichen Zeitschrift, sonstigen Werken geringen Umfangs und
+vergriffenen Werken zu nicht kommerziellen Zwecken ermöglichen.
+
+(5) Auf Einzelbestellung an Nutzer zu nicht kommerziellen Zwecken
+übermitteln dürfen Bibliotheken Vervielfältigungen von bis zu 10
+Prozent eines erschienenen Werkes sowie einzelne Beiträge, die in
+Fachzeitschriften oder wissenschaftlichen Zeitschriften erschienen
+sind.
+
+
+##### § 60f Archive, Museen und Bildungseinrichtungen
+
+(1) Für Archive, Einrichtungen im Bereich des Film- oder Tonerbes
+sowie öffentlich zugängliche Museen und Bildungseinrichtungen (§ 60a
+Absatz 4), die keine unmittelbaren oder mittelbaren kommerziellen
+Zwecke verfolgen, gilt § 60e mit Ausnahme des Absatzes 5 entsprechend.
+
+(2) Archive, die auch im öffentlichen Interesse tätig sind, dürfen ein
+Werk vervielfältigen oder vervielfältigen lassen, um es als Archivgut
+in ihre Bestände aufzunehmen. Die abgebende Stelle hat unverzüglich
+die bei ihr vorhandenen Vervielfältigungen zu löschen.
+
+
+##### § 60g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis
+
+(1) Auf Vereinbarungen, die erlaubte Nutzungen nach den §§ 60a bis 60f
+zum Nachteil der Nutzungsberechtigten beschränken oder untersagen,
+kann sich der Rechtsinhaber nicht berufen.
+
+(2) Vereinbarungen, die ausschließlich die Zugänglichmachung an
+Terminals nach § 60e Absatz 4 und § 60f Absatz 1 oder den Versand von
+Vervielfältigungen auf Einzelbestellung nach § 60e Absatz 5 zum
+Gegenstand haben, gehen abweichend von Absatz 1 der gesetzlichen
+Erlaubnis vor.
+
+
+##### § 60h Angemessene Vergütung der gesetzlich erlaubten Nutzungen
+
+(1) Für Nutzungen nach Maßgabe dieses Unterabschnitts hat der Urheber
+Anspruch auf Zahlung einer angemessenen Vergütung. Vervielfältigungen
+sind nach den §§ 54 bis 54c zu vergüten.
+
+(2) Folgende Nutzungen sind abweichend von Absatz 1 vergütungsfrei:
+
+1.  die öffentliche Wiedergabe für Angehörige von Bildungseinrichtungen
+    und deren Familien nach § 60a Absatz 1 Nummer 1 und 3 sowie Absatz 2
+    mit Ausnahme der öffentlichen Zugänglichmachung,
+
+
+2.  Vervielfältigungen zum Zweck der Indexierung, Katalogisierung,
+    Erhaltung und Restaurierung nach § 60e Absatz 1 und § 60f Absatz 1.
+
+
+
+
+(3) Eine pauschale Vergütung oder eine repräsentative Stichprobe der
+Nutzung für die nutzungsabhängige Berechnung der angemessenen
+Vergütung genügt. Dies gilt nicht bei Nutzungen nach den §§ 60b und
+60e Absatz 5.
+
+(4) Der Anspruch auf angemessene Vergütung kann nur durch eine
+Verwertungsgesellschaft geltend gemacht werden.
+
+(5) Ist der Nutzer im Rahmen einer Einrichtung tätig, so ist nur sie
+die Vergütungsschuldnerin. Für Vervielfältigungen, die gemäß Absatz 1
+Satz 2 nach den §§ 54 bis 54c abgegolten werden, sind nur diese
+Regelungen anzuwenden.
+
+
+#### Unterabschnitt 5 - Besondere gesetzlich erlaubte Nutzungen verwaister Werke
+
+
+
+##### § 61 Verwaiste Werke
+
+(1) Zulässig sind die Vervielfältigung und die öffentliche
+Zugänglichmachung verwaister Werke nach Maßgabe der Absätze 3 bis 5.
+
+(2) Verwaiste Werke im Sinne dieses Gesetzes sind
+
+1.  Werke und sonstige Schutzgegenstände in Büchern, Fachzeitschriften,
+    Zeitungen, Zeitschriften oder anderen Schriften,
+
+
+2.  Filmwerke sowie Bildträger und Bild- und Tonträger, auf denen
+    Filmwerke aufgenommen sind, und
+
+
+3.  Tonträger
+
+
+
+aus Sammlungen (Bestandsinhalte) von öffentlich zugänglichen
+Bibliotheken, Bildungseinrichtungen, Museen, Archiven sowie von
+Einrichtungen im Bereich des Film- oder Tonerbes, wenn diese
+Bestandsinhalte bereits veröffentlicht worden sind, deren
+Rechtsinhaber auch durch eine sorgfältige Suche nicht festgestellt
+oder ausfindig gemacht werden konnte.
+
+(3) Gibt es mehrere Rechtsinhaber eines Bestandsinhalts, kann dieser
+auch dann vervielfältigt und öffentlich zugänglich gemacht werden,
+wenn selbst nach sorgfältiger Suche nicht alle Rechtsinhaber
+festgestellt oder ausfindig gemacht werden konnten, aber von den
+bekannten Rechtsinhabern die Erlaubnis zur Nutzung eingeholt worden
+ist.
+
+(4) Bestandsinhalte, die nicht erschienen sind oder nicht gesendet
+wurden, dürfen durch die jeweilige in Absatz 2 genannte Institution
+genutzt werden, wenn die Bestandsinhalte von ihr bereits mit Erlaubnis
+des Rechtsinhabers der Öffentlichkeit zugänglich gemacht wurden und
+sofern nach Treu und Glauben anzunehmen ist, dass der Rechtsinhaber in
+die Nutzung nach Absatz 1 einwilligen würde.
+
+(5) Die Vervielfältigung und die öffentliche Zugänglichmachung durch
+die in Absatz 2 genannten Institutionen sind nur zulässig, wenn die
+Institutionen zur Erfüllung ihrer im Gemeinwohl liegenden Aufgaben
+handeln, insbesondere wenn sie Bestandsinhalte bewahren und
+restaurieren und den Zugang zu ihren Sammlungen eröffnen, sofern dies
+kulturellen und bildungspolitischen Zwecken dient. Die Institutionen
+dürfen für den Zugang zu den genutzten verwaisten Werken ein Entgelt
+verlangen, das die Kosten der Digitalisierung und der öffentlichen
+Zugänglichmachung deckt.
+
+
+##### § 61a Sorgfältige Suche und Dokumentationspflichten
+
+(1) Die sorgfältige Suche nach dem Rechtsinhaber gemäß § 61 Absatz 2
+ist für jeden Bestandsinhalt und für in diesem enthaltene sonstige
+Schutzgegenstände durchzuführen; dabei sind mindestens die in der
+Anlage bestimmten Quellen zu konsultieren. Die sorgfältige Suche ist
+in dem Mitgliedstaat der Europäischen Union durchzuführen, in dem das
+Werk zuerst veröffentlicht wurde. Wenn es Hinweise darauf gibt, dass
+relevante Informationen zu Rechtsinhabern in anderen Staaten gefunden
+werden können, sind auch verfügbare Informationsquellen in diesen
+anderen Staaten zu konsultieren. Die nutzende Institution darf mit der
+Durchführung der sorgfältigen Suche auch einen Dritten beauftragen.
+
+(2) Bei Filmwerken sowie bei Bildträgern und Bild- und Tonträgern, auf
+denen Filmwerke aufgenommen sind, ist die sorgfältige Suche in dem
+Mitgliedstaat der Europäischen Union durchzuführen, in dem der
+Hersteller seine Hauptniederlassung oder seinen gewöhnlichen
+Aufenthalt hat.
+
+(3) Für die in § 61 Absatz 4 genannten Bestandsinhalte ist eine
+sorgfältige Suche in dem Mitgliedstaat der Europäischen Union
+durchzuführen, in dem die Institution ihren Sitz hat, die den
+Bestandsinhalt mit Erlaubnis des Rechtsinhabers der Öffentlichkeit
+zugänglich gemacht hat.
+
+(4) Die nutzende Institution dokumentiert ihre sorgfältige Suche und
+leitet die folgenden Informationen dem Deutschen Patent- und Markenamt
+zu:
+
+1.  die genaue Bezeichnung des Bestandsinhalts, der nach den Ergebnissen
+    der sorgfältigen Suche verwaist ist,
+
+
+2.  die Art der Nutzung des verwaisten Werkes durch die Institution,
+
+
+3.  jede Änderung des Status eines genutzten verwaisten Werkes gemäß §
+    61b,
+
+
+4.  die Kontaktdaten der Institution wie Name, Anschrift sowie
+    gegebenenfalls Telefonnummer, Faxnummer und E-Mail-Adresse.
+
+
+
+Diese Informationen werden von dem Deutschen Patent- und Markenamt
+unverzüglich an das Harmonisierungsamt für den Binnenmarkt (Marken,
+Muster, Modelle) weitergeleitet.
+
+(5) Einer sorgfältigen Suche bedarf es nicht für Bestandsinhalte, die
+bereits in der Datenbank des Harmonisierungsamtes für den Binnenmarkt
+(Marken, Muster, Modelle) als verwaist erfasst sind.
+
+
+##### § 61b Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution
+
+Wird ein Rechtsinhaber eines Bestandsinhalts nachträglich festgestellt
+oder ausfindig gemacht, hat die nutzende Institution die
+Nutzungshandlungen unverzüglich zu unterlassen, sobald sie hiervon
+Kenntnis erlangt. Der Rechtsinhaber hat gegen die nutzende Institution
+Anspruch auf Zahlung einer angemessenen Vergütung für die erfolgte
+Nutzung.
+
+
+##### § 61c Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten
+
+Zulässig sind die Vervielfältigung und die öffentliche
+Zugänglichmachung von
+
+1.  Filmwerken sowie Bildträgern und Bild- und Tonträgern, auf denen
+    Filmwerke aufgenommen sind, und
+
+
+2.  Tonträgern,
+
+
+
+die vor dem 1. Januar 2003 von öffentlich-rechtlichen
+Rundfunkanstalten hergestellt wurden und sich in deren Sammlung
+befinden, unter den Voraussetzungen des § 61 Absatz 2 bis 5 auch durch
+öffentlich-rechtliche Rundfunkanstalten. Die §§ 61a und 61b gelten
+entsprechend.
+
+
+#### Unterabschnitt 6 - Gemeinsame Vorschriften für gesetzlich erlaubte Nutzungen
+
+
+
+##### § 62 Änderungsverbot
 
 (1) Soweit nach den Bestimmungen dieses Abschnitts die Benutzung eines
 Werkes zulässig ist, dürfen Änderungen an dem Werk nicht vorgenommen
@@ -1854,40 +2322,46 @@ solche Änderungen des Werkes zulässig, die nur Auszüge oder
 zulässig, die das für die Vervielfältigung angewendete Verfahren mit
 sich bringt.
 
-(4) Bei Sammlungen für Kirchen-, Schul- oder Unterrichtsgebrauch (§
-46) sind außer den nach den Absätzen 1 bis 3 erlaubten Änderungen
-solche Änderungen von Sprachwerken zulässig, die für den Kirchen-,
-Schul- oder Unterrichtsgebrauch erforderlich sind. Diese Änderungen
-bedürfen jedoch der Einwilligung des Urhebers, nach seinem Tode der
-Einwilligung seines Rechtsnachfolgers (§ 30), wenn dieser Angehöriger
-(§ 60 Abs. 2) des Urhebers ist oder das Urheberrecht auf Grund
-letztwilliger Verfügung des Urhebers erworben hat. Die Einwilligung
-gilt als erteilt, wenn der Urheber oder der Rechtsnachfolger nicht
-innerhalb eines Monats, nachdem ihm die beabsichtigte Änderung
-mitgeteilt worden ist, widerspricht und er bei der Mitteilung der
-Änderung auf diese Rechtsfolge hingewiesen worden ist.
+(4) Bei Sammlungen für den religiösen Gebrauch (§ 46), bei Nutzungen
+für Unterricht und Lehre (§ 60a) und bei Unterrichts- und Lehrmedien
+(§ 60b) sind auch solche Änderungen von Sprachwerken zulässig, die für
+den religiösen Gebrauch und für die Veranschaulichung des Unterrichts
+und der Lehre erforderlich sind. Diese Änderungen bedürfen jedoch der
+Einwilligung des Urhebers, nach seinem Tode der Einwilligung seines
+Rechtsnachfolgers (§ 30), wenn dieser Angehöriger (§ 60 Abs. 2) des
+Urhebers ist oder das Urheberrecht auf Grund letztwilliger Verfügung
+des Urhebers erworben hat. Die Einwilligung gilt als erteilt, wenn der
+Urheber oder der Rechtsnachfolger nicht innerhalb eines Monats,
+nachdem ihm die beabsichtigte Änderung mitgeteilt worden ist,
+widerspricht und er bei der Mitteilung der Änderung auf diese
+Rechtsfolge hingewiesen worden ist. Bei Nutzungen für Unterricht und
+Lehre (§ 60a) sowie für Unterrichts- und Lehrmedien (§ 60b) bedarf es
+keiner Einwilligung, wenn die Änderungen deutlich sichtbar kenntlich
+gemacht werden.
 
 
-#### § 63 Quellenangabe
+##### § 63 Quellenangabe
 
 (1) Wenn ein Werk oder ein Teil eines Werkes in den Fällen des § 45
-Abs. 1, der §§ 45a bis 48, 50, 51, 53 Abs. 2 Satz 1 Nr. 1 und Abs. 3
-Nr. 1 sowie der §§ 58 und 59 vervielfältigt wird, ist stets die Quelle
-deutlich anzugeben. Bei der Vervielfältigung ganzer Sprachwerke oder
-ganzer Werke der Musik ist neben dem Urheber auch der Verlag
-anzugeben, in dem das Werk erschienen ist, und außerdem kenntlich zu
-machen, ob an dem Werk Kürzungen oder andere Änderungen vorgenommen
-worden sind. Die Verpflichtung zur Quellenangabe entfällt, wenn die
-Quelle weder auf dem benutzten Werkstück oder bei der benutzten
-Werkwiedergabe genannt noch dem zur Vervielfältigung Befugten
-anderweit bekannt ist.
+Abs. 1, der §§ 45a bis 48, 50, 51, 58, 59 sowie der §§ 60a bis 60d, 61
+und 61c vervielfältigt oder verbreitet wird, ist stets die Quelle
+deutlich anzugeben. Bei der Vervielfältigung oder Verbreitung ganzer
+Sprachwerke oder ganzer Werke der Musik ist neben dem Urheber auch der
+Verlag anzugeben, in dem das Werk erschienen ist, und außerdem
+kenntlich zu machen, ob an dem Werk Kürzungen oder andere Änderungen
+vorgenommen worden sind. Die Verpflichtung zur Quellenangabe entfällt,
+wenn die Quelle weder auf dem benutzten Werkstück oder bei der
+benutzten Werkwiedergabe genannt noch dem zur Vervielfältigung oder
+Verbreitung Befugten anderweit bekannt ist oder im Fall des § 60a oder
+des § 60b Prüfungszwecke einen Verzicht auf die Quellenangabe
+erfordern.
 
 (2) Soweit nach den Bestimmungen dieses Abschnitts die öffentliche
 Wiedergabe eines Werkes zulässig ist, ist die Quelle deutlich
 anzugeben, wenn und soweit die Verkehrssitte es erfordert. In den
-Fällen der öffentlichen Wiedergabe nach den §§ 46, 48, 51 und 52a ist
-die Quelle einschließlich des Namens des Urhebers stets anzugeben, es
-sei denn, dass dies nicht möglich ist.
+Fällen der öffentlichen Wiedergabe nach den §§ 46, 48, 51, 60a bis
+60d, 61 und 61c ist die Quelle einschließlich des Namens des Urhebers
+stets anzugeben, es sei denn, dass dies nicht möglich ist.
 
 (3) Wird ein Artikel aus einer Zeitung oder einem anderen
 Informationsblatt nach § 49 Abs. 1 in einer anderen Zeitung oder in
@@ -1902,7 +2376,7 @@ abgedruckt oder durch Funk gesendet, so ist stets außer dem Urheber
 auch das Sendeunternehmen anzugeben, das den Kommentar gesendet hat.
 
 
-#### § 63a Gesetzliche Vergütungsansprüche
+##### § 63a Gesetzliche Vergütungsansprüche
 
 Auf gesetzliche Vergütungsansprüche nach diesem Abschnitt kann der
 Urheber im Voraus nicht verzichten. Sie können im Voraus nur an eine
@@ -1921,7 +2395,7 @@ Verlegern und Urhebern gemeinsam wahrnimmt.
 Das Urheberrecht erlischt siebzig Jahre nach dem Tode des Urhebers.
 
 
-#### § 65 Miturheber, Filmwerke
+#### § 65 Miturheber, Filmwerke, Musikkomposition mit Text
 
 (1) Steht das Urheberrecht mehreren Miturhebern (§ 8) zu, so erlischt
 es siebzig Jahre nach dem Tode des längstlebenden Miturhebers.
@@ -1931,6 +2405,13 @@ werden, erlischt das Urheberrecht siebzig Jahre nach dem Tod des
 Längstlebenden der folgenden Personen: Hauptregisseur, Urheber des
 Drehbuchs, Urheber der Dialoge, Komponist der für das betreffende
 Filmwerk komponierten Musik.
+
+(3) Die Schutzdauer einer Musikkomposition mit Text erlischt 70 Jahre
+nach dem Tod des Längstlebenden der folgenden Personen: Verfasser des
+Textes, Komponist der Musikkomposition, sofern beide Beiträge eigens
+für die betreffende Musikkomposition mit Text geschaffen wurden. Dies
+gilt unabhängig davon, ob diese Personen als Miturheber ausgewiesen
+sind.
 
 
 #### § 66 Anonyme und pseudonyme Werke
@@ -1998,8 +2479,8 @@ sind keine anderen Kriterien, insbesondere nicht qualitative oder
 Bestimmungen Anwendung, soweit in diesem Abschnitt nichts anderes
 bestimmt ist.
 
-(5) Die Vorschriften der §§ 95a bis 95d finden auf Computerprogramme
-keine Anwendung.
+(5) Die Vorschriften der §§ 32d, 32e, 36 bis 36c, 40a und 95a bis 95d
+finden auf Computerprogramme keine Anwendung.
 
 
 #### § 69b Urheber in Arbeits- und Dienstverhältnissen
@@ -2321,8 +2802,97 @@ Verwertungsgesellschaft abgetreten werden.
 
 (2) Der ausübende Künstler kann einem anderen das Recht einräumen, die
 Darbietung auf einzelne oder alle der ihm vorbehaltenen Nutzungsarten
-zu nutzen. Die §§ 31, 32 bis 32b, 33 bis 42 und 43 sind entsprechend
-anzuwenden.
+zu nutzen.
+
+(2a) Auf Übertragungen nach Absatz 1 und Rechtseinräumungen nach
+Absatz 2 sind die §§ 31, 32 bis 32b, 32d bis 40, 41, 42 und 43
+entsprechend anzuwenden.
+
+(3) Unterlässt es der Tonträgerhersteller, Kopien des Tonträgers in
+ausreichender Menge zum Verkauf anzubieten oder den Tonträger
+öffentlich zugänglich zu machen, so kann der ausübende Künstler den
+Vertrag, mit dem er dem Tonträgerhersteller seine Rechte an der
+Aufzeichnung der Darbietung eingeräumt oder übertragen hat
+(Übertragungsvertrag), kündigen. Die Kündigung ist zulässig
+
+1.  nach Ablauf von 50 Jahren nach dem Erscheinen eines Tonträgers oder 50
+    Jahre nach der ersten erlaubten Benutzung des Tonträgers zur
+    öffentlichen Wiedergabe, wenn der Tonträger nicht erschienen ist, und
+
+
+2.  wenn der Tonträgerhersteller innerhalb eines Jahres nach Mitteilung
+    des ausübenden Künstlers, den Übertragungsvertrag kündigen zu wollen,
+    nicht beide in Satz 1 genannten Nutzungshandlungen ausführt.
+
+
+
+Ist der Übertragungsvertrag gekündigt, so erlöschen die Rechte des
+Tonträgerherstellers am Tonträger. Auf das Kündigungsrecht kann der
+ausübende Künstler nicht verzichten.
+
+
+#### § 79a Vergütungsanspruch des ausübenden Künstlers
+
+(1) Hat der ausübende Künstler einem Tonträgerhersteller gegen Zahlung
+einer einmaligen Vergütung Rechte an seiner Darbietung eingeräumt oder
+übertragen, so hat der Tonträgerhersteller dem ausübenden Künstler
+eine zusätzliche Vergütung in Höhe von 20 Prozent der Einnahmen zu
+zahlen, die der Tonträgerhersteller aus der Vervielfältigung, dem
+Vertrieb und der Zugänglichmachung des Tonträgers erzielt, der die
+Darbietung enthält. Enthält ein Tonträger die Aufzeichnung der
+Darbietungen von mehreren ausübenden Künstlern, so beläuft sich die
+Höhe der Vergütung ebenfalls auf insgesamt 20 Prozent der Einnahmen.
+Als Einnahmen sind die vom Tonträgerhersteller erzielten Einnahmen vor
+Abzug der Ausgaben anzusehen.
+
+(2) Der Vergütungsanspruch besteht für jedes vollständige Jahr
+unmittelbar im Anschluss an das 50. Jahr nach Erscheinen des die
+Darbietung enthaltenen Tonträgers oder mangels Erscheinen an das 50.
+Jahr nach dessen erster erlaubter Benutzung zur öffentlichen
+Wiedergabe.
+
+(3) Auf den Vergütungsanspruch nach Absatz 1 kann der ausübende
+Künstler nicht verzichten. Der Vergütungsanspruch kann nur durch eine
+Verwertungsgesellschaft geltend gemacht werden. Er kann im Voraus nur
+an eine Verwertungsgesellschaft abgetreten werden.
+
+(4) Der Tonträgerhersteller ist verpflichtet, dem ausübenden Künstler
+auf Verlangen Auskunft über die erzielten Einnahmen und sonstige, zur
+Bezifferung des Vergütungsanspruchs nach Absatz 1 erforderliche
+Informationen zu erteilen.
+
+(5) Hat der ausübende Künstler einem Tonträgerhersteller gegen Zahlung
+einer wiederkehrenden Vergütung Rechte an seiner Darbietung eingeräumt
+oder übertragen, so darf der Tonträgerhersteller nach Ablauf folgender
+Fristen weder Vorschüsse noch vertraglich festgelegte Abzüge von der
+Vergütung abziehen:
+
+1.  50 Jahre nach dem Erscheinen des Tonträgers, der die Darbietung
+    enthält, oder
+
+
+2.  50 Jahre nach der ersten erlaubten Benutzung des die Darbietung
+    enthaltenden Tonträgers zur öffentlichen Wiedergabe, wenn der
+    Tonträger nicht erschienen ist.
+
+
+
+
+
+#### § 79b Vergütung des ausübenden Künstlers für später bekannte Nutzungsarten
+
+(1) Der ausübende Künstler hat Anspruch auf eine gesonderte
+angemessene Vergütung, wenn der Vertragspartner eine neue Art der
+Nutzung seiner Darbietung aufnimmt, die im Zeitpunkt des
+Vertragsschlusses vereinbart, aber noch unbekannt war.
+
+(2) Hat der Vertragspartner des ausübenden Künstlers das Nutzungsrecht
+einem Dritten übertragen, haftet der Dritte mit der Aufnahme der neuen
+Art der Nutzung für die Vergütung. Die Haftung des Vertragspartners
+entfällt.
+
+(3) Auf die Rechte nach den Absätzen 1 und 2 kann im Voraus nicht
+verzichtet werden.
 
 
 #### § 80 Gemeinsame Darbietung mehrerer ausübender Künstler
@@ -2334,8 +2904,9 @@ ausübenden Künstler darf seine Einwilligung zur Verwertung wider Treu
 und Glauben verweigern. § 8 Abs. 2 Satz 3, Abs. 3 und 4 ist
 entsprechend anzuwenden.
 
-(2) Für die Geltendmachung der sich aus den §§ 77 und 78 ergebenden
-Rechte und Ansprüche gilt § 74 Abs. 2 Satz 2 und 3 entsprechend.
+(2) Für die Geltendmachung der sich aus den §§ 77, 78 und 79 Absatz 3
+ergebenden Rechte und Ansprüche gilt § 74 Abs. 2 Satz 2 und 3
+entsprechend.
 
 
 #### § 81 Schutz des Veranstalters
@@ -2349,17 +2920,30 @@ entsprechend.
 
 #### § 82 Dauer der Verwertungsrechte
 
-Ist die Darbietung des ausübenden Künstlers auf einen Bild- oder
-Tonträger aufgenommen worden, so erlöschen die in den §§ 77 und 78
-bezeichneten Rechte des ausübenden Künstlers 50 Jahre, die in § 81
-bezeichneten Rechte des Veranstalters 25Jahre nach dem Erscheinen des
-Bild- oder Tonträgers oder, wenn dessen erste erlaubte Benutzung zur
-öffentlichen Wiedergabe früher erfolgt ist, nach dieser. Die Rechte
-des ausübenden Künstlers erlöschen jedoch bereits 50 Jahre, diejenigen
-des Veranstalters 25 Jahre nach der Darbietung, wenn der Bild- oder
-Tonträger innerhalb dieser Frist nicht erschienen oder erlaubterweise
-zur öffentlichen Wiedergabe benutzt worden ist. Die Frist nach Satz 1
-oder 2 ist nach § 69 zu berechnen.
+(1) Ist die Darbietung des ausübenden Künstlers auf einem Tonträger
+aufgezeichnet worden, so erlöschen die in den §§ 77 und 78
+bezeichneten Rechte des ausübenden Künstlers 70 Jahre nach dem
+Erscheinen des Tonträgers, oder wenn dessen erste erlaubte Benutzung
+zur öffentlichen Wiedergabe früher erfolgt ist, 70 Jahre nach dieser.
+Ist die Darbietung des ausübenden Künstlers nicht auf einem Tonträger
+aufgezeichnet worden, so erlöschen die in den §§ 77 und 78
+bezeichneten Rechte des ausübenden Künstlers 50 Jahre nach dem
+Erscheinen der Aufzeichnung, oder wenn deren erste erlaubte Benutzung
+zur öffentlichen Wiedergabe früher erfolgt ist, 50 Jahre nach dieser.
+Die Rechte des ausübenden Künstlers erlöschen jedoch bereits 50 Jahre
+nach der Darbietung, wenn eine Aufzeichnung innerhalb dieser Frist
+nicht erschienen oder nicht erlaubterweise zur öffentlichen Wiedergabe
+benutzt worden ist.
+
+(2) Die in § 81 bezeichneten Rechte des Veranstalters erlöschen 25
+Jahre nach Erscheinen einer Aufzeichnung der Darbietung eines
+ausübenden Künstlers, oder wenn deren erste erlaubte Benutzung zur
+öffentlichen Wiedergabe früher erfolgt ist, 25 Jahre nach dieser. Die
+Rechte erlöschen bereits 25 Jahre nach der Darbietung, wenn eine
+Aufzeichnung innerhalb dieser Frist nicht erschienen oder nicht
+erlaubterweise zur öffentlichen Wiedergabe benutzt worden ist.
+
+(3) Die Fristen sind nach § 69 zu berechnen.
 
 
 #### § 83 Schranken der Verwertungsrechte
@@ -2391,10 +2975,10 @@ anderen das Recht einräumen, den Tonträger auf einzelne oder alle der
 ihm vorbehaltenen Nutzungsarten zu nutzen. § 31 und die §§ 33 und 38
 gelten entsprechend.
 
-(3) Das Recht erlischt 50 Jahre nach dem Erscheinen des Tonträgers.
+(3) Das Recht erlischt 70 Jahre nach dem Erscheinen des Tonträgers.
 Ist der Tonträger innerhalb von 50 Jahren nach der Herstellung nicht
 erschienen, aber erlaubterweise zur öffentlichen Wiedergabe benutzt
-worden, so erlischt das Recht 50 Jahre nach dieser. Ist der Tonträger
+worden, so erlischt das Recht 70 Jahre nach dieser. Ist der Tonträger
 innerhalb dieser Frist nicht erschienen oder erlaubterweise zur
 öffentlichen Wiedergabe benutzt worden, so erlischt das Recht 50 Jahre
 nach der Herstellung des Tonträgers. Die Frist ist nach § 69 zu
@@ -2509,17 +3093,16 @@ einer Datenbank ist zulässig
     Elemente einzeln mit Hilfe elektronischer Mittel zugänglich sind,
 
 
-2.  zum eigenen wissenschaftlichen Gebrauch, wenn und soweit die
-    Vervielfältigung zu diesem Zweck geboten ist und der wissenschaftliche
-    Gebrauch nicht zu gewerblichen Zwecken erfolgt,
+2.  zu Zwecken der wissenschaftlichen Forschung gemäß den §§ 60c und 60d,
 
 
-3.  für die Benutzung zur Veranschaulichung des Unterrichts, sofern sie
-    nicht zu gewerblichen Zwecken erfolgt.
+3.  zu Zwecken der Veranschaulichung des Unterrichts und der Lehre gemäß
+    den §§ 60a und 60b.
 
 
 
-In den Fällen der Nummern 2 und 3 ist die Quelle deutlich anzugeben.
+In den Fällen der Nummern 2 und 3 ist die Quelle deutlich anzugeben
+und gilt § 60g Absatz 1 entsprechend.
 
 (2) Die Vervielfältigung, Verbreitung und öffentliche Wiedergabe eines
 nach Art oder Umfang wesentlichen Teils einer Datenbank ist zulässig
@@ -2551,6 +3134,53 @@ Auswertung der Datenbank zuwiderlaufen noch die berechtigten
 Interessen des Datenbankherstellers unzumutbar beeinträchtigen.
 
 
+### Abschnitt 7 - Schutz des Presseverlegers
+
+
+
+#### § 87f Presseverleger
+
+(1) Der Hersteller eines Presseerzeugnisses (Presseverleger) hat das
+ausschließliche Recht, das Presseerzeugnis oder Teile hiervon zu
+gewerblichen Zwecken öffentlich zugänglich zu machen, es sei denn, es
+handelt sich um einzelne Wörter oder kleinste Textausschnitte. Ist das
+Presseerzeugnis in einem Unternehmen hergestellt worden, so gilt der
+Inhaber des Unternehmens als Hersteller.
+
+(2) Ein Presseerzeugnis ist die redaktionell-technische Festlegung
+journalistischer Beiträge im Rahmen einer unter einem Titel auf
+beliebigen Trägern periodisch veröffentlichten Sammlung, die bei
+Würdigung der Gesamtumstände als überwiegend verlagstypisch anzusehen
+ist und die nicht überwiegend der Eigenwerbung dient. Journalistische
+Beiträge sind insbesondere Artikel und Abbildungen, die der
+Informationsvermittlung, Meinungsbildung oder Unterhaltung dienen.
+
+
+#### § 87g Übertragbarkeit, Dauer und Schranken des Rechts
+
+(1) Das Recht des Presseverlegers nach § 87f Absatz 1 Satz 1 ist
+übertragbar. Die §§ 31 und 33 gelten entsprechend.
+
+(2) Das Recht erlischt ein Jahr nach der Veröffentlichung des
+Presseerzeugnisses.
+
+(3) Das Recht des Presseverlegers kann nicht zum Nachteil des Urhebers
+oder eines Leistungsschutzberechtigten geltend gemacht werden, dessen
+Werk oder nach diesem Gesetz geschützter Schutzgegenstand im
+Presseerzeugnis enthalten ist.
+
+(4) Zulässig ist die öffentliche Zugänglichmachung von
+Presseerzeugnissen oder Teilen hiervon, soweit sie nicht durch
+gewerbliche Anbieter von Suchmaschinen oder gewerbliche Anbieter von
+Diensten erfolgt, die Inhalte entsprechend aufbereiten. Im Übrigen
+gelten die Vorschriften des Teils 1 Abschnitt 6 entsprechend.
+
+
+#### § 87h Beteiligungsanspruch des Urhebers
+
+Der Urheber ist an einer Vergütung angemessen zu beteiligen.
+
+
 ## Teil 3 - Besondere Bestimmungen für Filme
 
 
@@ -2570,9 +3200,12 @@ Nutzungsarten zu nutzen. § 31a Abs. 1 Satz 3 und 4 und Abs. 2 bis 4
 findet keine Anwendung.
 
 (2) Die in Absatz 1 bezeichneten Befugnisse berechtigen im Zweifel
-nicht zu einer Wiederverfilmung des Werkes. Der Urheber ist im Zweifel
+nicht zu einer Wiederverfilmung des Werkes. Der Urheber ist
 berechtigt, sein Werk nach Ablauf von zehn Jahren nach
-Vertragsabschluß anderweit filmisch zu verwerten.
+Vertragsabschluß anderweit filmisch zu verwerten. Von Satz 2 kann zum
+Nachteil des Urhebers nur durch eine Vereinbarung abgewichen werden,
+die auf einer gemeinsamen Vergütungsregel (§ 36) oder einem
+Tarifvertrag beruht.
 
 (3) (weggefallen)
 
@@ -2602,12 +3235,28 @@ die Absätze 1 und 2 entsprechend.
 
 #### § 90 Einschränkung der Rechte
 
-Die Bestimmungen über die Übertragung von Nutzungsrechten (§ 34) und
-über die Einräumung weiterer Nutzungsrechte (§ 35) sowie über das
-Rückrufrecht wegen Nichtausübung (§ 41) und wegen gewandelter
-Überzeugung (§ 42) gelten nicht für die in § 88 Abs. 1 und § 89 Abs. 1
-bezeichneten Rechte. Satz 1 findet bis zum Beginn der Dreharbeiten für
-das Recht zur Verfilmung keine Anwendung.
+(1) Für die in § 88 Absatz 1 und § 89 Absatz 1 bezeichneten Rechte
+gelten nicht die Bestimmungen
+
+1.  über die Übertragung von Nutzungsrechten (§ 34),
+
+
+2.  über die Einräumung weiterer Nutzungsrechte (§ 35) und
+
+
+3.  über die Rückrufsrechte (§§ 41 und 42).
+
+
+
+Satz 1 findet bis zum Beginn der Dreharbeiten für das Recht zur
+Verfilmung keine Anwendung. Ein Ausschluss der Ausübung des
+Rückrufsrechts wegen Nichtausübung (§ 41) bis zum Beginn der
+Dreharbeiten kann mit dem Urheber im Voraus für eine Dauer von bis zu
+fünf Jahren vereinbart werden.
+
+(2) Für die in § 88 und § 89 Absatz 1 bezeichneten Rechte gilt nicht
+die Bestimmung über das Recht zur anderweitigen Verwertung nach zehn
+Jahren bei pauschaler Vergütung (§ 40a).
 
 
 #### § 91 (weggefallen)
@@ -2759,14 +3408,13 @@ Maße Gebrauch machen zu können:
 2.  § 45a (Behinderte Menschen),
 
 
-3.  § 46 (Sammlungen für Kirchen-, Schul- oder Unterrichtsgebrauch), mit
-    Ausnahme des Kirchengebrauchs,
+3.  (weggefallen)
 
 
 4.  § 47 (Schulfunksendungen),
 
 
-5.  § 52a (Öffentliche Zugänglichmachung für Unterricht und Forschung),
+5.  (weggefallen)
 
 
 6.  § 53 (Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch)
@@ -2776,23 +3424,51 @@ Maße Gebrauch machen zu können:
         anderer Verfahren mit ähnlicher Wirkung handelt,
 
 
-    b)  Absatz 2 Satz 1 Nr. 1,
+    b)  (weggefallen)
 
 
-    c)  Absatz 2 Satz 1 Nr. 2 in Verbindung mit Satz 2 Nr. 1 oder 3,
+    c)  Absatz 2 Satz 1 Nr. 2 in Verbindung mit Satz 2 Nr. 1,
 
 
-    d)  Absatz 2 Satz 1 Nr. 3 und 4 jeweils in Verbindung mit Satz 2 Nr. 1 und
-        Satz 3,
-
-
-    e)  Absatz 3,
+    d)  Absatz 2 Satz 1 Nr. 3 und 4 jeweils in Verbindung mit Satz 2 Nr. 1,
 
 
 
 
 
-7.  § 55 (Vervielfältigung durch Sendeunternehmen).
+7.  § 55 (Vervielfältigung durch Sendeunternehmen),
+
+
+8.  § 60a (Unterricht und Lehre),
+
+
+9.  § 60b (Unterrichts- und Lehrmedien),
+
+
+10. § 60c (Wissenschaftliche Forschung),
+
+
+11. § 60d (Text und Data Mining),
+
+
+12. § 60e (Bibliotheken)
+
+    a)  Absatz 1,
+
+
+    b)  Absatz 2,
+
+
+    c)  Absatz 3,
+
+
+    d)  Absatz 5,
+
+
+
+
+
+13. § 60f (Archive, Museen und Bildungseinrichtungen).
 
 
 
@@ -2908,14 +3584,59 @@ soweit dies der Billigkeit entspricht.
 (1) Der Verletzte soll den Verletzer vor Einleitung eines
 gerichtlichen Verfahrens auf Unterlassung abmahnen und ihm Gelegenheit
 geben, den Streit durch Abgabe einer mit einer angemessenen
-Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen. Soweit
-die Abmahnung berechtigt ist, kann der Ersatz der erforderlichen
-Aufwendungen verlangt werden.
+Vertragsstrafe bewehrten Unterlassungsverpflichtung beizulegen.
 
-(2) Der Ersatz der erforderlichen Aufwendungen für die Inanspruchnahme
-anwaltlicher Dienstleistungen für die erstmalige Abmahnung beschränkt
-sich in einfach gelagerten Fällen mit einer nur unerheblichen
-Rechtsverletzung außerhalb des geschäftlichen Verkehrs auf 100 Euro.
+(2) Die Abmahnung hat in klarer und verständlicher Weise
+
+1.  Name oder Firma des Verletzten anzugeben, wenn der Verletzte nicht
+    selbst, sondern ein Vertreter abmahnt,
+
+
+2.  die Rechtsverletzung genau zu bezeichnen,
+
+
+3.  geltend gemachte Zahlungsansprüche als Schadensersatz- und
+    Aufwendungsersatzansprüche aufzuschlüsseln und
+
+
+4.  wenn darin eine Aufforderung zur Abgabe einer
+    Unterlassungsverpflichtung enthalten ist, anzugeben, inwieweit die
+    vorgeschlagene Unterlassungsverpflichtung über die abgemahnte
+    Rechtsverletzung hinausgeht.
+
+
+
+Eine Abmahnung, die nicht Satz 1 entspricht, ist unwirksam.
+
+(3) Soweit die Abmahnung berechtigt ist und Absatz 2 Satz 1 Nummer 1
+bis 4 entspricht, kann der Ersatz der erforderlichen Aufwendungen
+verlangt werden. Für die Inanspruchnahme anwaltlicher Dienstleistungen
+beschränkt sich der Ersatz der erforderlichen Aufwendungen
+hinsichtlich der gesetzlichen Gebühren auf Gebühren nach einem
+Gegenstandswert für den Unterlassungs- und Beseitigungsanspruch von 1
+000 Euro, wenn der Abgemahnte
+
+1.  eine natürliche Person ist, die nach diesem Gesetz geschützte Werke
+    oder andere nach diesem Gesetz geschützte Schutzgegenstände nicht für
+    ihre gewerbliche oder selbständige berufliche Tätigkeit verwendet, und
+
+
+2.  nicht bereits wegen eines Anspruchs des Abmahnenden durch Vertrag, auf
+    Grund einer rechtskräftigen gerichtlichen Entscheidung oder einer
+    einstweiligen Verfügung zur Unterlassung verpflichtet ist.
+
+
+
+Der in Satz 2 genannte Wert ist auch maßgeblich, wenn ein
+Unterlassungs- und ein Beseitigungsanspruch nebeneinander geltend
+gemacht werden. Satz 2 gilt nicht, wenn der genannte Wert nach den
+besonderen Umständen des Einzelfalles unbillig ist.
+
+(4) Soweit die Abmahnung unberechtigt oder unwirksam ist, kann der
+Abgemahnte Ersatz der für die Rechtsverteidigung erforderlichen
+Aufwendungen verlangen, es sei denn, es war für den Abmahnenden zum
+Zeitpunkt der Abmahnung nicht erkennbar, dass die Abmahnung
+unberechtigt war. Weiter gehende Ersatzansprüche bleiben unberührt.
 
 
 ##### § 98 Anspruch auf Vernichtung, Rückruf und Überlassung
@@ -3174,6 +3895,21 @@ Gegenstand haben, bleiben der Rechtsweg zu den Gerichten für
 Arbeitssachen und der Verwaltungsrechtsweg unberührt.
 
 
+##### § 104a Gerichtsstand
+
+(1) Für Klagen wegen Urheberrechtsstreitsachen gegen eine natürliche
+Person, die nach diesem Gesetz geschützte Werke oder andere nach
+diesem Gesetz geschützte Schutzgegenstände nicht für ihre gewerbliche
+oder selbständige berufliche Tätigkeit verwendet, ist das Gericht
+ausschließlich zuständig, in dessen Bezirk diese Person zur Zeit der
+Klageerhebung ihren Wohnsitz, in Ermangelung eines solchen ihren
+gewöhnlichen Aufenthalt hat. Wenn die beklagte Person im Inland weder
+einen Wohnsitz noch ihren gewöhnlichen Aufenthalt hat, ist das Gericht
+zuständig, in dessen Bezirk die Handlung begangen ist.
+
+(2) § 105 bleibt unberührt.
+
+
 ##### § 105 Gerichte für Urheberrechtsstreitsachen
 
 (1) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
@@ -3401,18 +4137,17 @@ Fällen mit einer Geldbuße bis zu zehntausend Euro geahndet werden.
 (1) Verletzt die Herstellung oder Verbreitung von
 Vervielfältigungsstücken das Urheberrecht oder ein anderes nach diesem
 Gesetz geschütztes Recht, so unterliegen die Vervielfältigungsstücke,
-soweit nicht die Verordnung (EG) Nr. 1383/2003 des Rates vom 22. Juli
-2003 über das Vorgehen der Zollbehörden gegen Waren, die im Verdacht
-stehen, bestimmte Rechte geistigen Eigentums zu verletzen, und die
-Maßnahmen gegenüber Waren, die erkanntermaßen derartige Rechte
-verletzen (ABl. EU Nr. L 196 S. 7), in ihrer jeweils geltenden Fassung
-anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des
-Rechtsinhabers bei ihrer Einfuhr oder Ausfuhr der Beschlagnahme durch
-die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies
-gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen
-Union sowie mit den anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die
-Zollbehörden stattfinden.
+soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
+Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
+geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
+Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
+15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und
+gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder
+Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die
+Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
+anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, so unterrichtet sie
 unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem
@@ -3461,7 +4196,7 @@ nicht unverzüglich erklärt (Absatz 4 Satz 2), so ist er verpflichtet,
 den dem Verfügungsberechtigten durch die Beschlagnahme entstandenen
 Schaden zu ersetzen.
 
-(6) Der Antrag nach Absatz 1 ist bei der Bundesfinanzdirektion zu
+(6) Der Antrag nach Absatz 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
 Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit
 dem Antrag verbundenen Amtshandlungen werden vom Antragsteller Kosten
@@ -3477,47 +4212,11 @@ zulässig; über sie entscheidet das Oberlandesgericht.
 (8) (weggefallen)
 
 
-##### § 111c Verfahren nach der Verordnung (EG) Nr. 1383/2003
+##### § 111c Verfahren nach der Verordnung (EU) Nr. 608/2013
 
-(1) Setzt die zuständige Zollbehörde nach Artikel 9 der Verordnung
-(EG) Nr. 1383/2003 die Überlassung der Waren aus oder hält diese
-zurück, unterrichtet sie davon unverzüglich den Rechtsinhaber sowie
-den Anmelder oder den Besitzer oder den Eigentümer der Waren.
-
-(2) Im Fall des Absatzes 1 kann der Rechtsinhaber beantragen, die
-Waren in dem nachstehend beschriebenen vereinfachten Verfahren im Sinn
-des Artikels 11 der Verordnung (EG) Nr. 1383/2003 vernichten zu
-lassen.
-
-(3) Der Antrag muss bei der Zollbehörde innerhalb von zehn
-Arbeitstagen nach Zugang der Unterrichtung nach Absatz 1 schriftlich
-gestellt werden. Er muss die Mitteilung enthalten, dass die Waren, die
-Gegenstand des Verfahrens sind, ein nach diesem Gesetz geschütztes
-Recht verletzen. Die schriftliche Zustimmung des Anmelders, des
-Besitzers oder des Eigentümers der Waren zu ihrer Vernichtung ist
-beizufügen. Abweichend von Satz 3 kann der Anmelder, der Besitzer oder
-der Eigentümer die schriftliche Erklärung, ob er einer Vernichtung
-zustimmt oder nicht, unmittelbar gegenüber der Zollbehörde abgeben.
-Die in Satz 1 genannte Frist kann vor Ablauf auf Antrag des
-Rechtsinhabers um zehn Arbeitstage verlängert werden.
-
-(4) Die Zustimmung zur Vernichtung gilt als erteilt, wenn der
-Anmelder, der Besitzer oder der Eigentümer der Waren einer Vernichtung
-nicht innerhalb von zehn Arbeitstagen nach Zugang der Unterrichtung
-nach Absatz 1 widerspricht. Auf diesen Umstand ist in der
-Unterrichtung nach Absatz 1 hinzuweisen.
-
-(5) Die Vernichtung der Waren erfolgt auf Kosten und Verantwortung des
-Rechtsinhabers.
-
-(6) Die Zollstelle kann die organisatorische Abwicklung der
-Vernichtung übernehmen. Absatz 5 bleibt unberührt.
-
-(7) Die Aufbewahrungsfrist nach Artikel 11 Abs. 1 zweiter
-Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
-
-(8) Im Übrigen gilt § 111b entsprechend, soweit nicht die Verordnung
-(EG) Nr. 1383/2003 Bestimmungen enthält, die dem entgegenstehen.
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt § 111b
+Absatz 5 und 6 entsprechend, soweit die Verordnung keine Bestimmungen
+enthält, die dem entgegenstehen.
 
 
 ### Abschnitt 3 - Zwangsvollstreckung
@@ -3706,26 +4405,27 @@ gleichgestellt, die mit einem Grundstück im Geltungsbereich dieses
 Gesetzes fest verbunden sind.
 
 (3) Der Schutz nach Absatz 1 kann durch Rechtsverordnung des
-Bundesministers der Justiz für ausländische Staatsangehörige
-beschränkt werden, die keinem Mitgliedstaat der Berner Übereinkunft
-zum Schutze von Werken der Literatur und der Kunst angehören und zur
-Zeit des Erscheinens des Werkes weder im Geltungsbereich dieses
-Gesetzes noch in einem anderen Mitgliedstaat ihren Wohnsitz haben,
-wenn der Staat, dem sie angehören, deutschen Staatsangehörigen für
-ihre Werke keinen genügenden Schutz gewährt.
+Bundesministers der Justiz und für Verbraucherschutz für ausländische
+Staatsangehörige beschränkt werden, die keinem Mitgliedstaat der
+Berner Übereinkunft zum Schutze von Werken der Literatur und der Kunst
+angehören und zur Zeit des Erscheinens des Werkes weder im
+Geltungsbereich dieses Gesetzes noch in einem anderen Mitgliedstaat
+ihren Wohnsitz haben, wenn der Staat, dem sie angehören, deutschen
+Staatsangehörigen für ihre Werke keinen genügenden Schutz gewährt.
 
 (4) Im übrigen genießen ausländische Staatsangehörige den
 urheberrechtlichen Schutz nach Inhalt der Staatsverträge. Bestehen
 keine Staatsverträge, so besteht für solche Werke urheberrechtlicher
 Schutz, soweit in dem Staat, dem der Urheber angehört, nach einer
-Bekanntmachung des Bundesministers der Justiz im Bundesgesetzblatt
-deutsche Staatsangehörige für ihre Werke einen entsprechenden Schutz
-genießen.
+Bekanntmachung des Bundesministers der Justiz und für
+Verbraucherschutz im Bundesgesetzblatt deutsche Staatsangehörige für
+ihre Werke einen entsprechenden Schutz genießen.
 
 (5) Das Folgerecht (§ 26) steht ausländischen Staatsangehörigen nur
 zu, wenn der Staat, dem sie angehören, nach einer Bekanntmachung des
-Bundesministers der Justiz im Bundesgesetzblatt deutschen
-Staatsangehörigen ein entsprechendes Recht gewährt.
+Bundesministers der Justiz und für Verbraucherschutz im
+Bundesgesetzblatt deutschen Staatsangehörigen ein entsprechendes Recht
+gewährt.
 
 (6) Den Schutz nach den §§ 12 bis 14 genießen ausländische
 Staatsangehörige für alle ihre Werke, auch wenn die Voraussetzungen
@@ -3785,8 +4485,8 @@ Gesetzes außerhalb dieses Gebietes erschienen sind.
 durch Funk gesendet, so genießen die ausländischen Staatsangehörigen
 den Schutz gegen Aufnahme der Funksendung auf Bild- oder Tonträger (§
 77 Abs. 1) und Weitersendung der Funksendung (§ 78 Abs. 1 Nr. 2) sowie
-den Schutz nach § 78, wenn die Funksendung im Geltungsbereich dieses
-Gesetzes ausgestrahlt worden ist.
+den Schutz nach § 78 Abs. 2, wenn die Funksendung im Geltungsbereich
+dieses Gesetzes ausgestrahlt worden ist.
 
 (5) Im übrigen genießen ausländische Staatsangehörige den Schutz nach
 Inhalt der Staatsverträge. § 121 Abs. 4 Satz 2 sowie die §§ 122 und
@@ -3875,7 +4575,8 @@ Schutz, wenn
 juristische Personen den Schutz nach dem Inhalt von Staatsverträgen
 sowie von Vereinbarungen, die die Europäische Gemeinschaft mit dritten
 Staaten schließt; diese Vereinbarungen werden vom Bundesministerium
-der Justiz im Bundesgesetzblatt bekanntgemacht.
+der Justiz und für Verbraucherschutz im Bundesgesetzblatt
+bekanntgemacht.
 
 
 ##### § 128 Schutz des Filmherstellers
@@ -3950,7 +4651,14 @@ die seit dem 1. Juni 2001 und bis zum 30. Juni 2002 geschlossen worden
 sind, findet auch § 32 Anwendung, sofern von dem eingeräumten Recht
 oder der Erlaubnis nach dem 30. Juni 2002 Gebrauch gemacht wird.
 
-(4) Absatz 3 gilt für ausübende Künstler entsprechend.
+(3a) Auf Verträge oder sonstige Sachverhalte, die vor dem 1. März 2017
+geschlossen worden oder entstanden sind, sind die Vorschriften dieses
+Gesetzes in der bis zum 1. März 2017 geltenden Fassung weiter
+anzuwenden. § 41 (Rückrufsrecht wegen Nichtausübung) in der am 1. März
+2017 geltenden Fassung findet auf Sachverhalte Anwendung, die seit dem
+1\. März 2018 entstanden sind.
+
+(4) Die Absätze 3 und 3a gelten für ausübende Künstler entsprechend.
 
 
 #### § 133 (weggefallen)
@@ -4145,7 +4853,7 @@ Vorschriften dieses Gesetzes über die Schutzdauer in der ab dem 1.
 Juli 1995 geltenden Fassung auch auf Werke und verwandte Schutzrechte
 anzuwenden, deren Schutz am 1. Juli 1995 noch nicht erloschen ist.
 
-(2) Die Vorschriften dieses Gesetze in der ab dem 1. Juli 1995
+(2) Die Vorschriften dieses Gesetzes in der ab dem 1. Juli 1995
 geltenden Fassung sind auch auf Werke anzuwenden, deren Schutz nach
 diesem Gesetz vor dem 1. Juli 1995 abgelaufen ist, nach dem Gesetz
 eines anderen Mitgliedstaates der Europäischen Union oder eines
@@ -4172,9 +4880,9 @@ zahlen.
 
 #### § 137g Übergangsregelung bei Umsetzung der Richtlinie 96/9/EG
 
-(1) § 23 Satz 2, § 53 Abs. 5, die §§ 55a und 63 Abs. 1 Satz 2 sind
-auch auf Datenbankwerke anzuwenden, die vor dem 1. Januar 1998
-geschaffen wurden.
+(1) § 23 Satz 2, § 53 Abs. 5, die §§ 55a, 60d Absatz 2 Satz 1 und § 63
+Abs. 1 Satz 2 sind auch auf Datenbankwerke anzuwenden, die vor dem 1.
+Januar 1998 geschaffen wurden.
 
 (2) Die Vorschriften des Abschnitts 6 des Teils 2 sind auch auf
 Datenbanken anzuwenden, die zwischen dem 1. Januar 1983 und dem 31.
@@ -4239,9 +4947,8 @@ Zweifel auch auf diesen Zeitraum. Im Fall des Satzes 1 ist eine
 angemessene Vergütung zu zahlen.
 
 
-#### § 137k Übergangsregelung zur öffentlichen Zugänglichmachung für Unterricht und Forschung
+#### § 137k (weggefallen)
 
-§ 52a ist mit Ablauf des 31. Dezember 2014 nicht mehr anzuwenden.
 
 
 #### § 137l Übergangsregelung für neue Nutzungsarten
@@ -4286,6 +4993,46 @@ Dritte mit der Aufnahme der neuen Art der Werknutzung für die
 Vergütung. Die Haftung des anderen entfällt.
 
 
+#### § 137m Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2011/77/EU
+
+(1) Die Vorschriften über die Schutzdauer nach den §§ 82 und 85 Absatz
+3 sowie über die Rechte und Ansprüche des ausübenden Künstlers nach §
+79 Absatz 3 sowie § 79a gelten für Aufzeichnungen von Darbietungen und
+für Tonträger, deren Schutzdauer für den ausübenden Künstler und den
+Tonträgerhersteller am 1. November 2013 nach den Vorschriften dieses
+Gesetzes in der bis 6. Juli 2013 geltenden Fassung noch nicht
+erloschen war, und für Aufzeichnungen von Darbietungen und für
+Tonträger, die nach dem 1. November 2013 entstehen.
+
+(2) § 65 Absatz 3 gilt für Musikkompositionen mit Text, von denen die
+Musikkomposition oder der Text in mindestens einem Mitgliedstaat der
+Europäischen Union am 1. November 2013 geschützt sind, und für
+Musikkompositionen mit Text, die nach diesem Datum entstehen. Lebt
+nach Satz 1 der Schutz der Musikkomposition oder des Textes wieder
+auf, so stehen die wiederauflebenden Rechte dem Urheber zu. Eine vor
+dem 1. November 2013 begonnene Nutzungshandlung darf jedoch in dem
+vorgesehenen Rahmen fortgesetzt werden. Für die Nutzung ab dem 1.
+November 2013 ist eine angemessene Vergütung zu zahlen.
+
+(3) Ist vor dem 1. November 2013 ein Übertragungsvertrag zwischen
+einem ausübenden Künstler und einem Tonträgerhersteller abgeschlossen
+worden, so erstreckt sich im Fall der Verlängerung der Schutzdauer die
+Übertragung auch auf diesen Zeitraum, wenn keine eindeutigen
+vertraglichen Hinweise auf das Gegenteil vorliegen.
+
+
+#### § 137n Übergangsregelung aus Anlass der Umsetzung der Richtlinie 2012/28/EU
+
+§ 61 Absatz 4 ist nur anzuwenden auf Bestandsinhalte, die der
+nutzenden Institution vor dem 29. Oktober 2014 überlassen wurden.
+
+
+#### § 137o Übergangsregelung zum Urheberrechts-Wissensgesellschafts-Gesetz
+
+§ 60g gilt nicht für Verträge, die vor dem 1. März 2018 geschlossen
+wurden.
+
+
 ### Abschnitt 3 - Schlussbestimmungen
 
 
@@ -4306,9 +5053,7 @@ Oberlandesgericht einzureichen. Die Entscheidung des
 Oberlandesgerichts ist endgültig. Im übrigen gelten für das
 gerichtliche Verfahren die Vorschriften des Gesetzes über das
 Verfahren in Familiensachen und in den Angelegenheiten der
-freiwilligen Gerichtsbarkeit entsprechend. Für die Gerichtskosten gilt
-die Kostenordnung; die Gebühren richten sich nach § 131 der
-Kostenordnung.
+freiwilligen Gerichtsbarkeit entsprechend.
 
 (3) Die Eintragungen werden im Bundesanzeiger öffentlich
 bekanntgemacht. Die Kosten für die Bekanntmachung hat der
@@ -4317,8 +5062,8 @@ Antragsteller im voraus zu entrichten.
 (4) Die Einsicht in das Register ist jedem gestattet. Auf Antrag
 werden Auszüge aus dem Register erteilt.
 
-(5) Der Bundesminister der Justiz wird ermächtigt, durch
-Rechtsverordnung
+(5) Der Bundesminister der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung
 
 1.  Bestimmungen über die Form des Antrags und die Führung des Registers
     zu erlassen,
@@ -4341,6 +5086,34 @@ Urheberrecht an Werken der Literatur und der Tonkunst vom 19. Juni
 wirksam.
 
 
+#### § 138a Datenschutz
+
+Soweit personenbezogene Daten im Register anonymer und pseudonymer
+Werke enthalten sind, bestehen nicht
+
+1.  das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der
+    Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom
+    27\. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung
+    personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+    Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+    4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72),
+
+
+2.  die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU)
+    2016/679 und
+
+
+3.  das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
+    (EU) 2016/679.
+
+
+
+Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der
+Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene
+Person Einsicht in das Register anonymer und pseudonymer Werke des
+Deutschen Patent- und Markenamtes nehmen kann.
+
+
 #### § 139 Änderung der Strafprozessordnung
 
 -
@@ -4356,9 +5129,15 @@ wirksam.
 -
 
 
-#### § 142 (weggefallen)
+#### § 142 Evaluierung, Befristung
 
--
+(1) Die Bundesregierung erstattet vier Jahre nach Inkrafttreten des
+Urheberrechts-Wissensgesellschafts-Gesetzes dem Deutschen Bundestag
+Bericht über die Auswirkungen des Teils 1 Abschnitt 6 Unterabschnitt
+4\.
+
+(2) Teil 1 Abschnitt 6 Unterabschnitt 4 ist ab dem 1. März 2023 nicht
+mehr anzuwenden.
 
 
 #### § 143 Inkrafttreten
@@ -4369,7 +5148,157 @@ Tage nach der Verkündung dieses Gesetzes in Kraft.
 (2) Im übrigen tritt dieses Gesetz am 1. Januar 1966 in Kraft.
 
 
-#### Anlage (weggefallen)
+#### Anlage (zu § 61a) Quellen einer sorgfältigen Suche
 
--
+(Fundstelle: BGBl. I 2013, 3731 - 3732)
+
+1.  Für veröffentlichte Bücher:
+
+    a)  der Katalog der Deutschen Nationalbibliothek sowie die von
+        Bibliotheken und anderen Institutionen geführten Bibliothekskataloge
+        und Schlagwortlisten;
+
+
+    b)  Informationen der Verleger- und Autorenverbände, insbesondere das
+        Verzeichnis lieferbarer Bücher (VLB);
+
+
+    c)  bestehende Datenbanken und Verzeichnisse, WATCH (Writers, Artists and
+        their Copyright Holders) und die ISBN (International Standard Book
+        Number);
+
+
+    d)  die Datenbanken der entsprechenden Verwertungsgesellschaften,
+        insbesondere der mit der Wahrnehmung von Vervielfältigungsrechten
+        betrauten Verwertungsgesellschaften wie die Datenbank der VG Wort;
+
+
+    e)  Quellen, die mehrere Datenbanken und Verzeichnisse zusammenfassen,
+        einschließlich der Gemeinsamen Normdatei (GND), VIAF (Virtual
+        International Authority Files) und ARROW (Accessible Registries of
+        Rights Information and Orphan Works);
+
+
+
+
+
+2.  für Zeitungen, Zeitschriften, Fachzeitschriften und Periodika:
+
+    a)  das deutsche ISSN (International Standard Serial Number) – Zentrum für
+        regelmäßige Veröffentlichungen;
+
+
+    b)  Indexe und Kataloge von Bibliotheksbeständen und -sammlungen,
+        insbesondere der Katalog der Deutschen Nationalbibliothek sowie die
+        Zeitschriftendatenbank (ZDB);
+
+
+    c)  Depots amtlich hinterlegter Pflichtexemplare;
+
+
+    d)  Verlegerverbände und Autoren- und Journalistenverbände, insbesondere
+        das Verzeichnis lieferbarer Zeitschriften (VLZ), das Verzeichnis
+        lieferbarer Bücher (VLB), Banger Online, STAMM und pressekatalog.de;
+
+
+    e)  die Datenbanken der entsprechenden Verwertungsgesellschaften,
+        einschließlich der mit der Wahrnehmung von Vervielfältigungsrechten
+        betrauten Verwertungsgesellschaften, insbesondere die Datenbank der VG
+        Wort;
+
+
+
+
+
+3.  für visuelle Werke, einschließlich Werken der bildenden Künste,
+    Fotografien, Illustrationen, Design- und Architekturwerken, sowie für
+    deren Entwürfe und für sonstige derartige Werke, die in Büchern,
+    Zeitschriften, Zeitungen und Magazinen oder anderen Werken enthalten
+    sind:
+
+    a)  die in den Ziffern 1 und 2 genannten Quellen;
+
+
+    b)  die Datenbanken der entsprechenden Verwertungsgesellschaften,
+        insbesondere der Verwertungsgesellschaften für bildende Künste,
+        einschließlich der mit der Wahrnehmung von Vervielfältigungsrechten
+        betrauten Verwertungsgesellschaften wie die Datenbank der VG
+        BildKunst;
+
+
+    c)  die Datenbanken von Bildagenturen;
+
+
+
+
+
+4.  für Filmwerke sowie für Bildträger und Bild- und Tonträger, auf denen
+    Filmwerke aufgenommen sind, und für Tonträger:
+
+    a)  die Depots amtlich hinterlegter Pflichtexemplare, insbesondere der
+        Katalog der Deutschen Nationalbibliothek;
+
+
+    b)  Informationen der Produzentenverbände;
+
+
+    c)  die Informationen der Filmförderungseinrichtungen des Bundes und der
+        Länder;
+
+
+    d)  die Datenbanken von im Bereich des Film- oder Tonerbes tätigen
+        Einrichtungen und nationalen Bibliotheken, insbesondere des
+        Kinematheksverbunds, des Bundesarchivs, der Stiftung Deutsche
+        Kinemathek, des Deutschen Filminstituts (Datenbank und Katalog
+        www.filmportal.de), der DEFA- und Friedrich-Wilhelm-Murnau-Stiftung,
+        sowie die Kataloge der Staatsbibliotheken zu Berlin und München;
+
+
+    e)  Datenbanken mit einschlägigen Standards und Kennungen wie ISAN
+        (International Standard Audiovisual Number) für audiovisuelles
+        Material, ISWC (International Standard Music Work Code) für Musikwerke
+        und ISRC (International Standard Recording Code) für Tonträger;
+
+
+    f)  die Datenbanken der entsprechenden Verwertungsgesellschaften,
+        insbesondere für Autoren, ausübende Künstler sowie Hersteller von
+        Tonträgern und Filmwerken;
+
+
+    g)  die Aufführung der Mitwirkenden und andere Informationen auf der
+        Verpackung des Werks oder in seinem Vor- oder Abspann;
+
+
+    h)  die Datenbanken anderer maßgeblicher Verbände, die eine bestimmte
+        Kategorie von Rechtsinhabern vertreten, wie die Verbände der
+        Regisseure, Drehbuchautoren, Filmkomponisten, Komponisten,
+        Theaterverlage, Theater- und Opernvereinigungen;
+
+
+
+
+
+5.  für Bestandsinhalte, die nicht erschienen sind oder nicht gesendet
+    wurden:
+
+    a)  aktuelle und ursprüngliche Eigentümer des Werkstücks;
+
+
+    b)  nationale Nachlassverzeichnisse (Zentrale Datenbank Nachlässe und
+        Kalliope);
+
+
+    c)  Findbücher der nationalen Archive;
+
+
+    d)  Bestandsverzeichnisse von Museen;
+
+
+    e)  Auskunftsdateien und Telefonbücher.
+
+
+
+
+
+
 

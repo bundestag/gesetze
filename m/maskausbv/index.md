@@ -319,8 +319,9 @@ erbracht sind.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
+(zu § 4 Abs. 1)
 
-## Anlage (zu § 4 Abs. 1) Ausbildungsrahmenplan für die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Maskenbildner/zur Maskenbildnerin
 
 (Fundstelle: BGBl. I 2002, 608 - 611)
 

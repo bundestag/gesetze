@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 10.1.1996 I 18;
 
 Zuletzt geändert durch
-:   Art. 19 G v. 8.12.2010 I 1768
+:   Art. 15 G v. 2.11.2015 I 1834
 
 
 ## § 1 Gegenstand der Steuer
@@ -121,6 +121,14 @@ gekürzt werden.
 Umsatzsteuer geltenden Vorschriften umzurechnen.
 
 
+## § 3a Ausnahme von der Besteuerung
+
+Von der Besteuerung ausgenommen ist die Zahlung des
+Versicherungsentgelts an Brandunterstützungsvereine, soweit die
+anlässlich eines einzelnen Schadensfalls erhobene Umlage den Betrag
+von 5 500 Euro nicht übersteigt.
+
+
 ## § 4 Steuersatz
 
 (1) Der Steuersatz beträgt – vorbehaltlich des folgenden Absatzes – 19
@@ -136,16 +144,14 @@ Nummer 1) 22 Prozent.
 
 (1) Steuerschuldner ist der Versicherer.
 
-(2) Hat der Versicherer in keinem Mitgliedstaat der Europäischen
-Gemeinschaften und in keinem anderen Vertragsstaat des Abkommens über
-den Europäischen Wirtschaftsraum seine Geschäftsleitung, seinen Sitz,
+(2) Hat der Versicherer in keinem Mitgliedstaat der Europäischen Union
+und in keinem anderen Vertragsstaat des Abkommens über den
+Europäischen Wirtschaftsraum seine Geschäftsleitung, seinen Sitz,
 seinen Wohnsitz oder eine Betriebsstätte, ist aber im Geltungsbereich
 dieses Gesetzes ein Bevollmächtigter zur Entgegennahme des
 Versicherungsentgelts bestellt, so ist dieser Steuerschuldner; ist
 kein Bevollmächtigter bestellt, so ist der Versicherungsnehmer
 Steuerschuldner.
-
-(3)
 
 
 ## § 6 Rückversicherung
@@ -170,9 +176,10 @@ worden ist.
 hat spätestens am fünfzehnten Tag nach Ablauf eines jeden
 Anmeldungszeitraums (Absatz 2)
 
-1.  eine Steuererklärung nach amtlich vorgeschriebenem Vordruck abzugeben,
-    in der er die im Anmeldungszeitraum entstandene Steuer selbst zu
-    berechnen hat (Steueranmeldung), und
+1.  eine nach amtlich vorgeschriebenem Vordruck oder im Wege eines
+    Automationsverfahrens des Bundes übermittelte Steuererklärung
+    abzugeben, in der er die im Anmeldungszeitraum entstandene Steuer
+    selbst zu berechnen hat (Steueranmeldung) und
 
 
 2.  die im Anmeldungszeitraum entstandene Steuer zu entrichten.
@@ -181,8 +188,11 @@ Anmeldungszeitraums (Absatz 2)
 
 
 (2) Anmeldungszeitraum ist grundsätzlich der Kalendermonat. Hat die
-Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 1
-200 Euro betragen, so ist Anmeldungszeitraum das Kalendervierteljahr.
+Steuer für das vorangegangene Kalenderjahr insgesamt nicht mehr als 2
+400 Euro betragen, so ist Anmeldungszeitraum das Kalendervierteljahr.
+Hat die Steuer für das vorangegangene Kalenderjahr insgesamt nicht
+mehr als 400 Euro betragen, so ist Anmeldungszeitraum das
+Kalenderjahr.
 
 (3) Gibt der Versicherer oder der Bevollmächtigte bis zum Ablauf der
 Anmeldungsfrist die Steueranmeldung nicht ab, setzt das
@@ -248,8 +258,10 @@ zulässig, die eine Versicherung im Sinne des § 1 Abs. 2 vereinbart
 haben.
 
 (4) Steuerbeträge, die auf Grund einer Außenprüfung nachzuentrichten
-oder zu erstatten sind, sind zusammen mit der Steuer für den laufenden
-Anmeldungszeitraum festzusetzen.
+oder zu erstatten sind, sind zusammen mit der Steuer für den letzten
+Monat, das letzte Quartal oder das letzte Kalenderjahr des
+Prüfungszeitraums festzusetzen. Nachzuentrichtende Steuerbeträge sind
+einen Monat nach Bekanntgabe der Festsetzung fällig.
 
 
 ## § 10 Zuständigkeit
@@ -259,29 +271,30 @@ Zuständig ist das Bundeszentralamt für Steuern.
 
 ## § 11 Zerlegung
 
-(1) Das Gesamtaufkommen der entrichteten Feuerschutzsteuer wird bis
-zum 31. Dezember 2015 nach den Absätzen 2 bis 4 zerlegt.
+(1) Das Gesamtaufkommen der entrichteten Feuerschutzsteuer wird nach
+den Absätzen 2 und 3 zerlegt.
 
 (2) Die Zerlegungsanteile der einzelnen Länder am Gesamtaufkommen der
 Feuerschutzsteuer sind nach den folgenden Zerlegungsmaßstäben zu
 ermitteln:
 
-a)  zu 50 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung
+1.  zu 35 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung
     aller Wirtschaftsbereiche abzüglich der Wertschöpfung der
-    Wirtschaftsbereiche Land- und Forstwirtschaft, Fischerei sowie
-    öffentliche und private Dienstleister;
+    Wirtschaftsbereiche Land- und Forstwirtschaft, Fischerei, öffentliche
+    und sonstige Dienstleister, Erziehung und Gesundheit sowie private
+    Haushalte;
 
 
-b)  zu 10 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung
+2.  zu 5 vom Hundert entsprechend den Anteilen an der Bruttowertschöpfung
     des Wirtschaftsbereiches Land- und Forstwirtschaft, Fischerei;
 
 
-c)  zu 25 vom Hundert entsprechend den Anteilen an der Wohnbevölkerung zu
+3.  zu 40 vom Hundert entsprechend den Anteilen an der Wohnbevölkerung zu
     40 vom Hundert und den Anteilen am Bestand an Wohngebäuden zu 60 vom
     Hundert;
 
 
-d)  zu 15 vom Hundert entsprechend den Anteilen an den Privathaushalten.
+4.  zu 20 vom Hundert entsprechend den Anteilen an den Privathaushalten.
 
 
 
@@ -299,9 +312,7 @@ Monats an die Länder überwiesen. Bis zur Ermittlung der endgültigen
 Zerlegungsanteile für das Vorjahr sind die bisherigen
 Zerlegungsanteile vorläufig zu Grunde zu legen.
 
-(4) Für die Abrechnung und den Vollzug der Zerlegung des Aufkommens an
-Feuerschutzsteuer vor dem 1. Januar 2011 findet Absatz 3 in der am 31.
-Dezember 2010 geltenden Fassung weiterhin Anwendung.
+(4) (weggefallen)
 
 
 ## § 12 Mitteilungspflicht

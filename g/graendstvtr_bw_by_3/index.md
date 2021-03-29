@@ -3,7 +3,7 @@ Title: Dritter Staatsvertrag zwischen dem Freistaat Bayern und dem Land Baden-W�
   über die Änderung der Landesgrenze
 jurabk: GrÄndStVtr BW/BY 3
 layout: default
-origslug: gr_ndstvtr_bw_by_3
+origslug: graendstvtr_bw_by_3
 slug: graendstvtr_bw_by_3
 
 ---

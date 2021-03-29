@@ -10,7 +10,7 @@ slug: ggart115dgo
 # Geschäftsordnung für das Verfahren nach Artikel 115 d des Grundgesetzes (GGArt115dGO)
 
 Ausfertigungsdatum
-:   1969-07-10
+:   1969-07-02
 
 Fundstelle
 :   BGBl I: 1969, 1100

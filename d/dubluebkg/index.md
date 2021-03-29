@@ -4,7 +4,7 @@ Title: Gesetz zu dem Übereinkommen vom 15. Juni 1990 über die Bestimmung des z
   gestellten Asylantrags
 jurabk: DublÜbkG
 layout: default
-origslug: dubl_bkg
+origslug: dubluebkg
 slug: dubluebkg
 
 ---

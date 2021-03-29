@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 700
 
 Zuletzt geändert durch
-:   Art. 25 G v. 8.12.2010 I 1768
+:   Art. 9 G v. 17.7.2017 I 2575
 
 
 ## Teil 1 - Der Versorgungsausgleich

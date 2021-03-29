@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1999, 2386
 
+Geändert durch
+:   Art. 1 V v. 29.5.2015 I 892
+
 
 
 ## Eingangsformel
@@ -132,9 +135,13 @@ Dienstleistungsangebots berücksichtigt.
 (2) Die Kosten der effizienten Leistungsbereitstellung ergeben sich
 aus den langfristigen zusätzlichen Kosten der Leistungsbereitstellung
 und einem angemessenen Zuschlag für leistungsmengenneutrale
-Gemeinkosten, jeweils einschließlich eines dem unternehmerischen
-Risiko angemessenen Gewinnzuschlags, soweit diese Kosten jeweils für
-die Leistungsbereitstellung notwendig sind.
+Gemeinkosten, jeweils einschließlich eines angemessenen
+Gewinnzuschlags, soweit diese Kosten jeweils für die
+Leistungsbereitstellung notwendig sind. Bei der Ermittlung des
+angemessenen Gewinnzuschlags sind insbesondere die Gewinnmargen
+solcher Unternehmen als Vergleich heranzuziehen, die in anderen
+europäischen Ländern auf den mit dem lizenzierten Bereich
+vergleichbaren Märkten tätig sind.
 
 (3) Im Rahmen des Absatzes 1 prüft die Regulierungsbehörde
 insbesondere, ob bei der Ermittlung, Berechnung und Zuordnung der

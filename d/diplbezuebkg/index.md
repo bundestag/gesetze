@@ -2,7 +2,7 @@
 Title: Gesetz zu dem Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen
 jurabk: DiplBezÜbkG
 layout: default
-origslug: diplbez_bkg
+origslug: diplbezuebkg
 slug: diplbezuebkg
 
 ---

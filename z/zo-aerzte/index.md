@@ -2,7 +2,7 @@
 Title: Zulassungsverordnung für Vertragsärzte
 jurabk: ZO-Ärzte
 layout: default
-origslug: zo-_rzte
+origslug: zo-aerzte
 slug: zo-aerzte
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 572, 608
 
 Zuletzt geändert durch
-:   Art. 9 G v. 22.12.2011 I 2983
+:   Art. 6 V v. 7.7.2017 I 2842
 
 
 ## Eingangsformel
@@ -359,9 +359,12 @@ hinzuziehen. Auch andere Sozialversicherungsträger und die
 Krankenhausgesellschaften sind zu unterrichten; sie können bei der
 Bedarfsplanung hinzugezogen werden.
 
-(2) Die zuständigen Landesbehörden sind über die Aufstellung und
-Anpassung der Bedarfspläne rechtzeitig zu unterrichten, damit ihre
-Anregungen in die Beratungen einbezogen werden können.
+(2) Die zuständigen Landesbehörden und die auf Landesebene für die
+Wahrnehmung der Interessen der Patientinnen und Patienten und der
+Selbsthilfe chronisch kranker und behinderter Menschen maßgeblichen
+Organisationen sind über die Aufstellung und Anpassung der
+Bedarfspläne rechtzeitig zu unterrichten, damit ihre Anregungen in die
+Beratungen einbezogen werden können.
 
 (3) Die aufgestellten oder angepassten Bedarfspläne sind den
 Landesausschüssen der Ärzte und Krankenkassen zuzuleiten. Sie sind den
@@ -445,10 +448,9 @@ Vereinigung aufzugeben, binnen einer von ihm zu bestimmenden
 angemessenen Frist die Unterversorgung zu beseitigen. Der
 Landesausschuß kann bestimmte Maßnahmen empfehlen.
 
-(3) Dauert die bestehende oder in absehbarer Zeit drohende
-Unterversorgung auch nach Ablauf der Frist an, hat der Landesausschuß
-festzustellen, ob die in § 100 Abs. 2 des Fünften Buches
-Sozialgesetzbuch bestimmten Voraussetzungen für
+(3) Dauert die bestehende Unterversorgung auch nach Ablauf der Frist
+an, hat der Landesausschuß festzustellen, ob die in § 100 Abs. 2 des
+Fünften Buches Sozialgesetzbuch bestimmten Voraussetzungen für
 Zulassungsbeschränkungen gegeben sind und zur Beseitigung der
 bestehenden oder in absehbarer Zeit drohenden Unterversorgung mit
 verbindlicher Wirkung für einen oder mehrere Zulassungsausschüsse
@@ -587,7 +589,7 @@ beigefügt werden.
 bezeichneten Unterlagen nicht vorgelegt werden, so ist der
 nachzuweisende Sachverhalt glaubhaft zu machen.
 
-(5)
+(5) (weggefallen)
 
 
 ## Abschnitt VI - Zulassung und Vertragsarztsitz
@@ -644,7 +646,12 @@ zu den in der vertragsärztlichen Versorgung üblichen Zeiten
 anzubieten. Ein Arzt steht auch dann für die Versorgung der
 Versicherten in erforderlichem Maße zur Verfügung, wenn er neben
 seiner vertragsärztlichen Tätigkeit im Rahmen eines Vertrages nach den
-§§ 73b, 73c oder 140b des Fünften Buches Sozialgesetzbuch tätig wird.
+§§ 73b oder 140a des Fünften Buches Sozialgesetzbuch oder im Rahmen
+der ambulanten spezialfachärztlichen Versorgung nach § 116b des
+Fünften Buches Sozialgesetzbuch tätig wird. Gleiches gilt für die
+Tätigkeit im Rahmen eines Vertrages, der nach den §§ 73c und 140b des
+Fünften Buches Sozialgesetzbuch in der am 22. Juli 2015 geltenden
+Fassung geschlossen wurde.
 
 (2) Für die Ausübung vertragsärztlicher Tätigkeit ist nicht geeignet
 ein Arzt, der eine ärztliche Tätigkeit ausübt, die ihrem Wesen nach
@@ -760,7 +767,8 @@ Zulassungsausschusses wechseln.
 
 (7) Der Zulassungsausschuss darf den Antrag eines Vertragsarztes auf
 Verlegung seines Vertragsarztsitzes nur genehmigen, wenn Gründe der
-vertragsärztlichen Versorgung dem nicht entgegenstehen.
+vertragsärztlichen Versorgung dem nicht entgegenstehen. Entsprechendes
+gilt für die Verlegung einer genehmigten Anstellung.
 
 
 ### § 25
@@ -847,6 +855,14 @@ ermächtigen, sofern dies notwendig ist, um
 
 
 
+Ärzte mit einer für die Behandlung erforderlichen abgeschlossenen
+Weiterbildung sowie psychosoziale Einrichtungen mit einer fachlich-
+medizinischen ständigen ärztlichen Leitung sind vom
+Zulassungsausschuss auf Antrag zur ambulanten psychotherapeutischen
+und psychiatrischen Versorgung von Empfängern laufender Leistungen
+nach § 2 des Asylbewerberleistungsgesetzes, die Folter, Vergewaltigung
+oder sonstige schwere Formen psychischer, physischer oder sexueller
+Gewalt erlitten haben, zu ermächtigen.
 
 (2) Die Kassenärztliche Bundesvereinigung und der Spitzenverband Bund
 der Krankenkassen können im Bundesmantelvertrag Regelungen treffen,
@@ -878,7 +894,7 @@ Wirtschaftsraum ausüben dürfen.
 
 (6) Der Antrag auf Ermächtigung ist schriftlich an den
 Zulassungsausschuß zu richten. Ihm sind die Approbationsurkunde sowie
-die in § 18 Abs. 2 Buchstabe e genannten Erklärungen beizufügen. § 18
+die in § 18 Absatz 2 Nummer 5 genannten Erklärungen beizufügen. § 18
 Abs. 3 gilt entsprechend.
 
 (7) Die Ermächtigung ist zeitlich, räumlich und ihrem Umfang nach zu
@@ -911,12 +927,12 @@ Einrichtungen ermächtigt werden.
 
 
 2.  in einer Vorsorge- oder Rehabilitationseinrichtung, mit der ein
-    Vorsorgevertrag nach § 111 Satz 2 des Fünften Buches Sozialgesetzbuch
-    besteht, oder
+    Versorgungsvertrag nach § 111 Absatz 2 des Fünften Buches
+    Sozialgesetzbuch besteht, oder
 
 
-3.  nach § 119b Satz 3 des Fünftens Buches Sozialgesetzbuch in einer
-    stationären Pflegeeinrichtung
+3.  nach § 119b Absatz 1 Satz 3 und 4 des Fünftens Buches Sozialgesetzbuch
+    in einer stationären Pflegeeinrichtung
 
 
 
@@ -981,7 +997,11 @@ Vertragsarzt einen Vertreter oder einen Assistenten nur beschäftigen,
 
 
 
-Die Kassenärztliche Vereinigung kann die in Satz 2 Nummer 2 und 3
+Die Beschäftigung von Ärzten als Weiterbildungsassistenten nach Satz 2
+Nummer 1 erste Alternative ist bei Antrag auf Teilnahme zur
+vertragsärztlichen Versorgung auch nach Abschluss der Weiterbildung
+zulässig für die Zeit bis zur Entscheidung über den Antrag. Die
+Kassenärztliche Vereinigung kann die in Satz 2 Nummer 2 und 3
 genannten Zeiträume verlängern. Für die Beschäftigung eines Vertreters
 oder Assistenten ist die vorherige Genehmigung der Kassenärztlichen
 Vereinigung erforderlich. Die Dauer der Beschäftigung ist zu
@@ -993,7 +1013,15 @@ führen können.
 
 (3) Die Beschäftigung eines Assistenten darf nicht der Vergrößerung
 der Kassenpraxis oder der Aufrechterhaltung eines übergroßen
-Praxisumfangs dienen.
+Praxisumfangs dienen. In den Fällen der Beschäftigung eines
+Assistenten im Rahmen der Weiterbildung nach § 75a des Fünften Buches
+Sozialgesetzbuch hat die Kassenärztliche Vereinigung im
+Verteilungsmaßstab nach § 87b des Fünften Buches Sozialgesetzbuch
+festzulegen, in welchem Umfang abweichend von Satz 1 und § 87b Absatz
+2 Satz 1 des Fünften Buches Sozialgesetzbuch eine Vergrößerung der
+Kassenpraxis zulässig ist; bei der Festlegung ist insbesondere der von
+der Praxis zu zahlende Anhebungsbetrag nach § 75a Absatz 1 Satz 4 des
+Fünften Buches Sozialgesetzbuch zu berücksichtigen.
 
 (4) Der Vertragsarzt hat Vertreter und Assistenten zur Erfüllung der
 vertragsärztlichen Pflichten anzuhalten.
@@ -1006,7 +1034,7 @@ vertragsärztliche Tätigkeit persönlich auszuüben. Bei Krankheit,
 Urlaub oder Teilnahme an ärztlicher Fortbildung oder an einer
 Wehrübung kann er sich innerhalb von zwölf Monaten bis zur Dauer von
 drei Monaten vertreten lassen. Satz 2 gilt nicht für Ermächtigungen
-nach § 31 Abs. 1 Buchstabe b.
+nach § 31 Absatz 1 Satz 1 Nummer 2.
 
 
 ### § 32b
@@ -1038,6 +1066,17 @@ Kassenärztlichen Vereinigung die Durchführung eines
 Nachbesetzungsverfahrens nach § 103 Absatz 4 des Fünften Buches
 Sozialgesetzbuch, wird der bisher angestellte Arzt Inhaber der
 Zulassung.
+
+(6) Die Beschäftigung eines Vertreters für einen angestellten Arzt ist
+zulässig; § 32 Absatz 1 und 4 gilt entsprechend. Die Beschäftigung
+eines Vertreters für einen angestellten Arzt ist für die Dauer von
+sechs Monaten zulässig, wenn der angestellte Arzt freigestellt ist
+oder das Anstellungsverhältnis durch Tod, Kündigung oder andere Gründe
+beendet ist. Hat der angestellte Arzt einen gesetzlichen Anspruch auf
+Freistellung, ist eine Vertretung für die Dauer der Freistellung
+zulässig.
+
+(7) § 26 gilt entsprechend.
 
 
 ### § 33
@@ -1400,6 +1439,16 @@ c)  die Gebühr nach Absatz 1 Buchstabe d an die Geschäftsstelle des
 
 
 
+(4) Abweichend von den Absätzen 1 und 2 werden in Verfahren, die eine
+Tätigkeit in Gebieten betreffen, für die der Landesausschuss der Ärzte
+und Krankenkassen die Feststellung nach § 100 Absatz 1 und 3 des
+Fünften Buches Sozialgesetzbuch getroffen hat, keine Gebühren erhoben.
+Dies gilt nicht für Anträge nach Absatz 1 Buchstabe a. Der
+Zulassungsausschuss kann von der Erhebung von Gebühren auch absehen
+oder diese reduzieren, wenn dies aus Versorgungsgründen angezeigt ist.
+Bei der Nachbesetzung einer genehmigten Anstellung sind die Gebühren
+nach den Absätzen 1 und 2 um 50 Prozent zu reduzieren.
+
 
 ## Abschnitt XIII - Übergangs- und Schlußbestimmungen
 
@@ -1423,7 +1472,7 @@ Psychotherapeuten, die nach dem 31. Dezember 1998 gestellt werden.
 (1) Nach dem Inkrafttreten dieser Zulassungsordnung sind Arztregister
 nach dem in § 2 vorgeschriebenen Muster anzulegen.
 
-(2) bis (4)
+(2) bis (4) (gegenstandslos)
 
 
 ### § 54
@@ -1437,7 +1486,7 @@ nach dem in § 2 vorgeschriebenen Muster anzulegen.
 vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) in Verbindung mit Artikel
 3 Abs. 2 des Gesetzes über Kassenarztrecht auch im Land Berlin ...
 
-(2)
+(2) (gegenstandslos)
 
 
 ### Schlußformel
@@ -1477,52 +1526,4 @@ Arzt für ............................... ab ................
 22\. Verhängung eines Berufsverbots am ..........................
 23\. Im Arztregister gestrichen am ..............................
 24\. Bemerkungen ................................................
-
-
-### Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet G Abschnitt III (BGBl. II 1990, 889, 1055) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-2.  Zulassungsverordnung für Kassenärzte in der im Bundesgesetzblatt Teil
-    III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung,
-    zuletzt geändert durch Artikel 18 des Gesetzes vom 20. Dezember 1988
-    (BGBl. I S. 2477),
-
-    mit folgenden Maßgaben:
-
-    Die §§ 3, 25, 31 Abs. 9 und § 34 finden mit folgenden Maßgaben
-    Anwendung:
-
-    a)  Für Ärzte, die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3
-        des Vertrages genannten Gebiet die Facharztanerkennung besitzen, gilt
-        das Erfordernis des § 3 Abs. 2 Buchstabe b nicht.
-
-
-    b)  Die Vorschriften der §§ 25 und 31 Abs. 9 gelten bis zum 31. Dezember
-        1995 nicht für die Zulassung oder Ermächtigung von Ärzten der
-        Jahrgänge 1941 und älter, wenn diese am 1. Januar 1990 ihren ständigen
-        Wohnsitz in dem in Artikel 3 des Vertrages genannten Gebiet hatten.
-
-
-    c)  Der Zulassungsausschuß nach § 34 besteht in dem in Artikel 3 des
-        Vertrages genannten Gebiet bis zum 31. Dezember 1995 aus drei
-        Vertretern der Krankenkassen und drei Vertretern der Ärzte. Vertreter
-        der Ärzte sind ein Kassenarzt, ein Arzt, der in einer Einrichtung nach
-        § 311 Abs. 2 beschäftigt ist, sowie ein außerordentliches Mitglied der
-        Kassenärztlichen Vereinigung.
-
-
-
-
-
-
-...
-
-11. Die Nummern 2, 3 und 4 treten am 1. Januar 1991 in Kraft.
-
-
-
 

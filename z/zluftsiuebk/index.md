@@ -3,7 +3,7 @@ Title: Übereinkommen zur Bekämpfung widerrechtlicher Handlungen gegen die Sich
   der Zivilluftfahrt
 jurabk: ZLuftSiÜbk
 layout: default
-origslug: zluftsi_bk
+origslug: zluftsiuebk
 slug: zluftsiuebk
 
 ---

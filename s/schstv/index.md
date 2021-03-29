@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 2784
 
 Zuletzt geändert durch
-:   Art. 5 G v. 22.12.2010 I 2262
+:   Art. 1e G v. 21.12.2015 I 2408
 
 
 ## Eingangsformel
@@ -115,12 +115,14 @@ die die Kündigung ausgesprochen hat, hat die Schiedsstelle schriftlich
 unter Darstellung des Sachverhalts zu benachrichtigen.
 
 (3) Kommt ein Vertrag nach Absatz 1 Satz 1 innerhalb einer vom
-Bundesministerium für Gesundheit nach § 129 Abs. 7 oder § 300 Abs. 4
-des Fünften Buches Sozialgesetzbuch gesetzten Frist nicht zustande, so
-beginnt das Schiedsverfahren mit dem auf den Ablauf der Frist
-folgenden Tag. Die Vertragsparteien haben der Schiedsstelle
-schriftlich den Fristablauf unter Darstellung des Sachverhalts
-anzuzeigen.
+Bundesministerium für Gesundheit nach § 129 Absatz 7, § 130b Absatz 9
+Satz 6 oder § 300 Absatz 4 des Fünften Buches Sozialgesetzbuch
+gesetzten Frist nicht zustande, so beginnt das Schiedsverfahren mit
+dem auf den Ablauf der Frist folgenden Tag. Die Vertragsparteien haben
+der Schiedsstelle schriftlich den Fristablauf unter Darstellung des
+Sachverhalts anzuzeigen. Bei Ablauf der Frist nach § 129 Absatz 4 Satz
+2 des Fünften Buches Sozialgesetzbuch beginnt das Schiedsverfahren mit
+dem darauf folgenden Tag; Satz 2 gilt entsprechend.
 
 (4) Der Vorsitzende lädt die weiteren Mitglieder schriftlich mit einer
 Frist von mindestens zwei Wochen ein. Der Einladung sind

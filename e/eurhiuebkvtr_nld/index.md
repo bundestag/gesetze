@@ -4,7 +4,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich der N
   in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiÜbkVtr NLD
 layout: default
-origslug: eurhi_bkvtr_nld
+origslug: eurhiuebkvtr_nld
 slug: eurhiuebkvtr_nld
 
 ---

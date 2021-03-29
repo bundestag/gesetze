@@ -15,15 +15,18 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 3171
 
+Geändert durch
+:   Art. 35 V v. 31.8.2015 I 1474
+
 
 
 ## § 1 Errichtung, Zweck und Sitz des Bundesamts
 
 (1) Der Bund errichtet das Bundesamt für Justiz (Bundesamt) als
-Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz.
-Zweck der Errichtung des Bundesamts ist die Neuorganisation der
-Bundesjustizverwaltung durch Schaffung einer zentralen
-Dienstleistungsbehörde.
+Bundesoberbehörde. Es untersteht dem Bundesministerium der Justiz und
+für Verbraucherschutz. Zweck der Errichtung des Bundesamts ist die
+Neuorganisation der Bundesjustizverwaltung durch Schaffung einer
+zentralen Dienstleistungsbehörde.
 
 (2) Das Bundesamt hat seinen Sitz in Bonn.
 
@@ -36,7 +39,8 @@ Ahndung von Ordnungswidrigkeiten und der allgemeinen Justizverwaltung
 wahr, die ihm durch dieses Gesetz oder andere Bundesgesetze oder auf
 Grund dieser Gesetze zugewiesen werden.
 
-(2) Das Bundesamt unterstützt das Bundesministerium der Justiz bei der
+(2) Das Bundesamt unterstützt das Bundesministerium der Justiz und für
+Verbraucherschutz bei der
 
 1.  Durchführung der Verkündungen und Bekanntmachungen,
 
@@ -73,15 +77,17 @@ Grund dieser Gesetze zugewiesen werden.
 
 (3) Das Bundesamt erledigt weitere Aufgaben des Bundes, die mit den in
 den Absätzen 1 und 2 genannten Gebieten zusammenhängen und mit deren
-Durchführung es vom Bundesministerium der Justiz oder mit dessen
-Zustimmung von der fachlich zuständigen Bundesbehörde beauftragt wird.
+Durchführung es vom Bundesministerium der Justiz und für
+Verbraucherschutz oder mit dessen Zustimmung von der fachlich
+zuständigen Bundesbehörde beauftragt wird.
 
 
 ## § 3 Fachaufsicht
 
 Soweit das Bundesamt Aufgaben aus einem anderen Geschäftsbereich als
-dem des Bundesministeriums der Justiz wahrnimmt, untersteht es der
-Fachaufsicht der zuständigen obersten Bundesbehörde.
+dem des Bundesministeriums der Justiz und für Verbraucherschutz
+wahrnimmt, untersteht es der Fachaufsicht der zuständigen obersten
+Bundesbehörde.
 
 
 ## § 4 Übergangsbestimmungen
@@ -91,12 +97,12 @@ Wahlen zu den Personalvertretungen statt. Bis zur Wahl werden die
 Aufgaben des Personalrats beim Bundesamt übergangsweise vom bisherigen
 Personalrat der Dienststelle Bundeszentralregister des
 Generalbundesanwalts beim Bundesgerichtshof und vom Personalrat des
-Bundesministeriums der Justiz gemeinsam wahrgenommen. Die oder der
-bisherige Vorsitzende des Personalrats der Dienststelle
-Bundeszentralregister beruft die Mitglieder unter Übersendung der
-Tagesordnung zur ersten Sitzung ein und leitet sie, bis der
-Übergangspersonalrat aus seiner Mitte eine Wahlleiterin oder einen
-Wahlleiter zur Wahl des Vorstands bestellt hat. Der
+Bundesministeriums der Justiz und für Verbraucherschutz gemeinsam
+wahrgenommen. Die oder der bisherige Vorsitzende des Personalrats der
+Dienststelle Bundeszentralregister beruft die Mitglieder unter
+Übersendung der Tagesordnung zur ersten Sitzung ein und leitet sie,
+bis der Übergangspersonalrat aus seiner Mitte eine Wahlleiterin oder
+einen Wahlleiter zur Wahl des Vorstands bestellt hat. Der
 Übergangspersonalrat bestellt unverzüglich den Wahlvorstand für die
 Durchführung der Personalratswahl im Bundesamt.
 

@@ -20,7 +20,7 @@ Geändert durch
 
 
 
-## Art 1 -
+## Art 1 - 
 
 
 
@@ -90,11 +90,11 @@ Bundespolizeibeamtengesetzes Bezug genommen wird, ist die bis zum 30.
 Juni 1976 geltende Fassung maßgebend.
 
 
-## Art 3 -
+## Art 3 - 
 
 
 
-## Art 4 -
+## Art 4 - 
 
 
 
@@ -102,8 +102,9 @@ Juni 1976 geltende Fassung maßgebend.
 
 Dieses Gesetz tritt am 1. Juli 1976 in Kraft.
 
+zu Artikel 2 § 2 Abs. 1
 
-## Anlage zu Artikel 2 § 2 Abs. 1 *Fe Überleitungsübersicht */
+## Anlage \*Fe Überleitungsübersicht \*/
 
 Fundstelle des Originaltextes: BGBl. I 1976, 1363 - 1365
 

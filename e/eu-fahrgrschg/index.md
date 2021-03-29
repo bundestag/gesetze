@@ -15,6 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2454
 
+Stand: Zuletzt geändert Art. 4 Abs. 131 G v. 18.7.2016 I 1666
 
 ## § 1 Anwendungsbereich
 
@@ -134,8 +135,8 @@ Personen die in Betracht kommenden Räume zu öffnen.
 
 (1) Zur Beilegung von Streitigkeiten aus der Beförderung im See- und
 Binnenschiffsverkehr kann der Fahrgast eine geeignete
-Schlichtungsstelle anrufen, wenn sich der Vertragspartner bereit
-erklärt hat, an der Schlichtung teilzunehmen.
+Verbraucherschlichtungsstelle anrufen, wenn sich der Vertragspartner
+bereit erklärt hat, an der Schlichtung teilzunehmen.
 
 (2) Streitigkeiten im Sinne des Absatzes 1 sind
 
@@ -152,68 +153,53 @@ erklärt hat, an der Schlichtung teilzunehmen.
 Das Recht, die Gerichte anzurufen, bleibt durch die Schlichtung
 unberührt.
 
-(3) Eine Schlichtungsstelle ist insbesondere geeignet, wenn sie die
-folgenden Grundsätze für die außergerichtliche Beilegung von
-Verbraucherstreitigkeiten befolgt:
+(3) Die Verbraucherschlichtungsstelle nach Absatz 1 bedarf der
+Anerkennung nach dem Verbraucherstreitbeilegungsgesetz vom 19. Februar
+2016 (BGBl. I S. 254) durch das Bundesministerium für Verkehr und
+digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der
+Justiz und für Verbraucherschutz. Die Verbraucherschlichtungsstelle
+kann auch eine verkehrsträgerübergreifende Schlichtungsstelle sein.
+Die Anerkennung und der Widerruf oder die Rücknahme der Anerkennung
+sind im Bundesanzeiger bekannt zu machen und der Zentralen
+Anlaufstelle für Verbraucherschlichtung nach § 32 Absatz 2 und 5 des
+Verbraucherstreitbeilegungsgesetzes mitzuteilen.
 
-1.  Die Schlichtungsstelle muss unabhängig sein und hierdurch
-    unparteiisches Handeln sicherstellen; bei Kollegialentscheidungen kann
-    die Unabhängigkeit durch eine paritätische Mitwirkung der Vertreter
-    von Verbrauchern und Unternehmen gewährleistet werden.
-
-
-2.  Die Beteiligten müssen Tatsachen und Bewertungen vorbringen können und
-    rechtliches Gehör erhalten.
-
-
-3.  Die Schlichter und ihre Hilfspersonen müssen die Vertraulichkeit der
-    Informationen gewährleisten, von denen sie im Schlichtungsverfahren
-    Kenntnis erhalten.
-
-
-4.  Das Schlichtungsverfahren muss zügig und für die Fahrgäste
-    unentgeltlich durchgeführt werden.
-
-
-5.  Die Verfahrensregeln müssen für Interessierte zugänglich sein.
-
-
-
-
-(4) Die Schlichtungsstelle nach Absatz 1 kann nicht angerufen werden,
-wenn der Anspruch nicht unmittelbar gegenüber dem Beförderer,
-Reiseveranstalter oder Reisevermittler geltend gemacht worden ist oder
-seit der Geltendmachung gegenüber dem Beförderer, Reiseveranstalter
-oder Reisevermittler nicht mehr als 30 Tage vergangen sind.
-
-(5) Die Beförderer, Reiseveranstalter und Reisevermittler haben bei
+(4) Die Beförderer, Reiseveranstalter und Reisevermittler haben bei
 der Beantwortung einer Beschwerde im Zusammenhang mit den unter die
 Verordnung (EU) Nr. 1177/2010 fallenden Rechten und Pflichten auf die
-Möglichkeit der Schlichtung hinzuweisen und die Adresse geeigneter
-Schlichtungsstellen mitzuteilen.
+Möglichkeit der Schlichtung hinzuweisen und die Adressen geeigneter
+Verbraucherschlichtungsstellen mitzuteilen.
 
-(6) Eine Schlichtungsstelle im Sinne des Absatzes 1 kann auch eine
-verkehrsträgerübergreifende Schlichtungsstelle sein.
+(5) Soweit keine Verbraucherschlichtungsstelle nach Absatz 3 anerkannt
+wurde, kann das Bundesministerium für Verkehr und digitale
+Infrastruktur im Einvernehmen mit dem Bundesministerium der Justiz und
+für Verbraucherschutz die Aufgabe der Schlichtungsstelle durch
+Rechtsverordnung ohne Zustimmung des Bundesrates einer
+Bundesoberbehörde oder Bundesanstalt zuweisen und deren Verfahren
+sowie die Erhebung von Gebühren und Auslagen regeln. § 31 des
+Verbraucherstreitbeilegungsgesetzes ist auf die Regelung der Gebühren
+entsprechend anzuwenden. Die Schlichtungsstelle ist
+Verbraucherschlichtungsstelle nach dem
+Verbraucherstreitbeilegungsgesetz und muss die Anforderungen nach dem
+Verbraucherstreitbeilegungsgesetz erfüllen.
 
-(7) Die Schlichtungsstelle im Sinne des Absatzes 1 bedarf der
-Anerkennung des Bundesministeriums für Verkehr, Bau und
-Stadtentwicklung und des Bundesministeriums für Ernährung,
-Landwirtschaft und Verbraucherschutz. Die Anerkennung ist im
-Bundesanzeiger bekannt zu machen.
+(6) (weggefallen)
+
+(7) (weggefallen)
 
 
-## § 7 Kosten
+## § 7 Gebühren und Auslagen
 
-Das Eisenbahn-Bundesamt erhebt Kosten (Gebühren und Auslagen) für
-seine Amtshandlungen nach diesem Gesetz, auf Grund dieses Gesetzes
-oder nach der Verordnung (EU) Nr. 1177/2010.
+Das Eisenbahn-Bundesamt erhebt Gebühren und Auslagen für seine
+individuell zurechenbaren öffentlichen Leistungen nach diesem Gesetz,
+auf Grund dieses Gesetzes oder nach der Verordnung (EU) Nr. 1177/2010.
 
 
 ## § 8 Verordnungsermächtigung
 
 Zur Durchsetzung der Fahrgastrechte im See- und Binnenschiffsverkehr
 nach der Verordnung (EU) Nr. 1177/2010 wird das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung zur Wahrnehmung der Aufgaben des
+Verkehr und digitale Infrastruktur zur Wahrnehmung der Aufgaben des
 Bundes nach § 2 ermächtigt, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates
 
@@ -234,18 +220,10 @@ Bundesrates
 
 
 4.  Regelungen zur Berichterstattung über die Durchsetzung der Verordnung
-    (EU) Nr. 1177/2010 nach deren Artikel 26 zu treffen,
-
-
-5.  weitere Anforderungen an die Schlichtungsstelle und das von ihr zu
-    gewährleistende Verfahren nach § 6 zu regeln.
+    (EU) Nr. 1177/2010 nach deren Artikel 26 zu treffen.
 
 
 
-
-Rechtsverordnungen nach Satz 1 Nummer 5 bedürfen des Einvernehmens des
-Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz
-und des Bundesministeriums der Justiz.
 
 
 ## § 9 Bußgeldvorschriften
@@ -261,10 +239,10 @@ dreißigtausend Euro geahndet werden.
 
 (3) Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des
 Gesetzes über Ordnungswidrigkeiten ist die vom Bundesministerium für
-Verkehr, Bau und Stadtentwicklung durch Rechtsverordnung bestimmte
+Verkehr und digitale Infrastruktur durch Rechtsverordnung bestimmte
 Behörde.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, soweit dies zur Durchsetzung der Rechtsakte der
 Europäischen Union erforderlich ist, durch Rechtsverordnung ohne
 Zustimmung des Bundesrates die Tatbestände zu bezeichnen, die als

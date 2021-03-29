@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1996, 2159
 
+V aufgeh. durch
+:   Art. 4 Abs. 70 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 75 G v. 8.12.2010 I 1864
+:   Art. 2 Abs. 94 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 73 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -29,39 +35,42 @@ das Bundesministerium für Wirtschaft:
 
 ## § 1
 
-Für Amtshandlungen nach dem Meeresbodenbergbaugesetz (MBergG) erhebt
-das Landesamt für Bergbau, Energie und Geologie (LBEG) mit Sitz in
-Hannover und Clausthal-Zellerfeld Kosten (Gebühren und Auslagen) nach
-dieser Verordnung. Die gebührenpflichtigen Tatbestände und die
-Rahmensätze für die Gebühren ergeben sich aus dem anliegenden
-Gebührenverzeichnis. Auslagen werden gesondert erhoben.
+Für individuell zurechenbare öffentliche Leistungen nach dem
+Meeresbodenbergbaugesetz (MBergG) erhebt das Landesamt für Bergbau,
+Energie und Geologie (LBEG) mit Sitz in Hannover und Clausthal-
+Zellerfeld Gebühren und Auslagen nach dieser Verordnung. Die
+gebührenpflichtigen Tatbestände und die Rahmensätze für die Gebühren
+ergeben sich aus dem anliegenden Gebührenverzeichnis. Auslagen werden
+gesondert erhoben.
 
 
 ## § 2
 
-(1) Für den Widerruf oder die Rücknahme einer Amtshandlung, die
-Ablehnung eines Antrags auf Vornahme einer Amtshandlung sowie in den
-Fällen der Rücknahme eines Antrags auf Vornahme einer Amtshandlung
-werden Gebühren nach Maßgabe des § 15 des Verwaltungskostengesetzes
-erhoben.
+(1) Für den Widerruf oder die Rücknahme eines Verwaltungsaktes, die
+Ablehnung eines Antrags auf Vornahme einer individuell zurechenbaren
+öffentlichen Leistung sowie in den Fällen der Rücknahme eines Antrags
+auf Vornahme einer individuell zurechenbaren öffentlichen Leistung
+werden Gebühren nach Maßgabe des § 23 Absatz 5 Satz 1 und 2 des
+Bundesgebührengesetzes erhoben.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines nicht
-ausschließlich gegen eine Kostenentscheidung gerichteten Widerspruchs
-wird eine Gebühr bis zur Höhe der für die angegriffene Amtshandlung
+ausschließlich gegen eine Gebührenfestsetzung gerichteten Widerspruchs
+wird eine Gebühr bis zur Höhe der für den angegriffenen Verwaltungsakt
 vorgesehenen Gebühr erhoben. Dies gilt nicht, wenn der Widerspruch nur
 deshalb keinen Erfolg hat, weil die Verletzung einer Verfahrens- oder
 Formvorschrift nach verwaltungsverfahrensrechtlichen Vorschriften
 unbeachtlich ist. Wird ein Widerspruch nach Beginn der sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
-Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
+Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
 
 
 ## § 3
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 1 Satz 2)
 
-## Anlage (zu § 1 Satz 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle des Originaltextes: BGBl. I 2001, 2999)
 

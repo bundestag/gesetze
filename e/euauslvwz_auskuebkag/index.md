@@ -5,7 +5,7 @@ Title: Gesetz zur Ausführung des Europäischen Übereinkommens vom 24. November
   in Verwaltungssachen im Ausland
 jurabk: EuAuslVwZ/AuskÜbkAG
 layout: default
-origslug: euauslvwz_ausk_bkag
+origslug: euauslvwz_auskuebkag
 slug: euauslvwz_auskuebkag
 
 ---

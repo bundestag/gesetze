@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 20 Euro (Goldmünze „Buche“ der Serie „Deutscher Wald“)
 jurabk: Münz20EuroBek 2011
 layout: default
-origslug: m_nz20eurobek_2011
+origslug: muenz20eurobek_2011
 slug: muenz20eurobek_2011
 
 ---
@@ -30,10 +30,10 @@ Münze „Buche“ im Jahr 2011 fortgesetzt. Diese Münze wurde am 23. Juni
 2011 in den Verkehr gebracht.
 
 Die limitierte Auflage der 20-Euro-Goldmünze
-„Buche“              beträgt 200 000 Stück. Die Münze wurde zu
-gleichen Teilen in den Münzstätten Berlin (Münzzeichen „A“), München
-(Münzzeichen „D“), Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen
-„G“) und Hamburg (Münzzeichen „J“) in Stempelglanzausführung geprägt.
+„Buche“ beträgt 200 000 Stück. Die Münze wurde zu gleichen Teilen in
+den Münzstätten Berlin (Münzzeichen „A“), München (Münzzeichen „D“),
+Stuttgart (Münzzeichen „F“), Karlsruhe (Münzzeichen „G“) und Hamburg
+(Münzzeichen „J“) in Stempelglanzausführung geprägt.
 
 Sie besteht aus Gold mit einem Feingehalt von 999,9 Tausendteilen
 (Feingold). Sie hat einen Durchmesser von 17,5 Millimeter und eine

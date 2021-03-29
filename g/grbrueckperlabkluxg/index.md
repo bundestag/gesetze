@@ -4,7 +4,7 @@ Title: Gesetz zu dem Abkommen vom 18. April 1994 zwischen der Bundesrepublik Deu
   Grenzbrücke über die Mosel im Raum Perl und Schengen
 jurabk: GrBrückPerlAbkLUXG
 layout: default
-origslug: grbr_ckperlabkluxg
+origslug: grbrueckperlabkluxg
 slug: grbrueckperlabkluxg
 
 ---

@@ -3,7 +3,7 @@ Title: Erlaß über die Genehmigung einer Änderung der Verleihungsbedingungen d
   für Rettung aus Seenot am Bande der Deutschen Gesellschaft zur Rettung Schiffbrüchiger
 jurabk: OrdenSeenotÄndErl
 layout: default
-origslug: ordenseenot_nderl
+origslug: ordenseenotaenderl
 slug: ordenseenotaenderl
 
 ---

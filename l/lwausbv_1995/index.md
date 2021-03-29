@@ -443,8 +443,11 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
+Landwirtin
 
-## Anlage I (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur Landwirtin - sachliche Gliederung -
+## Anlage I - sachliche Gliederung -
 
 (Fundstelle: BGBl. I 1995, S. 171 - 176)
 
@@ -1509,8 +1512,11 @@ Diese Verordnung tritt am 1. Juli 1995 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur
+Landwirtin
 
-## Anlage II (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Landwirt/zur Landwirtin - zeitliche Gliederung -
+## Anlage II - zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 1995, 177 u. 178)
 

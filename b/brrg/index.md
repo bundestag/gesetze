@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.3.1999 I 654;
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 14 G v. 5.2.2009 I 160
+:   Art. 6 Abs. 1 G v. 23.5.2017 I 1228
 
 
 ## Kapitel I - (weggefallen)
@@ -123,8 +123,9 @@ versetzt werden.
 
 (2) Die Abordnung oder Versetzung wird von dem abgebenden im
 Einverständnis mit dem aufnehmenden Dienstherrn verfügt; das
-Einverständnis ist schriftlich zu erklären. In der Verfügung ist zum
-Ausdruck zu bringen, daß das Einverständnis vorliegt.
+Einverständnis ist schriftlich oder elektronisch zu erklären. In der
+Verfügung ist zum Ausdruck zu bringen, daß das Einverständnis
+vorliegt.
 
 
 #### § 123a
@@ -222,8 +223,8 @@ Verzögerung; Bruchteile von Stellen sind zu Gunsten der betroffenen
 Bewerber aufzurunden. Für die Berechnung des Zeitraums der Verzögerung
 sind nur die einen Anspruch auf Elternzeit nach § 15 Abs. 1 Satz 1 und
 Abs. 2 des Bundeselterngeld- und Elternzeitgesetzes begründenden
-Zeiten sowie bei Frauen zusätzlich die Zeiten nach § 3 Abs. 2 und § 6
-Abs. 1 des Mutterschutzgesetzes zu berücksichtigen.
+Zeiten sowie bei Frauen zusätzlich die Zeiten nach § 3 des
+Mutterschutzgesetzes zu berücksichtigen.
 
 (2) Verzögert sich die Bewerbung um Einstellung nur wegen der
 tatsächlichen Pflege eines nach ärztlichem Gutachten pflegebedürftigen

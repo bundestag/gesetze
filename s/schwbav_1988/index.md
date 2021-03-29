@@ -16,7 +16,13 @@ Fundstelle
 :   BGBl I: 1988, 484
 
 Zuletzt geändert durch
-:   Art. 7 G v. 22.12.2008 I 2959
+:   Art. 3 Abs. 15 G v. 26.7.2016 I 1824
+
+Änderung durch
+:   Art. 19 Abs. 19 G v. 23.12.2016 I 3234 (Nr. 66) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 168 G v. 29.3.2017 I 626 ist berücksichtigt
 
 
 ## Eingangsformel
@@ -58,14 +64,21 @@ Leistungen:
 
 
 3.  Leistungen für Einrichtungen zur Teilhabe schwerbehinderter Menschen
-    am Arbeitsleben und
+    am Arbeitsleben,
 
 
 4.  Leistungen zur Durchführung von Forschungs- und Modellvorhaben auf dem
     Gebiet der Teilhabe schwerbehinderter Menschen am Arbeitsleben, sofern
     ihnen ausschließlich oder überwiegend regionale Bedeutung zukommt oder
     beim Bundesministerium für Arbeit und Soziales beantragte Mittel aus
-    dem Ausgleichsfonds nicht erbracht werden konnten.
+    dem Ausgleichsfonds nicht erbracht werden konnten,
+
+
+5.  Maßnahmen der beruflichen Orientierung und
+
+
+6.  Leistungen zur Deckung eines Teils der Aufwendungen für ein Budget für
+    Arbeit.
 
 
 
@@ -92,14 +105,14 @@ Maßnahmen erhalten:
     Dienststellen für schwerbehinderte Menschen,
 
     a)  die ohne Beschäftigungspflicht oder über die Beschäftigungspflicht
-        hinaus (§ 71 des Neunten Buches Sozialgesetzbuch) eingestellt werden
+        hinaus (§ 154 des Neunten Buches Sozialgesetzbuch) eingestellt werden
         sollen,
 
 
     b)  die im Rahmen der Erfüllung der besonderen Beschäftigungspflicht
         gegenüber im Arbeits- und Berufsleben besonders betroffenen
-        schwerbehinderten Menschen (§ 71 Abs. 1 Satz 2 und § 72 des Neunten
-        Buches Sozialgesetzbuch) eingestellt werden sollen,
+        schwerbehinderten Menschen (§ 154 Absatz 1 Satz 2 und § 155 des
+        Neunten Buches Sozialgesetzbuch) eingestellt werden sollen,
 
 
     c)  die nach einer längerfristigen Arbeitslosigkeit von mehr als 12
@@ -111,9 +124,9 @@ Maßnahmen erhalten:
 
 
     e)  die zur Durchführung von Maßnahmen der besonderen Fürsorge und
-        Förderung nach § 81 Abs. 3 Satz 1, Abs. 4 Satz 1 Nr. 1, 4 und 5 und
-        Abs. 5 Satz 1 des Neunten Buches Sozialgesetzbuch auf einen neu zu
-        schaffenden Arbeitsplatz umgesetzt werden sollen oder deren
+        Förderung nach § 164 Absatz 3 Satz 1, Absatz 4 Satz 1 Nummer 1, 4 und
+        5 und Absatz 5 Satz 1 des Neunten Buches Sozialgesetzbuch auf einen
+        neu zu schaffenden Arbeitsplatz umgesetzt werden sollen oder deren
         Beschäftigungsverhältnis ohne Umsetzung auf einen neu zu schaffenden
         Arbeitsplatz enden würde,
 
@@ -125,7 +138,7 @@ Maßnahmen erhalten:
     behinderungsgerecht ausgestatteter Ausbildungsplätze und Plätze zur
     sonstigen beruflichen Bildung für schwerbehinderte Menschen,
     insbesondere zur Teilnahme an Leistungen zur Teilhabe am Arbeitsleben
-    nach § 33 Abs. 3 Nr. 3 des Neunten Buches Sozialgesetzbuch, in
+    nach § 49 Absatz 3 Nummer 4 des Neunten Buches Sozialgesetzbuch, in
     Betrieben oder Dienststellen,
 
 
@@ -158,7 +171,7 @@ gefördert werden.
 
 Die Integrationsämter können der Bundesagentur für Arbeit Mittel der
 Ausgleichsabgabe zur Durchführung befristeter regionaler
-Arbeitsmarktprogramme gemäß § 104 Abs. 3 des Neunten Buches
+Arbeitsmarktprogramme gemäß § 187 Absatz 3 des Neunten Buches
 Sozialgesetzbuch zuweisen.
 
 
@@ -229,7 +242,7 @@ werden
     Inanspruchnahme (§ 27a) einschließlich freier gemeinnütziger
     Einrichtungen und Organisationen zu den Kosten einer psychosozialen
     Betreuung schwerbehinderter Menschen (§ 28) sowie an Träger von
-    Integrationsprojekten (§ 28a),
+    Inklusionsbetrieben (§ 28a),
 
 
 4.  zur Durchführung von Aufklärungs-, Schulungs- und Bildungsmaßnahmen (§
@@ -252,7 +265,7 @@ auf Übernahme der Kosten einer notwendigen Arbeitsassistenz.
 (1b) Schwerbehinderte Menschen haben im Rahmen der Zuständigkeit des
 Integrationsamtes aus den ihm aus der Ausgleichsabgabe zur Verfügung
 stehenden Mitteln Anspruch auf Übernahme der Kosten einer
-Berufsbegleitung nach § 38a Abs. 3 des Neunten Buches
+Berufsbegleitung nach § 55 Absatz 3 des Neunten Buches
 Sozialgesetzbuch.
 
 (2) Andere als die in Absatz 1 bis 1b genannten Leistungen, die der
@@ -271,10 +284,10 @@ erbringen sind oder, auch wenn auf sie ein Rechtsanspruch nicht
 besteht, erbracht werden. Der Nachrang der Träger der Sozialhilfe
 gemäß § 2 des Zwölften Buches Sozialgesetzbuch und das Verbot der
 Aufstockung von Leistungen der Rehabilitationsträger durch Leistungen
-der Integrationsämter (§ 102 Abs. 5 Satz 2 letzter Halbsatz des
+der Integrationsämter (§ 185 Absatz 6 Satz 2 letzter Halbsatz des
 Neunten Buches Sozialgesetzbuch) und die Möglichkeit der
 Integrationsämter, Leistungen der begleitenden Hilfe im Arbeitsleben
-vorläufig zu erbringen (§ 102 Abs. 6 Satz 3 des Neunten Buches
+vorläufig zu erbringen (§ 185 Absatz 7 Satz 3 des Neunten Buches
 Sozialgesetzbuch), bleiben unberührt.
 
 (2) Leistungen an schwerbehinderte Menschen zur begleitenden Hilfe im
@@ -446,22 +459,23 @@ an die technische Weiterentwicklung.
 (2) Art und Höhe der Leistung bestimmen sich nach den Umständen des
 Einzelfalls, insbesondere unter Berücksichtigung, ob eine
 Verpflichtung des Arbeitgebers zur Durchführung von Maßnahmen nach
-Absatz 1 gemäß § 81 Abs. 3 Satz 1, Abs. 4 Satz 1 Nr. 4 und 5 und Abs.
-5 Satz 1 des Neunten Buches Sozialgesetzbuch besteht und erfüllt wird
-sowie ob schwerbehinderte Menschen ohne Beschäftigungspflicht oder
-über die Beschäftigungspflicht hinaus (§ 71 des Neunten Buches
-Sozialgesetzbuch) oder im Rahmen der Erfüllung der besonderen
-Beschäftigungspflicht gegenüber bei der Teilhabe am Arbeitsleben
-besonders betroffenen schwerbehinderten Menschen (§ 71 Abs. 1 Satz 2
-und § 72 des Neunten Buches Sozialgesetzbuch) beschäftigt werden.
+Absatz 1 gemäß § 164 Absatz 3 Satz 1, Absatz 4 Satz 1 Nummer 4 und 5
+und Absatz 5 Satz 1 des Neunten Buches Sozialgesetzbuch besteht und
+erfüllt wird sowie ob schwerbehinderte Menschen ohne
+Beschäftigungspflicht oder über die Beschäftigungspflicht hinaus (§
+154 des Neunten Buches Sozialgesetzbuch) oder im Rahmen der Erfüllung
+der besonderen Beschäftigungspflicht gegenüber bei der Teilhabe am
+Arbeitsleben besonders betroffenen schwerbehinderten Menschen (§ 154
+Absatz 1 Satz 2 und § 155 des Neunten Buches Sozialgesetzbuch)
+beschäftigt werden.
 
 (3) § 15 Abs. 2 Satz 1 und 2 gilt entsprechend.
 
 
 ##### § 26a Zuschüsse zu den Gebühren bei der Berufsausbildung besonders betroffener schwerbehinderter Jugendlicher und junger Erwachsener
 
-Arbeitgeber, die ohne Beschäftigungspflicht (§ 71 Abs. 1 des Neunten
-Buches Sozialgesetzbuch) besonders betroffene schwerbehinderte
+Arbeitgeber, die ohne Beschäftigungspflicht (§ 154 Absatz 1 des
+Neunten Buches Sozialgesetzbuch) besonders betroffene schwerbehinderte
 Menschen zur Berufsausbildung einstellen, können Zuschüsse zu den
 Gebühren, insbesondere Prüfungsgebühren bei der Berufsausbildung,
 erhalten.
@@ -472,7 +486,7 @@ erhalten.
 Arbeitgeber können Prämien und Zuschüsse zu den Kosten der
 Berufsausbildung behinderter Jugendlicher und junger Erwachsener
 erhalten, die für die Zeit der Berufsausbildung schwerbehinderten
-Menschen nach § 68 Abs. 4 gleichgestellt sind.
+Menschen nach § 151 Absatz 4 gleichgestellt sind.
 
 
 ##### § 26c Prämien zur Einführung eines betrieblichen Eingliederungsmanagements
@@ -487,19 +501,20 @@ Eingliederungsmanagements Prämien erhalten.
 Belastungen erhalten, die mit der Beschäftigung eines
 schwerbehinderten Menschen verbunden sind, der nach Art oder Schwere
 seiner Behinderung im Arbeits- und Berufsleben besonders betroffen ist
-(§ 72 Abs. 1 Nr. 1 Buchstabe a bis d des Neunten Buches
+(§ 155 Absatz 1 Nummer 1 Buchstabe a bis d des Neunten Buches
 Sozialgesetzbuch) oder im Anschluss an eine Beschäftigung in einer
-anerkannten Werkstatt für behinderte Menschen oder in Teilzeit (§ 75
-Abs. 2 des Neunten Buches Sozialgesetzbuch) beschäftigt wird, vor
-allem, wenn ohne diese Leistungen das Beschäftigungsverhältnis
-gefährdet würde. Leistungen nach Satz 1 können auch in
-Probebeschäftigungen und Praktika erbracht werden, die ein in einer
-Werkstatt für behinderte Menschen beschäftigter schwerbehinderter
-Mensch im Rahmen von Maßnahmen zur Förderung des Übergangs auf den
-allgemeinen Arbeitsmarkt (§ 5 Abs. 4 der Werkstättenverordnung)
-absolviert, wenn die dem Arbeitgeber entstehenden außergewöhnlichen
-Belastungen nicht durch die in dieser Zeit erbrachten Leistungen der
-Rehabilitationsträger abgedeckt werden.
+anerkannten Werkstatt für behinderte Menschen oder bei einem anderen
+Leistungsanbieter im Sinne des § 60 des Neunten Buches
+Sozialgesetzbuch oder in Teilzeit (§ 158 Absatz 2 des Neunten Buches
+Sozialgesetzbuch) beschäftigt wird, vor allem, wenn ohne diese
+Leistungen das Beschäftigungsverhältnis gefährdet würde. Leistungen
+nach Satz 1 können auch in Probebeschäftigungen und Praktika erbracht
+werden, die ein in einer Werkstatt für behinderte Menschen
+beschäftigter schwerbehinderter Mensch im Rahmen von Maßnahmen zur
+Förderung des Übergangs auf den allgemeinen Arbeitsmarkt (§ 5 Abs. 4
+der Werkstättenverordnung) absolviert, wenn die dem Arbeitgeber
+entstehenden außergewöhnlichen Belastungen nicht durch die in dieser
+Zeit erbrachten Leistungen der Rehabilitationsträger abgedeckt werden.
 
 (2) Außergewöhnliche Belastungen sind überdurchschnittlich hohe
 finanzielle Aufwendungen oder sonstige Belastungen, die einem
@@ -522,7 +537,7 @@ Einzelfalls.
 ##### § 27a Leistungen an Integrationsfachdienste
 
 Träger von Integrationsfachdiensten im Sinne des Kapitels 7 des Teils
-2 des Neunten Buches Sozialgesetzbuch können Leistungen nach § 113 des
+3 des Neunten Buches Sozialgesetzbuch können Leistungen nach § 196 des
 Neunten Buches Sozialgesetzbuch zu den durch ihre Inanspruchnahme
 entstehenden notwendigen Kosten erhalten.
 
@@ -578,10 +593,10 @@ dem Träger des psychosozialen Dienstes gemäß Absatz 2 Satz 1 Nr. 2
 Buchstabe c.
 
 
-##### § 28a Leistungen an Integrationsprojekte
+##### § 28a Leistungen an Inklusionsbetriebe
 
-Integrationsprojekte im Sinne des Kapitels 11 des Teils 2 des Neunten
-Buches Sozialgesetzbuch, können Leistungen für Aufbau, Erweiterung,
+Inklusionsbetriebe im Sinne des Kapitels 11 des Teils 3 des Neunten
+Buches Sozialgesetzbuch können Leistungen für Aufbau, Erweiterung,
 Modernisierung und Ausstattung einschließlich einer
 betriebswirtschaftlichen Beratung und besonderen Aufwand erhalten.
 
@@ -593,7 +608,7 @@ Vertrauenspersonen schwerbehinderter Menschen, Beauftragte der
 Arbeitgeber, Betriebs-, Personal-, Richter-, Staatsanwalts- und
 Präsidialräte sowie die Mitglieder der Stufenvertretungen wird
 gefördert, wenn es sich um Veranstaltungen der Integrationsämter im
-Sinne des § 102 Abs. 2 Satz 6 des Neunten Buches Sozialgesetzbuch
+Sinne des § 185 Absatz 2 Satz 6 des Neunten Buches Sozialgesetzbuch
 handelt. Die Durchführung von Maßnahmen im Sinne des Satzes 1 durch
 andere Träger kann gefördert werden, wenn die Maßnahmen erforderlich
 und die Integrationsämter an ihrer inhaltlichen Gestaltung maßgeblich
@@ -603,7 +618,7 @@ beteiligt sind.
 andere als in Absatz 1 genannte Personen, die die Teilhabe
 schwerbehinderter Menschen am Arbeitsleben zum Gegenstand haben,
 können gefördert werden. Dies gilt auch für die Qualifizierung des
-nach § 102 Abs. 1 des Neunten Buches Sozialgesetzbuch einzusetzenden
+nach § 185 Absatz 1 des Neunten Buches Sozialgesetzbuch einzusetzenden
 Personals sowie für notwendige Informationsschriften und
 -veranstaltungen über Rechte, Pflichten, Leistungen und sonstige
 Eingliederungshilfen sowie Nachteilsausgleiche nach dem Neunten Buch
@@ -633,7 +648,7 @@ Modernisierung folgender Einrichtungen erbracht werden:
     Bildung oder die Teilhabe am Arbeitsleben vorbereiten,
 
 
-4.  Werkstätten für behinderte Menschen im Sinne des § 136 des Neunten
+4.  Werkstätten für behinderte Menschen im Sinne des § 219 des Neunten
     Buches Sozialgesetzbuch,
 
 
@@ -747,7 +762,7 @@ werden, wenn sie
 
 4.  Werkstätten für behinderte Menschen im Sinne des § 30 Abs. 1 Nr. 4:
 
-    Sie müssen gemäß § 142 des Neunten Buches Sozialgesetzbuch anerkannt
+    Sie müssen gemäß § 225 des Neunten Buches Sozialgesetzbuch anerkannt
     sein oder voraussichtlich anerkannt werden.
 
 
@@ -957,7 +972,7 @@ verzinslich anzulegen.
 
 2.  befristete überregionale Programme zum Abbau der Arbeitslosigkeit
     schwerbehinderter Menschen, besonderer Gruppen von schwerbehinderten
-    Menschen (§ 72 des Neunten Buches Sozialgesetzbuch) oder
+    Menschen (§ 155 des Neunten Buches Sozialgesetzbuch) oder
     schwerbehinderter Frauen sowie zur Förderung des
     Ausbildungsplatzangebots für schwerbehinderte Menschen,
 
@@ -1003,13 +1018,13 @@ von Bedeutung sein können.
 
 #### § 42 Anmeldeverfahren und Anträge
 
-Leistungen aus dem Ausgleichsfonds sind vom Träger der Maßnahme
-schriftlich beim Bundesministerium für Arbeit und Soziales zu
-beantragen, in den Fällen des § 41 Abs. 1 Nr. 3 nach vorheriger
-Abstimmung mit dem Land, in dem der Integrationsbetrieb oder die
-Integrationsabteilung oder die Einrichtung ihren Sitz hat oder haben
-soll. Das Bundesministerium für Arbeit und Soziales leitet die Anträge
-mit seiner Stellungnahme dem Beirat zu.
+Leistungen aus dem Ausgleichsfonds sind vom Träger der Maßnahme beim
+Bundesministerium für Arbeit und Soziales zu beantragen, in den Fällen
+des § 41 Abs. 1 Nr. 3 nach vorheriger Abstimmung mit dem Land, in dem
+der Integrationsbetrieb oder die Integrationsabteilung oder die
+Einrichtung ihren Sitz hat oder haben soll. Das Bundesministerium für
+Arbeit und Soziales leitet die Anträge mit seiner Stellungnahme dem
+Beirat zu.
 
 
 #### § 43 Vorschlagsrecht des Beirats
@@ -1020,14 +1035,15 @@ welchen Bedingungen und Auflagen Mittel des Ausgleichsfonds vergeben
 werden sollen.
 
 (2) Der Beirat kann unabhängig vom Vorliegen oder in Abwandlung eines
-schriftlichen Antrags Vorhaben zur Förderung vorschlagen.
+schriftlichen oder elektronischen Antrags Vorhaben zur Förderung
+vorschlagen.
 
 
 #### § 44 Entscheidung
 
 (1) Das Bundesministerium für Arbeit und Soziales entscheidet über die
-Anträge aufgrund der Vorschläge des Beirats durch schriftlichen
-Bescheid.
+Anträge aufgrund der Vorschläge des Beirats durch schriftlichen oder
+elektronischen Bescheid.
 
 (2) Der Beirat ist über die getroffene Entscheidung zu unterrichten.
 
@@ -1045,53 +1061,16 @@ entsprechend.
 
 ### § 46 Übergangsregelungen
 
-(1) Abweichend von § 36 leiten die Integrationsämter
-
-1.  zum 30. Juni 2005 30 vom Hundert des im Zeitraum vom 1. Januar 2005
-    bis zum 31. Mai 2005 eingegangenen Ausgleichsabgabeaufkommens und 45
-    vom Hundert des Ausgleichsabgabeaufkommens für das Kalenderjahr 2003
-    an den Ausgleichsfonds weiter; dabei werden die nach § 36 Abs. 2 in
-    der bis zum 31. Dezember 2004 geltenden Fassung geleisteten
-    Abschlagszahlungen berücksichtigt,
-
-
-2.  bis zum Ablauf des Jahres, in dem die Förderung durch
-    Investitionskostenzuschüsse der vom Beirat für die Teilhabe
-    behinderter Menschen vorgeschlagenen und von den Ländern bis zum 30.
-    Juni 2006 bewilligten Projekte für Werk- und Wohnstätten für
-    behinderte Menschen sowie Blindenwerkstätten durch den Ausgleichsfonds
-    endet, im Jahr 2005 zusätzlich zu Nummer 1 und ab dem Jahr 2006
-    zusätzlich bis zu 4 vom Hundert des Ausgleichsabgabeaufkommens an den
-    Ausgleichsfonds weiter, verringert um den Betrag, den die Träger der
-    Integrationsämter in Abstimmung mit dem Bundesministerium für Arbeit
-    und Soziales für die Förderung der genannten Projekte bewilligen.
-
-
-
-
-(2) Abweichend von § 41 werden
-
-1.  im Jahr 2004 Zuweisungen an die Bundesagentur für Arbeit für die
-    Förderung von Integrationsfachdiensten vorgenommen und
-
-
-2.  mindestens die nach Absatz 1 Nr. 2 an den Ausgleichsfonds
-    weitergeleiteten Mittel für die Förderung von Einrichtungen nach § 30
-    Abs. 1 Satz 1 Nr. 4 bis 6 verwendet.
-
-
-
-
-(3) Abweichend von § 41 können Mittel des Ausgleichsfonds verwendet
-werden zur Förderung von Integrationsbetrieben und -abteilungen nach
-dem Kapitel 11 des Teils 2 des Neunten Buches Sozialgesetzbuch, die
-nicht von öffentlichen Arbeitgebern im Sinne des § 71 Abs. 3 des
-Neunten Buches Sozialgesetzbuch geführt werden, soweit die Förderung
-bis zum 31. Dezember 2003 bewilligt worden ist, sowie für die
-Förderung von Einrichtungen nach § 30 Abs. 1 Satz 1 Nr. 4 bis 6,
-soweit Leistungen als Zinszuschüsse oder Zuschüsse zur Deckung eines
-Miet- oder Pachtzinses für bis zum 31. Dezember 2004 bewilligte
-Projekte erbracht werden.
+Abweichend von § 41 können Mittel des Ausgleichsfonds verwendet werden
+zur Förderung von Inklusionsbetrieben und -abteilungen nach Kapitel 11
+des Teils 3 des Neunten Buches Sozialgesetzbuch, die nicht von
+öffentlichen Arbeitgebern im Sinne des § 154 Absatz 2 des Neunten
+Buches Sozialgesetzbuch geführt werden, soweit die Förderung bis zum
+31\. Dezember 2003 bewilligt worden ist, sowie für die Förderung von
+Einrichtungen nach § 30 Absatz 1 Satz 1 Nummer 4 bis 6, soweit
+Leistungen als Zinszuschüsse oder Zuschüsse zur Deckung eines Miet-
+oder Pachtzinses für bis zum 31. Dezember 2004 bewilligte Projekte
+erbracht werden.
 
 
 ### § 47 Inkrafttreten, Außerkrafttreten

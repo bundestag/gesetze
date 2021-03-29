@@ -19,19 +19,18 @@ Neugefasst durch
 :   Bek. v. 16.8.1990 I 1809;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 26.9.2011 I 1914
+:   Art. 1 V v. 17.6.2014 I 793
 
 
 ## § 1 Gesetzliche Handelsklassen
 
 Für ganze und halbe Schlachtkörper von Schweinen gelten die in Anhang
-V Teil B der Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober
-2007 über eine gemeinsame Organisation der Agrarmärkte und mit
-Sondervorschriften für bestimmte landwirtschaftliche Erzeugnisse
-(Verordnung über die einheitliche GMO) (ABl. EU Nr. L 299 S. 1), die
-zuletzt durch die Verordnung (EU) Nr. 1234/2010 vom 15. Dezember 2010
-(ABl. L 346 vom 30.12.2010, S. 11) geändert worden ist, sowie die in
-Anlage 1 bezeichneten Handelsklassen.
+IV Teil B der Verordnung (EU) Nr. 1308/2013 des Europäischen
+Parlaments und des Rates vom 17. Dezember 2013 über eine gemeinsame
+Marktorganisation für landwirtschaftliche Erzeugnisse und zur
+Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG)
+Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013, S.
+671) sowie die in Anlage 1 bezeichneten Handelsklassen.
 
 
 ## § 2 Einstufung in Handelsklassen
@@ -55,6 +54,11 @@ selbst zerlegen.
 gelten die Vorschriften dieser Verordnung und die Rechtsakte der
 Europäischen Gemeinschaft über das gemeinschaftliche
 Handelsklassenschema für Schweineschlachtkörper.
+
+(3a) Wer eine Handelsklasse nach Anlage 1 verwendet, hat dafür zu
+sorgen, dass das Fleisch entsprechend den in Anlage 1 Spalte 2
+genannten Anforderungen der jeweiligen Handelsklasse klassifiziert
+ist.
 
 (4) Die Verwendung anderer als der in § 1 bezeichneten Handelsklassen
 ist nicht zulässig.
@@ -91,7 +95,7 @@ des Schlachtkörpers seine Gültigkeit.
 jeden einzelnen Schlachtkörper ein Protokoll schriftlich anzufertigen.
 
 (2) Das Protokoll hat mindestens die fortlaufende Schlachtnummer, die
-Einzelmeßwerte oder Variablen, das daraus errechnete Ergebnis, sowie
+Einzelmeßwerte oder Variablen, das daraus errechnete Ergebnis sowie
 den Schlachttag und den Namen oder das Kennzeichen des Klassifizierers
 zu enthalten. Es ist mindestens sechs Monate lang geordnet
 aufzubewahren.
@@ -105,10 +109,12 @@ aufzubewahren.
 
 ## § 4 Kennzeichnung
 
-(1) Schweineschlachtkörper dürfen nur unzerlegt in einen anderen
-Mitgliedstaat in den Handel verbracht werden, wenn sie mit dem Zeichen
-der Handelsklasse nach Spalte 1 der Anlage 1 oder dem Prozentsatz des
-nach § 2 Abs. 5 ermittelten Muskelfleischanteils gekennzeichnet sind.
+(1) Schweineschlachtkörper dürfen nur unzerlegt in einem anderen
+Mitgliedstaat in den Handel verbracht werden, wenn sie mit der
+Handelsklasse nach Spalte 1 der Anlage 1, die den jeweiligen
+Anforderungen nach Spalte 2 der Anlage 1 entspricht, oder dem
+Prozentsatz des nach § 2 Absatz 5 ermittelten Muskelfleischanteils
+gekennzeichnet sind.
 
 (2) Die Kennzeichnung der Schlachtkörper nach Absatz 1 muss spätestens
 45 Minuten nach dem Stechen des Tieres deutlich lesbar mit Farbe oder
@@ -136,6 +142,10 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Abs. 1 Satz 1 oder Abs. 3 Schweineschlachtkörper nicht,
     nicht richtig oder nicht rechtzeitig einstufen lässt,
+
+
+1a. entgegen § 2 Absatz 3a nicht dafür sorgt, dass das Fleisch
+    entsprechend den dort genannten Anforderungen klassifiziert ist,
 
 
 2.  entgegen § 2 Abs. 4 in Verbindung mit § 1 eine andere als eine dort
@@ -230,8 +240,9 @@ Handelsklassengesetzes handelt, wer vorsätzlich oder fahrlässig
 
 
 
+(zu § 2 Absatz 5 Nummer 2)
 
-## Anlage 2 (zu § 2 Absatz 5 Nummer 2) Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
+## Anlage 2 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 2
 
 (Fundstelle: BGBl. I 2011, 1917)
 
@@ -239,8 +250,7 @@ Der Muskelfleischanteil des Schlachtkörpers wird anhand folgender
 Formel berechnet:
 
     MF
-=   60,98501 – 0,85831*                    S + 0,16449*
-    F.
+=   60,98501 – 0,85831* S + 0,16449* F.
 
 
 
@@ -272,7 +282,7 @@ Fleischmaßes F ersatzweise das Fleischmaß F\* für die Berechnung des
 Muskelfleischanteils verwendet. F\* wird wie folgt berechnet:
 
     F\*
-=   0,95*                    G – 3.
+=   0,95* G – 3.
 
 
 
@@ -296,8 +306,9 @@ Messlinie im Kotelettquerschnitt zwischen der zweit- und drittletzten
 Rippe
 
 ![bgbl1_2011_j1914-1_0010.jpg](bgbl1_2011_j1914-1_0010.jpg)
+(zu § 2 Absatz 5 Nummer 3)
 
-## Anlage 3 (zu § 2 Absatz 5 Nummer 3) Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
+## Anlage 3 Verfahren zur Ermittlung des Muskelfleischanteils von Schweineschlachtkörpern nach § 2 Absatz 5 Nummer 3
 
 (Fundstelle: BGBl. I 2011, 1918)
 
@@ -305,8 +316,7 @@ Der Muskelfleischanteil des Schlachtkörpers wird anhand folgender
 Formel berechnet:
 
     MF
-=   58,10122 – 0,56495*                    S + 0,13199*
-    F.
+=   58,10122 – 0,56495* S + 0,13199* F.
 
 
 
@@ -332,4 +342,4 @@ Speck- und Fleischmaß werden an Schweinehälften, die durch Spaltung
 des Schlachtkörpers längs der Wirbelsäule hergerichtet wurden,
 ermittelt (siehe Abbildung).
 
-![bgbl1_2011_j1914-1_0020.jpg](bgbl1_2011_j1914-1_0020.jpg)
+![bgbl1_2014_j0793-1_0010.jpg](bgbl1_2014_j0793-1_0010.jpg)

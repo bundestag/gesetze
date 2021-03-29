@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 55
 
 Zuletzt geändert durch
-:   Art. 12 G v. 23.10.2012 I 2246
+:   Art. 1d u. 1e G v. 4.4.2017 I 778
 
 
 ## Eingangsformel
@@ -134,11 +134,12 @@ Sozialgesetzbuch auch dann maßgebend, wenn rückwirkend Rente
 zugebilligt wird.
 
 (5) Versicherte, deren Leistungsansprüche nach § 16 Abs. 1 Nr. 2 bis 4
-des Fünften Buches Sozialgesetzbuch ruhen sowie Mitglieder, für deren
-Beitragsbemessung § 240 Abs. 4a des Fünften Buches Sozialgesetzbuch
+des Fünften Buches Sozialgesetzbuch ruhen, Mitglieder, für deren
+Beitragsbemessung § 240 Absatz 4b des Fünften Buches Sozialgesetzbuch
 gilt und deren nach § 10 des Fünften Buches Sozialgesetzbuch
-versicherten Angehörige, sind in den Versichertengruppen nach Absatz 1
-nicht enthalten.
+versicherten Angehörige, sowie Mitglieder, deren Leistungsansprüche
+nach § 256a Absatz 4 des Fünften Buches Sozialgesetzbuch ruhen, sind
+in den Versichertengruppen nach Absatz 1 nicht enthalten.
 
 
 ### § 3 Erhebung der Versicherungszeiten
@@ -295,13 +296,14 @@ Kennzeichen nur elektronisch gespeichert und lesbar sein.
 §§ 6 und 7 sind insbesondere Aufwendungen zu berücksichtigen für
 
 1.  Leistungen zur betrieblichen Gesundheitsförderung, zur Prävention
-    arbeitsbedingter Gesundheitsgefahren, zur Förderung der Selbsthilfe
-    und zur primären Prävention durch Schutzimpfungen nach den §§ 20a bis
-    20d Abs. 1 und 3 des Fünften Buches Sozialgesetzbuch, Leistungen zur
-    Verhütung von Zahnerkrankungen nach den §§ 21 und 22 des Fünften
-    Buches Sozialgesetzbuch, medizinische Vorsorgeleistungen und
-    medizinische Vorsorgeleistungen für Mütter und Väter nach den §§ 23
-    Abs. 1 und 24 des Fünften Buches Sozialgesetzbuch, Gesundheits- und
+    arbeitsbedingter Gesundheitsgefahren nach den §§ 20b und 20c des
+    Fünften Buches Sozialgesetzbuch, Leistungen zur Förderung der
+    Selbsthilfe und zur primären Prävention durch Schutzimpfungen nach den
+    §§ 20h und 20i Absatz 1 und 3 des Fünften Buches Sozialgesetzbuch,
+    Leistungen zur Verhütung von Zahnerkrankungen nach den §§ 21 und 22
+    des Fünften Buches Sozialgesetzbuch, medizinische Vorsorgeleistungen
+    und medizinische Vorsorgeleistungen für Mütter und Väter nach den §§
+    23 Abs. 1 und 24 des Fünften Buches Sozialgesetzbuch, Gesundheits- und
     Kinderuntersuchungen nach den §§ 25 und 26 des Fünften Buches
     Sozialgesetzbuch und Leistungen nach § 22 des Neunten Buches
     Sozialgesetzbuch,
@@ -385,11 +387,12 @@ Vertragsärzte und -zahnärzte.
 insbesondere nicht Aufwendungen für
 
 1.  satzungsgemäße Mehrleistungen bei primärer Prävention durch
-    Schutzimpfungen nach § 20d Abs. 2 des Fünften Buches Sozialgesetzbuch
-    und bei ambulanten Vorsorgeleistungen nach § 23 Abs. 2 Satz 2 und 3
-    des Fünften Buches Sozialgesetzbuch, für häusliche Krankenpflege nach
-    § 37 Abs. 2 Satz 4 des Fünften Buches Sozialgesetzbuch, für
-    Haushaltshilfe nach § 38 Abs. 2 des Fünften Buches Sozialgesetzbuch,
+    Schutzimpfungen nach § 20i Absatz 2 des Fünften Buches
+    Sozialgesetzbuch und bei ambulanten Vorsorgeleistungen nach § 23 Abs.
+    2 Satz 2 und 3 des Fünften Buches Sozialgesetzbuch, für häusliche
+    Krankenpflege nach § 37 Abs. 2 Satz 4 des Fünften Buches
+    Sozialgesetzbuch, für Haushaltshilfe nach § 38 Abs. 2 des Fünften
+    Buches Sozialgesetzbuch,
 
 
 2.  Leistungen bei Behandlung im Ausland nach § 13 Abs. 4 Satz 6, § 18
@@ -1492,178 +1495,6 @@ Spitzenverbänden der Krankenkassen von Absatz 3 abweichende
 Schätzverfahren bestimmen.
 
 
-### § 28a Solidarische Finanzierung für aufwändige Leistungsfälle (Risikopool)
-
-(1) Bei der Ermittlung der im Risikopool (§ 269 Abs. 1 des Fünften
-Buches Sozialgesetzbuch) ausgleichsfähigen Leistungsausgaben sind
-Aufwendungen zu berücksichtigen für
-
-1.  Krankenhausbehandlung nach § 13 Abs. 5, § 18 Abs. 3 und § 39 des
-    Fünften Buches Sozialgesetzbuch, Krankenhausbehandlung bei
-    Empfängnisverhütung, Sterilisation und Schwangerschaftsabbruch nach
-    den §§ 24a und 24b des Fünften Buches Sozialgesetzbuch, stationäre
-    Entbindung nach § 197 der Reichsversicherungsordnung, stationäre oder
-    teilstationäre Versorgung in Hospizen bis zur Höhe des
-    Mindestzuschusses nach § 39a Satz 3 des Fünften Buches
-    Sozialgesetzbuch sowie stationäre Anschlussrehabilitation nach § 40
-    Abs. 6 Satz 1 des Fünften Buches Sozialgesetzbuch, einschließlich der
-    für diese Leistungen bei Überschreitung der Belastungsgrenze nach § 62
-    des Fünften Buches Sozialgesetzbuch von den Krankenkassen zu
-    übernehmenden Aufwendungen,
-
-
-2.  Arznei- und Verbandmittel nach § 13 Abs. 4 Satz 1 bis 5, § 18 Abs. 3
-    und § 31 des Fünften Buches Sozialgesetzbuch einschließlich der für
-    diese Leistungen bei Überschreitung der Belastungsgrenze nach § 62 des
-    Fünften Buches Sozialgesetzbuch von den Krankenkassen zu übernehmenden
-    Aufwendungen,
-
-
-3.  nichtärztliche Leistungen der ambulanten Dialyse nach § 13 Abs. 4 Satz
-    1 bis 5, § 18 Abs. 3, § 85 Abs. 3a Satz 4 und § 126 Abs. 3 des Fünften
-    Buches Sozialgesetzbuch; dies gilt entsprechend für nichtärztliche
-    Leistungen der ambulanten Apherese,
-
-
-4.  Krankengeld nach den §§ 44 und 45 des Fünften Buches Sozialgesetzbuch
-    einschließlich der hierauf entfallenden Beiträge.
-
-
-
-Abweichend von Satz 1 werden die Leistungsausgaben nach Satz 1 Nr. 3
-für das Ausgleichsjahr 2002 nicht berücksichtigt. § 4 Abs. 2 Nr. 1 bis
-5 und Abs. 3 gilt entsprechend.
-
-(2) Das Bundesversicherungsamt legt jährlich bis zum 15. Dezember des
-Ausgleichsjahres den Schwellenwert nach § 269 Abs. 1 Satz 3 des
-Fünften Buches Sozialgesetzbuch fest.
-
-(3) Die Krankenkassen ermitteln jährlich je Versicherten für das
-Kalenderjahr (Berichtsjahr) und das Vorjahr die Summe der in Absatz 1
-genannten Leistungsausgaben abzüglich der von Dritten erstatteten
-Ausgaben. Die Krankenkassen übermitteln die Summen der
-Leistungsausgaben nach Absatz 1 der Versicherten, für die der
-Schwellenwert nach Absatz 2 überschritten wird, bis zum 31. August des
-Folgejahres auf maschinell verwertbaren Datenträgern über ihre
-Spitzenverbände an das Bundesversicherungsamt. Die Spitzenverbände
-prüfen die Ergebnisse nach Satz 2 vor Übermittlung an das
-Bundesversicherungsamt auf Plausibilität und teilen dem
-Bundesversicherungsamt das Ergebnis dieser Prüfung schriftlich mit.
-Das Bundesversicherungsamt kann das Nähere über die technische
-Aufbereitung der Daten im Benehmen mit den Spitzenverbänden der
-Krankenkassen bestimmen. Krankenkassen, bei denen ein Korrekturbetrag
-durch Hochrechnung nach § 15a Abs. 3 Satz 1 erhoben wurde, können für
-das Ausgleichsjahr, auf das sich die Hochrechnung bezog, nur dann
-Korrekturen geltend machen, wenn eine Datenmeldung gemäß § 15a Abs. 3
-Satz 9 ordnungsgemäß korrigiert wurde.
-
-(4) Das Bundesversicherungsamt ermittelt nach Vorliegen der Daten nach
-Absatz 3 Satz 2 für das jeweilige abgelaufene Kalenderjahr folgende
-Werte:
-
-1.  Für jede Krankenkasse wird die Summe der im Risikopool
-    berücksichtigungsfähigen Leistungsausgaben je Versicherten berechnet.
-    Hiervon werden 60 vom Hundert des Betrags, der den Schwellenwert
-    übersteigt, aus dem Risikopool finanziert.
-
-
-2.  Für die Ermittlung der beitragspflichtigen Einnahmen, des
-    Ausgleichsbedarfssatzes und der Finanzkraft im Risikopool gelten die
-    §§ 8, 9, 11 und 12 entsprechend.
-
-
-3.  Für die Berechnung der Höhe der Ausgleichsforderungen und
-    -verpflichtungen gilt § 16 entsprechend.
-
-
-
-
-(5) Jede Krankenkasse berechnet monatlich die Höhe ihres vorläufigen
-Ausgleichsanspruchs oder ihrer vorläufigen Ausgleichsverpflichtung.
-Hierfür sind für das Ausgleichsjahr 2004 ausgleichsfähige
-Leistungsausgaben in Höhe der im vorvergangenen Jahr durchschnittlich
-auf einen Kalendermonat entfallenden ausgleichsfähigen
-Leistungsausgaben zu berücksichtigen; die nach Absatz 6 Satz 4
-hochgerechneten oder geschätzten Leistungsausgaben zählen zu den
-ausgleichsfähigen Leistungsausgaben des vorvergangenen Jahres. Weichen
-die vorläufigen Leistungsausgaben nach Satz 2 erheblich und
-nachweislich von dem im Jahresausgleich zu erwartenden Ergebnis ab,
-kann das Bundesversicherungsamt auf Vorschlag des Spitzenverbandes der
-betroffenen Krankenkasse in Einzelfällen ein hiervon abweichendes
-Verfahren bestimmen. Für die Schätzung des vorläufigen
-Ausgleichsbedarfssatzes, die Ermittlung der vorläufigen Finanzkraft
-und die Ermittlung der Ansprüche und Verpflichtungen nach Satz 1
-gelten § 11 Abs. 2, § 12 Abs. 2 und § 17 entsprechend.
-
-(6) Abweichend von Absatz 5 Satz 1 berechnet das
-Bundesversicherungsamt für die vorläufigen Ausgleichsansprüche oder
--verpflichtungen jeder Krankenkasse für die Jahre 2002 und 2003 die
-Höhe der vorläufigen ausgleichsfähigen Leistungsausgaben nach Absatz 5
-Satz 2. Grundlage sind die von den Krankenkassen bis 30. April des
-Ausgleichsjahres über ihre Spitzenverbände zu übermittelnden
-Leistungsausgaben nach Absatz 1 des Vorjahres, soweit diese den
-Schwellenwert nach § 269 Abs. 1 Satz 3 des Fünften Buches
-Sozialgesetzbuch überschreiten. Das monatliche Verfahren wird erstmals
-ab August 2002 durchgeführt; die vorläufigen ausgleichsfähigen
-Leistungsausgaben und die vorläufige Finanzkraft des Ausgleichsjahres
-werden auf die verbleibenden Monate verteilt. Soweit erforderlich,
-werden die Leistungsausgaben nach Absatz 1 Nr. 3 vom
-Bundesversicherungsamt für die Ausgleichsjahre 2003 und 2004
-hochgerechnet oder im Einvernehmen mit den Spitzenverbänden der
-Krankenkassen geschätzt.
-
-(7) Für die Durchführung des Jahresausgleichs gelten die §§ 18 und 19
-entsprechend. Für das Abrechnungsverfahren, den Zahlungsverkehr und
-die Säumniszuschläge gilt § 14 entsprechend.
-
-(8) Bei der Ermittlung der ausgleichsfähigen Leistungsausgaben nach
-Absatz 1 sind pauschal zu berücksichtigen:
-
-1.  Erstattungen nach § 39 Abs. 2, § 49 Abs. 1 Nr. 3 und § 50 des Fünften
-    Buches Sozialgesetzbuch,
-
-
-2.  Erstattungen von Leistungsausgaben durch Dritte,
-
-
-3.  Rabatte nach den §§ 130 und 130a des Fünften Buches Sozialgesetzbuch,
-
-
-4.  ab dem Berichtsjahr 2004 Rückzahlungen von Zuzahlungen an den
-    Versicherten auf Grund der Überschreitung der Belastungsgrenze nach §
-    62 des Fünften Buches Sozialgesetzbuch und Vorauszahlungen von
-    Zuzahlungen durch den Versicherten,
-
-
-5.  ab dem Berichtsjahr 2004 pauschale Vergütungen der integrierten
-    Versorgung nach den §§ 140a bis 140d des Fünften Buches
-    Sozialgesetzbuch, die aus der Anschubfinanzierung für integrierte
-    Versorgung nach § 140d Abs. 1 Satz 1 des Fünften Buches
-    Sozialgesetzbuch verausgabten Mittel sowie Rabatte, die in Verträgen
-    zur integrierten Versorgung nach § 140b des Fünften Buches
-    Sozialgesetzbuch vereinbart werden,
-
-
-6.  ab dem Berichtsjahr 2007 pauschale Rabatte und Rückzahlungen von
-    Krankenhäusern auf Grund von Vereinbarungen, die personenübergreifend
-    und pauschal gewährt oder geleistet werden.
-
-
-
-Die pauschal zu berücksichtigenden Beträge sind dem nach der
-Allgemeinen Verwaltungsvorschrift über das Rechnungswesen in der
-Sozialversicherung und den einschlägigen Bestimmungen des
-Kontenrahmens maßgebenden Berichtsjahr zuzuordnen. Hierzu gehören
-nicht die finanziellen Hilfeleistungen nach den §§ 265 und 265a des
-Fünften Buches Sozialgesetzbuch. § 4 Abs. 3 Satz 3 und 4 gilt
-entsprechend.
-
-(9) Alle im Rahmen der Durchführung des Risikopools maschinell
-erzeugten Datengrundlagen und die Dokumentation der Korrekturmeldungen
-sind sechs Jahre aufzubewahren; § 3 Abs. 7 Satz 2 und 3 gilt
-entsprechend.
-
-
 ### § 28a (weggefallen)
 
 -
@@ -1894,7 +1725,7 @@ befassten Mitarbeiter um die für das Ausgleichsjahr für die
 Bescheiderteilung berechneten Gebühren zu verringern.
 
 
-## Siebter Abschnitt - Weiterentwicklung des Risikostrukturausgleichs ab 2009
+## Siebter Abschnitt - Weiterentwicklung des  Risikostrukturausgleichs ab 2009
 
 
 
@@ -1922,7 +1753,8 @@ legen:
 4.  für die Ermittlung der standardisierten Krankengeldausgaben, mit
     Ausnahme der Ausgaben nach § 44a des Fünften Buches Sozialgesetzbuch,
     die Mitgliedergruppen nach § 267 Absatz 2 Satz 2 des Fünften Buches
-    Sozialgesetzbuch, differenziert nach Alter und Geschlecht.
+    Sozialgesetzbuch, differenziert nach Alter und Geschlecht sowie
+    Minderung der Erwerbsfähigkeit.
 
 
 
@@ -1997,14 +1829,16 @@ Sozialgesetzbuch vorsehen, dass die Erhebung der Daten nach Satz 1 Nr.
 (2) Die nach Absatz 1 erhobenen Daten sind vor der Übermittlung nach
 Absatz 4 von der Krankenkasse zu pseudonymisieren. Für andere als für
 die in Absatz 1 Satz 1 genannten Zwecke dürfen die Daten nur genutzt
-werden, soweit dies für die Prüfung nach § 42 oder für die
+werden, soweit dies für die Prüfung nach § 42 sowie zur Klärung
+doppelter Versicherungsverhältnisse nach Absatz 5 oder für die
 Berücksichtigung nachträglicher Änderungen der übermittelten Daten
 erforderlich ist. Über die Pseudonymisierung in der Krankenkasse und
 jede Verwendung nach Satz 2 ist eine Niederschrift anzufertigen. Eine
 versichertenbezogene Zusammenführung der erhobenen Daten über mehrere
 Leistungsbereiche hinweg bei der Krankenkasse ist unzulässig. Die
 Herstellung des Versichertenbezugs durch die Krankenkassen ist
-zulässig, soweit dies für die Prüfungen nach § 42 erforderlich ist.
+zulässig, soweit dies für die Prüfungen nach § 42 sowie zur Klärung
+doppelter Versicherungsverhältnisse nach Absatz 5 erforderlich ist.
 Die Krankenkassen sind verpflichtet, alle im Rahmen der Durchführung
 des Risikostrukturausgleichs maschinell erzeugten Datengrundlagen
 sowie die gesamte Dokumentation aller Korrekturmeldungen für die
@@ -2056,6 +1890,17 @@ Die Spitzenverbände der Krankenkassen sind berechtigt, die Daten nach
 Satz 1 zur Erfüllung ihrer Aufgaben nach dieser Verordnung,
 insbesondere nach § 5 Abs. 1 Satz 2 und Abs. 6 und § 31 Abs. 4 Satz 1,
 für 32 Monate zu speichern.
+
+(5) Stellt der Spitzenverband Bund der Krankenkassen fest, dass zu
+einem Versichertenpseudonym, zu dem mehr als eine Krankenkasse Daten
+gemeldet hat, in der Summe mehr Versicherungstage übermittelt wurden
+als das Ausgleichsjahr an Kalendertagen aufweist, oder dass
+unterschiedliche Angaben zu Geburtsjahr und Geschlecht übermittelt
+wurden, teilt er den betroffenen Krankenkassen das jeweilige
+Versichertenpseudonym, die Art des Fehlers sowie die jeweils andere
+betroffene Krankenkasse mit, um eine Klärung der
+Versichertenverhältnisse herbeizuführen. Das Nähere über das Verfahren
+bestimmt der Spitzenverband Bund der Krankenkassen.
 
 
 ### § 31 Auswahl und Anpassung des Klassifikationsmodells
@@ -2133,19 +1978,23 @@ Altersabstände bestimmen. Das Bundesversicherungsamt kann nach
 Anhörung des Spitzenverbandes Bund der Krankenkassen die Festlegungen
 nach Satz 1 unterjährig anpassen, wenn die allgemein gültige Kodierung
 der Diagnosen oder die Arzneimittelklassifikation aktualisiert wird.
-Die Anpassungen nach Satz 6 sind in geeigneter Weise bekannt zu geben.
-Die Datenmeldungen nach § 30 Absatz 1 für Versicherte im Sinne des
-Absatzes 5 Satz 1 bleiben beim Regressionsverfahren zur Ermittlung der
-Gewichtungsfaktoren und dem Berechnungsverfahren zur Ermittlung der
-Risikozuschläge nach Satz 1 unberücksichtigt. Im Einvernehmen mit dem
-Spitzenverband Bund der Krankenkassen kann das Bundesversicherungsamt
-die Mitgliedergruppen nach § 29 Nummer 4 abweichend abgrenzen. Für die
-Ermittlung der Zuweisungen zur Deckung der standardisierten
-Leistungsausgaben der Krankenkassen für den Bereich der
-Schutzimpfungen nach der Verordnung über die Leistungspflicht der
-gesetzlichen Krankenversicherung bei Schutzimpfungen gegen die neue
-Influenza A(H1N1) vom 19. August 2009 (BAnz. S. 2889) ist § 37 Absatz
-4 entsprechend anzuwenden.
+Die Festlegungen nach Satz 1 sind für die Ausgleichsjahre 2013 und
+2014 vom Bundesversicherungsamt nach Anhörung des Spitzenverbandes
+Bund der Krankenkassen anzupassen, soweit dies für die Umsetzung der
+Regelungen in § 41 Absatz 1 Satz 2 und 3 erforderlich ist. Die
+Anpassungen nach den Sätzen 6 und 7 sind in geeigneter Weise bekannt
+zu geben. Die Datenmeldungen nach § 30 Absatz 1 für Versicherte im
+Sinne des Absatzes 5 Satz 1 bleiben beim Regressionsverfahren zur
+Ermittlung der Gewichtungsfaktoren und dem Berechnungsverfahren zur
+Ermittlung der Risikozuschläge nach Satz 1 unberücksichtigt. Im
+Einvernehmen mit dem Spitzenverband Bund der Krankenkassen kann das
+Bundesversicherungsamt die Mitgliedergruppen nach § 29 Nummer 4
+abweichend abgrenzen. Für die Ermittlung der Zuweisungen zur Deckung
+der standardisierten Leistungsausgaben der Krankenkassen für den
+Bereich der Schutzimpfungen nach der Verordnung über die
+Leistungspflicht der gesetzlichen Krankenversicherung bei
+Schutzimpfungen gegen die neue Influenza A(H1N1) vom 19. August 2009
+(BAnz. S. 2889) ist § 37 Absatz 4 entsprechend anzuwenden.
 
 (5) Für Versicherte, die während des überwiegenden Teils des dem
 Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen
@@ -2166,11 +2015,17 @@ Krankenkassen kann das Bundesversicherungsamt innerhalb der nach Satz
 2 zu bildenden Risikogruppe weitere Differenzierungen vornehmen.
 Sofern Versicherte sowohl der Risikogruppe nach Satz 1 als auch der
 Risikogruppe nach Satz 2 zuzuordnen sind, ist die Risikogruppe nach
-Satz 1 maßgeblich. Die Risikogruppen nach Satz 1 werden erstmals im
-monatlichen Ausgleich nach § 39 Absatz 3 zum 31. März 2009 auf der
-Grundlage von Schätzungen berücksichtigt, die Risikogruppen nach Satz
-2 werden erstmals im Jahresausgleich nach § 41 für das Ausgleichsjahr
-2009 berücksichtigt.
+Satz 1 maßgeblich. Als Leistungsausgaben für die Risikogruppen nach
+Satz 1 werden die von den Krankenkassen in der Jahresrechnung
+gebuchten Ausgaben für im Ausland erbrachte Leistungen zu Grunde
+gelegt; danach sind, entsprechend den Bestimmungen des Kontenrahmens,
+die Bereiche pauschalierter oder nach dem tatsächlichen Aufwand
+berechneter Erstattungen an ausländische Versicherungsträger sowie
+Erstattungen an Arbeitgeber nach § 17 des Fünften Buches
+Sozialgesetzbuch zu berücksichtigen. Der Spitzenverband Bund der
+Krankenkassen kann im Einvernehmen mit dem Bundesversicherungsamt eine
+weitergehende oder abweichende Bestimmung der Bereiche, die
+Aufwendungen für Leistungen im Ausland betreffen, treffen.
 
 
 ### § 32 Datenmeldungen für den monatlichen Ausgleich
@@ -2195,318 +2050,108 @@ Bundesversicherungsamt über den Spitzenverband Bund der Krankenkassen
 maschinell verwertbar vor. § 30 Absatz 4 Satz 4 gilt entsprechend.
 
 
-### § 33 Übergangsregelungen zur Einführung des Gesundheitsfonds – Begriffsbestimmungen
-
-(1) Das Nähere zur Umsetzung der Vorgaben des § 272 des Fünften Buches
-Sozialgesetzbuch wird in den §§ 33a bis 33c geregelt, für die die
-folgenden Absätze gelten.
-
-(2) Eine in einem Land tätige Krankenkasse ist eine Krankenkasse, die
-Versicherte mit Wohnsitz in dem jeweiligen Land aufweist. Alle in
-einem Land tätigen Krankenkassen sind alle Krankenkassen, die
-Versicherte mit Wohnsitz in dem jeweiligen Land aufweisen.
-
-(3) Versicherte mit Wohnsitz außerhalb des Gebietes der Bundesrepublik
-Deutschland bleiben unberücksichtigt.
-
-
-### § 33a Ermittlung der fortgeschriebenen Einnahmen
-
-(1) Die Höhe der fortgeschriebenen Einnahmen der in einem Land tätigen
-Krankenkassen im Sinne des § 272 des Fünften Buches Sozialgesetzbuch
-wird nach Maßgabe der folgenden Absätze ermittelt. Grundlage sind die
-nach § 34 Abs. 1 Satz 1 Nr. 2 und 3 sowie Abs. 1a für das Berichtsjahr
-2008 erhobenen Daten. Abweichend von Satz 2 ist für das monatliche
-Abschlagsverfahren im Jahr 2009 das Berichtsjahr 2007 maßgeblich.
-
-(2) Die am 30. Juni 2008 geltenden Beitragssätze der Krankenkassen
-sind die am 30. Juni 2008 geltenden allgemeinen Beitragssätze nach §
-241 Abs. 1 des Fünften Buches Sozialgesetzbuch in der bis zum 31.
-Dezember 2008 geltenden Fassung zuzüglich des zusätzlichen
-Beitragssatzes nach § 241a des Fünften Buches Sozialgesetzbuch in der
-bis zum 31. Dezember 2008 geltenden Fassung, bereinigt um die nach §
-222 Abs. 6 des Fünften Buches Sozialgesetzbuch in der bis zum 31.
-Dezember 2008 geltenden Fassung in der Satzung der Krankenkasse
-ausgewiesenen Beitragssatzanteile. Die so bereinigten Beitragssätze
-aller in einem Land tätigen Krankenkassen werden je Krankenkasse mit
-der Summe ihrer in dem Land wohnhaften Mitglieder vervielfacht. Der
-bundeslandspezifische Beitragssatz wird ermittelt, indem die Summe der
-Ergebnisse nach Satz 2 aller in einem Land tätigen Krankenkassen durch
-die Summe der in dem Land wohnhaften Mitglieder geteilt wird.
-
-(3) Die Summe der Einnahmen aller in einem Land tätigen Krankenkassen
-ergibt sich, indem die beitragspflichtigen Einnahmen aus
-Arbeitsentgelt der Mitglieder aller in einem Land tätigen
-Krankenkassen nach § 34 Abs. 1a Satz 1 Nr. 1 mit dem nach Absatz 2
-ermittelten jeweiligen bundeslandspezifischen Beitragssatz
-vervielfacht und durch die Zahl 100 geteilt wird. Das Ergebnis nach
-Satz 1 wird anschließend mit den Beiträgen nach § 34 Abs. 1a Satz 1
-Nr. 2 bis 8 und Satz 6 für alle in einem Land tätigen Krankenkassen
-zusammengezählt.
-
-(4) Die nach Absatz 3 ermittelten Einnahmen sind nach Maßgabe der
-Absätze 5 und 6 um die ab 2009 ermittelten Ausgleichsansprüche und
-Ausgleichsverpflichtungen auf Grund des Risikostrukturausgleichs und
-des Risikopools in der bis zum 31. Dezember 2008 geltenden Fassung zu
-bereinigen. Die bereinigten Einnahmen werden auf das jeweilige
-Ausgleichsjahr entsprechend der Veränderungsrate nach § 71 Abs. 3 des
-Fünften Buches Sozialgesetzbuch fortgeschrieben.
-
-(5) Die Ausgleichsansprüche und Ausgleichsverpflichtungen auf Grund
-des Risikostrukturausgleichs werden wie folgt ermittelt:
-
-1.  Der Beitragsbedarf aller in einem Land tätigen Krankenkassen wird aus
-    der Summe der standardisierten Leistungsausgaben nach § 6 aller in
-    einem Land tätigen Krankenkassen anhand der nach § 34 Abs. 1 erhobenen
-    Daten in entsprechender Anwendung des § 10 ermittelt;
-
-
-2.  die beitragspflichtigen Einnahmen der Mitglieder aller in einem Land
-    tätigen Krankenkassen ergeben sich, indem die Summe der Einnahmen
-    aller in einem Land tätigen Krankenkassen nach Absatz 3 durch den
-    bundeslandspezifischen Beitragssatz nach Absatz 2 geteilt und mit der
-    Zahl 100 vervielfacht wird;
-
-
-3.  die Finanzkraft aller in einem Land tätigen Krankenkassen ergibt sich,
-    indem die beitragspflichtigen Einnahmen der Mitglieder aller in einem
-    Land tätigen Krankenkassen nach Nummer 2 mit dem ab 2009 nach Nummer 4
-    zu ermittelnden Ausgleichsbedarfssatz vervielfacht und durch die Zahl
-    100 geteilt werden;
-
-
-4.  der anzuwendende Ausgleichsbedarfssatz ergibt sich, indem die Summe
-    der nach Nummer 1 berechneten Beitragsbedarfe aller Krankenkassen
-    durch die Summe der nach Nummer 2 ermittelten beitragspflichtigen
-    Einnahmen der Mitglieder aller Krankenkassen geteilt und mit der Zahl
-    100 vervielfacht wird;
-
-
-5.  die Höhe des Ausgleichsanspruchs oder der Ausgleichsverpflichtung
-    aller in einem Land tätigen Krankenkassen ergibt sich durch einen
-    Vergleich des nach Nummer 1 berechneten Beitragsbedarfs mit der nach
-    Nummer 3 ermittelten Finanzkraft in entsprechender Anwendung des § 16;
-
-
-6.  die nach Absatz 3 ermittelte Summe der Einnahmen aller in einem Land
-    tätigen Krankenkassen ist um die Höhe des Ausgleichsanspruchs oder der
-    Ausgleichsverpflichtung nach Nummer 5 zu bereinigen.
-
-
-
-
-(6) Die Ausgleichsansprüche und Ausgleichsverpflichtungen auf Grund
-des Risikopools werden wie folgt ermittelt:
-
-1.  Die ausgleichsfähigen Leistungsausgaben aller in einem Land tätigen
-    Krankenkassen werden in entsprechender Anwendung des § 28a Abs. 4 Nr.
-    1 ermittelt;
-
-
-2.  die Finanzkraft aller in einem Land tätigen Krankenkassen wird in
-    entsprechender Anwendung des § 28a Abs. 4 Nr. 2 und von Absatz 5 Nr. 3
-    ermittelt;
-
-
-3.  die nach Absatz 5 Nr. 6 ermittelte Summe der bereinigten Einnahmen ist
-    um die nach Nummer 1 ermittelten ausgleichsfähigen Leistungsausgaben
-    zu erhöhen und um die nach Nummer 2 ermittelte Finanzkraft zu
-    vermindern.
-
-
-
-
-
-### § 33b Ermittlung der Zuweisungen
-
-(1) Die Zuweisungen aus dem Gesundheitsfonds an die Krankenkassen für
-ihre in einem Land wohnhaften Versicherten im Sinne des § 272 des
-Fünften Buches Sozialgesetzbuch werden nach Maßgabe der folgenden
-Absätze auf der Grundlage der nach § 34 Abs. 1 Satz 1 Nr. 1 erhobenen
-Daten ermittelt.
-
-(2) Die Zuweisungen, die Krankenkassen aus dem Gesundheitsfonds zur
-Deckung ihrer Ausgaben nach den §§ 266 und 270 des Fünften Buches
-Sozialgesetzbuch in der ab dem 1. Januar 2009 geltenden Fassung für
-ihre Versicherten erhalten, werden anteilig um die Beteiligungen des
-Bundes an Aufwendungen nach § 221 des Fünften Buches Sozialgesetzbuch
-und die Einnahmen aus geringfügiger Beschäftigung nach § 8 des Vierten
-Buches Sozialgesetzbuch gekürzt.
-
-(3) Die nach Absatz 2 ermittelten Zuweisungen werden je Krankenkasse
-durch die Versicherungstage der Versicherten der Krankenkasse geteilt
-und mit den Versicherungstagen der in dem Land wohnhaften Versicherten
-vervielfacht. Die Summe der Ergebnisse nach Satz 1 aller in einem Land
-tätigen Krankenkassen ergibt die bundeslandspezifischen Zuweisungen.
-Außer Betracht bleiben die auf Grund der Anwendung des § 33c Abs. 2
-eingetretenen Veränderungen der Zuweisungen an die Krankenkassen für
-die in einem Land wohnhaften Versicherten.
-
-
-### § 33c Durchführung der Übergangsregelungen
-
-(1) Das Bundesversicherungsamt stellt für jedes Ausgleichsjahr und für
-jedes Land die Höhe der nach § 33a ermittelten bereinigten Einnahmen
-aller in einem Land tätigen Krankenkassen den nach § 33b ermittelten
-Zuweisungen aus dem Gesundheitsfonds an alle Krankenkassen für ihre in
-diesem Land wohnhaften Versicherten gegenüber. Dabei ist
-sicherzustellen, dass die Summe der Zuweisungen an alle Krankenkassen
-der Summe der bereinigten Einnahmen aller Krankenkassen entspricht,
-indem die Summe der Zuweisungen an alle Krankenkassen durch die Summe
-der bereinigten Einnahmen aller Krankenkassen geteilt wird und das
-Ergebnis jeweils mit den bereinigten Einnahmen aller in einem Land
-tätigen Krankenkassen im Sinne des § 33a vervielfacht wird. Ergibt die
-Gegenüberstellung, dass die Einnahmen aller in einem Land tätigen
-Krankenkassen ihre Zuweisungen aus dem Gesundheitsfonds in der Summe
-übersteigen, liegt eine Belastung vor.
-
-(2) Ergibt die Gegenüberstellung nach Absatz 1, dass die Belastung
-aller in einem Land tätigen Krankenkassen im Jahr 2009 einen Betrag
-von 100 Millionen Euro (Schwellenwert) übersteigt, sind die
-Zuweisungen an die Krankenkassen für ihre Versicherten mit Wohnsitz in
-diesem Land im Jahresausgleich so zu erhöhen, dass die Belastung den
-Schwellenwert genau erreicht; die Differenz zwischen der Belastung
-aller in einem Land tätigen Krankenkassen und dem Schwellenwert ergibt
-den Kappungsbetrag. Der Betrag, um den die Zuweisungen an die
-Krankenkassen für ihre Versicherten mit Wohnsitz in diesem Land zu
-erhöhen sind, wird ermittelt, indem der Kappungsbetrag durch die
-Versicherungstage der in dem Land wohnhaften Versicherten geteilt und
-je Krankenkasse mit den Versicherungstagen der in dem Land wohnhaften
-Versicherten vervielfacht wird. Ab 2010 erhöht sich der Schwellenwert
-nach Satz 1 in jährlichen Schritten um jeweils 100 Millionen Euro. §
-39 Abs. 1 bis 4 gilt entsprechend.
-
-(3) Die Regelungen des Absatzes 2 finden nur Anwendung, wenn die
-Gegenüberstellung nach Absatz 1 eine Überschreitung des
-Schwellenwertes im Sinne des Absatzes 2 ergibt. Die Regelungen der §§
-33 bis 33b sowie der Absätze 1 und 2 finden letztmalig in dem Jahr
-Anwendung, das dem Jahr vorausgeht, in dem erstmalig in keinem Land
-eine Überschreitung des Schwellenwertes nach Absatz 2 festgestellt
-wurde.
-
-
-### § 34 Datenerhebungen und Gutachtenerstellung zu den Übergangsregelungen zur Einführung des Gesundheitsfonds
-
-(1) Für die Schätzung der Belastungen auf Grund der Einführung der
-Verteilungskriterien des Gesundheitsfonds für die in einem Land
-tätigen Krankenkassen (§ 272 des Fünften Buches Sozialgesetzbuch)
-erheben die Krankenkassen ab dem Berichtsjahr 2007 zusätzlich zur
-Datenerhebung nach § 30 folgende Angaben versichertenbezogen:
-
-1.  die Postleitzahl des Wohnortes des Versicherten,
-
-
-2.  die Anzahl der Versichertentage mit einer Einschreibung in ein
-    strukturiertes Behandlungsprogramm nach § 2 Abs. 1 Satz 3 und
-
-
-3.  die Anzahl der Versichertentage mit einer Zuordnung zu jeweils einer
-    Versichertengruppe nach § 2 Abs. 1 Satz 2 Nr. 1, 2 oder 4
-    differenziert nach der Einschreibung in ein strukturiertes
-    Behandlungsprogramm nach § 2 Abs. 1 Satz 3.
-
-
-
-Die Spitzenverbände der Krankenkassen vereinbaren im Einvernehmen mit
-dem Bundesversicherungsamt in der Vereinbarung nach § 267 Abs. 7 Nr. 1
-und 2 des Fünften Buches Sozialgesetzbuch das Nähere über die
-zeitliche Zuordnung der Angabe nach Satz 1 Nr. 1. § 30 Abs. 2 und 4
-gilt entsprechend. Zur Erfüllung des in Satz 1 genannten Zwecks kann
-das Bundesversicherungsamt von den Krankenkassen weitere Auskünfte und
-Nachweise verlangen.
-
-(1a) Zusätzlich zu den Angaben nach Absatz 1 erheben die Krankenkassen
-ab dem Berichtsjahr 2007 folgende Angaben nicht versichertenbezogen
-nach Ländern differenziert:
-
-1.  das in der Krankenversicherung beitragspflichtige Arbeitsentgelt auf
-    der Grundlage der Meldungen nach § 28a Abs. 3 Satz 2 Nr. 2 Buchstabe b
-    und Nr. 4 des Vierten Buches Sozialgesetzbuch,
-
-
-2.  Beiträge aus der Künstlersozialversicherung,
-
-
-3.  die von freiwilligen Mitgliedern gezahlten Beiträge sowie die von
-    versicherungspflichtigen Mitgliedern nach § 5 Abs. 1 Nr. 13 des
-    Fünften Buches Sozialgesetzbuch selbst gezahlten Beiträge,
-
-
-4.  die für Bezieher von Arbeitslosengeld und Übergangsgeld nach den §§
-    160 bis 162 des Dritten Buches Sozialgesetzbuch gezahlten Beiträge,
-
-
-5.  die für versicherungspflichtige Bezieher von Arbeitslosengeld II
-    gezahlten Beiträge,
-
-
-6.  die von versicherungspflichtigen Studenten und Praktikanten gezahlten
-    Beiträge,
-
-
-7.  die Beitragszahlungen aus der Rente und
-
-
-8.  die Beitragszahlungen aus Versorgungsbezügen durch die Zahlstellen.
-
-
-
-§ 30 Abs. 4 Satz 1 gilt entsprechend. Zur Erhebung der Angaben nach
-Satz 1 erhalten die zuständigen Krankenkassen jährlich über ihre
-Spitzenverbände Meldungen
-
-1.  der Künstlersozialkasse über die Höhe der Beiträge ihrer Mitglieder
-    summarisch, differenziert nach Ländern bis zum 15. August, erstmals
-    bis zum 15. August 2008,
-
-
-2.  der Bundesagentur für Arbeit über die für die Bezieher von
-    Arbeitslosengeld gezahlten Beiträge sowie die für eine pauschalierte
-    Berücksichtigung der Beiträge aus Übergangsgeld nach den §§ 160 bis
-    162 des Dritten Buches Sozialgesetzbuch erforderlichen Angaben
-    länderbezogen bis zum 31. Juli, erstmals bis zum 15. August 2008,
-
-
-3.  der Rentenversicherungsträger über die für eine länderbezogene
-    Ermittlung der Beiträge aus der Rente erforderlichen Angaben, die auch
-    pauschaliert werden können, bis zum 31. Juli, erstmals bis zum 15.
-    August 2008.
-
-
-
-Bei geringfügigen Beschäftigungen meldet die nach § 28i Satz 5 des
-Vierten Buches Sozialgesetzbuch zuständige Stelle die Angaben zur
-Ermittlung der Beiträge zur Krankenversicherung länderbezogen jährlich
-bis zum 31. Juli, erstmals bis zum 15. August 2008 an das
-Bundesversicherungsamt. Das Nähere hierzu vereinbaren die nach § 28i
-Satz 5 des Vierten Buches Sozialgesetzbuch zuständige Stelle und das
-Bundesversicherungsamt. Die Spitzenverbände der Krankenkassen
-vereinbaren im Einvernehmen mit dem Bundesversicherungsamt in der
-Vereinbarung nach § 267 Abs. 7 Nr. 1 und 2 des Fünften Buches
-Sozialgesetzbuch das Nähere über die pauschale Ermittlung der Angaben
-nach Satz 1 Nr. 5 und 8 sowie des Übergangsgelds nach Nr. 4. Das
-Nähere zu den Meldungen nach Satz 3 Nr. 1, 2 und 3 vereinbaren die
-Spitzenverbände der Krankenkassen mit den jeweiligen Trägern. Bei
-sonstigen Beitragszahlungen bestimmt das Bundesversicherungsamt nach
-Anhörung der Spitzenverbände der Krankenkassen einen
-Verteilungsschlüssel auf die Länder.
-
-(2) Die Datenerhebung nach Absatz 1 erfolgt letztmalig in dem Jahr, in
-dem die Voraussetzung nach § 272 Abs. 3 des Fünften Buches
-Sozialgesetzbuch erfüllt wurde.
-
-(3) Das wissenschaftliche Gutachten nach § 272 Abs. 4 Satz 2 und 3 des
-Fünften Buches Sozialgesetzbuch ist bis zum 31. März 2008
-fertigzustellen. Gegenstand des Gutachtens ist es insbesondere, die
-Fragen zur Berechnung und Durchführung der Konvergenzregelung (§ 272
-des Fünften Buches Sozialgesetzbuch) zu untersuchen,
-Verfahrensvorschläge zur Lösung von Umsetzungsfragen zu unterbreiten
-und die länderbezogenen Transferwirkungen zu quantifizieren.
-
-
-### Schlußformel
-
-Der Bundesrat hat zugestimmt.
+### § 33 Gutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte
+
+(1) Das Bundesversicherungsamt beauftragt Personen oder
+Personengruppen, die über besonderen Sachverstand in Bezug auf die
+Versichertenklassifikation nach § 31 Absatz 4 verfügen, mit der
+Erstellung von einem oder mehreren wissenschaftlichen Gutachten nach §
+269 Absatz 3 des Fünften Buches Sozialgesetzbuch.
+
+(2) Die Gutachten sollen Vorschläge unterbreiten, wie die Zuweisungen
+zur Deckung der Aufwendungen für Krankengeld und die Zuweisungen für
+Versicherte, die während des überwiegenden Teils des dem
+Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen
+Aufenthalt außerhalb des Gebiets der Bundesrepublik Deutschland
+hatten, zielgerichteter ermittelt werden können. Die Vorgaben des §
+268 Absatz 1 Satz 1 Nummer 2 bis 4 sind bei der Entwicklung der
+Modelle zu beachten. Dabei ist auch die Notwendigkeit einer
+Verbreiterung der Datengrundlage zu prüfen.
+
+(3) Im Gutachten zu den Zuweisungen zur Deckung der Aufwendungen für
+Krankengeld soll zunächst untersucht werden, welche der
+Bestimmungsfaktoren, die die Höhe der Krankengeldausgaben einer
+Krankenkasse maßgeblich beeinflussen, zusätzlich zu berücksichtigen
+sind und mit Hilfe welcher Daten sich diese Bestimmungsfaktoren
+abbilden und erheben lassen, um die Zielsetzung nach Absatz 2 Satz 1
+zu erreichen.
+
+(4) Im Gutachten zu den Zuweisungen für Versicherte, die während des
+überwiegenden Teils des dem Ausgleichsjahr vorangegangenen Jahres
+ihren Wohnsitz oder gewöhnlichen Aufenthalt außerhalb des Gebiets der
+Bundesrepublik Deutschland hatten, soll zunächst untersucht werden,
+welche der Bestimmungsfaktoren, die die Höhe der Ausgaben einer
+Krankenkasse für diese Versichertengruppen maßgeblich beeinflussen,
+zusätzlich zu berücksichtigen sind und mit Hilfe welcher Daten sich
+diese Bestimmungsfaktoren abbilden und erheben lassen, um eine
+Verbesserung der Zielgerichtetheit nach Absatz 2 Satz 1 zu erreichen.
+Dabei sollen auch Vorschläge zur Verbesserung der Qualität,
+Transparenz und Abgrenzung der Daten unterbreitet werden.
+
+(5) Das Bundesversicherungsamt hat sicherzustellen, dass die
+Untersuchungen nach den Absätzen 3 und 4 jeweils bis zum 31. Dezember
+2015 abgeschlossen sind.
+
+
+### § 33a Folgegutachten zu Zuweisungen zur Deckung der Aufwendungen für Krankengeld und Auslandsversicherte
+
+(1) Das Bundesversicherungsamt beauftragt Personen oder
+Personengruppen, die über besonderen Sachverstand in Bezug auf die
+Versichertenklassifikation nach § 31 Absatz 4 verfügen, mit der
+Erstellung von wissenschaftlichen Folgegutachten nach § 269 Absatz 3a
+des Fünften Buches Sozialgesetzbuch.
+
+(2) In den Gutachten nach Absatz 1 sollen insbesondere die in den
+Gutachten nach § 33 Absatz 2 entwickelten Modelle zur
+zielgerichteteren Ermittlung der Zuweisungen zur Deckung der
+Aufwendungen für Krankengeld und zur Deckung der Aufwendungen für
+Versicherte, die während des überwiegenden Teils des dem
+Ausgleichsjahr vorangegangenen Jahres ihren Wohnsitz oder gewöhnlichen
+Aufenthalt außerhalb des Gebiets der Bundesrepublik Deutschland hatten
+(Auslandsversicherte), auf Basis von Daten aller am
+Risikostrukturausgleich teilnehmenden Krankenkassen überprüft und zur
+Umsetzungsreife weiterentwickelt werden. Die Vorgaben des § 268 Absatz
+1 Satz 1 Nummer 2 bis 4 des Fünften Buches Sozialgesetzbuch sind bei
+der Überprüfung und Weiterentwicklung der Modelle zu beachten.
+
+(3) Im Folgegutachten nach § 269 Absatz 3b des Fünften Buches
+Sozialgesetzbuch sollen insbesondere die im Gutachten nach § 33 Absatz
+3 enthaltenen Modelle überprüft und weiterentwickelt werden, bei denen
+die Zuweisungen für Versicherte mit Krankengeldanspruch nach § 44 des
+Fünften Buches Sozialgesetzbuch auf Grundlage standardisierter
+Krankengeldbezugszeiten und versichertenindividuell geschätzter
+Krankengeldzahlbeträge ermittelt werden; bei der Standardisierung der
+Krankengeldbezugszeiten sind Morbiditätskriterien einzubeziehen.
+Darüber hinaus ist zu überprüfen, ob und inwieweit die Einbeziehung
+von weiteren Angaben gemäß § 269 Absatz 3b Satz 2 des Fünften Buches
+Sozialgesetzbuch in das Modell umsetzbar ist, ob dies zu einer
+Verbesserung der Zielgenauigkeit des Modells führt und ob ergänzend
+eine Regelung entsprechend § 41 Absatz 1 Satz 3 oder einer
+alternativen anteiligen Berücksichtigung der tatsächlichen
+Aufwendungen der Krankenkassen für das Krankengeld nach § 44 des
+Fünften Buches Sozialgesetzbuch erforderlich ist. Zudem ist ein
+gesondertes Modell zu entwickeln, in dem für jede Krankenkasse die
+Zuweisungen für die Aufwendungen für das Krankengeld nach § 45 des
+Fünften Buches Sozialgesetzbuch auf Grundlage der diesbezüglich
+tatsächlichen Aufwendungen der Krankenkasse zu ermitteln sind.
+
+(4) Im Folgegutachten nach § 269 Absatz 3c des Fünften Buches
+Sozialgesetzbuch sollen Modelle zur landesspezifischen Differenzierung
+der Zuweisungen für Auslandsversicherte auf Grundlage der Erkenntnisse
+des Gutachtens nach § 33 Absatz 4 geprüft und weiterentwickelt werden.
+Darüber hinaus ist zu überprüfen, ob und in welcher Form eine
+ergänzende Regelung entsprechend der Regelung in § 41 Absatz 1 Satz 2
+erforderlich ist. Außerdem ist unter Beachtung von Absatz 2 Satz 2 zu
+prüfen, ob und wie alternativ ein Verfahren ausgestaltet werden kann,
+in dem die Zuweisungen für Auslandsversicherte für jede Krankenkasse
+auf der Grundlage der tatsächlichen Aufwendungen der Krankenkasse für
+diese Versicherten ermittelt werden.
+
+(5) Die Gutachten nach den Absätzen 3 und 4 sind dem
+Bundesversicherungsamt jeweils bis zum 31. Dezember 2019 zu erstatten.
+
+
+### (XXXX) §§ 33b bis 34 (weggefallen)
 
 
 ## Achter Abschnitt - Zuweisungen aus dem Gesundheitsfonds (Risikostrukturausgleich) ab 2009
@@ -2793,9 +2438,9 @@ folgenden Monats ausgezahlt.
 
 (5) Die dem Bundesversicherungsamt auf Grund der Verwaltung des
 Gesundheitsfonds entstehenden Ausgaben einschließlich der Ausgaben für
-die Durchführung des Risikostrukturausgleichs werden aus den Einnahmen
-des Gesundheitsfonds nach § 271 des Fünften Buches Sozialgesetzbuch
-getragen.
+die Durchführung und Weiterentwicklung des Risikostrukturausgleichs
+werden aus den Einnahmen des Gesundheitsfonds nach § 271 des Fünften
+Buches Sozialgesetzbuch getragen.
 
 
 ### § 39a Ermittlung des Korrekturbetrags
@@ -2861,7 +2506,9 @@ angepasst; die Anpassung kann alters- und geschlechtsbezogen erfolgen.
 Differenzbetrags nach Absatz 2 Satz 3. Der Korrekturbetrag bei einer
 Korrekturmeldung ergibt sich, indem zusätzlich zum Differenzbetrag
 nach Absatz 2 Satz 4 ein Aufschlag in Höhe von 25 Prozent des
-Differenzbetrags erhoben wird. § 39 Absatz 3a Satz 3 bis 6 gilt
+Differenzbetrags erhoben wird. Auf die Erhebung des Aufschlags kann
+ganz oder teilweise verzichtet werden, wenn die Erhebung nach Lage des
+einzelnen Falls unbillig wäre. § 39 Absatz 3a Satz 3 bis 6 gilt
 entsprechend. Die Einnahmen nach diesem Absatz und die Zinserträge
 fließen in den Gesundheitsfonds und werden im nächsten Jahresausgleich
 zu dem Wert nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
@@ -2900,19 +2547,9 @@ Zuweisungen für jede Krankenkasse zu verändern sind, indem es
     Zuweisungen entsprechende Anteile enthalten, abzieht,
 
 
-3.  bei einem negativen Ergebnis nach Nummer 2 das Ergebnis nach Nummer 2
-    durch die voraussichtliche jahresdurchschnittliche Zahl der Mitglieder
-    aller Krankenkassen, verringert um die Anzahl der Mitglieder nach §
-    242 Absatz 5 des Fünften Buches Sozialgesetzbuch, und durch die Zahl
-    12 teilt und für jede Krankenkasse mit der um die Anzahl der
-    Mitglieder nach § 242 Absatz 5 des Fünften Buches Sozialgesetzbuch
-    verringerten Zahl ihrer Mitglieder, die zum Ersten eines Monats in der
-    Monatsstatistik des Vorvormonats gemeldet ist, vervielfacht,
-
-
-4.  anderenfalls das Ergebnis nach Nummer 2 durch die voraussichtliche
+3.  das Ergebnis nach Nummer 2 durch die voraussichtliche
     jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen und
-    die Zahl 12 teilt und für jede Krankenkasse mit der Zahl ihrer
+    durch die Zahl 12 teilt und für jede Krankenkasse mit der Zahl ihrer
     Mitglieder, die zum Ersten eines Monats in der Monatsstatistik des
     Vorvormonats gemeldet ist, vervielfacht.
 
@@ -2938,18 +2575,19 @@ und Rechnungsergebnisse aller am monatlichen Ausgleich teilnehmenden
 Krankenkassen für das jeweilige abgelaufene Kalenderjahr
 (Ausgleichsjahr)
 
-1.  die alters-, geschlechts- und risikoadjustierten Zu- und Abschläge,
+1.  die alters-, geschlechts- und risikoadjustierten Zu- und Abschläge und
 
 
 2.  die Werte nach § 37 Absatz 1 Satz 2 Nummer 2 und 3 sowie Absatz 4 Satz
-    2 Nummer 2 und
-
-
-3.  die Erhöhung der Zuweisungen nach § 33c Absatz 2
+    2 Nummer 2
 
 
 
-neu. § 37 Absatz 1 Satz 3 gilt entsprechend.
+neu. Die Summe der Risikozuschläge nach § 31 Absatz 5 Satz 1 ist auf
+die Summe der Leistungsausgaben nach § 31 Absatz 5 Satz 5 und 6 zu
+begrenzen. Die Hälfte der Zuweisungen für die Versichertengruppen nach
+§ 29 Nummer 4 ist für jede Krankenkasse auf der Grundlage der
+Aufwendungen der Krankenkasse für Krankengeld zu ermitteln.
 
 (2) Das Bundesversicherungsamt ermittelt für jede Krankenkasse den
 Betrag, um den die Zuweisungen für jede Krankenkasse im
@@ -2961,22 +2599,13 @@ Jahresausgleich nach Absatz 3 zu verändern sind, indem es
     Ausgaben nach § 270 des Fünften Buches Sozialgesetzbuch der
     Krankenkassen, bereinigt um die auf standardisierte Leistungsausgaben
     sowie Verwaltungskosten entfallenden Anteile der Zuweisungen nach §
-    38, sofern diese Zuweisungen entsprechende Anteile enthalten, abzieht,
+    38, sofern diese Zuweisungen entsprechende Anteile enthalten, abzieht
+    und
 
 
-2.  bei einem negativen Ergebnis nach Nummer 1 das Ergebnis nach Nummer 1
-    durch die jahresdurchschnittliche Zahl der Mitglieder aller
-    Krankenkassen, verringert um die Anzahl der Mitglieder nach § 242
-    Absatz 5 des Fünften Buches Sozialgesetzbuch, teilt und für jede
-    Krankenkasse mit der jahresdurchschnittlichen, um die Anzahl der
-    Mitglieder nach § 242 Absatz 5 des Fünften Buches Sozialgesetzbuch
-    verringerten Zahl ihrer Mitglieder vervielfacht,
-
-
-3.  anderenfalls das Ergebnis nach Nummer 1 durch die
-    jahresdurchschnittliche Zahl der Mitglieder aller Krankenkassen teilt
-    und für jede Krankenkasse mit der jahresdurchschnittlichen Zahl ihrer
-    Mitglieder vervielfacht.
+2.  das Ergebnis nach Nummer 1 durch die jahresdurchschnittliche Zahl der
+    Mitglieder aller Krankenkassen teilt und für jede Krankenkasse mit der
+    jahresdurchschnittlichen Zahl ihrer Mitglieder vervielfacht.
 
 
 
@@ -3004,16 +2633,7 @@ Zuweisungen die monatlichen Zuweisungen, ist der Unterschiedsbetrag an
 den Gesundheitsfonds zu zahlen. § 39 Absatz 3a Satz 3 bis 6 gilt
 entsprechend.
 
-(4a) Unterschreitet die Höhe der nach Absatz 3 ermittelten Zuweisungen
-nach § 33c Absatz 2 die entsprechenden monatlichen Zuweisungen im
-Jahresausgleich für das Ausgleichsjahr 2009, wird der an den
-Gesundheitsfonds zu zahlende entsprechende Unterschiedsbetrag
-abweichend von § 39 Absatz 3a Satz 3 im Jahr 2011 in zwölf gleichen
-Teilbeträgen fällig, und zwar jeweils zum ersten Bankarbeitstag eines
-Monats. Auf Antrag einer Krankenkasse kann das Bundesversicherungsamt
-die Teilbeträge nach Satz 1 abweichend festlegen, wenn ansonsten
-nachweislich die Zahlungsfähigkeit der Krankenkasse gefährdet wäre. §
-39 Absatz 3a Satz 6 gilt nicht.
+(4a) (weggefallen)
 
 (5) Der Jahresausgleich ist bis zum Ende des auf das Ausgleichsjahr
 folgenden Jahres durchzuführen und im nächsten Jahresausgleich auf
@@ -3111,6 +2731,65 @@ Bescheid geltend. § 39 Absatz 3a Satz 3 bis 6 gilt entsprechend. Die
 Einnahmen nach diesem Absatz und die Zinserträge fließen in den
 Gesundheitsfonds und werden im nächsten Jahresausgleich zu dem Wert
 nach § 41 Absatz 2 Nummer 1 hinzugerechnet.
+
+
+### § 43 Durchführung des Einkommensausgleichs
+
+(1) Das Bundesversicherungsamt ermittelt die Höhe der Mittel, die die
+Krankenkassen aus dem Einkommensausgleich nach § 270a des Fünften
+Buches Sozialgesetzbuch erhalten, und führt den Zahlungsverkehr durch.
+
+(2) Das Bundesversicherungsamt ermittelt die vorläufige Höhe der
+Mittel nach Absatz 1 für das monatliche Abschlagsverfahren und teilt
+diese den Krankenkassen mit; § 39 Absatz 2 gilt entsprechend. Die
+monatlichen Mittel für jede Krankenkasse für den jeweiligen
+Ausgleichsmonat ergeben sich, indem die voraussichtlichen
+durchschnittlichen beitragspflichtigen Einnahmen je Mitglied aller
+Krankenkassen mit dem Zusatzbeitragssatz der Krankenkasse nach § 242
+Absatz 1 des Fünften Buches Sozialgesetzbuch und der Zahl ihrer
+Mitglieder vervielfacht wird. § 39 Absatz 4 Satz 1 gilt entsprechend.
+Die Mittel für einen Ausgleichsmonat werden vollständig bis zum 15.
+des auf den Monat der ersten Auszahlung folgenden Monats ausgezahlt.
+
+(3) Das Bundesversicherungsamt berechnet auf der Grundlage der
+aktuellen Mitgliederzahlen aus den jeweils zum Ersten eines Monats
+erstellten Monatsstatistiken für die zurückliegenden Monate des
+Ausgleichsjahres zu den in § 39 Absatz 3 Satz 1 genannten Terminen die
+vorläufige Höhe der Mittel für jede Krankenkasse neu. § 39 Absatz 3
+Satz 5 und Absatz 3a gilt entsprechend.
+
+(4) Das Bundesversicherungsamt ermittelt nach Vorliegen der Geschäfts-
+und Rechnungsergebnisse aller am monatlichen Ausgleich teilnehmenden
+Krankenkassen für das Ausgleichsjahr zu dem in § 41 Absatz 5 Satz 1
+genannten Termin die Höhe der Mittel für jede Krankenkasse neu. § 41
+Absatz 4 gilt entsprechend.
+
+
+### Schlußformel
+
+Der Bundesrat hat zugestimmt.
+
+
+## Neunter Abschnitt - Aufbringung der Finanzmittel für den Innovationsfonds bei den Krankenkassen
+
+
+
+### § 44 Aufzubringende Mittel der Krankenkassen für den Innovationsfonds
+
+(1) Das Bundesversicherungsamt ermittelt für die in § 92a Absatz 3
+Satz 1 des Fünften Buches Sozialgesetzbuch genannten Jahre für jede
+Krankenkasse für das jeweilige Jahr den von dieser zu tragenden Anteil
+zur Finanzierung des Innovationsfonds, indem es jeweils den sich aus §
+92a Absatz 4 Satz 1 des Fünften Buches Sozialgesetzbuch für die
+Krankenkassen ergebenden Betrag durch die Summe der nach § 30 Absatz 1
+Satz 1 Nummer 1 von den Krankenkassen übermittelten
+Versicherungszeiten aller Krankenkassen teilt und danach das Ergebnis
+mit den Versicherungszeiten der Krankenkasse vervielfacht.
+
+(2) Das Bundesversicherungsamt hat für jede Krankenkasse das Ergebnis
+nach Absatz 1 von den Zuweisungen an die Krankenkasse nach § 266
+Absatz 1 Satz 1 des Fünften Buches Sozialgesetzbuch für das jeweilige
+Jahr abzusetzen. Die §§ 39 und 41 gelten entsprechend.
 
 
 ### (XXXX) Anlagen 1 bis 12 (weggefallen)

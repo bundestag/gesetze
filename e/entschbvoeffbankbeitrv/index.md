@@ -3,7 +3,7 @@ Title: Verordnung über die Beiträge zur Entschädigungseinrichtung des Bundesv
   Öffentlicher Banken Deutschlands GmbH
 jurabk: EntschBVöffBankBeitrV
 layout: default
-origslug: entschbv_ffbankbeitrv
+origslug: entschbvoeffbankbeitrv
 slug: entschbvoeffbankbeitrv
 
 ---

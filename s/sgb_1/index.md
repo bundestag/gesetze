@@ -16,7 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1975, 3015
 
-Stand: Zuletzt geändert Art. 11 G v. 23.10.2012 I 2246
+Zuletzt geändert durch
+:   Art. 5 G v. 14.8.2017 I 3214
+
 
 ## Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte
 
@@ -253,10 +255,9 @@ anderen Leistungsträgern mit dem Ziel zusammenzuarbeiten, eine
 möglichst umfassende Auskunftserteilung durch eine Stelle
 sicherzustellen.
 
-(4) Die Träger der gesetzlichen Rentenversicherung können über
-Möglichkeiten zum Aufbau einer nach § 10a oder Abschnitt XI des
-Einkommensteuergesetzes geförderten zusätzlichen Altersvorsorge
-Auskünfte erteilen, soweit sie dazu im Stande sind.
+(4) Die Träger der gesetzlichen Rentenversicherung sollen über
+Möglichkeiten zum Aufbau einer staatlich geförderten zusätzlichen
+Altersvorsorge produkt- und anbieterneutral Auskünfte erteilen.
 
 
 #### § 16 Antragstellung
@@ -305,13 +306,19 @@ unvollständige Angaben ergänzt werden.
 
 
 
-(2) Hörbehinderte Menschen haben das Recht, bei der Ausführung von
-Sozialleistungen, insbesondere auch bei ärztlichen Untersuchungen und
-Behandlungen, Gebärdensprache zu verwenden. Die für die Sozialleistung
-zuständigen Leistungsträger sind verpflichtet, die durch die
-Verwendung der Gebärdensprache und anderer Kommunikationshilfen
-entstehenden Kosten zu tragen; § 19 Abs. 2 Satz 4 des Zehnten Buches
-gilt entsprechend.
+(2) Menschen mit Hörbehinderungen und Menschen mit Sprachbehinderungen
+haben das Recht, bei der Ausführung von Sozialleistungen, insbesondere
+auch bei ärztlichen Untersuchungen und Behandlungen, in Deutscher
+Gebärdensprache, mit lautsprachbegleitenden Gebärden oder über andere
+geeignete Kommunikationshilfen zu kommunizieren. Die für die
+Sozialleistung zuständigen Leistungsträger sind verpflichtet, die
+durch die Verwendung der Kommunikationshilfen entstehenden Kosten zu
+tragen. § 5 der Kommunikationshilfenverordnung in der jeweils
+geltenden Fassung gilt entsprechend.
+
+(2a) § 11 des Behindertengleichstellungsgesetzes gilt in seiner
+jeweils geltenden Fassung bei der Ausführung von Sozialleistungen
+entsprechend.
 
 (3) In der Zusammenarbeit mit gemeinnützigen und freien Einrichtungen
 und Organisationen wirken die Leistungsträger darauf hin, daß sich
@@ -581,9 +588,9 @@ Anspruch genommen werden:
 Sozialversicherung für Landwirtschaft, Forsten und Gartenbau als
 landwirtschaftliche Berufsgenossenschaft, die
 Gemeindeunfallversicherungsverbände, die Feuerwehr-Unfallkassen, die
-Eisenbahn-Unfallkasse, die Unfallkasse Post und Telekom, die
 Unfallkassen der Länder und Gemeinden, die gemeinsamen Unfallkassen
-für den Landes- und kommunalen Bereich und die Unfallkasse des Bundes.
+für den Landes- und kommunalen Bereich und die Unfallversicherung Bund
+und Bahn.
 
 
 #### § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte
@@ -593,9 +600,10 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
 
 1.  in der gesetzlichen Rentenversicherung:
 
-    a)  Heilbehandlung, Leistungen zur Teilhabe am Arbeitsleben und andere
-        Leistungen zur Erhaltung, Besserung und Wiederherstellung der
-        Erwerbsfähigkeit einschließlich wirtschaftlicher Hilfen,
+    a)  Leistungen zur Prävention, Leistungen zur medizinischen
+        Rehabilitation, Leistungen zur Teilhabe am Arbeitsleben, Leistungen
+        zur Nachsorge sowie sonstige Leistungen zur Teilhabe einschließlich
+        wirtschaftlicher Hilfen,
 
 
     b)  Renten wegen Alters, Renten wegen verminderter Erwerbsfähigkeit und
@@ -619,9 +627,9 @@ der Alterssicherung der Landwirte können in Anspruch genommen werden:
 
 2.  in der Alterssicherung der Landwirte:
 
-    a)  Heilbehandlung und andere Leistungen zur Erhaltung, Besserung und
-        Wiederherstellung der Erwerbsfähigkeit einschließlich Betriebs- oder
-        Haushaltshilfe,
+    a)  Leistungen zur Prävention, Leistungen zur medizinischen
+        Rehabilitation, Leistungen zur Nachsorge sowie ergänzende und sonstige
+        Leistungen zur Teilhabe einschließlich Betriebs- oder Haushaltshilfe,
 
 
     b)  Renten wegen Erwerbsminderung und Alters,
@@ -687,14 +695,16 @@ können in Anspruch genommen werden:
 
 
 (2) Zuständig sind die Versorgungsämter, die Landesversorgungsämter
-und die orthopädischen Versorgungsstellen, für die besonderen Hilfen
-im Einzelfall die Kreise und kreisfreien Städte sowie die
-Hauptfürsorgestellen. Bei der Durchführung der Heil- und
+und die orthopädischen Versorgungsstellen. Für die besonderen Hilfen
+im Einzelfall sind die Kreise und kreisfreien Städte sowie die
+Hauptfürsorgestellen zuständig. Bei der Durchführung der Heil- und
 Krankenbehandlung wirken die Träger der gesetzlichen
-Krankenversicherung mit.
+Krankenversicherung mit. Für die Leistungen nach den §§ 80, 81a bis
+83a des Soldatenversorgungsgesetzes ist die Bundeswehrverwaltung
+zuständig.
 
 
-#### § 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Erziehungsgeld und Elterngeld
+#### § 25 Kindergeld, Kinderzuschlag, Leistungen für Bildung und Teilhabe, Elterngeld und Betreuungsgeld
 
 (1) Nach dem Bundeskindergeldgesetz kann nur dann Kindergeld in
 Anspruch genommen werden, wenn nicht der Familienleistungsausgleich
@@ -702,17 +712,13 @@ nach § 31 des Einkommensteuergesetzes zur Anwendung kommt. Nach dem
 Bundeskindergeldgesetz können auch der Kinderzuschlag und Leistungen
 für Bildung und Teilhabe in Anspruch genommen werden.
 
-(2) Nach dem Recht des Erziehungsgelds kann grundsätzlich für jedes
-Kind Erziehungsgeld in Anspruch genommen werden. Anspruch auf
-Elterngeld besteht nach dem Recht des Bundeselterngeld- und
-Elternzeitgesetzes.
+(2) Nach dem Recht des Bundeselterngeld- und Elternzeitgesetzes kann
+Elterngeld und Betreuungsgeld in Anspruch genommen werden.
 
 (3) Für die Ausführung des Absatzes 1 sind die nach § 7 des
-Bundeskindergeldgesetzes bestimmten Stellen, für die Ausführung des
-Absatzes 2 Satz 1 die nach § 10 des Bundeserziehungsgeldgesetzes
-bestimmten Stellen und für die Ausführung des Absatzes 2 Satz 2 die
-nach § 12 des Bundeselterngeld- und Elternzeitgesetzes bestimmten
-Stellen zuständig.
+Bundeskindergeldgesetzes bestimmten Stellen und für die Ausführung des
+Absatzes 2 die nach § 12 des Bundeselterngeld- und Elternzeitgesetzes
+bestimmten Stellen zuständig.
 
 
 #### § 26 Wohngeld
@@ -764,7 +770,7 @@ freien Jugendhilfe zusammen.
 2.  Hilfen zur Gesundheit,
 
 
-3.  Eingliederungshilfe für behinderte Menschen,
+3.  (weggefallen)
 
 
 4.  Hilfe zur Pflege,
@@ -785,9 +791,26 @@ Gesundheitsämter; sie arbeiten mit den Trägern der freien
 Wohlfahrtspflege zusammen.
 
 
-#### § 28a
+#### § 28a Leistungen der Eingliederungshilfe
 
-(weggefallen)
+(1) Nach dem Recht der Eingliederungshilfe können in Anspruch genommen
+werden:
+
+1.  Leistungen zur medizinischen Rehabilitation,
+
+
+2.  Leistungen zur Teilhabe am Arbeitsleben,
+
+
+3.  Leistungen zur Teilhabe an Bildung,
+
+
+4.  Leistungen zur Sozialen Teilhabe.
+
+
+
+
+(2) Zuständig sind die durch Landesrecht bestimmten Behörden.
 
 
 #### § 29 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen
@@ -831,31 +854,50 @@ Menschen können in Anspruch genommen werden
 
 
 
-3.  Leistungen zur Teilhabe am Leben in der Gemeinschaft, insbesondere
-    Hilfen
+2a. Leistungen zur Teilhabe an Bildung, insbesondere
 
-    a)  zur Entwicklung der geistigen und körperlichen Fähigkeiten vor Beginn
-        der Schulpflicht,
-
-
-    b)  zur angemessenen Schulbildung,
+    a)  Hilfen zur Schulbildung, insbesondere im Rahmen der allgemeinen
+        Schulpflicht und zum Besuch weiterführender Schulen einschließlich der
+        Vorbereitung hierzu,
 
 
-    c)  zur heilpädagogischen Förderung,
+    b)  Hilfen zur schulischen Berufsausbildung,
 
 
-    d)  zum Erwerb praktischer Kenntnisse und Fähigkeiten,
+    c)  Hilfen zur Hochschulbildung,
 
 
-    e)  zur Ausübung einer angemessenen Tätigkeit, soweit Leistungen zur
-        Teilhabe am Arbeitsleben nicht möglich sind,
+    d)  Hilfen zur schulischen beruflichen Weiterbildung,
 
 
-    f)  zur Förderung der Verständigung mit der Umwelt,
 
 
-    g)  zur Freizeitgestaltung und sonstigen Teilhabe am gesellschaftlichen
-        Leben,
+
+3.  Leistungen zur Sozialen Teilhabe, insbesondere
+
+    a)  Leistungen für Wohnraum,
+
+
+    b)  Assistenzleistungen,
+
+
+    c)  heilpädagogische Leistungen,
+
+
+    d)  Leistungen zur Betreuung in einer Pflegefamilie,
+
+
+    e)  Leistungen zum Erwerb und Erhalt praktischer Kenntnisse und
+        Fähigkeiten,
+
+
+    f)  Leistungen zur Förderung der Verständigung,
+
+
+    g)  Leistungen zur Mobilität,
+
+
+    h)  Hilfsmittel,
 
 
 
@@ -1001,47 +1043,86 @@ werden anteilig und endgültig aufgeteilt.
 
 #### § 35 Sozialgeheimnis
 
-(1) Jeder hat Anspruch darauf, daß die ihn betreffenden Sozialdaten (§
-67 Abs. 1 Zehntes Buch) von den Leistungsträgern nicht unbefugt
-erhoben, verarbeitet oder genutzt werden (Sozialgeheimnis). Die
-Wahrung des Sozialgeheimnisses umfaßt die Verpflichtung, auch
-innerhalb des Leistungsträgers sicherzustellen, daß die Sozialdaten
-nur Befugten zugänglich sind oder nur an diese weitergegeben werden.
-Sozialdaten der Beschäftigten und ihrer Angehörigen dürfen Personen,
-die Personalentscheidungen treffen oder daran mitwirken können, weder
+(1) Jeder hat Anspruch darauf, dass die ihn betreffenden Sozialdaten
+(§ 67 Absatz 2 Zehntes Buch) von den Leistungsträgern nicht unbefugt
+verarbeitet werden (Sozialgeheimnis). Die Wahrung des
+Sozialgeheimnisses umfasst die Verpflichtung, auch innerhalb des
+Leistungsträgers sicherzustellen, dass die Sozialdaten nur Befugten
+zugänglich sind oder nur an diese weitergegeben werden. Sozialdaten
+der Beschäftigten und ihrer Angehörigen dürfen Personen, die
+Personalentscheidungen treffen oder daran mitwirken können, weder
 zugänglich sein noch von Zugriffsberechtigten weitergegeben werden.
 Der Anspruch richtet sich auch gegen die Verbände der Leistungsträger,
 die Arbeitsgemeinschaften der Leistungsträger und ihrer Verbände, die
-Datenstelle der Träger der Rentenversicherung, die in diesem
-Gesetzbuch genannten öffentlich-rechtlichen Vereinigungen, gemeinsame
-Servicestellen, Integrationsfachdienste, die Künstlersozialkasse, die
-Deutsche Post AG, soweit sie mit der Berechnung oder Auszahlung von
-Sozialleistungen betraut ist, die Behörden der Zollverwaltung, soweit
-sie Aufgaben nach § 2 des Schwarzarbeitsbekämpfungsgesetzes und § 66
-des Zehnten Buches durchführen, die Versicherungsämter und
-Gemeindebehörden sowie die anerkannten Adoptionsvermittlungsstellen (§
-2 Abs. 2 des Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach
-diesem Gesetzbuch wahrnehmen und die Stellen, die Aufgaben nach § 67c
-Abs. 3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch
-nach Beendigung ihrer Tätigkeit bei den genannten Stellen das
+Datenstelle der Rentenversicherung, die in diesem Gesetzbuch genannten
+öffentlich-rechtlichen Vereinigungen, Integrationsfachdienste, die
+Künstlersozialkasse, die Deutsche Post AG, soweit sie mit der
+Berechnung oder Auszahlung von Sozialleistungen betraut ist, die
+Behörden der Zollverwaltung, soweit sie Aufgaben nach § 2 des
+Schwarzarbeitsbekämpfungsgesetzes und § 66 des Zehnten Buches
+durchführen, die Versicherungsämter und Gemeindebehörden sowie die
+anerkannten Adoptionsvermittlungsstellen (§ 2 Absatz 2 des
+Adoptionsvermittlungsgesetzes), soweit sie Aufgaben nach diesem
+Gesetzbuch wahrnehmen, und die Stellen, die Aufgaben nach § 67c Absatz
+3 des Zehnten Buches wahrnehmen. Die Beschäftigten haben auch nach
+Beendigung ihrer Tätigkeit bei den genannten Stellen das
 Sozialgeheimnis zu wahren.
 
-(2) Eine Erhebung, Verarbeitung und Nutzung von Sozialdaten ist nur
-unter den Voraussetzungen des Zweiten Kapitels des Zehnten Buches
-zulässig.
+(2) Die Vorschriften des Zweiten Kapitels des Zehnten Buches und der
+übrigen Bücher des Sozialgesetzbuches regeln die Verarbeitung von
+Sozialdaten abschließend, soweit nicht die Verordnung (EU) 2016/679
+des Europäischen Parlaments und des Rates vom 27. April 2016 zum
+Schutz natürlicher Personen bei der Verarbeitung personenbezogener
+Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie
+95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1;
+L 314 vom 22.11.2016, S. 72) unmittelbar gilt. Für die Verarbeitungen
+von Sozialdaten im Rahmen von nicht in den Anwendungsbereich der
+Verordnung (EU) 2016/679 fallenden Tätigkeiten finden die Verordnung
+(EU) 2016/679 und dieses Gesetz entsprechende Anwendung, soweit nicht
+in diesem oder einem anderen Gesetz Abweichendes geregelt ist.
 
-(3) Soweit eine Übermittlung nicht zulässig ist, besteht keine
-Auskunftspflicht, keine Zeugnispflicht und keine Pflicht zur Vorlegung
-oder Auslieferung von Schriftstücken, nicht automatisierten Dateien
-und automatisiert erhobenen, verarbeiteten oder genutzten Sozialdaten.
+(2a) Die Verpflichtung zur Wahrung gesetzlicher
+Geheimhaltungspflichten oder von Berufs- oder besonderen
+Amtsgeheimnissen, die nicht auf gesetzlichen Vorschriften beruhen,
+bleibt unberührt.
+
+(3) Soweit eine Übermittlung von Sozialdaten nicht zulässig ist,
+besteht keine Auskunftspflicht, keine Zeugnispflicht und keine Pflicht
+zur Vorlegung oder Auslieferung von Schriftstücken, nicht
+automatisierten Dateisystemen und automatisiert verarbeiteten
+Sozialdaten.
 
 (4) Betriebs- und Geschäftsgeheimnisse stehen Sozialdaten gleich.
 
 (5) Sozialdaten Verstorbener dürfen nach Maßgabe des Zweiten Kapitels
-des Zehnten Buches verarbeitet oder genutzt werden. Sie dürfen
-außerdem verarbeitet oder genutzt werden, wenn schutzwürdige
-Interessen des Verstorbenen oder seiner Angehörigen dadurch nicht
-beeinträchtigt werden können.
+des Zehnten Buches verarbeitet werden. Sie dürfen außerdem verarbeitet
+werden, wenn schutzwürdige Interessen des Verstorbenen oder seiner
+Angehörigen dadurch nicht beeinträchtigt werden können.
+
+(6) Die Absätze 1 bis 5 finden neben den in Absatz 1 genannten Stellen
+auch Anwendung auf solche Verantwortliche oder deren
+Auftragsverarbeiter,
+
+1.  die Sozialdaten im Inland verarbeiten, sofern die Verarbeitung nicht
+    im Rahmen einer Niederlassung in einem anderen Mitgliedstaat der
+    Europäischen Union oder in einem anderen Vertragsstaat des Abkommens
+    über den Europäischen Wirtschaftsraum erfolgt, oder
+
+
+2.  die Sozialdaten im Rahmen der Tätigkeiten einer inländischen
+    Niederlassung verarbeiten.
+
+
+
+Sofern die Absätze 1 bis 5 nicht gemäß Satz 1 anzuwenden sind, gelten
+für den Verantwortlichen oder dessen Auftragsverarbeiter nur die §§ 81
+bis 81c des Zehnten Buches.
+
+(7) Bei der Verarbeitung zu Zwecken gemäß Artikel 2 der Verordnung
+(EU) 2016/679 stehen die Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und die Schweiz den Mitgliedstaaten der
+Europäischen Union gleich. Andere Staaten gelten insoweit als
+Drittstaaten.
 
 
 #### § 36 Handlungsfähigkeit
@@ -1066,11 +1147,52 @@ Empfänger hierfür einen Zugang eröffnet.
 
 (2) Eine durch Rechtsvorschrift angeordnete Schriftform kann, soweit
 nicht durch Rechtsvorschrift etwas anderes bestimmt ist, durch die
-elektronische Form ersetzt werden. In diesem Fall ist das
-elektronische Dokument mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen. Die Signierung mit einem
-Pseudonym, das die Identifizierung der Person des
-Signaturschlüsselinhabers nicht ermöglicht, ist nicht zulässig.
+elektronische Form ersetzt werden. Der elektronischen Form genügt ein
+elektronisches Dokument, das mit einer qualifizierten elektronischen
+Signatur versehen ist. Die Signierung mit einem Pseudonym, das die
+Identifizierung der Person des Signaturschlüsselinhabers nicht
+unmittelbar durch die Behörde ermöglicht, ist nicht zulässig. Die
+Schriftform kann auch ersetzt werden
+
+1.  durch unmittelbare Abgabe der Erklärung in einem elektronischen
+    Formular, das von der Behörde in einem Eingabegerät oder über
+    öffentlich zugängliche Netze zur Verfügung gestellt wird;
+
+
+2.  bei Anträgen und Anzeigen durch Versendung eines elektronischen
+    Dokuments an die Behörde mit der Versandart nach § 5 Absatz 5 des De-
+    Mail-Gesetzes;
+
+
+3.  bei elektronischen Verwaltungsakten oder sonstigen elektronischen
+    Dokumenten der Behörden durch Versendung einer De-Mail-Nachricht nach
+    § 5 Absatz 5 des De-Mail-Gesetzes, bei der die Bestätigung des
+    akkreditierten Diensteanbieters die erlassende Behörde als Nutzer des
+    De-Mail-Kontos erkennen lässt;
+
+
+4.  durch sonstige sichere Verfahren, die durch Rechtsverordnung der
+    Bundesregierung mit Zustimmung des Bundesrates festgelegt werden,
+    welche den Datenübermittler (Absender der Daten) authentifizieren und
+    die Integrität des elektronisch übermittelten Datensatzes sowie die
+    Barrierefreiheit gewährleisten; der IT-Planungsrat gibt Empfehlungen
+    zu geeigneten Verfahren ab.
+
+
+
+In den Fällen des Satzes 4 Nummer 1 muss bei einer Eingabe über
+öffentlich zugängliche Netze ein sicherer Identitätsnachweis nach § 18
+des Personalausweisgesetzes oder nach § 78 Absatz 5 des
+Aufenthaltsgesetzes erfolgen; in der Kommunikation zwischen dem
+Versicherten und seiner Krankenkasse kann die Identität auch mit der
+elektronischen Gesundheitskarte nach § 291 Absatz 2a des Fünften
+Buches elektronisch nachgewiesen werden.
+
+(2a) Ist durch Rechtsvorschrift die Verwendung eines bestimmten
+Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird
+allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer
+für die elektronische Versendung an die Behörde bestimmten Fassung des
+Formulars entfällt das Unterschriftsfeld.
 
 (3) Ist ein der Behörde übermitteltes elektronisches Dokument für sie
 zur Bearbeitung nicht geeignet, teilt sie dies dem Absender unter
@@ -1083,14 +1205,14 @@ Format oder als Schriftstück.
 (4) Die Träger der Sozialversicherung einschließlich der Bundesagentur
 für Arbeit, ihre Verbände und Arbeitsgemeinschaften verwenden unter
 Beachtung der Grundsätze der Wirtschaftlichkeit und Sparsamkeit im
-jeweiligen Sozialleistungsbereich Zertifizierungsdienste nach dem
-Signaturgesetz, die eine gemeinsame und bundeseinheitliche
-Kommunikation und Übermittlung der Daten und die Überprüfbarkeit der
-qualifizierten elektronischen Signatur auf Dauer sicherstellen. Diese
-Träger sollen über ihren jeweiligen Bereich hinaus
-Zertifizierungsdienste im Sinne des Satzes 1 verwenden. Die Sätze 1
-und 2 gelten entsprechend für die Leistungserbringer nach dem Fünften
-und dem Elften Buch und die von ihnen gebildeten Organisationen.
+jeweiligen Sozialleistungsbereich Vertrauensdienste, die eine
+gemeinsame und bundeseinheitliche Kommunikation und Übermittlung der
+Daten und die Überprüfbarkeit der qualifizierten elektronischen
+Signatur auf Dauer sicherstellen. Diese Träger sollen über ihren
+jeweiligen Bereich hinaus Vertrauensdienste im Sinne des Satzes 1
+verwenden. Die Sätze 1 und 2 gelten entsprechend für die
+Leistungserbringer nach dem Fünften und dem Elften Buch und die von
+ihnen gebildeten Organisationen.
 
 
 #### § 37 Vorbehalt abweichender Regelungen
@@ -1178,7 +1300,7 @@ spätestens nach Ablauf eines Kalendermonats nach Eingang des Antrags.
 entsprechend. Ein Erstattungsanspruch gegen den Empfänger steht nur
 dem zur Leistung verpflichteten Leistungsträger zu.
 
-(3)
+(3) (weggefallen)
 
 
 #### § 44 Verzinsung
@@ -1211,7 +1333,7 @@ Sozialleistung oder durch Erhebung eines Widerspruchs gehemmt. Die
 Hemmung endet sechs Monate nach Bekanntgabe der Entscheidung über den
 Antrag oder den Widerspruch.
 
-(4)
+(4) (weggefallen)
 
 
 #### § 46 Verzicht
@@ -1226,29 +1348,39 @@ Leistungsträger belastet oder Rechtsvorschriften umgangen werden.
 
 #### § 47 Auszahlung von Geldleistungen
 
-Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
+(1) Soweit die besonderen Teile dieses Gesetzbuchs keine Regelung
 enthalten, sollen Geldleistungen kostenfrei auf ein Konto des
-Empfängers bei einem Geldinstitut überwiesen oder, wenn der Empfänger
-es verlangt, kostenfrei an seinen Wohnsitz übermittelt werden.
+Empfängers bei einem Geldinstitut, für das die Verordnung (EU) Nr.
+260/2012 des Europäischen Parlaments und des Rates vom 14. März 2012
+zur Festlegung der technischen Vorschriften und der
+Geschäftsanforderungen für Überweisungen und Lastschriften in Euro und
+zur Änderung der Verordnung (EG) Nr. 924/2009 (ABl. L 94 vom
+30\.3.2012, S. 22) gilt, überwiesen oder, wenn der Empfänger es
+verlangt, kostenfrei an seinen Wohnsitz innerhalb des
+Geltungsbereiches dieser Verordnung übermittelt werden.
+
+(2) Bei Zahlungen außerhalb des Geltungsbereiches der in Absatz 1
+genannten Verordnung trägt der Leistungsträger die Kosten bis zu dem
+von ihm mit der Zahlung beauftragten Geldinstitut.
 
 
 #### § 48 Auszahlung bei Verletzung der Unterhaltspflicht
 
 (1) Laufende Geldleistungen, die der Sicherung des Lebensunterhalts zu
-dienen bestimmt sind, können in angemessener Höhe an den Ehegatten
-oder die Kinder des Leistungsberechtigten ausgezahlt werden, wenn er
-ihnen gegenüber seiner gesetzlichen Unterhaltspflicht nicht nachkommt.
-Kindergeld, Kinderzuschläge und vergleichbare Rentenbestandteile
-(Geldleistungen für Kinder) können an Kinder, die bei der Festsetzung
-der Geldleistungen berücksichtigt werden, bis zur Höhe des Betrages,
-der sich bei entsprechender Anwendung des § 54 Abs. 5 Satz 2 ergibt,
-ausgezahlt werden. Für das Kindergeld gilt dies auch dann, wenn der
-Kindergeldberechtigte mangels Leistungsfähigkeit nicht
+dienen bestimmt sind, können in angemessener Höhe an den Ehegatten,
+den Lebenspartner oder die Kinder des Leistungsberechtigten ausgezahlt
+werden, wenn er ihnen gegenüber seiner gesetzlichen Unterhaltspflicht
+nicht nachkommt. Kindergeld, Kinderzuschläge und vergleichbare
+Rentenbestandteile (Geldleistungen für Kinder) können an Kinder, die
+bei der Festsetzung der Geldleistungen berücksichtigt werden, bis zur
+Höhe des Betrages, der sich bei entsprechender Anwendung des § 54 Abs.
+5 Satz 2 ergibt, ausgezahlt werden. Für das Kindergeld gilt dies auch
+dann, wenn der Kindergeldberechtigte mangels Leistungsfähigkeit nicht
 unterhaltspflichtig ist oder nur Unterhalt in Höhe eines Betrages zu
 leisten braucht, der geringer ist als das für die Auszahlung in
 Betracht kommende Kindergeld. Die Auszahlung kann auch an die Person
-oder Stelle erfolgen, die dem Ehegatten oder den Kindern Unterhalt
-gewährt.
+oder Stelle erfolgen, die dem Ehegatten, dem Lebenspartner oder den
+Kindern Unterhalt gewährt.
 
 (2) Absatz 1 Satz 1, 2 und 4 gilt entsprechend, wenn unter
 Berücksichtigung von Kindern, denen gegenüber der Leistungsberechtigte
@@ -1373,16 +1505,15 @@ entspricht.
 
 (3) Unpfändbar sind Ansprüche auf
 
-1.  Erziehungsgeld und vergleichbare Leistungen der Länder sowie
-    Elterngeld bis zur Höhe der nach § 10 des Bundeselterngeld- und
-    Elternzeitgesetzes anrechnungsfreien Beträge,
+1.  Elterngeld und Betreuungsgeld bis zur Höhe der nach § 10 des
+    Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Beträge
+    sowie dem Erziehungsgeld vergleichbare Leistungen der Länder,
 
 
-2.  Mutterschaftsgeld nach § 13 Abs. 1 des Mutterschutzgesetzes, soweit
+2.  Mutterschaftsgeld nach § 19 Absatz 1 des Mutterschutzgesetzes, soweit
     das Mutterschaftsgeld nicht aus einer Teilzeitbeschäftigung während
-    der Elternzeit herrührt, bis zur Höhe des Erziehungsgeldes nach § 5
-    Abs. 1 des Bundeserziehungsgeldgesetzes oder des Elterngeldes nach dem
-    Bundeselterngeld- und Elternzeitgesetz, soweit es die
+    der Elternzeit herrührt, bis zur Höhe des Elterngeldes nach § 2 des
+    Bundeselterngeld- und Elternzeitgesetzes, soweit es die
     anrechnungsfreien Beträge nach § 10 des Bundeselterngeld- und
     Elternzeitgesetzes nicht übersteigt,
 
@@ -1588,7 +1719,7 @@ Besserung seines Gesundheitszustands herbeiführen oder eine
 Verschlechterung verhindern wird.
 
 
-#### § 64 Berufsfördernde Maßnahmen
+#### § 64 Leistungen zur Teilhabe am Arbeitsleben
 
 Wer wegen Minderung der Erwerbsfähigkeit, anerkannten
 Schädigungsfolgen oder wegen Arbeitslosigkeit Sozialleistungen
@@ -1722,7 +1853,7 @@ als dessen besondere Teile:
 
 7.  das Bundesversorgungsgesetz, auch soweit andere Gesetze, insbesondere
 
-    a)  § 80 des Soldatenversorgungsgesetzes,
+    a)  §§ 80 bis 83a des Soldatenversorgungsgesetzes,
 
 
     b)  § 59 Abs. 1 des Bundesgrenzschutzgesetzes,
@@ -1773,10 +1904,8 @@ als dessen besondere Teile:
 14. das Unterhaltsvorschussgesetz,
 
 
-15. der Erste Abschnitt des Bundeserziehungsgeldgesetzes,
-
-
-15a. der erste Abschnitt des Bundeselterngeld- und Elternzeitgesetzes,
+15. der Erste, Zweite und Dritte Abschnitt des Bundeselterngeld- und
+    Elternzeitgesetzes,
 
 
 16. das Altersteilzeitgesetz,

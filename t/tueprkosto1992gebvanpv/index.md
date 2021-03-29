@@ -3,7 +3,7 @@ Title: Verordnung zur Anpassung des Gebührenverzeichnisses der Kostenverordnung
   die Prüfung überwachungsbedürftiger Anlagen
 jurabk: TÜPrKostO1992GebVAnpV
 layout: default
-origslug: t_prkosto1992gebvanpv
+origslug: tueprkosto1992gebvanpv
 slug: tueprkosto1992gebvanpv
 
 ---

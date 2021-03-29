@@ -3,7 +3,7 @@ Title: Übereinkommen über die Verbreitung der durch Satelliten übertragenen p
   Signale
 jurabk: SatellitÜbk
 layout: default
-origslug: satellit_bk
+origslug: satellituebk
 slug: satellituebk
 
 ---

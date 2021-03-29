@@ -4,7 +4,7 @@ Title: Protokoll zur Änderung des Abkommens zur Vereinheitlichung von Regeln ü
   Oktober 1929
 jurabk: LuftRAbkÄndProt
 layout: default
-origslug: luftrabk_ndprot
+origslug: luftrabkaendprot
 slug: luftrabkaendprot
 
 ---

@@ -16,16 +16,16 @@ Fundstelle
 :   BGBl II: 1961, 577
 
 Zuletzt geändert durch
-:   Art. 125 V v. 31.10.2006 I 2407
+:   Art. 247 V v. 31.8.2015 I 1474
 
 
 ## § 1
 
 (1) Zur Förderung der Zusammenarbeit mit dem Ausland, insbesondere mit
 den Entwicklungsländern, ist das Bundesministerium für Wirtschaft und
-Technologie ermächtigt, Verpflichtungen zur Gewährung von Darlehen bis
-zu einem Gesamtbetrag von eintausendfünfhundert Millionen Deutsche
-Mark zu Lasten der in § 3 bezeichneten Mittel zu übernehmen.
+Energie ermächtigt, Verpflichtungen zur Gewährung von Darlehen bis zu
+einem Gesamtbetrag von eintausendfünfhundert Millionen Deutsche Mark
+zu Lasten der in § 3 bezeichneten Mittel zu übernehmen.
 
 (2) In dem Umfang, in dem der Bund (ERP-Sondervermögen) aus den
 Verpflichtungen nach Absatz 1 nicht mehr in Anspruch genommen werden
@@ -62,14 +62,14 @@ Abs. 1 eingegangenen Verpflichtungen, werden bereitgestellt:
 (2) Den Förderungsmitteln fließen sonstige Zuweisungen zu, wenn sie
 ausdrücklich für den Förderungszweck bestimmt sind.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie ist
-ermächtigt, die in Absatz 1 Nr. 2 bezeichneten Geldmittel zu Lasten
-des ERP-Sondervermögens zu beschaffen.
+(3) Das Bundesministerium für Wirtschaft und Energie ist ermächtigt,
+die in Absatz 1 Nr. 2 bezeichneten Geldmittel zu Lasten des ERP-
+Sondervermögens zu beschaffen.
 
 
 ## § 4
 
-Das Bundesministerium für Wirtschaft und Technologie ist ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie ist ermächtigt,
 Kassenmittel zur Vorfinanzierung der Darlehen nach § 1 zu verwenden.
 Die Verwendung ist in einem Anhang zum ERP-Wirtschaftsplan und zur
 Jahresrechnung gesondert nachzuweisen.

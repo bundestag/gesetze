@@ -62,18 +62,15 @@ Der Bundesminister der Justiz
 
 ## Anlage 1 Nationales Gütezeichen der Republik Irak
 
-(Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1988, 232)
-
+![bgbl1_1988_j0232_0010.jpg](bgbl1_1988_j0232_0010.jpg)
 
 ## Anlage 2 Prüf- und Gewährzeichen der Republik Zypern für frische, zum Export bestimmte landwirtschaftliche Erzeugnisse
 
-(Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1988, 233)
-
+![bgbl1_1988_j0233_0010.jpg](bgbl1_1988_j0233_0010.jpg)
 
 ## Anlage 3 Kennzeichen der International Joint Commission
 
-(Inhalt: Nicht darstellbares Zeichen,
 Fundstelle: BGBl. I 1988, 233)
-
+![bgbl1_1988_j0233_0020.jpg](bgbl1_1988_j0233_0020.jpg)

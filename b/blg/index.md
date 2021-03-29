@@ -897,10 +897,9 @@ Ansprüche sind die Vorschriften des Bürgerlichen Gesetzbuchs
 anzuwenden.
 
 (3) Die Vorschriften über den Verlust von Ansprüchen
-nach Artikel 8 Abs. 6 des Finanzvertrags sowie              nach
-Artikel 6 und 7 des Gesetzes vom 18. August 1961 zum NATO-
-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S.
-1183) bleiben unberührt.
+nach Artikel 8 Abs. 6 des Finanzvertrags sowie nach Artikel 6 und 7
+des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den
+Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183) bleiben unberührt.
 
 
 ## Zweiter Teil - Verfahren
@@ -1346,11 +1345,10 @@ zu erheben.
 (1) Die Festsetzung von Entschädigungen für Leistungen zugunsten der
 in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte erfolgt im Benehmen mit
 den Behörden der beteiligten Macht
-(Artikel 12 Abs. 3 des Finanzvertrages vom 26. Mai 1952).
-In diesen Fällen steht die Bundesrepublik für die Erfüllung der
-Verpflichtung ein. Rechtsstreitigkeiten wegen der Festsetzung der
-Entschädigung oder Ersatzleistung werden von der Bundesrepublik im
-eigenen Namen geführt.
+(Artikel 12 Abs. 3 des Finanzvertrages vom 26. Mai 1952). In diesen
+Fällen steht die Bundesrepublik für die Erfüllung der Verpflichtung
+ein. Rechtsstreitigkeiten wegen der Festsetzung der Entschädigung oder
+Ersatzleistung werden von der Bundesrepublik im eigenen Namen geführt.
 
 (2) Das Verfahren für die Festsetzung des Ersatzes von Schäden, für
 welche die in § 1 Abs. 1 Nr. 3 bezeichneten Streitkräfte nach den §§
@@ -1697,14 +1695,14 @@ eine Vereinbarung nicht zustande, so gilt § 51 Abs. 3 bis 5.
 Streitkräfte nach § 77 ersatzpflichtig sind, sowie die Fristen für die
 Geltendmachung der Ansprüche auf Ersatzleistung werden, soweit die
 Stationierungstruppen in Betracht kommen, nach
-Artikel 8 des Finanzvertrags vom 26. Mai 1952              bestimmt.
-Sind die Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und
-des Zusatzabkommens zum NATO-Truppenstatut verursacht worden, so
-treten an die Stelle des Artikels 8 des Finanzvertrages Artikel VIII
-des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-
-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15
-des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den
-Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183).
+Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die
+Schäden nach dem Inkrafttreten des NATO-Truppenstatuts und des
+Zusatzabkommens zum NATO-Truppenstatut verursacht worden, so treten an
+die Stelle des Artikels 8 des Finanzvertrages Artikel VIII des NATO-
+Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut
+nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom
+18\. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen
+(Bundesgesetzbl. II S. 1183).
 
 (2) Stehen uniformierte Verbände oder Einheiten im Dienst eines
 Landes, so gelten die landesrechtlichen Vorschriften.
@@ -1855,14 +1853,14 @@ diesem Paragraphen ergebenden Beschränkungen angefordert werden.
 ### § 92
 
 (1) Bei Sachen, die nach
-Artikel 48 Abs. 1 des Truppenvertrags              oder nach Artikel
-13 des Ersten Teils des Vertrags zur Regelung aus Krieg und Besatzung
-entstandener Fragen zur Nutzung oder zum Gebrauch in Anspruch genommen
-waren, bemißt sich mit Wirkung vom 5. Mai 1955 12 Uhr die
-Entschädigung und Ersatzleistung nach den Vorschriften dieses
-Gesetzes. Sofern dem Entschädigungsberechtigten bisher eine höhere
-laufende Entschädigung gezahlt worden ist, als nach § 20 zu zahlen
-wäre, ist die Entschädigung weiterhin in dieser Höhe zu gewähren.
+Artikel 48 Abs. 1 des Truppenvertrags oder nach Artikel 13 des Ersten
+Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener
+Fragen zur Nutzung oder zum Gebrauch in Anspruch genommen waren,
+bemißt sich mit Wirkung vom 5. Mai 1955 12 Uhr die Entschädigung und
+Ersatzleistung nach den Vorschriften dieses Gesetzes. Sofern dem
+Entschädigungsberechtigten bisher eine höhere laufende Entschädigung
+gezahlt worden ist, als nach § 20 zu zahlen wäre, ist die
+Entschädigung weiterhin in dieser Höhe zu gewähren.
 
 (2) Die Manöverschäden, die nach dem 5. Mai 1955 12 Uhr verursacht
 worden sind, werden nach den Vorschriften dieses Gesetzes abgegolten.

@@ -297,11 +297,11 @@ gemessen werden, kann sie nach der Gleichung
     *   kWh
 
     *   · V · (t
-        w                        – 10 °C)
+        w – 10 °C)
 
 
 *    *   m
-        3                        · K
+        3 · K
 
 
 
@@ -309,11 +309,11 @@ bestimmt werden. Dabei sind zu Grunde zu legen
 
 1.  das gemessene Volumen des verbrauchten Warmwassers (V) in Kubikmetern
     (m
-    3                   );
+    3);
 
 
 2.  die gemessene oder geschätzte mittlere Temperatur des Warmwassers (t
-    w                   ) in Grad Celsius (°C).
+    w) in Grad Celsius (°C).
 
 
 
@@ -331,18 +331,18 @@ folgender Gleichung bestimmt werden
 
 
 *    *   m
-        2                        A
+        2 A
         Wohn
 
 
 
 Dabei ist die durch die zentrale Anlage mit Warmwasser versorgte Wohn-
 oder Nutzfläche (A
-Wohn             ) zu Grunde zu legen. Die nach den Gleichungen in
-Satz 2 oder 4 bestimmte Wärmemenge (Q) ist
+Wohn) zu Grunde zu legen. Die nach den Gleichungen in Satz 2 oder 4
+bestimmte Wärmemenge (Q) ist
 
 1.  bei brennwertbezogener Abrechnung von Erdgas
-    mit 1,11                    zu multiplizieren und
+    mit 1,11 zu multiplizieren und
 
 
 2.  bei eigenständiger gewerblicher Wärmelieferung durch 1,15 zu
@@ -373,11 +373,9 @@ zu bestimmen. Dabei sind zu Grunde zu legen
 
 
 2.  der Heizwert des verbrauchten Brennstoffes (H
-    i                   ) in Kilowattstunden (kWh) je Liter (l),
-    Kubikmeter (m
-    3                   ), Kilogramm (kg) oder Schüttraummeter (SRm). Als
-    H
-    i                   -Werte können verwendet werden für
+    i) in Kilowattstunden (kWh) je Liter (l), Kubikmeter (m
+    3), Kilogramm (kg) oder Schüttraummeter (SRm). Als H
+    i-Werte können verwendet werden für
 
     *        *   Leichtes Heizöl EL
 
@@ -464,9 +462,9 @@ zu bestimmen. Dabei sind zu Grunde zu legen
 
 Enthalten die Abrechnungsunterlagen des Energieversorgungsunternehmens
 oder Brennstofflieferanten H
-i             -Werte, so sind diese zu verwenden. Soweit die
-Abrechnung über kWh-Werte erfolgt, ist eine Umrechnung in
-Brennstoffverbrauch nicht erforderlich.
+i-Werte, so sind diese zu verwenden. Soweit die Abrechnung über kWh-
+Werte erfolgt, ist eine Umrechnung in Brennstoffverbrauch nicht
+erforderlich.
 
 (4) Der Anteil an den Kosten der Versorgung mit Wärme ist nach § 7
 Absatz 1, der Anteil an den Kosten der Versorgung mit Warmwasser nach
@@ -534,7 +532,7 @@ sind sie nicht anzuwenden
 1.  auf Räume,
 
     a)  in Gebäuden, die einen Heizwärmebedarf von weniger als 15 kWh/(m
-        2                          · a) aufweisen,
+        2 · a) aufweisen,
 
 
     b)  bei denen das Anbringen der Ausstattung zur Verbrauchserfassung, die
@@ -645,5 +643,71 @@ Fassung weiter anzuwenden.
 
 
 ## § 14 (Inkrafttreten)
+
+
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet D Abschnitt III
+(BGBl. II 1990, 889, 1007)
+
+## Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
+
+Abschnitt III
+Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
+mit folgenden Maßgaben in Kraft:
+...
+Verordnung über Heizkostenabrechnung in der Fassung der Bekanntmachung
+vom 20. Januar 1989 (BGBl. I S. 115)
+mit folgenden Maßgaben:
+
+*
+    a)  Die Verordnung tritt zum 1. Januar 1991 in Kraft. Bis zum 31. Dezember
+        1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den
+        bisherigen Regeln verfahren werden.
+
+
+    b)  Räume, die vor dem 1. Januar 1991 bezugsfertig geworden sind und in
+        denen die nach der Verordnung erforderliche Ausstattung zur
+        Verbrauchserfassung noch nicht vorhanden ist, sind bis spätestens zum
+        31\. Dezember 1995 auszustatten. Der Gebäudeeigentümer ist berechtigt,
+        die Ausstattung bereits vor dem 31. Dezember 1995 anzubringen.
+
+
+    c)  Soweit und solange die nach Landesrecht zuständigen Behörden des in
+        Artikel 3 des Vertrages genannten Gebietes noch nicht die Eignung
+        sachverständiger Stellen gemäß § 5 Abs. 1 Satz 2 und 3 der Verordnung
+        bestätigt haben, können Ausstattungen zur Verbrauchserfassung
+        verwendet werden für die eine sachverständige Stelle aus dem Gebiet,
+        in dem die Verordnung schon vor dem Beitritt gegolten hat, die
+        Bestätigung im Sinne von § 5 Abs. 1 Satz 2 erteilt hat.
+
+
+    d)  Als Heizwerte der verbrauchten Brennstoffe (Hu) nach § 9 Abs. 2 Ziff.
+        3 können auch verwendet werden:
+
+
+
+
+
+
+Braunkohlenbrikett              5,5 kWh/kg
+Braunkohlenhochtemperaturkoks   8,0 kWh/kg
+
+*
+    e)  Die Vorschriften dieser Verordnung über die Kostenverteilung gelten
+        erstmalig für den Abrechnungszeitraum, der nach dem Anbringen der
+        Ausstattung beginnt.
+
+
+    f)  § 11 Abs. 1 Nr. 1 Buchstabe b) ist mit der Maßgabe anzuwenden, daß an
+        die Stelle des Datums "1. Juli 1981" das Datum "1. Januar 1991" tritt.
+
+
+    g)  § 12 Abs. 2 ist mit der Maßgabe anzuwenden, daß an die Stelle der
+        Daten "1. Januar 1987" und "1. Juli 1981" jeweils das Datum "1. Januar
+        1991" tritt.
+
+
+
+
+
 
 

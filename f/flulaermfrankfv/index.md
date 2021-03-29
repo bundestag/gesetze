@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Frankfurt/Main
 jurabk: FluLärmFrankfV
 layout: default
-origslug: flul_rmfrankfv
+origslug: flulaermfrankfv
 slug: flulaermfrankfv
 
 ---

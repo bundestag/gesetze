@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1972, 1713
 
 Zuletzt geändert durch
-:   Art. 7 G v. 8.12.2010 I 1768
+:   Art. 5 G v. 27.6.2017 I 2074
 
 
 ## Erster Teil - Internationale Verflechtungen
@@ -33,11 +33,15 @@ als sie voneinander unabhängige Dritte unter gleichen oder
 vergleichbaren Verhältnissen vereinbart hätten
 (Fremdvergleichsgrundsatz), sind seine Einkünfte unbeschadet anderer
 Vorschriften so anzusetzen, wie sie unter den zwischen voneinander
-unabhängigen Dritten vereinbarten Bedingungen angefallen wären. Für
-die Anwendung des Fremdvergleichsgrundsatzes ist davon auszugehen,
-dass die voneinander unabhängigen Dritten alle wesentlichen Umstände
-der Geschäftsbeziehung kennen und nach den Grundsätzen ordentlicher
-und gewissenhafter Geschäftsleiter handeln. Führt die Anwendung des
+unabhängigen Dritten vereinbarten Bedingungen angefallen wären.
+Steuerpflichtiger im Sinne dieser Vorschrift ist auch eine
+Personengesellschaft oder eine Mitunternehmerschaft; eine
+Personengesellschaft oder Mitunternehmerschaft ist selbst nahestehende
+Person, wenn sie die Voraussetzungen des Absatzes 2 erfüllt. Für die
+Anwendung des Fremdvergleichsgrundsatzes ist davon auszugehen, dass
+die voneinander unabhängigen Dritten alle wesentlichen Umstände der
+Geschäftsbeziehung kennen und nach den Grundsätzen ordentlicher und
+gewissenhafter Geschäftsleiter handeln. Führt die Anwendung des
 Fremdvergleichsgrundsatzes zu weitergehenden Berichtigungen als die
 anderen Vorschriften, sind die weitergehenden Berichtigungen neben den
 Rechtsfolgen der anderen Vorschriften durchzuführen.
@@ -87,10 +91,11 @@ für seine Einkünfteermittlung verwendete Wert in den Fällen des Satzes
 der eingeengten Bandbreite, ist der Median maßgeblich. Können keine
 eingeschränkt vergleichbaren Fremdvergleichswerte festgestellt werden,
 hat der Steuerpflichtige für seine Einkünfteermittlung einen
-hypothetischen Fremdvergleich unter Beachtung des Absatzes 1 Satz 2
+hypothetischen Fremdvergleich unter Beachtung des Absatzes 1 Satz 3
 durchzuführen. Dazu hat er auf Grund einer Funktionsanalyse und
 innerbetrieblicher Planrechnungen den Mindestpreis des Leistenden und
-den Höchstpreis des Leistungsempfängers zu ermitteln
+den Höchstpreis des Leistungsempfängers unter Berücksichtigung
+funktions- und risikoadäquater Kapitalisierungszinssätze zu ermitteln
 (Einigungsbereich); der Einigungsbereich wird von den jeweiligen
 Gewinnerwartungen (Gewinnpotenzialen) bestimmt. Es ist der Preis im
 Einigungsbereich der Einkünfteermittlung zugrunde zu legen, der dem
@@ -108,9 +113,8 @@ dazugehörigen Chancen und Risiken und der mit übertragenen oder
 anzuwenden, weil für das Transferpaket als Ganzes keine zumindest
 eingeschränkt vergleichbare Fremdvergleichswerte vorliegen, hat der
 Steuerpflichtige den Einigungsbereich auf der Grundlage des
-Transferpakets unter Berücksichtigung funktions- und risikoadäquater
-Kapitalisierungszinssätze zu bestimmen. In den Fällen des Satzes 9 ist
-die Bestimmung von Einzelverrechnungspreisen für alle betroffenen
+Transferpakets zu bestimmen. In den Fällen des Satzes 9 ist die
+Bestimmung von Einzelverrechnungspreisen für alle betroffenen
 Wirtschaftsgüter und Dienstleistungen nach Vornahme sachgerechter
 Anpassungen anzuerkennen, wenn der Steuerpflichtige glaubhaft macht,
 dass keine wesentlichen immateriellen Wirtschaftsgüter und Vorteile
@@ -134,30 +138,104 @@ Satzes 11 ein, ist für eine deshalb vorzunehmende Berichtigung nach
 Absatz 1 Satz 1 einmalig ein angemessener Anpassungsbetrag auf den
 ursprünglichen Verrechnungspreis der Besteuerung des Wirtschaftsjahres
 zugrunde zu legen, das dem Jahr folgt, in dem die Abweichung
-eingetreten ist. Um eine einheitliche Rechtsanwendung und die
-Übereinstimmung mit den internationalen Grundsätzen zur
-Einkunftsabgrenzung sicherzustellen, wird das Bundesministerium der
-Finanzen ermächtigt, mit Zustimmung des Bundesrates durch
-Rechtsverordnung Einzelheiten zur Anwendung des
-Fremdvergleichsgrundsatzes im Sinne des Absatzes 1 und der Sätze 1 bis
-12 zu bestimmen.
+eingetreten ist.
 
-(4) Ist bei den in Absatz 1 genannten Einkünften in Fällen des § 162
-Abs. 2 der Abgabenordnung eine Schätzung vorzunehmen, so ist mangels
-anderer geeigneter Anhaltspunkte eine durchschnittliche Umsatzrendite
-oder Verzinsung für das im Unternehmen eingesetzte Kapital anzusetzen,
-die unter Berücksichtigung der ausgeübten Funktionen, eingesetzten
-Wirtschaftsgüter und übernommenen Risiken zu erwarten ist. Schätzungen
-nach § 162 Abs. 3 der Abgabenordnung bleiben unberührt.
+(4) Geschäftsbeziehungen im Sinne dieser Vorschrift sind
 
-(5) Geschäftsbeziehung im Sinne der Absätze 1 und 2 ist jede den
-Einkünften zugrunde liegende schuldrechtliche Beziehung, die keine
-gesellschaftsvertragliche Vereinbarung ist und entweder beim
-Steuerpflichtigen oder bei der nahe stehenden Person Teil einer
-Tätigkeit ist, auf die die §§ 13, 15, 18 oder § 21 des
-Einkommensteuergesetzes anzuwenden sind oder im Fall eines
-ausländischen Nahestehenden anzuwenden wären, wenn die Tätigkeit im
-Inland vorgenommen würde.
+1.  einzelne oder mehrere zusammenhängende wirtschaftliche Vorgänge
+    (Geschäftsvorfälle) zwischen einem Steuerpflichtigen und einer ihm
+    nahestehenden Person,
+
+    a)  die Teil einer Tätigkeit des Steuerpflichtigen oder der nahestehenden
+        Person sind, auf die die §§ 13, 15, 18 oder 21 des
+        Einkommensteuergesetzes anzuwenden sind oder anzuwenden wären, wenn
+        sich der Geschäftsvorfall im Inland unter Beteiligung eines
+        unbeschränkt Steuerpflichtigen und einer inländischen nahestehenden
+        Person ereignet hätte, und
+
+
+    b)  denen keine gesellschaftsvertragliche Vereinbarung zugrunde liegt;
+        eine gesellschaftsvertragliche Vereinbarung ist eine Vereinbarung, die
+        unmittelbar zu einer rechtlichen Änderung der Gesellschafterstellung
+        führt;
+
+
+
+
+
+2.  Geschäftsvorfälle zwischen einem Unternehmen eines Steuerpflichtigen
+    und seiner in einem anderen Staat gelegenen Betriebsstätte
+    (anzunehmende schuldrechtliche Beziehungen).
+
+
+
+Liegt einem Geschäftsvorfall keine schuldrechtliche Vereinbarung
+zugrunde, ist davon auszugehen, dass voneinander unabhängige
+ordentliche und gewissenhafte Geschäftsleiter eine schuldrechtliche
+Vereinbarung getroffen hätten oder eine bestehende Rechtsposition
+geltend machen würden, die der Besteuerung zugrunde zu legen ist, es
+sei denn, der Steuerpflichtige macht im Einzelfall etwas anderes
+glaubhaft.
+
+(5) Die Absätze 1, 3 und 4 sind entsprechend anzuwenden, wenn für eine
+Geschäftsbeziehung im Sinne des Absatzes 4 Satz 1 Nummer 2 die
+Bedingungen, insbesondere die Verrechnungspreise, die der Aufteilung
+der Einkünfte zwischen einem inländischen Unternehmen und seiner
+ausländischen Betriebsstätte oder der Ermittlung der Einkünfte der
+inländischen Betriebsstätte eines ausländischen Unternehmens
+steuerlich zugrunde gelegt werden, nicht dem Fremdvergleichsgrundsatz
+entsprechen und dadurch die inländischen Einkünfte eines beschränkt
+Steuerpflichtigen gemindert oder die ausländischen Einkünfte eines
+unbeschränkt Steuerpflichtigen erhöht werden. Zur Anwendung des
+Fremdvergleichsgrundsatzes ist eine Betriebsstätte wie ein
+eigenständiges und unabhängiges Unternehmen zu behandeln, es sei denn,
+die Zugehörigkeit der Betriebsstätte zum Unternehmen erfordert eine
+andere Behandlung. Um die Betriebsstätte wie ein eigenständiges und
+unabhängiges Unternehmen zu behandeln, sind ihr in einem ersten
+Schritt zuzuordnen:
+
+1.  die Funktionen des Unternehmens, die durch ihr Personal ausgeübt
+    werden (Personalfunktionen),
+
+
+2.  die Vermögenswerte des Unternehmens, die sie zur Ausübung der ihr
+    zugeordneten Funktionen benötigt,
+
+
+3.  die Chancen und Risiken des Unternehmens, die sie auf Grund der
+    ausgeübten Funktionen und zugeordneten Vermögenswerte übernimmt, sowie
+
+
+4.  ein angemessenes Eigenkapital (Dotationskapital).
+
+
+
+Auf der Grundlage dieser Zuordnung sind in einem zweiten Schritt die
+Art der Geschäftsbeziehungen zwischen dem Unternehmen und seiner
+Betriebsstätte und die Verrechnungspreise für diese
+Geschäftsbeziehungen zu bestimmen. Die Sätze 1 bis 4 sind entsprechend
+auf ständige Vertreter anzuwenden. Die Möglichkeit, einen
+Ausgleichsposten nach § 4g des Einkommensteuergesetzes zu bilden, wird
+nicht eingeschränkt. Auf Geschäftsbeziehungen zwischen einem
+Gesellschafter und seiner Personengesellschaft oder zwischen einem
+Mitunternehmer und seiner Mitunternehmerschaft sind die Sätze 1 bis 4
+nicht anzuwenden, unabhängig davon, ob die Beteiligung unmittelbar
+besteht oder ob sie nach § 15 Absatz 1 Satz 1 Nummer 2 Satz 2 des
+Einkommensteuergesetzes mittelbar besteht; für diese
+Geschäftsbeziehungen gilt Absatz 1. Ist ein Abkommen zur Vermeidung
+der Doppelbesteuerung anzuwenden und macht der Steuerpflichtige
+geltend, dass dessen Regelungen den Sätzen 1 bis 7 widersprechen, so
+hat das Abkommen nur Vorrang, soweit der Steuerpflichtige nachweist,
+dass der andere Staat sein Besteuerungsrecht entsprechend diesem
+Abkommen ausübt und deshalb die Anwendung der Sätze 1 bis 7 zu einer
+Doppelbesteuerung führen würde.
+
+(6) Das Bundesministerium der Finanzen wird ermächtigt, mit Zustimmung
+des Bundesrates durch Rechtsverordnung Einzelheiten des
+Fremdvergleichsgrundsatzes im Sinne der Absätze 1, 3 und 5 und
+Einzelheiten zu dessen einheitlicher Anwendung zu regeln sowie
+Grundsätze zur Bestimmung des Dotationskapitals im Sinne des Absatzes
+5 Satz 3 Nummer 4 festzulegen.
 
 
 ## Zweiter Teil - Wohnsitzwechsel in niedrigbesteuernde Gebiete
@@ -238,16 +316,15 @@ wirtschaftliche Interessen im Geltungsbereich dieses Gesetzes, wenn
 
 
 2.  ihre Einkünfte, die bei unbeschränkter Einkommensteuerpflicht nicht
-    ausländische Einkünfte im Sinne des § 34c Abs. 1 des
-    Einkommensteuergesetzes sind, im Veranlagungszeitraum mehr als 30
-    Prozent ihrer sämtlichen Einkünfte betragen oder 62 000 Euro
-    übersteigen oder
+    ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes
+    sind, im Veranlagungszeitraum mehr als 30 Prozent ihrer sämtlichen
+    Einkünfte betragen oder 62 000 Euro übersteigen oder
 
 
 3.  zu Beginn des Veranlagungszeitraums ihr Vermögen, dessen Erträge bei
     unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im
-    Sinne des § 34c Abs. 1 des Einkommensteuergesetzes wären, mehr als 30
-    Prozent ihres Gesamtvermögens beträgt oder 154 000 Euro übersteigt.
+    Sinne des § 34d des Einkommensteuergesetzes wären, mehr als 30 Prozent
+    ihres Gesamtvermögens beträgt oder 154 000 Euro übersteigt.
 
 
 
@@ -258,11 +335,15 @@ ausländischen Gesellschaft im Sinne des § 5, an der die Person unter
 den dort genannten Voraussetzungen beteiligt ist, entsprechend ihrer
 Beteiligung zu berücksichtigen.
 
-(5) Ist Absatz 1 anzuwenden, so kommt der Steuersatz zur Anwendung,
-der sich für sämtliche Einkünfte der Person ergibt. Auf Einkünfte, die
-dem Steuerabzug vom Kapitalertrag oder dem Steuerabzug auf Grund des §
-50a des Einkommensteuergesetzes unterliegen, ist § 50 Abs. 2 des
-Einkommensteuergesetzes nicht anzuwenden.
+(5) Ist Absatz 1 anzuwenden, kommt der Steuersatz zur Anwendung, der
+sich für sämtliche Einkünfte der Person ergibt; für die Ermittlung des
+Steuersatzes bleiben Einkünfte aus Kapitalvermögen außer Betracht, die
+dem gesonderten Steuersatz nach § 32d Absatz 1 des
+Einkommensteuergesetzes unterliegen. Auf Einkünfte, die dem
+Steuerabzug auf Grund des § 50a des Einkommensteuergesetzes
+unterliegen, ist § 50 Absatz 2 des Einkommensteuergesetzes nicht
+anzuwenden. § 43 Absatz 5 des Einkommensteuergesetzes bleibt
+unberührt.
 
 (6) Weist die Person nach, daß die auf Grund der Absätze 1 und 5
 zusätzlich zu entrichtende Steuer insgesamt zu einer höheren
@@ -286,7 +367,7 @@ Erbschaftsteuerpflicht nach § 2 Abs. 1 Nr. 3 des
 Erbschaftsteuergesetzes die Steuerpflicht über den dort bezeichneten
 Umfang hinaus für alle Teile des Erwerbs ein, deren Erträge bei
 unbeschränkter Einkommensteuerpflicht nicht ausländische Einkünfte im
-Sinne des § 34c Abs. 1 des Einkommensteuergesetzes wären.
+Sinne des § 34d des Einkommensteuergesetzes wären.
 
 (2) Absatz 1 findet keine Anwendung, wenn nachgewiesen wird, daß für
 die Teile des Erwerbs, die nach dieser Vorschrift über § 2 Abs. 1 Nr.
@@ -308,13 +389,13 @@ oder zusammen mit unbeschränkt Steuerpflichtigen an einer
 ausländischen Gesellschaft im Sinne des § 7 beteiligt, so sind
 Einkünfte, mit denen diese Personen bei unbeschränkter Steuerpflicht
 nach den §§ 7, 8 und 14 steuerpflichtig wären und die nicht
-ausländische Einkünfte im Sinne des § 34c Abs. 1 des
-Einkommensteuergesetzes sind, diesen Personen zuzurechnen. Liegen die
-Voraussetzungen des Satzes 1 vor, so sind die Vermögenswerte der
-ausländischen Gesellschaft, deren Erträge bei unbeschränkter
-Steuerpflicht nicht ausländische Einkünfte im Sinne des § 34c Abs. 1
-des Einkommensteuergesetzes wären, im Fall des § 4 dem Erwerb
-entsprechend der Beteiligung zuzurechnen.
+ausländische Einkünfte im Sinne des § 34d des Einkommensteuergesetzes
+sind, diesen Personen zuzurechnen. Liegen die Voraussetzungen des
+Satzes 1 vor, so sind die Vermögenswerte der ausländischen
+Gesellschaft, deren Erträge bei unbeschränkter Steuerpflicht nicht
+ausländische Einkünfte im Sinne des § § 34d des
+Einkommensteuergesetzes wären, im Fall des § 4 dem Erwerb entsprechend
+der Beteiligung zuzurechnen.
 
 (2) Das Vermögen, das den nach Absatz 1 einer Person zuzurechnenden
 Einkünften zugrunde liegt, haftet für die von dieser Person für diese
@@ -464,7 +545,12 @@ Sätze 1 und 2 gelten entsprechend, wenn
 3.  im Fall des Absatzes 1 Satz 2 Nr. 3 der Steuerpflichtige die Anteile
     in einen Betrieb oder eine Betriebsstätte in einem anderen
     Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
-    des EWR-Abkommens einlegt.
+    des EWR-Abkommens einlegt oder
+
+
+4.  im Fall des Absatzes 1 Satz 2 Nummer 4 der Steuerpflichtige Anteile an
+    einer in einem Mitgliedstaat der Europäischen Union oder in einem
+    Vertragsstaat des EWR-Abkommens ansässigen Gesellschaft hält.
 
 
 
@@ -615,7 +701,7 @@ Bruttoerträge nicht mehr als 10 Prozent der den gesamten
 Zwischeneinkünften zugrunde liegenden Bruttoerträge der ausländischen
 Zwischengesellschaft betragen und die bei einer Zwischengesellschaft
 oder bei einem Steuerpflichtigen hiernach außer Ansatz zu lassenden
-Beträge insgesamt 80.000 Euro nicht übersteigen. Satz 1 ist auch
+Beträge insgesamt 80 000 Euro nicht übersteigen. Satz 1 ist auch
 anzuwenden bei einer Beteiligung von weniger als 1 Prozent, wenn die
 ausländische Gesellschaft ausschließlich oder fast ausschließlich
 Bruttoerträge erzielt, die Zwischeneinkünften mit
@@ -641,10 +727,7 @@ der jeweils geltenden Fassung.
 (7) Die Absätze 1 bis 6a sind nicht anzuwenden, wenn auf die
 Einkünfte, für die die ausländische Gesellschaft Zwischengesellschaft
 ist, die Vorschriften des Investmentsteuergesetzes in der jeweils
-geltenden Fassung anzuwenden sind, es sei denn, Ausschüttungen oder
-ausschüttungsgleiche Erträge wären nach einem Abkommen zur Vermeidung
-der Doppelbesteuerung von der inländischen Bemessungsgrundlage
-auszunehmen.
+geltenden Fassung anzuwenden sind.
 
 (8) Sind unbeschränkt Steuerpflichtige an einer ausländischen
 Gesellschaft beteiligt und ist diese an einer Gesellschaft im Sinne
@@ -807,28 +890,24 @@ stammen aus:
 oder ihre Geschäftsleitung in einem Mitgliedstaat der Europäischen
 Union oder einem Vertragsstaat des EWR-Abkommens hat, nicht
 Zwischengesellschaft für Einkünfte, für die unbeschränkt
-Steuerpflichtige, die im Sinne des § 7 Abs. 2 an der Gesellschaft
-beteiligt sind, nachweisen, dass die Gesellschaft insoweit einer
-tatsächlichen wirtschaftlichen Tätigkeit in diesem Staat nachgeht.
-Weitere Voraussetzung ist, dass zwischen der Bundesrepublik
-Deutschland und diesem Staat auf Grund der Richtlinie 77/799/EWG des
-Rates vom 19. Dezember 1977 über die gegenseitige Amtshilfe zwischen
-den zuständigen Behörden der Mitgliedstaaten im Bereich der direkten
-Steuern und der Mehrwertsteuer (ABl. EG Nr. L 336 S. 15), die zuletzt
-durch die Richtlinie 2006/98/EWG des Rates vom 20. November 2006 (ABl.
-EU Nr. L 363 S. 129) geändert worden ist, in der jeweils geltenden
-Fassung, oder einer vergleichbaren zwei- oder mehrseitigen
-Vereinbarung, Auskünfte erteilt werden, die erforderlich sind, um die
-Besteuerung durchzuführen. Satz 1 gilt nicht für die der Gesellschaft
-nach § 14 zuzurechnenden Einkünfte einer Untergesellschaft, die weder
-Sitz noch Geschäftsleitung in einem Mitgliedstaat der Europäischen
-Union oder einem Vertragsstaat des EWR-Abkommens hat. Das gilt auch
-für Zwischeneinkünfte, die einer Betriebsstätte der Gesellschaft
-außerhalb der Europäischen Union oder der Vertragsstaaten des EWR-
-Abkommens zuzurechnen sind. Der tatsächlichen wirtschaftlichen
-Tätigkeit der Gesellschaft sind nur Einkünfte der Gesellschaft
-zuzuordnen, die durch diese Tätigkeit erzielt werden und dies nur
-insoweit, als der Fremdvergleichsgrundsatz (§ 1) beachtet worden ist.
+Steuerpflichtige, die im Sinne des § 7 Absatz 2 oder Absatz 6 an der
+Gesellschaft beteiligt sind, nachweisen, dass die Gesellschaft
+insoweit einer tatsächlichen wirtschaftlichen Tätigkeit in diesem
+Staat nachgeht. Weitere Voraussetzung ist, dass zwischen der
+Bundesrepublik Deutschland und diesem Staat auf Grund der
+Amtshilferichtlinie gemäß § 2 Absatz 2 des EU-Amtshilfegesetzes oder
+einer vergleichbaren zwei- oder mehrseitigen Vereinbarung, Auskünfte
+erteilt werden, die erforderlich sind, um die Besteuerung
+durchzuführen. Satz 1 gilt nicht für die der Gesellschaft nach § 14
+zuzurechnenden Einkünfte einer Untergesellschaft, die weder Sitz noch
+Geschäftsleitung in einem Mitgliedstaat der Europäischen Union oder
+einem Vertragsstaat des EWR-Abkommens hat. Das gilt auch für
+Zwischeneinkünfte, die einer Betriebsstätte der Gesellschaft außerhalb
+der Europäischen Union oder der Vertragsstaaten des EWR-Abkommens
+zuzurechnen sind. Der tatsächlichen wirtschaftlichen Tätigkeit der
+Gesellschaft sind nur Einkünfte der Gesellschaft zuzuordnen, die durch
+diese Tätigkeit erzielt werden und dies nur insoweit, als der
+Fremdvergleichsgrundsatz (§ 1) beachtet worden ist.
 
 (3) Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt vor, wenn
 die Einkünfte der ausländischen Gesellschaft einer Belastung durch
@@ -888,22 +967,17 @@ Abs. 2 des Einkommensteuergesetzes gilt entsprechend.
 
 (3) Die dem Hinzurechnungsbetrag zugrunde liegenden Einkünfte sind in
 entsprechender Anwendung der Vorschriften des deutschen Steuerrechts
-zu ermitteln; für die Ermittlung der Einkünfte aus Anteilen an einem
-inländischen oder ausländischen Investmentvermögen sind die
-Vorschriften des Investmentsteuergesetzes vom 15. Dezember 2003 (BGBl.
-I S. 2676, 2724) in der jeweils geltenden Fassung sinngemäß
-anzuwenden, sofern dieses Gesetz auf das Investmentvermögen anwendbar
-ist. Eine Gewinnermittlung entsprechend den Grundsätzen des § 4 Abs. 3
-des Einkommensteuergesetzes steht einer Gewinnermittlung nach § 4 Abs.
-1 oder § 5 des Einkommensteuergesetzes gleich. Bei mehreren
+zu ermitteln. Eine Gewinnermittlung entsprechend den Grundsätzen des §
+4 Abs. 3 des Einkommensteuergesetzes steht einer Gewinnermittlung nach
+§ 4 Abs. 1 oder § 5 des Einkommensteuergesetzes gleich. Bei mehreren
 Beteiligten kann das Wahlrecht für die Gesellschaft nur einheitlich
 ausgeübt werden. Steuerliche Vergünstigungen, die an die unbeschränkte
 Steuerpflicht oder an das Bestehen eines inländischen Betriebs oder
-einer inländischen Betriebsstätte anknüpfen und die Vorschriften des §
-4h des Einkommensteuergesetzes sowie der §§ 8a, 8b Abs. 1 und 2 des
+einer inländischen Betriebsstätte anknüpfen, und die §§ 4h, 4j des
+Einkommensteuergesetzes sowie die §§ 8a, 8b Absatz 1 und 2 des
 Körperschaftsteuergesetzes bleiben unberücksichtigt; dies gilt auch
 für die Vorschriften des Umwandlungssteuergesetzes, soweit Einkünfte
-aus einer Umwandlung nach § 8 Abs. 1 Nr. 10 hinzuzurechnen sind.
+aus einer Umwandlung nach § 8 Absatz 1 Nummer 10 hinzuzurechnen sind.
 Verluste, die bei Einkünften entstanden sind, für die die ausländische
 Gesellschaft Zwischengesellschaft ist, können in entsprechender
 Anwendung des § 10d des Einkommensteuergesetzes, soweit sie die nach §
@@ -1002,12 +1076,13 @@ weitere ausländische Gesellschaften nachgeschaltet sind.
 
 ### § 15 Steuerpflicht von Stiftern, Bezugsberechtigten und Anfallsberechtigten
 
-(1) Vermögen und Einkommen einer Familienstiftung, die
+(1) Vermögen und Einkünfte einer Familienstiftung, die
 Geschäftsleitung und Sitz außerhalb des Geltungsbereichs dieses
-Gesetzes hat, werden dem Stifter, wenn er unbeschränkt steuerpflichtig
-ist, sonst den unbeschränkt steuerpflichtigen Personen, die
-bezugsberechtigt oder anfallsberechtigt sind, entsprechend ihrem
-Anteil zugerechnet. Dies gilt nicht für die Erbschaftsteuer.
+Gesetzes hat (ausländische Familienstiftung), werden dem Stifter, wenn
+er unbeschränkt steuerpflichtig ist, sonst den unbeschränkt
+steuerpflichtigen Personen, die bezugsberechtigt oder
+anfallsberechtigt sind, entsprechend ihrem Anteil zugerechnet. Dies
+gilt nicht für die Erbschaftsteuer.
 
 (2) Familienstiftungen sind Stiftungen, bei denen der Stifter, seine
 Angehörigen und deren Abkömmlinge zu mehr als der Hälfte
@@ -1026,9 +1101,9 @@ anfallsberechtigt sind.
 (4) Den Stiftungen stehen sonstige Zweckvermögen, Vermögensmassen und
 rechtsfähige oder nichtrechtsfähige Personenvereinigungen gleich.
 
-(5) Die §§ 5 und 12 sind entsprechend anzuwenden. Im übrigen finden,
-soweit Absatz 1 anzuwenden ist, die Vorschriften des Vierten Teils
-dieses Gesetzes keine Anwendung.
+(5) § 12 Absatz 1 und 2 ist entsprechend anzuwenden. Für Steuern auf
+die nach Absatz 11 befreiten Zuwendungen gilt § 12 Absatz 3
+entsprechend.
 
 (6) Hat eine Familienstiftung Geschäftsleitung oder Sitz in einem
 Mitgliedstaat der Europäischen Union oder einem Vertragsstaat des EWR-
@@ -1041,17 +1116,65 @@ Abkommens, ist Absatz 1 nicht anzuwenden, wenn
 
 2.  zwischen der Bundesrepublik Deutschland und dem Staat, in dem die
     Familienstiftung Geschäftsleitung oder Sitz hat, auf Grund der
-    Richtlinie 77/799/EWG oder einer vergleichbaren zwei- oder
-    mehrseitigen Vereinbarung, Auskünfte erteilt werden, die erforderlich
-    sind, um die Besteuerung durchzuführen.
+    Amtshilferichtlinie gemäß § 2 Absatz 2 des EU-Amtshilfegesetzes oder
+    einer vergleichbaren zwei- oder mehrseitigen Vereinbarung, Auskünfte
+    erteilt werden, die erforderlich sind, um die Besteuerung
+    durchzuführen.
 
 
 
 
-(7) Das nach Absatz 1 zuzurechnende Einkommen ist in entsprechender
-Anwendung der Vorschriften des deutschen Steuerrechts zu ermitteln.
-Ergibt sich ein negativer Betrag, entfällt die Zurechnung. § 10d des
-Einkommensteuergesetzes ist entsprechend anzuwenden.
+(7) Die Einkünfte der Stiftung nach Absatz 1 werden in entsprechender
+Anwendung der Vorschriften des Körperschaftsteuergesetzes und des
+Einkommensteuergesetzes ermittelt. Bei der Ermittlung der Einkünfte
+gilt § 10 Absatz 3 entsprechend. Ergibt sich ein negativer Betrag,
+entfällt die Zurechnung.
+
+(8) Die nach Absatz 1 dem Stifter oder der bezugs- oder
+anfallsberechtigten Person zuzurechnenden Einkünfte gehören bei
+Personen, die ihre Einkünfte nicht nach dem Körperschaftsteuergesetz
+ermitteln, zu den Einkünften im Sinne des § 20 Absatz 1 Nummer 9 des
+Einkommensteuergesetzes. § 20 Absatz 8 des Einkommensteuergesetzes
+bleibt unberührt; § 3 Nummer 40 Satz 1 Buchstabe d und § 32d des
+Einkommensteuergesetzes sind nur insoweit anzuwenden, als diese
+Vorschriften bei unmittelbarem Bezug der zuzurechnenden Einkünfte
+durch die Personen im Sinne des Absatzes 1 anzuwenden wären. Soweit es
+sich beim Stifter oder der bezugs- oder anfallsberechtigten Person um
+Personen handelt, die ihre Einkünfte nach dem Körperschaftsteuergesetz
+ermitteln, bleibt § 8 Absatz 2 des Körperschaftsteuergesetzes
+unberührt; § 8b Absatz 1 und 2 des Körperschaftsteuergesetzes ist nur
+insoweit anzuwenden, als diese Vorschrift bei unmittelbarem Bezug der
+zuzurechnenden Einkünfte durch die Personen im Sinne des Absatzes 1
+anzuwenden wäre.
+
+(9) Ist eine ausländische Familienstiftung oder eine andere
+ausländische Stiftung im Sinne des Absatzes 10 an einer Körperschaft,
+Personenvereinigung oder Vermögensmasse im Sinne des
+Körperschaftsteuergesetzes, die weder Geschäftsleitung noch Sitz im
+Geltungsbereich dieses Gesetzes hat und die nicht gemäß § 3 Absatz 1
+des Körperschaftsteuergesetzes von der Körperschaftsteuerpflicht
+ausgenommen ist (ausländische Gesellschaft), beteiligt, so gehören die
+Einkünfte dieser Gesellschaft in entsprechender Anwendung der §§ 7 bis
+14 mit dem Teil zu den Einkünften der Familienstiftung, der auf die
+Beteiligung der Stiftung am Nennkapital der Gesellschaft entfällt. Auf
+Gewinnausschüttungen der ausländischen Gesellschaft, denen
+nachweislich bereits nach Satz 1 zugerechnete Beträge zugrunde liegen,
+ist Absatz 1 nicht anzuwenden.
+
+(10) Einer ausländischen Familienstiftung werden Vermögen und
+Einkünfte einer anderen ausländischen Stiftung, die nicht die
+Voraussetzungen des Absatzes 6 Satz 1 erfüllt, entsprechend ihrem
+Anteil zugerechnet, wenn sie allein oder zusammen mit den in den
+Absätzen 2 und 3 genannten Personen zu mehr als der Hälfte unmittelbar
+oder mittelbar bezugsberechtigt oder anfallsberechtigt ist. Auf
+Zuwendungen der ausländischen Stiftung, denen nachweislich bereits
+nach Satz 1 zugerechnete Beträge zugrunde liegen, ist Absatz 1 nicht
+anzuwenden.
+
+(11) Zuwendungen der ausländischen Familienstiftung unterliegen bei
+Personen im Sinne des Absatzes 1 nicht der Besteuerung, soweit die den
+Zuwendungen zugrunde liegenden Einkünfte nachweislich bereits nach
+Absatz 1 zugerechnet worden sind.
 
 
 ## Sechster Teil - Ermittlung und Verfahren
@@ -1141,9 +1264,8 @@ die Abgabe einer gemeinsamen Erklärung erfüllt werden. Die Erklärung
 ist von dem Steuerpflichtigen oder von den in § 34 der Abgabenordnung
 bezeichneten Personen eigenhändig zu unterschreiben.
 
-(4) Ist das Einkommen im Sinne des § 15 Abs. 1 mehreren Personen
-zuzurechnen, werden die Besteuerungsgrundlagen in entsprechender
-Anwendung der Absätze 1 bis 3 einheitlich und gesondert festgestellt.
+(4) Die Absätze 1 bis 3 gelten für Einkünfte und Vermögen im Sinne des
+§ 15 entsprechend.
 
 
 ## Siebenter Teil - Schlußvorschriften
@@ -1539,6 +1661,51 @@ entstanden sind, das nach dem 31. Dezember 2010 beginnt. § 20 Absatz 2
 in der Fassung des Artikels 7 des Gesetzes vom 8. Dezember 2010 (BGBl.
 I S. 1768) ist in allen Fällen anzuwenden, in denen die
 Einkommensteuer noch nicht bestandskräftig festgesetzt ist.
+
+(20) § 1 Absatz 1 Satz 2 erster Halbsatz und Absatz 3 und 6 in der
+Fassung des Artikels 6 des Gesetzes vom 26. Juni 2013 (BGBl. I S.
+1809) ist erstmals für den Veranlagungszeitraum 2013 anzuwenden. § 1
+Absatz 1 Satz 2 zweiter Halbsatz in der Fassung des Artikels 6 des
+Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) gilt für alle noch nicht
+bestandskräftigen Veranlagungen. § 1 Absatz 4 und 5 in der Fassung des
+Artikels 6 des Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) ist
+erstmals für Wirtschaftsjahre anzuwenden, die nach dem 31. Dezember
+2012 beginnen.
+
+(21) § 2 Absatz 5 in der Fassung des Artikels 6 des Gesetzes vom 26.
+Juni 2013 (BGBl. I S. 1809) ist erstmals für den Veranlagungszeitraum
+2013 anzuwenden. Auf Antrag ist § 2 Absatz 5 Satz 1 und 3 in der
+Fassung des Artikels 6 des Gesetzes vom 26. Juni 2013 (BGBl. I S.
+1809) bereits für Veranlagungszeiträume vor 2013 anzuwenden, bereits
+ergangene Steuerfestsetzungen sind aufzuheben oder zu ändern. § 8
+Absatz 2 in der Fassung des Artikels 6 des Gesetzes vom 26. Juni 2013
+(BGBl. I S. 1809) ist erstmals anzuwenden
+
+1.  für die Einkommen- und Körperschaftsteuer für den
+    Veranlagungszeitraum,
+
+
+2.  für die Gewerbesteuer für den Erhebungszeitraum,
+
+
+
+für den Zwischeneinkünfte hinzuzurechnen sind, die in einem
+Wirtschaftsjahr der Zwischengesellschaft oder der Betriebsstätte
+entstanden sind, das nach dem 31. Dezember 2012 beginnt. § 15 Absatz
+1, 5 bis 11 sowie § 18 Absatz 4 sind in der Fassung des Artikels 6 des
+Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) für die Einkommen- und
+Körperschaftsteuer erstmals anzuwenden für den Veranlagungszeitraum
+2013\.
+
+(22) § 1 Absatz 4 in der am 31. Dezember 2014 geltenden Fassung ist
+erstmals für den Veranlagungszeitraum 2015 anzuwenden.
+
+(23) § 6 Absatz 5 Satz 3 in der am 31. Dezember 2014 geltenden Fassung
+ist in allen Fällen anzuwenden, in denen die geschuldete Steuer noch
+nicht entrichtet ist.
+
+(24) Die §§ 7 und 10 in der am 1. Januar 2018 geltenden Fassung sind
+ab dem 1. Januar 2018 anzuwenden.
 
 
 ### § 22 Neufassung des Gesetzes

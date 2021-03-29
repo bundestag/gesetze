@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 1086
 
 Zuletzt geändert durch
-:   Art. 1 V v. 30.11.2012 I 2459
+:   Art. 1 V v. 24.6.2013 I 1681
 
 
 ## Eingangsformel
@@ -170,20 +170,24 @@ Monats oder entsprechend dem zwischen ihnen und der Bundesagentur
 vereinbarten vereinfachten Abrechnungsverfahren an die Bundesagentur
 ab.
 
-(3) In Betrieben nach § 1 Abs. 1 Nr. 1 können Umlagebeträge in
-Abrechnungsintervallen bis zu längstens sechs Monaten gezahlt werden,
-wenn von dem umlagepflichtigen Arbeitgeber im Rahmen der
-Beitragsentrichtung zu den Einzugsstellen längere
-Abrechnungsintervalle in Anspruch genommen werden. In diesen Fällen
-tritt an die Stelle der in Absatz 1 genannten Fälligkeit der Zahlung
-die für die Beitragsentrichtung zu den Einzugsstellen sich ergebende
-Fälligkeit. Können längere Abrechnungsintervalle vom Arbeitgeber
-gegenüber den Einzugsstellen nicht mehr in Anspruch genommen werden,
-gilt wieder die Fälligkeit nach Absatz 1. Bei Abrechnungsintervallen
-von über vier Monaten hat der umlagepflichtige Arbeitgeber gegenüber
-den Einzugsstellen eine selbstschuldnerische Bankbürgschaft oder eine
-gleichwertige Sicherheit zugunsten der Bundesagentur in Höhe der
-Umlage für zwei Monate zu stellen.
+(3) In Betrieben nach § 1 Absatz 1 Nummer 1
+
+1.  tritt an die Stelle der in Absatz 1 genannten Fälligkeit der 20. des
+    Monats, der dem Monat folgt, für den das Arbeitsentgelt zu zahlen ist;
+
+
+2.  können Umlagebeträge in Abrechnungsintervallen bis zu längstens sechs
+    Monaten gezahlt werden, wenn von dem umlagepflichtigen Arbeitgeber im
+    Rahmen der Beitragsentrichtung zu den Einzugsstellen längere
+    Abrechnungsintervalle in Anspruch genommen werden; in diesen Fällen
+    tritt an die Stelle der in Nummer 1 genannten Fälligkeit der Zahlung
+    die für die Beitragsentrichtung zu den Einzugsstellen sich ergebende
+    Fälligkeit; können längere Abrechnungsintervalle vom Arbeitgeber
+    gegenüber den Einzugsstellen nicht mehr in Anspruch genommen werden,
+    gilt wieder die Fälligkeit nach Nummer 1.
+
+
+
 
 (4) Arbeitgebern des Baugewerbes werden entrichtete Umlagebeträge, die
 auf Zeiten einer Beschäftigung von gewerblichen Arbeitnehmern auf

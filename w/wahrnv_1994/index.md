@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1994, 3812
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.4.2011 I 648
+:   Art. 208 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -387,22 +387,38 @@ Topographieabteilung durch Beamte des gehobenen und mittleren Dienstes
 sowie vergleichbare Tarifbeschäftigte ist § 2 entsprechend anzuwenden.
 
 
-## § 4 Geschmacksmusterstelle
+## § 4 Designstellen und Designabteilungen
 
-(1) Mit der Wahrnehmung von Geschäften der Geschmacksmusterstelle, die
-ihrer Art nach keine besonderen rechtlichen Schwierigkeiten bieten,
-werden auch Beamte des gehobenen Dienstes und vergleichbare
-Tarifbeschäftigte betraut.
+(1) Mit der Wahrnehmung derjenigen Geschäfte der Designstellen und
+Designabteilungen, die ihrer Art nach keine besonderen rechtlichen
+Schwierigkeiten bieten, werden auch Beamte des gehobenen und mittleren
+Dienstes und vergleichbare Tarifbeschäftigte betraut.
 
-(2) Dies gilt nicht für Geschäfte, die nach § 26 Abs. 2 Satz 2 Nr. 1
-bis 5 des Geschmacksmustergesetzes dem rechtskundigen Mitglied (§ 23
-Abs. 1 Satz 1 des Geschmacksmustergesetzes) vorbehalten sind.
+(2) Dies gilt nicht für Geschäfte, die nach § 26 Absatz 2 Satz 2
+Nummer 1 bis 3 des Designgesetzes dem rechtskundigen Mitglied (§ 23
+Absatz 1 Satz 2 des Designgesetzes) vorbehalten sind.
 
-(3) Mit der Bearbeitung von Anträgen auf Änderung einer
-Registereintragung, die den Wohnort oder die Zustellanschrift des
-Anmelders oder Inhabers eines Geschmacksmusters oder die Änderung von
-Vertreterangaben betrifft, werden auch Beamte des mittleren Dienstes
-oder vergleichbare Tarifbeschäftigte betraut.
+(3) Beamte des mittleren Dienstes und vergleichbare Tarifbeschäftigte
+werden insbesondere mit der Wahrnehmung folgender Aufgaben der
+Designstellen und Designabteilungen betraut:
+
+1.  formelle Bearbeitung der Akten im Nichtigkeitsverfahren,
+    einschließlich der Aufforderung an den Einreicher, formelle Mängel in
+    seinen Schriftsätzen zu beseitigen;
+
+
+2.  Gewährung der Einsicht in die Akten, einschließlich Erteilung von
+    Auskünften über den Akteninhalt sowie Erteilung von Ablichtungen und
+    Auszügen der Akten, soweit die Einsicht in die Akten jedermann
+    freisteht oder der Anmelder dem Antrag zugestimmt hat;
+
+
+3.  Bearbeitung von Anträgen auf Änderung einer Registereintragung, die
+    den Wohnort oder die Anschrift des Rechtsinhabers des eingetragenen
+    Designs oder die Änderung von Vertreterangaben betrifft.
+
+
+
 
 
 ## § 5 Markenstellen und Markenabteilungen
@@ -480,7 +496,8 @@ vergleichbare Tarifbeschäftigte betraut:
     Verfahren zu treffenden Entscheidungen, jedoch einschließlich der
     Feststellung, daß der Einspruch wegen fehlender Zahlung der
     Einspruchsgebühr als nicht erhoben gilt, sowie der Weiterleitung von
-    Anträgen und Einsprüchen an das Bundesministerium der Justiz;
+    Anträgen und Einsprüchen an das Bundesministerium der Justiz und für
+    Verbraucherschutz;
 
 
 12. Bearbeitung von Verfahren der Akteneinsicht;

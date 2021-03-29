@@ -3,7 +3,7 @@ Title: Übereinkommen zur Durchführung des Teiles XI des Seerechtsübereinkomme
   Vereinten Nationen
 jurabk: SeeRÜbkXIÜbk
 layout: default
-origslug: seer_bkxi_bk
+origslug: seeruebkxiuebk
 slug: seeruebkxiuebk
 
 ---

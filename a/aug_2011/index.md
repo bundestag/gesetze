@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 898
 
+Zuletzt geändert durch
+:   Art. 5 G v. 20.11.2015 I 2018
+
 
 ## Kapitel 1 - Allgemeiner Teil
 
@@ -54,17 +57,25 @@ Fundstelle
 
 2.  der Ausführung folgender völkerrechtlicher Verträge:
 
-    a)  des Haager Übereinkommens vom 2. Oktober 1973 über die Anerkennung und
+    a)  des Haager Übereinkommens vom 23. November 2007 über die
+        internationale Geltendmachung der Unterhaltsansprüche von Kindern und
+        anderen Familienangehörigen (ABl. L 192 vom 22.7.2011, S. 51) nach
+        Maßgabe des Beschlusses des Rates der Europäischen Union vom 9. Juni
+        2011 (ABl. L 192 vom 22.7.2011, S. 39) über die Genehmigung dieses
+        Übereinkommens;
+
+
+    b)  des Haager Übereinkommens vom 2. Oktober 1973 über die Anerkennung und
         Vollstreckung von Unterhaltsentscheidungen (BGBl. 1986 II S. 826);
 
 
-    b)  des Übereinkommens vom 16. September 1988 über die gerichtliche
+    c)  des Übereinkommens vom 16. September 1988 über die gerichtliche
         Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in
         Zivil- und Handelssachen (BGBl. 1994 II S. 2658), soweit dieses
         Übereinkommen auf Unterhaltssachen anzuwenden ist;
 
 
-    c)  des New Yorker UN-Übereinkommens vom 20. Juni 1956 über die
+    d)  des New Yorker UN-Übereinkommens vom 20. Juni 1956 über die
         Geltendmachung von Unterhaltsansprüchen im Ausland (BGBl. 1959 II S.
         150);
 
@@ -80,10 +91,10 @@ Fundstelle
 
 
 Die Gegenseitigkeit nach Satz 1 Nummer 3 ist verbürgt, wenn das
-Bundesministerium der Justiz dies festgestellt und im
-Bundesgesetzblatt bekannt gemacht hat (förmliche Gegenseitigkeit).
-Staaten im Sinne des Satzes 1 Nummer 3 sind auch Teilstaaten und
-Provinzen eines Bundesstaates.
+Bundesministerium der Justiz und für Verbraucherschutz dies
+festgestellt und im Bundesgesetzblatt bekannt gemacht hat (förmliche
+Gegenseitigkeit). Staaten im Sinne des Satzes 1 Nummer 3 sind auch
+Teilstaaten und Provinzen eines Bundesstaates.
 
 (2) Regelungen in völkerrechtlichen Vereinbarungen gehen, soweit sie
 unmittelbar anwendbares innerstaatliches Recht geworden sind, den
@@ -119,8 +130,8 @@ Im Sinne dieses Gesetzes
 
     b)  öffentlich-rechtliche Leistungsträger, die Unterhaltsansprüche aus
         übergegangenem Recht geltend machen, soweit die Verordnung (EG)
-        Nr. 4/2009                          oder der auszuführende
-        völkerrechtliche Vertrag auf solche Ansprüche anzuwenden ist,
+        Nr. 4/2009 oder der auszuführende völkerrechtliche Vertrag auf solche
+        Ansprüche anzuwenden ist,
 
 
 
@@ -161,17 +172,22 @@ weiter.
 (2) Das Verfahren der zentralen Behörde gilt als
 Justizverwaltungsverfahren.
 
-(3) Das Bundesministerium der Justiz wird ermächtigt, Aufgaben der
-zentralen Behörde entsprechend Artikel 51 Absatz 3 der Verordnung (EG)
-Nr. 4/2009 auf eine andere öffentliche Stelle zu übertragen oder eine
-juristische Person des Privatrechts mit den entsprechenden Aufgaben zu
-beleihen. Die Beliehene muss grundlegende Erfahrungen bei der
-Durchsetzung von Unterhaltsansprüchen im Ausland nachweisen können.
-Den Umfang der Aufgabenübertragung legt das Bundesministerium der
-Justiz fest. Die Übertragung ist vom Bundesministerium der Justiz im
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, Aufgaben der zentralen Behörde entsprechend Artikel 51
+Absatz 3 der Verordnung (EG) Nr. 4/2009 oder Artikel 6 Absatz 3 des
+Haager Übereinkommens vom 23. November 2007 über die internationale
+Geltendmachung der Unterhaltsansprüche von Kindern und anderen
+Familienangehörigen auf eine andere öffentliche Stelle zu übertragen
+oder eine juristische Person des Privatrechts mit den entsprechenden
+Aufgaben zu beleihen. Die Beliehene muss grundlegende Erfahrungen bei
+der Durchsetzung von Unterhaltsansprüchen im Ausland nachweisen
+können. Den Umfang der Aufgabenübertragung legt das Bundesministerium
+der Justiz und für Verbraucherschutz fest. Die Übertragung ist vom
+Bundesministerium der Justiz und für Verbraucherschutz im
 Bundesanzeiger bekannt zu geben. Die Beliehene unterliegt der
-Fachaufsicht des Bundesministeriums der Justiz. § 5 Absatz 5 und die
-§§ 7 und 9 werden auf die Tätigkeit der Beliehenen nicht angewendet.
+Fachaufsicht des Bundesministeriums der Justiz und für
+Verbraucherschutz. § 5 Absatz 6 und die §§ 7 und 9 werden auf die
+Tätigkeit der Beliehenen nicht angewendet.
 
 
 #### § 5 Aufgaben und Befugnisse der zentralen Behörde
@@ -188,7 +204,13 @@ Interessen und den Willen des Berechtigten zu beachten.
 die Aufgaben der zentralen Behörde nach den Artikeln 50, 51, 53 und 58
 dieser Verordnung.
 
-(4) Die zentrale Behörde gilt bei eingehenden Ersuchen als
+(4) Im Anwendungsbereich des Haager Übereinkommens vom 23. November
+2007 über die internationale Geltendmachung der Unterhaltsansprüche
+von Kindern und anderen Familienangehörigen richten sich die Aufgaben
+der zentralen Behörde nach den Artikeln 5, 6, 7 und 12 dieses
+Übereinkommens.
+
+(5) Die zentrale Behörde gilt bei eingehenden Ersuchen als
 bevollmächtigt, im Namen des Antragstellers selbst oder im Wege der
 Untervollmacht durch Vertreter außergerichtlich oder gerichtlich tätig
 zu werden. Sie ist insbesondere befugt, den Unterhaltsanspruch im Wege
@@ -196,7 +218,7 @@ eines Vergleichs oder eines Anerkenntnisses zu regeln. Falls
 erforderlich, darf sie auch einen Unterhaltsantrag stellen und die
 Vollstreckung eines Unterhaltstitels betreiben.
 
-(5) Die zentrale Behörde übermittelt die von den Verpflichteten
+(6) Die zentrale Behörde übermittelt die von den Verpflichteten
 eingezogenen Unterhaltsgelder an die Berechtigten nach den für
 Haushaltsmittel des Bundes geltenden Regeln. Satz 1 gilt für die
 Rückübermittlung überzahlter Beträge oder für andere bei der
@@ -224,7 +246,7 @@ Unterstützung ersuchen.
 Unterhaltssachen erfolgt durch das für den Sitz des
 Oberlandesgerichts, in dessen Bezirk der Antragsteller seinen
 gewöhnlichen Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk
-des Kammergerichts entscheidet das Amtsgericht Pankow-Weißensee.
+des Kammergerichts entscheidet das Amtsgericht Pankow/Weißensee.
 
 (2) Das Vorprüfungsverfahren ist ein Justizverwaltungsverfahren.
 
@@ -237,9 +259,15 @@ des Kammergerichts entscheidet das Amtsgericht Pankow-Weißensee.
 Königreichs Dänemark gerichteten Antrages richtet sich nach Artikel 57
 der Verordnung (EG) Nr. 4/2009.
 
-(2) In den nicht von Absatz 1 erfassten Fällen soll der Antrag alle
-Angaben enthalten, die für die Geltendmachung des Anspruchs von
-Bedeutung sein können, insbesondere
+(2) Der Inhalt eines an einen anderen Vertragsstaat des Haager
+Übereinkommens vom 23. November 2007 über die internationale
+Geltendmachung der Unterhaltsansprüche von Kindern und anderen
+Familienangehörigen gerichteten Antrages richtet sich nach Artikel 11
+dieses Übereinkommens.
+
+(3) In den nicht von den Absätzen 1 und 2 erfassten Fällen soll der
+Antrag alle Angaben enthalten, die für die Geltendmachung des
+Anspruchs von Bedeutung sein können, insbesondere
 
 1.  den Familiennamen und die Vornamen des Berechtigten; ferner seine
     Anschrift, den Tag seiner Geburt, seine Staatsangehörigkeit, seinen
@@ -277,12 +305,12 @@ Ein Antrag eines Berechtigten im Sinne des § 3 Nummer 3 Buchstabe b
 soll die in den Nummern 1 und 3 Buchstabe c genannten Angaben der
 Person enthalten, deren Anspruch übergegangen ist.
 
-(3) Einem Antrag nach Absatz 2 sollen die zugehörigen
+(4) Einem Antrag nach Absatz 3 sollen die zugehörigen
 Personenstandsurkunden und andere sachdienliche Schriftstücke
 beigefügt sein. Das in § 7 benannte Gericht kann von Amts wegen alle
 erforderlichen Ermittlungen anstellen.
 
-(4) In den Fällen des Absatzes 2 ist der Antrag vom Antragsteller, von
+(5) In den Fällen des Absatzes 3 ist der Antrag vom Antragsteller, von
 dessen gesetzlichem Vertreter oder von einem bevollmächtigten
 Vertreter unter Beifügung einer Vollmacht zu unterschreiben. Soweit
 dies nach dem Recht des zu ersuchenden Staates erforderlich ist, ist
@@ -292,7 +320,7 @@ Anforderungen des zu ersuchenden Staates an Form und Inhalt des
 Ersuchens ist zu genügen, soweit dem keine zwingenden Vorschriften des
 deutschen Rechts entgegenstehen.
 
-(5) In den Fällen des Absatzes 2 ist der Antrag an die Empfangsstelle
+(6) In den Fällen des Absatzes 3 ist der Antrag an die Empfangsstelle
 des Staates zu richten, in dem der Anspruch geltend gemacht werden
 soll.
 
@@ -317,6 +345,17 @@ stellt er hierüber eine Bescheinigung aus, veranlasst deren
 Übersetzung in die Sprache des zu ersuchenden Staates und fügt diese
 Unterlagen dem Ersuchen bei.
 
+(1a) Ergeben sich aus einem weitergeleiteten Antrag für die zentrale
+Behörde Zweifel, ob die Voraussetzungen des Artikels 57 Absatz 2 der
+Verordnung (EG) Nr. 4/2009, des Artikels 3 Absatz 3 des New Yorker UN-
+Übereinkommens vom 20. Juni 1956 über die Geltendmachung von
+Unterhaltsansprüchen im Ausland oder des Artikels 11 Absatz 1 des
+Haager Übereinkommens über die internationale Geltendmachung der
+Unterhaltsansprüche von Kindern und anderen Familienangehörigen vom
+23\. November 2007 erfüllt sind, so leitet die zentrale Behörde die
+Frage dem Richter zur Beantwortung zu. Dieser verfährt erneut nach
+Absatz 1.
+
 (2) Hat die beabsichtigte Rechtsverfolgung keine hinreichende Aussicht
 auf Erfolg (Absatz 1 Satz 1 Nummer 1) oder ist der Antrag mutwillig
 oder offensichtlich unbegründet (Absatz 1 Satz 1 Nummer 2), lehnt der
@@ -340,13 +379,15 @@ Weiterleitung des Antrages vor.
 
 (1) Der Antragsteller hat dem Antrag nebst Anlagen von einem
 beeidigten Übersetzer beglaubigte Übersetzungen in der Sprache des zu
-ersuchenden Staates beizufügen. Die Artikel 20, 28, 40, 59 und 66 der
-Verordnung (EG) Nr. 4/2009 bleiben hiervon unberührt. Ist im
-Anwendungsbereich des jeweils auszuführenden völkerrechtlichen
-Vertrages eine Übersetzung von Schriftstücken in eine Sprache
-erforderlich, die der zu ersuchende Staat für zulässig erklärt hat, so
-ist die Übersetzung von einer Person zu erstellen, die zur Anfertigung
-von Übersetzungen in einem der Vertragsstaaten befugt ist.
+ersuchenden Staates beizufügen. Dies gilt auch für Schriftstücke, die
+die ausländische zentrale Behörde im weiteren Verlauf des Verfahrens
+anfordert. Die Artikel 20, 28, 40, 59 und 66 der Verordnung (EG) Nr.
+4/2009 bleiben hiervon unberührt. Ist im Anwendungsbereich des jeweils
+auszuführenden völkerrechtlichen Vertrages eine Übersetzung von
+Schriftstücken in eine Sprache erforderlich, die der zu ersuchende
+Staat für zulässig erklärt hat, so ist die Übersetzung von einer
+Person zu erstellen, die zur Anfertigung von Übersetzungen in einem
+der Vertragsstaaten befugt ist.
 
 (2) Beschafft der Antragsteller trotz Aufforderung durch die zentrale
 Behörde die erforderliche Übersetzung nicht selbst, veranlasst die
@@ -377,6 +418,13 @@ Ersuchens.
 
 (3) Lehnt die zentrale Behörde die Weiterleitung des Antrages ab, ist
 § 9 Absatz 2 Satz 2 und 3 entsprechend anzuwenden.
+
+(4) Fragen, die die ausländische zentrale Behörde an die deutsche
+zentrale Behörde übermittelt, leitet diese an das nach § 7 Absatz 1
+zur Vorprüfung aufgerufene Gericht weiter. Dieses veranlasst die
+Beantwortung der Fragen und leitet die Antworten an die deutsche
+zentrale Behörde zurück. Das weitere Verfahren bei der deutschen
+zentralen Behörde richtet sich nach Absatz 1.
 
 
 ##### § 12 Registrierung eines bestehenden Titels im Ausland
@@ -435,9 +483,15 @@ bestimmten Staaten oder im Einzelfall von dem Erfordernis einer
 Ausnahme des Königreichs Dänemark richtet sich nach Artikel 57 der
 Verordnung (EG) Nr. 4/2009.
 
-(2) In den nicht von Absatz 1 erfassten Fällen soll der Antrag alle
-Angaben enthalten, die für die Geltendmachung des Anspruchs von
-Bedeutung sein können, insbesondere
+(2) Der Inhalt eines Antrages aus einem anderen Vertragsstaat des
+Haager Übereinkommens vom 23. November 2007 über die internationale
+Geltendmachung der Unterhaltsansprüche von Kindern und anderen
+Familienangehörigen richtet sich nach Artikel 11 dieses
+Übereinkommens.
+
+(3) In den nicht von den Absätzen 1 und 2 erfassten Fällen soll der
+Antrag alle Angaben enthalten, die für die Geltendmachung des
+Anspruchs von Bedeutung sein können, insbesondere
 
 1.  bei einer Indexierung einer titulierten Unterhaltsforderung die
     Modalitäten für die Berechnung dieser Indexierung und
@@ -448,9 +502,9 @@ Bedeutung sein können, insbesondere
 
 
 
-Im Übrigen gilt § 8 Absatz 2 entsprechend.
+Im Übrigen gilt § 8 Absatz 3 entsprechend.
 
-(3) In den Fällen des Absatzes 2 soll der Antrag vom Antragsteller,
+(4) In den Fällen des Absatzes 3 soll der Antrag vom Antragsteller,
 von dessen gesetzlichem Vertreter oder von einem bevollmächtigten
 Vertreter unter Beifügung einer Vollmacht unterschrieben und mit einer
 Stellungnahme der ausländischen Stelle versehen sein, die den Antrag
@@ -468,7 +522,7 @@ In Verfahren mit förmlicher Gegenseitigkeit (§ 1 Absatz 1 Satz 1
 Nummer 3) gilt eine ausländische Entscheidung, die ohne die Anhörung
 des Verpflichteten vorläufig und vorbehaltlich der Bestätigung durch
 das ersuchte Gericht ergangen ist, als eingehendes Ersuchen auf
-Erwirkung eines Unterhaltstitels. § 8 Absatz 2 und § 14 Absatz 2 Satz
+Erwirkung eines Unterhaltstitels. § 8 Absatz 3 und § 14 Absatz 3 Satz
 1 gelten entsprechend.
 
 
@@ -595,32 +649,51 @@ Verfahrenskostenhilfe nach § 1076 der Zivilprozessordnung durch das
 für den Sitz des Oberlandesgerichts, in dessen Bezirk der
 Antragsteller seinen gewöhnlichen Aufenthalt hat, zuständige
 Amtsgericht. Für den Bezirk des Kammergerichts entscheidet das
-Amtsgericht Pankow-Weißensee.
+Amtsgericht Pankow/Weißensee.
 
 (2) Für eingehende Ersuchen gilt § 1078 Absatz 1 Satz 1 der
 Zivilprozessordnung.
 
 
-#### § 22 Verfahrenskostenhilfe nach Artikel 46 der Verordnung (EG) Nr. 4/2009
+#### § 22 Verfahrenskostenhilfe nach Artikel 46 der Verordnung (EG) Nr. 4/2009 und den Artikeln 14 bis 17 des Haager Übereinkommens vom 23. November 2007 über die internationale Geltendmachung der Unterhaltsansprüche von Kindern und anderen Familienangehörigen
 
-(1) Für Anträge nach Artikel 56 der Verordnung (EG) Nr. 4/2009 erhält
-eine Person, die das 21. Lebensjahr noch nicht vollendet hat, gemäß
-Artikel 46 der Verordnung (EG) Nr. 4/2009 Verfahrenskostenhilfe
-unabhängig von ihren wirtschaftlichen Verhältnissen. Durch die
-Bewilligung von Verfahrenskostenhilfe wird sie endgültig von der
-Zahlung der in § 122 Absatz 1 der Zivilprozessordnung genannten Kosten
-befreit. Absatz 3 bleibt unberührt.
+(1) Eine Person, die das 21. Lebensjahr noch nicht vollendet hat,
+erhält unabhängig von ihren wirtschaftlichen Verhältnissen
+Verfahrenskostenhilfe für Anträge
+
+1.  nach Artikel 56 der Verordnung (EG) Nr. 4/2009 gemäß Artikel 46 dieser
+    Verordnung und
+
+
+2.  nach Kapitel III des Haager Übereinkommens vom 23. November 2007 über
+    die internationale Geltendmachung der Unterhaltsansprüche von Kindern
+    und anderen Familienangehörigen gemäß Artikel 15 dieses
+    Übereinkommens.
+
+
+
+Durch die Bewilligung von Verfahrenskostenhilfe wird sie endgültig von
+der Zahlung der in § 122 Absatz 1 der Zivilprozessordnung genannten
+Kosten befreit. Absatz 3 bleibt unberührt.
 
 (2) Die Bewilligung von Verfahrenskostenhilfe kann nur abgelehnt
 werden, wenn der Antrag mutwillig oder offensichtlich unbegründet ist.
 In den Fällen des Artikels 56 Absatz 1 Buchstabe a und b der
-Verordnung (EG) Nr. 4/2009 werden die Erfolgsaussichten nicht geprüft.
+Verordnung (EG) Nr. 4/2009 und des Artikels 10 Absatz 1 Buchstabe a
+und b des Haager Übereinkommens vom 23. November 2007 über die
+internationale Geltendmachung der Unterhaltsansprüche von Kindern und
+anderen Familienangehörigen und in Bezug auf die von Artikel 20 Absatz
+4 dieses Übereinkommens erfassten Fälle werden die Erfolgsaussichten
+nicht geprüft.
 
 (3) Unterliegt der Antragsteller in einem gerichtlichen Verfahren,
-kann das Gericht gemäß Artikel 67 der Verordnung (EG) Nr. 4/2009 eine
-Erstattung der im Wege der Verfahrenskostenhilfe verauslagten Kosten
-verlangen, wenn dies unter Berücksichtigung der finanziellen
-Verhältnisse des Antragstellers der Billigkeit entspricht.
+kann das Gericht gemäß Artikel 67 der Verordnung (EG) Nr. 4/2009 und
+gemäß Artikel 43 des Haager Übereinkommens vom 23. November 2007 über
+die internationale Geltendmachung der Unterhaltsansprüche von Kindern
+und anderen Familienangehörigen eine Erstattung der im Wege der
+Verfahrenskostenhilfe verauslagten Kosten verlangen, wenn dies unter
+Berücksichtigung der finanziellen Verhältnisse des Antragstellers der
+Billigkeit entspricht.
 
 
 #### § 23 Verfahrenskostenhilfe für die Anerkennung, Vollstreckbarerklärung und Vollstreckung von unterhaltsrechtlichen Titeln
@@ -632,7 +705,7 @@ der Entscheidung Verfahrenskostenhilfe zu bewilligen. Durch die
 Bewilligung von Verfahrenskostenhilfe wird der Antragsteller endgültig
 von der Zahlung der in § 122 Absatz 1 der Zivilprozessordnung
 genannten Kosten befreit. Dies gilt nicht, wenn die Bewilligung nach §
-124 Nummer 1 der Zivilprozessordnung aufgehoben wird.
+124 Absatz 1 Nummer 1 der Zivilprozessordnung aufgehoben wird.
 
 
 #### § 24 Verfahrenskostenhilfe für Verfahren mit förmlicher Gegenseitigkeit
@@ -645,7 +718,7 @@ bewilligen. In diesem Fall hat er weder Monatsraten noch aus dem
 Vermögen zu zahlende Beträge zu leisten. Durch die Bewilligung von
 Verfahrenskostenhilfe wird der Berechtigte endgültig von der Zahlung
 der in § 122 Absatz 1 der Zivilprozessordnung genannten Kosten
-befreit, sofern die Bewilligung nicht nach § 124 Nummer 1 der
+befreit, sofern die Bewilligung nicht nach § 124 Absatz 1 Nummer 1 der
 Zivilprozessordnung aufgehoben wird.
 
 
@@ -656,7 +729,7 @@ Zivilprozessordnung aufgehoben wird.
 
 (1) Die deutschen Gerichte sind in Unterhaltssachen nach Artikel 3
 Buchstabe c der Verordnung (EG)
-Nr. 4/2009              zuständig, wenn
+Nr. 4/2009 zuständig, wenn
 
 1.  Unterhalt im Scheidungs- oder Aufhebungsverbund geltend gemacht wird
     und die deutschen Gerichte für die Ehe- oder die
@@ -667,8 +740,8 @@ Nr. 4/2009              zuständig, wenn
         27\. November 2003 über die Zuständigkeit und die Anerkennung von
         Entscheidungen in Ehesachen und in Verfahren betreffend die elterliche
         Verantwortung und zur Aufhebung der Verordnung (EG)
-        Nr. 1347/2000                          (ABl. L 338 vom 23.12.2003, S.
-        1) nach Artikel 3 Absatz 1 dieser Verordnung,
+        Nr. 1347/2000 (ABl. L 338 vom 23.12.2003, S. 1) nach Artikel 3 Absatz
+        1 dieser Verordnung,
 
 
     b)  nach § 98 Absatz 1 des Gesetzes über das Verfahren in Familiensachen
@@ -731,22 +804,37 @@ Gerichtsbarkeit.
 Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unberührt.
 
 
-#### § 27 Örtliche Zuständigkeit für die Auffang- und Notzuständigkeit
+#### § 27 Örtliche Zuständigkeit für die Auffang- und Notzuständigkeit; Verordnungsermächtigung
 
-Sind die deutschen Gerichte nach den Artikeln 6 oder 7 der Verordnung
-(EG) Nr. 4/2009 international zuständig, ist ausschließlich das
-Amtsgericht Pankow-Weißensee in Berlin örtlich zuständig.
+(1) Sind die deutschen Gerichte nach Artikel 6 oder Artikel 7 der
+Verordnung (EG) Nr. 4/2009 international zuständig, so entscheidet das
+Amtsgericht, das für den Sitz desjenigen Oberlandesgerichts zuständig
+ist, in dessen Bezirk die Beteiligten ihren letzten inländischen
+gemeinsamen Wohnsitz hatten oder an den der ausreichende Bezug zur
+Bundesrepublik Deutschland im Sinne des Artikels 7 der Verordnung (EG)
+Nr. 4/2009 angeknüpft werden kann. § 28 Absatz 1 Satz 2 ist
+entsprechend anzuwenden. Ergibt sich keine örtliche Zuständigkeit
+eines inländischen Gerichts nach Satz 1 oder Satz 2, so ist das
+Amtsgericht Pankow/Weißensee in Berlin örtlich zuständig.
+
+(2) Die Landesregierungen werden ermächtigt, die Zuständigkeit nach
+Absatz 1 durch Rechtsverordnung einem anderen Amtsgericht des
+Oberlandesgerichtsbezirks oder, wenn in einem Land mehrere
+Oberlandesgerichte errichtet sind, einem Amtsgericht für die Bezirke
+aller oder mehrerer Oberlandesgerichte zuzuweisen. Die
+Landesregierungen können diese Ermächtigung durch Rechtsverordnung auf
+die Landesjustizverwaltungen übertragen.
 
 
 #### § 28 Zuständigkeitskonzentration; Verordnungsermächtigung
 
 (1) Wenn ein Beteiligter seinen gewöhnlichen Aufenthalt nicht im
 Inland hat, entscheidet über Anträge in Unterhaltssachen in den Fällen
-des Artikels 3 Buchstabe a und b der Verordnung (EG) Nr. 4/2009
-ausschließlich das für den Sitz des Oberlandesgerichts, in dessen
-Bezirk der Antragsgegner oder der Berechtigte seinen gewöhnlichen
-Aufenthalt hat, zuständige Amtsgericht. Für den Bezirk des
-Kammergerichts ist das Amtsgericht Pankow-Weißensee zuständig.
+des Artikels 3 Buchstabe a und b der Verordnung (EG) Nr. 4/2009 das
+für den Sitz des Oberlandesgerichts, in dessen Bezirk der
+Antragsgegner oder der Berechtigte seinen gewöhnlichen Aufenthalt hat,
+zuständige Amtsgericht. Für den Bezirk des Kammergerichts ist das
+Amtsgericht Pankow/Weißensee zuständig.
 
 (2) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch
 Rechtsverordnung einem anderen Amtsgericht des
@@ -868,7 +956,7 @@ freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 
 (1) Über einen Antrag auf Feststellung der Anerkennung oder über einen
 Antrag auf Vollstreckbarerklärung eines ausländischen Titels nach den
-Abschnitten 3 und 4 entscheidet ausschließlich das Amtsgericht, das
+Abschnitten 3 bis 5 entscheidet ausschließlich das Amtsgericht, das
 für den Sitz des Oberlandesgerichts zuständig ist, in dessen
 Zuständigkeitsbezirk
 
@@ -880,8 +968,8 @@ Zuständigkeitsbezirk
 
 
 
-Für den Bezirk des Kammergerichts entscheidet das Amtsgericht Pankow-
-Weißensee.
+Für den Bezirk des Kammergerichts entscheidet das Amtsgericht
+Pankow/Weißensee.
 
 (2) Die Landesregierungen werden ermächtigt, diese Zuständigkeit durch
 Rechtsverordnung einem anderen Amtsgericht des
@@ -1090,11 +1178,11 @@ Angelegenheiten der freiwilligen Gerichtsbarkeit ist nicht anzuwenden.
 Zwangsvollstreckung ist einzulegen
 
 1.  im Anwendungsbereich der Verordnung (EG)
-    Nr. 4/2009                    und des Abkommens vom 19. Oktober 2005
-    zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark
-    über die gerichtliche Zuständigkeit und die Anerkennung und
-    Vollstreckung von Entscheidungen in Zivil- und Handelssachen innerhalb
-    der Frist des Artikels 32 Absatz 5 der Verordnung (EG) Nr. 4/2009,
+    Nr. 4/2009 und des Abkommens vom 19. Oktober 2005 zwischen der
+    Europäischen Gemeinschaft und dem Königreich Dänemark über die
+    gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von
+    Entscheidungen in Zivil- und Handelssachen innerhalb der Frist des
+    Artikels 32 Absatz 5 der Verordnung (EG) Nr. 4/2009,
 
 
 2.  im Anwendungsbereich des Übereinkommens vom 30. Oktober 2007 über die
@@ -1122,19 +1210,9 @@ ausgeschlossen.
 zuzustellen.
 
 
-##### § 44 Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
+##### § 44 (weggefallen)
 
-(1) Der Schuldner kann mit der Beschwerde, die sich gegen die
-Zulassung der Zwangsvollstreckung aus einer Entscheidung richtet, auch
-Einwendungen gegen den Anspruch selbst insoweit geltend machen, als
-die Gründe, auf denen sie beruhen, erst nach dem Erlass der
-Entscheidung entstanden sind.
-
-(2) Mit der Beschwerde, die sich gegen die Zulassung der
-Zwangsvollstreckung aus einem gerichtlichen Vergleich oder einer
-öffentlichen Urkunde richtet, kann der Schuldner die Einwendungen
-gegen den Anspruch selbst ungeachtet der in Absatz 1 enthaltenen
-Beschränkung geltend machen.
+-
 
 
 ##### § 45 Verfahren und Entscheidung über die Beschwerde
@@ -1403,6 +1481,21 @@ Beschwerdefrist bleiben auch im Fall der nachträglichen Festsetzung
 unberührt.
 
 
+##### § 59a Einwendungen gegen den zu vollstreckenden Anspruch im Beschwerdeverfahren
+
+(1) Der Schuldner kann mit der Beschwerde, die sich gegen die
+Zulassung der Zwangsvollstreckung aus einer Entscheidung richtet, auch
+Einwendungen gegen den Anspruch selbst insoweit geltend machen, als
+die Gründe, auf denen sie beruhen, erst nach dem Erlass der
+Entscheidung entstanden sind.
+
+(2) Mit der Beschwerde, die sich gegen die Zulassung der
+Zwangsvollstreckung aus einem gerichtlichen Vergleich oder einer
+öffentlichen Urkunde richtet, kann der Schuldner die Einwendungen
+gegen den Anspruch selbst ungeachtet der in Absatz 1 enthaltenen
+Beschränkung geltend machen.
+
+
 ##### § 60 Beschränkung der Zwangsvollstreckung kraft Gesetzes
 
 Die Zwangsvollstreckung ist auf Sicherungsmaßregeln beschränkt,
@@ -1410,7 +1503,16 @@ solange die Frist zur Einlegung der Beschwerde noch läuft und solange
 über die Beschwerde noch nicht entschieden ist.
 
 
-#### Unterabschnitt 2 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
+#### Unterabschnitt 2 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 23. November 2007 über die internationale Geltendmachung der Unterhaltsansprüche von Kindern und anderen Familienangehörigen
+
+
+##### § 60a Beschwerdeverfahren im Bereich des Haager Übereinkommens
+
+Abweichend von § 59 gelten für das Beschwerdeverfahren die Fristen des
+Artikels 23 Absatz 6 des Haager Übereinkommens.
+
+
+#### Unterabschnitt 3 - Anerkennung und Vollstreckung von Unterhaltstiteln nach dem Haager Übereinkommen vom 2. Oktober 1973 über die Anerkennung und Vollstreckung von Unterhaltsentscheidungen
 
 
 ##### § 61 Einschränkung der Anerkennung und Vollstreckung
@@ -1458,7 +1560,7 @@ Sicherheitsleistung abhängig machen.
 Entscheidung entsprechend anwendbar.
 
 
-#### Unterabschnitt 3 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 16. September 1988
+#### Unterabschnitt 4 - Übereinkommen über die gerichtliche Zuständigkeit und die Vollstreckung gerichtlicher Entscheidungen in Zivil- und Handelssachen vom 16. September 1988
 
 
 ##### § 63 Sonderregelungen für das Beschwerdeverfahren
@@ -1514,20 +1616,26 @@ bestimmt ist.
 
 #### § 66 Vollstreckungsabwehrantrag
 
-(1) Ist ein ausländischer Titel nach den Artikeln 17 oder 48 der
-Verordnung (EG) Nr. 4/2009 ohne Exequaturverfahren vollstreckbar, so
-kann der Schuldner Einwendungen, die sich gegen den Anspruch selbst
-richten, in einem Verfahren nach § 767 der Zivilprozessordnung nur
-geltend machen, wenn die Gründe, auf denen die Einwendungen beruhen,
-erst nach Erlass des Titels entstanden sind und im Ursprungsstaat
-nicht mehr durch ein Rechtsmittel oder durch einen Rechtsbehelf
-geltend gemacht werden können.
+(1) Ist ein ausländischer Titel nach der Verordnung (EG) Nr. 4/2009
+ohne Exequaturverfahren vollstreckbar oder nach dieser Verordnung oder
+einem der in § 1 Absatz 1 Satz 1 Nummer 1 genannten Abkommen für
+vollstreckbar erklärt, so kann der Schuldner Einwendungen, die sich
+gegen den Anspruch selbst richten, in einem Verfahren nach § 120
+Absatz 1 des Gesetzes über das Verfahren in Familiensachen und in den
+Angelegenheiten der freiwilligen Gerichtsbarkeit in Verbindung mit §
+767 der Zivilprozessordnung geltend machen. Handelt es sich bei dem
+Titel um eine gerichtliche Entscheidung, so gilt dies nur, soweit die
+Gründe, auf denen die Einwendungen beruhen, erst nach dem Erlass der
+Entscheidung entstanden sind.
 
-(2) Ist die Zwangsvollstreckung aus einem Titel zugelassen, so kann
+(2) Ist die Zwangsvollstreckung aus einem Titel nach einem der in § 1
+Absatz 1 Satz 1 Nummer 2 genannten Übereinkommen zugelassen, so kann
 der Schuldner Einwendungen gegen den Anspruch selbst in einem
-Verfahren nach § 767 der Zivilprozessordnung nur geltend machen, wenn
-die Gründe, auf denen seine Einwendungen beruhen, erst entstanden
-sind:
+Verfahren nach § 120 Absatz 1 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit in Verbindung mit § 767 der Zivilprozessordnung nur
+geltend machen, wenn die Gründe, auf denen seine Einwendungen beruhen,
+erst entstanden sind:
 
 1.  nach Ablauf der Frist, innerhalb derer er die Beschwerde hätte
     einlegen können, oder
@@ -1539,8 +1647,10 @@ sind:
 
 
 
-(3) Der Antrag nach § 767 der Zivilprozessordnung ist bei dem Gericht
-zu stellen, das über den Antrag auf Erteilung der
+(3) Der Antrag nach § 120 Absatz 1 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit in Verbindung mit § 767 der Zivilprozessordnung ist
+bei dem Gericht zu stellen, das über den Antrag auf Erteilung der
 Vollstreckungsklausel entschieden hat. In den Fällen des Absatzes 1
 richtet sich die Zuständigkeit nach § 35 Absatz 1 und 2.
 
@@ -1634,9 +1744,8 @@ Zivilprozessordnung ist entsprechend anwendbar.
 Artikels 19 Absatz 2 der Verordnung (EG) Nr. 4/2009 eingereicht oder
 liegen die Voraussetzungen des Artikels 19 Absatz 1 der Verordnung
 (EG)
-Nr. 4/2009              nicht vor, weist das Gericht den Antrag durch
-Beschluss zurück. Der Beschluss kann ohne mündliche Verhandlung
-ergehen.
+Nr. 4/2009 nicht vor, weist das Gericht den Antrag durch Beschluss
+zurück. Der Beschluss kann ohne mündliche Verhandlung ergehen.
 
 (3) Liegen die Voraussetzungen des Artikels 19 der Verordnung (EG) Nr.
 4/2009 vor, so wird das Verfahren fortgeführt. Es wird in die Lage

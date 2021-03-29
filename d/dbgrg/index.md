@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 2378, 2386 (1994 I 2439)
 
 Zuletzt geändert durch
-:   Art. 307 V v. 31.10.2006 I 2407
+:   Art. 515 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Gründung
@@ -347,10 +347,10 @@ Auskünfte zu erteilen.
 (6) Die Deutsche Bahn Aktiengesellschaft kann den ihr gemäß den
 Absätzen 2 und 3 zugewiesenen Beamten im Einvernehmen mit dem
 Bundeseisenbahnvermögen eine höher zu bewertende Tätigkeit übertragen.
-Im übrigen wird das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung ermächtigt, durch Rechtsverordnung im Einvernehmen
-mit dem Bundesministerium des Innern in bezug auf die gemäß den
-Absätzen 2 und 3 zugewiesenen Beamten zu bestimmen, welche weiteren
+Im übrigen wird das Bundesministerium für Verkehr und digitale
+Infrastruktur ermächtigt, durch Rechtsverordnung im Einvernehmen mit
+dem Bundesministerium des Innern in bezug auf die gemäß den Absätzen 2
+und 3 zugewiesenen Beamten zu bestimmen, welche weiteren
 beamtenrechtlichen Entscheidungen sowie sonstigen Entscheidungen und
 Maßnahmen, die mit der Dienstausübung des Beamten im Betrieb der
 Deutsche Bahn Aktiengesellschaft in unmittelbarem Zusammenhang stehen,
@@ -763,7 +763,7 @@ Handelsregister.
 (8) Einzelheiten zur Durchführung der Absätze 1 bis 7 werden zwischen
 dem Bundeseisenbahnvermögen und der Deutsche Bahn Aktiengesellschaft
 vereinbart. Die Vereinbarung bedarf der Zustimmung des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung und des
+Bundesministeriums für Verkehr und digitale Infrastruktur und des
 Bundesministeriums der Finanzen.
 
 (9) Die Deutsche Bahn Aktiengesellschaft legt jährlich Rechnung über
@@ -833,7 +833,7 @@ des in den Nummern 2 und 3 genannten Produktivitätsrückstandes gilt §
 
 (2) Einzelheiten zur Durchführung des Absatzes 1 werden in
 Vereinbarungen zwischen der Deutsche Bahn Aktiengesellschaft und dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung im
+Bundesministerium für Verkehr und digitale Infrastruktur im
 Einvernehmen mit dem Bundesministerium der Finanzen geregelt.
 
 (3) Die gemäß Absatz 1 beantragten Zuwendungen sind im einzelnen im
@@ -845,7 +845,7 @@ Aktiengesellschaft stimmt die Investitionsplanung mit den Ländern
 Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt
 und Thüringen nach Maßgabe einer entsprechenden Vereinbarung ab. Die
 notwendigen Rechenwerke können im Auftrag des Bundesministeriums für
-Verkehr, Bau und Stadtentwicklung und des Bundesministeriums der
+Verkehr und digitale Infrastruktur und des Bundesministeriums der
 Finanzen von einem Wirtschaftsprüfer oder einer
 Wirtschaftsprüfungsgesellschaft geprüft werden.
 

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1981, 101
 
-Geändert durch
-:   Art. 492 V v. 31.10.2006 I 2407
+Zuletzt geändert durch
+:   Art. 19 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -60,10 +60,9 @@ der Ausrüster des Binnenschiffes. Der Führer eines im Einsatz
 befindlichen Binnenschiffes kann die Meldung mit befreiender Wirkung
 für den Eigentümer oder Ausrüster abgeben.
 
-(3) Die Meldung ist an die Wasser- und Schiffahrtsdirektion zu
-richten, in deren Bezirk das Binnenschiff seinen Heimatort hat. Sie
-kann bei jeder Wasser- und Schiffahrtsdirektion und jedem Wasser- und
-Schiffahrtsamt erstattet werden.
+(3) Die Meldung ist an die Generaldirektion Wasserstraßen und
+Schifffahrt zu richten. Sie kann bei jedem Wasserstraßen- und
+Schifffahrtsamt erstattet werden.
 
 
 ### § 2 Meldeverfahren
@@ -103,9 +102,9 @@ zum Eingang der Meldebescheinigung an Bord der Nachweis über die
 Meldung durch die Nennung der Registriernummer erbracht werden.
 
 (3) Wenn und soweit dies wegen des weiteren Einsatzes des
-Binnenschiffes erforderlich ist, kann die Wasser- und
-Schiffahrtsdirektion, in deren Bezirk das Binnenschiff seinen
-Heimatort hat, einzelne Eigentümer oder Ausrüster verpflichten, ihr
+Binnenschiffes erforderlich ist, kann die Generaldirektion
+Wasserstraßen und Schifffahrt einzelne Eigentümer oder Ausrüster
+verpflichten, ihr
 
 1.  ergänzende Angaben über das Binnenschiff zu machen oder
 
@@ -119,7 +118,7 @@ Heimatort hat, einzelne Eigentümer oder Ausrüster verpflichten, ihr
 
 ### § 3 Ermächtigung
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung wird
+Das Bundesministerium für Verkehr und digitale Infrastruktur wird
 ermächtigt, durch Rechtsverordnung
 
 1.  die Frist für die Meldungen nach § 1 festzulegen,
@@ -138,9 +137,9 @@ ermächtigt, durch Rechtsverordnung
 
 ### § 4 Sonstige Meldungen
 
-(1) Die Wasser- und Schiffahrtsdirektion kann einzelne Personen und
-Personenvereinigungen sowie Einrichtungen, die Zwecken der
-Binnenschiffahrt auf den Bundeswasserstraßen dienen, insbesondere
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt kann einzelne
+Personen und Personenvereinigungen sowie Einrichtungen, die Zwecken
+der Binnenschiffahrt auf den Bundeswasserstraßen dienen, insbesondere
 Transportzentralen, verpflichten, ihr regelmäßig oder unter bestimmten
 Voraussetzungen Meldungen über den von diesen bewirtschafteten oder
 erfaßten Schiffsraum nach Art, Größe, Einsatz und Standort zu
@@ -149,8 +148,9 @@ erstatten.
 (2) Die oberste oder höhere Verwaltungsbehörde des Landes kann
 einzelne Eigentümer und Besitzer von Häfen und Umschlagstellen
 verpflichten, ihnen oder den von ihnen bestimmten Behörden,
-insbesondere den Wasser- und Schiffahrtsdirektionen regelmäßig oder
-unter bestimmten Voraussetzungen Meldungen zu erstatten über
+insbesondere der Generaldirektion Wasserstraßen und Schifffahrt
+regelmäßig oder unter bestimmten Voraussetzungen Meldungen zu
+erstatten über
 
 1.  die in ihren Häfen und an ihren Umschlagstellen liegenden
     Binnenschiffe und deren voraussichtliche Liegezeiten,
@@ -169,12 +169,12 @@ unter bestimmten Voraussetzungen Meldungen zu erstatten über
 
 ### § 5 Erlaubnispflicht
 
-(1) Die Wasser- und Schiffahrtsdirektion kann zur Sicherstellung des
-lebenswichtigen Verkehrs anordnen, daß bestimmte, in ihrem Bezirk
-beginnende Fahrten der Binnenschiffe, die der Meldepflicht nach § 1
-unterliegen, der Erlaubnis bedürfen. Die Anordnung darf nur ergehen,
-wenn dies auf Grund der Verkehrslage, insbesondere bei einem Mangel an
-Binnenschiffen dringend geboten ist.
+(1) Die Generaldirektion Wasserstraßen und Schifffahrt kann zur
+Sicherstellung des lebenswichtigen Verkehrs anordnen, daß bestimmte,
+in ihrem Bezirk beginnende Fahrten der Binnenschiffe, die der
+Meldepflicht nach § 1 unterliegen, der Erlaubnis bedürfen. Die
+Anordnung darf nur ergehen, wenn dies auf Grund der Verkehrslage,
+insbesondere bei einem Mangel an Binnenschiffen dringend geboten ist.
 
 (2) Absatz 1 gilt nicht für Fahrten
 
@@ -211,23 +211,17 @@ Nachweis über die Erlaubnis durch Nennung der bei der Antragstellung
 mitgeteilten Erlaubnisnummer zu erbringen.
 
 (5) Zuständig für die Erteilung, die Rücknahme und den Widerruf der
-Erlaubnis ist die Wasser- und Schiffahrtsdirektion, die die Anordnung
-nach § 5 erlassen hat.
+Erlaubnis ist die Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ### § 7 Zulassung von Binnenschiffen in Sonderfällen
 
-(1) Die Wasser- und Schiffahrtsdirektion kann ein Binnenschiff, das
-nicht zum Verkehr zugelassen ist, insbesondere, weil es kein
-Schiffsattest besitzt, befristet zum Verkehr zulassen, wenn der
-Einsatz für Zwecke der Verteidigung dringend geboten ist und durch die
-Verwendung des Schiffes eine unzumutbare Gefahr für die an Bord
+Die Generaldirektion Wasserstraßen und Schifffahrt kann ein
+Binnenschiff, das nicht zum Verkehr zugelassen ist, insbesondere, weil
+es kein Schiffsattest besitzt, befristet zum Verkehr zulassen, wenn
+der Einsatz für Zwecke der Verteidigung dringend geboten ist und durch
+die Verwendung des Schiffes eine unzumutbare Gefahr für die an Bord
 befindlichen Personen und für die Schiffahrt nicht besteht.
-
-(2) Zuständig für die Zulassung ist die Wasser- und
-Schiffahrtsdirektion, in deren Bezirk das Schiff seinen Heimatort hat,
-in dringenden Fällen auch die Wasser- und Schiffahrtsdirektion, in
-deren Bezirk sich das Binnenschiff befindet.
 
 
 ### § 8 Maßnahmen für den Umschlag
@@ -319,8 +313,8 @@ Verkehrssicherstellungsgesetzes, die nach dem Wirtschaftsstrafgesetz
 (2) Zuständige Verwaltungsbehörde im Sinne des § 29 Nr. 2 des
 Verkehrssicherstellungsgesetzes ist in den Fällen des Absatzes 1 Nr. 1
 Buchstabe b, soweit § 4 Abs. 2 anzuwenden ist, und Nummer 5 die
-Landesbehörde, die den Verwaltungsakt erlassen hat, im übrigen die
-Wasser- und Schiffahrtsdirektion.
+Landesbehörde, die den Verwaltungsakt erlassen hat, im Übrigen die
+Generaldirektion Wasserstraßen und Schifffahrt.
 
 
 ### § 11 Inkrafttreten
@@ -329,12 +323,12 @@ Wasser- und Schiffahrtsdirektion.
 folgenden Kalendermonats in Kraft.
 
 (2) Der erste Abschnitt und § 10 Abs. 1 Nr. 1 und 2 sind anzuwenden,
-wenn das Bundesministerium für Verkehr, Bau und Stadtentwicklung dies
+wenn das Bundesministerium für Verkehr und digitale Infrastruktur dies
 durch Rechtsverordnung bestimmt.
 
 (3) Der zweite Abschnitt und § 10 Abs. 1 Nr. 3 bis 5 darf gemäß § 2
 Abs. 3 des Verkehrssicherstellungsgesetzes nur nach Maßgabe des
 Artikels 80a des Grundgesetzes und erst dann angewendet werden, wenn
-und soweit dies das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung durch Rechtsverordnung bestimmt.
+und soweit dies das Bundesministerium für Verkehr und digitale
+Infrastruktur durch Rechtsverordnung bestimmt.
 

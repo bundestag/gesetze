@@ -2,7 +2,7 @@
 Title: Luftsicherheits-Zuverlässigkeitsüberprüfungsverordnung
 jurabk: LuftSiZÜV
 layout: default
-origslug: luftsiz_v
+origslug: luftsizuev
 slug: luftsizuev
 
 ---

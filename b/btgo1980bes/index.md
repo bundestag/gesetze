@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 1980, 1237, 1264
 
 Zuletzt geändert durch
-:   Nr. 1 Bek. v. 15.7.2002 I 3012
+:   Nr. 1 Beschluss d. Bundestages gem. Bek. v. 15.7.2002 I 3012
 
 
 ## 1.

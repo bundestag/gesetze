@@ -2,7 +2,7 @@
 Title: Gesetz über eine Volks-, Berufs-, Gebäude-, Wohnungs- und Arbeitsstättenzählung
 jurabk: VoZählG 1987
 layout: default
-origslug: voz_hlg_1987
+origslug: vozaehlg_1987
 slug: vozaehlg_1987
 
 ---

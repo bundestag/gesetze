@@ -65,14 +65,14 @@ Das Gebiet weist insgesamt einen hohen Grad von Natürlichkeit auf.
 
 (2) Die Grenze des Nationalparks hat folgenden Verlauf:
 
-1.  **im Westen:**                    Von der 1.500 m vor dem Darßer
-    Weststrand liegenden Spierentonne (gsg - Topzeichen West, befeuert)
-    der generalisierten 10 m-Tiefenlinie folgend bis zur Pos.
+1.  **im Westen:** Von der 1.500 m vor dem Darßer Weststrand liegenden
+    Spierentonne (gsg - Topzeichen West, befeuert) der generalisierten 10
+    m-Tiefenlinie folgend bis zur Pos.
     54 Grad 33' N, 12 Grad 32' E nördlich Darßer Ort.
 
 
-2.  **im Norden:**                    Von letztgenannter Position in
-    östlicher Richtung bis zur Pos.
+2.  **im Norden:** Von letztgenannter Position in östlicher Richtung bis
+    zur Pos.
     54 Grad 33' N,
     12 Grad 36' E nordöstlich Darßer Ort. Weiter der generalisierten 10
     m-Tiefenlinie folgend bis zur Pos.
@@ -88,21 +88,21 @@ Das Gebiet weist insgesamt einen hohen Grad von Natürlichkeit auf.
     Bug auf Höhe Eckort querend, zur Tonne 52 im Rassower Strom.
 
 
-3.  **im Osten:**                    Von letztgenannter Position dem
-    Fahrwasser auslaufend folgend über Tonne 38 bis zur Tonne 28 und in
-    gerader Linie zum Steinort (Unterfeuer). Weiter in südlicher Richtung
-    bis zum Ufer des Schaproder Boddens. Die Grenze auf dem Inselkern von
-    Rügen folgt den Kliffoberkanten bzw. Deichkronen, zunächst bis
-    westlich Lüßwitz und weiter bis zum Bessiner Haken. Von Lüßwitz den
-    Ortsverbindungswegen folgend über Unrow - Landow - Dußwitz bis zum
-    Südufer der Pribowschen Wedde. Die Inseln Öhe, Heuwiese und Liebitz
-    sowie die Außendeichsflächen der Insel Ummanz sind in den Nationalpark
+3.  **im Osten:** Von letztgenannter Position dem Fahrwasser auslaufend
+    folgend über Tonne 38 bis zur Tonne 28 und in gerader Linie zum
+    Steinort (Unterfeuer). Weiter in südlicher Richtung bis zum Ufer des
+    Schaproder Boddens. Die Grenze auf dem Inselkern von Rügen folgt den
+    Kliffoberkanten bzw. Deichkronen, zunächst bis westlich Lüßwitz und
+    weiter bis zum Bessiner Haken. Von Lüßwitz den Ortsverbindungswegen
+    folgend über Unrow - Landow - Dußwitz bis zum Südufer der Pribowschen
+    Wedde. Die Inseln Öhe, Heuwiese und Liebitz sowie die
+    Außendeichsflächen der Insel Ummanz sind in den Nationalpark
     einbezogen.
 
 
-4.  **im Süden:**                    Vom Bessiner Haken in gerader Linie
-    zum nördlichsten Festlandpunkt am Südufer der Prohner Wiek und weiter
-    der Kliffoberkante bzw. Deichkrone folgend über Klausdorf - Barhöft -
+4.  **im Süden:** Vom Bessiner Haken in gerader Linie zum nördlichsten
+    Festlandpunkt am Südufer der Prohner Wiek und weiter der
+    Kliffoberkante bzw. Deichkrone folgend über Klausdorf - Barhöft -
     Wendisch Langendorf bis Kinnbackenhagen. Im Grabow und im Barther
     Bodden folgt die Grenze dem betonnten Fahrwasser (Nordseite) ab Tonne
     81 bis Tonne 57. Von Tonne 57 in westlicher Richtung bis zur
@@ -179,8 +179,7 @@ Gebiete dienen.
 (1) Das Gebiet des Nationalparkes Vorpommersche Boddenlandschaft wird
 in die Schutzzonen I und II gegliedert.
 
-(2) Die **Schutzzone I**              (Kernzone) umfaßt folgende
-Bereiche:
+(2) Die **Schutzzone I** (Kernzone) umfaßt folgende Bereiche:
 
 1.  Die Waldflächen des Neudarß, nach Westen begrenzt durch das m-Gestell
     und nördlich davon durch den seeseitigen Dünenfuß sowie durch das
@@ -218,8 +217,8 @@ Bereiche:
 
 
 
-(3) Die **Schutzzone II**              (Pflege- und Entwicklungszone)
-umfaßt vor allem extensiv genutzte Landwirtschafts- und Forstflächen:
+(3) Die **Schutzzone II** (Pflege- und Entwicklungszone) umfaßt vor
+allem extensiv genutzte Landwirtschafts- und Forstflächen:
 
 1.  Die außerhalb der Schutzzone I liegenden Waldflächen des Darß;
 
@@ -273,11 +272,10 @@ Karten eingetragen.
 
 (1) Im Nationalpark ist es geboten,
 
-1.  in der **Schutzzone I**                    vorrangig durch geeignete
-    Schutzmaßnahmen die ungestörte Entwicklung natürlicher und naturnaher
-    Lebensgemeinschaften zu sichern, sowie gestörte Lebensgemeinschaften
-    in natürliche oder naturnahe Zustände zu überführen, insbesondere
-    durch
+1.  in der **Schutzzone I** vorrangig durch geeignete Schutzmaßnahmen die
+    ungestörte Entwicklung natürlicher und naturnaher Lebensgemeinschaften
+    zu sichern, sowie gestörte Lebensgemeinschaften in natürliche oder
+    naturnahe Zustände zu überführen, insbesondere durch
 
     a)  Einstellung der wirtschaftlichen und militärischen Nutzungen nach
         einem mit der Nationalparkverwaltung abzustimmenden Zeitplan,
@@ -295,9 +293,9 @@ Karten eingetragen.
 
 
 
-2.  In der **Schutzzone II**                    vorrangig durch gezielte
-    Pflege- und Renaturierungsmaßnahmen die biotypische Mannigfaltigkeit
-    der heimischen Pflanzen- und Tierwelt zu erhalten und zu fördern,
+2.  In der **Schutzzone II** vorrangig durch gezielte Pflege- und
+    Renaturierungsmaßnahmen die biotypische Mannigfaltigkeit der
+    heimischen Pflanzen- und Tierwelt zu erhalten und zu fördern,
     insbesondere
 
     a)  die schrittweise Umwandlung der Waldbestände, so daß langfristig eine
@@ -441,9 +439,9 @@ Nationalpark verboten. Insbesondere ist es verboten,
 
 
 
-(2) In der **Schutzzone I**              ist es darüber hinaus
-verboten, das Gebiet außerhalb der gekennzeichneten Wege und
-Wasserstraßen zu betreten oder mit Schwimmkörpern zu befahren.
+(2) In der **Schutzzone I** ist es darüber hinaus verboten, das Gebiet
+außerhalb der gekennzeichneten Wege und Wasserstraßen zu betreten oder
+mit Schwimmkörpern zu befahren.
 
 (3) Weiter ist es verboten, Geräte mitzuführen, die ausschließlich
 oder überwiegend für Handlungen benutzt werden können, die gemäß
@@ -593,8 +591,10 @@ Die Verordnung tritt mit Wirkung vom 1. Oktober 1990 in Kraft.
 (Inhalt: nicht darstellbare Karte,
 Fundstelle: GBl. I 1990, Sonderdruck Nr. 1466)
 
+Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung
+des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg)
 
-## Anhang EV Auszug aus Artikel 3 der Vereinbarung zur Durchführung und Auslegung des Einigungsvertrages vom 18.9.1990 (EinigVtrVbg) (BGBl. II 1990, 885, 1239)
+## Anhang EV (BGBl. II 1990, 885, 1239)
 
 Artikel 3
 Das nachfolgend aufgeführte Recht der Deutschen Demokratischen

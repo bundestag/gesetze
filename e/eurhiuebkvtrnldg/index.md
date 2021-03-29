@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 30. August 1979 zwischen der Bundesrepublik Deu
   Anwendung
 jurabk: EuRHiÜbkVtrNLDG
 layout: default
-origslug: eurhi_bkvtrnldg
+origslug: eurhiuebkvtrnldg
 slug: eurhiuebkvtrnldg
 
 ---

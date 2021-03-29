@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 15.2.2012 I 409;
 
 Zuletzt geändert durch
-:   Art. 5 Abs. 41 G v. 24.2.2012 I 212 (1474)
+:   Art. 5 Abs. 5 G v. 20.10.2015 I 1739
 
 
 ## § 1 Anwendungsbereich
@@ -32,7 +32,7 @@ Zuletzt geändert durch
 (2) Diese Verordnung gilt nicht
 
 1.  auf Seeschiffen unter fremder Flagge oder auf Seeschiffen, für die das
-    Bundesministerium für Verkehr, Bau und Stadtentwicklung nach § 10 des
+    Bundesministerium für Verkehr und digitale Infrastruktur nach § 10 des
     Flaggenrechtsgesetzes in der Fassung der Bekanntmachung vom 26.
     Oktober 1994 (BGBl. I S. 3140), das zuletzt durch Artikel 2 Absatz 6
     des Gesetzes vom 25. Juni 2009 (BGBl. I S. 1574) geändert worden ist,
@@ -76,14 +76,13 @@ solcher fehlt, der Besitzer der Einrichtung oder des Produkts, das den
 geregelten Stoff enthält, verantwortlich. Der Verantwortliche nach
 Satz 1 kann die Erfüllung seiner Verpflichtungen Dritten übertragen.
 Die Sätze 1 und 2 gelten nicht für Elektro- und Elektronikgeräte, die
-nach den §§ 11 und 12 des Elektro- und Elektronikgerätegesetzes vom
-16\. März 2005 (BGBl. I S. 762), das zuletzt durch Artikel 5 des
-Gesetzes vom 11. August 2010 (BGBl. I S. 1163) geändert worden ist, zu
-behandeln und zu verwerten sind. Die Sätze 1 und 2 gelten außerdem
-nicht für Altfahrzeuge, die nach § 5 Abs. 2 der Altfahrzeug-Verordnung
-in der Fassung der Bekanntmachung vom 21. Juni 2002 (BGBl. I S. 2214),
-die zuletzt durch Artikel 1 der Verordnung vom 9. November 2010 (BGBl.
-I S. 1504) geändert worden ist, zu behandeln und zu verwerten sind.
+nach den §§ 20 bis 22 des Elektro- und Elektronikgerätegesetzes vom
+20\. Oktober 2015 (BGBl. I S. 1739) zu behandeln und zu verwerten sind.
+Die Sätze 1 und 2 gelten außerdem nicht für Altfahrzeuge, die nach § 5
+Abs. 2 der Altfahrzeug-Verordnung in der Fassung der Bekanntmachung
+vom 21. Juni 2002 (BGBl. I S. 2214), die zuletzt durch Artikel 1 der
+Verordnung vom 9. November 2010 (BGBl. I S. 1504) geändert worden ist,
+zu behandeln und zu verwerten sind.
 
 (2) Hersteller und Vertreiber der in Absatz 1 genannten Stoffe sind
 verpflichtet, diese nach Gebrauch zurückzunehmen oder die Rücknahme
@@ -127,8 +126,8 @@ Bestimmungen zur elektronischen Nachweis- und Registerführung nach den
 §§ 17 bis 22 der Nachweisverordnung finden entsprechende Anwendung mit
 der Maßgabe, dass die für die zusätzlichen Angaben nach Satz 4
 erforderlichen Schnittstellen nach § 18 Absatz 1 Satz 2 der
-Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit bekannt gegeben werden.
+Nachweisverordnung vom Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit bekannt gegeben werden.
 
 
 ## § 4 Verhinderung des Austritts in die Atmosphäre; Dichtheitsprüfungen; Aufzeichnungs- und Aufbewahrungspflicht
@@ -347,20 +346,12 @@ Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
 § 4 Absatz 3 Satz 1 nicht sicherstellt, dass eine dort genannte
 Aufzeichnung geführt, vorgelegt und aufbewahrt wird.
 
-(3) Ordnungswidrig im Sinne des § 26 Absatz 1 Nummer 11 Satz 1 des
-Chemikaliengesetzes handelt, wer vorsätzlich oder fahrlässig entgegen
-Artikel 22 Absatz 1 oder Absatz 4 der Verordnung (EG) Nr. 1005/2009
-des Europäischen Parlaments und des Rates vom 16. September 2009 über
-Stoffe, die zum Abbau der Ozonschicht führen (ABl. L 286 vom
-31\.10.2009, S. 1), in Verbindung mit § 3 Absatz 1 Satz 1 oder Satz 2
-dieser Verordnung einen geregelten Stoff, der in einem dort genannten
-Produkt oder in einer dort genannten Einrichtung oder Vorrichtung
-enthalten ist, nicht zurückgewinnt.
-
-(4) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
+(3) Ordnungswidrig im Sinne des § 69 Absatz 1 Nummer 8 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig
 entgegen § 3 Absatz 2 Satz 1 einen dort genannten Stoff nicht
 zurücknimmt und die Rücknahme durch einen Dritten nicht sicherstellt.
+
+(4)
 
 (5) Ordnungswidrig im Sinne des § 69 Absatz 2 Nummer 15 des
 Kreislaufwirtschaftsgesetzes handelt, wer vorsätzlich oder fahrlässig

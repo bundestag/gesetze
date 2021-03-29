@@ -1,14 +1,16 @@
+Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung
+des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln
+tierischen Ursprungs
 ---
-Title: Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens,
-  Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs
+Title: ''
 jurabk: Tier-LMÜV
 layout: default
-origslug: tier-lm_v
+origslug: tier-lmuev
 slug: tier-lmuev
 
 ---
 
-# Verordnung zur Regelung bestimmter Fragen der amtlichen Überwachung des Herstellens, Behandelns und Inverkehrbringens von Lebensmitteln tierischen Ursprungs (Tier-LMÜV)
+#  (Tier-LMÜV)
 
 Ausfertigungsdatum
 :   2007-08-08
@@ -16,9 +18,20 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1816, 1864
 
-Zuletzt geändert durch
-:   Art. 2 V v. 11.11.2010 I 1537
+Neugefasst durch
+:   Bek. v. 3.9.2018 I 1358
 
+[^F804041_01_BJNR186400007]:     Notifiziert gemäß der Richtlinie (EU) 2015/1535 des Europäischen
+    Parlaments und des Rates vom 9. September 2015 über ein
+    Informationsverfahren auf dem Gebiet der technischen Vorschriften und
+    der Vorschriften für die Dienste der Informationsgesellschaft (ABl. L
+    241 vom 17.9.2015, S. 1).
+[^F804041_02_BJNR186400007]:     Die Verpflichtung aus Artikel 17 Absatz 5 der Verordnung (EG) Nr.
+    854/2004 des Europäischen Parlaments und des Rates vom 29. April 2004
+    mit besonderen Verfahrensvorschriften für die amtliche Überwachung von
+    zum menschlichen Verzehr bestimmten Erzeugnissen tierischen Ursprungs
+    (ABl. L 139 vom 30.4.2004, S. 206; L 226 vom 25.6.2004, S. 83) ist
+    beachtet worden.
 
 
 ## § 1 Anwendungsbereich
@@ -44,15 +57,15 @@ tierischen Ursprungs.
 
 
 2.  verbotene Stoffe oder Erzeugnisse: Stoffe oder Erzeugnisse, deren
-    Anwendung bei lebenden Tieren im Sinne des § 4 Abs. 1 Nr. 1 des
+    Anwendung bei lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 des
     Lebensmittel- und Futtermittelgesetzbuches verboten ist,
 
 
 3.  vorschriftswidrige Anwendung: Anwendung verbotener Stoffe oder
     Erzeugnisse oder Anwendung zugelassener Stoffe oder Erzeugnisse für
     Anwendungsgebiete, für die die Anwendung ausgeschlossen ist, bei
-    lebenden Tieren, im Sinne des § 4 Abs. 1 Nr. 1 des Lebensmittel- und
-    Futtermittelgesetzbuches,
+    lebenden Tieren, im Sinne des § 4 Absatz 1 Nummer 1 des Lebensmittel-
+    und Futtermittelgesetzbuches,
 
 
 4.  Rückstände: Rückstände von Stoffen mit pharmakologischer Wirkung und
@@ -102,7 +115,7 @@ Fachassistenten bestellen, die
 4.  die Befähigung durch eine amtliche Bescheinigung nach Maßgabe des
     Absatzes 2 über die erfolgreiche Schulung und Prüfung nach
 
-    a)  Anhang I Abschnitt III Kapitel IV Buchstabe B Nr. 5 oder 8 der
+    a)  Anhang I Abschnitt III Kapitel IV Buchstabe B Nummer 5 oder 8 der
         Verordnung (EG) Nr. 854/2004 des Europäischen Parlaments und des Rates
         vom 29. April 2004 mit besonderen Verfahrensvorschriften für die
         amtliche Überwachung von zum menschlichen Verzehr bestimmten
@@ -110,13 +123,13 @@ Fachassistenten bestellen, die
         S. 83),
 
 
-    b)  § 3 Abs. 2 Satz 3 der Fleischkontrolleur-Verordnung vom 30. Juni 1992
-        (BGBl. I S. 1227) in der bis zum 14. August 2007 geltenden Fassung
-        oder
+    b)  § 3 Absatz 2 Satz 3 der Fleischkontrolleur-Verordnung vom 30. Juni
+        1992 (BGBl. I S. 1227) in der bis zum 14. August 2007 geltenden
+        Fassung oder
 
 
-    c)  § 4 Abs. 2 Satz 3 der Verordnung über Geflügelfleischkontrolleure vom
-        24\. Juli 1973 (BGBl. I S. 899) in der bis zum 14. August 2007
+    c)  § 4 Absatz 2 Satz 3 der Verordnung über Geflügelfleischkontrolleure
+        vom 24. Juli 1973 (BGBl. I S. 899) in der bis zum 14. August 2007
         geltenden Fassung
 
 
@@ -126,11 +139,11 @@ Fachassistenten bestellen, die
 
 nachweisen.
 
-(2) Der Nachweis der Befähigung nach Absatz 1 Nr. 4 erlischt bei
+(2) Der Nachweis der Befähigung nach Absatz 1 Nummer 4 erlischt bei
 Personen, die über einen Zeitraum von mehr als
 
 1.  drei Jahren nicht an Fortbildungsmaßnahmen nach Anhang I Abschnitt III
-    Kapitel IV Buchstabe B Nr. 6 der Verordnung (EG) Nr. 854/2004
+    Kapitel IV Buchstabe B Nummer 6 der Verordnung (EG) Nr. 854/2004
     teilgenommen haben oder
 
 
@@ -141,7 +154,7 @@ Personen, die über einen Zeitraum von mehr als
 Der Nachweis der Befähigung kann wieder erbracht werden durch Bestehen
 einer amtlichen Nachprüfung, in der festzustellen ist, ob die in
 theoretischer und praktischer Hinsicht erforderlichen Kenntnisse nach
-Anhang I Abschnitt III Kapitel IV Buchstabe B Nr. 5 der Verordnung
+Anhang I Abschnitt III Kapitel IV Buchstabe B Nummer 5 der Verordnung
 (EG) Nr. 854/2004 noch vorhanden sind.
 
 (3) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
@@ -153,7 +166,7 @@ Vorschriften über
 
 
 2.  die Durchführung von Fortbildungsmaßnahmen nach Anhang I Abschnitt III
-    Kapitel IV Buchstabe B Nr. 6 und 7 der Verordnung (EG) Nr. 854/2004
+    Kapitel IV Buchstabe B Nummer 6 und 7 der Verordnung (EG) Nr. 854/2004
     und
 
 
@@ -170,22 +183,22 @@ zu erlassen.
 eines Schlachthofes
 
 1.  bei der amtlichen Überwachung der Produktion von Fleisch von Geflügel
-    oder Hasentieren unter den in Artikel 5 Nr. 6 Buchstabe a in
+    oder Hasentieren unter den in Artikel 5 Nummer 6 Buchstabe a in
     Verbindung mit Anhang I Abschnitt III Kapitel III Buchstabe A der
     Verordnung (EG) Nr. 854/2004 genannten Voraussetzungen die dort
     beschriebenen Tätigkeiten an Stelle von amtlichen Fachassistenten
     übernimmt oder
 
 
-2.  nach Artikel 5 Nr. 6 Buchstabe b in Verbindung mit Anhang I Abschnitt
-    III Kapitel III Buchstabe B der Verordnung (EG) Nr. 854/2004 bestimmte
-    Tests oder die Entnahme von Proben für bestimmte Laboruntersuchungen
-    ausführt.
+2.  nach Artikel 5 Nummer 6 Buchstabe b in Verbindung mit Anhang I
+    Abschnitt III Kapitel III Buchstabe B der Verordnung (EG) Nr. 854/2004
+    bestimmte Tests oder die Entnahme von Proben für bestimmte
+    Laboruntersuchungen ausführt.
 
 
 
 
-(2) Im Falle des Absatzes 1 Nr. 1 hat der amtliche Tierarzt bis zur
+(2) Im Falle des Absatzes 1 Nummer 1 hat der amtliche Tierarzt bis zur
 Festlegung detaillierter Vorschriften für Leistungstests nach Anhang I
 Abschnitt III Kapitel III Buchstabe A Unterbuchstabe a Satz 3 der
 Verordnung (EG) Nr. 854/2004 von jeder Sendung Schlachtgeflügel
@@ -195,7 +208,7 @@ Schlachthofpersonal die übertragenen Aufgaben ordnungsgemäß
 durchgeführt hat.
 
 (3) Vor dem erstmaligen Einsatz des Schlachthofpersonals nach Absatz 1
-Nr. 2 hat sich die zuständige Behörde im Rahmen einer theoretischen
+Nummer 2 hat sich die zuständige Behörde im Rahmen einer theoretischen
 und einer praktischen Prüfung von dem Erfolg der Schulung nach Anhang
 I Abschnitt III Kapitel III Buchstabe B der Verordnung (EG) Nr.
 854/2004 zu überzeugen.
@@ -205,8 +218,8 @@ I Abschnitt III Kapitel III Buchstabe B der Verordnung (EG) Nr.
 
 (1) Die zuständige Behörde kann eine Schlachtung im Rahmen von
 Programmen zur Tilgung oder Bekämpfung von Tierseuchen oder von
-Zoonoseerregern im Sinne des Anhangs I Abschnitt II Kapitel III Nr. 7
-der Verordnung (EG) Nr. 854/2004 mit der Auflage genehmigen, dass
+Zoonoseerregern im Sinne des Anhangs I Abschnitt II Kapitel III Nummer
+7 der Verordnung (EG) Nr. 854/2004 mit der Auflage genehmigen, dass
 
 1.  die Schlachtung im Anschluss an die übrigen Schlachtungen vorzunehmen
     ist,
@@ -219,8 +232,8 @@ der Verordnung (EG) Nr. 854/2004 mit der Auflage genehmigen, dass
 
 
 
-Im Falle des Satzes 1 Nr. 2 sind besondere Vorkehrungen zum Schutz des
-Schlachtpersonals zu treffen.
+Im Falle des Satzes 1 Nummer 2 sind besondere Vorkehrungen zum Schutz
+des Schlachtpersonals zu treffen.
 
 (2) Der amtliche Tierarzt ordnet erforderlichenfalls unter
 Berücksichtigung der erregerspezifischen Eigenschaften weitere
@@ -243,16 +256,16 @@ Lebensmittel-Hygieneverordnung zur amtlichen Fleischuntersuchung oder
 zur amtlichen Untersuchung auf Trichinen angemeldet wurde, ist
 
 1.  die amtliche Fleischuntersuchung nach Anhang I Abschnitt IV Kapitel
-    VIII Buchstabe A in Verbindung mit Abschnitt II Kapitel V Nr. 1 der
+    VIII Buchstabe A in Verbindung mit Abschnitt II Kapitel V Nummer 1 der
     Verordnung (EG) Nr. 854/2004 in der jeweils geltenden Fassung oder
 
 
-2.  die amtliche Untersuchung auf Trichinen nach Artikel 2 Abs. 3
-    Unterabsatz 3 in Verbindung mit Anhang I Kapitel I oder II und Anhang
-    III der Verordnung (EG) Nr. 2075/2005 der Kommission vom 5. Dezember
-    2005 mit spezifischen Vorschriften für die amtlichen
-    Fleischuntersuchungen auf Trichinen (ABl. EU Nr. L 338 S. 60) in der
-    jeweils geltenden Fassung
+2.  die amtliche Untersuchung auf Trichinen nach Artikel 2 Absatz 2
+    Unterabsatz 2 in Verbindung mit Anhang I Kapitel I oder II und Anhang
+    III der Durchführungsverordnung (EU) 2015/1375 der Kommission vom 10.
+    August 2015 mit spezifischen Vorschriften für die amtlichen
+    Fleischuntersuchungen auf Trichinen (ABl. L 212 vom 11.8.2015, S. 7)
+    in der jeweils geltenden Fassung
 
 
 
@@ -295,11 +308,11 @@ Eine Übertragung nach Satz 1 darf nur erfolgen, wenn
 
 Die zuständige Behörde hat in landwirtschaftlichen Betrieben, in denen
 kleine Mengen von frischem Fleisch von Geflügel oder Hasentieren nach
-§ 3 Abs. 1 Satz 1 Nr. 4 der Tierische Lebensmittel-Hygieneverordnung
-abgegeben werden, mindestens zweimal jährlich eine
+§ 3 Absatz 1 Satz 1 Nummer 4 der Tierische Lebensmittel-
+Hygieneverordnung abgegeben werden, mindestens zweimal jährlich eine
 Schlachttieruntersuchung in Form einer regelmäßigen
 Gesundheitsüberwachung des Bestandes durchzuführen. Satz 1 gilt nicht
-in Fällen des § 3 Abs. 1 Satz 2 der Tierische Lebensmittel-
+in Fällen des § 3 Absatz 1 Satz 2 der Tierische Lebensmittel-
 Hygieneverordnung.
 
 
@@ -324,16 +337,21 @@ ist
 
 3.  die amtliche Untersuchung auf Trichinen nach Anhang I Abschnitt IV
     Kapitel IX Teil C der Verordnung (EG) Nr. 854/2004 in der jeweils
-    geltenden Fassung in Verbindung mit Artikel 2 Absatz 3 Unterabsatz 3
-    in Verbindung mit Anhang I Kapitel I oder II und Anhang III der
-    Verordnung (EG) Nr. 2075/2005
+    geltenden Fassung in Verbindung mit Artikel 2 Absatz 2 Unterabsatz 2
+    in Verbindung mit Anhang I und III der Durchführungsverordnung (EU)
+    2015/1375
 
 
 
 durchzuführen. Die zuständige Behörde kann abweichend von Satz 1
-Nummer 3 die Untersuchung auf Trichinen nach Artikel 2 Absatz 3
-Unterabsatz 3 in Verbindung mit Anhang I Kapitel III der Verordnung
-(EG) Nr. 2075/2005 durchführen.
+Nummer 3 die Untersuchung auf Trichinen nach Artikel 2 Absatz 2
+Unterabsatz 2 in Verbindung mit Anhang I Kapitel III der Verordnung
+(EG) Nr. 2075/2005 der Kommission vom 5. Dezember 2005 mit
+spezifischen Vorschriften für die amtlichen Fleischuntersuchungen auf
+Trichinen (ABl. L 338 vom 22.12.2005, S. 60), die zuletzt durch die
+Durchführungsverordnung (EU) Nr. 1114/2014 (ABl. L 302 vom 22.10.2014,
+S. 46) geändert worden ist, in der bis zum 30. August 2015 geltenden
+Fassung durchführen.
 
 (2) Bei erlegtem Großwild, das nach § 2b der Tierische Lebensmittel-
 Hygieneverordnung zur amtlichen Fleischuntersuchung oder zur amtlichen
@@ -381,40 +399,25 @@ menschlichen Verzehr töten oder zur Schlachtung abgeben.
 
 ## § 8 Kennzeichnung der Genusstauglichkeit
 
-(1) Bei Fleisch von als Haustieren gehaltenen Huftieren, die außerhalb
-eines Schlachthofes notgeschlachtet worden sind, hat die Kennzeichnung
-der Genusstauglichkeit nach Anhang I Abschnitt I Kapitel III Nr. 7 der
-Verordnung (EG) Nr. 854/2004 mit einem Kennzeichen nach Form und
-Inhalt des Musters der Anlage 1 Nr. 1 zu erfolgen.
-
-(2) Kleine Mengen erlegten Großwildes, bei dem keine
-Fleischuntersuchung nach § 6 Absatz 1 Satz 1 Nr. 1 durchgeführt, das
-aber nach § 6 Absatz 1 Satz 1 Nr. 2 auf Trichinen untersucht und nicht
-nach § 6 Absatz 1 Satz 2 in Verbindung mit Anhang I Abschnitt IV
-Kapitel VIII Buchstabe B der Verordnung (EG) Nr. 854/2004 für
-genussuntauglich erklärt worden ist, sind auf den frei liegenden
+(1) Kleine Mengen erlegten Großwildes, bei dem keine
+Fleischuntersuchung nach § 6 Absatz 1 Satz 1 Nummer 1 durchgeführt,
+das aber nach § 6 Absatz 1 Satz 1 Nummer 2 auf Trichinen untersucht
+und nicht nach § 6 Absatz 1 Satz 2 in Verbindung mit Anhang I
+Abschnitt IV Kapitel VIII Buchstabe B der Verordnung (EG) Nr. 854/2004
+für genussuntauglich erklärt worden ist, sind auf den frei liegenden
 Fleischteilen oder dem Brustfell mit einem Kennzeichen nach Form und
-Inhalt des Musters der Anlage 1 Nr. 2 zu kennzeichnen. Satz 1 gilt
+Inhalt des Musters der Anlage 1 Nummer 1 zu kennzeichnen. Satz 1 gilt
 nicht im Falle des § 6 Absatz 2 Satz 1 Nummer 2.
 
-(3) Kleine Mengen erlegten Großwildes, das nach § 6 Absatz 1 Satz 1
-Nr. 1 untersucht und nicht nach § 6 Absatz 1 Satz 2 in Verbindung mit
-Anhang I Abschnitt IV Kapitel VIII Buchstabe B der Verordnung (EG) Nr.
-854/2004 für genussuntauglich erklärt worden ist, sind mit einem
-Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nr. 3
-entsprechend Anhang I Abschnitt I Kapitel III Nr. 2 Buchstabe b der
+(2) Kleine Mengen erlegten Großwildes, das nach § 6 Absatz 1 Satz 1
+Nummer 1 untersucht und nicht nach § 6 Absatz 1 Satz 2 in Verbindung
+mit Anhang I Abschnitt IV Kapitel VIII Buchstabe B der Verordnung (EG)
+Nr. 854/2004 für genussuntauglich erklärt worden ist, sind mit einem
+Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nummer 2
+entsprechend Anhang I Abschnitt I Kapitel III Nummer 2 Buchstabe b der
 Verordnung (EG) Nr. 854/2004 zu kennzeichnen.
 
-(4) Fleisch im Sinne des Artikels 4 Unterabs. 1 der Verordnung (EG)
-Nr. 2076/2005 der Kommission vom 5. Dezember 2005 zur Festlegung von
-Übergangsregelungen für die Durchführung der Verordnungen (EG) Nr.
-853/2004, (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen
-Parlaments und des Rates sowie zur Änderung der Verordnungen (EG) Nr.
-853/2004 und (EG) Nr. 854/2004 (ABl. EU Nr. L 338 S. 83) ist mit einem
-Kennzeichen nach Form und Inhalt des Musters der Anlage 1 Nr. 4 zu
-kennzeichnen.
-
-(5) Fleisch von Schalenwild,
+(3) Fleisch von Schalenwild,
 
 1.  bei dem auf Grund einer behördlichen Genehmigung nach § 7b Absatz 1
     die Schlachttieruntersuchung nicht innerhalb von 24 Stunden vor der
@@ -428,16 +431,16 @@ kennzeichnen.
 
 ist abweichend von Anhang I Abschnitt I Kapitel III Nummer 3 der
 Verordnung (EG) Nr. 854/2004 mit einem Kennzeichen nach Form und
-Inhalt des Musters der Anlage 1 Nummer 5 zu kennzeichnen.
+Inhalt des Musters der Anlage 1 Nummer 3 zu kennzeichnen.
 
-(6) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das
-nach Anhang I Abschnitt II Kapitel V Nr. 1 oder Abschnitt IV Kapitel
-VIII Buchstabe B der Verordnung (EG) Nr. 854/2004 genussuntauglich
-erklärt wurde, ist mit einem Kennzeichen nach Form und Inhalt des
-Musters der Anlage 1 Nr. 5 in der in den Absätzen 1 bis 3 geregelten
-Weise zu kennzeichnen.
+(4) Fleisch, ausgenommen Fleisch von Geflügel oder Hasentieren, das
+nach Anhang I Abschnitt II Kapitel V Nummer 1 oder Abschnitt IV
+Kapitel VIII Buchstabe B der Verordnung (EG) Nr. 854/2004
+genussuntauglich erklärt wurde, ist mit einem Kennzeichen nach Form
+und Inhalt des Musters der Anlage 1 Nummer 4 in der in den Absätzen 1
+bis 3 geregelten Weise zu kennzeichnen.
 
-(7) Materialien zur Kennzeichnung, die vor dem 15. August 2007
+(5) Materialien zur Kennzeichnung, die vor dem 15. August 2007
 verwendet worden sind und den Anforderungen nach dem jeweiligen Inhalt
 der Muster der Anlage 1 nicht entsprechen, können bis zum 31. Dezember
 2010 weiterverwendet werden.
@@ -446,7 +449,7 @@ der Muster der Anlage 1 nicht entsprechen, können bis zum 31. Dezember
 ## § 9 Wiederaufnahme der Rohmilchanlieferung
 
 (1) Die Anordnung der Aussetzung der Milchanlieferung nach Anhang IV
-Kapitel II Nr. 2 Satz 2 der Verordnung (EG) Nr. 854/2004 ist
+Kapitel II Nummer 2 Satz 2 der Verordnung (EG) Nr. 854/2004 ist
 aufzuheben, wenn durch die Ergebnisse von zwei im Abstand von
 mindestens vier Tagen entnommenen repräsentativen Proben der
 Herdenmilch nachgewiesen worden ist, dass die Rohmilch den in Anlage 2
@@ -469,7 +472,7 @@ Milchanlieferung kann auch aufgehoben werden, wenn
 
 
 
-Die Proben nach den Sätzen 1 und 2 Nr. 3 sind auf Antrag des
+Die Proben nach den Sätzen 1 und 2 Nummer 3 sind auf Antrag des
 Lebensmittelunternehmers durch die zuständige Behörde oder eine von
 dieser beauftragten Stelle zu entnehmen und zu untersuchen.
 
@@ -482,7 +485,7 @@ Lieferung von Rohmilch aus dem Erzeugerbetrieb anzuordnen, wenn
 
 
 2.  im darauf folgenden Monat festgestellt wird, dass die Rohmilch den in
-    Anhang III Abschnitt IX Kapitel I Teil III Nr. 3 Buchstabe a der
+    Anhang III Abschnitt IX Kapitel I Teil III Nummer 3 Buchstabe a der
     Verordnung (EG) Nr. 853/2004 genannten Kriterien nicht entspricht.
 
 
@@ -492,7 +495,7 @@ Lieferung von Rohmilch aus dem Erzeugerbetrieb anzuordnen, wenn
 ## § 10 Rückstandsüberwachung
 
 (1) Die zuständige Behörde hat im Rahmen der Durchführung von Anhang I
-Abschnitt I Kapitel II Buchstabe F Nr. 1 Buchstabe c der Verordnung
+Abschnitt I Kapitel II Buchstabe F Nummer 1 Buchstabe c der Verordnung
 (EG) Nr. 854/2004
 
 1.  bei mindestens 2 Prozent aller gewerblich geschlachteten Kälber und
@@ -501,9 +504,9 @@ Abschnitt I Kapitel II Buchstabe F Nr. 1 Buchstabe c der Verordnung
     untersuchen und
 
 
-2.  amtliche Proben von lebenden Tieren im Sinne des § 4 Abs. 1 Nr. 1 des
-    Lebensmittel- und Futtermittelgesetzbuches und von Lebensmitteln
-    tierischen Ursprungs nach den Vorgaben des nach § 2 Nr. 10 des BVL-
+2.  amtliche Proben von lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1
+    des Lebensmittel- und Futtermittelgesetzbuches und von Lebensmitteln
+    tierischen Ursprungs nach den Vorgaben des nach § 2 Nummer 10 des BVL-
     Gesetzes erstellten Rückstandsüberwachungsplanes auf Rückstände zu
     untersuchen.
 
@@ -517,7 +520,7 @@ zu kennzeichnen.
 (2) Die zuständige Behörde hat Kontrollen im Rahmen der
 Rückstandsüberwachung ohne Vorankündigung durchzuführen.
 
-(3) Wenn bei lebenden Tieren im Sinne des § 4 Abs. 1 Nr. 1 des
+(3) Wenn bei lebenden Tieren im Sinne des § 4 Absatz 1 Nummer 1 des
 Lebensmittel- und Futtermittelgesetzbuches aus einem Betrieb oder bei
 von diesen Tieren gewonnenen Lebensmitteln wiederholt festgestellt
 worden ist, dass festgesetzte Höchstmengen für zugelassene Stoffe nach
@@ -529,24 +532,25 @@ und 91/664/EWG (ABl. EG Nr. L 125 S. 10) oder deren
 Umwandlungsprodukte überschritten worden sind, hat die zuständige
 Behörde über einen Zeitraum von mindestens sechs Monaten in
 verstärktem Umfang amtliche Proben von lebenden Tieren im Sinne des §
-4 Abs. 1 Nr. 1 des Lebensmittel- und Futtermittelgesetzbuches oder
-Lebensmitteln tierischen Ursprungs aus diesem Betrieb zu untersuchen.
+4 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches
+oder Lebensmitteln tierischen Ursprungs aus diesem Betrieb zu
+untersuchen.
 
 (4) Wenn von der zuständigen Behörde für lebende Tiere im Sinne des §
-4 Abs. 1 Nr. 1 des Lebensmittel- und Futtermittelgesetzbuches aus
+4 Absatz 1 Nummer 1 des Lebensmittel- und Futtermittelgesetzbuches aus
 einem Erzeugerbetrieb oder einem Viehhandels- oder
-Transportunternehmen eine Anordnung nach § 41 Abs. 3 des Lebensmittel-
-und Futtermittelgesetzbuches erlassen worden ist, hat die zuständige
-Behörde über einen Zeitraum von mindestens zwölf Monaten in
-verstärktem Umfang amtliche Proben von lebenden Tieren im Sinne des §
-4 Abs. 1 Nr. 1 des Lebensmittel- und Futtermittelgesetzbuches oder
-Lebensmitteln tierischen Ursprungs aus diesem Betrieb oder Unternehmen
-zu untersuchen.
+Transportunternehmen eine Anordnung nach § 41 Absatz 3 des
+Lebensmittel- und Futtermittelgesetzbuches erlassen worden ist, hat
+die zuständige Behörde über einen Zeitraum von mindestens zwölf
+Monaten in verstärktem Umfang amtliche Proben von lebenden Tieren im
+Sinne des § 4 Absatz 1 Nummer 1 des Lebensmittel- und
+Futtermittelgesetzbuches oder Lebensmitteln tierischen Ursprungs aus
+diesem Betrieb oder Unternehmen zu untersuchen.
 
 (5) Wenn gegen das Ergebnis der Untersuchung einer amtlichen Probe
-nach Absatz 1 oder nach § 41 Abs. 3 oder 5 Satz 1 des Lebensmittel-
+nach Absatz 1 oder nach § 41 Absatz 3 oder 5 Satz 1 des Lebensmittel-
 und Futtermittelgesetzbuches auf Grund des Ergebnisses der
-Untersuchung einer nach § 43 Abs. 1 Satz 2 des Lebensmittel- und
+Untersuchung einer nach § 43 Absatz 1 Satz 2 des Lebensmittel- und
 Futtermittelgesetzbuches zurückgelassenen Probe Widerspruch eingelegt
 wird, hat die zuständige Behörde eine Untersuchung der amtlichen Probe
 durch das nationale Referenzlabor zu veranlassen.
@@ -555,7 +559,7 @@ durch das nationale Referenzlabor zu veranlassen.
 dass Schlachttiere vorschriftswidrig behandelt oder ihnen verbotene
 Stoffe oder Erzeugnisse verabreicht worden sind, oder ein
 hinreichender Verdacht hierauf besteht, hat der amtliche Tierarzt im
-Rahmen der Durchführung von Anhang I Abschnitt II Kapitel III Nr. 6
+Rahmen der Durchführung von Anhang I Abschnitt II Kapitel III Nummer 6
 der Verordnung (EG) Nr. 854/2004
 
 1.  anzuordnen, dass die Schlachtung dieser Tiere getrennt von den übrigen
@@ -565,7 +569,7 @@ der Verordnung (EG) Nr. 854/2004
 2.  Schlachtkörper und Nebenprodukte der Schlachtung vorläufig zu
     beschlagnahmen und die für die Abklärung des Verdachts erforderlichen
     amtlichen Proben für Labortests nach Anhang I Abschnitt I Kapitel II
-    Buchstabe F Nr. 1 Buchstabe c der Verordnung (EG) Nr. 854/2004 zu
+    Buchstabe F Nummer 1 Buchstabe c der Verordnung (EG) Nr. 854/2004 zu
     entnehmen.
 
 
@@ -584,8 +588,8 @@ wird und festgesetzte Höchstmengen nicht überschritten werden.
 erlauben, wenn Gründe des Tierschutzes oder betriebliche Gegebenheiten
 dies zwingend erfordern. In diesem Fall sind Fleisch und Nebenprodukte
 der Schlachtung zu beschlagnahmen und amtliche Proben für Labortests
-nach Anhang I Abschnitt I Kapitel II Buchstabe F Nr. 1 Buchstabe c der
-Verordnung (EG) Nr. 854/2004 zu nehmen.
+nach Anhang I Abschnitt I Kapitel II Buchstabe F Nummer 1 Buchstabe c
+der Verordnung (EG) Nr. 854/2004 zu nehmen.
 
 (9) Die Beschlagnahme ist aufzuheben, soweit die Labortests ergeben
 haben, dass festgesetzte Höchstmengen nicht überschritten werden.
@@ -598,65 +602,52 @@ Abweichend von § 6 Absatz 2 ist bis zum 20. November 2010 § 22a Absatz
 Bekanntmachung vom 30. Juni 2003 (BGBl. I S. 1242, 1585) in der bis
 zum 6. September 2005 geltenden Fassung weiter anzuwenden.
 
+(zu § 8)
 
-## Anlage 1 (zu § 8) Stempel zur Kennzeichnung der Genusstauglichkeit
+## Anlage 1 Stempel zur Kennzeichnung der Genusstauglichkeit
 
-(Fundstelle: BGBl. I 2007, 1868-1969;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
+(Fundstelle: BGBl. I 2018, 1364)
 
-1.  Stempel für genusstaugliches Fleisch von als Haustieren gehaltenen
-    Huftieren, die außerhalb eines Schlachthofes notgeschlachtet wurden
 
-    *        *            ![bgbl1_2007_j18162_0010.jpg](bgbl1_2007_j18162_0010.jpg)
+1.  Stempel für genusstaugliches Fleisch von erlegtem Großwild, das der
+    Untersuchung auf Trichinen unterzogen wurde
+
+    *        *            ![bgbl1_2018_j1358-1_0010.jpg](bgbl1_2018_j1358-1_0010.jpg)
 
 
 
 
 2.  Stempel für genusstaugliches Fleisch von erlegtem Großwild, das der
-    Untersuchung auf Trichinen unterzogen wurde
-
-    *        *            ![bgbl1_2007_j18162_0020.jpg](bgbl1_2007_j18162_0020.jpg)
-
-
-
-
-3.  Stempel für genusstaugliches Fleisch von erlegtem Großwild, das der
     Fleischuntersuchung unterzogen wurde
 
-    *        *            ![bgbl1_2007_j18162_0030.jpg](bgbl1_2007_j18162_0030.jpg)
+    *        *            ![bgbl1_2018_j1358-1_0020.jpg](bgbl1_2018_j1358-1_0020.jpg)
 
 
 
 
-4.  Stempel für genusstaugliches Fleisch aus Schlachthöfen im Sinne des
-    Artikels 4 der Verordnung (EG) Nr. 2076/2005
+3.  Stempel für genusstaugliches Fleisch von Schalenwild nach § 7b
 
-    *        *            ![bgbl1_2007_j18162_0040.jpg](bgbl1_2007_j18162_0040.jpg)
-
-
-
-
-5.  Stempel für genusstaugliches Fleisch von Schalenwild nach § 7b
-
-    *        *            ![bgbl1_2010_j1537-1_0010.jpg](bgbl1_2010_j1537-1_0010.jpg)   \_\_\_    3,5 cm    \_\__
+    *        *            ![bgbl1_2018_j1358-1_0030.jpg](bgbl1_2018_j1358-1_0030.jpg)   \_\_\_    3,5 cm    \_\__
 
 
 
 
 
-6.  Stempel für genussuntaugliches Fleisch
+4.  Stempel für genussuntaugliches Fleisch
 
-    *        *            ![bgbl1_2007_j18162_0050.jpg](bgbl1_2007_j18162_0050.jpg)
+    *        *            ![bgbl1_2018_j1358-1_0040.jpg](bgbl1_2018_j1358-1_0040.jpg)
 
 
 
 
 
 
+   (zu § 9)
 
-## Anlage 2 (zu § 9) Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nr. 2 Satz 1 der Verordnung (EG) Nr. 854/2004
+## Anlage 2 Grenzwerte für die Aufhebung der Anordnung nach Anhang IV Kapitel II Nummer 2 Satz 1 der Verordnung (EG) Nr. 854/2004
 
-   (Fundstelle: BGBl. I 2007, 1870)
+(Fundstelle: BGBl. I 2018, 1365)
+
 
 *    *
     *   Keimzahl
@@ -669,22 +660,25 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Rohe Kuhmilch
 
-    *   *                        100.000
+    *   *   100 000
 
-    *   *                      400.000
+    *   * 400 000
 
 
-*    *   Rohmilch anderer
-        Tierarten
+*    *   Rohmilch
+        anderer Tierarten
 
-    *   *                      1.500.000
+    *   * 1 500 000
 
     *
 
-*    *   Rohmilch anderer Tierarten, die für die Herstellung von
-        Rohmilcherzeugnissen ohne Hitzebehandlung bestimmt ist
+*    *   Rohmilch anderer
+        Tierarten, die für die
+        Herstellung von Rohmilch-
+        erzeugnissen ohne Hitze-
+        behandlung bestimmt ist
 
-    *   *                        500.000
+    *   *   500 000
 
     *
 

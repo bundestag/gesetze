@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 8. September 1976 über die Ausstellung 
   Auszüge aus Personenstandsbüchern
 jurabk: PersStdAuszÜbkG
 layout: default
-origslug: persstdausz_bkg
+origslug: persstdauszuebkg
 slug: persstdauszuebkg
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl II: 1997, 774
+
+Geändert durch
+:   Art. 48 V v. 31.8.2015 I 1474
 
 
 
@@ -35,14 +38,14 @@ nachstehend mit einer amtlich deutschen Übersetzung veröffentlicht.
 ## Art 2
 
 (1) Das Bundesministerium des Innern wird ermächtigt, im Benehmen mit
-dem Bundesministerium der Justiz und mit Zustimmung des Bundesrates
-durch Rechtsverordnung Vorschriften über die in die Formblätter
-einzutragenden Angaben zu erlassen.
+dem Bundesministerium der Justiz und für Verbraucherschutz und mit
+Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften über
+die in die Formblätter einzutragenden Angaben zu erlassen.
 
 (2) Die zur Durchführung dieses Gesetzes erforderlichen allgemeinen
 Verwaltungsvorschriften erläßt das Bundesministerium des Innern im
-Benehmen mit dem Bundesministerium der Justiz und mit Zustimmung des
-Bundesrates.
+Benehmen mit dem Bundesministerium der Justiz und für
+Verbraucherschutz und mit Zustimmung des Bundesrates.
 
 
 ## Art 3

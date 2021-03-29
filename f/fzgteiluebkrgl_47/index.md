@@ -4,7 +4,7 @@ Title: Regelung Nr. 47 - Einheitliche Vorschriften für die Genehmigung der Fahr
   Gase aus Motoren mit Fremdzündung
 jurabk: FzgTeilÜbkRgl 47
 layout: default
-origslug: fzgteil_bkrgl_47
+origslug: fzgteiluebkrgl_47
 slug: fzgteiluebkrgl_47
 
 ---

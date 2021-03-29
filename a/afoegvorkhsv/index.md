@@ -3,7 +3,7 @@ Title: Verordnung über die Ausbildungsförderung für die Teilnahme an Vorkurse
   Vorbereitung des Besuchs von Kollegs und Hochschulen
 jurabk: AfögVorkHSV
 layout: default
-origslug: af_gvorkhsv
+origslug: afoegvorkhsv
 slug: afoegvorkhsv
 
 ---

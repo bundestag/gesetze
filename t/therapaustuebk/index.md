@@ -3,7 +3,7 @@ Title: Europäisches Übereinkommen über den Austausch therapeutischer Substanz
   Ursprungs
 jurabk: TherapAustÜbk
 layout: default
-origslug: therapaust_bk
+origslug: therapaustuebk
 slug: therapaustuebk
 
 ---

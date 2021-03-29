@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 144
 
 Zuletzt geändert durch
-:   Art. 5 V v. 17.12.2010 I 2132
+:   Art. 19 V v. 5.7.2017 I 2272
 
 Diese Verordnung ist nach der Richtlinie 83/189/EWG des Rates vom 28.
 März 1983 über ein Informationsverfahren auf dem Gebiet der Normen und
@@ -82,9 +82,9 @@ den Verkehr gebracht werden, wenn sie nach Maßgabe der Absätze 2 und 6
 Satz 1 bis 3, des Absatzes 7 Satz 1 und des Absatzes 9 gekennzeichnet
 ist.
 
-(2) Die Kennzeichnung von Butter in Fertigpackungen im Sinne des § 6
-Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt
-sind, muß enthalten
+(2) Die Kennzeichnung von Butter in Fertigpackungen im Sinne des § 42
+Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher
+bestimmt sind, muß enthalten
 
 1.  den Namen oder die Firma und die Anschrift des Herstellers, des
     Verpackers oder eines im Gebiet der Europäischen Union oder in einem
@@ -510,11 +510,11 @@ Maßgabe des Absatzes 2 Satz 1, des Absatzes 3 Satz 1 bis 3 und der
 Absätze 4 und 5 gekennzeichnet sind.
 
 (2) Bei den Erzeugnissen Dreiviertelfettbutter, Halbfettbutter und
-Milchstreichfett X vom Hundert in Fertigpackungen im Sinne des § 6
-Abs. 1 des Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt
-sind, sind die in § 3 Abs. 2 genannten Angaben anzubringen. Die
-Angaben nach § 3 Abs. 2 Nr. 1 und 2 können bei Fertigpackungen, deren
-größte Einzelfläche weniger als 10
+Milchstreichfett X vom Hundert in Fertigpackungen im Sinne des § 42
+Absatz 1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher
+bestimmt sind, sind die in § 3 Abs. 2 genannten Angaben anzubringen.
+Die Angaben nach § 3 Abs. 2 Nr. 1 und 2 können bei Fertigpackungen,
+deren größte Einzelfläche weniger als 10
 qcm beträgt, entfallen. Für die Art und Weise der Kennzeichnung gilt §
 3 Abs. 3 und 4 der Lebensmittel-Kennzeichnungsverordnung entsprechend.
 
@@ -610,16 +610,52 @@ genanntes Erzeugnis in den Verkehr bringt, das nicht oder nicht in der
 vorgeschriebenen Weise gekennzeichnet ist.
 
 
-### § 18 Übergangsvorschrift
+### § 18 Übergangsbestimmungen
 
-Lebensmittel, die den Vorschriften dieser Verordnung in der ab dem 13.
-November 2004 an geltenden Fassung nicht entsprechen, dürfen noch bis
-zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
+(1) Lebensmittel, die den Vorschriften dieser Verordnung in der ab dem
+13\. November 2004 an geltenden Fassung nicht entsprechen, dürfen noch
+bis zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
 Vorschriften gekennzeichnet und auch nach dem 24. November 2005 noch
 bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
 
+(2) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
 
-### Anlage 1 (zu § 7 Abs. 1 und 3, § 8 Abs. 2) Bestimmungen für die Durchführung von Butterprüfungen
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom
+    25\. Oktober 2011 betreffend die Information der Verbraucher über
+    Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und
+    (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur
+    Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) in der jeweils geltenden Fassung oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+
+(3) Werden Erzeugnisse im Sinne des § 1 Absatz 1 in einer in § 4 der
+Lebensmittelinformations-Durchführungsverordnung geregelten Form der
+Abgabe in den Verkehr gebracht, so ist diese Verordnung nur
+vorbehaltlich des § 4 der Lebensmittelinformations-
+Durchführungsverordnung anzuwenden.
+
+(4) Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden. Die Absätze 2 und 3 bleiben unberührt.
+
+(zu § 7 Abs. 1 und 3, § 8 Abs. 2)
+
+### Anlage 1 Bestimmungen für die Durchführung von Butterprüfungen
 
 Fundstelle des Originaltextes: BGBl. I 1997, 148 - 150;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -906,8 +942,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 -------
 \*) Zu beziehen bei Beuth Verlag GmbH, 10772 Berlin.
 
+(zu § 12 Abs. 3)
 
-### Anlage 2 (zu § 12 Abs. 3) Muster der Bescheinigung über Markenbutter
+### Anlage 2 Muster der Bescheinigung über Markenbutter
 
 Fundstelle des Originaltextes: BGBl. I 1997, 150;
 ( bzgl. der einzelnen Änderungen vgl. Fußnote

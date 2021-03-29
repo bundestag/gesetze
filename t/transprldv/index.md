@@ -18,6 +18,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 408
 
+Zuletzt geändert durch
+:   Art. 24 Abs. 10 G v. 23.6.2017 I 1693
+
 
 ## Eingangsformel
 
@@ -55,19 +58,19 @@ Das Bundesministerium der Finanzen verordnet
 
 Diese Verordnung regelt
 
-1.  Umstände, unter denen im Sinne des § 22 Abs. 3a Satz 1 des
+1.  Umstände, unter denen im Sinne des § 35 Absatz 2 Satz 1 des
     Wertpapierhandelsgesetzes eine Unabhängigkeit des
     Wertpapierdienstleistungsunternehmens vom Meldepflichtigen gegeben
     ist,
 
 
 2.  Pflichten des Market Makers im Zusammenhang mit einer
-    Nichtberücksichtigung seiner Stimmrechte nach § 23 Abs. 4 des
+    Nichtberücksichtigung seiner Stimmrechte nach § 36 Absatz 5 des
     Wertpapierhandelsgesetzes,
 
 
 3.  den Inhalt des Halbjahresfinanzberichts, den ein Inlandsemittent nach
-    § 37w Abs. 1 Satz 1 des Wertpapierhandelsgesetzes der Öffentlichkeit
+    § 115 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes der Öffentlichkeit
     zur Verfügung zu stellen hat,
 
 
@@ -76,17 +79,16 @@ Diese Verordnung regelt
     Wertpapierdienstleistungsunternehmens vom Bieter gegeben ist,
 
 
-5.  Umstände, unter denen im Sinne des § 32 Abs. 2 Satz 1 des
-    Investmentgesetzes eine Unabhängigkeit der Kapitalanlagegesellschaft
-    oder der Verwaltungsgesellschaft im Sinne des § 32 Abs. 3 des
-    Investmentgesetzes vom Mutterunternehmen gegeben ist, sowie
+5.  Umstände, unter denen im Sinne des § 35 Absatz 3 Nummer 1 des
+    Wertpapierhandelsgesetzes eine Unabhängigkeit der
+    Kapitalverwaltungsgesellschaft oder der EU-Verwaltungsgesellschaft vom
+    Mutterunternehmen gegeben ist, sowie
 
 
 6.  die Gleichwertigkeit der Regeln eines Drittstaates zu den
-    Anforderungen des § 22 Abs. 3a, des § 26 Abs. 1, der §§ 26a, 30a, 30b
-    und 30e Abs. 1 Satz 1 Nr. 1 und 2 sowie der §§ 37v bis 37y des
-    Wertpapierhandelsgesetzes und des § 32 Abs. 2 Satz 1 des
-    Investmentgesetzes.
+    Anforderungen des § 35 Absatz 4, des § 40 Absatz 1, der §§ 41, 48, 49
+    und 50 Absatz 1 Satz 1 Nummer 1 und 2 sowie der §§ 114 bis 117 des
+    Wertpapierhandelsgesetzes.
 
 
 
@@ -95,19 +97,19 @@ Diese Verordnung regelt
 ## § 2 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Meldepflichtigen
 
 (1) Ein Wertpapierdienstleistungsunternehmen übt die Stimmrechte im
-Sinne des § 22 Abs. 3a Satz 1 Nr. 2 des Wertpapierhandelsgesetzes
+Sinne des § 35 Absatz 2 Nummer 1 des Wertpapierhandelsgesetzes
 unabhängig vom Meldepflichtigen aus, wenn
 
-1.  der Meldepflichtige oder ein anderes Tochterunternehmen des
-    Meldepflichtigen nicht durch unmittelbare oder mittelbare Weisungen
+1.  das Mutterunternehmen oder ein anderes Tochterunternehmen des
+    Mutterunternehmens nicht durch unmittelbare oder mittelbare Weisungen
     oder in anderer Weise auf die Ausübung der Stimmrechte aus den Aktien,
     die von dem Wertpapierdienstleistungsunternehmen verwaltet werden,
     einwirken darf und
 
 
 2.  das Wertpapierdienstleistungsunternehmen die Stimmrechte aus den von
-    ihm verwalteten Aktien frei und unabhängig von dem Meldepflichtigen
-    und den anderen Tochterunternehmen des Meldepflichtigen ausübt.
+    ihm verwalteten Aktien frei und unabhängig von dem Mutterunternehmen
+    und den anderen Tochterunternehmen des Mutterunternehmens ausübt.
 
 
 
@@ -119,22 +121,25 @@ Weisung im Sinne des Absatzes 1 Nr. 1 ist jede allgemeine oder
 besondere Weisung, durch die der Entscheidungsspielraum des
 Wertpapierdienstleistungsunternehmens in Bezug auf die
 Stimmrechtsausübung eingeschränkt wird, um bestimmten
-Geschäftsinteressen des Meldepflichtigen oder eines anderen
-Tochterunternehmens des Meldepflichtigen Rechnung zu tragen.
+Geschäftsinteressen des Mutterunternehmens oder eines anderen
+Tochterunternehmens des Mutterunternehmens Rechnung zu tragen.
+
+(3) Für Verwaltungsgesellschaften und Mutterunternehmen im Sinne von §
+22a Absatz 3 gelten die Absätze 1 und 2 entsprechend.
 
 
 ## § 3 Mitteilungspflichten des Meldepflichtigen gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
 
-(1) Der Meldepflichtige hat die Angaben nach § 22 Abs. 3a Satz 1 Nr. 3
+(1) Das Mutterunternehmen hat die Angaben nach § 35 Absatz 2 Nummer 3
 des Wertpapierhandelsgesetzes fortlaufend zu aktualisieren.
 
-(2) Eine Erklärung nach § 22 Abs. 3a Satz 1 Nr. 4 des
+(2) Eine Erklärung nach § 35 Absatz 2 Nummer 4 des
 Wertpapierhandelsgesetzes ist hinsichtlich der von dem
-Wertpapierdienstleistungsunternehmen gehaltenen Finanzinstrumente im
-Sinne des § 25 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes nicht
+Wertpapierdienstleistungsunternehmen gehaltenen Instrumente im Sinne
+des § 25 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes nicht
 erforderlich.
 
-(3) Der Meldepflichtige hat der Bundesanstalt für
+(3) Das Mutterunternehmen hat der Bundesanstalt für
 Finanzdienstleistungsaufsicht (Bundesanstalt) auf deren Verlangen
 nachzuweisen, dass
 
@@ -148,53 +153,56 @@ nachzuweisen, dass
 
 
 
-Satz 1 Nr. 1 setzt voraus, dass der Meldepflichtige und das
+Satz 1 Nr. 1 setzt voraus, dass das Mutterunternehmen und das
 Wertpapierdienstleistungsunternehmen zumindest schriftliche Strategien
 und Verfahren festgelegt haben, die dazu bestimmt sind, den
-Informationsaustausch zwischen dem Meldepflichtigen und dem
+Informationsaustausch zwischen dem Mutterunternehmen und dem
 Wertpapierdienstleistungsunternehmen in Bezug auf die
-Stimmrechtsausübung zu verhindern. Ist der Meldepflichtige seinerseits
-Kunde des Wertpapierdienstleistungsunternehmens oder hält er Anteile
-an einer von diesem verwalteten Beteiligung, hat er der Bundesanstalt
-auf deren Verlangen auch nachzuweisen, dass ein klares schriftliches
-Mandat besteht, das eine unabhängige Kundenbeziehung zwischen ihm und
-dem Wertpapierdienstleistungsunternehmen vorsieht.
+Stimmrechtsausübung zu verhindern. Ist das Mutterunternehmen
+seinerseits Kunde des Wertpapierdienstleistungsunternehmens oder hält
+er Anteile an einer von diesem verwalteten Beteiligung, hat er der
+Bundesanstalt auf deren Verlangen auch nachzuweisen, dass ein klares
+schriftliches Mandat besteht, das eine unabhängige Kundenbeziehung
+zwischen ihm und dem Wertpapierdienstleistungsunternehmen vorsieht.
+
+(4) Für Verwaltungsgesellschaften und Mutterunternehmen im Sinne von §
+22a Absatz 3 gelten die Absätze 1 bis 3 entsprechend.
 
 
 ## § 4 Pflichten des Market Makers im Zusammenhang mit der Nichtberücksichtigung von Stimmrechten
 
 (1) Bietet der Market Maker für einen bestimmten Emittenten an einem
-Markt nicht mehr dauerhaft an, Aktien oder Finanzinstrumente im Sinne
-des § 25 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes im Wege des
+Markt nicht mehr dauerhaft an, Aktien oder Instrumente im Sinne des §
+38 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes im Wege des
 Eigenhandels zu selbst gestellten Preisen zu kaufen oder zu verkaufen,
 ist er verpflichtet, der Bundesanstalt dies mitzuteilen.
 
 (2) Der Market Maker hat der Bundesanstalt auf deren Verlangen
-nachzuweisen, welche Aktien oder sonstigen Finanzinstrumente er in
-seiner Eigenschaft als Market Maker hält; andernfalls kann die
-Bundesanstalt die Verwahrung von in der Eigenschaft als Market Maker
-gehaltenen Aktien oder sonstigen Finanzinstrumenten auf einem
-gesonderten Konto anordnen.
+nachzuweisen, welche Aktien oder sonstigen Instrumente er in seiner
+Eigenschaft als Market Maker hält; andernfalls kann die Bundesanstalt
+die Verwahrung von in der Eigenschaft als Market Maker gehaltenen
+Aktien oder sonstigen Instrumenten auf einem gesonderten Konto
+anordnen.
 
 
 ## § 5 Gleichwertigkeit der Anforderungen an die Fristen für die Veröffentlichungspflichten des Emittenten
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
-29a Abs. 1 des Wertpapierhandelsgesetzes zu den Anforderungen des § 26
-Abs. 1 Satz 1 des Wertpapierhandelsgesetzes, wenn seine
+46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
+40 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes, wenn seine
 Rechtsvorschriften vorschreiben, dass die Frist, innerhalb derer der
 Emittent, der seinen Sitz in diesem Drittstaat hat, über Veränderungen
 des Stimmrechtsanteils zu informieren ist und innerhalb derer er diese
 Veränderungen zu veröffentlichen hat, höchstens sieben Handelstage
-beträgt. Für den Beginn der Frist des Satzes 1 gilt § 21 Abs. 1 Satz 3
-des Wertpapierhandelsgesetzes entsprechend.
+beträgt. Für den Beginn der Frist des Satzes 1 gilt § 33 Absatz 1 Satz
+3 des Wertpapierhandelsgesetzes entsprechend.
 
 
 ## § 6 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf eigene Aktien
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
-29a Abs. 1 des Wertpapierhandelsgesetzes zu den Anforderungen des § 26
-Abs. 1 Satz 2 des Wertpapierhandelsgesetzes, wenn seine
+46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
+40 Absatz 1 Satz 2 des Wertpapierhandelsgesetzes, wenn seine
 Rechtsvorschriften in Bezug auf eigene Aktien vorschreiben, dass,
 soweit ein Emittent, der seinen Sitz in diesem Drittstaat hat,
 
@@ -220,47 +228,47 @@ soweit ein Emittent, der seinen Sitz in diesem Drittstaat hat,
 ## § 7 Gleichwertigkeit der Anforderungen an die Veröffentlichungspflichten des Emittenten in Bezug auf die Gesamtzahl der Stimmrechte
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
-29a Abs. 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
-26a des Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften
+46 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
+41 des Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften
 vorschreiben, dass ein Emittent, der seinen Sitz in diesem Drittstaat
 hat, die Gesamtzahl der Stimmrechte innerhalb von 30 Kalendertagen
 nach einer Zu- oder Abnahme der Gesamtzahl der Stimmrechte zu
 veröffentlichen hat.
 
 
-## § 8 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 29a Abs. 3 des Wertpapierhandelsgesetzes
+## § 8 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 34 Absatz 4 des Wertpapierhandelsgesetzes
 
 (1) Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des
-§ 29a Abs. 3 des Wertpapierhandelsgesetzes zu den Anforderungen des §
-22 Abs. 3a des Wertpapierhandelsgesetzes, wenn seine
-Rechtsvorschriften vorschreiben, dass ein Unternehmen im Sinne des §
-29a Abs. 3 Satz 1 des Wertpapierhandelsgesetzes
+§ 35 Absatz 4 des Wertpapierhandelsgesetzes zu den jeweiligen
+Anforderungen des § 35 Absatz 2 und 3 des Wertpapierhandelsgesetzes,
+wenn seine Rechtsvorschriften vorschreiben, dass ein Unternehmen im
+Sinne des § 35 Absatz 2 oder Absatz 3 des Wertpapierhandelsgesetzes
 
 1.  die Stimmrechte aus von ihm verwalteten Vermögenswerten in jedem Fall
-    frei und unabhängig vom Meldepflichtigen oder einem anderen
-    Tochterunternehmen des Meldepflichtigen ausübt und
+    frei und unabhängig vom Mutterunternehmen oder einem anderen
+    Tochterunternehmen des Mutterunternehmens ausübt und
 
 
-2.  bei Interessenkonflikten die Interessen des Meldepflichtigen oder
-    eines anderen Tochterunternehmens des Meldepflichtigen nicht beachten
-    muss.
+2.  bei Interessenkonflikten die Interessen des Mutterunternehmens oder
+    eines anderen Tochterunternehmens des Mutterunternehmens nicht
+    beachten muss.
 
 
 
 
-(2) § 29a Abs. 3 des Wertpapierhandelsgesetzes gilt nur, wenn der
-Meldepflichtige der Bundesanstalt gegenüber eine Mitteilung im Sinne
-des § 22 Abs. 3a Satz 1 Nr. 3 des Wertpapierhandelsgesetzes abgibt und
-erklärt, dass die Voraussetzungen des Absatzes 1 in Bezug auf alle
-Wertpapierdienstleistungsunternehmen erfüllt sind. § 3 Abs. 2 und 3
-gilt entsprechend.
+(2) § 35 Absatz 4 des Wertpapierhandelsgesetzes gilt nur, wenn das
+Mutterunternehmen der Bundesanstalt gegenüber eine Mitteilung im Sinne
+des § 35 Absatz 2 Nummer 3 oder Absatz 3 Nummer 3 des
+Wertpapierhandelsgesetzes abgibt und erklärt, dass die Voraussetzungen
+des Absatzes 1 in Bezug auf alle betroffenen Unternehmen erfüllt sind.
+§ 3 Absatz 2 bis 4 gilt entsprechend.
 
 
 ## § 9 Gleichwertigkeit der Anforderungen an Mitteilungspflichten des Emittenten
 
 Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des §
-30f Abs. 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
-30b Abs. 1 Satz 1 Nr. 1 und Abs. 2 Nr. 1 des
+51 Absatz 1 des Wertpapierhandelsgesetzes zu den Anforderungen des §
+49 Absatz 1 Satz 1 Nummer 1 und Absatz 2 Nummer 1 des
 Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften in Bezug auf
 Versammlungen der Emittenten vorschreiben, dass ein Emittent, der
 seinen Sitz in diesem Drittstaat hat, zumindest den Ort, den Zeitpunkt
@@ -269,7 +277,7 @@ und die Tagesordnung der Versammlungen angeben muss.
 
 ## § 10 Mindestinhalt des nicht konsolidierten verkürzten Abschlusses
 
-Sind auf den verkürzten Abschluss nicht die in § 315a Abs. 1 des
+Sind auf den verkürzten Abschluss nicht die in § 315e Absatz 1 des
 Handelsgesetzbuchs bezeichneten internationalen
 Rechnungslegungsstandards anzuwenden, sind die folgenden Bestimmungen
 einzuhalten:
@@ -343,17 +351,18 @@ Beurteilung der Auswirkungen auf die Finanzlage nicht notwendig ist.
 ## § 12 Gleichwertigkeit der Anforderungen an die im Lagebericht enthaltenen Informationen
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37v Abs. 2 Nr. 2 des Wertpapierhandelsgesetzes,
-wenn seine Rechtsvorschriften vorschreiben, dass ein Emittent dem §
-289 Abs. 1 Satz 1 bis 4, Abs. 2 Nr. 1, Abs. 3 und § 315 Abs. 1 Satz 1
-bis 5, Abs. 2 Nr. 1 des Handelsgesetzbuchs entsprechende Angaben
-macht.
+Anforderungen des § 114 Absatz 2 Nummer 2 des
+Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften vorschreiben,
+dass ein Emittent dem § 289 Absatz 1 Satz 1 bis 4, Absatz 3 und dem §
+315 Absatz 1 Satz 1 bis 4 und Absatz 3 sowie dem § 285 Nummer 33 und
+dem § 314 Absatz 1 Nummer 25 des Handelsgesetzbuchs entsprechende
+Angaben macht.
 
 
 ## § 13 Gleichwertigkeit der Anforderungen an den Zwischenlagebericht
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37w Abs. 2 Nr. 2, Abs. 4 des
+Anforderungen des § 115 Absatz 2 Nummer 2 und Absatz 4 des
 Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften vorschreiben,
 dass ein Emittent einen Zwischenlagebericht, der die folgenden Angaben
 enthält, erstellt:
@@ -376,29 +385,25 @@ enthält, erstellt:
 ## § 14 Gleichwertigkeit der Anforderungen an die Verantwortlichkeit
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37v Abs. 2 Nr. 3 und § 37w Abs. 2 Nr. 3 des
-Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften vorschreiben,
-dass eine oder mehrere Personen, die für die Erstellung des
-Jahresfinanzberichts und des Halbjahresfinanzberichts zuständig sind,
-dafür verantwortlich sind, dass die Abschlüsse mit dem einschlägigen
-Rechnungslegungsrahmen oder den einschlägigen
+Anforderungen des § 114 Absatz 2 Nummer 3 und § 115 Absatz 2 Nummer 3
+des Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften
+vorschreiben, dass eine oder mehrere Personen, die für die Erstellung
+des Jahresfinanzberichts und des Halbjahresfinanzberichts zuständig
+sind, dafür verantwortlich sind, dass die Abschlüsse mit dem
+einschlägigen Rechnungslegungsrahmen oder den einschlägigen
 Rechnungslegungsgrundsätzen übereinstimmen und die Darstellung im
 Lagebericht ein den tatsächlichen Verhältnissen entsprechendes Bild
 vermittelt.
 
 
-## § 15 Gleichwertigkeit der Anforderungen an die Zwischenmitteilung der Geschäftsführung
+## § 15 (weggefallen)
 
-Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37x des Wertpapierhandelsgesetzes, wenn seine
-Rechtsvorschriften vorschreiben, dass ein Emittent
-Quartalsfinanzberichte zu veröffentlichen hat.
 
 
 ## § 16 Gleichwertigkeit der Anforderungen bei einem Konzernabschluss
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37y Nr. 1 des Wertpapierhandelsgesetzes, wenn
+Anforderungen des § 117 Nummer 1 des Wertpapierhandelsgesetzes, wenn
 seine Rechtsvorschriften unter Verzicht auf einen Jahresabschluss des
 Emittenten vorschreiben, dass ein Emittent mit Sitz in dem Drittstaat
 einen Konzernabschluss erstellt, der die folgenden Angaben enthält:
@@ -421,14 +426,14 @@ Rechnungslegungsgrundsätze des Drittstaates erfolgen.
 ## § 17 Gleichwertigkeit der Anforderungen an den Jahresabschluss
 
 Die Regeln eines Drittstaates gelten als gleichwertig zu den
-Anforderungen des § 37v Abs. 2 Nr. 1 des Wertpapierhandelsgesetzes,
-wenn seine Rechtsvorschriften vorschreiben, dass ein Emittent mit Sitz
-in dem Drittstaat, der keinen Konzernabschluss zu erstellen hat,
-seinen geprüften Jahresabschluss nach den in § 10 genannten
-internationalen Rechnungslegungsstandards oder gleichwertigen
-Rechnungslegungsgrundsätzen des Drittstaates aufstellt. Andernfalls
-ist ein an die Anforderungen der in § 10 genannten internationalen
-Rechnungslegungsstandards oder gleichwertige
+Anforderungen des § 114 Absatz 2 Nummer 1 des
+Wertpapierhandelsgesetzes, wenn seine Rechtsvorschriften vorschreiben,
+dass ein Emittent mit Sitz in dem Drittstaat, der keinen
+Konzernabschluss zu erstellen hat, seinen geprüften Jahresabschluss
+nach den in § 10 genannten internationalen Rechnungslegungsstandards
+oder gleichwertigen Rechnungslegungsgrundsätzen des Drittstaates
+aufstellt. Andernfalls ist ein an die Anforderungen der in § 10
+genannten internationalen Rechnungslegungsstandards oder gleichwertige
 Rechnungslegungsgrundsätze angepasster und geprüfter Abschluss
 vorzulegen.
 
@@ -436,7 +441,7 @@ vorzulegen.
 ## § 18 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung eines Wertpapierdienstleistungsunternehmens vom Bieter
 
 (1) Ein Wertpapierdienstleistungsunternehmen übt die Stimmrechte im
-Sinne des § 30 Abs. 3 Satz 1 Nr. 2 des Wertpapiererwerbs- und
+Sinne des § 30 Absatz 3 Satz 1 Nummer 1 des Wertpapiererwerbs- und
 Übernahmegesetzes unabhängig vom Bieter aus, wenn
 
 1.  der Bieter oder ein anderes Tochterunternehmen des Bieters nicht durch
@@ -471,8 +476,8 @@ Wertpapiererwerbs- und Übernahmegesetzes fortlaufend zu aktualisieren.
 
 (2) Eine Erklärung nach § 30 Abs. 3 Satz 1 Nr. 4 des
 Wertpapiererwerbs- und Übernahmegesetzes ist hinsichtlich der vom
-Wertpapierdienstleistungsunternehmen gehaltenen Finanzinstrumente im
-Sinne des § 25 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes nicht
+Wertpapierdienstleistungsunternehmen gehaltenen Instrumente im Sinne
+des § 38 Absatz 1 Satz 1 des Wertpapierhandelsgesetzes nicht
 erforderlich.
 
 (3) Der Bieter hat der Bundesanstalt auf deren Verlangen nachzuweisen,
@@ -501,114 +506,35 @@ Mandat besteht, das eine unabhängige Kundenbeziehung zwischen ihm und
 dem Wertpapierdienstleistungsunternehmen vorsieht.
 
 
-## § 20 Anforderungen an die Unabhängigkeit der Stimmrechtsausübung der Kapitalanlagegesellschaft und der Verwaltungsgesellschaft vom Mutterunternehmen
+## (XXXX) §§ 20 bis 22 (weggefallen)
 
-(1) Eine Kapitalanlagegesellschaft oder eine Verwaltungsgesellschaft
-im Sinne des § 32 Abs. 3 des Investmentgesetzes übt die Stimmrechte im
-Sinne des § 32 Abs. 2 Satz 1 des Investmentgesetzes unabhängig vom
-Mutterunternehmen aus, wenn
-
-1.  das Mutterunternehmen oder ein anderes von diesem kontrolliertes
-    Unternehmen nicht durch unmittelbare oder mittelbare Weisungen oder in
-    anderer Weise auf die Ausübung der Stimmrechte aus den Aktien, die zu
-    einem von ihr verwalteten Sondervermögen oder zu einer von ihr
-    verwalteten Investmentaktiengesellschaft gehören, einwirken darf und
-
-
-2.  die Kapitalanlagegesellschaft oder die Verwaltungsgesellschaft die
-    Stimmrechte aus den zu einem von ihr verwalteten Sondervermögen
-    gehörenden Aktien frei und unabhängig vom Mutterunternehmen und den
-    anderen von diesem kontrollierten Unternehmen ausübt.
-
-
-
-
-(2) Eine unmittelbare Weisung im Sinne des Absatzes 1 Nr. 1 ist jede
-auf einen bestimmten Fall bezogene Weisung zur Stimmrechtsausübung
-durch die Kapitalanlagegesellschaft oder die Verwaltungsgesellschaft.
-Eine mittelbare Weisung im Sinne des Absatzes 1 Nr. 1 ist jede
-allgemeine oder besondere Weisung, durch die der
-Entscheidungsspielraum der Kapitalanlagegesellschaft oder der
-Verwaltungsgesellschaft in Bezug auf die Stimmrechtsausübung
-eingeschränkt wird, um bestimmten Geschäftsinteressen des
-Mutterunternehmens oder eines anderen von diesem kontrollierten
-Unternehmens Rechnung zu tragen.
-
-
-## § 21 Mitteilungspflichten des Mutterunternehmens gegenüber der Bundesanstalt für Finanzdienstleistungsaufsicht
-
-(1) Das Mutterunternehmen hat die Angaben nach § 32 Abs. 2 Satz 1 Nr.
-3 des Investmentgesetzes fortlaufend zu aktualisieren.
-
-(2) Eine Erklärung nach § 32 Abs. 2 Satz 1 Nr. 4 des
-Investmentgesetzes ist hinsichtlich der vom
-Wertpapierdienstleistungsunternehmen gehaltenen Finanzinstrumente im
-Sinne des § 25 Abs. 1 Satz 1 des Wertpapierhandelsgesetzes nicht
-erforderlich.
-
-(3) Das Mutterunternehmen hat der Bundesanstalt auf deren Verlangen
-nachzuweisen, dass
-
-1.  die Stimmrechte nach seinen eigenen Organisationsstrukturen sowie
-    denjenigen der Kapitalanlagegesellschaft von ihm unabhängig ausgeübt
-    werden und
-
-
-2.  die Personen, die über die Stimmrechtsausübung entscheiden, unabhängig
-    handeln.
-
-
-
-Satz 1 Nr. 1 setzt voraus, dass das Mutterunternehmen und die
-Kapitalanlagegesellschaft zumindest schriftliche Strategien und
-Verfahren festgelegt haben, die dazu bestimmt sind, den
-Informationsaustausch zwischen dem Mutterunternehmen und der
-Kapitalanlagegesellschaft in Bezug auf die Stimmrechtsausübung zu
-verhindern. Ist das Mutterunternehmen seinerseits Kunde der
-Kapitalanlagegesellschaft oder hält es Anteile an einer von dieser
-verwalteten Beteiligung, hat es der Bundesanstalt auf deren Verlangen
-auch nachzuweisen, dass ein klares schriftliches Mandat besteht, das
-eine unabhängige Kundenbeziehung zwischen ihm und der
-Kapitalanlagegesellschaft vorsieht.
-
-
-## § 22 Gleichwertigkeit der Anforderungen an die Ausnahmen von der Zurechnung von Stimmrechten im Sinne des § 32 Abs. 4 des Investmentgesetzes
-
-(1) Die Regeln eines Drittstaates gelten als gleichwertig im Sinne des
-§ 32 Abs. 4 Satz 1 des Investmentgesetzes zu den Anforderungen des §
-32 Abs. 2 Satz 1 des Investmentgesetzes, wenn seine Rechtsvorschriften
-vorschreiben, dass ein Unternehmen im Sinne des § 32 Abs. 4 des
-Investmentgesetzes
-
-1.  die Stimmrechte aus von ihm verwalteten Vermögenswerten in jedem Fall
-    frei und unabhängig vom Mutterunternehmen oder einem anderen von
-    diesem kontrollierten Unternehmen ausübt und
-
-
-2.  die Interessen des Mutterunternehmens oder eines anderen von diesem
-    kontrollierten Unternehmens bei Interessenkonflikten nicht beachten
-    muss.
-
-
-
-
-(2) § 32 Abs. 4 Satz 1 des Investmentgesetzes gilt nur, wenn das
-Mutterunternehmen mit Sitz in einem Drittstaat, in dem gleichwertige
-Regeln im Sinne des Absatzes 1 bestehen, der Bundesanstalt gegenüber
-eine Mitteilung im Sinne des § 32 Abs. 2 Satz 1 Nr. 3 des
-Investmentgesetzes abgibt und erklärt, dass die Voraussetzungen des
-Absatzes 1 in Bezug auf alle Verwaltungsgesellschaften erfüllt sind. §
-21 Abs. 2 und 3 gilt entsprechend.
 
 
 ## § 23 Übergangsbestimmung
 
-Die §§ 10 und 11 sind erstmals auf Halbjahresfinanzberichte für das
-nach dem 31. Dezember 2007 beginnende Geschäftsjahr anzuwenden.
+(1) Die §§ 10 und 11 sind erstmals auf Halbjahresfinanzberichte für
+das nach dem 31. Dezember 2007 beginnende Geschäftsjahr anzuwenden.
 Vergleichende Angaben nach § 10 Nr. 1 Buchstabe b müssen erstmals in
 der verkürzten Gewinn- und Verlustrechnung eines
 Halbjahresfinanzberichts für das nach dem 31. Dezember 2008 beginnende
 Geschäftsjahr enthalten sein.
+
+(2) § 1 Nummer 5 und 6, § 20 Absatz 1, § 21 Absatz 1 und 2 sowie § 22
+Absatz 1 und 2 Satz 1 finden auf die Verwaltung inländischer OGAW,
+welche am 21. Juli 2013 aufgelegt waren, erst ab dem in § 355 Absatz 2
+Satz 10 des Kapitalanlagegesetzbuchs genannten Zeitpunkt und auf die
+Verwaltung inländischer AIF, welche am 21. Juli 2013 aufgelegt waren,
+erst ab dem in § 345 Absatz 1 Satz 11 genannten Zeitpunkt Anwendung;
+bis dahin gelten sie für die Verwaltung inländischer OGAW und
+inländischer AIF in der bis zum 21. Juli 2013 geltenden Fassung.
+
+(3) Die §§ 10 und 12 in der Fassung des CSR-Richtlinie-
+Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals
+auf Jahres- und Konzernabschlüsse, Lage- und Konzernlageberichte für
+das nach dem 31. Dezember 2016 beginnende Geschäftsjahr anzuwenden.
+Die §§ 10 und 12 in der bis zum 18. April 2017 geltenden Fassung sind
+letztmals anzuwenden auf Lage- und Konzernlageberichte für das vor dem
+1\. Januar 2017 beginnende Geschäftsjahr.
 
 
 ## § 24 Inkrafttreten

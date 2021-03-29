@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1982, 514
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 47 G v. 7. 7.2005 I 1970
+:   Art. 7 G v. 26.7.2016 I 1786
 
 
 ## Eingangsformel
@@ -103,6 +103,14 @@ Absatz 2 Satz 1 geschlossen oder durch eine Verfügung nach Absatz 2
 Satz 3 begründet worden sind. Verträge, die auf Grund oder durch
 Verfügung nach Absatz 2 geändert worden sind, leben mit ihrem
 ursprünglichen Inhalt wieder auf.
+
+(6) Zur Deckung des lebenswichtigen Bedarfs an Elektrizität nach
+Absatz 1 sind die Betreiber von Übertragungsnetzen berechtigt und
+verpflichtet, die Gefährdung oder Störung nach Maßgabe des § 13g
+Absatz 2 des Energiewirtschaftsgesetzes durch den Abruf von
+stillzulegenden Anlagen während der Sicherheitsbereitschaft der
+stillzulegenden Anlagen zu beseitigen, soweit der Lastverteiler keine
+gegenteilige Verfügung erlassen hat.
 
 
 ## § 2

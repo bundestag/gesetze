@@ -2,7 +2,7 @@
 Title: Gesetz über befristete Arbeitsverträge mit Ärzten in der Weiterbildung
 jurabk: ÄArbVtrG
 layout: default
-origslug: _arbvtrg
+origslug: aearbvtrg
 slug: aearbvtrg
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 742
 
 Zuletzt geändert durch
-:   Art. 3 G v. 12.4.2007 I 506
+:   Art. 6 Abs. 12 G v. 23.5.2017 I 1228
 
 
 ## Eingangsformel
@@ -80,9 +80,9 @@ Arzt nicht anzurechnen:
     überschreitet,
 
 
-3.  Zeiten einer Beurlaubung nach § 8a des Mutterschutzgesetzes oder § 15
-    Abs. 1 des Bundeselterngeld- und Elternzeitgesetzes und Zeiten eines
-    Beschäftigungsverbots nach den §§ 3, 4, 6 und 8 des
+3.  die Elternzeit nach § 15 Abs. 1 des Bundeselterngeld- und
+    Elternzeitgesetzes und Zeiten eines Beschäftigungsverbots nach den §§
+    3 bis 6, 10 Absatz 3, § 13 Absatz 1 Nummer 3 und § 16 des
     Mutterschutzgesetzes, soweit eine Beschäftigung nicht erfolgt ist,
 
 

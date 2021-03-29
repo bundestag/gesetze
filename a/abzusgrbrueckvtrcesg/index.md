@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 13. Juli 1995 zwischen der Bundesrepublik Deuts
   einer Grenzbrücke
 jurabk: ABZusGrBrückVtrCESG
 layout: default
-origslug: abzusgrbr_ckvtrcesg
+origslug: abzusgrbrueckvtrcesg
 slug: abzusgrbrueckvtrcesg
 
 ---

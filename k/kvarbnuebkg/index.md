@@ -4,7 +4,7 @@ Title: Gesetz über die Internationalen Übereinkommen betreffend die Krankenver
   der Arbeitnehmer in der Landwirtschaft
 jurabk: KVArbNÜbkG
 layout: default
-origslug: kvarbn_bkg
+origslug: kvarbnuebkg
 slug: kvarbnuebkg
 
 ---

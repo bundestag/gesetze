@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.11.2004 I 2918;
 
 Zuletzt geändert durch
-:   Art. 3 V v. 25.10.2012 I 2270
+:   Art. 4 V v. 9.6.2017 I 1614
 
 Diese Verordnung dient der Umsetzung folgender Richtlinien:
 
@@ -64,7 +64,7 @@ Im Sinne dieser Verordnung sind
 
     *        *   a)
 
-        *   Basispflanzgut, Basispflanzgut EWG
+        *   Basispflanzgut
 
         *   weiß,
 
@@ -96,7 +96,30 @@ Im Sinne dieser Verordnung sind
 
 
 2.  Knollenkrankheiten: an der Kartoffelknolle auftretende Krankheiten
-    außer Viruskrankheiten.
+    außer Viruskrankheiten;
+
+
+3.  Pflanzgutklasse PBTC: Vorstufenpflanzgut
+
+    *        *
+        *   aus Gewebekultur
+            (Pre-Basic Tissue
+            Culture);
+
+        *
+
+
+
+
+4.  Pflanzgutklasse PB:      Vorstufenpflanzgut
+
+    *        *
+        *   (Pre-Basic Seed
+            Potatoes).
+
+        *
+
+
 
 
 
@@ -106,53 +129,95 @@ Im Sinne dieser Verordnung sind
 
 
 
-### § 3 Basispflanzgut, Zertifiziertes Pflanzgut
+### § 3 Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut, Generationenfolge
 
-(1) Aus Vorstufenpflanzgut erwachsenes Basispflanzgut und
-Basispflanzgut EWG werden nur anerkannt, wenn das Vorstufenpflanzgut
-anerkannt ist.
+   (1) Vorstufenpflanzgut wird wie folgt in die Klassen PBTC und PB
+eingeteilt:
+
+1.  Vorstufenpflanzgut der Klasse PBTC
+
+    a)  stammt aus Mikrovermehrung,
+
+
+    b)  wird nur bis zur ersten Generation, die nicht als Feldgeneration
+        zählt, vermehrt und
+
+
+    c)  darf nicht zu Vorstufenpflanzgut der Klasse PBTC weitervermehrt
+        werden;
+
+
+
+
+
+2.  Vorstufenpflanzgut der Klasse PB darf erwachsen sein aus
+
+    a)  klonaler Selektion (A-Stamm),
+
+
+    b)  Vorstufenpflanzgut der Klasse PBTC oder
+
+
+    c)  Vorstufenpflanzgut der Klasse PB.
+
+
+
+
+
+
+Die Anzahl der Feldgenerationen ist für Vorstufenpflanzgut der Klasse
+PB auf vier begrenzt. Ist die Feldgeneration nicht auf dem Etikett
+angegeben und der zuständigen Anerkennungsstelle nicht bekannt, wird
+das Pflanzgut der vierten Feldgeneration zugerechnet und darf nicht zu
+Vorstufenpflanzgut weitervermehrt werden. Vorstufenpflanzgut der
+Klasse PBTC kann als Vorstufenpflanzgut EU-Klasse PBTC,
+Vorstufenpflanzgut der Klasse PB kann als Vorstufenpflanzgut EU-Klasse
+PB gekennzeichnet werden.
 
 (2) Basispflanzgut wird in die Klassen S, SE und E eingeteilt.
 Basispflanzgut darf erwachsen sein in der
 
-1.  Klasse S aus anerkanntem Vorstufenpflanzgut;
+1.  Klasse S aus anerkanntem Vorstufenpflanzgut,
 
 
 2.  Klasse SE aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut
-    der Klasse S;
+    der Klasse S,
 
 
-3.  Klasse E aus anerkanntem Vorstufenpflanzgut oder aus Basispflanzgut
-    der Klasse S oder SE.
-
-
-
-
-(3) Basispflanzgut EWG wird in die Klassen EWG 1, EWG 2 und EWG 3
-eingeteilt. Basispflanzgut EWG darf erwachsen sein in der
-
-1.  Klasse EWG 1 aus anerkanntem Vorstufenpflanzgut;
-
-
-2.  Klasse EWG 2 aus anerkanntem Vorstufenpflanzgut oder aus
-    Basispflanzgut der Klasse EWG 1;
-
-
-3.  Klasse EWG 3 aus anerkanntem Vorstufenpflanzgut oder aus
-    Basispflanzgut der Klasse EWG 1 oder EWG 2.
+3.  Klasse E aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut der
+    Klasse S oder aus Basispflanzgut der Klasse SE.
 
 
 
-Basispflanzgut der Klasse S kann als Basispflanzgut der Klasse EWG 2
-und Basispflanzgut der Klassen S, SE und E kann als Basispflanzgut der
-Klasse EWG 3 gekennzeichnet werden, wenn die weiteren Voraussetzungen
-(§ 5 Abs. 3, Anlage 2 Nr. 2.3), die für die Anerkennung der
-entsprechenden Klasse von Basispflanzgut EWG gelten, erfüllt sind.
+Die Anzahl der Feldgenerationen ist für Basispflanzgut auf drei
+begrenzt. Basispflanzgut der Klasse S kann als Basispflanzgut EU-
+Klasse S, Basispflanzgut der Klasse SE kann als Basispflanzgut EU-
+Klasse SE und Basispflanzgut der Klasse E kann als Basispflanzgut EU-
+Klasse E gekennzeichnet werden.
 
-(4) Zertifiziertes Pflanzgut darf in demselben Betrieb auch aus
-Zertifiziertem Pflanzgut erwachsen sein, wenn dieses unmittelbar aus
-Basispflanzgut, Basispflanzgut EWG oder anerkanntem Vorstufenpflanzgut
-erwachsen ist.
+(3) Zertifiziertes Pflanzgut wird in die Klassen A und B eingeteilt.
+Zertifiziertes Pflanzgut der Klassen A oder B darf erwachsen sein aus
+
+1.  anerkanntem Vorstufenpflanzgut,
+
+
+2.  Basispflanzgut,
+
+
+3.  Zertifiziertem Pflanzgut der Klasse A, sofern dieses in demselben
+    Betrieb unmittelbar aus anerkanntem Vorstufenpflanzgut oder
+    Basispflanzgut erwachsen ist.
+
+
+
+Die Anzahl der Feldgenerationen ist für Zertifiziertes Pflanzgut auf
+zwei begrenzt. Ist die Feldgeneration nicht auf dem Etikett angegeben,
+wird das Pflanzgut der zweiten Feldgeneration Zertifizierten
+Pflanzguts zugerechnet und darf nicht zu Zertifiziertem Pflanzgut
+weitervermehrt werden. Zertifiziertes Pflanzgut der Klasse A kann als
+Zertifiziertes Pflanzgut EU-Klasse A, Zertifiziertes Pflanzgut der
+Klasse B kann als Zertifiziertes Pflanzgut EU-Klasse B gekennzeichnet
+werden.
 
 
 ### § 4 Anerkennungsstelle
@@ -181,7 +246,8 @@ Sortenzulassung dies rechtfertigen.
 (2) Für den Antrag ist ein Vordruck der Anerkennungsstelle zu
 verwenden.
 
-(3) Der Antragsteller hat bei Vorstufenpflanzgut
+(3) Der Antragsteller hat bei Vorstufenpflanzgut im Antrag die
+Feldgeneration des Ausgangspflanzgutes anzugeben und
 
 1.  im Antrag zu erklären, dass
 
@@ -202,64 +268,49 @@ verwenden.
         Knollenkrankheiten befallen ist;
 
 
-
-
-
-2.  dem Antrag amtliche Nachweise darüber beizufügen, dass
-
-    a)  die Mutterknolle und die von ihr unmittelbar abstammenden Knollen frei
-        von folgenden Schadorganismen sind:
-
-        aa) Erwinia carotovora var. atroseptica,
-
-
-        bb) Erwinia chrysanthemi,
-
-
-        cc) Potato leaf roll virus,
-
-
-        dd) Kartoffelvirus A,
-
-
-        ee) Kartoffelvirus M,
-
-
-        ff) Kartoffelvirus S,
-
-
-        gg) Kartoffelvirus X,
-
-
-        hh) Kartoffelvirus Y;
+    e)  bei Vorstufenpflanzgut der Klasse PB der Feldbestand aus klonaler
+        Selektion (A-Stamm), Vorstufenpflanzgut der Klasse PBTC oder
+        Vorstufenpflanzgut der Klasse PB erwächst;
 
 
 
 
 
-    b)  das verwendete Pflanzgut aus Beständen erwachsen ist, bei denen in
-        mindestens zweimaliger amtlicher Feldbestandsprüfung festgestellt
-        wurde, dass die Anforderungen der Anlage 1 erfüllt sind;
+2.  dem Antrag Nachweise aus einer amtlichen oder einer unter amtlicher
+    Überwachung durchgeführten Untersuchung darüber beizufügen, dass die
+    Mutterknolle frei von folgenden Schadorganismen ist:
+
+    a)  Pectobacterium spp.,
 
 
-    c)  das verwendete Pflanzgut nicht von den in Anlage 2 Nr. 2.1 genannten
-        Knollenkrankheiten, ausgenommen Bakterielle Ringfäule und
-        Schleimkrankheit, befallen ist, und zwar auf Verlangen der
-        Anerkennungsstelle.
+    b)  Dickeya spp.,
+
+
+    c)  Kartoffelblattrollvirus,
+
+
+    d)  Kartoffelvirus A,
+
+
+    e)  Kartoffelvirus M,
+
+
+    f)  Kartoffelvirus S,
+
+
+    g)  Kartoffelvirus X,
+
+
+    h)  Kartoffelvirus Y.
 
 
 
 
 
 
-Bei einer klonalen Erhaltungszüchtung ist der amtliche Nachweis über
-die unter Nummer 2 Buchstabe a Doppelbuchstabe aa und bb aufgeführten
-Schadorganismen entbehrlich. Bei einer Erhaltungszüchtung durch In-
-vitro-Verfahren genügt eine Erklärung, dass das von der Mutterknolle
-abstammende Material frei von den unter Nummer 2 Buchstabe a
-aufgeführten Schadorganismen ist.
 
-(4) Der Antragsteller hat bei Basispflanzgut im Antrag zu erklären,
+(4) Der Antragsteller hat bei Basispflanzgut im Antrag die
+Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären,
 
 1.  dass auf den vorgesehenen Vermehrungsflächen zwei Jahre vor
     Antragstellung keine Kartoffeln angebaut worden sind;
@@ -268,42 +319,15 @@ aufgeführten Schadorganismen ist.
 2.  für die Erzeugung von Basispflanzgut
 
     a)  der Klasse S, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut
-        erwächst;
+        erwächst,
 
 
     b)  der Klasse SE, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut
-        oder Basispflanzgut der Klasse EWG 1 oder S erwächst;
+        oder aus Basispflanzgut der Klasse S erwächst,
 
 
-    c)  der Klasse E, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut
-        oder Basispflanzgut der Klasse EWG 1, EWG 2, S oder SE erwächst.
-
-
-
-
-
-
-
-(5) Der Antragsteller hat bei Basispflanzgut EWG im Antrag zu
-erklären,
-
-1.  dass auf den vorgesehenen Vermehrungsflächen drei Jahre vor
-    Antragstellung keine Kartoffeln angebaut worden sind;
-
-
-2.  für die Erzeugung von Basispflanzgut
-
-    a)  der Klasse EWG 1, dass der Feldbestand aus anerkanntem
-        Vorstufenpflanzgut erwächst, welches aus Beständen erwachsen ist, die
-        keinen Befall mit Schwarzbeinigkeit aufwiesen;
-
-
-    b)  der Klasse EWG 2, dass der Feldbestand aus anerkanntem
-        Vorstufenpflanzgut oder Basispflanzgut der Klasse EWG 1 erwächst;
-
-
-    c)  der Klasse EWG 3, dass der Feldbestand aus anerkanntem
-        Vorstufenpflanzgut oder Basispflanzgut der Klasse EWG 1 oder EWG 2
+    c)  der Klasse E, dass der Feldbestand aus anerkanntem Vorstufenpflanzgut,
+        aus Basispflanzgut der Klasse S oder aus Basispflanzgut der Klasse SE
         erwächst.
 
 
@@ -312,30 +336,31 @@ erklären,
 
 
 
-(6) Der Antragsteller hat bei Zertifiziertem Pflanzgut im Antrag zu
-erklären, dass
+(5) Der Antragsteller hat bei Zertifiziertem Pflanzgut im Antrag die
+Feldgeneration des Ausgangspflanzgutes anzugeben und zu erklären, dass
 
 1.  auf den vorgesehenen Vermehrungsflächen zwei Jahre vor Antragstellung
     keine Kartoffeln angebaut worden sind;
 
 
-2.  der Feldbestand aus anerkanntem Vorstufenpflanzgut, Basispflanzgut
-    oder Basispflanzgut EWG erwächst; im Falle des § 3 Abs. 4, dass der
-    Feldbestand aus Zertifiziertem Pflanzgut erwächst.
+2.  der Feldbestand aus anerkanntem Vorstufenpflanzgut, aus Basispflanzgut
+    oder aus Zertifiziertem Pflanzgut der Klasse A erwächst.
 
 
 
 
-(8) Wird in einem Betrieb, der Pflanzgut für andere vermehrt
+(6) Wird in einem Betrieb, der Pflanzgut für andere vermehrt
 (Vermehrungsbetrieb), dieselbe Sorte noch für einen anderen
 Verwendungszweck angebaut, so hat der Antragsteller in dem Antrag die
 Schlagbezeichnung und die Flächengröße anzugeben und zu erklären, dass
 in dem Vermehrungsbetrieb eine getrennte Lagerung möglich ist.
 
-(9) Erwächst ein Feldbestand aus anerkanntem Pflanzgut, so sind im
-Antrag die Anerkennungsnummer, die Kategorie und die Klasse anzugeben,
-unter der das Pflanzgut anerkannt worden ist; im Falle der Anerkennung
-im Ausland ist auch die Anerkennungsstelle anzugeben.
+(7) Erwächst ein Feldbestand aus anerkanntem Pflanzgut, so sind im
+Antrag die Anerkennungsnummer, die Kategorie, die Klasse und die
+Feldgeneration des Ausgangspflanzgutes anzugeben, unter der das
+Pflanzgut anerkannt worden ist; im Falle der Anerkennung im Ausland
+ist auch die Anerkennungsstelle anzugeben und dem Antrag ist eine
+Kopie des Etiketts oder das Originaletikett beizufügen.
 
 
 ### § 6 Anforderungen an die Vermehrungsfläche und den Vermehrungsbetrieb
@@ -418,8 +443,8 @@ aus Anlage 2.
 (2) Stellt sich vor dem Inverkehrbringen des Pflanzgutes zu
 gewerblichen Zwecken an den Letztverbraucher heraus, dass ein Teil des
 Pflanzgutes einer Partie die Anforderungen nach Absatz 1 Satz 2 in
-Verbindung mit Anlage 2 Nr. 2.2 oder 2.3 nicht oder nicht mehr
-erfüllt, so darf dieser Teil ausgesondert werden.
+Verbindung mit Anlage 2 Nummer 2.2 nicht oder nicht mehr erfüllt, so
+darf dieser Teil ausgesondert werden.
 
 
 ### § 9 Feldbestandsprüfung
@@ -655,11 +680,10 @@ die Anerkennungsstelle im Einzelfall eine abweichende Anordnung
 treffen, soweit dies für eine sachgerechte Durchführung der Prüfung
 erforderlich ist.
 
-(2) Ergibt die Prüfung, dass die Anforderungen nach Anlage 2 Nr. 2.2
-und 2.3 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf
-Antrag die Entnahme einer weiteren Probe, wenn durch Darlegung von
-Umständen glaubhaft gemacht wird, dass der festgestellte Mangel
-beseitigt ist.
+(2) Ergibt die Prüfung, dass die Anforderungen nach Anlage 2 Nummer
+2\.2 nicht erfüllt sind, so gestattet die Anerkennungsstelle auf Antrag
+die Entnahme einer weiteren Probe, wenn durch Darlegung von Umständen
+glaubhaft gemacht wird, dass der festgestellte Mangel beseitigt ist.
 
 
 ### § 19 Bescheid
@@ -682,8 +706,8 @@ beseitigt ist.
     Prüfung auf Knollenkrankheiten und äußere Mängel entnommen worden ist,
 
 
-6.  im Falle der Anerkennung die Kategorie und bei Basispflanzgut oder
-    Basispflanzgut EWG die Klasse sowie die Anerkennungsnummer.
+6.  im Falle der Anerkennung die Kategorie und die Klasse sowie die
+    Anerkennungsnummer.
 
 
 
@@ -813,7 +837,7 @@ aufgedruckt ist.
 Jede Packung oder jedes Behältnis ist mit einem Einleger in der
 jeweiligen Kennfarbe zu versehen, der als Aufdruck die Bezeichnung
 "Einleger" trägt und mindestens die Angaben der Anlage 4 Nr. 1.4 bis
-1\.7 enthält. Der Einleger ist nicht erforderlich, wenn ein Etikett aus
+1\.8 enthält. Der Einleger ist nicht erforderlich, wenn ein Etikett aus
 reißfestem Material oder ein Klebeetikett verwendet wird oder die
 Angaben nach Satz 1 auf der Packung oder dem Behältnis unverwischbar
 aufgedruckt sind.
@@ -856,18 +880,11 @@ mit einer Auflage für die Kennzeichnung des Pflanzgutes der Sorte
 verbunden, so ist auf dem Etikett oder einem Zusatzetikett zusätzlich
 eine Angabe entsprechend der Auflage anzubringen.
 
-(3) Bei Zertifiziertem Pflanzgut, das zum Inverkehrbringen im Ausland
-bestimmt ist, kann zusätzlich zur Bezeichnung Zertifiziertes Pflanzgut
-die Bezeichnung A treten, wenn das Pflanzgut die Anforderungen
-erfüllt, die in dem jeweiligen Bestimmungsland an Pflanzkartoffel der
-Klasse A gestellt werden. Der Antragsteller hat der Anerkennungsstelle
-diese Anforderungen rechtzeitig vor der Kennzeichnung mitzuteilen.
-
-(4) Die Packungen oder Behältnisse mit eingeführtem Pflanzgut, für das
+(3) Die Packungen oder Behältnisse mit eingeführtem Pflanzgut, für das
 eine nach § 16 des Saatgutverkehrsgesetzes gleichgestellte Anerkennung
 vorliegt, müssen in der in Rechtsakten von Organen der Europäischen
 Gemeinschaften bestimmten Form gekennzeichnet sein. Soweit die
-Kennzeichnung zusätzliche Angaben nach Anlage 4 Nr. 1.12 enthält und
+Kennzeichnung zusätzliche Angaben nach Anlage 4 Nr. 1.13 enthält und
 diese nicht in deutscher Sprache angegeben oder in die deutsche
 Sprache übersetzt sind, sind die Packungen oder Behältnisse nach
 Ankunft am Bestimmungsort im Inland mit einem Zusatzetikett zu
@@ -980,7 +997,7 @@ folgende Angaben anzubringen:
     Betriebsnummer,
 
 
-2.  Art und Kategorie des Pflanzgutes sowie eine vom Betrieb
+2.  Art, Kategorie und Klasse des Pflanzgutes sowie eine vom Betrieb
     festzusetzende Partienummer,
 
 
@@ -1014,7 +1031,7 @@ Mengen bis zu 10 Kilogramm ungekennzeichnet und ohne verschlossene
 Verpackung an Letztverbraucher abgegeben werden, sofern dem Erwerber
 auf Verlangen bei der Übergabe schriftlich angegeben werden:
 
-1.  die Kategorie,
+1.  die Kategorie und die Klasse,
 
 
 2.  die Sortenbezeichnung,
@@ -1100,6 +1117,9 @@ Dieses Etikett und dieser Einleger müssen folgende Angaben enthalten:
 2.  das Kennzeichen der Anerkennungsstelle,
 
 
+2a. die amtlich zugeteilte Seriennummer,
+
+
 3.  die Art,
 
 
@@ -1138,42 +1158,238 @@ Anforderungen der Anlage 5 entspricht.
 
 ### § 33a Übergangsvorschrift
 
-(1) Anerkennungsnummern, die bis zum 30. Juni 2010 von der zuständigen
-Anerkennungsstelle vergeben werden, dürfen noch bis zum 31. Juli 2012
-verwendet werden.
-
-(2) § 19 Absatz 2 und § 30 Absatz 4 Satz 2 sind bis zum Ablauf des 30.
-Juni 2010 in der am 26. März 2010 geltenden Fassung anzuwenden.
+Etiketten, die am 17. Juni 2017 bereits hergestellt waren, dürfen noch
+bis zum Ablauf des 30. Juni 2019 für die Kennzeichnung von Packungen
+oder Behältnissen, die im Inland in den Verkehr gebracht werden
+sollen, verwendet werden.
 
 
 ### § 34
 
 (Inkrafttreten)
 
+(zu § 8 Absatz 1 Satz 1)
 
-### Anlage 1 (zu § 8 Abs. 1 Satz 1) Anforderungen an den Feldbestand
+### Anlage 1 Anforderungen an den Feldbestand
 
-(Inhalt: nicht darstellbare Tabelle zu Nr. 1 bis 3.1.3;
-Fundstelle: BGBl. I 2004, 2927 - 2928)
+(Fundstelle: BGBl. I 2015, 2328)
+
+
+*    *
+    *
+    *
+
+*    *
+    *   Anforderung
+
+    *[^F792004_02_BJNR001920986BJNE004405118]
+   Vorstufenpflanzgut
+        der Klasse
+
+    *   Basispflanzgut
+        der Klasse
+
+    *   Zertifiziertes Pflanzgut
+        der Klasse
+
+    *
+
+*    *
+    *   PBTC
+
+    *   PB
+
+    *   S
+
+    *   SE
+
+    *   E
+
+    *   A
+
+    *   B
+
+    *
+
+*    *
+    *   1
+
+    *   2
+
+    *   3
+
+    *   4
+
+    *   5
+
+    *   6
+
+    *   7
+
+    *   8
+
+    *
+
+*    *   1
+
+    *   Fremdbesatz
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die Anzahl der Pflanzen, die nicht hinreichend sortenecht sind oder
+        einer anderen Sorte zugehören, darf je Hektar höchstens betragen:
+
+    *   0
+
+    *   2
+
+    *   2
+
+    *   4
+
+    *   8
+
+    *   16
+
+    *   16
+
+    *
+
+*    *   2
+
+    *   Fehlstellen
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   Die Anzahl der Fehlstellen darf auf 100 Pflanzstellen höchstens
+        betragen:
+
+    *
+    *
+    *   15
+
+    *   15
+
+    *   20
+
+    *   20
+
+    *   20
+
+    *
+
+*    *   3
+
+    *   Krankheiten
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3.1
+
+    *   Der Anteil der Pflanzen, die von folgenden Krankheiten befallen sind,
+        darf im Durchschnitt von mindestens 5 Auszählungen je 100 Pflanzen
+        höchstens betragen:
+
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+    *
+
+*    *   3.1.1
+
+    *   Schwarzbeinigkeit; als schwarzbeinige Pflanze gilt auch jede Stelle,
+        an der Knollen oder Kraut von schwarzbeinigen Pflanzen liegen
+        geblieben sind
+
+    *   0
+
+    *   0
+
+    *   0,1
+
+    *   0,4
+
+    *   0,6
+
+    *   1,0
+
+    *   1,2
+
+    *
+
+*    *   3.1.2
+
+    *   Viruskrankheiten; als viruskranke Pflanze gilt, außer im Falle des § 9
+        Absatz 3 auch der Nachwuchs nicht entfernter Knollen herausgereinigter
+        Pflanzen sowie jede Stelle, an der Knollen oder Kraut von solchen
+        Pflanzen liegengeblieben sind
+
+    *   0
+
+    *   0,1
+
+    *   0,2
+
+    *   0,4
+
+    *   0,6
+
+    *   1,0
+
+    *   2,0
+
+    *
+
+*    *
+    *   _\_\__\_\__\_\__\_\_
+
+
+    *
+
+
 
 3.2 Der Feldbestand darf nicht mit Bakterieller Ringfäule,
     Schleimkrankheit und nicht mit Kartoffelkrebs befallen sein.
 
 
 4   Schadorganismen
-
     Der Feldbestand darf einen Befall der Vermehrungsfläche mit
     Kartoffelnematoden nicht erkennen lassen.
 
 
 5   Abgrenzung
-
     Der Feldbestand muss von allen anderen Kartoffelbeständen ausreichend
     abgegrenzt sein.
 
 
 6   Beeinträchtigung des Feldbestandes durch viruskranke Nachbarbestände
-
     Der Feldbestand muss von benachbarten Beständen oder Vorgewenden, die
     mit Viruskrankheiten befallen sind, so weit entfernt sein, dass der
     Feldbestand nicht infiziert werden kann; dies gilt nicht, wenn zu
@@ -1184,166 +1400,260 @@ Fundstelle: BGBl. I 2004, 2927 - 2928)
 
 
 
+    Bestehen bei Vorstufenpflanzgut nach der Feldbesichtigung Zweifel über
+    das Vorliegen der Anforderungen nach den Nummern 1, 3.1.1 oder 3.1.2,
+    ist eine Laboruntersuchung des Laubes durchzuführen.
+[^F792004_02_BJNR001920986BJNE004405118]: 
+(zu § 8 Absatz 1 Satz 2, § 15 Absatz 2, § 29 Absatz 2 Satz 2)
 
-### Anlage 2 (zu § 8 Abs. 1 Satz 2, § 15 Abs. 2, § 29 Abs. 2 Satz 2) Anforderungen an die Beschaffenheit des Pflanzgutes
+### Anlage 2 Anforderungen an die Beschaffenheit des Pflanzgutes
 
-Fundstelle des Originaltextes: BGBl. I 2004, 2929
-
-
-*
-    1   Viruskrankheiten
-
-
-    1.1 Für die Prüfung auf Viruskrankheiten sind 100 Knollen heranzuziehen;
-        im Falle der Entnahme einer weiteren Probe nach § 15 Abs. 1 ist ein
-        Gesamtergebnis der Prüfung von 100 Knollen aus der ersten Probe und
-        200 Knollen aus der weiteren Probe zu ermitteln.
+(Fundstelle: BGBl. I 2015, 2329 - 2330)
 
 
-    1.2 Der Anteil der Knollen, die Viren aufweisen, die Viruskrankheiten der
-        Kartoffel hervorrufen können, darf bei Vorstufenpflanzgut,
-        Basispflanzgut EWG und Basispflanzgut höchstens betragen:
+1   Viruskrankheiten
 
 
+1.1 Für die Prüfung auf Viruskrankheiten sind mindestens 100 Knollen
+    heranzuziehen; im Falle der Entnahme einer weiteren Probe nach § 15
+    Absatz 1 ist ein Gesamtergebnis der Prüfung von mindestens 100 Knollen
+    aus der ersten Probe und mindestens 200 Knollen aus der weiteren Probe
+    zu ermitteln.
 
 
+1.2 Der Anteil der Knollen, die Viren aufweisen, die Viruskrankheiten der
+    Kartoffel hervorrufen können, darf bei Vorstufenpflanzgut,
+    Basispflanzgut und Zertifiziertem Pflanzgut höchstens betragen:
+
+    *        *   Kategorie
+
+        *   Klasse
+
+        *   Viren insgesamt
+            v. H. der Probe
 
 
+    *        *   Vorstufenpflanzgut
 
-*    *   Kategorie
+        *   PBTC
 
-    *   Klasse
-
-    *   Viren insgesamt v. H. der Probe
-
-    *   davon Viren, die schwere Viruskrankheiten hervorrufen können v. H. der
-        Probe
+        *   0
 
 
-*    *   Vorstufenpflanzgut
+    *        *   PB
 
-    *   2
-
-    *   1
+        *   0,5
 
 
-*    *   Basispflanzgut
+    *        *   Basispflanzgut
 
-    *   EWG 1/S
+        *   S
 
-    *   2
-
-    *   2
+        *   1,0
 
 
-*    *   EWG 2/SE
+    *        *   SE
 
-    *   4
-
-    *   2
+        *   2,0
 
 
-*    *   EWG 3/E
+    *        *   E
 
-    *   4
-
-    *   2
+        *   2,0
 
 
+    *        *   Zertifiziertes Pflanzgut
+
+        *   A
+
+        *   8,0
 
 
-*
-    1.3 Bei Zertifiziertem Pflanzgut darf der Anteil der Knollen, die einen
-        Befall mit schweren Viruskrankheiten zeigen oder Viren aufweisen, die
-        schwere Viruskrankheiten der Kartoffel hervorrufen können, höchstens 8
-        v. H. der Probe betragen, sofern die Probe daneben keine Knollen
-        enthält, die einen Befall mit leichter Mosaikkrankheit zeigen.
-        Anstelle von je 1 v. H. der Probe mit nach Satz 1 zulässigem Befall
-        darf ein vierfacher Anteil an Knollen, die einen Befall mit leichter
-        Mosaikkrankheit zeigen, in der Probe enthalten sein.
+    *        *   B
 
-
-    1a  Bakterielle Ringfäule und Schleimkrankheit
-
-
-    1a.1 Für die Prüfung auf Bakterielle Ringfäule und Schleimkrankheit sind
-        mindestens 200 Knollen heranzuziehen.
-
-
-    1a.2 Das Pflanzgut darf keine Knollen aufweisen, die von Bakterieller
-        Ringfäule oder Schleimkrankheit befallen sind.
-
-
-    2   Weitere Knollenkrankheiten und äußere Mängel
-
-
-    2.1 Das Pflanzgut darf keine Knollen aufweisen, die sichtbare Anzeichen
-        des Befalls mit Kartoffelkrebs, Bakterieller Ringfäule,
-        Schleimkrankheit oder Kartoffelnematoden zeigen.
-
-
-    2.2 Knollen mit nachstehenden Krankheiten oder Mängeln dürfen zu insgesamt
-        6 v. H. des Gewichtes vorhanden sein, davon höchstens:
+        *   10,0
 
 
 
 
 
+1.3 Bakterielle Ringfäule und Schleimkrankheit
 
 
-*    *
-    *   v. H. des Gewichtes
+1.3.1 Für die Prüfung auf Bakterielle Ringfäule und Schleimkrankheit sind
+    mindestens 200 Knollen heranzuziehen.
+
+
+1.3.2 Das Pflanzgut darf keine Knollen aufweisen, die von Bakterieller
+    Ringfäule oder Schleimkrankheit befallen sind.
+
+
+2   Weitere Knollenkrankheiten und äußere Mängel
+
+
+2.1 Das Pflanzgut darf keine Knollen aufweisen, die sichtbare Anzeichen
+    des Befalls mit Kartoffelkrebs, Bakterieller Ringfäule,
+    Schleimkrankheit oder Kartoffelnematoden zeigen.
+
+
+2.2 Der Anteil der Knollen mit nachstehenden Krankheiten oder Mängeln darf
+    höchstens betragen:
+
+
+
+
+
+*    *   Krankheit oder Mangel
+
+    *   Vorstufenpflanzgut der Klasse
+
+    *   Basispflanzgut
+        der Klasse
+
+    *   Zertifiziertes Pflanzgut
+        der Klasse
+
+
+*    *   PBTC
+
+    *   PB
+
+    *   S, SE, E
+
+    *   A, B
+
+
+*    *   v. H. des Gewichtes
 
 
 *    *   2.2.1
 
-    *   Nassfäule, Trockenfäule
+    *   **Fäule** (Nassfäule, Trockenfäule)/
+        davon Nassfäule höchstens
 
-    *   0,5
+    *   0
+
+    *   0,2/
+        0,2
+
+    *   0,5/
+        0,2
+
+    *   0,5/
+        0,2
 
 
 *    *   2.2.2
 
-    *   Kartoffelschorf, sofern die Knollen auf mehr als einem Drittel der
-        Oberfläche befallen sind und hierdurch der Pflanzgutwert
-        beeinträchtigt wird
+    *   **Kartoffelschorf,** sofern die Knollen auf mehr als einem Drittel der
+        Oberfläche befallen sind
 
-    *   5
+    *   0
+
+    *   5,0
+
+    *   5,0
+
+    *   5,0
 
 
 *    *   2.2.3
 
-    *   äußere Fehler (z. B. missgestaltete oder beschädigte Knollen), sofern
-        hierdurch der Pflanzgutwert beeinträchtigt wird
+    *   **Rhizoctonia** Pusteln, sofern die Knollen auf mehr als 10 v. H. der
+        Oberfläche befallen sind
 
-    *   2
+    *   0
 
+    *   1,0
 
+    *   5,0
 
-
-*
-    2.3 Anhaftende Erde und Fremdstoffe dürfen bei Vorstufenpflanzgut und
-        Basispflanzgut EWG bis höchstens 1 v. H. und bei Basis- und
-        Zertifiziertem Pflanzgut bis höchstens 2 v. H. vorhanden sein.
+    *   5,0
 
 
-    3   Sonstige Anforderungen
+*    *   2.2.4
+
+    *   **Pulverschorf**, sofern die Knollen auf mehr als 10 v. H. der
+        Oberfläche befallen sind
+
+    *   0
+
+    *   1,0
+
+    *   3,0
+
+    *   3,0
 
 
-    3.1 Das Pflanzgut darf nicht mit keimhemmenden Mitteln behandelt oder zur
-        Keimhemmung bestrahlt worden sein.
+*    *   2.2.5
+
+    *   **Stark geschrumpelte Knollen** (ausgeprägter Turgeszenzverlust zum
+        Zeitpunkt der Bonitur, u. a. verursacht durch Silberschorf)
+
+    *   0
+
+    *   0,5
+
+    *   1,0
+
+    *   1,0
 
 
-    3.2 Das Pflanzgut darf nicht geschnitten sein.
+*    *   2.2.6
+
+    *   **äußere Fehler** (z. B. missgestaltete oder beschädigte Knollen)
+
+    *   0
+
+    *   3,0
+
+    *   3,0
+
+    *   3,0
+
+
+*    *   2.2.7
+
+    *   **Gesamttoleranz** für 2.2.1 bis 2.2.6
+
+    *   0
+
+    *   6,0
+
+    *   6,0
+
+    *   8,0
+
+
+*    *   2.2.8
+
+    *   Anhaftende **Erde** und Fremdstoffe
+
+    *
+    *   1,0
+
+    *   1,0
+
+    *   2,0
 
 
 
 
+3   Sonstige Anforderungen
+
+
+3.1 Das Pflanzgut darf nicht mit keimhemmenden Mitteln behandelt oder zur
+    Keimhemmung bestrahlt worden sein.
+
+
+3.2 Das Pflanzgut darf nicht geschnitten sein.
 
 
 
 
-### Anlage 3 (zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3) Größe der Partien und Proben
+(zu § 14 Abs. 2, § 15 Abs. 1, § 17 Abs. 1, § 20 Abs. 3)
+
+### Anlage 3 Größe der Partien und Proben
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
@@ -1426,92 +1736,86 @@ Fundstelle des Originaltextes: BGBl. I 2004, 2930
 
 
 
+(zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a)
 
-### Anlage 4 (zu § 24 Absatz 2, § 25 Satz 1 und § 32 Absatz 1a) Angaben auf dem Etikett
+### Anlage 4 Angaben auf dem Etikett
 
-(Fundstelle des Originaltextes: BGBl. I 2004, 2930;
-bzgl. der einzelnen Änderungen vgl. Fußnote)
-
-
-*
-    1   Basispflanzgut, Basispflanzgut EWG, Zertifiziertes Pflanzgut
+(Fundstelle: BGBl. I 2015, 2330)
 
 
-    1.1 "EG-Norm"
+1   Vorstufenpflanzgut, Basispflanzgut, Zertifiziertes Pflanzgut
 
 
-    1.2 "Bundesrepublik Deutschland"
+1.1 „EU-Norm“
 
 
-    1.3 Kennzeichen der Anerkennungsstelle
+1.2 „Bundesrepublik Deutschland“
 
 
-    1.4 Art
+1.3 Kennzeichen der Anerkennungsstelle
 
 
-    1.5 Sortenbezeichnung
+1.3a Amtlich zugeteilte Seriennummer
 
 
-    1.6 Kategorie, bei Basispflanzgut und Basispflanzgut EWG die jeweilige
-        Klasse.
+1.4 Art
 
 
-    1.7 Anerkennungsnummer
+1.5 Sortenbezeichnung
 
 
-    1.8 "Verschließung ..." (Monat, Jahr)
+1.6 Kategorie und die jeweilige Klasse oder EU-Klasse nach § 3
 
 
-    1.9 Angegebenes Füllgewicht
+1.7 Feldgeneration (Angabe liegt nach Maßgabe des § 3 im Ermessen des
+    Inverkehrbringers)
 
 
-    1.10 Angegebene Sortierung
+1.8 Anerkennungsnummer
 
 
-    1.11 Erzeugerland
+1.9 „Verschließung ...“ (Monat, Jahr)
 
 
-    1.12 Zusätzliche Angaben
+1.10 Angegebenes Füllgewicht
 
 
-    2   Anerkanntes Vorstufenpflanzgut
+1.11 Angegebene Sortierung
 
 
-    2.1 Angaben nach den Nummern 1.2 bis 1.5 und 1.7 bis 1.12
+1.12 Erzeugerland
 
 
-    2.2 "Vorstufenpflanzgut"
+1.13 Zusätzliche Angaben
 
 
-    3   Pflanzgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
+2   Pflanzgut nach § 3 Absatz 2 des Saatgutverkehrsgesetzes
 
 
-    3.1 Angaben nach den Nummern 1.2, 1.4, 1.8, 1.10
+2.1 Angaben nach den Nummern 1.2, 1.3a, 1.4, 1.9, 1.11
 
 
-    3.2 „Bundessortenamt”
+2.2 „Bundessortenamt“
 
 
-    3.3 Genehmigungsnummer des Bundessortenamtes
+2.3 Genehmigungsnummer des Bundessortenamtes
 
 
-    3.4 vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern
-        vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung
+2.4 Vorläufige Bezeichnung der Sorte, ihre Kennnummer und, sofern
+    vorhanden, in Klammern die vorgeschlagene Sortenbezeichnung
 
 
-    3.5 Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d
+2.5 Angaben nach § 32 Absatz 1 Satz 2 Nummer 3 Buchstabe d
 
 
-    3.6 „Nur für Versuchszwecke”
+2.6 „Nur für Versuchszwecke“
 
 
 
 
+(zu § 33)
 
-
-
-
-### Anlage 5 (zu § 33) Größensortierung
+### Anlage 5 Größensortierung
 
 Fundstelle des Originaltextes: BGBl. I 2004, 2930
 

@@ -2,7 +2,7 @@
 Title: Übereinkommen über die Vorrechte und Immunitäten der Vereinten Nationen
 jurabk: UNOImmÜbk
 layout: default
-origslug: unoimm_bk
+origslug: unoimmuebk
 slug: unoimmuebk
 
 ---

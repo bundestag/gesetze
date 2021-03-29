@@ -535,8 +535,9 @@ Diese Verordnung tritt am 1. August 2012 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Schornsteinfeger/zur
 Schornsteinfegerin vom 31. Januar 1997 (BGBl. I S. 179) außer Kraft.
 
+(zu § 3 Absatz 1)
 
-## Anlage (zu § 3 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schornsteinfeger und zur Schornsteinfegerin
 
 (Fundstelle: BGBl. I 2012, 1434 - 1439)
 

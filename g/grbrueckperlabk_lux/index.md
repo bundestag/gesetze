@@ -4,7 +4,7 @@ Title: Abkommen zwischen der Bundesrepublik Deutschland und dem Großherzogtum L
   Raum Perl und Schengen
 jurabk: GrBrückPerlAbk LUX
 layout: default
-origslug: grbr_ckperlabk_lux
+origslug: grbrueckperlabk_lux
 slug: grbrueckperlabk_lux
 
 ---

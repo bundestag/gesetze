@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen zur Vereinheitlichung von Regeln über den
   in Seeschiffe
 jurabk: SeeSchAÜbk
 layout: default
-origslug: seescha_bk
+origslug: seeschauebk
 slug: seeschauebk
 
 ---

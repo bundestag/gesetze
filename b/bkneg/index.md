@@ -40,8 +40,9 @@ beschlossen:
 ## Art 4 - Übergangs- und Schlußvorschriften
 
 
+Auflösung der Rechtsvorgänger
 
-### I. - Auflösung der Rechtsvorgänger Vermögensübergang
+### I. - Vermögensübergang
 
 
 
@@ -449,7 +450,7 @@ folgenden Monats in Kraft.
 (2)
 Mit dem Inkrafttreten dieses Gesetzes treten alle diesem Gesetz
 entgegenstehenden oder gleichlautenden Vorschriften außer Kraft,
-insbesondere              ...
+insbesondere ...
 
 (3)
 

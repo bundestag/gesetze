@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistungen
+Title: Verordnung über die Berechnung des Kapitalwertes bei Abfindung von Leistungen
   aus der gesetzlichen Unfallversicherung
 jurabk: UVKapWertV
 layout: default
@@ -8,7 +8,7 @@ slug: uvkapwertv
 
 ---
 
-# Verordnung über die Berechnung des Kapitalwerts bei Abfindung von Leistungen aus der gesetzlichen Unfallversicherung (UVKapWertV)
+# Verordnung über die Berechnung des Kapitalwertes bei Abfindung von Leistungen aus der gesetzlichen Unfallversicherung (UVKapWertV)
 
 Ausfertigungsdatum
 :   1965-08-17

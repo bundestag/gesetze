@@ -3,7 +3,7 @@ Title: Erklärungen zu dem Übereinkommen auf Grund von Artikel K.3 des Vertrags
   die Europäische Union über die Errichtung eines Europäischen Polizeiamts
 jurabk: EuropolÜbkErkl
 layout: default
-origslug: europol_bkerkl
+origslug: europoluebkerkl
 slug: europoluebkerkl
 
 ---

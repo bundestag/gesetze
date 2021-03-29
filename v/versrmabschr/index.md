@@ -396,7 +396,7 @@ Bilanzierungsrichtlinien.
 
 
 
-### II. bis V. -
+### II. bis V. - 
 
 
 
@@ -421,12 +421,12 @@ rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
 
 1\. Grundstücke im Währungsgebiet, die zum Deckungsstock eines
 Lebensversicherungsunternehmens gehören, können in Abweichung von
-Teil A Ziffer 37 der Richtlinien              nach dem Ertrage
-bewertet werden, wenn sich dabei unter Beachtung der nachstehenden
-Grundsätze ein niedrigerer Wert ergibt. Liegt der jährliche Rohertrag
-eines solchen Grundstückes unter 8 vom Hundert des aus
-Teil A Ziffer 37              sich ergebenden Einheitswertes, so kann
-der Wertansatz in dem Verhältnis gekürzt werden, in dem der Rohertrag
+Teil A Ziffer 37 der Richtlinien nach dem Ertrage bewertet werden,
+wenn sich dabei unter Beachtung der nachstehenden Grundsätze ein
+niedrigerer Wert ergibt. Liegt der jährliche Rohertrag eines solchen
+Grundstückes unter 8 vom Hundert des aus
+Teil A Ziffer 37 sich ergebenden Einheitswertes, so kann der
+Wertansatz in dem Verhältnis gekürzt werden, in dem der Rohertrag
 voraussichtlich für längere Zeit unter 8 vom Hundert liegen wird;
 mindestens sind aber 30 vom Hundert des ursprünglichen Einheitswertes
 anzusetzen. Dabei ist von einem Rohertrag in Höhe von 12 vom Hundert
@@ -473,31 +473,29 @@ Beispiel:
 dem Bilanzwert, so ist der Wertansatz in der Umstellungsrechnung bis
 zur Höhe des Unterschiedsbetrages zwischen dem ursprünglichen
 Einheitswert und dem bisherigen Bilanzwert zu berücksichtigen.
-1a. **Als Außenstände bei Agenten und Maklern**              - A XIV -
-sind die von Agenten und Maklern geschuldeten und in der
-Reichsmarkschlußbilanz ausgewiesenen Beträge mit einem Zehntel des
-Reichsmarkbetrages in Deutscher Mark einzusetzen. Von Agenten und
-Maklern geschuldete Beträge, die nach § 1 der Zweiten
-Durchführungsverordnung zum Festkontogesetz mit der Wirkung auf
-Deutsche Mark umgestellt werden, daß für je einhundert Reichsmark
-sechseinhalb Deutsche Mark zu zahlen sind, sind in diesem Verhältnis
-einzusetzen.
-2\. Unter - **Beitragsaußenstände bei Versicherungsnehmern**
-- A XV - sind u.a. die gestundeten Prämienteile (Prämienrückstände)
+1a. **Als Außenstände bei Agenten und Maklern** - A XIV - sind die von
+Agenten und Maklern geschuldeten und in der Reichsmarkschlußbilanz
+ausgewiesenen Beträge mit einem Zehntel des Reichsmarkbetrages in
+Deutscher Mark einzusetzen. Von Agenten und Maklern geschuldete
+Beträge, die nach § 1 der Zweiten Durchführungsverordnung zum
+Festkontogesetz mit der Wirkung auf Deutsche Mark umgestellt werden,
+daß für je einhundert Reichsmark sechseinhalb Deutsche Mark zu zahlen
+sind, sind in diesem Verhältnis einzusetzen.
+2\. Unter - **Beitragsaußenstände bei Versicherungsnehmern** - A XV -
+sind u.a. die gestundeten Prämienteile (Prämienrückstände)
 auszuführen, deren Zahlung durch Vereinbarung hinausgeschoben ist.
 Hierzu gehören auch die gegen Sicherungsbeitrag gestundeten Prämien.
 Sämtliche Beitragsaußenstände in Reichsmark usw. sind mit ein Zehntel
 des Nennbetrages in Deutscher Mark zu bewerten.
-3\. **Technisch gestundete Prämien**              - A VI - sind die
-Teilprämien der am 21. Juni 1948 laufenden Versicherungsperiode, die
-von diesem Termin an in Deutscher Mark fällig werden. Sie sind von den
-Bruttoprämien zu berechnen. Wegen der auf den gestundeten Prämien
-ruhenden Abschlußprovisionen wird auf III, 6a verwiesen. Die darauf
-ruhenden Inkassoprovisionen und sonstigen Verwaltungskosten sind nicht
+3\. **Technisch gestundete Prämien** - A VI - sind die Teilprämien der
+am 21. Juni 1948 laufenden Versicherungsperiode, die von diesem Termin
+an in Deutscher Mark fällig werden. Sie sind von den Bruttoprämien zu
+berechnen. Wegen der auf den gestundeten Prämien ruhenden
+Abschlußprovisionen wird auf III, 6a verwiesen. Die darauf ruhenden
+Inkassoprovisionen und sonstigen Verwaltungskosten sind nicht
 besonders zu passivieren, da der Prämienübertrag - B V - von der
 Bruttoprämie berechnet wird.
-4\. Die **sonstigen Aktiva**              - A XXI - müssen u.a.
-enthalten:
+4\. Die **sonstigen Aktiva** - A XXI - müssen u.a. enthalten:
 
 a)  die im Verhältnis 10:1 umgestellten Kriegs- und Zinsausfallumlagen für
     bekannte schwebende Versicherungsfälle, nicht dagegen für noch
@@ -513,28 +511,27 @@ c)  die Anteile der Rückversicherer an den im Verhältnis 10:1 umgestellten
 
 
 
-5\. In dem **Posten der Rechnungsabgrenzung**              - A XXII -
-ist u.a. der im Prämienübertrag enthaltene Anteil der bereits
-verausgabten Provisionen aufzuführen.
+5\. In dem **Posten der Rechnungsabgrenzung** - A XXII - ist u.a. der
+im Prämienübertrag enthaltene Anteil der bereits verausgabten
+Provisionen aufzuführen.
 
 
 ### III. - Passiva
 
 
 1.
-    a)  Die **Deckungsrückstellungen**                          - B IV - sind
-        zum 21. Juni 1948 ohne Einbeziehung des Prämienübertrages zu
-        berechnen. Dabei sind für beitragspflichtige
-        Kapital-(Renten)-Versicherungen die Deckungsrückstellungen unter
-        Zugrundelegung der nach der Ersten Verordnung - Anordnung - über die
-        Lebens- und Rentenversicherung aus Anlaß der Neuordnung des Geldwesens
-        vom 5. Juli 1948 umgestellten, bei Ablauf fälligen Versicherungssumme
-        (Rente) zu berechnen. Als Rechnungszins ist der Satz von 3 1/2 vom
-        Hundert zu verwenden. Die Aufsichtsbehörde kann in besonderen Fällen
-        im Einvernehmen mit der Bank deutscher Länder gemäß § 6 Abs. 1 Aa I
-        Ziffer 1 letzter Halbsatz der 23. DVO/UG einen geringeren
-        Rechnungszins bewilligen, jedoch nur im Rahmen des seitherigen
-        Geschäftsplans.
+    a)  Die **Deckungsrückstellungen** - B IV - sind zum 21. Juni 1948 ohne
+        Einbeziehung des Prämienübertrages zu berechnen. Dabei sind für
+        beitragspflichtige Kapital-(Renten)-Versicherungen die
+        Deckungsrückstellungen unter Zugrundelegung der nach der Ersten
+        Verordnung - Anordnung - über die Lebens- und Rentenversicherung aus
+        Anlaß der Neuordnung des Geldwesens vom 5. Juli 1948 umgestellten, bei
+        Ablauf fälligen Versicherungssumme (Rente) zu berechnen. Als
+        Rechnungszins ist der Satz von 3 1/2 vom Hundert zu verwenden. Die
+        Aufsichtsbehörde kann in besonderen Fällen im Einvernehmen mit der
+        Bank deutscher Länder gemäß § 6 Abs. 1 Aa I Ziffer 1 letzter Halbsatz
+        der 23. DVO/UG einen geringeren Rechnungszins bewilligen, jedoch nur
+        im Rahmen des seitherigen Geschäftsplans.
 
 
     b)  Die Reserveprämie für die Berechnung der Deckungsrückstellungen ist
@@ -559,18 +556,17 @@ verausgabten Provisionen aufzuführen.
 
 
 
-2\. Als **Prämienüberträge**              - B V - sind die Prämienteile
+2\. Als **Prämienüberträge** - B V - sind die Prämienteile
 einzustellen, welche auf die Zeit vom 21. Juni 1948 bis zum Schluß der
 laufenden Versicherungsperiode entfallen. Die Prämienüberträge sind
 von der Deutsche-Mark-Brutto-Prämie einschließlich aller
 Zusatzversicherungen zu berechnen.
 3\. Als **Rückstellungen für unerledigte (schwebende)
-Versicherungsfälle**              - B VI - sind alle Kapital- und
-Rentenbeträge aus Verträgen einzustellen, bei denen der
-Versicherungsfall nach Kenntnis des Unternehmens vor dem 21. Juni 1948
-eingetreten, die Leistung aber noch nicht bewirkt war. Sie sind mit
-ein Zehntel des fällig gewordenen Reichsmarkbetrages in Deutsche Mark
-zu bewerten.
+Versicherungsfälle** - B VI - sind alle Kapital- und Rentenbeträge aus
+Verträgen einzustellen, bei denen der Versicherungsfall nach Kenntnis
+des Unternehmens vor dem 21. Juni 1948 eingetreten, die Leistung aber
+noch nicht bewirkt war. Sie sind mit ein Zehntel des fällig gewordenen
+Reichsmarkbetrages in Deutsche Mark zu bewerten.
 Außerdem ist hier eine Vermißtenrückstellung auszuweisen, die in Höhe
 von 90 vom Hundert der auf ein Zehntel umgewerteten gesamten bis zum
 20\. Juni 1948 im Währungsgebiet durch Kriegssterbefälle fällig
@@ -580,12 +576,12 @@ Schätzung ermittelt werden. Die Rückstellung ist für sämtliche noch
 nicht bekannte Schäden, die als Kriegsfolgen anzusehen sind, unter
 Verrechnung anderweitiger Rückstellungen und der Kriegs- und
 Zinsausfallumlage bestimmt.
-4\. In den **Sonstigen technischen Rückstellungen**              - B
-VII - ist u.a. die Rückstellung für Wiederinkraftsetzung von
-Lebensversicherungen anzusetzen mit ein Zehntel des im
-Reichsmarkabschluß auszuweisenden Betrages.
-5\. Als **Rückstellung für Beitragsrückerstattungen**              - B
-VIII - ist ein Zehntel des Reichsmarknennbetrages der in der
+4\. In den **Sonstigen technischen Rückstellungen** - B VII - ist u.a.
+die Rückstellung für Wiederinkraftsetzung von Lebensversicherungen
+anzusetzen mit ein Zehntel des im Reichsmarkabschluß auszuweisenden
+Betrages.
+5\. Als **Rückstellung für Beitragsrückerstattungen** - B VIII - ist
+ein Zehntel des Reichsmarknennbetrages der in der
 Reichsmarkschlußbilanz ausgewiesenen Verbindlichkeiten aus
 festgelegten oder gutgeschriebenen Gewinnanteilen der
 Versicherungsnehmer einzusetzen; als festgelegt ist der Gewinnanteil
@@ -606,40 +602,39 @@ früheres Eigenkapital im Sinne des § 13 Abs. 4 der 23. DVO/UG i.d.F.
 der 43. DVO/UG. Über Zeitpunkt und Art der Ausschüttung von nach
 vorstehenden Bestimmungen als festgelegt anzusehenden Gewinnanteilen
 entscheidet die Aufsichtsbehörde.
-6\. Für die Ermittlung der **Rückstellungen für Verwaltungskosten**
-- B IX - ist zu beachten:
+6\. Für die Ermittlung der **Rückstellungen für Verwaltungskosten** - B
+IX - ist zu beachten:
 
-a)  als **Rückstellung für Abschlußkosten**                    sind die
-    auf die technisch gestundeten Deutsche-Mark-Prämien entfallenden
+a)  als **Rückstellung für Abschlußkosten** sind die auf die technisch
+    gestundeten Deutsche-Mark-Prämien entfallenden
     Abschlußprovisionsanteile einzusetzen.
 
 
-b)  als **Rückstellung für Umstellungskosten**                    sind die
-    sich aus § 2 der 29. DVO/UG (Umstellungskosten) ergebenden Beträge
-    einzusetzen.
+b)  als **Rückstellung für Umstellungskosten** sind die sich aus § 2 der
+    29\. DVO/UG (Umstellungskosten) ergebenden Beträge einzusetzen.
 
 
-c)  als **Rückstellung für sonstige Verwaltungskosten**
-    sind diejenigen Beträge einzusetzen, die geschäftsplanmäßig bei der
-    umgestellten Versicherungssumme für die Verwaltung der prämienfreien
-    Versicherungen während der künftigen Dauer in Deutscher Mark
-    erforderlich sind, soweit sie nicht schon bei der Berechnung der
-    Deckungsrückstellung berücksichtigt wurden. Für die Versicherungen mit
-    abgekürzter Beitragszahlung sind entsprechend die Beträge
-    zurückzustellen, die zusammen mit den Kostenanteilen aus den noch
-    einkommenden Prämien ausreichen, um die nach Ablauf der
-    Beitragszahlungsdauer anfallenden Verwaltungskosten zu decken.
+c)  als **Rückstellung für sonstige Verwaltungskosten** sind diejenigen
+    Beträge einzusetzen, die geschäftsplanmäßig bei der umgestellten
+    Versicherungssumme für die Verwaltung der prämienfreien Versicherungen
+    während der künftigen Dauer in Deutscher Mark erforderlich sind,
+    soweit sie nicht schon bei der Berechnung der Deckungsrückstellung
+    berücksichtigt wurden. Für die Versicherungen mit abgekürzter
+    Beitragszahlung sind entsprechend die Beträge zurückzustellen, die
+    zusammen mit den Kostenanteilen aus den noch einkommenden Prämien
+    ausreichen, um die nach Ablauf der Beitragszahlungsdauer anfallenden
+    Verwaltungskosten zu decken.
 
 
 
-7\. In den **Sonstigen allgemeinen Rückstellungen**              - B X
-- sind unter anderem gesondert auszuweisen die in
-Teil A Ziffer 48d und e              aufgeführten Rückstellungen sowie
-die Pensionsrückstellungen
+7\. In den **Sonstigen allgemeinen Rückstellungen** - B X - sind unter
+anderem gesondert auszuweisen die in
+Teil A Ziffer 48d und e aufgeführten Rückstellungen sowie die
+Pensionsrückstellungen
 (Teil A Ziffer 49).
-8\. Die **Sonstigen Passiva**              - B XIII - 8 - haben unter
-anderem die auf den Anteil der Rückversicherer am Prämienübertrag (A
-XXI) entfallenden Rückversicherungsprovisionen zu enthalten.
+8\. Die **Sonstigen Passiva** - B XIII - 8 - haben unter anderem die
+auf den Anteil der Rückversicherer am Prämienübertrag (A XXI)
+entfallenden Rückversicherungsprovisionen zu enthalten.
 
 
 ### IV. - Rückversicherungsunternehmen
@@ -722,7 +717,7 @@ Aktiva
 
 
     III. Hypotheken und Grundschuldforderungen (davon aus
-        § 80                          Aktiengesetz, § 34 VAG DM ...)
+        § 80 Aktiengesetz, § 34 VAG DM ...)
 
 
     IV. Schuldscheinforderungen
@@ -792,7 +787,7 @@ Aktiva
 
 
     XVIII. Forderungen aus Krediten nach
-        § 80                          Aktiengesetz, § 34 VAG
+        § 80 Aktiengesetz, § 34 VAG
 
 
     XIX. Forderungen an Aufsichtsratsmitglieder
@@ -1087,14 +1082,14 @@ anzuwenden.
 
 ### II. - Aktiva
 
-Als **Außenstände**              - A XIV 1 und 2 - sind die von
-Vertretern und Versicherungsnehmern geschuldeten und in der
-Reichsmarkschlußbilanz ausgewiesenen Beträge mit einem Zehntel des
-Reichsmarkbetrages in Deutscher Mark einzusetzen. Von Vertretern
-geschuldete Beträge, die nach § 1 der Zweiten Durchführungsverordnung
-zum Festkontogesetz mit der Wirkung auf Deutsche Mark umgestellt
-werden, daß für je einhundert Reichsmark sechseinhalb Deutsche Mark zu
-zahlen sind, sind in diesem Verhältnis einzusetzen.
+Als **Außenstände** - A XIV 1 und 2 - sind die von Vertretern und
+Versicherungsnehmern geschuldeten und in der Reichsmarkschlußbilanz
+ausgewiesenen Beträge mit einem Zehntel des Reichsmarkbetrages in
+Deutscher Mark einzusetzen. Von Vertretern geschuldete Beträge, die
+nach § 1 der Zweiten Durchführungsverordnung zum Festkontogesetz mit
+der Wirkung auf Deutsche Mark umgestellt werden, daß für je einhundert
+Reichsmark sechseinhalb Deutsche Mark zu zahlen sind, sind in diesem
+Verhältnis einzusetzen.
 Als nachzuerhebende Prämienanteile - A XIV 3 - sind die von den
 Versicherungsnehmern in Deutscher Mark zu leistenden
 Prämiennachzahlungen in der Höhe einzusetzen, in der sie als
@@ -1109,9 +1104,9 @@ einbringlich anzusehen sind.
 
 ### III. - Passiva
 
-1\. Die **Deckungsrückstellungen**              - B IV 1 bis 4 - sind
-zum 21. Juni 1948 zu berechnen. Als Rechnungszins ist der Satz von 3
-1/2 vom Hundert zu verwenden.
+1\. Die **Deckungsrückstellungen** - B IV 1 bis 4 - sind zum 21. Juni
+1948 zu berechnen. Als Rechnungszins ist der Satz von 3 1/2 vom
+Hundert zu verwenden.
 
 a)  **Unfall- und Haftpflichtrenten**
 
@@ -1149,20 +1144,19 @@ c)  **Lebenslängliche Unfallversicherung mit oder ohne Prämienrückgewähr**
 
 
 
-2\. Als **Prämienüberträge**              - B V - ist der nicht
-verdiente Teil der vor dem 21. Juni 1948 fällig gewesenen Beiträge
-einzustellen, und zwar mit einem Zehntel des in der
-Reichsmarkschlußbilanz ausgewiesenen Betrages. Außerdem ist hier der
-unter A XIV 3 der Aktiva eingestellte Betrag (vgl. II Abs. 2 und 3)
-zurückzustellen. Der Gesamtbetrag der Prämienüberträge ist in einer
-Summe auszuweisen.
-3\. Unter **Rückstellungen für schwebende**              (unerledigte)
-**Versicherungsfälle**              - B VI - sind alle Schäden zu
-berücksichtigen, bei denen der Versicherungsfall oder das
-Schadensereignis vor dem 21. Juni 1948 eingetreten, die Leistung aber
-zu diesem Zeitpunkt ganz oder teilweise noch nicht bewirkt war. Die
-Schäden sind mit einem Zehntel ihres festgestellten oder geschätzten
-Reichsmarknennbetrages einzustellen.
+2\. Als **Prämienüberträge** - B V - ist der nicht verdiente Teil der
+vor dem 21. Juni 1948 fällig gewesenen Beiträge einzustellen, und zwar
+mit einem Zehntel des in der Reichsmarkschlußbilanz ausgewiesenen
+Betrages. Außerdem ist hier der unter A XIV 3 der Aktiva eingestellte
+Betrag (vgl. II Abs. 2 und 3) zurückzustellen. Der Gesamtbetrag der
+Prämienüberträge ist in einer Summe auszuweisen.
+3\. Unter **Rückstellungen für schwebende** (unerledigte)
+**Versicherungsfälle** - B VI - sind alle Schäden zu berücksichtigen,
+bei denen der Versicherungsfall oder das Schadensereignis vor dem 21.
+Juni 1948 eingetreten, die Leistung aber zu diesem Zeitpunkt ganz oder
+teilweise noch nicht bewirkt war. Die Schäden sind mit einem Zehntel
+ihres festgestellten oder geschätzten Reichsmarknennbetrages
+einzustellen.
 Ebenfalls mit einem Zehntel ihres Reichsmarknennbetrages sind in der
 Haftpflicht- und Kraftfahrhaftpflicht-Versicherung
 Versicherungsansprüche aus vor dem 21. Juni 1948 eingetretenen
@@ -1195,8 +1189,8 @@ In der Hagelversicherung entfällt eine Rückstellung für schwebende
 Schäden des Jahres 1948, die vor dem 21. Juni 1948 angefallen sind und
 für die darauf entfallenden Schadenbearbeitungskosten.
 4\. Als **Rückstellungen für den schwankenden Jahresbedarf sowie für
-Kumulierungs- und Katastrophengefahr**              - B VII - können
-in die Umstellungsrechnung in Deutscher Mark eingesetzt werden:
+Kumulierungs- und Katastrophengefahr** - B VII - können in die
+Umstellungsrechnung in Deutscher Mark eingesetzt werden:
 
 a)  40 vom Hundert der in den Rechnungsabschlüssen der Jahre 1944 bis 1947
     durchschnittlich zum Ausgleich des schwankenden Jahresbedarfs, zur
@@ -1267,8 +1261,8 @@ Zu bb) und cc):
 Gegebenenfalls zuzüglich der in diesem Zeitraum erhobenen Zuschläge
 für die Nachschußrückversicherung, soweit sie auf den Selbstbehalt aus
 dem Geschäft im Währungsgebiet entfallen.
-5\. Als **Rückstellung für Beitragsrückerstattungen**              - B
-VIII - ist ein Zehntel des Reichsmarknennbetrages der in der
+5\. Als **Rückstellung für Beitragsrückerstattungen** - B VIII - ist
+ein Zehntel des Reichsmarknennbetrages der in der
 Reichsmarkschlußbilanz ausgewiesenen Verbindlichkeiten aus
 festgelegten oder gutgeschriebenen Gewinnanteilen der
 Versicherungsnehmer einzusetzen; als festgelegt ist der Gewinnanteil
@@ -1289,10 +1283,10 @@ früheres Eigenkapital im Sinne des § 13 Abs. 4 der 23. DVO/UG in der
 Fassung der 43. DVO/UG. Über Zeitpunkt und Art der Ausschüttung von
 nach vorstehenden Bestimmungen als festgelegt anzusehenden
 Gewinnanteilen entscheidet die Aufsichtsbehörde.
-6\. In den **Sonstigen allgemeinen Rückstellungen**              - B IX
-- sind u.a. gesondert auszuweisen die in
-Teil A Ziffer 48d und e              aufgeführten Rückstellungen sowie
-die Pensionsrückstellungen
+6\. In den **Sonstigen allgemeinen Rückstellungen** - B IX - sind u.a.
+gesondert auszuweisen die in
+Teil A Ziffer 48d und e aufgeführten Rückstellungen sowie die
+Pensionsrückstellungen
 (Teil A Ziffer 49).
 
 
@@ -1315,7 +1309,7 @@ Aktiva
 
 
     III. Hypotheken und Grundschuldforderungen (davon aus
-        § 80                          Aktiengesetz, § 34 VAG DM ...)
+        § 80 Aktiengesetz, § 34 VAG DM ...)
 
 
     IV. Schuldscheinforderungen
@@ -1408,7 +1402,7 @@ Aktiva
 
 
     XVI. Forderungen aus Krediten nach
-        § 80                          Aktiengesetz, § 34 VAG
+        § 80 Aktiengesetz, § 34 VAG
 
 
     XVII. Forderungen an Aufsichtsratsmitglieder
@@ -1581,25 +1575,25 @@ rechtlichen Anstalten ist das Schema sinngemäß anzuwenden.
 
 ### II. - Aktiva
 
-Als **Außenstände**              - A XIV 1 und 2 - sind die von
-Vertretern und Versicherungsnehmern geschuldeten und in der
-Reichsmarkschlußbilanz ausgewiesenen Beträge mit einem Zehntel des
-Reichsmark-Betrages in Deutscher Mark einzusetzen. Von Vertretern
-geschuldete Beträge, die nach § 1 der Zweiten Durchführungsverordnung
-zum Festkontogesetz mit der Wirkung auf Deutsche Mark umgestellt
-werden, daß für je einhundert Reichsmark sechseinhalb Deutsche Mark zu
-zahlen sind, sind in diesem Verhältnis einzusetzen.
-Als **nachzuerhebende Prämienteile**              - A XIV 3 - sind die
-von den Versicherungsnehmern in Deutscher Mark zu leistenden
+Als **Außenstände** - A XIV 1 und 2 - sind die von Vertretern und
+Versicherungsnehmern geschuldeten und in der Reichsmarkschlußbilanz
+ausgewiesenen Beträge mit einem Zehntel des Reichsmark-Betrages in
+Deutscher Mark einzusetzen. Von Vertretern geschuldete Beträge, die
+nach § 1 der Zweiten Durchführungsverordnung zum Festkontogesetz mit
+der Wirkung auf Deutsche Mark umgestellt werden, daß für je einhundert
+Reichsmark sechseinhalb Deutsche Mark zu zahlen sind, sind in diesem
+Verhältnis einzusetzen.
+Als **nachzuerhebende Prämienteile** - A XIV 3 - sind die von den
+Versicherungsnehmern in Deutscher Mark zu leistenden
 Beitragsnachzahlungen in der Höhe einzusetzen, in der sie als
 einbringlich anzusehen sind.
 
 
 ### III. - Passiva
 
-1\. Die **Deckungsrückstellungen**              - B IV 1 bis 4 - sind
-zum 21. Juni 1948 zu berechnen. Als Rechnungszins ist der Satz von 3
-1/2 vom Hundert zu verwenden. Dabei ist folgendes zu beachten:
+1\. Die **Deckungsrückstellungen** - B IV 1 bis 4 - sind zum 21. Juni
+1948 zu berechnen. Als Rechnungszins ist der Satz von 3 1/2 vom
+Hundert zu verwenden. Dabei ist folgendes zu beachten:
 
 a)  Die Deckungsrückstellung für das mit dem Alter wachsende
     Krankheitswagnis in der Krankheitskostenversicherung
@@ -1661,29 +1655,28 @@ d)  Unter "Sonstige" - B IV 4 - sind die für Krankenversicherungen
 
 
 
-2\. Als **Prämienüberträge**              - B V - ist der nicht
-verdiente Teil der vor dem 21. Juni 1948 fällig gewesenen Beiträge
-einzustellen und zwar mit einem Zehntel des in der
-Reichsmarkschlußbilanz ausgewiesenen Betrages in Deutscher Mark. Auch
-ist hier der Gesamtbetrag der unter A XIV 3 der Aktiva eingestellten
-Beträge (vgl. II Abs. 2) zurückzustellen. Der Gesamtbetrag der
-Prämienüberträge ist in einer Summe auszuweisen.
+2\. Als **Prämienüberträge** - B V - ist der nicht verdiente Teil der
+vor dem 21. Juni 1948 fällig gewesenen Beiträge einzustellen und zwar
+mit einem Zehntel des in der Reichsmarkschlußbilanz ausgewiesenen
+Betrages in Deutscher Mark. Auch ist hier der Gesamtbetrag der unter A
+XIV 3 der Aktiva eingestellten Beträge (vgl. II Abs. 2)
+zurückzustellen. Der Gesamtbetrag der Prämienüberträge ist in einer
+Summe auszuweisen.
 3\. Unter **Rückstellung für schwebende (unerledigte)
-Versicherungsfälle**              - B VI - sind alle Schäden zu
-berücksichtigen, die vor dem 21. Juni 1948 durch Gewährung von
-Leistungen durch den Arzt, Zahnarzt, Heilbehandler oder die
-Heilbehandlungsstätte, bei Heil- oder Hilfsmitteln jeder Art durch
-Kauf oder Inanspruchnahme entstanden sind, die Leistung aber zu diesem
-Zeitpunkt ganz oder teilweise noch nicht bewirkt war. Sie sind mit
-einem Zehntel ihres festgestellten oder geschätzten
-Reichsmarknennbetrages einzusetzen. Die auf die schwebenden
-Versicherungsfälle nach dem 20. Juni 1948 entfallenden
-Schadensbearbeitungskosten des Innen- und Außendienstes sind
-gleichfalls unter B VI in Höhe der tatsächlichen Aufwendungen in
+Versicherungsfälle** - B VI - sind alle Schäden zu berücksichtigen,
+die vor dem 21. Juni 1948 durch Gewährung von Leistungen durch den
+Arzt, Zahnarzt, Heilbehandler oder die Heilbehandlungsstätte, bei
+Heil- oder Hilfsmitteln jeder Art durch Kauf oder Inanspruchnahme
+entstanden sind, die Leistung aber zu diesem Zeitpunkt ganz oder
+teilweise noch nicht bewirkt war. Sie sind mit einem Zehntel ihres
+festgestellten oder geschätzten Reichsmarknennbetrages einzusetzen.
+Die auf die schwebenden Versicherungsfälle nach dem 20. Juni 1948
+entfallenden Schadensbearbeitungskosten des Innen- und Außendienstes
+sind gleichfalls unter B VI in Höhe der tatsächlichen Aufwendungen in
 Deutscher Mark zurückzustellen.
 4\. Als **Rückstellungen für den schwankenden Jahresbedarf sowie für
-Kumulierungs- und Katastrophengefahr**              - B VII - können
-in die Umstellungsrechnung in Deutscher Mark eingesetzt werden:
+Kumulierungs- und Katastrophengefahr** - B VII - können in die
+Umstellungsrechnung in Deutscher Mark eingesetzt werden:
 
 a)  40 vom Hundert der in den Rechnungsabschlüssen der Jahre 1944 bis 1947
     durchschnittlich zum Ausgleich des schwankenden Jahresbedarfs, zur
@@ -1714,8 +1707,8 @@ b)  40 vom Hundert des Reichsmarknennbetrages der zum Ausgleich des
 
 
 
-5\. Als **Rückstellung für Beitragsrückerstattungen**              - B
-VIII - ist ein Zehntel des Reichsmarknennbetrages der in der
+5\. Als **Rückstellung für Beitragsrückerstattungen** - B VIII - ist
+ein Zehntel des Reichsmarknennbetrages der in der
 Reichsmarkschlußbilanz ausgewiesenen Verbindlichkeiten aus
 festgelegten oder gutgeschriebenen Gewinnanteilen der
 Versicherungsnehmer einzusetzen; als festgelegt ist der Gewinnanteil
@@ -1736,10 +1729,10 @@ früheres Eigenkapital im Sinne des § 13 Abs. 4 der 23. DVO/UG in der
 Fassung der 43. DVO/UG. Über Zeitpunkt und Art der Ausschüttung von
 nach vorstehenden Bestimmungen als festgelegt anzusehenden
 Gewinnanteilen entscheidet die Aufsichtsbehörde.
-6\. In den **Sonstigen allgemeinen Rückstellungen**              - B IX
-- sind u.a. gesondert auszuweisen die in
-Teil A Ziffer 48d und e              aufgeführten Rückstellungen sowie
-die Pensionsrückstellungen
+6\. In den **Sonstigen allgemeinen Rückstellungen** - B IX - sind u.a.
+gesondert auszuweisen die in
+Teil A Ziffer 48d und e aufgeführten Rückstellungen sowie die
+Pensionsrückstellungen
 (Teil A Ziffer 49).
 
 
@@ -1757,7 +1750,7 @@ Aktiva
 
 
     III. Hypotheken und Grundschuldforderungen (davon aus
-        § 80                          Aktiengesetz, § 34 VAG DM ...)
+        § 80 Aktiengesetz, § 34 VAG DM ...)
 
 
     IV. Schuldscheinforderungen
@@ -1832,7 +1825,7 @@ Aktiva
 
 
     XVI. Forderungen aus Krediten nach
-        § 80                          Aktiengesetz, § 34 VAG
+        § 80 Aktiengesetz, § 34 VAG
 
 
     XVII. Forderungen an Aufsichtsratsmitglieder
@@ -1985,8 +1978,9 @@ Passiva
 
 
 
+(zu Teil D)
 
-#### Anlage (zu Teil D) Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
+#### Anlage Grundsätze für die Berechnung der Alterungsrückstellung, der Rückstellung für das Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der Krankheitskostenversicherung vorgesehene Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei Krankentagegeldversicherungen
 
 Für die Berechnung der Alterungsrückstellung, der Rückstellung für das
 Krankentagegeld, der Deckungsrückstellung für das nach den Tarifen der
@@ -1995,257 +1989,289 @@ Sterbegeld) und der Deckungsrückstellung für das Sterbegeld bei
 Krankentagegeldversicherungen in der Umstellungsrechnung gelten in den
 Fällen der Ziffer III, 1b Abs. 2 und 1c der Ergänzungsrichtlinien Teil
 D die nachstehenden Grundsätze.
-I. Rechnungsgrundlagen
-1\. Sterbenswahrscheinlichkeiten (q) nach der Sterbetafel 1924/26
-Männer;
-2\. Abgangswahrscheinlichkeit (w): Sie ist rechnungsmäßig in der Weise
-zu berücksichtigen, daß sie, beginnend mit dem Alter 20, eine fallende
-Folge bildet, die spätestens mit dem Alter 80 endet. Der für das Alter
-20 anzusetzende Wert soll 10 vom Hundert nicht übersteigen. Eine
-Trennung der Abgangswahrscheinlichkeiten für Männer und für Frauen ist
-nicht erforderlich.
-Für alle Tarife sollen die gleichen Abgangswahrscheinlichkeiten
-verwendet werden. Nur in den Fällen, in denen offensichtlich ein nicht
-nur als vorübergehende Erscheinung zu wertender Sonderverlauf des
-vorzeitigen Abgangs in Erscheinung tritt, können andere - auch höhere
-- Abgangswahrscheinlichkeiten und/oder kürzere Folgedauern verwendet
-werden. Die Abweichung ist zu begründen. Die Ausscheideordnung ist
-dann folgendermaßen zu bilden:
-1'   = 1'
-21      20 (t - q    - w   )
-20     20
-1'   = 1'
-22      21 (t - q    - w   )
-21     21
-3\. Rechnungszinssatz: 3 1/2 vom Hundert.
 
-4.
-    a)  Für die Krankheitskostenversicherung: eine normierte Kopfschadentafel
-        (Anhang 1);
+I.  Rechnungsgrundlagen
+
+    1.  Sterbenswahrscheinlichkeiten (q) nach der Sterbetafel 1924/26 Männer;
 
 
-    b)  für die Krankheitstagegeldversicherung, soweit sie nach dem
-        sogenannten Hamburger System (keine Daueraussteuerung für das
-        Krankengeld) betrieben wird: ein Tafel der Krankheitsdauer (Anhang 2).
+    2.  Abgangswahrscheinlichkeit (w): Sie ist rechnungsmäßig in der Weise zu
+        berücksichtigen, daß sie, beginnend mit dem Alter 20, eine fallende
+        Folge bildet, die spätestens mit dem Alter 80 endet. Der für das Alter
+        20 anzusetzende Wert soll 10 vom Hundert nicht übersteigen. Eine
+        Trennung der Abgangswahrscheinlichkeiten für Männer und für Frauen ist
+        nicht erforderlich. Für alle Tarife sollen die gleichen
+        Abgangswahrscheinlichkeiten verwendet werden. Nur in den Fällen, in
+        denen offensichtlich ein nicht nur als vorübergehende Erscheinung zu
+        wertender Sonderverlauf des vorzeitigen Abgangs in Erscheinung tritt,
+        können andere - auch höhere - Abgangswahrscheinlichkeiten und/oder
+        kürzere Folgedauern verwendet werden. Die Abweichung ist zu begründen.
+        Die Ausscheideordnung ist dann folgendermaßen zu bilden:
+
+
+        *            *                ![bgbl3_1964_j0089_0010.jpg](bgbl3_1964_j0089_0010.jpg)
 
 
 
 
+    3.  Rechnungszinssatz: 3 1/2 vom Hundert.
 
 
-Bei den nach dem Hamburger System abgeschlossenen
-Krankentagegeldversicherungen, bei denen bei Eintritt der Dauer-
-Invalidität keine Krankengeldleistungen mehr gewährt werden, ist außer
-der Sterblichkeit und dem vorzeitigen Abgang auch die
-Invaliditätswahrscheinlichkeit zu berücksichtigen. Die dabei
-verwendeten Invaliditätswahrscheinlichkeiten sind anzugeben. Eine
-Abschrift der Dekremententafel ist vorzulegen. Ergibt sich aus den
-Erfahrungen der Unternehmung, daß bei ihr die Krankheitsdauern
-durchweg niedriger sind als die im Anhang 2 angegebenen, so kann dem
-bei der Errechnung der Grundtafel Rechnung getragen werden. Im
-Gutachten sind darüber ausführliche, die Abweichung begründende
-Angaben zu machen. Die verwendeten Werte der Krankheitsdauern und die
-mit ihnen aufgestellte Grundtafel sind vorzulegen.
-5\. Eine Abschrift der mittels der Grundlagen 1 bis 4 berechneten
-Grundtafel einschließlich der Kommutationswerte ist zur Genehmigung
-vorzulegen.
-II. Ermittlung des Grundkopfschadens in der
-Krankheitskostenversicherung
-1\. Bei der Verwendung der normierten Kopfschäden ist für jeden Tarif
-die Bestimmung des Grundkopfschadens erforderlich. Er ist für Männer
-und Frauen gesondert zu ermitteln.
-2\. Mehrere Tarife können zu Tarifgemeinschaften zusammengefaßt werden.
-In dem Gutachten ist anzugeben, ob und inwieweit derartige
-Zusammenfassungen erfolgt sind. Sie sind zu begründen.
-3\. Zugrunde zu legen ist der nach erreichtem Alter aufgegliederte
-mittlere Versichertenbestand des Jahres 1947. Läßt sich dieser Bestand
-nicht mehr feststellen, so kann der Berechnung der am 31. Dezember
-1947 vorhandene Versichertenbestand zugrunde gelegt werden. Wenn der
-Bestand für den 31. Dezember 1947 gegliedert nach Männern, Frauen und
-Kindern nicht vorliegt, so ist er unter Zuhilfenahme einer zu einem
-späteren Zeitpunkt festgestellten Gliederung abzuleiten. Im Gutachten
-ist anzugeben, wie der Bestand ermittelt worden ist.
-
-4.
-    a)  Es sind die für das Jahr 1947 gezahlten und zurückgestellten Schäden
-        zu ermitteln. Sollte dies nicht möglich sein, so kann statt dessen die
-        Summe der in 1947 ausgezahlten Schäden vermehrt um die
-        Schadensrückstellung zum 31. Dezember 1947 und vermindert um die
-        Schadensrückstellung zum 31. Dezember 1946 verwendet werden. Die
-        Ermittlung ist getrennt für Männer und Frauen durchzuführen; notfalls
-        kann diese Aufteilung schätzungsweise an Hand von Teiluntersuchungen
-        vorgenommen werden. Sie ist zu begründen.
+    4.
+        a)  Für die Krankheitskostenversicherung: eine normierte Kopfschadentafel
+            (Anhang 1);
 
 
-    b)  Die Schäden der Erwachsenen sind um den durch Beiträge nicht gedeckten
-        Teil der für Kinder gezahlten und zurückgestellten Leistungen zu
-        erhöhen. Dieser nicht durch Beiträge gedeckte Teil der Kinderschäden
-        ist auf die Männer- und Frauenschäden in angemessener Form (z.B. nach
-        der Zahl der versicherten Erwachsenen) zu verteilen.
+        b)  für die Krankheitstagegeldversicherung, soweit sie nach dem
+            sogenannten Hamburger System (keine Daueraussteuerung für das
+            Krankengeld) betrieben wird: ein Tafel der Krankheitsdauer (Anhang 2).
+
+
+
+
+        Bei den nach dem Hamburger System abgeschlossenen
+        Krankentagegeldversicherungen, bei denen bei Eintritt der Dauer-
+        Invalidität keine Krankengeldleistungen mehr gewährt werden, ist außer
+        der Sterblichkeit und dem vorzeitigen Abgang auch die
+        Invaliditätswahrscheinlichkeit zu berücksichtigen. Die dabei
+        verwendeten Invaliditätswahrscheinlichkeiten sind anzugeben. Eine
+        Abschrift der Dekremententafel ist vorzulegen. Ergibt sich aus den
+        Erfahrungen der Unternehmung, daß bei ihr die Krankheitsdauern
+        durchweg niedriger sind als die im Anhang 2 angegebenen, so kann dem
+        bei der Errechnung der Grundtafel Rechnung getragen werden. Im
+        Gutachten sind darüber ausführliche, die Abweichung begründende
+        Angaben zu machen. Die verwendeten Werte der Krankheitsdauern und die
+        mit ihnen aufgestellte Grundtafel sind vorzulegen.
+
+
+    5.  Eine Abschrift der mittels der Grundlagen 1 bis 4 berechneten
+        Grundtafel einschließlich der Kommutationswerte ist zur Genehmigung
+        vorzulegen.
 
 
 
 
 
+II. Ermittlung des Grundkopfschadens in der Krankheitskostenversicherung
 
-5\. Bezeichnet man die für Männer bzw. Frauen ermittelte
-Gesamtschadenssumme mit S und sind
-k , k
-t   t + 1
-die normierten Kopfschäden der Alter bzw. Gruppenalter
-t, t + 1 ..... und L , L      ....
-t   t + 1
-die Versichertenbestände der entsprechenden Alter, so erhält man den
-Wert des Grundkopfschadens G des in Frage kommenden Tarifs nach
-folgender Formel:
-S
-G =   ------------------------------------------
-x
-k x L + k       x L       + ............
-t   t    t + 1     t + 1
+    1.  Bei der Verwendung der normierten Kopfschäden ist für jeden Tarif die
+        Bestimmung des Grundkopfschadens erforderlich. Er ist für Männer und
+        Frauen gesondert zu ermitteln.
+
+
+    2.  Mehrere Tarife können zu Tarifgemeinschaften zusammengefaßt werden. In
+        dem Gutachten ist anzugeben, ob und inwieweit derartige
+        Zusammenfassungen erfolgt sind. Sie sind zu begründen.
+
+
+    3.  Zugrunde zu legen ist der nach erreichtem Alter aufgegliederte
+        mittlere Versichertenbestand des Jahres 1947. Läßt sich dieser Bestand
+        nicht mehr feststellen, so kann der Berechnung der am 31. Dezember
+        1947 vorhandene Versichertenbestand zugrunde gelegt werden. Wenn der
+        Bestand für den 31. Dezember 1947 gegliedert nach Männern, Frauen und
+        Kindern nicht vorliegt, so ist er unter Zuhilfenahme einer zu einem
+        späteren Zeitpunkt festgestellten Gliederung abzuleiten. Im Gutachten
+        ist anzugeben, wie der Bestand ermittelt worden ist.
+
+
+    4.
+        a)  Es sind die für das Jahr 1947 gezahlten und zurückgestellten Schäden
+            zu ermitteln. Sollte dies nicht möglich sein, so kann statt dessen die
+            Summe der in 1947 ausgezahlten Schäden vermehrt um die
+            Schadensrückstellung zum 31. Dezember 1947 und vermindert um die
+            Schadensrückstellung zum 31. Dezember 1946 verwendet werden. Die
+            Ermittlung ist getrennt für Männer und Frauen durchzuführen; notfalls
+            kann diese Aufteilung schätzungsweise an Hand von Teiluntersuchungen
+            vorgenommen werden. Sie ist zu begründen.
+
+
+        b)  Die Schäden der Erwachsenen sind um den durch Beiträge nicht gedeckten
+            Teil der für Kinder gezahlten und zurückgestellten Leistungen zu
+            erhöhen. Dieser nicht durch Beiträge gedeckte Teil der Kinderschäden
+            ist auf die Männer- und Frauenschäden in angemessener Form (z.B. nach
+            der Zahl der versicherten Erwachsenen) zu verteilen.
+
+
+
+
+
+    5.  Bezeichnet man die für Männer bzw. Frauen ermittelte
+        Gesamtschadenssumme mit S und sind
+
+        *            *                ![bgbl3_1964_j0090_0010.jpg](bgbl3_1964_j0090_0010.jpg)
+
+
+   die normierten Kopfschäden der Alter bzw. Gruppenalter
+
+        *            *                ![bgbl3_1964_j0090_0020.jpg](bgbl3_1964_j0090_0020.jpg)
+
+
+   die Versichertenbestände der entsprechenden Alter, so erhält man den
+        Wert des Grundkopfschadens G des in Frage kommenden Tarifs nach
+        folgender Formel:
+
+        *            *                ![bgbl3_1964_j0090_0030.jpg](bgbl3_1964_j0090_0030.jpg)
+
+
+
+
+
+
+
 III. Berechnung der Rückstellungen
 
-1.  Vorbemerkungen
+    1.  Vorbemerkungen
 
-    a)  Es können Altersgruppen von 5, höchstens 10 Jahren gebildet werden.
-        Als Berechnungsalter ist dann das mittlere Alter zugrunde zu legen.
-
-
-    b)  Die der Berechnung der Rückstellung zugrunde zu legende Nettoprämie
-        ist aus der Tarifprämie zu ermitteln. Es ist anzugeben, in welcher
-        Weise dies geschehen ist.
+        a)  Es können Altersgruppen von 5, höchstens 10 Jahren gebildet werden.
+            Als Berechnungsalter ist dann das mittlere Alter zugrunde zu legen.
 
 
-    c)  Es ist anzugeben, in welcher Weise die nach Abzug der Verwaltungs- und
-        Sicherheitszuschläge verbleibende Nettoprämie auf die Prämie für das
-        Krankheitskostenwagnis und für das Sterbegeldwagnis aufgeteilt worden
-        ist.
+        b)  Die der Berechnung der Rückstellung zugrunde zu legende Nettoprämie
+            ist aus der Tarifprämie zu ermitteln. Es ist anzugeben, in welcher
+            Weise dies geschehen ist.
 
 
-    d)  Für mitversicherte Kinder sind keine technischen Rückstellungen zu
-        berechnen und zu stellen. Dasselbe gilt für Jugendliche, die besondere
-        von den Kinder- und Erwachsenenbeiträgen abweichende Prämien zahlen.
+        c)  Es ist anzugeben, in welcher Weise die nach Abzug der Verwaltungs- und
+            Sicherheitszuschläge verbleibende Nettoprämie auf die Prämie für das
+            Krankheitskostenwagnis und für das Sterbegeldwagnis aufgeteilt worden
+            ist.
 
 
-    e)  Bei der Berechnung der Rückstellungen braucht die unterjährige
-        Prämienzahlungsweise und beim Sterbegeld dessen sofortige Zahlung im
-        Versicherungsfall nicht berücksichtigt zu werden.
+        d)  Für mitversicherte Kinder sind keine technischen Rückstellungen zu
+            berechnen und zu stellen. Dasselbe gilt für Jugendliche, die besondere
+            von den Kinder- und Erwachsenenbeiträgen abweichende Prämien zahlen.
 
 
-    f)  Ist das Sterbegeld gestaffelt, so ist der Berechnung der
-        Deckungsrückstellung das Höchststerbegeld zugrunde zu legen.
+        e)  Bei der Berechnung der Rückstellungen braucht die unterjährige
+            Prämienzahlungsweise und beim Sterbegeld dessen sofortige Zahlung im
+            Versicherungsfall nicht berücksichtigt zu werden.
 
 
-
-
-
-2.  Berechnung
-
-    a)  Die Berechnung der Alterungsrückstellung, der Rückstellung für das
-        Krankentagegeld, der Deckungsrückstellung für das unselbständige
-        Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei
-        Krankentagegeldversicherungen hat, für jede Art der Rückstellung
-        gesondert, nach der prospektiven Methode zu erfolgen.
-
-
-    b)  Soweit sich negative Deckungsrückstellungen ergeben, ist Null
-        einzusetzen.
+        f)  Ist das Sterbegeld gestaffelt, so ist der Berechnung der
+            Deckungsrückstellung das Höchststerbegeld zugrunde zu legen.
 
 
 
 
 
-3.  Berechnung der Rückstellung für das Krankentagegeld bei den
-    Krankengeldzuschußkassen, die nach dem "Nürnberger System" arbeiten
+    2.  Berechnung
 
-    Bei Krankengeldzuschußkassen, die die Krankentagegeldversicherung nach
-    dem "Nürnberger System" (Aussteuerung nach Maximaldauer) betreiben,
-    kann die Rückstellung für das Krankentagegeld nach folgendem Verfahren
-    ermittelt werden:
-
-    Festzustellen ist:
-
-    a)  der Grad (g) der durchschnittlichen Inanspruchnahme der Anwartschaften
-        (Ausnutzungsgrad),
+        a)  Die Berechnung der Alterungsrückstellung, der Rückstellung für das
+            Krankentagegeld, der Deckungsrückstellung für das unselbständige
+            Sterbegeld und der Deckungsrückstellung für das Sterbegeld bei
+            Krankentagegeldversicherungen hat, für jede Art der Rückstellung
+            gesondert, nach der prospektiven Methode zu erfolgen.
 
 
-    b)  die Zahl der Gesamtanwartschaftstage der Versicherten bis zum 20. Juni
-        1948 (T),
-
-
-    c)  die Zahl der Tage, für die bis zum 20. Juni 1948 bereits
-        Krankentagegeld bezogen worden ist (K),
-
-
-    d)  das Durchschnittsalter des Bestandes am 20. Juni 1948 (x),
-
-
-    e)  das durchschnittliche tägliche Krankengeld (M).
+        b)  Soweit sich negative Deckungsrückstellungen ergeben, ist Null
+            einzusetzen.
 
 
 
 
-    Die benötigten Zahlen können notfalls schätzungsweise an Hand von
-    Teiluntersuchungen ermittelt werden. Das gewählte Verfahren ist zu
-    begründen.
 
-    Beispiel:
+    3.  Berechnung der Rückstellung für das Krankentagegeld bei den
+        Krankengeldzuschußkassen, die nach dem "Nürnberger System" arbeiten
 
-    Es sei T = 10 Millionen Tage, K = 4 Millionen Tage. Bei einem
-    Ausnutzungsgrad von g = 60 vom Hundert ist die Zahl der Tage (N), für
-    welche die x (=43) Jahre alten Versicherten bis zum Ausscheiden noch
-    Krankentagegeld beziehen können:
+        Bei Krankengeldzuschußkassen, die die Krankentagegeldversicherung nach
+        dem "Nürnberger System" (Aussteuerung nach Maximaldauer) betreiben,
+        kann die Rückstellung für das Krankentagegeld nach folgendem Verfahren
+        ermittelt werden:
 
+        Festzustellen ist:
 
-
-N = T x g - K = 2 Millionen Tage
-
-*   Bis zur Beendigung aller Versicherungen des Bestandes durch Tod oder
-    Ausscheiden bei Lebzeiten ergibt sich insgesamt bei einem
-    durchschnittlichen täglichen Krankentagegeld von M = 2 DM
+        a)  der Grad (g) der durchschnittlichen Inanspruchnahme der Anwartschaften
+            (Ausnutzungsgrad),
 
 
+        b)  die Zahl der Gesamtanwartschaftstage der Versicherten bis zum 20. Juni
+            1948 (T),
 
-R = (T x g - K) x M = 4 Millionen DM.
 
-*   Dieser Betrag kann als eine beim Tod oder Ausscheiden fällige
-    Versicherungssumme angesehen werden. Der Jetztwert (P) dieser
-    Verpflichtung ist nach der Formel
-    P = (1 - d x a'x) x R zu errechnen, wobei d = 0,033816 zu setzen und
-    bei der Berechnung von a'x der vorzeitige Abgang in der unter I,2
-    angegebenen Form zu berücksichtigen ist. Liegt das durchschnittliche
-    Abgangsalter ungefähr fest (z.B. x'= 57 Jahre), so kann der Jetztwert
-    (P) der Verpflichtung auch ohne Berücksichtigung der
-    versicherungstechnischen Grundlagen durch Diskontierung mit dem
-    Zinssatz von 3 1/2 vom Hundert ermittelt werden. In dem angegebenen
-    Beispiel würde der Jetztwert in diesem Fall rund 2.470.000 DM
-    betragen.
+        c)  die Zahl der Tage, für die bis zum 20. Juni 1948 bereits
+            Krankentagegeld bezogen worden ist (K),
+
+
+        d)  das Durchschnittsalter des Bestandes am 20. Juni 1948 (x),
+
+
+        e)  das durchschnittliche tägliche Krankengeld (M).
+
+
+
+
+        Die benötigten Zahlen können notfalls schätzungsweise an Hand von
+        Teiluntersuchungen ermittelt werden. Das gewählte Verfahren ist zu
+        begründen.
+
+        Beispiel:
+
+        Es sei T = 10 Millionen Tage, K = 4 Millionen Tage. Bei einem
+        Ausnutzungsgrad von g = 60 vom Hundert ist die Zahl der Tage (N), für
+        welche die x (=43) Jahre alten Versicherten bis zum Ausscheiden noch
+        Krankentagegeld beziehen können:
+
+        *            *   N = T ∙ g — K = 2 Millionen Tage
+
+
+
+        Bis zur Beendigung aller Versicherungen des Bestandes durch Tod oder
+        Ausscheiden bei Lebzeiten ergibt sich insgesamt bei einem
+        durchschnittlichen täglichen Krankentagegeld von M = 2 DM
+
+        *            *   R = (T ∙ g — K) ∙ M = 4 Millionen DM.
+
+
+
+        Dieser Betrag kann als eine beim Tod oder Ausscheiden fällige
+        Versicherungssumme angesehen werden. Der Jetztwert (P) dieser
+        Verpflichtung ist nach der Formel
+        P = (1 — d ∙ a'x) ∙ R zu errechnen, wobei d = 0,033816 zu setzen und
+        bei der Berechnung von a'x der vorzeitige Abgang in der unter I,2
+        angegebenen Form zu berücksichtigen ist. Liegt das durchschnittliche
+        Abgangsalter ungefähr fest (z.B. x'= 57 Jahre), so kann der Jetztwert
+        (P) der Verpflichtung auch ohne Berücksichtigung der
+        versicherungstechnischen Grundlagen durch Diskontierung mit dem
+        Zinssatz von 3 1/2 vom Hundert ermittelt werden. In dem angegebenen
+        Beispiel würde der Jetztwert in diesem Fall rund 2 470 000 DM
+        betragen.
+
+
 
 
 
 IV. Schlußbemerkungen
-1\. Den so errechneten technischen Rückstellungen sind die im
-Reichsmarkabschluß zum 20. Juni 1948 ausgewiesenen entsprechenden
-Rückstellungen gegenüberzustellen. Sind die Rückstellungen, die nach
-den für die Dotierung bisher maßgebenden Grundsätzen im
-Reichsmarkabschluß einzusetzen gewesen wären, geringer als die nach I
-bis III errechneten Rückstellungen, so können die aus der
-Rückgängigmachung von Abschreibungen und der Auflösung freier
-Rücklagen oder überdotierter technischer Reserven, Rückstellungen und
-Wertberichtigungen gewonnenen Beträge zur Auffüllung unzulänglicher
-Rückstellungen im Reichsmarkabschluß verwendet werden. In die
-Umstellungsrechnung ist stets der niedrigere der beiden Werte (nach I
-bis III errechneter Betrag oder im Reichsmarkabschluß zum 20. Juni
-1948 ausgewiesener Betrag der technischen Rückstellungen) einzusetzen.
-Bei der Deckungsrückstellung für das unselbständige Sterbegeld ist
-dabei zu beachten, daß in die Umstellungsrechnung nur ein Zehntel der
-für den Reichsmarkabschluß berechneten Deckungsrückstellung eingesetzt
-werden darf.
-2\. Ist eine im Reichsmarkabschluß ausgewiesene Rückstellung höher als
-die berechnete, so ist der sich im Reichsmarkabschluß zwischen der
-bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende
-Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf
-auszuweisen.
+
+    1.  Den so errechneten technischen Rückstellungen sind die im
+        Reichsmarkabschluß zum 20. Juni 1948 ausgewiesenen entsprechenden
+        Rückstellungen gegenüberzustellen. Sind die Rückstellungen, die nach
+        den für die Dotierung bisher maßgebenden Grundsätzen im
+        Reichsmarkabschluß einzusetzen gewesen wären, geringer als die nach I
+        bis III errechneten Rückstellungen, so können die aus der
+        Rückgängigmachung von Abschreibungen und der Auflösung freier
+        Rücklagen oder überdotierter technischer Reserven, Rückstellungen und
+        Wertberichtigungen gewonnenen Beträge zur Auffüllung unzulänglicher
+        Rückstellungen im Reichsmarkabschluß verwendet werden. In die
+        Umstellungsrechnung ist stets der niedrigere der beiden Werte (nach I
+        bis III errechneter Betrag oder im Reichsmarkabschluß zum 20. Juni
+        1948 ausgewiesener Betrag der technischen Rückstellungen) einzusetzen.
+        Bei der Deckungsrückstellung für das unselbständige Sterbegeld ist
+        dabei zu beachten, daß in die Umstellungsrechnung nur ein Zehntel der
+        für den Reichsmarkabschluß berechneten Deckungsrückstellung eingesetzt
+        werden darf.
+
+
+    2.  Ist eine im Reichsmarkabschluß ausgewiesene Rückstellung höher als die
+        berechnete, so ist der sich im Reichsmarkabschluß zwischen der
+        bilanzmäßigen und der rechnungsmäßigen Rückstellung ergebende
+        Mehrbetrag als Rückstellung für den schwankenden Jahresbedarf
+        auszuweisen.
+
+
+
+
+
+
 
 
 #### Anhang 1 Normierte Kopfschäden

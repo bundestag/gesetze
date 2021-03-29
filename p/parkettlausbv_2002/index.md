@@ -341,8 +341,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2002 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Parkettleger/zur Parkettlegerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Parkettleger/zur Parkettlegerin
 
 (Fundstelle: BGBl. I 2002, 1855 - 1860)
 

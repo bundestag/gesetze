@@ -2,7 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Amtstracht bei den Bundesdisziplinargerichten
 jurabk: BPräsKldgBDiGAnO
 layout: default
-origslug: bpr_skldgbdigano
+origslug: bpraeskldgbdigano
 slug: bpraeskldgbdigano
 
 ---

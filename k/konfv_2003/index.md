@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2151
 
 Zuletzt geändert durch
-:   Art. 5 V v. 30.9.2008 I 1911
+:   Art. 7 V v. 5.7.2017 I 2272
 
 Mit dieser Verordnung wird die Richtlinie 2001/113/EG des Rates
 vom 20. Dezember 2001 über Konfitüren, Gelees, Marmeladen und
@@ -58,22 +58,34 @@ die in Anlage 3 aufgeführten Lebensmittel nach Maßgabe dieser Anlage
 verwendet werden.
 
 (3) Andere als die in den Absätzen 1 und 2 bezeichneten Zutaten dürfen
-beim gewerbsmäßigen Herstellen von Erzeugnissen nach Anlage 1 nicht
-verwendet werden. Die Vorschriften der Zusatzstoff-
-Zulassungsverordnung sind anzuwenden.
+unbeschadet der Verordnung (EG) Nr. 1333/2008 des Europäischen
+Parlaments und des Rates vom 16. Dezember 2008 über
+Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16) beim
+gewerbsmäßigen Herstellen von Erzeugnissen nach Anlage 1 nicht
+verwendet werden.
 
 
 ## § 3 Kennzeichnung
 
 (1) Für die in Anlage 1 aufgeführten Erzeugnisse sind die dort in
-Spalte 1 genannten Bezeichnungen Verkehrsbezeichnungen im Sinne der
-Lebensmittel-Kennzeichnungsverordnung.
+Spalte 1 genannten Bezeichnungen Bezeichnungen der Lebensmittel nach
+der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+(EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+30\.9.2016, S. 7) in der jeweils geltenden Fassung.
 
 (2) Die in Anlage 1 genannten Bezeichnungen sind den dort in Spalte 1
 genannten Erzeugnissen vorbehalten. Diese Bezeichnungen können die
-Verkehrsbezeichnungen anderer Erzeugnisse ergänzen, sofern diese mit
-den Erzeugnissen nach Anlage 1 nicht verwechselt werden können.
-Abweichend von Satz 1 können für Erzeugnisse
+Bezeichnungen der Lebensmittel anderer Erzeugnisse ergänzen, sofern
+diese mit den Erzeugnissen nach Anlage 1 nicht verwechselt werden
+können. Abweichend von Satz 1 können für Erzeugnisse
 
 1.  im Sinne der Anlage 1 Abschnitt I Nr. 2 die Bezeichnung "Marmelade"
     und
@@ -87,13 +99,13 @@ Abweichend von Satz 1 können für Erzeugnisse
 an Stelle der vorbehaltenen Bezeichnung beim Inverkehrbringen
 verwendet werden, wenn die Erzeugnisse auf örtlichen Märkten,
 insbesondere Bauernmärkten oder Wochenmärkten, an Verbraucher im Sinne
-des § 6 Abs. 1 des Lebensmittel- und Bedarfsgegenständegesetzes
+des § 3 Nummer 4 des Lebensmittel- und Futtermittelgesetzbuches
 abgegeben werden.
 
 (3) In Anlage 1 aufgeführte Erzeugnisse dürfen gewerbsmäßig nur in den
-Verkehr gebracht werden, wenn zusätzlich zu den nach der Lebensmittel-
-Kennzeichnungsverordnung vorgeschriebenen Angaben nach Maßgabe des
-Absatzes 5 angegeben sind:
+Verkehr gebracht werden, wenn zusätzlich zu den nach der Verordnung
+(EU) Nr. 1169/2011 vorgeschriebenen Angaben nach Maßgabe des Absatzes
+5 angegeben sind:
 
 1.  die verwendete Fruchtart oder die verwendeten Fruchtarten in
     absteigender Reihenfolge des Gewichtsanteils der verwendeten
@@ -120,15 +132,16 @@ Satz 1 Nr. 3 ist eine Abweichung von
 Refraktometerwert zulässig.
 
 (4) Die Angabe nach Absatz 3 Nr. 3 ist nicht erforderlich, wenn eine
-nährwertbezogene Angabe für Zucker nach Maßgabe der Nährwert-
-Kennzeichnungsverordnung gemacht wird.
+Nährwertdeklaration nach Maßgabe der Verordnung (EU) Nr. 1169/2011
+gemacht wird.
 
 (5) Die Angabe nach Absatz 3 Nr. 1 ist in Verbindung mit der
-Verkehrsbezeichnung anzubringen. Die Angaben nach Absatz 3 Nr. 2 und 3
-sind im selben Sichtfeld wie die Verkehrsbezeichnung anzubringen. Im
-Übrigen gilt für die Art und Weise der Kennzeichnung nach Absatz 3 § 3
-Abs. 3 Satz 1, 2 und 3 erster Halbsatz und Abs. 4 der Lebensmittel-
-Kennzeichnungsverordnung entsprechend.
+Bezeichnung des Lebensmittels anzubringen. Die Angaben nach Absatz 3
+Nr. 2 und 3 sind im selben Sichtfeld wie die Bezeichnung des
+Lebensmittels anzubringen. Im Übrigen gelten Artikel 8 Absatz 7,
+Artikel 12 Absatz 1 und 2 und Artikel 13 Absatz 1 bis 3 der Verordnung
+(EU) Nr. 1169/2011 und § 2 der Lebensmittelinformations-
+Durchführungsverordnung entsprechend.
 
 
 ## § 4 Verkehrsverbot
@@ -174,17 +187,18 @@ zum Abbau der Vorräte in den Verkehr gebracht werden.
 
 Der Bundesrat hat zugestimmt.
 
+(zu den §§ 1 bis 4)
 
-## Anlage 1 (zu den §§ 1 bis 4) Erzeugnisse
+## Anlage 1 Erzeugnisse
 
 (Fundstelle: BGBl. I 2003, 2153 - 2154;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   Abschnitt I
-        Verkehrsbezeichnungen, Herstellungsanforderungen
+        Bezeichnungen der Lebensmittel, Herstellungsanforderungen
 
 
-*    *   Verkehrsbezeichnung
+*    *   Bezeichnung des Lebensmittels
 
     *   Herstellungsanforderungen
 
@@ -206,7 +220,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         nachstehenden Früchte mit anderen Früchten darf keine Konfitüre extra
         hergestellt werden: Äpfel, Birnen, nicht steinlösende Pflaumen,
         Melonen, Wassermelonen, Trauben, Kürbisse, Gurken, Tomaten. Die für
-        die Herstellung von 1.000 g Enderzeugnis verwendete Menge Pülpe oder
+        die Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder
         Fruchtmark beträgt mindestens
 
 
@@ -266,7 +280,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         oder Fruchtmark einer oder mehrerer Fruchtarten und Wasser. Abweichend
         davon darf Konfitüre von Zitrusfrüchten aus der in Streifen oder in
         Stücke geschnittenen ganzen Frucht hergestellt werden. Die für die
-        Herstellung von 1.000 g Enderzeugnis verwendete Menge Pülpe oder
+        Herstellung von 1 000 g Enderzeugnis verwendete Menge Pülpe oder
         Fruchtmark beträgt mindestens
 
 
@@ -324,7 +338,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Gelee extra ist die streichfähige Zubereitung aus Zuckerarten sowie
         Saft oder wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für
-        die Herstellung von 1.000 g Enderzeugnis verwendete Menge an Saft oder
+        die Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder
         wässrigen Auszügen entspricht mindestens der für die Herstellung von
         Konfitüre extra vorgeschriebenen Menge. Die Mengenangaben gelten nach
         Abzug des Gewichts des für die Herstellung der wässrigen Auszüge
@@ -342,7 +356,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   Gelee ist streichfähige Zubereitung aus Zuckerarten sowie Saft oder
         wässrigen Auszügen einer oder mehrerer Fruchtarten. Die für die
-        Herstellung von 1.000 g Enderzeugnis verwendete Menge an Saft oder
+        Herstellung von 1 000 g Enderzeugnis verwendete Menge an Saft oder
         wässrigen Auszügen entspricht mindestens der für die Herstellung von
         Konfitüre vorgeschriebenen Menge. Die Mengenangaben gelten nach Abzug
         des Gewichts des für die Herstellung der wässrigen Auszüge verwendeten
@@ -358,7 +372,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   Marmelade ist die streichfähige Zubereitung aus Wasser, Zuckerarten
         und einem oder mehreren der nachstehenden, aus Zitrusfrüchten
         hergestellten Erzeugnisse: Pülpe, Fruchtmarkt, Saft, wässriger Auszug,
-        Schale. Die für die Herstellung von 1.000 g Enderzeugnis verwendete
+        Schale. Die für die Herstellung von 1 000 g Enderzeugnis verwendete
         Menge Zitrusfrüchte beträgt mindestens 200 g, von denen mindestens 75
         g dem Endokarp entstammen.
 
@@ -381,7 +395,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
     *   Maronenkrem ist die streichfähige Zubereitung aus Wasser, Zucker und
-        mindestens 380 g Maronenmark (von Castanea sativa) je 1.000 g
+        mindestens 380 g Maronenmark (von Castanea sativa) je 1 000 g
         Enderzeugnis.
 
 
@@ -396,8 +410,10 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 1.  Die in Abschnitt I definierten Erzeugnisse müssen mehr als 55 Prozent
     lösliche Trockenmasse (Refraktometerwert) enthalten; hiervon
     ausgenommen sind die Erzeugnisse, bei denen der Zucker ganz oder
-    teilweise durch Süßungsmittel nach Maßgabe der Zusatzstoff-
-    Zulassungsverordnung ersetzt wurde.
+    teilweise durch Süßungsmittel nach Maßgabe der Verordnung (EG) Nr.
+    1333/2008 des Europäischen Parlaments und des Rates vom 16. Dezember
+    2008 über Lebensmittelzusatzstoffe (ABl. L 354 vom 31.12.2008, S. 16)
+    in der jeweils geltenden Fassung ersetzt wurde.
 
 
 2.  Bei der Herstellung von Erzeugnissen nach Abschnitt I aus zwei oder
@@ -407,8 +423,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 2 Abs. 1 und § 4)
 
-## Anlage 2 (zu § 2 Abs. 1 und § 4) Ausgangserzeugnisse
+## Anlage 2 Ausgangserzeugnisse
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
@@ -530,8 +547,9 @@ Fundstelle des Originaltextes: BGBl. I 2003, 2155
 
 
 
+(zu § 2 Abs. 2)
 
-## Anlage 3 (zu § 2 Abs. 2) Zutaten
+## Anlage 3 Zutaten
 
 Fundstelle des Originaltextes: BGBl. I 2003, 2156
 

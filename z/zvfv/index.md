@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1822
 
+Geändert durch
+:   Art. 1 V v. 16.6.2014 I 754
+
 
 ## Eingangsformel
 
@@ -46,16 +49,56 @@ eingeführt:
 
 
 
-
-## § 3 Verbindlichkeit
-
-Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten
-Formulare verbindlich zu nutzen.
+Soweit die Forderung durch einen Beschluss bereits gepfändet worden
+ist, ist für den Antrag auf Überweisung dieser Forderung die Nutzung
+der Formulare nicht verbindlich.
 
 
-## § 4 Inkrafttreten
+## § 3 Zulässige Abweichungen; Einreichung des Antrags
 
-Diese Verordnung tritt am 1. September 2012 in Kraft.
+(1) Inhaltliche Abweichungen von den Formularen sind nicht zulässig.
+Anpassungen, die auf der Änderung von Rechtsvorschriften beruhen, sind
+zulässig.
+
+(2) Eine Abweichung von der formalen Gestaltung der Formulare ist
+nicht zulässig. Wenn das Papierformat DIN A4 erhalten bleibt und die
+Reihenfolge und Anordnung der Formularfelder der einzelnen Seiten und
+die Seitenumbrüche nicht verändert werden, sind folgende Abweichungen
+zulässig:
+
+1.  unwesentliche Änderung der Größe der Schrift,
+
+
+2.  unwesentliche Änderung sonstiger Formularelemente und
+
+
+3.  Verwendung nur der Farben Schwarz und Weiß sowie von Grautönen, soweit
+    die Lesbarkeit nicht beeinträchtigt wird.
+
+
+
+
+(3) Soweit für den beabsichtigten Antrag keine zweckmäßige
+Eintragungsmöglichkeit in dem Formular besteht, kann ein geeignetes
+Freifeld oder eine Anlage genutzt werden. Die Nutzung mehrerer
+Freifelder und Anlagen ist zulässig.
+
+(4) Es reicht aus, wenn der Antragsteller nur die Seiten des
+Formulars, auf denen sich Angaben des Antragstellers befinden, bei dem
+Gericht einreicht. Die nicht eingereichten Formularseiten sind auch in
+diesem Fall Teil des Antrags.
+
+
+## § 4 Formulare in elektronischer Form
+
+Die Länder dürfen Anpassungen von den in den Anlagen bestimmten
+Formularen zulassen, die es, ohne den Inhalt zu verändern oder dessen
+Verständnis zu erschweren, ermöglichen, die Formulare in
+elektronischer Form auszufüllen und dem Gericht als strukturierten
+Datensatz zu übermitteln. Für die elektronische Übermittlung sind die
+in den Formularen enthaltenen Angaben in das XML-Format zu übertragen.
+Die Länder können dazu durch Verwaltungsvereinbarung eine gemeinsame
+zentrale Koordinierungsstelle einrichten.
 
 
 ## Schlussformel
@@ -63,37 +106,35 @@ Diese Verordnung tritt am 1. September 2012 in Kraft.
 Der Bundesrat hat zugestimmt.
 
 
-## Anlage 1 (zu § 1) Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
+## § 5 Verbindlichkeit
 
-(Fundstelle: BGBl. I 2012, 1823 - 1826)
-
-
-
-
-    Die Größe der nachfolgenden Darstellung entspricht aus
-    drucktechnischen Gründen 91 Prozent des Dokuments.
-[^F777837_01_BJNR182200012BJNE000700000]: 
-
-## Anlage 2 (zu § 2 Nummer 2) Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses insbesondere wegen gewöhnlicher Geldforderungen
-
-(Fundstelle: BGBl. I 2012, 1827 - 1836)
+Vom 1. März 2013 an sind die gemäß den §§ 1 und 2 eingeführten
+Formulare verbindlich zu nutzen.
 
 
+## § 6 Übergangsregelung
+
+Für Anträge, die bis zum 1. November 2014 gestellt werden, können die
+bis zum 24. Juni 2014 bestimmten Formulare für den Antrag auf Erlass
+eines Pfändungs- und Überweisungsbeschlusses weiter genutzt werden.
+Für Anträge, die bis zum 1. Juni 2015 gestellt werden, kann das bis
+zum 24. Juni 2014 bestimmte Formular für den Antrag auf Erlass einer
+richterlichen Durchsuchungsanordnung weiter genutzt werden.
+
+(zu § 1)
+
+## Anlage 1 Antrag auf Erlass einer richterlichen Durchsuchungsanordnung
+
+(Fundstelle: BGBl. I 2014, 755 - 758)
 
 
 
 
+(zu § 2 Nummer 2)
 
+## Anlage 2 Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses insbesondere wegen gewöhnlicher Geldforderungen
 
-
-
-    Die Größe der nachfolgenden Darstellung entspricht aus
-    drucktechnischen Gründen 91 Prozent des Dokuments.
-[^F777837_02_BJNR182200012BJNE000800000]: 
-
-## Anlage 3 (zu § 2 Nummer 1) Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen Unterhaltsforderungen
-
-(Fundstelle: BGBl. I 2012, 1837 - 1847)
+(Fundstelle: BGBl. I 2014, 759 - 768)
 
 
 
@@ -104,7 +145,19 @@ Der Bundesrat hat zugestimmt.
 
 
 
+(zu § 2 Nummer 1)
 
-    Die Größe der nachfolgenden Darstellung entspricht aus
-    drucktechnischen Gründen 91 Prozent des Dokuments.
-[^F777837_03_BJNR182200012BJNE000900000]: 
+## Anlage 3 Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses wegen Unterhaltsforderungen
+
+(Fundstelle: BGBl. I 2014, 769 - 779)
+
+
+
+
+
+
+
+
+
+
+

@@ -2,7 +2,7 @@
 Title: Verordnung über den Betrieb der Fähren auf Bundeswasserstraßen
 jurabk: FäV
 layout: default
-origslug: f_v
+origslug: faev
 slug: faev
 
 ---
@@ -16,7 +16,10 @@ Fundstelle
 :   BGBl I: 1995, 752
 
 Zuletzt geändert durch
-:   Art. 3 § 12 V v. 19.12.2008 I 2868; 2010, 380
+:   Art. 2 § 2 V v. 2.3.2017 I 330
+
+Änderung durch
+:   Art. 2 § 5 V v. 21.9.2018 I 1398 (Nr. 33) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -55,36 +58,44 @@ Im Sinne dieser Verordnung ist
     behandelt wird,
 
 
-2.  Fährinhaber:
+2.  Kahnfähre:
+
+    eine zur Beförderung von Personen gebaute, offene Fähre, die durch
+    Muskelkraft fortbewegt wird,
+
+
+3.  Fährinhaber:
 
     der für den Betrieb und die Unterhaltung der Fähre verantwortliche
     Fährberechtigte oder Pächter der Fährberechtigung,
 
 
-3.  Fährführer:
+4.  Fährführer:
 
     der für die Führung einer Fähre sowie für den Verkehr auf der Fähre
     Verantwortliche,
 
 
-4.  Fährpersonal:
+5.  Fährpersonal:
 
     der Fährführer, die sonstigen Besatzungsmitglieder und der vom
     Fährinhaber mit der Verkehrsregelung auf der Fähre oder an der
     Anlegestelle zusätzlich Beauftragte,
 
 
-5.  Anlegestelle:
+6.  Anlegestelle:
 
     Anlagen und Einrichtungen am Ufer zum An- und Ablegen der Fähre,
 
 
-6.  Aufsichtsbehörde:
+7.  Aufsichtsbehörde:
 
-    das örtlich zuständige Wasser- und Schiffahrtsamt.
+    das örtlich zuständige Wasserstraßen- und Schifffahrtsamt.
 
 
 
+Im Falle einer Kahnfähre kann ein Hilfsantrieb ein- oder angebaut
+sein.
 
 
 ## § 2 Anwendungsbereich
@@ -92,9 +103,9 @@ Im Sinne dieser Verordnung ist
 Diese Verordnung regelt
 
 1.  den Betrieb und die Aufsicht über die Fähren auf den
-    Bundeswasserstraßen der Zonen 2 bis 4 nach dem Anhang I der
-    Binnenschiffsuntersuchungsordnung vom 6. Dezember 2008 (BGBl. I S.
-    2450) in ihrer jeweils geltenden Fassung,
+    Bundeswasserstraßen der Zonen 2 bis 4 nach Anhang I der
+    Binnenschiffsuntersuchungsordnung vom 21. September 2018 (BGBl. I S.
+    1398) in der jeweils geltenden und anzuwendenden Fassung,
 
 
 2.  das Verhalten des Fährpersonals, der Fährbenutzer an Bord und an den
@@ -120,9 +131,10 @@ Diese Verordnung ist nicht anzuwenden auf Fähren
 4.  des Zivil- und Katastrophenschutzes,
 
 
-5.  der Wasser- und Schiffahrtsverwaltung des Bundes, die nicht im
+5.  der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, die nicht im
     öffentlichen Verkehr verwendet werden; für die übrigen Fähren der
-    Wasser- und Schiffahrtsverwaltung gelten die §§ 4, 5 und 6 nicht,
+    Wasserstraßen- und Schifffahrtsverwaltung des Bundes gelten die §§ 4,
+    5 und 6 nicht,
 
 
 6.  der deutsch-luxemburgischen Grenzstrecke der Mosel.
@@ -131,24 +143,25 @@ Diese Verordnung ist nicht anzuwenden auf Fähren
 
 
 
-## § 4 Fähraufsicht
+## § 4 Überwachung der für den Betrieb der Fähre erforderlichen landseitigen Anlagen und ihr Zusammenwirken mit der Fähre
 
-(1) Der Fährbetrieb wird mindestens alle zweieinhalb Jahre von der
-Aufsichtsbehörde überprüft. Dazu ist die Fähre betriebsbereit,
-gereinigt und unbeladen vorzuführen. Unbeschadet des § 6 Abs. 2 des
-Binnenschiffahrtsaufgabengesetzes ist der Fährinhaber oder der
-Fährführer verpflichtet, auf Verlangen der Aufsichtsbehörde die zur
-Überprüfung notwendigen Probefahrten auszuführen oder solche Fahrten
-zu dulden. Die Aufsichtsbehörde stellt für jede Fähre, die von
-Deutschland aus betrieben wird, ein Fährprüfungsbuch nach dem Muster
-der Anlage in doppelter Ausfertigung aus, in dem das Ergebnis der
-Überprüfungen vermerkt wird. Der Fährinhaber ist verpflichtet, die in
-das Fährprüfungsbuch eingetragenen Mängel innerhalb des von der
-Aufsichtsbehörde dort festgesetzten Zeitraums zu beseitigen.
+(1) Die Aufsichtsbehörde überwacht den sicheren Zustand der für den
+Betrieb der Fähre erforderlichen landseitigen Anlagen aus
+strompolizeilicher Sicht, soweit diese nicht der technischen Zulassung
+nach der Binnenschiffsuntersuchungsordnung unterliegen. Der
+Fährinhaber hat den sicheren Zustand der landseitigen Anlagen auf
+besondere Anforderung durch die Aufsichtsbehörde durch ein Gutachten
+eines Technischen Überwachungsvereins oder eines öffentlich bestellten
+und vereidigten Sachverständigen nachzuweisen.
 
-(2) Die Aufsichtsbehörde kann den Fährbetrieb auch außerhalb der
-Prüfungen nach Absatz 1 jederzeit überprüfen und die Vorlage des
-Fährprüfungsbuches verlangen.
+(2) Die Aufsichtsbehörde kann unbeschadet des Absatzes 1 jederzeit das
+sichere Zusammenwirken einer Fähre mit den für ihren Betrieb
+erforderlichen landseitigen Anlagen überprüfen. Unbeschadet des § 6
+Absatz 2 des Binnenschifffahrtsaufgabengesetzes sind der Fährinhaber
+und der Fährführer verpflichtet, auf Verlangen der Aufsichtsbehörde
+die zur Überprüfung des Zusammenwirkens der Fähre mit den für ihren
+Betrieb erforderlichen landseitigen Anlagen notwendigen Probefahrten
+durchzuführen oder solche zu dulden.
 
 
 ## § 5 Fahrpläne
@@ -226,6 +239,9 @@ beleuchtet sind. Die Beleuchtung darf die Erkennbarkeit der
 Bordlichter nicht beeinträchtigen und keine störende Blendwirkung
 haben.
 
+(7) Der Fährführer hat dafür zu sorgen, dass während der Fahrt kein
+Betanken der Fähre durch Straßenfahrzeuge stattfindet.
+
 
 ## § 8 Betreten, Befahren und Verlassen der Fähre
 
@@ -233,7 +249,12 @@ Der Fährführer darf das Betreten, Befahren oder Verlassen der Fähre
 erst zulassen, nachdem die Fähre ordnungsgemäß an der Anlegestelle
 festgemacht ist und nachdem er sich davon überzeugt hat, daß das
 Betreten, Befahren oder Verlassen der Fähre ohne Gefahr möglich ist.
-Er kann die Reihenfolge des Zu- und Abgangs regeln.
+Er kann die Reihenfolge des Zu- und Abgangs regeln. Kann der
+Fährführer selbst seinen Verpflichtungen nach Satz 1 nicht nachkommen,
+hat er dafür Sorge zu tragen, dass das Betreten, Befahren oder
+Verlassen der Fähre erst zugelassen wird, nachdem die Fähre
+ordnungsgemäß an der Anlegestelle festgemacht ist und das gefahrlose
+Betreten, Befahren oder Verlassen der Fähre sichergestellt wurde.
 
 
 ## § 9 Verhalten der Fährbenutzer
@@ -275,21 +296,7 @@ Befahren der Fähre anzeigen.
 (1) Für die Beförderung gefährlicher Güter gelten auch auf Fähren die
 dafür erlassenen besonderen Vorschriften.
 
-(2) Abweichend von Anlage B.1 der Anlage 1 der Verordnung zur
-Inkraftsetzung der Verordnung über die Beförderung gefährlicher Güter
-auf dem Rhein und der Verordnung über die Beförderung gefährlicher
-Güter auf der Mosel vom 21. Dezember 1994 (BGBl. II S. 3830) - ADNR -
-und abweichend von § 1 Abs. 1 der Gefahrgutverordnung-Binnenschiffahrt
-vom 21. Dezember 1994 (BGBl. I S. 3971) dürfen mit Fähren gefährliche
-Güter der Klassen 2, 3, 4.1, 4.2, 4.3, 5.1, 5.2, 6.1, 6.2, 8 und 9 des
-ADNR auf Straßenfahrzeugen bei gleichzeitiger Anwesenheit von
-Fahrgästen befördert werden, wenn die Vorschriften der Ausnahme Nr. 20
-der Anlage zu § 1 Abs. 2 der Gefahrgut-Ausnahmeverordnung vom 23. Juni
-1993 (BGBl. I S. 994), die durch die Verordnung vom 24. März 1994
-(BGBl. I S. 625) geändert worden ist, in der jeweils geltenden Fassung
-eingehalten werden.
-
-(3) Wer als Benutzer einer Fähre gefährliche Güter befördern lassen
+(2) Wer als Benutzer einer Fähre gefährliche Güter befördern lassen
 will, hat dies dem Fährpersonal vor dem Betreten oder Befahren der
 Fähre anzuzeigen und seine Beförderungspapiere vorzulegen.
 
@@ -305,12 +312,15 @@ beschränken oder geeignete Auflagen erteilen, insbesondere durch
 Bestimmung eines Sicherheitsbereiches um das Fahrzeug.
 
 
-## § 12 Einstellung des Fährverkehrs
+## § 12 Einsatz der Fähre und Einstellung des Fährverkehrs
 
-Der Fährführer hat den Fährverkehr einzustellen, wenn das Übersetzen
-mit Gefahr verbunden ist. Eine Gefahr ist insbesondere dann gegeben,
-wenn der Wasserstand, die Eislage oder Sturm ein sicheres Übersetzen
-nicht mehr möglich erscheinen lassen.
+(1) Der Fährführer darf die Kahnfähre nicht in der Nacht zum
+Fährverkehr einsetzen.
+
+(2) Der Fährführer hat den Fährverkehr einzustellen, wenn das
+Übersetzen mit Gefahr verbunden ist. Eine Gefahr ist insbesondere dann
+gegeben, wenn der Wasserstand, die Eislage oder Sturm ein sicheres
+Übersetzen nicht mehr möglich erscheinen lassen.
 
 
 ## § 13 Sicherung der Fähre
@@ -334,7 +344,21 @@ Militärlastenklasse anbringt oder anbringen läßt. Er darf diese
 Hinweistafeln nicht entfernen, verändern oder unkenntlich machen.
 
 
-## § 15 Ordnungswidrigkeiten
+## § 15 Übergangsregelung
+
+Nach § 4 Absatz 1 Satz 4 dieser Verordnung in der am 31. Dezember 2012
+geltenden Fassung ausgestellte Fährprüfungsbücher gelten bis zum
+Ablauf von zweieinhalb Jahren seit dem Zeitpunkt der letztmaligen
+Überprüfung des Fährbetriebs fort. Der Fährführer hat die in Satz 1
+genannten Fährprüfungsbücher an Bord mitzuführen. Der Fährführer hat
+die Fährprüfungsbücher der Fähren, die ohne strom- und
+schifffahrtspolizeiliche Genehmigung nach dem
+Bundeswasserstraßengesetz betrieben werden, auch nach Ablauf ihrer
+Geltungsdauer für die Dauer des Betriebs der Fähre an Bord
+mitzuführen.
+
+
+## § 16 Ordnungswidrigkeiten
 
 Ordnungswidrig im Sinne des § 7 Abs. 1 des
 Binnenschiffahrtsaufgabengesetzes handelt, wer vorsätzlich oder
@@ -342,8 +366,8 @@ fahrlässig
 
 1.  als Fährinhaber
 
-    a)  entgegen § 4 Abs. 1 Satz 5 eingetragene Mängel nicht oder nicht
-        rechtzeitig beseitigt,
+    a)  entgegen § 4 Absatz 2 Satz 2 eine Probefahrt nicht oder nicht
+        rechtzeitig durchführt oder nicht duldet,
 
 
     b)  entgegen § 5 Abs. 1 eine Mitteilung nicht oder nicht rechtzeitig
@@ -367,33 +391,39 @@ fahrlässig
 
 2.  als Fährführer
 
-    a)  entgegen § 6 den Fährbetrieb von einer anderen als den dort genannten
+    a)  entgegen § 4 Absatz 2 Satz 2 eine Probefahrt nicht oder nicht
+        rechtzeitig durchführt oder nicht duldet,
+
+
+    b)  entgegen § 6 den Fährbetrieb von einer anderen als den dort genannten
         Anlegestellen aus durchführt,
 
 
-    b)  einer Vorschrift des § 7 Abs. 1 Satz 1, Abs. 2 bis 4 oder 6 über die
-        Sicherheit an Bord zuwiderhandelt,
+    c)  einer Vorschrift des § 7 Absatz 1 Satz 1, Absatz 2 bis 4, 6 oder 7
+        über die Sicherheit an Bord zuwiderhandelt,
 
 
-    c)  entgegen § 8 Satz 1 das Betreten, Befahren oder Verlassen der Fähre
+    d)  entgegen § 8 Satz 1 das Betreten, Befahren oder Verlassen der Fähre
         zuläßt,
 
 
-    d)  entgegen § 12 den Fährverkehr nicht einstellt oder
+    e)  entgegen § 12 Absatz 1 eine Kahnfähre einsetzt,
 
 
-    e)  entgegen § 13 die Fähre gegen unbefugte Benutzung nicht sichert.
+    f)  entgegen § 12 Absatz 2 den Fährverkehr nicht einstellt,
+
+
+    g)  entgegen § 13 die Fähre gegen unbefugte Benutzung nicht sichert oder
+
+
+    h)  entgegen § 15 Satz 2 oder Satz 3 ein dort genanntes Buch nicht
+        mitführt.
 
 
 
 
 
 
-
-
-## § 16
-
--
 
 
 ## § 17 Inkrafttreten, Außerkrafttreten
@@ -434,8 +464,6 @@ fahrlässig
 tretenden Vorschrift dürfen aufgebraucht werden.
 
 
-## Anlage Fährprüfungsbuch (zu § 4 Abs. 1)
+## Anlage (weggefallen)
 
-(Inhalt: Nicht darstellbare Formulare,
-Fundstelle: BGBl. I 1995, 756 - 766)
 

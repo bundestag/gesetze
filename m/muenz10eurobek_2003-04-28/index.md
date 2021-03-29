@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   Ausgabe 2003 -)
 jurabk: Münz10EuroBek 2003-04-28
 layout: default
-origslug: m_nz10eurobek_2003-04-28
+origslug: muenz10eurobek_2003-04-28
 slug: muenz10eurobek_2003-04-28
 
 ---

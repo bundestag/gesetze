@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 20.11.1998 I 3418;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 7.9.2007 I 2246
+:   Art. 14 G v. 10.3.2017 I 420
 
 
 ## § 1 Gaststättengewerbe
@@ -288,7 +288,6 @@ auf Widerruf gestattet werden.
 
 ## § 13 (weggefallen)
 
--
 
 
 ## § 14 Straußwirtschaften
@@ -376,7 +375,7 @@ Rücknahme und den Widerruf der Stellvertretungserlaubnis.
 
 ## § 18 Sperrzeit
 
-Für Schank- und Speisewirtschaften sowie für öffentliche
+(1) Für Schank- und Speisewirtschaften sowie für öffentliche
 Vergnügungsstätten kann durch Rechtsverordnung der Landesregierungen
 eine Sperrzeit allgemein festgesetzt werden. In der Rechtsverordnung
 ist zu bestimmen, daß die Sperrzeit bei Vorliegen eines öffentlichen
@@ -401,8 +400,11 @@ erforderlich ist.
 
 Verboten ist,
 
-1.  Branntwein oder überwiegend branntweinhaltige Lebensmittel durch
-    Automaten feilzuhalten,
+1.  Alkohol im Sinne des § 1 Absatz 2 Nummer 1 des Alkoholsteuergesetzes
+    vom 21. Juni 2013 (BGBl. I S. 1650, 1651), das zuletzt durch Artikel 6
+    des Gesetzes vom 10. März 2017 (BGBl. I S. 420) geändert worden ist,
+    in der jeweils geltenden Fassung, oder überwiegend alkoholhaltige
+    Lebensmittel durch Automaten feilzuhalten,
 
 
 2.  in Ausübung eines Gewerbes alkoholische Getränke an erkennbar
@@ -479,7 +481,7 @@ anderen Grunde überlassen und nicht Teil eines Gaststättenbetriebes
 sind, so finden die Vorschriften dieses Gesetzes mit Ausnahme der §§
 5, 6, 18, 22 sowie des § 28 Abs. 1 Nr. 2, 6, 11 und 12 und Absatz 2
 Nr. 1 keine Anwendung. Das Bundesministerium für Wirtschaft und
-Technologie kann mit Zustimmung des Bundesrates durch Rechtsverordnung
+Energie kann mit Zustimmung des Bundesrates durch Rechtsverordnung
 bestimmen, daß auch andere Vorschriften dieses Gesetzes Anwendung
 finden, wenn durch den Ausschank alkoholischer Getränke Gefahren für
 die Sittlichkeit oder für Leben oder Gesundheit der Gäste oder der
@@ -538,13 +540,12 @@ Rechtsverordnung die Ermächtigung auf oberste Landesbehörden
 
 (2) Die in Bayern bestehenden Kommunbrauberechtigungen sowie die in
 Rheinland-Pfalz bestehende Berechtigung zum Ausschank selbsterzeugten
-Branntweins erlöschen, wenn sie seit zehn Jahren nicht mehr ausgeübt
-worden sind.
+Alkohols im Sinne des Alkoholsteuergesetzes erlöschen, wenn sie seit
+zehn Jahren nicht mehr ausgeübt worden sind.
 
 
-## § 27
+## § 27 (weggefallen)
 
-(weggefallen)
 
 
 ## § 28 Ordnungswidrigkeiten
@@ -583,12 +584,12 @@ worden sind.
 7.  entgegen einem Verbot nach § 19 alkoholische Getränke verabreicht,
 
 
-8.  einem Verbot des § 20 Nr. 1 über das Feilhalten von Branntwein oder
-    überwiegend branntweinhaltigen Lebensmitteln zuwiderhandelt oder
-    entgegen dem Verbot des § 20 Nr. 3 das Verabreichen von Speisen von
-    der Bestellung von Getränken abhängig macht oder entgegen dem Verbot
-    des § 20 Nr. 4 das Verabreichen alkoholfreier Getränke von der
-    Bestellung alkoholischer Getränke abhängig macht,
+8.  einem Verbot des § 20 Nr. 1 über das Feilhalten von Alkohol oder
+    überwiegend alkoholhaltigen Lebensmitteln zuwiderhandelt oder entgegen
+    dem Verbot des § 20 Nr. 3 das Verabreichen von Speisen von der
+    Bestellung von Getränken abhängig macht oder entgegen dem Verbot des §
+    20 Nr. 4 das Verabreichen alkoholfreier Getränke von der Bestellung
+    alkoholischer Getränke abhängig macht,
 
 
 9.  entgegen dem Verbot des § 20 Nr. 2 in Ausübung eines Gewerbes
@@ -607,8 +608,8 @@ worden sind.
 
 
 12. den Vorschriften einer auf Grund der §§ 14, 18 Abs. 1, des § 21 Abs. 2
-    oder  des § 26 Abs. 1 Satz 2 erlassenen Rechtsverordnung
-    zuwiderhandelt, soweit die  Rechtsverordnung für einen bestimmten
+    oder des § 26 Abs. 1 Satz 2 erlassenen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
     Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
@@ -640,7 +641,6 @@ Euro geahndet werden.
 
 ## § 29 (weggefallen)
 
--
 
 
 ## § 30 Zuständigkeit und Verfahren
@@ -663,11 +663,6 @@ worden sind; die Vorschriften über den Arbeitsschutz werden durch
 dieses Gesetz nicht berührt.
 
 
-## § 32
-
-(weggefallen)
-
-
 ## § 32 Erprobungsklausel
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung zur
@@ -680,9 +675,8 @@ Europäischen Gemeinschaftsrechts beruhen und sich die Auswirkungen der
 Ausnahmen auf das Gebiet des jeweiligen Landes beschränken.
 
 
-## § 33
+## § 33 (Änderung anderer Vorschriften)
 
-(Änderung anderer Vorschriften)
 
 
 ## § 34 Übergangsvorschriften
@@ -715,20 +709,16 @@ Erlaubnis.
 
 ## § 35 (weggefallen)
 
--
 
 
-## § 36
-
-(Änderung anderer Vorschriften)
+## § 36 (Änderung anderer Vorschriften)
 
 
-## § 37
 
-(weggefallen)
+## § 37 (weggefallen)
 
 
-## § 38
 
-(Inkrafttreten)
+## § 38 (Inkrafttreten)
+
 

@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung der Beitragssätze in der gesetzlichen Rentenversich
   und bei der Bundesanstalt für Arbeit
 jurabk: BeitrSRV/BAÄndG
 layout: default
-origslug: beitrsrv_ba_ndg
+origslug: beitrsrv_baaendg
 slug: beitrsrv_baaendg
 
 ---

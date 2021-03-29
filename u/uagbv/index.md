@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1995, 2013
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2011 I 2727
+:   Art. 66 G v. 29.3.2017 I 626
 
 
 ## Eingangsformel
@@ -58,13 +58,13 @@ Umweltmanagements gerichtet sein.
 Bereich des Umweltschutzes ausgedehnt werden, wenn hierdurch die
 Aufgabenerfüllung nach Absatz 1 nicht beeinträchtigt wird. Die
 Erweiterung des Gesellschaftszwecks bedarf der Zustimmung des
-Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit; sie
-ist zu erteilen, soweit die beabsichtigte Erweiterung des
+Bundesministeriums für Umwelt, Naturschutz, Bau und Reaktorsicherheit;
+sie ist zu erteilen, soweit die beabsichtigte Erweiterung des
 Gesellschaftszwecks nicht der unabhängigen Aufgabenerfüllung
 entgegensteht.
 
 (3) Die Bestellung des Geschäftsführers der Beliehenen erfolgt in
-Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz und
+Abstimmung mit dem Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit. Es kann der Bestellung widersprechen, wenn durch
 die Bestellung des vorgeschlagenen Geschäftsführers die Eignung der
 Beliehenen im Sinne des § 28 des Umweltauditgesetzes in Frage gestellt
@@ -87,8 +87,8 @@ sicherzustellen. Hierzu gehört auch, daß
 
 
 
-(5) Die Beliehene hat dem Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit
+(5) Die Beliehene hat dem Bundesministerium für Umwelt, Naturschutz,
+Bau und Reaktorsicherheit
 
 1.  Änderungen des Gesellschaftsvertrags, die sich auf die Wahrnehmung
     ihrer Aufgaben auswirken können, mitzuteilen sowie
@@ -108,12 +108,12 @@ aufhebenden Verordnung. Bis zur Beendigung der Beleihung ist die
 Beliehene zur ordnungsgemäßen Wahrnehmung der ihr übertragenen
 Aufgaben verpflichtet.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit kann die Beleihung jederzeit aufheben. Die Beliehene
-kann die Beendigung der Beleihung jederzeit schriftlich verlangen; dem
-Begehren ist innerhalb einer angemessenen Frist, die zur Fortführung
-der Aufgabenerfüllung durch eine Stelle nach § 28 des
-Umweltauditgesetzes erforderlich ist, zu entsprechen.
+kann die Beendigung der Beleihung jederzeit schriftlich oder
+elektronisch verlangen; dem Begehren ist innerhalb einer angemessenen
+Frist, die zur Fortführung der Aufgabenerfüllung durch eine Stelle
+nach § 28 des Umweltauditgesetzes erforderlich ist, zu entsprechen.
 
 
 ## § 4 Inkrafttreten

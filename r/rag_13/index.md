@@ -53,23 +53,21 @@ Sozialversicherungs-Angleichungsgesetzes Saar vom 15. Juni 1963
 (1) Renten, die nach den
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
 Angestelltenversicherungsgesetzes oder §§ 53ff. des
-Reichsknappschaftsgesetzes              berechnet sind, sind so
-anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung
-von
+Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß
+sich eine Rente ergibt, wie sie sich nach Anwendung von
 § 1255 Abs. 1 letzter Halbsatz der Reichsversicherungsordnung, § 32
 Abs. 1 letzter Halbsatz des Angestelltenversicherungsgesetzes und § 54
-Abs. 1 letzter Halbsatz des Reichsknappschaftsgesetzes
-sowie der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die
-Rente ohne Änderung der übrigen Berechnungsfaktoren unter
-Zugrundelegung der allgemeinen Bemessungsgrundlage für das Jahr 1970
-und der Beitragsbemessungsgrenze der knappschaftlichen
-Rentenversicherung für dieses Jahr berechnet werden würde;
-Abweichungen infolge Abrundungen sind zulässig. Bei Leistungen oder
-Leistungsanteilen aus der knappschaftlichen Rentenversicherung sind
-die nach
+Abs. 1 letzter Halbsatz des Reichsknappschaftsgesetzes sowie der
+Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente ohne
+Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der
+allgemeinen Bemessungsgrundlage für das Jahr 1970 und der
+Beitragsbemessungsgrenze der knappschaftlichen Rentenversicherung für
+dieses Jahr berechnet werden würde; Abweichungen infolge Abrundungen
+sind zulässig. Bei Leistungen oder Leistungsanteilen aus der
+knappschaftlichen Rentenversicherung sind die nach
 Artikel 2 § 9 Abs. 1a des Knappschaftsrentenversicherungs-
-Neuregelungsgesetzes              für Versicherungsfälle des Jahres
-1970 maßgebenden Jahresbeträge zu berücksichtigen. Für
+Neuregelungsgesetzes für Versicherungsfälle des Jahres 1970
+maßgebenden Jahresbeträge zu berücksichtigen. Für
 Knappschaftsausgleichsleistungen gilt
 § 98a Abs. 2 Satz 1 des Reichsknappschaftsgesetzes. § 1282 Abs. 2 der
 Reichsversicherungsordnung, § 59 Abs. 2 des
@@ -88,13 +86,12 @@ allein oder in Verbindung mit § 53 Abs. 5 Satz 2, § 69 Abs. 2 Satz 2
 des Reichsknappschaftsgesetzes, Artikel 2 § 38 Abs. 3 Satz 4 zweiter
 Halbsatz des Arbeiterrentenversicherungs-Neuregelungsgesetzes oder
 Artikel 2 § 37 Abs. 3 Satz 4 zweiter Halbsatz des
-Angestelltenversicherungs-Neuregelungsgesetzes              angewendet
-worden ist.
+Angestelltenversicherungs-Neuregelungsgesetzes angewendet worden ist.
 
 (3) Absatz 1 gilt entsprechend für Renten der knappschaftlichen
 Rentenversicherung, die nach
 Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
-Neuregelungsgesetzes              gezahlt werden.
+Neuregelungsgesetzes gezahlt werden.
 
 
 ### § 3
@@ -440,16 +437,16 @@ gesetzlichen Unfallversicherung zusammentreffen, dürfen nach Anwendung
 der
 §§ 1278, 1279 der Reichsversicherungsordnung, §§ 55, 56 des
 Angestelltenversicherungsgesetzes und §§ 75, 76 des
-Reichsknappschaftsgesetzes              zusammen mit der Rente aus der
+Reichsknappschaftsgesetzes zusammen mit der Rente aus der
 Unfallversicherung den Betrag nicht unterschreiten, der als Summe
 dieser Renten für Dezember 1963 gezahlt worden ist; Kinderzuschüsse
 und Kinderzulagen bleiben unberücksichtigt.
 Satz 1 gilt auch in den Fällen des § 1282 Abs. 1 der
 Reichsversicherungsordnung, § 59 Abs. 1 des
 Angestelltenversicherungsgesetzes und § 79 Abs. 1 des
-Reichsknappschaftsgesetzes.              Ergibt in den übrigen Fällen
-die Anpassung nach dem Ersten Abschnitt keinen höheren als den
-bisherigen Zahlbetrag, so ist dieser weiterzuzahlen.
+Reichsknappschaftsgesetzes. Ergibt in den übrigen Fällen die Anpassung
+nach dem Ersten Abschnitt keinen höheren als den bisherigen
+Zahlbetrag, so ist dieser weiterzuzahlen.
 
 (2) Ist eine Geldleistung der gesetzlichen Unfallversicherung, die auf
 Grund der bisherigen gesetzlichen Vorschriften festgestellt worden ist

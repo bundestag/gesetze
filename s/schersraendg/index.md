@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung schadensersatzrechtlicher Vorschriften
 jurabk: SchErsRÄndG
 layout: default
-origslug: schersr_ndg
+origslug: schersraendg
 slug: schersraendg
 
 ---

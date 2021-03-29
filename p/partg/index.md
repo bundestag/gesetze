@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 31.1.1994 I 149;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 23.8.2011 I 1748
+:   Art. 1 G v. 10.7.2018 I 1116
 
 
 ## Erster Abschnitt - Allgemeine Bestimmungen
@@ -67,7 +67,11 @@ Personen sein.
 
 (2) Eine Vereinigung verliert ihre Rechtsstellung als Partei, wenn sie
 sechs Jahre lang weder an einer Bundestagswahl noch an einer
-Landtagswahl mit eigenen Wahlvorschlägen teilgenommen hat.
+Landtagswahl mit eigenen Wahlvorschlägen teilgenommen hat. Gleiches
+gilt, wenn eine Vereinigung sechs Jahre lang entgegen der Pflicht zur
+öffentlichen Rechenschaftslegung gemäß § 23 keinen
+Rechenschaftsbericht eingereicht hat; § 19a Absatz 3 Satz 5 gilt
+entsprechend.
 
 (3) Politische Vereinigungen sind nicht Parteien, wenn
 
@@ -488,16 +492,15 @@ die Summe ihrer Mitglieds- und Mandatsträgerbeiträge sowie der Umfang
 der von ihr eingeworbenen Spenden.
 
 (2) Das jährliche Gesamtvolumen staatlicher Mittel, das allen Parteien
-höchstens ausgezahlt werden darf, beträgt für das Jahr 2011 141,9
-Millionen Euro und für das Jahr 2012 150,8 Millionen Euro (absolute
-Obergrenze). Die absolute Obergrenze erhöht sich jährlich, jedoch
-erstmals für das Jahr 2013, um den Prozentsatz, abgerundet auf ein
-Zehntel Prozent, um den sich der Preisindex der für eine Partei
-typischen Ausgaben im dem Anspruchsjahr vorangegangenen Jahr erhöht
-hat. Grundlage des Preisindexes ist zu einem Wägungsanteil von 70
-Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent der
-Index der tariflichen Monatsgehälter der Arbeiter und Angestellten bei
-Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
+höchstens ausgezahlt werden darf, beträgt für die im Jahr 2019
+vorzunehmende Festsetzung 190 Millionen Euro (absolute Obergrenze).
+Die absolute Obergrenze erhöht sich jährlich um den Prozentsatz,
+abgerundet auf ein Zehntel Prozent, um den sich der Preisindex der für
+eine Partei typischen Ausgaben im dem Anspruchsjahr vorangegangenen
+Jahr erhöht hat. Grundlage des Preisindexes ist zu einem Wägungsanteil
+von 70 Prozent der allgemeine Verbraucherpreisindex und von 30 Prozent
+der Index der tariflichen Monatsgehälter der Arbeiter und Angestellten
+bei Gebietskörperschaften. Der Präsident des Statistischen Bundesamtes
 legt dem Deutschen Bundestag hierzu bis spätestens 30. April jedes
 Jahres einen Bericht über die Entwicklung des Preisindexes bezogen auf
 das vorangegangene Jahr vor. Der Bundestagspräsident veröffentlicht
@@ -508,16 +511,16 @@ Eurobeträge, als Bundestagsdrucksache.
 (3) Die Parteien erhalten jährlich im Rahmen der staatlichen
 Teilfinanzierung
 
-1.  0,70 Euro für jede für ihre jeweilige Liste abgegebene gültige Stimme
+1.  0,83 Euro für jede für ihre jeweilige Liste abgegebene gültige Stimme
     oder
 
 
-2.  0,70 Euro für jede für sie in einem Wahl- oder Stimmkreis abgegebene
+2.  0,83 Euro für jede für sie in einem Wahl- oder Stimmkreis abgegebene
     gültige Stimme, wenn in einem Land eine Liste für diese Partei nicht
     zugelassen war, und
 
 
-3.  0,38 Euro für jeden Euro, den sie als Zuwendung (eingezahlter
+3.  0,45 Euro für jeden Euro, den sie als Zuwendung (eingezahlter
     Mitglieds- oder Mandatsträgerbeitrag oder rechtmäßig erlangte Spende)
     erhalten haben; dabei werden nur Zuwendungen bis zu 3 300 Euro je
     natürliche Person berücksichtigt.
@@ -525,8 +528,10 @@ Teilfinanzierung
 
 
 Die Parteien erhalten abweichend von den Nummern 1 und 2 für die von
-ihnen jeweils erzielten bis zu vier Millionen gültigen Stimmen 0,85
-Euro je Stimme.
+ihnen jeweils erzielten bis zu vier Millionen gültigen Stimmen 1 Euro
+je Stimme. Die in Satz 1 Nummer 1 und 2 sowie in Satz 2 genannten
+Beträge erhöhen sich ab dem Jahr 2017 entsprechend Absatz 2 Satz 2 bis
+5\.
 
 (4) Anspruch auf staatliche Mittel gemäß Absatz 3 Nr. 1 und 3 haben
 Parteien, die nach dem endgültigen Wahlergebnis der jeweils letzten
@@ -550,6 +555,9 @@ Sachverständiger zu Fragen der Parteienfinanzierung berufen.
 
 (7) Löst sich eine Partei auf oder wird sie verboten, scheidet sie ab
 dem Zeitpunkt der Auflösung aus der staatlichen Teilfinanzierung aus.
+Gleiches gilt bei einer Feststellung des Bundesverfassungsgerichts
+nach § 46a des Bundesverfassungsgerichtsgesetzes ab dem Zeitpunkt der
+Entscheidung.
 
 
 ### § 19 Antragstellung für die staatliche Teilfinanzierung
@@ -619,9 +627,12 @@ inhaltlichen Richtigkeit gewahrt, wenn der Rechenschaftsbericht der in
 § 30 Abs. 2 trägt. Die Festsetzungen und Zahlungen an die übrigen
 Parteien bleiben unverändert.
 
-(4) Der Berechnung der relativen Obergrenze (§ 18 Abs. 5) sind die in
-den Rechenschaftsberichten des Rechenschaftsjahres veröffentlichten
-Einnahmen nach § 24 Abs. 4 Nr. 1 bis 7 zugrunde zu legen.
+(4) Der Berechnung der relativen Obergrenze (§ 18 Absatz 5) sind die
+in den Rechenschaftsberichten des Rechenschaftsjahres veröffentlichten
+Einnahmen nach § 24 Absatz 4 Nummer 1 bis 7 zugrunde zu legen. Dabei
+sind Einnahmen aus Unternehmenstätigkeit (§ 24 Absatz 4 Nummer 5) nur
+in Höhe des nach Abzug der Ausgaben (§ 24 Absatz 5 Nummer 2 Buchstabe
+f) verbleibenden Betrages zu berücksichtigen.
 
 (5) Bei der Festsetzung ist zunächst für jede Partei die relative
 Obergrenze (§ 18 Absatz 5) und sodann die absolute Obergrenze (§ 18
@@ -864,7 +875,10 @@ ihren Rechenschaftsunterlagen aufzubewahren.
 4.  Spenden von juristischen Personen,
 
 
-5.  Einnahmen aus Unternehmenstätigkeit und Beteiligungen,
+5.  Einnahmen aus Unternehmenstätigkeit,
+
+
+5a. Einnahmen aus Beteiligungen,
 
 
 6.  Einnahmen aus sonstigem Vermögen,
@@ -911,7 +925,10 @@ ihren Rechenschaftsunterlagen aufzubewahren.
     e)  sonstige Zinsen,
 
 
-    f)  sonstige Ausgaben,
+    f)  Ausgaben im Rahmen einer Unternehmenstätigkeit,
+
+
+    g)  sonstige Ausgaben,
 
 
 
@@ -1104,7 +1121,7 @@ unberücksichtigt.
 ### § 25 Spenden
 
 (1) Parteien sind berechtigt, Spenden anzunehmen. Bis zu einem Betrag
-von 1000 Euro kann eine Spende mittels Bargeld erfolgen.
+von 1 000 Euro kann eine Spende mittels Bargeld erfolgen.
 Parteimitglieder, die Empfänger von Spenden an die Partei sind, haben
 diese unverzüglich an ein für Finanzangelegenheiten von der Partei
 satzungsmäßig bestimmtes Vorstandsmitglied weiterzuleiten. Spenden
@@ -1148,7 +1165,7 @@ sind:
         Angehörige ihrer Volkszugehörigkeit leben oder
 
 
-    c)  es sich um eine Spende eines Ausländers von nicht mehr als 1.000 Euro
+    c)  es sich um eine Spende eines Ausländers von nicht mehr als 1 000 Euro
         handelt;
 
 
@@ -1182,14 +1199,15 @@ sind:
 
 
 
-(3) Spenden und Mandatsträgerbeiträge an eine Partei oder einen oder
-mehrere ihrer Gebietsverbände, deren Gesamtwert in einem Kalenderjahr
-(Rechnungsjahr) 10.000 Euro übersteigt, sind unter Angabe des Namens
-und der Anschrift des Spenders sowie der Gesamthöhe der Spende im
-Rechenschaftsbericht zu verzeichnen. Spenden, die im Einzelfall die
-Höhe von 50.000 Euro übersteigen, sind dem Präsidenten des Deutschen
-Bundestages unverzüglich anzuzeigen. Dieser veröffentlicht die
-Zuwendung unter Angabe des Zuwenders zeitnah als Bundestagsdrucksache.
+(3) Spenden, Mitgliedsbeiträge und Mandatsträgerbeiträge an eine
+Partei oder einen oder mehrere ihrer Gebietsverbände, deren Gesamtwert
+in einem Kalenderjahr (Rechnungsjahr) 10 000 Euro übersteigt, sind
+unter Angabe des Namens und der Anschrift des Zuwenders sowie der
+Gesamthöhe der Zuwendung im Rechenschaftsbericht zu verzeichnen.
+Spenden, die im Einzelfall die Höhe von 50 000 Euro übersteigen, sind
+dem Präsidenten des Deutschen Bundestages unverzüglich anzuzeigen.
+Dieser veröffentlicht die Zuwendung unter Angabe des Zuwenders zeitnah
+als Bundestagsdrucksache.
 
 (4) Nach Absatz 2 unzulässige Spenden sind von der Partei
 unverzüglich, spätestens mit Einreichung des Rechenschaftsberichts für
@@ -1216,9 +1234,9 @@ gewöhnlichen Geschäftsverkehr für gleiche oder vergleichbare
 Leistungen üblicherweise zu zahlenden Preisen anzusetzen.
 
 (4) Die ehrenamtliche Mitarbeit in Parteien erfolgt grundsätzlich
-unentgeltlich. Sach-, Werk- und Dienstleistungen, die die Mitglieder
+unentgeltlich. Sach-, Werk- und Dienstleistungen, die Parteien
 außerhalb eines Geschäftsbetriebes üblicherweise unentgeltlich zur
-Verfügung stellen, bleiben als Einnahmen unberücksichtigt. Ein
+Verfügung gestellt werden, bleiben als Einnahmen unberücksichtigt. Ein
 Kostenersatz bleibt hiervon unberührt.
 
 (5) Beiträge und staatliche Mittel, die von vornherein für eine
@@ -1255,8 +1273,10 @@ eines öffentlichen Wahlamtes (Mandatsträger) über seinen
 Mitgliedsbeitrag hinaus leistet. Spenden sind darüber hinausgehende
 Zahlungen. Dazu gehören auch Sonderumlagen und Sammlungen sowie
 geldwerte Zuwendungen aller Art, sofern sie nicht üblicherweise
-unentgeltlich von Mitgliedern außerhalb eines Geschäftsbetriebes zur
-Verfügung gestellt werden.
+unentgeltlich Parteien außerhalb eines Geschäftsbetriebes zur
+Verfügung gestellt werden oder eine hierfür dennoch vereinbarte
+Vergütung an die Partei zurückgeleitet oder auf eine solche Vergütung
+verzichtet wird.
 
 (2) Sonstige Einnahmen nach § 24 Abs. 4 Nr. 9 sind aufzugliedern und
 zu erläutern, wenn sie bei einer der in § 24 Abs. 3 aufgeführten
@@ -1430,23 +1450,17 @@ durch Verwaltungsakt fest. § 31a Abs. 2 bis 5 gilt entsprechend.
 
 ### § 31c Rechtswidrig erlangte oder nicht veröffentlichte Spenden
 
-(1) Hat eine Partei Spenden unter Verstoß gegen § 25 Abs. 2 angenommen
-und nicht gemäß § 25 Abs. 4 an den Präsidenten des Deutschen
-Bundestages weitergeleitet, entsteht gegen sie ein Anspruch in Höhe
-des Dreifachen des rechtswidrig erlangten Betrages; bereits abgeführte
-Spenden werden angerechnet. Hat eine Partei Spenden nicht den
-Vorschriften dieses Gesetzes entsprechend im Rechenschaftsbericht
-veröffentlicht (§ 25 Abs. 3), entsteht gegen sie ein Anspruch in Höhe
-des Zweifachen des nicht den Vorschriften dieses Gesetzes entsprechend
-veröffentlichten Betrages. Der Präsident stellt die Verpflichtung der
-Partei zur Zahlung des Betrages durch Verwaltungsakt fest. § 31a Abs.
-2 bis 5 gilt entsprechend.
-
-(2) Der Präsident des Deutschen Bundestages leitet im Einvernehmen mit
-dem Präsidium des Deutschen Bundestages die innerhalb eines
-Kalenderjahres eingegangenen Mittel zu Beginn des nächsten
-Kalenderjahres an Einrichtungen weiter, die mildtätigen, kirchlichen,
-religiösen oder wissenschaftlichen Zwecken dienen.
+Hat eine Partei Spenden unter Verstoß gegen § 25 Abs. 2 angenommen und
+nicht gemäß § 25 Abs. 4 an den Präsidenten des Deutschen Bundestages
+weitergeleitet, entsteht gegen sie ein Anspruch in Höhe des Dreifachen
+des rechtswidrig erlangten Betrages; bereits abgeführte Spenden werden
+angerechnet. Hat eine Partei Spenden nicht den Vorschriften dieses
+Gesetzes entsprechend im Rechenschaftsbericht veröffentlicht (§ 25
+Abs. 3), entsteht gegen sie ein Anspruch in Höhe des Zweifachen des
+nicht den Vorschriften dieses Gesetzes entsprechend veröffentlichten
+Betrages. Der Präsident stellt die Verpflichtung der Partei zur
+Zahlung des Betrages durch Verwaltungsakt fest. § 31a Abs. 2 bis 5
+gilt entsprechend.
 
 
 ### § 31d Strafvorschriften
@@ -1572,14 +1586,22 @@ sind, wird § 8 Abs. 2 des Vereinsgesetzes entsprechend angewandt.
 angewandt.
 
 
-### § 38 Zwangsmittel des Bundeswahlleiters
+### § 38 Zwangsmittel
 
-Der Bundeswahlleiter kann den Vorstand der Partei zur Vornahme der
+(1) Der Bundeswahlleiter kann den Vorstand der Partei zur Vornahme der
 Handlungen nach § 6 Abs. 3 durch ein Zwangsgeld anhalten. Die
 Vorschriften des Verwaltungs-Vollstreckungsgesetzes gelten sinngemäß;
 der Bundeswahlleiter handelt insoweit als Vollstreckungs- und
 Vollzugsbehörde. Die Höhe des Zwangsgeldes beträgt mindestens 250 Euro
-und höchstens 1.500 Euro.
+und höchstens 1 500 Euro.
+
+(2) Der Präsident des Deutschen Bundestages kann den Vorstand der
+Partei zur Einreichung eines Rechenschaftsberichts, der den
+Vorschriften des Fünften Abschnitts entspricht, durch ein Zwangsgeld
+anhalten. Die Vorschriften des Verwaltungs-Vollstreckungsgesetzes
+gelten sinngemäß; der Präsident des Deutschen Bundestages handelt
+insoweit als Vollstreckungs- und Vollzugsbehörde. Die Höhe des
+Zwangsgeldes beträgt mindestens 500 Euro und höchstens 10 000 Euro.
 
 
 ### § 39 Abschluss- und Übergangsregelungen
@@ -1612,6 +1634,16 @@ für Vermögensgegenstände, bei denen nach § 28 Abs. 2 keine planmäßigen
 Abschreibungen vorzunehmen sind, sofern die Buchwerte nach
 handelsrechtlichen Grundlagen ermittelt worden sind. Im
 Erläuterungsteil ist hierauf hinzuweisen.
+
+(5) § 2 Absatz 2 Satz 2 findet auf in der Frist des § 19a Absatz 3
+Satz 1 und 2 einzureichende Rechenschaftsberichte ab dem
+Rechenschaftsjahr 2016 Anwendung. § 19a Absatz 4 Satz 2 findet auf in
+der Frist des § 19a Absatz 3 Satz 1 und 2 einzureichende
+Rechenschaftsberichte ab dem Rechenschaftsjahr 2015 Anwendung. Für die
+Berechnung des Gesamtwertes der Zuwendungen nach § 25 Absatz 3 Satz 1
+sind für das Rechenschaftsjahr 2015 Zuwendungen gemäß § 25 Absatz 3
+Satz 1 in der bis zum Ablauf des 31. Dezember 2015 geltenden Fassung
+zugrunde zu legen.
 
 
 ### § 40

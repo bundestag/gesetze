@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1951, 347
 
 Zuletzt geändert durch
-:   Art. 220 V v. 31.10.2006 I 2407
+:   Art. 5 G v. 24.4.2015 I 642
 
 
 ## Erster Teil - Allgemeines
@@ -169,7 +169,16 @@ Die in § 4 Abs. 1 Buchstabe a bezeichneten Mitglieder des
 Aufsichtsrats werden durch das nach Gesetz, Satzung oder
 Gesellschaftsvertrag zur Wahl von Aufsichtsratsmitgliedern berufene
 Organ (Wahlorgan) nach Maßgabe der Satzung oder des
-Gesellschaftsvertrags gewählt.
+Gesellschaftsvertrags gewählt oder entsandt.
+
+
+### § 5a
+
+Unter den in § 4 Absatz 1 Buchstabe b bezeichneten Mitgliedern des
+Aufsichtsrates eines in § 1 genannten, börsennotierten Unternehmens
+müssen im Fall des § 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und
+Männer jeweils mit einem Anteil von mindestens 30 Prozent vertreten
+sein.
 
 
 ### § 6
@@ -215,7 +224,12 @@ Aufsichtsratsmitglied vorgeschlagen, so bedarf der Vorschlag gegenüber
 dem Wahlorgan der Mehrheit der Stimmen der Mitglieder der
 Betriebsräte.
 
-(6) Das Wahlorgan ist an die Vorschläge der Betriebsräte gebunden.
+(6) Bei börsennotierten Unternehmen kann im Fall des § 96 Absatz 2
+Satz 3 des Aktiengesetzes ein Vorschlag an das Wahlorgan nur erfolgen,
+wenn die Vorgaben des § 5a durch eine Wahl nach den Absätzen 1 und 5
+erfüllt worden sind.
+
+(7) Das Wahlorgan ist an die Vorschläge der Betriebsräte gebunden.
 
 
 ### § 7
@@ -343,43 +357,6 @@ Geschäftsordnung.
 
 
 ### § 14
-
-(1) Die Vorschriften dieses Gesetzes treten in Kraft
-
-a)  für Unternehmen, die dem Gesetz Nr. 27 der Alliierten Hohen Kommission
-    nicht unterliegen, am 31. Dezember 1951,
-
-
-b)  für Unternehmen, die aus der Kontrolle nach dem Gesetz Nr. 27 der
-    Alliierten Hohen Kommission entlassen werden, im Zeitpunkt ihrer
-    Entlassung, spätestens am 31. Dezember 1951,
-
-
-c)  für Unternehmen, die auf Grund des Gesetzes Nr. 27 der Alliierten
-    Hohen Kommission in eine "Einheitsgesellschaft" überführt werden, mit
-    deren Errichtung, spätestens am 31. Dezember 1951,
-
-
-d)  für die übrigen Unternehmen in dem Zeitpunkt, in dem feststeht, daß
-    sie auf Grund des Gesetzes Nr. 27 der Alliierten Hohen Kommission
-    nicht in eine "Einheitsgesellschaft" überführt werden, spätestens am
-    31\. Dezember 1951.
-
-
-
-
-(2)
-
-
-### § 14a
-
-Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
-Überleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf
-Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach § 14
-des Dritten Überleitungsgesetzes.
-
-
-### § 15
 
 Die Bundesregierung wird ermächtigt, durch Rechtsverordnung
 Vorschriften zu erlassen über

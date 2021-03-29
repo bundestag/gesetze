@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 23.7.1993 I 1288, 1594;
 
 Zuletzt geändert durch
-:   Art. 1 G v. 12.7.2012 I 1501
+:   Art. 2 G v. 10.7.2018 I 1116
 
 
 ## Erster Abschnitt - Wahlsystem
@@ -98,9 +98,10 @@ mögliche Wahlkreiszuteilungen, erarbeitet sie hierzu Vorschläge.
 Innern innerhalb von fünfzehn Monaten nach Beginn der Wahlperiode des
 Deutschen Bundestages zu erstatten. Das Bundesministerium des Innern
 leitet ihn unverzüglich dem Deutschen Bundestag zu und veröffentlicht
-ihn im Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern
-hat die Wahlkreiskommission einen ergänzenden Bericht zu erstatten;
-für diesen Fall gilt Satz 2 entsprechend.
+einen Hinweis auf die Veröffentlichung als Bundestagsdrucksache im
+Bundesanzeiger. Auf Ersuchen des Bundesministeriums des Innern hat die
+Wahlkreiskommission einen ergänzenden Bericht zu erstatten; für diesen
+Fall gilt Satz 2 entsprechend.
 
 (5) Werden Landesgrenzen nach den gesetzlichen Vorschriften über das
 Verfahren bei sonstigen Änderungen des Gebietsbestandes der Länder
@@ -132,87 +133,86 @@ Stimmengleichheit entscheidet das vom Kreiswahlleiter zu ziehende Los.
 
 ### § 6 Wahl nach Landeslisten
 
-(1)
-Die von der Gesamtzahl der Sitze (§ 1 Absatz 1) auf jedes Land
-entfallende Zahl der Sitze wird nach der Zahl der Wähler in jedem Land
-mit demselben Berechnungsverfahren ermittelt, das nach Absatz 2 Satz 2
-bis 7 für die Verteilung der Sitze auf die Landeslisten angewandt
-wird.              Von der Zahl der auf das Land entfallenden
-Abgeordneten wird die Zahl der erfolgreichen Wahlkreisbewerber
-abgezogen, die in Satz 4 genannt sind. Für die Verteilung der nach
-Landeslisten zu besetzenden Sitze werden die für jede Landesliste
-abgegebenen Zweitstimmen zusammengezählt. Nicht berücksichtigt werden
-dabei die Zweitstimmen derjenigen Wähler, die ihre Erststimme für
-einen im Wahlkreis erfolgreichen Bewerber abgegeben haben, der gemäß §
-20 Abs. 3 oder von einer Partei vorgeschlagen ist, die nach Absatz 6
-bei der Sitzverteilung nicht berücksichtigt wird oder für die in dem
-betreffenden Land keine Landesliste zugelassen ist.
+(1) Für die Verteilung der nach Landeslisten zu besetzenden Sitze
+werden die für jede Landesliste abgegebenen Zweitstimmen
+zusammengezählt. Nicht berücksichtigt werden dabei die Zweitstimmen
+derjenigen Wähler, die ihre Erststimme für einen im Wahlkreis
+erfolgreichen Bewerber abgegeben haben, der gemäß § 20 Absatz 3 oder
+von einer Partei vorgeschlagen ist, die nach Absatz 3 bei der
+Sitzverteilung nicht berücksichtigt wird oder für die in dem
+betreffenden Land keine Landesliste zugelassen ist. Von der Gesamtzahl
+der Abgeordneten (§ 1 Absatz 1) wird die Zahl der erfolgreichen
+Wahlkreisbewerber abgezogen, die in Satz 2 genannt sind.
 
-(2) Die nach Absatz 1 Satz 2 verbleibenden Sitze werden auf die
-Landeslisten auf der Grundlage der nach Absatz 1 Satz 3 und 4 zu
-berücksichtigenden Zweitstimmen wie folgt verteilt. Jede Landesliste
-erhält so viele Sitze, wie sich nach Teilung der Summe ihrer
-erhaltenen Zweitstimmen durch einen Zuteilungsdivisor ergeben.
-Zahlenbruchteile unter 0,5 werden auf die darunter liegende ganze Zahl
-abgerundet, solche über 0,5 werden auf die darüber liegende ganze Zahl
+(2) In einer ersten Verteilung wird zunächst die Gesamtzahl der Sitze
+(§ 1 Absatz 1) in dem in Satz 2 bis 7 beschriebenen
+Berechnungsverfahren den Ländern nach deren Bevölkerungsanteil (§ 3
+Absatz 1) und sodann in jedem Land die Zahl der dort nach Absatz 1
+Satz 3 verbleibenden Sitze auf der Grundlage der zu berücksichtigenden
+Zweitstimmen den Landeslisten zugeordnet. Jede Landesliste erhält so
+viele Sitze, wie sich nach Teilung der Summe ihrer erhaltenen
+Zweitstimmen durch einen Zuteilungsdivisor ergeben. Zahlenbruchteile
+unter 0,5 werden auf die darunter liegende ganze Zahl abgerundet,
+solche über 0,5 werden auf die darüber liegende ganze Zahl
 aufgerundet. Zahlenbruchteile, die gleich 0,5 sind, werden so
-aufgerundet oder abgerundet, dass die Gesamtzahl der zu vergebenden
-Sitze eingehalten wird; ergeben sich dabei mehrere mögliche
-Sitzzuteilungen, so entscheidet das vom Bundeswahlleiter zu ziehende
-Los. Der Zuteilungsdivisor ist so zu bestimmen, dass insgesamt so
-viele Sitze auf die Landeslisten entfallen, wie Sitze zu vergeben
-sind. Dazu wird zunächst die Gesamtzahl der Zweitstimmen aller zu
-berücksichtigenden Landeslisten durch die Gesamtzahl der nach Absatz 1
-Satz 2 verbleibenden Sitze geteilt. Entfallen danach mehr Sitze auf
-die Landeslisten als Sitze zu vergeben sind, ist der Zuteilungsdivisor
-so heraufzusetzen, dass sich bei der Berechnung die zu vergebende
+aufgerundet oder abgerundet, dass die Zahl der zu vergebenden Sitze
+eingehalten wird; ergeben sich dabei mehrere mögliche Sitzzuteilungen,
+so entscheidet das vom Bundeswahlleiter zu ziehende Los. Der
+Zuteilungsdivisor ist so zu bestimmen, dass insgesamt so viele Sitze
+auf die Landeslisten entfallen, wie Sitze zu vergeben sind. Dazu wird
+zunächst die Gesamtzahl der Zweitstimmen aller zu berücksichtigenden
+Landeslisten durch die Zahl der jeweils nach Absatz 1 Satz 3
+verbleibenden Sitze geteilt. Entfallen danach mehr Sitze auf die
+Landeslisten, als Sitze zu vergeben sind, ist der Zuteilungsdivisor so
+heraufzusetzen, dass sich bei der Berechnung die zu vergebende
 Sitzzahl ergibt; entfallen zu wenig Sitze auf die Landeslisten, ist
 der Zuteilungsdivisor entsprechend herunterzusetzen.
 
-(2a) Den Landeslisten einer Partei werden in der Reihenfolge der
-höchsten Reststimmenzahlen so viele weitere Sitze zugeteilt, wie nach
-Absatz 2 Satz 3 und 4 zweiter Halbsatz ganze Zahlen anfallen, wenn die
-Summe der positiven Abweichungen der auf die Landeslisten entfallenen
-Zweitstimmen von den im jeweiligen Land für die errungenen Sitze
-erforderlichen Zweitstimmen (Reststimmenzahl) durch die im Wahlgebiet
-für einen der zu vergebenden Sitze erforderliche Zweitstimmenzahl
-geteilt wird. Dabei werden Landeslisten, bei denen die Zahl der in den
-Wahlkreisen errungenen Sitze die Zahl der nach den Absätzen 2 und 3 zu
-verteilenden Sitze übersteigt, in der Reihenfolge der höchsten Zahlen
-und bis zu der Gesamtzahl der ihnen nach Absatz 5 verbleibenden Sitze
-vorrangig berücksichtigt. Die Gesamtzahl der Sitze (§ 1 Absatz 1)
-erhöht sich um die Unterschiedszahl.
+(3) Bei Verteilung der Sitze auf die Landeslisten werden nur Parteien
+berücksichtigt, die mindestens 5 Prozent der im Wahlgebiet abgegebenen
+gültigen Zweitstimmen erhalten oder in mindestens drei Wahlkreisen
+einen Sitz errungen haben. Satz 1 findet auf die von Parteien
+nationaler Minderheiten eingereichten Listen keine Anwendung.
 
-(3) Erhält bei der Verteilung der Sitze nach den Absätzen 2 und 2a
-eine Partei, auf deren Landeslisten im Wahlgebiet mehr als die Hälfte
-der Gesamtzahl der Zweitstimmen aller zu berücksichtigenden
-Landeslisten entfallen ist, nicht mehr als die Hälfte der zu
-vergebenden Sitze, werden den Landeslisten dieser Partei in der
-Reihenfolge der höchsten Reststimmenzahlen weitere Sitze zugeteilt,
-bis auf die Landeslisten dieser Partei ein Sitz mehr als die Hälfte
-der im Wahlgebiet zu vergebenden Sitze entfällt. In einem solchen
-Falle erhöht sich die Gesamtzahl der Sitze (§ 1 Absatz 1) um die
+(4) Von der für jede Landesliste so ermittelten Sitzzahl wird die Zahl
+der von der Partei in den Wahlkreisen des Landes errungenen Sitze (§
+5) abgerechnet. In den Wahlkreisen errungene Sitze verbleiben einer
+Partei auch dann, wenn sie die nach den Absätzen 2 und 3 ermittelte
+Zahl übersteigen.
+
+(5) Die Zahl der nach Absatz 1 Satz 3 verbleibenden Sitze wird so
+lange erhöht, bis jede Partei bei der zweiten Verteilung der Sitze
+nach Absatz 6 Satz 1 mindestens die bei der ersten Verteilung nach den
+Absätzen 2 und 3 für sie ermittelten zuzüglich der in den Wahlkreisen
+errungenen Sitze erhält, die nicht nach Absatz 4 Satz 1 von der Zahl
+der für die Landesliste ermittelten Sitze abgerechnet werden können.
+Die Gesamtzahl der Sitze (§ 1 Absatz 1) erhöht sich um die
 Unterschiedszahl.
 
-(4) Von der für jede Landesliste so ermittelten Abgeordnetenzahl wird
-die Zahl der von der Partei in den Wahlkreisen des Landes errungenen
-Sitze abgerechnet. Die restlichen Sitze werden aus der Landesliste in
+(6) Die nach Absatz 5 Satz 1 zu vergebenden Sitze werden in jedem Fall
+bundesweit nach der Zahl der zu berücksichtigenden Zweitstimmen in dem
+in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf die
+nach Absatz 3 zu berücksichtigenden Parteien verteilt. In den Parteien
+werden die Sitze nach der Zahl der zu berücksichtigenden Zweitstimmen
+in dem in Absatz 2 Satz 2 bis 7 beschriebenen Berechnungsverfahren auf
+die Landeslisten verteilt; dabei wird jeder Landesliste mindestens die
+Zahl der in den Wahlkreisen des Landes von der Partei errungenen Sitze
+zugeteilt. Von der für jede Landesliste ermittelten Sitzzahl wird die
+Zahl der von der Partei in den Wahlkreisen des Landes errungenen Sitze
+(§ 5) abgerechnet. Die restlichen Sitze werden aus der Landesliste in
 der dort festgelegten Reihenfolge besetzt. Bewerber, die in einem
 Wahlkreis gewählt sind, bleiben auf der Landesliste unberücksichtigt.
-Entfallen auf eine Landesliste mehr Sitze als Bewerber benannt sind,
+Entfallen auf eine Landesliste mehr Sitze, als Bewerber benannt sind,
 so bleiben diese Sitze unbesetzt.
 
-(5) In den Wahlkreisen errungene Sitze verbleiben einer Partei auch
-dann, wenn sie die nach den Absätzen 2 bis 3 ermittelte Zahl
-übersteigen. In einem solchen Falle erhöht sich die Gesamtzahl der
-Sitze (§ 1 Abs. 1) um die Unterschiedszahl; eine erneute Berechnung
-nach den Absätzen 2 bis 3 findet nicht statt.
-
-(6) Bei Verteilung der Sitze auf die Landeslisten werden nur Parteien
-berücksichtigt, die mindestens 5 vom Hundert der im Wahlgebiet
-abgegebenen gültigen Zweitstimmen erhalten oder in mindestens drei
-Wahlkreisen einen Sitz errungen haben. Satz 1 findet auf die von
-Parteien nationaler Minderheiten eingereichten Listen keine Anwendung.
+(7) Erhält bei der Verteilung der Sitze nach den Absätzen 2 bis 6 eine
+Partei, auf die mehr als die Hälfte der Gesamtzahl der Zweitstimmen
+aller zu berücksichtigenden Parteien entfallen ist, nicht mehr als die
+Hälfte der Sitze, werden ihr weitere Sitze zugeteilt, bis auf sie ein
+Sitz mehr als die Hälfte der Sitze entfällt. Die Sitze werden in der
+Partei entsprechend Absatz 6 Satz 2 bis 6 verteilt. In einem solchen
+Falle erhöht sich die nach Absatz 5 ermittelte Gesamtzahl der Sitze (§
+1 Absatz 1) um die Unterschiedszahl.
 
 
 ### § 7 (weggefallen)
@@ -313,7 +313,8 @@ Vorsitzenden den Ausschlag.
 (2) Die Mitglieder der Wahlorgane, ihre Stellvertreter und die
 Schriftführer sind zur unparteiischen Wahrnehmung ihres Amtes und zur
 Verschwiegenheit über die ihnen bei ihrer amtlichen Tätigkeit
-bekanntgewordenen Angelegenheiten verpflichtet.
+bekanntgewordenen Angelegenheiten verpflichtet. Sie dürfen in Ausübung
+ihres Amtes ihr Gesicht nicht verhüllen.
 
 
 ### § 11 Ehrenämter
@@ -349,19 +350,28 @@ darf nur aus wichtigen Gründen abgelehnt werden.
 
 
 
-(2)
-Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen auch
-diejenigen Deutschen im Sinne des Artikels 116 Abs. 1 des
+(2) Wahlberechtigt sind bei Vorliegen der sonstigen Voraussetzungen
+auch diejenigen Deutschen im Sinne des Artikels 116 Absatz 1 des
 Grundgesetzes, die am Wahltag außerhalb der Bundesrepublik Deutschland
-leben, sofern sie nach dem 23. Mai 1949 und vor ihrem Fortzug
-mindestens drei Monate ununterbrochen in der Bundesrepublik
-Deutschland eine Wohnung innegehabt oder sich sonst gewöhnlich
-aufgehalten haben.              Als Wohnung oder gewöhnlicher
-Aufenthalt im Sinne von Satz 1 gilt auch eine frühere Wohnung oder ein
-früherer Aufenthalt in dem in Artikel 3 des Einigungsvertrages
-genannten Gebiet. Bei Rückkehr eines nach Satz 1 Wahlberechtigten in
-die Bundesrepublik Deutschland gilt die Dreimonatsfrist des Absatzes 1
-Nr. 2 nicht.
+leben, sofern sie
+
+1.  nach Vollendung ihres vierzehnten Lebensjahres mindestens drei Monate
+    ununterbrochen in der Bundesrepublik Deutschland eine Wohnung
+    innegehabt oder sich sonst gewöhnlich aufgehalten haben und dieser
+    Aufenthalt nicht länger als 25 Jahre zurückliegt oder
+
+
+2.  aus anderen Gründen persönlich und unmittelbar Vertrautheit mit den
+    politischen Verhältnissen in der Bundesrepublik Deutschland erworben
+    haben und von ihnen betroffen sind.
+
+
+
+Als Wohnung oder gewöhnlicher Aufenthalt im Sinne von Satz 1 gilt auch
+eine frühere Wohnung oder ein früherer Aufenthalt in dem in Artikel 3
+des Einigungsvertrages genannten Gebiet. Bei Rückkehr eines nach Satz
+1 Wahlberechtigten in die Bundesrepublik Deutschland gilt die
+Dreimonatsfrist des Absatzes 1 Nr. 2 nicht.
 
 (3) Wohnung im Sinne des Gesetzes ist jeder umschlossene Raum, der zum
 Wohnen oder Schlafen benutzt wird. Wohnwagen und Wohnschiffe sind
@@ -492,9 +502,8 @@ Einsicht in das Wählerverzeichnis, wenn sie Tatsachen glaubhaft
 machen, aus denen sich eine Unrichtigkeit oder Unvollständigkeit des
 Wählerverzeichnisses ergeben kann. Das Recht zur Überprüfung gemäß
 Satz 3 besteht nicht hinsichtlich der Daten von Wahlberechtigten, für
-die im Melderegister ein Sperrvermerk gemäß den § 21 Abs. 5 des
-Melderechtsrahmengesetzes entsprechenden Vorschriften der
-Landesmeldegesetze eingetragen ist.
+die im Melderegister ein Sperrvermerk gemäß § 51 Absatz 1 des
+Bundesmeldegesetzes eingetragen ist.
 
 (2) Ein Wahlberechtigter, der im Wählerverzeichnis eingetragen ist,
 oder der aus einem von ihm nicht zu vertretenden Grund in das
@@ -998,7 +1007,7 @@ nähere Bestimmungen zu erlassen über
 
 
 Die Rechtsverordnung ergeht in den Fällen der Nummern 1 und 3 im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie.
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie.
 
 (4) Für die Betätigung eines Wahlgerätes gilt § 33 Abs. 1 Satz 1 und
 Abs. 2 entsprechend.
@@ -1307,7 +1316,7 @@ unberührt.
 
 (2) Bei Ungültigkeit seiner Wahl im Wahlkreis bleibt der Abgeordnete
 Mitglied des Bundestages, wenn er zugleich auf einer Landesliste
-gewählt war, aber nach § 6 Abs. 4 Satz 3 unberücksichtigt geblieben
+gewählt war, aber nach § 6 Absatz 6 Satz 5 unberücksichtigt geblieben
 ist.
 
 (3) Der Verzicht ist nur wirksam, wenn er zur Niederschrift des
@@ -1384,13 +1393,11 @@ schriftlich die Ablehnung des Erwerbs der Mitgliedschaft erklärt oder
 wenn ein Abgeordneter stirbt oder sonst nachträglich aus dem Deutschen
 Bundestag ausscheidet, so wird der Sitz aus der Landesliste derjenigen
 Partei besetzt, für die der gewählte Bewerber oder ausgeschiedene
-Abgeordnete bei der Wahl aufgetreten ist. Dies gilt nicht, solange die
-Partei in dem betreffenden Land Mandate gemäß § 6 Abs. 5 Satz 1
-innehat. Bei der Nachfolge bleiben diejenigen Listenbewerber
-unberücksichtigt, die seit dem Zeitpunkt der Aufstellung der
-Landesliste aus dieser Partei ausgeschieden oder Mitglied einer
-anderen Partei geworden sind. Unberücksichtigt bleiben ebenso
-Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren
+Abgeordnete bei der Wahl aufgetreten ist. Bei der Nachfolge bleiben
+diejenigen Listenbewerber unberücksichtigt, die seit dem Zeitpunkt der
+Aufstellung der Landesliste aus dieser Partei ausgeschieden oder
+Mitglied einer anderen Partei geworden sind. Unberücksichtigt bleiben
+ebenso Listenbewerber, die als gewählte Bewerber im Wahlkreis ihren
 Mitgliedschaftserwerb abgelehnt oder als Abgeordnete auf ihre
 Mitgliedschaft im Deutschen Bundestag verzichtet haben. Ist die Liste
 erschöpft, so bleibt der Sitz unbesetzt. Die Feststellung, wer als
@@ -1475,8 +1482,10 @@ mit einer Geldbuße bis zu fünfzigtausend Euro geahndet werden.
 (1) Bewerber eines nach Maßgabe der §§ 18 und 20 von Wahlberechtigten
 eingereichten Wahlvorschlages, die mindestens 10 vom Hundert der in
 einem Wahlkreis abgegebenen gültigen Erststimmen erreicht haben,
-erhalten je gültige Stimme 2,80 Euro. Die Mittel sind im
-Bundeshaushaltsplan auszubringen.
+erhalten je gültige Stimme das Vierfache des in § 18 Absatz 3 Satz 1
+Nummer 1 des Parteiengesetzes genannten und nach § 18 Absatz 3 Satz 3
+des Parteiengesetzes bis zum Zeitpunkt der Wahl erhöhten Betrages. Die
+Mittel sind im Bundeshaushaltsplan auszubringen.
 
 (2) Die Festsetzung und die Auszahlung der staatliche Mittel sind von
 dem Bewerber innerhalb von zwei Monaten nach dem Zusammentritt des
@@ -1516,9 +1525,8 @@ Herstellung und die Verteilung der Stimmzettelschablonen veranlassten
 notwendigen Ausgaben.
 
 
-### § 51
+### § 51 (weggefallen)
 
-(weggefallen)
 
 
 ### § 52 Bundeswahlordnung
@@ -1633,9 +1641,11 @@ vorliegen.
 (Inkrafttreten)
 
 
-### Anlage (zu § 2 Absatz 2) Beschreibung der vorgeschlagenen Bundestagswahlkreise
+### Anlage (zu § 2 Absatz 2)
 
-(Fundstelle: BGBl. I 2012, 519 - 578)
+(Fundstelle: BGBl. I 2016, 1063 - 1122;
+bzgl. der Neubeschreibung der Abgrenzungen der Wahlkreise vgl.
+Fußnote)
 
 
 *    *   Wahlkreis
@@ -1711,10 +1721,9 @@ vorliegen.
         Barkenholm, Bergewöhrden, Dellstedt, Delve, Dörpling, Fedderingen,
         Gaushorn, Glüsing, Groven, Hemme, Hennstedt, Hövede, Hollingstedt,
         Karolinenkoog, Kleve, Krempel, Lehe, Linden, Lunden, Norderheistedt,
-        Pahlen,
-        Rehm-Flehde-Bargen,                      Sankt Annen, Schalkholz,
-        Schlichting, Süderdorf, Süderheistedt, Tellingstedt, Tielenhemme,
-        Wallen, Welmbüttel, Westerborstel, Wiemerstedt, Wrohm
+        Pahlen, Rehm-Flehde-Bargen, Sankt Annen, Schalkholz, Schlichting,
+        Süderdorf, Süderheistedt, Tellingstedt, Tielenhemme, Wallen,
+        Welmbüttel, Westerborstel, Wiemerstedt, Wrohm
 
 
 *    *
@@ -1780,10 +1789,9 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Diekhusen-Fahrstedt, Friedrichskoog, Helse,
-        Kaiser-Wilhelm-Koog,                      Kronprinzenkoog, Marne,
-        Marnerdeich, Neufeld, Neufelderkoog, Ramhusen, Schmedeswurth,
-        Trennewurth, Volsemenhusen
+        Diekhusen-Fahrstedt, Friedrichskoog, Helse, Kaiser-Wilhelm-Koog,
+        Kronprinzenkoog, Marne, Marnerdeich, Neufeld, Neufelderkoog, Ramhusen,
+        Schmedeswurth, Trennewurth, Volsemenhusen
 
 
 *    *
@@ -1850,7 +1858,7 @@ vorliegen.
     *
     *
     *   amtsfreie Gemeinden
-        Büdelsdorf, Eckernförde, Hohenwestedt, Rendsburg, Wasbek
+        Büdelsdorf, Eckernförde, Rendsburg, Wasbek
 
 
 *    *
@@ -1865,19 +1873,6 @@ vorliegen.
     *   die Gemeinden
         Achterwehr, Bredenbek, Felde, Krummwisch, Melsdorf, Ottendorf,
         Quarnbek, Westensee
-
-
-*    *
-    *
-    *
-    *   Amt Aukrug
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Arpsdorf, Aukrug, Ehndorf, Padenstedt
 
 
 *    *
@@ -1965,35 +1960,6 @@ vorliegen.
 *    *
     *
     *
-    *   Amt Hanerau-Hademarschen
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Beldorf, Bendorf, Bornholt, Gokels, Hanerau-Hademarschen,
-        Lütjenwestedt, Oldenbüttel, Seefeld, Steenfeld, Tackesdorf, Thaden
-
-
-*    *
-    *
-    *
-    *   Amt Hohenwestedt-Land
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Beringstedt, Grauel, Heinkenborstel, Jahrsdorf, Meezen, Mörel,
-        Nienborstel, Nindorf, Osterstedt, Rade b. Hohenwestedt, Remmels,
-        Tappendorf, Todenbüttel, Wapelfeld
-
-
-*    *
-    *
-    *
     *   Amt Hohner Harde
 
 
@@ -2038,6 +2004,24 @@ vorliegen.
 *    *
     *
     *
+    *   Amt Mittelholstein
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Arpsdorf, Aukrug, Beldorf, Bendorf, Beringstedt, Bornholt, Ehndorf,
+        Gokels, Grauel, Hanerau-Hademarschen, Heinkenborstel, Hohenwestedt,
+        Jahrsdorf, Lütjenwestedt, Meezen, Mörel, Nienborstel, Nindorf,
+        Oldenbüttel, Osterstedt, Padenstedt, Rade b. Hohenwestedt, Remmels,
+        Seefeld, Steenfeld, Tackesdorf, Tappendorf, Thaden, Todenbüttel,
+        Wapelfeld
+
+
+*    *
+    *
+    *
     *   Amt Molfsee
 
 
@@ -2074,8 +2058,8 @@ vorliegen.
     *
     *   die Gemeinden
         Altenhof, Barkelsby, Brodersby, Damp, Dörphof, Fleckeby, Gammelby,
-        Goosefeld, Güby, Holzdorf, Hummelfeld, Karby, Kosel, Loose, Rieseby,
-        Thumby, Waabs, Windeby, Winnemark
+        Goosefeld, Güby, Holzdorf, Hummelfeld,
+        Karby, Kosel, Loose, Rieseby, Thumby, Waabs, Windeby, Winnemark
 
 
 *    *
@@ -2351,6 +2335,8 @@ vorliegen.
 
 
 *    *
+    *
+    *
     *   amtsfreie Gemeinden
         Geesthacht, Lauenburg/Elbe, Mölln, Ratzeburg, Schwarzenbek, Wentorf
         bei Hamburg
@@ -2564,10 +2550,13 @@ vorliegen.
     *   Kreisfreie Stadt Schwerin
 
 
-*    *   vom Landkreis Ludwigslust-Parchim
+*    *
+    *   vom Landkreis Ludwigslust-Parchim
 
 
 *    *
+    *
+    *
     *   amtsfreie Gemeinden
         Boizenburg/Elbe, Hagenow, Ludwigslust, Lübtheen
 
@@ -2611,7 +2600,7 @@ vorliegen.
     *
     *   die Gemeinden
         Balow, Brunow, Dambeck, Eldena, Gorlosen, Grabow, Karstädt, Kremmin,
-        Milow, Möllenbeck, Muchow, Prislich, Steesow, Zierzow
+        Milow, Möllenbeck, Muchow, Prislich, Zierzow
 
 
 *    *
@@ -2681,7 +2670,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Körchow, Lehsen, Wittenburg, Wittendörp
+        Wittenburg, Wittendörp
 
 
 *    *
@@ -2746,8 +2735,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Carlow, Dechow, Groß Molzahn, Holdorf, Königsfeld, Nesow, Rehna,
-        Rieps, Schlagsdorf, Thandorf, Utecht, Vitense, Wedendorfersee
+        Carlow, Dechow, Groß Molzahn, Holdorf, Königsfeld, Rehna, Rieps,
+        Schlagsdorf, Thandorf, Utecht, Wedendorfersee
 
 
 *    *
@@ -2761,7 +2750,7 @@ vorliegen.
     *
     *   die Gemeinden
         Dassow, Grieben, Groß Siemz, Lockwisch, Lüdersdorf, Menzendorf,
-        Niendorf, Papenhusen, Roduchelstorf, Schönberg, Selmsdorf
+        Niendorf, Roduchelstorf, Schönberg, Selmsdorf
 
 
 *    *
@@ -2779,22 +2768,11 @@ vorliegen.
 
 
 *    *
+    *
     *   amtsfreie Gemeinde Parchim
 
 
 *    *
-    *   Amt Banzkow
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Banzkow, Plate, Sukow
-
-
-*    *
-    *
     *
     *   Amt Crivitz
 
@@ -2803,7 +2781,9 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Barnin, Bülow, Crivitz, Demen, Friedrichsruhe, Tramm, Zapel
+        Banzkow, Barnin, Bülow, Cambs, Crivitz, Demen, Dobin am See,
+        Friedrichsruhe, Gneven, Langen Brütz, Leezen, Pinnow, Plate, Raben
+        Steinfeld, Sukow, Tramm, Zapel
 
 
 *    *
@@ -2816,9 +2796,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Gallin-Kuppentin, Gischow, Granzin, Herzberg,
-        Karbow-Vietlübbe,                     Kreien, Kritzow, Lübz, Lutheran,
-        Marnitz, Passow, Siggelkow, Suckow, Tessenow, Wahlstorf, Werder
+        Gallin-Kuppentin, Gehlsbach, Gischow, Granzin, Kreien, Kritzow, Lübz,
+        Marnitz, Passow, Siggelkow, Suckow, Tessenow, Werder
 
 
 *    *
@@ -2831,22 +2810,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Diestelow, Dobbertin, Goldberg, Mestlin, Neu Poserin, Techentin,
-        Wendisch Waren
-
-
-*    *
-    *
-    *
-    *   Amt Ostufer Schweriner See
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Cambs, Dobin am See, Gneven, Godern, Langen Brütz, Leezen, Pinnow,
-        Raben Steinfeld
+        Dobbertin, Goldberg, Mestlin, Neu Poserin, Techentin
 
 
 *    *
@@ -2859,8 +2823,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Damm, Domsühl, Grebbin, Groß Godems, Groß Niendorf, Karrenzin,
-        Lewitzrand, Rom, Severin, Spornitz, Stolpe, Ziegendorf, Zölkow
+        Domsühl, Groß Godems, Karrenzin, Lewitzrand, Obere Warnow, Rom,
+        Spornitz, Stolpe, Ziegendorf, Zölkow
 
 
 *    *
@@ -2873,7 +2837,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Barkhagen, Buchberg, Ganzlin, Plau am See, Wendisch Priborn
+        Barkhagen, Ganzlin, Plau am See
 
 
 *    *
@@ -2886,9 +2850,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Blankenberg, Borkow, Brüel, Dabel, Hohen Pritz, Kobrow, Kuhlen-
-        Wendorf, Langen Jarchow, Mustin, Sternberg, Weitendorf, Witzin,
-        Zahrensdorf
+        Blankenberg, Borkow, Brüel, Dabel, Hohen Pritz, Kloster Tempzin,
+        Kobrow, Kuhlen-Wendorf, Mustin, Sternberg, Weitendorf, Witzin
 
 
 *    *
@@ -2932,7 +2895,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Bernstorf, Börzow, Gägelow, Mallentin, Plüschow, Roggenstorf, Rüting,
+        Bernstorf, Gägelow, Plüschow, Roggenstorf, Rüting, Stepenitztal,
         Testorf-Steinfort, Upahl, Warnow
 
 
@@ -3034,7 +2997,9 @@ vorliegen.
     *   Kreisfreie Stadt Rostock
 
 
-*    *   vom Landkreis Rostock
+*    *
+    *
+    *   vom Landkreis Rostock
 
 
 *    *
@@ -3054,8 +3019,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Broderstorf, Klein Kussewitz, Mandelshagen, Poppendorf, Roggentin,
-        Steinfeld, Thulendorf
+        Broderstorf, Klein Kussewitz, Poppendorf, Roggentin, Thulendorf
 
 
 *    *
@@ -3125,10 +3089,13 @@ vorliegen.
     *   Landkreis Vorpommern-Rügen
 
 
-*    *   vom Landkreis Vorpommern-Greifswald
+*    *
+    *   vom Landkreis Vorpommern-Greifswald
 
 
 *    *
+    *
+    *
     *   amtsfreie Gemeinde Greifswald
 
 
@@ -3153,12 +3120,14 @@ vorliegen.
 
 *    *   16
 
-    *   Mecklenburgische Seenplatte I – Vorpommern-Greifswald II
+    *   Mecklenburgische Seenplatte I –
+        Vorpommern-Greifswald II
 
     *   Vom Landkreis Mecklenburgische Seenplatte
 
 
 *    *
+    *
     *   amtsfreie Gemeinden
         Feldberger Seenlandschaft, Neubrandenburg
 
@@ -3173,7 +3142,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Datzetal, Eichhorst, Friedland, Galenbeck, Genzkow, Glienke
+        Datzetal, Friedland, Galenbeck, Genzkow
 
 
 *    *
@@ -3200,8 +3169,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Burg Stargard, Cammin, Cölpin, Groß Nemerow, Holldorf, Lindetal,
-        Pragsdorf
+        Burg Stargard, Cölpin, Groß Nemerow, Holldorf, Lindetal, Pragsdorf
 
 
 *    *
@@ -3214,8 +3182,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Groß Miltzow, Helpt, Kublank, Mildenitz, Neetzka, Petersdorf,
-        Schönbeck, Schönhausen, Voigtsdorf, Woldegk
+        Groß Miltzow, Kublank, Neetzka, Petersdorf, Schönbeck, Schönhausen,
+        Voigtsdorf, Woldegk
 
 
 *    *
@@ -3245,8 +3213,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Buddenhagen, Buggenhagen, Hohendorf, Krummin, Lassan, Lütow, Sauzin,
-        Wolgast, Zemitz
+        Buggenhagen, Krummin, Lassan, Lütow, Sauzin, Wolgast, Zemitz
 
 
 *    *
@@ -3260,8 +3227,7 @@ vorliegen.
     *
     *   die Gemeinden
         Ahlbeck, Altwarp, Eggesin, Grambin, Hintersee, Leopoldshagen,
-        Liepgarten, Luckow, Lübs, Meiersberg, Mönkebude, Torgelow-Holländerei,
-        Vogelsang-Warsin
+        Liepgarten, Luckow, Lübs, Meiersberg, Mönkebude, Vogelsang-Warsin
 
 
 *    *
@@ -3275,9 +3241,8 @@ vorliegen.
     *
     *   die Gemeinden
         Bargischow, Blesewitz, Boldekow, Bugewitz, Butzow, Ducherow, Iven,
-        Krien, Krusenfelde, Liepen, Medow, Neetzow, Neu Kosenow, Neuendorf A,
-        Neuendorf B, Neuenkirchen, Postlow, Putzar, Rossin, Sarnow, Spantekow,
-        Stolpe
+        Krien, Krusenfelde, Medow, Neetzow-Liepen, Neu Kosenow, Neuenkirchen,
+        Postlow, Rossin, Sarnow, Spantekow, Stolpe an der Peene
 
 
 *    *
@@ -3331,7 +3296,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Düvier, Görmin, Loitz, Sassen-Trantow
+        Görmin, Loitz, Sassen-Trantow
 
 
 *    *
@@ -3344,8 +3309,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Altwigshagen, Ferdinandshof, Hammer a. d. Uecker, Heinrichsruh,
-        Heinrichswalde, Rothemühl, Torgelow, Wilhelmsburg
+        Altwigshagen, Ferdinandshof, Hammer a.d. Uecker, Heinrichswalde,
+        Rothemühl, Torgelow, Wilhelmsburg
 
 
 *    *
@@ -3358,9 +3323,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Blumenhagen, Brietzig, Damerow, Fahrenwalde, Groß Luckow, Jatznick,
-        Klein Luckow, Koblentz, Krugsdorf, Nieden, Papendorf, Polzow,
-        Rollwitz, Schönwalde, Viereck, Zerrenthin, Züsedom
+        Brietzig, Fahrenwalde, Groß Luckow, Jatznick, Koblentz, Krugsdorf,
+        Nieden, Papendorf, Polzow, Rollwitz, Schönwalde, Viereck, Zerrenthin
 
 
 *    *
@@ -3402,8 +3366,8 @@ vorliegen.
     *
     *   die Gemeinden
         Bandelin, Gribow, Groß Kiesow, Groß Polzin, Gützkow, Karlsburg, Klein
-        Bünzow, Kölzin, Lühmannsdorf, Murchin, Rubkow, Schmatzin,
-        Wrangelsburg, Ziethen, Züssow
+        Bünzow, Lühmannsdorf, Murchin, Rubkow, Schmatzin, Wrangelsburg,
+        Ziethen, Züssow
 
 
 *    *
@@ -3419,6 +3383,7 @@ vorliegen.
 
 
 *    *
+    *
     *   amtsfreie Gemeinden
         Dargun, Demmin, Neustrelitz, Waren (Müritz)
 
@@ -3475,7 +3440,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Mirow, Priepert, Roggentin, Wesenberg, Wustrow
+        Mirow, Priepert, Wesenberg, Wustrow
 
 
 *    *
@@ -3502,7 +3467,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Ankershagen, Krukow, Lapitz, Mallin, Möllenhagen, Penzlin, Puchow
+        Ankershagen, Kuckssee, Möllenhagen, Penzlin
 
 
 *    *
@@ -3531,10 +3496,9 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Grabowhöfe, Groß Dratow, Groß Gievitz, Groß Plasten, Hinrichshagen,
-        Hohen Wangelin, Jabel, Kargow, Klink, Klocksin, Lansen-Schönau,
-        Moltzow, Neu Gaarz, Schloen, Schwinkendorf, Torgelow am See,
-        Varchentin, Vielist, Vollrathsruhe
+        Grabowhöfe, Groß Plasten, Hohen Wangelin, Jabel, Kargow, Klink,
+        Klocksin, Moltzow, Peenehagen, Schloen-Dratow, Torgelow am See,
+        Varchentin, Vollrathsruhe
 
 
 *    *
@@ -3638,8 +3602,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Dobbin-Linstow, Hoppenrade, Krakow am See, Kuchelmiß, Lalendorf,
-        Langhagen
+        Dobbin-Linstow, Hoppenrade, Krakow am See, Kuchelmiß, Lalendorf
 
 
 *    *
@@ -3689,10 +3652,10 @@ vorliegen.
     *
     *
     *   die Stadtteile
-        Billbrock,                      Billstedt, Borgfelde, Finkenwerder,
-        HafenCity, Hamburg-Altstadt, Hammerbrook, Hamm, Horn, Insel Neuwerk,
-        Kleiner Grasbrook, Neustadt, Rothenburgsort, St. Georg, St. Pauli,
-        Steinwerder, Veddel, Waltershof
+        Billbrook, Billstedt, Borgfelde, Finkenwerder, HafenCity, Hamburg-
+        Altstadt, Hammerbrook, Hamm, Horn, Insel Neuwerk, Kleiner Grasbrook,
+        Neustadt, Rothenburgsort, St. Georg, St. Pauli, Steinwerder, Veddel,
+        Waltershof
 
 
 *    *
@@ -3715,22 +3678,6 @@ vorliegen.
 *    *
     *
     *   (Übriger Bezirk s. Wkr. 21)
-
-
-*    *
-    *
-    *   vom Bezirk Wandsbek
-
-
-*    *
-    *
-    *
-    *   der Stadtteil Eilbek
-
-
-*    *
-    *
-    *   (Übriger Bezirk s. Wkr. 21, 22)
 
 
 *    *   19
@@ -3782,7 +3729,7 @@ vorliegen.
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 18, 22)
+    *   (Übriger Bezirk s. Wkr. 22)
 
 
 *    *   22
@@ -3796,13 +3743,13 @@ vorliegen.
     *
     *
     *   die Stadtteile
-        Bramfeld, Farmsen-Berne, Jenfeld, Marienthal, Rahlstedt, Steilshoop,
-        Tonndorf, Volksdorf, Wandsbek
+        Bramfeld, Eilbek, Farmsen-Berne, Jenfeld, Marienthal, Rahlstedt,
+        Steilshoop, Tonndorf, Volksdorf, Wandsbek
 
 
 *    *
     *
-    *   (Übriger Bezirk s. Wkr. 18, 21)
+    *   (Übriger Bezirk s. Wkr. 21)
 
 
 *    *   23
@@ -3931,7 +3878,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Lahn, Lorup, Rastdorf, Vrees, Werlte
+        Lahn, Lorup, Rastdorf, Vrees, Stadt Werlte
 
 
 *    *
@@ -3946,7 +3893,9 @@ vorliegen.
     *   Kreisfreie Stadt Wilhelmshaven
 
 
-*    *   Landkreis Friesland
+*    *
+    *
+    *   Landkreis Friesland
 
 
 *    *
@@ -3968,12 +3917,14 @@ vorliegen.
 
 *    *   28
 
-    *   Delmenhorst – Wesermarsch – Oldenburg-Land
+    *   Delmenhorst – Wesermarsch –
+        Oldenburg-Land
 
     *   Kreisfreie Stadt Delmenhorst
 
 
-*    *   Landkreis Oldenburg
+*    *
+    *   Landkreis Oldenburg
 
 
 *    *
@@ -4002,19 +3953,6 @@ vorliegen.
 *    *
     *
     *
-    *   Samtgemeinde Himmelpforten
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Düdenbüttel, Engelschoff, Großenwörden, Hammah, Himmelpforten
-
-
-*    *
-    *
-    *
     *   Samtgemeinde Nordkehdingen
 
 
@@ -4028,14 +3966,15 @@ vorliegen.
 *    *
     *
     *
-    *   Samtgemeinde Oldendorf
+    *   Samtgemeinde Oldendorf-Himmelpforten
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Burweg, Estorf, Heinbockel, Kranenburg, Oldendorf
+        Burweg, Düdenbüttel, Engelschoff, Estorf, Großenwörden, Hammah,
+        Heinbockel, Himmelpforten, Kranenburg, Oldendorf
 
 
 *    *
@@ -4139,7 +4078,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Stadt Buxtehude, Jork, Hansestadt Stade
+        Hansestadt Buxtehude, Jork, Hansestadt Stade
 
 
 *    *
@@ -4435,7 +4374,9 @@ vorliegen.
     *   Landkreis Lüchow-Dannenberg
 
 
-*    *   Landkreis Lüneburg
+*    *
+    *
+    *   Landkreis Lüneburg
 
 
 *    *   38
@@ -4553,8 +4494,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Stadt Nienburg (Weser), Stadt Rehburg-Loccum, Flecken Steyerberg,
-        Stolzenau
+        Stadt Nienburg (Weser), Stadt Rehburg-Loccum, Flecken Steyerberg
 
 
 *    *
@@ -4568,19 +4508,6 @@ vorliegen.
     *
     *   die Gemeinden
         Flecken Drakenburg, Haßbergen, Heemsen, Rohrsen
-
-
-*    *
-    *
-    *
-    *   Samtgemeinde Landesbergen
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Estorf, Husum, Landesbergen, Leese
 
 
 *    *
@@ -4607,6 +4534,19 @@ vorliegen.
     *
     *   die Gemeinden
         Balge, Marklohe, Wietzen
+
+
+*    *
+    *
+    *
+    *   Samtgemeinde Mittelweser
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Estorf, Husum, Landesbergen, Leese, Stolzenau
 
 
 *    *
@@ -4799,7 +4739,9 @@ vorliegen.
     *   Landkreis Hameln-Pyrmont
 
 
-*    *   Landkreis Holzminden
+*    *
+    *
+    *   Landkreis Holzminden
 
 
 *    *
@@ -4811,7 +4753,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Flecken Bodenfelde, Stadt Uslar
+        Flecken Bodenfelde, Stadt Uslar und das gemeindefreie Gebiet Solling
 
 
 *    *
@@ -4916,6 +4858,12 @@ vorliegen.
 *    *
     *
     *
+    *   das gemeindefreie Gebiet Giebel
+
+
+*    *
+    *
+    *
     *   Samtgemeinde Boldecker Land
 
 
@@ -4948,78 +4896,15 @@ vorliegen.
 
     *   Goslar – Northeim – Osterode
 
-    *   Vom Landkreis Goslar
+    *   Vom Landkreis Göttingen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Stadt Bad Harzburg, Stadt Braunlage, Stadt Goslar, Bergstadt Sankt
-        Andreasberg, Stadt Vienenburg
-
-
-*    *
-    *
-    *
-    *   Samtgemeinde Oberharz
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bergstadt Altenau, Bergstadt Clausthal-Zellerfeld, Schulenberg im
-        Oberharz, Bergstadt Wildemann
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 49)
-
-
-*    *
-    *
-    *   vom Landkreis Northeim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen,
-        Kalefeld, Katlenburg-Lindau, Kreiensen, Stadt Moringen, Flecken
-        Nörten-Hardenberg, Stadt Northeim
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 46)
-
-
-*    *
-    *
-    *   vom Landkreis Osterode am Harz
-
-
-*    *
-    *
-    *
-    *   die Gemeinde Stadt Osterode am Harz
-
-
-*    *
-    *
-    *
-    *   Samtgemeinde Bad Grund (Harz)
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bergstadt Bad Grund (Harz), Badenhausen, Eisdorf, Flecken Gittelde,
-        Windhausen
+        Bad Grund (Harz), Stadt Osterode am Harz, Walkenried und das
+        gemeindefreie Gebiet Harz (Landkreis Göttingen)
 
 
 *    *
@@ -5037,39 +4922,103 @@ vorliegen.
 
 *    *
     *
+    *   (Übrige Gemeinden s. Wkr. 53)
+
+
+*    *
     *
-    *   Samtgemeinde Walkenried
+    *   vom Landkreis Goslar
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Walkenried, Wieda, Zorge
+        Stadt Bad Harzburg, Stadt Braunlage, Berg- und Universitätsstadt
+        Clausthal-Zellerfeld, Stadt Goslar und das gemeindefreie Gebiet Harz
+        (Landkreis Goslar)
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 53)
+    *   (Übrige Gemeinden s. Wkr. 49)
+
+
+*    *
+    *
+    *   vom Landkreis Northeim
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Stadt Bad Gandersheim, Stadt Dassel, Stadt Einbeck, Stadt Hardegsen,
+        Kalefeld, Katlenburg-Lindau, Stadt Moringen, Flecken Nörten-
+        Hardenberg, Stadt Northeim
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 46)
 
 
 *    *   53
 
     *   Göttingen
 
-    *   Landkreis Göttingen
-
-
-*    *
-    *
-    *   vom Landkreis Osterode am Harz
+    *   Vom Landkreis Göttingen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa, Stadt Herzberg am Harz
+        Flecken Adelebsen, Stadt Bad Lauterberg im Harz, Stadt Bad Sachsa,
+        Flecken Bovenden, Stadt Duderstadt, Friedland, Gleichen, Stadt
+        Göttingen, Stadt Hann. Münden, Stadt Herzberg am Harz, Rosdorf,
+        Staufenberg
+
+
+*    *
+    *
+    *
+    *   Samtgemeinde Dransfeld
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Bühren, Stadt Dransfeld, Jühnde, Niemetal, Scheden
+
+
+*    *
+    *
+    *
+    *   Samtgemeinde Gieboldehausen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Bilshausen, Bodensee, Flecken Gieboldehausen, Krebeck, Obernfeld,
+        Rhumspringe, Rollshausen, Rüdershausen, Wollbrandshausen,
+        Wollershausen
+
+
+*    *
+    *
+    *
+    *   Samtgemeinde Radolfshausen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Ebergötzen, Landolfshausen, Seeburg, Seulingen, Waake
 
 
 *    *
@@ -5090,7 +5039,7 @@ vorliegen.
 *    *
     *
     *
-    *   der Stadtbezirk Ost (Ortsteile 311 bis 385)
+    *   der Stadtbezirk Ost (Ortsteile 311 bis 385 und Stadtteil Oberneuland)
 
 
 *    *
@@ -5191,15 +5140,25 @@ vorliegen.
 
 *    *   56
 
-    *   Prignitz – Ostprignitz-Ruppin – Havelland I
+    *   Prignitz – Ostprignitz-Ruppin –
+        Havelland I
 
     *   Landkreis Ostprignitz-Ruppin
 
 
-*    *   Landkreis Prignitz
+*    *
+    *   Landkreis Prignitz
 
 
-*    *   vom Landkreis Havelland
+*    *
+    *
+    *   vom Landkreis Havelland
+
+
+*    *
+    *
+    *
+    *   amtsfreie Gemeinde Nauen
 
 
 *    *
@@ -5213,6 +5172,19 @@ vorliegen.
     *
     *   die Gemeinden
         Friesack, Mühlenberge, Paulinenaue, Pessin, Retzow, Wiesenaue
+
+
+*    *
+    *
+    *
+    *   Amt Nennhausen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Kotzen, Märkisch Luch, Nennhausen, Stechow-Ferchesar
 
 
 *    *
@@ -5249,7 +5221,20 @@ vorliegen.
     *
     *
     *   amtsfreie Gemeinden
-        Eberswalde, Schorfheide
+        Eberswalde, Schorfheide, Wandlitz
+
+
+*    *
+    *
+    *
+    *   Amt Biesenthal-Barnim
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Biesenthal, Breydin, Marienwerder, Melchow, Rüdnitz, Sydower Fließ
 
 
 *    *
@@ -5300,8 +5285,8 @@ vorliegen.
     *
     *
     *   amtsfreie Gemeinden
-        Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Nauen,
-        Schönwalde-Glien, Wustermark
+        Brieselang, Dallgow-Döberitz, Falkensee, Ketzin/Havel, Schönwalde-
+        Glien, Wustermark
 
 
 *    *
@@ -5316,27 +5301,16 @@ vorliegen.
     *   Landkreis Märkisch-Oderland
 
 
-*    *   vom Landkreis Barnim
+*    *
+    *
+    *   vom Landkreis Barnim
 
 
 *    *
     *
     *
     *   amtsfreie Gemeinden
-        Ahrensfelde, Bernau bei Berlin, Panketal, Wandlitz, Werneuchen
-
-
-*    *
-    *
-    *
-    *   Amt Biesenthal-Barnim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Biesenthal, Breydin, Marienwerder, Melchow, Rüdnitz, Sydower Fließ
+        Ahrensfelde, Bernau bei Berlin, Panketal, Werneuchen
 
 
 *    *
@@ -5352,23 +5326,14 @@ vorliegen.
     *   Kreisfreie Stadt Brandenburg an der Havel
 
 
-*    *   vom Landkreis Havelland
+*    *
+    *   vom Landkreis Havelland
 
 
 *    *
+    *
     *   amtsfreie Gemeinden
         Milower Land, Premnitz, Rathenow
-
-
-*    *
-    *   Amt Nennhausen
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Kotzen, Märkisch Luch, Nennhausen, Stechow-Ferchesar
 
 
 *    *
@@ -5398,7 +5363,8 @@ vorliegen.
 *    *
     *
     *
-    *   die Gemeinden Beetzsee, Beetzseeheide, Havelsee, Päwesin, Roskow
+    *   die Gemeinden
+        Beetzsee, Beetzseeheide, Havelsee, Päwesin, Roskow
 
 
 *    *
@@ -5482,10 +5448,13 @@ vorliegen.
     *   Kreisfreie Stadt Potsdam
 
 
-*    *   vom Landkreis Potsdam-Mittelmark
+*    *
+    *   vom Landkreis Potsdam-Mittelmark
 
 
 *    *
+    *
+    *
     *   amtsfreie Gemeinden
         Kleinmachnow, Michendorf, Nuthetal, Schwielowsee, Stahnsdorf, Teltow,
         Werder (Havel)
@@ -5504,8 +5473,7 @@ vorliegen.
 *    *
     *
     *
-    *   amtsfreie Gemeinden
-        Großbeeren, Ludwigsfelde
+    *   amtsfreie Gemeinde Ludwigsfelde
 
 
 *    *
@@ -5522,10 +5490,12 @@ vorliegen.
     *   Landkreis Dahme-Spreewald
 
 
-*    *   vom Landkreis Oberspreewald-Lausitz
+*    *
+    *   vom Landkreis Oberspreewald-Lausitz
 
 
 *    *
+    *
     *   amtsfreie Gemeinde Lübbenau/Spreewald
 
 
@@ -5543,8 +5513,9 @@ vorliegen.
     *
     *
     *   amtsfreie Gemeinden
-        Am Mellensee, Baruth/Mark, Blankenfelde-Mahlow, Luckenwalde, Niederer
-        Fläming, Nuthe-Urstromtal, Rangsdorf, Trebbin, Zossen
+        Am Mellensee, Baruth/Mark, Blankenfelde-Mahlow, Großbeeren,
+        Luckenwalde, Niederer Fläming, Nuthe-Urstromtal, Rangsdorf, Trebbin,
+        Zossen
 
 
 *    *
@@ -5596,7 +5567,9 @@ vorliegen.
     *   Landkreis Elbe-Elster
 
 
-*    *   vom Landkreis Oberspreewald-Lausitz
+*    *
+    *
+    *   vom Landkreis Oberspreewald-Lausitz
 
 
 *    *
@@ -5919,7 +5892,9 @@ vorliegen.
     *   Bezirk Spandau
 
 
-*    *   vom Bezirk Charlottenburg-Wilmersdorf
+*    *
+    *
+    *   vom Bezirk Charlottenburg-Wilmersdorf
 
 
 *    *
@@ -5979,7 +5954,8 @@ vorliegen.
     *   Bezirk Friedrichshain-Kreuzberg
 
 
-*    *   vom Bezirk Pankow
+*    *
+    *   vom Bezirk Pankow
 
 
 *    *
@@ -6318,7 +6294,8 @@ vorliegen.
     *   Kreisfreie Stadt Remscheid
 
 
-*    *   Kreisfreie Stadt Solingen
+*    *
+    *   Kreisfreie Stadt Solingen
 
 
 *    *
@@ -7193,8 +7170,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Bergkamen, Bönen, Fröndenberg/Ruhr, Holzwickede,
-        Kamen, Schwerte, Unna
+        Bergkamen, Bönen, Fröndenberg/Ruhr, Holzwickede, Kamen, Schwerte, Unna
 
 
 *    *
@@ -7364,25 +7340,12 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Bautzen, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-Gaußig,
-        Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal, Hochkirch,
-        Hoyerswerda, Königswartha, Kubschütz, Lauta, Lohsa, Neukirch/Lausitz,
-        Oßling, Radibor, Schirgiswalde-Kirschau, Schmölln-Putzkau, Schwepnitz,
-        Sohland a. d. Spree, Spreetal, Steinigtwolmsdorf, Weißenberg, Wilthen,
-        Wittichenau
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Bernsdorf
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bernsdorf, Wiednitz
+        Bautzen, Bernsdorf, Burkau, Cunewalde, Demitz-Thumitz, Doberschau-
+        Gaußig, Elsterheide, Elstra, Göda, Großdubrau, Haselbachtal,
+        Hochkirch, Hoyerswerda, Königswartha, Kubschütz, Lauta, Lohsa,
+        Malschwitz, Neukirch/Lausitz, Oßling, Radibor, Schirgiswalde-Kirschau,
+        Schmölln-Putzkau, Schwepnitz, Sohland a. d. Spree, Spreetal,
+        Steinigtwolmsdorf, Weißenberg, Wilthen, Wittichenau
 
 
 *    *
@@ -7448,19 +7411,6 @@ vorliegen.
     *
     *   die Gemeinden
         Königsbrück, Laußnitz, Neukirch
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Malschwitz
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Guttau, Malschwitz
 
 
 *    *
@@ -7577,20 +7527,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Arnsdorf, Ottendorf-Okrilla, Radeberg, Wachau
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Großröhrsdorf
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bretnig-Hauswalde, Großröhrsdorf
+        Arnsdorf, Großröhrsdorf, Ottendorf-Okrilla, Radeberg, Wachau
 
 
 *    *
@@ -7609,38 +7546,12 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Augustusburg, Bobritzsch, Bockelwitz, Brand-Erbisdorf, Döbeln,
-        Eppendorf, Frankenberg/Sa., Frauenstein, Großhartmannsdorf,
-        Großschirma, Großweitzschen, Hainichen, Halsbrücke, Hartha,
-        Kriebstein, Leisnig, Leubsdorf, Mochau, Mulda/Sa., Neuhausen/Erzgeb.,
-        Niederwiesa, Oberschöna, Rechenberg-Bienenmühle, Reinsberg, Rossau,
-        Striegistal
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Flöha
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Falkenau, Flöha
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Freiberg
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Freiberg, Hilbersdorf
+        Augustusburg, Bobritzsch-Hilbersdorf, Brand-Erbisdorf, Döbeln,
+        Eppendorf, Flöha, Frankenberg/Sa., Frauenstein, Freiberg,
+        Großhartmannsdorf, Großschirma, Großweitzschen, Hainichen, Halsbrücke,
+        Hartha, Kriebstein, Leisnig, Leubsdorf, Mulda/Sa., Neuhausen/Erzgeb.,
+        Niederwiesa, Oberschöna, Oederan, Rechenberg-Bienenmühle, Reinsberg,
+        Rossau, Roßwein, Striegistal, Waldheim
 
 
 *    *
@@ -7672,19 +7583,6 @@ vorliegen.
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Oederan
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Frankenstein, Oederan
-
-
-*    *
-    *
-    *
     *   Verwaltungsgemeinschaft Ostrau
 
 
@@ -7698,19 +7596,6 @@ vorliegen.
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Roßwein
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Niederstriegis, Roßwein
-
-
-*    *
-    *
-    *
     *   Verwaltungsgemeinschaft Sayda
 
 
@@ -7719,19 +7604,6 @@ vorliegen.
     *
     *   die Gemeinden
         Dorfchemnitz, Sayda
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Waldheim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Waldheim, Ziegra-Knobelsdorf
 
 
 *    *
@@ -7754,6 +7626,7 @@ vorliegen.
 
 
 *    *
+    *
     *   die Gemeinden
         Hohndorf, Jahnsdorf/Erzgeb., Neukirchen/Erzgeb., Oelsnitz/Erzgeb.,
         Thalheim/Erzgeb.
@@ -7782,7 +7655,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Erlbach-Kirchberg, Lugau/Erzgeb., Niederwürschnitz
+        Lugau/Erzgeb., Niederwürschnitz
 
 
 *    *
@@ -7807,8 +7680,7 @@ vorliegen.
 *    *
     *
     *
-    *   die Gemeinden
-        Hormersdorf, Zwönitz
+    *   die Gemeinde Zwönitz
 
 
 *    *
@@ -7914,14 +7786,13 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Bernsbach,
-        Breitenbrunn/Erzgeb., Crottendorf, Drebach, Ehrenfriedersdorf,
-        Eibenstock, Gelenau/Erzgeb., Großolbersdorf, Großrückerswalde,
-        Grünhain-Beierfeld, Jöhstadt, Johanngeorgenstadt, Lauter/Sa.,
-        Lengefeld, Lößnitz, Mildenau, Kurort Oberwiesenthal, Olbernhau,
-        Pfaffroda, Pockau, Raschau-Markersbach, Schneeberg, Schönheide,
-        Schwarzenberg/Erzgeb., Sehmatal, Stützengrün, Thermalbad Wiesenbad,
-        Thum, Wolkenstein, Zöblitz
+        Amtsberg, Annaberg-Buchholz, Aue, Bad Schlema, Breitenbrunn/Erzgeb.,
+        Crottendorf, Drebach, Ehrenfriedersdorf, Eibenstock, Gelenau/Erzgeb.,
+        Großolbersdorf, Großrückerswalde, Grünhain-Beierfeld, Jöhstadt,
+        Johanngeorgenstadt, Lauter-Bernsbach, Lößnitz, Marienberg, Mildenau,
+        Kurort Oberwiesenthal, Olbernhau, Pockau-Lengefeld, Raschau-
+        Markersbach, Schneeberg, Schönheide, Schwarzenberg/Erzgeb., Sehmatal,
+        Stützengrün, Thermalbad Wiesenbad, Thum, Wolkenstein
 
 
 *    *
@@ -7948,19 +7819,6 @@ vorliegen.
     *
     *   die Gemeinden
         Geyer, Tannenberg
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Marienberg
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Marienberg, Pobershau
 
 
 *    *
@@ -8037,7 +7895,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Börnichen/Erzgeb., Borstendorf, Grünhainichen
+        Börnichen/Erzgeb., Grünhainichen
 
 
 *    *
@@ -8090,7 +7948,7 @@ vorliegen.
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Meerane
+    *   Verwaltungsgemeinschaft Meerane-Schönberg
 
 
 *    *
@@ -8200,7 +8058,8 @@ vorliegen.
     *   Landkreis Hersfeld-Rotenburg
 
 
-*    *   Werra-Meißner-Kreis
+*    *
+    *   Werra-Meißner-Kreis
 
 
 *    *   170
@@ -8332,6 +8191,7 @@ vorliegen.
 
 
 *    *
+    *
     *   die Gemeinden
         Bad Orb, Bad Soden-Salmünster, Biebergemünd, Birstein, Brachttal,
         Flörsbachtal, Freigericht, Gelnhausen, Gründau, Jossgrund,
@@ -8389,7 +8249,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach,
+        Bad Homburg v. d. Höhe, Friedrichsdorf, Glashütten, Grävenwiesbach,
         Neu-Anspach, Oberursel (Taunus), Schmitten, Usingen, Wehrheim, Weilrod
 
 
@@ -8608,8 +8468,8 @@ vorliegen.
     *
     *   die Gemeinden
         Alsbach-Hähnlein, Bickenbach, Eppertshausen, Erzhausen, Griesheim,
-        Messel, Modautal, Mühltal, Münster, Ober-Ramstadt, Pfungstadt,
-        Roßdorf, Seeheim-Jugenheim, Weiterstadt
+        Messel, Modautal, Mühltal, Münster (Hessen), Ober-Ramstadt,
+        Pfungstadt, Roßdorf, Seeheim-Jugenheim, Weiterstadt
 
 
 *    *
@@ -8672,150 +8532,46 @@ vorliegen.
 *    *   189
 
     *   Eichsfeld – Nordhausen –
-        Unstrut-Hainich-Kreis I
+        Kyffhäuserkreis
 
     *   Landkreis Eichsfeld
 
 
-*    *   Landkreis Nordhausen
+*    *
+    *   Landkreis Kyffhäuserkreis
 
 
 *    *
     *
-    *   vom Unstrut-Hainich-Kreis
-
-
-*    *
-    *
-    *
-    *   verwaltungsgemeinschaftsfreie Gemeinden
-        Anrode, Dünwald, Mühlhausen/Thüringen, Unstruttal
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Hildebrandshausen/Lengenfeld unterm Stein
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Hildebrandshausen, Lengenfeld unterm Stein, Rodeberg
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 190)
+    *   Landkreis Nordhausen
 
 
 *    *   190
 
     *   Eisenach – Wartburgkreis –
-        Unstrut-Hainich-Kreis II
+        Unstrut-Hainich-Kreis
 
     *   Kreisfreie Stadt Eisenach
 
 
-*    *   Wartburgkreis
+*    *
+    *   Landkreis Unstrut-Hainich-Kreis
 
 
 *    *
     *
-    *   vom Unstrut-Hainich-Kreis
-
-
-*    *
-    *
-    *
-    *   verwaltungsgemeinschaftsfreie Gemeinden
-        Bad Langensalza, Heyerode, Katharinenberg, Menteroda, Weinbergen
-
-
-*    *
-    *
-    *
-    *   Erfüllende Gemeinde Herbsleben
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Großvargula, Herbsleben
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Bad Tennstedt
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bad Tennstedt, Ballhausen, Blankenburg, Bruchstedt, Haussömmern,
-        Hornsömmern, Kirchheilingen, Klettstedt, Kutzleben, Mittelsömmern,
-        Sundhausen, Tottleben, Urleben
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Schlotheim
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bothenheilingen, Issersheilingen, Kleinwelsbach, Körner, Marolterode,
-        Neunheilingen, Obermehler, Schlotheim
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Unstrut-Hainich
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Altengottern, Flarchheim, Großengottern, Heroldishausen, Mülverstedt,
-        Schönstedt, Weberstedt
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Vogtei
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Kammerforst, Langula, Niederdorla, Oberdorla, Oppershausen
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 189)
+    *   Landkreis Wartburgkreis
 
 
 *    *   191
 
-    *   Kyffhäuserkreis – Sömmerda –
-        Weimarer Land I
+    *   Jena – Sömmerda – Weimarer Land I
 
-    *   Kyffhäuserkreis
+    *   Kreisfreie Stadt Jena
 
 
-*    *   Landkreis Sömmerda
+*    *
+    *   Landkreis Sömmerda
 
 
 *    *
@@ -8827,7 +8583,7 @@ vorliegen.
     *
     *
     *   verwaltungsgemeinschaftsfreie Gemeinden
-        Apolda, Bad Berka, Blankenhain, Saaleplatte
+        Apolda, Bad Berka, Blankenhain
 
 
 *    *
@@ -8840,51 +8596,21 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Auerstedt, Bad Sulza, Eberstedt, Flurstedt, Gebstedt, Großheringen,
-        Ködderitzsch, Niedertrebra, Obertrebra, Rannstedt, Reisdorf,
-        Schmiedehausen, Wickerstedt
+        Bad Sulza, Eberstedt, Großheringen, Ködderitzsch, Niedertrebra,
+        Obertrebra, Rannstedt, Saaleplatte, Schmiedehausen
 
 
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Berlstedt
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Ballstedt, Berlstedt, Ettersburg, Krautheim, Neumark, Ramsla,
-        Schwerstedt, Vippachedelhausen
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Buttelstedt
+    *   Erfüllende Gemeinde Ilmtal-Weinstraße
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Buttelstedt, Großobringen, Heichelheim, Kleinobringen, Leutenthal,
-        Rohrbach, Sachsenhausen, Wohlsborn
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Ilmtal-Weinstraße
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Kromsdorf, Liebstedt, Mattstedt, Niederreißen, Niederroßla, Nirmsdorf,
-        Oberreißen, Oßmannstedt, Pfiffelbach, Willerstedt
+        Ilmtal-Weinstraße, Kromsdorf
 
 
 *    *
@@ -8918,6 +8644,21 @@ vorliegen.
 
 *    *
     *
+    *
+    *   Verwaltungsgemeinschaft Nordkreis Weimar
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Ballstedt, Berlstedt, Buttelstedt, Ettersburg, Großobringen,
+        Heichelheim, Kleinobringen, Krautheim, Leutenthal, Neumark, Ramsla,
+        Rohrbach, Sachsenhausen, Schwerstedt, Vippachedelhausen, Wohlsborn
+
+
+*    *
+    *
     *   (Übrige Gemeinden s. Wkr. 193)
 
 
@@ -8925,12 +8666,12 @@ vorliegen.
 
     *   Gotha – Ilm-Kreis
 
-    *   Ilm-Kreis
+    *   Landkreis Gotha
 
 
 *    *
     *
-    *   Landkreis Gotha
+    *   Landkreis Ilm-Kreis
 
 
 *    *   193
@@ -8940,7 +8681,9 @@ vorliegen.
     *   Kreisfreie Stadt Erfurt
 
 
-*    *   Kreisfreie Stadt Weimar
+*    *
+    *
+    *   Kreisfreie Stadt Weimar
 
 
 *    *
@@ -8969,23 +8712,13 @@ vorliegen.
 
 *    *   194
 
-    *   Gera – Jena – Saale-Holzland-Kreis
+    *   Gera – Greiz – Altenburger Land
 
     *   Kreisfreie Stadt Gera
 
 
-*    *   Kreisfreie Stadt Jena
-
-
 *    *
     *
-    *   Saale-Holzland-Kreis
-
-
-*    *   195
-
-    *   Greiz – Altenburger Land
-
     *   Landkreis Altenburger Land
 
 
@@ -8994,29 +8727,32 @@ vorliegen.
     *   Landkreis Greiz
 
 
-*    *   196
+*    *   195
 
-    *   Sonneberg – Saalfeld-Rudolstadt – Saale-Orla-Kreis
+    *   Saalfeld-Rudolstadt –
+        Saale-Holzland-Kreis –
+        Saale-Orla-Kreis
 
-    *   Landkreis Saalfeld-Rudolstadt
-
-
-*    *   Landkreis Sonneberg
+    *   Landkreis Saale-Holzland-Kreis
 
 
 *    *
-    *
-    *   Saale-Orla-Kreis
+    *   Landkreis Saale-Orla-Kreis
 
 
-*    *   197
+*    *
+    *   Landkreis Saalfeld-Rudolstadt
 
-    *   Suhl – Schmalkalden-Meiningen – Hildburghausen
+
+*    *   196
+
+    *   Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg
 
     *   Kreisfreie Stadt Suhl
 
 
-*    *   Landkreis Hildburghausen
+*    *
+    *   Landkreis Hildburghausen
 
 
 *    *
@@ -9024,10 +8760,15 @@ vorliegen.
     *   Landkreis Schmalkalden-Meiningen
 
 
+*    *
+    *
+    *   Landkreis Sonneberg
+
+
 *    *   **Rheinland-Pfalz**
 
 
-*    *   198
+*    *   197
 
     *   Neuwied
 
@@ -9039,7 +8780,7 @@ vorliegen.
     *   Landkreis Neuwied
 
 
-*    *   199
+*    *   198
 
     *   Ahrweiler
 
@@ -9117,10 +8858,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 200)
+    *   (Übrige Gemeinden s. Wkr. 199)
 
 
-*    *   200
+*    *   199
 
     *   Koblenz
 
@@ -9141,29 +8882,16 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Rhens
+    *   Verbandsgemeinde Rhein-Mosel
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Brey, Rhens, Spay, Waldesch
-
-
-*    *
-    *
-    *
-    *   Verbandsgemeinde Untermosel
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Alken, Brodenbach, Burgen, Dieblich, Hatzenport, Kobern-Gondorf,
-        Lehmen, Löf, Macken, Niederfell, Nörtershausen, Oberfell, Winningen,
-        Wolken
+        Alken, Brey, Brodenbach, Burgen, Dieblich, Hatzenport, Kobern-Gondorf,
+        Lehmen, Löf, Macken, Niederfell, Nörtershausen, Oberfell, Rhens, Spay,
+        Waldesch, Winningen, Wolken
 
 
 *    *
@@ -9195,7 +8923,7 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 199)
+    *   (Übrige Gemeinden s. Wkr. 198)
 
 
 *    *
@@ -9226,19 +8954,6 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Braubach
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Braubach, Dachsenhausen, Filsen, Kamp-Bornhofen, Osterspai
-
-
-*    *
-    *
-    *
     *   Verbandsgemeinde Loreley
 
 
@@ -9246,17 +8961,18 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Auel, Bornich, Dahlheim, Dörscheid, Kaub, Kestert, Lierschied,
-        Lykershausen, Nochern, Patersberg, Prath, Reichenberg, Reitzenhain,
-        Loreleystadt Sankt Goarshausen, Sauerthal, Weisel, Weyer
+        Auel, Bornich, Braubach, Dachsenhausen, Dahlheim, Dörscheid, Filsen,
+        Kamp-Bornhofen, Kaub, Kestert, Lierschied, Lykershausen, Nochern,
+        Osterspai, Patersberg, Prath, Reichenberg, Reitzenhain, Loreleystadt
+        Sankt Goarshausen, Sauerthal, Weisel, Weyer
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 205)
+    *   (Übrige Gemeinden s. Wkr. 204)
 
 
-*    *   201
+*    *   200
 
     *   Mosel/Rhein-Hunsrück
 
@@ -9314,7 +9030,7 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Traben-Trarbach
+    *   von der Verbandsgemeinde Traben-Trarbach
 
 
 *    *
@@ -9327,10 +9043,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 203)
+    *   (Übrige Gemeinden s. Wkr. 202)
 
 
-*    *   202
+*    *   201
 
     *   Kreuznach
 
@@ -9342,7 +9058,7 @@ vorliegen.
     *   Landkreis Birkenfeld
 
 
-*    *   203
+*    *   202
 
     *   Bitburg
 
@@ -9368,7 +9084,27 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Kröv-Bausendorf
+    *   Verbandsgemeinde Wittlich-Land
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Altrich, Arenrath, Bergweiler, Bettenfeld, Binsfeld, Bruch, Dierfeld,
+        Dierscheid, Dodenburg, Dreis, Eckfeld, Eisenschmitt, Esch, Gipperath,
+        Gladbach, Greimerath, Großlittgen, Hasborn, Heckenmünster, Heidweiler,
+        Hetzerath, Hupperath, Karl, Klausen, Landscheid, Laufeld,
+        Manderscheid, Meerfeld, Minderlittgen, Musweiler, Niederöfflingen,
+        Niederscheidweiler, Niersbach, Oberöfflingen, Oberscheidweiler, Osann-
+        Monzel, Pantenburg, Platten, Plein, Rivenich, Salmtal, Schladt,
+        Schwarzenborn, Sehlem, Wallscheid
+
+
+*    *
+    *
+    *
+    *   von der Verbandsgemeinde Traben-Trarbach
 
 
 *    *
@@ -9381,42 +9117,10 @@ vorliegen.
 
 *    *
     *
-    *
-    *   Verbandsgemeinde Manderscheid
+    *   (Übrige Gemeinden s. Wkr. 200)
 
 
-*    *
-    *
-    *
-    *   die Gemeinden
-        Bettenfeld, Dierfeld, Eckfeld, Eisenschmitt, Gipperath, Greimerath,
-        Großlittgen, Hasborn, Karl, Laufeld, Manderscheid, Meerfeld,
-        Musweiler, Niederöfflingen, Niederscheidweiler, Oberöfflingen,
-        Oberscheidweiler, Pantenburg, Schladt, Schwarzenborn, Wallscheid
-
-
-*    *
-    *
-    *
-    *   Verbandsgemeinde Wittlich-Land
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Altrich, Arenrath, Bergweiler, Binsfeld, Bruch, Dierscheid, Dodenburg,
-        Dreis, Esch, Gladbach, Heckenmünster, Heidweiler, Hetzerath,
-        Hupperath, Klausen, Landscheid, Minderlittgen, Niersbach, Osann-
-        Monzel, Platten, Plein, Rivenich, Salmtal, Sehlem
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 201)
-
-
-*    *   204
+*    *   203
 
     *   Trier
 
@@ -9428,7 +9132,7 @@ vorliegen.
     *   Landkreis Trier-Saarburg
 
 
-*    *   205
+*    *   204
 
     *   Montabaur
 
@@ -9522,10 +9226,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 200)
+    *   (Übrige Gemeinden s. Wkr. 199)
 
 
-*    *   206
+*    *   205
 
     *   Mainz
 
@@ -9602,24 +9306,10 @@ vorliegen.
 
 *    *
     *
-    *
-    *   Verbandsgemeinde Sprendlingen-Gensingen
+    *   (Übrige Gemeinden s. Wkr. 206)
 
 
-*    *
-    *
-    *
-    *   die Gemeinden
-        Aspisheim, Badenheim, Gensingen, Grolsheim, Horrweiler, Sankt Johann,
-        Sprendlingen, Welgesheim, Wolfsheim, Zotzenheim
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 207)
-
-
-*    *   207
+*    *   206
 
     *   Worms
 
@@ -9652,37 +9342,39 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Guntersblum
+    *   Verbandsgemeinde Rhein-Selz
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Dolgesheim, Dorn-Dürkheim, Eimsheim, Guntersblum, Hillesheim,
-        Ludwigshöhe, Uelversheim, Weinolsheim, Wintersheim
+        Dalheim, Dexheim, Dienheim, Dolgesheim, Dorn-Dürkheim, Eimsheim,
+        Friesenheim, Guntersblum, Hahnheim, Hillesheim, Köngernheim,
+        Ludwigshöhe, Mommenheim, Nierstein, Oppenheim, Selzen, Uelversheim,
+        Undenheim, Weinolsheim, Wintersheim
 
 
 *    *
     *
     *
-    *   Verbandsgemeinde Nierstein-Oppenheim
+    *   Verbandsgemeinde Sprendlingen-Gensingen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Dalheim, Dexheim, Dienheim, Friesenheim, Hahnheim, Köngernheim,
-        Mommenheim, Nierstein, Oppenheim, Selzen, Undenheim
+        Aspisheim, Badenheim, Gensingen, Grolsheim, Horrweiler, Sankt Johann,
+        Sprendlingen, Welgesheim, Wolfsheim, Zotzenheim
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 206)
+    *   (Übrige Gemeinden s. Wkr. 205)
 
 
-*    *   208
+*    *   207
 
     *   Ludwigshafen/Frankenthal
 
@@ -9703,8 +9395,7 @@ vorliegen.
     *
     *
     *   verbandsfreie Gemeinden
-        Altrip, Bobenheim-Roxheim, Böhl-Iggelheim, Lambsheim, Limburgerhof,
-        Mutterstadt, Neuhofen
+        Bobenheim-Roxheim, Böhl-Iggelheim, Limburgerhof, Mutterstadt
 
 
 *    *
@@ -9723,7 +9414,7 @@ vorliegen.
 *    *
     *
     *
-    *   Verbandsgemeinde Heßheim
+    *   Verbandsgemeinde Lambsheim-Heßheim
 
 
 *    *
@@ -9731,7 +9422,7 @@ vorliegen.
     *
     *   die Gemeinden
         Beindersheim, Großniedesheim, Heßheim, Heuchelheim bei Frankenthal,
-        Kleinniedesheim
+        Kleinniedesheim, Lambsheim
 
 
 *    *
@@ -9749,10 +9440,23 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 209)
+    *
+    *   von der Verbandsgemeinde Rheinauen
 
 
-*    *   209
+*    *
+    *
+    *
+    *   die Gemeinden
+        Altrip, Neuhofen
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 208)
+
+
+*    *   208
 
     *   Neustadt – Speyer
 
@@ -9777,27 +9481,26 @@ vorliegen.
 *    *
     *
     *
-    *   verbandsfreie Gemeinden
-        Römerberg, Schifferstadt
+    *   verbandsfreie Gemeinde Schifferstadt
 
 
 *    *
     *
     *
-    *   Verbandsgemeinde Dudenhofen
+    *   Verbandsgemeinde Römerberg-Dudenhofen
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Dudenhofen, Hanhofen, Harthausen
+        Dudenhofen, Hanhofen, Harthausen, Römerberg
 
 
 *    *
     *
     *
-    *   Verbandsgemeinde Waldsee
+    *   von der Verbandsgemeinde Rheinauen
 
 
 *    *
@@ -9809,10 +9512,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 208)
+    *   (Übrige Gemeinden s. Wkr. 207)
 
 
-*    *   210
+*    *   209
 
     *   Kaiserslautern
 
@@ -9844,48 +9547,23 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Enkenbach-Alsenborn, Mehlingen, Neuhemsbach, Sembach
+        Enkenbach-Alsenborn, Fischbach, Frankenstein, Hochspeyer, Mehlingen,
+        Neuhemsbach, Sembach, Waldleiningen
 
 
 *    *
     *
     *
-    *   Verbandsgemeinde Hochspeyer
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Fischbach, Frankenstein, Hochspeyer, Waldleiningen
-
-
-*    *
-    *
-    *
-    *   Verbandsgemeinde Otterbach
+    *   Verbandsgemeinde Otterbach-Otterberg
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Frankelbach, Hirschhorn/Pfalz, Katzweiler, Mehlbach, Olsbrücken,
-        Otterbach, Sulzbachtal
-
-
-*    *
-    *
-    *
-    *   Verbandsgemeinde Otterberg
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Heiligenmoschel, Niederkirchen, Otterberg, Schallodenbach,
-        Schneckenhausen
+        Frankelbach, Heiligenmoschel, Hirschhorn/Pfalz, Katzweiler, Mehlbach,
+        Niederkirchen, Olsbrücken, Otterbach, Otterberg, Schallodenbach,
+        Schneckenhausen, Sulzbachtal
 
 
 *    *
@@ -9904,10 +9582,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 211)
+    *   (Übrige Gemeinden s. Wkr. 210)
 
 
-*    *   211
+*    *   210
 
     *   Pirmasens
 
@@ -9985,10 +9663,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 210)
+    *   (Übrige Gemeinden s. Wkr. 209)
 
 
-*    *   212
+*    *   211
 
     *   Südpfalz
 
@@ -10008,7 +9686,7 @@ vorliegen.
 *    *   **Bayern**
 
 
-*    *   213
+*    *   212
 
     *   Altötting
 
@@ -10020,7 +9698,7 @@ vorliegen.
     *   Landkreis Mühldorf a.Inn
 
 
-*    *   214
+*    *   213
 
     *   Erding – Ebersberg
 
@@ -10032,7 +9710,7 @@ vorliegen.
     *   Landkreis Erding
 
 
-*    *   215
+*    *   214
 
     *   Freising
 
@@ -10046,13 +9724,27 @@ vorliegen.
 
 *    *
     *
-    *   vom Landkreis Dachau
+    *   vom Landkreis Neuburg-Schrobenhausen
 
 
 *    *
     *
     *
-    *   die Gemeinde Petershausen
+    *   die Gemeinden
+        Aresing, Schrobenhausen
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Schrobenhausen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Berg im Gau, Brunnen, Gachenbach, Langenmosen, Waidhofen
 
 
 *    *
@@ -10060,62 +9752,60 @@ vorliegen.
     *   (Übrige Gemeinden s. Wkr. 216)
 
 
-*    *
-    *
-    *   vom Landkreis Neuburg-Schrobenhausen
-
-
-*    *
-    *
-    *
-    *   die Gemeinde Aresing
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 217)
-
-
-*    *   216
+*    *   215
 
     *   Fürstenfeldbruck
 
-    *   Landkreis Fürstenfeldbruck
+    *   Landkreis Dachau
 
 
 *    *
     *
-    *   vom Landkreis Dachau
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Altomünster, Bergkirchen, Dachau, Erdweg, Haimhausen, Hebertshausen,
-        Hilgertshausen-Tandern, Karlsfeld, Markt Indersdorf, Röhrmoos,
-        Schwabhausen, Vierkirchen, Weichs
-
-
-*    *
-    *
-    *
-    *   Verwaltungsgemeinschaft Odelzhausen
+    *   vom Landkreis Fürstenfeldbruck
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Odelzhausen, Pfaffenhofen a. d. Glonn, Sulzemoos
+        Alling, Egenhofen, Eichenau, Emmering, Fürstenfeldbruck, Gröbenzell,
+        Maisach, Moorenweis, Olching, Puchheim,
+        Türkenfeld
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 215)
+    *
+    *   Verwaltungsgemeinschaft Grafrath
 
 
-*    *   217
+*    *
+    *
+    *
+    *   die Gemeinden
+        Grafrath, Kottgeisering, Schöngeising
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Mammendorf
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Adelshofen, Althegnenberg, Hattenhofen, Jesenwang, Landsberied,
+        Mammendorf, Mittelstetten, Oberschweinbach
+
+
+*    *
+    *
+    *   (Übrige Gemeinde s. Wkr. 224)
+
+
+*    *   216
 
     *   Ingolstadt
 
@@ -10136,14 +9826,14 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg a. d.
-        Donau, Oberhausen, Rennertshofen, Schrobenhausen, Weichering
+        Burgheim, Ehekirchen, Karlshuld, Karlskron, Königsmoos, Neuburg
+        a.d.Donau, Oberhausen, Rennertshofen, Weichering
 
 
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Neuburg a. d. Donau
+    *   Verwaltungsgemeinschaft Neuburg a.d.Donau
 
 
 *    *
@@ -10155,23 +9845,10 @@ vorliegen.
 
 *    *
     *
-    *
-    *   Verwaltungsgemeinschaft Schrobenhausen
+    *   (Übrige Gemeinden s. Wkr. 214)
 
 
-*    *
-    *
-    *
-    *   die Gemeinden
-        Berg im Gau, Brunnen, Gachenbach, Langenmosen, Waidhofen
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 215)
-
-
-*    *   218
+*    *   217
 
     *   München-Nord
 
@@ -10186,10 +9863,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 219, 220, 221)
+    *   (Übrige Stadtbezirke s. Wkr. 218, 219, 220)
 
 
-*    *   219
+*    *   218
 
     *   München-Ost
 
@@ -10204,10 +9881,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 218, 220, 221)
+    *   (Übrige Stadtbezirke s. Wkr. 217, 219, 220)
 
 
-*    *   220
+*    *   219
 
     *   München-Süd
 
@@ -10222,10 +9899,10 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 218, 219, 221)
+    *   (Übrige Stadtbezirke s. Wkr. 217, 218, 220)
 
 
-*    *   221
+*    *   220
 
     *   München-West/Mitte
 
@@ -10240,33 +9917,17 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Stadtbezirke s. Wkr. 218, 219, 220)
+    *   (Übrige Stadtbezirke s. Wkr. 217, 218, 219)
 
 
-*    *   222
+*    *   221
 
     *   München-Land
 
     *   Landkreis München
 
 
-*    *
-    *
-    *   vom Landkreis Starnberg
-
-
-*    *
-    *
-    *
-    *   die Gemeinde Gauting
-
-
-*    *
-    *
-    *   (Übrige Gemeinden s. Wkr. 224)
-
-
-*    *   223
+*    *   222
 
     *   Rosenheim
 
@@ -10278,9 +9939,9 @@ vorliegen.
     *   Landkreis Rosenheim
 
 
-*    *   224
+*    *   223
 
-    *   Starnberg
+    *   Bad Tölz-Wolfratshausen – Miesbach
 
     *   Landkreis Bad Tölz-Wolfratshausen
 
@@ -10290,23 +9951,32 @@ vorliegen.
     *   Landkreis Miesbach
 
 
-*    *
-    *
-    *   vom Landkreis Starnberg
+*    *   224
+
+    *   Starnberg – Landsberg am Lech
+
+    *   Landkreis Landsberg am Lech
 
 
 *    *
     *
-    *
-    *   die Gemeinden
-        Andechs, Berg, Feldafing, Gilching, Herrsching a.Ammersee, Inning
-        a.Ammersee, Krailling, Pöcking, Seefeld, Starnberg, Tutzing, Weßling,
-        Wörthsee
+    *   Landkreis Starnberg
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 222)
+    *   vom Landkreis Fürstenfeldbruck
+
+
+*    *
+    *
+    *
+    *   die Gemeinde Germering
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 215)
 
 
 *    *   225
@@ -10330,11 +10000,6 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Landsberg am Lech
-
-
-*    *
-    *
     *   Landkreis Weilheim-Schongau
 
 
@@ -10348,6 +10013,23 @@ vorliegen.
 *    *
     *
     *   Landkreis Freyung-Grafenau
+
+
+*    *
+    *
+    *   vom Landkreis Passau
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aicha vorm Wald, Eging a.See, Fürstenstein, Hofkirchen
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 229)
 
 
 *    *   228
@@ -10364,7 +10046,87 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Landshut
+    *   vom Landkreis Landshut
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Adlkofen, Altdorf, Bodenkirchen, Bruckberg, Buch
+        a.Erlbach, Eching, Ergolding, Essenbach, Geisenhausen, Hohenthann,
+        Kumhausen, Neufahrn i.NB, Niederaichbach, Pfeffenhausen, Rottenburg
+        a.d.Laaber, Tiefenbach, Vilsbiburg, Vilsheim
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Altfraunhofen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Altfraunhofen, Baierbach
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Ergoldsbach
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Bayerbach b.Ergoldsbach, Ergoldsbach
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Furth
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Furth, Obersüßbach, Weihmichl
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Velden
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Neufraunhofen, Velden, Wurmsham
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Wörth a.d.Isar
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Postau, Weng, Wörth a.d.Isar
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 230)
 
 
 *    *   229
@@ -10376,7 +10138,63 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Passau
+    *   vom Landkreis Passau
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aldersbach, Bad Füssing, Bad Griesbach i.Rottal, Breitenberg,
+        Büchlberg, Fürstenzell, Haarbach, Hauzenberg, Hutthurm, Kirchham,
+        Kößlarn, Neuburg a.Inn, Neuhaus a.Inn, Neukirchen vorm Wald,
+        Obernzell, Ortenburg, Pocking, Ruderting, Ruhstorf a.d.Rott, Salzweg,
+        Sonnen, Tettenweis, Thyrnau, Tiefenbach, Untergriesbach, Vilshofen an
+        der Donau, Wegscheid, Windorf
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Aidenbach
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aidenbach, Beutelsbach
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Rotthalmünster
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Malching, Rotthalmünster
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Tittling
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Tittling, Witzmannsberg
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 227)
 
 
 *    *   230
@@ -10389,6 +10207,29 @@ vorliegen.
 *    *
     *
     *   Landkreis Rottal-Inn
+
+
+*    *
+    *
+    *   vom Landkreis Landshut
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Gerzen
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Aham, Gerzen, Kröning, Schalkham
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 228)
 
 
 *    *   231
@@ -10422,7 +10263,7 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Neumarkt i. d. OPf.
+    *   Landkreis Neumarkt i.d.OPf.
 
 
 *    *   233
@@ -10453,12 +10294,12 @@ vorliegen.
 
     *   Weiden
 
-    *   Kreisfreie Stadt Weiden i. d. OPf.
+    *   Kreisfreie Stadt Weiden i.d.OPf.
 
 
 *    *
     *
-    *   Landkreis Neustadt a. d. Waldnaab
+    *   Landkreis Neustadt a.d.Waldnaab
 
 
 *    *
@@ -10483,7 +10324,7 @@ vorliegen.
     *
     *   die Gemeinden
         Altendorf, Buttenheim, Frensdorf, Hallstadt, Hirschaid, Pettstadt,
-        Pommersfelden, Schlüsselfeld, Strullendorf
+        Pommersfelden, Schlüsselfeld, Stegaurach, Strullendorf, Walsdorf
 
 
 *    *
@@ -10496,7 +10337,7 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Burgebrach, Schönbrunn i. Steigerwald
+        Burgebrach, Schönbrunn i.Steigerwald
 
 
 *    *
@@ -10527,19 +10368,6 @@ vorliegen.
 
 *    *
     *
-    *
-    *   Verwaltungsgemeinschaft Stegaurach
-
-
-*    *
-    *
-    *
-    *   die Gemeinden
-        Stegaurach, Walsdorf
-
-
-*    *
-    *
     *   (Übrige Gemeinden s. Wkr. 240)
 
 
@@ -10553,7 +10381,7 @@ vorliegen.
     *
     *   die Gemeinden
         Eggolsheim, Forchheim, Hallerndorf, Hausen, Heroldsbach, Igensdorf,
-        Langensendelbach, Neunkirchen a. Brand
+        Langensendelbach, Neunkirchen a.Brand
 
 
 *    *
@@ -10685,6 +10513,22 @@ vorliegen.
     *   Landkreis Kronach
 
 
+*    *
+    *
+    *   vom Landkreis Hof
+
+
+*    *
+    *
+    *
+    *   die Gemeinde Geroldsgrün
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 239)
+
+
 *    *   239
 
     *   Hof
@@ -10694,12 +10538,79 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Hof
+    *   Landkreis Wunsiedel i.Fichtelgebirge
 
 
 *    *
     *
-    *   Landkreis Wunsiedel i. Fichtelgebirge
+    *   vom Landkreis Hof
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Bad Steben, Berg, Döhlau, Helmbrechts, Köditz, Konradsreuth,
+        Münchberg, Naila, Oberkotzau, Regnitzlosau, Rehau, Schwarzenbach
+        a.Wald, Schwarzenbach
+        a.d.Saale, Selbitz, Stammbach, Zell im Fichtelgebirge
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Feilitzsch
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Feilitzsch, Gattendorf, Töpen, Trogen
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Lichtenberg
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Issigau, Lichtenberg
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Schauenstein
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Leupoldsgrün, Schauenstein
+
+
+*    *
+    *
+    *
+    *   Verwaltungsgemeinschaft Sparneck
+
+
+*    *
+    *
+    *
+    *   die Gemeinden
+        Sparneck, Weißdorf
+
+
+*    *
+    *
+    *   (Übrige Gemeinde s. Wkr. 238)
 
 
 *    *   240
@@ -10723,10 +10634,9 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Bischberg, Breitengüßbach, Gundelsheim,
-        Heiligenstadt i. OFr.,                      Kemmern, Litzendorf,
-        Memmelsdorf, Oberhaid, Rattelsdorf, Scheßlitz, Viereth-Trunstadt,
-        Zapfendorf
+        Bischberg, Breitengüßbach, Gundelsheim, Heiligenstadt
+        i.OFr., Kemmern, Litzendorf, Memmelsdorf, Oberhaid, Rattelsdorf,
+        Scheßlitz, Viereth-Trunstadt, Zapfendorf
 
 
 *    *
@@ -10803,7 +10713,7 @@ vorliegen.
 
 *    *
     *
-    *   Landkreis Neustadt a. d. Aisch-Bad Windsheim
+    *   Landkreis Neustadt a.d.Aisch-Bad Windsheim
 
 
 *    *   244
@@ -11109,14 +11019,14 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 252)
+    *   (Übrige Gemeinde s. Wkr. 252)
 
 
 *    *   254
 
     *   Donau-Ries
 
-    *   Landkreis Dillingen a. d. Donau
+    *   Landkreis Dillingen a.d.Donau
 
 
 *    *
@@ -11206,8 +11116,8 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Babenhausen, Egg a. d. Günz, Kettershausen, Kirchhaslach,
-        Oberschönegg, Winterrieden
+        Babenhausen, Egg a.d.Günz, Kettershausen, Kirchhaslach, Oberschönegg,
+        Winterrieden
 
 
 *    *
@@ -11344,14 +11254,14 @@ vorliegen.
 *    *
     *
     *
-    *   Verwaltungsgemeinschaft Kirchheim i. Schw.
+    *   Verwaltungsgemeinschaft Kirchheim i.Schw.
 
 
 *    *
     *
     *
     *   die Gemeinden
-        Eppishausen, Kirchheim i. Schw.
+        Eppishausen, Kirchheim i.Schw.
 
 
 *    *
@@ -11458,12 +11368,12 @@ vorliegen.
         Gärtringen, Gäufelden, Grafenau, Herrenberg, Hildrizhausen,
         Holzgerlingen, Jettingen, Leonberg, Magstadt, Mötzingen, Nufringen,
         Renningen, Rutesheim, Schönaich, Sindelfingen, Weil der Stadt, Weil im
-        Schönbuch, Weissach
+        Schönbuch
 
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 262)
+    *   (Übrige Gemeinden s. Wkr. 262, 265)
 
 
 *    *   261
@@ -11504,7 +11414,7 @@ vorliegen.
 
 *    *
     *
-    *   (Übrige Gemeinden s. Wkr. 260)
+    *   (Übrige Gemeinden s. Wkr. 260, 265)
 
 
 *    *
@@ -11563,7 +11473,23 @@ vorliegen.
 
     *   Ludwigsburg
 
-    *   Vom Landkreis Ludwigsburg
+    *   Vom Landkreis Böblingen
+
+
+*    *
+    *
+    *
+    *   die Gemeinde Weissach
+
+
+*    *
+    *
+    *   (Übrige Gemeinden s. Wkr. 260, 262)
+
+
+*    *
+    *
+    *   vom Landkreis Ludwigsburg
 
 
 *    *
@@ -11642,9 +11568,9 @@ vorliegen.
         Bad Friedrichshall, Bad Rappenau, Bad Wimpfen, Eberstadt, Ellhofen,
         Eppingen, Erlenbach, Gemmingen, Gundelsheim, Hardthausen am Kocher,
         Ittlingen, Jagsthausen, Kirchardt, Langenbrettach, Lehrensteinsfeld,
-        Löwenstein, Massenbachhausen, Möckmühl, Neckarsulm, Neudenau, Neuen-
-        stadt am Kocher, Obersulm, Oedheim, Offenau, Roigheim, Schwaigern,
-        Siegelsbach, Untereisesheim, Weinsberg, Widdern, Wüstenrot
+        Löwenstein, Massenbachhausen, Möckmühl, Neckarsulm, Neudenau,
+        Neuenstadt am Kocher, Obersulm, Oedheim, Offenau, Roigheim,
+        Schwaigern, Siegelsbach, Untereisesheim, Weinsberg, Widdern, Wüstenrot
 
 
 *    *
@@ -11672,6 +11598,8 @@ vorliegen.
 
 
 *    *
+    *
+    *
     *   die Gemeinden
         Abtsgmünd, Bartholomä, Böbingen an der Rems, Durlangen, Eschach,
         Göggingen, Gschwend, Heubach, Heuchlingen, Iggingen, Leinzell, Lorch,
@@ -11946,10 +11874,10 @@ vorliegen.
     *
     *
     *   die Gemeinden
-        Auggen, Bad Krozingen, Badenweiler,
-        Ballrechten-Dottingen,                      Buggingen, Eschbach,
-        Hartheim, Heitersheim, Müllheim, Münstertal/Schwarzwald, Neuenburg am
-        Rhein, Staufen im Breisgau, Sulzburg
+        Auggen, Bad Krozingen, Badenweiler, Ballrechten-Dottingen, Buggingen,
+        Eschbach, Hartheim am Rhein, Heitersheim, Müllheim,
+        Münstertal/Schwarzwald, Neuenburg am Rhein, Staufen im Breisgau,
+        Sulzburg
 
 
 *    *

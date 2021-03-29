@@ -2,7 +2,7 @@
 Title: Elftes Gesetz zur Änderung des Lastenausgleichsgesetzes
 jurabk: LAGÄndG 11
 layout: default
-origslug: lag_ndg_11
+origslug: lagaendg_11
 slug: lagaendg_11
 
 ---

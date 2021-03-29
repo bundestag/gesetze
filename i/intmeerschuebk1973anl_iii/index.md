@@ -5,7 +5,7 @@ Title: Regeln zur Verhütung der Verschmutzung durch Schadstoffe, die auf See in
   der Meeresverschmutzung durch Schiffe)
 jurabk: IntMeerSchÜbk1973Anl III
 layout: default
-origslug: intmeersch_bk1973anl_iii
+origslug: intmeerschuebk1973anl_iii
 slug: intmeerschuebk1973anl_iii
 
 ---

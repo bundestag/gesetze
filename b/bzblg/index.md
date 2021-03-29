@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1971, 1234
 
 Zuletzt geändert durch
-:   Art. 58 V v. 31.10.2006 I 2407
+:   Art. 73 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -68,8 +68,8 @@ dem Schutz vor schädlichen Umwelteinwirkungen vereinbar ist. Die
 Zulassung kann unter Bedingungen erteilt, mit Auflagen verbunden und
 befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen
 für die Zulassung nicht mehr vorliegen. Das Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit erläßt im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie
+Umwelt, Naturschutz, Bau und Reaktorsicherheit erläßt im Einvernehmen
+mit dem Bundesministerium für Wirtschaft und Energie
 Verwaltungsvorschriften über die Grundsätze der Zulassung der Zusätze
 nach Satz 1.
 
@@ -132,9 +132,9 @@ Begrenzung auf 0,40 Gramm Blei im Liter längstens bis zum 31. Dezember
 1973 und bei einer Ausnahme von der Begrenzung auf 0,15 Gramm Blei im
 Liter längstens bis zum 31. Dezember 1977.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit erläßt im Einvernehmen mit dem Bundesministerium der
-Finanzen und dem Bundesministerium für Wirtschaft und Technologie
+Finanzen und dem Bundesministerium für Wirtschaft und Energie
 Verwaltungsvorschriften über die Grundsätze, die bei der Bewilligung
 der Ausnahmen zu beachten sind.
 
@@ -172,8 +172,8 @@ Zahlungsverjährung gelten die §§ 228 bis 232 der Abgabenordnung
 entsprechend.
 
 (3) Das Bundesministerium der Finanzen erläßt im Einvernehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und
-dem Bundesministerium für Wirtschaft und Technologie
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+und dem Bundesministerium für Wirtschaft und Energie
 Verwaltungsvorschriften über das bei der Festsetzung, Erhebung und
 Beitreibung der Abgabe anzuwendende Verfahren.
 

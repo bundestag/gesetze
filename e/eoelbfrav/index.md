@@ -3,7 +3,7 @@ Title: Verordnung über die Erfüllung der Vorratspflicht mit in Frankreich befi
   Beständen an Erdöl und Erdölerzeugnissen
 jurabk: EÖlBFRAV
 layout: default
-origslug: e_lbfrav
+origslug: eoelbfrav
 slug: eoelbfrav
 
 ---

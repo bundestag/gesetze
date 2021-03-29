@@ -15,6 +15,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 690
 
+Geändert durch
+:   Art. 3 G v. 3.5.2013 I 1084
+
+Mittelbare änderung durch
+:   Art. 1 Nr. 3 G v. 20.11.2014 I 1738 ist berücksichtigt
+
 
 ## § 1 Anwendungsbereich des Gesetzes
 
@@ -148,10 +154,12 @@ erforderlich ist. Dies sind:
 
 1.  Familienname, Vatersname, Vornamen, Tag und Ort der Geburt,
     Geburtsbezirk, Geschlecht, Staatsangehörigkeit, Volkszugehörigkeit,
-    Wohnanschrift und frühere Wohnanschriften, gegenwärtiger
+    Wohnanschrift und frühere Wohnanschriften, Einzugsdatum und
+    Auszugsdatum, bei Zuzug aus dem Ausland auch der Staat, gegenwärtiger
     Aufenthaltsort, Telefon-/Telefaxnummern, E-Mail-/Internetadressen,
-    Schulbesuche, ausgeübte Berufe, erworbene Berufsbezeichnungen und
-    akademische Grade sowie Namen von Familienangehörigen, der
+    Schulbesuche, ausgeübte Berufe, erworbene Berufsbezeichnungen
+    akademische Grade, Sterbedatum, Sterbeort, bei Versterben im Ausland
+    auch der Staat sowie Namen von Familienangehörigen, der
     Verwandtschaftsgrad zu diesen, deren Staatsangehörigkeit, deren
     Volkszugehörigkeit und deren Wohnanschriften,
 
@@ -195,8 +203,7 @@ regelmäßige Datenübermittlungen in automatisierter Form die zu ihrer
 Aufgabenerfüllung erforderlichen personenbezogenen Daten aus dem
 Aufnahmeverfahren nach dem Bundesvertriebenengesetz, wenn die
 Antragsteller aus den in § 1 Abs. 2 Nr. 3
-des Bundesvertriebenengesetzes              genannten Gebieten
-stammen.
+des Bundesvertriebenengesetzes genannten Gebieten stammen.
 
 
 ## § 4 Verwendung

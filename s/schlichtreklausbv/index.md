@@ -506,8 +506,9 @@ die Verordnung über die Berufsausbildung zum Schilder- und
 Lichtreklamehersteller/zur Schilder- und Lichtreklameherstellerin vom
 19\. Mai 1999 (BGBl. I S. 1066) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Schilder- und Lichtreklamehersteller und zur Schilder- und Lichtreklameherstellerin
 
 (Fundstelle: BGBl. I 2012, 497 - 502)
 

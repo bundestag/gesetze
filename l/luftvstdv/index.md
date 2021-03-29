@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1812
 
+Änderung durch
+:   Art. 11 V v. 2.1.2018 I 84 (Nr. 2) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
 
 ## Eingangsformel
 
@@ -174,11 +177,11 @@ Voraussetzungen erfüllt sind:
 durch Datenfernübertragung übermittelt werden (elektronische
 Datenübermittlung), sobald die organisatorischen und technischen
 Voraussetzungen dafür bei der Zollverwaltung gegeben sind. Mit der
-elektronischen Datenübermittlung können unter den Voraussetzungen des
-§ 11 des Bundesdatenschutzgesetzes Dritte beauftragt werden. Der mit
-der elektronischen Datenübermittlung beauftragte Auftragnehmer gilt
-als Empfangsbevollmächtigter für Mitteilungen des Hauptzollamtes an
-den Auftraggeber, solange dieser nicht widerspricht.
+elektronischen Datenübermittlung können Dritte als Auftragsverarbeiter
+im Sinne des Artikels 28 Datenschutz-Grundverordnung beauftragt
+werden. Der mit der elektronischen Datenübermittlung beauftragte
+Auftragnehmer gilt als Empfangsbevollmächtigter für Mitteilungen des
+Hauptzollamtes an den Auftraggeber, solange dieser nicht widerspricht.
 
 (2) Das Bundesministerium der Finanzen bestimmt im Benehmen mit dem
 Bundesministerium des Innern Art und Weise der elektronischen
@@ -254,7 +257,22 @@ nachprüfbarer Form zur Überprüfung zur Verfügung zu stellen. Der
 Auftraggeber hat die Daten unverzüglich zu überprüfen.
 
 
-## Abschnitt 5 - Inkrafttreten
+## Abschnitt 5 - Zu § 156 Absatz 1 der Abgabenordnung
+
+
+### § 6a Kleinbetragsregelung
+
+(1) Eine angemeldete oder festgesetzte Steuer wird vom zuständigen
+Hauptzollamt nur abweichend festgesetzt, geändert oder berichtigt,
+wenn die Abweichung von der angemeldeten oder festgesetzten Steuer
+mindestens 25 Euro beträgt.
+
+(2) Soweit die Festsetzung durch automatisierte Verfahren unterstützt
+wird, gilt Absatz 1 erst, wenn die entsprechende Regelung
+programmtechnisch umgesetzt worden ist.
+
+
+## Abschnitt 6 - Inkrafttreten
 
 
 ### § 7 Inkrafttreten

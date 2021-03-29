@@ -15,6 +15,10 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2006, 2098, 2102
 
+Stand: Dieses G tritt gem. Art 22 Satz 3 G v. 5.9.2006 I 2098 am 31.12.2019 außer Kraft
+Zuletzt geändert durch
+:   Art. 3 G v. 1.12.2016 I 2755
+
 
 
 ## § 1 Allgemein
@@ -31,48 +35,36 @@ Bundes jährlich Beträge aus dem Haushalt des Bundes zu.
 
 ## § 2 Finanzierung beendeter Gemeinschaftsaufgaben
 
-(1) Mit der Beendigung der Gemeinschaftsaufgabe "Ausbau und Neubau von
-Hochschulen einschließlich der Hochschulkliniken" steht den Ländern
-nach Artikel 143c Abs. 1 des Grundgesetzes ab dem 1. Januar 2007 bis
-zum 31. Dezember 2013 jährlich ein Betrag von 695.300.000 Euro aus dem
-Haushalt des Bundes zu. Mit diesem Betrag sind auch die Mittel zur
-Ausfinanzierung der vom Bund bis 2006 eingegangenen Verpflichtungen
-abgegolten. Der Bund stellt ab dem 1. Januar 2007 bis zum 31. Dezember
-2013 jährlich einen Betrag von 298.000.000 Euro für überregionale
-Fördermaßnahmen im Hochschulbereich nach Artikel 91b Abs. 1 des
-Grundgesetzes zur Verfügung. Bis zum Jahresende nicht verbrauchte
-Mittel nach Satz 3 werden im Übergangszeitraum 2007/2008 auf die
-nächsten Haushaltsjahre übertragen; in den Folgejahren nicht
-verbrauchte Mittel sind übertragbar.
+(1) Mit der Beendigung der Gemeinschaftsaufgabe „Ausbau und Neubau von
+Hochschulen einschließlich der Hochschulkliniken“ steht den Ländern
+nach Artikel 143c Absatz 1 des Grundgesetzes ab dem 1. Januar 2014 bis
+zum 31. Dezember 2019 jährlich ein Betrag von 695 300 000 Euro aus dem
+Haushalt des Bundes zu.
 
-(2) Mit der Beendigung der Gemeinschaftsaufgabe "Bildungsplanung"
-steht den Ländern ab dem 1. Januar 2007 bis zum 31. Dezember 2013
-jährlich ein Betrag von 19.900.000 Euro aus dem Haushalt des Bundes
-zu. Mit diesem Betrag sind auch die Mittel zur Ausfinanzierung der vom
-Bund bis 2006 eingegangenen Verpflichtungen abgegolten. Der Bund
-stellt ab dem 1. Januar 2007 bis zum 31. Dezember 2013 jährlich einen
-Betrag von 19.900.000 Euro für die nach Artikel 91b Abs. 2 des
-Grundgesetzes neu definierte Gemeinschaftsaufgabe zur Verfügung; diese
-Mittel können bis 2008 auch zur Mitfinanzierung auslaufender
-Modellversuche verwendet werden.
+(2) Mit der Beendigung der Gemeinschaftsaufgabe „Bildungsplanung“
+steht den Ländern ab dem 1. Januar 2014 bis zum 31. Dezember 2019
+jährlich ein Betrag von 19 900 000 Euro aus dem Haushalt des Bundes
+zu.
 
 
 ## § 3 Finanzierung beendeter Finanzhilfen
 
-(1) Mit der Beendigung der Finanzhilfen des Bundes für Investitionen
-zur Verbesserung der Verkehrsverhältnisse der Gemeinden steht den
-Ländern ab dem 1. Januar 2007 bis zum 31. Dezember 2013 jährlich ein
-Betrag von 1.335.500.000 Euro aus dem Haushalt des Bundes zu. Der Bund
+(1) Mit der Beendigung der Finanzhilfen des Bundes für „Investitionen
+zur Verbesserung der Verkehrsverhältnisse der Gemeinden“ steht den
+Ländern ab dem 1. Januar 2014 bis zum 31. Dezember 2019 jährlich ein
+Betrag von 1 335 500 000 Euro aus dem Haushalt des Bundes zu. Der Bund
 führt im Rahmen seiner Zuständigkeit die besonderen Programme nach § 6
-Abs. 1 und § 10 Abs. 2 Satz 1 und 3 des
+Absatz 1 und § 10 Absatz 2 Satz 1 und 3 des
 Gemeindeverkehrsfinanzierungsgesetzes fort.
 
 (2) Mit der Beendigung der Finanzhilfen des Bundes zur
-Wohnraumförderung steht den Ländern ab dem 1. Januar 2007 bis zum 31.
-Dezember 2013 jährlich ein Betrag von 518.200.000 Euro aus dem
-Haushalt des Bundes zu. Mit diesem Betrag sind auch die Mittel zur
-Ausfinanzierung der vom Bund bis 2006 eingegangenen Verpflichtungen
-abgegolten.
+Wohnraumförderung steht den Ländern ab dem 1. Januar 2014 bis zum 31.
+Dezember 2015 jährlich ein Betrag von 518 200 000 Euro, ab dem 1.
+Januar 2016 bis zum 31. Dezember 2016 ein Betrag von 1 018 200 000
+Euro, ab dem 1. Januar 2017 bis zum 31. Dezember 2018 jährlich ein
+Betrag von 1 518 200 000 Euro, ab dem 1. Januar 2019 bis zum 31.
+Dezember 2019 ein Betrag von 1 018 200 000 Euro aus dem Haushalt des
+Bundes zu.
 
 
 ## § 4 Verteilung
@@ -332,12 +324,26 @@ folgenden Prozentsätzen unter Rundung auf Tausend Euro verteilt:
 
 
 
-(4) Der Betrag nach § 3 Abs. 2 wird auf die Länder mit den folgenden
-Prozentsätzen unter Rundung auf Tausend Euro verteilt:
+
+*    *   (4) Von dem jeweiligen Betrag nach § 3 Absatz 2 werden in den Jahren
+        2017 und 2018 jeweils
+        500 000 000 Euro auf die Länder nach dem von dem Büro der Gemeinsamen
+        Wissenschaftskonferenz im Bundesanzeiger veröffentlichten Schlüssel
+        verteilt, der für das vorangegangene Kalenderjahr entsprechend den
+        Steuereinnahmen und der Bevölkerungszahl der Länder errechnet worden
+        ist (Königsteiner Schlüssel). Der restliche Betrag nach § 3 Absatz 2
+        wird auf die Länder mit den folgenden Prozentsätzen unter Rundung auf
+        Tausend Euro verteilt:
+
+    *
+
+
 
 *    *   Baden-Württemberg
 
     *   8,147033 Prozent,
+
+
 
 
 *    *   Bayern
@@ -345,9 +351,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   11,832673 Prozent,
 
 
+
+
 *    *   Berlin
 
     *   6,287847 Prozent,
+
+
 
 
 *    *   Brandenburg
@@ -355,9 +365,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   5,842689 Prozent,
 
 
+
+
 *    *   Bremen
 
     *   0,605545 Prozent,
+
+
 
 
 *    *   Hamburg
@@ -365,9 +379,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   1,836274 Prozent,
 
 
+
+
 *    *   Hessen
 
     *   5,849236 Prozent,
+
+
 
 
 *    *   Mecklenburg-Vorpommern
@@ -375,9 +393,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   4,114432 Prozent,
 
 
+
+
 *    *   Niedersachsen
 
     *   7,692056 Prozent,
+
+
 
 
 *    *   Nordrhein-Westfalen
@@ -385,9 +407,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   18,732611 Prozent,
 
 
+
+
 *    *   Rheinland-Pfalz
 
     *   3,610356 Prozent,
+
+
 
 
 *    *   Saarland
@@ -395,9 +421,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   1,263461 Prozent,
 
 
+
+
 *    *   Sachsen
 
     *   11,508625 Prozent,
+
+
 
 
 *    *   Sachsen-Anhalt
@@ -405,9 +435,13 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
     *   4,625053 Prozent,
 
 
+
+
 *    *   Schleswig-Holstein
 
     *   2,435272 Prozent,
+
+
 
 
 *    *   Thüringen
@@ -420,55 +454,17 @@ Prozentsätzen unter Rundung auf Tausend Euro verteilt:
 
 ## § 5 Zweckbindung
 
-(1) Die Beträge nach § 4 Abs. 1 sind von den Ländern jeweils für die
-Finanzierung des Ausbaus und Neubaus von Hochschulen, einschließlich
-der Hochschulkliniken, einzusetzen.
-
-(2) Die Beträge nach § 4 Abs. 2 sind von den Ländern jeweils für die
-Finanzierung von Aufgaben im Bereich der Bildungsplanung einzusetzen.
-
-(3) Die Beträge nach § 4 Abs. 3 sind von den Ländern jeweils für
-Investitionen, die zur Verbesserung der Verkehrsverhältnisse in den
-Gemeinden erforderlich sind, einzusetzen.
-
-(4) Die Beträge nach § 4 Abs. 4 sind von den Ländern jeweils für die
-Finanzierung von Maßnahmen der Wohnraumförderung einzusetzen.
-
-(5) Die Länder werden dem Bund jährlich über die Verwendung der
-erhaltenen Beträge nach den §§ 2 und 3 bis Ende Juni des dem
-Berichtsjahr folgenden Jahres berichten. Wird festgestellt, dass
-Beträge im Berichtsjahr nicht zweckgerecht verwendet wurden, wird die
-Zuweisung an das jeweilige Land um den fehlverwendeten Betrag gekürzt
-und dieser Betrag entsprechend dem jeweiligen Aufteilungsschlüssel
-nach § 4 auf die anderen Länder verteilt.
+Die Beträge nach § 4 unterliegen einer investiven Zweckbindung.
 
 
-## § 6 Revisionsklausel
+## § 6 Überweisung an die Länder
 
-(1) Bund und Länder prüfen gemeinsam bis Ende 2013, in welcher Höhe
-die Beträge nach den §§ 2 und 3 Abs. 1 Satz 1 und Abs. 2 für den
-Zeitraum vom 1. Januar 2014 bis zum 31. Dezember 2019 zur
-Aufgabenerfüllung der Länder noch angemessen und erforderlich sind.
-
-(2) Für die ab dem 1. Januar 2014 weiterhin erforderlichen Beträge
-entfällt die gruppenspezifische Zweckbindung. Die neu festzulegenden
-Beträge unterliegen ab dem 1. Januar 2014 bis zum 31. Dezember 2019
-einer investiven Zweckbindung.
+Die den Ländern nach § 4 Absatz 1 bis 4 in Verbindung mit den §§ 2 und
+3 zustehenden Jahresbeträge werden zu je einem Viertel zum 10. Januar,
+zum 10. April, zum 10. Juli und zum 10. Oktober des jeweiligen Jahres
+überwiesen.
 
 
-## § 7 Verordnungsermächtigung
+## § 7 (weggefallen)
 
-Die Bundesregierung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates
-
-1.  das Verfahren für die Überweisung der in § 4 genannten Beträge der
-    Länder,
-
-
-2.  die Berichtspflicht, die Feststellung einer Fehlverwendung und die
-    daraus zu ziehenden Konsequenzen nach § 5 Abs. 5
-
-
-
-näher zu regeln.
 

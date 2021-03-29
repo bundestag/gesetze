@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2512
 
 Zuletzt geändert durch
-:   Art. 2 G v. 13.9.2012 I 1914
+:   Art. 24 Abs. 21 G v. 23.6.2017 I 1693
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -334,7 +334,7 @@ Kreditwesengesetzes zum Handel zugelassen, deren Sitz innerhalb der
 Mitgliedstaaten der Europäischen Union oder der anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 ist, so kann die Gläubigerversammlung auch am Sitz dieser
-Wertpapierbörse stattfinden. § 30a Absatz 2 des
+Wertpapierbörse stattfinden. § 48 Absatz 2 des
 Wertpapierhandelsgesetzes bleibt unberührt.
 
 
@@ -454,7 +454,7 @@ der Niederschrift und der Anlagen verlangen.
 (1) Der Schuldner hat die Beschlüsse der Gläubiger auf seine Kosten in
 geeigneter Form öffentlich bekannt zu machen. Hat der Schuldner seinen
 Sitz im Inland, so sind die Beschlüsse unverzüglich im Bundesanzeiger
-zu veröffentlichen; die nach § 30e Absatz 1 des
+zu veröffentlichen; die nach § 50 Absatz 1 des
 Wertpapierhandelsgesetzes vorgeschriebene Veröffentlichung ist jedoch
 ausreichend. Die Anleihebedingungen können zusätzliche Formen der
 öffentlichen Bekanntmachung vorsehen.

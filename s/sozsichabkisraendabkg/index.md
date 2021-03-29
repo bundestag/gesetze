@@ -4,7 +4,7 @@ Title: Gesetz zu dem Abkommen vom 7. Januar 1986 zur Änderung des Abkommens vom
   Soziale Sicherheit
 jurabk: SozSichAbkISRÄndAbkG
 layout: default
-origslug: sozsichabkisr_ndabkg
+origslug: sozsichabkisraendabkg
 slug: sozsichabkisraendabkg
 
 ---

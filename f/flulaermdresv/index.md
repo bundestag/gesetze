@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Dresden
 jurabk: FluLärmDresV
 layout: default
-origslug: flul_rmdresv
+origslug: flulaermdresv
 slug: flulaermdresv
 
 ---

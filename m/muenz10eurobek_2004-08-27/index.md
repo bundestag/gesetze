@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   ISS")
 jurabk: Münz10EuroBek 2004-08-27
 layout: default
-origslug: m_nz10eurobek_2004-08-27
+origslug: muenz10eurobek_2004-08-27
 slug: muenz10eurobek_2004-08-27
 
 ---

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 648
 
 Zuletzt geändert durch
-:   Art. 1 V v. 13.12.2007 I 3038
+:   Art. 459 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -52,7 +52,7 @@ Diese Verordnung regelt
 
 Signatar des Betriebsabkommens von INTERSPUTNIK kann jede natürliche
 und juristische Person der Bundesrepublik Deutschland auf Antrag beim
-Bundesministerium für Wirtschaft und Technologie werden,
+Bundesministerium für Wirtschaft und Energie werden,
 
 1.  die gemäß § 6 des Telekommunikationsgesetzes gewerbliche öffentliche
     Telekommunikationsnetze betreibt oder gewerblich
@@ -62,7 +62,7 @@ Bundesministerium für Wirtschaft und Technologie werden,
 2.  die Bereitschaft, Eignung und Befähigung nachweist, die Rechte und
     Pflichten aus dem Betriebsabkommen von INTERSPUTNIK unter
     wirtschaftspolitischer Aufsicht des Bundesministeriums für Wirtschaft
-    und Technologie als Vertreter der deutschen Vertragspartei bei
+    und Energie als Vertreter der deutschen Vertragspartei bei
     INTERSPUTNIK wahrzunehmen.
 
 
@@ -79,19 +79,19 @@ zuletzt am 30. November 1996 korrigierten Abkommens von INTERSPUTNIK
 
 (2) Entsprechende formlose Anträge sind unter Beifügung der
 notwendigen, unter § 2 angeführten Nachweise beim Bundesministerium
-für Wirtschaft und Technologie einzureichen. Sie werden in der
-zeitlichen Reihenfolge des Eingangs der Anträge entschieden. Bei einer
-positiven Entscheidung wird der Depositär nach Artikel 21 des
-Betriebsabkommens offiziell darüber benachrichtigt.
+für Wirtschaft und Energie einzureichen. Sie werden in der zeitlichen
+Reihenfolge des Eingangs der Anträge entschieden. Bei einer positiven
+Entscheidung wird der Depositär nach Artikel 21 des Betriebsabkommens
+offiziell darüber benachrichtigt.
 
 (3) In Übereinstimmung mit Artikel 3 Abs. 6 des Betriebsabkommens wird
-das Bundesministerium für Wirtschaft und Technologie keine weiteren
+das Bundesministerium für Wirtschaft und Energie keine weiteren
 Signatare mehr benennen, sobald dadurch der Anteil aller
 Investeinlagen von deutschen Signataren in das Grundkapital der
 Organisation 25 Prozent übersteigen sollte.
 
 (4) Für die Versagung und den Widerruf der Benennung eines Signatars
-durch das Bundesministerium für Wirtschaft und Technologie gilt
+durch das Bundesministerium für Wirtschaft und Energie gilt
 grundsätzlich Absatz 1 entsprechend.
 
 

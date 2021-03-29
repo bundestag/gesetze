@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   München
 jurabk: FluLärmMüV 1996
 layout: default
-origslug: flul_rmm_v_1996
+origslug: flulaermmuev_1996
 slug: flulaermmuev_1996
 
 ---

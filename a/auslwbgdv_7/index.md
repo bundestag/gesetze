@@ -30,8 +30,8 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 Der Stichtag für die im Verzeichnis der Auslandsbonds (Anlage zu § 1
 Abs. 1 des Gesetzes,
 ergänzt durch § 1 der Ersten Durchführungsverordnung vom 21. Februar
-1953 - Bundesgesetzbl. I S. 31 -)              aufgeführten Arten von
-Auslandsbonds wird auf den 1. September 1953 festgesetzt.
+1953 - Bundesgesetzbl. I S. 31 -) aufgeführten Arten von Auslandsbonds
+wird auf den 1. September 1953 festgesetzt.
 
 
 ## § 2 Land Berlin

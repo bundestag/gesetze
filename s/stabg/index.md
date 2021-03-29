@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1967, 582
 
 Zuletzt geändert durch
-:   Art. 135 V v. 31.10.2006 I 2407
+:   Art. 267 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -64,10 +64,10 @@ Jahreswirtschaftsbericht enthält:
 
 (2) Maßnahmen nach § 6 Abs. 2 und 3 und nach den §§ 15 und 19 dieses
 Gesetzes sowie nach § 51 Abs. 3 des Einkommensteuergesetzes und nach
-§ 19c des Körperschaftsteuergesetzes              dürfen nur getroffen
-werden, wenn die Bundesregierung gleichzeitig gegenüber dem Bundestag
-und dem Bundesrat begründet, daß diese Maßnahmen erforderlich sind, um
-eine Gefährdung der Ziele des § 1 zu verhindern.
+§ 19c des Körperschaftsteuergesetzes dürfen nur getroffen werden, wenn
+die Bundesregierung gleichzeitig gegenüber dem Bundestag und dem
+Bundesrat begründet, daß diese Maßnahmen erforderlich sind, um eine
+Gefährdung der Ziele des § 1 zu verhindern.
 
 
 ## § 3
@@ -80,7 +80,7 @@ Erreichung der Ziele des § 1 zur Verfügung. Diese Orientierungsdaten
 enthalten insbesondere eine Darstellung der gesamtwirtschaftlichen
 Zusammenhänge im Hinblick auf die gegebene Situation.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie hat die
+(2) Das Bundesministerium für Wirtschaft und Energie hat die
 Orientierungsdaten auf Verlangen eines der Beteiligten zu erläutern.
 
 
@@ -122,11 +122,11 @@ Finanzen ermächtigen, zur Erreichung der Ziele des § 1 die Verfügung
 über bestimmte Ausgabemittel, den Beginn von Baumaßnahmen und das
 Eingehen von Verpflichtungen zu Lasten künftiger Rechnungsjahre von
 dessen Einwilligung abhängig zu machen. Die Bundesministerien der
-Finanzen und für Wirtschaft und Technologie schlagen die
-erforderlichen Maßnahmen vor. Das Bundesministerium der Finanzen hat
-die dadurch nach Ablauf des Rechnungsjahres freigewordenen Mittel zur
-zusätzlichen Tilgung von Schulden bei der Deutschen Bundesbank zu
-verwenden oder der Konjunkturausgleichsrücklage zuzuführen.
+Finanzen und für Wirtschaft und Energie schlagen die erforderlichen
+Maßnahmen vor. Das Bundesministerium der Finanzen hat die dadurch nach
+Ablauf des Rechnungsjahres freigewordenen Mittel zur zusätzlichen
+Tilgung von Schulden bei der Deutschen Bundesbank zu verwenden oder
+der Konjunkturausgleichsrücklage zuzuführen.
 
 (2) Die Bundesregierung kann bestimmen, daß bei einer die Ziele des §
 1 gefährdenden Abschwächung der allgemeinen Wirtschaftstätigkeit
@@ -275,7 +275,7 @@ in Absatz 2 beschriebenen Gliederung aufgestellt.
 Sondervermögen entsprechend.
 
 (2) Für die Deutsche Bundesbahn erläßt das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem
+Verkehr und digitale Infrastruktur im Einvernehmen mit dem
 Bundesministerium der Finanzen die nach § 1 erforderlichen
 Anordnungen.
 
@@ -320,13 +320,13 @@ ihre Verpflichtung angerechnet.
 (4) Werden die Einkommensteuer auf Grund der Ermächtigung in § 51 Abs.
 3 Ziff. 2 des Einkommensteuergesetzes und die Körperschaftsteuer auf
 Grund des
-§ 19c des Körperschaftsteuergesetzes              erhöht, so haben der
-Bund und die Länder zusätzlich laufend ihren
-Konjunkturausgleichsrücklagen aus dem Aufkommen an Einkommensteuer und
-Körperschaftsteuer während des Zeitraums, für den die Erhöhung gilt,
-jeweils Beträge in dem Verhältnis zuzuführen, in dem der Hundertsatz,
-um den die Einkommensteuer und die Körperschaftsteuer erhöht worden
-sind, zu der aus 100 und diesem Hundertsatz gebildeten Summe steht.
+§ 19c des Körperschaftsteuergesetzes erhöht, so haben der Bund und die
+Länder zusätzlich laufend ihren Konjunkturausgleichsrücklagen aus dem
+Aufkommen an Einkommensteuer und Körperschaftsteuer während des
+Zeitraums, für den die Erhöhung gilt, jeweils Beträge in dem
+Verhältnis zuzuführen, in dem der Hundertsatz, um den die
+Einkommensteuer und die Körperschaftsteuer erhöht worden sind, zu der
+aus 100 und diesem Hundertsatz gebildeten Summe steht.
 
 (5) Die den Konjunkturausgleichsrücklagen auf Grund einer
 Rechtsverordnung nach Absatz 1 oder gemäß Absatz 4 zugeführten Beträge
@@ -360,7 +360,7 @@ Aufstellung ihrer Finanzpläne notwendig sind.
 (1) Bei der Bundesregierung wird ein Konjunkturrat für die öffentliche
 Hand gebildet. Dem Rat gehören an:
 
-1.  die Bundesminister für Wirtschaft und Technologie und der Finanzen,
+1.  die Bundesminister für Wirtschaft und Energie und der Finanzen,
 
 
 2.  je ein Vertreter eines jeden Landes,
@@ -373,11 +373,11 @@ Hand gebildet. Dem Rat gehören an:
 
 
 Den Vorsitz im Konjunkturrat führt der Bundesminister für Wirtschaft
-und Technologie.
+und Energie.
 
 (2) Der Konjunkturrat berät nach einer vom Bundesministerium für
-Wirtschaft und Technologie zu erlassenden Geschäftsordnung in
-regelmäßigen Abständen:
+Wirtschaft und Energie zu erlassenden Geschäftsordnung in regelmäßigen
+Abständen:
 
 1.  alle zur Erreichung der Ziele dieses Gesetzes erforderlichen
     konjunkturpolitischen Maßnahmen;

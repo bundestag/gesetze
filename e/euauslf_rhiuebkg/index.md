@@ -4,7 +4,7 @@ Title: Gesetz zu dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 
   Strafsachen
 jurabk: EuAuslf/RHiÜbkG
 layout: default
-origslug: euauslf_rhi_bkg
+origslug: euauslf_rhiuebkg
 slug: euauslf_rhiuebkg
 
 ---

@@ -2,7 +2,7 @@
 Title: Wiener Übereinkommen über konsularische Beziehungen
 jurabk: KonsÜbk Wien
 layout: default
-origslug: kons_bk_wien
+origslug: konsuebk_wien
 slug: konsuebk_wien
 
 ---

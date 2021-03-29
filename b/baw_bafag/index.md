@@ -15,12 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 1956, 1957
 
+Geändert durch
+:   Art. 251 V v. 31.8.2015 I 1474
+
 
 
 ## § 1 Eingliederung
 
 (1) Im Geschäftsbereich des Bundesministeriums für Wirtschaft und
-Technologie wird das Bundesamt für Wirtschaft in das Bundesausfuhramt
+Energie wird das Bundesamt für Wirtschaft in das Bundesausfuhramt
 eingegliedert.
 
 (2) Das Bundesamt für Wirtschaft wird damit aufgelöst. Die bisher vom
@@ -45,7 +48,7 @@ und Ausfuhrkontrolle (BAFA)".
 
 ## § 4 Anpassung von Bezeichnungen
 
-Das Bundesministerium für Wirtschaft und Technologie wird ermächtigt,
+Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesamtes
 bedarf, in Gesetzen und Rechtsverordnungen die Bezeichnungen
 "Bundesamt für gewerbliche Wirtschaft", "Bundesamt für Wirtschaft" und

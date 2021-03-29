@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2570
 
+Zuletzt geändert durch
+:   Art. 1 V v. 13.11.2014 I 1749
+
 
 ## Eingangsformel
 
@@ -28,7 +31,7 @@ worden ist, verordnet das Bundesministerium für Arbeit und Soziales:
 
 Die Bezugsdauer für das Kurzarbeitergeld wird bei Arbeitnehmerinnen
 und Arbeitnehmern, deren Anspruch auf Kurzarbeitergeld bis zum 31.
-Dezember 2013 entstanden ist, über die Bezugsdauer nach § 104 Absatz 1
+Dezember 2015 entstanden ist, über die Bezugsdauer nach § 104 Absatz 1
 Satz 1 des Dritten Buches Sozialgesetzbuch hinaus auf längstens zwölf
 Monate verlängert.
 

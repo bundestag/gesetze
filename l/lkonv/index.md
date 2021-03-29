@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3
-  Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung
+Title: Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2  Nr.
+  3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung
   tätigen Lebensmittelkontrolleure
 jurabk: LKonV
 layout: default
@@ -9,7 +9,7 @@ slug: lkonv
 
 ---
 
-# Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2 Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure (LKonV)
+# Verordnung über die fachlichen Anforderungen gemäß § 42 Abs. 1 Satz 2  Nr. 3 Buchstabe b des Lebensmittel- und Futtermittelgesetzbuches an die in der Überwachung tätigen Lebensmittelkontrolleure (LKonV)
 
 Ausfertigungsdatum
 :   2001-08-17
@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2001, 2236
 
 Zuletzt geändert durch
-:   Art. 10 V v. 8.8.2007 I 1816
+:   Art. 4 V v. 27.4.2016 I 980
 
 
 ## Eingangsformel
@@ -38,13 +38,13 @@ Landwirtschaft:
 zuständigen Behörden beim Vollzug des Lebensmittelrechts mit der
 Überwachung des Verkehrs mit Lebensmitteln, Lebensmittel-
 Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne
-des Lebensmittel- und Futtermittelgesetzbuches sowie mit
-Tabakerzeugnissen im Sinne des Vorläufigen Tabakgesetzes nur
-beauftragt werden, wenn sie befähigt sind,
+des Lebensmittel- und Futtermittelgesetzbuches sowie mit Erzeugnissen
+im Sinne des § 2 Nummer 1 des Tabakerzeugnisgesetzes nur beauftragt
+werden, wenn sie befähigt sind,
 
 1.  die nach § 39 Abs. 1 Satz 2 des Lebensmittel- und
-    Futtermittelgesetzbuches oder § 41 Abs. 1 Satz 2 des Vorläufigen
-    Tabakgesetzes vorgeschriebenen Überprüfungen und Probenahmen
+    Futtermittelgesetzbuches oder § 29 Absatz 1 Satz 2 des
+    Tabakerzeugnisgesetzes vorgeschriebenen Überprüfungen und Probenahmen
     durchzuführen, soweit diese Tätigkeiten nicht aus fachlichen Gründen
     von wissenschaftlichen Fachkräften ausgeführt werden müssen,
 
@@ -68,9 +68,9 @@ beauftragt werden, wenn sie befähigt sind,
 
 1.  Überwachung des Verkehrs mit Lebensmitteln, Lebensmittel-
     Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne
-    des Lebensmittel- und Futtermittelgesetzbuches sowie Tabakerzeugnissen
-    im Sinne des Vorläufigen Tabakgesetzes durch Kontrolle der Einhaltung
-    der Bestimmungen über
+    des Lebensmittel- und Futtermittelgesetzbuches sowie Erzeugnissen im
+    Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes durch Kontrolle der
+    Einhaltung der Bestimmungen über
 
     a)  Schutz der Gesundheit,
 
@@ -108,9 +108,9 @@ beauftragt werden, wenn sie befähigt sind,
 
 3.  Überwachung des Verkehrs mit Lebensmitteln, Lebensmittel-
     Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne
-    des Lebensmittel- und Futtermittelgesetzbuches sowie Tabakerzeugnissen
-    im Sinne des Vorläufigen Tabakgesetzes durch Kontrolle der Einhaltung
-    der Bestimmungen über
+    des Lebensmittel- und Futtermittelgesetzbuches sowie Erzeugnissen im
+    Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes durch Kontrolle der
+    Einhaltung der Bestimmungen über
 
     a)  Kennzeichnung,
 
@@ -129,8 +129,9 @@ beauftragt werden, wenn sie befähigt sind,
 
 4.  sensorische Prüfung der Lebensmittel, Lebensmittel-Zusatzstoffe,
     kosmetischen Mittel und Bedarfsgegenstände im Sinne des Lebensmittel-
-    und Futtermittelgesetzbuches sowie Tabakerzeugnisse im Sinne des
-    Vorläufigen Tabakgesetzes hinsichtlich einer Abweichung von der Norm;
+    und Futtermittelgesetzbuches sowie Erzeugnisse im Sinne von § 2 Nummer
+    1 des Tabakerzeugnisgesetzes hinsichtlich einer Abweichung von der
+    Norm;
 
 
 5.  orientierende physikalische und chemische Prüfungen oder Messungen wie
@@ -147,8 +148,8 @@ beauftragt werden, wenn sie befähigt sind,
     a)  Sicherstellung und Überwachung der aus dem Verkehr genommenen
         Lebensmittel, Lebensmittel-Zusatzstoffe, kosmetischen Mittel und
         Bedarfsgegenstände im Sinne des Lebensmittel- und
-        Futtermittelgesetzbuches sowie Tabakerzeugnisse im Sinne des
-        Vorläufigen Tabakgesetzes,
+        Futtermittelgesetzbuches sowie Erzeugnisse im Sinne von § 2 Nummer 1
+        des Tabakerzeugnisgesetzes,
 
 
     b)  Erlass von Ordnungsverfügungen,
@@ -192,8 +193,8 @@ beauftragt werden, wenn sie befähigt sind,
 Kenntnisse und Fertigkeiten auf dem Gebiet des Verkehrs mit
 Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen Mitteln und
 Bedarfsgegenständen im Sinne des Lebensmittel- und
-Futtermittelgesetzbuches sowie Tabakerzeugnissen im Sinne des
-Vorläufigen Tabakgesetzes vermittelt,
+Futtermittelgesetzbuches sowie Erzeugnissen im Sinne von § 2 Nummer 1
+des Tabakerzeugnisgesetzes vermittelt,
 
 1.  eine Fortbildungsprüfung auf Grund des Berufsbildungsgesetzes oder der
     Handwerksordnung oder als Techniker mit staatlicher Abschlussprüfung
@@ -219,9 +220,9 @@ Vorläufigen Tabakgesetzes vermittelt,
     Verlauf Kenntnisse und Fertigkeiten auf dem Gebiet des Verkehrs mit
     Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen Mitteln und
     Bedarfsgegenständen im Sinne des Lebensmittel- und
-    Futtermittelgesetzbuches sowie Tabakerzeugnissen im Sinne des
-    Vorläufigen Tabakgesetzes vermittelt werden, erfolgreich abgeschlossen
-    haben,
+    Futtermittelgesetzbuches sowie Erzeugnissen im Sinne von § 2 Nummer 1
+    des Tabakerzeugnisgesetzes vermittelt werden, erfolgreich
+    abgeschlossen haben,
 
 
 
@@ -240,8 +241,8 @@ unberührt.
 2.  geregelte praktische Unterweisung einschließlich Praktika in den mit
     der Untersuchung und Beurteilung von Lebensmitteln, Lebensmittel-
     Zusatzstoffen, kosmetischen Mitteln und Bedarfsgegenständen im Sinne
-    des Lebensmittel- und Futtermittelgesetzbuches sowie Tabakerzeugnissen
-    im Sinne des Vorläufigen Tabakgesetzes betrauten Ämtern.
+    des Lebensmittel- und Futtermittelgesetzbuches sowie Erzeugnissen im
+    Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes betrauten Ämtern.
 
 
 
@@ -260,8 +261,9 @@ folgenden Gebieten zu vermitteln:
     öffentlichen Sicherheit und Ordnung;
 
 
-3.  Recht des Verkehrs mit Lebensmitteln, Tabakerzeugnissen, kosmetischen
-    Mitteln und Bedarfsgegenständen einschließlich Weinrecht;
+3.  Recht des Verkehrs mit Lebensmitteln, Erzeugnissen im Sinne von § 2
+    Nummer 1 des Tabakerzeugnisgesetzes, kosmetischen Mitteln und
+    Bedarfsgegenständen einschließlich Weinrecht;
 
 
 4.  (weggefallen)
@@ -275,7 +277,8 @@ folgenden Gebieten zu vermitteln:
 
 
 7.  Warenkunde einschließlich der Technologie und des Umgangs mit
-    Tabakerzeugnissen, kosmetischen Mitteln und Bedarfsgegenständen;
+    Erzeugnissen im Sinne von § 2 Nummer 1 des Tabakerzeugnisgesetzes,
+    kosmetischen Mitteln und Bedarfsgegenständen;
 
 
 8.  Lebensmittel- und Betriebshygiene;
@@ -306,8 +309,8 @@ folgenden Gebieten zu vermitteln:
 festzustellen ist, ob Kenntnisse und Fertigkeiten zur Überwachung des
 Verkehrs mit Lebensmitteln, Lebensmittel-Zusatzstoffen, kosmetischen
 Mitteln und Bedarfsgegenständen im Sinne des Lebensmittel- und
-Futtermittelgesetzbuches sowie Tabakerzeugnissen im Sinne des
-Vorläufigen Tabakgesetzes vorliegen. Die Prüfung kann in
+Futtermittelgesetzbuches sowie Erzeugnissen im Sinne von § 2 Nummer 1
+des Tabakerzeugnisgesetzes vorliegen. Die Prüfung kann in
 Teilabschnitten, die auch lehrgangsbegleitend durchgeführt werden
 können, abgelegt werden.
 

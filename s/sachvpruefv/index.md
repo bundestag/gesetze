@@ -4,7 +4,7 @@ Title: Verordnung über die Prüfung des Jahresabschlusses und des Lageberichts 
   ist, durch einen unabhängigen Sachverständigen
 jurabk: SachvPrüfV
 layout: default
-origslug: sachvpr_fv
+origslug: sachvpruefv
 slug: sachvpruefv
 
 ---

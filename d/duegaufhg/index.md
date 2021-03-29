@@ -2,7 +2,7 @@
 Title: Gesetz zur Aufhebung des Diskontsatz-Überleitungs-Gesetzes
 jurabk: DÜGAufhG
 layout: default
-origslug: d_gaufhg
+origslug: duegaufhg
 slug: duegaufhg
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2002, 1219, 1220
+
+Geändert durch
+:   Art. 338 V v. 31.8.2015 I 1474
 
 
 
@@ -54,8 +57,8 @@ Fundstelle
 
 
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates in Gesetzen und
-Rechtsverordnungen des Bundes die Bezeichnung von Bezugsgrößen und
-Zinssätzen nach Maßgabe des Absatzes 1 anzupassen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates in
+Gesetzen und Rechtsverordnungen des Bundes die Bezeichnung von
+Bezugsgrößen und Zinssätzen nach Maßgabe des Absatzes 1 anzupassen.
 

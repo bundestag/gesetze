@@ -303,8 +303,9 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Muster
+## Anlage 1 Muster
 
 ( Fundstelle: BGBl. I 2009, 91 )
 
@@ -353,8 +354,9 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
    (Siegel der zuständigen Stelle)
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Muster
+## Anlage 2 Muster
 
 ( Fundstelle: BGBl. I 2009, 92 )
 
@@ -363,15 +365,15 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 Zeugnis
 
 
-*    *   Herr/Frau ...........
+*    *   Herr/Frau .......................................................
 
 
-*    *   geboren am ..........
+*    *   geboren am ................................
 
-    *   in
+    *   in .................................
 
 
-*    *   hat am ..........
+*    *   hat am ................................
 
     *   die Prüfung
 

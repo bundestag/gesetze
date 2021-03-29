@@ -3,7 +3,7 @@ Title: Verordnung über die Gewährung von Produktionserstattungen für die Verw
   von Zucker
 jurabk: Stär/ZuckProdErstV
 layout: default
-origslug: st_r_zuckproderstv
+origslug: staer_zuckproderstv
 slug: staer_zuckproderstv
 
 ---

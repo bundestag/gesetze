@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1991, 1172
 
+Geändert durch
+:   Art. 11 V v. 17.4.2014 I 388
+
 
 
 ## Eingangsformel
@@ -221,7 +224,8 @@ muß der Besitzer die Ställe und sonstigen Standorte sowie sämtliche
 Gegenstände, die Träger des Seuchenerregers sein können, unverzüglich
 nach näherer Anweisung des beamteten Tierarztes reinigen und
 desinfizieren. In den Ställen oder sonstigen Standorten muß der
-Besitzer eine Schadnagerbekämpfung durchführen.
+Besitzer unverzüglich nach Entfernen der in Satz 1 bezeichneten Tiere
+eine Schadnagerbekämpfung durchführen.
 
 (2) Der Besitzer muß Dung von Pferden, Rindern, Schafen, Ziegen und
 Schweinen an einem für diese Tiere unzugänglichen Ort packen, mit
@@ -290,64 +294,59 @@ Abschnitt 3 gilt entsprechend.
 
 ### § 10
 
-(1) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 1 Buchstabe b des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  einer vollziehbaren Anordnung nach § 2 Abs. 3, § 4 Nr. 5, § 5 Abs. 1
-    Satz 1 oder § 9 Satz 1 oder
-
-
-2.  einer mit einer Genehmigung nach § 2 Abs. 2 oder 4 Satz 2, § 3 Nr. 3
-    Satz 2 oder Nr. 4, § 4 Nr. 4, nach § 4 Nr. 6, auch in Verbindung mit §
-    6, oder nach § 4 Nr. 8 oder 9 Satz 1 verbundenen vollziehbaren Auflage
+1.  entgegen § 2 Absatz 1 eine Impfung durchführt,
 
 
-
-zuwiderhandelt.
-
-(2) Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des
-Tierseuchengesetzes handelt, wer vorsätzlich oder fahrlässig
-
-1.  entgegen § 2 Abs. 1 eine Impfung durchführt,
+2.  einer mit einer Zulassung nach § 2 Absatz 2 oder Absatz 4 Satz 2
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
-2.  entgegen § 3 Nr. 1 oder § 4 Nr. 2 ein Tier nicht absondert,
+3.  einer vollziehbaren Anordnung nach § 2 Absatz 3, § 4 Nummer 3 Satz 2,
+    Nummer 5 oder Nummer 9 Satz 2, § 5 Absatz 1 Satz 1, § 7 Absatz 1 Satz
+    1 oder Absatz 2 Satz 2 oder § 9 Satz 1 zuwiderhandelt,
 
 
-3.  entgegen § 3 Nr. 2 oder § 4 Nr. 4 ein Tier verbringt,
+4.  entgegen § 3 Nummer 1 oder § 4 Nummer 2 ein Tier nicht absondert,
 
 
-4.  ohne Genehmigung nach § 3 Nr. 3 Satz 2 oder nach § 4 Nr. 6, auch in
-    Verbindung mit § 6, ein verendetes oder getötetes Tier verbringt,
+5.  entgegen § 3 Nummer 2 ein Tier verbringt,
 
 
-5.  ohne Genehmigung nach § 3 Nr. 4 oder § 4 Nr. 9 Satz 1 Teile,
-    Rohstoffe, Erzeugnisse, Dung, flüssige Stallabgänge, Futtermittel,
-    Einstreu oder sonstige Gegenstände verbringt,
+6.  ohne Genehmigung nach § 3 Nummer 3 Satz 2 oder § 4 Nummer 4 oder
+    Nummer 6, auch in Verbindung mit § 6, ein Tier verbringt,
 
 
-6.  entgegen § 4 Nr. 3 Satz 1 Ställe, Weideflächen oder sonstige Standorte
-    betritt,
-
-
-7.  einer Vorschrift des § 4 Nr. 3 Satz 2 oder Nr. 9 Satz 2 oder des § 7
-    über die Reinigung, Desinfektion oder Schadnagerbekämpfung
+7.  einer mit einer Genehmigung nach § 3 Nummer 3 Satz 2 oder Nummer 4, §
+    4 Nummer 4 oder Nummer 6, auch in Verbindung mit § 6, oder nach § 4
+    Nummer 8 oder Nummer 9 Satz 1 verbundenen vollziehbaren Auflage
     zuwiderhandelt,
 
 
-8.  entgegen § 4 Nr. 7 Milch nicht unschädlich beseitigt,
+8.  ohne Genehmigung nach § 3 Nummer 4 oder § 4 Nummer 8 oder Nummer 9
+    Satz 1 einen dort genannten Gegenstand verbringt,
 
 
-9.  entgegen § 5 Abs. 1 Satz 2 ein seuchenkrankes oder seuchenverdächtiges
-    Tier unter Blutentzug tötet,
+9.  entgegen § 4 Nummer 3 Satz 1 einen Stall, eine Weidefläche oder einen
+    sonstigen Standort betritt,
 
 
-10. entgegen § 5 Abs. 2, auch in Verbindung mit § 6, ein verendetes oder
-    getötetes Tier abhäutet oder
+10. entgegen § 4 Nummer 7 Milch nicht oder nicht richtig beseitigt,
 
 
-11. entgegen § 5 Abs. 3, ohne Tierarzt zu sein, einen Heilversuch
-    vornimmt.
+11. entgegen § 5 Absatz 1 Satz 2 ein Tier tötet,
+
+
+12. entgegen § 5 Absatz 2, auch in Verbindung mit § 6, ein Tier abhäutet,
+
+
+13. entgegen § 5 Absatz 3 einen Heilversuch vornimmt oder
+
+
+14. entgegen § 7 Absatz 1 Satz 2 eine Schadnagerbekämpfung nicht oder
+    nicht rechtzeitig durchführt.
 
 
 

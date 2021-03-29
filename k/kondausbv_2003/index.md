@@ -378,8 +378,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Konditor/zur Konditorin
 
 (Fundstelle: BGBl. I 2003, 793 - 798)
 

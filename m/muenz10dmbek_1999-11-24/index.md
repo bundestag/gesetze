@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "Kaiser Karl der Große - Dom zu Aachen - 1200 Jahre")
 jurabk: Münz10DMBek 1999-11-24
 layout: default
-origslug: m_nz10dmbek_1999-11-24
+origslug: muenz10dmbek_1999-11-24
 slug: muenz10dmbek_1999-11-24
 
 ---

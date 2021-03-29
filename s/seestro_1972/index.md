@@ -2222,8 +2222,7 @@ Fockmastlicht in Metern;
 a   ist die Höhe des Fockmastlichtes über der Wasseroberfläche
 unter Betriebsbedingungen in Metern;
 psi ist der Trimm unter Betriebsbedingungen in Grad;
-C   ist der waagerechte Abstand der Topplichter in Metern.
------
+C   ist der waagerechte Abstand der Topplichter in Metern.-----
 
 \*) Es wird auf den Internationalen Code für die Sicherheit von
     Hochgeschwindigkeitsfahrzeugen von 1994 und auf den Internationalen

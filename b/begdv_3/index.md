@@ -10,16 +10,15 @@ slug: begdv_3
 # Dritte Verordnung zur Durchführung des Bundesentschädigungsgesetzes (BEGDV 3)
 
 Ausfertigungsdatum
-:   1955-04-06
+:   1966-04-28
 
 Fundstelle
-:   BGBl I: 1955, 157
+:   BGBl I: 1966, 300
 
-Neugefasst durch
-:   Art. I V v. 28.4.1966 I 300;
-
+Stand: Konstitutive Neufassung gem. Art. I V v. 28.4.1966 I 300, in Kraft getreten am 4.5.1966
+Stand: Ersetzt V v. 6.4.1955 I 157
 Zuletzt geändert durch
-:   Art. 3 V v. 28.3.2011 I 521
+:   Art. 3 V v. 27.4.2017 I 980
 
 
 ## I. - Selbständige Berufe
@@ -335,8 +334,9 @@ Lebensaltersstufen gegliedert, ausweist.
 
 (2) § 14 findet Anwendung.
 
+Erhöhung des monatlichen Höchstbetrages der Rente
 
-##### § 22a Erhöhung des monatlichen Höchstbetrages der Rente (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
+##### § 22a (§ 83 Abs. 2 des Bundesentschädigungsgesetzes)
 
 (Fundstelle: BGBl. I 1983, 1320;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -855,54 +855,72 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   vom
 
+    *   vom
+
+    *   vom
+
+    *   vom
+
     *   ab
 
-    *
-    *
-    *
     *
 
 *    *   1.6.2008
 
     *   1.7.2010
 
-    *
-    *
-    *
+    *   1.10.2012
+
+    *   1.8.2014
+
+    *   1.9.2016
+
     *
 
 *    *   bis
 
-    *   €
+    *   bis
 
-    *
-    *
+    *   bis
+
+    *   bis
+
     *
     *
 
 *    *   30.6.2010
 
-    *
-    *
-    *
+    *   30.9.2012
+
+    *   31.7.2014
+
+    *   31.8.2016
+
     *
     *
 
 *    *   €
 
-    *
-    *
-    *
-    *
+    *   €
+
+    *   €
+
+    *   €
+
+    *   €
+
     *
 
 *    *   2 014
 
     *   2 057
 
-    *
-    *
-    *
+    *   2 174
+
+    *   2 283
+
+    *   2 388
+
     *
 
 
@@ -1242,12 +1260,28 @@ Bundesentschädigungsgesetzes beträgt
         30\.6.2010
         €
 
-    *   ab 1.7.2010
+    *   vom
+        1\.7.2010
+        bis
+        30\.9.2012
         €
 
-    *
-    *
-    *
+    *   vom
+        1\.10.2012
+        bis
+        31\.7.2014
+        €
+
+    *   vom
+        1\.8.2014
+        bis
+        31\.8.2016
+        €
+
+    *   ab
+        1\.9.2016
+        €
+
 
 *    *   550
 
@@ -1255,8 +1289,10 @@ Bundesentschädigungsgesetzes beträgt
 
     *   605
 
-    *
-    *
+    *   639
+
+    *   671
+
     *
 
 
@@ -1609,7 +1645,15 @@ Rentenbeträge werden ab dem 1. Juni 2008 um weitere 7,8 vom Hundert
 erhöht, wobei der Höchstbetrag von 2 014 Euro nicht überschritten
 werden darf. Die seit dem 1. Juni 2008 geltenden Rentenbeträge werden
 ab dem 1. Juli 2010 um weitere 2,1 vom Hundert erhöht, wobei der
-Höchstbetrag von 2 057 Euro nicht überschritten werden darf.
+Höchstbetrag von 2 057 Euro nicht überschritten werden darf. Die seit
+dem 1. Juli 2010 geltenden Rentenbeträge werden ab dem 1. Oktober 2012
+um weitere 5,7 Prozent erhöht, wobei der Höchstbetrag von 2 174 Euro
+nicht überschritten werden darf. Die seit dem 1. Oktober 2012
+geltenden Rentenbeträge werden ab dem 1. August 2014 um 5 Prozent
+erhöht, wobei der Höchstbetrag von 2 283 Euro nicht überschritten
+werden darf. Die seit dem 1. August 2014 geltenden Rentenbeträge
+werden ab dem 1. September 2016 um 4,6 Prozent erhöht, wobei der
+Höchstbetrag von 2 388 Euro nicht überschritten werden darf.
 
 (5) Die Rente wird mit Wirkung vom Ersten des Monats an gezahlt, in
 dem der Verfolgte das 65. Lebensjahr vollendet hat oder in seinem
@@ -1617,8 +1661,9 @@ Beruf nicht mehr als 50 vom Hundert arbeitsfähig ist, frühestens
 jedoch vom 1. November 1953 an. Bei Frauen tritt an Stelle des 65. das
 60\. Lebensjahr.
 
+Erhöhung des monatlichen Höchstbetrages der Rente
 
-##### § 33a Erhöhung des monatlichen Höchstbetrages der Rente (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
+##### § 33a (§ 95 Abs. 1 des Bundesentschädigungsgesetzes)
 
 (Fundstelle: BGBl. I 1983, 1321;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1753,9 +1798,9 @@ Der monatliche Höchstbetrag der Rente beträgt
 
     *   31.12.1974
 
-    *   31.1.1977
+    *   31.1.1976
 
-    *   31.12.1976
+    *   31.1.1977
 
     *   28.2.1978
 
@@ -2137,54 +2182,72 @@ Der monatliche Höchstbetrag der Rente beträgt
 
 *    *   vom
 
+    *   vom
+
+    *   vom
+
+    *   vom
+
     *   ab
 
-    *
-    *
-    *
     *
 
 *    *   1.6.2008
 
     *   1.7.2010
 
-    *
-    *
-    *
+    *   1.10.2012
+
+    *   1.8.2014
+
+    *   1.9.2016
+
     *
 
 *    *   bis
 
-    *   €
+    *   bis
 
-    *
-    *
+    *   bis
+
+    *   bis
+
     *
     *
 
 *    *   30.6.2010
 
-    *
-    *
-    *
+    *   30.9.2012
+
+    *   31.7.2014
+
+    *   31.8.2016
+
     *
     *
 
 *    *   €
 
-    *
-    *
-    *
-    *
+    *   €
+
+    *   €
+
+    *   €
+
+    *   €
+
     *
 
 *    *   2 014
 
     *   2 057
 
-    *
-    *
-    *
+    *   2 174
+
+    *   2 283
+
+    *   2 388
+
     *
 
 
@@ -2749,10 +2812,18 @@ Bundesentschädigungsgesetzes betragen für
         30\.6.2010
         €
 
-    *   ab 1.7.2010
+    *   vom
+        1\.7.2010
+        bis
+        30\.9.2012
         €
 
-    *
+    *   vom
+        1\.10.2012
+        bis
+        31\.7.2014
+        €
+
 
 *    *   den unverheirateten Verfolgten
 
@@ -2762,7 +2833,8 @@ Bundesentschädigungsgesetzes betragen für
 
     *   1 042
 
-    *
+    *   1 101
+
 
 *    *   den verheirateten Verfolgten
 
@@ -2772,7 +2844,8 @@ Bundesentschädigungsgesetzes betragen für
 
     *   1 311
 
-    *
+    *   1 386
+
 
 *    *   jedes nach dem bis zum 31.12.1974 geltenden Beamtenrecht
         kinderzuschlagsberechtigte Kind
@@ -2783,6 +2856,55 @@ Bundesentschädigungsgesetzes betragen für
 
     *   108
 
+    *   114
+
+
+*    *
+    *
+    *
+    *
+    *
+
+*    *
+    *   vom
+        1\.8.2014
+        bis
+        31\.8.2016
+        €
+
+    *   ab
+        1\.9.2016
+        €
+
+    *
+    *
+
+*    *   den unverheirateten Verfolgten
+
+    *   1 156
+
+    *   1 209
+
+    *
+    *
+
+*    *   den verheirateten Verfolgten
+
+    *   1 455
+
+    *   1 522
+
+    *
+    *
+
+*    *   jedes nach dem bis zum 31.12.1974 geltenden Beamtenrecht
+        kinderzuschlagsberechtigte Kind
+
+    *   120
+
+    *   126
+
+    *
     *
 
 
@@ -3093,9 +3215,30 @@ für die Witwe oder den Witwer durch folgende Beträge ersetzt:
     *   Euro,
 
 
-*    *   ab 1. Juli 2010
+*    *   bis 30. September 2012
 
     *   949
+
+    *   Euro,
+
+
+*    *   bis 31. Juli 2014
+
+    *   1 003
+
+    *   Euro,
+
+
+*    *   bis 31. August 2016
+
+    *   1 053
+
+    *   Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   1 101
 
     *   Euro.
 
@@ -3310,9 +3453,24 @@ werden können,
     *   106 Euro,
 
 
-*    *   ab 1. Juli 2010
+*    *   bis 30. September 2012
 
-    *   108 Euro.
+    *   108 Euro,
+
+
+*    *   bis 31. Juli 2014
+
+    *   114 Euro,
+
+
+*    *   bis 31. August 2016
+
+    *   120 Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   126 Euro.
 
 
 
@@ -3526,9 +3684,24 @@ Bundesentschädigungsgesetzes genannten Beträge folgende Beträge:
     *   334 Euro,
 
 
-*    *   ab 1. Juli 2010
+*    *   bis 30. September 2012
 
-    *   341 Euro.
+    *   341 Euro,
+
+
+*    *   bis 31. Juli 2014
+
+    *   360 Euro,
+
+
+*    *   bis 31. August 2016
+
+    *   378 Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   395 Euro.
 
 
 
@@ -3741,9 +3914,24 @@ an die Stelle der in Absatz 4 genannten Beträge folgende Beträge:
     *   437 Euro,
 
 
-*    *   ab 1. Juli 2010
+*    *   bis 30. September 2012
 
-    *   446 Euro.
+    *   446 Euro,
+
+
+*    *   bis 31. Juli 2014
+
+    *   471 Euro,
+
+
+*    *   bis 31. August 2016
+
+    *   495 Euro,
+
+
+*    *   ab 1. September 2016
+
+    *   518 Euro.
 
 
 
@@ -4057,9 +4245,15 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.7.2010
         €
 
-    *
-    *
-    *
+    *   ab 1.10.2012
+        €
+
+    *   ab 1.8.2014
+        €
+
+    *   ab  1.9.2016
+        €
+
 
 *    *   587
 
@@ -4069,13 +4263,16 @@ Bundesentschädigungsgesetzes beträgt
 
     *   652
 
-    *
-    *
-    *
+    *   689
+
+    *   723
+
+    *   756
 
 
 
-   (2) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 1 des
+
+(2) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 1 des
 Bundesentschädigungsgesetzes beträgt
 
 *    *   ab 1.1.1966 DM
@@ -4277,9 +4474,15 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.7.2010
         €
 
-    *
-    *
-    *
+    *   ab 1.10.2012
+        €
+
+    *   ab 1.8.2014
+        €
+
+    *   ab  1.9.2016
+        €
+
 
 *    *   450
 
@@ -4289,13 +4492,16 @@ Bundesentschädigungsgesetzes beträgt
 
     *   500
 
-    *
-    *
-    *
+    *   529
+
+    *   555
+
+    *   581
 
 
 
-   (3) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 2 des
+
+(3) Der Monatsbetrag der Rente nach § 157 Abs. 2 Satz 2 des
 Bundesentschädigungsgesetzes beträgt
 
 *    *   ab 1.1.1966 DM
@@ -4497,9 +4703,15 @@ Bundesentschädigungsgesetzes beträgt
     *   ab 1.7.2010
         €
 
-    *
-    *
-    *
+    *   ab 1.10.2012
+        €
+
+    *   ab 1.8.2014
+        €
+
+    *   ab  1.9.2016
+        €
+
 
 *    *   225
 
@@ -4509,9 +4721,12 @@ Bundesentschädigungsgesetzes beträgt
 
     *   250
 
-    *
-    *
-    *
+    *   264
+
+    *   277
+
+    *   290
+
 
 
 
@@ -4522,7 +4737,7 @@ Bundesentschädigungsgesetzes beträgt
 
 ### § 39
 
-   In den Fällen der §§ 12, 17, 21, 29, 32 und 37 Abs. 3 ist bei der
+In den Fällen der §§ 12, 17, 21, 29, 32 und 37 Abs. 3 ist bei der
 Bewertung der im Ausland erzielten Einkünfte der amtliche Devisenkurs
 der ausländischen Währung zugrunde zu legen. Ergibt sich bei der
 Umrechnung der Einkünfte nach dem amtlichen Devisenkurs zuungunsten
@@ -4620,14 +4835,16 @@ es hierbei zugunsten der Berechtigten sein Bewenden.
 §§ 16, 18 und 31
 mit Wirkung vom 18. September 1965.
 
+zu den §§ 12 und 21 der 3.DV-BEG
 
-### Anlage 1 zu den §§ 12 und 21 der 3.DV-BEG Einkommensübersicht
+### Anlage 1 Einkommensübersicht
 
 (Inhalt: nicht darstellbare Tabelle
 Fundstelle: BGBl. I 1983, 118 bis 119)
 
+zu § 13 der 3.DV-BEG
 
-### Anlage 2 zu § 13 der 3.DV-BEG Besoldungsübersicht Kapitalentschädigung
+### Anlage 2 Besoldungsübersicht Kapitalentschädigung
 
 Fundstelle des Originaltextes: BGBl. I 1966, 309
 
@@ -4912,8 +5129,9 @@ Fundstelle des Originaltextes: BGBl. I 1966, 309
 
 
 
+zu § 14 der 3.DV-BEG
 
-### Anlage 3 zu § 14 der 3.DV-BEG Besoldungsübersicht
+### Anlage 3 Besoldungsübersicht
 
 Fundstelle des Originaltextes: BGBl. I 1966, 310
 
@@ -5685,13 +5903,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   23 072
 
     *   24 763
 
     *   25 609
+
+    *
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   24 387
+
+    *   26 174
+
+    *   27 069
+
+    *
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   25 606
+
+    *   27 483
+
+    *   28 422
+
+    *
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   26 784
+
+    *   28 747
+
+    *   29 729
 
     *
 
@@ -6349,13 +6603,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   26 029
 
     *   29 730
 
     *   31 580
+
+    *
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   27 513
+
+    *   31 425
+
+    *   33 380
+
+    *
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   28 889
+
+    *   32 996
+
+    *   35 049
+
+    *
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   30 218
+
+    *   34 514
+
+    *   36 661
 
     *
 
@@ -7013,13 +7303,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   31 661
 
     *   36 376
 
     *   38 736
+
+    *
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   33 466
+
+    *   38 449
+
+    *   40 944
+
+    *
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   35 139
+
+    *   40 371
+
+    *   42 991
+
+    *
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   36 755
+
+    *   42 228
+
+    *   44 969
 
     *
 
@@ -7702,7 +8028,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   40 468
 
@@ -7713,10 +8039,50 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   51 414
 
 
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   42 775
+
+    *   48 560
+
+    *   51 453
+
+    *   54 345
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   44 914
+
+    *   50 988
+
+    *   54 026
+
+    *   57 062
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   46 980
+
+    *   53 333
+
+    *   56 511
+
+    *   59 687
 
 
 
-### Anlage 5a (zu § 22 der 3. DV-BEG) Besoldungsübersicht Rente
+
+(zu § 22 der 3. DV-BEG)
+
+### Anlage 5a Besoldungsübersicht Rente
 
 (Fundstelle des Originaltextes: BGBl. I 1966, 313 bis 315)
 
@@ -9356,8 +9722,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 22 der 3.DV-BEG)
 
-### Anlage 5b (zu § 22 der 3.DV-BEG) Besoldungsübersicht Rente
+### Anlage 5b Besoldungsübersicht Rente
 
 Fundstelle des Originaltextes: BGBl. I 1970, 1089 bis 1090
 
@@ -10646,13 +11013,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   23 072
 
     *   24 763
 
     *   25 609
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   24 387
+
+    *   26 174
+
+    *   27 069
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   25 606
+
+    *   27 483
+
+    *   28 422
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   26 784
+
+    *   28 747
+
+    *   29 729
 
 
 *    *   2.
@@ -11024,13 +11424,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   10 382
 
     *   16 096
 
     *   18 695
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   10 974
+
+    *   17 013
+
+    *   19 760
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   11 523
+
+    *   17 864
+
+    *   20 748
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   12 053
+
+    *   18 686
+
+    *   21 702
 
 
 *    *   3.
@@ -11402,13 +11835,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   6 924
 
     *   10 728
 
     *   12 468
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   7 320
+
+    *   11 340
+
+    *   13 176
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   7 680
+
+    *   11 904
+
+    *   13 836
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   8 040
+
+    *   12 456
+
+    *   14 472
 
 
 *    *   4.
@@ -11782,13 +12248,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   577
 
     *   894
 
     *   1 039
+
+
+*    *
+    *
+    *
+    *   bis 31.7.2014
+
+    *   610
+
+    *   945
+
+    *   1 098
+
+
+*    *
+    *
+    *
+    *   ab 31.8.2016
+
+    *   640
+
+    *   992
+
+    *   1 153
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   670
+
+    *   1 038
+
+    *   1 206
 
 
 *    *   2.
@@ -12165,13 +12667,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   26 029
 
     *   29 730
 
     *   31 580
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   27 519
+
+    *   31 425
+
+    *   33 380
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   28 889
+
+    *   32 996
+
+    *   35 049
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   30 218
+
+    *   34 514
+
+    *   36 661
 
 
 *    *   2.
@@ -12543,13 +13078,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   11 713
 
     *   19 325
 
     *   23 053
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   12 381
+
+    *   20 426
+
+    *   24 367
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   13 000
+
+    *   21 447
+
+    *   25 586
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   13 598
+
+    *   22 434
+
+    *   26 763
 
 
 *    *   3.
@@ -12921,13 +13489,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   7 812
 
     *   12 888
 
     *   15 372
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   8 256
+
+    *   13 620
+
+    *   16 248
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   8 664
+
+    *   14 304
+
+    *   17 052
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   9 060
+
+    *   14 952
+
+    *   17 844
 
 
 *    *   4.
@@ -13301,13 +13902,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   651
 
     *   1 074
 
     *   1 281
+
+
+*    *
+    *
+    *
+    *   bis 31.7.2014
+
+    *   688
+
+    *   1 135
+
+    *   1 354
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   722
+
+    *   1 192
+
+    *   1 421
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   755
+
+    *   1 246
+
+    *   1 487
 
 
 *    *   3.
@@ -13685,13 +14322,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   31 661
 
     *   36 376
 
     *   38 736
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   33 466
+
+    *   38 449
+
+    *   40 944
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   35 139
+
+    *   40 371
+
+    *   42 991
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   36 755
+
+    *   42 228
+
+    *   44 969
 
 
 *    *   2.
@@ -14063,13 +14733,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   14 247
 
     *   23 644
 
     *   28 277
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   15 060
+
+    *   24 992
+
+    *   29 889
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   15 813
+
+    *   26 241
+
+    *   31 383
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   16 540
+
+    *   27 448
+
+    *   32 827
 
 
 *    *   3.
@@ -14441,13 +15144,46 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   9 504
 
     *   15 768
 
     *   18 852
+
+
+*    *
+    *
+    *   bis 31.7.2014
+
+    *   10 044
+
+    *   16 656
+
+    *   19 932
+
+
+*    *
+    *
+    *   bis 31.8.2016
+
+    *   10 548
+
+    *   17 496
+
+    *   20 928
+
+
+*    *
+    *
+    *   ab 1.9.2016
+
+    *   11 028
+
+    *   18 300
+
+    *   21 888
 
 
 *    *   4.
@@ -14821,13 +15557,49 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1.7.2010
+    *   bis 30.9.2012
 
     *   792
 
     *   1 314
 
     *   1 571
+
+
+*    *
+    *
+    *
+    *   bis 31.7.2014
+
+    *   837
+
+    *   1 388
+
+    *   1 661
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   879
+
+    *   1 458
+
+    *   1 744
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   919
+
+    *   1 525
+
+    *   1 824
 
 
 
@@ -15355,7 +16127,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   40 468
 
@@ -15364,6 +16136,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   48 678
 
     *   51 414
+
+
+*    *
+    *
+    *
+    *   bis 31. 7.2014
+
+    *   42 775
+
+    *   48 560
+
+    *   51 453
+
+    *   54 345
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   44 914
+
+    *   50 988
+
+    *   54 026
+
+    *   57 062
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   46 980
+
+    *   53 333
+
+    *   56 511
+
+    *   59 687
 
 
 *    *
@@ -15875,7 +16689,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   14 285
 
@@ -15884,6 +16698,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   33 588
 
     *   37 018
+
+
+*    *
+    *
+    *
+    *   bis 31. 7.2014
+
+    *   15 100
+
+    *   26 708
+
+    *   35 503
+
+    *   39 128
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   15 855
+
+    *   28 043
+
+    *   37 278
+
+    *   41 085
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   16 584
+
+    *   29 333
+
+    *   38 993
+
+    *   42 975
 
 
 *    *
@@ -16395,7 +17251,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   9 528
 
@@ -16404,6 +17260,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   22 392
 
     *   24 684
+
+
+*    *
+    *
+    *
+    *   bis 31. 7.2014
+
+    *   10 068
+
+    *   17 808
+
+    *   23 664
+
+    *   26 088
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   10 572
+
+    *   18 696
+
+    *   24 852
+
+    *   27 396
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   11 052
+
+    *   19 560
+
+    *   25 992
+
+    *   28 656
 
 
 *    *
@@ -16915,7 +17813,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 *    *
     *
     *
-    *   ab 1. 7.2010
+    *   bis 30. 9.2012
 
     *   794
 
@@ -16924,6 +17822,48 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   1 866
 
     *   2 057
+
+
+*    *
+    *
+    *
+    *   bis 31. 7.2014
+
+    *   839
+
+    *   1 484
+
+    *   1 972
+
+    *   2 174
+
+
+*    *
+    *
+    *
+    *   bis 31.8.2016
+
+    *   881
+
+    *   1 558
+
+    *   2 071
+
+    *   2 283
+
+
+*    *
+    *
+    *
+    *   ab 1.9.2016
+
+    *   921
+
+    *   1 630
+
+    *   2 166
+
+    *   2 388
 
 
 

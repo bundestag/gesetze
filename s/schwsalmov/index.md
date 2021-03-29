@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 322
 
+Zuletzt geändert durch
+:   Art. 137 G v. 29.3.2017 I 626
+
 
 
 ## Eingangsformel
@@ -142,9 +145,9 @@ mit dem Original des Probenahmeberichts nach der Probenahme
 unverzüglich an die Untersuchungsstelle zu übersenden. Anstelle des
 Probenehmers kann in den Fällen des Absatzes 1 der
 Untersuchungspflichtige die Übersendung nach Satz 1 vornehmen. Der
-Probenahmebericht kann ferner in elektronischer Form erstellt werden.
-Im Falle der Erstellung des Probenahmeberichts in elektronischer Form
-gelten die Sätze 2 und 3 und Absatz 3 entsprechend.
+Probenahmebericht kann ferner elektronisch erstellt werden. Im Falle
+der elektronischen Erstellung des Probenahmeberichts gelten die Sätze
+2 und 3 und Absatz 3 entsprechend.
 
 (5) Der Untersuchungspflichtige hat sicherzustellen, dass er eine
 Mehrfertigung des Probenahmeberichts erhält. Die weitere Mehrfertigung
@@ -280,8 +283,8 @@ bedienen.
 
 ## § 9 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 76 Abs. 2 Nr. 2 des Tierseuchengesetzes
-handelt, wer vorsätzlich oder fahrlässig
+Ordnungswidrig im Sinne des § 32 Absatz 2 Nummer 4 Buchstabe a des
+Tiergesundheitsgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 1.  entgegen § 2 Abs. 1 Satz 1 eine Blutprobe nicht, nicht richtig oder
     nicht rechtzeitig untersuchen lässt,

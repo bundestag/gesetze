@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2699
 
+Zuletzt geändert durch
+:   Art. 24 Abs. 11 G v. 23.6.2017 I 1693
+
 
 ## Eingangsformel
 
@@ -427,7 +430,7 @@ Mindestqualitätsnormen in Bezug auf
 
 
 (2) Soweit es für die Überwachung nach Absatz 1 sowie für die
-Überwachung nach § 30h Absatz 2 Satz 2 des Wertpapierhandelsgesetzes
+Überwachung nach § 53 Absatz 2 Satz 2 des Wertpapierhandelsgesetzes
 erforderlich ist, kann die Bundesanstalt von dem Betreiber des
 Bundesanzeigers Auskünfte, die Vorlage von Unterlagen und die
 Überlassung von Kopien verlangen. Gesetzliche Auskunfts- oder
@@ -436,10 +439,10 @@ Verschwiegenheitspflichten bleiben unberührt.
 
 (3) Falls der Betreiber des Bundesanzeigers dem berechtigten Verlangen
 der Bundesanstalt nicht nachkommt, kann diese gegenüber dem
-Bundesministerium der Justiz, das Kontroll- und Aufsichtsbehörde des
-Bundesanzeigers ist, darauf hinwirken, dass der Betreiber des
-Bundesanzeigers seine Pflichten erfüllt und die Missstände beseitigt
-werden.
+Bundesministerium der Justiz und für Verbraucherschutz, das Kontroll-
+und Aufsichtsbehörde des Bundesanzeigers ist, darauf hinwirken, dass
+der Betreiber des Bundesanzeigers seine Pflichten erfüllt und die
+Missstände beseitigt werden.
 
 
 ## Abschnitt 7 - Schlussvorschrift

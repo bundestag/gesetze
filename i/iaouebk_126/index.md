@@ -3,7 +3,7 @@ Title: Übereinkommen Nr. 126 (der Internationalen Arbeitsorganisation) über di
   an Bord von Fischereifahrzeugen
 jurabk: IAOÜbk 126
 layout: default
-origslug: iao_bk_126
+origslug: iaouebk_126
 slug: iaouebk_126
 
 ---

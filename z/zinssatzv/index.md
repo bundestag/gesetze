@@ -34,8 +34,7 @@ a)  nach Nummer 43 Abs. 2 der Anlage zur Verordnung PR Nr. 30/53 über die
     Preise bei öffentlichen Aufträgen vom 21. November 1953
     (Bundesanzeiger Nr. 244 vom 18. Dezember 1953),
     zuletzt geändert durch die Verordnung PR Nr. 7/67 vom 12. Dezember
-    1967 (Bundesanzeiger Nr. 237 vom 19. Dezember 1967),
-    und
+    1967 (Bundesanzeiger Nr. 237 vom 19. Dezember 1967), und
 
 
 b)  nach Nummer 35 Abs. 2 der Anlage zur Verordnung PR Nr. 1/72 über die

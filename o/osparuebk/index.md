@@ -2,7 +2,7 @@
 Title: Übereinkommen zum Schutz der Meeresumwelt des Nordostatlantiks
 jurabk: OSPARÜbk
 layout: default
-origslug: ospar_bk
+origslug: osparuebk
 slug: osparuebk
 
 ---

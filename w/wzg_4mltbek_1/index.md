@@ -54,7 +54,6 @@ Fundstelle: BGBl. I 1972, 1389)
 
 ## Anlage 2
 
-Amtliche Prüf- und Gewährzeichen für Gold- und Silberwaren
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1972, 1390)
-
+Amtliche Prüf- und Gewährzeichen für Gold- und Silberwaren
+![bgbl1_1972_j1390_0010.jpg](bgbl1_1972_j1390_0010.jpg)

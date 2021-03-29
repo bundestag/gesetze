@@ -4,7 +4,7 @@ Title: Gesetz zu dem Vertrag vom 20. Juli 1977 zwischen der Bundesrepublik Deuts
   April 1959 über die Rechtshilfe in Strafsachen und die Erleichterung seiner Anwendung
 jurabk: EuRHiISRÜbkErgVtrG
 layout: default
-origslug: eurhiisr_bkergvtrg
+origslug: eurhiisruebkergvtrg
 slug: eurhiisruebkergvtrg
 
 ---

@@ -3,7 +3,7 @@ Title: Verordnung über Kosten für Amtshandlungen der Bundesanstalt für Landwi
   und Ernährung nach § 2 Abs. 2 des Öko-Landbaugesetzes
 jurabk: BLEÖLGKostV
 layout: default
-origslug: ble_lgkostv
+origslug: bleoelgkostv
 slug: bleoelgkostv
 
 ---
@@ -16,8 +16,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2003, 2358
 
-Geändert durch
-:   Art. 1 V v. 5.2.2010 I 81
+V aufgeh. durch
+:   Art. 4 Abs. 92 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
+Zuletzt geändert durch
+:   Art. 2 Abs. 120 G v. 7.8.2013 I 3154
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 96 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 
@@ -30,53 +36,58 @@ das Bundesministerium für Verbraucherschutz, Ernährung und
 Landwirtschaft im Einvernehmen mit dem Bundesministerium der Finanzen:
 
 
-## § 1 Erhebung von Kosten
+## § 1 Erhebung von Gebühren und Auslagen
 
 Die Bundesanstalt für Landwirtschaft und Ernährung erhebt für
-Amtshandlungen nach § 2 Abs. 2 des Öko-Landbaugesetzes Kosten
-(Gebühren und Auslagen) nach dieser Verordnung.
+individuell zurechenbare öffentliche Leistungen nach § 2 Absatz 2 des
+Öko-Landbaugesetzes Gebühren und Auslagen nach dieser Verordnung.
 
 
 ## § 2 Gebühren
 
-Die gebührenpflichtigen Amtshandlungen und die Gebührensätze ergeben
-sich aus dem anliegenden Gebührenverzeichnis.
+Die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebührensätze ergeben sich aus dem anliegenden
+Gebührenverzeichnis.
 
 
 ## § 3 Auslagen
 
 Vom Kostenschuldner werden die in § 10 Abs. 1 Nr. 2 bis 7 des
-Verwaltungskostengesetzes aufgeführten Auslagen erhoben.
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung aufgeführten Auslagen erhoben.
 
 
 ## § 4 Rücknahme, Widerruf, Widerspruch
 
-(1) Wird ein Antrag auf Vornahme einer gebührenpflichtigen
-Amtshandlung nach Beginn der sachlichen Bearbeitung und vor deren
-Beendigung vom Antragsteller zurückgenommen oder ein Antrag aus
-anderen Gründen als wegen Unzuständigkeit abgelehnt, oder wird eine
-Amtshandlung zurückgenommen oder widerrufen, so werden Gebühren nach
-Maßgabe des § 15 Abs. 2 des Verwaltungskostengesetzes erhoben.
+(1) Wird ein Antrag auf Vornahme einer gebührenpflichtigen individuell
+zurechenbaren öffentlichen Leistung nach Beginn der sachlichen
+Bearbeitung und vor deren Beendigung vom Antragsteller zurückgenommen
+oder ein Antrag aus anderen Gründen als wegen Unzuständigkeit
+abgelehnt, oder wird ein Verwaltungsakt zurückgenommen oder
+widerrufen, so werden Gebühren nach Maßgabe des § 15 Absatz 2 des
+Verwaltungskostengesetzes in der bis zum 14. August 2013 geltenden
+Fassung erhoben.
 
 (2) Für die vollständige oder teilweise Zurückweisung eines
-Widerspruchs wird eine Gebühr bis zur Höhe der für die angefochtene
-Amtshandlung festgesetzten Gebühr erhoben; dies gilt nicht, wenn der
+Widerspruchs wird eine Gebühr bis zur Höhe der für den angefochtenen
+Verwaltungsakt festgesetzten Gebühr erhoben; dies gilt nicht, wenn der
 Widerspruch nur deshalb keinen Erfolg hat, weil die Verletzung einer
 Verfahrens- oder Formvorschrift nach § 45 des
 Verwaltungsverfahrensgesetzes unbeachtlich ist. Bei einem erfolglosen
-Widerspruch, der sich ausschließlich gegen eine Kostenentscheidung
-richtet, beträgt die Gebühr höchstens 10 vom Hundert des streitigen
+Widerspruch, der sich ausschließlich gegen eine Gebührenfestsetzung
+richtet, beträgt die Gebühr höchstens 10 Prozent des streitigen
 Betrages. Wird ein Widerspruch nach Beginn seiner sachlichen
 Bearbeitung, jedoch vor deren Beendigung zurückgenommen, beträgt die
-Gebühr höchstens 75 vom Hundert der Widerspruchsgebühr.
+Gebühr höchstens 75 Prozent der Widerspruchsgebühr.
 
 
 ## § 5 Übergangsregelung
 
-Für Amtshandlungen, die vor dem Inkrafttreten dieser Verordnung
-vorgenommen worden sind, können Kosten nach Maßgabe des § 2 Abs. 1 und
-der §§ 3 und 4 erhoben werden, soweit die Bundesanstalt für
-Landwirtschaft und Ernährung die Erhebung der Kosten in einem
+Für individuell zurechenbare öffentliche Leistungen, die vor dem
+Inkrafttreten dieser Verordnung vorgenommen worden sind, können
+Gebühren und Auslagen nach Maßgabe des § 2 Abs. 1 und der §§ 3 und 4
+erhoben werden, soweit die Bundesanstalt für Landwirtschaft und
+Ernährung die Erhebung der Gebühren und Auslagen in einem
 unanfechtbaren Bescheid vorbehalten hat.
 
 
@@ -84,10 +95,12 @@ unanfechtbaren Bescheid vorbehalten hat.
 
 Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
+(zu § 2)
 
-## Anlage (zu § 2) Verzeichnis der Gebühren für Amtshandlungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
+## Anlage Verzeichnis der Gebühren für individuell zurechenbare öffentliche Leistungen der Bundesanstalt für Landwirtschaft und Ernährung nach § 2 Absatz 2 des Öko-Landbaugesetzes
 
-(Fundstelle: BGBl. I 2010, 81)
+(Fundstelle: BGBl. I 2010, 81; bzgl. einzelner Änderungen vgl.
+Fußnote)
 
 *    *   Gebührennummer
 
@@ -119,14 +132,13 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 *    *   2
 
-    *   Genehmigung zur Vermarktung von Erzeugnissen mit Hinweis auf den
+    *   **Genehmigung zur Vermarktung von Erzeugnissen mit Hinweis auf den
         ökologischen Landbau, die aus einem Drittland in die EU eingeführt
         werden, gemäß Artikel 33 der Verordnung (EG) Nr. 834/2007 sowie gemäß
-        den Bestimmungen                          der Verordnung (EG) Nr.
-        1235/2008 mit Durchführungsvorschriften zur Verordnung (EG) Nr.
-        834/2007 des Rates hinsichtlich der Regelung der Einfuhren
-        von ökologischen/biologischen **Erzeugnissen aus Drittländern, hier
-        insbesondere Artikel 19**
+        den Bestimmungen der Verordnung (EG) Nr. 1235/2008 mit
+        Durchführungsvorschriften zur Verordnung (EG) Nr. 834/2007 des Rates
+        hinsichtlich der Regelung der Einfuhren von ökologischen/biologischen
+        Erzeugnissen aus Drittländern, hier insbesondere Artikel 19**
 
     *
 
@@ -180,7 +192,7 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
     *   Änderung oder Verlängerung der Zulassung
 
-    *   24 bis 235“.
+    *   24 bis 235.
 
 
 

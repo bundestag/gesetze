@@ -659,8 +659,9 @@ Diese Verordnung tritt am 1. August 2011 in Kraft. Gleichzeitig tritt
 die Verordnung über die Berufsausbildung zum Buchhändler/zur
 Buchhändlerin vom 5. März 1998 (BGBl. I S. 462) außer Kraft.
 
+(zu § 4 Absatz 1 Satz 1)
 
-## Anlage 1 (zu § 4 Absatz 1 Satz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
 
 (Fundstelle: BGBl. I 2011, 426 - 437)
 
@@ -2599,8 +2600,9 @@ Wahlqualifikationseinheiten**
 
 
 
+(zu § 4 Absatz 1 Satz 2)
 
-## Anlage 2 (zu § 4 Absatz 1 Satz 2) Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Buchhändler und zur Buchhändlerin
 
 (Fundstelle: BGBl. I 2011, 438 - 439)
 

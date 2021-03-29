@@ -2,7 +2,7 @@
 Title: Europäisches Auslieferungsübereinkommen
 jurabk: EuAuslfÜbk
 layout: default
-origslug: euauslf_bk
+origslug: euauslfuebk
 slug: euauslfuebk
 
 ---

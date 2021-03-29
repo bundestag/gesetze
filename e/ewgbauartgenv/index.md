@@ -38,9 +38,8 @@ Abschnitt II der Verordnung über die Prüfung und Kennzeichnung
 bauartgenehmigungspflichtiger Fahrzeugteile in der Fassung der
 Bekanntmachung vom 30. September 1960 (Bundesgesetzbl. I S. 782),
 zuletzt geändert durch die Verordnung vom
-16\. November 1970 (Bundesgesetzbl. I S. 1614),
-entsprechend, soweit die Verordnung (EWG) Nr. 1463/70 nichts anderes
-bestimmt.
+16\. November 1970 (Bundesgesetzbl. I S. 1614), entsprechend, soweit
+die Verordnung (EWG) Nr. 1463/70 nichts anderes bestimmt.
 
 
 ## § 2 Berlin-Klausel

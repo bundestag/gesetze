@@ -16,8 +16,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2008, 1758
 
-Geändert durch
-:   Art. 33 V v. 25.8.2009 I 2960
+Zuletzt geändert durch
+:   Art. 5 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -625,8 +625,9 @@ beantragt werden.
 
 Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
+(zu § 5 Abs. 2, 4 und 5)
 
-## Anlage 1 (zu § 5 Abs. 2, 4 und 5) Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5
+## Anlage 1 Liste der produktbezogenen Qualifikationsschwerpunkte nach § 5 Abs. 2, 4 und 5
 
 ( Fundstelle: BGBl. I 2008, 1763 )
 
@@ -779,8 +780,9 @@ Diese Verordnung tritt am 1. Januar 2009 in Kraft.
 
 
 
+(zu § 8 Abs. 6)
 
-## Anlage 2 (zu § 8 Abs. 6) Muster
+## Anlage 2 Muster
 
 (Fundstelle: BGBl. I 2008, 1764;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -818,8 +820,12 @@ Geprüfter Fachwirt für Versicherungen und Finanzen/
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin
 für Versicherungen und Finanzen vom 26. August 2008 (BGBl. I S. 1758),
-die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960) geändert worden ist, bestanden.
+die zuletzt durch Artikel 5 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274) geändert worden ist, bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ...............
@@ -832,8 +838,9 @@ die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
 
 
 
+(zu § 8 Abs. 6)
 
-## Anlage 3 (zu § 8 Abs. 6) Muster
+## Anlage 3 Muster
 
 (Fundstelle: BGBl. I 2008, 1765 - 1766;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -871,15 +878,15 @@ Geprüfter Fachwirt für Versicherungen und Finanzen/
 nach der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter Fachwirt für Versicherungen und Finanzen/Geprüfte Fachwirtin
 für Versicherungen und Finanzen vom 26. August 2008 (BGBl. I S. 1758),
-die durch Artikel 33 der Verordnung vom 25. August 2009 (BGBl. I S.
-2960) geändert worden ist, mit folgenden Ergebnissen bestanden:
+die zuletzt durch Artikel 5 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274) geändert worden ist, mit folgenden Ergebnissen bestanden:
 
 *    *   Gesamtnote: ........
 
 
 *    *
     *
-    *[^F771423_01_BJNR175800008BJNE001701308]
+    *[^F771423_01_BJNR175800008BJNE001702377]
    Punkte
 
     *   Note
@@ -950,6 +957,10 @@ zusätzlichen Prüfung nach § 10 Abs. 2 teilgenommen und die berufs- und
 arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 30 Abs. 5 des Berufsbildungsgesetzes nachgewiesen.
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum
 
@@ -961,6 +972,6 @@ arbeitspädagogischen Fertigkeiten, Kenntnisse und Fähigkeiten nach §
 
 
 
-[^F771423_01_BJNR175800008BJNE001701308]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
+[^F771423_01_BJNR175800008BJNE001702377]:     Den Bewertungen liegt folgender Punkteschlüssel zugrunde:
     ...............
 

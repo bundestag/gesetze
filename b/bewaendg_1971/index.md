@@ -2,7 +2,7 @@
 Title: Gesetz zur Änderung bewertungsrechtlicher und anderer steuerrechtlicher Vorschriften
 jurabk: BewÄndG 1971
 layout: default
-origslug: bew_ndg_1971
+origslug: bewaendg_1971
 slug: bewaendg_1971
 
 ---
@@ -34,7 +34,7 @@ Januar 1964 zugrunde liegen, werden unter den Voraussetzungen der §§
 Gesetzes erstmals auf den 1. Januar 1974 vorgenommen.
 
 
-## Art 2 *Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte *KE
+## Art 2 \*Ku Hauptfeststellung der Einheitswerte der Mineralgewinnungsrechte \*KE
 
 (1) Für Mineralgewinnungsrechte findet die nächste Hauptfeststellung
 der Einheitswerte auf den 1. Januar 1972 statt (Hauptfeststellung

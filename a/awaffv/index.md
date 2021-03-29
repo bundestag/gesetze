@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 2123
 
 Zuletzt geändert durch
-:   Art. 1 V v. 17.12.2012 I 2698
+:   Art. 2 G v. 30.6.2017 I 2133
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -633,15 +633,16 @@ nach Satz 1 erforderlichen Aufsichtspersonen festlegen.
 
 (2) Der Erlaubnisinhaber hat der zuständigen Behörde die Personalien
 der verantwortlichen Aufsichtspersonen zwei Wochen vor der Übernahme
-der Aufsicht schriftlich anzuzeigen; beauftragt eine schießsportliche
-oder jagdliche Vereinigung die verantwortliche Aufsichtsperson, so
-obliegt diese Anzeige der Aufsichtsperson selbst. Der Anzeige sind
-Nachweise beizufügen, aus denen hervorgeht, dass die Aufsichtsperson
-die erforderliche Sachkunde und, sofern es die Obhut über das Schießen
-durch Kinder und Jugendliche betrifft, auch die Eignung zur Kinder-
-und Jugendarbeit besitzt. Der Erlaubnisinhaber hat das Ausscheiden der
-angezeigten Aufsichtsperson und die Bestellung einer neuen
-Aufsichtsperson der zuständigen Behörde unverzüglich anzuzeigen.
+der Aufsicht schriftlich oder elektronisch anzuzeigen; beauftragt eine
+schießsportliche oder jagdliche Vereinigung die verantwortliche
+Aufsichtsperson, so obliegt diese Anzeige der Aufsichtsperson selbst.
+Der Anzeige sind Nachweise beizufügen, aus denen hervorgeht, dass die
+Aufsichtsperson die erforderliche Sachkunde und, sofern es die Obhut
+über das Schießen durch Kinder und Jugendliche betrifft, auch die
+Eignung zur Kinder- und Jugendarbeit besitzt. Der Erlaubnisinhaber hat
+das Ausscheiden der angezeigten Aufsichtsperson und die Bestellung
+einer neuen Aufsichtsperson der zuständigen Behörde unverzüglich
+anzuzeigen.
 
 (3) Bei der Beauftragung der verantwortlichen Aufsichtsperson durch
 einen schießsportlichen Verein eines anerkannten Schießsportverbandes
@@ -788,64 +789,148 @@ nichtmilitärischen Schießständen“ erfolgt ist.
 
 ### § 13 Aufbewahrung von Waffen oder Munition
 
-(1) In einem Sicherheitsbehältnis, das der Norm DIN/EN 1143-1
-Widerstandsgrad 0 (Stand: Mai 1997)1) oder einer Norm mit gleichem
-Schutzniveau eines anderen Mitgliedstaates des Übereinkommens über den
-Europäischen Wirtschaftsraum (EWR-Mitgliedstaat) oder der
-Sicherheitsstufe B nach VDMA 24992 2)3) (Stand: Mai 1995) entspricht,
-dürfen nicht mehr als zehn Kurzwaffen (Anlage 1 Abschnitt 1
-Unterabschnitt 1 Nr. 2.6, dritter Halbsatz zum Waffengesetz), zu deren
-Erwerb und Besitz es einer Erlaubnis bedarf, oder zehn nach Anlage 2
-Abschnitt 1 Nr. 1.1 bis 1.2.3 zum Waffengesetz verbotene Waffen
-aufbewahrt werden; unterschreitet das Gewicht des Behältnisses 200
-Kilogramm oder liegt die Verankerung gegen Abriss unter einem
-vergleichbaren Gewicht, so verringert sich die Höchstzahl der
-aufzubewahrenden Waffen auf fünf. Wird die in Satz 1 genannte Anzahl
-überschritten, so darf die Aufbewahrung nur in einem
-Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
-Widerstandsgrad I (Stand: Mai 1997) oder einer Norm mit gleichem
-Schutzniveau eines anderen EWR-Mitgliedstaates entspricht, oder in
-einer entsprechenden Mehrzahl von Sicherheitsbehältnissen nach Satz 1
-erfolgen.
+(1) Schusswaffen, deren Erwerb und Besitz erlaubnispflichtig sind,
+verbotene Waffen und verbotene Munition sind ungeladen und in einem
+Behältnis aufzubewahren, das
 
-(2) Werden mehr als zehn Langwaffen (Anlage 1 Abschnitt 1
-Unterabschnitt 1 Nr. 2.6, erster und zweiter Halbsatz zum
-Waffengesetz), zu deren Erwerb und Besitz es einer Erlaubnis bedarf,
-aufbewahrt, so darf die Aufbewahrung nur in einem
-Sicherheitsbehältnis, das mindestens einer der in Absatz 1 Satz 1
-genannten Normen entspricht, oder in einer entsprechenden Mehrzahl von
-Sicherheitsbehältnissen nach § 36 Abs. 2 Satz 2 des Waffengesetzes
-erfolgen.
+1.[^F798889_02_BJNR212300003BJNE001502118]
+  mindestens der Norm DIN/EN 1143-1 (Stand Mai 1997, Oktober 2002,
+    Februar 2006, Januar 2010 oder Juli 2012)
+    mit dem in Absatz 2 geregelten Widerstandsgrad und Gewicht entspricht
+    und
 
-(3) Munition, deren Erwerb nicht von der Erlaubnispflicht freigestellt
-ist, darf nur in einem Stahlblechbehältnis ohne Klassifizierung mit
-Schwenkriegelschloss oder einer gleichwertigen Verschlussvorrichtung
-oder in einem gleichwertigen Behältnis aufbewahrt werden.
 
-(4) Werden Langwaffen, zu deren Erwerb und Besitz es einer Erlaubnis
-bedarf, in einem Sicherheitsbehältnis, das der Sicherheitsstufe A nach
-VDMA 24992 (Stand: Mai 1995) entspricht, aufbewahrt, so ist es für die
-Aufbewahrung von bis zu fünf Kurzwaffen, zu deren Erwerb und Besitz es
-einer Erlaubnis bedarf, und der Munition für die Lang- und Kurzwaffen
-ausreichend, wenn sie in einem Innenfach erfolgt, das den
-Sicherheitsanforderungen nach Absatz 1 Satz 1 entspricht; in diesem
-Fall dürfen die Kurzwaffen und die Munition innerhalb des Innenfaches
-zusammen aufbewahrt werden. Im Falle der Aufbewahrung von Schusswaffen
-in einem Sicherheitsbehältnis der Sicherheitsstufe A oder B nach VDMA
-24992 ist es für die Aufbewahrung der dazugehörigen Munition
-ausreichend, wenn sie in einem Innenfach aus Stahlblech ohne
-Klassifizierung mit Schwenkriegelschloss oder einer gleichwertigen
-Verschlussvorrichtung erfolgt; nicht zu den dort aufbewahrten Waffen
-gehörige Munition darf zusammen aufbewahrt werden.
+2.  zum Nachweis dessen über eine Zertifizierung durch eine akkreditierte
+    Stelle gemäß Absatz 10 verfügt.
 
-(5) Die zuständige Behörde kann eine andere gleichwertige Aufbewahrung
-der Waffen zulassen. Insbesondere kann von Sicherheitsbehältnissen im
-Sinne des § 36 Abs. 1 und 2 des Waffengesetzes oder im Sinne der
-Absätze 1 bis 3 abgesehen werden, wenn die Waffen und die Munition in
-einem Waffenraum aufbewahrt werden, der dem Stand der Technik
-entspricht.
 
-(6) In einem nicht dauernd bewohnten Gebäude dürfen nur bis zu drei
+
+Der in Satz 1 Nummer 1 genannten Norm gleichgestellt sind Normen eines
+anderen Mitgliedstaates des Übereinkommens über den Europäischen
+Wirtschaftsraum, die das gleiche Schutzniveau aufweisen. Die
+zuständige Behörde kann eine andere gleichwertige Aufbewahrung der
+Waffen und Munition zulassen. Vergleichbar gesicherte Räume sind als
+gleichwertig anzusehen. Alternative Sicherungseinrichtungen, die keine
+Behältnisse oder Räume sind, sind zulässig, sofern sie
+
+1.  ein den jeweiligen Anforderungen mindestens gleichwertiges
+    Schutzniveau aufweisen und
+
+
+2.  zum Nachweis dessen über eine Zertifizierung durch eine akkreditierte
+    Stelle gemäß Absatz 10 verfügen.
+
+
+
+
+(2) Wer Waffen oder Munition besitzt, hat diese ungeladen und unter
+Beachtung der folgenden Sicherheitsvorkehrungen und zahlenmäßigen
+Beschränkungen aufzubewahren:
+
+1.  mindestens in einem verschlossenen Behältnis: Waffen oder Munition,
+    deren Erwerb von der Erlaubnispflicht freigestellt ist;
+
+
+2.  mindestens in einem Stahlblechbehältnis ohne Klassifizierung mit
+    Schwenkriegelschloss oder einer gleichwertigen Verschlussvorrichtung
+    oder in einem gleichwertigen Behältnis: Munition, deren Erwerb nicht
+    von der Erlaubnispflicht freigestellt ist;
+
+
+3.[^F798889_03_BJNR212300003BJNE001502118]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad 0 (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010 oder Juli 2012)
+    entspricht und bei dem das Gewicht des Behältnisses 200 Kilogramm
+    unterschreitet:
+
+    a)  eine unbegrenzte Anzahl von Langwaffen und insgesamt bis zu fünf nach
+        Anlage 2 Abschnitt 1 Nummer 1.1 bis 1.2.3 und 1.2.5 des Waffengesetzes
+        verbotene Waffen und Kurzwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1
+        Nummer 2.5 des Waffengesetzes), für deren Erwerb und Besitz es ihrer
+        Art nach einer Erlaubnis bedarf, und
+
+
+    b)  zusätzlich eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer
+        1\.2.4 bis 1.2.4.2 und 1.3 bis 1.4.4 des Waffengesetzes verbotener
+        Waffen sowie
+
+
+    c)  zusätzlich Munition;
+
+
+
+
+
+4.[^F798889_04_BJNR212300003BJNE001502118]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad 0 (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010 oder Juli 2012)
+    entspricht und bei dem das Gewicht des Behältnisses mindestens 200
+    Kilogramm beträgt:
+
+    a)  eine unbegrenzte Anzahl von Langwaffen und bis zu zehn nach Anlage 2
+        Abschnitt 1 Nummer 1.1 bis 1.2.3 und 1.2.5 des Waffengesetzes
+        verbotene Waffen und Kurzwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1
+        Nummer 2.5 des Waffengesetzes), für deren Erwerb und Besitz es ihrer
+        Art nach einer Erlaubnis bedarf, und
+
+
+    b)  zusätzlich eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer
+        1\.2.4 bis 1.2.4.2 und 1.3 bis 1.4.4 des Waffengesetzes verbotener
+        Waffen sowie
+
+
+    c)  zusätzlich Munition;
+
+
+
+
+
+5.[^F798889_05_BJNR212300003BJNE001502118]
+  in einem Sicherheitsbehältnis, das mindestens der Norm DIN/EN 1143-1
+    Widerstandsgrad I (Stand Mai 1997, Oktober 2002, Februar 2006, Januar
+    2010 oder Juli 2012)
+    entspricht:
+
+    a)  eine unbegrenzte Anzahl von Lang- und Kurzwaffen (Anlage 1 Abschnitt 1
+        Unterabschnitt 1 Nummer 2.5 des Waffengesetzes), für deren Erwerb und
+        Besitz es ihrer Art nach einer Erlaubnis bedarf,
+
+
+    b)  eine unbegrenzte Anzahl nach Anlage 2 Abschnitt 1 Nummer 1.1 bis 1.4.4
+        des Waffengesetzes verbotener Waffen sowie
+
+
+    c)  Munition.
+
+
+
+
+
+
+
+(3) Bei der Bestimmung der Zahl der Waffen, die nach Absatz 2 in einem
+Sicherheitsbehältnis aufbewahrt werden dürfen, bleiben außer Betracht:
+
+1.  wesentliche Teile von Schusswaffen und Schalldämpfer nach Anlage 1
+    Abschnitt 1 Unterabschnitt 1 Nummer 1.3 bis 1.3.4 des Waffengesetzes,
+
+
+2.  Vorrichtungen nach Anlage 2 Abschnitt 1 Nummer 1.2.4.1 des
+    Waffengesetzes, die das Ziel beleuchten oder markieren, und
+
+
+3.  Nachtsichtgeräte, -vorsätze und -aufsätze sowie Nachtzielgeräte nach
+    Anlage 2 Abschnitt 1 Nummer 1.2.4.2 des Waffengesetzes.
+
+
+
+Satz 1 Nummer 1 gilt nur, sofern die zusammen aufbewahrten
+wesentlichen Teile nicht zu einer schussfähigen Waffe zusammengefügt
+werden können.
+
+(4) In einem nicht dauernd bewohnten Gebäude dürfen nur bis zu drei
 Langwaffen, zu deren Erwerb und Besitz es einer Erlaubnis bedarf,
 aufbewahrt werden. Die Aufbewahrung darf nur in einem mindestens der
 Norm DIN/EN 1143-1 Widerstandsgrad I entsprechenden
@@ -853,10 +938,10 @@ Sicherheitsbehältnis erfolgen. Die zuständige Behörde kann
 Abweichungen in Bezug auf die Art oder Anzahl der aufbewahrten Waffen
 oder das Sicherheitsbehältnis auf Antrag zulassen.
 
-(7) Die zuständige Behörde kann auf Antrag bei einer Waffen- oder
+(5) Die zuständige Behörde kann auf Antrag bei einer Waffen- oder
 Munitionssammlung unter Berücksichtigung der Art und der Anzahl der
 Waffen oder der Munition und ihrer Gefährlichkeit für die öffentliche
-Sicherheit und Ordnung von den Vorgaben der Absätze 1 bis 6
+Sicherheit und Ordnung von den Vorgaben der Absätze 1, 2 und 4
 insbesondere unter dem Gesichtspunkt der Sichtbarkeit zu
 Ausstellungszwecken abweichen und dabei geringere oder höhere
 Anforderungen an die Aufbewahrung stellen; bei Sammlungen von Waffen,
@@ -864,41 +949,82 @@ deren Modell vor dem 1. Januar 1871 entwickelt worden ist, und bei
 Munitionssammlungen soll sie geringere Anforderungen stellen. Dem
 Antrag ist ein Aufbewahrungskonzept beizugeben.
 
-(8) Die zuständige Behörde kann auf Antrag von Anforderungen an die
-Sicherheitsbehältnisse nach § 36 Abs. 1 und 2 des Waffengesetzes oder
-nach den Absätzen 1 bis 3 oder an einen Waffenraum nach Absatz 5 Satz
-2 absehen, wenn ihre Einhaltung unter Berücksichtigung der Art und der
-Anzahl der Waffen und der Munition und ihrer Gefährlichkeit für die
-öffentliche Sicherheit und Ordnung eine besondere Härte darstellen
-würde. In diesem Fall hat sie die niedrigeren Anforderungen
-festzusetzen.
+(6) Die zuständige Behörde kann auf Antrag von Anforderungen an
+Sicherheitsbehältnisse, Waffenräume oder alternative
+Sicherungseinrichtungen nach den Absätzen 1 und 2 absehen, wenn ihre
+Einhaltung unter Berücksichtigung der Art und der Anzahl der Waffen
+und der Munition und ihrer Gefährlichkeit für die öffentliche
+Sicherheit und Ordnung eine besondere Härte darstellen würde. In
+diesem Fall hat sie die niedrigeren Anforderungen festzusetzen.
 
-(9) Bestehen begründete Zweifel, dass Normen anderer EWR-
-Mitgliedstaaten im Schutzniveau den in § 36 Abs. 1 und 2 des
-Waffengesetzes oder in den Absätzen 1 bis 4 genannten Normen
-gleichwertig sind, kann die Behörde vom Verpflichteten die Vorlage
-einer Stellungnahme insbesondere des Deutschen Instituts für Normung
-verlangen.
+(7) Bestehen begründete Zweifel, dass Normen anderer EWR-
+Mitgliedstaaten im Schutzniveau den in den Absätzen 1 und 2 genannten
+Normen gleichwertig sind, kann die Behörde vom Verpflichteten die
+Vorlage einer Stellungnahme insbesondere des Deutschen Instituts für
+Normung verlangen.
 
-(10) Die gemeinschaftliche Aufbewahrung von Waffen oder Munition durch
+(8) Die gemeinschaftliche Aufbewahrung von Waffen oder Munition durch
 berechtigte Personen, die in einer häuslichen Gemeinschaft leben, ist
 zulässig.
 
-(11) Bei der vorübergehenden Aufbewahrung von Waffen im Sinne des
+(9) Bei der vorübergehenden Aufbewahrung von Waffen im Sinne des
 Absatzes 1 Satz 1 oder des Absatzes 2 oder von Munition außerhalb der
 Wohnung, insbesondere im Zusammenhang mit der Jagd oder dem
 sportlichen Schießen, hat der Verpflichtete die Waffen oder Munition
 unter angemessener Aufsicht aufzubewahren oder durch sonstige
 erforderliche Vorkehrungen gegen Abhandenkommen oder unbefugte
 Ansichnahme zu sichern, wenn die Aufbewahrung gemäß den Anforderungen
-der Absätze 1 bis 8 nicht möglich ist.
+des Absatzes 1 und 2 nicht möglich ist.
 
+(10) Die Konformitätsbewertung von Sicherheitsbehältnissen und
+Sicherungseinrichtungen nach den Absätzen 1 und 2 erfolgt durch
+akkreditierte Stellen. Akkreditierte Stellen sind Stellen, die
+
+1.  Konformitätsbewertungen auf dem Gebiet der Zertifizierung von
+    Erzeugnissen des Geldschrank- und Tresorbaus einschließlich Schlössern
+    zum Schutz gegen Einbruchdiebstahl vornehmen und
+
+
+2.  hierfür über eine Akkreditierung einer nationalen
+    Akkreditierungsstelle nach Artikel 4 Absatz 1 der Verordnung (EG) Nr.
+    765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008
+    über die Vorschriften für die Akkreditierung und Marktüberwachung im
+    Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der
+    Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S.
+    30) in der jeweils geltenden Fassung verfügen.
+
+
+
+Als nationale Akkreditierungsstellen gelten
+
+1.  Stellen, die nach § 8 des Akkreditierungsstellengesetzes vom 31. Juli
+    2009 (BGBl. I S. 2625), das zuletzt durch Artikel 4 Absatz 79 des
+    Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666) geändert worden ist, in
+    der jeweils geltenden Fassung beliehen oder errichtet sind, und
+
+
+2.  jede andere von einem Mitgliedstaat oder einem Staat des Europäischen
+    Wirtschaftsraums nach Artikel 4 Absatz 1 der Verordnung (EG) Nr.
+    765/2008 als nationale Akkreditierungsstelle benannte Stelle.
+
+
+
+
+    Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_02_BJNR212300003BJNE001502118]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_03_BJNR212300003BJNE001502118]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_04_BJNR212300003BJNE001502118]:     Zu beziehen bei der Beuth-Verlag GmbH, Berlin, und in der Deutschen
+    Nationalbibliothek archivmäßig gesichert niedergelegt.
+[^F798889_05_BJNR212300003BJNE001502118]: 
 
 ### § 14 Aufbewahrung von Waffen oder Munition in Schützenhäusern, auf Schießstätten oder im gewerblichen Bereich
 
 Die zuständige Behörde kann auf Antrag eines Betreibers eines
 Schützenhauses, einer Schießstätte oder eines Waffengewerbes
-Abweichungen von den Anforderungen des § 13 Abs. 1 bis 5 und 6 Satz 1
+Abweichungen von den Anforderungen des § 13 Absatz 1, 2 und 4 Satz 1
 und 2 zulassen, wenn ihr ein geeignetes Aufbewahrungskonzept vorgelegt
 wird. Sie hat bei ihrer Entscheidung neben der für die Aufbewahrung
 vorgesehenen Art und der Anzahl der Waffen oder der Munition und des
@@ -1436,16 +1562,16 @@ Schießübungen sind verboten.
 (2) Wer Lehrgänge zur Ausbildung in der Verteidigung mit Schusswaffen
 oder Schießübungen dieser Art veranstalten will, hat die beabsichtigte
 Tätigkeit und den Ort, an dem die Veranstaltung stattfinden soll, zwei
-Wochen vorher der zuständigen Behörde schriftlich anzuzeigen. Auf
-Verlangen der zuständigen Behörde ist ein Lehrgangsplan oder
-Übungsprogramm vorzulegen, aus dem die zu vermittelnden Kenntnisse und
-die Art der beabsichtigten Schießübungen erkennbar sind. Die
-Beendigung der Lehrgänge oder Schießübungen ist der zuständigen
-Behörde innerhalb von zwei Wochen ebenfalls anzuzeigen. Der Betreiber
-der Schießstätte darf die Durchführung von Veranstaltungen der
-genannten Art nur zulassen, wenn der Veranstalter ihm gegenüber
-schriftlich erklärt hat, dass die nach Satz 1 erforderliche Anzeige
-erfolgt ist.
+Wochen vorher der zuständigen Behörde schriftlich oder elektronisch
+anzuzeigen. Auf Verlangen der zuständigen Behörde ist ein
+Lehrgangsplan oder Übungsprogramm vorzulegen, aus dem die zu
+vermittelnden Kenntnisse und die Art der beabsichtigten Schießübungen
+erkennbar sind. Die Beendigung der Lehrgänge oder Schießübungen ist
+der zuständigen Behörde innerhalb von zwei Wochen ebenfalls
+anzuzeigen. Der Betreiber der Schießstätte darf die Durchführung von
+Veranstaltungen der genannten Art nur zulassen, wenn der Veranstalter
+ihm gegenüber schriftlich oder elektronisch erklärt hat, dass die nach
+Satz 1 erforderliche Anzeige erfolgt ist.
 
 (3) In der Anzeige über die Aufnahme der Lehrgänge oder Schießübungen
 hat der Veranstalter die Personalien der volljährigen verantwortlichen
@@ -1563,9 +1689,8 @@ solange der Veranstalter
 
 #### § 26 Allgemeine Bestimmungen
 
-(1) Auf Staatsangehörige eines Mitgliedstaates der Europäischen Union
-(Mitgliedstaat) ist § 21 Abs. 4 Nr. 1 des Waffengesetzes nicht
-anzuwenden.
+(1) Auf Staatsangehörige eines Mitgliedstaates ist § 21 Abs. 4 Nr. 1
+des Waffengesetzes nicht anzuwenden.
 
 (2) Auf Staatsangehörige eines Mitgliedstaates, die in einem anderen
 Mitgliedstaat ihren gewöhnlichen Aufenthalt haben, ist § 21 Abs. 4 Nr.
@@ -1842,12 +1967,12 @@ enthalten:
 
 
 
-#### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach oder durch Deutschland
+#### § 30 Erlaubnisse für die Mitnahme von Waffen und Munition nach, durch oder aus Deutschland
 
-(1) Eine Erlaubnis nach § 32 Abs. 1 Satz 1 des Waffengesetzes wird
-durch einen Erlaubnisschein der zuständigen Behörde erteilt. Für die
-Erteilung der Erlaubnis nach Satz 1 hat der Antragsteller folgende
-Angaben zu machen:
+(1) Eine Erlaubnis nach § 32 Absatz 1 Satz 1 oder Absatz 1a Satz 1 des
+Waffengesetzes wird durch einen Erlaubnisschein der zuständigen
+Behörde erteilt. Für die Erteilung der Erlaubnis nach Satz 1 hat der
+Antragsteller folgende Angaben zu machen:
 
 1.  über seine Person:
 
@@ -1912,13 +2037,14 @@ und 3, soweit die Behörde hierauf nicht verzichtet hat.
 #### § 31 Anzeigen
 
 (1) Eine Anzeige nach § 31 Abs. 2 Satz 3 des Waffengesetzes an das
-Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen Vordruck
-in zweifacher Ausfertigung zu erstatten. Die Anzeige muss die in § 29
-Abs. 5 Satz 3 genannten Angaben enthalten. Das Bundeskriminalamt
-bestätigt dem Anzeigenden den Eingang auf dem Doppel der Anzeige.
+Bundesverwaltungsamt ist mit dem hierfür vorgesehenen amtlichen
+Vordruck in zweifacher Ausfertigung zu erstatten. Die Anzeige muss die
+in § 29 Abs. 5 Satz 3 genannten Angaben enthalten. Das
+Bundesverwaltungsamt bestätigt dem Anzeigenden den Eingang auf dem
+Doppel der Anzeige.
 
 (2) Eine Anzeige nach § 34 Abs. 4, erster Halbsatz des Waffengesetzes
-an das Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen
+an das Bundesverwaltungsamt ist mit dem hierfür vorgesehenen amtlichen
 Vordruck zu erstatten und muss folgende Angaben enthalten:
 
 1.  über die Person des Überlassers:
@@ -1942,9 +2068,9 @@ Vordruck zu erstatten und muss folgende Angaben enthalten:
 
 
 (3) Eine Anzeige nach § 34 Abs. 5 Satz 1 des Waffengesetzes an das
-Bundeskriminalamt ist mit dem hierfür vorgesehenen amtlichen Vordruck
-in zweifacher Ausfertigung zu erstatten und muss folgende Angaben
-enthalten:
+Bundesverwaltungsamt ist mit dem hierfür vorgesehenen amtlichen
+Vordruck in zweifacher Ausfertigung zu erstatten und muss folgende
+Angaben enthalten:
 
 1.  über die Person des Erwerbers oder denjenigen, der eine Schusswaffe
     zum dortigen Verbleib in einen anderen Mitgliedstaat verbringt:
@@ -1980,16 +2106,16 @@ außerhalb des Geltungsbereichs des Waffengesetzes, insbesondere im
 Versandwege erwerben will, so ist die Angabe der Erwerbsberechtigung
 nach Satz 1 Nr. 1 nicht erforderlich, ferner genügt an Stelle des
 Passes oder des Personalausweises eine amtliche Beglaubigung dieser
-Urkunden. Das Bundeskriminalamt bestätigt dem Anzeigenden den Eingang
-auf dem Doppel der Anzeige.
+Urkunden. Das Bundesverwaltungsamt bestätigt dem Anzeigenden den
+Eingang auf dem Doppel der Anzeige.
 
 
 #### § 32 Mitteilungen der Behörden
 
-(1) Die zuständige Behörde übermittelt dem Bundeskriminalamt die
+(1) Die zuständige Behörde übermittelt dem Bundesverwaltungsamt die
 Angaben nach § 29 Abs. 4 durch ein Doppel des Erlaubnisscheins.
 
-(2) Das Bundeskriminalamt
+(2) Das Bundesverwaltungsamt
 
 1.  übermittelt dem anderen Mitgliedstaat die Angaben nach § 31 Abs. 1
     Satz 2 und Abs. 2 und die nach Absatz 1 erhaltenen Angaben;
@@ -2093,52 +2219,56 @@ handelt, wer vorsätzlich oder fahrlässig
 11. entgegen § 12 Abs. 2 Satz 2 eine Schießstätte betreibt oder benutzt,
 
 
-12. entgegen § 13 Abs. 1, 2, 3 oder 6 Satz 1 oder 2 Waffen oder Munition
+12. entgegen § 13 Absatz 2 eine Waffe oder Munition nicht richtig
     aufbewahrt,
 
 
-13. entgegen § 17 Abs. 5, auch in Verbindung mit § 19 Abs. 5 oder § 20
+13. entgegen § 13 Absatz 4 Satz 1 oder 2 eine Waffe oder Munition
+    aufbewahrt,
+
+
+14. entgegen § 17 Abs. 5, auch in Verbindung mit § 19 Abs. 5 oder § 20
     Abs. 3 Satz 1, oder § 24 Abs. 3 das Buch, ein Karteiblatt oder das
     Verzeichnis nicht oder nicht rechtzeitig vorlegt,
 
 
-14. entgegen § 17 Abs. 6 Satz 1, auch in Verbindung mit § 19 Abs. 5 oder §
+15. entgegen § 17 Abs. 6 Satz 1, auch in Verbindung mit § 19 Abs. 5 oder §
     20 Abs. 3 Satz 1, das Buch oder ein Karteiblatt nicht oder nicht
     mindestens zehn Jahre aufbewahrt,
 
 
-15. entgegen § 17 Abs. 6 Satz 2, auch in Verbindung mit § 19 Abs. 5 oder §
+16. entgegen § 17 Abs. 6 Satz 2, auch in Verbindung mit § 19 Abs. 5 oder §
     20 Abs. 3 Satz 1, das Buch oder ein Karteiblatt nicht oder nicht
     rechtzeitig übergibt,
 
 
-16. entgegen § 17 Abs. 6 Satz 3, auch in Verbindung mit § 19 Abs. 5 oder §
+17. entgegen § 17 Abs. 6 Satz 3, auch in Verbindung mit § 19 Abs. 5 oder §
     20 Abs. 3 Satz 1, oder § 24 Abs. 4 Satz 2 das Buch, ein Karteiblatt
     oder das Verzeichnis nicht oder nicht rechtzeitig übergibt oder nicht
     oder nicht rechtzeitig aushändigt,
 
 
-17. entgegen § 22 Abs. 2 Satz 2 den Lehrgangsplan oder das Übungsprogramm
+18. entgegen § 22 Abs. 2 Satz 2 den Lehrgangsplan oder das Übungsprogramm
     nicht oder nicht rechtzeitig vorlegt,
 
 
-18. entgegen § 22 Abs. 2 Satz 4 die Durchführung einer Veranstaltung
+19. entgegen § 22 Abs. 2 Satz 4 die Durchführung einer Veranstaltung
     zulässt,
 
 
-19. entgegen § 23 Abs. 1 Satz 2 sich vom Vorliegen der dort genannten
+20. entgegen § 23 Abs. 1 Satz 2 sich vom Vorliegen der dort genannten
     Erfordernisse nicht oder nicht rechtzeitig überzeugt,
 
 
-20. entgegen § 24 Abs. 1 ein Verzeichnis nicht, nicht richtig, nicht
+21. entgegen § 24 Abs. 1 ein Verzeichnis nicht, nicht richtig, nicht
     vollständig oder nicht in der vorgeschriebenen Weise führt,
 
 
-21. entgegen § 24 Abs. 4 Satz 1 das Verzeichnis nicht oder nicht
+22. entgegen § 24 Abs. 4 Satz 1 das Verzeichnis nicht oder nicht
     mindestens fünf Jahre aufbewahrt oder
 
 
-22. entgegen § 25 Abs. 2 Satz 1 die Durchführung eines Lehrgangs oder
+23. entgegen § 25 Abs. 2 Satz 1 die Durchführung eines Lehrgangs oder
     einer Schießübung nicht oder nicht rechtzeitig einstellt.
 
 
@@ -2159,8 +2289,9 @@ Diese Verordnung tritt am 1. Dezember 2003 in Kraft.
 
 Der Bundesrat hat zugestimmt.
 
+(zu § 15 Abs. 2 Nr. 2)
 
-### Anlage (zu § 15 Abs. 2 Nr. 2) Waffen- und Munitionsarten
+### Anlage Waffen- und Munitionsarten
 
 ( Fundstelle: BGBl. I 2008, 438 - 439 )
 

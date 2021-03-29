@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehr
   Stuttgart
 jurabk: FluLärmStuttgV
 layout: default
-origslug: flul_rmstuttgv
+origslug: flulaermstuttgv
 slug: flulaermstuttgv
 
 ---

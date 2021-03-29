@@ -14,10 +14,10 @@ Ausfertigungsdatum
 :   1976-03-16
 
 Fundstelle
-:   BGBl I: 1976, 581 (2088)
+:   BGBl I: 1976, 581 (2088) (1977 I 436)
 
 Zuletzt geändert durch
-:   Art. 4 G v. 5.12.2012 I 2425
+:   Art. 10 Abs. 7 G v. 30.10.2017 I 3618
 
 
 ## Eingangsformel
@@ -91,8 +91,9 @@ sind.
 (3) Nach der Aufnahme wird der Gefangene alsbald ärztlich untersucht
 und dem Leiter der Anstalt oder der Aufnahmeabteilung vorgestellt.
 
+Behandlungsuntersuchung.
 
-#### § 6 Behandlungsuntersuchung. Beteiligung des Gefangenen
+#### § 6 Beteiligung des Gefangenen
 
 (1) Nach dem Aufnahmeverfahren wird damit begonnen, die Persönlichkeit
 und die Lebensverhältnisse des Gefangenen zu erforschen. Hiervon kann
@@ -934,10 +935,10 @@ festgesetzt.
 
 #### § 48 Rechtsverordnung
 
-Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie mit Zustimmung
-des Bundesrates zur Durchführung der §§ 43 bis 45 Rechtsverordnungen
-über die Vergütungsstufen zu erlassen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie mit Zustimmung des Bundesrates zur Durchführung der §§ 43
+bis 45 Rechtsverordnungen über die Vergütungsstufen zu erlassen.
 
 
 #### § 49 Unterhaltsbeitrag
@@ -976,13 +977,13 @@ Gemeinschaft nicht zu gefährden.
 (2) Der Haftkostenbeitrag wird in Höhe des Betrages erhoben, der nach
 § 17 Abs. 1 Nr. 4 des Vierten Buches Sozialgesetzbuch durchschnittlich
 zur Bewertung der Sachbezüge festgesetzt ist. Das Bundesministerium
-der Justiz stellt den Durchschnittsbetrag für jedes Kalenderjahr nach
-den am 1. Oktober des vorhergehenden Jahres geltenden Bewertungen der
-Sachbezüge, jeweils getrennt für das in Artikel 3 des
-Einigungsvertrages genannte Gebiet und für das Gebiet, in dem das
-Strafvollzugsgesetz schon vor dem Wirksamwerden des Beitritts gegolten
-hat, fest und macht ihn im Bundesanzeiger bekannt. Bei
-Selbstverpflegung entfallen die für die Verpflegung vorgesehenen
+der Justiz und für Verbraucherschutz stellt den Durchschnittsbetrag
+für jedes Kalenderjahr nach den am 1. Oktober des vorhergehenden
+Jahres geltenden Bewertungen der Sachbezüge, jeweils getrennt für das
+in Artikel 3 des Einigungsvertrages genannte Gebiet und für das
+Gebiet, in dem das Strafvollzugsgesetz schon vor dem Wirksamwerden des
+Beitritts gegolten hat, fest und macht ihn im Bundesanzeiger bekannt.
+Bei Selbstverpflegung entfallen die für die Verpflegung vorgesehenen
 Beträge. Für den Wert der Unterkunft ist die festgesetzte
 Belegungsfähigkeit maßgebend. Der Haftkostenbeitrag darf auch von dem
 unpfändbaren Teil der Bezüge, nicht aber zu Lasten des Hausgeldes und
@@ -1950,8 +1951,9 @@ angeordnet werden, wenn die Verfehlung mit den zu beschränkenden oder
 zu entziehenden Befugnissen im Zusammenhang steht. Dies gilt nicht bei
 einer Verbindung mit Arrest.
 
+Vollzug der Disziplinarmaßnahmen.
 
-#### § 104 Vollzug der Disziplinarmaßnahmen. Aussetzung zur Bewährung
+#### § 104 Aussetzung zur Bewährung
 
 (1) Disziplinarmaßnahmen werden in der Regel sofort vollstreckt.
 
@@ -2038,24 +2040,63 @@ selbst betreffen, an ihn wenden kann.
 #### § 109 Antrag auf gerichtliche Entscheidung
 
 (1) Gegen eine Maßnahme zur Regelung einzelner Angelegenheiten auf dem
-Gebiet des Strafvollzuges kann gerichtliche Entscheidung beantragt
-werden. Mit dem Antrag kann auch die Verpflichtung zum Erlaß einer
-abgelehnten oder unterlassenen Maßnahme begehrt werden.
+Gebiet des Strafvollzuges oder des Vollzuges freiheitsentziehender
+Maßregeln der Besserung und Sicherung kann gerichtliche Entscheidung
+beantragt werden. Mit dem Antrag kann auch die Verpflichtung zum Erlaß
+einer abgelehnten oder unterlassenen Maßnahme begehrt werden.
 
 (2) Der Antrag auf gerichtliche Entscheidung ist nur zulässig, wenn
 der Antragsteller geltend macht, durch die Maßnahme oder ihre
 Ablehnung oder Unterlassung in seinen Rechten verletzt zu sein.
 
-(3) Das Landesrecht kann vorsehen, daß der Antrag erst nach
-vorausgegangenem Verwaltungsvorverfahren gestellt werden kann.
+(3) Dient die vom Antragsteller begehrte oder angefochtene Maßnahme
+der Umsetzung des § 66c Absatz 1 des Strafgesetzbuches im Vollzug der
+Sicherungsverwahrung oder der ihr vorausgehenden Freiheitsstrafe, so
+ist dem Antragsteller für ein gerichtliches Verfahren von Amts wegen
+ein Rechtsanwalt beizuordnen, es sei denn, dass wegen der Einfachheit
+der Sach- und Rechtslage die Mitwirkung eines Rechtsanwalts nicht
+geboten erscheint oder es ersichtlich ist, dass der Antragsteller
+seine Rechte selbst ausreichend wahrnehmen kann. Über die Bestellung
+und einen Widerruf entscheidet der Vorsitzende des nach § 110
+zuständigen Gerichts.
 
 
 #### § 110 Zuständigkeit
 
 Über den Antrag entscheidet die Strafvollstreckungskammer, in deren
-Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat. Durch die
-Entscheidung in einem Verwaltungsvorverfahren nach § 109 Abs. 3 ändert
-sich die Zuständigkeit der Strafvollstreckungskammer nicht.
+Bezirk die beteiligte Vollzugsbehörde ihren Sitz hat.
+
+
+#### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
+
+(1) Die Gerichtsakten können elektronisch geführt werden. Die
+Landesregierungen bestimmen durch Rechtsverordnung den Zeitpunkt, von
+dem an die Akten elektronisch geführt werden. Sie können die
+Einführung der elektronischen Aktenführung dabei auf einzelne Gerichte
+oder auf allgemein bestimmte Verfahren beschränken und bestimmen, dass
+Akten, die in Papierform angelegt wurden, auch nach Einführung der
+elektronischen Aktenführung in Papierform weitergeführt werden; wird
+von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
+durch Rechtsverordnung auf die zuständigen Landesministerien
+übertragen werden.
+
+(2) Die Landesregierungen bestimmen durch Rechtsverordnung die für die
+elektronische Aktenführung geltenden organisatorischen und dem Stand
+der Technik entsprechenden technischen Rahmenbedingungen
+einschließlich der einzuhaltenden Anforderungen des Datenschutzes, der
+Datensicherheit und der Barrierefreiheit. Sie können die Ermächtigung
+durch Rechtsverordnung auf die zuständigen Landesministerien
+übertragen.
+
+(3) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
+des Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten sowie die für die Einsicht in elektronische
+Akten geltenden Standards. Sie kann die Ermächtigung durch
+Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständigen
+Bundesministerien übertragen.
 
 
 #### § 111 Beteiligte
@@ -2080,10 +2121,8 @@ Aufsichtsbehörde.
 
 (1) Der Antrag muß binnen zwei Wochen nach Zustellung oder
 schriftlicher Bekanntgabe der Maßnahme oder ihrer Ablehnung
-schriftlich oder zur Niederschrift der Geschäftsstelle des Gerichts
-gestellt werden. Soweit ein Verwaltungsvorverfahren (§ 109 Abs. 3)
-durchzuführen ist, beginnt die Frist mit der Zustellung oder
-schriftlichen Bekanntgabe des Widerspruchsbescheides.
+schriftlich oder zu Protokoll der Geschäftsstelle des Gerichts
+gestellt werden.
 
 (2) War der Antragsteller ohne Verschulden verhindert, die Frist
 einzuhalten, so ist ihm auf Antrag Wiedereinsetzung in den vorigen
@@ -2144,20 +2183,25 @@ Stellung des Antrags auf gerichtliche Entscheidung zulässig.
 
 (1) Das Gericht entscheidet ohne mündliche Verhandlung durch Beschluß.
 Der Beschluss stellt den Sach- und Streitstand seinem wesentlichen
-Inhalt nach gedrängt zusammen. Wegen der Einzelheiten soll auf bei den
-Gerichtsakten befindliche Schriftstücke, die nach Herkunft und Datum
-genau zu bezeichnen sind, verwiesen werden, soweit sich aus ihnen der
-Sach- und Streitstand ausreichend ergibt. Das Gericht kann von einer
+Inhalt nach gedrängt zusammen. Wegen der Einzelheiten kann auf in der
+Gerichtsakte befindliche Dokumente, die nach Herkunft und Datum genau
+zu bezeichnen sind, verwiesen werden, soweit sich aus ihnen der Sach-
+und Streitstand ausreichend ergibt. Das Gericht kann von einer
 Darstellung der Entscheidungsgründe absehen, soweit es der Begründung
 der angefochtenen Entscheidung folgt und dies in seiner Entscheidung
 feststellt.
 
+(1a) Das Gericht kann anordnen, dass eine Anhörung unter Verzicht auf
+die persönliche Anwesenheit des Gefangenen zeitgleich in Bild und Ton
+in die Vollzugsanstalt und das Sitzungszimmer übertragen wird. Eine
+Aufzeichnung findet nicht statt. Die Entscheidung nach Satz 1 ist
+nicht anfechtbar.
+
 (2) Soweit die Maßnahme rechtswidrig und der Antragsteller dadurch in
-seinen Rechten verletzt ist, hebt das Gericht die Maßnahme und, soweit
-ein Verwaltungsvorverfahren vorhergegangen ist, den
-Widerspruchsbescheid auf. Ist die Maßnahme schon vollzogen, kann das
-Gericht auch aussprechen, daß und wie die Vollzugsbehörde die
-Vollziehung rückgängig zu machen hat, soweit die Sache spruchreif ist.
+seinen Rechten verletzt ist, hebt das Gericht die Maßnahme auf. Ist
+die Maßnahme schon vollzogen, kann das Gericht auch aussprechen, daß
+und wie die Vollzugsbehörde die Vollziehung rückgängig zu machen hat,
+soweit die Sache spruchreif ist.
 
 (3) Hat sich die Maßnahme vorher durch Zurücknahme oder anders
 erledigt, spricht das Gericht auf Antrag aus, daß die Maßnahme
@@ -2220,7 +2264,7 @@ einer anderen Rechtsnorm angefochten wird. Ersterenfalls müssen die
 den Mangel enthaltenden Tatsachen angegeben werden.
 
 (3) Der Antragsteller als Beschwerdeführer kann dies nur in einer von
-einem Rechtsanwalt unterzeichneten Schrift oder zur Niederschrift der
+einem Rechtsanwalt unterzeichneten Schrift oder zu Protokoll der
 Geschäftsstelle tun.
 
 
@@ -2247,10 +2291,76 @@ Strafvollstreckungskammer zurückzuverweisen.
 (5) Die Entscheidung des Strafsenats ist endgültig.
 
 
+#### § 119a Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung
+
+(1) Ist die Unterbringung in der Sicherungsverwahrung angeordnet oder
+vorbehalten, stellt das Gericht während des Vollzuges der
+Freiheitsstrafe nach Ablauf der in Absatz 3 genannten Fristen von Amts
+wegen fest,
+
+1.  ob die Vollzugsbehörde dem Gefangenen im zurückliegenden Zeitraum eine
+    Betreuung angeboten hat, die § 66c Absatz 2 in Verbindung mit Absatz 1
+    Nummer 1 des Strafgesetzbuches entspricht;
+
+
+2.  soweit die Betreuung nicht den in Nummer 1 genannten Anforderungen
+    entsprochen hat, welche bestimmten Maßnahmen die Vollzugsbehörde dem
+    Gefangenen bei sich nicht wesentlich ändernder Sachlage künftig
+    anzubieten hat, um den gesetzlichen Anforderungen an die Betreuung zu
+    genügen.
+
+
+
+
+(2) Die Vollzugsbehörde kann jederzeit eine Entscheidung nach Absatz 1
+beantragen, sofern hieran ein berechtigtes Interesse besteht. Nach der
+erstmaligen Aufstellung oder einer wesentlichen Änderung des
+Vollzugsplans kann die Vollzugsbehörde auch beantragen, festzustellen,
+ob die im Vollzugsplan vorgesehenen Maßnahmen im Falle ihres Angebots
+bei sich nicht wesentlich ändernder Sachlage eine dem § 66c Absatz 2
+in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches
+entsprechende Betreuung darstellen würden; in diesem Fall hat das
+Gericht die Feststellungen nach Absatz 1 auch zu treffen, wenn die
+Frist gemäß Absatz 3 noch nicht abgelaufen ist.
+
+(3) Entscheidungen von Amts wegen sind alle zwei Jahre zu treffen. Das
+Gericht kann bei einer Entscheidung nach Absatz 1, auch in Verbindung
+mit Absatz 2 Satz 2, im Hinblick auf die Gesamtdauer der noch zu
+vollziehenden Freiheitsstrafe eine längere Frist festsetzen, die fünf
+Jahre nicht überschreiten darf. Die Frist für die erste Entscheidung
+von Amts wegen beginnt mit dem Vollzug der Freiheitsstrafe zu laufen,
+die Frist für jede weitere mit Bekanntgabe einer erstinstanzlichen
+Entscheidung nach Absatz 1.
+
+(4) Die Strafvollstreckungskammer ist bei Entscheidungen nach den
+Absätzen 1 und 2 Satz 2 mit drei Richtern unter Einschluss des
+Vorsitzenden besetzt.
+
+(5) Gegen die gerichtliche Entscheidung ist die Beschwerde zulässig.
+
+(6) Für das gerichtliche Verfahren ist dem Gefangenen von Amts wegen
+ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der
+Gefangene, die Vollzugsbehörde und die Vollstreckungsbehörde
+anzuhören. Im Übrigen gelten § 109 Absatz 3 Satz 2, die §§ 110, 111,
+115 Absatz 1 Satz 1 und 2 sowie die §§ 117, 118 Absatz 1 Satz 1, § 119
+Absatz 1 und 5 entsprechend.
+
+(7) Alle Gerichte sind bei nachfolgenden Entscheidungen an die
+rechtskräftigen Feststellungen nach den Absätzen 1 und 2 Satz 2
+gebunden.
+
+
 #### § 120 Entsprechende Anwendung anderer Vorschriften
 
-(1) Soweit sich aus diesem Gesetz nichts anderes ergibt, sind die
-Vorschriften der Strafprozeßordnung entsprechend anzuwenden.
+(1) Kommt die Behörde in den Fällen des § 114 Absatz 2 Satz 2 sowie
+des § 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen
+Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt
+§ 172 der Verwaltungsgerichtsordnung entsprechend. Im Übrigen sind die
+Vorschriften der Strafprozessordnung und die auf der Grundlage des §
+32a Absatz 2 Satz 2 und Absatz 4 Nummer 4, des § 32b Absatz 5 und des
+§ 32f Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen
+entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes
+ergibt.
 
 (2) Auf die Bewilligung der Prozeßkostenhilfe sind die Vorschriften
 der Zivilprozeßordnung entsprechend anzuwenden.
@@ -2269,7 +2379,10 @@ in anderer Weise als durch Zurücknahme des Antrags erledigt, so
 entscheidet das Gericht über die Kosten des Verfahrens und die
 notwendigen Auslagen nach billigem Ermessen.
 
-(3) Absatz 2 Satz 2 gilt nicht im Falle des § 115 Abs. 3.
+(3) Bei erstinstanzlichen Entscheidungen des Gerichts nach § 119a
+fallen die Kosten des Verfahrens und die notwendigen Auslagen der
+Staatskasse zur Last. Absatz 2 Satz 2 gilt nicht im Falle des § 115
+Abs. 3.
 
 (4) Im übrigen gelten die §§ 464 bis 473 der Strafprozeßordnung
 entsprechend.
@@ -2363,8 +2476,8 @@ einzugliedern.
 #### § 130 Anwendung anderer Vorschriften
 
 Für die Sicherungsverwahrung gelten die Vorschriften über den Vollzug
-der Freiheitsstrafe (§§ 3 bis 126, 179 bis 187) entsprechend, soweit
-im folgenden nichts anderes bestimmt ist.
+der Freiheitsstrafe (§§ 3 bis 119, 120 bis 126 sowie 179 bis 187)
+entsprechend, soweit im folgenden nichts anderes bestimmt ist.
 
 
 #### § 131 Ausstattung
@@ -2527,10 +2640,10 @@ entsprechend auszugestalten. Sie müssen hinreichend Luftinhalt haben
 und für eine gesunde Lebensführung ausreichend mit Heizung und
 Lüftung, Boden- und Fensterfläche ausgestattet sein.
 
-(2) Das Bundesministerium der Justiz wird ermächtigt, mit Zustimmung
-des Bundesrates durch Rechtsverordnung Näheres über den Luftinhalt,
-die Lüftung, die Boden- und Fensterfläche sowie die Heizung und
-Einrichtung der Räume zu bestimmen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung
+Näheres über den Luftinhalt, die Lüftung, die Boden- und Fensterfläche
+sowie die Heizung und Einrichtung der Räume zu bestimmen.
 
 
 #### § 145 Festsetzung der Belegungsfähigkeit
@@ -3196,28 +3309,28 @@ dürfen innerhalb der Anstalt allgemein kenntlich gemacht werden,
 soweit dies für ein geordnetes Zusammenleben in der Anstalt
 erforderlich ist; § 180 Abs. 8 bis 10 bleibt unberührt.
 
-(2) Personenbezogene Daten, die den in § 203 Abs. 1 Nr. 1, 2 und 5 des
-Strafgesetzbuchs genannten Personen von einem Gefangenen als Geheimnis
-anvertraut oder über einen Gefangenen sonst bekanntgeworden sind,
-unterliegen auch gegenüber der Vollzugsbehörde der Schweigepflicht.
-Die in § 203 Abs. 1 Nr. 1, 2 und 5 des Strafgesetzbuchs genannten
-Personen haben sich gegenüber dem Anstaltsleiter zu offenbaren, soweit
-dies für die Aufgabenerfüllung der Vollzugsbehörde oder zur Abwehr von
+(2) Personenbezogene Daten, die den in § 203 Absatz 1 Nummer 1, 2 und
+6 des Strafgesetzbuchs genannten Personen von einem Gefangenen als
+Geheimnis anvertraut oder über einen Gefangenen sonst bekanntgeworden
+sind, unterliegen auch gegenüber der Vollzugsbehörde der
+Schweigepflicht. Die in § 203 Absatz 1 Nummer 1, 2 und 6 des
+Strafgesetzbuchs genannten Personen haben sich gegenüber dem
+Anstaltsleiter zu offenbaren, soweit dies für die Aufgabenerfüllung
+der Vollzugsbehörde oder zur Abwehr von erheblichen Gefahren für Leib
+oder Leben des Gefangenen oder Dritter erforderlich ist. Der Arzt ist
+zur Offenbarung ihm im Rahmen der allgemeinen Gesundheitsfürsorge
+bekanntgewordener Geheimnisse befugt, soweit dies für die
+Aufgabenerfüllung der Vollzugsbehörde unerläßlich oder zur Abwehr von
 erheblichen Gefahren für Leib oder Leben des Gefangenen oder Dritter
-erforderlich ist. Der Arzt ist zur Offenbarung ihm im Rahmen der
-allgemeinen Gesundheitsfürsorge bekanntgewordener Geheimnisse befugt,
-soweit dies für die Aufgabenerfüllung der Vollzugsbehörde unerläßlich
-oder zur Abwehr von erheblichen Gefahren für Leib oder Leben des
-Gefangenen oder Dritter erforderlich ist. Sonstige
-Offenbarungsbefugnisse bleiben unberührt. Der Gefangene ist vor der
-Erhebung über die nach den Sätzen 2 und 3 bestehenden
-Offenbarungsbefugnisse zu unterrichten.
+erforderlich ist. Sonstige Offenbarungsbefugnisse bleiben unberührt.
+Der Gefangene ist vor der Erhebung über die nach den Sätzen 2 und 3
+bestehenden Offenbarungsbefugnisse zu unterrichten.
 
 (3) Die nach Absatz 2 offenbarten Daten dürfen nur für den Zweck, für
 den sie offenbart wurden oder für den eine Offenbarung zulässig
 gewesen wäre, und nur unter denselben Voraussetzungen verarbeitet oder
-genutzt werden, unter denen eine in § 203 Abs. 1 Nr. 1, 2 und 5 des
-Strafgesetzbuchs genannte Person selbst hierzu befugt wäre. Der
+genutzt werden, unter denen eine in § 203 Absatz 1 Nummer 1, 2 und 6
+des Strafgesetzbuchs genannte Person selbst hierzu befugt wäre. Der
 Anstaltsleiter kann unter diesen Voraussetzungen die unmittelbare
 Offenbarung gegenüber bestimmten Anstaltsbediensteten allgemein
 zulassen.

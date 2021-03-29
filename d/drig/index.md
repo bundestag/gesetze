@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1961, 1665
 
 Neugefasst durch
-:   Bek. v. 19. 4.1972 I 713,
+:   Bek. v. 19.4.1972 I 713;
 
 Zuletzt geändert durch
-:   Art. 17 G v. 6.12.2011 I 2515
+:   Art. 9 G v. 8.6.2017 I 1570
 
 
 ## Erster Teil - Richteramt in Bund und Ländern
@@ -198,9 +198,10 @@ der hierfür erforderlichen Schlüsselqualifikationen nach § 5a Abs. 3
 Satz 1; unbeschadet von § 5a Abs. 2 Satz 2 können die Prüfungen auch
 Fremdsprachenkompetenz berücksichtigen. Die Einheitlichkeit der
 Prüfungsanforderungen und der Leistungsbewertung ist zu gewährleisten.
-Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung
-mit Zustimmung des Bundesrates eine Noten- und Punkteskala für die
-Einzel- und Gesamtnoten aller Prüfungen festzulegen.
+Der Bundesminister der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates eine
+Noten- und Punkteskala für die Einzel- und Gesamtnoten aller Prüfungen
+festzulegen.
 
 (2) Der Stoff der universitären Schwerpunktbereichsprüfung und der
 staatlichen Pflichtfachprüfung ist so zu bemessen, dass das Studium
@@ -373,7 +374,7 @@ Staatsanwaltschaft verwendet werden.
 Auftrags ernannt werden, wenn er später als Richter auf Lebenszeit
 verwendet werden soll.
 
-(2) ...
+(2) (weggefallen)
 
 
 #### § 15 Wirkungen auf das Beamtenverhältnis
@@ -452,8 +453,8 @@ der Ernennung
 1.  nicht Deutscher im Sinne des Artikels 116 des Grundgesetzes war oder
 
 
+2.  (weggefallen)
 
-2\.
 
 3.  nicht die Fähigkeit zur Bekleidung öffentlicher Ämter hatte.
 
@@ -974,7 +975,7 @@ Berufsrichter unabhängig. Er hat das Beratungsgeheimnis zu wahren (§
 43).
 
 (1a) Niemand darf in der Übernahme oder Ausübung des Amtes als
-ehrenamtlicher Richter beschränkt oder wegen der Übernahme der
+ehrenamtlicher Richter beschränkt oder wegen der Übernahme oder
 Ausübung des Amtes benachteiligt werden. Ehrenamtliche Richter sind
 für die Zeit ihrer Amtstätigkeit von ihrem Arbeitgeber von der
 Arbeitsleistung freizustellen. Die Kündigung eines
@@ -1060,15 +1061,17 @@ Regelung die Vorschriften für Bundesbeamte entsprechend.
 
 In Angelegenheiten der Richter im Bundesdienst wirkt im
 Bundespersonalausschuß als weiteres ständiges ordentliches Mitglied
-der Leiter der Personalabteilung des Bundesministeriums der Justiz
-mit, dessen Stellvertreter ein anderer Beamter des Bundesministeriums
-der Justiz ist. Nichtständige ordentliche Mitglieder sind vier
-Richter; sie und ihre Stellvertreter müssen Richter auf Lebenszeit im
-Bundesdienst sein. Der Beamte des Bundesministeriums der Justiz und
-die Richter werden vom Bundesminister der Justiz im Einvernehmen mit
-den beteiligten Bundesministern vorgeschlagen, davon drei Richter und
-ihre Stellvertreter auf Grund einer Benennung durch die
-Spitzenorganisationen der Berufsverbände der Richter.
+der Leiter der Personalabteilung des Bundesministeriums der Justiz und
+für Verbraucherschutz mit, dessen Stellvertreter ein anderer Beamter
+des Bundesministeriums der Justiz und für Verbraucherschutz ist.
+Nichtständige ordentliche Mitglieder sind vier Richter; sie und ihre
+Stellvertreter müssen Richter auf Lebenszeit im Bundesdienst sein. Der
+Beamte des Bundesministeriums der Justiz und für Verbraucherschutz und
+die Richter werden vom Bundesminister der Justiz und für
+Verbraucherschutz im Einvernehmen mit den beteiligten Bundesministern
+vorgeschlagen, davon drei Richter und ihre Stellvertreter auf Grund
+einer Benennung durch die Spitzenorganisationen der Berufsverbände der
+Richter.
 
 
 #### § 48 Eintritt in den Ruhestand
@@ -1442,7 +1445,7 @@ Altersgrenze wie folgt angehoben:
 (5) Richter auf Lebenszeit sind auf ihren Antrag in den Ruhestand zu
 versetzen, wenn sie das 63. Lebensjahr vollendet haben.
 
-(6) § 147 Abs. 3 des Bundesbeamtengesetzes gilt entsprechend.
+(6) § 147 Absatz 2 des Bundesbeamtengesetzes gilt entsprechend.
 
 
 #### § 48a Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
@@ -2250,15 +2253,15 @@ Das Landesrecht bestimmt, wieweit dieses Gesetz für die Mitglieder des
 Verfassungsgerichts eines Landes gilt.
 
 
+### (XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)
+
+
+
 ## Vierter Teil - Übergangs- und Schlußvorschriften
 
 
 
 ### Erster Abschnitt - Änderung von Bundesrecht
-
-
-
-#### (XXXX) §§ 85 bis 103 (Änderungs- und Aufhebungsvorschriften)
 
 
 
@@ -2489,17 +2492,18 @@ staatsanwaltschaftliche Tätigkeit gleich.
 (4) In gerichtlichen Disziplinarverfahren gegen Staatsanwälte
 entscheiden die Dienstgerichte für Richter. Die nichtständigen
 Beisitzer müssen auf Lebenszeit berufene Staatsanwälte sein. Der
-Bundesminister der Justiz bestellt die nichtständigen Beisitzer beim
-Dienstgericht des Bundes. Die Bestellung der nichtständigen Beisitzer
-bei den Dienstgerichten der Länder regelt die Landesgesetzgebung.
+Bundesminister der Justiz und für Verbraucherschutz bestellt die
+nichtständigen Beisitzer beim Dienstgericht des Bundes. Die Bestellung
+der nichtständigen Beisitzer bei den Dienstgerichten der Länder regelt
+die Landesgesetzgebung.
 
 (5) Die Absätze 1 bis 4 und § 110 Satz 1 gelten entsprechend für den
 Vertreter des Bundesinteresses beim Bundesverwaltungsgericht, den
 Bundeswehrdisziplinaranwalt, die Staatsanwälte und die Landesanwälte
 bei den Gerichten der Verwaltungsgerichtsbarkeit der Länder; der
-Bundesminister der Justiz bestellt die nichtständigen Beisitzer beim
-Dienstgericht des Bundes im Einvernehmen mit dem zuständigen
-Bundesminister.
+Bundesminister der Justiz und für Verbraucherschutz bestellt die
+nichtständigen Beisitzer beim Dienstgericht des Bundes im Einvernehmen
+mit dem zuständigen Bundesminister.
 
 
 #### § 123 Besetzung der Berufsgerichte für Rechtsanwälte
@@ -2550,8 +2554,15 @@ Bezeichnung "Staatsanwalt".
 Dieses Gesetz tritt am 1. Juli 1962 in Kraft. Die §§ 114 und 116
 treten jedoch bereits am Tage nach der Verkündung in Kraft.
 
+Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III
+und IV
+(BGBl. II 1990, 889, 929, 939)
+Abschnitt III
+- Maßgaben für die beigetretenen fünf Länder (Art. 1 Abs. 1 EinigVtr)
+-
+Abschnitt IV
 
-#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 929, 939) Abschnitt III - Maßgaben für die beigetretenen fünf Länder (Art. 1 Abs. 1 EinigVtr) - Abschnitt IV - Maßgaben für das Land Berlin -
+#### Anhang EV - Maßgaben für das Land Berlin -
 
 Abschnitt III
 Bundesrecht tritt ... vorbehaltlich der Sonderregelung für das Land
@@ -2565,18 +2576,7 @@ Gebiet mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  bis d) (nicht mehr anzuwenden)
-
-
-    e)  Richter, die nach den Vorschriften des Richtergesetzes der Deutschen
-        Demokratischen Republik in Verbindung mit der Ordnung über die Bildung
-        und Arbeitsweise der Richterwahlausschüsse in ein Richterverhältnis
-        auf Probe berufen worden sind, sind spätestens fünf Jahre nach ihrer
-        Ernennung zu Richtern auf Lebenszeit zu ernennen. § 12 Abs. 2 Satz 2
-        findet auf sie Anwendung.
-
-
-    f)  bis x) (nicht mehr anzuwenden)
+    a)  bis x) (nicht mehr anzuwenden)
 
 
     y)  Für das in Artikel 1 Abs. 1 des Vertrages genannte Gebiet gelten

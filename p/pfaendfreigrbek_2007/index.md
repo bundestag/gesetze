@@ -2,7 +2,7 @@
 Title: Bekanntmachung zu § 850c der Zivilprozessordnung
 jurabk: PfändfreiGrBek 2007
 layout: default
-origslug: pf_ndfreigrbek_2007
+origslug: pfaendfreigrbek_2007
 slug: pfaendfreigrbek_2007
 
 ---

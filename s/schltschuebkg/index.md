@@ -3,7 +3,7 @@ Title: Gesetz zu dem Europäischen Übereinkommen vom 10. Mai 1979 über den Sch
   Schlachttieren
 jurabk: SchlTSchÜbkG
 layout: default
-origslug: schltsch_bkg
+origslug: schltschuebkg
 slug: schltschuebkg
 
 ---

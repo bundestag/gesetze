@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 506 (941)
 
+Geändert durch
+:   Art. 7 G v. 4.11.2016 I 2473
+
 
 ## § 1 Anwendungsbereich
 
@@ -274,10 +277,11 @@ Erfüllung der Verpflichtungen nach diesem Gesetz erforderlich sind. §
 55 der Strafprozessordnung gilt entsprechend.
 
 (2) Post- und Telekommunikationsunternehmen haben auf Anordnung des
-Bundesministeriums für Wirtschaft und Technologie in den Fällen des §
-1 Absatz 2 sowie im Rahmen von Vorsorgeplanungen und Übungen in
-Arbeitsstäben im Inland mitzuwirken sowie das hierfür erforderliche
-Fachpersonal abzustellen.
+Bundesministeriums für Wirtschaft und Energie oder des
+Bundesministeriums für Verkehr und digitale Infrastruktur in den
+Fällen des § 1 Absatz 2 sowie im Rahmen von Vorsorgeplanungen und
+Übungen in Arbeitsstäben im Inland mitzuwirken sowie das hierfür
+erforderliche Fachpersonal abzustellen.
 
 
 ## § 9 Entgelte; Entschädigung

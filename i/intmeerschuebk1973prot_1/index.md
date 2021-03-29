@@ -4,7 +4,7 @@ Title: Protokoll I (zu dem Internationalen Übereinkommen von 1973 zur Verhütun
   Verbindung mit Schadstoffen (nach Artikel 8 des Übereinkommens)
 jurabk: IntMeerSchÜbk1973Prot 1
 layout: default
-origslug: intmeersch_bk1973prot_1
+origslug: intmeerschuebk1973prot_1
 slug: intmeerschuebk1973prot_1
 
 ---

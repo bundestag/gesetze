@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2006, 2782, 2791
 
 Zuletzt geändert durch
-:   Art. 4 G v. 22.12.2009 I 3950
+:   Art. 6 G v. 2.11.2015 I 1834
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -61,8 +61,8 @@ Diese Teile gelten nicht für die Ausgliederung im Sinne des § 123 Abs.
     den Rechtsvorschriften eines Mitgliedstaats der Europäischen Union
     oder eines Staates, auf den das Abkommen über den Europäischen
     Wirtschaftsraum Anwendung findet, gegründete Gesellschaften im Sinne
-    des Artikels 48 des Vertrags zur Gründung der Europäischen
-    Gemeinschaft oder des Artikels 34 des Abkommens über den Europäischen
+    des Artikels 54 des Vertrags über die Arbeitsweise der Europäischen
+    Union oder des Artikels 34 des Abkommens über den Europäischen
     Wirtschaftsraum sind, deren Sitz und Ort der Geschäftsleitung sich
     innerhalb des Hoheitsgebiets eines dieser Staaten befinden oder
 
@@ -153,15 +153,18 @@ nicht anzuwenden.
 
 (5) Soweit dieses Gesetz nichts anderes bestimmt, ist
 
-1.  Richtlinie 90/434/EWG
+1.  Richtlinie 2009/133/EG
 
-    die Richtlinie 90/434/EWG des Rates vom 23. Juli 1990 über das
-    gemeinsame Steuersystem für Fusionen, Spaltungen, die Einbringung von
-    Unternehmensanteilen und den Austausch von Anteilen, die
-    Gesellschaften verschiedener Mitgliedstaaten betreffen (ABl. EG Nr. L
-    225 S. 1), zuletzt geändert durch die Richtlinie 2005/19/EG des Rates
-    vom 17. Februar 2005 (ABl. EU Nr. L 58 S. 19), in der zum Zeitpunkt
-    des steuerlichen Übertragungsstichtags jeweils geltenden Fassung;
+    die Richtlinie 2009/133/EG des Rates vom 19. Oktober 2009 über das
+    gemeinsame Steuersystem für Fusionen, Spaltungen, Abspaltungen, die
+    Einbringung von Unternehmensteilen und den Austausch von Anteilen, die
+    Gesellschaften verschiedener Mitgliedstaaten betreffen, sowie für die
+    Verlegung des Sitzes einer Europäischen Gesellschaft oder einer
+    Europäischen Genossenschaft von einem Mitgliedstaat in einen anderen
+    Mitgliedstaat (ABl. L 310 vom 25.11.2009, S. 34), die zuletzt durch
+    die Richtlinie 2013/13/EU (ABl. L 141 vom 28.5.2013, S. 30) geändert
+    worden ist, in der zum Zeitpunkt des steuerlichen
+    Übertragungsstichtags jeweils geltenden Fassung;
 
 
 2.  Verordnung (EG) Nr. 2157/2001
@@ -218,7 +221,20 @@ des übertragenden Rechtsträgers ist nur zulässig, wenn dem
 übertragenden Rechtsträger die Verlustnutzung auch ohne Anwendung der
 Absätze 1 und 2 möglich gewesen wäre. Satz 1 gilt für negative
 Einkünfte des übertragenden Rechtsträgers im Rückwirkungszeitraum
-entsprechend.
+entsprechend. Der Ausgleich oder die Verrechnung von positiven
+Einkünften des übertragenden Rechtsträgers im Rückwirkungszeitraum mit
+verrechenbaren Verlusten, verbleibenden Verlustvorträgen, nicht
+ausgeglichenen negativen Einkünften und einem Zinsvortrag nach § 4h
+Absatz 1 Satz 5 des Einkommensteuergesetzes des übernehmenden
+Rechtsträgers ist nicht zulässig. Ist übernehmender Rechtsträger eine
+Organgesellschaft, gilt Satz 3 auch für einen Ausgleich oder eine
+Verrechnung beim Organträger entsprechend. Ist übernehmender
+Rechtsträger eine Personengesellschaft, gilt Satz 3 auch für einen
+Ausgleich oder eine Verrechnung bei den Gesellschaftern entsprechend.
+Die Sätze 3 bis 5 gelten nicht, wenn übertragender Rechtsträger und
+übernehmender Rechtsträger vor Ablauf des steuerlichen
+Übertragungsstichtags verbundene Unternehmen im Sinne des § 271 Absatz
+2 des Handelsgesetzbuches sind.
 
 
 ## Zweiter Teil - Vermögensübergang bei Verschmelzung auf eine Personengesellschaft oder auf eine natürliche Person und Formwechsel einer Kapitalgesellschaft in eine Personengesellschaft
@@ -262,7 +278,7 @@ Körperschaft zuständigen Finanzamt zu stellen.
 
 (3) Haben die Mitgliedstaaten der Europäischen Union bei Verschmelzung
 einer unbeschränkt steuerpflichtigen Körperschaft Artikel 10 der
-Richtlinie 90/434/EWG anzuwenden, ist die Körperschaftsteuer auf den
+Richtlinie 2009/133/EG anzuwenden, ist die Körperschaftsteuer auf den
 Übertragungsgewinn gemäß § 26 des Körperschaftsteuergesetzes um den
 Betrag ausländischer Steuer zu ermäßigen, der nach den
 Rechtsvorschriften eines anderen Mitgliedstaats der Europäischen Union
@@ -566,7 +582,7 @@ der übernehmenden Körperschaft gelten als mit diesem Wert angeschafft.
 
 
 2.  die Mitgliedstaaten der Europäischen Union bei einer Verschmelzung
-    Artikel 8 der Richtlinie 90/434/EWG anzuwenden haben; in diesem Fall
+    Artikel 8 der Richtlinie 2009/133/EG anzuwenden haben; in diesem Fall
     ist der Gewinn aus einer späteren Veräußerung der erworbenen Anteile
     ungeachtet der Bestimmungen eines Abkommens zur Vermeidung der
     Doppelbesteuerung in der gleichen Art und Weise zu besteuern, wie die
@@ -720,18 +736,30 @@ mit dem Wert im Sinne des Satzes 1, angesetzt werden, soweit
 3.  das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung
     des Gewinns aus der Veräußerung des eingebrachten Betriebsvermögens
     bei der übernehmenden Gesellschaft nicht ausgeschlossen oder
-    beschränkt wird.
+    beschränkt wird und
+
+
+4.  der gemeine Wert von sonstigen Gegenleistungen, die neben den neuen
+    Gesellschaftsanteilen gewährt werden, nicht mehr beträgt als
+
+    a)  25 Prozent des Buchwerts des eingebrachten Betriebsvermögens oder
+
+
+    b)  500 000 Euro, höchstens jedoch den Buchwert des eingebrachten
+        Betriebsvermögens.
+
+
+
 
 
 
 Der Antrag ist spätestens bis zur erstmaligen Abgabe der steuerlichen
 Schlussbilanz bei dem für die Besteuerung der übernehmenden
 Gesellschaft zuständigen Finanzamt zu stellen. Erhält der Einbringende
-neben den Gesellschaftsanteilen auch andere Wirtschaftsgüter, deren
-gemeiner Wert den Buchwert des eingebrachten Betriebsvermögens
-übersteigt, hat die übernehmende Gesellschaft das eingebrachte
-Betriebsvermögen mindestens mit dem gemeinen Wert der anderen
-Wirtschaftsgüter anzusetzen.
+neben den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen,
+ist das eingebrachte Betriebsvermögen abweichend von Satz 2 mindestens
+mit dem gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn
+dieser den sich nach Satz 2 ergebenden Wert übersteigt.
 
 (3) Der Wert, mit dem die übernehmende Gesellschaft das eingebrachte
 Betriebsvermögen ansetzt, gilt für den Einbringenden als
@@ -795,16 +823,16 @@ Betriebsvermögen auf die übernehmende Gesellschaft übergeht. § 2 Abs.
 (7) § 3 Abs. 3 ist entsprechend anzuwenden.
 
 (8) Ist eine gebietsfremde einbringende oder erworbene Gesellschaft im
-Sinne von Artikel 3 der Richtlinie 90/434/EWG als steuerlich
-transparent anzusehen, ist auf Grund Artikel 10a der Richtlinie
-90/434/EWG die ausländische Steuer, die nach den Rechtsvorschriften
+Sinne von Artikel 3 der Richtlinie 2009/133/EG als steuerlich
+transparent anzusehen, ist auf Grund Artikel 11 der Richtlinie
+2009/133/EG die ausländische Steuer, die nach den Rechtsvorschriften
 des anderen Mitgliedstaats der Europäischen Union erhoben worden wäre,
 wenn die einer in einem anderen Mitgliedstaat belegenen Betriebsstätte
 zuzurechnenden eingebrachten Wirtschaftsgüter zum gemeinen Wert
 veräußert worden wären, auf die auf den Einbringungsgewinn entfallende
 Körperschaftsteuer oder Einkommensteuer unter entsprechender Anwendung
-von § 26 Abs. 6 des Körperschaftsteuergesetzes und von den §§ 34c und
-50 Abs. 6 des Einkommensteuergesetzes anzurechnen.
+von § 26 des Körperschaftsteuergesetzes und von den §§ 34c und 50
+Absatz 3 des Einkommensteuergesetzes anzurechnen.
 
 (9) Ein Zinsvortrag nach § 4h Absatz 1 Satz 5 des
 Einkommensteuergesetzes und ein EBITDA-Vortrag nach § 4h Absatz 1 Satz
@@ -822,15 +850,31 @@ hat die übernehmende Gesellschaft die eingebrachten Anteile mit dem
 gemeinen Wert anzusetzen. Abweichend von Satz 1 können die
 eingebrachten Anteile auf Antrag mit dem Buchwert oder einem höheren
 Wert, höchstens jedoch mit dem gemeinen Wert, angesetzt werden, wenn
-die übernehmende Gesellschaft nach der Einbringung auf Grund ihrer
-Beteiligung einschließlich der eingebrachten Anteile nachweisbar
-unmittelbar die Mehrheit der Stimmrechte an der erworbenen
-Gesellschaft hat (qualifizierter Anteilstausch); § 20 Abs. 2 Satz 3
-gilt entsprechend. Erhält der Einbringende neben den
-Gesellschaftsanteilen auch andere Wirtschaftsgüter, deren gemeiner
-Wert den Buchwert der eingebrachten Anteile übersteigt, hat die
-übernehmende Gesellschaft die eingebrachten Anteile mindestens mit dem
-gemeinen Wert der anderen Wirtschaftsgüter anzusetzen.
+
+1.  die übernehmende Gesellschaft nach der Einbringung auf Grund ihrer
+    Beteiligung einschließlich der eingebrachten Anteile nachweisbar
+    unmittelbar die Mehrheit der Stimmrechte an der erworbenen
+    Gesellschaft hat (qualifizierter Anteilstausch) und soweit
+
+
+2.  der gemeine Wert von sonstigen Gegenleistungen, die neben den neuen
+    Anteilen gewährt werden, nicht mehr beträgt als
+
+    a)  25 Prozent des Buchwerts der eingebrachten Anteile oder
+
+
+    b)  500 000 Euro, höchstens jedoch den Buchwert der eingebrachten Anteile.
+
+
+
+
+
+
+§ 20 Absatz 2 Satz 3 gilt entsprechend. Erhält der Einbringende neben
+den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen, sind
+die eingebrachten Anteile abweichend von Satz 2 mindestens mit dem
+gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn dieser
+den sich nach Satz 2 ergebenden Wert übersteigt.
 
 (2) Der Wert, mit dem die übernehmende Gesellschaft die eingebrachten
 Anteile ansetzt, gilt für den Einbringenden als Veräußerungspreis der
@@ -855,7 +899,7 @@ Anteile, wenn
 
 
 2.  der Gewinn aus dem Anteilstausch auf Grund Artikel 8 der Richtlinie
-    90/434/EWG nicht besteuert werden darf; in diesem Fall ist der Gewinn
+    2009/133/EG nicht besteuert werden darf; in diesem Fall ist der Gewinn
     aus einer späteren Veräußerung der erhaltenen Anteile ungeachtet der
     Bestimmungen eines Abkommens zur Vermeidung der Doppelbesteuerung in
     der gleichen Art und Weise zu besteuern, wie die Veräußerung der
@@ -917,9 +961,12 @@ beschränkt, sind daneben auch die Sätze 1 bis 4 anzuwenden. Die Sätze
 
 
 2.  der Einbringende die erhaltenen Anteile entgeltlich überträgt, es sei
-    denn er weist nach, dass die Übertragung durch einen Vorgang im Sinne
-    des § 20 Abs. 1 oder § 21 Abs. 1 oder auf Grund vergleichbarer
-    ausländischer Vorgänge zu Buchwerten erfolgte,
+    denn, er weist nach, dass die Übertragung durch einen Vorgang im Sinne
+    des § 20 Absatz 1 oder § 21 Absatz 1 oder auf Grund vergleichbarer
+    ausländischer Vorgänge zu Buchwerten erfolgte und keine sonstigen
+    Gegenleistungen erbracht wurden, die die Grenze des § 20 Absatz 2 Satz
+    2 Nummer 4 oder die Grenze des § 21 Absatz 1 Satz 2 Nummer 2
+    übersteigen,
 
 
 3.  die Kapitalgesellschaft, an der die Anteile bestehen, aufgelöst und
@@ -930,23 +977,29 @@ beschränkt, sind daneben auch die Sätze 1 bis 4 anzuwenden. Die Sätze
 
 
 4.  der Einbringende die erhaltenen Anteile durch einen Vorgang im Sinne
-    des § 21 Abs. 1 oder einen Vorgang im Sinne des § 20 Abs. 1 oder auf
-    Grund vergleichbarer ausländischer Vorgänge zum Buchwert in eine
+    des § 21 Absatz 1 oder einen Vorgang im Sinne des § 20 Absatz 1 oder
+    auf Grund vergleichbarer ausländischer Vorgänge zum Buchwert in eine
     Kapitalgesellschaft oder eine Genossenschaft eingebracht hat und diese
     Anteile anschließend unmittelbar oder mittelbar veräußert oder durch
-    einen Vorgang im Sinne der Nummer 1 oder 2 unmittelbar oder mittelbar
+    einen Vorgang im Sinne der Nummern 1 oder 2 unmittelbar oder mittelbar
     übertragen werden, es sei denn, er weist nach, dass diese Anteile zu
-    Buchwerten übertragen wurden (Ketteneinbringung),
+    Buchwerten übertragen wurden und keine sonstigen Gegenleistungen
+    erbracht wurden, die die Grenze des § 20 Absatz 2 Satz 2 Nummer 4 oder
+    die Grenze des § 21 Absatz 1 Satz 2 Nummer 2 übersteigen
+    (Ketteneinbringung),
 
 
 5.  der Einbringende die erhaltenen Anteile in eine Kapitalgesellschaft
-    oder eine Genossenschaft durch einen Vorgang im Sinne des § 20 Abs. 1
-    oder einen Vorgang im Sinne des § 21 Abs. 1 oder auf Grund
+    oder eine Genossenschaft durch einen Vorgang im Sinne des § 20 Absatz
+    1 oder einen Vorgang im Sinne des § 21 Absatz 1 oder auf Grund
     vergleichbarer ausländischer Vorgänge zu Buchwerten einbringt und die
     aus dieser Einbringung erhaltenen Anteile anschließend unmittelbar
-    oder mittelbar veräußert oder durch einen Vorgang im Sinne der Nummer
-    1 oder 2 unmittelbar oder mittelbar übertragen werden, es sei denn er
-    weist nach, dass die Einbringung zu Buchwerten erfolgte, oder
+    oder mittelbar veräußert oder durch einen Vorgang im Sinne der Nummern
+    1 oder 2 unmittelbar oder mittelbar übertragen werden, es sei denn, er
+    weist nach, dass die Einbringung zu Buchwerten erfolgte und keine
+    sonstigen Gegenleistungen erbracht wurden, die die Grenze des § 20
+    Absatz 2 Satz 2 Nummer 4 oder die Grenze des § 21 Absatz 1 Satz 2
+    Nummer 2 übersteigen, oder
 
 
 6.  für den Einbringenden oder die übernehmende Gesellschaft im Sinne der
@@ -1129,10 +1182,32 @@ Gesellschafter mit dem gemeinen Wert anzusetzen; für die Bewertung von
 Pensionsrückstellungen gilt § 6a des Einkommensteuergesetzes.
 Abweichend von Satz 1 kann das übernommene Betriebsvermögen auf Antrag
 mit dem Buchwert oder einem höheren Wert, höchstens jedoch mit dem
-Wert im Sinne des Satzes 1, angesetzt werden, soweit das Recht der
-Bundesrepublik Deutschland hinsichtlich der Besteuerung des
-eingebrachten Betriebsvermögens nicht ausgeschlossen oder beschränkt
-wird. § 20 Abs. 2 Satz 3 gilt entsprechend.
+Wert im Sinne des Satzes 1, angesetzt werden, soweit
+
+1.  das Recht der Bundesrepublik Deutschland hinsichtlich der Besteuerung
+    des eingebrachten Betriebsvermögens nicht ausgeschlossen oder
+    beschränkt wird und
+
+
+2.  der gemeine Wert von sonstigen Gegenleistungen, die neben den neuen
+    Gesellschaftsanteilen gewährt werden, nicht mehr beträgt als
+
+    a)  25 Prozent des Buchwerts des eingebrachten Betriebsvermögens oder
+
+
+    b)  500 000 Euro, höchstens jedoch den Buchwert des eingebrachten
+        Betriebsvermögens.
+
+
+
+
+
+
+§ 20 Abs. 2 Satz 3 gilt entsprechend. Erhält der Einbringende neben
+den neuen Gesellschaftsanteilen auch sonstige Gegenleistungen, ist das
+eingebrachte Betriebsvermögen abweichend von Satz 2 mindestens mit dem
+gemeinen Wert der sonstigen Gegenleistungen anzusetzen, wenn dieser
+den sich nach Satz 2 ergebenden Wert übersteigt.
 
 (3) Der Wert, mit dem das eingebrachte Betriebsvermögen in der Bilanz
 der Personengesellschaft einschließlich der Ergänzungsbilanzen für
@@ -1155,13 +1230,15 @@ Gesamtrechtsnachfolge gilt auch § 20 Abs. 5 und 6 entsprechend.
 gemeinen Wert eingebrachte Anteile an einer Körperschaft,
 Personenvereinigung oder Vermögensmasse innerhalb eines Zeitraums von
 sieben Jahren nach dem Einbringungszeitpunkt durch die übernehmende
-Personengesellschaft veräußert oder durch einen Vorgang nach § 22 Abs.
-1 Satz 6 Nr. 1 bis 5 weiter übertragen werden und der Einbringende
-keine durch § 8b Abs. 2 des Körperschaftsteuergesetzes begünstigte
-Person ist, ist § 22 Abs. 2, 3 und 5 bis 7 insoweit entsprechend
-anzuwenden, als der Gewinn aus der Veräußerung der eingebrachten
-Anteile auf einen von § 8b Abs. 2 des Körperschaftsteuergesetzes
-begünstigten Mitunternehmer entfällt.
+Personengesellschaft veräußert oder durch einen Vorgang nach § 22
+Absatz 1 Satz 6 Nummer 1 bis 5 weiter übertragen werden und soweit
+beim Einbringenden der Gewinn aus der Veräußerung dieser Anteile im
+Einbringungszeitpunkt nicht nach § 8b Absatz 2 des
+Körperschaftsteuergesetzes steuerfrei gewesen wäre, ist § 22 Absatz 2,
+3 und 5 bis 7 insoweit entsprechend anzuwenden, als der Gewinn aus der
+Veräußerung der eingebrachten Anteile auf einen Mitunternehmer
+entfällt, für den insoweit § 8b Absatz 2 des
+Körperschaftsteuergesetzes Anwendung findet.
 
 (6) § 20 Abs. 9 gilt entsprechend.
 
@@ -1306,6 +1383,37 @@ einem Wirtschaftsjahr liegt, für das § 4h Absatz 1, 4 Satz 1 und
 Absatz 5 Satz 1 und 2 des Einkommensteuergesetzes in der Fassung des
 Artikels 1 des Gesetzes vom 22. Dezember 2009 (BGBl. I S. 3950)
 erstmals anzuwenden ist.
+
+(11) Für Bezüge im Sinne des § 8b Absatz 1 des
+Körperschaftsteuergesetzes aufgrund einer Umwandlung ist § 8b Absatz 4
+des Körperschaftsteuergesetzes in der Fassung des Artikels 1 des
+Gesetzes vom 21. März 2013 (BGBl. I S. 561) abweichend von § 34 Absatz
+7a Satz 2 des Körperschaftsteuergesetzes bereits erstmals vor dem 1.
+März 2013 anzuwenden, wenn die Anmeldung zur Eintragung in das für die
+Wirksamkeit des jeweiligen Vorgangs maßgebende öffentliche Register
+nach dem 28. Februar 2013 erfolgt.
+
+(12) § 2 Absatz 4 Satz 3 bis 6 in der Fassung des Artikels 9 des
+Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) ist erstmals auf
+Umwandlungen und Einbringungen anzuwenden, bei denen die Anmeldung zur
+Eintragung in das für die Wirksamkeit des jeweiligen Vorgangs
+maßgebende öffentliche Register nach dem 6. Juni 2013 erfolgt. Für
+Einbringungen, deren Wirksamkeit keine Eintragung in ein öffentliches
+Register voraussetzt, ist § 2 in der Fassung des Artikels 9 des
+Gesetzes vom 26. Juni 2013 (BGBl. I S. 1809) erstmals anzuwenden, wenn
+das wirtschaftliche Eigentum an den eingebrachten Wirtschaftsgütern
+nach dem 6. Juni 2013 übergegangen ist.
+
+(13) § 20 Absatz 8 in der am 31. Juli 2014 geltenden Fassung ist
+erstmals bei steuerlichen Übertragungsstichtagen nach dem 31. Dezember
+2013 anzuwenden.
+
+(14) § 20 Absatz 2, § 21 Absatz 1, § 22 Absatz 1 Satz 6 Nummer 2, 4
+und 5 sowie § 24 Absatz 2 in der am 6. November 2015 geltenden Fassung
+sind erstmals auf Einbringungen anzuwenden, wenn in den Fällen der
+Gesamtrechtsnachfolge der Umwandlungsbeschluss nach dem 31. Dezember
+2014 erfolgt ist oder in den anderen Fällen der Einbringungsvertrag
+nach dem 31. Dezember 2014 geschlossen worden ist.
 
 
 ### § 28 Bekanntmachungserlaubnis

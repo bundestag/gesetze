@@ -4,7 +4,7 @@ Title: Gesetz zur Regelung der Altschulden für gesellschaftliche Einrichtungen,
   Aufbau Ost
 jurabk: ARGEuaÄndG
 layout: default
-origslug: argeua_ndg
+origslug: argeuaaendg
 slug: argeuaaendg
 
 ---

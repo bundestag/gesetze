@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 21.2.2005 I 434;
 
 Zuletzt geändert durch
-:   Art. 1 V v. 2.12.2011 I 2416
+:   Art. 9 V v. 12.7.2017 I 2360
 
 
 ## - - Zu § 3a des Gesetzes
@@ -153,8 +153,8 @@ anzusehen.
 #### § 8 Grundsätze für den Ausfuhrnachweis bei Ausfuhrlieferungen
 
 (1) Bei Ausfuhrlieferungen (§ 6 des Gesetzes) muss der Unternehmer im
-Geltungsbereich dieser Verordnung durch Belege nachweisen, dass er
-oder der Abnehmer den Gegenstand der Lieferung in das Drittlandsgebiet
+Geltungsbereich des Gesetzes durch Belege nachweisen, dass er oder der
+Abnehmer den Gegenstand der Lieferung in das Drittlandsgebiet
 befördert oder versendet hat (Ausfuhrnachweis). Die Voraussetzung muss
 sich aus den Belegen eindeutig und leicht nachprüfbar ergeben.
 
@@ -171,8 +171,8 @@ in das Drittlandsgebiet befördert, hat der Unternehmer den
 Ausfuhrnachweis durch folgenden Beleg zu führen:
 
 1.  bei Ausfuhranmeldung im elektronischen Ausfuhrverfahren nach Artikel
-    787 der Durchführungsverordnung zum Zollkodex mit der durch die
-    zuständige Ausfuhrzollstelle auf elektronischem Weg übermittelten
+    326 der Durchführungsverordnung zum Zollkodex der Union mit der durch
+    die zuständige Ausfuhrzollstelle auf elektronischem Weg übermittelten
     Bestätigung, dass der Gegenstand ausgeführt wurde (Ausgangsvermerk);
 
 
@@ -202,8 +202,9 @@ Ausfuhrzollstelle auf elektronischem Weg übermittelte alternative
 Bestätigung, dass der Gegenstand ausgeführt wurde (Alternativ-
 Ausgangsvermerk), gilt diese als Ausfuhrnachweis.
 
-(2) Bei der Ausfuhr von für den Straßenverkehr zugelassenen Fahrzeugen
-muss
+(2) Bei der Ausfuhr von Fahrzeugen im Sinne des § 1b Absatz 2 Satz 1
+Nummer 1 des Gesetzes, die zum bestimmungsmäßigen Gebrauch im
+Straßenverkehr einer Zulassung bedürfen, muss
 
 1.  der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer im
     Sinne des § 6 Absatz 5 Nummer 5 der Fahrzeug-Zulassungsverordnung
@@ -215,25 +216,30 @@ muss
 
 
 
-Dies gilt nicht in den Fällen, in denen das Fahrzeug mit einem
-Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 die
-Nummer des Ausfuhrkennzeichens ersichtlich ist.
+Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit
+einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz
+1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in
+denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung
+vom 3. Februar 2011 (BGBl. I S. 139), die durch Artikel 3 der
+Verordnung vom 10. Mai 2012 (BGBl. I S. 1086) geändert worden ist, in
+der jeweils geltenden Fassung auf öffentlichen Straßen in Betrieb
+gesetzt worden ist und nicht auf eigener Achse in das Drittlandsgebiet
+ausgeführt wird.
 
 (3) An die Stelle der Ausfuhrbestätigung nach Absatz 1 Satz 1 Nummer 2
-Buchstabe d tritt bei einer Ausfuhr im gemeinsamen oder
-gemeinschaftlichen Versandverfahren oder bei einer Ausfuhr mit Carnets
-TIR, wenn diese Verfahren nicht bei einer Grenzzollstelle beginnen,
-eine Ausfuhrbestätigung der Abgangsstelle. Diese Ausfuhrbestätigung
-wird nach Eingang des Beendigungsnachweises für das Versandverfahren
+Buchstabe d tritt bei einer Ausfuhr im gemeinsamen Versandverfahren
+oder im Unionsversandverfahren oder bei einer Ausfuhr mit Carnets TIR,
+wenn diese Verfahren nicht bei einer Grenzzollstelle beginnen, eine
+Ausfuhrbestätigung der Abgangsstelle. Diese Ausfuhrbestätigung wird
+nach Eingang des Beendigungsnachweises für das Versandverfahren
 erteilt, sofern sich aus ihr die Ausfuhr ergibt.
 
 (4) Im Sinne dieser Verordnung gilt als Durchführungsverordnung zum
-Zollkodex die Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli
-1993 mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92
-des Rates zur Festlegung des Zollkodex der Gemeinschaften (ABl. L 253
-vom 11.10.1993, S. 1), die zuletzt durch die Verordnung (EU) Nr.
-1063/2010 (ABI. L 307 vom 23.11.2010, S. 1) geändert worden ist, in
-der jeweils geltenden Fassung.
+Zollkodex der Union die Durchführungsverordnung (EU) 2015/2447 der
+Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von
+Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen
+Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl.
+L 343 vom 29.12.2015, S. 558) in der jeweils geltenden Fassung.
 
 
 #### § 10 Ausfuhrnachweis bei Ausfuhrlieferungen in Versendungsfällen
@@ -243,7 +249,8 @@ in das Drittlandsgebiet versendet, hat der Unternehmer den
 Ausfuhrnachweis durch folgenden Beleg zu führen:
 
 1.  bei Ausfuhranmeldung im elektronischen Ausfuhrverfahren nach Artikel
-    787 der Durchführungsverordnung zum Zollkodex mit dem Ausgangsvermerk;
+    326 der Durchführungsverordnung zum Zollkodex der Union mit dem
+    Ausgangsvermerk;
 
 
 2.  bei allen anderen Ausfuhranmeldungen:
@@ -258,8 +265,8 @@ Ausfuhrnachweis durch folgenden Beleg zu führen:
         a, insbesondere mit einer Bescheinigung des beauftragten Spediteurs;
         dieser Beleg hat folgende Angaben zu enthalten:
 
-        aa) den Namen und die Anschrift des Ausstellers des Belegs sowie das
-            Ausstellungsdatum,
+        aa) den Namen und die Anschrift des mit der Beförderung beauftragten
+            Unternehmers sowie das Ausstellungsdatum,
 
 
         bb) den Namen und die Anschrift des liefernden Unternehmers und des
@@ -278,12 +285,13 @@ Ausfuhrnachweis durch folgenden Beleg zu führen:
             Drittlandsgebiet,
 
 
-        ff) eine Versicherung des Ausstellers des Belegs darüber, dass die Angaben
-            im Beleg auf der Grundlage von Geschäftsunterlagen gemacht wurden, die
-            im Gemeinschaftsgebiet nachprüfbar sind, sowie
+        ff) eine Versicherung des mit der Beförderung beauftragten Unternehmers
+            darüber, dass die Angaben im Beleg auf der Grundlage von
+            Geschäftsunterlagen gemacht wurden, die im Gemeinschaftsgebiet
+            nachprüfbar sind, sowie
 
 
-        gg) die Unterschrift des Ausstellers des Belegs.
+        gg) die Unterschrift des mit der Beförderung beauftragten Unternehmers.
 
 
 
@@ -296,8 +304,9 @@ Ausfuhrnachweis durch folgenden Beleg zu führen:
 Hat der Unternehmer statt des Ausgangsvermerks einen Alternativ-
 Ausgangsvermerk, gilt dieser als Ausfuhrnachweis.
 
-(2) Bei der Ausfuhr von für den Straßenverkehr zugelassenen Fahrzeugen
-muss
+(2) Bei der Ausfuhr von Fahrzeugen im Sinne des § 1b Absatz 2 Satz 1
+Nummer 1 des Gesetzes, die zum bestimmungsmäßigen Gebrauch im
+Straßenverkehr einer Zulassung bedürfen, muss
 
 1.  der Beleg nach Absatz 1 auch die Fahrzeug-Identifikationsnummer
     enthalten und
@@ -308,9 +317,12 @@ muss
 
 
 
-Dies gilt nicht in den Fällen, in denen das Fahrzeug mit einem
-Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz 1 die
-Nummer des Ausfuhrkennzeichens ersichtlich ist.
+Satz 1 Nummer 2 gilt nicht in den Fällen, in denen das Fahrzeug mit
+einem Ausfuhrkennzeichen ausgeführt wird, wenn aus dem Beleg nach Satz
+1 Nummer 1 die Nummer des Ausfuhrkennzeichens ersichtlich ist, oder in
+denen das Fahrzeug nicht im Sinne der Fahrzeug-Zulassungsverordnung
+auf öffentlichen Straßen in Betrieb gesetzt worden ist und nicht auf
+eigener Achse in das Drittlandsgebiet ausgeführt wird.
 
 (3) Ist eine Ausfuhr elektronisch angemeldet worden und ist es dem
 Unternehmer nicht möglich oder nicht zumutbar, den Ausfuhrnachweis
@@ -318,8 +330,8 @@ nach Absatz 1 Satz 1 Nummer 1 zu führen, kann dieser die Ausfuhr mit
 den in Absatz 1 Satz 1 Nummer 2 genannten Belegen nachweisen. In den
 Fällen nach Satz 1 muss der Beleg zusätzlich zu den Angaben nach
 Absatz 1 Satz 1 Nummer 2 die Versendungsbezugsnummer der
-Ausfuhranmeldung nach Artikel 796c Satz 3 der Durchführungsverordnung
-zum Zollkodex (Movement Reference Number – MRN) enthalten.
+Ausfuhranmeldung nach Artikel 226 der Durchführungsverordnung zum
+Zollkodex der Union (Master Reference Number – MRN) enthalten.
 
 (4) Ist es dem Unternehmer nicht möglich oder nicht zumutbar, den
 Ausfuhrnachweis nach Absatz 1 Satz 1 Nummer 2 zu führen, kann er die
@@ -398,7 +410,7 @@ leicht nachprüfbar aus der Buchführung zu ersehen sein.
 
 
 7.  in den Fällen des § 9 Absatz 1 Satz 1 Nummer 1, des § 10 Absatz 1 Satz
-    1 Nummer 1 und des § 10 Absatz 3 die Movement Reference Number – MRN.
+    1 Nummer 1 und des § 10 Absatz 3 die Master Reference Number – MRN.
 
 
 
@@ -488,19 +500,18 @@ zusätzlich folgende Angaben zu enthalten:
 Gesetzes) hat der Unternehmer im Geltungsbereich des Gesetzes durch
 Belege nachzuweisen, dass er oder der Abnehmer den Gegenstand der
 Lieferung in das übrige Gemeinschaftsgebiet befördert oder versendet
-hat. Dies muss sich aus den Belegen eindeutig und leicht nachprüfbar
-ergeben.
+hat. Die Voraussetzung muss sich aus den Belegen eindeutig und leicht
+nachprüfbar ergeben.
 
-(2) Der Unternehmer hat den Nachweis nach Absatz 1 wie folgt zu
-führen:
+(2) Als eindeutig und leicht nachprüfbar nach Absatz 1 gilt
+insbesondere ein Nachweis, der wie folgt geführt wird:
 
 1.  durch das Doppel der Rechnung (§§ 14 und 14a des Gesetzes) und
 
 
-2.  durch eine Bestätigung des Abnehmers gegenüber dem Unternehmer oder
-    dem mit der Beförderung beauftragten selbständigen Dritten, dass der
-    Gegenstand der Lieferung in das übrige Gemeinschaftsgebiet gelangt ist
-    (Gelangensbestätigung). Der Beleg hat folgende Angaben zu enthalten:
+2.  durch eine Bestätigung des Abnehmers, dass der Gegenstand der
+    Lieferung in das übrige Gemeinschaftsgebiet gelangt ist
+    (Gelangensbestätigung), die folgende Angaben zu enthalten hat:
 
     a)  den Namen und die Anschrift des Abnehmers,
 
@@ -511,37 +522,186 @@ führen:
 
 
     c)  im Fall der Beförderung oder Versendung durch den Unternehmer oder im
-        Fall der Versendung durch den Abnehmer den Ort und Tag des Erhalts des
-        Gegenstands im übrigen Gemeinschaftsgebiet und im Fall der Beförderung
-        des Gegenstands durch den Abnehmer den Ort und Tag des Endes der
-        Beförderung des Gegenstands im übrigen Gemeinschaftsgebiet,
+        Fall der Versendung durch den Abnehmer den Ort und den Monat des
+        Erhalts des Gegenstands im übrigen Gemeinschaftsgebiet und im Fall der
+        Beförderung des Gegenstands durch den Abnehmer den Ort und den Monat
+        des Endes der Beförderung des Gegenstands im übrigen
+        Gemeinschaftsgebiet,
 
 
     d)  das Ausstellungsdatum der Bestätigung sowie
 
 
-    e)  die Unterschrift des Abnehmers.
+    e)  die Unterschrift des Abnehmers oder eines von ihm zur Abnahme
+        Beauftragten. Bei einer elektronischen Übermittlung der
+        Gelangensbestätigung ist eine Unterschrift nicht erforderlich, sofern
+        erkennbar ist, dass die elektronische Übermittlung im
+        Verfügungsbereich des Abnehmers oder des Beauftragten begonnen hat.
 
 
 
-    Bei einer Versendung ist es ausreichend, wenn sich die
-    Gelangensbestätigung bei dem mit der Beförderung beauftragten
-    selbständigen Dritten befindet und auf Verlangen der Finanzbehörde
-    zeitnah vorgelegt werden kann. In diesem Fall muss der Unternehmer
-    eine schriftliche Versicherung des mit der Beförderung beauftragten
-    selbständigen Dritten besitzen, dass dieser über einen Beleg mit den
-    Angaben des Abnehmers verfügt.
+    Die Gelangensbestätigung kann als Sammelbestätigung ausgestellt
+    werden. In der Sammelbestätigung können Umsätze aus bis zu einem
+    Quartal zusammengefasst werden. Die Gelangensbestätigung kann in jeder
+    die erforderlichen Angaben enthaltenden Form erbracht werden; sie kann
+    auch aus mehreren Dokumenten bestehen, aus denen sich die geforderten
+    Angaben insgesamt ergeben.
 
 
 
 
-(3) Wird der Gegenstand der Lieferung vom Unternehmer oder Abnehmer im
-gemeinschaftlichen Versandverfahren in das übrige Gemeinschaftsgebiet
-befördert, kann der Unternehmer den Nachweis hierüber abweichend von
-Absatz 2 auch durch eine Bestätigung der Abgangsstelle über die
-innergemeinschaftliche Lieferung führen, die nach Eingang des
-Beendigungsnachweises für das Versandverfahren erteilt wird, sofern
-sich daraus die Lieferung in das übrige Gemeinschaftsgebiet ergibt.
+(3) In folgenden Fällen kann der Unternehmer den Nachweis auch durch
+folgende andere Belege als die in Absatz 2 Nummer 2 genannte
+Gelangensbestätigung führen:
+
+1.  bei der Versendung des Gegenstands der Lieferung durch den Unternehmer
+    oder Abnehmer:
+
+    a)  durch einen Versendungsbeleg, insbesondere durch
+
+        aa) einen handelsrechtlichen Frachtbrief, der vom Auftraggeber des
+            Frachtführers unterzeichnet ist und die Unterschrift des Empfängers
+            als Bestätigung des Erhalts des Gegenstands der Lieferung enthält,
+
+
+        bb) ein Konnossement oder
+
+
+        cc) Doppelstücke des Frachtbriefs oder Konnossements,
+
+
+
+
+
+    b)  durch einen anderen handelsüblichen Beleg als den Belegen nach
+        Buchstabe a, insbesondere mit einer Bescheinigung des beauftragten
+        Spediteurs, der folgende Angaben zu enthalten hat:
+
+        aa) den Namen und die Anschrift des mit der Beförderung beauftragten
+            Unternehmers sowie das Ausstellungsdatum,
+
+
+        bb) den Namen und die Anschrift des liefernden Unternehmers sowie des
+            Auftraggebers der Versendung,
+
+
+        cc) die Menge des Gegenstands der Lieferung und dessen handelsübliche
+            Bezeichnung,
+
+
+        dd) den Empfänger des Gegenstands der Lieferung und den Bestimmungsort im
+            übrigen Gemeinschaftsgebiet,
+
+
+        ee) den Monat, in dem die Beförderung des Gegenstands der Lieferung im
+            übrigen Gemeinschaftsgebiet geendet hat,
+
+
+        ff) eine Versicherung des mit der Beförderung beauftragten Unternehmers,
+            dass die Angaben in dem Beleg auf Grund von Geschäftsunterlagen
+            gemacht wurden, die im Gemeinschaftsgebiet nachprüfbar sind, sowie
+
+
+        gg) die Unterschrift des mit der Beförderung beauftragten Unternehmers.
+
+
+
+        Bei einer elektronischen Übermittlung des Belegs an den liefernden
+        Unternehmer ist eine Unterschrift des mit der Beförderung beauftragten
+        Unternehmers nicht erforderlich, sofern erkennbar ist, dass die
+        elektronische Übermittlung im Verfügungsbereich des mit der
+        Beförderung beauftragten Unternehmers begonnen hat,
+
+
+    c)  durch eine schriftliche oder elektronische Auftragserteilung und ein
+        von dem mit der Beförderung Beauftragten erstelltes Protokoll, das den
+        Transport lückenlos bis zur Ablieferung beim Empfänger nachweist, oder
+
+
+    d)  in den Fällen von Postsendungen, in denen eine Belegnachweisführung
+        nach Buchstabe c nicht möglich ist: durch eine Empfangsbescheinigung
+        eines Postdienstleisters über die Entgegennahme der an den Abnehmer
+        adressierten Postsendung und den Nachweis über die Bezahlung der
+        Lieferung;
+
+
+
+
+
+2.  bei der Versendung des Gegenstands der Lieferung durch den Abnehmer
+    durch einen Nachweis über die Entrichtung der Gegenleistung für die
+    Lieferung des Gegenstands von einem Bankkonto des Abnehmers sowie
+    durch eine Bescheinigung des beauftragten Spediteurs, die folgende
+    Angaben zu enthalten hat:
+
+    a)  den Namen und die Anschrift des mit der Beförderung beauftragten
+        Unternehmers sowie das Ausstellungsdatum,
+
+
+    b)  den Namen und die Anschrift des liefernden Unternehmers sowie des
+        Auftraggebers der Versendung,
+
+
+    c)  die Menge des Gegenstands der Lieferung und die handelsübliche
+        Bezeichnung,
+
+
+    d)  den Empfänger des Gegenstands der Lieferung und den Bestimmungsort im
+        übrigen Gemeinschaftsgebiet,
+
+
+    e)  eine Versicherung des mit der Beförderung beauftragten Unternehmers,
+        den Gegenstand der Lieferung an den Bestimmungsort im übrigen
+        Gemeinschaftsgebiet zu befördern, sowie
+
+
+    f)  die Unterschrift des mit der Beförderung beauftragten Unternehmers;
+
+
+
+
+
+3.  bei der Beförderung im Unionsversandverfahren in das übrige
+    Gemeinschaftsgebiet durch eine Bestätigung der Abgangsstelle über die
+    innergemeinschaftliche Lieferung, die nach Eingang des
+    Beendigungsnachweises für das Versandverfahren erteilt wird, sofern
+    sich daraus die Lieferung in das übrige Gemeinschaftsgebiet ergibt;
+
+
+4.  bei der Lieferung verbrauchsteuerpflichtiger Waren:
+
+    a)  bei der Beförderung verbrauchsteuerpflichtiger Waren unter
+        Steueraussetzung und Verwendung des IT-Verfahrens EMCS (Excise
+        Movement and Control System – EDV-gestütztes Beförderungs- und
+        Kontrollsystem für verbrauchsteuerpflichtige Waren) durch die von der
+        zuständigen Behörde des anderen Mitgliedstaates validierte EMCS-
+        Eingangsmeldung,
+
+
+    b)  bei der Beförderung verbrauchsteuerpflichtiger Waren des
+        steuerrechtlich freien Verkehrs durch die dritte Ausfertigung des
+        vereinfachten Begleitdokuments, das dem zuständigen Hauptzollamt für
+        Zwecke der Verbrauchsteuerentlastung vorzulegen ist;
+
+
+
+
+
+5.  bei der Lieferung von Fahrzeugen, die durch den Abnehmer befördert
+    werden und für die eine Zulassung für den Straßenverkehr erforderlich
+    ist, durch einen Nachweis über die Zulassung des Fahrzeugs auf den
+    Erwerber im Bestimmungsmitgliedstaat der Lieferung.
+
+
+
+Der Beleg nach Satz 1 muss bei der Lieferung eines Fahrzeugs im Sinne
+des § 1b Absatz 2 des Gesetzes zusätzlich dessen Fahrzeug-
+Identifikationsnummer enthalten. In den Fällen von Satz 1 Nummer 1
+gilt Absatz 2 Nummer 2 Satz 2 bis 4 entsprechend. Bestehen in den
+Fällen des Satzes 1 Nummer 2 begründete Zweifel, dass der
+Liefergegenstand tatsächlich in das übrige Gemeinschaftsgebiet gelangt
+ist, hat der Unternehmer den Nachweis nach Absatz 1 oder mit den
+übrigen Belegen nach den Absätzen 2 oder 3 zu führen.
 
 
 ### § 17b Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsfällen
@@ -689,24 +849,24 @@ eindeutig und leicht nachprüfbar ergeben. Die Vorschriften über den
 Ausfuhrnachweis in den §§ 9 bis 11 sind entsprechend anzuwenden.
 
 (2) Bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in
-das Gebiet eines Mitgliedstaates der Europäischen Gemeinschaft bezieht
-(§ 4 Nr. 3 Satz 1 Buchstabe a Doppelbuchstabe bb des Gesetzes), muss
-der Unternehmer durch Belege nachweisen, dass die Kosten für diese
+das Gebiet eines Mitgliedstaates der Europäischen Union bezieht (§ 4
+Nr. 3 Satz 1 Buchstabe a Doppelbuchstabe bb des Gesetzes), muss der
+Unternehmer durch Belege nachweisen, dass die Kosten für diese
 Leistung in der Bemessungsgrundlage für die Einfuhr enthalten sind.
 
-(3) Der Unternehmer muss die Nachweise im Geltungsbereich dieser
-Verordnung führen.
+(3) Der Unternehmer muss die Nachweise im Geltungsbereich des Gesetzes
+führen.
 
 
 ### § 21 Buchmäßiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenstände der Ausfuhr oder Einfuhr beziehen
 
 Bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr, auf
 einen Gegenstand der Einfuhr in das Gebiet eines Mitgliedstaates der
-Europäischen Gemeinschaft oder auf einen eingeführten Gegenstand
-bezieht, der im externen Versandverfahren in das Drittlandsgebiet
-befördert wird (§ 4 Nr. 3 Satz 1 Buchstabe a des Gesetzes), ist § 13
-Abs. 1 und Abs. 2 Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll
-der Unternehmer aufzeichnen:
+Europäischen Union oder auf einen eingeführten Gegenstand bezieht, der
+im externen Versandverfahren in das Drittlandsgebiet befördert wird (§
+4 Nr. 3 Satz 1 Buchstabe a des Gesetzes), ist § 13 Abs. 1 und Abs. 2
+Nr. 1 bis 4 entsprechend anzuwenden. Zusätzlich soll der Unternehmer
+aufzeichnen:
 
 1.  bei einer Leistung, die sich auf einen Gegenstand der Ausfuhr bezieht
     oder auf einen eingeführten Gegenstand bezieht, der im externen
@@ -715,9 +875,9 @@ der Unternehmer aufzeichnen:
 
 
 2.  bei einer Leistung, die sich auf einen Gegenstand der Einfuhr in das
-    Gebiet eines Mitgliedstaates der Europäischen Gemeinschaft bezieht,
-    dass die Kosten für die Leistung in der Bemessungsgrundlage für die
-    Einfuhr enthalten sind.
+    Gebiet eines Mitgliedstaates der Europäischen Union bezieht, dass die
+    Kosten für die Leistung in der Bemessungsgrundlage für die Einfuhr
+    enthalten sind.
 
 
 
@@ -761,7 +921,7 @@ Abs. 1 entsprechend anzuwenden.
 Die nachstehenden Vereinigungen gelten als amtlich anerkannte Verbände
 der freien Wohlfahrtspflege:
 
-1.  Diakonisches Werk der Evangelischen Kirche in Deutschland e.V.;
+1.  Evangelisches Werk für Diakonie und Entwicklung e.V.;
 
 
 2.  Deutscher Caritasverband e.V.;
@@ -792,7 +952,10 @@ der freien Wohlfahrtspflege:
     chronischer Erkrankung und ihren Angehörigen e.V.;
 
 
-11. Sozialverband VdK Deutschland e.V.
+11. Sozialverband VdK Deutschland e.V.;
+
+
+12. Arbeiter-Samariter-Bund Deutschland e.V.
 
 
 
@@ -810,12 +973,12 @@ folgt, in dem der Gegenstand in das Drittlandsgebiet gelangt. Ein
 Antrag kann mehrere Ansprüche auf die Steuervergütung umfassen.
 
 (2) Der Nachweis, dass der Gegenstand in das Drittlandsgebiet gelangt
-ist, ist, muss in der gleichen Weise wie bei Ausfuhrlieferungen
-geführt werden (§§ 8 bis 11).
+ist, muss in der gleichen Weise wie bei Ausfuhrlieferungen geführt
+werden (§§ 8 bis 11).
 
 (3) Die Voraussetzungen für die Steuervergütung sind im
-Geltungsbereich dieser Verordnung buchmäßig nachzuweisen. Regelmäßig
-sollen aufgezeichnet werden:
+Geltungsbereich des Gesetzes buchmäßig nachzuweisen. Regelmäßig sollen
+aufgezeichnet werden:
 
 1.  die handelsübliche Bezeichnung und die Menge des ausgeführten
     Gegenstands;
@@ -960,7 +1123,7 @@ wird.
 
 ### § 33 Rechnungen über Kleinbeträge
 
-Eine Rechnung, deren Gesamtbetrag 150 Euro nicht übersteigt, muss
+Eine Rechnung, deren Gesamtbetrag 250 Euro nicht übersteigt, muss
 mindestens folgende Angaben enthalten:
 
 1.  den vollständigen Namen und die vollständige Anschrift des leistenden
@@ -1180,20 +1343,21 @@ dieser Kalendermonat voll zu berücksichtigen.
 #### § 46 Fristverlängerung
 
 Das Finanzamt hat dem Unternehmer auf Antrag die Fristen für die
-Abgabe der Voranmeldungen und für die Entrichtung der Vorauszahlungen
-(§ 18 Abs. 1, 2 und 2a des Gesetzes) um einen Monat zu verlängern. Das
-Finanzamt hat den Antrag abzulehnen oder eine bereits gewährte
-Fristverlängerung zu widerrufen, wenn der Steueranspruch gefährdet
-erscheint.
+Übermittlung der Voranmeldungen und für die Entrichtung der
+Vorauszahlungen (§ 18 Abs. 1, 2 und 2a des Gesetzes) um einen Monat zu
+verlängern. Das Finanzamt hat den Antrag abzulehnen oder eine bereits
+gewährte Fristverlängerung zu widerrufen, wenn der Steueranspruch
+gefährdet erscheint.
 
 
 #### § 47 Sondervorauszahlung
 
 (1) Die Fristverlängerung ist bei einem Unternehmer, der die
-Voranmeldungen monatlich abzugeben hat, unter der Auflage zu gewähren,
-dass dieser eine Sondervorauszahlung auf die Steuer eines jeden
-Kalenderjahres entrichtet. Die Sondervorauszahlung beträgt ein Elftel
-der Summe der Vorauszahlungen für das vorangegangene Kalenderjahr.
+Voranmeldungen monatlich zu übermitteln hat, unter der Auflage zu
+gewähren, dass dieser eine Sondervorauszahlung auf die Steuer eines
+jeden Kalenderjahres entrichtet. Die Sondervorauszahlung beträgt ein
+Elftel der Summe der Vorauszahlungen für das vorangegangene
+Kalenderjahr.
 
 (2) Hat der Unternehmer seine gewerbliche oder berufliche Tätigkeit
 nur in einem Teil des vorangegangenen Kalenderjahres ausgeübt, so ist
@@ -1209,24 +1373,23 @@ zu berechnen.
 
 #### § 48 Verfahren
 
-(1) Der Unternehmer hat die Fristverlängerung für die Abgabe der
+(1) Der Unternehmer hat die Fristverlängerung für die Übermittlung der
 Voranmeldungen bis zu dem Zeitpunkt zu beantragen, an dem die
 Voranmeldung, für die die Fristverlängerung erstmals gelten soll, nach
-§ 18 Abs. 1, 2 und 2a des Gesetzes abzugeben ist. Der Antrag ist nach
-amtlich vorgeschriebenem Datensatz durch Datenfernübertragung nach
-Maßgabe der Steuerdaten-Übermittlungsverordnung zu übermitteln. Auf
-Antrag kann das Finanzamt zur Vermeidung von unbilligen Härten auf
-eine elektronische Übermittlung verzichten; in diesem Fall hat der
-Unternehmer einen Antrag nach amtlich vorgeschriebenem Vordruck zu
-stellen. In dem Antrag hat der Unternehmer, der die Voranmeldungen
-monatlich abzugeben hat, die Sondervorauszahlung (§ 47) selbst zu
-berechnen und anzumelden. Gleichzeitig hat er die angemeldete
-Sondervorauszahlung zu entrichten.
+§ 18 Abs. 1, 2 und 2a des Gesetzes zu übermitteln ist. Der Antrag ist
+nach amtlich vorgeschriebenem Datensatz durch Datenfernübertragung zu
+übermitteln. Auf Antrag kann das Finanzamt zur Vermeidung von
+unbilligen Härten auf eine elektronische Übermittlung verzichten; in
+diesem Fall hat der Unternehmer einen Antrag nach amtlich
+vorgeschriebenem Vordruck zu stellen. In dem Antrag hat der
+Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die
+Sondervorauszahlung (§ 47) selbst zu berechnen und anzumelden.
+Gleichzeitig hat er die angemeldete Sondervorauszahlung zu entrichten.
 
 (2) Während der Geltungsdauer der Fristverlängerung hat der
-Unternehmer, der die Voranmeldungen monatlich abzugeben hat, die
+Unternehmer, der die Voranmeldungen monatlich zu übermitteln hat, die
 Sondervorauszahlung für das jeweilige Kalenderjahr bis zum
-gesetzlichen Zeitpunkt der Abgabe der ersten Voranmeldung zu
+gesetzlichen Zeitpunkt der Übermittlung der ersten Voranmeldung zu
 berechnen, anzumelden und zu entrichten. Absatz 1 Satz 2 und 3 gilt
 entsprechend.
 
@@ -1236,7 +1399,10 @@ Anmeldung zu einem offensichtlich unzutreffenden Ergebnis führt.
 
 (4) Die festgesetzte Sondervorauszahlung ist bei der Festsetzung der
 Vorauszahlung für den letzten Voranmeldungszeitraum des
-Besteuerungszeitraums anzurechnen, für den die Fristverlängerung gilt.
+Besteuerungszeitraums zu berücksichtigen, für den die
+Fristverlängerung gilt. Ein danach verbleibender Erstattungsanspruch
+ist mit Ansprüchen aus dem Steuerschuldverhältnis aufzurechnen (§ 226
+der Abgabenordnung), im Übrigen zu erstatten.
 
 
 ### - - Verzicht auf die Steuererhebung
@@ -1336,23 +1502,42 @@ der Unternehmer im Vergütungszeitraum
 
 
 3.  im Inland nur innergemeinschaftliche Erwerbe und daran anschließende
-    Lieferungen im Sinne des § 25b Abs. 2 des Gesetzes ausgeführt hat oder
+    Lieferungen im Sinne des § 25b Abs. 2 des Gesetzes ausgeführt hat
 
 
 4.  im Inland als Steuerschuldner nur Umsätze im Sinne des § 3a Abs. 5 des
     Gesetzes erbracht hat und von dem Wahlrecht nach § 18 Abs. 4c des
     Gesetzes Gebrauch gemacht hat oder diese Umsätze in einem anderen
     Mitgliedstaat erklärt sowie die darauf entfallende Steuer entrichtet
-    hat.
+    hat oder
+
+
+5.  im Inland als Steuerschuldner nur Umsätze im Sinne des § 3a Absatz 5
+    des Gesetzes erbracht hat und von dem Wahlrecht nach § 18 Absatz 4e
+    des Gesetzes Gebrauch gemacht hat.
 
 
 
 Ein im Ausland ansässiger Unternehmer im Sinne des Satzes 1 ist ein
-Unternehmer, der weder im Inland noch auf der Insel Helgoland oder in
-einem der in § 1 Absatz 3 des Gesetzes bezeichneten Gebiete einen
-Wohnsitz, seinen Sitz, seine Geschäftsleitung oder eine Betriebsstätte
-hat; maßgebend hierfür ist der jeweilige Vergütungszeitraum im Sinne
-des § 60, für den der Unternehmer eine Vergütung beantragt.
+Unternehmer, der im Inland, auf der Insel Helgoland und in einem der
+in § 1 Absatz 3 des Gesetzes bezeichneten Gebiete weder einen
+Wohnsitz, seinen gewöhnlichen Aufenthalt, seinen Sitz, seine
+Geschäftsleitung noch eine Betriebsstätte hat; ein im Ausland
+ansässiger Unternehmer ist auch ein Unternehmer, der
+
+1.  ausschließlich einen Wohnsitz oder seinen gewöhnlichen Aufenthalt im
+    Inland hat,
+
+
+2.  ausschließlich eine Betriebsstätte im Inland hat, von der aus keine
+    Umsätze ausgeführt werden,
+
+
+
+aber im Ausland seinen Sitz, seine Geschäftsleitung oder eine
+Betriebsstätte hat, von der aus Umsätze ausgeführt werden. Maßgebend
+für die Ansässigkeit ist der jeweilige Vergütungszeitraum im Sinne des
+§ 60, für den der Unternehmer eine Vergütung beantragt.
 
 
 #### § 60 Vergütungszeitraum
@@ -1360,65 +1545,96 @@ des § 60, für den der Unternehmer eine Vergütung beantragt.
 Vergütungszeitraum ist nach Wahl des Unternehmers ein Zeitraum von
 mindestens drei Monaten bis zu höchstens einem Kalenderjahr. Der
 Vergütungszeitraum kann weniger als drei Monate umfassen, wenn es sich
-um den restlichen Zeitraum des Kalenderjahres handelt. In den Antrag
-für diesen Zeitraum können auch abziehbare Vorsteuerbeträge
-aufgenommen werden, die in vorangegangene Vergütungszeiträume des
-betreffenden Kalenderjahres fallen.
+um den restlichen Zeitraum des Kalenderjahres handelt. In den
+Vergütungsantrag für den Zeitraum nach den Sätzen 1 und 2 können auch
+abziehbare Vorsteuerbeträge aufgenommen werden, die in vorangegangene
+Vergütungszeiträume des betreffenden Jahres fallen. Hat der
+Unternehmer einen Vergütungsantrag für das Kalenderjahr oder für den
+letzten Zeitraum des Kalenderjahres gestellt, kann er für das
+betreffende Jahr einmalig einen weiteren Vergütungsantrag stellen, in
+welchem ausschließlich abziehbare Vorsteuerbeträge aufgenommen werden
+dürfen, die in den Vergütungsanträgen für die Zeiträume nach den
+Sätzen 1 und 2 nicht enthalten sind; § 61 Absatz 3 Satz 3 und § 61a
+Absatz 3 Satz 3 gelten entsprechend.
 
 
 #### § 61 Vergütungsverfahren für im übrigen Gemeinschaftsgebiet ansässige Unternehmer
 
 (1) Der im übrigen Gemeinschaftsgebiet ansässige Unternehmer hat den
 Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch
-Datenfernübertragung nach Maßgabe der Steuerdaten-
-Übermittlungsverordnung über das in dem Mitgliedstaat, in dem der
+Datenfernübertragung über das in dem Mitgliedstaat, in dem der
 Unternehmer ansässig ist, eingerichtete elektronische Portal dem
-Bundeszentralamt für Steuern zu übermitteln.
+Bundeszentralamt für Steuern zu übermitteln. Der Vergütungsantrag gilt
+nur dann als vorgelegt, wenn der Unternehmer
+
+1.  alle Angaben gemacht hat, die in den Artikeln 8 und 9 Absatz 1 der
+    Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der
+    Erstattung der Mehrwertsteuer gemäß der Richtlinie 2006/112/EG an
+    nicht im Mitgliedstaat der Erstattung, sondern in einem anderen
+    Mitgliedstaat ansässige Steuerpflichtige (ABl. L 44 vom 20.2.2008, S.
+    23), die durch die Richtlinie 2010/66/EU (ABl. L 275 vom 20.10.2010,
+    S. 1) geändert worden ist, in der jeweils geltenden Fassung gefordert
+    werden, sowie
+
+
+2.  eine Beschreibung seiner Geschäftstätigkeit anhand harmonisierter
+    Codes vorgenommen hat, die gemäß Artikel 34a Absatz 3 Unterabsatz 2
+    der Verordnung (EG) Nr. 1798/2003 des Rates vom 7. Oktober 2003 über
+    die Zusammenarbeit der Verwaltungsbehörden auf dem Gebiet der
+    Mehrwertsteuer und zur Aufhebung der Verordnung (EWG) Nr. 218/92 (ABl.
+    L 264 vom 15.10.2003, S. 1), die zuletzt durch die Verordnung (EU) Nr.
+    904/2010 (ABl. L 268 vom 12.10.2010, S. 1) geändert worden ist, in der
+    jeweils geltenden Fassung bestimmt werden.
+
+
+
 
 (2) Die Vergütung ist binnen neun Monaten nach Ablauf des
 Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu
 beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Dem
-Vergütungsantrag sind auf elektronischem Weg die Rechnungen und
-Einfuhrbelege in Kopie beizufügen, wenn das Entgelt für den Umsatz
-oder die Einfuhr mindestens 1 000 Euro, bei Rechnungen über den Bezug
-von Kraftstoffen mindestens 250 Euro beträgt. Bei begründeten Zweifeln
-an dem Recht auf Vorsteuerabzug in der beantragten Höhe kann das
-Bundeszentralamt für Steuern verlangen, dass die Vorsteuerbeträge
-durch Vorlage von Rechnungen und Einfuhrbelegen im Original
-nachgewiesen werden.
+Vergütungsantrag sind die Rechnungen und Einfuhrbelege als
+eingescannte Originale vollständig beizufügen, wenn das Entgelt für
+den Umsatz oder die Einfuhr mindestens 1 000 Euro, bei Rechnungen über
+den Bezug von Kraftstoffen mindestens 250 Euro beträgt. Bei
+begründeten Zweifeln an dem Recht auf Vorsteuerabzug in der
+beantragten Höhe kann das Bundeszentralamt für Steuern verlangen, dass
+die Vorsteuerbeträge durch Vorlage von Rechnungen und Einfuhrbelegen
+im Original nachgewiesen werden.
 
 (3) Die beantragte Vergütung muss mindestens 400 Euro betragen. Das
 gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
 letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume
 muss die beantragte Vergütung mindestens 50 Euro betragen.
 
-(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist in
-elektronischer Form zu übermitteln. § 87a Abs. 4 Satz 2 der
-Abgabenordnung ist nicht anzuwenden.
+(4) Der Bescheid über die Vergütung von Vorsteuerbeträgen ist durch
+Bereitstellung zum Datenabruf nach § 122a in Verbindung mit § 87a
+Absatz 8 der Abgabenordnung bekannt zu geben. Hat der Empfänger des
+Bescheids der Bekanntgabe durch Bereitstellung zum Datenabruf nach
+Satz 1 nicht zugestimmt, ist der Bescheid schriftlich zu erteilen.
 
 (5) Der nach § 18 Abs. 9 des Gesetzes zu vergütende Betrag ist zu
 verzinsen. Der Zinslauf beginnt mit Ablauf von vier Monaten und zehn
 Werktagen nach Eingang des Vergütungsantrags beim Bundeszentralamt für
-Steuern. Übermittelt der Antragsteller Kopien der Rechnungen oder
-Einfuhrbelege abweichend von Absatz 2 Satz 3 nicht zusammen mit dem
-Vergütungsantrag, sondern erst zu einem späteren Zeitpunkt, beginnt
-der Zinslauf erst mit Ablauf von vier Monaten und zehn Tagen nach
-Eingang dieser Kopien beim Bundeszentralamt für Steuern. Hat das
-Bundeszentralamt für Steuern zusätzliche oder weitere zusätzliche
-Informationen angefordert, beginnt der Zinslauf erst mit Ablauf von
-zehn Werktagen nach Ablauf der Fristen in Artikel 21 der Richtlinie
-2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung
-der Mehrwertsteuer gemäß der Richtlinie 2006/112/EG an nicht im
-Mitgliedstaat der Erstattung, sondern in einem anderen Mitgliedstaat
-ansässige Steuerpflichtige (ABl. EU Nr. L 44 S. 23). Der Zinslauf
-endet mit erfolgter Zahlung des zu vergütenden Betrages; die Zahlung
-gilt als erfolgt mit dem Tag der Fälligkeit, es sei denn, der
-Unternehmer weist nach, dass er den zu vergütenden Betrag später
-erhalten hat. Wird die Festsetzung oder Anmeldung der Steuervergütung
-geändert, ist eine bisherige Zinsfestsetzung zu ändern; § 233a Abs. 5
-der Abgabenordnung gilt entsprechend. Für die Höhe und Berechnung der
+Steuern. Übermittelt der Antragsteller Rechnungen oder Einfuhrbelege
+als eingescannte Originale abweichend von Absatz 2 Satz 3 nicht
+zusammen mit dem Vergütungsantrag, sondern erst zu einem späteren
+Zeitpunkt, beginnt der Zinslauf erst mit Ablauf von vier Monaten und
+zehn Tagen nach Eingang dieser eingescannten Originale beim
+Bundeszentralamt für Steuern. Hat das Bundeszentralamt für Steuern
+zusätzliche oder weitere zusätzliche Informationen angefordert,
+beginnt der Zinslauf erst mit Ablauf von zehn Werktagen nach Ablauf
+der Fristen in Artikel 21 der Richtlinie 2008/9/EG. Der Zinslauf endet
+mit erfolgter Zahlung des zu vergütenden Betrages; die Zahlung gilt
+als erfolgt mit dem Tag der Fälligkeit, es sei denn, der Unternehmer
+weist nach, dass er den zu vergütenden Betrag später erhalten hat.
+Wird die Festsetzung oder Anmeldung der Steuervergütung geändert, ist
+eine bisherige Zinsfestsetzung zu ändern; § 233a Abs. 5 der
+Abgabenordnung gilt entsprechend. Für die Höhe und Berechnung der
 Zinsen gilt § 238 der Abgabenordnung. Auf die Festsetzung der Zinsen
-ist § 239 der Abgabenordnung entsprechend anzuwenden.
+ist § 239 der Abgabenordnung entsprechend anzuwenden. Bei der
+Festsetzung von Prozesszinsen nach § 236 der Abgabenordnung sind
+Zinsen anzurechnen, die für denselben Zeitraum nach den Sätzen 1 bis 5
+festgesetzt wurden.
 
 (6) Ein Anspruch auf Verzinsung nach Absatz 5 besteht nicht, wenn der
 Unternehmer einer Mitwirkungspflicht nicht innerhalb einer Frist von
@@ -1428,25 +1644,26 @@ Bundeszentralamtes für Steuern nachkommt.
 
 #### § 61a Vergütungsverfahren für nicht im Gemeinschaftsgebiet ansässige Unternehmer
 
-(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat die
-Vergütung nach amtlich vorgeschriebenem Vordruck bei dem
-Bundeszentralamt für Steuern zu beantragen. Abweichend von Satz 1 kann
-der Unternehmer den Vergütungsantrag nach amtlich vorgeschriebenem
-Datensatz durch Datenfernübertragung nach Maßgabe der Steuerdaten-
-Übermittlungsverordnung dem Bundeszentralamt für Steuern übermitteln.
+(1) Der nicht im Gemeinschaftsgebiet ansässige Unternehmer hat den
+Vergütungsantrag nach amtlich vorgeschriebenem Datensatz durch
+Datenfernübertragung an das Bundeszentralamt für Steuern zu
+übermitteln. Auf Antrag kann das Bundeszentralamt für Steuern zur
+Vermeidung von unbilligen Härten auf eine elektronische Übermittlung
+verzichten. In diesem Fall hat der nicht im Gemeinschaftsgebiet
+ansässige Unternehmer die Vergütung nach amtlich vorgeschriebenem
+Vordruck beim Bundeszentralamt für Steuern zu beantragen und den
+Vergütungsantrag eigenhändig zu unterschreiben.
 
 (2) Die Vergütung ist binnen sechs Monaten nach Ablauf des
 Kalenderjahres, in dem der Vergütungsanspruch entstanden ist, zu
 beantragen. Der Unternehmer hat die Vergütung selbst zu berechnen. Die
 Vorsteuerbeträge sind durch Vorlage von Rechnungen und Einfuhrbelegen
-im Original nachzuweisen. Der Vergütungsantrag ist vom Unternehmer
-eigenhändig zu unterschreiben.
+im Original nachzuweisen.
 
-(3) Die beantragte Vergütung muss mindestens
-1 000 Euro              betragen. Das gilt nicht, wenn der
-Vergütungszeitraum das Kalenderjahr oder der letzte Zeitraum des
-Kalenderjahres ist. Für diese Vergütungszeiträume muss die beantragte
-Vergütung mindestens 500 Euro betragen.
+(3) Die beantragte Vergütung muss mindestens 1 000 Euro betragen. Das
+gilt nicht, wenn der Vergütungszeitraum das Kalenderjahr oder der
+letzte Zeitraum des Kalenderjahres ist. Für diese Vergütungszeiträume
+muss die beantragte Vergütung mindestens 500 Euro betragen.
 
 (4) Der Unternehmer muss der zuständigen Finanzbehörde durch
 behördliche Bescheinigung des Staates, in dem er ansässig ist,
@@ -1542,11 +1759,10 @@ Teilentgelte und die Summe der Vorsteuerbeträge zu errechnen und
 aufzuzeichnen.
 
 
-### § 64 Aufzeichnung im Falle der Einfuhr
+### § 64 Aufzeichnung im Fall der Einfuhr
 
-Der Aufzeichnungspflicht nach § 22 Abs. 2 Nr. 6 des Gesetzes ist
-genügt, wenn die entrichtete oder in den Fällen des § 16 Abs. 2 Satz 4
-des Gesetzes zu entrichtende Einfuhrumsatzsteuer mit einem Hinweis auf
+Der Aufzeichnungspflicht nach § 22 Absatz 2 Nummer 6 des Gesetzes ist
+genügt, wenn die entstandene Einfuhrumsatzsteuer mit einem Hinweis auf
 einen entsprechenden zollamtlichen Beleg aufgezeichnet wird.
 
 
@@ -1761,7 +1977,7 @@ Gesetzes bezeichneten Steuerbefreiungen wie folgt nachzuweisen:
 
 
 (2) Zusätzlich zu Absatz 1 muss der Unternehmer die Voraussetzungen
-der Steuerbefreiungen im Geltungsbereich dieser Verordnung buchmäßig
+der Steuerbefreiungen im Geltungsbereich des Gesetzes buchmäßig
 nachweisen. Die Voraussetzungen müssen eindeutig und leicht
 nachprüfbar aus den Aufzeichnungen zu ersehen sein. In den
 Aufzeichnungen muss auf die in Absatz 1 bezeichneten Belege
@@ -1797,6 +2013,15 @@ Vergütung von Vorsteuerbeträgen anzuwenden, die nach dem 31. Dezember
 (2) Für Wirtschaftsgüter, die vor dem 1. Januar 2012 angeschafft oder
 hergestellt worden sind, ist § 44 Absatz 3 und 4 in der am 31.
 Dezember 2011 geltenden Fassung weiterhin anzuwenden.
+
+(3) Für bis zum 30. September 2013 ausgeführte innergemeinschaftliche
+Lieferungen kann der Unternehmer den Nachweis der Steuerbefreiung
+gemäß den §§ 17a bis 17c in der am 31. Dezember 2011 geltenden Fassung
+führen.
+
+(4) § 61a Absatz 1 und 2 in der am 30. Dezember 2014 geltenden Fassung
+ist auf Anträge auf Vergütung von Vorsteuerbeträgen anzuwenden, die
+nach dem 30. Juni 2016 gestellt werden.
 
 
 #### § 75 Berlin-Klausel

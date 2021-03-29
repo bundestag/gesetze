@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Jever
 jurabk: FluLärmJeverV
 layout: default
-origslug: flul_rmjeverv
+origslug: flulaermjeverv
 slug: flulaermjeverv
 
 ---

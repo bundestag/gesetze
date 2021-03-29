@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1995, 1570
 
+Geändert durch
+:   Art. 10 V v. 26.3.2014 I 274
+
 
 
 ## Eingangsformel
@@ -630,7 +633,8 @@ Diese Verordnung tritt am Tage nach der Verkündung in Kraft.
 
 ## Anlage (zu § 7 Abs. 3)
 
-(Fundstelle: BGBl. I 1995, 1574)
+(Fundstelle: BGBl. I 1995, 1574;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Muster
 ......................................................................
@@ -649,7 +653,8 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluß
 Geprüfter
 Leasingfachwirt/Geprüfte Leasingfachwirtin vom 30. November 1995
 (BGBl.
-I S. 1570)
+I S. 1570), die durch Artikel 10 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 Note
 I.  Wirtschaftszweigübergreifender Teil
@@ -671,6 +676,10 @@ II. Wirtschaftszweigspezifischer Teil
 3\. Bilanzierung, Finanzierung, Kalkulation               ...........
 4\. Situationsbezogenes Fachgespräch                      ...........
 (Im Fall des § 6: entsprechend Klammervermerk unter I.3.)
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum .................................
 Unterschrift ..........................
 (Siegel der zuständigen Stelle)

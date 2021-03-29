@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Lärmschutzbereichs für den militä
   Flugplatz Söllingen
 jurabk: FluLärmSöllV
 layout: default
-origslug: flul_rms_llv
+origslug: flulaermsoellv
 slug: flulaermsoellv
 
 ---

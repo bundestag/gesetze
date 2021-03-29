@@ -87,13 +87,12 @@ wäre, übersteigt.
 (3) Die Ermäßigung erstreckt sich nicht auf die Zusatzgebühr für
 Beurkundungen außerhalb der Gerichtsstelle und für fremdsprachliche
 Erklärungen
-(§§ 52, 53 der Kostenordnung).              Die Gebühr für die
-Beurkundung außerhalb der Gerichtsstelle darf jedoch den Betrag der
-für das Geschäft selbst zu erhebenden ermäßigten Gebühr nicht
-übersteigen.
+(§§ 52, 53 der Kostenordnung). Die Gebühr für die Beurkundung
+außerhalb der Gerichtsstelle darf jedoch den Betrag der für das
+Geschäft selbst zu erhebenden ermäßigten Gebühr nicht übersteigen.
 
 (4) Die Bestimmungen über die Mindestgebühr
-(§ 26 Abs. 3, § 72 der Kostenordnung)              bleiben unberührt.
+(§ 26 Abs. 3, § 72 der Kostenordnung) bleiben unberührt.
 
 (5) Die Gebührenermäßigung tritt ein, wenn die Vereinigung sämtlicher
 Nachfolgeinstitute desselben ausgründenden Kreditinstituts, die ihren
@@ -105,13 +104,12 @@ Inkrafttreten dieses Gesetzes durchgeführt wird.
 
 Vereinigung im Sinne dieses Gesetzes ist die Verschmelzung durch
 Aufnahme oder Neubildung gemäß
-§§ 233ff.              des Aktiengesetzes oder die Übertragung des
-Vermögens nach
-§ 255              des Aktiengesetzes oder nach dem Gesetz über die
-Umwandlung von Kapitalgesellschaften und bergrechtlichen
-Gewerkschaften. Eine Vereinigung von Nachfolgeinstituten liegt auch
-vor, wenn ein Nachfolgeinstitut die Mehrheit der Gesellschaftsanteile
-anderer Nachfolgeinstitute erwirbt.
+§§ 233ff. des Aktiengesetzes oder die Übertragung des Vermögens nach
+§ 255 des Aktiengesetzes oder nach dem Gesetz über die Umwandlung von
+Kapitalgesellschaften und bergrechtlichen Gewerkschaften. Eine
+Vereinigung von Nachfolgeinstituten liegt auch vor, wenn ein
+Nachfolgeinstitut die Mehrheit der Gesellschaftsanteile anderer
+Nachfolgeinstitute erwirbt.
 
 
 ## § 5

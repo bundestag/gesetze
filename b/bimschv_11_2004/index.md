@@ -19,32 +19,30 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 5.3.2007 I 289
 
-Geändert durch
-:   Art. 5 Abs. 3 V v. 26.11.2010 I 1643
+Zuletzt geändert durch
+:   Art. 8 Abs. 2 V v. 2.5.2013 I 1021
+
+Änderung durch
+:   Art. 2 V v. 9.1.2017 I 42 (Nr. 3) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## § 1 Anwendungsbereich
 
 Diese Verordnung gilt für genehmigungsbedürftige Anlagen mit Ausnahme
-der Anlagen, die in den folgenden Nummern des Anhangs der Verordnung
-über genehmigungsbedürftige Anlagen in der Fassung der Bekanntmachung
-vom 14. März 1997 (BGBl. I S. 504), die zuletzt durch die Verordnung
-vom 20. Juni 2005 (BGBl. I S. 1687) geändert worden ist, genannt sind:
-1\.6; 1.8; 2.1; 2.14; 3.11; 3.13; 3.15; 3.16; 3.19; 3.22; 3.24; 3.25;
-4\.5; 4.9; 6.2 (Spalte 2); 7.1 (Spalte 1 Buchstaben a und d bis zu
-40\.000 Plätzen, Buchstaben e, f, i und j, die Regelung über gemischte
-Bestände nach dem Buchstaben j und Spalte 2); 7.2; 7.3 (Spalte 2);
-7\.4; 7.5 (Spalte 2); 7.6; 7.7; 7.10; 7.11; 7.13; 7.14 (Spalte 2); 7.17
-(Spalte 2); 7.18; 7.19; 7.20 (Spalte 2); 7.22 (Spalte 2); 7.23 (Spalte
-2); 7.25; 7.26; 7.27 (Spalte 2); 7.28 (Spalte 2); 7.29 (Spalte 2);
-7\.30 (Spalte 2); 7.31 (Spalte 2); 7.32; 7.33; 8.4; 8.5; 8.6; 8.9;
-8\.10; 8.11; 8.12; 8.13; 8.14; 8.15; alle Anlagen der Hauptnummer 9
-außer 9.2 und 9.11; 10.1; 10.2; 10.3; 10.4; 10.5; 10.15 (Spalte 2);
-10\.16; 10.17; 10.18; 10.25. Gehören zu den von dieser Verordnung
-ausgenommenen Anlagen Teile oder Nebeneinrichtungen, die für sich
-gesehen unter den Anwendungsbereich dieser Verordnung fallen, so ist
-eine Emissionserklärung nach § 3 nur für diese Teile oder
-Nebeneinrichtungen abzugeben.
+der Anlagen, die in den folgenden Nummern des Anhangs 1 der Verordnung
+über genehmigungsbedürftige Anlagen vom 2. Mai 2013 (BGBl. I S. 973)
+genannt sind: 1.6; 1.8; 1.15; 1.16; 2.1; 2.14; 3.11; 3.13; 3.19; 3.22;
+3\.24; 3.25; 4.5; 4.9; 6.2.2; 7.1.1.2, 7.1.2.2, 7.1.3.2, 7.1.4.2,
+7\.1.5, 7.1.6, 7.1.7.2, 7.1.8.2, 7.1.9, 7.1.10 und 7.1.11; 7.2; 7.3.1.2
+und 7.3.2.2; 7.4; 7.5.2; 7.11; 7.13; 7.14.2; 7.17.2; 7.18; 7.19;
+7\.20.2; 7.22.2; 7.23.2; 7.25; 7.26; 7.27.2; 7.28.1.2 und 7.28.2.2;
+7\.29.2; 7.30.2; 7.31.2.2 und 7.31.3.2; 7.32; 8.4; 8.5; 8.6; 8.9; 8.10;
+8\.11; 8.12; 8.13; 8.14; 8.15; 9, ausgenommen die Nummern 9.2, 9.11 und
+9\.37; 10.1; 10.4; 10.15.1 und 10.15.2.2; 10.16; 10.17; 10.18; 10.25.
+Gehören zu den von dieser Verordnung ausgenommenen Anlagen Teile oder
+Nebeneinrichtungen, die für sich gesehen unter den Anwendungsbereich
+dieser Verordnung fallen, so ist eine Emissionserklärung nach § 3 nur
+für diese Teile oder Nebeneinrichtungen abzugeben.
 
 
 ## § 2 Begriffsbestimmungen
@@ -92,11 +90,10 @@ die inhaltlich dem Anhang entspricht. Emissionen sind anzugeben für
     sehr giftige Stoffe \*), soweit deren jeweilige Emissionen je Anlage
     0,01 Kilogramm je Stunde oder 0,25 Kilogramm im Erklärungszeitraum
     übersteigen, polychlorierte Dibenzodioxine und Dibenzofurane (Angabe
-    in Toxizitätsäquivalenten nach Anhang I der Verordnung über die
-    Verbrennung und die Mitverbrennung von Abfällen in der Fassung der
-    Bekanntmachung vom 14. August 2003, BGBl. I S. 1633) und Stoffe mit
-    vergleichbarer toxischer Wirkung, die jeweils unabhängig von der Größe
-    ihrer Massenströme anzugeben sind,
+    in Toxizitätsäquivalenten nach Anlage 2 der Verordnung über die
+    Verbrennung und die Mitverbrennung von Abfällen vom 2. Mai 2013 (BGBl.
+    I S. 1021, 1044) und Stoffe mit vergleichbarer toxischer Wirkung, die
+    jeweils unabhängig von der Größe ihrer Massenströme anzugeben sind,
 
 
 2.  Schwefelhexafluorid, Nickelverbindungen außer krebserzeugenden
@@ -244,7 +241,7 @@ können.
     *   - Ort, Datum
 
 
-*    *   **Betreiber**                        1)
+*    *   **Betreiber** 1)
 
     *
 
@@ -266,7 +263,7 @@ können.
     *   - Straße/Nummer
 
 
-*    *   **Werk/Betrieb**                        1)
+*    *   **Werk/Betrieb** 1)
 
     *
 
@@ -343,7 +340,7 @@ können.
     *   - Geometrische Höhe (m)
 
 
-*    *   **Anlagen**                        1)
+*    *   **Anlagen** 1)
 
     *   Aus der Bezeichnung muss Art und Zweck der Anlage eindeutig erkennbar
         sein.

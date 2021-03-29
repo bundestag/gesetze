@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1037
 
 Zuletzt geändert durch
-:   Art. 1 G v. 31.7.2010 I 1050
+:   Art. 1 G v. 17.1.2017 I 75
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -888,8 +888,9 @@ Gesetzes darf ihre Mitglieder bei der Preisbildung beraten und zu
 diesem Zweck gegenüber ihren Mitgliedern Preisempfehlungen
 aussprechen.
 
-(3) Im übrigen bleiben die Vorschriften des Gesetzes gegen
-Wettbewerbsbeschränkungen unberührt.
+(3) Vorbehaltlich der Absätze 1 und 2 und des § 46 bleiben die
+Vorschriften des Gesetzes gegen Wettbewerbsbeschränkungen im Übrigen
+unberührt.
 
 (4) Als Vereinigungen forstwirtschaftlicher Erzeugerbetriebe sind
 Waldwirtschaftsgemeinschaften, Waldwirtschaftsgenossenschaften,
@@ -971,14 +972,14 @@ der Grunddaten auch im Rahmen der Beobachtung nach § 6
 Bundesnaturschutzgesetz zu achten.
 
 (2) Die Länder erheben die in Absatz 1 genannten Grunddaten; das
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-stellt sie zusammen und wertet sie aus.
+Bundesministerium für Ernährung und Landwirtschaft stellt sie zusammen
+und wertet sie aus.
 
 (3) Zur Erfüllung von Berichtspflichten, die auf Grund verbindlicher
 völkerrechtlicher Vereinbarungen zum Schutz des Klimas bestehen,
-erhebt das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz soweit erforderlich in den Jahren zwischen zwei
-Bundeswaldinventuren Daten zum Kohlenstoffvorrat im Wald.
+erhebt das Bundesministerium für Ernährung und Landwirtschaft soweit
+erforderlich in den Jahren zwischen zwei Bundeswaldinventuren Daten
+zum Kohlenstoffvorrat im Wald.
 
 (4) Die mit der Vorbereitung und Durchführung der in den Absätzen 1, 3
 und in Rechtsverordnungen nach Absatz 6 genannten forstlichen
@@ -986,15 +987,13 @@ Erhebungen beauftragten Personen sind berechtigt, zur Erfüllung ihres
 Auftrages Grundstücke zu betreten sowie die erforderlichen
 Datenerhebungen und Probenahmen auf diesen Grundstücken durchzuführen.
 
-(5) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates nähere Vorschriften über das für die
-Bundeswaldinventur anzuwendende Stichprobenverfahren und die zu
-ermittelnden Grunddaten zu erlassen.
+(5) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+nähere Vorschriften über das für die Bundeswaldinventur anzuwendende
+Stichprobenverfahren und die zu ermittelnden Grunddaten zu erlassen.
 
-(6) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz kann durch Rechtsverordnung mit Zustimmung des
-Bundesrates vorsehen, dass Daten
+(6) Das Bundesministerium für Ernährung und Landwirtschaft kann durch
+Rechtsverordnung mit Zustimmung des Bundesrates vorsehen, dass Daten
 
 1.  zur Nährstoffversorgung und Schadstoffbelastung der Waldböden
     (Bodenzustandserhebung),
@@ -1044,10 +1043,9 @@ Euro geahndet werden.
 
 ### § 44 Allgemeine Verwaltungsvorschriften
 
-Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz erläßt mit Zustimmung des Bundesrates die zur
-Durchführung der §§ 15 bis 40 und 41a erforderlichen allgemeinen
-Verwaltungsvorschriften.
+Das Bundesministerium für Ernährung und Landwirtschaft erläßt mit
+Zustimmung des Bundesrates die zur Durchführung der §§ 15 bis 40 und
+41a erforderlichen allgemeinen Verwaltungsvorschriften.
 
 
 ### § 45 Anwendung des Gesetzes in besonderen Fällen
@@ -1091,9 +1089,37 @@ Vorschriften des § 8 zu beachten.
 (4) Die Absätze 1 und 2 gelten nicht im Land Berlin.
 
 
-### § 46 Änderung von Vorschriften
+### § 46 Weitere Vorschriften in besonderen Fällen
 
--
+(1) Für Beschlüsse und Vereinbarungen über die der Holzvermarktung
+nicht zuzurechnenden forstwirtschaftlichen Maßnahmen von
+nichtstaatlichen oder staatlichen Trägern oder von deren
+Kooperationen, soweit auf diese Beschlüsse und Vereinbarungen die
+Regelungen des Gesetzes gegen Wettbewerbsbeschränkungen anzuwenden
+sind, gelten die Voraussetzungen für eine Freistellung im Sinne des §
+2 des Gesetzes gegen Wettbewerbsbeschränkungen als erfüllt. Maßnahmen
+im Sinne des Satzes 1 umfassen die Bereiche der Planung und Ausführung
+waldbaulicher Maßnahmen, der Markierung, der Ernte und der
+Bereitstellung des Rohholzes bis einschließlich seiner Registrierung.
+
+(2) Soweit auf Beschlüsse und Vereinbarungen im Sinne des Absatzes 1
+die Regelungen des Artikels 101 des Vertrages über die Arbeitsweise
+der Europäischen Union anzuwenden sind, wird vermutet, dass die
+Voraussetzungen für eine Freistellung im Sinne des Artikels 101 Absatz
+3 des Vertrages über die Arbeitsweise der Europäischen Union erfüllt
+sind.
+
+(3) Das Bundesministerium für Ernährung und Landwirtschaft hat dem
+Deutschen Bundestag im Einvernehmen mit dem Bundesministerium für
+Wirtschaft und Energie bis spätestens 31. Dezember 2022 und danach
+jeweils im Abstand von drei Jahren zu berichten, ob und inwieweit die
+Regelungen in den Absätzen 1 und 2 weiterhin erforderlich sind, um ein
+flächendeckendes Angebot forstlicher Dienstleistungen zu angemessenen
+Bedingungen und den diskriminierungsfreien Zugang zu diesen
+Dienstleistungen für alle Waldbesitzer sicherzustellen. Die Berichte
+sollen, unter besonderer Berücksichtigung der zu fördernden
+Entwicklung der Forstbetriebsgemeinschaften, Vorschläge für
+gegebenenfalls notwendige Anpassungen der Regelungen enthalten.
 
 
 ### § 47

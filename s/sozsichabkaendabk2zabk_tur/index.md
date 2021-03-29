@@ -4,7 +4,7 @@ Title: Zusatzabkommen zum Abkommen vom 30. April 1964 zwischen der Bundesrepubli
   vom 28. Mai 1969 und des Zwischenabkommens vom 25. Oktober 1974
 jurabk: SozSichAbkÄndAbk2ZAbk TUR
 layout: default
-origslug: sozsichabk_ndabk2zabk_tur
+origslug: sozsichabkaendabk2zabk_tur
 slug: sozsichabkaendabk2zabk_tur
 
 ---

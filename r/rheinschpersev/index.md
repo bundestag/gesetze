@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl II: 2011, 1300
 
-Geändert durch
-:   Art. 2 V v. 21.6.2012 II 618
+Zuletzt geändert durch
+:   Art. 2 V v. 17.6.2016 II 698
+
+Änderung durch
+:   Art. 2 V v. 27.9.2017 II 1282 (Nr. 25) textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
+
+Änderung durch
+:   Art. 2 V v. 14.9.2018 II 378 (Nr. 16) mWv 7.10.2018 textlich nachgewiesen, dokumentarisch noch nicht abschließend bearbeitet
 
 
 ## Eingangsformel
@@ -191,130 +197,189 @@ Schiffspersonalverordnung-Rhein nicht erforderlich.
 
 ## Art 3 Zuständige Behörden
 
-(1) Zuständige Behörden im Sinne des § 1.02 Satz 2 der
-Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West und Südwest. Zu diesem Zweck werden sie
-ermächtigt, gemeinsam durch Rechtsverordnung zur Anpassung an die
-technische Entwicklung der Binnenschifffahrt oder zu Versuchszwecken
-eine von der Schiffspersonalverordnung-Rhein abweichende Regelung
-vorübergehend bis zur Dauer von drei Jahren zu treffen.
+(1) Zuständige Behörde im Sinne des § 1.02 Satz 2 der
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt. Zu diesem Zweck wird sie ermächtigt, durch
+Rechtsverordnung zur Anpassung an die technische Entwicklung der
+Binnenschifffahrt oder zu Versuchszwecken eine von der
+Schiffspersonalverordnung-Rhein abweichende Regelung vorübergehend bis
+zur Dauer von drei Jahren zu treffen.
 
 (2) Zuständige Behörden im Sinne des § 1.03 der
-Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West, Südwest und Süd und deren nachgeordnete
-Wasser- und Schifffahrtsämter sowie die übrigen Wasser- und
-Schifffahrtsdirektionen und Wasser- und Schifffahrtsämter, soweit
-ihnen in dieser Verordnung Zuständigkeiten oder Aufgaben zugewiesen
-werden.
+Schiffspersonalverordnung-Rhein sind die Generaldirektion
+Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten
+Wasserstraßen- und Schifffahrtsämter.
 
-(3) Zuständige Behörden im Sinne des § 3.02 Satz 1 Nummer 2 und 3
-Buchstabe a dritter Spiegelstrich und Nummer 5 Buchstabe a dritter
+(3) Zuständige Behörden im Sinne des § 3.02 Satz 1 Nummer 2, Nummer 3
+Buchstabe a dritter Spiegelstrich und Nummer 4 Buchstabe a dritter
 Spiegelstrich der Schiffspersonalverordnung-Rhein sind die nach
-Landesrecht zuständigen Behörden. Zuständige Behörden im Sinne des §
-3\.02 Satz 1 Nummer 4 Buchstabe a der Schiffspersonalverordnung-Rhein
-sind die Wasser- und Schifffahrtsdirektionen.
+Landesrecht zuständigen Behörden.
 
-(4) Zuständige Behörden im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe
-a Satz 2 und des § 3.07 Nummer 2 Satzteil vor Buchstabe a der
-Schiffspersonalverordnung-Rhein sind die örtlich zuständigen Wasser-
-und Schifffahrtsdirektionen.
+(4) Zuständige Behörde im Sinne des § 3.03 Nummer 1 Satz 2 Buchstabe a
+Satz 2 und des § 3.07 Nummer 2 Satzteil vor Buchstabe a der
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt.
 
 (5) Zuständige Behörden im Sinne des § 3.06 Nummer 1 Satz 3, Nummer 3
 Satz 1, Nummer 4 Buchstabe b und § 3.13 Nummer 1 Satz 4, Nummer 2 Satz
-1 der Schiffspersonalverordnung-Rhein sind die Wasser- und
+1 der Schiffspersonalverordnung-Rhein sind die Wasserstraßen- und
 Schifffahrtsämter. Im Falle des § 3.13 Nummer 1 Satz 4 ist auch die
-Zentralstelle Schiffsuntersuchungskommission/Schiffseichamt bei der
-Wasser- und Schifffahrtsdirektion Südwest zuständige Behörde.
+Generaldirektion Wasserstraßen und Schifffahrt zuständige Behörde.
 
 (6) Zuständige Behörde für die Typprüfung und Zulassung von
 Fahrtenschreibern im Sinne des § 3.10 Nummer 2 und 3 Satz 2 der
-Schiffspersonalverordnung-Rhein ist die Fachstelle der Wasser- und
-Schifffahrtsverwaltung für Verkehrstechniken beim Wasser- und
-Schifffahrtsamt Koblenz.
+Schiffspersonalverordnung-Rhein ist die vom Bundesministerium für
+Verkehr und digitale Infrastruktur im Verkehrsblatt oder
+Bundesanzeiger bekanntgemachte Stelle.
 
-(7) Zuständige Behörde für die Anerkennung von Basislehrgängen für
+(7) Zuständige Behörde für
+
+1.  die Anerkennung von Lehrgängen und Auffrischungslehrgängen zur
+    Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff im Sinne
+    der §§ 4a.03 und 4a.04 Nummer 2 Buchstabe b Satz 2, jeweils in
+    Verbindung mit § 4a.05 Satz 2, § 4a.04 Nummer 2 Buchstabe b Satz 2
+    auch in Verbindung mit § 4a.03, der Schiffspersonalverordnung-Rhein,
+
+
+2.  die Anerkennung von Ausbildungsstätten für die Durchführung von
+    Lehrgängen und Auffrischungslehrgängen zur Sachkunde im Umgang mit
+    Flüssigerdgas (LNG) als Brennstoff im Sinne der §§ 4a.03 und 4a.04
+    Nummer 2 Buchstabe b Satz 2, jeweils in Verbindung mit § 4a.05 Satz 2,
+    § 4a.04 Nummer 2 Buchstabe b Satz 2 auch in Verbindung mit § 4a.03,
+    der Schiffspersonalverordnung-Rhein
+
+
+
+ist die Generaldirektion Wasserstraßen und Schifffahrt. Die
+Anerkennung eines Lehrgangs oder Auffrischungslehrgangs nach Satz 1
+Nummer 1 oder einer Ausbildungsstätte nach Satz 1 Nummer 2 darf
+widerrufen werden, wenn die Ausbildungsstätte die Inhalte eines
+anerkannten Lehrgangs oder Auffrischungslehrgangs ohne Zustimmung der
+zuständigen Behörde ändert, einen anerkannten Lehrgang oder
+Auffrischungslehrgang nicht mehr ordnungsgemäß durchführt oder eine
+stichprobenartige Kontrolle eines anerkannten Lehrgangs oder
+Auffrischungslehrgangs verweigert.
+
+(8) Zuständig für
+
+1.  die aufgrund eines Lehrgangs im Sinne des § 4a.03 der
+    Schiffspersonalverordnung-Rhein erfolgende erstmalige Ausstellung
+    einer Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG)
+    als Brennstoff im Sinne des § 4a.02 Satz 1 in Verbindung mit § 4a.05
+    Satz 1 der Schiffspersonalverordnung-Rhein und
+
+
+2.  die aufgrund eines Lehrgangs im Sinne des § 4a.03 der
+    Schiffspersonalverordnung-Rhein erfolgende erstmalige Ausstellung
+    einer Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG)
+    als Brennstoff im Sinne des § 4a.02 Satz 1 in Verbindung mit § 4a.05
+    Satz 1 der Schiffspersonalverordnung-Rhein und
+
+
+
+ist die von der Generaldirektion Wasserstraßen und Schifffahrt
+anerkannte Ausbildungsstätte.
+
+(9) Zuständige Behörden für
+
+1.  die aufgrund einer von der Zentralkommission für die Rheinschifffahrt
+    nach Anhang II § 2.19 der Binnenschiffsuntersuchungsordnung
+    empfohlenen Schulung und erbrachter Fahrzeiten erfolgende erstmalige
+    Ausstellung einer Sachkundebescheinigung für die Nutzung von
+    Flüssigerdgas (LNG) als Brennstoff im Sinne des § 4a.02 Satz 1 in
+    Verbindung mit § 9.05 der Schiffspersonalverordnung-Rhein und
+
+
+2.  die aufgrund erbrachter Fahrzeiten erfolgende Verlängerung einer
+    Sachkundebescheinigung für die Nutzung von Flüssigerdgas (LNG) als
+    Brennstoff im Sinne des § 4a.02 Satz 1 in Verbindung mit § 4a.04
+    Nummer 2 Buchstabe a und § 4a.05 Satz 4 der Schiffspersonalverordnung-
+    Rhein
+
+
+
+sind das Wasserstraßen- und Schifffahrtsamt Duisburg-Rhein und das
+Wasserstraßen- und Schifffahrtsamt Mannheim.
+
+(10) Zuständige Behörde für die Anerkennung von Basislehrgängen für
 Sachkundige für Fahrgastschifffahrt im Sinne des § 5.02 Satz 2
 Buchstabe a und § 5.03 Satz 2 sowie von Auffrischungslehrgängen nach §
-5\.04 Nummer 1 der Schiffspersonalverordnung-Rhein ist die Wasser- und
-Schifffahrtsdirektion West. Die Anerkennung darf widerrufen werden,
-wenn die Ausbildungsstelle die Inhalte des anerkannten Lehrgangs ohne
-Zustimmung der zuständigen Behörde ändert, anerkannte Lehrgänge nicht
-mehr ordnungsgemäß durchführt oder eine stichprobenartige Kontrolle
-der Lehrgänge verweigert.
+5\.04 Nummer 1 der Schiffspersonalverordnung-Rhein ist die
+Generaldirektion Wasserstraßen und Schifffahrt. Die Anerkennung darf
+widerrufen werden, wenn die Ausbildungsstelle die Inhalte des
+anerkannten Lehrgangs ohne Zustimmung der zuständigen Behörde ändert,
+anerkannte Lehrgänge nicht mehr ordnungsgemäß durchführt oder eine
+stichprobenartige Kontrolle der Lehrgänge verweigert.
 
-(8) Zuständige Behörde zur Ausstellung von Bescheinigungen als
+(11) Zuständige Behörde zur Ausstellung von Bescheinigungen als
 Sachkundiger für Fahrgastschifffahrt im Sinne des § 5.08 Nummer 1 der
-Schiffspersonalverordnung-Rhein ist die Wasser- und
-Schifffahrtsdirektion West oder die von ihr anerkannte
-Ausbildungsstätte.
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt oder die von ihr anerkannte Ausbildungsstätte.
 
-(9) Zuständige Behörde zur Ausstellung oder Verlängerung von
+(12) Zuständige Behörde zur Ausstellung oder Verlängerung von
 Bescheinigungen über die Befähigung als Ersthelfer und zum
 Atemschutzgeräteträger im Sinne des § 5.08 Nummer 2 Satz 1 und Nummer
-3 Satz 1 der Schiffspersonalverordnung-Rhein ist jedes Wasser- und
-Schifffahrtsamt. Gleiches gilt für Bescheinigungen nach § 5.08 Nummer
-4 der Schiffspersonalverordnung-Rhein.
+3 Satz 1 der Schiffspersonalverordnung-Rhein ist jedes Wasserstraßen-
+und Schifffahrtsamt. Gleiches gilt für Bescheinigungen nach § 5.08
+Nummer 4 der Schiffspersonalverordnung-Rhein.
 
-(10) Zuständige Behörden für die Erteilung von Rheinpatenten, von
+(13) Zuständige Behörde für die Erteilung von Rheinpatenten, von
 vorläufigen Rheinpatenten, Streckenzeugnissen und Ersatzausfertigungen
-sind die Wasser- und Schifffahrtsdirektionen West, Südwest und Süd.
-Sie sind auch zuständige Behörden im Sinne des § 7.08 Nummer 1 Satz 1,
-§ 7.09 Nummer 2 Buchstabe c Satz 2, § 7.10 Nummer 1, § 7.11 Nummer 1
-Satz 3 und 4, § 7.14 Nummer 1 Satz 1, Nummer 3, 4 und 5 sowie § 7.22
-Nummer 5 der Schiffspersonalverordnung-Rhein.
+ist die Generaldirektion Wasserstraßen und Schifffahrt. Sie ist auch
+zuständige Behörde im Sinne des § 7.08 Nummer 1 Satz 1, § 7.09 Nummer
+2 Buchstabe c Satz 2, § 7.10 Nummer 1, § 7.11 Nummer 1 Satz 3 und 4, §
+7\.14 Nummer 1 Satz 1, Nummer 3, 4 und 5 sowie § 7.22 Nummer 5 der
+Schiffspersonalverordnung-Rhein.
 
-(11) Zuständige Behörden im Sinne des § 7.09 Nummer 1 der
-Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West, Südwest und Süd sowie die ihnen
-nachgeordneten Wasser- und Schifffahrtsämter.
+(14) Zuständige Behörden im Sinne des § 7.09 Nummer 1 der
+Schiffspersonalverordnung-Rhein sind die Generaldirektion
+Wasserstraßen und Schifffahrt sowie die ihr nachgeordneten
+Wasserstraßen- und Schifffahrtsämter.
 
-(12) Zuständige Behörden im Sinne des § 7.17 Nummer 2 Satz 2 der
-Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West, Südwest und Süd. Zuständige Behörden im
-Sinne des § 7.20 Nummer 2, § 7.22 Nummer 6 und des § 7.23 der
-Schiffspersonalverordnung-Rhein sind neben den Wasser- und
-Schifffahrtsdirektionen auch deren nachgeordnete Stellen und nach
-Maßgabe der nach § 1 Absatz 1 Nummer 2 zweiter Halbsatz des
-Binnenschifffahrtsaufgabengesetzes geschlossenen Vereinbarungen mit
-den Ländern die Polizeikräfte der Länder.
+(15) Zuständige Behörde im Sinne des § 7.17 Nummer 2 Satz 2 der
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt. Zuständige Behörden im Sinne des § 7.20 Nummer 2, §
+7\.22 Nummer 6 und des § 7.23 der Schiffspersonalverordnung-Rhein sind
+neben der Generaldirektion Wasserstraßen und Schifffahrt auch deren
+nachgeordnete Stellen und nach Maßgabe der nach § 1 Absatz 1 Nummer 2
+zweiter Halbsatz des Binnenschifffahrtsaufgabengesetzes geschlossenen
+Vereinbarungen mit den Ländern die Polizeikräfte der Länder.
 
-(13) Zuständige Behörden für die Anordnung nach § 7.20 Nummer 1
+(16) Zuständige Behörde für die Anordnung nach § 7.20 Nummer 1
 Buchstabe a Satzteil vor Satz 2 sowie im Sinne des § 7.20 Nummer 3 der
-Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West, Südwest und Süd. Zuständige Behörden im
-Sinne des § 7.24 Nummer 1 und des § 7.25 Nummer 1 der
-Schiffspersonalverordnung-Rhein sind neben den Wasser- und
-Schifffahrtsdirektionen West, Südwest und Süd auch nach Maßgabe der
+Schiffspersonalverordnung-Rhein ist die Generaldirektion Wasserstraßen
+und Schifffahrt. Zuständige Behörden im Sinne des § 7.24 Nummer 1 und
+des § 7.25 Nummer 1 der Schiffspersonalverordnung-Rhein sind neben der
+Generaldirektion Wasserstraßen und Schifffahrt auch nach Maßgabe der
 nach § 1 Absatz 1 Nummer 2 zweiter Halbsatz des
 Binnenschifffahrtsaufgabengesetzes geschlossenen Vereinbarungen mit
 den Ländern die Polizeikräfte der Länder Nordrhein-Westfalen, Hessen,
 Rheinland-Pfalz und Baden-Württemberg.
 
-(14) Zuständige Behörde im Sinne des § 7.22 Nummer 1 bis 4 der
+(17) Zuständige Behörde im Sinne des § 7.22 Nummer 1 bis 4 der
 Schiffspersonalverordnung-Rhein für den Entzug eines Rheinpatentes
 oder eines nach § 9.02 Nummer 1 der Schiffspersonalverordnung-Rhein
-weiter geltenden Patentes ist die Wasser- und Schifffahrtsdirektion,
-die oder deren nachgeordnetes Wasser- und Schifffahrtsamt es erteilt
-hat.
+weiter geltenden Patentes ist die Generaldirektion Wasserstraßen und
+Schifffahrt.
 
-(15) Zuständige Behörden für die Erteilung und den Entzug des
+(18) Zuständige Behörde für die Erteilung und den Entzug des
 Radarpatentes im Sinne des § 6.03 Nummer 2, § 8.05 Nummer 1 und § 8.06
-Satz 1 der Schiffspersonalverordnung-Rhein sind die Wasser- und
-Schifffahrtsdirektionen West, Südwest, Süd und Ost. Diese sind auch
-zuständige Behörden im Sinne des § 8.02 Nummer 1, § 8.03 Nummer 1, §
-8\.04 Nummer 4 Satz 1 und des § 8.05 Nummer 4 Satz 2 der
-Schiffspersonalverordnung-Rhein. Abweichend von Satz 1 ist die
-Wasserschutzpolizei-Schule in Hamburg zuständige Behörde für den
-Entzug der von ihr vor dem 1. Januar 2003 ausgestellten Radarpatente.
+Satz 1 der Schiffspersonalverordnung-Rhein ist die Generaldirektion
+Wasserstraßen und Schifffahrt. Diese ist auch zuständige Behörde im
+Sinne des § 8.02 Nummer 1, § 8.03 Nummer 1, § 8.04 Nummer 4 Satz 1 und
+des § 8.05 Nummer 4 Satz 2 der Schiffspersonalverordnung-Rhein.
+Abweichend von Satz 1 ist die Wasserschutzpolizei-Schule in Hamburg
+zuständige Behörde für den Entzug der von ihr vor dem 1. Januar 2003
+ausgestellten Radarpatente.
 
-(16) Zuständige Behörde im Sinne des § 8.04 Nummer 2 der
+(19) Zuständige Behörde im Sinne des § 8.04 Nummer 2 der
 Schiffspersonalverordnung-Rhein für die Zulassung von Radarsimulatoren
-ist die Fachstelle der Wasser- und Schifffahrtsverwaltung für
-Verkehrstechniken beim Wasser- und Schifffahrtsamt Koblenz.
+ist die vom Bundesministerium für Verkehr und digitale Infrastruktur
+im Verkehrsblatt oder Bundesanzeiger bekanntgemachte Stelle.
 
-(17) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04
+(20) Zuständige Behörde für die Anerkennung anderer Zeugnisse (§ 8.04
 Nummer 3 der Schiffspersonalverordnung-Rhein) ist das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bundesministerium für Verkehr und digitale Infrastruktur.
 Bescheinigungen der Wasserschutzpolizei-Schule in Hamburg über
 bestandene Prüfungen zum Erwerb des Radarpatentes gelten als
 anerkanntes Zeugnis im Sinne des § 8.04 Nummer 3 der
@@ -328,11 +393,12 @@ a, der §§ 3.04, 3.07 Nummer 2, des § 7.01 Nummer 3 Buchstabe a, des §
 7\.02 Nummer 3 Buchstabe a, des § 7.03 Nummer 2 Buchstabe a, des § 7.04
 Nummer 1 Buchstabe c, des § 7.09 Nummer 2 Buchstabe c und des § 7.23
 Nummer 1 Satz 1 der Schiffspersonalverordnung-Rhein müssen von einer
-Ärztin oder einem Arzt, die oder der von der Berufsgenossenschaft für
-Transport und Verkehrswirtschaft ermächtigt worden ist, von einer
-Ärztin oder einem Arzt des betriebsärztlichen Dienstes der Wasser- und
-Schifffahrtsverwaltung des Bundes, des Hafenärztlichen Dienstes oder
-der Verwaltung eines Landes ausgestellt sein.
+Ärztin oder einem Arzt, die oder der von der Berufsgenossenschaft
+Verkehrswirtschaft Post-Logistik Telekommunikation ermächtigt worden
+ist, von einer Ärztin oder einem Arzt des betriebsärztlichen Dienstes
+der Wasserstraßen- und Schifffahrtsverwaltung des Bundes, des
+Hafenärztlichen Dienstes oder der Verwaltung eines Landes ausgestellt
+sein.
 
 (2) Ein ärztliches Zeugnis, das von der zuständigen Stelle eines
 anderen Mitgliedstaates der Mannheimer Akte (BGBl. 1969 II S. 597,
@@ -352,9 +418,15 @@ sorgen, dass
     vorgeschriebene Besatzung während der Fahrt ständig an Bord ist,
 
 
+2.  ein Mitglied der Besatzung seine Tätigkeit an Bord eines Fahrzeugs,
+    das Flüssig - erdgas (LNG) als Brennstoff nutzt, nach § 4a.01 Nummer 2
+    der Schiffspersonalverordnung-Rhein erst dann aufnimmt, nachdem es in
+    den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf dem betreffenden
+    Fahrzeug, insbesondere bezüglich des Bunkervorgangs, eingewiesen
+    worden ist,
 
 
-2.  das für Tagesausflugsschiffe und Kabinenschiffe nach § 5.09 Nummer 1
+3.  das für Tagesausflugsschiffe und Kabinenschiffe nach § 5.09 Nummer 1
     Satz 1 der Schiffspersonalverordnung-Rhein jeweils vorgeschriebene
     Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an
     Bord verfügbar ist sowie der nach § 5.11 der
@@ -362,9 +434,7 @@ sorgen, dass
     stündlich durchgeführt wird,
 
 
-
-
-3.  ungültig gezeichnete Bordbücher und die Aufzeichnungen der
+4.  ungültig gezeichnete Bordbücher und die Aufzeichnungen der
     Fahrtenschreiber nach § 3.13 der Schiffspersonalverordnung-Rhein sowie
     die Ölkontrollbücher nach § 15.05 Absatz 1 der
     Rheinschifffahrtspolizeiverordnung zur Wahrung des Datenschutzes nach
@@ -397,7 +467,14 @@ anordnen oder zulassen, dass
     Besatzung nicht stattgefunden hat, die jeweiligen Ruhezeiten nicht
     eingehalten wurden oder der Nachweis über die Einhaltung der sechs-
     oder achtstündigen Ruhezeit nach § 3.12 Nummer 7 der
-    Schiffspersonalverordnung-Rhein nicht geführt wird.
+    Schiffspersonalverordnung-Rhein nicht geführt wird,
+
+
+5.  auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, ein
+    Mitglied der Besatzung entgegen § 4a.01 Nummer 1 der
+    Schiffspersonalverordnung-Rhein am Bunkervorgang beteiligt wird,
+    obwohl es nicht über Sachkunde im Umgang mit Flüssigerdgas (LNG) als
+    Brennstoff verfügt.
 
 
 
@@ -405,25 +482,31 @@ anordnen oder zulassen, dass
 (3) Der Eigentümer und der Ausrüster dürfen nicht anordnen oder
 zulassen, dass
 
-1.  entgegen § 6.02 Nummer 1 der Schiffspersonalverordnung-Rhein ein
+1.  ein Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff nutzt, geführt
+    wird, obwohl der Schiffsführer entgegen § 4a.01 Nummer 1 der
+    Schiffspersonalverordnung-Rhein nicht über Sachkunde im Umgang mit
+    Flüssigerdgas (LNG) als Brennstoff verfügt,
+
+
+2.  entgegen § 6.02 Nummer 1 der Schiffspersonalverordnung-Rhein ein
     Fahrzeug ohne das hierfür vorgeschriebene Rheinpatent oder ein als
     gleichwertig anerkanntes Schiffsführerzeugnis für die jeweilige
     Fahrzeugart und -größe sowie für die zu durchfahrende Strecke geführt
     wird,
 
 
-2.  entgegen § 6.03 Nummer 1 der Schiffspersonalverordnung-Rhein ein
+3.  entgegen § 6.03 Nummer 1 der Schiffspersonalverordnung-Rhein ein
     Fahrzeug ohne das erforderliche Radarpatent oder ein als gleichwertig
     anerkanntes Radarzeugnis geführt wird,
 
 
-3.  ein Fahrzeug geführt wird, obwohl die Gültigkeit des hierfür
+4.  ein Fahrzeug geführt wird, obwohl die Gültigkeit des hierfür
     vorgeschriebenen Rheinpatentes nach § 7.20 Nummer 1 Buchstabe a
     Satzteil vor Satz 2, auch in Verbindung mit § 7.24 Nummer 3 Satz 3,
     oder Buchstabe b der Schiffspersonalverordnung-Rhein ruht,
 
 
-4.  ein Fahrzeug geführt wird, obwohl das hierfür vorgeschriebene
+5.  ein Fahrzeug geführt wird, obwohl das hierfür vorgeschriebene
     Schiffsführerzeugnis gemäß § 7.21 der Schiffspersonalverordnung-Rhein
     seine Gültigkeit verloren hat.
 
@@ -441,15 +524,17 @@ zu sorgen, dass
     vorgenommen werden,
 
 
-
-
-2.  2. das Bordbuch nach § 3.13 Nummer 1 Satz 2 der
+2.  das Bordbuch nach § 3.13 Nummer 1 Satz 2 der
     Schiffspersonalverordnung-Rhein in Verbindung mit der Anleitung zur
     Führung des Bordbuches in Anlage A1 Nummer 2 der
     Schiffspersonalverordnung-Rhein richtig, vollständig und rechtzeitig
     geführt wird,
 
 
+2a. das anerkannte Bordbuch nach § 3.13 Nummer 1 Satz 6 der
+    Schiffspersonalverordnung-Rhein richtig, vollständig und rechtzeitig
+    in einer der Amtssprachen der Zentralkommission für die
+    Rheinschifffahrt geführt wird,
 
 
 3.  das ungültig gezeichnete Bordbuch und die Aufzeichnungen der
@@ -458,12 +543,8 @@ zu sorgen, dass
     Eintragung oder Aufzeichnung an Bord aufbewahrt werden,
 
 
-
-
 4.  die in § 3.13 Nummer 4 Satz 2 der Schiffspersonalverordnung-Rhein
     genannte Bescheinigung an Bord mitgeführt wird,
-
-
 
 
 5.  bei einem Austausch oder einer Verstärkung der Besatzung dem Bordbuch
@@ -471,37 +552,35 @@ zu sorgen, dass
     vorgeschriebenen Unterlagen beiliegt,
 
 
-
-
 6.  die Eintragungen im Logbuch nach § 3.20 Nummer 2 Satz 5 der
     Schiffspersonalverordnung-Rhein unverzüglich, vollständig und richtig
     gemacht werden,
 
 
+7.  die erforderliche Sachkunde der am Bunkervorgang beteiligten
+    Besatzungsmitglieder von Fahrzeugen, die Flüssigerdgas (LNG) als
+    Brennstoff nutzen, nach den §§ 4a.03 und 4a.04 Nummer 2 und § 9.05 der
+    Schiffspersonalverordnung-Rhein jederzeit durch die Bescheinigung nach
+    § 4a.02 Satz 1 der Schiffspersonalverordnung-Rhein an Bord
+    nachgewiesen werden kann,
 
 
-7.  die erforderliche Befähigung des Sicherheitspersonals nach den §§ 5.02
+8.  die erforderliche Befähigung des Sicherheitspersonals nach den §§ 5.02
     bis 5.07 der Schiffspersonalverordnung-Rhein jederzeit durch die
     entsprechende Bescheinigung nach § 5.08 der Schiffspersonalverordnung-
     Rhein an Bord nachgewiesen werden kann,
 
 
-
-
-8.  die Auflagen nach § 7.11 Nummer 1 Satz 3, § 7.18 Nummer 3 und § 7.19
+9.  die Auflagen nach § 7.11 Nummer 1 Satz 3, § 7.18 Nummer 3 und § 7.19
     Nummer 2 der Schiffspersonalverordnung-Rhein eingehalten werden,
 
 
-
-
-9.  das Rheinpatent rechtzeitig vor Beginn der Ruhensfrist nach § 7.20
+10. das Rheinpatent rechtzeitig vor Beginn der Ruhensfrist nach § 7.20
     Nummer 3 der Schiffspersonalverordnung-Rhein zur amtlichen Verwahrung
     vorgelegt wird,
 
 
-
-
-10. ein nach § 7.22 Nummer 3 Satz 2 der Schiffspersonalverordnung-Rhein
+11. ein nach § 7.22 Nummer 3 Satz 2 der Schiffspersonalverordnung-Rhein
     erloschenes Rheinpatent unverzüglich bei der ausstellenden Behörde
     abgeliefert oder ihr zur Entwertung vorgelegt wird.
 
@@ -512,41 +591,61 @@ zu sorgen, dass
 eines als gleichwertig anerkannten Schiffsführerzeugnisses ist es
 untersagt, auf dem Rhein ein Fahrzeug zu führen,
 
-1.  ohne ein nach § 6.02 Nummer 1 der Schiffspersonalverordnung-Rhein
+1.  ohne die nach § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein
+    vorgeschriebene Sachkunde im Umgang mit Flüssigerdgas als Brennstoff
+    zu besitzen, sofern das Fahrzeug Flüssigerdgas (LNG) als Brennstoff
+    nutzt,
+
+
+2.  ohne ein nach § 6.02 Nummer 1 der Schiffspersonalverordnung-Rhein
     vorgeschriebenes Rheinpatent oder ein als gleichwertig anerkanntes
     Schiffsführerzeugnis für die jeweilige Fahrzeugart und -größe sowie
     für die zu durchfahrende Strecke zu besitzen,
 
 
-2.  ohne ein bei der Radarfahrt nach § 6.03 Nummer 1 der
+3.  ohne ein bei der Radarfahrt nach § 6.03 Nummer 1 der
     Schiffspersonalverordnung-Rhein erforderliches Radarpatent oder ein
     als gleichwertig anerkanntes Radarzeugnis zu besitzen,
 
 
-3.  wenn die Gültigkeit des Rheinpatentes nach § 7.20 Nummer 1 Buchstabe a
+4.  wenn die Gültigkeit des Rheinpatentes nach § 7.20 Nummer 1 Buchstabe a
     Satzteil vor Satz 2, auch in Verbindung mit § 7.24 Nummer 3 Satz 3,
     oder Buchstabe b der Schiffspersonalverordnung-Rhein ruht,
 
 
-4.  wenn die Gültigkeit des als gleichwertig anerkannten
+5.  wenn die Gültigkeit des als gleichwertig anerkannten
     Schiffsführerzeugnisses nach § 7.21 der Schiffspersonalverordnung-
     Rhein abgelaufen ist,
 
 
-5.  wenn ein Fahrverbot gemäß § 7.23 Nummer 2 der
+6.  wenn ein Fahrverbot gemäß § 7.23 Nummer 2 der
     Schiffspersonalverordnung-Rhein gegen ihn angeordnet wurde.
 
 
 
 
-(6) Jedes Mitglied der Besatzung muss
+(6) Jedes Mitglied der Besatzung
 
-1.  seine Befähigung an Bord nach § 3.05 Nummer 1 Buchstabe b oder Nummer
-    2 der Schiffspersonalverordnung-Rhein nachweisen,
+1.  muss seine Befähigung an Bord nach § 3.05 Nummer 1 Buchstabe b oder
+    Nummer 2 der Schiffspersonalverordnung-Rhein nachweisen,
 
 
-2.  das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der
-    Schiffspersonalverordnung-Rhein rechtzeitig vorlegen.
+2.  muss das Schifferdienstbuch nach § 3.06 Nummer 4 Buchstabe b der
+    Schiffspersonalverordnung-Rhein rechtzeitig vorlegen,
+
+
+3.  muss über Sachkunde im Umgang mit Flüssigerdgas (LNG) als Brennstoff
+    nach § 4a.01 Nummer 1 der Schiffspersonalverordnung-Rhein verfügen,
+    wenn es auf einem Fahrzeug, das Flüssigerdgas (LNG) als Brennstoff
+    nutzt, am Bunkervorgang beteiligt ist,
+
+
+4.  darf seine Tätigkeit an Bord eines Fahr zeugs, das Flüssigerdgas (LNG)
+    als Brennstoff nutzt, nach § 4a.01 Nummer 2 der
+    Schiffspersonalverordnung-Rhein erst dann aufnehmen, nachdem es vom
+    Schiffsführer in den Umgang mit Flüssigerdgas (LNG) als Brennstoff auf
+    dem betreffenden Fahrzeug, insbesondere bezüglich des Bunkervorgangs,
+    eingewiesen worden ist.
 
 
 
@@ -572,31 +671,31 @@ fahrlässig als Schiffsführer, Eigentümer oder Ausrüster
     vorgeschriebene Besatzung ständig an Bord ist,
 
 
+2.  entgegen Artikel 5 Absatz 1 Nummer 2 nicht dafür sorgt, dass ein
+    Mitglied der Besatzung eine dort genannte Tätigkeit aufnimmt,
 
 
-2.  entgegen Artikel 5 Absatz 1 Nummer 2 nicht dafür sorgt, dass das
+3.  entgegen Artikel 5 Absatz 1 Nummer 3 nicht dafür sorgt, dass das
     Sicherheitspersonal während der Fahrt und beim Stillliegen ständig an
     Bord verfügbar ist sowie der vorgeschriebene Kontrollgang nachts
     stündlich durchgeführt wird,
 
 
-
-
-3.  entgegen Artikel 5 Absatz 2 Nummer 1 anordnet oder zulässt, dass eine
+4.  entgegen Artikel 5 Absatz 2 Nummer 1 anordnet oder zulässt, dass eine
     Einsatzzeit eines Fahrzeugs nicht eingehalten oder eine Fahrt nicht
     eingestellt wird,
 
 
+5.  entgegen Artikel 5 Absatz 2 Nummer 2 oder Nummer 3 anordnet oder
+    zulässt, dass ein Mitglied der Besatzung eingesetzt wird,
 
 
-4.  entgegen Artikel 5 Absatz 2 Nummer 2 oder Nummer 3 anordnet oder
-    zulässt, dass ein Mitglied der Besatzung eingesetzt wird, oder
+6.  entgegen Artikel 5 Absatz 2 Nummer 4 anordnet oder zulässt, dass die
+    Betriebsform gewechselt wird, oder
 
 
-
-
-5.  entgegen Artikel 5 Absatz 2 Nummer 4 anordnet oder zulässt, dass die
-    Betriebsform gewechselt wird.
+7.  entgegen Artikel 5 Absatz 2 Nummer 5 anordnet oder zulässt, dass ein
+    Mitglied der Besatzung an einem Bunkervorgang beteiligt wird.
 
 
 
@@ -614,8 +713,8 @@ fahrlässig als Schiffsführer
     Eintragung vorgenommen wird,
 
 
-2.  entgegen Artikel 5 Absatz 4 Nummer 2 nicht dafür sorgt, dass ein
-    Bordbuch geführt wird,
+2.  entgegen Artikel 5 Absatz 4 Nummer 2 oder Nummer 2a nicht dafür sorgt,
+    dass ein Bordbuch geführt wird,
 
 
 3.  entgegen Artikel 5 Absatz 4 Nummer 3 nicht dafür sorgt, dass ein dort
@@ -634,24 +733,28 @@ fahrlässig als Schiffsführer
     Eintragung gemacht wird,
 
 
-7.  entgegen Artikel 5 Absatz 4 Nummer 7 nicht dafür sorgt, dass eine dort
+7.  entgegen Artikel 5 Absatz 4 Nummer 7 nicht dafür sorgt, dass die dort
+    genannte Sachkunde nachgewiesen werden kann,
+
+
+8.  entgegen Artikel 5 Absatz 4 Nummer 8 nicht dafür sorgt, dass eine dort
     genannte Befähigung nachgewiesen werden kann,
 
 
-8.  entgegen Artikel 5 Absatz 4 Nummer 8 einer vollziehbaren Auflage
+9.  entgegen Artikel 5 Absatz 4 Nummer 9 einer vollziehbaren Auflage
     zuwiderhandelt,
 
 
-9.  entgegen Artikel 5 Absatz 4 Nummer 9 nicht dafür sorgt, dass ein
+10. entgegen Artikel 5 Absatz 4 Nummer 10 nicht dafür sorgt, dass ein
     Rheinpatent rechtzeitig vorgelegt wird,
 
 
-10. entgegen Artikel 5 Absatz 4 Nummer 10 nicht dafür sorgt, dass ein
+11. entgegen Artikel 5 Absatz 4 Nummer 11 nicht dafür sorgt, dass ein
     erloschenes Rheinpatent rechtzeitig abgeliefert oder rechtzeitig zur
-    Entwertung vorgelegt wird,
+    Entwertung vorgelegt wird, oder
 
 
-11. entgegen Artikel 5 Absatz 5 ein Fahrzeug führt.
+12. entgegen Artikel 5 Absatz 5 ein Fahrzeug führt.
 
 
 
@@ -665,7 +768,11 @@ fahrlässig als Mitglied der Besatzung
 
 
 2.  entgegen Artikel 5 Absatz 6 Nummer 2 ein Schifferdienstbuch nicht oder
-    nicht rechtzeitig vorlegt.
+    nicht rechtzeitig vorlegt oder
+
+
+3.  entgegen Artikel 5 Absatz 6 Nummer 4 eine dort genannte Tätigkeit
+    aufnimmt.
 
 
 

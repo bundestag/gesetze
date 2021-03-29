@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 579
 
+Zuletzt geändert durch
+:   Art. 7a G v. 11.11.2016 I 2500
+
 
 ## § 1 Errichtung
 
@@ -83,7 +86,7 @@ Sozialversicherung für Landwirtschaft, Forsten und Gartenbau sowie der
 Eingliederung der bisherigen Träger der landwirtschaftlichen
 Sozialversicherung und des Spitzenverbandes der landwirtschaftlichen
 Sozialversicherung erforderlich sind, werden Abgaben und
-Gerichtskosten nach dem Ersten Teil der Kostenordnung nicht erhoben.
+Gerichtskosten nach dem Gerichts- und Notarkostengesetz nicht erhoben.
 
 (2) Die Abgaben- und Gerichtskostenfreiheit ist von der zuständigen
 Stelle ohne Nachprüfung anzuerkennen, wenn die Sozialversicherung für
@@ -105,17 +108,27 @@ wenn die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 gegenüber ihren Tarifbeschäftigten Leistungen der betrieblichen
 Altersversorgung unmittelbar zugesagt hat.
 
+(1a) Für die Anlage der Mittel zur Finanzierung des Deckungskapitals
+für Altersrückstellungen gelten die Vorschriften des Vierten Titels
+des Vierten Abschnitts des Vierten Buches Sozialgesetzbuch mit der
+Maßgabe, dass eine Anlage auch in Euro-denominierten Aktien im Rahmen
+eines passiven, indexorientierten Managements zulässig ist. Die
+Anlageentscheidungen sind jeweils so zu treffen, dass der Anteil an
+Aktien maximal 10 Prozent des Deckungskapitals beträgt. Änderungen des
+Aktienkurses können vorübergehend zu einem höheren Anteil an Aktien am
+Deckungskapital führen.
+
 (2) Das Bundesministerium für Arbeit und Soziales bestimmt durch
 Rechtsverordnung ohne Zustimmung des Bundesrates im Einvernehmen mit
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz die Höhe der für die Altersrückstellungen
-erforderlichen Zuweisungssätze, das Zahlverfahren der Zuweisungen, die
-Überprüfung der Höhe der Zuweisungssätze sowie die Anlage des
-Deckungskapitals. Das Bundesministerium für Arbeit und Soziales kann
-die Ermächtigung nach Satz 1 nach Anhörung der Sozialversicherung für
-Landwirtschaft, Forsten und Gartenbau im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-durch Rechtsverordnung auf das Bundesversicherungsamt übertragen.
+dem Bundesministerium für Ernährung und Landwirtschaft die Höhe der
+für die Altersrückstellungen erforderlichen Zuweisungssätze, das
+Zahlverfahren der Zuweisungen, die Überprüfung der Höhe der
+Zuweisungssätze sowie die Anlage des Deckungskapitals. Das
+Bundesministerium für Arbeit und Soziales kann die Ermächtigung nach
+Satz 1 nach Anhörung der Sozialversicherung für Landwirtschaft,
+Forsten und Gartenbau im Einvernehmen mit dem Bundesministerium für
+Ernährung und Landwirtschaft durch Rechtsverordnung auf das
+Bundesversicherungsamt übertragen.
 
 (3) Die Sozialversicherung für Landwirtschaft, Forsten und Gartenbau
 erstellt jeweils ein Konzept zur Einführung von Altersrückstellungen
@@ -124,10 +137,10 @@ Alterssicherung der Landwirte. Die Konzepte enthalten die Ergebnisse
 der umfassenden Prüfung zur Höhe der Zuweisungssätze sowie zur
 Ausgestaltung des Verfahrens. Die Sozialversicherung für
 Landwirtschaft, Forsten und Gartenbau legt diese Konzepte dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-bis zum 31. Dezember 2016 vor. Das Konzept zur Einführung von
-Altersrückstellungen in der Alterssicherung der Landwirte ist
-zusätzlich dem Bundesministerium für Arbeit und Soziales vorzulegen.
+Bundesministerium für Ernährung und Landwirtschaft bis zum 31.
+Dezember 2016 vor. Das Konzept zur Einführung von Altersrückstellungen
+in der Alterssicherung der Landwirte ist zusätzlich dem
+Bundesministerium für Arbeit und Soziales vorzulegen.
 
 (4) Soweit für die in Absatz 1 genannten Beschäftigten vor dem 31.
 Dezember 2017 eine Mitgliedschaft bei einer öffentlich-rechtlichen
@@ -135,7 +148,7 @@ Versorgungseinrichtung bestand, werden die zu erwartenden
 Versorgungsleistungen im Rahmen der Verpflichtungen nach Absatz 1
 berücksichtigt. Wurde für die in Absatz 1 genannten Beschäftigten vor
 dem 31. Dezember 2017 Deckungskapital bei aufsichtspflichtigen
-Unternehmen im Sinne des § 2 Absatz 1 Nummer 1 und 4 des
+Unternehmen im Sinne des § 1 Absatz 1 Nummer 1 und 4 des
 Versicherungsaufsichtsgesetzes gebildet, wird dies im Rahmen der
 Verpflichtungen nach Absatz 1 berücksichtigt.
 

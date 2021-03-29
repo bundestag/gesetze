@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 1360
 
+Geändert durch
+:   Art. 1 V v. 20.3.2018 I 382
+
 [^f772200_01_BJNR136000009]:     Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4
     des Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
     abgestimmte von der Ständigen Konferenz der Kultusminister der Länder
@@ -52,7 +55,7 @@ Die Berufsausbildung gliedert sich in:
 
 
 2.  vier vom Ausbildenden festzulegende Wahlqualifikationen der
-    Auswahlliste nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 19; dabei ist
+    Auswahlliste nach § 4 Absatz 2 Abschnitt II Nummer 1 bis 20; dabei ist
     mindestens eine Wahlqualifikation aus Nummer 1 bis 8 zu wählen.
 
 
@@ -210,7 +213,10 @@ Abschnitt II: Wahlqualifikationen nach § 3 Nummer 2
 18. Anwenden produktionsbezogener mikrobiologischer Arbeitstechniken,
 
 
-19. Internationale Kompetenz.
+19. Internationale Kompetenz,
+
+
+20. Digitalisierung und vernetzte Produktion.
 
 
 
@@ -230,11 +236,7 @@ nachzuweisen.
 Ausbildungsrahmenplans für die Auszubildenden einen Ausbildungsplan zu
 erstellen.
 
-(3) Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis
-zu führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
+(3) (weggefallen)
 
 
 ## § 6 Abschlussprüfung
@@ -697,10 +699,12 @@ zu gewichten.
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
 
+(zu § 4 Absatz 1)
 
-## Anlage (zu § 4 Absatz 1) Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Chemikanten/zur Chemikantin
 
-(Fundstelle: BGBl. I 2009, 1364 - 1373)
+(Fundstelle: BGBl. I 2009, 1364 - 1373; bzgl. einzelner Änderungen
+vgl. Fußnote)
 **Abschnitt I: Pflichtqualifikationen nach § 3 Nummer 1**
 
 *    *   Lfd.
@@ -952,7 +956,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 
 
-    *[^f772200_02_BJNR136000009BJNE001400000]
+    *[^f772200_02_BJNR136000009BJNE001401125]
    6
 
     *
@@ -1082,7 +1086,7 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
 
 
 
-    *[^f772200_03_BJNR136000009BJNE001400000]
+    *[^f772200_03_BJNR136000009BJNE001401125]
    3
 
     *   2\*)
@@ -2165,8 +2169,52 @@ Diese Verordnung tritt am 1. August 2009 in Kraft.
     *   10
 
 
+*    *   II.20
+
+    *   Digitalisierung und
+        vernetzte Produktion
+        (§ 4 Absatz 2
+        Abschnitt II Nummer 20)
+
+    *
+        a)  in der digitalen vernetzten Produktion selbstorganisiert arbeiten und
+            digitale Kommunikationsmittel einsetzen sowie in virtuellen Teams
+            mitwirken
+
+
+        b)  Daten digital erfassen, prüfen, auswerten und sichern
+
+
+        c)  Fehler beim Datenaustausch zwischen digitalen Systemen erkennen und
+            Maßnahmen zur Beseitigung der Fehler einleiten
+
+
+        d)  Datenanalysen oder Simulationen für die Optimierung von
+            Produktionsprozessen und für die vorausschauende Instandhaltung von
+            Produktionsanlagen nutzen
+
+
+        e)  Software-Applikationen des Betriebes mit mobilen und stationären
+            Arbeitsmitteln einsetzen
+
+
+        f)  digitale Medien für das Lernen im betrieblichen Alltag selbsttätig
+            nutzen
+
+
+        g)  rechtliche und betriebliche Vorgaben zum Schutz und zur Sicherheit
+            digitaler Daten im Produktionsprozess einhalten
+
+
+
+
+    *
+    *
+    *   10
+
+
 
 
     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772200_02_BJNR136000009BJNE001400000]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
-[^f772200_03_BJNR136000009BJNE001400000]: 
+[^f772200_02_BJNR136000009BJNE001401125]:     Im Zusammenhang mit anderen Ausbildungsinhalten zu vermitteln.
+[^f772200_03_BJNR136000009BJNE001401125]: 

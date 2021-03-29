@@ -36,7 +36,7 @@ verweigert wird.
 
 (2) Dies gilt auch dann, wenn der persönliche Schuldner der durch die
 Hypothek gesicherten Forderung im Zeitpunkt der Maßnahme seinen
-Wohnsitz in dem Gebiet hatte, in dem die Maßnahme getroffen worden
+Wohnsitz in dem Gebiete hatte, in dem die Maßnahme getroffen worden
 ist.
 
 

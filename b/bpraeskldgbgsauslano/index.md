@@ -4,7 +4,7 @@ Title: Anordnung des Bundespräsidenten über die Dienstkleidung der bei den deu
   im BGS
 jurabk: BPräsKldgBGSAuslAnO
 layout: default
-origslug: bpr_skldgbgsauslano
+origslug: bpraeskldgbgsauslano
 slug: bpraeskldgbgsauslano
 
 ---

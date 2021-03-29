@@ -1,6 +1,6 @@
 ---
-Title: Verordnung über die Pflichten der Makler, Darlehensvermittler, Bauträger und
-  Baubetreuer
+Title: Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger,
+  Baubetreuer und Wohnimmobilienverwalter
 jurabk: GewO§34cDV
 layout: default
 origslug: gewo_34cdv
@@ -8,7 +8,7 @@ slug: gewo_34cdv
 
 ---
 
-# Verordnung über die Pflichten der Makler, Darlehensvermittler, Bauträger und Baubetreuer (GewO§34cDV)
+# Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger, Baubetreuer und Wohnimmobilienverwalter (GewO§34cDV)
 
 Ausfertigungsdatum
 :   1974-06-20
@@ -20,32 +20,34 @@ Neugefasst durch
 :   Bek. v. 7.11.1990 I 2479;
 
 Zuletzt geändert durch
-:   Art. 2 V v. 2.5.2012 I 1006
+:   Art. 1 V v. 9.5.2018 I 550
 
 
 ## § 1 Anwendungsbereich
 
-Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach § 34c
-Absatz 1 der Gewerbeordnung ausüben, unabhängig vom Bestehen einer
-Erlaubnispflicht. Die Verordnung gilt nicht, soweit § 34c Absatz 5 der
-Gewerbeordnung Anwendung findet. Gewerbetreibende, die
+(1) Diese Verordnung gilt für Gewerbetreibende, die Tätigkeiten nach §
+34c Absatz 1 der Gewerbeordnung ausüben, unabhängig vom Bestehen einer
+Erlaubnispflicht.
+
+(2) Diese Verordnung gilt nicht, soweit § 34c Absatz 5 der
+Gewerbeordnung anzuwenden ist. Sie gilt zudem nicht für
+Gewerbetreibende, die
 
 1.  als Versicherungs- oder Bausparkassenvertreter im Rahmen ihrer
     Tätigkeit für ein der Aufsicht der Bundesanstalt für
     Finanzdienstleistungsaufsicht unterliegendes Versicherungs- oder
-    Bausparunternehmen den Abschluß von Verträgen über Darlehen vermitteln
-    oder die Gelegenheit zum Abschluß solcher Verträge nachweisen oder
+    Bausparunternehmen den Abschluss von Verträgen über Darlehen
+    vermitteln oder die Gelegenheit zum Abschluss solcher Verträge
+    nachweisen oder
 
 
-2.  den Abschluß von Verträgen über die Nutzung der von ihnen für Rechnung
-    Dritter verwalteten Grundstücke, grundstücksgleichen Rechte,
-    gewerblichen Räume oder Wohnräume vermitteln oder die Gelegenheit zum
-    Abschluß solcher Verträge nachweisen,
+2.  als Wohnimmobilienverwalter nach § 34c Absatz 1 Satz 1 Nummer 4 der
+    Gewerbeordnung tätig sind, mit Ausnahme der §§ 9, 11, 15 bis 15b, 18
+    Absatz 1 Nummer 6, 8, 11, 11a, Absatz 2 und 3 und
+    § 19.
 
 
 
-unterliegen hinsichtlich dieser Tätigkeit nicht den Vorschriften
-dieser Verordnung.
 
 
 ## § 2 Sicherheitsleistung, Versicherung
@@ -603,7 +605,7 @@ Buchführungspflichten des Gewerbetreibenden bleiben unberührt.
 
 ## § 11 Informationspflicht und Werbung
 
-Der Gewerbetreibende hat dem Auftraggeber schriftlich und in deutscher
+Der Gewerbetreibende hat dem Auftraggeber in Textform und in deutscher
 Sprache folgende Angaben mitzuteilen, soweit sie im Einzelfall in
 Betracht kommen:
 
@@ -628,15 +630,25 @@ Betracht kommen:
     Gewerbetreibende dem Auftraggeber die Angaben zu machen, die zur
     Beurteilung des Auftrags nach dem jeweiligen Verhandlungsstand
     erforderlich sind; im Fall des § 10 Absatz 4 Nummer 3 entfällt die
-    Verpflichtung, soweit die Angaben vom Auftraggeber stammen.
+    Verpflichtung, soweit die Angaben vom Auftraggeber stammen,
+
+
+3.  in den Fällen des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung
+    auf Anfrage des Auftraggebers unverzüglich Angaben über die
+    berufsspezifischen Qualifikationen und die in den letzten drei
+    Kalenderjahren absolvierten Weiterbildungsmaßnahmen des
+    Gewerbetreibenden und der unmittelbar bei der erlaubnispflichtigen
+    Tätigkeit mitwirkenden Beschäftigten.
 
 
 
-Ist der Auftraggeber eine natürliche Person, kann er die Übermittlung
-der Angaben in der Amtssprache eines Mitgliedstaates der Europäischen
-Union oder eines Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum verlangen, wenn er in diesem Mitgliedstaat oder
-Vertragsstaat seinen Wohnsitz hat.
+Die Angaben nach Satz 1 Nummer 3 können durch Verweis auf die
+Internetseite des Gewerbetreibenden erfolgen. Ist der Auftraggeber
+eine natürliche Person, kann er die Übermittlung der Angaben in der
+Amtssprache eines Mitgliedstaates der Europäischen Union oder eines
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+verlangen, wenn er in diesem Mitgliedstaat oder Vertragsstaat seinen
+Wohnsitz hat.
 
 
 ## § 12 Unzulässigkeit abweichender Vereinbarungen
@@ -670,9 +682,134 @@ Geschäftsräumen sind für verkleinerte Wiedergaben die erforderlichen
 Lesegeräte bereitzuhalten.
 
 
-## § 15
+## § 15 Umfang der Versicherung
 
-(weggefallen)
+(1) Die nach § 34c Absatz 2 Nummer 3 der Gewerbeordnung für einen
+Wohnimmobilienverwalter vorgesehene Versicherung muss bei einem im
+Inland zum Geschäftsbetrieb zugelassenen Versicherungsunternehmen
+abgeschlossen werden.
+
+(2) Die Mindestversicherungssumme beträgt 500 000 Euro für jeden
+Versicherungsfall und 1 000 000 Euro für alle Versicherungsfälle eines
+Jahres.
+
+(3) Der Versicherungsvertrag muss Deckung für die sich aus der
+gewerblichen Tätigkeit als Wohnimmobilienverwalter ergebenden
+Haftpflichtgefahren für Vermögensschäden gewähren. Der
+Versicherungsvertrag muss sich auch auf solche Vermögensschäden
+erstrecken, für die der Versicherungspflichtige nach § 278 oder § 831
+des Bürgerlichen Gesetzbuchs einzustehen hat, soweit die
+Erfüllungsgehilfen oder Verrichtungsgehilfen nicht selbst zum
+Abschluss einer solchen Berufshaftpflichtversicherung verpflichtet
+sind. Ist der Gewerbetreibende in einer oder mehreren
+Personenhandelsgesellschaften als geschäftsführender Gesellschafter
+tätig, so muss für die jeweilige Personenhandelsgesellschaft jeweils
+ein Versicherungsvertrag abgeschlossen werden; der
+Versicherungsvertrag kann auch die Tätigkeit des Gewerbetreibenden
+nach Satz 1 abdecken.
+
+(4) Der Versicherungsvertrag hat Versicherungsschutz für jede einzelne
+Pflichtverletzung zu gewähren, die gesetzliche Haftpflichtansprüche
+privatrechtlichen Inhalts gegen den Versicherungspflichtigen zur Folge
+haben könnte. Dabei kann vereinbart werden, dass sämtliche
+Pflichtverletzungen bei Erledigung einer einheitlichen Verwaltung von
+Wohnimmobilien als ein Versicherungsfall gelten, sofern die
+betreffenden Angelegenheiten in einem rechtlichen oder
+wirtschaftlichen Zusammenhang stehen.
+
+(5) Von der Versicherung kann die Haftung für Ersatzansprüche wegen
+wissentlicher Pflichtverletzung ausgeschlossen werden. Weitere
+Ausschlüsse sind nur insoweit zulässig, als sie marktüblich sind und
+dem Zweck der Berufshaftpflichtversicherung nicht zuwiderlaufen.
+
+
+## § 15a Versicherungsbestätigung; Anzeigepflicht des Versicherungsunternehmens
+
+(1) Die vom Versicherungsunternehmen erteilte Versicherungsbestätigung
+nach § 113 Absatz 2 des Versicherungsvertragsgesetzes darf zum
+Zeitpunkt der Antragstellung bei der für die Erlaubniserteilung
+zuständigen Behörde nicht älter als drei Monate sein.
+
+(2) Das Versicherungsunternehmen ist verpflichtet, der für die
+Erlaubniserteilung zuständigen Behörde unverzüglich Folgendes
+anzuzeigen:
+
+1.  die Beendigung des Versicherungsvertrags, insbesondere infolge einer
+    wirksamen Kündigung,
+
+
+2.  das Ausscheiden eines Versicherungsnehmers aus einem
+    Gruppenversicherungsvertrag sowie
+
+
+3.  jede Änderung des Versicherungsvertrags, die den vorgeschriebenen
+    Versicherungsschutz im Verhältnis zu Dritten beeinträchtigen kann.
+
+
+
+Die für die Erlaubniserteilung zuständige Behörde hat dem
+Versicherungsunternehmen das Datum des Eingangs der Anzeige
+mitzuteilen.
+
+(3) Die zuständige Stelle im Sinne des § 117 Absatz 2 des
+Versicherungsvertragsgesetzes ist die für die Erlaubniserteilung nach
+§ 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung zuständige Behörde.
+
+
+## § 15b Weiterbildung
+
+(1) Wer nach § 34c Absatz 2a der Gewerbeordnung zur Weiterbildung
+verpflichtet ist, muss sich fachlich entsprechend seiner ausgeübten
+Tätigkeit weiterbilden. Die inhaltlichen Anforderungen an die
+Weiterbildung sind an den Vorgaben der Anlage 1 auszurichten. Die
+Weiterbildung kann in Präsenzform, in einem begleiteten Selbststudium,
+durch betriebsinterne Maßnahmen des Gewerbetreibenden oder in einer
+anderen geeigneten Form erfolgen. Bei Weiterbildungsmaßnahmen in einem
+begleiteten Selbststudium ist eine nachweisbare Lernerfolgskontrolle
+durch den Anbieter der Weiterbildung erforderlich. Der Anbieter der
+Weiterbildung muss sicherstellen, dass die in Anlage 2 aufgeführten
+Anforderungen an die Qualität der Weiterbildungsmaßnahme eingehalten
+werden. Der Erwerb eines Ausbildungsabschlusses als Immobilienkaufmann
+oder Immobilienkauffrau oder eines Weiterbildungsabschlusses als
+Geprüfter Immobilienfachwirt oder Geprüfte Immobilienfachwirtin gilt
+als Weiterbildung.
+
+(2) Die zur Weiterbildung verpflichteten Gewerbetreibenden sind
+verpflichtet, nach Maßgabe des Satzes 2 Nachweise und Unterlagen zu
+sammeln über Weiterbildungsmaßnahmen, an denen sie und ihre zur
+Weiterbildung verpflichteten Beschäftigten teilgenommen haben. Aus den
+Nachweisen und Unterlagen müssen mindestens ersichtlich sein:
+
+1.  Name und Vorname des Gewerbetreibenden oder der Beschäftigten,
+
+
+2.  Datum, Umfang, Inhalt und Bezeichnung der Weiterbildungsmaßnahme sowie
+
+
+3.  Name und Vorname oder Firma sowie Adresse und Kontaktdaten des in
+    Anspruch genommenen Weiterbildungsanbieters.
+
+
+
+Die in Satz 1 genannten Nachweise und Unterlagen sind fünf Jahre auf
+einem dauerhaften Datenträger vorzuhalten und in den Geschäftsräumen
+aufzubewahren. Die Aufbewahrungsfrist beginnt mit dem Ende des
+Kalenderjahres, in dem die Weiterbildungsmaßnahme durchgeführt wurde.
+
+(3) Die für die Erlaubniserteilung zuständige Behörde kann anordnen,
+dass der Gewerbetreibende ihr gegenüber eine unentgeltliche Erklärung
+mit dem Inhalt nach dem Muster der Anlage 3 über die Erfüllung der
+Weiterbildungspflicht in den vorangegangenen drei Kalenderjahren durch
+ihn und seine zur Weiterbildung verpflichteten Beschäftigten abgibt.
+Die Erklärung kann elektronisch erfolgen.
+
+(4) Für zur Weiterbildung verpflichtete Gewerbetreibende und ihre zur
+Weiterbildung verpflichteten Beschäftigten, die im Besitz eines
+Ausbildungsabschlusses als Immobilienkaufmann oder Immobilienkauffrau
+oder eines Weiterbildungsabschlusses als Geprüfter Immobilienfachwirt
+oder Geprüfte Immobilienfachwirtin sind, beginnt die Pflicht zur
+Weiterbildung drei Jahre nach Erwerb des Ausbildungs- oder
+Weiterbildungsabschlusses.
 
 
 ## § 16 Prüfungen
@@ -684,13 +821,13 @@ einen geeigneten Prüfer prüfen zu lassen und der zuständigen Behörde
 den Prüfungsbericht bis spätestens zum 31. Dezember des
 darauffolgenden Jahres zu übermitteln. Sofern der Gewerbetreibende im
 Berichtszeitraum keine nach § 34c Abs. 1 Satz 1 der Gewerbeordnung
-erlaubnispflichtige Tätigkeit ausgeübt hat, hat der spätestens bis zu
+erlaubnispflichtige Tätigkeit ausgeübt hat, hat er spätestens bis zu
 dem in Satz 1 genannten Termin anstelle des Prüfungsberichts eine
 entsprechende Erklärung zu übermitteln. Der Prüfungsbericht muß einen
 Vermerk darüber enthalten, ob Verstöße des Gewerbetreibenden
 festgestellt worden sind. Verstöße sind in dem Vermerk aufzuzeigen.
 Der Prüfer hat den Vermerk mit Angabe von Ort und Datum zu
-unterzeichnen.
+unterzeichnen, wobei die elektronische Namenswiedergabe genügt.
 
 (2) Die zuständige Behörde ist befugt, Gewerbetreibende im Sinne des §
 34c Abs. 1 der Gewerbeordnung auf deren Kosten aus besonderem Anlaß im
@@ -798,7 +935,7 @@ handelt, wer
     sammelt,
 
 
-8.  entgegen § 11 Satz 1 Nummer 1 oder 2 dem Auftraggeber die dort
+8.  entgegen § 11 Satz 1 Nummer 1, 2 oder 3 dem Auftraggeber die dort
     bezeichneten Angaben nicht, nicht richtig, nicht vollständig oder
     nicht rechtzeitig mitteilt,
 
@@ -810,7 +947,12 @@ handelt, wer
     vorgeschriebenen Frist aufbewahrt,
 
 
-11. (weggefallen)
+11. entgegen § 15b Absatz 2 Satz 3 einen Nachweis oder eine Unterlage
+    nicht oder nicht mindestens fünf Jahre aufbewahrt,
+
+
+11a. einer vollziehbaren Anordnung nach § 15b Absatz 3 Satz 1
+    zuwiderhandelt,
 
 
 12. entgegen § 16 Abs. 1 Satz 1 oder 2 einen Prüfungsbericht nicht, nicht
@@ -840,21 +982,41 @@ Marktgewerbes begeht.
 (1) Üben Gewerbetreibende von einer Niederlassung in einem anderen
 Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
 des Abkommens über den Europäischen Wirtschaftsraum aus im
-Geltungsbereich dieser Verordnung vorübergehend selbständig
-gewerbsmäßig eine Tätigkeit nach § 34c Absatz 1 Satz 1 Nummer 1 oder
-Nummer 3 der Gewerbeordnung aus, sind die §§ 8 bis 11, 14 bis 17, 18
-Absatz 1 Nummer 6 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2
-und 3, insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt
+Geltungsbereich der Gewerbeordnung vorübergehend selbständig eine
+Tätigkeit
+
+1.  nach § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung
+    aus, sind die §§ 8 bis 11, 14 bis 17, 18 Absatz 1 Nummer 6 bis 13,
+    jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+
+
+2.  nach § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung aus, sind die
+    §§ 9, 11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch
+    in Verbindung mit § 18 Absatz 2 und 3
+
+
+
+insoweit nicht anwendbar. § 4 Absatz 2 der Gewerbeordnung gilt
 entsprechend.
 
-(2) In den Fällen des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der
-Gewerbeordnung sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2,
-4, 5 und 7 bis 13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+(2) In den Fällen
+
+1.  des § 34c Absatz 1 Satz 1 Nummer 1 oder Nummer 3 der Gewerbeordnung
+    sind die §§ 2, 4 bis 8, 10 bis 18 Absatz 1 Nummer 1, 2, 4, 5 und 7 bis
+    13, jeweils auch in Verbindung mit § 18 Absatz 2 und 3,
+
+
+2.  des § 34c Absatz 1 Satz 1 Nummer 4 der Gewerbeordnung sind die §§ 9,
+    11, 15 bis 15b, 18 Absatz 1 Nummer 6, 8, 11, 11a, jeweils auch in
+    Verbindung mit § 18 Absatz 2 und 3
+
+
+
 auch anzuwenden, wenn der im Inland niedergelassene Gewerbetreibende
 die Dienstleistungsfreiheit in einem anderen Mitgliedstaat der
 Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
 den Europäischen Wirtschaftsraum in Anspruch nimmt und dort
-vorübergehend selbständig gewerbsmäßig tätig wird.
+vorübergehend selbständig tätig wird.
 
 
 ## § 20 Übergangsvorschriften
@@ -874,3 +1036,536 @@ Vorschriften abwickeln.
 
 (Inkrafttreten)
 
+
+## Anlage 1 (zu § 15b Absatz 1)
+
+(Fundstelle: BGBl. I 2018, 552 — 554)
+
+## **A. Inhaltliche Anforderungen an die Weiterbildung für
+Immobilienmakler**
+
+
+**1.** **Kundenberatung**
+
+
+1.1 Serviceerwartungen des Kunden
+
+
+1.2 Besuchsvorbereitung/Kundengespräch/Kundensituation
+
+
+1.3 Kundenbetreuung
+
+
+**2.** **Grundlagen des Maklergeschäfts**
+
+
+2.1 Teilmärkte des Immobilienmarktes
+
+
+2.2 Preisbildung am Immobilienmarkt
+
+
+2.3 Objektangebot und Objektanalyse
+
+
+2.4 Die Wertermittlung
+
+
+2.5 Gebäudepläne, Bauzeichnungen und Baubeschreibungen
+
+
+2.6 Relevante Versicherungsarten im Immobilienbereich
+
+
+2.7 Umwelt- und Energiethemen im Immobilienbereich
+
+
+**3.** **Rechtliche Grundlagen**
+
+
+3.1 Bürgerliches Gesetzbuch
+
+
+3.1.1 Allgemeines Vertragsrecht
+
+
+3.1.2 Maklervertragsrecht
+
+
+3.1.3 Mietrecht
+
+
+3.1.4 Grundstückskaufvertragsrecht
+
+
+3.1.5 Bauträgervertragsrecht
+
+
+3.2 Grundbuchrecht
+
+
+3.3 Wohnungseigentumsgesetz
+
+
+3.4 Wohnungsvermittlungsgesetz
+
+
+3.5 Zweckentfremdungsrecht
+
+
+3.6 Geldwäschegesetz
+
+
+3.7 Makler- und Bauträgerverordnung
+
+
+3.8 Informationspflichten des Maklers
+
+
+3.8.1 Dienstleistungs-Informationspflichten-Verordnung
+
+
+3.8.2 Telemediengesetz
+
+
+3.8.3 Preisangabenverordnung
+
+
+3.8.4 Energieeinsparverordnung
+
+
+**4.** **Wettbewerbsrecht**
+
+
+4.1.1 Allgemeine Wettbewerbsgrundsätze
+
+
+4.1.2 Unzulässige Werbung
+
+
+**5.** **Verbraucherschutz**
+
+
+5.1.1 Grundlagen des Verbraucherschutzes
+
+
+5.1.2 Schlichtungsstellen
+
+
+5.1.3 Datenschutz
+
+
+**6.** **Grundlagen Immobilien und Steuern**
+
+
+6.1 Einkommensteuern
+
+
+6.2 Körperschaftsteuern
+
+
+6.3 Gewerbesteuer
+
+
+6.4 Umsatzsteuer
+
+
+6.5 Bewertungsgesetzabhängige Steuern
+
+
+6.6 Spezielle Verkehrssteuern (Grunderwerb- und Grundsteuern)
+
+
+**7.** **Grundlagen der Finanzierung**
+
+
+7.1 Allgemeine Investitionsgrundlage und Finanzierungsrechnung
+
+
+7.2 Kostenerfassung
+
+
+7.3 Eigenkapital und Kapitaldienstfähigkeit
+
+
+7.4 Kosten einer Finanzierung
+
+
+7.5 Kreditsicherung und Beleihungsprüfung
+
+
+7.6 Förderprogramme, Wohnriester
+
+
+7.7 Absicherung des Kreditrisikos im Todesfall
+
+
+7.8 Steuerliche Aspekte der Finanzierung
+
+
+
+
+## **B. Inhaltliche Anforderungen an die Weiterbildung für
+Wohnimmobilienverwalter**
+
+
+**1.** **Grundlagen der Immobilienwirtschaft**
+
+
+1.1 Lebenszyklus der Immobilie
+
+
+1.2 Abgrenzung Facility Management – Gebäudemanagement
+
+
+1.3 Gebäudepläne, Bauzeichnungen und Baubeschreibungen
+
+
+1.4 Relevante Versicherungsarten im Immobilienbereich
+
+
+1.5 Umwelt- und Energiethemen im Immobilienbereich
+
+
+**2.** **Rechtliche Grundlagen**
+
+
+2.1 Bürgerliches Gesetzbuch
+
+
+2.1.1 Allgemeines Vertragsrecht
+
+
+2.1.2 Mietrecht
+
+
+2.1.3 Werkvertragsrecht
+
+
+2.1.4 Grundstücksrecht
+
+
+2.2 Grundbuchrecht
+
+
+2.3 Wohnungseigentumsgesetz
+
+
+2.4 Rechtsdienstleistungsgesetz
+
+
+2.5 Zweckentfremdungsrecht
+
+
+2.6 Makler- und Bauträgerverordnung
+
+
+2.7 Betriebskostenverordnung
+
+
+2.8 Heizkostenverordnung
+
+
+2.9 Trinkwasserverordnung
+
+
+2.10 Wohnflächenverordnung
+
+
+2.11 Grundzüge des Mietprozess- und Zwangsvollstreckungsrechts
+
+
+2.12 Informationspflichten des Verwalters
+
+
+2.12.1 Dienstleistungs-Informationspflichten-Verordnung
+
+
+2.12.2 Telemediengesetz
+
+
+2.12.3 Preisangabenverordnung
+
+
+2.12.4 Energieeinsparverordnung
+
+
+**3.** **Kaufmännische Grundlagen**
+
+
+3.1 Allgemeine kaufmännische Grundlagen
+
+
+3.1.1 Grundzüge ordnungsgemäßer Buchführung
+
+
+3.1.2 Externes und internes Rechnungswesen
+
+
+3.2 Spezielle kaufmännische Grundlagen des WEG-Verwalters
+
+
+3.2.1 Sonderumlagen/Instandhaltungsrücklage
+
+
+3.2.2 Erstellung der Jahresabrechnung und des Wirtschaftsplans
+
+
+3.2.3 Hausgeld, Mahnwesen
+
+
+3.3 Spezielle kaufmännische Grundlagen des Mietverwalters
+
+
+3.3.1 Rechnungswesen
+
+
+3.3.2 Verwaltung von Konten
+
+
+3.3.3 Bewirtschaftung
+
+
+**4.** **Verwaltung von Wohnungseigentumsobjekten**
+
+
+4.1 Begründung von Wohnungs- und Teileigentum
+
+
+4.2 Teilungserklärung und Gemeinschaftsordnung
+
+
+4.3 Rechte und Pflichten der Wohnungseigentümer
+
+
+4.4 Pflichten des WEG-Verwalters
+
+
+4.4.1 Durchführung von Eigentümerversammlungen
+
+
+4.4.2 Beschlussfassung
+
+
+4.4.3 Umsetzung von Beschlüssen der Eigentümerversammlung
+
+
+4.5 Sonstige Aufgaben des WEG-Verwalters
+
+
+4.5.1 Verwalterbestellung, Verwaltervertrag
+
+
+4.5.2 Verwaltungsbeirat
+
+
+4.5.3 Konflikt-, Beschwerde- und Sozialmanagement
+
+
+4.6 Objektmanagement
+
+
+**5.** **Verwaltung von Mietobjekten**
+
+
+5.1 Bewirtschaftung von Mietobjekten
+
+
+5.2 Objektmanagement
+
+
+5.3 Konflikt-, Beschwerde- und Sozialmanagement
+
+
+5.4 Sonstige Aufgaben des Mietverwalters
+
+
+5.4.1 Vermietung
+
+
+5.4.1.1 Mieterauswahl
+
+
+5.4.1.2 Ausgestaltung des Mietvertrages
+
+
+5.4.1.3 Mieterhöhungen und Mietsicherheiten
+
+
+5.4.2 Allgemeine Verwaltung der Mietwohnung
+
+
+5.4.2.1 Bearbeitung von Mängelanzeigen
+
+
+5.4.2.2 Erstellung von Betriebskostenabrechnungen
+
+
+5.4.2.3 Beendigung und Abwicklung von Mietverhältnissen
+
+
+**6.** **Technische Grundlagen der Immobilienverwaltung**
+
+
+6.1 Baustoffe und Baustofftechnologie
+
+
+6.2 Haustechnik
+
+
+6.3 Erkennen von Mängeln
+
+
+6.4 Verkehrssicherungspflichten
+
+
+6.5 Instandhaltungs- und Instandsetzungsplanung; modernisierende
+    Instandhaltung
+
+
+6.6 Energetische Gebäudesanierung und Modernisierung
+
+
+6.7 Altersgerechte und barrierefreie Umbauten
+
+
+6.8 Fördermitteleinsatz; Beantragung von Fördermitteln
+
+
+6.9 Dokumentation
+
+
+**7.** **Wettbewerbsrecht**
+
+
+7.1.1 Allgemeine Wettbewerbsgrundsätze
+
+
+7.1.2 Unzulässige Werbung
+
+
+**8.** **Verbraucherschutz**
+
+
+8.1.1 Grundlagen des Verbraucherschutzes
+
+
+8.1.2 Schlichtungsstellen
+
+
+8.1.3 Datenschutz
+
+
+
+
+
+## Anlage 2 (zu § 15b Absatz 1)
+
+(Fundstelle: BGBl. I 2018, 555)
+
+## **Anforderungen an die Qualität der Weiterbildungsmaßnahme**
+
+Einer Weiterbildungsmaßnahme muss eine Planung zugrunde liegen, sie
+muss systematisch organisiert und die Qualität derjenigen, die die
+Weiterbildung durchführen, muss sichergestellt sein.
+
+
+**1.** **Planung**
+
+
+1.1 Die Weiterbildungsmaßnahme ist mit zeitlichem Vorlauf zu ihrer
+    Durchführung konzipiert.
+
+
+1.2 Die Weiterbildungsmaßnahme ist in nachvollziehbarer Form für die
+    Teilnehmer beschrieben.
+
+
+1.3 Der Weiterbildungsmaßnahme liegt eine Ablaufplanung zugrunde, auf die
+    sich die Durchführung stützt.
+
+
+**2.** **Systematische Organisation**
+
+
+2.1 Teilnehmer erhalten im Vorfeld der Weiterbildungsmaßnahme eine
+    Information bzw. eine Einladung in Textform.
+
+
+2.2 Die Information bzw. die Einladung enthält eine Beschreibung der
+    Weiterbildungsmaßnahme, aus der die Teilnehmer die erwerbbaren
+    Kompetenzen sowie den Umfang der Weiterbildungsmaßnahme in Zeitstunden
+    entnehmen können.
+
+
+2.3 Die Anwesenheit des Teilnehmers wird vom Durchführenden der
+    Weiterbildungsmaßnahme verbindlich dokumentiert und nachvollziehbar
+    archiviert. Dies gilt auch für Lernformen wie dem selbstgesteuerten
+    Lernen, dem blended-Learning und dem e-Learning. Bei
+    Weiterbildungsmaßnahmen im Selbststudium ist eine nachweisbare
+    Lernerfolgskontrolle durch den Anbieter der Weiterbildung
+    sicherzustellen.
+
+
+**3.** **Sicherstellung der Qualität der Durchführenden der Weiterbildung**
+
+
+3.1 Für diejenigen, die die Weiterbildungsmaßnahme durchführen, liegen
+    Anforderungsprofile vor.
+
+
+3.2 Systematische Prozesse stellen die Einhaltung dieser Anforderungen
+    sicher.
+
+
+
+
+
+## Anlage 3 (zu § 15b Absatz 3)
+
+(Fundstelle: BGBl. I 2018, 556)
+
+Erklärung
+über die Erfüllung der Weiterbildungsverpflichtung
+## nach § 34c Absatz 2a GewO i. V. m. § 15b Absatz 1 MaBV
+
+## **für den Zeitraum …**
+
+
+*    *   Name, Vorname, ggf. Unternehmensbezeichnung des Gewerbetreibenden
+
+
+*    *   Bei juristischen Personen: Name, Vorname des gesetzlichen Vertreters
+
+
+*    *   Straße, Hausnummer
+
+
+*    *   PLZ
+
+    *   Ort
+
+
+*    *[^F802582_01_BJNR013140974BJNE002700118]
+   Telefon
+
+    *   Fax\*
+
+    *   E-Mail\*
+
+
+*    *   Bezeichnung der Weiterbildungsmaßnahme, Datum, Inhalt, Umfang
+        (Stunden), in Anspruch genommener Weiterbildungsanbieter
+
+
+
+_\_\__\_\__\_\__\_\__
+
+Ich bestätige, dass die nach § 34c Absatz 2a GewO bestehende
+Verpflichtung zur Weiterbildung eingehalten worden ist.
+
+Ort, Datum, Unterschrift des Gewerbetreibenden
+
+    (Angaben sind freiwillig)
+[^F802582_01_BJNR013140974BJNE002700118]: 

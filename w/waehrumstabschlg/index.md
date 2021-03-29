@@ -2,7 +2,7 @@
 Title: Gesetz zum Abschluß der Währungsumstellung
 jurabk: WährUmStAbschlG
 layout: default
-origslug: w_hrumstabschlg
+origslug: waehrumstabschlg
 slug: waehrumstabschlg
 
 ---

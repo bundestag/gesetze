@@ -3,7 +3,7 @@ Title: Dritte Verordnung über die Inkraftsetzung von Änderungen der Anhänge I
   II des Übereinkommens zur Erhaltung der wandernden wildlebenden Tierarten
 jurabk: WildTArtÜbkInkrÄndV 3
 layout: default
-origslug: wildtart_bkinkr_ndv_3
+origslug: wildtartuebkinkraendv_3
 slug: wildtartuebkinkraendv_3
 
 ---

@@ -15,8 +15,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2010, 1900
 
-Geändert durch
-:   Art. 2 Abs. 75 G v. 22.12.2011 I 3044
+Zuletzt geändert durch
+:   Art. 9 G v. 22.12.2015 I 2565
 
 
 ## Abschnitt 1 - Allgemeine Bestimmungen
@@ -94,10 +94,11 @@ Sanierungsberater vorschlagen, wenn sie den vom Kreditinstitut
 vorgeschlagenen Sanierungsberater für ungeeignet hält.
 
 (4) Sofern die Bundesanstalt keine abweichende Bestimmung trifft, gilt
-der Antrag als zurückgenommen, wenn eine Maßnahme nach den §§ 45c, 46,
-46b oder den §§ 48a bis 48m des Kreditwesengesetzes angeordnet wird.
-Die Bundesanstalt zeigt dem Oberlandesgericht die Anordnung in diesen
-Fällen an.
+der Antrag als zurückgenommen, wenn eine Maßnahme nach den §§ 45c, 46
+oder 46b des Kreditwesengesetzes angeordnet wird oder eine
+Abwicklungsanordnung im Sinne des § 77 des Sanierungs- und
+Abwicklungsgesetzes ergeht. Die Bundesanstalt zeigt dem
+Oberlandesgericht die Anordnung in diesen Fällen an.
 
 (5) Die Bundesanstalt trifft die Entscheidungen über Maßnahmen nach
 Absatz 3 im Benehmen mit der Bundesanstalt für
@@ -197,9 +198,10 @@ Vergütung und auf Erstattung angemessener Auslagen. Das
 Oberlandesgericht setzt die Höhe der Vergütung und der notwendigen
 Auslagen auf Antrag des Sanierungsberaters nach Anhörung des
 Kreditinstituts durch unanfechtbaren Beschluss fest. Das
-Bundesministerium der Justiz wird ermächtigt, die Vergütung und die
-Erstattung der Auslagen des Sanierungsberaters durch Rechtsverordnung
-ohne Zustimmung des Bundesrates näher zu regeln.
+Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, die Vergütung und die Erstattung der Auslagen des
+Sanierungsberaters durch Rechtsverordnung ohne Zustimmung des
+Bundesrates näher zu regeln.
 
 
 ### § 5 Gerichtliche Maßnahmen
@@ -283,9 +285,8 @@ Reorganisationsplans durch den Sanierungsberater.
 
 (2) Nach der Anzeige durch das Kreditinstitut kann die Bundesanstalt
 einen Antrag auf Durchführung des Reorganisationsverfahrens stellen,
-wenn eine Bestandsgefährdung des Kreditinstituts nach § 48b Absatz 1
-des Kreditwesengesetzes vorliegt, die zu einer Systemgefährdung nach §
-48b Absatz 2 des Kreditwesengesetzes führt.
+wenn die Voraussetzungen für eine Abwicklungsanordnung im Sinne des §
+77 des Sanierungs- und Abwicklungsgesetzes vorliegen.
 
 (3) Das Oberlandesgericht weist den Reorganisationsplan und den Antrag
 auf Durchführung des Reorganisationsverfahrens zurück, wenn die
@@ -399,18 +400,19 @@ Kreditinstitut überträgt. Der gestaltende Teil des
 Reorganisationsplans kann auch festlegen, dass einzelne
 Vermögensgegenstände, Verbindlichkeiten oder Rechtsverhältnisse auf
 das übertragende Kreditinstitut zurückübertragen werden. Der
-Reorganisationsplan hat mindestens die in § 48e Absatz 1 Nummer 1 bis
-4 des Kreditwesengesetzes genannten Angaben sowie Angaben über die
-Folgen der Ausgliederung für die Arbeitnehmer und ihre Vertretungen
-sowie die insoweit vorgesehenen Maßnahmen zu enthalten. § 48k Absatz 2
-Satz 3 des Kreditwesengesetzes gilt entsprechend.
+Reorganisationsplan hat mindestens die in § 136 Absatz 1 Nummer 1, 2,
+3 und 5 des Sanierungs- und Abwicklungsgesetzes genannten Angaben
+sowie Angaben über die Folgen der Ausgliederung für die Arbeitnehmer
+und ihre Vertretungen sowie die insoweit vorgesehenen Maßnahmen zu
+enthalten. § 110 Absatz 2 des Sanierungs- und Abwicklungsgesetzes gilt
+entsprechend.
 
 (2) Sieht der Reorganisationsplan eine Ausgliederung zur Aufnahme vor,
 so darf er durch das Oberlandesgericht nur bestätigt werden, wenn eine
 notariell beurkundete Zustimmungserklärung des übernehmenden
-Rechtsträgers vorliegt. Im Übrigen gelten § 48c Absatz 5 und § 48f
-Absatz 2 und 3 Satz 2 sowie Absatz 4 des Kreditwesengesetzes sowie §
-21 Absatz 3 für die Zuleitung an das Registergericht des übernehmenden
+Rechtsträgers vorliegt. Im Übrigen gelten § 115 Absatz 1 Satz 2 und
+Absatz 3 des Sanierungs- und Abwicklungsgesetzes sowie § 21 Absatz 3
+für die Zuleitung an das Registergericht des übernehmenden
 Rechtsträgers entsprechend.
 
 (3) Ist im Reorganisationsplan eine Ausgliederung zur Neugründung
@@ -418,10 +420,9 @@ vorgesehen, so muss die in den Reorganisationsplan aufzunehmende
 Satzung des neuen Rechtsträgers der Satzung des Kreditinstituts
 nachgebildet werden. Die für die Rechtsform des neuen Rechtsträgers
 geltenden Gründungsvorschriften sind anzuwenden; § 21 Absatz 1 Satz 2
-und 3 bleibt unberührt. Eine Schlussbilanz entsprechend § 48f Absatz 2
-Satz 1 des Kreditwesengesetzes ist beizufügen; § 21 Absatz 3 gilt für
-die Zuleitung an das Registergericht des neuen Rechtsträgers
-entsprechend.
+und 3 bleibt unberührt. Eine Schlussbilanz im Sinne des Absatzes 2
+Satz 2 ist beizufügen; § 21 Absatz 3 gilt für die Zuleitung an das
+Registergericht des neuen Rechtsträgers entsprechend.
 
 (4) Für Verbindlichkeiten des ausgliedernden Kreditinstituts, die vor
 Wirksamwerden der Ausgliederung begründet worden sind, haften als
@@ -432,8 +433,8 @@ gesamtschuldnerische Haftung des übernehmenden oder des neuen
 Rechtsträgers ist auf den Betrag beschränkt, den die Gläubiger ohne
 eine Ausgliederung erhalten hätten. Die Forderungen der Gläubiger, die
 vom Reorganisationsplan erfasst werden, bestimmen sich ausschließlich
-nach den Festlegungen dieses Plans. § 48h Absatz 2 des
-Kreditwesengesetzes gilt entsprechend.
+nach den Festlegungen dieses Plans. § 141 des Sanierungs- und
+Abwicklungsgesetzes gilt entsprechend.
 
 
 ### § 12 Eingriffe in Gläubigerrechte
@@ -569,7 +570,7 @@ Hauptversammlung über den Reorganisationsplan ab.
 (2) Die Hauptversammlung wird durch den Reorganisationsberater
 einberufen. Die Einberufung zur Hauptversammlung muss spätestens am
 21\. Tag vor der Hauptversammlung erfolgen. § 121 Absatz 3 bis 7, § 123
-Absatz 1 Satz 2, Absatz 2 und 3 und die §§ 124 bis 125 des
+Absatz 1 Satz 2, Absatz 2 bis 5 und die §§ 124 bis 125 des
 Aktiengesetzes sind anzuwenden.
 
 (3) Der Beschluss über die Annahme des Reorganisationsplans bedarf der
@@ -786,8 +787,9 @@ Reorganisationsplans auch nach Aufhebung des Reorganisationsverfahrens
     Reorganisationsverfahrens vorliegt oder
 
 
-3.  wenn die Bundesanstalt Maßnahmen nach den §§ 45c, 46, 46b oder den §§
-    48a bis 48m des Kreditwesengesetzes anordnet.
+3.  wenn die Bundesanstalt Maßnahmen nach den §§ 45c, 46 oder 46b des
+    Kreditwesengesetzes anordnet oder eine Abwicklungsanordnung im Sinne
+    des § 77 des Sanierungs- und Abwicklungsgesetzes ergeht.
 
 
 

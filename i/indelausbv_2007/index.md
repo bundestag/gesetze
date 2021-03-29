@@ -15,22 +15,15 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2007, 1678
 
+Neugefasst durch
+:   Bek. v. 28.6.2018 I 896
+
 Die Rechtsverordnung ist eine Ausbildungsordnung im Sinne des § 4 des
 Berufsbildungsgesetzes. Die Ausbildungsordnung und der damit
 abgestimmte, von der Ständigen Konferenz der Kultusminister der Länder
 in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan für die
 Berufsschule werden demnächst als Beilage zum Bundesanzeiger
 veröffentlicht.
-
-
-## Eingangsformel
-
-Auf Grund des § 4 Abs. 1 in Verbindung mit § 5 des
-Berufsbildungsgesetzes vom 23. März 2005 (BGBl. I S. 931), von denen §
-4 Abs. 1 durch Artikel 232 Nr. 1 der Verordnung vom 31. Oktober 2006
-(BGBl. I S. 2407) geändert worden ist, verordnet das Bundesministerium
-für Wirtschaft und Technologie im Einvernehmen mit dem
-Bundesministerium für Bildung und Forschung:
 
 
 ## Teil 1 - Gemeinsame Vorschriften
@@ -56,15 +49,12 @@ Die Ausbildungsberufe
     Systeme,
 
 
-5.  Systeminformatiker/Systeminformatikerin,
-
-
-6.  Elektroniker für luftfahrttechnische Systeme/Elektronikerin für
-    luftfahrttechnische Systeme
+5.  Elektroniker für Informations- und Systemtechnik und Elektronikerin
+    für Informations- und Systemtechnik
 
 
 
-werden gemäß § 4 Abs. 1 des Berufsbildungsgesetzes staatlich
+werden gemäß § 4 Absatz 1 des Berufsbildungsgesetzes staatlich
 anerkannt.
 
 
@@ -79,22 +69,59 @@ Die Ausbildung dauert dreieinhalb Jahre.
 Fähigkeiten (berufliche Handlungsfähigkeit) sollen prozessbezogen
 vermittelt werden. Diese Qualifikationen sollen so vermittelt werden,
 dass die Auszubildenden zur Ausübung einer qualifizierten beruflichen
-Tätigkeit im Sinne des § 1 Abs. 3 des Berufsbildungsgesetzes befähigt
-werden, die insbesondere selbstständiges Planen, Durchführen und
-Kontrollieren sowie das Handeln im betrieblichen Gesamtzusammenhang
-einschließt. Die in Satz 2 beschriebene Befähigung ist auch in den
-Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18, 21 und 22, 25
-und 26 sowie 29 und 30 nachzuweisen.
+Tätigkeit im Sinne des § 1 Absatz 3 des Berufsbildungsgesetzes
+befähigt werden, die insbesondere selbstständiges Planen, Durchführen
+und Kontrollieren sowie das Handeln im betrieblichen
+Gesamtzusammenhang einschließt. Die in Satz 2 beschriebene Befähigung
+ist auch in den Prüfungen nach den §§ 9 und 10, 13 und 14, 17 und 18,
+21 und 22 sowie 25 und 26 nachzuweisen.
 
-(2) Die gemeinsamen Kernqualifikationen nach § 7 Abs. 1 Nr. 1 bis 11,
-§ 11 Abs. 1 Nr. 1 bis 11, § 15 Abs. 1 Nr. 1 bis 11, § 19 Abs. 1 Nr. 1
-bis 11, § 23 Abs. 1 Nr. 1 bis 11 und § 27 Abs. 1 Nr. 1 bis 11 und die
-berufspezifischen Fachqualifikationen nach § 7 Abs. 1 Nr. 12 bis 17, §
-11 Abs. 1 Nr. 12 bis 17, § 15 Abs. 1 Nr. 12 bis 17, § 19 Abs. 1 Nr. 12
-bis 17, § 23 Abs. 1 Nr. 12 bis 17 und § 27 Abs. 1 Nr. 12 bis 17 haben
-jeweils einen Umfang von 21 Monaten und werden verteilt über die
-gesamte Ausbildungszeit integriert auch unter Berücksichtigung des
-Nachhaltigkeitsaspekts vermittelt.
+(2) Jeweils einen Umfang von 21 Monaten haben
+
+1.  die gemeinsamen Kernqualifikationen nach
+
+    a)  § 7 Absatz 1 Nummer 1 bis 12,
+
+
+    b)  § 11 Absatz 1 Nummer 1 bis 12,
+
+
+    c)  § 15 Absatz 1 Nummer 1 bis 12,
+
+
+    d)  § 19 Absatz 1 Nummer 1 bis 12 und
+
+
+    e)  § 23 Absatz 1 Nummer 1 bis 12 sowie
+
+
+
+
+
+2.  die berufsspezifischen Fachqualifikationen nach
+
+    a)  § 7 Absatz 1 Nummer 13 bis 18,
+
+
+    b)  § 11 Absatz 1 Nummer 13 bis 18,
+
+
+    c)  § 15 Absatz 1 Nummer 13 bis 18,
+
+
+    d)  § 19 Absatz 1 Nummer 13 bis 18 und
+
+
+    e)  § 23 Absatz 1 Nummer 13 bis 18.
+
+
+
+
+
+
+Sie sind während der gesamten Ausbildungszeit integriert zu
+vermitteln. Bei der Vermittlung ist der Nachhaltigkeitsaspekt zu
+berücksichtigen.
 
 (3) Im Rahmen der berufsspezifischen Fachqualifikationen ist die
 berufliche Handlungskompetenz in einem Einsatzgebiet durch
@@ -109,13 +136,8 @@ Die Ausbildenden haben unter Zugrundelegung des Ausbildungsrahmenplans
 für die Auszubildenden einen Ausbildungsplan zu erstellen.
 
 
-### § 5 Schriftlicher Ausbildungsnachweis
+### § 5 (weggefallen)
 
-Die Auszubildenden haben einen schriftlichen Ausbildungsnachweis zu
-führen. Ihnen ist Gelegenheit zu geben, den schriftlichen
-Ausbildungsnachweis während der Ausbildungszeit zu führen. Die
-Ausbildenden haben den schriftlichen Ausbildungsnachweis regelmäßig
-durchzusehen.
 
 
 ### § 6 Abschlussprüfung
@@ -154,44 +176,47 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+8.  Montieren und Anschließen elektrischer Betriebsmittel,
 
 
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
+9.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+
+
+10. Beurteilen der Sicherheit von elektrischen Anlagen und
     Betriebsmitteln,
 
 
-10. Installieren und Konfigurieren von IT-Systemen,
+11. Installieren und Konfigurieren von IT-Systemen,
 
 
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
+12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
 
 
-12. Technische Auftragsanalyse, Lösungsentwicklung,
+13. Technische Auftragsanalyse, Lösungsentwicklung,
 
 
-13. Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen,
+14. Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen,
 
 
-14. Instandhalten gebäudetechnischer Anlagen und Systeme,
+15. Instandhalten gebäudetechnischer Anlagen und Systeme,
 
 
-15. Betreiben von technischen Systemen,
+16. Betreiben von technischen Systemen,
 
 
-16. Technisches Gebäudemanagement,
+17. Technisches Gebäudemanagement,
 
 
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
 
 
 
@@ -222,7 +247,7 @@ Absatz 1 vermittelt werden können.
 
 ### § 8 Ausbildungsrahmenplan
 
-Die in § 7 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
+Die in § 7 Absatz 1 genannten Qualifikationen (Ausbildungsberufsbild)
 sollen nach der in Anlage 1 und Anlage 2 enthaltenen Anleitung zur
 sachlichen und zeitlichen Gliederung der Berufsausbildung
 (Ausbildungsrahmenplan) vermittelt werden. Eine von dem
@@ -238,9 +263,10 @@ Ausbildungsjahres stattfinden.
 
 (2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 2
 für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf dem im Berufsschulunterricht
-entsprechend den Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
+aufgeführten Qualifikationen sowie auf
+den im Berufsschulunterricht entsprechend den Rahmenlehrplan zu
+vermittelnden Lehrstoff, soweit er für die Berufsausbildung wesentlich
+ist.
 
 (3) Der Prüfling soll zeigen, dass er
 
@@ -303,7 +329,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
@@ -425,44 +452,47 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+8.  Montieren und Anschließen elektrischer Betriebsmittel,
 
 
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
+9.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+
+
+10. Beurteilen der Sicherheit von elektrischen Anlagen und
     Betriebsmitteln,
 
 
-10. Installieren und Konfigurieren von IT-Systemen,
+11. Installieren und Konfigurieren von IT-Systemen,
 
 
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
+12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
 
 
-12. Technische Auftragsanalyse, Lösungsentwicklung,
+13. Technische Auftragsanalyse, Lösungsentwicklung,
 
 
-13. Installieren und Inbetriebnehmen von elektrischen Anlagen,
+14. Installieren und Inbetriebnehmen von elektrischen Anlagen,
 
 
-14. Konfigurieren und Programmieren von Steuerungen,
+15. Konfigurieren und Programmieren von Steuerungen,
 
 
-15. Instandhalten von Anlagen und Systemen,
+16. Instandhalten von Anlagen und Systemen,
 
 
-16. Technischer Service und Betrieb,
+17. Technischer Service und Betrieb,
 
 
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
 
 
 
@@ -479,7 +509,7 @@ Einsatzgebiete anzuwenden und zu vertiefen:
 3.  Betriebsanlagen, Betriebsausrüstungen,
 
 
-4.  Produktions-/verfahrenstechnische Anlagen,
+4.  Produktions- /verfahrenstechnische Anlagen,
 
 
 5.  Schalt- und Steueranlagen,
@@ -496,7 +526,7 @@ Absatz 1 vermittelt werden können.
 
 ### § 12 Ausbildungsrahmenplan
 
-Die in § 11 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
+Die in § 11 Absatz 1 genannten Qualifikationen (Ausbildungsberufsbild)
 sollen nach der in Anlage 1 und Anlage 3 enthaltenen Anleitung zur
 sachlichen und zeitlichen Gliederung der Berufsausbildung
 (Ausbildungsrahmenplan) vermittelt werden. Eine von dem
@@ -577,7 +607,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
@@ -693,44 +724,47 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+8.  Montieren und Anschließen elektrischer Betriebsmittel,
 
 
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
+9.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+
+
+10. Beurteilen der Sicherheit von elektrischen Anlagen und
     Betriebsmitteln,
 
 
-10. Installieren und Konfigurieren von IT-Systemen,
+11. Installieren und Konfigurieren von IT-Systemen,
 
 
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
+12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
 
 
-12. Technische Auftragsanalyse, Lösungsentwicklung,
+13. Technische Auftragsanalyse, Lösungsentwicklung,
 
 
-13. Errichten von Einrichtungen der Automatisierungstechnik,
+14. Errichten von Einrichtungen der Automatisierungstechnik,
 
 
-14. Konfigurieren und Programmieren von Automatisierungssystemen,
+15. Konfigurieren und Programmieren von Automatisierungssystemen,
 
 
-15. Prüfen und Inbetriebnehmen von Automatisierungssystemen,
+16. Prüfen und Inbetriebnehmen von Automatisierungssystemen,
 
 
-16. Instandhalten und Optimieren von Automatisierungssystemen,
+17. Instandhalten und Optimieren von Automatisierungssystemen,
 
 
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
 
 
 
@@ -761,7 +795,7 @@ Absatz 1 vermittelt werden können.
 
 ### § 16 Ausbildungsrahmenplan
 
-Die in § 15 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
+Die in § 15 Absatz 1 genannten Qualifikationen (Ausbildungsberufsbild)
 sollen nach der in Anlage 1 und Anlage 4 enthaltenen Anleitung zur
 sachlichen und zeitlichen Gliederung der Berufsausbildung
 (Ausbildungsrahmenplan) vermittelt werden. Eine von dem
@@ -842,7 +876,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
@@ -932,10 +967,11 @@ schnittstellenübergreifend bewerten, Fehlerursachen bestimmen und
 elektrische Schutzmaßnahmen bewerten kann.
 
 (8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
+in der Prüfungszeit von höchstens
+60 Minuten praxisbezogene handlungsorientierte Aufgaben bearbeiten und
+dabei zeigen, dass er allgemeine wirtschaftliche und gesellschaftliche
+Zusammenhänge der Berufs- und Arbeitswelt darstellen und beurteilen
+kann.
 
 
 ## Teil 5 - Vorschriften für den Ausbildungsberuf Elektroniker für Geräte und Systeme/Elektronikerin für Geräte und Systeme
@@ -959,45 +995,48 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+8.  Montieren und Anschließen elektrischer Betriebsmittel,
 
 
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
+9.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+
+
+10. Beurteilen der Sicherheit von elektrischen Anlagen und
     Betriebsmitteln,
 
 
-10. Installieren und Konfigurieren von IT-Systemen,
+11. Installieren und Konfigurieren von IT-Systemen,
 
 
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
+12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
 
 
-12. Technische Auftragsanalyse, Lösungsentwicklung,
+13. Technische Auftragsanalyse, Lösungsentwicklung,
 
 
-13. Fertigen von Komponenten und Geräten,
+14. Fertigen von Komponenten und Geräten,
 
 
-14. Herstellen und Inbetriebnehmen von Geräten und Systemen,
+15. Herstellen und Inbetriebnehmen von Geräten und Systemen,
 
 
-15. Einrichten, Überwachen und Instandhalten von Fertigungs- und
+16. Einrichten, Überwachen und Instandhalten von Fertigungs- und
     Prüfeinrichtungen,
 
 
-16. Technischer Service und Produktsupport,
+17. Technischer Service und Produktsupport,
 
 
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
 
 
 
@@ -1031,7 +1070,7 @@ Absatz 1 vermittelt werden können.
 
 ### § 20 Ausbildungsrahmenplan
 
-Die in § 19 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
+Die in § 19 Absatz 1 genannten Qualifikationen (Ausbildungsberufsbild)
 sollen nach der in Anlage 1 und Anlage 5 enthaltenen Anleitung zur
 sachlichen und zeitlichen Gliederung der Berufsausbildung
 (Ausbildungsrahmenplan) vermittelt werden. Eine von dem
@@ -1112,7 +1151,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
@@ -1211,7 +1251,7 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-## Teil 6 - Vorschriften für den Ausbildungsberuf Systeminformatiker/ Systeminformatikerin
+## Teil 6 - Vorschriften für den Ausbildungsberuf Elektroniker für Informations- und Systemtechnik und Elektronikerin für Informations- und Systemtechnik
 
 
 
@@ -1232,44 +1272,47 @@ Qualifikationen:
 4.  Umweltschutz,
 
 
-5.  Betriebliche und technische Kommunikation,
+5.  Digitalisierung der Arbeit, Datenschutz und Informationssicherheit,
 
 
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
+6.  Betriebliche und technische Kommunikation,
 
 
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
+7.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
 
 
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+8.  Montieren und Anschließen elektrischer Betriebsmittel,
 
 
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
+9.  Messen und Analysieren von elektrischen Funktionen und Systemen,
+
+
+10. Beurteilen der Sicherheit von elektrischen Anlagen und
     Betriebsmitteln,
 
 
-10. Installieren und Konfigurieren von IT-Systemen,
+11. Installieren und Konfigurieren von IT-Systemen,
 
 
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
+12. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
 
 
-12. Technische Auftragsanalyse, Lösungsentwicklung,
+13. Technische Auftragsanalyse, Lösungsentwicklung,
 
 
-13. Erstellen von Software,
+14. Erstellen von Software,
 
 
-14. Integrieren und Konfigurieren von Systemen,
+15. Integrieren und Konfigurieren von Systemen,
 
 
-15. Durchführen von Systemtests,
+16. Durchführen von Systemtests,
 
 
-16. Technischer Service und Systemoptimierung,
+17. Technischer Service und Systemoptimierung,
 
 
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
+18. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
 
 
 
@@ -1300,7 +1343,7 @@ Absatz 1 vermittelt werden können.
 
 ### § 24 Ausbildungsrahmenplan
 
-Die in § 23 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
+Die in § 23 Absatz 1 genannten Qualifikationen (Ausbildungsberufsbild)
 sollen nach der in Anlage 1 und Anlage 6 enthaltenen Anleitung zur
 sachlichen und zeitlichen Gliederung der Berufsausbildung
 (Ausbildungsrahmenplan) vermittelt werden. Eine von dem
@@ -1381,7 +1424,8 @@ Berufsausbildung wesentlich ist.
 
 Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
 Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
+Gesundheitsschutz bei der Arbeit, Umweltschutz, Digitalisierung der
+Arbeit, Datenschutz und Informationssicherheit, betriebliche und
 technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
 der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
 Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
@@ -1481,280 +1525,11 @@ allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
 Berufs- und Arbeitswelt darstellen und beurteilen kann.
 
 
-## Teil 7 - Vorschriften für den Ausbildungsberuf Elektroniker für luftfahrttechnische Systeme/Elektronikerin für luftfahrttechnische Systeme
+## Teil 7 - Gemeinsame Bestehensregelungen
 
 
 
-### § 27 Ausbildungsberufsbild
-
-(1) Gegenstand der Berufsausbildung sind mindestens die folgenden
-Qualifikationen:
-
-1.  Berufsbildung, Arbeits- und Tarifrecht,
-
-
-2.  Aufbau und Organisation des Ausbildungsbetriebes,
-
-
-3.  Sicherheit und Gesundheitsschutz bei der Arbeit,
-
-
-4.  Umweltschutz,
-
-
-5.  Betriebliche und technische Kommunikation,
-
-
-6.  Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse,
-
-
-7.  Montieren und Anschließen elektrischer Betriebsmittel,
-
-
-8.  Messen und Analysieren von elektrischen Funktionen und Systemen,
-
-
-9.  Beurteilen der Sicherheit von elektrischen Anlagen und
-    Betriebsmitteln,
-
-
-10. Installieren und Konfigurieren von IT-Systemen,
-
-
-11. Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen,
-
-
-12. Technische Auftragsanalyse, Lösungsentwicklung,
-
-
-13. Einbauen und Installieren von Komponenten und Teilsystemen der
-    Avionik,
-
-
-14. Prüfen und Testen von Systemen der Avionik,
-
-
-15. Inbetriebnehmen von Systemen der Avionik,
-
-
-16. Instandhalten,
-
-
-17. Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet.
-
-
-
-
-(2) Die Qualifikationen nach Absatz 1 sind in einem der folgenden
-Einsatzgebiete anzuwenden und zu vertiefen:
-
-1.  Fluggeräteproduktion,
-
-
-2.  Fluggerätinstandhaltung,
-
-
-3.  Fluggerätüberholung,
-
-
-4.  Flugtechnische Ausrüstungen,
-
-
-5.  Raumfahrtsysteme.
-
-
-
-Das Einsatzgebiet wird vom Ausbildungsbetrieb festgelegt. Andere
-Einsatzgebiete sind zulässig, wenn in ihnen die Qualifikationen nach
-Absatz 1 vermittelt werden können.
-
-
-### § 28 Ausbildungsrahmenplan
-
-Die in § 27 Abs. 1 genannten Qualifikationen (Ausbildungsberufsbild)
-sollen nach der in Anlage 1 und Anlage 7 enthaltenen Anleitung zur
-sachlichen und zeitlichen Gliederung der Berufsausbildung
-(Ausbildungsrahmenplan) vermittelt werden. Eine von dem
-Ausbildungsrahmenplan abweichende sachliche und zeitliche Gliederung
-des Ausbildungsinhaltes ist insbesondere zulässig, soweit
-betriebspraktische Besonderheiten die Abweichung erfordern.
-
-
-### § 29 Teil 1 der Abschlussprüfung
-
-(1) Teil 1 der Abschlussprüfung soll vor dem Ende des zweiten
-Ausbildungsjahres stattfinden.
-
-(2) Teil 1 der Abschlussprüfung erstreckt sich auf die in der Anlage 7
-für das erste Ausbildungsjahr und für das dritte Ausbildungshalbjahr
-aufgeführten Qualifikationen sowie auf den im Berufsschulunterricht
-entsprechend dem Rahmenlehrplan zu vermittelnden Lehrstoff, soweit er
-für die Berufsausbildung wesentlich ist.
-
-(3) Der Prüfling soll zeigen, dass er
-
-1.  technische Unterlagen auswerten, technische Parameter bestimmen,
-    Arbeitsabläufe planen und abstimmen, Material und Werkzeug
-    disponieren, Fachausdrücke, auch in englischer Sprache, anwenden,
-
-
-2.  Teilsysteme montieren, demontieren, verdrahten, verbinden und
-    konfigurieren, Sicherheitsregeln, Unfallverhütungsvorschriften und
-    Umweltschutzbestimmungen einhalten,
-
-
-3.  die Sicherheit von elektrischen Anlagen und Betriebsmitteln
-    beurteilen, elektrische Schutzmaßnahmen prüfen,
-
-
-4.  elektrische Systeme analysieren und Funktionen prüfen, Fehler suchen
-    und beseitigen,
-
-
-5.  Produkte in Betrieb nehmen, übergeben und erläutern,
-    Auftragsdurchführung dokumentieren, technische Unterlagen,
-    einschließlich Prüfprotokolle, erstellen
-
-
-
-kann. Diese Anforderungen sollen an einem funktionsfähigen Teilsystem
-aus der Luftfahrttechnik nachgewiesen werden.
-
-(4) Die Prüfung besteht aus der Ausführung einer komplexen
-Arbeitsaufgabe, die situative Gesprächsphasen und schriftliche
-Aufgabenstellungen beinhaltet. Die Prüfungszeit beträgt höchstens acht
-Stunden, wobei die situativen Gesprächsphasen insgesamt höchstens zehn
-Minuten umfassen sollen. Die Aufgabenstellungen sollen einen
-zeitlichen Umfang von höchstens 90 Minuten haben.
-
-
-### § 30 Teil 2 der Abschlussprüfung
-
-(1) Teil 2 der Abschlussprüfung erstreckt sich auf die in der Anlage 1
-und der Anlage 7 aufgeführten Qualifikationen sowie auf den im
-Berufsschulunterricht vermittelten Lehrstoff, soweit er für die
-Berufsausbildung wesentlich ist.
-
-(2) Die Abschlussprüfung besteht aus den Prüfungsbereichen
-
-1.  Arbeitsauftrag,
-
-
-2.  Systementwurf,
-
-
-3.  Funktions- und Systemanalyse sowie
-
-
-4.  Wirtschafts- und Sozialkunde.
-
-
-
-Dabei sind Berufsbildung, Arbeits- und Tarifrecht, Aufbau und
-Organisation des Ausbildungsbetriebes, Sicherheit und
-Gesundheitsschutz bei der Arbeit, Umweltschutz, betriebliche und
-technische Kommunikation, Planen und Organisieren der Arbeit, Bewerten
-der Arbeitsergebnisse, Qualitätsmanagement sowie Beurteilen der
-Sicherheit von elektrischen Anlagen und Betriebsmitteln zu
-berücksichtigen.
-
-(3) Der Prüfling soll im Prüfungsbereich Arbeitsauftrag zeigen, dass
-er
-
-1.  Arbeitsaufträge analysieren, Informationen aus Unterlagen beschaffen,
-    technische und organisatorische Schnittstellen klären,
-    Lösungsvarianten unter technischen, betriebswirtschaftlichen und
-    ökologischen Gesichtspunkten bewerten und auswählen,
-
-
-2.  Teilaufgaben festlegen, Auftragsablauf planen und abstimmen,
-    Planungsunterlagen erstellen, Arbeitsabläufe und Zuständigkeiten am
-    Einsatzort berücksichtigen,
-
-
-3.  Aufträge durchführen, Funktion und Sicherheit prüfen und
-    dokumentieren, Normen und Spezifikationen zur Qualität und Sicherheit
-    der Produkte beachten sowie Ursachen von Fehlern und Mängeln
-    systematisch suchen und beheben,
-
-
-4.  Produkte frei- und übergeben, Fachauskünfte, auch unter Verwendung
-    englischer Fachausdrücke, erteilen, Abnahmeprotokolle anfertigen,
-    Arbeitsergebnisse und Leistungen dokumentieren und bewerten,
-    Leistungen abrechnen und Geräte oder Systemdaten und -unterlagen
-    dokumentieren
-
-
-
-kann. Zum Nachweis kommen insbesondere das Herstellen einer
-Komponente, das Integrieren von Geräten oder Systemen oder das
-Instandhalten von Teilsystemen oder Systemen der Luftfahrttechnik in
-Betracht.
-
-(4) Der Prüfling soll zum Nachweis der Anforderungen im
-Prüfungsbereich Arbeitsauftrag
-
-1.  in 18 Stunden einen betrieblichen Auftrag durchführen und mit
-    praxisbezogenen Unterlagen dokumentieren sowie darüber ein
-    Fachgespräch von höchstens 30 Minuten führen; das Fachgespräch wird
-    auf der Grundlage der praxisbezogenen Unterlagen des bearbeiteten
-    betrieblichen Auftrages geführt; unter Berücksichtigung der
-    praxisbezogenen Unterlagen sollen durch das Fachgespräch die
-    prozessrelevanten Qualifikationen im Bezug zur Auftragsdurchführung
-    bewertet werden; dem Prüfungsausschuss ist vor der Durchführung des
-    betrieblichen Auftrages die Aufgabenstellung einschließlich eines
-    geplanten Bearbeitungszeitraums zur Genehmigung vorzulegen oder
-
-
-2.  in 14 Stunden eine praktische Aufgabe vorbereiten, durchführen,
-    nachbereiten und mit aufgabenspezifischen Unterlagen dokumentieren
-    sowie darüber ein begleitendes Fachgespräch von höchstens 20 Minuten
-    führen; die Durchführung der Arbeitsaufgabe beträgt sechs Stunden;
-    durch Beobachtungen der Durchführung, die aufgabenspezifischen
-    Unterlagen und das Fachgespräch sollen die prozessrelevanten
-    Qualifikationen im Bezug zur Durchführung der Arbeitsaufgabe bewertet
-    werden.
-
-
-
-
-(5) Der Ausbildungsbetrieb wählt die Prüfungsvariante nach Absatz 4
-aus und teilt sie dem Prüfling und der zuständigen Stelle mit der
-Anmeldung zur Prüfung mit.
-
-(6) Der Prüfling soll im Prüfungsbereich Systementwurf in der
-Prüfungszeit von höchstens 120 Minuten nach vorgegebenen Anforderungen
-Einrichtungen und Schaltungen zur Prüfung luftfahrttechnischer Systeme
-entwerfen. Dabei soll der Prüfling zeigen, dass er eine technische
-Problemanalyse durchführen und unter Berücksichtigung von Vorschriften
-und technischen Regelwerken, Wirtschaftlichkeit und Betriebsabläufen
-Prüfverfahren- und Diagnosesysteme auswählen und einsetzen, Tests und
-Prüfvorgänge unter Berücksichtigung technischer Spezifikationen und
-Systemvorschriften festlegen sowie Prüfabläufe unter Beachtung von
-Richtlinien zur Qualitäts- und Prozesssicherung festlegen,
-Schaltungsunterlagen auswerten sowie Standardsoftware anwenden kann.
-
-(7) Der Prüfling soll im Prüfungsbereich Funktions- und Systemanalyse
-in der Prüfungszeit von höchstens 120 Minuten ein luftfahrttechnisches
-Teilsystem oder System analysieren. Dabei soll der Prüfling zeigen,
-dass er technische Unterlagen, auch in englischer Sprache, auswerten,
-funktionelle Zusammenhänge in flugtechnischen Systemen analysieren,
-Signale an Schnittstellen funktionell zuordnen, Fehlerursachen
-bestimmen, elektromagnetische Verträglichkeit beurteilen und
-elektrische Schutzmaßnahmen bewerten kann.
-
-(8) Der Prüfling soll im Prüfungsbereich Wirtschafts- und Sozialkunde
-in der Prüfungszeit von höchstens 60 Minuten praxisbezogene
-handlungsorientierte Aufgaben bearbeiten und dabei zeigen, dass er
-allgemeine wirtschaftliche und gesellschaftliche Zusammenhänge der
-Berufs- und Arbeitswelt darstellen und beurteilen kann.
-
-
-## Teil 8 - Gemeinsame Bestehensregelungen, Übergangs- und Schlussbestimmungen
-
-
-
-### § 31 Bestehensregelung
+### § 27 Bestehensregelung
 
 (1) Für die in dieser Verordnung genannten Ausbildungsberufe gelten
 jeweils die in den nachfolgenden Absätzen aufgeführten
@@ -1798,33 +1573,210 @@ bisherige Ergebnis und das Ergebnis der mündlichen Ergänzungsprüfung
 im Verhältnis 2 : 1 zu gewichten.
 
 
-### § 32 Übergangsregelung
-
-Auf Berufsausbildungsverhältnisse, die bei Inkrafttreten dieser
-Verordnung bestehen, sind die bisherigen Vorschriften weiter
-anzuwenden, es sei denn, die Vertragsparteien vereinbaren die
-Anwendung der Vorschriften dieser Verordnung.
+## Teil 8 - Zusätzliche berufliche Fertigkeiten, Kenntnisse und Fähigkeiten
 
 
-### § 33 Inkrafttreten, Außerkrafttreten
 
-Diese Verordnung tritt am 1. August 2007 in Kraft.
+### § 28 Zusatzqualifikationen
+
+Über das jeweilige Ausbildungsberufsbild, das in § 7 Absatz 1, § 11
+Absatz 1, § 15 Absatz 1, § 19 Absatz 1 und § 23 Absatz 1 beschrieben
+ist, hinaus kann die Ausbildung in einer oder mehreren der folgenden
+Zusatzqualifikationen vereinbart werden:
+
+1.  Digitale Vernetzung,
 
 
-### Anlage 1 (zu den §§ 8, 12, 16, 20, 24 und 28) Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
+2.  Programmierung und
 
-(Fundstelle: BGBl. I 2007, 1691 - 1694)
-Gemeinsame Kernqualifikationen ****
+
+3.  IT-Sicherheit.
+
+
+
+
+
+### § 29 Gegenstand der Zusatzqualifikationen
+
+(1) Gegenstand der Zusatzqualifikation Digitale Vernetzung sind die in
+Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+(2) Gegenstand der Zusatzqualifikation Programmierung sind die in
+Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+(3) Gegenstand der Zusatzqualifikation IT-Sicherheit sind die in
+Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und Fähigkeiten.
+
+
+### § 30 Antrag auf Prüfung der Zusatzqualifikation, Zeitpunkt
+
+(1) Die Zusatzqualifikation wird auf Antrag des oder der
+Auszubildenden geprüft, wenn der oder die Auszubildende glaubhaft
+gemacht hat, dass ihm oder ihr die erforderlichen Fertigkeiten,
+Kenntnisse und Fähigkeiten vermittelt worden sind.
+
+(2) Die Prüfung der Zusatzqualifikation findet im Rahmen von Teil 2
+der Abschlussprüfung als gesonderte Prüfung statt.
+
+
+### § 31 Anforderungen für die Prüfung der Zusatzqualifikation Digitale Vernetzung
+
+(1) Die Prüfung der Zusatzqualifikation Digitale Vernetzung erstreckt
+sich auf die in Anlage 7 Teil A genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  Systeme, Prozessabläufe und technische Bedingungen zu analysieren,
+    Anforderungen an Netzwerke festzustellen sowie Lösungsvarianten zu
+    erarbeiten, zu bewerten und auszuwählen,
+
+
+2.  Netzwerkkomponenten auszuwählen, zu installieren, zu konfigurieren und
+    in die bestehende Infrastruktur zu integrieren sowie Anlagendaten und
+    -unterlagen zu dokumentieren sowie
+
+
+3.  Fehler, Störungen oder Engpässe zu analysieren, den Datendurchsatz und
+    Fehlerraten zu bewerten, Fehler zu beheben, die Systeme zu testen
+    sowie Optimierungen vorzuschlagen.
+
+
+
+
+
+### § 32 Anforderungen für die Prüfung der Zusatzqualifikation Programmierung
+
+(1) Die Prüfung der Zusatzqualifikation Programmierung erstreckt sich
+auf die in Anlage 7 Teil B genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  Systeme, Prozessabläufe und technische Bedingungen zu analysieren und
+    Anforderungen an Softwaremodule festzustellen,
+
+
+2.  Softwaremodule anzupassen und in die bestehenden Systeme zu
+    integrieren und Software zu dokumentieren sowie
+
+
+3.  Testpläne und Testdaten zu erstellen, Umgebungsbedingungen zu
+    simulieren, die Systeme zu testen und Fehler zu beheben.
+
+
+
+
+
+### § 33 Anforderungen für die Prüfung der Zusatzqualifikation IT-Sicherheit
+
+(1) Die Prüfung der Zusatzqualifikation IT-Sicherheit erstreckt sich
+auf die in Anlage 7 Teil C genannten Fertigkeiten, Kenntnisse und
+Fähigkeiten.
+
+(2) In der Prüfung der Zusatzqualifikation soll der Prüfling
+nachweisen, dass er in der Lage ist,
+
+1.  technische und organisatorische IT-Sicherheitsmaßnahmen aufgrund
+    gesetzlicher und betrieblicher Regelungen zu erarbeiten und
+    abzustimmen,
+
+
+2.  IT-Sicherheitsmaßnahmen umzusetzen und
+
+
+3.  die umgesetzten IT-Sicherheitsmaßnahmen zu überwachen.
+
+
+
+
+
+### § 34 Durchführung und Bestehen der Prüfung der Zusatzqualifikation
+
+(1) In der Prüfung wird mit dem Prüfling zu jeder vermittelten
+Zusatzqualifikation ein fallbezogenes Fachgespräch geführt.
+
+(2) Zur Vorbereitung auf das jeweilige fallbezogene Fachgespräch hat
+der Prüfling eigenständig im Ausbildungsbetrieb eine praxisbezogene
+Aufgabe durchzuführen. Die eigenständige Durchführung ist von dem oder
+der Ausbildenden zu bestätigen.
+
+(3) Zu der praxisbezogenen Aufgabe hat der Prüfling einen Report zu
+erstellen. In dem Report hat er die Aufgabenstellung, die Zielsetzung,
+die Planung, das Vorgehen und das Ergebnis der praxisbezogenen Aufgabe
+zu beschreiben und den Prozess, der zu dem Ergebnis geführt hat, zu
+reflektieren. Der Report darf höchstens drei Seiten umfassen.
+
+(4) Den Report soll der Prüfling mit einer Anlage ergänzen. Die Anlage
+besteht aus Visualisierungen zu der praxisbezogenen Aufgabe. Sie darf
+höchstens fünf Seiten umfassen.
+
+(5) Das fallbezogene Fachgespräch wird mit einer Darstellung der
+praxisbezogenen Aufgabe und des Lösungswegs durch den Prüfling
+eingeleitet. Ausgehend von der praxisbezogenen Aufgabe und dem dazu
+erstellten Report entwickelt der Prüfungsausschuss das fallbezogene
+Fachgespräch so, dass die jeweiligen Anforderungen der
+Zusatzqualifikation nachgewiesen werden können.
+
+(6) Das fallbezogene Fachgespräch dauert höchstens 20 Minuten.
+
+(7) Bewertet wird nur die Leistung, die der Prüfling im fallbezogenen
+Fachgespräch erbringt.
+
+(8) Die Prüfung der jeweiligen Zusatzqualifikation ist bestanden, wenn
+die Prüfungsleistung mit mindestens „ausreichend“ bewertet worden ist.
+
+
+## Teil 9 - Gemeinsame Übergangsvorschriften
+
+
+
+### § 35 Bestandsschutz
+
+Auf Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, ist die Verordnung über die Berufsausbildung in den
+industriellen Elektroberufen vom 24. Juli 2007 (BGBl. I S. 1678), die
+zuletzt durch Artikel 2 der Verordnung vom 28. Juni 2013 (BGBl. I S.
+2201) geändert worden ist, weiter anzuwenden.
+
+
+### § 36 Änderung bestehender Berufsausbildungsverhältnisse
+
+Berufsausbildungsverhältnisse, die vor dem 1. August 2018 bereits
+bestehen, können nach den Vorschriften dieser Verordnung in der ab dem
+1\. August 2018 geltenden Fassung unter Anrechnung der bisher
+absolvierten Ausbildungszeit fortgesetzt werden, wenn die
+Vertragsparteien dies vereinbaren und der oder die Auszubildende noch
+nicht Teil 1 der Abschlussprüfung absolviert hat.
+
+
+### § 37 Zusatzqualifikation für bestehende Berufsausbildungsverhältnisse
+
+Die Regelungen zu den Zusatzqualifikationen nach Teil 8 können ab dem
+1\. August 2018 auch auf Berufsausbildungsverhältnisse, die vor dem 1.
+August 2018 bereits bestehen, angewendet werden.
+
+(zu den §§ 8, 12, 16, 20 und 24)
+
+### Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung in den industriellen Elektroberufen
+
+(Fundstelle: BGBl. I 2018, 910 — 913)
+
+**Gemeinsame Kernqualifikationen**
+
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kernqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        berufsspezifischen Fachqualifikationen zu vermitteln sind
+    *   Kernqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens integriert
+        mit berufsspezifischen Fachqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -1838,12 +1790,11 @@ Gemeinsame Kernqualifikationen ****
 
     *   Berufsbildung,
         Arbeits- und Tarifrecht
-        (§ 7 Abs. 1 Nr. 1,
-        § 11 Abs. 1 Nr. 1,
-        § 15 Abs. 1 Nr. 1,
-        § 19 Abs. 1 Nr. 1,
-        § 23 Abs. 1 Nr. 1,
-        § 27 Abs. 1 Nr. 1)
+        (§ 7 Absatz 1 Nummer 1,
+        § 11 Absatz 1 Nummer 1,
+        § 15 Absatz 1 Nummer 1,
+        § 19 Absatz 1 Nummer 1,
+        § 23 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -1859,7 +1810,7 @@ Gemeinsame Kernqualifikationen ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
@@ -1868,30 +1819,30 @@ Gemeinsame Kernqualifikationen ****
 
 *    *   2
 
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 7 Abs. 1 Nr. 2,
-        § 11 Abs. 1 Nr. 2,
-        § 15 Abs. 1 Nr. 2,
-        § 19 Abs. 1 Nr. 2,
-        § 23 Abs. 1 Nr. 2,
-        § 27 Abs. 1 Nr. 2)
+    *   Aufbau und
+        Organisation des
+        Ausbildungsbetriebes
+        (§ 7 Absatz 1 Nummer 2,
+        § 11 Absatz 1 Nummer 2,
+        § 15 Absatz 1 Nummer 2,
+        § 19 Absatz 1 Nummer 2,
+        § 23 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
@@ -1900,14 +1851,12 @@ Gemeinsame Kernqualifikationen ****
 
 *    *   3
 
-    *   Sicherheit und Gesundheitsschutz
-        bei der Arbeit
-        (§ 7 Abs. 1 Nr. 3,
-        § 11 Abs. 1 Nr. 3,
-        § 15 Abs. 1 Nr. 3,
-        § 19 Abs. 1 Nr. 3,
-        § 23 Abs. 1 Nr. 3,
-        § 27 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+        (§ 7 Absatz 1 Nummer 3,
+        § 11 Absatz 1 Nummer 3,
+        § 15 Absatz 1 Nummer 3,
+        § 19 Absatz 1 Nummer 3,
+        § 23 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -1936,12 +1885,11 @@ Gemeinsame Kernqualifikationen ****
 *    *   4
 
     *   Umweltschutz
-        (§ 7 Abs. 1 Nr. 4,
-        § 11 Abs. 1 Nr. 4,
-        § 15 Abs. 1 Nr. 4,
-        § 19 Abs. 1 Nr. 4,
-        § 23 Abs. 1 Nr. 4,
-        § 27 Abs. 1 Nr. 4)
+        (§ 7 Absatz 1 Nummer 4,
+        § 11 Absatz 1 Nummer 4,
+        § 15 Absatz 1 Nummer 4,
+        § 19 Absatz 1 Nummer 4,
+        § 23 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -1967,54 +1915,63 @@ Gemeinsame Kernqualifikationen ****
 
 *    *   5
 
-    *   Betriebliche und
-        technische Kommunikation
-        (§ 7 Abs. 1 Nr. 5,
-        § 11 Abs. 1 Nr. 5,
-        § 15 Abs. 1 Nr. 5,
-        § 19 Abs. 1 Nr. 5,
-        § 23 Abs. 1 Nr. 5,
-        § 27 Abs. 1 Nr. 5)
+    *   Digitalisierung der Arbeit,
+        Datenschutz und
+        Informationssicherheit
+        (§ 7 Absatz 1 Nummer 5,
+        § 11 Absatz 1 Nummer 5,
+        § 15 Absatz 1 Nummer 5,
+        § 19 Absatz 1 Nummer 5,
+        § 23 Absatz 1 Nummer 5)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
 
 
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
 
 
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
+        d)  Vorschriften zum Datenschutz anwenden
 
 
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            und zielorientiert führen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
-            Fachbegriffe anwenden
+
+*    *
+    *
+    *
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
-            erarbeiten, Gesprächsergebnisse schriftlich fixieren
+        g)  digitale Lernmedien nutzen
 
 
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
 
 
-        j)  Konflikte im Team lösen
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
 
 
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
 
 
 
@@ -2022,66 +1979,50 @@ Gemeinsame Kernqualifikationen ****
 
 *    *   6
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten
-        der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6,
-        § 11 Abs. 1 Nr. 6,
-        § 15 Abs. 1 Nr. 6,
-        § 19 Abs. 1 Nr. 6,
-        § 23 Abs. 1 Nr. 6,
-        § 27 Abs. 1 Nr. 6)
+    *   Betriebliche und technische
+        Kommunikation
+        (§ 7 Absatz 1 Nummer 6,
+        § 11 Absatz 1 Nummer 6,
+        § 15 Absatz 1 Nummer 6,
+        § 19 Absatz 1 Nummer 6,
+        § 23 Absatz 1 Nummer 6)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+            und erstellen sowie Skizzen anfertigen
 
 
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+            auch in Englisch, recherchieren, auswerten und anwenden
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
 
 
-        d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
-            berücksichtigen
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+            und zielorientiert führen
 
 
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+            Fachbegriffe anwenden
 
 
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+            erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
 
 
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+        i)  Konflikte im Team lösen
 
 
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
-
-
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
-            und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
-            anwenden
-
-
-        l)  interne und externe Leistungserbringung vergleichen
-
-
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen sowie unterschiedliche Lerntechniken anwenden
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
 
 
 
@@ -2089,14 +2030,82 @@ Gemeinsame Kernqualifikationen ****
 
 *    *   7
 
+    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 7 Absatz 1 Nummer 7,
+        § 11 Absatz 1 Nummer 7,
+        § 15 Absatz 1 Nummer 7,
+        § 19 Absatz 1 Nummer 7,
+        § 23 Absatz 1 Nummer 7)
+
+    *
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
+
+
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
+
+
+        d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
+            berücksichtigen
+
+
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
+
+
+
+
+
+*    *
+    *
+    *
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+            grafische Benutzeroberflächen einrichten
+
+
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+            prüfen und mit den betrieblichen Möglichkeiten abstimmen
+
+
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+
+
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+            und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
+            anwenden
+
+
+        j)  interne und externe Leistungserbringung vergleichen
+
+
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+            nutzen sowie unterschiedliche Lerntechniken anwenden
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
+
+
+
+
+
+*    *   8
+
     *   Montieren und Anschließen
         elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7,
-        § 11 Abs. 1 Nr. 7,
-        § 15 Abs. 1 Nr. 7,
-        § 19 Abs. 1 Nr. 7,
-        § 23 Abs. 1 Nr. 7,
-        § 27 Abs. 1 Nr. 7)
+        (§ 7 Absatz 1 Nummer 8,
+        § 11 Absatz 1 Nummer 8,
+        § 15 Absatz 1 Nummer 8,
+        § 19 Absatz 1 Nummer 8,
+        § 23 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -2118,12 +2127,6 @@ Gemeinsame Kernqualifikationen ****
         e)  Leitungen installieren
 
 
-
-
-
-*    *
-    *
-    *
         f)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
             Geräte oder Anlagen in Betrieb nehmen
 
@@ -2140,17 +2143,16 @@ Gemeinsame Kernqualifikationen ****
 
 
 
-*    *   8
+*    *   9
 
-    *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 7 Abs. 1 Nr. 8,
-        § 11 Abs. 1 Nr. 8,
-        § 15 Abs. 1 Nr. 8,
-        § 19 Abs. 1 Nr. 8,
-        § 23 Abs. 1 Nr. 8,
-        § 27 Abs. 1 Nr. 8)
+    *   Messen und Analysieren von
+        elektrischen Funktionen und
+        Systemen
+        (§ 7 Absatz 1 Nummer 9,
+        § 11 Absatz 1 Nummer 9,
+        § 15 Absatz 1 Nummer 9,
+        § 19 Absatz 1 Nummer 9,
+        § 23 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -2185,17 +2187,16 @@ Gemeinsame Kernqualifikationen ****
 
 
 
-*    *   9
+*    *   10
 
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9,
-        § 11 Abs. 1 Nr. 9,
-        § 15 Abs. 1 Nr. 9,
-        § 19 Abs. 1 Nr. 9,
-        § 23 Abs. 1 Nr. 9,
-        § 27 Abs. 1 Nr. 9)
+    *   Beurteilen der Sicherheit von
+        elektrischen Anlagen und
+        Betriebsmitteln
+        (§ 7 Absatz 1 Nummer 10,
+        § 11 Absatz 1 Nummer 10,
+        § 15 Absatz 1 Nummer 10,
+        § 19 Absatz 1 Nummer 10,
+        § 23 Absatz 1 Nummer 10)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -2212,6 +2213,12 @@ Gemeinsame Kernqualifikationen ****
             insbesondere hinsichtlich Strombelastbarkeit, beurteilen
 
 
+
+
+
+*    *
+    *
+    *
         e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
             Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer
             Art beurteilen
@@ -2237,16 +2244,15 @@ Gemeinsame Kernqualifikationen ****
 
 
 
-*    *   10
+*    *   11
 
     *   Installieren und Konfigurieren
         von IT-Systemen
-        (§ 7 Abs. 1 Nr. 10,
-        § 11 Abs. 1 Nr. 10,
-        § 15 Abs. 1 Nr. 10,
-        § 19 Abs. 1 Nr. 10,
-        § 23 Abs. 1 Nr. 10,
-        § 27 Abs. 1 Nr. 10)
+        (§ 7 Absatz 1 Nummer 11,
+        § 11 Absatz 1 Nummer 11,
+        § 15 Absatz 1 Nummer 11,
+        § 19 Absatz 1 Nummer 11,
+        § 23 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -2264,17 +2270,14 @@ Gemeinsame Kernqualifikationen ****
 
 
 
-*    *   11
+*    *   12
 
-    *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
-        (§ 7 Abs. 1 Nr. 11,
-        § 11 Abs. 1 Nr. 11,
-        § 15 Abs. 1 Nr. 11,
-        § 19 Abs. 1 Nr. 11,
-        § 23 Abs. 1 Nr. 11,
-        § 27 Abs. 1 Nr. 11)
+    *   Beraten und Betreuen von Kunden, Erbringen von Serviceleistungen
+        (§ 7 Absatz 1 Nummer 12,
+        § 11 Absatz 1 Nummer 12,
+        § 15 Absatz 1 Nummer 12,
+        § 19 Absatz 1 Nummer 12,
+        § 23 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -2305,11 +2308,12 @@ Gemeinsame Kernqualifikationen ****
 
 
 
+(zu § 8)
 
+### Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
 
-### Anlage 2 (zu § 8) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Gebäude- und Infrastruktursysteme/zur Elektronikerin für Gebäude- und Infrastruktursysteme
+(Fundstelle: BGBl. I 2018, 914 — 925)
 
-(Fundstelle: BGBl. I 2007, 1695 - 1705)
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -2318,7 +2322,8 @@ Fachqualifikationen**
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
     *   Fachqualifikationen, die unter Einbeziehung
         selbstständigen Planens, Durchführens und Kontrollierens
@@ -2332,11 +2337,10 @@ Fachqualifikationen**
     *   3
 
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen analysieren
@@ -2374,10 +2378,10 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
-    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen(§ 7
-        Abs. 1 Nr. 13)
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         a)  Systeme ändern, anpassen, verdrahten, verbinden, konfigurieren,
@@ -2408,10 +2412,10 @@ Fachqualifikationen**
 
 
 
-*    *   14
+*    *   15
 
     *   Instandhalten gebäudetechnischer Anlagen und Systeme
-        (§ 7 Abs. 1 Nr. 14)
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         a)  technische Anlagen inspizieren, Abweichungen vom Sollzustand
@@ -2430,6 +2434,12 @@ Fachqualifikationen**
             durchführen
 
 
+
+
+
+*    *
+    *
+    *
         e)  gebäudetechnische Anlagen warten, insbesondere Sollwerte einstellen
             und justieren, Verschleißteile austauschen, Betriebsstoffe überprüfen
             und nachfüllen, Wartungsprotokolle erstellen
@@ -2456,11 +2466,11 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
     *   Betreiben von
         technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         a)  Systeme überwachen und unter Berücksichtigung der Kundenwünsche sowie
@@ -2508,10 +2518,10 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
     *   Technisches Gebäudemanagement
-        (§ 7 Abs. 1 Nr. 16)
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         a)  Daten für das Gebäudemanagement bereitstellen
@@ -2548,12 +2558,12 @@ Fachqualifikationen**
 
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
         Qualitätsmanagement im
         Einsatzgebiet
-        (§ 7 Abs. 1 Nr. 17)
+        (§ 7 Absatz 1 Nummer 18)
 
     *
         a)  Kunden auf spezifische Angebote hinweisen und beraten, Aufträge
@@ -2614,25 +2624,33 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
 
-Teil B: Zeitliche Gliederung ****
+
+
+**Teil B: Zeitliche Gliederung**
+
+**Abschnitt 1**
 
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
+    *   Kern- und Fachqualifikationen,
+        die unter Einbeziehung selbstständigen Planens,
+        Durchführens und Kontrollierens integriert zu vermitteln sind
 
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitrahmen
+        in Monaten
 
 
 *    *   1
@@ -2644,14 +2662,11 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
     *   Berufsbildung,
         Arbeits- und Tarifrecht
-        (§ 7 Abs. 1 Nr. 1)
+        (§ 7 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -2667,49 +2682,46 @@ Teil B: Zeitliche Gliederung ****
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 7 Abs. 1 Nr. 2)
+        (§ 7 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
-
-*    *
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 7 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+        (§ 7 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -2734,11 +2746,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 7 Abs. 1 Nr. 4)
+        (§ 7 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -2761,6 +2774,71 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
+
+
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und
+        Informationssicherheit
+        (§ 7 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+
+
+    *
+
+*    *
+    *
+    *
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
 
 *    *   **Abschnitt 2**
 
@@ -2771,18 +2849,13 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 1
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
@@ -2791,31 +2864,34 @@ Teil B: Zeitliche Gliederung ****
     *   3 bis 5
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten
         der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
             betrieblichen Vorgaben einrichten
 
 
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -2825,12 +2901,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 7 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -2842,11 +2917,11 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   13
+*    *   14
 
     *   Errichten, Erweitern oder Ändern von gebäude-
         technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         a)  Systeme ändern, anpassen, verdrahten, verbinden, konfigurieren,
@@ -2859,51 +2934,50 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+            auch in Englisch, recherchieren, auswerten und anwenden
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -2923,13 +2997,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   9
+
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 7 Absatz 1 Nummer 10)
 
     *
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
@@ -2941,12 +3016,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         e)  technische Schnittstellen und Netztopologien klären
@@ -2961,12 +3036,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Errichten, Erweitern oder Ändern von gebäude-
-        technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         b)  Maschinen, Geräte und sonstige Betriebsmittel aufstellen, ausrichten,
@@ -2975,31 +3050,29 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
 
 
-    *   3 bis 4
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -3012,13 +3085,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 7 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         c)  Kenndaten und Funktion von Baugruppen prüfen
@@ -3035,12 +3108,37 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 4
 
-*    *   13
 
-    *   Errichten, Erweitern oder Ändern von gebäude-
-        technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+*    *   11
+
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 7 Absatz 1 Nummer 11)
+
+    *
+        a)  Hard- und Softwarekomponenten auswählen
+
+
+        b)  Betriebssysteme und Anwendungsprogramme installieren und konfigurieren
+
+
+        c)  IT-Systeme in Netzwerke einbinden
+
+
+        d)  Tools und Testprogramme einsetzen
+
+
+
+
+    *
+
+*    *   14
+
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         c)  Schaltgeräte und Betriebsmittel zum Steuern, Regeln, Messen und
@@ -3049,18 +3147,21 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   Zeitrahmen 4
 
 
-*    *   5
+*    *   7
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 7 Absatz 1 Nummer 7)
 
     *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+            grafische Benutzeroberflächen einrichten
 
 
 
@@ -3068,26 +3169,12 @@ Teil B: Zeitliche Gliederung ****
     *   1 bis 2
 
 
-*    *   6
+*    *   11
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten
-        der Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
-
-    *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
-
-
-
-
-
-*    *   10
-
-    *   Installieren und Konfigurieren
-        von IT-Systemen
-        (§ 7 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 7 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -3105,11 +3192,10 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   13
+*    *   14
 
-    *   Errichten, Erweitern oder Ändern von gebäude-
-        technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         d)  Signal- und Datenübertragungssysteme installieren, prüfen und in
@@ -3125,11 +3211,10 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 5
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
@@ -3141,12 +3226,11 @@ Teil B: Zeitliche Gliederung ****
     *   2 bis 3
 
 
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 7 Absatz 1 Nummer 10)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -3172,11 +3256,10 @@ Teil B: Zeitliche Gliederung ****
 
 
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         b)  Änderungen von Energieversorgungsanlagen planen, Stromkreise und
@@ -3189,32 +3272,29 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 7 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         g)  Sensoren und Aktoren prüfen und einstellen
@@ -3226,13 +3306,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 7 Absatz 1 Nummer 10)
 
     *
         f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
@@ -3242,13 +3322,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 7 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -3259,12 +3340,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 4
 
-*    *   14
 
-    *   Instandhalten gebäudetechnischer Anlagen
-        und Systeme
-        (§ 7 Abs. 1 Nr. 14)
+*    *   15
+
+    *   Instandhalten gebäudetechnischer Anlagen und Systeme
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         a)  technische Anlagen inspizieren, Abweichungen vom Sollzustand
@@ -3284,12 +3366,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Betreiben von
-        technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+    *   Betreiben von technischen Systemen
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         b)  Störungen analysieren und unter Berücksichtigung der Zuständigkeiten
@@ -3298,12 +3380,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technisches
-        Gebäudemanagement
-        (§ 7 Abs. 1 Nr. 16)
+    *   Technisches Gebäudemanagement
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         a)  Daten für das Gebäudemanagement bereitstellen
@@ -3314,6 +3396,7 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 2. Halbjahr**
 
@@ -3321,45 +3404,42 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 7
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
 
 
 
-
-    *   1 bis 3
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
 
     *
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+
+*    *   7
+
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 7 Absatz 1 Nummer 7)
+
+    *
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
             prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 7 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 7 Absatz 1 Nummer 8)
 
     *
         h)  Abfälle vermeiden sowie Abfallstoffe, nicht verbrauchte Betriebsstoffe
@@ -3369,13 +3449,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 7 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -3384,12 +3465,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen analysieren
@@ -3401,12 +3482,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   1 bis 3
 
-*    *   13
 
-    *   Errichten, Erweitern oder Ändern von gebäude-
-        technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         b)  Maschinen, Geräte und sonstige Betriebsmittel aufstellen, ausrichten,
@@ -3428,12 +3510,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Betreiben von
-        technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+    *   Betreiben von technischen Systemen
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         g)  Visualisierungsanwendungen von technischen Anlagen bedienen und
@@ -3445,38 +3527,35 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   Zeitrahmen 8
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 7 Absatz 1 Nummer 7)
 
     *
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
 
 
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 7 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
@@ -3485,12 +3564,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         c)  Anlagen- und Nutzungsänderungen von technischen Systemen, insbesondere
@@ -3503,12 +3582,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   15
 
-    *   Betreiben von
-        technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+*    *   16
+
+    *   Betreiben von technischen Systemen
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         h)  Systemdaten, Diagnosedaten und Prozessdaten auswerten und zur
@@ -3521,12 +3601,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technisches Gebäude-
-        management
-        (§ 7 Abs. 1 Nr. 16)
+    *   Technisches Gebäudemanagement
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         d)  Vorgaben aus der Gebäudeverwaltung auf Realisierbarkeit prüfen,
@@ -3535,6 +3615,7 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   **3. und 4. Ausbildungsjahr**
 
@@ -3542,56 +3623,54 @@ Teil B: Zeitliche Gliederung ****
 *    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
+
+
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
             und zielorientiert führen
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
             erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
-        j)  Konflikte im Team lösen
+        i)  Konflikte im Team lösen
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
         d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
             berücksichtigen
 
 
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        l)  interne und externe Leistungserbringung vergleichen
+        j)  interne und externe Leistungserbringung vergleichen
 
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 7 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 7 Absatz 1 Nummer 13)
 
     *
         d)  Änderungen von Kommunikations- und Datenübertragungssystemen planen
@@ -3603,12 +3682,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   2 bis 4
 
-*    *   13
 
-    *   Errichten, Erweitern oder Ändern von gebäude-
-        technischen Anlagen
-        (§ 7 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Errichten, Erweitern oder Ändern von gebäudetechnischen Anlagen
+        (§ 7 Absatz 1 Nummer 14)
 
     *
         d)  Signal- und Datenübertragungssysteme installieren, prüfen und in
@@ -3617,12 +3697,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Betreiben von
-        technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+    *   Betreiben von technischen Systemen
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         d)  Auftragsdurchführung durch externes Personal beaufsichtigen und
@@ -3631,12 +3711,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technisches
-        Gebäudemanagement
-        (§ 7 Abs. 1 Nr. 16)
+    *   Technisches Gebäudemanagement
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         b)  Rapporte und Leistungsnachweise prüfen
@@ -3658,55 +3738,54 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   Zeitrahmen 10
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 7 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 7 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 7 Abs. 1 Nr. 6)
+        (§ 7 Absatz 1 Nummer 7)
 
     *
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
             und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
             anwenden
 
 
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
             nutzen sowie unterschiedliche Lerntechniken anwenden
 
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 7 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 7 Absatz 1 Nummer 9)
 
     *
         i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
@@ -3715,13 +3794,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 7 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 7 Absatz 1 Nummer 10)
 
     *
         i)  Brandschutzbestimmungen beim Errichten und Betreiben elektrischer
@@ -3730,13 +3809,14 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 7 Abs. 1 Nr. 11)
+        (§ 7 Absatz 1 Nummer 12)
 
     *
         e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren
@@ -3751,13 +3831,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Instandhalten gebäude-
-        technischer Anlagen
-        und Systeme
-        (§ 7 Abs. 1 Nr. 14)
+    *   Instandhalten gebäudetechnischer Anlagen und Systeme
+        (§ 7 Absatz 1 Nummer 15)
 
     *
         d)  Einhaltung von Sicherheitsvorschriften überwachen, Sicherungsmaßnahmen
@@ -3786,12 +3865,13 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *   3 bis 5
 
-*    *   15
 
-    *   Betreiben von
-        technischen Systemen
-        (§ 7 Abs. 1 Nr. 15)
+*    *   16
+
+    *   Betreiben von technischen Systemen
+        (§ 7 Absatz 1 Nummer 16)
 
     *
         a)  Systeme überwachen und unter Berücksichtigung der Kundenwünsche sowie
@@ -3815,12 +3895,12 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technisches
-        Gebäudemanagement
-        (§ 7 Abs. 1 Nr. 16)
+    *   Technisches Gebäudemanagement
+        (§ 7 Absatz 1 Nummer 17)
 
     *
         c)  Datenblätter und Anlagenprofile erstellen und über Datenbanken
@@ -3829,16 +3909,15 @@ Teil B: Zeitliche Gliederung ****
 
 
 
+    *
 
 *    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
-    *   Geschäftsprozesse und
-        Qualitätsmanagement
-        im Einsatzgebiet
-        (§ 7 Abs. 1 Nr. 17)
+    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
+        (§ 7 Absatz 1 Nummer 18)
 
     *
         a)  Kunden auf spezifische Angebote hinweisen und beraten, Aufträge
@@ -3856,8 +3935,8 @@ Teil B: Zeitliche Gliederung ****
             und an der Kostenplanung mitwirken
 
 
-        d)  Angebote und Kostenvoranschläge unter Beachtung der betrieblichen
-            Vorgaben einholen, prüfen und bewerten
+        d)  Angebote und Kostenvoranschläge unter Beachtung betrieblicher Regeln
+            einholen, prüfen und bewerten
 
 
         e)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
@@ -3899,16 +3978,23 @@ Teil B: Zeitliche Gliederung ****
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
 
+(zu § 12)
 
-### Anlage 3 (zu § 12) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
+### Anlage 3 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Betriebstechnik/zur Elektronikerin für Betriebstechnik
 
-(Fundstelle: BGBl. I 2007, 1706 - 1717)
+(Fundstelle: BGBl. I 2018, 926 — 937)
+
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -3917,11 +4003,12 @@ Fachqualifikationen**
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -3931,11 +4018,11 @@ Fachqualifikationen**
     *   3
 
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse,
         Lösungsentwicklung
-        (§ 11 Abs. 1 Nr. 12)
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen analysieren
@@ -3967,10 +4054,11 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
-    *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+    *   Installieren und Inbetriebnehmen
+        von elektrischen Anlagen
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  Leitern, Gerüste und Montagebühnen auswählen, auf- und abbauen
@@ -4034,6 +4122,12 @@ Fachqualifikationen**
             Baugruppen, prüfen
 
 
+
+
+
+*    *
+    *
+    *
         r)  Beleuchtungsanlagen montieren und installieren
 
 
@@ -4056,12 +4150,10 @@ Fachqualifikationen**
 
 
 
-*    *
-
-*    *   14
+*    *   15
 
     *   Konfigurieren und Programmieren von Steuerungen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         a)  Baugruppen der Mess-, Steuer- und Regelungstechnik hard- und
@@ -4087,11 +4179,11 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
     *   Instandhalten von Anlagen
         und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         a)  Wartungs- und Inspektionsmaßnahmen planen
@@ -4135,10 +4227,10 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
     *   Technischer Service und Betrieb
-        (§ 11 Abs. 1 Nr. 16)
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  Serviceleistung anbieten und durchführen
@@ -4165,6 +4257,12 @@ Fachqualifikationen**
         g)  Ferndiagnose und -wartung durchführen
 
 
+
+
+
+*    *
+    *
+    *
         h)  Anlagedaten und Diagnosedaten auswerten und zur Optimierung nutzen
 
 
@@ -4179,14 +4277,12 @@ Fachqualifikationen**
 
 
 
-*    *
-
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
-        Qualitätsmanagement
-        im Einsatzgebiet
-        (§ 11 Abs. 1 Nr. 17)
+        Qualitätsmanagement im
+        Einsatzgebiet
+        (§ 11 Absatz 1 Nummer 18)
 
     *
         a)  Kunden auf spezifische Angebote hinweisen und beraten, Aufträge
@@ -4204,8 +4300,8 @@ Fachqualifikationen**
             und an der Kostenplanung mitwirken
 
 
-        d)  Angebote und Kostenvoranschläge unter Beachtung der betrieblichen
-            Vorgaben einholen, prüfen und bewerten
+        d)  Angebote und Kostenvoranschläge unter Beachtung betrieblicher Vorgaben
+            einholen, prüfen und bewerten
 
 
         e)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
@@ -4233,7 +4329,7 @@ Fachqualifikationen**
             erstellen, Nachkalkulation durchführen
 
 
-        k)  technische Einrichtungen für die Benutzung frei- und übergeben,
+        k)  technische Einrichtungen für die Benutzung freigeben und übergeben,
             Abnahmeprotokolle anfertigen, Produkte und Dienstleistungen erläutern
 
 
@@ -4245,25 +4341,33 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
 
 
 **Teil B: Zeitliche Gliederung**
 
+**Abschnitt 1**
+
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
+    *   Kern- und Fachqualifikationen,
+        die unter Einbeziehung selbstständigen Planens,
+        Durchführens und Kontrollierens integriert zu vermitteln sind
 
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitrahmen
+        in Monaten
 
 
 *    *   1
@@ -4275,14 +4379,11 @@ Fachqualifikationen**
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
-    *   Berufsbildung, Arbeits-
-        und Tarifrecht
-        (§ 11 Abs. 1 Nr. 1)
+    *   Berufsbildung,
+        Arbeits- und Tarifrecht
+        (§ 11 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -4298,47 +4399,46 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 11 Abs. 1 Nr. 2)
+        (§ 11 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 11 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+        (§ 11 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -4363,11 +4463,12 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 11 Abs. 1 Nr. 4)
+        (§ 11 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -4390,6 +4491,63 @@ Fachqualifikationen**
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
+
+
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und Informationssicherheit
+        (§ 11 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
 
 *    *   **Abschnitt 2**
 
@@ -4400,18 +4558,13 @@ Fachqualifikationen**
 *    *   Zeitrahmen 1
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
@@ -4420,31 +4573,34 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 11 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -4454,12 +4610,11 @@ Fachqualifikationen**
 
 
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -4474,18 +4629,17 @@ Fachqualifikationen**
 *    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
@@ -4494,31 +4648,31 @@ Fachqualifikationen**
     *   3 bis 5
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
 
 
 
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 11 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -4539,12 +4693,11 @@ Fachqualifikationen**
 
 
 
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 11 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 11 Absatz 1 Nummer 10)
 
     *
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
@@ -4557,10 +4710,10 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         a)  Leitern, Gerüste und Montagebühnen auswählen, auf- und abbauen
@@ -4579,27 +4732,24 @@ Fachqualifikationen**
 *    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
 
 
-    *   2 bis 4
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 11 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -4612,13 +4762,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         c)  Kenndaten und Funktion von Baugruppen prüfen
@@ -4635,12 +4785,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   12
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 11 Abs. 1 Nr. 12)
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         e)  Mess-, Steuer- und Regelungseinrichtungen, Sensoren, Aktoren, Software
@@ -4649,11 +4800,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         g)  Betriebsmittel zum Steuern, Regeln, Messen und Überwachen einbauen,
@@ -4662,18 +4814,21 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 4
 
 
-*    *   5
+*    *   7
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
 
     *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+            grafische Benutzeroberflächen einrichten
 
 
 
@@ -4681,26 +4836,12 @@ Fachqualifikationen**
     *   1 bis 3
 
 
-*    *   6
+*    *   11
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
-
-    *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
-
-
-
-
-
-*    *   10
-
-    *   Installieren und Konfigurieren
-        von IT-Systemen
-        (§ 11 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 11 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -4718,42 +4859,16 @@ Fachqualifikationen**
 
 
 
-
-
-*    *   Berufs-
-        bild-
-        position
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
-
-    *   Zeitrahmen in
-        Monaten
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-    *   4
-
-
 *    *   **2. Ausbildungsjahr, 1. Halbjahr**
 
 
 *    *   Zeitrahmen 5
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 11 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
@@ -4762,15 +4877,13 @@ Fachqualifikationen**
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 11 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 11 Absatz 1 Nummer 10)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -4804,12 +4917,13 @@ Fachqualifikationen**
 
 
 
+    *   1 bis 3
 
-*    *   12
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 11 Abs. 1 Nr. 12)
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         c)  Anlagenänderungen und -erweiterungen entwerfen, Stromkreise und
@@ -4822,11 +4936,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         e)  Einschübe, Gehäuse und Schaltgerätekombinationen zusammenbauen und
@@ -4848,36 +4963,35 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
 
 
-    *   1 bis 3
+    *   3 bis 5
 
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         g)  Sensoren und Aktoren prüfen und einstellen
@@ -4890,12 +5004,12 @@ Fachqualifikationen**
 
 
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 11 Abs. 1 Nr. 11)
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         c)  Störungsmeldungen aufnehmen
@@ -4904,10 +5018,10 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         s)  Schutzeinrichtungen einstellen und deren Wirksamkeit prüfen,
@@ -4921,11 +5035,10 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
-    *   Instandhalten von Anlagen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+    *   Instandhalten von Anlagen und Systemen
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         a)  Wartungs- und Inspektionsmaßnahmen planen
@@ -4948,39 +5061,39 @@ Fachqualifikationen**
 *    *   Zeitrahmen 7
 
 
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
-
-    *
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
-
-
-
-
-    *   2 bis 4
-
-
 *    *   6
 
-    *   Planen und Organisieren der Arbeit, Bewerten der Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
+
+
+
+
+    *
+
+*    *   7
+
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 11 Absatz 1 Nummer 7)
+
+    *
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
             prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 11 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 11 Absatz 1 Nummer 8)
 
     *
         h)  Abfälle vermeiden sowie Abfallstoffe, nicht verbrauchte Betriebsstoffe
@@ -4990,13 +5103,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 11 Abs. 1 Nr. 11)
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -5005,12 +5119,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 11 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         e)  Mess-, Steuer- und Regelungseinrichtungen, Sensoren, Aktoren, Software
@@ -5019,11 +5133,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         g)  Betriebsmittel zum Steuern, Regeln, Messen und Überwachen einbauen,
@@ -5035,13 +5150,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Konfigurieren und
         Programmieren von
         Steuerungen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         a)  Baugruppen der Mess-, Steuer- und Regelungstechnik hard- und
@@ -5062,12 +5178,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   15
 
-    *   Instandhalten von Anlagen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+*    *   16
+
+    *   Instandhalten von Anlagen und Systemen
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         d)  Systemparameter mit vorgegebenen Werten vergleichen und einstellen
@@ -5075,11 +5192,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Technischer Service und Betrieb
-        (§ 11 Abs. 1 Nr. 16)
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         i)  Visualisierungsanwendungen von technischen Anlagen bedienen und
@@ -5088,25 +5206,24 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 8
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
 
 
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
 
@@ -5114,10 +5231,10 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   13
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         d)  Maschinen, Geräte, Antriebssysteme und sonstige Betriebsmittel
@@ -5138,11 +5255,10 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
-    *   Instandhalten von Anlagen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+    *   Instandhalten von Anlagen und Systemen
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         h)  Bearbeitungsmaschinen warten und instand setzen
@@ -5162,66 +5278,64 @@ Fachqualifikationen**
 *    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
+
+
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
             und zielorientiert führen
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
             erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
-        j)  Konflikte im Team lösen
+        i)  Konflikte im Team lösen
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
         d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
             berücksichtigen
 
 
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
             und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
             anwenden
 
 
-        l)  interne und externe Leistungserbringung vergleichen
+        j)  interne und externe Leistungserbringung vergleichen
 
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 11 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 11 Absatz 1 Nummer 9)
 
     *
         i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
@@ -5230,13 +5344,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 11 Abs. 1 Nr. 11)
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
@@ -5245,12 +5360,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 11 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 11 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen analysieren
@@ -5269,11 +5384,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 5
 
-*    *   13
+
+*    *   14
 
     *   Installieren und Inbetriebnehmen von elektrischen Anlagen
-        (§ 11 Abs. 1 Nr. 13)
+        (§ 11 Absatz 1 Nummer 14)
 
     *
         b)  Hebezeuge, Anschlag- und Transportmittel auswählen und einsetzen,
@@ -5304,11 +5421,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Konfigurieren und Programmieren von Steuerungen
-        (§ 11 Abs. 1 Nr. 14)
+        (§ 11 Absatz 1 Nummer 15)
 
     *
         e)  Architekturen, Protokolle, Schnittstellen von Automatisierungsgeräten
@@ -5317,12 +5435,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Instandhalten von
-        Anlagen und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+    *   Instandhalten von Anlagen und Systemen
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         g)  Energieverteilungssysteme beurteilen, warten und instand halten
@@ -5333,12 +5451,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technischer Service
-        und Betrieb
-        (§ 11 Abs. 1 Nr. 16)
+    *   Technischer Service und Betrieb
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         d)  Anlagen übergeben, Kunden in die Bedienung von technischen
@@ -5347,18 +5465,18 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 10
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 11 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 11 Absatz 1 Nummer 6)
 
     *
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
 
 
 
@@ -5366,27 +5484,27 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 11 Abs. 1 Nr. 6)
+        (§ 11 Absatz 1 Nummer 7)
 
     *
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
             nutzen sowie unterschiedliche Lerntechniken anwenden
 
 
 
 
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 11 Abs. 1 Nr. 11)
+        (§ 11 Absatz 1 Nummer 12)
 
     *
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -5405,11 +5523,10 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
-    *   Instandhalten von
-        Anlagen und Systemen
-        (§ 11 Abs. 1 Nr. 15)
+    *   Instandhalten von Anlagen und Systemen
+        (§ 11 Absatz 1 Nummer 16)
 
     *
         e)  Diagnosesysteme nutzen, Funktion von Baugruppen prüfen, defekte
@@ -5425,11 +5542,10 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
-    *   Technischer Service
-        und Betrieb
-        (§ 11 Abs. 1 Nr. 16)
+    *   Technischer Service und Betrieb
+        (§ 11 Absatz 1 Nummer 17)
 
     *
         a)  Serviceleistung anbieten und durchführen
@@ -5465,12 +5581,10 @@ Fachqualifikationen**
 *    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
-    *   Geschäftsprozesse und
-        Qualitätsmanagement
-        im Einsatzgebiet
-        (§ 11 Abs. 1 Nr. 17)
+    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
+        (§ 11 Absatz 1 Nummer 18)
 
     *
         a)  Kunden auf spezifische Angebote hinweisen und beraten, Aufträge
@@ -5488,8 +5602,8 @@ Fachqualifikationen**
             und an der Kostenplanung mitwirken
 
 
-        d)  Angebote und Kostenvoranschläge unter Beachtung der betrieblichen
-            Vorgaben einholen, prüfen und bewerten
+        d)  Angebote und Kostenvoranschläge unter Beachtung betrieblicher Vorgaben
+            einholen, prüfen und bewerten
 
 
         e)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
@@ -5513,13 +5627,11 @@ Fachqualifikationen**
             Qualitätsmängeln systematisch suchen, beseitigen und dokumentieren
 
 
-
-
         j)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
             erstellen, Nachkalkulation durchführen
 
 
-        k)  technische Einrichtungen für die Benutzung frei- und übergeben,
+        k)  technische Einrichtungen für die Benutzung freigeben und übergeben,
             Abnahmeprotokolle anfertigen, Produkte und Dienstleistungen erläutern
 
 
@@ -5531,18 +5643,23 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
-*    *
 
+(zu § 15)
 
+### Anlage 4 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
 
-### Anlage 4 (zu § 16) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Automatisierungstechnik/zur Elektronikerin für Automatisierungstechnik
+(Fundstelle: BGBl. I 2018, 938 — 949)
 
-   (Fundstelle: BGBl. I 2007, 1718 - 1728)
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -5551,10 +5668,11 @@ Fachqualifikationen**
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
         integriert mit Kernqualifikationen zu vermitteln sind
 
 
@@ -5565,11 +5683,10 @@ Fachqualifikationen**
     *   3
 
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  technische Prozesse und deren Grundoperationen bewerten,
@@ -5599,11 +5716,11 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von
+        Einrichtungen der Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         a)  Systeme ändern, anpassen, verdrahten, verbinden, konfigurieren,
@@ -5643,10 +5760,10 @@ Fachqualifikationen**
 
 
 
-*    *   14
+*    *   15
 
     *   Konfigurieren und Programmieren von Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Steuerungsprogramme erstellen
@@ -5673,6 +5790,12 @@ Fachqualifikationen**
         g)  Signal- und Datenübertragungseinrichtungen konfigurieren
 
 
+
+
+
+*    *
+    *
+    *
         h)  Netzwerkbetriebssysteme und Netzwerke konfigurieren und parametrieren
 
 
@@ -5687,13 +5810,11 @@ Fachqualifikationen**
 
 
 
-*    *
-
-*    *   15
+*    *   16
 
     *   Prüfen und Inbetriebnehmen
         von Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 15)
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         a)  Leitsysteme, Visualisierungssysteme und Datennetze von Maschinen- oder
@@ -5720,11 +5841,11 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
     *   Instandhalten und Optimieren
         von Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Prozessgrößen erfassen und auswerten
@@ -5762,12 +5883,12 @@ Fachqualifikationen**
 
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
         Qualitätsmanagement
         im Einsatzgebiet
-        (§ 15 Abs. 1 Nr. 17)
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -5792,6 +5913,12 @@ Fachqualifikationen**
             und Umweltschutz, durchführen, Einhaltung von Terminen verfolgen
 
 
+
+
+
+*    *
+    *
+    *
         f)  Prüfarten und Prüfmittel auswählen, Einsatzfähigkeit der Prüfmittel
             feststellen, Prüfpläne und betriebliche Prüfvorschriften anwenden,
             Funktion und Sicherheit prüfen und dokumentieren
@@ -5823,27 +5950,33 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        m)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
 
-*    *
 
 
-   **Teil B: Zeitliche Gliederung**
+
+**Teil B: Zeitliche Gliederung**
+
+**Abschnitt 1**
 
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
+    *   Kern- und Fachqualifikationen,
+        die unter Einbeziehung selbstständigen Planens,
+        Durchführens und Kontrollierens integriert zu vermitteln sind
 
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitrahmen
+        in Monaten
 
 
 *    *   1
@@ -5855,14 +5988,11 @@ Fachqualifikationen**
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
     *   Berufsbildung, Arbeits-
         und Tarifrecht
-        (§ 15 Abs. 1 Nr. 1)
+        (§ 15 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -5878,46 +6008,46 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 15 Abs. 1 Nr. 2)
+        (§ 15 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
     *   Sicherheit und Gesundheitsschutz bei der Arbeit
-        (§ 15 Abs. 1 Nr. 3)
+        (§ 15 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -5942,11 +6072,12 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 15 Abs. 1 Nr. 4)
+        (§ 15 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -5969,6 +6100,63 @@ Fachqualifikationen**
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
+
+
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und Informationssicherheit
+        (§ 15 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
 
 *    *   **Abschnitt 2**
 
@@ -5979,18 +6167,13 @@ Fachqualifikationen**
 *    *   Zeitrahmen 1
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
@@ -5999,31 +6182,34 @@ Fachqualifikationen**
     *   3 bis 5
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 15 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -6033,12 +6219,10 @@ Fachqualifikationen**
 
 
 
-*    *   8
+*    *   9
 
-    *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 15 Abs. 1 Nr. 8)
+    *   Messen und Analysieren von elektrischen Funktionen und Systemen
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -6050,11 +6234,12 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von
+        Einrichtungen der
+        Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         a)  Systeme ändern, anpassen, verdrahten, verbinden, konfigurieren,
@@ -6067,51 +6252,50 @@ Fachqualifikationen**
 *    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 15 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -6131,13 +6315,14 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   9
+
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 15 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 15 Absatz 1 Nummer 10)
 
     *
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
@@ -6149,12 +6334,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         e)  technische Schnittstellen klären
@@ -6168,12 +6353,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von
+        Einrichtungen der
+        Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         b)  Maschinen, Geräte und sonstige Betriebsmittel aufstellen, ausrichten,
@@ -6182,50 +6369,48 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
 
 
-    *   2 bis 4
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 15 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
             unterschiedlichen Anschlusstechniken verbinden
 
 
-        c)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
+        f)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
             Geräte oder Anlagen in Betrieb nehmen
 
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 15 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         c)  Kenndaten und Funktion von Baugruppen prüfen
@@ -6242,12 +6427,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   12
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         g)  technische Unterlagen für die Ausführung der Arbeiten erstellen
@@ -6255,12 +6441,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von
+        Einrichtungen der
+        Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         c)  Schaltgeräte und Betriebsmittel zum Steuern, Regeln, Messen und
@@ -6272,12 +6460,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Konfigurieren und
-        Programmieren von Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 14)
+    *   Konfigurieren und Programmieren von Automatisierungssystemen
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Steuerungsprogramme erstellen
@@ -6285,45 +6473,33 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 4
 
 
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
-
-    *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
-
-
-
-
-    *   1 bis 3
-
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
             grafische Benutzeroberflächen einrichten
 
 
 
 
+    *
 
-*    *   10
+*    *   11
 
-    *   Installieren und Konfigurieren
-        von IT-Systemen
-        (§ 15 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 15 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -6340,12 +6516,15 @@ Fachqualifikationen**
 
 
 
+    *   1 bis 3
 
-*    *   13
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Errichten von
+        Einrichtungen der
+        Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         g)  Signal- und Datenübertragungssysteme installieren, prüfen und in
@@ -6354,6 +6533,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 1. Halbjahr**
 
@@ -6361,11 +6541,10 @@ Fachqualifikationen**
 *    *   Zeitrahmen 5
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 15 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
@@ -6374,15 +6553,13 @@ Fachqualifikationen**
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
-        von elektrischen Anlagen
-        und Betriebsmitteln
-        (§ 15 Abs. 1 Nr. 9)
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 15 Absatz 1 Nummer 10)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -6416,12 +6593,15 @@ Fachqualifikationen**
 
 
 
+    *   1 bis 3
 
-*    *   13
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Errichten von
+        Einrichtungen der
+        Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         f)  Einrichtungen der Energieversorgung und -verteilung bereitstellen
@@ -6429,36 +6609,34 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 15 Abs. 1 Nr. 8)
+        von elektrischen Funktionen und Systemen
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         g)  Sensoren und Aktoren prüfen und einstellen
@@ -6470,13 +6648,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         c)  Störungsmeldungen aufnehmen
@@ -6484,12 +6663,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  technische Prozesse und deren Grundoperationen bewerten,
@@ -6498,13 +6677,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 5
 
-*    *   15
 
-    *   Prüfen und Inbetriebnehmen
-        von Automatisierungs-
-        systemen
-        (§ 15 Abs. 1 Nr. 15)
+*    *   16
+
+    *   Prüfen und Inbetriebnehmen von Automatisierungssystemen
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         b)  Komponenten der Automatisierungstechnik justieren und prüfen
@@ -6519,13 +6698,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Instandhalten und
         Optimieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         e)  Testsoftware und Diagnosesysteme einsetzen
@@ -6533,6 +6713,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 2. Halbjahr**
 
@@ -6540,41 +6721,39 @@ Fachqualifikationen**
 *    *   Zeitrahmen 7
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
             prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 15 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 15 Absatz 1 Nummer 8)
 
     *
         h)  Abfälle vermeiden sowie Abfallstoffe, nicht verbrauchte Betriebsstoffe
@@ -6584,12 +6763,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   10
+*    *   11
 
-    *   Installieren und Konfigurieren
-        von IT-Systemen
-        (§ 15 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 15 Absatz 1 Nummer 11)
 
     *
         d)  Tools und Testprogramme einsetzen
@@ -6597,13 +6778,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -6612,12 +6794,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   12
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         c)  bei der Entwicklung von Automatisierungslösungen mitwirken
@@ -6629,12 +6812,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von Einrichtungen der Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         d)  Sensoren und Aktoren montieren
@@ -6642,13 +6825,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Konfigurieren und
         Programmieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         a)  Steuerungsprogramme erstellen
@@ -6667,45 +6851,44 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 8
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         d)  Mess-, Steuer- und Regelungseinrichtungen, Sensoren, Aktoren, Software
@@ -6714,12 +6897,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+    *   Errichten von Einrichtungen der Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         i)  elektrische Antriebe montieren, ausrichten, kuppeln und anschließen
@@ -6727,13 +6910,15 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   14
+
+*    *   15
 
     *   Konfigurieren und
         Programmieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         f)  Anwendersoftware zur Maschinen- oder Prozesssteuerung konfigurieren
@@ -6742,13 +6927,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Instandhalten und
         Optimieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         b)  elektrische, elektropneumatische oder elektrohydraulische Komponenten
@@ -6757,6 +6943,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **3. und 4. Ausbildungsjahr**
 
@@ -6764,18 +6951,21 @@ Fachqualifikationen**
 *    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
+
+
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
             und zielorientiert führen
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
             erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
@@ -6784,48 +6974,41 @@ Fachqualifikationen**
 
 
 
-    *   3 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
         d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
             berücksichtigen
 
 
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
 
 
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
             und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
             anwenden
 
 
-        l)  interne und externe Leistungserbringung vergleichen
+        j)  interne und externe Leistungserbringung vergleichen
 
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Messen und Analysieren von
-        elektrischen Funktionen und
-        Systemen
-        (§ 15 Abs. 1 Nr. 8)
+    *   Messen und Analysieren
+        von elektrischen Funktionen und Systemen
+        (§ 15 Absatz 1 Nummer 9)
 
     *
         i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
@@ -6834,13 +7017,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
@@ -6849,12 +7033,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 15 Abs. 1 Nr. 12)
+    *   Technische Auftrags-
+        analyse, Lösungs-
+        entwicklung
+        (§ 15 Absatz 1 Nummer 13)
 
     *
         a)  technische Prozesse und deren Grundoperationen bewerten,
@@ -6867,12 +7053,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 5
 
-*    *   13
 
-    *   Errichten von Einrichtungen
-        der Automatisierungstechnik
-        (§ 15 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Errichten von Einrichtungen der Automatisierungstechnik
+        (§ 15 Absatz 1 Nummer 14)
 
     *
         h)  Signal- und Datenübertragungseinrichtungen verlegen und montieren
@@ -6883,13 +7070,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Konfigurieren und
         Programmieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 14)
+        (§ 15 Absatz 1 Nummer 15)
 
     *
         e)  komplexe Steuerungen anpassen
@@ -6911,13 +7099,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Prüfen und Inbetriebnehmen
-        von Automatisierungs-
-        systemen
-        (§ 15 Abs. 1 Nr. 15)
+    *   Prüfen und Inbetriebnehmen von Automatisierungssystemen
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         a)  Leitsysteme, Visualisierungssysteme und Datennetze von Maschinen- oder
@@ -6939,46 +7126,46 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 10
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 15 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 15 Absatz 1 Nummer 6)
 
     *
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 15 Abs. 1 Nr. 6)
+        (§ 15 Absatz 1 Nummer 7)
 
     *
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
             nutzen sowie unterschiedliche Lerntechniken anwenden
 
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 15 Abs. 1 Nr. 11)
+        (§ 15 Absatz 1 Nummer 12)
 
     *
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -6996,13 +7183,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Prüfen und Inbetriebnehmen
-        von Automatisierungs-
-        systemen
-        (§ 15 Abs. 1 Nr. 15)
+    *   Prüfen und Inbetriebnehmen von Automatisierungssystemen
+        (§ 15 Absatz 1 Nummer 16)
 
     *
         d)  Test- und Diagnosesoftware einsetzen, Signale an Schnittstellen
@@ -7011,13 +7197,15 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   16
+
+*    *   17
 
     *   Instandhalten und
         Optimieren von
         Automatisierungssystemen
-        (§ 15 Abs. 1 Nr. 16)
+        (§ 15 Absatz 1 Nummer 17)
 
     *
         a)  Prozessgrößen erfassen und auswerten
@@ -7047,16 +7235,15 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
-    *   Geschäftsprozesse und
-        Qualitätsmanagement im
-        Einsatzgebiet
-        (§ 15 Abs. 1 Nr. 17)
+    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
+        (§ 15 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -7104,6 +7291,14 @@ Fachqualifikationen**
             zusammenstellen und modifizieren
 
 
+
+
+    *   10 bis 12
+
+
+*    *
+    *
+    *
         k)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
             Arbeitsergebnisse und -durchführung bewerten
 
@@ -7112,16 +7307,22 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        m)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
-    *   10 bis 12
 
 
+    *
 
 
-### Anlage 5 (zu § 20) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
+   (zu § 20)
 
-(Fundstelle: BGBl. I 2007, 1729 - 1739)
+### Anlage 5 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Geräte und Systeme/zur Elektronikerin für Geräte und Systeme
+
+(Fundstelle: BGBl. I 2018, 950 — 960)
+
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -7130,11 +7331,12 @@ Fachqualifikationen**
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -7144,11 +7346,11 @@ Fachqualifikationen**
     *   3
 
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse,
         Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
@@ -7174,11 +7376,11 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
-    *   Fertigen von Komponenten
-        und Geräten
-        (§ 19 Abs. 1 Nr. 13)
+    *   Fertigen von Komponenten und
+        Geräten
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Entwürfe und Layouts erstellen
@@ -7209,11 +7411,11 @@ Fachqualifikationen**
 
 
 
-*    *   14
+*    *   15
 
     *   Herstellen und Inbetriebnehmen
         von Geräten und Systemen
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  konstruktiven Aufbau erstellen
@@ -7245,12 +7447,12 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
     *   Einrichten, Überwachen und
         Instandhalten von Fertigungs-
         und Prüfeinrichtungen
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         a)  Fertigungsanlagen und Prüfsysteme einrichten, Fertigungs- und
@@ -7269,6 +7471,12 @@ Fachqualifikationen**
             Größen und Signale messen, prüfen und protokollieren
 
 
+
+
+
+*    *
+    *
+    *
         e)  Prüf- und Kalibrierarbeiten sowie deren Dokumentation überwachen und
             durchführen
 
@@ -7291,11 +7499,11 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
     *   Technischer Service
         und Produktsupport
-        (§ 19 Abs. 1 Nr. 16)
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         a)  Reparatur- und Serviceleistung planen, kalkulieren, anbieten,
@@ -7327,12 +7535,11 @@ Fachqualifikationen**
 
 
 
-*    *   17
+*    *   18
 
-    *   Geschäftsprozesse und
-        Qualitätsmanagement im
+    *   Geschäftsprozesse und Qualitätsmanagement im
         Einsatzgebiet
-        (§ 19 Abs. 1 Nr. 17)
+        (§ 19 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -7379,6 +7586,12 @@ Fachqualifikationen**
             Fachauskünfte, auch in englischer Sprache, erteilen
 
 
+
+
+
+*    *
+    *
+    *
         k)  Geräte- und Systemdokumentation und Bedienungsanleitungen, auch in
             Englisch, zusammenstellen und modifizieren
 
@@ -7391,25 +7604,33 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
 
 
 **Teil B: Zeitliche Gliederung**
 
+**Abschnitt 1**
+
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
+    *   Kern- und Fachqualifikationen,
+        die unter Einbeziehung selbstständigen Planens,
+        Durchführens und Kontrollierens integriert zu vermitteln sind
 
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitrahmen
+        in Monaten
 
 
 *    *   1
@@ -7421,14 +7642,11 @@ Fachqualifikationen**
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
     *   Berufsbildung, Arbeits-
         und Tarifrecht
-        (§ 19 Abs. 1 Nr. 1)
+        (§ 19 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -7444,47 +7662,46 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 19 Abs. 1 Nr. 2)
+        (§ 19 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 19 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+        (§ 19 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -7509,11 +7726,12 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 19 Abs. 1 Nr. 4)
+        (§ 19 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -7536,6 +7754,63 @@ Fachqualifikationen**
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
+
+
+*    *   5
+
+    *   Digitalisierung der Arbeit, Datenschutz und Informationssicherheit
+        (§ 19 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
 
 *    *   **Abschnitt 2**
 
@@ -7546,19 +7821,39 @@ Fachqualifikationen**
 *    *   Zeitrahmen 1
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
+
+
+
+
+    *
+
+*    *   7
+
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 19 Absatz 1 Nummer 7)
+
+    *
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
+
+
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 
@@ -7566,31 +7861,10 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   6
+*    *   8
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
-
-    *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
-
-
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 19 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -7599,13 +7873,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Messen und Analysieren von
-        elektrischen Funktionen und
-        Systemen
-        (§ 19 Abs. 1 Nr. 8)
+    *   Messen und Analysieren
+        von elektrischen Funktionen und Systemen
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -7616,12 +7890,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         b)  bei der Entwicklung von Lösungskonzepten für Schaltungen und
@@ -7630,55 +7904,55 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
 
 
-    *   1 bis 3
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
             betrieblichen Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 19 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -7698,12 +7972,14 @@ Fachqualifikationen**
 
 
 
+    *   1 bis 3
 
-*    *   9
+
+*    *   10
 
     *   Beurteilen der Sicherheit
         von elektrischen Anlagen und Betriebsmitteln
-        (§ 19 Abs. 1 Nr. 9)
+        (§ 19 Absatz 1 Nummer 10)
 
     *
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
@@ -7715,12 +7991,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         c)  mechanische, elektrische und elektronische Komponenten auswählen
@@ -7728,12 +8004,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Herstellen und Inbetrieb-
-        nehmen von Geräten und Systemen
-        (§ 19 Abs. 1 Nr. 14)
+    *   Herstellen und Inbetriebnehmen von Geräten und Systemen
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         c)  Leitungen konfektionieren sowie Komponenten verbinden
@@ -7741,31 +8017,29 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
 
 
-    *   3 bis 5
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 19 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -7778,12 +8052,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
         von elektrischen Funktionen und Systemen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         c)  Kenndaten und Funktion von Baugruppen prüfen
@@ -7800,11 +8075,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 5
 
-*    *   12
+
+*    *   13
 
     *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         c)  mechanische, elektrische und elektronische Komponenten auswählen
@@ -7812,11 +8089,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Fertigen von Komponenten und Geräten
-        (§ 19 Abs. 1 Nr. 13)
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         c)  Bauteile und Baugruppen beschaffen
@@ -7827,11 +8105,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
     *   Herstellen und Inbetriebnehmen von Geräten und Systemen
-        (§ 19 Abs. 1 Nr. 14)
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         c)  Leitungen konfektionieren sowie Komponenten verbinden
@@ -7839,17 +8118,21 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 4
 
 
-*    *   5
+*    *   7
 
-    *   Betriebliche und technische Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 19 Absatz 1 Nummer 7)
 
     *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+            grafische Benutzeroberflächen einrichten
 
 
 
@@ -7857,25 +8140,12 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   6
+*    *   11
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
-
-    *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
-
-
-
-
-
-*    *   10
-
-    *   Installieren und Konfigurieren von IT-Systemen
-        (§ 19 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 19 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -7899,11 +8169,10 @@ Fachqualifikationen**
 *    *   Zeitrahmen 5
 
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 19 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
@@ -7912,15 +8181,13 @@ Fachqualifikationen**
 
 
 
-    *   1 bis 3
+    *
 
+*    *   10
 
-*    *   9
-
-    *   Beurteilen der Sicherheit von
-        elektrischen Anlagen und
-        Betriebsmitteln
-        (§ 19 Abs. 1 Nr. 9)
+    *   Beurteilen der Sicherheit
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 19 Absatz 1 Nummer 10)
 
     *
         a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
@@ -7950,39 +8217,38 @@ Fachqualifikationen**
 
 
 
+    *   1 bis 3
+
 
 *    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
 
 
-    *   3 bis 5
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 19 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 19 Absatz 1 Nummer 8)
 
     *
         h)  Abfälle vermeiden sowie Abfallstoffe, nicht verbrauchte Betriebsstoffe
@@ -7992,13 +8258,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
-    *   Messen und Analysieren von
-        elektrischen Funktionen und
-        Systemen
-        (§ 19 Abs. 1 Nr. 8)
+    *   Messen und Analysieren
+        von elektrischen Funktionen und Systemen
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         g)  Sensoren und Aktoren prüfen und einstellen
@@ -8010,12 +8276,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 5
 
-*    *   13
 
-    *   Fertigen von Komponenten
-        und Geräten
-        (§ 19 Abs. 1 Nr. 13)
+*    *   14
+
+    *   Fertigen von Komponenten und Geräten
+        (§ 19 Absatz 1 Nummer 14)
 
     *
         a)  Entwürfe und Layouts erstellen
@@ -8045,6 +8312,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 2. Halbjahr**
 
@@ -8052,29 +8320,28 @@ Fachqualifikationen**
 *    *   Zeitrahmen 7
 
 
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
             prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 19 Abs. 1 Nr. 11)
+        (§ 19 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -8083,13 +8350,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   14
+*    *   15
 
-    *   Herstellen und Inbetrieb-
-        nehmen von Geräten
-        und Systemen
-        (§ 19 Abs. 1 Nr. 14)
+    *   Herstellen und Inbetriebnehmen von Geräten und Systemen
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         a)  konstruktiven Aufbau erstellen
@@ -8110,50 +8376,48 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 4
+
 
 *    *   Zeitrahmen 8
 
 
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
-
-    *
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
-
-
-
-
-    *   2 bis 3
-
-
 *    *   6
 
-    *   Planen und Organisieren der
-        Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
 
 
 
 
+    *
 
-*    *   12
+*    *   7
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 19 Absatz 1 Nummer 7)
+
+    *
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
+
+
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+
+
+
+
+    *
+
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
@@ -8170,13 +8434,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 3
 
-*    *   14
 
-    *   Herstellen und
-        Inbetriebnehmen
-        von Geräten und Systemen
-        (§ 19 Abs. 1 Nr. 14)
+*    *   15
+
+    *   Herstellen und Inbetriebnehmen von Geräten und Systemen
+        (§ 19 Absatz 1 Nummer 15)
 
     *
         e)  Hardware- und Softwarekomponenten kundenspezifisch anpassen
@@ -8191,12 +8455,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
-    *   Technischer Service und
-        Produktsupport
-        (§ 19 Abs. 1 Nr. 16)
+    *   Technischer Service und Produktsupport
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         g)  Störungsursachen und Kundenhinweise analysieren, Vorschläge für die
@@ -8205,6 +8469,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **3. und 4. Ausbildungsjahr**
 
@@ -8212,69 +8477,75 @@ Fachqualifikationen**
 *    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
+
+
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
             und zielorientiert führen
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+
+
+    *
+
+*    *
+    *
+    *
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
             erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
-        j)  Konflikte im Team lösen
+        i)  Konflikte im Team lösen
 
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 19 Abs. 1 Nr. 6)
+        (§ 19 Absatz 1 Nummer 7)
 
     *
         d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
             berücksichtigen
 
 
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
             und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
             anwenden
 
 
-        l)  interne und externe Leistungserbringung vergleichen
+        j)  interne und externe Leistungserbringung vergleichen
 
 
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
             nutzen sowie unterschiedliche Lerntechniken anwenden
 
 
 
 
+    *
 
-*    *   9
+*    *   10
 
     *   Beurteilen der Sicherheit
         von elektrischen Anlagen und Betriebsmitteln
-        (§ 19 Abs. 1 Nr. 9)
+        (§ 19 Absatz 1 Nummer 10)
 
     *
         i)  Brandschutzbestimmungen beim Errichten und Betreiben elektrischer
@@ -8283,13 +8554,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 19 Abs. 1 Nr. 11)
+        (§ 19 Absatz 1 Nummer 12)
 
     *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
@@ -8298,11 +8570,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 19 Abs. 1 Nr. 12)
+        (§ 19 Absatz 1 Nummer 13)
 
     *
         d)  die für die Fertigungs- und Prüfprozesse typischen Abläufe und
@@ -8316,14 +8589,15 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 4
 
-*    *   15
+
+*    *   16
 
     *   Einrichten, Überwachen
-        und Instandhalten von
-        Fertigungs- und
+        und Instandhalten von Fertigungs- und
         Prüfeinrichtungen
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         a)  Fertigungsanlagen und Prüfsysteme einrichten, Fertigungs- und
@@ -8363,30 +8637,29 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 10
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 19 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 19 Absatz 1 Nummer 6)
 
     *
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
 
 
 
 
-    *   3 bis 4
+    *
 
-
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
         von elektrischen Funktionen und Systemen
-        (§ 19 Abs. 1 Nr. 8)
+        (§ 19 Absatz 1 Nummer 9)
 
     *
         i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
@@ -8395,13 +8668,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 19 Abs. 1 Nr. 11)
+        (§ 19 Absatz 1 Nummer 12)
 
     *
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -8422,14 +8696,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
     *   Einrichten, Überwachen
-        und Instandhalten von
-        Fertigungs- und
+        und Instandhalten von Fertigungs- und
         Prüfeinrichtungen
-        (§ 19 Abs. 1 Nr. 15)
+        (§ 19 Absatz 1 Nummer 16)
 
     *
         h)  Wartungsmaßnahmen planen, kalkulieren und durchführen
@@ -8440,12 +8714,13 @@ Fachqualifikationen**
 
 
 
+    *   3 bis 4
 
-*    *   16
 
-    *   Technischer Service und
-        Produktsupport
-        (§ 19 Abs. 1 Nr. 16)
+*    *   17
+
+    *   Technischer Service und Produktsupport
+        (§ 19 Absatz 1 Nummer 17)
 
     *
         a)  Reparatur- und Serviceleistung planen, kalkulieren, anbieten,
@@ -8476,14 +8751,15 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 19 Abs. 1 Nr. 17)
+        (§ 19 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -8505,6 +8781,13 @@ Fachqualifikationen**
             Vorgaben einholen, prüfen und bewerten
 
 
+
+
+    *
+
+*    *
+    *
+    *
         e)  Fremdleistungen veranlassen, prüfen und überwachen
 
 
@@ -8542,16 +8825,23 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        n)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
     *   10 bis 12
 
 
 
+(zu § 24)
 
-### Anlage 6 (zu § 24) Ausbildungsrahmenplan für die Berufsausbildung zum Systeminformatiker/zur Systeminformatikerin
+### Anlage 6 Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für Informations- und Systemtechnik und zur Elektronikerin für Informations- und Systemtechnik
 
-(Fundstelle: BGBl. I 2007, 1740 - 1749)
+(Fundstelle: BGBl. I 2018, 961 — 971)
+
 **Teil A: Sachliche Gliederung der berufsspezifischen
 Fachqualifikationen**
 
@@ -8560,11 +8850,12 @@ Fachqualifikationen**
         bild-
         position
 
-    *   Teil des Ausbildungsberufes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
+    *   Fachqualifikationen, die unter Einbeziehung
+        selbstständigen Planens, Durchführens und Kontrollierens
+        integriert mit Kernqualifikationen zu vermitteln sind
 
 
 *    *   1
@@ -8574,11 +8865,11 @@ Fachqualifikationen**
     *   3
 
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse,
         Lösungsentwicklung
-        (§ 23 Abs. 1 Nr. 12)
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen, auch in englischer Sprache, hinsichtlich der
@@ -8606,10 +8897,10 @@ Fachqualifikationen**
 
 
 
-*    *   13
+*    *   14
 
     *   Erstellen von Software
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  Entwicklungsumgebung und Entwicklungssoftware auswählen
@@ -8634,11 +8925,11 @@ Fachqualifikationen**
 
 
 
-*    *   14
+*    *   15
 
     *   Integrieren und Konfigurieren
         von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Hardwarekomponenten installieren und prüfen
@@ -8675,10 +8966,10 @@ Fachqualifikationen**
 
 
 
-*    *   15
+*    *   16
 
     *   Durchführen von Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Prüfkonzept und -vorgang unter Berücksichtigung technischer
@@ -8692,6 +8983,12 @@ Fachqualifikationen**
             Testdaten generieren und dokumentieren
 
 
+
+
+
+*    *
+    *
+    *
         d)  Prüfsysteme aufbauen und konfigurieren, technische Umfeldbedingungen
             simulieren, Diagnosesoftware einsetzen
 
@@ -8725,11 +9022,10 @@ Fachqualifikationen**
 
 
 
-*    *   16
+*    *   17
 
-    *   Technischer Service und
-        Systemoptimierung
-        (§ 23 Abs. 1 Nr. 16)
+    *   Technischer Service und Systemoptimierung
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         a)  Störungsmeldungen, auch in englischer Sprache, entgegennehmen, Fehler
@@ -8757,12 +9053,12 @@ Fachqualifikationen**
 
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und
         Qualitätsmanagement im
         Einsatzgebiet
-        (§ 23 Abs. 1 Nr. 17)
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -8806,6 +9102,12 @@ Fachqualifikationen**
             zusammenstellen und modifizieren
 
 
+
+
+
+*    *
+    *
+    *
         j)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
             Arbeitsergebnisse und -durchführung bewerten
 
@@ -8814,25 +9116,33 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
+
+
 
 
 
 
 **Teil B: Zeitliche Gliederung**
 
+**Abschnitt 1**
+
 
 *    *   Berufs-
         bild-
         position
 
-    *   Teil des Ausbildungsberufsbildes
+    *   Teil des
+        Ausbildungsberufsbildes
 
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
+    *   Kern- und Fachqualifikationen,
+        die unter Einbeziehung selbstständigen Planens,
+        Durchführens und Kontrollierens integriert zu vermitteln sind
 
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitrahmen
+        in Monaten
 
 
 *    *   1
@@ -8844,14 +9154,11 @@ Fachqualifikationen**
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
     *   Berufsbildung, Arbeits-
         und Tarifrecht
-        (§ 23 Abs. 1 Nr. 1)
+        (§ 23 Absatz 1 Nummer 1)
 
     *
         a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
@@ -8867,47 +9174,46 @@ Fachqualifikationen**
         d)  wesentliche Teile des Arbeitsvertrages nennen
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
+        e)  wesentliche Bestimmungen der für den Ausbildungsbetrieb geltenden
             Tarifverträge nennen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
-
+    *
 
 *    *   2
 
     *   Aufbau und Organisation
         des Ausbildungsbetriebes
-        (§ 23 Abs. 1 Nr. 2)
+        (§ 23 Absatz 1 Nummer 2)
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Aufbau und Aufgaben des Ausbildungsbetriebes erläutern
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
+        b)  Grundfunktionen des Ausbildungsbetriebes wie Beschaffung, Fertigung,
             Absatz und Verwaltung erklären
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
+        c)  Beziehungen des Ausbildungsbetriebes und seiner Belegschaft zu
             Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
             nennen
 
 
         d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
+            personalvertretungsrechtlichen Organe des Ausbildungsbetriebes
             beschreiben
 
 
 
 
+    *
 
 *    *   3
 
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 23 Abs. 1 Nr. 3)
+    *   Sicherheit und Gesundheitsschutz bei der Arbeit
+        (§ 23 Absatz 1 Nummer 3)
 
     *
         a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
@@ -8932,11 +9238,12 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   4
 
     *   Umweltschutz
-        (§ 23 Abs. 1 Nr. 4)
+        (§ 23 Absatz 1 Nummer 4)
 
     *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
         Einwirkungsbereich beitragen, insbesondere
@@ -8959,6 +9266,64 @@ Fachqualifikationen**
 
 
 
+    *   während
+        der gesamten
+        Ausbildung
+
+
+*    *   5
+
+    *   Digitalisierung der
+        Arbeit, Datenschutz und Informationssicherheit
+        (§ 23 Absatz 1 Nummer 5)
+
+    *
+        a)  auftragsbezogene und technische Unterlagen unter Zuhilfenahme von
+            Standardsoftware erstellen
+
+
+        b)  Daten und Dokumente pflegen, austauschen, sichern und archivieren
+
+
+        c)  Daten eingeben, verarbeiten, übermitteln, empfangen und analysieren
+
+
+        d)  Vorschriften zum Datenschutz anwenden
+
+
+        e)  informationstechnische Systeme (IT-Systeme) zur Auftragsplanung,
+            Auftragsabwicklung und Terminverfolgung anwenden
+
+
+        f)  Informationsquellen und Informationen in digitalen Netzen
+            recherchieren und aus digitalen Netzen beschaffen sowie Informationen
+            bewerten
+
+
+        g)  digitale Lernmedien nutzen
+
+
+        h)  die informationstechnischen Schutzziele Verfügbarkeit, Integrität,
+            Vertraulichkeit und Authentizität berücksichtigen
+
+
+        i)  betriebliche Richtlinien zur Nutzung von Datenträgern, elektronischer
+            Post, IT-Systemen und Internetseiten einhalten
+
+
+        j)  Auffälligkeiten und Unregelmäßigkeiten in IT-Systemen erkennen und
+            Maßnahmen zur Beseitigung ergreifen
+
+
+        k)  Assistenz-, Simulations-, Diagnose- oder Visualisierungssysteme nutzen
+
+
+        l)  in interdisziplinären Teams kommunizieren, planen und zusammenarbeiten
+
+
+
+
+    *
 
 *    *   **Abschnitt 2**
 
@@ -8969,19 +9334,39 @@ Fachqualifikationen**
 *    *   Zeitrahmen 1
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
-
-
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
+
+
+
+
+    *
+
+*    *   7
+
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der
+        Arbeitsergebnisse
+        (§ 23 Absatz 1 Nummer 7)
+
+    *
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
+
+
+        b)  erforderliche Werkzeuge, Geräte, Diagnosesysteme und sonstige
+            Materialien für den Arbeitsablauf feststellen und auswählen,
+            termingerecht anfordern, prüfen, transportieren, lagern und
+            bereitstellen
+
+
+        l)  Arbeitsergebnisse kontrollieren, beurteilen und dokumentieren
 
 
 
@@ -8989,31 +9374,10 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   6
+*    *   8
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
-
-    *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
-
-
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 23 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
@@ -9022,12 +9386,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
         von elektrischen Funktionen und Systemen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         a)  Messverfahren und Messgeräte auswählen
@@ -9038,55 +9403,55 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 2
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
+        b)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
             auch in Englisch, auswerten und anwenden
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung betrieblicher
+            Vorgaben einrichten
 
 
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
+        c)  Arbeitsabläufe und Teilaufgaben planen und dabei sowohl rechtliche,
+            wirtschaftliche und terminliche Vorgaben und betriebliche Prozesse
+            beachten als auch vor- und nachgelagerte Bereiche berücksichtigen
+            sowie bei Abweichungen von der Planung Prioritäten setzen
 
 
 
 
+    *
 
-*    *   7
+*    *   8
 
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 23 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -9106,12 +9471,14 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   9
+
+*    *   10
 
     *   Beurteilen der Sicherheit
         von elektrischen Anlagen und Betriebsmitteln
-        (§ 23 Abs. 1 Nr. 9)
+        (§ 23 Absatz 1 Nummer 10)
 
     *
         c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
@@ -9123,31 +9490,29 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 3
 
 
-*    *   5
+*    *   6
 
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+    *   Betriebliche und technische Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
+        a)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
             und erstellen sowie Skizzen anfertigen
 
 
 
 
-    *   2 bis 4
+    *
 
+*    *   8
 
-*    *   7
-
-    *   Montieren und Anschließen
-        elektrischer Betriebsmittel
-        (§ 23 Abs. 1 Nr. 7)
+    *   Montieren und Anschließen elektrischer Betriebsmittel
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
@@ -9160,12 +9525,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
         von elektrischen Funktionen und Systemen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         c)  Kenndaten und Funktion von Baugruppen prüfen
@@ -9182,12 +9548,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   12
 
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 23 Abs. 1 Nr. 12)
+*    *   13
+
+    *   Technische Auftragsanalyse, Lösungsentwicklung
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         d)  technische Schnittstellen klären
@@ -9201,45 +9568,33 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 4
 
 
-*    *   5
-
-    *   Betriebliche und technische
-        Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
-
-    *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
+        f)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
             grafische Benutzeroberflächen einrichten
 
 
 
 
+    *
 
-*    *   10
+*    *   11
 
-    *   Installieren und Konfigurieren
-        von IT-Systemen
-        (§ 23 Abs. 1 Nr. 10)
+    *   Installieren und
+        Konfigurieren von
+        IT-Systemen
+        (§ 23 Absatz 1 Nummer 11)
 
     *
         a)  Hard- und Softwarekomponenten auswählen
@@ -9256,12 +9611,14 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   14
 
-    *   Integrieren und Konfigurieren
-        von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+*    *   15
+
+    *   Integrieren und
+        Konfigurieren von Systemen
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Hardwarekomponenten installieren und prüfen
@@ -9272,6 +9629,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 1. Halbjahr**
 
@@ -9279,14 +9637,47 @@ Fachqualifikationen**
 *    *   Zeitrahmen 5
 
 
-*    *   7
+*    *   8
 
     *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 23 Abs. 1 Nr. 7)
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
             Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
+
+
+
+
+    *
+
+*    *   10
+
+    *   Beurteilen der Sicherheit
+        von elektrischen Anlagen und Betriebsmitteln
+        (§ 23 Absatz 1 Nummer 10)
+
+    *
+        a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
+            beurteilen
+
+
+        b)  Isolationswiderstände messen und beurteilen
+
+
+        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
+            Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer
+            Art beurteilen
+
+
+        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
+            Betriebsmittel und Anlagen ergeben, beurteilen und durch
+            Schutzmaßnahmen die sichere Nutzung gewährleisten
+
+
+        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
+            Fehlerbedingungen, insbesondere durch Abschaltung mit
+            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
 
 
 
@@ -9294,35 +9685,9 @@ Fachqualifikationen**
     *   1 bis 2
 
 
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 23 Abs. 1 Nr. 9)
-
+*    *
     *
-        a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
-            beurteilen
-
-
-        b)  Isolationswiderstände messen und beurteilen
-
-
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer
-            Art beurteilen
-
-
-        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
-            Betriebsmittel und Anlagen ergeben, beurteilen und durch
-            Schutzmaßnahmen die sichere Nutzung gewährleisten
-
-
-        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
-            Fehlerbedingungen, insbesondere durch Abschaltung mit
-            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
-
-
+    *
         h)  elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
 
 
@@ -9332,12 +9697,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Durchführen von
-        Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+    *   Durchführen von Systemtests
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         e)  Schutz- und Sicherheitsvorschriften beachten
@@ -9345,33 +9710,33 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 6
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
+        e)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
             Fachbegriffe anwenden
 
 
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
+        f)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
+            und ergänzen
 
 
 
 
-    *   4 bis 5
+    *
 
-
-*    *   7
+*    *   8
 
     *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 23 Abs. 1 Nr. 7)
+        (§ 23 Absatz 1 Nummer 8)
 
     *
         h)  Abfälle vermeiden sowie Abfallstoffe, nicht verbrauchte Betriebsstoffe
@@ -9381,12 +9746,13 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   8
+*    *   9
 
     *   Messen und Analysieren
         von elektrischen Funktionen und Systemen
-        (§ 23 Abs. 1 Nr. 8)
+        (§ 23 Absatz 1 Nummer 9)
 
     *
         g)  Sensoren und Aktoren prüfen und einstellen
@@ -9402,13 +9768,14 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         c)  Störungsmeldungen aufnehmen
@@ -9416,11 +9783,13 @@ Fachqualifikationen**
 
 
 
+    *   4 bis 5
 
-*    *   14
+
+*    *   15
 
     *   Integrieren und Konfigurieren von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         a)  Hardwarekomponenten installieren und prüfen
@@ -9435,12 +9804,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Durchführen von
-        Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+    *   Durchführen von Systemtests
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         d)  Prüfsysteme aufbauen und konfigurieren, technische Umfeldbedingungen
@@ -9464,6 +9833,7 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   **2. Ausbildungsjahr, 2. Halbjahr**
 
@@ -9471,44 +9841,43 @@ Fachqualifikationen**
 *    *   Zeitrahmen 7
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
+        h)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
 
 
 
 
-    *   2 bis 4
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
+        g)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
             prüfen und mit den betrieblichen Möglichkeiten abstimmen
 
 
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
+        h)  betriebswirtschaftlich relevante Daten erfassen und bewerten
 
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
-        (§ 23 Abs. 1 Nr. 11)
+        von Kunden, Erbringen von Serviceleistungen
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
@@ -9517,11 +9886,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 23 Abs. 1 Nr. 12)
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         c)  Hard- und Softwarekomponenten unter Berücksichtigung aktueller
@@ -9531,11 +9901,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   13
+*    *   14
 
     *   Erstellen von Software
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         b)  Softwarekomponenten anpassen
@@ -9553,11 +9924,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 4
 
-*    *   14
+
+*    *   15
 
     *   Integrieren und Konfigurieren von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         c)  Hard- und Softwarekomponenten einstellen und anpassen
@@ -9569,12 +9942,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Durchführen von
-        Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+    *   Durchführen von Systemtests
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Prüfkonzept und -vorgang unter Berücksichtigung technischer
@@ -9585,20 +9958,21 @@ Fachqualifikationen**
             Testdaten generieren und dokumentieren
 
 
-        j)  Fehler durch Softwareanpassung und Tausch von Hard- und
+        k)  Fehler durch Softwareanpassung und Tausch von Hard- und
             Softwarekomponenten beseitigen
 
 
 
 
+    *
 
 *    *   Zeitrahmen 8
 
 
-*    *   13
+*    *   14
 
     *   Erstellen von Software
-        (§ 23 Abs. 1 Nr. 13)
+        (§ 23 Absatz 1 Nummer 14)
 
     *
         a)  Entwicklungsumgebung und Entwicklungssoftware auswählen
@@ -9612,11 +9986,10 @@ Fachqualifikationen**
     *   2 bis 4
 
 
-*    *   15
+*    *   16
 
-    *   Durchführen von
-        Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+    *   Durchführen von Systemtests
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         c)  Softwaretests durchführen, Testsoftware auswählen und adaptieren,
@@ -9632,62 +10005,64 @@ Fachqualifikationen**
 *    *   Zeitrahmen 9
 
 
-*    *   5
+*    *   6
 
     *   Betriebliche und technische Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
+        c)  im virtuellen Raum zusammenarbeiten, Produkt- und Prozessdaten sowie
+            Handlungsanweisungen und Funktionsbeschreibungen austauschen
+
+
+        d)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
             und zielorientiert führen
 
 
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
+        g)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
             erarbeiten, Gesprächsergebnisse schriftlich fixieren
 
 
-        j)  Konflikte im Team lösen
+        i)  Konflikte im Team lösen
 
 
 
 
-    *   4 bis 5
+    *
 
-
-*    *   6
+*    *   7
 
     *   Planen und Organisieren
         der Arbeit, Bewerten der
         Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+        (§ 23 Absatz 1 Nummer 7)
 
     *
         d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
             berücksichtigen
 
 
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
+        e)  Kalkulationen nach betrieblichen Vorgaben durchführen,
+            Lösungsvarianten aufzeigen, Kosten vergleichen
 
 
         g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
             anwenden
 
 
-        l)  interne und externe Leistungserbringung vergleichen
+        j)  interne und externe Leistungserbringung vergleichen
 
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
@@ -9696,11 +10071,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   12
+*    *   13
 
     *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 23 Abs. 1 Nr. 12)
+        (§ 23 Absatz 1 Nummer 13)
 
     *
         a)  Kundenanforderungen, auch in englischer Sprache, hinsichtlich der
@@ -9718,11 +10094,13 @@ Fachqualifikationen**
 
 
 
+    *   4 bis 5
 
-*    *   14
+
+*    *   15
 
     *   Integrieren und Konfigurieren von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         b)  Systemsoftware sowie Hilfs- und Steuerprogramme installieren und
@@ -9738,12 +10116,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   15
+*    *   16
 
-    *   Durchführen von
-        Systemtests
-        (§ 23 Abs. 1 Nr. 15)
+    *   Durchführen von Systemtests
+        (§ 23 Absatz 1 Nummer 16)
 
     *
         a)  Prüfkonzept und -vorgang unter Berücksichtigung technischer
@@ -9771,50 +10149,50 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 10
 
 
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 23 Abs. 1 Nr. 5)
-
-    *
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
-
-
-
-
-    *   2 bis 3
-
-
 *    *   6
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 23 Abs. 1 Nr. 6)
+    *   Betriebliche und technische Kommunikation
+        (§ 23 Absatz 1 Nummer 6)
 
     *
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
+        j)  schriftliche Kommunikation in Deutsch und Englisch durchführen
+
+
+
+
+    *
+
+*    *   7
+
+    *   Planen und Organisieren
+        der Arbeit, Bewerten der Arbeitsergebnisse
+        (§ 23 Absatz 1 Nummer 7)
+
+    *
+        i)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
             und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
             anwenden
 
 
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
+        k)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
             nutzen sowie unterschiedliche Lerntechniken anwenden
 
 
 
 
+    *
 
-*    *   11
+*    *   12
 
     *   Beraten und Betreuen
         von Kunden, Erbringen
         von Serviceleistungen
-        (§ 23 Abs. 1 Nr. 11)
+        (§ 23 Absatz 1 Nummer 12)
 
     *
         b)  auf Wartungsarbeiten und -intervalle hinweisen
@@ -9832,11 +10210,13 @@ Fachqualifikationen**
 
 
 
+    *   2 bis 3
 
-*    *   14
+
+*    *   15
 
     *   Integrieren und Konfigurieren von Systemen
-        (§ 23 Abs. 1 Nr. 14)
+        (§ 23 Absatz 1 Nummer 15)
 
     *
         h)  Nutzerprogramme einbinden
@@ -9844,11 +10224,12 @@ Fachqualifikationen**
 
 
 
+    *
 
-*    *   16
+*    *   17
 
     *   Technischer Service und Systemoptimierung
-        (§ 23 Abs. 1 Nr. 16)
+        (§ 23 Absatz 1 Nummer 17)
 
     *
         a)  Störungsmeldungen, auch in englischer Sprache, entgegennehmen, Fehler
@@ -9875,14 +10256,15 @@ Fachqualifikationen**
 
 
 
+    *
 
 *    *   Zeitrahmen 11
 
 
-*    *   17
+*    *   18
 
     *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 23 Abs. 1 Nr. 17)
+        (§ 23 Absatz 1 Nummer 18)
 
     *
         a)  Aufträge annehmen
@@ -9913,6 +10295,14 @@ Fachqualifikationen**
             systematisch suchen, beseitigen und dokumentieren
 
 
+
+
+    *   10 bis 12
+
+
+*    *
+    *
+    *
         g)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
             erstellen, Nachkalkulation durchführen
 
@@ -9934,330 +10324,37 @@ Fachqualifikationen**
             Betriebsablauf und im eigenen Arbeitsbereich beitragen
 
 
+        l)  Lebenszyklusdaten von Aufträgen, Dienstleistungen, Produkten und
+            Betriebsmitteln auswerten und Vorschläge zur Optimierung von Abläufen
+            und Prozessen erarbeiten
 
 
-    *   10 bis 12
 
-
-
-
-### Anlage 7 (zu § 28) Ausbildungsrahmenplan für die Berufsausbildung zum Elektroniker für luftfahrttechnische Systeme/zur Elektronikerin für luftfahrttechnische Systeme
-
-(Fundstelle: BGBl. I 2007, 1750 - 1760)
-Teil A: Sachliche Gliederung der berufsspezifischen
-Fachqualifikationen ****
-
-
-*    *   Berufs-
-        bild-
-        position
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Fachqualifikationen, die unter Einbeziehung selbstständigen Planens,
-        Durchführens und Kontrollierens integriert mit
-        Kernqualifikationen zu vermitteln sind
-
-
-*    *   1
-
-    *   2
-
-    *   3
-
-
-*    *   12
-
-    *   Technische Auftragsanalyse,
-        Lösungsentwicklung
-        (§ 27 Abs. 1 Nr. 12)
 
     *
-        a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
-            technische Umgebungsbedingungen, analysieren
 
 
-        b)  Prozessschritte unter Beachtung arbeitsorganisatorischer,
-            technologischer, wirtschaftlicher und sicherheitstechnischer
-            Gesichtspunkte planen
+   (zu § 29)
 
+### Anlage 7 Ausbildungsrahmenplan für die Zusatzqualifikationen
 
-        c)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
+(Fundstelle: BGBl. I 2018, 972 — 974)
 
+**Teil A: Zusatzqualifikation Digitale Vernetzung**
 
 
+*    *   Lfd.
+        Nr.
 
+    *   Teil der
+        Zusatzqualifikation
 
-*    *   13
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
 
-    *   Einbauen und Installieren
-        von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        a)  Eigenschaften der eingesetzten Werkstoffe beurteilen sowie
-            Bearbeitungsverfahren auswählen
-
-
-        b)  Prüf- und Messmittel anwenden
-
-
-        c)  Oberflächenqualität durch Sichtprüfen beurteilen
-
-
-        d)  Werkstücke zur Identifizierung kennzeichnen
-
-
-        e)  Bauteile aus Leichtmetallblechen umformen
-
-
-        f)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
-
-
-        g)  mechanische Verbindungen herstellen und sichern
-
-
-        h)  Leitungen konfektionieren
-
-
-        i)  Kabelbäume anfertigen, prüfen und einbauen
-
-
-        j)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
-
-
-        k)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
-
-
-        l)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
-
-
-        m)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regelungstechnik installieren und justieren
-
-
-        n)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
-
-
-        o)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
-
-
-        p)  Software-updates durchführen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        a)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
-
-
-        b)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
-
-
-        c)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
-
-
-        d)  elektromechanische Baugruppen prüfen und einstellen
-
-
-        e)  elektrische Größen in Antennenanlagen prüfen und messen
-
-
-        f)  Sensoren und Wandler für nichtelektrische Größen prüfen, messen und
-            einstellen
-
-
-        g)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
-
-
-        h)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
-
-
-        i)  Prüf- und Messergebnisse dokumentieren und auswerten
-
-
-        j)  gerätetechnische Prüfungen durchführen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        a)  Einfluss von technischen Komponenten des Luftverkehrssystems auf die
-            Sicherheit des Flugbetriebes beurteilen
-
-
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb beschreiben
-
-
-        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
-
-
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
-
-
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsysteme, den technischen Unterlagen entnehmen und prüfen
-
-
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        a)  Geräte und Anlagen inspizieren
-
-
-        b)  Geräte und Anlagen zur Aufrechterhaltung von Funktionsfähigkeit und
-            Sicherheit nach Wartungsplänen warten
-
-
-        c)  Fehler in Geräten oder Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben
-
-
-        d)  Ursachen für mechanische und elektrische Fehler in Baugruppen, Geräten
-            und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe
-            von Serviceunterlagen systematisch eingrenzen, erkennen und beheben
-            sowie durchgeführte Arbeiten dokumentieren
-
-
-        e)  Geräte und Anlagen nach Unterlagen und Anweisung erweitern und ändern
-
-
-        f)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
-
-
-
-
-
-*    *   17
-
-    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 27 Abs. 1 Nr. 17)
-
-    *
-        a)  Aufträge annehmen
-
-
-        b)  Informationen beschaffen und bewerten, Dokumentationen, auch in
-            englischer Sprache, nutzen und bearbeiten, technologische
-            Entwicklungen feststellen, sicherheitsrelevante Unterlagen
-            berücksichtigen
-
-
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren, technische Unterlagen erstellen
-            und an der Kostenplanung mitwirken
-
-
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen, Planungsunterlagen erstellen
-
-
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen verfolgen
-
-
-        f)  physische und psychische Einflüsse bei der Arbeit sowie Einflüsse des
-            Arbeitsumfeldes auf den Menschen sowie auf das Arbeitsergebnis
-            berücksichtigen
-
-
-        g)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
-
-
-        h)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
-            erstellen, Nachkalkulation durchführen
-
-
-        i)  Systeme frei- und übergeben, Abnahmeprotokolle anfertigen, Produkte
-            und Dienstleistungen erläutern, Fachauskünfte, auch in englischer
-            Sprache, erteilen
-
-
-        j)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
-
-
-        k)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
-            Arbeitsergebnisse und -durchführung bewerten
-
-
-        l)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf und im eigenen Arbeitsbereich beitragen
-
-
-
-
-
-
-Teil B: Zeitliche Gliederung ****
-
-
-*    *   Berufs-
-        bild-
-        position
-
-    *   Teil des Ausbildungsberufsbildes
-
-    *   Kern- und Fachqualifikationen, die unter Einbeziehung
-        selbstständigen Planens, Durchführens und
-        Kontrollierens integriert zu vermitteln sind
-
-    *   Zeitrahmen in
-        Monaten
+    *   Zeitliche
+        Richtwerte
+        in Wochen
 
 
 *    *   1
@@ -10269,60 +10366,63 @@ Teil B: Zeitliche Gliederung ****
     *   4
 
 
-*    *   **Abschnitt 1**
-
-
 *    *   1
 
-    *   Berufsbildung, Arbeits-
-        und Tarifrecht
-        (§ 27 Abs. 1 Nr. 1)
+    *   Analysieren von
+        technischen Aufträgen und Entwickeln von Lösungen
 
     *
-        a)  Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
-            Beendigung, erklären
+        a)  Kundenanforderungen hinsichtlich der geforderten Funktion und der
+            technischen Umgebung analysieren
 
 
-        b)  gegenseitige Rechte und Pflichten aus dem Ausbildungsvertrag nennen
+        b)  Ausgangszustand der Systeme analysieren, insbesondere Dokumentationen
+            auswerten sowie Netztopologien, eingesetzte Software und technische
+            Schnittstellen klären und dokumentieren
 
 
-        c)  Möglichkeiten der beruflichen Fortbildung nennen
+        c)  technische Prozesse und Umgebungsbedingungen analysieren und
+            Anforderungen an Netzwerke feststellen
 
 
-        d)  wesentliche Teile des Arbeitsvertrages nennen
+        d)  Lösungen unter Berücksichtigung von Spezifikationen, technischen
+            Bestimmungen und rechtlichen Vorgaben planen und ausarbeiten,
+            Netzwerkkomponenten auswählen, technische Unterlagen erstellen und
+            Kosten kalkulieren
 
 
-        e)  wesentliche Bestimmungen der für den ausbildenden Betrieb geltenden
-            Tarifverträge nennen
+        e)  die Lösung zur Vernetzung und zu Änderungen am System mit dem Kunden
+            abstimmen
 
 
 
 
-    *   während der gesamten Ausbildungszeit zu vermitteln
+    *   8
 
 
 *    *   2
 
-    *   Aufbau und Organisation
-        des Ausbildungsbetriebes
-        (§ 27 Abs. 1 Nr. 2)
+    *   Errichten, Ändern und
+        Prüfen von vernetzten Systemen
 
     *
-        a)  Aufbau und Aufgaben des ausbildenden Betriebes erläutern
+        a)  Netzwerkkomponenten und Netzwerkbetriebssysteme installieren, anpassen
+            und konfigurieren und Vorgaben für eine sichere Konfiguration beachten
 
 
-        b)  Grundfunktionen des ausbildenden Betriebes wie Beschaffung, Fertigung,
-            Absatz und Verwaltung erklären
+        b)  Datenaustausch zwischen IT-Systemen und Automatisierungssystemen
+            beachten
 
 
-        c)  Beziehungen des ausbildenden Betriebes und seiner Belegschaft zu
-            Wirtschaftsorganisationen, Berufsvertretungen und Gewerkschaften
-            nennen
+        c)  Zugangsberechtigungen einrichten
 
 
-        d)  Grundlagen, Aufgaben und Arbeitsweise der betriebsverfassungs- oder
-            personalvertretungsrechtlichen Organe des ausbildenden Betriebes
-            beschreiben
+        d)  Sicherheitssysteme, insbesondere Firewall-, Verschlüsselungs-, und
+            Datensicherungssysteme, berücksichtigen
+
+
+        e)  Funktionen kontrollieren, Fehler beseitigen, Systeme in Betrieb nehmen
+            und übergeben und Änderungen dokumentieren
 
 
 
@@ -10330,1137 +10430,220 @@ Teil B: Zeitliche Gliederung ****
 
 *    *   3
 
-    *   Sicherheit und Gesund-
-        heitsschutz bei der Arbeit
-        (§ 27 Abs. 1 Nr. 3)
+    *   Betreiben von vernetzten Systemen
 
     *
-        a)  Gefährdung von Sicherheit und Gesundheit am Arbeitsplatz feststellen
-            und Maßnahmen zu ihrer Vermeidung ergreifen
-
-
-        b)  berufsbezogene Arbeitsschutz- und Unfallverhütungsvorschriften
-            anwenden
-
-
-        c)  Verhaltensweisen bei Unfällen beschreiben sowie erste Maßnahmen
+        a)  Fehlermeldungen aufnehmen, Anlagen inspizieren, Abweichungen vom
+            Sollzustand feststellen, Datendurchsatz und Fehlerrate bewerten und
+            Sofortmaßnahmen zur Aufrechterhaltung von vernetzten Systemen
             einleiten
 
 
-        d)  Bestimmungen und Sicherheitsregeln beim Arbeiten an elektrischen
-            Anlagen, Geräten und Betriebsmitteln beachten
+        b)  Anlagenstörungen analysieren, Testsoftware und Diagnosesysteme
+            einsetzen und Instandsetzungsmaßnahmen einleiten
 
 
-        e)  Vorschriften des vorbeugenden Brandschutzes anwenden; Verhaltensweisen
-            bei Bränden beschreiben und Maßnahmen zur Brandbekämpfung ergreifen
+        c)  Systemdaten, Diagnosedaten und Prozessdaten auswerten und
+            Optimierungen vorschlagen
 
 
-
-
-
-*    *   4
-
-    *   Umweltschutz
-        (§ 27 Abs. 1 Nr. 4)
-
-    *   Zur Vermeidung betriebsbedingter Umweltbelastungen im beruflichen
-        Einwirkungsbereich beitragen, insbesondere
-
-        a)  mögliche Umweltbelastungen durch den Ausbildungsbetrieb und seinen
-            Beitrag zum Umweltschutz an Beispielen erklären
-
-
-        b)  für den Ausbildungsbetrieb geltende Regelungen des Umweltschutzes
-            anwenden
-
-
-        c)  Möglichkeiten der wirtschaftlichen und umweltschonenden Energie- und
-            Materialverwendung nutzen
-
-
-        d)  Abfälle vermeiden; Stoffe und Materialien einer umweltschonenden
-            Entsorgung zuführen
+        d)  Instandhaltungsprotokolle auswerten und Schwachstellen analysieren und
+            erfassen
 
 
 
 
 
-*    *   **Abschnitt 2**
+
+**Teil B: Zusatzqualifikation Programmierung**
 
 
-*    *   **1. Ausbildungsjahr**
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
 
 
-*    *   Zeitrahmen 1
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
 
 
-*    *   5
+*    *   1
 
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
+    *   Analysieren von
+        technischen Aufträgen und Entwickeln von Lösungen
 
     *
-        a)  Informationsquellen und Informationen recherchieren und beschaffen,
-            Datenbankabfragen durchführen, Informationen bewerten
+        a)  Kundenanforderungen hinsichtlich der geforderten Funktionen
+            analysieren
 
 
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
+        b)  Prozesse, Schnittstellen und Umgebungsbedingungen sowie
+            Ausgangszustand der Systeme analysieren, Anforderungen an
+            Softwaremodule feststellen und dokumentieren
 
 
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            und zielorientiert führen
-
-
-        j)  Konflikte im Team lösen
+        c)  Änderungen der Systeme und Softwarelösungen unter Anwendung von
+            Design-Methoden planen und abstimmen
 
 
 
 
-    *   2 bis 4
+    *   8
 
 
-*    *   6
+*    *   2
 
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
+    *   Anpassen von Softwaremodulen
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
+        a)  Softwaremodule anpassen und dokumentieren
 
 
-        b)  erforderliche Werkzeuge, Materialien für den Arbeitsablauf feststellen
-            und auswählen, termingerecht anfordern, prüfen, transportieren, lagern
-            und bereitstellen
+        b)  angepasste Softwaremodule in Systeme integrieren
 
 
 
 
 
-*    *   7
+*    *   3
 
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
+    *   Testen von Softwaremodulen
+        im System
 
     *
-        a)  Baugruppen demontieren und montieren sowie Teile durch mechanische
-            Bearbeitung anpassen
+        a)  Testplan entsprechend dem betrieblichen Test- und Freigabeverfahren
+            entwerfen, insbesondere Abläufe sowie Norm- und Grenzwerte von
+            Betriebsparametern festlegen, und Testdaten generieren
+
+
+        b)  technische Umgebungsbedingungen simulieren
+
+
+        c)  Softwaremodule testen
+
+
+        d)  Systemtests durchführen und Komponenten im System mit den
+            Betriebsparametern unter Umgebungsbedingungen testen
+
+
+        e)  Störungen analysieren und systematische Fehlersuche in Systemen
+            durchführen
+
+
+        f)  Systemkonfiguration, Qualitätskontrollen und Testläufe dokumentieren
+
+
+        g)  Änderungsdokumentation erstellen
 
 
 
 
 
-*    *   13
 
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        a)  Eigenschaften der eingesetzten Werkstoffe beurteilen sowie
-            Bearbeitungsverfahren auswählen
+**Teil C: Zusatzqualifikation IT-Sicherheit**
 
 
-        b)  Prüf- und Messmittel anwenden
+*    *   Lfd.
+        Nr.
+
+    *   Teil der
+        Zusatzqualifikation
+
+    *   Zu vermittelnde
+        Fertigkeiten, Kenntnisse und Fähigkeiten
+
+    *   Zeitliche
+        Richtwerte
+        in Wochen
 
 
-        c)  Oberflächenqualität durch Sichtprüfen beurteilen
+*    *   1
+
+    *   2
+
+    *   3
+
+    *   4
 
 
-        d)  Werkstücke zur Identifizierung kennzeichnen
+*    *   1
 
-
-        e)  Bauteile aus Leichtmetallblechen umformen
-
-
-        g)  mechanische Verbindungen herstellen und sichern
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        c)  Rumpf, Trag-, Leit-, Steuer- und Fahrwerk unter Berücksichtigung der
-            Flug-, Start- und Landefähigkeit des Fluggerätes und seiner Steuerung
-            prüfen
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        a)  Geräte und Anlagen inspizieren
-
-
-
-
-
-*    *   Zeitrahmen 2
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
+    *   Entwickeln von Sicherheitsmaßnahmen
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
+        a)  Sicherheitsanforderungen und Funktionalitäten von industriellen
+            Kommunikationssystemen und Steuerungen analysieren
 
 
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
+        b)  Schutzbedarf bezüglich Vertraulichkeit, Integrität, Verfügbarkeit und
+            Authentizität bewerten
+
+
+        c)  Gefährdungen und Risiken beurteilen
+
+
+        d)  Sicherheitsmaßnahmen erarbeiten und abstimmen
 
 
 
-
-    *   2 bis 4
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
 
     *
-        b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
 
+*    *   2
 
-        c)  Leitungswege und Gerätemontageorte unter Beachtung der
-            elektromagnetischen Verträglichkeit festlegen
-
-
-        d)  elektrische Betriebsmittel und Leitungsverlegesysteme auswählen und
-            montieren
-
-
-        e)  Leitungen installieren
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
+    *   Umsetzen von Sicherheitsmaßnahmen
 
     *
-        d)  Leitungen und deren Schutzeinrichtungen sowie sonstige Betriebsmittel,
-            insbesondere hinsichtlich Strombelastbarkeit, beurteilen
+        a)  technische Sicherheitsmaßnahmen in Systeme integrieren
+
+
+        b)  IT-Nutzer und IT-Nutzerinnen über Arbeitsabläufe und organisatorische
+            Vorgaben informieren
+
+
+        c)  Dokumentation entsprechend den betrieblichen und rechtlichen Vorgaben
+            erstellen
 
 
 
 
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        h)  Leitungen konfektionieren
+    *   8
 
 
-        i)  Kabelbäume anfertigen, prüfen und einbauen
+*    *   3
 
-
-
-
-
-*    *   Zeitrahmen 3
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
+    *   Überwachen der Sicherheitsmaßnahmen
 
     *
-        b)  technische Zeichnungen und Schaltungsunterlagen auswerten, anwenden
-            und erstellen sowie Skizzen anfertigen
+        a)  Wirksamkeit und Effizienz der umgesetzten Sicherheitsmaßnahmen prüfen
 
 
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
-            Fachbegriffe anwenden
+        b)  Werkzeuge zur Systemüberwachung einsetzen
+
+
+        c)  Protokolldateien, insbesondere zu Zugriffen, Aktionen und Fehlern,
+            kontrollieren und auswerten
+
+
+        d)  sicherheitsrelevante Zwischenfälle melden
 
 
 
-
-    *   4 bis 6
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
 
     *
-        a)  Arbeitsplatz oder Montagestelle unter Berücksichtigung der
-            betrieblichen Vorgaben einrichten
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        b)  Leitungen auswählen und zurichten sowie Baugruppen und Geräte mit
-            unterschiedlichen Anschlusstechniken verbinden
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen
-        und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        a)  Messverfahren und Messgeräte auswählen
-
-
-        b)  elektrische Größen messen, bewerten und berechnen
-
-
-        c)  Kenndaten und Funktion von Baugruppen prüfen
-
-
-        d)  Steuerschaltungen analysieren
-
-
-        f)  systematische Fehlersuche durchführen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        b)  Funktionen von analogen und digitalen Baugruppen und Geräten prüfen
-
-
-        c)  analoge und digitale Ein- und Ausgangssignale prüfen, messen und
-            einstellen
-
-
-        d)  elektromechanische Baugruppen prüfen und einstellen
-
-
-        i)  Prüf- und Messergebnisse dokumentieren und auswerten
-
-
-
-
-
-*    *   Zeitrahmen 4
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        d)  Daten und Dokumente pflegen, schützen, sichern und archivieren
-
-
-
-
-    *   0,5 bis 1,5
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        h)  Rechnerarbeitsplatz unter ergonomischen Gesichtspunkten einrichten,
-            grafische Benutzeroberflächen einrichten
-
-
-
-
-
-*    *   10
-
-    *   Installieren und Konfigurieren von IT-Systemen
-        (§ 27 Abs. 1 Nr. 10)
-
-    *
-        a)  Hard- und Softwarekomponenten auswählen
-
-
-        b)  Betriebssysteme und Anwendungsprogramme installieren und konfigurieren
-
-
-        c)  IT-Systeme in Netzwerke einbinden
-
-
-        d)  Tools und Testprogramme einsetzen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        p)  Software-updates durchführen
-
-
-
-
-
-*    *   **2. Ausbildungsjahr, 1. Halbjahr**
-
-
-*    *   Zeitrahmen 5
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
-
-
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        m)  Qualifikationsdefizite feststellen, Qualifizierungsmöglichkeiten
-            nutzen sowie unterschiedliche Lerntechniken anwenden
-
-
-
-
-
-*    *   7
-
-    *   Montieren und Anschließen elektrischer Betriebsmittel
-        (§ 27 Abs. 1 Nr. 7)
-
-    *
-        f)  elektrische Geräte herstellen oder elektrische Anlagen errichten,
-            Geräte oder Anlagen in Betrieb nehmen
-
-
-        g)  beim Errichten, Ändern, Instandhalten und Betreiben elektrischer
-            Anlagen und Betriebsmittel die elektrotechnischen Regeln beachten
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren von elektrischen Funktionen
-        und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        e)  Signale verfolgen und an Schnittstellen prüfen
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
-
-    *
-        a)  Funktion von Schutz- und Potentialausgleichsleitern prüfen und
-            beurteilen
-
-
-        b)  Isolationswiderstände messen und beurteilen
-
-
-        c)  Basisschutzmaßnahmen gegen elektrischen Schlag beurteilen
-
-
-        e)  Schutzarten von elektrischen Geräten oder Anlagen hinsichtlich der
-            Umgebungsbedingungen und der Zusatzfestlegungen für Räume besonderer
-            Art beurteilen
-
-
-        f)  Gefahren, die sich aus dem Betreiben elektrischer Geräte,
-            Betriebsmittel und Anlagen ergeben, beurteilen und durch
-            Schutzmaßnahmen die sichere Nutzung gewährleisten
-
-
-        g)  Wirksamkeit von Maßnahmen gegen elektrischen Schlag unter
-            Fehlerbedingungen, insbesondere durch Abschaltung mit
-            Überstromschutzorganen und Fehlerstromschutzeinrichtungen, beurteilen
-
-
-        h)  elektrische Sicherheit ortsveränderlicher Betriebsmittel beurteilen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        j)  Energie-, Signal- und Datenleitungen verlegen, verbinden und
-            anschließen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        j)  gerätetechnische Prüfungen durchführen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        d)  Stromversorgungseinheiten durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-
-
-
-*    *   Zeitrahmen 6
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        g)  Dokumentationen in deutscher und englischer Sprache zusammenstellen
-            und ergänzen, Standardsoftware anwenden
-
-
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
-            erarbeiten, Gesprächsergebnisse schriftlich fixieren
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        c)  Arbeitsabläufe und Teilaufgaben unter Beachtung rechtlicher,
-            wirtschaftlicher und terminlicher Vorgaben planen, bei Abweichungen
-            von der Planung Prioritäten setzen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        f)  elektrische Antriebe sowie pneumatische und hydraulische Verbindungen
-            montieren und anschließen
-
-
-        k)  Bauelemente bereitstellen, zurichten, in Leiterplatten einsetzen sowie
-            ein- und auslöten
-
-
-        l)  Teilsysteme der Informations-, Daten-, Sende- und Empfangstechnik
-            zusammenbauen, verdrahten und installieren
-
-
-        n)  Baugruppen, Geräte und Teilsysteme nach Unterlagen einbauen
-
-
-        o)  Montage und Installation anhand technischer Unterlagen prüfen, Fehler
-            korrigieren und Änderungen dokumentieren
-
-
-
-
-
-*    *   **2. Ausbildungsjahr, 2. Halbjahr**
-
-
-*    *   Zeitrahmen 7
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
-
-
-        f)  Sachverhalte darstellen, Protokolle anfertigen, deutsche und englische
-            Fachbegriffe anwenden
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        g)  IT-Systeme zur Auftragsplanung, -abwicklung und Terminverfolgung
-            anwenden
-
-
-        i)  Auftragsunterlagen sowie technische Durchführbarkeit des Auftrags
-            prüfen und mit den betrieblichen Möglichkeiten abstimmen
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        g)  Sensoren und Aktoren prüfen und einstellen
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        a)  Prüf- und Messgeräte sowie Prüf- und Messschaltungen zum Prüfen der
-            Funktion von Bauteilen, Baugruppen und Geräten auswählen und aufbauen
-
-
-        f)  Sensoren und Wandler für nichtelektrische Größen prüfen, messen und
-            einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        a)  Einfluss von technischen Komponenten des Luftverkehrssystems auf die
-            Sicherheit des Flugbetriebes beurteilen
-
-
-        b)  Zusammenhang zwischen den technischen Leistungsdaten des Fluggerätes,
-            dem konstruktiven Aufbau und dem Antrieb beschreiben
-
-
-
-
-
-*    *   Zeitrahmen 8
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        h)  Funktionseinheiten der Leistungselektronik nach Unterlagen prüfen und
-            einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        e)  Baugruppen und Geräte, insbesondere funktional abgegrenzte Steuerungen
-            sowie Baugruppen der Pneumatik, durch Prüfen und Einstellen in Betrieb
-            nehmen
-
-
-        f)  Warnsysteme, hydraulische und pneumatische Systeme, Kraftstoffsysteme,
-            Atemluftversorgungssysteme und Antriebssysteme prüfen und in Betrieb
-            nehmen
-
-
-
-
-
-*    *   **3. und 4. Ausbildungsjahr**
-
-
-*    *   Zeitrahmen 9
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        e)  Gespräche mit Vorgesetzten, Mitarbeitern und im Team situationsgerecht
-            und zielorientiert führen
-
-
-        h)  Arbeitssitzungen organisieren und moderieren, Entscheidungen im Team
-            erarbeiten, Gesprächsergebnisse schriftlich fixieren
-
-
-        i)  Daten und Sachverhalte sowie Lösungsvarianten präsentieren
-
-
-        j)  Konflikte im Team lösen
-
-
-
-
-    *   2 bis 4
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        d)  Aufgaben im Team planen und abstimmen, kulturelle Identitäten
-            berücksichtigen
-
-
-        e)  Kalkulationen nach betrieblichen Vorgaben durchführen
-
-
-        f)  Lösungsvarianten aufzeigen, Kosten vergleichen
-
-
-        j)  betriebswirtschaftlich relevante Daten erfassen und bewerten
-
-
-        l)  interne und externe Leistungserbringung vergleichen
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        h)  Steuerungen und Regelungen hinsichtlich ihrer Funktion prüfen und
-            bewerten
-
-
-
-
-
-*    *   11
-
-    *   Beraten und Betreuen von Kunden, Erbringen von
-        Serviceleistungen
-        (§ 27 Abs. 1 Nr. 11)
-
-    *
-        a)  Vorstellungen und Bedarf von Kunden ermitteln, Lösungsansätze
-            entwickeln und Realisierungsvarianten anbieten
-
-
-        b)  auf Wartungsarbeiten und -intervalle hinweisen
-
-
-        c)  Störungsmeldungen aufnehmen
-
-
-        d)  Einzelheiten der Auftragsabwicklung vereinbaren, bei Störungen der
-            Auftragsabwicklung Lösungsvarianten aufzeigen
-
-
-
-
-
-*    *   12
-
-    *   Technische Auftragsanalyse, Lösungsentwicklung
-        (§ 27 Abs. 1 Nr. 12)
-
-    *
-        a)  Auftragsanforderungen, insbesondere geforderte Funktionalitäten und
-            technische Umgebungsbedingungen, analysieren
-
-
-        b)  Prozessschritte unter Beachtung arbeitsorganisatorischer,
-            technologischer, wirtschaftlicher und sicherheitstechnischer
-            Gesichtspunkte planen
-
-
-        c)  Tests und Prüfvorgänge unter Berücksichtigung technischer
-            Spezifikationen und Systemvorschriften festlegen
-
-
-
-
-
-*    *   13
-
-    *   Einbauen und Installieren von Komponenten und
-        Teilsystemen der Avionik
-        (§ 27 Abs. 1 Nr. 13)
-
-    *
-        m)  Sensorsysteme sowie Baugruppen der elektrischen Steuerungs- und
-            Regelungstechnik installieren und justieren
-
-
-
-
-
-*    *   16
-
-    *   Instandhalten
-        (§ 27 Abs. 1 Nr. 16)
-
-    *
-        b)  Geräte und Anlagen zur Aufrechterhaltung von Funktionsfähigkeit und
-            Sicherheit nach Wartungsplänen warten
-
-
-        c)  Fehler in Geräten oder Anlagenteilen, insbesondere durch Austausch der
-            fehlerhaften Baugruppe, beheben
-
-
-        d)  Ursachen für mechanische und elektrische Fehler in Baugruppen, Geräten
-            und Anlagen durch Sichtkontrolle, Prüfen und Messen sowie mit Hilfe
-            von Serviceunterlagen systematisch eingrenzen, erkennen und beheben
-            sowie durchgeführte Arbeiten dokumentieren
-
-
-        e)  Geräte und Anlagen nach Unterlagen und Anweisung erweitern und ändern
-
-
-        f)  geänderte und aktualisierte Schaltpläne und Schaltungsunterlagen von
-            Baugruppen, Geräten und Anlagen einarbeiten
-
-
-
-
-
-*    *   Zeitrahmen 10
-
-
-*    *   5
-
-    *   Betriebliche und technische Kommunikation
-        (§ 27 Abs. 1 Nr. 5)
-
-    *
-        c)  Dokumente sowie technische Regelwerke und berufsbezogene Vorschriften,
-            auch in Englisch, auswerten und anwenden
-
-
-        k)  schriftliche Kommunikation in Deutsch und Englisch durchführen
-
-
-
-
-    *   3 bis 5
-
-
-*    *   6
-
-    *   Planen und Organisieren
-        der Arbeit, Bewerten der
-        Arbeitsergebnisse
-        (§ 27 Abs. 1 Nr. 6)
-
-    *
-        k)  qualitätssteigernde Einflüsse von Arbeitssituationen, Arbeitsumgebung
-            und Arbeitsverhalten im Team auf die Arbeitsergebnisse erkennen und
-            anwenden
-
-
-
-
-
-*    *   8
-
-    *   Messen und Analysieren
-        von elektrischen Funktionen und Systemen
-        (§ 27 Abs. 1 Nr. 8)
-
-    *
-        i)  Funktionsfähigkeit von Systemen und Komponenten prüfen,
-            Datenprotokolle interpretieren
-
-
-
-
-
-*    *   9
-
-    *   Beurteilen der Sicherheit
-        von elektrischen Anlagen und Betriebsmitteln
-        (§ 27 Abs. 1 Nr. 9)
-
-    *
-        i)  Brandschutzbestimmungen beim Errichten und Betreiben elektrischer
-            Geräte und Anlagen beurteilen
-
-
-
-
-
-*    *   11
-
-    *   Beraten und Betreuen
-        von Kunden, Erbringen
-        von Serviceleistungen
-        (§ 27 Abs. 1 Nr. 11)
-
-    *
-        e)  Leistungsmerkmale erläutern, in die Bedienung einweisen, auf Gefahren
-            sowie auf Sicherheitsregeln und Vorschriften hinweisen
-
-
-        f)  technische Unterstützung leisten
-
-
-        g)  Informationsaustausch zu den Kunden organisieren
-
-
-
-
-
-*    *   14
-
-    *   Prüfen und Testen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 14)
-
-    *
-        e)  elektrische Größen in Antennenanlagen prüfen und messen
-
-
-        g)  Funktionseinheiten für Mess-, Steuer- und Regeleinrichtungen prüfen
-            und einstellen
-
-
-
-
-
-*    *   15
-
-    *   Inbetriebnehmen von
-        Systemen der Avionik
-        (§ 27 Abs. 1 Nr. 15)
-
-    *
-        g)  funktionelle Zusammenhänge und technische Lösungen von Informations-
-            und Kommunikationssystemen am Boden und im Fluggerät, insbesondere für
-            Navigation, Flugführung, Instrumentierung, Datenübertragung sowie
-            Radarsysteme, den technischen Unterlagen entnehmen und prüfen
-
-
-        h)  Baugruppen und Geräte der Informations- und Funktechnik,
-            einschließlich Peripheriegeräte, anpassen und in Betrieb nehmen
-
-
-
-
-
-*    *   Zeitrahmen 11
-
-
-*    *   17
-
-    *   Geschäftsprozesse und Qualitätsmanagement im Einsatzgebiet
-        (§ 27 Abs. 1 Nr. 17)
-
-    *
-        a)  Aufträge annehmen
-
-
-        b)  Informationen beschaffen und bewerten, Dokumentationen, auch in
-            englischer Sprache, nutzen und bearbeiten, technologische
-            Entwicklungen feststellen, sicherheitsrelevante Unterlagen
-            berücksichtigen
-
-
-        c)  Ausgangszustand analysieren, technische und organisatorische
-            Schnittstellen klären, Schnittstellen dokumentieren, Auftragsziele
-            festlegen, Teilaufgaben definieren, technische Unterlagen erstellen
-            und an der Kostenplanung mitwirken
-
-
-        d)  Auftragsabwicklung planen und mit vor- und nachgelagerten Bereichen
-            abstimmen, Planungsunterlagen erstellen
-
-
-        e)  Aufträge unter Berücksichtigung des Arbeitssicherheits- und
-            Umweltmanagements durchführen, Einhaltung von Terminen verfolgen
-
-
-        f)  physische und psychische Einflüsse bei der Arbeit sowie Einflüsse des
-            Arbeitsumfeldes auf den Menschen sowie auf das Arbeitsergebnis
-            berücksichtigen
-
-
-        g)  Normen und Spezifikationen zur Qualität und Sicherheit der Produkte
-            und Prozesse beachten, Ursachen von Fehlern und Qualitätsmängeln
-            systematisch suchen, beseitigen und dokumentieren
-
-
-        h)  Auftragsablauf dokumentieren, Leistungen abrechnen, Abrechnungsdaten
-            erstellen, Nachkalkulation durchführen
-
-
-        i)  Systeme frei- und übergeben, Abnahmeprotokolle anfertigen, Produkte
-            und Dienstleistungen erläutern, Fachauskünfte, auch in englischer
-            Sprache, erteilen
-
-
-        j)  Geräte- und Systemdokumentation, auch in Englisch, zusammenstellen
-
-
-        k)  Soll-Ist-Vergleich mit den Planungsdaten durchführen,
-            Arbeitsergebnisse und -durchführung bewerten
-
-
-        l)  zur kontinuierlichen Verbesserung von Arbeitsvorgängen im
-            Betriebsablauf und im eigenen Arbeitsbereich beitragen
-
-
-
-
-    *   10 bis 12
-
 
 

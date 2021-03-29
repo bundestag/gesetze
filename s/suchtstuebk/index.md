@@ -2,7 +2,7 @@
 Title: Einheits-Übereinkommen von 1961 über Suchtstoffe
 jurabk: SuchtstÜbk
 layout: default
-origslug: suchtst_bk
+origslug: suchtstuebk
 slug: suchtstuebk
 
 ---

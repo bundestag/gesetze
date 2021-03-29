@@ -2,7 +2,7 @@
 Title: Vollzugsordnung zum Postgiroübereinkommen
 jurabk: PostgiroÜbkVollzO
 layout: default
-origslug: postgiro_bkvollzo
+origslug: postgirouebkvollzo
 slug: postgirouebkvollzo
 
 ---

@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2694
 
+Zuletzt geändert durch
+:   Art. 24 Abs. 2 G v. 23.6.2017 I 1693
+
 
 ## Eingangsformel
 
@@ -93,11 +96,18 @@ von Kapitalmarktinformationen zuzuordnen:
 
 2.  Angaben in Verkaufsprospekten, Vermögensanlagen-Informationsblättern
     und wesentlichen Anlegerinformationen nach dem Verkaufsprospektgesetz,
-    dem Vermögensanlagengesetz sowie dem Investmentgesetz,
+    dem Vermögensanlagengesetz sowie dem Investmentgesetz in der bis zum
+    21\. Juli 2013 geltenden Fassung oder dem Kapitalanlagegesetzbuch,
 
 
-3.  Angaben in Mitteilungen über Insiderinformationen im Sinne des § 15
-    des Wertpapierhandelsgesetzes,
+3.  Angaben in Mitteilungen über Insiderinformationen im Sinne des
+    Artikels 17 der Verordnung (EU) Nr. 596/2014 des Europäischen
+    Parlaments und des Rates vom 16. April 2014 über Marktmissbrauch
+    (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie
+    2003/6/EG des Europäischen Parlaments und des Rates und der
+    Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission
+    (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung und
+    des § 26 des Wertpapierhandelsgesetzes,
 
 
 4.  Angaben in Darstellungen, Übersichten, Vorträgen und Auskünften in der

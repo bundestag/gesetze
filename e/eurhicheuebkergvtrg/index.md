@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 13. November 1969 zwischen der Bundesrepublik D
   Anwendung
 jurabk: EuRHiCHEÜbkErgVtrG
 layout: default
-origslug: eurhiche_bkergvtrg
+origslug: eurhicheuebkergvtrg
 slug: eurhicheuebkergvtrg
 
 ---

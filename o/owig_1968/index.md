@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 19.2.1987 I 602;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 29.7.2009 I 2353
+:   Art. 5 G v. 27.8.2017 I 3295
 
 
 ## Erster Teil - Allgemeine Vorschriften
@@ -335,11 +335,11 @@ Ordnungswidrigkeit geahndet werden, wenn eine Strafe nicht verhängt
 wird.
 
 
-### Fünfter Abschnitt - Einziehung
+### Fünfter Abschnitt - Einziehung von Gegenständen
 
 
 
-#### § 22 Voraussetzungen der Einziehung
+#### § 22 Einziehung von Gegenständen
 
 (1) Als Nebenfolge einer Ordnungswidrigkeit dürfen Gegenstände nur
 eingezogen werden, soweit das Gesetz es ausdrücklich zuläßt.
@@ -565,28 +565,66 @@ dieser Vorschriften dem Vertretenen zugerechnet.
 (2) § 9 Abs. 3 gilt entsprechend.
 
 
-### Sechster Abschnitt - Verfall, Geldbuße gegen juristische Personen und Personenvereinigungen
+### Sechster Abschnitt - Einziehung des Wertes von Taterträgen, Geldbuße gegen juristische Personen und Personenvereinigungen
 
 
 
-#### § 29a Verfall
+#### § 29a Einziehung des Wertes von Taterträgen
 
-(1) Hat der Täter für eine mit Geldbuße bedrohte Handlung oder aus ihr
-etwas erlangt und wird gegen ihn wegen der Handlung eine Geldbuße
-nicht festgesetzt, so kann gegen ihn der Verfall eines Geldbetrages
+(1) Hat der Täter durch eine mit Geldbuße bedrohte Handlung oder für
+sie etwas erlangt und wird gegen ihn wegen der Handlung eine Geldbuße
+nicht festgesetzt, so kann gegen ihn die Einziehung eines Geldbetrages
 bis zu der Höhe angeordnet werden, die dem Wert des Erlangten
 entspricht.
 
-(2) Hat der Täter einer mit Geldbuße bedrohten Handlung für einen
-anderen gehandelt und hat dieser dadurch etwas erlangt, so kann gegen
-ihn der Verfall eines Geldbetrages bis zu der in Absatz 1 bezeichneten
-Höhe angeordnet werden.
+(2) Die Anordnung der Einziehung eines Geldbetrages bis zu der in
+Absatz 1 genannten Höhe kann sich gegen einen anderen, der nicht Täter
+ist, richten, wenn
 
-(3) Der Umfang des Erlangten und dessen Wert können geschätzt werden.
-§ 18 gilt entsprechend.
+1.  er durch eine mit Geldbuße bedrohte Handlung etwas erlangt hat und der
+    Täter für ihn gehandelt hat,
 
-(4) Wird gegen den Täger ein Bußgeldverfahren nicht eingeleitet oder
-wird es eingestellt, so kann der Verfall selbständig angeordnet
+
+2.  ihm das Erlangte
+
+    a)  unentgeltlich oder ohne rechtlichen Grund übertragen wurde oder
+
+
+    b)  übertragen wurde und er erkannt hat oder hätte erkennen müssen, dass
+        das Erlangte aus einer mit Geldbuße bedrohten Handlung herrührt, oder
+
+
+
+
+
+3.  das Erlangte auf ihn
+
+    a)  als Erbe übergegangen ist oder
+
+
+    b)  als Pflichtteilsberechtigter oder Vermächtnisnehmer übertragen worden
+        ist.
+
+
+
+
+
+
+Satz 1 Nummer 2 und 3 findet keine Anwendung, wenn das Erlangte zuvor
+einem Dritten, der nicht erkannt hat oder hätte erkennen müssen, dass
+das Erlangte aus einer mit Geldbuße bedrohten Handlung herrührt,
+entgeltlich und mit rechtlichem Grund übertragen wurde.
+
+(3) Bei der Bestimmung des Wertes des Erlangten sind die Aufwendungen
+des Täters oder des anderen abzuziehen. Außer Betracht bleibt jedoch
+das, was für die Begehung der Tat oder für ihre Vorbereitung
+aufgewendet oder eingesetzt worden ist.
+
+(4) Umfang und Wert des Erlangten einschließlich der abzuziehenden
+Aufwendungen können geschätzt werden. § 18 gilt entsprechend.
+
+(5) Wird gegen den Täter ein Bußgeldverfahren nicht eingeleitet oder
+wird es eingestellt, so kann die Einziehung selbständig angeordnet
 werden.
 
 
@@ -627,19 +665,32 @@ gegen diese eine Geldbuße festgesetzt werden.
 
 (2) Die Geldbuße beträgt
 
-1.  im Falle einer vorsätzlichen Straftat bis zu einer Million Euro,
+1.  im Falle einer vorsätzlichen Straftat bis zu zehn Millionen Euro,
 
 
-2.  im Falle einer fahrlässigen Straftat bis zu fünfhunderttausend Euro.
+2.  im Falle einer fahrlässigen Straftat bis zu fünf Millionen Euro.
 
 
 
 Im Falle einer Ordnungswidrigkeit bestimmt sich das Höchstmaß der
 Geldbuße nach dem für die Ordnungswidrigkeit angedrohten Höchstmaß der
-Geldbuße. Satz 2 gilt auch im Falle einer Tat, die gleichzeitig
-Straftat und Ordnungswidrigkeit ist, wenn das für die
+Geldbuße. Verweist das Gesetz auf diese Vorschrift, so verzehnfacht
+sich das Höchstmaß der Geldbuße nach Satz 2 für die im Gesetz
+bezeichneten Tatbestände. Satz 2 gilt auch im Falle einer Tat, die
+gleichzeitig Straftat und Ordnungswidrigkeit ist, wenn das für die
 Ordnungswidrigkeit angedrohte Höchstmaß der Geldbuße das Höchstmaß
 nach Satz 1 übersteigt.
+
+(2a) Im Falle einer Gesamtrechtsnachfolge oder einer partiellen
+Gesamtrechtsnachfolge durch Aufspaltung (§ 123 Absatz 1 des
+Umwandlungsgesetzes) kann die Geldbuße nach Absatz 1 und 2 gegen den
+oder die Rechtsnachfolger festgesetzt werden. Die Geldbuße darf in
+diesen Fällen den Wert des übernommenen Vermögens sowie die Höhe der
+gegenüber dem Rechtsvorgänger angemessenen Geldbuße nicht übersteigen.
+Im Bußgeldverfahren tritt der Rechtsnachfolger oder treten die
+Rechtsnachfolger in die Verfahrensstellung ein, in der sich der
+Rechtsvorgänger zum Zeitpunkt des Wirksamwerdens der Rechtsnachfolge
+befunden hat.
 
 (3) § 17 Abs. 4 und § 18 gelten entsprechend.
 
@@ -654,9 +705,13 @@ Ordnungswidrigkeit aus rechtlichen Gründen nicht verfolgt werden kann;
 § 33 Abs. 1 Satz 2 bleibt unberührt.
 
 (5) Die Festsetzung einer Geldbuße gegen die juristische Person oder
-Personenvereinigung schließt es aus, gegen sie wegen derselben Tat den
-Verfall nach den §§ 73 oder 73a des Strafgesetzbuches oder nach § 29a
-anzuordnen.
+Personenvereinigung schließt es aus, gegen sie wegen derselben Tat die
+Einziehung nach den §§ 73 oder 73c des Strafgesetzbuches oder nach §
+29a anzuordnen.
+
+(6) Bei Erlass eines Bußgeldbescheids ist zur Sicherung der Geldbuße §
+111e Absatz 2 der Strafprozessordnung mit der Maßgabe anzuwenden, dass
+an die Stelle des Urteils der Bußgeldbescheid tritt.
 
 
 ### Siebenter Abschnitt - Verjährung
@@ -786,10 +841,10 @@ Verfahrens unterbrochen.
 
 (2) Die Verjährung ist bei einer schriftlichen Anordnung oder
 Entscheidung in dem Zeitpunkt unterbrochen, in dem die Anordnung oder
-Entscheidung unterzeichnet wird. Ist das Schriftstück nicht alsbald
-nach der Unterzeichnung in den Geschäftsgang gelangt, so ist der
-Zeitpunkt maßgebend, in dem es tatsächlich in den Geschäftsgang
-gegeben worden ist.
+Entscheidung unterzeichnet wird. Ist das Dokument nicht alsbald nach
+der Unterzeichnung in den Geschäftsgang gelangt, so ist der Zeitpunkt
+maßgebend, in dem es tatsächlich in den Geschäftsgang gegeben worden
+ist.
 
 (3) Nach jeder Unterbrechung beginnt die Verjährung von neuem. Die
 Verfolgung ist jedoch spätestens verjährt, wenn seit dem in § 31 Abs.
@@ -1065,12 +1120,16 @@ nicht anzuwenden; dies gilt nicht für § 406e der Strafprozeßordnung.
 
 (4) § 81a Abs. 1 Satz 2 der Strafprozeßordnung ist mit der
 Einschränkung anzuwenden, daß nur die Entnahme von Blutproben und
-andere geringfügige Eingriffe zulässig sind. In einem Strafverfahren
-entnommene Blutproben und sonstige Körperzellen, deren Entnahme im
-Bußgeldverfahren nach Satz 1 zulässig gewesen wäre, dürfen verwendet
-werden. Die Verwendung von Blutproben und sonstigen Körperzellen zur
-Durchführung einer Untersuchung im Sinne des § 81e der
-Strafprozeßordnung ist unzulässig.
+andere geringfügige Eingriffe zulässig sind. Die Entnahme einer
+Blutprobe bedarf abweichend von § 81a Absatz 2 Satz 1 der
+Strafprozessordnung keiner richterlichen Anordnung, wenn bestimmte
+Tatsachen den Verdacht begründen, dass eine Ordnungswidrigkeit nach
+den §§ 24a und 24c des Straßenverkehrsgesetzes begangen worden ist. In
+einem Strafverfahren entnommene Blutproben und sonstige Körperzellen,
+deren Entnahme im Bußgeldverfahren nach Satz 1 zulässig gewesen wäre,
+dürfen verwendet werden. Die Verwendung von Blutproben und sonstigen
+Körperzellen zur Durchführung einer Untersuchung im Sinne des § 81e
+der Strafprozeßordnung ist unzulässig.
 
 (5) Die Anordnung der Vorführung des Betroffenen und der Zeugen, die
 einer Ladung nicht nachkommen, bleibt dem Richter vorbehalten. Die
@@ -1087,8 +1146,8 @@ Abteilungen für Bußgeldsachen, beim Landgericht Kammern für
 Bußgeldsachen und beim Oberlandesgericht sowie beim Bundesgerichtshof
 Senate für Bußgeldsachen.
 
-(8) Die Vorschriften zur Durchführung des § 191a Abs. 1 Satz 1 des
-Gerichtsverfassungsgesetzes im Bußgeldverfahren sind in der
+(8) Die Vorschriften zur Durchführung des § 191a Absatz 1 Satz 1 bis 4
+des Gerichtsverfassungsgesetzes im Bußgeldverfahren sind in der
 Rechtsverordnung nach § 191a Abs. 2 des Gerichtsverfassungsgesetzes zu
 bestimmen.
 
@@ -1119,16 +1178,19 @@ abhängig gemacht oder damit in Zusammenhang gebracht werden.
 
 #### § 49 Akteneinsicht des Betroffenen und der Verwaltungsbehörde
 
-(1) Die Verwaltungsbehörde kann dem Betroffenen Einsicht in die Akten
-unter Aufsicht gewähren, soweit nicht überwiegende schutzwürdige
-Interessen Dritter entgegenstehen.
+(1) Die Verwaltungsbehörde gewährt dem Betroffenen auf Antrag Einsicht
+in die Akten, soweit der Untersuchungszweck, auch in einem anderen
+Straf- oder Bußgeldverfahren, nicht gefährdet werden kann und nicht
+überwiegende schutzwürdige Interessen Dritter entgegenstehen. Werden
+die Akten nicht elektronisch geführt, können an Stelle der
+Einsichtnahme in die Akten Kopien aus den Akten übermittelt werden.
 
 (2) Ist die Staatsanwaltschaft Verfolgungsbehörde, so ist die sonst
 zuständige Verwaltungsbehörde befugt, die Akten, die dem Gericht
 vorliegen oder im gerichtlichen Verfahren vorzulegen wären, einzusehen
 sowie sichergestellte und beschlagnahmte Gegenstände zu besichtigen.
-Die Akten werden der Verwaltungsbehörde auf Antrag zur Einsichtnahme
-übersandt.
+Akten, die in Papierform geführt werden, werden der Verwaltungsbehörde
+auf Antrag zur Einsichtnahme übersandt.
 
 
 #### § 49a Verfahrensübergreifende Mitteilungen von Amts wegen
@@ -1213,8 +1275,8 @@ oder sonst an dem Verfahren mitgewirkt hat, erfolgt.
 
 Für die Erteilung von Auskünften und Gewährung von Akteneinsicht auf
 Ersuchen sowie die sonstige Verwendung von Daten aus Bußgeldverfahren
-für verfahrensübergreifende Zwecke gelten die §§ 474 bis 478, 480 und
-481 der Strafprozessordnung sinngemäß, wobei
+für verfahrensübergreifende Zwecke gelten die §§ 474 bis 478, 480, 481
+und 498 Absatz 2 der Strafprozessordnung sinngemäß, wobei
 
 1.  in § 474 Abs. 2 Satz 1 Nr. 1 der Strafprozessordnung an die Stelle der
     Straftat die Ordnungswidrigkeit tritt,
@@ -1247,8 +1309,9 @@ für verfahrensübergreifende Zwecke gelten die §§ 474 bis 478, 480 und
 #### § 49c Dateiregelungen
 
 (1) Für die Verarbeitung und Nutzung personenbezogener Daten in
-Dateien gelten vorbehaltlich besonderer Regelungen in anderen Gesetzen
-die Vorschriften des Zweiten Abschnitts des Achten Buches der
+Dateien gelten vorbehaltlich des § 496 Absatz 3 der
+Strafprozessordnung und besonderer Regelungen in anderen Gesetzen die
+Vorschriften des Zweiten Abschnitts des Achten Buches der
 Strafprozessordnung nach Maßgabe der folgenden Vorschriften sinngemäß.
 
 (2) Die Speicherung, Veränderung und Nutzung darf vorbehaltlich des
@@ -1289,17 +1352,12 @@ Geldbuße von mehr als 250 Euro fünf Jahre, in allen übrigen Fällen des
 nicht übersteigen.
 
 
-#### § 49d Mitteilungen bei Archivierung mittels Bild- und anderen Datenträgern
+#### § 49d Schutz personenbezogener Daten in einer elektronischen Akte
 
-Sind die Akten nach Abschluss des Verfahrens nach ordnungsgemäßen
-Grundsätzen zur Ersetzung der Urschrift auf einen Bild- oder anderen
-Datenträger übertragen worden und liegt der schriftliche Nachweis
-darüber vor, dass die Wiedergabe inhaltlich und bildlich mit der
-Urschrift übereinstimmt, so kann Akteneinsicht durch Übermittlung
-eines Ausdrucks von dem Bild- oder anderen Datenträger erteilt werden;
-Gleiches gilt für die Erteilung von Auskünften oder anderen
-Mitteilungen aus den Akten. Auf der Urschrift anzubringende Vermerke
-werden in diesem Fall bei dem Nachweis angebracht.
+§ 496 Absatz 1 und 2 sowie die §§ 497 und 498 Absatz 1 der
+Strafprozessordnung gelten entsprechend, wobei in § 496 Absatz 1 und §
+498 Absatz 1 der Strafprozessordnung an die Stelle des jeweiligen
+Strafverfahrens das jeweilige Bußgeldverfahren tritt.
 
 
 #### § 50 Bekanntmachung von Maßnahmen der Verwaltungsbehörde
@@ -1322,9 +1380,9 @@ Anfechtung und die dafür vorgeschriebene Frist und Form zu belehren.
 Vorschriften des Verwaltungszustellungsgesetzes, wenn eine
 Verwaltungsbehörde des Bundes das Verfahren durchführt, sonst die
 entsprechenden landesrechtlichen Vorschriften, soweit die Absätze 2
-bis 5 nichts anderes bestimmen. Wird ein Schriftstück mit Hilfe
+bis 5 nichts anderes bestimmen. Wird ein Dokument mit Hilfe
 automatischer Einrichtungen erstellt, so wird das so hergestellte
-Schriftstück zugestellt.
+Dokument zugestellt.
 
 (2) Ein Bescheid (§ 50 Abs. 1 Satz 2) wird dem Betroffenen zugestellt
 und, wenn er einen gesetzlichen Vertreter hat, diesem mitgeteilt.
@@ -1411,8 +1469,8 @@ wird, sich zu der Beschuldigung zu äußern.
 
 (2) Der Betroffene braucht nicht darauf hingewiesen zu werden, daß er
 auch schon vor seiner Vernehmung einen von ihm zu wählenden
-Verteidiger befragen kann. § 136 Abs. 1 Satz 3 der Strafprozeßordnung
-ist nicht anzuwenden.
+Verteidiger befragen kann. § 136 Absatz 1 Satz 3 bis 5 der
+Strafprozeßordnung ist nicht anzuwenden.
 
 
 #### II. - Verwarnungsverfahren
@@ -1423,7 +1481,7 @@ ist nicht anzuwenden.
 
 (1) Bei geringfügigen Ordnungswidrigkeiten kann die Verwaltungsbehörde
 den Betroffenen verwarnen und ein Verwarnungsgeld von fünf bis
-fünfunddreißig Euro erheben. Sie kann eine Verwarnung ohne
+fünfundfünfzig Euro erheben. Sie kann eine Verwarnung ohne
 Verwarnungsgeld erteilen.
 
 (2) Die Verwarnung nach Absatz 1 Satz 1 ist nur wirksam, wenn der
@@ -1843,8 +1901,8 @@ seine Anwesenheit zur Aufklärung wesentlicher Gesichtspunkte des
 Sachverhalts nicht erforderlich ist.
 
 (3) Hat das Gericht den Betroffenen von der Verpflichtung zum
-persönlichen Erscheinen entbunden, so kann er sich durch einen
-schriftlich bevollmächtigten Verteidiger vertreten lassen.
+persönlichen Erscheinen entbunden, so kann er sich durch einen mit
+nachgewiesener Vollmacht versehenen Verteidiger vertreten lassen.
 
 
 ##### § 74 Verfahren bei Abwesenheit
@@ -1852,11 +1910,11 @@ schriftlich bevollmächtigten Verteidiger vertreten lassen.
 (1) Die Hauptverhandlung wird in Abwesenheit des Betroffenen
 durchgeführt, wenn er nicht erschienen ist und von der Verpflichtung
 zum persönlichen Erscheinen entbunden war. Frühere Vernehmungen des
-Betroffenen und seine schriftlichen oder protokollierten Erklärungen
-sind durch Mitteilung ihres wesentlichen Inhalts oder durch Verlesung
-in die Hauptverhandlung einzuführen. Es genügt, wenn die nach § 265
-Abs. 1 und 2 der Strafprozeßordnung erforderlichen Hinweise dem
-Verteidiger gegeben werden.
+Betroffenen und seine protokollierten und sonstigen Erklärungen sind
+durch Mitteilung ihres wesentlichen Inhalts oder durch Verlesung in
+die Hauptverhandlung einzuführen. Es genügt, wenn die nach § 265 Abs.
+1 und 2 der Strafprozeßordnung erforderlichen Hinweise dem Verteidiger
+gegeben werden.
 
 (2) Bleibt der Betroffene ohne genügende Entschuldigung aus, obwohl er
 von der Verpflichtung zum Erscheinen nicht entbunden war, hat das
@@ -1937,9 +1995,9 @@ Beweiserhebung zur Erforschung der Wahrheit nicht erforderlich ist.
 ##### § 77a Vereinfachte Art der Beweisaufnahme
 
 (1) Die Vernehmung eines Zeugen, Sachverständigen oder Mitbetroffenen
-darf durch Verlesung von Niederschriften über eine frühere Vernehmung
-sowie von Urkunden, die eine von ihnen stammende schriftliche Äußerung
-enthalten, ersetzt werden.
+darf durch Verlesung von Protokollen über eine frühere Vernehmung
+sowie von Urkunden, die eine von ihnen stammende Äußerung enthalten,
+ersetzt werden.
 
 (2) Erklärungen von Behörden und sonstigen Stellen über ihre
 dienstlichen Wahrnehmungen, Untersuchungen und Erkenntnisse sowie über
@@ -1953,8 +2011,8 @@ Erklärung ist auf Antrag in das Protokoll aufzunehmen.
 
 (4) Das Verfahren nach den Absätzen 1 bis 3 bedarf der Zustimmung des
 Betroffenen, des Verteidigers und der Staatsanwaltschaft, soweit sie
-in der Hauptverhandlung anwesend sind. § 251 Abs. 1 Nr. 2 und 3, Abs.
-2 Nr. 1 und 2, Abs. 3 und 4 sowie die §§ 252 und 253 der
+in der Hauptverhandlung anwesend sind. § 251 Absatz 1 Nummer 3 und 4,
+Abs. 2 Nr. 1 und 2, Abs. 3 und 4 sowie die §§ 252 und 253 der
 Strafprozeßordnung bleiben unberührt.
 
 
@@ -1985,15 +2043,15 @@ eingelegt wird.
 
 ##### § 78 Weitere Verfahrensvereinfachungen
 
-(1) Statt der Verlesung eines Schriftstücks kann das Gericht dessen
+(1) Statt der Verlesung einer Urkunde kann das Gericht dessen
 wesentlichen Inhalt bekanntgeben; dies gilt jedoch nicht, soweit es
-auf den Wortlaut des Schriftstücks ankommt. Haben der Betroffene, der
+auf den Wortlaut der Urkunde ankommt. Haben der Betroffene, der
 Verteidiger und der in der Hauptverhandlung anwesende Vertreter der
-Staatsanwaltschaft von dem Wortlaut des Schriftstücks Kenntnis
-genommen oder dazu Gelegenheit gehabt, so genügt es, die Feststellung
-hierüber in das Protokoll aufzunehmen. Soweit die Verlesung von
-Schriftstücken von der Zustimmung der Verfahrensbeteiligten abhängig
-ist, gilt dies auch für das Verfahren nach den Sätzen 1 und 2.
+Staatsanwaltschaft von dem Wortlaut der Urkunde Kenntnis genommen oder
+dazu Gelegenheit gehabt, so genügt es, die Feststellung hierüber in
+das Protokoll aufzunehmen. Soweit die Verlesung von Urkunden von der
+Zustimmung der Verfahrensbeteiligten abhängig ist, gilt dies auch für
+das Verfahren nach den Sätzen 1 und 2.
 
 (2) § 243 Absatz 4 der Strafprozessordnung gilt nur, wenn eine
 Erörterung stattgefunden hat; § 273 Absatz 1a Satz 3 und Absatz 2 der
@@ -2063,8 +2121,8 @@ nach § 72 Abs. 2 Satz 2 Halbsatz 1.
 (4) Die Frist für die Einlegung der Rechtsbeschwerde beginnt mit der
 Zustellung des Beschlusses nach § 72 oder des Urteils, wenn es in
 Abwesenheit des Beschwerdeführers verkündet und dieser dabei auch
-nicht nach § 73 Abs. 3 durch einen schriftlich bevollmächtigten
-Verteidiger vertreten worden ist.
+nicht nach § 73 Abs. 3 durch einen mit nachgewiesener Vollmacht
+versehenen Verteidiger vertreten worden ist.
 
 (5) Das Beschwerdegericht entscheidet durch Beschluß. Richtet sich die
 Rechtsbeschwerde gegen ein Urteil, so kann das Beschwerdegericht auf
@@ -2297,14 +2355,15 @@ oder in der sonstigen abschließenden Entscheidung getroffen.
 
 
 
-#### § 87 Anordnung von Einziehung und Verfall
+#### § 87 Anordnung der Einziehung
 
 (1) Hat die Verwaltungsbehörde im Bußgeldverfahren über die Einziehung
 eines Gegenstandes zu entscheiden, so ist sie auch für die Anordnung
 der Verfahrensbeteiligung, die Beiordnung eines Rechtsanwalts oder
 einer anderen Person, die als Verteidiger bestellt werden darf, und
-die Entscheidung über die Entschädigung zuständig (§§ 431, 434 Abs. 2,
-§ 436 Abs. 3 der Strafprozeßordnung); § 60 Satz 2 gilt entsprechend.
+die Entscheidung über die Entschädigung zuständig (§§ 424, 425, 428
+Absatz 2, § 430 Absatz 3, § 438 Absatz 1 und 2 der
+Strafprozessordnung); § 60 Satz 2 gilt entsprechend.
 
 (2) Vom Erlaß des Bußgeldbescheides an hat der Einziehungsbeteiligte,
 soweit das Gesetz nichts anderes bestimmt, die Befugnisse, die einem
@@ -2322,7 +2381,7 @@ Person zuständig wäre; örtlich zuständig ist auch die
 Verwaltungsbehörde, in deren Bezirk der Gegenstand sichergestellt
 worden ist.
 
-(4) Das Nachverfahren (§ 439 der Strafprozeßordnung) gegen einen
+(4) Das Nachverfahren (§ 433 der Strafprozessordnung) gegen einen
 Bußgeldbescheid ist bei der Verwaltungsbehörde zu beantragen, welche
 die Einziehung angeordnet hat. Die Entscheidung trifft das nach § 68
 zuständige Gericht. Die Verwaltungsbehörde übersendet die Akten der
@@ -2333,9 +2392,8 @@ gilt entsprechend.
 Gegenstandes, dessen Wert zweihundertfünfzig Euro nicht übersteigt,
 ist nicht anfechtbar.
 
-(6) Die Absätze 1, 2 Satz 1 und 2, Absatz 3 Satz 1 bis 3 Halbsatz 1
-und Absatz 5 gelten im Verfahren bei Anordnung des Verfalls
-entsprechend.
+(6) Absatz 2 Satz 3, Absatz 3 Satz 3 zweiter Halbsatz und Absatz 4
+gelten nicht im Verfahren bei Anordnung der Einziehung nach § 29a.
 
 
 #### § 88 Festsetzung der Geldbuße gegen juristische Personen und Personenvereinigungen
@@ -2345,7 +2403,7 @@ Festsetzung einer Geldbuße gegen eine juristische Person oder eine
 Personenvereinigung zu entscheiden (§ 30), so ist sie auch für die
 Anordnung der Verfahrensbeteiligung und die Beiordnung eines
 Rechtsanwalts oder einer anderen Person, die als Verteidiger bestellt
-werden darf, zuständig (§ 444 Abs. 1, § 434 Abs. 2 der
+werden darf, zuständig (§ 444 Abs. 1, § 428 Absatz 2 der
 Strafprozeßordnung); § 60 Satz 2 gilt entsprechend.
 
 (2) Im selbständigen Verfahren setzt die Verwaltungsbehörde die
@@ -2382,14 +2440,14 @@ in die Bundeskasse, wenn eine Verwaltungsbehörde des Bundes den
 Bußgeldbescheid erlassen hat, sonst in die Landeskasse. Satz 1 gilt
 für Nebenfolgen, die zu einer Geldzahlung verpflichten, entsprechend.
 
-(3) Ist die Einziehung oder Unbrauchbarmachung einer Sache angeordnet
-worden, so wird die Anordnung dadurch vollstreckt, daß die Sache dem
-Betroffenen oder dem Einziehungsbeteiligten weggenommen wird. Wird die
-Sache bei diesen Personen nicht vorgefunden, so haben sie auf Antrag
-der Verwaltungsbehörde bei dem Amtsgericht eine eidesstattliche
-Versicherung über den Verbleib der Sache abzugeben. § 883 Abs. 2 bis
-4, die §§ 899, 900 Abs. 1 und 4, sowie die §§ 901, 902, 904 bis 910
-und 913 der Zivilprozeßordnung gelten entsprechend.
+(3) Ist die Einziehung eines Gegenstandes oder Unbrauchbarmachung
+einer Sache angeordnet worden, so wird die Anordnung dadurch
+vollstreckt, daß die Sache dem Betroffenen oder dem
+Einziehungsbeteiligten weggenommen wird. Wird die Sache bei diesen
+Personen nicht vorgefunden, so haben sie auf Antrag der
+Verwaltungsbehörde bei dem Amtsgericht eine eidesstattliche
+Versicherung über den Verbleib der Sache abzugeben. § 883 Abs. 2 und 3
+der Zivilprozeßordnung gilt entsprechend.
 
 (4) Absatz 1 gilt für die Vollstreckung eines von der
 Verwaltungsbehörde festgesetzten Ordnungsgeldes entsprechend.
@@ -2566,17 +2624,17 @@ verpflichten, gelten die §§ 93 und 95 entsprechend, für die
 Vollstreckung der Geldbuße gegen eine juristische Person oder eine
 Personenvereinigung gelten auch die §§ 94, 96 und 97.
 
-(2) Ist der Verfall eines Geldbetrages (§ 29a) rechtskräftig
-angeordnet worden und legt der Betroffene oder der Verfallsbeteiligte
-eine rechtskräftige Entscheidung vor, in der gegen ihn wegen der mit
-Geldbuße bedrohten Handlung ein dem Verletzten erwachsener Anspruch
-festgestellt ist, so ordnet die Vollstreckungsbehörde an, daß die
-Anordnung des Verfalls insoweit nicht mehr vollstreckt wird. Ist der
-für verfallen erklärte Geldbetrag bereits gezahlt oder beigetrieben
-worden und wird die Zahlung auf Grund der rechtskräftigen Entscheidung
-an den Verletzten nachgewiesen, so ordnet die Vollstreckungsbehörde
-insoweit die Rückerstattung an den Betroffenen oder den
-Verfallsbeteiligten an.
+(2) Ist die Einziehung eines Geldbetrages (§ 29a) rechtskräftig
+angeordnet worden und legt der Betroffene oder der
+Einziehungsbeteiligte eine rechtskräftige Entscheidung vor, in der
+gegen ihn wegen der mit Geldbuße bedrohten Handlung ein dem Verletzten
+erwachsener Anspruch festgestellt ist, so ordnet die
+Vollstreckungsbehörde an, daß die Anordnung der Einziehung insoweit
+nicht mehr vollstreckt wird. Ist der eingezogene Geldbetrag bereits
+gezahlt oder beigetrieben worden und wird die Zahlung auf Grund der
+rechtskräftigen Entscheidung an den Verletzten nachgewiesen, so ordnet
+die Vollstreckungsbehörde insoweit die Rückerstattung an den
+Betroffenen oder den Einziehungsbeteiligten an.
 
 
 #### § 100 Nachträgliche Entscheidungen über die Einziehung
@@ -2745,12 +2803,12 @@ eine Geldbuße nach § 30 festgesetzt, so ist von der juristischen
 Person oder der Personenvereinigung eine Gebühr zu erheben, die sich
 nach der gegen sie festgesetzten Geldbuße bemißt. Als Gebühr werden
 bei der Festsetzung einer Geldbuße fünf vom Hundert des Betrages der
-festgesetzten Geldbuße erhoben, jedoch mindestens 20 Euro und
-höchstens 7.500 Euro.
+festgesetzten Geldbuße erhoben, jedoch mindestens 25 Euro und
+höchstens 7 500 Euro.
 
 (2) Hat die Verwaltungsbehörde im Falle des § 25a des
 Straßenverkehrsgesetzes eine abschließende Entscheidung getroffen, so
-beträgt die Gebühr 15 Euro.
+beträgt die Gebühr 20 Euro.
 
 (3) Als Auslagen werden erhoben
 
@@ -2765,18 +2823,10 @@ beträgt die Gebühr 15 Euro.
 3.  (weggefallen)
 
 
-4.  Auslagen für öffentliche Bekanntmachungen
-
-    a)  bei Veröffentlichung in einem elektronischen Informations- und
-        Kommunikationssystem, wenn ein Entgelt nicht zu zahlen ist oder das
-        Entgelt nicht für den Einzelfall berechnet wird, je Veröffentlichung
-        pauschal 1 Euro,
-
-
-    b)  in sonstigen Fällen die zu zahlenden Entgelte;
-
-
-
+4.  Auslagen für öffentliche Bekanntmachungen; Auslagen werden nicht
+    erhoben für die Bekanntmachung in einem elektronischen Informations-
+    und Kommunikationssystem, wenn das Entgelt nicht für den Einzelfall
+    oder nicht für ein einzelnes Verfahren berechnet wird;
 
 
 5.  nach dem Justizvergütungs- und -entschädigungsgesetz zu zahlende
@@ -2848,13 +2898,16 @@ beträgt die Gebühr 15 Euro.
 
 
 12. nach dem Auslandskostengesetz im Rahmen der Amtshilfe zu zahlende
-    Beträge; 13.
+    Beträge;
 
-    Beträge, die inländischen Behörden, öffentlichen Einrichtungen oder
-    Bediensteten als Ersatz für Auslagen der in den Nummern 1 bis 11
-    bezeichneten Art zustehen, und zwar auch dann, wenn aus Gründen der
-    Gegenseitigkeit, der Verwaltungsvereinfachung oder aus vergleichbaren
-    Gründen keine Zahlungen zu leisten sind; diese Beträge sind durch die
+
+13. Gebühren, die an deutsche Behörden für die Erfüllung von deren eigenen
+    Aufgaben zu zahlen sind, und Beträge, die diesen Behörden,
+    öffentlichen Einrichtungen oder deren Bediensteten als Ersatz für
+    Auslagen der in den Nummern 1 bis 11 bezeichneten Art zustehen, und
+    zwar auch dann, wenn aus Gründen der Gegenseitigkeit, der
+    Verwaltungsvereinfachung oder aus vergleichbaren Gründen keine
+    Zahlungen zu leisten sind; die Auslagen sind in ihrer Höhe durch die
     Höchstsätze für die bezeichneten Auslagen begrenzt;
 
 
@@ -2871,14 +2924,15 @@ beträgt die Gebühr 15 Euro.
 erlassen, so sind für die Niederschlagung der Kosten bei unrichtiger
 Sachbehandlung sowie die Niederschlagung, den Erlaß, die Verjährung
 und die Erstattung von Kosten § 14 Abs. 2 sowie die §§ 19 bis 21 des
-Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821)
-anzuwenden, sonst die entsprechenden landesrechtlichen Vorschriften.
+Verwaltungskostengesetzes vom 23. Juni 1970 (BGBl. I S. 821) in der
+bis zum 14. August 2013 geltenden Fassung anzuwenden, sonst die
+entsprechenden landesrechtlichen Vorschriften.
 
 (5) Von demjenigen, der die Versendung von Akten beantragt, werden je
 durchgeführte Sendung einschließlich der Rücksendung durch Behörden
 pauschal 12 Euro als Auslagen erhoben. Wird die Akte elektronisch
-geführt und erfolgt ihre Übermittlung elektronisch, beträgt die
-Pauschale 5 Euro.
+geführt und erfolgt ihre Übermittlung elektronisch, wird eine
+Pauschale nicht erhoben.
 
 
 ##### § 108 Rechtsbehelf und Vollstreckung
@@ -2998,165 +3052,81 @@ Gesetz nichts anderes bestimmt, der Bund, wenn eine Verwaltungsbehörde
 des Bundes das Verfahren durchführt, sonst das Land.
 
 
-### Zwölfter Abschnitt - Elektronische Dokumente und elektronische Aktenführung
+### Zwölfter Abschnitt - Aktenführung und Kommunikation im Verfahren
 
 
 
-#### § 110a Erstellung und Einreichung formgebundener und anderer elektronischer Dokumente bei Behörden und Gerichten
+#### § 110a Elektronische Aktenführung; Verordnungsermächtigungen
 
-(1) An die Behörde oder das Gericht gerichtete Erklärungen, Anträge
-oder deren Begründung, die nach diesem Gesetz ausdrücklich schriftlich
-abzufassen oder zu unterzeichnen sind, können als elektronisches
-Dokument eingereicht werden, wenn dieses mit einer qualifizierten
-elektronischen Signatur nach dem Signaturgesetz versehen und für die
-Bearbeitung durch die Behörde oder das Gericht geeignet ist. In der
-Rechtsverordnung nach Absatz 2 kann neben der qualifizierten
-elektronischen Signatur auch ein anderes sicheres Verfahren zugelassen
-werden, das die Authentizität und die Integrität des übermittelten
-elektronischen Dokuments sicherstellt. Ein elektronisches Dokument ist
-eingegangen, sobald die für den Empfang bestimmte Einrichtung der
-Behörde oder des Gerichts es aufgezeichnet hat. Ist ein übermitteltes
-elektronisches Dokument zur Bearbeitung nicht geeignet, ist dies dem
-Absender unter Angabe der geltenden technischen Rahmenbedingungen
-unverzüglich mitzuteilen. Soweit nicht die elektronische Aktenführung
-nach § 110b zugelassen ist, ist von dem elektronischen Dokument
-unverzüglich ein Aktenausdruck zu fertigen.
-
-(2) Die Bundesregierung und die Landesregierungen bestimmen für ihren
-Bereich durch Rechtsverordnung den Zeitpunkt, von dem an elektronische
-Dokumente bei den Behörden und Gerichten eingereicht werden können,
-sowie die für die Bearbeitung der Dokumente geeignete Form. Die
-Bundesregierung und die Landesregierungen können die Ermächtigung
+(1) Die Akten können elektronisch geführt werden. Die Bundesregierung
+und die Landesregierungen bestimmen jeweils für ihren Bereich durch
+Rechtsverordnung den Zeitpunkt, von dem an die Akten elektronisch
+geführt werden. Sie können die Einführung der elektronischen
+Aktenführung dabei auf einzelne Gerichte oder Behörden oder auf
+allgemein bestimmte Verfahren beschränken und bestimmen, dass Akten,
+die in Papierform angelegt wurden, auch nach Einführung der
+elektronischen Aktenführung in Papierform weitergeführt werden; wird
+von der Beschränkungsmöglichkeit Gebrauch gemacht, kann in der
+Rechtsverordnung bestimmt werden, dass durch Verwaltungsvorschrift,
+die öffentlich bekanntzumachen ist, geregelt wird, in welchen
+Verfahren die Akten elektronisch zu führen sind. Die Ermächtigung kann
 durch Rechtsverordnung auf die zuständigen Bundes- oder
-Landesministerien übertragen. Die Zulassung der elektronischen Form
-kann auf einzelne Behörden, Gerichte oder Verfahren beschränkt werden.
+Landesministerien übertragen werden.
 
-(3) Behörden im Sinne dieses Abschnitts sind die Staatsanwaltschaften
+(2) Die Bundesregierung und die Landesregierungen bestimmen jeweils
+für ihren Bereich durch Rechtsverordnung die für die elektronische
+Aktenführung geltenden organisatorischen und dem Stand der Technik
+entsprechenden technischen Rahmenbedingungen einschließlich der
+einzuhaltenden Anforderungen des Datenschutzes, der Datensicherheit
+und der Barrierefreiheit. Sie können die Ermächtigung durch
+Rechtsverordnung auf die zuständigen Bundes- oder Landesministerien
+übertragen.
+
+(3) Die Bundesregierung bestimmt durch Rechtsverordnung mit Zustimmung
+des Bundesrates die für die Übermittlung elektronischer Akten zwischen
+Behörden und Gerichten sowie die für die Einsicht in elektronische
+Akten geltenden Standards. Sie kann die Ermächtigung durch
+Rechtsverordnung ohne Zustimmung des Bundesrates auf die zuständigen
+Bundesministerien übertragen.
+
+(4) Behörden im Sinne dieses Abschnitts sind die Staatsanwaltschaften
 und Verwaltungsbehörden einschließlich der Vollstreckungsbehörden
 sowie die Behörden des Polizeidienstes, soweit diese Aufgaben im
 Bußgeldverfahren wahrnehmen.
 
 
-#### § 110b Elektronische Aktenführung
+#### § 110b Elektronische Formulare; Verordnungsermächtigung
 
-(1) Die Verfahrensakten können elektronisch geführt werden. Die
-Bundesregierung und die Landesregierungen bestimmen für ihren Bereich
-durch Rechtsverordnung den Zeitpunkt, von dem an die Akten
-elektronisch geführt werden oder im behördlichen Verfahren geführt
-werden können sowie die hierfür geltenden organisatorisch-technischen
-Rahmenbedingungen für die Bildung, Führung und Aufbewahrung der
-elektronisch geführten Akten. Die Bundesregierung und die
-Landesregierungen können die Ermächtigung durch Rechtsverordnung auf
-die zuständigen Bundes- oder Landesministerien übertragen. Die
-Zulassung der elektronischen Aktenführung kann auf einzelne Behörden,
-Gerichte oder Verfahren beschränkt werden.
-
-(2) Zu den elektronisch geführten Akten eingereichte und für eine
-Übertragung geeignete Schriftstücke und Gegenstände des Augenscheins
-(Urschriften) sind zur Ersetzung der Urschrift in ein elektronisches
-Dokument zu übertragen, soweit die Rechtsverordnung nach Absatz 1
-nichts anderes bestimmt. Das elektronische Dokument muss den Vermerk
-enthalten, wann und durch wen die Urschrift übertragen worden ist. Die
-Urschriften sind bis zum Abschluss des Verfahrens so aufzubewahren,
-dass sie auf Anforderung innerhalb von einer Woche vorgelegt werden
-können.
-
-(3) Elektronische Dokumente, die nach Absatz 2 hergestellt wurden,
-sind für das Verfahren zugrunde zu legen, soweit kein Anlass besteht,
-an der Übereinstimmung mit der Urschrift zu zweifeln.
-
-(4) Enthält das nach Absatz 2 hergestellte elektronische Dokument
-zusätzlich zu dem Vermerk nach Absatz 2 Satz 2 einen mit einer
-qualifizierten elektronischen Signatur nach dem Signaturgesetz
-versehenen Vermerk darüber,
-
-1.  dass die Wiedergabe auf dem Bildschirm mit der Urschrift inhaltlich
-    und bildlich übereinstimmt sowie
+Die Bundesregierung kann durch Rechtsverordnung mit Zustimmung des
+Bundesrates elektronische Formulare einführen. Die Rechtsverordnung
+kann bestimmen, dass die in den Formularen enthaltenen Angaben ganz
+oder teilweise in strukturierter maschinenlesbarer Form zu übermitteln
+sind. Die Formulare sind auf einer in der Rechtsverordnung zu
+bestimmenden Kommunikationsplattform im Internet zur Nutzung
+bereitzustellen. Die Rechtsverordnung kann bestimmen, dass eine
+Identifikation des Formularverwenders abweichend von § 32a Absatz 3
+der Strafprozessordnung durch Nutzung des elektronischen
+Identitätsnachweises nach § 18 des Personalausweisgesetzes oder § 78
+Absatz 5 des Aufenthaltsgesetzes erfolgen kann. Die Bundesregierung
+kann die Ermächtigung durch Rechtsverordnung ohne Zustimmung des
+Bundesrates auf die zuständigen Bundesministerien übertragen.
 
 
-2.  ob die Urschrift bei der Übertragung als Original oder in Abschrift
-    vorgelegen hat,
+#### § 110c Entsprechende Geltung der Strafprozessordnung für Aktenführung und Kommunikation im Verfahren
 
-
-
-kann die Urschrift bereits vor Abschluss des Verfahrens vernichtet
-werden. Dies gilt nicht für in Verwahrung zu nehmende oder in anderer
-Weise sicherzustellende Urschriften, die als Beweismittel von
-Bedeutung sind oder der Einziehung oder dem Verfall unterliegen (§§ 22
-bis 29a, 46 dieses Gesetzes in Verbindung mit §§ 94, 111b bis 111n der
-Strafprozessordnung). Verfahrensinterne Erklärungen des Betroffenen
-und Dritter sowie ihnen beigefügte einfache Abschriften können unter
-den Voraussetzungen von Satz 1 vernichtet werden. In der
-Rechtsverordnung nach Absatz 1 kann abweichend von den Sätzen 1 und 3
-bestimmt werden, dass die Urschriften weiter aufzubewahren sind.
-
-
-#### § 110c Erstellung elektronischer Dokumente durch Behörden und Gerichte und Zustellung an die Staatsanwaltschaft
-
-(1) Behördliche oder gerichtliche Dokumente, die nach diesem Gesetz
-handschriftlich zu unterzeichnen sind, können als elektronisches
-Dokument erstellt werden, wenn die verantwortenden Personen am Ende
-des Dokuments ihren Namen hinzufügen und das Dokument mit einer
-qualifizierten elektronischen Signatur nach dem Signaturgesetz
-versehen. Satz 1 gilt auch für Bußgeldbescheide, sonstige Bescheide
-sowie Beschlüsse, die außerhalb einer Verhandlung ergehen. Wird ein zu
-signierendes elektronisches Dokument automatisiert hergestellt, ist
-statt seiner die begleitende Verfügung zu signieren. Ein Urteil ist zu
-den Akten gebracht, wenn es auf dem dazu bestimmten Datenträger
-gespeichert ist.
-
-(2) Die Zustellung an die Staatsanwaltschaft entsprechend § 41 der
-Strafprozessordnung kann auch durch Übermittlung der elektronisch
-geführten Akte erfolgen.
-
-
-#### § 110d Aktenausdruck, Akteneinsicht und Aktenübersendung
-
-(1) Von einem elektronischen Dokument kann ein Aktenausdruck gefertigt
-werden. § 298 Abs. 2 der Zivilprozessordnung gilt entsprechend.
-Vorhandene Vermerke nach § 110b Abs. 2 Satz 2 und Abs. 4 Satz 1 sind
-wiederzugeben. Ausfertigungen und Auszüge können bei einem als
-elektronischen Dokument vorliegenden Urteil entsprechend § 275 Abs. 4
-der Strafprozessordnung anhand eines Aktenausdrucks und bei einem in
-Papierform vorliegenden Urteil entsprechend § 317 Abs. 5 der
-Zivilprozessordnung als elektronisches Dokument oder durch Telekopie
-gefertigt werden.
-
-(2) Akteneinsicht kann gewährt werden durch Übermittlung von
-elektronischen Dokumenten, deren Wiedergabe auf einem Bildschirm oder
-durch Erteilung von Aktenausdrucken. Für die Übermittlung ist die
-Gesamtheit der Dokumente mit einer qualifizierten elektronischen
-Signatur nach dem Signaturgesetz zu versehen; sie sind gegen unbefugte
-Kenntnisnahme zu schützen. Dem Verteidiger kann nach Abschluss der
-Ermittlungen auf Antrag Akteneinsicht auch durch die Gestattung des
-automatisierten Abrufs der elektronisch geführten Akte gewährt werden;
-Satz 2 Halbsatz 1 ist nicht anzuwenden. § 488 Abs. 3 Satz 1 bis 4 der
-Strafprozessordnung ist mit der Maßgabe anzuwenden, dass der
-Zeitpunkt, die abgerufenen Daten und die Kennung der abrufenden Stelle
-bei jedem Abruf zu protokollieren sind und es einer Protokollierung
-eines Aktenzeichens des Empfängers nicht bedarf.
-
-(3) Die Übersendung der Akte zwischen den das Verfahren führenden
-Stellen erfolgt durch Übermittlung von elektronischen Dokumenten oder
-Aktenausdrucken. Werden Aktenausdrucke übermittelt, gelten für diese §
-110b Abs. 3 und für die Speicherung der elektronischen Dokumente §
-110b Abs. 2 Satz 3 entsprechend.
-
-
-#### § 110e Durchführung der Beweisaufnahme
-
-(1) Soweit ein elektronisches Dokument eine Urkunde oder ein anderes
-Schriftstück wiedergibt oder an Stelle eines solchen Schriftstücks
-hergestellt wurde, ist es hinsichtlich der Durchführung der
-Beweisaufnahme wie ein Schriftstück zu behandeln. Einer Vernehmung der
-einen Vermerk nach § 110b Abs. 2 Satz 2 oder Abs. 4 Satz 1
-verantwortenden Person bedarf es nicht.
-
-(2) Das Gericht entscheidet nach pflichtgemäßem Ermessen, ob es für
-die Durchführung der Beweisaufnahme eine zusätzlich zum elektronischen
-Dokument aufbewahrte Urschrift hinzuzieht. Ist die Übersendung der
-Akte nach § 110d Abs. 3 Satz 1 durch Übermittlung von Aktenausdrucken
-erfolgt, gilt Satz 1 entsprechend.
+Im Übrigen gelten die §§ 32a, 32b und 32d bis 32f der
+Strafprozessordnung sowie die auf der Grundlage des § 32a Absatz 2
+Satz 2 und Absatz 4 Nummer 4, des § 32b Absatz 5 und des § 32f Absatz
+6 der Strafprozessordnung erlassenen Rechtsverordnungen entsprechend.
+Abweichend von § 32b Absatz 1 Satz 2 der Strafprozessordnung ist bei
+der automatisierten Herstellung eines zu signierenden elektronischen
+Dokuments statt seiner die begleitende Verfügung zu signieren.
+Abweichend von § 32e Absatz 4 Satz 1 der Strafprozessordnung müssen
+Ausgangsdokumente nicht gespeichert oder aufbewahrt werden, wenn die
+übertragenen Dokumente zusätzlich einen mit einer qualifizierten
+elektronischen Signatur versehenen Vermerk darüber enthalten, dass das
+Ausgangsdokument mit dem zur Akte zu nehmenden Dokument inhaltlich und
+bildlich übereinstimmt.
 
 
 ## Dritter Teil - Einzelne Ordnungswidrigkeiten
@@ -3325,24 +3295,11 @@ einer Geldbuße bis zu eintausend Euro, in den übrigen Fällen mit einer
 Geldbuße bis zu zehntausend Euro geahndet werden.
 
 
-#### § 120 Verbotene Ausübung der Prostitution, Werbung für Prostitution
+#### § 120 Verbotene Ausübung der Prostitution
 
-(1) Ordnungswidrig handelt, wer
-
-1.  einem durch Rechtsverordnung erlassenen Verbot, der Prostitution an
-    bestimmten Orten überhaupt oder zu bestimmten Tageszeiten nachzugehen,
-    zuwiderhandelt oder
-
-
-2.  durch Verbreiten von Schriften, Ton- oder Bildträgern, Datenspeichern,
-    Abbildungen oder Darstellungen Gelegenheit zu entgeltlichen sexuellen
-    Handlungen anbietet, ankündigt, anpreist oder Erklärungen solchen
-    Inhalts bekanntgibt; dem Verbreiten steht das öffentliche Ausstellen,
-    Anschlagen, Vorführen oder das sonstige öffentliche Zugänglichmachen
-    gleich.
-
-
-
+(1) Ordnungswidrig handelt, wer einem durch Rechtsverordnung
+erlassenen Verbot, der Prostitution an bestimmten Orten überhaupt oder
+zu bestimmten Tageszeiten nachzugehen, zuwiderhandelt.
 
 (2) Die Ordnungswidrigkeit kann mit einer Geldbuße geahndet werden.
 
@@ -3381,12 +3338,12 @@ Rausch begangene Handlung angedroht ist.
 
 #### § 123 Einziehung, Unbrauchbarmachung
 
-(1) Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 119 oder
-§ 120 Abs. 1 Nr. 2 bezieht, können eingezogen werden.
+(1) Gegenstände, auf die sich eine Ordnungswidrigkeit nach § 119
+bezieht, können eingezogen werden.
 
 (2) Bei der Einziehung von Schriften, Ton- und Bildträgern,
 Datenspeichern, Abbildungen und Darstellungen kann in den Fällen des §
-119 Abs. 1 und 2 und des § 120 Abs. 1 Nr. 2 angeordnet werden, daß
+119 Abs. 1 und 2 angeordnet werden, daß
 
 1.  sich die Einziehung auf alle Stücke erstreckt und
 
@@ -3401,10 +3358,10 @@ soweit die Stücke und die in Nummer 2 bezeichneten Gegenstände sich im
 Besitz des Täters oder eines anderen befinden, für den der Täter
 gehandelt hat, oder von diesen Personen zur Verbreitung bestimmt sind.
 Eine solche Anordnung wird jedoch nur getroffen, soweit sie
-erforderlich ist, um Handlungen, die nach § 119 Abs. 1 oder 2 oder §
-120 Abs. 1 Nr. 2 mit Geldbuße bedroht sind, zu verhindern. Für die
-Einziehung gilt § 27 Abs. 2, für die Unbrauchbarmachung gelten die §§
-27 und 28 entsprechend.
+erforderlich ist, um Handlungen, die nach § 119 Abs. 1 oder 2 mit
+Geldbuße bedroht sind, zu verhindern. Für die Einziehung gilt § 27
+Abs. 2, für die Unbrauchbarmachung gelten die §§ 27 und 28
+entsprechend.
 
 (3) In den Fällen des § 119 Abs. 2 gelten die Absätze 1 und 2 nur für
 das Werbematerial und die zu seiner Herstellung gebrauchten oder
@@ -3599,13 +3556,13 @@ und Überwachung von Aufsichtspersonen.
 
 (3) Die Ordnungswidrigkeit kann, wenn die Pflichtverletzung mit Strafe
 bedroht ist, mit einer Geldbuße bis zu einer Million Euro geahndet
-werden. Ist die Pflichtverletzung mit Geldbuße bedroht, so bestimmt
-sich das Höchstmaß der Geldbuße wegen der Aufsichtspflichtverletzung
-nach dem für die Pflichtverletzung angedrohten Höchstmaß der Geldbuße.
-Satz 2 gilt auch im Falle einer Pflichtverletzung, die gleichzeitig
-mit Strafe und Geldbuße bedroht ist, wenn das für die
-Pflichtverletzung angedrohte Höchstmaß der Geldbuße das Höchstmaß nach
-Satz 1 übersteigt.
+werden. § 30 Absatz 2 Satz 3 ist anzuwenden. Ist die Pflichtverletzung
+mit Geldbuße bedroht, so bestimmt sich das Höchstmaß der Geldbuße
+wegen der Aufsichtspflichtverletzung nach dem für die
+Pflichtverletzung angedrohten Höchstmaß der Geldbuße. Satz 3 gilt auch
+im Falle einer Pflichtverletzung, die gleichzeitig mit Strafe und
+Geldbuße bedroht ist, wenn das für die Pflichtverletzung angedrohte
+Höchstmaß der Geldbuße das Höchstmaß nach Satz 1 übersteigt.
 
 
 ### Fünfter Abschnitt - Gemeinsame Vorschriften
@@ -3630,7 +3587,8 @@ Satz 1 übersteigt.
 
 
 
-2.  bei Ordnungswidrigkeiten nach § 114 die Wehrbereichsverwaltung,
+2.  bei Ordnungswidrigkeiten nach § 114 das Bundesamt für Infrastruktur,
+    Umweltschutz und Dienstleistungen der Bundeswehr,
 
 
 3.  bei Ordnungswidrigkeiten nach § 124, soweit es sich um ein Wappen oder
@@ -3707,10 +3665,26 @@ Bußgeldbescheid erlassen ist.
 (5) Für Dateien, die am 1. Oktober 2002 bestehen, ist § 49c erst ab
 dem 1. Oktober 2003 anzuwenden.
 
+(6) Wird die Anordnung der Einziehung des Wertes des Tatertrages wegen
+einer mit Geldbuße bedrohten Handlung, die vor dem 1. Juli 2017
+begangen worden ist, nach diesem Zeitpunkt entschieden, ist § 29a in
+der Fassung des Gesetzes zur Reform der strafrechtlichen
+Vermögensabschöpfung vom 13. April 2017 (BGBl. I S. 872) anzuwenden.
+In Verfahren, in denen bis zum 1. Juli 2017 bereits eine Entscheidung
+über den Verfall des Wertersatzes ergangen ist, ist § 29a in der bis
+zum 1. Juli 2017 geltenden Fassung anzuwenden.
 
-### § 134
 
-(weggefallen)
+### § 134 Übergangsregelung zum Gesetz zur Einführung der elektronischen Akte in Strafsachen und zur weiteren Förderung des elektronischen Rechtsverkehrs; Verordnungsermächtigungen
+
+Die Bundesregierung und die Landesregierungen können jeweils für ihren
+Bereich durch Rechtsverordnung bestimmen, dass die Einreichung
+elektronischer Dokumente abweichend von § 32a der Strafprozessordnung
+erst zum 1. Januar des Jahres 2019 oder 2020 möglich ist und § 110a in
+der am 31. Dezember 2017 geltenden Fassung bis jeweils zum 31.
+Dezember des Jahres 2018 oder 2019 weiter Anwendung findet. Sie können
+die Ermächtigung nach Satz 1 durch Rechtsverordnung auf die
+zuständigen Bundes- oder Landesministerien übertragen.
 
 
 ### § 135

@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2000, 193
 
+Geändert durch
+:   Art. 2 V v. 26.3.2014 I 274
+
 
 
 ## Eingangsformel
@@ -424,7 +427,8 @@ Diese Verordnung tritt am 1. Januar 2001 in Kraft.
 
 ## Anlage 1 (zu § 7 Abs. 3)
 
-(Fundstelle: BGBl. I 2000, 196)
+(Fundstelle: BGBl. I 2000, 196;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 .........
@@ -442,8 +446,13 @@ Abschluss
 Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin" vom 1. März 2000
-(BGBl. I S. 193)
+(BGBl. I S. 193), die durch Artikel 2 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -451,7 +460,8 @@ Unterschrift(en) ...............................
 
 ## Anlage 2 (zu § 7 Abs. 1 und 3)
 
-(Fundstelle: BGBl. I 2000, 197)
+(Fundstelle: BGBl. I 2000, 197;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 Muster
 ......................................................................
 .........
@@ -469,7 +479,8 @@ Abschluss
 Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Bankfachwirt/Geprüfte Bankfachwirtin" vom 1. März 2000
-(BGBl. I S. 193)
+(BGBl. I S. 193), die durch Artikel 2 der Verordnung vom 26. März 2014
+(BGBl. I S. 274) geändert worden ist,
 mit folgenden Ergebnissen bestanden:
 Gesamtnote ......
 Datum        Ort der          Punkte 1)
@@ -491,9 +502,13 @@ Praxisorientiertes Situationsgespräch
 im Hinblick auf die am ............... in ...............
 vor ............... abgelegte Prüfung von der Prüfungsleistung
 ............... freigestellt.")
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
+(Siegel der zuständigen Stelle)-----
 
 1)  Die Punktebewertungsskala ist wie folgt gegliedert: 100-92 Punkte =
     Note 1 = sehr gut, unter 92-81 Punkte = Note 2 = gut, unter 81-67

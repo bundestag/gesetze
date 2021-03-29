@@ -1,14 +1,14 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "50 Jahre Deutsche Bundesbank")
 jurabk: Münz10EuroBek 2007-05-15
 layout: default
-origslug: m_nz10eurobek_2007-05-15
+origslug: muenz10eurobek_2007-05-15
 slug: muenz10eurobek_2007-05-15
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "50 Jahre Deutsche Bundesbank") (Münz10EuroBek 2007-05-15)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "50 Jahre Deutsche Bundesbank") (Münz10EuroBek 2007-05-15)
 
 Ausfertigungsdatum
 :   2007-05-15

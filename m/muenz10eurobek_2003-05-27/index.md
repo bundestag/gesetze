@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "Industrielandschaft Ruhrgebiet")
 jurabk: Münz10EuroBek 2003-05-27
 layout: default
-origslug: m_nz10eurobek_2003-05-27
+origslug: muenz10eurobek_2003-05-27
 slug: muenz10eurobek_2003-05-27
 
 ---

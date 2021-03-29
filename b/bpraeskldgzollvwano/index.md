@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   von Beamten der Bundeszollverwaltung
 jurabk: BPräsKldgZollVwAnO
 layout: default
-origslug: bpr_skldgzollvwano
+origslug: bpraeskldgzollvwano
 slug: bpraeskldgzollvwano
 
 ---

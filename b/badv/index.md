@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1997, 2885
 
 Zuletzt geändert durch
-:   Art. 1 V v. 10.5.2011 I 820
+:   Art. 6 Abs. 16 G v. 23.5.2017 I 1228
 
 
 ## § 1 Anwendungsbereich
@@ -174,11 +174,11 @@ jeweils drei Jahre verlängert werden.
 (9) Beschränkungen nach den Absätzen 4 und 5, deren Verlängerung nach
 Absatz 7 sowie eine Aussetzung nach Absatz 8 bedürfen der vorherigen
 Zustimmung der Europäischen Kommission. Die Zustimmung wird durch das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung spätestens
+Bundesministerium für Verkehr und digitale Infrastruktur spätestens
 drei Monate vor dem beabsichtigten Inkrafttreten der Beschränkung und
 in den Fällen des Absatzes 8 bis spätestens zum 1. Juli 2000
 beantragt. Der Flugplatzunternehmer ist verpflichtet, dem
-Bundesministerium für Verkehr, Bau und Stadtentwicklung über die
+Bundesministerium für Verkehr und digitale Infrastruktur über die
 Luftfahrtbehörde die hierfür erforderlichen Unterlagen und
 Begründungen rechtzeitig zu übermitteln.
 
@@ -384,8 +384,8 @@ Rechts wegen oder tatsächlich
 
 
 
-behandelt, ist das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zu unterrichten.
+behandelt, ist das Bundesministerium für Verkehr und digitale
+Infrastruktur zu unterrichten.
 
 (2) Dieses kann, unbeschadet der internationalen Verpflichtungen der
 Europäischen Union, die Pflichten, die sich aus der Richtlinie
@@ -393,21 +393,21 @@ Europäischen Union, die Pflichten, die sich aus der Richtlinie
 und Nutzern dieses Drittlandes ergeben, im Einklang mit dem
 Gemeinschaftsrecht ganz oder teilweise aussetzen.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur
 unterrichtet die Kommission der Europäischen Gemeinschaften über Art
 und Ausmaß der Entscheidung.
 
 
 ## § 13 Unterrichtung
 
-(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung die unter diese Verordnung fallenden Flugplätze
+(1) Die Luftfahrtbehörde meldet dem Bundesministerium für Verkehr und
+digitale Infrastruktur die unter diese Verordnung fallenden Flugplätze
 vor dem 1. Juni jeden Jahres mit Angaben zum jeweiligen Passagier- und
 Frachtaufkommen des abgelaufenen Kalenderjahres und des dem 1. April
 und dem 1. Oktober des Vorjahres vorausgehenden Sechsmonatszeitraums.
 
-(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr, Bau
-und Stadtentwicklung auf dessen Anforderung hin Informationen zur
+(2) Die Luftfahrtbehörde stellt dem Bundesministerium für Verkehr und
+digitale Infrastruktur auf dessen Anforderung hin Informationen zur
 Verfügung, die die Kommission der Europäischen Gemeinschaften zur
 Erstellung eines Berichts über die Anwendung der Richtlinie 96/67/EG
 des Rates benötigt.
@@ -416,8 +416,9 @@ des Rates benötigt.
 die nach Absatz 2 erforderlichen Auskünfte zu erteilen und Unterlagen
 vorzulegen.
 
+(zu § 2 Nr. 4)
 
-## Anlage 1 (zu § 2 Nr. 4) Verzeichnis der Bodenabfertigungsdienste
+## Anlage 1 Verzeichnis der Bodenabfertigungsdienste
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
@@ -603,8 +604,9 @@ Fundstelle des Originaltextes: BGBl. I 1997, 2888 - 2889
 
 
 
+(zu § 7)
 
-## Anlage 2 (zu § 7) Auswahl-Richtlinie des Bundesministeriums für Verkehr, Bau und Stadtentwicklung
+## Anlage 2 Auswahl-Richtlinie des Bundesministeriums für Verkehr und digitale Infrastruktur
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2889 - 2890;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -795,8 +797,9 @@ des Flugplatzunternehmens die Auswahlentscheidung. Die
 Auswahlentscheidung ist dem Nutzerausschuß, dem Flugplatzunternehmer
 sowie den Bewerbern bekanntzugeben.
 
+(zu § 8)
 
-## Anlage 3 (zu § 8) Anforderungen für die Erbringung von Bodenabfertigungsdiensten
+## Anlage 3 Anforderungen für die Erbringung von Bodenabfertigungsdiensten
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2890 - 2892;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -950,9 +953,9 @@ Gleiches gilt für die zwingenden Bestimmungen des Arbeitsrechts und
 die arbeitsschutzrechtlichen Vorschriften, wie das Arbeitsschutzgesetz
 und die auf seiner Grundlage erlassenen Rechtsverordnungen, das
 Arbeitssicherheitsgesetz, das Arbeitszeitgesetz, das
-Jugendarbeitsschutzgesetz, die Arbeitsstättenverordnung, die
-Gefahrstoffverordnung und die Unfallverhütungsvorschriften,
-insbesondere die VBG 78 und die GUV 5.8.
+Jugendarbeitsschutzgesetz, das Mutterschutzgesetz, die
+Arbeitsstättenverordnung, die Gefahrstoffverordnung und die
+Unfallverhütungsvorschriften, insbesondere die VBG 78 und die GUV 5.8.
 
 (6) Vor Aufnahme von Bodenabfertigungstätigkeiten nach Anlage 1 ist
 dem Flugplatzunternehmer der Abschluss einer Haftpflichtversicherung
@@ -1039,8 +1042,9 @@ Selbstabfertigern angemessene Kautionen oder Sicherheiten verlangen
 sowie Finanzierungs- oder Zahlungsbedingungen geltend machen, ohne daß
 hierdurch Marktzugangshindernisse entstehen.
 
+(zu § 5)
 
-## Anlage 4 (zu § 5) Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
+## Anlage 4 Anforderungen an eine Geschäftsordnung für den Nutzerausschuß
 
 Fundstelle des Originaltextes: BGBl. I 1997, 2892 - 2893
 Die Geschäftsordnung, die sich der Nutzerausschuß eines Flugplatzes
@@ -1106,13 +1110,14 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
         übertragen hat.
 
 
-    3.4 Der Organisator ist zuständig für die Erstellung von Einladung,
-        Tagesordnung und Niederschrift der Sitzungen des Nutzerausschusses
-        sowie für die Bereitstellung des Sitzungsraumes. Die Einladung zu den
-        Sitzungen erfolgt schriftlich mit einer Frist von drei Wochen, es sei
-        denn, der Vorsitzende hält eine kürzere Frist für geboten. Der Termin
-        der Sitzung wird im Einvernehmen mit dem Vorsitzenden festgelegt. Die
-        Niederschrift ist vom Leiter der Sitzung zu unterzeichnen.
+    3.4 Der Organisator ist zuständig für die Erstellung von Einladung und
+        Tagesordnung, für die schriftliche oder elektronische Protokollierung
+        der Sitzungen des Nutzerausschusses sowie für die Bereitstellung des
+        Sitzungsraumes. Die Einladung zu den Sitzungen erfolgt schriftlich mit
+        einer Frist von drei Wochen, es sei denn, der Vorsitzende hält eine
+        kürzere Frist für geboten. Der Termin der Sitzung wird im Einvernehmen
+        mit dem Vorsitzenden festgelegt. Die Niederschrift ist vom Leiter der
+        Sitzung zu unterzeichnen.
 
 
     3.5 Die Sitzung des Nutzerausschusses wird vom Organisator mindestens
@@ -1122,8 +1127,9 @@ gemäß § 5 Abs. 1 zu geben hat, hat folgende Grundsätze zu beachten:
         -   die Mitwirkung des Nutzerausschusses gemäß 1.1 erforderlich ist oder
 
 
-        -   dies schriftlich unter Angabe des Zwecks und der Gründe von mehr als
-            einem Viertel der Mitglieder des Nutzerausschusses verlangt wird oder
+        -   dies schriftlich oder elektronisch unter Angabe des Zwecks und der
+            Gründe von mehr als einem Viertel der Mitglieder des Nutzerausschusses
+            verlangt wird oder
 
 
         -   der Vorsitzende aus anderen Gründen die Einberufung für erforderlich

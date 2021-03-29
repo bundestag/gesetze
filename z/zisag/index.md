@@ -19,8 +19,8 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 482
 
-Geändert durch
-:   Art. 1 G v. 12.4.2011 I 617
+Zuletzt geändert durch
+:   Art. 8 Abs. 9 G v. 3.12.2015 I 2178
 
 Stand: Zum Inkrafttreten vgl. § 7
 
@@ -45,7 +45,7 @@ der Agrarregelung (ABl. L 82 vom 22.3.1997, S. 1), die zuletzt durch
 die Verordnung (EG) Nr. 766/2008 (ABl. L 218 vom 13.8.2008, S. 48)
 geändert worden ist, haftet die Bundesrepublik Deutschland. Ansprüche
 nach Satz 1 sind gegenüber der Bundesrepublik Deutschland, vertreten
-durch das Zollkriminalamt, geltend zu machen.
+durch die Generalzolldirektion, geltend zu machen.
 
 
 ## § 2
@@ -62,8 +62,8 @@ Verzeichnis nach Satz 1.
 
 ## § 3
 
-(1) Das Zollkriminalamt, die Zollfahndungsämter und die Hauptzollämter
-dürfen dienstlich erlangte Informationen einschließlich
+(1) Die Generalzolldirektion, die Zollfahndungsämter und die
+Hauptzollämter dürfen dienstlich erlangte Informationen einschließlich
 personenbezogener Daten in das Zollinformationssystem nach dem
 Beschluss 2009/917/JI sowie nach der Verordnung (EG) Nr. 515/97 im
 automatisierten Verfahren eingeben.

@@ -5,7 +5,7 @@ Title: Bekanntmachung des ergänzenden Beschlusses des Deutschen Bundestages zur
   Oktober 1990 zustimmend zur Kenntnis genommen hat
 jurabk: BTBRGGOÄndErgBek 1990
 layout: default
-origslug: btbrggo_ndergbek_1990
+origslug: btbrggoaendergbek_1990
 slug: btbrggoaendergbek_1990
 
 ---

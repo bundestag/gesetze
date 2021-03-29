@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2003, 851
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.3.2006 I 594
+:   Art. 11 G v. 20.12.2016 I 3048
 
 Die Verpflichtungen aus der Richtlinie 98/34/EG des Europäischen
 Parlaments und des Rates vom 22. Juni 1998 über ein
@@ -61,9 +61,10 @@ und dem Organisationserlass vom 22. Januar 2001 (BGBl. I S. 127),
 (1) Zweck dieser Verordnung ist es, für die Herstellung, die
 Beschaffung, die Bevorratung, die Verteilung und die Abgabe von
 Arzneimitteln zur Durchführung der besonderen Aufgaben in den
-Bereichen des Zivil- und Katastrophenschutzes, der Bundeswehr, der
-Bundespolizei sowie der Bereitschaftspolizeien der Länder Ausnahmen
-von den Vorschriften des Arzneimittelgesetzes zuzulassen.
+Bereichen, einschließlich der Teilnahme an internationalen
+Hilfsaktionen, des Zivil- und Katastrophenschutzes, der Bundeswehr,
+der Bundespolizei sowie der Bereitschaftspolizeien der Länder
+Ausnahmen von den Vorschriften des Arzneimittelgesetzes zuzulassen.
 
 (2) Diese Verordnung gilt für Arzneimittel im Sinne des § 2 Abs. 1 und
 2 des Arzneimittelgesetzes, die auf besondere Veranlassung der
@@ -145,7 +146,7 @@ einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben oder
 Gesundheit von Menschen ist.
 
 
-## § 3 Ausnahmen vom Siebenten Abschnitt des Arzneimittelgesetzes
+## § 3 Ausnahmen vom Siebten Abschnitt des Arzneimittelgesetzes
 
 (1) Abweichend von § 47 Abs. 1 des Arzneimittelgesetzes dürfen die in
 § 1 Abs. 2 genannten Arzneimittel vom pharmazeutischen Unternehmer und
@@ -172,8 +173,11 @@ Nr. 2 des Arzneimittelgesetzes vor, so gilt die Erteilung eines
 Auftrages zur Beschaffung von Arzneimitteln durch die veranlassende
 Stelle im Sinne des § 1 Abs. 2 als Bescheinigung nach § 72a Abs. 1
 Satz 1 Nr. 3 des Arzneimittelgesetzes, dass die Einfuhr im
-öffentlichen Interesse liegt. § 72a Abs. 1 Satz 4 des
-Arzneimittelgesetzes bleibt unberührt.
+öffentlichen Interesse liegt. Arzneimittel menschlicher, tierischer
+oder mikrobieller Herkunft, die zur Anwendung bei Menschen bestimmt
+sind, werden im Benehmen mit der zuständigen Bundesoberbehörde
+beschafft; § 72a Absatz 1c des Arzneimittelgesetzes ist insoweit nicht
+anzuwenden.
 
 
 ## § 5 Ausnahmen vom Zweiten Abschnitt des Arzneimittelgesetzes
@@ -203,6 +207,18 @@ Arzneimittel zur Verfügung.
 
 (4) § 9 Abs. 2 des Arzneimittelgesetzes findet auf die in § 1 Abs. 2
 genannten Arzneimittel keine Anwendung.
+
+
+## § 5a Ausnahmen vom Dritten Abschnitt des Arzneimittelgesetzes
+
+Bei Arzneimitteln nach § 1 Absatz 2, die im Geltungsbereich des
+Arzneimittelgesetzes hergestellt werden und zur Anwendung bei Menschen
+bestimmt sind, kann die zuständige Behörde im Benehmen mit der
+zuständigen Bundesoberbehörde Ausnahmen von den Anforderungen nach den
+§§ 13 bis 15 des Arzneimittelgesetzes zulassen, wenn dies zur
+Versorgung der Bevölkerung erforderlich ist und die Qualität,
+Wirksamkeit und Sicherheit der herzustellenden Arzneimittel
+gewährleistet ist.
 
 
 ## § 6 Ausnahmen vom Achten Abschnitt des Arzneimittelgesetzes

@@ -18,7 +18,7 @@ Fundstelle
 :   BGBl I: 2008, 1982, 1986
 
 Zuletzt geändert durch
-:   Art. 3 G v. 24.2.2012 I 206
+:   Art. 24 Abs. 25 G v. 23.6.2017 I 1693
 
 
 ## § 1 Anwendungsbereich
@@ -28,8 +28,8 @@ Sinne des § 2 des Finanzmarktstabilisierungsfondsgesetzes, denen zum
 Zwecke der Stabilisierung des Finanzmarktes Stabilisierungsmaßnahmen
 gewährt werden. Daneben findet das Gesetz Anwendung auf Unternehmen,
 die zum Zweck der Einhaltung von Eigenmittelanforderungen nach § 10
-Absatz 1b Satz 2 des Kreditwesengesetzes Kapitalmaßnahmen durchführen.
-Die §§ 7 bis 7d finden auch dann Anwendung, wenn die Einberufung der
+Absatz 4 des Kreditwesengesetzes Kapitalmaßnahmen durchführen. Die §§
+7 bis 7d finden auch dann Anwendung, wenn die Einberufung der
 Hauptversammlung vor Inkrafttreten dieses Gesetzes erfolgt ist.
 
 
@@ -104,19 +104,20 @@ Beschlussfassung über eine Kapitalerhöhung gegen Einlagen einberufen,
 gilt § 16 Absatz 4 des Wertpapiererwerbs- und Übernahmegesetzes
 entsprechend mit der Maßgabe, dass die Einberufung zur
 Hauptversammlung spätestens am 21. Tag vor dem Tag der
-Hauptversammlung erfolgen muss. Abweichend von § 123 Absatz 3 Satz 3
+Hauptversammlung erfolgen muss. Abweichend von § 123 Absatz 4 Satz 2
 des Aktiengesetzes hat sich der Nachweis bei börsennotierten
 Gesellschaften auf den Beginn des 18. Tages vor der Versammlung zu
-beziehen und muss der Gesellschaft unter der in der Einberufung
-hierfür mitgeteilten Adresse bis spätestens am vierten Tag vor der
-Hauptversammlung zugehen, soweit der Vorstand in der Einberufung der
-Hauptversammlung keine kürzere Frist für den Zugang des Nachweises bei
-der Gesellschaft vorsieht; abweichende Satzungsbestimmungen sind
-unbeachtlich. Die vorstehenden Regelungen gelten entsprechend, wenn
-die Kapitalerhöhung nicht nur von dem Fonds, sondern auch oder
-ausschließlich von den Aktionären oder Dritten gezeichnet werden kann
-oder die Tagesordnung der Hauptversammlung neben der Beschlussfassung
-über die Kapitalerhöhung noch andere Gegenstände enthält.
+beziehen und muss bei Inhaberaktien der Gesellschaft unter der in der
+Einberufung hierfür mitgeteilten Adresse bis spätestens am vierten Tag
+vor der Hauptversammlung zugehen, soweit der Vorstand in der
+Einberufung der Hauptversammlung keine kürzere Frist für den Zugang
+des Nachweises bei der Gesellschaft vorsieht; abweichende
+Satzungsbestimmungen sind unbeachtlich. Die vorstehenden Regelungen
+gelten entsprechend, wenn die Kapitalerhöhung nicht nur von dem Fonds,
+sondern auch oder ausschließlich von den Aktionären oder Dritten
+gezeichnet werden kann oder die Tagesordnung der Hauptversammlung
+neben der Beschlussfassung über die Kapitalerhöhung noch andere
+Gegenstände enthält.
 
 (2) Der Beschluss über die Erhöhung des Grundkapitals gegen Einlagen
 im Zusammenhang mit einer Rekapitalisierung nach § 7 des
@@ -298,8 +299,8 @@ des Vorstands zu deren Vornahme, dem Zweck dienen,
 
 
 6.  Kapitalerhöhungen gegen Einlagen für die Einhaltung von
-    Eigenmittelanforderungen nach § 10 Absatz 1b Satz 2 des
-    Kreditwesengesetzes durchzuführen.
+    Eigenmittelanforderungen nach § 10 Absatz 4 des Kreditwesengesetzes
+    durchzuführen.
 
 
 
@@ -338,10 +339,7 @@ unverzüglich zur Eintragung in das Genossenschaftsregister anzumelden
 und unverzüglich einzutragen, sofern der zugrunde liegende Beschluss
 nicht offensichtlich nichtig ist.
 
-(3) Gewähren Versicherungsvereine auf Gegenseitigkeit dem Fonds
-Genussrechte im Sinne des § 53c Abs. 3a des
-Versicherungsaufsichtsgesetzes, so gilt für das Beschlussverfahren § 7
-Abs. 1 entsprechend.
+(3) (weggefallen)
 
 
 ## § 10 Keine Informationspflicht gegenüber dem Wirtschaftsausschuss
@@ -353,7 +351,7 @@ Anteilen durch den Fonds.
 
 ## § 11 Keine Mitteilungspflicht für wesentliche Beteiligung
 
-§ 27a des Wertpapierhandelsgesetzes findet keine Anwendung auf den
+§ 43 des Wertpapierhandelsgesetzes findet keine Anwendung auf den
 Erwerb von Anteilen durch den Fonds.
 
 

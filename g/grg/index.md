@@ -28,8 +28,9 @@ beschlossen:
 ## Erster Teil - Ergänzung und Änderung des Sozialgesetzbuchs
 
 
+Sozialgesetzbuch (SGB)
 
-### Art 1 Sozialgesetzbuch (SGB) Fünftes Buch (V) Gesetzliche Krankenversicherung
+### Art 1 Fünftes Buch (V) Gesetzliche Krankenversicherung
 
 -
 

@@ -2,7 +2,7 @@
 Title: Gesetz zum Schutz gegen Fluglärm
 jurabk: FluLärmG
 layout: default
-origslug: flul_rmg
+origslug: flulaermg
 slug: flulaermg
 
 ---

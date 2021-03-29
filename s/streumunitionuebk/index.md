@@ -2,7 +2,7 @@
 Title: Übereinkommen über Streumunition
 jurabk: StreumunitionÜbk
 layout: default
-origslug: streumunition_bk
+origslug: streumunitionuebk
 slug: streumunitionuebk
 
 ---

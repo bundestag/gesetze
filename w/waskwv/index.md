@@ -69,10 +69,10 @@ unterhält.
 ## § 5 Vermögensteuer und Aufbringungsumlage
 
 Die Vermögensteuer
-und die Aufbringungsumlage,              die auf die
-steuerbegünstigten Anlagen entfallen, sind während der Bauzeit nicht
-zu entrichten. Sie ermäßigen sich ab dem Betriebsbeginn für die Dauer
-von zwanzig Jahren auf die Hälfte der gesetzlichen Beträge.
+und die Aufbringungsumlage, die auf die steuerbegünstigten Anlagen
+entfallen, sind während der Bauzeit nicht zu entrichten. Sie ermäßigen
+sich ab dem Betriebsbeginn für die Dauer von zwanzig Jahren auf die
+Hälfte der gesetzlichen Beträge.
 
 
 ## § 6 Gewerbesteuer

@@ -2,7 +2,7 @@
 Title: Übereinkommen über ein Internationales Energieprogramm
 jurabk: IEnProgÜbk
 layout: default
-origslug: ienprog_bk
+origslug: ienproguebk
 slug: ienproguebk
 
 ---

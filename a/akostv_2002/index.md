@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2001, 4161 (2002 I 750)
 
+V aufgeh. durch
+:   Art. 4 Abs. 41 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 31.8.2012 I 1866
+:   Art. 3 G v. 29.6.2015 I 1042
+
+V aufgeh. durch
+:   Art. 4 Abs. 44 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 44 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 ## Eingangsformel
@@ -69,29 +75,38 @@ Sprachenliste (Anlage 4).
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 1)
 
-## Anlage 1 (zu § 1) Gebührenverzeichnis (GebV)
+## Anlage 1 Gebührenverzeichnis (GebV)
 
-Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
+(Fundstelle: BGBl. I 2012, 1866 - 1871)
 
-*    *   A Gebühren des Auswärtigen Dienstes
+
+*    *   A.
+        Gebühren des Auswärtigen Dienstes ****
 
 
 *    *   100
 
-    *   Ausfertigung (§ 10 Abs. 3 Nr. 5 Konsulargesetz)
+    *   **Ausfertigung**
+        (§ 10 Absatz 3 Nummer 5 Konsulargesetz)
 
-    *   Gebühr nach Nr. 124 - 126
+    *   Gebühr nach
+        Nr. 124 – 126
 
 
 *    *   110
 
-    *   Auskunft (§ 1 Konsulargesetz) schriftlich, nicht einfach
+    *   **Auskunft**
+        (§ 1 Konsulargesetz)
+        schriftlich, nicht einfach
 
-    *   25 - 300 EUR
+    *   30 – 400 EUR
 
 
-*    *   Beglaubigung, öffentliche (Vermerk) (§ 10 Abs. 1 Nr. 2 Konsulargesetz)
+*    *
+    *   **Beglaubigung**, öffentliche (Vermerk)
+        (§ 10 Absatz 1 Nummer 2 Konsulargesetz)
 
     *
 
@@ -101,14 +116,16 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         Zustimmung zur Namensführung auf Grund familienrechtlicher
         Vorschriften
 
-    *   20 EUR
+    *   25 EUR
 
 
 *    *   122
 
     *   Unterschrift oder Handzeichen in sonstigen Angelegenheiten
 
-    *   1/4 Wertgebühr mindestens 15 EUR, höchstens 250 EUR
+    *   ¼ Wertgebühr
+        mindestens 20 EUR,
+        höchstens 250 EUR
 
 
 *    *   123
@@ -116,7 +133,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Mehrere Unterschriften oder Handzeichen werden in einem Vermerk
         beglaubigt
 
-    *   Gebühr nach Nr. 121 - 122 nur einmal
+    *   Gebühr nach
+        Nr. 121 – 122
+        nur einmal
 
 
 *    *   124
@@ -124,7 +143,10 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Abschrift eines Schriftstücks in deutscher Sprache oder einer
         Fremdsprache mit lateinischen Schriftzeichen
 
-    *   je angefangene Seite 50 Cents, mindestens 5 EUR
+    *   je angefangene Seite
+        1 EUR,
+        mindestens
+        10 EUR
 
 
 *    *   125
@@ -132,20 +154,25 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Abschrift eines Schriftstücks in einer Fremdsprache mit
         nichtlateinischen Schriftzeichen
 
-    *   je angefangene Seite 1 EUR, mindestens 10 EUR
+    *   je angefangene Seite
+        1,50 EUR,
+        mindestens
+        15 EUR
 
 
 *    *   126
 
-    *   Jede weitere gleiche Abschrift -unabhängig von der Sprache und
-        Seitenzahl - vorausgesetzt, dass sie von der beglaubigenden
+    *   Jede weitere gleiche Abschrift – unabhängig von der Sprache und
+        Seitenzahl –, vorausgesetzt, dass sie von der beglaubigenden
         Dienststelle angefertigt worden ist, sich noch nicht in Händen
         Außenstehender befunden hat und gleichzeitig beglaubigt werden kann
 
-    *   2,50 EUR
+    *   5 EUR
 
 
-*    *   Beschaffung (§ 1 Konsulargesetz)
+*    *
+    *   **Beschaffung**
+        (§ 1 Konsulargesetz)
 
     *
 
@@ -155,14 +182,12 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         Schriftstücks, sofern sie nicht Teil einer anderen gebührenpflichtigen
         Amtshandlung ist
 
-    *   15 - 100 EUR
+    *   30 – 250 EUR
 
 
-*    *   130.1
-
-    *
-
-*    *   Werden mehrere Bescheinigungen, Urkunden oder sonstige Schriftstücke
+*    *
+    *   130.1
+        Werden mehrere Bescheinigungen, Urkunden oder sonstige Schriftstücke
         für einen Antragsteller bei einer Stelle gleichzeitig beschafft, so
         ist die Gebühr nur einmal zu erheben
 
@@ -172,19 +197,20 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Beschaffung sonstiger beweglicher Sachen
 
-    *   15 - 100 EUR
+    *   30 – 250 EUR
 
 
 *    *   140
 
-    *   Bescheinigung, konsularische (Vermerk) (§ 10 Abs. 1 Nr. 2
-        Konsulargesetz)
+    *   **Bescheinigung, konsularische** (Vermerk)
+        (§ 10 Absatz 1 Nummer 2 Konsulargesetz)
 
-    *   20 - 100 EUR
+    *   25 – 300 EUR
 
 
-*    *   Bestätigung der Echtheit inländischer öffentlicher Urkunden (§ 14
-        Konsulargesetz)
+*    *
+    *   **Bestätigung der Echtheit** inländischer öffentlicher Urkunden
+        (§ 14 Konsulargesetz)
 
     *
 
@@ -193,17 +219,19 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Inländische Personenstandsurkunde oder inländisches
         Ehefähigkeitszeugnis
 
-    *   20 EUR
+    *   25 EUR
 
 
 *    *   151
 
     *   Sonstige inländische öffentliche Urkunde
 
-    *   30 EUR
+    *   35 EUR
 
 
-*    *   Beurkundung, öffentliche (Niederschrift) (§§ 10 bis 12 Konsulargesetz)
+*    *
+    *   **Beurkundung, öffentliche** (Niederschrift)
+        (§§ 10 bis 12 Konsulargesetz)
 
     *
 
@@ -216,25 +244,22 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Einfache Wertgebühr
 
 
-*    *   160.1
-
-    *
-
-*    *   Die Aufnahme von Eiden oder eidesstattlichen Versicherungen, die Teil
+*    *
+    *   160.1
+        Die Aufnahme von Eiden oder eidesstattlichen Versicherungen, die Teil
         einer anderen gebührenpflichtigen Amtshandlung ist, wird mit der
         jeweiligen Gebühr abgegolten.
 
     *
 
-*    *   160.2
-
-    *
-
-*    *   Die Aufnahme einer eidesstattlichen Versicherung zwecks Erlangung
-        eines Erbscheins, eines Testamentsvollstreckerzeugnisses oder eines
-        Zeugnisses über die Fortsetzung der Gütergemeinschaft ist ein
-        selbständiger Gebührentatbestand. Die Mitbeurkundung der jeweiligen
-        Anträge wird mit der Gebühr abgegolten.
+*    *
+    *   160.2
+        Die Aufnahme einer eidesstattlichen Versicherung zwecks Erlangung
+        eines Erbscheins, eines Europäischen Nachlasszeugnisses, eines
+        Testamentsvollstreckerzeugnisses oder eines Zeugnisses über die
+        Fortsetzung der Gütergemeinschaft ist ein selbstständiger
+        Gebührentatbestand. Die Mitbeurkundung der jeweiligen Anträge wird mit
+        der Gebühr abgegolten.
 
     *
 
@@ -242,9 +267,12 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Die zu beurkundende Erklärung wird in einer Fremdsprache abgegeben,
         gleichgültig ob die Niederschrift in der deutschen oder der fremden
-        Sprache erfolgt
+        Sprache erfolgt.
 
-    *   Zusätzlich eine halbe Wertgebühr, höchstens 50 EUR
+    *   Zusätzlich je
+        Fremdsprache eine
+        halbe Wertgebühr,
+        höchstens 60 EUR
 
 
 *    *   162
@@ -253,14 +281,13 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         sonstigen Organs einer Kapitalgesellschaft, einer anderen Vereinigung
         oder Stiftung
 
-    *   Doppelte Wertgebühr, höchstens 10.000 EUR
+    *   Doppelte Wertgebühr,
+        höchstens 10 000 EUR
 
 
-*    *   162.1
-
-    *
-
-*    *   Bei Änderung eines Gesellschaftsvertrags oder einer Satzung wird die
+*    *
+    *   162.1
+        Bei Änderung eines Gesellschaftsvertrags oder einer Satzung wird die
         für die Anmeldung zum Handelsregister erforderliche Bescheinigung des
         neuen vollständigen Wortlauts des Gesellschaftsvertrags oder der
         Satzung mit dieser Gebühr abgegolten.
@@ -280,7 +307,10 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         abgegeben, gleichgültig ob die Niederschrift in der deutschen oder in
         einer fremden Sprache erfolgt.
 
-    *   Zusätzlich je Fremdsprache eine halbe Wertgebühr,
+    *   Zusätzlich je
+        Fremdsprache eine
+        halbe Wertgebühr,
+        höchstens 120 EUR
 
 
 *    *   165
@@ -293,13 +323,18 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
 *    *   166
 
-    *   Ein Erbvertrag wird gleichzeitig mit einen Ehevertrag beurkundet
+    *   Ein Erbvertrag wird gleichzeitig mit einem Ehevertrag oder einem
+        Lebenspartnerschaftsvertrag beurkundet
 
-    *   Gebühr nach Nr. 163 - 164 nur einmal nach dem Vertrag mit dem höheren
-        Wert
+    *   Gebühr nach
+        Nr. 163 – 164
+        nur einmal nach
+        dem Vertrag mit
+        dem höheren Wert
 
 
-*    *   Gemeinsame Vorschriften zu den Nummern 160 - 166
+*    *
+    *   **Gemeinsame Vorschriften zu den Nummern 160 – 166**
 
     *
 
@@ -319,7 +354,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         Erklärung einschließlich der Beurkundung ergänzender oder ändernder
         Erklärungen
 
-    *   Gebühr wie für die Beurkundung der Erklärung
+    *   Gebühr wie für die
+        Beurkundung der
+        Erklärung
 
 
 *    *   172
@@ -334,14 +371,13 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Entwurf einer Urkunde
 
-    *   Gebühr wie für die Beurkundung
+    *   Gebühr wie für
+        die Beurkundung
 
 
-*    *   180.1
-
-    *
-
-*    *   Die Entwurfsgebühr, nicht aber eine etwaige zusätzliche Gebühr (z. B.
+*    *
+    *   180.1
+        Die Entwurfsgebühr, nicht aber eine etwaige zusätzliche Gebühr (z. B.
         161, 164, 700), wird bei einer nachfolgenden Beurkundung angerechnet,
         wenn der Entwurf vom beurkundenden Konsularbeamten, seinem Vertreter
         oder Vorgänger im Amt gefertigt wurde.
@@ -350,17 +386,17 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
 *    *   200
 
-    *   Dolmetschen (§ 1 Konsulargesetz) sofern diese Amtshandlung nicht
+    *   **Dolmetschen**
+        (§ 1 Konsulargesetz)
+        sofern diese Amtshandlung nicht zur ersten Klärung eines Notfalls
+        erfolgt, für jede angefangene halbe Stunde
 
-    *
-
-*    *   zur ersten Klärung eines Notfalls erfolgt, für jede angefangene halbe
-        Stunde
-
-    *   30 EUR
+    *   35 EUR
 
 
-*    *   Forderungsangelegenheit (§ 1 Konsulargesetz)
+*    *
+    *   **Forderungsangelegenheit**
+        (§ 1 Konsulargesetz)
 
     *
 
@@ -368,14 +404,14 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Erstes Mahnschreiben
 
-    *   10 - 50 EUR
+    *   25 – 100 EUR
 
 
 *    *   211
 
     *   Jedes weitere Mahnschreiben
 
-    *   5 EUR
+    *   10 EUR
 
 
 *    *   212
@@ -386,7 +422,9 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   25 EUR
 
 
-*    *   Hilfeleistung (§ 5 Konsulargesetz)
+*    *
+    *   **Hilfeleistung**
+        (§ 5 Konsulargesetz)
 
     *
 
@@ -397,14 +435,12 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
         Ermöglichung der Reise an den Ort des gewöhnlichen Aufenthalts oder an
         einen anderen Ort
 
-    *   15 - 50 EUR
+    *   25 – 200 EUR
 
 
-*    *   220.1
-
-    *
-
-*    *   Werden mehrere Stellen (Auslandsvertretungen oder
+*    *
+    *   220.1
+        Werden mehrere Stellen (Auslandsvertretungen oder
         Honorarkonsularbeamte) mit demselben Hilfeleistungsfall befasst, so
         erhebt die zuerst in Anspruch genommene Stelle die Gebühr.
 
@@ -414,86 +450,92 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Anweisung zur Mitnahme eines hilfsbedürftigen Seemanns (§ 1 des
         Gesetzes betreffend die Verpflichtung der Kauffahrteischiffe zur
-        Mitnahme heimzuschaffender Seeleute in der im Bundesgesetzblatt Teil
-        III, Gliederungsnummer 9510-3, veröffentlichten bereinigten Fassung,
-        geändert durch Artikel 278 des Gesetzes vom 2. März 1974, BGBI. I S.
-        469)
+        Mitnahme heimzuschaffender Seeleute in der jeweils aktuellen Fassung)
 
-    *   10 - 20 EUR
+    *   25 – 200 EUR
 
 
-*    *   Legalisation ausländischer öffentlicher Urkunden
+*    *
+    *   **Legalisation** ausländischer öffentlicher Urkunden
 
     *
 
 *    *
-    *   I. Legalisation nach § 13 Abs. 2 Konsulargesetz
+    *   I. Legalisation nach § 13 Absatz 2 Konsulargesetz
 
     *
 
 *    *   230
 
-    *   Ausländische Personenstandsurkunde, ausländisches Ehefähigkeitszeugnis
-        gemäß § 1309 Abs. 1 Bürgerliches Gesetzbuch
+    *   Ausländische Personenstandsurkunde, dazu gehören Geburts-, Heirats-
+        und Sterbeurkunden sowie Auszüge aus standesamtlich geführten
+        Personenstandsregistern
 
-    *   20 EUR
+    *   25 EUR
 
 
 *    *   231
 
     *   Sonstige ausländische öffentliche Urkunde
 
-    *   40 EUR
+    *   45 EUR
 
 
 *    *
-    *   II. Legalisation nach § 13 Abs. 4 Konsulargesetz
+    *   II. Legalisation nach § 13 Absatz 4 Konsulargesetz
 
     *
 
 *    *   235
 
-    *   Ausländische Personenstandsurkunde, ausländisches Ehefähigkeitszeugnis
-        gemäß § 1309 Abs. 1 Bürgerliches Gesetzbuch
+    *   Ausländische Personenstandsurkunde, dazu gehören Geburts-, Heirats-
+        und Sterbeurkunden sowie Auszüge aus standesamtlich geführten
+        Personenstandsregistern
 
-    *   40 EUR
+    *   45 EUR
 
 
 *    *   236
 
     *   Sonstige ausländische öffentliche Urkunde
 
-    *   80 EUR
+    *   85 EUR
+
+
+*    *   250
+
+    *   **Privatschriftliche Erklärung**
+        (§ 2 Konsulargesetz)
+        Fertigung des Entwurfs einer privatschriftlichen Erklärung zur
+        Erledigung von Familiensachen, in Angelegenheiten der freiwilligen
+        Gerichtsbarkeit und in Nachlassangelegenheiten
+
+    *   30 – 300 EUR
 
 
 *    *
-    *   Schifffahrtssachen (§§ 2, 17 Konsulargesetz)
+    *   **Schifffahrtssachen**
+        (§§ 2, 17 Konsulargesetz)
 
     *
 
 *    *   300
 
-    *   Prüfung der Ausrüstung eines Kauffahrteischiffes mit Arznei und
-        anderen Hilfsmitteln der Krankenfürsorge einschließlich Ausstellung
-        der Prüfungsbescheinigung (§ 4 Abs. 5 der Verordnung über die
-        Krankenfürsorge auf Kauffahrteischiffen vom 25. April 1972, BGBl. I S.
-        734, zuletzt geändert durch Artikel 438 der Verordnung vom 29. Oktober
-        2001, BGBl. I S. 2785)
+    *   (weggefallen)
 
-    *   30 EUR
-
+    *
 
 *    *   301
 
     *   Änderung eines Schiffspapiers außer Musterrollen und Beilagen zur
         Musterrolle
 
-    *   20 EUR
+    *   25 – 50 EUR
 
 
 *    *   310
 
-    *   Verklarung; einschließlich Beweisaufnahme nach dem Vierten Buch des
+    *   Verklarung; einschließlich Beweisaufnahme nach dem Fünften Buch des
         Handelsgesetzbuchs
 
     *   Doppelte Wertgebühr
@@ -506,23 +548,23 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Einfache Wertgebühr
 
 
-*    *   Todesfälle (§ 9 Abs. 1 und 2 Konsulargesetz)
+*    *
+    *   **Todesfälle**
+        (§ 9 Absatz 1 und 2 Konsulargesetz)
 
     *
 
 *    *   400
 
-    *   Leichenpass (§ 9 Abs. 1 Konsulargesetz) einschließlich der Beschaffung
-        erforderlicher Unterlagen
+    *   Leichenpass (§ 9 Absatz 1 Konsulargesetz)
+        einschließlich der Beschaffung erforderlicher Unterlagen
 
-    *   20 EUR
+    *   25 EUR
 
 
-*    *   400.1
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für ein Tätigwerden außerhalb
+*    *
+    *   400.1
+        Neben der Gebühr wird die Zusatzgebühr für ein Tätigwerden außerhalb
         der Diensträume oder außerhalb der Dienstzeit nicht erhoben.
 
     *
@@ -530,155 +572,125 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 *    *   401
 
     *   Mitwirkung bei einer verlangten Überführung einer verstorbenen Person
+        oder bei der Bestattung vor Ort
 
-    *   15 - 50 EUR
+    *   25 – 350 EUR
 
 
 *    *   410
 
-    *   Nachlassfürsorge (§ 9 Abs. 2 und 3 Konsulargesetz)
+    *   Nachlassfürsorge (§ 9 Absatz 2 und 3 Konsulargesetz)
 
-    *   15 - 500 EUR
+    *   50 – 500 EUR
 
 
-*    *   410.1
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für ein Tätigwerden außerhalb
+*    *
+    *   410.1
+        Neben der Gebühr wird die Zusatzgebühr für ein Tätigwerden außerhalb
         der Diensträume nicht erhoben.
 
     *
 
-*    *   410.2
-
-    *
-
-*    *   Gebühren für Amtshandlungen, die besonders geregelt sind, bleiben
+*    *
+    *   410.2
+        Gebühren für Amtshandlungen, die besonders geregelt sind, bleiben
         unberührt.
 
     *
 
 *    *   411
 
-    *   Nachlassverzeichnis (§ 10 Abs. 1 Konsulargesetz)
+    *   Nachlassverzeichnis (§ 10 Absatz 1 Konsulargesetz)
 
     *   Halbe Wertgebühr
 
 
-*    *   411.1
-
-    *
-
-*    *   Nimmt die Amtshandlung einen Zeitaufwand von mehr als einer Stunde in
-        Anspruch, so erhöht sich die Gebühr für jede weitere angefangene
-        Stunde um
+*    *
+    *   411.1
+        Nimmt die Amtshandlung einen Zeitaufwand von mehr als einer Stunde in
+        Anspruch, so erhöht sich die Gebühr
+        für jede weitere angefangene Stunde um
 
     *   50 EUR
 
 
-*    *   411.2
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
+*    *
+    *   411.2
+        Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
         Diensträume oder außerhalb der Dienstzeit nicht erhoben.
 
     *
 
 *    *   500
 
-    *   Übersendung (§§ 1, 9 Abs. 2 und 3 Konsulargesetz) ausgenommen
-        Sendungen, die in sachlichem Zusammenhang mit einer anderen
-        gebührenpflichtigen Amtshandlung stehen oder die für deutsche Behörden
-        oder Gerichte bestimmt sind
+    *   **Übersendung**
+        (§§ 1, 9 Absatz 2 und 3 Konsulargesetz)
+        ausgenommen Sendungen, die in sachlichem Zusammenhang mit einer
+        anderen gebührenpflichtigen Amtshandlung stehen oder die für deutsche
+        Behörden oder Gerichte bestimmt sind
 
-    *   10 - 25 EUR
+    *   25 – 100 EUR
 
 
-*    *   500.1
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
+*    *
+    *   500.1
+        Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
         Diensträume nicht erhoben.
 
     *
 
 *    *   510
 
-    *   Überweisung (§§ 1, 9 Abs. 2 und 3 Konsulargesetz) ausgenommen
-        Überweisungen, die in sachlichem Zusammenhang mit einer anderen
-        gebührenpflichtigen Amtshandlung stehen oder auf amtlichem Wege
-        vorgenommen werden
+    *   **Überweisung (Auftragszahlung)**
+        (§§ 1, 2, 5, 6, 9 Konsulargesetz)
+        ausgenommen Überweisungen (Auftragszahlungen), die im vorwiegend
+        amtlichen Interesse vorgenommen werden
 
-    *   10 EUR
+    *   15 EUR
 
 
-*    *   510.1
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
+*    *
+    *   510.1
+        Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
         Diensträume nicht erhoben.
 
     *
 
 *    *   520
 
-    *   Übersetzungen, die auf besonderen Antrag gefertigt werden (§ 1
-        Konsulargesetz) für jede Zeile des fremdsprachigen Textes einer
-        Übersetzung oder Rohübersetzung (nicht überprüfte Übersetzung)
+    *   **Übersetzungen**, die auf besonderen Antrag gefertigt werden
+        (§ 1 Konsulargesetz)
+        für jede Zeile des fremdsprachigen Textes einer Übersetzung oder
+        Rohübersetzung (nicht überprüfte Übersetzung)
+        520\.1 Sprachengruppe A
+        520\.2 Sprachengruppe B
+        520\.3 Sprachengruppe C
+        520\.4 Sprachengruppe D
 
-    *
-
-*    *   520.1 Sprachengruppe A
-
-    *   1,50 EUR
-
-
-*    *   520.2 Sprachengruppe B
-
-    *   2 EUR
-
-
-*    *   520.3 Sprachengruppe C
-
-    *   2,50 EUR
-
-
-*    *   520.4 Sprachengruppe D
-
-    *   3 EUR
+    *   1,80 EUR
+        2,40 EUR
+        3 EUR
+        3,60 EUR,
+        mindestens 20 EUR
 
 
 *    *
-    *   mindestens 15 EUR
-
-
-*    *   520.5
-
-    *
-
-*    *   Sind beide Sprachen Fremdsprachen, so bestimmen sich Zeilenzahl und
+    *   520.5
+        Sind beide Sprachen Fremdsprachen, so bestimmen sich Zeilenzahl und
         -gebühr nach dem Text in der höherbewerteten Sprache.
 
     *
 
-*    *   520.6
-
-    *
-
-*    *   Gehören beide Sprachen derselben Sprachgruppe an, so bestimmt sich die
+*    *
+    *   520.6
+        Gehören beide Sprachen derselben Sprachgruppe an, so bestimmt sich die
         Zeilenzahl nach dem längeren Text.
 
     *
 
-*    *   520.7
-
-    *
-
-*    *   Überschriften und angefangene Zeilen werden zu vollen Zeilen
+*    *
+    *   520.7
+        Überschriften und angefangene Zeilen werden zu vollen Zeilen
         zusammengerechnet.
 
     *
@@ -687,7 +699,8 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Sinngemäße Übersetzung oder Inhaltsangabe
 
-    *   Die Hälfte der Gebühr nach Nr. 520, mindestens 10 EUR
+    *   Die Hälfte der Gebühr nach Nr. 520,
+        mindestens 15 EUR
 
 
 *    *   522
@@ -695,55 +708,54 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
     *   Bestätigung der Richtigkeit und ggf. der Vollständigkeit einer
         Übersetzung, einer Rohübersetzung, einer sinngemäßen Übersetzung oder
         einer Inhaltsangabe, die nicht durch die Auslandsvertretung oder den
-        Honorarkonsularbeamten angefertigt worden ist.
+        Honorarkonsularbeamten angefertigt worden ist
 
-    *   Die Hälfte der Gebühr nach Nr. 520, mindestens 10 EUR
+    *   Die Hälfte der Gebühr nach Nr. 520,
+        mindestens 15 EUR
 
 
 *    *   530
 
-    *   Veräußerung (§§ 1, 9 Abs. 2 und 3 Konsulargesetz)
+    *   **Veräußerung**
+        (§§ 1, 9 Absatz 2 und 3 Konsulargesetz)
 
     *   Einfache Wertgebühr
 
 
-*    *   530.1
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
+*    *
+    *   530.1
+        Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
         Diensträume nicht erhoben.
 
     *
 
 *    *   535
 
-    *   Vermögensverzeichnis (§ 10 Abs. 1 Konsulargesetz)
+    *   **Vermögensverzeichnis**
+        (§ 10 Absatz 1 Konsulargesetz)
 
     *   Halbe Wertgebühr
 
 
-*    *   535.1
+*    *
+    *   535.1
+        Nimmt die Amtshandlung einen Zeitaufwand von mehr als einer Stunde in
+        Anspruch, so erhöht sich die Gebühr für
+        jede weitere angefangene Stunde um
+
+    *   50 EUR
+
+
+*    *
+    *   535.2
+        Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
+        Diensträume oder außerhalb der Dienstzeit nicht erhoben.
 
     *
 
-*    *   Nimmt die Amtshandlung einen Zeitaufwand von mehr als einer Stunde in
-        Anspruch, so erhöht sich die Gebühr für jede weitere angefangene
-        Stunde um
-
-    *   20 EUR
-
-
-*    *   535.2
-
-    *
-
-*    *   Neben der Gebühr wird die Zusatzgebühr für eine Vornahme außerhalb der
-        Diensträume nicht erhoben.
-
-    *
-
-*    *   Verwahrung (§ 1 Konsulargesetz)
+*    *
+    *   **Verwahrung**
+        (§ 1 Konsulargesetz)
 
     *
 
@@ -751,24 +763,26 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Verwahrung von Geld, Wertpapieren und Kostbarkeiten in den
         Diensträumen einschließlich Auszahlung, Rückzahlung, Aushändigung oder
-        Rückgabe, für jeweils angefangene sechs Monate vom Tag der Annahme an
+        Rückgabe,
+        für jeweils angefangene sechs Monate vom Tag der Annahme an
 
     *   Einfache Wertgebühr
 
 
 *    *   551
 
-    *   Verwahrung von sonstigen beweglichen Sachen - ausgenommen Zeitungen,
+    *   Verwahrung von sonstigen beweglichen Sachen – ausgenommen Zeitungen,
         Zeitschriften, Briefe, die weder eingeschrieben noch mit Wertangabe
         versehen sind, und Postkarten sowie Urkunden oder Schriftstücke
-        juristischer Personen des öffentlichen Rechts - in den Diensträumen
-        einschließlich Aushändigung oder Rückgabe, für jeweils angefangene
-        sechs Monate vom Tag der Annahme an
+        juristischer Personen des öffentlichen Rechts – in den Diensträumen
+        einschließlich Aushändigung oder Rückgabe,
+        für jeweils angefangene sechs Monate vom Tag der Annahme an
 
-    *   10 - 50 EUR
+    *   35 – 300 EUR
 
 
-*    *   Zusatzgebühr
+*    *
+    *   **Zusatzgebühr**
 
     *
 
@@ -776,49 +790,55 @@ Fundstelle des Originaltextes: BGBl. I 2001, 4162 - 4167; 2002, 750
 
     *   Vornahme einer gebührenpflichtigen Amtshandlung außerhalb der
         Diensträume oder außerhalb der Dienstzeit, sofern die Erhebung der
-        Zusatzgebühr nicht ausgeschlossen ist, für jede angefangene halbe
-        Stunde
+        Zusatzgebühr nicht ausgeschlossen ist,
+        für jede angefangene halbe Stunde
 
-    *   25 EUR für einen Kalendertag, höchstens 200 EUR
+    *   25 EUR
+        für einen Kalendertag,
+        höchstens 400 EUR
 
 
-*    *   700.1
-
-    *
-
-*    *   Hält ein Konsularbeamter außerhalb seiner Diensträume Sprechtage ab,
+*    *
+    *   700.1
+        Hält ein Konsularbeamter außerhalb seiner Diensträume Sprechtage ab,
         so gelten die hierfür benutzten Räumlichkeiten als Diensträume im
         Sinne dieser Verordnung.
 
     *
 
-*    *   B Gebühren nur des Auswärtigen Amts
+*    *
+    *
+    *
+
+*    *   B.
+        Gebühren nur des Auswärtigen Amts ****
 
 
 *    *   900
 
-    *   Bestätigung der Echtheit der von einem deutschen Konsularbeamten
-        errichteten öffentlichen Urkunde
+    *   **Bestätigung der Echtheit**
+        der von einem deutschen Konsularbeamten errichteten öffentlichen
+        Urkunde
 
-    *   15 EUR
+    *   20 EUR
 
 
 *    *   910
 
-    *   Endbeglaubigung als Voraussetzung für die Legalisation einer
-        inländischen öffentlichen Urkunde durch einen ausländischen
-        Konsularbeamten
+    *   **Endbeglaubigung**
+        als Voraussetzung für die Legalisation einer inländischen öffentlichen
+        Urkunde durch einen ausländischen Konsularbeamten
 
-    *   10 EUR.
-
-
+    *   25 EUR
 
 
 
-## Anlage 2 (zu § 2 Abs. 1) Wertermittlungsvorschriften
+(zu § 2 Abs. 1)
 
-Fundstelle des Originaltextes: BGBl. I 2001, 4168 - 4170;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+## Anlage 2 Wertermittlungsvorschriften
+
+(Fundstelle: BGBl. I 2001, 4168 - 4170;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 1\. Grundsatz
 (1) Für die Berechnung der Gebühr ist der Wert des Gegenstandes
@@ -978,18 +998,18 @@ entscheidet, je nachdem ob das Recht mit dem Tode des zuerst oder des
 zuletzt Sterbenden erlischt, das Lebensalter des Ältesten oder des
 Jüngsten.
 (3) Der Wert ist höchstens das Fünffache des einjährigen Bezugs, wenn
-das Recht dem Ehegatten oder einem früheren Ehegatten des
-Verpflichteten oder einer Person zusteht, die mit dem Verpflichteten
-in gerader Linie verwandt, verschwägert oder durch Annahme als Kind
-verbunden oder in der Seitenlinie bis zum dritten Grad verwandt oder
-bis zum zweiten Grad verschwägert ist, auch wenn die die
-Schwägerschaft begründende Ehe nicht mehr besteht.
+das Recht dem Ehegatten, einem früheren Ehegatten, dem Lebenspartner
+oder einem früheren Lebenspartner des Verpflichteten oder einer Person
+zusteht, die mit dem Verpflichteten in gerader Linie verwandt,
+verschwägert oder in der Seitenlinie bis zum dritten Grad verwandt
+oder bis zum zweiten Grad verschwägert ist, auch wenn die die
+Schwägerschaft begründende Ehe oder die Lebenspartnerschaft, aufgrund
+derer jemand als verschwägert gilt, nicht mehr besteht.
 (4) Der Geschäftswert für Unterhaltsansprüche nach den §§ 1612a bis
 1612c des Bürgerlichen Gesetzbuchs bestimmt sich nach dem Betrag des
-einjährigen Bezugs. Dem Wert nach Satz 1 ist der Monatsbetrag des
-Unterhalts nach dem Mindestunterhalt nach § 1612a Abs. 1 des
-Bürgerlichen Gesetzbuchs und der Altersstufe zugrunde zu legen, die im
-Zeitpunkt der Beurkundung maßgebend sind.
+einjährigen Bezugs. Dem Wert nach Satz 1 ist der Monatsbetrag des zum
+Zeitpunkt der Beurkundung geltenden Mindestunterhalts nach der zu
+diesem Zeitpunkt maßgebenden Altersstufe zugrunde zu legen.
 (5) Der einjährige Wert von Nutzungen wird zu vier vom Hundert des
 Werts des Gegenstands, der die Nutzungen gewährt, angenommen, sofern
 nicht ein anderer Wert festgestellt werden kann.
@@ -1022,6 +1042,7 @@ Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
 1.  erste Anmeldung einer Kapitalgesellschaft; ein in der Satzung einer
     Aktiengesellschaft oder einer Kommanditgesellschaft auf Aktien
     bestimmtes genehmigtes Kapital ist dem Grundkapital hinzuzurechnen;
+    der Wert beträgt mindestens 25 000 Euro;
 
 
 2.  erste Anmeldung eines Versicherungsvereins auf Gegenseitigkeit;
@@ -1047,8 +1068,8 @@ Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
 
 
 5.  erste Anmeldung einer Kommanditgesellschaft; maßgebend ist die Summe
-    der Kommanditeinlagen; hinzuzurechnen sind 25.000 Euro für den ersten
-    und 12.500 Euro für jeden weiteren Gesellschafter;
+    der Kommanditeinlagen; hinzuzurechnen sind 25 000 Euro für den ersten
+    und 12 500 Euro für jeden weiteren Gesellschafter;
 
 
 6.  Eintritt eines Kommanditisten in eine bestehende
@@ -1056,8 +1077,10 @@ Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
     ein Kommanditist als Nachfolger eines anderen, ein bisher persönlich
     haftender Gesellschafter als Kommanditist oder ein bisheriger
     Kommanditist als persönlich haftender Gesellschafter einzutragen, ist
-    die einfache Kommanditeinlage, höchstens ein Betrag von 500.000 Euro
-    maßgebend;
+    die einfache Kommanditeinlage, maßgebend;
+
+
+7.  Erhöhung oder Herabsetzung einer Kommanditeinlage.
 
 
 
@@ -1065,16 +1088,16 @@ Geschäftswert der in das Handelsregister einzutragende Geldbetrag, bei
 Absätzen 3 bis 7.
 (3) Der Geschäftswert beträgt bei der ersten Anmeldung
 
-1.  eines Einzelkaufmanns 25.000 Euro;
+1.  eines Einzelkaufmanns 25 000 Euro;
 
 
-2.  einer offenen Handelsgesellschaft mit zwei Gesellschaftern 37.500
+2.  einer offenen Handelsgesellschaft mit zwei Gesellschaftern 37 500
     Euro; hat die Gesellschaft mehr als zwei Gesellschafter, erhöht sich
     der Wert für den dritten und jeden weiteren Gesellschafter um jeweils
-    12\.500 Euro;
+    12 500 Euro;
 
 
-3.  einer juristischen Person (§ 33 des Handelsgesetzbuchs) 50.000 Euro.
+3.  einer juristischen Person (§ 33 des Handelsgesetzbuchs) 50 000 Euro.
 
 
 
@@ -1082,21 +1105,20 @@ Absätzen 3 bis 7.
 Anmeldung
 
 1.  eine Kapitalgesellschaft betrifft, 1 vom Hundert des eingetragenen
-    Grund- oder Stammkapitals, mindestens 25.000 Euro und höchstens
-    500\.000 Euro;
+    Grund- oder Stammkapitals, mindestens 25 000 Euro;
 
 
-2.  einen Versicherungsverein auf Gegenseitigkeit betrifft, 50.000 Euro;
+2.  einen Versicherungsverein auf Gegenseitigkeit betrifft, 50 000 Euro;
 
 
-3.  eine Personenhandelsgesellschaft betrifft, 25.000 Euro; bei Eintritt
+3.  eine Personenhandelsgesellschaft betrifft, 25 000 Euro; bei Eintritt
     oder Ausscheiden von mehr als zwei persönlich haftenden
-    Gesellschaftern sind als Wert 12.500 Euro für jeden eintretenden und
+    Gesellschaftern sind als Wert 12 500 Euro für jeden eintretenden und
     ausscheidenden Gesellschafter anzunehmen;
 
 
 4.  einen Einzelkaufmann oder eine juristische Person (§ 33 des
-    Handelsgesetzbuchs) betrifft, 25.000 Euro.
+    Handelsgesetzbuchs) betrifft, 25 000 Euro.
 
 
 
@@ -1107,15 +1129,14 @@ Wert für jede Zweigniederlassung durch Teilung des nach Satz 1
 bestimmten Betrages durch die Anzahl der eingetragenen
 Zweigniederlassungen zu ermitteln; bei der ersten Eintragung von
 Zweigniederlassungen sind diese mitzurechnen. Der Wert nach den
-vorstehenden Sätzen beträgt mindestens 12.500 Euro und höchstens 2,5
-Millionen Euro. Die Sätze 2 und 3 sind für Prokuren nicht anzuwenden.
+vorstehenden Sätzen beträgt mindestens 12 500 Euro.
 (6) Ist eine Anmeldung nur deshalb erforderlich, weil sich der
 Ortsname geändert hat, oder handelt es sich um eine ähnliche
 Anmeldung, die für das Unternehmen keine wirtschaftliche Bedeutung
-hat, so beträgt der Geschäftswert 2.500 Euro.
+hat, so beträgt der Geschäftswert 3 000 Euro.
 (7) Bei der Beurkundung von Anmeldungen beträgt der Wert, auch wenn
 mehrere Anmeldungen in derselben Verhandlung beurkundet werden, in
-keinem Fall mehr als 500.000 Euro.
+keinem Fall mehr als 500 000 Euro.
 
 10\. Beschlüsse von Organen bestimmter Gesellschaften
 (1) Nummer 9 Abs. 4 gilt entsprechend für Beschlüsse von Organen von
@@ -1133,12 +1154,15 @@ zusammentreffen. Mehrere Wahlen oder Wahlen zusammen mit Beschlüssen
 über die Entlastung der Verwaltungsträger gelten als ein Beschluss.
 (4) Der Wert von Beschlüssen der in Absatz 1 bezeichneten Art beträgt,
 auch wenn in einer Verhandlung mehrere Beschlüsse beurkundet werden,
-in keinem Falle mehr als 500.000 Euro.
+in keinem Falle mehr als 500 000 Euro.
 
-11\. Anmeldung zu einem Register, Beurkundung von Beschlüssen
-Für sonstige Anmeldungen zu einem Register und bei der Beurkundung von
-Beschlüssen bestimmt sich der Geschäftswert, wenn der Gegenstand
-keinen bestimmten Geldwert hat nach Nummer 22 Abs. 2.
+11\. Anmeldung zu einem Register, Beurkundung von Beschlüssen;
+Anmeldungen zum Partnerschaftsregister
+(1) Für sonstige Anmeldungen zu einem Register und bei der Beurkundung
+von Beschlüssen bestimmt sich der Geschäftswert nach Nummer 22 Absatz
+2, wenn der Gegenstand keinen bestimmten Geldwert hat.
+(2) Für Anmeldungen zum Partnerschaftsregister gilt Nummer 9, soweit
+er auf die offene Handelsgesellschaft Anwendung findet, entsprechend.
 
 12\. Anmeldungen zum Güterrechtsregister
 Bei Anmeldungen zum Güterrechtsregister bestimmt sich der Wert nach
@@ -1159,7 +1183,8 @@ zusammengerechneten Wert der gegenwärtigen Vermögen beider Ehegatten
 und, wenn der Ehevertrag nur das Vermögen eines Ehegatten betrifft,
 nach diesem. Bei Ermittlung des Vermögens werden die Schulden
 abgezogen. Betrifft der Ehevertrag nur bestimmte Gegenstände, so ist
-deren Wert maßgebend.
+deren Wert maßgebend. Bei Lebenspartnerschaftsverträgen gelten die
+Sätze 1 bis 3 entsprechend.
 (4) Bei der Beurkundung von Gesellschaftsverträgen, Satzungen und
 Statuten sowie von Plänen und Verträgen nach dem Umwandlungsgesetz ist
 der Wert höchstens auf 5 Millionen Euro anzunehmen.
@@ -1179,7 +1204,7 @@ Vermögen des Vollmachtgebers angemessen zu berücksichtigen.
 (3) Bei der von einem Mitberechtigten ausgestellten Vollmacht bestimmt
 sich der Wert nach dem Anteil des Mitberechtigten. Nummer 14 Satz 2
 gilt entsprechend.
-(4) In allen Fällen ist der Wert mit höchstens 500.000 Euro
+(4) In allen Fällen ist der Wert mit höchstens 500 000 Euro
 anzunehmen.
 (5) Auf den Widerruf einer Vollmacht finden die vorstehenden
 Vorschriften entsprechende Anwendung.
@@ -1231,11 +1256,12 @@ Erbscheins ist der Wert des nach Abzug der Nachlassverbindlichkeiten
 verbleibenden reinen Nachlasses im Zeitpunkt des Erbfalls maßgebend.
 (2) Wird ein Erbschein nur über das Erbrecht eines Miterben beantragt,
 so bestimmt sich der Wert für die Berechnung der Gebühr für die
-Abnahme der eidesstattlichen Versicherung nach dessen Erbteil. Wird
-die Erteilung eines beschränkten Erbscheins beantragt, so ist für die
-Berechnung der Gebühr für die Abnahme der eidesstattlichen
-Versicherung der Wert der im Inland befindlichen Gegenstände
-maßgebend.
+Abnahme der eidesstattlichen Versicherung nach dessen Erbteil.
+Erstrecken sich die Wirkungen eines Erbscheins nur auf einen Teil des
+Nachlasses, bleiben diejenigen Gegenstände, die von der
+Erbscheinswirkung nicht erfasst werden, bei der Berechnung des Werts
+außer Betracht.
+(3) Dem Erbschein steht das Europäische Nachlasszeugnis gleich.
 
 19\. Zeugnis über Fortsetzung der Gütergemeinschaft
 Bei einer eidesstattlichen Versicherung zur Erlangung eines Zeugnisses
@@ -1260,211 +1286,234 @@ ist er nach freiem Ermessen zu bestimmen; insbesondere ist bei
 bestimmten Geldwert hat, sowie bei Verfügungsbeschränkungen der Wert
 nach freiem Ermessen festzusetzen.
 (2) In Ermangelung genügender tatsächlicher Anhaltspunkte für eine
-Schätzung ist der Wert regelmäßig auf 2.500 Euro anzunehmen. Er kann
+Schätzung ist der Wert regelmäßig auf 3 000 Euro anzunehmen. Er kann
 nach der Lage des Falles niedriger oder höher, jedoch nicht unter 100
-Euro und nicht über 500.000 Euro angenommen werden.
-In nichtvermögensrechtlichen Angelegenheiten ist der Wert nach Absatz
-2 zu bestimmen. In Angelegenheiten, die die Annahme eines
-Minderjährigen betreffen, beträgt der Wert stets 2.500 Euro.
+Euro und nicht über 500 000 Euro angenommen werden.
+(3) In nichtvermögensrechtlichen Angelegenheiten ist der Wert nach
+Absatz 2 zu bestimmen. In Angelegenheiten, die die Annahme eines
+Minderjährigen betreffen, beträgt der Wert stets 3 000 Euro.
 
+(zu § 2 Absatz 2)
 
-## Anlage 3 (zu § 2 Abs. 2) Wertgebührentabelle
+## Anlage 3 Wertgebührentabelle
 
-Fundstelle des Originaltextes: BGBl. I 2001, 4171
+(Fundstelle: BGBl. I 2012, 1872)
 
-*    *   bis zu 500 EUR einschließlich
 
-    *   15,- EUR
+*    *   bis zu    500 EUR einschließlich
 
+    *   35 EUR
 
-*    *   bis zu 2.500 EUR einschließlich
 
-    *   30,- EUR
+*    *   bis zu  2 500 EUR einschließlich
 
+    *   50 EUR
 
-*    *   bis zu 5.000 EUR einschließlich
 
-    *   45,- EUR
+*    *   bis zu  5 000 EUR einschließlich
 
+    *   65 EUR
 
-*    *   bis zu 10.000 EUR einschließlich
 
-    *   55,- EUR
+*    *   bis zu 10 000 EUR einschließlich
 
+    *   75 EUR
 
-*    *   bis zu 15.000 EUR einschließlich
 
-    *   65,- EUR
+*    *   bis zu 15 000 EUR einschließlich
 
+    *   85 EUR
 
-*    *   bis zu 20.000 EUR einschließlich
 
-    *   75,- EUR
+*    *   bis zu 20 000 EUR einschließlich
 
+    *   95 EUR
 
-*    *   bis zu 25.000 EUR einschließlich
 
-    *   85,- EUR
+*    *   bis zu 25 000 EUR einschließlich
 
+    *   105 EUR
 
-*    *   bis zu 30.000 EUR einschließlich
 
-    *   95,- EUR
+*    *   bis zu 30 000 EUR einschließlich
 
+    *   115 EUR
 
-*    *   bis zu 35.000 EUR einschließlich
 
-    *   105,- EUR
+*    *   bis zu 35 000 EUR einschließlich
 
+    *   125 EUR
 
-*    *   bis zu 40.000 EUR einschließlich
 
-    *   115,- EUR
+*    *   bis zu 40 000 EUR einschließlich
 
+    *   135 EUR
 
-*    *   bis zu 45.000 EUR einschließlich
 
-    *   125,- EUR
+*    *   bis zu 45 000 EUR einschließlich
 
+    *   145 EUR
 
-*    *   bis zu 50.000 EUR einschließlich
 
-    *   135,- EUR
+*    *   bis zu 50 000 EUR einschließlich
 
+    *   155 EUR
 
-*    *   von dem Mehrbetrag bis 2,5 Mio EUR für je angefangene 5.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis     2,5 Mio EUR für je angefangene   5 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 15 Mio EUR für je angefangene 10.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    15   Mio EUR für je angefangene  10 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 25 Mio EUR für je angefangene 20.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    25   Mio EUR für je angefangene  20 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 30 Mio EUR für je angefangene 25.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    30   Mio EUR für je angefangene  25 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 35 Mio EUR für je angefangene 40.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    35   Mio EUR für je angefangene  40 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 40 Mio EUR für je angefangene 50.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    40   Mio EUR für je angefangene  50 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 50 Mio EUR für je angefangene 100.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis    50   Mio EUR für je angefangene 100 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 100 Mio EUR für je angefangene 200.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis   100   Mio EUR für je angefangene 200 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag bis 250 Mio EUR für je angefangene 500.000 EUR
 
-    *   10,- EUR
+*    *   von dem Mehrbetrag bis   250   Mio EUR für je angefangene 500 000 EUR
 
+    *   12 EUR
 
-*    *   von dem Mehrbetrag über 250 Mio EUR für je angefangene 1 Mio EUR
 
-    *   10,- EUR\*
+*    *   von dem Mehrbetrag über 250   Mio EUR für je angefangene  1 Mio EUR
 
+    *   12 EUR
 
 
 
+(zu § 4)
 
-## Anlage 4 (zu § 4) Sprachenliste
+## Anlage 4 Sprachenliste
 
-Fundstelle des Originaltextes: BGBl. I 4172
+(Fundstelle: BGBl. I 2012, 1872 - 1874)
+
 
 *    *   Gruppe A:
 
     *   1.
 
+    *
     *   Afrikaans
 
 
 *    *
     *   2.
 
-    *   Dänisch
+    *
+    *   Brasilianisch
 
 
 *    *
     *   3.
 
-    *   Englisch
+    *
+    *   Dänisch
 
 
 *    *
     *   4.
 
-    *   Französisch
+    *
+    *   Englisch
 
 
 *    *
     *   5.
 
-    *   Isländisch
+    *
+    *   Französisch
 
 
 *    *
     *   6.
 
-    *   Italienisch
+    *
+    *   Isländisch
 
 
 *    *
     *   7.
 
-    *   Katalanisch
+    *
+    *   Italienisch
 
 
 *    *
     *   8.
 
-    *   Letzeburgisch
+    *
+    *   Katalanisch
 
 
 *    *
     *   9.
 
-    *   Niederländisch
+    *
+    *   Letzeburgisch
 
 
 *    *
     *   10.
 
-    *   Norwegisch
+    *
+    *   Niederländisch
 
 
 *    *
     *   11.
 
-    *   Portugiesisch/Brasilianisch
+    *
+    *   Norwegisch
 
 
 *    *
     *   12.
 
-    *   Schwedisch
+    *
+    *   Portugiesisch
 
 
 *    *
     *   13.
 
+    *
+    *   Schwedisch
+
+
+*    *
+    *   14.
+
+    *
     *   Spanisch
 
 
@@ -1472,90 +1521,140 @@ Fundstelle des Originaltextes: BGBl. I 4172
 
     *   1.
 
-    *   Bulgarisch/Makedonisch
+    *
+    *   Bosnisch
 
 
 *    *
     *   2.
 
-    *   Griechisch
+    *
+    *   Bulgarisch
 
 
 *    *
     *   3.
 
-    *   Irisch
+    *
+    *   Griechisch
 
 
 *    *
     *   4.
 
-    *   Lettisch
+    *
+    *   Irisch
 
 
 *    *
     *   5.
 
-    *   Litauisch
+    *
+    *   Kroatisch
 
 
 *    *
     *   6.
 
-    *   Madagassisch
+    *
+    *   Lettisch
 
 
 *    *
     *   7.
 
-    *   Polnisch
+    *
+    *   Litauisch
 
 
 *    *
     *   8.
 
-    *   Rumänisch
+    *
+    *   Madagassisch
 
 
 *    *
     *   9.
 
-    *   Russisch
+    *
+    *   Mazedonisch
 
 
 *    *
     *   10.
 
-    *   Serbokroatisch
+    *
+    *   Montenegrinisch
 
 
 *    *
     *   11.
 
-    *   Slowenisch
+    *
+    *   Polnisch
 
 
 *    *
     *   12.
 
-    *   Somali
+    *
+    *   Rumänisch
 
 
 *    *
     *   13.
 
-    *   Tschechisch/Slowakisch
+    *
+    *   Russisch
 
 
 *    *
     *   14.
 
-    *   Ukrainisch
+    *
+    *   Serbisch
 
 
 *    *
     *   15.
 
+    *
+    *   Slowakisch
+
+
+*    *
+    *   16.
+
+    *
+    *   Slowenisch
+
+
+*    *
+    *   17.
+
+    *
+    *   Somali
+
+
+*    *
+    *   18.
+
+    *
+    *   Tschechisch
+
+
+*    *
+    *   19.
+
+    *
+    *   Ukrainisch
+
+
+*    *
+    *   20.
+
+    *
     *   Weißrussisch
 
 
@@ -1563,162 +1662,217 @@ Fundstelle des Originaltextes: BGBl. I 4172
 
     *   1.
 
+    *
     *   Albanisch
 
 
 *    *
     *   2.
 
+    *
     *   Amharisch
 
 
 *    *
     *   3.
 
-    *   Aseri
+    *
+    *   Armenisch
 
 
 *    *
     *   4.
 
-    *   Bengalisch
+    *
+    *   Aserbaidschanisch
 
 
 *    *
     *   5.
 
-    *   Estnisch
+    *
+    *   Bengalisch
 
 
 *    *
     *   6.
 
-    *   Finnisch
+    *
+    *   Dari
 
 
 *    *
     *   7.
 
-    *   Georgisch
+    *
+    *   Estnisch
 
 
 *    *
     *   8.
 
-    *   Haussa/Sudan-Amtssprachen
+    *
+    *   Finnisch
 
 
 *    *
     *   9.
 
-    *   Hindi
+    *
+    *   Georgisch
 
 
 *    *
     *   10.
 
-    *   Kasachisch
+    *
+    *   Haussa/Sudan-Amtssprachen
 
 
 *    *
     *   11.
 
-    *   Kirgisisch
+    *
+    *   Hindi
 
 
 *    *
     *   12.
 
-    *   Malaiisch/Indonesisch
+    *
+    *   Indonesisch
 
 
 *    *
     *   13.
 
-    *   Mongolisch
+    *
+    *   Kasachisch
 
 
 *    *
     *   14.
 
-    *   Nepalesisch
+    *
+    *   Kirgisisch
 
 
 *    *
     *   15.
 
-    *   Paschtu
+    *
+    *   Malaiisch
 
 
 *    *
     *   16.
 
-    *   Persisch/Dari
+    *
+    *   Mongolisch
 
 
 *    *
     *   17.
 
-    *   Philippino/Tagalog
+    *
+    *   Nepalesisch
 
 
 *    *
     *   18.
 
-    *   Singhalesisch
+    *
+    *   Paschtu
 
 
 *    *
     *   19.
 
-    *   Suaheli/Bantu-Amtssprachen
+    *
+    *   Persisch
 
 
 *    *
     *   20.
 
-    *   Tadschikisch
+    *
+    *   Philippino
 
 
 *    *
     *   21.
 
-    *   Tamilisch
+    *
+    *   Singhalesisch
 
 
 *    *
     *   22.
 
-    *   Türkisch
+    *
+    *   Suaheli/Bantu-Amtssprachen
 
 
 *    *
     *   23.
 
-    *   Turkmenisch
+    *
+    *   Tadschikisch
 
 
 *    *
     *   24.
 
-    *   Ungarisch
+    *
+    *   Tagalog
 
 
 *    *
     *   25.
 
-    *   Urdu
+    *
+    *   Tamilisch
 
 
 *    *
     *   26.
 
-    *   Usbekisch
+    *
+    *   Türkisch
 
 
 *    *
     *   27.
 
+    *
+    *   Turkmenisch
+
+
+*    *
+    *   28.
+
+    *
+    *   Ungarisch
+
+
+*    *
+    *   29.
+
+    *
+    *   Urdu
+
+
+*    *
+    *   30.
+
+    *
+    *   Usbekisch
+
+
+*    *
+    *   31.
+
+    *
     *   Vietnamesisch
 
 
@@ -1726,56 +1880,64 @@ Fundstelle des Originaltextes: BGBl. I 4172
 
     *   1.
 
+    *
     *   Arabisch
 
 
 *    *
     *   2.
 
+    *
     *   Birmanisch
 
 
 *    *
     *   3.
 
+    *
     *   Chinesisch
 
 
 *    *
     *   4.
 
+    *
     *   Hebräisch (Iwrith)
 
 
 *    *
     *   5.
 
+    *
     *   Japanisch
 
 
 *    *
     *   6.
 
+    *
     *   Kambodschanisch (Khmer)
 
 
 *    *
     *   7.
 
+    *
     *   Koreanisch
 
 
 *    *
     *   8.
 
+    *
     *   Laotisch
 
 
 *    *
     *   9.
 
-    *   Thailändisch.
-
+    *
+    *   Thailändisch
 
 
 

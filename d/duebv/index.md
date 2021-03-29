@@ -2,7 +2,7 @@
 Title: Verordnung über die Errichtung eines Wissenschaftlichen Beirats für Düngungsfragen
 jurabk: DüBV
 layout: default
-origslug: d_bv
+origslug: duebv
 slug: duebv
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2003, 1789
 
 Zuletzt geändert durch
-:   Art. 3 § 12 G v. 13.12.2007 I 2930
+:   Art. 369 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -29,9 +29,9 @@ Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft:
 
 ## § 1 Errichtung und Aufgaben des Beirats
 
-(1) Beim Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) wird ein Wissenschaftlicher
-Beirat für Düngungsfragen (Beirat) errichtet.
+(1) Beim Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) wird ein Wissenschaftlicher Beirat für
+Düngungsfragen (Beirat) errichtet.
 
 (2) Der Beirat berät das Bundesministerium in Düngungsfragen durch
 gutachtliche Stellungnahmen und ist in seiner Tätigkeit unabhängig.

@@ -699,8 +699,9 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Sattler/zur Sattlerin
 
 (Fundstelle des Originaltextes: BGBl. I 2005, 918 - 923;
 bzgl. der einzelnen Änderungen vgl. Fußnote)

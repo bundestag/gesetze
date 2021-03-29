@@ -1,8 +1,6 @@
 ---
 Title: Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften
-  und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer
-  Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung
-  des Gesetzes über Kapitalanlagegesellschaften)
+  und der Gewerbeordnung
 jurabk: KAGG/GewOErgG
 layout: default
 origslug: kagg_gewoergg
@@ -10,7 +8,7 @@ slug: kagg_gewoergg
 
 ---
 
-# Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung (Zweiter Teil des Gesetzes über den Vertrieb ausländischer Investmentanteile, über die Besteuerung ihrer Erträge sowie zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften) (KAGG/GewOErgG)
+# Gesetz zur Änderung und Ergänzung des Gesetzes über Kapitalanlagegesellschaften und der Gewerbeordnung (KAGG/GewOErgG)
 
 Ausfertigungsdatum
 :   1969-07-28
@@ -20,7 +18,7 @@ Fundstelle
 
 
 
-## Art 1 -
+## Art 1 - 
 
 -
 
@@ -33,16 +31,15 @@ Fundstelle
 
 (1) Kapitalgesellschaften, die beim Inkrafttreten dieses Gesetzes die
 in § 1 Abs. 1 und
-§ 23              des Gesetzes über Kapitalgesellschaften aufgeführten
-Geschäfte mit der Abweichung betreiben, daß das eingelegte Geld zum
-Erwerb aller oder mehr als der Hälfte der Anteile an einer
-Kapitalgesellschaft, deren Geschäft auf den Erwerb von Grundstücken
-nach dem Grundsatz der Risikomischung ausgerichtet ist
-(Grundstücksgesellschaft), sowie zur Gewährung von Darlehen an diese
-verwendet wird, sind Kreditinstitute und werden wie
-Kapitalanlagegesellschaften beaufsichtigt.
-§ 48              Abs. 2 des Gesetzes über Kapitalanlagegesellschaft
-gilt sinngemäß.
+§ 23 des Gesetzes über Kapitalgesellschaften aufgeführten Geschäfte
+mit der Abweichung betreiben, daß das eingelegte Geld zum Erwerb aller
+oder mehr als der Hälfte der Anteile an einer Kapitalgesellschaft,
+deren Geschäft auf den Erwerb von Grundstücken nach dem Grundsatz der
+Risikomischung ausgerichtet ist (Grundstücksgesellschaft), sowie zur
+Gewährung von Darlehen an diese verwendet wird, sind Kreditinstitute
+und werden wie Kapitalanlagegesellschaften beaufsichtigt.
+§ 48 Abs. 2 des Gesetzes über Kapitalanlagegesellschaft gilt
+sinngemäß.
 
 (2) Die in Absatz 1 bezeichneten Geschäfte dürfen vom Inkrafttreten
 dieses Gesetzes an nur durch Kreditinstitute im Sinne des Absatzes 1
@@ -50,21 +47,20 @@ in der bisherigen Weise und nur bis zum Schluß des ersten nach dem
 Inkrafttreten dieses Gesetzes beginnenden Geschäftsjahrs betrieben
 werden. Will das Kreditinstitut nach dem Ablauf dieser Frist die
 Geschäfte einer Kapitalanlagegesellschaft im Sinne des
-§ 23              betreiben, so hat es seine Rechtsverhältnisse und
-die Rechte der Anteilinhaber den §§ 1 bis 6 und
-23 bis 34              des Gesetzes über Kapitalanlagegesellschaften
-anzupassen und dafür zu sorgen, daß das Vermögen der
-Grundstücksgesellschaft nach Maßgabe des Artikels 2 § 2 dieses
-Gesetzes auf das Kreditinstitut übertragen wird.
+§ 23 betreiben, so hat es seine Rechtsverhältnisse und die Rechte der
+Anteilinhaber den §§ 1 bis 6 und
+23 bis 34 des Gesetzes über Kapitalanlagegesellschaften anzupassen und
+dafür zu sorgen, daß das Vermögen der Grundstücksgesellschaft nach
+Maßgabe des Artikels 2 § 2 dieses Gesetzes auf das Kreditinstitut
+übertragen wird.
 
 (3) Für die erforderlichen Änderungen und Ergänzungen der
 Vertragsbedingungen gilt
-§ 48              Abs. 4 des Gesetzes über Kapitalanlagegesellschaften
+§ 48 Abs. 4 des Gesetzes über Kapitalanlagegesellschaften
 entsprechend. Für Anteilscheine, die vor dem Übergang des Vermögens
 der Grundstücksgesellschaft auf das Kreditinstitut ausgegeben worden
 sind, gilt
-§ 48              Abs. 6 des Gesetzes über Kapitalanlagegesellschaften
-sinngemäß.
+§ 48 Abs. 6 des Gesetzes über Kapitalanlagegesellschaften sinngemäß.
 
 
 ## § 2
@@ -75,11 +71,11 @@ Kreditinstitut bedarf eines Beschlusses der Hauptversammlung
 Aktionäre (Gesellschafter) zustimmen. Die Zustimmung der Aktionäre,
 die in der Hauptversammlung (Gesellschafterversammlung) nicht
 erschienen und nicht vertreten waren, muß
-gerichtlich oder              notariell beurkundet werden. Ist die
+gerichtlich oder notariell beurkundet werden. Ist die
 Grundstücksgesellschaft eine Gesellschaft mit beschränkter Haftung, so
 kann der Beschluß nur in einer Gesellschafterversammlung gefaßt
 werden; er muß
-gerichtlich oder              notariell beurkundet werden.
+gerichtlich oder notariell beurkundet werden.
 
 (2) Der Vorstand der Grundstücksgesellschaft (die Geschäftsführer) hat
 den Beschluß zur Eintragung in das Handelsregister anzumelden. Der
@@ -163,7 +159,7 @@ Anschaffungsgeschäft im Sinne der §§ 17 und 18 des
 Kapitalverkehrsteuergesetzes.
 
 
-## Art 3 -
+## Art 3 - 
 
 Der Bundesminister der Justiz, der Bundesminister für Wirtschaft und
 der Bundesminister der Finanzen werden ermächtigt, das Gesetz über
@@ -172,12 +168,12 @@ neuer Überschrift und in neuer Paragraphenfolge bekanntzumachen und
 dabei Unstimmigkeiten des Wortlauts zu beseitigen.
 
 
-## Art 4 -
+## Art 4 - 
 
 -
 
 
-## Art 5 -
+## Art 5 - 
 
 -
 

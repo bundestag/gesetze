@@ -40,34 +40,31 @@ Berechtigten, die das 65. Lebensjahr im Jahre 1961 vollendet haben.
 (1) Renten, die nach
 §§ 1253ff. der Reichsversicherungsordnung, §§ 30ff. des
 Angestelltenversicherungsgesetzes oder §§ 53ff. des
-Reichsknappschaftsgesetzes              berechnet sind, sind so
-anzupassen, daß sich eine Rente ergibt, wie sie sich nach Anwendung
-der Kürzungs- und Ruhensvorschriften ergeben würde, wenn die Rente
-ohne Änderung der übrigen Berechnungsfaktoren unter Zugrundelegung der
-allgemeinen Bemessungsgrundlage für das Jahr 1961 und der
-Beitragsbemessungsgrenze für dieses Jahr berechnet werden würde;
-Abweichungen infolge Abrundungen sind zulässig.
+Reichsknappschaftsgesetzes berechnet sind, sind so anzupassen, daß
+sich eine Rente ergibt, wie sie sich nach Anwendung der Kürzungs- und
+Ruhensvorschriften ergeben würde, wenn die Rente ohne Änderung der
+übrigen Berechnungsfaktoren unter Zugrundelegung der allgemeinen
+Bemessungsgrundlage für das Jahr 1961 und der Beitragsbemessungsgrenze
+für dieses Jahr berechnet werden würde; Abweichungen infolge
+Abrundungen sind zulässig.
 § 1282 Abs. 2 der Reichsversicherungsordnung, § 59 Abs. 2 des
 Angestelltenversicherungsgesetzes und § 79 Abs. 2 des
-Reichsknappschaftsgesetzes gelten nicht.              In den Fällen
-des
+Reichsknappschaftsgesetzes gelten nicht. In den Fällen des
 Artikels 2 § 38 Abs. 3 Satz 2 zweiter Halbsatz des
 Arbeiterrentenversicherungs-Neuregelungsgesetzes oder des Artikels 2 §
 37 Abs. 3 Satz 2 zweiter Halbsatz des Angestelltenversicherungs-
-Neuregelungsgesetzes              findet Satz 1 keine Anwendung.
+Neuregelungsgesetzes findet Satz 1 keine Anwendung.
 
 (2) Absatz 1 Satz 1 und 2 gelten entsprechend für Renten der
 knappschaftlichen Rentenversicherung, die
 
 a)  nach Artikel 2 § 24 Abs. 5 des Knappschaftsrentenversicherungs-
-    Neuregelungsgesetzes                    gezahlt werden oder
+    Neuregelungsgesetzes gezahlt werden oder
 
 
 b)  nach Artikel 2 § 25 des Knappschaftsrentenversicherungs-
-    Neuregelungsgesetzes                    berechnet worden sind, wenn
-    auf sie die
-    §§ 75, 76 des Reichsknappschaftsgesetzes                    Anwendung
-    gefunden haben.
+    Neuregelungsgesetzes berechnet worden sind, wenn auf sie die
+    §§ 75, 76 des Reichsknappschaftsgesetzes Anwendung gefunden haben.
 
 
 
@@ -299,20 +296,19 @@ den Gesetzen, die das Bundesversorgungsgesetz für anwendbar erklären,
 den Unterhaltshilfen nach dem Lastenausgleichsgesetz, den Leistungen
 nach dem Bundesentschädigungsgesetz, den Miet- und Lastenbeihilfen
 nach dem
-Gesetz über die Gewährung von Miet- und Lastenbeihilfen
-und nach dem Zweiten Wohnungsbaugesetz und den Bundesbeihilfen zum
-Ausgleich von Härten im Rahmen der betrieblichen Altersfürsorge nach
-den Richtlinien vom 17. Oktober 1951 (Bundesanzeiger Nr. 204 vom 20.
-Oktober 1951) die Gewährung oder die Höhe der Leistung von anderem
-Einkommen abhängig ist, bleiben die Erhöhungsbeträge, die für die
-Monate Januar bis einschließlich Mai 1962 auf Grund der Vorschriften
-dieses Gesetzes zu leisten sind, für den genannten Zeitraum bei der
-Ermittlung des Einkommens unberücksichtigt. Das gleiche gilt bei der
-Prüfung der
-fürsorgerechtlichen              Hilfsbedürftigkeit. Die
-Erhöhungsbeträge für den in Satz 1 genannten Zeitraum sind ferner bei
-der Gewährung von Leistungen aus der Arbeitslosenversicherung und der
-Arbeitslosenhilfe nicht zu berücksichtigen.
+Gesetz über die Gewährung von Miet- und Lastenbeihilfen und nach dem
+Zweiten Wohnungsbaugesetz und den Bundesbeihilfen zum Ausgleich von
+Härten im Rahmen der betrieblichen Altersfürsorge nach den Richtlinien
+vom 17. Oktober 1951 (Bundesanzeiger Nr. 204 vom 20. Oktober 1951) die
+Gewährung oder die Höhe der Leistung von anderem Einkommen abhängig
+ist, bleiben die Erhöhungsbeträge, die für die Monate Januar bis
+einschließlich Mai 1962 auf Grund der Vorschriften dieses Gesetzes zu
+leisten sind, für den genannten Zeitraum bei der Ermittlung des
+Einkommens unberücksichtigt. Das gleiche gilt bei der Prüfung der
+fürsorgerechtlichen Hilfsbedürftigkeit. Die Erhöhungsbeträge für den
+in Satz 1 genannten Zeitraum sind ferner bei der Gewährung von
+Leistungen aus der Arbeitslosenversicherung und der Arbeitslosenhilfe
+nicht zu berücksichtigen.
 
 
 ## § 9

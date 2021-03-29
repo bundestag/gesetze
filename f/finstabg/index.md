@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 2369
 
+Zuletzt geändert durch
+:   Art. 24 Abs. 35 G v. 23.6.2017 I 1693
+
 
 ## § 1 Wahrung der Finanzstabilität
 
@@ -92,10 +95,11 @@ insbesondere
 
 
 
-Der Vorsitzende des Leitungsausschusses der Bundesanstalt für
-Finanzmarktstabilisierung gehört dem Ausschuss als beratendes Mitglied
-ohne Stimmrecht an. Für jeden Vertreter haben die genannten
-Institutionen auch einen Stellvertreter zu benennen.
+Das für den Geschäftsbereich Abwicklung zuständige Mitglied des
+Direktoriums der Bundesanstalt für Finanzdienstleistungsaufsicht
+gehört dem Ausschuss als beratendes Mitglied ohne Stimmrecht an. Für
+jeden Vertreter haben die genannten Institutionen auch einen
+Stellvertreter zu benennen.
 
 (4) Der Ausschuss für Finanzstabilität soll einmal im Quartal vom
 Vorsitzenden einberufen werden. Jedes Mitglied kann aus wichtigem
@@ -116,27 +120,28 @@ vertraulich. Eine Beschränkung der allgemeinen Berichterstattung des
 Ausschusses und seiner Mitglieder über die Sitzungen und die Arbeit
 des Ausschusses ist damit nicht verbunden.
 
-(7) Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes, in § 8 Absatz
+(7) Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes, in § 21 Absatz
 1 des Wertpapierhandelsgesetzes, in § 27 Absatz 1 des
 Wertpapierprospektgesetzes, in § 9 Absatz 1 des Wertpapiererwerbs- und
 Übernahmegesetzes, in § 4 Absatz 1 des Vermögensanlagengesetzes, in §
-84 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, in § 6
-des Zahlungsdiensteaufsichtsgesetzes, in § 5b des Investmentgesetzes,
-in § 32 des Gesetzes über die Deutsche Bundesbank und in § 3b Absatz 1
-des Finanzmarktstabilisierungsfondsgesetzes genannten Personen sind
-für die Wahrnehmung von Aufgaben im Ausschuss für Finanzstabilität von
+309 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, in § 6
+des Zahlungsdiensteaufsichtsgesetzes, in § 8 des
+Kapitalanlagegesetzbuchs, in § 32 des Gesetzes über die Deutsche
+Bundesbank und in § 3b Absatz 1 des
+Finanzmarktstabilisierungsfondsgesetzes genannten Personen sind für
+die Wahrnehmung von Aufgaben im Ausschuss für Finanzstabilität von
 ihren jeweiligen Verschwiegenheitspflichten befreit.
 
-(8) Der Vorsitzende des Leitungsausschusses der Bundesanstalt für
-Finanzmarktstabilisierung unterrichtet den Lenkungsausschuss im Sinne
-des § 4 Absatz 1 Satz 2 des Finanzmarktstabilisierungsfondsgesetzes;
-insbesondere informiert er den Lenkungsausschuss regelmäßig über die
-Entwicklung der Finanzstabilität und über die Beschlüsse und sonstigen
-Entscheidungen des Ausschusses für Finanzstabilität.
+(8) Das Bundesministerium der Finanzen unterrichtet den
+Lenkungsausschuss im Sinne des § 4 Absatz 1 Satz 2 des
+Finanzmarktstabilisierungsfondsgesetzes; insbesondere informiert das
+Bundesministerium der Finanzen den Lenkungsausschuss regelmäßig über
+die Entwicklung der Finanzstabilität und über die Beschlüsse und
+sonstigen Entscheidungen des Ausschusses für Finanzstabilität.
 
 (9) Der Ausschuss für Finanzstabilität berichtet dem Deutschen
-Bundestag jährlich über die Lage und Entwicklung der Finanzstabilität
-sowie über seine Tätigkeit nach diesem Gesetz.
+Bundestag mindestens jährlich über die Lage und Entwicklung der
+Finanzstabilität sowie über seine Tätigkeit nach diesem Gesetz.
 
 (10) Der Ausschuss wird durch den Vorsitzenden und bei dessen
 Verhinderung durch dessen Stellvertreter vertreten.
@@ -207,14 +212,14 @@ Bundesbank zur Erfüllung ihrer in diesem Gesetz geregelten Aufgaben
 erforderlich sind. Die Bundesanstalt und die Deutsche Bundesbank
 regeln einvernehmlich die Einzelheiten der Übermittlung dieser
 Informationen. Die in § 9 Absatz 1 Satz 1 des Kreditwesengesetzes, in
-§ 8 Absatz 1 des Wertpapierhandelsgesetzes, in § 27 Absatz 1 des
+§ 21 Absatz 1 des Wertpapierhandelsgesetzes, in § 27 Absatz 1 des
 Wertpapierprospektgesetzes, in § 9 Absatz 1 des Wertpapiererwerbs- und
 Übernahmegesetzes, in § 4 Absatz 1 des Vermögensanlagengesetzes, in §
-84 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, in § 6
-des Zahlungsdiensteaufsichtsgesetzes, in § 5b des Investmentgesetzes,
-in § 32 des Gesetzes über die Deutsche Bundesbank und in § 7 genannten
-Personen sind insoweit von ihren jeweiligen Verschwiegenheitspflichten
-befreit.
+309 Absatz 1 Satz 1 und 2 des Versicherungsaufsichtsgesetzes, in § 6
+des Zahlungsdiensteaufsichtsgesetzes, in § 8 des
+Kapitalanlagegesetzbuchs, in § 32 des Gesetzes über die Deutsche
+Bundesbank und in § 7 genannten Personen sind insoweit von ihren
+jeweiligen Verschwiegenheitspflichten befreit.
 
 (2) Der Informationsaustausch nach Absatz 1 schließt die Übermittlung
 der personenbezogenen Daten ein, die zur Erfüllung der in Absatz 1

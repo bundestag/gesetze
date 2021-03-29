@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2002, 2167
 
 Zuletzt geändert durch
-:   Art. 18 G v. 3.4.2009 I 700
+:   Art. 6 G v. 8.12.2016 I 2838
 
 
 ## Erstes Kapitel - Allgemeine Vorschriften
@@ -530,9 +530,7 @@ Rentenversicherung besteht; dabei sind Renten für Bergleute und
 Erziehungsrenten keine vergleichbaren Renten. Witwen- und
 Witwerzusatzrenten werden auch dann gezahlt, wenn ein Anspruch auf die
 vergleichbare Leistung aus der gesetzlichen Rentenversicherung allein
-aufgrund eines Rentensplittings unter Ehegatten nicht besteht. Zu
-einer Teilrente wegen Alters aus der gesetzlichen Rentenversicherung
-wird auch nur der entsprechende Teil der Zusatzrente gezahlt.
+aufgrund eines Rentensplittings unter Ehegatten nicht besteht.
 
 (3) Zusatzrenten werden nur gezahlt, wenn außerdem eine besondere
 Wartezeit von fünf Jahren in der umlagefinanzierten
@@ -831,9 +829,15 @@ Franken sind im Verhältnis 100 : 1 Deutsche Mark umzurechnen.
 (1) Die Zusatzrente wird neben einer entsprechenden Rente aus der
 Unfallversicherung ungekürzt gezahlt.
 
-(2) Wird eine Rente wegen verminderter Erwerbsfähigkeit abhängig vom
-erzielten Hinzuverdienst anteilig geleistet, wird die Zusatzrente in
-entsprechender anteiliger Höhe geleistet.
+(2) Wird eine Altersrente aus der gesetzlichen Rentenversicherung als
+Teilrente gezahlt, wird die Zusatzrente ebenfalls als Teilrente
+geleistet, und zwar im Verhältnis der monatlichen Teilrente zur
+monatlichen Vollrente in der gesetzlichen Rentenversicherung. Eine
+laufende Zusatzrente wegen Alters, die vor dem 1. Juli 2017 gezahlt
+wurde, wird nur dann neu berechnet, wenn sich wegen einer
+Einkommensänderung der Zahlbetrag der Rente der gesetzlichen
+Rentenversicherung geändert hat. Die Sätze 1 und 2 gelten entsprechend
+für eine Zusatzrente wegen verminderter Erwerbsfähigkeit.
 
 (3) Im Übrigen gelten die Vorschriften des Sechsten Buches
 Sozialgesetzbuch über das Zusammentreffen von Renten und von Einkommen
@@ -893,6 +897,9 @@ Minderung von Renten, über Leistungen an Berechtigte im Ausland sowie
 Rentenversicherung maßgebenden Vorschriften des Sechsten Buches
 Sozialgesetzbuch entsprechend Anwendung. Beiträge, die für die Zeit
 vor dem 20. November 1947 gezahlt worden sind, werden nicht erstattet.
+
+(3) § 118 Absatz 3 bis 5 des Sechsten Buches Sozialgesetzbuch ist
+entsprechend anzuwenden.
 
 
 ### § 27 Wahlrecht auf Übertragung von Anwartschaften

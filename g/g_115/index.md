@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2702, 2704
 
+Zuletzt geändert durch
+:   Art. 245 V v. 31.8.2015 I 1474
+
 
 ## § 1 Kreditermächtigungen
 
@@ -93,7 +96,7 @@ Einnahmen und Ausgaben des Bundes bei einer Veränderung der
 gesamtwirtschaftlichen Aktivität verändern.
 
 (4) Das Bundesministerium der Finanzen legt im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie die Einzelheiten des
+Bundesministerium für Wirtschaft und Energie die Einzelheiten des
 Verfahrens zur Bestimmung der Konjunkturkomponente in Übereinstimmung
 mit dem im Rahmen des Europäischen Stabilitäts- und Wachstumspaktes
 angewandten Konjunkturbereinigungsverfahren durch Rechtsverordnung
@@ -165,4 +168,8 @@ anzuwenden.
 Dezember 2015 mit der Maßgabe Anwendung, dass das strukturelle Defizit
 des Haushaltsjahres 2010 ab dem Jahr 2011 in gleichmäßigen Schritten
 zurückgeführt wird.
+
+(3) § 7 gilt mit der Maßgabe, dass mit Wirkung zum 31. Dezember 2015
+der über die Haushaltsjahre 2011 bis 2015 kumulierte Saldo des
+Kontrollkontos gelöscht wird.
 

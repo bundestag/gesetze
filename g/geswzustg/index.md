@@ -25,9 +25,8 @@ Geändert durch
 Die in Gesetzen und Rechtsverordnungen begründeten Zuständigkeiten des
 Bundesministers des Innern auf dem Gebiete des Rechts des
 Gesundheitswesens gehen auf den Bundesminister für
-Gesundheitswesen              über. Dies gilt insbesondere für alle
-durch folgende Gesetze und Rechtsverordnungen begründeten
-Zuständigkeiten:
+Gesundheitswesen über. Dies gilt insbesondere für alle durch folgende
+Gesetze und Rechtsverordnungen begründeten Zuständigkeiten:
 
 1.  Weingesetz vom 25. Juli 1930 (Reichsgesetzblatt I S. 356), zuletzt
     geändert durch das Gesetz zur Änderung des Weingesetzes vom 4. Juni

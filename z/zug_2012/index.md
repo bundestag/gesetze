@@ -17,7 +17,10 @@ Fundstelle
 :   BGBl I: 2007, 1788
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 23 G v. 22.12.2011 I 3044
+:   Art. 4 Abs. 32 G v. 18.7.2016 I 1666
+
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 Dieses Gesetz dient der Umsetzung der Richtlinie 2003/87/EG des
 Europäischen Parlaments und des Rates vom 13. Oktober 2003 über ein
@@ -26,181 +29,6 @@ Gemeinschaft und zur Änderung der Richtlinie 96/61/EG des Rates (ABl.
 EU Nr. L 275 S. 32). Das G wurde als Artikel 1 d. G v. 7.8.2007 I 1788
 vom Bundestag beschlossen. Es ist gem. Art. 4 dieses G am 11.8.2007 in
 Kraft getreten.
-
-
-## Inhaltsverzeichnis
-
-
-*    *   Abschnitt 1
-
-
-*    *   Allgemeine Vorschriften
-
-
-*    *   § 1
-
-    *   Zweck des Gesetzes
-
-
-*    *   § 2
-
-    *   Anwendungsbereich
-
-
-*    *   § 3
-
-    *   Begriffsbestimmungen
-
-
-*    *
-
-*    *   Abschnitt 2
-
-
-*    *   Mengenplanung
-
-
-*    *   § 4
-
-    *   Nationale Emissionsziele
-
-
-*    *   § 5
-
-    *   Reserve
-
-
-*    *
-
-*    *   Abschnitt 3
-
-
-*    *   Zuteilungsregeln
-
-
-*    *   § 6
-
-    *   Zuteilung für bestehende Industrieanlagen mit Inbetriebnahme bis zum
-        31\. Dezember 2002
-
-
-*    *   § 7
-
-    *   Zuteilung für bestehende Anlagen der Energiewirtschaft mit
-        Inbetriebnahme bis zum 31. Dezember 2002
-
-
-*    *   § 8
-
-    *   Zuteilung für bestehende Anlagen mit Inbetriebnahme in den Jahren 2003
-        bis 2007
-
-
-*    *   § 9
-
-    *   Zuteilung für Neuanlagen
-
-
-*    *   § 10
-
-    *   Einstellung des Betriebes von Anlagen
-
-
-*    *   § 11
-
-    *   Kuppelgas
-
-
-*    *   § 12
-
-    *   Besondere Härtefallregelung
-
-
-*    *   § 13
-
-    *   Nähere Bestimmung der Berechnung der Zuteilung
-
-
-*    *   § 14
-
-    *   Antragsfristen
-
-
-*    *   § 15
-
-    *   Überprüfung von Angaben
-
-
-*    *   § 16
-
-    *   Kosten der Zuteilung
-
-
-*    *
-
-*    *   Abschnitt 4
-
-
-*    *   Ausgabe und Abgabe von Berechtigungen
-
-
-*    *   § 17
-
-    *   Ausgabe
-
-
-*    *   § 18
-
-    *   Erfüllung der Abgabepflicht
-
-
-*    *
-
-*    *   Abschnitt 5
-
-
-*    *   Veräußerung von Berechtigungen
-
-
-*    *   § 19
-
-    *   Umfang und Verwendung
-
-
-*    *   § 20
-
-    *   Aufkommen
-
-
-*    *   § 21
-
-    *   Verfahren
-
-
-*    *
-
-*    *   Abschnitt 6
-
-
-*    *   Gemeinsame Vorschriften
-
-
-*    *   § 22
-
-    *   Bußgeldvorschriften
-
-
-*    *   § 23
-
-    *   Zuständige Behörde
-
-
-*    *
-
-*    *   Anhang 1 bis 5
-
-
-
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -378,12 +206,12 @@ nachfolgende Zuteilungsperiode überführt oder gelöscht werden.
 
 (5) Soweit es zur Erfüllung der in Absatz 2 Nr. 1 genannten Ansprüche
 oder zur Deckung der Kosten nach Absatz 3 erforderlich ist, beauftragt
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im
-Einvernehmen mit dem Bundesministerium der Finanzen eine Stelle, auf
-eigene Rechnung Berechtigungen zu kaufen und diese der zuständigen
-Behörde kostenlos zur Verfügung zu stellen. Zum Ausgleich erhält die
-beauftragte Stelle die Beschaffungskosten sowie den mit der
-Beschaffung verbundenen Aufwand erstattet.
+das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der
+Finanzen eine Stelle, auf eigene Rechnung Berechtigungen zu kaufen und
+diese der zuständigen Behörde kostenlos zur Verfügung zu stellen. Zum
+Ausgleich erhält die beauftragte Stelle die Beschaffungskosten sowie
+den mit der Beschaffung verbundenen Aufwand erstattet.
 
 
 ## Abschnitt 3 - Zuteilungsregeln
@@ -912,7 +740,7 @@ Berechtigungen nur zu, soweit die Richtigkeit der Angaben ausreichend
 gesichert ist.
 
 
-### § 16 Kosten der Zuteilung
+### § 16 Kostenlose Zuteilung
 
 Von der zuständigen Behörde nach den §§ 6 bis 9 zugeteilte
 Berechtigungen sind kostenlos. Die Erhebung von Gebühren nach § 22 des
@@ -1006,7 +834,7 @@ objektiv, nachvollziehbar und diskriminierungsfrei sein und
 Vorkehrungen gegen die Beeinflussung der Preisbildung durch das
 Verhalten einzelner Bieter treffen.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit beauftragt im Einvernehmen mit dem Bundesministerium
 der Finanzen eine geeignete Stelle mit der Abwicklung des Verfahrens
 nach Absatz 1 Satz 1. Im Falle der Versteigerung macht das
@@ -1074,7 +902,7 @@ Treibhausgas-Emissionshandelsgesetzes vom 8. Juli 2004 (BGBl. I S.
 1578), das zuletzt durch Artikel 9 des Gesetzes vom 11. August 2010
 (BGBl. I S. 1163) geändert worden ist, mit durchschnittlichen
 jährlichen Emissionen von weniger als 25 000 t CO
-2             , die bis zum 31. Dezember 2002 in Betrieb gegangen sind
+2, die bis zum 31. Dezember 2002 in Betrieb gegangen sind
 
 *    *        ![bgbl1_2007_j1788_0020.jpg](bgbl1_2007_j1788_0020.jpg)
 
@@ -1193,8 +1021,8 @@ dem 1. Januar 2008
 *    *   BM
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit (z. B. in t CO
-        2                     -Äquiv./MWh oder t CO
-        2                     -Äquiv./t)
+        2-Äquiv./MWh oder t CO
+        2-Äquiv./t)
 
 
 *    *   BM
@@ -1202,7 +1030,7 @@ dem 1. Januar 2008
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit für
         Stromerzeugung (in t CO
-        2                     -Äquiv./MWh)
+        2-Äquiv./MWh)
 
 
 *    *   BM
@@ -1210,7 +1038,7 @@ dem 1. Januar 2008
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit für
         Wärmeerzeugung (in t CO
-        2                     -Äquiv./MWh)
+        2-Äquiv./MWh)
 
 
 *    *   BM
@@ -1218,7 +1046,7 @@ dem 1. Januar 2008
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit für Wellenarbeit
         (in t CO
-        2                     -Äquiv./MWh)
+        2-Äquiv./MWh)
 
 
 *    *   BM
@@ -1226,7 +1054,7 @@ dem 1. Januar 2008
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit für den Einsatz
         gasförmiger Brennstoffe (in t CO
-        2                     -Äquiv./MWh)
+        2-Äquiv./MWh)
 
 
 *    *   BM
@@ -1234,14 +1062,14 @@ dem 1. Januar 2008
 
     *   Emissionswert (benchmark) je erzeugter Produkteinheit für den Einsatz
         sonstiger Brennstoffe (in t CO
-        2                     -Äquiv./MWh)
+        2-Äquiv./MWh)
 
 
 *    *   EB
 
     *   Menge der Emissionsberechtigungen für die Zuteilungsperiode nach
         Anwendung der für die Anlage maßgeblichen Zuteilungsregel (in t CO
-        2                     -Äquiv.)
+        2-Äquiv.)
 
 
 *    *   EF
@@ -1355,8 +1183,9 @@ dem 1. Januar 2008
 
 
 
+(zu § 9 Abs. 3 und § 12 Abs. 1)
 
-### Anhang 2 (zu § 9 Abs. 3 und § 12 Abs. 1) Vergleichbarkeit von Anlagen
+### Anhang 2 Vergleichbarkeit von Anlagen
 
 (Fundstelle: BGBl. I 2007, 1798;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1622,8 +1451,9 @@ II) Sofern die Anlage als gemeinsame Anlage aus mehreren, ansonsten
 
 
 
+(zu § 3 Abs. 2 Nr. 8 in Verbindung mit § 8 und § 9)
 
-### Anhang 4 (zu § 3 Abs. 2 Nr. 8 in Verbindung mit § 8 und § 9) Vollbenutzungsstunden
+### Anhang 4 Vollbenutzungsstunden
 
 (Fundstelle: BGBl. I 2007, 1800 - 1801;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1828,8 +1658,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 4 Abs. 3)
 
-### Anhang 5 (zu § 4 Abs. 3) Anteilige Kürzung der Zuteilungsmenge entsprechend dem Effizienzstandard der Anlage
+### Anhang 5 Anteilige Kürzung der Zuteilungsmenge entsprechend dem Effizienzstandard der Anlage
 
 ( Fundstelle: BGBl. I 2007, 1802 - 1803 )
 

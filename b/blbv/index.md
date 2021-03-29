@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2009, 2170
 
+Geändert durch
+:   Art. 4 G v. 3.12.2015 I 2163
+
 
 ## Eingangsformel
 
@@ -134,10 +137,10 @@ entsprechend.
 ## § 8 Ausschluss- und Konkurrenzregelungen
 
 (1) Leistungsbezogene Besoldungsinstrumente dürfen nicht neben einer
-Zulage nach § 45 oder § 46 des Bundesbesoldungsgesetzes gewährt
-werden, soweit sie auf Grund desselben Sachverhalts gewährt werden.
-Neben einer Zulage für die Tätigkeit bei obersten Bundesbehörden sowie
-bei obersten Gerichtshöfen des Bundes können leistungsbezogene
+Zulage nach § 45 des Bundesbesoldungsgesetzes gewährt werden, soweit
+sie auf Grund desselben Sachverhalts gewährt werden. Neben einer
+Zulage für die Tätigkeit bei obersten Bundesbehörden sowie bei
+obersten Gerichtshöfen des Bundes können leistungsbezogene
 Besoldungsinstrumente nur insoweit gewährt werden, als die Gesamtheit
 aller Instrumente 15 Prozent der Zahl der dort am 1. Januar jeweils
 vorhandenen Besoldungsempfängerinnen und Besoldungsempfänger in
@@ -222,7 +225,7 @@ dezentralen Vergabe zu berücksichtigen. Die Vorstände der
 bundesunmittelbaren Sozialversicherungsträger können ihre Befugnisse
 auf die Geschäftsführung übertragen.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur oder
 eine von ihm bestimmte Stelle trifft für die Beamtinnen und Beamten,
 die den Eisenbahnen des Bundes zugewiesen sind, Regelungen zu den
 Entscheidungsberechtigten und zum Verfahren.

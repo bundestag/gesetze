@@ -3,7 +3,7 @@ Title: Übereinkommen Nr. 87 (der Internationalen Arbeitsorganisation) über die
   und den Schutz des Vereinigungsrechts
 jurabk: IAOÜbk 87
 layout: default
-origslug: iao_bk_87
+origslug: iaouebk_87
 slug: iaouebk_87
 
 ---

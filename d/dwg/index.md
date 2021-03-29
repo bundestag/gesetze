@@ -18,6 +18,9 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 11.1.2005 I 90
 
+Zuletzt geändert durch
+:   Art. 80 G v. 29.3.2017 I 626
+
 
 ## Abschnitt 1 - Grundlagen der Anstalt
 
@@ -230,7 +233,7 @@ unzulässig, wenn sie
 
 
 
-Im Fall der Nummer 2 gilt § 131 Abs. 3 des Strafgesetzbuches
+Im Fall der Nummer 2 gilt § 131 Abs. 2 des Strafgesetzbuches
 entsprechend. Im Fall der Nummer 3 gilt § 86 Abs. 3 des
 Strafgesetzbuches entsprechend.
 
@@ -453,8 +456,7 @@ f)  Die Höhe des Alkoholgehalts von Getränken darf nicht als positive
 
 
 
-(2a) Bei Werbung für Tabakerzeugnisse in Telemedien gilt Absatz 2
-Buchstabe a entsprechend.
+(2a) (weggefallen)
 
 (3) Werbung oder Werbetreibende dürfen das übrige Programm inhaltlich
 und redaktionell nicht beeinflussen.
@@ -764,11 +766,11 @@ beanstandet, so ist die Aufzeichnung aufzubewahren, bis die
 Beanstandung durch rechtskräftige gerichtliche Entscheidung, durch
 gerichtlichen Vergleich oder auf andere Weise erledigt ist.
 
-(3) Wer schriftlich glaubhaft macht, durch eine Sendung der Deutschen
-Welle in seinen Rechten betroffen zu sein, kann von der Deutschen
-Welle Einsicht in die Aufzeichnung dieser Sendung verlangen und auf
-eigene Kosten durch die Deutsche Welle Mehrausfertigungen herstellen
-lassen.
+(3) Wer schriftlich oder elektronisch glaubhaft macht, durch eine
+Sendung der Deutschen Welle in seinen Rechten betroffen zu sein, kann
+von der Deutschen Welle Einsicht in die Aufzeichnung dieser Sendung
+verlangen und auf eigene Kosten durch die Deutsche Welle
+Mehrausfertigungen herstellen lassen.
 
 
 ### Unterabschnitt 5 - Verantwortung für Sendungen
@@ -1140,7 +1142,7 @@ Ausschüsse einrichten.
 
 (2) Die Ausschüsse bereiten die Beschlüsse des Rundfunkrates im
 jeweiligen Aufgabenbereich vor. Sie erstatten dem Rundfunkrat jährlich
-einen schriftlichen Bericht über ihre Tätigkeit.
+einen Bericht über ihre Tätigkeit.
 
 (3) Näheres regelt die Geschäftsordnung.
 

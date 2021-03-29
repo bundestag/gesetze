@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 1150
 
 Zuletzt geändert durch
-:   Art. 22 V v. 13.12.2011 I 2720
+:   Art. 21 V v. 5.7.2017 I 2272
 
 
 ## Eingangsformel
@@ -88,17 +88,7 @@ Verordnung (EG) Nr. 1662/2006 der Kommission vom 6. November 2006
 
 (1a) (weggefallen)
 
-(1b) Säure-Nährkasein, Labnährkasein und Nährkaseinat dürfen nur so
-hergestellt werden, daß
-
-1.  der Bleigehalt höchstens 1 Milligramm in einem Kilogramm beträgt und
-
-
-2.  keine Fremdstoffe, insbesondere keine Holz- oder Metallpartikel, Haare
-    oder Insektenfragmente, in 25 Gramm enthalten sind.
-
-
-
+(1b) (weggefallen)
 
 (2) Bei der Herstellung von Milcherzeugnissen dürfen nur folgende
 Lebensmittel verwendet werden:
@@ -128,7 +118,10 @@ Lebensmittel verwendet werden:
     jeweils geltenden Fassung bei Erzeugnissen der Gruppen VII bis IX, XIV
     und XV der Spalte 1 der Anlage 1 sowie den Standardsorten der Gruppen
     VII und VIII und den Standardsorten Nr. 1, 4, 7 und 10 der Gruppe IX
-    der Anlage 1.
+    der Anlage 1,
+
+
+4.  Inulin bei Milchmischerzeugnissen der Gruppe XIV der Anlage 1.
 
 
 
@@ -140,17 +133,9 @@ ersetzen, zugesetzt werden, ausgenommen Milch und Milcherzeugnisse.
 
 (3)
 
-(4) Milcherzeugnisse, bei deren Herstellung die Vorschriften
-
-1.  des Absatzes 1b oder
-
-
-2.  des Absatzes 2
-
-
-
-nicht beachtet worden sind, dürfen nicht in den Verkehr gebracht
-werden.
+(4) Milcherzeugnisse, bei deren Herstellung die Vorschriften des
+Absatzes 2 nicht beachtet worden sind, dürfen nicht in den Verkehr
+gebracht werden.
 
 (5) Zur Abgabe im Einzelhandel bestimmte ungezuckerte
 Kondensmilcherzeugnisse, gezuckerte Kondensmilcherzeugnisse und
@@ -171,9 +156,9 @@ sie nach den Vorschriften dieser Verordnung gekennzeichnet sind. § 8
 der Lebensmittel-Kennzeichnungsverordnung sowie § 9 der Zusatzstoff-
 Zulassungsverordnung sind anzuwenden.
 
-(2) Bei Milcherzeugnissen in Fertigpackungen im Sinne des § 6 Abs. 1
-des Eichgesetzes, die zur Abgabe an den Verbraucher bestimmt sind,
-sind anzugeben
+(2) Bei Milcherzeugnissen in Fertigpackungen im Sinne des § 42 Absatz
+1 des Mess- und Eichgesetzes, die zur Abgabe an den Verbraucher
+bestimmt sind, sind anzugeben
 
 1.  die Verkehrsbezeichnung nach Maßgabe des Absatzes 3,
 
@@ -238,33 +223,15 @@ sind anzugeben
 
 
 
-Satz 1 gilt nicht für Nährkaseine und Nährkaseinate.
 
-(2a) Bei Nährkaseinen und Nährkaseinaten in Fertigpackungen muß die
-Kennzeichnung enthalten
-
-1.  die Angaben nach Absatz 2 Satz 1 Nr. 1 und 2,
-
-
-2.  das Ursprungsland bei eingeführten Erzeugnissen aus Ländern, die nicht
-    Mitglied der Europäischen Union sind (Drittländer),
-
-
-3.  das Herstellungsdatum oder eine Angabe, die eine Feststellung der
-    Partie ermöglicht,
-
-
-4.  den Eiweißgehalt bei Mischungen aus Nährkaseinen und Nährkaseinaten.
-
-
-
+(2a) (weggefallen)
 
 (2b) (weggefallen)
 
 (3) Die Verkehrsbezeichnung ist
 
 1.  bei Milcherzeugnissen der Standardsorten die entsprechende Bezeichnung
-    nach Spalte 2 der Anlage 1,
+    nach Spalte 2 der Anlage 1 und
 
 
 2.  bei Milcherzeugnissen, die nicht den Voraussetzungen einer
@@ -272,17 +239,7 @@ Kennzeichnung enthalten
     der Anlage 1; die Bezeichnung nach Spalte 1 Buchstabe a der Anlage 1
     darf abweichend von Nummer 1 auch bei Standardsorten der Gruppen VII
     bis XII der Anlage 1 verwendet werden, wenn diese als Zutat bei der
-    Kennzeichnung anderer Lebensmittel angegeben werden,
-
-
-3.  bei Nährkaseinaten die Bezeichnung nach Spalte 2 der Anlage 1 unter
-    Angabe der Kationen,
-
-
-4.  bei Mischungen aus Nährkaseinen und Nährkaseinaten die Bezeichnung
-    "Mischung aus", gefolgt von den Bezeichnungen der Erzeugnisse, aus
-    denen die Mischung besteht, in absteigender Reihenfolge ihres
-    Gewichtsanteils.
+    Kennzeichnung anderer Lebensmittel angegeben werden.
 
 
 
@@ -292,8 +249,8 @@ qcm beträgt, können die Angaben nach Absatz 2 Satz 1 Nr. 2 und 3
 entfallen.
 
 (5) Für die Art und Weise der Kennzeichnung nach den Absätzen 2 und 2a
-sowie die Kennzeichnung der Nennfüllmenge nach § 7 Abs. 1 des
-Eichgesetzes gilt § 3 Abs. 3 und 4 der Lebensmittel-
+sowie die Kennzeichnung der Nennfüllmenge nach § 43 Absatz 1 des Mess-
+und Eichgesetzes gilt § 3 Abs. 3 und 4 der Lebensmittel-
 Kennzeichnungsverordnung entsprechend. Die Angabe der Wärmebehandlung
 hat in engem räumlichen Zusammenhang mit jeder Angabe der
 Verkehrsbezeichnung zu erfolgen. Bei ungezuckerten
@@ -301,25 +258,13 @@ Kondensmilcherzeugnissen und gezuckerten Kondensmilcherzeugnissen
 müssen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und 4 Buchstabe a, bei
 Trockenmilcherzeugnissen die Angaben nach § 4 Abs. 1 Nr. 1 oder 2 und
 5 Buchstabe d im gleichen Sichtfeld mit den Angaben nach Absatz 2 Satz
-1 Nr. 1 und 4 stehen. Abweichend von Satz 1 brauchen
-
-1.  bei ungezuckerten Kondensmilcherzeugnissen, gezuckerten
-    Kondensmilcherzeugnissen und Trockenmilcherzeugnissen mit einem
-    Stückgewicht von weniger als 20 Gramm, die in einer Sammelpackung in
-    den Verkehr gebracht werden, die Angaben nach Absatz 2 Satz 1 Nr. 4
-    und 5 sowie nach § 4 Abs. 1 Nr. 1 oder 2, 4 und 5 nur auf der
-    Sammelpackung angebracht zu werden,
-
-
-2.  (weggefallen)
-
-
-3.  bei Nährkaseinen und Nährkaseinaten die Angaben nach Absatz 2 Satz 1
-    Nr. 2 sowie Absatz 2a Nr. 2 und 4 nur in einem Begleitpapier enthalten
-    zu sein.
-
-
-
+1 Nr. 1 und 4 stehen. Abweichend von Satz 1 brauchen bei ungezuckerten
+Kondensmilcherzeugnissen, gezuckerten Kondensmilcherzeugnissen und
+Trockenmilcherzeugnissen mit einem Stückgewicht von weniger als 20
+Gramm, die in einer Sammelpackung in den Verkehr gebracht werden, die
+Angaben nach Absatz 2 Satz 1 Nummer 4 und 5 sowie nach § 4 Absatz 1
+Nummer 1 oder 2, 4 und 5 nur auf der Sammelpackung angebracht zu
+werden.
 
 (6) Die Absätze 2 bis 5 gelten nicht für Milcherzeugnisse in
 Fertigpackungen, die in der Verkaufsstätte zur alsbaldigen Abgabe an
@@ -410,7 +355,15 @@ Verzehr an Ort und Stelle abgegeben werden.
 
 
 
-(2) (weggefallen)
+(2) Wird bei einem Milcherzeugnis im Sinne der Anlage 1 der
+Laktosegehalt verringert, darf der Hinweis auf das Nichtvorhandensein
+von Laktose nur erfolgen, soweit der Laktosegehalt nach Maßgabe der
+nach § 64 Absatz 1 des Lebensmittel- und Futtermittelgesetzbuches in
+seiner jeweils geltenden Fassung für die Feststellung von Laktose
+veröffentlichten Prüfungsmethode unter 0,1 Gramm je 100 Gramm des
+Fertigerzeugnisses liegt und die Kennzeichnung die Angabe
+„Laktosegehalt: unter 0,1 g/100 g“ oder eine inhaltsgleiche Angabe
+enthält.
 
 
 ## § 5 Zulassung von Zusatzstoffen
@@ -420,12 +373,14 @@ Anlage 2 aufgeführten Zusatzstoffe für die dort bezeichneten
 Verwendungszwecke zugelassen. Der Gehalt an den Zusatzstoffen darf die
 in der Anlage 2 angegebenen Höchstmengen nicht überschreiten.
 
-(1a) Milchstreichfetterzeugnisse im Sinne der Nummer 1 Buchstabe b und
-der Nummern 8, 14 und 15 der Anlage 2 sind Dreiviertelfettbutter,
-Halbfettbutter und Milchstreichfett X vom Hundert im Sinne des Teils A
-Nr. 2, 3 und 4 des Anhanges der Verordnung (EG) Nr. 2991/94 des Rates
-vom 5. Dezember 1994 mit Normen für Streichfette (ABl. EG Nr. L 316 S.
-2).
+(1a) Milchstreichfetterzeugnisse im Sinne der Nummern 2 und 3 der
+Anlage 2 sind Milchstreichfette im Sinne des Abschnittes A Nummer 2
+bis 4 der Anlage II des Anhangs VII der Verordnung (EU) Nr. 1308/2013
+des Europäischen Parlaments und des Rates vom 17. Dezember 2013 über
+eine gemeinsame Marktorganisation für landwirtschaftliche Erzeugnisse
+und zur Aufhebung der Verordnungen (EWG) Nr. 922/72, (EWG) Nr. 234/79,
+(EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom 20.12.2013,
+S. 671).
 
 (2) Die in Anlage 2 aufgeführten Zusatzstoffe werden auch zugelassen
 als Zusatz zu Lebensmitteln, die zur Herstellung von
@@ -463,9 +418,7 @@ Milcherzeugnisse (ausländische Milcherzeugnisse), die nicht den
 Vorschriften dieser Verordnung entsprechen, dürfen vorbehaltlich des
 Absatzes 2 in den Verkehr gebracht werden, wenn sie nach den
 Rechtsvorschriften des Herstellungslandes hergestellt und dort
-verkehrsfähig sind, die zur Herstellung verwendeten Milchinhaltsstoffe
-einem Pasteurisierungsverfahren oder einem diesem zumindest
-entsprechenden Erhitzungsverfahren unterworfen worden sind.
+verkehrsfähig sind.
 
 (2) Ausländische Milcherzeugnisse, die in wesentlichen
 charakteristischen Merkmalen, insbesondere hinsichtlich des
@@ -488,8 +441,9 @@ Irreführung des Verbrauchers nicht ausgeschlossen werden kann.
 ## § 7 Straftaten und Ordnungswidrigkeiten
 
 (1) Nach § 58 Abs. 1 Nr. 18, Abs. 4 bis 6 des Lebensmittel- und
-Futtermittelgesetzbuches wird bestraft, wer entgegen § 2 Abs. 1
-ungezuckerte Kondensmilch in den Verkehr bringt.
+Futtermittelgesetzbuches wird bestraft, wer vorsätzlich oder
+fahrlässig entgegen § 2 Abs. 1 ungezuckerte Kondensmilch in den
+Verkehr bringt.
 
 (2) Nach § 59 Abs. 1 Nr. 21 Buchstabe a des Lebensmittel- und
 Futtermittelgesetzbuches wird bestraft, wer bei dem Herstellen von
@@ -503,48 +457,32 @@ ausländische Milcherzeugnisse, die nicht oder nicht in der
 vorgeschriebenen Weise kenntlich gemacht sind, in den Verkehr bringt.
 
 (3) Wer eine in Absatz 2 oder 2a bezeichnete Handlung fahrlässig
-begeht, handelt nach § 60 Abs. 1 des Lebensmittel- und
+begeht, handelt nach § 60 Absatz 1 Nummer 2 des Lebensmittel- und
 Futtermittelgesetzbuches ordnungswidrig.
 
-(4) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
-Lebensmittelund Futtermittelgesetzbuches handelt, wer vorsätzlich oder
-fahrlässig
-
-1.  (weggefallen)
-
-
-2.  entgegen § 2 Abs. 1b Säure-Nährkasein, Labnährkasein oder Nährkaseinat
-    herstellt,
-
-
-3.  entgegen § 2 Abs. 4 Nr. 1 Milcherzeugnisse in den Verkehr bringt oder
-
-
-4.  entgegen § 2 Abs. 5 dort bezeichnete Milcherzeugnisse unverpackt oder
-    in Behältnissen in den Verkehr bringt, die den dort bezeichneten
-    Anforderungen nicht entsprechen.
-
-
-
+(4) Ordnungswidrig im Sinne des § 60 Absatz 2 Nummer 26 Buchstabe a
+des Lebensmittel- und Futtermittelgesetzbuches handelt, wer
+vorsätzlich oder fahrlässig entgegen § 2 Absatz 5 ein dort genanntes
+Erzeugnis in den Verkehr bringt.
 
 (5) Ordnungswidrig im Sinne des § 60 Abs. 2 Nr. 26 Buchstabe a des
 Lebensmittel- und Futtermittelgesetzbuches handelt, wer vorsätzlich
-oder fahrlässig entgegen § 3 Abs. 1 in Verbindung mit Abs. 2 Satz 1
-Nr. 1 bis 5, Abs. 2a, 5 Satz 1 oder 2 oder Abs. 7 Satz 1 Nr. 1
-Milcherzeugnisse, die nicht oder nicht in der vorgeschriebenen Weise
-gekennzeichnet sind, in den Verkehr bringt.
+oder fahrlässig entgegen § 3 Abs. 1 in Verbindung mit Abs. 2 Nr. 1 bis
+5, Absatz 5 Satz 1 oder 2 oder Abs. 7 Satz 1 Nr. 1 Milcherzeugnisse,
+die nicht oder nicht in der vorgeschriebenen Weise gekennzeichnet
+sind, in den Verkehr bringt.
 
 (6) Ordnungswidrig im Sinne des § 9 Absatz 2 Nummer 2 des Milch- und
 Margarinegesetzes handelt, wer vorsätzlich oder fahrlässig
 
-1.  Milcherzeugnisse entgegen § 2 Abs. 2 herstellt oder entgegen § 2 Abs.
-    4 Nr. 2 in den Verkehr bringt oder
+1.  Milcherzeugnisse entgegen § 2 Abs. 2 herstellt oder entgegen § 2
+    Absatz 4 in den Verkehr bringt oder
 
 
-2.  entgegen § 3 Abs. 1 in Verbindung mit Abs. 2 Satz 1 Nr. 6, Abs. 5 Satz
-    1 oder 3 oder Abs. 7 Satz 1 Nr. 2 Milcherzeugnisse, die nicht oder
-    nicht in der vorgeschriebenen Weise gekennzeichnet sind, in den
-    Verkehr bringt.
+2.  entgegen § 3 Abs. 1 in Verbindung mit Absatz 2 Nummer 6, Abs. 5 Satz 1
+    oder 3 oder Abs. 7 Satz 1 Nr. 2 Milcherzeugnisse, die nicht oder nicht
+    in der vorgeschriebenen Weise gekennzeichnet sind, in den Verkehr
+    bringt.
 
 
 
@@ -559,18 +497,41 @@ Gurken, hergestellt werden oder solchen griechischen Erzeugnissen nach
 Herstellungsweise und Zusammensetzung entsprechen.
 
 
-## § 7b Übergangsvorschrift
+## § 7b Anpassung an die Verordnung (EU) Nr. 1169/2011 und an die Lebensmittelinformations-Durchführungsverordnung
 
-(1) Milcherzeugnisse dürfen noch bis zum 31. Dezember 2004 nach den
-bis zum 23. Juli 2004 geltenden Vorschriften hergestellt und
-gekennzeichnet sowie bis zum Aufbrauchen der Bestände in Verkehr
-gebracht werden.
+(1) Diese Verordnung ist nicht anzuwenden, soweit ihr Bestimmungen
+entgegenstehen aus
 
-(2) Lebensmittel, die den Vorschriften dieser Verordnung in der ab dem
-13\. November 2004 an geltenden Fassung nicht entsprechen, dürfen noch
-bis zum 24. November 2005 nach den bis zum 12. November 2004 geltenden
-Vorschriften gekennzeichnet und auch nach dem 24. November 2005 noch
-bis zum Aufbrauchen der Bestände in den Verkehr gebracht werden.
+1.  der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des
+    Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher
+    über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006
+    und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und
+    zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie
+    90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der
+    Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der
+    Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung
+    (EG) Nr. 608/2004 der Kommission (ABl. L 304 vom 22.11.2011, S. 18; L
+    331 vom 18.11.2014, S. 41; L 50 vom 21.2.2015, S. 48; L 266 vom
+    30\.9.2016, S. 7) in der jeweils geltenden Fassung oder
+
+
+2.  den auf die Verordnung (EU) Nr. 1169/2011 gestützten Rechtsakten der
+    Europäischen Union.
+
+
+
+
+(2) Werden Milcherzeugnisse in einer in § 4 der
+Lebensmittelinformations-Durchführungsverordnung geregelten Form der
+Abgabe in den Verkehr gebracht, so ist diese Verordnung nur
+vorbehaltlich des § 4 der Lebensmittelinformations-
+Durchführungsverordnung anzuwenden.
+
+(3) Soweit in dieser Verordnung auf die Lebensmittel-
+Kennzeichnungsverordnung oder Vorschriften der Lebensmittel-
+Kennzeichnungsverordnung verwiesen wird, ist die Lebensmittel-
+Kennzeichnungsverordnung in der bis zum 12. Juli 2017 geltenden
+Fassung weiter anzuwenden. Die Absätze 1 und 2 bleiben unberührt.
 
 
 ## § 8 Inkrafttreten
@@ -615,7 +576,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         b) hergestellt aus Milch oder Sahne unter Verwendung von mesophile
         Milchsäurebakterienkulturen, auch unter Erhöhung der Milchtrockenmasse
-        und/oder angereichert mit Milcheiweißerzeugnissen
+        und/oder angereichert mit Milcheiweißerzeugnissen, auch unter
+        Verwendung von Laktase
 
 
     *   1.
@@ -712,7 +674,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   9.
 
-    *   creme fraiche (Küchenrahm, Küchensahne)
+    *   crème fraîche (Küchenrahm, Küchensahne)
 
     *   9.
 
@@ -733,7 +695,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Erzeugnis hierfür spezifische thermophile Reifungskulturen, deren
         Wachstumsoptimum bei über 42 Grad C liegt, überwiegen müssen, auch
         unter Erhöhung der Milchtrockenmasse und/oder angereichert mit
-        Milcheiweißerzeugnissen
+        Milcheiweißerzeugnissen, auch unter Verwendung von Laktase
 
 
     *   1.
@@ -763,7 +725,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Joghurt aus entrahmter Milch (Magermilch joghurt)
+    *   Joghurt aus entrahmter Milch (Magermilchjoghurt)
 
     *   3.
 
@@ -835,7 +797,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         b) hergestellt aus Milch oder Sahne unter Verwendung von spezifischen
         Kefirknöllchen oder einer von diesen abgeleiteten Kultur, auch unter
         Erhöhung der Milchtrockenmasse und/oder angereichert mit
-        Milcheiweißerzeugnissen
+        Milcheiweißerzeugnissen, auch unter Verwendung von Laktase
 
 
     *   1.
@@ -944,7 +906,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         anfallendes flüssiges Erzeugnis, auch sauer oder nachträglich mit
         Milchsäurebakterienkulturen gesäuert, auch unter Erhöhung der
         Milchtrockenmasse und/oder angereichert mit Milcheiweißerzeugnissen,
-        auch unter Zusatz von Sahne
+        auch unter Zusatz von Sahne, auch unter Verwendung von Laktase
 
 
     *   1.
@@ -981,7 +943,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
         b) hergestellt aus Milch durch Abscheiden von Magermilch oder
         Einstellung des Fettgehaltes auf mindestens 10% Fett, auch
-        angereichert mit Milcheiweißerzeugnissen
+        angereichert mit Milcheiweißerzeugnissen, auch unter Verwendung von
+        Laktase
 
 
     *   1.
@@ -1156,9 +1119,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   1.
 
-    *   wie Spalte 1, IX b), jedoch ohne Verwendung von
-        Milchzuckererzeugnissen und Lactase, aus ungesäuerter Milch und/oder
-        Sahneerzeugnissen, mit höchstens 5% Wassergehalt
+    *   wie Spalte 1, IX b), jedoch ohne Verwendung von Lactase, aus
+        ungesäuerter Milch und/oder Sahneerzeugnissen, mit höchstens 5%
+        Wassergehalt
 
     *   mindestens 42,0
 
@@ -1170,7 +1133,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   2.
 
-    *   wie Nr. 1, jedoch aus Sahnejoghurt (Rahmjoghurt)
+    *   wie Nr. 1, jedoch aus Sahnejoghurt (Rahmjoghurt), auch unter
+        Verwendung von Laktase
 
     *   mindestens 42,0
 
@@ -1181,7 +1145,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   3.
 
-    *   wie Nr. 1, jedoch aus Sahnekefir (Rahmkefir)
+    *   wie Nr. 1, jedoch aus Sahnekefir (Rahmkefir), auch unter Verwendung
+        von Laktase
 
     *   mindestens 42,0
 
@@ -1203,7 +1168,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   5.
 
-    *   wie Nr. 1, jedoch aus Joghurt
+    *   wie Nr. 1, jedoch aus Joghurt, auch unter Verwendung von Laktase
 
     *   mindestens 26,0
 
@@ -1214,7 +1179,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   6.
 
-    *   wie Nr. 1, jedoch aus Kefir
+    *   wie Nr. 1, jedoch aus Kefir, auch unter Verwendung von Laktase
 
     *   mindestens 26,0
 
@@ -1236,7 +1201,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   8.
 
-    *   wie Nr. 1, jedoch aus fettarmem Joghurt
+    *   wie Nr. 1, jedoch aus fettarmem Joghurt, auch unter Verwendung von
+        Laktase
 
     *   mehr als 1,5 weniger als 26,0
 
@@ -1247,7 +1213,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   9.
 
-    *   wie Nr. 1, jedoch aus fettarmem Kefir
+    *   wie Nr. 1, jedoch aus fettarmem Kefir, auch unter Verwendung von
+        Laktase
 
     *   mehr als 1,5 weniger als 26,0
 
@@ -1269,7 +1236,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   11.
 
-    *   wie Nr. 1, jedoch aus Magermilchjoghurt
+    *   wie Nr. 1, jedoch aus Magermilchjoghurt, auch unter Verwendung von
+        Laktase
 
     *   höchstens 1,5
 
@@ -1280,7 +1248,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
     *   12.
 
-    *   wie Nr. 1, jedoch aus Magermilchkefir
+    *   wie Nr. 1, jedoch aus Magermilchkefir, auch unter Verwendung von
+        Laktase
 
     *   höchstens 1,5
 
@@ -1292,8 +1261,8 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
     *   13.
 
     *   wie Spalte 1, IX b), jedoch ohne Verwendung von
-        Milchzuckererzeugnissen und Lactase, aus Buttermilcherzeugnissen, mit
-        höchstens 7% Wassergehalt
+        Milchzuckererzeugnissen, aus Buttermilcherzeugnissen, mit höchstens 7%
+        Wassergehalt, auch unter Verwendung von Laktase
 
     *   höchstens 15,0
 
@@ -1486,136 +1455,37 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 *    *   3.
 
-    *   Säure-Nährkasein oder Nährkasein (Säurekasein)
+    *   (weggefallen)
 
-    *   3.
-
-    *   a)
-
-    *   wie Spalte 1, XII b), jedoch aus entrahmter Milch; durch Fällung mit
-        Hilfe von Säuren, Molke oder milchsäurebildenden Bakterienkulturen;
-        gewaschen und getrocknet
-
-    *   Wassergehalt, höchstens 10,0% m/m
-
-
-*    *   Milchproteingehalt in der Trockenmasse, mindestens 90% m/m
-
-
-*    *   davon Nährkaseingehalt, mindestens 95% m/m
-
-
-*    *   Milchfettgehalt in der Trockenmasse, höchstens 2,25% m/m
-
-
-*    *   titrierbare Säure, ausgedrückt in ml zehntelnormaler Natronlauge in g,
-        höchstens 0,27
-
-
-*    *
     *
-    *   b)
-
-    *   ohne Fremdgerüche; Farbe weiß bis cremeweiß; das Erzeugnis darf auch
-        keinerlei Klumpen enthalten, die leichtem Druck widerstehen; in reinem
-        Wasser unlöslich
-
-    *   Aschegehalt (einschl. P(tief)2 O(tief)5), höchstens 2,5% m/m
-
-
-*    *   wasserfreier Milchzucker, höchstens 1% m/m
-
-
-*    *   Sedimente (verbrannte Teilchen), höchstens 22,5 mg in 25 g
-
+    *
+    *
+    *
 
 *    *   4.
 
-    *   Labnährkasein oder Nährkasein (Labnährkasein)
+    *   (weggefallen)
 
-    *   4.
-
-    *   a)
-
-    *   wie Spalte 1, XII b), jedoch aus entrahmter Milch, durch Fällung mit
-        Hilfe von Lab oder sonstigen milchkoagulierenden Enzymen, gewaschen
-        und getrocknet
-
-    *   Wassergehalt, höchstens 10% m/m
-
-
-*    *   Milchproteingehalt in der Trockenmasse, mindestens 84% m/m
-
-
-*    *   davon Kaseingehalt, mindestens 95% m/m
-
-
-*    *   b)
-
-    *   wie Nr. 3 b)
-
-    *   Milchfettgehalt in der Trockenmasse, höchstens 2% m/m
-
-
-*    *   Aschegehalt (einschl. P(tief)2 O(tief)5), mindestens 7,50% m/m
-
-
-*    *   wasserfreier Milchzucker, höchstens 1% m/m
-
-
-*    *   Sedimente (verbrannte Teilchen), höchstens 22,5 mg in 25 g
-
+    *
+    *
+    *
+    *
 
 *    *   5.
 
-    *   Nährkaseinat oder aufgeschlossenes Milcheiweiß (Kaseinat)
+    *   (weggefallen)
 
-    *   5.
-
-    *   a)
-
-    *   wie Spalte 1, XII b), jedoch aus entrahmter Milch; durch Fällung mit
-        Hilfe von Säuren, Molke oder milchsäurebildenden Bakterienkulturen;
-        behandelt mit neutralisierenden Stoffen und Trocknung; oder aus
-        Kasein, das mit neutralisierenden Stoffen behandelt wurde
-
-    *   Wassergehalt höchstens 8% m/m
-
-
-*    *   Milchkaseingehalt in der Trockenmasse, mindestens 88% m/m
-
-
-*    *   Milchfettgehalt in der Trockenmasse, höchstens 2,0% m/m
-
-
-*    *   wasserfreier Milchzucker, höchstens 1,0% m/m
-
-
-*    *   pH-Wert 6 bis 8
-
-
-*    *   Sedimente (verbrannte Teilchen), höchstens 22,5 mg in 25 g
-
-
-*    *
-    *   b)
-
-    *   wie Nr. 3 b), jedoch sehr geringes Aroma und sehr geringe
-        Fremdgerüche, fast völlig löslich in destilliertem Wasser, ausgenommen
-        Calciumkaseinat
-
+    *
+    *
+    *
     *
 
 *    *   6.
 
-    *   Labkasein
+    *   (weggefallen)
 
-    *   6.
-
-    *   wie Spalte 1, XII b), aus entrahmter Milch durch Labeinwirkung
-        erhaltenes Erzeugnis mit mindestens 78% Eiweiß (Faktor 6,37); nicht
-        über 12% Wasser
-
+    *
+    *
     *
 
 *    *   7.
@@ -1650,7 +1520,7 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         Füllmenge des Fertigerzeugnisses, zur Herstellung im Automaten auch
         ganz oder teilweise getrocknet, ausgenommen: Speiseeis,
         Halberzeugnisse für Speiseeis, Puddings, Milchreis, Cremes, Soßen,
-        Suppen
+        Suppen, auch unter Verwendung von Laktase
 
 
     *   1.
@@ -1792,8 +1662,9 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 - Anlage 1a: Aufgeh. durch Art. 18 Nr. 6 V v. 8.8.2007 I 1816 mWv
 15\.8.2007
 
+(zu § 5 Abs. 1)
 
-## Anlage 2 (zu § 5 Abs. 1) Zugelassene Zusatzstoffe
+## Anlage 2 Zugelassene Zusatzstoffe
 
 
 1.  Die in § 1a Abs. 1 der Verordnung über vitaminisierte Lebensmittel
@@ -1824,8 +1695,12 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 
+(zu § 5b Abs. 1)
 
-## Anlage 3 (zu § 5b Abs. 1) Analysenmethoden
+## Anlage 3 Analysenmethoden
+
+(Fundstelle: BGBl. I 1987, 2452 u. 2453
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 Die anzuwendende Methode ist aus der nachstehenden Aufstellung zu
 ersehen. Die Beschreibung der Analysenmethoden ergibt sich aus der
@@ -1856,12 +1731,12 @@ Amtlichen Sammlung von Verfahren zur Probenahme und Untersuchung nach
 
 
 *    *
-        2.  Fettgehalt und 3 (EG)
+        2.  Fettgehalt
 
 
 
 
-    *   L 02.06.E (EG)
+    *   L 02.06.E (EG) und 3 (EG)
 
     *   Januar 1981
 
@@ -1982,154 +1857,23 @@ Amtlichen Sammlung von Verfahren zur Probenahme und Untersuchung nach
     *   Mai 1988
 
 
-*    *   IV. Säurekasein
+*    *   IV. (weggefallen)
 
     *
-        1.  Wassergehalt
+    *
+    *
 
-
-
-
-    *   L 02.09-4
-
-    *   Mai 1986
-
-
-*    *
-        2.  Eiweißgehalt
-
-
-
-
-    *   L 02.09-5
-
-    *   Mai 1986
-
-
-*    *
-        3.  titrierbare Säure
-
-
-
-
-    *   L 02.09-1
-
-    *   Mai 1986
-
-
-*    *
-        4.  Asche (P(tief)2O(tief)5 eingeschlossen)
-
-
-
-
-    *   L 02.09-2
-
-    *   Mai 1986
-
-
-*    *
-        5.  Probenahme
-
-
-
-
-    *   L 02.09-7 (EG)
-
-    *   März 1987
-
-
-*    *   V. Labkasein
+*    *   V. (weggefallen)
 
     *
-        1.  Wassergehalt
+    *
+    *
 
-
-
-
-    *   L 02.09-4
-
-    *   Mai 1986
-
-
-*    *
-        2.  Eiweißgehalt
-
-
-
-
-    *   L 02.09-5
-
-    *   Mai 1986
-
-
-*    *
-        3.  Asche (P(tief)2O(tief)5 eingeschlossen)
-
-
-
-
-    *   L 02.09-3
-
-    *   Mai 1986
-
-
-*    *
-        4.  Probenahme
-
-
-
-
-    *   L 02.09-7 (EG)
-
-    *   März 1987
-
-
-*    *   VI. Kaseinat
+*    *   VI. (weggefallen)
 
     *
-        1.  Wassergehalt
-
-
-
-
-    *   L 02.09-4
-
-    *   Mai 1986
-
-
-*    *
-        2.  Eiweißgehalt
-
-
-
-
-    *   L 02.09-5
-
-    *   Mai 1986
-
-
-*    *
-        3.  pH-Wert
-
-
-
-
-    *   L 02.09-6
-
-    *   Juni 1986
-
-
-*    *
-        4.  Probenahme
-
-
-
-
-    *   L 02.09-7 (EG)
-
-    *   März 1987
-
+    *
+    *
 
 *    *   ---------
 

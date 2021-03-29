@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2011, 1843
 
+Zuletzt geändert durch
+:   Art. 4 V v. 25.11.2016 I 2659
+
 
 ## Eingangsformel
 
@@ -26,8 +29,9 @@ verordnet das Bundesministerium für Arbeit und Soziales:
 
 ## § 1 Sachlicher Geltungsbereich
 
-Die Verordnung gilt für folgende Angebote der Behörden der
-Bundesverwaltung:
+Die Verordnung gilt für folgende Angebote der Träger öffentlicher
+Gewalt im Sinne des § 1 Absatz 2 Satz 1 des
+Behindertengleichstellungsgesetzes:
 
 1.  Internetauftritte und -angebote,
 
@@ -35,17 +39,18 @@ Bundesverwaltung:
 2.  Intranetauftritte und -angebote, die öffentlich zugänglich sind, und
 
 
-3.  mittels Informationstechnik realisierte grafische Programmoberflächen,
-    die öffentlich zugänglich sind.
+3.  mittels Informationstechnik realisierte grafische Programmoberflächen
+    einschließlich Apps und sonstige Anwendungen für mobile Endgeräte, die
+    öffentlich zugänglich sind.
 
 
 
 
 
-## § 2 Einzubeziehende Gruppen behinderter Menschen
+## § 2 Einzubeziehende Gruppen von Menschen mit Behinderungen
 
 Die Gestaltung der in § 1 genannten Angebote der Informationstechnik
-ist dazu bestimmt, behinderten Menschen im Sinne des § 3 des
+ist dazu bestimmt, Menschen mit Behinderungen im Sinne des § 3 des
 Behindertengleichstellungsgesetzes, denen ohne die Erfüllung
 zusätzlicher Bedingungen die Nutzung der Informationstechnik nur
 eingeschränkt möglich ist, den Zugang dazu zu eröffnen.
@@ -61,10 +66,10 @@ Priorität II aufgeführten Anforderungen und Bedingungen
 berücksichtigen.
 
 (2) Auf der Startseite des Internet- oder Intranetangebotes (§ 1
-Nummer 1 und 2) einer Behörde im Sinne des § 7 Absatz 1 Satz 1 des
-Behindertengleichstellungsgesetzes sind gemäß Anlage 2 folgende
-Erläuterungen in Deutscher Gebärdensprache und in Leichter Sprache
-bereitzustellen:
+Nummer 1 und 2) eines Trägers öffentlicher Gewalt im Sinne des § 1
+Absatz 2 Satz 1 des Behindertengleichstellungsgesetzes sind gemäß
+Anlage 2 folgende Erläuterungen in Deutscher Gebärdensprache und in
+Leichter Sprache bereitzustellen:
 
 1.  Informationen zum Inhalt,
 
@@ -79,44 +84,19 @@ bereitzustellen:
 
 Die Anforderungen und Bedingungen der Anlage 1 bleiben unberührt.
 
-
-## § 4 Umsetzungsfristen für die Standards
-
-(1) Die in § 1 genannten Angebote, die bis zum 22. März 2012 neu
-gestaltet oder in wesentlichen Bestandteilen oder größerem Umfang
-verändert oder angepasst werden, sind nach § 3 zu erstellen.
-Mindestens ein Zugangspfad zu den genannten Angeboten soll mit der
-Freischaltung dieser Angebote die Anforderungen und Bedingungen der
-Priorität I der Anlage 1 erfüllen.
-
-(2) Angebote nach § 1 Nummer 1 und 2, die vor dem in Absatz 1 Satz 1
-genannten Stichtag veröffentlicht wurden, sind spätestens bis zum 22.
-September 2012 nach § 3 Absatz 1 zu gestalten. Sie sind zusätzlich
-spätestens bis zum 22. März 2014 nach § 3 Absatz 2 zu gestalten.
-
-(3) Für Angebote nach Absatz 2 gilt bis zur Umsetzung im Sinne der
-Absätze 1 und 2 die Barrierefreie-Informationstechnik-Verordnung vom
-17\. Juli 2002 (BGBl. I S. 2654) fort.
+(3) Das Informationstechnikzentrum Bund berät und unterstützt die
+Träger öffentlicher Gewalt bei ihrer Aufgabe, ihre Internet- und
+Intranetangebote nach Maßgabe dieser Rechtsverordnung zugänglich zu
+gestalten.
 
 
-## § 5 Folgenabschätzung
+## § 4 Folgenabschätzung
 
-(1) Die Verordnung ist unter Berücksichtigung der technischen
-Entwicklung regelmäßig zu überprüfen. Sie wird spätestens drei Jahre
-nach ihrem Inkrafttreten auf ihre Wirkung hin überprüft.
-
-(2) Wirkung und Notwendigkeit der in § 3 Absatz 2 genannten Angebote
-werden spätestens drei Jahre nach ihrem Inkrafttreten überprüft.
+Die Verordnung ist unter Berücksichtigung der technischen Entwicklung
+regelmäßig zu überprüfen.
 
 
-## § 6 Inkrafttreten, Außerkrafttreten
-
-Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
-Gleichzeitig tritt die Barrierefreie Informationstechnik-Verordnung
-vom 17. Juli 2002 (BGBl. I S. 2654) außer Kraft.
-
-
-## Anlage 1 (zu § 3 und § 4 Absatz 1)
+## Anlage 1 (zu § 3 Absatz 1)
 
 (Fundstelle: BGBl. I 2011, 1845 - 1858)
 
@@ -1158,8 +1138,8 @@ diesem Grenzwert, wenn einer der beiden folgenden Punkte zutrifft:
 –   Der zusammenhängende Bereich von gleichzeitig auftauchenden Blitzen
     belegt nicht mehr als die Gesamtsumme von 0,006 Steradianten innerhalb
     eines Gesichtsfeldes von 10 Grad auf dem Bildschirm (25 % beliebiger
-    10-Grad-Sichtfelder                    auf dem Bildschirm) bei einem
-    für die Betrachtung eines Bildschirms typischen Abstand.
+    10-Grad-Sichtfelder auf dem Bildschirm) bei einem für die Betrachtung
+    eines Bildschirms typischen Abstand.
 
     Dabei gelten folgende Definitionen:
 
@@ -1458,52 +1438,50 @@ zu 1 für den hellsten weißen Punkt.
 
 Im standardmäßigen Rot-Grün-Blau-Farbraum (sRGB-Farbraum) ist die
 relative Luminanz definiert als
-L = 0,2126 \* **R**              + 0,7152 \* **G**              +
-0,0722 \* **B**
+L = 0,2126 \* **R** + 0,7152 \* **G** + 0,0722 \* **B**
 
-Dabei sind **R**             , **G**              und **B**
-wie folgt definiert:
+Dabei sind **R**, **G** und **B** wie folgt definiert:
 
 –   wenn R
-    sRGB                    <= 0,03928 dann **R**                    = R
-    sRGB                    / 12,92 sonst **R**                    = [(R
-    sRGB                    + 0,055) / 1,055]
+    sRGB <= 0,03928 dann **R** = R
+    sRGB / 12,92 sonst **R** = [(R
+    sRGB + 0,055) / 1,055]
     2\.4
 
 
 –   wenn G
-    sRGB                    <= 0,03928 dann **G**                    = G
-    sRGB                    / 12,92 sonst **G**                    = [(G
-    sRGB                    + 0,055) / 1,055]
+    sRGB <= 0,03928 dann **G** = G
+    sRGB / 12,92 sonst **G** = [(G
+    sRGB + 0,055) / 1,055]
     2\.4
 
 
 –   wenn B
-    sRGB                    <= 0,03928 dann **B**                    = B
-    sRGB                    / 12,92 sonst **B**                    = [(B
-    sRGB                    + 0,055) / 1,055]
+    sRGB <= 0,03928 dann **B** = B
+    sRGB / 12,92 sonst **B** = [(B
+    sRGB + 0,055) / 1,055]
     2\.4
 
 
 
 und dabei R
-sRGB             , G
-sRGB             , und B
-sRGB              definiert sind als:
+sRGB, G
+sRGB, und B
+sRGB definiert sind als:
 
 –   R
-    sRGB                    = R
-    8bit                    / 255
+    sRGB = R
+    8bit / 255
 
 
 –   G
-    sRGB                    = G
-    8bit                    / 255
+    sRGB = G
+    8bit / 255
 
 
 –   B
-    sRGB                    = B
-    8bit                    / 255.
+    sRGB = B
+    8bit / 255.
 
 
 
@@ -1612,7 +1590,7 @@ werden.
 Ein Drehbuch, das für die Erstellung synchronisierter Medien verwendet
 wird, ist von dieser Definition nur dann umfasst, wenn es entsprechend
 dem endgültigen
-synchonisierten              Medium nach Bearbeitung korrigiert wurde.
+synchonisierten Medium nach Bearbeitung korrigiert wurde.
 
 **Webseite**
 
@@ -1644,9 +1622,10 @@ damit das Verständnis bei den Nutzerinnen und Nutzern zu erhöhen.
 Ergebnis, das durch Aktivierung eines Hyperlinks erreicht wird.
 
 
-## Anlage 2 (zu § 3 Absatz 2 und § 4 Absatz 1)
+## Anlage 2 (zu § 3 Absatz 2)
 
-(Fundstelle: BGBl. I 2011, 1859)
+(Fundstelle: BGBl. I 2011, 1859;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 ## Teil 1
 

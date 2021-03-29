@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2006, 66
 
 Zuletzt geändert durch
-:   Art. 9 V v. 23.7.2010 I 1010
+:   Art. 15 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -726,8 +726,9 @@ Ende geführt werden.
 
 Diese Verordnung tritt am 1. Februar 2006 in Kraft.
 
+(zu § 9 Abs. 5)
 
-## Anlage 1 (zu § 9 Abs. 5) Muster
+## Anlage 1 Muster
 
 (Fundstelle: BGBl. I 2006, 72;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -748,16 +749,21 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Technischer Fachwirt/Geprüfte Technische Fachwirtin vom 17. Januar
 2006
-(BGBl. I S. 66), die zuletzt durch Artikel 9 der Verordnung vom 23.
-Juli 2010
-(BGBl. I S. 1010) geändert worden ist,
+(BGBl. I S. 66), die zuletzt durch Artikel 15 der Verordnung vom 26.
+März 2014
+(BGBl. I S. 274) geändert worden ist,
 bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
 
+(zu § 9 Abs. 5)
 
-## Anlage 2 (zu § 9 Abs. 5) Muster
+## Anlage 2 Muster
 
 (Fundstelle: BGBl. I 2006, 73;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -778,9 +784,9 @@ gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 Geprüfter
 Technischer Fachwirt/Geprüfte Fachwirtin vom 17. Januar 2006 (BGBl. I
 S. 66),
-die zuletzt durch Artikel 9 der Verordnung vom 23. Juli 2010
-(BGBl. I S. 1010) geändert worden ist, mit folgenden Ergebnissen
-bestanden:
+die zuletzt durch Artikel 15 der Verordnung vom 26. März 2014 (BGBl. I
+S. 274)
+geändert worden ist, mit folgenden Ergebnissen bestanden:
 Punkte \*)    Note
 1\.  Wirtschafsbezogene Qualifikationen
 .........
@@ -804,9 +810,13 @@ wurde
 nach § 8 im Hinblick auf die am .......... in .......... vor
 ..........
 abgelegte Prüfung vom Prüfungsbestandteil .......... freigestellt.“)
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
-(Siegel der zuständigen Stelle)             -----
+(Siegel der zuständigen Stelle)-----
 
 \*) Den Bewertungen liegt folgender Punkteschlüssel zu Grunde:
     .............

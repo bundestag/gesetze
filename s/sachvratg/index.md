@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1963, 685
 
 Zuletzt geändert durch
-:   Art. 128 V v. 31.10.2006 I 2407
+:   Art. 249 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -119,7 +119,7 @@ Bundesregierung kann den Sachverständigenrat mit der Erstattung
 weiterer Gutachten beauftragen. Der Sachverständigenrat leitet
 Gutachten nach Satz 1 und 2 der Bundesregierung zu und veröffentlicht
 sie; hinsichtlich des Zeitpunktes der Veröffentlichung führt er das
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie
 herbei.
 
 
@@ -181,8 +181,8 @@ gegeben und als vertraulich bezeichnet werden.
 
 (1) Die Mitglieder des Sachverständigenrates erhalten eine pauschale
 Entschädigung sowie Ersatz ihrer Reisekosten. Diese werden vom
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium des Innern festgesetzt.
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium des Innern festgesetzt.
 
 (2) Die Kosten des Sachverständigenrates trägt der Bund.
 

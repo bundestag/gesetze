@@ -5,7 +5,7 @@ Title: Staatsvertrag zwischen dem Land Hessen und dem Land Nordrhein-Westfalen �
   Nordrhein-Westfalen über Änderungen der gemeinsamen Landesgrenze)
 jurabk: GrÄndStVtr HE/NW
 layout: default
-origslug: gr_ndstvtr_he_nw
+origslug: graendstvtr_he_nw
 slug: graendstvtr_he_nw
 
 ---
@@ -60,8 +60,8 @@ Staatsvertrages.
     a)  vom Land Hessen auf das Land Nordrhein-Westfalen
 
         in der Gemarkung Kohlgrund, Flur 6, die Flurstücke:
-        44/1,                          45/1, 46/1, 47/1, 51/1, 51/5, 51/6,
-        51/11, 51/8, 51/9, 52/2, 53/1, 53/2, 54, 60/2.
+        44/1, 45/1, 46/1, 47/1, 51/1, 51/5, 51/6, 51/11, 51/8, 51/9, 52/2,
+        53/1, 53/2, 54, 60/2.
 
 
     b)  vom Land Nordrhein-Westfalen auf das Land Hessen
@@ -79,16 +79,15 @@ Staatsvertrages.
 
     in der Gemarkung Stormbruch, Flur 3, die Flurstücke: 66/4, 66/5, 69/3,
     70/1, 70/2, 70/3, 72/3,
-    73/1,                    74/13, 74/15,
-    74/16,                    74/17, 74/18, 76/3, 77, 78, 79, 80/1, 80/2,
-    81/4,
-    83/1,                    84/5, 86/4, 86/6,
-    87/16,                    87/29, 88/8, 89/4, 92/4,
-    93/4,                    95/3, 98/4,
-    99/5,                    99/6, 101/5, 102/2, 103/10, 103/11, 103/12,
-    103/13, 103/14, 107/4, 251/95, 87/17, 87/19, 86/5, 249/5, 87/27,
-    87/26, 87/25, 144/1, 259/13, 249/6, 89/1,
-    87/6                   .
+    73/1, 74/13, 74/15,
+    74/16, 74/17, 74/18, 76/3, 77, 78, 79, 80/1, 80/2, 81/4,
+    83/1, 84/5, 86/4, 86/6,
+    87/16, 87/29, 88/8, 89/4, 92/4,
+    93/4, 95/3, 98/4,
+    99/5, 99/6, 101/5, 102/2, 103/10, 103/11, 103/12, 103/13, 103/14,
+    107/4, 251/95, 87/17, 87/19, 86/5, 249/5, 87/27, 87/26, 87/25, 144/1,
+    259/13, 249/6, 89/1,
+    87/6.
 
 
 

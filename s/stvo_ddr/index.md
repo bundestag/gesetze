@@ -206,8 +206,9 @@ kann mit Ordnungsstrafe bis zu 1.000 M belegt werden.
 ### (XXXX) Anlage 1 bis 3 (weggefallen)
 
 
+Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III
 
-### Anhang EV Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III (BGBl. II 1990, 885, 1223)
+### Anhang EV (BGBl. II 1990, 885, 1223)
 
 Abschnitt III
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit

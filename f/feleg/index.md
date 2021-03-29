@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1989, 233
 
 Zuletzt geändert durch
-:   Art. 6 G v. 12.4.2012 I 579
+:   Art. 441 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -125,12 +125,12 @@ Erstaufforstung steht hinsichtlich der Mindeststillegungsdauer der
 Stillegung nach diesem Gesetz gleich.
 
 (4) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz Näheres über die Voraussetzungen, unter denen eine
-Fläche als stillgelegt gilt, insbesondere auch über zulässige
-Pflegemaßnahmen durch Rechtsverordnung mit Zustimmung des Bundesrates
-bestimmen. Dabei sind die Belange des Umwelt- und Naturschutzes, der
-Landschaftspflege und der Raumordnung zu beachten.
+mit dem Bundesministerium für Ernährung und Landwirtschaft Näheres
+über die Voraussetzungen, unter denen eine Fläche als stillgelegt
+gilt, insbesondere auch über zulässige Pflegemaßnahmen durch
+Rechtsverordnung mit Zustimmung des Bundesrates bestimmen. Dabei sind
+die Belange des Umwelt- und Naturschutzes, der Landschaftspflege und
+der Raumordnung zu beachten.
 
 
 ### § 3 Abgabe von Flächen
@@ -917,8 +917,8 @@ endet. § 9 Abs. 1 Satz 2 gilt entsprechend.
 Dieses Gesetz wird von der landwirtschaftlichen Alterskasse
 durchgeführt. Sie unterliegt bei der Ausführung des Gesetzes den
 Weisungen des Bundesministeriums für Arbeit und Soziales, die im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz erteilt werden.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft erteilt werden.
 
 
 ### § 18 Anwendung sonstiger Vorschriften
@@ -949,16 +949,16 @@ des Ersten Abschnittes betreten und dort Prüfungs- und
 Vorliegens der Voraussetzungen einer Maßnahme nach § 2 notwendig ist.
 
 (3) Das Bundesministerium für Arbeit und Soziales kann im Einvernehmen
-mit dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz durch Rechtsverordnung mit Zustimmung des
-Bundesrates Näheres über die Zusammenarbeit der durchführenden Stellen
-mit den zuständigen Behörden der Länder zur Sicherstellung der
-Durchführung dieses Gesetzes, insbesondere bei der Überprüfung des
-Vorliegens der Voraussetzungen, unter denen eine landwirtschaftliche
-Fläche als stillgelegt oder abgegeben gilt, bestimmen. Dabei kann die
-Überprüfung des Vorliegens der Voraussetzungen, unter denen eine
-landwirtschaftliche Fläche als stillgelegt oder abgegeben gilt,
-unmittelbar den zuständigen Behörden der Länder übertragen werden.
+mit dem Bundesministerium für Ernährung und Landwirtschaft durch
+Rechtsverordnung mit Zustimmung des Bundesrates Näheres über die
+Zusammenarbeit der durchführenden Stellen mit den zuständigen Behörden
+der Länder zur Sicherstellung der Durchführung dieses Gesetzes,
+insbesondere bei der Überprüfung des Vorliegens der Voraussetzungen,
+unter denen eine landwirtschaftliche Fläche als stillgelegt oder
+abgegeben gilt, bestimmen. Dabei kann die Überprüfung des Vorliegens
+der Voraussetzungen, unter denen eine landwirtschaftliche Fläche als
+stillgelegt oder abgegeben gilt, unmittelbar den zuständigen Behörden
+der Länder übertragen werden.
 
 (4) Streitigkeiten in Angelegenheiten dieses Gesetzes sind
 Streitigkeiten in Angelegenheiten der Sozialversicherung.

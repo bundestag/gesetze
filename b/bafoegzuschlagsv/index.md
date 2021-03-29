@@ -3,7 +3,7 @@ Title: Verordnung über die Zuschläge zu dem Bedarf nach dem Bundesausbildungsf
   bei einer Ausbildung im Ausland
 jurabk: BAföGZuschlagsV
 layout: default
-origslug: baf_gzuschlagsv
+origslug: bafoegzuschlagsv
 slug: bafoegzuschlagsv
 
 ---

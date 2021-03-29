@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1968, 228
 
 Neugefasst durch
-:   Bek. v. 23.9.1997 I 2349
+:   Bek. v. 23.9.1997 I 2349;
 
 Zuletzt geändert durch
-:   Art. 43 G v. 6.12.2011 I 2515
+:   Art. 12 G v. 18.4.2016 I 886
 
 
 ## § 1
@@ -69,6 +69,14 @@ eine Gleichstellung ergibt.
 
 
 
+Wird die Voraussetzung nach Satz 1 Nummer 4 auf eine Ausbildung
+gestützt, die außerhalb des Geltungsbereichs dieses Gesetzes
+abgeschlossen worden ist, sollen die Voraussetzungen der
+Gleichwertigkeit der Berufsqualifikation nach den Absätzen 2, 3 oder 4
+vor den Voraussetzungen nach Satz 1 Nummer 2, 3 und 5 geprüft werden.
+Auf Antrag ist dem Antragsteller ein gesonderter Bescheid über die
+Feststellung der Gleichwertigkeit seiner Berufsqualifikation zu
+erteilen.
 
 (2) Eine außerhalb des Geltungsbereichs dieses Gesetzes erworbene
 abgeschlossene Ausbildung erfüllt die Voraussetzungen des Absatzes 1
@@ -104,68 +112,98 @@ ihnen bei ihnen anerkannt, wenn
 
 
 
-Ist die Gleichwertigkeit des Ausbildungsstandes nach den Sätzen 1 bis
-3 nicht gegeben oder ist eine Prüfung der Gleichwertigkeit des
-Ausbildungsstandes nur mit unangemessenem zeitlichen oder sachlichen
-Aufwand möglich, weil die erforderlichen Unterlagen und Nachweise aus
-Gründen, die nicht in der Person der Antragsteller liegen, von diesen
-nicht vorgelegt werden können, ist ein gleichwertiger Kenntnisstand
-nachzuweisen. Dieser Nachweis wird durch eine Kenntnisprüfung, die
-sich auf den Inhalt der staatlichen Abschlussprüfung erstreckt, oder
-einen höchstens dreijährigen Anpassungslehrgang erbracht, der mit
-einer Prüfung über den Inhalt des Anpassungslehrgangs abschließt. Die
-Antragsteller haben das Recht, zwischen der Kenntnisprüfung und dem
-Anpassungslehrgang zu wählen.
+Für die Prüfung der Gleichwertigkeit des Ausbildungsstandes gilt
+Absatz 3 Satz 5 bis 7 entsprechend. Ist die Gleichwertigkeit des
+Ausbildungsstandes nach den Sätzen 1 bis 3 nicht gegeben oder ist eine
+Prüfung der Gleichwertigkeit des Ausbildungsstandes nur mit
+unangemessenem zeitlichen oder sachlichen Aufwand möglich, weil die
+erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der
+Person der Antragsteller liegen, von diesen nicht vorgelegt werden
+können, ist ein gleichwertiger Kenntnisstand nachzuweisen. Dieser
+Nachweis wird durch eine Kenntnisprüfung, die sich auf den Inhalt der
+staatlichen Abschlussprüfung erstreckt, oder einen höchstens
+dreijährigen Anpassungslehrgang erbracht, der mit einer Prüfung über
+den Inhalt des Anpassungslehrgangs abschließt. Die Antragsteller haben
+das Recht, zwischen der Kenntnisprüfung und dem Anpassungslehrgang zu
+wählen.
 
-(3) Die Voraussetzung des Absatzes 1 Nr. 4 gilt als erfüllt, wenn der
-Antragsteller
+(3) Für Antragsteller, die eine Erlaubnis nach § 1 Absatz 1 anstreben,
+gilt die Voraussetzung des Absatzes 1 Nummer 4 als erfüllt, wenn aus
+einem Europäischen Berufsausweis oder aus einem in einem anderen
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+erworbenen Diplom hervorgeht, dass der Inhaber eine Ausbildung
+erworben hat, die in diesem Staat für den unmittelbaren Zugang zu
+einem dem Beruf des pharmazeutisch-technischen Assistenten
+entsprechenden Beruf erforderlich ist. Diplome im Sinne dieses
+Gesetzes sind Ausbildungsnachweise gemäß Artikel 3 Absatz 1 Buchstabe
+c der Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates
+vom 7. September 2005 über die Anerkennung von Berufsqualifikationen
+(ABl. L 255 vom 30.9.2005, S. 22, L 354 vom 20.12.2013, S. 132) in der
+jeweils geltenden Fassung, die mindestens dem in Artikel 11 Buchstabe
+b der Richtlinie 2005/36/EG genannten Niveau entsprechen und denen
+eine Bescheinigung des Herkunftsmitgliedstaats über das
+Ausbildungsniveau beigefügt ist. Satz 2 gilt auch für einen
+Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen,
+die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt
+wurden, sofern sie eine in der Gemeinschaft erworbene abgeschlossene
+Ausbildung, die den Anforderungen des Artikels 12 Absatz 1 der
+Richtlinie 2005/36/EG entspricht, bescheinigen und in Bezug auf die
+Aufnahme oder die Ausübung des Berufs des pharmazeutisch-technischen
+Assistenten dieselben Rechte verleihen oder auf die Ausübung des
+Berufs des pharmazeutisch-technischen Assistenten vorbereiten. Satz 2
+gilt ferner für Berufsqualifikationen, die zwar nicht den
+Erfordernissen der Rechts- und Verwaltungsvorschriften des
+Herkunftsmitgliedstaats für Aufnahme und Ausübung des Berufs des
+pharmazeutisch-technischen Assistenten entsprechen, ihrem Inhaber
+jedoch nach dem Recht des Herkunftsmitgliedstaats erworbene Rechte
+nach den dort maßgeblichen Vorschriften verleihen. Antragsteller mit
+einem Ausbildungsnachweis aus einem Vertragsstaat des Europäischen
+Wirtschaftsraums haben einen höchstens dreijährigen Anpassungslehrgang
+zu absolvieren oder eine Eignungsprüfung abzulegen, wenn
 
-1.  in einem anderen Mitgliedstaat der Europäischen Union oder in einem
-    anderen Vertragsstaat des Abkommens über den Europäischen
-    Wirtschaftsraum oder in einem Vertragsstaat, dem Deutschland und die
-    Europäische Union vertraglich einen entsprechenden Rechtsanspruch
-    eingeräumt haben, eine Ausbildung abgeschlossen hat, die in diesem
-    Staat zur Ausübung eines dem Beruf des pharmazeutisch-technischen
-    Assistenten entsprechenden Berufes befähigt, und dies durch Vorlage
-    eines in dem betreffenden Mitglied- oder Vertragsstaat ausgestellten
-    Ausbildungsnachweises, der den Mindestanforderungen des Artikels 13
-    Abs. 1 in Verbindung mit Artikel 11 Buchstabe c und Artikel 12 der
-    Richtlinie 2005/36/EG des Europäischen Parlaments und des Rates vom 7.
-    September 2005 über die Anerkennung von Berufsqualifikationen (ABl. EU
-    Nr. L 255 S. 22, 2007 Nr. L 271 S. 18) entspricht, nachweist oder
+1.  die Ausbildung des Antragstellers hinsichtlich der beruflichen
+    Tätigkeit Fächer oder Bereiche der praktischen Ausbildung umfasst, die
+    sich wesentlich von denen unterscheiden, die durch die Ausbildung nach
+    diesem Gesetz und der Ausbildungsverordnung für pharmazeutisch-
+    technische Assistentinnen und pharmazeutisch-technische Assistenten
+    vorgeschrieben sind, oder
 
 
-2.  Ausbildungsnachweise nach Artikel 13 Absatz 2 der genannten Richtlinie
-    vorlegt, wenn er einem dem Beruf des pharmazeutisch-technischen
-    Assistenten entsprechenden Beruf in den vorhergehenden Jahren
-    mindestens zwei Jahre lang ausgeübt hat,
+2.  der Beruf des pharmazeutisch-technischen Assistenten eine oder mehrere
+    reglementierte Tätigkeiten umfasst, die im Herkunftsstaat des
+    Antragstellers nicht Bestandteil des Berufs sind, der dem des
+    pharmazeutisch-technischen Assistenten entspricht, und wenn sich die
+    Ausbildung für diese Tätigkeiten auf Fächer oder Bereiche der
+    praktischen Ausbildung nach diesem Gesetz und der Ausbildungs- und
+    Prüfungsverordnung für pharmazeutisch-technische Assistentinnen und
+    pharmazeutisch-technische Assistenten bezieht, die sich wesentlich von
+    denen unterscheiden, die von der Ausbildung des Antragstellers
+    abgedeckt sind.
 
 
 
-und er, sofern seine bisherige Ausbildung sich hinsichtlich der
-theoretischen und praktischen Fachgebiete wesentlich von den
-Voraussetzungen des Absatzes 1 Nr. 4 unterscheidet und auch die
-während seiner beruflichen Tätigkeit erworbenen Kenntnisse die
-wesentlichen Unterschiede gemäß Artikel 14 Abs. 1 Buchstabe b der
-genannten Richtlinie nicht vollständig abdecken, nach seiner Wahl
-entweder einen Anpassungslehrgang absolviert oder sich einer
-Eignungsprüfung unterzogen hat. Wenn der Antragsteller weder ein
-Diplom noch ein Prüfungszeugnis noch Ausbildungsnachweise nach Satz 1
-besitzt, gilt die Voraussetzung des Absatzes 1 Nr. 4 als erfüllt, wenn
-er den betreffenden Beruf in den vorangegangenen zehn Jahren
-mindestens drei Jahre lang in einem anderen Mitglied- oder
-Vertragsstaat, der diesen Beruf nicht reglementiert, ausgeübt und
-einen Anpassungslehrgang absolviert hat. Die Anpassungslehrgänge
-dürfen die Dauer von zwei Jahren nicht überschreiten.
+Fächer oder Bereiche der praktischen Ausbildung unterscheiden sich
+wesentlich, wenn die nachgewiesene Ausbildung des Antragstellers
+wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse und
+Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die
+Ausübung des Berufs des pharmazeutisch-technischen Assistenten in
+Deutschland sind. Wesentliche Unterschiede können ganz oder teilweise
+durch Kenntnisse oder Fähigkeiten ausgeglichen werden, die der
+Antragsteller im Rahmen seiner tatsächlichen und rechtmäßigen Ausübung
+des Berufs des pharmazeutisch-technischen Assistenten in Voll- und
+Teilzeit oder durch lebenslanges Lernen erworben hat, sofern die durch
+lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von einer
+dafür in dem jeweiligen Staat zuständigen Stelle formell als gültig
+anerkannt wurden; dabei ist nicht entscheidend, in welchem Staat diese
+Kenntnisse und Fähigkeiten erworben worden sind. Die Antragsteller
+haben das Recht, zwischen dem Anpassungslehrgang und der
+Eignungsprüfung zu wählen.
 
-(4) Liegen die Voraussetzungen für die Teilnahme des Antragstellers an
-einer Eignungsprüfung oder an einem Anpassungslehrgang nach Absatz 3
-Satz 1 Nr. 2 vor, ist von der zuständigen Behörde zu überprüfen, ob
-die von ihm während seiner beruflichen Tätigkeit erworbenen Kenntnisse
-wesentliche Unterschiede gemäß Artikel 14 Abs. 1 Buchstabe b der
-Richtlinie 2005/36/EG zwischen den Anforderungen an die Ausbildung und
-seinem Ausbildungsstand teilweise abdecken und ihm angerechnet werden
-können.
+(4) Für Antragsteller, die über einen Ausbildungsnachweis verfügen,
+der dem in Artikel 11 Buchstabe a der Richtlinie 2005/36/EG genannten
+Niveau entspricht, gilt Absatz 3 Satz 5 mit der Maßgabe, dass die
+erforderliche Ausgleichsmaßnahme abweichend von Absatz 3 Satz 8 aus
+einer Eignungsprüfung besteht.
 
 (4a) Die Absätze 2 bis 4 gelten entsprechend für Drittstaatdiplome,
 für deren Anerkennung sich nach dem Recht der Europäischen
@@ -218,6 +256,104 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
+
+
+## § 2b
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf oder die Rücknahme der Erlaubnis nach § 1, die sofort
+    vollziehbar oder unanfechtbar sind,
+
+
+2.  den Verzicht auf die Erlaubnis,
+
+
+3.  das Verbot der Ausübung des Berufs des pharmazeutisch-technischen
+    Assistenten durch unanfechtbare gerichtliche Entscheidung oder
+
+
+4.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1 oder Nummer 3, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 4 oder nach einem Verzicht nach Absatz 1 Nummer 2. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Erlaubnis oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## § 3
@@ -284,7 +420,8 @@ eine Erlaubnis nach § 2 Abs. 1 in Verbindung mit § 2 Abs. 2 Satz 2 und
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 1
     bis 3, insbesondere die Vorlage der vom Antragsteller vorzulegenden
     Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
-    den Artikeln 50 und 51 der Richtlinie 2005/36/EG,
+    Artikel 50 Absatz 1 bis 3a der Richtlinie 2005/36/EG und Artikel 51
+    der Richtlinie 2005/36/EG,
 
 
 2.  die Pflicht von Ausbildungsnachweisinhabern, nach Maßgabe des Artikels
@@ -301,7 +438,10 @@ eine Erlaubnis nach § 2 Abs. 1 in Verbindung mit § 2 Abs. 2 Satz 2 und
 
 
 5.  die Regelungen zu Durchführung und Inhalt der Anpassungsmaßnahmen nach
-    § 2 Absatz 2 Satz 5.
+    § 2 Absatz 2 Satz 5 und Absatz 3 Satz 5,
+
+
+6.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 
 
@@ -333,8 +473,8 @@ abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des
 2.  wenn der Beruf des pharmazeutisch-technischen Assistenten oder die
     Ausbildung zu diesem Beruf im Niederlassungsmitgliedstaat nicht
     reglementiert ist, diesen Beruf während der vorhergehenden zehn Jahre
-    mindestens zwei Jahre im Niederlassungsmitgliedstaat rechtmäßig
-    ausgeübt haben,
+    mindestens ein Jahr im Niederlassungsmitgliedstaat rechtmäßig ausgeübt
+    haben,
 
 
 
@@ -362,7 +502,7 @@ Sprache müssen vorliegen. Wenn Dienstleistungen erstmals erbracht
 werden oder sich eine wesentliche Änderung gegenüber der in den
 Dokumenten bescheinigten Situation ergibt, hat der
 Dienstleistungserbringer der zuständigen Behörde folgende Dokumente
-vorzulegen:
+nach den Nummern 1 bis 3 sowie die Erklärung nach Nummer 4 vorzulegen:
 
 1.  den Nachweis über seine Staatsangehörigkeit,
 
@@ -370,10 +510,21 @@ vorzulegen:
 2.  seinen Berufsqualifikationsnachweis,
 
 
-3.  eine Bescheinigung darüber, dass er in einem Mitgliedstaat rechtmäßig
-    zur Ausübung der betreffenden Tätigkeiten niedergelassen ist und dass
-    ihm die Ausübung dieser Tätigkeiten zum Zeitpunkt der Vorlage der
-    Bescheinigung nicht, auch nicht vorübergehend, untersagt ist;
+3.  eine Bescheinigung über die rechtmäßige Niederlassung im Beruf des
+    pharmazeutisch-technischen Assistenten in einem anderen Mitgliedstaat,
+    die sich auch darauf erstreckt, dass dem Dienstleister die Ausübung
+    seiner Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht,
+    auch nicht vorübergehend untersagt ist und keine Vorstrafen vorliegen,
+    oder im Fall des Absatzes 1 Satz 1 Nummer 2 einen Nachweis in
+    beliebiger Form darüber, dass der Dienstleister eine dem Beruf des
+    pharmazeutisch-technischen Assistenten entsprechende Tätigkeit während
+    der vorübergehenden zehn Jahre mindestens ein Jahr lang rechtmäßig
+    ausgeübt hat, und
+
+
+4.  eine Erklärung des Dienstleisters, wonach er über die zur Erbringung
+    der Dienstleistung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt;
 
 
 
@@ -385,32 +536,36 @@ und der nach diesem Gesetz und der Ausbildungs- und Prüfungsverordnung
 für pharmazeutisch-technische Assistenten geforderten Ausbildung
 Ausgleichsmaßnahmen nur gefordert werden dürfen, wenn die Unterschiede
 so groß sind, dass ohne den Nachweis der fehlenden Kenntnisse und
-Fähigkeiten die öffentliche Gesundheit gefährdet wäre. Der Ausgleich
-der fehlenden Kenntnisse und Fähigkeiten soll in Form einer
-Eignungsprüfung erfolgen.
+Fähigkeiten die öffentliche Gesundheit gefährdet wäre. Soweit dies für
+die Beurteilung der Frage, ob wesentliche Unterschiede vorliegen,
+erforderlich ist, kann die zuständige Behörde bei der zuständigen
+Behörde des Niederlassungsmitgliedstaats Informationen über die
+Ausbildungsgänge des Dienstleistungserbringers anfordern. Der Nachweis
+des Ausgleichs der fehlenden Kenntnisse und Fähigkeiten erfolgt durch
+eine Eignungsprüfung.
 
 (3) Ein Dienstleistungserbringer hat beim Erbringen der Dienstleistung
 die Rechte und Pflichten von Personen mit einer Erlaubnis nach § 1
 Abs. 1. Wird gegen diese Pflichten verstoßen, so hat die zuständige
 Behörde unverzüglich die zuständige Behörde des
 Niederlassungsmitgliedstaats des Dienstleistungserbringers hierüber zu
-unterrichten. Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Die
-Informationen sind nach Artikel 56 der Richtlinie 2005/36/EG zu
-übermitteln. Auf Anforderung der zuständigen Behörden eines anderen
-Mitgliedstaats der Europäischen Union oder eines anderen
-Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum,
-oder eines Vertragsstaates, dem Deutschland und die Europäische Union
-vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
-haben die zuständigen Behörden in Deutschland nach Artikel 56 der
-Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über
-die Rechtmäßigkeit der Niederlassung und die gute Führung des
-Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
-übermitteln.
+unterrichten. Im Fall von berechtigten Zweifeln sind die zuständigen
+Behörden berechtigt, für jede Dienstleistungserbringung von den
+zuständigen Behörden des Niederlassungsmitgliedstaats Informationen
+über die Rechtmäßigkeit der Niederlassung sowie darüber anzufordern,
+dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
+Sanktionen vorliegen. Die Informationen sind nach Artikel 56 der
+Richtlinie 2005/36/EG zu übermitteln. Auf Anforderung der zuständigen
+Behörden eines anderen Mitgliedstaats der Europäischen Union oder
+eines anderen Vertragsstaates des Abkommens über den Europäischen
+Wirtschaftsraum, oder eines Vertragsstaates, dem Deutschland und die
+Europäische Union vertraglich einen entsprechenden Rechtsanspruch
+eingeräumt haben, haben die zuständigen Behörden in Deutschland nach
+Artikel 56 der Richtlinie 2005/36/EG der anfordernden Behörde alle
+Informationen über die Rechtmäßigkeit der Niederlassung und die gute
+Führung des Dienstleisters sowie Informationen darüber, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen, zu übermitteln.
 
 
 ## § 8

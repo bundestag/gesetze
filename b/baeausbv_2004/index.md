@@ -2,7 +2,7 @@
 Title: Verordnung über die Berufsausbildung zum Bäcker/zur Bäckerin
 jurabk: BäAusbV 2004
 layout: default
-origslug: b_ausbv_2004
+origslug: baeausbv_2004
 slug: baeausbv_2004
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2004, 632
+
+Geändert durch
+:   Art. 1 V v. 8.2.2016 I 179
 
 
 
@@ -387,8 +390,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2004 in Kraft.
 
+(zu § 6)
 
-## Anlage (zu § 6) Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Bäcker/zur Bäckerin
 
 (Fundstelle: BGBl. I 2004, 635 - 641)
 
@@ -426,7 +430,7 @@ Diese Verordnung tritt am 1. August 2004 in Kraft.
 
     *   a)
 
-    *   Bedeutung des Arbeitsvertrages, insbesondere Abschluss, Dauer und
+    *   Bedeutung des Ausbildungsvertrages, insbesondere Abschluss, Dauer und
         Beendigung, erklären
 
     *   während der gesamten Ausbildung zu vermitteln

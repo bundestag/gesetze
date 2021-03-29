@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Staatsvertra
   der gemeinsamen Landesgrenze
 jurabk: GrÄndStVtrBB/MVBek
 layout: default
-origslug: gr_ndstvtrbb_mvbek
+origslug: graendstvtrbb_mvbek
 slug: graendstvtrbb_mvbek
 
 ---

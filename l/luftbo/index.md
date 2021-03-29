@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1970, 262
 
 Zuletzt geändert durch
-:   Art. 2 V v. 12.9.2008 I 1834
+:   Art. 3 V v. 29.10.2015 I 1894
 
 
 ## Eingangsformel
@@ -58,18 +58,19 @@ verordnet:
 
 1.  bei Flugzeugen, die zur gewerbsmäßigen Beförderung von Personen und
     Sachen eingesetzt werden, nach den §§ 3, 3a, 14, 25 und 55 sowie nach
-    den Bestimmungen der Joint Aviation Authorities über die gewerbsmäßige
-    Beförderung von Personen und Sachen in Flugzeugen in ihrer jeweils
-    jüngsten vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
-    im Bundesanzeiger bekanntgemachten Fassung der deutschen Übersetzung
-    (JAR-OPS 1 deutsch);
+    den Bestimmungen des Anhangs III der Verordnung (EWG) Nr. 3922/91 des
+    Rates vom 16. Dezember 1991 in Bezug auf gemeinsame technische
+    Vorschriften und Verwaltungsverfahren für den gewerblichen Luftverkehr
+    mit Flächenflugzeugen (ABl. L 373 vom 31.12.1991, S. 4), die zuletzt
+    durch die Verordnung (EG) Nr. 859/2008 (ABl. L 254 vom 20.9.2008, S.
+    1) geändert worden ist, in der jeweils geltenden Fassung;
 
 
 2.  bei Hubschraubern, die zur gewerbsmäßigen Beförderung von Personen und
     Sachen eingesetzt werden, nach den §§ 3, 3a, 14, 25 und 55 sowie nach
     den Bestimmungen der Joint Aviation Authorities über die gewerbsmäßige
     Beförderung von Personen und Sachen in Hubschraubern in ihrer jeweils
-    jüngsten vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
+    jüngsten vom Bundesministerium für Verkehr und digitale Infrastruktur
     im Bundesanzeiger bekanntgemachten Fassung der deutschen Übersetzung
     (JAR-OPS 3 deutsch);
 
@@ -128,21 +129,17 @@ Sprache, die im Sprechfunkverkehr im Flugfunkdienst in dem genutzten
 Luftraum verwendet wird, oder der englischen Sprache verfügt.
 
 
-## Zweiter Abschnitt - Allgemeine technische Betriebsvorschriften
+## Zweiter Abschnitt - Technische Betriebsvorschriften
 
 
 
-### 1. - Zulässige Betriebszeiten
-
-
-
-#### § 4 Zulässige Betriebszeiten
+### § 4 Zulässige Betriebszeiten
 
 (1) Für das Luftfahrtgerät oder seine Teile können von dem Luftfahrt-
-Bundesamt oder dem vom Bundesministerium für Verkehr, Bau und
-Stadtentwicklung Beauftragten zulässige Betriebszeiten festgelegt
-werden, soweit dies zur Gewährleistung eines sicheren Betriebs
-erforderlich ist.
+Bundesamt oder dem vom Bundesministerium für Verkehr und digitale
+Infrastruktur Beauftragten zulässige Betriebszeiten festgelegt werden,
+soweit dies zur Gewährleistung eines sicheren Betriebs erforderlich
+ist.
 
 (2) Auf Antrag des Halters kann die zuständige Stelle von Absatz 1
 abweichende zulässige Betriebszeiten festlegen, wenn diese der
@@ -158,99 +155,11 @@ nachträglich nicht nur vorübergehend entfallen sind oder die erteilten
 Auflagen nicht eingehalten werden.
 
 
-### 2. - Instandhaltung
+### (XXXX) §§ 5 bis 9 (weggefallen)
 
 
 
-#### § 5 Umfang der Instandhaltung
-
-Die Instandhaltung umfaßt die Wartung einschließlich kleiner
-Reparaturen, die Überholung und die großen Reparaturen.
-
-
-#### § 6 Wartung
-
-Bei der Wartung des Luftfahrtgeräts sind durchzuführen:
-
-1.  Planmäßige Kontrollen und Arbeiten, die zur Aufrechterhaltung und
-    Überwachung der Lufttüchtigkeit erforderlich sind;
-
-
-2.  nichtplanmäßige zusätzliche Arbeiten und kleine Reparaturen, die zur
-    Behebung angezeigter Beanstandungen oder festgestellter Mängel
-    erforderlich sind und mit einfachen Mitteln ausgeführt werden können.
-    Dazu gehört der Einbau von geprüften Teilen im Austausch gegen
-    überholungs-, reparatur- oder änderungsbedürftige Teile, wenn dies mit
-    einfachen Mitteln möglich ist.
-
-
-
-
-
-#### § 7 Überholung
-
-Hat ein Luftfahrtgerät die zulässige Betriebszeit nach § 4 erreicht
-oder sind bei seinem Betrieb Mängel festgestellt worden, die im Rahmen
-der Wartung nach § 6 nicht behoben werden können, ist das Gerät ganz
-oder teilweise zu überholen (Grund- oder Teilüberholung).
-
-
-#### § 8 Große Reparatur
-
-Hat ein Luftfahrtgerät einen Schaden erlitten, der im Rahmen der
-Wartung nach § 6 nicht einwandfrei behoben werden kann, ist eine große
-Reparatur durchzuführen. Reparaturverfahren, die nicht in den
-Instandhaltungsunterlagen im Rahmen der Musterzulassung genehmigt
-worden sind, sind wie Änderungen am Muster zu behandeln und bedürfen
-der Zulassung.
-
-
-#### § 9 Durchführung der Instandhaltung
-
-(1) Die Instandhaltung der Flugzeuge, die in der
-Lufttüchtigkeitsgruppe Verkehrsflugzeuge zugelassen sind, und der
-Drehflügler mit einem höchstzulässigen Fluggewicht über 5.700 kg sowie
-die Überholung und große Reparatur des übrigen Luftfahrtgeräts sind
-von Betrieben durchzuführen, die eine Genehmigung als
-Instandhaltungsbetrieb, luftfahrttechnischer Betrieb oder
-Herstellungsbetrieb für Luftsportgerät nach der Verordnung zur Prüfung
-von Luftfahrtgerät besitzen. Die Wartung einschließlich kleiner
-Reparaturen des Luftfahrtgeräts mit Ausnahme der in Satz 1
-aufgeführten Flugzeuge und Drehflügler kann auch von sachkundigen
-Personen durchgeführt werden. Bei einfachen Kontrollen und Arbeiten im
-Rahmen der Wartung können in diesem Fall die Nachprüfungen nach der
-Verordnung zur Prüfung von Luftfahrtgerät zusammengefaßt bei der
-Jahresnachprüfung durchgeführt werden.
-
-(2) Wer eine Erlaubnis als Luftfahrzeugführer besitzt, kann an einem
-Luftfahrzeug, dessen Eigentümer oder Halter er ist und das nicht für
-die gewerbsmäßige Beförderung von Personen oder Sachen verwendet wird,
-einfache Kontrollen und Arbeiten im Rahmen der Wartung selbst
-durchführen, wenn er die notwendigen Kenntnisse und Fähigkeiten
-besitzt. Das gleiche gilt für den nach § 2 Abs. 2 bestellten
-technischen Betriebsleiter oder Flugbetriebsleiter sowie Mitglieder
-von Luftfahrtverbänden und -vereinen. Die Nachprüfungen nach der
-Verordnung zur Prüfung von Luftfahrtgerät können zusammengefaßt bei
-der Jahresnachprüfung durchgeführt werden.
-
-(3) Bei der Instandhaltung sind die von dem Hersteller des
-Luftfahrtgeräts erstellten Betriebsanweisungen und technischen
-Mitteilungen zu berücksichtigen.
-
-(4) (weggefallen)
-
-(5) Erfordert die ordnungsgemäße Durchführung bestimmter
-Instandhaltungsarbeiten besondere Kenntnisse und Fähigkeiten, dürfen
-diese Arbeiten nur von Fachkräften durchgeführt werden, die
-nachweislich den Anforderungen genügen.
-
-(6) Wer Luftfahrtgerät instandhält, hat der zuständigen Stelle Mängel
-des Musters, die ihm bei seiner Tätigkeit bekanntwerden und welche die
-Lufttüchtigkeit beeinträchtigen oder beeinträchtigen können,
-unverzüglich anzuzeigen.
-
-
-#### § 10 Wägung der Luftfahrzeuge
+### § 10 Wägung der Luftfahrzeuge
 
 Gewicht und Schwerpunkt der Luftfahrzeuge sind in bestimmten
 Zeitabständen durch Wägung zu überprüfen. Das gleiche gilt, wenn
@@ -259,48 +168,11 @@ Rechnung nicht mit hinreichender Genauigkeit festgestellt werden
 können. Satz 1 gilt nicht für nichtmotorgetriebene Luftsportgeräte.
 
 
-#### § 11 Prüfflüge
-
-(1) Nach Instandhaltungsarbeiten, deren ordnungsgemäße Ausführung nur
-im Flug geprüft werden kann, sind mit dem Luftfahrzeug Prüfflüge
-vorzunehmen. Über die Prüfflüge sind Aufzeichnungen zu führen.
-
-(2) Bei Prüfflügen nach Absatz 1 dürfen nur die bei der Führung und
-Prüfung des Luftfahrzeugs tätigen Personen mitgenommen werden oder
-teilnehmen.
-
-
-### 3. - Änderung
+### (XXXX) §§ 11 bis 13 (weggefallen)
 
 
 
-#### § 12 Kleine Änderung
-
-Eine Änderung des Luftfahrtgeräts, die keine Auswirkungen auf seine
-Lufttüchtigkeit hat und unter Anwendung üblicher Arbeitsverfahren
-durchführbar ist (Kleine Änderung), kann ohne vorherige Unterrichtung
-der zuständigen Stelle vorgenommen werden, wenn dies in
-Übereinstimmung mit einem von der zuständigen Stelle festgelegten
-Änderungsverfahren geschieht. § 9 Abs. 1 findet entsprechende
-Anwendung.
-
-
-#### § 13 Große Änderung
-
-Eine Änderung des Luftfahrtgeräts, die Auswirkungen auf seine
-Lufttüchtigkeit hat und nicht unter Anwendung üblicher
-Arbeitsverfahren durchführbar ist (Große Änderung), ist von nach der
-Verordnung zur Prüfung von Luftfahrtgerät genehmigten
-Instandhaltungsbetrieben, genehmigten luftfahrttechnischen Betrieben
-oder genehmigten Herstellungsbetrieben nach den von der zuständigen
-Stelle genehmigten Änderungsanweisungen durchzuführen.
-
-
-### 4. - Lufttüchtigkeitsanweisung
-
-
-
-#### § 14 Lufttüchtigkeitsanweisung
+### § 14 Lufttüchtigkeitsanweisung
 
 (1) Die zuständige Stelle ordnet durch Lufttüchtigkeitsanweisung, die
 in den Nachrichten für Luftfahrer oder in der Informationsschrift des
@@ -310,87 +182,28 @@ herausstellen, welche die Lufttüchtigkeit beeinträchtigen.
 
 (2) Ein durch die Lufttüchtigkeitsanweisung betroffenes Luftfahrtgerät
 darf nach dem in der Lufttüchtigkeitsanweisung angegebenen Termin
-außer für Zwecke der Nachprüfung nur in Betrieb genommen werden, wenn
-die angeordneten Maßnahmen ordnungsgemäß durchgeführt worden sind.
+außer für Zwecke der Nachprüfung oder Prüfung zur Feststellung der
+Lufttüchtigkeit nur in Betrieb genommen werden, wenn die angeordneten
+Maßnahmen ordnungsgemäß durchgeführt worden sind.
+Lufttüchtigkeitsanweisungen, welche durch die Europäische Agentur für
+Flugsicherheit nach dem Verfahren des Artikels 52 Absatz 3 der
+Verordnung (EG) Nr. 216/2008 amtlich veröffentlicht wurden, sind
+unmittelbar gültig und bedürfen keiner Veröffentlichung nach Satz 1.
+
+(3) Die Absätze 1 und 2 gelten nicht für Luftsportgeräte nach § 1
+Absatz 4 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung.
 
 
-### 5. - Betriebsaufzeichnungen
-
-
-
-#### § 15 Betriebsaufzeichnungen
-
-(1) Der Halter eines Luftfahrtgeräts ist verpflichtet,
-Betriebsaufzeichnungen zu führen und sie den für die Nachprüfungen des
-Luftfahrtgeräts nach der Verordnung zur Prüfung von Luftfahrtgerät
-zuständigen Stellen bei der Nachprüfung vorzulegen. Die zuständigen
-Stellen können die Einsicht in die Betriebsaufzeichnungen jederzeit
-verlangen. Der Beauftragte kann Halter von nichtmotorgetriebenen
-Luftsportgeräten von der Verpflichtung zum Führen der
-Betriebsaufzeichnungen befreien.
-
-(2) Die Betriebsaufzeichnungen müssen Angaben über die Instandhaltung
-des Luftfahrtgeräts und durchgeführte Änderungen sowie alle
-Prüfaufzeichnungen und Bescheinigungen enthalten, deren Übernahme die
-zuständig Stelle vorgeschrieben hat.
-
-(3) Nach endgültiger Außerdienststellung des Luftfahrtgeräts sind die
-zugehörigen Betriebsaufzeichnungen 12 Monate aufzubewahren. Die
-zuständige Stelle kann in besonderen Fällen eine längere
-Aufbewahrungszeit anordnen.
-
-
-## Dritter Abschnitt - Besondere technische Betriebsvorschriften
+### § 15 (weggefallen)
 
 
 
-### § 16 Technisches Betriebshandbuch
-
-(1) Jeder nach der Verordnung zur Prüfung von Luftfahrgerät genehmigte
-luftfahrttechnische Betrieb und jeder Herstellungsbetrieb für
-Luftsportgerät hat als Dienstanweisung und Arbeitsunterlage für das
-technische Personal ein Technisches Betriebshandbuch zu erstellen und
-durch Ergänzungen und Berichtigungen auf dem neuesten Stand zu halten.
-Das Technische Betriebshandbuch kann zur Erleichterung der Benutzung
-aus mehreren Teilen bestehen.
-
-(2) (weggefallen)
-
-(3) Luftfahrtunternehmen und Luftfahrerschulen, die für die
-Instandhaltung und Änderung ihres Luftfahrtgeräts einen eigenen
-luftfahrttechnischen Betrieb nicht unterhalten, haben in Ergänzung des
-Technischen Betriebshandbuches des mit der Instandhaltung und Änderung
-des Luftfahrtgeräts beauftragten luftfahrttechnischen Betriebs ein
-eigenes Technisches Betriebshandbuch zu erstellen, das die über das
-Zusammenwirken der flugbetrieblichen und technischen Dienste
-erforderlichen Angaben enthalten muß.
-
-(4) Das Technische Betriebshandbuch ist der zuständigen Stelle für das
-Luftfahrtgerät auf Verlangen vorzulegen. Die zuständige Stelle kann
-verlangen, daß ihr die Änderungen und Ergänzungen angezeigt werden.
-Die zuständige Stelle kann jederzeit Änderungen und Ergänzungen des
-Technischen Betriebshandbuches verlangen, soweit dies zur
-Aufrechterhaltung der Lufttüchtigkeit des Luftfahrtgeräts erforderlich
-ist.
+## Dritter Abschnitt - 
 
 
-### § 17 Technische Dienste der Luftfahrtunternehmen und Luftfahrerschulen
 
-(1) Luftfahrtunternehmen und Luftfahrerschulen haben die
-Instandhaltung und Änderung der in Betrieb befindlichen Luftfahrzeuge
-und Luftschiffe geeigneten eigenen oder anderen Betrieben zu
-übertragen, die als Instandhaltungsbetrieb, luftfahrttechnischer
-Betrieb oder Herstellungsbetrieb für Luftsportgerät nach der
-Verordnung zur Prüfung von Luftfahrtgerät genehmigt sind. Die
-Übertragung bedarf der Zustimmung der zuständigen Stelle für das
-Luftfahrtunternehmen oder die Luftfahrerschule. Änderungen sind nur
-mit Zustimmung der zuständigen Stelle zulässig. § 9 Abs. 2 bleibt
-unberührt.
+### (XXXX) §§ 16 bis 17 (weggefallen)
 
-(2) Genehmigte luftfahrttechnische Betriebe oder Herstellungsbetriebe
-für Luftsportgerät, die Luftfahrzeuge von Luftfahrtunternehmen oder
-Luftfahrerschulen instandhalten, haben der zuständigen Stelle das
-Technische Betriebshandbuch jederzeit auf Verlangen vorzulegen.
 
 
 ## Vierter Abschnitt - Ausrüstung der Luftfahrzeuge
@@ -470,33 +283,40 @@ Notlandung auf nicht vorbereitetem Gelände zu rechnen ist, müssen die
 Luftfahrzeuge entsprechend den zu erwartenden Verhältnissen mit den
 erforderlichen Rettungs- und Signalmitteln ausgerüstet sein.
 
-(2) Für Flüge über 6.000 m (20.000 Fuß) NN müssen Luftfahrzeuge für
+(2) Für Flüge über 6 000 m (20 000 Fuß) NN müssen Luftfahrzeuge für
 die gewerbsmäßige Beförderung von Personen mit Druckkabine ausgerüstet
 sein. Luftfahrzeuge mit Druckkabine müssen mit einer Sauerstoffanlage
-und Atemgeräten ausgestattet sein und für Flüge über 3.000 m (10.000
+und Atemgeräten ausgestattet sein und für Flüge über 3 000 m (10 000
 Fuß) NN einen angemessenen Sauerstoffvorrat mitführen. Für Flüge über
-7\.600 m (25.000 Fuß) NN müssen alle diensthabenden Mitglieder der
+7 600 m (25 000 Fuß) NN müssen alle diensthabenden Mitglieder der
 Flugbesatzung schnell anlegbare Sauerstoffmasken griffbereit haben.
 Flugzeuge mit Druckkabine, die nach dem 1. Juli 1962 erstmals
-zugelassen sind und für Flüge über 7.600 m (25.000 Fuß) NN eingesetzt
+zugelassen sind und für Flüge über 7 600 m (25 000 Fuß) NN eingesetzt
 werden sollen, müssen mit einer Warnanlage für gefährlichen
 Druckabfall ausgerüstet sein. Luftfahrzeuge ohne Druckkabine müssen
 mit einer Sauerstoffanlage und Atemgeräten sowie einem angemessenen
 Sauerstoffvorrat ausgestattet sein, wenn sie mehr als 30 Minuten in
-Höhen über 3.600 m (12.000 Fuß) NN, im gewerbsmäßigen Luftverkehr in
-Höhen über 3.000 m (10.000 Fuß) NN, fliegen oder wenn sie 4.000 m
-(13.000 Fuß) NN übersteigen.
+Höhen über 3 600 m (12 000 Fuß) NN, im gewerbsmäßigen Luftverkehr in
+Höhen über 3 000 m (10 000 Fuß) NN, fliegen oder wenn sie 4 000 m (13
+000 Fuß) NN übersteigen.
 
 (3) Für Flüge unter Wetterbedingungen, bei denen Vereisung zu erwarten
 ist, müssen alle Luftfahrzeuge mit Einrichtungen zur Verhütung oder
 zur Beobachtung und Beseitigung von Eisansatz ausgerüstet sein.
 
 (4) Für Flüge nach Sichtflugregeln bei Nacht sind Luftfahrzeuge
-zusätzlich zu den Lichtern, die nach der Luftverkehrs-Ordnung zu
-führen sind, mit einer Instrumentenbeleuchtung auszurüsten. Für Flüge
-nach Instrumentenflugregeln bei Nacht müssen Luftfahrzeuge außerdem
-mit Landescheinwerfern, Beleuchtungsanlagen für die Führer-, Fluggast-
-und Frachträume sowie mit elektrischen Handlampen, die unabhängig vom
+zusätzlich zu den Lichtern, die nach der Durchführungsverordnung (EU)
+Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung
+gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste
+und Verfahren der Flugsicherung und zur Änderung der
+Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG)
+Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr.
+1033/2006 und (EU) Nr. 255/2010 (ABl. L 281 vom 13.10.2012, S. 1, L
+145 vom 31.5.2013, S. 38) in der jeweils geltenden Fassung zu führen
+sind, mit einer Instrumentenbeleuchtung auszurüsten. Für Flüge nach
+Instrumentenflugregeln bei Nacht müssen Luftfahrzeuge außerdem mit
+Landescheinwerfern, Beleuchtungsanlagen für die Führer-, Fluggast- und
+Frachträume sowie mit elektrischen Handlampen, die unabhängig vom
 Bordnetz sind, ausgerüstet sein.
 
 
@@ -546,15 +366,52 @@ Propeller einen die Flugsicherheit gefährdenden Eis-, Reif- oder
 Schneebelag aufweisen, dürfen nicht starten.
 
 
+#### § 24a Besondere betriebliche Genehmigungen
+
+(1) Flüge nach Instrumentenflugregeln bedürfen der Genehmigung durch
+das Luftfahrt-Bundesamt, wenn die Lufträume aus einem der folgenden
+Gründe besondere Navigationsanforderungen stellen:
+
+1.  reduzierte Höhenstaffelung (RVSM),
+
+
+2.  besondere Vorgaben für den Nordatlantischen Luftraum (MNPS),
+
+
+3.  die Anwendung von Flächennavigationsverfahren (PBN, RNAV, RNP).
+
+
+
+
+(2) Der Halter hat dem Luftfahrt-Bundesamt die Fähigkeit, Flüge gemäß
+Absatz 1 durchführen zu können, nachzuweisen. Der Nachweis umfasst
+
+1.  die Eignung und Instandhaltung der Ausrüstung,
+
+
+2.  die Betriebsverfahren und
+
+
+3.  die Schulung der Flugbesatzung.
+
+
+
+
+
 #### § 25 Verlust der Lufttüchtigkeit
 
 (1) Werden beim Betrieb des zugelassenen Luftfahrzeugs Mängel
 festgestellt, die seine Lufttüchtigkeit beeinträchtigen oder
 beeinträchtigen können, oder bestehen begründete Zweifel an der
-Lufttüchtigkeit des Luftfahrzeugs, kann die zuständige Stelle das
-Luftfahrzeug bis zum Nachweis der Lufttüchtigkeit nach den
-Vorschriften der Verordnung zur Prüfung von Luftfahrtgerät für
-luftuntüchtig erklären.
+Lufttüchtigkeit des Luftfahrzeugs, setzt die zuständige Stelle dem
+Halter des Luftfahrzeugs eine Frist, innerhalb derer er die
+erforderlichen Maßnahmen durchzuführen hat, um die Mängel zu
+beseitigen. Bis zur Durchführung dieser Maßnahmen kann die zuständige
+Stelle den Betrieb des Luftfahrzeugs untersagen oder unter Auflagen
+gestatten. Ist die Lufttüchtigkeit nach Ablauf der Frist nicht
+wiederhergestellt, erklärt die zuständige Stelle das Luftfahrzeug für
+luftuntüchtig. Für Luftfahrzeuge, die von der Verkehrszulassung
+befreit sind, gelten die Sätze 1 bis 3 sinngemäß.
 
 (2) Ein Luftfahrzeug, das luftuntüchtig ist oder von der zuständigen
 Stelle für luftuntüchtig erklärt worden ist, darf nicht in Betrieb
@@ -662,8 +519,7 @@ Einsicht in das Bordbuch jederzeit verlangen.
 
 
 
-4.  Angaben über die Instandhaltung und Nachprüfung des Luftfahrzeugs nach
-    § 15 Abs. 2 Nr. 1 Buchstaben b und c.
+4.  Angaben über die Instandhaltung und Nachprüfung des Luftfahrzeugs.
 
 
 
@@ -756,7 +612,9 @@ Instrumentenflugregeln zu ermitteln:
 Betriebsmindestbedingungen nach Absatz 1 Nr. 1 und der
 Mindestflughöhen nach Absatz 1 Nr. 2 für jedes von ihm betriebene
 Luftfahrzeug festzulegen. Die Verfahren bedürfen der Anerkennung durch
-das Luftfahrt-Bundesamt.
+das Luftfahrt-Bundesamt, sofern es sich um Flugbetrieb bei geringer
+Sicht, insbesondere um Starts bei Pistensichtweiten unter 400 Metern
+und um Präzisionsanflüge nach den Betriebsstufen II und III handelt.
 
 (3) Die vom Luftfahrzeugführer nach Absatz 1 Nr. 1 ermittelten
 Flugplatz-Betriebsmindestbedingungen dürfen die für einen in- oder
@@ -770,7 +628,7 @@ ausdrücklich erlaubt hat.
 
 (1) Ein Flug nach Sichtflugregeln darf nur dann angetreten oder zum
 Bestimmungsflugplatz fortgesetzt werden, wenn nach den letzten
-Informationen die im Dritten Abschnitt der Luftverkehrs-Ordnung
+Informationen die in der Durchführungsverordnung (EU) Nr. 923/2012
 vorgeschriebenen Mindestwerte für Flüge nach Sichtflugregeln auf der
 Flugstrecke erfüllt sind.
 
@@ -1143,22 +1001,12 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
     b)  § 4 Abs. 2 Satz 3 einer ihm erteilten Auflage zuwiderhandelt;
 
 
-    c)  § 11 Abs. 1 Prüfflüge nicht oder nicht ordnungsgemäß vornimmt oder
-        Aufzeichnungen darüber nicht, nicht richtig oder nicht vollständig
-        führt;
-
-
-    d)  § 14 Abs. 2 Luftfahrtgerät betreibt, ohne die in der
+    c)  § 14 Absatz 2 Satz 1 Luftfahrtgerät betreibt, ohne die in der
         Lufttüchtigkeitsanweisung angeordneten Maßnahmen ordnungsgemäß
         durchgeführt zu haben;
 
 
-    e)  § 15 Betriebsaufzeichnungen nicht, nicht richtig oder nicht
-        vollständig führt, den zuständigen Stellen auf Verlangen nicht vorlegt
-        oder nicht aufbewahrt;
-
-
-    f)  § 32 den Betrieb eines Luftfahrzeugs ohne die vorgeschriebene
+    d)  § 32 den Betrieb eines Luftfahrzeugs ohne die vorgeschriebene
         Besatzung zuläßt;
 
 
@@ -1234,6 +1082,10 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
         nicht richtig, nicht vollständig oder nicht rechtzeitig ermittelt;
 
 
+    i)  § 35 einen Flug antritt oder zum Bestimmungs- oder Ausweichflugplatz
+        fortsetzt, obwohl die Wettermindestbedingungen nicht erfüllt sind;
+
+
     j)  § 37 Abs. 1 Satz 3 die zur Durchführung des Fluges notwendigen Teile
         des Flugbetriebshandbuches nicht an Bord mitführt;
 
@@ -1250,26 +1102,17 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
         Sitz im Führerraum nicht zuweist;
 
 
-    i)  § 35 einen Flug antritt oder zum Bestimmungs- oder Ausweichflugplatz
-        fortsetzt, obwohl die Wettermindestbedingungen nicht erfüllt sind;
 
 
 
+3a. ohne Genehmigung nach § 24a Absatz 1 einen dort genannten Flug
+    durchführt;
 
 
-4.  als Inhaber eines anerkannten luftfahrttechnischen Betriebs oder eines
-    anerkannten Herstellerbetriebes für Luftsportgerät oder als
-    Luftfahrtunternehmer entgegen § 16 ein Technisches Betriebshandbuch
-    nicht erstellt, der zuständigen Stelle auf Verlangen nicht vorlegt
-    oder die von ihr verlangten Änderungen oder Ergänzungen nicht
-    vornimmt;
+4.  (weggefallen)
 
 
-5.  als Luftfahrtunternehmer, Inhaber einer Luftfahrerschule oder
-    Betriebsleiter entgegen § 17 Abs. 1 die Instandhaltung oder Änderung
-    eines Luftfahrzeugs einem dieser Vorschrift nicht entsprechenden
-    Betrieb überträgt oder die Übertragung oder Änderungen ohne Zustimmung
-    der zuständigen Stelle vornimmt;
+5.  (weggefallen)
 
 
 6.  als Luftfahrtunternehmer oder Betriebsleiter entgegen
@@ -1307,8 +1150,8 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
         oder nicht aufbewahrt;
 
 
-    i)  § 47 die Mindestausrüstungslisten oder § 48 die Klarlisten nicht,
-        nicht richtig oder nicht vollständig erstellt;
+    i)  § 47 die Mindestausrüstungslisten oder entgegen § 48 die Klarlisten
+        nicht, nicht richtig oder nicht vollständig erstellt;
 
 
     j)  (weggefallen)
@@ -1336,12 +1179,10 @@ Luftverkehrsgesetzes handelt, wer vorsätzlich oder fahrlässig
     Verfahren nicht, nicht richtig oder nicht vollständig festlegt;
 
 
-8.  entgegen § 9 Abs. 6 anzeigepflichtige Mängel der zuständigen Stelle
-    nicht unverzüglich anzeigt;
+8.  (weggefallen)
 
 
-9.  der Vorschrift des § 11 Abs. 2 über die Mitnahme oder Teilnahme von
-    Personen bei Prüfflügen zuwiderhandelt;
+9.  (weggefallen)
 
 
 10. sich entgegen § 43 Abs. 1 im Führerraum aufhält;

@@ -3,7 +3,7 @@ Title: Verordnung über die Festsetzung des Naturschutzgebietes "Östliche Deuts
   Bucht"
 jurabk: NatSGÖDeuBuchtV
 layout: default
-origslug: natsg_deubuchtv
+origslug: natsgoedeubuchtv
 slug: natsgoedeubuchtv
 
 ---

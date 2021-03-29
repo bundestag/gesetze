@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1975, 1573
 
 Zuletzt geändert durch
-:   Art. 2 V v. 8.11.2007 I 2569
+:   Art. 483 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -560,10 +560,6 @@ sein oder den Sitz des Fahrzeugführers von den Fahrgastplätzen
 abteilen; sie darf versenkbar oder so beschaffen sein, daß ein Teil
 seitlich verschoben werden kann.
 
-(4)
-
-(5)
-
 
 #### § 26 Kenntlichmachung
 
@@ -839,8 +835,8 @@ Mietwagenverkehr sind, genehmigen. Ausnahmen von der Vorschrift der
 Anlage 1 sind hinsichtlich der Aufschrift und der Farbgebung nicht
 möglich.
 
-(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung durch Rechtsverordnung mit Zustimmung des
+(2) Allgemeine Ausnahmen regelt das Bundesministerium für Verkehr und
+digitale Infrastruktur durch Rechtsverordnung mit Zustimmung des
 Bundesrates nach Anhören der zuständigen obersten Landesbehörden.
 
 (3) Die Ausnahmegenehmigung kann unter dem Vorbehalt des Widerrufs

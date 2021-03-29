@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2004, 2081
 
+V aufgeh. durch
+:   Art. 12 Abs. 4 G v. 20.12.2016 I 3048; die V tritt sechs Monate nach der Veröffentlichung der Mitteilung der Europäischen Kommission über die Funktionsfähigkeit des EU-Portals und der Datenbank nach Artikel 82 der Verordnung (EU) Nr. 536/2014 im Amtsblatt der Europäischen Union außer Kraft
+
 Zuletzt geändert durch
 :   Art. 8 G v. 19.10.2012 I 2192
 

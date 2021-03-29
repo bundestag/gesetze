@@ -3,7 +3,7 @@ Title: Gesetz betreffend das Internationale Übereinkommen über den Heuervertra
   Schiffsleute
 jurabk: HeuerVtrÜbkG
 layout: default
-origslug: heuervtr_bkg
+origslug: heuervtruebkg
 slug: heuervtruebkg
 
 ---
@@ -26,7 +26,7 @@ Fundstelle
 ## § 2
 
 ... Für die Durchführung des Übereinkommens ist die
-Seemannsordnung              maßgebend. ...
+Seemannsordnung maßgebend. ...
 
 
 ## § 3

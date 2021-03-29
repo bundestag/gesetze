@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1994, 2978, 2979
 
-Zuletzt geändert durch
-:   Art. 4 G v. 21.7.2012 I 1566
-
+Stand: Zuletzt geändert Art. 1 G v. 5.5.2017 I 1066
 
 ## Abschnitt 1 - Aufgaben und Verwendungen
 
@@ -134,8 +132,8 @@ oder Ordnung abzuwehren, die
 Verkehrsunternehmen sind verpflichtet, der Bundespolizei für die
 erlangten Vorteile einen angemessenen Ausgleich zu leisten. Das
 Bundesministerium des Innern wird ermächtigt, durch Rechtsverordnung
-im Einvernehmen mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung für den zu leistenden Ausgleich einen Prozentsatz
+im Einvernehmen mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur für den zu leistenden Ausgleich einen Prozentsatz
 festzusetzen, der 50 Prozent des Gesamtaufwandes der Bundespolizei für
 die Erfüllung der Aufgaben nach Absatz 1 nicht überschreiten darf.
 Dabei sind insbesondere die erlangten Vorteile und die wirtschaftliche
@@ -151,9 +149,13 @@ erhoben.
 ### § 4 Luftsicherheit
 
 Der Bundespolizei obliegt der Schutz vor Angriffen auf die Sicherheit
-des Luftverkehrs gemäß § 5 des Luftsicherheitsgesetzes, soweit diese
-Aufgaben nach § 16 Abs. 3 Satz 2 und 3 des Luftsicherheitsgesetzes in
-bundeseigener Verwaltung ausgeführt werden.
+des Luftverkehrs nach den §§ 3, 5, 9 Absatz 1a und § 10a Absatz 2 des
+Luftsicherheitsgesetzes, soweit diese Aufgaben nach § 16 Absatz 3a und
+3b des Luftsicherheitsgesetzes in bundeseigener Verwaltung ausgeführt
+werden. In den Fällen des § 16 Absatz 3b des Luftsicherheitsgesetzes
+gilt dies nur, soweit ihr die Aufgaben durch das Bundesministerium für
+Verkehr und digitale Infrastruktur im Einvernehmen mit dem
+Bundesministerium des Innern übertragen worden sind.
 
 
 ### § 4a Sicherheitsmaßnahmen an Bord von Luftfahrzeugen
@@ -384,9 +386,8 @@ besteht, das
 
 
 2.  nach den Vorschriften des Paßgesetzes, des Aufenthaltsgesetzes oder
-    des Asylverfahrensgesetzes zu verfolgen ist, soweit es durch den
-    Grenzübertritt oder in unmittelbarem Zusammenhang mit diesem begangen
-    wurde,
+    des Asylgesetzes zu verfolgen ist, soweit es durch den Grenzübertritt
+    oder in unmittelbarem Zusammenhang mit diesem begangen wurde,
 
 
 3.  einen Grenzübertritt mittels Täuschung, Drohung, Gewalt oder auf sonst
@@ -417,9 +418,9 @@ oder nach § 315 Abs. 3 Nr. 1 des Strafgesetzbuches besteht sowie in
 Fällen der Nummer 6. Das Bundesministerium des Innern bestimmt das
 Nähere über die unter Satz 1 fallenden Straftaten durch
 Rechtsverordnung im Einvernehmen mit dem Bundesministerium der Justiz
-und mit Zustimmung des Bundesrates. Soweit Satz 1 Nr. 4 betroffen ist,
-ist auch das Einvernehmen mit dem Bundesministerium der Finanzen
-herzustellen.
+und für Verbraucherschutz und mit Zustimmung des Bundesrates. Soweit
+Satz 1 Nr. 4 betroffen ist, ist auch das Einvernehmen mit dem
+Bundesministerium der Finanzen herzustellen.
 
 (2) Die Bundespolizei ist vorbehaltlich besonderer gesetzlicher
 Zuständigkeitsregelungen für die polizeilichen Aufgaben auf dem Gebiet
@@ -712,6 +713,56 @@ für den dort bezeichneten Zweck verwendet werden.
 Verwaltungsvollstreckungsgesetzes findet keine Anwendung.
 
 
+##### § 22a Erhebung von Telekommunikationsdaten
+
+(1) Soweit dies für die Erforschung des Sachverhalts oder die
+Ermittlung des Aufenthaltsortes einer Person nach Maßgabe von § 21
+Absatz 1 und 2 erforderlich ist, darf von demjenigen, der
+geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt,
+Auskunft über die nach den §§ 95 und 111 des
+Telekommunikationsgesetzes erhobenen Daten verlangt werden (§ 113
+Absatz 1 Satz 1 des Telekommunikationsgesetzes). Bezieht sich das
+Auskunftsverlangen nach Satz 1 auf Daten, mittels derer der Zugriff
+auf Endgeräte oder auf Speichereinrichtungen, die in diesen Endgeräten
+oder hiervon räumlich getrennt eingesetzt werden, geschützt wird (§
+113 Absatz 1 Satz 2 des Telekommunikationsgesetzes), darf die Auskunft
+nur verlangt werden, wenn die gesetzlichen Voraussetzungen für die
+Nutzung der Daten vorliegen.
+
+(2) Die Auskunft nach Absatz 1 darf auch anhand einer zu einem
+bestimmten Zeitpunkt zugewiesenen Internetprotokoll-Adresse verlangt
+werden (§ 113 Absatz 1 Satz 3 des Telekommunikationsgesetzes).
+
+(3) Auskunftsverlangen nach Absatz 1 Satz 2 dürfen nur auf Antrag des
+Leiters der in der Rechtsverordnung nach § 58 Absatz 1 bestimmten
+Bundespolizeibehörde oder seines Vertreters durch das Gericht
+angeordnet werden. Bei Gefahr im Verzug kann die Anordnung durch den
+Leiter der in der Rechtsverordnung nach § 58 Absatz 1 bestimmten
+Bundespolizeibehörde oder seinen Vertreter getroffen werden. In diesem
+Fall ist die gerichtliche Entscheidung unverzüglich nachzuholen. Die
+Sätze 1 bis 3 finden keine Anwendung, wenn der Betroffene vom
+Auskunftsverlangen bereits Kenntnis hat oder haben muss oder wenn die
+Nutzung der Daten bereits durch eine gerichtliche Entscheidung
+gestattet wird. Das Vorliegen der Voraussetzungen nach Satz 4 ist
+aktenkundig zu machen. § 28 Absatz 3 Satz 5 und 6 gilt entsprechend.
+
+(4) Die betroffene Person ist in den Fällen des Absatzes 1 Satz 2 und
+des Absatzes 2 über die Beauskunftung zu benachrichtigen. Die
+Benachrichtigung erfolgt, soweit und sobald hierdurch der Zweck der
+Auskunft nicht vereitelt wird. Sie unterbleibt, wenn ihr überwiegende
+schutzwürdige Belange Dritter oder der betroffenen Person selbst
+entgegenstehen. Wird die Benachrichtigung nach Satz 2 zurückgestellt
+oder nach Satz 3 von ihr abgesehen, sind die Gründe aktenkundig zu
+machen.
+
+(5) Auf Grund eines Auskunftsverlangens nach Absatz 1 oder 2 hat
+derjenige, der geschäftsmäßig Telekommunikationsdienste erbringt oder
+daran mitwirkt, die zur Auskunftserteilung erforderlichen Daten
+unverzüglich zu übermitteln. Für die Entschädigung der Diensteanbieter
+ist § 23 des Justizvergütungs- und -entschädigungsgesetzes
+entsprechend anzuwenden.
+
+
 ##### § 23 Identitätsfeststellung und Prüfung von Berechtigungsscheinen
 
 (1) Die Bundespolizei kann die Identität einer Person feststellen
@@ -914,7 +965,7 @@ Anfertigung von Bild- und Tonaufzeichnungen von Teilnehmern erheben,
 wenn Tatsachen die Annahme rechtfertigen, daß bei oder im Zusammenhang
 mit einer solchen Veranstaltung oder Ansammlung erhebliche Gefahren
 für die öffentliche Sicherheit an der Grenze oder die Sicherheit der
-in § 23 Abs. 1 Nr. 2 bezeichneten Objekten entstehen. Die Erhebung
+in § 23 Abs. 1 Nr. 4 bezeichneten Objekten entstehen. Die Erhebung
 kann auch durchgeführt werden, wenn Dritte unvermeidbar betroffen
 werden.
 
@@ -979,6 +1030,132 @@ nicht zur Abwehr einer gegenwärtigen Gefahr oder zur Verfolgung einer
 Straftat oder Ordnungswidrigkeit benötigt werden.
 
 
+##### § 27a Mobile Bild- und Tonaufzeichnungsgeräte
+
+(1) Die Bundespolizei kann an öffentlich zugänglichen Orten
+personenbezogene Daten durch die offene Anfertigung von Bild- und
+Tonaufzeichnungen mittels körpernah getragener Bild- und
+Tonaufzeichnungsgeräte erheben, wenn tatsächliche Anhaltspunkte
+bestehen, dass dies erforderlich ist
+
+1.  zum Schutz von Beamtinnen und Beamten der Bundespolizei oder Dritten
+    gegen eine Gefahr für Leib, Leben, Freiheit oder Eigentum oder
+
+
+2.  zur Verfolgung von
+
+    a)  Straftaten oder
+
+
+    b)  Ordnungswidrigkeiten von auch im Einzelfall erheblicher Bedeutung.
+
+
+
+
+
+
+
+(2) Die Erhebung personenbezogener Daten kann auch dann erfolgen, wenn
+Dritte unvermeidbar betroffen sind. Auf Maßnahmen nach Absatz 1 ist in
+geeigneter Form hinzuweisen; bei Gefahr im Verzug kann der Hinweis
+unterbleiben.
+
+(3) Die Bild- und Tonaufzeichnungsgeräte dürfen im
+Bereitschaftsbetrieb in ihrem Zwischenspeicher kurzzeitig Daten
+erfassen. Diese Daten sind automatisch nach höchstens 30 Sekunden
+spurenlos zu löschen, es sei denn, es erfolgt eine Aufnahme nach
+Absatz 1. In diesem Fall dürfen die nach Satz 1 erfassten Daten bis zu
+einer Dauer von 30 Sekunden vor dem Beginn der Aufzeichnung nach
+Absatz 1 gespeichert werden.
+
+(4) Werden nach Absatz 1 personenbezogene Daten aufgezeichnet, sind
+die Bild- und Tonaufzeichnungen 30 Tage aufzubewahren. Im Anschluss
+sind die Aufzeichnungen unverzüglich zu vernichten, soweit sie nicht
+benötigt werden
+
+1.  für die Verfolgung von
+
+    a)  Straftaten oder
+
+
+    b)  Ordnungswidrigkeiten von auch im Einzelfall erheblicher Bedeutung,
+
+
+
+
+
+2.  im Einzelfall zur Gefahrenabwehr oder
+
+
+3.  im Einzelfall, insbesondere auf Verlangen des Betroffenen, für die
+    Überprüfung der Rechtmäßigkeit von aufgezeichneten polizeilichen
+    Maßnahmen.
+
+
+
+Aufzeichnungen, die aus den in Satz 2 Nummer 2 aufgeführten Gründen
+nicht vernichtet wurden, sind in jedem Fall spätestens nach Ablauf von
+sechs Monaten nach ihrer Entstehung zu vernichten, es sei denn, sie
+werden inzwischen für Zwecke des Satzes 2 Nummer 1 Buchstabe a oder
+Nummer 3 benötigt.
+
+
+##### § 27b Anlassbezogene automatische Kennzeichenerfassung
+
+(1) Die Bundespolizei kann zur Erfüllung ihrer Aufgaben nach § 2
+Absatz 2 im öffentlichen Verkehrsraum vorübergehend und nicht
+flächendeckend die Kennzeichen von Fahrzeugen ohne Wissen der Person
+durch den Einsatz technischer Mittel automatisch erheben, wenn
+
+1.  dies zur Abwehr einer gegenwärtigen Gefahr für Leib, Leben oder
+    Freiheit einer Person erforderlich ist,
+
+
+2.  dies auf Grund von tatsächlichen Anhaltspunkten für Straftaten von
+    erheblicher Bedeutung, die gegen die Sicherheit der Grenze gerichtet
+    sind, erfolgt oder
+
+
+3.  eine Person oder ein Fahrzeug durch die Bundespolizei oder eine andere
+    Behörde ausgeschrieben wurde und die Begehung einer Straftat von
+    erheblicher Bedeutung durch diese Person oder mittels des
+    ausgeschriebenen Fahrzeugs unmittelbar bevorsteht oder andauert.
+
+
+
+
+(2) Die nach Absatz 1 erhobenen Daten können mit dem Fahndungsbestand
+nach § 34 Absatz 1 Satz 2 automatisch abgeglichen werden.
+
+(3) Im Trefferfall ist unverzüglich die Übereinstimmung zwischen den
+erfassten Daten und den Daten aus dem Fahndungsbestand zu überprüfen.
+Die übereinstimmenden Daten können verarbeitet und zusammen mit den
+gewonnenen Erkenntnissen an die ausschreibende Stelle übermittelt
+werden.
+
+(4) Liegt kein Treffer vor, sind die Daten sofort und spurenlos zu
+löschen.
+
+(5) Sofern der Abgleich der erhobenen Daten mit dem Fahndungsbestand
+nach § 34 Absatz 1 Satz 2 zwar einen Treffer ergibt, die Ausschreibung
+im Fahndungsbestand jedoch nicht im Zusammenhang mit der Verfolgung
+der Zwecke des Absatzes 1 Nummer 1 bis 3 steht, sind die Daten sofort
+und spurenlos zu löschen, es sei denn, sie werden benötigt, um die
+Begehung einer Straftat von erheblicher Bedeutung zu verfolgen.
+
+
+##### § 27c Gesprächsaufzeichnung
+
+(1) Die Bundespolizei kann bei Einsatzleitstellen eingehende
+Telefonanrufe aufzeichnen, soweit dies zur Erfüllung ihrer Aufgaben
+notwendig ist.
+
+(2) Die Aufzeichnungen sind sofort und spurenlos zu löschen, sobald
+sie nicht mehr zur Aufgabenerfüllung erforderlich sind, spätestens
+jedoch nach 30 Tagen, es sei denn, sie werden im Einzelfall zur
+Verfolgung von Straftaten oder zur Gefahrenabwehr weiter benötigt.
+
+
 ##### § 28 Besondere Mittel der Datenerhebung
 
 (1) Die Bundespolizei kann unter Beachtung des § 70 Satz 2
@@ -1019,15 +1196,19 @@ werden.
     a)  zur Anfertigung von Bildaufnahmen oder -aufzeichnungen,
 
 
-    b)  zum Abhören oder Aufzeichnen des nicht öffentlich gesprochenen Wortes
-        und
+    b)  zum Abhören oder Aufzeichnen des nicht öffentlich gesprochenen Wortes,
 
 
 
 
 
 3.  der Einsatz von Personen, die nicht der Bundespolizei angehören und
-    deren Zusammenarbeit mit der Bundespolizei Dritten nicht bekannt ist.
+    deren Zusammenarbeit mit der Bundespolizei Dritten nicht bekannt ist
+    und
+
+
+4.  der Einsatz von Polizeivollzugsbeamten unter einer ihnen auf Dauer
+    angelegten Legende (Verdeckter Ermittler).
 
 
 
@@ -1046,6 +1227,22 @@ gelten die Vorschriften des Gesetzes über das Verfahren in
 Familiensachen und in den Angelegenheiten der freiwilligen
 Gerichtsbarkeit entsprechend.
 
+(3a) Maßnahmen nach Absatz 2 Nummer 4, die sich gegen eine bestimmte
+Person richten oder bei denen der Verdeckte Ermittler eine Wohnung
+betritt, die nicht allgemein zugänglich ist, dürfen nur durch das
+Gericht angeordnet werden. Bei Gefahr im Verzug dürfen Maßnahmen nach
+Satz 1 durch den Präsidenten des Bundespolizeipräsidiums, seinen
+Vertreter oder durch den Leiter einer Abteilung des
+Bundespolizeipräsidiums angeordnet werden. In diesem Fall ist die
+gerichtliche Entscheidung unverzüglich nachzuholen. Soweit die
+Anordnung nicht binnen drei Tagen durch das Gericht bestätigt wird,
+tritt sie außer Kraft. Die Anordnung ist unter Angabe der maßgeblichen
+Gründe aktenkundig zu machen und auf höchstens drei Monate zu
+befristen. Die Verlängerung einer Maßnahme um jeweils einen Monat ist
+bei erneuter Anordnung durch ein Gericht möglich. Zuständig ist das
+Amtsgericht, in dessen Bezirk das Bundespolizeipräsidium seinen Sitz
+hat. Absatz 3 Satz 6 gilt entsprechend.
+
 (4) Unterlagen, die durch Maßnahmen der in Absatz 2 genannten Art
 erlangt worden sind, sind unverzüglich zu vernichten, soweit sie für
 den der Anordnung zugrunde liegenden Zweck oder nach Maßgabe der
@@ -1061,6 +1258,125 @@ auslösenden Sachverhalts ein strafrechtliches Ermittlungsverfahren
 gegen den Betroffenen durchgeführt wird und durch die Unterrichtung
 der Untersuchungszweck gefährdet würde; die Entscheidung trifft die
 Staatsanwaltschaft.
+
+(6) Verdeckte Ermittler dürfen unter einer Legende
+
+1.  zur Erfüllung ihres Auftrages am Rechtsverkehr teilnehmen und
+
+
+2.  mit Einverständnis des Berechtigten dessen Wohnung betreten; das
+    Einverständnis darf nicht durch ein über die Nutzung der Legende
+    hinausgehendes Vortäuschen eines Zutrittsrechts herbeigeführt werden.
+
+
+
+Soweit es für den Aufbau und die Aufrechterhaltung der Legende von
+Verdeckten Ermittlern unerlässlich ist, dürfen entsprechende Urkunden
+hergestellt, verändert oder gebraucht werden.
+
+(7) Über eine Maßnahme nach Absatz 2 Nummer 4 sind zu benachrichtigen
+
+1.  die Zielperson,
+
+
+2.  die erheblich mitbetroffenen Personen sowie
+
+
+3.  die Personen, deren nicht allgemein zugängliche Wohnung der Verdeckte
+    Ermittler betreten hat.
+
+
+
+Die Benachrichtigung unterbleibt, wenn ihr überwiegende schutzwürdige
+Belange einer betroffenen Person entgegenstehen. Nachforschungen zur
+Feststellung der Identität einer in Satz 1 bezeichneten Person sind
+nur vorzunehmen, wenn dies unter Berücksichtigung der
+Eingriffsintensität der Maßnahme gegenüber dieser Person, des Aufwands
+für die Feststellung ihrer Identität sowie der daraus für diese oder
+andere Personen folgenden Beeinträchtigungen geboten ist.
+
+(8) Die Benachrichtigung über eine Maßnahme nach Absatz 2 Nummer 4
+erfolgt, sobald dies möglich ist ohne Gefährdung
+
+1.  des Zwecks der Maßnahme,
+
+
+2.  des Bestandes des Staates,
+
+
+3.  von Leib, Leben oder Freiheit einer Person,
+
+
+4.  von Sachen von bedeutendem Wert, deren Erhaltung im öffentlichen
+    Interesse geboten ist, oder
+
+
+5.  der Möglichkeit der weiteren Verwendung des Verdeckten Ermittlers.
+
+
+
+Wird wegen des zugrunde liegenden Sachverhaltes ein strafrechtliches
+Ermittlungsverfahren geführt, erfolgt die Benachrichtigung durch die
+Strafverfolgungsbehörde entsprechend den Vorschriften des
+Strafverfahrensrechts. Wird die Benachrichtigung aus einem der
+vorgenannten Gründe zurückgestellt, ist dies aktenkundig zu machen.
+
+(9) Erfolgt die nach Absatz 8 zurückgestellte Benachrichtigung nicht
+binnen zwölf Monaten nach Beendigung der Maßnahme, bedarf die weitere
+Zurückstellung der gerichtlichen Zustimmung. Das Gericht bestimmt die
+Dauer der weiteren Zurückstellung, jedoch nicht länger als zwölf
+Monate. Verlängerungen der Zurückstellungsdauer sind zulässig. Fünf
+Jahre nach Beendigung der Maßnahme kann mit gerichtlicher Zustimmung
+endgültig von der Benachrichtigung abgesehen werden, wenn die
+Voraussetzungen für die Benachrichtigung mit an Sicherheit grenzender
+Wahrscheinlichkeit auch in Zukunft nicht eintreten werden.
+
+
+##### § 28a Einsatz technischer Mittel zur Eigensicherung
+
+(1) Werden Verdeckte Ermittler im Rahmen der Gefahrenabwehr nach § 28
+Absatz 2 Nummer 4 oder aus Gründen der Strafverfolgung tätig, dürfen,
+soweit dies zur Abwehr von Gefahren für deren Leib, Leben oder
+Freiheit unerlässlich ist, ohne Wissen der Betroffenen im Beisein oder
+in unmittelbarem zeitlichen Zusammenhang mit dem Einsatz des
+Verdeckten Ermittlers das innerhalb oder außerhalb einer Wohnung nicht
+öffentlich gesprochene Wort mit technischen Mitteln abgehört,
+aufgezeichnet und Lichtbilder sowie Bildaufzeichnungen hergestellt
+werden.
+
+(2) Ist der Kernbereich privater Lebensgestaltung betroffen, ist die
+Maßnahme unverzüglich zu unterbrechen, sobald dies ohne Gefährdung des
+Verdeckten Ermittlers möglich ist. Bereits erfasste Daten, die den
+Kernbereich privater Lebensgestaltung betreffen, sind unverzüglich zu
+löschen. Erkenntnisse über solche Vorgänge dürfen nicht verwertet
+werden. Die Tatsache der Erfassung der Daten und ihrer Löschung ist
+aktenkundig zu machen. Diese Daten dürfen ausschließlich zu Zwecken
+der Datenschutzkontrolle verwendet werden. Sie sind zu löschen, wenn
+sie für diese Zwecke nicht mehr erforderlich sind, spätestens jedoch
+am Ende des zweiten Kalenderjahres, das dem Jahr der Dokumentierung
+folgt.
+
+(3) Maßnahmen nach Absatz 1 dürfen nur durch den Präsidenten des
+Bundespolizeipräsidiums, seinen Vertreter oder durch den Leiter einer
+Abteilung des Bundespolizeipräsidiums angeordnet werden. Bei Gefahr im
+Verzug dürfen Maßnahmen auch durch Beamte des höheren Dienstes des
+Bundespolizeipräsidiums angeordnet werden.
+
+(4) Die Zulässigkeit der Verwendung von personenbezogenen Daten, die
+durch den Einsatz technischer Mittel zur Eigensicherung erlangt
+werden, richtet sich für Zwecke der Strafverfolgung nach § 161 Absatz
+2 und 3 der Strafprozessordnung. Im Übrigen dürfen diese Daten außer
+für die in Absatz 1 genannten Zwecke nur zur Gefahrenabwehr verwendet
+werden. Wurden diese Daten in oder aus einer Wohnung erlangt, so ist
+die Verwendung zur Gefahrenabwehr nur zulässig nach Feststellung der
+Rechtmäßigkeit der Maßnahme durch das Amtsgericht, in dessen Bezirk
+das Bundespolizeipräsidium seinen Sitz hat; bei Gefahr im Verzug ist
+die gerichtliche Entscheidung unverzüglich nachzuholen.
+
+(5) Nach Abschluss der Maßnahme sind die nach Absatz 1 hergestellten
+Aufzeichnungen unverzüglich zu löschen, es sei denn, sie werden für
+die in Absatz 4 genannten Zwecke noch benötigt. § 28 Absatz 7 bis 9
+gilt entsprechend.
 
 
 #### Teil 2 - Datenverarbeitung und Datennutzung
@@ -1225,11 +1541,11 @@ werden.
 (5) Die Bundespolizei kann ferner personenbezogene Daten der in Absatz
 1 bezeichneten Art im automatisierten Verfahren in den
 Fahndungsbestand des polizeilichen Informationssystems zum Zwecke der
-Ingewahrsamnahme, Aufenthaltsermittlung oder Überprüfung der Person
-eingeben, wenn sie nach den Vorschriften dieses Gesetzes befugt ist,
-die mit der Ausschreibung bezweckte Maßnahme selbst vorzunehmen oder
-durch eine zum Abruf der Daten im automatisierten Verfahren
-berechtigte Stelle vornehmen zu lassen.
+Einreiseverweigerung, Ingewahrsamnahme, Aufenthaltsermittlung oder
+Überprüfung der Person eingeben, wenn sie nach den Vorschriften dieses
+Gesetzes befugt ist, die mit der Ausschreibung bezweckte Maßnahme
+selbst vorzunehmen oder durch eine zum Abruf der Daten im
+automatisierten Verfahren berechtigte Stelle vornehmen zu lassen.
 
 
 ##### § 31 Ausschreibung zur grenzpolizeilichen Beobachtung
@@ -1640,7 +1956,7 @@ der Datenverarbeitungsanlage verwendet werden, es sei denn, es liegen
 Anhaltspunkte dafür vor, daß ohne ihre Verwendung die Verhinderung
 oder Verfolgung einer schwerwiegenden Straftat gegen Leib, Leben oder
 Freiheit einer Person aussichtslos oder wesentlich erschwert wäre. Die
-Protokolldaten sind nach sechs Monaten zu löschen. Die Bundespolizei
+Protokolldaten sind nach zwölf Monaten zu löschen. Die Bundespolizei
 trifft die technischen und organisatorischen Maßnahmen nach § 9 des
 Bundesdatenschutzgesetzes.
 
@@ -1763,8 +2079,8 @@ Interessen des Betroffenen erforderlich ist.
 
 (9) Anstelle der Löschung und Vernichtung nach Absatz 2 Nr. 2 und
 Absatz 5 Satz 2 sind die Datenträger an das zuständige Archiv
-abzugeben, sofern diesen Unterlagen bleibender Wert im Sinne des § 3
-des Bundesarchivgesetzes zukommt.
+abzugeben, sofern diesen Unterlagen bleibender Wert im Sinne des § 1
+Nummer 10 des Bundesarchivgesetzes zukommt.
 
 
 ##### § 36 Errichtungsanordnung
@@ -2823,8 +3139,9 @@ Bundesamt die Verhängung eines Bußgeldes nach Absatz 1 mit.
 
 Die Grundrechte der körperlichen Unversehrtheit (Artikel 2 Abs. 2 Satz
 1 des Grundgesetzes), der Freiheit der Person (Artikel 2 Abs. 2 Satz 2
-des Grundgesetzes) und der Freizügigkeit (Artikel 11 Abs. 1 des
+des Grundgesetzes), des Fernmeldegeheimnisses (Artikel 10 des
+Grundgesetzes) und der Freizügigkeit (Artikel 11 Abs. 1 des
 Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt. Das
 Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
-Grundgesetzes) wird durch die §§ 45 und 46 eingeschränkt.
+Grundgesetzes) wird durch die §§ 28a, 45 und 46 eingeschränkt.
 

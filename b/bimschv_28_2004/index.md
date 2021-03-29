@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2004, 614 (1423)
 
 Zuletzt geändert durch
-:   Art. 1 V v. 14.8.2012 I 1712
+:   Art. 81 V v. 31.8.2015 I 1474
 
 Diese Verordnung dient der Umsetzung der Richtlinien 2001/63/EG der
 Kommission vom 17. August 2001 zur Anpassung der Richtlinie 97/68/EG
@@ -196,7 +196,7 @@ werden, wenn
     (Stufe I)
 
 
-6.  sie                    und bei
+6.  sie und bei
 
     a)  handgehaltenen Fremdzündungsmotoren mit einer Nutzleistung von oder
         unter 19 kW mit einem Hubraum von
@@ -331,10 +331,10 @@ genannten Emissionsgrenzwertanforderungen ab dem 31. Juli 2013
 anzuwenden. Bis zu diesem Zeitpunkt gelten für Maschinen und Geräte im
 Sinne des Satzes 2 weiterhin die Emissionsgrenzwertanforderungen nach
 Anhang I Nummer 4.2.2.1 der Richt
-linie 97/68/EG.              Für Maschinen und Geräte nach Satz 1
-gelten bis zum Ablauf der in Satz 1 genannten drei Jahre ebenfalls
-weiterhin die Emissionsgrenzwertanforderungen nach Anhang I Nummer
-4\.2.2.1 der Richtlinie 97/68/EG.
+linie 97/68/EG. Für Maschinen und Geräte nach Satz 1 gelten bis zum
+Ablauf der in Satz 1 genannten drei Jahre ebenfalls weiterhin die
+Emissionsgrenzwertanforderungen nach Anhang I Nummer 4.2.2.1 der
+Richtlinie 97/68/EG.
 
 (4) Die Erfüllung der unter § 2 Abs. 1 Nr. 6 und § 4 Abs. 13 genannten
 Anforderungen werden für Motorenhersteller, deren gesamtes
@@ -753,7 +753,7 @@ der Genehmigungsbehörde gemäß § 6 Abs. 3 ausgestellt worden sind.
 1.  den Genehmigungsbehörden der übrigen Mitgliedstaaten der Europäischen
     Union jeden Monat eine Liste der Motoren und Motorenfamilien mit den
     in Anhang IX der Richtlinie 97/68/EG geforderten Daten, deren
-    Genehmigung sie in dem betreffenden Monat  erteilt, verweigert oder
+    Genehmigung sie in dem betreffenden Monat erteilt, verweigert oder
     widerrufen hat;
 
 
@@ -791,7 +791,7 @@ Einzelheiten und die Begründung für die einem Hersteller gewährte
 Ausnahmegenehmigung nach § 3 zu übermitteln.
 
 (4) Die Genehmigungsbehörde übermittelt dem Bundesministerium für
-Umwelt, Naturschutz und Reaktorsicherheit zur Weitergabe an die
+Umwelt, Naturschutz, Bau und Reaktorsicherheit zur Weitergabe an die
 Kommission jedes Jahr eine Liste der erteilten Ausnahmegenehmigungen
 mit ihren Begründungen.
 

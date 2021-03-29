@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 22.8.2006 I 2043;
 
-Geändert durch
-:   Art. 1 V v. 1.10.2009 I 3223
+Zuletzt geändert durch
+:   Art. 3 Abs. 2 G v. 30.6.2017 I 2147
 
 Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 
@@ -38,8 +38,8 @@ Diese Verordnung dient der Umsetzung folgender Rechtsakte:
 
 3.  Richtlinie 1999/74/EG des Rates vom 19. Juli 1999 zur Festlegung von
     Mindestanforderungen zum Schutz von Legehennen (ABl. EG Nr. L 203 S.
-    53), geändert durch die Verordnung (EG) Nr. 806/2003 des Rates vom 14.
-    April 2003 (ABl. EU Nr. L 122 S 1),
+    53), zuletzt geändert durch die Richtlinie 2013/64/EU (ABl. L 353 vom
+    28\.12.2013, S. 8),
 
 
 4.  Richtlinie 91/630/EWG des Rates vom 19. November 1991 über
@@ -85,7 +85,7 @@ Erwerbszwecken.
     sind;
 
 
-3.  während eines Tierversuchs im Sinne des § 7 Abs. 1 des
+3.  während eines Tierversuchs im Sinne des § 7 Absatz 2 des
     Tierschutzgesetzes, soweit für den verfolgten Zweck andere
     Anforderungen an das Halten unerlässlich sind.
 
@@ -185,11 +185,24 @@ Im Sinne dieser Verordnung sind
     sind;
 
 
-22. Pelztiere: Tiere der Arten Nerz (Mustela vison), Iltis (Mustela
-    putorius), Rotfuchs (Vulpes vulpes), Polarfuchs (Alopex lagopus),
-    Sumpfbiber (Myocastor coypus), Chinchilla (Chinchilla chinchilla,
-    Chinchilla brevicaudata und Chinchilla lanigera) und Marderhund
-    (Nyctereutes procyonoides).
+22. Kaninchen: Tiere der Art Oryctolagus cuniculus forma domestica;
+
+
+23. Zuchtkaninchen: zum Zweck der Zucht gehaltene geschlechtsreife
+    Kaninchen;
+
+
+24. Mastkaninchen: Kaninchen, die der Gewinnung von Lebensmitteln dienen,
+    vom Absetzen bis zur Schlachtung;
+
+
+25. Häsin: geschlechtsreifes weibliches Kaninchen;
+
+
+26. Rammler: geschlechtsreifes männliches Kaninchen;
+
+
+27. (weggefallen).
 
 
 
@@ -682,24 +695,14 @@ der Anforderungen der §§ 3 und 4, nur nach Maßgabe der Vorschriften
 dieses Abschnitts gehalten werden.
 
 
-### § 13 Anforderungen an Haltungseinrichtungen für Legehennen
+### § 13 Allgemeine Anforderungen an Haltungseinrichtungen für Legehennen
 
-(1) Legehennen dürfen in Haltungseinrichtungen nur nach Maßgabe der
-Anforderungen der Absätze 2 bis 5 gehalten werden, soweit sich aus §
-13a oder § 13b nicht etwas anderes ergibt.
+(1) Legehennen dürfen nur in Haltungseinrichtungen gehalten werden,
+die den Anforderungen der Absätze 2 bis 5 sowie des § 13a entsprechen.
 
-(2) Haltungseinrichtungen müssen
-
-1.  eine Fläche von mindestens 2,5 Quadratmetern aufweisen, auf der die
-    Legehennen sich ihrer Art und ihren Bedürfnissen entsprechend
-    angemessen bewegen können;
-
-
-2.  so ausgestattet sein, dass alle Legehennen artgemäß fressen, trinken,
-    ruhen, staubbaden sowie ein Nest aufsuchen können.
-
-
-
+(2) Haltungseinrichtungen müssen so ausgestattet sein, dass alle
+Legehennen artgemäß fressen, trinken, ruhen, staubbaden sowie ein Nest
+aufsuchen können.
 
 (3) Gebäude müssen nach Maßgabe des § 14 Abs. 1 Nr. 2 so beleuchtet
 sein, dass sich die Tiere untereinander erkennen und durch die mit der
@@ -771,22 +774,35 @@ Kubikmeter Luft dauerhaft nicht überschreiten darf.
 direkter Stromeinwirkung ausgesetzt sein.
 
 
-### § 13a Besondere Anforderungen an die Bodenhaltung
+### § 13a Besondere Anforderungen an Haltungseinrichtungen für Legehennen
 
-(1) Legehennen dürfen in Bodenhaltung nur nach Maßgabe der
-Anforderungen der Absätze 2 bis 10 gehalten werden.
+(1) Haltungseinrichtungen müssen
 
-(2) Für je neun Legehennen muss, unbeschadet des § 13 Abs. 2 Nr. 1, in
-einer Haltungseinrichtung mindestens eine nutzbare Fläche von einem
-Quadratmeter zur Verfügung stehen. Ein Bereich der Einstreu kann zur
-nutzbaren Fläche nur gerechnet werden, wenn er den Legehennen täglich
-während der gesamten Hellphase uneingeschränkt zur Verfügung steht.
-Kombinierte Ruhe- und Versorgungseinrichtungen mit parallel
-verlaufenden Laufstegen, unter und über denen eine lichte Höhe von
-mindestens 45 Zentimetern vorhanden ist, können bei der Berechnung der
-Besatzdichte mit der abgedeckten Fläche berücksichtigt werden, sofern
-auf den Laufstegen ein sicheres Fußen gewährleistet ist und ruhende
-und fressende Tiere sich gegenseitig nicht stören. In
+1.  eine Fläche von mindestens 2,5 Quadratmetern, auf der die Legehennen
+    sich ihrer Art und ihren Bedürfnissen entsprechend angemessen bewegen
+    können, sowie
+
+
+2.  eine Höhe von mindestens 2 Metern, von ihrem Boden aus gemessen,
+
+
+
+aufweisen. Auf Antrag des Tierhalters kann die zuständige Behörde eine
+Ausnahme von Satz 1 Nummer 2 genehmigen, soweit dies im Einzelfall zur
+Vermeidung einer unbilligen Härte erforderlich ist und Gründe des
+Tierschutzes nicht entgegenstehen.
+
+(2) Für je neun Legehennen muss, unbeschadet des Absatzes 1 Satz 1
+Nummer 1, mindestens eine nutzbare Fläche von einem Quadratmeter zur
+Verfügung stehen. Ein Bereich der Einstreu kann zur nutzbaren Fläche
+nur gerechnet werden, wenn er den Legehennen täglich während der
+gesamten Hellphase uneingeschränkt zur Verfügung steht. Kombinierte
+Ruhe- und Versorgungseinrichtungen mit parallel verlaufenden
+Laufstegen, unter und über denen eine lichte Höhe von mindestens 45
+Zentimetern vorhanden ist, können bei der Berechnung der Besatzdichte
+mit der abgedeckten Fläche berücksichtigt werden, sofern auf den
+Laufstegen ein sicheres Fußen gewährleistet ist und ruhende und
+fressende Tiere sich gegenseitig nicht stören. In
 Haltungseinrichtungen, in denen die nutzbare Fläche sich auf mehreren
 Ebenen befindet, dürfen je Quadratmeter von den Tieren nutzbare
 Stallgrundfläche nicht mehr als 18 Legehennen gehalten werden. Es
@@ -866,57 +882,8 @@ ist.
 
 
 
-### § 13b Besondere Anforderungen an die Kleingruppenhaltung
+### § 13b (weggefallen)
 
-(1) Legehennen dürfen als Kleingruppen nur nach Maßgabe der
-Anforderungen der Absätze 2 bis 7 gehalten werden.
-
-(2) Für jede Legehenne muss, unbeschadet des § 13 Abs. 2 Nr. 1,
-jederzeit eine uneingeschränkt nutzbare Fläche von mindestens 800
-Quadratzentimetern zur Verfügung stehen. Beträgt das
-Durchschnittsgewicht der Legehennen in der Haltungseinrichtung mehr
-als zwei Kilogramm, muss abweichend von Satz 1 eine nutzbare Fläche
-von mindestens 900 Quadratzentimetern zur Verfügung stehen. Für die
-Berechnung der Fläche ist diese in der Waagerechten zu messen.
-
-(3) Die lichte Höhe einer Haltungseinrichtung muss
-
-1.  an der Seite der Haltungseinrichtung, an der der Futtertrog angebracht
-    ist, mindestens 60 Zentimeter betragen und
-
-
-2.  darf im Übrigen an keiner Stelle über der Fläche nach Absatz 2
-    niedriger als 50 Zentimeter sein.
-
-
-
-
-(4) Für jeweils bis zu zehn Legehennen muss jederzeit ein
-Einstreubereich von mindestens 900 Quadratzentimetern Fläche und ein
-Gruppennest von mindestens 900 Quadratzentimeter zugänglich sein. Das
-Gruppennest muss weniger ausgeleuchtet sein als die übrige Fläche.
-Übersteigt die Gruppengröße 30 Legehennen, ist für jede weitere
-Legehenne der Einstreubereich und das Gruppennest um jeweils 90
-Quadratzentimeter zu vergrößern.
-
-(5) Jeder Legehenne muss ein uneingeschränkt nutzbarer Futtertrog mit
-einer Kantenlänge von mindestens zwölf Zentimetern und eine Sitzstange
-von mindestens 15 Zentimetern Länge zur Verfügung stehen. Beträgt das
-Durchschnittsgewicht der Legehenne in der Haltungseinrichtung mehr als
-zwei Kilogramm, muss der Futtertrog abweichend von Satz 1 eine Länge
-von mindestens 14,5 Zentimetern je Legehenne aufweisen. Je
-Haltungseinrichtung müssen mindestens zwei Sitzstangen vorhanden sein,
-die in unterschiedlicher Höhe angeordnet sind.
-
-(6) Die Gänge zwischen den Reihen der Haltungseinrichtungen müssen
-mindestens 90 Zentimeter breit sein und der Abstand zwischen dem Boden
-des Gebäudes und der unteren Reihe der Haltungseinrichtungen muss
-mindestens 35 Zentimeter betragen.
-
-(7) Die Form und die Größe der Öffnung der Haltungseinrichtung muss
-gewährleisten, dass eine ausgewachsene Legehenne herausgenommen werden
-kann, ohne dass ihr vermeidbare Schmerzen, Leiden oder Schäden
-zugefügt werden.
 
 
 ### § 14 Überwachung, Fütterung und Pflege von Legehennen
@@ -955,7 +922,7 @@ Aufzeichnungen zu machen. § 4 Abs. 2 Satz 2 und 3 gilt entsprechend.
 
 Die zuständige Behörde kann im Einzelfall für längstens drei Jahre zur
 Erprobung von neuartigen Haltungseinrichtungen Ausnahmen von einzelnen
-Bestimmungen mit Ausnahme des § 13 Abs. 2 Nr. 2 zulassen, wenn
+Bestimmungen mit Ausnahme des § 13 Absatz 2 zulassen, wenn
 sichergestellt ist, dass in der Haltungseinrichtung ein artgemäßes
 Verhalten möglich ist. Dabei ist sicherzustellen, dass die Legehennen
 über ausreichende Möglichkeiten zum erhöhten Sitzen, Flattern und
@@ -1192,7 +1159,7 @@ so einzubauen und zu bedienen, dass
 5.  je Kilogramm Gesamtlebendgewicht der sich gleichzeitig in dem
     Masthühnerstall befindenden Masthühner ein Luftaustausch von
     mindestens 4,5 m
-    3                    je Stunde erreicht werden kann.
+    3 je Stunde erreicht werden kann.
 
 
 
@@ -1275,13 +1242,13 @@ hinzuzuziehen.
 
 (3) Wer Masthühner hält, hat sicherzustellen, dass die
 Masthühnerbesatzdichte zu keinem Zeitpunkt 39 kg/m
-2              überschreitet.
+2 überschreitet.
 
 (4) Abweichend von Absatz 3 hat der Halter von Masthühnern
 sicherzustellen, dass im Durchschnitt dreier aufeinander folgender
 Mastdurchgänge die Masthühnerbesatzdichte 35 kg/m
-2              nicht überschreitet, soweit das durchschnittliche
-Gewicht der Masthühner weniger als 1 600 g beträgt.
+2 nicht überschreitet, soweit das durchschnittliche Gewicht der
+Masthühner weniger als 1 600 g beträgt.
 
 (5) Der Halter fertigt für jeden Masthühnerstall seines Betriebs
 Aufzeichnungen über das Erzeugungsverfahren und Angaben über den Stall
@@ -1971,232 +1938,629 @@ Kot- und Harnentsorgung vereinbar ist.
 (8) § 28 Absatz 2 Nummer 3 bis 5 gilt entsprechend.
 
 
-## Abschnitt 6 - Anforderungen an das Halten von Pelztieren
+## Abschnitt 6 - Anforderungen an das Halten von Kaninchen
 
 
 
-### § 31 Verbot der Haltung bestimmter Tiere
+### § 31 Anwendungsbereich
 
-Tiere der in § 2 Nummer 22 genannten Arten dürfen nicht zur Erzeugung
-von Pelzen oder zur Zucht von Pelztieren gehalten werden, soweit sie
-der Natur entnommen wurden.
+(1) Kaninchen dürfen, unbeschadet der Anforderungen der §§ 3 und 4,
+nur nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
 
+(2) Die Vorschriften dieses Abschnitts sind nicht anzuwenden
 
-### § 32 Anwendungsbereich
+1.  auf das Halten von Kaninchen, die zur Verwendung in Tierversuchen
+    bestimmt sind oder deren Gewebe oder Organe dazu bestimmt sind, zu
+    wissenschaftlichen Zwecken verwendet zu werden und
 
-Pelztiere dürfen, unbeschadet der Anforderungen der §§ 3 und 4, nur
-nach Maßgabe der Vorschriften dieses Abschnitts gehalten werden.
 
+2.  für die Verwendung von Kaninchen während eines Tierversuchs.
 
-### § 33 Anforderungen an Haltungseinrichtungen für Pelztiere
 
-(1) Pelztiere dürfen nur in Haltungseinrichtungen gehalten werden, die
-den Anforderungen der Absätze 2 bis 9 entsprechen.
 
-(2) Die Haltungseinrichtung muss
 
-1.  so beschaffen sein, dass alle Pelztiere artgemäß fressen, trinken und
-    ruhen können;
 
+### § 32 Allgemeine Anforderungen an Haltungseinrichtungen für Kaninchen
 
-2.  einen gesonderten Bereich mit festen Wänden aufweisen, in den sich die
-    Tiere zurückziehen können und der so bemessen ist, dass alle Tiere
-    darin gleichzeitig liegen können, und dessen Öffnung so angebracht
-    ist, dass neugeborene Tiere zurückgehalten werden und erwachsene Tiere
-    leichten Zugang haben (Nestkasten);
+(1) Kaninchen dürfen nur in Haltungseinrichtungen gehalten werden, die
+den Anforderungen der Absätze 2 bis 10 entsprechen.
 
+(2) Haltungseinrichtungen müssen so beschaffen sein, dass Kaninchen
+nicht mehr als unvermeidbar mit Harn und Kot in Berührung kommen und
+ihnen ein trockener Liegebereich zur Verfügung steht. Die Form und die
+Größe der Öffnung der Haltungseinrichtung müssen gewährleisten, dass
+ein Kaninchen herausgenommen werden kann, ohne dass ihm vermeidbare
+Schmerzen, Leiden oder Schäden zugefügt werden.
 
-3.  mit frostgeschützten Tränkvorrichtungen ausgestattet sein, die so
-    verteilt und bemessen sind, dass alle Pelztiere jederzeit Zugang zu
-    Tränkwasser haben;
+(3) Der Boden der Haltungseinrichtung muss
 
+1.  im ganzen Aufenthaltsbereich der Kaninchen rutschfest und trittsicher
+    sein und
 
-4.  mit Öffnungen versehen sein, die ein Entnehmen der Pelztiere ohne
-    Schmerzen oder vermeidbare Leiden oder Schäden für die Tiere erlauben;
 
+2.  soweit perforierter Boden verwendet wird, im Aufenthaltsbereich der
+    Kaninchen Auftrittsbreiten, die mindestens den Spalten- oder
+    Lochweiten entsprechen, und höchstens Spalten- oder Lochweiten nach
+    folgender Tabelle aufweisen:
 
-5.  ausreichenden Schutz vor direkter Sonneneinstrahlung bieten.
+    *        *   Nutzungsart
 
+        *   maximale Spalten-
+            oder Lochweite
+            in Millimetern
 
 
+    *        *   Mastkaninchen
 
-(3) Der Nestkasten nach Absatz 2 Nr. 2 muss
+        *   11
 
-1.  für Rotfüchse und Polarfüchse (Füchse) erhöht angebracht sein und aus
-    einer Hauptkammer sowie einer Vorkammer bestehen, die den Eingang zur
-    Hauptkammer verbirgt,
 
+    *        *   Zuchtkaninchen
 
-2.  für Sumpfbiber aus mindestens zwei Kammern bestehen und mit zwei
-    Ausgängen ausgestattet sein.
+        *   14
 
 
 
+    .
 
-(4) Haltungseinrichtungen dürfen nicht übereinander angeordnet sein.
 
-(5) Haltungseinrichtungen müssen zusätzlich zu den Innenflächen eines
-Nestkastens und den Flächen eines Schwimmbeckens oder Sandbades
-folgende Grundflächen aufweisen:
 
-1.  für Nerze und Iltisse für jedes ausgewachsene Tier und für jedes
-    Jungtier nach dem Absetzen eine Grundfläche von mindestens einem
-    Quadratmeter, mindestens jedoch eine Grundfläche von drei
-    Quadratmetern;
 
+(4) Haltungseinrichtungen müssen so beschaffen sein, dass jedem Zucht-
+und Mastkaninchen zusätzlich zu der in § 33 Absatz 3 Nummer 1 und 2
+oder § 34 Absatz 2 Nummer 1 genannten Fläche eine uneingeschränkt
+nutzbare erhöhte Bodenfläche zugänglich ist, die
 
-2.  für Füchse und Marderhunde für jedes ausgewachsene Tier und für jedes
-    Jungtier nach dem Absetzen eine Grundfläche von mindestens drei
-    Quadratmetern, mindestens jedoch eine Grundfläche von zwölf
-    Quadratmetern;
+1.  jedem Mastkaninchen mindestens 300, jedem Zuchtkaninchen mindestens
+    600 Quadratzentimeter zur Verfügung stellt,
 
 
-3.  für Sumpfbiber für jedes ausgewachsene Tier eine Grundfläche von
-    mindestens zwei Quadratmetern und für jedes Jungtier nach dem Absetzen
-    eine Grundfläche von mindestens 0,5 Quadratmetern, mindestens jedoch
-    eine Grundfläche von vier Quadratmetern;
+2.  eine Mindestfläche von 1 500, bei Zuchtkaninchen von 1 800
+    Quadratzentimetern aufweist,
 
 
-4.  für Chinchillas für jedes ausgewachsene Tier eine Grundfläche von
-    mindestens 0,5 Quadratmetern und für jedes Jungtier nach dem Absetzen
-    eine Grundfläche von mindestens 0,3 Quadratmetern, mindestens jedoch
-    eine Grundfläche von einem Quadratmeter.
+3.  mindestens 30 Zentimeter breit und 50, bei Zuchtkaninchen 60
+    Zentimeter lang ist,
 
 
+4.  jeweils mindestens 27 Zentimeter Abstand bei Mastkaninchen und jeweils
+    mindestens 35 Zentimeter Abstand bei Zuchtkaninchen vom Boden und zur
+    oberen Begrenzung der Haltungseinrichtung aufweist,
 
 
-(6) Haltungseinrichtungen müssen mindestens folgende Innenhöhen
-aufweisen:
+5.  zu höchstens 15 Prozent perforiert ist und
 
-1.  für Nerze und Iltisse einen Meter;
 
+6.  höchstens 40 Prozent der uneingeschränkt nutzbaren Bodenfläche
+    beträgt.
 
-2.  für Füchse und Marderhunde 1,5 Meter;
 
 
-3.  für Sumpfbiber 45 Zentimeter;
 
+Der Bereich unterhalb der erhöhten Bodenfläche muss so beschaffen
+sein, dass die Kaninchen sich gegenseitig ausweichen können.
 
-4.  für Chinchillas einen Meter.
+(5) Haltungseinrichtungen müssen so ausgestattet sein, dass
 
+1.  Hitzestress vermieden und überschüssige Feuchtigkeit abgeleitet wird,
 
 
+2.  bei einer Außentemperatur von über 30 Grad Celsius im Schatten die
+    Raumtemperatur nicht dauerhaft mehr als 3 Grad Celsius über der
+    Außentemperatur liegt und
 
-(7) Der Boden der Haltungseinrichtung
 
-1.  darf für Füchse und Marderhunde zur Ableitung flüssiger Ausscheidungen
-    einen Perforationsgrad von höchstens 10 Prozent aufweisen und muss auf
-    einer Fläche von mindestens zwei Quadratmetern so beschaffen sein,
-    dass die Tiere graben können,
+3.  bei einer Außentemperatur von unter 10 Grad Celsius die
+    durchschnittliche relative Luftfeuchtigkeit innerhalb des
+    Kaninchenstalls im Laufe von 48 Stunden 70 Prozent nicht
+    überschreitet.
 
 
-2.  muss für Sumpfbiber, mit Ausnahme des Bereichs um das Schwimmbecken,
-    planbefestigt sein,
 
 
-3.  muss für Nerze, Iltisse und Chinchillas mindestens zur Hälfte
-    planbefestigt sein.
+(6) Der Ammoniakgehalt der Luft, in Kopfhöhe der Tiere gemessen, soll
+10 Kubikzentimeter je Kubikmeter Luft nicht überschreiten und darf 20
+Kubikzentimeter je Kubikmeter Luft nicht dauerhaft überschreiten.
 
+(7) Der Kohlendioxidgehalt der Luft, in Kopfhöhe der Tiere gemessen,
+darf 3 000 Kubikzentimeter je Kubikmeter Luft nicht dauerhaft
+überschreiten.
 
+(8) Gebäude, in denen Kaninchen gehalten werden, müssen mit
+Lichtöffnungen für den Einfall natürlichen Lichts versehen sein, deren
+Gesamtfläche mindestens 5 Prozent der Gebäudegrundfläche entspricht
+und die so angeordnet sind, dass eine möglichst gleichmäßige
+Verteilung des Lichts über die gesamte Gebäudegrundfläche
+gewährleistet ist. Satz 1 gilt nicht für bestehende Gebäude, die vor
+dem 11. August 2014 genehmigt oder in Benutzung genommen worden sind
+und über keine oder keine ausreichenden Lichtöffnungen verfügen und
+bei denen auf Grund fehlender technischer oder sonstiger Möglichkeiten
+nicht oder nur mit unverhältnismäßig hohem Aufwand der Einfall von
+natürlichem Tageslicht erreicht werden kann, soweit eine Ausleuchtung
+des Aufenthaltsbereiches der Tiere und des Versorgungsbereiches in der
+Haltungseinrichtung durch eine dem natürlichen Licht so weit wie
+möglich entsprechende künstliche Beleuchtung sichergestellt ist.
 
+(9) Haltungseinrichtungen müssen über einen abgedunkelten Bereich
+verfügen, in den sich die Tiere zurückziehen können und der so
+zugänglich und beschaffen ist, dass sich die Tiere gegenseitig
+ausweichen können.
 
-(8) Die Haltungseinrichtung muss
+(10) Tränken sind so anzubringen oder aufzustellen, dass eine Be- und
+Durchfeuchtung von Futter, Einstreu und des Bodens sowie eine
+Beeinträchtigung der gehaltenen Tiere weitestgehend vermieden wird.
+Tränken sind täglich auf Dichtigkeit zu prüfen.
 
-1.  für Nerze und Iltisse mit mindestens einer Plattform je Tier, auf der
-    ein ausgewachsenes Tier liegen und sich aufrichten kann und unter der
-    sich ein ausgewachsenes Tier aufrichten kann, sowie mit Vorrichtungen
-    zum Klettern, die nicht aus Drahtgitter bestehen,
-    Haltungseinrichtungen für Nerze zusätzlich mit einem mit Wasser
-    gefüllten Schwimmbecken mit einer Oberfläche von mindestens einem
-    Quadratmeter und einer Wassertiefe von mindestens 30 Zentimetern,
 
+### § 33 Besondere Anforderungen an Haltungseinrichtungen für Mastkaninchen
 
-2.  für Füchse und Marderhunde mit mindestens einer Plattform je Tier, auf
-    denen ein ausgewachsenes Tier liegen und aufrecht sitzen kann und
-    unter denen ein ausgewachsenes Tier aufrecht sitzen kann,
+(1) Mastkaninchen dürfen nur in Haltungseinrichtungen gehalten werden,
+die den Anforderungen der Absätze 2 bis 5 entsprechen.
 
+(2) Haltungseinrichtungen müssen so beschaffen sein, dass
+Mastkaninchen, die nach § 36 Absatz 1 Satz 2 einzeln gehalten werden,
+andere Kaninchen sehen, riechen und hören können.
 
-3.  für Sumpfbiber mit einem mit Wasser gefüllten Schwimmbecken mit einer
-    Oberfläche von mindestens einem Quadratmeter je Tier und einer
-    Wassertiefe von mindestens 30 Zentimetern,
+(3) Wer Mastkaninchen hält, hat sicherzustellen, dass
 
+1.  eine uneingeschränkt nutzbare Bodenfläche nach folgender Tabelle zur
+    Verfügung steht:
 
-4.  für Chinchillas mit mindestens einer Plattform je Tier sowie einem mit
-    quarzfreiem Sand gefüllten Sandbad von mindestens 250
-    Quadratzentimeter Fläche
+    *        *   Mastkaninchen
 
+        *   Fläche in Quadrat-
+            zentimetern je Tier
 
 
-ausgestattet sein. Haltungseinrichtungen müssen ferner mit
-Tunnelröhren, Haltungseinrichtungen für Sumpfbiber und Chinchillas
-zusätzlich mit Kisten ausgestattet sein.
+    *        *   1. bis 4. Tier
 
-(9) Gebäude müssen so zu beleuchten sein, dass sich die Tiere
-untereinander erkennen und durch die mit der Fütterung und Pflege
-betrauten Personen in Augenschein genommen werden können. Gebäude, die
-nach dem 12. Dezember 2006 in Benutzung genommen werden, müssen mit
-Lichtöffnungen versehen sein, deren Fläche mindestens 5 Prozent der
-Grundfläche entspricht und die so angeordnet sind, dass eine möglichst
-gleichmäßige Verteilung des Lichts gewährleistet wird.
+        *   1 500
 
 
-### § 34 Allgemeine Anforderungen an das Halten von Pelztieren
+    *        *   5. bis 10. Tier
 
-(1) Wer Pelztiere hält, hat sicherzustellen, dass
+        *   1 000
 
-1.  nicht ausgewachsene Tiere nicht einzeln gehalten werden;
 
+    *        *   11. bis 24. Tier
 
-2.  jedes Tier Artgenossen sehen kann;
+        *   850
 
 
-3.  jedes Tier jederzeit Zugang zu geeignetem Tränkwasser hat;
+    *        *   ab 25. Tier
 
+        *   700
 
-4.  jedes Tier jederzeit Zugang zu verhaltensgerechtem
-    Beschäftigungsmaterial außerhalb des Nestkastens hat;
 
 
-5.  der Nestkasten mit Heu, Stroh oder einem anderen geeigneten Material
-    versehen ist, das gewährleistet, dass die Tiere den Nestkasten mit
-    ihrer Körperwärme warm halten können;
+    ,
 
 
-6.  die Exkremente mindestens täglich aus dem Gebäude oder Gebäudeteil, in
-    dem die Tiere gehalten werden, oder bei der Haltung außerhalb
-    geschlossener Gebäude mindestens wöchentlich entfernt werden;
+2.  eine Mindestfläche von 8 000 Quadratzentimetern zur Verfügung steht,
+    die mindestens 80 Zentimeter lang und 60 Zentimeter breit ist, und
 
 
-7.  die Haltungseinrichtung jeweils zwischen dem Ausstallen und dem
-    nächsten Einstallen der Tiere gereinigt und desinfiziert wird.
+3.  die lichte Höhe der Haltungseinrichtung
 
+    a)  über mindestens 70 Prozent der Grundfläche mindestens 60 Zentimeter
+        und
 
 
+    b)  an keiner Stelle weniger als 40 Zentimeter
 
-(2) Pelztiere sollen von Geburt an an den Umgang mit Menschen gewöhnt
-werden.
 
 
-### § 35 Besondere Anforderungen an das Halten von Nerzen, Iltissen, Füchsen und Marderhunden
+    beträgt.
 
-Jungtiere dürfen erst im Alter von über neun Wochen abgesetzt werden.
-Abweichend von Satz 1 können Jungtiere früher abgesetzt werden, soweit
-dies zum Schutz des Muttertieres oder der Jungtiere vor Schmerzen,
-Leiden oder Schäden erforderlich ist.
 
 
-### § 36 Besondere Anforderungen an das Halten von Sumpfbibern und Chinchillas
 
-Wer mehrere Sumpfbiber oder Chinchillas auf demselben Grundstück hält,
-hat sie, soweit nicht ein Fall des § 4 Abs. 1 Satz 1 Nr. 3 vorliegt,
-in der Gruppe zu halten.
+Höchstens zwei Drittel der Fläche, die sich aus der Gesamtfläche der
+uneingeschränkt nutzbaren Bodenfläche nach Satz 1 Nummer 1 und der
+uneingeschränkt nutzbaren erhöhten Bodenfläche nach § 32 Absatz 4
+ergibt, dürfen einen Perforationsgrad von mehr als 15 Prozent
+aufweisen.
 
+(4) Bei portionierter Fütterung muss der Fressplatz so beschaffen
+sein, dass alle Mastkaninchen gleichzeitig fressen können.
 
-## Abschnitt 7 - Ordnungswidrigkeiten und Schlussbestimmungen
+(5) Bei Verwendung von Selbsttränken muss für jeweils höchstens fünf
+Mastkaninchen eine Tränkstelle vorhanden sein.
 
 
+### § 34 Besondere Anforderungen an Haltungseinrichtungen für Zuchtkaninchen
 
-### § 37 Ordnungswidrigkeiten
+(1) Zuchtkaninchen dürfen nur in Haltungseinrichtungen gehalten
+werden, die den Anforderungen der Absätze 2 bis 5 entsprechen.
+
+(2) Wer Zuchtkaninchen hält, hat sicherzustellen, dass
+
+1.  für jedes Tier eine uneingeschränkt nutzbare Bodenfläche nach
+    folgender Tabelle zur Verfügung steht:
+
+    *        *   Durchschnittsgewicht
+            in Kilogramm
+
+        *   Fläche in
+            Quadratzentimetern
+
+
+    *        *   bis 5,5
+
+        *   6 000
+
+
+    *        *   über 5,5
+
+        *   7 400
+
+
+
+
+    und
+
+
+2.  die lichte Höhe der Haltungseinrichtung
+
+    a)  über mindestens 70 Prozent der Grundfläche mindestens 80 Zentimeter
+        und
+
+
+    b)  an keiner Stelle weniger als 60 Zentimeter
+
+
+
+    beträgt.
+
+
+
+Höchstens zwei Drittel der Fläche, die sich aus der Gesamtfläche der
+uneingeschränkt nutzbaren Bodenfläche nach Satz 1 Nummer 1 und der
+uneingeschränkt nutzbaren erhöhten Bodenfläche nach § 32 Absatz 4
+ergibt, dürfen einen Perforationsgrad von mehr als 15 Prozent
+aufweisen.
+
+(3) Jeder Häsin muss zusätzlich zur nutzbaren Bodenfläche der
+Haltungseinrichtung mindestens für einen Zeitraum von einer Woche vor
+dem voraussichtlichen Wurftermin bis zum Absetzen der Jungtiere eine
+Nestkammer zur Verfügung stehen, die
+
+1.  eine Fläche von mindestens 1 000 Quadratzentimetern aufweist,
+
+
+2.  eine Höhe von mindestens 25 Zentimetern aufweist,
+
+
+3.  eine blickdichte Abtrennung zur Haltungseinrichtung hat,
+
+
+4.  einen Nesteingang aufweist, der durch die Häsin weitgehend mit
+    Nestbaumaterial abgedeckt werden kann oder über eine
+    Zugangsvorrichtung verfügt, die
+
+    a)  der Häsin ein jederzeitiges Aufsuchen und Verlassen der Nestkammer
+        ermöglicht oder
+
+
+    b)  vom Tierhalter verschlossen und geöffnet werden kann,
+
+
+
+
+
+5.  über eine Schwelle von mindestens acht Zentimetern Höhe am Übergang
+    zur Haltungseinrichtung verfügt,
+
+
+6.  ausreichend Stroh oder anderes geeignetes Material zur Befriedigung
+    des Nestbauverhaltens der Häsin und zur Abdeckung des Nestbereichs
+    bietet und
+
+
+7.  so angebracht oder beschaffen ist, dass die Häsin auf diese nicht
+    springen kann.
+
+
+
+
+(4) Bei portionierter Fütterung muss der Fressplatz so beschaffen
+sein, dass alle Zuchtkaninchen und deren Jungtiere gleichzeitig
+fressen können.
+
+(5) Bei Verwendung von Selbsttränken muss für jedes Zuchtkaninchen
+eine Tränkstelle vorhanden sein.
+
+
+### § 35 Allgemeine Anforderungen an das Halten von Kaninchen
+
+(1) Wer Kaninchen hält, hat sicherzustellen, dass
+
+1.  alle Kaninchen jederzeit Zugang zu grob strukturiertem Raufutter wie
+    Stroh oder Heu und zu geeignetem Nagematerial haben,
+
+
+1a. die Tiere jederzeit Zugang zu Tränkwasser haben,
+
+
+2.  Umgruppierungen möglichst vermieden werden,
+
+
+3.  Teile von Haltungseinrichtungen, Ausrüstungen oder Geräten, die mit
+    den Kaninchen in Berührung kommen, nach jeder vollständigen Räumung
+    eines abgetrennten Gebäudeteils gereinigt und desinfiziert werden,
+
+
+4.  während der Lichtstunden die Beleuchtungsstärke mindestens 40 Lux, in
+    Kopfhöhe der Tiere gemessen, beträgt,
+
+
+5.  direkte Sonneinstrahlung vermieden wird,
+
+
+6.  bei Verwendung künstlicher Beleuchtung die künstliche Beleuchtung
+    einem 24-Stunden-Rhythmus folgt und für mindestens acht Stunden
+    ununterbrochen während der Nacht zurückgeschaltet wird, wobei während
+    der Dunkelphase die Beleuchtungsstärke weniger als 0,5 Lux betragen
+    muss, soweit dies die natürliche Beleuchtung zulässt und mindestens so
+    viel Licht vorhanden ist, wie die Kaninchen zur Orientierung brauchen,
+    sowie eine Dämmerphase vorgesehen ist, die den Kaninchen ein
+    artgemäßes Verhalten ermöglicht, und die mindestens 30 Minuten dauert,
+
+
+7.  in den Fällen der Nummer 6 die Dauer der ununterbrochenen Lichtstunden
+    mit einer Stärke von mindestens 40 Lux mindestens acht Stunden beträgt
+    und
+
+
+8.  Ausscheidungen der Tiere, die mittels Transportbändern oder
+    entsprechenden Einrichtungen aufgefangen oder transportiert werden,
+    mindestens täglich aus dem Stall entfernt werden.
+
+
+
+
+(2) Wer Kaninchen hält, hat sicherzustellen, dass diese mindestens
+zwei Mal täglich in Augenschein genommen werden. Lassen Verletzungen
+oder Gesundheitsstörungen darauf schließen, dass ein Tier leidet, ist
+es angemessen zu behandeln oder unverzüglich zu töten. Soweit es der
+Gesundheitszustand eines Tieres erfordert, ist ein Tierarzt
+hinzuzuziehen.
+
+(3) Alle Kaninchen sind erforderlichenfalls gegen Parasiten zu
+behandeln und in geeigneter Weise vor Krankheiten, die bei der
+jeweiligen Haltung üblicherweise auftreten und bei den Tieren zu
+Schmerzen, Leiden oder Schäden führen können, zu schützen.
+
+(4) Der Halter führt für jede Haltungseinrichtung seines Betriebs
+Aufzeichnungen über
+
+1.  die Zahl der eingestallten Kaninchen und das Datum des Einstallens,
+
+
+2.  jede Kontrolle nach Absatz 2, die Zahl der dabei verendet
+    aufgefundenen Tiere mit Angabe der jeweiligen Ursache des Verendens,
+    soweit bekannt,
+
+
+3.  die Zahl der getöteten Tiere mit Angabe des jeweiligen Grundes der
+    Tötung und
+
+
+4.  das Datum der Entfernung von Kaninchen zum Verkauf oder zur
+    Schlachtung und ihre Anzahl sowie gegebenenfalls die Zahl der
+    Kaninchen, die im Kaninchenstall verbleiben.
+
+
+
+Diese Aufzeichnungen sind entbehrlich, soweit entsprechende
+Aufzeichnungen auf Grund anderer Rechtsvorschriften zu führen sind.
+
+(5) Die Aufzeichnungen nach Absatz 4 Satz 1 sind ab dem Zeitpunkt der
+jeweiligen Aufzeichnung mindestens drei Jahre aufzubewahren und der
+zuständigen Behörde auf Verlangen vorzulegen.
+
+
+### § 35a Sachkunde
+
+(1) Kaninchen darf nach dem 10. Februar 2015 nur halten, wer im Besitz
+einer gültigen Bescheinigung der zuständigen Behörde über seine
+Sachkunde (Sachkundebescheinigung) ist.
+
+(2) Die Sachkundebescheinigung wird von der zuständigen Behörde auf
+Antrag erteilt, wenn die Sachkunde im Rahmen einer erfolgreichen
+Prüfung nach Maßgabe der Absätze 3 und 4 nachgewiesen worden ist oder
+wenn die zuständige Behörde von einer Prüfung absieht.
+
+(3) Auf Antrag führt die zuständige Behörde eine Prüfung der Sachkunde
+durch einen Tierarzt durch. Die Prüfung besteht aus einem
+theoretischen und einem praktischen Teil. Sie wird im theoretischen
+Teil schriftlich und mündlich abgelegt. Die Prüfung erstreckt sich auf
+folgende Prüfungsgebiete:
+
+1.  im Bereich der Kenntnisse:
+
+    a)  bedarfsgerechte Versorgung der Kaninchen mit Futter und Wasser,
+
+
+    b)  Grundkenntnisse der Anatomie und Physiologie der Kaninchen,
+
+
+    c)  Grundkenntnisse des Verhaltens von Kaninchen,
+
+
+    d)  tierschutzrechtliche Vorschriften,
+
+
+    e)  Anzeichen von Gesundheitsstörungen, Verhaltensstörungen oder Stress
+        bei Kaninchen und mögliche Gegenmaßnahmen,
+
+
+    f)  Notbehandlung von Kaninchen, Notschlachtung und Tötung,
+
+
+    g)  Maßnahmen, mit denen dem Ausbruch und der Verbreitung von Krankheiten
+        vorgebeugt werden kann;
+
+
+
+
+
+2.  im Bereich der Fertigkeiten:
+
+    a)  sorgsamer Umgang mit Kaninchen,
+
+
+    b)  Einfangen, Verladen und Befördern von Kaninchen,
+
+
+    c)  tierschutzgerechte Tötung.
+
+
+
+
+
+
+
+(4) Die Prüfung ist bestanden, wenn jeweils im theoretischen und
+praktischen Teil mindestens eine ausreichende Leistung erbracht worden
+ist.
+
+(5) Die zuständige Behörde kann von einer Prüfung absehen, wenn der
+Antragsteller Kenntnisse und Fertigkeiten bei der tiergerechten
+Haltung von Kaninchen nachweist durch
+
+1.  eine erfolgreich abgeschlossene Ausbildung in den Berufen Tierwirt
+    oder Tierwirtin oder Landwirt oder Landwirtin,
+
+
+2.  ein erfolgreich abgeschlossenes Hochschulstudium oder
+    Fachhochschulstudium im Bereich der Landwirtschaft oder Tiermedizin,
+
+
+3.  den Nachweis, dass er mindestens drei Jahre eigenverantwortlich und
+    ohne tierschutzrechtliche Beanstandung einen Kaninchenbestand gehalten
+    hat oder
+
+
+4.  eine Bescheinigung, mit der der erfolgreiche Abschluss einer von der
+    zuständigen Behörde als gleichwertig anerkannten Prüfung belegt wird.
+
+
+
+
+(6) Personen, die einen Nachweis der Sachkunde nach Absatz 2 in einem
+anderen Mitgliedstaat der Europäischen Union, der Türkei oder einem
+Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
+erworben haben, bedürfen keiner Prüfung, soweit der Nachweis der
+Sachkunde den Anforderungen nach Absatz 3 entspricht.
+
+(7) Der Halter der Kaninchen hat sicherzustellen, dass die von ihm zur
+Pflege oder zum Einfangen und Verladen der Kaninchen angestellten oder
+beschäftigten Personen in tierschutzrelevanten Kenntnissen nach Absatz
+3 Satz 4 Nummer 1 und Fertigkeiten nach Absatz 3 Satz 4 Nummer 2
+angewiesen und angeleitet werden.
+
+
+### § 36 Besondere Anforderungen an das Halten von Mastkaninchen
+
+(1) Mastkaninchen dürfen nicht einzeln gehalten werden. Abweichend von
+Satz 1 ist eine Einzelhaltung zulässig, wenn gesundheitliche oder
+verhaltensbedingte Gründe bei einem Kaninchen dies erfordern.
+
+(2) Der Halter eines Mastkaninchenbestandes berechnet die tägliche
+Mortalitätsrate jedes Masttages sowie die kumulative tägliche
+Mortalitätsrate. Die tägliche Mortalitätsrate ist die Zahl der an
+einem Tag in einem Mastkaninchenbestand verendeten sowie der an diesem
+Tag auf Grund von Krankheiten oder aus anderen Gründen getöteten
+Mastkaninchen, geteilt durch die Zahl der sich an diesem Tag in dem
+betreffenden Mastkaninchenbestand befindenden Mastkaninchen,
+multipliziert mit 100. Die zum Zweck der Schlachtung ausgestallten
+Mastkaninchen werden bei der Berechnung der täglichen Mortalitätsrate
+nicht berücksichtigt. Die kumulative tägliche Mortalitätsrate ist die
+Summe der täglichen Mortalitätsraten während eines Mastdurchgangs.
+
+(3) Erreicht die kumulative tägliche Mortalitätsrate eines
+Mastdurchgangs nach Absatz 2 einen Wert von über 10 Prozent, hat der
+Tierhalter
+
+1.  unverzüglich die Ursache durch einen Tierarzt feststellen zu lassen,
+
+
+2.  die Mastkaninchen des Bestandes tierärztlich untersuchen und
+    erforderlichenfalls behandeln zu lassen und
+
+
+3.  Maßnahmen zur Verbesserung des Gesundheitszustandes der Mastkaninchen
+    des Bestandes durchzuführen.
+
+
+
+
+(4) Über die Mortalitätsraten nach Absatz 2 sowie die Ursachen nach
+Absatz 3 Nummer 1 und die Maßnahmen nach Absatz 3 Nummer 3 führt der
+Halter für jeden Mastkaninchenbestand Aufzeichnungen. Die
+Aufzeichnungen nach Satz 1 sind ab dem Zeitpunkt der jeweiligen
+Aufzeichnung mindestens drei Jahre aufzubewahren und der zuständigen
+Behörde auf Verlangen vorzulegen.
+
+
+### § 37 Besondere Anforderungen an das Halten von Zuchtkaninchen
+
+(1) Die Besamung oder das Decken der Häsin darf frühestens am 11. Tag
+nach der Geburt der Jungtiere des vorhergegangenen Wurfes erfolgen.
+
+(2) Jungtiere dürfen erst im Alter von über 28 Tagen abgesetzt werden.
+Abweichend von Satz 1 darf ein Jungtier oder ein Wurf früher abgesetzt
+werden, wenn dies nach tierärztlichem Urteil zum Schutz des
+Muttertieres oder des Jungtieres vor Schmerzen, Leiden oder Schäden
+erforderlich ist.
+
+(3) Der Halter eines Zuchtkaninchenbestandes berechnet die tägliche
+Mortalitätsrate jedes Tages sowie die kumulative tägliche
+Mortalitätsrate getrennt für Zuchtkaninchen und Jungtiere. § 36 Absatz
+2 Satz 2 und 3 gilt für Zuchtkaninchen und Jungtiere entsprechend. Die
+kumulative tägliche Mortalitätsrate ist die Summe der täglichen
+Mortalitätsraten während eines Jahres.
+
+(4) § 36 Absatz 3 und 4 gilt entsprechend mit der Maßgabe, dass die in
+§ 36 Absatz 3 vorgesehenen Pflichten des Tierhalters bei Jungtieren
+erst ab Erreichen einer Mortalitätsrate mit einem Wert von über 12
+Prozent zu erfüllen sind.
+
+(5) Der Halter führt für jeden Zuchtkaninchenbestand zusätzliche
+Aufzeichnungen über den Zuchtverlauf, insbesondere über
+
+1.  die Zahl der Würfe pro Häsin und die Zahl der Jungtiere pro Wurf sowie
+    das jeweilige Datum des Wurfs,
+
+
+2.  die Anzahl lebend geborener Jungtiere,
+
+
+3.  die Anzahl lebend abgesetzter Jungtiere und
+
+
+4.  die jeweiligen Zeitpunkte des Besamens oder Deckens einer Häsin.
+
+
+
+Die Aufzeichnungen nach § 35 Absatz 4 Satz 1 Nummer 1 erfolgen
+getrennt nach Häsinnen und Rammlern. § 35 Absatz 5 gilt entsprechend.
+
+
+## Abschnitt 7 - (weggefallen)
+
+
+
+### (XXXX) §§ 38 bis 43 (weggefallen)
+
+
+
+## Abschnitt 8 - Ordnungswidrigkeiten und Schlussbestimmungen
+
+
+
+### § 44 Ordnungswidrigkeiten
 
 (1) Ordnungswidrig im Sinne des § 18 Abs. 1 Nr. 3 Buchstabe a des
 Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
@@ -2206,8 +2570,9 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     werden,
 
 
-2.  entgegen § 4 Abs. 1 Satz 1 Nr. 3 nicht sicherstellt, dass eine
-    Maßnahme ergriffen oder ein Tierarzt hinzugezogen wird,
+2.  entgegen § 4 Abs. 1 Satz 1 Nr. 3 oder § 35 Absatz 2 Satz 2 oder Satz 3
+    nicht sicherstellt, dass eine Maßnahme ergriffen oder ein Tierarzt
+    hinzugezogen wird,
 
 
 3.  entgegen § 4 Abs. 1 Satz 1 Nr. 4 nicht sicherstellt, dass alle Tiere
@@ -2268,15 +2633,13 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     genannte Beleuchtungsdauer und Lichtstärke gewährleistet ist,
 
 
-17. entgegen
+17. entgegen § 13 Absatz 1 in Verbindung mit
 
-    a)  § 13 Abs. 1 in Verbindung mit Abs. 3 oder Abs. 5 Nr. 3, 6 oder 7,
-
-
-    b)  § 13a Abs. 1 in Verbindung mit Abs. 4, 7 oder 8 Satz 1 oder 2 oder
+    a)  § 13 Absatz 3 oder Absatz 5 Nummer 3, 6 oder 7 oder
 
 
-    c)  § 13b Abs. 1 in Verbindung mit Abs. 2, 3, 4 Satz 1 oder 3 oder Abs. 5
+    b)  § 13a Absatz 2 Satz 1, 4 oder 5, Absatz 4, Absatz 6 Nummer 2, Absatz 7
+        oder 8 Satz 1 oder 2
 
 
 
@@ -2331,13 +2694,13 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
 
 25. entgegen § 19 Absatz 3 nicht sicherstellt, dass die
     Masthühnerbesatzdichte 39 kg/m
-    2                    nicht überschreitet,
+    2 nicht überschreitet,
 
 
 26. entgegen § 19 Absatz 4 nicht sicherstellt, dass im Durchschnitt dreier
     aufeinander folgender Mastdurchgänge die Masthühnerbesatzdichte 35
     kg/m
-    2                    nicht überschreitet,
+    2 nicht überschreitet,
 
 
 27. entgegen § 19 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Aufzeichnungen
@@ -2389,35 +2752,80 @@ Tierschutzgesetzes handelt, wer vorsätzlich oder fahrlässig
     richtig zur Verfügung stellt;
 
 
-37. entgegen § 33 Absatz 1 ein Pelztier hält,
+37. entgegen § 32 Absatz 1 in Verbindung mit Absatz 2 Satz 1, Absatz 3,
+    Absatz 4 Satz 1, Absatz 5, 6, 7 oder Absatz 8 oder entgegen § 33
+    Absatz 1 in Verbindung mit Absatz 2, 3 Satz 2, Absatz 4 oder Absatz 5
+    oder entgegen § 34 Absatz 1 in Verbindung mit Absatz 2 Satz 2 oder
+    Absatz 3 Nummer 1, 2, 3 oder Nummer 5, Absatz 4 oder Absatz 5 oder
+    entgegen § 36 Absatz 1 Satz 1 ein Kaninchen hält,
 
 
-38. entgegen § 34 Absatz 1 Nummer 1 nicht sicherstellt, dass nicht
-    ausgewachsene Pelztiere nicht einzeln gehalten werden,
+38. entgegen § 33 Absatz 3 Satz 1 Nummer 1 oder entgegen § 34 Absatz 2
+    Satz 1 Nummer 1 nicht sicherstellt, dass eine dort genannte
+    Bodenfläche zur Verfügung steht,
 
 
-39. entgegen § 34 Absatz 1 Nummer 3 nicht sicherstellt, dass jedes Tier
-    Zugang zu Tränkwasser hat,
+39. entgegen § 33 Absatz 3 Satz 1 Nummer 2 nicht sicherstellt, dass eine
+    dort genannte vorgesehene Mindestfläche zur Verfügung steht,
 
 
-40. entgegen § 34 Absatz 1 Nummer 5 nicht sicherstellt, dass der
-    Nestkasten mit Heu, Stroh oder einem anderen geeigneten Material
-    versehen ist,
+40. entgegen § 33 Absatz 3 Satz 1 Nummer 3 oder entgegen § 34 Absatz 2
+    Satz 1 Nummer 2 nicht sicherstellt, dass eine Haltungseinrichtung die
+    dort genannte Höhe aufweist,
 
 
-41. entgegen § 34 Absatz 1 Nummer 6 nicht sicherstellt, dass die
-    Exkremente entfernt werden,
+41. entgegen § 35 Absatz 1 Nummer 1 nicht sicherstellt, dass ein Kaninchen
+    jederzeit Zugang zu grob strukturiertem Raufutter und zu Nagematerial
+    hat,
 
 
-42. entgegen § 34 Absatz 1 Nummer 7 nicht sicherstellt, dass eine
-    Haltungseinrichtung gereinigt und desinfiziert wird,
+41a. entgegen § 35 Absatz 1 Nummer 4 nicht sicherstellt, dass während der
+    Lichtstunden die Beleuchtungsstärke mindestens 40 Lux, in Kopfhöhe der
+    Tiere gemessen, beträgt,
 
 
-43. entgegen § 35 Satz 1 Jungtiere absetzt oder
+42. entgegen § 35 Absatz 1 Nummer 6 nicht sicherstellt, dass bei
+    Verwendung künstlicher Beleuchtung die künstliche Beleuchtung für
+    mindestens acht Stunden ununterbrochen während der Nacht
+    zurückgeschaltet wird,
 
 
-44. entgegen § 36 mehrere Sumpfbiber oder Chinchillas nicht in der Gruppe
-    hält.
+42a. entgegen § 35 Absatz 1 Nummer 7 nicht sicherstellt, dass die Dauer der
+    ununterbrochenen Lichtstunden mit einer Stärke von mindestens 40 Lux
+    mindestens acht Stunden beträgt,
+
+
+42b. entgegen § 35 Absatz 2 Satz 1 nicht sicherstellt, dass die Kaninchen
+    in der dort genannten Weise in Augenschein genommen werden,
+
+
+43. entgegen § 35 Absatz 4 Satz 1, § 36 Absatz 4 Satz 1, auch in
+    Verbindung mit § 37 Absatz 4, oder § 37 Absatz 5 Satz 1 oder Satz 2
+    eine Aufzeichnung nicht, nicht richtig oder nicht vollständig führt,
+
+
+44. entgegen § 35 Absatz 5, auch in Verbindung mit § 37 Absatz 5 Satz 3,
+    oder § 36 Absatz 4 Satz 2, auch in Verbindung mit § 37 Absatz 4, eine
+    Aufzeichnung nicht oder nicht mindestens drei Jahre aufbewahrt oder
+    nicht oder nicht rechtzeitig vorlegt,
+
+
+44a. entgegen § 35a Absatz 1 ein Kaninchen hält,
+
+
+44b. entgegen § 35 Absatz 7 nicht sicherstellt, dass eine dort genannte
+    Person in den dort genannten Kenntnissen und Fertigkeiten angewiesen
+    und angeleitet wird,
+
+
+45. entgegen § 36 Absatz 3 Nummer 1, auch in Verbindung mit § 37 Absatz 4,
+    eine Ursache nicht oder nicht rechtzeitig feststellen lässt,
+
+
+45a. entgegen § 37 Absatz 1 eine Häsin besamt oder deckt oder
+
+
+46. entgegen § 37 Absatz 2 Satz 1 ein Jungtier absetzt.
 
 
 
@@ -2430,7 +2838,7 @@ vollständig oder nicht rechtzeitig macht, nicht oder nicht mindestens
 drei Jahre aufbewahrt oder nicht oder nicht rechtzeitig vorlegt.
 
 
-### § 38 Übergangsregelungen
+### § 45 Übergangsregelungen
 
 (1) Abweichend von § 6 Abs. 2 Nr. 3, soweit die Ausstattung mit
 Lichtöffnungen betroffen ist, dürfen Kälber noch bis zum 1. Januar
@@ -2446,10 +2854,11 @@ geltenden Vorschriften der Kälberhaltungsverordnung entsprechen.
 9\. Oktober 2012 in Haltungseinrichtungen gehalten werden, in denen
 kein flackerfreies Licht zur künstlichen Beleuchtung verwendet wird.
 
-(3) Abweichend von den §§ 13, 13a und 13b dürfen Legehennen in
-Haltungseinrichtungen, die vor dem 13. März 2002 bereits genehmigt
-oder in Benutzung genommen worden sind, noch bis zum 31. Dezember 2020
-gehalten werden, wenn diese so beschaffen sind, dass je Legehenne
+(3) Abweichend von § 13, auch in Verbindung mit § 13a, dürfen
+Legehennen in Haltungseinrichtungen, die vor dem 13. März 2002 bereits
+genehmigt oder in Benutzung genommen worden sind, noch bis zum Ablauf
+des 31. Dezember 2020 gehalten werden, wenn diese so beschaffen sind,
+dass je Legehenne
 
 1.  eine uneingeschränkt nutzbare und horizontal bemessene Käfigfläche von
     mindestens 750 Quadratzentimetern vorhanden ist, wobei bei der
@@ -2459,16 +2868,16 @@ gehalten werden, wenn diese so beschaffen sind, dass je Legehenne
     lichte Höhe von mindestens 45 Zentimetern vorhanden ist, die
     Rückzugsmöglichkeit zur Eiablage uneingeschränkt erhalten bleibt und
     die Grundfläche dieser Käfige jeweils mindestens 2 000
-    Quadratzentimeter beträgt;
+    Quadratzentimeter beträgt,
 
 
 2.  ein uneingeschränkt nutzbarer Futtertrog mit einer Länge von
-    mindestens zwölf Zentimetern und
+    mindestens zwölf Zentimetern zur Verfügung steht,
 
 
 3.  ein Nest, ein Einstreubereich, in dem das Picken und Scharren möglich
-    ist sowie geeignete Sitzstangen mit einem Platzangebot von mindestens
-    15 Zentimetern zur Verfügung stehen;
+    ist, sowie geeignete Sitzstangen mit einem Platzangebot von mindestens
+    15 Zentimetern zur Verfügung stehen und
 
 
 4.  eine geeignete Vorrichtung zum Kürzen der Krallen vorhanden ist.
@@ -2476,95 +2885,27 @@ gehalten werden, wenn diese so beschaffen sind, dass je Legehenne
 
 
 
-(4) Abweichend von den §§ 13, 13a und 13b dürfen Legehennen in
-Haltungseinrichtungen, die vor dem 13. März 2002 bereits in Benutzung
-genommen worden sind, noch bis zum Ablauf des 31. Dezember 2008
-gehalten werden, soweit
+(4) Abweichend von § 13, auch in Verbindung mit § 13a, dürfen
+Legehennen in Haltungseinrichtungen, die vor dem 22. April 2016
+bereits für die Kleingruppenhaltung nach § 13b in der bis zum Ablauf
+des 31. März 2012 anwendbaren Fassung dieser Verordnung genehmigt oder
+in Benutzung genommen worden sind, noch bis zum Ablauf des 31.
+Dezember 2025 gehalten werden, soweit die Anforderungen des § 13 in
+der bis zum 21. April 2016 geltenden Fassung dieser Verordnung und des
+§ 13b in der bis zum Ablauf des 31. März 2012 anwendbaren Fassung
+dieser Verordnung erfüllt sind. Auf Antrag des Tierhalters kann die
+zuständige Behörde die weitere Benutzung einer Haltungseinrichtung
+nach Satz 1 längstens bis zum Ablauf des 31. Dezember 2028 genehmigen,
+soweit dies im Einzelfall zur Vermeidung einer unbilligen Härte
+erforderlich ist und zum Zeitpunkt der Entscheidung Gründe des
+Tierschutzes, die nicht in der Haltungsform begründet sind, nicht
+entgegenstehen.
 
-1.  diese so beschaffen sind, dass
+(5) (weggefallen)
 
-    a)  je Legehenne eine uneingeschränkt nutzbare und horizontal bemessene
-        Käfigfläche von mindestens 550 Quadratzentimetern oder, im Fall eines
-        Durchschnittsgewichts der gehaltenen Legehennen von mehr als zwei
-        Kilogramm, von mindestens 690 Quadratzentimetern vorhanden ist;
+(6) (weggefallen)
 
-
-    b)  je Legehenne ein uneingeschränkt nutzbarer Futtertrog mit einer Länge
-        von mindestens zwölf Zentimetern oder, im Fall eines
-        Durchschnittsgewichts der gehaltenen Legehennen von mehr als zwei
-        Kilogramm je Legehenne, ein uneingeschränkt nutzbarer Futtertrog mit
-        einer Länge von mindestens 14,5 Zentimetern zur Verfügung steht;
-
-
-    c)  bei Verwendung von Nippeltränken oder Tränknäpfen sich mindestens zwei
-        Tränknäpfe oder Nippeltränken in Reichweite jeder Legehenne befinden
-        oder jeder Käfig mit einer Rinnentränke ausgestattet ist, deren Länge
-        der des Futtertroges nach Buchstabe b entspricht;
-
-
-    d)  die lichte Höhe über mindestens 65 Prozent der Käfigfläche mindestens
-        40 Zentimeter und an keiner Stelle weniger als 35 Zentimeter beträgt;
-
-
-    e)  der Neigungswinkel des Bodens 14 Prozent nicht überschreitet und durch
-        die Bodenbeschaffenheit des Käfigs sichergestellt ist, dass die nach
-        vorn gerichteten Krallen beider Ständer nicht abrutschen können, und
-
-
-    f)  eine geeignete Vorrichtung zum Kürzen der Krallen vorhanden ist
-
-
-
-
-    und
-
-
-2.  der Inhaber des Betriebes der zuständigen Behörde bis zum 15. Dezember
-    2006 ein verbindliches Betriebs- und Umbaukonzept zur Umstellung der
-    vorhandenen Haltungseinrichtungen im Sinne der Nummer 1 auf
-    Haltungseinrichtungen nach den §§ 13, 13a oder 13b angezeigt hat.
-
-
-
-Wird die Anzeige nach Satz 1 Nr. 2 nicht fristgerecht abgegeben, endet
-die Frist, bis zu der Legehennen in Haltungseinrichtungen im Sinne des
-Satzes 1 Nr. 1 gehalten werden dürfen, mit Ablauf des 31. Dezember
-2006\. Die zuständige Behörde kann abweichend von Satz 1 auf Antrag im
-Einzelfall eine weitere Nutzung um bis zu einem Jahr genehmigen,
-soweit der Antragsteller nachweist, dass
-
-1.  eine Umstellung entsprechend dem Betriebs- und Umbaukonzept im Sinne
-    des Satzes 1 Nr. 2 durchgeführt wird und
-
-
-2.  aus vom Antragsteller nicht zu vertretenden Gründen die Inbetriebnahme
-    der Haltungseinrichtungen nach den §§ 13, 13a oder 13b ab dem 1.
-    Januar 2009 nicht oder nicht vollständig möglich ist.
-
-
-
-
-(5) Abweichend von § 13 dürfen Legehennen noch bis zum 31. Dezember
-2002 in Haltungseinrichtungen gehalten werden, die am 6. Juli 1999
-bereits in Benutzung genommen worden waren, wenn diese Käfige den
-Anforderungen des Absatzes 4 Satz 1 Nr. 1 Buchstabe c bis e
-entsprechen und so beschaffen sind, dass je Legehenne eine
-uneingeschränkt nutzbare und horizontal bemessene Käfigfläche von
-mindestens 450 Quadratzentimetern oder, im Fall eines
-Durchschnittsgewichts der gehaltenen Legehennen von mehr als zwei
-Kilogramm, von mindestens 550 Quadratzentimetern vorhanden ist.
-
-(6) Abweichend von § 14 Abs. 1 Nr. 4 dürfen noch bis zum 31. Dezember
-2002 Legehennen eingestallt werden.
-
-(7) Abweichend von § 13 dürfen Legehennen in Haltungseinrichtungen,
-die den Voraussetzungen für die Kennzeichnung der Eier als aus
-Volierenhaltung, Bodenhaltung oder Freilandhaltung nach Anhang II der
-Verordnung (EWG) 1274/91 der Kommission vom 15. Mai 1991 mit
-Durchführungsvorschriften für die Verordnung (EWG) Nr. 1907/90 des
-Rates über bestimmte Vermarktungsnormen für Eier (ABl. EG Nr. L 121 S.
-11) entsprechen und die vor dem 13. März 2002 bereits in Benutzung
-genommen worden sind, noch bis zum 31. Dezember 2005 gehalten werden.
+(7) (weggefallen)
 
 (8) Abweichend von § 22 Absatz 1 in Verbindung mit Absatz 2 Nummer 4
 dürfen Schweine in Haltungseinrichtungen, die vor dem 4. August 2006
@@ -2633,10 +2974,11 @@ Verfügung steht:
 
 *    *   über 20
 
-    *   0,3.
+    *   0,3
 
 
 
+.
 
 (15) Abweichend von § 29 Absatz 2 dürfen Zuchtläufer und Mastschweine
 in Haltungseinrichtungen, die vor dem 4. August 2006 bereits genehmigt
@@ -2679,21 +3021,205 @@ noch bis zum 31. Dezember 2012 gehalten werden, wenn sie jeweils nach
 dem Absetzen der Ferkel insgesamt vier Wochen lang täglich freie
 Bewegung erhalten.
 
-(17) Abweichend von § 32 in Verbindung mit § 33 Absatz 1, 2 Nummer 2,
-Absatz 3 und 8 Satz 1 Nummer 4 und Satz 2 sowie mit § 34 Absatz 1
-Nummer 4 und 5 dürfen Pelztiere in Haltungseinrichtungen, die vor dem
-Inkrafttreten dieser Verordnung bereits genehmigt oder in Benutzung
-genommen worden sind, noch bis zum 11. Juni 2007 gehalten werden.
+(17) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 3 Nummer 2
+dürfen Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind,
 
-(18) Abweichend von § 32 in Verbindung mit § 33 Absatz 1 und 5 dürfen
-Pelztiere noch bis zum 11. Dezember 2011 gehalten werden.
-
-(19) Abweichend von § 32 in Verbindung mit § 33 Absatz 1, 6, 7 und 8
-Satz 1 Nummer 1 bis 3 dürfen Pelztiere noch bis zum 11. Dezember 2016
-gehalten werden.
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
 
 
-### § 39 (Inkrafttreten, Außerkrafttreten)
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn den
+    Kaninchen spätestens bis zum Ablauf des in Nummer 1 genannten
+    Zeitpunkts eine Fläche zur Verfügung steht, die Auftrittsbreiten nach
+    § 32 Absatz 3 Nummer 2 und Spalten- oder Lochweiten nach § 32 Absatz 3
+    Nummer 2 aufweist und mindestens ein Drittel der uneingeschränkt
+    nutzbaren Bodenfläche nach § 33 Absatz 3 Satz 1 Nummer 1 oder § 34
+    Absatz 2 Satz 1 Nummer 1 beträgt.
+
+
+
+
+(18) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 4 dürfen
+Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn für
+    jedes Kaninchen spätestens bis zum Ablauf des in Nummer 1 genannten
+    Zeitpunkts mindestens eine uneingeschränkt nutzbare Bodenfläche nach
+    folgender Tabelle zur Verfügung steht:
+
+    *        *   Nutzungsart
+
+        *   Fläche in
+            Quadratzentimetern
+
+
+    *        *   Mast
+
+        *   1 000
+
+
+    *        *   Zucht
+
+        *   4 000.
+
+
+
+
+
+
+
+(19) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 5 dürfen
+Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind, noch bis zum
+Ablauf des 10. Februar 2019 gehalten werden.
+
+(20) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 6 dürfen
+Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind, noch bis zum
+Ablauf des 10. Februar 2019 gehalten werden.
+
+(21) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 7 dürfen
+Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind, noch bis zum
+Ablauf des 10. Februar 2019 gehalten werden.
+
+(22) Abweichend von § 32 Absatz 1 in Verbindung mit Absatz 8 Satz 1
+dürfen Kaninchen in Haltungseinrichtungen, die vor dem 11. August 2014
+bereits genehmigt oder in Benutzung genommen worden sind, noch bis zum
+Ablauf des 10. Februar 2024 gehalten werden.
+
+(23) Abweichend von § 33 Absatz 1 in Verbindung mit Absatz 3 Satz 1
+Nummer 1 dürfen Mastkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn für
+    jedes Mastkaninchen spätestens bis zum Ablauf des in Nummer 1
+    genannten Zeitpunkts mindestens eine uneingeschränkt nutzbare
+    Bodenfläche nach folgender Tabelle zur Verfügung steht:
+
+    *        *   Mastkaninchen
+
+        *   Fläche in
+            Quadratzentimetern
+
+
+    *        *   1. bis 10. Tier
+
+        *   1 000
+
+
+    *        *   ab 11. Tier
+
+        *   700.
+
+
+
+
+
+
+
+(24) Abweichend von § 33 Absatz 1 in Verbindung mit Absatz 3 Satz 1
+Nummer 2 dürfen Mastkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn
+    spätestens bis zum Ablauf des in Nummer 1 genannten Zeitpunkts den
+    Kaninchen eine Mindestfläche von 4 000 Quadratzentimetern zur
+    Verfügung steht.
+
+
+
+
+(25) Abweichend von § 33 Absatz 1 in Verbindung mit Absatz 3 Satz 1
+Nummer 3 dürfen Mastkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind, noch bis zum Ablauf des 10. Februar 2024 gehalten werden.
+
+(25a) Abweichend von § 33 Absatz 1 in Verbindung mit Absatz 3 Satz 2
+dürfen Mastkaninchen in Haltungseinrichtungen, die vor dem 11. August
+2014 bereits genehmigt oder in Benutzung genommen worden sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn den
+    Mastkaninchen spätestens bis zum Ablauf des in Nummer 1 genannten
+    Zeitpunkts eine Fläche zur Verfügung steht, die Auftrittsbreiten nach
+    § 32 Absatz 3 Nummer 2 und Spalten- oder Lochweiten nach § 32 Absatz 3
+    Nummer 2 aufweist und mindestens ein Drittel der uneingeschränkt
+    nutzbaren Bodenfläche nach § 33 Absatz 3 Satz 1 Nummer 1 beträgt.
+
+
+
+
+(26) Abweichend von § 34 Absatz 1 in Verbindung mit Absatz 2 Satz 1
+Nummer 1 dürfen Zuchtkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn
+    spätestens bis zum Ablauf des in Nummer 1 genannten Zeitpunkts für
+    jedes Zuchtkaninchen mindestens eine uneingeschränkt nutzbare
+    Bodenfläche von 4 000 Quadratzentimetern zur Verfügung steht.
+
+
+
+
+(27) Abweichend von § 34 Absatz 1 in Verbindung mit Absatz 2 Satz 1
+Nummer 2 dürfen Zuchtkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind, noch bis zum Ablauf des 10. Februar 2024 gehalten werden.
+
+(27a) Abweichend von § 34 Absatz 1 in Verbindung mit Absatz 2 Satz 2
+dürfen Zuchtkaninchen in Haltungseinrichtungen, die vor dem 11. August
+2014 bereits genehmigt oder in Benutzung genommen worden sind,
+
+1.  noch bis zum Ablauf des 10. Februar 2019 gehalten werden;
+
+
+2.  noch bis zum Ablauf des 10. Februar 2024 gehalten werden, wenn den
+    Zuchtkaninchen spätestens bis zum Ablauf des in Nummer 1 genannten
+    Zeitpunkts eine Fläche zur Verfügung steht, die Auftrittsbreiten nach
+    § 32 Absatz 3 Nummer 2 und Spalten- oder Lochweiten nach § 32 Absatz 3
+    Nummer 2 aufweist und mindestens ein Drittel der uneingeschränkt
+    nutzbaren Bodenfläche nach § 34 Absatz 2 Satz 1 Nummer 1 beträgt.
+
+
+
+
+(28) Abweichend von § 34 Absatz 1 in Verbindung mit Absatz 3 Nummer 1,
+2 und 5 dürfen Zuchtkaninchen in Haltungseinrichtungen, die vor dem
+11\. August 2014 bereits genehmigt oder in Benutzung genommen worden
+sind, noch bis zum Ablauf des 10. Februar 2024 gehalten werden.
+
+(29) Abweichend von § 36 Absatz 1 Satz 1 dürfen Mastkaninchen in
+Haltungseinrichtungen, die vor dem 11. August 2014 bereits genehmigt
+oder in Benutzung genommen worden sind, noch bis zum Ablauf des 10.
+Februar 2019 gehalten werden.
+
+(30) (weggefallen)
+
+(31) (weggefallen)
+
+(32) (weggefallen)
+
+
+### § 46 (Inkrafttreten, Außerkrafttreten)
 
 -
 

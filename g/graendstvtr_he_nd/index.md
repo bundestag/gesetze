@@ -5,7 +5,7 @@ Title: Staatsvertrag zwischen dem Land Hessen und dem Land Niedersachsen über d
   Niedersachsen über die Änderung der gemeinsamen Landesgrenze)
 jurabk: GrÄndStVtr HE/ND
 layout: default
-origslug: gr_ndstvtr_he_nd
+origslug: graendstvtr_he_nd
 slug: graendstvtr_he_nd
 
 ---

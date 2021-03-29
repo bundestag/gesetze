@@ -4,7 +4,7 @@ Title: Anordnung über die Übertragung der Befugnis zu Entscheidungen über Jub
   und Kriegsgeschädigte
 jurabk: BMFlüJubAnO
 layout: default
-origslug: bmfl_jubano
+origslug: bmfluejubano
 slug: bmfluejubano
 
 ---

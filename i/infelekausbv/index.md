@@ -297,8 +297,9 @@ vereinbaren.
 
 Diese Verordnung tritt am 1. August 1999 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Informationselektroniker/zur Informationselektronikerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Informationselektroniker/zur Informationselektronikerin
 
 (Fundstelle: BGBl. I 1999, 1545 - 1553)
 

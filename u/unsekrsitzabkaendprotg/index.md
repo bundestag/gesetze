@@ -5,7 +5,7 @@ Title: Gesetz zu dem Protokoll vom 7. Dezember 2005 zur Änderung des Abkommens 
   Klimaänderungen über den Sitz des Sekretariats des Übereinkommens
 jurabk: UNSekrSitzAbkÄndProtG
 layout: default
-origslug: unsekrsitzabk_ndprotg
+origslug: unsekrsitzabkaendprotg
 slug: unsekrsitzabkaendprotg
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1990, 889
 
 Zuletzt angepasst durch
-:   § 84 KVLG 1989 idF d. Art. 5 Nr. 9 G v. 12.4.2011 I 2012
+:   Art. 32 Abs. 3 G v. 27.6.2017 I 1966
 
 
 ## Eingangsformel
@@ -1907,8 +1907,9 @@ deutschen Einheit getroffen werden.
 
 
 
+Besondere Bestimmungen zur Überleitung von Bundesrecht
 
-### Anlage I BesBest Besondere Bestimmungen zur Überleitung von Bundesrecht gemäß Artikel 8 und Artikel 11 des Vertrages
+### Anlage I BesBest gemäß Artikel 8 und Artikel 11 des Vertrages
 
 (Fundstelle in der Anlage I des Einigungsvertrages, BGBl. II 1990,
 907)
@@ -1932,15 +1933,15 @@ Rechtsvorschriften der Bundesrepublik Deutschland Rechtsvorschriften
 der Deutschen Demokratischen Republik treten, ist dies ausdrücklich
 bestimmt.
 
+Anlage I Kapitel I
 
-### Anlage I Kap I Anlage I Kapitel I Geschäftsbereich des Bundesministers des Auswärtigen
+### Anlage I Kap I Geschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 908 - 909)
 
--
+Anlage I Kapitel I
 
-
-### Anlage I Kap I Anlage I Kapitel I Abschnitt I
+### Anlage I Kap I I Abschnitt I
 
 Von der Geltung in dem in Artikel 3 des Vertrages genannten Gebiet
 sind gemäß Artikel 11 des Vertrages ausgenommen:
@@ -2079,8 +2080,9 @@ sind gemäß Artikel 11 des Vertrages ausgenommen:
 
 
 
+Anlage I Kapitel II
 
-### Anlage I Kap II Anlage I Kapitel II Geschäftsbereich des Bundesministers des Innern
+### Anlage I Kap II Geschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 910 - 920)
 
@@ -2105,8 +2107,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap II D III) - Ausgegeben
 
 
 
+Anlage I Kapitel II
+Sachgebiet A - Staats- und Verfassungsrecht
 
-### Anlage I Kap II A II Anlage I Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt II
+### Anlage I Kap II A II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben und geändert:
 
@@ -2182,19 +2186,17 @@ Bundesrecht wird wie folgt aufgehoben und geändert:
 
 
 
+Anlage I Kapitel II
+Sachgebiet A - Staats- und Verfassungsrecht
 
-### Anlage I Kap II A III Anlage I Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt III
+### Anlage I Kap II A III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel II
+Sachgebiet B - Verwaltung
 
-
-
-
-
-### Anlage I Kap II B I Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt I
+### Anlage I Kap II B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -2291,8 +2293,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel II
+Sachgebiet B - Verwaltung
 
-### Anlage I Kap II B II Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt II
+### Anlage I Kap II B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -2503,8 +2507,10 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel II
+Sachgebiet B - Verwaltung
 
-### Anlage I Kap II B III Anlage I Kapitel II Sachgebiet B - Verwaltung Abschnitt III
+### Anlage I Kap II B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -2519,7 +2525,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  u. b) (nicht mehr anzuwenden)
+    a)  und b) (nicht mehr anzuwenden)
 
 
     c)  Fortführung der bis zum Beitritt angelegten Personenstandsbücher und
@@ -2597,7 +2603,7 @@ mit folgenden Maßgaben in Kraft:
             ddd) für die Führung der beim Standesamt I Berlin - Hauptstadt der
                 Deutschen Demokratischen Republik - hinterlegten Beschlüsse über
                 Todeserklärungen und Feststellungen der Todeszeit (§ 21 des
-                Personenstandsgesetzes der Deutschen Demokratischen Republik). Von den
+                Personenstandsgesetzes der Deutschen Demokratischen Republik).Von den
                 Beschlüssen können Auszüge oder beglaubigte Abschriften erteilt
                 werden.
 
@@ -2621,32 +2627,29 @@ mit folgenden Maßgaben in Kraft:
             Berlin wird hierüber ein Vermerk beigeschrieben.
 
 
-        dd) Familienbücher, für deren Fortführung nach § 13 Abs. 3 der
-            Standesbeamte des Standesamts I in Berlin (West) zuständig ist, weil
-            die Ehegatten ihren Wohnsitz in der Deutschen Demokratischen Republik
-            haben, sind an den nach § 13 zuständig werdenden Standesbeamten
-            abzugeben, sobald dessen Zuständigkeit bekannt wird.
+        dd) (nicht mehr anzuwenden)
 
 
 
 
 
-    e)  Anlegung des Familienbuchs auf Antrag
-
-        Das Familienbuch ist auf Antrag unter den in § 15a Abs. 1 Nr. 1
-        genannten Voraussetzungen auch dann anzulegen, wenn die Ehe nach dem
-        31\. Dezember 1957 vor einem Standesbeamten in der Deutschen
-        Demokratischen Republik geschlossen worden ist.
+    e)  (nicht mehr anzuwenden)
 
 
 
 
 
+    3\.
+    bis
+9.  (nicht mehr anzuwenden)
 
-3\. bis 9. (nicht mehr anzuwenden)
 
 
-### Anlage I Kap II C II Anlage I Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt II
+
+Anlage I Kapitel II
+Sachgebiet C - Öffentliche Sicherheit
+
+### Anlage I Kap II C II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -2741,15 +2744,17 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel II
+Sachgebiet C - Öffentliche Sicherheit
 
-### Anlage I Kap II C III Anlage I Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt III
+### Anlage I Kap II C III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-1\. bis 5 (nicht mehr anzuwenden)
+(Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
+Anlage I Kapitel II
+Sachgebiet D - Kriegsfolgenrecht
 
-### Anlage I Kap II D I Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt I
+### Anlage I Kap II D I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -2776,8 +2781,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel II
+Sachgebiet D - Kriegsfolgenrecht
 
-### Anlage I Kap II D II Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt II
+### Anlage I Kap II D II Abschnitt II
 
 Bundesrecht wird wie folgt geändert und aufgehoben:
 
@@ -2891,8 +2898,10 @@ Bundesrecht wird wie folgt geändert und aufgehoben:
 
 
 
+Anlage I Kapitel II
+Sachgebiet D - Kriegsfolgenrecht
 
-### Anlage I Kap II D III Anlage I Kapitel II Sachgebiet D - Kriegsfolgenrecht Abschnitt III
+### Anlage I Kap II D III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -2919,9 +2928,7 @@ mit folgenden Maßgaben in Kraft:
         aufgeführten Maßgaben.
 
 
-    d)  Erbrachte Leistungen für Berechtigte nach § 1 Abs. 1 in dem Gebiet, in
-        dem das Häftlingshilfegesetz schon vor dem Beitritt gegolten hat, sind
-        anzurechnen.
+    d)  (nicht mehr anzuwenden)
 
 
 
@@ -2933,15 +2940,12 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  In dem in Artikel 3 des Vertrages genannten Gebiet ist § 230 Abs. 2
-        Nr. 1 nur anzuwenden auf Personen, die nach dem Wirksamwerden des
-        Beitritts und vor dem 1. Januar 1992 ihren ständigen Aufenthalt in
-        diesem Gebiet genommen haben.
+    a)  (nicht mehr anzuwenden)
 
 
     b)  § 6 Abs. 4, §§ 305, 306, 308 bis 311 sowie § 313 Abs. 1 Satz 3, § 314
-        Abs. 1 Satz 2 und § 316 Abs. 1 Satz 1                          sind in
-        dem in Artikel 3 des Vertrages genannten Gebiet nicht anzuwenden.
+        Abs. 1 Satz 2 und § 316 Abs. 1 Satz 1 sind in dem in Artikel 3 des
+        Vertrages genannten Gebiet nicht anzuwenden.
 
 
     c)  Der Präsident des Bundesausgleichsamtes bestimmt für Antragsteller mit
@@ -2957,8 +2961,9 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel III
 
-### Anlage I Kap III Anlage I Kapitel III Geschäftsbereich des Bundesministers der Justiz
+### Anlage I Kap III Geschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 921 - 963)
 
@@ -2980,8 +2985,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap III F III) - Ausgegeben
 
 
 
+Anlage I Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage I Kap III A I Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt I
+### Anlage I Kap III A I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind, vorbehaltlich der Sonderregelung für das Land Berlin in
@@ -3034,8 +3041,10 @@ Abschnitt IV, ausgenommen:
 
 
 
+Anlage I Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage I Kap III A II Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt II
+### Anlage I Kap III A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -3090,8 +3099,10 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage I Kap III A III Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
+### Anlage I Kap III A III Abschnitt III
 
 Bundesrecht tritt, soweit sich nicht aus den nachfolgenden Maßgaben
 ein anderer Geltungsbereich ergibt und vorbehaltlich der
@@ -3115,13 +3126,13 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
         vollstreckbar erklärt werden.
 
 
-    k)  u. l) (nicht mehr anzuwenden)
+    k)  und l) (nicht mehr anzuwenden)
 
 
 
 
 
-6.  u. 7. (nicht mehr anzuwenden)
+6.  und 7. (nicht mehr anzuwenden)
 
 
 8.  Deutsches Richtergesetz in der Fassung der Bekanntmachung vom 19.
@@ -3130,18 +3141,7 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
 
     mit folgenden Maßgaben:
 
-    a)  bis d) (nicht mehr anzuwenden)
-
-
-    e)  Richter, die nach den Vorschriften des Richtergesetzes der Deutschen
-        Demokratischen Republik in Verbindung mit der Ordnung über die Bildung
-        und Arbeitsweise der Richterwahlausschüsse in ein Richterverhältnis
-        auf Probe berufen worden sind, sind spätestens fünf Jahre nach ihrer
-        Ernennung zu Richtern auf Lebenszeit zu ernennen. § 12 Abs. 2 Satz 2
-        findet auf sie Anwendung.
-
-
-    f)  bis x) (nicht mehr anzuwenden)
+    a)  bis x) (nicht mehr anzuwenden)
 
 
     y)  Für das in Artikel 1 Abs. 1 des Vertrages genannte Gebiet gelten
@@ -3160,7 +3160,7 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
 
     z)  Für Staatsanwälte gilt folgendes:
 
-        aa) u. bb) (nicht mehr anzuwenden)
+        aa) und bb) (nicht mehr anzuwenden)
 
 
         cc) Im übrigen gelten die Maßgaben ...(nicht mehr anzuwenden) ... und y)
@@ -3173,16 +3173,7 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
 
 
 
-
-
-
-8a. (nicht mehr anzuwenden)
-
-
-9.  (nicht mehr anzuwenden)
-
-
-10. bis 13. (nicht mehr anzuwenden)
+8a. bis 13. (nicht mehr anzuwenden)
 
 
 14. Strafprozeßordnung in der Fassung der Bekanntmachung vom 7. April 1987
@@ -3214,52 +3205,21 @@ Sonderregelung für das Land Berlin in Abschnitt IV, in dem in Artikel
         auch von der Staatsanwaltschaft angeordnet werden.
 
 
-    e)  bis h) (nicht mehr anzuwenden)
-
-
-    i)  Das Begnadigungsrecht steht dem Bund auch dann zu, wenn ein Gericht
-        der Deutschen Demokratischen Republik in einer Sache entschieden hat,
-        die der Gerichtsbarkeit des Bundes unterfallen würde.
-
-
-    j)  Die abschließende Entscheidung des Gerichts nach Maßgabe d) ist dem
-        Generalbundesanwalt - Bundeszentralregister - mitzuteilen. Sie ist in
-        ihm zu vermerken, wenn die Vollstreckung einer Rechtsfolge insgesamt
-        oder in einer milderen Folgenart für zulässig erklärt worden ist. Ist
-        die Verurteilung noch nicht im Bundeszentralregister eingetragen, so
-        wird die Eintragung von der Registerbehörde entsprechend den
-        Feststellungen in der abschließenden Entscheidung vorgenommen. Die
-        Eintragung im bisherigen Strafregister der Deutschen Demokratischen
-        Republik über eine Rechtsfolge, deren Vollstreckung für unzulässig
-        erklärt worden ist, ist nicht in das Bundeszentralregister zu
-        übernehmen. Bei bereits erfolgter Eintragung im Bundeszentralregister
-        ist diese wieder zu entfernen.
-
-        Eintragungen auf Grund der gerichtlichen Entscheidung werden
-        hinsichtlich der Folgen nach dem Bundeszentralregistergesetz wie
-        Eintragungen von Verurteilungen durch deutsche Gerichte im bisherigen
-        Geltungsbereich des Bundeszentralregistergesetzes behandelt.
-
-
-    k)  (nicht mehr anzuwenden)
+    e)  bis k) (nicht mehr anzuwenden)
 
 
 
 
 
-15. u. 16. (nicht mehr anzuwenden)
-
-
-17. (nicht mehr anzuwenden)
-
-
-18. bis 28. (nicht mehr anzuwenden)
+15. bis 28. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage I Kap III A IV Anlage I Kapitel III Sachgebiet A - Rechtspflege Abschnitt IV
+### Anlage I Kap III A IV Abschnitt IV
 
 Abweichend von den Regelungen der Abschnitte I und III wird der im
 bisherigen Geltungsbereich des Grundgesetzes für die Bundesrepublik
@@ -3270,8 +3230,10 @@ Arbeitsgerichtsbarkeit und der Sozialgerichtsbarkeit auf den Teil des
 Landes Berlin erstreckt, in dem das Grundgesetz bisher nicht galt.
 1\. bis 4 (nicht mehr anzuwenden)
 
+Anlage I Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage I Kap III B I Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt I
+### Anlage I Kap III B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -3287,8 +3249,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage I Kap III B II Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt II
+### Anlage I Kap III B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -4310,8 +4274,10 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage I Kap III B III Anlage I Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
+### Anlage I Kap III B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4343,36 +4309,15 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-10. Gesetz über Rechte an eingetragenen Schiffen und Schiffsbauwerken in
-    der im Bundesgesetzblatt Teil III, Gliederungsnummer 403-4,
-    veröffentlichten bereinigten Fassung, zuletzt geändert durch Gesetz
-    vom 28. August 1969 (BGBl. I S. 1513),
-
-    mit folgenden Maßgaben:
-
-    a)  Artikel 233 §§ 1, 2 und 3 Abs. 1 und 2 des Einführungsgesetzes zum
-        Bürgerlichen Gesetzbuche findet entsprechende Anwendung.
-
-
-    b)  Für die Übertragung und die Aufhebung von Hypotheken, die am Tag des
-        Wirksamwerdens des Beitritts bestanden, gelten die Vorschriften des
-        Gesetzes über Rechte an eingetragenen Schiffen und Schiffsbauwerken
-        mit der Maßgabe, daß zur Aufhebung die Zustimmung des Eigentümers
-        nicht erforderlich ist. Die Bestimmungen des vorbezeichneten Gesetzes
-        über den Verzicht auf die Hypothek sind bei solchen Hypotheken nicht
-        anzuwenden.
+10. bis 14. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-11. bis 14. (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap III C I Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt I
+### Anlage I Kap III C I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -4390,8 +4335,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-### Anlage I Kap III C II Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt II
+### Anlage I Kap III C II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -4686,8 +4633,10 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-### Anlage I Kap III C III Anlage I Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt III
+### Anlage I Kap III C III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4711,19 +4660,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  § 116 ist nicht anzuwenden. §§ 117 bis 125 (nicht mehr anzuwenden)
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-    d)  (nicht mehr anzuwenden)
-
-
-    e)  (nicht mehr anzuwenden)
+    a)  bis e) (nicht mehr anzuwenden)
 
 
     f)  Für die Anwendung des Jugendgerichtsgesetzes gelten zusätzlich die
@@ -4755,19 +4692,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 *
-    *   § 2
-
-        (nicht mehr anzuwenden)
-
-        § 3
-
-        (nicht mehr anzuwenden)
-
-        § 4
-
-        (nicht mehr anzuwenden)
-
-        § 5
+    *   § 2 bis § 5
 
         (nicht mehr anzuwenden)
 
@@ -4780,8 +4705,11 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel III
+Sachgebiet D - Handels- und Gesellschaftsrecht,
+Versicherungsvertragsrecht
 
-### Anlage I Kap III D II Anlage I Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt II
+### Anlage I Kap III D II Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -4802,8 +4730,11 @@ Bundesrecht wird wie folgt geändert und ergänzt:
 
 
 
+Anlage I Kapitel III
+Sachgebiet D - Handels- und Gesellschaftsrecht,
+Versicherungsvertragsrecht
 
-### Anlage I Kap III D III Anlage I Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt III
+### Anlage I Kap III D III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -4832,8 +4763,11 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel III
+Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren
+Wettbewerb, Urheberrecht
 
-### Anlage I Kap III E II Anlage I Kapitel III Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht Abschnitt II
+### Anlage I Kap III E II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -5006,26 +4940,24 @@ Bundesrecht wird wie folgt ergänzt:
 
 
 
+Anlage I Kapitel III
+Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren
+Wettbewerb, Urheberrecht
 
-### Anlage I Kap III E III Anlage I Kapitel III Sachgebiet E - Gewerblicher Rechtsschutz, Recht gegen den unlauteren Wettbewerb, Urheberrecht Abschnitt III
+### Anlage I Kap III E III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel III
+Sachgebiet F - Verfassungsgerichtsbarkeit
 
+### Anlage I Kap III F III Abschnitt III
 
+(Abschnitt III Buchst. a und b nicht mehr anzuwenden)
 
+Anlage I Kapitel IV
 
-
-### Anlage I Kap III F III Anlage I Kapitel III Sachgebiet F - Verfassungsgerichtsbarkeit Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-(nicht mehr anzuwenden)
-
-
-### Anlage I Kap IV Anlage I Kapitel IV Geschäftsbereich des Bundesministers der Finanzen
+### Anlage I Kap IV Geschäftsbereich des Bundesministers der Finanzen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 964 - 995)
 
@@ -5047,8 +4979,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap IV B III) - Ausgegeben
 
 
 
+Anlage I Kapitel IV
+Sachgebiet A - Kriegsfolgenregelungen
 
-### Anlage I Kap IV A I Anlage I Kapitel IV Sachgebiet A - Kriegsfolgenregelungen Abschnitt I
+### Anlage I Kap IV A I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -5199,8 +5133,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel IV
+Sachgebiet A - Kriegsfolgenregelungen
 
-### Anlage I Kap IV A II Anlage I Kapitel IV Sachgebiet A - Kriegsfolgenregelungen Abschnitt II
+### Anlage I Kap IV A II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -5285,8 +5221,10 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel IV
+Sachgebiet B - Haushalts- und Finanzwesen
 
-### Anlage I Kap IV B I Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt I
+### Anlage I Kap IV B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -5308,8 +5246,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel IV
+Sachgebiet B - Haushalts- und Finanzwesen
 
-### Anlage I Kap IV B II Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt II
+### Anlage I Kap IV B II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -8936,22 +8876,15 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel IV
+Sachgebiet B - Haushalts- und Finanzwesen
 
-### Anlage I Kap IV B III Anlage I Kapitel IV Sachgebiet B - Haushalts- und Finanzwesen Abschnitt III
+### Anlage I Kap IV B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Die im Vertrag vom 18. Mai 1990 über die Schaffung einer Währungs-,
-    Wirtschafts- und Sozialunion (BGBl. 1990 II S. 518) getroffenen
-    Regelungen über die Errichtung einer Währungsunion einschließlich der
-    Regelungen über die Zuständigkeit und Befugnisse der Deutschen
-    Bundesbank in der Deutschen Demokratischen Republik
-
-    mit folgender Maßgabe:
-
-    Innerhalb von zwölf Monaten nach Wirksamwerden des Beitritts wird das
-    Gesetz über die Deutsche Bundesbank angepaßt.
+1.  (nicht mehr anzuwenden)
 
 
 2.  Erstes Überleitungsgesetz in der im Bundesgesetzblatt Teil III,
@@ -8976,25 +8909,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-3.  Biersteuergesetz in der Fassung der Bekanntmachung vom 15. April 1986
-    (BGBl. I S. 527), geändert durch Verordnung vom 2. Juli 1990 (BGBl. I
-    S. 1332)
-
-    mit folgender Maßgabe:
-
-    Unter den in Anlage I Kapitel X Sachgebiet E Abschnitt III Nr. 1
-    Buchstabe a) und b) genannten Voraussetzungen dürfen in dem in Artikel
-    3 des Vertrages genannten Gebiet
-
-    a)  die Hauptzollämter zulassen, daß Brauereien abweichend von § 9 Abs. 1
-        bis 6 Bier herstellen,
-
-
-    b)  Hopfenerzeugnisse abweichend von § 11 Abs. 2 und 3 in Verkehr gebracht
-        werden.
-
-
-
+3.  (nicht mehr anzuwenden)
 
 
 4.  Das Gesetz zur Neuordnung der Pensionskasse Deutscher Eisenbahnen und
@@ -9010,8 +8925,9 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel V
 
-### Anlage I Kap V Anlage I Kapitel V Geschäftsbereich des Bundesministers für Wirtschaft
+### Anlage I Kap V Geschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 996 - 1009)
 
@@ -9033,8 +8949,11 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap V F II) - Ausgegeben
 
 
 
+Anlage I Kapitel V
+Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
+Wettbewerbs- und Preisrecht
 
-### Anlage I Kap V A I Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt I
+### Anlage I Kap V A I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9044,8 +8963,11 @@ Preisausgleich für die eisenverbrauchende Wirtschaft in West-Berlin
 Verordnung PR 13/67 vom 22. Dezember 1967 (BAnz. Nr. 244 vom 30.
 Dezember 1967)
 
+Anlage I Kapitel V
+Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
+Wettbewerbs- und Preisrecht
 
-### Anlage I Kap V A II Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt II
+### Anlage I Kap V A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9133,160 +9055,18 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel V
+Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
+Wettbewerbs- und Preisrecht
 
-### Anlage I Kap V A III Anlage I Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt III
+### Anlage I Kap V A III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-1.  Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen
-    Wirtschaftsstruktur" vom 6. Oktober 1969 (BGBl. I S. 1861), zuletzt
-    geändert durch Artikel 3 des Gesetzes vom 23. Dezember 1971 (BGBl. I
-    S. 2140),
+Anlage I Kapitel V
+Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung
 
-    mit folgenden Maßgaben:
-
-    a)  In dem in Artikel 3 des Vertrages genannten Gebiet werden für einen
-        Zeitraum von fünf Jahren mit der Möglichkeit diesen Zeitraum zu
-        verlängern, beginnend mit dem Tage des Wirksamwerdens des Beitritts,
-        die in § 1 Abs. 1 genannten Förderungsmaßnahmen durchgeführt. In
-        diesem Gebiet und für diesen Zeitraum sind wegen besonderer
-        strukturpolitischer Erfordernisse Abweichungen von den in § 2 Abs. 1
-        genannten Grundsätzen, Ergänzungen der in § 1 Abs. 1 genannten
-        Maßnahmen und der in § 3 genannten Förderungsarten sowie eine
-        gesonderte Zuteilung von Bundesmitteln im Rahmen der
-        Gemeinschaftsaufgabe möglich.
-
-
-    b)  Für die in Buchstabe a genannte Übergangszeit wird bei der Berechnung
-        des in § 1 Abs. 2 Nr. 1 genannten Bundesdurchschnitts das in Artikel 3
-        des Vertrages genannte Gebiet nicht berücksichtigt.
-
-
-    c)  Für das in Artikel 3 des Vertrages genannte Gebiet werden in dem in
-        Buchstabe a genannten Zeitraum im Rahmenplan die Abweichungen zu § 2
-        Abs. 1 und Ergänzungen zu § 1 Abs. 1 sowie § 3 festgelegt.
-
-
-    d)  Zur Unterstützung des Aufbaus einer wirksamen Wirtschaftsförderung
-        können die in Artikel 3 des Vertrages genannten Länder und der Teil
-        des Landes Berlin, in dem das Grundgesetz bisher nicht galt, sich an
-        den Bund oder andere Länder um Unterstützung bei der Durchführung der
-        Maßnahmen wenden.
-
-
-    e)  Die Notwendigkeit einer Verlängerung der vorstehenden
-        Übergangsregelungen ist nach Ablauf von vier Jahren beginnend mit dem
-        Tage des Wirksamwerdens des Beitritts zu überprüfen.
-
-
-
-
-
-2.  Gesetz zur Regelung von Ingenieur- und Architektenleistungen vom 4.
-    November 1971 (BGBl. I S. 1745, 1749), geändert durch Gesetz vom 12.
-    November 1984 (BGBl. I S. 1337),
-
-    mit folgender Maßgabe:
-
-    Die Worte "bei Erteilung des Ingenieurauftrages" in § 1 Abs. 3 Nr. 3
-    und "bei Erteilung des Architektenauftrages" in § 2 Abs. 3 Nr. 3
-    gelten nicht bis zum 31. Dezember 1992.
-
-
-3.  Honorarordnung für Architekten und Ingenieure vom 17. September 1976
-    (BGBl. I S. 2805, 3616), zuletzt geändert durch Verordnung vom 17.
-    März 1988 (BGBl. I S. 359),
-
-    mit folgenden Maßgaben:
-
-    Die folgenden Vorschriften finden Anwendung für Leistungen von
-    Auftragnehmern mit Geschäftssitz in dem in Artikel 3 des Vertrages
-    genannten Gebiet, die für Objekte in diesem Gebiet zur Erfüllung von
-    Verträgen erbracht werden, die vom Tage des Wirksamwerdens des
-    Beitritts bis zum 31. Dezember 1992 abgeschlossen werden.
-
-    a)  Abweichend von § 4 Abs. 1 und 4 gelten die Worte "bei
-        Auftragserteilung" nicht.
-
-
-    b)  abweichend von § 6 Abs. 2 kann für jede Stunde des Auftragnehmers ein
-        Betrag von 45 bis 140 Deutsche Mark und für jede Stunde eines
-        Mitarbeiters, der technische oder wirtschaftliche Aufgaben erfüllt,
-        ein Betrag von 35 bis 100 Deutsche Mark in Ansatz gebracht werden.
-
-
-    c)  Die jeweiligen Mindestsätze in den Honorartafeln in den Teilen II, IV,
-        VII bis XIII werden um 15 vom Hundert und in den Honorartafeln in den
-        Teilen V und VI um 25 vom Hundert herabgesetzt.
-
-
-    d)  Die Vertragsparteien können vereinbaren, daß die Leistungen zur
-        Erfüllung von Verträgen, die vor dem Inkrafttreten dieser Verordnung
-        abgeschlossen worden sind, nach dieser Verordnung abgerechnet werden,
-        soweit sie bis zum Tage des Wirksamwerdens des Beitritts noch nicht
-        erbracht worden sind. Satz 1 gilt entsprechend für Leistungen zur
-        Erfüllung von Verträgen, die vom Tage des Wirksamwerdens des Beitritts
-        bis zum 31. Dezember 1992 abgeschlossen sind.
-
-
-
-
-
-4.  Verordnung über die Tarife in der Kraftfahrzeug-
-    Haftpflichtversicherung vom 5. Dezember 1984 (BGBl. I S. 1437),
-    zuletzt geändert durch Verordnung vom 16.07.1990 (BGBl. I S. 1476)
-
-    mit folgenden Maßgaben:
-
-    Folgende Vorschriften finden Anwendung auf die ab 1. Januar 1991 bis
-    zum 31. Dezember 1991 geltenden Tarife der Versicherungsunternehmen
-    für die Kraftfahrzeug-Haftpflichtversicherung in dem in Artikel 3 des
-    Vertrages genannten Gebiet:
-
-    a)  Die Versicherungsunternehmen haben der Genehmigungsbehörde mit ihrem
-        Antrag auf Genehmigung der Unternehmenstarife besondere
-        Tarifbestimmungen einzureichen.
-
-
-    b)  Soweit der Unternehmenstarif für Personenkraftwagen nach dem Wohnort
-        des Versicherungsnehmers gegliedert wird, sind folgende drei Einheiten
-        zu bilden: Berlin mit dem Teil, in dem das Grundgesetz bisher nicht
-        galt, die anderen Städte mit über 300.000 Einwohnern und das übrige
-        Gebiet.
-
-
-    c)  Der Schadenbedarf ist für jede einzelne Wagnisgruppe mit dem Wert
-        anzusetzen, der sich für vergleichbare Wagnisgruppen aus § 10 ergibt;
-        die Genehmigungsbehörde kann Abschläge festsetzen.
-
-
-    d)  Die in § 17 Abs. 1 genannte Frist wird auf zwei Monate verkürzt.
-
-
-    e)  Die gesetzliche Beitragsermäßigung nach Anlage 4 ist für das
-        Kalenderjahr gesondert festzustellen; dabei ist das für 1990
-        ermittelte Ergebnis zu berücksichtigen.
-
-
-    f)  Bei der Gliederung des Unternehmenstarifes können gleichartige
-        Wagniskennziffern oder Wagnisstärkegruppen zusammengefaßt werden.
-        Soweit Kraftfahrzeuge nicht unmittelbar einer Wagniskennziffer nach
-        Anlage 1 zugeordnet werden können, sind sie vergleichbaren
-        Wagniskennziffern zuzuordnen.
-
-
-    g)  Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
-        genannten Gebiet nach den bisherigen Regeln verfahren werden.
-
-
-
-
-
-
-
-
-### Anlage I Kap V B II Anlage I Kapitel V Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung Abschnitt II
+### Anlage I Kap V B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9346,8 +9126,10 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel V
+Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung
 
-### Anlage I Kap V B III Anlage I Kapitel V Sachgebiet B - Berufsrecht, Recht der beruflichen Bildung Abschnitt III
+### Anlage I Kap V B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -9406,30 +9188,7 @@ mit folgenden Maßgaben in Kraft:
         handwerksähnliches Gewerbe betreiben, entsprechende Anwendung.
 
 
-    f)  Die am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehenden Organisationen des Handwerks
-        sind bis 31. Dezember 1991 den Bestimmungen der Handwerksordnung
-        entsprechend anzupassen; bis dahin gelten sie als Organisationen im
-        Sinne der Handwerksordnung. Dasselbe gilt für die bestehenden
-        Facharbeiter- und Meisterprüfungskommissionen; bis zum 31. Dezember
-        1991 gelten sie als Prüfungsausschüsse im Sinne der Handwerksordnung.
-        Die Handwerkskammern haben unverzüglich, spätestens jedoch bis zum 31.
-        Dezember 1991, die Voraussetzungen für die Beteiligung der Gesellen
-        entsprechend den Bestimmungen der Handwerksordnung zu schaffen.
-
-
-    g)  Am Tage des Wirksamwerdens des Beitritts bestehende Lehrverhältnisse
-        werden nach den bisherigen Vorschriften zu Ende geführt, es sei denn,
-        die Parteien des Lehrvertrages vereinbaren die Fortsetzung der
-        Berufsausbildung in einem Handwerk der Anlage A der Handwerksordnung.
-
-
-    h)  Lehrlinge, die ihre Berufsausbildung nach bisherigem Recht
-        durchlaufen, werden nach den bisherigen Rechtsvorschriften geprüft,
-        soweit nicht der Bundesminister für Wirtschaft im Einvernehmen mit dem
-        Bundesminister für Bildung und Wissenschaft durch Rechtsverordnung,
-        die nicht der Zustimmung des Bundesrates bedarf, Übergangsvorschriften
-        für Verfahren und Zuständigkeit erläßt.
+    f)  bis h) (nicht mehr anzuwenden)
 
 
     i)  Die am Tage des Wirksamwerdens des Beitritts laufenden
@@ -9437,30 +9196,7 @@ mit folgenden Maßgaben in Kraft:
         geführt.
 
 
-    k)  Die Handwerkskammern können bis zum 1. Dezember 1995 Ausnahmen von den
-        nach § 25 der Handwerksordnung erlassenen Rechtsverordnungen zulassen,
-        wenn die gesetzten Anforderungen noch nicht erfüllt werden können. Die
-        Ausnahmen sind zu befristen. Der Bundesminister für Wirtschaft kann im
-        Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
-
-
-    l)  Die Rechtsverordnungen nach § 27a Abs. 1 und § 40 der Handwerksordnung
-        bedürfen der gesonderten Inkraftsetzung durch den Bundesminister für
-        Wirtschaft im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf.
-
-
-    m)  Der Bundesminister für Wirtschaft bestimmt durch Rechtsverordnung nach
-        § 46 Abs. 3 der Handwerksordnung, welche Prüfungen an
-        Ausbildungseinrichtungen der Nationalen Volksarmee nach Maßgabe des §
-        3 Abs. 2 der Verordnung über die Anerkennung von Prüfungen bei der
-        Eintragung in die Handwerksrolle und bei der Ablegung der
-        Meisterprüfung im Handwerk vom 2. November 1982 (BGBl. I S. 1475) als
-        Voraussetzung für die Befreiung von Teil II der Meisterprüfung im
-        Handwerk anerkannt werden.
+    k)  bis m) (nicht mehr anzuwenden)
 
 
     n)  Der Bundesminister für Wirtschaft kann durch Rechtsverordnung nach § 7
@@ -9480,28 +9216,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-2.  Wirtschaftsprüferordnung in der Fassung der Bekanntmachung vom 5.
-    November 1975 (BGBl. I S. 2803), zuletzt geändert durch Gesetz vom 20.
-    Juli 1990 (BGBl. I S. 1462),
-
-    mit folgenden Maßgaben:
-
-    a)  Wirtschaftsprüfer, vereidigte Buchprüfer,
-        Wirtschaftsprüfungsgesellschaften und Buchprüfungsgesellschaften, die
-        nach den Vorschriften der Wirtschaftsprüferordnung bestellt oder
-        anerkannt sind, bedürfen in dem in Artikel 3 des Vertrages genannten
-        Gebiet keiner erneuten Bestellung oder Anerkennung.
-
-
-    b)  Bis zum Inkrafttreten der Rechtsverordnung nach § 134a Abs. 5 Satz 4
-        werden Eignungsprüfungen nach § 134a Abs. 5 in dem in Artikel 3 des
-        Vertrages genannten Gebiet nach den bisherigen, dem § 134a Abs. 5
-        entsprechenden Vorschriften durchgeführt; die bei Inkrafttreten der
-        Rechtsverordnung nach § 134a Abs. 5 Satz 4 laufenden Prüfungsverfahren
-        werden nach den bisherigen Vorschriften zu Ende geführt.
-
-
-
+2.  (nicht mehr anzuwenden)
 
 
 3.  Schornsteinfegergesetz vom 15. September 1969 (BGBl. I S. 1634, 2432),
@@ -9510,38 +9225,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  Eine am Tage des Wirksamwerdens des Beitritts in dem in Artikel 3 des
-        Vertrages genannten Gebiet bestehende Berechtigung
-
-        aa) zur Eintragung in die Bewerberliste oder
-
-
-        bb) zur Ausübung der Tätigkeit als Bezirksschornsteinfegermeister
-
-
-
-
-        bleibt bestehen.
-
-
-    c)  Dem für einen Kehrbezirk in dem in Artikel 3 des Vertrages genannten
-        Gebiet bestellten Bezirksschornsteinfegermeister kann bei Erfordernis
-        nach Erreichen der Altersgrenze gemäß § 9 durch die zuständige
-        Verwaltungsbehörde eine Ausnahmegenehmigung zur weiteren Tätigkeit
-        erteilt werden, soweit mit einem amtsärztlichen Gutachten bestätigt
-        wird, daß der Bezirksschornsteinfegermeister geistig und körperlich in
-        der Lage ist, die Arbeiten der Gesellen und Lehrlinge zu überprüfen.
-        Das amtsärztliche Gutachten ist jährlich zu erneuern.
-
-
-    d)  Der Rang der Eintragung in die Bewerberliste für einen Kehrbezirk in
-        dem in Artikel 3 des Vertrages genannten Gebiet richtet sich, solange
-        die Prüfungsverfahren nach den bisherigen Vorschriften erfolgen, nach
-        dem Tag der erfolgreichen Ablegung der Meisterprüfung, dem Alter und
-        dem Prüfungsergebnis des Bewerbers.
+    a)  bis d) (nicht mehr anzuwenden)
 
 
     e)  Zu den Aufgaben des Bezirksschornsteinfegermeisters in dem in Artikel
@@ -9561,24 +9245,16 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-4.  Gesetz zur vorläufigen Regelung des Rechts der Industrie- und
-    Handelskammern in der im Bundesgesetzblatt Teil III, Gliederungsnummer
-    701-1, veröffentlichten bereinigten Fassung, zuletzt geändert durch
-    Artikel 95 Nr. 5 des Gesetzes vom 14. Dezember 1976 (BGBl. I S. 3341),
-
-    mit folgender Maßgabe:
-
-    Für die Zeit bis zum 31. Dezember 1992 können die Beiträge der
-    Kammerzugehörigen von den Industrie- und Handelskammern in dem in
-    Artikel 3 des Vertrages genannten Gebiet abweichend von § 3 Abs. 3 und
-    4 festgesetzt werden; die Beitragsordnung und der Beitragsmaßstab
-    bedürfen der Genehmigung der Aufsichtsbehörde.
+4.  (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel V
+Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
+Filmförderung
 
-### Anlage I Kap V C I Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt I
+### Anlage I Kap V C I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9588,8 +9264,11 @@ Filmvermögens in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 Artikel 4 des Gesetzes vom 27. Februar 1974 (BGBl. I S. 444), mit
 Ausnahme des § 15 Satz 2.
 
+Anlage I Kapitel V
+Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
+Filmförderung
 
-### Anlage I Kap V C II Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt II
+### Anlage I Kap V C II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -9603,82 +9282,16 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel V
+Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und
+Filmförderung
 
-### Anlage I Kap V C III Anlage I Kapitel V Sachgebiet C - Gewerberecht, Recht der Technik, Gewerbe- und Filmförderung Abschnitt III
+### Anlage I Kap V C III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Spielverordnung in der Fassung der Bekanntmachung vom 11. Dezember
-    1985 (BGBl. I S. 2245)
-
-    mit folgender Maßgabe:
-
-    Geldspielgeräte, die den Anforderungen der §§ 13 und 14
-    Spielverordnung nicht entsprechen, aber vor dem Tage des
-    Wirksamwerdens des Beitritts befugt aufgestellt worden sind, können
-    bis zum 31. Dezember 1991 unter Beachtung der Vorschriften der
-    Verordnung im übrigen aufgestellt bleiben.
-
-
-2.  Getränkeschankanlagenverordnung vom 27. November 1989 (BGBl. I S.
-    2044)
-
-    mit folgenden Maßgaben:
-
-    a)  Eine nach den bisherigen Vorschriften erteilte Erlaubnis, Genehmigung,
-        Bauartzulassung, Bauartprüfung oder erstattete Anzeige gilt als
-        Bauartzulassung, Bauartprüfung oder Anzeige im Sinne dieser
-        Verordnung.
-
-
-    b)  Für Anlagen, die vor dem Tage des Wirksamwerdens des Beitritts
-        errichtet waren oder mit deren Errichtung begonnen wurde, bleiben
-        hinsichtlich der an sie zu stellenden Beschaffenheitsanforderungen die
-        für sie bisher geltenden Vorschriften maßgebend. Die zuständige
-        Behörde kann verlangen, daß diese Anlagen entsprechend den
-        Vorschriften der Verordnung geändert werden, soweit
-
-        aa) sie erweitert, umgebaut oder wesentlich geändert werden oder
-
-
-        bb) ihre Nutzung wesentlich geändert wird oder
-
-
-        cc) vermeidbare Gefahren für Leben oder Gesundheit der Beschäftigten oder
-            Dritter zu befürchten sind.
-
-
-
-
-
-    c)  Die in der Verordnung enthaltenen Betriebsvorschriften müssen
-        spätestens bis zum 31. Dezember 1991 angewendet werden.
-
-
-    d)  Der Ausschuß nach § 19 der Verordnung wird bis zum 31. Dezember 1993
-        durch folgende sachverständige Mitglieder aus dem in Artikel 3 des
-        Vertrages genannten Gebiet ergänzt:
-
-        1   Vertreter der Staatlichen Hygieneinspektion
-
-
-        2   Vertreter der Herstellung von Getränkeschankanlagen oder Bauteilen
-
-
-        1   Vertreter der Betreiber von Getränkeschankanlagen
-
-
-        1   Vertreter der Reiniger und Instandhalter von Getränkeschankanlagen und
-
-
-        1   Vertreter des Amtes für Technische Überwachung.
-
-
-
-
-
-
+1.  und 2. (nicht mehr anzuwenden)
 
 
 3.  Eichgesetz in der Fassung der Bekanntmachung vom 22. Februar 1985
@@ -9695,48 +9308,7 @@ mit folgenden Maßgaben in Kraft:
         Nacheichung zugelassen.
 
 
-    b)  Meßgeräte, die am Tage des Wirksamwerdens des Beitritts in dem in
-        Artikel 3 des Vertrages genannten Gebiet im eichpflichtigen Verkehr
-        verwendet oder bereitgehalten werden und zur Eichung zugelassen sind,
-        aber auf Grund der bisher dort geltenden Vorschriften nicht
-        eichpflichtig waren, müssen bis spätestens 31. Dezember 1991 geeicht
-        sein.
-
-
-    c)  Meßgeräte, die in dem in Artikel 3 des Vertrages genannten Gebiet im
-        eichpflichtigen Verkehr verwendet oder bereitgehalten werden und die
-        auf Grund der bisher dort geltenden Vorschriften weder
-        zulassungspflichtig noch eichpflichtig waren, können erstgeeicht und
-        bis zum 31. Dezember 1996 nachgeeicht werden, wenn sie die in der
-        Eichordnung festgelegten Verkehrsfehlergrenzen sowie die in Teil 7 der
-        Eichordnung genannten allgemeinen Anforderungen einhalten. Sie müssen
-        bis spätestens 31. Dezember 1991 geeicht sein.
-
-
-    d)  Schankgefäße im Sinne von § 18 Abs. 3 dürfen in dem in Artikel 3 des
-        Vertrages genannten Gebiet bis zum 31. Dezember 1991 gewerbsmäßig in
-        den Verkehr gebracht und bis 31. Dezember 1992 zum Ausschank von
-        Getränken verwendet oder bereitgehalten werden, wenn sie den bisher
-        dort geltenden Vorschriften entsprechen. Schankgefäße ohne Füllstrich
-        dürfen nur noch bis zum 31. Dezember 1991 verwendet oder
-        bereitgehalten werden.
-
-
-    e)  Meßgeräte und Schankgefäße, die nur den vorstehenden
-        Übergangsvorschriften entsprechen, dürfen in dem Gebiet, in dem das
-        Grundgesetz schon vor dem Tage des Wirksamwerdens des Beitritts
-        gegolten hat, weder in den Verkehr gebracht noch verwendet oder
-        bereitgehalten werden.
-
-
-    f)  Bis zur Einrichtung der erforderlichen Länderbehörden und staatlich
-        anerkannten Prüfstellen, längstens bis zum 31. Dezember 1992, können
-        die Regierungen der Länder in dem in Artikel 3 des Vertrages genannten
-        Gebiet oder die von ihnen bestimmten Stellen abweichend von § 27 des
-        Eichgesetzes andere Stellen mit der Durchführung des Gesetzes und der
-        Eichordnung betrauen. Diese Stellen erheben für gebührenpflichtige
-        Tätigkeiten Kosten nach der Eich- und Beglaubigungskostenverordnung
-        vom 21. April 1982 (BGBl. I S. 428) in der jeweils geltenden Fassung.
+    b)  bis f) (nicht mehr anzuwenden)
 
 
 
@@ -9751,32 +9323,7 @@ mit folgenden Maßgaben in Kraft:
         eichpflichtig sind.
 
 
-    b)  Die Gültigkeitsdauer der Eichung geeichter Meßgeräte, die sich am Tage
-        des Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages
-        genannten Gebiet befinden, bestimmt sich bis zur nächsten Nacheichung
-        nach den am Tage des Wirksamwerdens des Beitritts dort geltenden
-        Vorschriften.
-
-
-    c)  Für die in dem in Artikel 3 des Vertrages genannten Gebiet
-        zugelassenen oder geeichten Meßgeräte gelten die Prüfzeichen nach den
-        dort geltenden Vorschriften für die Dauer der Gültigkeit der Zulassung
-        oder für die Dauer der Gültigkeit der Eichung. Ab 1. Januar 1991
-        gelten für neu aufzubringende Prüfzeichen die Stempel und Zeichen nach
-        der Eichordnung.
-
-
-    d)  Die Vorschriften über die Konformitätsbescheinigung gelten in dem in
-        Artikel 3 des Vertrages genannten Gebiet nicht für Meßgeräte, die dort
-        bereits vor dem 31. Dezember 1992 verwendet oder bereitgehalten wurden
-        und dort am Tage des Wirksamwerdens des Beitritts nicht eichpflichtig
-        waren. § 77 Abs. 3 Satz 2 und 3 bleibt unberührt.
-
-
-    e)  § 4 gilt bis zum 31. Dezember 1992 nicht für quantitative Analysen,
-        die in dem in Artikel 3 des Vertrages genannten Gebiet durchgeführt
-        und nach dem, am Tage des Wirksamwerdens des Beitritts dort geltenden
-        Vorschriften überwacht werden.
+    b)  bis e) (nicht mehr anzuwenden)
 
 
 
@@ -9811,68 +9358,21 @@ mit folgenden Maßgaben in Kraft:
         durfte.
 
 
-    c)  Bei Fertigpackungen gleicher Nennfüllmenge, die in dem in Artikel 3
-        des Vertrages genannten Gebiet angeboten werden oder für die dort
-        unter Angabe von Preisen geworben wird, ist die Angabe des
-        Grundpreises nicht erforderlich, wenn die Fertigpackungen vor dem 31.
-        Dezember 1992 erstmals in den Verkehr gebracht werden und die
-        Nennfüllmenge der Fertigpackungen einem Wert entspricht, mit dem das
-        betreffende Erzeugnis vor dem Tage des Wirksamwerdens des Beitritts in
-        diesem Gebiet in Fertigpackungen in den Verkehr gebracht werden
-        durfte.
+    c)  (nicht mehr anzuwenden)
 
 
 
 
 
-6.  Filmförderungsgesetz in der Fassung der Bekanntmachung vom 18.
-    November 1986 (BGBl. I S. 2047)
-
-    mit folgenden Maßgaben:
-
-    a)  Einem von seiten der Bundesrepublik Deutschland abgeschlossenen
-        zwischenstaatlichen Abkommen im Sinne des § 16 Abs. 1 Nr. 1 steht ein
-        zwischenstaatliches Abkommen der Deutschen Demokratischen Republik
-        über die Gemeinschaftsproduktion von Filmen gleich.
-
-
-    b)  Antragsberechtigt nach § 24 Abs. 1 Satz 2 sind Hersteller in dem in
-        Artikel 3 des Vertrages genannten Gebiet für Filme, die nach dem 1.
-        Januar 1991 im Geltungsbereich dieses Gesetzes erstaufgeführt werden.
-
-
-    c)  Antragsteller nach § 57 Abs. 1 in Verbindung mit § 56 Abs. 2 aus dem
-        in Artikel 3 des Vertrages genannten Gebiet können Anträge erstmals
-        nach Ablauf des Haushaltsjahres 1991 stellen, wenn sie bis spätestens
-        zum 31. Januar 1992 mitgeteilt haben, daß sie Förderungshilfe in
-        Anspruch nehmen wollen.
-
-
-    d)  Für die Bestimmung der Umsatzgrenzen nach § 66 Abs. 3 ist bei
-        Veranstaltern in dem in Artikel 3 des Vertrages genannten Gebiet im
-        Jahre 1991 statt des Umsatzes des Vorjahres der Umsatz des Jahres 1991
-        maßgeblich.
-
-
-    e)  Für Gewerbebetreibende im Sinne des § 66a in dem in Artikel 3 des
-        Vertrages genannten Gebiet erstreckt sich die Auskunftspflicht nach §
-        70 Abs. 2 auch auf die Aufnahme, Verlegung oder Aufgabe ihres
-        Gewerbes.
-
-
-    f)  Die Beteiligung von Vertretern aus dem in Artikel 3 des Vertrages
-        genannten Gebiet im Präsidium, im Verwaltungsrat und in den
-        Kommissionen der Filmförderungsanstalt (§§ 5 bis 8) werden durch einen
-        Beschluß des Verwaltungsrates nach § 6 Abs. 5 geregelt.
+6.  (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel V
+Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
-
-
-
-### Anlage I Kap V D I Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt I
+### Anlage I Kap V D I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -9891,8 +9391,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel V
+Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
-### Anlage I Kap V D II Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt II
+### Anlage I Kap V D II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -9961,8 +9463,10 @@ Bundesrecht wird wie folgt geändert oder aufgehoben:
 
 
 
+Anlage I Kapitel V
+Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
-### Anlage I Kap V D III Anlage I Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt III
+### Anlage I Kap V D III Abschnitt III
 
 Folgende Rechtsvorschriften treten mit den nachfolgend genannten
 Maßgaben in Kraft:
@@ -9993,79 +9497,7 @@ Maßgaben in Kraft:
         S. 279) festgelegt worden ist.
 
 
-    d)  (1) Gewinnungsrechte an mineralischen Rohstoffen im Sinne des § 3 des
-        Berggesetzes der Deutschen Demokratischen Republik kann der zur
-        Ausübung Berechtigte innerhalb einer Frist von sechs Monaten nach dem
-        Tage des Wirksamwerdens des Beitritts bei der für die Zulassung von
-        Betriebsplänen zuständigen Behörde zur Bestätigung anmelden.
-
-        (2) Die Bestätigung ist zu erteilen, wenn
-
-        1.  das Gewinnungsrecht
-
-
-        1.1. dem Antragsteller am 31. Dezember 1989 zur Ausübung nach § 5 des
-            Berggesetzes der Deutschen Demokratischen Republik wirksam übertragen
-            war oder
-
-
-        1.2. dem Antragsteller nach dem 31. Dezember 1989
-
-            -   auf Grund der Vierten Durchführungsbestimmung zur Verordnung über die
-                Gründung und Tätigkeit von Unternehmen mit ausländischer Beteiligung
-                in der Deutschen Demokratischen Republik - Berechtigung zur Gewinnung
-                mineralischer Rohstoffe - vom 14. März 1990 (GBl. I Nr. 21 S. 189),
-
-
-            -   auf Grund der Verordnung über die Verleihung von Bergwerkseigentum vom
-                15\. August 1990 (GBl. I Nr. 53 S. 1071) als Bergwerkseigentum oder
-
-
-            -   sonst von der zuständigen Behörde übertragen wurde und
-
-
-
-
-
-        1.3. bis zum Tage des Wirksamwerdens des Beitritts nicht aufgehoben worden
-            ist und
-
-
-        2.  der Antragsteller das Vorliegen der Voraussetzungen nach Nummer 1.
-            sowie den Umfang der auf Grund der Vorratsklassifikationsanordnung vom
-            28\. August 1979 (Sonderdruck Nr. 1019 des Gesetzblattes), bei
-            radioaktiven Bodenschätzen auf Grund einer entsprechenden methodischen
-            Festlegung, bestätigten und prognostizierten Vorräte sowie
-
-
-        2.1. in den Fällen der Nummer 1.2. erster und dritter Anstrich das
-            Vorliegen einer Bescheinigung der Staatlichen Vorratskommission über
-            die ordnungsgemäße Übertragung des Gewinnungsrechts,
-
-
-        2.2 in den Fällen der Nummer 1.2. zweiter Anstrich die Eintragung des
-            Bergwerkseigentums in das Bergwerksregister
-
-            mit den für die Bestätigung erforderlichen Unterlagen nachweist.
-
-
-
-
-        (3) Das Gewinnungsrecht ist im beantragten Umfang, höchstens im Umfang
-        der bestätigten und prognostizierten Vorräte sowie
-
-        1.  in den Fällen des Absatzes 2 Nr. 1.1. und 1.2. erster und dritter
-            Anstrich für eine zur Durchführung der Gewinnung der Vorräte
-            angemessene Frist, die 30 Jahre nicht überschreiten darf,
-
-
-        2.  in den Fällen des Absatzes 2 Nr. 1.2. zweiter Anstrich unbefristet
-
-
-
-
-        in einer Form zu bestätigen, die den sich aus § 8 oder § 151 in
-        Verbindung mit § 4 Abs. 7 ergebenden Anforderungen entspricht.
+    d)  (1) bis (3) (nicht mehr anzuwenden)
 
         (4) Ein bestätigtes Gewinnungsrecht gilt für die Bodenschätze, die
         Zeit und den Bereich, für die es bestätigt wird,
@@ -10100,18 +9532,7 @@ Maßgaben in Kraft:
 
         mit folgenden Maßgaben:
 
-        aa) Der Antragsteller muß zusätzlich nachweisen, daß er sich mit dem
-            Grundeigentümer über eine angemessene Entschädigung für die Gewinnung
-            der Bodenschätze ab dem Tage des Wirksamwerdens des Beitritts geeinigt
-            hat. Ist eine Einigung trotz ernsthafter Bemühungen nicht zustande
-            gekommen, kann der Antragsteller bei der für die Bestätigung
-            zuständigen Behörde eine Entscheidung über die Entschädigung
-            beantragen. Die Behörde entscheidet nach Anhörung des Grundeigentümers
-            in entsprechender Anwendung der §§ 84 bis 90.
-
-
-        bb) Die Bestätigung setzt die Einigung oder die Unanfechtbarkeit der
-            Entscheidung über die Entschädigung voraus.
+        aa) und bb) (nicht mehr anzuwenden)
 
 
         cc) Die Übertragung der Bewilligung (§ 22) bedarf der Zustimmung des
@@ -10122,14 +9543,9 @@ Maßgaben in Kraft:
 
 
 
-    f)  Für Speicherrechte gilt Buchstabe d) entsprechend mit der Maßgabe, daß
-        an die Stelle der Gewinnung das Errichten und Betreiben eines
-        Untertagespeichers und an die Stelle der bestätigten und
-        prognostizierten Vorräte die vom Antragsteller nachzuweisende
-        voraussichtlich größte Ausdehnung der in Anspruch genommenen
-        geologischen Speicherformation oder des Kavernenfeldes treten. Auf
-        Untersuchungen des Untergrundes und auf Untergrundspeicher findet §
-        126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107
+    f)  (früherer Satz 1 nicht mehr anzuwenden)
+        Auf Untersuchungen des Untergrundes und auf Untergrundspeicher findet
+        § 126 mit der Maßgabe Anwendung, daß auch die Vorschriften der §§ 107
         bis 125 entsprechende Anwendung finden.
 
 
@@ -10170,8 +9586,7 @@ Maßgaben in Kraft:
             bereits begonnen war.
 
 
-        cc) Für die Bestellung und Namhaftmachung verantwortlicher Personen gilt
-            für alle Betriebe § 169 Abs. 1 Nr. 3 entsprechend.
+        cc) (nicht mehr anzuwenden)
 
 
 
@@ -10245,108 +9660,7 @@ Maßgaben in Kraft:
 
 
 
-2.  Unterlagen-Bergverordnung vom 11. November 1982 (BGBl. I S. 1553)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1994 in Kraft. Bis zum zum 31.
-    Dezember 1993 kann in dem in Artikel 3 des Vertrages genannten Gebiet
-    nach Maßgabe von Anlage II Kapitel V Sachgebiet D Abschnitt III Nr. 1
-    nach den bisherigen Regeln verfahren werden.
-
-
-3.  Einwirkungsbereichs-Bergverordnung vom 11. November 1982 (BGBl. I S.
-    1558)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1994 in Kraft. Bis zum 31. Dezember
-    1993 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach
-    Maßgabe von Anlage II Kapitel V Sachgebiet D Abschnitt III Nr. 1 nach
-    den bisherigen Regeln verfahren werden.
-
-
-4.  Klima-Bergverordnung vom 9. Juni 1982 (BGBl. I S. 585)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1994 in Kraft. Bis zum 31. Dezember
-    1993 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach
-    Maßgabe von Anlage II Kapitel V Sachgebiet D Abschnitt III Nr. 1 nach
-    den bisherigen Regeln verfahren werden.
-
-
-5.  Markscheider-Bergverordnung vom 19. Dezember 1986 (BGBl. I S. 2631)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1994 in Kraft. Bis zum 31. Dezember
-    1993 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach
-    Maßgabe von Anlage II Kapitel V Sachgebiet D Abschnitt III Nr. 1 nach
-    den bisherigen Regeln verfahren werden.
-
-
-6.  Festlandsockel-Bergverordnung vom 21. März 1989 (BGBl. I S. 554)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1994 in Kraft. Bis zum 31. Dezember
-    1993 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach
-    Maßgabe von Anlage II Kapitel V Sachgebiet D Abschnitt III Nr. 1 nach
-    den bisherigen Regeln verfahren werden.
-
-
-7.  Verordnung über den Sachverständigenausschuß für den Bergbau vom 4.
-    März 1981 (BGBl. I S. 277), geändert durch Verordnung vom 26. November
-    1986 (BGBl. I S. 2089),
-
-    mit folgender Maßgabe:
-
-    Für eine Übergangszeit bis zum 31. Juli 1993 wird der Ausschuß um
-    folgende Mitglieder (und Stellvertreter) aus den in Artikel 1 des
-    Vertrages genannten Ländern und aus dem Land Berlin für den Teil, in
-    dem das Grundgesetz bisher nicht galt, ergänzt:
-
-    2   Mitglieder als Vertreter der Landesregierungen und 2 Mitglieder als
-        Vertreter der für den Erlaß von Bergverordnungen fachlich zuständigen
-        Landesbehörden jeweils auf Vorschlag des Bundesrates,
-
-
-    1   Mitglied auf Vorschlag des Wirtschaftsverbandes Bergbau,
-
-
-    1   Mitglied auf Vorschlag der Industriegewerkschaft Bergbau, Energie und
-        Wasserwirtschaft.
-
-
-
-
-
-8.  Wärmeschutzverordnung vom 24. Februar 1982 (BGBl. I S. 209)
-
-    mit folgenden Maßgaben:
-
-    a)  In § 13 Abs. 2 Satz 1 tritt an die Stelle der Jahreszahl "1984" die
-        Jahreszahl "1991".
-
-
-    b)  § 13 Abs. 2 Satz 2 findet keine Anwendung.
-
-
-    c)  In § 13 Abs. 3 und § 16 Abs. 1 tritt an die Stelle der Jahreszahl
-        "1984" die Jahreszahl "1991".
-
-
-    d)  Für Gebäude oder bauliche Änderungen, für die bis zum 31. Dezember
-        1990 der Bauantrag gestellt oder die Bauanzeige erstattet worden ist,
-        kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den
-        bisherigen Regeln verfahren werden.
-
-
-
-
-
-9.  (nicht mehr anzuwenden)
+2.  bis 9. (nicht mehr anzuwenden)
 
 
 10. Verordnung über Heizkostenabrechnung in der Fassung der Bekanntmachung
@@ -10354,16 +9668,7 @@ Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  Die Verordnung tritt zum 1. Januar 1991 in Kraft. Bis zum 31. Dezember
-        1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den
-        bisherigen Regeln verfahren werden.
-
-
-    b)  Räume, die vor dem 1. Januar 1991 bezugsfertig geworden sind und in
-        denen die nach der Verordnung erforderliche Ausstattung zur
-        Verbrauchserfassung noch nicht vorhanden ist, sind bis spätestens zum
-        31\. Dezember 1995 auszustatten. Der Gebäudeeigentümer ist berechtigt,
-        die Ausstattung bereits vor dem 31. Dezember 1995 anzubringen.
+    a)  und b) (nicht mehr anzuwenden)
 
 
     c)  Soweit und solange die nach Landesrecht zuständigen Behörden des in
@@ -10375,179 +9680,20 @@ Maßgaben in Kraft:
         Bestätigung im Sinne von § 5 Abs. 1 Satz 2 erteilt hat.
 
 
-    d)  Als Heizwerte der verbrauchten Brennstoffe (Hu) nach § 9 Abs. 2 Ziff.
-        3 können auch verwendet werden:
-
-
-
-
-
-
-
-*    *   Braunkohlenbrikett
-
-    *   5,5 kWh/kg
-
-
-*    *   Braunkohlenhochtemperaturkoks
-
-    *   8,0 kWh/kg
-
-
-
-
-*
-    e)  Die Vorschriften dieser Verordnung über die Kostenverteilung gelten
-        erstmalig für den Abrechnungszeitraum, der nach dem Anbringen der
-        Ausstattung beginnt.
+    d)  und e) (nicht mehr anzuwenden)
 
 
     f)  § 11 Abs. 1 Nr. 1 Buchstabe b) ist mit der Maßgabe anzuwenden, daß an
         die Stelle des Datums "1. Juli 1981" das Datum "1. Januar 1991" tritt.
 
 
-    g)  § 12 Abs. 2 ist mit der Maßgabe anzuwenden, daß an die Stelle der
-        Daten "1. Januar 1987" und "1. Juli 1981" jeweils das Datum "1. Januar
-        1991" tritt.
+    g)  (nicht mehr anzuwenden)
 
 
 
 
 
-11. Energiewirtschaftsgesetz in der im Bundesgesetzblatt III,
-    Gliederungsnummer 752-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Gesetz vom 19. Dezember 1977 (BGBl. I S. 2750)
-
-    mit folgender Maßgabe:
-
-    Für das Verfahren nach § 11 Abs. 2 gelten bis zum Inkrafttreten von
-    Enteignungsgesetzen in dem in Artikel 3 des Vertrages genannten Gebiet
-    die Enteignungsvorschriften des Baugesetzbuches vom 8. Dezember 1986
-    (BGBl. I S. 2191) in der Fassung der Bekanntmachung vom 8. Dezember
-    1986 (BGBl I S. 2253), geändert durch Gesetz vom 25. Juli 1988 (BGBl.
-    I S. 2093), entsprechend.
-
-
-12. Bundestarifordnung Elektrizität vom 18. Dezember 1989 (BGBl. I S.
-    2255)
-
-    mit folgender Maßgabe:
-
-    Die Preise sind der Höhe nach möglichst rasch den Grundsätzen der §§ 1
-    und 12 anzupassen. Den übrigen Anforderungen der Verordnung müssen die
-    Tarife spätestens am 30. Juni 1992 entsprechen.
-
-
-13. Bundestarifordnung Gas in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 721-4, veröffentlichten bereinigten Fassung,
-    geändert durch § 35 der Verordnung vom 21. Juni 1979 (BGBl. I S. 676)
-
-    mit folgender Maßgabe:
-
-    Die Tarife müssen den Anforderungen der Verordnung spätestens am 30.
-    Juni 1992 entsprechen.
-
-
-14. Verordnung über Allgemeine Bedingungen für die Elektrizitätsversorgung
-    von Tarifkunden vom 21. Juni 1979 (BGBl. I S. 684)
-
-    mit folgenden Maßgaben:
-
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Elektrizitätsversorgungsunternehmen von
-        der Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992
-        befreit.
-
-
-    b)  Die Bedingungen und Auflagen auf Grund der §§ 16, 18 und 20 der
-        Energieverordnung der Deutschen Demokratischen Republik (EnVO) vom 1.
-        Juni 1988 (GBl. I Nr. 10 S. 89), zuletzt geändert durch die Verordnung
-        vom 25. Juli 1990 zur Änderung der Energieverordnung (GBl. I Nr. 46 S.
-        812), sowie der dazu ergangenen Durchführungsbestimmungen können bis
-        zum 30. Juni 1992 beibehalten werden, soweit dies zur Sicherstellung
-        der Versorgung erforderlich ist; Veränderungen sind dem Kunden
-        schriftlich mitzuteilen. Abweichend von § 5 ist das
-        Elektrizitätsversorgungsunternehmen berechtigt, die Verwendung von
-        beweglichen Geräten zur Heizung und Klimatisierung, deren
-        Gesamtanschlußwert zwei Kilowatt übersteigt, durch Mitteilung an die
-        betroffenen Kunden oder durch öffentliche Bekanntmachung für bestimmte
-        Zeiten zu untersagen oder in bezug auf ihre Verwendung Auflagen zu
-        machen, falls es dies aus besonderen Gründen für erforderlich hält, um
-        der konkreten Gefahr einer Überbeanspruchung des Niederspannungsnetzes
-        wegen gleichzeitiger Benutzung solcher Geräte durch eine Vielzahl von
-        Kunden entgegenzuwirken.
-
-
-    c)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
-        Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß, den
-        er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange
-        er das Eigentum nicht auf das Elektrizitätsversorgungsunternehmen
-        überträgt.
-
-
-    d)  Abweichend von § 22 Abs. 3 ist bis zum 31. Mai 1991 ein
-        Leistungsfaktor zwischen cos phi = 0,95 kapazitiv und 0,85 induktiv
-        zulässig.
-
-
-
-
-
-15. Verordnung über Allgemeine Bedingungen für die Gasversorgung von
-    Tarifkunden vom 21. Juni 1979 (BGBl. I S. 676)
-
-    mit folgenden Maßgaben:
-
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Gasversorgungsunternehmen von der
-        Verpflichtung nach § 2 Abs. 2 Satz 1 bis zum 30. Juni 1992 befreit.
-
-
-    b)  Die Bedingungen und Auflagen auf Grund der §§ 16, 18 und 20 der
-        Energieverordnung der Deutschen Demokratischen Republik (EnVO) vom 1.
-        Juni 1988 (GBl. I Nr. 10 S. 89), zuletzt geändert durch die Verordnung
-        vom 25. Juli 1990 zur Änderung der Energieverordnung (GBl. I Nr. 46 S.
-        812), sowie der dazu ergangenen Durchführungsbestimmungen können bis
-        zum 30. Juni 1992 beibehalten werden, soweit dies zur Sicherstellung
-        der Versorgung erforderlich ist; Veränderungen sind dem Kunden
-        schriftlich mitzuteilen.
-
-
-    c)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
-        Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß, den
-        er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange
-        er das Eigentum nicht auf das Gasversorgungsunternehmen überträgt.
-
-
-    d)  Die §§ 18 bis 21 finden keine Anwendung, soweit bei Kunden in
-        Wohnungen mit Fernwärme und zentraler Warmwasserversorgung am Tage des
-        Wirksamwerdens des Beitritts keine Meßeinrichtungen für die
-        verbrauchte Gasmenge vorhanden sind. Meßeinrichtungen sind
-        nachträglich einzubauen, soweit dies unter Berücksichtigung des Ziels
-        der rationellen und sparsamen Gasverwendung wirtschaftlich vertretbar
-        ist.
-
-
-
-
-
-16. Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser
-    vom 20. Juni 1980 (BGBl. I S. 750, 1067)
-
-    mit folgenden Maßgaben:
-
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Wasserversorgungsunternehmen von der
-        Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992 befreit.
-
-
-    b)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
-        Beitritts bestehende Eigentum eines Kunden an einem Hausanschluß, den
-        er auf eigene Kosten errichtet oder erweitert hat, bestehen, solange
-        er das Eigentum nicht auf das Wasserversorgungsunternehmen überträgt.
-
-
-
+11. bis 16. (nicht mehr anzuwenden)
 
 
 17. Verordnung über Allgemeine Bedingungen für die Versorgung mit
@@ -10556,9 +9702,7 @@ Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  Für am Tage des Wirksamwerdens des Beitritts bestehende
-        Versorgungsverträge sind die Fernwärmeversorgungsunternehmen von der
-        Verpflichtung nach § 2 Abs. 1 Satz 2 bis zum 30. Juni 1992 befreit.
+    a)  (nicht mehr anzuwenden)
 
 
     b)  Abweichend von § 10 Abs. 4 bleibt das am Tage des Wirksamwerdens des
@@ -10568,98 +9712,28 @@ Maßgaben in Kraft:
         überträgt.
 
 
-    c)  Die §§ 18 bis 21 finden keine Anwendung, so weit bei Kunden am Tage
-        des Wirksamwerdens des Beitritts keine Meßeinrichtungen für die
-        verbrauchte Wärmemenge vorhanden sind. Meßeinrichtungen sind
-        nachträglich einzubauen, es sei denn, daß dies auch unter
-        Berücksichtigung des Ziels der rationellen und sparsamen
-        Wärmeverwendung wirtschaftlich nicht vertretbar ist.
-
-
-    d)  Für die am Tage des Wirksamwerdens des Beitritts bestehenden Verträge
-        finden die §§ 45 und 47 der Energieverordnung der Deutschen
-        Demokratischen Republik (EnVO) vom 1. Juni 1988 (GBl. I Nr. 10 S. 89),
-        zuletzt geändert durch die Verordnung vom 25. Juli 1990 zur Änderung
-        der Energieverordnung (GBl. I Nr. 46 S. 812), sowie der dazu
-        ergangenen Durchführungsbestimmungen bis zum 30. Juni 1992 weiter
-        Anwendung, soweit nicht durch Vertrag abweichende Regelungen
-        vereinbart werden, bei denen die Vorschriften dieser Verordnung
-        einzuhalten sind.
+    c)  und d) (nicht mehr anzuwenden)
 
 
 
 
 
-18. Erdölbevorratungsgesetz in der Fassung der Bekanntmachung vom 8.
-    Dezember 1987 (BGBl. I S. 2510)
-
-    mit folgenden Maßgaben:
-
-    a)  Der Erdölbevorratungsverband hat seine Bestände innerhalb von 18
-        Monaten nach Überleitung an die erhöhte Vorratspflicht anzupassen.
-
-
-    b)  Die Vorratspflicht der Hersteller nach den §§ 25 bis 28 ist innerhalb
-        von drei Jahren nach dem Tage des Wirksamwerdens des Beitritts zu
-        erfüllen. Soweit erforderlich, können darüber hinaus
-        Einzelfallausnahmen nach § 28 Abs. 2 eingeräumt werden.
+18. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel V
+Sachgebiet E - Recht der gewerblichen Wirtschaft
 
+### Anlage I Kap V E III Abschnitt III
 
+(Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel V
+Sachgebiet F - Außenwirtschaftsrecht
 
-### Anlage I Kap V E III Anlage I Kapitel V Sachgebiet E - Recht der gewerblichen Wirtschaft Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Textilkennzeichnungsgesetz in der Fassung der Bekanntmachung vom 14.
-    August 1986 (BGBl. I S. 1285)
-
-    mit folgender Maßgabe:
-
-    Textilerzeugnisse, die nicht nach den Vorschriften dieses Gesetzes
-    gekennzeichnet sind, dürfen noch bis zum 31. Dezember 1991
-
-    a)  in dem in Artikel 3 des Vertrages genannten Gebiet in den Verkehr
-        gebracht oder zur Abgabe an letzte Verbraucher feilgehalten,
-
-
-    b)  eingeführt (§ 4 Abs. 2 Nr. 4 des Außenwirtschaftsgesetzes) oder sonst
-        in das in Artikel 3 des Vertrages genannte Gebiet verbracht werden.
-
-
-
-
-
-2.  Kristallglaskennzeichnungsgesetz vom 25. Juni 1971 (BGBl. I S. 857),
-    zuletzt geändert durch das Gesetz vom 29. August 1975 (BGBl. I S.
-    2307),
-
-    mit folgender Maßgabe:
-
-    Erzeugnisse aus Kristallglas oder Bleikristall, die nicht nach den
-    Vorschriften dieses Gesetzes gekennzeichnet sind, dürfen noch bis zum
-    31\. Dezember 1991
-
-    a)  in dem in Artikel 3 des Vertrages genannten Gebiet in den Verkehr
-        gebracht oder zur Abgabe an letzte Verbraucher feilgehalten,
-
-
-    b)  eingeführt (§ 4 Abs. 2 Nr. 4 des Außenwirtschaftsgesetzes) oder sonst
-        in das in Artikel 3 des Vertrages genannte Gebiet verbracht werden.
-
-
-
-
-
-
-
-
-### Anlage I Kap V F II Anlage I Kapitel V Sachgebiet F - Außenwirtschaftsrecht Abschnitt II
+### Anlage I Kap V F II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -10703,8 +9777,9 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel VI
 
-### Anlage I Kap VI Anlage I Kapitel VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+### Anlage I Kap VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1010 - 1018)
 
@@ -10726,8 +9801,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap VI F III) - Ausgegeben
 
 
 
+Anlage I Kapitel VI
+Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen
 
-### Anlage I Kap VI A II Anlage I Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen Abschnitt II
+### Anlage I Kap VI A II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:
 
@@ -10736,343 +9813,17 @@ Bundesrecht wird wie folgt aufgehoben:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen
 
-### Anlage I Kap VI A III Anlage I Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung, Veterinärwesen Abschnitt III
+### Anlage I Kap VI A III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 17 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VI
+Sachgebiet B - Agrarpolitik
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  Saatgutverkehrsgesetz vom 20. August 1985 (BGBl. I S. 1633), geändert
-    durch Artikel 14 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221),
-
-    mit folgenden Maßgaben:
-
-    a)  Überleitung von Sortenzulassungen
-
-        (1) Die Sorten, die am Tag des Wirksamwerdens des Beitritts in dem in
-        Artikel 3 des Vertrages genannten Gebiet nach der
-        Sortenzulassungsanordnung vom 24. Juli 1973 (GBl. I Nr. 37 S. 394)
-        zugelassen sind, werden in die Sortenliste nach § 47 des
-        Saatgutverkehrsgesetzes eingetragen, wenn sie die in § 30 des
-        Saatgutverkehrsgesetzes genannten Voraussetzungen erfüllen. § 47 Abs.
-        3 Satz 2 des Saatgutverkehrsgesetzes ist anzuwenden.
-
-        (2) Ist eine Sorte nach dem Saatgutverkehrsgesetz für einen anderen
-        Züchter als nach der Sortenzulassungsanordnung zugelassen worden, so
-        ist als Züchter derjenige einzutragen, der die Voraussetzungen des §
-        42 Abs. 2 des Saatgutverkehrsgesetzes erfüllt. Der andere bisher
-        eingetragene Züchter kann, wenn die Sorte nicht nach dem
-        Sortenschutzgesetz geschützt ist, nach § 46 des
-        Saatgutverkehrsgesetzes als weiterer Züchter eingetragen werden.
-
-        (3) Stimmen für eine nach dem Saatgutverkehrsgesetz zugelassene und
-        für eine andere, nach der Sortenzulassungsanordnung zugelassene Sorte
-        die Sortenbezeichnungen überein, so ist hinsichtlich der Sorte, die
-        später zugelassen worden ist, § 51 des Saatgutverkehrsgesetzes
-        anzuwenden. Diese Vorschrift ist auch auf Sortenbezeichnungen für
-        Sorten anzuwenden, die nach der Sortenzulassungsanordnung zugelassen
-        worden sind, wenn ein Ausschließungsgrund nach § 35 Abs. 2 oder 3 des
-        Saatgutverkehrsgesetzes vorliegt.
-
-        (4) Ist eine Sorte nach der Sortenzulassungsanordnung für einen
-        anderen Berechtigten als eine natürliche oder juristische Person oder
-        Personengesellschaft zugelassen worden, so ist innerhalb von drei
-        Monaten nach dem Tag des Wirksamwerdens des Beitritts oder innerhalb
-        einer vom Bundessortenamt etwa gesetzten Nachfrist dem Bundessortenamt
-        mitzuteilen, welcher Berechtigte nach § 48 des Saatgutverkehrsgesetzes
-        die Erhaltungszüchtung übernommen hat und als Züchter eingetragen
-        werden soll; bei Versäumung der Frist wird die Sortenzulassung
-        widerrufen. Eine Sortenzulassung wird nicht allein deshalb widerrufen,
-        weil der eingetragene Berechtigte weder Angehöriger eines der in § 42
-        Abs. 3 des Saatgutverkehrsgesetzes bezeichneten Staaten ist noch in
-        einem solchen Staat seinen Wohnsitz oder Sitz hat.
-
-        (5) Soweit für eine nach der Sortenzulassungsanordnung zugelassene
-        Sorte eine natürliche Person als Verfahrensvertreter nach § 42 Abs. 6
-        des Saatgutverkehrsgesetzes zu bestellen, aber nicht bestellt ist, ist
-        er innerhalb von drei Monaten nach dem Tag des Wirksamwerdens des
-        Beitritts oder innerhalb einer vom Bundessortenamt etwa gesetzten
-        Nachfrist zu bestellen; bei Versäumung der Frist wird die
-        Sortenzulassung widerrufen.
-
-
-    b)  Überleitung von Anträgen auf Sortenzulassung
-
-        (1) Anträge auf Sortenzulassung, die bis zum Tag des Wirksamwerdens
-        des Beitritts nach der Sortenzulassungsanordnung gestellt worden sind,
-        gelten als Anträge im Sinne des § 42 des Saatgutverkehrsgesetzes. Der
-        Tag des Eingangs bei der Zentralstelle für Sortenwesen gilt als
-        Antragstag. Die weitere Behandlung des Antrags richtet sich nach den
-        Vorschriften des Saatgutverkehrsgesetzes. Buchstabe a Abs. 5 Satz 1
-        gilt für Anträge entsprechend; bei Versäumung der Frist wird der
-        Antrag zurückgewiesen.
-
-        (2) Das Bundessortenamt macht die Anträge nach Absatz 1 sowie die
-        dafür angegebenen Sortenbezeichnungen bekannt.
-
-
-    c)  Zuständige Stelle
-
-        (1) Zuständige Stelle für die Durchführung der nach dem
-        Saatgutverkehrsgesetz dem Bundessortenamt obliegenden Aufgaben
-        einschließlich der in dieser Nummer aufgeführten Überleitungsmaßnahmen
-        ist das Bundessortenamt.
-
-        (2) Bis zur Änderung der Verwaltungsorganisation treten an die Stelle
-        der nach Landesrecht zuständigen Behörden die
-        Bezirksverwaltungsbehörden und für die Anerkennung von Saatgut, das
-        zur Ausfuhr bestimmt ist, das Amt für Standardisierung, Meßwesen und
-        Warenprüfung Fachgebiet Saat- und Pflanzgut.
-
-
-    d)  Gebühren
-
-        Gebühren, die im Jahr des Wirksamwerdens des Beitritts für die auf
-        Grund des § 54 des Saatgutverkehrsgesetzes geregelten Tatbestände
-        infolge eines Antrags entstehen, der vor dem Tag des Wirksamwerdens
-        des Beitritts gestellt worden ist, werden nach Vorschriften erhoben,
-        die dort am Tage vor dem Wirksamwerden des Beitritts gegolten haben.
-
-
-
-
-
-5.  Sortenschutzgesetz vom 11. Dezember 1985 (BGBl. I S. 2170), geändert
-    durch Artikel 7 des Gesetzes vom 7. März 1990 (BGBl. I S. 422),
-
-    mit folgenden Maßgaben:
-
-    a)  Überleitung der Sortenschutzrechte
-
-        (1) Die nach dem Sortenschutzgesetz und die nach der
-        Sortenschutzverordnung vom 22. März 1972 (GBl. II Nr. 18 S. 213)
-        erteilten und am Tag des Wirksamwerdens des Beitritts noch bestehenden
-        Sortenschutzrechte haben im gesamten Geltungsbereich des
-        Sortenschutzgesetzes Wirkung.
-
-        (2) Die Dauer des Sortenschutzes bestimmt sich nach § 13 des
-        Sortenschutzgesetzes.
-
-        (3) Ist ein Sortenschutz für eine Sorte sowohl nach dem
-        Sortenschutzgesetz als auch nach der Sortenschutzverordnung erteilt
-        worden, so ist die Dauer des Sortenschutzes vom Tage der ersten
-        Erteilung an zu rechnen.
-
-        (4) Ist der Sortenschutz für eine Sorte nach dem Sortenschutzgesetz
-        einer anderen Person erteilt worden als nach der
-        Sortenschutzverordnung, so gilt als Sortenschutzinhaber der
-        Ursprungszüchter oder Entdecker der Sorte oder sein erster
-        Rechtsnachfolger. Der andere bisherige Sortenschutzinhaber hat für den
-        Bereich, für den ihm bisher das Recht aus dem Sortenschutz zugestanden
-        hat, gegenüber dem verbleibenden Sortenschutzinhaber einen Anspruch
-        auf Erteilung eines ausschließlichen Nutzungsrechts. Solange dem
-        Bundessortenamt nicht nachgewiesen ist, wem der Sortenschutz künftig
-        zusteht, steht er den bisherigen Sortenschutzinhabern gemeinschaftlich
-        zu.
-
-        (5) Die nach der Sortenschutzverordnung erteilten und fortbestehenden
-        Sortenschutzrechte werden in die Sortenschutzrolle nach § 28 des
-        Sortenschutzgesetzes eingetragen; § 28 Abs. 2 Satz 2 des
-        Sortenschutzgesetzes ist anzuwenden.
-
-        (6) Stimmen für eine nach dem Sortenschutzgesetz geschützte und für
-        eine andere, nach der Sortenschutzverordnung geschützte Sorte die
-        Sortenbezeichnungen überein, so ist hinsichtlich der Sorte, für die
-        der Sortenschutz später erteilt worden ist, § 30 des
-        Sortenschutzgesetzes anzuwenden. Diese Vorschrift ist auch auf
-        Sortenbezeichnungen für Sorten anzuwenden, für die Sortenschutz nach
-        der Sortenschutzverordnung erteilt worden ist, wenn ein
-        Ausschließungsgrund nach § 7 Abs. 2 oder 3 des Sortenschutzgesetzes
-        vorliegt.
-
-        (7) Ein Sortenschutz, der nach der Sortenschutzverordnung einem
-        anderen Inhaber als einer natürlichen oder juristischen Person oder
-        einer Personenhandelsgesellschaft erteilt worden ist, ist innerhalb
-        von drei Monaten nach dem Tag des Wirksamwerdens des Beitritts oder
-        innerhalb einer vom Bundessortenamt etwa gesetzten Nachfrist auf einen
-        derartigen Berechtigten zu übertragen; bei Versäumung der Frist wird
-        er widerrufen. Ein Sortenschutz wird nicht allein deshalb widerrufen,
-        weil er einem Inhaber erteilt worden ist, der nicht Angehöriger eines
-        der in § 15 des Sortenschutzgesetzes bezeichneten Staaten ist oder
-        nicht in einem solchen Staat seinen Wohnsitz oder Sitz hat.
-
-        (8) Soweit für eine nach der Sortenschutzverordnung geschützte Sorte
-        eine natürliche Person als Verfahrensvertreter nach § 15 Abs. 2 des
-        Sortenschutzgesetzes zu bestellen, aber nicht bestellt ist, ist er
-        innerhalb von drei Monaten nach dem Tag des Wirksamwerdens des
-        Beitritts oder innerhalb einer vom Bundessortenamt etwa gesetzten
-        Nachfrist zu bestellen; bei Versäumung der Frist wird der Sortenschutz
-        widerrufen.
-
-
-    b)  Umwandlung von Wirtschaftssortenschutz
-
-        (1) Soweit für Sorten nach der Sortenschutzverordnung ein
-        Wirtschaftssortenschutz erteilt worden ist und am Tag des
-        Wirksamwerdens des Beitritts noch besteht, gilt dieser als
-        Sortenschutz nach dem Sortenschutzgesetz.
-
-        (2) Innerhalb von drei Monaten nach dem Tag des Wirksamwerdens des
-        Beitritts hat der bisherige Inhaber des Wirtschaftssortenschutzes dem
-        Bundessortenamt mitzuteilen, welche Person in Anwendung des § 8 des
-        Sortenschutzgesetzes als Sortenschutzinhaber in die Sortenschutzrolle
-        eingetragen werden soll. Geht diese Mitteilung nicht innerhalb der
-        genannten Frist oder innerhalb einer vom Bundessortenamt etwa
-        gesetzten Nachfrist dort ein, so kann der Sortenschutz widerrufen
-        werden.
-
-        (3) Soweit am Tag des Wirksamwerdens des Beitritts Dritte auf Grund
-        der für den Wirtschaftssortenschutz maßgebenden Bestimmungen
-        zulässigerweise vegetatives Vermehrungsmaterial verwendet haben und
-        den Aufwuchs zu wirtschaftlichen Zwecken nutzen, ohne hierfür zur
-        Zahlung einer Vergütung an den Inhaber des Wirtschaftssortenschutzes
-        verpflichtet worden zu sein, können sie diese Benutzung bis zum 30.
-        Juni 1993 fortsetzen, ohne zur Zahlung einer Vergütung an den
-        Sortenschutzinhaber verpflichtet zu sein.
-
-
-    c)  Überleitung von Anträgen auf Erteilung des Sortenschutzes
-
-        (1) Anträge auf Erteilung des Sortenschutzes, die bis zum Tag des
-        Wirksamwerdens des Beitritts nach der Sortenschutzverordnung gestellt
-        worden sind, gelten als Anträge auf Erteilung des Sortenschutzes nach
-        dem Sortenschutzgesetz. Der Tag des Eingangs bei der Zentralstelle für
-        Sortenwesen gilt als Antragstag. Die weitere Behandlung des Antrags
-        richtet sich nach den Vorschriften des Sortenschutzgesetzes, soweit
-        nachfolgend nichts anderes bestimmt ist. Buchstabe a Abs. 7 Satz 1
-        gilt entsprechend; bei Versäumung der Frist wird der Antrag
-        zurückgewiesen.
-
-        (2) Für den Antragsteller eines als Wirtschaftssortenschutz
-        angemeldeten Sortenschutzes gilt Buchstabe b Abs. 2 entsprechend; bei
-        Versäumung der Frist kann der Antrag zurückgewiesen werden.
-
-        (3) Das Bundessortenamt macht die Anträge nach Absatz 1 sowie die
-        dafür angegebenen Sortenbezeichnungen bekannt.
-
-
-    d)  Überleitung von Rechtsbehelfen
-
-        Beschwerdeverfahren nach § 16 der Sortenschutzverordnung, die am Tag
-        des Wirksamwerdens des Beitritts anhängig sind, werden als
-        Widersprüche im Sinne des Sortenschutzgesetzes weiterbehandelt.
-
-
-    e)  Übergangsvorschriften
-
-        (1) Abweichend von § 6 Abs. 1 Nr. 1 des Sortenschutzgesetzes ist eine
-        Sorte auch dann neu, wenn
-
-        1.  für sie bis zum Tag des Wirksamwerdens des Beitritts die Erteilung des
-            Sortenschutzes bei der Zentralstelle für Sortenwesen beantragt worden
-            ist und Vermehrungsmaterial oder Erntegut der Sorte mit Zustimmung des
-            Berechtigten oder seines Rechtsvorgängers innerhalb von drei Jahren
-            vor dem Antragstag auf dem Gebiet der Deutschen Demokratischen
-            Republik oder im Geltungsbereich des Sortenschutzgesetzes gewerbsmäßig
-            in den Verkehr gebracht worden ist oder
-
-
-        2.  sie in dem in Artikel 3 des Vertrages genannten Gebiet gezüchtet
-            worden ist und in diesem Gebiet Vermehrungsmaterial oder Erntegut der
-            Sorte mit Zustimmung des Berechtigten oder seines Rechtsvorgängers
-            innerhalb von weniger als drei Jahren vor dem Tag des Wirksamwerdens
-            des Beitritts gewerbsmäßig in den Verkehr gebracht worden ist und der
-            Antragstag innerhalb von drei Jahren nach dem erstmaligen
-            Inverkehrbringen liegt.
-
-
-        (2) (nicht mehr anzuwenden)
-
-
-
-
-
-    f)  Rechtsverletzungen
-
-        (1) (nicht mehr anzuwenden)
-
-
-
-
-        (2) § 37 Abs. 3 des Sortenschutzgesetzes ist nicht auf Sorten
-        anzuwenden, für die am Tag des Wirksamwerdens des Beitritts
-        Sortenschutz bei der Zentralstelle für Sortenwesen beantragt war.
-
-        (3) Vorschriften anderer Gesetze, die nach den Vorschriften des
-        Abschnitts 5 des Sortenschutzgesetzes im Falle von Rechtsverletzungen
-        anzuwenden sind, sind auch dann heranzuziehen, wenn die anderen
-        Vorschriften als solche für das in Artikel 3 des Vertrages genannte
-        Gebiet noch nicht allgemein in Kraft getreten sind.
-
-
-    g)  Zuständige Stelle
-
-        Zuständige Stelle für die Durchführung der in § 16 Abs. 2 des
-        Sortenschutzgesetzes genannten Aufgaben einschließlich der in dieser
-        Nummer aufgeführten Überleitungsmaßnahmen ist das Bundessortenamt.
-
-
-    h)  Gebühren
-
-        Gebühren, die im Jahr des Wirksamwerdens des Beitritts für Sorten
-        entstehen, für die nach der Sortenschutzverordnung der Sortenschutz
-        erteilt oder beantragt worden ist, werden nach Vorschriften erhoben,
-        die in dem in Artikel 3 des Vertrages genannten Gebiet am Tag vor dem
-        Wirksamwerden des Beitritts gegolten haben.
-
-
-
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  (nicht mehr anzuwenden)
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. (nicht mehr anzuwenden)
-
-
-12. (nicht mehr anzuwenden)
-
-
-13. (nicht mehr anzuwenden)
-
-
-14. (nicht mehr anzuwenden)
-
-
-15. (nicht mehr anzuwenden)
-
-
-16. (nicht mehr anzuwenden)
-
-
-17. (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VI B I Anlage I Kapitel VI Sachgebiet B - Agrarpolitik Abschnitt I
+### Anlage I Kap VI B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -11092,8 +9843,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet B - Agrarpolitik
 
-### Anlage I Kap VI B II Anlage I Kapitel VI Sachgebiet B - Agrarpolitik Abschnitt II
+### Anlage I Kap VI B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -11109,8 +9862,11 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet C - Marktordnung für Landwirtschaft und
+Ernährungswirtschaft
 
-### Anlage I Kap VI C I Anlage I Kapitel VI Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft Abschnitt I
+### Anlage I Kap VI C I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -11122,31 +9878,18 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet C - Marktordnung für Landwirtschaft und
+Ernährungswirtschaft
 
-### Anlage I Kap VI C III Anlage I Kapitel VI Sachgebiet C - Marktordnung für Landwirtschaft und Ernährungswirtschaft Abschnitt III
+### Anlage I Kap VI C III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 5 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VI
+Sachgebiet D - Agrarsozialrecht
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VI D I Anlage I Kapitel VI Sachgebiet D - Agrarsozialrecht Abschnitt I
+### Anlage I Kap VI D I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -11163,8 +9906,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet E - Siedlungswesen
 
-### Anlage I Kap VI E III Anlage I Kapitel VI Sachgebiet E - Siedlungswesen Abschnitt III
+### Anlage I Kap VI E III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -11190,8 +9935,10 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei
 
-### Anlage I Kap VI F II Anlage I Kapitel VI Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei Abschnitt II
+### Anlage I Kap VI F II Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -11297,32 +10044,24 @@ Bundesrecht wird wie folgt geändert und ergänzt:
 
 
 
+Anlage I Kapitel VI
+Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei
 
-### Anlage I Kap VI F III Anlage I Kapitel VI Sachgebiet F - Forstwirtschaft, Jagdwesen und Fischerei Abschnitt III
+### Anlage I Kap VI F III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VII
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  ( nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VII Anlage I Kapitel VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+### Anlage I Kap VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1019)
 
 (Kein Inhalt)
 
+Anlage I Kapitel VIII
 
-### Anlage I Kap VIII Anlage I Kapitel VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+### Anlage I Kap VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
@@ -11345,8 +10084,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap VIII K III) -
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet A - Arbeitsrechtsordnung
 
-### Anlage I Kap VIII A I Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt I
+### Anlage I Kap VIII A I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -11355,8 +10096,10 @@ Bundesgesetzblatt Teil III, Gliederungsnummer 800-1, veröffentlichten
 bereinigten Fassung, geändert durch Gesetz vom 26. April 1985 (BGBl. I
 S. 710)
 
+Anlage I Kapitel VIII
+Sachgebiet A - Arbeitsrechtsordnung
 
-### Anlage I Kap VIII A II Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt II
+### Anlage I Kap VIII A II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben:
 Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer
@@ -11364,8 +10107,10 @@ Seemannsgesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer
 Artikel 53 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477),
 § 18 wird aufgehoben.
 
+Anlage I Kapitel VIII
+Sachgebiet A - Arbeitsrechtsordnung
 
-### Anlage I Kap VIII A III Anlage I Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt III
+### Anlage I Kap VIII A III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -11531,8 +10276,10 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet B - Technischer Arbeitsschutz
 
-### Anlage I Kap VIII B II Anlage I Kapitel VIII Sachgebiet B - Technischer Arbeitsschutz Abschnitt II
+### Anlage I Kap VIII B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -11792,73 +10539,15 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet B - Technischer Arbeitsschutz
 
-### Anlage I Kap VIII B III Anlage I Kapitel VIII Sachgebiet B - Technischer Arbeitsschutz Abschnitt III
+### Anlage I Kap VIII B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  (nicht mehr anzuwenden)
-
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  §§ 120a bis f, 139b, g, h, i und m der Gewerbeordnung in der Fassung
-    der Bekanntmachung vom 1. Januar 1987 (BGBl. I S. 425), die zuletzt
-    durch Artikel 18 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221)
-    geändert worden ist,
-
-    mit folgenden Maßgaben:
-
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  In dem in Artikel 3 des Vertrages genannten Gebiet werden bis zur
-        Aufnahme der Aufsichtstätigkeit durch die zuständigen Landesbehörden
-        die Aufsichtsaufgaben nach § 139b durch diejenigen staatlichen Stellen
-        wahrgenommen, die für die Kontrolle der Einhaltung der entsprechenden
-        Arbeitsschutzvorschriften nach dem bis zum Wirksamwerden des Beitritts
-        geltenden Recht zuständig waren. Entsprechendes gilt für die in
-        anderen arbeitsschutzrechtlichen Gesetzen und Verordnungen
-        vorgesehenen Aufsichtsaufgaben der zuständigen Landesbehörden.
-
-
-
-
-
-10. Arbeitsstättenverordnung vom 20. März 1975 (BGBl. I S. 729), zuletzt
-    geändert durch Artikel 2 der Verordnung vom 1. August 1983 (BGBl. I S.
-    1057),
-
-    mit folgender Maßgabe:
-
-    An die Stelle des Zeitpunktes des Inkrafttretens in § 56 tritt der Tag
-    des Wirksamwerdens des Beitritts.
-
-
-11. (nicht mehr anzuwenden)
+1.  bis 11. (nicht mehr anzuwenden)
 
 
 12. Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte
@@ -11894,35 +10583,7 @@ mit folgenden Maßgaben in Kraft:
         auf dem Gebiet der Arbeitssicherheit tätig waren.
 
 
-    d)  Für die Ermittlung der Einsatzzeit der Betriebsärzte sind folgende
-        Mindestwerte zugrunde zu legen:
-
-        aa) 0,25 Stunden/Beschäftigten x Jahr für Betriebe mit geringfügigen
-            Gefährdungen,
-
-
-        bb) 0,6 Stunden/Beschäftigten x Jahr für Betriebe, in denen eine
-            arbeitsmedizinische Betreuung durchzuführen ist, weil besondere
-            Arbeitserschwernisse vorliegen oder besonderen Berufskrankheiten
-            vorzubeugen ist oder besondere arbeitsbedingte Gefährdungen für die
-            Arbeitnehmer oder Dritte vorliegen,
-
-
-        cc) 1,2 Stunden/Beschäftigten x Jahr für Betriebe, in denen diese
-            arbeitsmedizinischen Untersuchungen in jährlichen oder kürzeren
-            Zeitabständen durchzuführen sind.
-
-
-
-
-        Die auf der Grundlage der Mindestwerte ermittelte Einsatzzeit ist zu
-        erhöhen, wenn der Umfang der vom Betriebsarzt durchzuführenden
-        arbeitsmedizinischen Untersuchungen überdurchschnittlich hoch ist oder
-        in Durchsetzung von Rechtsvorschriften zusätzliche Aufgaben im Betrieb
-        zu lösen sind.
-
-
-    e)  (nicht mehr anzuwenden)
+    d)  und e) (nicht mehr anzuwenden)
 
 
     f)  Wird der Arbeitgeber Mitglied eines Unfallversicherungsträgers und hat
@@ -11946,74 +10607,22 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-13. (nicht mehr anzuwenden)
-
-
-14. (nicht mehr anzuwenden)
+13. und 14. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet C - Sozialer Arbeitsschutz
 
-### Anlage I Kap VIII C III Anlage I Kapitel VIII Sachgebiet C - Sozialer Arbeitsschutz Abschnitt III
+### Anlage I Kap VIII C III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 13 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VIII
+Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
-
-2.  Verordnung über Ausnahmen vom Verbot der Beschäftigung von
-    Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
-    in der Fassung vom 31. Juli 1968 (BGBl. I S. 885), geändert durch
-    Artikel 12 Abs. 1 des Gesetzes vom 24. April 1986 (BGBl. I S. 560),
-
-    mit in Nummer 1 genannter Maßgabe.
-
-
-3.  Verordnung über Ausnahmen vom Verbot der Beschäftigung von
-    Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie in der im
-    Bundesgesetzblatt Teil III, Gliederungsnummer 7107-5, veröffentlichten
-    bereinigten Fassung, geändert durch Artikel 12 Abs. 2 des Gesetzes vom
-    24\. April 1986 (BGBl. I S. 560),
-
-    mit in Nummer 1 genannter Maßgabe.
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  (nicht mehr anzuwenden)
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. (nicht mehr anzuwenden)
-
-
-12. (nicht mehr anzuwenden)
-
-
-13. (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VIII D II Anlage I Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts Abschnitt II
+### Anlage I Kap VIII D II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -12044,28 +10653,18 @@ Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
-### Anlage I Kap VIII D III Anlage I Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts Abschnitt III
+### Anlage I Kap VIII D III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VIII
+Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
+Arbeitslosenversicherung
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VIII E I Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt I
+### Anlage I Kap VIII E I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -12084,8 +10683,11 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
+Arbeitslosenversicherung
 
-### Anlage I Kap VIII E II Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt II
+### Anlage I Kap VIII E II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -12937,37 +11539,18 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
+Arbeitslosenversicherung
 
-### Anlage I Kap VIII E III Anlage I Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt III
+### Anlage I Kap VIII E III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel VIII
+Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VIII F I Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt I
+### Anlage I Kap VIII F I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -12990,8 +11573,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
-### Anlage I Kap VIII F II Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt II
+### Anlage I Kap VIII F II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -13445,8 +12030,10 @@ Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des
 Einigungsvertrages genannten Gebiet nach den beim Wirksamwerden des
 Beitritts geltenden Regeln verfahren werden.
 
+Anlage I Kapitel VIII
+Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
-### Anlage I Kap VIII F III Anlage I Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt III
+### Anlage I Kap VIII F III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -13464,215 +12051,21 @@ mit folgenden Maßgaben in Kraft:
         Sozialversicherung bestehen.
 
 
-    b)  Artikel I § 17 Abs. 1 Nr. 3 ist von dem Wirksamwerden des Beitritts an
-        anzuwenden; der Bundesminister für Arbeit und Sozialordnung wird
-        ermächtigt, im Einvernehmen mit dem Bundesminister der Finanzen durch
-        Rechtsverordnung mit Zustimmung des Bundesrates für das Kalenderjahr
-        1991 den Wert der Sachbezüge in dem in Artikel 3 des Vertrages
-        genannten Gebiet nach dem dortigen tatsächlichen Verkehrswert zu
-        bestimmen.
+    b)  bis o) (nicht mehr anzuwenden)
 
 
-    c)  Die Bezugsgröße (Artikel I § 18) beträgt in dem in Artikel 3 des
-        Vertrages genannten Gebiet 1.400 DM monatlich. Der Bundesminister für
-        Arbeit und Sozialordnung wird ermächtigt, durch Rechtsverordnung mit
-        Zustimmung des Bundesrates diesen Betrag unter Berücksichtigung der
-        Entwicklung der Arbeitsentgelte in dem in Artikel 3 des Vertrages
-        genannten Gebiet fortzuschreiben. Bei der Bestimmung der Bezugsgröße
-        in den übrigen Ländern werden die Versicherten in dem in Artikel 3 des
-        Vertrages genannten Gebiet nicht berücksichtigt. Die Sätze 1 bis 3
-        sind mit dem Wirksamwerden des Beitritts anzuwenden.
 
 
-    d)  Artikel I §§ 18a bis 18e ist ab 1. Januar 1992 anzuwenden.
 
+2.  bis 11. (nicht mehr anzuwenden)
 
-    e)  Artikel I §§ 28a bis 28r gilt ab der Übernahme des Beitragseinzugs
-        durch die Krankenkassen. Bis zur Übernahme des Beitragseinzugs durch
-        die Krankenkassen bleiben die Finanzämter weiterhin für den
-        Beitragseinzug und die Weiterleitung zuständig. Sie haben die Rechte
-        und Pflichten der Einzugsstellen. Der Einzug umfaßt den
-        Gesamtsozialversicherungsbeitrag zuzüglich des Beitrags zur
-        Unfallversicherung. Die Krankenkassen haben auch die Beiträge zur
-        Unfallversicherung, einschließlich der Beiträge der Selbständigen,
-        monatlich bis zum Einzug des Beitrags durch die
-        Unfallversicherungsträger einzuziehen und an die Überleitungsanstalt
-        weiterzuleiten.
 
-        Auf Anlage II Kapitel VIII Sachgebiet F Abschnitt III Nr. 2 Buchstabe
-        e und Nr. 9 wird verwiesen.
 
 
-    f)  Artikel I § 28k Abs. 2 findet erst Anwendung, wenn er durch
-        Rechtsverordnung in Kraft gesetzt wird. Der Bundesminister für Arbeit
-        und Sozialordnung wird ermächtigt, durch Rechtsverordnung mit
-        Zustimmung des Bundesrates den Zeitpunkt des Inkrafttretens zu
-        bestimmen.
+Anlage I Kapitel VIII
+Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
-
-    g)  Bei neu errichteten Versicherungsträgern wird die Wahl zur
-        Vertreterversammlung für die laufende Amtsperiode ohne Wahlhandlung
-        durchgeführt. Werden aus einer Gruppe mehrere gültige Vorschlagslisten
-        eingereicht und in ihnen insgesamt mehr Bewerber benannt, als
-        Mitglieder zu wählen sind, beruft die Aufsichtsbehörde die Mitglieder
-        der Vertreterversammlung nach Anhörung der Listenvertreter. Die
-        Aufsichtsbehörde hat die Sitze anteilsmäßig, jedoch unter billiger
-        Berücksichtigung der Minderheiten zu verteilen. Artikel I §§ 48a bis
-        48c findet keine Anwendung.
-
-
-    h)  Bei Versicherungsträgern, deren Zuständigkeit auf das in Artikel 3 des
-        Vertrages genannte Gebiet erstreckt wird, werden die
-        Selbstverwaltungsorgane für die laufende Amtsperiode durch die
-        Hinzuwahl weiterer Organmitglieder entsprechend der Zunahme der Zahl
-        der zur Gruppe der Versicherten gehörenden Personen, jedoch höchstens
-        um die Anzahl der bereits vorhandenen Organmitglieder, ergänzt;
-        Artikel I § 43 Abs. 1 findet keine Anwendung. Die Aufsichtsbehörde
-        bestimmt die Anzahl der weiteren Organmitglieder nach Anhörung des
-        Versicherungsträgers. Für die Wahl der weiteren Mitglieder der
-        Vertreterversammlung gelten § 128 der Wahlordnung für die
-        Sozialversicherung und Buchstabe g) entsprechend. Die weiteren
-        Mitglieder des Vorstandes werden nach Ergänzung der
-        Vertreterversammlung von den hinzugewählten Mitgliedern der
-        Vertreterversammlung gewählt. Das Ergänzungsverfahren für die
-        Vertreterversammlung ist bis zum 31. März 1991 abzuschließen.
-
-
-    i)  Bei den achten allgemeinen Sozialversicherungswahlen brauchen die
-        Voraussetzungen des Artikel I § 48a Abs. 4 Satz 1 bei
-        Arbeitnehmervereinigungen in dem in Artikel 3 des Vertrages genannten
-        Gebiet erst am 31. Juli 1991 vorzuliegen; in Artikel I § 48b Abs. 1
-        tritt in diesen Fällen anstelle des 28. Februar der 31. August.
-
-
-    k)  Artikel I §§ 56, 87 bis 90 und § 94 tritt mit dem Wirksamwerden des
-        Beitritts in Kraft.
-
-
-    l)  Artikel I § 107 Abs. 1 Satz 1 ist mit der Maßgabe anzuwenden, daß in
-        der Zeit bis zum 31. Dezember 1991 die Bundesanstalt für Arbeit nur
-        die Erfüllung der Pflichten nach § 99 prüft.
-
-
-    m)  Artikel I §§ 102 bis 105, § 108, § 110 tritt am 1. Januar 1992 in
-        Kraft.
-
-
-    n)  Artikel II § 18b tritt am 1. Januar 1992 in Kraft.
-
-
-    o)  Soweit in den vorgenannten Buchstaben nichts anderes bestimmt ist,
-        treten die Vorschriften des Sozialgesetzbuches - Gemeinsame
-        Vorschriften für die Sozialversicherung - am 1. Januar 1991 in Kraft.
-
-        Soweit Vorschriften des Sozialgesetzbuches - Gemeinsame Vorschriften
-        für die Sozialversicherung - nicht vor dem 1. Januar 1991 in Kraft
-        treten, kann bis zum 31. Dezember 1990 nach den am Tag des
-        Wirksamwerdens des Beitritts in dem in Artikel 3 des Vertrages
-        genannten Gebiet geltenden Regeln verfahren werden.
-
-
-
-
-
-2.  Sozialversicherungs-Rechnungsverordnung vom 3. August 1981 (BGBl. I S.
-    809),
-
-    mit folgenden Maßgaben:
-
-    a)  Die Verordnung ist von der Überleitungsanstalt nur anzuwenden, soweit
-        es die Aufsichtsbehörde unter Berücksichtigung der technischen
-        Ausstattung bestimmt.
-
-
-    b)  Für neu errichtete Versicherungsträger in dem in Artikel 3 des
-        Vertrages genannten Gebiet können die Aufsichtsbehörden für eine
-        bestimmte Zeit Befreiungen von der Anwendung der Verordnung anordnen.
-
-
-    c)  Die Aufsichtsbehörden haben bei der Anwendung von Buchstaben a) und b)
-        auf einheitliche und vergleichbare Statistikergebnisse zu achten.
-
-
-    d)  Diese Maßgaben gelten auch für allgemeine Verwaltungsvorschriften, die
-        sich auf das Rechnungswesen und die Statistik in der
-        Sozialversicherung beziehen.
-
-
-
-
-
-3.  Verordnung über das Haushaltswesen in der Sozialversicherung vom 21.
-    Dezember 1977 (BGBl. I S. 3147),
-
-    mit folgender Maßgabe:
-
-    Die in Nummer 2 genannte Maßgabe gilt entsprechend.
-
-
-4.  Beitragsüberwachungsverordnung vom 22. Mai 1989 (BGBl. I S. 992),
-
-    mit folgenden Maßgaben:
-
-    a)  Die Verordnung gilt ab der Übernahme des Beitragseinzugs durch die
-        Krankenkassen.
-
-
-    b)  Soweit der Arbeitgeber die in dieser Verordnung festgelegten Pflichten
-        nicht erfüllen kann, kann ihm von der Einzugsstelle eine Frist bis
-        spätestens zum 1. Januar 1992 eingeräumt werden.
-
-
-
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  Beitragszahlungsverordnung vom 22. Mai 1989 (BGBl. I S. 990),
-
-    mit folgender Maßgabe:
-
-    Die in Nummer 4 Buchstabe a) genannte Maßgabe gilt entsprechend.
-
-
-9.  Arbeitsentgeltverordnung in der Fassung der Bekanntmachung vom 18.
-    Dezember 1984 (BGBl. I S. 1642), zuletzt geändert durch Artikel 1 der
-    Verordnung vom 12. Dezember 1989 (BGBl. I S. 2177),
-
-    mit folgender Maßgabe:
-
-    Die Verordnung ist ab dem 1. Januar 1991 anzuwenden.
-
-
-10. Zweite Datenübermittlungs-Verordnung vom 29. Mai 1980 (BGBl. I S.
-    616), zuletzt geändert durch Verordnung vom 5. Dezember 1989 (BGBl. I
-    S 2110),
-
-    mit folgender Maßgabe:
-
-    Diese Verordnung ist ab dem 1. Januar 1992 anzuwenden.
-
-
-11. Zweite Datenerfassungs-Verordnung vom 29. Mai 1980 (BGBl. I S. 593),
-    zuletzt geändert durch Verordnung vom 5. Dezember 1989 (BGBl. I S.
-    2117),
-
-    mit folgender Maßgabe:
-
-    Es gilt die in Nummer 10 genannte Maßgabe.
-
-
-
-
-
-### Anlage I Kap VIII G II Anlage I Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt II
+### Anlage I Kap VIII G II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -14497,112 +12890,15 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
-### Anlage I Kap VIII G III Anlage I Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt III
+### Anlage I Kap VIII G III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Zweites Gesetz über die Krankenversicherung der Landwirte - Artikel 8
-    des Gesetzes vom 20. Dezember 1988 - (BGBl. I S. 2477, 2557), geändert
-    durch Artikel 8 des Gesetzes vom 6. Oktober 1989 (BGBl. I S. 1822),
-
-    mit folgenden Maßgaben:
-
-    a)  Abweichend von § 2 Abs. 1 Nr. 1 werden die Maßstäbe zur Berechnung der
-        Existenzgrundlage von der Selbstverwaltung der landwirtschaftlichen
-        Krankenkasse festgelegt. Bis zum Erlaß einer Satzungsregelung gilt die
-        Mindesthöhenfestsetzung der landwirtschaftlichen Alterskasse
-        Oldenburg-Bremen entsprechend.
-
-
-    b)  In § 2 Abs. 1 Nr. 2 Buchstabe b) wird jede Vorruhestandsgeldzahlung
-        berücksichtigt.
-
-
-    c)  In § 2 Abs. 1 Nr. 5 tritt an Stelle der Frist von 60 Monaten eine
-        Frist von zwölf Monaten.
-
-
-    d)  Die Voraussetzungen der Mitunternehmereigenschaft nach § 2 Abs. 3 Satz
-        2 müssen innerhalb eines Unternehmens erfüllt sein, welches eine nach
-        dem Landwirtschaftsanpassungsgesetz vom
-        20\. Juli 1990                          (GBl. I Nr. 42 S. 642)
-        spätestens seit dem 1. Januar 1992 zulässige Rechtsform innehat. Als
-        Zeit der Selbstbewirtschaftung gilt auch die Zeit einer vorherigen
-        Mitgliedschaft in einem landwirtschaftlichen Unternehmen bis zum
-        Zeitpunkt der vorgeschriebenen Änderungen der Rechtsform.
-
-
-    e)  Der Vorrang der Versicherungspflicht nach § 3 Abs. 2 Nr. 2 besteht
-        auch für die nach § 2 Abs. 1 Nr. 5 versicherten Personen, wenn sie in
-        den letzten fünf Jahren, frühestens berechnet vom 1. Januar 1991 an,
-        zu neun Zehnteln in der landwirtschaftlichen Krankenversicherung
-        versichert waren.
-
-
-    f)  Ergänzend zu § 17 gilt:
-
-        aa) Für das in Artikel 3 des Vertrages genannte Gebiet wird zum 1. Januar
-            1991 eine gemeinsame landwirtschaftliche Krankenkasse mit Sitz in
-            Potsdam errichtet.
-
-
-        bb) Bis zu dem Zeitpunkt, zu dem die nach Doppelbuchstabe aa) errichtete
-            landwirtschaftliche Krankenkasse ihre Tätigkeit aufnimmt, nimmt deren
-            Aufgaben die Hannoversche Landwirtschaftliche Krankenkasse wahr. Sie
-            erhält hierfür die erforderliche personelle Unterstützung von den
-            anderen landwirtschaftlichen Krankenkassen mit Sitz in dem Gebiet, in
-            dem das Gesetz schon vor dem Beitritt gegolten hat, mit Ausnahme der
-            Krankenkasse für den Gartenbau, und zwar im Verhältnis der
-            Personalstärke dieser Träger. Außerdem sind sie berechtigt, im
-            Einvernehmen mit dem Bundesminister für Arbeit und Sozialordnung für
-            Rechnung der landwirtschaftlichen Krankenkasse Personal anzuwerben und
-            unter Vertrag zu nehmen.
-
-
-        cc) Die Krankenkasse für den Gartenbau erstreckt vom 1. Januar 1991 ihre
-            Zuständigkeit auf das in Artikel 3 des Vertrages genannte Gebiet. Sie
-            hat in ihrem Haushalt die Einnahmen und Ausgaben für die Durchführung
-            der Versicherung in dem beigetretenen Gebiet getrennt auszuweisen. Für
-            die Finanzierung der Ausgaben, die auf das beigetretene Gebiet
-            entfallen, dürfen nur die Einnahmen aus der Durchführung der
-            Versicherung in diesem Gebiet verwendet werden.
-
-
-
-
-
-    g)  § 39 Abs. 1 Satz 1 Nr. 2 und 3, § 45 Abs. 1 Nr. 1 und 2 sowie § 50
-        finden ab dem 1. Januar 1992 Anwendung; die übrigen Vorschriften ab
-        dem 1. Januar 1991.
-
-
-
-
-
-2.  Zulassungsverordnung für Kassenärzte in der im Bundesgesetzblatt Teil
-    III, Gliederungsnummer 8230-25, veröffentlichten bereinigten Fassung,
-    zuletzt geändert durch Artikel 18 des Gesetzes vom 20. Dezember 1988
-    (BGBl. I S. 2477),
-
-    mit folgenden Maßgaben:
-
-    Die §§ 3, 25, 31 Abs. 9 und § 34 finden mit folgenden Maßgaben
-    Anwendung:
-
-    a)  Für Ärzte, die bei Inkrafttreten dieses Gesetzes in dem in Artikel 3
-        des Vertrages genannten Gebiet die Facharztanerkennung besitzen, gilt
-        das Erfordernis des § 3 Abs. 2 Buchstabe b nicht.
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-
+1.  und 2. (nicht mehr anzuwenden)
 
 
 3.  Zulassungsverordnung für Kassenzahnärzte in der im Bundesgesetzblatt
@@ -14620,47 +12916,21 @@ mit folgenden Maßgaben in Kraft:
         sind, gilt das Erfordernis des § 3 Abs. 2 Buchstabe b nicht.
 
 
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
+    b)  und c) (nicht mehr anzuwenden)
 
 
 
 
 
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  Die Gebührenordnung für Ärzte und die Gebührenordnung für Zahnärzte
-    finden entsprechende Anwendung für die Vergütung ärztlicher oder
-    zahnärztlicher Leistungen der in Abschnitt II Nr. 1 § 311 Abs. 2 Satz
-    1 genannten Einrichtungen, soweit nicht durch Bundesgesetz etwas
-    anderes bestimmt ist.
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. Die Nummern 2, 3 und 4 treten am 1. Januar 1991 in Kraft.
+4.  bis 11. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet H - Gesetzliche Rentenversicherung
 
-### Anlage I Kap VIII H I Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt I
+### Anlage I Kap VIII H I Abschnitt I
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1020 - 1070)
 
@@ -14913,8 +13183,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet H - Gesetzliche Rentenversicherung
 
-### Anlage I Kap VIII H II Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt II
+### Anlage I Kap VIII H II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -15366,8 +13638,10 @@ Bundesrecht wird wie folgt ergänzt:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet H - Gesetzliche Rentenversicherung
 
-### Anlage I Kap VIII H III Anlage I Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt III
+### Anlage I Kap VIII H III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -15381,86 +13655,20 @@ mit folgenden Maßgaben in Kraft:
     a)  Artikel 85 Abs. 2 bis 6 ist nicht anzuwenden.
 
 
-    b)  Artikel 1 § 3 Satz 1 Nr. 2, § 5 Abs. 1 Satz 1 Nr. 1 und 2, Satz 2, § 6
-        Abs. 1 Nr. 1, Abs. 2 bis 5, § 8 Abs. 2 Satz 1 Nr. 1 und 2, Satz 2 und
-        3, §§ 146, 149, 166 Nr. 1, § 170 Abs. 1 Nr. 1, §§ 181, 182, 184 bis
-        186 und 192 tritt bereits mit Wirksamwerden des Beitritts in Kraft.
+    b)  und c) (nicht mehr anzuwenden)
 
 
-    c)  Bei Anwendung des Artikels 1 § 166 Nr. 1 sind bis zum 31. Dezember
-        1991 in dem in Artikel 3 des Vertrages genannten Gebiet 70 vom Hundert
-        der für dieses Gebiet maßgebenden Bezugsgröße beitragspflichtige
-        Einnahmen.
+    d)  (nicht mehr anzuwenden)
 
 
-    d)  Die nachfolgenden Vorschriften des Artikels 1 treten am 1. Januar 1991
-        mit folgenden Maßgaben in Kraft:
-
-        § 5 Abs. 3, §§ 9 und 10, 11 Abs. 1 und 2, §§ 12 bis 19, 20 Abs. 1 und
-        2, §§ 21 bis 23, 24 Abs. 1 bis 3, § 25 Abs. 1, 3 und 4, § 26 Abs. 2
-        und 3, § 27 Abs. 1 Satz 1 Nr. 1 bis 3, 5 und 6 Abs. 2, §§ 28 bis 30,
-        31 Abs. 1 Satz 1 Nr. 1, 3 bis 5 und Satz 2, Abs. 2 Satz 1 und Abs. 3,
-        §§ 164, 215, 235 und 301 Abs. 1:
-
-        aa) Bei Anwendung dieser Vorschriften treten bis 31. Dezember 1991 an die
-            Stelle des Begriffs
-
-            1.  "Berufsunfähigkeit" oder "Erwerbsunfähigkeit" der Begriff
-                "Invalidität",
-
-
-            2.  "Rente wegen verminderter Erwerbsfähigkeit" der Begriff
-                "Invalidenrente",
-
-
-            3.  "Wartezeit von 15 Jahren" der Begriff "Beitragszeit von 15 Jahren",
-
-
-            4.  "allgemeine Wartezeit" der Begriff "Pflichtbeitragszeit von fünf
-                Jahren",
-
-
-            5.  "Verletztenrente" der Begriff "Unfallrente" und
-
-
-            6.  "Kinderzuschuß" oder "Kinderzulage" der Begriff "Kinderzuschlag".
-
-
-
-
-            Das Übergangsgeld wird in Höhe des Krankengeldes gezahlt, wenn zuvor
-            Krankengeld bezogen wurde.
-
-            Das Übergangsgeld erhöht sich bis zum 31. Dezember 1991 nach dem Ende
-            des Bemessungszeitraums jeweils in den Zeitabständen und um den
-            Vomhundertsatz wie die Renten in dem in Artikel 3 des Vertrages
-            genannten Gebiet.
-
-            Reisekosten nach § 30 Abs. 2 werden bis zum 31. Dezember 1991 nur für
-            eine Familienheimfahrt oder eine Fahrt eines Angehörigen übernommen.
-
-
-        bb) Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
-            genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden
-            Regeln verfahren werden.
-
-
-
-
-
-    e)  Bei der Anwendung der in Buchstabe b) und d) genannten Vorschriften
-        sind als Beitragsbemessungsgrenze und Bezugsgröße die für das in
-        Artikel 3 des Vertrages genannte Gebiet bestimmten Werte maßgebend.
+    e)  (nicht mehr anzuwenden)
 
 
     f)  Artikel 1 §§ 125 bis 145 findet in dem in Artikel 3 des Vertrages
         genannten Gebiet ab dem 1. Januar 1991 mit folgenden Maßgaben
         Anwendung:
 
-        aa) In den in Artikel 1 Abs. 1 des Vertrages genannten Ländern wird zum 1.
-            Januar 1991 je eine Landesversicherungsanstalt als Träger der
-            Rentenversicherung der Arbeiter errichtet. Die Länder bestimmen den
-            Sitz und genehmigen die Satzung der Landesversicherungsanstalten.
+        aa) (nicht mehr anzuwenden)
 
 
         bb) Die Zuständigkeit der Bundesversicherungsanstalt für Angestellte, der
@@ -15481,56 +13689,13 @@ mit folgenden Maßgaben in Kraft:
             der bergbaulich Versicherten gilt.
 
 
-        cc) Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
-            genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden
-            Regeln verfahren werden.
+        cc) (nicht mehr anzuwenden)
 
 
 
 
 
-    g)  Artikel 1 § 168 Abs. 1 Nr. 1 und 2, Abs. 2 und 3, § 169 Nr. 3 findet
-        bereits mit Wirksamwerden des Beitritts
-
-        mit folgenden Maßgaben Anwendung:
-
-        aa) An die Stelle des Betrages von 610 bzw. 750 Deutsche Mark tritt ein
-            Betrag, der in demselben Verhältnis zu einem Siebtel der in dem in
-            Artikel 3 des Vertrages genannten Gebiet geltenden monatlichen
-            Bezugsgröße steht wie der Betrag von 610 bzw. 750 Deutsche Mark zu
-            einem Siebtel der in den übrigen Ländern geltenden monatlichen
-            Bezugsgröße nach § 18 des Vierten Buches Sozialgesetzbuch, aufgerundet
-            auf volle zehn Deutsche Mark.
-
-
-        bb) Bei der Anwendung des § 168 Abs. 1 Nr. 2 treten für die Jahre 1990 und
-            1991 in dem in Artikel 3 des Vertrages genannten Gebiet an die Stelle
-            der Worte "80 vom Hundert der Bezugsgröße" die Worte "70 vom Hundert
-            der für das in Artikel 3 des Einigungsvertrages genannte Gebiet
-            maßgebenden Bezugsgröße".
-
-
-
-
-
-    h)  Die Artikel 80, 81 und 82 finden ab dem 1. Januar 1992 Anwendung.
-
-
-    i)  Artikel 85 Abs. 7 wird mit folgenden Maßgaben angewendet:
-
-        aa) Artikel 1 § 287 Abs. 4 und § 310 wird nicht übergeleitet.
-
-
-        bb) Artikel 1 § 69 Abs. 2, §§ 160, 275 und 292 findet in dem in Artikel 3
-            des Vertrages genannten Gebiet ab 1. Januar 1992 Anwendung.
-
-
-        cc) Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
-            genannten Gebiet nach den beim Wirksamwerden des Beitritts geltenden
-            Regeln verfahren werden.
-
-
-
+    g)  bis i) (nicht mehr anzuwenden)
 
 
 
@@ -15570,79 +13735,15 @@ mit folgenden Maßgaben in Kraft:
     unter Nummer 2 genannten Maßgaben.
 
 
-4.  Versorgungsausgleichs-Erstattungsverordnung vom 11. März 1980 (BGBl. I
-    S. 280), zuletzt geändert durch Verordnung vom 20. Dezember 1985
-    (BGBl. I S. 2553),
-
-    mit folgender Maßgabe:
-
-    Diese Verordnung findet ab dem 1. Januar 1992 Anwendung.
-
-
-5.  Nachversicherungs-Härte-Verordnung in der im Bundesgesetzblatt Teil
-    III, Gliederungsnummer 8232-4-2, veröffentlichten bereinigten Fassung,
-
-    mit folgender Maßgabe:
-
-    Die Verordnung findet ab dem 1. Januar 1992 Anwendung.
-
-
-6.  Verordnung über die von den Trägern der Sozialversicherung an die
-    Deutsche Bundespost zu zahlenden Vergütungen für das Auszahlen von
-    Renten vom 25. April 1978 (BGBl. I S. 584)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung findet ab dem 1. Januar 1992 Anwendung.
-
-
-7.  Versicherungsunterlagen-Verordnung in der im Bundesgesetzblatt Teil
-    III, Gliederungsnummer 8232-11, veröffentlichten bereinigten Fassung,
-    zuletzt geändert gemäß Artikel 85 Abs. 6 des Gesetzes vom 18. Dezember
-    1989 (BGBl. I S. 2261; 1990 I S. 1337),
-
-    mit folgender Maßgabe:
-
-    Die Verordnung findet ab dem 1. Januar 1992 Anwendung.
-
-
-8.  Verordnung über das Entrichten von Pflichtbeiträgen zu den
-    Rentenversicherungen der Arbeiter und der Angestellten bei Aufenthalt
-    außerhalb des Geltungsbereichs des Grundgesetzes vom 4. Dezember 1972
-    (BGBl. I S. 2232), zuletzt geändert durch § 10 der Verordnung vom 21.
-    Juni 1976 (BGBl. I S. 1667),
-
-    mit folgender Maßgabe:
-
-    Die Verordnung findet ab dem 1. Januar 1992 Anwendung.
-
-
-9.  RV-Pauschalbeitragsverordnung vom 19. März 1974 (BGBl. I S. 757),
-    zuletzt geändert durch Verordnung vom 25. März 1983 (BGBl. I S. 402),
-    gilt für das in Artikel 3 des Vertrages genannte Gebiet
-
-    mit folgenden Maßgaben:
-
-    a)  Für Personen, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem
-        in Artikel 3 des Vertrages genannten Gebiet haben und dort aufgrund
-        gesetzlicher Pflicht Dienst leisten, werden bis zum 31. Dezember 1991
-        für die Berechnung der Beiträge 70 vom Hundert der für das in Artikel
-        3 des Vertrages genannte Gebiet maßgebenden Bezugsgröße zugrunde
-        gelegt.
-
-
-    b)  Bis zum 31. Dezember 1990 kann in dem in Artikel 3 des Vertrages
-        genannte Gebiet nach den beim Wirksamwerden des Beitritts geltenden
-        Regeln verfahren werden.
+4.  bis 9. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet I - Gesetzliche Unfallversicherung
 
-
-
-
-### Anlage I Kap VIII I I Anlage I Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt I
+### Anlage I Kap VIII I I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrags
 sind ausgenommen:
@@ -15671,260 +13772,17 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet I - Gesetzliche Unfallversicherung
 
-### Anlage I Kap VIII I III Anlage I Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt III
+### Anlage I Kap VIII I III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 7 nicht mehr anzuwenden)
 
-1.  Drittes, Fünftes und Sechstes Buch der Reichsversicherungsordnung in
-    der im Bundesgesetzblatt Teil III, Gliederungsnummer 820-1,
-    veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 9
-    des Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),
+Anlage I Kapitel VIII
+Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
-    mit folgenden Maßgaben:
-
-    a)  (nicht mehr anzuwenden)
-
-        finden ab dem 1. Januar 1991 Anwendung.
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  §§ 538, 643 bis 704, 790 bis 798, 850 bis 862 und die entsprechenden
-        Regelungen der §§ 766 bis 769, 831 bis 833, 892 bis 894, 978 und 1147
-        über die Träger der Versicherung und deren Verfassung sowie die §§ 776
-        bis 779, soweit sie die Zuständigkeit der Träger betreffen,
-
-        mit folgenden Maßgaben:
-
-        (1) (nicht mehr anzuwenden)
-
-
-        (2) (nicht mehr anzuwenden)
-
-
-        (3) (nicht mehr anzuwenden)
-
-
-        (4) (nicht mehr anzuwenden)
-
-
-        (5) (nicht mehr anzuwenden)
-
-
-        (6) (nicht mehr anzuwenden)
-
-
-        (7) (nicht mehr anzuwenden)
-
-
-        (8) Für die Durchführung der Aufgaben der Unfallversicherung durch die
-            "Überleitungsanstalt Sozialversicherung" (Überleitungsanstalt) gilt
-            folgendes:
-
-            1.  (nicht mehr anzuwenden)
-
-
-            2.  Die Überleitungsanstalt überträgt die bis zum 31. Dezember 1990
-                eingetretenen Arbeitsunfälle, außer den unter ee) genannten, auf die
-                nach Absatz 1 bis Absatz 4 zuständigen Träger der Unfallversicherung
-                über ihre drei Spitzenverbände wie folgt:
-
-                aa) Jeder der drei Bereiche der Unfallversicherung erhält den Anteil an
-                    der Zahl von Arbeitsunfällen, der hinsichtlich der
-                    Leistungsaufwendungen seiner Mitglieder im Jahr 1989 für Renten
-                    (Kontengruppe 50 des Kontenrahmens) seinem Anteil an
-                    Leistungsaufwendungen für Renten der Mitglieder aller drei
-                    Spitzenverbände der Träger der Unfallversicherung entspricht. Die
-                    Arbeitsunfälle werden numerisch nach Geburtstag und -monat des
-                    Leistungsempfängers, innerhalb eines Geburtstages alphabetisch nach
-                    dem Familiennamen verteilt. Die so erfolgte Zuweisung gilt auch für
-                    abgeleitete Renten, die sich später als neuer Versicherungsfall
-                    ergeben.
-
-
-                bb) Der Hauptverband der gewerblichen Berufsgenossenschaften e.V. verteilt
-                    die auf die gewerblichen Berufsgenossenschaften und die See-
-                    Berufsgenossenschaft entfallenden Arbeitsunfälle nach einem
-                    Verteilungsschlüssel, der aufgrund des Durchschnitts der Anteile aus
-                    dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1989
-                    und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr
-                    1989 für in den Jahren 1985 bis 1989 erstmals entschädigte
-                    Arbeitsunfälle ermittelt wird. Bei der Ermittlung des
-                    Verteilungsschlüssels sind die in Satz 1 aufgeführten Entgelte und
-                    Rentenzahlbeträge der Berufsgenossenschaften, die sich nicht auf das
-                    in Artikel 3 des Vertrages genannte Gebiet erstrecken, mitzuerfassen;
-                    die sich danach ergebenden Anteile derjenigen Berufsgenossenschaften,
-                    die sich nicht auf das in Artikel 3 des Vertrages genannte Gebiet
-                    erstrecken, sind auf alle sich erstreckenden Metall- und Bau-
-                    Berufsgenossenschaften getrennt nach Wirtschaftszweigen und nach den
-                    in Satz 1 aufgeführten Kriterien für den Verteilungsschlüssel
-                    aufzuteilen. Im übrigen gelten die Sätze 2 und 3 unter aa)
-                    entsprechend.
-
-                    Im Jahr 1995 ermittelt der Hauptverband der gewerblichen
-                    Berufsgenossenschaften e.V. in gleicher Weise wie in Satz 1 aufgeführt
-                    einen Verteilungsschlüssel aufgrund des Durchschnitts der Anteile aus
-                    dem der Beitragsberechnung zugrunde gelegten Entgelt des Jahres 1994
-                    und den Rentenzahlbeträgen (Kontengruppe 50 des Kontenrahmens) im Jahr
-                    1994 für in den Jahren 1991 bis 1994 erstmals entschädigte
-                    Arbeitsunfälle. Abweichungen in der finanziellen Belastung werden
-                    erstmals für die im Jahr 1994 aus den quotenmäßig zugewiesenen
-                    Arbeitsunfällen erwachsene Rentenlast untereinander ausgeglichen;
-                    entsprechendes gilt jeweils für die Folgejahre unter Beibehaltung des
-                    im Jahr 1995 neu ermittelten Schlüssels.
-
-
-                cc) Der Bundesverband der landwirtschaftlichen Berufsgenossenschaften e.V.
-                    verteilt die auf die Gartenbau-Berufsgenossenschaft und die nach
-                    Absatz 3 neu errichtete landwirtschaftliche Berufsgenossenschaft
-                    entfallenden Arbeitsunfälle entsprechend dem Verhältnis der
-                    Beschäftigten im Gartenbau und in der Landwirtschaft in dem in Artikel
-                    3 des Vertrages genannten Gebiet nach dem Stand vom 31. Dezember 1990.
-                    Sätze 2 und 3 unter aa) gelten entsprechend.
-
-
-                dd) Der Bundesverband der Unfallversicherungsträger der öffentlichen Hand
-                    e.V. verteilt die auf den Bund, die Bundesanstalt für Arbeit, die in
-                    Artikel 1 Abs. 1 des Vertrages genannten Länder, die
-                    Eigenunfallversicherung Berlin und die nach § 656
-                    Reichsversicherungsordnung bestimmten oder errichteten Träger
-                    entfallenden Arbeitsunfälle wie folgt:
-
-                    -   Für den Bund und die Bundesanstalt für Arbeit einerseits und die
-                        Träger der Unfallversicherung im Landes- und kommunalen Bereich
-                        andererseits werden Anteile entsprechend aa) ermittelt; die
-                        Aufwendungen für Renten aufgrund des Fremdrentengesetzes bleiben dabei
-                        außer Betracht.
-
-
-                    -   Die auf den Bund und die Bundesanstalt für Arbeit entfallenden
-                        Arbeitsunfälle werden auf die Bundesausführungsbehörde für
-                        Unfallversicherung übertragen.
-
-
-                    -   Die auf die Träger der Unfallversicherung im Landes- und kommunalen
-                        Bereich entfallenden Arbeitsunfälle werden auf die in Artikel 1 Abs. 1
-                        des Vertrages genannten Länder und die Eigenunfallversicherung Berlin
-                        entsprechend der Zahl der Einwohner dieser Länder und des Teils von
-                        Berlin, in dem das Grundgesetz bisher nicht galt, nach dem Stand vom
-                        31\. Dezember 1990 verteilt. Die Länder bestimmen über die Verteilung
-                        in ihrem Zuständigkeitsbereich. Sätze 2 und 3 unter aa) gelten
-                        entsprechend.
-
-
-
-
-
-                ee) Die Arbeitsunfälle, die aufgrund von § 1 der Verordnung über die
-                    Erweiterung des Versicherungsschutzes vom 11. April 1973 (GBl. I Nr.
-                    22 S. 199) entschädigt werden, werden auf die Bundesausführungsbehörde
-                    für Unfallversicherung übertragen.
-
-
-                ff) Arbeitsunfälle und Berufskrankheiten, bei denen der Zeitpunkt des
-                    Versicherungsfalls vor dem 1. Januar 1991 liegt, die aber erst nach
-                    diesem Stichtag - jedoch spätestens bis zum 31. Dezember 1994 -
-                    angezeigt werden, gelten als Fälle, die entsprechend aa) zu verteilen
-                    sind.
-
-
-
-
-
-            3.  (nicht mehr anzuwenden)
-
-
-
-
-
-        (9) (nicht mehr anzuwenden)
-
-
-
-
-
-    d)  § 546 Abs. 2, §§ 708 bis 722, 801, 865 bis 867 und 767 Abs. 2 Nr. 5
-        über die Unfallverhütung und Erste Hilfe
-
-        mit folgenden Maßgaben:
-
-        (1) Soweit neue Träger der gesetzlichen Unfallversicherung in dem in
-            Artikel 3 des Vertrages genannten Gebiet gebildet werden, sind die im
-            bisherigen Geltungsbereich des Grundgesetzes bekannt gemachten
-            Unfallverhütungsvorschriften entsprechend anzuwenden, solange diese
-            Träger keine eigenen Unfallverhütungsvorschriften in Kraft gesetzt
-            haben.
-
-
-        (2) Die Unfallversicherungsträger prüfen, inwieweit die im bisherigen
-            Arbeitsschutzregelwerk, das in dem in Artikel 3 des Vertrages
-            genannten Gebiet gilt (z.B. staatliche Standards mit Forderungen des
-            Gesundheits- und Arbeitsschutzes sowie Brandschutzes, staatliche
-            Standards der Arbeitshygiene, Vorschriften zu arbeitsmedizinischen
-            Tauglichkeits- und Überwachungsuntersuchungen, arbeitshygienische Meß-
-            und Bewertungsvorschriften, Werkstoff-, Bau-, und Prüfvorschriften für
-            überwachungspflichtige Anlagen), enthaltenen Festlegungen bei der
-            Erarbeitung und Fortentwicklung ihrer Unfallverhütungsvorschriften
-            einzubeziehen sind.
-
-
-        (3) Soweit die neuen Träger im Landes- und kommunalen Bereich ihre
-            Aufgaben noch nicht von der Überleitungsanstalt übernommen haben, wird
-            die Aufgabe der Unfallverhütung und Ersten Hilfe von den für den
-            Arbeitsschutz zuständigen staatlichen Behörden wahrgenommen.
-            Aufwendungen für diese Aufgabe werden nicht erstattet.
-
-
-        (4) Die Vorschriften finden ab dem 1. Januar 1991 Anwendung.
-
-
-
-
-
-    e)  (nicht mehr anzuwenden)
-
-
-    (f) (nicht mehr anzuwenden)
-
-
-    g)  (nicht mehr anzuwenden)
-
-
-
-
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  Verordnung über die orthopädische Versorgung Unfallverletzter vom 18.
-    Juli 1973 (BGBl. I S. 871)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt am 1. Januar 1991 in Kraft. Bis zum 31. Dezember
-    1990 kann in dem in Artikel 3 des Vertrages genannten Gebiet nach den
-    beim Wirksamwerden des Beitritts geltenden Regeln verfahren werden.
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VIII K I Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt I
+### Anlage I Kap VIII K I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -15944,8 +13802,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel VIII
+Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
-### Anlage I Kap VIII K II Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt II
+### Anlage I Kap VIII K II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
@@ -15998,194 +13858,22 @@ Auslandsversorgungsverordnung genannten Staaten, die nach dem 18. Mai
 1990 ihren Wohnsitz oder gewöhnlichen Aufenthalt in dem in Artikel 3
 des Einigungsvertrages genannten Gebiet begründet haben."
 
+Anlage I Kapitel VIII
+Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation
 
-### Anlage I Kap VIII K III Anlage I Kapitel VIII Sachgebiet K - Soziales Entschädigungsrecht und Rehabilitation Abschnitt III
+### Anlage I Kap VIII K III Abschnitt III
+
+(Abschnitt III Nr. 1 bis 21 nicht mehr anzuwenden)
+
+Anlage I Kapitel VIII
+Sachgebiet L - Förderung der Vermögensbildung
+
+### Anlage I Kap VIII L III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Bundesversorgungsgesetz in der Fassung der Bekanntmachung vom 22.
-    Januar 1982 (BGBl. I S. 21), zuletzt geändert durch Artikel 1 des
-    Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),
-
-    mit folgenden Maßgaben:
-
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-    d)  § 25c ist mit folgenden Maßgaben anzuwenden:
-
-        aa) Geldleistungen sind nach Absatz 1 mindestens in der sich nach dem
-            Bundessozialhilfegesetz ergebenden Höhe zu gewähren.
-
-
-        bb) Einkommen und Vermögen sind nach Absatz 2 höchstens in der sich nach
-            dem Bundessozialhilfegesetz ergebenden Höhe einzusetzen.
-
-
-
-
-
-    e)  (nicht mehr anzuwenden)
-
-
-    f)  § 56 findet von dem Zeitpunkt an Anwendung, zu dem das nach Buchstabe
-        a Satz 1 maßgebende Verhältnis den Wert 100 vom Hundert erreicht.
-
-
-    g)  Auch andere als die in § 65 genannten Ansprüche, die auf der gleichen
-        Ursache beruhen, führen zu einem Ruhen des Anspruchs auf
-        Versorgungsbezüge. Dies gilt bei der Kriegsbeschädigtenrente, dem
-        Pflegegeld, dem Blindengeld und dem Sonderpflegegeld sowie bei der von
-        einer Kriegsbeschädigtenrente abgeleiteten Hinterbliebenenrente nach
-        dem Rentenangleichungsgesetz vom 28. Juni 1990 (GBl. I Nr. 38 S. 495)
-        für den Betrag, der vom Träger der Rentenversicherung allein auf Grund
-        der Kriegsbeschädigung gezahlt wird.
-
-
-    h)  § 85 gilt nicht für eine den ursächlichen Zusammenhang verneinende
-        Entscheidung, die nach dem 8. Mai 1945 in dem in Artikel 3 des
-        Vertrages genannten Gebiet getroffen worden ist.
-
-
-    i)  (nicht mehr anzuwenden)
-
-
-    k)  (nicht mehr anzuwenden)
-
-
-    l)  (nicht mehr anzuwenden)
-
-
-    m)  (nicht mehr anzuwenden)
-
-
-
-
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  (nicht mehr anzuwenden)
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. (nicht mehr anzuwenden)
-
-
-12. (nicht mehr anzuwenden)
-
-
-13. (nicht mehr anzuwenden)
-
-
-14. (nicht mehr anzuwenden)
-
-
-15. (nicht mehr anzuwenden)
-
-
-16. (nicht mehr anzuwenden)
-
-
-17. (nicht mehr anzuwenden)
-
-
-18. Opferentschädigungsgesetz in der Fassung der Bekanntmachung vom 7.
-    Januar 1985 (BGBl. I S. 1), zuletzt geändert durch Artikel 6 des
-    Gesetzes vom 26. Juni 1990 (BGBl. I S. 1211),
-
-    mit folgenden Maßgaben:
-
-    a)  Auf Berechtigte nach § 1 Abs. 1 Satz 1, die ihren Wohnsitz oder
-        gewöhnlichen Aufenthalt in dem in Artikel 3 des Vertrages genannten
-        Gebiet haben, sowie auf Berechtigte aus dem vorgenannten Gebiet, die
-        nach der Schädigung ihren Wohnsitz oder gewöhnlichen Aufenthalt in das
-        Gebiet, in dem das Opferentschädigungsgesetz schon vor dem Beitritt
-        gegolten hat, verlegt haben, sind die Vorschriften des
-        Bundesversorgungsgesetzes mit den unter Nummer 1 aufgeführten Maßgaben
-        anzuwenden.
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  § 10 gilt für Ansprüche aus Taten, die in dem in Artikel 3 des
-        Vertrages genannten Gebiet nach dem 2. Oktober 1990 begangen worden
-        sind. Darüber hinaus gelten die §§ 1 bis 7 für Ansprüche aus Taten,
-        die in dem in Satz 1 genannten Gebiet in der Zeit vom 7. Oktober 1949
-        bis zum 2. Oktober 1990 begangen worden sind, nach Maßgabe des § 10a.
-
-
-    d)  § 10a gilt für Personen, die in dem in Artikel 3 des Vertrages
-        genannten Gebiet ihren Wohnsitz oder gewöhnlichen Aufenthalt haben
-        oder zur Zeit der Schädigung hatten, wenn die Schädigung in der Zeit
-        vom 7. Oktober 1949 bis zum 2. Oktober 1990 in dem vorgenannten Gebiet
-        eingetreten ist.
-
-
-    e)  (nicht mehr anzuwenden)
-
-
-    f)  (nicht mehr anzuwenden)
-
-
-    g)  (nicht mehr anzuwenden)
-
-
-
-
-
-19. (nicht mehr anzuwenden)
-
-
-20. (nicht mehr anzuwenden)
-
-
-21. (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap VIII L III Anlage I Kapitel VIII Sachgebiet L - Förderung der Vermögensbildung Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Fünftes Vermögensbildungsgesetz in der Fassung der Bekanntmachung vom
-    19\. Januar 1989 (BGBl. I S. 137), geändert durch Artikel 3 des
-    Finanzmarktförderungsgesetzes vom 22. Februar 1990 (BGBl. I S. 266),
-
-    mit folgender Maßgabe:
-
-    Das Gesetz ist ab 1. Januar 1991 anzuwenden.
+1.  (nicht mehr anzuwenden)
 
 
 2.  Verordnung zur Durchführung des Fünften Vermögensbildungsgesetzes vom
@@ -16198,16 +13886,18 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel IX
 
-### Anlage I Kap IX Anlage I Kapitel IX Geschäftsbereich des Bundesministers der Verteidigung
+### Anlage I Kap IX Geschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1071)
 
 (siehe Kapitel XIX - Recht des öffentlichen Dienstes einschließlich
 des Rechts der Soldaten)
 
+Anlage I Kapitel X
 
-### Anlage I Kap X Anlage I Kapitel X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+### Anlage I Kap X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1072 - 1097)
 
@@ -16229,56 +13919,24 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap X H III) - Ausgegeben
 
 
 
+Anlage I Kapitel X
+Sachgebiet A - Frauenpolitik
 
-### Anlage I Kap X A III Anlage I Kapitel X Sachgebiet A - Frauenpolitik Abschnitt III
+### Anlage I Kap X A III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-Mutterschutzgesetz in der Fassung der Bekanntmachung vom 18. April
-1968 (BGBl. I S. 315), zuletzt geändert durch Artikel 2 des Gesetzes
-vom 30. Juni 1989 (BGBl. I S. 1297),
-mit folgender Maßgabe:
-Das Gesetz ist ab 1. Januar 1991 anzuwenden. Es gilt nicht für
-Geburten vor dem 1. Januar 1991 (vgl. Anlage II Kapitel X Sachgebiet A
-Abschnitt III Nr. 1 bis 12, Kapitel VIII Sachgebiet A Abschnitt III
-Nr. 1b)).
+(Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel X
+Sachgebiet B - Jugend
 
-### Anlage I Kap X B III Anlage I Kapitel X Sachgebiet B - Jugend Abschnitt III
+### Anlage I Kap X B III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit den folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel X
+Sachgebiet C - Zivildienst
 
-
-2.  Gesetz zur Förderung eines Freiwilligen Sozialen Jahres vom 17. August
-    1964 (BGBl. I S. 640), zuletzt geändert durch Art. 1 des Gesetzes vom
-    18\. Dezember 1975 (BGBl. I S. 3155),
-
-    mit folgenden Maßgaben:
-
-    a)  Bei der Anwendung des § 1 Abs. 1 Nr. 5 Satz 2 ist bis zum
-        Inkrafttreten der Reichsversicherungsordnung in dem in Artikel 3 des
-        Vertrages genannten Gebiet die Beitragsbemessungsgrenze
-        zugrundezulegen, die dort gemäß dem Gesetz über Sozialversicherung vom
-        28\. Juni 1990 (GBl. I, Nr. 38 S. 486) gilt.
-
-
-    b)  Für die Dauer von einem Jahr nach Wirksamwerden des Beitritts sind
-        über die in § 2 Abs. 1 Nr. 1 bis 3 genannten Träger hinaus andere
-        Träger, die für eine den Bestimmungen des § 1 entsprechende
-        Durchführung Gewähr bieten, auch ohne Zustimmung der zuständigen
-        Landesbehörden zugelassen.
-
-
-
-
-
-
-
-
-### Anlage I Kap X C II Anlage I Kapitel X Sachgebiet C - Zivildienst Abschnitt II
+### Anlage I Kap X C II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 Nach § 51 des Zivildienstgesetzes in der Fassung der Bekanntmachung
@@ -16297,22 +13955,17 @@ insbesondere auf Art, Berechnungsgrundlagen, Höhe von
 Versorgungsleistungen und Ruhensregelungen abweichend von diesem
 Gesetz."
 
+Anlage I Kapitel X
+Sachgebiet C - Zivildienst
 
-### Anlage I Kap X C III Anlage I Kapitel X Sachgebiet C - Zivildienst Abschnitt III
+### Anlage I Kap X C III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel X
+Sachgebiet D - Gesundheitspolitik
 
-
-2.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap X D I Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt I
+### Anlage I Kap X D I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -16323,8 +13976,10 @@ ist ausgenommen:
 
 
 
+Anlage I Kapitel X
+Sachgebiet D - Gesundheitspolitik
 
-### Anlage I Kap X D II Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt II
+### Anlage I Kap X D II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -17783,8 +15438,10 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel X
+Sachgebiet D - Gesundheitspolitik
 
-### Anlage I Kap X D III Anlage I Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt III
+### Anlage I Kap X D III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -17812,6 +15469,7 @@ mit folgenden Maßgaben in Kraft:
         Vorschriften entsprechend anzuwenden sind, gelten diese Vorschriften
         mit den in Anlage I Kapitel VIII Sachgebiet K Abschnitt III Nr. 1 des
         Vertrages aufgeführten Maßgaben.
+        (Satz 2 bis 4 nicht mehr anzuwenden)
 
 
 
@@ -17825,8 +15483,10 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel X
+Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht
 
-### Anlage I Kap X E II Anlage I Kapitel X Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht Abschnitt II
+### Anlage I Kap X E II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -17860,13 +15520,17 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel X
+Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht
 
-### Anlage I Kap X E III Anlage I Kapitel X Sachgebiet E - Lebensmittel- und Bedarfsgegenständerecht Abschnitt III
+### Anlage I Kap X E III Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel X
+Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht
 
-### Anlage I Kap X F II Anlage I Kapitel X Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht Abschnitt II
+### Anlage I Kap X F II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
@@ -17921,19 +15585,17 @@ Bundesrecht wird wie folgt aufgehoben oder ergänzt:
 
 
 
+Anlage I Kapitel X
+Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht
 
-### Anlage I Kap X F III Anlage I Kapitel X Sachgebiet F - Fleisch- und Geflügelfleischhygienerecht Abschnitt III
+### Anlage I Kap X F III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel X
+Sachgebiet G - Tierärzte
 
-
-
-
-
-### Anlage I Kap X G II Anlage I Kapitel X Sachgebiet G - Tierärzte Abschnitt II
+### Anlage I Kap X G II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -18098,39 +15760,17 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel X
+Sachgebiet G - Tierärzte
 
-### Anlage I Kap X G III Anlage I Kapitel X Sachgebiet G - Tierärzte Abschnitt III
+### Anlage I Kap X G III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  Gebührenordnung für Tierärzte in der Fassung der Bekanntmachung vom
-    23\. Februar 1988 (BGB. I S. 191)
+Anlage I Kapitel X
+Sachgebiet H - Familie und Soziales
 
-    mit folgenden Maßgaben:
-
-    a)
-        aa) (nicht mehr anzuwenden)
-
-
-        bb) Leistungen, die vor dem Wirksamwerden des Beitritts in dem in Artikel
-            3 des Vertrages genannten Gebiet erbracht worden sind, werden nach dem
-            dort bisher geltenden Recht vergütet.
-
-
-
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-
-
-
-
-
-
-### Anlage I Kap X H I Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt I
+### Anlage I Kap X H I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -18153,8 +15793,10 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel X
+Sachgebiet H - Familie und Soziales
 
-### Anlage I Kap X H II Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt II
+### Anlage I Kap X H II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -18347,72 +15989,15 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel X
+Sachgebiet H - Familie und Soziales
 
-### Anlage I Kap X H III Anlage I Kapitel X Sachgebiet H - Familie und Soziales Abschnitt III
+### Anlage I Kap X H III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit nachfolgenden Maßgaben in Kraft:
 
-1.  (nicht mehr anzuwenden)
-
-
-2.  Bundeserziehungsgeldgesetz in der Fassung der Bekanntmachung vom 25.
-    Juli 1989 (BGBl. I S. 1550),
-
-    mit folgenden Maßgaben:
-
-    a)  Das Gesetz ist ab 1. Januar 1991 anzuwenden; es ist für die Kinder
-        anzuwenden, die nach dem 31. Dezember 1990 geboren sind.
-
-
-    b)  Vorbehaltlich anderer Regelungen durch die in Artikel 3 des Vertrages
-        genannten Länder wird seine Ausführung den Kreisen und kreisfreien
-        Städten übertragen.
-
-
-    c)  Bei der Berechnung des Einkommens wird abweichend von § 6 Abs. 1 Satz
-        1 des Bundeserziehungsgeldgesetzes für die in den Jahren 1991 und 1992
-        geborenen Kinder das voraussichtliche Einkommen des Jahres
-        zugrundegelegt, in dem das Kind geboren ist. Zur Berechnung des
-        Einkommens hat der Antragsteller die monatlichen Einkünfte seines
-        Ehegatten und, falls er in der Zeit, in der das Erziehungsgeld
-        einkommensabhängig ist, erwerbstätig ist, seine eigenen monatlichen
-        Einkünfte glaubhaft zu machen.
-
-
-
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  (nicht mehr anzuwenden)
-
-
-7.  (nicht mehr anzuwenden)
-
-
-8.  (nicht mehr anzuwenden)
-
-
-9.  (nicht mehr anzuwenden)
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. Gräbergesetz vom 1. Juli 1965 (BGBl. I S. 589), zuletzt geändert durch
-    Artikel 23 des Gesetzes vom 28. Juni 1990 (BGBl. I S. 1221),
-
-    mit folgender Maßgabe:
-
-    Es ist ab 1. Januar 1995 anzuwenden.
+1.  bis 11. (nicht mehr anzuwenden)
 
 
 12. Heimgesetz in der Fassung der Bekanntmachung vom 23. April 1990 (BGBl.
@@ -18445,20 +16030,14 @@ mit nachfolgenden Maßgaben in Kraft:
     Sinne der Verordnung.
 
 
-15. Gesetz über die Errichtung einer Stiftung "Hilfswerk für behinderte
-    Kinder" vom 17. Dezember 1971 (BGBl. I S. 2018), zuletzt geändert
-    durch Gesetz vom 20. Juli 1988 (BGBl. I S. 1052),
-
-    mit folgender Maßgabe:
-
-    Die in § 13 letzter Halbsatz genannte Jahreszahl "1983" wird durch die
-    Zahl "1993" ersetzt.
+15. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel XI
 
-### Anlage I Kap XI Anlage I Kapitel XI Geschäftsbereich des Bundesministers für Verkehr
+### Anlage I Kap XI Geschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1098 - 1113)
 
@@ -18480,27 +16059,15 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XI G III) - Ausgegeben
 
 
 
+Anlage I Kapitel XI
+Sachgebiet A - Eisenbahnverkehr
 
-### Anlage I Kap XI A III Anlage I Kapitel XI Sachgebiet A - Eisenbahnverkehr Abschnitt III
+### Anlage I Kap XI A III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Allgemeines Eisenbahngesetz in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 930-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert gemäß Verordnung vom 26. November 1986 (BGBl. I S. 2089),
-
-    mit folgenden Maßgaben:
-
-    a)  § 6a gilt erst ab 1. Januar 1992.
-
-
-    b)  In den in § 4 Abs. 2, § 5 Abs. 1, § 6 Abs. 4 und 5, §§ 6g, 7 Abs. 2, §
-        8a Abs. 3 und § 9 genannten Fällen steht die Deutsche Reichsbahn der
-        Deutschen Bundesbahn gleich.
-
-
-
+1.  (nicht mehr anzuwenden)
 
 
 2.  Gesetz über die vermögensrechtlichen Verhältnisse der Deutschen
@@ -18513,108 +16080,7 @@ mit folgenden Maßgaben in Kraft:
     Vertrages Anwendung.
 
 
-3.  Bundesbahngesetz in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 931-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Gesetz vom 28. Juni 1990 (BGBl. I S. 1221),
-
-    mit folgenden Maßgaben:
-
-    a)  Die Vorschriften des Bundesbahngesetzes sind auf das Sondervermögen
-        "Deutsche Reichsbahn" sinngemäß anzuwenden.
-
-
-    b)  § 1 ist mit den folgenden Maßgaben anzuwenden:
-
-        aa) Das dem S-Bahnverkehr dienende Reichsbahnvermögen in Berlin (West)
-            wird im Anschluß an die Vereinbarung zwischen dem Senat von Berlin und
-            der Deutschen Reichsbahn vom 29. Dezember 1983 bis zum 31. Dezember
-            1993 vom Land Berlin verwaltet, wobei Investitionsentscheidungen, die
-            finanziell über dieses Datum hinauswirken, im Einvernehmen mit der
-            Deutschen Reichsbahn zu treffen sind. Die beteiligten Träger der
-            Aufgaben- und Finanzverantwortung sind beauftragt, sich bis zu diesem
-            Zeitpunkt über einen länderübergreifenden Verbund des öffentlichen
-            Personennahverkehrs im Raum Berlin zu verständigen.
-
-
-        bb) Das nicht betrieblichen Zwecken dienende ehemalige Reichsbahnvermögen
-            (Vorratsvermögen) in Berlin (West) wird nach den bestehenden Rechten
-            und Pflichten längstens bis zur Zusammenführung beider Bahnen vom
-            Bundesminister für Verkehr und in dessen Auftrag von der
-            Verwaltungsstelle des ehemaligen Reichsbahnvermögens verwaltet. Die
-            Genehmigung des Wirtschaftsplans und des Jahresabschlusses ergeht im
-            Einvernehmen mit dem Bundesminister der Finanzen.
-
-
-
-
-
-    c)  § 36 ist mit folgender Maßgabe anzuwenden:
-
-        Anhängige Verfahren zum Bau oder zur Änderung von Anlagen der
-        Deutschen Reichsbahn sind nach dem Bundesbahngesetz und dem
-        Verwaltungsverfahrensgesetz zu Ende zu führen, wenn eine abschließende
-        Sachentscheidung vor Wirksamwerden des Beitritts noch nicht ergangen
-        ist.
-
-
-
-
-
-4.  Eisenbahn-Verkehrsordnung in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 934-1, veröffentlichten bereinigten Fassung, zuletzt
-    geändert durch Verordnung vom 30. Juni 1989 (BGBl. I S. 1273), mit den
-    für das Netz der Deutschen Reichsbahn nach § 5 Abs. 2 genehmigten
-    abweichenden Beförderungsbedingungen
-
-    mit folgender Maßgabe:
-
-    Im Verkehr zwischen den deutschen Eisenbahnen, der bis zum
-    Wirksamwerden des Beitritts auf der Grundlage des Übereinkommens vom
-    9\. Mai 1980 über den internationalen Eisenbahnverkehr (COTIF) (BGBl.
-    1985 II S. 130) durchgeführt wurde, sind Sonderabmachungen abweichend
-    von § 7 in dem Umfang zulässig, wie es Artikel 6 § 4 der Einheitlichen
-    Rechtsvorschriften für den Vertrag über die internationale
-    Eisenbahnbeförderung von Gütern (ER/CIM - Anhang B zum COTIF)
-    vorsieht.
-
-
-5.  (nicht mehr anzuwenden)
-
-
-6.  Eisenbahn-Bau- und Betriebsordnung vom 8. Mai 1967 (BGBl. II S. 1563),
-    zuletzt geändert durch Verordnung vom 18. Dezember 1981 (BGBl. I S.
-    1490),
-
-    mit folgenden Maßgaben:
-
-    a)  Für bestehende Anlagen können die in § 3 genannten Stellen die
-        Fortgeltung von Vorschriften der Eisenbahn-Bau- und Betriebsordnung
-        vom 17. Juli 1928 (RGBl. II S. 541), zuletzt geändert durch Verordnung
-        vom 23. Juli 1943 (RGBl. II S. 361), bis zum 31. Dezember 1993
-        zulassen.
-
-
-    b)  Angehörige des Bundesgrenzschutzes mit bahnpolizeilichen Aufgaben
-        gelten als Bahnpolizeibeamte im Sinne des § 60 Abs. 1 Nr. 1.
-
-
-    c)  Behörden des Bundesgrenzschutzes mit bahnpolizeilichen Aufgaben gelten
-        als Bahnpolizeibehörden im Sinne des § 61.
-
-
-
-
-
-7.  Eisenbahn-Bau- und Betriebsordnung für Schmalspurbahnen vom 25.
-    Februar 1972 (BGBl. I S. 269), geändert durch Verordnung vom 21.
-    November 1983 (BGBl. I S. 1382),
-
-    mit folgender Maßgabe:
-
-    Für bestehende Anlagen können die in § 3 genannten Stellen die
-    Fortgeltung von Vorschriften der Eisenbahn-Bau- und Betriebsordnung
-    für Schmalspurbahnen vom 25. Juni 1943 (RGBl. II S. 285) bis zum 31.
-    Dezember 1993 zulassen.
+3.  bis 7. (nicht mehr anzuwenden)
 
 
 8.  Eisenbahn-Signalordnung 1959 vom 7. Oktober 1959 (BGBl. II S. 1021),
@@ -18653,16 +16119,20 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel XI
+Sachgebiet B - Straßenverkehr
 
-### Anlage I Kap XI B I Anlage I Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt I
+### Anlage I Kap XI B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
 Höchstzahlenverordnung GüKG vom 9. Dezember 1986 (BGBl. I S. 2452),
 geändert durch Verordnung vom 5. Dezember 1989 (BGBl. I S. 2131).
 
+Anlage I Kapitel XI
+Sachgebiet B - Straßenverkehr
 
-### Anlage I Kap XI B III Anlage I Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt III
+### Anlage I Kap XI B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -18673,38 +16143,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  § 24a findet bis zum 31. Dezember 1992 keine Anwendung.
-
-
-    b)  (nicht mehr anzuwenden).
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-    d)  (nicht mehr anzuwenden)
-
-
-    e)  (nicht mehr anzuwenden)
-
-
-    f)  Das Kraftfahrt-Bundesamt darf das bestehende Zentrale
-        Fahrerlaubnisregister für das in Artikel 3 des Vertrages genannte
-        Gebiet unter entsprechender Anwendung der §§ 29 bis 30a des
-        Straßenverkehrsgesetzes sowie der §§ 13a bis 13d der Straßenverkehrs-
-        Zulassungs-Ordnung bis zu einer gesetzlichen Regelung über die
-        Übernahme in das Verkehrszentralregister weiterführen.
-
-
-    g)  Die Aufgaben der medizinisch-psychologischen Untersuchungsstellen
-        können bis zum 31. Dezember 1991 vom Verkehrsmedizinischen Dienst der
-        Deutschen Demokratischen Republik wahrgenommen werden.
-
-
-    h)  Für Maßnahmen nach den Vorschriften für die Fahrerlaubnis auf Probe
-        tritt an die Stelle der Regelung des § 24a des Straßenverkehrsgesetzes
-        die entsprechende Regelung, die in dem in Artikel 3 des Vertrages
-        genannten Gebiet gilt.
+    a)  bis h) (nicht mehr anzuwenden)
 
 
     i)  Die §§ 7 bis 20 des Straßenverkehrsgesetzes finden nur auf solche
@@ -18721,61 +16160,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    (1) (nicht mehr anzuwenden)
-
-
-    (2) Zur Mofa-Ausbildung im Sinne von § 4a sind auch Fahrlehrer berechtigt,
-        die die Fahrlehrerlaubnis der Klasse A nach den bisherigen
-        Vorschriften der Deutschen Demokratischen Republik besitzen.
-
-
-    (3) Nach den bisherigen Vorschriften der Deutschen Demokratischen Republik
-        erteilte Fahrerlaubnisse, einschließlich der Fahrerlaubnisse der
-        Nationalen Volksarmee, bleiben im Umfang der dadurch nachgewiesenen
-        Berechtigung gültig, ausgenommen jedoch Fahrerlaubnisse der Klasse D.
-
-
-    (4) (nicht mehr anzuwenden)
-
-
-    (5) (nicht mehr anzuwenden)
-
-
-    (6) Nach den bisherigen Vorschriften der Deutschen Demokratischen Republik
-        erteilte Fahrerlaubnisse der Klasse B berechtigen auch zum Führen von
-        Kraftfahrzeugen mit einem zulässigen Gesamtgewicht von nicht mehr als
-        7,5 t und einem mitgeführten einachsigen Anhänger, bisherige
-        Fahrerlaubnisse der Klasse BE jedoch nur zum Führen von
-        Fahrzeugkombinationen, deren Zugfahrzeug ein zulässiges Gesamtgewicht
-        von nicht mehr als 3,5 t hat.
-
-
-    (7) Nach den bisherigen Vorschriften der Deutschen Demokratischen Republik
-        erteilte Fahrerlaubnisse der Klassen A, B, D und M berechtigen auch
-        zum Führen von Kraftfahrzeugen der Klasse 5.
-
-
-    (8) Nach den bisherigen Vorschriften der Deutschen Demokratischen Republik
-        erteilte Fahrerlaubnisse der Klasse T berechtigen auch zum Führen von
-        Krankenfahrstühlen (§ 18 Abs. 2 Nr. 5).
-
-
-    (9) Die Regelungen in den Nummern 6 bis 8 gelten auch für Fahrerlaubnisse,
-        die den dort genannten Fahrerlaubnissen entsprechen.
-
-
-    (10) Inhaber einer nach den bisherigen Vorschriften der Deutschen
-        Demokratischen Republik erteilten Fahrerlaubnis der Klasse A -
-        beschränkt auf Krafträder bis 150
-        ccm Hubraum - dürfen ab Vollendung des 18. Lebensjahres nur Krafträder
-        der Klasse 1a und erst ab Vollendung des 20. Lebensjahres Krafträder
-        der Klasse 1 führen.
-
-
-    (11) Unbeschadet der Regelung nach Nummer 10 gelten abweichend von § 7 für
-        die nach den bisherigen Vorschriften der Deutschen Demokratischen
-        Republik erteilten Fahrerlaubnisse die Mindestaltersvorschriften der
-        Deutschen Demokratischen Republik weiter.
+    (1) bis (11) (nicht mehr anzuwenden)
 
 
     (12) Führerscheine, die nach den bisherigen Mustern der Deutschen
@@ -18783,27 +16168,7 @@ mit folgenden Maßgaben in Kraft:
         Nationalen Volksarmee, bleiben gültig.
 
 
-    (13) (nicht mehr anzuwenden)
-
-
-    (14) (nicht mehr anzuwenden)
-
-
-    (15) (nicht mehr anzuwenden)
-
-
-    (16) (nicht mehr anzuwenden)
-
-
-    (17) Bei Anfragen an das Verkehrszentralregister wird das
-        Fahrerlaubnisregister der Deutschen Demokratischen Republik
-        einbezogen, um Auskünfte unter Beachtung der für das
-        Verkehrszentralregister geltenden Vorschriften zu erteilen.
-
-
-    (18) Für die Neuerteilung einer nach den bisherigen Vorschriften der
-        Deutschen Demokratischen Republik entzogenen Fahrerlaubnis gilt § 15c
-        sinngemäß.
+    (13) bis (18) (nicht mehr anzuwenden)
 
 
     (19) Folgende Vorschriften finden keine Anwendung: §§ 14a, 15l Abs. 2, § 23
@@ -18858,99 +16223,19 @@ mit folgenden Maßgaben in Kraft:
         vorschriftsmäßig im Sinne von § 22 angesehen.
 
 
-    (28) (nicht mehr anzuwenden)
+    (28) bis (40) (nicht mehr anzuwenden)
 
 
-    (29) (nicht mehr anzuwenden)
-
-
-    (30) Den Untersuchungen nach § 29 unterliegen auch solche Fahrzeuge, die
-        noch kein eigenes Kennzeichen nach Art der Anlage V haben müssen.
-
-
-    (31) Im Verkehr befindliche Fahrzeuge, die noch nicht einer
-        Hauptuntersuchung nach § 29 unterzogen waren, müssen gemäß Aufruf
-        durch die zuständige oberste Landesbehörde oder durch die von ihr
-        bestimmten Stellen im Rahmen der zu beantragenden Zuteilung eines
-        neuen Kennzeichens gemäß § 29 untersucht werden, und zwar bei
-        jährlicher Untersuchungsfrist bis spätestens 31. Dezember 1991, bei
-        zweijähriger Untersuchungsfrist bis spätestens 31. Dezember 1992.
-
-
-    (32) Bei im Verkehr befindlichen Fahrzeugen, die noch nicht einer
-        Bremsensonderuntersuchung nach § 29 unterzogen waren, ist diese
-        Untersuchung vor der ersten vorgeschriebenen Hauptuntersuchung
-        durchzuführen, wobei die Bremsensonderuntersuchung nicht länger als
-        drei Monate zurückliegen darf.
-
-
-    (33) Bei im Verkehr befindlichen Fahrzeugen, die noch nicht einer
-        Zwischenuntersuchung nach § 29 unterzogen waren, beginnt die Frist für
-        die erste Zwischenuntersuchung an dem Tage zu laufen, an dem die erste
-        Hauptuntersuchung durchgeführt wurde.
-
-
-    (34) (nicht mehr anzuwenden)
-
-
-    (35) (nicht mehr anzuwenden)
-
-
-    (36) (nicht mehr anzuwenden).
-
-
-    (37) Die zu den bisherigen Vorschriften der Deutschen Demokratischen
-        Republik über die höchstzulässigen Abmessungen und Achslasten
-        erteilten Ausnahmegenehmigungen gelten in dem in Artikel 3 des
-        Vertrages genannten Gebiet bis spätestens 30. Juni 1991.
-
-
-    (38) Bei Fahrzeugen, die nach den bisherigen Vorschriften der Deutschen
-        Demokratischen Republik einer Abgassonderuntersuchung unterzogen
-        wurden, muß die erste Untersuchung nach § 47a spätestens ein Jahr nach
-        der gemäß den Bestimmungen der Deutschen Demokratischen Republik
-        erfolgten Untersuchung vorgenommen werden.
-
-
-    (39) Bei Fahrzeugen, die bislang einer Abgassonderuntersuchung nicht
-        unterzogen wurden, ist die erste Untersuchung nach § 47a spätestens in
-        dem Jahr und in dem Monat durchzuführen, der für die nächste
-        vorgeschriebene Hauptuntersuchung nach § 29 maßgeblich ist.
-
-
-    (40) Abweichend von § 47b gelten Anerkennungen nach den bisherigen
-        Vorschriften der Deutschen Demokratischen Republik noch bis 30. Juni
-        1991\.
-
-
-    (41) §§ 35, 56 Abs. 2 Nr. 6 gelten für die ab 1. Juli 1991 erstmals in den
-        Verkehr kommenden Fahrzeuge.
+    (41) §§ 35,
+        56 Abs. 2 Nr. 6 gelten für die ab 1. Juli 1991 erstmals in den Verkehr
+        kommenden Fahrzeuge.
 
 
     (42) § 57a gilt für die ab 1. Januar 1991 erstmals in den Verkehr kommenden
         Fahrzeuge.
 
 
-    (43) Fahrzeuge, die unter Beachtung der bisherigen Vorschriften der
-        Deutschen Demokratischen Republik über Bau, Betrieb und Ausrüstung bis
-        31\. Dezember 1990 erstmals in den Verkehr gekommen sind, gelten
-        weiterhin als vorschriftsmäßig, wenn sie
-
-        1.  spätestens bis zur nächsten vorgeschriebenen Hauptuntersuchung (§ 29)
-            den Bestimmungen des § 35a Abs. 7 bis 9 (soweit geeignete
-            Verankerungen vorhanden sind), §§ 35g, 35h, 36 Abs. 2a Satz 2 und 3, §
-            41 Abs. 14 sowie §§ 53a und 54b entsprechen,
-
-
-        2.  spätestens bis 1. Juli 1991 den Bestimmungen der § 56 Abs. 3, §§ 57a,
-            58 entsprechen,
-
-
-        3.  spätestens bis 31. Dezember 1997 der Vorschrift des § 41 Abs. 17
-            entsprechen.
-
-
-
+    (43) (nicht mehr anzuwenden)
 
 
     (44) Das nach den bisherigen Vorschriften der Deutschen Demokratischen
@@ -18963,15 +16248,7 @@ mit folgenden Maßgaben in Kraft:
         Sinne des § 53a Abs. 1 und 2.
 
 
-    (45) Bereits im Verkehr befindliche sowie neu in den Verkehr kommende
-        Fahrräder sind bis 31. Dezember 1992 mit Sicherungsmitteln gemäß § 67
-        Abs. 3 Satz 4, Abs. 4 Nr. 3 und Abs. 7 nachzurüsten.
-
-
-    (46) (nicht mehr anzuwenden)
-
-
-    (47) (nicht mehr anzuwenden)
+    (45) bis (47) (nicht mehr anzuwenden)
 
 
 
@@ -18988,26 +16265,7 @@ mit folgenden Maßgaben in Kraft:
     diesen Fahrerlaubnissen entsprechende Fahrerlaubnisse.
 
 
-4.  (nicht mehr anzuwenden)
-
-
-5.  Fahrzeugteile-Verordnung in der im Bundesgesetzblatt Teil III,
-    Gliederungsnummer 9232-6, veröffentlichten bereinigten Fassung,
-    zuletzt geändert durch Verordnung vom 18. Februar 1986 (BGBl. I S.
-    265),
-
-    mit folgender Maßgabe:
-
-    Abweichend von § 4 ist für die Prüfung von Heizungen,
-    Gleitschutzvorrichtungen, Scheiben aus Sicherheitsglas,
-    Auflaufbremsen, mechanischen Verbindungseinrichtungen,
-    Warneinrichtungen, Sicherheitsgurten, Rückhalteeinrichtungen für
-    Kinder sowie Fahrtschreibern und Kontrollgeräten übergangsweise auch
-    die Technische Prüfstelle der ehemaligen Deutschen Demokratischen
-    Republik in Dresden zuständig.
-
-
-6.  (nicht mehr anzuwenden)
+4.  bis 6. (nicht mehr anzuwenden)
 
 
 7.  Kraftfahrsachverständigengesetz vom 22. Dezember 1971 (BGBl. I S.
@@ -19028,29 +16286,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  Der Inhaber einer nach bisherigem Recht der Deutschen Demokratischen
-        Republik erteilten Fahrlehrerlaubnis (gültiger Fahrlehrerschein) ist
-        bis zum 31. Dezember 1992 berechtigt, Fahrschüler auszubilden (§§ 2,
-        8).
-
-
-    c)  Die Beschränkung nach Buchstabe b) entfällt, sobald sich der Inhaber
-        der Fahrlehrerlaubnis einer Fortbildung von mindestens insgesamt vier
-        Wochen in einer amtlich anerkannten Fahrlehrerausbildungsstätte oder
-        einer von der zuständigen obersten Landesbehörde anerkannten Stelle
-        mit Erfolg, der insbesondere durch eine theoretische Prüfung im
-        Verhaltensrecht entsprechend der Richtlinie des Bundesministers für
-        Verkehr vom 22. Januar 1987 (VkBl. S. 198) festzustellen ist,
-        unterzogen hat.
-
-
-    d)  Die notwendigen Anforderungen an die Fortbildung nach Buchstabe c)
-        werden durch Rechtsverordnung des Bundesministers für Verkehr ohne
-        Zustimmung des Bundesrates nach Anhörung der zuständigen obersten
-        Landesbehörden bestimmt.
+    a)  bis d) (nicht mehr anzuwenden)
 
 
     e)  Die nach bisherigem Recht der Deutschen Demokratischen Republik
@@ -19066,19 +16302,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-9.  (nicht mehr anzuwenden)
-
-
-10. (nicht mehr anzuwenden)
-
-
-11. (nicht mehr anzuwenden)
-
-
-12. (nicht mehr anzuwenden)
-
-
-13. (nicht mehr anzuwenden)
+9.  bis 13. (nicht mehr anzuwenden)
 
 
 14. Straßenverkehrs-Ordnung vom 16. November 1970 (BGBl. I S. 1565, 1971 I
@@ -19087,17 +16311,7 @@ mit folgenden Maßgaben in Kraft:
 
     mit folgenden Maßgaben:
 
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-    d)  Das Zeichen 401 - Bundesstraßennummernschild - im Sinne des § 12 Abs.
-        3 Nr. 8 Buchstabe a steht dem Zeichen 306 - Vorfahrtstraße - gleich.
+    a)  bis d) (nicht mehr anzuwenden)
 
 
     e)  (nicht mehr anzuwenden)
@@ -19131,57 +16345,15 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-15. Personenbeförderungsgesetz in der Fassung der Bekanntmachung vom 8.
-    August 1990 (BGBl. I S. 1690)
-
-    mit folgenden Maßgaben:
-
-    a)  (nicht mehr anzuwenden)
-
-
-    b)  (nicht mehr anzuwenden)
-
-
-    c)  (nicht mehr anzuwenden)
-
-
-    d)  (nicht mehr anzuwenden)
-
-
-    e)  Genehmigungen, die Unternehmen gemäß § 3 der Verordnung über den
-        gewerblichen Personenverkehr vom 20. Juni 1990 (GBl. I Nr. 40 S. 574)
-        erhalten haben, gelten bis zum Ablauf ihrer Gültigkeit fort.
-
-
-    f)  Genehmigungen für den Vertragsverkehr gemäß § 1 Abs. 1 in Verbindung
-        mit § 2 der Verordnung über den gewerblichen Personenverkehr vom 20.
-        Juni 1990 (GBl. I Nr. 40 S. 574) gelten als Genehmigungen für
-        Sonderformen des Linienverkehrs gemäß § 2 Abs. 1 Nr. 3 in Verbindung
-        mit § 43 fort, soweit sie nicht auf Grund der Freistellungsverordnung
-        vom 30. August 1962 (BGBl. I S. 601), zuletzt geändert durch
-        Verordnung vom 30. Juni 1989 (BGBl. I S. 1273), von den Vorschriften
-        des Personenbeförderungsgesetzes freigestellt sind.
-
-
-    g)  (nicht mehr anzuwenden)
+15. bis 18. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel XI
+Sachgebiet C - Luftfahrt
 
-16. (nicht mehr anzuwenden)
-
-
-17. (nicht mehr anzuwenden)
-
-
-18. (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap XI C II Anlage I Kapitel XI Sachgebiet C - Luftfahrt Abschnitt II
+### Anlage I Kap XI C II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 Verordnung über die Erhebung von Gebühren für die Inanspruchnahme von
@@ -19192,8 +16364,10 @@ Schönefeld,", nach dem Wort "Bremen" das Wort "Dresden,", nach dem
 Wort "Düsseldorf" das Wort "Erfurt," und nach den Worten "Köln/Bonn"
 das Wort "Leipzig," eingefügt.
 
+Anlage I Kapitel XI
+Sachgebiet C - Luftfahrt
 
-### Anlage I Kap XI C III Anlage I Kapitel XI Sachgebiet C - Luftfahrt Abschnitt III
+### Anlage I Kap XI C III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -19225,8 +16399,10 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel XI
+Sachgebiet D - Seeverkehr
 
-### Anlage I Kap XI D II Anlage I Kapitel XI Sachgebiet D - Seeverkehr Abschnitt II
+### Anlage I Kap XI D II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
@@ -19296,8 +16472,10 @@ Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 
 
 
+Anlage I Kapitel XI
+Sachgebiet D - Seeverkehr
 
-### Anlage I Kap XI D III Anlage I Kapitel XI Sachgebiet D - Seeverkehr Abschnitt III
+### Anlage I Kap XI D III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -19341,21 +16519,7 @@ mit folgenden Maßgaben in Kraft:
 8.  (nicht mehr anzuwenden)
 
 
-9.  Schiffsvermessungsverordnung vom 5. Juli 1982 (BGBl. I S. 916, 1169),
-    zuletzt geändert durch Verordnung vom 3. September 1990 (BGBl. I S.
-    1993),
-
-    mit folgenden Maßgaben:
-
-    Für Schiffe, die bis zum Wirksamwerden des Beitritts zur Führung der
-    Staatsflagge der Deutschen Demokratischen Republik berechtigt waren,
-    sowie für Sport- und Vergnügungsfahrzeuge, die bis zum Wirksamwerden
-    des Beitritts nach einem vereinfachten Verfahren vermessen wurden,
-    gelten die Meßbriefe und amtlich erteilten Vermessungsbescheinigungen
-    als Meßbriefe und Bescheinigungen im Sinne von § 9, sofern innerhalb
-    von drei Monaten nach Wirksamwerden des Beitritts ein Antrag auf
-    Erteilung eines neuen Zeugnisses im Sinne von § 9 gestellt wird. Die
-    Erteilung ist in diesem Fall gebührenfrei.
+9.  (nicht mehr anzuwenden)
 
 
 10. Sportbootführerscheinverordnung-See vom 20. Dezember 1973 (BGBl. I S.
@@ -19378,14 +16542,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-11. Seetagebuchverordnung vom 8. Februar 1985 (BGBl. I S. 306)
-
-    mit folgender Maßgabe:
-
-    Von Schiffen der Deutschen Demokratischen Republik an Bord geführte
-    Schiffstagebücher und Maschinentagebücher dürfen bis zu einer
-    Neuregelung, mindestens für ein Jahr nach Wirksamwerden des Beitritts,
-    als Seetagebücher im Sinne der Verordnung weitergeführt werden.
+11. (nicht mehr anzuwenden)
 
 
 12. (nicht mehr anzuwenden)
@@ -19418,38 +16575,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-14. Schiffsoffizier-Ausbildungsverordnung vom 11. Februar 1985 (BGBl. I S.
-    323), geändert durch Verordnung vom 18. Dezember 1989 (BGBl. I S.
-    2457),
-
-    Schiffsmechaniker-Ausbildungsverordnung vom 24. März 1983 (BGBl. I S.
-    338), zuletzt geändert durch Verordnung vom 23. März 1988 (BGBl. I S.
-    402), und
-
-    Schiffsbetriebsmeister-Verordnung vom 18. April 1978 (BGBl. I S. 514)
-
-    mit folgenden Maßgaben:
-
-    a)  Die Vorschriften der Verordnungen, die organisatorische Änderungen im
-        Bildungs- und Berufsbildungsbereich voraussetzen, werden erst dann
-        angewendet, wenn die Voraussetzungen hierfür gegeben sind.
-
-
-    b)  Als Befähigungsnachweise im Sinne der Schiffsoffizier-
-        Ausbildungsverordnung gelten auch die entsprechenden vor Wirksamwerden
-        des Beitritts nach den bisherigen Vorschriften und gültigen
-        Befähigungszeugnisse, Berechtigungsscheine und Qualifikationsnachweise
-        mit den damit verbundenen Befugnissen.
-
-
-    c)  Die vor Wirksamwerden des Beitritts nach den bisherigen Vorschriften
-        der Deutschen Demokratischen Republik erworbenen Qualifikationen
-        werden bei Anwendung der Verordnungen von der zuständigen Stelle als
-        Zulassungsvoraussetzungen im Sinne dieser Verordnungen entsprechend
-        anerkannt.
-
-
-
+14. (nicht mehr anzuwenden)
 
 
 15. Verordnung über die Krankenfürsorge auf Kauffahrteischiffen vom 25.
@@ -19514,57 +16640,15 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel XI
+Sachgebiet E - Binnenschiffahrt und Wasserstraßen
 
-### Anlage I Kap XI E III Anlage I Kapitel XI Sachgebiet E - Binnenschiffahrt und Wasserstraßen Abschnitt III
+### Anlage I Kap XI E III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Binnenschiffs-Untersuchungsordnung vom 17. März 1988 (BGBl. I S. 238)
-
-    mit folgenden Maßgaben:
-
-    a)  Die Verordnung gilt für alle Binnenschiffe, deren Kiel nach
-        Wirksamwerden des Beitritts gelegt wird; auf bestehende Schiffe ist
-        sie in der Weise anzuwenden, daß eine Anpassung der technischen
-        Anforderungen an die geltenden Bestimmungen baldmöglichst erfolgt;
-        übergangsweise können jedoch die technischen Vorschriften als erfüllt
-        gelten, wenn die für diese Schiffe bisher geltenden Vorschriften
-        eingehalten sind; dies gilt jedoch längstens bis zu dem in Artikel 8
-        Abs. 2 der Richtlinie 82/714/EWG des Rates genannten Endtermin am 1.
-        Juli 1998.
-
-
-    b)  Die Schiffszeugnisse (Klassedokumente), die nach den bisherigen
-        Vorschriften der Deutschen Demokratischen Republik ausgestellt wurden,
-        gelten bis zum Ablauf ihrer Gültigkeit im bisherigen räumlichen
-        Geltungsbereich sowie auf den Wasserstraßen, die zum Geltungsbereich
-        der Binnenschiffahrtsstraßen-Ordn gehören, weiter.
-
-
-    c)  Die nach den bisherigen Vorschriften der Deutschen Demokratischen
-        Republik ausgestellten Schiffsstellenpläne gelten weiter, jedoch nicht
-        länger als bis zum Ablauf der Gültigkeit der Schiffszeugnisse.
-
-
-
-
-
-2.  Verordnung über die Eichung von Binnenschiffen vom 30. Juni 1975
-    (BGBl. I S. 1785), zuletzt geändert durch Verordnung vom 11. September
-    1989 (BGBl. I S. 1665),
-
-    mit folgender Maßgabe:
-
-    Die nach den bisher geltenden Vorschriften der Deutschen
-    Demokratischen Republik ausgestellten Eichscheine gelten bis zum
-    Ablauf ihrer Gültigkeit weiter.
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
+1.  bis 4. (nicht mehr anzuwenden)
 
 
 5.  (weggefallen)
@@ -19580,98 +16664,35 @@ mit folgenden Maßgaben in Kraft:
         gelten als Sportbootführerscheine im Sinne dieser Verordnung.
 
 
-    b)  Für die Fahrerlaubnispflicht gilt § 3 Abs. 1 Nr. 2 dieser Verordnung
-        auf den Wasserstraßen gemäß Kapitel IX bis XVII der
-        Binnenwasserstraßen-Verkehrsordnung (BWVO) der Deutschen
-        Demokratischen Republik (Sonderdruck Nr. 1318 des Gesetzblattes) in
-        der Fassung der Anordnung Nr. 2 vom 30. März 1990 (Sonderdruck Nr.
-        1318/1 des Gesetzblattes); für die Wasserstraßen im Land Berlin
-        einschließlich des Teils, in dem das Grundgesetz bisher nicht galt,
-        gilt jedoch abweichend § 2 Abs. 1 dieser Verordnung.
+    b)  (nicht mehr anzuwenden)
 
 
     c)  Für die Umschreibung von Befähigungszeugnissen gilt § 8 Satz 2 dieser
         Verordnung entsprechend.
 
 
-    d)  Der bisher in der Deutschen Demokratischen Republik zur Erteilung von
-        Befähigungsnachweisen berechtigte Sportverband Bund Deutscher Segler
-        (BDS) nimmt gemeinsam mit den bereits beauftragten Verbänden Deutscher
-        Motor-Yachtverband e.V. und Deutscher Segler-Verband e.V. die Aufgaben
-        nach § 11 wahr.
+    d)  (nicht mehr anzuwenden)
 
 
 
 
 
-7.  Bundeswasserstraßengesetz in der Fassung der Bekanntmachung vom 23.
-    August 1990 (BGBl. I S. 1818)
-
-    mit folgenden Maßgaben:
-
-    a)  § 56 Abs. 2 gilt entsprechend für die Fortführung der beim
-        Wirksamwerden des Beitritts anhängigen Verfahren und Maßnahmen zum
-        Ausbau oder Neubau von in dem in Artikel 3 des Vertrages genannten
-        Gebiet gelegenen Wasserstraßen.
-
-
-    b)  Der Bundesminister für Verkehr wird ermächtigt, zur Überleitung des
-        Bundesrechts im Einvernehmen mit dem Bundesminister der Finanzen die
-        in dem in Artikel 3 des Vertrages genannten Gebiet gelegenen
-        Wasserstraßen durch Rechtsverordnung zu Bundeswasserstraßen zu
-        erklären, die als Binnenwasserstraßen dem allgemeinen Verkehr dienen.
-        In der Rechtsverordnung ist die Anlage zum Gesetz zu ändern. § 2 des
-        Bundeswasserstraßengesetzes findet keine Anwendung.
+7.  (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel XI
+Sachgebiet F - Straßenbau
 
+### Anlage I Kap XI F III Abschnitt III
 
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
+Anlage I Kapitel XI
+Sachgebiet G - Allgemeine verkehrliche Bestimmungen
 
-### Anlage I Kap XI F III Anlage I Kapitel XI Sachgebiet F - Straßenbau Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Bundesfernstraßengesetz in der Fassung der Bekanntmachung vom 8.
-    August 1990 (BGBl. I S. 1714), geändert durch Gesetz vom 12. Februar
-    1990 (BGBl. I S. 205),
-
-    mit folgenden Maßgaben:
-
-    a)  Autobahnen und Fernverkehrsstraßen in dem in Artikel 3 des Vertrages
-        genannten Gebiet sind in dem in § 1 Abs. 4 bestimmten Umfang
-        Bundesautobahnen und Bundesstraßen (Bundesfernstraßen) im Sinne des
-        Gesetzes; § 2 Abs. 4 bleibt unberührt. Die Straßenbaulast für diese
-        Straßen geht auf den Bund und in den Fällen des § 5 Abs. 2 bis 3a auf
-        die Gemeinden über.
-
-
-    b)  Soweit der Bund Träger der Straßenbaulast wird, gehen gleichzeitig das
-        Eigentum an den Straßen sowie alle mit ihnen im Zusammenhang stehenden
-        Rechte und Pflichten auf den Bund über. Werden Gemeinden Träger der
-        Baulast, gehen das Eigentum an den Straßen sowie alle mit ihnen in
-        Zusammenhang stehenden Rechte und Pflichten auf sie über. § 6 findet
-        entsprechende Anwendung. Eigentumsrechte Privater bleiben unberührt.
-
-
-    c)  Anhängige Verfahren zum Bau oder zur Änderung von Autobahnen und
-        Fernverkehrsstraßen in dem in Artikel 3 des Vertrages genannten Gebiet
-        werden nach dem Bundesfernstraßengesetz und dem
-        Verwaltungsverfahrensgesetz zu Ende geführt, wenn eine abschließende
-        Sachentscheidung vor Wirksamwerden des Beitritts noch nicht ergangen
-        ist.
-
-
-
-
-
-
-
-
-### Anlage I Kap XI G II Anlage I Kapitel XI Sachgebiet G - Allgemeine verkehrliche Bestimmungen Abschnitt II
+### Anlage I Kap XI G II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -19784,13 +16805,16 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel XI
+Sachgebiet G - Allgemeine verkehrliche Bestimmungen
 
-### Anlage I Kap XI G III Anlage I Kapitel XI Sachgebiet G - Allgemeine verkehrliche Bestimmungen Abschnitt III
+### Anlage I Kap XI G III Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel XII
 
-### Anlage I Kap XII Anlage I Kapitel XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+### Anlage I Kap XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1114 - 1119)
 
@@ -19812,8 +16836,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XII A III) - Ausgegeben
 
 
 
+Anlage I Kapitel XII
+Sachgebiet A - Immissionsschutzrecht
 
-### Anlage I Kap XII A II Anlage I Kapitel XII Sachgebiet A - Immissionsschutzrecht Abschnitt II
+### Anlage I Kap XII A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 Bundes-Immissionsschutzgesetz in der Fassung der Bekanntmachung vom
@@ -19932,8 +16958,10 @@ d)  Dem § 74 wird folgender Satz angefügt:
 
 
 
+Anlage I Kapitel XII
+Sachgebiet A - Immissionsschutzrecht
 
-### Anlage I Kap XII A III Anlage I Kapitel XII Sachgebiet A - Immissionsschutzrecht Abschnitt III
+### Anlage I Kap XII A III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -19958,8 +16986,10 @@ mit folgenden Maßgaben in Kraft:
 
 
 
+Anlage I Kapitel XII
+Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz
 
-### Anlage I Kap XII B II Anlage I Kapitel XII Sachgebiet B - Kerntechnische Sicherheit und Strahlenschutz Abschnitt II
+### Anlage I Kap XII B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -20053,28 +17083,17 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel XII
+Sachgebiet C - Wasserwirtschaft
 
-### Anlage I Kap XII C III Anlage I Kapitel XII Sachgebiet C - Wasserwirtschaft Abschnitt III
+### Anlage I Kap XII C III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 4 nicht mehr anzuwenden)
 
-1.  (nicht mehr anzuwenden)
+Anlage I Kapitel XII
+Sachgebiet D - Abfallwirtschaft
 
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-4.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap XII D II Anlage I Kapitel XII Sachgebiet D - Abfallwirtschaft Abschnitt II
+### Anlage I Kap XII D II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 Abfallgesetz vom 27. August 1986 (BGBl. I S. 1410, 1501), zuletzt
@@ -20172,47 +17191,23 @@ d)  Nach § 31 wird folgender § 32 eingefügt:
 
 
 
+Anlage I Kapitel XII
+Sachgebiet E - Chemikalienrecht
 
-### Anlage I Kap XII E III Anlage I Kapitel XII Sachgebiet E - Chemikalienrecht Abschnitt III
+### Anlage I Kap XII E III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 bis 3 nicht mehr anzuwenden)
 
-1.  Chemikaliengesetz in der Fassung der Bekanntmachung vom 14. März 1990
-    (BGBl. I S. 521)
+Anlage I Kapitel XII
+Sachgebiet F - Naturschutz und Landschaftspflege
 
-    mit folgenden Maßgaben:
-
-    a)  § 19a Abs. 5 ist mit der Maßgabe anzuwenden, daß in Satz 1 und 2
-        jeweils an Stelle des Datums "5. April 1989" das Datum "1. August
-        1990" tritt.
-
-
-    b)  § 19a Abs. 5 Satz 1 Nr. 2 Buchstabe a findet keine Anwendung.
-
-
-    c)  § 19a Abs. 5 ist mit der Maßgabe anzuwenden, daß in Satz 2 an Stelle
-        des Datums "1. April 1990" das Datum "1. August 1990" tritt.
-
-
-
-
-
-2.  (nicht mehr anzuwenden)
-
-
-3.  (nicht mehr anzuwenden)
-
-
-
-
-
-### Anlage I Kap XII F III Anlage I Kapitel XII Sachgebiet F - Naturschutz und Landschaftspflege Abschnitt III
+### Anlage I Kap XII F III Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel XIII
 
-### Anlage I Kap XIII Anlage I Kapitel XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
+### Anlage I Kap XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1120 - 1121)
 
@@ -20235,8 +17230,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIII A III) -
 
 
 
+Anlage I Kapitel XIII
+Sachgebiet A - Postverfassungsrecht
 
-### Anlage I Kap XIII A II Anlage I Kapitel XIII Sachgebiet A - Postverfassungsrecht Abschnitt II
+### Anlage I Kap XIII A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder aufgehoben:
 
@@ -20259,41 +17256,17 @@ Bundesrecht wird wie folgt geändert oder aufgehoben:
 
 
 
+Anlage I Kapitel XIII
+Sachgebiet A - Postverfassungsrecht
 
-### Anlage I Kap XIII A III Anlage I Kapitel XIII Sachgebiet A - Postverfassungsrecht Abschnitt III
+### Anlage I Kap XIII A III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  Postverfassungsgesetz vom 8. Juni 1989 (BGBl. I S. 1026)
+Anlage I Kapitel XIII
+Sachgebiet B - Postwesen
 
-    a)  § 59 ist mit folgender Maßgabe anzuwenden:
-
-        Die Zuordnung des Personals der auf der Grundlage von Artikel 13 Abs.
-        2 des Vertrages überführten Einrichtungen der Deutschen Post zu den
-        einzelnen Unternehmen der Deutschen Bundespost obliegt als gemeinsame
-        Aufgabe den Vorständen der Unternehmen der Deutschen Bundespost; in
-        Streitfällen entscheidet der Bundesminister für Post- und
-        Telekommunikation.
-
-
-    b)  § 65 ist mit folgender Maßgabe anzuwenden:
-
-        Die Absätze 1 bis 4 sind entsprechend auf Rechtsvorschriften der
-        Deutschen Demokratischen Republik anzuwenden. Bei der Anwendung des
-        Absatzes 1 treten in Satz 1 die Worte "am 31. Dezember 1991" an die
-        Stelle der Worte "zwei Jahre nach dem Inkrafttreten dieses Gesetzes"
-        und entfallen in Satz 2 die Worte "innerhalb eines Jahres nach
-        Inkrafttreten dieses Gesetzes."
-
-
-
-
-
-
-
-
-### Anlage I Kap XIII B I Anlage I Kapitel XIII Sachgebiet B - Postwesen Abschnitt I
+### Anlage I Kap XIII B I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -20356,108 +17329,23 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel XIII
+Sachgebiet B - Postwesen
 
-### Anlage I Kap XIII B III Anlage I Kapitel XIII Sachgebiet B - Postwesen Abschnitt III
+### Anlage I Kap XIII B III Abschnitt III
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  Das Gesetz über das Postwesen in der Fassung der Bekanntmachung vom 3.
-    Juli 1989 (BGBl. I S. 1449),
+Anlage I Kapitel XIII
+Sachgebiet C - Fernmeldewesen
 
-    ist mit folgender Maßgabe anzuwenden:
+### Anlage I Kap XIII C III Abschnitt III
 
-    In § 12 Abs. 3 werden nach dem Wort "Paketen" ein Komma und die Worte
-    "Wirtschaftspaketen oder Poststücken" eingefügt.
+(Abschnitt III Nr. 1 und 2 nicht mehr anzuwenden)
 
+Anlage I Kapitel XIV
 
-
-
-
-### Anlage I Kap XIII C III Anlage I Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Das Gesetz über Fernmeldeanlagen in der Fassung der Bekanntmachung vom
-    3\. Juli 1989 (BGBl. I S. 1455)
-
-    ist mit folgender Maßgabe anzuwenden:
-
-    In § 25 wird die Angabe "1. Juli 1990" durch die Angabe "31. Dezember
-    1991" ersetzt.
-
-
-2.  Die Telekommunikationsordnung in der Fassung der Bekanntmachung vom
-    16\. Juli 1987 (BGBl. I S. 1761), zuletzt geändert durch Gesetz vom 18.
-    Dezember 1989 (BGBl. I S. 2261), sowie die
-    Auslandstelekommunikationsordnung vom 4. Februar 1988 (BGBl. I S.
-    119), zuletzt geändert durch Verordnung vom 26. Juni 1989 (BGBl. I S.
-    1231) und die Auslandstelekommunikationsgebührenordnung vom 4. Februar
-    1988 (BGBl. I S. 127), zuletzt geändert durch Verordnung vom 26. Juni
-    1989 (BGBl. I S. 1234),
-
-    treten insoweit in Kraft, als dies zur Durchführung der folgenden
-    Dienste erforderlich ist:
-
-    -   Telefax-Dienst
-
-
-    -   Teletex-Dienst
-
-
-    -   Datenübermittlungsdienst
-
-
-    -   mobiler Funktelefondienst im C-Netz
-
-
-    -   Funkrufdienst (City-Ruf)
-
-
-    -   Bildschirmtext-Dienst
-
-
-    -   Bildübermittlungsdienst
-
-
-    -   Bündelfunknetze (Chekker)
-
-
-    -   Telepoint (Birdi)
-
-
-    -   Videokommunikation/Videokonferenz
-
-
-    -   Satellitenverteildienste
-
-
-    -   Breitbandverteildienst
-
-
-    -   Temex-Dienst
-
-
-    -   Rundfunkübermittlungsdienst
-
-
-    -   Besonderer Funkdienst für die Seeschiffahrt
-
-
-    -   Funknachrichten an einen oder mehrere Empfänger
-
-
-    -   Übermittlungsdienst für Presseinformationen
-
-
-
-
-
-
-
-
-### Anlage I Kap XIV Anlage I Kapitel XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+### Anlage I Kap XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1122 - 1128)
 
@@ -20474,8 +17362,9 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIV III) - Ausgegeben
 
 
 
+Anlage I Kapitel XIV
 
-### Anlage I Kap XIV I Anlage I Kapitel XIV Abschnitt I
+### Anlage I Kap XIV I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 sind ausgenommen:
@@ -20491,8 +17380,9 @@ sind ausgenommen:
 
 
 
+Anlage I Kapitel XIV
 
-### Anlage I Kap XIV II Anlage I Kapitel XIV Abschnitt II
+### Anlage I Kap XIV II Abschnitt II
 
 Bundesrecht wird wie folgt ergänzt:
 
@@ -21183,20 +18073,23 @@ Bundesrecht wird wie folgt ergänzt:
 
 
 
+Anlage I Kapitel XIV
 
-### Anlage I Kap XIV III Anlage I Kapitel XIV Abschnitt III
+### Anlage I Kap XIV III Abschnitt III
 
 (Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel XV
 
-### Anlage I Kap XV Anlage I Kapitel XV Geschäftsbereich des Bundesministers für Forschung und Technologie
+### Anlage I Kap XV Geschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1129)
 
 -
 
+Anlage I Kapitel XVI
 
-### Anlage I Kap XVI Anlage I Kapitel XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
+### Anlage I Kap XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1130 - 1136)
 
@@ -21218,8 +18111,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVI C III) - Ausgegeben
 
 
 
+Anlage I Kapitel XVI
+Sachgebiet A - Hochschulen
 
-### Anlage I Kap XVI A II Anlage I Kapitel XVI Sachgebiet A - Hochschulen Abschnitt II
+### Anlage I Kap XVI A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert oder ergänzt:
 
@@ -21471,8 +18366,10 @@ Bundesrecht wird wie folgt geändert oder ergänzt:
 
 
 
+Anlage I Kapitel XVI
+Sachgebiet B - Ausbildungsförderung
 
-### Anlage I Kap XVI B II Anlage I Kapitel XVI Sachgebiet B - Ausbildungsförderung Abschnitt II
+### Anlage I Kap XVI B II Abschnitt II
 
 Bundesrecht wird wie folgt aufgehoben, geändert oder ergänzt:
 Bundesausbildungsförderungsgesetz in der Fassung der Bekanntmachung
@@ -22038,8 +18935,10 @@ treten in dem in Artikel 3 des Einigungsvertrages genannten Gebiet am
 
 
 
+Anlage I Kapitel XVI
+Sachgebiet C - Berufliche Bildung
 
-### Anlage I Kap XVI C II Anlage I Kapitel XVI Sachgebiet C - Berufliche Bildung Abschnitt II
+### Anlage I Kap XVI C II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -22058,180 +18957,35 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel XVI
+Sachgebiet C - Berufliche Bildung
 
-### Anlage I Kap XVI C III Anlage I Kapitel XVI Sachgebiet C - Berufliche Bildung
+### Anlage I Kap XVI C III 
 
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
+(Abschnitt III Nr. 1 nicht mehr anzuwenden)
 
-1.  Berufsbildungsgesetz vom 14. August 1969 (BGBl. I S. 1112), zuletzt
-    geändert durch § 19 des Gesetzes vom 23. Dezember 1981 (BGBl. I S.
-    1692), und auf Grund § 21 Abs. 1 und 2, §§ 25, 29 Abs. 1, § 43 Abs. 1
-    und 2, § 46 Abs. 2, § 47 Abs. 3, § 76 Abs. 2, § 77 Abs. 5, § 80 Abs.
-    2, § 81 Abs. 4, § 82 Abs. 2, §§ 93, 95 Abs. 4, § 96 Abs. 2 erlassene
-    Rechtsverordnungen
+Anlage I Kapitel XVI
+Sachgebiet D - Fernunterricht
 
-    mit folgenden Maßgaben:
+### Anlage I Kap XVI D III Abschnitt III
 
-    a)  Rechtsverordnungen nach § 21 Abs. 1 des Gesetzes bedürfen der
-        gesonderten Inkraftsetzung durch den Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf. Rechtsverordnungen nach § 29 Abs. 1 und § 43 des
-        Gesetzes bedürfen der gesonderten Inkraftsetzung durch den
-        Bundesminister für Wirtschaft oder den sonst zuständigen Fachminister
-        im Einvernehmen mit dem Bundesminister für Bildung und Wissenschaft
-        durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
-        bedarf.
+(Abschnitt III nicht mehr anzuwenden)
 
+Anlage I Kapitel XVII
 
-    b)  Die zuständige Stelle kann bis zum 31. Dezember 1995 Ausnahmen von den
-        Ausbildungsverordnungen nach § 25 des Gesetzes zulassen, wenn die
-        durch technische Regeln gesetzten Anforderungen noch nicht erfüllt
-        werden können. Die Ausnahmen sind zu befristen. Der Bundesminister für
-        Wirtschaft oder der sonst zuständige Fachminister kann im Einvernehmen
-        mit dem Bundesminister für Bildung und Wissenschaft durch
-        Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die
-        Befugnis nach Satz 1 einschränken oder aufheben.
-
-
-    c)  Die Regelungen in Ausbildungsverordnungen nach § 25 des Gesetzes über
-        die Ausbildung in überbetrieblichen Ausbildungsstätten (§ 27 des
-        Gesetzes) werden nicht angewendet, wenn die zuständige Stelle
-        feststellt, daß eine solche Ausbildung nicht möglich ist.
-
-
-    d)  Bei Inkrafttreten des Gesetzes über die Inkraftsetzung des
-        Berufsbildungsgesetzes der Bundesrepublik Deutschland in der Deutschen
-        Demokratischen Republik - IGBBiG - vom 19. Juli 1990 (GBl. I Nr. 50 S.
-        907) bestehende Ausbildungsverhältnisse werden nach den neuen
-        Vorschriften zu Ende geführt, es sei denn, daß eine Ausbildung nach
-        den neuen Vorschriften nicht möglich ist oder der Lehrling eine
-        Fortsetzung nach den bisherigen Vorschriften ausdrücklich wünscht.
-        Sofern die Beendigung des Lehrverhältnisses nach den neuen
-        Ausbildungsverordnungen im bisherigen Betrieb nicht möglich ist, sind
-        das zuständige Arbeitsamt und die zuständige Stelle verpflichtet, den
-        Lehrling zu unterstützen, einen neuen Ausbildungsbetrieb zu finden,
-        der die Ausbildung nach den neuen Ausbildungsverordnungen fortsetzt.
-
-
-    e)  Die Ausbildungszeit soll nach § 29 Abs. 3 des Gesetzes verlängert
-        werden, soweit eine Berufsausbildung mit Abitur durchgeführt wird.
-
-
-    f)  (nicht mehr anzuwenden)
-
-
-    g)  Die Betriebe sind verpflichtet, die praktische Berufsausbildung
-        zweckentsprechend aufrecht zu erhalten, soweit dies zur Erfüllung von
-        Lehrverträgen erforderlich ist, die vor Inkrafttreten des Gesetzes
-        über die Inkraftsetzung des Berufsbildungsgesetzes der Bundesrepublik
-        Deutschland in der Deutschen Demokratischen Republik - JGBBiG - vom
-        19\. Juli 1990 (GBl. I Nr. 50 S. 907) abgeschlossen worden sind. Für
-        Betriebsakademien und andere der beruflichen Bildung dienende
-        Einrichtungen ist dies mindestens bis zum 31. Dezember 1990 zu
-        gewährleisten. Auf Antrag der Handwerkskammern und der Industrie- und
-        Handelskammern ist durch die Betriebe zu prüfen, inwieweit vorhandene
-        Kapazitäten der praktischen Berufsausbildung (insbesondere
-        Lehrwerkstätten) als überbetriebliche Ausbildungsstätten genutzt
-        werden oder als Treuhandvermögen an die vorgenannten Kammern zur
-        Nutzung übertragen werden können.
-
-
-    h)  Solange die in §§ 79, 87, 89 und 91 des Gesetzes genannten zuständigen
-        Stellen nicht bestehen, bestimmt das Land die zuständige Stelle.
-
-
-    i)  Lehrlinge, die gemäß der Systematik der Facharbeiterberufe ausgebildet
-        werden, werden nach den bisherigen Rechtsvorschriften geprüft, soweit
-        nicht der Bundesminister für Wirtschaft oder der sonst zuständige
-        Fachminister im Einvernehmen mit dem Bundesminister für Bildung und
-        Wissenschaft durch Rechtsverordnung, die nicht der Zustimmung des
-        Bundesrates bedarf, Übergangsvorschriften für Verfahren und
-        Zuständigkeiten erläßt.
-
-
-    k)  Die am Tage des Wirksamwerdens des Beitritts laufenden
-        Prüfungsverfahren in der beruflichen Fortbildung und beruflichen
-        Umschulung werden nach den bisherigen Vorschriften zu Ende geführt.
-
-
-
-
-
-
-
-
-### Anlage I Kap XVI D III Anlage I Kapitel XVI Sachgebiet D - Fernunterricht Abschnitt III
-
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-
-1.  Fernunterrichtsschutzgesetz vom 24. August 1976 (BGBl. I S. 2525),
-    zuletzt geändert durch das Gesetz vom 3. Dezember 1976 (BGBl. I S.
-    3281)
-
-    mit folgender Maßgabe:
-
-    Ein Fernlehrgang, der von der Staatlichen Zentralstelle für
-    Fernunterricht nach den §§ 12 und 13 des Fernunterrichtsschutzgesetzes
-    zugelassen ist, gilt bis zum 31. Dezember 1991 in den in Artikel 1
-    Abs. 1 des Vertrages genannten Ländern und in dem Teil des Landes
-    Berlin, in dem das Grundgesetz bisher nicht galt, als zugelassen.
-
-
-
-
-
-### Anlage I Kap XVII Anlage I Kapitel XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+### Anlage I Kap XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1137)
 
--
+Anlage I Kapitel XVII
 
+### Anlage I Kap XVII III Abschnitt III
 
-### Anlage I Kap XVII III Anlage I Kapitel XVII Abschnitt III
+(Abschnitt III nicht mehr anzuwenden)
 
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-Entwicklungshelfer-Gesetz vom 18. Juni 1969 (BGBl. I S. 549), zuletzt
-geändert durch Artikel 75 des Gesetzes vom 18. Dezember 1989 (BGBl. I
-S. 2261),
-mit folgenden Maßgaben:
+Anlage I Kapitel XVIII
 
-a)  Soweit in § 8 Abs. 2 auf § 3 Abs. 2 und § 6 Abs. 1 des
-    Mutterschutzgesetzes Bezug genommen wird, gilt bis zu dessen
-    Überleitung am 1. Januar 1991 für Geburten vor dem 1. Januar 1991 §
-    244 Abs. 1 bis 3 des Arbeitsgesetzbuches vom 16. Juni 1977 (GBl. I Nr.
-    18 S. 185), zuletzt geändert durch Gesetz vom 22. Juni 1990 (GBl. I
-    Nr. 35 S. 371) \*).
-
-    b)  Soweit in den §§ 9 bis 11 auf Rechtsvorschriften des
-        Rentenversicherungsrechts Bezug genommen wird, sind bis zum 31.
-        Dezember 1991 die für die Renten- und Unfallversicherung geltenden
-        Rechtsvorschriften in Anlage II Kapitel VIII Sachgebiet F Abschnitt
-        III heranzuziehen.
-
-
-    c)  Als Beitragssatz und Beitragsbemessungsgrenze nach § 7 Abs. 2 Satz 1
-        letzter Teilsatz sind bis zum 31. Dezember 1990 die für die
-        gesetzliche Krankenversicherung in dem in Artikel 3 des Vertrages
-        genannten Gebiet geltenden Werte zugrunde zu legen.
-
-
-
-
-
-
------
-
-\*) siehe Anlage II Kapitel X Sachgebiet A Abschnitt III Nr. 1
-
-
-
-
-
-### Anlage I Kap XVIII Anlage I Kapitel XVIII Statistik
+### Anlage I Kap XVIII Statistik
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1138)
 
@@ -22248,8 +19002,9 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XVIII II) - Ausgegeben
 
 
 
+Anlage I Kapitel XVIII
 
-### Anlage I Kap XVIII I Anlage I Kapitel XVIII Abschnitt I
+### Anlage I Kap XVIII I Abschnitt I
 
 Von dem Inkrafttreten des Bundesrechts gemäß Artikel 8 des Vertrages
 ist ausgenommen:
@@ -22262,14 +19017,15 @@ ist ausgenommen:
 
 
 
+Anlage I Kapitel XVIII
 
-### Anlage I Kap XVIII II Anlage I Kapitel XVIII Abschnitt II
+### Anlage I Kap XVIII II Abschnitt II
 
-Bundesrecht wird wie folgt ergänzt:
-(nicht mehr anzuwenden)
+(Abschnitt II nicht mehr anzuwenden)
 
+Anlage I Kapitel XIX
 
-### Anlage I Kap XIX Anlage I Kapitel XIX Recht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
+### Anlage I Kap XIX Recht der im öffentlichen Dienst stehenden Personen einschließlich des Rechts der Soldaten
 
 (Fundstelle in der Anlage I des EinigVtr - BGBl. II 1990, 1139 - 1147)
 
@@ -22291,8 +19047,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage I Kap XIX B III) - Ausgegeben
 
 
 
+Anlage I Kapitel XIX
+Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
-### Anlage I Kap XIX A II Anlage I Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt II
+### Anlage I Kap XIX A II Abschnitt II
 
 Bundesrecht wird wie folgt geändert:
 
@@ -22382,8 +19140,10 @@ Bundesrecht wird wie folgt geändert:
 
 
 
+Anlage I Kapitel XIX
+Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
-### Anlage I Kap XIX A III Anlage I Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt III
+### Anlage I Kap XIX A III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
@@ -22500,34 +19260,15 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-10. bis 16. (nicht mehr anzuwenden)
-
-
-17. Wehrsoldgesetz in der Fassung der Bekanntmachung vom 20. Februar 1978
-    (BGBl. I S. 265), zuletzt geändert durch Artikel 2 des Gesetzes vom
-    19\. Juli 1990 (BGBl. I S. 1451), und die zu seiner Ausführung
-    erlassenen Rechtsvorschriften
-
-    mit folgender Maßgabe:
-
-    Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die bis
-    zum 30. September 1992 zu erlassen ist und nicht der Zustimmung des
-    Bundesrates bedarf, Übergangsregelungen zu treffen, die den besonderen
-    Verhältnissen in dem in Artikel 3 des Vertrages genannten Gebiet
-    Rechnung tragen. Die Verordnungsermächtigung erstreckt sich auch
-    darauf, die Bezüge nach dem Wehrsoldgesetz entsprechend den
-    allgemeinen wirtschaftlichen und finanziellen Verhältnissen in dem in
-    Artikel 3 des Vertrages genannten Gebiet abweichend vom Wehrsoldgesetz
-    und den dazu erlassenen Rechtsvorschriften festzusetzen und regelmäßig
-    anzupassen. Die Übergangsregelungen sind zu befristen. Bis zum
-    Inkrafttreten der Rechtsverordnung sind die am Tage vor dem
-    Wirksamwerden des Beitritts geltenden Bestimmungen weiter anzuwenden.
+10. bis 17. (nicht mehr anzuwenden)
 
 
 
 
+Anlage I Kapitel XIX
+Sachgebiet B - Recht der Soldaten
 
-### Anlage I Kap XIX B II Anlage I Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt II
+### Anlage I Kap XIX B II Abschnitt II
 
 Bundesrecht wird wie folgt geändert und ergänzt:
 
@@ -22783,53 +19524,15 @@ Bundesrecht wird wie folgt geändert und ergänzt:
 
 
 
+Anlage I Kapitel XIX
+Sachgebiet B - Recht der Soldaten
 
-### Anlage I Kap XIX B III Anlage I Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt III
+### Anlage I Kap XIX B III Abschnitt III
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:
 
-1.  Wehrpflichtgesetz in der Fassung der Bekanntmachung vom 13. Juni 1986
-    (BGBl. I S. 879), zuletzt geändert durch Artikel 1 des Gesetzes vom
-    30\. Juni 1989 (BGBl. I S. 1292),
-
-    mit folgender Maßgabe:
-
-    Die Dauer des Grundwehrdienstes nach § 5 Abs. 1 sowie dessen
-    Beendigung richten sich für die Wehrpflichtigen, die als Angehörige
-    der ehemaligen Nationalen Volksarmee in dem in Artikel 3 des Vertrages
-    genannten Gebiet zum Zeitpunkt des Beitritts Grundwehrdienst leisten,
-    nach dem bisherigen Recht der Deutschen Demokratischen Republik.
-
-
-2.  Verordnung über das Ausbildungsgeld für Sanitätsoffizier-Anwärter vom
-    10\. November 1976 (BGBl. I S. 3229), zuletzt geändert durch Verordnung
-    vom 11. August 1990 (BGBl. I S. 1757),
-
-    mit folgender Maßgabe:
-
-    Die Bundesregierung setzt die jeweilige Höhe des Ausbildungsgeldes
-    unter Berücksichtigung der allgemeinen wirtschaftlichen und
-    finanziellen Verhältnisse in dem in Artikel 3 des Vertrages genannten
-    Gebiet durch Rechtsverordnung fest.
-
-
-3.  Mutterschutzverordnung für weibliche Sanitätsoffiziere vom 29. Januar
-    1986 (BGBl. I S. 239)
-
-    mit folgender Maßgabe:
-
-    Die Verordnung tritt in dem in Artikel 3 des Vertrages genannten
-    Gebiet am 1. Januar 1991 in Kraft und ist auf Geburten nach dem 31.
-    Dezember 1990 anzuwenden.
-
-
-4.  Erziehungsurlaubsverordnung für weibliche Sanitätsoffiziere vom 29.
-    Januar 1986 (BGBl. I S. 240)
-
-    mit folgender Maßgabe:
-
-    Die Maßgabe zu Nummer 3 gilt entsprechend.
+1.  bis 4. (nicht mehr anzuwenden)
 
 
 5.  Soldatenversorgungsgesetz in der Fassung der Bekanntmachung vom 5.
@@ -22854,10 +19557,7 @@ mit folgenden Maßgaben in Kraft:
         Beitritts eine Wehrdienstbeschädigung erleiden.
 
 
-    c)  Bei der Berechnung der Dienstzeit nach § 15 Abs. 2 des
-        Soldatenversorgungsgesetzes können nur Zeiten ab Wirksamwerden des
-        Beitritts berücksichtigt werden. Diese Übergangsregelung tritt fünf
-        Jahre nach Wirksamwerden des Beitritts außer Kraft.
+    c)  (nicht mehr anzuwenden)
 
 
     d)  Nicht anzuwenden sind die Vorschriften des § 43 des
@@ -22869,17 +19569,7 @@ mit folgenden Maßgaben in Kraft:
 
 
 
-6.  Unterhaltssicherungsgesetz in der Fassung der Bekanntmachung vom 14.
-    Dezember 1987 (BGBl. I S. 2614), zuletzt geändert durch Artikel 1 des
-    Gesetzes vom 25. April 1990 (BGBl I S. 769),
-
-    mit folgender Maßgabe:
-
-    Die Bundesregierung wird ermächtigt, durch Rechtsverordnung, die nicht
-    der Zustimmung des Bundesrates bedarf, die Höhe der in Beträgen
-    festgeschriebenen Leistungen sowie die Leistungsgrenzen entsprechend
-    den wirtschaftlichen und finanziellen Verhältnissen in dem in Artikel
-    3 des Vertrages genannten Gebiet anzupassen.
+6.  (nicht mehr anzuwenden)
 
 
 
@@ -23051,15 +19741,15 @@ und Anlage II auch ohne zusätzliche Vereinbarung zwischen der
 Bundesrepublik Deutschland und der Deutschen Demokratischen Republik
 mit den in dieser Anlage niedergelegten Maßgaben in Kraft.
 
+Anlage II Kapitel I
 
-### Anlage II Kap I Anlage II Kapitel I Geschäftsbereich des Bundesministers des Auswärtigen
+### Anlage II Kap I Geschäftsbereich des Bundesministers des Auswärtigen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1149)
 
--
+Anlage II Kapitel I
 
-
-### Anlage II Kap I I Anlage II Kapitel I Abschnitt I
+### Anlage II Kap I I Abschnitt I
 
 Folgende Verträge der Deutschen Demokratischen Republik gemäß Artikel
 12 des Vertrages gelten in dem in Artikel 3 des Vertrages genannten
@@ -23086,8 +19776,9 @@ Gebiet weiter:
 
 
 
+Anlage II Kapitel II
 
-### Anlage II Kap II Anlage II Kapitel II Geschäftsbereich des Bundesministers des Innern
+### Anlage II Kap II Geschäftsbereich des Bundesministers des Innern
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1150 -
 1152)
@@ -23112,14 +19803,18 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap II B III) - Ausgegeben
 
 
 
+Anlage II Kapitel II
+Sachgebiet A - Staats- und Verfassungsrecht
 
-### Anlage II Kap II A I Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt I
+### Anlage II Kap II A I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Länderwahlgesetz - LWG - vom 22. Juli 1990 (GBl. I Nr. 51 S. 960)
 
+Anlage II Kapitel II
+Sachgebiet A - Staats- und Verfassungsrecht
 
-### Anlage II Kap II A II Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt II
+### Anlage II Kap II A II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -23128,19 +19823,17 @@ des Ländereinführungsgesetzes vom 22. Juli 1990 (GBl. I Nr. 51 S. 955)
 mit folgenden Änderungen: In § 1 Abs. 1 und § 25 Abs. 1 tritt an die
 Stelle des Datums 14. Oktober 1990 das Datum 3. Oktober 1990.
 
+Anlage II Kapitel II
+Sachgebiet A - Staats- und Verfassungsrecht
 
-### Anlage II Kap II A III Anlage II Kapitel II Sachgebiet A - Staats- und Verfassungsrecht Abschnitt III
+### Anlage II Kap II A III Abschnitt III
 
-Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
-folgenden Maßgaben in Kraft:
-§§ 20a und 20b des Parteiengesetzes der Deutschen Demokratischen
-Republik vom 21. Februar 1990 (GBl. I Nr. 9 S. 66), das zuletzt durch
-Gesetz vom 22. Juli 1990 (GBl. I Nr. 49 S. 904) geändert worden ist,
-mit folgenden Maßgaben:
-a) bis d) (nicht mehr anzuwenden)
+(Abschnitt III Buchst. a bis d nicht mehr anzuwenden)
 
+Anlage II Kapitel II
+Sachgebiet B - Verwaltung
 
-### Anlage II Kap II B I Anlage II Kapitel II Sachgebiet B - Verwaltung Abschnitt I
+### Anlage II Kap II B I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 Gesetz über die Selbstverwaltung der Gemeinden und Landkreise in der
@@ -23157,8 +19850,10 @@ DDR (Kommunalverfassung) vom 17. Mai 1990 (GBl. I Nr. 28 S. 255) \*)
 
 
 
+Anlage II Kapitel II
+Sachgebiet B - Verwaltung
 
-### Anlage II Kap II B III Anlage II Kapitel II Sachgebiet B - Verwaltung Abschnitt III
+### Anlage II Kap II B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -23255,8 +19950,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel II
+Sachgebiet C - Öffentliche Sicherheit
 
-### Anlage II Kap II C III Anlage II Kapitel II Sachgebiet C - Öffentliche Sicherheit Abschnitt III
+### Anlage II Kap II C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -23309,8 +20006,9 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel III
 
-### Anlage II Kap III Anlage II Kapitel III Geschäftsbereich des Bundesministers der Justiz
+### Anlage II Kap III Geschäftsbereich des Bundesministers der Justiz
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1153 -
 1193)
@@ -23334,8 +20032,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap III C III) -
 
 
 
+Anlage II Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage II Kap III A I Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt I
+### Anlage II Kap III A I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -23387,8 +20087,10 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage II Kap III A II Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt II
+### Anlage II Kap III A II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Aufhebungen, Änderungen, Ergänzungen und Maßgaben in Kraft:
@@ -23721,8 +20423,10 @@ folgenden Aufhebungen, Änderungen, Ergänzungen und Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage II Kap III A III Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt III
+### Anlage II Kap III A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt -
 unbeschadet der Maßgabe y) zum Deutschen Richtergesetz - Nr. 8 - in
@@ -23852,8 +20556,10 @@ Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet A - Rechtspflege
 
-### Anlage II Kap III A IV Anlage II Kapitel III Sachgebiet A - Rechtspflege Abschnitt IV
+### Anlage II Kap III A IV Abschnitt IV
 
 In dem Teil des Landes Berlin, in dem das Grundgesetz bisher nicht
 galt, gelten folgende Besonderheiten:
@@ -23904,8 +20610,10 @@ galt, gelten folgende Besonderheiten:
 
 
 
+Anlage II Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage II Kap III B I Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt I
+### Anlage II Kap III B I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -24964,8 +21672,10 @@ Deutschen Demokratischen Republik in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage II Kap III B II Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt II
+### Anlage II Kap III B II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Aufhebungen in Kraft:
@@ -24995,8 +21705,10 @@ folgenden Aufhebungen in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet B - Bürgerliches Recht
 
-### Anlage II Kap III B III Anlage II Kapitel III Sachgebiet B - Bürgerliches Recht Abschnitt III
+### Anlage II Kap III B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25072,17 +21784,18 @@ h)  § 10 erhält unter Verzicht auf eine Untergliederung in Absätze
 
 
 
+Anlage II Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-### Anlage II Kap III C I Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt I
+### Anlage II Kap III C I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 1.  §§ 84,
-    149,                    153 bis 155, 238 des Strafgesetzbuches der
-    Deutschen Demokratischen Republik - StGB - vom 12. Januar 1968 in der
-    Neufassung vom 14. Dezember 1988 (GBl. I 1989 Nr. 3 S. 33), geändert
-    durch das 6. Strafrechtsänderungsgesetz vom 29. Juni 1990 (GBl. I Nr.
-    39 S. 526),
+    149, 153 bis 155, 238 des Strafgesetzbuches der Deutschen
+    Demokratischen Republik - StGB - vom 12. Januar 1968 in der Neufassung
+    vom 14. Dezember 1988 (GBl. I 1989 Nr. 3 S. 33), geändert durch das 6.
+    Strafrechtsänderungsgesetz vom 29. Juni 1990 (GBl. I Nr. 39 S. 526),
 
 
 2.  §§ 8 bis 10 des 6. Strafrechtsänderungsgesetzes der Deutschen
@@ -25108,8 +21821,10 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-### Anlage II Kap III C II Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt II
+### Anlage II Kap III C II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgender Änderung in Kraft:
@@ -25132,8 +21847,10 @@ wer gegen eine Rechtsvorschrift, eine vollziehbare Untersagung,
 Anordnung oder Auflage verstößt, die dem Schutz des Bodens vor
 Verunreinigungen dient."
 
+Anlage II Kapitel III
+Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht
 
-### Anlage II Kap III C III Anlage II Kapitel III Sachgebiet C - Strafrecht und Ordnungswidrigkeitenrecht Abschnitt III
+### Anlage II Kap III C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -25143,8 +21860,11 @@ mit folgender Maßgabe:
 Es findet auf die vor dem Wirksamwerden des Beitritts gestellten
 Anträge Anwendung.
 
+Anlage II Kapitel III
+Sachgebiet D - Handels- und Gesellschaftsrecht,
+Versicherungsvertragsrecht
 
-### Anlage II Kap III D I Anlage II Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt I
+### Anlage II Kap III D I Abschnitt I
 
 Mit Inkrafttreten dieses Vertrages tritt das folgende Gesetz der
 Deutschen Demokratischen Republik in Kraft:
@@ -27471,8 +24191,11 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Anlage II Kapitel III
+Sachgebiet D - Handels- und Gesellschaftsrecht,
+Versicherungsvertragsrecht
 
-### Anlage II Kap III D III Anlage II Kapitel III Sachgebiet D - Handels- und Gesellschaftsrecht, Versicherungsvertragsrecht Abschnitt III
+### Anlage II Kap III D III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -27484,8 +24207,9 @@ zum 31. Dezember 1991 fort. Der Bundesminister der Justiz wird
 ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates die
 Geltungsdauer dieser Bestimmungen zu verlängern.
 
+Anlage II Kapitel IV
 
-### Anlage II Kap IV Anlage II Kapitel IV Geschäftsbereich des Bundesministers der Finanzen
+### Anlage II Kap IV Geschäftsbereich des Bundesministers der Finanzen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1194 -
 1200)
@@ -27503,8 +24227,9 @@ b)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap IV III) - Ausgegeben
 
 
 
+Anlage II Kapitel IV
 
-### Anlage II Kap IV I Anlage II Kapitel IV Abschnitt I
+### Anlage II Kap IV I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -27902,8 +24627,9 @@ sind, ist das Gesetz vom Tage nach der Verkündung anzuwenden."
 
 
 
+Anlage II Kapitel IV
 
-### Anlage II Kap IV II Anlage II Kapitel IV Abschnitt II
+### Anlage II Kap IV II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -27984,8 +24710,9 @@ folgenden Änderungen in Kraft:
 
 
 
+Anlage II Kapitel IV
 
-### Anlage II Kap IV III Anlage II Kapitel IV Abschnitt III
+### Anlage II Kap IV III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28140,8 +24867,9 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel V
 
-### Anlage II Kap V Anlage II Kapitel V Geschäftsbereich des Bundesministers für Wirtschaft
+### Anlage II Kap V Geschäftsbereich des Bundesministers für Wirtschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1201 -
 1203)
@@ -28164,8 +24892,11 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap V E II) - Ausgegeben
 
 
 
+Anlage II Kapitel V
+Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik,
+Wettbewerbs- und Preisrecht
 
-### Anlage II Kap V A III Anlage II Kapitel V Sachgebiet A - Allgemeines Wirtschaftsrecht, Wirtschaftspolitik, Wettbewerbs- und Preisrecht Abschnitt III
+### Anlage II Kap V A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28250,8 +24981,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel V
+Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft
 
-### Anlage II Kap V D III Anlage II Kapitel V Sachgebiet D - Recht des Bergbaus und der Versorgungswirtschaft Abschnitt III
+### Anlage II Kap V D III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28336,8 +25069,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel V
+Sachgebiet E - Außenwirtschaftsrecht
 
-### Anlage II Kap V E II Anlage II Kapitel V Sachgebiet E - Außenwirtschaftsrecht Abschnitt II
+### Anlage II Kap V E II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen oder Maßgaben in Kraft:
@@ -28388,8 +25123,9 @@ folgenden Änderungen oder Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VI
 
-### Anlage II Kap VI Anlage II Kapitel VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
+### Anlage II Kap VI Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1204 -
 1205)
@@ -28412,8 +25148,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap VI A III) - Ausgegeben
 
 
 
+Anlage II Kapitel VI
+Sachgebiet A - Bodennutzung und Tierhaltung
 
-### Anlage II Kap VI A II Anlage II Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung Abschnitt II
+### Anlage II Kap VI A II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -28439,8 +25177,10 @@ folgenden Änderungen in Kraft:
 
 
 
+Anlage II Kapitel VI
+Sachgebiet A - Bodennutzung und Tierhaltung
 
-### Anlage II Kap VI A III Anlage II Kapitel VI Sachgebiet A - Bodennutzung und Tierhaltung Abschnitt III
+### Anlage II Kap VI A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28478,8 +25218,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VI
+Sachgebiet B - Treuhandvermögen
 
-### Anlage II Kap VI B II Anlage II Kapitel VI Sachgebiet B - Treuhandvermögen Abschnitt II
+### Anlage II Kap VI B II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -28501,8 +25243,10 @@ folgenden Änderungen in Kraft:
 
 
 
+Anlage II Kapitel VI
+Sachgebiet C - Forstwirtschaft
 
-### Anlage II Kap VI C III Anlage II Kapitel VI Sachgebiet C - Forstwirtschaft Abschnitt III
+### Anlage II Kap VI C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28536,15 +25280,17 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VII
 
-### Anlage II Kap VII Anlage II Kapitel VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
+### Anlage II Kap VII Geschäftsbereich des Bundesministers für innerdeutsche Beziehungen
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1206)
 
 (ohne Inhalt)
 
+Anlage II Kapitel VIII
 
-### Anlage II Kap VIII Anlage II Kapitel VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
+### Anlage II Kap VIII Geschäftsbereich des Bundesministers für Arbeit und Sozialordnung
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1207 -
 1216)
@@ -28568,8 +25314,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap VIII E III) -
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet A - Arbeitsrechtsordnung
 
-### Anlage II Kap VIII A II Anlage II Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt II
+### Anlage II Kap VIII A II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Änderungen in Kraft:
@@ -28615,8 +25363,10 @@ folgenden Änderungen in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet A - Arbeitsrechtsordnung
 
-### Anlage II Kap VIII A III Anlage II Kapitel VIII Sachgebiet A - Arbeitsrechtsordnung Abschnitt III
+### Anlage II Kap VIII A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28627,7 +25377,7 @@ folgenden Maßgaben in Kraft:
     371):
 
     a)  §§ 55, 58 Abs. 1 Buchstabe a und Abs. 2, § 59 Abs. 2,
-        §§ 115a, 115c bis e                          gelten fort.
+        §§ 115a, 115c bis e gelten fort.
 
 
     b)  § 58 Abs. 1 Buchstabe b gilt bis zum 31. Dezember 1990. Über diesen
@@ -28714,8 +25464,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet C - Sozialer Arbeitsschutz
 
-### Anlage II Kap VIII C III Anlage II Kapitel VIII Sachgebiet C - Sozialer Arbeitsschutz Abschnitt III
+### Anlage II Kap VIII C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -28764,13 +25516,17 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
 
-### Anlage II Kap VIII D Anlage II Kapitel VIII Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
+### Anlage II Kap VIII D Sachgebiet D - Übergreifende Vorschriften des Sozialrechts
 
 (ohne Inhalt)
 
+Anlage II Kapitel VIII
+Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
+Arbeitslosenversicherung
 
-### Anlage II Kap VIII E I Anlage II Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt I
+### Anlage II Kap VIII E I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik gilt fort:
 
@@ -28841,8 +25597,11 @@ Folgendes Recht der Deutschen Demokratischen Republik gilt fort:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung,
+Arbeitslosenversicherung
 
-### Anlage II Kap VIII E III Anlage II Kapitel VIII Sachgebiet E - Arbeitsmarktpolitik, Arbeitsförderung, Arbeitslosenversicherung Abschnitt III
+### Anlage II Kap VIII E III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29013,9 +25772,9 @@ folgenden Maßgaben in Kraft:
 
 3.  Die Anordnung über die Förderung der Beschäftigung von Bürgern, die in
     ihrem Sozialverhalten gestört sind, vom 29. Mai 1990 (GBl. I Nr. 34 S.
-    364)                    gilt mit der Maßgabe, daß nur Personen
-    gefördert werden, die bis zum Wirksamwerden des Beitritts in eine
-    Fördermaßnahme eingetreten sind.
+    364) gilt mit der Maßgabe, daß nur Personen gefördert werden, die bis
+    zum Wirksamwerden des Beitritts in eine Fördermaßnahme eingetreten
+    sind.
 
 
 4.  Die Verordnung über finanzielle Leistungen bei vorzeitiger Beendigung
@@ -29027,9 +25786,9 @@ folgenden Maßgaben in Kraft:
 
 
 5.  Die Verordnung über die Gewährung von Vorruhestandsgeld vom 8. Februar
-    1990 (GBl. I Nr. 7 S. 42)                    gilt für Arbeitnehmer,
-    die bis zum Wirksamwerden des Beitritts die Voraussetzungen dieser
-    Verordnung erfüllen, weiter mit der Maßgabe, daß
+    1990 (GBl. I Nr. 7 S. 42) gilt für Arbeitnehmer, die bis zum
+    Wirksamwerden des Beitritts die Voraussetzungen dieser Verordnung
+    erfüllen, weiter mit der Maßgabe, daß
 
     a)  das Vorruhestandsgeld und die darauf entsprechend den Vorschriften
         über das Arbeitslosengeld zu entrichtenden Sozialversicherungsbeiträge
@@ -29062,8 +25821,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften)
 
-### Anlage II Kap VIII F III Anlage II Kapitel VIII Sachgebiet F - Sozialversicherung (Allgemeine Vorschriften) Abschnitt III
+### Anlage II Kap VIII F III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29135,10 +25896,9 @@ folgenden Maßgaben in Kraft:
 
 
 3.  Die Verordnung zur Sozialpflichtversicherung der Arbeiter und
-    Angestellten - SVO - vom 17. November 1977 (GBl. I Nr. 35 S. 373)
-    , zuletzt geändert durch die Verordnung über die Änderung oder
-    Aufhebung von Rechtsvorschriften vom 28. Juni 1990 (GBl. I Nr. 38 S.
-    509),
+    Angestellten - SVO - vom 17. November 1977 (GBl. I Nr. 35 S. 373),
+    zuletzt geändert durch die Verordnung über die Änderung oder Aufhebung
+    von Rechtsvorschriften vom 28. Juni 1990 (GBl. I Nr. 38 S. 509),
 
     mit folgenden Maßgaben:
 
@@ -29175,9 +25935,9 @@ folgenden Maßgaben in Kraft:
 
 4.  Verordnung über die Sozialversicherung bei der Staatlichen
     Versicherung der Deutschen Demokratischen Republik vom 9. Dezember
-    1977 (GBl. I 1978 Nr. 1 S. 1)                   , zuletzt geändert
-    durch die Verordnung über die Änderung oder Aufhebung von
-    Rechtsvorschriften vom 28. Juni 1990 (GBl. I Nr. 38 S. 509),
+    1977 (GBl. I 1978 Nr. 1 S. 1), zuletzt geändert durch die Verordnung
+    über die Änderung oder Aufhebung von Rechtsvorschriften vom 28. Juni
+    1990 (GBl. I Nr. 38 S. 509),
 
     mit folgenden Maßgaben:
 
@@ -29428,8 +26188,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung
 
-### Anlage II Kap VIII G III Anlage II Kapitel VIII Sachgebiet G - Krankenversicherung, Gesundheitliche Versorgung Abschnitt III
+### Anlage II Kap VIII G III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29454,8 +26216,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet H - Gesetzliche Rentenversicherung
 
-### Anlage II Kap VIII H III Anlage II Kapitel VIII Sachgebiet H - Gesetzliche Rentenversicherung Abschnitt III
+### Anlage II Kap VIII H III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29714,8 +26478,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel VIII
+Sachgebiet I - Gesetzliche Unfallversicherung
 
-### Anlage II Kap VIII I III Anlage II Kapitel VIII Sachgebiet I - Gesetzliche Unfallversicherung Abschnitt III
+### Anlage II Kap VIII I III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29760,16 +26526,18 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel IX
 
-### Anlage II Kap IX Anlage II Kapitel IX Geschäftsbereich des Bundesministers der Verteidigung
+### Anlage II Kap IX Geschäftsbereich des Bundesministers der Verteidigung
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1217)
 
 siehe Kapitel XIX
 Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
+Anlage II Kapitel X
 
-### Anlage II Kap X Anlage II Kapitel X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
+### Anlage II Kap X Geschäftsbereich des Bundesministers für Jugend, Familie, Frauen und Gesundheit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1218 -
 1221)
@@ -29792,8 +26560,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap X H III) - Ausgegeben
 
 
 
+Anlage II Kapitel X
+Sachgebiet A - Frauenpolitik
 
-### Anlage II Kap X A III Anlage II Kapitel X Sachgebiet A - Frauenpolitik Abschnitt III
+### Anlage II Kap X A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29901,8 +26671,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel X
+Sachgebiet B - Jugend
 
-### Anlage II Kap X B I Anlage II Kapitel X Sachgebiet B - Jugend Abschnitt I
+### Anlage II Kap X B I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -29928,8 +26700,10 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Anlage II Kapitel X
+Sachgebiet B - Jugend
 
-### Anlage II Kap X B III Anlage II Kapitel X Sachgebiet B - Jugend Abschnitt III
+### Anlage II Kap X B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -29940,16 +26714,18 @@ Jugendhilfeverordnung (GBl. I 1985 Nr. 1 S. 6)
 mit folgender Maßgabe:
 Die dort genannten Pflegegeldbeträge gelten als Mindestbeträge.
 
+Anlage II Kapitel X
+Sachgebiet D - Gesundheitspolitik
 
-### Anlage II Kap X D III Anlage II Kapitel X Sachgebiet D - Gesundheitspolitik Abschnitt III
+### Anlage II Kap X D III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
 
 1.  Anordnung über das Zentrale Suchtmittelbüro beim Ministerium für
-    Gesundheitswesen vom 28. Januar 1974 (GBl. I Nr. 16 S. 149)
-    bis zur Überführung oder Abwicklung des Zentralen Suchtmittelbüros
-    nach Artikel 13 Abs. 2 Satz 2.
+    Gesundheitswesen vom 28. Januar 1974 (GBl. I Nr. 16 S. 149) bis zur
+    Überführung oder Abwicklung des Zentralen Suchtmittelbüros nach
+    Artikel 13 Abs. 2 Satz 2.
 
 
 2.  § 11 Abs. 3, § 15 Abs. 4 Satz 5, § 16 Abs. 1, Abs. 2 Satz 4 und Abs. 3
@@ -29962,18 +26738,17 @@ folgenden Maßgaben in Kraft:
 
 3.  § 4 Abs. 1 und 2 der Zweiten Durchführungsbestimmung zum
     Suchtmittelgesetz - Verschreibungs- und Abgabenordnung - vom 28.
-    Januar 1974 (GBl. I Nr. 16 S. 157)                   , zuletzt
-    geändert durch die Sechste Durchführungsbestimmung zum
-    Suchtmittelgesetz - Ergänzung des Suchtmittelverzeichnisses, weitere
-    Bestimmungen über Verschreibung, Abgabe, Ein- und Ausfuhr - vom 27.
-    April 1989 (GBl. I Nr. 12 S. 172), bis zum 30. Juni 1991,
-    § 4 Abs. 3 Satz 1 und 2 dieser Durchführungsbestimmung
-    bis zum 31. Dezember 1991,
+    Januar 1974 (GBl. I Nr. 16 S. 157), zuletzt geändert durch die Sechste
+    Durchführungsbestimmung zum Suchtmittelgesetz - Ergänzung des
+    Suchtmittelverzeichnisses, weitere Bestimmungen über Verschreibung,
+    Abgabe, Ein- und Ausfuhr - vom 27. April 1989 (GBl. I Nr. 12 S. 172),
+    bis zum 30. Juni 1991,
+    § 4 Abs. 3 Satz 1 und 2 dieser Durchführungsbestimmung bis zum 31.
+    Dezember 1991,
     § 4 Abs. 3 Satz 3, § 8, § 10 Abs. 2 Satz 5 und § 17 Abs. 3 dieser
-    Durchführungsbestimmung                    bis zum Ablauf von drei
-    Jahren nach Wirksamwerden des Beitritts sowie
-    § 10 Abs. 1 dieser Durchführungsbestimmung                    bis auf
-    Widerruf.
+    Durchführungsbestimmung bis zum Ablauf von drei Jahren nach
+    Wirksamwerden des Beitritts sowie
+    § 10 Abs. 1 dieser Durchführungsbestimmung bis auf Widerruf.
 
 
 4.  § 4 Abs. 2, § 8 Abs. 2 Satz 3, § 9 Satz 3, § 15 Abs. 2 Satz 2 und Abs.
@@ -30017,17 +26792,17 @@ folgenden Maßgaben in Kraft:
 7.  Gemeinsame Anweisung des Ministers für Gesundheitswesen und des
     Ministers für Hoch- und Fachhochschulwesen zur Durchführung des
     Vorpraktikums vor Aufnahme des Medizin- bzw. Stomatologiestudiums vom
-    12\. September 1983 (Verf. u. Mitt. MfGE Nr. 7 S. 57)
-    , jedoch nur, soweit sie Personen betrifft, die zum Zeitpunkt des
-    Wirksamwerdens des Beitritts das Vorpraktikum ableisten.
+    12\. September 1983 (Verf. u. Mitt. MfGE Nr. 7 S. 57), jedoch nur,
+    soweit sie Personen betrifft, die zum Zeitpunkt des Wirksamwerdens des
+    Beitritts das Vorpraktikum ableisten.
 
 
 8.  Anweisung zur Durchführung des Klinischen Praktikums im 6. Jahr des
     Medizinstudiums (Pflichtassistenz) an medizinischen
     Hochschuleinrichtungen und staatlichen Einrichtungen des
     Gesundheitswesens vom 10. September 1976 (Verf. u. Mitt. MfGE 1977 Nr.
-    1\. S. 1)                    in der Fassung der Änderungsanweisung vom
-    30\. Juni 1977 (Verf. u. Mitt. MfGE 1978 Nr. 1 S. 6)
+    1\. S. 1) in der Fassung der Änderungsanweisung vom 30. Juni 1977
+    (Verf. u. Mitt. MfGE 1978 Nr. 1 S. 6)
 
     mit der Maßgabe:
 
@@ -30036,16 +26811,20 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel X
+Sachgebiet H - Familie und Soziales
 
-### Anlage II Kap X H I Anlage II Kapitel X Sachgebiet H - Familie und Soziales Abschnitt I
+### Anlage II Kap X H I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
-Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S. 129)
-, geändert durch die Zweite Unterhaltssicherungsverordnung vom 31.
+Unterhaltssicherungsverordnung vom 19. Mai 1988 (GBl. I Nr. 11 S.
+129), geändert durch die Zweite Unterhaltssicherungsverordnung vom 31.
 August 1990 (GBl. I Nr. 59 S. 1432).
 
+Anlage II Kapitel X
+Sachgebiet H - Familie und Soziales
 
-### Anlage II Kap X H III Anlage II Kapitel X Sachgebiet H - Familie und Soziales Abschnitt III
+### Anlage II Kap X H III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30193,8 +26972,9 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XI
 
-### Anlage II Kap XI Anlage II Kapitel XI Geschäftsbereich des Bundesministers für Verkehr
+### Anlage II Kap XI Geschäftsbereich des Bundesministers für Verkehr
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1222 -
 1225)
@@ -30217,8 +26997,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XI E III) - Ausgegeben
 
 
 
+Anlage II Kapitel XI
+Sachgebiet A - Eisenbahnverkehr
 
-### Anlage II Kap XI A III Anlage II Kapitel XI Sachgebiet A - Eisenbahnverkehr Abschnitt III
+### Anlage II Kap XI A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30326,8 +27108,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XI
+Sachgebiet B - Straßenverkehr
 
-### Anlage II Kap XI B III Anlage II Kapitel XI Sachgebiet B - Straßenverkehr Abschnitt III
+### Anlage II Kap XI B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30467,8 +27251,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XI
+Sachgebiet C - Binnenschiffahrt und Wasserstraßen
 
-### Anlage II Kap XI C III Anlage II Kapitel XI Sachgebiet C - Binnenschiffahrt und Wasserstraßen Abschnitt III
+### Anlage II Kap XI C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30497,8 +27283,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XI
+Sachgebiet D - Straßenbau
 
-### Anlage II Kap XI D III Anlage II Kapitel XI Sachgebiet D - Straßenbau Abschnitt III
+### Anlage II Kap XI D III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30532,8 +27320,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XI
+Sachgebiet E - Allgemeine verkehrliche Bestimmungen
 
-### Anlage II Kap XI E III Anlage II Kapitel XI Sachgebiet E - Allgemeine verkehrliche Bestimmungen Abschnitt III
+### Anlage II Kap XI E III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30610,16 +27400,17 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XII
 
-### Anlage II Kap XII Anlage II Kapitel XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
+### Anlage II Kap XII Geschäftsbereich des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1226 -
 1227)
 
--
+Anlage II Kapitel XII
+Fortgeltendes Recht der Deutschen Demokratischen Republik
 
-
-### Anlage II Kap XII III Anlage II Kapitel XII Fortgeltendes Recht der Deutschen Demokratischen Republik Abschnitt III
+### Anlage II Kap XII III Abschnitt III
 
 
 1.  Umweltrahmengesetz vom 29. Juni 1990 (GBl. I Nr. 42 S. 649)
@@ -30815,8 +27606,9 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XIII
 
-### Anlage II Kap XIII Anlage II Kapitel XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
+### Anlage II Kap XIII Geschäftsbereich des Bundesministers für Post und Telekommunikation
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1228 -
 1229)
@@ -30840,8 +27632,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIII C III) -
 
 
 
+Anlage II Kapitel XIII
+Sachgebiet B - Postwesen
 
-### Anlage II Kap XIII B III Anlage II Kapitel XIII Sachgebiet B - Postwesen Abschnitt III
+### Anlage II Kap XIII B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30906,8 +27700,10 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XIII
+Sachgebiet C - Fernmeldewesen
 
-### Anlage II Kap XIII C I Anlage II Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt I
+### Anlage II Kap XIII C I Abschnitt I
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
@@ -30919,8 +27715,10 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Anlage II Kapitel XIII
+Sachgebiet C - Fernmeldewesen
 
-### Anlage II Kap XIII C III Anlage II Kapitel XIII Sachgebiet C - Fernmeldewesen Abschnitt III
+### Anlage II Kap XIII C III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -30986,15 +27784,15 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XIV
 
-### Anlage II Kap XIV Anlage II Kapitel XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
+### Anlage II Kap XIV Geschäftsbereich des Bundesministers für Raumordnung, Bauwesen und Städtebau
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1230)
 
--
+Anlage II Kapitel XIV
 
-
-### Anlage II Kap XIV III Anlage II Kapitel XIV Abschnitt III
+### Anlage II Kap XIV III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -31017,15 +27815,15 @@ c)  In § 17 Abs. 1 entfällt die Mindestandrohung von 1.000 Deutsche Mark.
 
 
 
+Anlage II Kapitel XV
 
-### Anlage II Kap XV Anlage II Kapitel XV Geschäftsbereich des Bundesministers für Forschung und Technologie
+### Anlage II Kap XV Geschäftsbereich des Bundesministers für Forschung und Technologie
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1231)
 
--
+Anlage II Kapitel XV
 
-
-### Anlage II Kap XV II Anlage II Kapitel XV Abschnitt II
+### Anlage II Kap XV II Abschnitt II
 
 Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 
@@ -31114,8 +27912,9 @@ Folgendes Recht der Deutschen Demokratischen Republik wird aufgehoben:
 
 
 
+Anlage II Kapitel XVI
 
-### Anlage II Kap XVI Anlage II Kapitel XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
+### Anlage II Kap XVI Geschäftsbereich des Bundesministers für Bildung und Wissenschaft
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1232)
 
@@ -31137,8 +27936,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XVI B III) -
 
 
 
+Anlage II Kapitel XVI
+Sachgebiet A - Ausbildungsförderung
 
-### Anlage II Kap XVI A III Anlage II Kapitel XVI Sachgebiet A - Ausbildungsförderung Abschnitt III
+### Anlage II Kap XVI A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -31184,8 +27985,10 @@ jeweils mit folgender Maßgabe:
 Die aufgeführten Rechtsvorschriften sind bis zum 31. Dezember 1990
 anzuwenden.
 
+Anlage II Kapitel XVI
+Sachgebiet B - Berufliche Bildung
 
-### Anlage II Kap XVI B III Anlage II Kapitel XVI Sachgebiet B - Berufliche Bildung Abschnitt III
+### Anlage II Kap XVI B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -31196,30 +27999,33 @@ Diese Verordnung gilt solange, als für die Berufsausbildung in den
 Ausbildungsberufen tarifvertragliche Regelungen noch nicht getroffen
 sind.
 
+Anlage II Kapitel XVII
 
-### Anlage II Kap XVII Anlage II Kapitel XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
+### Anlage II Kap XVII Geschäftsbereich des Bundesministers für wirtschaftliche Zusammenarbeit
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1233)
 
 (ohne Inhalt)
 
+Anlage II Kapitel XVIII
+Statistik
 
-### Anlage II Kap XVIII Anlage II Kapitel XVIII Statistik
+### Anlage II Kap XVIII 
 
 Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1234
 
+Anlage II Kapitel XVIII
 
-### Anlage II Kap XVIII III Anlage II Kapitel XVIII Abschnitt III
+### Anlage II Kap XVIII III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgender Maßgabe in Kraft:
 § 6 Abs. 2 des Statistikgesetzes der DDR vom 20. Juli 1990 (GBl. I Nr.
-52 S. 1004)              nur insoweit als die nachstehenden in der
-Anlage zu diesem Gesetz genannten Erhebungen nach dem Wirksamwerden
-des Beitritts auf der Grundlage des Bundesstatistikgesetzes unter
-Berücksichtigung von § 2 der Anlage I des Vertrages Kapitel XVIII
-Abschnitt II bis spätestens zum 30. Juni 1991 abgeschlossen sein
-müssen:
+52 S. 1004) nur insoweit als die nachstehenden in der Anlage zu diesem
+Gesetz genannten Erhebungen nach dem Wirksamwerden des Beitritts auf
+der Grundlage des Bundesstatistikgesetzes unter Berücksichtigung von §
+2 der Anlage I des Vertrages Kapitel XVIII Abschnitt II bis spätestens
+zum 30. Juni 1991 abgeschlossen sein müssen:
 
 1.  für das Jahr 1990
 
@@ -31259,8 +28065,9 @@ müssen:
 
 
 
+Anlage II Kapitel XIX
 
-### Anlage II Kap XIX Anlage II Kapitel XIX Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
+### Anlage II Kap XIX Recht des öffentlichen Dienstes einschließlich des Rechts der Soldaten
 
 (Fundstelle in der Anlage II des EinigVtr - BGBl. II 1990, 1235 -
 1236)
@@ -31284,8 +28091,10 @@ c)  abschnittsbezogen (z. B. EinigVtr Anlage II Kap XIX B III) -
 
 
 
+Anlage II Kapitel XIX
+Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen
 
-### Anlage II Kap XIX A III Anlage II Kapitel XIX Sachgebiet A - Recht der im öffentlichen Dienst stehenden Personen Abschnitt III
+### Anlage II Kap XIX A III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt mit
 folgenden Maßgaben in Kraft:
@@ -31308,16 +28117,18 @@ folgenden Maßgaben in Kraft:
 
 
 
+Anlage II Kapitel XIX
+Sachgebiet B - Recht der Soldaten
 
-### Anlage II Kap XIX B III Anlage II Kapitel XIX Sachgebiet B - Recht der Soldaten Abschnitt III
+### Anlage II Kap XIX B III Abschnitt III
 
 Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 1.  § 29 Abs. 1 Satz 1 und § 30 Abs. 1 und Abs. 4 des Wehrdienstgesetzes
-    vom 25. März 1982 (GBl. I Nr. 12 S. 221)                    in
-    Verbindung mit dem Beschluß über die Musterung und Einberufung zum
-    Wehrdienst sowie die Entlassung aus dem Wehrdienst im 1. Halbjahr 1990
-    vom 8. Februar 1990 (GBl. I Nr. 8 S. 44)
+    vom 25. März 1982 (GBl. I Nr. 12 S. 221) in Verbindung mit dem
+    Beschluß über die Musterung und Einberufung zum Wehrdienst sowie die
+    Entlassung aus dem Wehrdienst im 1. Halbjahr 1990 vom 8. Februar 1990
+    (GBl. I Nr. 8 S. 44)
 
     mit folgender Maßgabe:
 
@@ -31328,8 +28139,7 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 2.  Besoldungsordnung für die Angehörigen der Nationalen Volksarmee vom
-    12\. Oktober 1982 (Nr. 005/9/001)                    in der Fassung vom
-    15\. August 1990
+    12\. Oktober 1982 (Nr. 005/9/001) in der Fassung vom 15. August 1990
 
     mit folgenden Maßgaben:
 
@@ -31365,9 +28175,9 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 4.  § 27 Abs. 1 des Wehrdienstgesetzes vom 25. März 1982 (GBl. I Nr. 12 S.
-    221)                    in Verbindung mit Ordnung Nr. 064/9/001 des
-    Ministers für Abrüstung und Verteidigung über die Verpflegung in der
-    NVA - Verpflegungsordnung - vom 24. Juni 1990
+    221) in Verbindung mit Ordnung Nr. 064/9/001 des Ministers für
+    Abrüstung und Verteidigung über die Verpflegung in der NVA -
+    Verpflegungsordnung - vom 24. Juni 1990
 
     mit folgenden Maßgaben:
 
@@ -31380,8 +28190,11 @@ Folgendes Recht der Deutschen Demokratischen Republik bleibt in Kraft:
 
 
 
+Gemeinsame Erklärung
+der Regierungen der Bundesrepublik Deutschland und der Deutschen
+Demokratischen Republik zur Regelung offener Vermögensfragen
 
-### Anlage III Gemeinsame Erklärung der Regierungen der Bundesrepublik Deutschland und der Deutschen Demokratischen Republik zur Regelung offener Vermögensfragen Vom 15. Juni 1990
+### Anlage III Vom 15. Juni 1990
 
 Die Teilung Deutschlands, die damit verbundene Bevölkerungswanderung
 von Ost nach West und die unterschiedlichen Rechtsordnungen in beiden

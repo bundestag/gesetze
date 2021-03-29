@@ -16,6 +16,12 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1926
 
+Zuletzt geändert durch
+:   Art. 48 V v. 26.3.2014 I 274
+
+Geändert durch
+:   Art. 6 Abs. 26 G v. 23.5.2017 I 1228
+
 
 ## Eingangsformel
 
@@ -30,10 +36,11 @@ und Technologie:
 
 ## § 1 Ziel der Prüfung und Bezeichnung des Fortbildungsabschlusses
 
-(1) Die zuständige Stelle kann berufliche Fortbildungsprüfungen zum
-Geprüften Polier und zur Geprüften Polierin nach den §§ 2 bis 10
-durchführen, in denen die auf einen beruflichen Aufstieg abzielende
-Erweiterung der beruflichen Handlungsfähigkeit nachzuweisen ist.
+(1) Industrie- und Handelskammern und Handwerkskammern können als
+zuständige Stellen berufliche Fortbildungsprüfungen zum Geprüften
+Polier und zur Geprüften Polierin nach den §§ 2 bis 10 durchführen, in
+denen die auf einen beruflichen Aufstieg abzielende Erweiterung der
+beruflichen Handlungsfähigkeit nachzuweisen ist.
 
 (2) Ziel der Prüfung ist der Nachweis der Befähigung, Prozesse im
 Hochbau oder Tiefbau zu organisieren und zu überwachen und die hierfür
@@ -537,7 +544,8 @@ nachzuweisen:
 
 
     b)  Anwenden von Arbeits- und Gesundheitsschutzbestimmungen, des
-        Arbeitszeitgesetzes und des Jugendarbeitsschutzgesetzes,
+        Arbeitszeitgesetzes, des Mutterschutzgesetzes und des
+        Jugendarbeitsschutzgesetzes,
 
 
     c)  Anwenden von Vorschriften des Sozialversicherungsrechts,
@@ -688,8 +696,9 @@ Nummer 17 und Artikel 2 § 1 Nummer 1, § 2 Nummer 1, § 3 Nummer 1 und §
 4 Nummer 8 der Verordnung vom 15. April 1999 (BGBl. I S. 711) geändert
 worden ist, außer Kraft.
 
+(zu § 2 Absatz 2)
 
-## Anlage 1 (zu § 2 Absatz 2) Profil des Werkpoliers und der Werkpolierin
+## Anlage 1 Profil des Werkpoliers und der Werkpolierin
 
 (Fundstelle: BGBl. I 2012, 1931)
 
@@ -809,10 +818,12 @@ nachfolgend beschriebenen Arbeitsgebieten und Aufgaben:
 
 
 
+(zu § 7 Absatz 7)
 
-## Anlage 2 (zu § 7 Absatz 7) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2012, 1932)
+(Fundstelle: BGBl. I 2012, 1932;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -851,7 +862,13 @@ Geprüfter Polier
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin vom 6.
-September 2012 (BGBl. I S. 1926) bestanden.
+September 2012 (BGBl. I S. 1926), die zuletzt durch Artikel 48 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist,
+bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -866,10 +883,12 @@ September 2012 (BGBl. I S. 1926) bestanden.
 
 
 
+(zu § 7 Absatz 7)
 
-## Anlage 3 (zu § 7 Absatz 7) Muster
+## Anlage 3 Muster
 
-(Fundstelle: BGBl. I 2012, 1933 - 1934)
+(Fundstelle: BGBl. I 2012, 1933 - 1934;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -907,16 +926,18 @@ Geprüfter Polier
 
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Polier und Geprüfte Polierin vom 6.
-September 2012 (BGBl. I S. 1926) mit folgenden Ergebnissen bestanden:
+September 2012 (BGBl. I S. 1926), die zuletzt durch Artikel 48 der
+Verordnung vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit
+folgenden Ergebnissen bestanden:
 
 
 *    *
     *
-    *[^F778192_01_BJNR192600012BJNE001500000]
+    *[^F778192_01_BJNR192600012BJNE001502377]
    Punkte
 
     *
-    *[^F778192_02_BJNR192600012BJNE001500000]
+    *[^F778192_02_BJNR192600012BJNE001502377]
    Note
 
 
@@ -955,7 +976,7 @@ September 2012 (BGBl. I S. 1926) mit folgenden Ergebnissen bestanden:
 
 *    *   II.
 
-    *[^F778192_03_BJNR192600012BJNE001500000]
+    *[^F778192_03_BJNR192600012BJNE001502377]
    Bautechnik im Bereich
         ......................................
 
@@ -1021,7 +1042,7 @@ in ..................................
 vor ...........................................
 abgelegte Prüfung in dem Prüfungsteil/Prüfungsbereich
 ............................................
-freigestellt. “)
+freigestellt.“)
 
 IV. Berufs- und arbeitspädagogische Qualifikation
 Der Prüfungsteilnehmer/Die Prüfungsteilnehmerin hat nach § 3 Absatz 2
@@ -1030,8 +1051,13 @@ Kenntnisse durch die Prüfung am
 ..........................................
 in
 .....................................................................
-vor...................................................................
+vor
+...................................................................
 erbracht.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum ................................................................
@@ -1046,10 +1072,10 @@ erbracht.
 
 
 
-[^F778192_01_BJNR192600012BJNE001500000]:     Den Bewertungen lag folgender Punkteschlüssel zugrunde:
+[^F778192_01_BJNR192600012BJNE001502377]:     Den Bewertungen lag folgender Punkteschlüssel zugrunde:
     ......................................................
     Bei der Ermittlung der Note sind die Punktebewertungen für die
     Projektarbeit, die Präsentation und das Fachgespräch im Verhältnis 50
     zu 20 zu 30 gewichtet worden.
-[^F778192_02_BJNR192600012BJNE001500000]:     Angabe des Bereichs „Hochbau“ oder „Tiefbau“.
-[^F778192_03_BJNR192600012BJNE001500000]: 
+[^F778192_02_BJNR192600012BJNE001502377]:     Angabe des Bereichs „Hochbau“ oder „Tiefbau“.
+[^F778192_03_BJNR192600012BJNE001502377]: 

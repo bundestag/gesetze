@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1998, 1311
 
 Zuletzt geändert durch
-:   Art. 34a G v. 6.12.2011 I 2515
+:   Art. 6 G v. 23.12.2016 I 3191
 
 
 ## § 1 Berufsausübung
@@ -54,6 +54,15 @@ Gesetz. Gleiches gilt für Drittstaaten und Drittstaatsangehörige,
 soweit sich hinsichtlich der Anerkennung von Ausbildungsnachweisen
 nach dem Recht der Europäischen Gemeinschaften eine Gleichstellung
 ergibt.
+
+(1b) Die Ausübung einer Tätigkeit im Bereich der Psychologischen
+Psychotherapie oder der Kinder- und Jugendlichenpsychotherapie ist
+auch auf Grund einer Erlaubnis nach § 4 Absatz 2a zulässig. Personen,
+die über eine solche Erlaubnis verfügen, führen die Berufsbezeichnung
+des Herkunftsmitgliedstaats mit der zusätzlichen Angabe dieses Staates
+und dem zusätzlichen Hinweis auf die Tätigkeit oder
+Beschäftigungsstelle, in der ihnen die Ausübung des Berufs erlaubt
+ist.
 
 (2) Die Berechtigung zur Ausübung des Berufs des Kinder- und
 Jugendlichenpsychotherapeuten erstreckt sich auf Patienten, die das
@@ -103,22 +112,26 @@ erteilen, wenn der Antragsteller
 
 
 (2) Die Voraussetzung des Absatzes 1 Nr. 2 gilt als erfüllt, wenn aus
-einem in einem anderen Mitgliedstaat der Europäischen Union oder einem
-anderen Vertragsstaat des Abkommens über den Europäischen
-Wirtschaftsraum erworbenen Diplom hervorgeht, dass der Inhaber eine
-Ausbildung erworben hat, die in diesem Staat für den unmittelbaren
-Zugang zu einem dem Beruf des Psychologischen Psychotherapeuten oder
-dem Beruf des Kinder- und Jugendlichenpsychotherapeuten entsprechenden
-Beruf erforderlich ist. Diplome im Sinne dieses Gesetzes sind
-Ausbildungsnachweise gemäß Artikel 3 Abs. 1 Buchstabe c der Richtlinie
-2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
-2005 über die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255
-S. 22, 2007 Nr. L 271 S. 18) in der jeweils geltenden Fassung, die dem
-in Artikel 11 Buchstabe d oder Buchstabe e der Richtlinie genannten
-Niveau entsprechen. Satz 2 gilt auch für einen Ausbildungsnachweis
-oder eine Gesamtheit von Ausbildungsnachweisen, die von einer
-zuständigen Behörde in einem Mitgliedstaat ausgestellt wurden, sofern
-sie eine in der Gemeinschaft erworbene abgeschlossene Ausbildung
+einem Europäischen Berufsausweis oder aus einem in einem anderen
+Mitgliedstaat der Europäischen Union oder einem anderen Vertragsstaat
+des Abkommens über den Europäischen Wirtschaftsraum erworbenen Diplom
+hervorgeht, dass der Inhaber eine Ausbildung erworben hat, die in
+diesem Staat für den unmittelbaren Zugang zu einem dem Beruf des
+Psychologischen Psychotherapeuten oder dem Beruf des Kinder- und
+Jugendlichenpsychotherapeuten entsprechenden Beruf erforderlich ist.
+Diplome im Sinne dieses Gesetzes sind Ausbildungsnachweise gemäß
+Artikel 3 Abs. 1 Buchstabe c der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates vom 7. September 2005 über die
+Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22, 2007
+Nr. L 271 S. 18) in der jeweils geltenden Fassung, die mindestens dem
+in Artikel 11 Buchstabe b der Richtlinie 2005/36/EG genannten Niveau
+entsprechen und denen eine Bescheinigung des Herkunftsmitgliedstaats
+über das Ausbildungsniveau beigefügt ist. Satz 2 gilt auch für einen
+Ausbildungsnachweis oder eine Gesamtheit von Ausbildungsnachweisen,
+die von einer zuständigen Behörde in einem Mitgliedstaat ausgestellt
+wurden, sofern sie den erfolgreichen Abschluss einer in der
+Europäischen Union auf Voll- oder Teilzeitbasis im Rahmen formaler
+oder nichtformaler Ausbildungsprogramme erworbenen Ausbildung
 bescheinigen, von diesem Mitgliedstaat als gleichwertig anerkannt
 wurden und in Bezug auf die Aufnahme oder Ausübung des Berufs des
 Psychologischen Psychotherapeuten oder des Kinder- und
@@ -132,62 +145,60 @@ Psychotherapeuten oder des Kinder- und Jugendlichenpsychotherapeuten
 entsprechen, ihrem Inhaber jedoch nach dem Recht des
 Herkunftsmitgliedstaats erworbene Rechte nach den dort maßgeblichen
 Vorschriften verleihen. Antragsteller mit einem Ausbildungsnachweis
-aus einem Mitgliedstaat der Europäischen Union oder einem anderen
-Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum
-haben eine Anpassungsmaßnahme nach Satz 9 abzuleisten, wenn
+aus einem Vertragsstaat des Europäischen Wirtschaftsraums haben einen
+höchstens dreijährigen Anpassungslehrgang zu absolvieren oder eine
+Eignungsprüfung abzulegen, wenn
 
-1.  ihre nachgewiesene Ausbildungsdauer mindestens ein Jahr unter der in
-    diesem Gesetz geregelten Ausbildungsdauer liegt,
-
-
-2.  ihre Ausbildung sich auf Fächer bezieht, die sich wesentlich von denen
-    unterscheiden, die durch die Ausbildung nach diesem Gesetz und der
-    Ausbildungs- und Prüfungsverordnung für Psychologische
-    Psychotherapeuten oder der Ausbildungs- und Prüfungsverordnung für
-    Kinder- und Jugendlichenpsychotherapeuten vorgeschrieben sind,
+1.  die Ausbildung des Antragstellers hinsichtlich der beruflichen
+    Tätigkeit Ausbildungsbestandteile umfasst, die sich wesentlich von
+    denen unterscheiden, die nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für Psychologische Psychotherapeuten oder der
+    Ausbildungs- und Prüfungsverordnung für Kinder- und
+    Jugendlichenpsychotherapeuten vorgeschrieben sind, oder
 
 
-3.  der Beruf des Psychologischen Psychotherapeuten oder des Kinder- und
+2.  der Beruf des Psychologischen Psychotherapeuten oder des Kinder- und
     Jugendlichenpsychotherapeuten eine oder mehrere reglementierte
-    Tätigkeiten umfasst, die im Herkunftsmitgliedstaat des Antragstellers
-    nicht Bestandteil des dem Psychologischen Psychotherapeuten oder
-    Kinder- und Jugendlichenpsychotherapeuten entsprechenden Berufs sind,
-    und wenn diese Unterschiede in einer besonderen Ausbildung bestehen,
-    die nach diesem Gesetz und der Ausbildungs- und Prüfungsverordnung für
-    Psychologische Psychotherapeuten oder der Ausbildungs- und
-    Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten
-    gefordert wird, und sich auf Fächer beziehen, die sich wesentlich von
-    denen unterscheiden, die von dem Ausbildungsnachweis abgedeckt werden,
-    den der Antragsteller vorlegt, oder
-
-
-4.  ihr Ausbildungsnachweis lediglich eine Ausbildung auf dem in Artikel
-    11 Buchstabe c der Richtlinie genannten Niveau bescheinigt.
+    Tätigkeiten umfasst, die im Herkunftsstaat des Antragstellers nicht
+    Bestandteil des Berufs sind, der dem des Psychologischen
+    Psychotherapeuten oder des Kinder- und Jugendlichenpsychotherapeuten
+    entspricht, und wenn sich die Ausbildung für diese Tätigkeiten auf
+    Ausbildungsbestandteile nach diesem Gesetz und nach der Ausbildungs-
+    und Prüfungsverordnung für Psychologische Psychotherapeuten oder der
+    Ausbildungs- und Prüfungsverordnung für Kinder- und
+    Jugendlichenpsychotherapeuten bezieht, die sich wesentlich von denen
+    unterscheiden, die von der Ausbildung des Antragstellers abgedeckt
+    sind.
 
 
 
-Fächer unterscheiden sich wesentlich, wenn deren Kenntnis eine
-wesentliche Voraussetzung für die Ausübung des Berufs ist und die
-Ausbildung der Antragsteller gegenüber der deutschen Ausbildung
-bedeutende Abweichungen hinsichtlich Dauer oder Inhalt aufweist.
+Ausbildungsbestandteile unterscheiden sich wesentlich, wenn die
+nachgewiesene Ausbildung des Antragstellers wesentliche Abweichungen
+hinsichtlich der Art und Weise der Ausbildungsvermittlung oder
+wesentliche inhaltliche Abweichungen hinsichtlich der Kenntnisse und
+Fähigkeiten aufweist, die eine wesentliche Voraussetzung für die
+Ausübung des Berufs des Psychologischen Psychotherapeuten oder des
+Kinder- und Jugendlichenpsychotherapeuten in Deutschland sind.
 Wesentliche Unterschiede können ganz oder teilweise durch Kenntnisse
-ausgeglichen werden, die die Antragsteller im Rahmen ihrer
-psychotherapeutischen Berufspraxis erworben haben; dabei ist es nicht
-entscheidend, in welchem Staat die Antragsteller berufstätig waren.
-Liegen wesentliche Unterschiede nach den Sätzen 5 bis 7 vor, müssen
-die Antragsteller nachweisen, dass sie über die Kenntnisse und
-Fähigkeiten verfügen, die zur Ausübung des Berufs des Psychologischen
-Psychotherapeuten oder des Berufs des Kinder- und
-Jugendlichenpsychotherapeuten erforderlich sind. Dieser Nachweis wird
-durch einen höchstens dreijährigen Anpassungslehrgang oder eine
-Eignungsprüfung erbracht, die sich auf die festgestellten wesentlichen
-Unterschiede beziehen. Die Antragsteller haben das Recht, zwischen dem
-Anpassungslehrgang und der Eignungsprüfung zu wählen. Die Sätze 5 bis
-10 gelten auch für Antragsteller, die über einen Ausbildungsnachweis
-als Psychologischer Psychotherapeut oder Kinder- und
-Jugendlichenpsychotherapeut verfügen, der in einem anderen als den in
-Satz 1 genannten Staaten (Drittstaat) ausgestellt ist und den ein
-anderer der in Satz 1 genannten Staaten anerkannt hat.
+und Fähigkeiten ausgeglichen werden, die der Antragsteller im Rahmen
+seiner tatsächlichen und rechtmäßigen Ausübung des Berufs des
+Psychologischen Psychotherapeuten oder des Kinder- und
+Jugendlichenpsychotherapeuten in Voll- oder Teilzeit oder durch
+lebenslanges Lernen erworben hat, sofern die durch lebenslanges Lernen
+erworbenen Kenntnisse und Fähigkeiten von einer dafür in dem
+jeweiligen Staat zuständigen Stelle formell als gültig anerkannt
+wurden; dabei ist nicht entscheidend, in welchem Staat diese
+Kenntnisse und Fähigkeiten erworben worden sind. Die Antragsteller
+haben das Recht, zwischen dem Anpassungslehrgang und der
+Eignungsprüfung zu wählen. Die Sätze 5 bis 8 gelten auch für
+Antragsteller, die über einen Ausbildungsnachweis als Psychologischer
+Psychotherapeut oder Kinder- und Jugendlichenpsychotherapeut verfügen,
+der in einem anderen als den in Satz 1 genannten Staaten ausgestellt
+ist und den ein anderer als die in Satz 1 genannten Staaten anerkannt
+hat. Die Regelungen dieses Absatzes gelten entsprechend für den Fall
+der Einführung eines Europäischen Berufsausweises für den Beruf des
+Psychologischen Psychotherapeuten oder des Kinder- und
+Jugendlichenpsychotherapeuten.
 
 (3) Ist die Voraussetzung des Absatzes 1 Nummer 2 nicht erfüllt, so
 ist Antragstellern, die über einen Ausbildungsnachweis als
@@ -195,20 +206,42 @@ Psychologischer Psychotherapeut oder Kinder- und
 Jugendlichenpsychotherapeut verfügen, der in einem anderen als den in
 Absatz 2 Satz 1 genannten Staaten (Drittstaat) ausgestellt ist, die
 Approbation zu erteilen, wenn die Gleichwertigkeit des
-Ausbildungsstandes gegeben ist. Für die Prüfung der Gleichwertigkeit
-gilt Absatz 2 Satz 5 bis 7 entsprechend. Der Nachweis der
-erforderlichen Kenntnisse und Fähigkeiten wird durch das Ablegen einer
-Prüfung erbracht, die sich auf den Inhalt der staatlichen
-Abschlussprüfung bezieht. Die erforderlichen Kenntnisse und
-Fähigkeiten sind nach Satz 3 auch nachzuweisen, wenn die Prüfung des
-Antrags nur mit unangemessenem zeitlichen oder sachlichen Aufwand
-möglich ist, weil die erforderlichen Unterlagen und Nachweise aus
-Gründen, die nicht in der Person der Antragsteller liegen, von diesen
-nicht vorgelegt werden können.
+Ausbildungsstandes gegeben ist. Absatz 2 Satz 5 bis 8 gilt
+entsprechend. Der Nachweis der erforderlichen Kenntnisse und
+Fähigkeiten wird durch das Ablegen einer Prüfung erbracht, die sich
+auf den Inhalt der staatlichen Abschlussprüfung bezieht. Die
+erforderlichen Kenntnisse und Fähigkeiten sind nach Satz 3 auch
+nachzuweisen, wenn die Prüfung des Antrags nur mit unangemessenem
+zeitlichen oder sachlichen Aufwand möglich ist, weil die
+erforderlichen Unterlagen und Nachweise aus Gründen, die nicht in der
+Person der Antragsteller liegen, von diesen nicht vorgelegt werden
+können.
 
 (3a) Die Absätze 2 und 3 gelten entsprechend für Drittstaatsdiplome,
 für deren Anerkennung sich nach dem Recht der Europäischen
 Gemeinschaften eine Gleichstellung ergibt.
+
+(3b) Wird die Voraussetzung des Absatzes 1 Nummer 2 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, soll die Gleichwertigkeit der
+Berufsqualifikation nach den Absätzen 2, 3 oder 3a vor den
+Voraussetzungen nach Absatz 1 Nummer 3 bis 5 geprüft werden. Auf
+Antrag ist dem Antragsteller ein gesonderter Bescheid über die
+Feststellung seiner Berufsqualifikation zu erteilen.
+
+(3c) Die Absätze 2 bis 3a finden keine Anwendung, wenn Antragsteller
+über einen Ausbildungsnachweis verfügen, der lediglich dem in Artikel
+11 Buchstabe a der Richtlinie 2005/36/EG genannten Niveau entspricht.
+
+(3d) Ein partieller Zugang zum Beruf des Psychologischen
+Psychotherapeuten oder des Kinder- und Jugendlichenpsychotherapeuten
+gemäß Artikel 4f der Richtlinie 2005/36/EG wird nur im Rahmen einer
+Erlaubnis zur Berufsausübung und nur nach Maßgabe des § 4 Absatz 2a
+gewährt. Der partielle Zugang kann verweigert werden, wenn dies im
+Interesse des Allgemeinwohls, insbesondere des Patientenschutzes oder
+zum Schutz der öffentlichen Gesundheit, zwingend erforderlich ist und
+die Verweigerung des partiellen Zugangs geeignet ist, diese Ziele in
+angemessener Form zu erreichen.
 
 (4) Soll die Erteilung der Approbation wegen Fehlens einer der
 Voraussetzungen nach Absatz 1 abgelehnt werden, so ist der
@@ -269,6 +302,110 @@ statistische Aufstellungen über die getroffenen Entscheidungen, die
 die Europäische Kommission für den nach Artikel 60 Abs. 1 der
 Richtlinie 2005/36/EG erforderlichen Bericht benötigt, zur
 Weiterleitung an die Kommission.
+
+
+## § 2b Vorwarnmechanismus
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf, die Rücknahme oder das Ruhen der Approbation oder der
+    Erlaubnis, die sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  die sofort vollziehbare oder unanfechtbare Einschränkung der Ausübung
+    des Berufs des Psychologischen Psychotherapeuten oder des Kinder- und
+    Jugendlichenpsychotherapeuten,
+
+
+3.  den Verzicht auf die Approbation oder die Erlaubnis,
+
+
+4.  das Verbot der Ausübung des Berufs des Psychologischen
+    Psychotherapeuten oder des Kinder- und Jugendlichenpsychotherapeuten
+    durch unanfechtbare gerichtliche Entscheidung oder
+
+
+5.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1, 2 oder Nummer 4, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 5 oder nach einem Verzicht nach Absatz 1 Nummer 3. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Approbation oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## § 3 Rücknahme, Widerruf und Ruhen der Approbation, Verzicht
@@ -332,7 +469,7 @@ oder als Kinder- und Jugendlichenpsychotherapeut verfügen, der in
 einem Mitgliedstaat der Europäischen Union oder einem anderen
 Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum oder
 in der Schweiz ausgestellt wurde, nicht erteilt. Eine Erlaubnis wird
-auch nicht in Fällen des § 2 Absatz 2 Satz 11 erteilt. Abweichend von
+auch nicht in Fällen des § 2 Absatz 2 Satz 9 erteilt. Abweichend von
 Satz 2 und 3 kann auf Antrag eine Erlaubnis zur vorübergehenden
 Ausübung eines der psychotherapeutischen Berufe erteilt werden, wenn
 mit dem Antrag dargelegt wird, dass im Hinblick auf die beabsichtigte
@@ -348,7 +485,35 @@ ausnahmsweise über den in Satz 2 genannten Zeitraum hinaus im
 besonderen Einzelfall oder aus Gründen der psychotherapeutischen
 Versorgung erteilt oder verlängert werden. § 3 gilt entsprechend.
 
-(2a) (weggefallen)
+(2a) Abweichend von Absatz 1 Satz 2 und 3 wird eine Erlaubnis zur
+Berufsausübung auf Antrag Personen erteilt, die über einen Nachweis
+über eine abgeschlossene Ausbildung im Bereich der Psychologischen
+Psychotherapie oder der Kinder- und Jugendlichenpsychotherapie
+verfügen, wenn
+
+1.  diese Ausbildung in einem anderen Mitgliedstaat der Europäischen
+    Union, einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum oder in der Schweiz erworben wurde,
+
+
+2.  diese Ausbildung in dem jeweiligen Mitgliedstaat der Europäischen
+    Union, einem anderen Vertragsstaat des Abkommens über den Europäischen
+    Wirtschaftsraum oder in der Schweiz den Zugang zu einer
+    Berufstätigkeit gewährt, die der Tätigkeit eines Psychologischen
+    Psychotherapeuten oder eines Kinder- und Jugendlichenpsychotherapeuten
+    nach diesem Gesetz nur partiell entspricht, und
+
+
+3.  diese Berufstätigkeit sich objektiv von den anderen Tätigkeiten
+    trennen lässt, die den Beruf des Psychologischen Psychotherapeuten
+    oder des Kinder- und Jugendlichenpsychotherapeuten in Deutschland
+    prägen.
+
+
+
+Die Erlaubnis ist auf die Tätigkeiten und Beschäftigungsstellen zu
+beschränken, für die der Antragsteller qualifiziert ist; sie wird
+unbefristet erteilt. § 2 Absatz 1 Nummer 3 bis 5 gilt entsprechend.
 
 (3) Personen mit einer Erlaubnis nach Absatz 1 und 2 haben die Rechte
 und Pflichten eines Angehörigen des Berufs, für dessen Ausübung ihnen
@@ -499,7 +664,7 @@ Nähere über die staatlichen Prüfungen (§ 5 Abs. 1) zu regeln. Die
 Rechtsverordnungen sollen auch Vorschriften über die für die Erteilung
 der Approbationen nach § 2 Abs. 1 bis 3 notwendigen Nachweise, über
 die Urkunden für die Approbationen nach § 1 Abs. 1 Satz 1 und über die
-Anforderungen nach § 2 Abs. 2 Satz 3 enthalten.
+Anforderungen nach § 2 Absatz 2 Satz 5 bis 8 enthalten.
 
 (2) Die Ausbildungs- und Prüfungsverordnungen sind jeweils auf eine
 Ausbildung auszurichten, welche die Kenntnisse und Fähigkeiten in der
@@ -566,7 +731,7 @@ Verbindung mit § 2 Abs. 2, 3 oder Abs. 3a beantragen, zu regeln:
 1.  das Verfahren bei der Prüfung der Voraussetzungen des § 2 Abs. 1 Nr. 3
     und 4, insbesondere die Vorlage der vom Antragsteller vorzulegenden
     Nachweise und die Ermittlung durch die zuständige Behörde entsprechend
-    Artikel 50 Abs. 1 bis 3 in Verbindung mit Anhang VII der Richtlinie
+    Artikel 50 Absatz 1 bis 3a in Verbindung mit Anhang VII der Richtlinie
     2005/36/EG,
 
 
@@ -580,7 +745,10 @@ Verbindung mit § 2 Abs. 2, 3 oder Abs. 3a beantragen, zu regeln:
 
 
 4.  das Verfahren über die Voraussetzungen zur Dienstleistungserbringung
-    gemäß § 1 Abs. 1a in Verbindung mit § 9a dieses Gesetzes.
+    gemäß § 1 Abs. 1a in Verbindung mit § 9a dieses Gesetzes,
+
+
+5.  das Verfahren bei der Ausstellung eines Europäischen Berufsausweises.
 
 
 
@@ -623,8 +791,8 @@ abgeschlossenen Ausbildung oder auf Grund eines den Anforderungen des
 2.  wenn der Beruf des Psychologischen Psychotherapeuten oder des Kinder-
     und Jugendlichenpsychotherapeuten oder die Ausbildung zu diesen
     Berufen im Niederlassungsmitgliedstaat nicht reglementiert ist, einen
-    dieser Berufe während der vorhergehenden zehn Jahre mindestens zwei
-    Jahre im Niederlassungsmitgliedstaat rechtmäßig ausgeübt haben,
+    dieser Berufe während der vorhergehenden zehn Jahre mindestens ein
+    Jahr im Niederlassungsmitgliedstaat rechtmäßig ausgeübt haben,
 
 
 
@@ -651,7 +819,8 @@ dieses Gesetzes zu erbringen.
 (3) Bei der erstmaligen Meldung der Dienstleistungserbringung oder im
 Falle wesentlicher Änderungen gegenüber der in den bisher vorgelegten
 Dokumenten bescheinigten Situation hat der Dienstleistungserbringer
-folgende Bescheinigungen vorzulegen:
+folgende Bescheinigungen nach den Nummern 1 bis 3 sowie die Erklärung
+nach Nummer 4 vorzulegen:
 
 1.  Staatsangehörigkeitsnachweis,
 
@@ -661,15 +830,22 @@ folgende Bescheinigungen vorzulegen:
 
 3.  Bescheinigung über die rechtmäßige Niederlassung im Beruf des
     Psychologischen Psychotherapeuten oder des Kinder- und
-    Jugendlichenpsychotherapeuten in einem anderen Mitgliedstaat, die sich
-    auch darauf erstreckt, dass dem Dienstleister die Ausübung seiner
-    Tätigkeit zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch
-    nicht vorübergehend, untersagt ist oder im Falle des Absatzes 1 Satz 1
-    Nr. 2 ein Nachweis in beliebiger Form darüber, dass der Dienstleister
-    eine der den Berufen des Psychologischen Psychotherapeuten oder des
-    Kinder- und Jugendlichenpsychotherapeuten entsprechende Tätigkeit
-    während der vorhergehenden zehn Jahre mindestens zwei Jahre lang
-    rechtmäßig ausgeübt hat.
+    Jugendlichenpsychotherapeuten in einem anderen Mitgliedstaat der
+    Europäischen Union oder einem anderen Vertragsstaat des Abkommens über
+    den Europäischen Wirtschaftsraum, die sich auch darauf erstreckt, dass
+    dem Dienstleister die Ausübung seiner Tätigkeit zum Zeitpunkt der
+    Vorlage der Bescheinigung nicht, auch nicht vorübergehend untersagt
+    ist und keine Vorstrafen vorliegen, oder im Fall des Absatzes 1 Satz 1
+    Nummer 2 einen Nachweis in beliebiger Form darüber, dass der
+    Dienstleister eine dem Beruf des Psychologischen Psychotherapeuten
+    oder des Kinder- und Jugendlichenpsychotherapeuten entsprechende
+    Tätigkeit während der vorhergehenden zehn Jahre mindestens ein Jahr
+    lang rechtmäßig ausgeübt hat und
+
+
+4.  eine Erklärung des Dienstleisters, dass er über die zur Erbringung der
+    Dienstleistung erforderlichen Kenntnisse der deutschen Sprache
+    verfügt.
 
 
 
@@ -685,12 +861,17 @@ Prüfungsverordnung für Kinder- und Jugendlichenpsychotherapeuten
 geforderten Ausbildung Ausgleichsmaßnahmen nur gefordert werden
 dürfen, wenn die Unterschiede so groß sind, dass ohne den Nachweis der
 fehlenden Kenntnisse und Fähigkeiten die öffentliche Gesundheit
-gefährdet wäre. Der Ausgleich der fehlenden Kenntnisse und Fähigkeiten
-soll in Form einer Eignungsprüfung erfolgen. Vom
-Dienstleistungserbringer im Sinne des Absatzes 1 können dabei
-Informationen über Einzelheiten zu einem Versicherungsschutz oder
-einer anderen Art des individuellen oder kollektiven Schutzes in Bezug
-auf die Berufshaftpflicht verlangt werden.
+gefährdet wäre. Soweit dies für die Beurteilung der Frage, ob
+wesentliche Unterschiede vorliegen, erforderlich ist, kann die
+zuständige Behörde bei der zuständigen Behörde des
+Niederlassungsmitgliedstaats Informationen über die Ausbildungsgänge
+des Dienstleisters anfordern. Der Nachweis des Ausgleichs der
+fehlenden Kenntnisse und Fähigkeiten erfolgt durch eine
+Eignungsprüfung. Vom Dienstleistungserbringer im Sinne des Absatzes 1
+können dabei Informationen über Einzelheiten zu einem
+Versicherungsschutz oder einer anderen Art des individuellen oder
+kollektiven Schutzes in Bezug auf die Berufshaftpflicht verlangt
+werden.
 
 (4) Staatsangehörigen eines Mitgliedstaats der Europäischen Union oder
 eines anderen Vertragsstaates des Abkommens über den Europäischen
@@ -720,19 +901,20 @@ dass
 
 ## § 9b Verwaltungszusammenarbeit
 
-Die zuständigen Behörden sind berechtigt, für jede
-Dienstleistungserbringung von den zuständigen Behörden des
-Niederlassungsmitgliedstaats Informationen über die Rechtmäßigkeit der
-Niederlassung sowie darüber anzufordern, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen. Auf
-Anforderung der zuständigen Behörden eines anderen Mitgliedstaats der
-Europäischen Union oder eines anderen Vertragsstaates des Abkommens
-über den Europäischen Wirtschaftsraum haben die zuständigen Behörden
-in Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der
-anfordernden Behörde alle Informationen über die Rechtmäßigkeit der
-Niederlassung und die gute Führung des Dienstleisters sowie
-Informationen darüber, dass keine berufsbezogenen disziplinarischen
-oder strafrechtlichen Sanktionen vorliegen, zu übermitteln.
+Im Fall von berechtigten Zweifeln sind die zuständigen Behörden
+berechtigt, für jede Dienstleistungserbringung von den zuständigen
+Behörden des Niederlassungsmitgliedstaats Informationen über die
+Rechtmäßigkeit der Niederlassung sowie darüber anzufordern, dass keine
+berufsbezogenen disziplinarischen oder strafrechtlichen Sanktionen
+vorliegen. Auf Anforderung der zuständigen Behörden eines anderen
+Mitgliedstaats der Europäischen Union oder eines anderen
+Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum
+haben die zuständigen Behörden in Deutschland nach Artikel 56 der
+Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über
+die Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
+disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
+übermitteln.
 
 
 ## § 9c Pflichten des Dienstleistungserbringers
@@ -772,8 +954,10 @@ personenbezogener Daten einzuhalten.
 des Landes, in dem der Antragsteller die staatliche Prüfung abgelegt
 hat. Die Entscheidungen nach § 2 Abs. 1 in Verbindung mit § 12, nach §
 2 Abs. 2 und 3 sowie nach § 4 trifft die zuständige Behörde des
-Landes, in dem der Beruf ausgeübt werden soll. § 4 Abs. 2a Satz 3
-bleibt unberührt.
+Landes, in dem der Beruf ausgeübt werden soll. Für das Verfahren zur
+Ausstellung eines Europäischen Berufsausweises ist die zuständige
+Behörde des Landes zuständig, in dem der Beruf ausgeübt wird oder
+ausgeübt werden soll.
 
 (2) Die Entscheidungen nach § 3 trifft die zuständige Behörde des
 Landes, in dem der Beruf ausgeübt wird oder zuletzt ausgeübt worden

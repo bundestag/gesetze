@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1955, 565
 
 Zuletzt geändert durch
-:   Art. 1 G v. 13.12.2007 I 2936
+:   Art. 358 V v. 31.8.2015 I 1474
 
 
 ## § 1
@@ -36,12 +36,12 @@ werden.
 
 ## § 2
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz (Bundesministerium) stellt jährlich für das
-abgelaufene landwirtschaftliche Wirtschaftsjahr den Ertrag und Aufwand
+(1) Das Bundesministerium für Ernährung und Landwirtschaft
+(Bundesministerium) stellt jährlich für das abgelaufene
+landwirtschaftliche Wirtschaftsjahr den Ertrag und Aufwand
 landwirtschaftlicher Betriebe, gegliedert nach Betriebsgrößen, -typen,
 -systemen und Wirtschaftsgebieten, fest. Er stellt zu diesem Zweck die
-Betriebsergebnisse von 6.000 bis 8.000 landwirtschaftlichen Betrieben
+Betriebsergebnisse von 6 000 bis 8 000 landwirtschaftlichen Betrieben
 zusammen und wertet sie aus. Die Auskünfte sind freiwillig.
 
 (2) Zur Feststellung der Lage der Landwirtschaft und ihrer einzelnen

@@ -4,7 +4,7 @@ Title: Bekanntmachung des Beschlusses der Bundesregierung über die Erweiterung 
   Tankerunfällen in der Deutschen Bucht
 jurabk: KüMErwBek
 layout: default
-origslug: k_merwbek
+origslug: kuemerwbek
 slug: kuemerwbek
 
 ---

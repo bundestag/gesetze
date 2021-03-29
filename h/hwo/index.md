@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 24.9.1998 I 3074; 2006, 2095;
 
 Zuletzt geändert durch
-:   Art. 2 G v. 5.12.2012 I 2415
+:   Art. 6 G v. 30.6.2017 I 2143
 
 
 ## Erster Teil - Ausübung eines Handwerks und eines handwerksähnlichen Gewerbes
@@ -63,10 +63,10 @@ Die Ausübung mehrerer Tätigkeiten im Sinne des Satzes 2 Nr. 1 und 2
 ist zulässig, es sei denn, die Gesamtbetrachtung ergibt, dass sie für
 ein bestimmtes zulassungspflichtiges Handwerk wesentlich sind.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Anlage A zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte
-Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt oder
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage A zu
+diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe
+streicht, ganz oder teilweise zusammenfaßt oder trennt oder
 Bezeichnungen für sie festsetzt, soweit es die technische und
 wirtschaftliche Entwicklung erfordert.
 
@@ -179,7 +179,7 @@ personenbezogener Daten, unterrichten, auch durch Abruf im
 automatisierten Verfahren, soweit dies zur Feststellung erforderlich
 ist, ob der Betriebsleiter die Voraussetzungen für die Eintragung in
 die Handwerksrolle erfüllt und ob er seine Aufgaben ordnungsgemäß
-wahrnimmt. Das Bundesministerium für Wirtschaft und Technologie wird
+wahrnimmt. Das Bundesministerium für Wirtschaft und Energie wird
 ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
 Einzelheiten eines Abrufs im automatisierten Verfahren zu regeln.
 
@@ -220,7 +220,10 @@ der gewerblichen Niederlassung übermittelt werden. Die Übermittlung
 von Daten nach den Sätzen 2 und 3 ist nicht zulässig, wenn der
 Gewerbetreibende widersprochen hat. Auf die Widerspruchsmöglichkeit
 sind die Gewerbetreibenden vor der ersten Übermittlung schriftlich
-hinzuweisen.
+oder elektronisch hinzuweisen. Von der Datenübermittlung
+ausgeschlossen sind die Wohnanschriften der Betriebsinhaber und der
+Betriebsleiter sowie deren elektronische Kontaktdaten, beispielsweise
+E-Mail-Adresse, Webseite, Telefaxnummer, Telefonnummer.
 
 (3) Öffentlichen Stellen sind auf Ersuchen Daten aus der
 Handwerksrolle zu übermitteln, soweit die Kenntnis tatsächlicher oder
@@ -244,7 +247,7 @@ Personengesellschaft in die Handwerksrolle eingetragen, wenn der
 Betriebsleiter die Voraussetzungen für die Eintragung in die
 Handwerksrolle mit dem zu betreibenden Handwerk oder einem mit diesem
 verwandten Handwerk erfüllt. Das Bundesministerium für Wirtschaft und
-Technologie bestimmt durch Rechtsverordnung mit Zustimmung des
+Energie bestimmt durch Rechtsverordnung mit Zustimmung des
 Bundesrates, welche zulassungspflichtige Handwerke sich so nahestehen,
 daß die Beherrschung des einen zulassungspflichtigen Handwerks die
 fachgerechte Ausübung wesentlicher Tätigkeiten des anderen
@@ -277,14 +280,14 @@ neben dem Studium eine Berufsausbildung gefordert wird, ist zusätzlich
 der Nachweis zu erbringen, dass diese abgeschlossen ist. Die
 Entscheidung, ob die Voraussetzungen für die Eintragung erfüllt sind,
 trifft die Handwerkskammer. Das Bundesministerium für Wirtschaft und
-Technologie kann zum Zwecke der Eintragung in die Handwerksrolle nach
-Satz 1 im Einvernehmen mit dem Bundesministerium für Bildung und
-Forschung durch Rechtsverordnung mit Zustimmung des Bundesrates die
+Energie kann zum Zwecke der Eintragung in die Handwerksrolle nach Satz
+1 im Einvernehmen mit dem Bundesministerium für Bildung und Forschung
+durch Rechtsverordnung mit Zustimmung des Bundesrates die
 Voraussetzungen bestimmen, unter denen die in Studien- oder
 Schulschwerpunkten abgelegten Prüfungen nach Satz 1 Meisterprüfungen
 in zulassungspflichtigen Handwerken entsprechen.
 
-(2a) Das Bundesministerium für Wirtschaft und Technologie kann durch
+(2a) Das Bundesministerium für Wirtschaft und Energie kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates bestimmen, daß in die
 Handwerksrolle einzutragen ist, wer in einem anderen Mitgliedstaat der
 Europäischen Gemeinschaft oder in einem anderen Vertragsstaat des
@@ -413,31 +416,42 @@ ist beizuladen.
 
 #### § 9
 
-(1) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates zur
-Durchführung von Richtlinien der Europäischen Union über die
-Anerkennung von Berufsqualifikationen im Rahmen der
-Niederlassungsfreiheit, des freien Dienstleistungsverkehrs und der
-Arbeitnehmerfreizügigkeit und zur Durchführung  des Abkommens vom 2.
-Mai 1992 über den Europäischen Wirtschaftsraum (BGBl. 1993 II S. 267)
-sowie des Abkommens zwischen der Europäischen Gemeinschaft und  ihren
-Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft
-andererseits über die Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002
-Nr. L 114 S. 6) zu bestimmen,
+(1) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates zur Durchführung
+von Richtlinien der Europäischen Union über die Anerkennung von
+Berufsqualifikationen im Rahmen der Niederlassungsfreiheit, des freien
+Dienstleistungsverkehrs und der Arbeitnehmerfreizügigkeit und zur
+Durchführung des Abkommens vom 2. Mai 1992 über den Europäischen
+Wirtschaftsraum (BGBl. 1993 II S. 267) sowie des Abkommens zwischen
+der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und
+der Schweizerischen Eidgenossenschaft andererseits über die
+Freizügigkeit vom 21. Juni 1999 (ABl. EG 2002 Nr. L 114 S. 6) zu
+bestimmen,
 
 1.  unter welchen Voraussetzungen einem Staatsangehörigen eines
-    Mitgliedstaates  der Europäischen Union, eines Vertragsstaates des
+    Mitgliedstaates der Europäischen Union, eines Vertragsstaates des
     Abkommens über den Europäischen Wirtschaftsraum oder der Schweiz, der
     im Inland zur Ausübung eines zulassungspflichtigen Handwerks eine
     gewerbliche Niederlassung unterhalten oder als Betriebsleiter tätig
     werden will, eine Ausnahmebewilligung zur Eintragung in die
-    Handwerksrolle zu erteilen ist und
+    Handwerksrolle zu erteilen ist,
 
 
 2.  unter welchen Voraussetzungen einem Staatsangehörigen eines der
     vorgenannten Staaten, der im Inland keine gewerbliche Niederlassung
-    unterhält,  die grenzüberschreitende Dienstleistungserbringung in
-    einem zulassungspflichtigen Handwerk gestattet ist.
+    unterhält, die grenzüberschreitende Dienstleistungserbringung in einem
+    zulassungspflichtigen Handwerk gestattet ist und
+
+
+3.  wie die Verfahren zur Ausstellung des Europäischen Berufsausweises und
+    zur Anerkennung von Berufsqualifikationen in den in den Nummern 1 und
+    2 genannten Fällen unter Verwendung von Europäischen Berufsausweisen
+    sowie die Anwendung des Vorwarnmechanismus gemäß der Richtlinie
+    2005/36/EG des Europäischen Parlaments und des Rates vom 7. September
+    2005 über die Anerkennung von Berufsqualifikationen (ABl. L 255 vom
+    30\.9.2005, S. 22), die zuletzt durch den Delegierten Beschluss (EU)
+    2016/790 (ABl. L 134 vom 24.5.2016, S. 135) geändert worden ist,
+    ausgestaltet sind.
 
 
 
@@ -583,15 +597,15 @@ beiden Trägerorganisationen gemeinsam zu benennen sind. Das gemeinsam
 benannte Mitglied führt den Vorsitz. Hat eine Trägerorganisation ein
 Mitglied nicht innerhalb von einem Monat nach Benennung des Mitglieds
 der anderen Trägerorganisation benannt, so erfolgt die Benennung durch
-das Bundesministerium für Wirtschaft und Technologie. Das
-Bundesministerium für Wirtschaft und Technologie benennt auch das
+das Bundesministerium für Wirtschaft und Energie. Das
+Bundesministerium für Wirtschaft und Energie benennt auch das
 vorsitzende Mitglied, wenn sich die Trägerorganisationen nicht
 innerhalb eines Monats einigen können, nachdem beide ihre Vorschläge
 für das gemeinsam zu benennende Mitglied unterbreitet haben. Die
 Schlichtungskommission gibt sich eine Geschäftsordnung.
 
-(6) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das
+(6) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates das
 Schlichtungsverfahren zu regeln.
 
 (7) Hält die zuständige Behörde die Erklärung nach Absatz 3 Satz 2
@@ -627,7 +641,9 @@ Betriebsstätte, über die Zahl der im Betrieb beschäftigten gelernten
 und ungelernten Personen und über handwerkliche Prüfungen des
 Betriebsinhabers und des Betriebsleiters sowie über die vertragliche
 und praktische Ausgestaltung des Betriebsleiterverhältnisses zu
-erteilen sowie auf Verlangen hierüber Nachweise vorzulegen. Auskünfte,
+erteilen sowie auf Verlangen sämtliche Dokumente vorzulegen, die zur
+Prüfung der Eintragung in die Handwerksrolle und zur Aufrechterhaltung
+der Eintragung in der Handwerksrolle erforderlich sind. Auskünfte,
 Nachweise und Informationen, die für die Prüfung der
 Eintragungsvoraussetzungen nach Satz 1 nicht erforderlich sind, dürfen
 von der Handwerkskammer nicht, auch nicht für Zwecke der Verfolgung
@@ -678,12 +694,12 @@ handwerksähnliches Gewerbe im Sinne dieses Gesetzes, wenn es
 handwerksähnlich betrieben wird und in Anlage B Abschnitt 2 zu diesem
 Gesetz aufgeführt ist.
 
-(3) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-Anlage B zu diesem Gesetz dadurch zu ändern, daß es darin aufgeführte
-Gewerbe streicht, ganz oder teilweise zusammenfaßt oder trennt,
-Bezeichnungen für sie festsetzt oder die Gewerbegruppen aufteilt,
-soweit es die technische und wirtschaftliche Entwicklung erfordert.
+(3) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates die Anlage B zu
+diesem Gesetz dadurch zu ändern, daß es darin aufgeführte Gewerbe
+streicht, ganz oder teilweise zusammenfaßt oder trennt, Bezeichnungen
+für sie festsetzt oder die Gewerbegruppen aufteilt, soweit es die
+technische und wirtschaftliche Entwicklung erfordert.
 
 
 #### § 19
@@ -846,7 +862,7 @@ Fertigkeiten, Kenntnisse und Fähigkeiten finden die auf der Grundlage
 des § 30 Abs. 5 des Berufsbildungsgesetzes erlassenen
 Rechtsverordnungen Anwendung.
 
-(4) Das Bundesministerium für Wirtschaft und Technologie kann nach
+(4) Das Bundesministerium für Wirtschaft und Energie kann nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
 bedarf, bestimmen, dass der Erwerb berufs- und arbeitspädagogischer
@@ -919,10 +935,10 @@ zu hören. Dies gilt nicht in den Fällen des § 22a Nr. 1.
 #### § 25
 
 (1) Als Grundlage für eine geordnete und einheitliche Berufsausbildung
-kann das Bundesministerium für Wirtschaft und Technologie im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
-Rechtsverordnung, die nicht der Zustimmung  des Bundesrates bedarf,
-für Gewerbe der Anlage A und der Anlage B Ausbildungsberufe staatlich
+kann das Bundesministerium für Wirtschaft und Energie im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung durch
+Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, für
+Gewerbe der Anlage A und der Anlage B Ausbildungsberufe staatlich
 anerkennen und hierfür Ausbildungsordnungen nach § 26 erlassen. Dabei
 können in einem Gewerbe mehrere Ausbildungsberufe staatlich anerkannt
 werden, soweit dies wegen der Breite des Gewerbes erforderlich ist;
@@ -941,8 +957,8 @@ oder werden Gewerbe in der Anlage A oder in der Anlage B zu diesem
 Gesetz gestrichen, zusammengefasst oder getrennt, so gelten für
 bestehende Berufsausbildungsverhältnisse die bisherigen Vorschriften.
 
-(5) Das Bundesministerium für Wirtschaft und Technologie informiert
-die Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die
+(5) Das Bundesministerium für Wirtschaft und Energie informiert die
+Länder frühzeitig über Neuordnungskonzepte und bezieht sie in die
 Abstimmung ein.
 
 
@@ -1008,11 +1024,7 @@ Abstimmung ein.
 
 6.  dass Teile der Berufsausbildung in geeigneten Einrichtungen außerhalb
     der Ausbildungsstätte durchgeführt werden, wenn und soweit es die
-    Berufsausbildung erfordert (überbetriebliche Berufsausbildung),
-
-
-7.  dass Lehrlinge (Auszubildende) einen schriftlichen Ausbildungsnachweis
-    zu führen haben.
+    Berufsausbildung erfordert (überbetriebliche Berufsausbildung).
 
 
 
@@ -1024,8 +1036,8 @@ Regelungen nach Nummer 1, 2 und 4 sinnvoll und möglich sind.
 
 Zur Entwicklung und Erprobung neuer Ausbildungsberufe sowie
 Ausbildungs- und Prüfungsformen kann das Bundesministerium für
-Wirtschaft und Technologie im Einvernehmen mit dem Bundesministerium
-für Bildung und Forschung nach Anhörung des Hauptausschusses des
+Wirtschaft und Energie im Einvernehmen mit dem Bundesministerium für
+Bildung und Forschung nach Anhörung des Hauptausschusses des
 Bundesinstituts für Berufsbildung durch Rechtsverordnung, die nicht
 der Zustimmung des Bundesrates bedarf, Ausnahmen von § 25 Abs. 2 und 3
 sowie den §§ 26, 31 und 39 zulassen, die auch auf eine bestimmte Art
@@ -1071,7 +1083,7 @@ Berufsbildung Richtlinien erlassen.
 Werden in einem Betrieb zwei verwandte Handwerke ausgeübt, so kann in
 beiden Handwerken in einer verkürzten Gesamtausbildungszeit
 gleichzeitig ausgebildet werden. Das Bundesministerium für Wirtschaft
-und Technologie bestimmt im Einvernehmen mit dem Bundesministerium für
+und Energie bestimmt im Einvernehmen mit dem Bundesministerium für
 Bildung und Forschung durch Rechtsverordnung für welche verwandte
 Handwerke eine Gesamtausbildungszeit vereinbart werden kann und die
 Dauer der Gesamtausbildungszeit.
@@ -1180,9 +1192,12 @@ der Gesellenprüfung zur Einsicht vorgelegt und der Mangel nicht nach §
 
 (1) Der Ausbildende hat unverzüglich nach Abschluß des
 Berufsausbildungsvertrags die Eintragung in die Lehrlingsrolle zu
-beantragen. Eine Ausfertigung der Vertragsniederschrift ist
-beizufügen. Entsprechendes gilt bei Änderungen des wesentlichen
-Vertragsinhalts.
+beantragen. Der Antrag kann schriftlich oder elektronisch gestellt
+werden; eine Kopie der Vertragsniederschrift ist jeweils beizufügen.
+Auf einen betrieblichen Ausbildungsplan im Sinne des § 11 Absatz 1
+Satz 2 Nummer 1 des Berufsbildungsgesetzes, der der zuständigen Stelle
+bereits vorliegt, kann dabei Bezug genommen werden. Entsprechendes
+gilt bei Änderungen des wesentlichen Vertragsinhalts.
 
 (2) Der Ausbildende hat anzuzeigen
 
@@ -1365,8 +1380,9 @@ Tatsachen fest.
     nicht später als zwei Monate nach dem Prüfungstermin endet,
 
 
-2.  wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie
-    vorgeschriebene schriftliche Ausbildungsnachweise geführt hat und
+2.  wer an vorgeschriebenen Zwischenprüfungen teilgenommen sowie einen vom
+    Ausbilder und Auszubildenden abgezeichneten Ausbildungsnachweis nach §
+    13 Satz 2 Nummer 7 des Berufsbildungsgesetzes vorgelegt hat und
 
 
 3.  wessen Berufsausbildungsverhältnis in die Lehrlingsrolle eingetragen
@@ -1498,7 +1514,7 @@ entsprechend.
 
 #### § 40
 
-(1) Das Bundesministerium für Wirtschaft und Technologie kann im
+(1) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses
@@ -1507,7 +1523,7 @@ Gesetzes erworbene Prüfungszeugnisse den entsprechenden Zeugnissen
 Berufsausbildung und die in der Prüfung nachzuweisenden beruflichen
 Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig sind.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie kann im
+(2) Das Bundesministerium für Wirtschaft und Energie kann im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
 Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
 durch Rechtsverordnung im Ausland erworbene Prüfungszeugnisse den
@@ -1579,7 +1595,7 @@ des Jugendarbeitsschutzgesetzes von Bedeutung sein können.
 
 (1) Als Grundlage für eine einheitliche berufliche Fortbildung kann
 das Bundesministerium für Bildung und Forschung im Einvernehmen mit
-dem Bundesministerium für Wirtschaft und Technologie nach Anhören des
+dem Bundesministerium für Wirtschaft und Energie nach Anhören des
 Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 Fortbildungsabschlüsse anerkennen und hierfür Prüfungsregelungen
@@ -1637,25 +1653,25 @@ Bestehens der anderen Prüfung erfolgt.
 
 #### § 42d
 
-Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
-Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
-durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses
-Gesetzes oder im Ausland erworbene Prüfungszeugnisse den
-entsprechenden Zeugnissen über das Bestehen einer Fortbildungsprüfung
-auf der Grundlage der §§ 42 und 42a gleichstellen, wenn die in der
-Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und
-Fähigkeiten gleichwertig sind.
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung nach Anhörung des
+Hauptausschusses des Bundesinstituts für Berufsbildung durch
+Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder
+im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen
+über das Bestehen einer Fortbildungsprüfung auf der Grundlage der §§
+42 und 42a gleichstellen, wenn die in der Prüfung nachzuweisenden
+beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig
+sind.
 
 
 #### § 42e
 
 Als Grundlage für eine geordnete und einheitliche berufliche
 Umschulung kann das Bundesministerium für Bildung und Forschung im
-Einvernehmen mit dem Bundesministerium für Wirtschaft und Technologie
-nach Anhörung des Hauptausschusses des Bundesinstituts für
-Berufsbildung durch Rechtsverordnung, die nicht der Zustimmung des
-Bundesrates bedarf,
+Einvernehmen mit dem Bundesministerium für Wirtschaft und Energie nach
+Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
+durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates
+bedarf,
 
 1.  die Bezeichnung des Umschulungsabschlusses,
 
@@ -1733,15 +1749,15 @@ Bestehens der anderen Prüfung erfolgt.
 
 #### § 42j
 
-Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung nach
-Anhörung des Hauptausschusses des Bundesinstituts für Berufsbildung
-durch Rechtsverordnung außerhalb des Anwendungsbereichs dieses
-Gesetzes oder im Ausland erworbene Prüfungszeugnisse den
-entsprechenden Zeugnissen über das Bestehen einer Umschulungsprüfung
-auf der Grundlage der §§ 42e und 42f gleichstellen, wenn die in der
-Prüfung nachzuweisenden beruflichen Fertigkeiten, Kenntnisse und
-Fähigkeiten gleichwertig sind.
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung nach Anhörung des
+Hauptausschusses des Bundesinstituts für Berufsbildung durch
+Rechtsverordnung außerhalb des Anwendungsbereichs dieses Gesetzes oder
+im Ausland erworbene Prüfungszeugnisse den entsprechenden Zeugnissen
+über das Bestehen einer Umschulungsprüfung auf der Grundlage der §§
+42e und 42f gleichstellen, wenn die in der Prüfung nachzuweisenden
+beruflichen Fertigkeiten, Kenntnisse und Fähigkeiten gleichwertig
+sind.
 
 
 ### Siebenter Abschnitt - Berufliche Bildung behinderter Menschen, Berufsausbildungsvorbereitung
@@ -1824,8 +1840,8 @@ der Anlage A oder der Anlage B) entwickelt werden
 Handlungsfähigkeit stellt der Anbieter der
 Berufsausbildungsvorbereitung eine Bescheinigung aus. Das Nähere
 regelt das Bundesministerium für Bildung und Forschung im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie nach Anhörung
-des Hauptausschusses des Bundesinstituts für Berufsbildung durch
+mit dem Bundesministerium für Wirtschaft und Energie nach Anhörung des
+Hauptausschusses des Bundesinstituts für Berufsbildung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
 
@@ -1891,11 +1907,12 @@ beruflichen Bildung hinzuwirken.
 anzuhören ist, sind insbesondere:
 
 1.  Erlass von Verwaltungsgrundsätzen über die Eignung von Ausbildungs-
-    und Umschulungsstätten, für das Führen von schriftlichen
-    Ausbildungsnachweisen, für die Verkürzung der Ausbildungsdauer, für
-    die vorzeitige Zulassung zur Gesellenprüfung, für die Durchführung der
-    Prüfungen, zur Durchführung von über- und außerbetrieblicher
-    Ausbildung sowie Verwaltungsrichtlinien zur beruflichen Bildung,
+    und Umschulungsstätten, für das Führen von Ausbildungsnachweisen nach
+    § 13 Satz 2 Nummer 7 des Berufsbildungsgesetzes, für die Verkürzung
+    der Ausbildungsdauer, für die vorzeitige Zulassung zur
+    Gesellenprüfung, für die Durchführung der Prüfungen, zur Durchführung
+    von über- und außerbetrieblicher Ausbildung sowie
+    Verwaltungsrichtlinien zur beruflichen Bildung,
 
 
 2.  Umsetzung der vom Landesausschuss für Berufsbildung (§ 82 des
@@ -2007,10 +2024,9 @@ Unterausschüsse gelten § 43 Abs. 2 bis 6 und § 44a entsprechend.
 
 (1) Als Grundlage für ein geordnetes und einheitliches
 Meisterprüfungswesen für zulassungspflichtige Handwerke kann das
-Bundesministerium für Wirtschaft und Technologie im Einvernehmen mit
-dem Bundesministerium für Bildung und Forschung durch
-Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
-bestimmen,
+Bundesministerium für Wirtschaft und Energie im Einvernehmen mit dem
+Bundesministerium für Bildung und Forschung durch Rechtsverordnung,
+die nicht der Zustimmung des Bundesrates bedarf, bestimmen,
 
 1.  welche Fertigkeiten und Kenntnisse in den einzelnen
     zulassungspflichtigen Handwerken zum Zwecke der Meisterprüfung zu
@@ -2203,20 +2219,19 @@ Prüfungsverfahren werden durch eine von der Handwerkskammer mit
 Genehmigung der obersten Landesbehörde zu erlassende
 Meisterprüfungsordnung geregelt.
 
-(2) Das Bundesministerium für Wirtschaft und Technologie wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
-Vorschriften über das Zulassungsverfahren sowie das allgemeine
-Prüfungsverfahren nach Absatz 1 Satz 2 zu erlassen. Die
-Rechtsverordnung kann insbesondere die Zulassung zur Prüfung, das
-Bewertungssystem, die Erteilung der Prüfungszeugnisse, die Folgen von
-Verstößen gegen die Prüfungsvorschriften und die Wiederholungsprüfung
-regeln.
+(2) Das Bundesministerium für Wirtschaft und Energie wird ermächtigt,
+durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften
+über das Zulassungsverfahren sowie das allgemeine Prüfungsverfahren
+nach Absatz 1 Satz 2 zu erlassen. Die Rechtsverordnung kann
+insbesondere die Zulassung zur Prüfung, das Bewertungssystem, die
+Erteilung der Prüfungszeugnisse, die Folgen von Verstößen gegen die
+Prüfungsvorschriften und die Wiederholungsprüfung regeln.
 
 
 #### § 50a
 
-Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene
 Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen
 einer deutschen Meisterprüfung in zulassungspflichtigen Handwerken
@@ -2305,7 +2320,9 @@ Fachgespräche sowie praktische und theoretische Prüfungen.
 entsprechenden Meisterprüfung nicht festgestellt werden kann, kann die
 Handwerkskammer zur Feststellung der Gleichwertigkeit die Teilnahme an
 einem Anpassungslehrgang, der Gegenstand einer Bewertung ist, oder das
-Ablegen einer Eignungsprüfung verlangen.
+Ablegen einer Eignungsprüfung verlangen. Verlangt die Handwerkskammer
+eine Eignungsprüfung, soll sie ermöglichen, dass diese innerhalb von
+sechs Monaten abgelegt werden kann.
 
 (6) § 8 Absatz 2 und 3 Satz 2 und 3 gilt entsprechend. Im Übrigen sind
 die Vorschriften des Berufsqualifikationsfeststellungsgesetzes über
@@ -2335,7 +2352,7 @@ Meisterprüfung abgelegt werden.
 
 (2) Als Grundlage für ein geordnetes und einheitliches
 Meisterprüfungswesen für Handwerke oder Gewerbe im Sinne des Absatzes
-1 kann das Bundesministerium für Wirtschaft und Technologie im
+1 kann das Bundesministerium für Wirtschaft und Energie im
 Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
 bestimmen,
@@ -2379,7 +2396,7 @@ Meisterprüfung entfällt die Zulassungsvoraussetzung.
 
 (6) Für Befreiungen gilt § 46 entsprechend.
 
-(7) Das Bundesministerium für Wirtschaft und Technologie kann durch
+(7) Das Bundesministerium für Wirtschaft und Energie kann durch
 Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften über das
 Zulassungsverfahren sowie das allgemeine Prüfungsverfahren erlassen.
 Die Rechtsverordnung kann insbesondere die Zulassung zur Prüfung, das
@@ -2429,8 +2446,8 @@ anzugehören braucht.
 
 #### § 51c
 
-Das Bundesministerium für Wirtschaft und Technologie kann im
-Einvernehmen mit dem Bundesministerium für Bildung und Forschung durch
+Das Bundesministerium für Wirtschaft und Energie kann im Einvernehmen
+mit dem Bundesministerium für Bildung und Forschung durch
 Rechtsverordnung mit Zustimmung des Bundesrates im Ausland erworbene
 Prüfungszeugnisse den entsprechenden Zeugnissen über das Bestehen
 einer deutschen Meisterprüfung in einem zulassungsfreien Handwerk oder
@@ -3292,7 +3309,7 @@ wirtschaftlich nahestehender Handwerke im Bundesgebiet.
 (2) Auf den Bundesinnungsverband finden die Vorschriften dieses
 Abschnitts sinngemäß Anwendung. Die nach § 80 erforderliche
 Genehmigung der Satzung und ihrer Änderung erfolgt durch das
-Bundesministerium für Wirtschaft und Technologie.
+Bundesministerium für Wirtschaft und Energie.
 
 
 ### Dritter Abschnitt - Kreishandwerkerschaften
@@ -3463,7 +3480,7 @@ entscheidet die oberste Landesbehörde.
 
 4.  die Berufsausbildung zu regeln (§ 41), Vorschriften hierfür zu
     erlassen, ihre Durchführung zu überwachen (§ 41a) sowie eine
-    Lehrlingsrolle (§ 28 Satz 1) zu führen,
+    Lehrlingsrolle (§ 28 Absatz 1) zu führen,
 
 
 4a. Vorschriften für Prüfungen im Rahmen einer beruflichen Fortbildung
@@ -3491,6 +3508,16 @@ entscheidet die oberste Landesbehörde.
     Handwerks in Zusammenarbeit mit den Innungsverbänden zu fördern, die
     erforderlichen Einrichtungen hierfür zu schaffen oder zu unterstützen
     und zu diesem Zweck eine Gewerbeförderungsstelle zu unterhalten,
+
+
+7a. Maßnahmen zur Förderung und Durchführung der Berufsbildung,
+    insbesondere der Berufsausbildungsvorbereitung, Berufsausbildung,
+    beruflichen Fortbildung und beruflichen Umschulung, sowie der
+    technischen und betriebswirtschaftlichen Weiterbildung, insbesondere
+    Sachkundenachweise und Sachkundeprüfungen nach gesetzlichen
+    Vorschriften, nach Vorschriften der Unfallversicherungsträger oder
+    nach technischen Normvorschriften in Zusammenarbeit mit den
+    Innungsverbänden anzubieten,
 
 
 8.  Sachverständige zur Erstattung von Gutachten über Waren, Leistungen
@@ -3875,8 +3902,8 @@ Landesbehörde.
 11. die Voraussetzungen und die Form einer Änderung der Satzung,
 
 
-12. die Organe, in denen die Bekanntmachungen der Handwerkskammer zu
-    veröffentlichen sind.
+12. die Organe einschließlich elektronischer Medien, in denen die
+    Bekanntmachungen der Handwerkskammer zu veröffentlichen sind.
 
 
 
@@ -3956,8 +3983,9 @@ Verwaltungsbehörde bekanntzumachen.
 (2) Die nach Absatz 1 Nr. 3 bis 7, 10 bis 12 und 14 gefaßten
 Beschlüsse bedürfen der Genehmigung durch die oberste Landesbehörde.
 Die Beschlüsse nach Absatz 1 Nr. 5, 10 bis 12 und 14 sind in den für
-die Bekanntmachungen der Handwerkskammern bestimmten Organen (§ 105
-Abs. 2 Nr. 12) zu veröffentlichen.
+die Bekanntmachungen der Handwerkskammern bestimmten Organen
+einschließlich der elektronischen Medien (§ 105 Abs. 2 Nr. 12) zu
+veröffentlichen.
 
 
 #### § 107
@@ -4008,12 +4036,11 @@ wird.
 
 #### § 110
 
-(1) Die Vollversammlung kann unter Wahrung der im § 93 Abs. 1
-bestimmten Verhältniszahl aus ihrer Mitte Ausschüsse bilden und sie
-mit besonderen regelmäßigen oder vorübergehenden Aufgaben betrauen. §
-107 findet entsprechende Anwendung.
+Die Vollversammlung kann unter Wahrung der im § 93 Abs. 1 bestimmten
+Verhältniszahl aus ihrer Mitte Ausschüsse bilden und sie mit
+besonderen regelmäßigen oder vorübergehenden Aufgaben betrauen. § 107
+findet entsprechende Anwendung.
 
-(2)
 
 
 #### § 111
@@ -4190,7 +4217,7 @@ bestimmen. Sie können diese Ermächtigung auf oberste Landesbehörden
 (1) Ordnungswidrig handelt, wer
 
 1.  entgegen § 1 Abs. 1 Satz 1 ein dort genanntes Gewerbe als stehendes
-    Gewerbe  selbständig betreibt oder
+    Gewerbe selbständig betreibt oder
 
 
 2.  entgegen § 51 oder § 51d die Ausbildungsbezeichnung
@@ -4268,7 +4295,7 @@ Verfahrens eine handwerkliche Tätigkeit ist.
 
 
 
-#### § 119
+#### § 119 \*)
 
 (1) Die bei Inkrafttreten dieses Gesetzes vorhandene Berechtigung
 eines Gewerbetreibenden, ein Handwerk als stehendes Gewerbe
@@ -4458,12 +4485,16 @@ den §§ 7a, 7b, 8 und 9 auch die Fachaufsicht.
 
 #### § 125
 
-(Inkrafttreten)
+Auf Ausbildungsverträge, die vor dem 30. September 2017 abgeschlossen
+wurden oder bis zu diesem Zeitpunkt abgeschlossen werden, sind § 6
+Absatz 2 Satz 5, § 26 Absatz 2 Satz 1, § 36 Absatz 1 Nummer 2 und § 44
+Absatz 2 Nummer 1 in ihrer bis zum 5. April 2017 geltenden Fassung
+weiter anzuwenden.
 
 
 #### Anlage A Verzeichnis der Gewerbe, die als zulassungspflichtige Handwerke betrieben werden können (§ 1 Abs. 2)
 
-(Fundstelle: BGBl. I 2003, 2945 - 2946; bzgl. einzelner Änderungen
+(Fundstelle: BGBl. I 2003, 2945 - 2946; bzgl. der einzelnen Änderungen
 vgl. Fußnote)
 
 Nr.
@@ -4567,7 +4598,7 @@ Nr.
 33  Augenoptiker
 
 
-34  Hörgeräteakustiker
+34  Hörakustiker
 
 
 35  Orthopädietechniker
@@ -4948,28 +4979,34 @@ Nr.
 
 Text siehe: HwWahlO
 
+zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung)
 
-#### Anlage D zu dem Gesetz zur Ordnung des Handwerks (Handwerksordnung) Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
+#### Anlage D Art der personenbezogenen Daten in der Handwerksrolle, in dem Verzeichnis der Inhaber eines zulassungsfreien Handwerks oder handwerksähnlichen Gewerbes und in der Lehrlingsrolle
 
-Fundstelle des Originaltextes: BGBl. I 1998, 3110 - 3111;
-bzgl. der einzelnen Änderungen vgl. Fußnote
+(Fundstelle: BGBl. I 1998, 3110 - 3111;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 I.  In der Handwerksrolle dürfen folgende Daten gespeichert werden:
 
     1.  bei natürlichen Personen
 
-        a)  Name, Vorname, Geburtsname, Geburtsdatum und Staatsangehörigkeit des
+        a)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, des
             Betriebsinhabers, bei nicht voll geschäftsfähigen Personen auch der
-            Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Abs. 2
-            oder im Falle des § 7 Abs. 1 Satz 1 der Handwerksordnung sind auch
-            Name, Vorname, Geburtsdatum und Staatsangehörigkeit des
+            Name, Vorname des gesetzlichen Vertreters; im Falle des § 4 Absatz 2
+            oder im Falle des § 7 Absatz 1 Satz 1 der Handwerksordnung sind auch
+            der Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Internet-Adresse, Telefaxnummer oder Telefonnummer, des
             Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach
             Buchstabe e einzutragen;
 
 
         b)  die Firma, wenn der selbständige Handwerker eine Firma führt, die sich
-            auf den Handwerksbetrieb bezieht;
+            auf den Handwerksbetrieb bezieht, die Webseite des Handwerksbetriebes
+            sowie dessen Etablissementbezeichnung;
 
 
         c)  Ort und Straße der gewerblichen Niederlassung;
@@ -4997,11 +5034,13 @@ I.  In der Handwerksrolle dürfen folgende Daten gespeichert werden:
 
     2.  bei juristischen Personen
 
-        a)  die Firma oder der Name der juristischen Person sowie Ort und Straße
-            der gewerblichen Niederlassung;
+        a)  die Firma oder der Name der juristischen Person, deren Internetseite
+            und Firmierung sowie Ort und Straße der gewerblichen Niederlassung;
 
 
-        b)  Name, Vorname, Geburtsdatum und Staatsangehörigkeit der gesetzlichen
+        b)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, der gesetzlichen
             Vertreter;
 
 
@@ -5009,7 +5048,9 @@ I.  In der Handwerksrolle dürfen folgende Daten gespeichert werden:
             Handwerke;
 
 
-        d)  Name, Vorname, Geburtsdatum und Staatsangehörigkeit des
+        d)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, des
             Betriebsleiters sowie die für ihn in Betracht kommenden Angaben nach
             Nummer 1 Buchstabe e;
 
@@ -5024,19 +5065,23 @@ I.  In der Handwerksrolle dürfen folgende Daten gespeichert werden:
 
         a)  bei Personenhandelsgesellschaften die Firma, bei Gesellschaften des
             Bürgerlichen Rechts die Bezeichnung, unter der sie das Handwerk
-            betreiben, sowie der Ort und die Straße der gewerblichen
-            Niederlassung;
+            betreiben, deren Webseite und Firmierung sowie der Ort und die Straße
+            der gewerblichen Niederlassung;
 
 
-        b)  Name, Vorname, Geburtsdatum und Staatsangehörigkeit des für die
+        b)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, des für die
             technische Leitung des Betriebes verantwortlichen persönlich haftenden
-            Gesellschafters oder im Falle des § 7 Abs. 1 Satz 1 des
-            Betriebsleiters, Angaben über eine Vertretungsbefugnis und die für ihn
+            Gesellschafters oder im Falle des § 7 Absatz 1 Satz 1 des
+            Betriebsleiters Angaben über eine Vertretungsbefugnis und die für ihn
             in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 
-        c)  Name, Vorname, Geburtsdatum und Staatsangehörigkeit der übrigen
-            Gesellschafter, Angaben über eine Vertretungsbefugnis und die für sie
+        c)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, der übrigen
+            Gesellschafter, Angaben über eine Vertretungsbefugnis und die für ihn
             in Betracht kommenden Angaben nach Nummer 1 Buchstabe e;
 
 
@@ -5066,12 +5111,14 @@ I.  In der Handwerksrolle dürfen folgende Daten gespeichert werden:
             verbunden ist;
 
 
-        d)  Bezeichnung oder Firma sowie Ort und Straße der gewerblichen
-            Niederlassung des Nebenbetriebs;
+        d)  Bezeichnung oder Firma, deren Internetseite und Firmierung sowie Ort
+            und Straße der gewerblichen Niederlassung des Nebenbetriebs;
 
 
-        e)  Name, Vorname, Geburtsdatum und Staatsangehörigkeit des Leiters des
-            Nebenbetriebs und die für ihn in Betracht kommenden Angaben nach
+        e)  Name, Vorname, Geburtsname, Geburtsdatum, Staatsangehörigkeit,
+            Wohnanschrift und elektronische Kontaktdaten, beispielsweise E-Mail-
+            Adresse, Webseite, Telefaxnummer oder Telefonnummer, des Leiters des
+            Nebenbetriebes und die für ihn in Betracht kommenden Angaben nach
             Nummer 1 Buchstabe e;
 
 
@@ -5123,8 +5170,9 @@ III. In der Lehrlingsrolle dürfen folgende personenbezogene Daten
 
     2.  bei den Ausbildern:
 
-        Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, Art der
-        fachlichen Eignung;
+        Name, Geburtsname, Vorname, Geschlecht, Geburtsdatum, elektronische
+        Kontaktdaten, beispielsweise E-Mail-Adresse, Webseite, Telefaxnummer
+        oder Telefonnummer, Art der fachlichen Eignung;
 
 
     3.  bei den Auszubildenden
@@ -5135,7 +5183,8 @@ III. In der Lehrlingsrolle dürfen folgende personenbezogene Daten
             Staatsangehörigkeit, allgemeinbildender Schulabschluss,
             vorausgegangene Teilnahme an berufsvorbereitender Qualifizierung oder
             beruflicher Grundbildung, berufliche Vorbildung, Anschrift des
-            Lehrlings,
+            Lehrlings und dessen elektronische Kontaktdaten, beispielsweise E
+            -Mail-Adresse, Webseite, Telefaxnummer oder Telefonnummer,
 
 
         b)  erforderlichenfalls bei gesetzlichen Vertretern:
@@ -5172,8 +5221,9 @@ IV. In das Verzeichnis der Unternehmer nach § 90 Abs. 3 und 4 der
 
 
 
+Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III
 
-#### Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet B Abschnitt III (BGBl. II 1990, 889, 998)
+#### Anhang EV (BGBl. II 1990, 889, 998)
 
 Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
 mit folgenden Maßgaben in Kraft:

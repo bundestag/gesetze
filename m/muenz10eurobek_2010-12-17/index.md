@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro Gedenkmünze „FIS-ALPINE SKI WM 2011 Garmisch-Partenkirchen“
 jurabk: Münz10EuroBek 2010-12-17
 layout: default
-origslug: m_nz10eurobek_2010-12-17
+origslug: muenz10eurobek_2010-12-17
 slug: muenz10eurobek_2010-12-17
 
 ---
@@ -48,7 +48,7 @@ DEUTSCHLAND“, die Wertziffer und Wertbezeichnung sowie die Jahreszahl
 
 Der glatte Münzrand enthält in vertiefter Prägung die Inschrift:
 
-„*              FESTSPIELE IM SCHNEE*             “
+„* FESTSPIELE IM SCHNEE*“
 
 sowie die Prägebuchstaben „A D F G J“ der deutschen Prägestätten.
 

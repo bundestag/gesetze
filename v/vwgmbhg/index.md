@@ -54,8 +54,8 @@ und abgeführte Kapitalertragsteuer sind nicht zu erstatten. Die bis
 zum 11. November 1959 entstandenen, aber noch nicht erfüllten
 Vermögensteuer- und Kapitalertragsteueransprüche sind nicht geltend zu
 machen.
-§ 222 der Reichsabgabenordnung              findet in den Fällen der
-Sätze 1 und 2 keine Anwendung.
+§ 222 der Reichsabgabenordnung findet in den Fällen der Sätze 1 und 2
+keine Anwendung.
 
 
 ## § 5

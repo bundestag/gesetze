@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 19. September 1979 über die Erhaltung d
   wildlebenden Pflanzen und Tiere und ihrer natürlichen Lebensräume
 jurabk: EuLRaumÜbkG
 layout: default
-origslug: eulraum_bkg
+origslug: eulraumuebkg
 slug: eulraumuebkg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1984, 618
 
 Zuletzt geändert durch
-:   Art. 23 G v. 9.9.2001 I 2331
+:   Art. 416 V v. 31.8.2015 I 1474
 
 
 ## Art 1
@@ -30,10 +30,10 @@ zugestimmt. Das Übereinkommen wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, Änderungen der Anhänge I bis IV des Übereinkommens
-nach dessen Artikel 17, die sich im Rahmen der Ziele des
-Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, Änderungen der Anhänge I bis IV des
+Übereinkommens nach dessen Artikel 17, die sich im Rahmen der Ziele
+des Übereinkommens halten, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates in Kraft zu setzen.
 
 

@@ -3,7 +3,7 @@ Title: Gesetz zu dem Basler Übereinkommen vom 22. März 1989 über die Kontroll
   grenzüberschreitenden Verbringung gefährlicher Abfälle und ihrer Entsorgung
 jurabk: BaslÜbkG
 layout: default
-origslug: basl_bkg
+origslug: basluebkg
 slug: basluebkg
 
 ---

@@ -17,211 +17,10 @@ Fundstelle
 :   BGBl I: 2004, 2211
 
 Zuletzt geändert durch
-:   Art. 9 G v. 21.7.2011 I 1475
+:   Art. 4 Abs. 28 G v. 18.7.2016 I 1666
 
-
-## Inhaltsverzeichnis
-
-
-*    *   Abschnitt 1
-
-
-*    *
-    *   Allgemeine Vorschriften
-
-
-*    *   § 1
-
-    *   Zweck des Gesetzes
-
-
-*    *   § 2
-
-    *   Anwendungsbereich
-
-
-*    *   § 3
-
-    *   Begriffsbestimmungen
-
-
-*    *   Abschnitt 2
-
-
-*    *
-    *   Mengenplanung
-
-
-*    *   § 4
-
-    *   Nationale Emissionsziele
-
-
-*    *   § 5
-
-    *   Erfüllungsfaktor
-
-
-*    *   § 6
-
-    *   Reserve
-
-
-*    *   Abschnitt 3
-
-
-*    *
-    *   Zuteilungsregeln
-
-
-*    *
-    *
-    *   Unterabschnitt 1
-
-
-*    *
-    *
-    *
-    *   Grundregeln für die Zuteilung
-
-
-*    *   § 7
-
-    *   Zuteilung für bestehende Anlagen auf Basis historischer Emissionen
-
-
-*    *   § 8
-
-    *   Zuteilung für bestehende Anlagen auf Basis angemeldeter Emissionen
-
-
-*    *   § 9
-
-    *   Einstellung des Betriebes von Anlagen
-
-
-*    *   § 10
-
-    *   Zuteilung für Neuanlagen als Ersatzanlagen
-
-
-*    *   § 11
-
-    *   Zuteilung für zusätzliche Neuanlagen
-
-
-*    *
-    *
-    *   Unterabschnitt 2
-
-
-*    *
-    *
-    *
-    *   Besondere Zuteilungsregeln
-
-
-*    *   § 12
-
-    *   Frühzeitige Emissionsminderungen
-
-
-*    *   § 13
-
-    *   Prozessbedingte Emissionen
-
-
-*    *   § 14
-
-    *   Sonderzuteilung für Anlagen mit Kraft-Wärme-Kopplung
-
-
-*    *   § 15
-
-    *   Sonderzuteilung bei Einstellung des Betriebes von Kernkraftwerken
-
-
-*    *
-    *
-    *   Unterabschnitt 3
-
-
-*    *
-    *
-    *
-    *   Allgemeine Zuteilungsvorschriften
-
-
-*    *   § 16
-
-    *   Nähere Bestimmung der Berechnung der Zuteilung
-
-
-*    *   § 17
-
-    *   Überprüfung von Angaben
-
-
-*    *   § 18
-
-    *   Kosten der Zuteilung
-
-
-*    *   Abschnitt 4
-
-
-*    *
-    *   Ausgabe und Überführung von Berechtigungen
-
-
-*    *   § 19
-
-    *   Ausgabe
-
-
-*    *   § 20
-
-    *   Ausschluss der Überführung von Berechtigungen
-
-
-*    *   Abschnitt 5
-
-
-*    *
-    *   Gemeinsame Vorschriften
-
-
-*    *   § 21
-
-    *   Ordnungswidrigkeiten
-
-
-*    *   § 22
-
-    *   Zuständige Behörde
-
-
-*    *   § 23
-
-    *   Kosten von Amtshandlungen nach diesem Gesetz
-
-
-*    *   § 24
-
-    *   Inkrafttreten
-
-
-*    *   Anhang 1
-
-    *   Berechnungsformeln
-
-
-*    *   Anhang 2
-
-    *   Vergleichbarkeit von Anlagen
-
-
-
+Mittelbare änderung durch
+:   Art. 2 G v. 18.7.2016 I 1666 ist berücksichtigt
 
 
 ## Abschnitt 1 - Allgemeine Vorschriften
@@ -402,7 +201,7 @@ des Widerrufs von Zuteilungsentscheidungen nach § 8 Abs. 4, § 9 Abs.
 oder nicht ausgegeben werden, fließen sie der Reserve zu.
 
 (3) Soweit Zuteilungsentscheidungen nach § 11 dies erfordern,
-beauftragt das Bundesministerium für Umwelt, Naturschutz und
+beauftragt das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit im Einvernehmen mit dem Bundesministerium der
 Finanzen eine Stelle, auf eigene Rechnung Berechtigungen zu kaufen und
 diese der zuständigen Behörde kostenlos zum Zwecke der Zuteilung zur
@@ -941,7 +740,7 @@ je erzeugter Produkteinheit aus der Anlage vor Erweiterung in der
 Referenzperiode.
 
 (4) Die Absätze 1 und 2 gelten für Kraft-Wärme-Kopplungsanlagen im
-Sinne von § 3 Abs. 2 des Kraft-Wärme-Kopplungsgesetzes mit der
+Sinne von § 2 Nummer 14 des Kraft-Wärme-Kopplungsgesetzes mit der
 Maßgabe, dass als erzeugte Produkteinheit im Sinne von Absatz 2 die
 erzeugte Wärmemenge gemessen in Megajoule gilt. Soweit eine
 modernisierte Anlage ausschließlich Strom produzierte, gilt als
@@ -1024,8 +823,8 @@ Emissionen einer Anlage.
 
 (1) Auf Antrag teilt die zuständige Behörde ergänzend zu einer
 Zuteilung nach den Vorschriften des Unterabschnitts 1 Betreibern von
-Kraft-Wärme-Kopplungsanlagen im Sinne von § 3 Abs. 2 des Kraft-Wärme-
-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S. 1092), das durch
+Kraft-Wärme-Kopplungsanlagen im Sinne von § 2 Nummer 14 des Kraft-
+Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I S. 1092), das durch
 Artikel 136 der Verordnung vom 25. November 2003 (BGBl. I S. 2304)
 geändert worden ist, Berechtigungen zur Emission von 27 Tonnen
 Kohlendioxidäquivalent je Gigawattstunde in Kraft-Wärme-Kopplung
@@ -1052,15 +851,13 @@ Abs. 1 Satz 3 des Treibhausgas-Emissionshandelsgesetzes vom 8. Juli
 Anwendung.
 
 (4) Der Betreiber der Anlage legt der zuständigen Behörde bis zum 31.
-März eines Jahres, erstmals im Jahr 2006, die Abrechnung nach § 8 Abs.
-1 Satz 5 des Kraft-Wärme-Kopplungsgesetzes vom 19. März 2002 (BGBl. I
-S. 1092), das durch Artikel 136 der Verordnung vom 25. November 2003
-(BGBl. I S. 2304) geändert worden ist, vor. Soweit eine Kraft-Wärme-
-Kopplungsanlage keinen Strom in ein Netz für die allgemeine Versorgung
-einspeist oder Strom einspeist, ohne eine Begünstigung nach dem Kraft-
-Wärme-Kopplungsgesetz zu erhalten, gilt Satz 1 entsprechend für die
-KWK-Nettostromerzeugung der Anlage oder die in das Netz für die
-allgemeine Versorgung eingespeiste KWK-Nettostrommenge.
+März eines Jahres, erstmals im Jahr 2006, die Abrechnung nach § 15
+Absatz 2 des Kraft-Wärme-Kopplungsgesetzes, vor. Soweit eine Kraft-
+Wärme-Kopplungsanlage keinen Strom in ein Netz für die allgemeine
+Versorgung einspeist oder Strom einspeist, ohne eine Begünstigung nach
+dem Kraft-Wärme-Kopplungsgesetz zu erhalten, gilt Satz 1 entsprechend
+für die KWK-Nettostromerzeugung der Anlage oder die in das Netz für
+die allgemeine Versorgung eingespeiste KWK-Nettostrommenge.
 
 (5) Die zuständige Behörde widerruft die Zuteilungsentscheidung mit
 Wirkung für die Vergangenheit, wenn die in dem vergangenen
@@ -1129,7 +926,7 @@ zuständige Behörde Berechtigungen nur zu, soweit die Richtigkeit der
 Angaben ausreichend gesichert ist.
 
 
-#### § 18 Kosten der Zuteilung
+#### § 18 Kostenlose Zuteilung
 
 Von der zuständigen Behörde zugeteilte Berechtigungen sind kostenlos.
 Die Erhebung von Gebühren und Auslagen nach § 23 dieses Gesetzes sowie
@@ -1215,15 +1012,17 @@ entsprechend für Verpflichtungsklagen sowie für Klagen auf
 Feststellung der Nichtigkeit von Verwaltungsakten.
 
 
-### § 23 Kosten von Amtshandlungen nach diesem Gesetz
+### § 23 Gebühren und Auslagen für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
 
-Für Amtshandlungen nach diesem Gesetz werden kostendeckende Gebühren
-erhoben. Damit verbundene Auslagen sind auch abweichend von § 10 Abs.
-1 des Verwaltungskostengesetzes zu erstatten. Das Bundesministerium
-für Umwelt, Naturschutz und Reaktorsicherheit setzt durch
-Rechtsverordnung die Höhe der Gebühren und zu erstattende Auslagen für
-Amtshandlungen nach diesem Gesetz und nach aufgrund dieses Gesetzes
-erlassenen Rechtsverordnungen fest.
+Für individuell zurechenbare öffentliche Leistungen nach diesem Gesetz
+werden kostendeckende Gebühren erhoben. Damit verbundene Auslagen sind
+auch abweichend von § 10 Absatz 1 des Verwaltungskostengesetzes in der
+bis zum 14. August 2013 geltenden Fassung zu erstatten. Das
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+setzt durch Rechtsverordnung die Höhe der Gebühren und zu erstattende
+Auslagen für individuell zurechenbare öffentliche Leistungen nach
+diesem Gesetz und nach aufgrund dieses Gesetzes erlassenen
+Rechtsverordnungen fest.
 
 
 ### § 24 Inkrafttreten

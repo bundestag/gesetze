@@ -32,9 +32,9 @@ Geändert durch
 ## § 3
 
 Die Vorschriften der
-Reichs-              und Landesgesetze, die sich auf die
-eingeschriebenen Hilfskassen und ihre Mitglieder beziehen, gelten für
-die Versicherungsvereine auf Gegenseitigkeit, die zum Betrieb der
+Reichs- und Landesgesetze, die sich auf die eingeschriebenen
+Hilfskassen und ihre Mitglieder beziehen, gelten für die
+Versicherungsvereine auf Gegenseitigkeit, die zum Betrieb der
 Versicherung ihrer Mitglieder gegen Krankheit befugt sind, und für
 diese Mitglieder.
 
@@ -100,7 +100,7 @@ Zwanzigstel des Jahresbetrags der Mitgliederbeiträge zuzuführen.
 
 (3) Die §§ 11, 12,
 115 Abs. 2, 3 des Gesetzes über die privaten
-Versicherungsunternehmungen              gelten nicht für diese
+Versicherungsunternehmungen gelten nicht für diese
 Versicherungsvereine.
 
 

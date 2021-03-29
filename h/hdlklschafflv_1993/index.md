@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 993
 
 Zuletzt geändert durch
-:   Art. 3 V v. 26.9.2011 I 1914
+:   Art. 3 V v. 17.6.2014 I 793
 
 
 ## Eingangsformel
@@ -33,12 +33,13 @@ für Gesundheit und für Wirtschaft:
 ## § 1 Gesetzliche Handelsklassen und Kennzeichnung
 
 (1) Schaffleisch darf nach einer gesetzlichen Handelsklasse im Sinne
-des Artikels 42 Abs. 1 Unterabs. 2 und Anhang V Buchstabe C der
-Verordnung (EG) Nr. 1234/2007 des Rates vom 22. Oktober 2007 über eine
-gemeinsame Organisation der Agrarmärkte und mit Sondervorschriften für
-bestimmte landwirtschaftliche Erzeugnisse (Verordnung über eine
-einheitliche GMO) (ABl. EU Nr. L 299 S. 1) und der Verordnung (EG) Nr.
-1249/2008 der Kommission vom 10. Dezember 2008 mit
+des Artikels 10 Unterabsatz 2 und Anhang IV Teil C der Verordnung (EU)
+Nr. 1308/2013 des Europäischen Parlaments und des Rates vom 17.
+Dezember 2013 über eine gemeinsame Marktorganisation für
+landwirtschaftliche Erzeugnisse und zur Aufhebung der Verordnungen
+(EWG) Nr. 922/72, (EWG) Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr.
+1234/2007 (ABl. L 347 vom 20.12.2013, S. 671) und der Verordnung (EG)
+Nr. 1249/2008 der Kommission vom 10. Dezember 2008 mit
 Durchführungsbestimmungen zu den gemeinschaftlichen
 Handelsklassenschemata für Schlachtkörper von Rindern, Schweinen und
 Schafen und zur Feststellung der diesbezüglichen Preise (ABl. L 337

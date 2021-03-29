@@ -1795,8 +1795,8 @@ ergeben würde.
 
 (6) Die Absätze 1 bis 5 gelten nicht für Kreditinstitute im Sinne des
 Gesetzes über das Kreditwesen in der Fassung der Bekanntmachung vom
-3\. Mai 1976 (BGBl. I S. 1121),              geändert durch Artikel 72
-des Gesetzes vom
+3\. Mai 1976 (BGBl. I S. 1121), geändert durch Artikel 72 des Gesetzes
+vom
 14\. Dezember 1976 (BGBl. I S. 3341).
 
 

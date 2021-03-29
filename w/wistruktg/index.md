@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1861
 
 Zuletzt geändert durch
-:   Art. 8 G v. 7.9.2007 I 2246
+:   Art. 269 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -147,11 +147,10 @@ weiterzuentwickeln.
 (1) Für die Beschlussfassung über den gemeinsamen Koordinierungsrahmen
 und Anpassungen nach § 4 Abs. 2 und 3 bilden die Bundesregierung und
 die Landesregierungen einen Koordinierungsausschuss. Ihm gehören der
-Bundesminister für Wirtschaft und Technologie als Vorsitzender sowie
-der Bundesminister der Finanzen und ein Minister (Senator) jedes
-Landes an; jedes Mitglied kann sich vertreten lassen. Die Stimmenzahl
-des Bundes entspricht der Zahl aller Länder. Jedes Land hat eine
-Stimme.
+Bundesminister für Wirtschaft und Energie als Vorsitzender sowie der
+Bundesminister der Finanzen und ein Minister (Senator) jedes Landes
+an; jedes Mitglied kann sich vertreten lassen. Die Stimmenzahl des
+Bundes entspricht der Zahl aller Länder. Jedes Land hat eine Stimme.
 
 (2) Der Koordinierungsausschuss beschließt mit den Stimmen des Bundes
 und der Mehrheit der Stimmen der Länder.
@@ -222,58 +221,4 @@ beim Land.
 ## § 14 Inkrafttreten
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
-
-
-## Anhang EV Auszug aus EinigVtr Anlage I Kapitel V Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 997) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) -
-
-Abschnitt III
-Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet
-mit folgenden Maßgaben in Kraft:
-...
-
-1.  Gesetz über die Gemeinschaftsaufgabe "Verbesserung der regionalen
-    Wirtschaftsstruktur" vom 6. Oktober 1969 (BGBl. I S. 1861), zuletzt
-    geändert durch Artikel 3 des Gesetzes vom 23. Dezember 1971 (BGBl. I
-    S. 2140),
-
-    mit folgenden Maßgaben:
-
-    a)  In dem in Artikel 3 des Vertrages genannten Gebiet werden für einen
-        Zeitraum von fünf Jahren mit der Möglichkeit diesen Zeitraum zu
-        verlängern, beginnend mit dem Tage des Wirksamwerdens des Beitritts,
-        die in § 1 Abs. 1 genannten Förderungsmaßnahmen durchgeführt. In
-        diesem Gebiet und für diesen Zeitraum sind wegen besonderer
-        strukturpolitischer Erfordernisse Abweichungen von den in § 2 Abs. 1
-        genannten Grundsätzen, Ergänzungen der in § 1 Abs. 1 genannten
-        Maßnahmen und der in § 3 genannten Förderungsarten sowie eine
-        gesonderte Zuteilung von Bundesmitteln im Rahmen der
-        Gemeinschaftsaufgabe möglich.
-
-
-    b)  Für die in Buchstabe a genannte Übergangszeit wird bei der Berechnung
-        des in § 1 Abs. 2 Nr. 1 genannten Bundesdurchschnitts das in Artikel 3
-        des Vertrages genannte Gebiet nicht berücksichtigt.
-
-
-    c)  Für das in Artikel 3 des Vertrages genannte Gebiet werden in dem in
-        Buchstabe a genannten Zeitraum im Rahmenplan die Abweichungen zu § 2
-        Abs. 1 und Ergänzungen zu § 1 Abs. 1 sowie § 3 festgelegt.
-
-
-    d)  Zur Unterstützung des Aufbaus einer wirksamen Wirtschaftsförderung
-        können die in Artikel 3 des Vertrages genannten Länder und der Teil
-        des Landes Berlin, in dem das Grundgesetz bisher nicht galt, sich an
-        den Bund oder andere Länder um Unterstützung bei der Durchführung der
-        Maßnahmen wenden.
-
-
-    e)  Die Notwendigkeit einer Verlängerung der vorstehenden
-        Übergangsregelungen ist nach Ablauf von vier Jahren beginnend mit dem
-        Tage des Wirksamwerdens des Beitritts zu überprüfen.
-
-
-
-
-
-
 

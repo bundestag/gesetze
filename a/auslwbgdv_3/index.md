@@ -30,9 +30,9 @@ Auf Grund des § 23 Abs. 5, des § 24 Abs. 4, des § 35 Abs. 2 und des §
 (1) Diese Verordnung erstreckt sich auf alle Wertpapiere der im
 Verzeichnis der Auslandsbonds (§ 1 Abs. 1 des Gesetzes) aufgeführten
 oder bei einer Ergänzung
-(§ 1 Abs. 2 des Gesetzes)              in das Verzeichnis
-aufgenommenen Art einschließlich der Nebenurkunden (§ 5 des Gesetzes),
-soweit das Vereinigte Königreich von Großbritannien und Nordirland als
+(§ 1 Abs. 2 des Gesetzes) in das Verzeichnis aufgenommenen Art
+einschließlich der Nebenurkunden (§ 5 des Gesetzes), soweit das
+Vereinigte Königreich von Großbritannien und Nordirland als
 Begebungsland angegeben ist (im folgenden "Sterlingbonds" genannt).
 
 (2) Im Sinne dieser Verordnung bezeichnet der Ausdruck "der
@@ -75,7 +75,7 @@ London.
 
 (2) Das Schiedsgericht besteht aus drei Schiedsrichtern, und zwar
 einem Vorsitzer und zwei Beisitzern. Der Vorsitzer und ein Beisitzer
-müssen Mitglieder des englischen Anwaltsstands (Barristers oder
+müssen Mitglieder des englischen Anwaltsstandes (Barristers oder
 Solicitors) mit mindestens dreijähriger Berufspraxis sein.
 
 (3) Die Schiedsrichter werden durch den Bundesminister der Finanzen

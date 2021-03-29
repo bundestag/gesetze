@@ -3,7 +3,7 @@ Title: Haager Übereinkommen über die Zustellung gerichtlicher und außergerich
   Schriftstücke im Ausland in Zivil- oder Handelssachen
 jurabk: ZustÜbkHaag
 layout: default
-origslug: zust_bkhaag
+origslug: zustuebkhaag
 slug: zustuebkhaag
 
 ---

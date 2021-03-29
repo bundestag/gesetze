@@ -4,7 +4,7 @@ Title: Zweiter Nachtrag zu dem Gesetz über den Staatsvertrag betreffend den Üb
   Verhältnisse der Bundeswasserstraßen)
 jurabk: WaStrÜbgVtrGNtrag 2
 layout: default
-origslug: wastr_bgvtrgntrag_2
+origslug: wastruebgvtrgntrag_2
 slug: wastruebgvtrgntrag_2
 
 ---

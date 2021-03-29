@@ -229,7 +229,7 @@ kommen insbesondere in Betracht:
     Glaskonstruktion,
 
 
-\* 2. Einrahmen eines Objektes,
+* 2. Einrahmen eines Objektes,
 
 
 3.  Herstellen oder Instandsetzen einer Kunstverglasung oder
@@ -382,7 +382,7 @@ kommen insbesondere in Betracht:
 1.  Herstellen eines Fensters oder einer Fenstertür,
 
 
-\* 2. Herstellen einer Tür- oder Torkonstruktion,
+* 2. Herstellen einer Tür- oder Torkonstruktion,
 
 
 3.  Herstellen einer Glasfassadenkonstruktion oder
@@ -533,8 +533,9 @@ Anwendung der Vorschriften dieser Verordnung.
 
 Diese Verordnung tritt am 1. August 2001 in Kraft.
 
+(zu § 4 Abs 1)
 
-## Anlage (zu § 4 Abs 1) Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Glaser/zur Glaserin
 
 (Fundstelle: BGBl. I 2001, 1555 - 1561)
 

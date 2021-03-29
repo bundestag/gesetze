@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresve
   vom Lande aus
 jurabk: LMeerSchÜbkG
 layout: default
-origslug: lmeersch_bkg
+origslug: lmeerschuebkg
 slug: lmeerschuebkg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1981, 870
 
 Zuletzt geändert durch
-:   Art. 61 V v. 31.10.2006 I 2407
+:   Art. 90 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -36,13 +36,14 @@ wird nachstehend veröffentlicht.
 
 ## Art 2
 
-Das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-wird ermächtigt, im Einvernehmen mit dem Bundesministerium für
-Verkehr, Bau und Stadtentwicklung und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung mit Zustimmung des
-Bundesrates Änderungen der Anlage A des in Artikel 1 dieses Gesetzes
-genannten Übereinkommens nach dessen Artikel 18, die sich im Rahmen
-der Ziele des Übereinkommens halten, in Kraft zu setzen.
+Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates Änderungen der Anlage A des in Artikel
+1 dieses Gesetzes genannten Übereinkommens nach dessen Artikel 18, die
+sich im Rahmen der Ziele des Übereinkommens halten, in Kraft zu
+setzen.
 
 
 ## Art 3

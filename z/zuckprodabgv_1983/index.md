@@ -19,8 +19,8 @@ Fundstelle
 Neugefasst durch
 :   Bek. v. 9.11.2006 I 2596;
 
-Geändert durch
-:   Art. 2 V v. 17.12.2010 I 2295
+Zuletzt geändert durch
+:   Art. 2 V v. 2.6.2014 I 700
 
 
 ## § 1 Anwendungsbereich
@@ -87,17 +87,18 @@ Im Sinne dieser Verordnung sind:
 
 6.  Verarbeiter
 
-    Unternehmen im Sinne des Artikels 57 Absatz 1 der Verordnung (EG) Nr.
-    1234/2007 des Rates vom 22. Oktober 2007 über eine gemeinsame
-    Marktorganisation der Agrarmärkte und mit Sondervorschriften für
-    bestimmte landwirtschaftliche Erzeugnisse (Verordnung über die
-    einheitliche GMO) (ABl. L 299 vom 16.11.2007, S. 1), in der jeweils
-    geltenden Fassung, die Industriezucker, Industrieisoglukose oder
-    Industrieinulinsirup im Sinne der Verordnung (EG) Nr. 1234/2007 zu
-    Erzeugnissen, die im Anhang der Verordnung (EG) Nr. 967/2006 der
-    Kommission vom 29. Juni 2006 mit Durchführungsbestimmungen zur
-    Verordnung (EG) Nr. 318/2006 des Rates hinsichtlich der
-    Nichtquotenerzeugung im Zuckersektor genannt sind, verarbeiten.
+    Unternehmen im Sinne des Artikels 137 Absatz 1 der Verordnung (EU) Nr.
+    1308/2013 des Europäischen Parlaments und des Rates vom 17. Dezember
+    2013 über eine gemeinsame Marktorganisation für landwirtschaftliche
+    Erzeugnisse und zur Aufhebung der Verordnungen (EWG) Nr. 992/72, (EWG)
+    Nr. 234/79, (EG) Nr. 1037/2001 und (EG) Nr. 1234/2007 (ABl. L 347 vom
+    20\.12.2013, S. 671) in der jeweils geltenden Fassung, die
+    Industriezucker, Industrieisoglukose oder Industrieinulinsirup im
+    Sinne der Verordnung (EU) Nr. 1308/2013 zu Erzeugnissen, die im Anhang
+    der Verordnung (EG) Nr. 967/2006 der Kommission vom 29. Juni 2006 mit
+    Durchführungsbestimmungen zur Verordnung (EG) Nr. 318/2006 des Rates
+    hinsichtlich der Nichtquotenerzeugung im Zuckersektor genannt sind,
+    verarbeiten.
 
 
 
@@ -125,7 +126,7 @@ anzumelden. Jeder Anmeldung sind beizufügen:
 
 (2) Das Hauptzollamt kann auf Angaben verzichten und die Frist nach
 Absatz 1 Satz 1 auf Antrag verkürzen, wenn dadurch die Belange der
-Verordnung über die einheitliche GMO nicht beeinträchtigt werden. Der
+Verordnung (EU) Nr. 1308/2013 nicht beeinträchtigt werden. Der
 Hersteller hat auf Verlangen des Hauptzollamts weitere Angaben zu
 machen und Auszüge aus dem Handels- oder Genossenschaftsregister
 vorzulegen.
@@ -137,7 +138,7 @@ vorzulegen.
 die nach § 3a angemeldet sind, innerhalb einer Woche dem Hauptzollamt
 eine Anzeige in zwei Stücken abzugeben. Das Hauptzollamt kann den
 Hersteller auf Antrag hiervon unter bestimmten Auflagen befreien, wenn
-dadurch die Belange der Verordnung über die einheitliche GMO nicht
+dadurch die Belange der Verordnung (EU) Nr. 1308/2013 nicht
 beeinträchtigt werden.
 
 (2) Wechselt der Besitz des Herstellungsbetriebes, so hat der neue
@@ -223,13 +224,12 @@ erteilt, wenn sich der Antragsteller in seinem Antrag verpflichtet:
 Der Hersteller legt dem für ihn zuständigen Hauptzollamt vor der
 ersten Lieferung den Liefervertrag vor. Der Verarbeiter bescheinigt
 dem betreffenden Hersteller bei jeder Lieferung auf dem Lieferschein
-Art und Menge der gelieferten Industrierohstoffe. Für die Erfassung
-der Zugangsmengen gilt § 25 Absatz 1 Nummer 2 Buchstabe a des
-Eichgesetzes in der Fassung der Bekanntmachung vom 23. März 1992
-(BGBl. I S. 711), das zuletzt durch Artikel 2 des Gesetzes vom 3. Juli
-2008 (BGBl. I S. 1185) geändert worden ist. Der Hersteller teilt dem
-für ihn zuständigen Hauptzollamt Art und Menge der monatlich
-gelieferten Industrierohstoffe bis zum 28. Tag des Folgemonats mit.
+Art und Menge der gelieferten Industrierohstoffe. Zur Erfassung der
+Zugangsmengen ist ein Messgerät zu verwenden, das den Vorschriften des
+Mess- und Eichgesetzes und der auf Grund des Mess- und Eichgesetzes
+erlassenen Rechtsverordnungen entspricht. Der Hersteller teilt dem für
+ihn zuständigen Hauptzollamt Art und Menge der monatlich gelieferten
+Industrierohstoffe bis zum 28. Tag des Folgemonats mit.
 
 
 ## § 4 Anzeigeverpflichtung
@@ -317,7 +317,7 @@ werden.
 ## § 6 Übertragung von Zucker auf das folgende Wirtschaftsjahr
 
 (1) Die Übertragung von Zucker auf das folgende Wirtschaftsjahr ist
-dem zuständigen Hauptzollamt spätestens am 15. August des laufenden
+dem zuständigen Hauptzollamt spätestens am 31. August des laufenden
 Wirtschaftsjahres anzuzeigen. Die Übertragung von Isoglukose auf das
 folgende Wirtschaftsjahr ist dem zuständigen Hauptzollamt bis zum 31.
 Oktober des folgenden Wirtschaftsjahres anzuzeigen. Die Anzeige nach
@@ -335,11 +335,11 @@ folgenden 31. Juli schriftlich anzuzeigen.
 
 ## § 7 Muster, Vordrucke
 
-Für Anzeigen nach den §§ 4 und 6 kann der Bundesminister der Finanzen
-Muster in der Vorschriftensammlung Bundesfinanzverwaltung bekannt
-geben oder Vordrucke bei den zuständigen Hauptzollämtern bereithalten.
-Soweit Muster bekannt gegeben oder Vordrucke bereitgehalten werden,
-sind diese zu verwenden.
+Für Anzeigen nach den §§ 4 und 6 kann der Bundesministerium der
+Finanzen Muster in der Vorschriftensammlung Bundesfinanzverwaltung
+bekannt geben oder Vordrucke bei den zuständigen Hauptzollämtern
+bereithalten. Soweit Muster bekannt gegeben oder Vordrucke
+bereitgehalten werden, sind diese zu verwenden.
 
 
 ## § 8 Amtliche Feststellung der Zucker- und Isoglukoseerzeugung
@@ -369,12 +369,12 @@ die Übertragungsmengen entschieden.
 (1) Das zuständige Hauptzollamt setzt durch schriftlichen Bescheid
 fest:
 
-1.  die Produktionsabgabe nach Artikel 51 der Verordnung (EG) Nr.
-    1234/2007 und
+1.  die Produktionsabgabe nach Artikel 128 der Verordnung (EU) Nr.
+    1308/2013 und
 
 
-2.  die Überschussabgabe nach Artikel 64 der Verordnung (EG) Nr.
-    1234/2007.
+2.  die Überschussabgabe nach Artikel 142 der Verordnung (EU) Nr.
+    1308/2013.
 
 
 
@@ -415,15 +415,17 @@ der Aufsicht.
 ## § 13 Zuckerbuch, Anordnung weiterer Aufzeichnungen
 
 (1) Der Hersteller hat über den Zugang und Abgang an Zucker und
-Isoglukose ein Zuckerbuch zu führen. Für die Erfassung der Zugangs-
-und Abgangsmengen gilt § 25 Abs. 1 Nr. 2 Buchstabe a des Eichgesetzes.
-Für die Erfassung firmeninterner Warenbewegungen kann die
-Bundesfinanzverwaltung auf Antrag Ausnahmen zulassen. Für das
-Zuckerbuch sind die vom Bundesminister der Finanzen vorgeschriebenen
-Vordrucke zu verwenden. Die Zugänge und Abgänge müssen spätestens am
-folgenden Arbeitstag eingetragen werden. Das Hauptzollamt kann
-zulassen, dass die Anschreibungen für längere Zeitabschnitte als einen
-Tag, längstens für einen Kalendermonat, zusammengefasst werden.
+Isoglukose ein Zuckerbuch zu führen. Zur Erfassung der Zugangs- und
+Abgangsmengen ist ein Messgerät zu verwenden, das den Vorschriften des
+Mess- und Eichgesetzes und der auf Grund des Mess- und Eichgesetzes
+erlassenen Rechtsverordnungen entspricht. Für die Erfassung
+firmeninterner Warenbewegungen kann die Bundesfinanzverwaltung auf
+Antrag Ausnahmen zulassen. Für das Zuckerbuch sind die vom
+Bundesminister der Finanzen vorgeschriebenen Vordrucke zu verwenden.
+Die Zugänge und Abgänge müssen spätestens am folgenden Arbeitstag
+eingetragen werden. Das Hauptzollamt kann zulassen, dass die
+Anschreibungen für längere Zeitabschnitte als einen Tag, längstens für
+einen Kalendermonat, zusammengefasst werden.
 
 (2) Der Hersteller hat auf Verlangen des Hauptzollamtes über die in
 den Betrieb eingebrachten und verarbeiteten Ausgangsstoffe nach Art,

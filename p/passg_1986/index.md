@@ -2,7 +2,7 @@
 Title: Paßgesetz
 jurabk: PaßG 1986
 layout: default
-origslug: pa_g_1986
+origslug: passg_1986
 slug: passg_1986
 
 ---
@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1986, 537
 
 Zuletzt geändert durch
-:   Art. 4 Abs. 2 G v. 30.7.2009 I 2437
+:   Art. 2 G v. 7.7.2017 I 2310
 
 
 ## Erster Abschnitt - Paßvorschriften
@@ -463,7 +463,11 @@ begründen, daß der Paßbewerber
 
 
 10. eine in § 89a des Strafgesetzbuchs beschriebene Handlung vornehmen
-    wird.
+    wird;
+
+
+11. eine in § 226a des Strafgesetzbuchs beschriebene Handlung vornehmen
+    oder die Vornahme dieser Handlung durch Dritte veranlassen wird.
 
 
 
@@ -534,7 +538,35 @@ Deutschen nicht versagt werden.
     über den Wohnort oder die Größe - unzutreffend sind;
 
 
-3.  die Gültigkeitsdauer abgelaufen ist.
+3.  die Gültigkeitsdauer abgelaufen ist;
+
+
+4.  gegen den Passinhaber eine Anordnung nach § 8 in Verbindung mit § 7
+    Absatz 1 Nummer 1 oder Nummer 10 ergangen ist und er den
+    Geltungsbereich dieses Gesetzes verlassen hat; im Falle des § 7 Absatz
+    1 Nummer 1 gilt dies nur, wenn die Gefährdung darin besteht, dass
+    bestimmte Tatsachen die Annahme begründen, dass der Passinhaber
+
+    a)  einer terroristischen Vereinigung nach § 129a des Strafgesetzbuchs
+        oder einer terroristischen Vereinigung nach § 129a in Verbindung mit §
+        129b Absatz 1 Satz 1 des Strafgesetzbuchs mit Bezug zur Bundesrepublik
+        Deutschland angehört oder diese unterstützt oder
+
+
+    b)  rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung
+        international ausgerichteter politischer oder religiöser Belange
+        anwendet oder eine solche Gewaltanwendung unterstützt oder vorsätzlich
+        hervorruft;
+
+
+
+
+
+5.  gegen den Passinhaber eine Anordnung nach § 7 Absatz 2 Satz 1 in
+    Verbindung mit § 7 Absatz 1 Nummer 1 oder Nummer 10 ergangen ist, er
+    den Geltungsbereich dieses Gesetzes verlassen hat und sich in einem
+    Land aufhält, für das eine räumliche Beschränkung angeordnet wurde;
+    Nummer 4 zweiter Halbsatz gilt entsprechend.
 
 
 
@@ -584,7 +616,9 @@ Ausweis kann sichergestellt werden, wenn
 
 ### § 14 Sofortige Vollziehung
 
-Widerspruch und Anfechtungsklage gegen die Untersagung der Ausreise (§
+Widerspruch und Anfechtungsklage gegen die Beschränkung des
+Geltungsbereiches oder der Gültigkeitsdauer des Passes (§ 7 Absatz 2),
+gegen die Passentziehung (§ 8), gegen die Untersagung der Ausreise (§
 10) und gegen die Sicherstellung des Passes (§ 13) haben keine
 aufschiebende Wirkung.
 
@@ -719,9 +753,15 @@ Bereich als Ausweis- und Legitimationspapier benutzt werden.
 Hilfe ein Abruf personenbezogener Daten aus Dateien oder eine
 Verknüpfung von Dateien möglich ist.
 
-(3) Der Paß darf weder zum automatischen Abruf personenbezogener Daten
-noch zur automatischen Speicherung personenbezogener Daten verwendet
-werden.
+(3) Der Pass darf nur vom Passinhaber oder von anderen Personen mit
+Zustimmung des Passinhabers in der Weise abgelichtet werden, dass die
+Ablichtung eindeutig und dauerhaft als Kopie erkennbar ist. Andere
+Personen als der Passinhaber dürfen die Kopie nicht an Dritte
+weitergeben. Werden durch Ablichtung personenbezogene Daten aus dem
+Pass erhoben oder verarbeitet, so darf die datenerhebende oder
+-verarbeitende Stelle dies nur mit Einwilligung des Passinhabers tun.
+Die Vorschriften des allgemeinen Datenschutzrechts über die Erhebung
+und Verwendung personenbezogener Daten bleiben unberührt.
 
 (4) Beförderungsunternehmen dürfen personenbezogene Daten aus der
 maschinenlesbaren Zone des Passes elektronisch nur auslesen und
@@ -770,27 +810,41 @@ Feststellung von Personalien ermächtigten Behörden und Beamten
 zuständig.
 
 
-### § 20 Kosten
+### § 20 Gebühren und Auslagen, Verordnungsermächtigung
 
-(1) Für Amtshandlungen nach diesem Gesetz und nach den auf diesem
-Gesetz beruhenden Rechtsvorschriften können von demjenigen, der die
-Amtshandlung veranlaßt oder, wenn ein solcher nicht vorhanden ist, von
-demjenigen, zu dessen Gunsten sie vorgenommen wird, Kosten (Gebühren
-und Auslagen) erhoben werden.
+(1) Für individuell zurechenbare öffentliche Leistungen nach diesem
+Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben
+die Passbehörden Gebühren und Auslagen nach den Absätzen 2 und 3.
 
-(2) Das Bundesministerium des Innern wird ermächtigt, durch
-Rechtsverordnung mit Zustimmung des Bundesrates die
-gebührenpflichtigen Tatbestände, die Höhe der Gebühren und den Umfang
-der zu erstattenden Auslagen näher zu bestimmen sowie Ausnahmen von
-der Kostenpflicht zuzulassen. Die Gebühr für eine Amtshandlung nach
-Absatz 1 kann bis zur doppelten Höhe festgesetzt werden, wenn die
-Amtshandlungen auf Wunsch des Antragstellers außerhalb der Dienstzeit
-einer Paßbehörde vorgenommen werden.
+(2) Die Gebühr soll die mit der individuell zurechenbaren öffentlichen
+Leistung verbundenen Kosten aller an der Leistung Beteiligten decken.
+In die Gebühr sind die mit der Leistung regelmäßig verbundenen
+Auslagen einzubeziehen. Zur Ermittlung der Gebühr sind die Kosten, die
+nach betriebswirtschaftlichen Grundsätzen als Einzel- und Gemeinkosten
+zurechenbar und ansatzfähig sind, insbesondere Personal- und
+Sachkosten sowie kalkulatorische Kosten, zu Grunde zu legen. Zu den
+Gemeinkosten zählen auch die Kosten der Rechts- und Fachaufsicht.
+Grundlage der Gebührenermittlung nach den Sätzen 1 bis 4 sind die in
+der Gesamtheit der Länder mit der jeweiligen Leistung verbundenen
+Kosten. § 3 Absatz 1 und 2, die §§ 5 bis 7, 9 Absatz 3 bis 6 und die
+§§ 10 bis 12 des Bundesgebührengesetzes gelten entsprechend.
 
-(3) Das Auswärtige Amt kann, um Kaufkraftunterschiede auszugleichen,
-Gebühren, die von den Auslandsvertretungen der Bundesrepublik
-Deutschland für Amtshandlungen nach Absatz 1 erhoben werden, mindern
-oder auf sie einen Zuschlag bis zu 300 Prozent festsetzen.
+(3) Das Bundesministerium des Innern wird ermächtigt, für den Bereich
+der Landesverwaltung durch Rechtsverordnung mit Zustimmung des
+Bundesrates die gebührenpflichtigen Tatbestände, die Gebührenhöhe und
+die Auslagenerstattung näher zu bestimmen. Wird die individuell
+zurechenbare öffentliche Leistung nach Absatz 1 auf Wunsch des
+Antragstellers außerhalb der Dienstzeit einer Passbehörde vorgenommen,
+kann eine Gebühr bis zur doppelten Höhe der nach der Rechtsverordnung
+nach Satz 1 bestimmten Gebühr erhoben werden.
+
+(4) Durch Besondere Gebührenverordnung des Auswärtigen Amts nach § 22
+Absatz 4 des Bundesgebührengesetzes kann bestimmt werden, dass von den
+Auslandsvertretungen der Bundesrepublik Deutschland für individuell
+zurechenbare öffentliche Leistungen nach diesem Gesetz und den auf
+diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von
+Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann
+bis zu 300 Prozent der Gebühren betragen.
 
 
 ### § 21 Paßregister
@@ -903,7 +957,7 @@ aus dem Paßregister übermitteln. Voraussetzung ist, daß
 
 
 Hinsichtlich der Daten, die auch im Melderegister enthalten sind,
-finden außerdem die in den Meldegesetzen enthaltenen Beschränkungen
+finden außerdem die im Bundesmeldegesetz enthaltenen Beschränkungen
 Anwendung.
 
 (3) Die ersuchende Behörde trägt die Verantwortung dafür, daß die
@@ -949,21 +1003,26 @@ Seriennummer des Passes zu übermitteln.
 (1) In den Fällen des § 22 Abs. 2 kann die Übermittlung auch durch
 Datenübertragung erfolgen. § 6a Abs. 1 Satz 3 gilt entsprechend.
 
-(2) Im Fall der Übermittlung von Lichtbildern durch Passbehörden gemäß
-§ 19 Abs. 1 Satz 1 an die Polizei- und Ordnungsbehörden im Rahmen der
-Verfolgung von Straftaten und Verkehrsordnungswidrigkeiten sowie an
-die Steuerfahndungsstellen der Länder und an die Behörden der
-Zollverwaltung im Rahmen der Verfolgung von Straftaten und
-Ordnungswidrigkeiten kann der Abruf des Lichtbildes im automatisierten
-Verfahren erfolgen. Der Abruf ist nur zulässig, wenn die Passbehörde
-nicht erreichbar ist und ein weiteres Abwarten den Ermittlungszweck
-gefährden würde. Zuständig für den Abruf sind die
+(2) Im Fall der Übermittlung von Lichtbildern durch Passbehörden nach
+§ 19 Absatz 1 Satz 1 an die Ordnungsbehörden im Rahmen der Verfolgung
+von Verkehrsordnungswidrigkeiten kann der Abruf des Lichtbildes im
+automatisierten Verfahren erfolgen. Der Abruf ist nur zulässig, wenn
+die Passbehörde nicht erreichbar ist und ein weiteres Abwarten den
+Ermittlungszweck gefährden würde. Zuständig für den Abruf sind die
 Polizeivollzugsbehörden auf Ebene der Landkreise und kreisfreien
 Städte, die durch Landesrecht bestimmt werden. Die abrufende Behörde
 trägt die Verantwortung dafür, dass die Voraussetzungen der Absätze 1
-und 2 Satz 2 vorliegen. Über alle Abrufe sind von den beteiligten
-Behörden Aufzeichnungen zu fertigen, die eine Kontrolle der
-Zulässigkeit der Abrufe ermöglichen. Die Aufzeichnungen enthalten:
+und 2 Satz 2 vorliegen. Die Polizeibehörden des Bundes und der Länder,
+der Militärische Abschirmdienst, der Bundesnachrichtendienst, die
+Verfassungsschutzbehörden des Bundes und der Länder,
+Steuerfahndungsdienststellen der Länder, der Zollfahndungsdienst und
+die Hauptzollämter dürfen das Lichtbild zur Erfüllung ihrer Aufgaben
+im automatisierten Verfahren abrufen. Die abrufende Behörde trägt die
+Verantwortung dafür, dass die Voraussetzungen des Absatzes 1
+vorliegen. Über alle Abrufe sind von den beteiligten Behörden
+Aufzeichnungen zu fertigen, die eine Kontrolle der Zulässigkeit der
+Abrufe ermöglichen. Abrufe nach Satz 5 werden nur von der abrufenden
+Behörde protokolliert. Die Aufzeichnungen enthalten:
 
 1.  Vor- und Familiennamen sowie Tag und Ort der Geburt der Person, deren
     Lichtbild abgerufen wurde,
@@ -1045,17 +1104,13 @@ Grundgesetzes
     rechtzeitig erstattet,
 
 
-5.  gegen ein Verbot der Verwendung
-
-    a)  der Seriennummer gemäß § 18 Abs. 2 oder
+5.  entgegen § 18 Absatz 2 eine Seriennummer verwendet,
 
 
-    b)  des Passes zum automatischen Abruf oder zur automatischen Speicherung
-        personenbezogener Daten gemäß § 18 Abs. 3
+5a. entgegen § 18 Absatz 3 Satz 2 eine Kopie weitergibt,
 
 
-
-    verstößt oder
+5b. entgegen § 18 Absatz 3 Satz 3 Daten erhebt oder
 
 
 6.  entgegen § 18 Abs. 4 personenbezogene Daten ausliest, verarbeitet oder
@@ -1078,16 +1133,16 @@ Grundgesetzes
 
 
 
-(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nr. 4 und
-5 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen des
-Absatzes 1 mit einer Geldbuße bis zu dreißigtausend Euro und in den
-übrigen Fällen mit einer Geldbuße bis zu fünftausend Euro geahndet
-werden.
+(4) Die Ordnungswidrigkeit kann in den Fällen des Absatzes 2 Nummer 5
+und 6 mit einer Geldbuße bis zu dreihunderttausend Euro, in den Fällen
+des Absatzes 1 und des Absatzes 2 Nummer 5a und 5b mit einer Geldbuße
+bis zu dreißigtausend Euro und in den übrigen Fällen mit einer
+Geldbuße bis zu fünftausend Euro geahndet werden.
 
 (5) In den Fällen der Absätze 2 und 3 kann der Versuch der
 Ordnungswidrigkeit geahndet werden.
 
-(6) In den Fällen des Absatzes 2 Nr. 1 und 3 kann die Tat auch dann
+(6) In den Fällen des Absatzes 2 Nummer 2 und 4 kann die Tat auch dann
 geahndet werden, wenn sie im Ausland begangen wird.
 
 

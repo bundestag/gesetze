@@ -20,7 +20,7 @@ Neugefasst durch
 :   Bek. v. 17.12.1999 I 2664;
 
 Zuletzt geändert durch
-:   Art. 11 G v. 22.6.2011 I 1202
+:   Art. 1 G v. 22.12.2014 I 2408
 
 
 ## Abschnitt 1 - Rehabilitierung und Folgeansprüche
@@ -520,7 +520,7 @@ besondere Zuwendung für Haftopfer, wenn sie eine mit wesentlichen
 Grundsätzen einer freiheitlichen rechtsstaatlichen Ordnung
 unvereinbare Freiheitsentziehung von insgesamt mindestens 180 Tagen
 erlitten haben. Die monatliche besondere Zuwendung für Haftopfer
-beläuft sich auf 250 Euro.
+beläuft sich auf 300 Euro.
 
 (2) Berechtigte gelten als in ihrer wirtschaftlichen Lage besonders
 beeinträchtigt, wenn ihr Einkommen die in den Sätzen 7 bis 9
@@ -588,7 +588,10 @@ Sechsten Buches Sozialgesetzbuch gilt entsprechend.
 
 (6) Das Erste und das Zehnte Buch Sozialgesetzbuch finden
 entsprechende Anwendung, soweit nicht dieses Gesetz etwas anderes
-bestimmt.
+bestimmt.Führt eine Änderung dieses Gesetzes zu einer Änderung laufend
+gewährter Leistungen nach Absatz 1, sind diese von Amts wegen neu
+festzustellen. Von einer förmlichen Bescheiderteilung kann abgesehen
+werden; ausgenommen hiervon sind Fälle nach Absatz 3.
 
 (7) Die besondere Zuwendung für Haftopfer wird Personen nicht gewährt,
 gegen die eine Freiheitsstrafe von mindestens drei Jahren wegen einer

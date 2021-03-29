@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1969, 1513
 
 Zuletzt geändert durch
-:   Art. 2 G v. 22.12.2010 I 2255
+:   Art. 11 Abs. 14 G v. 18.7.2017 I 2745
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften
@@ -234,10 +234,13 @@ Erklärungen abgeben.
 
 #### § 10 Feststellung der Beteiligten
 
-(1) In der Niederschrift soll die Person der Beteiligten so genau
+(1) Der Notar soll sich Gewissheit über die Person der Beteiligten
+verschaffen.
+
+(2) In der Niederschrift soll die Person der Beteiligten so genau
 bezeichnet werden, daß Zweifel und Verwechslungen ausgeschlossen sind.
 
-(2) Aus der Niederschrift soll sich ergeben, ob der Notar die
+(3) Aus der Niederschrift soll sich ergeben, ob der Notar die
 Beteiligten kennt oder wie er sich Gewißheit über ihre Person
 verschafft hat. Kann sich der Notar diese Gewißheit nicht verschaffen,
 wird aber gleichwohl die Aufnahme der Niederschrift verlangt, so soll
@@ -418,12 +421,15 @@ Bei Verbraucherverträgen soll der Notar darauf hinwirken, dass
 
 
 2.  der Verbraucher ausreichend Gelegenheit erhält, sich vorab mit dem
-    Gegenstand der Beurkundung auseinander zu setzen; bei
-    Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Abs. 1
-    Satz 1 und Abs. 3 des Bürgerlichen Gesetzbuchs unterliegen, geschieht
-    dies im Regelfall dadurch, dass dem Verbraucher der beabsichtigte Text
-    des Rechtsgeschäfts zwei Wochen vor der Beurkundung zur Verfügung
-    gestellt wird.
+    Gegenstand der Beurkundung auseinanderzusetzen; bei
+    Verbraucherverträgen, die der Beurkundungspflicht nach § 311b Absatz 1
+    Satz 1 und Absatz 3 des Bürgerlichen Gesetzbuchs unterliegen, soll dem
+    Verbraucher der beabsichtigte Text des Rechtsgeschäfts vom
+    beurkundenden Notar oder einem Notar, mit dem sich der beurkundende
+    Notar zur gemeinsamen Berufsausübung verbunden hat, zur Verfügung
+    gestellt werden. Dies soll im Regelfall zwei Wochen vor der
+    Beurkundung erfolgen. Wird diese Frist unterschritten, sollen die
+    Gründe hierfür in der Niederschrift angegeben werden.
 
 
 
@@ -628,9 +634,8 @@ ist anzuwenden. Die Schrift soll der Niederschrift beigefügt werden;
 einer Verlesung der Schrift bedarf es nicht.
 
 
-#### § 31
+#### § 31 (weggefallen)
 
-(weggefallen)
 
 
 #### § 32 Sprachunkundige
@@ -673,8 +678,8 @@ Notars.
 #### § 34a Mitteilungs- und Ablieferungspflichten
 
 (1) Der Notar übermittelt nach Errichtung einer erbfolgerelevanten
-Urkunde im Sinne von § 78b Absatz 2 Satz 1 der Bundesnotarordnung die
-Verwahrangaben im Sinne von § 78b Absatz 2 Satz 2 der
+Urkunde im Sinne von § 78d Absatz 2 Satz 1 der Bundesnotarordnung die
+Verwahrangaben im Sinne von § 78d Absatz 2 Satz 2 der
 Bundesnotarordnung unverzüglich elektronisch an die das Zentrale
 Testamentsregister führende Registerbehörde. Die Mitteilungspflicht
 nach Satz 1 besteht auch bei jeder Beurkundung von Änderungen
@@ -762,13 +767,20 @@ und Ort und Tag der Ausstellung angeben soll (Vermerk).
 
 #### § 39a Einfache elektronische Zeugnisse
 
-Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können
+(1) Beglaubigungen und sonstige Zeugnisse im Sinne des § 39 können
 elektronisch errichtet werden. Das hierzu erstellte Dokument muss mit
-einer qualifizierten elektronischen Signatur nach dem Signaturgesetz
-versehen werden. Diese soll auf einem Zertifikat beruhen, das auf
-Dauer prüfbar ist. Mit dem Zeugnis muss eine Bestätigung der
-Notareigenschaft durch die zuständige Stelle verbunden werden. Das
-Zeugnis soll Ort und Tag der Ausstellung angeben.
+einer qualifizierten elektronischen Signatur versehen werden. Diese
+soll auf einem Zertifikat beruhen, das auf Dauer prüfbar ist. Der
+Notar muss die Signatur selbst erzeugen und die elektronischen
+Signaturerstellungsdaten selbst verwalten.
+
+(2) Mit dem Zeugnis muss eine Bestätigung der Notareigenschaft durch
+die zuständige Stelle verbunden werden. Das Zeugnis soll Ort und Tag
+der Ausstellung angeben.
+
+(3) Bei der Beglaubigung eines elektronischen Dokuments, das mit einer
+qualifizierten elektronischen Signatur versehen ist, soll das Ergebnis
+der Signaturprüfung dokumentiert werden.
 
 
 #### § 40 Beglaubigung einer Unterschrift
@@ -784,7 +796,7 @@ die Unterschrift vollzogen oder anerkannt hat. In dem Vermerk soll
 angegeben werden, ob die Unterschrift vor dem Notar vollzogen oder
 anerkannt worden ist.
 
-(4) § 10 Abs. 1, Abs. 2 Satz 1 gilt entsprechend.
+(4) § 10 Absatz 1, 2 und 3 Satz 1 gilt entsprechend.
 
 (5) Unterschriften ohne zugehörigen Text soll der Notar nur
 beglaubigen, wenn dargelegt wird, daß die Beglaubigung vor der
@@ -802,7 +814,7 @@ Bei der Beglaubigung der Zeichnung einer Namensunterschrift, die zur
 Aufbewahrung beim Gericht bestimmt ist, muß die Zeichnung in Gegenwart
 des Notars vollzogen werden; dies soll in dem Beglaubigungsvermerk
 festgestellt werden. Der Beglaubigungsvermerk muß auch die Person
-angeben, welche gezeichnet hat. § 10 Abs. 1, Abs. 2 Satz 1 gilt
+angeben, welche gezeichnet hat. § 10 Absatz 1, 2 und 3 Satz 1 gilt
 entsprechend.
 
 
@@ -827,9 +839,9 @@ bezeugt werden, daß die Urkunde über diesen Gegenstand keine weiteren
 Bestimmungen enthält.
 
 (4) Bei der Beglaubigung eines Ausdrucks eines elektronischen
-Dokuments, das mit einer qualifizierten elektronischen Signatur nach
-dem Signaturgesetz versehen ist, soll das Ergebnis der Signaturprüfung
-dokumentiert werden.
+Dokuments, das mit einer qualifizierten elektronischen Signatur
+versehen ist, soll das Ergebnis der Signaturprüfung dokumentiert
+werden.
 
 
 #### § 43 Feststellung des Zeitpunktes der Vorlegung einer privaten Urkunde
@@ -1024,11 +1036,59 @@ Zivilkammer des Landgerichts, in dessen Bezirk die Stelle, gegen die
 sich die Beschwerde richtet, ihren Sitz hat.
 
 
-## Fünfter Abschnitt - Verwahrung
+## Fünfter Abschnitt - (zukünftig in Kraft)
 
 
 
-### § 54a Antrag auf Verwahrung
+### § 55 (zukünftig in Kraft)
+
+(1) Der Notar führt ein elektronisches Verzeichnis über Beurkundungen
+und sonstige Amtshandlungen (Urkundenverzeichnis).
+
+(2) Das Urkundenverzeichnis und die elektronische Urkundensammlung
+sind vom Notar im Elektronischen Urkundenarchiv (§ 78h der
+Bundesnotarordnung) zu führen.
+
+(3) Die im Urkundenverzeichnis registrierten Urkunden verwahrt der
+Notar in einer Urkundensammlung, einer elektronischen Urkundensammlung
+und einer Erbvertragssammlung.
+
+
+### § 56 (zukünftig in Kraft)
+
+(1) Bei der Übertragung der in Papierform vorliegenden Schriftstücke
+in die elektronische Form soll durch geeignete Vorkehrungen nach dem
+Stand der Technik sichergestellt werden, dass die elektronischen
+Dokumente mit den in Papierform vorhandenen Schriftstücken inhaltlich
+und bildlich übereinstimmen. Diese Übereinstimmung ist vom Notar in
+einem Vermerk unter Angabe des Ortes und der Zeit seiner Ausstellung
+zu bestätigen. Durchstreichungen, Änderungen, Einschaltungen,
+Radierungen oder andere Mängel des Schriftstücks sollen im Vermerk
+angegeben werden, soweit sie nicht aus dem elektronischen Dokument
+eindeutig ersichtlich sind. Das elektronische Dokument und der Vermerk
+müssen mit einer qualifizierten elektronischen Signatur versehen
+werden. § 39a Absatz 1 Satz 3 und 4, Absatz 2 Satz 1 gilt
+entsprechend.
+
+(2) Werden nach der Einstellung der elektronischen Fassung einer in
+der Urkundensammlung zu verwahrenden Urschrift oder Abschrift in die
+elektronische Urkundensammlung Nachtragsvermerke, weitere Unterlagen
+oder andere Urschriften der Urschrift oder Abschrift beigefügt, sind
+die Nachtragsvermerke, die weiteren Unterlagen und die anderen
+Urschriften nach Absatz 1 in elektronische Dokumente zu übertragen und
+zusammen mit der elektronischen Fassung der Urschrift in der
+elektronischen Urkundensammlung zu verwahren.
+
+(3) Die von dem Notar in der elektronischen Urkundensammlung
+verwahrten elektronischen Dokumente stehen den Dokumenten gleich, aus
+denen sie nach den Absätzen 1 und 2 übertragen worden sind.
+
+
+## Sechster Abschnitt - Verwahrung
+
+
+
+### § 57 Antrag auf Verwahrung
 
 (1) Der Notar darf Bargeld zur Aufbewahrung oder zur Ablieferung an
 Dritte nicht entgegennehmen.
@@ -1071,7 +1131,7 @@ zugrundeliegenden Geschäfts von Personen erteilt werden, die an diesem
 nicht beteiligt sind.
 
 
-### § 54b Durchführung der Verwahrung
+### § 58 Durchführung der Verwahrung
 
 (1) Der Notar hat anvertraute Gelder unverzüglich einem Sonderkonto
 für fremde Gelder (Notaranderkonto) zuzuführen. Der Notar ist zu einer
@@ -1097,22 +1157,22 @@ betrauten Notar entsprechend, soweit ihm die Verfügungsbefugnis über
 Anderkonten übertragen worden ist. Die Landesregierungen oder die von
 ihnen bestimmten Stellen werden ermächtigt, durch Rechtsverordnung zu
 bestimmen, daß Verfügungen auch durch einen entsprechend
-bevollmächtigten anderen Notar erfolgen dürfen. Verfügungen sollen nur
-erfolgen, um Beträge unverzüglich dem Empfangsberechtigten oder einem
-von diesem schriftlich benannten Dritten zuzuführen. Sie sind
-grundsätzlich im bargeldlosen Zahlungsverkehr durchzuführen, sofern
-nicht besondere berechtigte Interessen der Beteiligten die Auszahlung
-in bar oder mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe
-für eine Bar- oder Scheckauszahlung sind von dem Notar zu vermerken.
-Die Bar- oder Scheckauszahlung ist durch den berechtigten Empfänger
-oder einen von ihm schriftlich Beauftragten nach Feststellung der
-Person zu quittieren. Verfügungen zugunsten von Privat- oder
-Geschäftskonten des Notars sind lediglich zur Bezahlung von
-Kostenforderungen aus dem zugrundeliegenden Amtsgeschäft unter Angabe
-des Verwendungszwecks und nur dann zulässig, wenn hierfür eine
-notarielle Kostenrechnung erteilt und dem Kostenschuldner zugegangen
-ist und Auszahlungsreife des verwahrten Betrages zugunsten des
-Kostenschuldners gegeben ist.
+bevollmächtigten anderen Notar oder im Land Baden-Württemberg durch
+Notariatsabwickler erfolgen dürfen. Verfügungen sollen nur erfolgen,
+um Beträge unverzüglich dem Empfangsberechtigten oder einem von diesem
+schriftlich benannten Dritten zuzuführen. Sie sind grundsätzlich im
+bargeldlosen Zahlungsverkehr durchzuführen, sofern nicht besondere
+berechtigte Interessen der Beteiligten die Auszahlung in bar oder
+mittels Bar- oder Verrechnungsscheck gebieten. Die Gründe für eine
+Bar- oder Scheckauszahlung sind von dem Notar zu vermerken. Die Bar-
+oder Scheckauszahlung ist durch den berechtigten Empfänger oder einen
+von ihm schriftlich Beauftragten nach Feststellung der Person zu
+quittieren. Verfügungen zugunsten von Privat- oder Geschäftskonten des
+Notars sind lediglich zur Bezahlung von Kostenforderungen aus dem
+zugrundeliegenden Amtsgeschäft unter Angabe des Verwendungszwecks und
+nur dann zulässig, wenn hierfür eine notarielle Kostenrechnung erteilt
+und dem Kostenschuldner zugegangen ist und Auszahlungsreife des
+verwahrten Betrages zugunsten des Kostenschuldners gegeben ist.
 
 (4) Eine Verwahrung soll nur dann über mehrere Anderkonten
 durchgeführt werden, wenn dies sachlich geboten ist und in der
@@ -1123,7 +1183,22 @@ soweit sich aus den Anweisungen nichts anderes ergibt. Der Gegenwert
 ist nach den Absätzen 2 und 3 zu behandeln.
 
 
-### § 54c Widerruf
+### § 59 Verordnungsermächtigung
+
+Das Bundesministerium der Justiz und für Verbraucherschutz hat durch
+Rechtsverordnung mit Zustimmung des Bundesrates die näheren
+Bestimmungen zu treffen über den Inhalt, den Aufbau und die Führung
+des Verwahrungsverzeichnisses einschließlich der Verweismöglichkeiten
+auf die im Urkundenverzeichnis zu der Urkunde gespeicherten Daten
+sowie über Einzelheiten der Datenübermittlung und -speicherung sowie
+der Datensicherheit. Die Verordnung kann auch Ausnahmen von der
+Eintragungspflicht anordnen. Die technischen und organisatorischen
+Maßnahmen zur Gewährleistung der Datensicherheit müssen denen zur
+Gewährleistung der Datensicherheit des Elektronischen Urkundenarchivs
+entsprechen.
+
+
+### § 60 Widerruf
 
 (1) Den schriftlichen Widerruf einer Anweisung hat der Notar zu
 beachten, soweit er dadurch Dritten gegenüber bestehende Amtspflichten
@@ -1138,7 +1213,7 @@ und wird er darauf gegründet, daß das mit der Verwahrung
 durchzuführende Rechtsverhältnis aufgehoben, unwirksam oder
 rückabzuwickeln sei, soll sich der Notar jeder Verfügung über das
 Verwahrungsgut enthalten. Der Notar soll alle an dem
-Verwahrungsgeschäft beteiligten Personen im Sinne des § 54a hiervon
+Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon
 unterrichten. Der Widerruf wird jedoch unbeachtlich, wenn
 
 1.  eine spätere übereinstimmende Anweisung vorliegt oder
@@ -1162,10 +1237,10 @@ oder ergänzende Regelungen enthalten.
 (5) § 15 Abs. 2 der Bundesnotarordnung bleibt unberührt.
 
 
-### § 54d Absehen von Auszahlung
+### § 61 Absehen von Auszahlung
 
 Der Notar hat von der Auszahlung abzusehen und alle an dem
-Verwahrungsgeschäft beteiligten Personen im Sinne des § 54a hiervon zu
+Verwahrungsgeschäft beteiligten Personen im Sinne des § 57 hiervon zu
 unterrichten, wenn
 
 1.  hinreichende Anhaltspunkte dafür vorliegen, daß er bei Befolgung der
@@ -1173,25 +1248,25 @@ unterrichten, wenn
     unredlicher Zwecke mitwirken würde, oder
 
 
-2.  einem Auftraggeber im Sinne des § 54a durch die Auszahlung des
+2.  einem Auftraggeber im Sinne des § 57 durch die Auszahlung des
     verwahrten Geldes ein unwiederbringlicher Schaden erkennbar droht.
 
 
 
 
 
-### § 54e Verwahrung von Wertpapieren und Kostbarkeiten
+### § 62 Verwahrung von Wertpapieren und Kostbarkeiten
 
-(1) Die §§ 54a, 54c und 54d gelten entsprechend für die Verwahrung von
+(1) Die §§ 57, 60 und 61 gelten entsprechend für die Verwahrung von
 Wertpapieren und Kostbarkeiten.
 
 (2) Der Notar ist berechtigt, Wertpapiere und Kostbarkeiten auch einer
-Bank im Sinne des § 54b Abs. 2 in Verwahrung zu geben, und ist nicht
+Bank im Sinne des § 58 Absatz 2 in Verwahrung zu geben, und ist nicht
 verpflichtet, von ihm verwahrte Wertpapiere zu verwalten, soweit in
 der Verwahrungsanweisung nichts anderes bestimmt ist.
 
 
-## Sechster Abschnitt - Schlußvorschriften
+## Siebter Abschnitt - Schlußvorschriften
 
 
 
@@ -1203,19 +1278,11 @@ der Verwahrungsanweisung nichts anderes bestimmt ist.
 
 
 
-##### § 55
-
--
-
-
-##### § 56 Beseitigung von Doppelzuständigkeiten
+##### § 63 Beseitigung von Doppelzuständigkeiten
 
 (1) u. (2) (Änderungsvorschriften)
 
-(3) In §§ 1410, 1750 des Bürgerlichen Gesetzbuchs werden die Worte
-"vor Gericht oder vor einem Notar" durch die Worte "zur Niederschrift
-eines Notars" ersetzt. § 2356 Abs. 2 Satz 1 des Bürgerlichen
-Gesetzbuchs bleibt unberührt.
+(3) (weggefallen)
 
 (4) Auch wenn andere Vorschriften des bisherigen Bundesrechts die
 gerichtliche oder notarielle Beurkundung oder Beglaubigung oder die
@@ -1223,18 +1290,13 @@ Erklärung vor einem Gericht oder Notar vorsehen, ist nur der Notar
 zuständig.
 
 
-##### § 57
-
--
-
-
-##### § 58 Beurkundungen nach dem Personenstandsgesetz
+##### § 64 Beurkundungen nach dem Personenstandsgesetz
 
 Dieses Gesetz gilt nicht für Beurkundungen nach dem
 Personenstandsgesetz.
 
 
-##### § 59 Unberührt bleibendes Bundesrecht
+##### § 65 Unberührt bleibendes Bundesrecht
 
 Soweit in diesem Gesetz nichts anderes bestimmt ist, bleiben
 bundesrechtliche Vorschriften über Beurkundungen unberührt.
@@ -1244,12 +1306,7 @@ bundesrechtliche Vorschriften über Beurkundungen unberührt.
 
 
 
-##### § 60
-
--
-
-
-##### § 61 Unberührt bleibendes Landesrecht
+##### § 66 Unberührt bleibendes Landesrecht
 
 (1) Unbeschadet der Zuständigkeit des Notars bleiben folgende
 landesrechtliche Vorschriften unberührt:
@@ -1334,28 +1391,10 @@ Beurkundungszuständigkeiten nicht neu übertragen werden.
 
 
 
-(4) Die Vorschriften über die Beurkundungszuständigkeiten der
-Ratschreiber und sonstigen Hilfsbeamten der Grundbuchämter in Baden-
-Württemberg, insbesondere § 6 des badischen
-Grundbuchausführungsgesetzes in der Fassung der Bekanntmachung vom 13.
-Oktober 1925 (Badisches Gesetz- und Verordnungsblatt S. 296) sowie
-Artikel 32 Abs. 1, Artikel 33, 34 des württembergischen
-Ausführungsgesetzes zum Bürgerlichen Gesetzbuch und zu anderen
-Reichsjustizgesetzen vom 29. Dezember 1931 (Württembergisches
-Regierungsblatt S. 545), bleiben unberührt; diese Vorschriften können
-von den dafür zuständigen Stellen aufgehoben, geändert oder durch
-Vorschriften entsprechenden Inhalts ersetzt werden, die für das Land
-Baden-Württemberg einheitlich gelten; dabei dürfen jedoch die
-Beurkundungszuständigkeiten nicht über den Umfang hinaus erweitert
-werden, in dem sie wenigstens in einem der Rechtsgebiete des Landes
-bereits bestehen; § 36 des Rechtspflegergesetzes gilt entsprechend.
-Unberührt bleiben ferner die Vorschriften, nach denen gegen
-Entscheidungen der Bezirksnotare, Ratschreiber und sonstigen
-Hilfsbeamten der Grundbuchämter in den Fällen des § 54 das Amtsgericht
-angerufen werden kann.
+(4) (weggefallen)
 
 
-##### § 62 Zuständigkeit der Amtsgerichte, Zustellung
+##### § 67 Zuständigkeit der Amtsgerichte, Zustellung
 
 (1) Unbeschadet der Zuständigkeit sonstiger Stellen sind die
 Amtsgerichte zuständig für die Beurkundung von
@@ -1378,27 +1417,22 @@ daß der Schuldner eine beglaubigte Abschrift der Urkunde ausgehändigt
 erhält; § 173 Satz 2 und 3 der Zivilprozeßordnung gilt entsprechend.
 
 
-##### § 63
+##### § 68
 
 Die Länder sind befugt, durch Gesetz die Zuständigkeit für die
 öffentliche Beglaubigung von Abschriften oder Unterschriften anderen
 Personen oder Stellen zu übertragen.
 
 
-##### § 64 Notare in Baden-Württemberg
+##### § 69 (weggefallen)
 
-Notar im Sinne dieses Gesetzes ist auch der nach dem badischen
-Landesgesetz über die freiwillige Gerichtsbarkeit bestellte Notar und
-der Bezirksnotar. Für einen solchen Notar gilt § 3 Abs. 1 Nr. 8 in
-Angelegenheiten des Landes Baden-Württemberg nicht allein deswegen,
-weil der Notar in einem Dienstverhältnis zu diesem Lande steht.
 
 
 #### c) - Amtliche Beglaubigungen
 
 
 
-##### § 65
+##### § 70
 
 Dieses Gesetz gilt nicht für amtliche Beglaubigungen, mit denen eine
 Verwaltungsbehörde zum Zwecke der Verwendung in Verwaltungsverfahren
@@ -1418,7 +1452,7 @@ unberührt.
 
 
 
-##### § 66
+##### § 71
 
 Dieses Gesetz gilt nicht für die Aufnahme eidesstattlicher
 Versicherungen in Verwaltungsverfahren.
@@ -1428,7 +1462,7 @@ Versicherungen in Verwaltungsverfahren.
 
 
 
-##### § 67
+##### § 72
 
 Die bundes- oder landesrechtlich vorgeschriebene Beidrückung des
 Dienstsiegels bei Erklärungen juristischer Personen des öffentlichen
@@ -1439,7 +1473,7 @@ Rechts wird durch die öffentliche Beurkundung ersetzt.
 
 
 
-##### § 68
+##### § 73
 
 (1) §§ 45 bis 49, 51, 52, 54 dieses Gesetzes gelten auch für Urkunden,
 die vor dem Inkrafttreten dieses Gesetzes errichtet worden sind. Dies
@@ -1458,7 +1492,7 @@ Richter errichtet worden sind.
 
 
 
-##### § 69
+##### § 74
 
 Soweit in Gesetzen oder Verordnungen auf die durch dieses Gesetz
 aufgehobenen oder abgeänderten Vorschriften verwiesen ist, treten die
@@ -1469,7 +1503,7 @@ entsprechenden Vorschriften dieses Gesetzes an ihre Stelle.
 
 
 
-#### § 70
+#### § 75
 
 Dieses Gesetz gilt nach Maßgabe des § 13 Abs. 1 des Dritten
 Überleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch
@@ -1480,7 +1514,7 @@ im Land Berlin.
 
 
 
-#### § 71
+#### § 76
 
 Dieses Gesetz tritt am 1. Januar 1970 in Kraft.
 

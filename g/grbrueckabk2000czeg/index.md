@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 12. September 2000 zwischen der Bundesrepublik 
   einer Grenzbrücke
 jurabk: GrBrückAbk2000CZEG
 layout: default
-origslug: grbr_ckabk2000czeg
+origslug: grbrueckabk2000czeg
 slug: grbrueckabk2000czeg
 
 ---

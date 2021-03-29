@@ -34,9 +34,8 @@ Absatz 2 Tarifverordnung angeordnet:
     I.  **Tarifarten**
 
         Die Übersicht nach Anlage 2
-        (§ 10                          Absatz 2) ist in der Kraftfahrzeug-
-        Haftpflicht-, Fahrzeugvoll- und Fahrzeugteilversicherung nach
-        folgenden Tarifarten zu unterteilen:
+        (§ 10 Absatz 2) ist in der Kraftfahrzeug-Haftpflicht-, Fahrzeugvoll-
+        und Fahrzeugteilversicherung nach folgenden Tarifarten zu unterteilen:
 
         *
             *
@@ -218,12 +217,10 @@ Absatz 2 Tarifverordnung angeordnet:
 
 
 
-        c)  Alter des Versicherungsnehmers                                wie in
-            Tarifart 1 und 2.
+        c)  Alter des Versicherungsnehmers wie in Tarifart 1 und 2.
 
 
-        d)  Baujahrklasse des Fahrzeugs                                wie in
-            Tarifart 1 und 2.
+        d)  Baujahrklasse des Fahrzeugs wie in Tarifart 1 und 2.
 
 
 
@@ -316,10 +313,9 @@ Absatz 2 Tarifverordnung angeordnet:
 
         Sofern im Tarif eines Versicherungsunternehmens die Gliederung gemäß
         Anlage 1 Abschnitt
-        VII                          Abs. 1 der Tarifverordnung nicht
-        vorgesehen ist, können auf Antrag die Wagnis-Kennziffern 781 unter 780
-        und
-        783                          unter 782 erfaßt werden.
+        VII Abs. 1 der Tarifverordnung nicht vorgesehen ist, können auf Antrag
+        die Wagnis-Kennziffern 781 unter 780 und
+        783 unter 782 erfaßt werden.
 
 
 

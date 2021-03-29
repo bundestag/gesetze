@@ -60,7 +60,7 @@ minderbemittelte Personen.
 übrigen die Begriffsbestimmungen der
 §§ 17 bis 19 des Steueranpassungsgesetzes und der
 Gemeinnützigkeitsverordnung vom 24. Dezember 1953 (Bundesgesetzbl. I
-S. 1592)              maßgebend.
+S. 1592) maßgebend.
 
 
 ## § 2
@@ -71,17 +71,17 @@ Satzung oder der Verfassung oder einer sonst getroffenen verbindlichen
 Regelung für diese Zwecke zu verwenden war.
 
 (2) Zugunsten der Einrichtungen der Wohlfahrtspflege im Sinne des
-§ 8 der Gemeinnützigkeitsverordnung              wird vermutet, daß
-ihr Vermögen in vollem Umfange für die begünstigten Zwecke gebunden
-war. Die Spitzenverbände der freien Wohlfahrtspflege (Centralausschuß
-für die Innere Mission der Deutschen Evangelischen Kirche
-einschließlich des Hilfswerks der Evangelischen Kirchen in
-Deutschland, Deutscher Caritas-Verband e.V., Deutscher Paritätischer
-Wohlfahrtsverband e.V., Deutsches Rotes Kreuz, Arbeiterwohlfahrt
-Hauptausschuß e.V., Zentralwohlfahrtsstelle der Juden in Deutschland
-e.V.), der Verband Deutscher Wohltätigkeitsstiftungen, der Deutsche
-Blindenverband e.V. und der Bund der Kriegsblinden Deutschlands e.V.,
-ihre Untergliederungen und angeschlossenen Einrichtungen und Anstalten
+§ 8 der Gemeinnützigkeitsverordnung wird vermutet, daß ihr Vermögen in
+vollem Umfange für die begünstigten Zwecke gebunden war. Die
+Spitzenverbände der freien Wohlfahrtspflege (Centralausschuß für die
+Innere Mission der Deutschen Evangelischen Kirche einschließlich des
+Hilfswerks der Evangelischen Kirchen in Deutschland, Deutscher
+Caritas-Verband e.V., Deutscher Paritätischer Wohlfahrtsverband e.V.,
+Deutsches Rotes Kreuz, Arbeiterwohlfahrt Hauptausschuß e.V.,
+Zentralwohlfahrtsstelle der Juden in Deutschland e.V.), der Verband
+Deutscher Wohltätigkeitsstiftungen, der Deutsche Blindenverband e.V.
+und der Bund der Kriegsblinden Deutschlands e.V., ihre
+Untergliederungen und angeschlossenen Einrichtungen und Anstalten
 gelten als Einrichtungen der Wohlfahrtspflege im Sinne des Satzes 1.
 
 (3) Die Vermutung des Absatzes 2 wird nicht dadurch ausgeschlossen,
@@ -182,8 +182,9 @@ Fundstelle des Originaltextes: BGBl. I 1959, 563
 
 
 
+(zu § 3 Nr. 2)
 
-## Anlage 2 (zu § 3 Nr. 2) Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
+## Anlage 2 Tabelle für die Ermittlung der Höhe der im Sinne des § 3 Nr. 2 für die begünstigten Zwecke gebundenen Rückstellungen
 
 Fundstelle des Originaltextes: BGBl. I 1959, 563
 

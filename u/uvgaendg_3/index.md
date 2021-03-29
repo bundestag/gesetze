@@ -2,7 +2,7 @@
 Title: Drittes Gesetz über Änderungen in der Unfallversicherung
 jurabk: UVGÄndG 3
 layout: default
-origslug: uvg_ndg_3
+origslug: uvgaendg_3
 slug: uvgaendg_3
 
 ---

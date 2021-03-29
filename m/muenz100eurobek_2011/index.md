@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 100 Euro (Goldmünze „UNESCO Welterbe Wartburg“)
 jurabk: Münz100EuroBek 2011
 layout: default
-origslug: m_nz100eurobek_2011
+origslug: muenz100eurobek_2011
 slug: muenz100eurobek_2011
 
 ---
@@ -46,10 +46,10 @@ Kontrapunkt ein Ritter zu Pferd, der die ritterliche und höfische
 Kultur als Element des Mittelalters symbolisiert.
 
 Die Korrespondenz der Bild- und Wertseite entspricht sich im
-zweitteiligen              Bildaufbau in hervorragender Weise. Die
-Schrift im jeweils unteren Teil ist in der Größe und Klarheit gut
-lesbar und unterstützt das Motiv. Der Adler ist kraftvoll gestaltet
-und hat eine würdige Anmutung.
+zweitteiligen Bildaufbau in hervorragender Weise. Die Schrift im
+jeweils unteren Teil ist in der Größe und Klarheit gut lesbar und
+unterstützt das Motiv. Der Adler ist kraftvoll gestaltet und hat eine
+würdige Anmutung.
 
 Die Wertseite zeigt einen Adler, den Schriftzug „BUNDESREPUBLIK
 DEUTSCHLAND“, die zwölf Europasterne, die Wertziffer mit der Euro-

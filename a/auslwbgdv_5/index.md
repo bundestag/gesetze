@@ -35,7 +35,7 @@ die Bundesregierung mit Zustimmung des Bundesrates:
 
 (1) Die Aussteller von Auslandsbonds haben als Abschlag auf die
 Verwaltungsabgabe (§ 64 des Gesetzes) drei vom Tausend des vorläufigen
-Bemessungsbetrags (Absätze 2, 3) zu entrichten.
+Bemessungsbetrages (Absätze 2, 3) zu entrichten.
 
 (2) Als vorläufiger Bemessungsbetrag gilt der Nennbetrag der
 ausgestellten Auslandsbonds unter Abzug
@@ -232,7 +232,7 @@ Auslandsschulden sind von den Zahlungen nach §§ 1 und 2 befreit.
 Aussteller von Auslandsbonds auf die Zahlungen, die von den
 Auslandsbevollmächtigten nach § 63 Abs. 5 Satz 1, Abs. 6 des Gesetzes
 für ihre Rechnung zu leisten sind, Vorschüsse in Höhe von fünf vom
-Tausend des vorläufigen Bemessungsbetrags (§ 1 Abs. 2, 3) zu
+Tausend des vorläufigen Bemessungsbetrages (§ 1 Abs. 2, 3) zu
 entrichten.
 
 (2) Die Aussteller können die nach Absatz 1 entrichteten Beträge

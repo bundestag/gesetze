@@ -3,7 +3,7 @@ Title: Anordnung des Bundespräsidenten über den Erlaß von Bestimmungen für d
   von Beamten der Deutschen Bundespost
 jurabk: BPräsKldgDBPAnO
 layout: default
-origslug: bpr_skldgdbpano
+origslug: bpraeskldgdbpano
 slug: bpraeskldgdbpano
 
 ---

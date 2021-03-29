@@ -15,6 +15,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1983, 685
 
+Geändert durch
+:   Art. 5 Abs. 2 V v. 18.10.2017 I 3584
+
 
 
 ## Eingangsformel
@@ -277,10 +280,10 @@ nicht beschäftigt werden.
 (2) Abweichend von Absatz 1 dürfen diese Personen beschäftigt werden,
 wenn
 
-1.  im Einzelfall auf Grund einer arbeitsmedizinischen
-    Vorsorgeuntersuchung nach § 12 Abs. 1 keine gesundheitlichen Bedenken
-    gegen eine Beschäftigung unter Temperatur- oder Klimabedingungen nach
-    Absatz 1 bestehen und
+1.  im Einzelfall auf Grund einer Eignungsuntersuchung nach § 2 der
+    Gesundheitsschutz-Bergverordnung vom 31. Juli 1991 (BGBl. I S. 1751)
+    keine gesundheitlichen Bedenken gegen eine Beschäftigung unter
+    Temperatur- oder Klimabedingungen nach Absatz 1 bestehen und
 
 
 2.  eine entsprechende Bescheinigung dem Unternehmer vorliegt.
@@ -394,105 +397,8 @@ Effektivtemperatur von mehr als
 37 Grad C zu rechnen ist.
 
 
-## § 12 Arbeitsmedizinische Vorsorgeuntersuchungen
+## § 12 (weggefallen)
 
-(1) Der Unternehmer darf Personen
-
-1.  außerhalb des Salzbergbaus bei einer Trockentemperatur von  mehr als
-    28 Grad C oder einer Effektivtemperatur von mehr als
-    25 Grad C oder
-
-
-2.  im Salzbergbau bei einer Trockentemperatur von mehr als
-    28 Grad C
-
-
-
-nur beschäftigen, wenn gegen ihre Beschäftigung nach dem Ergebnis der
-arbeitsmedizinischen Vorsorgeuntersuchungen (Erst- oder
-Nachuntersuchungen) keine gesundheitlichen Bedenken bestehen.
-
-(2) Personen, die innerhalb eines Jahres mehr als 80 Schichten unter
-Temperatur- oder Klimabedingungen nach Absatz 1 verfahren haben, sind
-in Zeitabständen von längstens 2 Jahren nachzuuntersuchen. Die
-Nachuntersuchungsfrist nach Satz 1 verkürzt sich auf längstens ein
-Jahr für Personen, die
-
-1.  innerhalb eines Jahres mehr als 80 Schichten
-
-    a)  außerhalb des Salzbergbaus bei Effektivtemperaturen von mehr als
-        29 Grad C,
-
-
-    b)  im Salzbergbau bei Trockentemperaturen von mehr als
-        46 Grad C
-
-
-
-
-    verfahren haben oder
-
-
-2.  noch keine 21 Jahre oder mehr als 50 Jahre alt sind.
-
-
-
-
-(3) Hält der die Vorsorgeuntersuchungen durchführende Arzt
-Nachuntersuchungen in kürzeren Fristen für geboten, so sind diese an
-Stelle der in Absatz 2 genannten Fristen maßgebend.
-
-(4) Die arbeitsmedizinischen Vorsorgeuntersuchungen sollen vorgenommen
-werden
-
-1.  innerhalb von 12 Wochen vor Beginn der Beschäftigung und
-
-
-2.  innerhalb von 6 Wochen vor Ablauf der Nachuntersuchungsfristen.
-
-
-
-
-(5) Der Unternehmer hat die arbeitsmedizinischen
-Vorsorgeuntersuchungen zu veranlassen. Er darf hiermit nur Personen
-beauftragen, die zur Ausübung des ärztlichen Berufes berechtigt und
-wegen der erforderlichen besonderen Fachkunde von der zuständigen
-Behörde hierfür ermächtigt sind. Aufwendungen für die
-Vorsorgeuntersuchungen hat der Unternehmer zu tragen, soweit sie nicht
-von Trägern der Sozialversicherung übernommen werden.
-
-(6) Für die Durchführung der arbeitsmedizinischen
-Vorsorgeuntersuchungen und die Aufzeichnung ihrer Ergebnisse ist das
-Muster nach Anlage 2 zu verwenden. Ergibt sich bei diesen
-Untersuchungen, daß ein ärztliches Urteil über die Beschäftigung einer
-Person an warmen Betriebspunkten nur auf Grund von
-Ergänzungsuntersuchungen gebildet werden kann, sind diese zu
-veranlassen.
-
-(7) Für die ärztliche Bescheinigung über arbeitsmedizinische
-Vorsorgeuntersuchungen ist das Muster nach Anlage 3 zu verwenden.
-
-(8) Arbeitsmedizinische Untersuchungen, die auf Grund anderer
-Rechtsvorschriften durchgeführt werden und nach Art, Umfang,
-Häufigkeit und Aufzeichnung die Anforderungen der Absätze 1 bis 7
-erfüllen, gelten als arbeitsmedizinische Vorsorgeuntersuchungen im
-Sinne des Absatzes 1.
-
-(9) Tritt im Zusammenhang mit einer Beschäftigung
-
-1.  außerhalb des Salzbergbaus bei einer Trockentemperatur von mehr als
-    28 Grad C oder einer Effektivtemperatur von mehr als
-    25 Grad C oder
-
-
-2.  im Salzbergbau bei einer Trockentemperatur von mehr als
-    28 Grad C
-
-
-
-bei einer Person eine Gesundheitsstörung auf, so soll sie sich von dem
-nach Absatz 5 Satz 2 ermächtigten Arzt möglichst unmittelbar nach der
-Ausfahrt untersuchen lassen. Absatz 5 Satz 3 gilt entsprechend.
 
 
 ## § 13 Aufzeichnungen
@@ -510,8 +416,8 @@ herausgegebenen Vordrucke Aufzeichnungen zu führen über
     vorausgegangenen 12 Monate täglich überwiegend tätig gewesen ist,
 
 
-3.  die durchgeführten arbeitsmedizinischen Vorsorgeuntersuchungen nach §
-    12,
+3.  die durchgeführten Eignungsuntersuchungen nach § 2 der
+    Gesundheitsschutz-Bergverordnung,
 
 
 4.  Art und Anzahl ihm bekanntgewordener Fälle von Gesundheitsstörungen,
@@ -600,11 +506,7 @@ Bundesberggesetzes handelt, wer vorsätzlich oder fahrlässig
 
 9.  entgegen § 11 Abs. 6, auch in Verbindung mit § 11 Abs. 7, die dort
     genannten Betriebspunkte nicht, nicht richtig oder nicht rechtzeitig
-    anzeigt,
-
-
-10. entgegen § 12 Abs. 1 Personen beschäftigt, gegen deren Beschäftigung
-    gesundheitliche Bedenken bestehen.
+    anzeigt.
 
 
 
@@ -618,10 +520,8 @@ nicht vollständig führt oder entgegen § 13 Abs. 2 nicht aufbewahrt.
 Versuchsgruben.
 
 
-## § 16 Berlin-Klausel
+## § 16 (weggefallen)
 
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 177 des Bundesberggesetzes auch im Land Berlin.
 
 
 ## § 17 Inkrafttreten, abgelöste Vorschriften
@@ -658,18 +558,6 @@ Der Bundesminister für Wirtschaft
 
 ## Anlage 1
 
-(Inhalt: nicht darstellbares Schaubild,
-Fundstelle: BGBl. I 1983, 690)
+(Fundstelle: BGBl. I 1983, 690)
 
-
-## Anlage 2 Untersuchungsbogen für arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 12 der Klima-Bergverordnung
-
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 1983, 691)
-
-
-## Anlage 3 Ärztliche Bescheinigung über arbeitsmedizinische Vorsorgeuntersuchungen gemäß § 12 der Klima-Bergverordnung
-
-(Inhalt: nicht darstellbares Muster,
-Fundstelle: BGBl. I 1983, 692)
-
+![bgbl1_1983_j0690_0010.jpg](bgbl1_1983_j0690_0010.jpg)

@@ -2,7 +2,7 @@
 Title: Verordnung zur verstärkten Förderung deutsch-französischer Filmvorhaben
 jurabk: FilmFöFRAV
 layout: default
-origslug: filmf_frav
+origslug: filmfoefrav
 slug: filmfoefrav
 
 ---

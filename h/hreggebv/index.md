@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2004, 2562
 
 Zuletzt geändert durch
-:   Art. 1 V v. 29.11.2010 I 1731
+:   Art. 2 G v. 17.7.2017 I 2434
 
 
 ## Eingangsformel
@@ -32,10 +32,13 @@ Für Eintragungen in das Handels-, Partnerschafts- oder
 Genossenschaftsregister, die Entgegennahme, Prüfung und Aufbewahrung
 der zum Handels- oder Genossenschaftsregister einzureichenden
 Unterlagen sowie die Übertragung von Schriftstücken in ein
-elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs und
-Artikel 61 Abs. 3 des Einführungsgesetzes zum Handelsgesetzbuch werden
+elektronisches Dokument nach § 9 Abs. 2 des Handelsgesetzbuchs werden
 Gebühren nach dem Gebührenverzeichnis der Anlage zu dieser Verordnung
-erhoben.
+erhoben. Satz 1 gilt nicht für die aus Anlass eines
+Insolvenzverfahrens von Amts wegen vorzunehmenden Eintragungen und für
+Löschungen nach § 395 des Gesetzes über das Verfahren in
+Familiensachen und in den Angelegenheiten der freiwilligen
+Gerichtsbarkeit.
 
 
 ## § 2 Allgemeine Vorschriften
@@ -140,28 +143,21 @@ Teil von den Gebühren 1503, 2501 und 3501 des Gebührenverzeichnisses
 auszugehen. § 3 Absatz 2 bleibt unberührt.
 
 
+## Schlussformel
+
+Der Bundesrat hat zugestimmt.
+
+
 ## § 5a Übergangsvorschrift
 
 Für Kosten, die vor dem Inkrafttreten einer Änderung der
 Rechtsverordnung fällig geworden sind, gilt das bisherige Recht.
 
 
-## § 6 Übergangsvorschrift zum Gesetz über elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister
-
-Für die Entgegennahme, Prüfung und Aufbewahrung eines Jahres-, Einzel-
-oder Konzernabschlusses und der dazu gehörenden Unterlagen für ein vor
-dem 1. Januar 2006 beginnendes Geschäftsjahr werden die Gebühren 5000
-und 5001 des Gebührenverzeichnisses in der vor dem 1. Januar 2007
-geltenden Fassung erhoben, auch wenn die Unterlagen erst nach dem 31.
-Dezember 2006 zum Handelsregister eingereicht werden.
-
-
-## Schlussformel
-
-Der Bundesrat hat zugestimmt.
-
-
 ## Anlage (zu § 1)
+
+(Fundstelle: BGBl. I 2010, 1732 – 1736;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 **Gebührenverzeichnis**
 ## Teil 1
@@ -1074,7 +1070,7 @@ Teil 5
 
 
 *    *   Vorbemerkung 5:
-        Mit den Gebühren 5000 bis 5006 wird auch der Aufwand für die Prüfung
+        Mit den Gebühren 5001 bis 5006 wird auch der Aufwand für die Prüfung
         und Aufbewahrung der genannten Unterlagen abgegolten.
 
 
@@ -1085,14 +1081,9 @@ Teil 5
 
 *    *   5000
 
+    *   (weggefallen)
+
     *
-        –   der Bescheinigung des Prüfungsverbands (§ 59 Abs. 1 GenG)
-
-
-
-
-    *   30,00 €
-
 
 *    *   5001
 
@@ -1121,7 +1112,7 @@ Teil 5
 
     *
         –   der Liste der Mitglieder des Aufsichtsrats einschließlich der
-            Bekanntmachung über die Einreichung (§ 52 Abs. 2 Satz 2 GmbHG, § 106
+            Bekanntmachung über die Einreichung (§ 52 Abs. 3 Satz 2 GmbHG, § 106
             AktG)
 
 
@@ -1167,7 +1158,7 @@ Teil 5
 *    *   5007
 
     *   Übertragung von Schriftstücken in ein elektronisches Dokument (§ 9
-        Abs. 2 HGB und Artikel 61 Abs. 3 EGHGB):
+        Abs. 2 HGB):
         für jede angefangene Seite
         Die Gebühr wird für die Dokumente jedes Registerblatts gesondert
         erhoben. Mit der Gebühr wird auch die einmalige elektronische

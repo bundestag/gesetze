@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1998, 3171
 
 Zuletzt geändert durch
-:   Art. 1 V v. 11.11.2010 I 1624
+:   Art. 481 V v. 31.8.2015 I 1474
 
 Die geltung der v ist durch
 :   § 8 idF d. V v. 11.11.2010 I 1624 über den 31.12.2010 hinaus verlängert worden
@@ -91,8 +91,8 @@ zu 3,5 t als Zugfahrzeug eine Tempo-100 km/h-Zulassung nach § 18 Abs.
 2.  im Falle einer nachträglichen Berichtigung der Fahrzeugpapiere des
     Anhängers ein amtlich anerkannter Sachverständiger oder Prüfer oder
     ein Prüfingenieur einer amtlich anerkannten Überwachungsorganisation
-    mit einem Formblatt, das vom Bundesministerium für Verkehr, Bau und
-    Stadtentwicklung im Verkehrsblatt bekannt gegeben wird, einen
+    mit einem Formblatt, das vom Bundesministerium für Verkehr und
+    digitale Infrastruktur im Verkehrsblatt bekannt gegeben wird, einen
     Vorschlag für die Berichtigung nach § 13 Abs. 1 der Fahrzeug-
     Zulassungsverordnung in den Fällen der Nummer 1, ausgenommen Nummer 1
     Buchstabe d Doppelbuchstabe bb, erstellt, oder, wenn eine Änderung

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1987, 2370
 
 Zuletzt geändert durch
-:   Art. 7 G v. 19.10.2012 I 2192
+:   Art. 1 V v. 2.7.2018 I 1080
 
 
 ## Eingangsformel
@@ -52,11 +52,9 @@ Diese Verordnung findet Anwendung auf Betriebe und Einrichtungen,
 soweit sie Großhandel mit Arzneimitteln treiben, soweit nicht nach § 1
 Abs. 2 der Arzneimittel- und Wirkstoffherstellungsverordnung vom 3.
 November 2006 (BGBl. I S. 2523), deren Vorschriften Anwendung finden.
-Die Verordnung gilt nicht für Betriebe und Einrichtungen, soweit sie
-Großhandel mit den in § 51 Abs. 1 zweiter Halbsatz des
-Arzneimittelgesetzes genannten für den Verkehr außerhalb der Apotheken
-freigegebenen Fertigarzneimitteln oder mit Gasen für medizinische
-Zwecke treiben.
+Die Verordnung findet auch Anwendung auf Arzneimittelvermittler im
+Sinne von § 4 Absatz 22a des Arzneimittelgesetzes, soweit diese
+Verordnung dies bestimmt.
 
 
 ## § 1a Qualitätssicherungssystem
@@ -74,9 +72,14 @@ vermieden werden und ein ausreichendes System der Rückverfolgung
 einschließlich der Durchführung eines Rückrufs besteht. Die nach § 2
 Abs. 1 bestellte verantwortliche Person muss insbesondere dafür Sorge
 tragen, dass Bezug und Auslieferung der Arzneimittel gemäß den §§ 4a
-und 6 erfolgen und die schriftlichen Verfahrensbeschreibungen in
-regelmäßigen Abständen geprüft, erforderlichenfalls an den Stand von
-Wissenschaft und Technik angepasst und befolgt werden.
+und 6 erfolgen und die schriftlichen oder elektronischen
+Verfahrensbeschreibungen in regelmäßigen Abständen geprüft,
+erforderlichenfalls an den Stand von Wissenschaft und Technik
+angepasst und befolgt werden. Soweit nach dieser Verordnung anstelle
+der Schriftform elektronische Verfahren eingesetzt werden dürfen, ist
+sicherzustellen, dass die elektronischen Dokumente für die jeweiligen
+Empfänger jederzeit leicht zugänglich sind und dass sie in
+hinreichender Weise vor unbefugten Manipulationen geschützt sind.
 
 
 ## § 2 Personal
@@ -89,7 +92,7 @@ Vorschriften der §§ 1a, 4 bis 7c dieser Verordnung verantwortlich ist.
 (2) Personal muß mit ausreichender fachlicher Qualifikation und in
 ausreichender Zahl vorhanden sein, um die Einhaltung der Vorschriften
 dieser Verordnung zu ermöglichen. Es darf nur entsprechend seiner
-Ausbildung und seinen Kenntnissen beschäftigt +4rden und ist über die
+Ausbildung und seinen Kenntnissen beschäftigt werden und ist über die
 beim Umgang mit Arzneimitteln gebotene Sorgfalt regelmäßig zu
 unterweisen.
 
@@ -109,8 +112,9 @@ instand gehalten werden.
 
 (4) Betriebsräume und deren Einrichtungen müssen regelmäßig gereinigt
 werden. Soweit in Betriebsräumen Arzneimittel umgefüllt, abgepackt
-oder gekennzeichnet werden, soll nach einem schriftlichen Hygieneplan
-verfahren werden, in dem insbesondere folgendes festgelegt ist:
+oder gekennzeichnet werden, soll nach einem schriftlichen oder
+elektronischen Hygieneplan verfahren werden, in dem insbesondere
+folgendes festgelegt ist:
 
 1.  die Häufigkeit der Maßnahmen,
 
@@ -152,21 +156,45 @@ Umhüllungen mit den Angaben nach den §§ 10 und 11 des
 Arzneimittelgesetzes versehen sind.
 
 
-## § 4a Bezug von Arzneimitteln
+## § 4a Bezug und Rücknahme von Arzneimitteln
 
-(1) Arzneimittel dürfen nur von Betrieben und Einrichtungen bezogen
-werden, die über eine Erlaubnis gemäss § 13 oder § 52a des
-Arzneimittelgesetzes verfügen. Arzneimittel können auch aus Betrieben
-und Einrichtungen, die über eine Erlaubnis nach § 52a des
-Arzneimittelgesetzes oder nach dem Gesetz über das Apothekenwesen
-verfügen, oder die sonst zur Abgabe an den Endverbraucher berechtigt
-sind, zurückgenommen werden.
+(1) Arzneimittel dürfen nur von zur Abgabe von Arzneimitteln
+berechtigten Betrieben erworben werden.
 
-(2) Die Lieferungen sind bei der Annahme daraufhin zu überprüfen, ob
-die Behältnisse unbeschädigt sind, die Lieferung mit der Bestellung
-übereinstimmt und der Lieferant unter Angabe der ausstellenden Behörde
-und des Ausstellungsdatums bestätigt hat, dass er über die notwendige
-Erlaubnis verfügt.
+(2) Die Lieferungen sind bei jeder Annahme daraufhin zu überprüfen, ob
+
+1.  die Behältnisse unbeschädigt sind,
+
+
+2.  die Lieferung mit der Bestellung übereinstimmt,
+
+
+3.  der Lieferant unter Angabe der ausstellenden Behörde und des
+    Ausstellungsdatums bestätigt hat, dass er über die notwendige
+    Erlaubnis verfügt, und
+
+
+4.  der Arzneimittelvermittler, soweit er in Anspruch genommen wird, die
+    notwendige Anzeige für die Registrierung vorgenommen hat.
+
+
+
+
+(3) Soweit die Arzneimittel von einem Betrieb mit einer Erlaubnis nach
+§ 52a des Arzneimittelgesetzes oder von einem Betrieb mit einer durch
+einen anderen Mitgliedstaat der Europäischen Union erteilten
+Genehmigung nach Artikel 77 Absatz 1 der Richtlinie 2001/83/EG des
+Europäischen Parlaments und des Rates vom 6. November 2001 zur
+Schaffung eines Gemeinschaftskodexes für Humanarzneimittel (ABl. L 311
+vom 28.11.2001, S. 67), die zuletzt durch die Verordnung (EU) 2017/745
+(ABl. L 117 vom 5.5.2017, S. 1) geändert worden ist oder über einen
+Arzneimittelvermittler bezogen werden, hat sich der Empfänger von
+deren Einhaltung der Guten Vertriebspraxis zu überzeugen.
+
+(4) Arzneimittel können aus Betrieben und Einrichtungen, die über eine
+Erlaubnis nach § 52a des Arzneimittelgesetzes oder nach dem
+Apothekengesetz verfügen oder die sonst zur Abgabe an den Verbraucher
+berechtigt sind, zurückgenommen werden.
 
 
 ## § 5 Lagerung
@@ -194,7 +222,8 @@ Arzneimitteln und gesichert aufzubewahren, um Verwechslungen zu
 vermeiden und einen unbefugten Zugriff zu verhindern. Sie müssen
 eindeutig als nicht zum Verkauf bestimmte Arzneimittel gekennzeichnet
 werden. Über das Auftreten von Arzneimittelfälschungen ist die
-zuständige Behörde unverzüglich zu informieren.
+zuständige Behörde und der jeweilige Zulassungsinhaber unverzüglich zu
+informieren.
 
 (4) Arzneimittel, die nicht verkehrsfähig sind, sind zu vernichten
 oder, soweit eine Rückgabe an den Lieferanten vorgesehen ist,
@@ -206,8 +235,17 @@ zurückzugeben.
 (1) Soweit durch Rechtsvorschrift nichts anderes zugelassen ist,
 dürfen Lieferungen von Arzneimitteln nur an Betriebe und Einrichtungen
 erfolgen, die über eine Erlaubnis nach § 13 oder nach § 52a des
-Arzneimittelgesetzes verfügen oder die zur Abgabe an den
-Endverbraucher befugt sind.
+Arzneimittelgesetzes oder eine Erlaubnis nach Artikel 40 oder eine
+Genehmigung nach Artikel 77 der Richtlinie 2001/83/EG oder eine
+Erlaubnis nach Artikel 44 oder eine Genehmigung nach Artikel 65 der
+Richtlinie 2001/82/EG verfügen oder die zur Abgabe an den
+Endverbraucher befugt sind. Liefern Großhändler Arzneimittel, die zur
+Anwendung bei Menschen bestimmt sind, an Personen mit Sitz außerhalb
+der Europäischen Union oder eines anderen Vertragsstaates des
+Abkommens über den Europäischen Wirtschaftsraum, haben sie sich zu
+vergewissern, dass die Empfänger nach den anwendbaren Rechts- und
+Verwaltungsvorschriften ihres Staates befugt sind, Arzneimittel zum
+Großhandel oder zur Abgabe an die Öffentlichkeit zu erhalten.
 
 (2) Den Lieferungen sind ausreichende Unterlagen beizufügen, aus denen
 insbesondere das Datum der Auslieferung, die Bezeichnung und Menge des
@@ -230,13 +268,23 @@ Angabe der Chargenbezeichnung gilt auch
     und Zubereitungen aus anderen Stoffen menschlicher Herkunft sowie
     gentechnisch hergestellten Blutbestandteilen, die fehlende
     Blutbestandteile ersetzen, auch bei Lieferung an Betriebe und
-    Einrichtungen zur Abgabe an den Endverbraucher sowie
+    Einrichtungen zur Abgabe an den Endverbraucher,
 
 
-3.  bei Abgabe von zur Anwendung bei Tieren bestimmten Arzneimitteln.
+3.  bei Abgabe von zur Anwendung bei Tieren bestimmten Arzneimitteln sowie
+
+
+4.  im Falle der Abgabe von Arzneimitteln, die Sicherheitsmerkmale im
+    Sinne von § 10 Absatz 1c des Arzneimittelgesetzes tragen müssen.
 
 
 
+Die nach den Sätzen 1 bis 4 beizufügenden Unterlagen und
+erforderlichen Angaben können dem Empfänger auch elektronisch
+übermittelt werden. Bei einer elektronischen Übermittlung hat der
+Absender sicherzustellen, dass die elektronischen Unterlagen und
+Angaben für die jeweiligen Empfänger jederzeit abrufbar sind und dass
+sie in hinreichender Weise vor Manipulationen geschützt sind.
 
 (3) Während des Transports der Arzneimittel ist bis zur Übergabe in
 den Verantwortungsbereich des Empfängers dafür Sorge zu tragen, dass
@@ -291,9 +339,9 @@ gewährleistet, der nach Angaben der zuständigen Behörden oder des
 pharmazeutischen Unternehmers erfolgt.
 
 (2) Der Rückrufplan und die hierzu erforderlichen organisatorischen
-Abläufe müssen schriftlich festgelegt sein. Über die Durchführung von
-Rückrufen müssen Aufzeichnungen geführt werden. § 7 Abs. 3 gilt
-entsprechend.
+Abläufe müssen schriftlich oder elektronisch festgelegt sein. Über die
+Durchführung von Rückrufen müssen Aufzeichnungen geführt werden. § 7
+Abs. 3 gilt entsprechend.
 
 
 ## § 7b Rücknahme von Arzneimitteln
@@ -321,9 +369,9 @@ Bestände wieder aufgenommen werden, wenn
     Rechnungen belegt, daß er sie vom Arzneimittelgroßhandel bezogen hat,
 
 
-2.  der Zurückgebende schriftlich bestätigt, daß sie seit der Lieferung
-    ordnungsgemäß gelagert und gehandhabt wurden, insbesondere seinen
-    Verantwortungsbereich nicht verlassen haben,
+2.  der Zurückgebende schriftlich oder elektronisch bestätigt, daß sie
+    seit der Lieferung ordnungsgemäß gelagert und gehandhabt wurden,
+    insbesondere seinen Verantwortungsbereich nicht verlassen haben,
 
 
 3.  sie sich in den Originalbehältnissen und in ordnungsgemäßen Zustand
@@ -348,7 +396,8 @@ Bestände wieder aufgenommen werden, wenn
 
 (4) Die Prüfung und Entscheidung nach Absatz 3 muß durch dafür
 besonders eingewiesenes Personal erfolgen. Die Prüfanweisung und die
-organisatorischen Abläufe sind schriftlich festzulegen.
+organisatorischen Abläufe sind schriftlich oder elektronisch
+festzulegen.
 
 
 ## § 7c Selbstinspektion
@@ -372,9 +421,21 @@ mit Arzneimitteln sonst ernstlich gefährdet wäre. Die Anordnung ist zu
 befristen; sie kann verlängert werden.
 
 
-## § 9
+## § 9 Anforderungen an Arzneimittelvermittler
 
-(weggefallen)
+(1) Die §§ 1a und 7a gelten entsprechend. § 7 Absatz 1, 3 und Absatz 4
+gilt entsprechend mit der Maßgabe, dass die Aufzeichnungen über die
+getätigten Handelsvorgänge zu führen sind.
+
+(2) Der Arzneimittelvermittler hat sich davon zu überzeugen, dass die
+zulassungs- oder genehmigungspflichtigen Arzneimittel, mit denen er
+handelt, über eine Zulassung für das Inverkehrbringen im
+Geltungsbereich des Gesetzes oder Genehmigung nach der Verordnung (EG)
+Nr. 726/2004 verfügen.
+
+(3) Über jeden Verdacht einer Arzneimittelfälschung sind die
+zuständige Behörde und der jeweilige Zulassungsinhaber unverzüglich zu
+informieren.
 
 
 ## § 10 Ordnungswidrigkeiten
@@ -398,8 +459,7 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
     a)  entgegen § 4 Abs. 1 oder 3 Arzneimittel umfüllt oder abpackt,
 
 
-    b)  entgegen § 4a Abs. 1 Satz 1 Arzneimittel von Betrieben und
-        Einrichtungen bezieht, die nicht über eine Erlaubnis verfügen,
+    b)  entgegen § 4a Absatz 1 ein Arzneimittel erwirbt,
 
 
     c)  entgegen § 5 Abs. 1 Arzneimittel nicht in der vorgeschriebenen Weise
@@ -431,7 +491,31 @@ Arzneimittelgesetzes handelt, wer vorsätzlich oder fahrlässig
 
     j)  entgegen § 7 Abs. 3 Satz 5 oder 6, jeweils auch in Verbindung mit § 7a
         Abs. 2 Satz 3 Aufzeichnungen oder Nachweise unleserlich macht oder
-        Veränderungen vornimmt.
+        Veränderungen vornimmt oder
+
+
+
+
+
+3.  als Arzneimittelvermittler
+
+    a)  entgegen § 7 Absatz 1, auch in Verbindung mit § 9 Absatz 1 Satz 2,
+        oder Absatz 2 Satz 1 eine Aufzeichnung nicht, nicht richtig, nicht
+        vollständig oder nicht in der vorgeschriebenen Weise führt,
+
+
+    b)  entgegen § 7 Absatz 3 Satz 1, auch in Verbindung mit § 9 Absatz 1 Satz
+        2, eine Aufzeichnung nicht oder nicht mindestens fünf Jahre
+        aufbewahrt,
+
+
+    c)  entgegen § 7 Absatz 3 Satz 5 oder 6, auch in Verbindung mit § 9 Absatz
+        1 Satz 2, eine Aufzeichnung unleserlich macht oder eine Veränderung
+        vornimmt oder
+
+
+    d)  entgegen § 9 Absatz 3 die zuständige Behörde nicht oder nicht
+        rechtzeitig informiert.
 
 
 
@@ -488,9 +572,8 @@ rechtzeitiger Antragstellung, mit Eintritt der Unanfechtbarkeit der
 Entscheidung über den Antrag.
 
 
-## § 12
+## § 12 (weggefallen)
 
--
 
 
 ## § 13 Inkrafttreten

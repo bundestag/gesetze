@@ -2,7 +2,7 @@
 Title: Übereinkommen über das auf Unterhaltspflichten anzuwendende Recht
 jurabk: UhPflÜbk Haag
 layout: default
-origslug: uhpfl_bk_haag
+origslug: uhpfluebk_haag
 slug: uhpfluebk_haag
 
 ---

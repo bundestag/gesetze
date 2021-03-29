@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 3681
 
 Zuletzt geändert durch
-:   Art. 164 V v. 31.10.2006 I 2407
+:   Art. 324 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -111,14 +111,14 @@ oder gestört wird.
 
 (1) Rechtsverordnungen nach den §§ 1 und 2 erläßt die Bundesregierung.
 Sie kann diese Befugnis durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf das Bundesministerium für Wirtschaft und Technologie
-sowie in Bezug auf die leitungsgebundene Versorgung mit Elektrizität
-und Erdgas auf die Bundesnetzagentur für Elektrizität, Gas,
+Bundesrates auf das Bundesministerium für Wirtschaft und Energie sowie
+in Bezug auf die leitungsgebundene Versorgung mit Elektrizität und
+Erdgas auf die Bundesnetzagentur für Elektrizität, Gas,
 Telekommunikation, Post und Eisenbahnen übertragen, wenn die
 Energieversorgung im Sinne des § 1 Abs. 1 gefährdet oder gestört ist.
-Rechtsverordnungen des Bundesministeriums für Wirtschaft und
-Technologie, die der Zollverwaltung Aufgaben übertragen, werden im
-Einvernehmen mit dem Bundesministerium der Finanzen erlassen.
+Rechtsverordnungen des Bundesministeriums für Wirtschaft und Energie,
+die der Zollverwaltung Aufgaben übertragen, werden im Einvernehmen mit
+dem Bundesministerium der Finanzen erlassen.
 
 (2) Rechtsverordnungen, die nach Eintritt einer Gefährdung oder
 Störung der Energieversorgung im Sinne des § 1 Abs. 1 erlassen werden
@@ -231,7 +231,7 @@ keine aufschiebende Wirkung.
 
 ## § 6 Verwaltungsvorschriften
 
-(1) Das Bundesministerium für Wirtschaft und Technologie erläßt mit
+(1) Das Bundesministerium für Wirtschaft und Energie erläßt mit
 Zustimmung des Bundesrates zur Ausführung dieses Gesetzes und der auf
 Grund dieses Gesetzes erlassenen Rechtsverordnungen allgemeine
 Verwaltungsvorschriften.
@@ -245,7 +245,7 @@ sind.
 
 ## § 7 Einzelweisungen
 
-Das Bundesministerium für Wirtschaft und Technologie kann, soweit die
+Das Bundesministerium für Wirtschaft und Energie kann, soweit die
 Ausführung der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen
 den Ländern obliegt, Einzelweisungen erteilen, wenn dies zur Sicherung
 einer regional ausgeglichenen Versorgung erforderlich ist und die
@@ -285,7 +285,7 @@ und zur Vorbereitung der Ausführung solcher Rechtsverordnungen haben
 natürliche und juristische Personen und nichtrechtsfähige
 Personenvereinigungen den zuständigen Behörden auf Verlangen die
 erforderlichen Auskünfte zu erteilen. Sie haben ferner dem
-Bundesministerium für Wirtschaft und Technologie sowie der
+Bundesministerium für Wirtschaft und Energie sowie der
 Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und
 Eisenbahnen Auskünfte zu erteilen, soweit dies zur Wahrnehmung der
 ihnen nach diesem Gesetz obliegenden Aufgaben, insbesondere zur
@@ -461,7 +461,7 @@ Ordnungswidrigkeiten ist
     Rechtsverordnung ergangene Verfügung,
 
     a)  soweit Bundesbehörden zur Durchführung zuständig sind, das
-        Bundesministerium für Wirtschaft und Technologie oder diese Behörden,
+        Bundesministerium für Wirtschaft und Energie oder diese Behörden,
         soweit sie durch Rechtsverordnungen für zuständig erklärt werden,
 
 

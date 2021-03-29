@@ -167,8 +167,9 @@ Grenzwertverschärfung nach Anlage 2 Nr. 7 aufheben.
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 3 Abs. 1)
 
-## Anlage 1 (zu § 3 Abs. 1) Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
+## Anlage 1 Nach § 3 bundesweit besonders zu schützende Frequenzbereiche
 
 (Fundstelle: BGBl. I 2009, 1062)
 
@@ -493,8 +494,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
 
+(zu § 3 Abs. 1)
 
-## Anlage 2 (zu § 3 Abs. 1) Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
+## Anlage 2 Grenzwerte der Störfeldstärke von leitergebundenen Telekommunikationsanlagen und -netzen
 
 (Fundstelle: BGBl. I 2009, 1063)
 
@@ -504,7 +506,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   Grenzwert der Störfeldstärke
         (Spitzenwert der
         elektrischen Feldstärke
-        in 3 m Abstand in dB[*                     V/m])
+        in 3 m Abstand in dB[*V/m])
 
     *   Messbandbreite
 
@@ -516,38 +518,38 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   150 kHz
 
     *   40 – 20 x log
-        10                      (f/MHz)
+        10 (f/MHz)
 
     *   200 Hz
 
 
 *    *   2.
 
-    *   *                     150 bis
+    *   *150 bis
 
     *   1 000 kHz
 
     *   40 – 20 x log
-        10                      (f/MHz)
+        10 (f/MHz)
 
     *   9 kHz
 
 
 *    *   3.
 
-    *   *                      1 bis
+    *   * 1 bis
 
     *   30 MHz
 
     *   40 – 8,8 x log
-        10                      (f/MHz)
+        10 (f/MHz)
 
     *   9 kHz
 
 
 *    *   4.
 
-    *   *                      30 bis
+    *   * 30 bis
 
     *   108 MHz
 
@@ -559,58 +561,58 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 *    *   5.
 
-    *   *                     108 bis
+    *   *108 bis
 
     *   144 MHz
 
     *[^f771926_03_BJNR106000009BJNE001100000]
    18
         (27)
-        1                     )
+        1)
 
     *   120 kHz
 
 
 *    *   6.
 
-    *   *                     144 bis
+    *   *144 bis
 
     *   230 MHz
 
     *   27
-        1                     )
+        1)
 
     *   120 kHz
 
 
 *    *   7.
 
-    *   *                     230 bis
+    *   *230 bis
 
     *   400 MHz
 
     *   18
-        2                     ) (27)
-        1                     )
+        2) (27)
+        1)
 
     *   120 kHz
 
 
 *    *   8.
 
-    *   *                     400 bis
+    *   *400 bis
 
     *   1 000 MHz
 
     *   27
-        1                     )
+        1)
 
     *   120 kHz
 
 
 *    *   9.
 
-    *   *                      1 bis
+    *   * 1 bis
 
     *   3 GHz
 
@@ -622,11 +624,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
     Dies entspricht einer äquivalenten Strahlungsleistung von 20 dB(pW).
-[^f771926_02_BJNR106000009BJNE001100000]: [^f771926_03_BJNR106000009BJNE001100000]:     **             V/m).
+[^f771926_02_BJNR106000009BJNE001100000]: [^f771926_03_BJNR106000009BJNE001100000]:     **V/m).
     Dies entspricht einer äquivalenten Strahlungsleistung von 33 dB(pW).
 [^f771926_04_BJNR106000009BJNE001100000]: 
+(zu § 3 Abs. 1)
 
-## Anlage 3 (zu § 3 Abs. 1) Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
+## Anlage 3 Messvorschrift für Störaussendungen aus leitungsgebundenen Telekommunikationsanlagen und -netzen im Frequenzbereich von 9 kHz bis 3 GHz
 
 **Inhalt**
 
@@ -987,7 +990,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     *   A.3.2
 
     *   Messunsicherheit bei geringem Abstand (
-        S+N                       )/
+        S+N)/
         N
 
 
@@ -1111,50 +1114,50 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     Im Rahmen dieser Vorschrift gelten folgende Definitionen:
 
-    **Antennenbezugspunkt:**                    Geometrischer Mittelpunkt
-    der Antenne oder der Bezugspunkt, auf den im
-    Antennenkalibrierverfahren Bezug genommen wird.
+    **Antennenbezugspunkt:** Geometrischer Mittelpunkt der Antenne oder
+    der Bezugspunkt, auf den im Antennenkalibrierverfahren Bezug genommen
+    wird.
 
-    **Aussendung:**                    Erscheinung, bei der
-    elektromagnetische Energie aus einer Quelle austritt
-    (IEC – IEV 161-01-08)                   .
+    **Aussendung:** Erscheinung, bei der elektromagnetische Energie aus
+    einer Quelle austritt
+    (IEC – IEV 161-01-08).
 
-    **Detektor-Bewertungsfaktor:**                    Unterschied zwischen
-    der Anzeige des Quasispitzenwert-Detektors
-    (QP-Detektor)                    und der Anzeige des Spitzenwert-
-    Detektors (PK-Detektor) für ein bestimmtes Signal.
+    **Detektor-Bewertungsfaktor:** Unterschied zwischen der Anzeige des
+    Quasispitzenwert-Detektors
+    (QP-Detektor) und der Anzeige des Spitzenwert-Detektors (PK-Detektor)
+    für ein bestimmtes Signal.
 
-    **Elektromagnetische Störgröße:**
-    Elektromagnetische Erscheinung, die die Funktion eines Geräts, einer
-    Ausrüstung oder eines Systems beeinträchtigen oder lebende oder tote
-    Materie ungünstig beeinflussen kann (IEC – IEV 161-01-05).
+    **Elektromagnetische Störgröße:** Elektromagnetische Erscheinung, die
+    die Funktion eines Geräts, einer Ausrüstung oder eines Systems
+    beeinträchtigen oder lebende oder tote Materie ungünstig beeinflussen
+    kann (IEC – IEV 161-01-05).
 
-    **Funk(frequenz)störgröße:**                    Elektromagnetische
-    Störgröße mit Anteilen im Funkfrequenzbereich
-    (IEC – IEV 161-01-13)                   .
+    **Funk(frequenz)störgröße:** Elektromagnetische Störgröße mit Anteilen
+    im Funkfrequenzbereich
+    (IEC – IEV 161-01-13).
 
-    **Hilfsträger:**                    Schmalbandiges Signal, das in
-    definierter Relation zu dem zu bewertenden Digitalsignal steht.
+    **Hilfsträger:** Schmalbandiges Signal, das in definierter Relation zu
+    dem zu bewertenden Digitalsignal steht.
 
-    **Messbandbreite:**                    Die jeweils am Messempfänger
-    verwendete Bandbreite (gem. EN 55016-1-1).
+    **Messbandbreite:** Die jeweils am Messempfänger verwendete Bandbreite
+    (gem. EN 55016-1-1).
 
-    **Mindestversorgung:**                    In der Regel ist die
-    Mindestversorgung im Sinne der vorliegenden Messvorschrift am Ort der
-    Messungen immer dann gegeben, wenn dort die erforderliche Mindest-
-    Nutzfeldstärke für den jeweiligen Funkdienst bzw. die jeweilige
-    Funkanwendung nachweisbar ist.
+    **Mindestversorgung:** In der Regel ist die Mindestversorgung im Sinne
+    der vorliegenden Messvorschrift am Ort der Messungen immer dann
+    gegeben, wenn dort die erforderliche Mindest-Nutzfeldstärke für den
+    jeweiligen Funkdienst bzw. die jeweilige Funkanwendung nachweisbar
+    ist.
 
-    **Normentfernung:**                    Abstand (Messentfernung)
-    zwischen dem Bezugspunkt der Messantenne und dem nächstgelegenen Teil
-    des TK-Netzes. Die Normentfernung beträgt 3 m.
+    **Normentfernung:** Abstand (Messentfernung) zwischen dem Bezugspunkt
+    der Messantenne und dem nächstgelegenen Teil des TK-Netzes. Die
+    Normentfernung beträgt 3 m.
 
-    **Nutzsignal:**                    Das Nutzsignal umfasst das für die
-    Kommunikation in und längs von Leitern erforderliche Frequenzspektrum.
+    **Nutzsignal:** Das Nutzsignal umfasst das für die Kommunikation in
+    und längs von Leitern erforderliche Frequenzspektrum.
 
-    **Störfeldstärke:**                    Feldstärke, die an einer
-    bestimmten Stelle durch eine elektromagnetische Störgröße erzeugt und
-    unter festgelegten Bedingungen gemessen wird (IEC – IEV 161-04-02).
+    **Störfeldstärke:** Feldstärke, die an einer bestimmten Stelle durch
+    eine elektromagnetische Störgröße erzeugt und unter festgelegten
+    Bedingungen gemessen wird (IEC – IEV 161-04-02).
 
     Anmerkung: **
     Im Sinne dieser Messvorschrift werden nur die Komponenten der
@@ -1162,32 +1165,30 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Störaussendungen in Form von Feldern in der Umgebung oder auch fernab
     von Leitern erzeugen können.
 
-    **Telekommunikationsanlage:**                    Technische
-    Einrichtungen oder Systeme, die als Nachrichten identifizierbare
-    elektromagnetische oder optische Signale senden, übertragen,
-    vermitteln, empfangen, steuern oder kontrollieren können.
+    **Telekommunikationsanlage:** Technische Einrichtungen oder Systeme,
+    die als Nachrichten identifizierbare elektromagnetische oder optische
+    Signale senden, übertragen, vermitteln, empfangen, steuern oder
+    kontrollieren können.
 
-    **Telekommunikationsnetz:**                    Gesamtheit der
-    technischen Einrichtungen (Übertragungswege, Vermittlungseinrichtungen
-    und sonstige Einrichtungen, die zur Gewährleistung eines
-    ordnungsgemäßen Betriebs des Telekommunikationsnetzes unerlässlich
-    sind), an die über Abschlusseinrichtungen Endeinrichtungen
-    angeschlossen werden.
+    **Telekommunikationsnetz:** Gesamtheit der technischen Einrichtungen
+    (Übertragungswege, Vermittlungseinrichtungen und sonstige
+    Einrichtungen, die zur Gewährleistung eines ordnungsgemäßen Betriebs
+    des Telekommunikationsnetzes unerlässlich sind), an die über
+    Abschlusseinrichtungen Endeinrichtungen angeschlossen werden.
 
     Anmerkung: **
     Zur Vereinfachung wird in der Messvorschrift nachfolgend teilweise nur
     vom TK-Netz gesprochen, die Aussagen gelten jedoch gleichermaßen für
     TK-Anlagen.
 
-    **Unerwünschte Aussendung:**                    Signal, das den
-    Empfang eines Nutzsignals beeinträchtigen kann
-    (IEC – IEV 161-01-03)                   .
+    **Unerwünschte Aussendung:** Signal, das den Empfang eines Nutzsignals
+    beeinträchtigen kann
+    (IEC – IEV 161-01-03).
 
-    **Störaussendung:**                    Durch leitungsgeführtes
-    elektrisches Nutzsignal verursachter elektromagnetischer
-    Energieanteil, der den Leiter unerwünscht verlässt und durch
-    Induktion, Influenz oder Strahlungskopplung den Funkverkehr störend
-    beeinträchtigen kann.
+    **Störaussendung:** Durch leitungsgeführtes elektrisches Nutzsignal
+    verursachter elektromagnetischer Energieanteil, der den Leiter
+    unerwünscht verlässt und durch Induktion, Influenz oder
+    Strahlungskopplung den Funkverkehr störend beeinträchtigen kann.
 
 
 **3** **Übersicht über die Messverfahren**
@@ -1236,10 +1237,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Die Betriebsparameter lassen sich messtechnisch am sichersten bei
     einem hohen Störabstand zwischen Summensignal und Rauschen (Verhältnis
     von (
-    S+N                   ) zu
-    N                   ) mit Hilfe einer am Anfang (oder Ende) der
-    betreffenden TK-Leitung aufgesetzten Stromzange und einem automatisch
-    abstimmbaren Messempfänger mit Panorama-Anzeige zur Überwachung des
+    S+N) zu
+    N) mit Hilfe einer am Anfang (oder Ende) der betreffenden TK-Leitung
+    aufgesetzten Stromzange und einem automatisch abstimmbaren
+    Messempfänger mit Panorama-Anzeige zur Überwachung des
     leitungsgeführten Stroms bestimmen. Um die notwendigen Eingriffe am
     Netz vornehmen zu können, ist in der Regel die Zusammenarbeit mit dem
     Netzbetreiber erforderlich.
@@ -1300,12 +1301,11 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 **4.4.1** **Überprüfung von TK-Anlagen und -Netzen**
 
     Für Messungen im Innen- und Außenbereich beträgt die Messentfernung
-    d ****                    = 3 m (Normentfernung). Diese Entfernung ist
-    der Abstand zwischen dem Bezugspunkt der Messantenne und dem
-    nächstgelegenen Teil des TK-Netzes. Überprüfungen von TK-Anlagen und
-    -Netzen werden in der Regel vor dem Gebäude im Außenbereich
-    durchgeführt. In speziellen Fällen (z. B. Hochhäuser) kann aber davon
-    abgewichen werden.
+    d **** = 3 m (Normentfernung). Diese Entfernung ist der Abstand
+    zwischen dem Bezugspunkt der Messantenne und dem nächstgelegenen Teil
+    des TK-Netzes. Überprüfungen von TK-Anlagen und -Netzen werden in der
+    Regel vor dem Gebäude im Außenbereich durchgeführt. In speziellen
+    Fällen (z. B. Hochhäuser) kann aber davon abgewichen werden.
 
 
 **4.4.1.1** **Abtragen der Messentfernung bei Messungen im Innenbereich**
@@ -1313,8 +1313,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Wenn der zu untersuchende Teil des TK-Netzes nicht zugänglich ist,
     sich in oder hinter einer Wand oder in einem Kabelkanal oder Ähnlichem
     befindet, so ist die Messentfernung
-    d ****                    im rechten Winkel von der Vorderkante der
-    Wand oder des Kabelkanals abzutragen.
+    d **** im rechten Winkel von der Vorderkante der Wand oder des
+    Kabelkanals abzutragen.
 
     Wenn in Gebäuden ein freier Abstand zwischen TK-Netz und Messantenne
     von 3 m aus Platzgründen nicht zur Verfügung steht, kann die o. g.
@@ -1328,19 +1328,18 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Wird außerhalb von Gebäuden oder ähnlicher Aufbauten gemessen, die
     Einrichtungen oder Kabel von TK-Netzen enthalten, so ist die
     Messentfernung
-    d ****                    im rechten Winkel von der Außenwand des
-    Gebäudes oder des betreffenden Aufbaus abzutragen.
+    d **** im rechten Winkel von der Außenwand des Gebäudes oder des
+    betreffenden Aufbaus abzutragen.
 
     Verläuft der zu messende Teil des TK-Netzes unterirdisch, so ist die
     Messentfernung
-    d ****                    im rechten Winkel von der senkrechten
-    Projektion des TK-Netzes auf die Bodenoberfläche abzutragen.
+    d **** im rechten Winkel von der senkrechten Projektion des TK-Netzes
+    auf die Bodenoberfläche abzutragen.
 
     Verläuft der zu messende Teil des TK-Netzes oberhalb der Messantenne,
     so ist die Messentfernung
-    d ****                    im rechten Winkel von der senkrechten
-    Projektion des TK-Netzes auf die Grundfläche abzutragen. Das Prinzip
-    ist in Bild 1 dargestellt.
+    d **** im rechten Winkel von der senkrechten Projektion des TK-Netzes
+    auf die Grundfläche abzutragen. Das Prinzip ist in Bild 1 dargestellt.
 
     ![bgbl1_2009_j1060-1_0030.jpg](bgbl1_2009_j1060-1_0030.jpg)
 
@@ -1481,17 +1480,16 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     durchgeführt werden, bei denen die Antenne jeweils in einer der drei
     orthogonalen Richtungen X, Y und Z ausgerichtet ist. Die Daten der
     einzelnen Messdurchgänge müssen gespeichert werden und für jede
-    Frequenz muss die effektive Feldstärke                     (
+    Frequenz muss die effektive Feldstärke(
     E
-    eff                       ) ****                    nach Gleichung
-    (5.1) errechnet werden.
+    eff) **** nach Gleichung (5.1) errechnet werden.
 
 
     Am einfachsten geschieht dies durch Übertragung der Daten in ein
     Tabellenkalkulationsblatt und anschließende automatisierte Berechnung
     von
     E
-    eff                       . ****
+    eff. ****
 
     Zur Reduzierung der Messzeit wird empfohlen, die Durchstimmung des zu
     untersuchenden Frequenzbereichs zunächst unter Nutzung des
@@ -1499,10 +1497,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Störfeldstärken danach mit dem Quasispitzenwert-Detektor nachzumessen.
 
     Die Messentfernung
-    d ****                    entspricht bei der Rahmenantenne dem Abstand
-    zwischen deren geometrischem Mittelpunkt und dem TK-Netz und beim
-    aktiven Dipol dem Abstand zwischen TK-Netz und dem Bezugspunkt der
-    Antenne.
+    d **** entspricht bei der Rahmenantenne dem Abstand zwischen deren
+    geometrischem Mittelpunkt und dem TK-Netz und beim aktiven Dipol dem
+    Abstand zwischen TK-Netz und dem Bezugspunkt der Antenne.
 
     Messungen im Frequenzbereich unterhalb von 30 MHz werden bei der
     Überprüfung von TK-Anlagen und -Netzen in der Regel vor dem Gebäude im
@@ -1573,8 +1570,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Frequenzbereich für die Messung der Störaussendung genutzt. Die
     Person, die den Empfänger bedient, sollte den Pegel des
     Hintergrundrauschens für jede dieser Frequenzen subjektiv beurteilen.
-    Anschließend ist der höchste Pegel der Störfeldstärke (in dB(*
-    V/m)) aufzuzeichnen, der unter Verwendung der Messbandbreite und des
+    Anschließend ist der höchste Pegel der Störfeldstärke (in dB(*V/m))
+    aufzuzeichnen, der unter Verwendung der Messbandbreite und des
     genannten Detektors über eine Zeitspanne von 15 s gemessen wurde.
     Einzeln auftretende Kurzzeitspitzen sollten hierbei unbeachtet
     bleiben.
@@ -1608,12 +1605,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
         –
         E
-    Mess****: Messwert in dB(*                         V/m)
+    Mess****: Messwert in dB(*V/m)
 
 
         –
         E
-    Stör****: korrigierter Messwert in dB(*                         V/m)
+    Stör****: korrigierter Messwert in dB(*V/m)
 
 
         –
@@ -1639,14 +1636,13 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Abschnitt 5.2.1 beschriebenen Verfahren zu ermitteln. Entscheidend
     sind die örtlichen Bedingungen und die Messbarkeit der Störfeldstärke.
 
-    Die Messwerte (in dB(*                   V/m)) sind über dem
-    Logarithmus der Entfernung in einem Diagramm aufzutragen. Die
-    geradlinige Verbindung der Messwerte beschreibt dann den
-    Feldstärkeabfall in Richtung der Messachse. Ist der Feldstärkeabfall
-    nicht bestimmbar, sind weitere Messpunkte zu wählen. Der
-    Feldstärkepegel in der Normentfernung ist anhand der eingezeichneten
-    Verbindungsgeraden aus dem Diagramm zu entnehmen (grafische
-    Ermittlung).
+    Die Messwerte (in dB(*V/m)) sind über dem Logarithmus der Entfernung
+    in einem Diagramm aufzutragen. Die geradlinige Verbindung der
+    Messwerte beschreibt dann den Feldstärkeabfall in Richtung der
+    Messachse. Ist der Feldstärkeabfall nicht bestimmbar, sind weitere
+    Messpunkte zu wählen. Der Feldstärkepegel in der Normentfernung ist
+    anhand der eingezeichneten Verbindungsgeraden aus dem Diagramm zu
+    entnehmen (grafische Ermittlung).
 
 
 **5.3** **Messung der elektrischen Störfeldstärke**
@@ -1697,7 +1693,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
     Die Anforderungen an die Funkstörmessempfänger und Antennen sind in EN
     55016-1-1 und
-    EN 55016-1-4                    beschrieben.
+    EN 55016-1-4 beschrieben.
 
     Im Frequenzbereich von 30 bis 1 000 MHz ist eine Messbandbreite von
     120 kHz sowie ein Quasispitzenwert-Detektor zu verwenden. Im
@@ -1724,9 +1720,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Störfeldstärken danach mit dem Quasispitzenwert-Detektor nachzumessen.
 
     Die Messentfernung
-    d ****                    entspricht beim Breitbanddipol dem Abstand
-    zwischen TK-Netz und dem Balun und bei der logarithmisch-periodischen
-    Antenne dem Abstand zwischen TK-Netz und dem Bezugspunkt der Antenne.
+    d **** entspricht beim Breitbanddipol dem Abstand zwischen TK-Netz und
+    dem Balun und bei der logarithmisch-periodischen Antenne dem Abstand
+    zwischen TK-Netz und dem Bezugspunkt der Antenne.
 
     Messungen im Frequenzbereich oberhalb von 30 MHz werden bei der
     Überprüfung von TK-Anlagen und -Netzen in der Regel vor dem Gebäude im
@@ -1753,10 +1749,9 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     ![bgbl1_2009_j1060-1_0060.jpg](bgbl1_2009_j1060-1_0060.jpg)
     **Bild 2: Höhenscan der Antenne**
 
-    Befindet sich der Antennenträger *nicht*                    auf der
-    gleichen Bezugsebene wie die Leitung, z. B. bei einer Messung im
-    Freien, so ist ein in Relation zur Höhe des Objekts vergleichbarer
-    Scan durchzuführen.
+    Befindet sich der Antennenträger *nicht* auf der gleichen Bezugsebene
+    wie die Leitung, z. B. bei einer Messung im Freien, so ist ein in
+    Relation zur Höhe des Objekts vergleichbarer Scan durchzuführen.
 
 
 **6.2.1.2** **Messung in kleinerer Messentfernung als 3 m**
@@ -1778,12 +1773,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
         –
         E
-    Mess****: Messwert in dB(*                         V/m)
+    Mess****: Messwert in dB(*V/m)
 
 
         –
         E
-    Stör****: korrigierter Messwert in dB(*                         V/m)
+    Stör****: korrigierter Messwert in dB(*V/m)
 
 
         –
@@ -1827,10 +1822,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
     *        *   E
-            Stör                                =
+            Stör =
             u
-            E                                  + a
-            K                                  + K ****
+            E + a
+            K + K ****
 
         *   (6.2)
 
@@ -1844,14 +1839,13 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
         –
         E
-    Stör****: der errechnete Störfeldstärkepegel in dB(*
-        V/m)
+    Stör****: der errechnete Störfeldstärkepegel in dB(*V/m)
 
 
         –
         u
-    E****: der gemessene Spannungspegel in dB(*                         V) am
-        Antenneneingang des Messempfängers (an 50 Ohm)
+    E****: der gemessene Spannungspegel in dB(*V) am Antenneneingang des
+        Messempfängers (an 50 Ohm)
 
 
         –
@@ -1912,19 +1906,19 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
    oder wenn die Messentfernung
-    d *****                    30 m ist. (Für einen großen Teil praktisch
-    auftretender Fälle ist bereits die Erfüllung der Bedingung
-    d ******                    ausreichend.)
+    d ***** 30 m ist. (Für einen großen Teil praktisch auftretender Fälle
+    ist bereits die Erfüllung der Bedingung
+    d ****** ausreichend.)
 
 
 **7.3** **Standort der Messantenne**
 
-    Die Messung der Störstrahlungsleistung *muss*                    nach
-    Abschnitt 7.2 im Fernfeld erfolgen. Unter Beachtung dieser Bedingung
-    wird zur Messung der Störaussendungen eines TK-Netzes (und der dann
-    von der Substitutionsantenne nachzubildenden äquivalenten Aussendung)
-    der Ort gewählt, an dem zuvor nach Abschnitt 4.3 die höchste
-    Störfeldstärke festgestellt wurde.
+    Die Messung der Störstrahlungsleistung *muss* nach Abschnitt 7.2 im
+    Fernfeld erfolgen. Unter Beachtung dieser Bedingung wird zur Messung
+    der Störaussendungen eines TK-Netzes (und der dann von der
+    Substitutionsantenne nachzubildenden äquivalenten Aussendung) der Ort
+    gewählt, an dem zuvor nach Abschnitt 4.3 die höchste Störfeldstärke
+    festgestellt wurde.
 
 
 **7.4** **Standort der Substitutionsantenne**
@@ -2007,11 +2001,11 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
     *        *   p
-            U                                  = u
-            S                                  – a
-            S                                  – a
-            c                                  – c
-            r                                  + G
+            U = u
+            S – a
+            S – a
+            c – c
+            r + G
             D **+ 4 dB**
 
         *   (7.2)
@@ -2028,8 +2022,7 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
         –
         u
-    S****: der Spannungspegel am Messsenderausgang in dB(*
-        V) an 50 Ohm
+    S****: der Spannungspegel am Messsenderausgang in dB(*V) an 50 Ohm
 
 
         –
@@ -2051,9 +2044,8 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
 
         *            *   c
-                r **= 10 log**                                        Z
-                Fp **dB**                                       (*
-                ) ****
+                r **= 10 log** Z
+                Fp **dB**(*) ****
 
             *   (7.3)
 
@@ -2065,11 +2057,10 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
    Für eine Fußpunktimpedanz von
         Z
-        Fp ****                          = 50 Ohm ergibt sich ein
-        Umrechnungsfaktor von
+        Fp **** = 50 Ohm ergibt sich ein Umrechnungsfaktor von
         c
-        r ****                          = 17 dB. Die Verluste des Baluns
-        werden als vernachlässigbar klein angesehen
+        r **** = 17 dB. Die Verluste des Baluns werden als vernachlässigbar
+        klein angesehen
 
 
         –
@@ -2162,13 +2153,12 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     zusätzlich durch Addieren des QP-Bewertungsfaktors korrigiert werden.
 
     Beträgt der Abstand (
-    S+N                   )
-    /N                    mehr als 20 dB, so ist keine weitere Korrektur
-    der erzielten Messergebnisse erforderlich. Beträgt der Abstand (
-    S+N                   )
-    /N                    weniger als 20 dB und wird **N**
-    durch Rauschen dominiert, so kann das Messergebnis ggf. durch* **U**
-    (siehe Anhang 2) korrigiert werden.
+    S+N)
+    /N mehr als 20 dB, so ist keine weitere Korrektur der erzielten
+    Messergebnisse erforderlich. Beträgt der Abstand (
+    S+N)
+    /N weniger als 20 dB und wird **N** durch Rauschen dominiert, so kann
+    das Messergebnis ggf. durch* **U** (siehe Anhang 2) korrigiert werden.
 
     Hinweis: **
     Der Abstand
@@ -2186,14 +2176,13 @@ Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
     Detektor**
 
     Beträgt der Abstand (
-    S+N                   )
-    /N                    mehr als 20 dB, so ist keine weitere Korrektur
-    der erzielten Messergebnisse erforderlich. Wenn der Abstand (
-    S+N                   )
-    /N                    weniger als 20 dB beträgt und **N**
-    von Aussendungen aus der Umgebung dominiert wird, kann das
-    Messergebnis durch die in Anhang 4 beschriebenen Verfahren korrigiert
-    werden.
+    S+N)
+    /N mehr als 20 dB, so ist keine weitere Korrektur der erzielten
+    Messergebnisse erforderlich. Wenn der Abstand (
+    S+N)
+    /N weniger als 20 dB beträgt und **N** von Aussendungen aus der
+    Umgebung dominiert wird, kann das Messergebnis durch die in Anhang 4
+    beschriebenen Verfahren korrigiert werden.
 
 
 **9.3** **Behandlung der Messunsicherheit**
@@ -2238,12 +2227,11 @@ Feldwellenwiderstand von 377 Ohm umgerechnet, auch für die nach
 Abschnitt 5 gemessene magnetische Feldstärke.
 
 Bei Messungen in 3 m Messentfernung außerhalb von Gebäuden ist der
-Messwert um den Korrekturfaktor **K**              der Tabelle A.1 zu
-verändern.
+Messwert um den Korrekturfaktor **K** der Tabelle A.1 zu verändern.
 
 Bei Messungen innerhalb von Gebäuden ist der Messwert, unabhängig von
-der gewählten Messentfernung, immer um den Korrekturfaktor **K**
-der Tabelle A.1 zu verändern.
+der gewählten Messentfernung, immer um den Korrekturfaktor **K** der
+Tabelle A.1 zu verändern.
 
 Tabelle A.1
 ## Korrekturfaktoren Freiraum-Freifeld
@@ -2259,13 +2247,13 @@ Tabelle A.1
         innerhalb des Gebäudes
 
 
-*    *   **K**                      in dB
+*    *   **K** in dB
         (vertikale Polarisation)
 
-    *   **K**                      in dB
+    *   **K** in dB
         (horizontale Polarisation)
 
-    *   **K**                      in dB
+    *   **K** in dB
 
 
 *    *   30–40
@@ -2281,7 +2269,7 @@ Tabelle A.1
 
     *   – 3
 
-    *   *                      0
+    *   * 0
 
     *   – 3
 
@@ -2307,14 +2295,14 @@ Tabelle A.1
 
 
 [^f771926_06_BJNR106000009BJNE001200000]
-Diese Korrekturwerte **K**              berücksichtigen den
-Unterschied zwischen Freiraumfeldstärke und Freifeld-Feldstärke
+Diese Korrekturwerte **K** berücksichtigen den Unterschied zwischen
+Freiraumfeldstärke und Freifeld-Feldstärke
 
 Für den Vergleich der Messergebnisse mit den in Anlage 2 dieser
 Verordnung aufgeführten Grenzwerten gilt folgende Gleichung:
 
 *    *   E
-        korr                          = E
+        korr = E
         Stör **+ K**
 
     *   (A.1)
@@ -2328,17 +2316,17 @@ Verordnung aufgeführten Grenzwerten gilt folgende Gleichung:
    Hierbei sind:
 
     – E
-Stör**:** der gemessene Störfeldstärkepegel in dB(*                   V/m)
+Stör**:** der gemessene Störfeldstärkepegel in dB(*V/m)
 
 
     – E
-korr**:** der korrigierte Störfeldstärkepegel in dB(*                   V/m),
-    der mit dem zutreffenden Grenzwert verglichen wird
+korr**:** der korrigierte Störfeldstärkepegel in dB(*V/m), der mit dem
+    zutreffenden Grenzwert verglichen wird
 
 
 
 
-Anhang              1a
+Anhang 1a
 ## Grenzwert für den Störstrom
 
 Für den Fall, dass aufgrund von hohen Umgebungsfeldstärken der
@@ -2348,7 +2336,7 @@ zulässigen asymmetrischen Störstrom als „sekundärer“ Grenzwert
 herangezogen werden.
 
 ![bgbl1_2009_j1060-1_0080.jpg](bgbl1_2009_j1060-1_0080.jpg)
-Anhang              2
+Anhang 2
 Korrektur des vom Quasispitzenwert-Detektor
 angezeigten Pegelwerts bei geringen Abständen von
 ## (S+N)/N
@@ -2359,20 +2347,20 @@ angezeigten Pegelwerts bei geringen Abständen von
 
 
 *    *   20\*log ((S+N)/N) entspricht (
-        S+N                       )-
-        N                       :
+        S+N)-
+        N:
 
     *   Störabstand zwischen Summensignal (S+N) und Rauschen (N); in (dB)
 
 
 *    *   20\*log ((S+N)/S) entspricht (
-        S+N                       )-
-        S                       :
+        S+N)-
+        S:
 
     *   Störabstand zwischen Summensignal (S+N) und Signal (S); (dB)
 
 
-*    *   *                         U                       :
+*    *   *U:
 
     *   Signalüberhöhung aufgrund der Signalüberlagerung; in (dB)
 
@@ -2382,10 +2370,10 @@ angezeigten Pegelwerts bei geringen Abständen von
 *Vorzunehmende Korrektur:*
 
 U
-mess                = U
-Anzeige                –*               U
+mess = U
+Anzeige –*U
 
-Anhang              3
+Anhang 3
 ## Bestimmung der Messunsicherheit
 
 
@@ -2412,13 +2400,13 @@ A.3.1**** Messunsicherheit bei Feldstärkemessungen ****
         *   Messung der elektrischen Feldstärke
 
 
-    *        *   *                              30 MHz
+    *        *   * 30 MHz
 
-        *   *                              30 MHz
+        *   * 30 MHz
 
         *   30 – 300 MHz
 
-        *   *                              300 –
+        *   * 300 –
             1 000 MHz
 
 
@@ -2628,11 +2616,10 @@ A.3.2******** Messunsicherheit bei geringem Abstand
 
     Wenn aufgrund des geringen Störabstands zwischen Summensignal und
     Rauschen (
-    S+N                   )/
-    N                    die Messunsicherheit des Quasispitzenwert-
-    Detektors von ca. 3 dB zu berücksichtigen ist, und die Korrekturwerte
-    aus Anhang 2 nicht zur Anwendung kamen, ergibt sich stattdessen
-    folgende Bilanz:
+    S+N)/
+    N die Messunsicherheit des Quasispitzenwert-Detektors von ca. 3 dB zu
+    berücksichtigen ist, und die Korrekturwerte aus Anhang 2 nicht zur
+    Anwendung kamen, ergibt sich stattdessen folgende Bilanz:
 
     *        *   **Tabelle A.3.2**
             Beitrag des Quasispitzenwert-Detektors bei geringem Abstand
@@ -2649,13 +2636,13 @@ A.3.2******** Messunsicherheit bei geringem Abstand
         *   Messung der elektrischen Feldstärke
 
 
-    *        *   *                              30 MHz
+    *        *   * 30 MHz
 
-        *   *                              30 MHz
+        *   * 30 MHz
 
         *   30 – 300 MHz
 
-        *   *                              300 –
+        *   * 300 –
             1 000 MHz
 
 
@@ -2688,17 +2675,16 @@ A.3.2******** Messunsicherheit bei geringem Abstand
 A.3.3**** Messunsicherheit bei Messung der Störstrahlungsleistung ****
 
     Bei einem Abstand (
-    S+N                   )
-    /N                    von 20 dB gilt eine Messunsicherheit von 8 dB
-    und bei einem Abstand (
-    S+N                   )
-    /N                    von mehr als 6 dB eine Messunsicherheit von 9
-    dB.
+    S+N)
+    /N von 20 dB gilt eine Messunsicherheit von 8 dB und bei einem Abstand
+    (
+    S+N)
+    /N von mehr als 6 dB eine Messunsicherheit von 9 dB.
 
 
 
 
-Anhang              4
+Anhang 4
 Korrektur des vom Spitzenwert- oder Mittelwert-Detektor
 angezeigten Pegelwerts bei geringen Abständen von
 ## (S+N)/N
@@ -2856,23 +2842,22 @@ A.4.2**** Messverfahren ****
 
     1.  Der Pegel der Umgebungsfeldstärke
         E
-        a ****                          in dB(*                         V/m)
-        ist durch Abschalten der Störquelle zu messen.
+        a **** in dB(*V/m) ist durch Abschalten der Störquelle zu messen.
 
 
     2.  Der Pegel der resultierenden Feldstärke
         E
-        r ****                          in dB(*                         V/m)
-        (Messwertanzeige) ist durch Anschalten der Störquelle zu messen.
+        r **** in dB(*V/m) (Messwertanzeige) ist durch Anschalten der
+        Störquelle zu messen.
 
 
-    3.  Das Amplitudenverhältnis **d**                          zwischen den
-        ermittelten Pegeln ist zu berechnen:
+    3.  Das Amplitudenverhältnis **d** zwischen den ermittelten Pegeln ist zu
+        berechnen:
 
 
         *            *   d =
                 E
-                r                                      –
+                r –
                 E
                 a ****
 
@@ -2884,21 +2869,20 @@ A.4.2**** Messverfahren ****
 
 
 
-    Das Amplitudenverhältnis **d**                    repräsentiert die
-    durch die Überlagerung der Signale resultierende Überhöhung der
-    Messwertanzeige.
+    Das Amplitudenverhältnis **d** repräsentiert die durch die
+    Überlagerung der Signale resultierende Überhöhung der Messwertanzeige.
 
     Die überhöhte Messwertanzeige wird korrigiert, indem der mit Hilfe des
     im Bild A.4.1 dargestellten Diagramms grafisch ermittelte
-    Korrekturwert **i**                    von der Messwertanzeige
+    Korrekturwert **i** von der Messwertanzeige
     E
-    r ****                    abgezogen wird:
+    r **** abgezogen wird:
 
 
     *        *   E
-            i                                =
+            i =
             E
-            r                                  – i ****
+            r – i ****
 
         *   (A.4.2)
 
@@ -2941,7 +2925,7 @@ A.4.2**** Messverfahren ****
 
 
 
-Anhang              5
+Anhang 5
 Anforderungen an einen aktiven Dipol
 ## für die Messung der elektrischen Feldstärke im Frequenzbereich bis
 30 MHz
@@ -2950,12 +2934,12 @@ Aktive Dipolantenne im Frequenzbereich 9 kHz – 30 MHz
 
 *    *   Symmetrie des Dipols:
 
-    *   *                        1 dB
+    *   * 1 dB
 
 
 *    *   Antennenfaktor:
 
-    *   *                        20 dB/m
+    *   * 20 dB/m
 
 
 *    *   Ausgangsimpedanz:

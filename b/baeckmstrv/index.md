@@ -3,7 +3,7 @@ Title: Verordnung über das Berufsbild und über die Prüfungsanforderungen im p
   und im fachtheoretischen Teil der Meisterprüfung für das Bäcker-Handwerk
 jurabk: BäckMstrV
 layout: default
-origslug: b_ckmstrv
+origslug: baeckmstrv
 slug: baeckmstrv
 
 ---

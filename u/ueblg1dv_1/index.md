@@ -2,7 +2,7 @@
 Title: Erste Durchführungsverordnung zum Ersten Überleitungsgesetz
 jurabk: ÜblG1DV 1
 layout: default
-origslug: _blg1dv_1
+origslug: ueblg1dv_1
 slug: ueblg1dv_1
 
 ---
@@ -14,6 +14,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 1955, 88
+
+Geändert durch
+:   Art. 2 Nr. 14 G v. 20.12.1991 I 2317
 
 
 
@@ -155,7 +158,7 @@ Bundesversorgungsgesetz
 in der Fassung der Bekanntmachung vom 7. August 1953 (Bundesgesetzbl.
 I S. 866) und des Dritten Gesetzes zur Änderung und Ergänzung des
 Bundesversorgungsgesetzes vom 19. Januar 1955 (Bundesgesetzbl. I S.
-25)              beziehen.
+25) beziehen.
 
 (3)
 
@@ -200,8 +203,7 @@ nach den für die einzelnen Anstalten festgesetzten Pflegesätzen.
 1.  die Leistungen der Arbeits- und Berufsförderung, welche
     Kriegsbeschädigten oder ihnen gleichgestellten Personen auf Grund der
     Verordnung zur Durchführung des § 26 des Bundesversorgungsgesetzes vom
-    10\. Dezember 1951 (Bundesgesetzbl. I S. 951)
-    gewährt werden;
+    10\. Dezember 1951 (Bundesgesetzbl. I S. 951) gewährt werden;
 
 
 2.  die Leistungen der sozialen Fürsorge, die auf Grund der

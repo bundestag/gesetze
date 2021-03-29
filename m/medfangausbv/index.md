@@ -1,5 +1,5 @@
 ---
-Title: Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur
+Title: Verordnung über die Berufsausbildung zum Medizinischen  Fachangestellten/zur
   Medizinischen Fachangestellten
 jurabk: MedFAngAusbV
 layout: default
@@ -8,7 +8,7 @@ slug: medfangausbv
 
 ---
 
-# Verordnung über die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten (MedFAngAusbV)
+# Verordnung über die Berufsausbildung zum Medizinischen  Fachangestellten/zur Medizinischen Fachangestellten (MedFAngAusbV)
 
 Ausfertigungsdatum
 :   2006-04-26
@@ -470,8 +470,11 @@ werden, wenn die Vertragsparteien dies vereinbaren.
 
 Diese Verordnung tritt am 1. August 2006 in Kraft.
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen
+Fachangestellten/zur Medizinischen Fachangestellten
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten - Sachliche Gliederung -
+## Anlage 1 - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1100 - 1105)
 
@@ -1344,8 +1347,11 @@ Diese Verordnung tritt am 1. August 2006 in Kraft.
 
 
 
+(zu § 5)
+Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen
+Fachangestellten/zur Medizinischen Fachangestellten
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Medizinischen Fachangestellten/zur Medizinischen Fachangestellten - Zeitliche Gliederung -
+## Anlage 2 - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2006, 1106 - 1108)
 

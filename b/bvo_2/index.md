@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1957, 1719
 
 Neugefasst durch
-:   Bek. vom 12.10.1990, 2178;
+:   Bek. vom 12.10.1990 I 2178;
 
 Zuletzt geändert durch
 :   Art. 78 Abs. 2 G v. 23.11.2007 I 2614
@@ -2327,8 +2327,9 @@ Diese Verordnung gilt nicht im Saarland.
 
 (Inkrafttreten)
 
+(zu § 5 Abs. 5)
 
-### Anlage 1 (zu § 5 Abs. 5) Aufstellung der Gesamtkosten
+### Anlage 1 Aufstellung der Gesamtkosten
 
 Fundstelle des Originaltextes: BGBl. I 1990, 2198 - 2199
 Die Gesamtkosten bestehen aus:
@@ -2547,8 +2548,9 @@ Zu den Baukosten gehören:
 
 
 
+(zu den §§ 11a und 34 Abs. 1)
 
-### Anlage 2 (zu den §§ 11a und 34 Abs. 1) Berechnung des umbauten Raumes
+### Anlage 2 Berechnung des umbauten Raumes
 
 (Fundstelle des Originaltextes: BGBl. I 1990, 2200)
 Der umbaute Raum ist in

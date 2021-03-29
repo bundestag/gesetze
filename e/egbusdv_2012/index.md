@@ -16,6 +16,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1038
 
+Geändert durch
+:   Art. 485 V v. 31.8.2015 I 1474
+
 
 ## Eingangsformel
 
@@ -84,7 +87,7 @@ niedergelassenen Verkehrsunternehmer nach Artikel 22 Absatz 3 des
 Interbus-Übereinkommens ist die Genehmigungsbehörde im Sinne des § 11
 Absatz 2 Nummer 2 des Personenbeförderungsgesetzes zuständig.
 
-(4) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung ist
+(4) Das Bundesministerium für Verkehr und digitale Infrastruktur ist
 zuständig für
 
 1.  die Mitteilungen an die Kommission über die Zahl der erteilten
@@ -168,12 +171,13 @@ folgenden Fällen ein Anhörungsverfahren entsprechend § 14 Absatz 1 bis
 (1) Der Unternehmer hat die Fahrtenblätter gemäß Artikel 17 Absatz 5
 der Verordnung (EG) Nr. 1073/2009 unverzüglich jeweils nach Ablauf des
 Monats, in dem die Kabotagebeförderungen durchgeführt wurden, an das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung zu übersenden.
-Dieses teilt nach Artikel 28 Absatz 1 Satz 3 der Verordnung (EG) Nr.
-1073/2009 der Kommission in nicht personenbezogener Form die Daten zur
-Kabotage mit, die als Sonderform des Linienverkehrs und als
-Gelegenheitsverkehr während des Berichtszeitraums von in Deutschland
-ansässigen Verkehrsunternehmern durchgeführt wurde.
+Bundesministerium für Verkehr und digitale Infrastruktur zu
+übersenden. Dieses teilt nach Artikel 28 Absatz 1 Satz 3 der
+Verordnung (EG) Nr. 1073/2009 der Kommission in nicht
+personenbezogener Form die Daten zur Kabotage mit, die als Sonderform
+des Linienverkehrs und als Gelegenheitsverkehr während des
+Berichtszeitraums von in Deutschland ansässigen Verkehrsunternehmern
+durchgeführt wurde.
 
 (2) Der Unternehmer hat dafür zu sorgen, dass nach Maßgabe der
 nachfolgenden Vorschriften die jeweils erforderlichen Dokumente

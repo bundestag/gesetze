@@ -3,7 +3,7 @@ Title: Gesetz zur Änderung des Gesetzes über die Entschädigung der Mitglieder
   Bundestages
 jurabk: DiätenGÄndG
 layout: default
-origslug: di_teng_ndg
+origslug: diaetengaendg
 slug: diaetengaendg
 
 ---

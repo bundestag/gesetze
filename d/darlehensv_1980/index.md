@@ -20,54 +20,21 @@ Neugefasst durch
 :   Bek. v. 28.10.1983 I 1340;
 
 Zuletzt geändert durch
-:   Art. 14 u. 18 Nr. 2 G v. 23.12.2007 I 3254
+:   Art. 1 V v. 11.7.2016 I 1715
 
 
 ## § 1 Reihenfolge der Tilgung
 
-(1) Darlehen nach dem Ausbildungsförderungsgesetz vom 19. September
-1969 (BGBl. I S. 1719) werden vor solchen nach dem
-Bundesausbildungsförderungsgesetz eingezogen.
-
-(2) Hat ein Auszubildender sowohl Darlehen nach dem
-Bundesausbildungsförderungsgesetz als auch nach
-
-1.  den Besonderen Bewilligungsbedingungen für die Vergabe von
-    Bundesmitteln zur Förderung von Studenten an wissenschaftlichen
-    Hochschulen in der Bundesrepublik Deutschland einschließlich des
-    Landes Berlin des Bundesministers für Bildung und Wissenschaft vom 19.
-    November 1970 oder
-
-
-2.  den in der Verordnung zur Bezeichnung der landesrechtlichen
-    Vorschriften nach § 59 Abs. 3 Bundesausbildungsförderungsgesetz vom
-    18\. November 1971 (BGBl. I S. 1822), geändert durch die Verordnung vom
-    29\. März 1974 (BGBl. I S. 828), bezeichneten landesrechtlichen
-    Vorschriften für den Besuch einer der in § 2 Abs. 1 und 2 des Gesetzes
-    bezeichneten Ausbildungsstätten
-
-
-
-erhalten, so werden auf seinen Antrag die Darlehen nach dem
-Bundesausbildungsförderungsgesetz erst nach den Darlehen getilgt, die
-nach den in den Nummern 1 und 2 bezeichneten Vorschriften geleistet
-worden sind. Abweichend von Satz 1 können Darlehen nach dem
-Bundesausbildungsförderungsgesetz eingezogen werden, solange die
-Einziehung der Darlehen, die nach den in den Nummern 1 und 2
-bezeichneten Vorschriften geleistet worden sind, nicht erfolgt.
-
-(3) Verzinsliche Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31.
+(1) Verzinsliche Darlehen nach § 17 Abs. 4 des Gesetzes in der bis 31.
 März 1976 geltenden Fassung werden vor unverzinslichen Darlehen nach
-diesem Gesetz eingezogen.
+dem Bundesausbildungsförderungsgesetz eingezogen.
 
-(4) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
+(2) Zahlungen, die zur Tilgung der gesamten fälligen Schuld nicht
 ausreichen, werden zunächst auf das Darlehen, dann auf die Kosten und
 zuletzt auf die Zinsen angerechnet.
 
-(5) Bei mehreren gleichartigen Darlehen ist das ältere vor dem
+(3) Bei mehreren gleichartigen Darlehen ist das ältere vor dem
 jüngeren zu tilgen.
-
-(6) (Aufgehoben)
 
 
 ## § 2 Dauer der Verzinsung
@@ -80,22 +47,6 @@ die Auszahlung des Betrages folgt.
 ## § 3
 
 (Aufgehoben)
-
-
-## § 4 Teilerlaß
-
-(1) Anträge auf Teilerlaß des Darlehens nach § 18b Abs. 2 und 3 des
-Gesetzes sind innerhalb eines Monats nach Bekanntgabe des
-Feststellungs- und Rückzahlungsbescheides (§ 18 Abs. 5a des Gesetzes,
-§ 10) unter Angabe der Förderungsnummer des Amtes, das zuletzt mit
-einer Entscheidung in der Förderungsangelegenheiten befaßt war, beim
-Bundesverwaltungsamt zu stellen. Die Zeitpunkte von Beginn und
-Beendigung des Ausbildungsabschnitts nach § 15b Abs. 3 des Gesetzes
-sind im Fall des § 18b Abs. 3 des Gesetzes nachzuweisen. Das
-Bundesverwaltungsamt teilt seine Entscheidung dem Antragsteller
-schriftlich mit.
-
-(2) (weggefallen)
 
 
 ## § 5 Freistellung von der Rückzahlungsverpflichtung
@@ -112,10 +63,9 @@ der Anlage zu dieser Verordnung.
 
 (2) Löst der Darlehensnehmer die gesamte Darlehens(rest)schuld nicht
 in einer Summe ab, so wird der Nachlass nur für die Ablösung von
-mindestens 500 Euro gewährt. In diesen Fällen wird der Nachlaß jedoch
-nur dann gewährt, wenn sich der Darlehensnehmer damit einverstanden
-erklärt, daß der Ablösungsbetrag auf die zuletzt fällig werdenden
-Rückzahlungsraten angerechnet wird.
+mindestens 500 Euro gewährt. Soweit vorzeitig zurückgezahlte Beträge
+nicht zur Ablösung der vollen Restschuld ausreichen, werden sie auf
+die zuletzt fällig werdenden Rückzahlungsraten angerechnet.
 
 
 ## § 7 Vergleiche, Veränderungen von Ansprüchen
@@ -127,28 +77,23 @@ Bundeshaushaltsordnung.
 
 ## § 8 Zahlungsrückstand
 
-(1) Die Zinsen nach § 18 Abs. 2 des Gesetzes sind von der jeweiligen
-Darlehens(rest)schuld zu erheben.
+(1) Nach dem Zahlungstermin werden gesondert erhoben:
 
-(2) Die Verzinsung beginnt mit dem auf den Zahlungstermin folgenden
-Kalendermonat. Einem Kalendermonat sind 30 Tage zugrunde zu legen.
-
-(3) Nach dem Zahlungstermin werden gesondert erhoben:
-
-1.  2 Euro Mahnkosten,
+1.  Zinsen nach § 18 Absatz 2 des Gesetzes ab dem auf den Zahlungstermin
+    folgenden Monat, wobei einem Kalendermonat 30 Tage zugrunde zu legen
+    sind,
 
 
-2.  Zinsen nach § 18 Abs. 2 des Gesetzes.
+2.  2 Euro Mahnkosten.
 
 
 
 
-(4) Die Rechtsfolgen nach den Absätzen 1 bis 3 treten unabhängig davon
-ein, ob dem Darlehensnehmer ein Bescheid nach § 10 zugegangen ist.
-Abweichend von Satz 1 treten die Rechtsfolgen nicht ein, solange der
-Bescheid dem Darlehensnehmer aus von ihm nicht zu vertretenden Gründen
-nicht zugegangen ist. Ist der Bescheid dem Darlehensnehmer zugegangen,
-werden Zinsen nur von der darin genannten Darlehensschuld berechnet.
+(2) Die Rechtsfolgen nach Absatz 1 treten unabhängig davon ein, ob dem
+Darlehensnehmer ein Bescheid nach § 10 zugegangen ist. Abweichend von
+Satz 1 treten die Rechtsfolgen nicht ein, solange der Bescheid dem
+Darlehensnehmer aus von ihm nicht zu vertretenden Gründen nicht
+zugegangen ist.
 
 
 ## § 9 Datenermittlung
@@ -218,7 +163,7 @@ Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
 (1) Der Darlehensnehmer ist verpflichtet,
 
-1.  jeden Wohnungswechsel und jede Änderung des Familiennamens,
+1.  jede Änderung der Wohnanschrift und des Familiennamens,
 
 
 2.  (weggefallen)
@@ -233,12 +178,8 @@ Rückzahlungsbetrages bei der Bundeskasse als geleistet.
 
 
 
-dem Bundesverwaltungsamt unverzüglich schriftlich mitzuteilen.
-Darlehensnehmer, die vor dem 1. August 1983 Darlehen erhalten haben,
-sind darüber hinaus verpflichtet, dem Bundesverwaltungsamt die
-Beendigung des Ausbildungsabschnitts, für den ihnen Darlehen nach dem
-Gesetz geleistet worden sind, unverzüglich unter Beifügung von
-Unterlagen schriftlich mitzuteilen.
+dem Bundesverwaltungsamt unverzüglich schriftlich oder elektronisch
+mitzuteilen.
 
 (2) Kommt der Darlehensnehmer seinen Mitteilungspflichten nach Absatz
 1 Nr. 1 nicht nach und muß seine Anschrift deshalb ermittelt werden,
@@ -248,23 +189,23 @@ sollen nicht erhoben werden, wenn der Darlehensnehmer seine
 Mitteilungspflichten nach Bekanntgabe des Bescheides nach § 18 Abs. 5a
 des Gesetzes und nach § 10 verletzt und das Darlehenskonto des
 Darlehensnehmers im Zeitpunkt der Notwendigkeit der
-Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Abs. 3
-Nr. 1 gilt entsprechend.
+Anschriftenermittlung keinen Zahlungsrückstand aufweist. § 8 Absatz 1
+Nummer 2 gilt entsprechend.
 
 
 ## § 13 Aufteilung der eingezogenen Beträge
 
-(1) Das Bundesverwaltungsamt übermittelt den Ländern nach Ablauf eines
+(1) Das Bundesverwaltungsamt hat den Ländern nach Ablauf eines
 Kalenderjahres eine Aufstellung über die Höhe der eingezogenen Beträge
-und Zinsen (Darlehens- und Verzugszinsen) sowie über die Aufteilung
-nach Maßgabe des § 56 Abs. 2 des Gesetzes. Es leistet zum Ende des
-jeweiligen Kalenderjahres jedem Land eine Abschlagszahlung in Höhe des
-ihm voraussichtlich zustehenden Betrages und führt bis zum 30. Juni
-des laufenden Jahres den Restbetrag ab, der ihm nach der Aufstellung
-gemäß Satz 1 zusteht.
+und Zinsen (Darlehens- und Zahlungsrückstandszinsen) sowie über die
+Aufteilung nach Maßgabe des § 56 Absatz 2 des Gesetzes zu übermitteln.
+Es hat zum Ende des jeweiligen Kalenderjahres jedem Land eine
+Abschlagszahlung in Höhe des ihm voraussichtlich zustehenden Betrages
+zu leisten und bis zum 30. Juni des laufenden Jahres den Restbetrag
+abzuführen, der ihm nach § 56 Absatz 2 Satz 4 zusteht.
 
-(2) Kostenerstattungen nach § 8 Abs. 3 Nr. 1 und § 12 Abs. 2 sowie
-Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
+(2) Kostenerstattungen nach § 8 Absatz 1 Nummer 2 und § 12 Absatz 2
+sowie Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
 
 ## § 13a
@@ -274,16 +215,11 @@ Bußgelder nach § 14 verbleiben in voller Höhe dem Bund.
 
 ## § 14 Ordnungswidrigkeiten
 
-Ordnungswidrig im Sinne des § 58 Abs. 1 Nr. 3 des Gesetzes handelt,
-wer vorsätzlich oder fahrlässig entgegen § 12 Abs. 1 Nr. 4 eine
-Änderung nicht unverzüglich schriftlich mitteilt.
-
-
-## § 15 Berlin-Klausel
-
-Diese Verordnung gilt nach § 14 des Dritten Überleitungsgesetzes in
-Verbindung mit § 67 des Bundesausbildungsförderungsgesetzes auch im
-Land Berlin.
+Ordnungswidrig im Sinne des § 58 Absatz 1 Nummer 3 des
+Bundesausbildungsförderungsgesetzes handelt, wer vorsätzlich oder
+fahrlässig entgegen § 12 Absatz 1 Nummer 4 eine Mitteilung nicht,
+nicht richtig, nicht vollständig, nicht in der vorgeschriebenen Weise
+oder nicht rechtzeitig macht.
 
 
 ## Anlage (zu § 6 Abs. 1)

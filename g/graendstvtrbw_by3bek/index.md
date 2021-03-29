@@ -4,7 +4,7 @@ Title: Bekanntmachung über den Abschluß und das Inkrafttreten des Dritten Staa
   Landesgrenze
 jurabk: GrÄndStVtrBW/BY3Bek
 layout: default
-origslug: gr_ndstvtrbw_by3bek
+origslug: graendstvtrbw_by3bek
 slug: graendstvtrbw_by3bek
 
 ---

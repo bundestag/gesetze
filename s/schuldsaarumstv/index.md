@@ -103,10 +103,10 @@ bestellte Hypotheken, die auf Franken umgestellt, im Grundbuch aber
 noch nicht in Franken eingetragen worden sind.
 
 (2) Soweit die durch eine Hypothek gesicherte Forderung in
-Frankreich              bestehenbleibt, wird die Hypothek nicht nach
-Absatz 1 umgestellt. Vereinigt sich eine nach Satz 1 von der
-Umstellung ausgenommene Hypothek mit dem Eigentum, so wird sie im
-Zeitpunkt der Vereinigung nach Absatz 1 auf Deutsche Mark umgestellt.
+Frankreich bestehenbleibt, wird die Hypothek nicht nach Absatz 1
+umgestellt. Vereinigt sich eine nach Satz 1 von der Umstellung
+ausgenommene Hypothek mit dem Eigentum, so wird sie im Zeitpunkt der
+Vereinigung nach Absatz 1 auf Deutsche Mark umgestellt.
 
 (3) Zur Eintragung des nach Absatz 1 in Deutscher Mark sich ergebenden
 Nennbetrages einer Hypothek in das Grundbuch bedarf es der Bewilligung

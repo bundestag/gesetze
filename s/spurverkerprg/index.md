@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1976, 241
 
 Zuletzt geändert durch
-:   Art. 301 V v. 31.10.2006 I 2407
+:   Art. 507 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -35,7 +35,7 @@ nicht Bestandteil des Sondervermögens "Deutsche Bundesbahn".
 
 (2) Die Versuchsanlage steht zu Versuchs- und Forschungszwecken
 grundsätzlich auch Dritten offen. Das Nähere regelt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung durch eine
+Bundesministerium für Verkehr und digitale Infrastruktur durch eine
 Benutzungsordnung.
 
 
@@ -77,7 +77,7 @@ Die Planfeststellung wird von der örtlich zuständigen
 Bundesbahndirektion durchgeführt. Bestehen zwischen der
 Anhörungsbehörde oder einer anderen beteiligten Behörde und der
 Bundesbahndirektion Meinungsverschiedenheiten, wird der Plan vom
-Bundesministerium für Verkehr, Bau und Stadtentwicklung festgestellt.
+Bundesministerium für Verkehr und digitale Infrastruktur festgestellt.
 
 
 ## § 5 Planfeststellungsverfahren
@@ -89,7 +89,7 @@ bis 18f Abs. 6 des Bundesfernstraßengesetzes in der Fassung der
 Bekanntmachung vom 1. Oktober 1974 (Bundesgesetzbl. I S. 2413),
 zuletzt geändert durch
 Artikel 26 des Zuständigkeitslockerungsgesetzes vom 10. März 1975
-(Bundesgesetzbl. I S. 685),              sinngemäß.
+(Bundesgesetzbl. I S. 685), sinngemäß.
 
 
 ## § 6 Kreuzungen mit anderen Eisenbahnen und mit Straßen
@@ -158,7 +158,7 @@ zustande, können die Eigentümer die Entziehung des Eigentums an den
 Flächen verlangen. Im übrigen gilt § 10 dieses Gesetzes (Enteignung).
 
 (3) Um die Planung der Versuchsanlage zu sichern, kann das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung nach Anhörung
+Bundesministerium für Verkehr und digitale Infrastruktur nach Anhörung
 der Landesplanungsbehörde durch Rechtsverordnung für die Dauer von
 höchstens zwei Jahren Planungsgebiete festlegen. Die Gemeinden und
 Kreise, deren Bereiche durch die festzulegenden Planungsgebiete
@@ -228,13 +228,13 @@ kann das Entschädigungsverfahren unmittelbar durchgeführt werden.
 ## § 11 Verwaltung und Betrieb der Versuchsanlage
 
 (1) Die Versuchsanlage nach § 1 wird vom Bund verwaltet und betrieben.
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung bestimmt
+Das Bundesministerium für Verkehr und digitale Infrastruktur bestimmt
 die Stellen, denen die Verwaltung und der Betrieb der Versuchsanlage
 nach seinen Weisungen obliegen. Die Durchführung des Betriebs kann
 auch einer Gesellschaft des privaten Rechts übertragen werden.
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung erläßt
-für die Versuchsanlage Betriebsvorschriften als allgemeine
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur
+erläßt für die Versuchsanlage Betriebsvorschriften als allgemeine
 Verwaltungsvorschriften. Die Betriebsvorschriften müssen die
 Anforderungen enthalten, die im Interesse der Sicherheit und Ordnung
 einschließlich des Immissionsschutzes an die Betriebsweise der
@@ -301,8 +301,7 @@ Das Bundesbahngesetz vom 13. Dezember 1951 (Bundesgesetzbl. I S. 955),
 zuletzt geändert durch
 Artikel 2 § 2 des Vierten Gesetzes zur Änderung des Gesetzes über das
 Bundesverfassungsgericht vom 21. Dezember 1970 (Bundesgesetzbl. I S.
-1765),              sowie die Eisenbahngesetze der Länder bleiben
-unberührt.
+1765), sowie die Eisenbahngesetze der Länder bleiben unberührt.
 
 
 ## § 16 Berlin-Klausel

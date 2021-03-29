@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1992, 2471
 
+V aufgeh. durch
+:   Art. 4 Abs. 66 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 1 V v. 19.1.2012 I 119
+:   Art. 1 V v. 25.11.2013 I 4018
+
+V ursprünglich aufgeh. durch
+:   Art. 4 Abs. 69 G v. 7.8.2013 I 3154 mWv 14.8.2018; Art. 4 aufgeh. durch Art. 2 G v. 18.7.2016 I 1666
 
 
 ## Eingangsformel
@@ -29,10 +35,10 @@ mit dem 2. Abschnitt des Verwaltungskostengesetzes vom 23. Juni 1970
 
 ## § 1 Anwendungsbereich
 
-Für jede der nachstehend aufgeführten Amtshandlungen der Physikalisch-
-Technischen Bundesanstalt (PTB) nach § 13a Nummer 1 und 2 des
-Eichgesetzes werden Gebühren und Auslagen nach dieser Verordnung
-erhoben:
+Für jede der nachstehend aufgeführten individuell zurechenbaren
+öffentlichen Leistungen der Physikalisch-Technischen Bundesanstalt
+(PTB) nach § 13a Nummer 1 und 2 des Eichgesetzes werden Gebühren und
+Auslagen nach dieser Verordnung erhoben:
 
 1.  die Prüfung, Bewertung oder Zulassung von Messgeräten gemäß § 7c
     Absatz 2 in Verbindung mit Anlage 9 Nummer 2 der Eichordnung, gemäß
@@ -104,15 +110,15 @@ Stundensätze zu berechnen.
 
 
 
-(3) Werden Amtshandlungen nach § 1 außerhalb der Bundesanstalt
-erbracht, so sind Gebühren nach dem Zeitaufwand ferner zu berechnen
-für
+(3) Werden individuell zurechenbare öffentliche Leistungen nach § 1
+außerhalb der Bundesanstalt erbracht, so sind Gebühren nach dem
+Zeitaufwand ferner zu berechnen für
 
 1.  Reisezeiten, die innerhalb der üblichen Arbeitszeit liegen oder von
     der Bundesanstalt besonders abgegolten werden,
 
 
-2.  Wartezeiten, die vom Kostenschuldner verursacht worden sind.
+2.  Wartezeiten, die vom Gebührenschuldner verursacht worden sind.
 
 
 
@@ -127,9 +133,11 @@ Betrag erhöht sich die Gebühr nach § 2.
 
 ## § 4 Auslagen
 
-Auslagen sind nach Maßgabe des § 10 des Verwaltungskostengesetzes zu
-erstatten. Die in § 10 Abs. 1 Nr. 1 des Verwaltungskostengesetzes
-bezeichneten Auslagen werden jedoch nicht gesondert erhoben.
+Auslagen sind nach Maßgabe des § 10 des Verwaltungskostengesetzes in
+der bis zum 14. August 2013 geltenden Fassung zu erstatten. Die in §
+10 Absatz 1 Nummer 1 des Verwaltungskostengesetzes in der bis zum 14.
+August 2013 geltenden Fassung bezeichneten Auslagen werden jedoch
+nicht gesondert erhoben.
 
 
 ## § 5 Inkrafttreten
@@ -144,15 +152,14 @@ Der Bundesrat hat zugestimmt.
 
 ## Anlage (zu § 2)
 
-(Fundstelle: BGBl. I 2012, 119 - 120)
+(Fundstelle: BGBl. I 2013, 4018)
 
-Für die Amtshandlungen nach § 1 dieser Verordnung werden die
-nachstehend aufgeführten Stundensätze berechnet:
+Für die individuell zurechenbaren öffentlichen Leistungen nach § 1
+dieser Verordnung werden die folgenden Stundensätze berechnet:
 
 *    *   Themenbereich
 
-    *   Stundensatz
-        Euro
+    *   Stundensatz in Euro
 
     *   Fachbereich
 
@@ -161,21 +168,21 @@ nachstehend aufgeführten Stundensätze berechnet:
         Akustik, Ultraschall,
         Beschleunigung
 
-    *   82
+    *   93
 
-    *   Kinematik
+    *   Geschwindigkeit
 
 
 *    *   Schall
 
 
-*    *   Angewandte Akustik
+*    *   Akustik und Dynamik
 
 
 *    *   **Themenbereich 2**
         Durchfluss
 
-    *   93
+    *   105
 
     *   Gase
 
@@ -190,7 +197,7 @@ nachstehend aufgeführten Stundensätze berechnet:
         Elektrizität und
         Magnetismus
 
-    *   73
+    *   76
 
     *   Gleichstrom und Niederfrequenz
 
@@ -213,12 +220,12 @@ nachstehend aufgeführten Stundensätze berechnet:
 *    *   **Themenbereich 4**
         Ionisierende Strahlung
 
-    *   89
+    *   100
 
     *   Radioaktivität
 
 
-*    *   Strahlentherapie und Röntgendiagnostik
+*    *   Dosimetrie für Strahlentherapie und Röntgendiagnostik
 
 
 *    *   Strahlenschutzdosimetrie
@@ -234,10 +241,9 @@ nachstehend aufgeführten Stundensätze berechnet:
 
 
 *    *   **Themenbereich 5**
-        Länge, dimensionelle
-        Metrologie
+        Länge, dimensionelle Metrologie
 
-    *   85
+    *   94
 
     *   Bild- und Wellenoptik
 
@@ -258,10 +264,9 @@ nachstehend aufgeführten Stundensätze berechnet:
 
 
 *    *   **Themenbereich 6**
-        Masse und abgeleitete
-        Größen
+        Masse und abgeleitete Größen
 
-    *   83
+    *   100
 
     *   Masse
 
@@ -273,7 +278,7 @@ nachstehend aufgeführten Stundensätze berechnet:
         Metrologie in der
         Chemie
 
-    *   78
+    *   83
 
     *   Metrologie in der Chemie
 
@@ -287,7 +292,7 @@ nachstehend aufgeführten Stundensätze berechnet:
 *    *   **Themenbereich 10**
         Thermometrie
 
-    *   89
+    *   100
 
     *   Detektorradiometrie und Strahlungsthermometrie
 
@@ -300,7 +305,7 @@ nachstehend aufgeführten Stundensätze berechnet:
 
 *    *   Sonstige Leistungen
 
-    *   85
+    *   95
 
     *   Gesetzliches Messwesen und Technologietransfer
 

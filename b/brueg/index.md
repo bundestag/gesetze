@@ -3,7 +3,7 @@ Title: Bundesgesetz zur Regelung der rückerstattungsrechtlichen Geldverbindlich
   des Deutschen Reichs und gleichgestellter Rechtsträger
 jurabk: BRüG
 layout: default
-origslug: br_g
+origslug: brueg
 slug: brueg
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1957, 734
 
 Zuletzt geändert durch
-:   Art. 7 Abs. 3 G v. 26.3.2007 I 358
+:   Art. 21 Abs. 1 G v. 29.6.2015 I 1042
 
 
 ## Erster Abschnitt - Allgemeine Vorschriften und Begriffsbestimmungen
@@ -204,7 +204,10 @@ solchen Erbscheins maßgebend.
 
 (3) Die Erteilung des Erbscheins für den Rückerstattungsanspruch
 einschließlich des vorausgegangenen Verfahrens ist gebühren- und
-auslagenfrei. § 107 Abs. 1 Satz 2 der Kostenordnung bleibt unberührt.
+auslagenfrei. Dies gilt nicht für die Abnahme der eidesstattlichen
+Versicherung nach § 352 Absatz 3 Satz 3 des Gesetzes über das
+Verfahren in Familiensachen und in den Angelegenheiten der
+freiwilligen Gerichtsbarkeit.
 
 
 ### § 8
@@ -809,8 +812,8 @@ rückerstattungsrechtlicher Anspruch (§§ 1, 3) irrtümlich nach §§ 189,
 worden, so gilt diese Anmeldung als fristgemäße Anmeldung nach §§ 27,
 29,
 wenn aus der Anmeldung die feststellbaren Vermögensgegenstände
-erkennbar sind, für die Ersatz verlangt wird;              das gleiche
-gilt auch, wenn die Anmeldung nach Ablauf der Frist des § 189 des
+erkennbar sind, für die Ersatz verlangt wird; das gleiche gilt auch,
+wenn die Anmeldung nach Ablauf der Frist des § 189 des
 Bundesentschädigungsgesetzes bis zum 1. April 1959 erfolgt ist. Durch
 die Anmeldung gilt auch die Klagefrist des § 28 Abs. 2 als gewahrt.
 
@@ -820,8 +823,8 @@ rückerstattungsrechtlicher Anspruch (§§ 1, 3) irrtümlich nach §§ 189,
 231 des Bundesentschädigungsgesetzes bis zum 1. April 1958 angemeldet
 worden, so gilt die Klagefrist als gewahrt,
 wenn aus der Anmeldung die feststellbaren Vermögensgegenstände
-erkennbar sind, für die Ersatz verlangt wird;              das gleiche
-gilt auch, wenn die Anmeldung nach Ablauf der Frist des § 189 des
+erkennbar sind, für die Ersatz verlangt wird; das gleiche gilt auch,
+wenn die Anmeldung nach Ablauf der Frist des § 189 des
 Bundesentschädigungsgesetzes bis zum 1. April 1959 erfolgt ist. Die
 Anmeldung gilt auch als fristgemäße Anmeldung nach §§ 27, 29.
 

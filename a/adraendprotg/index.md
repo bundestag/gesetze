@@ -4,7 +4,7 @@ Title: Gesetz zu dem Protokoll vom 28. Oktober 1993 zur Änderung des Europäisc
   Güter auf der Straße (ADR)
 jurabk: ADRÄndProtG
 layout: default
-origslug: adr_ndprotg
+origslug: adraendprotg
 slug: adraendprotg
 
 ---

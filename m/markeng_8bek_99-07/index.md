@@ -36,6 +36,5 @@ Bundesministerium der Justiz
 
 ## Anlage Emblem der Ramsar CONVENTION ON WETLANDS
 
-(Inhalt: nicht darstellbares Emblem,
-Fundstelle: BGBl. I 1999, 1633)
-
+(Fundstelle: BGBl. I 1999, 1633)
+![bgbl1_1999_j1633_0010.jpg](bgbl1_1999_j1633_0010.jpg)

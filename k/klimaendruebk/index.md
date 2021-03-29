@@ -2,7 +2,7 @@
 Title: Rahmenübereinkommen der Vereinten Nationen über Klimaänderungen
 jurabk: KlimÄndRÜbk
 layout: default
-origslug: klim_ndr_bk
+origslug: klimaendruebk
 slug: klimaendruebk
 
 ---

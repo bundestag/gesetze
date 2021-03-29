@@ -3,7 +3,7 @@ Title: Vertrag zwischen der Bundesrepublik Deutschland und der Französischen Re
   zu dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen
 jurabk: EuRHiÜbkVtr FRA
 layout: default
-origslug: eurhi_bkvtr_fra
+origslug: eurhiuebkvtr_fra
 slug: eurhiuebkvtr_fra
 
 ---

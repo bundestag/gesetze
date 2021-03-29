@@ -5,7 +5,7 @@ Title: Protokoll zu dem Übereinkommen zur Durchführung des Übereinkommens von
   Abbau der Kontrollen an den gemeinsamen Grenzen
 jurabk: SchÜbkDÜbkProt
 layout: default
-origslug: sch_bkd_bkprot
+origslug: schuebkduebkprot
 slug: schuebkduebkprot
 
 ---

@@ -2,7 +2,7 @@
 Title: Drittes Gesetz zur Änderung des Gesetzes über das Kreditwesen
 jurabk: KredWGÄndG 3
 layout: default
-origslug: kredwg_ndg_3
+origslug: kredwgaendg_3
 slug: kredwgaendg_3
 
 ---

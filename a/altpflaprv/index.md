@@ -16,8 +16,11 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2002, 4418
 
+V aufgeh. durch
+:   § 62 Abs. 2 V v. 2.10.2018 I 1572 mWv 1.1.2020
+
 Zuletzt geändert durch
-:   Art. 38 G v. 6.12.2011 I 2515
+:   Art. 35 G v. 18.4.2016 I 886
 
 
 ## Eingangsformel
@@ -541,26 +544,27 @@ Altenpflegegesetzes vorliegt, eine von der zuständigen Behörde des
 Herkunftsstaats ausgestellte entsprechende Bescheinigung oder einen
 von einer solchen Behörde ausgestellten Strafregisterauszug oder, wenn
 ein solcher nicht beigebracht werden kann, einen gleichwertigen
-Nachweis vorlegen. Hat die antragstellende Person den Beruf im
-Herkunftsstaat bereits ausgeübt, so kann die für die Erteilung der
-Erlaubnis nach § 1 des Altenpflegegesetzes zuständige Behörde bei der
-zuständigen Behörde des Herkunftsstaats Auskünfte über etwa gegen die
-antragstellende Person verhängte Strafen oder sonstige berufs- oder
-strafrechtliche Maßnahmen wegen schwerwiegenden standeswidrigen
-Verhaltens oder strafbarer Handlungen, die die Ausübung des Berufs im
-Herkunftsstaat betreffen, einholen. Hat die für die Erteilung der
-Erlaubnis zuständige Behörde in den Fällen der Sätze 1 und 2 von
-Tatbeständen Kenntnis, die außerhalb des Geltungsbereichs des
-Altenpflegegesetzes eingetreten sind und im Hinblick auf die
-Voraussetzung des § 2 Abs. 1 Nr. 2 des Altenpflegegesetzes von
-Bedeutung sein können, so hat sie die zuständige Stelle des
-Herkunftsstaats zu unterrichten und sie zu bitten, diese Tatbestände
-zu überprüfen und ihr das Ergebnis und die Folgerungen, die sie
-hinsichtlich der von ihr ausgestellten Bescheinigungen und Nachweise
-daraus zieht, mitzuteilen. Die in den Sätzen 1 bis 3 genannten
-Bescheinigungen und Mitteilungen sind vertraulich zu behandeln. Sie
-dürfen der Beurteilung nur zugrunde gelegt werden, wenn bei der
-Vorlage die Ausstellung nicht mehr als drei Monate zurückliegt.
+Nachweis vorlegen. Hat die für die Erteilung der Erlaubnis nach § 1
+Absatz 1 des Altenpflegegesetzes zuständige Behörde berechtigte
+Zweifel, kann sie von der zuständigen Behörde eines Mitgliedstaates
+eine Bestätigung verlangen, aus der sich ergibt, dass die
+antragstellende Person die Ausübung des Berufs, der dem der
+Altenpflegerin oder des Altenpflegers entspricht, nicht auf Grund
+eines schwerwiegenden standeswidrigen Verhaltens oder einer
+Verurteilung wegen strafbarer Handlungen dauerhaft oder vorübergehend
+untersagt worden ist. Hat die für die Erteilung der Erlaubnis
+zuständige Behörde in den Fällen der Sätze 1 und 2 von Tatbeständen
+Kenntnis, die außerhalb des Geltungsbereichs des Altenpflegegesetzes
+eingetreten sind und im Hinblick auf die Voraussetzung des § 2 Abs. 1
+Nr. 2 des Altenpflegegesetzes von Bedeutung sein können, so hat sie
+die zuständige Stelle des Herkunftsstaats zu unterrichten und sie zu
+bitten, diese Tatbestände zu überprüfen und ihr das Ergebnis und die
+Folgerungen, die sie hinsichtlich der von ihr ausgestellten
+Bescheinigungen und Nachweise daraus zieht, mitzuteilen. Die in den
+Sätzen 1 bis 3 genannten Bescheinigungen und Mitteilungen sind
+vertraulich zu behandeln. Sie dürfen der Beurteilung nur zugrunde
+gelegt werden, wenn bei der Vorlage die Ausstellung nicht mehr als
+drei Monate zurückliegt.
 
 (2) Wer eine Erlaubnis nach § 1 des Altenpflegegesetzes beantragt und
 einem anderen Mitgliedstaat der Europäischen Gemeinschaft oder einem
@@ -598,12 +602,17 @@ Behörde des Herkunftsstaats ersetzen.
 erstmaligen Anzeige einer Dienstleistungserbringung im Sinne des § 10
 des Altenpflegegesetzes binnen eines Monats nach Eingang der Meldung
 und der Begleitdokumente über das Ergebnis ihrer Nachprüfung zu
-unterrichten. Ist eine Nachprüfung innerhalb dieser Frist in
-besonderen Ausnahmefällen nicht möglich, unterrichtet die zuständige
-Behörde den Dienstleistungserbringer innerhalb eines Monats über die
-Gründe für diese Verzögerung und über den Zeitplan für ihre
-Entscheidung, die vor Ablauf des zweiten Monats ab Eingang der
-vollständigen Unterlagen ergehen muss. Erhält der
+unterrichten und ihm dabei mitzuteilen, ob sie die Erbringung der
+Dienstleistung erlaubt oder von ihm verlangt, eine Eignungsprüfung
+abzulegen. Ist der zuständigen Behörde eine Nachprüfung innerhalb
+eines Monats nach Eingang der Meldung und der Begleitdokumente in
+besonderen Ausnahmefällen nicht möglich, unterrichtet sie den
+Dienstleistungserbringer innerhalb dieser Frist über die Gründe der
+Verzögerung; sie hat die der Verzögerung zugrunde liegenden
+Schwierigkeiten binnen eines Monats nach dieser Mitteilung zu beheben
+und spätestens innerhalb von zwei Monaten nach der Behebung der der
+Verzögerung zugrunde liegenden Schwierigkeiten über die
+Dienstleistungserbringung zu entscheiden. Erhält der
 Dienstleistungserbringer innerhalb der in den Sätzen 1 und 2 genannten
 Fristen keine Rückmeldung der zuständigen Behörde, darf die
 Dienstleistung erbracht werden.

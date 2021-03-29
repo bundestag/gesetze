@@ -573,8 +573,7 @@ Grundgesetzes fallenden Personen in der Fassung der Bekanntmachung vom
 13\. Oktober 1965 (Bundesgesetzblatt I S. 1685),
 zuletzt geändert durch das Fünfte Gesetz zur Änderung
 beamtenrechtlicher und besoldungsrechtlicher Vorschriften vom 19. Juli
-1968 (Bundesgesetzbl. I S. 848),              anspruchsberechtigt
-sind.
+1968 (Bundesgesetzbl. I S. 848), anspruchsberechtigt sind.
 
 (2) Für Versorgungsempfänger aus dem Personenkreis der früheren
 Berufssoldaten, die nach dem in Absatz 1 bezeichneten Gesetz
@@ -893,8 +892,9 @@ des Grundgesetzes erforderliche Zustimmung erteilt.
 (Inhalt: nicht darstellbare Tabelle,
 Fundstelle: BGBl. I 1971, 225)
 
+- für die Zeit vom 1. Januar 1971 bis 30. April 1971 -
 
-## Anlage 2a - für die Zeit vom 1. Januar 1971 bis 30. April 1971 - Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
+## Anlage 2a Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
 
 Fundstelle des Originaltextes: BGBl. I 1971, 226
 
@@ -1045,8 +1045,9 @@ Fundstelle des Originaltextes: BGBl. I 1971, 226
 
 
 
+- ab 1. Mai 1971 -
 
-## Anlage 2b - ab 1. Mai 1971 - Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
+## Anlage 2b Sätze der Amtszulagen und Stellenzulagen in der Anlage I des Bundesbesoldungsgesetzes sowie der ruhegehaltfähigen Zulagen in der Anlage IV des Bundesbesoldungsgesetzes
 
 Fundstelle des Originaltextes: BGBl. I 1971, 227
 

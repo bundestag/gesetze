@@ -1,14 +1,14 @@
 ---
-Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert
+Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert
   von 10 Euro (Gedenkmünze "800 Jahre Dresden")
 jurabk: Münz10EuroBek 2006-07-12
 layout: default
-origslug: m_nz10eurobek_2006-07-12
+origslug: muenz10eurobek_2006-07-12
 slug: muenz10eurobek_2006-07-12
 
 ---
 
-# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im Nennwert von 10 Euro (Gedenkmünze "800 Jahre Dresden") (Münz10EuroBek 2006-07-12)
+# Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im  Nennwert von 10 Euro (Gedenkmünze "800 Jahre Dresden") (Münz10EuroBek 2006-07-12)
 
 Ausfertigungsdatum
 :   2006-07-12

@@ -16,31 +16,73 @@ Fundstelle
 :   BGBl I: 1998, 1300
 
 Zuletzt geändert durch
-:   Art. 12 G v. 10.11.2006 I 2553
+:   Art. 2 G v. 21.7.2016 I 1768
 
 
 ## § 1
 
-(1) Die in den §§ 2 bis 6 genannten Stellen übermitteln den
+(1) Beim Statistischen Bundesamt wird gemäß § 13 Absatz 1 des
+Bundesstatistikgesetzes ein Statistikregister geführt. Im
+Statistikregister dürfen zu den Einheiten, die gemäß der Verordnung
+(EG) Nr. 177/2008 des Europäischen Parlaments und des Rates vom 20.
+Februar 2008 zur Schaffung eines gemeinsamen Rahmens für
+Unternehmensregister für statistische Zwecke und zur Aufhebung der
+Verordnung (EWG) Nr. 2186/93 des Rates (ABl. L 61 vom 5.3.2008, S. 6)
+in der jeweils geltenden Fassung erfasst werden, folgende Angaben
+gespeichert werden:
+
+1.  Angaben gemäß dem Anhang zur Verordnung (EG) Nr. 177/2008,
+
+
+2.  Zahl der Beschäftigten,
+
+
+3.  Umsatz,
+
+
+4.  Beziehungen zu anderen Einheiten,
+
+
+5.  Eintragung in die Handwerksrolle und in das Verzeichnis der Inhaber
+    eines Betriebes eines zulassungsfreien Handwerks oder eines
+    handwerksähnlichen Gewerbes, Art der ausgeübten Tätigkeit, Ort und
+    Nummer der Eintragung in das Handels-, Genossenschafts-, Vereins- oder
+    Partnerschaftsregister, Kennzeichen zur Identifikation aus den
+    Gewerbeanzeigen, Zugehörigkeit zu einer Organschaft,
+
+
+6.  Geokoordinate,
+
+
+7.  Bevollmächtigte für die statistische Auskunftserteilung einschließlich
+    der Kontaktdaten,
+
+
+8.  Kennzeichnung der Statistiken, in die die Einheit einbezogen ist,
+
+
+9.  Datum der Aufnahme in das Statistikregister.
+
+
+
+Die genannten Angaben dürfen auch zu administrativen Einheiten
+gespeichert werden. Für jede Einheit wird eine Kennnummer vergeben.
+
+(2) Die in den §§ 2 bis 6 genannten Stellen übermitteln den
 statistischen Ämtern der Länder und dem Statistischen Bundesamt
 jeweils für deren Zuständigkeitsbereich, soweit dies nicht in den §§ 2
 und 6 abweichend geregelt ist, jährlich auf Anforderung ohne
-Erstattung der Kosten aus den vorhandenen Unterlagen Angaben zum
-Aufbau und zur Führung des Unternehmensregisters für statistische
-Verwendungszwecke (Statistikregister) gemäß der Verordnung (EWG) Nr.
-2186/93 des Rates vom 22. Juli 1993 über die innergemeinschaftliche
-Koordinierung des Aufbaus von Unternehmensregistern für statistische
-Verwendungszwecke (ABl. EG Nr. L 196 S. 1). Die Maßnahmen zur
+Erstattung der Kosten aus den vorhandenen Unterlagen Angaben zur
+Pflege und Führung des Statistikregisters. Die Maßnahmen zur
 technischen Abwicklung der Übermittlungen nach Satz 1 werden von den
-beteiligten Stellen einvernehmlich festgelegt.
+beteiligten Stellen einvernehmlich festgelegt. Für die Geheimhaltung
+der nach Satz 1 übermittelten Einzelangaben über persönliche und
+sachliche Verhältnisse gilt § 16 des Bundesstatistikgesetzes.
 
-(2) Die statistischen Ämter der Länder und das Statistische Bundesamt
-können für den Aufbau und die Führung des Statistikregisters nach
-Absatz 1 auch Angaben aus allgemein zugänglichen Quellen verwenden.
-
-(3) Für die Geheimhaltung der Einzelangaben über persönliche und
-sachliche Verhältnisse, die nach Absatz 1 übermittelt worden sind,
-gilt § 16 des Bundesstatistikgesetzes.
+(3) Zur Pflege und Führung des Statistikregisters dürfen auch nach dem
+Verwaltungsdatenverwendungsgesetz übermittelte Angaben, Angaben aus
+Wirtschafts- und Umweltstatistiken sowie Angaben aus allgemein
+zugänglichen Quellen verwendet werden.
 
 
 ## § 2
@@ -370,4 +412,38 @@ Zuständigkeitsbereich übermitteln:
 Die Angaben zu Straße und Hausnummer nach Satz 1 Nr. 3 dürfen nur zur
 Zuordnung der örtlichen Einheiten zu kleinräumigen Gliederungen
 verwendet werden. Sie sind zum frühestmöglichen Zeitpunkt zu löschen.
+
+
+## § 10
+
+(1) Die Deutsche Bundesbank übermittelt an das Statistische Bundesamt
+Angaben aus den von ihr erstellten Wirtschaftsstatistiken zum Zwecke
+der Pflege und Führung des Statistikregisters.
+
+(2) Das Statistische Bundesamt übermittelt der Deutschen Bundesbank
+zur Erfüllung ihrer statistischen Aufgaben und Verpflichtungen
+insbesondere aus unmittelbar geltenden europäischen Rechtsakten auf
+Anforderung folgende Angaben aus dem Statistikregister:
+
+1.  Angaben gemäß Anhang der Verordnung (EG) Nr. 177/2008,
+
+
+2.  Zahl der Beschäftigten,
+
+
+3.  Umsatz,
+
+
+4.  Beziehungen zu anderen Einheiten,
+
+
+5.  Zugehörigkeit zu einer Organschaft, einschließlich deren Kennnummer im
+    Statistikregister.
+
+
+
+Die Angaben werden in der Deutschen Bundesbank nur von
+Organisationseinheiten gespeichert und genutzt, die räumlich,
+organisatorisch und personell von anderen Aufgabenbereichen der
+Deutschen Bundesbank getrennt sind.
 

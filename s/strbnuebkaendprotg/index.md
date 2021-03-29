@@ -4,7 +4,7 @@ Title: Gesetz zu dem Protokoll vom 22. März 2000 zur Änderung des Übereinkomm
   mit schweren Nutzfahrzeugen
 jurabk: StrBNÜbkÄndProtG
 layout: default
-origslug: strbn_bk_ndprotg
+origslug: strbnuebkaendprotg
 slug: strbnuebkaendprotg
 
 ---

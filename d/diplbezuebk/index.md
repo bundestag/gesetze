@@ -2,7 +2,7 @@
 Title: Wiener Übereinkommen über diplomatische Beziehungen
 jurabk: DiplBezÜbk
 layout: default
-origslug: diplbez_bk
+origslug: diplbezuebk
 slug: diplbezuebk
 
 ---

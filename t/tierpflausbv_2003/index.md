@@ -964,8 +964,9 @@ Verordnung.
 
 Diese Verordnung tritt am 1. August 2003 in Kraft.
 
+(zu § 4)
 
-## Anlage (zu § 4) Ausbildungsrahmenplan für die Berufsausbildung zum Tierpfleger/zur Tierpflegerin
+## Anlage Ausbildungsrahmenplan für die Berufsausbildung zum Tierpfleger/zur Tierpflegerin
 
 (Fundstelle: BGBl. I 2000, 1098 - 1104)
 

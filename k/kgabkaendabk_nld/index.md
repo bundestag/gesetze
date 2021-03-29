@@ -4,7 +4,7 @@ Title: Abkommen zur Änderung des Abkommens vom 8. April 1960 zwischen der Bunde
   in der Bundesrepublik Deutschland (Kriegsgräberabkommen)
 jurabk: KGAbkÄndAbk NLD
 layout: default
-origslug: kgabk_ndabk_nld
+origslug: kgabkaendabk_nld
 slug: kgabkaendabk_nld
 
 ---

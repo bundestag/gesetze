@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2012, 1467
 
+Geändert durch
+:   Art. 47 V v. 26.3.2014 I 274
+
 
 ## Eingangsformel
 
@@ -552,10 +555,12 @@ werden.
 
 Diese Verordnung tritt am 1. August 2012 in Kraft.
 
+(zu § 7 Absatz 6)
 
-## Anlage 1 (zu § 7 Absatz 6) Muster
+## Anlage 1 Muster
 
-(Fundstelle: BGBl. I 2012, 1471)
+(Fundstelle: BGBl. I 2012, 1471;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -599,7 +604,12 @@ Geprüfter Meister Medienproduktion Bild und Ton
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton
 und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
-(BGBl. I S. 1467) bestanden.
+(BGBl. I S. 1467), die durch Artikel 47 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist, bestanden.
+
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
 
 
 *    *   Datum .........................................................
@@ -612,10 +622,12 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 
 
+(zu § 7 Absatz 6)
 
-## Anlage 2 (zu § 7 Absatz 6) Muster
+## Anlage 2 Muster
 
-(Fundstelle: BGBl. I 2012, 1472 - 1473)
+(Fundstelle: BGBl. I 2012, 1472 - 1473;
+bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 
 *    *   ......................................................................
@@ -655,7 +667,9 @@ Geprüfter Meister Medienproduktion Bild und Ton
 nach der Verordnung über die Prüfung zum anerkannten
 Fortbildungsabschluss Geprüfter Meister Medienproduktion Bild und Ton
 und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
-(BGBl. I S. 1467) mit folgenden Ergebnissen bestanden:
+(BGBl. I S. 1467), die durch Artikel 47 der Verordnung vom 26. März
+2014 (BGBl. I S. 274) geändert worden ist, mit folgenden Ergebnissen
+bestanden:
 
 
 *    *   Gesamtnote .........................
@@ -666,7 +680,7 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 *    *
     *
-    *[^F777466_01_BJNR146700012BJNE001200000]
+    *[^F777466_01_BJNR146700012BJNE001201377]
    Punkte
 
     *
@@ -763,6 +777,10 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 
 
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen dem Niveau 6 zugeordnet; vergleiche
+Bekanntmachung vom 1. August 2013 (BAnz AT 20.11.2013 B2).
+
 
 *    *   Datum .................................................
 
@@ -775,4 +793,4 @@ und Geprüfte Meisterin Medienproduktion Bild und Ton vom 4. Juli 2012
 
 
     Den Bewertungen liegt folgender Punkteschlüssel zugrunde …………
-[^F777466_01_BJNR146700012BJNE001200000]: 
+[^F777466_01_BJNR146700012BJNE001201377]: 

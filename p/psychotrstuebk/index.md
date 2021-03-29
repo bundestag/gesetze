@@ -2,7 +2,7 @@
 Title: Übereinkommen von 1971 über psychotrope Stoffe
 jurabk: PsychotrStÜbk
 layout: default
-origslug: psychotrst_bk
+origslug: psychotrstuebk
 slug: psychotrstuebk
 
 ---

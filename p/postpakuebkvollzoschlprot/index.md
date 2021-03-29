@@ -2,7 +2,7 @@
 Title: Schlußprotokoll zur Vollzugsordnung zum Postpaketübereinkommen
 jurabk: PostPakÜbkVollzOSchlProt
 layout: default
-origslug: postpak_bkvollzoschlprot
+origslug: postpakuebkvollzoschlprot
 slug: postpakuebkvollzoschlprot
 
 ---

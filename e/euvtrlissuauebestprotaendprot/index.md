@@ -4,7 +4,7 @@ Title: Protokoll zur Änderung des Protokolls über die Übergangsbestimmungen, 
   Union und dem Vertrag zur Gründung der Europäischen Atomgemeinschaft beigefügt ist
 jurabk: EUVtrLissuaÜBestProtÄndProt
 layout: default
-origslug: euvtrlissua_bestprot_ndprot
+origslug: euvtrlissuauebestprotaendprot
 slug: euvtrlissuauebestprotaendprot
 
 ---

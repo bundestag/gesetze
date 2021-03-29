@@ -5,7 +5,7 @@ Title: Gesetz zu dem Vertrag vom 31. Januar 1972 zwischen der Bundesrepublik Deu
   Anwendung
 jurabk: EuRHiAUTÜbkErgVtrG
 layout: default
-origslug: eurhiaut_bkergvtrg
+origslug: eurhiautuebkergvtrg
 slug: eurhiautuebkergvtrg
 
 ---

@@ -2,7 +2,7 @@
 Title: Bekanntmachung über die Ausprägung von Münzen im Nennwert von 1 Pfennig
 jurabk: Münz1PfBek BW
 layout: default
-origslug: m_nz1pfbek_bw
+origslug: muenz1pfbek_bw
 slug: muenz1pfbek_bw
 
 ---

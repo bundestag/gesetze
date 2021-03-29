@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1994, 3082 (1995 I 156); 1996, 682
 
 Zuletzt geändert durch
-:   Art. 15 G v. 24.11.2011 I 2302
+:   Art. 11 G v. 17.7.2017 I 2541
 
 Stand: Die §§ 119 bis 125 sind gem. Bek. v. 24.4.1996 I 682 mWv 20.3.1996 in Kraft getreten.
 
@@ -202,15 +202,11 @@ des § 3 ausgeschlossen, die sich nicht graphisch darstellen lassen.
     oder weiteren Kommunalverbandes enthalten,
 
 
-7.  die amtliche Prüf- oder Gewährzeichen enthalten, die nach einer
-    Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt
-    von der Eintragung als Marke ausgeschlossen sind,
+7.  die amtliche Prüf- oder Gewährzeichen enthalten,
 
 
 8.  die Wappen, Flaggen oder andere Kennzeichen, Siegel oder Bezeichnungen
-    internationaler zwischenstaatlicher Organisationen enthalten, die nach
-    einer Bekanntmachung des Bundesministeriums der Justiz im
-    Bundesgesetzblatt von der Eintragung als Marke ausgeschlossen sind,
+    internationaler zwischenstaatlicher Organisationen enthalten,
 
 
 9.  deren Benutzung ersichtlich nach sonstigen Vorschriften im
@@ -274,8 +270,8 @@ zwischenstaatlichen Organisation hervorzurufen.
 
 
 
-(2) Anmeldungen von Marken stellen ein Eintragungshindernis im Sinne
-des Absatzes 1 nur dar, wenn sie eingetragen werden.
+(2) Anmeldungen von Marken stellen ein Schutzhindernis im Sinne des
+Absatzes 1 nur dar, wenn sie eingetragen werden.
 
 
 #### § 10 Notorisch bekannte Marken
@@ -906,7 +902,7 @@ wenn er dem Patentamt nachgewiesen wird.
 (4) Betrifft der Rechtsübergang nur einen Teil der Waren oder
 Dienstleistungen, für die die Marke eingetragen ist, so sind die
 Vorschriften über die Teilung der Eintragung mit Ausnahme von § 46
-Abs. 2 und 3 Satz 1 und 2 entsprechend anzuwenden.
+Abs. 2 und 3 Satz 1 entsprechend anzuwenden.
 
 
 #### § 28 Vermutung der Rechtsinhaberschaft, Zustellungen an den Inhaber
@@ -1027,8 +1023,9 @@ begründete Rechte.
 (1) Die Anmeldung zur Eintragung einer Marke in das Register ist beim
 Patentamt einzureichen. Die Anmeldung kann auch über ein
 Patentinformationszentrum eingereicht werden, wenn diese Stelle durch
-Bekanntmachung des Bundesministeriums der Justiz im Bundesgesetzblatt
-dazu bestimmt ist, Markenanmeldungen entgegenzunehmen.
+Bekanntmachung des Bundesministeriums der Justiz und für
+Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist,
+Markenanmeldungen entgegenzunehmen.
 
 (2) Die Anmeldung muß enthalten:
 
@@ -1060,8 +1057,8 @@ den Angaben nach § 32 Abs. 2
 
 
 2.  oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums
-    der Justiz im Bundesgesetzblatt dazu bestimmt ist, bei einem
-    Patentinformationszentrum eingegangen sind.
+    der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu
+    bestimmt ist, bei einem Patentinformationszentrum eingegangen sind.
 
 
 
@@ -1069,11 +1066,11 @@ den Angaben nach § 32 Abs. 2
 (2) Die Anmeldung einer Marke, deren Anmeldetag feststeht, begründet
 einen Anspruch auf Eintragung. Dem Eintragungsantrag ist stattzugeben,
 es sei denn, daß die Anmeldungserfordernisse nicht erfüllt sind oder
-daß absolute Eintragungshindernisse der Eintragung entgegenstehen.
+daß absolute Schutzhindernisse der Eintragung entgegenstehen.
 
-(3) Die Anmeldung einer Marke, deren Anmeldetag feststeht, wird
-einschließlich solcher Angaben veröffentlicht, die es erlauben, die
-Identität des Anmelders festzustellen.
+(3) Die Anmeldung einer Marke, die sämtliche Angaben nach § 32 Absatz
+2 enthält, wird einschließlich solcher Angaben veröffentlicht, die es
+erlauben, die Identität des Anmelders festzustellen.
 
 
 #### § 34 Ausländische Priorität
@@ -1088,10 +1085,10 @@ worden, mit dem kein Staatsvertrag über die Anerkennung der Priorität
 besteht, so kann der Anmelder ein dem Prioritätsrecht nach der Pariser
 Verbandsübereinkunft entsprechendes Prioritätsrecht in Anspruch
 nehmen, soweit nach einer Bekanntmachung des Bundesministeriums der
-Justiz im Bundesgesetzblatt der andere Staat aufgrund einer ersten
-Anmeldung beim Patentamt ein Prioritätsrecht gewährt, das nach
-Voraussetzungen und Inhalt dem Prioritätsrecht nach der Pariser
-Verbandsübereinkunft vergleichbar ist.
+Justiz und für Verbraucherschutz im Bundesgesetzblatt der andere Staat
+aufgrund einer ersten Anmeldung beim Patentamt ein Prioritätsrecht
+gewährt, das nach Voraussetzungen und Inhalt dem Prioritätsrecht nach
+der Pariser Verbandsübereinkunft vergleichbar ist.
 
 (3) Wer eine Priorität nach Absatz 1 oder 2 in Anspruch nimmt, hat
 innerhalb von zwei Monaten nach dem Anmeldetag Zeit und Staat der
@@ -1125,11 +1122,12 @@ von diesem Tag an ein Prioritätsrecht im Sinne des § 34 in Anspruch
 nehmen.
 
 (2) Die in Absatz 1 Nr. 1 bezeichneten Ausstellungen werden vom
-Bundesministerium der Justiz im Bundesgesetzblatt bekanntgemacht.
+Bundesministerium der Justiz und für Verbraucherschutz im
+Bundesanzeiger bekanntgemacht.
 
-(3) Die Ausstellungen im Sinne des Absatzes 1 Nr. 2 werden im
-Einzelfall in einer Bekanntmachung des Bundesministeriums der Justiz
-im Bundesgesetzblatt über den Ausstellungsschutz bestimmt.
+(3) Die Ausstellungen nach Absatz 1 Nummer 2 werden im Einzelfall vom
+Bundesministerium der Justiz und für Verbraucherschutz bestimmt und im
+Bundesanzeiger bekanntgemacht.
 
 (4) Wer eine Priorität nach Absatz 1 in Anspruch nimmt, hat innerhalb
 von zwei Monaten nach dem Anmeldetag den Tag der erstmaligen
@@ -1238,28 +1236,35 @@ Waren und Dienstleistungen als abgetrennte Anmeldung weiterbehandelt
 werden soll. Für jede Teilanmeldung bleibt der Zeitrang der
 ursprünglichen Anmeldung erhalten.
 
-(2) Für die abgetrennte Anmeldung sind die nach § 32 erforderlichen
-Anmeldungsunterlagen einzureichen. Werden die Anmeldungsunterlagen
-nicht innerhalb von drei Monaten nach dem Zugang der Teilungserklärung
-eingereicht oder wird die Gebühr nach dem Patentkostengesetz für das
-Teilungsverfahren nicht innerhalb dieser Frist gezahlt, so gilt die
-abgetrennte Anmeldung als zurückgenommen. Die Teilungserklärung kann
-nicht widerrufen werden.
+(2) Wird die Gebühr nach dem Patentkostengesetz für das
+Teilungsverfahren nicht innerhalb von drei Monaten nach dem Zugang der
+Teilungserklärung gezahlt, so gilt die abgetrennte Anmeldung als
+zurückgenommen. Die Teilungserklärung kann nicht widerrufen werden.
 
 
-#### § 41 Eintragung
+#### § 41 Eintragung, Veröffentlichung und Markeninformation
 
-Entspricht die Anmeldung den Anmeldungserfordernissen und wird sie
+(1) Entspricht die Anmeldung den Anmeldungserfordernissen und wird sie
 nicht gemäß § 37 zurückgewiesen, so wird die angemeldete Marke in das
-Register eingetragen. Die Eintragung wird veröffentlicht.
+Register eingetragen.
+
+(2) Die Eintragung wird veröffentlicht. Die Veröffentlichung kann in
+elektronischer Form erfolgen.
+
+(3) Zur weiteren Verarbeitung oder Nutzung zu Zwecken der
+Markeninformation kann das Deutsche Patent- und Markenamt die in das
+Register eingetragenen Angaben an Dritte in elektronischer Form
+übermitteln. Die Übermittlung erfolgt nicht, soweit die Einsicht nach
+§ 62 Absatz 4 ausgeschlossen ist.
 
 
 #### § 42 Widerspruch
 
 (1) Innerhalb einer Frist von drei Monaten nach dem Tag der
-Veröffentlichung der Eintragung der Marke gemäß § 41 kann von dem
-Inhaber einer Marke oder einer geschäftlichen Bezeichnung mit älterem
-Zeitrang gegen die Eintragung der Marke Widerspruch erhoben werden.
+Veröffentlichung der Eintragung der Marke gemäß § 41 Absatz 2 kann von
+dem Inhaber einer Marke oder einer geschäftlichen Bezeichnung mit
+älterem Zeitrang gegen die Eintragung der Marke Widerspruch erhoben
+werden.
 
 (2) Der Widerspruch kann nur darauf gestützt werden, daß die Marke
 
@@ -1362,12 +1367,11 @@ der Marke oder eine in diesem Zeitpunkt anhängige Klage auf Löschung
 der Eintragung der Marke sich nach der Teilung nur gegen einen der
 Teile der ursprünglichen Eintragung richten würde.
 
-(3) Für die abgetrennte Eintragung sind die erforderlichen Unterlagen
-einzureichen. Werden die Unterlagen nicht innerhalb von drei Monaten
-nach dem Zugang der Teilungserklärung eingereicht oder wird die Gebühr
-nach dem Patentkostengesetz für das Teilungsverfahren nicht innerhalb
-dieser Frist gezahlt, so gilt dies als Verzicht auf die abgetrennte
-Eintragung. Die Teilungserklärung kann nicht widerrufen werden.
+(3) Wird die Gebühr nach dem Patentkostengesetz für das
+Teilungsverfahren nicht innerhalb von drei Monaten nach dem Zugang der
+Teilungserklärung gezahlt, so gilt dies als Verzicht auf die
+abgetrennte Eintragung. Die Teilungserklärung kann nicht widerrufen
+werden.
 
 
 #### § 47 Schutzdauer und Verlängerung
@@ -1717,8 +1721,9 @@ Marken betreffen, Gutachten abzugeben, wenn in dem Verfahren
 voneinander abweichende Gutachten mehrerer Sachverständiger vorliegen.
 
 (2) Im übrigen ist das Patentamt nicht befugt, ohne Genehmigung des
-Bundesministeriums der Justiz außerhalb seines gesetzlichen
-Aufgabenbereichs Beschlüsse zu fassen oder Gutachten abzugeben.
+Bundesministeriums der Justiz und für Verbraucherschutz außerhalb
+seines gesetzlichen Aufgabenbereichs Beschlüsse zu fassen oder
+Gutachten abzugeben.
 
 
 #### § 59 Ermittlung des Sachverhalts, rechtliches Gehör
@@ -1756,27 +1761,29 @@ anzuwenden. Die Beteiligten erhalten eine Abschrift der Niederschrift.
 
 #### § 61 Beschlüsse, Rechtsmittelbelehrung
 
-(1) Die Beschlüsse des Patentamts sind, auch wenn sie nach Satz 2
-verkündet worden sind, schriftlich auszufertigen, zu begründen und den
-Beteiligten von Amts wegen zuzustellen. Falls eine Anhörung
-stattgefunden hat, können sie auch am Ende der Anhörung verkündet
-werden. Einer Begründung bedarf es nicht, wenn am Verfahren nur der
-Anmelder oder Inhaber der Marke beteiligt ist und seinem Antrag
-stattgegeben wird.
+(1) Die Beschlüsse des Deutschen Patent- und Markenamts sind, auch
+wenn sie nach Satz 3 verkündet worden sind, zu begründen und den
+Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung
+der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf
+Antrag eines Beteiligten und nur in Papierform erteilt. Falls eine
+Anhörung stattgefunden hat, können sie auch am Ende der Anhörung
+verkündet werden. Einer Begründung bedarf es nicht, wenn am Verfahren
+nur der Anmelder oder Inhaber der Marke beteiligt ist und seinem
+Antrag stattgegeben wird.
 
-(2) Der schriftlichen Ausfertigung ist eine Erklärung beizufügen, mit
-der die Beteiligten über das Rechtsmittel, das gegen den Beschluß
-gegeben ist, über die Stelle, bei der das Rechtsmittel einzulegen ist,
-über die Rechtsmittelfrist und, sofern für das Rechtsmittel eine
-Gebühr nach dem Patentkostengesetz zu zahlen ist, über die Gebühr
-unterrichtet werden. Die Frist für das Rechtsmittel beginnt nur zu
-laufen, wenn die Beteiligten schriftlich belehrt worden sind. Ist die
-Belehrung unterblieben oder unrichtig erteilt, so ist die Einlegung
-des Rechtsmittels nur innerhalb eines Jahres seit Zustellung des
-Beschlusses zulässig, außer wenn der Beteiligte schriftlich
-dahingehend belehrt worden ist, daß ein Rechtsmittel nicht gegeben
-sei. § 91 ist entsprechend anzuwenden. Die Sätze 1 bis 4 gelten
-entsprechend für den Rechtsbehelf der Erinnerung nach § 64.
+(2) Mit Zustellung des Beschlusses sind die Beteiligten über das
+Rechtsmittel, das gegen den Beschluss gegeben ist, über die Stelle,
+bei der das Rechtsmittel einzulegen ist, über die Rechtsmittelfrist
+und, sofern für das Rechtsmittel eine Gebühr nach dem
+Patentkostengesetz zu zahlen ist, über die Gebühr zu belehren. Die
+Frist für das Rechtsmittel beginnt nur zu laufen, wenn die Beteiligten
+nach Satz 1 belehrt worden sind. Ist die Belehrung unterblieben oder
+unrichtig erteilt, so ist die Einlegung des Rechtsmittels nur
+innerhalb eines Jahres seit Zustellung des Beschlusses zulässig, außer
+wenn der Beteiligte schriftlich dahingehend belehrt worden ist, daß
+ein Rechtsmittel nicht gegeben sei. § 91 ist entsprechend anzuwenden.
+Die Sätze 1 bis 4 gelten entsprechend für den Rechtsbehelf der
+Erinnerung nach § 64.
 
 
 #### § 62 Akteneinsicht, Registereinsicht
@@ -1785,10 +1792,49 @@ entsprechend für den Rechtsbehelf der Erinnerung nach § 64.
 Anmeldungen von Marken, wenn ein berechtigtes Interesse glaubhaft
 gemacht wird.
 
-(2) Nach der Eintragung der Marke wird auf Antrag Einsicht in die
-Akten der eingetragenen Marke gewährt.
+(2) Nach der Eintragung der Marke wird Einsicht in die Akten der
+eingetragenen Marke gewährt.
 
-(3) Die Einsicht in das Register steht jeder Person frei.
+(3) Die Einsicht in die Akten nach Absatz 2 kann bei elektronisch
+geführten Akten auch über das Internet gewährt werden.
+
+(4) Die Akteneinsicht nach den Absätzen 1 bis 3 ist ausgeschlossen,
+soweit eine Rechtsvorschrift entgegensteht oder soweit das
+schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4
+Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und
+des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der
+Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur
+Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl.
+L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils
+geltenden Fassung offensichtlich überwiegt.
+
+(5) Die Einsicht in das Register steht jeder Person frei.
+
+
+#### § 62a Datenschutz
+
+Soweit personenbezogene Daten im Register oder in öffentlich
+zugänglichen elektronischen Informationsdiensten des Deutschen Patent-
+und Markenamtes enthalten sind, bestehen nicht
+
+1.  das Recht auf Auskunft gemäß Artikel 15 Absatz 1 Buchstabe c der
+    Verordnung (EU) 2016/679,
+
+
+2.  die Mitteilungspflicht gemäß Artikel 19 Satz 2 der Verordnung (EU)
+    2016/679 und
+
+
+3.  das Recht auf Widerspruch gemäß Artikel 21 Absatz 1 der Verordnung
+    (EU) 2016/679.
+
+
+
+Das Recht auf Erhalt einer Kopie nach Artikel 15 Absatz 3 der
+Verordnung (EU) 2016/679 wird dadurch erfüllt, dass die betroffene
+Person Einsicht in das Register oder in öffentlich zugängliche
+elektronische Informationsdienste des Deutschen Patent- und
+Markenamtes nehmen kann.
 
 
 #### § 63 Kosten der Verfahren
@@ -1807,12 +1853,18 @@ ganz oder teilweise im Register gelöscht wird. Soweit eine Bestimmung
 über die Kosten nicht getroffen wird, trägt jeder Beteiligte die ihm
 erwachsenen Kosten selbst.
 
-(2) Das Patentamt kann anordnen, dass die Gebühr nach dem
+(2) Wenn eine Entscheidung nach Absatz 1 ergeht, setzt das Deutsche
+Patent- und Markenamt den Gegenstandswert fest; § 23 Absatz 3 Satz 2
+und § 33 Absatz 1 des Rechtsanwaltsvergütungsgesetzes gelten
+entsprechend. Der Beschluss über den Gegenstandswert kann mit der
+Entscheidung nach Absatz 1 verbunden werden.
+
+(3) Das Patentamt kann anordnen, dass die Gebühr nach dem
 Patentkostengesetz für die beschleunigte Prüfung, für das
 Widerspruchs- oder das Löschungsverfahren ganz oder teilweise
 zurückgezahlt wird, wenn dies der Billigkeit entspricht.
 
-(3) Der Betrag der zu erstattenden Kosten wird auf Antrag durch das
+(4) Der Betrag der zu erstattenden Kosten wird auf Antrag durch das
 Patentamt festgesetzt. Die Vorschriften der Zivilprozessordnung über
 das Kostenfestsetzungsverfahren (§§ 103 bis 107) und die
 Zwangsvollstreckung aus Kostenfestsetzungsbeschlüssen (§§ 724 bis 802)
@@ -1868,8 +1920,8 @@ Patentkostengesetz.
 
 #### § 65 Rechtsverordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  die Einrichtung und den Geschäftsgang sowie die Form des Verfahrens in
     Markenangelegenheiten zu regeln, soweit nicht durch Gesetz
@@ -1946,10 +1998,10 @@ Rechtsverordnung ohne Zustimmung des Bundesrates
 
 
 
-(2) Das Bundesministerium der Justiz kann die Ermächtigung zum Erlaß
-von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne
-Zustimmung des Bundesrates ganz oder teilweise dem Deutschen Patent-
-und Markenamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+die Ermächtigung zum Erlaß von Rechtsverordnungen nach Absatz 1 durch
+Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise
+dem Deutschen Patent- und Markenamt übertragen.
 
 
 ### Abschnitt 5 - Verfahren vor dem Patentgericht
@@ -2005,7 +2057,10 @@ nach dem Patentkostengesetz zurückgezahlt wird. Wird der Beschwerde
 nicht nach Satz 1 abgeholfen, so ist sie vor Ablauf von einem Monat
 ohne sachliche Stellungnahme dem Patentgericht vorzulegen. In den
 Fällen des Satzes 2 ist die Beschwerde unverzüglich dem Patentgericht
-vorzulegen.
+vorzulegen. In den Verfahren ohne die Beteiligung Dritter im Sinne des
+Satzes 2 ist ein Antrag auf Bewilligung von Verfahrenskostenhilfe für
+das Beschwerdeverfahren dem Patentgericht unverzüglich zur
+Vorabentscheidung vorzulegen.
 
 
 #### § 67 Beschwerdesenate, Öffentlichkeit der Verhandlung
@@ -2323,6 +2378,16 @@ Amts wegen zu berücksichtigen, wenn nicht als Bevollmächtigter ein
 Rechtsanwalt oder ein Patentanwalt auftritt.
 
 
+#### § 81a Verfahrenskostenhilfe
+
+(1) Im Verfahren vor dem Patentgericht erhält ein Beteiligter auf
+Antrag unter entsprechender Anwendung der §§ 114 bis 116 der
+Zivilprozessordnung Verfahrenskostenhilfe.
+
+(2) Im Übrigen sind § 130 Absatz 2 und 3 sowie die §§ 133 bis 137 des
+Patentgesetzes entsprechend anzuwenden.
+
+
 #### § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
 
 (1) Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
@@ -2338,8 +2403,8 @@ entsprechend.
 statt, soweit dieses Gesetz sie zuläßt.
 
 (3) Für die Gewährung der Akteneinsicht an dritte Personen ist § 62
-Abs. 1 und 2 entsprechend anzuwenden. Über den Antrag entscheidet das
-Patentgericht.
+Absatz 1 bis 4 entsprechend anzuwenden. Über den Antrag entscheidet
+das Patentgericht.
 
 
 ### Abschnitt 6 - Verfahren vor dem Bundesgerichtshof
@@ -2478,7 +2543,9 @@ Beistände (§§ 78 bis 90), über Zustellungen von Amts wegen (§§ 166 bis
 190), über Ladungen, Termine und Fristen (§§ 214 bis 229) und über
 Wiedereinsetzung in den vorigen Stand (§§ 233 bis 238) entsprechend.
 Im Falle der Wiedereinsetzung in den vorigen Stand gilt § 91 Abs. 8
-entsprechend.
+entsprechend. Auf Antrag ist einem Beteiligten unter entsprechender
+Anwendung des § 138 des Patentgesetzes Verfahrenskostenhilfe zu
+bewilligen.
 
 (2) Für die Öffentlichkeit des Verfahrens gilt § 67 Abs. 2 und 3
 entsprechend.
@@ -2628,7 +2695,7 @@ Zeugen erhalten eine Entschädigung und Sachverständige eine Vergütung
 nach dem Justizvergütungs- und -entschädigungsgesetz.
 
 
-#### § 94 Zustellungen
+#### § 94 Zustellungen; Verordnungsermächtigung
 
 (1) Für Zustellungen im Verfahren vor dem Patentamt gelten die
 Vorschriften des Verwaltungszustellungsgesetzes mit folgenden
@@ -2650,10 +2717,20 @@ Maßgaben:
 3.  An Empfänger, denen beim Patentamt ein Abholfach eingerichtet worden
     ist, kann auch dadurch zugestellt werden, daß das Schriftstück im
     Abholfach des Empfängers niedergelegt wird. Über die Niederlegung ist
-    eine schriftliche Mitteilung zu den Akten zu geben. Auf dem
-    Schriftstück ist zu vermerken, wann es niedergelegt worden ist. Die
-    Zustellung gilt als am dritten Tag nach der Niederlegung im Abholfach
-    bewirkt.
+    eine Mitteilung zu den Akten zu geben. Auf dem Schriftstück ist zu
+    vermerken, wann es niedergelegt worden ist. Die Zustellung gilt als am
+    dritten Tag nach der Niederlegung im Abholfach bewirkt.
+
+
+4.  Für die Zustellung von elektronischen Dokumenten ist ein
+    Übermittlungsweg zu verwenden, bei dem die Authentizität und
+    Integrität der Daten gewährleistet ist und der bei Nutzung allgemein
+    zugänglicher Netze die Vertraulichkeit der zu übermittelnden Daten
+    durch ein Verschlüsselungsverfahren sicherstellt. Das
+    Bundesministerium der Justiz und für Verbraucherschutz erlässt durch
+    Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+    nähere Bestimmungen über die nach Satz 1 geeigneten Übermittlungswege
+    sowie die Form und den Nachweis der elektronischen Zustellung.
 
 
 
@@ -2682,7 +2759,7 @@ Mitgliedern. Die Entscheidung ergeht durch Beschluß.
 
 (1) Soweit in Verfahren vor dem Patentamt für Anmeldungen, Anträge
 oder sonstige Handlungen die Schriftform vorgesehen ist, gelten die
-Regelungen des § 130a Abs. 1 Satz 1 und 3 sowie Abs. 3 der
+Regelungen des § 130a Absatz 1, 2 Satz 1, Absatz 5 und 6 der
 Zivilprozessordnung entsprechend.
 
 (2) Die Prozessakten des Patentgerichts und des Bundesgerichtshofs
@@ -2691,13 +2768,13 @@ Zivilprozessordnung über elektronische Dokumente, die elektronische
 Akte und die elektronische Verfahrensführung im Übrigen gelten
 entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.
 
-(3) Das Bundesministerium der Justiz bestimmt durch Rechtsverordnung
-ohne Zustimmung des Bundesrates
+(3) Das Bundesministerium der Justiz und für Verbraucherschutz
+bestimmt durch Rechtsverordnung ohne Zustimmung des Bundesrates
 
 1.  den Zeitpunkt, von dem an elektronische Dokumente bei dem Patentamt
     und den Gerichten eingereicht werden können, die für die Bearbeitung
-    der Dokumente geeignete Form und die zu verwendende elektronische
-    Signatur;
+    der Dokumente geeignete Form, ob eine elektronische Signatur zu
+    verwenden ist und wie diese Signatur beschaffen ist;
 
 
 2.  den Zeitpunkt, von dem an die Prozessakten nach Absatz 2 elektronisch
@@ -2714,32 +2791,20 @@ ohne Zustimmung des Bundesrates
 (1) Wer im Inland weder einen Wohnsitz, Sitz noch Niederlassung hat,
 kann an einem in diesem Gesetz geregelten Verfahren vor dem Patentamt
 oder dem Patentgericht nur teilnehmen und die Rechte aus einer Marke
-nur geltend machen, wenn er im Inland einen Rechtsanwalt oder
-Patentanwalt als Vertreter bestellt hat, der zur Vertretung im
-Verfahren vor dem Patentamt, dem Patentgericht und in bürgerlichen
-Streitigkeiten, die diese Marke betreffen, sowie zur Stellung von
-Strafanträgen bevollmächtigt ist.
+nur geltend machen, wenn er einen Rechtsanwalt oder Patentanwalt als
+Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem
+Patentamt, dem Patentgericht und in bürgerlichen Streitigkeiten, die
+diese Marke betreffen, sowie zur Stellung von Strafanträgen befugt und
+bevollmächtigt ist.
 
-(2) Staatsangehörige eines Mitgliedstaates der Europäischen Union oder
-eines anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum können zur Erbringung einer Dienstleistung im Sinne
-des Vertrages zur Gründung der Europäischen Gemeinschaft als Vertreter
-im Sinne des Absatzes 1 bestellt werden, wenn sie berechtigt sind,
-ihre berufliche Tätigkeit unter einer der in der Anlage zu § 1 des
-Gesetzes über die Tätigkeit europäischer Rechtsanwälte in Deutschland
-vom 9. März 2000 (BGBl. I S. 182) oder zu § 1 des Gesetzes über die
-Eignungsprüfung für die Zulassung zur Patentanwaltschaft vom 6. Juli
-1990 (BGBl. I S. 1349, 1351) in der jeweils geltenden Fassung
-genannten Berufsbezeichnungen auszuüben.
-
-(3) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen
+(2) Der Ort, an dem ein nach Absatz 1 bestellter Vertreter seinen
 Geschäftsraum hat, gilt im Sinne des § 23 der Zivilprozessordnung als
 der Ort, an dem sich der Vermögensgegenstand befindet. Fehlt ein
 solcher Geschäftsraum, so ist der Ort maßgebend, an dem der Vertreter
 im Inland seinen Wohnsitz, und in Ermangelung eines solchen der Ort,
 an dem das Patentamt seinen Sitz hat.
 
-(4) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters
+(3) Die rechtsgeschäftliche Beendigung der Bestellung eines Vertreters
 nach Absatz 1 wird erst wirksam, wenn sowohl diese Beendigung als auch
 die Bestellung eines anderen Vertreters gegenüber dem Patentamt oder
 dem Patentgericht angezeigt wird.
@@ -3011,10 +3076,10 @@ die Verweigerung des Schutzes.
 
 #### § 114 Widerspruch
 
-(1) An die Stelle der Veröffentlichung der Eintragung (§ 41) tritt für
-international registrierte Marken die Veröffentlichung in dem vom
-Internationalen Büro der Weltorganisation für geistiges Eigentum
-herausgegebenen Veröffentlichungsblatt.
+(1) An die Stelle der Veröffentlichung der Eintragung (§ 41 Absatz 2)
+tritt für international registrierte Marken die Veröffentlichung in
+dem vom Internationalen Büro der Weltorganisation für geistiges
+Eigentum herausgegebenen Veröffentlichungsblatt.
 
 (2) Die Frist zur Erhebung des Widerspruchs (§ 42 Abs. 1) gegen die
 Schutzgewährung für international registrierte Marken beginnt mit dem
@@ -3222,9 +3287,9 @@ Marke im internationalen Register die Frist nach Artikel 5 Abs. 2 des
 Protokolls zum Madrider Markenabkommen zur Verweigerung des Schutzes
 bereits abgelaufen und war an diesem Tag kein Verfahren zur
 Schutzverweigerung oder zur nachträglichen Schutzentziehung anhängig,
-so wird die Marke ohne vorherige Prüfung unmittelbar nach § 41 in das
-Register eingetragen. Gegen die Eintragung einer Marke nach Satz 2
-kann Widerspruch nicht erhoben werden.
+so wird die Marke ohne vorherige Prüfung unmittelbar nach § 41 Absatz
+1 in das Register eingetragen. Gegen die Eintragung einer Marke nach
+Satz 2 kann Widerspruch nicht erhoben werden.
 
 
 ### Abschnitt 3 - Gemeinschaftsmarken
@@ -3356,15 +3421,16 @@ Zeitrang an die Stelle des nach Satz 1 maßgeblichen Tages.
 
 (3) Betrifft der Umwandlungsantrag einer Marke, die bereits als
 Gemeinschaftsmarke eingetragen war, so trägt das Patentamt die Marke
-ohne weitere Prüfung unmittelbar nach § 41 unter Wahrung ihres
-ursprünglichen Zeitrangs in das Register ein. Gegen die Eintragung
-kann Widerspruch nicht erhoben werden.
+ohne weitere Prüfung unmittelbar nach § 41 Absatz 1 unter Wahrung
+ihres ursprünglichen Zeitrangs in das Register ein. Gegen die
+Eintragung kann Widerspruch nicht erhoben werden.
 
 (4) Im übrigen sind auf Umwandlungsanträge die Vorschriften dieses
 Gesetzes für die Anmeldung von Marken anzuwenden.
 
+Gemeinschaftsmarkengerichte,
 
-#### § 125e Gemeinschaftsmarkengerichte, Gemeinschaftsmarkenstreitsachen
+#### § 125e Gemeinschaftsmarkenstreitsachen
 
 (1) Für alle Klagen, für die nach der Verordnung über die
 Gemeinschaftsmarke die Gemeinschaftsmarkengerichte im Sinne des
@@ -3388,17 +3454,17 @@ Gemeinschaftsmarkengerichten eines Landes obliegende Aufgaben ganz
 oder teilweise dem zuständigen Gemeinschaftsmarkengericht eines
 anderen Landes übertragen.
 
-(5) Auf Verfahren vor den Gemeinschaftsmarkengerichten ist § 140 Abs.
-3 bis 5 entsprechend anzuwenden.
+(5) Auf Verfahren vor den Gemeinschaftsmarkengerichten ist § 140
+Absatz 3 und § 142 entsprechend anzuwenden.
 
 
 #### § 125f Unterrichtung der Kommission
 
-Das Bundesministerium der Justiz teilt der Kommission der Europäischen
-Gemeinschaften die Gemeinschaftsmarkengerichte erster und zweiter
-Instanz sowie jede Änderung der Anzahl, der Bezeichnung oder der
-örtlichen Zuständigkeit der Gemeinschaftsmarkengerichte erster und
-zweiter Instanz mit.
+Das Bundesministerium der Justiz und für Verbraucherschutz teilt der
+Kommission der Europäischen Gemeinschaften die
+Gemeinschaftsmarkengerichte erster und zweiter Instanz sowie jede
+Änderung der Anzahl, der Bezeichnung oder der örtlichen Zuständigkeit
+der Gemeinschaftsmarkengerichte erster und zweiter Instanz mit.
 
 
 #### § 125g Örtliche Zuständigkeit der Gemeinschaftsmarkengerichte
@@ -3551,70 +3617,77 @@ durch die Verletzung des Rechts erzielt hat, berücksichtigt werden. §
 Ansprüche nach § 128 verjähren gemäß § 20.
 
 
-### Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EG) Nr. 510/2006
+### Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012
 
 
 
-#### § 130 Verfahren vor dem Patentamt; Einspruch gegen den Antrag
+#### § 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren
 
 (1) Anträge auf Eintragung einer geographischen Angabe oder einer
 Ursprungsbezeichnung in das Register der geschützten
 Ursprungsbezeichnungen und der geschützten geographischen Angaben, das
-von der Kommission der Europäischen Gemeinschaften nach Artikel 7 Abs.
-6 der Verordnung (EG) Nr. 510/2006 des Rates vom 20. März 2006 zum
-Schutz von geographischen Angaben und Ursprungsbezeichnungen für
-Agrarerzeugnisse und Lebensmittel (ABl. EU Nr. L 93 S. 12) in ihrer
-jeweils geltenden Fassung geführt wird, sind beim Patentamt
-einzureichen.
+von der Europäischen Kommission nach Artikel 11 der Verordnung (EU)
+Nr. 1151/2012 des Europäischen Parlaments und des Rates vom 21.
+November 2012 über Qualitätsregelungen für Agrarerzeugnisse und
+Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) in ihrer jeweils
+geltenden Fassung geführt wird, sind beim Deutschen Patent- und
+Markenamt einzureichen.
 
 (2) Für die in diesem Abschnitt geregelten Verfahren sind die im
-Patentamt errichteten Markenabteilungen zuständig.
+Deutschen Patent- und Markenamt errichteten Markenabteilungen
+zuständig.
 
-(3) Bei der Prüfung des Antrags holt das Patentamt die Stellungnahmen
-des Bundesministeriums für Ernährung, Landwirtschaft und
-Verbraucherschutz, der zuständigen Fachministerien der betroffenen
+(3) Bei der Prüfung des Antrags holt das Deutsche Patent- und
+Markenamt die Stellungnahmen des Bundesministeriums für Ernährung und
+Landwirtschaft, der zuständigen Fachministerien der betroffenen
 Länder, der interessierten öffentlichen Körperschaften sowie der
 interessierten Verbände und Organisationen der Wirtschaft ein.
 
-(4) Das Patentamt veröffentlicht den Antrag im Markenblatt. Gegen den
-Antrag kann innerhalb von vier Monaten seit Veröffentlichung im
-Markenblatt von jeder Person mit einem berechtigten Interesse, die im
-Gebiet der Bundesrepublik Deutschland niedergelassen oder ansässig
-ist, beim Patentamt Einspruch eingelegt werden.
+(4) Das Deutsche Patent- und Markenamt veröffentlicht den Antrag.
+Gegen den Antrag kann innerhalb von zwei Monaten seit Veröffentlichung
+von jeder Person mit einem berechtigten Interesse, die im Gebiet der
+Bundesrepublik Deutschland niedergelassen oder ansässig ist, beim
+Deutschen Patent- und Markenamt Einspruch eingelegt werden.
 
-(5) Entspricht der Antrag den Voraussetzungen der Verordnung (EG) Nr.
-510/2006 und den zu ihrer Durchführung erlassenen Vorschriften, stellt
-das Patentamt dies durch Beschluss fest. Andernfalls wird der Antrag
-durch Beschluss zurückgewiesen. Das Patentamt veröffentlicht den
-stattgebenden Beschluss im Markenblatt. Kommt es zu wesentlichen
-Änderungen der nach Absatz 4 veröffentlichten Angaben, so werden diese
-zusammen mit dem stattgebenden Beschluss im Markenblatt
-veröffentlicht. Der Beschluss nach Satz 1 und nach Satz 2 ist dem
-Antragsteller und denjenigen zuzustellen, die fristgemäß Einspruch
-eingelegt haben.
+(5) Entspricht der Antrag den Anforderungen der Verordnung (EU) Nr.
+1151/2012 und den zu ihrer Durchführung erlassenen Vorschriften,
+stellt das Deutsche Patent- und Markenamt dies durch Beschluss fest.
+Andernfalls wird der Antrag durch Beschluss zurückgewiesen. Das
+Deutsche Patent- und Markenamt veröffentlicht den stattgebenden
+Beschluss. Kommt es zu wesentlichen Änderungen der nach Absatz 4
+veröffentlichten Angaben, so werden diese zusammen mit dem
+stattgebenden Beschluss veröffentlicht. Der Beschluss nach Satz 1 und
+nach Satz 2 ist dem Antragsteller und denjenigen zuzustellen, die
+fristgemäß Einspruch eingelegt haben.
 
-(6) Steht rechtskräftig fest, dass der Antrag den Voraussetzungen der
-Verordnung (EG) Nr. 510/2006 und den zu ihrer Durchführung erlassenen
-Vorschriften entspricht, so unterrichtet das Patentamt den
-Antragsteller hierüber und übermittelt den Antrag mit den
-erforderlichen Unterlagen dem Bundesministerium der Justiz. Ferner
-veröffentlicht das Patentamt die Fassung der Spezifikation, auf die
-sich die positive Entscheidung bezieht, im Markenblatt. Das
-Bundesministerium der Justiz übermittelt den Antrag mit den
-erforderlichen Unterlagen an die Kommission der Europäischen
-Gemeinschaften.
+(6) Steht rechtskräftig fest, dass der Antrag den Anforderungen der
+Verordnung (EU) Nr. 1151/2012 und den zu ihrer Durchführung erlassenen
+Vorschriften entspricht, so unterrichtet das Deutsche Patent- und
+Markenamt den Antragsteller hierüber und übermittelt den Antrag mit
+den erforderlichen Unterlagen dem Bundesministerium der Justiz und für
+Verbraucherschutz. Ferner veröffentlicht das Deutsche Patent- und
+Markenamt die Fassung der Spezifikation, auf die sich die positive
+Entscheidung bezieht. Das Bundesministerium der Justiz und für
+Verbraucherschutz übermittelt den Antrag mit den erforderlichen
+Unterlagen an die Europäische Kommission.
+
+(7) Sofern die Spezifikation im Eintragungsverfahren bei der
+Europäischen Kommission geändert worden ist, veröffentlicht das
+Deutsche Patent- und Markenamt die der Eintragung zugrunde liegende
+Fassung der Spezifikation.
 
 
-#### § 131 Einspruch gegen die beabsichtigte Eintragung
+#### § 131 Zwischenstaatliches Einspruchsverfahren
 
-(1) Einsprüche nach Artikel 7 Abs. 2 der Verordnung (EG) Nr. 510/2006
-gegen die beabsichtigte Eintragung von geographischen Angaben oder
-Ursprungsbezeichnungen in das von der Kommission der Europäischen
-Gemeinschaften geführte Register der geschützten
+(1) Einsprüche nach Artikel 51 Absatz 1 Unterabsatz 2 der Verordnung
+(EU) Nr. 1151/2012 gegen die beabsichtigte Eintragung von
+geographischen Angaben oder Ursprungsbezeichnungen in das von der
+Europäischen Kommission geführte Register der geschützten
 Ursprungsbezeichnungen und der geschützten geographischen Angaben sind
-beim Patentamt innerhalb von vier Monaten seit der Veröffentlichung
-einzulegen, die im Amtsblatt der Europäischen Gemeinschaften nach
-Artikel 6 Abs. 2 der Verordnung (EG) Nr. 510/2006 vorgenommen wird.
+beim Deutschen Patent- und Markenamt innerhalb von zwei Monaten ab der
+Veröffentlichung einzulegen, die im Amtsblatt der Europäischen Union
+nach Artikel 50 Absatz 2 der Verordnung (EU) Nr. 1151/2012 vorgenommen
+wird.
 
 (2) Die Zahlungsfrist für die Einspruchsgebühr richtet sich nach § 6
 Abs. 1 Satz 1 des Patentkostengesetzes. Eine Wiedereinsetzung in die
@@ -3626,33 +3699,34 @@ nicht gegeben.
 
 (1) Für Anträge auf Änderung der Spezifikation einer geschützten
 geographischen Angabe oder einer geschützten Ursprungsbezeichnung nach
-Artikel 9 Abs. 2 Satz 1 der Verordnung (EG) Nr. 510/2006 gelten die §§
-130 und 131 entsprechend. Eine Gebühr ist nicht zu zahlen.
+Artikel 53 Absatz 2 Satz 1 der Verordnung (EU) Nr. 1151/2012 gelten
+die §§ 130 und 131 entsprechend.
 
 (2) Für Anträge auf Löschung einer geschützten geographischen Angabe
-oder einer geschützten Ursprungsbezeichnung nach Artikel 12 Abs. 2 der
-Verordnung (EG) Nr. 510/2006 gelten die §§ 130 und 131 entsprechend.
+oder einer geschützten Ursprungsbezeichnung nach Artikel 54 Absatz 1
+der Verordnung (EU) Nr. 1151/2012 gelten die §§ 130 und 131
+entsprechend.
 
 
 #### § 133 Rechtsmittel
 
-Gegen Entscheidungen, die das Patentamt nach den Vorschriften dieses
-Abschnitts trifft, findet die Beschwerde zum Bundespatentgericht und
-die Rechtsbeschwerde zum Bundesgerichtshof statt. Gegen eine
-Entscheidung nach § 130 Abs. 5 Satz 1 steht die Beschwerde denjenigen
-Personen zu, die gegen den Antrag fristgerecht Einspruch eingelegt
-haben oder die durch den stattgebenden Beschluss auf Grund der nach §
-130 Abs. 5 Satz 4 veröffentlichten geänderten Angaben in ihrem
-berechtigten Interesse betroffen sind. Im Übrigen sind die
-Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor dem
-Bundespatentgericht (§§ 66 bis 82) und über das
+Gegen Entscheidungen, die das Deutsche Patent- und Markenamt nach den
+Vorschriften dieses Abschnitts trifft, findet die Beschwerde zum
+Bundespatentgericht und die Rechtsbeschwerde zum Bundesgerichtshof
+statt. Gegen eine Entscheidung nach § 130 Abs. 5 Satz 1 steht die
+Beschwerde denjenigen Personen zu, die gegen den Antrag fristgerecht
+Einspruch eingelegt haben oder die durch den stattgebenden Beschluss
+auf Grund der nach § 130 Abs. 5 Satz 4 veröffentlichten geänderten
+Angaben in ihrem berechtigten Interesse betroffen sind. Im Übrigen
+sind die Vorschriften dieses Gesetzes über das Beschwerdeverfahren vor
+dem Bundespatentgericht (§§ 66 bis 82) und über das
 Rechtsbeschwerdeverfahren vor dem Bundesgerichtshof (§§ 83 bis 90)
 entsprechend anzuwenden.
 
 
 #### § 134 Überwachung
 
-(1) Die nach der Verordnung (EG) Nr. 510/2006 und den zu ihrer
+(1) Die nach der Verordnung (EU) Nr. 1151/2012 und den zu ihrer
 Durchführung erlassenen Vorschriften erforderliche Überwachung und
 Kontrolle obliegt den nach Landesrecht zuständigen Stellen.
 
@@ -3704,21 +3778,21 @@ der in § 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten
 Angehörigen der Gefahr strafrechtlicher Verfolgung oder eines
 Verfahrens nach dem Gesetz über Ordnungswidrigkeiten aussetzen würde.
 
-(6) Für Amtshandlungen, die nach Artikel 11 der Verordnung (EG) Nr.
-510/2006 zu Kontrollzwecken vorzunehmen sind, werden kostendeckende
-Gebühren und Auslagen erhoben. Die kostenpflichtigen Tatbestände
-werden durch das Landesrecht bestimmt.
+(6) Für Amtshandlungen, die nach Artikel 37 Absatz 1 der Verordnung
+(EU) Nr. 1151/2012 zu Kontrollzwecken vorzunehmen sind, werden
+kostendeckende Gebühren und Auslagen erhoben. Die kostenpflichtigen
+Tatbestände werden durch das Landesrecht bestimmt.
 
 
 #### § 135 Ansprüche wegen Verletzung
 
 (1) Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
-Artikel 8 oder Artikel 13 der Verordnung (EG) Nr. 510/2006 verstoßen,
-kann von den nach § 8 Abs. 3 des Gesetzes gegen den unlauteren
-Wettbewerb zur Geltendmachung von Ansprüchen Berechtigten bei
-Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der
-Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht.
-Die §§ 18, 19, 19a und 19c gelten entsprechend.
+Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den
+nach § 8 Abs. 3 des Gesetzes gegen den unlauteren Wettbewerb zur
+Geltendmachung von Ansprüchen Berechtigten bei Wiederholungsgefahr auf
+Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch
+dann, wenn eine Zuwiderhandlung erstmalig droht. Die §§ 18, 19, 19a
+und 19c gelten entsprechend.
 
 (2) § 128 Abs. 2 und 3 gilt entsprechend.
 
@@ -3734,11 +3808,11 @@ Die Ansprüche nach § 135 verjähren nach § 20.
 
 #### § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit den Bundesministerien für Wirtschaft und Technologie und für
-Ernährung, Landwirtschaft und Verbraucherschutz durch Rechtsverordnung
-mit Zustimmung des Bundesrates nähere Bestimmungen über einzelne
-geographische Herkunftsangaben zu treffen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit den Bundesministerien für Wirtschaft
+und Energie und für Ernährung und Landwirtschaft durch
+Rechtsverordnung mit Zustimmung des Bundesrates nähere Bestimmungen
+über einzelne geographische Herkunftsangaben zu treffen.
 
 (2) In der Rechtsverordnung können
 
@@ -3763,32 +3837,31 @@ Praktiken, Gewohnheiten und Gebräuche bei der Verwendung der
 geographischen Herkunftsangabe zu berücksichtigen.
 
 
-#### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EG) Nr. 510/2006
+#### § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates nähere Bestimmungen
-über das Antrags-, Einspruchs-, Änderungs- und Löschungsverfahren (§§
-130 bis 132) zu treffen.
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+nähere Bestimmungen über das Antrags-, Einspruchs-, Änderungs- und
+Löschungsverfahren (§§ 130 bis 132) zu treffen.
 
-(2) Das Bundesministerium der Justiz kann die Ermächtigung zum Erlass
-von Rechtsverordnungen nach Absatz 1 durch Rechtsverordnung ohne
-Zustimmung des Bundesrates ganz oder teilweise auf das Deutsche
-Patent- und Markenamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz kann
+die Ermächtigung zum Erlass von Rechtsverordnungen nach Absatz 1 durch
+Rechtsverordnung ohne Zustimmung des Bundesrates ganz oder teilweise
+auf das Deutsche Patent- und Markenamt übertragen.
 
 
-#### § 139 Durchführungsbestimmungen zur Verordnung (EG) Nr. 510/2006
+#### § 139 Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung
 
-(1) Das Bundesministerium der Justiz wird ermächtigt, im Einvernehmen
-mit dem Bundesministerium für Wirtschaft und Technologie und dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
+(1) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie und dem Bundesministerium für Ernährung und Landwirtschaft
 durch Rechtsverordnung mit Zustimmung des Bundesrates weitere
 Einzelheiten des Schutzes von Ursprungsbezeichnungen und
-geographischen Angaben nach der Verordnung (EG) Nr. 510/2006 zu
-regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EG)
-Nr. 510/2006 oder den zu ihrer Durchführung erlassenen Vorschriften
-des Rates oder der Kommission der Europäischen Gemeinschaften ergibt.
-In Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften
-über
+geographischen Angaben nach der Verordnung (EU) Nr. 1151/2012 zu
+regeln, soweit sich das Erfordernis hierfür aus der Verordnung (EU)
+Nr. 1151/2012 oder den zu ihrer Durchführung erlassenen Vorschriften
+des Rates oder der Europäischen Kommission ergibt. In
+Rechtsverordnungen nach Satz 1 können insbesondere Vorschriften über
 
 1.  die Kennzeichnung der Agrarerzeugnisse oder Lebensmittel,
 
@@ -3808,14 +3881,14 @@ gemeinschaftsrechtlichen Vorschriften befugt sind, ergänzende
 Vorschriften zu erlassen.
 
 (2) Die Landesregierungen werden ermächtigt, durch Rechtsverordnung
-die Durchführung der nach Artikel 11 der Verordnung (EG) Nr. 510/2006
-erforderlichen Kontrollen zugelassenen privaten Kontrollstellen zu
-übertragen oder solche an der Durchführung dieser Kontrollen zu
-beteiligen. Die Landesregierungen können auch die Voraussetzungen und
-das Verfahren der Zulassung privater Kontrollstellen durch
-Rechtsverordnung regeln. Sie sind befugt, die Ermächtigung nach den
-Sätzen 1 und 2 durch Rechtsverordnung ganz oder teilweise auf andere
-Behörden zu übertragen.
+die Durchführung der nach Artikel 37 Absatz 1 der Verordnung (EU) Nr.
+1151/2012 erforderlichen Kontrollen zugelassenen privaten
+Kontrollstellen zu übertragen oder solche an der Durchführung dieser
+Kontrollen zu beteiligen. Die Landesregierungen können auch die
+Voraussetzungen und das Verfahren der Zulassung privater
+Kontrollstellen durch Rechtsverordnung regeln. Sie sind befugt, die
+Ermächtigung nach den Sätzen 1 und 2 durch Rechtsverordnung ganz oder
+teilweise auf andere Behörden zu übertragen.
 
 
 ## Teil 7 - Verfahren in Kennzeichenstreitsachen
@@ -3936,8 +4009,10 @@ bestraft.
 
 (1a) (weggefallen)
 
-(2) Handelt der Täter gewerbsmäßig, so ist die Strafe Freiheitsstrafe
-bis zu fünf Jahren oder Geldstrafe.
+(2) Handelt der Täter in den Fällen des Absatzes 1 gewerbsmäßig oder
+als Mitglied einer Bande, die sich zur fortgesetzten Begehung solcher
+Taten verbunden hat, so ist die Strafe Freiheitsstrafe von drei
+Monaten bis zu fünf Jahren.
 
 (3) Der Versuch ist strafbar.
 
@@ -3951,7 +4026,8 @@ werden. § 74a des Strafgesetzbuchs ist anzuwenden. Soweit den in § 18
 bezeichneten Ansprüchen auf Vernichtung im Verfahren nach den
 Vorschriften der Strafprozeßordnung über die Entschädigung des
 Verletzten (§§ 403 bis 406c der Strafprozeßordnung) stattgegeben wird,
-sind die Vorschriften über die Einziehung nicht anzuwenden.
+sind die Vorschriften über die Einziehung (§§ 74 bis 74f des
+Strafgesetzbuches) nicht anzuwenden.
 
 (6) Wird auf Strafe erkannt, so ist, wenn der Verletzte es beantragt
 und ein berechtigtes Interesse daran dartut, anzuordnen, daß die
@@ -4017,17 +4093,17 @@ Herkunftsangabe, einen Namen, eine Angabe oder ein Zeichen
 wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
 bestraft.
 
-(2) Ebenso wird bestraft, wer entgegen Artikel 13 Abs. 1 Buchstabe a
-oder Buchstabe b der Verordnung (EG) Nr. 510/2006 des Rates vom 20.
-März 2006 zum Schutz von geographischen Angaben und
-Ursprungsbezeichnungen für Agrarerzeugnisse und Lebensmittel (ABl. EU
-Nr. L 93 S. 12) im geschäftlichen Verkehr
+(2) Ebenso wird bestraft, wer entgegen Artikel 13 Absatz 1 Buchstabe a
+oder b der Verordnung (EU) Nr. 1151/2012 des Europäischen Parlaments
+und des Rates vom 21. November 2012 über Qualitätsregelungen für
+Agrarerzeugnisse und Lebensmittel (ABl. L 343 vom 14.12.2012, S. 1) im
+geschäftlichen Verkehr
 
-1.  eine eingetragene Bezeichnung für ein dort genanntes Erzeugnis
-    verwendet oder
+1.  einen eingetragenen Namen für ein dort genanntes Erzeugnis verwendet
+    oder
 
 
-2.  sich eine eingetragene Bezeichnung aneignet oder sie nachahmt.
+2.  sich einen eingetragenen Namen aneignet oder ihn nachahmt.
 
 
 
@@ -4124,18 +4200,17 @@ für Justiz.
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz geschützten
 Marke oder geschäftlichen Bezeichnung versehen sind, unterliegen,
-soweit nicht die Verordnung (EG) Nr. 1383/2003 des Rates vom 22. Juli
-2003 über das Vorgehen der Zollbehörden gegen Waren, die im Verdacht
-stehen, bestimmte Rechte geistigen Eigentums zu verletzen, und die
-Maßnahmen gegenüber Waren, die erkanntermaßen derartige Rechte
-verletzen (ABl. EU Nr. L 196 S. 7), in ihrer jeweils geltenden Fassung
-anzuwenden ist, auf Antrag und gegen Sicherheitsleistung des
-Rechtsinhabers bei ihrer Einfuhr oder Ausfuhr der Beschlagnahme durch
-die Zollbehörde, sofern die Rechtsverletzung offensichtlich ist. Dies
-gilt für den Verkehr mit anderen Mitgliedstaaten der Europäischen
-Union sowie mit den anderen Vertragsstaaten des Abkommens über den
-Europäischen Wirtschaftsraum nur, soweit Kontrollen durch die
-Zollbehörden stattfinden.
+soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
+Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
+geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
+Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
+15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und
+gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder
+Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die
+Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
+anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
 (2) Ordnet die Zollbehörde die Beschlagnahme an, unterrichtet sie
 unverzüglich den Verfügungsberechtigten sowie den Antragsteller. Dem
@@ -4177,7 +4252,7 @@ Beschlagnahme für längstens zwei weitere Wochen aufrechterhalten.
 
 #### § 148 Zuständigkeiten, Rechtsmittel
 
-(1) Der Antrag nach § 146 Abs. 1 ist bei der Bundesfinanzdirektion zu
+(1) Der Antrag nach § 146 Abs. 1 ist bei der Generalzolldirektion zu
 stellen und hat Wirkung für ein Jahr, sofern keine kürzere
 Geltungsdauer beantragt wird. Der Antrag kann wiederholt werden.
 
@@ -4204,62 +4279,23 @@ Verfügungsberechtigten durch die Beschlagnahme entstandenen Schaden zu
 ersetzen.
 
 
-#### § 150 Verfahren nach der Verordnung (EG) Nr. 1383/2003
+#### § 150 Verfahren nach der Verordnung (EU) Nr. 608/2013
 
-(1) Setzt die zuständige Zollbehörde nach Artikel 9 der Verordnung
-(EG) Nr. 1383/2003 die Überlassung der Waren aus oder hält diese
-zurück, unterrichtet sie davon unverzüglich den Rechtsinhaber sowie
-den Anmelder oder den Besitzer oder den Eigentümer der Waren.
-
-(2) Im Fall des Absatzes 1 kann der Rechtsinhaber beantragen, die
-Waren in dem nachstehend beschriebenen vereinfachten Verfahren im Sinn
-des Artikels 11 der Verordnung (EG) Nr. 1383/2003 vernichten zu
-lassen.
-
-(3) Der Antrag muss bei der Zollbehörde innerhalb von zehn
-Arbeitstagen oder im Fall leicht verderblicher Waren innerhalb von
-drei Arbeitstagen nach Zugang der Unterrichtung nach Absatz 1
-schriftlich gestellt werden. Er muss die Mitteilung enthalten, dass
-die Waren, die Gegenstand des Verfahrens sind, ein nach diesem Gesetz
-geschütztes Recht verletzen. Die schriftliche Zustimmung des
-Anmelders, des Besitzers oder des Eigentümers der Waren zu ihrer
-Vernichtung ist beizufügen. Abweichend von Satz 3 kann der Anmelder,
-der Besitzer oder der Eigentümer die schriftliche Erklärung, ob er
-einer Vernichtung zustimmt oder nicht, unmittelbar gegenüber der
-Zollbehörde abgeben. Die in Satz 1 genannte Frist kann vor Ablauf auf
-Antrag des Rechtsinhabers um zehn Arbeitstage verlängert werden.
-
-(4) Die Zustimmung zur Vernichtung gilt als erteilt, wenn der
-Anmelder, der Besitzer oder der Eigentümer der Waren einer Vernichtung
-nicht innerhalb von zehn Arbeitstagen oder im Fall leicht
-verderblicher Waren innerhalb von drei Arbeitstagen nach Zugang der
-Unterrichtung nach Absatz 1 widerspricht. Auf diesen Umstand ist in
-der Unterrichtung nach Absatz 1 hinzuweisen.
-
-(5) Die Vernichtung der Waren erfolgt auf Kosten und Verantwortung des
-Rechtsinhabers.
-
-(6) Die Zollstelle kann die organisatorische Abwicklung der
-Vernichtung übernehmen. Absatz 5 bleibt unberührt.
-
-(7) Die Aufbewahrungsfrist nach Artikel 11 Abs. 1 zweiter
-Spiegelstrich der Verordnung (EG) Nr. 1383/2003 beträgt ein Jahr.
-
-(8) Im Übrigen gelten die §§ 146 bis 149 entsprechend, soweit nicht
-die Verordnung (EG) Nr. 1383/2003 Bestimmungen enthält, die dem
-entgegenstehen.
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gelten § 148
+Absatz 1 und 2 sowie § 149 entsprechend, soweit die Verordnung keine
+Bestimmungen enthält, die dem entgegenstehen.
 
 
 #### § 151 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben
 
 (1) Waren, die widerrechtlich mit einer nach diesem Gesetz oder nach
-Rechtsvorschriften der Europäischen Gemeinschaft geschützten
-geographischen Herkunftsangabe versehen sind, unterliegen, soweit
-nicht die Verordnung (EG) Nr. 1383/2003 anzuwenden ist, bei ihrer
-Einfuhr, Ausfuhr oder Durchfuhr der Beschlagnahme zum Zwecke der
-Beseitigung der widerrechtlichen Kennzeichnung, sofern die
-Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
-anderen Mitgliedstaaten der Europäischen Union sowie mit den anderen
+Rechtsvorschriften der Europäischen Union geschützten geographischen
+Herkunftsangabe versehen sind, unterliegen, soweit nicht die
+Verordnung (EU) Nr. 608/2013 anzuwenden ist, bei ihrer Einfuhr,
+Ausfuhr oder Durchfuhr der Beschlagnahme zum Zwecke der Beseitigung
+der widerrechtlichen Kennzeichnung, sofern die Rechtsverletzung
+offensichtlich ist. Dies gilt für den Verkehr mit anderen
+Mitgliedstaaten der Europäischen Union sowie mit den anderen
 Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
 nur, soweit Kontrollen durch die Zollbehörden stattfinden.
 
@@ -4336,159 +4372,11 @@ insoweit zugute kommt, als es sich um nach dem 1. Januar 1995
 eingetretene Rechtsübergänge oder an Dritte erteilte Lizenzen handelt.
 
 
-### § 156 Prüfung angemeldeter Marken auf absolute Schutzhindernisse
+### § 156 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse
 
-(1) Ist vor dem 1. Januar 1995 ein Zeichen angemeldet worden, das nach
-den bis dahin geltenden Vorschriften aus vom Patentamt von Amts wegen
-zu berücksichtigenden Gründen von der Eintragung ausgeschlossen war,
-das aber nach § 3, 7, 8 oder 10 dieses Gesetzes nicht von der
-Eintragung ausgeschlossen ist, so sind die Vorschriften dieses
-Gesetzes mit der Maßgabe anzuwenden, daß die Anmeldung als am 1.
-Januar 1995 eingereicht gilt und daß, ungeachtet des ursprünglichen
-Anmeldetags und einer etwa in Anspruch genommenen Priorität, der 1.
-Januar 1995 für die Bestimmung des Zeitrangs im Sinne des § 6 Abs. 2
-maßgeblich ist.
-
-(2) Kommt das Patentamt bei der Prüfung des angemeldeten Zeichens zu
-dem Ergebnis, daß die Voraussetzungen des Absatzes 1 gegeben sind, so
-teilt es dies dem Anmelder mit.
-
-(3) Teilt der Anmelder dem Patentamt innerhalb einer Frist von zwei
-Monaten nach Zustellung der Mitteilung nach Absatz 2 mit, daß er mit
-der Verschiebung des Zeitrangs im Sinne des Absatzes 1 einverstanden
-ist, wird die Anmeldung des Zeichens als Anmeldung einer Marke nach
-diesem Gesetz weiterbehandelt.
-
-(4) Teilt der Anmelder dem Patentamt mit, daß er mit einer
-Verschiebung des Zeitrangs im Sinne des Absatzes 1 nicht einverstanden
-ist oder gibt er innerhalb der Frist des Absatzes 3 keine Erklärung
-ab, so weist das Patentamt die Anmeldung zurück.
-
-(5) Der Anmelder kann die Erklärung nach Absatz 3 auch noch in einem
-Erinnerungsverfahren, einem Beschwerdeverfahren oder in einem
-Rechtsbeschwerdeverfahren über die Zurückweisung der Anmeldung
-abgeben, das am 1. Januar 1995 anhängig ist. Die Absätze 2 bis 4 sind
-entsprechend anzuwenden.
-
-
-### § 157 Bekanntmachung und Eintragung
-
-Ist vor dem 1. Januar 1995 die Bekanntmachung einer Anmeldung nach § 5
-Abs. 1 des Warenzeichengesetzes beschlossen worden, ist die Anmeldung
-aber noch nicht nach § 5 Abs. 2 des Warenzeichengesetzes
-bekanntgemacht worden, so wird die Marke ohne vorherige Bekanntmachung
-nach § 41 in das Register eingetragen. Ist für einen nach dem Beschluß
-der Bekanntmachung gestellten Antrag auf beschleunigte Eintragung die
-in § 6a Abs. 2 des Warenzeichengesetzes vorgesehene Gebühr bereits
-gezahlt worden, wird sie von Amts wegen erstattet.
-
-
-### § 158 Widerspruchsverfahren
-
-(1) Ist vor dem 1. Januar 1995 die Anmeldung einer Marke nach § 5 Abs.
-2 des Warenzeichengesetzes oder die Eintragung einer Marke nach § 6a
-Abs. 3 des Warenzeichengesetzes in Verbindung mit § 5 Abs. 2 des
-Warenzeichengesetzes bekanntgemacht worden, so können Widersprüche
-innerhalb der Frist des § 5 Abs. 4 des Warenzeichengesetzes sowohl auf
-die Widerspruchsgründe des § 5 Abs. 4 des Warenzeichengesetzes als
-auch auf die Widerspruchsgründe des § 42 Abs. 2 gestützt werden. Wird
-innerhalb der Frist des § 5 Abs. 4 des Warenzeichengesetzes
-Widerspruch nicht erhoben, so wird, soweit es sich nicht um eine nach
-§ 6a Abs. 1 des Warenzeichengesetzes eingetragene Marke handelt, die
-Marke nach § 41 in das Register eingetragen. Ein Widerspruch nach § 42
-findet gegen eine solche Eintragung nicht statt.
-
-(2) Ist vor dem 1. Januar 1995 ein Widerspruch gemäß § 5 Abs. 4 des
-Warenzeichengesetzes gegen die Eintragung einer nach § 5 Abs. 2 des
-Warenzeichengesetzes bekanntgemachten oder einer nach § 6a Abs. 1 des
-Warenzeichengesetzes eingetragenen Marke erhoben worden oder wird nach
-dem 1. Januar 1995 ein Widerspruch nach Absatz 1 erhoben, so sind die
-Widerspruchsgründe des § 5 Abs. 4 Nr. 2 und 3 des
-Warenzeichengesetzes, soweit der Widerspruch darauf gestützt worden
-ist, weiterhin anzuwenden. Ist der Widerspruch auf § 5 Abs. 4 Nr. 1
-des Warenzeichengesetzes gestützt worden, ist anstelle dieser
-Bestimmung die Bestimmung des § 42 Abs. 2 Nr. 1 anzuwenden.
-
-(3) Ist in einem Verfahren über einen Widerspruch, der vor dem 1.
-Januar 1995 erhoben worden ist, die Benutzung der Marke, aufgrund
-deren Widerspruch erhoben worden ist, bestritten worden oder wird die
-Benutzung in einem solchen Widerspruchsverfahren bestritten, so ist
-anstelle des § 5 Abs. 7 des Warenzeichengesetzes § 43 Abs. 1
-entsprechend anzuwenden. Satz 1 gilt für das Beschwerdeverfahren vor
-dem Patentgericht auch dann, wenn ein solches Verfahren am 1. Januar
-1995 anhängig ist. Satz 1 gilt nicht für Rechtsbeschwerden, die am 1.
-Januar 1995 anhängig sind.
-
-(4) Wird der Widerspruch zurückgewiesen, so wird, soweit es sich nicht
-um eine nach § 6a Abs. 1 des Warenzeichengesetzes eingetragene Marke
-handelt, die Marke nach § 41 in das Register eingetragen. Ein
-Widerspruch nach § 42 findet gegen eine solche Eintragung nicht statt.
-
-(5) Wird dem Widerspruch gegen eine nach § 5 Abs. 2 des
-Warenzeichengesetzes bekanntgemachte Anmeldung stattgegeben, so wird
-die Eintragung versagt. Wird dem Widerspruch gegen eine nach § 6a Abs.
-1 des Warenzeichengesetzes eingetragene Marke stattgegeben, so wird
-die Eintragung nach § 43 Abs. 2 Satz 1 gelöscht.
-
-(6) In den Fällen des Absatzes 1 Satz 2 und des Absatzes 4 Satz 1
-findet eine Zurückweisung der Anmeldung aus von Amts wegen zu
-berücksichtigenden Eintragungshindernissen nicht statt.
-
-
-### § 159 Teilung einer Anmeldung
-
-Auf die Teilung einer vor dem 1. Januar 1995 nach § 5 Abs. 2 des
-Warenzeichengesetzes bekanntgemachten Anmeldung ist § 40 mit der
-Maßgabe anzuwenden, daß die Teilung erst nach Ablauf der
-Widerspruchsfrist erklärt werden kann und daß die Erklärung nur
-zulässig ist, wenn ein im Zeitpunkt ihrer Abgabe anhängiger
-Widerspruch sich nach der Teilung nur gegen einen der Teile der
-ursprünglichen Anmeldung richten würde. Der Teil der ursprünglichen
-Anmeldung, gegen den sich kein Widerspruch richtet, wird nach § 41 in
-das Register eingetragen. Ein Widerspruch nach § 42 findet gegen eine
-solche Eintragung nicht statt.
-
-
-### § 160 Schutzdauer und Verlängerung
-
-Die Vorschriften dieses Gesetzes über die Schutzdauer und die
-Verlängerung der Schutzdauer (§ 47) sind auch auf vor dem 1. Januar
-1995 eingetragene Marken anzuwenden mit der Maßgabe, daß für die
-Berechnung der Frist, innerhalb derer die Gebühren für die
-Verlängerung der Schutzdauer einer eingetragenen Marke wirksam vor
-Fälligkeit gezahlt werden können, die Vorschriften des § 9 Abs. 2 des
-Warenzeichengesetzes weiterhin anzuwenden sind, wenn die Schutzdauer
-nach § 9 Abs. 2 des Warenzeichengesetzes vor dem 1. Januar 1995
-abläuft.
-
-
-### § 161 Löschung einer eingetragenen Marke wegen Verfalls
-
-(1) Ist vor dem 1. Januar 1995 ein Antrag auf Löschung der Eintragung
-einer Marke nach § 11 Abs. 4 des Warenzeichengesetzes beim Patentamt
-gestellt worden und ist die Frist des § 11 Abs. 4 Satz 3 des
-Warenzeichengesetzes für den Widerspruch gegen die Löschung am 1.
-Januar 1995 noch nicht abgelaufen, so beträgt diese Frist zwei Monate.
-
-(2) Ist vor dem 1. Januar 1995 eine Klage auf Löschung der Eintragung
-einer Marke nach § 11 Abs. 1 Nr. 3 oder 4 des Warenzeichengesetzes
-erhoben worden, so wird die Eintragung nur gelöscht, wenn der Klage
-sowohl nach den bis dahin geltenden Vorschriften als auch nach den
-Vorschriften dieses Gesetzes stattzugeben ist.
-
-
-### § 162 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse
-
-(1) Ist der Inhaber einer Marke vor dem 1. Januar 1995 benachrichtigt
-worden, daß die Eintragung der Marke nach § 10 Abs. 2 Nr. 2 des
-Warenzeichengesetzes gelöscht werden soll, und ist die Frist des § 10
-Abs. 3 Satz 2 des Warenzeichengesetzes für den Widerspruch gegen die
-Löschung am 1. Januar 1995 noch nicht abgelaufen, so beträgt diese
-Frist zwei Monate.
-
-(2) Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur
-Löschung der Eintragung einer Marke wegen des Bestehens absoluter
-Schutzhindernisse nach § 10 Abs. 2 Nr. 2 des Warenzeichengesetzes
+Ist vor dem 1. Januar 1995 ein Verfahren von Amts wegen zur Löschung
+der Eintragung einer Marke wegen des Bestehens absoluter
+Schutzhindernisse nach § 10 Absatz 2 Nummer 2 des Warenzeichengesetzes
 eingeleitet worden oder ist vor diesem Zeitpunkt ein Antrag auf
 Löschung nach dieser Vorschrift gestellt worden, so wird die
 Eintragung nur gelöscht, wenn die Marke sowohl nach den bis dahin
@@ -4498,7 +4386,7 @@ nicht schutzfähig ist. Dies gilt auch dann, wenn nach dem 1. Januar
 eingeleitet wird, die vor dem 1. Januar 1995 eingetragen worden ist.
 
 
-### § 163 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte
+### § 157 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte
 
 (1) Ist vor dem 1. Januar 1995 eine Klage auf Löschung der Eintragung
 einer Marke aufgrund einer früher angemeldeten Marke nach § 11 Abs. 1
@@ -4516,12 +4404,7 @@ Satz 1 und 2 mit der Maßgabe anzuwenden, daß die Frist von fünf Jahren
 mit dem 1. Januar 1995 zu laufen beginnt.
 
 
-### § 164 (weggefallen)
-
--
-
-
-### § 165 Übergangsvorschriften
+### § 158 Übergangsvorschriften
 
 (1) Artikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen
 Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 20
@@ -4539,4 +4422,9 @@ Oktober 2009 geltenden Fassung. Für mehrseitige Verfahren, bei denen
 von einem Beteiligten Erinnerung und von einem anderen Beteiligten
 Beschwerde eingelegt worden ist, ist für die Anwendbarkeit der
 genannten Vorschriften der Tag der Einlegung der Beschwerde maßgebend.
+
+
+### § 164 (weggefallen)
+
+-
 

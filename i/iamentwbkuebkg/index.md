@@ -3,7 +3,7 @@ Title: Gesetz zu dem Übereinkommen vom 8. April 1959 zur Errichtung der Interam
   Entwicklungsbank
 jurabk: IAmEntwBkÜbkG
 layout: default
-origslug: iamentwbk_bkg
+origslug: iamentwbkuebkg
 slug: iamentwbkuebkg
 
 ---

@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl II: 1994, 3816 [Anlageband]
 
 Zuletzt geändert durch
-:   Art. 3 V v. 21.6.2012 II 618
+:   Art. 1 Nr. 2 iVm Anlage 2 u. 3 u. Art. 4 V v. 14.9.2018 II 378
 
 
 ## Inhaltsverzeichnis
@@ -420,6 +420,11 @@ Zuletzt geändert durch
     *   Hinweis auf das Verbot des Stilliegens nebeneinander
 
 
+*    *   § 3.34
+
+    *   Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
+
+
 *    *
 
 *    *
@@ -427,7 +432,8 @@ Zuletzt geändert durch
 
 
 *    *
-    *   **Schallzeichen der Fahrzeuge, Sprechfunk; Radar**
+    *   Schallzeichen der Fahrzeuge; Sprechfunk;
+        **Informations- und Navigationsgeräte**
 
 
 *    *
@@ -474,7 +480,7 @@ Zuletzt geändert durch
 *    *
 
 *    *
-    *   Abschnitt III: Radar
+    *   Abschnitt III. Informations- und Navigationsgeräte
 
 
 *    *
@@ -482,6 +488,13 @@ Zuletzt geändert durch
 *    *   § 4.06
 
     *   Radar
+
+
+*    *
+
+*    *   § 4.07
+
+    *   Inland AIS und Inland ECDIS
 
 
 *    *
@@ -771,7 +784,7 @@ Zuletzt geändert durch
 
 *    *   § 7.03
 
-    *   Ankern
+    *   Ankern und Benutzung von Ankerpfählen
 
 
 *    *   § 7.04
@@ -982,23 +995,7 @@ Zuletzt geändert durch
 
 *    *   § 11.02
 
-    *   Höchstabmessungen der Schubverbände
-
-
-*    *   § 11.03
-
-    *   Höchstabmessungen der Schubverbände unter bestimmten Voraussetzungen
-
-
-*    *   § 11.04
-
-    *   Höchstabmessungen der Schubverbände an der Kreuzung des Lek mit dem
-        Amsterdam-Rhein-Kanal
-
-
-*    *   § 11.05
-
-    *   Höchstabmessungen sonstiger Fahrzeugzusammenstellungen
+    *   Höchstabmessungen der Schubverbände und der gekuppelten Fahrzeuge
 
 
 *    *
@@ -1020,7 +1017,12 @@ Zuletzt geändert durch
 
 *    *   § 12.02
 
-    *   Wahrschauregelung auf der Strecke Oberwesel-St. Goar
+    *   Funktion der Lichtwahrschau auf der Strecke Oberwesel – St. Goar
+
+
+*    *   § 12.03
+
+    *   Besondere Regeln für die Fahrt in der Wahrschaustrecke
 
 
 *    *
@@ -1256,7 +1258,7 @@ Zuletzt geändert durch
 
 *    *   Anlage 9:
 
-    *   (ohne Inhalt)
+    *   Lichtwahrschau Oberwesel – St. Goar Rhein-km 548,50 – 555,43
 
 
 *    *   Anlage 10:
@@ -1266,12 +1268,14 @@ Zuletzt geändert durch
 
 *    *   Anlage 11:
 
-    *   (ohne Inhalt)
+    *   Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterungen
+        „Navigationsstatus“ und des Bezugspunktes der Positionsinformation auf
+        dem Fahrzeug
 
 
 *    *   Anlage 12:
 
-    *   (ohne Inhalt)
+    *   (weggefallen)
 
 
 
@@ -1431,25 +1435,25 @@ s)  "Tag":
     der Zeitraum zwischen Sonnenaufgang und Sonnenuntergang;
 
 
-t)  "weißes Licht", "rotes Licht", "grünes Licht", "gelbes Licht" und
-    "blaues Licht":
+t)  „weißes Licht“, „rotes Licht“, „grünes Licht“, „gelbes Licht“ und
+    „blaues Licht“
 
-    ein Licht, dessen Farbe den Vorschriften über die Farbe und
-    Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in
-    der Rheinschiffahrt entspricht;
-
-
-u)  "starkes Licht", "helles Licht" und "gewöhnliches Licht":
-
-    ein Licht, dessen Stärke den Vorschriften über die Farbe und
-    Lichtstärke der Bordlichter sowie die Zulassung von Signalleuchten in
-    der Rheinschiffahrt entspricht;
+    ein Licht, dessen Farbe den Anforderungen der Tabelle 2 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
 
 
-v)  "Funkellicht":
+u)  „starkes Licht“, „helles Licht“ und „gewöhnliches Licht“
 
-    ein Licht mit einer Taktkennung von 40 bis 60 Lichterscheinungen je
-    Minute;
+    ein Licht, dessen Stärke den Anforderungen der Tabelle 1 der
+    Europäischen Norm EN 14744 : 2005 entspricht;
+
+
+v)  „Funkellicht“, „schnelles Funkellicht“:
+
+    ein Licht, dessen Anzahl regelmäßiger Lichterscheinungen als
+    Funkellicht den Anforderungen der Zeile 1 und als schnelles
+    Funkellicht den Anforderungen der Zeile 2 oder der Zeile 3 der Tabelle
+    3 der Europäischen Norm EN 14744 : 2005 entspricht;
 
 
 w)  "kurzer Ton":
@@ -1496,6 +1500,13 @@ ab) "schnelles Schiff": ein Fahrzeug mit Maschinenantrieb, ausgenommen ein
 ac) (weggefallen)
 
 
+ah) „ES-TRIN“ der Europäische Standard der technischen Vorschriften für
+    Binnenschiffe in der Edition 2017/1, der vom Europäischen Ausschuss
+    für die Ausarbeitung von Standards im Bereich der Binnenschifffahrt
+    (CESNI) angenommen wurde. Bei der Anwendung des ES-TRIN ist unter
+    Mitgliedstaat ein Rheinuferstaat oder Belgien zu verstehen.
+
+
 
 
 
@@ -1506,7 +1517,11 @@ ac) (weggefallen)
     hierfür geeigneten Person stehen. Diese wird als "Schiffsführer"
     bezeichnet. Seine Eignung gilt als vorhanden, wenn er ein Rheinpatent
     oder ein anderes nach der Rheinpatentverordnung zugelassenes Zeugnis
-    für die Fahrzeugart und die zu befahrende Strecke besitzt.
+    für die Fahrzeugart und die zu befahrende Strecke besitzt. Sind nach
+    der Verordnung über das Schiffspersonal auf dem Rhein mehrere
+    Schiffsführer für das Fahrzeug vorgeschrieben, benötigt nur der
+    Schiffsführer, unter dessen Führung das Fahrzeug steht, ein
+    Streckenzeugnis für den betreffenden Streckenabschnitt.
 
 
 2.  Jeder Verband muß gleichfalls unter der Führung eines hierfür
@@ -1636,10 +1651,10 @@ gezwungen sind, von dieser Verordnung abzuweichen.
 
 #### § 1.06 Benutzung der Wasserstraße
 
-Unbeschadet der §§ 8.08, 9.02 Nr. 10, 10.01, 10.02, 11.01, 11.02,
-11\.03, 11.04 und 11.05 dieser Verordnung müssen Länge, Breite, Höhe,
-Tiefgang und Geschwindigkeit der Fahrzeuge und Verbände den
-Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
+Unbeschadet der §§ 8.08, 9.02 Nummer 10, §§ 10.01, 10.02, 11.01 und
+11\.02 dieser Verordnung müssen Länge, Breite, Höhe, Tiefgang und
+Geschwindigkeit der Fahrzeuge und Verbände den Gegebenheiten der
+Wasserstraße und der Anlagen angepasst sein.
 
 
 #### § 1.07 Anforderungen an die Beladung und Sicht; Höchstzahl der Fahrgäste
@@ -1657,32 +1672,30 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
     Schiffskörpers nicht gefährden.
 
 
-4.  Bei Fahrzeugen, die Container befördern, muss außerdem vor Antritt der
-    Fahrt eine besondere Überprüfung der Stabilität in folgenden Fällen
-    vorgenommen werden:
+4.  Die Stabilität von Fahrzeugen, die Container befördern, muss jederzeit
+    gewährleistet sein. Der Schiffsführer hat nachzuweisen, dass eine
+    Stabilitätsprüfung vor Beginn des Ladens und Löschens sowie vor
+    Fahrtantritt durchgeführt wurde.
 
-    a)  bei Fahrzeugen mit einer Breite von weniger als 9,50 m, wenn die
-        Container in mehr als einer Lage geladen sind,
+    Die Stabilitätsprüfung kann manuell oder mit Hilfe eines
+    Ladungsrechners erfolgen. Das Ergebnis der Stabilitätsprüfung und der
+    aktuelle Stauplan sind an Bord mitzuführen und müssen jederzeit lesbar
+    gemacht werden können.
 
+    Die Fahrzeuge müssen außerdem die Stabilitätsunterlagen nach § 22.01
+    der Rheinschiffsuntersuchungsordnung im Sinne des § 1 Absatz 8 der
+    Binnenschiffsuntersuchungsordnung in der jeweils geltenden und
+    anzuwendenden Fassung (Rheinschiffsuntersuchungsordnung) mitführen
 
-    b)  bei Fahrzeugen mit einer Breite von 9,50 m bis unter 11,00 m, wenn die
-        Container in mehr als zwei Lagen geladen sind und
+    Eine Stabilitätsprüfung ist bei Fahrzeugen, die Container befördern,
+    nicht erforderlich, wenn das Fahrzeug in seiner Breite
 
-
-    c)  bei Fahrzeugen mit einer Breite von 11,00 m oder mehr,
-
-        -   wenn die Container in mehr als drei Breiten und mehr als zwei Lagen
-            geladen sind,
-
-
-
-
-        oder
-
-        -   wenn die Container in mehr als drei Lagen geladen sind.
+    a)  höchstens drei Reihen Container laden kann und es vom Laderaumboden
+        aus nur mit einer Lage Containern beladen ist oder
 
 
-
+    b)  vier und mehr Reihen Container laden kann und es ausschließlich mit
+        Containern in höchstens zwei Lagen vom Laderaumboden aus beladen ist.
 
 
 
@@ -1714,19 +1727,20 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
 
 
 3.  Diese Voraussetzungen gelten als erfüllt, wenn das Fahrzeug mit einem
-    Schiffsattest nach der Rheinschiffsuntersuchungsordnung versehen ist,
-    Bau und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen
-    und Besatzung und Betrieb mit den Vorschriften der
+    Schiffsattest nach der Rheinschiffsuntersuchungsordnung im Sinne des §
+    1 Absatz 8 der Binnenschiffsuntersuchungsordnung in der jeweils
+    geltenden Fassung (Rheinschiffsuntersuchungsordnung) versehen ist, Bau
+    und Ausrüstung des Fahrzeugs den Angaben des Attestes entsprechen und
+    Besatzung und Betrieb mit den Vorschriften der
     Rheinschiffsuntersuchungsordnung übereinstimmen.
 
 
 4.  Unbeschadet der Nummer 3 müssen die unter Nummer 44 im Schiffsattest
     eingetragenen Einzelrettungsmittel für Fahrgäste in einer der
     Verteilung der Fahrgäste entsprechenden Anzahl für Erwachsene und für
-    Kinder an Bord vorhanden sein, wobei für Kinder bis zu 30 kg
-    Körpergewicht oder 6 Jahren Alter nur Feststoffwesten nach den in §
-    10\.05 Nr. 2 Rheinschiffsuntersuchungsordnung genannten Normen zulässig
-    sind.
+    Kinder an Bord vorhanden sein. Für Kinder bis zu 30 kg Körpergewicht
+    oder 6 Jahren Alter sind nur Feststoffwesten nach den in Artikel 13.08
+    Nummer 2 ES-TRIN genannten Normen zulässig.
 
 
 
@@ -1808,15 +1822,15 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
         Zeugnis des Schiffsführers die entsprechende Eintragung enthält,
 
 
-    i)  die Bescheinigung über Einbau und Funktion von Radaranlage und
-        Wendeanzeiger,
+    i)  die nach Artikel 7.06 Nummer 1 ES-TRIN erforderliche Bescheinigung
+        über Einbau und Funktion von Radaranlage und Wendeanzeiger,
 
 
-    k)  ein Sprechfunkzeugnis für die Bedienung von Schiffsfunkstellen gemäß
-        Anhang 5 der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
+    k)  ein Sprechfunkzeugnis für den Binnenschifffahrtsfunk gemäß Anhang 5
+        der Regionalen Vereinbarung über den Binnenschifffahrtsfunk,
 
 
-    l)  die Urkunde "Frequenzzuteilung",
+    l)  die Urkunde(n) „Frequenzzuteilung“ oder die „Zuteilungsurkunde“,
 
 
     m)  das Handbuch Binnenschiffahrtsfunk, Allgemeiner Teil und Regionaler
@@ -1859,17 +1873,17 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
 
 
     w)  auf der Strecke zwischen Basel und Mannheim für Fahrzeuge mit einer
-        Länge über 110 m: der in § 22a.05 Nr. 2 Buchstabe b
-        Rheinschiffsuntersuchungsordnung vorgeschriebene Nachweis.
+        Länge über 110 m der in Artikel 28.04 Nummer 2 Buchstabe c ES-TRIN
+        vorgeschriebene Nachweis,
 
 
-    x)  die nach § 8a.02 Nr. 3 Rheinschiffsuntersuchungsordnung erforderlichen
-        Kopien des Typgenehmigungsbogens und des Motorparameterprotokolls
-        aller Motoren,
+    x)  die nach § 8a.02 Nummer 3 Rheinschiffsuntersuchungsordnung
+        erforderlichen Kopien des Typgenehmigungsbogens und des
+        Motorparameterprotokolls aller Motoren,
 
 
-    y)  die Bescheinigung für die nach § 10.02 Nr. 2 Buchstabe a der
-        Rheinschiffsuntersuchungsordnung vorgeschriebenen Drahtseile.
+    y)  die Bescheinigung für die nach Artikel 13.02 Nummer 3 Buchstabe a ES-
+        TRIN vorgeschriebenen Drahtseile,
 
 
     ab) Bezugsnachweis für Gasöl nach Anlage 2 Teil A Artikel 3.04 Absatz 1
@@ -1891,23 +1905,23 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
     nicht mitgeführt werden auf Schubleichtern, auf denen eine Metalltafel
     nach folgendem Muster angebracht ist:
 
+    *        *   EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER:
+            ...................................-R
+
+
+    *        *   SCHIFFSATTEST:
+
+
+    *        *   - Nummer: ...................................................
+
+
+    *        *   - SUK: ......................................................
+
+
+    *        *   - Gültig bis: ...............................................
 
 
 
-*    *   EINHEITLICHE EUROPÄISCHE SCHIFFSNUMMER:
-        ...................................-R
-
-
-*    *   SCHIFFSATTEST:
-
-
-*    *   - Nummer: ...................................................
-
-
-*    *   - SUK: ......................................................
-
-
-*    *   - Gültig bis: ...............................................
 
 
 
@@ -1942,11 +1956,11 @@ Gegebenheiten der Wasserstraße und der Anlagen angepaßt sein.
     Metalltafel angebracht ist.
 
 
-3.  Auf Baustellenfahrzeugen nach der Rheinschiffsuntersuchungsordnung,
-    auf denen weder ein Steuerhaus noch eine Wohnung vorhanden ist,
-    brauchen die Schiffspapiere nach Nummer 1 Buchstabe a, e und f nicht
-    an Bord mitgeführt zu werden; diese müssen jedoch jederzeit im Bereich
-    der Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine
+3.  Auf Baustellenfahrzeugen nach Artikel 1.01 Nummer 1.24 ES-TRIN, auf
+    denen weder ein Steuerhaus noch eine Wohnung vorhanden ist, brauchen
+    die Schiffspapiere nach Nummer 1 Buchstabe a, e und f nicht an Bord
+    mitgeführt zu werden; diese müssen jedoch jederzeit im Bereich der
+    Baustelle verfügbar sein. Baustellenfahrzeuge müssen eine
     Bescheinigung der zuständigen Behörde über Dauer und örtliche
     Begrenzung der Baustelle, auf der das Fahrzeug eingesetzt werden darf,
     an Bord mitführen.
@@ -2356,18 +2370,18 @@ Kleinfahrzeuge, muß geeicht sein.
 #### § 2.04 Einsenkungsmarken und Tiefgangsanzeiger
 
 
-1.  An allen Fahrzeugen - mit Ausnahme der Kleinfahrzeuge - müssen Marken
+1.  An allen Fahrzeugen – mit Ausnahme der Kleinfahrzeuge – müssen Marken
     angebracht sein, welche die Ebene der größten Einsenkung anzeigen. Bei
-    Seeschiffen ersetzt die "Frischwassermarke im Sommer" die
+    Seeschiffen ersetzt die „Frischwassermarke im Sommer“ die
     Einsenkungsmarken. Die Einzelheiten über die Festsetzung der größten
     Einsenkung und die Grundsätze für die Anbringung der Einsenkungsmarken
-    sind in der Rheinschiffsuntersuchungsordnung enthalten.
+    sind in den Artikeln 4.04, 4.05 und 22.09 ES-TRIN geregelt.
 
 
-2.  An allen Fahrzeugen, deren Tiefgang 1,00 m erreichen kann - mit
-    Ausnahme der Kleinfahrzeuge - müssen Tiefgangsanzeiger angebracht
-    sein. Die Grundsätze für ihre Anbringung sind in der
-    Rheinschiffsuntersuchungsordnung enthalten.
+2.  An allen Fahrzeugen, deren Tiefgang 1 m erreichen kann – mit Ausnahme
+    der Kleinfahrzeuge –, müssen Tiefgangsanzeiger angebracht sein. Die
+    Grundsätze für ihre Anbringung sind in den Artikeln 4.06 und 22.09 ES-
+    TRIN geregelt.
 
 
 
@@ -2398,39 +2412,49 @@ Kleinfahrzeuge, muß geeicht sein.
 #### Abschnitt I. - Allgemeines
 
 
+Begriffsbestimmungen und Anwendungen
 
-##### § 3.01 Begriffsbestimmungen und Anwendungen (Anlage 3 Bild 1)
+##### § 3.01 (Anlage 3  Bild 1)
 
 
 1.  In diesem Kapitel gelten als
 
-    a)  "Topplicht" ein weißes starkes Licht, das über einen Horizontbogen von
-        225 Grad, und zwar von vorn bis beiderseits
-        22 Grad 30' hinter die Querlinie, und das nur in diesem Bogen sichtbar
-        ist;
+    *        *   a)
+
+        *   "Topplicht" ein weißes starkes Licht, das über einen Horizontbogen von
+            225 Grad, und zwar von vorn bis beiderseits 22 Grad 30' hinter die
+            Querlinie, und das nur in diesem Bogen sichtbar ist;
+
+        *            ![bgbl2_1994_j0016_ab_0010.jpg](bgbl2_1994_j0016_ab_0010.jpg)
+
+    *        *
+        *
+
+    *        *   b)
+
+        *   "Seitenlichter" an Steuerbord ein grünes helles Licht und an Backbord
+            ein rotes helles Licht, von denen jedes über einen Horizontbogen von
+            112 Grad 30', das heißt von vorn bis 22 Grad 30' hinter die Querlinie,
+            und nur in diesem Bogen sichtbar ist;
 
 
-    b)  "Seitenlichter" an Steuerbord ein grünes helles Licht und an Backbord
-        ein rotes helles Licht, von denen jedes über einen Horizontbogen von
-        112 Grad 30', das heißt von vorn bis
-        22 Grad 30' hinter die Querlinie, und nur in diesem Bogen sichtbar
-        ist;
+    *        *
+        *
+
+    *        *   c)
+
+        *   "Hecklicht" ein weißes gewöhnliches Licht oder ein weißes helles
+            Licht, das über einen Horizontbogen von 135 Grad, und zwar 67 Grad 30'
+            von hinten nach jeder Seite und nur in diesem Bogen sichtbar ist;
 
 
-    c)  "Hecklicht" ein weißes gewöhnliches Licht oder ein weißes helles
-        Licht, das über einen Horizontbogen von
-        135 Grad, und zwar
-        67 Grad 30' von hinten nach jeder Seite und nur in diesem Bogen
-        sichtbar ist;
+    *        *
+        *
 
+    *        *   d)
 
-    d)  "von allen Seiten sichtbares Licht" ein Licht, das über einen
-        Horizontbogen von
-        360 Grad sichtbar ist.
-
-        ... nicht darstellbares Bild 1
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 16
+        *   "von allen Seiten sichtbares Licht" ein Licht, das über einen
+            Horizontbogen von 360 Grad sichtbar ist.
 
 
 
@@ -2606,20 +2630,41 @@ Kleinfahrzeuge, muß geeicht sein.
 ##### Titel A. - Bezeichnung während der Fahrt
 
 
+Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb
 
-###### § 3.08 Bezeichnung einzeln fahrender Fahrzeuge mit Maschinenantrieb (Anlage 3: Bild 2, 3, 64)
+###### § 3.08 (Anlage 3: Bild 2, 3, 64)
 
 
-1.  Einzeln fahrende Fahrzeuge mit Maschinenantrieb müssen bei Nacht
-    führen:
+*    *   1.
 
-    a)  ein Topplicht, das auf dem vorderen Teil des Fahrzeugs mindestens 5,00
+    *   Einzeln fahrende Fahrzeuge mit Maschinenantrieb müssen bei Nacht
+        führen:
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *
+    *   a)
+
+    *   ein Topplicht, das auf dem vorderen Teil des Fahrzeugs mindestens 5,00
         m über der Ebene der Einsenkungsmarken gesetzt werden muß; diese Höhe
         darf bis auf 4,00 m verringert werden, wenn die Länge des Fahrzeugs
         40,00 m nicht überschreitet;
 
+    *        ![bgbl2_1994_j0018_ab_0010.jpg](bgbl2_1994_j0018_ab_0010.jpg)
 
-    b)  die Seitenlichter, die in gleicher Höhe und in einer Ebene senkrecht
+*    *
+    *
+    *
+
+*    *
+    *   b)
+
+    *   die Seitenlichter, die in gleicher Höhe und in einer Ebene senkrecht
         zur Längsebene des Fahrzeugs gesetzt werden müssen; sie müssen
         mindestens 1,00 m tiefer als das Topplicht und mindestens 1,00 m
         hinter diesem gesetzt und binnenbords derart abgeblendet werden, daß
@@ -2627,1275 +2672,1741 @@ Kleinfahrzeuge, muß geeicht sein.
         Steuerbord gesehen werden kann;
 
 
-    c)  ein Hecklicht auf dem Hinterschiff.
+*    *
+    *
+    *
 
-        ... nicht darstellbares Bild 2
+*    *
+    *   c)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 18
-
-
-
-
-
-2.  Einzeln fahrende Fahrzeuge mit Maschinenantrieb mit mehr als 110,00 m
-    Länge müssen bei Nacht außerdem ein zweites Topplicht führen, und zwar
-    auf dem Hinterschiff und in größerer Höhe als das vordere Licht.
-
-    ... nicht darstellbares Bild 3
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 18
+    *   ein Hecklicht auf dem Hinterschiff.
 
 
-3.  Schnelle Schiffe in Fahrt müssen bei Nacht und bei Tag außer der
-    anderen nach dieser Verordnung vorgeschriebenen Bezeichnung führen:
+*    *
+    *
+    *
+    *
 
-    zwei gelbe starke schnelle Funkellichter.
+*    *   2.
 
-    Diese Funkellichter müssen übereinander in einem Abstand von etwa 1 m
-    an einer geeigneten Stelle und so hoch geführt werden, dass sie von
-    allen Seiten sichtbar sind.
+    *   Einzeln fahrende Fahrzeuge mit Maschinenantrieb mit mehr als 110,00 m
+        Länge müssen bei Nacht außerdem ein zweites Topplicht führen, und zwar
+        auf dem Hinterschiff und in größerer Höhe als das vordere Licht.
 
+    *        ![bgbl2_1994_j0018_ab_0020.jpg](bgbl2_1994_j0018_ab_0020.jpg)
 
-4.  Nummer 1 und 2 gilt weder für Kleinfahrzeuge noch für Fähren. Für
-    Kleinfahrzeuge gilt § 3.13, für Fähren gilt § 3.16.
+*    *
+    *
+    *
+    *
 
+*    *   3.
 
+    *   Schnelle Schiffe in Fahrt müssen bei Nacht und bei Tag außer der
+        anderen nach dieser Verordnung vorgeschriebenen Bezeichnung führen:
 
+    *
 
+*    *
+    *   zwei gelbe starke schnelle Funkellichter.
 
-###### § 3.09 Bezeichnung der Schleppverbände in Fahrt (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
+    *
 
+*    *
+    *   Diese Funkellichter müssen übereinander in einem Abstand von etwa 1 m
+        an einer geeigneten Stelle und so hoch geführt werden, dass sie von
+        allen Seiten sichtbar sind.
 
-1.  An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
-    Maschinenantrieb führen:
+    *
 
-    -   bei Nacht:
+*    *   4.
 
-        a)  außer dem Topplicht und den Seitenlichtern nach § 3.08 Nr. 1 Buchstabe
-            a und b ein zweites Topplicht; dieses muß etwa 1,00 m unter dem ersten
-            Topplicht, jedoch nach Möglichkeit mindestens 1,00 m höher als die
-            Seitenlichter gesetzt werden;
+    *   Nummer 1 und 2 gilt weder für Kleinfahrzeuge noch für Fähren. Für
+        Kleinfahrzeuge gilt § 3.13, für Fähren gilt § 3.16.
 
-
-        b)  statt des Hecklichts nach § 3.08 Nr. 1 Buchstabe c ein gelbes
-            Hecklicht an geeigneter Stelle und in ausreichender Höhe, damit es von
-            dem nachfolgenden Anhang gesehen werden kann;
-
-            ... nicht darstellbares Bild 4
-
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 18
+    *
 
 
 
+   Bezeichnung der Schleppverbände in Fahrt
+
+###### § 3.09 (Anlage 3 Bild 4, 5, 6, 7, 8, 9, 10)
 
 
-    -   bei Tag:
+*    *   1.
 
-        einen gelben Zylinder, der oben und unten mit je einem schwarzen und
+    *   An der Spitze eines Schleppverbandes in Fahrt muß das Fahrzeug mit
+        Maschinenantrieb führen:
+
+    *
+
+*    *
+    *   - bei Nacht:
+
+    *
+
+*    *
+    *   a)
+
+    *   außer dem Topplicht und den Seitenlichtern nach § 3.08 Nr. 1 Buchstabe
+        a und b ein zweites Topplicht; dieses muß etwa 1,00 m unter dem ersten
+        Topplicht, jedoch nach Möglichkeit mindestens 1,00 m höher als die
+        Seitenlichter gesetzt werden;
+
+    *        ![bgbl2_1994_j0018_ab_0030.jpg](bgbl2_1994_j0018_ab_0030.jpg)
+
+*    *
+    *   b)
+
+    *   statt des Hecklichts nach § 3.08 Nr. 1 Buchstabe c ein gelbes
+        Hecklicht an geeigneter Stelle und in ausreichender Höhe, damit es von
+        dem nachfolgenden Anhang gesehen werden kann;
+
+
+*    *
+    *   - bei Tag:
+
+    *
+
+*    *
+    *   einen gelben Zylinder, der oben und unten mit je einem schwarzen und
         je einem weißen Streifen - letztere an den äußeren Enden - eingefaßt
         ist. Der Zylinder muß auf dem Vorschiff senkrecht und so hoch gesetzt
         werden, daß er von allen Seiten sichtbar ist.
 
-        ... nicht darstellbares Bild 4
+    *        ![bgbl2_1994_j0018_ab_0040.jpg](bgbl2_1994_j0018_ab_0040.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 18
+*    *
+    *
+    *
+    *
 
+*    *   2.
 
+    *   Hat ein Schleppverband an der Spitze mehrere Fahrzeuge mit
+        Maschinenantrieb, die nebeneinander fahren, sei es längsseits
+        gekuppelt oder nicht, muß jedes dieser Fahrzeuge führen:
 
+    *
 
+*    *
+    *   - bei Nacht:
 
-2.  Hat ein Schleppverband an der Spitze mehrere Fahrzeuge mit
-    Maschinenantrieb, die nebeneinander fahren, sei es längsseits
-    gekuppelt oder nicht, muß jedes dieser Fahrzeuge führen:
+    *
 
-    -   bei Nacht:
-
-        ein drittes Topplicht; dieses muß etwa 2,00 m unter dem ersten
+*    *
+    *   ein drittes Topplicht; dieses muß etwa 2,00 m unter dem ersten
         Topplicht, jedoch nach Möglichkeit mindestens 1,00 m höher als die
         Seitenlichter gesetzt werden;
 
-        ... nicht darstellbares Bild 5
+    *        ![bgbl2_1994_j0019_ab_0010.jpg](bgbl2_1994_j0019_ab_0010.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 19)
+*    *
+    *   - bei Tag:
 
+    *
 
-    -   bei Tag:
+*    *
+    *   den Zylinder nach Nummer 1.
 
-        den Zylinder nach Nummer 1.
+    *        ![bgbl2_1994_j0019_ab_0020.jpg](bgbl2_1994_j0019_ab_0020.jpg)
 
-        ... nicht darstellbares Bild 4
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 19)
-
-
-
-
-    Das gleiche gilt für alle Fahrzeuge mit Maschinenantrieb, die
-    gemeinsam ein Fahrzeug, einen Schwimmkörper oder eine schwimmende
-    Anlage bugsieren.
+*    *
+    *   Das gleiche gilt für alle Fahrzeuge mit Maschinenantrieb, die
+        gemeinsam ein Fahrzeug, einen Schwimmkörper oder eine schwimmende
+        Anlage bugsieren.
 
 
-3.  Die geschleppten Fahrzeuge eines Schleppverbandes in Fahrt müssen
-    führen:
+*    *
+    *
+    *
+    *
 
-    -   bei Nacht:
+*    *   3.
 
-        ein weißes helles, von allen Seiten sichtbares Licht, das mindestens
+    *   Die geschleppten Fahrzeuge eines Schleppverbandes in Fahrt müssen
+        führen:
+
+    *
+
+*    *
+    *   - bei Nacht:
+
+    *
+
+*    *
+    *   ein weißes helles, von allen Seiten sichtbares Licht, das mindestens
         5,00 m über der Ebene der Einsenkungsmarken gesetzt werden muß. Diese
         Höhe darf bis auf 4,00 m verringert werden, wenn die Länge des
         Fahrzeugs 40,00 m nicht überschreitet;
 
-        ... nicht darstellbares Bild 6
+    *        ![bgbl2_1994_j0019_ab_0030.jpg](bgbl2_1994_j0019_ab_0030.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 19)
+*    *
+    *   - bei Tag:
 
+    *
 
-    -   bei Tag:
-
-        einen gelben Ball an einer geeigneten Stelle und so hoch, daß er von
+*    *
+    *   einen gelben Ball an einer geeigneten Stelle und so hoch, daß er von
         allen Seiten sichtbar ist.
 
-        ... nicht darstellbares Bild 6
+    *        ![bgbl2_1994_j0019_ab_0040.jpg](bgbl2_1994_j0019_ab_0040.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 19)
+*    *
+    *   Wenn jedoch
 
+    *
 
+*    *
+    *   a)
 
-
-    Wenn jedoch
-
-    a)  eine Anhanglänge des Verbandes 110,00 m überschreitet, muß sie bei
+    *   eine Anhanglänge des Verbandes 110,00 m überschreitet, muß sie bei
         Nacht zwei Lichter nach Satz 1 führen, und zwar eines auf der vorderen
         und eines auf der hinteren Hälfte,
 
-        ... nicht darstellbares Bild 7
+    *        ![bgbl2_1994_j0020_ab_0010.jpg](bgbl2_1994_j0020_ab_0010.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 20)
+*    *
+    *   b)
 
-
-    b)  eine Anhanglänge des Verbandes aus mehr als zwei längsseits
+    *   eine Anhanglänge des Verbandes aus mehr als zwei längsseits
         verbundenen Fahrzeugen besteht, sind die Lichter oder die Bälle nach
         Satz 1 nur von den beiden äußeren Fahrzeugen zu führen.
 
-        ... nicht darstellbares Bild 8
+    *        ![bgbl2_1994_j0020_ab_0020.jpg](bgbl2_1994_j0020_ab_0020.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 20)
+*    *
+    *        ![bgbl2_1994_j0020_ab_0030.jpg](bgbl2_1994_j0020_ab_0030.jpg)
 
-        ... nicht darstellbares Bild 8
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 20)
-
-
-
-
-    Die Lichter und Bälle aller geschleppten Fahrzeuge eines Verbandes
-    sind so zu setzen, daß sie sich möglichst in gleicher Höhe über dem
-    Wasserspiegel befinden.
+*    *
+    *   Die Lichter und Bälle aller geschleppten Fahrzeuge eines Verbandes
+        sind so zu setzen, daß sie sich möglichst in gleicher Höhe über dem
+        Wasserspiegel befinden.
 
 
-4.  Das Fahrzeug oder die Fahrzeuge, die die letzte Anhanglänge eines
-    Schleppverbandes in Fahrt bilden, müssen bei Nacht führen:
+*    *
+    *
+    *
+    *
 
-    a)  das Licht nach Nummer 3 oder das Topplicht nach § 3.08 Nr. 1 Buchstabe
+*    *   4.
+
+    *   Das Fahrzeug oder die Fahrzeuge, die die letzte Anhanglänge eines
+        Schleppverbandes in Fahrt bilden, müssen bei Nacht führen:
+
+    *
+
+*    *
+    *   a)
+
+    *   das Licht nach Nummer 3 oder das Topplicht nach § 3.08 Nr. 1 Buchstabe
         a;
 
-        ... nicht darstellbares Bild 9
+    *        ![bgbl2_1994_j0020_ab_0040.jpg](bgbl2_1994_j0020_ab_0040.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 20)
+*    *
+    *   b)
 
-
-    b)  das Hecklicht nach § 3.08 Nr. 1 Buchstabe c. Bilden mehr als zwei
+    *   das Hecklicht nach § 3.08 Nr. 1 Buchstabe c. Bilden mehr als zwei
         längsseits verbundene Fahrzeuge den Schluß des Verbandes, brauchen nur
         die beiden äußeren Fahrzeuge dieses Hecklicht zu führen.
 
-        ... nicht darstellbares Bild 10
+    *        ![bgbl2_1994_j0020_ab_0050.jpg](bgbl2_1994_j0020_ab_0050.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 20)
+*    *
+    *
+    *
+    *
 
+*    *   5.
 
-
-
-
-5.  Auf den Reeden brauchen Schleppverbände, die aus einem Fahrzeug mit
-    Maschinenantrieb und einer einzigen Anhanglänge bestehen, die
-    Tagbezeichnung nach diesem Paragraphen nicht zu führen.
-
-
-6.  Dieser Paragraf gilt nicht für Kleinfahrzeuge, die ausschließlich
-    Kleinfahrzeuge schleppen, und nicht für geschleppte Kleinfahrzeuge;
-    für diese Kleinfahrzeuge gilt § 3.13 Nr. 2 und 3.
+    *   Auf den Reeden brauchen Schleppverbände, die aus einem Fahrzeug mit
+        Maschinenantrieb und einer einzigen Anhanglänge bestehen, die
+        Tagbezeichnung nach diesem Paragraphen nicht zu führen.
 
 
+*    *
+    *
+    *
+    *
 
+*    *   6.
 
-
-###### § 3.10 Bezeichnung der Schubverbände in Fahrt (Anlage 3 Bild 11, 12, 13, 14)
-
-
-1.  Schubverbände in Fahrt müssen bei Nacht führen:
-
-    a)  als Topplichter
-
-        I.  drei Topplichter auf dem Vorschiff des Fahrzeugs oder, bei mehreren
-            Fahrzeugen, auf dem Vorschiff des linken der Fahrzeuge an der Spitze
-            des Verbandes.
-
-            Diese Topplichter müssen in der Form eines gleichseitigen Dreiecks mit
-            waagerechter Grundlinie in einer Ebene senkrecht zur Längsebene des
-            Verbandes angeordnet sein.
-
-            Das oberste Topplicht muß mindestens 5,00 m über der Ebene der
-            Einsenkungsmarken gesetzt werden. Die beiden unteren Topplichter
-            müssen in einem Abstand von etwa 1,25 m voneinander und ungefähr 1,10
-            m unter dem obersten Topplicht gesetzt werden;
-
-            ... nicht darstellbares Bild 11
-
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 21
-
-
-        II. Ein Topplicht auf dem Vorschiff jedes anderen Fahrzeugs, dessen ganze
-            Breite von vorn sichtbar ist. Dieses Topplicht ist nach Möglichkeit
-            3,00 m tiefer als das oberste Topplicht nach Ziffer I hiervor zu
-            setzen.
+    *   Dieser Paragraf gilt nicht für Kleinfahrzeuge, die ausschließlich
+        Kleinfahrzeuge schleppen, und nicht für geschleppte Kleinfahrzeuge;
+        für diese Kleinfahrzeuge gilt § 3.13 Nr. 2 und 3.
 
 
 
 
-        Die Masten dieser Topplichter müssen in der Längsebene des Fahrzeugs
+Bezeichnung der Schubverbände in Fahrt
+
+###### § 3.10 (Anlage 3 Bild 11, 12, 13, 14)
+
+
+*    *   1.
+
+    *   Schubverbände in Fahrt müssen bei Nacht führen:
+
+
+*    *
+    *   a)
+
+    *   als Topplichter
+
+    *
+
+*    *
+    *
+    *   I.
+
+    *   drei Topplichter auf dem Vorschiff des Fahrzeugs oder, bei mehreren
+        Fahrzeugen, auf dem Vorschiff des linken der Fahrzeuge an der Spitze
+        des Verbandes.
+
+    *        ![bgbl2_1994_j0021_ab_0010.jpg](bgbl2_1994_j0021_ab_0010.jpg)
+
+*    *
+    *
+    *
+    *   Diese Topplichter müssen in der Form eines gleichseitigen Dreiecks mit
+        waagerechter Grundlinie in einer Ebene senkrecht zur Längsebene des
+        Verbandes angeordnet sein.
+
+
+*    *
+    *
+    *
+    *   Das oberste Topplicht muß mindestens 5,00 m über der Ebene der
+        Einsenkungsmarken gesetzt werden. Die beiden unteren Topplichter
+        müssen in einem Abstand von etwa 1,25 m voneinander und ungefähr 1,10
+        m unter dem obersten Topplicht gesetzt werden;
+
+
+*    *
+    *
+    *   II.
+
+    *   Ein Topplicht auf dem Vorschiff jedes anderen Fahrzeugs, dessen ganze
+        Breite von vorn sichtbar ist. Dieses Topplicht ist nach Möglichkeit
+        3,00 m tiefer als das oberste Topplicht nach Ziffer I hiervor zu
+        setzen.
+
+
+*    *
+    *
+    *   Die Masten dieser Topplichter müssen in der Längsebene des Fahrzeugs
         stehen, auf dem sie geführt werden;
 
 
-    b)  als Seitenlichter
+*    *
+    *   b)
 
-        auf dem breitesten Teil des Verbandes, höchstens 1,00 m von dessen
+    *   als Seitenlichter
+
+    *
+
+*    *
+    *
+    *   auf dem breitesten Teil des Verbandes, höchstens 1,00 m von dessen
         Außenseiten entfernt, möglichst nahe beim schiebenden Fahrzeug und
         mindestens 2,00 m über dem Wasserspiegel;
 
 
-    c)  als Hecklichter
+*    *
+    *   c)
 
-        I.  drei Hecklichter auf dem Hinterschiff des schiebenden Fahrzeugs in
-            einer waagerechten Linie senkrecht zur Längsebene mit einem seitlichen
-            Abstand von etwa 1,25 m und in ausreichender Höhe, so daß sie nicht
-            durch eines der anderen Fahrzeuge des Verbandes verdeckt werden
-            können;
+    *   als Hecklichter
 
+    *
 
-        II. ein Hecklicht auf dem Hinterschiff eines jeden anderen Fahrzeugs,
-            dessen ganze Breite von hinten sichtbar ist. Befinden sich in dem
-            Verband außer dem schiebenden Fahrzeug mehr als zwei von hinten
-            sichtbare Fahrzeuge, ist dieses Hecklicht nur von den beiden äußeren
-            Fahrzeugen zu führen.
+*    *
+    *
+    *   I.
 
-            ... nicht darstellbares Bild 12
+    *   drei Hecklichter auf dem Hinterschiff des schiebenden Fahrzeugs in
+        einer waagerechten Linie senkrecht zur Längsebene mit einem seitlichen
+        Abstand von etwa 1,25 m und in ausreichender Höhe, so daß sie nicht
+        durch eines der anderen Fahrzeuge des Verbandes verdeckt werden
+        können;
 
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 21
+    *        ![bgbl2_1994_j0021_ab_0020.jpg](bgbl2_1994_j0021_ab_0020.jpg)
 
+*    *
+    *
+    *   II.
 
-
-
-
-
-
-
-2.  Schubverbände, die durch zwei schiebende Fahrzeuge nebeneinander
-    fortbewegt werden, müssen bei Nacht Hecklichter nach Nummer 1
-    Buchstabe c Ziffer I auf dem steuerbordseitigen schiebenden Fahrzeug
-    führen; das andere schiebende Fahrzeug muß das Hecklicht nach Nummer 1
-    Buchstabe c Ziffer II führen.
-
-    ... nicht darstellbares Bild 13
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 21
+    *   ein Hecklicht auf dem Hinterschiff eines jeden anderen Fahrzeugs,
+        dessen ganze Breite von hinten sichtbar ist. Befinden sich in dem
+        Verband außer dem schiebenden Fahrzeug mehr als zwei von hinten
+        sichtbare Fahrzeuge, ist dieses Hecklicht nur von den beiden äußeren
+        Fahrzeugen zu führen.
 
 
-3.  Nummer 1 gilt auch für Schubverbände, wenn sie bei Nacht geschleppt
-    werden; jedoch müssen die drei Hecklichter nach Nummer 1 Buchstabe c
-    Ziffer I gelb sein.
+*    *   2.
 
-    ... nicht darstellbares Bild 14
+    *   Schubverbände, die durch zwei schiebende Fahrzeuge nebeneinander
+        fortbewegt werden, müssen bei Nacht Hecklichter nach Nummer 1
+        Buchstabe c Ziffer I auf dem steuerbordseitigen schiebenden Fahrzeug
+        führen; das andere schiebende Fahrzeug muß das Hecklicht nach Nummer 1
+        Buchstabe c Ziffer II führen.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 22)
+    *        ![bgbl2_1994_j0021_ab_0030.jpg](bgbl2_1994_j0021_ab_0030.jpg)
+
+*    *   3.
+
+    *   Nummer 1 gilt auch für Schubverbände, wenn sie bei Nacht geschleppt
+        werden; jedoch müssen die drei Hecklichter nach Nummer 1 Buchstabe c
+        Ziffer I gelb sein.
+
+    *        ![bgbl2_1994_j0022_ab_0010.jpg](bgbl2_1994_j0022_ab_0010.jpg)
+
+*    *   4.
+
+    *   Wird ein Schubverband bei Tag geschleppt, muß das schiebende Fahrzeug
+        führen:
+
+    *
+
+*    *
+    *   einen gelben Ball an einer geeigneten Stelle und so hoch, daß er von
+        allen Seiten sichtbar ist.
+
+    *        ![bgbl2_1994_j0022_ab_0020.jpg](bgbl2_1994_j0022_ab_0020.jpg)
 
 
-4.  Wird ein Schubverband bei Tag geschleppt, muß das schiebende Fahrzeug
-    führen:
 
-    einen gelben Ball an einer geeigneten Stelle und so hoch, daß er von
-    allen Seiten sichtbar ist.
+   Bezeichnung gekuppelter Fahrzeuge in Fahrt
 
-    ... nicht darstellbares Bild 14
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 22)
+###### § 3.11 (Anlage 3  Bild 15, 16)
 
 
+*    *   1.
 
+    *   Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
 
+    *
 
-###### § 3.11 Bezeichnung gekuppelter Fahrzeuge in Fahrt (Anlage 3 Bild 15, 16)
+*    *
+    *   a)
 
-
-1.  Gekuppelte Fahrzeuge in Fahrt müssen bei Nacht führen:
-
-    a)  auf jedem Fahrzeug das Topplicht nach § 3.08 Nr. 1 Buchstabe a; auf
+    *   auf jedem Fahrzeug das Topplicht nach § 3.08 Nr. 1 Buchstabe a; auf
         Fahrzeugen ohne Maschinenantrieb kann dieses Topplicht jedoch an einer
         geeigneten Stelle und nicht höher als das Topplicht des Fahrzeugs oder
         der Fahrzeuge mit Maschinenantrieb durch das Licht nach § 3.09 Nr. 3
         ersetzt werden;
 
-        ... nicht darstellbares Bild 15
+    *        ![bgbl2_1994_j0022_ab_0030.jpg](bgbl2_1994_j0022_ab_0030.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 22
+*    *
+    *   b)
 
-
-    b)  die Seitenlichter nach § 3.08 Nr. 1 Buchstabe b; diese Lichter müssen
+    *   die Seitenlichter nach § 3.08 Nr. 1 Buchstabe b; diese Lichter müssen
         an der Außenseite der äußere Fahrzeuge gesetzt werden, und zwar
         möglichst in gleicher Höhe und mindestens 1,00 m tiefer als das
         niedrigste Topplicht;
 
-        ... nicht darstellbares Bild 16
+    *        ![bgbl2_1994_j0022_ab_0040.jpg](bgbl2_1994_j0022_ab_0040.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 22
+*    *
+    *   c)
+
+    *   auf jedem Fahrzeug ein Hecklicht auf dem Hinterschiff.
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Dieser Paragraph ist weder auf Kleinfahrzeuge, die nur Kleinfahrzeuge
+        längsseits gekuppelt führen, noch auf längsseits gekuppelte
+        Kleinfahrzeuge anzuwenden; für diese Kleinfahrzeuge gilt § 3.13 Nr. 2
+        und 3.
+
+    *
 
 
-    c)  auf jedem Fahrzeug ein Hecklicht auf dem Hinterschiff.
+
+   Bezeichnung der Fahrzeuge unter Segel in Fahrt
+
+###### § 3.12 (Anlage 3  Bild 17)
 
 
+*    *   1.
 
+    *   Fahrzeuge unter Segel in Fahrt müssen bei Nacht führen:
 
+    *
 
-2.  Dieser Paragraph ist weder auf Kleinfahrzeuge, die nur Kleinfahrzeuge
-    längsseits gekuppelt führen, noch auf längsseits gekuppelte
-    Kleinfahrzeuge anzuwenden; für diese Kleinfahrzeuge gilt § 3.13 Nr. 2
-    und 3.
+*    *
+    *   a)
 
-
-
-
-
-###### § 3.12 Bezeichnung der Fahrzeuge unter Segel in Fahrt (Anlage 3 Bild 17)
-
-
-1.  Fahrzeuge unter Segel in Fahrt müssen bei Nacht führen:
-
-    a)  die Seitenlichter nach § 3.08 Nr. 1 Buchstabe b, jedoch können diese
+    *   die Seitenlichter nach § 3.08 Nr. 1 Buchstabe b, jedoch können diese
         gewöhnliche Lichter sein;
 
-        ... nicht darstellbares Bild 17
+    *        ![bgbl2_1994_j0023_ab_0010.jpg](bgbl2_1994_j0023_ab_0010.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 23
+*    *
+    *   b)
+
+    *   ein Hecklicht auf dem Hinterschiff.
+
+    *
+
+*    *
+    *
+    *
+    *
+
+*    *   2.
+
+    *   Dieser Paragraph gilt nicht für Kleinfahrzeuge; für diese gilt § 3.13
+        Nr. 1, 4 und 6.
+
+    *
 
 
-    b)  ein Hecklicht auf dem Hinterschiff.
+
+   Bezeichnung der Kleinfahrzeuge in Fahrt
+
+###### § 3.13 (Anlage 3  Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
 
 
+*    *   1.
 
+    *   Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
+        führen:
 
+    *
 
-2.  Dieser Paragraph gilt nicht für Kleinfahrzeuge; für diese gilt § 3.13
-    Nr. 1, 4 und 6.
+*    *
+    *   a)
 
-
-
-
-
-###### § 3.13 Bezeichnung der Kleinfahrzeuge in Fahrt (Anlage 3 Bild 18, 19, 20, 21, 22, 23, 24, 25, 26)
-
-
-1.  Einzeln fahrende Kleinfahrzeuge mit Maschinenantrieb müssen bei Nacht
-    führen:
-
-    entweder
-
-    a)  ein Topplicht, jedoch hell statt stark, in gleicher Höhe wie die
+    *   ein Topplicht, jedoch hell statt stark, in gleicher Höhe wie die
         Seitenlichter und mindestens 1,00 m vor diesen;
 
+    *        ![bgbl2_1994_j0023_ab_0020.jpg](bgbl2_1994_j0023_ab_0020.jpg)
 
-    b)  Seitenlichter, die gewöhnliche Lichter sein dürfen. Sie müssen in
+*    *
+    *   b)
+
+    *   Seitenlichter, die gewöhnliche Lichter sein dürfen. Sie müssen in
         gleicher Höhe und in einer Ebene senkrecht zur Längsachse des
         Fahrzeugs gesetzt sein und innenbords derart abgeblendet sein, daß das
         grüne Licht nicht von Backbord, das rote Licht nicht von Steuerbord
         gesehen werden kann;
 
 
-    c)  ein Hecklicht
+*    *
+    *   c)
 
-        ... nicht darstellbares Bild 18
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 23
-
+    *   ein Hecklicht
 
 
+*    *
+    *   oder
 
-    oder
+    *
 
-    d)  das Topplicht nach Buchstabe a; dieses Licht muß jedoch mindestens
+*    *
+    *   d)
+
+    *   das Topplicht nach Buchstabe a; dieses Licht muß jedoch mindestens
         1,00 m höher als die Seitenlichter gesetzt sein;
 
+    *        ![bgbl2_1994_j0023_ab_0030.jpg](bgbl2_1994_j0023_ab_0030.jpg)
 
-    e)  die Seitenlichter nach Buchstabe b; diese Lichter können jedoch
+*    *
+    *   e)
+
+    *   die Seitenlichter nach Buchstabe b; diese Lichter können jedoch
         unmittelbar nebeneinander oder in einer einzigen Laterne am oder nahe
         am Bug in der Schiffsachse gesetzt sein;
 
-        ... nicht darstellbares Bild 19
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 23
+*    *
+    *   f)
 
-
-    f)  ein Hecklicht; dieses Licht darf unter der Voraussetzung entfallen,
+    *   ein Hecklicht; dieses Licht darf unter der Voraussetzung entfallen,
         daß anstelle des Topplichtes nach Buchstabe d ein von allen Seiten
         sichtbares weißes helles Licht geführt wird.
 
-        ... nicht darstellbares Bild 20
+    *        ![bgbl2_1994_j0023_ab_0040.jpg](bgbl2_1994_j0023_ab_0040.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 23
+*    *   2.
 
+    *   Schleppt ein Kleinfahrzeug ausschließlich Kleinfahrzeuge oder führt es
+        nur solche längsseits gekuppelt, muß es bei Nacht die Lichter nach
+        Nummer 1 führen.
 
 
+*    *   3.
 
+    *   Geschleppte oder längsseits gekuppelte Kleinfahrzeuge müssen bei Nacht
+        ein von allen Seiten sichtbares weißes gewöhnliches Licht führen. Dies
+        gilt nicht für die Beiboote der Fahrzeuge.
 
-2.  Schleppt ein Kleinfahrzeug ausschließlich Kleinfahrzeuge oder führt es
-    nur solche längsseits gekuppelt, muß es bei Nacht die Lichter nach
-    Nummer 1 führen.
+    *        ![bgbl2_1994_j0024_ab_0010.jpg](bgbl2_1994_j0024_ab_0010.jpg)
 
+*    *   4.
 
-3.  Geschleppte oder längsseits gekuppelte Kleinfahrzeuge müssen bei Nacht
-    ein von allen Seiten sichtbares weißes gewöhnliches Licht führen. Dies
-    gilt nicht für die Beiboote der Fahrzeuge.
+    *   Einzeln fahrende Kleinfahrzeuge unter Segel müssen bei Nacht führen:
 
-    ... nicht darstellbares Bild 21
+    *        ![bgbl2_1994_j0024_ab_0020.jpg](bgbl2_1994_j0024_ab_0020.jpg)
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
+*    *
+    *   entweder die Seitenlichter nach Nummer 1 Buchstabe b oder e und ein
+        Hecklicht
 
 
-4.  Einzeln fahrende Kleinfahrzeuge unter Segel müssen bei Nacht führen:
+*    *
+    *   oder diese Seitenlichter und das Hecklicht in einer einzigen Laterne
+        am Topp
 
-    entweder die Seitenlichter nach Nummer 1 Buchstabe b oder e und ein
-    Hecklicht
+    *        ![bgbl2_1994_j0024_ab_0030.jpg](bgbl2_1994_j0024_ab_0030.jpg)
 
-    ... nicht darstellbares Bild 22
+*    *
+    *   oder ein von allen Seiten sichtbares weißes gewöhnliches Licht und bei
+        der Annäherung anderer Fahrzeuge außerdem ein zweites weißes
+        gewöhnliches Licht zeigen.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
+    *        ![bgbl2_1994_j0024_ab_0040.jpg](bgbl2_1994_j0024_ab_0040.jpg)
 
-    oder diese Seitenlichter und das Hecklicht in einer einzigen Laterne
-    am Topp
+*    *   5.
 
-    ... nicht darstellbares Bild 23
+    *   Einzeln weder mit Maschinenantrieb noch unter Segel fahrende
+        Kleinfahrzeuge müssen bei Nacht ein von allen Seiten sichtbares weißes
+        gewöhnliches Licht führen. Beiboote, auf die die gleichen
+        Voraussetzungen zutreffen, brauchen dieses Licht jedoch nur bei der
+        Annäherung anderer Fahrzeuge zu zeigen.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
+    *        ![bgbl2_1994_j0024_ab_0050.jpg](bgbl2_1994_j0024_ab_0050.jpg)
 
-    oder ein von allen Seiten sichtbares weißes gewöhnliches Licht und bei
-    der Annäherung anderer Fahrzeuge außerdem ein zweites weißes
-    gewöhnliches Licht zeigen.
+*    *   6.
 
-    ... nicht darstellbares Bild 24
+    *   Ein Kleinfahrzeug unter Segel, das gleichzeitig mit einer
+        Antriebsmaschine fährt, muß bei Tag führen:
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
+    *        ![bgbl2_1994_j0024_ab_0060.jpg](bgbl2_1994_j0024_ab_0060.jpg)
 
+*    *
+    *   einen schwarzen Kegel mit der Spitze nach unten, so hoch wie möglich
+        an einer Stelle, an der er am besten sichtbar ist.
 
-5.  Einzeln weder mit Maschinenantrieb noch unter Segel fahrende
-    Kleinfahrzeuge müssen bei Nacht ein von allen Seiten sichtbares weißes
-    gewöhnliches Licht führen. Beiboote, auf die die gleichen
-    Voraussetzungen zutreffen, brauchen dieses Licht jedoch nur bei der
-    Annäherung anderer Fahrzeuge zu zeigen.
 
-    ... nicht darstellbares Bild 25
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung
+bestimmter gefährlicher Güter
 
-6.  Ein Kleinfahrzeug unter Segel, das gleichzeitig mit einer
-    Antriebsmaschine fährt, muß bei Tag führen:
+###### § 3.14 (Anlage 3  Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
 
-    einen schwarzen Kegel mit der Spitze nach unten, so hoch wie möglich
-    an einer Stelle, an der er am besten sichtbar ist.
 
-    ... nicht darstellbares Bild 26
+*    *   1.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 24)
+    *   Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADNR
+        befördern, müssen außer der anderen nach dieser Verordnung
+        vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
+        7\.1.5.0 oder 7.2.5.0 führen:
 
 
+*    *
+    *   -
 
+    *   bei Nacht:
 
+    *
 
-###### § 3.14 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 27a, 27b, 28a, 28b, 29, 30, 31, 32)
+*    *
+    *
+    *   ein blaues Licht;
 
 
-1.  Fahrzeuge in Fahrt, die bestimmte entzündbare Stoffe nach ADNR
-    befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+*    *
+    *   -
 
-    -   bei Nacht:
+    *   bei Tag:
 
-        ein blaues Licht;
+    *
 
+*    *
+    *
+    *   einen blauen Kegel mit der Spitze nach unten.
 
-    -   bei Tag:
 
-        einen blauen Kegel mit der Spitze nach unten.
+*    *
+    *   Dieses Zeichen muss an einer geeigneten Stelle und so hoch geführt
+        werden, dass sie von allen Seiten sichtbar ist; anstelle des blauen
+        Kegels kann auch je ein blauer Kegel auf dem Vor- und Hinterschiff in
+        einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
+        geführt werden.
 
 
+*    *   2.
 
+    *   Fahrzeuge in Fahrt, die bestimmte gesundheitsschädliche Stoffe nach
+        ADNR befördern, müssen außer der anderen nach dieser Verordnung
+        vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
+        7\.1.5.0 oder 7.2.5.0 führen:
 
-    Dieses Zeichen muss an einer geeigneten Stelle und so hoch geführt
-    werden, dass sie von allen Seiten sichtbar ist; anstelle des blauen
-    Kegels kann auch je ein blauer Kegel auf dem Vor- und Hinterschiff in
-    einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
-    geführt werden.
 
+*    *
+    *   -
 
-2.  Fahrzeuge in Fahrt, die bestimmte gesundheitsschädliche Stoffe nach
-    ADNR befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+    *   bei Nacht:
 
-    -   bei Nacht:
+    *
 
-        zwei blaue Lichter;
+*    *
+    *
+    *   zwei blaue Lichter;
 
 
-    -   bei Tag:
+*    *
+    *   -
 
-        zwei blaue Kegel mit der Spitze nach unten.
+    *   bei Tag:
 
+    *
 
+*    *
+    *
+    *   zwei blaue Kegel mit der Spitze nach unten.
 
 
-    Diese Zeichen müssen übereinander in einem Abstand von etwa 1 m an
-    einer geeigneten Stelle und so hoch geführt werden, dass sie von allen
-    Seiten sichtbar sind; anstelle der zwei blauen Kegel können auch je 2
-    blaue Kegel auf dem Vor- und Hinterschiff, von denen der untere in
-    einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
-    angebracht ist, geführt werden.
+*    *
+    *   Diese Zeichen müssen übereinander in einem Abstand von etwa 1 m an
+        einer geeigneten Stelle und so hoch geführt werden, dass sie von allen
+        Seiten sichtbar sind; anstelle der zwei blauen Kegel können auch je 2
+        blaue Kegel auf dem Vor- und Hinterschiff, von denen der untere in
+        einer Höhe von mindestens 3 m über der Ebene der Einsenkungsmarken
+        angebracht ist, geführt werden.
 
 
-3.  Fahrzeuge in Fahrt, die bestimmte explosive Stoffe nach ADNR
-    befördern, müssen außer der anderen nach dieser Verordnung
-    vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
-    7\.1.5.0 oder 7.2.5.0 führen:
+*    *   3.
 
-    -   bei Nacht:
+    *   Fahrzeuge in Fahrt, die bestimmte explosive Stoffe nach ADNR
+        befördern, müssen außer der anderen nach dieser Verordnung
+        vorgeschriebenen Bezeichnung folgende Bezeichnung nach ADNR Nr.
+        7\.1.5.0 oder 7.2.5.0 führen:
 
-        drei blaue Lichter;
 
+*    *
+    *   -
 
-    -   bei Tag:
+    *   bei Nacht:
 
-        drei blaue Kegel mit der Spitze nach unten.
+    *
 
+*    *
+    *
+    *   drei blaue Lichter;
 
 
+*    *
+    *   -
 
-    Diese Zeichen müssen übereinander in einem Abstand von jeweils etwa 1
-    m an einer geeigneten Stelle und so hoch geführt werden, dass sie von
-    allen Seiten sichtbar sind.
+    *   bei Tag:
 
+    *
 
-4.  Fährt oder fahren in einem Schubverband oder in einer Zusammenstellung
-    gekuppelter Fahrzeuge ein Fahrzeug oder mehrere Fahrzeuge nach Nummer
-    1, 2 oder 3, muß die Bezeichnung nach Nummer 1, 2 oder 3 auf dem
-    Fahrzeug geführt werden, das den Verband oder die Zusammenstellung
-    fortbewegt.
+*    *
+    *
+    *   drei blaue Kegel mit der Spitze nach unten.
 
-    ... nicht darstellbare Bilder 30 und 31 (je 2 Bilder)
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 26
+*    *
+    *   Diese Zeichen müssen übereinander in einem Abstand von jeweils etwa 1
+        m an einer geeigneten Stelle und so hoch geführt werden, dass sie von
+        allen Seiten sichtbar sind.
 
 
-5.  Schubverbände, die durch zwei schiebende Fahrzeuge nebeneinander
-    fortbewegt werden, müssen die Bezeichnung nach Nummer 4 auf dem
-    steuerbordseitigen, schiebenden Fahrzeug führen.
+*    *   4.
 
-    ... nicht darstellbare 2 Bilder 32
+    *   Fährt oder fahren in einem Schubverband oder in einer Zusammenstellung
+        gekuppelter Fahrzeuge ein Fahrzeug oder mehrere Fahrzeuge nach Nummer
+        1, 2 oder 3, muß die Bezeichnung nach Nummer 1, 2 oder 3 auf dem
+        Fahrzeug geführt werden, das den Verband oder die Zusammenstellung
+        fortbewegt.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 27)
 
+*    *
+    *
+    *        ![bgbl2_1994_j0026_ab_0040.jpg](bgbl2_1994_j0026_ab_0040.jpg)
+    *        ![bgbl2_1994_j0026_ab_0050.jpg](bgbl2_1994_j0026_ab_0050.jpg)
 
-6.  Fahrzeuge, Schubverbände und gekuppelte Fahrzeuge, die verschiedene
-    gefährliche Güter nach Nummer 1, 2 oder 3 zusammen befördern, führen
-    die Bezeichnung für das gefährliche Gut, das die größte Anzahl der
-    blauen Lichter oder blauen Kegel erfordert.
+*    *
+    *
+    *        ![bgbl2_1994_j0026_ab_0060.jpg](bgbl2_1994_j0026_ab_0060.jpg)
+    *        ![bgbl2_1994_j0026_ab_0070.jpg](bgbl2_1994_j0026_ab_0070.jpg)
 
+*    *   5.
 
-7.  Fahrzeuge, die keine Bezeichnung nach Nummer 1, 2 oder 3 führen
-    müssen, jedoch nach ADNR Nr. 8.1.8 ein Zulassungszeugnis besitzen und
-    die Sicherheitsbestimmungen einhalten, die für ein Fahrzeug nach
-    Nummer 1 gelten, können bei der Annäherung an Schleusen die
-    Bezeichnung nach Nummer 1 führen, wenn sie zusammen mit einem Fahrzeug
-    geschleust werden wollen, das die Bezeichnung nach Nummer 1 führen
-    muss.
+    *   Schubverbände, die durch zwei schiebende Fahrzeuge nebeneinander
+        fortbewegt werden, müssen die Bezeichnung nach Nummer 4 auf dem
+        steuerbordseitigen, schiebenden Fahrzeug führen.
 
 
-8.  Die Lichtstärke der in diesem Paragraphen vorgeschriebenen blauen
-    Lichter muß mindestens derjenigen der gewöhnlichen blauen Lichter
-    entsprechen.
+*    *
+    *
+    *        ![bgbl2_1994_j0027_ab_0010.jpg](bgbl2_1994_j0027_ab_0010.jpg)
+    *        ![bgbl2_1994_j0027_ab_0020.jpg](bgbl2_1994_j0027_ab_0020.jpg)
 
+*    *   6.
 
+    *   Fahrzeuge, Schubverbände und gekuppelte Fahrzeuge, die verschiedene
+        gefährliche Güter nach Nummer 1, 2 oder 3 zusammen befördern, führen
+        die Bezeichnung für das gefährliche Gut, das die größte Anzahl der
+        blauen Lichter oder blauen Kegel erfordert.
 
 
+*    *   7.
 
-###### § 3.15 Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als 12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m aufweist (Anlage 3 Bild 33)
+    *   Fahrzeuge, die keine Bezeichnung nach Nummer 1, 2 oder 3 führen
+        müssen, jedoch nach ADNR Nr. 8.1.8 ein Zulassungszeugnis besitzen und
+        die Sicherheitsbestimmungen einhalten, die für ein Fahrzeug nach
+        Nummer 1 gelten, können bei der Annäherung an Schleusen die
+        Bezeichnung nach Nummer 1 führen, wenn sie zusammen mit einem Fahrzeug
+        geschleust werden wollen, das die Bezeichnung nach Nummer 1 führen
+        muss.
 
-Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
-sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m
-aufweist, müssen in Fahrt bei Tag führen:
-einen gelben Doppelkegel an einer geeigneten Stelle und so hoch, daß
-er von allen Seiten sichtbar ist.
-... nicht darstellbares Bild 33
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 27
 
+*    *   8.
 
-###### § 3.16 Bezeichnung der Fähren in Fahrt (Anlage 3 Bild 34, 35, 36)
+    *   Die Lichtstärke der in diesem Paragraphen vorgeschriebenen blauen
+        Lichter muß mindestens derjenigen der gewöhnlichen blauen Lichter
+        entsprechen.
 
 
-1.  Nicht frei fahrende Fähren in Fahrt müssen bei Nacht führen:
 
-    a)  ein von allen Seiten sichtbares weißes helles Licht mindestens 5,00 m
+
+Bezeichnungen der Fahrzeuge in Fahrt, die zur Beförderung von mehr als
+12 Fahrgästen zugelassen sind und deren Schiffskörper eine Höchstlänge
+von weniger als 20,00 m aufweist
+
+###### § 3.15 (Anlage 3  Bild 33)
+
+
+*    *   Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
+        sind und deren Schiffskörper eine Höchstlänge von weniger als 20,00 m
+        aufweist, müssen in Fahrt bei Tag führen:
+
+
+*    *   einen gelben Doppelkegel an einer geeigneten Stelle und so hoch, daß
+        er von allen Seiten sichtbar ist.
+
+    *        ![bgbl2_1994_j0027_ab_0030.jpg](bgbl2_1994_j0027_ab_0030.jpg)
+
+
+   Bezeichnung der Fähren in Fahrt
+
+###### § 3.16 (Anlage 3  Bild 34, 35, 36)
+
+
+*    *   1.
+
+    *   Nicht frei fahrende Fähren in Fahrt müssen bei Nacht führen:
+
+    *
+
+*    *
+    *   a)
+
+    *   ein von allen Seiten sichtbares weißes helles Licht mindestens 5,00 m
         über der Ebene der Einsenkungsmarken; die Höhe darf jedoch verringert
         werden, wenn die Länge der Fähre 15,00 m nicht überschreitet;
 
+    *        ![bgbl2_1994_j0027_ab_0040.jpg](bgbl2_1994_j0027_ab_0040.jpg)
 
-    b)  ein von allen Seiten sichtbares grünes helles Licht etwa 1,00 m über
+*    *
+    *   b)
+
+    *   ein von allen Seiten sichtbares grünes helles Licht etwa 1,00 m über
         dem Licht nach Buchstabe a.
 
-        ... nicht darstellbares Bild 34
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 27
+*    *   2.
 
+    *   Bei Gierfähren am Längsseil in Fahrt muß bei Nacht der oberste
+        Buchtnachen oder Döpper mit einem weißen hellen Licht mindestens 3,00
+        m über dem Wasser versehen sein.
 
+    *        ![bgbl2_1994_j0028_ab_0010.jpg](bgbl2_1994_j0028_ab_0010.jpg)
 
+*    *   3.
 
+    *   Frei fahrende Fähren in Fahrt müssen bei Nacht führen:
 
-2.  Bei Gierfähren am Längsseil in Fahrt muß bei Nacht der oberste
-    Buchtnachen oder Döpper mit einem weißen hellen Licht mindestens 3,00
-    m über dem Wasser versehen sein.
+    *
 
-    ... nicht darstellbares Bild 35
+*    *
+    *   a)
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 28)
+    *   die Lichter nach Nummer 1;
 
+    *        ![bgbl2_1994_j0028_ab_0020.jpg](bgbl2_1994_j0028_ab_0020.jpg)
 
-3.  Frei fahrende Fähren in Fahrt müssen bei Nacht führen:
+*    *
+    *   b)
 
-    a)  die Lichter nach Nummer 1;
-
-
-    b)  die Lichter nach § 3.08 Nr. 1 Buchstabe b und c.
-
-        ... nicht darstellbares Bild 36
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 28)
-
+    *   die Lichter nach § 3.08 Nr. 1 Buchstabe b und c.
 
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang
+besitzen
+
+###### § 3.17 (Anlage 3: Bild 37)
+
+
+*    *   Fahrzeuge, denen die zuständige Behörde zur Durchfahrt durch Stellen,
+        an denen eine bestimmte Reihenfolge gilt, einen Vorrang eingeräumt
+        hat, müssen in Fahrt außer der anderen nach dieser Verordnung
+        vorgeschriebenen Bezeichnung bei Tag führen:
+
+
+*    *   einen roten Wimpel auf dem Vorschiff und so hoch, dass er gut sichtbar
+        ist.
+
+    *        ![bgbl2_1994_j0028_ab_0030.jpg](bgbl2_1994_j0028_ab_0030.jpg)
+
+
+   Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt
+
+###### § 3.18 (Anlage 3: Bild 38)
+
+
+*    *   Ein manövrierunfähiges Fahrzeug in Fahrt muss erforderlichenfalls
+        außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
+
+
+*    *
+    *   -
+
+    *   bei Nacht:
+
+    *
+
+*    *
+    *
+    *   ein rotes Licht zeigen, das geschwenkt wird;
+
+    *        ![bgbl2_1994_j0028_ab_0040.jpg](bgbl2_1994_j0028_ab_0040.jpg)
+
+*    *
+    *   -
+
+    *   bei Tag:
+
+    *        ![bgbl2_1994_j0029_ab_0010.jpg](bgbl2_1994_j0029_ab_0010.jpg)
+
+*    *
+    *
+    *   eine rote Flagge zeigen, die geschwenkt wird,
+
+    *
+
+*    *
+    *   oder
+
+    *
+
+*    *
+    *   das vorgeschriebene Schallzeichen geben
+
+    *
+
+*    *
+    *   oder
+
+    *
+
+*    *
+    *   beides zugleich tun.
+
+    *
+
+*    *   Die Flagge kann durch eine Tafel gleicher Farbe ersetzt werden.
 
 
 
-###### § 3.17 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die einen Vorrang besitzen (Anlage 3: Bild 37)
+Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt
 
-Fahrzeuge, denen die zuständige Behörde zur Durchfahrt durch Stellen,
-an denen eine bestimmte Reihenfolge gilt, einen Vorrang eingeräumt
-hat, müssen in Fahrt außer der anderen nach dieser Verordnung
-vorgeschriebenen Bezeichnung bei Tag führen:
-einen roten Wimpel auf dem Vorschiff und so hoch, dass er gut sichtbar
-ist.
-... nicht darstellbares Bild 37
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 28
+###### § 3.19 (Anlage 3  Bild 39)
 
 
-###### § 3.18 Zusätzliche Bezeichnung manövrierunfähiger Fahrzeuge in Fahrt (Anlage 3: Bild 38)
-
-Ein manövrierunfähiges Fahrzeug in Fahrt muss erforderlichenfalls
-außer der anderen nach dieser Verordnung vorgeschriebenen Bezeichnung
-
--   bei Nacht:
-
-    ein rotes Licht zeigen, das geschwenkt wird;
-
-    ... nicht darstellbares Bild 38
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 28
+*    *   Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
+        werden können, müssen Schwimmkörper und schwimmende Anlagen in Fahrt
+        bei Nacht führen:
 
 
--   bei Tag:
+*    *   von allen Seiten sichtbare weiße helle Lichter in genügender Zahl, um
+        ihre Umrisse kenntlich zu machen.
 
-    eine rote Flagge zeigen, die geschwenkt wird,
+    *        ![bgbl2_1994_j0029_ab_0020.jpg](bgbl2_1994_j0029_ab_0020.jpg)
 
-    ... nicht darstellbares Bild 38
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29)
-
-    oder
-
-    das vorgeschriebene Schallzeichen geben
-
-    oder
-
-    beides zugleich tun.
-
-
-
-Die Flagge kann durch eine Tafel gleicher Farbe ersetzt werden.
-
-
-###### § 3.19 Bezeichnung der Schwimmkörper und schwimmenden Anlagen in Fahrt (Anlage 3 Bild 39)
-
-Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
-werden können, müssen Schwimmkörper und schwimmende Anlagen in Fahrt
-bei Nacht führen:
-von allen Seiten sichtbare weiße helle Lichter in genügender Zahl, um
-ihre Umrisse kenntlich zu machen.
-... nicht darstellbares Bild 39
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29
 
 
 ##### Titel B. - Bezeichnung beim Stilliegen
 
 
+   Bezeichnung der Fahrzeuge beim Stilliegen
 
-###### § 3.20 Bezeichnung der Fahrzeuge beim Stilliegen (Anlage 3 Bild 40, 41)
-
-
-1.  Mit Ausnahme der Kleinfahrzeuge und der in den §§ 3.22 und 3.25
-    genannten Fahrzeuge müssen alle Fahrzeuge beim Stilliegen bei Nacht
-    führen:
-
-    ein von allen Seiten sichtbares weißes gewöhnliches Licht auf der
-    Fahrwasserseite mindestens 3,00 m über der Ebene der
-    Einsenkungsmarken.
-
-    Anstelle dieses Lichtes können auch zwei von allen Seiten sichtbare
-    weiße gewöhnliche Lichter auf der Fahrwasserseite in gleicher Höhe auf
-    dem Vor- und Hinterschiff gesetzt werden.
-
-    ... nicht darstellbares Bild 40
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29
+###### § 3.20 (Anlage 3  Bild 40, 41)
 
 
-2.  Kleinfahrzeuge - mit Ausnahme der Beiboote - müssen beim Stilliegen
-    bei Nacht führen:
+*    *   1.
 
-    ein von allen Seiten sichtbares weißes gewöhnliches Licht auf der
-    Fahrwasserseite.
-
-    ... nicht darstellbares Bild 41
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 29
+    *   Mit Ausnahme der Kleinfahrzeuge und der in den §§ 3.22 und 3.25
+        genannten Fahrzeuge müssen alle Fahrzeuge beim Stilliegen bei Nacht
+        führen:
 
 
-3.  Das in den Nummern 1 und 2 vorgeschriebene Licht braucht nicht geführt
-    zu werden,
+*    *
+    *   ein von allen Seiten sichtbares weißes gewöhnliches Licht auf der
+        Fahrwasserseite mindestens 3,00 m über der Ebene der
+        Einsenkungsmarken.
 
-    a)  wenn das Fahrzeug zu einer Zusammenstellung von Fahrzeugen gehört, die
+    *        ![bgbl2_1994_j0029_ab_0030.jpg](bgbl2_1994_j0029_ab_0030.jpg)
+
+*    *
+    *   Anstelle dieses Lichtes können auch zwei von allen Seiten sichtbare
+        weiße gewöhnliche Lichter auf der Fahrwasserseite in gleicher Höhe auf
+        dem Vor- und Hinterschiff gesetzt werden.
+
+
+*    *   2.
+
+    *   Kleinfahrzeuge - mit Ausnahme der Beiboote - müssen beim Stilliegen
+        bei Nacht führen:
+
+
+*    *
+    *   ein von allen Seiten sichtbares weißes gewöhnliches Licht auf der
+        Fahrwasserseite.
+
+    *        ![bgbl2_1994_j0029_ab_0040.jpg](bgbl2_1994_j0029_ab_0040.jpg)
+
+*    *   3.
+
+    *   Das in den Nummern 1 und 2 vorgeschriebene Licht braucht nicht geführt
+        zu werden,
+
+
+*    *
+    *   a)
+
+    *   wenn das Fahrzeug zu einer Zusammenstellung von Fahrzeugen gehört, die
         voraussichtlich nicht vor dem Ende der Nacht aufgelöst wird und die
         Fahrzeuge dieser Zusammenstellung auf der Fahrwasserseite das Licht
         nach Nummer 1 führen;
 
 
-    b)  wenn sich das Fahrzeug in vollem Umfang zwischen nicht überfluteten
+*    *
+    *   b)
+
+    *   wenn sich das Fahrzeug in vollem Umfang zwischen nicht überfluteten
         Buhnen befindet oder hinter einem aus dem Wasser ragenden Längswerk
         stilliegt;
 
 
-    c)  wenn das Fahrzeug am Ufer stilliegt und von diesem aus hinreichend
+*    *
+    *   c)
+
+    *   wenn das Fahrzeug am Ufer stilliegt und von diesem aus hinreichend
         beleuchtet ist.
 
 
+*    *   4.
 
-
-
-4.  Sind Fahrzeuge an einer besonders dafür ausgewiesenen Stelle
-    zusammengezogen, kann die zuständige Behörde in Sonderfällen einen
-    Teil von ihnen von der Lichterführung nach Nummer 1 oder 2 befreien.
-
-
-
-
-
-###### § 3.21 Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung bestimmter gefährlicher Güter (Anlage 3 Bild 42, 43, 44)
-
-§ 3.14 gilt für die dort genannten Fahrzeuge, Schubverbände und
-gekuppelten Fahrzeuge auch beim Stilliegen.
-... nicht darstellbare Bilder 42, 43, 44 (je 2 Bilder)
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 30
-
-
-###### § 3.22 Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen (Anlage 3 Bild 45, 46)
-
-
-1.  Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
-    Anlegestelle die Lichter nach § 3.16 Nr. 1 führen.
-
-    Außerdem muß bei Gierfähren am Längsseil bei Nacht der oberste
-    Buchtnachen oder Döpper das Licht nach § 3.16 Nr. 2 führen.
-
-    ... nicht darstellbares Bild 45
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 31
-
-
-2.  Frei fahrende Fähren während des Betriebs bei Nacht müssen beim
-    Stilliegen an ihrer Anlegestelle die Lichter nach § 3.16 Nr. 1 führen;
-    sie dürfen außerdem die Lichter nach § 3.08 Nr. 1 Buchstabe b und c
-    beibehalten.
-
-    Diese Fahrer müssen das grüne Licht nach § 3.16 Nr. 1 Buchstabe b
-    sowie die Lichter nach § 3.08 Nr. 1 Buchstabe b und c löschen, sobald
-    sie nicht mehr in Betrieb sind.
-
-    ... nicht darstellbares Bild 46
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 31
+    *   Sind Fahrzeuge an einer besonders dafür ausgewiesenen Stelle
+        zusammengezogen, kann die zuständige Behörde in Sonderfällen einen
+        Teil von ihnen von der Lichterführung nach Nummer 1 oder 2 befreien.
 
 
 
 
+Zusätzliche Bezeichnung stilliegender Fahrzeuge bei Beförderung
+bestimmter gefährlicher Güter
 
-###### § 3.23 Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen (Anlage 3 Bild 47)
+###### § 3.21 (Anlage 3  Bild 42, 43, 44)
 
-Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
-werden können, müssen Schwimmkörper und schwimmende Anlagen beim
-Stillliegen bei Nacht führen:
+
+*    *   § 3.14 gilt für die dort genannten Fahrzeuge, Schubverbände und
+        gekuppelten Fahrzeuge auch beim Stilliegen.
+
+
+*    *        ![bgbl2_1994_j0030_ab_0010.jpg](bgbl2_1994_j0030_ab_0010.jpg)
+    *        ![bgbl2_1994_j0030_ab_0020.jpg](bgbl2_1994_j0030_ab_0020.jpg)
+
+*    *        ![bgbl2_1994_j0030_ab_0030.jpg](bgbl2_1994_j0030_ab_0030.jpg)
+    *        ![bgbl2_1994_j0030_ab_0040.jpg](bgbl2_1994_j0030_ab_0040.jpg)
+
+*    *        ![bgbl2_1994_j0030_ab_0050.jpg](bgbl2_1994_j0030_ab_0050.jpg)
+    *        ![bgbl2_1994_j0030_ab_0060.jpg](bgbl2_1994_j0030_ab_0060.jpg)
+
+
+   Bezeichnung der Fähren, die an ihrer Anlegestelle stilliegen
+
+###### § 3.22 (Anlage 3  Bild 45, 46)
+
+
+*    *   1.
+
+    *   Nicht frei fahrende Fähren müssen bei Nacht beim Stilliegen an ihrer
+        Anlegestelle die Lichter nach § 3.16 Nr. 1 führen.
+
+
+*    *
+    *   Außerdem muß bei Gierfähren am Längsseil bei Nacht der oberste
+        Buchtnachen oder Döpper das Licht nach § 3.16 Nr. 2 führen.
+
+    *        ![bgbl2_1994_j0031_ab_0010.jpg](bgbl2_1994_j0031_ab_0010.jpg)
+
+*    *   2.
+
+    *   Frei fahrende Fähren während des Betriebs bei Nacht müssen beim
+        Stilliegen an ihrer Anlegestelle die Lichter nach § 3.16 Nr. 1 führen;
+        sie dürfen außerdem die Lichter nach § 3.08 Nr. 1 Buchstabe b und c
+        beibehalten.
+
+
+*    *
+    *   Diese Fahrer müssen das grüne Licht nach § 3.16 Nr. 1 Buchstabe b
+        sowie die Lichter nach § 3.08 Nr. 1 Buchstabe b und c löschen, sobald
+        sie nicht mehr in Betrieb sind.
+
+    *        ![bgbl2_1994_j0031_ab_0020.jpg](bgbl2_1994_j0031_ab_0020.jpg)
+
+
+
+   Bezeichnung der Schwimmkörper und schwimmenden Anlagen beim Stilliegen
+
+###### § 3.23 (Anlage 3 Bild 47)
+
+
+*    *   Unbeschadet der besonderen Bedingungen, die nach § 1.21 festgelegt
+        werden können, müssen Schwimmkörper und schwimmende Anlagen beim
+        Stillliegen bei Nacht führen:
+
 
 *    *   von allen Seiten sichtbare weiße gewöhnliche Lichter in genügender
         Zahl, um ihre Umrisse zur Fahrwasserseite hin kenntlich zu machen.
 
+    *        ![bgbl2_1994_j0031_ab_0030.jpg](bgbl2_1994_j0031_ab_0030.jpg)
 
+*    *   Die in Satz 1 vorgeschriebenen Lichter brauchen nicht geführt zu
+        werden, wenn die Voraussetzungen des § 3.20 Nr. 3 Buchstabe b oder c
+        erfüllt sind.
 
-Die in Satz 1 vorgeschriebenen Lichter brauchen nicht geführt zu
-werden, wenn die Voraussetzungen des § 3.20 Nr. 3 Buchstabe b oder c
-erfüllt sind.
 
 
-###### § 3.24 Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze oder Ausleger (Anlage 3 Bild 48)
+Bezeichnung bestimmter stilliegender Fischereifahrzeuge und der Netze
+oder Ausleger
 
-Fischereifahrzeuge, Kleinfahrzeuge eingeschlossen, die ihre Netze oder
-Ausleger im Fahrwasser oder in dessen Nähe ausgelegt haben, müssen
-beim Stilliegen bei Nacht führen:
-das Licht nach § 3.20 Nr. 1.
-Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
+###### § 3.24 (Anlage 3  Bild 48)
 
--   bei Nacht:
 
-    durch von allen Seiten sichtbare weiße gewöhnliche Lichter in
-    ausreichender Zahl, um ihre Lage kenntlich zu machen;
+*    *   Fischereifahrzeuge, Kleinfahrzeuge eingeschlossen, die ihre Netze oder
+        Ausleger im Fahrwasser oder in dessen Nähe ausgelegt haben, müssen
+        beim Stilliegen bei Nacht führen:
 
-    ... nicht darstellbares Bild 48
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 32
+*    *   das Licht nach § 3.20 Nr. 1.
 
+    *
 
--   bei Tag:
+*    *
+    *   Außerdem müssen ihre Netze oder Ausleger bezeichnet sein:
 
-    durch gelbe Döpper in ausreichender Zahl, um ihre Lage kenntlich zu
-    machen.
+    *
 
-    ... nicht darstellbares Bild 48
+*    *
+    *   -
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 32
+    *   bei Nacht:
 
+    *
 
+*    *
+    *
+    *   durch von allen Seiten sichtbare weiße gewöhnliche Lichter in
+        ausreichender Zahl, um ihre Lage kenntlich zu machen;
 
+    *        ![bgbl2_1994_j0032_ab_0010.jpg](bgbl2_1994_j0032_ab_0010.jpg)
 
+*    *
+    *   -
 
-###### § 3.25 Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener oder gesunkener Fahrzeuge (Anlage 3 Bild 49a, 49b, 50a, 50b, 51, 52)
+    *   bei Tag:
 
+    *
 
-1.  Schwimmende Geräte bei der Arbeit und Fahrzeuge, die in der
-    Wasserstraße Arbeiten, Peilungen oder Messungen ausführen und dabei
-    stilliegen, müssen führen:
+*    *
+    *
+    *   durch gelbe Döpper in ausreichender Zahl, um ihre Lage kenntlich zu
+        machen.
 
-    a)  nach der Seite oder den Seiten, wo die Durchfahrt frei ist:
+    *        ![bgbl2_1994_j0032_ab_0020.jpg](bgbl2_1994_j0032_ab_0020.jpg)
 
-        -   bei Nacht:
 
-            zwei grüne gewöhnliche Lichter oder zwei grüne helle Lichter,
+   Bezeichnung schwimmender Geräte bei der Arbeit sowie festgefahrener
+oder gesunkener Fahrzeuge
 
-            ... nicht darstellbares Bild 49a
+###### § 3.25 (Anlage 3  Bild 49a, 49b, 50a, 50b, 51, 52)
 
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 32
 
+*    *   1.
 
-        -   bei Tag:
+    *   Schwimmende Geräte bei der Arbeit und Fahrzeuge, die in der
+        Wasserstraße Arbeiten, Peilungen oder Messungen ausführen und dabei
+        stilliegen, müssen führen:
 
-            entweder das Tafelzeichen E.1 (Anlage 7) oder zwei grüne Doppelkegel
-            etwa 1,00 m übereinander und gegebenenfalls
 
-            ... nicht darstellbare 2 Bilder 49b
+*    *
+    *   a)
 
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 32
+    *   nach der Seite oder den Seiten, wo die Durchfahrt frei ist:
 
+    *
 
+*    *
+    *
+    *   - bei Nacht:
 
+    *
 
+*    *
+    *
+    *   zwei grüne gewöhnliche Lichter oder zwei grüne helle Lichter,
 
-    b)  nach der Seite, wo die Durchfahrt nicht frei ist:
+    *        ![bgbl2_1994_j0032_ab_0030.jpg](bgbl2_1994_j0032_ab_0030.jpg)
 
-        -   bei Nacht:
+*    *
+    *
+    *   - bei Tag:
 
-            ein rotes gewöhnliches Licht oder ein rotes helles Licht in gleicher
-            Höhe und von gleicher Stärke wie das nach Buchstabe a gezeigte oberste
-            grüne Licht,
+    *
 
-            ... nicht darstellbares Bild 50a
+*    *
+    *
+    *   entweder das Tafelzeichen E.1 (Anlage 7) oder zwei grüne Doppelkegel
+        etwa 1,00 m übereinander und gegebenenfalls
 
-            (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 33)
 
+*    *
+    *
+    *        ![bgbl2_1994_j0032_ab_0040.jpg](bgbl2_1994_j0032_ab_0040.jpg)
+    *        ![bgbl2_1994_j0032_ab_0050.jpg](bgbl2_1994_j0032_ab_0050.jpg)
 
-        -   bei Tag:
+*    *
+    *   b)
 
-            entweder das Tafelzeichen A.1 (Anlage 7) in gleicher Höhe wie das
-            Tafelzeichen nach Buchstabe a
+    *   nach der Seite, wo die Durchfahrt nicht frei ist:
 
-            ... nicht darstellbares Bild 50a
+    *
 
-            (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 33)
+*    *
+    *
+    *   - bei Nacht:
 
-            oder einen roten Ball in gleicher Höhe wie der oberste Doppelkegel
-            nach Buchstabe a,
+    *        ![bgbl2_1994_j0033_ab_0010.jpg](bgbl2_1994_j0033_ab_0010.jpg)
 
-            ... nicht darstellbares Bild 50b
+*    *
+    *
+    *   ein rotes gewöhnliches Licht oder ein rotes helles Licht in gleicher
+        Höhe und von gleicher Stärke wie das nach Buchstabe a gezeigte oberste
+        grüne Licht,
 
-            (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 33)
 
-            oder, wenn diese Fahrzeuge gegen Wellenschlag geschützt werden müssen,
+*    *
+    *
+    *   - bei Tag:
 
+    *        ![bgbl2_1994_j0033_ab_0020.jpg](bgbl2_1994_j0033_ab_0020.jpg)
 
+*    *
+    *
+    *   entweder das Tafelzeichen A.1 (Anlage 7) in gleicher Höhe wie das
+        Tafelzeichen nach Buchstabe a
 
 
+*    *
+    *
+    *   oder einen roten Ball in gleicher Höhe wie der oberste Doppelkegel
+        nach Buchstabe a,
 
-    c)  nach der Seite oder den Seiten, wo die Durchfahrt frei ist:
+    *        ![bgbl2_1994_j0033_ab_0030.jpg](bgbl2_1994_j0033_ab_0030.jpg)
 
-        -   bei Nacht:
+*    *
+    *
+    *   oder, wenn diese Fahrzeuge gegen Wellenschlag geschützt werden müssen,
 
-            ein rotes gewöhnliches und ein weißes gewöhnliches Licht oder ein
-            rotes helles und ein weißes helles Licht, das rote Licht etwa 1,00 m
-            über dem weißen,
 
-            ... nicht darstellbares Bild 51
+*    *
+    *   c)
 
-            (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 33)
+    *   nach der Seite oder den Seiten, wo die Durchfahrt frei ist:
 
+    *
 
-        -   bei Tag:
+*    *
+    *
+    *   - bei Nacht:
 
-            eine Flagge, deren obere Hälfte rot und deren untere Hälfte weiß ist,
-            oder zwei Flaggen übereinander, die obere rot, die untere weiß, und
-            gegebenenfalls
+    *        ![bgbl2_1994_j0033_ab_0040.jpg](bgbl2_1994_j0033_ab_0040.jpg)
 
-            ... nicht darstellbares Bild 51
+*    *
+    *
+    *   ein rotes gewöhnliches und ein weißes gewöhnliches Licht oder ein
+        rotes helles und ein weißes helles Licht, das rote Licht etwa 1,00 m
+        über dem weißen,
 
-            (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 33)
 
+*    *
+    *
+    *   - bei Tag:
 
+    *        ![bgbl2_1994_j0033_ab_0050.jpg](bgbl2_1994_j0033_ab_0050.jpg)
 
+*    *
+    *
+    *   eine Flagge, deren obere Hälfte rot und deren untere Hälfte weiß ist,
+        oder zwei Flaggen übereinander, die obere rot, die untere weiß, und
+        gegebenenfalls
 
 
-    d)  nach der Seite, wo die Durchfahrt nicht frei ist:
+*    *
+    *   d)
 
-        -   bei Nacht:
+    *   nach der Seite, wo die Durchfahrt nicht frei ist:
 
-            ein rotes Licht in gleicher Höhe und von gleicher Stärke wie das nach
-            Buchstabe c gezeigte rote Licht,
+    *
 
+*    *
+    *
+    *   - bei Nacht:
 
-        -   bei Tag:
+    *
 
-            eine rote Flagge in gleicher Höhe wie die rot-weiße Flagge oder die
-            rote Flagge auf der anderen Seite.
+*    *
+    *
+    *   ein rotes Licht in gleicher Höhe und von gleicher Stärke wie das nach
+        Buchstabe c gezeigte rote Licht,
 
+    *
 
+*    *
+    *
+    *   - bei Tag:
 
+    *
 
+*    *
+    *
+    *   eine rote Flagge in gleicher Höhe wie die rot-weiße Flagge oder die
+        rote Flagge auf der anderen Seite.
 
+    *
 
+*    *
+    *   Diese Zeichen sind so hoch zu setzen, daß sie von allen Seiten
+        sichtbar sind. Die Flaggen können durch Tafeln gleicher Farbe ersetzt
+        werden.
 
-    Diese Zeichen sind so hoch zu setzen, daß sie von allen Seiten
-    sichtbar sind. Die Flaggen können durch Tafeln gleicher Farbe ersetzt
-    werden.
 
+*    *   2.
 
-2.  Festgefahrene oder gesunkene Fahrzeuge müssen die Bezeichnung nach
-    Nummer 1 Buchstabe c und d führen. Liegt ein gesunkenes Fahrzeug so,
-    dass die Zeichen nicht auf ihm angebracht werden können, müssen sie
-    auf Nachen, Tonnen oder in anderer geeigneter Weise gesetzt werden.
+    *   Festgefahrene oder gesunkene Fahrzeuge müssen die Bezeichnung nach
+        Nummer 1 Buchstabe c und d führen. Liegt ein gesunkenes Fahrzeug so,
+        dass die Zeichen nicht auf ihm angebracht werden können, müssen sie
+        auf Nachen, Tonnen oder in anderer geeigneter Weise gesetzt werden.
 
 
-3.  Die zuständige Behörde kann von der Führung der Bezeichnung nach
-    Nummer 1 Buchstabe a und b befreien.
+*    *
+    *        ![bgbl2_1994_j0034_ab_0010.jpg](bgbl2_1994_j0034_ab_0010.jpg)
+    *        ![bgbl2_1994_j0034_ab_0020.jpg](bgbl2_1994_j0034_ab_0020.jpg)
 
+*    *   3.
 
+    *   Die zuständige Behörde kann von der Führung der Bezeichnung nach
+        Nummer 1 Buchstabe a und b befreien.
 
 
 
-###### § 3.26 Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker (Anlage 3 Bild 53, 54, 55)
 
+Zusätzliche Bezeichnung der Fahrzeuge, Schwimmkörper und schwimmenden
+Anlagen, deren Anker die Schiffahrt gefährden können, und ihrer Anker
 
-1.  Stilliegende Fahrzeuge, deren Anker so ausgeworfen sind, daß die
-    Anker, Ankerkabel oder Ankerketten die Schiffahrt gefährden können,
-    müssen außer den anderen nach dieser Verordnung vorgeschriebenen
-    Lichtern bei Nacht führen:
+###### § 3.26 (Anlage 3  Bild 53, 54, 55)
 
-    ein von allen Seiten sichtbares zusätzliches weißes gewöhnliches Licht
-    etwa 1,00 m unter dem Licht nach § 3.20 Nr. 1 oder, wenn zwei
-    Stilliegelichter gesetzt sind, unter dem Licht, das dem Anker am
-    nächsten liegt.
 
-    ... nicht darstellbares Bild 53
+*    *   1.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 34
+    *   Stilliegende Fahrzeuge, deren Anker so ausgeworfen sind, daß die
+        Anker, Ankerkabel oder Ankerketten die Schiffahrt gefährden können,
+        müssen außer den anderen nach dieser Verordnung vorgeschriebenen
+        Lichtern bei Nacht führen:
 
 
-2.  Wenn in den Fällen des § 3.23 die Anker so ausgeworfen sind, daß sie
-    die Schiffahrt gefährden können, muß das diesen Ankern nächstgelegene
-    Licht ersetzt werden durch
+*    *
+    *   ein von allen Seiten sichtbares zusätzliches weißes gewöhnliches Licht
+        etwa 1,00 m unter dem Licht nach § 3.20 Nr. 1 oder, wenn zwei
+        Stilliegelichter gesetzt sind, unter dem Licht, das dem Anker am
+        nächsten liegt.
 
-    zwei von allen Seiten sichtbare weiße gewöhnliche Lichter, die in
-    einem Abstand von etwa 1,00 m übereinander angebracht sind.
 
-    ... nicht darstellbares Bild 54
+*    *        ![bgbl2_1994_j0034_ab_0030.jpg](bgbl2_1994_j0034_ab_0030.jpg)
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 34
+*    *   2.
 
+    *   Wenn in den Fällen des § 3.23 die Anker so ausgeworfen sind, daß sie
+        die Schiffahrt gefährden können, muß das diesen Ankern nächstgelegene
+        Licht ersetzt werden durch
 
-3.  In den Fällen der Nummern 1 und 2 ist jeder dieser Anker bei Nacht und
-    bei Tag mit einem gelben Döpper mit Radarreflektor zu bezeichnen.
 
-    ... nicht darstellbare Bilder 53 und 54
+*    *
+    *   zwei von allen Seiten sichtbare weiße gewöhnliche Lichter, die in
+        einem Abstand von etwa 1,00 m übereinander angebracht sind.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 35)
 
+*    *        ![bgbl2_1994_j0034_ab_0040.jpg](bgbl2_1994_j0034_ab_0040.jpg)
 
-4.  Wenn die Anker, Ankerkabel oder Ankerketten schwimmender Geräte die
-    Schiffahrt gefährden können, sind sie zu bezeichnen:
+*    *   3.
 
-    -   bei Nacht:
+    *   In den Fällen der Nummern 1 und 2 ist jeder dieser Anker bei Nacht und
+        bei Tag mit einem gelben Döpper mit Radarreflektor zu bezeichnen.
 
-        durch einen Döpper mit Radarreflektor und einem von allen Seiten
+
+*    *
+    *        ![bgbl2_1994_j0035_ab_0010.jpg](bgbl2_1994_j0035_ab_0010.jpg)        ![bgbl2_1994_j0035_ab_0020.jpg](bgbl2_1994_j0035_ab_0020.jpg)
+
+*    *   4.
+
+    *   Wenn die Anker, Ankerkabel oder Ankerketten schwimmender Geräte die
+        Schiffahrt gefährden können, sind sie zu bezeichnen:
+
+
+*    *
+    *   -
+
+    *   bei Nacht
+
+    *
+
+*    *
+    *
+    *   durch einen Döpper mit Radarreflektor und einem von allen Seiten
         sichtbaren weißen gewöhnlichen Licht,
 
-        ... nicht darstellbares Bild 55
+    *        ![bgbl2_1994_j0035_ab_0030.jpg](bgbl2_1994_j0035_ab_0030.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 35)
+*    *
+    *   -
 
+    *   bei Tag:
 
-    -   bei Tag:
+    *
 
-        durch einen gelben Döpper mit Radarreflektor.
+*    *
+    *
+    *   durch einen gelben Döpper mit Radarreflektor.
 
-        ... nicht darstellbares Bild 55
-
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 35)
-
-
-
-
-
+    *        ![bgbl2_1994_j0035_ab_0040.jpg](bgbl2_1994_j0035_ab_0040.jpg)
 
 
 
 #### Abschnitt III. - Sonstige Bezeichnung
 
 
+   Bezeichnung der Fahrzeuge der Überwachungsbehörden
 
-##### § 3.27 Bezeichnung der Fahrzeuge der Überwachungsbehörden (Anlage 3 Bild 56)
-
-Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
-blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
-für Feuerlöschboote, wenn sie zur Hilfeleistung eingesetzt werden, und
-für Wasserrettungsfahrzeuge im Rettungseinsatz mit Erlaubnis der
-zuständigen Behörde.
-... nicht darstellbare 2 Bilder 56
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 35
+##### § 3.27 (Anlage 3 Bild 56)
 
 
-##### § 3.28 Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der Wasserstraße ausführen (Anlage 3: Bild 57)
-
-In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten,
-Peilungen oder Messungen ausführen, können mit Erlaubnis der
-zuständigen Behörde bei Nacht und bei Tag außer der anderen nach
-dieser Verordnung vorgeschriebenen Bezeichnung zeigen:
-ein von allen Seiten sichtbares gelbes gewöhnliches Funkellicht oder
-ein von allen Seiten sichtbares gelbes helles Funkellicht.
-... nicht darstellbare 2 Bilder 57
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
+*    *   Fahrzeuge der Überwachungsbehörden können bei Nacht und bei Tag ein
+        blaues Funkellicht zeigen, um sich kenntlich zu machen. Dies gilt auch
+        für Feuerlöschboote, wenn sie zur Hilfeleistung eingesetzt werden, und
+        für Wasserrettungsfahrzeuge im Rettungseinsatz mit Erlaubnis der
+        zuständigen Behörde.
 
 
-##### § 3.29 Schutz gegen Wellenschlag (Anlage 3 Bild 58)
+*    *        ![bgbl2_1994_j0035_ab_0050.jpg](bgbl2_1994_j0035_ab_0050.jpg)
+    *        ![bgbl2_1994_j0035_ab_0060.jpg](bgbl2_1994_j0035_ab_0060.jpg)
 
 
-1.  In Fahrt befindliche oder stilliegende Fahrzeuge, Schwimmkörper und
-    schwimmende Anlagen, die gegen Wellenschlag vorbeifahrender Fahrzeuge
-    oder Schwimmkörper geschützt werden wollen, können außer ihrer
-    Bezeichnung nach diesem Kapitel führen:
+   Zusätzliche Bezeichnung der Fahrzeuge in Fahrt, die Arbeiten in der
+Wasserstraße ausführen
 
-    -   bei Nacht:
+##### § 3.28 (Anlage 3: Bild 57)
 
-        ein rotes gewöhnliches und ein weißes gewöhnliches Licht oder ein
+
+*    *   In Fahrt befindliche Fahrzeuge, die in der Wasserstraße Arbeiten,
+        Peilungen oder Messungen ausführen, können mit Erlaubnis der
+        zuständigen Behörde bei Nacht und bei Tag außer der anderen nach
+        dieser Verordnung vorgeschriebenen Bezeichnung zeigen:
+
+
+*    *   ein von allen Seiten sichtbares gelbes gewöhnliches Funkellicht oder
+        ein von allen Seiten sichtbares gelbes helles Funkellicht.
+
+
+*    *        ![bgbl2_1994_j0036_ab_0010.jpg](bgbl2_1994_j0036_ab_0010.jpg)
+    *        ![bgbl2_1994_j0036_ab_0020.jpg](bgbl2_1994_j0036_ab_0020.jpg)
+
+
+   Schutz gegen Wellenschlag
+
+##### § 3.29 (Anlage 3  Bild 58)
+
+
+*    *   1.
+
+    *   In Fahrt befindliche oder stilliegende Fahrzeuge, Schwimmkörper und
+        schwimmende Anlagen, die gegen Wellenschlag vorbeifahrender Fahrzeuge
+        oder Schwimmkörper geschützt werden wollen, können außer ihrer
+        Bezeichnung nach diesem Kapitel führen:
+
+
+*    *
+    *   -
+
+    *   bei Nacht:
+
+    *
+
+*    *
+    *
+    *   ein rotes gewöhnliches und ein weißes gewöhnliches Licht oder ein
         rotes helles und ein weißes helles Licht, das rote Licht etwa 1,00 m
         über dem weißen, an einer Stelle, an der sie gut gesehen und nicht mit
         anderen Lichtern verwechselt werden können;
 
-        ... nicht darstellbares Bild 58
+    *        ![bgbl2_1994_j0036_ab_0030.jpg](bgbl2_1994_j0036_ab_0030.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
+*    *
+    *   -
 
+    *   bei Tag:
 
-    -   bei Tag:
+    *
 
-        eine Flagge, deren obere Hälfte rot und deren untere Hälfte weiß ist,
+*    *
+    *
+    *   eine Flagge, deren obere Hälfte rot und deren untere Hälfte weiß ist,
         an einer geeigneten Stelle und so hoch, daß sie von allen Seiten
         sichtbar ist. Die Flagge kann durch zwei Flaggen übereinander, die
         obere rot, die untere weiß, ersetzt werden. Die Flaggen können durch
         Tafeln gleicher Farbe ersetzt werden.
 
-        ... nicht darstellbares Bild 58
+    *        ![bgbl2_1994_j0036_ab_0040.jpg](bgbl2_1994_j0036_ab_0040.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
+*    *   2.
+
+    *   Von der Bezeichnung nach Nummer 1 dürfen nur Gebrauch machen:
 
 
+*    *
+    *   a)
 
-
-
-2.  Von der Bezeichnung nach Nummer 1 dürfen nur Gebrauch machen:
-
-    a)  Fahrzeuge, Schwimmkörper und schwimmende Anlagen, die schwer
+    *   Fahrzeuge, Schwimmkörper und schwimmende Anlagen, die schwer
         beschädigt sind oder die sich an Rettungsarbeiten beteiligen sowie
         manövrierunfähige Fahrzeuge;
 
 
-    b)  Fahrzeuge, Schwimmkörper und schwimmende Anlagen mit schriftlicher
+*    *
+    *   b)
+
+    *   Fahrzeuge, Schwimmkörper und schwimmende Anlagen mit schriftlicher
         Erlaubnis der zuständigen Behörde.
 
 
-
-
-    § 3.25 bleibt unberührt.
-
-
+*    *
+    *   § 3.25 bleibt unberührt.
 
 
 
-##### § 3.30 Notzeichen (Anlage 3 Bild 59)
+Notzeichen
+
+##### § 3.30 (Anlage 3  Bild 59)
 
 
-1.  Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
-    herbeirufen will, kann zeigen:
+*    *   1.
 
-    -   bei Nacht:
-
-        ein Licht, das im Kreis geschwenkt wird;
-
-        ... nicht darstellbares Bild 59
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 37
+    *   Ein in Not befindliches Fahrzeug, das Hilfe durch Sichtzeichen
+        herbeirufen will, kann zeigen:
 
 
-    -   bei Tag:
+*    *
+    *   -
 
-        eine rote Flagge, die im Kreis geschwenkt wird, oder einen sonstigen
+    *   bei Nacht:
+
+    *
+
+*    *
+    *
+    *   ein Licht, das im Kreis geschwenkt wird;
+
+    *        ![bgbl2_1994_j0037_ab_0010.jpg](bgbl2_1994_j0037_ab_0010.jpg)
+
+*    *
+    *   -
+
+    *   bei Tag:
+
+    *
+
+*    *
+    *
+    *   eine rote Flagge, die im Kreis geschwenkt wird, oder einen sonstigen
         geeigneten Gegenstand, der im Kreis geschwenkt wird.
 
-        ... nicht darstellbares Bild 59
+    *        ![bgbl2_1994_j0037_ab_0020.jpg](bgbl2_1994_j0037_ab_0020.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 37
+*    *   2.
 
-
-
-
-
-2.  Diese Zeichen ersetzen oder ergänzen die Schallzeichen nach § 4.04.
+    *   Diese Zeichen ersetzen oder ergänzen die Schallzeichen nach § 4.04.
 
 
 
+Hinweis auf das Verbot, das Fahrzeug zu betreten
+
+##### § 3.31 (Anlage 3 Bild 60)
 
 
-##### § 3.31 Hinweis auf das Verbot, das Fahrzeug zu betreten (Anlage 3 Bild 60)
+*    *   1.
+
+    *   Sofern es nicht an Bord beschäftigten Personen durch andere
+        Vorschriften verboten ist, das Fahrzeug zu betreten, muss dieses
+        Verbot angezeigt werden durch
 
 
-1.  Sofern es nicht an Bord beschäftigten Personen durch andere
-    Vorschriften verboten ist, das Fahrzeug zu betreten, muss dieses
-    Verbot angezeigt werden durch
-
-    runde weiße Symbole mit rotem Rand, rotem Schrägstrich und einem
-    schwarzen Sinnbild der abwehrenden Hand.
-
-    Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
-
-    Ihr Durchmesser muss etwa 0,60 m betragen.
+*    *
+    *   runde weiße Symbole mit rotem Rand, rotem Schrägstrich und einem
+        schwarzen Sinnbild der abwehrenden Hand.
 
 
-2.  Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
-    bei Nacht deutlich sichtbar sind.
+*    *
+    *   Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
 
 
-3.  Die Symbole, die nach der am 30. November 2011 gültigen Fassung der
-    Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
-    zum 30. November 2015 verwendet werden.
+*    *
+    *   Ihr Durchmesser muss etwa 0,60 m betragen.
 
 
+*    *   2.
+
+    *   Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
+        bei Nacht deutlich sichtbar sind.
 
 
+*    *   3.
 
-##### § 3.32 Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu verwenden (Anlage 3: Bild 61)
-
-
-1.  Sofern es durch andere Vorschriften verboten ist, an Bord
-
-    a)  zu rauchen,
-
-
-    b)  ungeschütztes Licht oder Feuer zu verwenden,
-
+    *   Die Symbole, die nach der am 30. November 2011 gültigen Fassung der
+        Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
+        zum 30. November 2015 verwendet werden.
 
 
 
-    muss dieses Verbot angezeigt werden durch
+Hinweis auf das Verbot, zu rauchen, ungeschütztes Licht oder Feuer zu
+verwenden
 
-    runde weiße Symbole mit rotem Rand und rotem Schrägstrich, auf denen
-    ein brennendes Streichholz abgebildet ist.
-
-    Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
-
-    Ihr Durchmesser muss etwa 0,60 m betragen.
+##### § 3.32 (Anlage 3: Bild 61)
 
 
-2.  Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
-    bei Nacht deutlich sichtbar sind.
+*    *   1.
+
+    *   Sofern es durch andere Vorschriften verboten ist, an Bord
 
 
-3.  Die Symbole, die nach der am 30. November 2011 gültigen Fassung der
-    Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
-    zum 30. November 2015 verwendet werden.
+*    *
+    *   a)
+
+    *   zu rauchen,
+
+
+*    *
+    *   b)
+
+    *   ungeschütztes Licht oder Feuer zu verwenden,
+
+
+*    *
+    *   muss dieses Verbot angezeigt werden durch
+
+
+*    *
+    *   runde weiße Symbole mit rotem Rand und rotem Schrägstrich, auf denen
+        ein brennendes Streichholz abgebildet ist.
+
+
+*    *
+    *   Die Symbole sind je nach Bedarf an Bord oder am Laufsteg aufzustellen.
+
+
+*    *
+    *   Ihr Durchmesser muss etwa 0,60 m betragen.
+
+
+*    *   2.
+
+    *   Die Symbole müssen erforderlichenfalls beleuchtet werden, damit sie
+        bei Nacht deutlich sichtbar sind.
+
+
+*    *   3.
+
+    *   Die Symbole, die nach der am 30. November 2011 gültigen Fassung der
+        Rheinschifffahrtspolizeiverordnung vorgeschrieben waren, dürfen bis
+        zum 30. November 2015 verwendet werden.
 
 
 
+Hinweis auf das Verbot des Stilliegens nebeneinander
+
+##### § 3.33 (Anlage 3  Bild 62)
 
 
-##### § 3.33 Hinweis auf das Verbot des Stilliegens nebeneinander (Anlage 3 Bild 62)
+*    *   1.
+
+    *   Sofern das seitliche Stilliegen in der Nähe eines Fahrzeugs zum
+        Beispiel wegen der Art seiner Ladung durch andere Vorschriften oder
+        durch besondere Anordnungen der zuständigen Behörde verboten ist, muß
+        dieses Fahrzeug an Deck in der Längsebene führen:
 
 
-1.  Sofern das seitliche Stilliegen in der Nähe eines Fahrzeugs zum
-    Beispiel wegen der Art seiner Ladung durch andere Vorschriften oder
-    durch besondere Anordnungen der zuständigen Behörde verboten ist, muß
-    dieses Fahrzeug an Deck in der Längsebene führen:
+*    *
+    *   eine quadratische Tafel, darunter eine dreieckige Zusatztafel.
 
-    eine quadratische Tafel, darunter eine dreieckige Zusatztafel.
+    *        ![bgbl2_1994_j0038_ab_0020.jpg](bgbl2_1994_j0038_ab_0020.jpg)
 
-    ... nicht darstellbares Bild 62
+*    *
+    *   Die quadratische Tafel ist auf beiden Seiten weiß mit rotem Rand und
+        trägt einen roten Schrägstrich von links oben nach rechts unten und
+        ein schwarzes "P" im Mittelfeld. Die dreieckige Zusatztafel ist auf
+        beiden Seiten weiß und zeigt in schwarzen Zahlen die Entfernung in
+        Metern an, innerhalb derer das Stilliegen verboten ist.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 38
 
-    Die quadratische Tafel ist auf beiden Seiten weiß mit rotem Rand und
-    trägt einen roten Schrägstrich von links oben nach rechts unten und
-    ein schwarzes "P" im Mittelfeld. Die dreieckige Zusatztafel ist auf
-    beiden Seiten weiß und zeigt in schwarzen Zahlen die Entfernung in
-    Metern an, innerhalb derer das Stilliegen verboten ist.
+*    *   2.
+
+    *   Bei Nacht müssen die Tafeln so beleuchtet sein, daß sie an beiden
+        Seiten des Fahrzeugs deutlich sichtbar sind.
+
+
+*    *   3.
+
+    *   Dieser Paragraph gilt nicht für die in § 3.21 genannten Fahrzeuge,
+        Schubverbände und gekuppelten Fahrzeuge.
+
+
 
 
 2.  Bei Nacht müssen die Tafeln so beleuchtet sein, daß sie an beiden
@@ -3908,8 +4419,19 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
+Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
 
-### Kapitel 4 - Schallzeichen der Fahrzeuge, Sprechfunk, Radar
+##### § 3.34 (Anlage 3: Bild 65)
+
+Fahrzeuge, die für den Einsatz von Tauchern verwendet werden, müssen
+zusätzlich zu ihrer Bezeichnung auf Grund anderer Bestimmungen dieser
+Verordnung führen:
+eine mindestens 1 m hohe, starre Nachbildung des Buchstabensignals „A“
+des Internationalen Signalbuches an geeigneter Stelle und so hoch,
+dass sie bei Tag und bei Nacht von allen Seiten sichtbar ist.
+
+
+### Kapitel 4 - Schallzeichen der Fahrzeuge; Sprechfunk; Informations- und Navigationsgeräte
 
 
 
@@ -4012,43 +4534,45 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 ##### § 4.05 Sprechfunk
 
 
-1.  Jede Sprechfunkanlage an Bord eines Fahrzeugs oder einer schwimmenden
-    Anlage muß der Regionalen Vereinbarung über den Binnenschiffahrtsfunk
-    entsprechen und gemäß den Vorschriften dieser Vereinbarung betrieben
-    werden. Diese Vorschriften sind im Handbuch Binnenschiffahrtsfunk
-    erläutert.
+1.  Jede Schiffsfunkstelle an Bord eines Fahrzeugs oder einer schwimmenden
+    Anlage muss entsprechend den Bestimmungen des Handbuchs
+    Binnenschifffahrtsfunk ausgerüstet und betrieben werden.
 
 
-2.  Bei Funkverbindungen zwischen Schiffsfunkstellen ist die Sprache des
+2.  Bei Sprechfunkverkehr zwischen Schiffsfunkstellen ist die Sprache des
     Landes zu verwenden, in dem sich die Schiffsfunkstelle befindet, die
-    das Funkgespräch beginnt. Bei Verständigungsschwierigkeiten ist die
-    deutsche Sprache zu benutzen.
+    das Funkgespräch beginnt. Bei Sprechfunkverkehr zwischen
+    Schiffsfunkstellen und Funkstellen an Land ist die Sprache des Landes
+    zu benutzen, in dem sich die Funkstelle an Land befindet. Bei
+    Verständigungsschwierigkeiten im Sprechfunkverkehr zwischen
+    Schiffsfunkstellen oder zwischen Schiffsfunkstellen und Funkstellen an
+    Land ist die deutsche Sprache zu benutzen.
 
 
 3.  Kanäle der Verkehrskreise öffentlicher Nachrichtenaustausch, Schiff-
     Schiff, Nautische Information und Schiff-Hafenbehörde dürfen nur für
     Nachrichten benutzt werden, die von dieser Verordnung vorgeschrieben
-    oder zugelassen oder die aufgrund der Regionalen Vereinbarung über den
-    Binnenschiffahrtsfunk zugelassen sind.
+    oder zugelassen oder die aufgrund des Handbuchs Binnenschifffahrtsfunk
+    zugelassen sind.
 
 
 4.  Fahrzeuge mit Maschinenantrieb, ausgenommen Kleinfahrzeuge, dürfen nur
     fahren, wenn sie mit einer Sprechfunkanlage für die Verkehrskreise
-    Schiff--Schiff, Nautische Information und Schiff--Hafenbehörde
+    Schiff-Schiff, Nautische Information und Schiff-Hafenbehörde
     ausgerüstet sind und diese in gutem Betriebszustand ist. Die
-    Sprechfunkanlage muß die gleichzeitige Hörbereitschaft auf zwei dieser
-    Verkehrskreise gewährleisten.
+    Sprechfunkanlage muss die gleichzeitige Hörbereitschaft auf zwei
+    dieser Verkehrskreise gewährleisten.
 
 
 5.  Fahrzeuge mit Maschinenantrieb in Fahrt, ausgenommen Kleinfahrzeuge,
-    müssen die Anlage auf dem für den Verkehrskreis Schiff--Schiff
-    zugewiesenen Kanal und nur in begründeten Ausnahmefällen auf dem Kanal
-    eines anderen Verkehrskreises auf Empfang geschaltet haben sowie auf
-    den für die Verkehrskreise Schiff--Schiff und Nautische Information
-    zugewiesenen Kanälen die für die Sicherheit der Schiffahrt notwendigen
-    Nachrichten geben. Die Fahrzeuge müssen die Verkehrskreise Schiff--
-    Schiff und Nautische Information gleichzeitig auf Empfang geschaltet
-    haben.
+    müssen die Sprechfunkanlage auf dem für den Verkehrskreis Schiff-
+    Schiff zugewiesenen Kanal und nur in begründeten Ausnahmefällen auf
+    dem Kanal eines anderen Verkehrskreises auf Empfang geschaltet haben
+    sowie auf den für die Verkehrskreise Schiff-Schiff und Nautische
+    Information zugewiesenen Kanälen die für die Sicherheit der
+    Schifffahrt notwendigen Nachrichten geben. Die Sprechfunkanlage muss
+    die Verkehrskreise Schiff-Schiff und Nautische Information
+    gleichzeitig auf Empfang geschaltet haben.
 
 
 6.  Das Tafelzeichen B.11 (Anlage 7) weist auf eine von der zuständigen
@@ -4058,7 +4582,7 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 
-#### Abschnitt III. - Radar
+#### Abschnitt III. - Informations- und Navigationsgeräte
 
 
 
@@ -4067,8 +4591,8 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 1.  Fahrzeuge dürfen nur dann Radar benutzen, wenn
 
-    a)  sie mit einem für die Binnenschifffahrt geeigneten Radargerät und
-        einem Gerät zur Anzeige der Wendegeschwindigkeit des Fahrzeugs
+    a)  sie mit einem Radargerät und einem Gerät zur Anzeige der
+        Wendegeschwindigkeit des Fahrzeugs nach Artikel 7.06 Nummer 1 ES-TRIN
         ausgerüstet sind. Das gilt auch für Inland ECDIS Geräte, die unter
         Verwendung von Inland ECDIS beim Steuern des Fahrzeugs mit
         überlagertem Radarbild betrieben werden können (Navigationsmodus). Die
@@ -4099,6 +4623,175 @@ Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 36
 
 
 3.  Schnelle Schiffe in Fahrt müssen Radar benutzen.
+
+
+
+
+
+##### § 4.07 Inland AIS und Inland ECDIS
+
+
+1.  Fahrzeuge müssen mit einem Inland AIS Gerät nach Artikel 7.06 Nummer 3
+    ES-TRIN ausgerüstet sein. Das Inland AIS Gerät muss in gutem
+    Betriebszustand sein.
+    Satz 1 gilt nicht für folgende Fahrzeuge:
+
+
+    a)  Fahrzeuge von Schubverbänden und gekuppelten Fahrzeugen, ausgenommen
+        das Fahrzeug, das die Hauptantriebskraft stellt,
+
+
+    b)  Kleinfahrzeuge, ausgenommen
+
+
+        -   Polizeifahrzeuge, die mit einem Radargerät ausgerüstet sind, und
+
+
+        -   Fahrzeuge, die ein Schiffsattest nach der
+            Rheinschiffsuntersuchungsordnung oder ein nach dieser Ordnung als
+            gleichwertig anerkanntes Zeugnis besitzen,
+
+
+
+
+
+    c)  Schubleichter ohne eigenen Antrieb,
+
+
+    d)  schwimmende Geräte ohne eigenen Antrieb.
+
+
+
+
+
+2.  Das Inland AIS Gerät muss ständig eingeschaltet sein und die
+    eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten
+    des Fahrzeugs oder Verbands entsprechen.
+    Satz 1 gilt nicht,
+
+
+    a)  wenn sich die Fahrzeuge in einem Übernachtungshafen nach § 14.11
+        Nummer 1 befinden,
+
+
+    b)  wenn die zuständige Behörde eine Ausnahme für Wasserflächen, die von
+        der Fahrrinne baulich getrennt sind, gewährt hat,
+
+
+    c)  für Fahrzeuge der Polizei, wenn die Übermittlung von AIS Daten die
+        Erfüllung polizeilicher Aufgaben gefährden würde.
+
+
+
+
+
+*   Fahrzeuge nach Nummer 1 Satz 3 Buchstabe a müssen an Bord vorhandene
+    Inland AIS Geräte ausschalten, solange diese Fahrzeuge Teil des
+    Verbands sind.
+
+
+3.  Fahrzeuge, die mit einem Inland AIS Gerät ausgerüstet sein müssen,
+    ausgenommen Fähren, müssen zusätzlich mit einem Inland ECDIS Gerät im
+    Informationsmodus oder einem vergleichbaren Kartenanzeigegerät, das
+    mit dem Inland AIS Gerät verbunden sein muss, ausgestattet sein und
+    dieses zusammen mit einer aktuellen elektronischen
+    Binnenschifffahrtskarte nutzen.
+
+
+4.  Es müssen folgende Daten gemäß Kapitel 2 des Standards
+    Schiffsverfolgung und -aufspürung in der Binnenschifffahrt übermittelt
+    werden:
+
+
+    a)  User Identifier (Maritime Mobile Service Identity, MMSI);
+
+
+    b)  Schiffsname;
+
+
+    c)  Schiffstyp bzw. Verbandsgattung;
+
+
+    d)  einheitliche europäische Schiffsnummer (ENI), oder, für die
+        Seeschiffe, sofern keine ENI erteilt wurde, die IMO Nummer;
+
+
+    e)  Länge über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    f)  Breite über alles des Fahrzeugs bzw. Verbandes mit einer Genauigkeit
+        von 0,1 m;
+
+
+    g)  Position (WGS 84);
+
+
+    h)  Geschwindigkeit über Grund;
+
+
+    i)  Kurs über Grund;
+
+
+    j)  Zeitangabe der elektronischen Positionsermittlung;
+
+
+    k)  Navigationsstatus gemäß Anlage 11;
+
+
+    l)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+5.  Der Schiffsführer muss folgende Daten bei Änderungen umgehend
+    aktualisieren:
+
+
+    a)  Länge über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    b)  Breite über alles mit einer Genauigkeit von 0,1 m gemäß Anlage 11;
+
+
+    c)  Verbandsgattung;
+
+
+    d)  Navigationsstatus gemäß Anlage 11;
+
+
+    e)  Bezugspunkt der Positionsinformation auf dem Fahrzeug mit einer
+        Genauigkeit von 1 m gemäß Anlage 11.
+
+
+
+
+
+6.  Kleinfahrzeuge, die AIS nutzen, dürfen nur ein Inland AIS Gerät nach
+    Artikel 7.06 Nummer 3 ES-TRIN, ein nach den Vorschriften der IMO
+    typzugelassenes AIS Gerät der Klasse A oder ein AIS Gerät der Klasse B
+    verwenden. AIS Geräte der Klasse B müssen den einschlägigen
+    Anforderungen der Empfehlung ITU-R M.1371, der Richtlinie 2014/53/EU
+    des Europäischen Parlaments und des Rates vom 16. April 2014 über die
+    Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die
+    Bereitstellung von Funkanlagen auf dem Markt und zur Aufhebung der
+    Richtlinie 1999/5/EG und der internationalen Norm IEC 62287-1 oder 2
+    (einschließlich DSC Kanalmanagement) entsprechen. Das AIS Gerät muss
+    in einem guten Betriebszustand sein und die in das AIS Gerät
+    eingegebenen Daten müssen zu jedem Zeitpunkt den tatsächlichen Daten
+    des Fahrzeugs oder Verbands entsprechen.
+
+
+7.  Kleinfahrzeuge, denen keine einheitliche europäische Schiffsnummer
+    (ENI) erteilt wurde, brauchen die Daten nach Nummer 4 Buchstabe d
+    nicht zu übermitteln.
+
+
+8.  Kleinfahrzeuge, die AIS nutzen, müssen zusätzlich mit einer in einem
+    guten Betriebszustand befindlichen und auf Empfang geschalteten
+    Sprechfunkanlage für den Verkehrskreis Schiff-Schiff ausgerüstet sein.
 
 
 
@@ -4265,67 +4958,87 @@ Schnelle Schiffe müssen allen übrigen Fahrzeugen ausweichen.
 
 
 
+Begegnen  Grundregeln
 
-##### § 6.04 Begegnen Grundregeln (Anlage 3 Bild 63)
-
-
-1.  Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
-    örtlichen Umstände und des übrigen Verkehrs den Talfahrern einen
-    geeigneten Weg frei lassen.
+##### § 6.04 (Anlage 3  Bild 63)
 
 
-2.  Bergfahrer, die Talfahrer an Backbord vorbeifahren lassen, geben kein
-    Zeichen.
+*    *   1.
+
+    *   Beim Begegnen müssen die Bergfahrer unter Berücksichtigung der
+        örtlichen Umstände und des übrigen Verkehrs den Talfahrern einen
+        geeigneten Weg frei lassen.
 
 
-3.  Bergfahrer, die Talfahrer an Steuerbord vorbeifahren lassen, müssen
-    rechtzeitig nach Steuerbord zeigen:
+*    *   2.
 
-    a)  bei Nacht:
+    *   Bergfahrer, die Talfahrer an Backbord vorbeifahren lassen, geben kein
+        Zeichen.
 
-        ein weißes helles Funkellicht, das auch mit einer hellblauen Tafel
+
+*    *   3.
+
+    *   Bergfahrer, die Talfahrer an Steuerbord vorbeifahren lassen, müssen
+        rechtzeitig nach Steuerbord zeigen:
+
+
+*    *
+    *   a)
+
+    *   bei Nacht:
+
+    *
+
+*    *
+    *
+    *   ein weißes helles Funkellicht, das auch mit einer hellblauen Tafel
         gekoppelt sein darf,
 
-        ... nicht darstellbares Bild 63
+    *        ![bgbl2_1994_j0042_ab_0010.jpg](bgbl2_1994_j0042_ab_0010.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 42
+*    *
+    *   b)
 
+    *   bei Tag:
 
-    b)  bei Tag:
+    *
 
-        eine hellblaue Tafel, die mit einem weißen hellen Funkellicht
+*    *
+    *
+    *   eine hellblaue Tafel, die mit einem weißen hellen Funkellicht
         gekoppelt ist.
 
-        ... nicht darstellbares Bild 63
+    *        ![bgbl2_1994_j0042_ab_0020.jpg](bgbl2_1994_j0042_ab_0020.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 42
-
-
-
-
-    Die hellblaue Tafel muß einen weißen Rand von mindestens 5 cm Breite
-    haben, Rahmen und Gestänge sowie die Leuchte des Funkellichtes dürfen
-    nur von dunkler Farbe sein. Diese Zeichen müssen von vorn und von
-    hinten sichtbar sein und bis zur Beendigung der Vorbeifahrt gezeigt
-    werden. Sie dürfen nicht länger beibehalten werden, es sei denn, daß
-    die Bergfahrer ihre Absicht anzeigen wollen, auch weiterhin Talfahrer
-    an Steuerbord vorbeifahren zu lassen.
+*    *
+    *   Die hellblaue Tafel muß einen weißen Rand von mindestens 5 cm Breite
+        haben, Rahmen und Gestänge sowie die Leuchte des Funkellichtes dürfen
+        nur von dunkler Farbe sein. Diese Zeichen müssen von vorn und von
+        hinten sichtbar sein und bis zur Beendigung der Vorbeifahrt gezeigt
+        werden. Sie dürfen nicht länger beibehalten werden, es sei denn, daß
+        die Bergfahrer ihre Absicht anzeigen wollen, auch weiterhin Talfahrer
+        an Steuerbord vorbeifahren zu lassen.
 
 
-4.  Ist zu befürchten, daß die Absicht der Bergfahrer von den Talfahrern
-    nicht verstanden worden ist, müssen die Bergfahrer folgende Zeichen
-    geben:
+*    *   4.
 
-    "einen kurzen Ton", wenn die Vorbeifahrt an Backbord stattfinden soll,
-    oder "zwei kurze Töne", wenn die Vorbeifahrt an Steuerbord stattfinden
-    soll.
+    *   Ist zu befürchten, daß die Absicht der Bergfahrer von den Talfahrern
+        nicht verstanden worden ist, müssen die Bergfahrer folgende Zeichen
+        geben:
 
 
-5.  Unbeschadet des § 6.05 müssen die Talfahrer den Weg nehmen, den ihnen
-    die Bergfahrer nach den vorstehenden Bestimmungen weisen; sie müssen
-    die Sichtzeichen nach Nummer 3 und die Schallzeichen nach Nummer 4
-    erwidern, die die Bergfahrer an sie gerichtet haben.
+*    *
+    *   "einen kurzen Ton", wenn die Vorbeifahrt an Backbord stattfinden soll,
+        oder "zwei kurze Töne", wenn die Vorbeifahrt an Steuerbord stattfinden
+        soll.
 
+
+*    *   5.
+
+    *   Unbeschadet des § 6.05 müssen die Talfahrer den Weg nehmen, den ihnen
+        die Bergfahrer nach den vorstehenden Bestimmungen weisen; sie müssen
+        die Sichtzeichen nach Nummer 3 und die Schallzeichen nach Nummer 4
+        erwidern, die die Bergfahrer an sie gerichtet haben.
 
 
 
@@ -4431,49 +5144,50 @@ absprechen.
 ##### § 6.08 Durch Schiffahrtszeichen verbotenes Begegnen
 
 
-1.  Bei der Annäherung an Strecken, die durch das Tafelzeichen A.4 (Anlage
-    7) gekennzeichnet sind, ist das Begegnen und Überholen verboten. Das
-    Verbot nach Satz 1 kann auf Fahrzeuge und Verbände ab einer bestimmten
-    Länge oder Breite beschränkt werden; in diesem Fall werden die Länge
-    oder Breite auf einer rechteckigen weißen zusätzlichen Tafel
-    angegeben, die unterhalb des Tafelzeichens A.4 angebracht ist. Im
-    Übrigen gelten die Regelungen des § 6.07 Nr. 1 Buchstabe a bis d
-    entsprechend.
+*    *   1.
 
-    ... nicht darstellbares Tafelzeichen A.4
+    *   Bei der Annäherung an Strecken, die durch das Tafelzeichen A.4 (Anlage
+        7) gekennzeichnet sind, ist das Begegnen und Überholen verboten. Das
+        Verbot nach Satz 1 kann auf Fahrzeuge und Verbände ab einer bestimmten
+        Länge oder Breite beschränkt werden; in diesem Fall werden die Länge
+        oder Breite auf einer rechteckigen weißen zusätzlichen Tafel
+        angegeben, die unterhalb des Tafelzeichens A.4 angebracht ist. Im
+        Übrigen gelten die Regelungen des § 6.07 Nr. 1 Buchstabe a bis d
+        entsprechend.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 43
+    *        ![bgbl2_1994_j0043_ab_0010.jpg](bgbl2_1994_j0043_ab_0010.jpg)
 
+*    *   2.
 
-2.  Wenn die zuständige Behörde auf einer bestimmten Strecke das Begegnen
-    dadurch ausschließt, daß sie die Durchfahrt jeweils nur in einer
-    Richtung gestattet, bedeutet
-
-    ein allgemeines Zeichen A.1 (Anlage 7):
-
-    keine Durchfahrt,
-
-    ... nicht darstellbares Zeichen A.1
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 44)
-
-    ein allgemeines Zeichen E.1 (Anlage 7):
-
-    Durchfahrt frei.
-
-    ... nicht darstellbares Zeichen E.1
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 44)
-
-    je nach den örtlichen Umständen kann das Zeichen, das die Durchfahrt
-    verbietet, durch das als Vorwarnzeichen verwendete Tafelzeichen B.8
-    (Anlage 7) angekündigt werden.
-
-    ... nicht darstellbares Tafelzeichen B.8
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 44)
+    *   Wenn die zuständige Behörde auf einer bestimmten Strecke das Begegnen
+        dadurch ausschließt, daß sie die Durchfahrt jeweils nur in einer
+        Richtung gestattet, bedeutet
 
 
+*    *
+    *   ein allgemeines Zeichen A.1 (Anlage 7):
+
+    *        ![bgbl2_1994_j0044_ab_0010.jpg](bgbl2_1994_j0044_ab_0010.jpg)
+
+*    *
+    *   keine Durchfahrt,
+
+
+*    *
+    *   ein allgemeines Zeichen E.1 (Anlage 7):
+
+    *        ![bgbl2_1994_j0044_ab_0020.jpg](bgbl2_1994_j0044_ab_0020.jpg)
+
+*    *
+    *   Durchfahrt frei.
+
+
+*    *
+    *   je nach den örtlichen Umständen kann das Zeichen, das die Durchfahrt
+        verbietet, durch das als Vorwarnzeichen verwendete Tafelzeichen B.8
+        (Anlage 7) angekündigt werden.
+
+    *        ![bgbl2_1994_j0044_ab_0030.jpg](bgbl2_1994_j0044_ab_0030.jpg)
 
 
 
@@ -4562,26 +5276,27 @@ absprechen.
 
 ##### § 6.11 Überholverbot durch Schiffahrtszeichen
 
-Unbeschadet des § 6.08 Nr. 1 besteht
 
-a)  auf Strecken, deren Grenzen durch das Tafelzeichen A.2 (Anlage 7)
-    gekennzeichnet sind, ein allgemeines Überholverbot,
-
-    ... nicht darstellbares Tafelzeichen A.2
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 45
+*    *   Unbeschadet des § 6.08 Nr. 1 besteht
 
 
-b)  auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
-    gekennzeichnet sind, ein Überholverbot für Verbände untereinander.
-    Dies gilt nicht, wenn einer der Verbände ein Schubverband ist, dessen
-    Länge 110,00 m und dessen Breite 12,00 m nicht überschreiten.
+*    *
+    *   a)
 
-    ... nicht darstellbares Tafelzeichen A.3
+    *   auf Strecken, deren Grenzen durch das Tafelzeichen A.2 (Anlage 7)
+        gekennzeichnet sind, ein allgemeines Überholverbot,
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 45
+    *        ![bgbl2_1994_j0045_ab_0010.jpg](bgbl2_1994_j0045_ab_0010.jpg)
 
+*    *
+    *   b)
 
+    *   auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
+        gekennzeichnet sind, ein Überholverbot für Verbände untereinander.
+        Dies gilt nicht, wenn einer der Verbände ein Schubverband ist, dessen
+        Länge 110,00 m und dessen Breite 12,00 m nicht überschreiten.
+
+    *        ![bgbl2_1994_j0045_ab_0020.jpg](bgbl2_1994_j0045_ab_0020.jpg)
 
 
 
@@ -4591,66 +5306,89 @@ b)  auf Strecken, deren Grenzen durch das Tafelzeichen A.3 (Anlage 7)
 
 ##### § 6.12 Fahrt auf Strecken mit vorgeschriebenem Kurs
 
-Auf Strecken, die mit einem der Tafelzeichen B.1, B.2a, B.2b, B.3a,
-B.3b, B.4a oder B.4b (Anlage 7) bezeichnet sind, müssen die Fahrzeuge
-dem durch das Tafelzeichen vorgeschriebenen Kurs folgen.
-... nicht darstellbare Tafelzeichen B.1, B.2a, B.2b, B.3a, B.3b, B.4a
-und B.4b
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 45 und 46
+
+*    *   Auf Strecken, die mit einem der Tafelzeichen B.1, B.2a, B.2b, B.3a,
+        B.3b, B.4a oder B.4b (Anlage 7) bezeichnet sind, müssen die Fahrzeuge
+        dem durch das Tafelzeichen vorgeschriebenen Kurs folgen.
+
+    *
+    *        ![bgbl2_1994_j0045_ab_0030.jpg](bgbl2_1994_j0045_ab_0030.jpg)
+
+*    *
+    *
+    *        ![bgbl2_1994_j0046_ab_0010.jpg](bgbl2_1994_j0046_ab_0010.jpg)
+    *        ![bgbl2_1994_j0046_ab_0020.jpg](bgbl2_1994_j0046_ab_0020.jpg)
+
+*    *
+    *
+    *        ![bgbl2_1994_j0046_ab_0030.jpg](bgbl2_1994_j0046_ab_0030.jpg)
+    *        ![bgbl2_1994_j0046_ab_0040.jpg](bgbl2_1994_j0046_ab_0040.jpg)
+
+*    *
+    *
+    *        ![bgbl2_1994_j0046_ab_0050.jpg](bgbl2_1994_j0046_ab_0050.jpg)
+    *        ![bgbl2_1994_j0046_ab_0060.jpg](bgbl2_1994_j0046_ab_0060.jpg)
+
 
 
 ##### § 6.13 Wenden
 
 
-1.  Fahrzeuge dürfen nur wenden, nachdem sie sich vergewissert haben, daß
-    der übrige Verkehr unter Berücksichtigung der nachstehenden Nummern 2
-    und 3 dies ohne Gefahr zuläßt und andere Fahrzeuge nicht gezwungen
-    werden, unvermittelt ihren Kurs oder ihre Geschwindigkeit zu ändern.
+*    *   1.
+
+    *   Fahrzeuge dürfen nur wenden, nachdem sie sich vergewissert haben, daß
+        der übrige Verkehr unter Berücksichtigung der nachstehenden Nummern 2
+        und 3 dies ohne Gefahr zuläßt und andere Fahrzeuge nicht gezwungen
+        werden, unvermittelt ihren Kurs oder ihre Geschwindigkeit zu ändern.
 
 
-2.  Sofern das beabsichtigte Manöver andere Fahrzeuge dazu zwingt oder
-    zwingen kann, von ihrem Kurs abzuweichen oder ihre Geschwindigkeit zu
-    ändern, muß das Fahrzeug, das wenden will, seine Absicht rechtzeitig
-    wie folgt ankündigen:
+*    *   2.
 
-    a)  durch "einen langen Ton, einen kurzen Ton", wenn es über Steuerbord
+    *   Sofern das beabsichtigte Manöver andere Fahrzeuge dazu zwingt oder
+        zwingen kann, von ihrem Kurs abzuweichen oder ihre Geschwindigkeit zu
+        ändern, muß das Fahrzeug, das wenden will, seine Absicht rechtzeitig
+        wie folgt ankündigen:
+
+
+*    *
+    *   a)
+
+    *   durch "einen langen Ton, einen kurzen Ton", wenn es über Steuerbord
         wenden will,
 
 
-    b)  durch "einen langen Ton, zwei kurze Töne", wenn es über Backbord
+*    *
+    *   b)
+
+    *   durch "einen langen Ton, zwei kurze Töne", wenn es über Backbord
         wenden will.
 
 
+*    *   3.
+
+    *   Die anderen Fahrzeuge müssen daraufhin, sofern dies nötig und möglich
+        ist, ihre Geschwindigkeit und ihren Kurs ändern, damit das Wenden ohne
+        Gefahr geschehen kann.
 
 
+*    *   4.
 
-3.  Die anderen Fahrzeuge müssen daraufhin, sofern dies nötig und möglich
-    ist, ihre Geschwindigkeit und ihren Kurs ändern, damit das Wenden ohne
-    Gefahr geschehen kann.
+    *   Auf den durch das Tafelzeichen A.8 (Anlage 7) gekennzeichneten
+        Strecken ist das Wenden verboten.
 
+    *        ![bgbl2_1994_j0046_ab_0070.jpg](bgbl2_1994_j0046_ab_0070.jpg)
 
-4.  Auf den durch das Tafelzeichen A.8 (Anlage 7) gekennzeichneten
-    Strecken ist das Wenden verboten.
+*    *   Sind hingegen Strecken durch das Tafelzeichen E.8 (Anlage 7)
+        gekennzeichnet, so wird dem Schiffsführer empfohlen, dort zu wenden,
+        wobei dieser Paragraph zu beachten ist.
 
-    ... nicht darstellbares Tafelzeichen A.8
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 46
-
-    Sind hingegen Strecken durch das Tafelzeichen E.8 (Anlage 7)
-    gekennzeichnet, so wird dem Schiffsführer empfohlen, dort zu wenden,
-    wobei dieser Paragraph zu beachten ist.
-
-    ... nicht darstellbares Tafelzeichen E.8
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 47)
-
-
+    *        ![bgbl2_1994_j0047_ab_0010.jpg](bgbl2_1994_j0047_ab_0010.jpg)
 
 
 
 ##### § 6.14 Verhalten bei der Abfahrt
 
-§ 6.13 gilt entsprechend für Fahrzeuge, ausgenommen Fähren, die ihren
+   § 6.13 gilt entsprechend für Fahrzeuge, ausgenommen Fähren, die ihren
 Liege- oder Ankerplatz verlassen, ohne zu wenden; statt der
 Schallzeichen nach § 6.13 Nr. 2 haben sie jedoch folgende Zeichen zu
 geben:
@@ -4667,76 +5405,102 @@ Schleppverbandes hineinzufahren.
 ##### § 6.16 Einfahrt in und Ausfahrt aus Häfen und Nebenwasserstraßen
 
 
-1.  Fahrzeuge dürfen aus einem Hafen oder einer Nebenwasserstraße nur
-    ausfahren und in die Hauptwasserstraße einbiegen oder die
-    Hauptwasserstraße überqueren oder in einen Hafen oder eine
-    Nebenwasserstraße nur einfahren, nachdem sie sich vergewissert haben,
-    daß diese Manöver ausgeführt werden können, ohne daß eine Gefahr
-    entsteht und ohne daß andere Fahrzeuge unvermittelt ihren Kurs oder
-    ihre Geschwindigkeit ändern müssen. Ein Talfahrer, der zur Einfahrt in
-    einen Hafen oder in eine Nebenwasserstraße aufdrehen muß, hat einem
-    Bergfahrer, der ebenfalls einfahren will, die Vorfahrt zu lassen.
+*    *   1.
 
-    Wasserstraßen, die als Nebenwasserstraßen zu betrachten sind, können
-    durch ein Tafelzeichen E.9 oder E.10 (Anlage 7) gekennzeichnet sein.
+    *   Fahrzeuge dürfen aus einem Hafen oder einer Nebenwasserstraße nur
+        ausfahren und in die Hauptwasserstraße einbiegen oder die
+        Hauptwasserstraße überqueren oder in einen Hafen oder eine
+        Nebenwasserstraße nur einfahren, nachdem sie sich vergewissert haben,
+        daß diese Manöver ausgeführt werden können, ohne daß eine Gefahr
+        entsteht und ohne daß andere Fahrzeuge unvermittelt ihren Kurs oder
+        ihre Geschwindigkeit ändern müssen. Ein Talfahrer, der zur Einfahrt in
+        einen Hafen oder in eine Nebenwasserstraße aufdrehen muß, hat einem
+        Bergfahrer, der ebenfalls einfahren will, die Vorfahrt zu lassen.
 
-    ... nicht darstellbare Tafelzeichen E.9a, E.9b, E.9c, E.10a und E.10b
+    *        ![bgbl2_1994_j0047_ab_0020.jpg](bgbl2_1994_j0047_ab_0020.jpg)
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 47
+*    *
+    *   Wasserstraßen, die als Nebenwasserstraßen zu betrachten sind, können
+        durch ein Tafelzeichen E.9 oder E.10 (Anlage 7) gekennzeichnet sein.
 
 
-2.  Fahrzeuge - ausgenommen Fähren -, die ein Manöver im Sinne der Nummer
-    1 beabsichtigen, das andere Fahrzeuge dazu zwingt oder zwingen kann,
-    ihren Kurs oder ihre Geschwindigkeit zu ändern, müssen ihre Absicht
-    rechtzeitig wie folgt ankündigen:
+*    *
+    *        ![bgbl2_1994_j0047_ab_0030.jpg](bgbl2_1994_j0047_ab_0030.jpg)
+    *        ![bgbl2_1994_j0047_ab_0040.jpg](bgbl2_1994_j0047_ab_0040.jpg)
 
-    a)  durch "drei lange Töne, einen kurzen Ton", wenn sie vor der Einfahrt
+*    *
+    *        ![bgbl2_1994_j0047_ab_0050.jpg](bgbl2_1994_j0047_ab_0050.jpg)
+    *        ![bgbl2_1994_j0047_ab_0060.jpg](bgbl2_1994_j0047_ab_0060.jpg)
+
+*    *   2.
+
+    *   Fahrzeuge - ausgenommen Fähren -, die ein Manöver im Sinne der Nummer
+        1 beabsichtigen, das andere Fahrzeuge dazu zwingt oder zwingen kann,
+        ihren Kurs oder ihre Geschwindigkeit zu ändern, müssen ihre Absicht
+        rechtzeitig wie folgt ankündigen:
+
+
+*    *
+    *   a)
+
+    *   durch "drei lange Töne, einen kurzen Ton", wenn sie vor der Einfahrt
         oder nach der Ausfahrt ihren Kurs nach Steuerbord richten wollen;
 
 
-    b)  durch "drei lange Töne, zwei kurze Töne", wenn sie vor der Einfahrt
+*    *
+    *   b)
+
+    *   durch "drei lange Töne, zwei kurze Töne", wenn sie vor der Einfahrt
         oder nach der Ausfahrt ihren Kurs nach Backbord richten wollen;
 
 
-    c)  durch "drei lange Töne", wenn sie nach der Ausfahrt die Wasserstraße
+*    *
+    *   c)
+
+    *   durch "drei lange Töne", wenn sie nach der Ausfahrt die Wasserstraße
         überqueren wollen; vor Beendigung der Querfahrt müssen sie
         erforderlichenfalls geben:
 
-        "einen langen Ton, einen kurzen Ton", wenn sie ihren Kurs nach
+
+*    *
+    *
+    *   "einen langen Ton, einen kurzen Ton", wenn sie ihren Kurs nach
         Steuerbord richten wollen,
 
-        "einen langen Ton, zwei kurze Töne", wenn sie ihren Kurs nach Backbord
+
+*    *
+    *
+    *   "einen langen Ton, zwei kurze Töne", wenn sie ihren Kurs nach Backbord
         richten wollen.
 
 
+*    *
+    *   Die anderen Fahrzeuge müssen daraufhin, soweit notwendig, ihren Kurs
+        und ihre Geschwindigkeit ändern.
 
 
-    Die anderen Fahrzeuge müssen daraufhin, soweit notwendig, ihren Kurs
-    und ihre Geschwindigkeit ändern.
+*    *   3.
+
+    *   Ist an der Ausfahrt eines Hafens oder an der Mündung einer
+        Nebenwasserstraße ein Tafelzeichen B.9a oder B.9b (Anlage 7)
+        angebracht, dürfen die aus dem Hafen oder aus der Nebenwasserstraße
+        kommenden Fahrzeuge in die Hauptwasserstraße nur einbiegen oder sie
+        überqueren, wenn dadurch die Fahrzeuge auf der Hauptwasserstraße nicht
+        gezwungen werden, Kurs oder Geschwindigkeit zu ändern.
 
 
-3.  Ist an der Ausfahrt eines Hafens oder an der Mündung einer
-    Nebenwasserstraße ein Tafelzeichen B.9a oder B.9b (Anlage 7)
-    angebracht, dürfen die aus dem Hafen oder aus der Nebenwasserstraße
-    kommenden Fahrzeuge in die Hauptwasserstraße nur einbiegen oder sie
-    überqueren, wenn dadurch die Fahrzeuge auf der Hauptwasserstraße nicht
-    gezwungen werden, Kurs oder Geschwindigkeit zu ändern.
+*    *
+    *        ![bgbl2_1994_j0048_ab_0010.jpg](bgbl2_1994_j0048_ab_0010.jpg)
+    *        ![bgbl2_1994_j0048_ab_0020.jpg](bgbl2_1994_j0048_ab_0020.jpg)
 
-    ... nicht darstellbare Tafelzeichen B.9a und B.9b
+*    *   4.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 48)
+    *   Ein rotes Licht (Zeichen A.1, Anlage 7) mit einem weißen Pfeil
+        (Abschnitt II Nr. 2 Buchstabe c, Anlage 7) zeigt an, daß die Einfahrt
+        in den in Pfeilrichtung gelegenen Hafen oder in die in Pfeilrichtung
+        gelegene Nebenwasserstraße verboten ist.
 
-
-4.  Ein rotes Licht (Zeichen A.1, Anlage 7) mit einem weißen Pfeil
-    (Abschnitt II Nr. 2 Buchstabe c, Anlage 7) zeigt an, daß die Einfahrt
-    in den in Pfeilrichtung gelegenen Hafen oder in die in Pfeilrichtung
-    gelegene Nebenwasserstraße verboten ist.
-
-    ... nicht darstellbares Tafelzeichen A.1
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 48)
-
-
+    *        ![bgbl2_1994_j0048_ab_0030.jpg](bgbl2_1994_j0048_ab_0030.jpg)
 
 
 
@@ -4769,20 +5533,20 @@ Schleppverbandes hineinzufahren.
 ##### § 6.18 Verbot des Schleifenlassens von Ankern, Trossen oder Ketten
 
 
-1.  Es ist verboten, Anker, Trossen oder Ketten schleifen zu lassen.
+*    *   1.
+
+    *   Es ist verboten, Anker, Trossen oder Ketten schleifen zu lassen.
 
 
-2.  Das Verbot nach Nummer 1 gilt weder beim Treibenlassen, sofern dies
-    gestattet ist, noch für kleine Bewegungen auf Liegestellen, Lade- und
-    Löschplätzen sowie auf Reeden; es gilt jedoch für derartige Bewegungen
-    auf Strecken, die nach § 7.03 Nr. 1 Buchstabe b durch das Tafelzeichen
-    A.6 (Anlage 7) gekennzeichnet sind.
+*    *   2.
 
-    ... nicht darstellbares Tafelzeichen A.6
+    *   Das Verbot nach Nummer 1 gilt weder beim Treibenlassen, sofern dies
+        gestattet ist, noch für kleine Bewegungen auf Liegestellen, Lade- und
+        Löschplätzen sowie auf Reeden; es gilt jedoch für derartige Bewegungen
+        auf Strecken, die nach § 7.03 Nr. 1 Buchstabe b durch das Tafelzeichen
+        A.6 (Anlage 7) gekennzeichnet sind.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 49
-
-
+    *        ![bgbl2_1994_j0049_ab_0010.jpg](bgbl2_1994_j0049_ab_0010.jpg)
 
 
 
@@ -4808,52 +5572,71 @@ Schleppverbandes hineinzufahren.
 ##### § 6.20 Vermeidung von Wellenschlag
 
 
-1.  Fahrzeuge müssen ihre Geschwindigkeit so einrichten, daß Wellenschlag
-    oder Sogwirkungen, die Schäden an stilliegenden oder in Fahrt
-    befindlichen Fahrzeugen oder Schwimmkörpern oder an Anlagen
-    verursachen können, vermieden werden. Sie müssen ihre Geschwindigkeit
-    rechtzeitig vermindern, jedoch nicht unter das Maß, das zu ihrer
-    sicheren Steuerung notwendig ist:
+*    *   1.
 
-    a)  vor Hafenmündungen;
+    *   Fahrzeuge müssen ihre Geschwindigkeit so einrichten, daß Wellenschlag
+        oder Sogwirkungen, die Schäden an stilliegenden oder in Fahrt
+        befindlichen Fahrzeugen oder Schwimmkörpern oder an Anlagen
+        verursachen können, vermieden werden. Sie müssen ihre Geschwindigkeit
+        rechtzeitig vermindern, jedoch nicht unter das Maß, das zu ihrer
+        sicheren Steuerung notwendig ist:
 
 
-    b)  in der Nähe von Fahrzeugen, die am Ufer oder an Landebrücken
+*    *
+    *   a)
+
+    *   vor Hafenmündungen;
+
+    *        ![bgbl2_1994_j0049_ab_0020.jpg](bgbl2_1994_j0049_ab_0020.jpg)
+
+*    *
+    *   b)
+
+    *   in der Nähe von Fahrzeugen, die am Ufer oder an Landebrücken
         festgemacht sind oder die laden oder löschen;
 
 
-    c)  in der Nähe von Fahrzeugen, die auf den üblichen Liegestellen
+*    *
+    *   c)
+
+    *   in der Nähe von Fahrzeugen, die auf den üblichen Liegestellen
         stilliegen:
 
 
-    d)  in der Nähe nicht frei fahrender Fähren;
+*    *
+    *   d)
+
+    *   in der Nähe nicht frei fahrender Fähren;
 
 
-    e)  auf Strecken, die durch das Zeichen A.9 (Anlage 7) gekennzeichnet
+*    *
+    *   e)
+
+    *   auf Strecken, die durch das Zeichen A.9 (Anlage 7) gekennzeichnet
         sind.
 
-        ... nicht darstellbares Tafelzeichen A.9
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 49
+*    *   2.
 
-
-
-
-
-2.  Gegenüber Kleinfahrzeugen besteht die Verpflichtung nach Nummer 1 Satz
-    2 Buchstabe b und c nicht; § 1.04 bleibt unberührt.
+    *   Gegenüber Kleinfahrzeugen besteht die Verpflichtung nach Nummer 1 Satz
+        2 Buchstabe b und c nicht; § 1.04 bleibt unberührt.
 
 
-3.  Beim Vorbeifahren an Fahrzeugen, die die Bezeichnung nach § 3.25 Nr. 1
-    Buchstabe c führen,
+*    *   3.
 
-    und an Fahrzeugen, Schwimmkörpern oder schwimmenden Anlagen, die die
-    Bezeichnung nach § 3.29 Nr. 1 führen,
+    *   Beim Vorbeifahren an Fahrzeugen, die die Bezeichnung nach § 3.25 Nr. 1
+        Buchstabe c führen,
 
-    müssen andere Fahrzeuge ihre Geschwindigkeit, wie in Nummer 1
-    vorgeschrieben, vermindern. Sie haben außerdem möglichst weiten
-    Abstand zu halten.
 
+*    *
+    *   und an Fahrzeugen, Schwimmkörpern oder schwimmenden Anlagen, die die
+        Bezeichnung nach § 3.29 Nr. 1 führen,
+
+
+*    *
+    *   müssen andere Fahrzeuge ihre Geschwindigkeit, wie in Nummer 1
+        vorgeschrieben, vermindern. Sie haben außerdem möglichst weiten
+        Abstand zu halten.
 
 
 
@@ -4908,19 +5691,32 @@ Schleppverbandes hineinzufahren.
 
 
 
+Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an
+festgefahrenen oder gesunkenen Fahrzeugen
 
-##### § 6.22a Vorbeifahrt an schwimmenden Geräten bei der Arbeit sowie an festgefahrenen oder gesunkenen Fahrzeugen (Anlage 3 Bilder 50a, 50b, 52)
+##### § 6.22a (Anlage 3  Bilder 50a, 50b, 52)
 
-Es ist verboten, an den in § 3.25 genannten Fahrzeugen an der Seite
-vorbeizufahren, an der sie das rote Licht oder die roten Lichter nach
-§ 3.25 Nr. 1 Buchstabe b und d oder das Tafelzeichen A.1 (Anlage 7),
-den roten Ball
-... nicht darstellbare Bilder 50a und 52
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 50
-oder die rote Flagge nach § 3.25 Nr. 1 Buchstabe b und d
-... nicht darstellbare Bilder 50a, 50b und 52
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 50
-zeigen.
+
+*    *   Es ist verboten, an den in § 3.25 genannten Fahrzeugen an der Seite
+        vorbeizufahren, an der sie
+
+
+*    *   das rote Licht oder die roten Lichter nach § 3.25 Nr. 1 Buchstabe b
+        und d oder das Tafelzeichen A.1 (Anlage 7), den roten Ball
+
+    *        ![bgbl2_1994_j0050_ab_0010.jpg](bgbl2_1994_j0050_ab_0010.jpg)
+    *        ![bgbl2_1994_j0050_ab_0020.jpg](bgbl2_1994_j0050_ab_0020.jpg)
+
+*    *   oder die rote Flagge nach § 3.25 Nr. 1 Buchstabe b und d
+
+    *        ![bgbl2_1994_j0050_ab_0030.jpg](bgbl2_1994_j0050_ab_0030.jpg)
+    *        ![bgbl2_1994_j0050_ab_0040.jpg](bgbl2_1994_j0050_ab_0040.jpg)
+
+*    *   zeigen.
+
+    *
+    *        ![bgbl2_1994_j0050_ab_0050.jpg](bgbl2_1994_j0050_ab_0050.jpg)
+
 
 
 #### Abschnitt IV. - Fähren
@@ -4966,84 +5762,95 @@ zeigen.
 
 
 
-##### § 6.24 Durchfahren von Brücken und Wehren Allgemeines
+##### § 6.24 Durchfahren von Brücken und Wehren  Allgemeines
 
 
-1.  In einer Brücken- oder Wehröffnung gilt § 6.07, es sei denn, das
-    Fahrwasser gewährt hinreichenden Raum für die gleichzeitige
-    Durchfahrt.
+*    *   1.
+
+    *   In einer Brücken- oder Wehröffnung gilt § 6.07, es sei denn, das
+        Fahrwasser gewährt hinreichenden Raum für die gleichzeitige
+        Durchfahrt.
 
 
-2.  Ist eine Brücken- oder Wehröffnung gekennzeichnet
+*    *   2.
 
-    a)  durch das Tafelzeichen A.10 (Anlage 7), ist die Schiffahrt in dieser
+    *   Ist eine Brücken- oder Wehröffnung gekennzeichnet
+
+
+*    *
+    *   a)
+
+    *   durch das Tafelzeichen A.10 (Anlage 7), ist die Schiffahrt in dieser
         Öffnung außerhalb des durch die beiden Tafeln dieses Zeichens
         begrenzten Raumes verboten;
 
-        ... nicht darstellbares Tafelzeichen A.10
+    *        ![bgbl2_1994_j0051_ab_0010.jpg](bgbl2_1994_j0051_ab_0010.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 51
+*    *
+    *   b)
 
-
-    b)  durch das Tafelzeichen D.2 (Anlage 7), wird der Schiffahrt empfohlen,
+    *   durch das Tafelzeichen D.2 (Anlage 7), wird der Schiffahrt empfohlen,
         sich in dieser Öffnung in dem durch die beiden Tafeln dieses Zeichens
         begrenzten Raum zu halten.
 
-        ... nicht darstellbares Tafelzeichen D.2
-
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 51
-
-
-
-
-
+    *        ![bgbl2_1994_j0051_ab_0020.jpg](bgbl2_1994_j0051_ab_0020.jpg)
 
 
 
 ##### § 6.25 Durchfahrt unter festen Brücken
 
 
-1.  Sind bestimmte Öffnungen fester Brücken durch ein allgemeines Zeichen
-    A.1 (Anlage 7) gekennzeichnet, ist das Durchfahren dieser Öffnungen
-    verboten.
+*    *   1.
 
-    ... nicht darstellbares Zeichen A.1
+    *   Sind bestimmte Öffnungen fester Brücken durch ein allgemeines Zeichen
+        A.1 (Anlage 7) gekennzeichnet, ist das Durchfahren dieser Öffnungen
+        verboten.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 51
+    *        ![bgbl2_1994_j0051_ab_0030.jpg](bgbl2_1994_j0051_ab_0030.jpg)
 
+*    *   2.
 
-2.  Sind bestimmte Öffnungen fester Brücken gekennzeichnet
+    *   Sind bestimmte Öffnungen fester Brücken gekennzeichnet
 
-    a)  durch das Tafelzeichen D.1a (Anlage 7)
+    *
 
-        ... nicht darstellbares Tafelzeichen D.1a
+*    *
+    *   a)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 52)
+    *   durch das Tafelzeichen D.1a (Anlage 7)
 
-        oder
+    *        ![bgbl2_1994_j0052_ab_0010.jpg](bgbl2_1994_j0052_ab_0010.jpg)
 
+*    *
+    *
+    *   oder
 
-    b)  durch das Tafelzeichen D.1b (Anlage 7) - angebracht über der
+    *
+
+*    *
+    *   b)
+
+    *   durch das Tafelzeichen D.1b (Anlage 7) - angebracht über der
         Brückenöffnung -,
 
-        ... nicht darstellbares Tafelzeichen D.1b
+    *        ![bgbl2_1994_j0052_ab_0020.jpg](bgbl2_1994_j0052_ab_0020.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 52)
+*    *
+    *   wird empfohlen, vorzugsweise diese Öffnungen zu benutzen.
+
+    *
+
+*    *
+    *   Ist die Öffnung nach Buchstabe a gekennzeichnet, ist die Durchfahrt in
+        beiden Richtungen erlaubt; ist sie nach Buchstabe b gekennzeichnet,
+        ist die Durchfahrt in Gegenrichtung verboten.
 
 
+*    *   3.
 
-
-    wird empfohlen, vorzugsweise diese Öffnungen zu benutzen.
-
-    Ist die Öffnung nach Buchstabe a gekennzeichnet, ist die Durchfahrt in
-    beiden Richtungen erlaubt; ist sie nach Buchstabe b gekennzeichnet,
-    ist die Durchfahrt in Gegenrichtung verboten.
-
-
-3.  Sind bestimmte Öffnungen fester Brücken nach Nummer 2 gekennzeichnet,
-    kann die Schiffahrt die nicht gekennzeichneten Öffnungen nur auf
-    eigene Gefahr benutzen.
-
+    *   Sind bestimmte Öffnungen fester Brücken nach Nummer 2 gekennzeichnet,
+        kann die Schiffahrt die nicht gekennzeichneten Öffnungen nur auf
+        eigene Gefahr benutzen.
 
 
 
@@ -5079,22 +5886,20 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen
 ##### § 6.27 Durchfahren der Wehre
 
 
-1.  Das Verbot, eine Wehröffnung zu durchfahren, kann durch ein
-    allgemeines Zeichen A.1 (Anlage 7) angezeigt werden.
+*    *   1.
 
-    ... nicht darstellbares Zeichen A.1
+    *   Das Verbot, eine Wehröffnung zu durchfahren, kann durch ein
+        allgemeines Zeichen A.1 (Anlage 7) angezeigt werden.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 52
+    *        ![bgbl2_1994_j0052_ab_0030.jpg](bgbl2_1994_j0052_ab_0030.jpg)
 
+*    *   2.
 
-2.  Das Durchfahren einer Wehröffnung ist nur gestattet, wenn diese links
-    und rechts durch ein allgemeines Zeichen E.1 (Anlage 7) gekennzeichnet
-    ist.
+    *   Das Durchfahren einer Wehröffnung ist nur gestattet, wenn diese links
+        und rechts durch ein allgemeines Zeichen E.1 (Anlage 7) gekennzeichnet
+        ist.
 
-    ... nicht darstellbares Zeichen E.1
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 52
-
+    *        ![bgbl2_1994_j0052_ab_0040.jpg](bgbl2_1994_j0052_ab_0040.jpg)
 
 
 
@@ -5102,105 +5907,141 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen
 ##### § 6.28 Durchfahren der Schleusen
 
 
-1.  Bei der Annäherung an die Schleusenvorhäfen müssen die Fahrzeuge ihre
-    Fahrt verlangsamen. Können oder wollen sie nicht sogleich in die
-    Schleuse einfahren, haben sie, wenn am Ufer das Tafelzeichen B.5
-    (Anlage 7) aufgestellt ist, vor diesem anzuhalten.
+*    *   1.
 
-    ... nicht darstellbares Tafelzeichen B.5
+    *   Bei der Annäherung an die Schleusenvorhäfen müssen die Fahrzeuge ihre
+        Fahrt verlangsamen. Können oder wollen sie nicht sogleich in die
+        Schleuse einfahren, haben sie, wenn am Ufer das Tafelzeichen B.5
+        (Anlage 7) aufgestellt ist, vor diesem anzuhalten.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 53
+    *        ![bgbl2_1994_j0053_ab_0010.jpg](bgbl2_1994_j0053_ab_0010.jpg)
 
+*    *   2.
 
-2.  In den Schleusenvorhäfen und in den Schleusen müssen Fahrzeuge, die
-    mit einer Sprechfunkanlage für den Verkehrskreis Nautische Information
-    ausgerüstet sind, den Kanal der Schleuse auf Empfang geschaltet haben.
-
-
-3.  Geschleust wird in der Reihenfolge des Eintreffens in den
-    Schleusenvorhäfen. Kleinfahrzeuge sind nicht berechtigt, eine
-    besondere Schleusung zu verlangen. Sie dürfen erst nach Aufforderung
-    durch die Schleusenaufsicht in die Schleuse einfahren. Außerdem dürfen
-    die Kleinfahrzeuge, wenn sie gemeinsam mit anderen Fahrzeugen
-    geschleust werden, erst nach diesen in die Schleuse einfahren.
+    *   In den Schleusenvorhäfen und in den Schleusen müssen Fahrzeuge, die
+        mit einer Sprechfunkanlage für den Verkehrskreis Nautische Information
+        ausgerüstet sind, den Kanal der Schleuse auf Empfang geschaltet haben.
 
 
-4.  Bei der Annäherung an die Schleusen, insbesondere in den
-    Schleusenvorhäfen, ist das Überholen verboten.
+*    *   3.
+
+    *   Geschleust wird in der Reihenfolge des Eintreffens in den
+        Schleusenvorhäfen. Kleinfahrzeuge sind nicht berechtigt, eine
+        besondere Schleusung zu verlangen. Sie dürfen erst nach Aufforderung
+        durch die Schleusenaufsicht in die Schleuse einfahren. Außerdem dürfen
+        die Kleinfahrzeuge, wenn sie gemeinsam mit anderen Fahrzeugen
+        geschleust werden, erst nach diesen in die Schleuse einfahren.
 
 
-5.  In den Schleusen müssen die Anker vollständig hochgenommen sein. Das
-    gilt auch in den Schleusenvorhäfen, solange die Anker nicht benutzt
-    werden.
+*    *   4.
+
+    *   Bei der Annäherung an die Schleusen, insbesondere in den
+        Schleusenvorhäfen, ist das Überholen verboten.
 
 
-6.  Bei der Einfahrt in die Schleusen müssen die Fahrzeuge ihre
-    Geschwindigkeit so vermindern, daß ein Anprall an die Schleusentore
-    oder an die Schutzvorrichtungen sowie an andere Fahrzeuge oder an
-    Schwimmkörper vermieden wird.
+*    *   5.
+
+    *   In den Schleusen müssen die Anker vollständig hochgenommen sein. Das
+        gilt auch in den Schleusenvorhäfen, solange die Anker nicht benutzt
+        werden.
 
 
-7.  In den Schleusen
+*    *   6.
 
-    a)  haben sich die Fahrzeuge, sofern an den Schleusenwänden Grenzen
+    *   Bei der Einfahrt in die Schleusen müssen die Fahrzeuge ihre
+        Geschwindigkeit so vermindern, daß ein Anprall an die Schleusentore
+        oder an die Schutzvorrichtungen sowie an andere Fahrzeuge oder an
+        Schwimmkörper vermieden wird.
+
+
+*    *   7.
+
+    *   In den Schleusen
+
+
+*    *
+    *   a)
+
+    *   haben sich die Fahrzeuge, sofern an den Schleusenwänden Grenzen
         markiert sind, innerhalb dieser Grenzen zu halten;
 
 
-    b)  müssen die Fahrzeuge während der Füllung und der Entleerung der
+*    *
+    *   b)
+
+    *   müssen die Fahrzeuge während der Füllung und der Entleerung der
         Schleusenkammer und bis zur Freigabe der Ausfahrt festgemacht sein und
         die Befestigungsmittel derart bedient werden, daß Stöße gegen die
         Schleusenwände, die Schleusentore oder die Schutzvorrichtungen sowie
         gegen die anderen Fahrzeuge oder Schwimmkörper vermieden werden;
 
 
-    c)  sind Fender zu verwenden, die schwimmfähig sein müssen, wenn sie nicht
+*    *
+    *   c)
+
+    *   sind Fender zu verwenden, die schwimmfähig sein müssen, wenn sie nicht
         fest mit dem Fahrzeug verbunden sind;
 
 
-    d)  ist es verboten, von den Fahrzeugen oder Schwimmkörpern Wasser auf die
+*    *
+    *   d)
+
+    *   ist es verboten, von den Fahrzeugen oder Schwimmkörpern Wasser auf die
         Schleusenplattformen, auf die anderen Fahrzeuge oder Schwimmkörper zu
         schütten oder ausfließen zu lassen;
 
 
-    e)  ist es verboten, nach dem Festmachen des Fahrzeugs bis zur Freigabe
+*    *
+    *   e)
+
+    *   ist es verboten, nach dem Festmachen des Fahrzeugs bis zur Freigabe
         der Ausfahrt den Maschinenantrieb zu benutzen;
 
 
-    f)  müssen Kleinfahrzeuge Abstand zu den anderen Fahrzeugen halten.
+*    *
+    *   f)
+
+    *   müssen Kleinfahrzeuge Abstand zu den anderen Fahrzeugen halten.
 
 
+*    *   8.
+
+    *   In den Schleusenvorhäfen und in den Schleusen muss zu Fahrzeugen und
+        Verbänden, die die Bezeichnung nach § 3.14 Nr. 1 führen, ein
+        seitlicher Abstand von mindestens 10 m eingehalten werden. Das gilt
+        jedoch nicht für Fahrzeuge und Verbände, die die gleiche Bezeichnung
+        führen und für die in § 3.14 Nr. 7 genannten Fahrzeuge.
 
 
+*    *   9.
 
-8.  In den Schleusenvorhäfen und in den Schleusen muss zu Fahrzeugen und
-    Verbänden, die die Bezeichnung nach § 3.14 Nr. 1 führen, ein
-    seitlicher Abstand von mindestens 10 m eingehalten werden. Das gilt
-    jedoch nicht für Fahrzeuge und Verbände, die die gleiche Bezeichnung
-    führen und für die in § 3.14 Nr. 7 genannten Fahrzeuge.
+    *   Fahrzeuge und Verbände, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3
+        führen, werden allein geschleust.
 
 
-9.  Fahrzeuge und Verbände, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3
-    führen, werden allein geschleust.
+*    *   10.
+
+    *   Fahrzeuge und Verbände, die die Bezeichnung nach § 3.14 Nr. 1 führen,
+        werden nicht zusammen mit Fahrgastschiffen geschleust.
 
 
-10. Fahrzeuge und Verbände, die die Bezeichnung nach § 3.14 Nr. 1 führen,
-    werden nicht zusammen mit Fahrgastschiffen geschleust.
+*    *   11.
+
+    *   Bei der Annäherung an die Schleusenvorhäfen, bei der Schleusung und
+        dem Verlassen der Schleuse müssen die schnellen Schiffe ihre
+        Geschwindigkeit so weit herabsetzen, dass jeder Schaden an Schleusen,
+        Fahrzeugen oder schwimmenden Geräten und jede Gefahr für Personen an
+        Bord der anderen Fahrzeuge oder schwimmenden Geräte oder an Land durch
+        Wellenschlag vermieden wird.
 
 
-11. Bei der Annäherung an die Schleusenvorhäfen, bei der Schleusung und
-    dem Verlassen der Schleuse müssen die schnellen Schiffe ihre
-    Geschwindigkeit so weit herabsetzen, dass jeder Schaden an Schleusen,
-    Fahrzeugen oder schwimmenden Geräten und jede Gefahr für Personen an
-    Bord der anderen Fahrzeuge oder schwimmenden Geräte oder an Land durch
-    Wellenschlag vermieden wird.
+*    *   12.
 
-
-12. Die Schleusenaufsicht kann aus Gründen der Sicherheit und Leichtigkeit
-    des Verkehrs, zur Beschleunigung der Durchfahrt oder zur vollen
-    Ausnutzung der Schleusen Anordnungen erteilen, die diesen Paragraphen
-    ergänzen oder von ihm abweichen. Die Fahrzeuge haben diese Anordnungen
-    in den Schleusen und in den Schleusenvorhäfen zu befolgen.
-
+    *   Die Schleusenaufsicht kann aus Gründen der Sicherheit und Leichtigkeit
+        des Verkehrs, zur Beschleunigung der Durchfahrt oder zur vollen
+        Ausnutzung der Schleusen Anordnungen erteilen, die diesen Paragraphen
+        ergänzen oder von ihm abweichen. Die Fahrzeuge haben diese Anordnungen
+        in den Schleusen und in den Schleusenvorhäfen zu befolgen.
 
 
 
@@ -5208,64 +6049,110 @@ d)  Beim Ankern, Schleifenlassen von Ketten, Fieren von Tauen, Festmachen
 ##### § 6.28a Schleuseneinfahrt und -ausfahrt
 
 
-1.  Die Einfahrt in die Schleuse wird bei Tag und bei Nacht durch
-    Signallichter geregelt, die auf einer Seite oder auf beiden Seiten der
-    Schleuse gezeigt werden. Diese Signallichter haben folgende Bedeutung:
+*    *   1.
 
-    a)  zwei rote Lichter übereinander:
-
-        Einfahrt verboten, Schleuse außer Betrieb;
+    *   Die Einfahrt in die Schleuse wird bei Tag und bei Nacht durch
+        Signallichter geregelt, die auf einer Seite oder auf beiden Seiten der
+        Schleuse gezeigt werden. Diese Signallichter haben folgende Bedeutung:
 
 
-    b)  ein rotes Licht oder zwei rote Lichter nebeneinander:
+*    *
+    *   a)
 
-        Einfahrt verboten, Schleuse geschlossen;
+    *   Die Einfahrt in die Schleuse wird bei Tag und bei Nacht durch
+        Signallichter geregelt, die auf einer Seite oder auf beiden Seiten der
+        Schleuse gezeigt werden.
 
 
-    c)  das Erlöschen eines der beiden nebeneinander gezeigten roten Lichter
+*    *
+    *
+    *   Einfahrt verboten, Schleuse außer Betrieb;
+
+    *
+
+*    *
+    *   b)
+
+    *   ein rotes Licht oder zwei rote Lichter nebeneinander:
+
+
+*    *
+    *
+    *   Einfahrt verboten, Schleuse geschlossen;
+
+    *
+
+*    *
+    *   c)
+
+    *   das Erlöschen eines der beiden nebeneinander gezeigten roten Lichter
         oder ein rotes und ein grünes Licht nebeneinander:
 
-        Einfahrt verboten, Öffnung der Schleuse wird vorbereitet;
+
+*    *
+    *
+    *   Einfahrt verboten, Öffnung der Schleuse wird vorbereitet;
+
+    *
+
+*    *
+    *   d)
+
+    *   ein grünes Licht oder zwei grüne Lichter nebeneinander:
 
 
-    d)  ein grünes Licht oder zwei grüne Lichter nebeneinander:
+*    *
+    *
+    *   Einfahrt erlaubt.
 
-        Einfahrt erlaubt.
+    *
 
+*    *   2.
 
-
-
-
-2.  Die Ausfahrt aus der Schleuse wird bei Nacht und bei Tag durch
-    folgende Signallichter geregelt:
-
-    a)  ein rotes Licht oder zwei rote Lichter:
-
-        Ausfahrt verboten;
+    *   Die Ausfahrt aus der Schleuse wird bei Nacht und bei Tag durch
+        folgende Signallichter geregelt:
 
 
-    b)  ein grünes Licht oder zwei grüne Lichter:
+*    *
+    *   a)
 
-        Ausfahrt erlaubt.
+    *   ein rotes Licht oder zwei rote Lichter:
 
+    *
 
+*    *
+    *
+    *   Ausfahrt verboten;
 
+    *
 
+*    *
+    *   b)
 
-3.  Anstelle des roten Lichtes oder der roten Lichter nach den Nummern 1
-    und 2 kann das Tafelzeichen A.1 (Anlage 7), anstelle des grünen
-    Lichtes oder der grünen Lichter nach den Nummern 1 und 2 kann das
-    Tafelzeichen E.1 (Anlage 7) gesetzt werden.
+    *   ein grünes Licht oder zwei grüne Lichter:
 
-    ... nicht darstellbare Tafelzeichen A.1 und E.1
+    *
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 54
+*    *
+    *
+    *   Ausfahrt erlaubt.
 
+    *
 
-4.  Werden keine Signallichter oder keine Tafelzeichen gezeigt, ist die
-    Einfahrt in die Schleuse oder die Ausfahrt aus der Schleuse ohne
-    besondere Anordnung der Schleusenaufsicht verboten.
+*    *   3.
 
+    *   Anstelle des roten Lichtes oder der roten Lichter nach den Nummern 1
+        und 2 kann das Tafelzeichen A.1 (Anlage 7), anstelle des grünen
+        Lichtes oder der grünen Lichter nach den Nummern 1 und 2 kann das
+        Tafelzeichen E.1 (Anlage 7) gesetzt werden.
+
+    *        ![bgbl2_1994_j0054_ab_0010.jpg](bgbl2_1994_j0054_ab_0010.jpg)
+
+*    *   4.
+
+    *   Werden keine Signallichter oder keine Tafelzeichen gezeigt, ist die
+        Einfahrt in die Schleuse oder die Ausfahrt aus der Schleuse ohne
+        besondere Anordnung der Schleusenaufsicht verboten.
 
 
 
@@ -5497,119 +6384,174 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 #### § 7.02 Liegeverbot
 
 
-1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
-    stilliegen
+*    *   1.
 
-    a)  auf den Abschnitten der Wasserstraße, für die ein allgemeines
+    *   Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
+        stilliegen
+
+
+*    *
+    *   a)
+
+    *   auf den Abschnitten der Wasserstraße, für die ein allgemeines
         Stilliegeverbot besteht;
 
 
-    b)  auf den von der zuständigen Behörde bekanntgegebenen Strecken;
+*    *
+    *   b)
+
+    *   auf den von der zuständigen Behörde bekanntgegebenen Strecken;
 
 
-    c)  auf den durch das Tafelzeichen A.5 (Anlage 7) gekennzeichneten
+*    *
+    *   c)
+
+    *   auf den durch das Tafelzeichen A.5 (Anlage 7) gekennzeichneten
         Strecken, auf der Seite der Wasserstraße, auf der das Tafelzeichen
         steht;
 
-        ... nicht darstellbares Tafelzeichen A.5
+    *        ![bgbl2_1994_j0056_ab_0010.jpg](bgbl2_1994_j0056_ab_0010.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 56
+*    *
+    *   d)
+
+    *   unter Brücken und Hochspannungsleitungen;
 
 
-    d)  unter Brücken und Hochspannungsleitungen;
+*    *
+    *   e)
 
-
-    e)  in Fahrwasserengen im Sinne des § 6.07 und in ihrer Nähe sowie auf
+    *   in Fahrwasserengen im Sinne des § 6.07 und in ihrer Nähe sowie auf
         Strecken, die durch das Stilliegen zu Fahrwasserengen werden würden,
         und in der Nähe solcher Strecken;
 
 
-    f)  an den Einfahrten in und den Ausfahrten aus Häfen und
+*    *
+    *   f)
+
+    *   an den Einfahrten in und den Ausfahrten aus Häfen und
         Nebenwasserstraßen;
 
 
-    g)  in der Fahrlinie von Fähren;
+*    *
+    *   g)
+
+    *   in der Fahrlinie von Fähren;
 
 
-    h)  im Kurs, den Fahrzeuge beim Anlegen an Landebrücken und beim Abfahren
+*    *
+    *   h)
+
+    *   im Kurs, den Fahrzeuge beim Anlegen an Landebrücken und beim Abfahren
         benutzen;
 
 
-    i)  auf Wendestellen, die durch das Tafelzeichen E.8 (Anlage 7)
+*    *
+    *   i)
+
+    *   auf Wendestellen, die durch das Tafelzeichen E.8 (Anlage 7)
         gekennzeichnet sind;
 
-        ... nicht darstellbares Tafelzeichen E.8
+    *        ![bgbl2_1994_j0057_ab_0010.jpg](bgbl2_1994_j0057_ab_0010.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 57)
+*    *
+    *   k)
 
-
-    k)  seitlich neben einem Fahrzeug, das das Tafelzeichen nach § 3.33 führt,
+    *   seitlich neben einem Fahrzeug, das das Tafelzeichen nach § 3.33 führt,
         innerhalb des Abstandes, der auf der dreieckigen weißen Zusatztafel in
         Metern angegeben ist;
 
-        ... nicht darstellbares Tafelzeichen 62
+    *        ![bgbl2_1994_j0057_ab_0020.jpg](bgbl2_1994_j0057_ab_0020.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 57)
+*    *
+    *   l)
 
-
-    l)  auf den durch das Tafelzeichen A.5.1 (Anlage 7) gekennzeichneten
+    *   auf den durch das Tafelzeichen A.5.1 (Anlage 7) gekennzeichneten
         Wasserflächen, deren Breite auf dem Tafelzeichen in Metern angegeben
         ist. Die Breite bemißt sich vom Aufstellungsort des Tafelzeichens.
 
-        ... nicht darstellbares Tafelzeichen A.5.1
+    *        ![bgbl2_1994_j0057_ab_0030.jpg](bgbl2_1994_j0057_ab_0030.jpg)
 
-        (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 57)
+*    *   2.
 
-
-
-
-
-2.  Auf den Abschnitten, auf denen das Stilliegen nach Nummer 1 Buchstabe
-    a bis d verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie
-    schwimmende Anlagen nur auf den Liegestellen stilliegen, die durch
-    eines der Tafelzeichen E.5 bis E.7 (Anlage 7) gekennzeichnet sind.
-    Dabei sind die §§ 7.03, 7.04, 7.05 und 7.06 zu beachten.
-
-    ... nicht darstellbare Tafelzeichen E.5, E.5.1 bis E.5.15, E.6 und E.7
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 57 - 59)
+    *   Auf den Abschnitten, auf denen das Stilliegen nach Nummer 1 Buchstabe
+        a bis d verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie
+        schwimmende Anlagen nur auf den Liegestellen stilliegen, die durch
+        eines der Tafelzeichen E.5 bis E.7 (Anlage 7) gekennzeichnet sind.
+        Dabei sind die §§ 7.03, 7.04, 7.05 und 7.06 zu beachten.
 
 
+*    *        ![bgbl2_1994_j0057_ab_0040.jpg](bgbl2_1994_j0057_ab_0040.jpg)
+    *        ![bgbl2_1994_j0057_ab_0050.jpg](bgbl2_1994_j0057_ab_0050.jpg)
+
+*    *        ![bgbl2_1994_j0057_ab_0060.jpg](bgbl2_1994_j0057_ab_0060.jpg)
+    *        ![bgbl2_1994_j0057_ab_0070.jpg](bgbl2_1994_j0057_ab_0070.jpg)
+
+*    *        ![bgbl2_1994_j0058_ab_0010.jpg](bgbl2_1994_j0058_ab_0010.jpg)
+    *        ![bgbl2_1994_j0058_ab_0020.jpg](bgbl2_1994_j0058_ab_0020.jpg)
+
+*    *        ![bgbl2_1994_j0058_ab_0030.jpg](bgbl2_1994_j0058_ab_0030.jpg)
+    *        ![bgbl2_1994_j0058_ab_0040.jpg](bgbl2_1994_j0058_ab_0040.jpg)
+
+*    *        ![bgbl2_1994_j0058_ab_0050.jpg](bgbl2_1994_j0058_ab_0050.jpg)
+    *        ![bgbl2_1994_j0058_ab_0060.jpg](bgbl2_1994_j0058_ab_0060.jpg)
+
+*    *        ![bgbl2_1994_j0058_ab_0070.jpg](bgbl2_1994_j0058_ab_0070.jpg)
+    *        ![bgbl2_1994_j0058_ab_0080.jpg](bgbl2_1994_j0058_ab_0080.jpg)
+
+*    *        ![bgbl2_1994_j0058_ab_0090.jpg](bgbl2_1994_j0058_ab_0090.jpg)
+    *        ![bgbl2_1994_j0058_ab_0100.jpg](bgbl2_1994_j0058_ab_0100.jpg)
+
+*    *        ![bgbl2_1994_j0059_ab_0010.jpg](bgbl2_1994_j0059_ab_0010.jpg)
+    *        ![bgbl2_1994_j0059_ab_0020.jpg](bgbl2_1994_j0059_ab_0020.jpg)
+
+*    *        ![bgbl2_1994_j0059_ab_0030.jpg](bgbl2_1994_j0059_ab_0030.jpg)
+    *        ![bgbl2_1994_j0059_ab_0040.jpg](bgbl2_1994_j0059_ab_0040.jpg)
 
 
 
-#### § 7.03 Ankern
+#### § 7.03 Ankern und Benutzung von Ankerpfählen
 
 
-1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
-    ankern:
+*    *   1.
 
-    a)  auf den Abschnitten der Wasserstraße, für die ein allgemeines
+    *   Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen nicht
+        ankern und keine Ankerpfähle benutzen:
+
+
+*    *
+    *   a)
+
+    *   auf den Abschnitten der Wasserstraße, für die ein allgemeines
         Ankerverbot besteht;
 
 
-    b)  auf den durch das Tafelzeichen A.6 (Anlage 7) gekennzeichneten
+*    *
+    *   b)
+
+    *   auf den durch das Tafelzeichen A.6 (Anlage 7) gekennzeichneten
         Strecken, auf der Seite der Wasserstraße, auf der das Tafelzeichen
         steht.
 
-        ... nicht darstellbares Tafelzeichen A.6
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 59
+*    *   2.
+
+    *   Auf den Abschnitten, auf denen das Ankern und die Benutzung von
+        Ankerpfählen nach Nummer 1 Buchstabe a verboten sind, dürfen Fahrzeuge
+        und Schwimmkörper sowie schwimmende Anlagen nur auf den Strecken
+        ankern, die durch das Tafelzeichen E.6 (Anlage 7) gekennzeichnet sind,
+        und nur auf der Seite der Wasserstraße, auf der das Tafelzeichen
+        steht.
 
 
+*    *   3.
 
-
-
-2.  Auf den Abschnitten, auf denen das Ankern nach Nummer 1 Buchstabe a
-    verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie schwimmende
-    Anlagen nur auf den Strecken ankern, die durch das Tafelzeichen E.6
-    (Anlage 7) gekennzeichnet sind, und nur auf der Seite der
-    Wasserstraße, auf der das Tafelzeichen steht.
-
-    ... nicht darstellbares Tafelzeichen E.6
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 59
-
+    *   Auf den Abschnitten, auf denen das Ankern und die Benutzung von
+        Ankerpfählen nach Nummer 1 Buchstabe a verboten sind, dürfen Fahrzeuge
+        und Schwimmkörper sowie schwimmende Anlagen nur auf den Strecken
+        Ankerpfähle benutzen, die durch das Tafelzeichen E.6.1 (Anlage 7)
+        gekennzeichnet sind, und nur auf der Seite der Wasserstraße, auf der
+        das Tafelzeichen steht.
 
 
 
@@ -5617,36 +6559,42 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 #### § 7.04 Festmachen
 
 
-1.  Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen am Ufer
-    nicht festmachen:
+*    *   1.
 
-    a)  auf den Abschnitten der Wasserstraße, für die ein allgemeines
+    *   Fahrzeuge und Schwimmkörper sowie schwimmende Anlagen dürfen am Ufer
+        nicht festmachen:
+
+
+*    *
+    *   a)
+
+    *   auf den Abschnitten der Wasserstraße, für die ein allgemeines
         Festmacheverbot besteht;
 
 
-    b)  auf den durch das Tafelzeichen A.7 (Anlage 7) gekennzeichneten
+*    *
+    *   b)
+
+    *   auf den durch das Tafelzeichen A.7 (Anlage 7) gekennzeichneten
         Strecken, auf der Seite der Wasserstraße, auf der das Tafelzeichen
         steht.
 
-        ... nicht darstellbares Tafelzeichen A.7
+    *        ![bgbl2_1994_j0060_ab_0010.jpg](bgbl2_1994_j0060_ab_0010.jpg)
 
-        Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 60
+*    *   2.
 
-
-
-
-
-2.  Auf den Abschnitten, auf denen das Festmachen am Ufer nach Nummer 1
-    Buchstabe a verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie
-    schwimmende Anlagen nur auf den Strecken festmachen, die durch eines
-    der Tafelzeichen E.7 oder E.7.1 (Anlage 7) gekennzeichnet sind, und
-    nur auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+    *   Auf den Abschnitten, auf denen das Festmachen am Ufer nach Nummer 1
+        Buchstabe a verboten ist, dürfen Fahrzeuge und Schwimmkörper sowie
+        schwimmende Anlagen nur auf den Strecken festmachen, die durch eines
+        der Tafelzeichen E.7 oder E.7.1 (Anlage 7) gekennzeichnet sind, und
+        nur auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
 
 
-3.  Bäume, Geländer, Pfähle, Grenzsteine, Säulen, Eisenleitern, Handläufe
-    und ähnliche Gegenstände dürfen weder zum Festmachen noch zum Verholen
-    benutzt werden.
+*    *   3.
 
+    *   Bäume, Geländer, Pfähle, Grenzsteine, Säulen, Eisenleitern, Handläufe
+        und ähnliche Gegenstände dürfen weder zum Festmachen noch zum Verholen
+        benutzt werden.
 
 
 
@@ -5654,67 +6602,98 @@ d)  Sobald ein Fahrzeug den langen Ton eines anderen Fahrzeugs hört, mit
 #### § 7.05 Liegestellen
 
 
-1.  Auf Liegestellen, bei denen das Tafelzeichen E.5 (Anlage 7)
-    aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf der Seite
-    der Wasserstraße stilliegen, auf der das Tafelzeichen steht.
+*    *   1.
 
-    ... nicht darstellbares Tafelzeichen E.5
+    *   Auf Liegestellen, bei denen das Tafelzeichen E.5 (Anlage 7)
+        aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf der Seite
+        der Wasserstraße stilliegen, auf der das Tafelzeichen steht.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 60
+    *        ![bgbl2_1994_j0060_ab_0030.jpg](bgbl2_1994_j0060_ab_0030.jpg)
 
+*    *   2.
 
-2.  Auf Liegestellen, bei denen das Tafelzeichen E.5.1 (Anlage 7)
-    aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf einer
-    Wasserfläche stilliegen, deren Breite auf dem Tafelzeichen in Metern
-    angegeben ist. Die Breite bemißt sich vom Aufstellungsort des
-    Tafelzeichens.
+    *   Auf Liegestellen, bei denen das Tafelzeichen E.5.1 (Anlage 7)
+        aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf einer
+        Wasserfläche stilliegen, deren Breite auf dem Tafelzeichen in Metern
+        angegeben ist. Die Breite bemißt sich vom Aufstellungsort des
+        Tafelzeichens.
 
-    ... nicht darstellbares Tafelzeichen E.5.1
+    *        ![bgbl2_1994_j0060_ab_0040.jpg](bgbl2_1994_j0060_ab_0040.jpg)
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 60
+*    *   3.
 
+    *   Auf Liegestellen, bei denen das Tafelzeichen E.5.2 (Anlage 7)
+        aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf der
+        Wasserfläche zwischen den zwei Entfernungen stilliegen, die auf dem
+        Tafelzeichen in Metern angegeben sind. Beide Entfernungen bemessen
+        sich vom Aufstellungsort des Tafelzeichens.
 
-3.  Auf Liegestellen, bei denen das Tafelzeichen E.5.2 (Anlage 7)
-    aufgestellt ist, dürfen Fahrzeuge und Schwimmkörper nur auf der
-    Wasserfläche zwischen den zwei Entfernungen stilliegen, die auf dem
-    Tafelzeichen in Metern angegeben sind. Beide Entfernungen bemessen
-    sich vom Aufstellungsort des Tafelzeichens.
+    *        ![bgbl2_1994_j0061_ab_0010.jpg](bgbl2_1994_j0061_ab_0010.jpg)
 
-    ... nicht darstellbares Tafelzeichen E.5.2
+*    *   4.
 
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 61)
+    *   Auf Liegestellen, bei denen das Tafelzeichen E.5.3 (Anlage 7)
+        aufgestellt ist, dürfen auf der Seite der Wasserstraße, auf der das
+        Tafelzeichen steht, nicht mehr Fahrzeuge und Schwimmkörper
+        nebeneinander stilliegen, als auf dem Tafelzeichen in römischen Zahlen
+        angegeben ist.
 
-
-4.  Auf Liegestellen, bei denen das Tafelzeichen E.5.3 (Anlage 7)
-    aufgestellt ist, dürfen auf der Seite der Wasserstraße, auf der das
-    Tafelzeichen steht, nicht mehr Fahrzeuge und Schwimmkörper
-    nebeneinander stilliegen, als auf dem Tafelzeichen in römischen Zahlen
-    angegeben ist.
-
-    ... nicht darstellbares Tafelzeichen E.5.3
-
-    (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 61)
-
-
+    *        ![bgbl2_1994_j0061_ab_0020.jpg](bgbl2_1994_j0061_ab_0020.jpg)
 
 
 
 #### § 7.06 Besondere Liegestellen
 
 
-1.  Auf Liegestellen, bei denen eines der Tafelzeichen E.5.4 bis E.5.15
-    (Anlage 7) aufgestellt ist, dürfen nur die Fahrzeugarten stilliegen,
-    für die das Tafelzeichen gilt.
+*    *   1.
 
-    ... nicht darstellbare Tafelzeichen E.5.4 bis E.5.15
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 61 und 62
+    *   Auf Liegestellen, bei denen eines der Tafelzeichen E.5.4 bis E.5.15
+        (Anlage 7) aufgestellt ist, dürfen nur die Fahrzeugarten stilliegen,
+        für die das Tafelzeichen gilt.
 
 
-2.  Die Liegestellen sind, soweit nichts anderes bestimmt ist, auf der
-    Seite der Wasserstraße, auf der das Tafelzeichen steht, vom Ufer aus
-    und ein Fahrzeug neben dem anderen zu belegen.
+*    *        ![bgbl2_1994_j0061_ab_0030.jpg](bgbl2_1994_j0061_ab_0030.jpg)
+    *        ![bgbl2_1994_j0061_ab_0040.jpg](bgbl2_1994_j0061_ab_0040.jpg)
 
+*    *        ![bgbl2_1994_j0061_ab_0050.jpg](bgbl2_1994_j0061_ab_0050.jpg)
+    *        ![bgbl2_1994_j0061_ab_0060.jpg](bgbl2_1994_j0061_ab_0060.jpg)
+
+*    *        ![bgbl2_1994_j0061_ab_0070.jpg](bgbl2_1994_j0061_ab_0070.jpg)
+    *        ![bgbl2_1994_j0061_ab_0080.jpg](bgbl2_1994_j0061_ab_0080.jpg)
+
+*    *        ![bgbl2_1994_j0062_ab_0010.jpg](bgbl2_1994_j0062_ab_0010.jpg)
+    *        ![bgbl2_1994_j0062_ab_0020.jpg](bgbl2_1994_j0062_ab_0020.jpg)
+
+*    *        ![bgbl2_1994_j0062_ab_0030.jpg](bgbl2_1994_j0062_ab_0030.jpg)
+    *        ![bgbl2_1994_j0062_ab_0040.jpg](bgbl2_1994_j0062_ab_0040.jpg)
+
+*    *        ![bgbl2_1994_j0062_ab_0050.jpg](bgbl2_1994_j0062_ab_0050.jpg)
+    *        ![bgbl2_1994_j0062_ab_0060.jpg](bgbl2_1994_j0062_ab_0060.jpg)
+
+*    *   2.
+
+    *   Die Liegestellen sind, soweit nichts anderes bestimmt ist, auf der
+        Seite der Wasserstraße, auf der das Tafelzeichen steht, vom Ufer aus
+        und ein Fahrzeug neben dem anderen zu belegen.
+
+
+*    *   3.
+
+    *   An Liegestellen, bei denen das Tafelzeichen B.12 (Anlage 7)
+        aufgestellt ist, sind alle Fahrzeuge verpflichtet, sich an einen
+        betriebsbereiten Landstromanschluss anzuschließen und ihren gesamten
+        Bedarf an elektrischer Energie während des Stillliegens daraus zu
+        decken. Ausnahmen vom Gebot nach Satz 1 können auf einem rechteckigen
+        weißen zusätzlichen Schild angegeben werden, das unterhalb des
+        Tafelzeichens B.12 angebracht ist.
+
+
+*    *   4.
+
+    *   Nummer 3 findet keine Anwendung auf Fahrzeuge, die während des
+        Stillliegens ausschließlich eine Energieversorgung nutzen, welche
+        keine Geräusche sowie keine gasförmigen Schadstoffe und
+        luftverunreinigenden Partikel verursacht.
 
 
 
@@ -5851,8 +6830,8 @@ Fahrzeugs ausdrücklich zugelassen ist.
 
 
 
-2.  Die Spitze des Schubverbandes nach Nummer 1 muß mit Ankern
-    entsprechend der Rheinschiffsuntersuchungsordnung versehen sein.
+2.  Die Spitze des Schubverbandes nach Nummer 1 muss mit Ankern
+    entsprechend Artikel 13.01 ES-TRIN versehen sein.
 
 
 3.  Die zuständige Behörde kann auf kurzen Strecken, dem kanalisierten
@@ -6110,14 +7089,14 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 #### § 9.01 Beschränkungen der Schiffahrt in Basel
 
 
-1.  Zwischen der Mittleren Rheinbrücke (km 166,64) und der Dreirosenbrücke
-    (km  167,80) in Basel ist das Überholen verboten. Dies gilt nicht für
+1.  Zwischen der Mittleren Rheinbrücke (km 166,53) und der Dreirosenbrücke
+    (km 167,80) in Basel ist das Überholen verboten. Dies gilt nicht für
     Kleinfahrzeuge und für Fahrzeuge, die eine Ausnahmegenehmigung der
     zuständigen Behörde besitzen.
 
 
 2.  Zwischen der Dreirosenbrücke (km 167,80) und der Mittleren Rheinbrücke
-    (km 166,64) in Basel müssen Fahrzeuge mit Maschinenantrieb sowie
+    (km 166,53) in Basel müssen Fahrzeuge mit Maschinenantrieb sowie
     Schlepp- und Schubverbände in der Bergfahrt eine
     Mindestgeschwindigkeit von 4 km in der Stunde, gegen das Ufer
     gemessen, einhalten.
@@ -6134,92 +7113,120 @@ e)  solange Fahrgäste an Bord sind, muß nachts jede Stunde ein
 #### § 9.02 Großer Elsässischer Kanal und kanalisierter Rhein
 
 
-1.  Dieser Paragraph gilt für die gesamte Strecke zwischen km 173,55
-    (Beginn der Umleitung der Stauhaltung Kembs) und km 335,70
-    (Rückführung der Stauhaltung Iffezheim), einschließlich des
-    Seitenkanals zwischen km 173,55 und km 226,54 (Rückführung der
-    Stauhaltung Vogelgrün) und der Umleitungen des kanalisierten Rheins in
-    Marckolsheim, Rhinau, Gerstheim und Straßburg.
+*    *   1.
+
+    *   Dieser Paragraph gilt für die gesamte Strecke zwischen km 173,55
+        (Beginn der Umleitung der Stauhaltung Kembs) und km 335,70
+        (Rückführung der Stauhaltung Iffezheim), einschließlich des
+        Seitenkanals zwischen km 173,55 und km 226,54 (Rückführung der
+        Stauhaltung Vogelgrün) und der Umleitungen des kanalisierten Rheins in
+        Marckolsheim, Rhinau, Gerstheim und Straßburg.
 
 
-2.  Die §§ 6.04 und 6.05 sind auf den vorgenannten Strecken nicht
-    anwendbar.
+*    *   2.
+
+    *   Die §§ 6.04 und 6.05 sind auf den vorgenannten Strecken nicht
+        anwendbar.
 
 
-3.  Beim Begegnen müssen alle Fahrzeuge die rechte Seite einhalten, soweit
-    dies für die gefahrlose Vorbeifahrt Backbord an Backbord notwendig
-    ist.
+*    *   3.
+
+    *   Beim Begegnen müssen alle Fahrzeuge die rechte Seite einhalten, soweit
+        dies für die gefahrlose Vorbeifahrt Backbord an Backbord notwendig
+        ist.
 
 
-4.  Abweichend von den Nummern 2 und 3 können Fahrzeuge im Nahbereich der
-    Schleusen verlangen, daß die Vorbeifahrt nach den §§ 6.04 und 6.05
-    Steuerbord an Steuerbord stattfindet; sie dürfen dies jedoch nur,
-    nachdem sie sich vergewissert haben, daß ihrem Verlangen ohne Gefahr
-    entsprochen werden kann.
+*    *   4.
 
-    Dieselben Bestimmungen gelten außerdem für Kanalpenichen (Länge 38,50
-    m) mit oder ohne Vorspann, wenn sie auf folgenden Stromstrecken zu
-    Berg fahren:
-
-    a)  Stauhaltung Rhinau zwischen km 244,00 und den Schleusen Marckolsheim,
+    *   Abweichend von den Nummern 2 und 3 können Fahrzeuge im Nahbereich der
+        Schleusen verlangen, daß die Vorbeifahrt nach den §§ 6.04 und 6.05
+        Steuerbord an Steuerbord stattfindet; sie dürfen dies jedoch nur,
+        nachdem sie sich vergewissert haben, daß ihrem Verlangen ohne Gefahr
+        entsprochen werden kann.
 
 
-    b)  Stauhaltung Marckolsheim zwischen km 228,00 und den Schleusen
+*    *
+    *   Dieselben Bestimmungen gelten außerdem für Kanalpenichen (Länge 38,50
+        m) mit oder ohne Vorspann, wenn sie auf folgenden Stromstrecken zu
+        Berg fahren:
+
+
+*    *
+    *   a)
+
+    *   Stauhaltung Rhinau zwischen km 244,00 und den Schleusen Marckolsheim,
+
+
+*    *
+    *   b)
+
+    *   Stauhaltung Marckolsheim zwischen km 228,00 und den Schleusen
         Vogelgrün.
 
 
+*    *   5.
+
+    *   Auf dem Rhein darf oberhalb und unterhalb der Wehre die gerade
+        Verbindungslinie zwischen zwei auf gegenüberliegenden Ufern
+        aufgestellten allgemeinen Verbotszeichen A.1 (Anlage 7) nicht
+        überschritten werden.
+
+    *        ![bgbl2_1994_j0066_ab_0010.jpg](bgbl2_1994_j0066_ab_0010.jpg)
+
+*    *   6.
+
+    *   In die Werkkanäle der Kraftwerke darf nicht hineingefahren werden. Die
+        Endpunkte dieser Kanäle sind durch allgemeine Zeichen A.1 (Anlage 7)
+        gekennzeichnet.
 
 
+*    *   7.
 
-5.  Auf dem Rhein darf oberhalb und unterhalb der Wehre die gerade
-    Verbindungslinie zwischen zwei auf gegenüberliegenden Ufern
-    aufgestellten allgemeinen Verbotszeichen A.1 (Anlage 7) nicht
-    überschritten werden.
-
-    ... nicht darstellbares Zeichen A.1
-
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 66
+    *   Das Wenden ist nur auf den Wendestellen oberhalb der oberen
+        Schleusenvorhäfen, in den unteren Schleusenvorhäfen und im unteren
+        Schleusenkanal der untersten Schleusen gestattet. Diese Beschränkung
+        gilt nicht für Kleinfahrzeuge.
 
 
-6.  In die Werkkanäle der Kraftwerke darf nicht hineingefahren werden. Die
-    Endpunkte dieser Kanäle sind durch allgemeine Zeichen A.1 (Anlage 7)
-    gekennzeichnet.
+*    *   8.
+
+    *   Das Stilliegen und das Anlegen sind außerhalb der Schleusenvorhäfen
+        und des unteren Schleusenkanals der untersten Schleusen verboten.
 
 
-7.  Das Wenden ist nur auf den Wendestellen oberhalb der oberen
-    Schleusenvorhäfen, in den unteren Schleusenvorhäfen und im unteren
-    Schleusenkanal der untersten Schleusen gestattet. Diese Beschränkung
-    gilt nicht für Kleinfahrzeuge.
+*    *   9.
+
+    *   Das Verbot des Wendens, des Stilliegens und des Anlegens nach den
+        Nummern 7 und 8 gilt nicht für Fahrzeuge,
 
 
-8.  Das Stilliegen und das Anlegen sind außerhalb der Schleusenvorhäfen
-    und des unteren Schleusenkanals der untersten Schleusen verboten.
+*    *
+    *   a)
+
+    *   die an behördlich zugelassenen Stellen laden oder löschen wollen oder
 
 
-9.  Das Verbot des Wendens, des Stilliegens und des Anlegens nach den
-    Nummern 7 und 8 gilt nicht für Fahrzeuge,
+*    *
+    *   b)
 
-    a)  die an behördlich zugelassenen Stellen laden oder löschen wollen oder
-
-
-    b)  die aus zwingenden Sicherheitsgründen anhalten mußten.
+    *   die aus zwingenden Sicherheitsgründen anhalten mußten.
 
 
+*    *   10.
+
+    *   Fahrzeuge über 11,45 m Breite dürfen die kleinen Schleusen
+        Ottmarsheim, Fessenheim, Vogelgrün, Marckolsheim, Rhinau, Gerstheim
+        und Straßburg nicht benutzen.
 
 
+*    *   11.
 
-10. Fahrzeuge über 11,45 m Breite dürfen die kleinen Schleusen
-    Ottmarsheim, Fessenheim, Vogelgrün, Marckolsheim, Rhinau, Gerstheim
-    und Straßburg nicht benutzen.
-
-
-11. Auf dem Großen Elsässischen Kanal und dem kanalisierten Rhein bis km
-    294,00 kann die in den §§ 3.08, 3.09, 3.10, 3.13, 3.14, 3.15 und 3.29
-    angegebene Mindesthöhe der Lichter und Zeichen in dem Maße
-    herabgesetzt werden, als es für die Durchfahrt unter Bauwerken
-    erforderlich ist, wobei alle Maßnahmen zu treffen sind, damit die
-    verschiedenen Lichter und Zeichen sichtbar bleiben.
-
+    *   Auf dem Großen Elsässischen Kanal und dem kanalisierten Rhein bis km
+        294,00 kann die in den §§ 3.08, 3.09, 3.10, 3.13, 3.14, 3.15 und 3.29
+        angegebene Mindesthöhe der Lichter und Zeichen in dem Maße
+        herabgesetzt werden, als es für die Durchfahrt unter Bauwerken
+        erforderlich ist, wobei alle Maßnahmen zu treffen sind, damit die
+        verschiedenen Lichter und Zeichen sichtbar bleiben.
 
 
 
@@ -6403,9 +7410,9 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
         ist nicht anzuwenden.
 
 
-    c)  Für die Schiffsführer von Fahrzeugen mit einer Länge über 110 m gelten
-        die nach § 9.08 Nr. 2 Buchstabe b und c für die Nachtschifffahrt
-        vorgeschriebenen Informationspflichten auch bei Tag.
+    c)  Die Schiffsführer von Fahrzeugen und Verbänden mit einer Länge von
+        über 110 m haben sich gemäß § 12.03 Nummer 2 und Nummer 6 Buchstabe b
+        zu melden.
 
 
 
@@ -6458,48 +7465,11 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
 
 
 
-#### § 9.08 Nachtschifffahrt auf der Strecke Bingen-St. Goar
+#### § 9.08 Nachtschifffahrt auf der Strecke Bingen – St. Goar
 
-
-1.  Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt
-    nachts nur Fahrzeugen erlaubt, die Sprechfunk auf Kanal 10 und in der
-    Talfahrt Radar benutzen. Die Wahrschauregelung gemäß § 12.02 erfolgt
-    rund um die Uhr.
-
-
-2.  Ist die Wahrschau nach § 12.02 nachts außer Betrieb, müssen sich die
-    in Frage kommenden Fahrzeuge wie folgt verhalten:
-
-    a)  Beifahrer müssen ihre Fahrt so einrichten, dass sie beim Umfahren des
-        Bankecks (km 555,60 bis km 555,20) und des Bettecks (km 553,60 bis km
-        553,30) Talfahrern nicht begegnen.
-
-        Sie müssen, wenn die Begegnung anders nicht vermieden werden kann,
-        unterhalb des Bankecks oder des Bettecks anhalten, bis die Talfahrer
-        das Betteck oder das Bankeck umfahren haben.
-
-
-    b)  Bergfahrer müssen bei der Annäherung an das Bankeck oder das Betteck
-        die Talfahrer anrufen und auffordern, ihnen Art, Namen, Standort und
-        Fahrtrichtung des Fahrzeugs mitzuteilen. Meldet sich kein Talfahrer,
-        dürfen sie das Bankeck oder Betteck nur umfahren, wenn sie vorher auf
-        Kanal 10 einen tiefen Ton von 1 Sekunde Dauer empfangen haben. Dieser
-        Ton dient der Kontrolle des ordnungsgemäßen Funkbetriebs auf der
-        Strecke Oberwesel bis St. Goar.
-
-
-    c)  Talfahrer müssen während der Vorbeifahrt am Ochsenturm (km 550,57), an
-        der oberen Trennungstonne am Geisenrücken (km 552,00) und am Betteck
-        (km 553,61) Art, Namen, Standort und Fahrtrichtung ihres Fahrzeugs
-        ansagen. Dieselben Angaben müssen sie ansagen, wenn sie von einem
-        Bergfahrer angesprochen werden. Nach jeder Meldung müssen die
-        Talfahrer die Sprechfunkanlage wieder auf Empfang schalten.
-
-
-
-
-
-
+Zwischen Bingen (km 530,00) und St. Goar (km 556,00) ist die Fahrt
+nachts nur Fahrzeugen erlaubt, die Sprechfunk auf den Kanälen 10
+(Schiff-Schiff) und 18 bzw. 24 und in der Talfahrt Radar benutzen.
 
 
 #### § 9.09 Beschränkung der Schifffahrt zwischen Bad Salzig (km 564,30) und Gorinchem (km 952,50)
@@ -6595,7 +7565,7 @@ Für die Vorbeifahrt an der Fähre Seltz-Plittersdorf (km 340,35) gilt §
 
 1.  Die Mehrzweckfahrzeuge
 
-    a)  der französischen Armee zwischen Basel (km 168,45) und Lauterburg (km
+    a)  der französischen Armee zwischen Basel (km 168,39) und Lauterburg (km
         352,00) und
 
 
@@ -6638,7 +7608,7 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
     Teil zwischen dem rechten Ufer und der Achse des Flusses.
 
 
-2.  Abweichend von Nummer 1 ist auf den genannten WasserstraƒÀen, den
+2.  Abweichend von Nummer 1 ist auf den genannten Wasserstraßen, den
     angrenzenden Wasserflachen und in den Hafen an den entsprechend
     ausgewiesenen Stellen das Stillliegen gestattet.
 
@@ -6659,7 +7629,7 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
     der nationalen Behörde gehören, nicht stillliegen.
 
 
-2.  Abweichend von Nummer 1 ist auf den genannten WasserstraƒÀen, den
+2.  Abweichend von Nummer 1 ist auf den genannten Wasserstraßen, den
     angrenzenden Wasserflachen und in den Hafen an den entsprechend
     ausgewiesenen Stellen das Stillliegen gestattet.
 
@@ -6678,13 +7648,19 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
 #### § 10.01 Beschränkung der Schiffahrt bei Hochwasser oberhalb der Spyck'schen Fähre
 
 
-1.  Zwischen der Mittleren Rheinbrücke in Basel (km 166,64) und den
-    Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km
-    334,00) und der Spyck'schen Fähre (km 857,40) ist die Schiffahrt bei
-    Hochwasserständen zwischen den Marken I und II nachstehenden
-    Beschränkungen unterworfen:
+*    *   1.
 
-    a)  alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb
+    *   Zwischen der Mittleren Rheinbrücke in Basel (km 166,53) und den
+        Schleusen Kembs (km 179,10) sowie zwischen den Schleusen Iffezheim (km
+        334,00) und der Spyck’schen Fähre (km 857,40) ist die Schifffahrt bei
+        Hochwasserständen zwischen den Marken I und II nachstehenden
+        Beschränkungen unterworfen:
+
+
+*    *
+    *   a)
+
+    *   alle Fahrzeuge - mit Ausnahme der Kleinfahrzeuge ohne Maschinenantrieb
         - müssen sich in der Talfahrt möglichst in der Mitte, in der Bergfahrt
         im mittleren Drittel des Stromes halten; als Breite des Stromes gilt
         der Abstand zwischen den Uferlinien; beim Fahren einschließlich des
@@ -6692,23 +7668,35 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         zulässig;
 
 
-    b)  erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a
+*    *
+    *   b)
+
+    *   erfordern es die örtlichen Verhältnisse, abweichend von Buchstabe a
         näher an ein Ufer heranzufahren, müssen alle dort genannten Fahrzeuge
         dennoch möglichst weit vom Ufer entfernt bleiben und ihre
         Geschwindigkeit entsprechend vermindern;
 
 
-    c)  § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km
+*    *
+    *   c)
+
+    *   § 9.04 bleibt unberührt. Zwischen Lorch (km 540,20) und St. Goar (km
         556,00) hat die Bergfahrt das mittlere Drittel des Stromes aber so
         weit zum linken Ufer einzuhalten, daß die Begegnung mit der Talfahrt
         ohne Gefahr Backbord an Backbord stattfinden kann;
 
 
-    d)  unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge
+*    *
+    *   d)
+
+    *   unbeschadet des § 6.20 darf die Höchstgeschwindigkeit der Fahrzeuge
         gegenüber dem Ufer 20 km in der Stunde nicht überschreiten;
 
 
-    e)  nach Überschreiten der Hochwassermarke I dürfen innerhalb des
+*    *
+    *   e)
+
+    *   nach Überschreiten der Hochwassermarke I dürfen innerhalb des
         entsprechenden Streckenabschnitts nur solche Fahrzeuge ihre Fahrt
         fortsetzen, die mit einer Sprechfunkanlage ausgerüstet sind. Sie
         müssen den Verkehrskreis Nautische Information auf Empfang geschaltet
@@ -6716,154 +7704,185 @@ halten. Die §§ 6.04 und 6.05 gelten nicht.
         fortbewegt werden;
 
 
-    f)  nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die
+*    *
+    *   f)
+
+    *   nach Überschreiten der Hochwassermarke I ist schnellen Schiffen die
         Fahrt verboten.
 
 
+*    *   2.
+
+    *   Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an
+        dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt,
+        ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
+        Streckenabschnitts verboten.
+
+
+*    *   3.
+
+    *   Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende
+        Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt
+        gelten für die nachstehend aufgeführten Streckenabschnitte:
 
 
 
-2.  Erreicht oder überschreitet der Wasserstand die Hochwassermarke II an
-    dem Richtpegel für den unter Nummer 3 aufgeführten Streckenabschnitt,
-    ist die Schiffahrt mit Ausnahme des Übersetzverkehrs innerhalb des
-    Streckenabschnitts verboten.
+
+*    *   Strecke
+
+    *   Richtpegel
+        für Berg- und Talfahrt
+        Wasserstand
 
 
-3.  Die in Nummer 1 und 2 genannten Hochwassermarken werden durch folgende
-    Wasserstände bestimmt und die Richtpegel für die Berg- oder Talfahrt
-    gelten für die nachstehend aufgeführten Streckenabschnitte:
+*    *   Marke I
+
+    *   Marke II
+
+
+*    *   Basel (km 166,53)
+
+    *
+
+*    *   Basel-Schleusen Kembs
+        Kembs (km 179,10)
+
+    *   Basel-Rheinhalle
+        7,00 8,20
+
+
+*    *   Schleusen Iffezheim (km 334,00)
+
+    *
+
+*    *   Schleusen Iffezheim-Germersheim
+        Germersheim (km 384,00)
+
+    *   Maxau
+        6,20 7,50
+
+
+*    *   Germersheim-Mannheim-Rheinau
+        Mannheim-Rheinau (km 412,00)
+
+    *   Speyer
+        6,20 7,30
+
+
+*    *   Mannheim-Rheinau-Mannheim-Sandhofen
+        Mannheim-Sandhofen (km 431,50)
+
+    *   Mannheim
+        6,50 7,60
+
+
+*    *   Mannheim-Sandhofen-Gernsheim
+        Gernsheim (km 462,00)
+
+    *   Worms
+        4,40 6,50
+
+
+*    *   Gernsheim-Eltville
+        Eltville (km 511,00)
+
+    *   Mainz
+        4,75 6,30
+
+
+*    *   Eltville-Lorch
+        Lorch (km 540,00)
+
+    *   Bingen
+        3,50 4,90
+
+
+*    *   Lorch-Bad Salzig
+        Bad Salzig (km 566,00)
+
+    *   Kaub
+        4,60 6,40
+
+
+*    *   Bad Salzig-Engers
+        Engers (km 601,00)
+
+    *   Koblenz
+        4,70 6,50
+
+
+*    *   Engers-Bad Breisig
+        Bad Breisig (km 624,00)
+
+    *   Andernach
+        5,50 7,60
+
+
+*    *   Bad Breisig-Mondorf
+        Mondorf (km 660,00)
+
+    *   Oberwinter
+        4,90 6,80
+
+
+*    *   Mondorf-Dormagen
+        Dormagen (km 710,00)
+
+    *   Köln
+        6,20 8,30
+
+
+*    *   Dormagen-Krefeld
+        Krefeld (km 763,00)
+
+    *   Düsseldorf
+        7,10 8,80
+
+
+*    *   Krefeld-Orsoy
+        Orsoy (km 794,00)
+
+    *   Duisburg-Ruhrort
+        9,30 11,30
+
+
+*    *   Orsoy-Rees
+        Rees (km 837,00)
+
+    *   Wesel
+        8,70 10,60
+
+
+*    *   Rees-Spyck'sche Fähre
+        Spyck'sche Fähre (km 857,40)
+
+    *   Emmerich
+        7,00 8,70
 
 
 
-----------------------------------------------------------------------
--
-I                                               Richtpegel
-I
-I              Strecke                     für Berg- und Talfahrt   I
-I                                               Wasserstand
-I
-I                                         Marke I          Marke II
-I
-I Basel (km 166,64) .................................................
-I
-I                                             Basel-Rheinhalle
-I
-I    Basel-Schleusen Kembs                7,00                 8,20
-I
-I Kembs (km 179,10) .................................................
-I
-I Schleusen Iffezheim (km 334,00) ...................................
-I
-I                                                  Maxau
-I
-I    Schleusen Iffezheim-Germersheim      6,20                 7,50
-I
-I Germersheim (km 384,00) ...........................................
-I
-I                                                  Speyer
-I
-I    Germersheim-Mannheim-Rheinau         6,20                 7,30
-I
-I Mannheim-Rheinau (km 412,00) ......................................
-I
-I                                                 Mannheim
-I
-I    Mannheim-Rheinau-Mannheim-           6,50                 7,60
-I
-I    Sandhofen
-I
-I Mannheim-Sandhofen (km 431,50) ....................................
-I
-I                                                   Worms
-I
-I    Mannheim-Sandhofen-Gernsheim         4,40                 6,50
-I
-I Gernsheim (km 462,00) .............................................
-I
-I                                                   Mainz
-I
-I    Gernsheim-Eltville                   4,75                 6,30
-I
-I Eltville (km 511,00) ..............................................
-I
-I                                                   Bingen
-I
-I    Eltville-Lorch                       3,50                 4,90
-I
-I Lorch (km 540,00) .................................................
-I
-I                                                   Kaub
-I
-I    Lorch-Bad Salzig                     4,60                 6,40
-I
-I Bad Salzig (km 566,00) ............................................
-I
-I                                                  Koblenz
-I
-I    Bad Salzig-Engers                    4,70                 6,50
-I
-I Engers (km 601,00) ................................................
-I
-I                                                 Andernach
-I
-I    Engers-Bad Breisig                   5,50                 7,60
-I
-I Bad Breisig (km 624,00) ...........................................
-I
-I                                                 Oberwinter
-I
-I    Bad Breisig-Mondorf                  4,90                 6,80
-I
-I Mondorf (km 660,00) ...............................................
-I
-I---------------------------------------------------------------------
-I
-I                                                   Köln
-I
-I    Mondorf-Dormagen                     6,20                 8,30
-I
-I Dormagen (km 710,00) ..............................................
-I
-I                                                Düsseldorf
-I
-I    Dormagen-Krefeld                     7,10                 8,80
-I
-I Krefeld (km 763,00) ...............................................
-I
-I                                              Duisburg-Ruhrort
-I
-I    Krefeld-Orsoy                        9,30                11,30
-I
-I Orsoy (km 794,00) .................................................
-I
-I                                                  Wesel
-I
-I    Orsoy-Rees                           8,70                10,60
-I
-I Rees (km 837,00) ..................................................
-I
-I                                                 Emmerich
-I
-I    Rees-Spyck'sche Fähre                7,00                 8,70
-I
-I Spyck'sche Fähre (km 857,40) ......................................
-I
-----------------------------------------------------------------------
--
 
-4.  Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden
-    einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu
-    einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt
-    freigeben, wenn der Wasserstand bereits seit mehr als drei
-    aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag
-    und die Vorhersagen dahin gehen, dass der Wasserstand auch an den
-    folgenden zwei Tagen noch über dieser Marke liegen wird.
+*    *   4.
+
+    *   Zwischen Basel und den Schleusen Kembs können die zuständigen Behörden
+        einzelnen Fahrzeugen und Verbänden für diesen Streckenabschnitt bis zu
+        einem Wasserstand von 8,50 m am Pegel Basel-Rheinhalle die Fahrt
+        freigeben, wenn der Wasserstand bereits seit mehr als drei
+        aufeinanderfolgenden Tagen überwiegend über der Marke von 8,20 m lag
+        und die Vorhersagen dahin gehen, dass der Wasserstand auch an den
+        folgenden zwei Tagen noch über dieser Marke liegen wird.
 
 
-5.  Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00)
-    wird die Schiffahrt bei Hochwasser wie folgt geregelt:
+*    *   5.
 
-    a)  zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen
+    *   Zwischen den Schleusen Kembs und den Schleusen Iffezheim (km 334,00)
+        wird die Schiffahrt bei Hochwasser wie folgt geregelt:
+
+
+*    *
+    *   a)
+
+    *   zwischen dem oberen Vorhafen der Schleusen Kembs und dem oberen
         Vorhafen der Schleusen Vogelgrün ist die Schiffahrt keinen
         Beschränkungen wegen Hochwassers unterworfen. Die zuständige Behörde
         kann jedoch, um Ansammlungen von Fahrzeugen in den Vorhäfen der
@@ -6871,21 +7890,34 @@ I
         Vorhäfen der verschiedenen Schleusen verteilen;
 
 
-    b)  zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
+*    *
+    *   b)
 
-        -   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt,
-            wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar
-            angebrachte Hochwassermarke II erreicht oder überschritten ist;
-
-
-        -   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an
-            dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar
-            angebrachte Hochwassermarke II erreicht oder überschritten ist.
+    *   zwischen den Schleusen Vogelgrün und den Schleusen Iffezheim
 
 
+*    *
+    *
+    *   -
 
+    *   wird der Betrieb der Schleusen einer gegebenen Haltung eingestellt,
+        wenn die auf einer Mauer bei dem Unterhaupt dieser Schleusen sichtbar
+        angebrachte Hochwassermarke II erreicht oder überschritten ist;
 
-        Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden
+    *
+
+*    *
+    *
+    *   -
+
+    *   ist Kleinfahrzeugen die Fahrt in einer Haltung verboten, wenn die an
+        dem Unterhaupt der jeweils oberhalb liegenden Schleuse sichtbar
+        angebrachte Hochwassermarke II erreicht oder überschritten ist.
+
+    *
+
+*    *
+    *   Jedoch kann die zuständige Behörde einzelnen Fahrzeugen und Verbänden
         für den Streckenabschnitt von unterhalb der Schleuse Vogelgrün bis
         unterhalb der Schleuse Straßburg bis zu einem Wasserstand von 0,40 m
         über der angebrachten Hochwassermarke II die Fahrt und die
@@ -6895,29 +7927,40 @@ I
         den folgenden zwei Tagen noch über dieser Hochwassermarke liegen wird;
 
 
-    c)  auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und
+*    *
+    *   c)
+
+    *   auf der Stromstrecke zwischen dem südlichen Vorhafen (km 291,30) und
         dem nördlichen Vorhafen (km 295,50) des Straßburger Hafens wird die
         Schiffahrt bei Erreichen des höchsten Schiffahrtswasserstandes (HSW)
         wie folgt gesperrt:
 
-        -   in der Talfahrt durch ein bei km 291,30
 
-            aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
+*    *
+    *
+    *   -
 
+    *   in der Talfahrt durch ein bei km 291,30
 
-        -   in der Bergfahrt durch ein bei km 294,50
+    *        ![bgbl2_1994_j0071_ab_0010.jpg](bgbl2_1994_j0071_ab_0010.jpg)
 
-            aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
-
-            ... nicht darstellbares Zeichen A.1
-
-            Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 71
-
-
-
+*    *
+    *
+    *
+    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7);
 
 
+*    *
+    *
+    *   -
 
+    *   in der Bergfahrt durch ein bei km 294,50
+
+
+*    *
+    *
+    *
+    *   aufgestelltes rotes Licht (Zeichen A.1, Anlage 7).
 
 
 
@@ -6943,513 +7986,641 @@ einem Fahrzeug mit Maschinenantrieb geschleppt werden.
 #### § 11.01 Höchstabmessungen der Fahrzeuge
 
 
-1.  Ein Fahrzeug darf die Höchstlänge von 135 m nicht überschreiten. In
-    der Talfahrt zwischen Lorch (km 540,20) und St. Goar (km 556,00) bei
-    Wasserständen unter 0,85 m und über 4,60 m (Marke I) am Pegel Kaub
-    darf es jedoch die Höchstlänge von 110 m nicht überschreiten.
+1.  Ein Fahrzeug darf die Höchstlänge von 135 m und die Breite von 22,80 m
+    nicht überschreiten.
+    Die Breite darf
+
+    a)  für den Stromabschnitt zwischen Bingen (km 528,50) und St. Goar (km
+        556,00) 17,70 m und
 
 
-2.  Ein Fahrzeug, ausgenommen ein Fahrgastschiff mit einer Länge über 110
-    m, darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen
-    des § 22a.05 Nr. 2 Rheinschiffsuntersuchungsordnung erfüllt. Ein
-    Fahrgastschiff mit einer Länge über 110 m darf oberhalb von Mannheim
-    nur fahren, wenn es die Anforderungen des § 22a.05 Nr. 3
-    Rheinschiffsuntersuchungsordnung erfüllt. Die von den für den
-    jeweiligen Stromabschnitt zwischen Basel und Mannheim zuständigen
-    Behörden erteilten und am 30. September 2001 gültigen
+    b)  für den Stromabschnitt zwischen Pannerden (km 867,46) und Lekkanal (km
+        949,40) 15 m
+
+
+
+    nicht überschreiten.
+
+
+2.  Die für den jeweiligen Stromabschnitt zuständigen Behörden dürfen
+    hinsichtlich der Breite eine Sondererlaubnis für die Fahrt erteilen.
+
+
+3.  Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn sich an
+    Bord eine Person befindet, die ein nach der Verordnung über das
+    Schiffspersonal auf dem Rhein erteiltes oder als gleichwertig
+    anerkanntes Radarzeugnis besitzt.
+
+
+4.  Ein Fahrzeug, ausgenommen ein Fahrgastschiff, mit einer Länge über 110
+    m darf oberhalb von Mannheim nur fahren, wenn es die Anforderungen des
+    Artikels 28.04 Nummer 2 ES-TRIN erfüllt. Ein Fahrgastschiff mit einer
+    Länge über 110 m darf oberhalb von Mannheim nur fahren, wenn es die
+    Anforderungen des Artikels 28.04 Nummer 3 ES-TRIN erfüllt. Die von den
+    für den jeweiligen Stromabschnitt zwischen Basel und Mannheim
+    zuständigen Behörden erteilten und am 30. September 2001 gültigen
     Sondererlaubnisse für Fahrzeuge über 110 m bis 135 m Länge bleiben mit
     den aus Sicherheitsgründen erteilten notwendigen Auflagen auf dem
     jeweiligen Stromabschnitt weiterhin gültig.
 
 
-3.  Die für den Stromabschnitt zwischen Lorch (km 540,20) und St. Goar (km
-    556,00) zuständige Behörde kann bei Wasserständen unter 0,85 m und
-    über 4,60 m (Marke I) am Pegel Kaub Fahrzeugen mit einer Länge über
-    110 m für die Talfahrt eine Sondererlaubnis erteilen. Sie legt dabei
-    die aus Sicherheitsgründen notwendigen Auflagen fest.
+5.  Ein Fahrgastschiff darf unterhalb von Emmerich (km 885) nur fahren,
+    wenn es die Anforderungen des Artikels 13.01 Nummer 2 Buchstabe b ES-
+    TRIN erfüllt.
 
 
-4.  Ein Fahrzeug mit einer Länge über 110 m darf nur fahren, wenn es die
-    Anforderungen des § 4.06 Nr. 1 erfüllt.
 
 
-5.  Die Breite eines Fahrzeuges darf 22,80 m und für den Stromabschnitt
-    zwischen Pannerden (km 867,46) und Lekkanal (km 949,40) 17,70 m nicht
-    überschreiten, sofern nicht die für den jeweiligen Stromabschnitt
-    zuständige Behörde eine Sondererlaubnis für die Fahrt erteilt hat.
 
+#### § 11.02 Höchstabmessungen der Schubverbände und der gekuppelten Fahrzeuge
 
 
+1.  Schubverbände und gekuppelte Fahrzeuge dürfen die in Nummer 2 und 3
+    zugelassenen Abmessungen nicht überschreiten. Sie dürfen mit den
+    zugelassenen Abmessungen nur fahren, wenn diese mit der zugelassenen
+    Formation und der zugelassenen Beladung für die jeweilige
+    Fahrtrichtung im Schiffsattest eingetragen sind.
 
 
-#### § 11.02 Höchstabmessungen der Schubverbände
+2.  Die zuständige Behörde kann Schubverbände und gekuppelte Fahrzeuge mit
+    größeren als den in Nummer 3 zugelassenen Abmessungen, mit anderen
+    Antriebsarten und -leistungen und mit anderen Wasserständen für die
+    betreffende Strecke für Versuchszwecke zulassen.
 
 
-1.  Ein Schubverband darf folgende Abmessungen nicht überschreiten:
+3.  Für die jeweilige Strecke gelten in der Berg- und Talfahrt folgende
+    Abmessungen:
 
+    *        *
+        *   Strecke
 
+        *   Länge in m
 
+        *   Breite in m
 
-*    *   Lfd. Nr.
 
-    *   Strecke
+    *        *   3.1
 
-    *   Länge in m
+        *   **Basel** (km 166,53) bis **Schleusen Iffezheim** (km 334,00)
 
-    *   Breite in m
+        *
+        *
 
+    *        *
+        *   a)
 
-*    *   I
+        *   Schleusen Kembs
 
-    *   Basel (km 166,64) - Schleusen Iffezheim (km 334,00) in der Berg- und
-        Talfahrt
+        *
+        *
 
-    *
-    *
+    *        *
+        *
+        *   aa)
 
-*    *
-        a)  Schleusen Kembs:
+        *   Westschleuse
 
+        *   180
 
+        *   22,90
 
 
-    *
-    *
+    *        *
+        *
+        *   bb)
 
-*    *
-        *   große Schleuse ...................
+        *   Ostschleuse
 
+        *   186,50
 
+        *   22,90
 
 
-    *   180,00
+    *        *
+        *   b)
 
-    *   22,90
+        *   Schleusen Ottmarsheim
 
+        *
+        *
 
-*    *
-        *   kleine Schleuse ..................
+    *        *
+        *
+        *   aa)
 
+        *   große Schleuse
 
+        *   183
 
+        *   22,80
 
-    *   95,00
 
-    *   22,90
+    *        *
+        *
+        *   bb)
 
+        *   kleine Schleuse
 
-*    *
-        b)  Schleusen Ottmarsheim, Fessenheim, Vogelgrün, Marckolsheim und Rhinau:
+        *   183
 
+        *   11,45
 
 
+    *        *
+        *   c)
 
-    *
-    *
+        *   Schleusen Fessenheim, Vogelgrün, Marckolsheim und Rhinau
 
-*    *
-        *   große Schleuse ...................
+        *
+        *
 
+    *        *
+        *
+        *   aa)
 
+        *   große Schleuse
 
+        *   183
 
-    *   183,00\*)
+        *   22,80
 
-    *   22,80
 
+    *        *
+        *
+        *   bb)
 
-*    *
-        *   kleine Schleuse ..................
+        *   kleine Schleuse
 
+        *   183
 
+        *   11,45
 
 
-    *   183,00\*)
+    *        *
+        *
+        *   Diese Länge darf mit Erlaubnis der zuständigen Behörde auf 185 m
+            erhöht werden. In diesem Fall ist § 6.28 Nummer 7 Buchstabe a und e
+            nicht anzuwenden.
 
-    *   11,45
 
+    *        *
+        *   d)
 
-*    *
-        c)  Schleusen Gerstheim und Straßburg:
+        *   Schleusen Gerstheim und Straßburg
 
+        *
+        *
 
+    *        *
+        *
+        *   aa)
 
+        *   große Schleuse
 
-    *
-    *
+        *   185
 
-*    *
-        *   große Schleuse ...................
+        *   22,90
 
 
+    *        *
+        *
+        *   bb)
 
+        *   kleine Schleuse
 
-    *   185,00
+        *   185
 
-    *   22,90
+        *   11,45
 
 
-*    *
-        *   kleine Schleuse ..................
+    *        *
+        *   e)
 
+        *   Schleusen Gambsheim und Iffezheim
 
+        *   270
 
+        *   22,90
 
-    *   185,00
 
-    *   11,45
+    *        *
+        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen.
 
 
-*    *
-        d)  Schleusen Gambsheim und Iffezheim:
+    *        *   3.2
 
+        *   a)
 
+        *   Schleusen **Iffezheim** (km 334,00) bis **Lorch** (km 540,20)
 
+        *   193
 
-    *   270,00
+        *   22,90
 
-    *   22,90
 
+    *        *
+        *   b)
 
-*    *   II
+        *   **Karlsruhe** (km 359,80) bis **Lorch** (km 540,20) zusätzlich
 
-    *   Schleusen Iffezheim (km 334,00) - Karlsruhe (km 359,80) in der Berg-
-        und Talfahrt ...........
+        *   153
 
-    *   186,50
+        *   34,35
 
-    *   22,90
 
+    *        *
+        *
+        *   nur Talfahrt und bei einem Wasserstand am Pegel Kaub von 1,20 m und
+            mehr, wenn nicht die zuständige Behörde die Fahrt bei einem
+            niedrigeren Wasserstand ausdrücklich zugelassen hat. Sofern am
+            schiebenden Fahrzeug Schubleichter längsseits gekuppelt mitgeführt
+            werden, müssen diese unbeladen sein.
 
-*    *   III
 
-    *   Karlsruhe (km 359,80) - Lorch (km 540,20)
+    *        *   3.3
 
-    *
-    *
+        *   **Lorch** (km 540,20) bis **St. Goar** (km 556,00)
 
-*    *
-        a)  in der Berg- und Talfahrt ........
+        *
+        *
 
+    *        *
+        *   a)
 
+        *   Bergfahrt
 
+        *   186,50
 
-    *   186,50
+        *   22,90
 
-    *   22,90
 
+    *        *
+        *   b)
 
-*    *
-        b)  in der Talfahrt wahlweise ........
+        *   Talfahrt
 
+        *   116,50
 
+        *   22,90
 
 
-    *   153,00
+    *        *
+        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen.
 
-    *   34,35\*\*\*)
+        *
+        *
 
+    *        *
+        *   c)
 
-*    *   IV
+        *   bei einem Wasserstand am Pegel Kaub zwischen 0,85 m und der
+            Hochwassermarke I zusätzlich für Schubverbände
 
-    *   Lorch (km 540,20) - St. Goar (km 556,00)
 
-    *
-    *
+    *        *
+        *
+        *   aa)
 
-*    *
-        a)  in der Bergfahrt .................
+        *   Bergfahrt
 
+        *   193
 
+        *   22,90
 
 
-    *   186,50
+    *        *
+        *
+        *   bb)
 
-    *   22,90
+        *   Talfahrt
 
+        *   193
 
-*    *
-        b)  in der Talfahrt ..................
+        *   12,50
 
 
+    *        *
+        *   d)
 
+        *   Buchstabe c gilt nur, wenn der Schubverband
 
-    *   110,00\*\*)
+        *
+        *
 
-    *   22,90
+    *        *
+        *
+        *   aa)
 
+        *   bei einer Breite bis zu 12,50 m
 
-*    *   V
+        *
+        *
 
-    *   St. Goar (km 556,00) - Gorinchem (km 952,50)
+    *        *
+        *
+        *
+        *   aaa) Mehrschraubenantrieb und eine oder mehrere vom Steuerstand
+            bedienbare Bugsteueranlagen von insgesamt mindestens 360 kW Leistung
+            oder
 
-    *
-    *
 
-*    *
-        a)  in der Berg- und Talfahrt ........
+    *        *
+        *
+        *
+        *   bbb) Einschraubenantrieb und eine oder mehrere vom Steuerstand
+            bedienbare Bugsteueranlagen von insgesamt mindestens 500 kW Leistung,
 
 
+    *        *
+        *
+        *
+        *   davon mindestens die Hälfte der Leistung jeweils an der Spitze des
+            Verbandes oder an den vorderen Leichtern, hat;
 
 
-    *   186,50
+    *        *
+        *
+        *   bb)
 
-    *   22,90
+        *   bei einer Breite von mehr als 12,50 m
 
+        *
+        *
 
-*    *
-        b)  in der Talfahrt wahlweise ........
+    *        *
+        *
+        *
+        *   Mehrschraubenantrieb mit zwei voneinander unabhängigen Antrieben und
+            eine oder mehrere vom Steuerstand bedienbare Bugsteueranlagen von
+            insgesamt mindestens 500 kW Leistung, davon mindestens die Hälfte der
+            Leistung an der Spitze des Verbandes oder an den vorderen Leichtern,
+            hat;
 
 
+    *        *
+        *
+        *   cc)
 
+        *   bei einer Länge von mehr als 186,50 m in der Talfahrt
 
-    *   153,00
+        *
+        *
 
-    *   34,35\*\*\*)
+    *        *
+        *
+        *
+        *   mit einem Mehrschraubenantrieb ausgerüstet ist und bei einem
+            Wasserstand am Pegel Kaub von mehr als 3,50 m über eine spezifische
+            Leistung von mindestens 0,5 kW pro Ladungstonne verfügt.
 
 
-*    *   VI
+    *        *   3.4
 
-    *   Pannerden (km 867,46) - Lekkanal (km 949,40) in der Berg- und Talfahrt
-        ...........
+        *   a)
 
-    *   110,00\*\*)
+        *   **St. Goar** (km 556,00) bis **Gorinchem** (km 952,50)
 
-    *   17,70
+        *   193
 
+        *   22,90
 
-*    *   VII
 
-    *   Lekkanal (km 949,40) - Krimpen (km 989,20) in der Berg- und Talfahrt
+    *        *
+        *   b)
 
-    *
-    *
+        *   Talfahrt zusätzlich
 
-*    *   entweder ............................
+        *   153
 
-    *   116,50
+        *   34,35
 
-    *   22,90
 
+    *        *
+        *   c)
 
-*    *   oder ................................
+        *   Buchstabe b gilt auf der Strecke
 
-    *   140,00
+        *
+        *
 
-    *   17,70
+    *        *
+        *
+        *   aa)
 
+        *   St. Goar (km 556,00) bis Rolandswerth (km 641,80) nur bei einem
+            Wasserstand am Pegel Kaub von 1,20 m und mehr,
 
-*    *   oder mit einer Bugsteueranlage von ausreichender Leistung
-        ..............
 
-    *   186,50
+    *        *
+        *
+        *   bb)
 
-    *   12,00\*\*)
+        *   Rolandswerth (km 641,80) bis Spyck’sche Fähre (km 857,40) nur bei
+            einem Wasserstand am Pegel Ruhrort von 2,10 m und mehr,
 
 
-*    *
-        \*) Diese Länge darf mit Erlaubnis der zuständigen Behörde auf 185,00 m
-            erhöht werden. In diesem Fall ist § 6.28 Nr. 7 Buchstabe a und e nicht
-            anzuwenden.
+    *        *
+        *
+        *   cc)
 
+        *   Spyck’sche Fähre (km 857,40) bis Gorinchem (km 952,50) nur bei einem
+            Wasserstand am Pegel Lobith von 8,50 m und mehr,
 
-        \*\*) Die zuständige Behörde kann Schubverbände mit größeren Abmessungen
-            zulassen.
 
+    *        *
+        *
+        *   wenn nicht die zuständige Behörde die Fahrt bei einem niedrigeren
+            Wasserstand ausdrücklich zugelassen hat.
 
-        \*\*\*) Die Schubleichter längsseits des Schubbootes müssen unbeladen sein.
 
+    *        *
+        *
+        *   Sofern am schiebenden Fahrzeug Schubleichter längsseits gekuppelt
+            mitgeführt werden, müssen diese unbeladen sein.
 
 
+    *        *   3.5
 
+        *   **Bad Salzig** (km 564,30) bis **Gorinchem** (km 952,50) unbeschadet
+            der Bestimmungen in Nummer 3.4 für Schubverbände
 
 
+    *        *
+        *   a)
 
-2.  Ein Schubverband mit größeren als den in Nummer 1 festgelegten
-    Abmessungen kann von der für die betreffende Strecke zuständigen
-    Behörde für einen begrenzten Versuchszeitraum zugelassen werden.
+        *   Bergfahrt (lange Formation)
 
+        *   269,50
 
-3.  Unterhalb der Schleusen Iffezheim bis Gorinchem kann die in Nummer 1
-    festgelegte Länge des Schubverbandes um höchstens 6,50 m verlängert
-    und die Breite des Schubbootes auf 15,00 m vergrößert werden, wenn
+        *   22,90
 
-    a)  die Länge des Schubbootes 40,00 m nicht überschreitet und
 
+    *        *
+        *   b)
 
-    b)  die gesamte Länge des geschobenen Teils des Verbandes 153,00 m nicht
-        überschreitet.
+        *   Talfahrt (breite Formation)
 
+        *   193
 
+        *   34,35
 
 
+    *        *
+        *   c)
 
-4.  Ein Schubverband darf die Breite von 22,90 auf folgenden Strecken
-    nicht überschreiten:
+        *   In den Fällen der Buchstaben a und b darf ein Schubverband
 
-    a)  auf der Strecke Karlsruhe (km 359,80) - Lorch (km 540,00) und St. Goar
-        (km 556,00) - Rolandswerth (km 641,80), wenn der Wasserstand am Pegel
-        Kaub 1,20 m unterschreitet;
 
+    *        *
+        *
+        *   aa)
 
-    b)  auf der Strecke Rolandswerth (km 641,80) - Spyck'sche Fähre (km
-        857,40), wenn der Wasserstand am Pegel Ruhrort 2,10 m unterschreitet;
+        *   nicht mehr als sechs Schubleichter im Verband umfassen. In der
+            Talfahrt dürfen höchstens vier Schubleichter einen Tiefgang von 1,50 m
+            oder mehr haben. Trägerschiffsleichter dürfen nur längsseits von
+            anderen Leichtern mitgeführt werden; dabei gelten vier
+            Trägerschiffsleichter hintereinander als ein Schubleichter;
 
 
-    c)  auf der Strecke Spyck'sche Fähre (km 857,40) - Gorinchem (km 952,50)
-        in der Talfahrt, wenn der Wasserstand am Pegel Lobith 9,50 m
-        unterschreitet.
+    *        *
+        *
+        *   bb)
 
+        *   die Fahrt nur antreten, wenn an der Spitze des Verbandes eine vom
+            Steuerstand des schiebenden Fahrzeuges aus zu bedienende
+            Bugsteueranlage vorhanden ist.
 
 
+    *        *
+        *   d)
 
-    Die zuständige Behörde kann die Fahrt bei niedrigeren Wasserständen
-    zulassen.
+        *   Auf dem Streckenabschnitt Bad Salzig (km 564,30) bis Spyck’sche Fähre
+            (km 857,40) darf darüber hinaus ein Schubverband die Fahrt nur bei
+            einem Wasserstand am Pegel Ruhrort zwischen 2,75 m und 7,15 m
+            antreten, wenn nicht die zuständige Behörde die Fahrt bei anderen
+            Wasserständen ausdrücklich zugelassen hat.
 
 
+    *        *
+        *   e)
 
+        *   Auf dem Streckenabschnitt Spyck’sche Fähre (km 857,40) bis Gorinchem
+            (km 952,50) darf, wenn nicht die zuständige Behörde die Fahrt unter
+            anderen Bedingungen ausdrücklich zugelassen hat, darüber hinaus ein
+            Schubverband die Fahrt nur antreten
 
 
-#### § 11.03 Höchstabmessungen für Schubverbände unter bestimmten Voraussetzungen
+    *        *
+        *
+        *   aa)
 
+        *   bei einem Wasserstand am Pegel Lobith zwischen 8,50 m und 13,50 m;
 
-1.  Abweichend von § 11.02 werden für einen Schubverband auf der Strecke
-    zwischen Bad Salzig (km 564,30) - Gorinchem (km 952,50) die folgenden
-    Höchstabmessungen
 
+    *        *
+        *
+        *   bb)
 
+        *   wenn er keine gefährlichen Güter mitführt, für deren Beförderung ein
+            Zulassungszeugnis nach ADN erforderlich ist;
 
 
-*    *   Zusammenstellung
+    *        *
+        *
+        *   cc)
 
-    *   Höchstabmessungen
+        *   und, bei einem Schubboot bis 40 m Länge, wenn darüber hinaus folgende
+            Bedingungen erfüllt sind:
 
 
-*    *   Länge in m
+    *        *
+        *
+        *
+        *   aaa) die größtmögliche Antriebsleistung des Schubbootes darf 4 500 kW
+            nicht überschreiten;
 
-    *   Breite in m
 
+    *        *
+        *
+        *
+        *   bbb) in der langen Formation müssen mindestens vier Schubleichter
+            einen Tiefgang von 2,50 m oder mehr haben. Die Talfahrt in der breiten
+            Formation darf auf dieser Strecke auch ohne Bugsteueranlage
+            durchgeführt werden, wenn mindestens zwei und höchstens vier
+            Schubleichter einen Tiefgang von 2,50 m oder mehr haben und zwei davon
+            in der Achse des Verbandes liegen.
 
-*    *   Breite Formation
 
-    *   193,00
+    *        *   3.6
 
-    *   34,35
+        *   a)
 
+        *   **Pannerden** (km 867,46) bis **Lekkanal** (km 949,40)
 
-*    *   Lange Formation
+        *   135
 
-    *   269,50
+        *   15
 
-    *   22,90
 
+    *        *
+        *   b)
 
+        *   für Schubverbände mit einer größeren Länge als 110 m und einer
+            Bugsteueranlage von ausreichender Leistung. Ein Überholungs- und
+            Begegnungsverbot gilt zwischen **IJsselkop** (km 878,60) und
+            **Arnheim** (km 885,00).
 
+        *   186,50
 
-*   unter den folgenden Bedingungen zugelassen:
+        *   11,45
 
-    a)  die vorstehend genannten Höchstabmessungen müssen im Schiffsattest des
-        Schubbootes zugelassen sein;
 
+    *        *
+        *   Die zuständige Behörde kann eine größere Länge zulassen. Dabei
+            betragen die Höchstabmessungen der Schubverbände, die auf dem
+            Amsterdam-Rhein-Kanal fahren und den Lek bei Wijk bij Duurstede
+            kreuzen, in der Länge 200 m und in der Breite 23,50 m.
 
-    b)  die Länge des Schubbootes darf 40,00 m nicht überschreiten;
 
+    *        *   3.7
 
-    c)  es dürfen nicht mehr als sechs Schubleichter in den Verband
-        eingestellt werden; Trägerschiffsleichter dürfen nicht mitgeführt
-        werden;
+        *   **Lekkanal** (km 949,40) bis **Krimpen** (km 989,20)
 
 
-    d)  die Talfahrt darf nur in der breiten Formation durchgeführt werden.
-        Dabei müssen folgende Voraussetzungen erfüllt sein:
+    *        *
+        *   a)
 
-        -   es müssen mindestens zwei Schubleichter an der Spitze des Verbandes
-            mit einer vom Steuerstand des Schubbootes aus zu bedienenden Passiv-
-            Bugruderanlage ausgerüstet sein. Die Ruderblätter müssen für jeden
-            Schubleichter eine wirksame Fläche von mindestens 2
-            qm haben. Die zuständige Behörde kann Bugsteueranlagen mit einer
-            gleichwertigen Wirkung zulassen;
+        *   kurze Formation
 
+        *   116,50
 
-        -   es dürfen höchstens vier Schubleichter einen Tiefgang von 1,50 m oder
-            mehr haben.
+        *   22,90
 
 
+    *        *
+        *   b)
 
+        *   lange Formation
 
+        *   193
 
+        *   11,45
 
 
+    *        *
+        *   Die zuständige Behörde kann größere Abmessungen zulassen.
 
-2.  Zusätzlich zu Nummer 1 ist auf dem Streckenabschnitt Bad Salzig (km
-    564,30) - Spyck'sche Fähre (km 857,40) zu beachten:
 
-    a)  die Fahrt darf nur angetreten werden bei Wasserständen am Pegel
-        Ruhrort zwischen 2,75 m und 6,00 m. Die zuständige Behörde kann die
-        Fahrt bei anderen Wasserständen zulassen;
 
 
-    b)  die Fahrt darf nicht durchgeführt werden auf Streckenabschnitten, auf
-        denen der Wasserstand die Hochwassermarke I erreicht hat;
 
 
-    c)  die Talfahrt in der breiten Formation darf auch ohne Bugruder
-        durchgeführt werden, wenn mindestens zwei und höchstens vier
-        Schubleichter einen Tiefgang von 1,50 m und mehr haben.
 
 
+#### (XXXX) §§ 11.03 bis 11.05 (weggefallen)
 
-
-
-3.  Zusätzlich zu Nummer 1 ist auf dem Streckenabschnitt Spyck'sche Fähre
-    (km 857,40) - Gorinchem (km 952,50) zu beachten:
-
-    a)  die Fahrt darf nur angetreten werden bei Wasserständen am Pegel Lobith
-        zwischen 9,50 m und 13,50 m. Die zuständige Behörde kann die Fahrt bei
-        anderen Wasserständen zulassen;
-
-
-    b)  die größtmögliche Antriebsleistung des Schubbootes darf 4.500 kW nicht
-        überschreiten;
-
-
-    c)  die Bergfahrt darf nur in der langen Formation durchgeführt werden;
-
-
-    d)  in der langen Formation müssen mindestens vier Schubleichter einen
-        Tiefgang von 2,50 m oder mehr haben. Die zuständige Behörde kann
-        andere Zusammenstellungen und einen geringeren Tiefgang zulassen;
-
-
-    e)  die Talfahrt in der breiten Formation darf auch ohne Bugruder
-        durchgeführt werden, wenn mindestens zwei und höchstens vier
-        Schubleichter einen Tiefgang von 2,50 m oder mehr haben und zwei davon
-        in der Achse des Verbandes liegen;
-
-
-    f)  gefährliche Güter, für deren Beförderung ein Zulassungszeugnis nach
-        ADNR erforderlich ist, dürfen nicht mitgeführt werden.
-
-
-
-
-
-
-
-
-#### § 11.04 Höchstabmessungen der Schubverbände an der Kreuzung des Lek mit dem Amsterdam-Rhein-Kanal
-
-Abweichend von § 11.02 Nr. 1 betragen die Höchstabmessungen der
-Schubverbände, die auf dem Amsterdam-Rhein-Kanal fahren und den Lek
-bei Wijk bij Duurstede kreuzen, in der Länge 200 m und in der Breite
-23,00 m. Die zuständige Behörde kann größere Abmessungen zulassen.
-
-
-#### § 11.05 Höchstabmessungen sonstiger Fahrzeugzusammenstellungen
-
-Für andere starre Fahrzeugzusammenstellungen als Schubverbände gelten
-die gleichen Höchstabmessungen, die nach § 11.02 Nr. 1 und 2 für
-Schubverbände maßgeblich sind.
 
 
 ### Kapitel 12 - Stromstrecken mit Meldepflicht oder Wahrschauregelung
@@ -7585,162 +8756,158 @@ Schubverbände maßgeblich sind.
 
 
 
-#### § 12.02 Wahrschauregelung auf der Strecke Oberwesel-St. Goar
+#### § 12.02 Funktion der Lichtwahrschau auf der Strecke Oberwesel – St. Goar
 
 
-1.  An der Strecke Oberwesel-St. Goar sind folgende Signalstellen
+1.  An der Strecke Oberwesel – St. Goar sind folgende Signalstellen
     eingerichtet:
 
 
+    *        *   Signalstelle A:
+
+        *   km 550,57, linkes Ufer, am Ochsenturm bei Oberwesel;
 
 
-*    *   Signalstelle A:
+    *        *   Signalstelle B:
 
-    *   km 550,57, linkes Ufer,
-
-
-*    *   am Ochstenturm bei Oberwesel;
+        *   km 552,80, linkes Ufer, am Kammereck;
 
 
-*    *   Signalstelle B:
+    *        *   Signalstelle C:
 
-    *   km 552,80, linkes Ufer,
-
-
-*    *   am Kammereck;
+        *   km 553,61, linkes Ufer, am Betteck;
 
 
-*    *   Signalstelle C:
+    *        *   Signalstelle D:
 
-    *   km 553,61, linkes Ufer,
-
-
-*    *   am Betteck;
+        *   km 554,34, linkes Ufer, gegenüber der Loreley („Die Lützelsteine“);
 
 
-*    *   Signalstelle D:
+    *        *   Signalstelle E:
 
-    *   km 554,34, linkes Ufer,
-
-
-*    *   gegenüber der Loreley;
-
-
-*    *   Signalstelle E:
-
-    *   km 555,43, linkes Ufer,
-
-
-*    *   an der Bank.
+        *   km 555,43, linkes Ufer, an der Bank.
 
 
 
 
-2.  Der Bergfahrt wird die Annäherung von Talfahrern - mit Ausnahme von
-    Kleinfahrzeugen - an den Signalstellen C, D und E angezeigt.
 
-    Jede dieser Signalstellen zeigt der Bergfahrt ihre Zeichen auf
+2.  Der Bergfahrt wird die Annäherung von Talfahrern – mit Ausnahme von
+    Kleinfahrzeugen – an den Signalstellen A, C, D und E angezeigt.
+
+    Jede dieser Signalstellen zeigt der Bergfahrt ihre Lichtzeichen auf
     übereinander stehenden Feldern, die folgenden Teilstrecken zugeordnet
     sind:
 
+    *        *   **Feld**
+
+        *   **Nummer der Teilstrecke**
+
+        *   **Oberstromgrenze der Teilstrecke**
+
+        *   **Unterstromgrenze der Teilstrecke**
 
 
-
-*    *   Feld
-
-    *   Nr. der Teilstrecke
-
-    *   Grenzen der Teilstrecke
+    *        *   Signalstelle A: am Ochsenturm
 
 
-*    *   Signalstelle C
+    *        *   oben
 
-    *
-    *
-    *
+        *   1
 
-*    *   oben
+        *   km 548,50
 
-    *   1
-
-    *   km 550,57
-
-    *   km 551,30
+        *   km 549,50
 
 
-*    *   Mitte
+    *        *   unten
 
-    *   2
+        *   2
 
-    *   km 551,30
+        *   km 549,50
 
-    *   km 552,11
-
-
-*    *   unten
-
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
+        *   km 550,57
 
 
-*    *   Signalstelle D
-
-    *
-    *
-    *
-
-*    *   oben
-
-    *   1
-
-    *   km 550,57
-
-    *   km 551,30
+    *        *   Signalstelle C: am Betteck
 
 
-*    *   Mitte
+    *        *   oben
 
-    *   2
+        *   3
 
-    *   km 551,30
+        *   km 550,57
 
-    *   km 552,11
-
-
-*    *   unten
-
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
+        *   km 551,30
 
 
-*    *   Signalstelle E
+    *        *   Mitte
 
-    *
-    *
-    *
+        *   4
 
-*    *   oben
+        *   km 551,30
 
-    *   3
-
-    *   km 552,11
-
-    *   km 554,34
+        *   km 552,40
 
 
-*    *   unten
+    *        *   unten
 
-    *   4
+        *   5
 
-    *   km 554,34
+        *   km 552,40
 
-    *   km 555,43
+        *   km 553,60
+
+
+    *        *   Signalstelle D: gegenüber der Loreley („Die Lützelsteine“)
+
+
+    *        *   oben
+
+        *   4
+
+        *   km 551,30
+
+        *   km 552,40
+
+
+    *        *   Mitte
+
+        *   5
+
+        *   km 552,40
+
+        *   km 553,61
+
+
+    *        *   unten
+
+        *   6
+
+        *   km 553,61
+
+        *   km 554,34
+
+
+    *        *   Signalstelle E: an der Bank
+
+
+    *        *   oben
+
+        *   6
+
+        *   km 553,61
+
+        *   km 554,34
+
+
+    *        *   unten
+
+        *   7
+
+        *   km 554,34
+
+        *   km 555,43
+
 
 
 
@@ -7750,41 +8917,46 @@ Schubverbände maßgeblich sind.
 
     a)  Drei weiße, ein Dreieck bildende Lichtlinien (Bild 1):
 
-        In der Teilstrecke fährt mindestens ein Verband mit einer Länge über
-        110 m zu Tal.
 
-        ... nicht darstellbares Bild 1
+        *            *   In der Teilstrecke fährt mindestens ein Verband mit einer Länge über
+                110 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0010.jpg](bgbl2_2016_j0724_0010.jpg)
+
+
 
 
     b)  Zwei dachförmig gegeneinander geneigte weiße Lichtlinien (Bild 2):
 
-        In der Teilstrecke fährt mindestens ein Verband mit einer Länge bis
-        110 m oder ein Fahrzeug mit einer Länge über 110 m zu Tal.
 
-        ... nicht darstellbares Bild 2
+        *            *   In der Teilstrecke fährt mindestens ein Verband mit einer Länge bis
+                110 m oder ein Fahrzeug mit einer Länge über 110 m oder mit einer
+                Breite über 15 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0020.jpg](bgbl2_2016_j0724_0020.jpg)
+
+
 
 
     c)  Eine nach rechts geneigte weiße Lichtlinie (Bild 3):
 
-        In der Teilstrecke fährt mindestens ein Einzelfahrer mit einer Länge
-        bis 110 m zu Tal.
 
-        ... nicht darstellbares Bild 3
+        *            *   In der Teilstrecke fährt mindestens ein Fahrzeug mit einer Länge bis
+                110 m zu Tal.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0030.jpg](bgbl2_2016_j0724_0030.jpg)
+
+
 
 
     d)  Eine waagerechte weiße Lichtlinie (Bild 4):
 
-        In der Teilstrecke befindet sich kein Talfahrer.
 
-        ... nicht darstellbares Bild 4
+        *            *   In der Teilstrecke befindet sich kein Talfahrer.
 
-        Fundstelle: BGBl. II 2003, 2145
+            *                ![bgbl2_2016_j0724_0040.jpg](bgbl2_2016_j0724_0040.jpg)
+
+
 
 
 
@@ -7794,32 +8966,128 @@ Schubverbände maßgeblich sind.
 
     a)  an der Signalstelle A
 
-        ein weißes Licht, nur bergwärts sichtbar:
+        aa) ein weißes Licht, nur für die Talfahrt sichtbar:
 
-        die Talschifffahrt wird den Bergfahrern gewahrschaut;
+            den Talfahrern wird mitgeteilt, dass die Lichtwahrschau in Betrieb
+            ist.
+
+
+        bb) zusätzlich ein weißes Blinklicht, nur für die Talfahrt sichtbar:
+
+            ein Verband mit einer Länge über 110 m fährt am Tauberwerth
+            (Teilstrecke 3) zu Berg.
+
+
+
 
 
     b)  an der Signalstelle B
 
-        ein weißes Licht, nur bergwärts sichtbar:
+        ein weißes Blinklicht, nur für die Talfahrt sichtbar:
 
-        ein Verband mit einer Länge über 110 m umfährt das Betteck zu Berg;
+        ein Verband mit einer Länge über 110 m umfährt das Betteck zu Berg.
 
 
 
+
+
+6.  Eine Sperrung der Schifffahrt für die Talfahrt wird an den
+    Signalstellen A oder B durch zwei nur für die Talfahrt sichtbare rote
+    Lichter übereinander angezeigt.
+
+    Eine Sperrung der Schifffahrt für die Bergfahrt wird an den
+    Signalstellen D oder E durch zwei nur für die Bergfahrt sichtbare rote
+    Lichter übereinander angezeigt.
+
+
+
+
+
+#### § 12.03 Besondere Regeln für die Fahrt in der Wahrschaustrecke
+
+
+1.  In bestimmten Verkehrssituationen besteht ein Begegnungsverbot am
+    Bankeck (km 555,60 bis km 555,20), am Betteck (km 553,61 bis km
+    553,30) und am Jungferngrund (km 551,20 bis km 550,60).
+
+    Dieses Begegnungsverbot gilt
+
+    a)  für bergfahrende Fahrzeuge und Verbände, deren Länge 110 m nicht
+        überschreitet, ausgenommen Kleinfahrzeuge,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a angezeigt wird;
+
+
+    b)  für bergfahrende Fahrzeuge mit einer Länge über 110 m,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a oder b angezeigt wird;
+
+
+    c)  für bergfahrende Verbände mit einer Länge über 110 m,
+
+        wenn diesen an der Signalstelle A, C oder E im unteren Feld ein
+        Lichtzeichen gem. § 12.02 Nummer 4 Buchstabe a, b oder c angezeigt
+        wird.
+
+
+
+
+    Bei einem Begegnungsverbot nach Satz 1 müssen die Bergfahrer unterhalb
+    des Bankecks, des Bettecks oder des Tauberwerths anhalten, bis die
+    Talfahrer am km 555,60 bzw. am km 553,60 oder am km 551,20
+    vorbeigefahren sind.
+
+
+2.  Die Bergfahrer, ausgenommen Kleinfahrzeuge, müssen bei der Annäherung
+    an das Bankeck, das Betteck oder das Tauberwerth die Talfahrer mit
+    Sprechfunk ansprechen und diese auffordern, ihnen Art, Namen, Standort
+    und Fahrtrichtung des Fahrzeugs mitzuteilen.
+
+
+3.  Nach Überschreiten der Hochwassermarke I am Pegel Kaub (4,60 m) gilt
+    für alle Fahrzeuge und Verbände, ausgenommen Kleinfahrzeuge, am
+    Bankeck (km 555,60 bis km 555,20), am Betteck (km 553,60 bis km
+    553,30) und am Jungferngrund (km 551,20 bis km 550,60) ein Begegnungs-
+    und Überholverbot.
+
+
+4.  Zu Tal fahrende Fahrzeuge mit einer Breite von 15 m und mehr müssen
+    bei km 548,00 auf Kanal 18 „Oberwesel Wahrschau“ rufen und
+    Fahrzeugart, Namen, Standort, Breite und Fahrtrichtung ihres Fahrzeugs
+    mitteilen.
 
 
 5.  Fahrzeuge, ausgenommen Kleinfahrzeuge, die innerhalb der
-    Wahrschaustrecke wenden und wieder zurückfahren, müssen dies über Funk
-    (Kanal 18) der Revierzentrale Oberwesel mitteilen.
+    Wahrschaustrecke an- bzw. ablegen oder wenden und wieder zurückfahren,
+    müssen dies über Kanal 18 der Revierzentrale über das Rufzeichen
+    „Oberwesel Wahrschau“ anzeigen.
 
 
-6.  Eine Sperrung der Talschifffahrt wird an den Signalstellen A oder B
-    durch zwei nur bergwärts sichtbare rote Lichter übereinander
-    angezeigt.
+6.  Ist die Lichtwahrschau außer Betrieb, gelten, ausgenommen für
+    Kleinfahrzeuge, folgende Regelungen:
 
-    Eine Sperrung der Bergschiffahrt wird an den Signalstellen D oder E
-    durch zwei nur talwärts sichtbare rote Lichter übereinander angezeigt.
+    a)  Die Regelungen unter Nummer 1 und 2 gelten für alle zu Berg fahrenden
+        Fahrzeuge und Verbände.
+
+        Meldet sich kein Talfahrer dürfen die Bergfahrer das Bankeck, Betteck
+        oder den Jungferngrund nur umfahren, wenn sie vorher auf Kanal 10
+        einen tiefen Ton von 1 Sekunde Dauer empfangen haben. Dieser Ton dient
+        der Kontrolle des ordnungsgemäßen Funkbetriebs auf der Strecke
+        Oberwesel bis St. Goar.
+
+
+    b)  Talfahrer müssen während der Vorbeifahrt am km 548,50 oberhalb des
+        Hafens Oberwesel, an der oberen Trennungstonne am Geisenrücken (km
+        552,00) und am Betteck (km 553,60) Art, Namen, Standort und
+        Fahrtrichtung ihres Fahrzeugs ansagen. Dieselben Angaben müssen sie
+        ansagen, wenn sie von einem Bergfahrer angesprochen werden. Nach jeder
+        Meldung muss die Sprechfunkanlage wieder auf Empfang geschaltet
+        werden.
+
+
+
 
 
 
@@ -7839,7 +9107,7 @@ Schubverbände maßgeblich sind.
 
 
 2.  Dieses Kapitel gilt für die unter Nummer 1 genannten Fahrzeuge von
-    Basel (Mittlere Rheinbrücke, km 166,64) bis zum unteren Vorhafen der
+    Basel (Mittlere Rheinbrücke, km 166,53) bis zum unteren Vorhafen der
     Schleusen Iffezheim (km 335,92).
 
 
@@ -7905,39 +9173,48 @@ Bescheinigung der zuständigen Behörde ersetzt.
 #### § 14.01 Allgemeine Bestimmungen
 
 
-1.  Die Grenzen der Reeden werden am Ufer durch das Tafelzeichen C.4
-    (Anlage 7) mit einer quadratischen weißen Zusatztafel mit dem
-    Buchstaben "R" bezeichnet; gegebenenfalls kann das Zeichen durch eine
-    dreieckige weiße Zusatztafel ergänzt sein, auf der in schwarzen Zahlen
-    die Länge der Reede angegeben ist.
+*    *   1.
 
-    ... nicht darstellbares Tafelzeichen C.4 mit Zusatztafel
+    *   Die Grenzen der Reeden werden am Ufer durch das Tafelzeichen C.4
+        (Anlage 7) mit einer quadratischen weißen Zusatztafel mit dem
+        Buchstaben "R" bezeichnet; gegebenenfalls kann das Zeichen durch eine
+        dreieckige weiße Zusatztafel ergänzt sein, auf der in schwarzen Zahlen
+        die Länge der Reede angegeben ist.
 
-    Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994, S. 77
+    *        ![bgbl2_1994_j0077_ab_0010.jpg](bgbl2_1994_j0077_ab_0010.jpg)
+
+*    *   2.
+
+    *   Auf den Reeden dürfen Fahrzeuge nur stilliegen
+
+    *
+
+*    *
+    *   a)
+
+    *   auf den nach § 7.06 gekennzeichneten Liegestellen;
 
 
-2.  Auf den Reeden dürfen Fahrzeuge nur stilliegen
+*    *
+    *   b)
 
-    a)  auf den nach § 7.06 gekennzeichneten Liegestellen;
-
-
-    b)  zum Zweck des Ladens oder Löschens an den hierfür bestimmten Stellen,
+    *   zum Zweck des Ladens oder Löschens an den hierfür bestimmten Stellen,
         zu denen die Zufahrten je nach Bedarf freigehalten werden müssen.
 
 
+*    *   3.
+
+    *   Fahrzeuge, für die keine besonders gekennzeichneten Liegestellen
+        vorgesehen sind, dürfen auf den Reeden nur dann stilliegen, wenn ihnen
+        von der zuständigen Behörde ein Liegeplatz zugewiesen wird.
 
 
+*    *   4.
 
-3.  Fahrzeuge, für die keine besonders gekennzeichneten Liegestellen
-    vorgesehen sind, dürfen auf den Reeden nur dann stilliegen, wenn ihnen
-    von der zuständigen Behörde ein Liegeplatz zugewiesen wird.
-
-
-4.  Auf den Reeden dürfen bis zu drei Fahrzeuge nebeneinander liegen,
-    sofern nicht durch die Bestimmungen für die einzelnen Reeden diese
-    Anzahl eingeschränkt oder nach § 7.05 Nr. 2, 3 oder 4 eine andere
-    Regelung getroffen wird.
-
+    *   Auf den Reeden dürfen bis zu drei Fahrzeuge nebeneinander liegen,
+        sofern nicht durch die Bestimmungen für die einzelnen Reeden diese
+        Anzahl eingeschränkt oder nach § 7.05 Nr. 2, 3 oder 4 eine andere
+        Regelung getroffen wird.
 
 
 
@@ -7945,20 +9222,21 @@ Bescheinigung der zuständigen Behörde ersetzt.
 #### § 14.02 Basel
 
 
-1.  Die Reede von Basel erstreckt sich am linken Ufer von km 167,75 bis km
-    168,40 und am rechten Ufer von km 167,75 bis km 169,80.
+1.  Die Reede von Basel erstreckt sich am rechten Ufer von km 167,82 bis
+    km 169,99.
 
 
 2.  Für Fahrzeuge, die keine Bezeichnung nach § 3.14 führen müssen, werden
     am rechten Ufer bestimmt:
 
-    a)  Liegestelle "Uferplatz" von km 167,85 (Dreirosenbrücke) bis km 168,04;
+    a)  Liegestelle „Uferplatz – GMS 1 und 2“ von km 167,88 (unterhalb der
+        Dreirosenbrücke) bis km 168,09;
 
 
-    b)  Liegestelle "Rheinquai-Wiesemündung" von km 169,20 bis km 169,34;
+    b)  Liegestelle „Rheinquai-Wiesemündung“ von km 169,19 bis km 169,33;
 
 
-    c)  Liegestelle "Rheinquai-Dreiländereck" von km 169,60 bis km 169,71;
+    c)  Liegestelle „Rheinquai-Dreiländereck“ von km 169,61 bis km 169,72;
 
         sie kann in der Zeit vom 1. November bis zum 15. März benutzt werden,
         außerhalb dieser Zeit nur mit Erlaubnis des Hafenmeisters.
@@ -7967,10 +9245,11 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nr. 1 führen müssen,
+3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen,
     wird am rechten Ufer bestimmt:
 
-    Liegestelle "Oberer Klybeckquai" von km 168,05 bis km 168,36.
+    Liegestelle „Oberer Klybeckquai – TMS 1 und 2“ von km 168,09 bis km
+    168,33.
 
 
 4.  Fahrzeugen, die eine Bezeichnung nach § 3.14 Nr. 2 oder 3 führen
@@ -7991,7 +9270,8 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 1.  Die Reede erstreckt sich vor Mannheim am rechten Ufer von km 412,35
     bis km 417,15 und von km 423,50 bis km 431,80 sowie vor Ludwigshafen
-    am linken Ufer von km 419,77 bis km 431,90.
+    am linken Ufer von km 419,77 bis km 424,83 und von km 425,50 bis km
+    431,90.
 
 
 2.  Für Fahrzeuge, die keine Bezeichnung nach § 3.14 führen müssen, werden
@@ -8001,7 +9281,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
         i.  vor Mannheim-Rheinau
 
-            von km 413,30 bis km 414,25,
+            von km 413,40 bis km 414,25,
 
             von km 414,56 bis km 414,90,
 
@@ -8012,10 +9292,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
             von km 423,50 bis km 424,00,
 
-            von km 424,76 bis km 425,00 nur für Fahrzeuge, die in dieser
-            Uferstrecke laden oder löschen wollen,
-
-            von km 425,00 bis km 427,00,
+            von km 425,36 bis km 427,00,
 
             von km 428,72 bis km 429,60,
 
@@ -8025,19 +9302,19 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 
-    b)  Liegestelle am linken Ufer vor Ludwigshafen von km 424,83 bis km
+    b)  Liegestelle am linken Ufer vor Ludwigshafen von km 425,50 bis km
         426,20.
 
 
 
 
 
-3.  Für die Fahrzeuge, die die Bezeichnung nach § 3.14 Nr. 1 führen
-    müssen, werden bestimmt:
+3.  Für Fahrzeuge, die die Bezeichnung nach § 3.14 Nummer 1 führen müssen,
+    werden bestimmt:
 
     a)  Liegestellen am rechten Ufer
 
-        von km 413,00 bis km 413,30,
+        von km 413,10 bis km 413,40,
 
         von km 430,30 bis km 431,10;
 
@@ -8049,7 +9326,7 @@ Bescheinigung der zuständigen Behörde ersetzt.
 
 
 4.  Für Fahrzeuge, die bei der BASF Aktiengesellschaft laden oder löschen
-    wollen oder dort geladen oder gelöscht haben wird bestimmt:
+    wollen oder dort geladen oder gelöscht haben, wird bestimmt:
 
     Liegestelle am linken Ufer von km 426,20 bis km 431,47.
 
@@ -9017,10 +10294,1130 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 #### Anlage 3 Bezeichnung der Fahrzeuge
 
-(Inhalt: nicht erfaßte Anlage;
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 88 bis
+(Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 88 bis
 105;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+## 1. Allgemeines
+
+
+1.  Die nachstehenden Bilder dienen nur zur Erläuterung. Es ist stets vom
+    Wortlaut der Verordnung auszugehen, der allein Geltung hat.
+
+
+2.  Schubverbände, deren Länge 110,00 m und deren Breite 12,00 m nicht
+    überschreiten, gelten als einzeln fahrende Fahrzeuge von gleicher
+    Länge.
+
+
+3.  Zeichenerklärung:
+
+
+    *        *            ![bgbl2_1994_j0088_0010.jpg](bgbl2_1994_j0088_0010.jpg)
+        *            ![bgbl2_1994_j0088_0020.jpg](bgbl2_1994_j0088_0020.jpg)
+        *            ![bgbl2_1994_j0088_0030.jpg](bgbl2_1994_j0088_0030.jpg)
+        *            ![bgbl2_1994_j0088_0040.jpg](bgbl2_1994_j0088_0040.jpg)
+
+    *        *   Licht von allen Seiten sichtbar
+
+        *   Licht nur über einen beschränkten Horizontbogen sichtbar
+
+        *   Funkellicht
+
+        *   Flagge oder Tafel
+
+
+    *        *            ![bgbl2_1994_j0088_0050.jpg](bgbl2_1994_j0088_0050.jpg)
+        *            ![bgbl2_1994_j0088_0060.jpg](bgbl2_1994_j0088_0060.jpg)
+        *            ![bgbl2_1994_j0088_0070.jpg](bgbl2_1994_j0088_0070.jpg)
+        *            ![bgbl2_1994_j0088_0080.jpg](bgbl2_1994_j0088_0080.jpg)
+
+    *        *   Ball
+
+        *   Zylinder
+
+        *   Kegel
+
+        *   Doppelkegel
+
+
+
+
+    Ein Licht, das dem Blick des Beschauers tatsächlich entzogen ist, ist
+    mit einem Punkt in der Mitte versehen. Bilder mit schwarzem
+    Hintergrund enthalten die Lichter bei Nacht.
+
+
+
+
+*    *   Nachtbezeichnung
+
+    *   Bild
+
+    *   Tagbezeichnung
+
+
+
+
+*    *        ![bgbl2_1994_j0088_0090.jpg](bgbl2_1994_j0088_0090.jpg)
+    *   1
+
+    *
+
+*    *
+        § 3.01 Begriffsbestimmungen und Anwendungen
+
+            Nr. 1: Der Horizontbogen, über den das Topplicht, die Seitenlichter und das
+                Hecklicht sichtbar sind
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0088_0100.jpg](bgbl2_1994_j0088_0100.jpg)
+    *   2
+
+    *
+
+*    *
+        § 3.08 Einzeln fahrende Fahrzeuge mit Maschinenantrieb
+
+            Nr. 1: Länge bis 110,00m
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0088_0101.jpg](bgbl2_1994_j0088_0101.jpg)
+    *   3
+
+    *
+
+*    *
+        § 3.08 Einzeln fahrende Fahrzeuge mit Maschinenantrieb
+
+            Nr. 2: Länge mehr als 110,00 m
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0088_0102.jpg](bgbl2_1994_j0088_0102.jpg)
+    *   4
+
+    *        ![bgbl2_1994_j0088_0103.jpg](bgbl2_1994_j0088_0103.jpg)
+
+*    *
+        § 3.09 Schleppverbände
+
+            Nr. 1: Fahrzeug mit Maschinenantrieb, das allein an der Spitze des Verbandes
+                fährt
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0090_0010.jpg](bgbl2_1994_j0090_0010.jpg)
+    *   5
+
+    *        ![bgbl2_1994_j0090_0020.jpg](bgbl2_1994_j0090_0020.jpg)
+
+*    *
+        § 3.09 Schleppverbände
+
+            Nr. 2: Die Fahrzeuge mit Maschinenantrieb, die zu mehreren nebeneinander an
+                der Spitze des Verbandes fahren
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0090_0030.jpg](bgbl2_1994_j0090_0030.jpg)
+    *   6
+
+    *        ![bgbl2_1994_j0090_0040.jpg](bgbl2_1994_j0090_0040.jpg)
+
+*    *
+        § 3.09 Schleppen
+
+            Nr. 3: Geschleppte Fahrzeuge
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0090_0050.jpg](bgbl2_1994_j0090_0050.jpg)
+    *   7
+
+    *        ![bgbl2_1994_j0090_0060.jpg](bgbl2_1994_j0090_0060.jpg)
+
+*    *
+        § 3.09 Schleppen
+
+            Nr. 3: Anhanglänge des Verbandes über 110,00 m
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0090_0070.jpg](bgbl2_1994_j0090_0070.jpg)   Geändertes Bild 8:
+        Das Licht auf dem mittleren Anhang befindet sich auf dem äußeren
+        Anhang
+
+    *   8
+
+    *        ![bgbl2_1994_j0090_0080.jpg](bgbl2_1994_j0090_0080.jpg)
+
+*    *
+        § 3.09 Schleppen
+
+            Nr. 3 Buchstabe b: Anhanglänge des Verbandes mit mehr als zwei längsseits verbundenen
+                Fahrzeugen
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0091_0010.jpg](bgbl2_1994_j0091_0010.jpg)
+    *   9
+
+    *        ![bgbl2_1994_j0091_0020.jpg](bgbl2_1994_j0091_0020.jpg)
+
+*    *
+        § 3.09 Schleppen
+
+            Nr. 4: Das Fahrzeug als letzte Anhanglänge des Schleppverbandes
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0091_0030.jpg](bgbl2_1994_j0091_0030.jpg)
+    *   10
+
+    *        ![bgbl2_1994_j0091_0040.jpg](bgbl2_1994_j0091_0040.jpg)
+
+*    *
+        § 3.09 Schleppen
+
+            Nr. 4: Mehrere Fahrzeuge als letzte Anhanglänge des Schleppverbandes
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0091_0050.jpg](bgbl2_1994_j0091_0050.jpg)
+    *   11
+
+    *
+
+*    *
+        § 3.10 Schubverbände
+
+            Nr. 1: Schubverband
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0091_0060.jpg](bgbl2_1994_j0091_0060.jpg)
+    *   12
+
+    *
+
+*    *
+        § 3.10 Schubverbände
+
+            Nr. 1 Buchstabe c: Außer dem schiebenden Fahrzeug zwei oder mehr von hinten in ganzer
+                Breite sichtbare Fahrzeuge
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0092_0010.jpg](bgbl2_1994_j0092_0010.jpg)
+    *   13
+
+    *
+
+*    *
+        § 3.10 Schubverbände
+
+            Nr. 2: Zwei schiebende Fahrzeuge
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0092_0020.jpg](bgbl2_1994_j0092_0020.jpg)
+    *   14
+
+    *        ![bgbl2_1994_j0092_0030.jpg](bgbl2_1994_j0092_0030.jpg)
+
+*    *
+        § 3.10 Schubverbände
+
+            Nr. 3 und 4: Geschleppte Schubverbände
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0092_0040.jpg](bgbl2_1994_j0092_0040.jpg)
+    *   15
+
+    *
+
+*    *
+        § 3.11 Gekuppelte Fahrzeuge
+
+            Nr. 1: Zwei Fahrzeuge mit Maschinenantrieb
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0092_0050.jpg](bgbl2_1994_j0092_0050.jpg)
+    *   16
+
+    *
+
+*    *
+        § 3.11 Gekuppelte Fahrzeuge
+
+            Nr. 1: Ein Fahrzeug mit Maschinenantrieb und ein Fahrzeug ohne
+                Maschinenantrieb
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0093_0010.jpg](bgbl2_1994_j0093_0010.jpg)
+    *   17
+
+    *
+
+*    *
+        § 3.12 Fahrzeuge unter Segel
+
+
+
+
+
+*    *        ![bgbl2_1994_j0093_0020.jpg](bgbl2_1994_j0093_0020.jpg)
+    *   18
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 1 Buchstabe a, b und c: Kleinfahrzeuge mit Maschinenantrieb
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0093_0030.jpg](bgbl2_1994_j0093_0030.jpg)
+    *   19
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 1 Buchstabe d, e und f: Kleinfahrzeug mit Maschinenantrieb mit Seitenlichtern unmittelbar
+                nebeneinander oder in einer einzigen Laterne
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0093_0040.jpg](bgbl2_1994_j0093_0040.jpg)
+    *   20
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 1 Buchstabe f: Kleinfahrzeug mit Maschinenantrieb mit einem von allen Seiten
+                sichtbaren Licht
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0094_0010.jpg](bgbl2_1994_j0094_0010.jpg)
+    *   21
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 3: Geschleppt oder längsseits gekuppelt
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0094_0020.jpg](bgbl2_1994_j0094_0020.jpg)
+    *   22
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 4: Unter Segel fahrend
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0094_0030.jpg](bgbl2_1994_j0094_0030.jpg)
+    *   23
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 4: Unter Segel fahrend mit einer einzigen Laterne am Topp
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0094_0040.jpg](bgbl2_1994_j0094_0040.jpg)
+    *   24
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 4: Unter Segel fahrend mit einem von allen Seiten sichtbaren Licht und
+                bei Annäherung anderer Fahrzeuge ein zweites Licht zeigend
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0095_0010.jpg](bgbl2_1994_j0095_0010.jpg)
+    *   25
+
+    *
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 5: Einzeln weder mit Antriebsmaschine noch unter Segel fahrend
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0095_0020.jpg](bgbl2_1994_j0095_0020.jpg)
+    *   26
+
+    *        ![bgbl2_1994_j0095_0030.jpg](bgbl2_1994_j0095_0030.jpg)
+
+*    *
+        § 3.13 Kleinfahrzeuge
+
+            Nr. 1 und 6: Unter Segel und gleichzeitig mit einer Antriebsmaschine fahrend
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0095_0040.jpg](bgbl2_1994_j0095_0040.jpg)
+    *   27a
+
+    *        ![bgbl2_1994_j0095_0050.jpg](bgbl2_1994_j0095_0050.jpg)
+
+*    *
+    *   27b
+
+    *        ![bgbl2_1994_j0095_0060.jpg](bgbl2_1994_j0095_0060.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 1: Bestimmte entzündbare Stoffe nach ADNR
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0096_0010.jpg](bgbl2_1994_j0096_0010.jpg)
+    *   28a
+
+    *        ![bgbl2_1994_j0096_0020.jpg](bgbl2_1994_j0096_0020.jpg)
+
+*    *
+    *   28b
+
+    *        ![bgbl2_1994_j0096_0030.jpg](bgbl2_1994_j0096_0030.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 2: Bestimmte gesundheitsschädliche Stoffe nach ADNR
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0096_0040.jpg](bgbl2_1994_j0096_0040.jpg)
+    *   29
+
+    *        ![bgbl2_1994_j0096_0050.jpg](bgbl2_1994_j0096_0050.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 3: Bestimmte explosive Stoffe nach ADNR
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0096_0060.jpg](bgbl2_1994_j0096_0060.jpg)
+    *   30
+
+    *        ![bgbl2_1994_j0096_0070.jpg](bgbl2_1994_j0096_0070.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 4: Schubverband
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0097_0010.jpg](bgbl2_1994_j0097_0010.jpg)
+    *   31
+
+    *        ![bgbl2_1994_j0097_0020.jpg](bgbl2_1994_j0097_0020.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 4: Gekuppelte Fahrzeuge
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0097_0030.jpg](bgbl2_1994_j0097_0030.jpg)
+    *   32
+
+    *        ![bgbl2_1994_j0097_0040.jpg](bgbl2_1994_j0097_0040.jpg)
+
+*    *
+        § 3.14 Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+            Nr. 5: Schubverbände mit zwei schiebenden Fahrzeugen
+
+
+
+
+
+
+
+
+*    *
+    *   33
+
+    *        ![bgbl2_1994_j0097_0050.jpg](bgbl2_1994_j0097_0050.jpg)
+
+*    *
+        § 3.15 Fahrzeuge, die zur Beförderung von mehr als 12 Fahrgästen zugelassen
+            sind und deren Länge unter 20,00 m liegt
+
+
+
+
+
+*    *        ![bgbl2_1994_j0097_0060.jpg](bgbl2_1994_j0097_0060.jpg)
+    *   34
+
+    *
+
+*    *
+        § 3.16 Fähren
+
+            Nr. 1: Nicht frei fahrende Fähren
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0098_0010.jpg](bgbl2_1994_j0098_0010.jpg)
+    *   35
+
+    *
+
+*    *
+        § 3.16 Fähren
+
+            Nr. 2: Oberster Buchtnachen oder Döpper bei einer Gierfähre am Längsseil
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0098_0020.jpg](bgbl2_1994_j0098_0020.jpg)
+    *   36
+
+    *
+
+*    *
+        § 3.16 Fähren
+
+            Nr. 3: Frei fahrende Fähren
+
+
+
+
+
+
+
+
+*    *
+    *   37
+
+    *        ![bgbl2_1994_j0098_0030.jpg](bgbl2_1994_j0098_0030.jpg)
+
+*    *
+        § 3.17 Fahrzeuge, die einen Vorrang besitzen
+
+
+
+
+
+*    *        ![bgbl2_1994_j0098_0040.jpg](bgbl2_1994_j0098_0040.jpg)
+    *   38
+
+    *        ![bgbl2_1994_j0098_0050.jpg](bgbl2_1994_j0098_0050.jpg)
+
+*    *
+        § 3.18 Manövrierunfähige Fahrzeuge
+
+
+
+
+
+*    *        ![bgbl2_1994_j0099_0010.jpg](bgbl2_1994_j0099_0010.jpg)
+    *   39
+
+    *
+
+*    *
+        § 3.19 Schwimmkörper und schwimmende Anlagen
+
+
+
+
+
+*    *        ![bgbl2_1994_j0099_0020.jpg](bgbl2_1994_j0099_0020.jpg)
+    *   40
+
+    *
+
+*    *
+        § 3.20 Fahrzeuge beim Stilliegen
+
+            Nr. 1: Fahrzeuge mit Ausnahme der Kleinfahrzeuge, Fähren und schwimmenden
+                Geräte bei der Arbeit
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0099_0030.jpg](bgbl2_1994_j0099_0030.jpg)
+    *   41
+
+    *
+
+*    *
+        § 3.20 Fahrzeuge beim Stilliegen
+
+            Nr. 2: Kleinfahrzeuge mit Ausnahme der Beiboote
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0099_0040.jpg](bgbl2_1994_j0099_0040.jpg)
+    *   42
+
+    *        ![bgbl2_1994_j0099_0050.jpg](bgbl2_1994_j0099_0050.jpg)
+
+*    *
+        § 3.21 Stilliegende Fahrzeuge bei Beförderung bestimmter gefährlicher Güter
+
+
+
+
+
+*    *        ![bgbl2_1994_j0100_0010.jpg](bgbl2_1994_j0100_0010.jpg)
+    *   43
+
+    *        ![bgbl2_1994_j0100_0020.jpg](bgbl2_1994_j0100_0020.jpg)
+
+*    *
+        § 3.21 Stilliegende Fahrzeuge bei Beförderung bestimmter gefährlicher Güter:
+            Schubverbände
+
+
+
+
+
+*    *        ![bgbl2_1994_j0100_0030.jpg](bgbl2_1994_j0100_0030.jpg)
+    *   44
+
+    *        ![bgbl2_1994_j0100_0040.jpg](bgbl2_1994_j0100_0040.jpg)
+
+*    *
+        § 3.21 Stilliegende Fahrzeuge bei Beförderung bestimmter gefährlicher Güter:
+            Gekuppelte Fahrzeuge
+
+
+
+
+
+*    *        ![bgbl2_1994_j0100_0050.jpg](bgbl2_1994_j0100_0050.jpg)
+    *   45
+
+    *
+
+*    *
+        § 3.22 Fähren, die an ihrer Landestelle stilliegen
+
+            Nr. 1: Nicht frei fahrende Fähren
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0100_0060.jpg](bgbl2_1994_j0100_0060.jpg)
+    *   46
+
+    *
+
+*    *
+        § 3.22 Fähren, die an ihrer Landestelle stilliegen
+
+            Nr. 2: Frei fahrende Fähren
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0101_0010.jpg](bgbl2_1994_j0101_0010.jpg)
+    *   47
+
+    *
+
+*    *
+        § 3.23 Schwimmkörper und schwimmende Anlagen
+
+
+
+
+
+*    *        ![bgbl2_1994_j0101_0020.jpg](bgbl2_1994_j0101_0020.jpg)
+    *   48
+
+    *        ![bgbl2_1994_j0101_0030.jpg](bgbl2_1994_j0101_0030.jpg)
+
+*    *
+        § 3.24 Fischereifahrzeuge mit Netzen oder Auslegern
+
+
+
+
+
+*    *        ![bgbl2_1994_j0101_0040.jpg](bgbl2_1994_j0101_0040.jpg)
+    *   49a
+
+    *        ![bgbl2_1994_j0101_0050.jpg](bgbl2_1994_j0101_0050.jpg)
+
+*    *
+    *   49b
+
+    *        ![bgbl2_1994_j0101_0060.jpg](bgbl2_1994_j0101_0060.jpg)
+
+*    *
+        § 3.25 Schwimmende Geräte bei der Arbeit sowie festgefahrene oder gesunkene
+            Fahrzeuge
+
+            Nr. 1 Buchstabe a: Durchfahrt frei an beiden Seiten
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0102_0010.jpg](bgbl2_1994_j0102_0010.jpg)
+    *   50a
+
+    *        ![bgbl2_1994_j0102_0020.jpg](bgbl2_1994_j0102_0020.jpg)
+
+*    *
+    *   50b
+
+    *        ![bgbl2_1994_j0102_0030.jpg](bgbl2_1994_j0102_0030.jpg)
+
+*    *
+        § 3.25 Schwimmende Geräte bei der Arbeit sowie festgefahrene oder gesunkene
+            Fahrzeuge
+
+            Nr. 1 Buchstabe a und b: Durchfahrt frei an einer Seite
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0102_0040.jpg](bgbl2_1994_j0102_0040.jpg)
+    *   51
+
+    *        ![bgbl2_1994_j0102_0050.jpg](bgbl2_1994_j0102_0050.jpg)
+
+*    *
+        § 3.25 Schwimmende Geräte bei der Arbeit sowie festgefahrene oder gesunkene
+            Fahrzeuge
+
+            Nr. 1 Buchstabe c: Schutz gegen Wellenschlag; Durchfahrt frei an beiden Seiten
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0102_0060.jpg](bgbl2_1994_j0102_0060.jpg)
+    *   52
+
+    *        ![bgbl2_1994_j0102_0070.jpg](bgbl2_1994_j0102_0070.jpg)
+
+*    *
+        § 3.25 Schwimmende Geräte bei der Arbeit sowie festgefahrene oder gesunkene
+            Fahrzeuge
+
+            Nr. 2: Festgefahrene oder gesunkene Fahrzeuge; Durchfahrt frei an einer Seite
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0103_0010.jpg](bgbl2_1994_j0103_0010.jpg)
+    *   53
+
+    *        ![bgbl2_1994_j0103_0020.jpg](bgbl2_1994_j0103_0020.jpg)
+
+*    *
+        § 3.26 Fahrzeuge und Schwimmkörper, deren Anker die Schiffahrt gefährden
+            können
+
+            Nr. 1 und 3: Fahrzeuge und Anker
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0103_0030.jpg](bgbl2_1994_j0103_0030.jpg)
+    *   54
+
+    *        ![bgbl2_1994_j0103_0040.jpg](bgbl2_1994_j0103_0040.jpg)
+
+*    *
+        § 3.26 Fahrzeuge, Schwimmkörper und schwimmende Anlagen, deren Anker die
+            Schiffahrt gefährden können
+
+            Nr. 2 und 3: Schwimmkörper, schwimmende Anlagen und deren Anker
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0103_0050.jpg](bgbl2_1994_j0103_0050.jpg)
+    *   55
+
+    *        ![bgbl2_1994_j0103_0060.jpg](bgbl2_1994_j0103_0060.jpg)
+
+*    *
+        § 3.26 Fahrzeuge, Schwimmkörper und schwimmende Anlagen, deren Anker die
+            Schiffahrt gefährden können
+
+            Nr. 4: Anker schwimmender Geräte
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_1994_j0103_0070.jpg](bgbl2_1994_j0103_0070.jpg)
+    *   56
+
+    *        ![bgbl2_1994_j0103_0080.jpg](bgbl2_1994_j0103_0080.jpg)
+
+*    *
+        § 3.27 Fahrzeuge der Überwachungsbehörde
+
+
+
+
+
+*    *        ![bgbl2_1994_j0104_0010.jpg](bgbl2_1994_j0104_0010.jpg)
+    *   57
+
+    *        ![bgbl2_1994_j0104_0020.jpg](bgbl2_1994_j0104_0020.jpg)
+
+*    *
+        § 3.28 Fahrzeuge, die Arbeiten in der Wasserstraße ausführen
+
+
+
+
+
+*    *        ![bgbl2_1994_j0104_0030.jpg](bgbl2_1994_j0104_0030.jpg)
+    *   58
+
+    *        ![bgbl2_1994_j0104_0040.jpg](bgbl2_1994_j0104_0040.jpg)
+
+*    *
+        § 3.29 Schutz gegen Wellenschlag
+
+
+
+
+
+*    *        ![bgbl2_1994_j0104_0050.jpg](bgbl2_1994_j0104_0050.jpg)
+    *   59
+
+    *        ![bgbl2_1994_j0104_0060.jpg](bgbl2_1994_j0104_0060.jpg)
+
+*    *
+        § 3.30 Notzeichen
+
+
+
+
+
+*    *        ![bgbl2_2011_j0137_0010.jpg](bgbl2_2011_j0137_0010.jpg)
+    *   60
+
+    *        ![bgbl2_2011_j0137_0020.jpg](bgbl2_2011_j0137_0020.jpg)
+
+*    *
+        § 3.31 Verbot, das Fahrzeug zu betreten
+
+
+
+
+
+*    *        ![bgbl2_2011_j0137_0030.jpg](bgbl2_2011_j0137_0030.jpg)
+    *   61
+
+    *        ![bgbl2_2011_j0137_0040.jpg](bgbl2_2011_j0137_0040.jpg)
+
+*    *
+        § 3.32 Verbot zu rauchen, ungeschütztes Licht oder Feuer zu verwenden
+
+
+
+
+
+*    *        ![bgbl2_1994_j0105_0030.jpg](bgbl2_1994_j0105_0030.jpg)
+    *   62
+
+    *        ![bgbl2_1994_j0105_0040.jpg](bgbl2_1994_j0105_0040.jpg)
+
+*    *
+        § 3.33 Verbot des Stilliegens nebeneinander
+
+
+
+
+
+*    *        ![bgbl2_1994_j0105_0050.jpg](bgbl2_1994_j0105_0050.jpg)
+    *   63
+
+    *        ![bgbl2_1994_j0105_0060.jpg](bgbl2_1994_j0105_0060.jpg)
+
+*    *
+        § 6.04 Begegnen
+
+            Nr. 3: Begegnen an der Steuerbordseite
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_2003_j2151_0010.jpg](bgbl2_2003_j2151_0010.jpg)
+    *   64
+
+    *        ![bgbl2_2003_j2151_0020.jpg](bgbl2_2003_j2151_0020.jpg)
+
+*    *
+        § 3.08 Einzeln fahrende Fahrzeuge mit Maschinenantrieb
+
+            Nr. 3: Schnelles Schiff
+
+
+
+
+
+
+
+
+*    *        ![bgbl2_2014_j0251_0010.jpg](bgbl2_2014_j0251_0010.jpg)
+    *   65
+
+    *        ![bgbl2_2014_j0251_0020.jpg](bgbl2_2014_j0251_0020.jpg)
+
+*    *
+        § 3.34 Zusätzliche Bezeichnung der Fahrzeuge beim Einsatz von Tauchern
+
+
+
+
+
+
 
 
 #### Anlage 4
@@ -9035,222 +11432,2400 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
 
 #### Anlage 6 Schallzeichen
 
-(Inhalt: nicht erfaßte Anlage;
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 106 bis
+(Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 106 bis
 108;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+### Vorbemerkung:
+
+Die Schallzeichen, ausgenommen die Glockenschläge und das
+Dreitonzeichen („drei ohne Unterbrechung aufeinander folgende Töne von
+verschiedener Höhe“), bestehen in der Abgabe eines Tones oder mehrerer
+Töne hintereinander mit folgenden Merkmalen:
+
+— kurzer Ton: ein Ton von etwa einer Sekunde Dauer;
+
+
+— langer Ton: ein Ton von etwa vier Sekunden Dauer.
+
+
+
+Die Pause zwischen zwei aufeinanderfolgenden Tönen beträgt etwa eine
+Sekunde.
+Jedoch besteht das Zeichen „Folge von sehr kurzen Tönen“ aus einer
+Folge von mindestens sechs Tönen je von etwa einer Viertelsekunde
+Dauer, wobei die Pause zwischen den Tönen ebenso lang ist.
+Eine Gruppe von Glockenschlägen muß etwa vier Sekunden dauern. Sie
+kann durch Schläge von Metall auf Metall gleicher Dauer ersetzt
+werden.
+
+
+*    *   **A. Allgemeine Zeichen**
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0106_0010.jpg](bgbl2_1994_j0106_0010.jpg)
+    *   1 langer Ton
+
+    *   „Achtung“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0020.jpg](bgbl2_1994_j0106_0020.jpg)
+    *   1 kurzer Ton
+
+    *   „Ich richte meinen Kurs nach Steuerbord“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0030.jpg](bgbl2_1994_j0106_0030.jpg)
+    *   2 kurze Töne
+
+    *   „Ich richte meinen Kurs nach Backbord“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0040.jpg](bgbl2_1994_j0106_0040.jpg)
+    *   3 kurze Töne
+
+    *   „Meine Maschine geht rückwärts“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0050.jpg](bgbl2_1994_j0106_0050.jpg)
+    *   4 kurze Töne
+
+    *   „Ich bin manövrierunfähig“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0060.jpg](bgbl2_1994_j0106_0060.jpg)
+    *   Folge sehr kurzer Töne
+
+    *   „Gefahr eines Zusammenstoßes“
+
+    *
+
+*    *        ![bgbl2_1994_j0106_0070.jpg](bgbl2_1994_j0106_0070.jpg)
+    *   Wiederholte lange Töne
+
+    *
+    *
+
+*    *
+    *   oder
+
+    *   „Notsignal“
+
+    *   § 4.04 Nr. 1
+
+
+*    *        ![bgbl2_1994_j0106_0080.jpg](bgbl2_1994_j0106_0080.jpg)
+    *   Gruppen von Glockenschlägen
+
+    *
+    *
+
+
+
+*    *   **B. Begegnungszeichen**
+
+    *
+    *
+    *
+
+*    *   Vorbeifahrt an Backbord verlangt
+
+
+*    *   Normalfall:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0106_0090.jpg](bgbl2_1994_j0106_0090.jpg)
+    *   1 kurzer Ton des Bergfahrers
+
+    *   „Ich will an Backbord vorbeifahren“
+
+    *   § 6.04 Nr. 4
+
+
+*    *        ![bgbl2_1994_j0106_0100.jpg](bgbl2_1994_j0106_0100.jpg)
+    *   1 kurzer Ton des Talfahrers
+
+    *   „Einverstanden, fahren Sie an Backbord vorbei“
+
+    *   § 6.04 Nr. 5
+
+
+*    *   Abweichung:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0106_0110.jpg](bgbl2_1994_j0106_0110.jpg)
+    *   2 kurze Töne des Talfahrers
+
+    *   „Nicht einverstanden, fahren Sie an Steuerbord vorbei“
+
+    *   § 6.05 Nr. 2
+
+
+*    *        ![bgbl2_1994_j0106_0120.jpg](bgbl2_1994_j0106_0120.jpg)
+    *   2 kurze Töne des Bergfahrers
+
+    *   „Einverstanden, ich werde an Steuerbord vorbeifahren“
+
+    *   § 6.05 Nr. 3
+
+
+*    *   Vorbeifahrt an Steuerbord verlangt
+
+    *
+    *
+    *
+
+*    *   Normalfall:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0106_0130.jpg](bgbl2_1994_j0106_0130.jpg)
+    *   2 kurze Töne des Bergfahrers
+
+    *   „Ich will an Steuerbord vorbeifahren”
+
+    *   § 6.04 Nr. 4
+
+
+*    *        ![bgbl2_1994_j0106_0140.jpg](bgbl2_1994_j0106_0140.jpg)
+    *   2 kurze Töne des Talfahrers
+
+    *   „Einverstanden, fahren Sie an Steuerbord vorbei“
+
+    *   § 6.04 Nr. 5
+
+
+*    *   Abweichung:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0106_0150.jpg](bgbl2_1994_j0106_0150.jpg)
+    *   1 kurzer Ton des Talfahrers
+
+    *   „Nicht einverstanden, fahren Sie an Backbord vorbei“
+
+    *   § 6.05 Nr. 2
+
+
+*    *        ![bgbl2_1994_j0106_0160.jpg](bgbl2_1994_j0106_0160.jpg)
+    *   1 kurzer Ton des Bergfahrers
+
+    *   „Einverstanden, ich werde an Backbord vorbeifahren“
+
+    *   § 6.05 Nr. 3
+
+
+
+
+*    *   **C. Überholzeichen**
+
+    *
+    *
+    *
+
+*    *   Überholen an Backbord des Vorausfahrenden verlangt
+
+
+*    *        ![bgbl2_1994_j0107_0010.jpg](bgbl2_1994_j0107_0010.jpg)
+    *   2 lange Töne
+        2 kurze Töne des Überholenden
+
+    *   „Ich will auf Ihrer Backbordseite überholen“
+
+    *   § 6.10 Nr. 2
+
+
+*    *   Normalfall:
+
+    *   Kein Zeichen des Vorausfahrenden
+
+    *   „Einverstanden, Sie können auf meiner Backbordseite überholen“
+
+    *   § 6.10 Nr. 3
+
+
+*    *   Abweichung:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0107_0020.jpg](bgbl2_1994_j0107_0020.jpg)
+    *   2 kurze Töne des Vorausfahrenden
+
+    *   „Nicht einverstanden, überholen Sie auf meiner Steuerbordseite“
+
+    *   § 6.10 Nr. 4
+
+
+*    *        ![bgbl2_1994_j0107_0030.jpg](bgbl2_1994_j0107_0030.jpg)
+    *   1 kurzer Ton des Überholenden
+
+    *   „Einverstanden, ich werde auf Ihrer Steuerbordseite überholen“
+
+    *   § 6.10 Nr. 4
+
+
+*    *   Überholen an Steuerbord des Vorausfahrenden verlangt
+
+
+*    *        ![bgbl2_1994_j0107_0040.jpg](bgbl2_1994_j0107_0040.jpg)
+    *   2 lange Töne,
+        1 kurzer Ton des Überholenden
+
+    *   „Ich will auf Ihrer Steuerbordseite überholen“
+
+    *   § 6.10 Nr. 2
+
+
+*    *   Normalfall:
+
+    *   Kein Schallzeichen
+        des Vorausfahrenden
+
+    *   „Einverstanden, Sie können auf meiner Steuerbordseite überholen”
+
+    *   § 6.10 Nr. 3
+
+
+*    *   Abweichung:
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0107_0050.jpg](bgbl2_1994_j0107_0050.jpg)
+    *   1 kurzer Ton des Vorausfahrenden
+
+    *   „Nicht einverstanden, überholen Sie auf meiner Backbordseite“
+
+    *   § 6.10 Nr. 4
+
+
+*    *        ![bgbl2_1994_j0107_0060.jpg](bgbl2_1994_j0107_0060.jpg)
+    *   2 kurze Töne des Überholenden
+
+    *   „Einverstanden, ich werde auf Ihrer Backbordseite überholen“
+
+    *   § 6. 10 Nr. 4
+
+
+*    *   Unmöglichkeit des Überholens
+
+    *
+    *
+    *
+
+*    *        ![bgbl2_1994_j0107_0070.jpg](bgbl2_1994_j0107_0070.jpg)
+    *   5 kurze Töne des Vorausfahrenden
+
+    *   „Man kann mich nicht überholen“
+
+    *   § 6.10 Nr. 5
+
+
+
+
+*    *   **D. Wendezeichen**
+
+    *
+    *
+    *
+
+*    *
+
+*    *        ![bgbl2_1994_j0107_0080.jpg](bgbl2_1994_j0107_0080.jpg)
+    *   1 langer Ton,
+        1 kurzer Ton
+
+    *   „Ich wende über Steuerbord“
+
+    *   § 6.13 Nr. 2,
+        § 6.16 Nr. 2
+
+
+*    *        ![bgbl2_1994_j0107_0090.jpg](bgbl2_1994_j0107_0090.jpg)
+    *   1 langer Ton,
+        2 kurze Töne
+
+    *   „Ich wende über Backbord“
+
+    *   § 6.13 Nr. 2,
+        § 6.16 Nr. 2
+
+
+
+
+*    *   **E. Zeichen bei der Einfahrt in und der Ausfahrt aus Häfen und
+        Nebenwasserstraßen**
+
+
+*    *
+
+*    *        ![bgbl2_1994_j0107_0100.jpg](bgbl2_1994_j0107_0100.jpg)
+    *   3 lange Töne,
+        1 kurzer Ton
+
+    *   „Ich will meinen Kurs nach Steuerbord richten“
+
+    *   § 6.16 Nr. 2
+
+
+*    *        ![bgbl2_1994_j0107_0110.jpg](bgbl2_1994_j0107_0110.jpg)
+    *   3 lange Töne,
+        2 kurze Töne
+
+    *   „Ich will meinen Kurs nach Backbord richten“
+
+    *   § 6.16 Nr. 2
+
+
+*    *        ![bgbl2_1994_j0107_0120.jpg](bgbl2_1994_j0107_0120.jpg)
+    *   3 lange Töne
+
+    *   „Ich will überqueren“
+
+    *   § 6.16 Nr. 2
+
+
+
+
+*    *   **F.** (ohne Inhalt)
+
+
+
+
+*    *   **G. Zeichen bei unsichtigem Wetter**
+
+
+*    *
+        a)  Einzeln fahrende Fahrzeuge und Verbände, die kein Radar benutzen
+
+
+
+
+
+*    *
+    *        ![bgbl2_1994_j0108_0010.jpg](bgbl2_1994_j0108_0010.jpg)
+    *   1 langer Ton, längstens jede Minute wiederholt
+
+    *   § 6.33 Buchstabe b
+
+
+*    *
+        b)  Fahrzeuge in der Radarfahrt, wenn kein Sprechfunkkontakt zustande
+            kommt
+
+
+
+
+
+*    *
+    *        ![bgbl2_1994_j0108_0010.jpg](bgbl2_1994_j0108_0010.jpg)
+    *   1 langer Ton, wiederholt
+
+    *   § 6.32 Nr. 2 Buchstabe d
+
+
+*    *
+        c)  Stillliegende Fahrzeuge
+
+
+
+
+
+*    *
+    *        ![bgbl2_2006_j0063_0010.jpg](bgbl2_2006_j0063_0010.jpg)
+    *   1 Gruppe von Glockenschlägen,
+        längstens jede Minute wiederholt
+
+    *   § 6.31 Nr. 2
+
+
 
 
 #### Anlage 7 Schiffahrtszeichen
 
-(Inhalt: nicht erfaßte Anlage;
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 109 bis
+(Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 109 bis
 127;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
+
+### Vorbemerkung:
+
+
+1.  Die Zeichen in Abschnitt 1 können, wie in Abschnitt II angegeben,
+    ergänzt oder erläutert werden.
+
+
+2.  Die Tafeln können, um besser erkennbar zu sein, mit einem schmalen
+    weißen Streifen eingefaßt werden.
+
+
+
+
+## **Abschnitt I – Hauptzeichen**
+
+### A. Verbotszeichen
+
+
+*    *   A.1
+
+    *   Verbot der Durchfahrt (allgemeines Zeichen);
+        (§ 3.25 Nr. 1 Buchstabe b, § 6.08 Nr. 2, § 6.16 Nr. 4, § 6.22 Nr. 1, §
+        6\.22a, § 6.25 Nr. 1, § 6.27 Nr. 1, § 6.28a Nr. 3, § 9.02 Nr. 5 und 6
+        und § 10.01 Nr. 4 Buchstabe c)
+
+    *
+
+*    *
+    *   entweder Tafeln
+
+    *        ![bgbl2_1994_j0109_0010.jpg](bgbl2_1994_j0109_0010.jpg)
+
+*    *
+    *   oder rote Lichter
+
+    *        ![bgbl2_1994_j0109_0020.jpg](bgbl2_1994_j0109_0020.jpg)
+
+*    *
+    *   oder rote Flaggen.
+
+    *        ![bgbl2_1994_j0109_0030.jpg](bgbl2_1994_j0109_0030.jpg)
+
+*    *
+    *   Werden zwei Lichter oder zwei Flaggen übereinander gezeigt, bedeutet
+        dies ein langdauerndes Verbot.
+
+
+*    *   A.1a
+
+    *   Gesperrte Wasserflächen; jedoch für Kleinfahrzeuge ohne
+        Antriebsmaschine befahrbar.
+        (§ 6.22 Nr. 2 Buchstabe a)
+
+    *        ![bgbl2_1994_j0109_0040.jpg](bgbl2_1994_j0109_0040.jpg)
+
+*    *   A.2
+
+    *   Überholverbot, allgemein.
+        (§ 6.11)
+
+    *        ![bgbl2_1994_j0109_0050.jpg](bgbl2_1994_j0109_0050.jpg)
+
+*    *   A.3
+
+    *   Überholverbot für Verbände untereinander. Dies gilt nicht, wenn einer
+        der Verbände ein Schubverband ist, dessen Länge 110,00 m und dessen
+        Breite 12,00 m nicht über schreitet.
+        (§ 6.11)
+
+    *        ![bgbl2_1994_j0110_0010.jpg](bgbl2_1994_j0110_0010.jpg)
+
+*    *   A.4
+
+    *   Verbot des Begegnens und Überholverbot.
+        (§ 6.08 Nr. 1)
+
+    *        ![bgbl2_1994_j0110_0020.jpg](bgbl2_1994_j0110_0020.jpg)
+
+*    *   A.5
+
+    *   Stilliegeverbot auf der Seite der Wasserstraße, auf der das
+        Tafelzeichen steht.
+        (§ 7.02 Nr. 1 Buchstabe c)
+
+    *        ![bgbl2_1994_j0110_0030.jpg](bgbl2_1994_j0110_0030.jpg)
+
+*    *   A.5.1
+
+    *   Stilliegeverbot auf der Wasserfläche, deren Breite, gemessen vom
+        Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
+        (§ 7.02 Nr. 1 Buchstabe 1)
+
+    *        ![bgbl2_1994_j0110_0040.jpg](bgbl2_1994_j0110_0040.jpg)
+
+*    *   A.6
+
+    *   Ankerverbot und Verbot des Schleifenlassens von Ankern, Trossen oder
+        Ketten auf der Seite der Wasserstraße, auf der das Tafelzeichen steht.
+        (§ 6.18 Nr. 2 und § 7.03 Nr. 1 Buchstabe b)
+
+    *        ![bgbl2_1994_j0110_0050.jpg](bgbl2_1994_j0110_0050.jpg)
+
+*    *   A.7
+
+    *   Festmacheverbot am Ufer auf der Seite der Wasserstraße, auf der das
+        Tafelzeichen steht.
+        (§ 7.04 Nr. 1 Buchstabe b)
+
+    *        ![bgbl2_1994_j0111_0010.jpg](bgbl2_1994_j0111_0010.jpg)
+
+*    *   A.8
+
+    *   Wendeverbot.
+        (§ 6.13 Nr. 4)
+
+    *        ![bgbl2_1994_j0111_0020.jpg](bgbl2_1994_j0111_0020.jpg)
+
+*    *   A.9
+
+    *   Vermeidung von Wellenschlag.
+        (§ 6.20 Nr. 1 Buchstabe e)
+
+    *        ![bgbl2_1994_j0111_0030.jpg](bgbl2_1994_j0111_0030.jpg)
+
+*    *   A.10
+
+    *   Verbot, außerhalb der angezeigten Begrenzung zu fahren.
+        (§ 6.24 Nr. 2 Buchstabe a)
+
+    *        ![bgbl2_1994_j0111_0040.jpg](bgbl2_1994_j0111_0040.jpg)
+
+*    *   A.11
+
+    *   Verbot der Einfahrt; die Vorbereitungen zur Fortsetzung der Fahrt sind
+        jedoch zu treffen
+        (§ 6.28a Nr. 1 Buchstabe c)
+
+    *        ![bgbl2_1994_j0111_0050.jpg](bgbl2_1994_j0111_0050.jpg)
+
+*    *   A.12
+
+    *   Fahrverbot für Fahrzeuge mit Maschinenantrieb.
+        (§ 6.22 Nr. 2 Buchstabe b)
+
+    *        ![bgbl2_2006_j0066_0010.jpg](bgbl2_2006_j0066_0010.jpg)
+
+*    *   A.13
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   A.14
+
+    *   Verbot des Wasserskilaufens.
+
+    *        ![bgbl2_1994_j0112_0010.jpg](bgbl2_1994_j0112_0010.jpg)
+
+*    *   A.15
+
+    *   Fahrverbot für Segelfahrzeuge.
+
+    *        ![bgbl2_1994_j0112_0020.jpg](bgbl2_1994_j0112_0020.jpg)
+
+*    *   A.16
+
+    *   Fahrverbot für Fahrzeuge, die weder mit Maschinenantrieb noch unter
+        Segel fahren.
+
+    *        ![bgbl2_1994_j0112_0030.jpg](bgbl2_1994_j0112_0030.jpg)
+
+*    *   A.17
+
+    *   Verbot des Segelsurfens.
+
+    *        ![bgbl2_1994_j0112_0040.jpg](bgbl2_1994_j0112_0040.jpg)
+
+*    *   A.18
+
+    *   Fahrverbot für Wassermotorräder (Waterscooter, Jetski usw.).
+
+    *        ![bgbl2_1994_j0112_0050.jpg](bgbl2_1994_j0112_0050.jpg)
+
+
+   ### B. Gebotszeichen
+
+
+*    *   B.1
+
+    *   Gebot, die durch den Pfeil angezeigte Richtung einzuschlagen.
+        (§ 6.12)
+
+    *        ![bgbl2_1994_j0113_0010.jpg](bgbl2_1994_j0113_0010.jpg)
+
+*    *   B.2
+
+    *
+        a)  Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der
+            Backbordseite des Fahrzeugs liegt.
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0113_0020.jpg](bgbl2_1994_j0113_0020.jpg)
+
+*    *
+    *
+        b)  Gebot, auf die Fahrrinnenseite hinüberzufahren, die auf der
+            Steuerbordseite des Fahrzeugs liegt.
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0113_0030.jpg](bgbl2_1994_j0113_0030.jpg)
+
+*    *   B.3
+
+    *
+        a)  Gebot, die Fahrrinnenseite zu halten, die auf der Backbordseite des
+            Fahrzeugs liegt.
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0113_0040.jpg](bgbl2_1994_j0113_0040.jpg)
+
+*    *
+    *
+        b)  Gebot, die Fahrrinnenseite zu halten, die auf der Steuerbordseite des
+            Fahrzeugs liegt.
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0113_0050.jpg](bgbl2_1994_j0113_0050.jpg)
+
+*    *   B.4
+
+    *
+        a)  Gebot, die Fahrrinne nach Backbord zu kreuzen.
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0114_0010.jpg](bgbl2_1994_j0114_0010.jpg)
+
+*    *
+    *
+        b)  Gebot, die Fahrrinne nach Steuerbord zu kreuzen..
+            (§ 6.12)
+
+
+
+
+    *        ![bgbl2_1994_j0114_0020.jpg](bgbl2_1994_j0114_0020.jpg)
+
+*    *   B.5
+
+    *   Gebot, unter bestimmten Voraussetzungen anzuhalten.
+        (§ 6.28 Nr. 1)
+
+    *        ![bgbl2_1994_j0114_0030.jpg](bgbl2_1994_j0114_0030.jpg)
+
+*    *   B.6
+
+    *   Gebot, die angegebene Geschwindigkeit (in km/Std.) nicht zu
+        überschreiten.
+
+    *        ![bgbl2_1994_j0114_0040.jpg](bgbl2_1994_j0114_0040.jpg)
+
+*    *   B.7
+
+    *   Gebot, Schallsignal zu geben.
+
+    *        ![bgbl2_1994_j0114_0050.jpg](bgbl2_1994_j0114_0050.jpg)
+
+*    *   B.8
+
+    *   Gebot, besondere Vorsicht walten zu lassen.
+        (§ 6.08 Nr. 2)
+
+    *        ![bgbl2_1994_j0115_0010.jpg](bgbl2_1994_j0115_0010.jpg)
+
+*    *   B.9
+
+    *
+        a)  Gebot, nur dann in die Hauptwasserstraße einzufahren oder sie zu
+            überqueren, wenn dadurch die Fahrzeuge auf der Hauptwasserstraße nicht
+            gezwungen werden, ihren Kurs oder ihre Geschwindigkeit zu ändern.
+            (§ 6.16 Nr. 3)
+
+
+
+
+    *        ![bgbl2_1994_j0115_0020.jpg](bgbl2_1994_j0115_0020.jpg)
+
+*    *
+    *
+        b)  wie vor
+
+
+
+
+    *        ![bgbl2_1994_j0115_0030.jpg](bgbl2_1994_j0115_0030.jpg)
+
+*    *   B.10
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   B.11
+
+    *
+        a)  Gebot, Sprechfunk zu benutzen.
+            (§ 4.05 Nr. 5)
+
+
+
+
+    *        ![bgbl2_1994_j0115_0040.jpg](bgbl2_1994_j0115_0040.jpg)
+
+*    *
+    *
+        b)  Gebot, Sprechfunk auf dem angegebenen Kanal zu benutzen.
+            (§ 4.05 Nr. 5)
+            Beispiel: Kanal 11
+
+
+
+
+    *        ![bgbl2_1994_j0115_0050.jpg](bgbl2_1994_j0115_0050.jpg)
+
+*    *   B.12
+
+    *   Gebot zur Nutzung von Landstromanschlüssen
+        (§ 7.06 Nr. 3)
+
+    *        ![bgbl2_2018_j0178_0010.jpg](bgbl2_2018_j0178_0010.jpg)
+
+
+   ### C. Zeichen für Einschränkungen
+
+
+*    *   C.1
+
+    *   Die Fahrwassertiefe ist begrenzt.
+
+    *        ![bgbl2_1994_j0116_0010.jpg](bgbl2_1994_j0116_0010.jpg)
+
+*    *   C.2
+
+    *   Die lichte Höhe über dem Wasserspiegel ist begrenzt.
+
+    *        ![bgbl2_1994_j0116_0020.jpg](bgbl2_1994_j0116_0020.jpg)
+
+*    *   C.3
+
+    *   Die Breite der Durchfahrtsöffnung oder der Fahrrinne ist begrenzt.
+
+    *        ![bgbl2_1994_j0116_0030.jpg](bgbl2_1994_j0116_0030.jpg)
+
+*    *   C.4
+
+    *   Es bestehen Schiffahrtsbeschränkungen; sie sind auf einer zusätzlichen
+        Tafel unter dem Schiffahrtszeichen angegeben.
+
+    *        ![bgbl2_1994_j0116_0040.jpg](bgbl2_1994_j0116_0040.jpg)
+
+*    *   C.5
+
+    *   Die Wasserstraße ist am rechten (linken) Ufer eingeengt; die Zahl auf
+        dem Zeichen gibt den Abstand in Metern an, in dem sich die Fahrzeuge
+        vom Tafelzeichen entfernt halten sollen.
+
+    *        ![bgbl2_1994_j0116_0050.jpg](bgbl2_1994_j0116_0050.jpg)
+
+
+   ### D. Empfehlende Zeichen
+
+
+*    *   D.1
+
+    *   Empfohlene Durchfahrtsöffnung
+
+    *
+
+*    *
+    *
+        a)  für Verkehr in beiden Richtungen;
+            (§ 6.25 Nr. 2 Buchstabe a)
+
+
+
+
+    *        ![bgbl2_1994_j0117_0010.jpg](bgbl2_1994_j0117_0010.jpg)
+
+*    *
+    *
+        b)  für Verkehr nur in der Richtung, in der die Zeichen sichtbar sind (in
+            der anderen Richtung untersagt).
+            (§ 6.25 Nr. 2 Buchstabe b)
+
+
+
+
+    *        ![bgbl2_1994_j0117_0020.jpg](bgbl2_1994_j0117_0020.jpg)
+
+*    *   D.2
+
+    *   Empfehlung, sich in dem durch die Tafeln begrenzten Raum zu halten.
+        (§ 6.24 Nr. 2 Buchstabe b)
+
+    *        ![bgbl2_1994_j0117_0030.jpg](bgbl2_1994_j0117_0030.jpg)
+
+*    *   D.3
+
+    *   Empfehlung,
+        in der Richtung des Pfeils zu fahren;
+
+    *        ![bgbl2_1994_j0117_0040.jpg](bgbl2_1994_j0117_0040.jpg)
+
+*    *
+    *   in der Richtung vom festen Licht zum Gleichtaktlicht zu fahren.
+
+    *        ![bgbl2_1994_j0117_0050.jpg](bgbl2_1994_j0117_0050.jpg)
+
+
+   ### E. Hinweiszeichen
+
+
+*    *   E.1
+
+    *   Erlaubnis zur Durchfahrtsöffnung (allgemeines Zeichen).
+        (§ 3.25 Nr. 1 Buchstabe a, § 6.08 Nr. 2, § 6.27 Nr. 2 und § 6.28a)
+
+    *        ![bgbl2_1994_j0118_0010.jpg](bgbl2_1994_j0118_0010.jpg)
+
+*    *   E.2
+
+    *   Kreuzung einer Hochspannungsleitung.
+
+    *        ![bgbl2_1994_j0118_0020.jpg](bgbl2_1994_j0118_0020.jpg)
+
+*    *   E.3
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   E.4
+
+    *   Nicht frei fahrende Fähre.
+
+    *        ![bgbl2_1994_j0118_0030.jpg](bgbl2_1994_j0118_0030.jpg)
+
+*    *   E.5
+
+    *   Erlaubnis zum Stilliegen auf der Seite der Wasserstraße, auf der das
+        Zeichen steht.
+        (§ 7.05 Nr. 1)
+
+    *        ![bgbl2_1994_j0118_0040.jpg](bgbl2_1994_j0118_0040.jpg)
+
+*    *   E.5.1
+
+    *   Erlaubnis zum Stilliegen auf der Wasserfläche, deren Breite, gemessen
+        vom Aufstellungsort, auf dem Tafelzeichen in Metern angegeben ist.
+        (§ 7.05 Nr. 2)
+
+    *        ![bgbl2_1994_j0118_0050.jpg](bgbl2_1994_j0118_0050.jpg)
+
+*    *   E.5.2
+
+    *   Erlaubnis zum Stilliegen auf der Wasserfläche zwischen den zwei
+        Entfernungen, die, gemessen vom Aufstellungsort, auf dem Tafelzeichen
+        in Metern angegeben sind.
+        (§ 7.05 Nr. 3)
+
+    *        ![bgbl2_1994_j0119_0010.jpg](bgbl2_1994_j0119_0010.jpg)
+
+*    *   E.5.3
+
+    *   Höchstzahl der Fahrzeuge, die auf der Seite der Wasserstraße, auf der
+        das Tafelzeichen steht, nebeneinander stilliegen dürfen.
+        (§ 7.05 Nr. 4)
+
+    *        ![bgbl2_1994_j0119_0020.jpg](bgbl2_1994_j0119_0020.jpg)
+
+*    *   E.5.4
+
+    *   Liegestelle für Fahrzeuge der Schubschiffahrt, die nicht die Zeichen
+        nach § 3.14 führen müssen.
+        (§ 7.06 Nr.1)
+
+    *        ![bgbl2_1994_j0119_0030.jpg](bgbl2_1994_j0119_0030.jpg)
+
+*    *   E.5.5
+
+    *   Liegestelle für Fahrzeuge der Schubschiffahrt, die die Zeichen nach §
+        3\.14 Nr. 1 führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0119_0040.jpg](bgbl2_1994_j0119_0040.jpg)
+
+*    *   E.5.6
+
+    *   Liegestelle für Fahrzeuge der Schubschiffahrt, die die Zeichen nach §
+        3\.14 Nr. 2 führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0119_0050.jpg](bgbl2_1994_j0119_0050.jpg)
+
+*    *   E.5.7
+
+    *   Liegestelle für Fahrzeuge der Schubschiffahrt, die die Zeichen nach §
+        3\.14 Nr. 3 führen müssen.
+        (§ 7.06 Nr.1)
+
+    *        ![bgbl2_1994_j0120_0010.jpg](bgbl2_1994_j0120_0010.jpg)
+
+*    *   E.5.8
+
+    *   Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
+        die nicht die Zeichen nach § 3.14 führen müssen.
+        (§ 7.06 Nr.1)
+
+    *        ![bgbl2_1994_j0120_0020.jpg](bgbl2_1994_j0120_0020.jpg)
+
+*    *   E.5.9
+
+    *   Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
+        die die Zeichen nach § 3.14 Nr. 1 führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0120_0030.jpg](bgbl2_1994_j0120_0030.jpg)
+
+*    *   E.5.10
+
+    *   Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
+        die die Zeichen nach § 3.14 Nr. 2 führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0120_0040.jpg](bgbl2_1994_j0120_0040.jpg)
+
+*    *   E.5.11
+
+    *   Liegestelle für andere Fahrzeuge als Fahrzeuge der Schubschiffahrt,
+        die die Zeichen nach § 3.14 Nr. 3 führen müssen.
+        (§ 7.06 Nr.1)
+
+    *        ![bgbl2_1994_j0120_0050.jpg](bgbl2_1994_j0120_0050.jpg)
+
+*    *   E.5.12
+
+    *   Liegestelle für alle Fahrzeuge, die kein Zeichen nach § 3.14 führen
+        müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0121_0010.jpg](bgbl2_1994_j0121_0010.jpg)
+
+*    *   E.5.13
+
+    *   Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 1
+        führen müssen.
+        (§ 7.06 Nr.1)
+
+    *        ![bgbl2_1994_j0121_0020.jpg](bgbl2_1994_j0121_0020.jpg)
+
+*    *   E.5.14
+
+    *   Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 2
+        führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0121_0030.jpg](bgbl2_1994_j0121_0030.jpg)
+
+*    *   E.5.15
+
+    *   Liegestelle für alle Fahrzeuge, die die Zeichen nach § 3.14 Nr. 3
+        führen müssen.
+        (§ 7.06 Nr. 1)
+
+    *        ![bgbl2_1994_j0121_0040.jpg](bgbl2_1994_j0121_0040.jpg)
+
+*    *   E.6
+
+    *   Erlaubnis zum Ankern auf der Seite der Wasserstraße, auf der das
+        Tafelzeichen steht.
+        (§ 7.03 Nr. 2)
+
+    *        ![bgbl2_1994_j0121_0050.jpg](bgbl2_1994_j0121_0050.jpg)
+
+*    *   E.6.1
+
+    *   Erlaubnis zur Benutzung von Ankerpfählen auf der Seite der
+        Wasserstraße, auf der das Tafelzeichen steht.
+        (§ 7.03 Nr. 3)
+
+    *        ![bgbl2_2016_j0719_0010.jpg](bgbl2_2016_j0719_0010.jpg)
+
+*    *   E.7
+
+    *   Erlaubnis zum Festmachen am Ufer auf der Seite der Wasserstraße, auf
+        der das Tafelzeichen steht.
+        (§ 7.04 Nr. 2)
+
+    *        ![bgbl2_2011_j0126_0010.jpg](bgbl2_2011_j0126_0010.jpg)
+
+*    *   E.7.1
+
+    *   Erlaubnis zum Festmachen am Ufer für das sofortige Ein- oder Ausladen
+        eines Kraftwagens
+        (§ 7.04 Nr. 2)
+
+    *        ![bgbl2_2011_j0126_0020.jpg](bgbl2_2011_j0126_0020.jpg)
+
+*    *   E.8
+
+    *   Hinweis auf eine Wendestelle.
+        (§§ 6.13 und 7.02 Nr. 1 Buchstabe i)
+
+    *        ![bgbl2_1994_j0122_0020.jpg](bgbl2_1994_j0122_0020.jpg)
+
+*    *   E.9
+
+    *
+        a)  Einmündende Wasserstraßen gelten als Nebenwasserstraßen.
+            (§ 6.16 Nr. 1)
+
+
+
+
+    *        ![bgbl2_1994_j0122_0030.jpg](bgbl2_1994_j0122_0030.jpg)
+
+*    *
+    *
+        b)  wie vor
+
+
+
+
+    *        ![bgbl2_1994_j0122_0040.jpg](bgbl2_1994_j0122_0040.jpg)
+
+*    *
+    *
+        c)  wie vor
+
+
+
+
+    *        ![bgbl2_1994_j0122_0050.jpg](bgbl2_1994_j0122_0050.jpg)
+
+*    *   E.10
+
+    *
+        a)  Die benutzte Wasserstraße gilt als Nebenwasserstraße der einmündenden.
+            (§ 6.1 Nr. 1)
+
+
+
+
+    *        ![bgbl2_1994_j0123_0010.jpg](bgbl2_1994_j0123_0010.jpg)
+
+*    *
+    *
+        b)  wie vor
+
+
+
+
+    *        ![bgbl2_1994_j0123_0020.jpg](bgbl2_1994_j0123_0020.jpg)
+
+*    *   E.11
+
+    *   Ende des Verbots oder eines Gebots, das nur in einer Verkehrsrichtung
+        gilt, oder Ende einer Einschränkung.
+
+    *        ![bgbl2_1994_j0123_0030.jpg](bgbl2_1994_j0123_0030.jpg)
+
+*    *   E.12
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   E.13
+
+    *   Trinkwasserzapfstelle.
+
+    *        ![bgbl2_1994_j0123_0040.jpg](bgbl2_1994_j0123_0040.jpg)
+
+*    *   E.14
+
+    *   Fernsprechstelle.
+
+    *        ![bgbl2_1994_j0123_0050.jpg](bgbl2_1994_j0123_0050.jpg)
+
+*    *   E.15
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   E.16
+
+    *   (ohne Inhalt)
+
+    *
+
+*    *   E.17
+
+    *   Wasserskistrecke.
+
+    *        ![bgbl2_1994_j0124_0010.jpg](bgbl2_1994_j0124_0010.jpg)
+
+*    *   E.18
+
+    *   Fahrerlaubnis für Segelfahrzeuge.
+
+    *        ![bgbl2_1994_j0124_0020.jpg](bgbl2_1994_j0124_0020.jpg)
+
+*    *   E.19
+
+    *   Fahrerlaubnis für Fahrzeuge, die weder mit Maschinenantrieb noch unter
+        Segel fahren.
+
+    *        ![bgbl2_1994_j0124_0030.jpg](bgbl2_1994_j0124_0030.jpg)
+
+*    *   E.20
+
+    *   Erlaubnis zum Segelsurfen.
+
+    *        ![bgbl2_1994_j0124_0040.jpg](bgbl2_1994_j0124_0040.jpg)
+
+*    *   E.21
+
+    *   Nautischer Informationsfunkdienst.
+        Beispiel: Kanal 18
+
+    *        ![bgbl2_1994_j0125_0010.jpg](bgbl2_1994_j0125_0010.jpg)
+
+*    *
+    *
+    *        ![bgbl2_1994_j0125_0020.jpg](bgbl2_1994_j0125_0020.jpg)
+
+*    *   E.22
+
+    *   Fahrerlaubnis für Wassermotorräder (Waterscooter, Jetski usw.).
+
+    *        ![bgbl2_1994_j0125_0030.jpg](bgbl2_1994_j0125_0030.jpg)
+
+*    *   E.23
+
+    *   Hochwassermarken.
+
+    *
+
+*    *
+    *   Marke I
+        Bezugswasserstand
+
+    *        ![bgbl2_1994_j0125_0040.jpg](bgbl2_1994_j0125_0040.jpg)
+
+*    *
+    *   Marke II
+        Bezugswasserstand
+
+    *        ![bgbl2_1994_j0125_0050.jpg](bgbl2_1994_j0125_0050.jpg)
+
+*    *
+    *   Die Marken sind in heller Farbe auf dunklem Untergrund oder in dunkler
+        Farbe auf hellem Untergrund angebracht.
+
+
+*    *   E.24
+
+    *   Ohne Inhalt
+
+    *
+
+*    *   E.25
+
+    *   Landstromanschluss vorhanden
+
+    *        ![bgbl2_2011_j0131_0010.jpg](bgbl2_2011_j0131_0010.jpg)
+
+
+   Abschnitt II
+## **Zusätzliche Tafeln, Schilder, Pfeile oder Aufschriften**
+
+Die Hauptzeichen in Abschnitt I können durch zusätzliche Tafeln,
+Schilder, Pfeile oder Aufschriften ergänzt werden.
+
+1.  Schilder, die die Entfernung angeben, in der die durch das
+    Hauptzeichen angezeigte Bestimmung oder Besonderheit zu beachten ist.
+
+    Die Schilder werden über dem Hauptzeichen angebracht.
+
+    Beispiele:
+
+    *
+        *            *                ![bgbl2_1994_j0126_0010.jpg](bgbl2_1994_j0126_0010.jpg)
+            *                ![bgbl2_1994_j0126_0020.jpg](bgbl2_1994_j0126_0020.jpg)
+
+
+
+
+
+
+
+2.  Pfeile, die angeben, in welcher Richtung der Strecke das Hauptzeichen
+    gilt.
+
+    Beispiele:
+
+    a)
+        *            *                ![bgbl2_1994_j0126_0030.jpg](bgbl2_1994_j0126_0030.jpg)
+
+
+
+
+    b)
+        *            *                ![bgbl2_1994_j0126_0040.jpg](bgbl2_1994_j0126_0040.jpg)
+
+
+
+
+    c)  Verbot der Einfahrt in einen Hafen oder eine Nebenwasserstraße, die in
+        der angezeigten Richtung liegen: rotes Licht A.1 und leuchtender
+        Pfeil.
+
+        *            *   (§ 6.16 Nr. 4)
+
+            *                ![bgbl2_1994_j0126_0050.jpg](bgbl2_1994_j0126_0050.jpg)
+
+
+
+
+
+
+
+3.  Schilder, die ergänzende Erklärungen oder Hinweise geben. Die Schilder
+    werden unter dem Hauptzeichen angebracht.
+
+    Beispiele:
+
+    *        *            ![bgbl2_1994_j0127_0010.jpg](bgbl2_1994_j0127_0010.jpg)
+        *            ![bgbl2_1994_j0127_0020.jpg](bgbl2_1994_j0127_0020.jpg)
+
+    *        *            ![bgbl2_1994_j0127_0030.jpg](bgbl2_1994_j0127_0030.jpg)
+        *            ![bgbl2_1994_j0127_0040.jpg](bgbl2_1994_j0127_0040.jpg)
+
+    *        *            ![bgbl2_2011_j0131_0020.jpg](bgbl2_2011_j0131_0020.jpg)   Anschluss für 400 V~ vorhanden
+
+        *
+
+
+
+
+
 
 
 #### Anlage 8 Bezeichnung der Wasserstraße
 
-(Inhalt: nicht erfaßte Anlage;
-Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 128 bis
+   (Fundstelle: Anlageband zum BGBl. II Nr. 61 v. 29.12.1994 S. 128 bis
 135)
 
 
-#### Anlage 9
+**I.** **Allgemeines**
 
-(ohne Inhalt)
 
+1.  Schiffahrtszeichen
+
+    Schiffahrtszeichen zur Bezeichnung der Wasserstraße, der Fahrrinne und
+    von gefährlichen Stellen und Hindernissen werden auf dem Rhein nicht
+    durchgehend gesetzt.
+
+    Schwimmende Schiffahrtszeichen werden etwa 5,00 m außerhalb der durch
+    sie bezeichneten Begrenzungen verankert.
+
+    Buhnen und Parallelwerke können durch schwimmende oder feste
+    Schiffahrtszeichen bezeichnet sein. Diese sind im allgemeinen vor oder
+    auf den Buhnenköpfen und Parallelwerken angebracht.
+
+    Von den Zeichen muß ein ausreichender Abstand gehalten werden, da
+    sonst Gefahr besteht, zu raken oder aufzulaufen.
+
+
+2.  Begriffe
+
+
+    *        *   Fahrrinne:
+
+        *   Teil der Wasserstraße, in dem für den durchgehenden Schiffsverkehr
+            bestimmte Breiten und Tiefen vorhanden sind, deren Erhaltung
+            angestrebt wird.
+
+
+    *        *   Rechte Seite/linke Seite:
+
+        *   Die Bezeichnung „rechte Seite“ und „linke Seite“ der Wasserstraße/der
+            Fahrrinne bezieht sich auf die Richtung „Talfahrt“.
+
+
+    *        *   Feuer:
+
+        *   Licht mit Kennung, das der Befeuerung dient.
+
+
+    *        *   Festfeuer:
+
+        *   Ununterbrochene Lichterscheinung von gleichbleibender Stärke und
+            Farbe.
+
+
+    *        *   Taktfeuer:
+
+        *   Unterbrochene Lichterscheinung von gleichbleibender Stärke und Farbe.
+
+
+    *        *
+        *   Es werden verwendet
+
+
+    *        *
+        *
+            –   ununterbrochenes Feuer mit Einzelunterbrechung
+
+                ![bgbl2_1994_j0128_0010.jpg](bgbl2_1994_j0128_0010.jpg)
+                oder mit Gruppen von Unterbrechungen
+
+                Beispiel: 2 Unterbrechungen
+
+                ![bgbl2_1994_j0128_0020.jpg](bgbl2_1994_j0128_0020.jpg)
+
+            –   Gleichtaktfeuer
+
+                ![bgbl2_1994_j0128_0030.jpg](bgbl2_1994_j0128_0030.jpg)
+
+            –                ![bgbl2_1994_j0128_0040.jpg](bgbl2_1994_j0128_0040.jpg)
+
+
+
+
+
+
+
+**II.** **Bezeichnung der Fahrrinne**
+
+
+1.  Rechte Seite
+
+
+    *        *            ![bgbl2_1994_j0129_0010.jpg](bgbl2_1994_j0129_0010.jpg)
+
+    *        *   Farbe: rot
+
+        *   Bild 1
+
+
+    *        *   Form: Stumpftonne (auch Leuchttonne), Schwimmstange
+
+        *
+
+    *        *   Toppzeichen (wenn vorhanden): roter Zylinder
+
+        *
+
+    *        *   Feuer (wenn vorhanden): rotes Taktfeuer
+            (in der Regel mit Radarreflektor)
+
+        *
+
+
+
+
+2.  Linke Seite
+
+
+    *        *            ![bgbl2_1994_j0129_0020.jpg](bgbl2_1994_j0129_0020.jpg)
+
+    *        *   Farbe: grün
+
+        *   Bild 2
+
+
+    *        *   Form: Spitztonne (auch Leuchttonne), Schwimmstange
+
+        *
+
+    *        *   Toppzeichen (wenn vorhanden): grüner Kegel – Spitze oben –
+
+        *
+
+    *        *   Feuer (wenn vorhanden): grünes Taktfeuer
+            (in der Regel mit Radarreflektor)
+
+        *
+
+
+
+
+3.  Spaltung
+
+
+
+    *        *            ![bgbl2_1994_j0129_0030.jpg](bgbl2_1994_j0129_0030.jpg)
+
+    *        *   Farbe: rot-grün waagerecht gestreift
+
+        *   Bild 3
+
+
+    *        *   Form: Kugeltonne (auch Leuchttonne), Schwimmstange
+
+        *
+
+    *        *   Toppzeichen (wenn vorhanden): rot-grün waagerecht gestreifter Ball
+
+        *
+
+    *        *   Feuer (wenn vorhanden): weißes Funkel- oder Gleichtaktfeuer
+            (in der Regel mit Radarreflektor)
+
+        *
+
+
+
+
+4.  Zusammenspiel der Bilder 1 bis 3 (Beispiel)
+
+
+    *        *            ![bgbl2_1994_j0130_0010.jpg](bgbl2_1994_j0130_0010.jpg)
+
+    *        *   Bild 4
+
+
+
+
+
+**III.** **Bezeichnung der Wasserstraße sowie von Hindernissen in oder an der
+    Wasserstraße**
+
+
+A.  Feste Zeichen
+
+
+1.  Rechte Seite
+
+
+    *        *   Farbe: rot
+
+        *            ![bgbl2_1994_j0130_0020.jpg](bgbl2_1994_j0130_0020.jpg)
+        *
+
+    *        *   Form: Stange mit Toppzeichen
+
+        *
+
+    *        *   Toppzeichen: roter Kegel – Spitze unten –
+
+        *
+
+    *        *   Feuer (wenn vorhanden): rotes Taktfeuer
+
+        *   Bild 5
+
+
+    *        *
+        *
+        *
+
+
+
+
+2.  Linke Seite
+
+
+    *        *   Farbe: grün
+
+        *            ![bgbl2_1994_j0130_0030.jpg](bgbl2_1994_j0130_0030.jpg)
+        *
+
+    *        *   Form: Stange mit Toppzeichen
+
+        *
+
+    *        *   Toppzeichen: grüner Kegel – Spitze oben –
+
+        *
+
+    *        *   Feuer (wenn vorhanden): grünes Taktfeuer
+
+        *   Bild 6
+
+
+    *        *
+        *
+        *
+
+
+
+
+3.  Spaltung
+
+
+    *        *   Farbe: rot-grün
+
+        *
+        *
+
+    *        *   Form: Stange mit Toppzeichen
+
+        *
+        *
+
+    *        *   Toppzeichen: roter Kegel – Spitze unten –
+            über grünem Kegel – Spitze oben –
+
+        *            ![bgbl2_1994_j0130_0040.jpg](bgbl2_1994_j0130_0040.jpg)
+        *
+
+    *        *
+        *
+        *   Bild 7
+
+
+    *        *
+        *
+        *
+
+
+
+
+4.  Abzweigung, Einmündung, Hafeneinfahrt
+
+    Im Bereich von Abzweigungen, Einmündungen und Hafeneinfahrten kann für
+    jede Seite der Wasserstraße die Ufersicherung bis zur Trennspitze
+    durch die unter den Nummern 1 und 2 (Bilder 5 und 6) gezeigten festen
+    Schiffahrtszeichen gekennzeichnet werden. Die Fahrt von der
+    Hafeneinfahrt in den Hafen gilt als Bergfahrt.
+
+
+B.  Schwimmende Zeichen
+
+
+1.  Rechte Seite
+
+
+    *        *            ![bgbl2_1994_j0131_0010.jpg](bgbl2_1994_j0131_0010.jpg)
+
+    *        *   Farbe: rot-weiß waagerecht gestreift
+
+        *
+        *   Bild 8
+
+
+    *        *   Form: Spierentonne (auch Leuchttonne), Schwimmstange
+
+
+    *        *   Toppzeichen: roter Zylinder
+
+        *
+        *
+
+    *        *   Feuer (wenn vorhanden): rotes Taktfeuer
+            (in der Regel mit Radarreflektor)
+
+        *
+        *
+
+    *        *
+        *
+        *
+
+
+
+
+2.  Linke Seite
+
+
+    *        *            ![bgbl2_1994_j0131_0020.jpg](bgbl2_1994_j0131_0020.jpg)
+
+    *        *   Farbe: grün-weiß gestreift
+
+        *
+        *   Bild 9
+
+
+    *        *   Form: Spierentonne (auch Leuchttonne), Schwimmstange
+
+
+    *        *   Toppzeichen: grüner Kegel – Spitze oben –
+
+        *
+        *
+
+    *        *   Feuer (wenn vorhanden): grünes Taktfeuer
+            (in der Regel mit Radarreflektor)
+
+        *
+        *
+
+    *        *
+        *
+        *
+
+
+
+
+**C.** **Zusammenspiel der Bilder 5 bis 9 im Bereich von Abzweigungen,
+    Einmündungen und Hafeneinfahrten**
+
+
+    *        *            ![bgbl2_1994_j0132_0010.jpg](bgbl2_1994_j0132_0010.jpg)
+
+    *        *   10
+
+
+
+
+
+**IV.** **Weitere Möglichkeiten zur Bezeichnung von gefährlichen Stellen und
+    Hindernissen in der Wasserstraße**
+
+
+1.  Vorbeifahrt ohne Herabsetzung der Geschwindigkeit auf der freien Seite
+    zugelassen
+
+
+    *        *   bei Nacht
+
+        *   bei Tag
+
+
+    *        *   gesperrte Seite
+
+        *   gesperrte Seite
+
+
+    *        *
+        *   Verbotszeichen A.1
+
+
+    *        *            ![bgbl2_1994_j0133_0010.jpg](bgbl2_1994_j0133_0010.jpg)
+        *            ![bgbl2_1994_j0133_0020.jpg](bgbl2_1994_j0133_0020.jpg)
+
+    *        *   freie Seite
+
+        *   freie Seite
+
+
+    *        *
+        *   Hinweiszeichen E.1
+
+
+    *        *            ![bgbl2_1994_j0133_0030.jpg](bgbl2_1994_j0133_0030.jpg)
+        *            ![bgbl2_1994_j0133_0040.jpg](bgbl2_1994_j0133_0040.jpg)
+
+    *        *
+        *   Bild 11
+
+
+    *        *   bei Nacht
+
+        *   bei Tag
+
+
+    *        *   gesperrte Seite
+
+        *   gesperrte Seite
+
+
+    *        *   Beispiele
+
+        *
+
+    *        *            ![bgbl2_1994_j0133_0050.jpg](bgbl2_1994_j0133_0050.jpg)
+        *            ![bgbl2_1994_j0133_0060.jpg](bgbl2_1994_j0133_0060.jpg)
+
+    *        *
+        *   Bild 12
+
+
+
+
+
+2.  Vorbeifahrt nur mit Herabsetzung der Geschwindigkeit auf der freien
+    Seite zugelassen
+    (Wellenschlag vermeiden)
+
+
+    *        *   bei Nacht
+
+        *   bei Tag
+
+
+    *        *   gesperrte Seite
+
+        *   gesperrte Seite
+
+
+    *        *            ![bgbl2_1994_j0134_0010.jpg](bgbl2_1994_j0134_0010.jpg)
+        *            ![bgbl2_1994_j0134_0020.jpg](bgbl2_1994_j0134_0020.jpg)
+
+    *        *   freie Seite
+
+        *   freie Seite
+
+
+    *        *            ![bgbl2_1994_j0134_0030.jpg](bgbl2_1994_j0134_0030.jpg)
+        *            ![bgbl2_1994_j0134_0040.jpg](bgbl2_1994_j0134_0040.jpg)
+
+    *        *
+        *   Bild 13
+
+
+    *        *
+        *
+
+    *        *   bei Nacht
+
+        *   bei Tag
+
+
+    *        *   Beispiele
+
+        *
+
+    *        *            ![bgbl2_1994_j0134_0050.jpg](bgbl2_1994_j0134_0050.jpg)
+        *            ![bgbl2_1994_j0134_0060.jpg](bgbl2_1994_j0134_0060.jpg)
+
+    *        *
+        *   Bild 14
+
+
+
+
+
+**V.** **Zusätzliche Zeichen für die Radarschiffahrt**
+
+
+A.  Bezeichnung von Brückenpfeilern (falls erforderlich)
+
+
+1.  Gelbe Tonnen mit Radarreflektoren
+    (oberhalb und unterhalb der Brückenpfeiler ausgelegt)
+
+
+    *        *            ![bgbl2_1994_j0135_0010.jpg](bgbl2_1994_j0135_0010.jpg)
+
+    *        *   Bild 15
+
+
+
+
+
+2.  Stange mit Radarreflektor
+    (oberhalb und unterhalb der Brückenpfeiler)
+
+
+    *        *            ![bgbl2_1994_j0135_0020.jpg](bgbl2_1994_j0135_0020.jpg)
+
+    *        *   Bild 16
+
+
+
+
+
+**B.** **Kennzeichnung von Freileitungen (falls erforderlich)**
+
+
+1.  Radarreflektoren an Freileitung befestigt
+    (ergeben im Radarbild eine Punktreihe zur Identifizierung der
+    Freileitung)
+
+
+    *        *            ![bgbl2_1994_j0135_0030.jpg](bgbl2_1994_j0135_0030.jpg)
+
+    *        *   Bild 17
+
+
+
+
+
+2.  Radarreflektoren auf gelben Tonnen an beiden Ufern paarweise ausgelegt
+    (ergeben im Radarbild je zwei nebeneinanderliegende Punkte zur
+    Identifizierung der Freileitung)
+
+
+    *        *            ![bgbl2_1994_j0135_0040.jpg](bgbl2_1994_j0135_0040.jpg)
+
+    *        *   Bild 18
+
+
+
+
+
+
+
+
+
+#### Anlage 9 Lichtwahrschau Oberwesel – St. Goar Rhein-km 548,50 – 555,43
+
+(Fundstelle: BGBl. I 2016, 726)
+![bgbl2_2016_j0726_0010.jpg](bgbl2_2016_j0726_0010.jpg)
 
 #### Anlage 10
 
 Fundstelle des Originaltextes: Anlageband zum BGBl. II Nr. 61 v.
 29\.12.1994 S. 136 - 140;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
-Modèle de carnet de contrôle des huiles usées
-(Article 15.05 RPNR; annexe 2, appendice I CDNI \*1)
-Muster für das Ölkontrollbuch
-(§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI \*1)
-Model voor het olie-afgifteboekje
-(Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI \*1)
-------------------------------------------------
-Carnet de contrôle des huiles usées
-Ölkontrollbuch
-Olie-afgifteboekje
-Page/Seite/Bladzijde 1
-N° d’ordre:
-Laufende Nr.: ..............
-Volgnummer:
------------------------
-------------------------------------------
-Type du bâtiment                          Nom du bâtiment
-Art des Fahrzeugs                        Name des Fahrzeugs
-Aard van het schip                        Naam van het schip
-Numéro européen unique d’identification
-des bateaux ou numéro officiel:
-Einheitliche europäische Schiffsnummer
-oder amtliche Schiffsnummer:
-------------------------------------------
-Uniek Europees scheepsidentificatienummer
-of officieel scheepnummer:
-Lieu de délivrance:
-Ort der Ausstellung:
-------------------------------------------
-Plaats van afgifte:
-Date de délivrance:
-Datum der Ausstellung:
-------------------------------------------
-Datum van afgifte:
-Le présent carnet comprend ………………… pages.
-Dieses Buch enthält        ………………… Seiten.
-Dit boekje telt            ………………… bladzijden.
-Cachet et signature de l’autorité qui a
-délivré le présent carnet
-Stempel und Unterschrift der Behörde,
-die dieses Ölkontrollbuch ausgestellt hat
-Stempel en ondertekening van de autoriteit
-die het boekje heeft afgegeven             Page/Seite/Bladzijde 2
 
-*
+*    *   Modèle de carnet de contrôle des huiles usées
+
+
+*    *[^BJNR338160994BJNE021602305_1]
+   (Article 15.05 RPNR; annexe 2, appendice I CDNI
+
+
+*    *   Muster für das Ölkontrollbuch
+
+
+*    *   (§ 15.05 RheinSchPV; Anlage 2, Anhang I CDNI
+
+
+*    *   Model voor het olie-afgifteboekje
+
+
+*    *   (Artikel 15.05 RPR; bijlage 2, aanhangsel I CDNI
+
+
+*    *   _\_\__\_\__\_\__\_\__\_\__\_\_
+
+
+*    *   Carnet de contrôle des huiles usées
+
+
+*    *   Ölkontrollbuch
+
+
+*    *   Olie-afgifteboekje
+
+
+
+
+*    *   Page/Seite/Bladzijde 1
+
     *
-        *
-            *   Etablissement des carnets de contrôle des huiles usées
+    *   N° d’ordre:
+        Laufende Nr.: ..............
+        Volgnummer:
 
 
-
-
-
-
-
-
-
-
-
-
-Le premier carnet de contrôle des huiles usées, muni sur la page 1 du
-numéro d’ordre 1, est délivré par une autorité compétente sur
-présentation du certificat de visite en cours de validité ou d’un
-autre certificat reconnu comme étant équivalent. Cette autorité appose
-également les indications prévues sur la page 1.
-Tous les carnets suivants seront établis et numérotés dans l’ordre par
-une autorité compétente. Toutefois, ils ne doivent être remis que sur
-présentation du carnet précédent. Le carnet précédent doit recevoir la
-mention indélébile “non valable”. Après son renouvellement, le carnet
-précédent doit être conservé à bord durant au moins six mois à compter
-de la dernière inscription.
-
-*
+*    *
     *
-        *
-            *   Ausstellung der Ölkontrollbücher
-
-
-
-
-
-
-
-
-
-
-
-
-Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden
-Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des
-gültigen Schiffsattestes oder eines als gleichwertig anerkannten
-Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen
-Angaben ein.
-Alle nachfolgenden Kontrollbücher werden von einer zuständigen Behörde
-mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur
-gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden.
-Das vorhergehende Kontrollbuch wird unaustilgbar „ungültig“
-gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende
-mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt
-werden.
-
-*
     *
-        *
-            *   Afgifte von het olie-afgifteboekje
+
+*    *   -----------------------------------------------------------------
+        Type du bâtiment
+        Art des Fahrzeugs
+        Aard van het schip
+
+    *   ----------------------------------------------------------------------
+        --------------------------------------------------------
+        Nom du bateau
+        Name des Schiffes
+        Naam van het schip
+
+
+*    *   Numéro européen unique d’identification
+        des bateaux ou numéro officiel:
+        Einheitliche europäische Schiffsnummer
+        oder amtliche Schiffsnummer:
+        Uniek Europees scheepsidentificatienummer
+        of officieel scheepnummer:
+
+    *   ----------------------------------------------------------------------
+        --------------------------------------------------------
+
+
+*    *   Lieu de délivrance:
+        Ort der Ausstellung:
+        Plaats
+
+    *   ----------------------------------------------------------------------
+        --------------------------------------------------------
+
+
+*    *   Date de délivrance:
+        Datum der Ausstellung:
+        Datum van afgifte:
+
+    *   ----------------------------------------------------------------------
+        --------------------------------------------------------
+
+
+*    *   Le présent carnet comprend
+        Dieses Buch enthält
+        Dit boekje telt
+
+    *   …………………………………… pages.
+        …………………………………… Seiten.
+        …………………………………… bladzijden.
+
+
+*    *
+    *   ----------------------------------------------------------------------
+        -------------------------------------------------------
+        Cachet et signature de l’autorité qui a
+        délivré le présent carnet
+        Stempel und Unterschrift der Behörde,
+        die dieses Ölkontrollbuch ausgestellt hat
+        Stempel en ondertekening van de autoriteit
+        die het boekje heeft afgegeven
 
 
 
 
+*    *   Page/Seite/Bladzijde 2
+
+
+*    *   Etablissement des carnets de contrôle des huiles usées
+
+
+*    *   Le premier carnet de contrôle des huiles usées, muni sur la page 1 du
+        numéro d’ordre 1, est délivré par une autorité compétente sur
+        présentation du certificat de visite en cours de validité ou d’un
+        autre certificat reconnu comme étant équivalent. Cette autorité appose
+        également les indications prévues sur la page 1.
+
+
+*    *   Tous les carnets suivants seront établis et numérotés dans l’ordre par
+        une autorité compétente. Toutefois, ils ne doivent être remis que sur
+        présentation du carnet précédent. Le carnet précédent doit recevoir la
+        mention indélébile “non valable”. Après son renouvellement, le carnet
+        précédent doit être conservé à bord durant au moins six mois à compter
+        de la dernière inscription.
+
+
+*    *
+
+*    *   Ausstellung der Ölkontrollbücher
+
+
+*    *   Das erste Ölkontrollbuch, versehen auf Seite 1 mit der laufenden
+        Nummer 1, wird von einer zuständigen Behörde gegen Vorlage des
+        gültigen Schiffsattestes oder eines als gleichwertig anerkannten
+        Zeugnisses ausgestellt. Sie trägt auch die auf Seite 1 vorgesehenen
+        Angaben ein.
+
+
+*    *   Alle nachfolgenden Kontrollbücher werden von einer zuständigen Behörde
+        mit der Folgenummer nummeriert und ausgegeben. Sie dürfen jedoch nur
+        gegen Vorlage des vorhergehenden Kontrollbuches ausgehändigt werden.
+        Das vorhergehende Kontrollbuch wird unaustilgbar „ungültig“
+        gekennzeichnet. Nach seiner Erneuerung muss das vorhergehende
+        mindestens sechs Monate nach der letzten Eintragung an Bord aufbewahrt
+        werden.
+
+
+*    *
+
+*    *   Afgifte von het olie-afgifteboekje
+
+
+*    *   Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het
+        volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het
+        geldige certificaat van onderzoek of van een gelijkwaardig erkend
+        bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde
+        1 in.
+
+
+*    *   Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit
+        afgegeven nadat deze daarop het aansluitende volgnummer heeft
+        aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na
+        overleggen van het vorige boekje worden afgegeven. Het vorige boekje
+        wordt op onuitwisbare wijze als „ongeldig” gemerkt. Na het verkrijgen
+        van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende
+        tenminste zes maanden na de laatste daarin vermelde datum van afgifte
+        aan boord worden bewaard.
 
 
 
 
+*    *   Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
+
+
+*    *   1.
+
+    *   Déchets huileux et graisseux survenant lors
+
+    *
+    *
+
+*    *
+    *   de l’exploitation du bâtiment acceptés/
+
+    *
+    *
+
+*    *
+    *   Akzeptierte öl- und fetthaltige Schiffsbetriebsabfälle/
+
+    *
+    *
+
+*    *
+    *   Geaccepteerde olie- en vethoudende scheepsbedrijfsafvalstoffen:
+
+    *
+    *
+
+*    *   1.1
+
+    *   Huiles usées/Altöl/afgewerkte olie
+
+    *   .........................................................
+
+    *   1
+
+
+*    *   1.2
+
+    *   Eau de fond de cale de/Bilgenwasser
+
+    *
+    *
+
+*    *
+    *   aus/Bilgewater van
+
+    *   .........................................................
+
+    *   1
+
+
+*    *
+    *   Salle des machines arrière/Maschinenraum
+
+    *
+    *
+
+*    *
+    *   hinten/machinekamer achter
+
+    *   .........................................................
+
+    *   1
+
+
+*    *
+    *   Salle des machines avant/Maschinenraum
+
+    *
+    *
+
+*    *
+    *   vorne/machinekamer voor
+
+    *   .........................................................
+
+    *   1
+
+
+*    *
+    *   Autres locaux/Andere Räume/andere ruimten
+
+    *   .........................................................
+
+    *   1
+
+
+*    *   1.3
+
+    *   Autres déchets huileux ou graisseux/
+
+    *
+    *
+
+*    *
+    *   Andere öl- oder fetthaltige Abfälle/
+
+    *
+    *
+
+*    *
+    *   Overige olie- of vethoudende afvalstoffen:
+
+    *
+    *
+
+*    *
+    *   Chiffons usés/Altlappen/gebruikte
+
+    *
+    *
+
+*    *
+    *   poetslappen
+
+    *   .........................................................
+
+    *   kg
+
+
+*    *
+    *   Graisses usées/Altfett/afgewerkt vet
+
+    *   .........................................................
+
+    *   kg
+
+
+*    *
+    *   Filtres usés/Altfilter/gebruikte filter
+
+    *   .........................................................
+
+    *   pièces/Stück/stuk
+
+
+*    *
+    *   Récipients/Gebinde/verpakkingen
+
+    *   .........................................................
+
+    *   pièces/Stück/stuk
+
+
+*    *   2.
+
+    *   Notes/Bemerkungen/Opmerkingen:
+
+    *
+    *
+
+*    *   2.1
+
+    *   Déchets refusés/Nicht akzeptierte Abfälle/
+
+    *
+    *
+
+*    *
+    *   niet geaccepteerd afval
+
+    *   ..........................................................
+
+    *
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ..........................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ..........................................
+
+
+*    *   2.2
+
+    *   Autres remarques/Andere Bemerkungen/
+
+    *
+    *
+
+*    *
+    *   overige opmerkingen:
+
+    *
+    *
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        ..........................................
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ......................................................................
+        .........................................
+
+
+*    *   Lieu
+        Ort
+        Plaats
+
+    *   ......................................................................
+        ...............
+
+    *   Date
+        Datum ................................................................
+        ....................
+        Datum
+
+
+*    *
+    *   ......................................................................
+        ......................................................................
+        ...................................................
+
+
+*    *
+    *
+    *   Cachet et signature de la station de réception
+        Stempel und Unterschrift der Annahmestelle
+        Ondertekening en stempel van de ontvangstinrichting
+
+
+*    *   _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+        _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+        _\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\__\_\_
+        _\_\__\_\__\_\__\_\__\_\__\_\_
 
 
 
 
-Het eerste olie-afgifteboekje, daartoe op bladzijde 1 voorzien van het
-volgnummer 1, wordt door een bevoegde autoriteit op vertoon van het
-geldige certificaat van onderzoek of van een gelijkwaardig erkend
-bewijs afgegeven. Deze autoriteit vult tevens de gegevens op bladzijde
-1 in.
-Alle volgende olie-afgifteboekjes worden door een bevoegde autoriteit
-afgegeven nadat deze daarop het aansluitende volgnummer heeft
-aangebracht. Ieder volgend olie-afgifteboekje mag echter slechts na
-overleggen van het vorige boekje worden afgegeven. Het vorige boekje
-wordt op onuitwisbare wijze als „ongeldig” gemerkt. Na het verkrijgen
-van een nieuw olie-afgifteboekje moet het voorgaande boekje gedurende
-tenminste zes maanden na de laatste daarin vermelde datum van afgifte
-aan boord worden bewaard.
-Page 3 et suivantes/Seite 3 und folgende/Bladzijde 3 en volgende
-1\.                 Déchets huileux et graisseux survenant lors
-de l’exploitation du bâtiment acceptés/
-Akzeptierte öl- und fetthaltige Schiffsbetriebsabfälle/
-**Geaccepteerde olie- en vethoudende scheepsbedrijfsafvalstoffen:**
-1\.1 Huiles usées/Altöl/afgewerkte olie          ........... l
-1\.2 Eau de fond de cale de/Bilgenwasser
-aus/Bilgewater van                          ........... l
-Salle des machines arrière/Maschinenraum
-hinten/machinekamer achter                  ........... l
-Salle des machines avant/Maschinenraum
-vorne/machinekamer voor                     ........... l
-Autres locaux/Andere Räume/andere ruimten   ........... l
-1\.3 Autres déchets huileux ou graisseux/
-Andere öl- oder fetthaltige Abfälle/
-Overige olie- of vethoudende afvalstoffen:
-Chiffons usés/Altlappen/gebruikte
-poetslappen                                 ........... kg
-Graisses usées/Altfett/afgewerkt vet        ........... kg
-Filtres usés/Altfilter/gebruikte filter     ...........
-pièces/Stück/stuk
-Récipients/Gebinde/verpakkingen             ...........
-pièces/Stück/stuk
-2\. **Notes/Bemerkungen/Opmerkingen:**
-2\.1 Déchets refusés/Nicht akzeptierte Abfälle/
-niet geaccepteerd afval   ..........................................
-....................................................................
-....................................................................
-2\.2 Autres remarques/Andere Bemerkungen/
-overige opmerkingen:
-....................................................................
-....................................................................
-Lieu
-......................................................................
-Date
-Ort ……………………………………............. Datum …………………………………………
-Plaats
-....................................................................
-Datum
-....................................................
-Cachet et signature de la station de réception
-Stempel und Unterschrift der Annahmestelle
-Ondertekening en stempel van de ontvangstinrichting
-----------------------------------------------------------------------
---
-\*1) Convention relative à la collecte, au dépôt et à la réception des
-déchets survenant en navigation rhénane et intérieure (CDNI)
-Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in
-der Rhein- und Binnenschifffahrt (CDNI) Verdrag inzake de verzameling,
-afgifte en inname van afval in de Rijn- en binnenvaart (CDNI)
-
+    Convention relative à la collecte, au dépôt et à la réception des
+    déchets survenant en navigation rhénane et intérieure (CDNI)
+    Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in
+    der Rhein- und Binnenschifffahrt (CDNI) Verdrag inzake de verzameling,
+    afgifte en inname van afval in de Rijn- en binnenvaart (CDNI)
+[^BJNR338160994BJNE021602305_1]: 
 
 #### Anlage 11
 
-(ohne Inhalt)
+(Fundstelle: BGBl. II 2018, 742)
+
+## Daten, die in das Inland AIS Gerät einzugeben sind: Erläuterung des
+„Navigationsstatus“ und des „Bezugspunktes der Positionsinformation
+auf dem Fahrzeug“
+
+
+1.  **Navigationsstatus**
+
+
+    *        *   0
+
+        *   under way using engine
+
+        *   in Fahrt mit Motorkraft
+
+
+    *        *   1
+
+        *   at anchor
+
+        *   vor Anker
+
+
+    *        *   2
+
+        *   not under command
+
+        *   manövrierunfähig
+
+
+    *        *   3
+
+        *   restricted manoeuvrability
+
+        *   manövrierbehindert
+
+
+    *        *   4
+
+        *   constrained by her draught
+
+        *   durch Tiefgang beschränkt
+
+
+    *        *   5
+
+        *   moored
+
+        *   festgemacht
+
+
+    *        *   6
+
+        *   aground
+
+        *   auf Grund
+
+
+    *        *   7
+
+        *   engaged in fishing
+
+        *   beim Fischfang
+
+
+    *        *   8
+
+        *   under way sailing
+
+        *   in Fahrt unter Segel
+
+
+    *        *   9 bis 13
+
+        *   reserved for future uses
+
+        *   reserviert für künftige Nutzung
+
+
+    *        *   14
+
+        *   AIS-SART (active);
+
+        *   AIS-SART (aktiv)
+
+
+    *        *   15
+
+        *   Not defined
+
+        *   nicht definiert
+
+
+
+
+
+2.  **Bezugspunkt der Positionsinformation auf dem Fahrzeug**
+
+    Der Schiffsführer muss die Werte für A, B, C, D mit einer Genauigkeit
+    von 1 m eingeben. Das Maß A ist in Richtung des Bugs ausgerichtet.
+
+
+    *        *            ![bgbl2_2014_j0742_0010.jpg](bgbl2_2014_j0742_0010.jpg)
+
+    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für ein Fahrzeug
+
+
+    *        *            ![bgbl2_2014_j0742_0020.jpg](bgbl2_2014_j0742_0020.jpg)
+
+    *        *   Erläuterungen zu den W, L, A, B, C, D Werten für einen Verband
+
+
+
+
+
+
 
 
 #### Anlage 12

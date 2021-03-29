@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1979, 2389
 
 Zuletzt geändert durch
-:   Art. 490 V v. 31.10.2006 I 2407
+:   Art. 503 V v. 31.8.2015 I 1474
 
 
 ## Eingangsformel
@@ -69,7 +69,7 @@ betrieben werden
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 durch Rechtsverordnung Ausnahmen von den Beschränkungen nach Absatz 1
 zulassen und in den Fällen des Absatzes 1 Nr. 1 und 2 Buchstabe c
 weitere Beschränkungen vorschreiben.
@@ -84,8 +84,8 @@ außerhalb des Geltungsbereichs dieser Verordnung in das Bundesgebiet.
 
 ## § 3
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann durch
-Rechtsverordnung
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann
+durch Rechtsverordnung
 
 1.  die Beförderungspflicht nach § 21 Abs. 2 bis 4 des
     Luftverkehrsgesetzes vorübergehend ruhen lassen.
@@ -112,7 +112,7 @@ Verkehrsleistungen zu erstatten. Dazu gehören insbesondere Angaben
 
 ## § 5
 
-Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann ein
+Das Bundesministerium für Verkehr und digitale Infrastruktur kann ein
 nach § 20 Abs. 1 oder § 21 Abs. 1 des Luftverkehrsgesetzes genehmigtes
 Luftfahrtunternehmen verpflichten, regelmäßig oder unter bestimmten
 Voraussetzungen Meldungen über Art und Umfang der Verkehrsleistungen
@@ -156,6 +156,6 @@ nach Absatz 1 Nr. 3 die oberste Landesverkehrsbehörde.
 
 (2) Sie darf gemäß § 2 Abs. 3 des Verkehrssicherstellungsgesetzes nur
 nach Maßgabe des Artikels 80a des Grundgesetzes und erst dann
-angewendet werden, wenn dies das Bundesministerium für Verkehr, Bau
-und Stadtentwicklung durch Rechtsverordnung bestimmt.
+angewendet werden, wenn dies das Bundesministerium für Verkehr und
+digitale Infrastruktur durch Rechtsverordnung bestimmt.
 

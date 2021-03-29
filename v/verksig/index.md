@@ -19,7 +19,7 @@ Neugefasst durch
 :   Bek. v. 8.10.1968 I 1082;
 
 Zuletzt geändert durch
-:   Art. 2 Nr. 2 G v. 2.4.2009 I 693
+:   Art. 499 V v. 31.8.2015 I 1474
 
 
 ## Erster Abschnitt - Sicherstellung durch Rechtsverordnungen
@@ -44,7 +44,7 @@ Vorschriften erlassen werden über
 
 3.  die Beschränkung der Veräußerung oder der sonstigen
     rechtsgeschäftlichen Überlassung von ihrer Zweckbestimmung zugeführten
-    Verkehrsmitteln an Gebietsfremde (§ 4 Abs. 1 des
+    Verkehrsmitteln an Ausländer (§ 2 Absatz 5 des
     Außenwirtschaftsgesetzes).
 
 
@@ -170,10 +170,10 @@ Bewertungsabschlag, anzusetzen.
 (1) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt die
 Bundesregierung. Die Bundesregierung kann diese Befugnis durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung übertragen.
+Bundesministerium für Verkehr und digitale Infrastruktur übertragen.
 
 (2) Rechtsverordnungen nach den §§ 1, 3 und 4 erläßt das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung wenn die
+Bundesministerium für Verkehr und digitale Infrastruktur wenn die
 Voraussetzung des § 2 Abs. 3 vorliegt. Es kann diese Befugnis durch
 Rechtsverordnung ohne Zustimmung des Bundesrates auf
 
@@ -191,7 +191,7 @@ Rechtsverordnung ohne Zustimmung des Bundesrates auf
 ### § 6 Zustimmungsbedürftigkeit der Rechtsverordnungen
 
 (1) Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung nach § 1 bedürfen nicht der
+für Verkehr und digitale Infrastruktur nach § 1 bedürfen nicht der
 Zustimmung des Bundesrates, wenn ihre Geltung auf längstens 6 Monate
 befristet wird. Eine Verlängerung der Geltungsdauer ist nur mit
 Zustimmung des Bundesrates möglich.
@@ -210,7 +210,7 @@ gelten unbefristet weiter.
 (2) Rechtsverordnungen auf Grund dieses Gesetzes sind aufzuheben,
 soweit ihre Fortgeltung für die in § 1 genannten Zwecke nicht mehr
 erforderlich ist. Rechtsverordnungen der Bundesregierung oder des
-Bundesministeriums für Verkehr, Bau und Stadtentwicklung sind ferner
+Bundesministeriums für Verkehr und digitale Infrastruktur sind ferner
 aufzuheben, wenn der Bundestag und der Bundesrat dies verlangen.
 
 (3) Rechtsverordnungen der Landesregierungen oder der von diesen
@@ -222,10 +222,10 @@ spätestens mit dieser Rechtsverordnung außer Kraft.
 ### § 8 Verfügungen
 
 Die Rechtsverordnungen der Bundesregierung oder des Bundesministeriums
-für Verkehr, Bau und Stadtentwicklung nach den §§ 1, 3 und 4 können
-vorsehen, daß das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zu ihrer Ausführung Verfügungen erläßt, wenn sich der
-zu erforschende Sachverhalt oder die Auswirkungen der zu regelnden
+für Verkehr und digitale Infrastruktur nach den §§ 1, 3 und 4 können
+vorsehen, daß das Bundesministerium für Verkehr und digitale
+Infrastruktur zu ihrer Ausführung Verfügungen erläßt, wenn sich der zu
+erforschende Sachverhalt oder die Auswirkungen der zu regelnden
 Angelegenheiten auf mehr als ein Land erstrecken und der Zweck der
 Rechtsverordnungen durch eine Weisung nach Artikel 85 Abs. 3 des
 Grundgesetzes und durch Verfügungen der Landesbehörden nicht oder
@@ -293,8 +293,8 @@ verpflichtet werden. Sie können insbesondere verpflichtet werden,
 
 
 
-Die Verpflichtung nimmt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung vor, soweit es sich nicht um Kraftfahrzeugverkehr
+Die Verpflichtung nimmt das Bundesministerium für Verkehr und digitale
+Infrastruktur vor, soweit es sich nicht um Kraftfahrzeugverkehr
 handelt. Die Verpflichtung für den Kraftfahrzeugverkehr nehmen die
 Länder vor.
 
@@ -303,25 +303,25 @@ Länder vor.
 (4)
 
 (5) Die sonstigen Eisenbahnen (Eisenbahnen des nichtöffentlichen
-Verkehrs) können durch das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung zur Erbringung von Verkehrsleistungen mit
+Verkehrs) können durch das Bundesministerium für Verkehr und digitale
+Infrastruktur zur Erbringung von Verkehrsleistungen mit
 Schienenfahrzeugen und zu sonstigen Leistungen im Sinne des Absatzes 2
 Satz 2 Nr. 1 bis 6 verpflichtet werden.
 
 (6) Eine Leistung, deren Erbringung Vorschriften der Eisenbahn-
 Verkehrsverordnung,
-der Eisenbahn-Befähigungsordnung,              der Eisenbahn-Bau- und
+der Eisenbahn-Befähigungsordnung, der Eisenbahn-Bau- und
 -Betriebsordnung oder sonstiger für den Bau oder den Betrieb der
 Eisenbahnen geltenden Rechtsverordnungen entgegenstehen, kann auf
 Grund der Absätze 1 bis 5 nur gefordert oder zur Pflicht gemacht
-werden, wenn das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung genehmigt hat, daß die genannten Vorschriften bei der
+werden, wenn das Bundesministerium für Verkehr und digitale
+Infrastruktur genehmigt hat, daß die genannten Vorschriften bei der
 Erbringung der Leistungen nicht eingehalten zu werden brauchen. Das
-Bundesministerium für Verkehr, Bau und Stadtentwicklung kann die
+Bundesministerium für Verkehr und digitale Infrastruktur kann die
 Genehmigung nur erteilen, wenn und soweit dies für Zwecke der
 Verteidigung unumgänglich notwendig ist.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung und
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur und
 das Bundesministerium der Verteidigung regeln durch Rechtsverordnung
 mit Zustimmung des Bundesrates, in welcher Weise Verkehrsleistungen
 nach Absatz 1 für Zwecke der Streitkräfte erbracht werden und wie die
@@ -333,7 +333,7 @@ der durch diese Benutzung herbeigeführten besonderen Gefahren
 abweichend von gesetzlichen Haftpflichtbestimmungen zwischen den
 Eisenbahnen und den Streitkräften auszugleichen sind.
 
-(8) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(8) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 seine Befugnisse nach den Absätzen 2, 5 und 6 soweit sie Zwecken der
 Verteidigung dienen, durch Rechtsverordnung ohne Zustimmung des
 Bundesrates ganz oder teilweise auf Bundesbehörden übertragen.
@@ -342,7 +342,7 @@ Bundesrates ganz oder teilweise auf Bundesbehörden übertragen.
 ### § 10a Besondere Leistungspflichten der Eisenbahnen des Bundes und der Deutschen Flugsicherung und besondere Maßnahmen für den Bereich der Bundesfernstraßen
 
 (1) Eisenbahnen des Bundes und die DFS Deutsche Flugsicherung GmbH
-können vom Bundesministerium für Verkehr, Bau und Stadtentwicklung
+können vom Bundesministerium für Verkehr und digitale Infrastruktur
 verpflichtet werden, Maßnahmen zu treffen, die dem Zivilschutz nach §
 1 des Zivilschutz- und Katastrophenhilfegesetzes dienen. Dazu gehören
 insbesondere:
@@ -358,7 +358,7 @@ insbesondere:
 
 
 
-(2) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung legt
+(2) Das Bundesministerium für Verkehr und digitale Infrastruktur legt
 für den Bereich der Bundesfernstraßen besondere Maßnahmen nach Absatz
 1 Satz 2 fest.
 
@@ -366,7 +366,7 @@ für den Bereich der Bundesfernstraßen besondere Maßnahmen nach Absatz
 ### § 10b Vorhaltung der Eisenbahninfrastruktur
 
 (1) Eisenbahnen des Bundes sind verpflichtet, dem Bundesminister für
-Verkehr, Bau und Stadtentwicklung jede beabsichtigte
+Verkehr und digitale Infrastruktur jede beabsichtigte
 
 1.  Einstellung des Gesamtbetriebes auf einer Strecke,
 
@@ -387,7 +387,7 @@ des Schutzes der Zivilbevölkerung eine Strecke betriebsbereit
 gehalten, der Gesamtbetrieb auf dieser Strecke nicht an eine
 nichtbundeseigene Eisenbahn übertragen oder die entsprechenden
 Grundstücke nicht veräußert werden, kann das Bundesministerium für
-Verkehr, Bau und Stadtentwicklung dies gegenüber der Eisenbahn
+Verkehr und digitale Infrastruktur dies gegenüber der Eisenbahn
 anordnen. Geschieht dies nicht innerhalb von 3 Monaten nach Eingang
 der Mitteilung gemäß Absatz 1, so kann die Eisenbahn die von ihr
 beabsichtigte Maßnahme durchführen. Die bei Anordnung der weiteren
@@ -489,8 +489,8 @@ Verkehrsmittel und -einrichtungen nur mit Zustimmung der zuständigen
 Anforderungsbehörde verpflichtet werden.
 
 (4) Die Verpflichtungen nach den Absätzen 1 und 2 sind nur auf Grund
-einer Weisung oder Ermächtigung des Bundesministeriums für Verkehr,
-Bau und Stadtentwicklung zulässig.
+einer Weisung oder Ermächtigung des Bundesministeriums für Verkehr und
+digitale Infrastruktur zulässig.
 
 (5) Die Vorschriften der Absätze 1 bis 4 dürfen nur nach Maßgabe des
 Artikels 80a des Grundgesetzes angewandt werden.
@@ -627,11 +627,11 @@ oder auf Grund dieses Gesetzes kreisangehörigen Gemeinden zugewiesenen
 Aufgaben von kommunalen Zusammenschlüssen oder Gemeindeverbänden
 wahrgenommen werden.
 
-(3) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung kann
+(3) Das Bundesministerium für Verkehr und digitale Infrastruktur kann
 die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1 Buchstabe f auf dem
 Gebiet des Güterkraftverkehrs dem Bundesamt für Güterverkehr
-übertragen. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1
+übertragen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur kann die Wahrnehmung von Aufgaben nach Absatz 1 Nr. 1
 Buchstabe a dem Eisenbahn-Bundesamt übertragen.
 
 (4) In Ländern, in denen in den Gemeinden und Gemeindeverbänden für
@@ -642,22 +642,22 @@ Gemeindeverbands.
 (5) Soweit dieses Gesetz oder die auf Grund dieses Gesetzes erlassenen
 Rechtsverordnungen nach Absatz 1 Nr. 2 von den Ländern, einschließlich
 der Gemeinden und Gemeindeverbände, im Auftrag des Bundes ausgeführt
-werden, übt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung die Befugnisse der Bundesregierung nach Artikel 85
-des Grundgesetzes aus. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung kann diese Befugnisse sowie seine Weisungsbefugnis
-nach Artikel 85 Abs. 3 des Grundgesetzes auf Bundesoberbehörden
-übertragen. Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2
-Satz 1 des Grundgesetzes bedürfen nicht der Zustimmung des
-Bundesrates, wenn die Voraussetzung des § 2 Abs. 3 vorliegt oder die
-Verwaltungsvorschriften die Ausführung von Rechtsverordnungen
-betreffen, die ohne Zustimmung des Bundesrates erlassen worden sind.
+werden, übt das Bundesministerium für Verkehr und digitale
+Infrastruktur die Befugnisse der Bundesregierung nach Artikel 85 des
+Grundgesetzes aus. Das Bundesministerium für Verkehr und digitale
+Infrastruktur kann diese Befugnisse sowie seine Weisungsbefugnis nach
+Artikel 85 Abs. 3 des Grundgesetzes auf Bundesoberbehörden übertragen.
+Allgemeine Verwaltungsvorschriften nach Artikel 85 Abs. 2 Satz 1 des
+Grundgesetzes bedürfen nicht der Zustimmung des Bundesrates, wenn die
+Voraussetzung des § 2 Abs. 3 vorliegt oder die Verwaltungsvorschriften
+die Ausführung von Rechtsverordnungen betreffen, die ohne Zustimmung
+des Bundesrates erlassen worden sind.
 
 (6) Allgemeine Verwaltungsvorschriften nach Artikel 86 des
-Grundgesetzes erläßt das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung.
+Grundgesetzes erläßt das Bundesministerium für Verkehr und digitale
+Infrastruktur.
 
-(7) Das Bundesministerium für Verkehr, Bau und Stadtentwicklung
+(7) Das Bundesministerium für Verkehr und digitale Infrastruktur
 bestimmt durch Rechtsverordnung die zur Ausführung dieses Gesetzes
 zuständigen Behörden. Die Rechtsverordnung bedarf der Zustimmung des
 Bundesrates; dies gilt nicht, soweit sie Zuständigkeiten der
@@ -893,7 +893,7 @@ Ordnungswidrigkeiten ist bei Zuwiderhandlungen gegen
 
     a)  soweit Bundesbehörden zur Durchführung zuständig sind,
 
-        *   das Bundesministerium für Verkehr, Bau und Stadtentwicklung oder die
+        *   das Bundesministerium für Verkehr und digitale Infrastruktur oder die
             in der Rechtsverordnung bestimmte Behörde,
 
 
@@ -930,9 +930,9 @@ auf den Grund dieses Gesetzes erlassenen Rechtsverordnungen
 ausgenommen, soweit dieses Gesetz nichts anderes bestimmt. Dies gilt
 auch hinsichtlich der für sie auf Grund des Bundesleistungsgesetzes
 zum Gebrauch in Anspruch genommenen Verkehrsmittel, -anlagen und
--einrichtungen. Das Bundesministerium für Verkehr, Bau und
-Stadtentwicklung wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates weitere Ausnahmen zuzulassen.
+-einrichtungen. Das Bundesministerium für Verkehr und digitale
+Infrastruktur wird ermächtigt, durch Rechtsverordnung mit Zustimmung
+des Bundesrates weitere Ausnahmen zuzulassen.
 
 (2) Rechtsverordnungen über die Benutzung von Verkehrswegen, -anlagen
 und -einrichtungen (§ 1 Abs. 1 Nr. 1) sowie über das Verhalten bei

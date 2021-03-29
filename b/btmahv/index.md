@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1981, 1420
 
 Zuletzt geändert durch
-:   Art. 3 V v. 19.6.2001 I 1180
+:   Art. 2 G v. 6.3.2017 I 403
 
 
 ## Eingangsformel
@@ -564,6 +564,10 @@ Betäubungsmittelgesetzes aufgeführten Stoffe, die entweder
 
 
 im grenzüberschreitenden Verkehr mitgeführt werden.
+
+Satz 1 Nummer 2 gilt auch für den in der Anlage III des
+Betäubungsmittelgesetzes aufgeführten Cannabis in Form von
+getrockneten Blüten.
 
 (2) Die Vorschriften der §§ 1 bis 12 finden ferner keine Anwendung auf
 Betäubungsmittel, wenn diese in angemessenen Mengen als Ausrüstungen

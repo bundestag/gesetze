@@ -102,14 +102,13 @@ legen. Ist der Zinssatz der Landesrentenbriefe geringer als der
 Zinssatz der auf Grund der Hypotheken ausgegebenen
 Schuldverschreibungen der Hypothekenbank oder Kreditanstalt, so wird
 der jeweilige Unterschiedsbetrag vom
-Reiche              vergütet. Die Vorschriften der Verordnung des
-Reichspräsidenten über die Zinserleichterung für den
-landwirtschaftlichen Realkredit vom 27. September 1932
-(Reichsgesetzbl. I S. 480), des Gesetzes über die Zinserleichterung
-für landwirtschaftlichen Auslandskredit vom 20. Juli 1933
-(Reichsgesetzbl. I S. 524) und des Gesetzes über die Zinserleichterung
-für den landwirtschaftlichen Realkredit vom 28. September 1934
-(Reichsgesetzbl. I S. 860) bleiben unberührt.
+Reiche vergütet. Die Vorschriften der Verordnung des Reichspräsidenten
+über die Zinserleichterung für den landwirtschaftlichen Realkredit vom
+27\. September 1932 (Reichsgesetzbl. I S. 480), des Gesetzes über die
+Zinserleichterung für landwirtschaftlichen Auslandskredit vom 20. Juli
+1933 (Reichsgesetzbl. I S. 524) und des Gesetzes über die
+Zinserleichterung für den landwirtschaftlichen Realkredit vom 28.
+September 1934 (Reichsgesetzbl. I S. 860) bleiben unberührt.
 
 (2) Die Landesrentenbriefe gelten in Höhe ihres Nennbetrages als
 Deckung für die von den Hypothekenbanken und öffentlich-rechtlichen
@@ -118,10 +117,10 @@ Deckung ist in den Bekanntmachungen nach § 23 des
 Hypothekenbankgesetzes und nach § 1 der Verordnung vom 16. November
 1929 (Reichsgesetzbl. I S. 205) besonders auszuweisen. Die Leistung
 des
-Reichs              (Absatz 1 Satz 4) gilt als Zinsertrag aus der
-Hypothek im Sinne des § 6 des Hypothekenbankgesetzes und des § 2 des
-Gesetzes über die Pfandbriefe und verwandte Schuldverschreibungen
-öffentlich-rechtlicher Kreditanstalten vom 21. Dezember 1927.
+Reichs (Absatz 1 Satz 4) gilt als Zinsertrag aus der Hypothek im Sinne
+des § 6 des Hypothekenbankgesetzes und des § 2 des Gesetzes über die
+Pfandbriefe und verwandte Schuldverschreibungen öffentlich-rechtlicher
+Kreditanstalten vom 21. Dezember 1927.
 
 
 ## § 4
@@ -190,7 +189,7 @@ erzielt wird, eine Obmannschätzung maßgebend; darin kann bestimmt
 werden, daß einzelne nach den Regeln einer ordnungsmäßigen Wirtschaft
 für das Grundstück überflüssige oder zu wertvolle Stücke des Inventars
 nicht zu übernehmen sind. Obmann ist der
-Landesbauernführer              oder ein von ihm bestellter Vertreter.
+Landesbauernführer oder ein von ihm bestellter Vertreter.
 
 (4) Ein Pächter, dem ein Anspruch auf Übertragung des Eigentums an dem
 Pachtgrundstück zusteht, kann ihn nur bis zu einem von der
@@ -208,13 +207,13 @@ erworben wird.
 ## § 9
 
 (1) Der
-Reichsminister für Ernährung und Landwirtschaft              bestimmt,
-welche Behörden die nach diesem Gesetze der Siedlungsbehörde
-zustehenden Aufgaben und Befugnisse wahrzunehmen haben und welche
+Reichsminister für Ernährung und Landwirtschaft bestimmt, welche
+Behörden die nach diesem Gesetze der Siedlungsbehörde zustehenden
+Aufgaben und Befugnisse wahrzunehmen haben und welche
 Siedlungsunternehmen innerhalb eines Bezirks zur Siedlung zugelassen
 sind.
 
 (2) Die zuständigen
-Reichsminister              erlassen die zur Durchführung ... dieses
-Gesetzes erforderlichen Rechts- und Verwaltungsvorschriften.
+Reichsminister erlassen die zur Durchführung ... dieses Gesetzes
+erforderlichen Rechts- und Verwaltungsvorschriften.
 

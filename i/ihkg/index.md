@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1956, 920
 
 Zuletzt geändert durch
-:   Art. 2 Abs. 61 G v. 22.12.2011 I 3044
+:   Art. 93 G v. 29.3.2017 I 626
 
 
 ## § 1
@@ -106,9 +106,9 @@ b)  Genossenschaften, die ganz oder überwiegend der Nutzung
 
 c)  Zusammenschlüsse der unter Buchstabe b genannten Genossenschaften bis
     zu einer nach der Höhe des Eigenkapitals zu bestimmenden Grenze, die
-    von dem Bundesministerium für Wirtschaft und Technologie im
-    Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-    und Verbraucherschutz durch Rechtsverordnung festgelegt wird.
+    von dem Bundesministerium für Wirtschaft und Energie im Einvernehmen
+    mit dem Bundesministerium für Ernährung und Landwirtschaft durch
+    Rechtsverordnung festgelegt wird.
 
 
 
@@ -135,27 +135,29 @@ Kammerzugehörigen aufzustellen und auszuführen.
 
 (3) Als Beiträge erhebt die Industrie- und Handelskammer Grundbeiträge
 und Umlagen. Der Grundbeitrag kann gestaffelt werden; dabei sollen
-insbesondere Art, Umfang  und Leistungskraft des Gewerbebetriebes
-berücksichtigt werden. Nicht in das Handelsregister eingetragene
-natürliche Personen und Personengesellschaften, deren Gewerbeertrag
-nach dem Gewerbesteuergesetz oder, soweit für das Bemessungsjahr ein
-Gewerbesteuermessbetrag nicht festgesetzt wird, deren nach dem
-Einkommensteuergesetz ermittelter Gewinn aus Gewerbebetrieb 5.200 Euro
-nicht übersteigt, sind vom Beitrag freigestellt. Die in Satz 3
-genannten natürlichen Personen sind, soweit sie in den letzten fünf
-Wirtschaftsjahren vor ihrer Betriebseröffnung weder Einkünfte aus
-Land- und Forstwirtschaft, Gewerbebetrieb oder selbständiger Arbeit
-erzielt haben, noch an einer Kapitalgesellschaft mittelbar oder
-unmittelbar zu mehr als einem Zehntel beteiligt waren, für das
-Geschäftsjahr einer Industrie- und Handelskammer, in dem die
-Betriebseröffnung erfolgt, und für das darauf folgende Jahr von der
-Umlage und vom Grundbeitrag sowie für das dritte und vierte Jahr von
-der Umlage befreit, wenn ihr Gewerbeertrag oder Gewinn aus
-Gewerbebetrieb 25.000 Euro nicht übersteigt. Wenn nach dem Stand der
-zum Zeitpunkt der Verabschiedung der Wirtschaftssatzung vorliegenden
-Bemessungsgrundlagen zu besorgen ist, dass bei einer Industrie- und
-Handelskammer die Zahl der Beitragspflichtigen, die einen Beitrag
-entrichten, durch die in den Sätzen 3 und 4 genannten
+insbesondere Art, Umfang und Leistungskraft des Gewerbebetriebes
+berücksichtigt werden. Natürliche Personen und Personengesellschaften,
+die nicht in das Handelsregister eingetragen sind, und eingetragene
+Vereine, wenn nach Art oder Umfang ein in kaufmännischer Weise
+eingerichteter Geschäftsbetrieb nicht erforderlich ist, sind vom
+Beitrag freigestellt, soweit ihr Gewerbeertrag nach dem
+Gewerbesteuergesetz oder soweit für das Bemessungsjahr ein
+Gewerbesteuermessbetrag nicht festgesetzt wird, ihr nach dem
+Einkommensteuergesetz ermittelter Gewinn aus Gewerbebetrieb 5 200 Euro
+nicht übersteigt. Die in Satz 3 genannten natürlichen Personen sind,
+soweit sie in den letzten fünf Wirtschaftsjahren vor ihrer
+Betriebseröffnung weder Einkünfte aus Land- und Forstwirtschaft,
+Gewerbebetrieb oder selbständiger Arbeit erzielt haben, noch an einer
+Kapitalgesellschaft mittelbar oder unmittelbar zu mehr als einem
+Zehntel beteiligt waren, für das Geschäftsjahr einer Industrie- und
+Handelskammer, in dem die Betriebseröffnung erfolgt, und für das
+darauf folgende Jahr von der Umlage und vom Grundbeitrag sowie für das
+dritte und vierte Jahr von der Umlage befreit, wenn ihr Gewerbeertrag
+oder Gewinn aus Gewerbebetrieb 25.000 Euro nicht übersteigt. Wenn nach
+dem Stand der zum Zeitpunkt der Verabschiedung der Wirtschaftssatzung
+vorliegenden Bemessungsgrundlagen zu besorgen ist, dass bei einer
+Industrie- und Handelskammer die Zahl der Beitragspflichtigen, die
+einen Beitrag entrichten, durch die in den Sätzen 3 und 4 genannten
 Freistellungsregelungen auf weniger als 55 vom Hundert aller ihr
 zugehörigen Gewerbetreibenden sinkt, kann die Vollversammlung für das
 betreffende Geschäftsjahr eine entsprechende Herabsetzung der dort
@@ -216,7 +218,7 @@ Gebühren erheben und den Ersatz von Auslagen verlangen.
 (7) Sonderbeiträge gemäß Absatz 5 werden nach Maßgabe einer
 Sonderbeitragsordnung, Gebühren und Auslagen nach Absatz 6 nach
 Maßgabe einer Gebührenordnung erhoben. In der Beitragsordnung, der
-Sonderbeitragsordnung sowie in der Gebührenordnung  ist Erlaß und
+Sonderbeitragsordnung sowie in der Gebührenordnung ist Erlaß und
 Niederschlagung von Beiträgen, Gebühren und Auslagen zu regeln.
 
 (7a) Für das Rechnungswesen, insbesondere Rechnungslegung und
@@ -392,16 +394,17 @@ nichtöffentliche Stellen übermittelt werden, sofern der
 Kammerzugehörige nicht widersprochen hat. Auf die Möglichkeit, der
 Übermittlung der Daten an nichtöffentliche Stellen zu widersprechen,
 sind die Kammerzugehörigen vor der ersten Übermittlung schriftlich
-hinzuweisen. Daten über Zugehörige anderer Kammern hat die Industrie-
-und Handelskammer nach Übermittlung an die nichtöffentliche Stelle
-unverzüglich zu löschen, soweit sie nicht zur Erfüllung der ihr nach
-diesem Gesetz übertragenen Aufgaben erforderlich sind. An Bewerber für
-die Wahl zur Vollversammlung nach § 5 dürfen zum Zweck der Wahlwerbung
-die in Satz 1 genannten Daten über Wahlberechtigte aus ihrer
-jeweiligen Wahlgruppe übermittelt werden. Der Bewerber hat diese Daten
-nach der Durchführung der Wahl unverzüglich zu löschen. Dritte, an die
-Daten übermittelt werden, dürfen diese Daten nur für den Zweck
-verwenden, zu dessen Erfüllung sie ihnen übermittelt werden.
+oder elektronisch hinzuweisen. Daten über Zugehörige anderer Kammern
+hat die Industrie- und Handelskammer nach Übermittlung an die
+nichtöffentliche Stelle unverzüglich zu löschen, soweit sie nicht zur
+Erfüllung der ihr nach diesem Gesetz übertragenen Aufgaben
+erforderlich sind. An Bewerber für die Wahl zur Vollversammlung nach §
+5 dürfen zum Zweck der Wahlwerbung die in Satz 1 genannten Daten über
+Wahlberechtigte aus ihrer jeweiligen Wahlgruppe übermittelt werden.
+Der Bewerber hat diese Daten nach der Durchführung der Wahl
+unverzüglich zu löschen. Dritte, an die Daten übermittelt werden,
+dürfen diese Daten nur für den Zweck verwenden, zu dessen Erfüllung
+sie ihnen übermittelt werden.
 
 (5) (weggefallen)
 
@@ -436,9 +439,9 @@ zulässig, soweit nicht die für die beteiligten Kammern oder
 Zusammenschlüsse geltenden besonderen Rechtsvorschriften dies
 ausschließen oder beschränken.
 
-(4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Abs. 2, 6, 7a
-und 8, § 4 Satz 1 und 2 Nr. 1 bis 5, 7 und 8 sowie in den §§ 6 und 7
-sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend
+(4) Die Regelungen dieses Gesetzes in § 1 Abs. 3a, § 3 Absatz 1, 2, 6,
+7a und 8, § 4 Satz 1 und 2 Nr. 1 bis 5, 7 und 8 sowie in den §§ 6 und
+7 sind auf öffentlich-rechtliche Zusammenschlüsse entsprechend
 anzuwenden.
 
 
@@ -497,8 +500,8 @@ aufgehoben;
 Abschnitt I des Gesetzes zur Erhaltung und Hebung der Kaufkraft vom
 24\. März 1934 (Reichsgesetzbl. I S. 235) und die Verordnung über die
 Rechnungslegung und Rechnungsprüfung während des Krieges vom 5. Juli
-1940 (Reichsgesetzbl. II S. 139)              finden auf die
-Industrie- und Handelskammern keine Anwendung.
+1940 (Reichsgesetzbl. II S. 139) finden auf die Industrie- und
+Handelskammern keine Anwendung.
 
 
 ## § 12
@@ -534,12 +537,7 @@ Industrie- und Handelskammern keine Anwendung.
 
 
 8.  die Befugnis der Industrie- und Handelskammern zur Führung eines
-    Dienstsiegels,
-
-
-9.  Zuständigkeit und Verfahren für die Bestellung von Ausschußmitgliedern
-    gemäß
-    § 8 Abs. 2 Satz 2.
+    Dienstsiegels.
 
 
 

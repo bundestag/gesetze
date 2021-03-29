@@ -15,9 +15,7 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 1998, 1998
 
-Zuletzt geändert durch
-:   Art. 7 G v. 7.12.2011 I 2592
-
+Stand: Zuletzt geändert Art. 17 G v. 20.12.2016 I 3000
 
 ## Abschnitt 1 - Unmittelbare Steuerberechtigung
 
@@ -52,10 +50,11 @@ soweit der zu überweisende Betrag nach den §§ 2 bis 6 zerlegt worden
 ist.
 
 (3a) Ist ein Steuerbetrag im Sinne des § 43 Absatz 1 Satz 1 Nummer 1a
-des Einkommensteuergesetzes einem Land zugeflossen, in dem sich der
-Ort der Leitung des Schuldners der Kapitalerträge nicht befindet, hat
-das Land den Steuerbetrag an das Land zu überweisen, in dem sich der
-Ort der Leitung des Schuldners der Kapitalerträge befindet.
+oder Nummer 2 Satz 4 des Einkommensteuergesetzes einem Land
+zugeflossen, in dem sich der Ort der Leitung des Schuldners der
+Kapitalerträge nicht befindet, hat das Land den Steuerbetrag an das
+Land zu überweisen, in dem sich der Ort der Leitung des Schuldners der
+Kapitalerträge befindet.
 
 (4) Die Vorschriften über die Zerlegung der Körperschaftsteuer (§§ 2
 bis 6) und über die Zerlegung der Lohnsteuer (§ 7) bleiben unberührt.
@@ -123,7 +122,7 @@ des Absatzes 1 mit dem Teilbetrag anzusetzen, der dem Verhältnis der
 Einkünfte aus Gewerbebetrieb zum Gesamtbetrag der Einkünfte
 entspricht.
 
-(3) In den Fällen der § 14, 17 und 18 des Körperschaftsteuergesetzes
+(3) In den Fällen der §§ 14 und 17 des Körperschaftsteuergesetzes
 gelten Organgesellschaften und deren Betriebsstätten als
 Betriebsstätten des Organträgers.
 
@@ -190,10 +189,9 @@ verbleibenden Körperschaftsteuer zu ändern.
 ### § 4 Zerlegung der Körperschaftsteuer-Vorauszahlungen
 
 (1) Sofern die Voraussetzungen für eine Zerlegung der
-Körperschaftsteuer vorliegen, zerlegt das Erhebungsfinanzamt die im
-Kalendervierteljahr eingehenden Körperschaftsteuer-Vorauszahlungen auf
-die beteiligten Länder und teilt die jeweiligen Zerlegungsanteile dem
-beauftragten Finanzamt seines Landes (§ 6 Abs. 1) mit.
+Körperschaftsteuer vorliegen, zerlegt das beauftragte Finanzamt (§ 6
+Absatz 1) die im Kalendervierteljahr eingehenden Körperschaftsteuer-
+Vorauszahlungen auf die beteiligten Länder.
 
 (2) Zerlegungsmaßstab ist grundsätzlich das Verhältnis der
 Zerlegungsanteile, die in dem letzten Zerlegungsbescheid festgesetzt
@@ -214,7 +212,7 @@ Betrag ist nach den vorstehenden Grundsätzen zu zerlegen.
 
 ### § 5 Abrechnung der Zerlegung
 
-(1) Das Erhebungsfinanzamt rechnet mit Ablauf des
+(1) Das beauftragte Finanzamt rechnet mit Ablauf des
 Kalendervierteljahres, in dem die verbleibende Körperschaftsteuer
 abzüglich etwaiger niedergeschlagener oder erlassener Beträge getilgt
 oder erstattet worden ist, die Zerlegungsanteile ab. Der Zahlungs-
@@ -226,7 +224,7 @@ niedergeschlagene Beträge sind im Verhältnis der Zerlegungsanteile wie
 Vorauszahlungen abzurechnen.
 
 (2) Auf Teilzahlungen auf die verbleibende Körperschaftsteuer findet §
-4 entsprechende Anwendung, sobald die Zahlungen mindestens 500.000
+4 entsprechende Anwendung, sobald die Zahlungen mindestens 500 000
 Euro betragen. Die Teilzahlungen werden bei der Abrechnung gemäß
 Absatz 1 wie Vorauszahlungen berücksichtigt.
 
@@ -375,6 +373,20 @@ Vorauszahlungen auf Zerlegungsanteile sind auf die jeweiligen
 Zerlegungsanteile anzurechnen. Die Abrechnung und Zahlung erfolgt in
 einem Clearingverfahren.
 
+(7a) Die Absätze 1 bis 7 sind für die Zerlegung der Lohnsteuer für das
+Jahr 2015 und 2016 mit der Maßgabe anzuwenden, dass die Zerlegung
+vorläufig nach den für das Jahr 2011 ermittelten Prozentsätzen
+erfolgt; sie sind ferner für die Zerlegung der Lohnsteuer für das Jahr
+2017 mit der Maßgabe anzuwenden, dass die Zerlegung vorläufig nach den
+für das Jahr 2013 ermittelten Prozentsätzen erfolgt. Die endgültige
+Zerlegung der Lohnsteuer für die Jahre 2015, 2016 und 2017 erfolgt,
+wenn die hierzu erforderlichen Datengrundlagen zur Verfügung stehen.
+Für die endgültige Zerlegung der Lohnsteuer für die Jahre 2015, 2016
+und 2017 sind die Prozentsätze nach den Verhältnissen im jeweiligen
+Feststellungszeitraum gemäß den Absätzen 1 bis 3 festzusetzen; dabei
+dürfen die Prozentsätze für das Jahr 2013 vor den Prozentsätzen für
+das Jahr 2012 festgestellt werden.
+
 (8) Die Vorschriften der § 185 bis 189 der Abgabenordnung sind auf das
 Verfahren bei der Zerlegung der Lohnsteuer nicht anzuwenden.
 
@@ -386,8 +398,8 @@ Verfahren bei der Zerlegung der Lohnsteuer nicht anzuwenden.
 ### § 8 Zerlegung der Kapitalertragsteuer
 
 (1) Der Länder- und Gemeindeanteil am Aufkommen der
-Kapitalertragsteuer nach § 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12
-sowie Satz 2 des Einkommensteuergesetzes werden
+Kapitalertragsteuer nach § 43 Absatz 1 Satz 1 Nummer 5 bis 7 und 8 bis
+12 sowie Satz 2 des Einkommensteuergesetzes werden
 kalendervierteljährlich zerlegt. Die Zerlegungsanteile bemessen sich
 nach Prozentsätzen des nach Wohnsitz oder Sitz des Steuerschuldners
 auf das jeweilige Land entfallenden Anteils am Aufkommen nach Satz 1.
@@ -585,52 +597,16 @@ Gesetzes ist der Finanzrechtsweg gegeben.
 
 ### § 12 Anwendung
 
-(1) Die Regelung zur unmittelbaren Steuerberechtigung nach dem Ersten
-Abschnitt dieses Gesetzes gilt erstmals für den Veranlagungszeitraum
-1998\. Die unmittelbare Steuerberechtigung für Veranlagungszeiträume
-vor 1998 richtet sich nach dem Zerlegungsgesetz in der Fassung der
-Bekanntmachung vom 25. Februar 1971 (BGBl. I S. 145), zuletzt geändert
-durch Artikel 8 des Gesetzes vom 9. November 1992 (BGBl. I S. 1853).
+(1) Die vorstehende Fassung dieses Gesetzes ist, soweit in Satz 2 und
+in Absatz 2 nichts anderes geregelt ist, erstmals für den
+Veranlagungszeitraum 2015 anzuwenden. Für die Zerlegung der Lohnsteuer
+und des Zinsabschlags ist die vorstehende Fassung dieses Gesetzes
+erstmals für das Kalenderjahr 2015 anzuwenden.
 
-(2) Die Zerlegung der Körperschaftsteuer nach dem Zweiten Abschnitt
-des Gesetzes in der Fassung des Artikels 10 des Gesetzes vom 19.
-Dezember 2000 (BGBl. I S. 1790) ist erstmals für den
-Veranlagungszeitraum 2002 durchzuführen. Die Zerlegung der
-Körperschaftsteuer für die Veranlagungszeiträume 1998 bis 2001 richtet
-sich nach dem Zerlegungsgesetz in der Fassung vom 6. August 1998
-(BGBl. I S. 1998). Die Zerlegung der Körperschaftsteuer für die
-Veranlagungszeiträume vor 1998 richtet sich nach dem Zerlegungsgesetz
-in der Fassung der Bekanntmachung vom 25. Februar 1971 (BGBl. I S.
-145), zuletzt geändert durch Artikel 8 des Gesetzes vom 9. November
-1992 (BGBl. I S. 1853). § 6 Absatz 7 in der Fassung des Artikels 11
-des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals für
-den Veranlagungszeitraum 2014 anzuwenden.
+(2) § 2 Absatz 3 in der am 31. Juli 2014 geltenden Fassung ist
+erstmals für den Veranlagungszeitraum 2012 anzuwenden.
 
-(3) Die Zerlegung der Lohnsteuer nach Abschnitt 3 dieses Gesetzes in
-der Fassung des Artikels 15 des Gesetzes vom 19. Dezember 2008 (BGBl.
-I S. 2794) ist erstmals für das Kalenderjahr 2010 nach den
-Verhältnissen im Kalenderjahr 2007 anzuwenden. Die Zerlegung der
-Lohnsteuer für Kalenderjahre vor 2010 richtet sich nach diesem Gesetz
-in der am 20. Dezember 2003 geltenden Fassung. Die Regelung der
-Lohnsteuer für Kalenderjahre vor 2007 richtet sich nach diesem Gesetz
-in der Fassung vom 6. August 1998 (BGBl. I S. 1998). Die Zerlegung der
-Lohnsteuer für Kalenderjahre vor 1998 richtet sich nach diesem Gesetz
-in der zuletzt durch Artikel 8 des Gesetzes vom 9. November 1992
-(BGBl. I S. 1853) geänderten Fassung der Bekanntmachung vom 25.
-Februar 1971 (BGBl. I S. 145).
-
-(4) Die Zerlegung des Zinsabschlags nach dem Vierten Abschnitt dieses
-Gesetzes ist erstmals für das Kalenderjahr 2002 durchzuführen. § 8 in
-der Fassung des Artikels 10 des Gesetzes vom 14. August 2007 (BGBl. I
-S. 1912) ist erstmalig für das Kalenderjahr 2009 anzuwenden. § 8 Abs.
-1 Satz 5 in der Fassung des Artikels 12 des Gesetzes vom 20. Dezember
-2008 (BGBl. I S. 2850) ist erstmalig für das Kalenderjahr 2009
-anzuwenden. § 8 Abs. 1 Satz 3 bis 5 gilt nicht für das auf das
-Kalenderjahr 2008 entfallende Steueraufkommen, das in 2009 abgeführt
-wird.
-
-(5) Die §§ 9 bis 11 sind in den Fällen anzuwenden, in denen sich die
-unmittelbare Steuerberechtigung, die Zerlegung der Körperschaftsteuer,
-der Lohnsteuer und des Zinsabschlags nach Maßgabe dieses Gesetzes
-richten.
+(3) § 4 Absatz 1 und § 5 Absatz 1 Satz 1 in der Fassung des Artikels
+17 des Gesetzes vom 20. Dezember 2016 (BGBl. I S. 3000) sind erstmals
+für die Zerlegung des ersten Kalendervierteljahres 2019 anzuwenden.
 

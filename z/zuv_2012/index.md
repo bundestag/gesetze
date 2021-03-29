@@ -985,8 +985,9 @@ entgegen § 3 Abs. 2 Satz 1 eine Angabe nicht richtig macht.
 
 Diese Verordnung tritt am 18. August 2007 in Kraft.
 
+(zu den §§ 4 und 5)
 
-### Anhang 1 (zu den §§ 4 und 5) Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
+### Anhang 1 Einheitliche Stoffwerte für Emissionsfaktoren, Heizwerte und Kohlenstoffgehalte für Brennstoffe, Rohstoffe und Produkte
 
 ( Fundstelle: BGBl. I 2007, 1949 - 1955 )
 
@@ -999,7 +1000,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 *    *
     *   t CO
-        2                      / GJ
+        2 / GJ
 
     *   GJ / t
 
@@ -1281,7 +1282,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 *    *
     *   t CO
-        2                      / t
+        2 / t
 
 
 *    *   BaCO
@@ -1297,8 +1298,8 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   Dolomit (50 % CaCO
-        3                     , 50 % MgCO
-        3                     )
+        3, 50 % MgCO
+        3)
 
     *   0,477
 
@@ -1309,7 +1310,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   K
-        2                     CO
+        2CO
         3
 
     *   0,318
@@ -1322,7 +1323,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   Na
-        2                     CO
+        2CO
         3
 
     *   0,415
@@ -1341,7 +1342,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   Li
-        2                     CO
+        2CO
         3
 
     *   0,596
@@ -1369,7 +1370,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 *    *
     *   t CO
-        2                      / t
+        2 / t
 
 
 *    *   Produktion von Branntkalk (bezogen auf CaO)
@@ -1383,7 +1384,7 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   Produktion von Magnesiumoxid (aus MgCO
-        3                      bezogen auf MgO)
+        3 bezogen auf MgO)
 
     *   1,092
 
@@ -1394,9 +1395,9 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 *    *   Gips aus REA-Anlagen (bezogen auf CaCO
-        3                     -Einsatz) CaSO
-        4                     ·2 H
-        2                     O
+        3-Einsatz) CaSO
+        4·2 H
+        2O
 
     *   0,256
 
@@ -1495,8 +1496,9 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
     Berlin, erschienen und beim Deutschen Patent- und Markenamt in München
     archivmäßig gesichert und niedergelegt.
 [^F759746_01_BJNR194100007BJNE002500000]: 
+(zu § 5 Abs. 3)
 
-### Anhang 2 (zu § 5 Abs. 3) Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
+### Anhang 2 Bestimmung des spezifischen Kohlendioxid-Emissionsfaktors für Vollwert-Steinkohle über den unteren Heizwert
 
 ( Fundstelle: BGBl. I 2007, 1951 )
 ## Formel
@@ -1506,8 +1508,8 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 *    *   EF
 
     *   Heizwertbezogener CO
-        2                     -Emissionsfaktor in t CO
-        2                     /GJ
+        2-Emissionsfaktor in t CO
+        2/GJ
 
 
 *    *   H
@@ -1517,8 +1519,9 @@ Diese Verordnung tritt am 18. August 2007 in Kraft.
 
 
 
+(zu § 9)
 
-### Anhang 3 (zu § 9) Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
+### Anhang 3 Ermittlung der Kohlendioxid-Emissionen aus der Regeneration von Katalysatoren und aus der Kalzinierung von Petrolkoks
 
 ( Fundstelle: BGBl. I 2007, 1952 )
 ## Formel 1
@@ -1621,7 +1624,7 @@ konstantem Inertgasanteil von 79,07 Volumenprozent.
 
     *   Volumenstrom der zugeführten Luft (umgerechnet in getrocknete Luft) in
         Nm
-        3                      pro Zeiteinheit
+        3 pro Zeiteinheit
 
 
 *    *   a
@@ -1643,8 +1646,9 @@ konstantem Inertgasanteil von 79,07 Volumenprozent.
 
 
 
+(zu § 19)
 
-### Anhang 4 (zu § 19) Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
+### Anhang 4 Berechnungsvorschriften für Abzug und Hinzurechnung der Kuppelgasemissionen
 
 (Fundstelle: BGBl. I 2007, 1953;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -1680,7 +1684,7 @@ Dezember 2002 in Betrieb gegangen sind.
 
     *   Menge der Emissionsberechtigungen für die Zuteilungsperiode nach
         Anwendung der für die Anlage maßgeblichen Zuteilungsregel (in t CO
-        2                     -Äquiv.)
+        2-Äquiv.)
 
 
 *    *   EF

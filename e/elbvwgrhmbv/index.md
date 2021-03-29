@@ -55,19 +55,19 @@ Reich (Reichswasserstraßenverwaltung).
 ## § 2
 
 Der
-Reichsverkehrsminister              kann im Einvernehmen mit dem
-Reichsminister der Finanzen              die Übertragung der
-Verwaltung oder Unterhaltung der
-Reichswasserstraßen              im Gebiet Groß-Hamburg abweichend von
-der Regelung des § 1 oder der sonstigen gesetzlichen Regelung anordnen
-oder widerrufen.
+Reichsverkehrsminister kann im Einvernehmen mit dem
+Reichsminister der Finanzen die Übertragung der Verwaltung oder
+Unterhaltung der
+Reichswasserstraßen im Gebiet Groß-Hamburg abweichend von der Regelung
+des § 1 oder der sonstigen gesetzlichen Regelung anordnen oder
+widerrufen.
 
 
 ## § 3
 
 Der
-Reichsverkehrsminister              erläßt die zur Durchführung ...
-dieser Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
+Reichsverkehrsminister erläßt die zur Durchführung ... dieser
+Verordnung erforderlichen Rechts- und Verwaltungsvorschriften.
 
 
 ## § 4

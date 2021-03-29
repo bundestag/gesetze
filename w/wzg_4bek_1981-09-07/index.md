@@ -70,39 +70,33 @@ Der Bundesminister der Justiz
 
 ## Anlage 1 Niederländische Prüf- und Gewährzeichen für Eier von freilaufenden Hennen
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 941)
-
+![bgbl1_1981_j0941_0010.jpg](bgbl1_1981_j0941_0010.jpg)
 
 ## Anlage 2 Niederländische Prüf- und Gewährzeichen für Speck
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 941)
-
+![bgbl1_1981_j0941_0020.jpg](bgbl1_1981_j0941_0020.jpg)
 
 ## Anlage 3 Brasilianische Prüf- und Gewährzeichen für Edelmetalle
 
-(Inhalt: Nicht darstellbare Prüf- und Gewährzeichen,
 Fundstelle: BGBl. I 1981, 942)
-
+![bgbl1_1981_j0942_0010.jpg](bgbl1_1981_j0942_0010.jpg)
 
 ## Anlage 4 Internationale kriminalpolizeiliche Organisation
 
-(Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1981, 943 - 944)
-
+![bgbl1_1981_j0943_0010.jpg](bgbl1_1981_j0943_0010.jpg)![bgbl1_1981_j0944_0010.jpg](bgbl1_1981_j0944_0010.jpg)
 
 ## Anlage 5 Internationale Seefunksatelliten-Organisation
 
-(Inhalt: Nicht darstellbare Abkürzung und Kennzeichen,
 Fundstelle: BGBl. I 1981, 945)
-
+![bgbl1_1981_j0945_0010.jpg](bgbl1_1981_j0945_0010.jpg)
 
 ## Anlage 6 Weltorganisation für Tourismus
 
-(Inhalt: Nicht darstellbare Kennzeichen,
 Fundstelle: BGBl. I 1981, 946)
-
+![bgbl1_1981_j0946_0010.jpg](bgbl1_1981_j0946_0010.jpg)
 
 ## Anlage 7
 

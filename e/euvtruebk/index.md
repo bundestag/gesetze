@@ -2,7 +2,7 @@
 Title: Übereinkommen über das auf vertragliche Schuldverhältnisse anzuwendende Recht
 jurabk: EuVtrÜbk
 layout: default
-origslug: euvtr_bk
+origslug: euvtruebk
 slug: euvtruebk
 
 ---

@@ -113,12 +113,9 @@ Name:
 INTERNATIONAL CIVIL AVIATION ORGANIZATION - Englisch -
 ORGANISATION DE L'AVIATION CIVILE INTERNATIONALE - Französisch -
 ORGANIZACION DE AVIACION CIVIL INTERNACIONAL - Spanisch -
-(... nicht darstellbare russische Schriftzeichen)             -
-Russisch -
-(... nicht darstellbare arabische Schriftzeichen)             -
-Arabisch -
-(... nicht darstellbare chinesische Schriftzeichen)             -
-Chinesisch -
+(... nicht darstellbare russische Schriftzeichen)- Russisch -
+(... nicht darstellbare arabische Schriftzeichen)- Arabisch -
+(... nicht darstellbare chinesische Schriftzeichen)- Chinesisch -
 
 *    *   Abkürzung:
 
@@ -252,14 +249,11 @@ Emblem und Name der Organisation für das Verbot chemischer Waffen
 Emblem:
 (... nicht darstellbare Abbildung)
 Name:
-(... nicht darstellbare arabische Schriftzeichen)              -
-Arabisch -
-(... nicht darstellbare chinesische Schriftzeichen)              -
-Chinesisch -
+(... nicht darstellbare arabische Schriftzeichen) - Arabisch -
+(... nicht darstellbare chinesische Schriftzeichen) - Chinesisch -
 ORGANISATION FOR THE PROHIBITION OF CHEMICAL WEAPONS - Englisch -
 ORGANISATION POUR L'INTER DICTION DES ARMES CHIMIQUES - Französisch -
-(... nicht darstellbare russische Schriftzeichen)              -
-Russisch -
+(... nicht darstellbare russische Schriftzeichen) - Russisch -
 ORGANIZACION PARA LA PROHIBICION DE LAS ARMAS QUIMICAS - Spanisch -
 
 

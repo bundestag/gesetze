@@ -3,7 +3,7 @@ Title: Verordnung über die Übermittlung von Auskünften an die Nachrichtendien
   Bundes
 jurabk: NDÜV
 layout: default
-origslug: nd_v
+origslug: nduev
 slug: nduev
 
 ---
@@ -15,6 +15,9 @@ Ausfertigungsdatum
 
 Fundstelle
 :   BGBl I: 2012, 2117
+
+Geändert durch
+:   Art. 3 Abs. 2 G v. 23.12.2016 I 3346
 
 
 ## Eingangsformel
@@ -38,7 +41,7 @@ Verteidigung:
 (1) Diese Verordnung regelt die Form und das Verfahren von Auskünften,
 die auf Grund von Anordnungen nach § 8a Absatz 1 und Absatz 2 Satz 1
 Nummer 1, 2 und 5 des Bundesverfassungsschutzgesetzes, auch in
-Verbindung mit § 4a Satz 1 des MAD-Gesetzes oder § 2a Satz 1 des BND-
+Verbindung mit § 4a Satz 1 des MAD-Gesetzes oder § 3 Satz 1 des BND-
 Gesetzes, zu erteilen sind.
 
 (2) Durch diese Verordnung wird keine Verpflichtung begründet,
@@ -238,8 +241,9 @@ regelmäßig, erstmalig ein Jahr nach Inkrafttreten der Verordnung,
 
 Diese Verordnung tritt am Tag nach der Verkündung in Kraft.
 
+(zu § 5 Absatz 1)
 
-## Anlage 1 (zu § 5 Absatz 1) Datenübermittlungsformate für die einzelnen Sektoren
+## Anlage 1 Datenübermittlungsformate für die einzelnen Sektoren
 
 (Fundstelle: BGBl. I 2012, 2120)
 

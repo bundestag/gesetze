@@ -3,7 +3,7 @@ Title: Zweiter Staatsvertrag zwischen dem Freistaat Bayern und dem Land Baden-W�
   über die Änderung der Landesgrenze
 jurabk: GrÄndStVtr BW/BY 2
 layout: default
-origslug: gr_ndstvtr_bw_by_2
+origslug: graendstvtr_bw_by_2
 slug: graendstvtr_bw_by_2
 
 ---

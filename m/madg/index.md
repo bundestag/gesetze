@@ -16,10 +16,7 @@ Fundstelle
 :   BGBl I: 1990, 2954, 2977
 
 Zuletzt geändert durch
-:   Art. 2 G v. 7.12.2011 I 2576
-
-Hinweis: mittelbare änderung durch
-:   Art. 6 Nr. 3 Buchst. a G v. 7.12.2011 I 2576 ist berücksichtigt
+:   Art. 3 G v. 30.6.2017 I 2097
 
 
 ## § 1 Aufgaben
@@ -87,12 +84,16 @@ Verteidigung angehören oder in ihm tätig sind.
 
     a)  denen im öffentlichen Interesse geheimhaltungsbedürftige Tatsachen,
         Gegenstände oder Erkenntnisse anvertraut werden, die Zugang dazu
-        erhalten sollen oder ihn sich verschaffen können, oder
+        erhalten sollen oder ihn sich verschaffen können
 
 
     b)  die an sicherheitsempfindlichen Stellen des Geschäftsbereichs des
-        Bundesministeriums der Verteidigung eingesetzt sind oder werden
-        sollen,
+        Bundesministeriums der Verteidigung eingesetzt sind oder werden sollen
+        oder
+
+
+    c)  die in sonstigen gesetzlich bestimmten Fällen einer
+        Sicherheitsüberprüfung unterliegen,
 
 
 
@@ -106,9 +107,8 @@ Verteidigung angehören oder in ihm tätig sind.
 
 
 Die Befugnisse des Militärischen Abschirmdienstes bei der Mitwirkung
-nach Satz 1 Nr. 1 Buchstabe a und b sind im
-Sicherheitsüberprüfungsgesetz vom 20. April 1994 (BGBl. I S. 867)
-geregelt.
+nach Satz 1 Nummer 1 Buchstabe a bis c sind im
+Sicherheitsüberprüfungsgesetz geregelt.
 
 (4) Der Militärische Abschirmdienst darf einer polizeilichen
 Dienststelle nicht angegliedert werden.
@@ -172,23 +172,40 @@ Abs. 1 des Bundesverfassungsschutzgesetzes zusammenarbeiten, und wenn
 anderenfalls die weitere Erforschung des Sachverhalts gefährdet oder
 nur mit übermäßigem Aufwand möglich wäre.
 
-(3) Der Militärische Abschirmdienst und das Bundesamt für
-Verfassungsschutz unterrichten einander über alle Angelegenheiten,
-deren Kenntnis für die Erfüllung ihrer Aufgaben erforderlich ist.
+(3) Der Militärische Abschirmdienst und die Verfassungsschutzbehörden
+unterrichten einander über alle Angelegenheiten, deren Kenntnis für
+die Erfüllung ihrer Aufgaben erforderlich ist. Dem Militärischen
+Abschirmdienst kann der automatisierte Abruf von Daten aus den beim
+Bundesamt für Verfassungsschutz gemäß § 6 des
+Bundesverfassungsschutzgesetzes geführten Dateien ermöglicht werden.
+Dem Bundesamt für Verfassungsschutz und den Landesbehörden für
+Verfassungsschutz kann der automatisierte Abruf von Daten aus der beim
+Militärischen Abschirmdienst geführten zentralen Hinweisdatei
+ermöglicht werden. Der Abruf ist nur zulässig zur Aufklärung von
+sicherheitsgefährdenden oder geheimdienstlichen Tätigkeiten für eine
+fremde Macht, von rechtsextremistischen Bestrebungen oder von
+Bestrebungen, die darauf gerichtet sind, Gewalt anzuwenden oder
+Gewaltanwendung vorzubereiten, und zur Mitwirkung bei der
+Sicherheitsüberprüfung. Bei einer Abfrage zur Sicherheitsüberprüfung
+wird im Fall eines Treffers die speichernde Stelle automatisiert durch
+Übermittlung aller Anfragedaten über die Abfrage und die abfragende
+Stelle nur über die speichernde Stelle unterrichtet.
 
 
 ## § 4 Befugnisse des Militärischen Abschirmdienstes
 
 (1) Der Militärische Abschirmdienst darf die zur Erfüllung seiner
 Aufgaben erforderlichen Informationen einschließlich personenbezogener
-Daten erheben, verarbeiten und nutzen nach § 8 Abs. 2, 4 und 5 des
+Daten verarbeiten nach § 8 Absatz 2, 4 und 5 des
 Bundesverfassungsschutzgesetzes, soweit nicht die anzuwendenden
 Bestimmungen des Bundesdatenschutzgesetzes oder besondere Regelungen
-in diesem Gesetz entgegenstehen. Er ist nicht befugt, personenbezogene
-Daten zur Erfüllung seiner Aufgaben nach § 1 Abs. 2 zu erheben. § 8
-Abs. 2 Satz 2 und 3 des Bundesverfassungsschutzgesetzes findet
-Anwendung; die Zustimmung zur Dienstanweisung erteilt das
-Bundesministerium der Verteidigung.
+in diesem Gesetz entgegenstehen; die Verarbeitung ist auch zulässig,
+wenn der Betroffene eingewilligt hat. Der Militärische Abschirmdienst
+ist nicht befugt, personenbezogene Daten zur Erfüllung seiner Aufgaben
+nach § 1 Absatz 2 zu erheben. § 8 Absatz 2 des
+Bundesverfassungsschutzgesetzes findet mit der Maßgabe Anwendung, dass
+die Zustimmung zur Dienstanweisung durch das Bundesministerium der
+Verteidigung erteilt wird.
 
 (2) Polizeiliche Befugnisse oder Weisungsbefugnisse stehen dem
 Militärischen Abschirmdienst nicht zu; er darf die Polizei auch nicht
@@ -204,9 +221,22 @@ schwerwiegenden Gefahren für die in § 3 Absatz 1 des
 Bundesverfassungsschutzgesetzes genannten Schutzgüter schwerwiegende
 Gefahren für die in § 1 Absatz 1 genannten Schutzgüter und an die
 Stelle des Bundesministeriums des Innern das Bundesministerium der
-Verteidigung treten. Das Grundrecht des
-Fermeldegeheimnisses              (Artikel 10 des Grundgesetzes) wird
-insoweit eingeschränkt.
+Verteidigung treten. Das Grundrecht des Fernmeldegeheimnisses (Artikel
+10 des Grundgesetzes) wird insoweit eingeschränkt.
+
+
+## § 4b Weitere Auskunftsverlangen
+
+Soweit dies zur Erfüllung der Aufgaben des Militärischen
+Abschirmdienstes erforderlich ist, darf von demjenigen, der
+geschäftsmäßig Telekommunikationsdienste erbringt oder daran mitwirkt,
+Auskunft über die nach den §§ 95 und 111 des
+Telekommunikationsgesetzes erhobenen Daten entsprechend § 8d des
+Bundesverfassungsschutzgesetzes verlangt werden. Die
+Auskunftserteilung ist nach § 8d Absatz 5 des
+Bundesverfassungsschutzgesetzes zu entschädigen. Das Grundrecht des
+Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) wird nach Maßgabe
+des § 8d Absatz 2 des Bundesverfassungsschutzgesetzes eingeschränkt.
 
 
 ## § 5 Besondere Formen der Datenerhebung
@@ -225,41 +255,42 @@ erheben, soweit es
 
 
 
-erforderlich ist; § 9 Abs. 2 bis 4 des Bundesverfassungsschutzgesetzes
-findet entsprechende Anwendung.
+erforderlich ist; § 9 Abs. 2 bis 4, § 9a Absatz 2 und 3 und § 9b des
+Bundesverfassungsschutzgesetzes finden entsprechende Anwendung.
 
 
-## § 6 Speicherung, Veränderung und Nutzung personenbezogener Daten
+## § 6 Verwendung und Berichtigung personenbezogener Daten
 
 (1) Der Militärische Abschirmdienst darf personenbezogene Daten nach §
 10 des Bundesverfassungsschutzgesetzes speichern, verändern und
 nutzen, soweit es zur Erfüllung seiner Aufgaben erforderlich ist. Zur
-Erfüllung der Aufgaben nach § 1 Abs. 2 gespeicherte Daten über
+Erfüllung der Aufgaben nach § 1 Absatz 2 gespeicherte Daten über
 Personen, die nicht dem Geschäftsbereich des Bundesministeriums der
 Verteidigung angehören oder in ihm tätig sind, dürfen für andere
 Zwecke nicht verwendet werden, es sei denn, die Verwendung wäre auch
-für die Erfüllung der Aufgaben nach § 1 Abs. 1 zulässig.
+für die Erfüllung der Aufgaben nach § 1 Absatz 1 zulässig.
 
-(2) In Dateien oder zu ihrer Person geführten Akten gespeicherte Daten
+(2) Der Militärische Abschirmdienst hat die in Dateien gespeicherten
+personenbezogenen Daten zu berichtigen, zu löschen und ihre
+Verarbeitung einzuschränken nach § 12 des
+Bundesverfassungsschutzgesetzes.
+
+(3) Auf personenbezogene Daten in Akten des Militärischen
+Abschirmdienstes findet § 13 des Bundesverfassungsschutzgesetzes
+Anwendung.
+
+
+## § 7 Verwendung personenbezogener Daten von Minderjährigen
+
+In Dateien oder zu ihrer Person geführten Akten gespeicherte Daten
 über Minderjährige sind nach zwei Jahren auf die Erforderlichkeit der
 Speicherung zu überprüfen und spätestens nach fünf Jahren zu löschen,
-es sei denn, daß nach Eintritt der Volljährigkeit weitere Erkenntnisse
-nach § 1 Abs. 1 oder § 2 angefallen sind. Dies gilt nicht, wenn der
-Betroffene nach § 1 Abs. 3 überprüft wird. Die Speicherung
-personenbezogener Daten über Minderjährige vor Vollendung des 16.
-Lebensjahres in zu ihrer Person geführten Akten und Dateien ist
-unzulässig.
-
-
-## § 7 Berichtigung, Löschung und Sperrung personenbezogener Daten
-
-(1) Der Militärische Abschirmdienst hat die in Dateien gespeicherten
-personenbezogenen Daten zu berichtigen, zu löschen und zu sperren nach
-§ 12 des Bundesverfassungsschutzgesetzes.
-
-(2) Der Militärische Abschirmdienst hat personenbezogene Daten in
-Akten zu berichtigen und zu sperren nach § 13 des
-Bundesverfassungsschutzgesetzes.
+es sei denn, dass nach Eintritt der Volljährigkeit weitere
+Erkenntnisse nach § 1 Absatz 1 oder § 2 angefallen sind. Dies gilt
+nicht, wenn der Betroffene nach § 1 Absatz 3 überprüft wird. Die
+Speicherung personenbezogener Daten über Minderjährige vor Vollendung
+des 16. Lebensjahres in zu ihrer Person geführten Akten und Dateien
+ist unzulässig.
 
 
 ## § 8 Dateianordnungen
@@ -297,16 +328,18 @@ Erfüllung seiner Aufgaben nach § 1 Abs. 1 und 2 erforderlich ist.
 Bundesverfassungsschutzgesetzes jede Behörde um die Übermittlung der
 zur Erfüllung seiner Aufgaben erforderlichen Informationen
 einschließlich personenbezogener Daten ersuchen. Im Rahmen der
-Erfüllung seiner Aufgaben darf er zur Feststellung, ob eine Person dem
-Geschäftsbereich des Bundesministeriums der Verteidigung angehört oder
-in ihm tätig ist, den Familiennamen, den Vornamen, frühere Namen, das
-Geburtsdatum, den Dienstgrad, die Dienststellennummer und das
-Dienstzeitende des Betroffenen aus dem Personalführungs- und
-Informationssystem der Bundeswehr abrufen. Die Verantwortung für den
-einzelnen Abruf trägt der Militärische Abschirmdienst. Das
-Bundesministerium der Verteidigung überprüft die Zulässigkeit der
-Abrufe nur, wenn dazu Anlass besteht. Es regelt in einer
-Dienstvorschrift
+Erfüllung seiner Aufgaben darf er zur jederzeitigen Feststellung, ob
+eine Person dem Geschäftsbereich des Bundesministeriums der
+Verteidigung angehört oder in ihm tätig ist, den Familiennamen, den
+Vornamen, frühere Namen, das Geburtsdatum, die Personenkennziffer oder
+Personalnummer, den Wohnort, weitere Adressmerkmale, das Dienst- oder
+Arbeitsverhältnis, das Eintrittsdatum, die Amtsbezeichnung oder den
+Dienstgrad, die Dienststellennummer und das Dienstzeitende des
+Betroffenen aus dem Personalwirtschaftssystem der Bundeswehr abrufen.
+Die Verantwortung für den einzelnen Abruf trägt der Militärische
+Abschirmdienst. Das Bundesministerium der Verteidigung überprüft die
+Zulässigkeit der Abrufe nur, wenn dazu Anlass besteht. Es regelt in
+einer Dienstvorschrift
 
 1.  den Kreis der zum Abruf berechtigten Angehörigen des Militärischen
     Abschirmdienstes,
@@ -370,11 +403,28 @@ Für die Übermittlung von Informationen nach diesem Gesetz finden die
 Anwendung.
 
 
-## § 13 Geltung des Bundesdatenschutzgesetzes
+## § 12a Unabhängige Datenschutzkontrolle
 
-Bei der Erfüllung der Aufgaben nach § 1 Abs. 1 bis 3, § 2 und § 14
-finden § 3 Abs. 2 und 8 Satz 1, § 4 Abs. 2 und 3, §§ 4b und 4c sowie
-§§ 10 und 13 bis 20 des Bundesdatenschutzgesetzes keine Anwendung.
+§ 26a des Bundesverfassungsschutzgesetzes ist mit der Maßgabe
+entsprechend anzuwenden, dass an die Stelle des Bundesministeriums des
+Innern das Bundesministerium der Verteidigung tritt.
+
+
+## § 13 Anwendung des Bundesdatenschutzgesetzes
+
+Bei der Erfüllung der Aufgaben nach § 1 Absatz 1 bis 3, den §§ 2 und
+14 durch den Militärischen Abschirmdienst findet das
+Bundesdatenschutzgesetz wie folgt Anwendung:
+
+1.  § 1 Absatz 8, die §§ 4, 16 Absatz 1 und 4 und die §§ 17 bis 21 sowie §
+    85 finden keine Anwendung,
+
+
+2.  die §§ 46, 51 Absatz 1 bis 4 und die §§ 52 bis 54, 62, 64, 83, 84 sind
+    entsprechend anzuwenden.
+
+
+
 
 
 ## § 14 Besondere Auslandsverwendungen

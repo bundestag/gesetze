@@ -17,6 +17,9 @@ Ausfertigungsdatum
 Fundstelle
 :   BAnz: 2009, Nr 56, 1327
 
+Geändert durch
+:   Art. 180 G v. 29.3.2017 I 626
+
 
 ## Eingangsformel
 
@@ -419,12 +422,12 @@ Bereitschaftszeit vor einer Ruhezeit.
 
 (1) Innerhalb einer 24-Stunden-Periode ist jedem Besatzungsmitglied
 eine Ruhezeit von mindestens zehn Stunden zu gewähren. Eine
-24-Stunden-Periode              beginnt zu dem Zeitpunkt, an dem eine
-Ruhezeit endet. Die Ruhezeit ist bei einer nach § 9, § 10 oder § 18
-Absatz 1 verlängerten Flugdienstzeit von mehr als 14 Stunden
-unmittelbar nach Beendigung des Flugdienstes zu gewähren. Eine
-Beförderung des Besatzungsmitgliedes vom Einsatzort an seine
-Heimatbasis ohne Anrechnung auf die Ruhezeit ist zulässig.
+24-Stunden-Periode beginnt zu dem Zeitpunkt, an dem eine Ruhezeit
+endet. Die Ruhezeit ist bei einer nach § 9, § 10 oder § 18 Absatz 1
+verlängerten Flugdienstzeit von mehr als 14 Stunden unmittelbar nach
+Beendigung des Flugdienstes zu gewähren. Eine Beförderung des
+Besatzungsmitgliedes vom Einsatzort an seine Heimatbasis ohne
+Anrechnung auf die Ruhezeit ist zulässig.
 
 (2) Die Mindestruhezeit ist nach einem nach § 8 Absatz 2 bis 7, § 9, §
 10 oder § 18 Absatz 1 verlängerten Flugdienst von mehr als elf Stunden
@@ -435,13 +438,13 @@ Stunden zu erhöhen.
 (3) Der Luftfahrtunternehmer hat sicherzustellen, dass die
 Mindestruhezeit nach Absatz 1 und 2 regelmäßig auf eine wöchentliche
 Ruhezeit in Form eines
-36-Stunden-Zeitraums              einschließlich zweier Ortsnächte in
-der Weise ausgedehnt wird, dass zwischen dem Ende einer wöchentlichen
-Ruhezeit und dem Beginn der nächsten nicht mehr als 168 Stunden
-liegen. Bei Vorliegen eines wichtigen Grundes kann die
-Aufsichtsbehörde abweichend von Satz 1 festlegen, dass die zweite
-dieser Ortsnächte um 20 Uhr beginnen kann, wenn die wöchentliche
-Ruhezeit eine Dauer von mindestens 40 Stunden hat.
+36-Stunden-Zeitraums einschließlich zweier Ortsnächte in der Weise
+ausgedehnt wird, dass zwischen dem Ende einer wöchentlichen Ruhezeit
+und dem Beginn der nächsten nicht mehr als 168 Stunden liegen. Bei
+Vorliegen eines wichtigen Grundes kann die Aufsichtsbehörde abweichend
+von Satz 1 festlegen, dass die zweite dieser Ortsnächte um 20 Uhr
+beginnen kann, wenn die wöchentliche Ruhezeit eine Dauer von
+mindestens 40 Stunden hat.
 
 (4) Bei Mindestruhezeiten außerhalb der Heimatbasis muss der
 Luftfahrtunternehmer dafür sorgen, dass die Möglichkeit von acht
@@ -451,9 +454,9 @@ hat an den Orten außerhalb der Heimatbasis, an denen den
 Besatzungsmitgliedern eine Ruhezeit zu gewähren ist, für die
 Bereitstellung ruhig gelegener Räume mit Schlafgelegenheit zu sorgen.
 
-(5) Der Unternehmer hat die Besatzungsmitglieder schriftlich
-anzuweisen, während der Ruhezeit Tätigkeiten zu unterlassen, die dem
-Zweck der Ruhezeit entgegenstehen.
+(5) Der Unternehmer hat die Besatzungsmitglieder schriftlich oder
+elektronisch anzuweisen, während der Ruhezeit Tätigkeiten zu
+unterlassen, die dem Zweck der Ruhezeit entgegenstehen.
 
 
 ### § 16 Ruhezeit – Berücksichtigung von Zeitzonenunterschieden

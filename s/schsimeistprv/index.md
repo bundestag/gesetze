@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 2003, 433
 
 Zuletzt geändert durch
-:   Art. 19 V v. 23.7.2010 I 1010
+:   Art. 44 V v. 26.3.2014 I 274
 
 
 ## Eingangsformel
@@ -1001,9 +1001,13 @@ Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit" vom
 26\.
-März 2003 (BGBl. I S. 433), die zuletzt durch Artikel 19 der
+März 2003 (BGBl. I S. 433), die zuletzt durch Artikel 44 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, bestanden.
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, bestanden.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)
@@ -1030,9 +1034,9 @@ Abschluss
 Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit
 gemäß der Verordnung über die Prüfung zum anerkannten Abschluss
 "Geprüfter Meister/Geprüfte Meisterin für Schutz und Sicherheit" vom
-26\. März 2003 (BGBl. I S. 433), die zuletzt durch Artikel 19 der
+26\. März 2003 (BGBl. I S. 433), die zuletzt durch Artikel 44 der
 Verordnung
-vom 23. Juli 2010 (BGBl. I S. 1010) geändert worden ist, mit folgenden
+vom 26. März 2014 (BGBl. I S. 274) geändert worden ist, mit folgenden
 Ergebnissen 1)
 bestanden:
 Note
@@ -1072,6 +1076,10 @@ Kenntnisse
 durch die Prüfung am .......................... in
 .......................... vor ...............................
 erbracht.
+Dieser Abschluss ist im Deutschen und Europäischen
+Qualifikationsrahmen
+dem Niveau 6 zugeordnet; vergleiche Bekanntmachung vom 1. August 2013
+(BAnz AT 20.11.2013 B2).
 Datum ..........................................
 Unterschrift(en) ...............................
 (Siegel der zuständigen Stelle)

@@ -3,7 +3,7 @@ Title: Internationales Übereinkommen von 1990 über Vorsorge, Bekämpfung und Z
   auf dem Gebiet der Ölverschmutzung
 jurabk: ÖlVerschmÜbk1990
 layout: default
-origslug: _lverschm_bk1990
+origslug: oelverschmuebk1990
 slug: oelverschmuebk1990
 
 ---

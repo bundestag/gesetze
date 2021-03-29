@@ -2,7 +2,7 @@
 Title: Anordnung des Bundespräsidenten über die Festsetzung einer Amtsbezeichnung
 jurabk: BPräsAmtsbezAnO 1986
 layout: default
-origslug: bpr_samtsbezano_1986
+origslug: bpraesamtsbezano_1986
 slug: bpraesamtsbezano_1986
 
 ---

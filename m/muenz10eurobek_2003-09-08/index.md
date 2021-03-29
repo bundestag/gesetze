@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von deutschen Euro-Gedenkmünzen im 
   von 10 Euro (Gedenkmünze "200. Geburtstag des Baumeisters Gottfried Semper")
 jurabk: Münz10EuroBek 2003-09-08
 layout: default
-origslug: m_nz10eurobek_2003-09-08
+origslug: muenz10eurobek_2003-09-08
 slug: muenz10eurobek_2003-09-08
 
 ---

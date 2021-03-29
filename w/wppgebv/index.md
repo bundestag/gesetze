@@ -15,8 +15,14 @@ Ausfertigungsdatum
 Fundstelle
 :   BGBl I: 2005, 1875
 
+V aufgeh. durch
+:   Art. 4 Abs. 53 G v. 18.7.2016 I 1666 mWv 1.10.2021
+
 Zuletzt geändert durch
-:   Art. 4 G v. 26.6.2012 I 1375
+:   Art. 2 G v. 10.7.2018 I 1102
+
+V aufgeh. durch
+:   Art. 4 Abs. 56 G v. 7.8.2013 I 3154 mWv 14.8.2018, Art. 4 Abs. 56 G v. 7.8.2013 I 3154 aufgeh. durch Art 2 G v. 18.7.2016 I 1666 mWv 14.8.2018
 
 
 
@@ -35,17 +41,17 @@ Bundesanstalt für Finanzdienstleistungsaufsicht:
 ## § 1 Anwendungsbereich
 
 Die Bundesanstalt für Finanzdienstleistungsaufsicht erhebt für
-Amtshandlungen nach dem Wertpapierprospektgesetz und nach Rechtsakten
-der Europäischen Union Gebühren nach dieser Verordnung; Auslagen
-werden nicht gesondert erhoben. Im Übrigen gilt das
-Verwaltungskostengesetz.
+individuell zurechenbare öffentliche Leistungen nach dem
+Wertpapierprospektgesetz und nach Rechtsakten der Europäischen Union
+Gebühren nach dieser Verordnung; Auslagen werden nicht gesondert
+erhoben. Im Übrigen gilt das Bundesgebührengesetz.
 
 
 ## § 2 Gebühren
 
-Die gebührenpflichtigen Amtshandlungen und die Gebührensätze bestimmen
-sich vorbehaltlich der Regelungen in § 3 nach dem anliegenden
-Gebührenverzeichnis.
+Die gebührenpflichtigen individuell zurechenbaren öffentlichen
+Leistungen und die Gebührensätze bestimmen sich vorbehaltlich der
+Regelungen in § 3 nach dem anliegenden Gebührenverzeichnis.
 
 
 ## § 3 Gebührenerhebung in besonderen Fällen
@@ -53,14 +59,14 @@ Gebührenverzeichnis.
 (1) (weggefallen)
 
 (2) Für die vollständige oder teilweise Zurückweisung eines
-Widerspruchs wird eine Gebühr bis zur Höhe von 50 Prozent der für die
-angefochtene Amtshandlung festgesetzten Gebühr erhoben; dies gilt
+Widerspruchs wird eine Gebühr bis zur Höhe von 50 Prozent der für den
+angefochtenen Verwaltungsakt festgesetzten Gebühr erhoben; dies gilt
 nicht, wenn der Widerspruch nur deshalb keinen Erfolg hat, weil die
 Verletzung einer Verfahrens- oder Formvorschrift nach § 45 des
-Verwaltungsverfahrensgesetzes unbeachtlich ist. War für die
-angefochtene Amtshandlung eine Gebühr nicht vorgesehen oder wurde eine
-Gebühr nicht erhoben, wird eine Gebühr bis zu 1 500 Euro erhoben. Bei
-einem erfolglosen Widerspruch, der sich ausschließlich gegen eine
+Verwaltungsverfahrensgesetzes unbeachtlich ist. War für den
+angefochtenen Verwaltungsakt eine Gebühr nicht vorgesehen oder wurde
+eine Gebühr nicht erhoben, wird eine Gebühr bis zu 1 500 Euro erhoben.
+Bei einem erfolglosen Widerspruch, der sich ausschließlich gegen eine
 Gebührenentscheidung richtet, beträgt die Gebühr bis zu 10 Prozent des
 streitigen Betrags; Absatz 3 bleibt unberührt. Wird ein Widerspruch
 nach Beginn seiner sachlichen Bearbeitung jedoch vor deren Beendigung
@@ -76,8 +82,9 @@ beträgt in den Fällen der Sätze 1 bis 3 mindestens 50 Euro.
 
 Diese Verordnung tritt am 1. Juli 2005 in Kraft.
 
+(zu § 2)
 
-## Anlage (zu § 2) Gebührenverzeichnis
+## Anlage Gebührenverzeichnis
 
 (Fundstelle: BGBl. I 2010, 1826 - 1827;
 bzgl. der einzelnen Änderungen vgl. Fußnote)
@@ -202,6 +209,24 @@ bzgl. der einzelnen Änderungen vgl. Fußnote)
         auszusetzen ist (§ 26 Abs. 4 Satz 2 WpPG)
 
     *   2 500
+
+
+*    *   14
+
+    *   Gestattung der Veröffentlichung eines Wertpapier-Informationsblatts
+        und für dessen Hinterlegung
+        (§ 3a Absatz 1 und 2 WpPG)
+
+    *   500
+
+
+*    *   15
+
+    *   Für die Hinterlegung eines aktualisierten Wertpapier-
+        Informationsblatts
+        (§ 3a Absatz 8 WpPG)
+
+    *   55
 
 
 

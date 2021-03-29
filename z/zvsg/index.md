@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1993, 1038, 1047
 
 Zuletzt geändert durch
-:   Art. 247 V v. 31.10.2006 I 2407
+:   Art. 22 Abs. 5 G v. 11.11.2016 I 2500
 
 
 ## § 1 Geltungsbereich
@@ -43,7 +43,7 @@ bei mehreren Berechtigten nur von allen Berechtigten ein
 (4) Der Antrag kann nur bis zum 30. Juni 1994 bei dem
 Versorgungsträger gestellt werden und ist unwiderruflich. Die
 Wiedereinsetzung in den vorigen Stand ist ausgeschlossen. Der
-Versorgungsträger teilt der Datenstelle der Rentenversicherungsträger
+Versorgungsträger teilt der Datenstelle der Rentenversicherung
 unverzüglich die Antragstellung mit. Er erfüllt gegenüber den
 Berechtigten die Aufgaben des Leistungsträgers nach § 14 des Ersten
 Buches Sozialgesetzbuch.
@@ -135,14 +135,13 @@ des Kalendermonats, der dem Monat folgt, in dem der Bescheid über die
 neu berechnete Rente bekannt gegeben wird. § 307c des Sechsten Buches
 Sozialgesetzbuch ist anzuwenden. Vom Ablauf des Kalendermonats an, der
 dem Monat folgt, in dem der Versorgungsträger der Datenstelle der
-Rentenversicherungsträger die Meldung nach § 7 Abs. 1 Satz 3 erstattet
-hat, bis zum Beginn der neu berechneten Rente wird ein
-Erhöhungsbetrag, der sich aus Rentenanpassungen nach den Vorschriften
-des Sechsten Buches Sozialgesetzbuch ergibt, an den Berechtigten nicht
-ausgezahlt. Unterschreitet der Monatsbetrag der neu berechneten Rente
-den Monatsbetrag der bisherigen Rente, wird dieser solange
-weitergezahlt, bis die neu berechnete Rente den weiterzuzahlenden
-Betrag erreicht.
+Rentenversicherung die Meldung nach § 7 Abs. 1 Satz 3 erstattet hat,
+bis zum Beginn der neu berechneten Rente wird ein Erhöhungsbetrag, der
+sich aus Rentenanpassungen nach den Vorschriften des Sechsten Buches
+Sozialgesetzbuch ergibt, an den Berechtigten nicht ausgezahlt.
+Unterschreitet der Monatsbetrag der neu berechneten Rente den
+Monatsbetrag der bisherigen Rente, wird dieser solange weitergezahlt,
+bis die neu berechnete Rente den weiterzuzahlenden Betrag erreicht.
 
 (2) Für Berechtigte, deren Rente in der Zeit vom 1. Januar 1993 bis
 zum 1. Juli 1993 begonnen hat, ist Absatz 1 entsprechend anzuwenden.
@@ -233,28 +232,27 @@ Verpflichtung wahr. Dies gilt für die Mitteilung nach § 8 Abs. 2 des
 Anspruchs- und Anwartschaftsüberführungsgesetzes mit der Maßgabe, daß
 die Daten dem zuständigen Rentenversicherungsträger zu übermitteln
 sind. Der Versorgungsträger teilt der Datenstelle der
-Rentenversicherungsträger spätestens bis zum 30. September 1994 die
-für die Gleichstellung nach § 3 Abs. 2, die Neuberechnung nach § 6
-Abs. 4 oder die Rentenberechnung nach § 4 erforderlichen Daten mit. Er
-teilt gleichzeitig auch die Höhe der zum 1. März 1991 zustehenden
-Leistungen nach dem Pensionsstatut mit. Der Versorgungsträger teilt
-spätestens bis zum 30. Juni 1995 die für die Gleichstellung nach § 3
-Abs. 3 erforderlichen Daten einer Zahlung oder einer Teilzahlung und
-den Zeitpunkt ihrer Beendigung mit; er teilt die übrigen Daten
-spätestens bis zum 30. Juni 1996 mit. § 8 Abs. 1 Satz 5 des Anspruchs-
-und Anwartschaftsüberführungsgesetzes gilt. Der Versorgungsträger
-teilt dem Bundesversicherungsamt unverzüglich die Höhe des
-Abtretungsbetrags nach § 3 Abs. 2, den Zeitpunkt der Wirksamkeit der
-Abtretung, die Höhe der nach § 6 Abs. 3 zustehenden Leistung sowie die
-Höhe des Abfindungsbetrags nach § 3 Abs. 3 und dessen Zahlung oder
-Teilzahlung mit.
+Rentenversicherung spätestens bis zum 30. September 1994 die für die
+Gleichstellung nach § 3 Abs. 2, die Neuberechnung nach § 6 Abs. 4 oder
+die Rentenberechnung nach § 4 erforderlichen Daten mit. Er teilt
+gleichzeitig auch die Höhe der zum 1. März 1991 zustehenden Leistungen
+nach dem Pensionsstatut mit. Der Versorgungsträger teilt spätestens
+bis zum 30. Juni 1995 die für die Gleichstellung nach § 3 Abs. 3
+erforderlichen Daten einer Zahlung oder einer Teilzahlung und den
+Zeitpunkt ihrer Beendigung mit; er teilt die übrigen Daten spätestens
+bis zum 30. Juni 1996 mit. § 8 Abs. 1 Satz 5 des Anspruchs- und
+Anwartschaftsüberführungsgesetzes gilt. Der Versorgungsträger teilt
+dem Bundesversicherungsamt unverzüglich die Höhe des Abtretungsbetrags
+nach § 3 Abs. 2, den Zeitpunkt der Wirksamkeit der Abtretung, die Höhe
+der nach § 6 Abs. 3 zustehenden Leistung sowie die Höhe des
+Abfindungsbetrags nach § 3 Abs. 3 und dessen Zahlung oder Teilzahlung
+mit.
 
-(2) Die Datenstelle der Rentenversicherungsträger stellt den
-zuständigen Rentenversicherungsträger fest, teilt ihn dem
-Versorgungsträger mit und übermittelt dem zuständigen
-Rentenversicherungsträger die ihr vom Versorgungsträger für die
-Feststellung von Leistungen nach diesem Gesetz zur Verfügung
-gestellten Daten.
+(2) Die Datenstelle der Rentenversicherung stellt den zuständigen
+Rentenversicherungsträger fest, teilt ihn dem Versorgungsträger mit
+und übermittelt dem zuständigen Rentenversicherungsträger die ihr vom
+Versorgungsträger für die Feststellung von Leistungen nach diesem
+Gesetz zur Verfügung gestellten Daten.
 
 (3) Der zuständige Rentenversicherungsträger teilt dem
 Versorgungsträger den Beginn des Kalendermonats mit, in dem die

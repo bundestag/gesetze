@@ -471,8 +471,9 @@ Der wasserlösliche Anteil (Abdampfrückstand) soll 3 Masse-% nicht
 
 
 
+(zu § 4 Abs. 4)
 
-## Anlage 3 (zu § 4 Abs. 4) Probenahme und Analytik
+## Anlage 3 Probenahme und Analytik
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2837 - 2838
 
@@ -1241,8 +1242,9 @@ verwiesen wird, sind im Beuth-Verlag GmbH, Berlin und Köln, erschienen
 und beim Deutschen Patentamt in München archivmäßig gesichert
 niedergelegt.
 
+(zu § 4 Abs. 3 Satz 2)
 
-## Anlage 4 (zu § 4 Abs. 3 Satz 2) Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
+## Anlage 4 Hinweise zur Durchführung des Langzeitsicherheitsnachweises im Rahmen der standortbezogenen Sicherheitsbeurteilung für Bergwerke im Salzgestein, die Abfälle verwerten
 
 Fundstelle des Originaltextes: BGBl. I 2002, 2843 - 2847;
 bzgl. der einzelnen Änderungen vgl. Fußnote
@@ -1469,35 +1471,35 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
         -   Sicherheit
 
-            \*  Standsicherheit der Schächte, Strecken, Blindschächte und Abbauräume
+            *   Standsicherheit der Schächte, Strecken, Blindschächte und Abbauräume
 
 
-            \*  Ggf. Firstfälle, Stoßabschalungen und Liegendaufbrüche im Bereich des
+            *   Ggf. Firstfälle, Stoßabschalungen und Liegendaufbrüche im Bereich des
                 Grubenfeldes
 
 
-            \*  Ggf. Lösungszuflüsse (Orte, Mengen je Zeiteinheit, Auftreten,
+            *   Ggf. Lösungszuflüsse (Orte, Mengen je Zeiteinheit, Auftreten,
                 Temperatur/Dichte, gesättigt/ungesättigt, pH-Wert/chemische Analyse,
                 Auswirkungen auf Grubenbetrieb, ggf. einzelne Grubenteile), Ursache
                 und Herkunft
 
 
-            \*  Ggf. Gasfreisetzung/-gefährdung (Ort, Menge, Zusammensetzung, Ursache)
+            *   Ggf. Gasfreisetzung/-gefährdung (Ort, Menge, Zusammensetzung, Ursache)
 
 
-            \*  Ggf. Erdöl-/Erdgasvorkommen (im Innern oder im Salzhang/Flankenbereich
+            *   Ggf. Erdöl-/Erdgasvorkommen (im Innern oder im Salzhang/Flankenbereich
                 von Salzlagerstätten)
 
 
-            \*  Sicherheitspfeiler zu Deckgebirge/Flanken/Basis/Lösungsnestern/Bohrung
+            *   Sicherheitspfeiler zu Deckgebirge/Flanken/Basis/Lösungsnestern/Bohrung
                 en/Schächten/Nachbarbergwerken
 
 
-            \*  Vorhandene Erkundungsbohrungen von über Tage und unter Tage (siehe
+            *   Vorhandene Erkundungsbohrungen von über Tage und unter Tage (siehe
                 auch 2.2.1)
 
 
-            \*  Abgedämmte bzw. abzudämmende Teile des Grubengebäudes.
+            *   Abgedämmte bzw. abzudämmende Teile des Grubengebäudes.
 
 
 
@@ -1547,13 +1549,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
         -   Reaktionsverhalten der Abfälle im Falle des Zutritts von Wasser und
             salinaren Lösungen
 
-            \*  Löslichkeitsverhalten
+            *   Löslichkeitsverhalten
 
 
-            \*  Gasentwicklung bei erhöhter Temperatur unter Tage
+            *   Gasentwicklung bei erhöhter Temperatur unter Tage
 
 
-            \*  Wechselwirkungen untereinander oder mit dem Wirtsgestein.
+            *   Wechselwirkungen untereinander oder mit dem Wirtsgestein.
 
 
 
@@ -1758,13 +1760,13 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
         -   Natürlich bedingte Ereignisse
 
-            \*  Diapirismus und Subrosion
+            *   Diapirismus und Subrosion
 
 
-            \*  Erdbeben
+            *   Erdbeben
 
 
-            \*  Vulkanismus
+            *   Vulkanismus
 
 
 
@@ -1772,22 +1774,22 @@ bzgl. der einzelnen Änderungen vgl. Fußnote
 
         -   Technisch bedingte Ereignisse und Prozesse
 
-            \*  Undichtwerden von Erkundungsbohrungen
+            *   Undichtwerden von Erkundungsbohrungen
 
 
-            \*  Wassereinbruch während der Betriebsphase, z. B. über die Schächte
+            *   Wassereinbruch während der Betriebsphase, z. B. über die Schächte
 
 
-            \*  Laugeneinbruch während der Betriebsphase
+            *   Laugeneinbruch während der Betriebsphase
 
 
-            \*  Versagen der Schachtverschlüsse
+            *   Versagen der Schachtverschlüsse
 
 
-            \*  Bergbaubedingte Gebirgsauflockerungen
+            *   Bergbaubedingte Gebirgsauflockerungen
 
 
-            \*  Bohrungen oder sonstige Eingriffe in der Nachbetriebsphase.
+            *   Bohrungen oder sonstige Eingriffe in der Nachbetriebsphase.
 
 
 

@@ -20,20 +20,19 @@ Neugefasst durch
 :   Bek. v. 26.8.1985 I 1756;
 
 Zuletzt geändert durch
-:   Art. 10 G v. 1.11.2011 I 2131
+:   Art. 412 V v. 31.8.2015 I 1474
 
 
 ## § 1 Beschränkung des ordentlichen Holzeinschlags
 
-(1) Das Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates den ordentlichen
-Holzeinschlag der Forstwirtschaft für einzelne Holzartengruppen
-(Fichte, Kiefer, Buche, Eiche) oder Holzsorten zu beschränken, wenn
-und soweit dies erforderlich ist, um erhebliche und überregionale
-Störungen des Rohholzmarktes durch außerordentliche Holznutzungen zu
-vermeiden, die infolge eines oder mehrerer besonderer
+(1) Das Bundesministerium für Ernährung und Landwirtschaft wird
+ermächtigt, im Einvernehmen mit dem Bundesministerium für Wirtschaft
+und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates den
+ordentlichen Holzeinschlag der Forstwirtschaft für einzelne
+Holzartengruppen (Fichte, Kiefer, Buche, Eiche) oder Holzsorten zu
+beschränken, wenn und soweit dies erforderlich ist, um erhebliche und
+überregionale Störungen des Rohholzmarktes durch außerordentliche
+Holznutzungen zu vermeiden, die infolge eines oder mehrerer besonderer
 Schadensereignisse, insbesondere Windwurf und Windbruch, Schnee- und
 Eisbruch, Pilzbefall, Insektenfraß oder sonstige Schädigungen auch
 unbekannter Ursache (Kalamitätsnutzungen), erforderlich werden.

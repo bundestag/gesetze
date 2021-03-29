@@ -3,7 +3,7 @@ Title: Zusatzübereinkommen zum Pariser Übereinkommen vom 29. Juli 1960 über d
   gegenüber Dritten auf dem Gebiet der Kernenergie
 jurabk: AtHaftÜbkZÜbk
 layout: default
-origslug: athaft_bkz_bk
+origslug: athaftuebkzuebk
 slug: athaftuebkzuebk
 
 ---

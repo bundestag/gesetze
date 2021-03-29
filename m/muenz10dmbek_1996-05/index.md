@@ -4,7 +4,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   in Elberfeld/das Lebenswerk von Adolph Kolping)
 jurabk: Münz10DMBek 1996-05
 layout: default
-origslug: m_nz10dmbek_1996-05
+origslug: muenz10dmbek_1996-05
 slug: muenz10dmbek_1996-05
 
 ---

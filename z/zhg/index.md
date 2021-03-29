@@ -16,10 +16,10 @@ Fundstelle
 :   BGBl I: 1952, 221
 
 Neugefasst durch
-:   Bek. v. 16.4.1987 I 1225
+:   Bek. v. 16.4.1987 I 1225;
 
 Zuletzt geändert durch
-:   Art. 33 G v. 6.12.2011 I 2515
+:   Art. 7 G v. 23.12.2016 I 3191
 
 
 ## I. - Die Approbation als Zahnarzt
@@ -104,9 +104,10 @@ Antragsteller
     ist,
 
 
-4.  nach einem mindestens fünfjährigen Studium der Zahnheilkunde an einer
-    wissenschaftlichen Hochschule die zahnärztliche Prüfung im
-    Geltungsbereich dieses Gesetzes bestanden hat,
+4.  nach einem Studium der Zahnheilkunde an einer wissenschaftlichen
+    Hochschule von mindestens 5 000 Stunden und einer Dauer von mindestens
+    fünf Jahren die zahnärztliche Prüfung im Geltungsbereich dieses
+    Gesetzes bestanden hat,
 
 
 5.  über die für die Ausübung der Berufstätigkeit erforderlichen
@@ -120,10 +121,11 @@ Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die
 Europäische Gemeinschaft oder Deutschland und die Europäische Union
 vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
 abgeschlossene zahnärztliche Ausbildung gilt als Ausbildung im Sinne
-der Nummer 4, wenn sie durch Vorlage eines nach dem 27. Januar 1980
-ausgestellten, in der Anlage zu diesem Gesetz aufgeführten
-zahnärztlichen Ausbildungsnachweises eines der übrigen Mitgliedstaaten
-der Europäischen Union oder eines in der Anlage zu diesem Gesetz
+der Nummer 4, wenn sie durch Vorlage eines Europäischen
+Berufsausweises, eines nach dem 27. Januar 1980 ausgestellten, in der
+Anlage zu diesem Gesetz aufgeführten zahnärztlichen
+Ausbildungsnachweises eines der übrigen Mitgliedstaaten der
+Europäischen Union oder eines in der Anlage zu diesem Gesetz
 aufgeführten, nach dem 31. Dezember 1992 ausgestellten zahnärztlichen
 Ausbildungsnachweises eines anderen Vertragsstaates des Abkommens über
 den Europäischen Wirtschaftsraum oder eines nach dem hierfür
@@ -177,12 +179,18 @@ Bescheinigung der zuständigen Behörde oder Stelle dieses Staates
 darüber vorgelegt werden, daß sie eine Ausbildung abschließen, die den
 Mindestanforderungen des Artikels 34 der Richtlinie 2005/36/EG
 entspricht, und daß sie den für diesen Staat in der Anlage zu Satz 2
-aufgeführten Nachweisen gleichstehen. Eine Approbation wird nicht
-erteilt, wenn die naturwissenschaftliche Vorprüfung, die zahnärztliche
-Vorprüfung oder die zahnärztliche Prüfung nach der Rechtsverordnung
-gemäß § 3 Abs. 1 endgültig nicht bestanden wurde. Satz 7 findet keine
-Anwendung, wenn der Antragsteller einen nach der Richtlinie 2005/36/EG
-anzuerkennenden Ausbildungsnachweis besitzt.
+aufgeführten Nachweisen gleichstehen. Die in den Sätzen 2 und 3
+genannten Ausbildungsnachweise gelten auch dann als Nachweis einer
+abgeschlossenen zahnärztlichen Ausbildung im Sinne des Satzes 1 Nummer
+4, wenn die Ausbildung aus einer Dauer von mindestens fünf Jahren und
+weniger als 5 000 Stunden theoretischer und praktischer Ausbildung auf
+Vollzeitbasis bestand, sofern die Antragsteller diese Ausbildung
+spätestens am 18. Januar 2016 begonnen haben. Eine Approbation wird
+nicht erteilt, wenn die naturwissenschaftliche Vorprüfung, die
+zahnärztliche Vorprüfung oder die zahnärztliche Prüfung nach der
+Rechtsverordnung gemäß § 3 Abs. 1 endgültig nicht bestanden wurde.
+Satz 8 findet keine Anwendung, wenn der Antragsteller einen nach der
+Richtlinie 2005/36/EG anzuerkennenden Ausbildungsnachweis besitzt.
 
 (1a) Die zuständigen Behörden des Landes, in dem der zahnärztliche
 Beruf ausgeübt wird oder zuletzt ausgeübt worden ist, unterrichten die
@@ -225,46 +233,47 @@ ist. Der Ausbildungsstand ist als gleichwertig anzusehen, wenn die
 Ausbildung des Antragstellers keine wesentlichen Unterschiede
 gegenüber der Ausbildung aufweist, die in diesem Gesetz und in der
 Rechtsverordnung nach § 3 Absatz 1 geregelt ist. Wesentliche
-Unterschiede nach Satz 1 liegen vor, wenn
+Unterschiede nach Satz 2 liegen vor, wenn
 
-1.  die von den Antragstellern nachgewiesene Ausbildungsdauer mindestens
-    ein Jahr unter der in diesem Gesetz geregelten Ausbildungsdauer liegt,
-
-
-2.  die Ausbildung der Antragsteller sich auf Fächer bezieht, die sich
-    wesentlich von der deutschen Ausbildung unterscheiden, oder
+1.  die Ausbildung der Antragsteller hinsichtlich der beruflichen
+    Tätigkeit Fächer umfasst, die sich wesentlich von der deutschen
+    Ausbildung unterscheiden, oder
 
 
-3.  der Beruf des Zahnarztes eine oder mehrere reglementierte Tätigkeiten
+2.  der Beruf des Zahnarztes eine oder mehrere reglementierte Tätigkeiten
     umfasst, die in dem Staat, der den Ausbildungsnachweis ausgestellt
-    hat, nicht Bestandteil dieses Berufs sind, und dieser Unterschied in
-    einer besonderen Ausbildung besteht, die nach der deutschen Ausbildung
-    gefordert wird und sich auf Fächer bezieht, die sich wesentlich von
-    denen unterscheiden, die von dem Ausbildungsnachweis abgedeckt werden,
-    den die Antragsteller vorlegen.
+    hat, nicht Bestandteil des Berufs des Zahnarztes sind, und die
+    deutsche Ausbildung Fächer umfasst, die sich wesentlich von denen
+    unterscheiden, die von dem Ausbildungsnachweis der Antragsteller
+    abgedeckt werden.
 
 
 
-Fächer unterscheiden sich wesentlich, wenn deren Kenntnis eine
-wesentliche Voraussetzung für die Ausübung des Berufs ist und die
-Ausbildung der Antragsteller gegenüber der deutschen Ausbildung
-bedeutende Abweichungen hinsichtlich Dauer oder Inhalt aufweist.
-Wesentliche Unterschiede können ganz oder teilweise durch Kenntnisse
-ausgeglichen werden, die die Antragsteller im Rahmen ihrer ärztlichen
-Berufspraxis erworben haben; dabei ist es nicht entscheidend, in
-welchem Staat die Antragsteller berufstätig waren. Liegen wesentliche
+Fächer unterscheiden sich wesentlich, bei denen Kenntnis und
+Fähigkeiten eine wesentliche Voraussetzung für die Ausübung des Berufs
+sind und bei denen die Ausbildung der Antragsteller gegenüber der
+deutschen Ausbildung wesentliche Abweichungen hinsichtlich des Inhalts
+aufweist. Wesentliche Unterschiede können ganz oder teilweise durch
+Kenntnisse und Fähigkeiten ausgeglichen werden, die die Antragsteller
+im Rahmen ihrer zahnärztlichen Berufspraxis in Voll- oder Teilzeit
+oder durch lebenslanges Lernen erworben haben, sofern die durch
+lebenslanges Lernen erworbenen Kenntnisse und Fähigkeiten von einer
+dafür in dem jeweiligen Staat zuständigen Stelle formell als gültig
+anerkannt wurden; dabei ist nicht entscheidend, in welchem Staat diese
+Kenntnisse und Fähigkeiten erworben worden sind. Liegen wesentliche
 Unterschiede nach den Sätzen 3 bis 5 vor, müssen die Antragsteller
 nachweisen, dass sie über die Kenntnisse und Fähigkeiten verfügen, die
 zur Ausübung des Berufs des Zahnarztes erforderlich sind. Dieser
 Nachweis ist durch eine Eignungsprüfung zu erbringen, die sich auf die
 festgestellten wesentlichen Unterschiede bezieht. Über die
-Feststellung der wesentlichen Unterschiede ist den Antragstellern
-spätestens vier Monate, nachdem der zuständigen Behörde alle
-erforderlichen Unterlagen vorliegen, ein rechtsmittelfähiger Bescheid
-zu erteilen. Die Sätze 2 bis 8 gelten auch für Antragsteller, die über
-einen Ausbildungsnachweis als Zahnarzt verfügen, der in einem anderen
-als den in Satz 1 genannten Staaten (Drittland) ausgestellt ist und
-ein anderer der in Satz 1 genannten Staaten diesen Ausbildungsnachweis
+Feststellung der wesentlichen Unterschiede, die zur Auferlegung einer
+Eignungsprüfung führt, ist den Antragstellern spätestens vier Monate,
+nachdem der zuständigen Behörde alle erforderlichen Unterlagen
+vorliegen, ein rechtsmittelfähiger Bescheid zu erteilen. Die Sätze 2
+bis 8 gelten auch für Antragsteller, die über einen
+Ausbildungsnachweis als Zahnarzt verfügen, der in einem anderen als
+den in Satz 1 genannten Staaten (Drittland) ausgestellt ist und ein
+anderer der in Satz 1 genannten Staaten diesen Ausbildungsnachweis
 anerkannt hat.
 
 (3) Ist die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 nicht
@@ -282,6 +291,15 @@ Antrags nur mit unangemessenem zeitlichen oder sachlichen Aufwand
 möglich ist, weil die erforderlichen Unterlagen und Nachweise aus
 Gründen, die nicht in der Person der Antragsteller liegen, von diesen
 nicht vorgelegt werden können.
+
+(3a) Wird die Voraussetzung des Absatzes 1 Satz 1 Nummer 4 auf eine
+Ausbildung gestützt, die außerhalb des Geltungsbereichs dieses
+Gesetzes abgeschlossen worden ist, sollen die Voraussetzungen der
+Gleichwertigkeit der Berufsqualifikation nach den Absätzen 2 oder 3
+vor den Voraussetzungen nach Absatz 1 Satz 1 Nummer 2, 3 und 5 geprüft
+werden. Auf Antrag ist dem Antragsteller ein gesonderter Bescheid über
+die Feststellung der Gleichwertigkeit seiner Berufsqualifikation zu
+erteilen.
 
 (4) Soll die Erteilung der Approbation wegen Fehlens einer der
 Voraussetzungen nach Absatz 1 Satz 1 Nr. 2 und 3 abgelehnt werden, so
@@ -390,6 +408,13 @@ Unterlagen und Bescheinigungen vorzulegen:
 
 
 
+Haben die zuständigen Behörden berechtigte Zweifel an der Berechtigung
+des Antragstellers zur Ausübung des zahnärztlichen Berufs, können sie
+von den zuständigen Behörden eines Mitgliedstaates eine Bestätigung
+verlangen, aus der sich ergibt, dass dem Antragsteller die Ausübung
+des zahnärztlichen Berufs nicht aufgrund eines schwerwiegenden
+standeswidrigen Verhaltens oder einer Verurteilung wegen strafbarer
+Handlungen dauerhaft oder vorübergehend untersagt worden ist.
 
 (7) Das Berufsqualifikationsfeststellungsgesetz findet mit Ausnahme
 des § 17 keine Anwendung.
@@ -414,11 +439,12 @@ Hochschulausbildungen und Prüfungen, die innerhalb oder außerhalb des
 Geltungsbereichs dieses Gesetzes abgelegt werden, zu regeln.
 
 (2) In der Rechtsverordnung sind die Verfahren zur Prüfung der
-Voraussetzungen des § 2 Absatz 1 Satz 1 Nummer 2 und 3 sowie die
-Fristen für die Erteilung der Approbation als Zahnarzt zu regeln,
-insbesondere die Vorlage der vom Antragsteller vorzulegenden Nachweise
-und die Ermittlung durch die zuständigen Behörden entsprechend den
-Artikeln 8, 50, 51 und 56 der Richtlinie 2005/36/EG.
+Voraussetzungen des § 2 Absatz 1 Satz 1 Nummer 2 und 3, insbesondere
+die Vorlage der vom Antragsteller vorzulegenden Nachweise und die
+Ermittlung durch die zuständigen Behörden entsprechend den Artikeln 8,
+50, 51 und 56 der Richtlinie 2005/36/EG, die Fristen für die Erteilung
+der Approbation als Zahnarzt und die Ausstellung eines Europäischen
+Berufsausweises zu regeln.
 
 (2a) In der Rechtsverordnung sind Regelungen zu Durchführung und
 Inhalt der Eignungsprüfung nach § 2 Absatz 2 und der Kenntnisprüfung
@@ -428,6 +454,127 @@ Berufserlaubnis nach § 13 vorzusehen.
 (3) Abweichungen von den in den Absätzen 1 und 2 sowie der auf dieser
 Grundlage erlassenen Rechtsverordnung enthaltenen Regelungen des
 Verwaltungsverfahrens durch Landesrecht sind ausgeschlossen.
+
+
+### § 3a
+
+(1) Zur Anpassung des Studiums der Zahnmedizin an die fachliche
+Weiterentwicklung der Zahnmedizin kann eine Hochschule bei der nach
+Landesrecht zuständigen Stelle die Zulassung eines Modellstudiengangs
+beantragen.
+
+(2) Im Rahmen des Modellstudiengangs kann von den Vorgaben der
+Approbationsordnung für Zahnärzte dahingehend abgewichen werden, dass
+
+1.  als staatliche Prüfung nach § 2 Satz 1 Nummer 2 der
+    Approbationsordnung für Zahnärzte lediglich die zahnärztliche Prüfung
+    abzulegen ist und diese Prüfung frühestens nach einem Studium der
+    Zahnheilkunde von zehn Semestern erfolgt,
+
+
+2.  in das in § 26 Absatz 4 Buchstabe b, § 28 Absatz 1 und 5 und § 61
+    Absatz 2 Buchstabe b und Absatz 3 Satz 1 der Approbationsordnung für
+    Zahnärzte genannte Fach Zahnersatzkunde neben prothetischen Inhalten
+    auch Inhalte der gesamten Zahnheilkunde aufgenommen werden und
+
+
+3.  der Nachweis nach § 36 Absatz 1 Buchstabe c der Approbationsordnung
+    für Zahnärzte, dass der Kandidat je zwei Semester als Praktikant den
+    Kursus und die Poliklinik der Zahnerhaltungskunde und den Kursus und
+    die Poliklinik der Zahnersatzkunde regelmäßig und mit Erfolg besucht
+    hat, durch den Nachweis ersetzt wird, dass der Kandidat vier Semester
+    Zahnerhaltungs- und Zahnersatzkunde integrierende Behandlungskurse
+    regelmäßig und mit Erfolg besucht hat.
+
+
+
+
+(3) Die Zulassung als Modellstudiengang setzt voraus, dass
+
+1.  das Reformziel beschrieben wird und erkennen lässt, welche
+    qualitativen Verbesserungen für die zahnmedizinische Ausbildung vom
+    Modellstudiengang erwartet werden,
+
+
+2.  eine von der Hochschule zu erlassende besondere Studien- und
+    Prüfungsordnung besteht,
+
+
+3.  sichergestellt ist, dass die Kenntnisse, Fähigkeiten und Fertigkeiten,
+    die in der naturwissenschaftlichen und in der zahnärztlichen
+    Vorprüfung nach § 2 Satz 1 Nummer 2 Buchstabe a und b der
+    Approbationsordnung für Zahnärzte nachzuweisen sind, im
+    Modellstudiengang in einer dem Regelstudiengang gleichwertigen Weise
+    geprüft werden und diese Prüfung spätestens vor der Teilnahme an dem
+    Operationskursus und dem Kursus der kieferorthopädischen Behandlung
+    nach § 36 Absatz 1 Buchstabe b der Approbationsordnung für Zahnärzte
+    und vor dem Besuch der in Absatz 2 Nummer 3 genannten
+    Lehrveranstaltungen erfolgt,
+
+
+4.  eine sachgerechte begleitende und abschließende Evaluation des
+    Modellstudiengangs in Bezug auf die qualitativen Verbesserungen für
+    die zahnmedizinische Ausbildung gewährleistet ist,
+
+
+5.  Mindest- und Höchstdauer der Laufzeit des Modellstudiengangs
+    festgelegt sind und Verlängerungsanträge anhand von
+    Evaluationsergebnissen zu begründen sind,
+
+
+6.  die Freiwilligkeit der Teilnahme und ein dem Regelstudiengang
+    entsprechender gleichberechtigter Zugang zum Modellstudiengang
+    gewährleistet sind,
+
+
+7.  die Voraussetzungen, unter denen die Hochschule den Modellstudiengang
+    abbrechen kann, benannt sind,
+
+
+8.  geregelt ist, wie beim Übergang vom Modellstudiengang in den
+    Regelstudiengang hinsichtlich des Weiterstudiums, der Anrechnung von
+    Studienzeiten und Prüfungen und anderen Studienleistungen verfahren
+    wird,
+
+
+9.  festgelegt ist, wie die Anforderungen, die in den §§ 14, 19 Absatz 3,
+    § 21 Absatz 1 und 2, § 24 Absatz 1, § 26 Absatz 4 und den §§ 28 und 31
+    Absatz 2 der Approbationsordnung für Zahnärzte beschrieben sind, im
+    Modellstudiengang erfüllt werden.
+
+
+
+Liegt bei einem Modellstudiengang eine Abweichung nach Absatz 2 Nummer
+2 vor, so müssen im Fach Zahnersatzkunde die Prüfungen nach Satz 1
+Nummer 3 und 9 neben den prothetischen Inhalten auch die in der Lehre
+vermittelten Inhalte der gesamten Zahnheilkunde umfassen.
+
+(4) Die Zulassung als Modellstudiengang kann befristet erteilt und mit
+Auflagen versehen werden.
+
+(5) Für die Prüfungen im Modellstudiengang nach Absatz 3 Satz 1 Nummer
+3 und 9 gelten § 22 Absatz 5 und § 30 Absatz 2 der Approbationsordnung
+für Zahnärzte entsprechend. Hat der Studierende in einem
+Regelstudiengang die naturwissenschaftliche oder die zahnärztliche
+Vorprüfung nach § 2 Satz 1 Nummer 2 Buchstabe a und b der
+Approbationsordnung für Zahnärzte endgültig nicht bestanden, ist das
+Ablegen der entsprechenden Prüfungen nach Satz 1 im Modellstudiengang
+nicht zulässig. Hat der Studierende die entsprechenden Prüfungen nach
+Satz 1 im Modellstudiengang endgültig nicht bestanden, ist das Ablegen
+der naturwissenschaftlichen oder der zahnärztlichen Vorprüfung nach §
+2 Satz 1 Nummer 2 Buchstabe a und b der Approbationsordnung für
+Zahnärzte nicht zulässig.
+
+(6) Studierende des Modellstudiengangs haben dem Gesuch um Zulassung
+zur Abschlussprüfung die in § 19 Absatz 2 und 3 und § 26 Absatz 2 bis
+4 der Approbationsordnung für Zahnärzte genannten Nachweise
+beizufügen.
+
+(7) Die nach Landesrecht zuständige Stelle informiert das
+Bundesministerium für Gesundheit nach Erteilung der Zulassung eines
+Modellstudiengangs hierüber einschließlich der Angaben nach Absatz 3
+Satz 1 Nummer 1, 2, 3, 5 und 9 sowie über die Evaluationsergebnisse
+nach Absatz 3 Satz 1 Nummer 4, sobald diese vorliegen.
 
 
 ### § 4
@@ -517,6 +664,108 @@ der Approbation gestellt hat, kann die Entscheidung über diesen Antrag
 zurückgestellt und zunächst eine Erlaubnis zur Ausübung des
 zahnärztlichen Berufs nach § 13 Abs. 1 bis zu einer Dauer von zwei
 Jahren erteilt werden.
+
+
+### § 7b
+
+(1) Die jeweils zuständige Stelle unterrichtet die zuständigen
+Behörden der anderen Mitgliedstaaten der Europäischen Union, der
+anderen Vertragsstaaten des Abkommens über den Europäischen
+Wirtschaftsraum und der Schweiz über
+
+1.  den Widerruf, die Rücknahme oder das Ruhen der Approbation oder der
+    Erlaubnis, die sofort vollziehbar oder unanfechtbar sind,
+
+
+2.  die sofort vollziehbare oder unanfechtbare Einschränkung der Ausübung
+    des zahnärztlichen Berufs,
+
+
+3.  den Verzicht auf die Approbation oder die Erlaubnis,
+
+
+4.  das Verbot der Ausübung des zahnärztlichen Berufs durch unanfechtbare
+    gerichtliche Entscheidung oder
+
+
+5.  das vorläufige Berufsverbot durch gerichtliche Entscheidung.
+
+
+
+
+(2) Die Mitteilung nach Absatz 1 (Warnmitteilung) enthält folgende
+Angaben:
+
+1.  die zur Identifizierung der betroffenen Person erforderlichen Angaben,
+    insbesondere Name, Vorname, Geburtsdatum und Geburtsort,
+
+
+2.  Beruf der betroffenen Person,
+
+
+3.  Angaben über die Behörde oder das Gericht, die oder das die
+    Entscheidung getroffen hat,
+
+
+4.  Umfang der Entscheidung oder des Verzichts und
+
+
+5.  Zeitraum, in dem die Entscheidung oder der Verzicht gilt.
+
+
+
+Die Warnmitteilung erfolgt unverzüglich, spätestens jedoch drei Tage
+nach Eintritt der Unanfechtbarkeit einer Entscheidung nach Absatz 1
+Nummer 1, 2 oder Nummer 4, nach Bekanntgabe einer Entscheidung nach
+Absatz 1 Nummer 5 oder nach einem Verzicht nach Absatz 1 Nummer 3. Sie
+ist über das durch die Verordnung (EU) Nr. 1024/2012 des Europäischen
+Parlaments und des Rates vom 25. Oktober 2012 über die
+Verwaltungszusammenarbeit mit Hilfe des Binnenmarkt-
+Informationssystems und zur Aufhebung der Entscheidung 2008/49/EG der
+Kommission (ABl. L 316 vom 14.11.2012, S. 1) eingerichtete
+Binnenmarkt-Informationssystem (IMI) zu übermitteln. Zeitgleich mit
+der Warnmitteilung unterrichtet die Stelle, die die Warnmitteilung
+getätigt hat, die betroffene Person über die Warnmitteilung und deren
+Inhalt schriftlich unter Beifügung einer Rechtsbehelfsbelehrung. Wird
+ein Rechtsbehelf gegen die Warnmitteilung eingelegt, ergänzt die
+Stelle, die die Warnmitteilung getätigt hat, die Warnmitteilung um
+einen entsprechenden Hinweis.
+
+(3) Im Fall der Aufhebung einer in Absatz 1 genannten Entscheidung
+oder eines Widerrufs des Verzichts unterrichtet jeweils die zuständige
+Stelle die zuständigen Behörden der anderen Mitgliedstaaten der
+Europäischen Union, der anderen Vertragsstaaten des Abkommens über den
+Europäischen Wirtschaftsraum und der Schweiz unverzüglich unter Angabe
+des Datums über die Aufhebung der Entscheidung oder den Widerruf des
+Verzichts. Die zuständige Stelle unterrichtet die zuständigen Behörden
+der anderen Mitgliedstaaten der Europäischen Union, der anderen
+Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum
+und der Schweiz ebenfalls unverzüglich über jede Änderung des nach
+Absatz 2 Satz 1 Nummer 5 angegebenen Zeitraums. Die zuständige Stelle
+löscht Warnmitteilungen nach Absatz 1 im IMI unverzüglich, spätestens
+jedoch drei Tage nach Aufhebung der Entscheidung oder Widerruf des
+Verzichts.
+
+(4) Wird gerichtlich festgestellt, dass eine Person, die die Erteilung
+der Approbation oder die Feststellung der Gleichwertigkeit ihrer
+Berufsqualifikation nach diesem Gesetz beantragt hat, dabei gefälschte
+Berufsqualifikationsnachweise verwendet hat, unterrichtet die
+zuständige Stelle die zuständigen Behörden der anderen Mitgliedstaaten
+der Europäischen Union, der anderen Vertragsstaaten des Abkommens über
+den Europäischen Wirtschaftsraum und der Schweiz über die Identität
+dieser Person, insbesondere über Name, Vorname, Geburtsdatum und
+Geburtsort, und den Umstand, dass diese Person gefälschte
+Berufsqualifikationsnachweise verwendet hat. Die Unterrichtung erfolgt
+unverzüglich, spätestens jedoch drei Tage nach Unanfechtbarkeit der
+Feststellung über das IMI. Absatz 2 Satz 4 und 5 gilt für die
+Unterrichtung nach Satz 1 entsprechend.
+
+(5) Ergänzend zu den Absätzen 1 bis 4 ist die Durchführungsverordnung
+(EU) 2015/983 der Kommission vom 24. Juni 2015 betreffend das
+Verfahren zur Ausstellung des Europäischen Berufsausweises und die
+Anwendung des Vorwarnmechanismus gemäß der Richtlinie 2005/36/EG des
+Europäischen Parlaments und des Rates (ABl. L 159 vom 25.6.2015, S.
+27) in der jeweils geltenden Fassung zu beachten.
 
 
 ## II. - Eingliederung der Dentisten
@@ -633,9 +882,35 @@ Ausbildungsnachweis nach Absatz 1 Satz 2 oder Satz 3 verfügen, sowie
 auf Drittstaatsangehörige, soweit sich nach dem Recht der Europäischen
 Gemeinschaft eine Gleichstellung ergibt, keine Anwendung.
 
-(4) (weggefallen)
+(4) In Ausnahmefällen kann eine Erlaubnis zur vorübergehenden Ausübung
+der Zahnheilkunde auf Antrag auch Personen erteilt werden, die
+außerhalb des Geltungsbereichs dieses Gesetzes eine zahnärztliche
+Ausbildung erworben, diese Ausbildung aber noch nicht abgeschlossen
+haben, wenn
 
-(5) (weggefallen)
+1.  der Antragsteller auf Grund einer das Hochschulstudium abschließenden
+    Prüfung außerhalb des Geltungsbereichs dieses Gesetzes die
+    Berechtigung zur beschränkten Ausübung des zahnärztlichen Berufs
+    erworben hat und
+
+
+2.  die auf Grund der Erlaubnis auszuübende Tätigkeit zum Abschluß einer
+    zahnärztlichen Ausbildung erforderlich ist.
+
+
+
+Die Erlaubnis ist in diesen Fällen auf bestimmte Tätigkeiten und
+Beschäftigungsstellen zu beschränken. Die Erlaubnis kann mit der
+Auflage verbunden werden, daß die vorübergehende Ausübung der
+Zahnheilkunde unter Aufsicht eines Zahnarztes, der die Approbation
+oder die Erlaubnis nach Absatz 1 besitzt, erfolgt. Sie darf nur unter
+dem Vorbehalt des Widerrufs und nur bis zu einer Gesamtdauer der
+zahnärztlichen Tätigkeit erteilt werden, deren es zum Abschluß der
+Ausbildung bedarf.
+
+(5) Personen, denen eine Erlaubnis zur Ausübung der Zahnheilkunde
+erteilt worden ist, haben im übrigen die Rechte und Pflichten eines
+Zahnarztes.
 
 
 ### § 13a
@@ -683,12 +958,17 @@ folgende Dokumente vorzulegen:
 
 
 2.  eine Bescheinigung darüber, dass er in einem Mitgliedstaat rechtmäßig
-    als Zahnarzt niedergelassen ist und dass ihm die Ausübung dieses
-    Berufs zum Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
-    vorübergehend, untersagt ist, und
+    als Zahnarzt niedergelassen ist, ihm die Ausübung dieses Berufs zum
+    Zeitpunkt der Vorlage der Bescheinigung nicht, auch nicht
+    vorübergehend, untersagt ist und keine Vorstrafen vorliegen,
 
 
-3.  seinen Berufsqualifikationsnachweis.
+3.  seinen Berufsqualifikationsnachweis und
+
+
+4.  eine Erklärung des Dienstleistungserbringers, dass er über die zur
+    Erbringung der Dienstleistung erforderlichen Kenntnisse der deutschen
+    Sprache verfügt.
 
 
 
@@ -707,33 +987,33 @@ Disziplinarbestimmungen unterworfen werden; zu diesen Bestimmungen
 gehören etwa Regelungen für die Definition des Berufs, das Führen von
 Titeln und schwerwiegende berufliche Fehler in unmittelbarem und
 speziellem Zusammenhang mit dem Schutz und der Sicherheit der
-Verbraucher. Die zuständigen Behörden können von den zuständigen
-Behörden des Niederlassungsmitgliedstaats für jede Erbringung einer
-Dienstleistung alle Informationen über die Rechtmäßigkeit der
-Niederlassung und die gute Führung des Dienstleisters anfordern sowie
-Informationen über das Nichtvorliegen strafrechtlicher Sanktionen,
-einer Rücknahme, eines Widerrufs und einer Anordnung des Ruhens der
-Approbation oder Erlaubnis, über die nicht vorliegende Untersagung der
-Ausübung der Tätigkeit und über das Fehlen von Tatsachen, die eine
-dieser Sanktionen oder Maßnahmen rechtfertigen würden. Die
-Informationen sind nach Artikel 56 der Richtlinie 2005/36/EG zu
-übermitteln. Die zuständige Behörde unterrichtet unverzüglich die
-zuständige Behörde des Herkunftsmitgliedstaats über das Vorliegen der
-in Satz 3 genannten Sanktionen oder Maßnahmen, die sich auf die
-Ausübung der von der Richtlinie 2005/36/EG erfassten Tätigkeiten
-auswirken könnten. Dabei sind die Vorschriften zum Schutz
-personenbezogener Daten einzuhalten. Auf Anforderung der zuständigen
-Behörden eines anderen Mitgliedstaats der Europäischen Union oder
-eines anderen Vertragsstaates des Abkommens über den Europäischen
-Wirtschaftsraum oder eines Vertragsstaates, dem Deutschland und die
-Europäische Gemeinschaft oder Deutschland und die Europäische Union
-vertraglich einen entsprechenden Rechtsanspruch eingeräumt haben,
-haben die zuständigen Behörden in Deutschland nach Artikel 56 der
-Richtlinie 2005/36/EG der anfordernden Behörde alle Informationen über
-die Rechtmäßigkeit der Niederlassung und die gute Führung des
-Dienstleisters sowie Informationen darüber, dass keine berufsbezogenen
-disziplinarischen oder strafrechtlichen Sanktionen vorliegen, zu
-übermitteln.
+Verbraucher. Die zuständigen Behörden können bei berechtigten Zweifeln
+von den zuständigen Behörden des Niederlassungsmitgliedstaats für jede
+Erbringung einer Dienstleistung alle Informationen über die
+Rechtmäßigkeit der Niederlassung und die gute Führung des
+Dienstleisters anfordern sowie Informationen über das Nichtvorliegen
+strafrechtlicher Sanktionen, einer Rücknahme, eines Widerrufs und
+einer Anordnung des Ruhens der Approbation oder Erlaubnis, über die
+nicht vorliegende Untersagung der Ausübung der Tätigkeit und über das
+Fehlen von Tatsachen, die eine dieser Sanktionen oder Maßnahmen
+rechtfertigen würden. Die Informationen sind nach Artikel 56 der
+Richtlinie 2005/36/EG zu übermitteln. Die zuständige Behörde
+unterrichtet unverzüglich die zuständige Behörde des
+Herkunftsmitgliedstaats über das Vorliegen der in Satz 3 genannten
+Sanktionen oder Maßnahmen, die sich auf die Ausübung der von der
+Richtlinie 2005/36/EG erfassten Tätigkeiten auswirken könnten. Dabei
+sind die Vorschriften zum Schutz personenbezogener Daten einzuhalten.
+Auf Anforderung der zuständigen Behörden eines anderen Mitgliedstaats
+der Europäischen Union oder eines anderen Vertragsstaates des
+Abkommens über den Europäischen Wirtschaftsraum oder eines
+Vertragsstaates, dem Deutschland und die Europäische Gemeinschaft oder
+Deutschland und die Europäische Union vertraglich einen entsprechenden
+Rechtsanspruch eingeräumt haben, haben die zuständigen Behörden in
+Deutschland nach Artikel 56 der Richtlinie 2005/36/EG der anfordernden
+Behörde alle Informationen über die Rechtmäßigkeit der Niederlassung
+und die gute Führung des Dienstleisters sowie Informationen darüber,
+dass keine berufsbezogenen disziplinarischen oder strafrechtlichen
+Sanktionen vorliegen, zu übermitteln.
 
 (4) Einem Staatsangehörigen eines der Mitgliedstaates der Europäischen
 Union oder eines anderen Vertragsstaates des Abkommens über den
@@ -792,7 +1072,10 @@ zuständige Behörde des Landes, in dem der Antragsteller die
 zahnärztliche Prüfung abgelegt hat. In den Fällen des § 20 Abs. 4 Satz
 1 wird die Approbation von der zuständigen Behörde des Landes erteilt,
 in dem der Antragsteller sein Studium der Zahnheilkunde erfolgreich
-abgeschlossen hat.
+abgeschlossen hat. Für das Verfahren zur Ausstellung eines
+Europäischen Berufsausweises ist die zuständige Behörde des Landes
+zuständig, in dem der Beruf des Zahnarztes ausgeübt wird oder ausgeübt
+werden soll.
 
 (2) Die Entscheidungen nach § 2 Absatz 1 Satz 1 in Verbindung mit Satz
 2 und 6, Absatz 2, 3 und 6 Satz 3, nach den §§ 8 bis 10, 13, 20 Abs. 2
@@ -844,9 +1127,9 @@ Monaten zu erfolgen.
 ### § 17
 
 Das Bundesministerium für Gesundheit erlässt im Einvernehmen mit dem
-Bundesministerium für Wirtschaft und Technologie durch
-Rechtsverordnung mit Zustimmung des Bundesrates die zur Durchführung
-von § 8 Abs. 1 erforderlichen Bestimmungen.
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates die zur Durchführung von § 8 Abs. 1
+erforderlichen Bestimmungen.
 
 
 ## V. - Straf-, Übergangs- und Schlußbestimmungen
@@ -1035,6 +1318,34 @@ den oben genannten Personen gleichgestellt, sofern das in Satz 2
 genannte dreijährige Studium vor dem 31. Dezember 1994 aufgenommen
 wurde.
 
+(3a) Die Ausbildungsnachweise von Ärzten, die in Spanien Personen
+ausgestellt wurden, die ihre ärztliche Universitätsausbildung zwischen
+dem 1. Januar 1986 und dem 31. Dezember 1997 begonnen haben, werden
+anerkannt, sofern eine diesbezügliche Bescheinigung der zuständigen
+spanischen Behörden beigefügt ist, aus der sich ergibt, dass die
+betreffende Person
+
+1.  ein mindestens dreijähriges Studium erfolgreich abgeschlossen hat, und
+    die zuständigen spanischen Behörden dessen Gleichwertigkeit mit der in
+    Artikel 34 der Richtlinie 2005/36/EG genannten Ausbildung bescheinigt
+    haben,
+
+
+2.  während der letzten fünf Jahre vor Ausstellung der Bescheinigung
+    mindestens drei Jahre lang ununterbrochen in Spanien tatsächlich,
+    rechtmäßig und hauptsächlich die Tätigkeiten nach Artikel 36 der
+    Richtlinie 2005/36/EG ausgeübt hat und
+
+
+3.  berechtigt ist, die Tätigkeiten nach Artikel 36 der Richtlinie
+    2005/36/EG unter denselben Bedingungen wie die Inhaber der
+    Ausbildungsnachweise, die für Spanien in Anhang V Nummer 5.3.2 der
+    Richtlinie 2005/36/EG aufgeführt sind, auszuüben, oder sie
+    tatsächlich, rechtmäßig und hauptsächlich ausübt.
+
+
+
+
 (4) Bei Antragstellern, deren Ausbildungsnachweise
 
 1.  von der früheren Sowjetunion verliehen wurden und die Aufnahme des
@@ -1095,7 +1406,8 @@ sich auf Zahnärzte und Dentisten beziehen.
 
 ### Anlage (zu § 2 Abs. 1 Satz 4)
 
-( Fundstelle des Originaltextes: BGBl. I 2007, 2950 - 2953 )
+(Fundstelle: BGBl. I 2007, 2950 - 2953; bzgl. einzelner Änderungen
+vgl. Fußnote)
 
 *    *   Land
 
@@ -1111,12 +1423,12 @@ sich auf Zahnärzte und Dentisten beziehen.
     *   Stichtag
 
 
-*    *   *                     /
+*    *   */
         Belgique/
         Belgien
 
     *   Diploma van tandarts/
-        *                      en
+        * en
         science dentaire
 
     *
@@ -1146,7 +1458,7 @@ sich auf Zahnärzte und Dentisten beziehen.
 *    *   *
 
     *   *
-        *                      ‚*
+        * ‚*
         *
 
     *   *
@@ -1200,7 +1512,7 @@ sich auf Zahnärzte und Dentisten beziehen.
 
     *   Diplom
         hambaarstiteaduse
-        *                      läbimise kohta
+        * läbimise kohta
 
     *   Tartu Ülikool
 
@@ -1249,6 +1561,20 @@ sich auf Zahnärzte und Dentisten beziehen.
         dentiste
 
     *   28. Januar 1980
+
+
+*    *   Hrvatska
+
+    *   Diploma „doktor dentalne medicine/doktorica
+        dentalne medicine“
+
+    *   Fakulteti sveu*ilišta u
+        Republici Hrvatskoj
+
+    *
+    *   doktor dentalne medicine/doktorica dentalne medicine
+
+    *   1. Juli 2013
 
 
 *    *   Ireland
@@ -1363,7 +1689,7 @@ sich auf Zahnärzte und Dentisten beziehen.
 
 *    *   Luxembourg
 
-    *   *                      d'Etat de docteur en médecine dentaire
+    *   * d'Etat de docteur en médecine dentaire
 
     *   Jury d'examen d'Etat
 

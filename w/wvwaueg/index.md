@@ -3,7 +3,7 @@ Title: Gesetz zur Übertragung von Aufgaben der Bundeswehrverwaltung auf neue Be
   der Personalmanagementorganisation der Bundeswehr
 jurabk: WVwAÜG
 layout: default
-origslug: wvwa_g
+origslug: wvwaueg
 slug: wvwaueg
 
 ---

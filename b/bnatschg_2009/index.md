@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2009, 2542
 
 Zuletzt geändert durch
-:   Art. 5 G v. 6.2.2012 I 148
+:   Art. 1 G v. 15.9.2017 I 3434
 
 
 ## Kapitel 1 - Allgemeine Vorschriften
@@ -318,14 +318,15 @@ folgenden Grundsätze der guten fachlichen Praxis zu beachten:
 
 
 6.  die Anwendung von Düngemitteln und Pflanzenschutzmitteln hat nach
-    Maßgabe des landwirtschaftlichen Fachrechtes zu erfolgen; eine
-    Dokumentation über die Anwendung von Düngemitteln ist nach Maßgabe des
-    § 7 der Düngeverordnung in der Fassung der Bekanntmachung vom 27.
-    Februar 2007 (BGBl. I S. 221), die zuletzt durch Artikel 18 des
-    Gesetzes vom 31. Juli 2009 (BGBl. I S. 2585) geändert worden ist,
-    sowie eine Dokumentation über die Anwendung von Pflanzenschutzmittel
-    ist nach Maßgabe des Artikels 67 Absatz 1 Satz 2 der Verordnung (EG)
-    Nr. 1107/2009 zu führen.
+    Maßgabe des landwirtschaftlichen Fachrechtes zu erfolgen; es sind eine
+    Dokumentation über die Anwendung von Düngemitteln nach Maßgabe des §
+    10 der Düngeverordnung vom 26. Mai 2017 (BGBl. I S. 1305) in der
+    jeweils geltenden Fassung sowie eine Dokumentation über die Anwendung
+    von Pflanzenschutzmitteln nach Maßgabe des Artikels 67 Absatz 1 Satz 2
+    der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des
+    Rates vom 21. Oktober 2009 über das Inverkehrbringen von
+    Pflanzenschutzmitteln und zur Aufhebung der Richtlinien 79/117/EWG und
+    91/414/EWG des Rates (ABl. L 309 vom 24.11.2009, S. 1) zu führen.
 
 
 
@@ -378,7 +379,14 @@ Veränderungen.
     Schaffung eines Ordnungsrahmens für Maßnahmen der Gemeinschaft im
     Bereich der Meeresumwelt (Meeresstrategie-Rahmenrichtlinie) (ABl. L
     164 vom 25.6.2008, S. 19) aufgeführter Biotoptypen und sonstiger
-    biologischer Merkmale.
+    biologischer Merkmale,
+
+
+4.  das Vorkommen invasiver Arten gemäß § 7 Absatz 2 Nummer 9 Buchstabe a
+    nach Maßgabe des Artikels 14 der Verordnung (EU) Nr. 1143/2014 des
+    Europäischen Parlaments und des Rates vom 22. Oktober 2014 über die
+    Prävention und das Management der Einbringung und Ausbreitung
+    invasiver gebietsfremder Arten (ABl. L 317 vom 4.11.2014, S. 35).
 
 
 
@@ -462,7 +470,17 @@ Geschäftsgeheimnissen bleiben unberührt.
     gemeinschaftlichem Interesse, einer in Anhang II der Richtlinie
     92/43/EWG oder in Artikel 4 Absatz 2 oder Anhang I der Richtlinie
     2009/147/EG aufgeführten Art für ein Natura 2000-Gebiet festgelegt
-    sind.
+    sind;
+
+
+10. günstiger Erhaltungszustand
+
+    Zustand im Sinne von Artikel 1 Buchstabe e und i der Richtlinie
+    92/43/EWG und von Artikel 2 Nummer 4 der Richtlinie 2004/35/EG des
+    Europäischen Parlaments und des Rates vom 21. April 2004 über
+    Umwelthaftung zur Vermeidung und Sanierung von Umweltschäden (ABl. L
+    143 vom 30.4.2004, S. 56), die zuletzt durch die Richtlinie 2009/31/EG
+    (ABl. L 140 vom 5.6.2009, S. 114) geändert worden ist.
 
 
 
@@ -533,36 +551,32 @@ Geschäftsgeheimnissen bleiben unberührt.
     Art;
 
 
-7.  heimische Art
-
-    eine wild lebende Tier- oder Pflanzenart, die ihr Verbreitungsgebiet
-    oder regelmäßiges Wanderungsgebiet ganz oder teilweise
-
-    a)  im Inland hat oder in geschichtlicher Zeit hatte oder
+7.  (weggefallen)
 
 
-    b)  auf natürliche Weise in das Inland ausdehnt;
-
-
-
-    als heimisch gilt eine wild lebende Tier- oder Pflanzenart auch, wenn
-    sich verwilderte oder durch menschlichen Einfluss eingebürgerte Tiere
-    oder Pflanzen der betreffenden Art im Inland in freier Natur und ohne
-    menschliche Hilfe über mehrere Generationen als Population erhalten;
-
-
-8.  gebietsfremde Art
-
-    eine wild lebende Tier- oder Pflanzenart, wenn sie in dem betreffenden
-    Gebiet in freier Natur nicht oder seit mehr als 100 Jahren nicht mehr
-    vorkommt;
+8.  (weggefallen)
 
 
 9.  invasive Art
 
-    eine Art, deren Vorkommen außerhalb ihres natürlichen
-    Verbreitungsgebiets für die dort natürlich vorkommenden Ökosysteme,
-    Biotope oder Arten ein erhebliches Gefährdungspotenzial darstellt;
+    eine invasive gebietsfremde Art im Sinne des Artikels 3 Nummer 2 der
+    Verordnung (EU) Nr. 1143/2014
+
+    a)  die in der Unionsliste nach Artikel 4 Absatz 1 der Verordnung (EU) Nr.
+        1143/2014 aufgeführt ist,
+
+
+    b)  für die Dringlichkeitsmaßnahmen nach Artikel 10 Absatz 4 oder für die
+        Durchführungsrechtsakte nach Artikel 11 Absatz 2 Satz 2 der Verordnung
+        (EU) Nr. 1143/2014 in Kraft sind, soweit die Verordnung (EU) Nr.
+        1143/2014 nach den genannten Rechtsvorschriften anwendbar ist oder
+
+
+    c)  die in einer Rechtsverordnung nach § 54 Absatz 4 Satz 1 Nummer 1 oder
+        Nummer 3 aufgeführt ist;
+
+
+
 
 
 10. Arten von gemeinschaftlichem Interesse
@@ -706,7 +720,7 @@ denen auf Anhänge Bezug genommen wird, sind die Anhänge jeweils in der
 sich aus den Veröffentlichungen im Amtsblatt Teil L der Europäischen
 Union ergebenden geltenden Fassung maßgeblich.
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit gibt die besonders geschützten und die streng
 geschützten Arten sowie den Zeitpunkt ihrer jeweiligen
 Unterschutzstellung bekannt.
@@ -801,9 +815,10 @@ sowie Grünordnungsplänen.
 
 Auf die Verwertbarkeit der Darstellungen der Landschaftsplanung für
 die Raumordnungspläne und Bauleitpläne ist Rücksicht zu nehmen. Das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit wird
-ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die
-für die Darstellung der Inhalte zu verwendenden Planzeichen zu regeln.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+wird ermächtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates
+die für die Darstellung der Inhalte zu verwendenden Planzeichen zu
+regeln.
 
 (4) Die Landschaftsplanung ist fortzuschreiben, sobald und soweit dies
 im Hinblick auf Erfordernisse und Maßnahmen im Sinne des Absatzes 3
@@ -1022,17 +1037,18 @@ Landschaftspflege möglichst in dem betroffenen Naturraum zu verwenden,
 für die nicht bereits nach anderen Vorschriften eine rechtliche
 Verpflichtung besteht.
 
-(7) Das Bundesministerium für Umwelt, Naturschutz und
+(7) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz
-und dem Bundesministerium für Verkehr, Bau und Stadtentwicklung durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere zur
-Kompensation von Eingriffen zu regeln, insbesondere
+Bundesministerium für Ernährung und Landwirtschaft, dem
+Bundesministerium für Verkehr und digitale Infrastruktur und dem
+Bundesministerium für Wirtschaft und Energie durch Rechtsverordnung
+mit Zustimmung des Bundesrates das Nähere zur Kompensation von
+Eingriffen zu regeln, insbesondere
 
 1.  zu Inhalt, Art und Umfang von Ausgleichs- und Ersatzmaßnahmen
-    einschließlich von Maßnahmen zur Entsiegelung, zur Wiedervernetzung
-    von Lebensräumen und zur Bewirtschaftung und Pflege sowie zur
-    Festlegung diesbezüglicher Standards, insbesondere für vergleichbare
+    einschließlich Maßnahmen zur Entsiegelung, zur Wiedervernetzung von
+    Lebensräumen und zur Bewirtschaftung und Pflege sowie zur Festlegung
+    diesbezüglicher Standards, insbesondere für vergleichbare
     Eingriffsarten,
 
 
@@ -1040,8 +1056,8 @@ Kompensation von Eingriffen zu regeln, insbesondere
 
 
 
-Solange und soweit das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit von seiner Ermächtigung keinen Gebrauch macht,
+Solange und soweit das Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit von seiner Ermächtigung keinen Gebrauch macht,
 richtet sich das Nähere zur Kompensation von Eingriffen nach
 Landesrecht, soweit dieses den vorstehenden Absätzen nicht
 widerspricht.
@@ -1072,6 +1088,12 @@ als Ausgleichs- oder Ersatzmaßnahmen anzuerkennen, soweit
 
 
 
+Absatz 1 Satz 1 Nummer 3 ist nicht auf durchgeführte oder zugelassene
+Maßnahmen des Naturschutzes und der Landschaftspflege anzuwenden, die
+der Kompensation von zu erwartenden Eingriffen durch Maßnahmen des
+Küsten- oder Hochwasserschutzes dienen und durch Träger von Küsten-
+oder Hochwasserschutzvorhaben durchgeführt werden oder durchgeführt
+worden sind.
 
 (2) Die Bevorratung von vorgezogenen Ausgleichs- und Ersatzmaßnahmen
 mittels Ökokonten, Flächenpools oder anderer Maßnahmen, insbesondere
@@ -1079,7 +1101,9 @@ die Erfassung, Bewertung oder Buchung vorgezogener Ausgleichs- und
 Ersatzmaßnahmen in Ökokonten, deren Genehmigungsbedürftigkeit und
 Handelbarkeit sowie der Übergang der Verantwortung nach § 15 Absatz 4
 auf Dritte, die vorgezogene Ausgleichs- und Ersatzmaßnahmen
-durchführen, richtet sich nach Landesrecht.
+durchführen, richtet sich nach Landesrecht. Im Bereich der deutschen
+ausschließlichen Wirtschaftszone und des Festlandsockels richtet sich
+die Bevorratung nach § 56a.
 
 
 ### § 17 Verfahren; Ermächtigung zum Erlass von Rechtsverordnungen
@@ -1245,7 +1269,7 @@ sind.
 
 (2) Arten im Sinne des Absatzes 1 sind die Arten, die in
 
-1.  Artikel 4 Absatz 2 oder Anhang I der Richtlinie 79/409/EWG oder
+1.  Artikel 4 Absatz 2 oder Anhang I der Richtlinie 2009/147/EG oder
 
 
 2.  den Anhängen II und IV der Richtlinie 92/43/EWG
@@ -1257,7 +1281,7 @@ aufgeführt sind.
 (3) Natürliche Lebensräume im Sinne des Absatzes 1 sind die
 
 1.  Lebensräume der Arten, die in Artikel 4 Absatz 2 oder Anhang I der
-    Richtlinie 79/409/EWG oder in Anhang II der Richtlinie 92/43/EWG
+    Richtlinie 2009/147/EG oder in Anhang II der Richtlinie 92/43/EWG
     aufgeführt sind,
 
 
@@ -1273,11 +1297,7 @@ aufgeführt sind.
 (4) Hat eine verantwortliche Person nach dem Umweltschadensgesetz eine
 Schädigung geschützter Arten oder natürlicher Lebensräume verursacht,
 so trifft sie die erforderlichen Sanierungsmaßnahmen gemäß Anhang II
-Nummer 1 der Richtlinie 2004/35/EG des Europäischen Parlaments und des
-Rates vom 21. April 2004 über Umwelthaftung zur Vermeidung und
-Sanierung von Umweltschäden (ABl. L 143 vom 30.4.2004, S. 56), die
-durch die Richtlinie 2006/21/EG (ABl. L 102 vom 11.4.2006, S. 15)
-geändert worden ist.
+Nummer 1 der Richtlinie 2004/35/EG.
 
 (5) Ob Auswirkungen nach Absatz 1 erheblich sind, ist mit Bezug auf
 den Ausgangszustand unter Berücksichtigung der Kriterien des Anhangs I
@@ -1439,8 +1459,8 @@ zu kennzeichnen. Das Nähere richtet sich nach Landesrecht.
 
 (5) Die Erklärung zum Nationalpark oder Nationalen Naturmonument
 einschließlich ihrer Änderung ergeht im Benehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit und
-dem Bundesministerium für Verkehr, Bau und Stadtentwicklung.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+und dem Bundesministerium für Verkehr und digitale Infrastruktur.
 
 
 #### § 23 Naturschutzgebiete
@@ -1469,6 +1489,10 @@ Veränderung des Naturschutzgebiets oder seiner Bestandteile oder zu
 einer nachhaltigen Störung führen können, sind nach Maßgabe näherer
 Bestimmungen verboten. Soweit es der Schutzzweck erlaubt, können
 Naturschutzgebiete der Allgemeinheit zugänglich gemacht werden.
+
+(3) In Naturschutzgebieten ist die Errichtung von Anlagen zur
+Durchführung von Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer
+3 und 4 des Wasserhaushaltsgesetzes verboten.
 
 
 #### § 24 Nationalparke, Nationale Naturmonumente
@@ -1502,7 +1526,10 @@ der Bevölkerung dienen.
 
 (3) Nationalparke sind unter Berücksichtigung ihres besonderen
 Schutzzwecks sowie der durch die Großräumigkeit und Besiedlung
-gebotenen Ausnahmen wie Naturschutzgebiete zu schützen.
+gebotenen Ausnahmen wie Naturschutzgebiete zu schützen. In
+Nationalparken ist die Errichtung von Anlagen zur Durchführung von
+Gewässerbenutzungen im Sinne des § 9 Absatz 2 Nummer 3 und 4 des
+Wasserhaushaltsgesetzes verboten.
 
 (4) Nationale Naturmonumente sind rechtsverbindlich festgesetzte
 Gebiete, die
@@ -1617,7 +1644,10 @@ Gebiete, die
 
 
 
-(2) Naturparke sollen entsprechend ihren in Absatz 1 beschriebenen
+(2) Naturparke sollen auch der Bildung für nachhaltige Entwicklung
+dienen.
+
+(3) Naturparke sollen entsprechend ihren in Absatz 1 beschriebenen
 Zwecken unter Beachtung der Ziele des Naturschutzes und der
 Landschaftspflege geplant, gegliedert, erschlossen und
 weiterentwickelt werden.
@@ -1710,8 +1740,8 @@ verboten:
     Hangschuttwälder, subalpine Lärchen- und Lärchen-Arvenwälder,
 
 
-5.  offene Felsbildungen, alpine Rasen sowie Schneetälchen und
-    Krummholzgebüsche,
+5.  offene Felsbildungen, Höhlen sowie naturnahe Stollen, alpine Rasen
+    sowie Schneetälchen und Krummholzgebüsche,
 
 
 6.  Fels- und Steilküsten, Küstendünen und Strandwälle, Strandseen,
@@ -1724,7 +1754,9 @@ verboten:
 
 
 Die Verbote des Satzes 1 gelten auch für weitere von den Ländern
-gesetzlich geschützte Biotope.
+gesetzlich geschützte Biotope. Satz 1 Nummer 5 gilt nicht für genutzte
+Höhlen- und Stollenbereiche sowie für Maßnahmen zur Verkehrssicherung
+von Höhlen und naturnahen Stollen.
 
 (3) Von den Verboten des Absatzes 2 kann auf Antrag eine Ausnahme
 zugelassen werden, wenn die Beeinträchtigungen ausgeglichen werden
@@ -1769,7 +1801,7 @@ Landesrecht.
 #### § 31 Aufbau und Schutz des Netzes „Natura 2000“
 
 Der Bund und die Länder erfüllen die sich aus den Richtlinien
-92/43/EWG und 79/409/EWG ergebenden Verpflichtungen zum Aufbau und
+92/43/EWG und 2009/147/EG ergebenden Verpflichtungen zum Aufbau und
 Schutz des zusammenhängenden europäischen ökologischen Netzes „Natura
 2000“ im Sinne des Artikels 3 der Richtlinie 92/43/EWG.
 
@@ -1778,21 +1810,21 @@ Schutz des zusammenhängenden europäischen ökologischen Netzes „Natura
 
 (1) Die Länder wählen die Gebiete, die der Kommission nach Artikel 4
 Absatz 1 der Richtlinie 92/43/EWG und Artikel 4 Absatz 1 und 2 der
-Richtlinie 79/409/EWG zu benennen sind, nach den in diesen
+Richtlinie 2009/147/EG zu benennen sind, nach den in diesen
 Vorschriften genannten Maßgaben aus. Sie stellen das Benehmen mit dem
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit her.
-Dieses beteiligt die anderen fachlich betroffenen Bundesministerien
-und benennt die ausgewählten Gebiete der Kommission. Es übermittelt
-der Kommission gleichzeitig Schätzungen über eine finanzielle
-Beteiligung der Gemeinschaft, die zur Erfüllung der Verpflichtungen
-nach Artikel 6 Absatz 1 der Richtlinie 92/43/EWG einschließlich der
-Zahlung eines finanziellen Ausgleichs insbesondere für die Land- und
-Forstwirtschaft erforderlich ist.
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+her. Dieses beteiligt die anderen fachlich betroffenen
+Bundesministerien und benennt die ausgewählten Gebiete der Kommission.
+Es übermittelt der Kommission gleichzeitig Schätzungen über eine
+finanzielle Beteiligung der Gemeinschaft, die zur Erfüllung der
+Verpflichtungen nach Artikel 6 Absatz 1 der Richtlinie 92/43/EWG
+einschließlich der Zahlung eines finanziellen Ausgleichs insbesondere
+für die Land- und Forstwirtschaft erforderlich ist.
 
 (2) Die in die Liste nach Artikel 4 Absatz 2 Unterabsatz 3 der
 Richtlinie 92/43/EWG aufgenommenen Gebiete sind nach Maßgabe des
 Artikels 4 Absatz 4 dieser Richtlinie und die nach Artikel 4 Absatz 1
-und 2 der Richtlinie 79/409/EWG benannten Gebiete entsprechend den
+und 2 der Richtlinie 2009/147/EG benannten Gebiete entsprechend den
 jeweiligen Erhaltungszielen zu geschützten Teilen von Natur und
 Landschaft im Sinne des § 20 Absatz 2 zu erklären.
 
@@ -1831,6 +1863,21 @@ können, sind unzulässig. Die für Naturschutz und Landschaftspflege
 zuständige Behörde kann unter den Voraussetzungen des § 34 Absatz 3
 bis 5 Ausnahmen von dem Verbot des Satzes 1 sowie von Verboten im
 Sinne des § 32 Absatz 3 zulassen.
+
+(1a) In Natura 2000-Gebieten ist die Errichtung von Anlagen zu
+folgenden Zwecken verboten:
+
+1.  zum Aufbrechen von Schiefer-, Ton- oder Mergelgestein oder von
+    Kohleflözgestein unter hydraulischem Druck zur Aufsuchung oder
+    Gewinnung von Erdgas,
+
+
+2.  zur untertägigen Ablagerung von Lagerstättenwasser, das bei Maßnahmen
+    nach Nummer 1 anfällt.
+
+
+
+§ 34 findet insoweit keine Anwendung.
 
 (2) Bei einem Gebiet im Sinne des Artikels 5 Absatz 1 der Richtlinie
 92/43/EWG gilt während der Konzertierungsphase bis zur
@@ -1883,15 +1930,15 @@ Zivilbevölkerung, oder den maßgeblich günstigen Auswirkungen des
 Projekts auf die Umwelt geltend gemacht werden. Sonstige Gründe im
 Sinne des Absatzes 3 Nummer 1 können nur berücksichtigt werden, wenn
 die zuständige Behörde zuvor über das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit eine Stellungnahme der Kommission
-eingeholt hat.
+Naturschutz, Bau und Reaktorsicherheit eine Stellungnahme der
+Kommission eingeholt hat.
 
 (5) Soll ein Projekt nach Absatz 3, auch in Verbindung mit Absatz 4,
 zugelassen oder durchgeführt werden, sind die zur Sicherung des
 Zusammenhangs des Netzes „Natura 2000“ notwendigen Maßnahmen
 vorzusehen. Die zuständige Behörde unterrichtet die Kommission über
-das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-über die getroffenen Maßnahmen.
+das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit über die getroffenen Maßnahmen.
 
 (6) Bedarf ein Projekt im Sinne des Absatzes 1 Satz 1, das nicht von
 einer Behörde durchgeführt wird, nach anderen Rechtsvorschriften
@@ -1997,9 +2044,9 @@ umfasst
 
 (2) Die Vorschriften des Pflanzenschutzrechts, des Tierschutzrechts,
 des Seuchenrechts sowie des
-Forst-,             Jagd- und Fischereirechts bleiben von den
-Vorschriften dieses Kapitels und den auf Grund dieses Kapitels
-erlassenen Rechtsvorschriften unberührt. Soweit in jagd- oder
+Forst-,Jagd- und Fischereirechts bleiben von den Vorschriften dieses
+Kapitels und den auf Grund dieses Kapitels erlassenen
+Rechtsvorschriften unberührt. Soweit in jagd- oder
 fischereirechtlichen Vorschriften keine besonderen Bestimmungen zum
 Schutz und zur Pflege der betreffenden Arten bestehen oder erlassen
 werden, sind vorbehaltlich der Rechte der Jagdausübungs- oder
@@ -2027,7 +2074,7 @@ die streng geschützten Arten haben.
 
 (3) Die erforderliche Forschung und die notwendigen wissenschaftlichen
 Arbeiten im Sinne des Artikels 18 der Richtlinie 92/43/EWG und des
-Artikels 10 der Richtlinie 79/409/EWG werden gefördert.
+Artikels 10 der Richtlinie 2009/147/EG werden gefördert.
 
 
 ### Abschnitt 2 - Allgemeiner Artenschutz
@@ -2086,9 +2133,9 @@ Landschaftspflege zu berücksichtigen.
 2.  Bäume, die außerhalb des Waldes, von Kurzumtriebsplantagen oder
     gärtnerisch genutzten Grundflächen stehen, Hecken, lebende Zäune,
     Gebüsche und andere Gehölze in der Zeit vom 1. März bis zum 30.
-    September abzuschneiden oder auf den Stock zu setzen; zulässig sind
-    schonende Form- und Pflegeschnitte zur Beseitigung des Zuwachses der
-    Pflanzen oder zur Gesunderhaltung von Bäumen,
+    September abzuschneiden, auf den Stock zu setzen oder zu beseitigen;
+    zulässig sind schonende Form- und Pflegeschnitte zur Beseitigung des
+    Zuwachses der Pflanzen oder zur Gesunderhaltung von Bäumen,
 
 
 3.  Röhrichte in der Zeit vom 1. März bis zum 30. September
@@ -2132,9 +2179,10 @@ Die Verbote des Satzes 1 Nummer 1 bis 3 gelten nicht für
 
 Die Landesregierungen werden ermächtigt, durch Rechtsverordnung bei
 den Verboten des Satzes 1 Nummer 2 und 3 für den Bereich eines Landes
-oder für Teile des Landes erweiterte Verbotszeiträume vorzusehen. Sie
-können die Ermächtigung nach Satz 3 durch Rechtsverordnung auf andere
-Landesbehörden übertragen.
+oder für Teile des Landes erweiterte Verbotszeiträume vorzusehen und
+den Verbotszeitraum aus klimatischen Gründen um bis zu zwei Wochen zu
+verschieben. Sie können die Ermächtigung nach Satz 3 durch
+Rechtsverordnung auf andere Landesbehörden übertragen.
 
 (6) Es ist verboten, Höhlen, Stollen, Erdkeller oder ähnliche Räume,
 die als Winterquartier von Fledermäusen dienen, in der Zeit vom 1.
@@ -2147,53 +2195,38 @@ des Abschnitts 3 des Kapitels 5 einschließlich der Bestimmungen über
 Ausnahmen und Befreiungen bleiben unberührt.
 
 
-#### § 40 Nichtheimische, gebietsfremde und invasive Arten
+#### § 40 Ausbringen von Pflanzen und Tieren
 
-(1) Es sind geeignete Maßnahmen zu treffen, um einer Gefährdung von
-Ökosystemen, Biotopen und Arten durch Tiere und Pflanzen
-nichtheimischer oder invasiver Arten entgegenzuwirken.
-
-(2) Arten, bei denen Anhaltspunkte dafür bestehen, dass es sich um
-invasive Arten handelt, sind zu beobachten.
-
-(3) Die zuständigen Behörden des Bundes und der Länder ergreifen
-unverzüglich geeignete Maßnahmen, um neu auftretende Tiere und
-Pflanzen invasiver Arten zu beseitigen oder deren Ausbreitung zu
-verhindern. Sie treffen bei bereits verbreiteten invasiven Arten
-Maßnahmen, um eine weitere Ausbreitung zu verhindern und die
-Auswirkungen der Ausbreitung zu vermindern, soweit diese Aussicht auf
-Erfolg haben und der Erfolg nicht außer Verhältnis zu dem
-erforderlichen Aufwand steht. Die Sätze 1 und 2 gelten nicht für in
-der Land- und Forstwirtschaft angebaute Pflanzen im Sinne des Absatzes
-4 Satz 3 Nummer 1.
-
-(4) Das Ausbringen von Pflanzen gebietsfremder Arten in der freien
-Natur sowie von Tieren bedarf der Genehmigung der zuständigen Behörde.
-Künstlich vermehrte Pflanzen sind nicht gebietsfremd, wenn sie ihren
-genetischen Ursprung in dem betreffenden Gebiet haben. Die Genehmigung
-ist zu versagen, wenn eine Gefährdung von Ökosystemen, Biotopen oder
-Arten der Mitgliedstaaten nicht auszuschließen ist. Von dem
-Erfordernis einer Genehmigung sind ausgenommen
+(1) Das Ausbringen von Pflanzen in der freien Natur, deren Art in dem
+betreffenden Gebiet in freier Natur nicht oder seit mehr als 100
+Jahren nicht mehr vorkommt, sowie von Tieren bedarf der Genehmigung
+der zuständigen Behörde. Dies gilt nicht für künstlich vermehrte
+Pflanzen, wenn sie ihren genetischen Ursprung in dem betreffenden
+Gebiet haben. Die Genehmigung ist zu versagen, wenn eine Gefährdung
+von Ökosystemen, Biotopen oder Arten der Mitgliedstaaten nicht
+auszuschließen ist. Von dem Erfordernis einer Genehmigung sind
+ausgenommen
 
 1.  der Anbau von Pflanzen in der Land- und Forstwirtschaft,
 
 
-2.  der Einsatz von Tieren
+2.  der Einsatz von Tieren zum Zweck des biologischen Pflanzenschutzes
 
-    a)  nicht gebietsfremder Arten,
-
-
-    b)  gebietsfremder Arten, sofern der Einsatz einer
-        pflanzenschutzrechtlichen Genehmigung bedarf, bei der die Belange des
-        Artenschutzes berücksichtigt sind,
+    a)  der Arten, die in dem betreffenden Gebiet in freier Natur in den
+        letzten 100 Jahren vorkommen oder vorkamen,
 
 
+    b)  anderer Arten, sofern der Einsatz einer pflanzenschutzrechtlichen
+        Genehmigung bedarf, bei der die Belange des Artenschutzes
+        berücksichtigt sind,
 
-    zum Zweck des biologischen Pflanzenschutzes,
 
 
-3.  das Ansiedeln von Tieren nicht gebietsfremder Arten, die dem Jagd-
-    oder Fischereirecht unterliegen,
+
+
+3.  das Ansiedeln von Tieren, die dem Jagd- oder Fischereirecht
+    unterliegen, sofern die Art in dem betreffenden Gebiet in freier Natur
+    in den letzten 100 Jahren vorkommt oder vorkam,
 
 
 4.  das Ausbringen von Gehölzen und Saatgut außerhalb ihrer
@@ -2203,16 +2236,212 @@ Erfordernis einer Genehmigung sind ausgenommen
 
 
 
-Artikel 22 der Richtlinie 92/43/EWG ist zu beachten.
+Artikel 22 der Richtlinie 92/43/EWG sowie die Vorschriften der
+Verordnung (EU) Nr. 1143/2014 sind zu beachten.
 
-(5) Genehmigungen nach Absatz 4 werden bei im Inland noch nicht
+(2) Genehmigungen nach Absatz 1 werden bei im Inland noch nicht
 vorkommenden Arten vom Bundesamt für Naturschutz erteilt.
 
-(6) Die zuständige Behörde kann anordnen, dass ungenehmigt
+(3) Die zuständige Behörde kann anordnen, dass ungenehmigt
 ausgebrachte Tiere und Pflanzen oder sich unbeabsichtigt in der freien
 Natur ausbreitende Pflanzen sowie dorthin entkommene Tiere beseitigt
 werden, soweit es zur Abwehr einer Gefährdung von Ökosystemen,
 Biotopen oder Arten erforderlich ist.
+
+
+#### § 40a Maßnahmen gegen invasive Arten
+
+(1) Die zuständigen Behörden treffen nach pflichtgemäßem Ermessen die
+im Einzelfall erforderlichen und verhältnismäßigen Maßnahmen, um
+
+1.  sicherzustellen, dass die Vorschriften der Verordnung (EU) Nr.
+    1143/2014, dieses Kapitels und der auf ihrer Grundlage erlassenen
+    Rechtsvorschriften in Bezug auf invasive Arten eingehalten werden und
+    um
+
+
+2.  die Einbringung oder Ausbreitung von invasiven Arten zu verhindern
+    oder zu minimieren.
+
+
+
+Soweit Maßnahmen nach Satz 1 Nummer 2 in der freien Natur invasive und
+entweder dem Jagdrecht unterliegende oder andere Arten betreffen, bei
+denen die Maßnahmen im Rahmen des Jagdschutzes durchgeführt werden
+können, werden sie im Einvernehmen mit den nach Landesrecht für Jagd
+zuständigen Behörden unbeschadet des fortbestehenden Jagdrechts nach
+den §§ 1, 2 und 23 des Bundesjagdgesetzes festgelegt. Maßnahmen mit
+jagdlichen Mitteln sind im Einvernehmen mit den
+Jagdausübungsberechtigten, Maßnahmen ohne Einsatz jagdlicher Mittel
+mit Rücksicht auf deren berechtigte Interessen durchzuführen. Soweit
+Maßnahmen nach Satz 1 Nummer 2 in der freien Natur dem Fischereirecht
+unterliegende invasive Arten betreffen, werden sie im Einvernehmen mit
+den nach Landesrecht für Fischerei zuständigen Behörden festgelegt.
+Maßnahmen mit fischereilichen Mitteln sind im Einvernehmen mit dem
+Fischereiausübungsberechtigten, Maßnahmen ohne Einsatz fischereilicher
+Mittel mit Rücksicht auf deren berechtigte Interessen durchzuführen.
+Bei Gefahr im Verzug bedarf es des Einvernehmens nach den Sätzen 2 bis
+5 nicht.
+
+(2) Liegen Anhaltspunkte für das Vorhandensein einer invasiven Art
+vor, sind Eigentümer und Inhaber der tatsächlichen Gewalt
+verpflichtet, eine Untersuchung von Gegenständen, Substraten,
+Transportmitteln, Anlagen, Grundstücken, Gebäuden oder Räumen im
+Hinblick auf das Vorhandensein invasiver Arten zu dulden.
+
+(3) Die zuständige Behörde kann gegenüber demjenigen, der die
+Ausbringung, die Ausbreitung oder das Entkommen von invasiven Arten
+verursacht hat, deren Beseitigung und dafür bestimmte Verfahren
+anordnen, soweit dies zur Abwehr einer Gefährdung von Ökosystemen,
+Biotopen oder Arten erforderlich ist. Eigentümer von Grundstücken und
+anderen in Absatz 2 genannten Sachen sowie der Inhaber der
+tatsächlichen Gewalt sind verpflichtet, Maßnahmen der zuständigen
+Behörde zur Beseitigung oder Verhinderung einer Ausbreitung invasiver
+Arten zu dulden.
+
+(4) Die zuständige Behörde kann Exemplare invasiver Arten beseitigen
+oder durch Beauftragte beseitigen lassen, wenn eine Beseitigung durch
+die in Absatz 3 Satz 1 genannten Personen nicht oder nicht rechtzeitig
+erreicht werden kann. Die durch die Maßnahme entstehenden Kosten
+können den in Absatz 3 Satz 1 genannten Personen auferlegt werden.
+
+(5) Steht ein Grundstück im Eigentum der öffentlichen Hand, soll der
+Eigentümer die von der zuständigen Behörde festgelegten
+Beseitigungsmaßnahmen nach Artikel 17 oder Managementmaßnahmen nach
+Artikel 19 der Verordnung (EU) Nr. 1143/2014 bei der Bewirtschaftung
+des Grundstücks in besonderer Weise berücksichtigen. Satz 1 gilt auch,
+wenn das Grundstück im Eigentum eines privatrechtlich organisierten
+Unternehmens steht, an dem mehrheitlich eine Gebietskörperschaft
+Anteile hält.
+
+(6) Die im Einzelfall erforderlichen Maßnahmen zur Verhütung einer
+Verbreitung invasiver Arten durch Seeschiffe richten sich nach dem
+Gesetz über die Aufgaben des Bundes auf dem Gebiet der Seeschifffahrt
+sowie den auf dieser Grundlage erlassenen Rechtsvorschriften.
+
+
+#### § 40b Nachweispflicht und Einziehung bei invasiven Arten
+
+Wer Exemplare einer invasiven Art besitzt oder die tatsächliche Gewalt
+darüber ausübt, kann sich gegenüber den zuständigen Behörden auf eine
+Berechtigung hierzu nur berufen, wenn er diese Berechtigung auf
+Verlangen nachweist. Beruft sich die Person auf die
+Übergangsbestimmungen nach Artikel 31 der Verordnung (EU) Nr.
+1143/2014 genügt es, wenn sie diese Berechtigung glaubhaft macht. § 47
+gilt entsprechend.
+
+
+#### § 40c Genehmigungen
+
+(1) Abweichend von den Verboten des Artikels 7 Absatz 1 Buchstabe a,
+b, c, d, f und g der Verordnung (EU) Nr. 1143/2014 bedürfen die
+Forschung an und Ex-situ-Erhaltung von invasiven Arten einer
+Genehmigung durch die zuständige Behörde. Die Genehmigung ist zu
+erteilen, wenn die Voraussetzungen des Artikels 8 Absatz 2 bis 4 der
+Verordnung (EU) Nr. 1143/2014 vorliegen. Eine Genehmigung ist für
+Bestände invasiver Tierarten nicht erforderlich, die vor dem 3. August
+2016 gehalten wurden, sich unter Verschluss befinden und in denen
+keine Vermehrung stattfindet.
+
+(2) Absatz 1 gilt entsprechend für die wissenschaftliche Herstellung
+und die anschließende medizinische Verwendung von Produkten, die aus
+invasiven Arten hervorgegangen sind, wenn die Verwendung der Produkte
+unvermeidbar ist, um Fortschritte für die menschliche Gesundheit zu
+erzielen.
+
+(3) Für andere Tätigkeiten kann in Ausnahmefällen auf Antrag eine
+Genehmigung nach Maßgabe von Artikel 9 der Verordnung (EU) Nr.
+1143/2014 erteilt werden. Die zuständige Behörde reicht den
+Zulassungsantrag über das elektronische Zulassungssystem nach Artikel
+9 Absatz 2 der Verordnung (EU) Nr. 1143/2014 bei der Kommission ein.
+Eine Zulassung durch die Kommission ist nicht erforderlich, wenn
+Beschränkungen einer Rechtsverordnung nach § 54 Absatz 4 Satz 1
+betroffen sind.
+
+(4) Der Antrag ist schriftlich oder elektronisch unter Vorlage der zur
+Prüfung erforderlichen Unterlagen bei der zuständigen Behörde
+einzureichen. Im Falle des Absatzes 3 sind die in Satz 1 genannten
+Unterlagen der zuständigen Behörde auch als elektronisches Dokument zu
+übermitteln.
+
+(5) Die Genehmigung kann widerrufen werden, wenn unvorhergesehene
+Ereignisse mit einer nachteiligen Auswirkung auf die biologische
+Vielfalt oder damit verbundene Ökosystemdienstleistungen eintreten.
+Der Widerruf ist wissenschaftlich zu begründen; sind die
+wissenschaftlichen Angaben nicht ausreichend, erfolgt der Widerruf
+unter Anwendung des Vorsorgeprinzips.
+
+
+#### § 40d Aktionsplan zu Pfaden invasiver Arten
+
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit beschließt nach Anhörung der Länder im Einvernehmen
+mit dem Bundesministerium für Verkehr und digitale Infrastruktur sowie
+dem Bundesministerium für Ernährung und Landwirtschaft einen
+Aktionsplan nach Artikel 13 der Verordnung (EU) Nr. 1143/2014 zu den
+Einbringungs- und Ausbreitungspfaden invasiver Arten nach § 7 Absatz 2
+Nummer 9 Buchstabe a. Satz 1 gilt auch für invasive Arten nach § 7
+Absatz 2 Nummer 9 Buchstabe b, soweit die Kommission insoweit in einem
+Durchführungsrechtsakt nach Artikel 11 Absatz 2 Satz 2 eine Anwendung
+des Artikels 13 vorsieht, sowie für invasive Arten, die in einer
+Rechtsverordnung nach § 54 Absatz 4 Satz 1 Nummer 3 aufgeführt sind.
+
+(2) Der Aktionsplan ist mindestens alle sechs Jahre zu überarbeiten.
+
+(3) Anstatt eines Aktionsplans können auch mehrere Aktionspläne für
+verschiedene Einbringungs- und Ausbreitungspfade invasiver Arten
+beschlossen werden. Für diese Aktionspläne gelten die Absätze 1 und 2
+entsprechend.
+
+
+#### § 40e Managementmaßnahmen
+
+(1) Die für Naturschutz und Landschaftspflege zuständigen Behörden
+legen nach Maßgabe des Artikels 19 der Verordnung (EU) Nr. 1143/2014
+Managementmaßnahmen fest. Sie stimmen die Maßnahmen nach Satz 1 sowohl
+untereinander als auch, soweit erforderlich, mit den zuständigen
+Behörden anderer Mitgliedstaaten der Europäischen Union ab. Die
+Abstimmung mit Behörden anderer Mitgliedstaaten erfolgt im Benehmen
+mit dem Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit.
+
+(2) Soweit die Managementmaßnahmen invasive und entweder dem Jagdrecht
+unterliegende oder andere Arten betreffen, bei denen die Maßnahmen im
+Rahmen des Jagdschutzes durchgeführt werden können, werden sie im
+Einvernehmen mit den nach Landesrecht für Jagd zuständigen Behörden
+unbeschadet des fortbestehenden Jagdrechts nach den §§ 1, 2 und 23 des
+Bundesjagdgesetzes festgelegt; soweit dem Fischereirecht unterliegende
+invasive Arten betroffen sind, im Einvernehmen mit den nach
+Landesrecht für Fischerei zuständigen Behörden.
+
+
+#### § 40f Beteiligung der Öffentlichkeit
+
+(1) Bei der Aufstellung von Aktionsplänen gemäß § 40d und der
+Festlegung von Managementmaßnahmen gemäß § 40e ist eine
+Öffentlichkeitsbeteiligung entsprechend § 42 des Gesetzes über die
+Umweltverträglichkeitsprüfung durchzuführen.
+
+(2) Das Ergebnis der Öffentlichkeitsbeteiligung ist bei der
+Aufstellung des Aktionsplans nach § 40d Absatz 1 und der Festlegung
+von Managementmaßnahmen nach § 40e angemessen zu berücksichtigen.
+
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit macht den Aktionsplan nach § 40d Absatz 1 mit
+Begründung im Bundesanzeiger bekannt. In der Begründung sind das
+Verfahren zur Aufstellung des Aktionsplans und die Gründe und
+Erwägungen, auf denen der Aktionsplan beruht, angemessen darzustellen.
+Die Bekanntmachung von nach § 40e festgelegten Managementmaßnahmen
+richtet sich nach Landesrecht.
+
+(4) Bei Überarbeitungen nach § 40d Absatz 2 und der Änderung von
+Managementmaßnahmen gelten die Absätze 1 bis 3 entsprechend.
+
+(5) Soweit Aktionspläne nach dem Gesetz über die
+Umweltverträglichkeitsprüfung einer strategischen Umweltprüfung
+bedürfen, ist die Beteiligung der Öffentlichkeit nach den Absätzen 1
+und 2 Teil der strategischen Umweltprüfung nach § 42 des Gesetzes über
+die Umweltverträglichkeitsprüfung.
 
 
 #### § 41 Vogelschutz an Energiefreileitungen
@@ -2471,18 +2700,10 @@ nicht gelten für Gehege,
 
 Artikel 9 der Verordnung (EG) Nr. 338/97 bleibt unberührt.
 
-(3) Die Besitz- und Vermarktungsverbote gelten auch für
-
-1.  Waren im Sinne des Anhangs der Richtlinie 83/129/EWG, die entgegen den
-    Artikeln 1 und 3 dieser Richtlinie nach dem 30. September 1983 in die
-    Gemeinschaft gelangt sind,
-
-
-2.  Tiere und Pflanzen, die durch Rechtsverordnung nach § 54 Absatz 4
-    bestimmt sind.
-
-
-
+(3) Die Besitz- und Vermarktungsverbote gelten auch für Waren im Sinne
+des Anhangs der Richtlinie 83/129/EWG, die entgegen den Artikeln 1 und
+3 dieser Richtlinie nach dem 30. September 1983 in die Gemeinschaft
+gelangt sind.
 
 (4) Entspricht die land-, forst- und fischereiwirtschaftliche
 Bodennutzung und die Verwertung der dabei gewonnenen Erzeugnisse den
@@ -2504,25 +2725,49 @@ die erforderlichen Bewirtschaftungsvorgaben an. Befugnisse nach
 Landesrecht zur Anordnung oder zum Erlass entsprechender Vorgaben
 durch Allgemeinverfügung oder Rechtsverordnung bleiben unberührt.
 
-(5) Für nach § 15 zulässige Eingriffe in Natur und Landschaft sowie
-für Vorhaben im Sinne des § 18 Absatz 2 Satz 1, die nach den
-Vorschriften des Baugesetzbuches zulässig sind, gelten die Zugriffs-,
+(5) Für nach § 15 Absatz 1 unvermeidbare Beeinträchtigungen durch
+Eingriffe in Natur und Landschaft, die nach § 17 Absatz 1 oder Absatz
+3 zugelassen oder von einer Behörde durchgeführt werden, sowie für
+Vorhaben im Sinne des § 18 Absatz 2 Satz 1 gelten die Zugriffs-,
 Besitz- und Vermarktungsverbote nach Maßgabe der Sätze 2 bis 5. Sind
 in Anhang IV Buchstabe a der Richtlinie 92/43/EWG aufgeführte
 Tierarten, europäische Vogelarten oder solche Arten betroffen, die in
 einer Rechtsverordnung nach § 54 Absatz 1 Nummer 2 aufgeführt sind,
-liegt ein Verstoß gegen das Verbot des Absatzes 1 Nummer 3 und im
-Hinblick auf damit verbundene unvermeidbare Beeinträchtigungen wild
-lebender Tiere auch gegen das Verbot des Absatzes 1 Nummer 1 nicht
-vor, soweit die ökologische Funktion der von dem Eingriff oder
-Vorhaben betroffenen Fortpflanzungs- oder Ruhestätten im räumlichen
-Zusammenhang weiterhin erfüllt wird. Soweit erforderlich, können auch
-vorgezogene Ausgleichsmaßnahmen festgesetzt werden. Für Standorte wild
-lebender Pflanzen der in Anhang IV Buchstabe b der Richtlinie
-92/43/EWG aufgeführten Arten gelten die Sätze 2 und 3 entsprechend.
-Sind andere besonders geschützte Arten betroffen, liegt bei Handlungen
-zur Durchführung eines Eingriffs oder Vorhabens kein Verstoß gegen die
-Zugriffs-, Besitz- und Vermarktungsverbote vor.
+liegt ein Verstoß gegen
+
+1.  das Tötungs- und Verletzungsverbot nach Absatz 1 Nummer 1 nicht vor,
+    wenn die Beeinträchtigung durch den Eingriff oder das Vorhaben das
+    Tötungs- und Verletzungsrisiko für Exemplare der betroffenen Arten
+    nicht signifikant erhöht und diese Beeinträchtigung bei Anwendung der
+    gebotenen, fachlich anerkannten Schutzmaßnahmen nicht vermieden werden
+    kann,
+
+
+2.  das Verbot des Nachstellens und Fangens wild lebender Tiere und der
+    Entnahme, Beschädigung oder Zerstörung ihrer Entwicklungsformen nach
+    Absatz 1 Nummer 1 nicht vor, wenn die Tiere oder ihre
+    Entwicklungsformen im Rahmen einer erforderlichen Maßnahme, die auf
+    den Schutz der Tiere vor Tötung oder Verletzung oder ihrer
+    Entwicklungsformen vor Entnahme, Beschädigung oder Zerstörung und die
+    Erhaltung der ökologischen Funktion der Fortpflanzungs- oder
+    Ruhestätten im räumlichen Zusammenhang gerichtet ist, beeinträchtigt
+    werden und diese Beeinträchtigungen unvermeidbar sind,
+
+
+3.  das Verbot nach Absatz 1 Nummer 3 nicht vor, wenn die ökologische
+    Funktion der von dem Eingriff oder Vorhaben betroffenen
+    Fortpflanzungs- und Ruhestätten im räumlichen Zusammenhang weiterhin
+    erfüllt wird.
+
+
+
+Soweit erforderlich, können auch vorgezogene Ausgleichsmaßnahmen
+festgelegt werden. Für Standorte wild lebender Pflanzen der in Anhang
+IV Buchstabe b der Richtlinie 92/43/EWG aufgeführten Arten gelten die
+Sätze 2 und 3 entsprechend. Sind andere besonders geschützte Arten
+betroffen, liegt bei Handlungen zur Durchführung eines Eingriffs oder
+Vorhabens kein Verstoß gegen die Zugriffs-, Besitz- und
+Vermarktungsverbote vor.
 
 (6) Die Zugriffs- und Besitzverbote gelten nicht für Handlungen zur
 Vorbereitung gesetzlich vorgeschriebener Prüfungen, die von
@@ -2593,12 +2838,12 @@ Rechtsverordnung nach § 54 Absatz 5 nicht für aus der Natur entnommene
 
 
 2.  Tiere europäischer Vogelarten, die vor dem 6. April 1981 rechtmäßig
-    erworben worden oder in Anhang III Teil 1 der Richtlinie 79/409/EWG
+    erworben worden oder in Anhang III Teil A der Richtlinie 2009/147/EG
     aufgeführt sind,
 
 
 3.  Tiere und Pflanzen der Arten, die den Richtlinien 92/43/EWG und
-    79/409/EWG unterliegen und die in einem Mitgliedstaat in
+    2009/147/EG unterliegen und die in einem Mitgliedstaat in
     Übereinstimmung mit den Richtlinien zu den in § 44 Absatz 2 Satz 1
     Nummer 2 genannten Handlungen freigegeben worden sind.
 
@@ -2632,10 +2877,10 @@ nicht entgegenstehen. Ist für die Beschlagnahme oder Einziehung eine
 Bundesbehörde zuständig, kann diese Behörde Ausnahmen von den Besitz-
 und Vermarktungsverboten im Sinne von Satz 1 zulassen.
 
-(7) Die nach Landesrecht für Naturschutz und Landschaftspflege
-zuständigen Behörden sowie im Fall des Verbringens aus dem Ausland das
-Bundesamt für Naturschutz können von den Verboten des § 44 im
-Einzelfall weitere Ausnahmen zulassen
+(7) Die für Naturschutz und Landschaftspflege zuständigen Behörden
+sowie im Fall des Verbringens aus dem Ausland das Bundesamt für
+Naturschutz können von den Verboten des § 44 im Einzelfall weitere
+Ausnahmen zulassen
 
 1.  zur Abwendung erheblicher land-, forst-, fischerei-, wasser- oder
     sonstiger erheblicher wirtschaftlicher Schäden,
@@ -2664,7 +2909,7 @@ nicht gegeben sind und sich der Erhaltungszustand der Populationen
 einer Art nicht verschlechtert, soweit nicht Artikel 16 Absatz 1 der
 Richtlinie 92/43/EWG weiter gehende Anforderungen enthält. Artikel 16
 Absatz 3 der Richtlinie 92/43/EWG und Artikel 9 Absatz 2 der
-Richtlinie 79/409/EWG sind zu beachten. Die Landesregierungen können
+Richtlinie 2009/147/EG sind zu beachten. Die Landesregierungen können
 Ausnahmen auch allgemein durch Rechtsverordnung zulassen. Sie können
 die Ermächtigung nach Satz 4 durch Rechtsverordnung auf andere
 Landesbehörden übertragen.
@@ -2685,16 +2930,15 @@ künstlich vermehrte Tiere oder Pflanzen dieser Arten zu ermöglichen.
 1.  lebende Tiere oder Pflanzen der besonders geschützten Arten, ihre
     lebenden oder toten Entwicklungsformen oder im Wesentlichen
     vollständig erhaltene tote Tiere oder Pflanzen der besonders
-    geschützten Arten,
+    geschützten Arten
 
 
 2.  ohne Weiteres erkennbare Teile von Tieren oder Pflanzen der streng
     geschützten Arten oder ohne Weiteres erkennbar aus ihnen gewonnene
-    Erzeugnisse oder
+    Erzeugnisse
 
 
-3.  lebende Tiere oder Pflanzen der Arten, die in einer Rechtsverordnung
-    nach § 54 Absatz 4 aufgeführt sind,
+3.  (weggefallen)
 
 
 
@@ -2703,18 +2947,16 @@ gegenüber den für Naturschutz und Landschaftspflege zuständigen
 Behörden auf eine Berechtigung hierzu nur berufen, wenn sie auf
 Verlangen diese Berechtigung nachweist oder nachweist, dass sie oder
 ein Dritter die Tiere oder Pflanzen vor ihrer Unterschutzstellung als
-besonders geschützte Art oder vor ihrer Aufnahme in eine
-Rechtsverordnung nach § 54 Absatz 4 in Besitz hatte.
+besonders geschützte Art in Besitz hatte.
 
 (2) Auf Erzeugnisse im Sinne des Absatzes 1 Nummer 2, die dem
 persönlichen Gebrauch oder als Hausrat dienen, ist Absatz 1 nicht
 anzuwenden. Für Tiere oder Pflanzen, die vor ihrer Unterschutzstellung
-als besonders geschützte Art oder vor ihrer Aufnahme in eine
-Rechtsverordnung nach § 54 Absatz 4 erworben wurden und die dem
-persönlichen Gebrauch oder als Hausrat dienen, genügt anstelle des
-Nachweises nach Absatz 1 die Glaubhaftmachung. Die Glaubhaftmachung
-darf nur verlangt werden, wenn Tatsachen die Annahme rechtfertigen,
-dass keine Berechtigung vorliegt.
+als besonders geschützte Art erworben wurden und die dem persönlichen
+Gebrauch oder als Hausrat dienen, genügt anstelle des Nachweises nach
+Absatz 1 die Glaubhaftmachung. Die Glaubhaftmachung darf nur verlangt
+werden, wenn Tatsachen die Annahme rechtfertigen, dass keine
+Berechtigung vorliegt.
 
 (3) Soweit nach Artikel 8 oder Artikel 9 der Verordnung (EG) Nr.
 338/97 die Berechtigung zu den dort genannten Handlungen nachzuweisen
@@ -2723,32 +2965,33 @@ der Nachweis in der in der genannten Verordnung vorgeschriebenen Weise
 zu führen.
 
 
-#### § 47 Einziehung
+#### § 47 Einziehung und Beschlagnahme
 
-Tiere oder Pflanzen, für die der erforderliche Nachweis oder die
-erforderliche Glaubhaftmachung nicht erbracht wird, können von den für
-Naturschutz und Landschaftspflege zuständigen Behörden eingezogen
-werden. § 51 gilt entsprechend; § 51 Absatz 1 Satz 2 gilt mit der
-Maßgabe, dass auch die Vorlage einer Bescheinigung einer sonstigen
-unabhängigen sachverständigen Stelle oder Person verlangt werden kann.
+Kann für Tiere oder Pflanzen eine Berechtigung nach § 46 nicht
+nachgewiesen oder glaubhaft gemacht werden, können diese von den für
+Naturschutz und Landschaftspflege zuständigen Behörden beschlagnahmt
+oder eingezogen werden. § 51 gilt entsprechend; § 51 Absatz 1 Satz 2
+gilt mit der Maßgabe, dass auch die Vorlage einer Bescheinigung einer
+sonstigen unabhängigen sachverständigen Stelle oder Person verlangt
+werden kann.
 
 
 ### Abschnitt 4 - Zuständige Behörden, Verbringen von Tieren und Pflanzen
 
 
-#### § 48 Zuständige Behörden
+#### § 48 Zuständige Behörden für den Schutz von Exemplaren wild lebender Tier- und Pflanzenarten durch Überwachung des Handels
 
 (1) Vollzugsbehörden im Sinne des Artikels 13 Absatz 1 der Verordnung
 (EG) Nr. 338/97 und des Artikels IX des Washingtoner
 Artenschutzübereinkommens sind
 
-1.  das Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
-    für den Verkehr mit anderen Vertragsparteien und mit dem Sekretariat
-    (Artikel IX Absatz 2 des Washingtoner Artenschutzübereinkommens), mit
-    Ausnahme der in Nummer 2 Buchstabe a und c sowie Nummer 4 genannten
-    Aufgaben, und für die in Artikel 12 Absatz 1, 3 und 5, den Artikeln 13
-    und 15 Absatz 1 und 5 und Artikel 20 der Verordnung (EG) Nr. 338/97
-    genannten Aufgaben,
+1.  das Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit für den Verkehr mit anderen Vertragsparteien und mit
+    dem Sekretariat (Artikel IX Absatz 2 des Washingtoner
+    Artenschutzübereinkommens), mit Ausnahme der in Nummer 2 Buchstabe a
+    und c sowie Nummer 4 genannten Aufgaben, und für die in Artikel 12
+    Absatz 1, 3 und 5, den Artikeln 13 und 15 Absatz 1 und 5 und Artikel
+    20 der Verordnung (EG) Nr. 338/97 genannten Aufgaben,
 
 
 2.  das Bundesamt für Naturschutz
@@ -2817,34 +3060,81 @@ Artenschutzübereinkommens sind
 Verordnung (EG) Nr. 338/97 ist das Bundesamt für Naturschutz.
 
 
-#### § 49 Mitwirkung der Zollbehörden; Ermächtigung zum Erlass von Rechtsverordnungen
+#### § 48a Zuständige Behörden in Bezug auf invasive Arten
 
-(1) Das Bundesministerium der Finanzen und die von ihm bestimmten
-Zollbehörden wirken mit bei der Überwachung des Verbringens von Tieren
-und Pflanzen, die einer Ein- oder Ausfuhrregelung nach Rechtsakten der
-Europäischen Gemeinschaft unterliegen, sowie bei der Überwachung von
-Besitz- und Vermarktungsverboten nach diesem Kapitel im Warenverkehr
-mit Drittstaaten. Die Zollbehörden dürfen im Rahmen der Überwachung
-vorgelegte Dokumente an die nach § 48 zuständigen Behörden
-weiterleiten, soweit zureichende tatsächliche Anhaltspunkte dafür
-bestehen, dass Tiere oder Pflanzen unter Verstoß gegen Regelungen oder
-Verbote im Sinne des Satzes 1 verbracht werden.
+Zuständig für den Vollzug der Verordnung (EU) Nr. 1143/2014, der
+Vorschriften dieses Gesetzes und der auf ihrer Grundlage erlassenen
+Rechtsvorschriften in Bezug auf invasive Arten sind
 
-(2) Das Bundesministerium der Finanzen wird ermächtigt, im
-Einvernehmen mit dem Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die Einzelheiten des Verfahrens nach Absatz 1 zu regeln;
-soweit es erforderlich ist, kann es dabei auch Pflichten zu Anzeigen,
-Anmeldungen, Auskünften und zur Leistung von Hilfsdiensten sowie zur
-Duldung der Einsichtnahme in Geschäftspapiere und sonstige Unterlagen
-und zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher
-Muster und Proben vorsehen.
+1.  das Bundesministerium für Umwelt, Naturschutz, Bau und
+    Reaktorsicherheit für die Erfüllung von Verpflichtungen zur
+    Notifizierung und Unterrichtung der Europäischen Kommission und
+    anderer Mitgliedstaaten gemäß Artikel 10 Absatz 2, Artikel 12 Absatz 1
+    und 2, Artikel 16 Absatz 2, Artikel 17 Absatz 1 und 4, Artikel 18
+    Absatz 1, Artikel 19 Absatz 5, Artikel 23 und 24 Absatz 2 der
+    Verordnung;
 
-(3) Die Zollstellen, bei denen Tiere und Pflanzen zur Ein-, Durch- und
+
+2.  das Bundesamt für Naturschutz
+
+    a)  für den Vollzug im Bereich der deutschen ausschließlichen
+        Wirtschaftszone und des Festlandsockels und
+
+
+    b)  für die Erteilung von Genehmigungen gemäß § 40c bei Verbringung aus
+        dem Ausland;
+
+
+
+
+
+3.  die zuständigen Dienststellen der Bundeswehr
+
+    a)  im Hinblick auf militärisches Gerät der Bundeswehr,
+
+
+    b)  für die Durchführung der Überwachung nach Artikel 14, der
+        Früherkennung nach Artikel 16 Absatz 1, von Maßnahmen zur sofortigen
+        Beseitigung nach den Artikeln 17 und 18 der Verordnung sowie der nach
+        § 40e festgelegten Managementmaßnahmen auf den durch die Bundeswehr
+        militärisch genutzten Flächen;
+
+
+
+
+
+4.  die Bundesanstalt für Immobilienaufgaben für die Durchführung der in
+    Nummer 3 Buchstabe b genannten Maßnahmen auf den durch die
+    Gaststreitkräfte militärisch genutzten Flächen;
+
+
+5.  für alle übrigen Aufgaben die nach Landesrecht zuständigen Behörden.
+
+
+
+Die in Satz 1 Nummer 3 und 4 genannten Behörden führen die in Nummer 3
+Buchstabe b und Nummer 4 genannten Maßnahmen im Benehmen mit den für
+Naturschutz und Landschaftspflege zuständigen Behörden und unter
+Berücksichtigung der durch diese festgelegten Zielvorgaben durch.
+
+
+#### § 49 Mitwirkung der Zollbehörden
+
+(1) Die Zollbehörden wirken mit bei der Überwachung des Verbringens
+von Tieren und Pflanzen, die einer Ein- oder Ausfuhrregelung nach
+Rechtsakten der Europäischen Gemeinschaft unterliegen, sowie bei der
+Überwachung von Besitz- und Vermarktungsverboten nach diesem Kapitel
+im Warenverkehr mit Drittstaaten. Die Zollbehörden dürfen im Rahmen
+der Überwachung vorgelegte Dokumente an die nach § 48 zuständigen
+Behörden weiterleiten, soweit zureichende tatsächliche Anhaltspunkte
+dafür bestehen, dass Tiere oder Pflanzen unter Verstoß gegen
+Regelungen oder Verbote im Sinne des Satzes 1 verbracht werden.
+
+(2) Die Zollstellen, bei denen Tiere und Pflanzen zur Ein-, Durch- und
 Ausfuhr nach diesem Kapitel anzumelden sind, werden vom
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit im
-Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger
-bekannt gegeben. Auf Zollstellen, bei denen lebende Tiere und Pflanzen
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+im Einvernehmen mit der Generalzolldirektion im Bundesanzeiger bekannt
+gegeben. Auf Zollstellen, bei denen lebende Tiere und Pflanzen
 anzumelden sind, ist besonders hinzuweisen.
 
 
@@ -2859,7 +3149,7 @@ Durchfuhr) oder aus dem Geltungsbereich dieses Gesetzes in einen
 Drittstaat verbringt (Ausfuhr), hat diese Tiere oder Pflanzen zur
 Ein-, Durch- oder Ausfuhr unter Vorlage der für die Ein-, Durch- oder
 Ausfuhr vorgeschriebenen Genehmigungen oder sonstigen Dokumente bei
-einer nach § 49 Absatz 3 bekannt gegebenen Zollstelle anzumelden und
+einer nach § 49 Absatz 2 bekannt gegebenen Zollstelle anzumelden und
 auf Verlangen vorzuführen. Das Bundesamt für Naturschutz kann auf
 Antrag aus vernünftigem Grund eine andere als die in Satz 1
 bezeichnete Zollstelle zur Abfertigung bestimmen, wenn diese ihr
@@ -2883,8 +3173,8 @@ Verwahrung beauftragen; sie kann die Tiere oder Pflanzen auch der
 verfügungsberechtigten Person unter Auferlegung eines
 Verfügungsverbotes überlassen. Zur Klärung der Zweifel kann die
 Zollbehörde von der verfügungsberechtigten Person die Vorlage einer
-Bescheinigung einer vom Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit anerkannten unabhängigen sachverständigen Stelle
+Bescheinigung einer vom Bundesministerium für Umwelt, Naturschutz, Bau
+und Reaktorsicherheit anerkannten unabhängigen sachverständigen Stelle
 oder Person darüber verlangen, dass es sich nicht um Tiere oder
 Pflanzen handelt, die zu den Arten oder Populationen gehören, die
 einer von der Europäischen Gemeinschaft erlassenen Ein- oder
@@ -2897,9 +3187,9 @@ Verwahrung zu erstatten.
 (2) Wird bei der zollamtlichen Überwachung festgestellt, dass Tiere
 oder Pflanzen ohne die vorgeschriebenen Genehmigungen oder sonstigen
 Dokumente
-ein-,              durch- oder ausgeführt werden, werden sie durch die
-Zollbehörde beschlagnahmt. Beschlagnahmte Tiere oder Pflanzen können
-der verfügungsberechtigten Person unter Auferlegung eines
+ein-, durch- oder ausgeführt werden, werden sie durch die Zollbehörde
+beschlagnahmt. Beschlagnahmte Tiere oder Pflanzen können der
+verfügungsberechtigten Person unter Auferlegung eines
 Verfügungsverbotes überlassen werden. Werden die vorgeschriebenen
 Genehmigungen oder sonstigen Dokumente nicht innerhalb eines Monats
 nach der Beschlagnahme vorgelegt, so ordnet die Zollbehörde die
@@ -2908,9 +3198,16 @@ bis zu insgesamt sechs Monaten. Wird festgestellt, dass es sich um
 Tiere oder Pflanzen handelt, für die eine Ein- oder Ausfuhrgenehmigung
 nicht erteilt werden darf, werden sie sofort eingezogen.
 
-(3) Absatz 2 gilt entsprechend, wenn bei der zollamtlichen Überwachung
-nach § 50 Absatz 1 festgestellt wird, dass dem Verbringen Besitz- und
-Vermarktungsverbote entgegenstehen.
+(2a) Die Zollbehörden können bei Verdacht eines Verstoßes gegen
+Regelungen im Sinne des § 49 Absatz 1, der sich bei der Wahrnehmung
+ihrer Aufgaben ergibt, Adressdaten der ein-, durch- oder ausführenden
+Person den gemäß § 70 zuständigen Behörden mitteilen. Der Betroffene
+ist hierüber in Kenntnis zu setzen. Das Brief- und Postgeheimnis
+(Artikel 10 des Grundgesetzes) wird insoweit eingeschränkt.
+
+(3) Die Absätze 2 und 2a gelten entsprechend, wenn bei der
+zollamtlichen Überwachung nach § 50 Absatz 1 festgestellt wird, dass
+dem Verbringen Besitz- und Vermarktungsverbote entgegenstehen.
 
 (4) Werden beschlagnahmte oder eingezogene Tiere oder Pflanzen
 veräußert, wird der Erlös an den Eigentümer ausgezahlt, wenn er
@@ -2929,6 +3226,80 @@ diesem die Umstände, die die Beschlagnahme oder Einziehung veranlasst
 haben, bekannt waren oder hätten bekannt sein müssen.
 
 
+#### § 51a Überwachung des Verbringens invasiver Arten in die Union
+
+(1) Zuständig für amtliche Kontrollen nach Artikel 15 Absatz 2 der
+Verordnung (EU) Nr. 1143/2014 zur Verhütung der vorsätzlichen
+Einbringung von invasiven Arten sind
+
+1.  in Bezug auf pflanzliche Warenkategorien, die in der Unionsliste nach
+    Artikel 4 Absatz 5 der Verordnung (EU) Nr. 1143/2014 aufgeführt sind
+    und die aufgrund der pflanzenbeschaurechtlichen Einfuhrvorschriften
+    der Europäischen Union bei der Verbringung in die Union amtlichen
+    Kontrollen unterliegen, die nach Landesrecht zuständigen Behörden;
+
+
+2.  in Bezug auf tierische Warenkategorien, die in der Unionsliste nach
+    Artikel 4 Absatz 5 der Verordnung (EU) Nr. 1143/2014 aufgeführt sind
+    und die aufgrund der tiergesundheitsrechtlichen Einfuhrvorschriften
+    der Europäischen Union bei der Verbringung in die Union amtlichen
+    Kontrollen unterliegen, die nach Landesrecht zuständigen Behörden.
+
+
+
+Satz 1 gilt entsprechend für in einer Rechtsverordnung nach § 54
+Absatz 4 festgelegte Arten und diesen zugehörige Warenkategorien.
+
+(2) Die Zollbehörden wirken bei der Überwachung des Verbringens von
+invasiven Arten nach Artikel 15 der Verordnung (EU) Nr. 1143/2014 aus
+Drittstaaten mit. Die Zollbehörden können
+
+1.  Sendungen einschließlich der Beförderungsmittel, Behälter, Lade- und
+    Verpackungsmittel bei der Einfuhr zur Überwachung anhalten,
+
+
+2.  den Verdacht eines Verstoßes gegen Vorschriften der Verordnung (EU)
+    Nr. 1143/2014, dieses Gesetzes oder der auf ihrer Grundlage erlassenen
+    Rechtsvorschriften, der sich bei der Wahrnehmung ihrer Aufgaben
+    ergibt, den nach Landesrecht zuständigen Behörden und dem Bundesamt
+    für Naturschutz mitteilen und die im Rahmen der Überwachung
+    vorgelegten Dokumente an diese weiterleiten und
+
+
+3.  im Fall der Nummer 2 anordnen, dass Sendungen auf Kosten und Gefahr
+    des Verfügungsberechtigten den nach Landesrecht zuständigen Behörden
+    vorgeführt werden.
+
+
+
+Das Brief- und Postgeheimnis nach Artikel 10 des Grundgesetzes wird
+insoweit eingeschränkt. Unterliegen Warenkategorien keiner amtlichen
+Kontrolle durch die in Absatz 1 genannten Behörden, findet § 51
+Anwendung.
+
+(3) Wird im Rahmen der amtlichen Kontrollen für die in Absatz 1 Nummer
+1 und 2 genannten Warenkategorien festgestellt, dass Tiere oder
+Pflanzen einer invasiven Art aus Drittstaaten verbracht werden sollen,
+ohne dass eine erforderliche Genehmigung nach § 40c vorgelegt oder
+eine Berechtigung nach Artikel 31 der Verordnung (EU) Nr. 1143/2014
+glaubhaft gemacht wird, werden sie durch die nach Landesrecht
+zuständigen Behörden beschlagnahmt. Beschlagnahmte Tiere oder Pflanzen
+können der verfügungsberechtigten Person unter Auferlegung eines
+Verfügungsverbots überlassen werden.
+
+(4) Wird die erforderliche Genehmigung nicht innerhalb eines Monats
+nach der Beschlagnahme vorgelegt, so können die nach Landesrecht
+zuständigen Behörden die Zurückweisung einer Sendung von der Einfuhr
+anordnen. Ist die Erteilung einer Genehmigung offensichtlich
+ausgeschlossen, so kann eine sofortige Zurückweisung erfolgen. Sofern
+eine Zurückweisung der Sendung nicht möglich ist, kann diese
+eingezogen werden; eingezogene Pflanzen können vernichtet werden. § 51
+Absatz 5 gilt entsprechend. Die Frist nach Satz 1 kann angemessen
+verlängert werden, längstens bis zu insgesamt sechs Monaten. Die Sätze
+1 bis 5 gelten entsprechend für die Glaubhaftmachung des Vorliegens
+der Voraussetzungen des Artikels 31 der Verordnung (EU) Nr. 1143/2014.
+
+
 ### Abschnitt 5 - Auskunfts- und Zutrittsrecht; Gebühren und Auslagen
 
 
@@ -2936,10 +3307,11 @@ haben, bekannt waren oder hätten bekannt sein müssen.
 
 (1) Natürliche und juristische Personen sowie nicht rechtsfähige
 Personenvereinigungen haben den für Naturschutz und Landschaftspflege
-zuständigen Behörden oder nach § 49 mitwirkenden Behörden auf
-Verlangen die Auskünfte zu erteilen, die zur Durchführung der
-Rechtsakte der Europäischen Gemeinschaft, dieses Kapitels oder der zu
-ihrer Durchführung erlassenen Rechtsvorschriften erforderlich sind.
+zuständigen oder den gemäß § 48a zuständigen Behörden oder nach § 49
+oder § 51a mitwirkenden Behörden auf Verlangen die Auskünfte zu
+erteilen, die zur Durchführung der Rechtsakte der Europäischen
+Gemeinschaft, dieses Kapitels oder der zu ihrer Durchführung
+erlassenen Rechtsvorschriften erforderlich sind.
 
 (2) Personen, die von den in Absatz 1 genannten Behörden beauftragt
 sind, dürfen, soweit dies erforderlich ist, im Rahmen des Absatzes 1
@@ -2954,30 +3326,46 @@ die geschäftlichen Unterlagen auf Verlangen vorzulegen.
 (3) Für die zur Auskunft verpflichtete Person gilt § 55 der
 Strafprozessordnung entsprechend.
 
+(4) Die zuständigen Behörden und ihre Beauftragten dürfen, soweit dies
+für den Vollzug der Verordnung (EU) Nr. 1143/2014, dieses Gesetzes und
+der auf ihrer Grundlage erlassenen Rechtsvorschriften in Bezug auf
+invasive Arten erforderlich ist, privat, betrieblich oder geschäftlich
+genutzte Grundstücke, Gebäude, Räume, Seeanlagen und Transportmittel
+ohne Einwilligung des Inhabers betreten. Gebäude und Räume dürfen nach
+dieser Vorschrift nur betreten werden, wenn sie nicht zu Wohnzwecken
+genutzt werden. Im Fall betrieblicher Nutzung soll die Maßnahme
+während der Geschäfts- und Betriebszeiten durchgeführt werden. Im Fall
+privater Nutzung sollen dem Eigentümer und dem unmittelbaren Besitzer
+die Möglichkeit gegeben werden, bei der Maßnahme anwesend zu sein. Das
+Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des
+Grundgesetzes) wird insoweit eingeschränkt.
+
 
 #### § 53 Gebühren und Auslagen; Ermächtigung zum Erlass von Rechtsverordnungen
 
-(1) Das Bundesamt für Naturschutz erhebt für seine Amtshandlungen nach
-den Vorschriften dieses Kapitels sowie nach den Vorschriften der
-Verordnung (EG) Nr. 338/97 Gebühren und Auslagen.
+(1) Das Bundesamt für Naturschutz erhebt für seine individuell
+zurechenbaren öffentlichen Leistungen nach den Vorschriften dieses
+Kapitels sowie nach den Vorschriften der Verordnung (EG) Nr. 338/97 in
+der jeweils geltenden Fassung sowie auf deren Grundlage erlassenen
+Verordnungen in der jeweils geltenden Fassung Gebühren und Auslagen.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen, dem Bundesministerium für Ernährung,
-Landwirtschaft und Verbraucherschutz und dem Bundesministerium für
-Wirtschaft und Technologie durch Rechtsverordnung ohne Zustimmung des
-Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze und
-die Auslagenerstattung zu bestimmen und dabei feste Sätze und
-Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend
-vom Verwaltungskostengesetz geregelt werden.
+Bundesministerium der Finanzen, dem Bundesministerium für Ernährung
+und Landwirtschaft und dem Bundesministerium für Wirtschaft und
+Energie durch Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände, die Gebührensätze und die
+Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze
+vorzusehen. Die zu erstattenden Auslagen können abweichend vom
+Bundesgebührengesetz geregelt werden.
 
 
 ### Abschnitt 6 - Ermächtigungen
 
 
-#### § 54 Ermächtigung zum Erlass von Rechtsverordnungen
+#### § 54 
 
-(1) Das Bundesministerium für Umwelt, Naturschutz und
+(1) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates bestimmte, nicht unter § 7 Absatz 2 Nummer
 13 Buchstabe a oder Buchstabe b fallende Tier- und Pflanzenarten oder
@@ -2996,7 +3384,7 @@ es sich um natürlich vorkommende Arten handelt, die
 
 
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
@@ -3022,7 +3410,7 @@ vorkommende Arten handelt, die im Inland vom Aussterben bedroht sind
 oder für die die Bundesrepublik Deutschland in besonders hohem Maße
 verantwortlich ist.
 
-(3) Das Bundesministerium für Umwelt, Naturschutz und
+(3) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates
 
@@ -3039,21 +3427,73 @@ Zustimmung des Bundesrates
     des § 44 ganz, teilweise oder unter bestimmten Voraussetzungen
     auszunehmen, soweit der Schutzzweck dadurch nicht gefährdet wird und
     die Artikel 12, 13 und 16 der Richtlinie 92/43/EWG, die Artikel 5 bis
-    7 und 9 der Richtlinie 79/409/EWG, sonstige Rechtsakte der
+    7 und 9 der Richtlinie 2009/147/EG, sonstige Rechtsakte der
     Europäischen Gemeinschaft oder Verpflichtungen aus internationalen
     Artenschutzübereinkommen dem nicht entgegenstehen.
 
 
 
 
-(4) Das Bundesministerium für Umwelt, Naturschutz und
+(4) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates invasive Tier- und Pflanzenarten zu
-bestimmen, für die nach § 44 Absatz 3 Nummer 2 die Verbote des § 44
-Absatz 2 gelten, soweit dies erforderlich ist, um einer Gefährdung von
-Ökosystemen, Biotopen oder Arten entgegenzuwirken.
+Zustimmung des Bundesrates die Beschränkungen des Artikels 7 Absatz 1,
+die Überwachungspflicht gemäß Artikel 14, die amtlichen Kontrollen
+gemäß Artikel 15, die Pflicht zur sofortigen Beseitigung gemäß Artikel
+17, die Managementpflicht gemäß Artikel 19 und die
+Wiederherstellungspflicht gemäß Artikel 20 der Verordnung (EU) Nr.
+1143/2014 ganz oder teilweise zu erstrecken
 
-(5) Das Bundesministerium für Umwelt, Naturschutz und
+1.  auf solche Arten, für die die Voraussetzungen des Artikels 10 Absatz 1
+    der Verordnung (EU) Nr. 1143/2014 vorliegen,
+
+
+2.  auf Arten, für die Durchführungsrechtsakte nach Artikel 11 Absatz 2
+    Satz 2 der Verordnung (EU) Nr. 1143/2014 erlassen wurden, oder
+
+
+3.  auf weitere Arten, deren Vorkommen außerhalb ihres natürlichen
+    Verbreitungsgebiets die biologische Vielfalt und die damit verbundenen
+    Ökosystemdienstleistungen im Inland gefährden oder nachteilig
+    beeinflussen.
+
+
+
+Für die betroffenen Arten gelten die Artikel 31 und 32 der Verordnung
+(EU) Nr. 1143/2014 entsprechend. Satz 1 Nummer 3 gilt nicht für in der
+Land- und Forstwirtschaft angebaute Pflanzen.
+
+(4a) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates zur Erleichterung von Maßnahmen gegen
+invasive Arten bestimmte Verfahren, Mittel oder Geräte für Maßnahmen
+gegen invasive Arten, die durch Behörden oder Private durchgeführt
+werden, vorzuschreiben.
+
+(4b) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates zur Erleichterung der Überwachung des
+Genehmigungserfordernisses nach § 40 Absatz 1
+
+1.  die Vorkommensgebiete von Gehölzen und Saatgut zu bestimmen,
+
+
+2.  einen Nachweis, dass Gehölze und Saatgut aus bestimmten
+    Vorkommensgebieten stammen, vorzuschreiben und Anforderungen für einen
+    solchen Nachweis festzulegen,
+
+
+3.  Regelungen zu Mindeststandards für die Erfassung und Anerkennung von
+    Erntebeständen gebietseigener Herkünfte zu treffen.
+
+
+
+
+(4c) Das Bundesministerium für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
+Zustimmung des Bundesrates die Durchführung der amtlichen Kontrollen
+gemäß Artikel 15 der Verordnung (EU) Nr. 1143/2014 zu regeln.
+
+(5) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des
 Artenschutzes erforderlich ist und Rechtsakte der Europäischen
 Gemeinschaft dem nicht entgegenstehen, durch Rechtsverordnung mit
@@ -3066,14 +3506,13 @@ Zustimmung des Bundesrates
 
 
 
-bestimmter besonders geschützter Arten sowie von Tieren und Pflanzen
-der durch Rechtsverordnung nach § 54 Absatz 4 bestimmten Arten zu
-verbieten oder zu beschränken.
+bestimmter besonders geschützter Arten zu verbieten oder zu
+beschränken.
 
-(6) Das Bundesministerium für Umwelt, Naturschutz und
+(6) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, soweit dies aus Gründen des
 Artenschutzes, insbesondere zur Erfüllung der sich aus Artikel 15 der
-Richtlinie 92/43/EWG, Artikel 8 der Richtlinie 79/409/EWG oder aus
+Richtlinie 92/43/EWG, Artikel 8 der Richtlinie 2009/147/EG oder aus
 internationalen Artenschutzübereinkommen ergebenden Verpflichtungen,
 erforderlich ist, durch Rechtsverordnung mit Zustimmung des
 Bundesrates
@@ -3098,7 +3537,7 @@ Geräte, Mittel oder Vorrichtungen, die auf Grund anderer
 Rechtsvorschriften einer Zulassung bedürfen, sofern bei der Zulassung
 die Belange des Artenschutzes zu berücksichtigen sind.
 
-(7) Das Bundesministerium für Umwelt, Naturschutz und
+(7) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Vorschriften zum Schutz von Horststandorten
 von Vogelarten zu erlassen, die in ihrem Bestand gefährdet und in
@@ -3109,9 +3548,10 @@ Weiter gehende Schutzvorschriften einschließlich der Bestimmungen über
 Ausnahmen und Befreiungen bleiben unberührt.
 
 (8) Zur Erleichterung der Überwachung der Besitz- und
-Vermarktungsverbote wird das Bundesministerium für Umwelt, Naturschutz
-und Reaktorsicherheit ermächtigt, durch Rechtsverordnung mit
-Zustimmung des Bundesrates Vorschriften zu erlassen über
+Vermarktungsverbote wird das Bundesministerium für Umwelt,
+Naturschutz, Bau und Reaktorsicherheit ermächtigt, durch
+Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften zu
+erlassen über
 
 1.  Aufzeichnungspflichten derjenigen, die gewerbsmäßig Tiere oder
     Pflanzen der besonders geschützten Arten be- oder verarbeiten,
@@ -3123,7 +3563,8 @@ Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 
 2.  die Kennzeichnung von Tieren und Pflanzen der besonders geschützten
-    Arten für den Nachweis nach § 46,
+    Arten für den Nachweis nach § 46 sowie von invasiven Arten für den
+    Nachweis nach § 40b Satz 1,
 
 
 3.  die Erteilung von Bescheinigungen über den rechtmäßigen Erwerb von
@@ -3145,16 +3586,20 @@ Zustimmung des Bundesrates Vorschriften zu erlassen über
 
 
 (9) Rechtsverordnungen nach Absatz 1 Nummer 2 bedürfen des
-Einvernehmens mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz, mit dem Bundesministerium für Verkehr, Bau und
-Stadtentwicklung sowie mit dem Bundesministerium für Wirtschaft und
-Technologie. Rechtsverordnungen nach Absatz 6 Satz 1 Nummer 1 und
-Absatz 8 Nummer 1, 2 und 4 bedürfen des Einvernehmens mit dem
-Bundesministerium für Wirtschaft und Technologie. Im Übrigen bedürfen
-die Rechtsverordnungen nach den Absätzen 1 bis 8 des Einvernehmens mit
-dem Bundesministerium für Ernährung, Landwirtschaft und
-Verbraucherschutz, in den Fällen der Absätze 1 bis 6 und 8 jedoch nur,
-soweit sie sich beziehen auf
+Einvernehmens mit dem Bundesministerium für Ernährung und
+Landwirtschaft, mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur sowie mit dem Bundesministerium für Wirtschaft und
+Energie. Rechtsverordnungen nach den Absätzen 4 und 4b bedürfen des
+Einvernehmens mit dem Bundesministerium für Verkehr und digitale
+Infrastruktur. Rechtsverordnungen nach Absatz 4c bedürfen des
+Einvernehmens mit dem Bundesministerium der Finanzen sowie dem
+Bundesministerium für Ernährung und Landwirtschaft. Rechtsverordnungen
+nach Absatz 6 Satz 1 Nummer 1 und Absatz 8 Nummer 1, 2 und 4 bedürfen
+des Einvernehmens mit dem Bundesministerium für Wirtschaft und
+Energie. Im Übrigen bedürfen die Rechtsverordnungen nach den Absätzen
+1 bis 8 des Einvernehmens mit dem Bundesministerium für Ernährung und
+Landwirtschaft, in den Fällen der Absätze 1 bis 3, 5, 6 und 8 jedoch
+nur, soweit sie sich beziehen auf
 
 1.  Tierarten, die dem Jagd- oder Fischereirecht unterliegen,
 
@@ -3202,7 +3647,7 @@ Rechtsakten des Rates oder der Kommission der Europäischen
 Gemeinschaften auf dem Gebiet des Artenschutzes oder zur Erfüllung von
 internationalen Artenschutzübereinkommen erlassen werden.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit wird ermächtigt, durch Rechtsverordnung mit
 Zustimmung des Bundesrates Verweisungen auf Vorschriften in
 Rechtsakten der Europäischen Gemeinschaft in diesem Gesetz oder in
@@ -3228,34 +3673,98 @@ des § 20 Absatz 2 auch dazu dienen, zusammenhängende und
 repräsentative Netze geschützter Meeresgebiete im Sinne des Artikels
 13 Absatz 4 der Richtlinie 2008/56/EG aufzubauen.
 
-(3) Auf die Errichtung und den Betrieb von Windkraftanlagen in der
-deutschen ausschließlichen Wirtschaftszone, die bis zum 1. Januar 2017
-genehmigt worden sind, findet § 15 keine Anwendung.
+(3) Auf die Errichtung und den Betrieb von Windenergieanlagen in der
+deutschen ausschließlichen Wirtschaftszone, die vor dem 1. Januar 2017
+genehmigt worden sind, oder die auf Grundlage eines Zuschlags nach §
+34 des Windenergie-auf-See-Gesetzes zugelassen werden, ist § 15 nicht
+anzuwenden.
+
+(4) Die Ersatzzahlung für Eingriffe im Bereich der ausschließlichen
+Wirtschaftszone und des Festlandsockels ist als zweckgebundene Abgabe
+an den Bund zu leisten. Die Mittel werden vom Bundesministerium für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit bewirtschaftet. Das
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+kann Einnahmen aus Ersatzzahlungen zur Verwendung nach seinen Vorgaben
+an eine der Aufsicht des Bundes unterstehende Einrichtung oder eine
+vom Bund beherrschte Gesellschaft oder Stiftung weiterleiten.
+
+
+### § 56a Bevorratung von Kompensationsmaßnahmen
+
+(1) Die Bevorratung vorgezogener Ausgleichs- und Ersatzmaßnahmen im
+Sinne von § 16 bedarf im Bereich der deutschen ausschließlichen
+Wirtschaftszone und des Festlandsockels der schriftlichen Zustimmung
+durch das Bundesamt für Naturschutz. Die Zustimmung ist vor
+Durchführung der zu bevorratenden Ausgleichs- und Ersatzmaßnahme auf
+Antrag zu erteilen, soweit die Maßnahme
+
+1.  geeignet ist, die Anerkennungsvoraussetzungen des § 16 Absatz 1 Nummer
+    1 bis 3 und 5 zu erfüllen und
+
+
+2.  im jeweiligen Raum den Zielen des Naturschutzes und der
+    Landschaftspflege sowie den Erfordernissen und Maßnahmen zur Umsetzung
+    dieser Ziele nicht widerspricht.
+
+
+
+Die Verortung von vorgezogenen Ausgleichs- und Ersatzmaßnahmen erfolgt
+im Benehmen mit den Behörden, deren Aufgabenbereich berührt ist. Das
+Bundesamt für Naturschutz kann die Vorlage von Gutachten verlangen,
+soweit dies zur Beurteilung der Maßnahme erforderlich ist.
+
+(2) Art, Ort, Umfang und Kompensationswert der Maßnahmen werden
+verbindlich in einem Ökokonto festgestellt, wenn die Maßnahmen gemäß
+der Zustimmung nach Absatz 1 durchgeführt worden sind. Der Anspruch
+auf Anerkennung der bevorrateten Maßnahmen nach § 16 Absatz 1 ist auf
+Dritte übertragbar.
+
+(3) Die Verantwortung für die Ausführung, Unterhaltung und Sicherung
+der Ausgleichs- und Ersatzmaßnahmen nach § 15 Absatz 4 kann von
+Dritten mit befreiender Wirkung übernommen werden, soweit diese nach
+Satz 2 anerkannt sind. Das Bundesamt für Naturschutz hat die
+Berechtigung juristischer Personen zur Übernahme von
+Kompensationspflichten im Bereich der deutschen ausschließlichen
+Wirtschaftszone und des Festlandsockels anzuerkennen, wenn
+
+1.  sie die Gewähr dafür bieten, dass die Verpflichtungen ordnungsgemäß
+    erfüllt werden, insbesondere durch Einsatz von Beschäftigten mit
+    geeigneter Ausbildung sowie durch wirtschaftliche Leistungsfähigkeit,
+    und
+
+
+2.  keine Tatsachen vorliegen, die die Annahme der Unzuverlässigkeit der
+    vertretungsberechtigten Personen rechtfertigen.
+
+
+
+Die Übernahme der Verantwortung erfolgt durch unbedingte schriftliche
+Vereinbarung, die nicht widerrufen werden kann. Der Verursacher oder
+sein Rechtsnachfolger übermittelt die Vereinbarung der für die
+Zulassungsentscheidung zuständigen Behörde.
 
 
 ### § 57 Geschützte Meeresgebiete im Bereich der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels; Ermächtigung zum Erlass von Rechtsverordnungen
 
 (1) Die Auswahl von geschützten Meeresgebieten im Bereich der
 deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
-erfolgt durch das Bundesamt für Naturschutz unter Einbeziehung der
-Öffentlichkeit mit Zustimmung des Bundesministeriums für Umwelt,
-Naturschutz und Reaktorsicherheit. Das Bundesministerium für Umwelt,
-Naturschutz und Reaktorsicherheit beteiligt die fachlich betroffenen
-Bundesministerien und stellt das Benehmen mit den angrenzenden Ländern
-her.
+erfolgt durch das Bundesamt für Naturschutz unter Beteiligung der
+Behörden, deren Aufgabenbereich berührt ist, und unter Einbeziehung
+der Öffentlichkeit und mit Zustimmung des Bundesministeriums für
+Umwelt, Naturschutz, Bau und Reaktorsicherheit. Das Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit beteiligt die
+fachlich betroffenen Bundesministerien und stellt das Benehmen mit den
+angrenzenden Ländern her.
 
 (2) Die Erklärung der Meeresgebiete zu geschützten Teilen von Natur
 und Landschaft im Sinne des § 20 Absatz 2 erfolgt durch das
-Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit unter
-Beteiligung der fachlich betroffenen Bundesministerien durch
+Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit
+unter Beteiligung der fachlich betroffenen Bundesministerien durch
 Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf.
 
-(3) Für die Auswahl von Gebieten im Sinne des § 32 Absatz 1 Satz 1 und
-die Erklärung von Gebieten im Sinne des § 32 Absatz 2 zu geschützten
-Teilen von Natur und Landschaft im Sinne des § 20 Absatz 2 im Bereich
-der deutschen ausschließlichen Wirtschaftszone und des Festlandsockels
-ist § 32 vorbehaltlich nachfolgender Nummern 1 bis 5 entsprechend
-anzuwenden:
+(3) Für die Erklärung der Meeresgebiete zu geschützten Teilen von
+Natur und Landschaft im Sinne des § 20 Absatz 2, einschließlich ihrer
+Auswahl, sind die folgenden Maßgaben zu beachten:
 
 1.  Beschränkungen des Flugverkehrs, der Schifffahrt, der nach
     internationalem Recht erlaubten militärischen Nutzung sowie von
@@ -3282,15 +3791,38 @@ anzuwenden:
     vom 31. Oktober 2006 (BGBl. I S. 2407) geändert worden ist, zulässig.
 
 
-4.  Beschränkungen bei der Verlegung von unterseeischen Kabeln und
-    Rohrleitungen sind nur nach § 34 und in Übereinstimmung mit Artikel 56
-    Absatz 3 in Verbindung mit Artikel 79 des Seerechtsübereinkommens der
-    Vereinten Nationen zulässig.
+4.  Beschränkungen der Verlegung von unterseeischen Kabeln und
+    Rohrleitungen sind nur in Übereinstimmung mit Artikel 56 Absatz 3 in
+    Verbindung mit Artikel 79 des Seerechtsübereinkommens der Vereinten
+    Nationen zulässig und
+
+    a)  im Hinblick auf Erhaltungsziele nach § 7 Absatz 1 Nummer 9 nur nach §
+        34 sowie
 
 
-5.  Beschränkungen bei der Energieerzeugung aus Wasser, Strömung und Wind
-    sowie bei der Aufsuchung und Gewinnung von Bodenschätzen sind nur nach
-    § 34 zulässig.
+    b)  im Hinblick auf weitere der Erfüllung bestehender völkerrechtlicher
+        Verpflichtungen oder der Umsetzung der Richtlinie 2008/56/EG dienenden
+        Schutzzwecke nur, wenn die Verlegung diese erheblich beeinträchtigen
+        kann.
+
+
+
+
+
+5.  Beschränkungen der Energieerzeugung aus Wasser, Strömung und Wind
+    sowie der Aufsuchung und Gewinnung von Bodenschätzen sind zulässig
+
+    a)  im Hinblick auf Erhaltungsziele nach § 7 Absatz 1 Nummer 9 nur nach §
+        34 sowie
+
+
+    b)  im Hinblick auf weitere der Erfüllung bestehender völkerrechtlicher
+        Verpflichtungen oder der Umsetzung der Richtlinie 2008/56/EG dienenden
+        Schutzzwecke nur, wenn das Vorhaben diese erheblich beeinträchtigen
+        kann.
+
+
+
 
 
 
@@ -3311,25 +3843,26 @@ behördlichen Zulassung oder einer Anzeige an eine Behörde oder wird er
 von einer Behörde durchgeführt, ergeht die Entscheidung der Behörde im
 Benehmen mit dem Bundesamt für Naturschutz.
 
-(2) Das Bundesministerium für Umwelt, Naturschutz und
+(2) Das Bundesministerium für Umwelt, Naturschutz, Bau und
 Reaktorsicherheit kann durch Rechtsverordnung, die nicht der
 Zustimmung des Bundesrates bedarf, Aufgaben, die dem Bundesamt für
 Naturschutz nach Absatz 1 obliegen, im Einvernehmen mit dem
 Bundesministerium des Innern auf das Bundespolizeipräsidium und im
-Einvernehmen mit dem Bundesministerium für Ernährung, Landwirtschaft
-und Verbraucherschutz auf die Bundesanstalt für Landwirtschaft und
-Ernährung zur Ausübung übertragen.
+Einvernehmen mit dem Bundesministerium für Ernährung und
+Landwirtschaft auf die Bundesanstalt für Landwirtschaft und Ernährung
+zur Ausübung übertragen.
 
-(3) Für seine Amtshandlungen nach den in Absatz 1 Satz 1 genannten
-Vorschriften im Bereich der deutschen ausschließlichen Wirtschaftszone
-und des Festlandsockels erhebt das Bundesamt für Naturschutz Gebühren
-und Auslagen. Das Bundesministerium für Umwelt, Naturschutz und
-Reaktorsicherheit wird ermächtigt, im Einvernehmen mit dem
-Bundesministerium der Finanzen durch Rechtsverordnung ohne Zustimmung
-des Bundesrates die gebührenpflichtigen Tatbestände, die Gebührensätze
-und die Auslagenerstattung zu bestimmen und dabei feste Sätze und
-Rahmensätze vorzusehen. Die zu erstattenden Auslagen können abweichend
-vom Verwaltungskostengesetz geregelt werden. § 53 bleibt unberührt.
+(3) Für seine individuell zurechenbaren öffentlichen Leistungen nach
+den in Absatz 1 Satz 1 genannten Vorschriften im Bereich der deutschen
+ausschließlichen Wirtschaftszone und des Festlandsockels erhebt das
+Bundesamt für Naturschutz Gebühren und Auslagen. Das Bundesministerium
+für Umwelt, Naturschutz, Bau und Reaktorsicherheit wird ermächtigt, im
+Einvernehmen mit dem Bundesministerium der Finanzen durch
+Rechtsverordnung ohne Zustimmung des Bundesrates die
+gebührenpflichtigen Tatbestände, die Gebührensätze und die
+Auslagenerstattung zu bestimmen und dabei feste Sätze und Rahmensätze
+vorzusehen. Die zu erstattenden Auslagen können abweichend vom
+Bundesgebührengesetz geregelt werden. § 53 bleibt unberührt.
 
 
 ## Kapitel 7 - Erholung in Natur und Landschaft
@@ -3439,13 +3972,14 @@ Sachverständigengutachten zu geben
 1.  bei der Vorbereitung von Verordnungen und anderen im Rang unter dem
     Gesetz stehenden Rechtsvorschriften auf dem Gebiet des Naturschutzes
     und der Landschaftspflege durch die Bundesregierung oder das
-    Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit,
+    Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit,
 
 
 2.  vor der Erteilung von Befreiungen von Geboten und Verboten zum Schutz
-    von geschützten Meeresgebieten im Sinne des § 57 Absatz 2, auch wenn
-    diese durch eine andere Entscheidung eingeschlossen oder ersetzt
-    werden,
+    von geschützten Meeresgebieten im Sinne des § 57 Absatz 2 sowie vor
+    dem Erlass von Abweichungsentscheidungen nach § 34 Absatz 3 bis 5 auch
+    in Verbindung mit § 36 Satz 1 Nummer 2, auch wenn diese durch eine
+    andere Entscheidung eingeschlossen oder ersetzt werden,
 
 
 3.  in Planfeststellungsverfahren, die von Behörden des Bundes oder im
@@ -3486,11 +4020,22 @@ einschlägigen Sachverständigengutachten zu geben
     verdrängter wild lebender Arten in der freien Natur,
 
 
+4a. vor der Erteilung einer Genehmigung für die Errichtung, die
+    Erweiterung, eine wesentliche Änderung oder den Betrieb eines Zoos
+    nach § 42 Absatz 2 Satz 1,
+
+
+4b. vor der Zulassung einer Ausnahme nach § 45 Absatz 7 Satz 1 durch
+    Rechtsverordnung oder durch Allgemeinverfügung,
+
+
 5.  vor der Erteilung von Befreiungen von Geboten und Verboten zum Schutz
     von Gebieten im Sinne des § 32 Absatz 2, Natura 2000-Gebieten,
     Naturschutzgebieten, Nationalparken, Nationalen Naturmonumenten und
-    Biosphärenreservaten, auch wenn diese durch eine andere Entscheidung
-    eingeschlossen oder ersetzt werden,
+    Biosphärenreservaten sowie von Abweichungsentscheidungen nach § 34
+    Absatz 3 bis 5, auch in Verbindung mit § 36 Satz 1 Nummer 2, auch wenn
+    diese durch eine andere Entscheidung eingeschlossen oder ersetzt
+    werden,
 
 
 6.  in Planfeststellungsverfahren, wenn es sich um Vorhaben im Gebiet des
@@ -3524,11 +4069,11 @@ erwarten sind, von einer Mitwirkung abgesehen werden kann.
 
 ### § 64 Rechtsbehelfe
 
-(1) Eine anerkannte Naturschutzvereinigung kann neben den
-Rechtsbehelfen nach § 2 des Umwelt-Rechtsbehelfsgesetzes, ohne in
-eigenen Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der
+(1) Eine anerkannte Naturschutzvereinigung kann, soweit § 1 Absatz 3
+des Umwelt-Rechtsbehelfsgesetzes nicht entgegensteht, ohne in eigenen
+Rechten verletzt zu sein, Rechtsbehelfe nach Maßgabe der
 Verwaltungsgerichtsordnung einlegen gegen Entscheidungen nach § 63
-Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 5 bis 7, wenn die
+Absatz 1 Nummer 2 bis 4 und Absatz 2 Nummer 4a bis 7, wenn die
 Vereinigung
 
 1.  geltend macht, dass die Entscheidung Vorschriften dieses Gesetzes,
@@ -3543,14 +4088,18 @@ Vereinigung
     die Anerkennung darauf bezieht, berührt wird und
 
 
-3.  zur Mitwirkung nach § 63 Absatz 1 Nummer 2 bis 4 oder Absatz 2 Nummer
-    5 bis 7 berechtigt war und sie sich hierbei in der Sache geäußert hat
-    oder ihr keine Gelegenheit zur Äußerung gegeben worden ist.
+3.  zur Mitwirkung nach § 63 Absatz 1 Nummer 2 oder Absatz 2 Nummer 4a bis
+    5 berechtigt war und sie sich hierbei in der Sache geäußert hat oder
+    ihr keine Gelegenheit zur Äußerung gegeben worden ist; dies gilt auch
+    für die Mitwirkung nach § 63 Absatz 1 Nummer 3 und Absatz 2 Nummer 6,
+    sofern für ein solches Planfeststellungsverfahren eine Anwendung des
+    Bundesnaturschutzgesetzes nicht nach § 1 Absatz 3 des Umwelt-
+    Rechtsbehelfsgesetzes ausgeschlossen ist.
 
 
 
 
-(2) § 1 Absatz 1 Satz 4, § 2 Absatz 3 und 4 Satz 1 des Umwelt-
+(2) § 1 Absatz 1 Satz 3 und 4, § 2 Absatz 3 Satz 1 und § 5 des Umwelt-
 Rechtsbehelfsgesetzes gelten entsprechend.
 
 (3) Die Länder können Rechtsbehelfe von anerkannten
@@ -3697,9 +4246,16 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
 
 (2) Ordnungswidrig handelt, wer
 
-1.  entgegen § 44 Absatz 1 Nummer 1 einem wild lebenden Tier nachstellt,
-    es fängt, verletzt oder tötet oder seine Entwicklungsformen aus der
-    Natur entnimmt, beschädigt oder zerstört,
+1.  entgegen § 44 Absatz 1 Nummer 1
+
+    a)  einem wild lebenden Tier nachstellt, es fängt oder verletzt oder seine
+        Entwicklungsformen aus der Natur entnimmt oder beschädigt oder
+
+
+    b)  ein wild lebendes Tier tötet oder seine Entwicklungsformen zerstört,
+
+
+
 
 
 2.  entgegen § 44 Absatz 1 Nummer 2 ein wild lebendes Tier erheblich
@@ -3707,12 +4263,42 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
 
 
 3.  entgegen § 44 Absatz 1 Nummer 3 eine Fortpflanzungs- oder Ruhestätte
-    aus der Natur entnimmt, beschädigt oder zerstört oder
+    aus der Natur entnimmt, beschädigt oder zerstört,
 
 
-4.  entgegen § 44 Absatz 1 Nummer 4 eine wild lebende Pflanze oder ihre
-    Entwicklungsformen aus der Natur entnimmt oder sie oder ihren Standort
-    beschädigt oder zerstört.
+4.  entgegen § 44 Absatz 1 Nummer 4
+
+    a)  eine wild lebende Pflanze oder ihre Entwicklungsformen aus der Natur
+        entnimmt oder sie oder ihren Standort beschädigt oder
+
+
+    b)  eine wild lebende Pflanze oder ihre Entwicklungsformen zerstört,
+
+
+
+
+
+5.  entgegen § 44 Absatz 2 Satz 1 Nummer 1, auch in Verbindung mit § 44
+    Absatz 3,
+
+    a)  ein Tier oder eine Pflanze einer anderen als in § 71a Absatz 1 Nummer
+        2 genannten besonders geschützten Art oder
+
+
+    b)  eine Ware im Sinne des Anhangs der Richtlinie 83/129/EWG
+
+
+
+    in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder be-
+    oder verarbeitet und erkennt oder fahrlässig nicht erkennt, dass sich
+    die Handlung auf ein Tier oder eine Pflanze einer in Buchstabe a
+    genannten Art oder auf eine in Buchstabe b genannte Ware bezieht oder
+
+
+6.  einer Rechtsverordnung nach § 54 Absatz 4 Satz 1 oder Absatz 4a oder
+    einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung
+    zuwiderhandelt, soweit die Rechtsverordnung für einen bestimmten
+    Tatbestand auf diese Bußgeldvorschrift verweist.
 
 
 
@@ -3736,6 +4322,10 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
 4.  entgegen § 23 Absatz 2 Satz 1 in Verbindung mit einer Rechtsverordnung
     nach § 57 Absatz 2 eine dort genannte Handlung oder Maßnahme in einem
     Meeresgebiet vornimmt, das als Naturschutzgebiet geschützt wird,
+
+
+4a. entgegen § 23 Absatz 3, § 24 Absatz 3 Satz 2 oder § 33 Absatz 1a Satz
+    1 eine dort genannte Anlage errichtet,
 
 
 5.  entgegen § 30 Absatz 2 Satz 1 ein dort genanntes Biotop zerstört oder
@@ -3773,8 +4363,8 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
 
 
 13. entgegen § 39 Absatz 5 Satz 1 Nummer 2 einen Baum eine Hecke, einen
-    lebenden Zaun, ein Gebüsch oder ein anderes Gehölz abschneidet oder
-    auf den Stock setzt,
+    lebenden Zaun, ein Gebüsch oder ein anderes Gehölz abschneidet, auf
+    den Stock setzt oder beseitigt,
 
 
 14. entgegen § 39 Absatz 5 Satz 1 Nummer 3 ein Röhricht zurückschneidet,
@@ -3788,8 +4378,13 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
     einen ähnlichen Raum aufsucht,
 
 
-17. ohne Genehmigung nach § 40 Absatz 4 Satz 1 eine Pflanze einer
-    gebietsfremden Art oder ein Tier ausbringt,
+17. ohne Genehmigung nach § 40 Absatz 1 Satz 1 eine dort genannte Pflanze
+    oder ein Tier ausbringt,
+
+
+17a. einer mit einer Genehmigung nach § 40c Absatz 1 Satz 1, auch in
+    Verbindung mit § 40c Absatz 2, oder nach § 40c Absatz 3 Satz 1
+    verbundenen vollziehbaren Auflage zuwiderhandelt,
 
 
 18. ohne Genehmigung nach § 42 Absatz 2 Satz 1 einen Zoo errichtet,
@@ -3800,20 +4395,15 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
     vollständig oder nicht rechtzeitig erstattet,
 
 
-20. entgegen § 44 Absatz 2 Satz 1 Nummer 1, auch in Verbindung mit § 44
-    Absatz 3 Nummer 1 oder Nummer 2, diese in Verbindung mit einer
-    Rechtsverordnung nach § 54 Absatz 4, ein Tier, eine Pflanze oder eine
-    Ware in Besitz oder Gewahrsam nimmt, in Besitz oder Gewahrsam hat oder
-    be- oder verarbeitet,
+20. (weggefallen)
 
 
 21. entgegen § 44 Absatz 2 Satz 1 Nummer 2, auch in Verbindung mit § 44
-    Absatz 3 Nummer 1 oder Nummer 2, diese in Verbindung mit einer
-    Rechtsverordnung nach § 54 Absatz 4, ein Tier, eine Pflanze oder eine
-    Ware verkauft, kauft, zum Verkauf oder Kauf anbietet, zum Verkauf
-    vorrätig hält oder befördert, tauscht oder entgeltlich zum Gebrauch
-    oder zur Nutzung überlässt, zu kommerziellen Zwecken erwirbt, zur
-    Schau stellt oder auf andere Weise verwendet,
+    Absatz 3, ein Tier, eine Pflanze oder eine Ware verkauft, kauft, zum
+    Verkauf oder Kauf anbietet, zum Verkauf vorrätig hält oder befördert,
+    tauscht oder entgeltlich zum Gebrauch oder zur Nutzung überlässt, zu
+    kommerziellen Zwecken erwirbt, zur Schau stellt oder auf andere Weise
+    verwendet,
 
 
 22. entgegen § 50 Absatz 1 Satz 1 ein Tier oder eine Pflanze nicht, nicht
@@ -3840,7 +4430,7 @@ Nummer 1 ein wild lebendes Tier beunruhigt.
 
 27. einer Rechtsverordnung nach
 
-    a)  § 49 Absatz 2,
+    a)  (weggefallen)
 
 
     b)  § 54 Absatz 5,
@@ -3906,13 +4496,23 @@ fahrlässig
 
 
 
-(6) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2, des
-Absatzes 3 Nummer 1 bis 6, 18, 20, 21, 26 und 27 Buchstabe b, des
-Absatzes 4 Nummer 1 und 3 und des Absatzes 5 mit einer Geldbuße bis zu
-fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße bis zu
-zehntausend Euro geahndet werden.
+(6) Ordnungswidrig handelt, wer ein Exemplar einer invasiven Art nach
+einem Durchführungsrechtsakt nach Artikel 4 Absatz 1 Satz 1 oder
+Artikel 10 Absatz 4 Satz 1 der Verordnung (EU) Nr. 1143/2014 des
+Europäischen Parlaments und des Rates vom 22. Oktober 2014 über die
+Prävention und das Management der Einbringung und Ausbreitung
+invasiver gebietsfremder Arten (ABl. L 317 vom 4.11.2014, S. 35)
+verbringt, hält, züchtet, befördert, in Verkehr bringt, verwendet,
+tauscht, zur Fortpflanzung, Aufzucht oder Veredelung bringt oder in
+die Umwelt freisetzt.
 
-(7) Die Länder können gesetzlich bestimmen, dass weitere rechtswidrige
+(7) Die Ordnungswidrigkeit kann in den Fällen der Absätze 1 und 2, des
+Absatzes 3 Nummer 1 bis 6, 17a, 18, 21, 26 und 27 Buchstabe b, des
+Absatzes 4 Nummer 1 und 3 und der Absätze 5 und 6 mit einer Geldbuße
+bis zu fünfzigtausend Euro, in den übrigen Fällen mit einer Geldbuße
+bis zu zehntausend Euro geahndet werden.
+
+(8) Die Länder können gesetzlich bestimmen, dass weitere rechtswidrige
 und vorwerfbare Handlungen, die gegen Vorschriften dieses Gesetzes
 oder Rechtsvorschriften verstoßen, die auf Grund dieses Gesetzes
 erlassen worden sind oder fortgelten, als Ordnungswidrigkeiten
@@ -3926,10 +4526,10 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 1.  das Bundesamt für Naturschutz in den Fällen
 
-    a)  des § 69 Absatz 3 Nummer 20 und 21 und Absatz 4 Nummer 3 bei
-        Handlungen im Zusammenhang mit der Einfuhr in die oder der Ausfuhr aus
-        der Gemeinschaft oder dem Verbringen in die oder aus der
-        Bundesrepublik Deutschland,
+    a)  des § 69 Absatz 2 Nummer 5 und 6, Absatz 3 Nummer 21, Absatz 4 Nummer
+        3 und Absatz 6 bei Handlungen im Zusammenhang mit der Einfuhr in die
+        oder der Ausfuhr aus der Gemeinschaft oder dem Verbringen in die oder
+        aus der Bundesrepublik Deutschland,
 
 
     b)  des § 69 Absatz 3 Nummer 24 bei Verletzungen der Auskunftspflicht
@@ -3943,7 +4543,7 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
     d)  des § 69 Absatz 4 Nummer 1 und Absatz 5 Nummer 2,
 
 
-    e)  von sonstigen Ordnungswidrigkeiten nach § 69 Absatz 1 bis 5, die im
+    e)  von sonstigen Ordnungswidrigkeiten nach § 69 Absatz 1 bis 6, die im
         Bereich der deutschen ausschließlichen Wirtschaftszone oder des
         Festlandsockels begangen worden sind,
 
@@ -3951,8 +4551,8 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 
 
 
-2.  das zuständige Hauptzollamt in den Fällen des § 69 Absatz 3 Nummer 22,
-    23 und 27 Buchstabe a und Absatz 4 Nummer 2,
+2.  das zuständige Hauptzollamt in den Fällen des § 69 Absatz 3 Nummer 22
+    und 23 und Absatz 4 Nummer 2,
 
 
 3.  in allen übrigen Fällen die nach Landesrecht zuständige Behörde.
@@ -3966,10 +4566,14 @@ Verwaltungsbehörde im Sinne des § 36 Absatz 1 Nummer 1 des Gesetzes
 (1) Mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe wird
 bestraft, wer eine in
 
-1.  § 69 Absatz 2 oder
+1.  § 69 Absatz 2 Nummer 1 Buchstabe a, Nummer 2, 3 oder Nummer 4
+    Buchstabe a,
 
 
-2.  § 69 Absatz 3 Nummer 21, Absatz 4 Nummer 1 oder Absatz 5
+2.  § 69 Absatz 2 Nummer 1 Buchstabe b oder Nummer 4 Buchstabe b oder
+
+
+3.  § 69 Absatz 3 Nummer 21, Absatz 4 Nummer 1 oder Absatz 5
 
 
 
@@ -3999,7 +4603,15 @@ zu fünf Jahren bestraft.
 (4) Erkennt der Täter in den Fällen der Absätze 1 oder 2 fahrlässig
 nicht, dass sich die Handlung auf ein Tier oder eine Pflanze einer
 dort genannten Art bezieht, so ist die Strafe Freiheitsstrafe bis zu
-einem Jahr oder Geldstrafe.
+drei Jahren oder Geldstrafe.
+
+(5) Handelt der Täter in den Fällen des Absatzes 1 Nummer 2
+leichtfertig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren
+oder Geldstrafe.
+
+(6) Die Tat ist nicht nach Absatz 5 strafbar, wenn die Handlung eine
+unerhebliche Menge der Exemplare betrifft und unerhebliche
+Auswirkungen auf den Erhaltungszustand der Art hat.
 
 
 ### § 71a Strafvorschriften
@@ -4012,7 +4624,12 @@ bestraft, wer
     Richtlinie 2009/147/EG des Europäischen Parlaments und des Rates vom
     30\. November 2009 über die Erhaltung der wildlebenden Vogelarten (ABl.
     L 20 vom 26.1.2010, S. 7) aufgeführt ist, tötet oder seine
-    Entwicklungsformen aus der Natur entnimmt oder zerstört,
+    Entwicklungsformen zerstört,
+
+
+1a. entgegen § 44 Absatz 1 Nummer 1 Entwicklungsformen eines wild lebenden
+    Tieres, das in Artikel 4 Absatz 2 oder Anhang I der Richtlinie
+    2009/147/EG aufgeführt ist, aus der Natur entnimmt,
 
 
 2.  entgegen § 44 Absatz 2 Satz 1 Nummer 1 ein Tier oder eine Pflanze in
@@ -4033,9 +4650,9 @@ bestraft, wer
 
 
 
-3.  eine in § 69 Absatz 2, 3 Nummer 20, Absatz 4 Nummer 1 oder Absatz 5
-    bezeichnete vorsätzliche Handlung gewerbs- oder gewohnheitsmäßig
-    begeht.
+3.  eine in § 69 Absatz 2 Nummer 1 bis 4, Absatz 3 Nummer 21, Absatz 4
+    Nummer 1 oder Absatz 5 bezeichnete vorsätzliche Handlung gewerbs- oder
+    gewohnheitsmäßig begeht.
 
 
 
@@ -4053,21 +4670,25 @@ einer in Anhang B genannten Art
 
 
 
-(3) Erkennt der Täter in den Fällen des Absatzes 1 Nummer 1 oder
+(3) Erkennt der Täter in den Fällen des Absatzes 1 Nummer 1, 1a oder
 Nummer 2 oder des Absatzes 2 leichtfertig nicht, dass sich die
 Handlung auf ein Tier oder eine Pflanze einer dort genannten Art
-bezieht, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
+bezieht, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder
 Geldstrafe.
 
-(4) Die Tat ist nicht nach Absatz 1 Nummer 1 oder Nummer 2, Absatz 2
-oder Absatz 3 strafbar, wenn die Handlung eine unerhebliche Menge der
-Exemplare betrifft und unerhebliche Auswirkungen auf den
+(4) Handelt der Täter in den Fällen des Absatzes 1 Nummer 1
+leichtfertig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder
+Geldstrafe.
+
+(5) Die Tat ist nicht nach Absatz 1 Nummer 1, 1a oder Nummer 2, Absatz
+2, 3 oder Absatz 4 strafbar, wenn die Handlung eine unerhebliche Menge
+der Exemplare betrifft und unerhebliche Auswirkungen auf den
 Erhaltungszustand der Art hat.
 
 
 ### § 72 Einziehung
 
-Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 bis 5 oder eine
+Ist eine Ordnungswidrigkeit nach § 69 Absatz 1 bis 6 oder eine
 Straftat nach § 71 oder § 71a begangen worden, so können
 
 1.  Gegenstände, auf die sich die Straftat oder die Ordnungswidrigkeit
@@ -4089,7 +4710,7 @@ Die zuständigen Verwaltungsbehörden und die Staatsanwaltschaft können
 im Rahmen ihrer Zuständigkeit zur Aufklärung von Straftaten oder
 Ordnungswidrigkeiten nach diesem Gesetz Ermittlungen auch durch die
 Hauptzollämter oder die Behörden des Zollfahndungsdienstes und deren
-Beamte vornehmen lassen. § 37 Absatz 2 bis 4 des
+Beamte vornehmen lassen. § 21 Absatz 2 bis 4 des
 Außenwirtschaftsgesetzes gilt entsprechend.
 
 
@@ -4101,7 +4722,7 @@ Außenwirtschaftsgesetzes gilt entsprechend.
 (1) Vor dem 1. März 2010 begonnene Verfahren zur Anerkennung von
 Vereinen sind zu Ende zu führen
 
-1.  durch das Bundesministerium für Umwelt, Naturschutz und
+1.  durch das Bundesministerium für Umwelt, Naturschutz, Bau und
     Reaktorsicherheit nach § 59 des Bundesnaturschutzgesetzes in der bis
     zum 28. Februar 2010 geltenden Fassung,
 

@@ -3,7 +3,7 @@ Title: Verordnung für die Überprüfung der Zuverlässigkeit zum Schutz gegen E
   oder Freisetzung radioaktiver Stoffe nach dem Atomgesetz
 jurabk: AtZüV
 layout: default
-origslug: atz_v
+origslug: atzuev
 slug: atzuev
 
 ---
@@ -17,7 +17,7 @@ Fundstelle
 :   BGBl I: 1999, 1525
 
 Zuletzt geändert durch
-:   Art. 1 V v. 22.6.2010 I 825
+:   Art. 22 G v. 27.6.2017 I 1966
 
 
 ## Eingangsformel
@@ -41,20 +41,19 @@ Maßgabe des § 12b des Atomgesetzes in Verbindung mit dieser
 Verordnung.
 
 (2)
-1             Einer Überprüfung der Zuverlässigkeit einer Person, die
-bei der Errichtung oder dem Betrieb von Anlagen, beim Umgang mit
-radioaktiven Stoffen oder bei der Beförderung von radioaktiven Stoffen
-im Sinne der §§ 7, 11 oder § 16 der Strahlenschutzverordnung tätig
-werden soll, bedarf es nur, wenn die zuständige Behörde die
-Überprüfung verlangt, weil der Schutz gegen unbefugte Handlungen, die
-zu einer Entwendung oder Freisetzung radioaktiver Stoffe führen
-können, die Überprüfung erfordert.
-2             Satz 1 gilt nicht für die Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes und den Umgang mit
-umschlossenen radioaktiven Stoffen im Sinne des § 3 Absatz 2 Nummer 29
-Buchstabe b der Strahlenschutzverordnung im nichtmedizinischen
-Bereich, deren Aktivität den Aktivitätswert von 1 000 Terabecquerel
-übersteigt.
+1Einer Überprüfung der Zuverlässigkeit einer Person, die bei der
+Errichtung oder dem Betrieb von Anlagen, beim Umgang mit radioaktiven
+Stoffen oder bei der Beförderung von radioaktiven Stoffen im Sinne der
+§§ 7, 11 oder § 16 der Strahlenschutzverordnung tätig werden soll,
+bedarf es nur, wenn die zuständige Behörde die Überprüfung verlangt,
+weil der Schutz gegen unbefugte Handlungen, die zu einer Entwendung
+oder Freisetzung radioaktiver Stoffe führen können, die Überprüfung
+erfordert.
+2Satz 1 gilt nicht für die Beförderung von Großquellen im Sinne des §
+23d Satz 3 des Atomgesetzes und den Umgang mit umschlossenen
+radioaktiven Stoffen im Sinne des § 3 Absatz 2 Nummer 29 Buchstabe b
+der Strahlenschutzverordnung im nichtmedizinischen Bereich, deren
+Aktivität den Aktivitätswert von 1 000 Terabecquerel übersteigt.
 
 (3) Einer Zuverlässigkeitsüberprüfung bedarf es nicht, wenn für eine
 Person nach dieser Verordnung bereits eine Überprüfung in der gleichen
@@ -62,34 +61,32 @@ oder einer höheren Kategorie im Sinne des § 2 durchgeführt worden ist
 und diese Überprüfung nach § 8 Absatz 1 weiterhin gilt.
 
 (4)
-1             Eine Zuverlässigkeitsüberprüfung kann unterbleiben, wenn
-eine Person unaufschiebbare Arbeiten durchführen soll, für die keine
-überprüften Personen zur Verfügung stehen.
-2             Eine Zuverlässigkeitsüberprüfung unterbleibt, wenn eine
-Person nur kurzzeitig, in der Regel höchstens einen Tag, Zutritt zu
-einer Anlage oder Einrichtung erhalten soll.
+1Eine Zuverlässigkeitsüberprüfung kann unterbleiben, wenn eine Person
+unaufschiebbare Arbeiten durchführen soll, für die keine überprüften
+Personen zur Verfügung stehen.
+2Eine Zuverlässigkeitsüberprüfung unterbleibt, wenn eine Person nur
+kurzzeitig, in der Regel höchstens einen Tag, Zutritt zu einer Anlage
+oder Einrichtung erhalten soll.
 
 (5)
-1             Die zuständige Behörde kann bei einzelnen Anlagen von
-einer Zuverlässigkeitsüberprüfung absehen, wenn das mit der Anlage
+1Die zuständige Behörde kann bei einzelnen Anlagen von einer
+Zuverlässigkeitsüberprüfung absehen, wenn das mit der Anlage
 verbundene Risiko gering ist, dass eine Person unbefugte Handlungen
 begeht, die zu einer Entwendung oder Freisetzung radioaktiver Stoffe
 führen können.
-2             Satz 1 gilt für den Umgang mit radioaktiven Stoffen und
-die Beförderung von radioaktiven Stoffen entsprechend.
-3             Die zuständige Behörde teilt dem Antragsberechtigten
-schriftlich mit, dass keine Zuverlässigkeitsüberprüfung durchgeführt
-wird.
+2Satz 1 gilt für den Umgang mit radioaktiven Stoffen und die
+Beförderung von radioaktiven Stoffen entsprechend.
+3Die zuständige Behörde teilt dem Antragsberechtigten schriftlich mit,
+dass keine Zuverlässigkeitsüberprüfung durchgeführt wird.
 
 (6)
-1             Die zuständige Behörde soll von einer
-Zuverlässigkeitsüberprüfung absehen, wenn ihr nachgewiesen wird, dass
-für eine Person eine gleich- oder höherwertige Überprüfung nach
-anderen Rechtsvorschriften innerhalb der letzten fünf Jahre
-durchgeführt worden ist, die Überprüfung im Zeitpunkt der
-Antragstellung weiterhin gilt und keine Zweifel an der Zuverlässigkeit
-bestanden.
-2             Absatz 5 Satz 3 gilt entsprechend.
+1Die zuständige Behörde soll von einer Zuverlässigkeitsüberprüfung
+absehen, wenn ihr nachgewiesen wird, dass für eine Person eine gleich-
+oder höherwertige Überprüfung nach anderen Rechtsvorschriften
+innerhalb der letzten fünf Jahre durchgeführt worden ist, die
+Überprüfung im Zeitpunkt der Antragstellung weiterhin gilt und keine
+Zweifel an der Zuverlässigkeit bestanden.
+2Absatz 5 Satz 3 gilt entsprechend.
 
 (7) Im Sinne dieser Verordnung ist
 
@@ -134,8 +131,8 @@ durchgeführt.
 ## § 3 Zuverlässigkeitsüberprüfungen
 
 (1)
-1             Eine umfassende Zuverlässigkeitsüberprüfung ist bei
-folgenden Personen durchzuführen:
+1Eine umfassende Zuverlässigkeitsüberprüfung ist bei folgenden
+Personen durchzuführen:
 
 1.  Antragsteller oder Genehmigungsinhaber in einem Genehmigungs- oder
     Planfeststellungsverfahren, deren gesetzliche Vertreter, bei
@@ -163,14 +160,14 @@ folgenden Personen durchzuführen:
 
 
 
-2             Ist der Antragsteller oder Genehmigungsinhaber im Falle
-des Satzes 1 Nr. 1 eine Kapitalgesellschaft, deren
-vertretungsberechtigtes Organ aus mehreren Mitgliedern besteht, oder
-eine Personengesellschaft, bei der mehrere vertretungsberechtigte
-Gesellschafter vorhanden sind, kann die zuständige Behörde die
-Verpflichtung zur Überprüfung der Zuverlässigkeit auf die Person, die
-die Aufgaben des Strahlenschutzverantwortlichen wahrnimmt, und andere
-für die Anlage oder Einrichtung zuständige Personen beschränken.
+2Ist der Antragsteller oder Genehmigungsinhaber im Falle des Satzes 1
+Nr. 1 eine Kapitalgesellschaft, deren vertretungsberechtigtes Organ
+aus mehreren Mitgliedern besteht, oder eine Personengesellschaft, bei
+der mehrere vertretungsberechtigte Gesellschafter vorhanden sind, kann
+die zuständige Behörde die Verpflichtung zur Überprüfung der
+Zuverlässigkeit auf die Person, die die Aufgaben des
+Strahlenschutzverantwortlichen wahrnimmt, und andere für die Anlage
+oder Einrichtung zuständige Personen beschränken.
 
 (2) Eine erweiterte Zuverlässigkeitsüberprüfung ist bei Personen
 durchzuführen, die zum inneren und äußeren Sicherungsbereich
@@ -183,14 +180,14 @@ zutrittsberechtigt sein sollen und die nicht zu dem in Absatz 1
 genannten Personenkreis gehören.
 
 (4)
-1             Unbeschadet des § 1 Absatz 5 Satz 1 kann die zuständige
-Behörde bei einzelnen Anlagen abweichend von den Absätzen 1 bis 3 eine
+1Unbeschadet des § 1 Absatz 5 Satz 1 kann die zuständige Behörde bei
+einzelnen Anlagen abweichend von den Absätzen 1 bis 3 eine
 Zuverlässigkeitsüberprüfung nach einer niedrigeren Kategorie
 durchführen, wenn das mit der Anlage verbundene Risiko gering ist,
 dass eine Person unbefugte Handlungen begeht, die zu einer Entwendung
 oder Freisetzung radioaktiver Stoffe führen können.
-2             Satz 1 gilt für den Umgang mit radioaktiven Stoffen und
-die Beförderung von radioaktiven Stoffen entsprechend.
+2Satz 1 gilt für den Umgang mit radioaktiven Stoffen und die
+Beförderung von radioaktiven Stoffen entsprechend.
 
 (5) Bei Personen, die den in den Absätzen 1 bis 3 genannten
 Personenkreisen nicht eindeutig zugeordnet werden können, sowie bei
@@ -299,7 +296,7 @@ trifft die zuständige Behörde folgende Maßnahmen:
 
 
 (4)
-1             Hat sich ein Betroffener nicht während des gesamten
+1Hat sich ein Betroffener nicht während des gesamten
 Beurteilungszeitraumes im Inland aufgehalten und kann seine
 Zuverlässigkeit deshalb nicht ausreichend überprüft werden, kann die
 zuständige Behörde ersatzweise eine Mitteilung zur Zuverlässigkeit
@@ -321,8 +318,8 @@ anerkennen, und zwar
 
 
 
-2             Der Antragsteller soll zur Bestätigung der Mitteilung
-ergänzende Unterlagen vorlegen.
+2Der Antragsteller soll zur Bestätigung der Mitteilung ergänzende
+Unterlagen vorlegen.
 
 (5) Zur Überprüfung der Zuverlässigkeit in den Fällen des § 1 Absatz 2
 Satz 1 lässt sich die zuständige Behörde nur ein Führungszeugnis für
@@ -337,38 +334,38 @@ Maßnahmen nach § 12b Absatz 4 des Atomgesetzes durchführen.
 ## § 6 Verfahren
 
 (1)
-1             Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme
-der vorgesehenen Tätigkeit oder vor dem Zutritt zu der Anlage oder
+1Die Zuverlässigkeit des Betroffenen ist vor der Aufnahme der
+vorgesehenen Tätigkeit oder vor dem Zutritt zu der Anlage oder
 Einrichtung auf Antrag durch die zuständige Behörde zu überprüfen.
-2             Antragsberechtigt sind Antragsteller in Genehmigungs-
-oder Planfeststellungsverfahren oder Genehmigungsinhaber in
+2Antragsberechtigt sind Antragsteller in Genehmigungs- oder
+Planfeststellungsverfahren oder Genehmigungsinhaber in
 Aufsichtsverfahren, die sich auf Anlagen oder Tätigkeiten nach den §§
 4, 6, 7, 9 oder § 9a Absatz 3 des Atomgesetzes oder nach den §§ 7, 11
 oder 16 der Strahlenschutzverordnung beziehen.
-3             Überträgt der Inhaber einer Genehmigung nach § 4 des
-Atomgesetzes oder einer Genehmigung zur Beförderung von Großquellen im
-Sinne des § 23 Absatz 2 des Atomgesetzes einem Dritten Aufgaben, die
-in der Genehmigung zur Erfüllung durch einen Dritten zugelassen sind,
-ist auch der Dritte antragsberechtigt.
-4             Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4
-des Atomgesetzes wird die Überprüfung der Zuverlässigkeit des
-Betroffenen durch die zuziehende Behörde veranlaßt.
+3Überträgt der Inhaber einer Genehmigung nach § 4 des Atomgesetzes
+oder einer Genehmigung zur Beförderung von Großquellen im Sinne des §
+23d Satz 3 des Atomgesetzes einem Dritten Aufgaben, die in der
+Genehmigung zur Erfüllung durch einen Dritten zugelassen sind, ist
+auch der Dritte antragsberechtigt.
+4Für Sachverständige nach § 12b Absatz 1 Satz 1 Nummer 4 des
+Atomgesetzes wird die Überprüfung der Zuverlässigkeit des Betroffenen
+durch die zuziehende Behörde veranlaßt.
 
 (2)
-1             Der Antragsberechtigte hat der zuständigen Behörde einen
-vom Betroffenen ausgefüllten Erklärungsbogen zuzuleiten.
-2             Der Antragsberechtigte hat vor der Aushändigung des
-Erklärungsbogens an den Betroffenen darauf die betriebliche Stellung
-oder die vorgesehene Verwendung des Betroffenen sowie die vorgesehene
+1Der Antragsberechtigte hat der zuständigen Behörde einen vom
+Betroffenen ausgefüllten Erklärungsbogen zuzuleiten.
+2Der Antragsberechtigte hat vor der Aushändigung des Erklärungsbogens
+an den Betroffenen darauf die betriebliche Stellung oder die
+vorgesehene Verwendung des Betroffenen sowie die vorgesehene
 Überprüfungskategorie anzugeben.
 
 (3)
-1             Die Überprüfung der Zuverlässigkeit bedarf der
-vorherigen Zustimmung des Betroffenen auf dem Erklärungsbogen.
-2             Die zur Überprüfung erforderlichen Personaldaten des
-Betroffenen müssen auf dem Erklärungsbogen vollständig und
-wahrheitsgemäß angegeben werden.
-3             Die erforderlichen Personaldaten umfassen:
+1Die Überprüfung der Zuverlässigkeit bedarf der vorherigen Zustimmung
+des Betroffenen auf dem Erklärungsbogen.
+2Die zur Überprüfung erforderlichen Personaldaten des Betroffenen
+müssen auf dem Erklärungsbogen vollständig und wahrheitsgemäß
+angegeben werden.
+3Die erforderlichen Personaldaten umfassen:
 
 1.  Personalien im Sinne des § 12b Absatz 7 Satz 2 des Atomgesetzes; die
     Angabe der Namen umfasst auch abweichende Schreibweisen,
@@ -396,29 +393,26 @@ wahrheitsgemäß angegeben werden.
 
 
 
-4             Der Betroffene kann auf dem Erklärungsbogen seine
-Zustimmung erklären, dass das Ergebnis seiner
-Zuverlässigkeitsüberprüfung nach § 7 Absatz 4 an andere
-Antragsberechtigte weitergeleitet werden darf, bei denen sein
-Arbeitseinsatz ebenfalls beabsichtigt ist.
-5             Werden dem Antragsberechtigten Änderungen des Namens
-oder der Staatsangehörigkeit des Betroffenen bekannt, teilt er die
-Änderungen der zuständigen Behörde mit; diese unterrichtet die nach §
-12b Absatz 7 Satz 1 des Atomgesetzes zum Nachbericht verpflichteten
-Behörden.
+4Der Betroffene kann auf dem Erklärungsbogen seine Zustimmung
+erklären, dass das Ergebnis seiner Zuverlässigkeitsüberprüfung nach §
+7 Absatz 4 an andere Antragsberechtigte weitergeleitet werden darf,
+bei denen sein Arbeitseinsatz ebenfalls beabsichtigt ist.
+5Werden dem Antragsberechtigten Änderungen des Namens oder der
+Staatsangehörigkeit des Betroffenen bekannt, teilt er die Änderungen
+der zuständigen Behörde mit; diese unterrichtet die nach § 12b Absatz
+7 Satz 1 des Atomgesetzes zum Nachbericht verpflichteten Behörden.
 
 (4)
-1             Vor Beantragung einer Zuverlässigkeitsüberprüfung ist
-der Betroffene vom Antragsberechtigten über Ziel und Art der
-beabsichtigten Zuverlässigkeitsüberprüfung, über den Umfang der
-Datenerhebung und -verarbeitung sowie über das Recht, die Durchführung
-eines Zuverlässigkeitsüberprüfungsverfahrens zu verweigern, nebst
-Folgen für die Aufnahme der jeweiligen Tätigkeit oder für die
-Gestattung des Zutritts zur jeweiligen Anlage oder Einrichtung
-schriftlich zu belehren.
-2             Der Betroffene hat seine Kenntnisnahme von der
-schriftlichen Belehrung auf dem Erklärungsbogen durch Unterschrift zu
-bestätigen.
+1Vor Beantragung einer Zuverlässigkeitsüberprüfung ist der Betroffene
+vom Antragsberechtigten über Ziel und Art der beabsichtigten
+Zuverlässigkeitsüberprüfung, über den Umfang der Datenerhebung und
+-verarbeitung sowie über das Recht, die Durchführung eines
+Zuverlässigkeitsüberprüfungsverfahrens zu verweigern, nebst Folgen für
+die Aufnahme der jeweiligen Tätigkeit oder für die Gestattung des
+Zutritts zur jeweiligen Anlage oder Einrichtung schriftlich zu
+belehren.
+2Der Betroffene hat seine Kenntnisnahme von der schriftlichen
+Belehrung auf dem Erklärungsbogen durch Unterschrift zu bestätigen.
 
 (5) Die zuständige Behörde gibt für die Belehrung des Betroffenen,
 insbesondere über Anfragen nach dem Bundeszentralregistergesetz, sowie
@@ -428,12 +422,12 @@ für den Erklärungsbogen ein amtliches Formular bekannt.
 ## § 7 Abschluß der Zuverlässigkeitsüberprüfung
 
 (1)
-1             Die zuständige Behörde bewertet die übermittelten
-Erkenntnisse auf Grund einer am Zweck des § 12b Abs. 1 Satz 1 des
-Atomgesetzes orientierten Gesamtwürdigung des Einzelfalles,
-insbesondere im Hinblick auf die vorgesehene Tätigkeit.
-2             Für die Bewertung werden die Erkenntnisse über
-Sachverhalte herangezogen, die sich zugetragen haben
+1Die zuständige Behörde bewertet die übermittelten Erkenntnisse auf
+Grund einer am Zweck des § 12b Abs. 1 Satz 1 des Atomgesetzes
+orientierten Gesamtwürdigung des Einzelfalles, insbesondere im
+Hinblick auf die vorgesehene Tätigkeit.
+2Für die Bewertung werden die Erkenntnisse über Sachverhalte
+herangezogen, die sich zugetragen haben
 
 1.  bei einer Zuverlässigkeitsüberprüfung nach § 3 Absatz 1 innerhalb der
     letzten zehn Jahre und
@@ -444,23 +438,23 @@ Sachverhalte herangezogen, die sich zugetragen haben
 
 
 
-3             Erkenntnisse über länger zurückliegende Sachverhalte
-sind nur zu berücksichtigen, wenn sie wegen ihrer Besonderheit und
-ihres Umfanges geeignet sind, Zweifel an der Zuverlässigkeit des
-Betroffenen erheblich zu verstärken und der Schutz der Allgemeinheit
-ihre Berücksichtigung zwingend gebietet.
+3Erkenntnisse über länger zurückliegende Sachverhalte sind nur zu
+berücksichtigen, wenn sie wegen ihrer Besonderheit und ihres Umfanges
+geeignet sind, Zweifel an der Zuverlässigkeit des Betroffenen
+erheblich zu verstärken und der Schutz der Allgemeinheit ihre
+Berücksichtigung zwingend gebietet.
 
 (2)
-1             Zweifel an der Zuverlässigkeit können sich insbesondere
-daraus ergeben, daß der Betroffene wegen einer innerhalb des
+1Zweifel an der Zuverlässigkeit können sich insbesondere daraus
+ergeben, daß der Betroffene wegen einer innerhalb des
 Beurteilungszeitraums begangenen Straftat rechtskräftig verurteilt
 worden ist, die anhand der konkreten Erkenntnisse oder vorliegender
 Erfahrungen ein Verhalten besorgen lässt, das zu einer Gefährdung der
 kerntechnischen Sicherheit der jeweiligen Anlage oder beim Umgang mit
 radioaktiven Stoffen oder bei der Beförderung von radioaktiven Stoffen
 führen könnte.
-2             Zweifel an der Zuverlässigkeit können daneben
-insbesondere in Betracht kommen bei
+2Zweifel an der Zuverlässigkeit können daneben insbesondere in
+Betracht kommen bei
 
 1.  Mitgliedschaft in Organisationen, Aktionsbündnissen oder Gruppierungen
     im Sinne von § 3 Absatz 1 Nummer 1, 3 oder 4 des
@@ -531,32 +525,31 @@ der Zuverlässigkeit des Betroffenen bestehen, so teilt sie dies dem
 Antragsberechtigten schriftlich mit.
 
 (5)
-1             Kommt die zuständige Behörde zu dem Ergebnis, daß auf
-Grund der eingeholten Auskünfte Zweifel an der Zuverlässigkeit
-bestehen, so teilt sie dies dem Betroffenen mit und gibt ihm vor der
-abschließenden Entscheidung Gelegenheit, sich zum Ergebnis der Prüfung
-zu äußern.
-2             Werden die Zweifel der zuständigen Behörde an der
-Zuverlässigkeit nicht aufrechterhalten, findet Absatz 4 Anwendung.
-3             Bestehen nach der Entscheidung der zuständigen Behörde
-die Bedenken gegen die Zuverlässigkeit des Betroffenen fort, so teilt
-sie dies dem Antragsberechtigten schriftlich ohne Angabe von Gründen
-und dem Betroffenen schriftlich unter Angabe von Gründen mit.
+1Kommt die zuständige Behörde zu dem Ergebnis, daß auf Grund der
+eingeholten Auskünfte Zweifel an der Zuverlässigkeit bestehen, so
+teilt sie dies dem Betroffenen mit und gibt ihm vor der abschließenden
+Entscheidung Gelegenheit, sich zum Ergebnis der Prüfung zu äußern.
+2Werden die Zweifel der zuständigen Behörde an der Zuverlässigkeit
+nicht aufrechterhalten, findet Absatz 4 Anwendung.
+3Bestehen nach der Entscheidung der zuständigen Behörde die Bedenken
+gegen die Zuverlässigkeit des Betroffenen fort, so teilt sie dies dem
+Antragsberechtigten schriftlich ohne Angabe von Gründen und dem
+Betroffenen schriftlich unter Angabe von Gründen mit.
 
 (6)
-1             Werden der zuständigen Behörde nach Abschluß der
-Überprüfung Tatsachen bekannt, aus denen sich Zweifel an der nach
-Absatz 4 festgestellten Zuverlässigkeit einer Person ergeben können,
-kann sie von Amts wegen vor Ablauf der Geltungsdauer eine erneute
-Überprüfung oder andere Ermittlungen zur Zuverlässigkeit veranlassen.
-2             Werden dem Antragsberechtigten Tatsachen bekannt, aus
-denen sich Zweifel an der nach Absatz 4 festgestellten Zuverlässigkeit
-einer Person ergeben, ist er zur unverzüglichen Unterrichtung der
+1Werden der zuständigen Behörde nach Abschluß der Überprüfung
+Tatsachen bekannt, aus denen sich Zweifel an der nach Absatz 4
+festgestellten Zuverlässigkeit einer Person ergeben können, kann sie
+von Amts wegen vor Ablauf der Geltungsdauer eine erneute Überprüfung
+oder andere Ermittlungen zur Zuverlässigkeit veranlassen.
+2Werden dem Antragsberechtigten Tatsachen bekannt, aus denen sich
+Zweifel an der nach Absatz 4 festgestellten Zuverlässigkeit einer
+Person ergeben, ist er zur unverzüglichen Unterrichtung der
 zuständigen Behörde verpflichtet.
-3             Führen die erneute Überprüfung oder die anderen
-Ermittlungen zu Zweifeln an der Zuverlässigkeit des Betroffenen, hat
-die zuständige Behörde dies dem Antragsberechtigten mitzuteilen.
-4             Absatz 5 gilt entsprechend.
+3Führen die erneute Überprüfung oder die anderen Ermittlungen zu
+Zweifeln an der Zuverlässigkeit des Betroffenen, hat die zuständige
+Behörde dies dem Antragsberechtigten mitzuteilen.
+4Absatz 5 gilt entsprechend.
 
 (7) Werden dem Antragsberechtigten Änderungen des Namens oder der
 Staatsangehörigkeit einer Person bekannt, deren Zuverlässigkeit nach
@@ -568,11 +561,11 @@ Atomgesetzes zum Nachbericht verpflichteten Behörden.
 ## § 8 Geltungsdauer; Wiederholungsüberprüfung
 
 (1)
-1             Entscheidet die zuständige Behörde gemäß § 7 Abs. 4, so
-gilt die Zuverlässigkeitsüberprüfung fünf Jahre; im Einzelfall kann
-die zuständige Behörde eine kürzere Geltungsdauer festlegen.
-2             Die Geltungsdauer beginnt mit dem Tag der Entscheidung
-der zuständigen Behörde.
+1Entscheidet die zuständige Behörde gemäß § 7 Abs. 4, so gilt die
+Zuverlässigkeitsüberprüfung fünf Jahre; im Einzelfall kann die
+zuständige Behörde eine kürzere Geltungsdauer festlegen.
+2Die Geltungsdauer beginnt mit dem Tag der Entscheidung der
+zuständigen Behörde.
 
 (2) Ist eine Wiederholungsüberprüfung spätestens drei Monate vor
 Ablauf der Geltungsdauer der vorangegangenen Überprüfung beantragt
@@ -605,12 +598,10 @@ Ausübung der Tätigkeit oder den Zutritt zu der Anlage oder Einrichtung
 zu gewähren.
 
 (3)
-1             In den Fällen des § 1 Absatz 4 Satz 1 stellt der
-Antragsberechtigte sicher, dass die nicht überprüfte Person durch eine
-überprüfte und von ihm besonders bestimmte Person ständig begleitet
-wird.
-2             Der Antragsberechtigte legt Folgendes schriftlich
-nieder:
+1In den Fällen des § 1 Absatz 4 Satz 1 stellt der Antragsberechtigte
+sicher, dass die nicht überprüfte Person durch eine überprüfte und von
+ihm besonders bestimmte Person ständig begleitet wird.
+2Der Antragsberechtigte legt Folgendes schriftlich nieder:
 
 1.  die Begründung dafür, dass die Tätigkeit sofort aufgenommen oder der
     Zutritt sofort gewährt werden muss,
@@ -627,12 +618,12 @@ nieder:
 
 
 
-3             Die Unterlagen sind sechs Monate aufzubewahren und der
-zuständigen Behörde auf Verlangen vorzulegen.
-4             In den Fällen des § 1 Absatz 4 Satz 2 gelten die Sätze 1
-bis 3 entsprechend mit der Maßgabe, dass nur der Zweck des Zutritts
-und die Angaben zu der nicht überprüften Person schriftlich
-niederzulegen sind.
+3Die Unterlagen sind sechs Monate aufzubewahren und der zuständigen
+Behörde auf Verlangen vorzulegen.
+4In den Fällen des § 1 Absatz 4 Satz 2 gelten die Sätze 1 bis 3
+entsprechend mit der Maßgabe, dass nur der Zweck des Zutritts und die
+Angaben zu der nicht überprüften Person schriftlich niederzulegen
+sind.
 
 (4) Wird für eine Person, die auf Grund einer erweiterten
 Zuverlässigkeitsüberprüfung nach § 3 Absatz 2 tätig werden darf, eine
@@ -646,16 +637,14 @@ zuständigen Behörde bleiben unberührt, soweit sie die
 Zutrittsberechtigung weiter einschränken.
 
 (6)
-1             Über den Zutritt von Sachverständigen nach § 12b Absatz
-1 Satz 1 Nummer 4 des Atomgesetzes, die nicht überprüft sind,
-entscheidet die zuständige Behörde.
-2             Absatz 3 Satz 1 bis 3 gilt entsprechend.
+1Über den Zutritt von Sachverständigen nach § 12b Absatz 1 Satz 1
+Nummer 4 des Atomgesetzes, die nicht überprüft sind, entscheidet die
+zuständige Behörde.
+2Absatz 3 Satz 1 bis 3 gilt entsprechend.
 
 
-## § 10 Übergangsregelung
+## § 10 (weggefallen)
 
-Zuverlässigkeitsüberprüfungen, die vor dem 1. Juli 2010 beantragt
-wurden, sind nach dem bis dahin geltenden Recht zu Ende zu führen.
 
 
 ## § 11 (weggefallen)

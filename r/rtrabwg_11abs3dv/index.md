@@ -59,8 +59,8 @@ Zahlungen der folgenden Art geleistet hat oder leistet:
 
 (2) Zu den Zahlungen nach Absatz 1 gehören auch jährliche
 Sonderzuwendungen nach dem Gesetz
-vom 15. Juli 1965 (Bundesgesetzbl. I S. 609)              und frühere
-auf Gesetz beruhende einmalige Zahlungen (z.B. Weihnachtszuwendungen,
+vom 15. Juli 1965 (Bundesgesetzbl. I S. 609) und frühere auf Gesetz
+beruhende einmalige Zahlungen (z.B. Weihnachtszuwendungen,
 Überbrückungszulagen).
 
 

@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 1974, 693
 
 Zuletzt geändert durch
-:   Art. 7 G v. 5.2.2009 I 160
+:   Art. 7 G v. 17.7.2017 I 2581
 
 
 ## Eingangsformel
@@ -851,7 +851,7 @@ Angehörigen zweier Gruppen betreffen.
 
 (1) Erachtet die Mehrheit der Vertreter einer Gruppe oder der Jugend-
 und Auszubildendenvertretung einen Beschluß des Personalrates als eine
-erhebliche Beeinträchtigung wichtiger Interessen der durch die
+erhebliche Beeinträchtigung wichtiger Interessen der durch sie
 vertretenen Beschäftigten, so ist auf ihren Antrag der Beschluß auf
 die Dauer von sechs Arbeitstagen vom Zeitpunkt der Beschlußfassung an
 auszusetzen. In dieser Frist soll, gegebenenfalls mit Hilfe der unter
@@ -1837,7 +1837,7 @@ Arbeitnehmer bei
 
 
 
-Hat ein Beschäftiger eine Leistung nach Nummer 1 beantragt, wird der
+Hat ein Beschäftigter eine Leistung nach Nummer 1 beantragt, wird der
 Personalrat nur auf seinen Antrag beteiligt; auf Verlangen des
 Antragstellers bestimmt nur der Vorstand des Personalrates mit. Die
 Dienststelle hat dem Personalrat nach Abschluß jedes
@@ -1970,7 +1970,7 @@ Beamten bei
 7.  Versagung oder Widerruf der Genehmigung einer Nebentätigkeit,
 
 
-8.  Ablehnung eines Antrages nach den §§ 91, 92 oder 95 des
+8.  Ablehnung eines Antrages nach den §§ 91, 92, 92a, 92b oder § 95 des
     Bundesbeamtengesetzes auf Teilzeitbeschäftigung, Ermäßigung der
     regelmäßigen Arbeitszeit oder Urlaub,
 
@@ -2449,51 +2449,52 @@ Abweichungen:
     sicherheitsempfindlichen Tätigkeit nicht zugelassen sind.
 
 
-3.  In Fällen des § 28 Abs. 2 setzt der Leiter des
-    Bundesnachrichtendienstes einen Wahlvorstand ein.
-
-
-4.  Die Personalversammlungen finden nur in den Räumen der Dienststelle
+3.  Die Personalversammlungen finden nur in den Räumen der Dienststelle
     statt, sie werden in der Zentrale nur als Teilversammlungen
     durchgeführt. Über die Abgrenzung entscheidet der Leiter des
-    Bundesnachrichtendienstes.
+    Bundesnachrichtendienstes. Der Leiter des Bundesnachrichtendienstes
+    kann nach Anhörung des Personalrates bestimmen, dass
+    Personalversammlungen als Vollversammlung durchgeführt werden.
 
 
-5.  Der Leiter der Dienststelle kann nach Anhörung des Personalrates
+4.  Der Leiter der Dienststelle kann nach Anhörung des Personalrates
     bestimmen, das Beschäftigte, bei denen dies wegen ihrer dienstlichen
     Aufgaben zwingend geboten ist, nicht an Personalversammlungen
     teilnehmen.
 
 
-6.  Die Tagesordnung der Personalversammlung und die in der
+5.  Die Tagesordnung der Personalversammlung und die in der
     Personalversammlung sowie im Tätigkeitsbericht zu behandelnden Punkte
-    legt der Personalrat im Einvernehmen mit dem Leiter der Dienststelle
-    fest. Andere Punkte dürfen nicht behandelt werden. Der Leiter der
+    legt der Personalrat im Benehmen mit dem Leiter der Dienststelle fest.
+    Andere Punkte dürfen nicht behandelt werden. Der Leiter der
     Dienststelle nimmt an den Personalversammlungen teil.
 
 
-7.  In den Fällen des § 20 Abs. 2, der §§ 21 und 23 bestellt der Leiter
-    der Dienststelle den Wahlvorstand.
+6.  In den Fällen des § 20 Abs. 2, der §§ 21 und 23 sowie des § 28 Absatz
+    2 bestellt der Leiter der Dienststelle den Wahlvorstand.
 
 
-8.  Die Beschäftigten des Bundesnachrichtendienstes wählen keine
+7.  Die Beschäftigten des Bundesnachrichtendienstes wählen keine
     Stufenvertretung. Soweit eine Stufenvertretung zuständig ist, ist an
-    ihrer Stelle der Personalrat der Zentrale zu beteiligen. Erhebt der
-    Personalrat Einwendungen gegen eine vom Leiter des
-    Bundesnachrichtendienstes beabsichtigte Maßnahme, so entscheidet im
-    Falle des § 72 Abs. 4 nach Verhandlung mit dem Personalrat der
-    Zentrale der Chef des Bundeskanzleramtes endgültig.
+    ihrer Stelle der Gesamtpersonalrat zu beteiligen. Die Aufgaben der
+    obersten Dienstbehörde nach diesem Gesetz nimmt der Chef des
+    Bundeskanzleramtes wahr.
 
 
-9.  An die Stelle der Mitbestimmung und der Zustimmung tritt die
-    Mitwirkung des Personalrats.
+8.  An die Stelle der Mitbestimmung und der Zustimmung tritt die
+    Mitwirkung des Personalrates. Die oberste Dienstbehörde und der
+    Gesamtpersonalrat können durch Dienstvereinbarung ergänzende
+    Regelungen über die Beteiligung der Personalvertretungen im
+    Bundesnachrichtendienst treffen oder jederzeit widerruflich von
+    Regelungen des § 86, ausgenommen die Nummern 2, 7, 10 und 13,
+    abweichen.
 
 
-10. § 93 ist mit folgender Maßgabe anzuwenden:
+9.  § 93 ist mit folgender Maßgabe anzuwenden:
 
     a)  Personalvertretungen bei Dienststellen im Sinne der Nummer 1 bilden
-        keine Ausschüsse, an ihre Stelle tritt der Ausschuß des Personalrates
-        der Zentrale.
+        keine Ausschüsse, an ihre Stelle tritt der Ausschuß des
+        Gesamtpersonalrates.
 
 
     b)  Der Leiter des Bundesnachrichtendienstes kann außer in den Fällen des
@@ -2502,10 +2503,16 @@ Abweichungen:
         Beteiligung absehen.
 
 
+    c)  § 93 Absatz 1 Satz 1 ist nur anzuwenden, wenn nicht alle Mitglieder
+        der zuständigen Personalvertretung ermächtigt sind, von
+        Verschlusssachen des entsprechenden Geheimhaltungsgrades Kenntnis zu
+        erhalten.
 
 
 
-11. Bei Vorliegen besonderer Sicherheitsvorfälle oder einer besonderen
+
+
+10. Bei Vorliegen besonderer Sicherheitsvorfälle oder einer besonderen
     Einsatzsituation, von der der Bundesnachrichtendienst ganz oder
     teilweise betroffen ist, ruhen die Rechte und Pflichten der
     zuständigen Personalvertretungen. Beginn und Ende des Ruhens der
@@ -2514,17 +2521,21 @@ Abweichungen:
     Bundeskanzleramtes festgestellt.
 
 
-12. Die Vorschriften über Aufgaben und Befugnisse der Gewerkschaften und
-    Arbeitgebervereinigungen, ihrer Beauftragten und Vertreter sowie § 12
-    Abs. 2, § 44 Abs. 3, §§ 55, 64 Abs. 2, §§ 70, 79 Abs. 2, § 81 Abs. 1,
-    5 sind nicht anzuwenden.
+11. § 70 Absatz 1 und § 79 Absatz 2 sind nicht anzuwenden. Die
+    Vorschriften über eine Beteiligung von Vertretern oder Beauftragten
+    der Gewerkschaften und Arbeitgebervereinigungen (§ 20 Absatz 1, die §§
+    36 und 39 Absatz 1 sowie § 52) sind nicht anzuwenden. Der Leiter des
+    Bundesnachrichtendienstes kann bestimmen, dass Beauftragte der
+    Gewerkschaften zu einer sicherheitsempfindlichen Tätigkeit zugelassen
+    sein müssen. Der Leiter des Bundesnachrichtendienstes kann die
+    Anwendung des § 12 Absatz 2 ausschließen.
 
 
-13. Soweit sich aus den Nummern 1 bis 12 nichts anderes ergibt, gelten die
-    §§ 48 bis 52 des Soldatenbeteiligungsgesetzes entsprechend.
+12. Soweit sich aus den Nummern 1 bis 11 nichts anderes ergibt, gelten die
+    §§ 59 bis 63 des Soldatenbeteiligungsgesetzes entsprechend.
 
 
-14. Für gerichtliche Entscheidungen nach § 83 Abs. 1 ist im ersten und
+13. Für gerichtliche Entscheidungen nach § 83 Abs. 1 ist im ersten und
     letzten Rechtszug das Bundesverwaltungsgericht zuständig. Im
     gerichtlichen Verfahren ist § 99 der Verwaltungsgerichtsordnung
     entsprechend anzuwenden.
@@ -2770,14 +2781,16 @@ Für den Geschäftsbereich des Bundesministeriums der Verteidigung gilt
     über die beabsichtigte Maßnahme hergestellt worden ist.
 
 
-2.  Sind bei einer Dienststelle, bei der keine Stufenvertretung vorgesehen
-    ist, zur Vorbereitung von Entscheidungen nach § 75 Abs. 2 Satz 1 Nr. 2
-    und Abs. 3 Nr. 5 mit Wirkung für andere Dienststellen Ausschüsse
-    gebildet, so hat die Dienststelle die beabsichtigte Maßnahme mit einem
-    Mitglied der Stufenvertretung bei der nächsthöheren, den genannten
-    Dienststellen übergeordneten Dienststelle zu beraten. Dieses Mitglied
-    ist von der Stufenvertretung zu benennen. Nummer 1 ist nicht
-    anzuwenden.
+2.  Bei innerdienstlichen oder sozialen Angelegenheiten, die
+    Liegenschaften eines Dienstortes betreffen, wird die Beteiligung durch
+    einen Ausschuss ausgeübt, der bei der für die Entscheidung zuständigen
+    Stelle eingerichtet ist, sofern ein solcher gebildet worden ist und
+    das gesetzlich zuständige Beteiligungsgremium zugestimmt hat. Die
+    Aufgaben und Befugnisse des Dienststellenleiters werden in diesen
+    Fällen durch die für die Entscheidung zuständige Stelle wahrgenommen.
+    Kommt im Beteiligungsverfahren eine Einigung nicht zustande, richtet
+    sich das weitere Verfahren nach § 69 Absatz 3 und 4 oder nach § 72
+    Absatz 4 und 5.
 
 
 

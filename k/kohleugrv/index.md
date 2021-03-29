@@ -30,9 +30,8 @@ wird verordnet:
 
 (1) Für die Ermittlung der nach dem 1. Januar 1969 maßgebenden
 optimalen Unternehmensgröße im Sinne des
-§ 18 Abs. 1 des Gesetzes              gelten die in den §§ 2 bis 5
-festgesetzten Maßstäbe für den Steinkohlenbergbaubereich eines
-Unternehmens.
+§ 18 Abs. 1 des Gesetzes gelten die in den §§ 2 bis 5 festgesetzten
+Maßstäbe für den Steinkohlenbergbaubereich eines Unternehmens.
 
 (2) Zum Steinkohlenbergbaubereich eines Unternehmens gehören die dem
 Gewinnungsrecht des Unternehmens unterliegenden abbauwürdigen
@@ -79,9 +78,9 @@ Steinkohlenbergbaubereich in dem vorgesehenen Umfang vornehmen kann.
 
 (1) Das Unternehmen muß gewährleisten, daß die Konzentrations- und
 Anpassungsmaßnahmen, die zur Erreichung der in
-§ 1 des Gesetzes              genannten Ziele erforderlich sind, nicht
-allein nach den Verhältnissen des Unternehmens, sondern ebensosehr
-nach der Leistungsfähigkeit der Anlagen im Rahmen des gesamten
+§ 1 des Gesetzes genannten Ziele erforderlich sind, nicht allein nach
+den Verhältnissen des Unternehmens, sondern ebensosehr nach der
+Leistungsfähigkeit der Anlagen im Rahmen des gesamten
 Steinkohlenbergbaus in diesem Steinkohlenbergbaugebiet unter
 besonderer Berücksichtigung der sozialen und regionalwirtschaftlichen
 Belange vorgenommen werden; insbesondere muß sichergestellt sein, daß

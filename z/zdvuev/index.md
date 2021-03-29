@@ -3,7 +3,7 @@ Title: Verordnung über versorgungsrechtliche Übergangsregelungen für Zivildie
   nach Herstellung der Einheit Deutschlands
 jurabk: ZDVÜV
 layout: default
-origslug: zdv_v
+origslug: zdvuev
 slug: zdvuev
 
 ---

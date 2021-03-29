@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze "250. Todestag Johann Sebastian Bach")
 jurabk: Münz10DMBek 2000
 layout: default
-origslug: m_nz10dmbek_2000
+origslug: muenz10dmbek_2000
 slug: muenz10dmbek_2000
 
 ---

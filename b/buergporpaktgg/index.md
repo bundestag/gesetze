@@ -3,7 +3,7 @@ Title: Gesetz zu dem Internationalen Pakt vom 19. Dezember 1966 über bürgerlic
   politische Rechte
 jurabk: BürgPoRPaktGG
 layout: default
-origslug: b_rgporpaktgg
+origslug: buergporpaktgg
 slug: buergporpaktgg
 
 ---

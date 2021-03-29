@@ -16,7 +16,7 @@ Fundstelle
 :   BGBl I: 2005, 2538
 
 Zuletzt geändert durch
-:   Art. 15 Abs. 2 G v. 31.7.2008 I 1629
+:   Art. 8 V v. 2.6.2016 I 1257
 
 
 ## Eingangsformel
@@ -79,7 +79,7 @@ der zuständigen Wehrersatzbehörde vorschlagen:
 10. für diejenigen, die bei Unternehmen beschäftigt sind, die
     Telekommunikationsdienste für die Öffentlichkeit oder
     Postdienstleistungen für die Öffentlichkeit erbringen das
-    Bundesministerium für Wirtschaft und Technologie;
+    Bundesministerium für Wirtschaft und Energie;
 
 
 11. für die im überregionalen gewerblichen Güterkraftverkehr
@@ -87,7 +87,7 @@ der zuständigen Wehrersatzbehörde vorschlagen:
     Hafenschifffahrt) oder bei einem Luftfahrtunternehmen Beschäftigten,
     für die bei Eisenbahnen des Bundes Beschäftigten sowie für die bei der
     Deutsche Flugsicherung GmbH Beschäftigten das Bundesministerium für
-    Verkehr, Bau und Stadtentwicklung;
+    Verkehr und digitale Infrastruktur;
 
 
 12. in allen anderen Fällen die von der Landesregierung bestimmte Behörde.
@@ -164,9 +164,10 @@ eine gutachtliche Stellungnahme einzuholen:
         Landesbehörde oder der von ihr bestimmten Behörde,
 
 
-    e)  der Bundeswasserstraßen und bundeseigenen Häfen von den Wasser- und
-        Schifffahrtsdirektionen, der Elbe im Bereich des Hamburger Hafens von
-        der Wirtschaftsbehörde der Freien und Hansestadt Hamburg,
+    e)  der Bundeswasserstraßen und bundeseigenen Häfen von der
+        Generaldirektion Wasserstraßen und Schifffahrt, der Elbe im Bereich
+        des Hamburger Hafens von der Wirtschaftsbehörde der Freien und
+        Hansestadt Hamburg,
 
 
     f)  der nichtbundeseigenen Wasserstraßen von den höheren Wasserbehörden

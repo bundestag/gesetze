@@ -28,11 +28,10 @@ verkündet wird:
 ## § 1
 
 (1) Zur Sicherung der deutschen Mineralversorgung wird der
-Reichswirtschaftsminister              mit der Durchforschung des
-Reichsgebietes              nach nutzbaren Lagerstätten betraut und
-ermächtigt, mit der Untersuchung sowie der Sammlung und Bearbeitung
-ihrer Ergebnisse ... die geologischen Anstalten der ... Länder zu
-beauftragen.
+Reichswirtschaftsminister mit der Durchforschung des
+Reichsgebietes nach nutzbaren Lagerstätten betraut und ermächtigt, mit
+der Untersuchung sowie der Sammlung und Bearbeitung ihrer Ergebnisse
+... die geologischen Anstalten der ... Länder zu beauftragen.
 
 (2) und (3)
 
@@ -41,14 +40,13 @@ beauftragen.
 
 (1) Den mit der Durchführung der geologischen und geophysikalischen
 Erforschung des
-Reichsgebietes              von den in § 1 bezeichneten Anstalten
-beauftragten Personen haben die Berechtigten das Betreten ihrer
-Grundstücke, mit Ausnahme der Wohngebäude, und die Vornahme der
-Untersuchungsarbeiten jederzeit zu gestatten. Soweit öffentlich-
-rechtliche Beschränkungen der Inanspruchnahme bestimmter Grundstücke
-entgegenstehen, haben sich die Beauftragten wegen Überlassung solcher
-Grundstücke mit der jeweils zuständigen Behörde vorher ins Benehmen zu
-setzen.
+Reichsgebietes von den in § 1 bezeichneten Anstalten beauftragten
+Personen haben die Berechtigten das Betreten ihrer Grundstücke, mit
+Ausnahme der Wohngebäude, und die Vornahme der Untersuchungsarbeiten
+jederzeit zu gestatten. Soweit öffentlich-rechtliche Beschränkungen
+der Inanspruchnahme bestimmter Grundstücke entgegenstehen, haben sich
+die Beauftragten wegen Überlassung solcher Grundstücke mit der jeweils
+zuständigen Behörde vorher ins Benehmen zu setzen.
 
 (2) Etwaige durch die Inanspruchnahme von Grundstücken entstehende
 Schäden werden nach den allgemeinen gesetzlichen Bestimmungen ersetzt.
@@ -177,5 +175,5 @@ Kraft.
 (2)
 
 (3) Mit der Ausführung dieses Gesetzes wird der
-Reichswirtschaftsminister              beauftragt.
+Reichswirtschaftsminister beauftragt.
 

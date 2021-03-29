@@ -69,20 +69,19 @@ Nennkapital oder die Geschäftsguthaben und die Geschäftsanteile in
 Deutscher Mark neu festzusetzen.
 
 (3) Für die Neufestsetzung gelten §§ 35 bis
-59,              62, 64 bis 72, 76, 80 des D-Markbilanzgesetzes
-sinngemäß. §§ 13 bis 18, 21 des Altbanken-Bilanz-Gesetzes sind nicht
-anzuwenden. Soweit in den in Satz 1 genannten Vorschriften auf die
-Eröffnungsbilanz Bezug genommen ist, tritt an deren Stelle die letzte
-Jahresbilanz vor der Sitzverlegung. Soweit auf die
-Reichsmarkschlußbilanz Bezug genommen ist, tritt bei Berliner
-Altbanken an deren Stelle die letzte Jahresbilanz vor dem 9. Mai 1945.
-Den Tag der Auflösung nach § 80 des D-Markbilanzgesetzes bestimmt das
-Gericht unter sinngemäßer Anwendung von § 2 Abs. 2 Satz 3 und 4 des
-D-Markbilanzergänzungsgesetzes. Für die Wirkung von Berichtigungen der
-Umstellungsrechnung gelten §§ 13, 14 der Zweiundvierzigsten
-Durchführungsverordnung zum Umstellungsgesetz, für die Wirkung von
-Berichtigungen der Altbankenrechnung gilt § 19 des Altbanken-Bilanz-
-Gesetzes.
+59, 62, 64 bis 72, 76, 80 des D-Markbilanzgesetzes sinngemäß. §§ 13
+bis 18, 21 des Altbanken-Bilanz-Gesetzes sind nicht anzuwenden. Soweit
+in den in Satz 1 genannten Vorschriften auf die Eröffnungsbilanz Bezug
+genommen ist, tritt an deren Stelle die letzte Jahresbilanz vor der
+Sitzverlegung. Soweit auf die Reichsmarkschlußbilanz Bezug genommen
+ist, tritt bei Berliner Altbanken an deren Stelle die letzte
+Jahresbilanz vor dem 9. Mai 1945. Den Tag der Auflösung nach § 80 des
+D-Markbilanzgesetzes bestimmt das Gericht unter sinngemäßer Anwendung
+von § 2 Abs. 2 Satz 3 und 4 des D-Markbilanzergänzungsgesetzes. Für
+die Wirkung von Berichtigungen der Umstellungsrechnung gelten §§ 13,
+14 der Zweiundvierzigsten Durchführungsverordnung zum
+Umstellungsgesetz, für die Wirkung von Berichtigungen der
+Altbankenrechnung gilt § 19 des Altbanken-Bilanz-Gesetzes.
 
 
 ## Zweiter Abschnitt - (weggefallen)

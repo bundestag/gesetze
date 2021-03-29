@@ -3,7 +3,7 @@ Title: Bekanntmachung über die Ausprägung von Bundesmünzen im Nennwert von 10
   Mark (Gedenkmünze Carl Zeiss)
 jurabk: Münz10DMBek 1988-10
 layout: default
-origslug: m_nz10dmbek_1988-10
+origslug: muenz10dmbek_1988-10
 slug: muenz10dmbek_1988-10
 
 ---

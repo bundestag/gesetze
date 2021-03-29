@@ -4,7 +4,7 @@ Title: Abkommen zur Änderung des Abkommens vom 5. Juli 1963 zwischen der Regier
   die Errichtung des deutsch-französischen Jugendwerks
 jurabk: DtFrJWAbkÄndAbk
 layout: default
-origslug: dtfrjwabk_ndabk
+origslug: dtfrjwabkaendabk
 slug: dtfrjwabkaendabk
 
 ---

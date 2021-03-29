@@ -310,8 +310,9 @@ so ist die Prüfung nicht bestanden.
 
 Diese Verordnung tritt am 1. August 2005 in Kraft.
 
+(zu § 5)
 
-## Anlage 1 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Sachliche Gliederung -
+## Anlage 1 Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Sachliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 889 - 892)
 
@@ -875,8 +876,9 @@ Diese Verordnung tritt am 1. August 2005 in Kraft.
 
 4\.2 I Kundenorientierte I a) im Kundengespräch sprachliche und
 
+(zu § 5)
 
-## Anlage 2 (zu § 5) Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Zeitliche Gliederung -
+## Anlage 2 Ausbildungsrahmenplan für die Berufsausbildung zum Servicefahrer/ zur Servicefahrerin - Zeitliche Gliederung -
 
 (Fundstelle: BGBl. I 2005, 893 - 894)
 

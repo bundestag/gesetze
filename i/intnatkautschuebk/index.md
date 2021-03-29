@@ -2,7 +2,7 @@
 Title: Internationales Naturkautschuk-Übereinkommen von 1979
 jurabk: IntNatKautschÜbk
 layout: default
-origslug: intnatkautsch_bk
+origslug: intnatkautschuebk
 slug: intnatkautschuebk
 
 ---

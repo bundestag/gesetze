@@ -62,10 +62,10 @@ Auf Grund
 –   des § 150 Nr. 1 Buchstabe d und des § 178 Satz 1 des Gesetzes über das
     Branntweinmonopol in der im Bundesgesetzblatt Teil III,
     Gliederungsnummer
-    612-7,                    veröffentlichten bereinigten Fassung in
-    Verbindung mit Artikel 129 des Grundgesetzes, von denen § 150 Nr. 1
-    zuletzt durch Artikel 3 Nr. 15 Buchstabe a des Gesetzes vom 16. August
-    2001 (BGBl. I S. 2081) neu gefasst worden ist, und
+    612-7, veröffentlichten bereinigten Fassung in Verbindung mit Artikel
+    129 des Grundgesetzes, von denen § 150 Nr. 1 zuletzt durch Artikel 3
+    Nr. 15 Buchstabe a des Gesetzes vom 16. August 2001 (BGBl. I S. 2081)
+    neu gefasst worden ist, und
 
 
 –   des § 66 Abs. 1 Nr. 19 des Energiesteuergesetzes vom 15. Juli 2006

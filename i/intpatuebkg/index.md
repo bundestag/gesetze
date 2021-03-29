@@ -5,7 +5,7 @@ Title: Gesetz zu dem Übereinkommen vom 27. November 1963 zur Vereinheitlichung 
   dem Übereinkommen vom 5. Oktober 1973 über die Erteilung europäischer Patente
 jurabk: IntPatÜbkG
 layout: default
-origslug: intpat_bkg
+origslug: intpatuebkg
 slug: intpatuebkg
 
 ---
@@ -19,7 +19,7 @@ Fundstelle
 :   BGBl II: 1976, 649
 
 Zuletzt geändert durch
-:   Art. 8a G v. 7.7.2008 I 1191
+:   Art. 3 G v. 17.7.2017 I 2541
 
 
 ## Eingangsformel
@@ -86,16 +86,30 @@ Patentübereinkommens bleibt unberührt.
 (1) Das Deutsche Patent- und Markenamt veröffentlicht auf Antrag des
 Anmelders die nach § 1 Abs. 2 eingereichte Übersetzung.
 
-(2) Der Bundesminister der Justiz wird ermächtigt, durch
-Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen über die
-sonstigen Erfordernisse für die Veröffentlichung zu erlassen. Er kann
-diese Ermächtigung durch Rechtsverordnung ohne Zustimmung des
-Bundesrates auf das Deutsche Patent- und Markenamt übertragen.
+(2) Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+Bestimmungen über die sonstigen Erfordernisse für die Veröffentlichung
+zu erlassen. Es kann diese Ermächtigung durch Rechtsverordnung ohne
+Zustimmung des Bundesrates auf das Deutsche Patent- und Markenamt
+übertragen.
 
 
-## § 3
+## § 3 Übermittlung von Informationen
 
-(weggefallen)
+Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten
+Verfahren dem Europäischen Patentamt die für die Erfüllung von dessen
+Aufgaben in Verfahren nach dem Vierten und dem Zehnten Teil des
+Europäischen Patentübereinkommens erforderlichen Informationen
+einschließlich personenbezogener Daten elektronisch oder in anderer
+Form übermitteln. Die Übermittlung ist ausgeschlossen, soweit eine
+Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse
+der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung
+(EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April
+2016 zum Schutz natürlicher Personen bei der Verarbeitung
+personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der
+Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom
+4\.5.2016, S. 1; L 314 vom 22.11.2016, S. 72) in der jeweils geltenden
+Fassung offensichtlich überwiegt.
 
 
 ## § 4 Einreichung europäischer Patentanmeldungen beim Deutschen Patent- und Markenamt
@@ -225,11 +239,18 @@ Patent.
 
 ## § 7 Jahresgebühren
 
-Für das mit Wirkung für die Bundesrepublik Deutschland erteilte
+(1) Für das mit Wirkung für die Bundesrepublik Deutschland erteilte
 europäische Patent sind Jahresgebühren nach § 17 des Patentgesetzes zu
 entrichten. Sie werden jedoch erst für die Jahre geschuldet, die dem
 Jahr folgen, in dem der Hinweis auf die Erteilung des europäischen
 Patents im Europäischen Patentblatt bekanntgemacht worden ist.
+
+(2) Hebt die Große Beschwerdekammer des Europäischen Patentamts nach
+Artikel 112a des Europäischen Patentübereinkommens die Entscheidung
+einer Beschwerdekammer auf, mit der ein europäisches Patent widerrufen
+wurde, werden Jahresgebühren für den Zeitraum zwischen Widerruf des
+Patents und Aufhebung dieser Entscheidung erst mit dem Tag der
+Zustellung der Entscheidung der Großen Beschwerdekammer fällig.
 
 
 ## § 8 Verbot des Doppelschutzes
@@ -301,10 +322,11 @@ Europäische Patentamt seinen Sitz hat.
 
 ## § 11 Zentrale Behörde für Rechtshilfeersuchen
 
-Der Bundesminister der Justiz wird ermächtigt, durch Rechtsverordnung
-ohne Zustimmung des Bundesrates eine Bundesbehörde als zentrale
-Behörde für die Entgegennahme und Weiterleitung der vom Europäischen
-Patentamt ausgehenden Rechtshilfeersuchen zu bestimmen.
+Das Bundesministerium der Justiz und für Verbraucherschutz wird
+ermächtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates
+eine Bundesbehörde als zentrale Behörde für die Entgegennahme und
+Weiterleitung der vom Europäischen Patentamt ausgehenden
+Rechtshilfeersuchen zu bestimmen.
 
 
 ## § 12 Entzug des Geschäftssitzes eines zugelassenen Vertreters
@@ -410,15 +432,36 @@ Anmeldung die Erteilung eines europäischen Patents beantragt hat.
 (2) Ist das Deutsche Patent- und Markenamt Bestimmungsamt, so hat der
 Anmelder innerhalb der in Artikel 22 Abs. 1 des
 Patentzusammenarbeitsvertrags vorgesehenen Frist die Gebühr nach dem
-Patentkostengesetz für das Anmeldeverfahren nach § 34 des
-Patentgesetzes und, wenn ein Gebrauchsmuster beantragt worden ist,
-nach § 4 des Gebrauchsmustergesetzes zu entrichten sowie, sofern die
-internationale Anmeldung nicht in deutscher Sprache eingereicht worden
-ist, eine Übersetzung der Anmeldung in deutscher Sprache einzureichen.
-Ist das Deutsche Patent- und Markenamt auch Anmeldeamt, so gilt die
-Anmeldegebühr mit der Zahlung der Übermittlungsgebühr als entrichtet.
+Patentkostengesetz für das Anmeldeverfahren zu entrichten sowie,
+sofern die internationale Anmeldung nicht in deutscher Sprache
+eingereicht worden ist, eine Übersetzung der Anmeldung in deutscher
+Sprache einzureichen. Ist das Deutsche Patent- und Markenamt auch
+Anmeldeamt, so gilt die Anmeldegebühr mit der Zahlung der
+Übermittlungsgebühr als entrichtet.
 
-(3) Wird für die internationale Anmeldung die Priorität einer beim
+(3) Zur Wahrung der in Artikel 22 Absatz 1 des
+Patentzusammenarbeitsvertrags vorgesehenen Frist hat der Anmelder
+eines Patents die Gebühr zu entrichten, die sich nach dem
+Patentkostengesetz für die ursprünglich eingereichte Fassung der
+internationalen Anmeldung ergibt. Sind die Ansprüche der
+internationalen Anmeldung im Verfahren vor dem Internationalen Büro
+geändert worden und ergibt sich dadurch eine höhere Gebühr nach dem
+Patentkostengesetz, so wird der Unterschiedsbetrag fällig
+
+1.  mit Ablauf der in Artikel 22 Absatz 1 des
+    Patentzusammenarbeitsvertrags bestimmten Frist oder
+
+
+2.  mit Einreichung eines Antrags auf vorzeitige Bearbeitung nach Artikel
+    23 Absatz 2 des Patentzusammenarbeitsvertrags.
+
+
+
+Wird der Unterschiedsbetrag nicht innerhalb von drei Monaten ab
+Fälligkeit gezahlt, so wird die Änderung der Ansprüche nicht
+berücksichtigt.
+
+(4) Wird für die internationale Anmeldung die Priorität einer beim
 Deutschen Patent- und Markenamt eingereichten früheren Patent- oder
 Gebrauchsmusteranmeldung beansprucht, so gilt diese abweichend von §
 40 Abs. 5 des Patentgesetzes oder § 6 Abs. 1 des
@@ -508,7 +551,7 @@ Technik nach § 3 Abs. 2 des Patentgesetzes, wenn die in § 4 Abs. 2
 genannten Voraussetzungen erfüllt sind.
 
 
-## Art IV bis VI -
+## Art IV bis VI - 
 
 
 
@@ -520,7 +563,7 @@ dieses Gesetzes sind § 28 der Patentanwaltsordnung und § 28 der
 Bundesrechtsanwaltsordnung nicht anzuwenden.
 
 
-## Art VIII u. IX -
+## Art VIII u. IX - 
 
 
 
